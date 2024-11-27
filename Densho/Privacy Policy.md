@@ -190,7 +190,7 @@ Last Name
 
 Email
 
-Comments
+Name
 
 This field is for validation purposes and should be left unchanged.
 
@@ -212,3 +212,10 @@ This field is for validation purposes and should be left unchanged.
 * [](https://www.linkedin.com/company/densho/)
 
 Copyright © 2024 Densho
+
+Triple your impact on GivingTuesday!
+
+Your donation now through on December 3rd will be TRIPLED thanks to a matching grant.  
+[![](https://densho.org/wp-content/uploads/2023/05/Button-1-150x50.png)](https://densho.org/givingtuesday/)
+
+x
