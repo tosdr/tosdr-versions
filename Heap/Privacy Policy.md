@@ -112,7 +112,7 @@ This page gives you access to relevant information regarding our approach to pri
 
 Categories
 
-* [Trust Center](https://heap.io/trust-center)
+* [Trust Portal](https://heap.io/trust-center)
 * [Sub-Processors List](https://heap.io/sub-processors)
 * [Privacy Policy](https://heap.io/privacy)
 * [Cookie Policy](https://heap.io/cookies)
