@@ -31,985 +31,1025 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Controles de exceso de velocidad en Quito este miércoles 27 de noviembre
+Avances y críticas en las obras de la av. De los Shyris, Alameda y Colón
 ========================================================================
 
-Estos son los horarios y los puntos donde se realizarán los controles preventivos de velocidad en Quito. Estos no tendrán sanciones
------------------------------------------------------------------------------------------------------------------------------------
+El Municipio de Quito realiza trabajos de rehabilitación en varios puntos de la ciudad antes de terminar el 2024.
+-----------------------------------------------------------------------------------------------------------------
 
-![Dos operativos de control de exceso de velocidad se harán este miércoles 27 de noviembre.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-31-1.jpg)
+![La inauguración del bulevar está prevista para inicios de diciembre.](https://www.elcomercio.com/wp-content/uploads/2024/11/Bulevar-1.jpg)
 
-La **Agencia Metropolitana de Tránsito** (AMT) informó sobre la reanudación de los **controles preventivos** de velocidad que se realizarán en las calles de Quito.
+En **Quito** se desarrollan tres **proyectos urbanos** que transforman espacios emblemáticos: el bulevar De **los** **Shyris**, la rehabilitación del parque **La Alameda** y el **Sendero** **Seguro** de la avenida **Colón**[.](https://es.wikipedia.org/wiki/Obra_p%C3%BAblica "https://es.wikipedia.org/wiki/Obra_p%C3%BAblica")
 
-### Más noticias
-
-* [Así funciona el Pico y placa en Quito este miércoles 27 de noviembre](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-en-quito-este-miercoles-27-de-noviembre.html "Así funciona el Pico y placa en Quito este miércoles 27 de noviembre")
-* [La Mascarada Nocturna será el jueves 28 de noviembre; estos son los cierres viales](https://www.elcomercio.com/actualidad/quito/mascarada-nocturna-jueves-28-de-noviembre-cierres-viales.html "La Mascarada Nocturna será el jueves 28 de noviembre; estos son los cierres viales")
-* [Cierres viales por las fiestas de Quito del 26 al 30 de noviembre](https://www.elcomercio.com/actualidad/quito/fiestas-quito-cierres-viales-amt.html "Cierres viales por las fiestas de Quito del 26 al 30 de noviembre")
-
-Operativos se reanudan tras suspensión
---------------------------------------
-
-La Agencia Metropolitana de Tránsito (AMT) realizó **controles de exceso de velocidad en Quito** hasta el mes de septiembre en algunas vías de Quito. Estos operativos de control de exceso de velocidad tienen el objetivo de **reducir los siniestros de tránsito y salvar vidas**.
-
-La AMT ejecutó el último **operativo preventivo de control de velocidad** el martes 24 de septiembre en la av. Simón Bolívar, una de las vías que más [siniestros](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito") registra.
-
-El mismo 24 de septiembre, la **Agencia de Tránsito** informó que, en la coyuntura de los cortes de luz que se realizan en Quito, se decidió **suspender de forma temporal los operativos**. Tanto los controles preventivos como los sancionatorios se detuvieron desde esa última semana de septiembre.
-
-Esta decisión se tomó como un **esfuerzo para realizar una mejor gestión del tránsito** vehicular durante los apagones. De ese modo, **todo el contingente de la AMT** está concentrado en asistir a la ciudadanía en los principales cruces cuando los semáforos se quedan sin luz.
-
-La **AMT además destina** a su personal para la **atención de emergencias** como los incendios que se registraron en Quito los últimos días de septiembre. Así como las complicaciones causadas por las lluvias en el mes de octubre.
-
-Operativos de control de velocidad se reanudan
-----------------------------------------------
-
-La AMT informó que, debido a que las **horas de cortes de luz** se redujeron, se retomará la realización de los **controles preventivos de velocidad.**
-
-Así mismo, los agentes podrán retomar la ejecución de los **controles de alcotest,** placas y que no circulen dos hombres en moto.
-
-Los **controles preventivos de velocidad** se retomarán nuevamente en Quito y se harán de manera periódica. Los primeros se harán durante todos los días de esta semana.
-
-Dos controles de velocidad se realizaron la mañana del **martes 26 de noviembre**. Uno de ellos se realizó en Guajaló (mañana) y el otro en la av. Panamericana (tarde).
-
-Para este miércoles 27 de noviembre están previstos dos controles preventivos de exceso velocidad en los siguientes puntos y horas:
-
-* De 09:00 a 10:00, **av. Mariscal Sucre y Mariana de Jesús,** sentido norte-sur
-* De 16:00 a 17:00, **av. Mariscal Sucre y La Maná,** sentido sur-norte
-
-Estos operativos son preventivos, es decir, loa **agentes de tránsito no impondrán sanciones** a los conductores que excedan los límites [permitidos de velocidad](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
-
-Próximos operativos
--------------------
-
-* **Jueves 28 de noviembre:**
-    * De 10:30 a 11:30, av. Simón Bolívar, sector Santa Rosa, sentido sur-norte
-    * De 14:00 a 15:00, av. Velasco Ibarra, mirador, sentido sur-norte
-* **Viernes 29 de noviembre:**
-    * De 10:00 a 11:00, av. Mariscal Sucre y Fernández Salvador, sentido sur-norte
-    * De 14:30 a 15:30, av. Simón Bolívar, sector Santa Rosa, sentido sur-norte
-* **Lunes 2 de diciembre:**
-    * De 10:30 a 11:30, av. Simón Bolívar, sector Más Gas, sentido sur-norte
-    * De 14:30 a 15:30, av. De los Shyris y Portugal, sentido norte-sur
-* **Martes 3 de diciembre:**
-    * De 07:00 a 08:00, av. Tnt. Hugo Ortiz, sentido sur-norte
-    * De 15:00 a 16:00, av. Simón Bolívar, sector La Pampa, sentido norte-sur
-
-Así funciona el Pico y placa en Quito este miércoles 27 de noviembre
-====================================================================
-
-Cuatro contraflujos se realizan en Quito como medidas simultáneas para controlar el flujo vehicular, además del Pico y placa
-----------------------------------------------------------------------------------------------------------------------------
-
-![La medida Pico y placa se aplica en Quito de lunes a viernes.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-2024-11-26T143751.355.jpg)
-
-El **Municipio de Quito** implementó la medida de **Pico y placa en Quito** para controlar el flujo vehicular dentro de la ciudad.
-
-### Más noticias
-
-* [Cierres viales por las fiestas de Quito del 26 al 30 de noviembre](https://www.elcomercio.com/actualidad/quito/fiestas-quito-cierres-viales-amt.html "Cierres viales por las fiestas de Quito del 26 al 30 de noviembre")
-* [Controles de exceso de velocidad se reanudan en Quito este martes 26 de noviembre](https://www.elcomercio.com/actualidad/quito/controles-exceso-velocidad-se-reanudan-quito-martes-26-noviembre.html "Controles de exceso de velocidad se reanudan en Quito este martes 26 de noviembre")
-* [La Mascarada Nocturna será el jueves 28 de noviembre; estos son los cierres viales](https://www.elcomercio.com/actualidad/quito/mascarada-nocturna-jueves-28-de-noviembre-cierres-viales.html "La Mascarada Nocturna será el jueves 28 de noviembre; estos son los cierres viales")
-
-¿Cómo funciona el Pico y placa?
--------------------------------
-
-La medida del **Pico y placa** incluye a todos los vehículos y motos del Distrito Metropolitano, a excepción de los conducidos por personas de la tercera edad o con discapacidad.
-
-La restricción vehicular **Pico y placa en Quito** se aplica cinco días a la semana, de **lunes a viernes**, de 06:00 a 09:30 y de **16:00 a 20:00**.
-
-Este **miércoles,** no pueden circular los autos con **placas terminadas en dígitos 5 y 6.**
-
-Contraflujos y Pico y placa en Quito
-------------------------------------
-
-Como medida adicional **al Pico y placa**, para que el tránsito tenga mayor fluidez en horas pico, la Agencia Metropolitana de Tránsito (AMT) también aplica **cuatro contraflujos en Quito**, estos son:
-
-–**Avenida Mariscal Sucre:** desde el cementerio de San Diego hasta la avenida Universitaria.
-
-Mañana: 06:30 a 07:00 y de 07:30 a 08:00
-
-Tarde: 16:30 a 17:00 y 17:30 a 18:00
-
-–**Autopista General Rumiñahui:** desde la av. Pichincha, en El Trébol, hasta el sector de Cuscungo, en la autopista.
-
-Mañana: 06:30 a 07:30 y de 08:00 a 08:30
-
-Tarde: 16:30 a 19:30
-
-–**Avenida Velasco Ibarra** (Oriental): en la mañana desde la avenida Napo hasta la av. Velasco Ibarra (La Tola). En la tarde, desde el coliseo Rumiñahui hasta La Tola.
-
-Mañana: 06:00 a 08:30
-
-Tarde: 17:00 a 19:00
-
-– **Túnel Guayasamín:** desde la av. Guayasamín y av. Simón Bolívar hasta la av. 6 de Diciembre y av. Oswaldo Guayasamín y viceversa en la tarde.
-
-Mañana: 07:00 a 08:30
-
-Tarde: de 16:00 a 19:30
-
-Mantente atento a estos contraflujos y a los **horarios de Pico y placa** en Quito y [evita sanciones.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
-
-> 📢 [#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Ponte pilas!  
-> ⏰ Conoce los horarios y los tramos de los contraflujos que hay en la ciudad.  
->   
-> 👮‍♂️ Conduce con precaución, respeta las normas y llega seguro a tu destino.  
->   
-> 🤝 Juntos llegamos sin contratiempos.  
->   
-> ☀️[#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/nfehiI0uUO](https://t.co/nfehiI0uUO)
-> 
-> — AMTQuito (@AMT\_Quito) [October 22, 2024](https://twitter.com/AMT_Quito/status/1848669582912897155?ref_src=twsrc%5Etfw)
-
-La sentencia en el caso Metástasis es un hito
-=============================================
-
-La sentencia del caso Metástasis marca un antes y un después en la Justicia de Ecuador.
----------------------------------------------------------------------------------------
-
-![Imagen creada con inteligencia artificial con el prompt: un juez dicta sentencia.](https://www.elcomercio.com/wp-content/uploads/2024/11/Untitled-design-20.jpg)
-
-El caso Metástasis, que estremeció al Ecuador por sus intrincadas **redes de corrupción y delincuencia** organizada, alcanzó un desenlace significativo el pasado lunes 25 de noviembre de 2024. Tras un **proceso judicial** que se extendió por 28 días y acumuló cientos de horas de análisis probatorio, el Tribunal de la **Corte Nacional de Justicia** emitió sentencias que oscilan entre 3 y 10 años para 20 procesados, incluido el expresidente del Consejo de la Judicatura, Wilman T[.](https://es.wikipedia.org/wiki/Caso_Met%C3%A1stasis "https://es.wikipedia.org/wiki/Caso_Met%C3%A1stasis")
-
-Este fallo no solo marca un **punto de inflexión** en la lucha contra el crimen organizado, sino que también plantea preguntas urgentes sobre la integridad de nuestras instituciones.
-
-> No basta con aplaudir el trabajo realizado por los jueces y fiscales; es imprescindible exigir que los procesos de apelación se realicen con la misma rigurosidad y transparencia. También es crucial reflexionar sobre las reformas estructurales necesarias para evitar que casos como Metástasis se repitan.
-
-La complejidad de este caso es indiscutible. La **Fiscalía** presentó un arsenal de pruebas que incluyeron chats recuperados de la aplicación Threema, donde se evidenciaron actos como la **compra de exámenes** judiciales, pagos de **sobornos** y el uso indebido de la justicia para beneficiar a poderosos **narcotraficantes**. Entre los nombres involucrados destacan figuras clave del sistema judicial y penitenciario, cuya participación no solo traicionó la **confianza pública**, sino que también permitió la consolidación de estructuras criminales que se escudaron tras la fachada de la legalidad.
-
-Lo que llama poderosamente la atención es cómo este caso expone un problema más profundo: la **fragilidad de las instituciones** frente a las influencias del crimen organizado. La jueza Mercedes Caicedo, en su intervención, lo resumió de manera contundente: “No hay peor tiranía que la que se ejerce **a la sombra de las leyes** y bajo el calor de la justicia”. Esa sombra no solo ampara a quienes buscan lucrar ilegalmente, sino que también erosiona el pilar fundamental de cualquier democracia: la confianza en el sistema judicial.
-
-Sin embargo, este veredicto no puede interpretarse como un **cierre definitivo**, sino como el inicio de un proceso más amplio. Las sentencias dictadas representan una victoria parcial, pero no garantizan que se **hayan desmantelado** por completo las redes de poder que permitieron estos delitos. Además, el **derecho a la apelación** asegura que los acusados agotarán todas las instancias legales disponibles, lo que prolongará el camino hacia una justicia definitiva.
-
-En este contexto, la **sociedad ecuatoriana** debe mantener una vigilancia activa. No basta con aplaudir el trabajo realizado por los **jueces y fiscales**; es imprescindible exigir que los procesos de apelación se realicen con la misma rigurosidad y transparencia. También es crucial reflexionar sobre las reformas estructurales necesarias para evitar que casos como **Metástasis** se repitan.
-
-El caso [Metástasis](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-jueza-confirma-delincuencia-organizada-se-espera-sentencia.html "https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-jueza-confirma-delincuencia-organizada-se-espera-sentencia.html") es un espejo que refleja tanto los aciertos como las **deficiencias del sistema judicial** ecuatoriano. Su desenlace plantea un desafío colectivo: fortalecer las instituciones, garantizar la independencia judicial y construir un país donde la justicia no sea una **promesa vacía**, sino una realidad tangible.
-
-Adanismo populista
-==================
-
-El adanismo populista concentra poder, deslegitima el pasado y suprime disidencias bajo líderes autoritarios.
--------------------------------------------------------------------------------------------------------------
-
-![Ramiro Rivera Molina, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Ramiro-Rivera-Molina.jpg)
-
-Si recurrimos a la **Real Academia Española** (RAE), dice del _adanismo_: «_Hábito de comenzar una actividad cualquiera como si nadie hubiera ejercido anteriormente_».  En su **dimensión etimológica,** constituye el inicio y el origen. Antes de Adán nada existe. Ni hechos ni historia.  Es lo recién aparecido. La jactancia de ser los únicos. Los primeros en pensar y hacer algo por los demás. El **adanismo** es uno de los síndromes del populismo egocentrista, **paternalista**, **arrogante, infalible, exaltado, narcisista**, teatral.
-
-El síntoma es el espíritu refundacional. No reconocen la existencia de un **poder constituido**, aunque corroído por el desgaste de la representación, la desconfianza o la pérdida de **legitimidad**. Acceden al poder por la **constitución**, pero no juramentan respetarla. Se empeñan en los **procesos constituyentes** con plenos poderes. Parten de la nada. Satanizan al pasado. Todo es prehistoria. El **adanismo populista** reescribe su historieta trágica, beligerante y mesiánica. Colonizan con el ideologismo unicolor. Se empeñan por la **hegemonía** absoluta.
-
-Exhiben una **visión dicotómica** de la **sociedad**. La dialéctica del **antagonismo** irreconciliable entre los buenos y malos, patriotas y traidores, ricos y pobres, amigos y enemigos. No hay espacio para las mediaciones y consensos. Se trata de abatir y aniquilar al enemigo. El soñado anhelo de acumular el **poder** absoluto, borrar la división de **poderes**, los **equilibrios** y balances. Concentrar y centralizar el poder. La totalidad lo conquista el **carismático** y amado líder, quien define todo.
-
-No caben mediaciones, ni **tejido social** y menos el institucional. Por eso incomoda la **libertad de expresión** y los medios de comunicación que son silenciados y estatizados. Las agrupaciones, partidos, gremios, **asociaciones**, instituciones; son sometidas a **vigilancia**, perseguidas y reducidas a la nada.  La única voz es la oficial. Impera el Estado de Propaganda. Se busca pintar todo con un solo color. La **homogeneidad**. La hegemonía despótica. Por eso, los populismos devienen en **autoritarios** y **totalitarios**.
-
-El caudillo es la **encarnación** del **pueblo**. El pueblo es él. Eliecer Gaitán decía: «_Yo no soy un hombre, yo soy un pueblo_». Algo parecido, lo ha repetido Hugo Chávez, Nicolás Maduro, Evo Morales, Daniel Ortega, AMLO o Rafael Correa.  Petulantes, jactanciosos, superiores y ególatras sin límite. Son los enviados de Dios y venerados como tal. Quienes disienten o contradicen son anunciados como los jinetes del apocalipsis: el principio del final. Las desgracias: hambre, guerra, peste y muerte. Es un imperativo evitar que el **adanismo populista**, mezclado con el **crimen organizado** y el narcotráfico, obtenga el poder.
-
-Cartas a Quito / 27 de noviembre de 2024
-========================================
-
-Estas son las cartas a Quito de este miércoles 27 de noviembre de 2024
-----------------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-Comparaciones idiotas
----------------------
-
-He leído con estupor que una persona adicta a un sector político ha lanzado una verdadera idiotez como comparación de situaciones. Ha dicho, en redes sociales, muy suelto de huesos, como respuesta a declaraciones del ministro de Gobierno sobre la suspensión de un servicio público (internet) es penado por la Ley, que entonces se debería penar la suspensión del servicio de energía eléctrica.
-
- Francamente, nunca llegué a imaginar, siquiera, que la rigidez mental, generada en el dogmatismo, llegara a tal nivel. Este señor, en su poca capacidad de razonamiento, no admite el concepto de fuerza mayor, y, es incapaz de poner el mismo razonamiento en lo que está ocurriendo con los racionamientos de agua que ha tenido que implementar el Municipio de Quito.
-
-Creo que es completamente idiota considerar como un delito tanto los racionamientos de agua potable, como los racionamientos de energía en una época como la que estamos enfrentando. Pero bueno, ya sabemos que el fanatismo y el dogmatismo funcionan así. Por eso es importante que la educación sea tal que enseñe a razonar, no como actualmente, que en la mayor parte de planteles, especialmente fiscales, se prioriza la memoria y no el razonamiento.
-
-Los que formaron su cerebro con los principios memoristas, son la presa más fácil para el dogmatismo y el fanatismo. Esto, obviamente, les conviene a aquellos partidos políticos que basan sus adhesiones en fidelidades obtusas y sumisas. La verdadera lucha la debemos enfocar en erradicar ese tipo de educación, impuesta por un partido político que domina gran parte de los planteles fiscales.
-
- José M. Jalil Haas
-
-Gran Bretaña alerta sobre propagación de tres virus en el mundo; uno incluye a Ecuador
-======================================================================================
-
-La agencia de salud británica Travel Health Pro alertó de tres virus que se expanden por el mundo a través de viajeros.
------------------------------------------------------------------------------------------------------------------------
-
-![Los virus pueden producir desde síntomas leves hasta graves complicaciones, en casos extremos](https://www.elcomercio.com/wp-content/uploads/2024/11/virus-ecuador-viajeros.jpg)
-
-La agencia de salud británica **Travel Health Pro** emitió una alerta sanitaria sobre **tres enfermedades emergentes** que representan riesgos significativos para los viajeros del mundo, **incluido Ecuador**.
-
-### Más noticias
-
-* [554 307 vacunas contra la influenza se aplicarán en Manabí y Santo Domingo de los Tsáchilas](https://www.elcomercio.com/actualidad/ecuador/dosis-vacunas-influenza-manabi-santo-domingo.html "554 307 vacunas contra la influenza se aplicarán en Manabí y Santo Domingo de los Tsáchilas")
-* [Consumir agua en exceso puede ser peligroso para la salud, advierten expertos](https://www.elcomercio.com/afull/consumir-agua-exceso-peligroso-salud-expertos.html "Consumir agua en exceso puede ser peligroso para la salud, advierten expertos")
-* [¡Ojo a la salud mental!](https://www.elcomercio.com/opinion/editorial/ojo-a-la-salud-mental.html "¡Ojo a la salud mental!")
-
-Las enfermedades con las que la entidad pide tomar precauciones son: el **virus de Oropouche**, el **virus de Marburgo** y el **mpox del clado I**. Estas enfermedades, aunque en distintos grados de propagación, comparten la necesidad urgente de atención global.
-
-Virus de Oropouche (OROV)
--------------------------
-
-El virus de Oropouche, una enfermedad transmitida por insectos infectados y ocasionalmente por mosquitos, está causando estragos en **América Latina y el Caribe**. Hasta octubre de 2024, se registraron **10 275 casos** confirmados, con **dos muertes** en Brasil.
-
-En Ecuador, también se han registrado casos reportados según la agencia de salud británica. Los países con brotes confirmados son: Brasil, Bolivia, Colombia, Cuba, República Dominicana, **Ecuador**, Guyana, Panamá y Perú.
-
-Los **síntomas** más comunes de esta enfermedad incluyen fiebre, dolor de cabeza y dolores musculares, pero en casos graves puede provocar meningitis o encefalitis. También preocupa su posible transmisión vertical (madre a hijo) y sexual, similar al **virus del Zika**[.](https://travelhealthpro.org.uk/news/788/oropouche-virus-disease-information-for-travellers-and-health-professionals "https://travelhealthpro.org.uk/news/788/oropouche-virus-disease-information-for-travellers-and-health-professionals")
-
-Virus de Marburgo
------------------
-
-La enfermedad por el **virus de Marburgo** (EVM) se considera grave y a menudo mortal. **La tasa media de letalidad de la EVM ronda el 50 %**, aunque en algunos países alcanza el 80 %.
-
-En 2024, **Ruanda** reportó su primer brote, con **58 casos y 13 muertes**. Este virus se propaga a través de fluidos corporales y afecta principalmente a trabajadores de la salud y contactos cercanos.
-
-Los síntomas iniciales incluyen fiebre alta, vómitos y diarrea, evolucionando rápidamente hacia hemorragias severas. Aunque su presencia en América Latina es **inexistente**, su aparición en áreas turísticas africanas eleva el riesgo de importación.
-
-Mpox del Clado I
+**Más noticias**
 ----------------
 
-Aunque inicialmente limitado a África Central, el **mpox del clado I**, una variante más severa de la viruela del mono, ha comenzado a expandirse geográficamente. Países como **Suecia, Tailandia y Alemania** han registrado casos vinculados a África, además de un caso en el Reino Unido.
+* [Obras de pavimentación del carril de la Ecovía causan nuevos cierres viales](https://www.elcomercio.com/actualidad/quito/obras-pavimentacion-carril-de-ecovia-causan-nuevos-cierres-viales.html "Obras de pavimentación del carril de la Ecovía causan nuevos cierres viales")
+* [Las obras en la av. Mariana de Jesús finalizan luego de 107 días](https://www.elcomercio.com/actualidad/quito/mariana-jesus-finaliza-rehabilitacion-107-dias.html "Las obras en la av. Mariana de Jesús finalizan luego de 107 días")
+* [Gobierno destinó cuatro millones de dólares para obras en cinco GAD](https://www.elcomercio.com/actualidad/ecuador/gobierno-destino-cuatro-millones-de-dolares-obras-gad.html "Gobierno destinó cuatro millones de dólares para obras en cinco GAD")
 
-Este virus, que afecta principalmente a personas con **bajas defensas**, se presenta con fiebre, erupciones cutáneas y dolor muscular. En comparación con el clado II, tiene una mayor tasa de complicaciones y mortalidad.
+Estas iniciativas, a cargo de la Empresa Metropolitana de Movilidad y Obras Públicas (Epmmop), buscan mejorar la movilidad, revitalizar espacios públicos y promover una ciudad más sostenible.
 
-Recomendaciones para viajeros
------------------------------
+Sin embargo, los presupuestos y enfoques generan tanto expectativas como críticas entre los ciudadanos.
 
-* Utiliza repelente y ropa protectora.
-* Mayor vigilancia y cuidado para mujeres embarazadas.
-* Consulta con el médico si presentas síntomas tras viajar a zonas de riesgo.
-* Evita el contacto con pacientes infectados.
-* Realiza monitores de salud tras viajes a las zonas afectadas.
-* Vacúnate si eres parte de grupos de salud vulnerables.
-* Aislamiento de casos sospechosos y confirmados.
-* Refuerza tus medidas higiénicas y sanitarias
-
-Fiestas de Quito, ¿cuál plato define a la quiteñidad?
-=====================================================
-
-La tradición culinaria quiteña se manifiesta en diferentes preparaciones que se han desplazado por el país.
------------------------------------------------------------------------------------------------------------
-
-![El locro de papa es destacado como el plato de Quito y de Pichincha por excelencia para el Ministerio de Turismo, en el Mapa Gastronómico del Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-92.jpg)
-
-En las fiestas de **Quito**, el sentido del gusto ocupa un lugar fundamental. En los bailes populares, hay dos aromas que se imponen: la **carne en palito** y los **canelazos**. Sin embargo, es complejo hablar de una **gastronomía de Quito,** aunque hay platos cuyo origen se puede sostener como de estas tierras. Uno de ellos es el **locro de papa,** pero hay otros que también se destacan.
-
-### Más noticias
-
-* [El Quitofest reunirá a tres bandas nacionales luego de 12 años](https://www.elcomercio.com/tendencias/entretenimiento/quitofest-bandas-debutantes-antiguas-quito-2024-rock.html "El Quitofest reunirá a tres bandas nacionales luego de 12 años")
-* [La seguridad y la movilidad son el reto para las fiestas de Quito; ¿hay un plan?](https://www.elcomercio.com/actualidad/quito/fiestas-quito-movilidad-seguridad-agenda.html "La seguridad y la movilidad son el reto para las fiestas de Quito; ¿hay un plan?")
-* [Desfile de la Confraternidad Norte en Quito no se hará en la Av. De los Shyris](https://www.elcomercio.com/actualidad/quito/desfile-confraternidad-norte-shyris-fiestas-quito.html "Desfile de la Confraternidad Norte en Quito no se hará en la Av. De los Shyris")
-
-El locro de papa, el más destacado
-----------------------------------
-
-El chef **Juan Sebastián Gallardo,** de **Zero Lab by Uniandes**, afirma que es complejo hablar de la gastronomía de Quito, “especialmente si consideramos que sus raíces se remontan a más de **10 000 años,** como lo demuestran los hallazgos arqueológicos del Ilaló”.
-
-Quizá por eso mismo es que el **locro de papa** sea el más destacado en la cocina quiteña. Según el mismo Gallardo, recientemente condecorado por la Asamblea Nacional con el galardón Vicente Rocafuerte al Mérito Profesional, el término original es “**lokru**“.
-
-Era algo distinto a lo que conocemos ahora. “Era una receta sencilla: se cocinaban papas peladas (pues con cáscara se oxidaban, lo que daba lugar a una colada negra) en agua calentada sobre la tullpa, un fogón de piedra. A esta preparación se le añadían hierbas del monte, como el paico o albahaca andina, que conferían un aroma y sabor inconfundible a campo. Luego, con **la presencia española, se le añadieron la leche y el queso de vaca.**
-
-Para el mapa gastronómico que elaboró el Ministerio de Turismo, en el 2018, el locro es el plato que se distingue en la provincia de Pichincha y, por ende, a Quito[.](https://es.wikipedia.org/wiki/Provincia_de_Pichincha "https://es.wikipedia.org/wiki/Provincia_de_Pichincha") 
-
-Papas con cuero
----------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-95-1024x683.jpg)
-
-Las **papas con cuero** es, para el poeta Julio Pazos, un plato propiamente quiteño. Este plato tiene, como ocurre en muchas de las comidas “nacionales”, un origen en el descarte, como la feijoada brasileña. 
-
-Ocurre que los españoles **desechaban el cuero del cerdo**. Los **indígenas lo asimilaron** y lo incorporaron a los platos que elaboraban con las papas. En tiempos prehispánicos, había alrededor de 500 variedades de papas en lo que hoy es Ecuador.
-
-Mote con cosas finas es de Quito
---------------------------------
-
-Si bien el mote se identifica con la cocina cuencana, en Quito también tiene su particularidad. También Julio Pazos, un estudioso de la cocina ecuatoriana, sostiene que en Quito hubo una invención: usar este grano con las “cosas fina”.
-
-Las cosas finas pueden tener picadillo de cebolla blanca, arveja amarilla, fréjol rojo, zanahoria y mapahuira.
-
-El taxo y sus varios usos
--------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-94-1024x683.jpg)
-
-Helado de taxo. Una interpretación del chef Juan Sebastián Gallardo.
-
-Para Gallardo, “la hermosa flor del taxo, una pasiflora endémica de los alrededores del volcán Pichincha, y su fruto son altamente apreciados en la gastronomía quiteña. Un clásico de Quito es el batido de taxo con leche, así como el helado de taxo y las compotas e incluso la mistela de taxo”.
-
-Además, sostiene el joven chef que en Quito los batidos de taxo se acompañan con una tostada de queso o una empanada de mejido.
-
-Los quiteños suelen combinar esta fruta en batidos que, tradicionalmente, se acompañan con una tostada de queso o quizás con una empanada de mejido. “Esto crea una mezcla perfecta de sabores que refleja la autenticidad de la cocina de la ciudad”.
-
-Los dulces tradicionales
-------------------------
-
-Si bien no se los puede considerar como platos, pero son parte de la tradición quiteña. Uno de ellos es la **mistela** y el otro las **colaciones**.
-
-Las **colaciones** son pequeños dulces elaborados con azúcar, limón, esencias y, en su interior, tienen **maní** o almendras.
-
-La mistela es una bebida que se prepara tradicionalmente con frutas, azúcar y aguardiente. Da también nombre a los delicados caramelos con centro líquido de güisqui, ron, canelazo, mojito y otras mezclas.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-96-1024x683.jpg)
-
-Las colaciones ya casi no se preparan en Quito. Foto: tomada del blog Cocina Ecuatoriana, de Daniel Robalino.
-
-Una bebida emblemática: el rosero
----------------------------------
-
-Pazos distingue dos tipos de rosero en el país. Si bien comenzó en Quito, también se lo hace en Gualaceo, provincia del Azuay.
-
-La diferencia es que el de Quito es más refinado y no se le echa almidón de achira, como en Gualaceo, para espesar.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-93-1024x683.jpg)
-
-Chef ecuatoriana gana nueva estrella Michelin
-=============================================
-
-La chef ecuatoriana ganó una estrella Michelin 2025.
+Construcción del bulevar de la avenida De los Shyris
 ----------------------------------------------------
 
-![Claudia Merchán, la chef ecuatoriana que gana una nueva estrella Michelin.](https://www.elcomercio.com/wp-content/uploads/2024/11/claudia-merchan-estrella-michelin-ecuador.jpg)
+El bulevar **De los Shyris** abarca 1,4 kilómetros entre las avenidas Naciones Unidas y Eloy Alfaro, con un presupuesto de **1 000 000** de dólares.
 
-La **chef ecuatoriana, Claudia Merchán**, ganó una nueva **estrella Michelin 2025**, este martes 26 de noviembre de 2024.
+El **proyecto** incluye 5.000 m² de áreas verdes, ciclorutas y camineras con accesibilidad universal, iluminación LED, además de un parque para mascotas.
 
-Merchán es oriunda de **Cuenca** y su restaurate Simpar, está ubicado en **Santiago de Compostela, España.**
+El **Municipio** busca transformar un espacio que anteriormente enfrentaba problemas de inseguridad e insalubridad.
 
-### Más noticias:
+Según la Epmmop, más de 100 000 personas se benefician directamente de esta intervención, que prioriza la **movilidad sostenible** y la mejora del **entorno urbano.**
 
-* [Manabí se postula como Región Mundial de la Gastronomía 2026](https://www.elcomercio.com/empresariales/manabi-se-postula-como-region-mundial-de-la-gastronomia-2026.html "Manabí se postula como Región Mundial de la Gastronomía 2026")
-* [Cinco chefs destacan la importancia de su profesión en el Día del Chef](https://www.elcomercio.com/tendencias/gastronomia/dia-internacional-chef-efemeride.html "Cinco chefs destacan la importancia de su profesión en el Día del Chef ")
+Sin embargo, las críticas no se han hecho esperar. Leonardo López cuestiona la utilidad del gasto: “Un millón de dólares solo para que se vea estéticamente mejor un tramo de la ciudad… habrá que ver el costo-beneficio”.
 
-Chef ecuatoriana y la nueva estrella Michelin
----------------------------------------------
+Gabriel Jaramillo señala que el diseño podría i**ncluir más vegetación**: “Hace falta verde, con árboles grandes que den sombra”.
 
-La cuencana expresó su emoción por el **reconocimiento** recibido en las redes sociales de su restaurante.
-
-“El **3 de agosto de 2023** abrimos las puertas de Simpar. Llenos de sueños y metas por cumplir, con una pasión desbordante, empujándonos para lograrlo”, inició su post en Instragram.
-
-Un año y cuatro meses después de la inauguración del restaurante, Merchán, junto a su equipo y sus clientes, consiguió lo que calificó como “**uno de los reconocimientos más especiales de la gastronomía**“.
-
-La chef ecuatoriana se refirió así a la **estrella Michelin**.
-
-“Gracias por creer en nosotros y por formar parte de este **sueño**“, agregó Merchán, junto a Áxel.
-
-Simpar es parte de los **32 nuevos restaurantes** que se incorporan a la Guía Michelin para este 2025, en España.
-
-Esta Guía es una lista de **recomendaciones gastronómicas** con una estrella en su puerta.
-
-Esta es la **segunda estrella Michelin** que logra una chef ecuatoriana con un restaurante en España.
-
-La primera fue la también cuencana, **Carolina Sánchez**, con su restaurante Ikaro.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DC2Lli-uPKn/?utm_source=ig_embed&utm_campaign=loading)
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DCzwbdbiwh4/?utm_source=ig_embed&utm_campaign=loading)
 > 
-> [Una publicación compartida por Restaurante Simpar (@restaurantesimpar)](https://www.instagram.com/reel/DC2Lli-uPKn/?utm_source=ig_embed&utm_campaign=loading)
+> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/reel/DCzwbdbiwh4/?utm_source=ig_embed&utm_campaign=loading)
 
-Esto dice la normativa sobre la circulación de tanqueros en la av. Simón Bolívar
-================================================================================
+Rehabilitación del parque La Alameda
+------------------------------------
 
-Un fatal choque se registró en la av. Simón Bolívar, el sábado 23 de noviembre. Un tanquero y otros dos autos estuvieron involucrados.
---------------------------------------------------------------------------------------------------------------------------------------
+El parque **La Alameda**, uno de los espacios más icónicos de **Quito**, registra un avance del 90 % en su rehabilitación.
 
-![Luego del siniestro en la av. Simón Bolívar, el tanquero explotó](https://www.elcomercio.com/wp-content/uploads/2024/11/quito-siniestro-simon-bolivar-tanquero-regulacion.jpg)
+Las obras abarcan 11.956 m², con limpieza y pintura de la laguna, reparación de camineras, trabajos de arborización y la **instalación de pérgolas**, casetas y luminarias LED.
 
-El fuerte choque que se registró en la **avenida Simón Bolívar**, el sábado 23 de noviembre, dejó como saldo una **persona fallecida** y otras tres con **quemaduras** y **politraumatismos**.
+El **Municipio** busca devolver el valor turístico y funcional del parque, que “estuvo en abandono durante más de 15 años”.
+
+La recuperación incluye el **traslado de peces** no nativos de la laguna a una reserva natural y el uso de productos especializados para garantizar la limpieza del agua.
+
+Mario Torres, vecino del sector, sugiere mayor atención al **mantenimiento a largo plazo**: “Es un buen inicio, pero deberían garantizar que el parque no vuelva a deteriorarse”.
+
+Por su parte, **Sofía Cárdenas** pide reforzar la seguridad en el lugar: “Es importante evitar que el espacio regrese al abandono”.
+
+Construcción del Sendero seguro en la avenida Colón
+---------------------------------------------------
+
+El Sendero seguro de la avenida **Colón** utiliza un presupuesto de USD 1 297 147 para mejorar las aceras, soterrar cables, instalar iluminación ornamental, arborizar y garantizar la **accesibilidad universal**.
+
+Las obras comenzaron el 8 de mayo de 2024 y según la Epmmop, “ya se está por terminar”.
+
+La **Epmmop** busca reducir la contaminación visual, mejorar la seguridad peatonal y transformar esta avenida en un **eje más accesible y moderno**.
+
+Carla Zambrano, estudiante de una universidad que está por el sector, opina sobre el proyecto: “Es una buena idea, pero 1.3 millones de dólares parecen excesivos para arreglar aceras”.
+
+Andrés Castillo, quien trabaja cerca del sector, considera que estas intervenciones no solucionan **problemas estructurales**: “La avenida **Colón** necesita más **seguridad vial** y soluciones para el tráfico”.
+
+Milei busca evitar que presos cambien de cárcel por asuntos de género
+=====================================================================
+
+El Mandatario citó a un preso que argumentó cambio de género para ser trasladado a una cárcel de mujeres y abusó de una de ellas
+--------------------------------------------------------------------------------------------------------------------------------
+
+![Fotografía del 20 de noviembre de 2024 del presidente de Argentina, Javier Milei, durante un acto en la Casa Rosada en Buenos Aires (Argentina).](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-40.jpg)
+
+El presidente argentino, **Javier Milei,** anunció que impulsará una iniciativa para prohibir que los presos y presas en el país puedan **solicitar un traslado a otra cárcel** por cuestiones de **identidad de género.**
 
 ### Más noticias
 
-* [Dos de los cuatro conductores afectados por el incendio de la Simón Bolívar tienen quemaduras](https://www.elcomercio.com/actualidad/quito/dos-de-los-cuatro-conductores-afectados-por-el-incendio-de-la-simon-bolivar-tienen-quemaduras.html "Dos de los cuatro conductores afectados por el incendio de la Simón Bolívar tienen quemaduras")
-* [Incendio de un tanquero deja un fallecido y tres heridos en la avenida Simón Bolívar](https://www.elcomercio.com/actualidad/quito/cierre-de-la-avenida-simon-bolivar-en-quito-debido-a-incendio-de-un-tanquero.html "Incendio de un tanquero deja un fallecido y tres heridos en la avenida Simón Bolívar")
-* [El perfil de víctima más susceptible en los siniestros de tránsito en Quito se afianza](https://www.elcomercio.com/actualidad/quito/siniestros-transito-quito-muerte-motociclistas.html "El perfil de víctima más susceptible en los siniestros de tránsito en Quito se afianza")
+* [Cristina Fernández exige a Milei la restitución de las pensiones](https://www.elcomercio.com/actualidad/mundo/cristina-fernandez-exige-a-milei-restitucion-de-las-pensiones.html "Cristina Fernández exige a Milei la restitución de las pensiones")
+* [Tras un año del triunfo, Javier Milei reafirma su estilo excéntrico](https://www.elcomercio.com/actualidad/mundo/tras-ano-triunfo-javier-milei-reafirma-estilo-excentrico.html "Tras un año del triunfo, Javier Milei reafirma su estilo excéntrico")
+* [Trump felicita a Milei por ‘hacer grande a Argentina nuevamente’ y recibe respuesta](https://www.elcomercio.com/actualidad/mundo/trump-felicita-a-milei-por-hacer-grande-a-argentina-respuesta.html "Trump felicita a Milei por ‘hacer grande a Argentina nuevamente’ y recibe respuesta")
 
-Los videos captados por las cámaras de seguridad de viviendas cercanas a la **Loma de Puengasí** mostraron cómo ocurrió el **trágico hecho**.
+La identidad de género como ‘paraguas’
+--------------------------------------
 
-El **conductor** que manejaba un **tanquero** perdió pista y se estrelló contra dos **automóviles livianos**. Producto de este choque se produjo una **explosión** que se extendió rápidamente a los **vehículos involucrados** y a las **laderas de vegetación** cercanas a la vía.
+“Los delincuentes no van a poder solicitar un cambio de penal bajo **el paraguas** de la identidad de género”, dijo el mandatario durante **una ceremonia con las fuerzas de seguridad** en la Casa Rosada.
 
-Los **afectados** resultaron con **graves quemaduras** en sus cuerpos y con **politraumatismos**. Según detalló **David Arguello**, coordinador de Operaciones de la **Agencia Metropolitana de Tránsito (AMT)**, el chofer del vehículo pesado tuvo **heridas** que le cubrieron el **36 % de su piel**[.](https://www.amt.gob.ec/ "https://www.amt.gob.ec/")
+Milei citó una serie de **casos recientes de presos** que apelaron a la Ley de Identidad de Género para solicitar el **traslado desde una cárcel de hombres a una de mujeres.**
 
-¿Tanquero podía circular por la av. Simón Bolívar el día del siniestro?
------------------------------------------------------------------------
+“Pretendían argumentar que, en realidad, eran mujeres, que debían estar en una cárcel de mujeres. Ya sea para **aprovechar de las mujeres reclusas** o para continuar con los negociados, desde condiciones más laxas”, señaló el Presidente. Milei mencionó como ejemplo el caso reciente del jefe de un grupo vinculado al narcotráfico.
 
-Según establece la **Ordenanza 147** del **Municipio de Quito**, sobre la **Reglamentación para la Circulación de Vehículos de Transporte de Carga** y **Transporte de Productos Químicos Peligrosos**, el **tanquero** sí podía circular por la **av. Simón Bolívar** el día que ocurrió el siniestro.
+“Solo en un país cuyos valores han sido profundamente trastocados puede permitirse semejante barbaridad”, agregó Milei. Y anticipó que **“esta estupidez se termina”** y que los sistemas penitenciarios provinciales que no adhieran a la medida estarán “premiando la creatividad de los criminales” y “faltando el respeto a las víctimas”.
 
-Esta norma precisa que los **vehículos pesados** que transportan productos **físico-químicos** que presentan un riesgo a la **salud** y al **medio ambiente** deben cumplir con una serie de **requisitos** para movilizarse por la ciudad.
+Presos no serán trasladados por seguridad
+-----------------------------------------
 
-Lo primero a tomar en cuenta son las **especificaciones del vehículo**. Existen restricciones para la circulación de vehículos, por ejemplo, que tengan una altura superior a **4,10 metros** o que no circulen por túneles superiores a 500 metros.
+El anuncio llega no solo a días de conocerse los pedidos de **traslado del líder** de un grupo vinculado al narcotráfico sino también poco después de difundirse otro caso.
 
-Clasificación de las calles de Quito
-------------------------------------
+Esta vez de **un preso** en una cárcel de Córdoba que **trasladaron a un pabellón de mujeres** tras argumentar un cambio de género. Luego del cambio, se lo acusó de haber abusado a una compañera de celda.
 
-La ordenanza otorga tres **clasificaciones** a las calles de **Quito**, según la **función operacional**: **red de paso (A)**, **red de accesos (B)** y **red de servicio local (C)**.
+Por otra parte, Milei expresó su **apoyo irrestricto a las fuerzas de seguridad**, que dijo “quedaron desamparadas por un Estado que se cansó de ningunearlas”.
 
-A decir por esta clasificación, la **av. Simón Bolívar** es parte de las calles de **paso** que se desarrollan como **vías significativas de tránsito**.
+“El Estado tiene que **proteger a las víctimas y castigar a los victimarios**, no proteger a los victimarios y castigar a las víctimas”, añadió. Además, enfatizó que **“los buenos son los de azul** (la Policía)” y “los malos son los [delincuentes](https://es.wikipedia.org/wiki/Javier_Milei "https://es.wikipedia.org/wiki/Javier_Milei")“.
 
-En esta vía, la circulación está permitida **todo el tiempo**, desde el **redondel de Nayón** hasta la **av. Morán Valverde**.
-
-Los **vehículos de transporte y carga** pueden movilizarse **sin restricciones**, de **lunes a domingo** y las **24 horas del día** por las calles de la **red de paso**, porque son rutas de **accesibilidad** a sectores **industriales**, de **bodega** y **comerciales**.
-
-Mientras que las calles de la **red de accesos**, áreas consolidadas al interior de la ciudad, y de **servicio local**, sectores residenciales, sí mantienen horarios de **restricción vehicular**.
-
-### Restricciones vehiculares
-
-* La **Red A** no tiene restricciones para ningún tipo de vehículo de carga, sean estos livianos, mediano o pesados.
-* La **Red B** tiene restricción para vehículos medianos y pesados. Únicamente se pueden movilizar de **09:30 a 16:00** y de **20:30 a 06:30**.
-* La **Red C** tiene una restricción similar a la Red B.
-* Finalmente, en el **Centro Histórico** de Quito no puede circular ningún tipo de vehículo de carga.
-
-Sin embargo, para aquellos vehículos que llevan materias u objetos **explosivos, venenosos, infecciosos o radioactivos**, la circulación está permitida solo de 20:30 a 06:30.
-
-Señalética y guía de embarque
------------------------------
-
-Esta libertad de movilidad aplica únicamente si los vehículos cumplen con otras **normas** que la **ordenanza** señala. Entre ellas, que los **autos de carga** lleven **señalética de seguridad legible** y la **identificación del tipo de material** que transportan.
-
-Este material puede ser: **explosivo**, **líquidos inflamables**, **sólidos inflamables**, **venenosos**, **radiactivos**, **corrosivos** o **misceláneos**.
-
-Asimismo, los **conductores** deben portar la respectiva **guía de embarque**, donde se detalle los **lugares de salida y entrada** de los productos, la **descripción de los materiales** y las **firmas de autorización**.
-
-Medidas en caso de sufrir siniestros
-------------------------------------
-
-La **ordenanza** también enfatiza en las medidas que deben cumplir los transportistas de carga para reducir los **daños** en siniestros.
-
-Para ello, se establece que la carga debe hacerse en **furgones, tanques o isotanques de seguridad** que sean capaces de **resistir siniestros** y que no derramen los **químicos**.
-
-Los **vehículos** deben contar con un **seguro obligatorio** que “ampare el vehículo y las **contingencias derivadas de la actividad** que incida sobre las personas, bienes públicos y privados, y el **medio ambiente**“.
-
-¿Quién responde por los daños causados el sábado?
--------------------------------------------------
-
-En casos como el ocurrido el **sábado 23 de noviembre**, según detalla esta normativa, **“el transportista y el propietario** responderán solidariamente por los daños que se puedan ocasionar**“.**
-
-**“**En caso de daños o fallas del vehículo en la ruta que pudieran deteriorar la salud y el bienestar de la población o la calidad del ambiente, tanto el transportista como el generador de la falla deberán mitigar el impacto causado, asumiendo los costos que ello represente**“,** puntualiza la **ordenanza**.
-
-Liga de Quito ya tiene fecha y hora para audiencia de apelación
-===============================================================
-
-Faltan pocos días para que termine el campeonato ecuatoriano y Liga de Quito aún espera una respuesta sobre su apelación.
--------------------------------------------------------------------------------------------------------------------------
-
-![Richard Mina en un partido con Liga de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-26T210606.077.jpg)
-
-**Liga de Quito** presentó una apelación el pasado sábado 23 de noviembre respecto a la sanción que le restó tres puntos en la Liga Pro. La audiencia ya tiene fecha y hora confirmadas.
-
-Después de una semana de incertidumbre sobre el futuro de la segunda etapa de la **Liga Pro**, todo parece indicar que las respuestas y dudas se resolverán antes de que comience la última jornada del campeonato ecuatoriano.
-
-### Más noticias:
-
-* [Liga Pro tomó una tajante decisión sobre Liga de Quito y su sanción](https://www.elcomercio.com/deportes/futbol/liga-pro-tomo-una-tajante-decision-sobre-liga-de-quito-y-su-sancion.html "Liga Pro tomó una tajante decisión sobre Liga de Quito y su sanción")
-* [Liga de Quito, a la espera de la resolución de su apelación](https://www.elcomercio.com/deportes/futbol/liga-de-quito-a-la-espera-de-la-resolucion-de-su-apelacion.html "Liga de Quito, a la espera de la resolución de su apelación")
-* [La Libertadores recibe a Liga de Quito, el único campeón ecuatoriano](https://www.elcomercio.com/deportes/futbol/liga-quito-copa-libertadores2025-redes.html "La Libertadores recibe a Liga de Quito, el único campeón ecuatoriano")
-
-¿Qué pasó con la apelación de Liga de Quito?
---------------------------------------------
-
-Según el periodista Andrés Villamarín, quien sigue de cerca el entorno de Liga de Quito, el club ya tiene confirmada la **fecha y hora de la audiencia de apelación**.
-
-Esta se realizará e**l jueves 28 de noviembre a las 17:00,** de forma virtual a través de Zoom.
-
-Villamarín también destacó que la **resolución será inmediata, considerando la cercanía del final del campeonato** y la importancia de los puntos en disputa, ya que dos equipos pelean por el título de la segunda etapa.
-
-Los albos mantienen vivas sus opciones de ganar la etapa
---------------------------------------------------------
-
-Con solo un partido por disputarse, la Liga Pro 2024 entra en su recta final. **La ‘U’ e Independiente del Valle lideran la segunda etapa con 29 puntos** cada uno, pero los “Rayados” ocupan la primera posición gracias a su mejor diferencia de goles (19 frente a 14).
-
-El escenario para la última jornada es claro: si Independiente del Valle gana, se proclamará campeón directo. Por otro lado, si **Liga de Quito** clasifica, se reeditará la final del año pasado, que terminó con triunfo para el “Rey de Copas”.
-
-Sin embargo, el desenlace también depende de la resolución de los tres puntos en disputa. Si se devuelve la sanción al ‘Rey de Copas’, los albos sumarían 32 puntos y les bastaría un empate en la última fecha para asegurar su lugar en la final.
-
-Último partido de Liga de Quito
--------------------------------
-
-En la última jornada del campeonato ecuatoriano, **Liga de Quito** recibirá a Deportivo Cuenca en el Estadio Rodrigo Paz Delgado, en un partido crucial para definir su clasificación a la final de la Liga Pro.
-
-El compromiso se **disputará a las 15:30** del domingo 1 de diciembre. A la misma hora, se jugará el cotejo entre Orense e I**ndependiente del Valle** en el Estadio 9 de Mayo.
-
-Lluvias en Cuenca la noche de este martes 26 de noviembre
-=========================================================
-
-Las lluvias en Cuenca incrementaron el caudal de uno de sus ríos, según Etapa.
-------------------------------------------------------------------------------
-
-![Las lluvias en Cuenca se registraron la noche de este martes.](https://www.elcomercio.com/wp-content/uploads/2024/11/lluvias-cuenca-1.jpg)
-
-Se registran fuertes **lluvias** en **Cuenca** la noche de este martes 26 de noviembre de 2024.
-
-Las lluvias incrementaron los **caudales de los ríos** en esta ciudad.
-
-### Más noticias:
-
-* [Inamhi prevé fuertes lluvias con tormentas en provincias de Sierra y Amazonía](https://www.elcomercio.com/actualidad/ecuador/inamhi-lluvias-fuertes-tormentas-amazonia.html "Inamhi prevé fuertes lluvias con tormentas en provincias de Sierra y Amazonía")
-* [Guardaparques y brigadistas celebran las lluvias por segundo día en El Cajas-Azuay](https://www.elcomercio.com/actualidad/ecuador/guardaparques-y-brigadistas-celebran-las-lluvias-por-segundo-dia-en-el-cajas-azuay.html "Guardaparques y brigadistas celebran las lluvias por segundo día en El Cajas-Azuay")
-
-Los efectos de las lluvias en Cuenca
-------------------------------------
-
-Este martes 26 de noviembre, Etapa EP informó que **ríos de Cuenca**: Tomebamba, Yanuncay, Tarqui y Machángara estaban en situación de estiaje.
-
-Esto, tras **137 días de sequía hidrológica** y con una probabilidad de lluvia de 75%, en el día, y 53%, en la noche.
-
-Desde las 18:14 de este martes, Etapa registró una alerta de lluvias en Cuenca y, en el **Parque Nacional Cajas**, lluvia acompañada de **granizo**.
-
-A las 18:56, ya se reportaban, inclusive, **inundaciones** en algunos sectores de la ciudad.
-
-Entre las zonas afectadas estaban el **Hospital Del Río**, y el Redondel de Gapal.
-
-Personal de Etapa coordinó acciones para atender las **emergencias**.
-
-Las lluvias también sirvieron para controlar o liquidar los **incendios** en Azuay.
-
-Los guardaparques de la Empresa que realizaban tareas de sofocación del incendio en la parroquia **Chaucha** también reportaron caída de lluvias en ese sector, desde la tarde.
-
-Pasadas las 20:00, se informó del incremento del caudal del **río Tomebamba** y se solicitó a la ciudadanía mantenerse alejada de las orillas, porque el caudal podría crecer “de manera repentina”.
-
-> Llueve [#Cuenca](https://twitter.com/hashtag/Cuenca?src=hash&ref_src=twsrc%5Etfw) | Así se observa el río Tomebamba a la altura del parque de La Madre.  
+> 🇦🇷 | ÚLTIMA HORA  
 >   
-> Su caudal empieza a aumentar. Solicitamos a la ciudadanía mantenerse alejada de las orillas.  
->   
-> Alertas notifique a la línea 188.[@czamoramatute](https://twitter.com/czamoramatute?ref_src=twsrc%5Etfw) [@maveronicapolo](https://twitter.com/maveronicapolo?ref_src=twsrc%5Etfw) [@MunicipioCuenca](https://twitter.com/MunicipioCuenca?ref_src=twsrc%5Etfw) [pic.twitter.com/VN7k8ymv0s](https://t.co/VN7k8ymv0s)
+> Javier Milei ([@JMilei](https://twitter.com/JMilei?ref_src=twsrc%5Etfw)) anuncia la prohibición del cambio de sexo para prisioneros: “Con nosotros esta estupidez se termina. Los delincuentes no podrán cambiar de penal escudándose en la identidad de género”.  
+> [pic.twitter.com/C09GdoRYjD](https://t.co/C09GdoRYjD)
 > 
-> — ETAPA EP (@ETAPAOficial) [November 27, 2024](https://twitter.com/ETAPAOficial/status/1861570436208718245?ref_src=twsrc%5Etfw)
+> — UHN PLUS (@UHN\_Plus) [November 26, 2024](https://twitter.com/UHN_Plus/status/1861490847834869783?ref_src=twsrc%5Etfw)
 
-(Video) Guardiola enfurece y se autolesiona tras el empate del Manchester City
-==============================================================================
+(En vivo) Independiente vs. El Nacional pugnan por la Copa Ecuador
+==================================================================
 
-Josep Guardiola vivió uno de los momentos más frustrantes de su carrera, desatando su enojo contra sí mismo tras un inesperado empate.
---------------------------------------------------------------------------------------------------------------------------------------
+Independiente del Valle y El Nacional jugarán la final de la Copa Ecuador 2024.
+-------------------------------------------------------------------------------
 
-![Pep Guardiola con la cara lastimada tras el empate del Manchester City por la Champions League.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-26T194023.712.jpg)
+![Imagen de archivo de un partido de Independiente del Valle y El Nacional en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/final_copa_1.jpg)
 
-El **Manchester City** igualó 3-3 con el Feyenoord este martes 26 de noviembre en Inglaterra, durante la quinta jornada de la fase de liga de la Champions League. El empate, tras ir ganando 3-0 hasta el minuto 75, desató la frustración de **Pep Guardiola**, quien llegó a autolesionarse.
+**Independiente del Valle y El Nacional** se enfrentan en la final única de la Copa Ecuador. El juego está programado para este miércoles 27 de noviembre de 2024, desde las 15:00.
 
-En un episodio inusual, **Guardiola vivió una de las peores noches de su carrera como entrenador.** Su equipo parecía tener el partido controlado, pero el Feyenoord remontó de manera sorprendente, marcando tres goles en los últimos 15 minutos.
+La final de la Copa Ecuador entre Independiente del Valle y El Nacional se jugará en el estadio Rodrigo Paz Delgado. **Se estima que cerca de 20 000 hinchas**, en su mayoría de los rojos, lleguen hasta el escenario ubicado al norte de la capital ecuatoriano.
 
 ### Más noticias:
 
-* [PSG de Willian Pacho cae ante Bayern y se complica en Champions](https://www.elcomercio.com/deportes/futbol/psg-willian-pacho-cae-ante-bayern-se-complica-en-champions.html "PSG de Willian Pacho cae ante Bayern y se complica en Champions")
-* [Sparta Praga sufrió una dura goleada en Champions sin Angelo Preciado](https://www.elcomercio.com/deportes/futbol/sparta-praga-sufrio-goleada-champions-sin-angelo-preciado-atletico-madrid.html "Sparta Praga sufrió una dura goleada en Champions sin Angelo Preciado")
-* [Willian Pacho y el PSG se juegan la permanencia en Champions](https://www.elcomercio.com/deportes/futbol/willian-pacho-psg-champions-league.html "Willian Pacho y el PSG se juegan la permanencia en Champions")
+* [Liga de Portoviejo definió fecha y hora para semifinal ante 22 de Julio](https://www.elcomercio.com/deportes/futbol/liga-portoviejo-partido-horario-22julio-ascenso.html "Liga de Portoviejo definió fecha y hora para semifinal ante 22 de Julio")
+* [Javier Mascherano, nuevo entrenador del Inter Miami](https://www.elcomercio.com/deportes/futbol/javier-mascherano-dt-inter-miami.html "Javier Mascherano, nuevo entrenador del Inter Miami")
+* [Esther Galarza correrá en Europa con Pato Bike BMC Team](https://www.elcomercio.com/deportes/esther-galarza-historia-vuelta-femenina-ecuador-europa.html "Esther Galarza correrá en Europa con Pato Bike BMC Team")
 
-Este resultado amplió la **racha negativa del City,** que acumula seis partidos consecutivos sin ganar, la peor de Guardiola desde que comenzó su trayectoria en los banquillos.
+El campeón de la **Copa Ecuador ganará un premio económico de 340 000 dólares**. En lo deportivo, el ‘Nacho’ se hizo acreedor al cuarto cupo del país para la Copa Libertadores 2025, donde arrancará desde la fase uno de eliminación.
 
-Guardiola enfureció y se autolesionó
-------------------------------------
+El corto palmarés de la Copa Ecuador tiene a El Nacional como el primer campeón en 1970. **En 2019 la corona recayó en manos de Liga de Quito**, y en el 2022 de Independiente del Valle.
 
-El entrenador del Manchester City acudió a la zona mixta con una particularidad que sorprendió a reporteros y televidentes. **Guardiola apareció** para dar sus primeras declaraciones tras el empate con **varias heridas visibles en su rostro**.
+El IDV ganó su último trofeo en el 2023. Derrotó en la **final única de la Supercopa Ecuador a Aucas** por un marcador de 3-0. El compromiso se realizó en el estadio La Cocha de Latacunga.
 
-El técnico tenía rasguños en la cara y la cabeza, además de un pequeño corte en la nariz que mostraba rastros de sangre.
+La espera de los rojos por una consagración es más larga. La última vez fue en el campeonato nacional de 2006. El **entrenador en esa ocasión fue Éver Hugo Almeida**, actualmente en el Mushuc Runa de la provincia del Tungurahua.
 
-> 🔵📉 Pep Guardiola: “We have problems, yes”.  
->   
-> “Three changes? The game is never over, but at 3-0, I could not see any danger…”. [pic.twitter.com/frgkFChP29](https://t.co/frgkFChP29)
-> 
-> — Fabrizio Romano (@FabrizioRomano) [November 26, 2024](https://twitter.com/FabrizioRomano/status/1861541478570299872?ref_src=twsrc%5Etfw)
+Alineación Independiente del Valle
+----------------------------------
 
-Durante la rueda de prensa, uno de los periodistas le preguntó al español por las **lesiones en su rostro** y qué había ocurrido.
+Moisés Ramírez; Matías Fernández, Mateo Carabajal, Richard Schunke y Yaimar Medina; Joao Ortiz, Cristian Zabala, Bryan García y Renato Ibarra; Keny Arroyo y Jeison Medina.
 
-Pep, sin rodeos, explicó que se las había causado él mismo. _“**Me lastimé con mis dedos y mi uña. Quise herirme a mí mismo**“_, confesó.
+DT: Javier Gandolfi.
 
-> 🚨 Pep Guardiola on those cuts: “With my fingers… I want to harm myself”.  
->   
-> 🎥 [@BeanymanSports](https://twitter.com/BeanymanSports?ref_src=twsrc%5Etfw) [pic.twitter.com/9g9Ix0LyrO](https://t.co/9g9Ix0LyrO)
-> 
-> — Fabrizio Romano (@FabrizioRomano) [November 26, 2024](https://twitter.com/FabrizioRomano/status/1861542595257626986?ref_src=twsrc%5Etfw)
-
-Un empate que sabe a derrota
-----------------------------
-
-**Guardiola** calificó el empate como una derrota y criticó la inestabilidad de su equipo, que permitió una remontada inesperada.
-
-_“Con 3-0, jugábamos bien. Luego regalamos el primer gol y los demás siguieron. **No somos estables en este momento**, y eso nos está costando caro a este nivel”,_ declaró a _Amazon Prime_.
-
-“Hemos perdido muchos partidos últimamente, somos frágiles, necesitas una victoria, el partido era bueno para nuestra confianza, jugando a un gran nivel, **pero algo pasa y estamos en problemas**“, añadió.
-
-Liga Pro tomó una tajante decisión sobre Liga de Quito y su sanción
-===================================================================
-
-Liga de Quito pelea por ganar la segunda etapa de la Liga Pro mientras espera la resolución de una sanción que podría afectar sus aspiraciones.
------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Liga de Quito e Independiente del Valle están peleando por ganar la segunda etapa de la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-26T185751.767.jpg)
-
-Pasan los días y **Liga de Quito aún no recibe noticias sobre la apelación** presentada tras la sanción de tres puntos impuesta por la Comisión Disciplinaria de la Federación Ecuatoriana de Fútbol (FEF).
-
-Con solo una jornada restante en la **Liga Pro**, una resolución oportuna es clave para evitar complicaciones en el desenlace del campeonato ecuatoriano. Sin embargo, la falta de respuesta mantiene al **torneo en incertidumbre**.
-
-### Más noticias:
-
-* [Liga de Quito, a la espera de la resolución de su apelación](https://www.elcomercio.com/deportes/futbol/liga-de-quito-a-la-espera-de-la-resolucion-de-su-apelacion.html "Liga de Quito, a la espera de la resolución de su apelación")
-* [La Libertadores recibe a Liga de Quito, el único campeón ecuatoriano](https://www.elcomercio.com/deportes/futbol/liga-quito-copa-libertadores2025-redes.html "La Libertadores recibe a Liga de Quito, el único campeón ecuatoriano")
-* [En Liga de Quito, IDV y la MLS no olvidan a Marco Angulo](https://www.elcomercio.com/deportes/futbol/liga-quito-mls-marco-angulo-homenaje.html "En Liga de Quito, IDV y la MLS no olvidan a Marco Angulo")
-
-La sanción contra **Liga de Quito** fue impuesta el pasado 16 de noviembre debido a **incumplimientos** **económicos** dentro del plazo establecido por la Liga Pro.
-
-La postura de la Liga Pro sobre la situación de Liga de Quito
--------------------------------------------------------------
-
-**Miguel Ángel Loor,** presidente de la Liga Profesional de Fútbol del Ecuador, utilizó sus redes sociales para abordar el caso y detallar los **posibles pasos a seguir si no se emite una resolución a tiempo**.
-
-Según Loor, la resolución debería conocerse el miércoles 27 de noviembre. En caso de demora, se convocará al Directorio de la Liga Pro para analizar cómo proceder.
-
-“Si no se hiciera mañana en horas de la tarde, convocaríamos a un Directorio para analizar cómo proceder. **Si conviene esperar o si debemos continuar.** Esperemos; no nos anticipemos”, publicó en su cuenta de X.
-
-> He recibido varias preguntas sobre si suspenderíamos o reprogramaríamos la última fecha de LigaPro hasta que se resuelva la apelación… Hasta el momento todo sigue igual. Tengo entendido que mañana informarían la resolución; no estoy seguro si será así ni depende de mí. Si no se… [pic.twitter.com/9jCzXWrUi3](https://t.co/9jCzXWrUi3)
-> 
-> — Miguel Angel Loor (@miguelloor) [November 26, 2024](https://twitter.com/miguelloor/status/1861537489040597364?ref_src=twsrc%5Etfw)
-
-Liga de Quito lucha por la etapa
---------------------------------
-
-Con solo un partido por disputarse, la **Liga Pro 2024** entra en su recta final. Liga de Quito e **Independiente del Valle** lideran la segunda etapa con 29 puntos cada uno, pero los “Rayados” ocupan la primera posición gracias a su mejor diferencia de goles (19 frente a 14).
-
-El escenario para la última jornada es claro: si Independiente del Valle gana, se proclamará campeón directo. Por otro lado, si **Liga de Quit**o clasifica, se reeditará la final del año pasado, que terminó con triunfo para el “Rey de Copas”.
-
-Sin embargo, el d**esenlace también depende de la resolución de los tres puntos** en disputa. Si se devuelve la sanción a Liga de Quito, los albos sumarían 32 puntos y les bastaría un empate en la última fecha para asegurar su lugar en la final.
-
-Estos son los binomios presidenciales en firme para las elecciones 2025
-=======================================================================
-
-Los binomios presidenciales para las elecciones 2025 pasan por un proceso de impugnaciones.
--------------------------------------------------------------------------------------------
-
-![Las papeletas de los binomios presidenciales para las elecciones 2025 se imprimirán en los próximos días.](https://www.elcomercio.com/wp-content/uploads/2024/11/binomios-presidenciales-elecciones-2025.jpg)
-
-El **Consejo Nacional Electoral (CNE)** alista las papeletas para los **binomios presidenciales** en firme que participarán en las **elecciones 2025**.
-
-El **Tribunal Contencioso Electoral (TCE)** se pronunció sobre el último binomio que estaba en análisis de este organismo.
-
-### Más noticias:
-
-* [CNE inicia la impresión de papeletas para las elecciones 2025](https://www.elcomercio.com/actualidad/politica/cne-inicia-impresion-papeletas-elecciones-2025.html "CNE inicia la impresión de papeletas para las elecciones 2025")
-* [288 policías y 64 vehículos se destinan para seguridad de binomios presidenciales](https://www.elcomercio.com/actualidad/politica/288-policias-64-vehiculos-seguridad-binomios-presidenciales.html "288 policías y 64 vehículos se destinan para  seguridad de binomios presidenciales")
-
-Binomios presidenciales en firme para las elecciones 2025
----------------------------------------------------------
-
-Los **binomios presidenciales** que pasaron la etapa de revisión de requisitos e impugnaciones son 16.
-
-Esto, con el último pronunciamiento del Tribunal Contencioso Electoral (TCE) sobre el **último binomio presidencial en revisión**.
-
-El TCE remitió al CNE un certificado de que no se recibió objeciones a la candidatura presidencial del Movimiento **Sociedad Unida Más Acción** (SUMA), (Listas 23).
-
-El vocal del CNE, **José Cabrera**, señaló que, con esa decisión, pueden informar al país que “16 binomios presidenciales participarán en el proceso”.
-
-* **Unidad Popular (UP)** con Jorge Escala y Pacha Terán
-* **Partido Sociedad Patriótica (PSP)** con Andrea González y Galo Moncayo
-* **Alianza Revolución Ciudadana (RC)-Reto** con Luisa González-Diego Borja.
-* **Acción Democrática Nacional (ADN)** con Daniel Noboa y María José Pinto
-* **Partido Socialista Ecuatoriano (PSE)** con Pedro Granja-Verónica Silva
-* **Movimiento CREO** con Francesco Tabacchi-Blanca Sacancela
-* **Movimiento Construye** con Henry Cucalón-Carla Larrea
-* **Movimiento Pueblo Igualdad Democracia (PID)** con Víctor Araúz-Cristina Carrera
-* **Movimiento Acción Movilizadora Independiente Generando Oportunidades (Amigo)** con Juan Cueva-Cristina Reyes
-* **Movimiento Democracia Sí** con Iván Saquicela-Luisa Coello
-* **Partido Social Cristiano (PSC)** con Henry Kronfle-Dallyana Passailaigue 
-* **Partido Avanza** con Luis Felipe Tillería-Karla Rosero
-* **Movimiento Pachakutik** con Leonidas Iza-Katiuska Molina
-* **Movimiento Centro Democrático** con Jimmy Jairala-Lucía Vallecilla
-* **Izquierda Democrática (ID)** con Carlos Rabascall y María Alejandra Rivas
-* **Sociedad Unida Más Acción (SUMA)** con Enrique Gómez e Inés Díaz.
-
-El lunes 25 de noviembre, el CNE anunció que el **Instituto Geográfico Militar (IG)** inició con la impresión de papeletas electales.
-
-Las **primeras papeletas electorales** son de las dignidades de asambleístas nacionales y parlamentarios andinos.
-
-El CNE empezaría con la impresión de las papeletas para los binomios presidenciales la **próxima semana**.
-
-Violencia sexual en transporte municipal de Quito, ¿cuáles son los protocolos?
-==============================================================================
-
-En el transporte municipal de Quito hay protocolos ante violencia sexual. Se hizo un estudio.
----------------------------------------------------------------------------------------------
-
-![En el Metro de Quito hay protocolos ante la violencia sexual.](https://www.elcomercio.com/wp-content/uploads/2024/11/metro-violencia.jpg)
-
-La **violencia sexual** está presente en el **transporte** metropolitano de **Quito** y Corredor Central Norte. Pero, en este 2024 hay novedades respecto de 2023.
-
-Los **protocolos** son parte del panorama que incluye al sistema Metro y tiene en el radar el acoso. Se realizó un estudio que dejó algunas cifras.
-
-### Más noticias
-
-* [Controles de exceso de velocidad se reanudan en Quito este martes 26 de noviembre](https://www.elcomercio.com/actualidad/quito/controles-exceso-velocidad-se-reanudan-quito-martes-26-noviembre.html "Controles de exceso de velocidad se reanudan en Quito este martes 26 de noviembre")
-* [Cierres viales por las fiestas de Quito del 26 al 30 de noviembre](https://www.elcomercio.com/actualidad/quito/fiestas-quito-cierres-viales-amt.html "Cierres viales por las fiestas de Quito del 26 al 30 de noviembre")
-* [Señales de violencia de género y cómo enfrentarlas](https://www.elcomercio.com/tendencias/salud/violencia-genero-redes-apoyo-podcast.html "Señales de violencia de género y cómo enfrentarlas")
-
-Violencia sexual en el transporte y los protocolos
---------------------------------------------------
-
-El **Estudio de Violencia Sexual** en el Sistema de Transporte Metropolitano y Corredor Central Norte 2024 en Quito dio cuenta de que cinco de cada 10 mujeres mencionaron sentirse inseguras en el sistema.
-
-De acuerdo con el **Municipio**, el dato representa una reducción frente a las siete de cada 10 de 2023.
-
-El último reporte, además, mostró que **cuatro de cada 10 mujeres** fueron víctimas de acoso y abuso sexual. En 2023, fueron seis.
-
-La estrategia **Cero Acoso** está vigente y va por una segunda fase, incorporando a los subsistemas: corredor central norte y sur occidental. 43 talleres de sensibilización han sido parte del proceso.
-
-Se incluyeron **300 becas** para conductores, con un monto de alrededor de 307 mil dólares para la obtención de la licencia tipo D a mujeres de los servicios de la Unidad Patronato Municipal San José, en  
-situación de vulnerabilidad y azafatas del sistema de transporte.
-
-La meta es que más mujeres operen las unidades del **transporte público**.
-
-¿Qué pasa en el Metro?
+Alineación El Nacional
 ----------------------
 
-De acuerdo con el análisis, a partir de **595 encuestas** a usuarias del [Metro](https://metrodequito.gob.ec/ "https://metrodequito.gob.ec/"), se evidenció que el 94,3% de mujeres se sienten seguras y muy seguras al usar este subsistema de transporte subterráneo.
+David Cabezas; Daniel Patiño, Rommel Cabezas, Antonhy Bedoya y Fernando Mora; Adrián Cela, Luis Arce, Fidel Martínez y Jorge Ordóñez; Gabriel Cortez y Alejandro Cabeza.
 
-No obstante, los indicadores también detallan que el **98,51% de las víctimas** deciden no denunciar actos de acoso o violencia pensando que no es tan grave, no tienen tiempo o desconocen a la persona que las agredió.
-
-El 73,97% de las encuestadas afirman conocer cómo activar el protocolo Cero Acoso en las estaciones y trenes del **Metro de Quito**.
-
-¿Cuáles son los protocolos?
----------------------------
-
-**Trolebús y Ecovía:** la víctima o testigo de un caso de acoso sexual, mensajea al 6367 con la palabra ACOSO y el número de la unidad.
-
-También se puede escanear el código QR. Una brigada con personas especializadas brinda la protección y primeros **auxilios psicológicos**.
-
-El presunto agresor es detenido. Si la víctima decide realizar la denuncia ante la Fiscalía, tiene el acompañamiento de personal en el sistema.
-
-En **Metro de Quito**
----------------------
-
-En el Metro de Quito, la persona víctima o testigo de acoso debe activar el interfono y decir la palabra CERO.
-
-Los interfonos están en todos los vagones del tren y las estaciones del Metro.
-
-El operador del tren responde y comunica al **Puesto Central Control con la Clave G**, para activar la alerta y realizar la intervención de **911 y Policía Nacional**.
-
-Personas especializadas brindan la protección y primeros auxilios psicológicos. El presunto agresor es detenido.
-
-Si la víctima decide realizar la denuncia ante la **Fiscalía**, con acompañamiento de personal del sistema.
-
-Daniel Noboa oficializó la creación de la Universidad de Santo Domingo de los Tsáchilas
-=======================================================================================
-
-La nueva universidad pública de Santo Domingo de los Tsáchilas acogerá a 3 540 estudiantes en sus primeros cinco años.
-----------------------------------------------------------------------------------------------------------------------
-
-![Daniel Noboa durante el evento de oficialización de la Universidad de Santo Domingo de los Tsáchilas](https://www.elcomercio.com/wp-content/uploads/2024/11/universidad-santo-domingo-daniel-noboa.jpg)
-
-El presidente de Ecuador, **Daniel Noboa**, oficializó la creación de la **Universidad Pública de Santo Domingo de los Tsáchilas** (Upsdt), este martes 26 de noviembre de 2024.
-
-### Más noticias
-
-* [Proyectos urgentes de Daniel Noboa van a primer debate en la Asamblea](https://www.elcomercio.com/actualidad/politica/proyectos-urgentes-daniel-noboa-primer-debate-asamblea.html "Proyectos urgentes de Daniel Noboa van a primer debate en la Asamblea")
-* [Caso Metástasis, estas son las razones de los jueces para sentenciar a 20 vinculados](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-estas-son-las-razones-de-los-jueces-para-sentenciar-a-20-vinculados.html "Caso Metástasis, estas son las razones de los jueces para sentenciar a 20 vinculados")
-* [Daniel Noboa rindió cuentas de su año de gestión en cadena nacional](https://www.elcomercio.com/actualidad/politica/daniel-noboa-rindio-cuentas-ano-gestion-cadena-nacional.html "Daniel Noboa rindió cuentas de su año de gestión en cadena nacional")
-
-En el evento simbólico, el mandatario también posesionó a la **Comisión Gestora** que estará al frente del **centro de estudios**.
-
-Universidad tendrá 3 540 estudiantes en sus primeros cinco años
----------------------------------------------------------------
-
-La nueva universidad beneficiará a **3 540 estudiantes** en sus primeros **cinco años** de su funcionamiento.
-
-“Las carreras ofertadas estarán diseñadas, principalmente, para responder a las **necesidades productivas de la provincia** y fortalecer sectores claves de la economía del país”, explicó Noboa.
-
-Entre las cátedras que se dictarán están: **agronegocios, medicina veterinaria, alimentos y emprendimientos e innovación social**.
-
-La Universidad de Santo Domingo tendrá su sede en la Finca Ernesto Molestina, en un terreno de **11 hectáreas**. En este espacio se construirán **32 bloques de aulas**, 13 laboratorios, dos auditorios, canchas deportivas, una clínica veterinaria y una planta procesadora de alimentos, entre otros espacios.
-
-La inversión de este proyecto alcanzará los **35 millones de dólares**, en su primera etapa[.](https://www.educacionsuperior.gob.ec/ "https://www.educacionsuperior.gob.ec/")
-
-Nueva universidad dinamizará la economía en la provincia
---------------------------------------------------------
-
-Durante su intervención, Daniel Noboa habló sobre lo que significará este **centro educativo superior** para la provincia.
-
-“Esta universidad será el impulso para el **cambio económico y social** que Santo Domingo de los Tsáchilas necesita”, mencionó.
-
-“Solo a través de la educación podremos combatir la **desigualdad, la pobreza y el crimen** (…) Jóvenes, ustedes serán los principales protagonistas”, enfatizó el Presidente.
-
-Su discurso también estuvo dirigido a las críticas que tuvo la construcción de la universidad. “Había gente que consideraba a esta obra como un **gasto innecesario** y ahora intentan atribuirse este logro que es de los ciudadanos”, dijo Noboa.
-
-> Hoy, el presidente [@DanielNoboaOk](https://twitter.com/DanielNoboaOk?ref_src=twsrc%5Etfw) participó en la posesión de la Comisión Gestora para la Construcción de la Universidad de Santo Domingo de los Tsáchilas, marcando un hito en el fortalecimiento de la educación superior en Ecuador.  
->   
-> Impulsada por el Gobierno de [#ElNuevoEcuador](https://twitter.com/hashtag/ElNuevoEcuador?src=hash&ref_src=twsrc%5Etfw),… [pic.twitter.com/PsuSkcUJ5O](https://t.co/PsuSkcUJ5O)
-> 
-> — Presidencia Ecuador 🇪🇨 (@Presidencia\_Ec) [November 26, 2024](https://twitter.com/Presidencia_Ec/status/1861499247117406379?ref_src=twsrc%5Etfw)
-
-Por otra parte, **César Vásquez**, secretario de Educación Superior, Ciencia, Tecnología e Innovación (**Senescyt**), explicó que la consolidación de la universidad se logró gracias a un trabajo conjunto con el Consejo de Educación Superior (**Caaces**), la Secretaria de Planificación y el **Ministerio de Economía** y Finanzas.
-
-Una vez que se encuentre publicada la Ley de Creación en el **Registro Oficial**, se establecerá la Comisión Gestora que se encargará de estructurar la universidad, quienes la conformarán, sus **estatutos** y normativas.
-
-Asamblea aplazó debate sobre el Código Orgánico de Protección Integral a Niñas, Niños y Adolescentes
-====================================================================================================
-
-La Asamblea debatirá el Copinna; se buscan acuerdos sobre adopción, responsabilidad penal y protección a la niñez.
-------------------------------------------------------------------------------------------------------------------
-
-![Exteriores de la Asamblea Nacional este 26 de noviembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-61-1.jpg)
-
-La Asamblea Nacional se prepara para tramitar el proyecto del **Código Orgánico de Protección Integral a Niñas, Niños y Adolescentes (Copinna)**. Este martes 26 de noviembre **se aplazó el debate** en el Pleno.
-
-### Más noticias
-
-* [Asamblea Nacional entrará en receso legislativo en la campaña electoral](https://www.elcomercio.com/actualidad/politica/asamblea-nacional-entrara-receso-legislativo-campana-electoral.html "Asamblea Nacional entrará en receso legislativo en la campaña electoral")
-* [Proyectos urgentes de Daniel Noboa van a primer debate en la Asamblea](https://www.elcomercio.com/actualidad/politica/proyectos-urgentes-daniel-noboa-primer-debate-asamblea.html "Proyectos urgentes de Daniel Noboa van a primer debate en la Asamblea")
-* [Juez dicta medidas cautelares contra funcionaria de la Asamblea que participó en las marchas](https://www.elcomercio.com/actualidad/politica/juez-dicta-medidas-cautelares-funcionaria-asamblea-marchas.html "Juez dicta medidas cautelares contra funcionaria de la Asamblea que participó en las marchas")
-
-Sin embargo, este proceso iniciará únicamente cuando los legisladores hayan leído los **más de 800 artículos** que componen el documento. Según se anunció, esta medida busca garantizar un debate fundamentado y con conocimiento pleno del contenido.
-
-Preocupaciones sobre la lectura y desinformación
-------------------------------------------------
-
-**Pierina Correa**, presidenta de la comisión legislativa encargada del tema, criticó la falta de lectura del informe por parte de algunos asambleístas. Expresó que esta **situación los hace vulnerables** a campañas mediáticas y en redes sociales que distorsionan el **contenido del proyecto**.
-
-Como ejemplo, desmintió afirmaciones sobre la **inclusión de la adopción** por parte de personas del mismo sexo en el Copinna.
-
-La legisladora subrayó la importancia de abordar temas sensibles como el **subsistema de responsabilidad** penal de adolescentes. También recordó que Ecuador tiene compromisos internacionales que incluyen recomendaciones, como elevar la edad de **imputabilidad de 14 a 16 años**.
-
-Sin embargo, señaló que en el informe se mantiene la edad actual y que las penas propuestas continúan siendo de 4 a 8 años.
-
-Visiones distintas dentro de la Asamblea
-----------------------------------------
-
-**Jorge Peñafiel**, del movimiento Construye, destacó que el Copinna es crucial para enfrentar el crimen organizado. Lamentó que el **informe de mayoría no incluya medidas** más estrictas para adolescentes infractores, como penas superiores a ocho años o imputabilidad por debajo de los 14 años.
-
-> :círculo\_blanco:️ El asambleísta de Construye, Jorge Peñafiel, afirmó que los adolescentes que cometan delitos graves, como los contra la vida, deben ser juzgados como adultos.  
->   
-> Criticó el sistema propuesto en el COPINA, asegurando que solo favorece la impunidad al ser aprovechado por… [pic.twitter.com/dp1l7SSQHW](https://t.co/dp1l7SSQHW)
-> 
-> — El Portal Ec (@ElPortalEcu) [November 26, 2024](https://twitter.com/ElPortalEcu/status/1861447739651039460?ref_src=twsrc%5Etfw)
-
-Criticó también la prevalencia de **medidas socioeducativas**, las cuales, según él, no contemplan factores como reincidencia o **delitos graves**.
-
-El legislador presentó un informe de minoría donde propone sancionar como adultos a adolescentes que cometan delitos contra la vida. Además, sugirió la eliminación de **beneficios judiciales** para delitos graves como secuestro y extorsión, planteando un enfoque más punitivo frente al crimen organizado.
-
-Acuerdos necesarios para avanzar
---------------------------------
-
-Por su parte, **Vicente Taiano**, representante del **Partido Social Cristiano**, insistió en la urgencia de contar con un marco jurídico que proteja a la niñez y adolescencia.
-
-Reconoció que algunos artículos generan divisiones, especialmente aquellos relacionados con adopción, cambios de identidad y **responsabilidad penal de adolescentes**. Estos puntos, según explicó, tienen su origen en decisiones previas de la Corte Constitucional.
-
-Taiano señaló que las discusiones deben ajustarse al contexto actual del país. Propuso que adolescentes mayores de 16 años, quienes ya tienen capacidad para votar, enfrenten sanciones más severas por delitos graves.  
-
-Hincapié brilló, Leverkusen ganó y se acomodó en la tabla
-=========================================================
-
-El Bayer Leverkusen alcanzó su tercera victoria en la actual edición de la Champions League.
---------------------------------------------------------------------------------------------
-
-![Piero Hincapié, jugador ecuatoriano del Bayer Leverkusen.](https://www.elcomercio.com/wp-content/uploads/2024/11/hincapie_salzburgo_1.jpg)
-
-**Piero Hincapié** volvió a ser uno de los jugadores más destacados del Bayer Leverkusen en una nueva jornada de la Champions League. Los alemanes golearon por 4-0 al Salzburgo de Austria.
-
-El partido entre el Bayer Leverkusen y el Salzburgo se jugó la tarde de este martes 26 de noviembre de 2024, en el BayArena. **Piero Hincapié arrancón en el equipo titular hasta los 68 minutos**, cuando fue reemplazado por el joven brasileño Arthur Augusto.
-
-### Más noticias:
-
-* [En Liga de Quito, IDV y la MLS no olvidan a Marco Angulo](https://www.elcomercio.com/deportes/futbol/liga-quito-mls-marco-angulo-homenaje.html "En Liga de Quito, IDV y la MLS no olvidan a Marco Angulo")
-* [La Libertadores recibe a Liga de Quito, el único campeón ecuatoriano](https://www.elcomercio.com/deportes/futbol/liga-quito-copa-libertadores2025-redes.html "La Libertadores recibe a Liga de Quito, el único campeón ecuatoriano")
-* [Barcelona Sporting Club cerrará el 2024 lleno de fracasos](https://www.elcomercio.com/deportes/futbol/barcelona-sporting-club-cero-titulos.html "Barcelona Sporting Club cerrará el 2024 lleno de fracasos")
-
-Hincapié cumplió su quinto partido como titular en el Leverkusen en la misma cantidad de fechas, pero es la primera vez que no juega todos los minutos posibles.
-
-En la primera jornada golearon 0-4 al Feyenoord en Países Bajos; en la segunda le ganaron 1-0 al Milan en casa; **en la tercera empataron 1-1 con el sorprendente Stade Brestois en Francia**; y en la cuarta perdieron 4-0 ante el Liverpool en Inglaterra, se mantuvo todo el tiempo en el terreno de juego.
-
-El ecuatoriano está afianzado en la línea de tres que propone el español Xabi Alonso. Comparte esa responsabilidad con el alemán Jonathan Tah y el burkinés Edmond Tapsoba. La calificación del defensa central estuvo acorde a la de todo el bloque defensiva.
-
-Leverkusen alcanza un triunfo necesario
----------------------------------------
-
-Florian Wirtz (2), Alejandro Grimaldo (1), Patrik (1) y Aleix García (1) fueron los goleadores de la jornada.
-
-Con esta victoria el Leverkusen escaló a la séptima posición con 10 puntos y su gol diferencia es de +5. A falta de tres fechas se coló entre los ocho primeros equipos que avanzan directamente a los octavos de final.
-
-A falta de que se completen los partidos del miércoles, el Inter (13), Barcelona (12), Liverpool (12), Atalanta (11), Manchester City (10), Leverkusen (10), Mónaco (10) y Arsenal (10) son los que están en los puestos de clasificación directa.
-
-En la sexta jornada los alemanes seguirán como locales para recibir al Inter. El juego está pactado para el martes 10 de diciembre, desde las 15:00, en el BayArena.
+DT: Marcelo Zuleta.
 
 San viernes
 -----------
 
-Fiscalía pidió extradición de Ronny A., Xavier J. y otro vinculado al caso Metástasis
-=====================================================================================
+Video muestra el momento en que un hombre se baja de una montaña rusa en movimiento
+===================================================================================
 
-Ronny A., Xavier J. y el otro vinculado están prófugos y fueron vinculados al caso Metástasis. Ahora, Fiscalía pide la extradición.
------------------------------------------------------------------------------------------------------------------------------------
+El hombre escuchó cuando el mecanismo de sujeción del asiento se desbloqueó
+---------------------------------------------------------------------------
 
-![El exaambleísta correísta, Ronny Aleaga, ahora prófugo, es uno de los procesados en el caso Metástasis.](https://www.elcomercio.com/wp-content/uploads/2024/05/Ronny-Aleaga-1.jpg)
+![Momento en que ocurre el incidente de la montaña rusa en Arizona.](https://www.elcomercio.com/wp-content/uploads/2024/11/montana-rusa-El-Comercio.jpg)
 
-La **Fiscalía General del Estado** pidió la **extradición** de **Ronny A**., **Xavier J.** y otro vinculado al **caso Metástasis**, este martes 26 de noviembre de 2024.
+Un **impactante video** que circula en **redes sociales** muestra a un hombre saltando de una montaña rusa en pleno movimiento en el parque Castles N’ Coasters, ubicado en Phoenix, Arizona (Estados Unidos). El incidente ocurrió el domingo 24 de noviembre de 2024, **cuando la barra de seguridad del asiento del hombre se desbloqueó poco antes de que el vehículo descendiera en picada.**
 
-La institución hizo el pedido a través de un **comunicado** difundido esta tarde.
+El hombre, quien celebraba el cumpleaños de su sobrina en el parque, decidió montar la atracción conocida como “**Desert Storm**”. Esta montaña rusa es conocida por sus emocionantes bucles que dejan a los pasajeros completamente cabeza abajo. 
 
-### Más noticias:
+Según contó a ‘NBC’, fue al inicio del recorrido cuando identificó el problema con la barra de seguridad. **“Empezamos a subir y se oye el clic de la cadena, el sonido normal de una montaña rusa”**, relató. 
 
-* [Caso Metástasis, estas son las razones de los jueces para sentenciar a 20 vinculados](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-estas-son-las-razones-de-los-jueces-para-sentenciar-a-20-vinculados.html "Caso Metástasis, estas son las razones de los jueces para sentenciar a 20 vinculados")
+Sin embargo, poco después escuchó un sonido diferente. “Llegamos casi a la cima y escuché un clic diferente al sonido de la cadena que nos levantaba, así que revisé mi barra de seguridad una vez más y se desbloqueó”.
 
-La Fiscalía pidió la extradición de Ronny A., Xavier J. y otro vinculado al caso Metástasis
--------------------------------------------------------------------------------------------
+El hombre reaccionó en segundos
+-------------------------------
 
-La fiscal general del Estado, **Diana Salazar Méndez**, solicitó al Presidente de la Corte Nacional de Justicia que se inicie el procedimiento de extradición de Xavier J., Rony A. y Marcel L..
+> WATCH: Terrifying moments at a Phoenix amusement park caught on camera as a rider's safety harness disengages and he has only moments to jump off. [@NicoleK\_Fox10](https://twitter.com/NicoleK_Fox10?ref_src=twsrc%5Etfw) has the exclusive story tonight at 9.[@FOX10Phoenix](https://twitter.com/FOX10Phoenix?ref_src=twsrc%5Etfw) [pic.twitter.com/Nna7e9LGJ0](https://t.co/Nna7e9LGJ0)
+> 
+> — Trenton Hooker (@trentonhooker) [November 25, 2024](https://twitter.com/trentonhooker/status/1860889761793061047?ref_src=twsrc%5Etfw)
 
-Ellos son procesados por su presunta participación en el delito de **delincuencia organizada.**
+Con apenas segundos para reaccionar, el hombre tomó la decisión de bajarse de la atracción y subir a la pasarela de emergencia. Según sus palabras, esta acción fue clave para evitar un desenlace fatal. 
 
-La etapa de juicio contra los mencionados se encuentra suspendida, debido a su condición de **prófugos**, dentro del **caso Metástasis.**
+**“Solo tuve unos segundos para decidir si me quedaba en el carro o me iba”**, explicó. El hombre recordó que había escuchado un clic inusual en la barra de seguridad antes de que comenzara el viaje, pero el operador de la atracción no realizó una inspección física para verificar que todo estuviera correctamente asegurado.
 
-Sobre ellos pesa una orden de **prisión preventiva**, dictada en enero y marzo de 2024, respectivamente.
+El operador, según informó el hombre a ‘KPNX’, no notó lo que había sucedido hasta que él ya estaba a salvo en tierra firme. “Ella debería haber estado monitoreando ese carro, y cuando me vio salir, debería haber activado una liberación de emergencia, debería haber hecho algo”, declaró.
 
-La solicitud de extradición se fundamenta en el artículo 79 de la **Constitución**, en concordancia con el artículo 23 de la **Ley de Extradición**.
+Otro episodio registrado en una atracción mecánica en México
+------------------------------------------------------------
 
-Adicionalmente, la Fiscal General dispuso el inicio y seguimiento de las **investigaciones** previas ordenadas por la Jueza ponente del Tribunal de Juicio del Caso Metástasis.
+> 🇲🇽⛈ Terror en las alturas  
+>   
+> Visitantes de Six Flags en la Ciudad de México vivieron momentos de pánico cuando una tormenta obligó a detener las atracciones. Un video muestra a algunos asistentes atrapados a más de 70 metros del suelo, en medio de la lluvia y la densa niebla. [pic.twitter.com/yGsBQXdsAl](https://t.co/yGsBQXdsAl)
+> 
+> — Sputnik Mundo (@SputnikMundo) [August 22, 2024](https://twitter.com/SputnikMundo/status/1826485701535527303?ref_src=twsrc%5Etfw)
 
-“De esta manera, la Institución reafirma su compromiso de luchar contra la **impunidad**“, concluyó la Fiscalía, en su comunicado.
+Un susto monumental vivieron los visitantes de **Six Flags México** el domingo 18 de agosto de 2024, cuando la atracción conocida como ‘Supergirl’, **una de las más altas del parque, quedó varada a 74 metros de altura debido a una fuerte tormenta que azotó la Ciudad de México.**
 
-Ronny A., Xavier J. y Marcel L. están involucrados en la red criminal liderada por el fallecido **Leandro Norero.**
+El incidente ocurrió en medio de lluvias torrenciales que afectaron las inmediaciones de la alcaldía de Tlalpan, al sur de la capital. En redes sociales, un video que registró el momento mostró cómo los asientos de la atracción se movían bruscamente por la intensa brisa, generando preocupación entre los atrapados.
 
-La Fiscalía los vinculó tras analizar los **chats** en los dispositivos de Norero.
+En las imágenes, capturadas por uno de los visitantes, se aprecia el cielo completamente nublado y las violentas ráfagas de viento que azotaban la estructura. Esto incrementó el temor de quienes permanecían suspendidos en las alturas, mientras el personal del parque intentaba solucionar la situación. La interrupción del juego mecánico hizo que los usuarios esperaran varios minutos antes de ser rescatados de manera segura, lo que intensificó la sensación de angustia.
 
-Norero estaba preso en la cárcel de Cotopaxi al momento de su asesinato, por **lavado de activos.**
+Chill Guy, la nueva sensación viral de Internet. Te contamos su historia 
+=========================================================================
 
-Los últimos indicios sobre el exasambleísta es que se encontraba en **Venezuela**.
+Chill Guy, el meme que combina calma, humor y controversia.
+-----------------------------------------------------------
 
-Su expareja dio a conocer su ubicación, tras denunciar que le quería quitar a su hijo.
+![Chill Guy fue creado por el artista Phillip Banks. Foto: Instagram @philbbankss.](https://www.elcomercio.com/wp-content/uploads/2024/11/Chill-Guy.jpg)
 
-En el caso de Xavier J., se conoce que está en **Miami, Estados Unidos** y tuvo problemas de renovación de su pasaporte.
-
-En el caso Metástasis, un **tribunal de la Corte Nacional de Justicia (CNJ)** sentenció a 20 procesados por el delito de delincuencia organizada.
-
-La Fiscalía hace este **pedido**, tras esta sentencia.
-
-Israel acepta un alto el fuego de 60 días con Hezbolá en Líbano
-===============================================================
-
-El gabinete de seguridad estuvo reunido durante varias horas discutiendo los términos del acuerdo y Netanyahu.
---------------------------------------------------------------------------------------------------------------
-
-![Un desplazado libanés sostiene un retrato del difunto líder de Hezbollah, Hassan Nasrallah, mientras celebra tras el anuncio de un alto el fuego en una escuela local en la ciudad sureña de Sidón, Líbano, el 26 de noviembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/1c02a7583950d091778d1db49f89ef9c737045c9.jpg)
-
-El primer ministro israelí, [Benjamín Netanyahu](https://www.elcomercio.com/actualidad/mundo/netanyahu-reitera-luz-vencera-tinieblas-mensaje-iran.html "https://www.elcomercio.com/actualidad/mundo/netanyahu-reitera-luz-vencera-tinieblas-mensaje-iran.html"), anunció este martes, 26 de noviembre de 2024, que el gabinete de seguridad ha aceptado la propuesta de acuerdo de alto el fuego en Líbano de 60 días, pero que Israel mantendrá “libertad de acción” si Hizbulá viola el compromiso.
+La imagen de un **perro antropomórfico**, conocido como **‘Chill Guy’ o Tío ‘Tranquilo’**, ha capturado la atención de millones en las **redes sociales**. Este meme se ha convertido en un **símbolo de calma** y despreocupación en un mundo lleno de estrés y ansiedad.  
 
 ### Más noticias
 
-* [Israel lanza un nuevo ataque contra un edificio en el oeste de Beirut](https://www.elcomercio.com/actualidad/mundo/israel-lanza-nuevo-ataque-contra-edificio-oeste-beirut.html "Israel lanza un nuevo ataque contra un edificio en el oeste de Beirut")
-* [Israel no firmará cese al fuego con Hezbolá hasta lograr sus objetivos](https://www.elcomercio.com/actualidad/mundo/israel-firmara-cese-fuego-hezbola-lograr-objetivos.html "Israel no firmará cese al fuego con Hezbolá hasta lograr sus objetivos")
-* [Ataques israelíes contra un mercado en Ciudad de Gaza](https://www.elcomercio.com/actualidad/mundo/ataques-israelies-mercado-ciudad-gaza.html "Ataques israelíes contra un mercado en Ciudad de Gaza")
+* [El emotivo homenaje al Sr. Miyagi que conmueve a los fans de ‘Cobra Kai’](https://www.elcomercio.com/afull/cobra-kai-sr-miyagi-homenaje-netflix.html "https://www.elcomercio.com/afull/cobra-kai-sr-miyagi-homenaje-netflix.html") 
+* [El mayor temor del tío Jesse se volvió realidad por una razón que no creerías](https://elcomercio.com/afull/tio-jesse-full-house-john-stamos.html "https://elcomercio.com/afull/tio-jesse-full-house-john-stamos.html") 
 
-“La duración del alto el fuego dependerá de lo que ocurra en Líbano y nosotros mantendremos total libertad de movimiento”, afirmó el primer ministro en una comparecencia.
+**¿Qué es Chill Guy?** 
+-----------------------
 
-El gabinete de seguridad estuvo reunido durante **varias horas discutiendo los términos del acuerdo** y Netanyahu anunció que votó a favor del compromiso de alto el fuego en Líbano que propuso Estados Unidos.
+El **Chill Guy** es una representación gráfica de **un perro con cuerpo humano**, vestido de manera casual y con una expresión relajada.  
 
-La propuesta incluye tres etapas: una **tregua seguida del repliegue de las fuerzas del grupo chií liba**nés Hizbulá al norte del río Litani; una retirada total de las tropas israelíes del **sur de Líbano** en un plazo de 60 días y, por último, negociaciones entre **Israel y Líbano** sobre la demarcación de su frontera, que en la actualidad es una linde fijada por la ONU tras la guerra de 2006.
+Este personaje ha sido utilizado para transmitir un mensaje claro: **mantener la calma** ante situaciones adversas. La imagen ha resonado especialmente en plataformas como **TikTok, Instagram y X** (anteriormente Twitter), donde los usuarios la emplean para expresar su deseo de **serenidad en medio del caos** cotidiano, según [Super Channel 12](https://superchannel12.com/657621/que-es-chill-guy-el-meme-viral-conoce-el-origen-y-significado-de-tio-tranquilo-y-chill "https://superchannel12.com/657621/que-es-chill-guy-el-meme-viral-conoce-el-origen-y-significado-de-tio-tranquilo-y-chill"). 
 
-“En pleno entendimiento con Estados Unidos, mantenemos plena libertad de acción militar. Si Hizbulá viola el acuerdo e intenta armarse, atacaremos. Si intenta renovar la infraestructura terrorista cerca de la frontera, atacaremos. **Si lanza un cohete, si cava un túnel, si trae un camión con misiles**, atacaremos”, aseveró Netanyahu.
-
-La “libertad de acción” militar dentro de Líbano era uno de los elementos más controvertidos del acuerdo, a lo que tanto el gobierno libanés como Hezbolá se oponían de plano, pero Israel se ha mostrado dispuesto a aceptar una carta de **compromiso de Washington al respecto.**
-
-Las tropas en Líbano
+**Origen del meme** 
 --------------------
 
-Sobre las voces críticas sobre el acuerdo, que incluyen sus socios de extrema derecha o los alcaldes de las comunidades del norte, que temen que aún no se dan las garantías de seguridad para que los residentes evacuados puedan volver a sus hogares, el **primer ministro prometió que las tropas** entrarán otra vez a Líbano si es necesario.
+El origen del meme se remonta a 2023, cuando un usuario de X conocido como **@phillipbankss** publicó la primera imagen del **Chill Guy**. Desde entonces, la ilustración **se ha viralizado**, convirtiéndose en una herramienta humorística para describir momentos estresantes con un toque de ironía, de acuerdo con [Diario de Morelos](https://www.diariodemorelos.com/noticias/este-es-el-origen-del-chill-guy-perrito-con-cuerpo-humano-que-se-ha-vuelto-viral-en-redes "https://www.diariodemorelos.com/noticias/este-es-el-origen-del-chill-guy-perrito-con-cuerpo-humano-que-se-ha-vuelto-viral-en-redes").  
 
-Netanyahu recordó que hace un año ya firmó una tregua con Hamás en la Franja de Gaza para liberar a algunos rehenes, pero no tuvo reparos en **“volver a atacar y renovar la guerra”**.
+La **popularidad del meme** creció exponencialmente después de que **figuras públicas**, como el presidente de El Salvador, **Nayib Bukele**, lo compartieran en sus redes sociales, siguiendo con Super Channel 12. 
 
-“Dicen algunos que Hezbolá permanecerá en silencio durante uno o dos años, se fortalecerá y luego nos atacará. Pero Hizbulá no sólo violará el alto el fuego si nos dispara, también lo hará cuando intente armarse para atacarnos en el futuro. Por cada violación de la suya, responderemos con firmeza”, advirtió.
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DCrshm-vtTZ/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de Makeship (@makeship)](https://www.instagram.com/reel/DCrshm-vtTZ/?utm_source=ig_embed&utm_campaign=loading)
 
-Alto al fuego
+**¿Por qué también se llama Tío Tranquilo?** 
+---------------------------------------------
+
+El término “Tío Tranquilo” proviene del **uso popular en España y Latinoamérica**. En este contexto, “chill” es una palabra en inglés que denota **calma y relajación**. Juntas, estas palabras reflejan la actitud despreocupada que el meme intenta transmitir, según [Prensa Libre](https://www.prensalibre.com/vida/escenario/chill-guy-meme-que-significa-y-por-que-es-tan-popular-en-redes-sociales/ "https://www.prensalibre.com/vida/escenario/chill-guy-meme-que-significa-y-por-que-es-tan-popular-en-redes-sociales/"). 
+
+A pesar de su simplicidad, el mensaje detrás del Chill Guy resuena profundamente con una generación que enfrenta el **estrés diario**. 
+
+**Impacto cultural** 
+---------------------
+
+El impacto del **Chill Guy** va más allá del humor. Este meme representa una filosofía moderna que invita a las personas a **lidiar con el estrés** de manera creativa y humorística. En un mundo donde **la ansiedad y el ‘burnout’** son comunes, el Chill Guy se erige como un ideal aspiracional: la capacidad de permanecer imperturbable ante las adversidades, según [Xataka](https://www.xataka.com/magnet/chill-guy-ultimo-meme-viral-porque-esconde-algo-profundo-todo-que-aspiramos-a-ser "https://www.xataka.com/magnet/chill-guy-ultimo-meme-viral-porque-esconde-algo-profundo-todo-que-aspiramos-a-ser"). 
+
+Además, su popularidad ha llevado a la creación de una **criptomoneda** llamada $CHILLGUY, lo que demuestra cómo los memes pueden influir en la economía digital, siguiendo con Prensalibre.  
+
+**Controversias y derechos de autor** 
+--------------------------------------
+
+A pesar de su éxito, el **Chill Guy** ha generado controversias. Su creador ha expresado frustración por el **uso no autorizado de su imagen** por parte de empresas y proyectos relacionados con criptomonedas. Esto ha abierto un debate sobre los **derechos de autor** en la **era digital** y si los memes deben ser considerados obras protegidas, concluye Super Channel 12. 
+
+Mientras algunos defienden al creador, otros argumentan que los memes pertenecen al **dominio público** una vez que son compartidos en Internet. 
+
+**Te recomendamos:**
+--------------------
+
+Amenazas arancelarias de Trump ponen en riesgo la liberalización comercial en el mundo
+======================================================================================
+
+Los aranceles estadounidenses producirán disputas comerciales en el seno de la Organización Mundial del Comercio (PMC).
+-----------------------------------------------------------------------------------------------------------------------
+
+![Donald Trump previo a uno de sus discursos en Estados Unidos.](https://www.elcomercio.com/wp-content/uploads/2024/11/Donald-Trump-Efe-2024-1.jpg)
+
+Las amenazas de [Donald Trump](https://www.elcomercio.com/actualidad/mundo/donald-trump-promete-mas-aranceles-sobre-china-y-mexico.html "https://www.elcomercio.com/actualidad/mundo/donald-trump-promete-mas-aranceles-sobre-china-y-mexico.html") de imponer **aranceles a las mercancías** que entran en Estados Unidos supondrían un duro golpe a la **liberalización comercial en el mundo** y podrían dinamitar el tratado de libre comercio que existe en Norteamérica desde 1994, mientras **China sería la economía** menos perjudicada y Europa se prepara por si acaso.
+
+### Más noticias
+
+* [Donald Trump elije a Jamieson Greer como representante comercial](https://www.elcomercio.com/actualidad/mundo/donald-trump-elije-jamieson-greer-representante-comercial.html "Donald Trump elije a Jamieson Greer como representante comercial")
+* [Claudia Sheinbaum pide ‘calma’ a los mercados ante aranceles propuestos por Donald Trump](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-pide-calma-mercados-ante-aranceles-propuestos-trump.html "Claudia Sheinbaum pide ‘calma’ a los mercados ante aranceles propuestos por Donald Trump")
+* [Evo Morales acusa a Donald Trump de financiar un ‘golpe de Estado’ en Bolivia](https://www.elcomercio.com/actualidad/mundo/evo-morales-acusa-donald-trump-financiar-golpe-estado-bolivia.html "Evo Morales acusa a Donald Trump de financiar un ‘golpe de Estado’ en Bolivia ")
+
+El presidente electo de Estados Unidos anunció un recargo del **25 % a todos los bienes importados** desde México y Canadá, así como un arancel adicional del 10 % a los productos chinos. Esto ocurrirá hasta que **estos países** \-que son sus principales socios comerciales- **frenen la llegada de inmigración** ilegal y drogas, en particular el fentanilo, lo que tendría consecuencias económicas para todos ellos.
+
+Es de esperar que los aranceles estadounidenses produzcan una nueva **oleada de disputas comerciales** en el seno de la **Organización Mundial del Comercio (PMC)**, que puede autorizar sanciones.
+
+Las diferencias se dirimen en una suerte de tribunal comercial, cuya última instancia está bloqueada desde 2019 porque EEUU se niega a autorizar el nombramiento de nuevos jueces. Esto provoca que una de las **principales disputas comerciales nacidas en** la anterior Administración de Trump (2017-2021) -la mantenida con China por la imposición recíproca de aranceles- aún esté en el limbo en la OMC, como otros 30 conflictos comerciales entre distintas economías.
+
+“Con el sistema de **disputas bloqueado sin funcionalidad,** los miembros de la OMC están tomando cada vez más la justicia por su mano y esto mina en gran medida el **supuesto equilibro comercial**“, analiza en declaraciones eith Rockwell, investigador de la Fundación Hinrich que trabajó durante años en esa organización con sede en Ginebra.
+
+Previsión de crecimiento de México se desploma
+----------------------------------------------
+
+Tras el anuncio de Trump, Moody’s rebajó a la mitad, **al 0,6 %, el pronóstico de crecimiento** de la economía de México para 2025.
+
+EE.UU. es el país al que México envía el **80 % de sus exportaciones**, en su mayoría componentes de automóviles, **vehículos ligeros, camiones, procesadores de datos y tractores,** según la Secretaría de Economía de México.
+
+La presidenta de México, Claudia Sheinbaum, respondió a Trump con una carta en la que advierte de que “a un a**rancel vendrá otro en respuesta** y así hasta que pongamos en riesgo empresas comunes”, lo que causaría en ambos países un repunte de la inflación y pérdida de empleo.
+
+El secretario de Economía, Marcelo Ebrard, ha augurado la destrucción de 400 000 empleos en EEUU, ya que las empresas más afectadas en México son totalmente o en parte estadounidenses -General Motors, Stellantis y Ford-, lo que para el país vecino supone “un tiro en el pie”.
+
+Canadá teme una recesión
+------------------------
+
+El temor en Canadá es que incluso unos aranceles del 10 % costarían a la economía canadiense alrededor de un 1 % de su PIB, mientras que un recargo del **25 % sumiría al país en una profunda recesión,** lo que llevó al primer ministro, Justin Trudeau, a convocar una reunión de emergencia con las provincias del país para acordar una estrategia.
+
+De momento, las provincias canadienses**, capitaneadas por Ontario** – la más industrial y centro del sector del automóvil de Canadá- respaldan desmantelar el actual tratado de comercio trilateral, T-MEC, para que Washington y Ottawa negocien un acuerdo bilateral sin México.
+
+El **director del Instituto de Investigación Económica Regiona**l y profesor asistente de Economía de la Universidad Florida Gulf Coast en EEUU, Amir Neto, señaló que la imposición de aranceles entre los tres socios norteamericanos supondrá **“el fin del acuerdo de libre comercio”**. Sin embargo, considera que nadie sabe si Trump está lanzando un farol para extraer concesiones de México y Canadá o si es una amenaza real.
+
+La postura de China
+-------------------
+
+La Embajada china en Washington afirmó que “**nadie ganará una guerra comercial o arancelaria**” y criticó las acusaciones de Trump sobre el **papel del país asiático** en el tráfico de drogas: “La idea de que China permite deliberadamente que los precursores (químicos) del fentanilo fluyan hacia Estados Unidos va completamente contra los hechos y la realidad”.
+
+El viceministro de Comercio de China, Wang Shouwen, ha asegurado que serán los consumidores estadounidenses los que acaben pagando esas tasas.
+
+“Como los aranceles los pagan los consumidores y usuarios en el país importador, se traducirán inevitablemente en (…) un aumento de la inflación”, ha apuntado.
+
+La maquinaria aglutina casi la mitad de los 500.243 millones de dólares que China exportó a EEUU en 2023, un 13,1 % menos que el año anterior, con bienes destacados como los equipos de transmisión, los ordenadores, los componentes para máquinas de oficina o las baterías eléctricas.
+
+Estimaciones de la consultora Capital Economics cifran en hasta un 1,1 % del PIB chino el hipotético impacto de aranceles estadounidenses de un 60 %, ya que la demanda estadounidense de bienes representa menos de un 3 % de la segunda economía mundial.
+
+Esa firma prevé que China apostará por dejar que su moneda, el yuan, se deprecie para amortiguar el impacto, aunque limitando el descenso “para no provocar a Trump”.
+
+Europa se prepara
+-----------------
+
+La Comisión Europea está dispuesta a cooperar con la futura Administración Trump, pese a lo cual Bruselas creó hace un año un grupo de trabajo para **analizar las consecuencias de las elecciones** estadounidenses y está “preparada para todas las posibilidades”, según el portavoz de Comercio, Olof Gil.
+
+Los sectores europeos que más afectados por un eventual aumento de los **aranceles serían el farmacéutico y el automovilístico**, los dos que más exportaron a EEUU en 2023, según Eurostat.
+
+Todo ello mientras la UE y EEUU, bajo el Gobierno de Joe Biden, tampoco cerraron las antiguas disputas abiertas durante el anterior mandato de Trump por los **aranceles al acero y al aluminio** o a la aceituna negra española, y mientras la guerra comercial por Boeing y Airbus está congelada, por ahora, hasta 2026. 
+
+Guayaba y canela, infusión con insospechados beneficios para la salud
+=====================================================================
+
+Estos ingredientes aportan beneficios al organismo, por su alto contenido en vitaminas y fibra.
+-----------------------------------------------------------------------------------------------
+
+![Tés naturales para lograr un bienestar en la salud.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-1-4.jpg)
+
+Los **tés** son una de las **bebidas predilectas** para acompañar las comidas a cualquier hora del día, ya que ayudan con la **digestión**, aunque existen variedades de sabores, la gran mayoría son **beneficiosas** para la **salud**.
+
+* [La hierba para desintoxicar y limpiar el hígado de forma natural](https://www.elcomercio.com/tendencias/salud/hierba-desintoxica-limpia-higado-natural.html "La hierba para desintoxicar y limpiar el hígado de forma natural")
+* [Celebra el Día del Vino Tinto con sabor y estilo](https://www.elcomercio.com/tendencias/gastronomia/dia-vino-tinto-efemeride.html "Celebra el Día del Vino Tinto con sabor y estilo ")
+* [Los tres alimentos recomendados por Harvard para disminuir el riesgo de demencia](https://www.elcomercio.com/tendencias/salud/alimentos-demencia-harvard-salud.html "Los tres alimentos recomendados por Harvard para disminuir el riesgo de demencia ")
+
+La **infusión de guayaba** con **canela** contiene varias **propiedades** y su preparación conserva una mayor cantidad de **nutrientes**, principalmente para el **sistema digestivo** y respiratorio. La **guayaba** es rica en vitaminas C, A, E, D12, hierro, cobre, calcio, potasio y magnesio. Está compuesta por agua, por lo que aporta pocas calorías, así lo dice un artículo de la Procuraduría Federal del Consumidor (Profeco), de México.
+
+La guayaba y sus múltiples formas de disfrutarla en todo el año
+---------------------------------------------------------------
+
+Una de las **ventajas** de esta **fruta** es que está presente en todas las **temporadas** del **año** y en Colombia la cultivan en diferentes departamentos como lo son Boyacá, Santander, Meta, Cauca, Tolima, Valle del Cauca, Caldas y Atlántico, según el Ministerio de Agricultura y Desarrollo Rural.
+
+Además, de todos los beneficios que tiene la **guayaba**, la puede consumir como fruto fresco o en preparaciones como **mermeladas**, **postres** e **infusiones** acompañadas de otras **hierbas** y plantas.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2-4-1024x683.jpg)
+
+La guayaba es rica en vitaminas. Ilustración generadad en Ideogram.ai
+
+El sitio web ‘Consumer Eroski’, si la **pulpa** es anaranjada, es más rica en **provitamina A, vitamina C** que contiene en la **formación de colágeno, huesos y dientes**, glóbulos rojos y favorece la absorción del hierro de los alimentos y la resistencia a las infecciones.
+
+La canela, rica en nutrientes y beneficios medicinales
+------------------------------------------------------
+
+Por otro lado, la **canela** contiene **niveles altos de fósforo, magnesio, hierro, vitamina A, C, ácido fólico y pocas calorías**. Esta planta ha tenido uso medicinal desde la antigüedad por las propiedades digestivas, antibióticas y antisépticas para tratar varios tipos de enfermedades.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-9-1024x683.jpg)
+
+El té de canela con guayaba contiene beneficios para la salud.
+
+Esta especia también es rica en **calcio, magnesio y fibra** y tiene propiedades antioxidantes que fortalece el **sistema inmunológico** que ayuda a prevenir el cáncer y enfermedades del corazón.
+
+Estos son los beneficios que tiene la infusión de té de canela y guayaba
+------------------------------------------------------------------------
+
+Tanto la **guayaba como la canela** tiene propiedades y al consumirla juntas le aporta una cantidad de **beneficios** a la **salud** del cuerpo humano, entre las que se encuentran las siguientes:
+
+* Previene **enfermedades respiratorias**: esta bebida de guayaba con canela es ideal para combatir enfermedades como el resfriado, gripa, entre otras. Gracias a su alto contenido de **vitamina C**, la cual actúa como **antioxidante** y protege las células de los daños que causan los radicales libres.
+* **Ayuda** a **bajar de peso**: esta infusión es baja en calorías y tiene una rápida absorción en el **metabolismo** y contribuye acelerar el **proceso de digestión**.
+* **Disminuye los niveles de azúcar**: esta especie es utilizada para disminuir el azúcar en la sangre, ya que puede ayudar a controlar la **ansiedad** por consumir **bebidas dulces** y ayuda a mejorar la absorción de la **glucosa** en las células.
+* **Mejora el sistema digestivo**: el té de guayaba con canela contribuye a tratar la **diarrea** y el **estreñimiento**.
+
+Shakira rompe el récord de Taylor Swift en el tercer país más grande de Latinoamérica
+=====================================================================================
+
+Shakira hace historia con su tour 'Las Mujeres Ya No Lloran'.
+-------------------------------------------------------------
+
+![Shakira sumó un nuevo hito en su carrera. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-27T131458.838.jpg)
+
+**Shakira** sigue sorprendiendo al mundo con el éxito rotundo de su gira ‘**Las Mujeres Ya No Lloran’**. Su tour marcó un antes y un después en la historia de los conciertos en **el tercer país más grande de Latinoamérica**.
+
+La cantante colombiana, quien volvió a los escenarios después de seis años de ausencia, nunca imaginó la increíble respuesta de sus seguidores.
+
+Los **boletos** para sus primeros **conciertos** se agotaron en cuestión de minutos. Eso llevó a la artista a postergar el inicio de su tour para poder ampliar la producción a recintos más grandes.
+
+### **Más noticias:**
+
+* [En Spotify, un puertorriqueño endulza el oído del ecuatoriano](https://www.elcomercio.com/tendencias/entretenimiento/spotify-preferidas-ecuador-top-10-puertorriqueno-artistas.html "https://www.elcomercio.com/tendencias/entretenimiento/spotify-preferidas-ecuador-top-10-puertorriqueno-artistas.html")
+* [El ‘playlist’ del ecuatoriano es solo música urbana, según Spotify](https://www.elcomercio.com/tendencias/entretenimiento/ecuador-playlist-musica-urbana-spotify.html "https://www.elcomercio.com/tendencias/entretenimiento/ecuador-playlist-musica-urbana-spotify.html")
+* [Una canción de Justin Bieber ‘revive’ tras la polémica de ‘Diddy’](https://www.elcomercio.com/tendencias/entretenimiento/justin-bieber-diddy-lonely-controversia-fans.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/justin-bieber-diddy-lonely-controversia-fans.html?source=Internal&ref=Single+Content+Link")
+
+**Shakira se pronunció sobre su nueva hazaña**
+----------------------------------------------
+
+A través de sus **redes sociales**, **[Shakira](https://www.shakira.com/?queueittoken=e_shakira~ts_1732732073~ce_true~rt_safetynet~h_c1a1d74fb12f504c50e5049ef7e7687bbddd3119bddbf9f1eb1f9aa387bd0730 "https://www.shakira.com/?queueittoken=e_shakira~ts_1732732073~ce_true~rt_safetynet~h_c1a1d74fb12f504c50e5049ef7e7687bbddd3119bddbf9f1eb1f9aa387bd0730")** expresó su emoción por el apoyo recibido en ese gigante de Latinoamérica.
+
+“Nunca imaginé recibir esta placa y superar mis expectativas. Gracias, gracias y gracias. Prometo ofrecer el mejor concierto de mi vida”, escribió la cantante, visiblemente emocionada por el amor de sus fans.
+
+**Shakira rompe el récord de Taylor Swift en el tercer país más grande de Latinoamérica**
+-----------------------------------------------------------------------------------------
+
+En México, la intérprete de **Suerte** logró un logro histórico al agotar las entradas de los siete conciertos en el Estadio GNP Seguros (antes Foro Sol), superando el récord anterior de **cuatro shows** agotados que estableció Taylor Swift en el mismo recinto.
+
+> [View this post on Instagram](https://www.instagram.com/p/DCpojjAvlqf/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [A post shared by Shakira (@shakira)](https://www.instagram.com/p/DCpojjAvlqf/?utm_source=ig_embed&utm_campaign=loading)
+
+Shakira se convirtió así en la primera artista en la historia del país en realizar siete fechas consecutivas con entradas agotadas en este icónico estadio de la Ciudad de México.
+
+Según el calendario, la **cantante colombiana** se reencontrará con el público mexicano en marzo de 2024, con conciertos el 19, 21, 23, 25, 27, 28 y 30.
+
+19 cierres viales este miércoles 27 de noviembre por partido de fútbol
+======================================================================
+
+La AMT puso en marcha un operativo con cierres primarios y secundarios alrededor del estadio. Además, controlarán autos mal parqueados
+--------------------------------------------------------------------------------------------------------------------------------------
+
+![Agentes de tránsito controlarán el flujo vehicular en los alrededores del estadio.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-39.jpg)
+
+La **Agencia Metropolitana de Tránsito** (AMT) planificó un operativo para este miércoles 27 de noviembre de 2024 por la realización del partido entre El Nacional e Independiente del Valle, en Quito.
+
+### Más noticias
+
+* [Al menos cinco calles cerradas para atender incendio estructural en Quito](https://www.elcomercio.com/actualidad/quito/al-menos-cinco-calles-cerradas-para-atender-incendio-estructural-en-quito.html "Al menos cinco calles cerradas para atender incendio estructural en Quito")
+* [Al menos 12 calles están cerradas en Quito por desfile](https://www.elcomercio.com/actualidad/quito/al-menos-12-calles-estan-cerradas-quito-desfile-transito.html "Al menos 12 calles están cerradas en Quito por desfile")
+* [AMT sancionó a conductor de taxi que invadió La Carolina, en Quito](https://www.elcomercio.com/actualidad/quito/amt-sanciono-a-conductor-de-taxi-que-invadio-la-carolina-en-quito.html "AMT sancionó a conductor de taxi que invadió La Carolina, en Quito")
+
+Operativo de tránsito
+---------------------
+
+El partido se realizará en el **estadio Rodrigo Paz**, ubicado en la av. De la Prensa, por lo que las vías aledañas se incluyen en el operativo de cierres viales.
+
+El plan operativo contempla un **cierre primario** que se realiza desde las 09:00 hasta las 19:00. Y un cierre secundario que será de 11:00 a 19:00.
+
+El partido está previsto desde las 15:00 hasta las 17:00; sin embargo, los agentes de tránsito gestionarán el flujo vehicular durante el día.
+
+Cierres viales
+--------------
+
+Las vías cerradas este miércoles 27 de noviembre son las siguientes:
+
+* Av. Diego Vásquez de Cepeda y Cacica Quilago
+* Ramón Chiriboga y Jhon F. Kennedy
+* Ramón Chiriboga y Pablo Palacio
+* Ramón Chiriboga y Miguel Moreno
+* Ramón Chiriboga y Jacinto Morlán
+* Av. De la Prensa y David Ledesma
+* Av. De la Prensa y Gustavo Lemus
+* Av. De la Prensa y Pablo Picasso
+* Jhon F. Kennedy y Leonardo Da Vinci
+* Jhon F. Kennedy y Pablo Picasso
+* Jhon F. Kennedy y La Esperanza
+* Jhon F. Kennedy y Cacica Quilango
+* Gustavo Lemus y David Ledesma
+* La Esperanza y Camilo Guachamín
+* La Esperanza y Rembrandt
+* La Esperanza y Jhon F. Kennedy
+* Rembrandt y Vincent Van Gogh
+* Juana Terrazas y Tomasa Mideros
+* Juana Terrazas y Vincent Van Gogh
+
+Si necesitas [circular por el sector,](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito") puedes tomar **estas vías alternas**:
+
+* Av. De la Prensa
+* Av. Diego Vásquez de Cepeda
+* Calle Ramón Chiriboga
+* Calle Pablo Picasso
+* Calle Gustavo Lemus
+* Calle Tomasa Mideros
+* Av. Mariscal Sucre
+* Calle Camilo Guachamín
+
+Los agentes de tránsito controlarán autos mal parqueados, ten precaución.
+
+Real Madrid se encomienda a Kylian Mbappé en la Champions
+=========================================================
+
+El Real Madrid tiene un supremacía total sobre el Liverpool. La última victoria de los ingleses fue en 2009.
+------------------------------------------------------------------------------------------------------------
+
+![Kylian Mbappé, delantero del Real Madrid de España.](https://www.elcomercio.com/wp-content/uploads/2024/11/mbappe_madrid_2.jpg)
+
+La afición del **Real Madrid se encomienda al astro francés Kylian Mbappé** para lograr la victoria ante el Liverpool este miércoles 27 de noviembre de 2024, en la Champions League, ante una afición ‘red’ en busca de revancha en lo que se está convirtiendo un clásico en Europa.
+
+“**Confiamos en Mbappé, tiene que ser el momento de Kylian**”, afirman a EFE una pareja de hermanos hinchas del Real Madrid, Alejandro y Hugo Serrano, desplazados desde la capital española. “Hoy es su día”, pronostican.
+
+### Más noticias:
+
+* [FIFA recordó un momento doloroso de la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/fifa-recordo-un-momento-doloroso-de-la-seleccion-de-ecuador.html "FIFA recordó un momento doloroso de la Selección de Ecuador")
+* [Independiente vs. El Nacional, la final de la opulencia y la necesidad](https://www.elcomercio.com/deportes/futbol/final-copa-ecuador-idv-nacional.html "Independiente vs. El Nacional, la final de la opulencia y la necesidad")
+* [Liga de Portoviejo definió fecha y hora para semifinal ante 22 de Julio](https://www.elcomercio.com/deportes/futbol/liga-portoviejo-partido-horario-22julio-ascenso.html "Liga de Portoviejo definió fecha y hora para semifinal ante 22 de Julio")
+
+“Se tiene que echar el equipo a la espalda”, dice Alejandro enfundado en su bufanda blanca y bien tapado por un gorro para aliviar el frío inglés.
+
+Ante las bajas de **Vinícius Júnior, héroe de la final de París, y Rodrygo Goes**; la afición madridista no se amedrenta ante el buen estado de forma del Liverpool, invicto en la competición europea, fetiche de los blancos, y primero en la Premier League con ocho puntos de ventaja sobre el Manchester City.
+
+Con el paso de las temporadas este encuentro se ha convertido en un clásico de Europa, pero un clásico con sabor blanco, ya que el Liverpool no ha ganado ninguno de los ocho últimos enfrentamientos, con siete victorias y un empate para el Real Madrdud,
+
+“Son de los equipos más grandes de Europa, **es una rivalidad total, se va a ganar sin duda.**”, sostiene a EFE un aficionado blanco procedente de Barcelona, Rafa Barrio, que apuesta por un 1-3.
+
+A Barrio sus amigos le llaman ‘el talismán’ porque ha estado en las últimas nueve finales de la ‘Champions’ del Real Madrid, desde la Séptima de Mijatovic. No teme el ambiente de Anfield.
+
+![Foto: Facebook del club.](https://www.elcomercio.com/wp-content/uploads/2024/11/mbappe_madrid_1-1024x683.jpg)
+
+Foto: Facebook del club.
+
+El Madrid domina al Liverpool
+-----------------------------
+
+La última victoria del Liverpool se remonta a la temporada 2009; cuando el ‘Niño’ Torres era flamante delantero ‘Red’; y endosó un 4-0 con doblete de su eterno capitán Steven Gerrard.
+
+Liverpool es una **ciudad de pasado industrial y de gente trabajadora**, que respira fútbol por los cuatro puntos cardinales, y con dos colores predominantes: el rojo (Liverpool) y azul (Everton).
+
+La rivalidad de ambos equipos está separada por un pequeño parque que distancia Goodison Park de Anfield.
+
+“La gente piensa que estamos divididos, pero no es así, tengo amigos que apoyan al Everton. **Mi chica apoya al Everton**”, comenta Abdul mientras que conduce de camino al campo de entrenamiento del Liverpool. “Mis hijos eligieron el lado correcto (Red)”, ríe.
+
+“Es cierto, no estamos divididos. Yo diría que es noventa – diez, para el Liverpool”, comenta con guasa John Robert, liverpuliano con un marcado acento ‘Scous’e en el trayecto al hogar de los Red, Anfield.
+
+Desde entonces, todos los encuentros frente al Real Madrid casi cuentan por **derrotas y títulos para los blancos, Kiev (2018) y París (2022)**, decimotercero y decimocuarto entorchado continental madridista, y el último una remontada en octavos de final (2-5) en 2023.
+
+“Hay ese sentimiento de revancha”, dice un joven aficionado Red a EFE, Aaron Smith. “Este año está yendo bien en Europa y Real Madrid no lo está haciendo tan bien…. Estaría genial una victoria, un 3-1”, afirma.
+
+Los aficionados rojos, cautelosos y precavidos, se encomiendan a sus jugadores y sobre todo al ambiente de Anfield.
+
+Robert, al igual que su nuevo entrenador, Arne Slot, se muestra cauteloso. “**Estamos en muy buena forma, un inicio espectacular**, pero es el Real Madrid. Siempre tienen algo”, aunque confía en “la magia de Anfield”, como sucedió frente al Barcelona (4-0) en 2018.
+
+San viernes
+-----------
+
+Benjamín Netanyahu notifica a la CPI su decisión de apelar la orden de arresto en su contra
+===========================================================================================
+
+Además, el Gobierno israelí afirmó que no reconoce la autoridad de la CPI ni las órdenes de detención correspondientes.
+-----------------------------------------------------------------------------------------------------------------------
+
+![El primer ministro israelí, Benjamin Netanyahu.](https://www.elcomercio.com/wp-content/uploads/2024/11/netanyahu-efe-ok.jpg)
+
+ El primer ministro de Israel, [Benjamín Netanyaju](https://www.elcomercio.com/actualidad/mundo/cpi-dicta-orden-de-arresto-contra-netanyahu-por-crimenes-de-guerra-en-gaza.html "https://www.elcomercio.com/actualidad/mundo/cpi-dicta-orden-de-arresto-contra-netanyahu-por-crimenes-de-guerra-en-gaza.html"), confirmó este miércoles, 27 de noviembre de 2024, que va a **apelar la orden de arresto** que emitió la **Corte Penal Internacional (CPI)** contra él y el exministro de Defensa Yoav Gallant.
+
+### Más noticias
+
+* [Hamás celebra la orden de detención a Netanyahu y Gallant](https://www.elcomercio.com/actualidad/mundo/hamas-celebra-orden-detencion-netanyahu-gallant.html "Hamás celebra la orden de detención a Netanyahu y Gallant")
+* [La CPI dicta orden de arresto contra Netanyahu por crímenes de guerra en Gaza](https://www.elcomercio.com/actualidad/mundo/cpi-dicta-orden-de-arresto-contra-netanyahu-por-crimenes-de-guerra-en-gaza.html "La CPI dicta orden de arresto contra Netanyahu por crímenes de guerra en Gaza")
+* [Benjamín Netanyahu reitera que ‘la luz vencerá a las tinieblas’ en un mensaje a Irán](https://www.elcomercio.com/actualidad/mundo/netanyahu-reitera-luz-vencera-tinieblas-mensaje-iran.html "Benjamín Netanyahu reitera que ‘la luz vencerá a las tinieblas’ en un mensaje a Irán")
+
+“Israel presentó hoy a la Corte Penal Internacional (CPI) un aviso de su **intención de apelar ante el tribunal** con una demanda para retrasar la ejecución de las órdenes de arresto”, informó en un comunicado la oficina del Primer Ministro.
+
+La notificación, destacó la nota, “revela en **detalle lo inverosímil** y carente de fundamento fáctico o legal que fue la decisión de emitir las órdenes de arresto”.
+
+Gobierno israelí se pronuncia
+-----------------------------
+
+Además, el Gobierno israelí afirmó que no reconoce la autoridad de la CPI ni las órdenes de detención correspondientes.
+
+Medios israelíes revelaron que la **participación de Francia** en las negociaciones para el cese al fuego en el Líbano, entre Israel y la milicia chií Hezbolá, estuvo condicionada al compromiso de que París anunciara que no cumpliría con la **orden de arresto** contra Netanyahu emitida por la CPI.
+
+El anuncio de la apelación se produjo tras una reunión entre Netanyahu y el senador estadounidense **Lindsey Graham en Jerusalén** en un encuentro en el que discutieron las iniciativas impulsadas en el Congreso estadounidense para sancionar a los países que cooperen con la CPI.
+
+La CPI emitió el 21 de noviembre **órdenes de arresto contra Netanyahu y Gallant** acusados de crímenes de guerra por la ofensiva israelí en la Franja de Gaza.
+
+El futuro Gobierno de Trump sella alianza con Texas para su plan de deportaciones
+=================================================================================
+
+Texas instaló kilómetros de concertina en diferentes zonas del territorio fronterizo, al igual que colocó una barrera flotante sobre el río Grande.
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Donald Trump en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/11/Donald-Trump-efe-8-noviembre-1.jpg)
+
+El Gobierno entrante de EE.UU. – dirigido por el presidente electo [Donald Trump](https://www.elcomercio.com/actualidad/mundo/donald-trump-promete-mas-aranceles-sobre-china-y-mexico.html "https://www.elcomercio.com/actualidad/mundo/donald-trump-promete-mas-aranceles-sobre-china-y-mexico.html")– selló este martes la **alianza con el estado de Texas** para implementar su plan de deportar a los más de **11 millones de migrantes indocumentados** que viven en el país.
+
+Más noticias
+------------
+
+* [Donald Trump elije a Jamieson Greer como representante comercial](https://www.elcomercio.com/actualidad/mundo/donald-trump-elije-jamieson-greer-representante-comercial.html "Donald Trump elije a Jamieson Greer como representante comercial")
+* [Donald Trump promete más aranceles sobre China y México](https://www.elcomercio.com/actualidad/mundo/donald-trump-promete-mas-aranceles-sobre-china-y-mexico.html "Donald Trump promete más aranceles sobre China y México")
+* [Claudia Sheinbaum pide ‘calma’ a los mercados ante aranceles propuestos por Donald Trump](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-pide-calma-mercados-ante-aranceles-propuestos-trump.html "Claudia Sheinbaum pide ‘calma’ a los mercados ante aranceles propuestos por Donald Trump")
+
+El elegido de Trump para liderar esta labor, el llamado **‘zar de la frontera’**, Tom Homan, viajó a la ciudad fronteriza de Eagle Pass para reunirse con el **gobernador de Texas, Greg Abbott,** y visitar una base militar instalada a orillas del Río Grande.
+
+Abbott, un ultraconservador en el poder desde 2015, se convirtió en uno de los pioneros de las políticas anti-migrantes en el país, principalmente a través de la iniciativa **‘Operation Lone Star’** (operación estrella solitaria), en la que ha gastado más de 11 000 millones de dólares para militarizar la frontera con México.
+
+En la base militar – un **complejo inaugurado en abril**, con capacidad para hasta **1 800 efectivos- Homan alabó las polémicas** acciones de Abbott para “frenar” la migración y señaló que el estado es un ejemplo a seguir para el país.
+
+“Usted es un héroe nacional”, dijo el exfuncionario del **Servicio de Inmigración y Control de Aduanas** (ICE) a Abbott y felicitó también a los militares, que se reunieron a la hora del almuerzo para una celebración adelantada del festivo de Acción de Gracias.
+
+Base ubicada en Río Grande
+--------------------------
+
+La base está ubicada a pocos metros del **Río Grande,** que hace de frontera natural entre EE.UU. y México, y está compuesta por decenas de contenedores de obra repartidos sobre un terreno árido que hacen de oficinas y habitaciones para los militares.
+
+En mesas decoradas con manteles naranjas y calabazas de cerámicas, los soldados comieron para conmemorar la festividad y recibieron las “gracias” de los **funcionarios de alto rango por “defender** a EE.UU.” de lo que llaman una “invasión” de migrantes.
+
+Las medidas de Abbott lo llevaron a enfrentarse en varias ocasiones con la Administración del actual presidente Joe Biden, dado que el **Gobierno federal es el encargado de hacer cumplir** las leyes migratorias de EE.UU.
+
+Además del despliegue de militares, Texas instaló kilómetros de concertina en diferentes zonas del territorio fronterizo, al igual que colocó una barrera flotante sobre el río Grande.
+
+A su vez, los efectivos de la Guardia Nacional fueron **sido acusados por organizaciones de derechos** humanos en la frontera de utilizar gas lacrimógeno, bolas de goma e incluso de golpear a migrantes para evitar que crucen hacia territorio estadounidense.
+
+Tanto Homan como Abbott indicaron que el equipo de transición y el gobierno de Texas ya están comenzando a trabajar juntos para planear cómo se llevarán a cabo las deportaciones una vez Trump se mude a la Casa Blanca.
+
+“El cambio ya comenzó, a través de acciones, planes y preparaciones. Todo lo necesario para que no haya un hueco y que cuando llegue el **20 de enero haya un cambio en la manera en que EE.UU.** protege su frontera y su soberanía”, subrayó el gobernador.
+
+Texas es el segundo estado con la mayor cantidad de migrantes indocumentados en el país, detrás de California, con alrededor de **1,6 millones de personas**, según datos del centro de investigación Pew Research Center.
+
+Facilitar el plan de Trump
+--------------------------
+
+La colaboración de los gobiernos estatales y locales será clave para frenar o **facilitar el plan de Trump** de deportaciones masivas y Abbott ya ha dejado claro que hará todo lo posible para apoyar a su aliado, incluso a través de los recursos de ‘Operation Lone Star’.
+
+Homan aprovechó para **dirigir unas palabras a los gobernadores de estados** que se han pronunciado en contra de las deportaciones masivas y adelantaron que no cooperarán para perseguir a los migrantes (entre ellos la gobernadora demócrata del estado fronterizo de Arizona, Katie Hobbs).
+
+“No crucen esa línea; albergar y ocultar a **migrantes ilegales es un delito grave.** No nos pongan a prueba”, sentenció. 
+
+Sexo programado para contrarrestar la rutina diaria 
+====================================================
+
+La planificación puede ser una solución efectiva para contrarrestar la rutina diaria.
+-------------------------------------------------------------------------------------
+
+![El sexo programado surge como una alternativa para avivar la llama de la pasión. Foto: Pexels](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-27T121102.510.jpg)
+
+El uso del **calendario** para programar **encuentros sexuales** entre **parejas** cobra relevancia en la búsqueda de **mantener** la intimidad en relaciones a largo plazo. 
+
+Expertos sugieren que, aunque la **espontaneidad** es valorada, la **planificación** puede ser una solución efectiva para **contrarrestar** la rutina diaria y el **desgaste emocional** que enfrentan muchas parejas. ¿Qué dicen los expertos?
+
+### **Más noticias:**
+
+* [¿Quieres un juguete sexual? Una experta te ayuda a elegir al compañero ideal](https://www.elcomercio.com/tendencias/bienestar/juguete-sexual-companero-ideal-seleccion-pareja.html "https://www.elcomercio.com/tendencias/bienestar/juguete-sexual-companero-ideal-seleccion-pareja.html")
+* [Karol G pide disculpas ‘de corazón’ por la canción +57](https://www.elcomercio.com/tendencias/entretenimiento/karol-g-musica-criticas-fans-nueva-cancion-57.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/karol-g-musica-criticas-fans-nueva-cancion-57.html?source=Internal&ref=Single+Content+Link")
+* [La canción más icónica de Madonna cumple 40 años](https://www.elcomercio.com/tendencias/entretenimiento/madonna-like-virgin-aniversario-musica.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/madonna-like-virgin-aniversario-musica.html?source=Internal&ref=Single+Content+Link")
+
+De acuerdo con un **estudio** realizado por el Instituto Kinsey de la Universidad de Indiana, en Estados Unidos, **solo el 34% de las parejas casadas mantiene relaciones sexuales entre dos y tres veces a la semana.** El 66% restante sostiene que la frecuencia y la satisfacción es menor.
+
+**¿Qué dice la gente sobre el sexo programado?**
+------------------------------------------------
+
+Luis – de 41 años- jamás lo practicaría. Este contador quiteño afirma que el **sexo programado** podría generar **estrés** en la pareja. “¿Qué pasa si no cumples con las fechas fijadas?”. 
+
+Insiste en que el **sexo** debe darse naturalmente y que debe ser de mutuo acuerdo.  
+
+Esteban -de 32 años- coincide con Luis y añade que el sexo debe fluir. “No se trata de una actividad cualquiera”.
+
+La educadora sexual ecuatoriana July Ruiz -en cambio- afirma que todo es válido cuando se trata de mantener encendida la llama de la pasión. Destaca que programar tiempo para el **sexo** no debe ser una obligación, sino una oportunidad para disfrutar juntos. Hace hincapié en que cualquier estrategia debe ser consultada con la pareja.
+
+**Flexibilidad en el sexo programado**
+--------------------------------------
+
+Aunque se establezcan días específicos, es importante mantener un grado de **flexibilidad**. Esto permite que las parejas adapten sus planes según el estado de ánimo o las circunstancias, evitando que la programación se sienta como una carga.
+
+Asamblea Nacional tomó una decisión sobre el juicio político contra Andrea Arrobo
+=================================================================================
+
+Asamblea Nacional aprueba juicio político contra la exministra de Energía, Andrea Arrobo, por crisis energética.
+----------------------------------------------------------------------------------------------------------------
+
+![Votación del Pleno de la Asamblea para dar paso al juicio político contra Andrea Arrobo.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-62-1.jpg)
+
+El Pleno de la Asamblea Nacional decidió, **con 80 votos afirmativos,** continuar con el **juicio político** contra **Andrea Arrobo Peña**, exministra de Energía y Minas. La resolución se ampara en el numeral 2 del **artículo 83 de la Ley Orgánica de la Función Legislativa**, según informó el comunicado oficial emitido este miércoles 27 de noviembre de 2024.
+
+### Más noticias
+
+* [Asamblea aplazó debate sobre el Código Orgánico de Protección Integral a Niñas, Niños y Adolescentes](https://www.elcomercio.com/actualidad/politica/asamblea-aplazo-debate-codigo-organico-proteccion-integral-ninos-adolescentes.html "Asamblea aplazó debate sobre el Código Orgánico de Protección Integral a Niñas, Niños y Adolescentes")
+* [Proyectos urgentes de Daniel Noboa van a primer debate en la Asamblea](https://www.elcomercio.com/actualidad/politica/proyectos-urgentes-daniel-noboa-primer-debate-asamblea.html "Proyectos urgentes de Daniel Noboa van a primer debate en la Asamblea")
+* [Juez dicta medidas cautelares contra funcionaria de la Asamblea que participó en las marchas](https://www.elcomercio.com/actualidad/politica/juez-dicta-medidas-cautelares-funcionaria-asamblea-marchas.html "Juez dicta medidas cautelares contra funcionaria de la Asamblea que participó en las marchas")
+
+La presidenta de la **Asamblea Nacional** tiene un plazo máximo de **cinco días** para incluir el juicio en el orden del día del Pleno. Durante esta sesión, se decidirá si se absuelve o censura a la exfuncionaria.
+
+> Con 80 votos afirmativos, se aprueba la moción de continuar con el [#JuicioPolítico](https://twitter.com/hashtag/JuicioPol%C3%ADtico?src=hash&ref_src=twsrc%5Etfw) en contra de [@andrearrobo](https://twitter.com/andrearrobo?ref_src=twsrc%5Etfw), presentada por la asambleísta [@AnitaMGalarzaA](https://twitter.com/AnitaMGalarzaA?ref_src=twsrc%5Etfw). [#JuntosLegislamos](https://twitter.com/hashtag/JuntosLegislamos?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/b0KF3u9JWf](https://t.co/b0KF3u9JWf)
+> 
+> — Asamblea Nacional (@AsambleaEcuador) [November 27, 2024](https://twitter.com/AsambleaEcuador/status/1861807743897588207?ref_src=twsrc%5Etfw)
+
+Posturas en la Asamblea sobre juicio político a Arrobo
+------------------------------------------------------
+
+En el proceso, se presentaron tres informes de postura. El primero, liderado por asambleístas como **Lenin Barreto, Sofía Espín y Pamela Aguirre,** recomendó archivar el juicio político.
+
+Según Barreto, la responsabilidad de los apagones eléctricos no recae únicamente en Arrobo, sino también en otros funcionarios como **Roberto Luque y Félix Wong**, e incluso en el Presidente de la República, Daniel Noboa.
+
+Por su parte, un segundo grupo, integrado por **Lenin Rogel y Ramiro Vela**, respaldó el enjuiciamiento, señalando un **presunto incumplimiento de funcione**s por parte de la exministra. Rogel enfatizó que las políticas públicas deben ser continuas y no depender de ideologías políticas, abogando por la censura.
+
+El tercer informe, presentado por **Adriana García**, también apoyó el juicio político. García indicó que esta acción **no constituye un ataque personal**, sino un acto de justicia en beneficio de los ecuatorianos afectados por la crisis energética.
+
+Argumentos sobre la crisis energética
+-------------------------------------
+
+Durante el debate, **Vicente Taiano** destacó que el país atraviesa una crisis energética, con cortes de luz de hasta **48 horas en el sector industrial** y **16 horas en los hogares**. Según Taiano, la exministra actuó con negligencia al no cumplir con las **responsabilidades inherentes a su cargo**.
+
+> [#JuicioPolítico](https://twitter.com/hashtag/JuicioPol%C3%ADtico?src=hash&ref_src=twsrc%5Etfw)[@VicenteTaianoEC](https://twitter.com/VicenteTaianoEC?ref_src=twsrc%5Etfw) destaca que son 70 días de una [#CrisisEnergética](https://twitter.com/hashtag/CrisisEnerg%C3%A9tica?src=hash&ref_src=twsrc%5Etfw) con cortes de energía de más 48 horas en el sector industrial y de hasta 16 horas en los hogares. Señala que [@andrearrobo](https://twitter.com/andrearrobo?ref_src=twsrc%5Etfw) actuó con negligencia, al no cumplir con las responsabilidades a su cargo. [pic.twitter.com/9LddPeCMKQ](https://t.co/9LddPeCMKQ)
+> 
+> — Asamblea Nacional (@AsambleaEcuador) [November 27, 2024](https://twitter.com/AsambleaEcuador/status/1861801277329432915?ref_src=twsrc%5Etfw)
+
+Finalmente, **Anita Galarza**, ponente del pedido de juicio político, presentó la moción para avanzar en el proceso contra Arrobo, subrayando la **importancia de sancionar la inacción** frente a los problemas energéticos del país.
+
+Lamine Yamal ganó el Golden Boy con doble récord
+================================================
+
+Pedro González 'Pedri' y Pablo Páez Gavira 'Gavi', ganaron el premio en las ediciones anteriores.
+-------------------------------------------------------------------------------------------------
+
+![Lamine Yamal, jugador del Barcelona en la temporada 2024/25.](https://www.elcomercio.com/wp-content/uploads/2024/11/yamal_premio_1.jpg)
+
+Lamine Yamal fue anunciado este miércoles 27 de noviembre de 2024, como el ganador del premio ‘Golden Boy’, galardón que acredita al mejor jugador sub-21 de las ligas europeas.
+
+Con este reconocimiento, Lamine Yamal firmó un doble récord al convertirse en el más joven en conseguirlo y en el jugador que un mayor número de votos acumuló.
+
+### Más noticias:
+
+* [Liga de Portoviejo definió fecha y hora para semifinal ante 22 de Julio](https://www.elcomercio.com/deportes/futbol/liga-portoviejo-partido-horario-22julio-ascenso.html "Liga de Portoviejo definió fecha y hora para semifinal ante 22 de Julio")
+* [¿Por qué es tendencia Alexander Domínguez?](https://www.elcomercio.com/deportes/futbol/alexander-dominguez-tendencia-liga-quito.html "¿Por qué es tendencia Alexander Domínguez?")
+* [IDV y El Nacional definen la Copa Ecuador, ¿a qué hora juegan?](https://www.elcomercio.com/deportes/futbol/final-copa-ecuador-horario-dia.html "IDV y El Nacional definen la Copa Ecuador, ¿a qué hora juegan?")
+
+Yamal, campeón de Europa con España este verano en Alemania, superó al inglés Jude Bellingham, jugador del Real Madrid, **que recibió un 97% de los votos, es decir, 485 de los 500 posibles**.
+
+Fue el mismo porcentaje con el que ganó el francés Kylian Mbappé, otro jugador del Madrid, pero lo hizo en una edición con 30 votantes y ahora lo hacen 50.
+
+Este año, según informó el diario ‘Tuttosport’, creador del premio, **Lamine Yamal acumuló 488 votos de los 500 posibles**, superando en 3 a Bellingham, alzando el porcentaje a los 97.6 puntos finales.
+
+Además, nunca hubo un ganador del ‘Golde Boy’ tan joven. A sus **17 años y 4 meses, se coronó con este galardón** que recogerá el próximo 16 de diciembre.
+
+“Es un orgullo ganar este trofeo. Es un sueño, estoy muy contento. Gracias a ‘Tuttosport’ y al jurado. **No me quiero olvidar de mis compañeros** y cuerpo técnico tanto del Barcelona y de la selección española”, dijo el ganador, en un vídeo que se proyectó en Turín.
+
+“Muy contento y a por más”, añadió el deportista que está en pleno proceso de recuperación de una lesión muscular que lo alejó de la última jornada FIFA de noviembre.
+
+Además, el turco Kenan Yildiz, **jugador del Juventus Turín, ganó el premio ‘Golden Boy Web’**, elegido por los aficionados; y Michael Kayode, del Fiorentina, el ‘Golden Boy’ italiano.
+
+Yamal se unió, de esta manera, al reciente éxito del club blaugrana en este sentido, que tuvo como campeones a Pedro González ‘Pedri’ y a Pablo Páez Gavira ‘Gavi’ en las ediciones de 2021 y 2022.
+
+Historia del Golden Boy
+-----------------------
+
+2024: Lamine Yamal (ESP)
+
+**2023: Jude Bellingham (ING)**
+
+2022: Pablo Páez Gavira ‘Gavi’ (ESP)
+
+**2021: Pedro González “Pedri” (ESP)**
+
+2020: Erling Braut Haaland (NOR)
+
+**2019: Joao Félix (POR)**
+
+2018: Matthijs De Ligt (HOL)
+
+**2017: Kylian Mbappé (FRA)**
+
+2016: Renato Sanches (POR)
+
+**2015: Anthony Martial (FRA)**
+
+2014: Raheem Sterling (ING)
+
+**2013: Paul Pogba (FRA)**
+
+2012: Isco Alarcón (ESP)
+
+**2011: Mario Gotze (ALE)**
+
+2010: Mario Balotelli (ITA)
+
+**2009: Alexandre Pato (BRA)**
+
+2008: Anderson Oliveira (BRA)
+
+**2007: Sergio Agüero (ARG)**
+
+2006: Cesc Fábregas (ESP)
+
+**2005: Leo Messi (ARG)**
+
+2004: Wayne Rooney (ING)
+
+**2003: Rafael Van der Vaart (HOL)**
+
+![Foto: Facebook del club.](https://www.elcomercio.com/wp-content/uploads/2024/11/yamal_premio_2-1024x683.jpg)
+
+Foto: Facebook del club.
+
+San viernes
+-----------
+
+AMT sancionó a conductor de taxi que invadió La Carolina, en Quito
+==================================================================
+
+El conductor del taxi se mostró arrepentido, ofreció disculpas públicas a los quiteños y prometió no volverlo a hacer.
+----------------------------------------------------------------------------------------------------------------------
+
+![El conductor del taxi que ingresó a La Carolina ofreció disculpas.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-38.jpg)
+
+En redes sociales se compartió un video el jueves 21 de noviembre de 2024 que muestra a un **taxi que circula** por uno de los senderos del **interior del Parque La Carolina**. Este fue el tercer caso del mes.
+
+### Más noticias
+
+* [Un taxi circuló dentro del parque La Carolina, en Quito](https://www.elcomercio.com/actualidad/quito/taxi-circulo-dentro-de-parque-la-carolina-quito.html "Un taxi circuló dentro del parque La Carolina, en Quito")
+* [Tres parqueaderos de La Carolina suspenden servicio en Quito](https://www.elcomercio.com/actualidad/quito/tres-parqueaderos-carolina-suspension-rehabilitacion.html "Tres parqueaderos de La Carolina suspenden servicio en Quito")
+* [AMT habla de las sanciones a las conductoras que irrumpieron en La Carolina](https://www.elcomercio.com/actualidad/quito/amt-habla-de-sanciones-a-conductoras-que-irrumpieron-en-la-carolina.html "AMT habla de las sanciones a las conductoras que irrumpieron en La Carolina")
+
+El tercer caso de invasión a La Carolina en un mes
+--------------------------------------------------
+
+Los dos primeros casos se dieron el domingo 10 de noviembre, cuando dos conductoras invadieron los senderos peatonales del parque La Carolina.
+
+El caso del taxi es el **tercero en el mes de noviembre** y el que aumentó la indignación de los quiteños que reclaman seguridad para los visitantes del parque.
+
+En este caso, las imágenes muestran a **dos personas con sus mascotas** que deben retirarse del camino para dar paso al auto amarillo e ingresar al césped.
+
+Los comentarios de **indignación** no se hicieron esperar tras la tercera invasión a una zona que es plenamente peatonal. El parque es una de las **principales áreas verdes de la ciudad** y recibe a diario a deportistas, niños y mascotas que acuden a ejercitarse o simplemente distraerse.
+
+Las sanciones
 -------------
 
-El primer ministro indicó que ese es “el momento” adecuado para un alto el fuego en Líbano por tres razones: centrarse en la amenaza iraní, la renovación completa de las fuerzas y aislar a Hamás.
+En los dos primeros casos, la **Agencia Metropolitana de Tránsito** (AMT) informó que no se podía establecer sanciones con base en un video.
 
-“Desde el segundo día de la guerra, Hamás se apoyó en Hizbulá para luchar junto a él. Y cuando Hizbulá queda fuera de escena, **Hamás se queda solo en la campaña**. Nuestra presión sobre él aumentará y esto contribuirá a la sagrada misión de liberar a nuestros rehenes”, señaló Netanyahu sobre Gaza.
+En el tercer caso, el conductor del taxi **se mostró arrepentido**, aceptó su error y quiso aceptar la sanción. Por ello, la AMT lo sancionó por irrespeto a las señales de tránsito. La sanción para esta infracción es una multa equivalente al **30% de un salario básico unificado y seis puntos** en su licencia de conducir.
 
-Sobre la guerra en Líbano, en que **murieron más de 3 500 libaneses**, Netanyahu aseguró haber logrado los objetivos, ya que no solo ha descabezado a la organización -asesinando a toda su cúpula incluido el líder Hasán Nasralá- sino que le ha hecho retroceder “miles de años” tras la destrucción de la mayoría de su arsenal armamentístico e infraestructura subterránea.
+Al hablar con la AMT, expresó que lo hizo por **desconocimiento** ya que, por ayudar a una persona de la tercera edad, ingresó pues le dijo que era permitido.
 
-“Hace unos años esto habría parecido ciencia ficción, pero no lo es. Nosotros lo logramos”, enfatizó el mandatario, quien dijo haber elegido **estratégicamente el momento** de iniciar la ofensiva bélica en el norte -paralela a la guerra en Gaza- así como cuándo responder al ataque con 181 misiles de Irán en octubre.
+En un mensaje, pidió a la ciudadanía no cometer el mismo error y **[no ingresar a zonas peatonales](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")**.
+
+> 📢 [#TuVozImporta](https://twitter.com/hashtag/TuVozImporta?src=hash&ref_src=twsrc%5Etfw) | Localizamos al taxista que circuló por el parque La Carolina y lo sancionamos.  
+> 💪 Cero tolerancia con quienes ponen en riesgo la seguridad vial.  
+>   
+> 🚙 Al conducir con responsabilidad [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/J9k1A4S64a](https://t.co/J9k1A4S64a)
+> 
+> — AMTQuito (@AMT\_Quito) [November 27, 2024](https://twitter.com/AMT_Quito/status/1861583802419593475?ref_src=twsrc%5Etfw)
+
+Enner, un nombre que ganó fanáticos en tres años
+================================================
+
+El nombre de Enner Valencia se popularizó en los años que más goles marcó con la Selección de Ecuador.
+------------------------------------------------------------------------------------------------------
+
+![Enner Valencia en el estadio Monumental en las eliminatorias al Mundial 2026.](https://www.elcomercio.com/wp-content/uploads/2024/11/enner_ano_1.jpg)
+
+Enner Valencia es el **goleador histórico de la Selección de Ecuador**. En 95 partidos tiene marcados 44 goles. Esta cifra lo coloca por delante de nombres ilustres como los de Agustín Delgado, Eduardo Hurtado y Álex Darío Aguinaga.
+
+El camino de Enner Valencia con la Selección de Ecuador se unió en 2012. Ese año el d**elantero esmeraldeño era jugador de Emelec**, club en el que se formó y en el que había debutado dos años antes.
+
+### Más noticias:
+
+* [Independiente vs. El Nacional, la final de la opulencia y la necesidad](https://www.elcomercio.com/deportes/futbol/final-copa-ecuador-idv-nacional.html "Independiente vs. El Nacional, la final de la opulencia y la necesidad")
+* [Liga de Portoviejo definió fecha y hora para semifinal ante 22 de Julio](https://www.elcomercio.com/deportes/futbol/liga-portoviejo-partido-horario-22julio-ascenso.html "Liga de Portoviejo definió fecha y hora para semifinal ante 22 de Julio")
+* [¿Por qué es tendencia Alexander Domínguez?](https://www.elcomercio.com/deportes/futbol/alexander-dominguez-tendencia-liga-quito.html "¿Por qué es tendencia Alexander Domínguez?")
+
+Valencia fue citado por primera vez por el colombiano Reinaldo Rueda. Fue para un amistoso ante Honduras en el George Capwell que ganaron los ecuatorianos 2-0 con doblete de Jaime ‘Yoya’ Ayoví.
+
+Después ‘Superman’ representó al país en las eliminatorias a los mundiales Brasil 2014, donde no marcó goles en tres partidos; **Rusia 2018, con cinco goles en 12 presencias**; Catar 2022, con cuatro tantos en 12 juegos; y Canadá, Estados Unidos y México 2026 en la que ya marcó tres tantos en 10 compromisos.
+
+También dijo presente en la Copa América Chile 2015 (dos goles en tres partidos); Centenario en Estados Unidos 2016 (dos goles en cuatro partidos); **Brasil 2019 y 2021 (un gol en siete juegos)**; y Estados Unidos 2024 (cero goles en tres presentaciones).
+
+Enner Valencia y la Copa del Mundo
+----------------------------------
+
+Enner Valencia es el jugador ecuatoriano con más goles anotados en una Copa del Mundo. En seis partidos, **entre Brasil 2014 y Catar 2022, anotó la misma cantidad de tantos**, todos en la fase de grupos.
+
+Agustín Delgado marcó tres, uno en Corea-Japón 2002 y dos en Alemania 2006; Carlos Tenorio hizo dos, todos en Alemania 2006; **Édison Méndez, Jaime Iván Kaviedes, y Moisés Caicedo** tienen un tanto en Corea-Japón 2002, Alemania 2006 y Catar 2022, respectivamente.
+
+Los goles mundialistas del ‘GOAT’ fueron ante Suiza el 15 de junio de 14 en Brasilia, y un doblete ante Honduras el 20 del mismo mes en Curitiba.
+
+El 20 de noviembre de 2022 volvió a anotar un doblete ante **Catar en Jor en el partido inaugural de esa Copa del Mundo**, con lo que puso a soñar a todo un país con una posible clasificación a la segunda ronda.
+
+El 25 del mismo mes dijo presente en Rayán en el empate 1-1 ante Países Bajos, pero sus goles no fueron suficientes para evitar la tempranera eliminación tricolor.
+
+![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/11/enner_ano_2-1024x683.jpg)
+
+Foto: API.
+
+Goles y popularidad van de la mano
+----------------------------------
+
+El Registro Civil, consultado por EL COMERCIO, indicó que, desde 1990, hasta el **24 de noviembre de 2024, existen 1 566 personas** que se inscribieron con el nombre de Enner, ya sea el primero o segundo.
+
+Confidencialmente, el 2014, año de su explosión como delantero de élite de la Tri, se **registró el mayor número de inscritos con 385 personas** a escala nacional. Le siguen el 2015 con 242 y el 2016 con 194.
+
+Esos tres años el esmeraldeño marcó, según Transfermarkt, **18 goles, entre mundial, eliminatorias, Copa América y amistosos**, siendo los de máxima producción goleadora como seleccionado nacional.
+
+San viernes
+-----------
+
+Ecuador firmará explotación de mina Cangrejos con la canadiense Lumina Gold
+===========================================================================
+
+La fase de construcción prevé la creación de unos 1 250 empleos directos; mientras que la fase de operación, entre 700 y 1 050
+------------------------------------------------------------------------------------------------------------------------------
+
+![Ecuador firmará el contrato de explotación del proyecto minero Cangrejos.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-37-1.jpg)
+
+El **Gobierno de Ecuador** prevé firmar en enero de 2025 con la minera canadiense Lumina Gold el contrato de concesión para la explotación del proyecto de extracción de cobre y oro Cangrejos. Para ello, la empresa prevé una inversión inicial aproximada de al menos **1 300 millones de dólares.**
+
+### Más noticias
+
+* [Manzano anhela un ‘diciembre sin apagones’](https://www.elcomercio.com/actualidad/negocios/manzano-anhelo-diciembre-sin-apagones.html "Manzano anhela un ‘diciembre sin apagones’")
+* [Equipos para nueva central térmica llegan en diciembre ¿Cuándo iniciará operaciones?](https://www.elcomercio.com/actualidad/negocios/equipos-nueva-central-termica-llegan-diciembre-cuando-inicia-operaciones.html "Equipos para nueva central térmica llegan en diciembre ¿Cuándo iniciará operaciones?")
+* [Inés Manzano dice que Colombia empezó a entregar energía a Ecuador](https://www.elcomercio.com/actualidad/negocios/ines-manzano-anuncia-nuevas-medidas-para-reducir-cortes-luz.html "Inés Manzano dice que Colombia empezó a entregar energía a Ecuador")
+
+La firma del contrato
+---------------------
+
+Así lo anticipó este martes la **ministra de Energía y Minas** encargada, Inés Manzano, durante la inauguración en Quito del XIX Encuentro Nacional de Minería (Enaep). En el evento, anticipó que el Ejecutivo había alcanzado **un acuerdo con la compañía canadiense** sobre las condiciones que tendrá la concesión de explotación.
+
+Entre los términos acordados está **el pago adelantado de regalías** y una cláusula por la que la empresa se compromete a garantizar su autoabastecimiento de energía. De esa manera se evita que la operación quede temporalmente suspendida por **falta de electricidad,** como ha ocurrido con algunas de las principales minas ante la crisis energética que atraviesa Ecuador.
+
+De acuerdo a **Manzano,** la inversión contemplada para la construcción de las instalaciones de la mina es de entre 1 300 y 1 400 millones de dólares.
+
+En la fase de construcción se prevé la creación de unos **1 250 empleos directos**, mientras que la fase de operación de Cangrejos requerirá entre 700 y 1 050 trabajadores.
+
+El **proyecto minero Cangrejos** está situado en la sureña provincia costeña de El Oro, fronteriza con Perú, a unos 30 kilómetros al sureste de la ciudad de Machala. A 40 kilómetros del puerto comercial de aguas profundas de Puerto Bolívar.
+
+El Gobierno del presidente **Daniel Noboa** ha identificado a la minería, el turismo y la agricultura como los tres sectores económicos que impulsar para el crecimiento de la economía.
+
+A inicios de año, el Ejecutivo firmó **acuerdos de inversión** con mineras canadienses por valor de 4 800 millones de dólares. Esto fue rechazado por **colectivos ambientalistas** y organizaciones indígenas que se oponen a la expansión de la actividad [mineral industrial](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito") en Ecuador.
+
+EE.UU. sanciona a 21 altos cargos de Venezuela por intentar ‘robar las elecciones’
+==================================================================================
+
+Estados Unidos los acusa de "represión" y de intentar "robar" las elecciones presidenciales del 28 de julio.
+------------------------------------------------------------------------------------------------------------
+
+![Diosdado Cabello es uno de los sancionados.](https://www.elcomercio.com/wp-content/uploads/2024/11/diosdado-cabello-efe.jpg)
+
+Estados Unidos sancionó este miércoles, 27 de noviembre de 2024, a **21 altos cargos de Venezuela** a los que acusa de **“represión”** y de **intentar “robar”** las elecciones presidenciales del 28 de julio, en las que se proclamó la reelección de Nicolás Maduro, un resultado cuestionado por la oposición y parte de la comunidad internacional.
+
+### Más noticias
+
+* [Donald Trump elije a Jamieson Greer como representante comercial](https://www.elcomercio.com/actualidad/mundo/donald-trump-elije-jamieson-greer-representante-comercial.html "Donald Trump elije a Jamieson Greer como representante comercial")
+* [Donald Trump promete más aranceles sobre China y México](https://www.elcomercio.com/actualidad/mundo/donald-trump-promete-mas-aranceles-sobre-china-y-mexico.html "Donald Trump promete más aranceles sobre China y México")
+* [Evo Morales acusa a Donald Trump de financiar un ‘golpe de Estado’ en Bolivia](https://www.elcomercio.com/actualidad/mundo/evo-morales-acusa-donald-trump-financiar-golpe-estado-bolivia.html "Evo Morales acusa a Donald Trump de financiar un ‘golpe de Estado’ en Bolivia ")
+
+Esta nueva ronda de sanciones llega después de que la **Administración de Joe Biden,** que el próximo 20 de enero pasará el relevo al republicano Donald Trump, reconociera al opositor Edmundo González como el **“presidente electo” de Venezuela.** 
+
+Lista de sancionados
+--------------------
+
+Dentro de la lista de sancionados por el **Departamento del Tesoro** está el ministro de Despacho de la Presidencia, Aníbal Coronado; el de Comunicación, **Freddy Ñáñez**, y el de Servicios Penitenciarios, **Julio García Zerpa.**
+
+También hay altos mandos de la **Guardia Nacional Bolivariana, l**a Policía Nacional Bolivariana, el Servicio Bolivariano de Inteligencia Nacional (SEBIN) y la **Dirección General de Contrainteligencia Militar** (DGCIM), a los que acusa de “reprimir violentamente las manifestaciones pacíficas” tras las elecciones.
+
+Entre ellos está **Alexis Rodríguez Cabello, director del SEBIN** y primo del ministro de Interior, **Diosdado Cabello**, y también el jefe de la DGCIM y de la Guardia de Honor Presidencial, Javier Marcana Tabata.
+
+Bajo esta decisión quedan bloqueadas todas las propiedades de los sancionados en Estados Unidos y se prohíbe llevar a cabo transacciones financieras con esas personas.
+
+Sanción a 150 venezonalos
+-------------------------
+
+Hasta la fecha, el Tesoro estadounidense ha sancionado a 150 venezolanos y a un centenar de entidades del país caribeño por acometer “acciones antidemocráticas”.
+
+El **Consejo Nacional Electoral (CNE)** proclamó en los comicios del 28 de julio la reelección de Nicolás Maduro como presidente de Venezuela, pero el organismo no publica las actas con los resultados desagregados de las elecciones.
+
+La **Plataforma Unitaria Democrática (PUD),** la principal coalición opositora del país, presentó por su parte unas actas que dan la victoria a su candidato, González Urrutia, quien desde septiembre se encuentra exiliado en España denunciando una persecución de las autoridades venezolanas.
+
+Edmundo González se prepara para regresar a Venezuela
+-----------------------------------------------------
+
+En una entrevista el pasado lunes, González Urrutia confirmó su intención de viajar a Caracas para asumir el cargo el 10 de enero y sostuvo que está “moralmente preparado” para su eventual detención en Venezuela.
+
+“Nicolás Maduro y los que lo rodean nunca antes habían estado tan aislados”, dijo este miércoles un alto funcionario estadounidense en una llamada con periodistas.
+
+Estados Unidos reconoció en agosto a González como el **ganador de las elecciones** debido a la “abrumadora evidencia” de su victoria, y el 19 de noviembre lo nombró por primera vez como “presidente electo”, un paso que España no ha dado por ahora.
+
+El alto funcionario estadounidense dijo al respecto que corresponde a cada país tomar este tipo de decisiones y remarcó que hacer ese reconocimiento “añade presión” sobre Maduro.
+
+En 2019, la **primera Administración de Trump lideró el reconocimiento internacional** del entonces líder opositor venezolano Juan Guaidó como “presidente interino” del país, pero este nunca tuvo un poder efectivo. 
+
+¿Cuál es el perfil de usuario que más viaja en el Metro de Quito?
+=================================================================
+
+El Metro de Quito inició sus operaciones en diciembre de 2023. Está por cumplir un año de servicio.
+---------------------------------------------------------------------------------------------------
+
+![El Metro de Quito está por cumplir un año de funcionamiento.](https://www.elcomercio.com/wp-content/uploads/2024/11/Metro-Quito-1.jpg)
+
+A punto de cumplir su primer año de funcionamiento, el **Metro de Quito** busca ser el principal sistema de transporte urbano en la capital[.](https://es.wikipedia.org/wiki/Metro_de_Quito "https://es.wikipedia.org/wiki/Metro_de_Quito")
+
+Más noticias
+------------
+
+* [Metro de Quito habilita opciones de ingreso para acompañantes](https://www.elcomercio.com/actualidad/quito/metro-de-quito-habilita-opciones-de-ingreso-para-acompanantes.html "Metro de Quito habilita opciones de ingreso para acompañantes")
+* [Metro de Quito ya suma más de 4,9 millones de viajes, en octubre](https://www.elcomercio.com/actualidad/quito/metro-de-quito-suma-mas-de-49-millones-de-viajes-octubre.html "Metro de Quito ya suma más de 4,9 millones de viajes, en octubre")
+* [Metro de Quito tiene nuevo contrato de mantenimiento](https://www.elcomercio.com/actualidad/quito/metro-quito-mantenimiento-energia-terminar.html "Metro de Quito tiene nuevo contrato de mantenimiento")
+
+Este servicio subterráneo conecta puntos clave de **Quito** y refleja la **diversidad** **socioeconómica** y **demográfica** de sus usuarios.
+
+El perfil del usuario del Metro de Quito
+----------------------------------------
+
+El **Metro de Quito** ofrece una alternativa eficiente, segura y económica para miles de personas. Los datos más recientes muestran que la mayoría de sus usuarios tiene entre 18 y 39 años, con una concentración del 36% en la franja de 18 a 29 años.
+
+Este grupo incluye principalmente **empleados del sector privado (**40-50%), **estudiantes** **universitarios** (17-23%) y **empleados** **públicos** (10-23%).
+
+Muchas familias con ingresos cercanos o por debajo de la **canasta** **básica** encuentran en el **Metro** una **solución** **accesible** para su movilidad.
+
+Las **mujeres** representan entre el 54% y 59% de los usuarios, lo que resalta la seguridad del sistema como un factor clave para este grupo.
+
+Movilidad interconectada del Metro de Quito
+-------------------------------------------
+
+Los usuarios inician la mayoría de sus trayectos en **Quitumbe** y **El** **Recreo**, ubicadas en el sur de **Quito**.
+
+Las estaciones más concurridas como destino incluyen **Iñaquito**, **San** **Francisco**, **Universidad** **Central** y **Labrador**, áreas con intensa actividad laboral, educativa y administrativa.
+
+El sistema conecta las zonas residenciales del sur con los centros de actividad **económica** y **educativa** del **hipercentro** y norte de la ciudad.
+
+El Metro de Quito es aceptado por los usuarios
+----------------------------------------------
+
+Los pasajeros valoran principalmente la rapidez del servicio, seguida de la seguridad y la puntualidad.
+
+El diseño del sistema permite una integración eficiente con otros **medios** **de** **transporte**, lo que reduce de manera significativa los tiempos de viaje.
+
+El **Metro de Quito** también incorpora tecnologías modernas, como un sistema de pago digital, que agiliza el acceso y fomenta la inclusión financiera.
+
+Impacto en la movilidad de Quito
+--------------------------------
+
+Desde su inauguración, el **Metro** registra un uso constante, con picos de afluencia en horas laborales.
+
+Durante octubre de 2024, el sistema alcanzó un récord en el número de viajes diarios, lo que refuerza su rol como un servicio esencial para más de 142 000 pasajeros diarios.
