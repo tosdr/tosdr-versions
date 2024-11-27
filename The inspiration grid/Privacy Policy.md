@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/11/branding-millers-quay-feature.jpg)
+
+[](https://theinspirationgrid.com/millers-quay-branding-by-smiling-wolf/)
+
+### Millers Quay Branding by Smiling Wolf
+
+![](https://inspgr.id/app/uploads/2024/11/art-jim-naughten-feature.jpg)
+
+[](https://theinspirationgrid.com/biophilia-ethereal-animal-portraits-by-jim-naughten/)
+
+### Biophilia: Ethereal Animal Portraits by Jim Naughten
+
 ![](https://inspgr.id/app/uploads/2024/11/art-pontier-artbrick-feature.jpg)
 
 [](https://theinspirationgrid.com/incredible-lego-creations-by-gerardo-pontierr/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/a-whisper-in-the-eye-of-the-storm-an-immersive-art-installation/)
 
 ### A Whisper in the Eye of the Storm: An Immersive Optical Art Installation
-
-![](https://inspgr.id/app/uploads/2024/11/3d-shalinder-matharu-feature.jpg)
-
-[](https://theinspirationgrid.com/material-play-3d-creations-by-shalinder-matharu/)
-
-### Material Play: 3D Creations by Shalinder Matharu
-
-![](https://inspgr.id/app/uploads/2024/11/illustration-alexandra-francis-feature.jpg)
-
-[](https://theinspirationgrid.com/bright-colorful-illustrations-by-alexandra-francis/)
-
-### Bright & Colorful Illustrations by Alexandra Francis
 
 Awesome products for creatives
 ------------------------------
