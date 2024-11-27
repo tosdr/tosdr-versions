@@ -155,7 +155,7 @@ This agreement shall be governed by and interpreted and enforced in accordance w
 
 ### Blog Categories
 
-* [Artificial Intelligence (88)](https://www.iplocation.net/blog/category/artificial-intelligence)
+* [Artificial Intelligence (89)](https://www.iplocation.net/blog/category/artificial-intelligence)
 * [Automotive (22)](https://www.iplocation.net/blog/category/automotive)
 * [Business (204)](https://www.iplocation.net/blog/category/business)
 * [Ecommerce (83)](https://www.iplocation.net/blog/category/ecommerce)
@@ -169,7 +169,7 @@ This agreement shall be governed by and interpreted and enforced in accordance w
 * [Password (21)](https://www.iplocation.net/blog/category/password)
 * [Safety (26)](https://www.iplocation.net/blog/category/safety)
 * [Data & Database (23)](https://www.iplocation.net/blog/category/data)
-* [Digital Marketing (121)](https://www.iplocation.net/blog/category/digital-marketing)
+* [Digital Marketing (122)](https://www.iplocation.net/blog/category/digital-marketing)
 * [Education (44)](https://www.iplocation.net/blog/category/education)
 * [Email (71)](https://www.iplocation.net/blog/category/email)
 * [Entertainment (15)](https://www.iplocation.net/blog/category/entertainment)
@@ -195,7 +195,7 @@ This agreement shall be governed by and interpreted and enforced in accordance w
 * [Smartphone (47)](https://www.iplocation.net/blog/category/smartphone)
 * [Social Media (72)](https://www.iplocation.net/blog/category/social-media)
 * [Social Media Marketing (40)](https://www.iplocation.net/blog/category/social-media-marketing)
-* [Software (178)](https://www.iplocation.net/blog/category/software)
+* [Software (179)](https://www.iplocation.net/blog/category/software)
 * [Software Development (138)](https://www.iplocation.net/blog/category/software-development)
 * [Software Testing (16)](https://www.iplocation.net/blog/category/software-testing)
 * [Mobile App Development (10)](https://www.iplocation.net/blog/category/mobile-app-development)
