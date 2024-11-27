@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_1.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_2.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,16 +148,16 @@
 
 Сейчас читают
 
-* [Мясная запеканка с грибами и овощным пюре](https://www.russianfood.com/recipes/recipe.php?rid=174856)
-* [Гречневая запеканка с курицей и шампиньонами](https://www.russianfood.com/recipes/recipe.php?rid=164974)
-* [Гречка с грибами в микроволновке](https://www.russianfood.com/recipes/recipe.php?rid=164571)
-* [Быстрый торт в микроволновке](https://www.russianfood.com/recipes/recipe.php?rid=173205)
-* [Борщ с квашеной капустой и зелёным горошком](https://www.russianfood.com/recipes/recipe.php?rid=172919)
-* [Пирог "Ель" из слоёного теста, с какао и корицей](https://www.russianfood.com/recipes/recipe.php?rid=158880)
-* [Торт с халвой и ореховым кремом](https://www.russianfood.com/recipes/recipe.php?rid=150322)
 * [Картофельная запеканка с твёрдым сыром и фетой](https://www.russianfood.com/recipes/recipe.php?rid=174623)
+* [Борщ с квашеной капустой и зелёным горошком](https://www.russianfood.com/recipes/recipe.php?rid=172919)
 * [Завтрак из хека](https://www.russianfood.com/recipes/recipe.php?rid=573)
 * [Яблоки, фаршированные мясом цыпленка](https://www.russianfood.com/recipes/recipe.php?rid=926)
+* [Рисовый пудинг](https://www.russianfood.com/recipes/recipe.php?rid=2883)
+* [Пудинг рисовый с изюмом](https://www.russianfood.com/recipes/recipe.php?rid=3092)
+* [Суп из сушеной черники на рисовом отваре](https://www.russianfood.com/recipes/recipe.php?rid=3249)
+* [Паштет из персиков](https://www.russianfood.com/recipes/recipe.php?rid=3305)
+* [Паштет из персиков и слив](https://www.russianfood.com/recipes/recipe.php?rid=3316)
+* [Томаты, фаршированные мясом](https://www.russianfood.com/recipes/recipe.php?rid=3386)
 
 |     |
 | --- |
@@ -179,6 +179,34 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Слойки с дыней и бананом](https://www.russianfood.com/recipes/recipe.php?rid=174188) |     |
+
+[![Фото к рецепту: Слойки с дыней и бананом](//img1.russianfood.com/dycontent/images_upl/742/sm_741489.jpg "Фото к рецепту: Слойки с дыней и бананом")](https://www.russianfood.com/recipes/recipe.php?rid=174188)
+
+Слойки с дыней и бананом - элементарная выпечка с прекрасным вкусом. Тесто используется готовое слоёное, что существенно экономит время. Во время выпекания кусочки дыни и бананов размягчаются, превращаясь в нежнейшую начинку.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174188)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [ДЕСЕРТация](https://www.russianfood.com/blogs/?id=421376) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174188#comments) | 27.11.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Рагу с цветной капустой и грибами](https://www.russianfood.com/recipes/recipe.php?rid=174322) |     |
+
+[![Фото к рецепту: Рагу с цветной капустой и грибами](//img1.russianfood.com/dycontent/images_upl/755/sm_754844.jpg "Фото к рецепту: Рагу с цветной капустой и грибами")](https://www.russianfood.com/recipes/recipe.php?rid=174322)
+
+Нежное рагу из цветной капусты, дополненное для большей питательности грибами. Морковь, лук и помидоры добавляют сочность и приятную кислинку. Чтобы овощное рагу не было пресным, используем букет свежих и сушёных трав, а также чеснок.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174322)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174322#comments) | 27.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -234,7 +262,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174921#comments) | 27.11.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174921#comments) | 27.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -256,7 +284,7 @@
 
 [![Фото к рецепту: Котлеты с рисом, сыром и крабовыми палочками](//img1.russianfood.com/dycontent/images_upl/748/sm_747417.jpg "Фото к рецепту: Котлеты с рисом, сыром и крабовыми палочками")](https://www.russianfood.com/recipes/recipe.php?rid=174315)
 
-Отварной рис соединяется с натёртыми крабовыми палочками и сыром, яйцо и мука скрепляют котлеты. Поскольку основные ингредиенты уже готовы, жарятся котлеты быстро, получаются румяными, нежными и вкусными.
+Отварной рис смешивается с тёртыми крабовыми палочками и сыром, а для связывания добавляются яйцо и мука. Поскольку основные ингредиенты уже готовы, жарятся котлеты быстро, приобретая аппетитную румяную корочку. Они получаются нежными и невероятно вкусными.
 
 [Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174315)  
 
@@ -304,7 +332,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22924#comments) | 26.11.24 |     |
+|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22924#comments) | 26.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -318,7 +346,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174904#comments) | 26.11.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_5 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174904#comments) | 26.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -332,7 +360,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [HomeRecipes](https://www.russianfood.com/blogs/?id=300916) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174923#comments) | 26.11.24 |     |
+|     | [HomeRecipes](https://www.russianfood.com/blogs/?id=300916) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174923#comments) | 26.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -361,34 +389,6 @@
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Лучшие салаты](https://www.russianfood.com/blogs/?id=325071) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22922#comments) | 25.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[К завтраку, обеду и на десерт. Лучшие рецепты из ЯИЦ (18)](https://www.russianfood.com/reading/?post_id=22921) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/726/sm_725610.jpg)](https://www.russianfood.com/reading/?post_id=22921)
-
-Яйца во фритюре, по-тайски. Миндальное печенье на яичных белках. Омлет с грибами и брынзой. Суп авголемоно с рисом и сельдереем. Салат с морской капустой и яйцами.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22921)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22921#comments) | 25.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Ещё быстрее, ещё вкуснее.) Лучшие рецепты БЫСТРЕЕ! №24-48](https://www.russianfood.com/reading/?post_id=22920) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/729/sm_728994.jpg)](https://www.russianfood.com/reading/?post_id=22920)
-
-Фрикадельки с лапшой быстрого приготовления. Рубленые котлеты из индейки с сыром. Салат с грушами и фетой. Куриная печень с грибами и тыквой. Крем-суп из кабачков с полентой.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22920)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты БЫСТРЕЕ!](https://www.russianfood.com/blogs/?id=338614) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22920#comments) | 25.11.24 |     |
 
 |     |
 | --- |
@@ -459,10 +459,10 @@
 
 Новые рецепты:
 
-|     |     |     |
-| --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/755/alt1_754751.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174921) | [![](//img1.russianfood.com/dycontent/images_upl/748/alt1_747417.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174315) | [![](//img1.russianfood.com/dycontent/images_upl/736/alt1_735960.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173408) |
-| [Рулет из лаваша с морковью по-корейски, сыром и зеленью](https://www.russianfood.com/recipes/recipe.php?rid=174921) | [Котлеты с рисом, сыром и крабовыми палочками](https://www.russianfood.com/recipes/recipe.php?rid=174315) | [Салат из капусты с зелёным горошком и яйцами](https://www.russianfood.com/recipes/recipe.php?rid=173408) |
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| [![](//img1.russianfood.com/dycontent/images_upl/755/alt1_754751.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174921) | [![](//img1.russianfood.com/dycontent/images_upl/736/alt1_735960.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173408) | [![](//img1.russianfood.com/dycontent/images_upl/755/alt1_754844.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174322) | [![](//img1.russianfood.com/dycontent/images_upl/748/alt1_747417.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174315) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741489.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174188) |
+| [Рулет из лаваша с морковью по-корейски, сыром и зеленью](https://www.russianfood.com/recipes/recipe.php?rid=174921) | [Салат из капусты с зелёным горошком и яйцами](https://www.russianfood.com/recipes/recipe.php?rid=173408) | [Рагу с цветной капустой и грибами](https://www.russianfood.com/recipes/recipe.php?rid=174322) | [Котлеты с рисом, сыром и крабовыми палочками](https://www.russianfood.com/recipes/recipe.php?rid=174315) | [Слойки с дыней и бананом](https://www.russianfood.com/recipes/recipe.php?rid=174188) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -479,4 +479,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(145)
+(132)
