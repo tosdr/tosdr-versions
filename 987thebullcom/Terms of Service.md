@@ -212,11 +212,11 @@ Recently Played
 
 |     |
 | --- |
-| Where It EndsBailey Zimmerman<br><br>10:40am |
-| LiarJelly Roll<br><br>10:36am |
-| Just The WayParmalee Ft Blanco Brown<br><br>10:33am |
-| Miles On ItKane Brown Ft Marshmello<br><br>10:30am |
-| Dirt CheapCody Johnson<br><br>10:26am |
+| ReligiouslyBailey Zimmerman<br><br>4:40pm |
+| You Look Like You Love MeElla Langley Ft Riley Green<br><br>4:36pm |
+| Buy Me A BoatChris Janson<br><br>4:32pm |
+| I Remember EverythingZach Bryan Ft Kacey Musgraves<br><br>4:28pm |
+| Wind Up Missing YouTucker Wetmore<br><br>4:26pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -360,21 +360,21 @@ State
 Featured Brands
 ---------------
 
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
-Sports • Midwest
-
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
-
-Spanish • Western
-
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
-
-News Talk • Eastern
+Top 40 • Eastern
 
 [![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
 Country • Western
+
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+
+Top 40 • Pacific NW
+
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+
+Sports • Midwest
 
 [](https://www.alphamediausa.com/)
 
