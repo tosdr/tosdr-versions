@@ -36,18 +36,18 @@
         
         DOJ: Man hacked networks to pitch cybersecurity services](https://www.bleepingcomputer.com/news/security/doj-man-hacked-networks-to-pitch-cybersecurity-services/)
     
-    * [![Get a Microsoft Visio standalone license at a reduced price in this deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Microsoft says it's not using your Word, Excel data for AI training](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Get a Microsoft Visio standalone license at a reduced price in this deal](https://www.bleepingcomputer.com/offer/deals/get-a-microsoft-visio-standalone-license-at-a-reduced-price-in-this-deal/)
-    * [![New NachoVPN attack uses rogue VPN servers to install malicious updates](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Microsoft says it's not using your Word, Excel data for AI training](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-its-not-using-your-word-excel-data-for-ai-training/)
+    * [![Researchers discover first UEFI bootkit malware for Linux](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        New NachoVPN attack uses rogue VPN servers to install malicious updates](https://www.bleepingcomputer.com/news/security/new-nachovpn-attack-uses-rogue-vpn-servers-to-install-malicious-updates/)
-    * [![NordVPN Black Friday Deal: Save up to 74% on yearly subscriptions](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Researchers discover first UEFI bootkit malware for Linux](https://www.bleepingcomputer.com/news/security/researchers-discover-bootkitty-first-uefi-bootkit-malware-for-linux/)
+    * [![Chinese hackers breached T-Mobile's routers to scope out network](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        NordVPN Black Friday Deal: Save up to 74% on yearly subscriptions](https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal/)
-    * [![Over 1,000 arrested in massive ‘Serengeti’ anti-cybercrime operation](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Chinese hackers breached T-Mobile's routers to scope out network](https://www.bleepingcomputer.com/news/security/chinese-hackers-breached-t-mobiles-routers-to-scope-out-network/)
+    * [![Cloudflare says it lost 55% of logs pushed to customers for 3.5 hours](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Over 1,000 arrested in massive ‘Serengeti’ anti-cybercrime operation](https://www.bleepingcomputer.com/news/security/over-1-000-arrested-in-massive-serengeti-anti-cybercrime-operation/)
+        Cloudflare says it lost 55% of logs pushed to customers for 3.5 hours](https://www.bleepingcomputer.com/news/security/cloudflare-says-it-lost-55-percent-of-logs-pushed-to-customers-for-35-hours/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
