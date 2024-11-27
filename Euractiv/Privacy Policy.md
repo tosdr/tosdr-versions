@@ -443,6 +443,14 @@ Most recent
 
 [27-11-2024
 
+Romania officials to meet over ‘cyber risks’ to elections](http://afp.euractiv.com/htmlen.php?id=241127160015.1t74odiq)[27-11-2024
+
+Europe’s pharma sector falling behind US and China, competitiveness drive is urgent, vital](https://www.euractiv.com/section/health-consumers/news/europes-pharma-sector-falling-behind-us-and-china-competitiveness-drive-is-urgent-vital/)[27-11-2024
+
+Brazil’s livestock industry has ‘beef’ with French supermarkets, threatening legal action](https://www.euractiv.com/section/agriculture-food/news/brazils-livestock-industry-has-beef-with-french-supermarkets-threatening-legal-action/)[27-11-2024
+
+Romanian expats on TikTok aided far-right surge, says PNL’s Mureșan](https://www.euractiv.com/section/politics/news/romanian-expats-on-tiktok-aided-far-right-surge-says-pnls-muresan/)[27-11-2024
+
 NGO says record number of fossil fuel, chemical lobbyists at global plastics talks](https://www.euractiv.com/section/eet/news/ngo-says-record-number-of-fossil-fuel-chemical-lobbyists-at-global-plastics-talks/)[27-11-2024
 
 VDL 2.0: EU Parliament approves new Commission](https://www.euractiv.com/section/politics/news/vdl-2-0-eu-parliament-approves-new-commission/)[27-11-2024
@@ -453,15 +461,7 @@ EU countries ready to fund defence products despite US use restrictions](https:/
 
 Georgian ruling party nominates anti-West former football player for president](https://www.euractiv.com/section/global-europe/news/georgian-ruling-party-nominates-anti-west-former-football-player-for-president/)[27-11-2024
 
-Poland, France join forces against EU-Mercosur trade deal](https://www.euractiv.com/section/politics/news/the-capitals-poland-france-join-forces-against-eu-mercosur-trade-deal/)[27-11-2024
-
-Bulgaria on verge of holding eighth election in just four years](https://www.euractiv.com/section/politics/news/bulgaria-on-verge-of-holding-eighth-election-in-just-four-years/)[27-11-2024
-
-European Commission approves Portugal’s 2025-2028 budget plan](https://www.euractiv.com/section/politics/news/european-commission-approves-portugals-2025-2028-budget-plan/)[27-11-2024
-
-European Commission approves Spain’s new fiscal plan](https://www.euractiv.com/section/politics/news/european-commission-approves-spains-new-fiscal-plan/)[27-11-2024
-
-G7 states back Middle East ceasefire, omit debate on ICC arrest warrants](https://www.euractiv.com/section/politics/news/g7-states-back-middle-east-ceasefire-omit-debate-on-icc-arrest-warrants/)
+Poland, France join forces against EU-Mercosur trade deal](https://www.euractiv.com/section/politics/news/the-capitals-poland-france-join-forces-against-eu-mercosur-trade-deal/)
 
 ###### Advertisement
 
