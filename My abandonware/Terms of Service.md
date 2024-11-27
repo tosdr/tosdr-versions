@@ -107,20 +107,20 @@ Top downloads
 
 Latest releases
 
+* [O-DEN2000](https://www.myabandonware.com/game/o-den2000-tbh)
 * [Rakuen no Guardian](https://www.myabandonware.com/game/rakuen-no-guardian-tbg)
 * [Alien 8](https://www.myabandonware.com/game/alien-8-6m5)
 * [Giant Killers 2](https://www.myabandonware.com/game/giant-killers-2-tbc)
 * [Giant Killers Euro Manager 2000](https://www.myabandonware.com/game/giant-killers-euro-manager-2000-tbb)
-* [All Dogs Go to Heaven Activity Center](https://www.myabandonware.com/game/all-dogs-go-to-heaven-activity-center-huz)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
 
 Screenshots needed
 
-* [Grand Prix Selection](https://www.myabandonware.com/game/grand-prix-selection-km7)
-* [Hisō Kihei X-Serd](https://www.myabandonware.com/game/hiso-kihei-x-serd-kqj)
-* [Sadakichi Seven: Hideyoshi no Ōgon](https://www.myabandonware.com/game/sadakichi-seven-hideyoshi-no-ogon-kpv)
+* [Board Game: Top Shop](https://www.myabandonware.com/game/board-game-top-shop-qic)
+* [Magical Truck Adventure](https://www.myabandonware.com/game/magical-truck-adventure-spb)
+* [Wonder Boy](https://www.myabandonware.com/game/wonder-boy-suy)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
