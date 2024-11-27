@@ -1,6 +1,6 @@
 □
 
-                                                                                            Terms & Conditions - Muscat Livestock                         
+                                                                    Terms & Conditions - Muscat Livestock                                                 
 
 [Skip to content](#main-content)
 
@@ -637,6 +637,8 @@ Your cart
 ---------
 
 Close
+
+Get FREE **4 x Angus Beef burgers 125gm each** with every order during the sale!
 
 Your cart is empty
 
