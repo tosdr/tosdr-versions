@@ -156,15 +156,15 @@ Third-party transfers outside of the EU, the EEA, Switzerland or the UK are made
     
     * If in EU:
         
-        [http://ec.europa.eu/justice/data-protection/international-transfers/transfer/index\_en.htm](http://ec.europa.eu/justice/data-protection/international-transfers/transfer/index_en.htm)
+        [https://commission.europa.eu/publications/standard-contractual-clauses-controllers-and-processors-eueea\_en](https://commission.europa.eu/publications/standard-contractual-clauses-controllers-and-processors-eueea_en)
         
     * If in Switzerland:
         
-        [https://www.edoeb.admin.ch/edoeb/de/home/datenschutz/handel-und-wirtschaft/uebermittlung-ins-ausland.html#-291511647](https://www.edoeb.admin.ch/edoeb/de/home/datenschutz/handel-und-wirtschaft/uebermittlung-ins-ausland.html#-291511647)
+        [https://www.edoeb.admin.ch/edoeb/en/home/datenschutz/arbeit\_wirtschaft/datenuebermittlung\_ausland.html](https://www.edoeb.admin.ch/edoeb/en/home/datenschutz/arbeit_wirtschaft/datenuebermittlung_ausland.html)
         
     * If In UK:
         
-        [https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/international-transfers-after-uk-exit](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/international-transfers-after-uk-exit)
+        [https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/international-transfers/](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/international-transfers/)
         
 
 #### 4\. When and with who do we share your data?
