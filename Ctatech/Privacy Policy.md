@@ -186,13 +186,13 @@ Resources
 
 [i3 Magazine](https://www.cta.tech/Resources/i3-Magazine/i3-Issues/2023/January-February)
 
-![Lorem ipsum](https://cdn.cta.tech/cta/media/media/resources/cta-us-consumer-technology-one-year-industry-forecast-2019-2024_400x225.jpg)
+![Lorem ipsum](https://cdn.cta.tech/cta/media/media/resources/ship-yard_400x225.jpg)
 
 Featured Item
 
-CTA U.S. Consumer Technology One-Year Industry Forecast, 2019-2024 (January 2024)
+How The Proposed Trump Tariffs Increase Prices for Consumer Technology Products (October, 2024)
 
-[read more](https://shop.cta.tech/collections/research/products/cta-u-s-consumer-technology-one-year-industry-forecast-2019-2024-january-2024)
+[read more](https://shop.cta.tech/collections/research/products/how-the-proposed-trump-tariffs-increase-prices-for-consumer-technology-products)
 
 Get Involved
 
