@@ -23,6 +23,9 @@ Translation Menu
 
 * [Español](https://www.ftc.gov/es)
 
+Secondary Menu
+--------------
+
 * [Report Fraud](https://reportfraud.ftc.gov/)
 * [Get Consumer Alerts](https://public.govdelivery.com/accounts/USFTCCONSUMER/subscriber/new?topic_id=USFTCCONSUMER_8)
 * [Search the Legal Library](https://www.ftc.gov/legal-library)
@@ -223,7 +226,7 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [Statement Regarding Union Health’s COPA Application Withdrawal](https://www.ftc.gov/news-events/news/press-releases/2024/11/statement-regarding-union-healths-copa-application-withdrawal)
+    ### [Smart Products Surveyed Fail to Provide Consumers with Information on How Long Companies will Provide Software Updates](https://www.ftc.gov/news-events/news/press-releases/2024/11/smart-products-surveyed-fail-provide-consumers-information-how-long-companies-will-provide-software)
     
     November 26, 2024
     
@@ -329,6 +332,9 @@ Translation Menu
 ----------------
 
 * [Español](https://www.ftc.gov/es)
+
+Secondary Menu
+--------------
 
 * [Report Fraud](https://reportfraud.ftc.gov/)
 * [Get Consumer Alerts](https://public.govdelivery.com/accounts/USFTCCONSUMER/subscriber/new?topic_id=USFTCCONSUMER_8)
