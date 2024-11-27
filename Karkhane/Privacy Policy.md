@@ -28,15 +28,6 @@ Privacy Policy
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![](https://karkhane.org/app/uploads/2024/10/1-95x65.jpg)](https://karkhane.org/5958/is_there_an_accident/)[حادثه‌ای در کار است یا نه؟!](https://karkhane.org/5958/is_there_an_accident/)
-* [![چه باید بخوریم؟](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![چه باید بخوریم؟](https://karkhane.org/app/uploads/2024/04/Fat-Capitalist-95x65.jpg)](https://karkhane.org/5433/what-to-eat/)[چه باید بخوریم؟](https://karkhane.org/5433/what-to-eat/)
-* [![نساجی مازندران: نمونه‌ای از اولویت منافع سرمایه‌داران](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![نساجی مازندران: نمونه‌ای از اولویت منافع سرمایه‌داران](https://karkhane.org/app/uploads/2020/10/nassaji-mazandaran-95x65.jpg)](https://karkhane.org/2262/%d9%86%d8%b3%d8%a7%d8%ac%db%8c-%d9%85%d8%a7%d8%b2%d9%86%d8%af%d8%b1%d8%a7%d9%86-%d8%a7%d9%88%d9%84%d9%88%db%8c%d8%aa-%d9%85%d9%86%d8%a7%d9%81%d8%b9-%d8%b3%d8%b1%d9%85%d8%a7%db%8c/)[نساجی مازندران: نمونه‌ای از اولویت منافع سرمایه‌داران](https://karkhane.org/2262/%d9%86%d8%b3%d8%a7%d8%ac%db%8c-%d9%85%d8%a7%d8%b2%d9%86%d8%af%d8%b1%d8%a7%d9%86-%d8%a7%d9%88%d9%84%d9%88%db%8c%d8%aa-%d9%85%d9%86%d8%a7%d9%81%d8%b9-%d8%b3%d8%b1%d9%85%d8%a7%db%8c/)
-* [![در کارخانه‌ی اسنوا چه می‌گذرد؟](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![در کارخانه‌ی اسنوا چه می‌گذرد؟](https://karkhane.org/app/uploads/2021/12/dar-snowa-che-migozarad-95x65.jpg)](https://karkhane.org/3309/%d8%af%d8%b1-%da%a9%d8%a7%d8%b1%d8%ae%d8%a7%d9%86%d9%87%db%8c-%d8%a7%d8%b3%d9%86%d9%88%d8%a7-%da%86%d9%87-%d9%85%db%8c%da%af%d8%b0%d8%b1%d8%af%d8%9f/)[در کارخانه‌ی اسنوا چه می‌گذرد؟](https://karkhane.org/3309/%d8%af%d8%b1-%da%a9%d8%a7%d8%b1%d8%ae%d8%a7%d9%86%d9%87%db%8c-%d8%a7%d8%b3%d9%86%d9%88%d8%a7-%da%86%d9%87-%d9%85%db%8c%da%af%d8%b0%d8%b1%d8%af%d8%9f/)
 * [![پوستر فیلم «سازمانده»-پهن](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![پوستر فیلم «سازمانده»-پهن](https://karkhane.org/app/uploads/2020/04/organizer-movie-poster-wide-95x65.jpg)](https://karkhane.org/1322/%d9%81%db%8c%d9%84%d9%85-%d8%b3%d8%a7%d8%b2%d9%85%d8%a7%d9%86%d8%af%d9%87/)[یادداشتی بر فیلم «سازمانده»](https://karkhane.org/1322/%d9%81%db%8c%d9%84%d9%85-%d8%b3%d8%a7%d8%b2%d9%85%d8%a7%d9%86%d8%af%d9%87/)
@@ -46,15 +37,24 @@ Privacy Policy
 * [![فیلم کودک و استثمار](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![فیلم کودک و استثمار](https://karkhane.org/app/uploads/2020/06/kudak-o-estesmār-featured-95x65.jpg)](https://karkhane.org/1981/%da%a9%d9%88%d8%af%da%a9%d8%a7%d9%86-%da%a9%d8%a7%d8%b1%da%af%d8%b1-%db%8c%d8%a7%d8%af%d8%af%d8%a7%d8%b4%d8%aa%db%8c-%d8%a8%d8%b1-%d9%81%db%8c%d9%84%d9%85-%da%a9%d9%88%d8%af%da%a9-%d9%88-%d8%a7/)[کودکان کارگر: یادداشتی بر فیلم «کودک و استثمار»](https://karkhane.org/1981/%da%a9%d9%88%d8%af%da%a9%d8%a7%d9%86-%da%a9%d8%a7%d8%b1%da%af%d8%b1-%db%8c%d8%a7%d8%af%d8%af%d8%a7%d8%b4%d8%aa%db%8c-%d8%a8%d8%b1-%d9%81%db%8c%d9%84%d9%85-%da%a9%d9%88%d8%af%da%a9-%d9%88-%d8%a7/)
-* [![فصل مشترک سرگذشت‌های متفاوت ما یک چیز است: کارگر شدن، کارگر بودن](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![چه باید بخوریم؟](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![فصل مشترک سرگذشت‌های متفاوت ما یک چیز است: کارگر شدن، کارگر بودن](https://karkhane.org/app/uploads/2020/09/fasl-e-mostarak-e-ma-kargar-sodan-o-kargar-budan-95x65.jpg)](https://karkhane.org/2167/%da%a9%d8%a7%d8%b1%da%af%d8%b1-%d8%b4%d8%af%d9%86-%da%a9%d8%a7%d8%b1%da%af%d8%b1-%d8%a8%d9%88%d8%af%d9%86/)[فصل مشترک سرگذشت‌های متفاوت ما یک چیز است: کارگر شدن، کارگر بودن](https://karkhane.org/2167/%da%a9%d8%a7%d8%b1%da%af%d8%b1-%d8%b4%d8%af%d9%86-%da%a9%d8%a7%d8%b1%da%af%d8%b1-%d8%a8%d9%88%d8%af%d9%86/)
-* [![کتابچه‌ی راهنمای قراردادِ کار و مزد 1400](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    ![چه باید بخوریم؟](https://karkhane.org/app/uploads/2024/04/Fat-Capitalist-95x65.jpg)](https://karkhane.org/5433/what-to-eat/)[چه باید بخوریم؟](https://karkhane.org/5433/what-to-eat/)
+* [![نساجی مازندران: نمونه‌ای از اولویت منافع سرمایه‌داران](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![کتابچه‌ی راهنمای قراردادِ کار و مزد 1400](https://karkhane.org/app/uploads/2021/06/ketabce-rahnama-e-qarardad-e-kar-o-mozd-1400-95x65.jpg)](https://karkhane.org/2865/%da%a9%d8%aa%d8%a7%d8%a8%da%86%d9%87-%d8%b1%d8%a7%d9%87%d9%86%d9%85%d8%a7%db%8c-%d9%82%d8%b1%d8%a7%d8%b1%d8%af%d8%a7%d8%af-%da%a9%d8%a7%d8%b1-%d9%88-%d9%85%d8%b2%d8%af-1400/)[کتابچه‌ی راهنمای قرارداد کار و مزد ۱۴۰۰](https://karkhane.org/2865/%da%a9%d8%aa%d8%a7%d8%a8%da%86%d9%87-%d8%b1%d8%a7%d9%87%d9%86%d9%85%d8%a7%db%8c-%d9%82%d8%b1%d8%a7%d8%b1%d8%af%d8%a7%d8%af-%da%a9%d8%a7%d8%b1-%d9%88-%d9%85%d8%b2%d8%af-1400/)
-* [![کارگری می اندیشد](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    ![نساجی مازندران: نمونه‌ای از اولویت منافع سرمایه‌داران](https://karkhane.org/app/uploads/2020/10/nassaji-mazandaran-95x65.jpg)](https://karkhane.org/2262/%d9%86%d8%b3%d8%a7%d8%ac%db%8c-%d9%85%d8%a7%d8%b2%d9%86%d8%af%d8%b1%d8%a7%d9%86-%d8%a7%d9%88%d9%84%d9%88%db%8c%d8%aa-%d9%85%d9%86%d8%a7%d9%81%d8%b9-%d8%b3%d8%b1%d9%85%d8%a7%db%8c/)[نساجی مازندران: نمونه‌ای از اولویت منافع سرمایه‌داران](https://karkhane.org/2262/%d9%86%d8%b3%d8%a7%d8%ac%db%8c-%d9%85%d8%a7%d8%b2%d9%86%d8%af%d8%b1%d8%a7%d9%86-%d8%a7%d9%88%d9%84%d9%88%db%8c%d8%aa-%d9%85%d9%86%d8%a7%d9%81%d8%b9-%d8%b3%d8%b1%d9%85%d8%a7%db%8c/)
+* [![در کارخانه‌ی اسنوا چه می‌گذرد؟](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![کارگری می اندیشد](https://karkhane.org/app/uploads/2024/05/Worker_b-95x65.jpg)](https://karkhane.org/5497/jedal_workers/)[چرا تلویزیون “جدال” سعی دارد “کارفروش” را به جای کارگر بنشاند؟](https://karkhane.org/5497/jedal_workers/)
+    ![در کارخانه‌ی اسنوا چه می‌گذرد؟](https://karkhane.org/app/uploads/2021/12/dar-snowa-che-migozarad-95x65.jpg)](https://karkhane.org/3309/%d8%af%d8%b1-%da%a9%d8%a7%d8%b1%d8%ae%d8%a7%d9%86%d9%87%db%8c-%d8%a7%d8%b3%d9%86%d9%88%d8%a7-%da%86%d9%87-%d9%85%db%8c%da%af%d8%b0%d8%b1%d8%af%d8%9f/)[در کارخانه‌ی اسنوا چه می‌گذرد؟](https://karkhane.org/3309/%d8%af%d8%b1-%da%a9%d8%a7%d8%b1%d8%ae%d8%a7%d9%86%d9%87%db%8c-%d8%a7%d8%b3%d9%86%d9%88%d8%a7-%da%86%d9%87-%d9%85%db%8c%da%af%d8%b0%d8%b1%d8%af%d8%9f/)
+* [![داستان کوتاه «اعتصاب» - منصور یاقوتی](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![داستان کوتاه «اعتصاب» - منصور یاقوتی](https://karkhane.org/app/uploads/2021/06/etesab-mansur-yaquti-95x65.jpg)](https://karkhane.org/2810/%d8%af%d8%a7%d8%b3%d8%aa%d8%a7%d9%86-%da%a9%d9%88%d8%aa%d8%a7%d9%87-%d8%a7%d8%b9%d8%aa%d8%b5%d8%a7%d8%a8-%d9%85%d9%86%d8%b5%d9%88%d8%b1-%db%8c%d8%a7%d9%82%d9%88%d8%aa%db%8c/)[داستان کوتاه «اعتصاب» – منصور یاقوتی](https://karkhane.org/2810/%d8%af%d8%a7%d8%b3%d8%aa%d8%a7%d9%86-%da%a9%d9%88%d8%aa%d8%a7%d9%87-%d8%a7%d8%b9%d8%aa%d8%b5%d8%a7%d8%a8-%d9%85%d9%86%d8%b5%d9%88%d8%b1-%db%8c%d8%a7%d9%82%d9%88%d8%aa%db%8c/)
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://karkhane.org/app/uploads/2024/11/SizeOfArt_DailyDose_153a-95x65.jpg)](https://karkhane.org/6105/workers_hands/)[دست‌های کارگران](https://karkhane.org/6105/workers_hands/)
+* [![ردِ زنجیرها؛ ناگفته‌های یک خبر](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![ردِ زنجیرها؛ ناگفته‌های یک خبر](https://karkhane.org/app/uploads/2021/06/radd-e-zanjirha-nagofteha-e-yek-xabar-95x65.jpg)](https://karkhane.org/2839/%d8%b1%d8%af-%d8%b2%d9%86%d8%ac%db%8c%d8%b1%d9%87%d8%a7-%d9%86%d8%a7%da%af%d9%81%d8%aa%d9%87%d9%87%d8%a7%db%8c-%db%8c%da%a9-%d8%ae%d8%a8%d8%b1/)[ردِ زنجیرها؛ ناگفته‌های یک خبر](https://karkhane.org/2839/%d8%b1%d8%af-%d8%b2%d9%86%d8%ac%db%8c%d8%b1%d9%87%d8%a7-%d9%86%d8%a7%da%af%d9%81%d8%aa%d9%87%d9%87%d8%a7%db%8c-%db%8c%da%a9-%d8%ae%d8%a8%d8%b1/)
 
 * [Facebook](https://www.facebook.com/--107914377686249)
 * [YouTube](https://www.youtube.com/channel/UCnz481dcaM1p7c3oDR5Ot9A)
