@@ -9,6 +9,9 @@ Toggle navigation menu[![Make Love Not Porn](/build/_assets/logo-BF3LB7Y4.webp)M
 
 Create Account](https://makelovenotporn.tv/register)
 
+[**Our Thankful Sale is On!**  
+Sign in to get free credits through Monday.](https://makelovenotporn.tv/register)
+
 [Privacy Policy](https://makelovenotporn.tv/privacy-policy)
 ===========================================================
 
@@ -155,4 +158,4 @@ Pro-sex. Pro-porn. Pro-knowing the difference.
 
 © 2024 MakeLoveNotPorn. All rights reserved.
 
-Version: 376866f - production
+Version: 8284773 - production
