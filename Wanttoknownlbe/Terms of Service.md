@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/elektro-magnetische-straling-ems/kinderen-lijden-in-de-buurt-van-5g-masten/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/wetenschap/klimaat/is-rudy-bouma-nos-die-alles-wetende-fact-checker/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
