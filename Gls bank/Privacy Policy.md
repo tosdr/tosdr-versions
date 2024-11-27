@@ -31,7 +31,7 @@
     
 * Menü
 
-[Zum OnlineBanking](https://www.gls-online-filiale.de/services_cloud/portal/ "Zum OnlineBanking")
+[Zum Onlinebanking](https://www.gls-online-filiale.de/services_cloud/portal/ "Zum Onlinebanking")
 
 [![](/media/Bilder/Logos/GLSB_Logo_Farbe_sRGB.svg)](https://www.gls.de/ "Zur Startseite der GLS Bank")
 
@@ -340,9 +340,9 @@
 
 Barrierearmut
 
-[Zum OnlineBanking](https://www.gls-online-filiale.de/services_cloud/portal/ "Zum OnlineBanking")
+[Zum Onlinebanking](https://www.gls-online-filiale.de/services_cloud/portal/ "Zum Onlinebanking")
 
-[Zum OnlineBanking](https://www.gls-online-filiale.de/services_cloud/portal/ "Zum OnlineBanking")
+[Zum Onlinebanking](https://www.gls-online-filiale.de/services_cloud/portal/ "Zum Onlinebanking")
 
 Datenschutz
 ===========
