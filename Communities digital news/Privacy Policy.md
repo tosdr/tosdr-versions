@@ -26,57 +26,95 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-derricknaacp-1200-x-628-1200x630.jpg)](https://americanwirenews.com/naacp-boss-already-whining-about-trumps-cabinet/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-palm-beach-murder-1200x630.jpg)](https://americanwirenews.com/florida-golfer-brutally-murdered-by-half-naked-man-in-random-act-of-violence/)
 
-[NAACP boss already whining about Trump’s Cabinet](https://americanwirenews.com/naacp-boss-already-whining-about-trumps-cabinet/)
+[Florida golfer brutally murdered by half-naked man in ‘random act of violence’](https://americanwirenews.com/florida-golfer-brutally-murdered-by-half-naked-man-in-random-act-of-violence/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-jones-vs-gw-jones-470x260-1200-x-628-1200x630.jpg)](https://americanwirenews.com/trump-team-shoots-down-claim-hell-purge-transgenders-from-military/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-trump-maralago-1200x630.jpg)](https://americanwirenews.com/trump-transition-team-puts-hold-on-fbi-background-checks-until-bureau-takeover-report/)
 
-[Trump team shoots down claim he’ll purge transgenders from military](https://americanwirenews.com/trump-team-shoots-down-claim-hell-purge-transgenders-from-military/)
+[Trump transition team puts hold on FBI background checks until bureau takeover: report](https://americanwirenews.com/trump-transition-team-puts-hold-on-fbi-background-checks-until-bureau-takeover-report/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-michelle-obama-1200x630.png)](https://americanwirenews.com/michelle-obama-pimping-new-book-overcoming-just-in-time-for-christmas/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/08/sg-obama-1200x630.png)](https://americanwirenews.com/the-balls-on-this-guy-obama-touts-pluralism-roll-out-after-thanksgiving-holiday/)
 
-[Michelle Obama pimping new book ‘Overcoming’ just in time for Christmas](https://americanwirenews.com/michelle-obama-pimping-new-book-overcoming-just-in-time-for-christmas/)
+[‘The balls on this guy’: Obama touts ‘pluralism’ roll out after Thanksgiving holiday](https://americanwirenews.com/the-balls-on-this-guy-obama-touts-pluralism-roll-out-after-thanksgiving-holiday/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-james-carville-1200x630.png)](https://americanwirenews.com/carville-goes-off-on-kamalas-23-year-old-snot-nosed-brat-staffers-in-f-bomb-laden-rant/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-sunny-hostin-1-1200x630.png)](https://americanwirenews.com/sunny-hostin-fact-checked-into-oblivion-over-claim-trump-never-talked-about-egg-prices/)
 
-[Carville goes off on Kamala’s 23-year-old snot-nosed brat staffers in F-bomb laden rant](https://americanwirenews.com/carville-goes-off-on-kamalas-23-year-old-snot-nosed-brat-staffers-in-f-bomb-laden-rant/)
+[Sunny Hostin fact-checked into oblivion over claim Trump ‘never talked about’ egg prices](https://americanwirenews.com/sunny-hostin-fact-checked-into-oblivion-over-claim-trump-never-talked-about-egg-prices/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-phelan-bhattacharya-1200x630.jpg)](https://americanwirenews.com/trump-taps-two-more-head-turning-leaders-to-round-out-list/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-msnbc-1200x630.jpg)](https://americanwirenews.com/msnbc-post-election-ratings-collapse-results-in-loss-of-nearly-half-of-viewers/)
 
-[Trump taps two more head-turning leaders to round out list](https://americanwirenews.com/trump-taps-two-more-head-turning-leaders-to-round-out-list/)
+[MSNBC post-election ratings collapse results in loss of nearly half of viewers](https://americanwirenews.com/msnbc-post-election-ratings-collapse-results-in-loss-of-nearly-half-of-viewers/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-steele-1200x630.jpg)](https://americanwirenews.com/fmr-rnc-boss-with-tds-says-trumps-return-is-like-opening-a-pandoras-box-of-hell/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-rogan-kelly-1200x630.jpg)](https://americanwirenews.com/will-cain-says-joe-rogan-megyn-kelly-earned-seats-in-trump-white-house-briefing-room/)
 
-[Fmr. RNC boss with TDS says Trump’s return is like opening a ‘Pandora’s box of hell’](https://americanwirenews.com/fmr-rnc-boss-with-tds-says-trumps-return-is-like-opening-a-pandoras-box-of-hell/)
+[Will Cain says Joe Rogan, Megyn Kelly ‘earned’ seats in Trump White House briefing room](https://americanwirenews.com/will-cain-says-joe-rogan-megyn-kelly-earned-seats-in-trump-white-house-briefing-room/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2022/06/sg-luntz-1200x630.png)](https://americanwirenews.com/frank-luntz-roasted-over-touting-this-years-cheaper-turkey-day-dinner/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-uatx-1200x630.jpg)](https://americanwirenews.com/woke-is-waning-university-of-austin-opts-for-merit-based-initiatives-over-dei/)
 
-[Frank Luntz ROASTED over touting this year’s cheaper Turkey Day dinner](https://americanwirenews.com/frank-luntz-roasted-over-touting-this-years-cheaper-turkey-day-dinner/)
+[‘Woke’ is waning: University of Austin opts for merit-based initiatives over DEI](https://americanwirenews.com/woke-is-waning-university-of-austin-opts-for-merit-based-initiatives-over-dei/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-cutter-1200x630.png)](https://americanwirenews.com/kamala-aides-blame-trump-for-her-missing-out-on-interview-with-joe-rogan/)
+[![](https://americanwirenews.com/wp-content/uploads/2023/09/SG-Omar-1200x630.jpg)](https://americanwirenews.com/squad-member-ilhan-omar-calls-kamalas-embrace-of-liz-cheney-a-huge-misstep/)
 
-[Kamala aides blame TRUMP for her missing out on interview with Joe Rogan](https://americanwirenews.com/kamala-aides-blame-trump-for-her-missing-out-on-interview-with-joe-rogan/)
+[‘Squad’ member Ilhan Omar calls Kamala’s embrace of Liz Cheney a ‘huge misstep’](https://americanwirenews.com/squad-member-ilhan-omar-calls-kamalas-embrace-of-liz-cheney-a-huge-misstep/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/screenshot-2024-11-27-071639-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2023/12/SG-DC-Police-1200x630.jpg)
 
-### MSNBC claims it was ‘unaware’ that Al Sharpton got paid by Kamala](https://americanwirenews.com/msnbc-claims-it-was-unaware-that-al-sharpton-got-paid-by-kamala/)
+### ‘Un-American’: Trump spox says cabinet nominees targeted with bomb threats, swatting](https://americanwirenews.com/un-american-trump-spox-says-cabinet-nominees-targeted-with-bomb-threats-swatting/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
-### [Trump expected to discharge transgenders out of the military immediately – up to 15,000](https://americanwirenews.com/trump-expected-to-discharge-transgenders-out-of-the-military-immediately-up-to-15000/)
+### [Trump makes little girl million-dollar offer during playful outing on golf course](https://americanwirenews.com/trump-makes-young-girl-million-dollar-offer-during-playful-outing-on-golf-course/)
 
-### [MTG says DOGE could ax NPR: ‘Nothing but Democrat propaganda’](https://americanwirenews.com/mtg-says-doge-could-ax-npr-nothing-but-democrat-propaganda/)
+### [University to offer intro to fat studies – and yes, of course, there is a race factor](https://americanwirenews.com/university-to-offer-intro-to-fat-studies-and-yes-of-course-there-is-a-race-factor/)
 
-### [Haitian migrants now fleeing famously mentioned Springfield, OH, fear Trump deportations](https://americanwirenews.com/haitian-migrants-now-fleeing-famously-mentioned-springfield-oh-fear-trump-deportations/)
+### [Joe and Jill to attend Trump’s inauguration, and Americans are speculating](https://americanwirenews.com/joe-and-jill-to-attend-trumps-inauguration-and-americans-are-speculating/)
 
-### [Biden admin creates delay, legal standoff so Trump’s transition team remains without access](https://americanwirenews.com/biden-admin-creates-delay-legal-standoff-so-trumps-transition-team-remains-without-access/)
+### [DNC workers begging for donations after layoffs](https://americanwirenews.com/dnc-workers-begging-for-donations-after-layoffs/)
 
-### [Shifty Schiff serves up a pre-Thanksgiving banquet of lies](https://americanwirenews.com/shifty-schiff-serves-up-a-pre-thanksgiving-banquet-of-lies/)
+### [Kamala mulls comeback after being crushed by Trump](https://americanwirenews.com/kamala-mulls-comeback-after-being-crushed-by-trump/)
 
-### [Denver mayor rethinks pitting police against ICE deportation forces](https://americanwirenews.com/denver-mayor-rethinks-pitting-police-against-ice-deportation-forces/)
+### [Newsom makes ‘insane’ move against Elon Musk, proposes electric car rebates that exclude Tesla](https://americanwirenews.com/newsom-makes-insane-move-against-elon-musk-proposes-electric-car-rebates-that-exclude-tesla/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-liz-cheney-220x180.jpg)](https://americanwirenews.com/leave-it-to-juan-williams-to-tout-heroic-liz-cheney-as-politician-of-the-year/)
+
+[Leave it to Juan Williams to tout ‘heroic’ Liz Cheney as ‘Politician of the Year’](https://americanwirenews.com/leave-it-to-juan-williams-to-tout-heroic-liz-cheney-as-politician-of-the-year/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-target-220x180.jpg)](https://americanwirenews.com/wsj-levels-target-over-poor-earnings-report-slide-from-cheap-chic-to-dull-chore/)
+
+[WSJ levels Target over poor earnings report: ‘Slide from cheap chic to dull chore’](https://americanwirenews.com/wsj-levels-target-over-poor-earnings-report-slide-from-cheap-chic-to-dull-chore/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-1780945546-1-220x180.jpg)](https://americanwirenews.com/diddy-borrows-from-trump-free-speech-playbook-but-prosecutors-arent-having-it/)
+
+[Diddy borrows from Trump ‘free speech’ playbook, but prosecutors aren’t having it](https://americanwirenews.com/diddy-borrows-from-trump-free-speech-playbook-but-prosecutors-arent-having-it/)
+
+(Photo by Samir Hussein/Getty Images for Sean Diddy Combs)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-harris-team-220x180.jpg)](https://americanwirenews.com/senior-adviser-david-plouffe-admits-internal-polling-never-had-kamala-harris-ahead-of-trump/)
+
+[Senior adviser admits internal polling never had Kamala Harris ahead of Trump](https://americanwirenews.com/senior-adviser-david-plouffe-admits-internal-polling-never-had-kamala-harris-ahead-of-trump/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/rf-pexels-united-nations-220x180.jpg)](https://americanwirenews.com/un-sets-sights-on-social-media-influencers-questions-accuracy-of-content/)
+
+[UN sets sights on social media influencers, questions ‘accuracy’ of content](https://americanwirenews.com/un-sets-sights-on-social-media-influencers-questions-accuracy-of-content/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-oleary-220x180.jpg)](https://americanwirenews.com/kevin-oleary-aka-mr-wonderful-seeks-defcon-one-trade-war-with-china/)
+
+[Kevin O’Leary, aka Mr. Wonderful, seeks ‘DEFCON One’ trade war with China](https://americanwirenews.com/kevin-oleary-aka-mr-wonderful-seeks-defcon-one-trade-war-with-china/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-catherine-herridge-220x180.jpg)](https://americanwirenews.com/cbs-news-reporter-catherine-herridge-tells-all-about-networks-effort-to-squash-biden-scandal/)
+
+[CBS News reporter Catherine Herridge tells all about network’s effort to squash Biden scandal](https://americanwirenews.com/cbs-news-reporter-catherine-herridge-tells-all-about-networks-effort-to-squash-biden-scandal/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-sheinbaum-220x180.jpg)](https://americanwirenews.com/mexicos-president-fires-back-at-trump-with-threats-blames-america-for-mexicos-problems/)
+
+[Mexico’s president fires back at Trump with threats, blames America for Mexico’s problems](https://americanwirenews.com/mexicos-president-fires-back-at-trump-with-threats-blames-america-for-mexicos-problems/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-tom-cotton-220x180.jpg)](https://americanwirenews.com/sen-cotton-fires-off-harsh-letter-to-sec-austin-over-pentagon-plot-to-disobey-trump-orders/)
+
+[Sen Cotton fires off harsh letter to Sec. Austin over Pentagon plot to disobey Trump orders](https://americanwirenews.com/sen-cotton-fires-off-harsh-letter-to-sec-austin-over-pentagon-plot-to-disobey-trump-orders/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-trump-guitar-220x180.jpg)](https://americanwirenews.com/gibson-fires-off-cease-and-desist-over-trumps-limited-edition-guitars/)
 
@@ -85,6 +123,48 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-stone-220x180.jpg)](https://americanwirenews.com/hollywood-actress-goes-abroad-tees-off-on-uneducated-untraveled-americans-who-voted-for-trump/)
 
 [Hollywood actress goes abroad, tees off on ‘uneducated,’ untraveled Americans who voted for Trump](https://americanwirenews.com/hollywood-actress-goes-abroad-tees-off-on-uneducated-untraveled-americans-who-voted-for-trump/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-cutter-220x180.png)](https://americanwirenews.com/kamala-aides-blame-trump-for-her-missing-out-on-interview-with-joe-rogan/)
+
+[Kamala aides blame TRUMP for her missing out on interview with Joe Rogan](https://americanwirenews.com/kamala-aides-blame-trump-for-her-missing-out-on-interview-with-joe-rogan/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2022/06/sg-luntz-220x180.png)](https://americanwirenews.com/frank-luntz-roasted-over-touting-this-years-cheaper-turkey-day-dinner/)
+
+[Frank Luntz ROASTED over touting this year’s cheaper Turkey Day dinner](https://americanwirenews.com/frank-luntz-roasted-over-touting-this-years-cheaper-turkey-day-dinner/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-steele-220x180.jpg)](https://americanwirenews.com/fmr-rnc-boss-with-tds-says-trumps-return-is-like-opening-a-pandoras-box-of-hell/)
+
+[Fmr. RNC boss with TDS says Trump’s return is like opening a ‘Pandora’s box of hell’](https://americanwirenews.com/fmr-rnc-boss-with-tds-says-trumps-return-is-like-opening-a-pandoras-box-of-hell/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-phelan-bhattacharya-220x180.jpg)](https://americanwirenews.com/trump-taps-two-more-head-turning-leaders-to-round-out-list/)
+
+[Trump taps two more head-turning leaders to round out list](https://americanwirenews.com/trump-taps-two-more-head-turning-leaders-to-round-out-list/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-james-carville-220x180.png)](https://americanwirenews.com/carville-goes-off-on-kamalas-23-year-old-snot-nosed-brat-staffers-in-f-bomb-laden-rant/)
+
+[Carville goes off on Kamala’s 23-year-old snot-nosed brat staffers in F-bomb laden rant](https://americanwirenews.com/carville-goes-off-on-kamalas-23-year-old-snot-nosed-brat-staffers-in-f-bomb-laden-rant/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-michelle-obama-220x180.png)](https://americanwirenews.com/michelle-obama-pimping-new-book-overcoming-just-in-time-for-christmas/)
+
+[Michelle Obama pimping new book ‘Overcoming’ just in time for Christmas](https://americanwirenews.com/michelle-obama-pimping-new-book-overcoming-just-in-time-for-christmas/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-jones-vs-gw-jones-470x260-1200-x-628-220x180.jpg)](https://americanwirenews.com/trump-team-shoots-down-claim-hell-purge-transgenders-from-military/)
+
+[Trump team shoots down claim he’ll purge transgenders from military](https://americanwirenews.com/trump-team-shoots-down-claim-hell-purge-transgenders-from-military/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-derricknaacp-1200-x-628-220x180.jpg)](https://americanwirenews.com/naacp-boss-already-whining-about-trumps-cabinet/)
+
+[NAACP boss already whining about Trump’s Cabinet](https://americanwirenews.com/naacp-boss-already-whining-about-trumps-cabinet/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/screenshot-2024-11-27-071639-220x180.jpg)](https://americanwirenews.com/msnbc-claims-it-was-unaware-that-al-sharpton-got-paid-by-kamala/)
+
+[MSNBC claims it was ‘unaware’ that Al Sharpton got paid by Kamala](https://americanwirenews.com/msnbc-claims-it-was-unaware-that-al-sharpton-got-paid-by-kamala/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-2185632401-1-220x180.jpg)](https://americanwirenews.com/paging-elon-musk-joni-ernsts-plan-to-eliminate-2t-in-govt-waste-is-a-must-read/)
+
+[Paging Elon Musk: Joni Ernst’s plan to eliminate $2T in govt. waste is a MUST READ](https://americanwirenews.com/paging-elon-musk-joni-ernsts-plan-to-eliminate-2t-in-govt-waste-is-a-must-read/)
+
+(Photo by Brandon Bell/Getty Images)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-routhvid-1200-x-628-220x180.jpg)](https://americanwirenews.com/alleged-would-be-trump-assassin-releases-jailhouse-letter-railing-against-two-party-system/)
 
@@ -96,89 +176,9 @@ Search for:
 
 Getty Images
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-bannon-220x180.jpg)](https://americanwirenews.com/bannon-blasts-devil-mitch-mcconnell-for-thwarting-trump-agenda-we-have-to-get-a-lot-more-aggressive/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-newsguard-rating-220x180.jpg)](https://americanwirenews.com/its-nuts-influential-media-watchdog-awards-wapo-a-perfect-score/)
 
-[Bannon blasts ‘devil’ Mitch McConnell for thwarting Trump agenda: ‘We have to get a lot more aggressive’](https://americanwirenews.com/bannon-blasts-devil-mitch-mcconnell-for-thwarting-trump-agenda-we-have-to-get-a-lot-more-aggressive/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-trudeau-sheinbaum-220x180.jpg)](https://americanwirenews.com/trump-effect-trends-on-x-as-mexico-and-canada-presidents-scramble-over-tariff-threat/)
-
-[‘Trump Effect’ trends on X as Mexico and Canada presidents scramble over tariff threat](https://americanwirenews.com/trump-effect-trends-on-x-as-mexico-and-canada-presidents-scramble-over-tariff-threat/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-blackburn-ramaswamy-220x180.jpg)](https://americanwirenews.com/marsha-blackburn-moves-to-freeze-federal-salaries-and-hiring-until-doge-gets-underway/)
-
-[Marsha Blackburn moves to freeze federal salaries and hiring until DOGE gets underway](https://americanwirenews.com/marsha-blackburn-moves-to-freeze-federal-salaries-and-hiring-until-doge-gets-underway/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-trump-press-220x180.jpg)](https://americanwirenews.com/move-over-mainstream-trump-mulls-opening-press-room-to-independent-journalists/)
-
-[Move over mainstream: Trump mulls opening press room to independent journalists](https://americanwirenews.com/move-over-mainstream-trump-mulls-opening-press-room-to-independent-journalists/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2022/05/GettyImages-867124970-220x180.jpg)](https://americanwirenews.com/recession-boiling-up-from-the-bottom-economists-are-seeing-the-signs-despite-rosy-lies/)
-
-[Recession ‘boiling up from the bottom’; economists are seeing the signs despite rosy lies](https://americanwirenews.com/recession-boiling-up-from-the-bottom-economists-are-seeing-the-signs-despite-rosy-lies/)
-
-Getty Images
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-cair-220x180.jpg)](https://americanwirenews.com/muslim-activist-group-cair-will-be-forced-to-open-its-books-reveal-funding-sources-after-lawsuit-backfires/)
-
-[Muslim activist group CAIR will be forced to open its books, reveal funding sources after lawsuit backfires](https://americanwirenews.com/muslim-activist-group-cair-will-be-forced-to-open-its-books-reveal-funding-sources-after-lawsuit-backfires/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-bhalla-220x180.jpg)](https://americanwirenews.com/hoboken-mayor-defends-his-palestinian-flag-raising-at-city-hall/)
-
-[Hoboken mayor defends his Palestinian flag raising at city hall](https://americanwirenews.com/hoboken-mayor-defends-his-palestinian-flag-raising-at-city-hall/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-airbnb-220x180.png)](https://americanwirenews.com/wapo-pumps-oxygen-into-weak-airbnb-boycott-attempt-for-trump-inauguration/)
-
-[WaPo pumps oxygen into weak Airbnb boycott attempt for Trump inauguration](https://americanwirenews.com/wapo-pumps-oxygen-into-weak-airbnb-boycott-attempt-for-trump-inauguration/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-trump-hair-220x180.jpg)](https://americanwirenews.com/trump-makes-young-girl-million-dollar-offer-during-playful-outing-on-golf-course/)
-
-[Trump makes little girl million-dollar offer during playful outing on golf course](https://americanwirenews.com/trump-makes-young-girl-million-dollar-offer-during-playful-outing-on-golf-course/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2023/01/RF-Pexels-Fat-People-220x180.jpg)](https://americanwirenews.com/university-to-offer-intro-to-fat-studies-and-yes-of-course-there-is-a-race-factor/)
-
-[University to offer intro to fat studies – and yes, of course, there is a race factor](https://americanwirenews.com/university-to-offer-intro-to-fat-studies-and-yes-of-course-there-is-a-race-factor/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-trump-smirk-biden-220x180.jpg)](https://americanwirenews.com/joe-and-jill-to-attend-trumps-inauguration-and-americans-are-speculating/)
-
-[Joe and Jill to attend Trump’s inauguration, and Americans are speculating](https://americanwirenews.com/joe-and-jill-to-attend-trumps-inauguration-and-americans-are-speculating/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-harris-dnc-staff-220x180.jpg)](https://americanwirenews.com/dnc-workers-begging-for-donations-after-layoffs/)
-
-[DNC workers begging for donations after layoffs](https://americanwirenews.com/dnc-workers-begging-for-donations-after-layoffs/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-kamalaad-1200-x-628-220x180.jpg)](https://americanwirenews.com/kamala-mulls-comeback-after-being-crushed-by-trump/)
-
-[Kamala mulls comeback after being crushed by Trump](https://americanwirenews.com/kamala-mulls-comeback-after-being-crushed-by-trump/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-gavin-newson-sg-elon-musk-220x180.jpg)](https://americanwirenews.com/newsom-makes-insane-move-against-elon-musk-proposes-electric-car-rebates-that-exclude-tesla/)
-
-[Newsom makes ‘insane’ move against Elon Musk, proposes electric car rebates that exclude Tesla](https://americanwirenews.com/newsom-makes-insane-move-against-elon-musk-proposes-electric-car-rebates-that-exclude-tesla/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2022/08/SG-Baldwin-220x180.jpg)](https://americanwirenews.com/alec-baldwin-sneers-down-at-americans-uninformed-about-reality/)
-
-[Alec Baldwin sneers down at Americans, ‘uninformed about reality’](https://americanwirenews.com/alec-baldwin-sneers-down-at-americans-uninformed-about-reality/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-walmartfront-1200-x-628-220x180.jpg)](https://americanwirenews.com/walmart-to-roll-back-dei-policies/)
-
-[Walmart to roll back DEI policies](https://americanwirenews.com/walmart-to-roll-back-dei-policies/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2021/12/SG-Biden-Harris-2-220x180.jpg)](https://americanwirenews.com/white-house-toots-own-horn-as-one-of-most-successful-administrations-in-history/)
-
-[White House toots own horn as ‘one of most successful administrations in history’](https://americanwirenews.com/white-house-toots-own-horn-as-one-of-most-successful-administrations-in-history/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/rf-trump-border-220x180.jpg)](https://americanwirenews.com/trudeau-calls-trump-hours-after-he-put-us-neighbors-on-notice-in-shock-move-to-stem-illegal-aliens/)
-
-[Trudeau calls Trump hours after he put US neighbors on notice in shock move to stem illegal aliens](https://americanwirenews.com/trudeau-calls-trump-hours-after-he-put-us-neighbors-on-notice-in-shock-move-to-stem-illegal-aliens/)
-
-(Official White House Photo by Shealah Craighead)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-joe-pxbay-turkey-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/thanksgiving-dinner-costs-way-up-since-biden-took-office-but-media-offers-this-gaslighting-spin/)
-
-[Thanksgiving dinner costs WAY up since Biden took office, but media offers this gaslighting spin](https://americanwirenews.com/thanksgiving-dinner-costs-way-up-since-biden-took-office-but-media-offers-this-gaslighting-spin/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-whoopi-220x180.png)](https://americanwirenews.com/whoopi-singing-new-tune-on-trump-criticism-tells-ana-navarro-shes-pissing-in-the-wind/)
-
-[Whoopi singing new tune on Trump criticism, tells Ana Navarro she’s ‘pissing in the wind’](https://americanwirenews.com/whoopi-singing-new-tune-on-trump-criticism-tells-ana-navarro-shes-pissing-in-the-wind/)
+[‘It’s nuts!’ Influential media ‘watchdog’ awards WaPo a perfect score](https://americanwirenews.com/its-nuts-influential-media-watchdog-awards-wapo-a-perfect-score/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
@@ -240,9 +240,13 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 ### [BUSINESS](https://www.commdiginews.com/category/featured-business/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-musk-maddow-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/elon-musk-torments-msnbc-amid-speculation-hell-buy-troubled-left-wing-network/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-walmartfront-1200-x-628-1200x630.jpg)](https://americanwirenews.com/walmart-to-roll-back-dei-policies/)
 
-[Elon Musk torments MSNBC amid speculation he’ll buy troubled left-wing network](https://americanwirenews.com/elon-musk-torments-msnbc-amid-speculation-hell-buy-troubled-left-wing-network/)
+[Walmart to roll back DEI policies](https://americanwirenews.com/walmart-to-roll-back-dei-policies/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-walmartfront-1200-x-628-220x180.jpg)](https://americanwirenews.com/walmart-to-roll-back-dei-policies/)
+
+[Walmart to roll back DEI policies](https://americanwirenews.com/walmart-to-roll-back-dei-policies/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-musk-maddow-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/elon-musk-torments-msnbc-amid-speculation-hell-buy-troubled-left-wing-network/)
 
@@ -260,35 +264,33 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 [Bud Light teams up with superstar comedian to claw back customers](https://americanwirenews.com/bud-light-teams-up-with-superstar-comedian-to-claw-back-customers/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-jaguar-220x180.png)](https://americanwirenews.com/soon-youll-see-things-our-way-jaguar-warns-those-not-onboard-with-its-dei-agenda/)
-
-[‘Soon you’ll see things our way’: Jaguar warns those not onboard with its DEI agenda](https://americanwirenews.com/soon-youll-see-things-our-way-jaguar-warns-those-not-onboard-with-its-dei-agenda/)
-
 ### [POLITICS](https://www.commdiginews.com/category/featured-politics/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-megyn-1200x630.jpg)](https://americanwirenews.com/megyn-kelly-on-critique-of-left-leaning-npr-why-are-we-funding-this-bullsht/)
+[![](https://americanwirenews.com/wp-content/uploads/2022/08/SG-Baldwin-1200x630.jpg)](https://americanwirenews.com/alec-baldwin-sneers-down-at-americans-uninformed-about-reality/)
 
-[Megyn Kelly on critique of left-leaning NPR: ‘Why are we funding this bullsh\*t?’](https://americanwirenews.com/megyn-kelly-on-critique-of-left-leaning-npr-why-are-we-funding-this-bullsht/)
+[Alec Baldwin sneers down at Americans, ‘uninformed about reality’](https://americanwirenews.com/alec-baldwin-sneers-down-at-americans-uninformed-about-reality/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-megyn-220x180.jpg)](https://americanwirenews.com/megyn-kelly-on-critique-of-left-leaning-npr-why-are-we-funding-this-bullsht/)
+[![](https://americanwirenews.com/wp-content/uploads/2022/08/SG-Baldwin-220x180.jpg)](https://americanwirenews.com/alec-baldwin-sneers-down-at-americans-uninformed-about-reality/)
 
-[Megyn Kelly on critique of left-leaning NPR: ‘Why are we funding this bullsh\*t?’](https://americanwirenews.com/megyn-kelly-on-critique-of-left-leaning-npr-why-are-we-funding-this-bullsht/)
+[Alec Baldwin sneers down at Americans, ‘uninformed about reality’](https://americanwirenews.com/alec-baldwin-sneers-down-at-americans-uninformed-about-reality/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-senate-dems-220x180.jpg)](https://americanwirenews.com/dems-flip-flop-on-filibuster-highlights-unprincipled-obsession-with-trump/)
+[![](https://americanwirenews.com/wp-content/uploads/2021/12/SG-Biden-Harris-2-220x180.jpg)](https://americanwirenews.com/white-house-toots-own-horn-as-one-of-most-successful-administrations-in-history/)
 
-[Dems flip flop on filibuster highlights unprincipled obsession with Trump](https://americanwirenews.com/dems-flip-flop-on-filibuster-highlights-unprincipled-obsession-with-trump/)
+[White House toots own horn as ‘one of most successful administrations in history’](https://americanwirenews.com/white-house-toots-own-horn-as-one-of-most-successful-administrations-in-history/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-bash-mullin-1200-x-628-220x180.jpg)](https://americanwirenews.com/gop-senator-discredits-dems-dead-wrong-claim-that-tulsi-gabbard-is-a-putin-asset/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/rf-trump-border-220x180.jpg)](https://americanwirenews.com/trudeau-calls-trump-hours-after-he-put-us-neighbors-on-notice-in-shock-move-to-stem-illegal-aliens/)
 
-[GOP senator discredits Dems ‘dead wrong’ claim that Tulsi Gabbard is a Putin asset](https://americanwirenews.com/gop-senator-discredits-dems-dead-wrong-claim-that-tulsi-gabbard-is-a-putin-asset/)
+[Trudeau calls Trump hours after he put US neighbors on notice in shock move to stem illegal aliens
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-carvey-musk-220x180.jpg)](https://americanwirenews.com/dana-carvey-sides-with-elon-musks-criticism-after-he-spoofs-billionaire-on-dying-snl/)
+(Official White House Photo by Shealah Craighead)](https://americanwirenews.com/trudeau-calls-trump-hours-after-he-put-us-neighbors-on-notice-in-shock-move-to-stem-illegal-aliens/)
 
-[Dana Carvey sides with Elon Musk’s criticism after he spoofs billionaire on ‘dying’ SNL](https://americanwirenews.com/dana-carvey-sides-with-elon-musks-criticism-after-he-spoofs-billionaire-on-dying-snl/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-joe-pxbay-turkey-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/thanksgiving-dinner-costs-way-up-since-biden-took-office-but-media-offers-this-gaslighting-spin/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2023/10/SG-SG-Trey-Gowdy-Matt-Gaetz-split-220x180.jpg)](https://americanwirenews.com/deep-state-bootlicker-gaetz-goes-scorched-earth-on-trey-gowdy/)
+[Thanksgiving dinner costs WAY up since Biden took office, but media offers this gaslighting spin](https://americanwirenews.com/thanksgiving-dinner-costs-way-up-since-biden-took-office-but-media-offers-this-gaslighting-spin/)
 
-[‘Deep State bootlicker’: Gaetz goes scorched earth on Trey Gowdy](https://americanwirenews.com/deep-state-bootlicker-gaetz-goes-scorched-earth-on-trey-gowdy/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-whoopi-220x180.png)](https://americanwirenews.com/whoopi-singing-new-tune-on-trump-criticism-tells-ana-navarro-shes-pissing-in-the-wind/)
+
+[Whoopi singing new tune on Trump criticism, tells Ana Navarro she’s ‘pissing in the wind’](https://americanwirenews.com/whoopi-singing-new-tune-on-trump-criticism-tells-ana-navarro-shes-pissing-in-the-wind/)
 
 ### [HUMOR](https://www.commdiginews.com/category/featured-humor/)
 
@@ -318,9 +320,13 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 ### [CULTURE & SOCIETY](https://www.commdiginews.com/category/featured-culture-society/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-ellen-aussie-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/aussie-tv-mocks-ellen-degeneres-suggests-nasty-comedian-fled-us-because-of-diddy-files/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-kai-trump-dance-1200x630.jpg)](https://americanwirenews.com/learned-these-moves-from-the-best-granddaughter-kai-does-iconic-trump-dance-in-the-sky/)
 
-[Aussie TV mocks Ellen DeGeneres – suggests ‘nasty’ comedian fled US because of Diddy files](https://americanwirenews.com/aussie-tv-mocks-ellen-degeneres-suggests-nasty-comedian-fled-us-because-of-diddy-files/)
+[‘Learned these moves from the best’: Granddaughter Kai does iconic ‘Trump dance’ in the sky](https://americanwirenews.com/learned-these-moves-from-the-best-granddaughter-kai-does-iconic-trump-dance-in-the-sky/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-kai-trump-dance-220x180.jpg)](https://americanwirenews.com/learned-these-moves-from-the-best-granddaughter-kai-does-iconic-trump-dance-in-the-sky/)
+
+[‘Learned these moves from the best’: Granddaughter Kai does iconic ‘Trump dance’ in the sky](https://americanwirenews.com/learned-these-moves-from-the-best-granddaughter-kai-does-iconic-trump-dance-in-the-sky/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-ellen-aussie-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/aussie-tv-mocks-ellen-degeneres-suggests-nasty-comedian-fled-us-because-of-diddy-files/)
 
@@ -337,11 +343,5 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-ibarra-220x180.jpg)](https://americanwirenews.com/msnbc-buried-in-backlash-for-sympathetic-headline-addressing-laken-rileys-killer/)
 
 [MSNBC buried in backlash for ‘sympathetic’ headline addressing Laken Riley’s killer](https://americanwirenews.com/msnbc-buried-in-backlash-for-sympathetic-headline-addressing-laken-rileys-killer/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/jefferson-county-castillo-1-220x180.jpg)](https://americanwirenews.com/illegal-alien-from-venezuela-arrested-for-alleged-sexual-assault-on-employers-teen-daughter/)
-
-[Illegal alien from Venezuela arrested for alleged sexual assault on employer’s teen daughter
-
-Jefferson County Sheriff's Office](https://americanwirenews.com/illegal-alien-from-venezuela-arrested-for-alleged-sexual-assault-on-employers-teen-daughter/)
 
 © 2024. All Rights Reserved. American Wire News
