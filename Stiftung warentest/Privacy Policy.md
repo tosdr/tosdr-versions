@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Recht auf Reparatur: EU verpflichtet Hersteller zu Reparatur defekter Geräte](https://www.test.de/Recht-auf-Reparatur-EU-verpflichtet-Hersteller-zu-Reparatur-defekter-Geraete-6116340-0/ "Recht auf Reparatur - EU verpflichtet Hersteller zu Reparatur defekter Geräte")
-* [Ganz­jahres­reifen im Test: Die besten Reifen für jedes Wetter](https://www.test.de/Die-besten-Ganzjahresreifen-5391687-0/ "Ganzjahresreifen im Test - Die besten Reifen für jedes Wetter")
-* [Geschlechts­eintrag ändern: Identität offiziell berichtigen lassen](https://www.test.de/Geschlechtseintrag-aendern-6143042-0/ "Geschlechtseintrag ändern - Identität offiziell berichtigen lassen")
-* [Schnell­test Sprach­verstärker Oskar: Sprache beim Fernsehen besser verstehen](https://www.test.de/Schnelltest-Sprachverstaerker-Oskar-Sprache-beim-Fernsehen-besser-verstehen-5992192-0/ "Schnelltest Sprachverstärker Oskar - Sprache beim Fernsehen besser verstehen")
-* [Dubiose Anleger­anwälte: Komplexe Vereinbarungen und unrealistische Szenarien](https://www.test.de/Dubiose-Anlegeranwaelte-Komplexe-Vereinbarungen-und-unrealistische-Szenarien-6133882-0/ "Dubiose Anlegeranwälte - Komplexe Vereinbarungen und unrealistische Szenarien")
-* [Zinsen: Erste Bank aus Tschechien mit im Vergleich](https://www.test.de/Zinsen-Erste-Bank-aus-Tschechien-5987319-0/ "Zinsen - Erste Bank aus Tschechien mit im Vergleich")
+* [Identitäts­miss­brauch: Betrug bei spar-finanzen](https://www.test.de/Identitaetsmissbrauch-Betrug-bei-spar-finanzen-6167927-0/ "Identitätsmissbrauch - Betrug bei spar-finanzen")
+* [Daten­schutz im Test: Was Laut­sprecher-Apps ausplaudern](https://www.test.de/Datenschutz-im-Test-Was-Lautsprecher-Apps-ausplaudern-6126264-0/ "Datenschutz im Test - Was Lautsprecher-Apps ausplaudern")
+* [Camping-Gasflaschen: Anschluss verpasst](https://www.test.de/Camping-Gasflaschen-Anschluss-verpasst-6024548-0/ "Camping-Gasflaschen - Anschluss verpasst")
+* [Amazon Prime Video: Wie Sie 2,99 Euro je Monat zurück­fordern](https://www.test.de/Amazon-Prime-Videos-Werbung-6083427-0/ "Amazon Prime Video - Wie Sie 2,99 Euro je Monat zurückfordern")
+* [Verpackungs­ärger: Short­bread von The Irish Short­bread Company](https://www.test.de/Verpackungsaerger-Shortbread-von-The-Irish-Shortbread-Company-5992223-0/ "Verpackungsärger - Shortbread von The Irish Shortbread Company")
+* [Fitness-Apps im Test: Die richtige App fürs Training](https://www.test.de/Fitness-Apps-im-Test-6010207-0/ "Fitness-Apps im Test - Die richtige App fürs Training")
 
 Weitere Informationen
 
@@ -3871,12 +3871,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Recht auf Reparatur: EU verpflichtet Hersteller zu Reparatur defekter Geräte](https://www.test.de/Recht-auf-Reparatur-EU-verpflichtet-Hersteller-zu-Reparatur-defekter-Geraete-6116340-0/ "Recht auf Reparatur - EU verpflichtet Hersteller zu Reparatur defekter Geräte")
-* [Ganz­jahres­reifen im Test: Die besten Reifen für jedes Wetter](https://www.test.de/Die-besten-Ganzjahresreifen-5391687-0/ "Ganzjahresreifen im Test - Die besten Reifen für jedes Wetter")
-* [Geschlechts­eintrag ändern: Identität offiziell berichtigen lassen](https://www.test.de/Geschlechtseintrag-aendern-6143042-0/ "Geschlechtseintrag ändern - Identität offiziell berichtigen lassen")
-* [Schnell­test Sprach­verstärker Oskar: Sprache beim Fernsehen besser verstehen](https://www.test.de/Schnelltest-Sprachverstaerker-Oskar-Sprache-beim-Fernsehen-besser-verstehen-5992192-0/ "Schnelltest Sprachverstärker Oskar - Sprache beim Fernsehen besser verstehen")
-* [Dubiose Anleger­anwälte: Komplexe Vereinbarungen und unrealistische Szenarien](https://www.test.de/Dubiose-Anlegeranwaelte-Komplexe-Vereinbarungen-und-unrealistische-Szenarien-6133882-0/ "Dubiose Anlegeranwälte - Komplexe Vereinbarungen und unrealistische Szenarien")
-* [Zinsen: Erste Bank aus Tschechien mit im Vergleich](https://www.test.de/Zinsen-Erste-Bank-aus-Tschechien-5987319-0/ "Zinsen - Erste Bank aus Tschechien mit im Vergleich")
+* [Identitäts­miss­brauch: Betrug bei spar-finanzen](https://www.test.de/Identitaetsmissbrauch-Betrug-bei-spar-finanzen-6167927-0/ "Identitätsmissbrauch - Betrug bei spar-finanzen")
+* [Daten­schutz im Test: Was Laut­sprecher-Apps ausplaudern](https://www.test.de/Datenschutz-im-Test-Was-Lautsprecher-Apps-ausplaudern-6126264-0/ "Datenschutz im Test - Was Lautsprecher-Apps ausplaudern")
+* [Camping-Gasflaschen: Anschluss verpasst](https://www.test.de/Camping-Gasflaschen-Anschluss-verpasst-6024548-0/ "Camping-Gasflaschen - Anschluss verpasst")
+* [Amazon Prime Video: Wie Sie 2,99 Euro je Monat zurück­fordern](https://www.test.de/Amazon-Prime-Videos-Werbung-6083427-0/ "Amazon Prime Video - Wie Sie 2,99 Euro je Monat zurückfordern")
+* [Verpackungs­ärger: Short­bread von The Irish Short­bread Company](https://www.test.de/Verpackungsaerger-Shortbread-von-The-Irish-Shortbread-Company-5992223-0/ "Verpackungsärger - Shortbread von The Irish Shortbread Company")
+* [Fitness-Apps im Test: Die richtige App fürs Training](https://www.test.de/Fitness-Apps-im-Test-6010207-0/ "Fitness-Apps im Test - Die richtige App fürs Training")
 
 Weitere spannende Themen
 
@@ -3891,12 +3891,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Recht auf Reparatur: EU verpflichtet Hersteller zu Reparatur defekter Geräte](https://www.test.de/Recht-auf-Reparatur-EU-verpflichtet-Hersteller-zu-Reparatur-defekter-Geraete-6116340-0/ "Recht auf Reparatur - EU verpflichtet Hersteller zu Reparatur defekter Geräte")
-* [Ganz­jahres­reifen im Test: Die besten Reifen für jedes Wetter](https://www.test.de/Die-besten-Ganzjahresreifen-5391687-0/ "Ganzjahresreifen im Test - Die besten Reifen für jedes Wetter")
-* [Geschlechts­eintrag ändern: Identität offiziell berichtigen lassen](https://www.test.de/Geschlechtseintrag-aendern-6143042-0/ "Geschlechtseintrag ändern - Identität offiziell berichtigen lassen")
-* [Schnell­test Sprach­verstärker Oskar: Sprache beim Fernsehen besser verstehen](https://www.test.de/Schnelltest-Sprachverstaerker-Oskar-Sprache-beim-Fernsehen-besser-verstehen-5992192-0/ "Schnelltest Sprachverstärker Oskar - Sprache beim Fernsehen besser verstehen")
-* [Dubiose Anleger­anwälte: Komplexe Vereinbarungen und unrealistische Szenarien](https://www.test.de/Dubiose-Anlegeranwaelte-Komplexe-Vereinbarungen-und-unrealistische-Szenarien-6133882-0/ "Dubiose Anlegeranwälte - Komplexe Vereinbarungen und unrealistische Szenarien")
-* [Zinsen: Erste Bank aus Tschechien mit im Vergleich](https://www.test.de/Zinsen-Erste-Bank-aus-Tschechien-5987319-0/ "Zinsen - Erste Bank aus Tschechien mit im Vergleich")
+* [Identitäts­miss­brauch: Betrug bei spar-finanzen](https://www.test.de/Identitaetsmissbrauch-Betrug-bei-spar-finanzen-6167927-0/ "Identitätsmissbrauch - Betrug bei spar-finanzen")
+* [Daten­schutz im Test: Was Laut­sprecher-Apps ausplaudern](https://www.test.de/Datenschutz-im-Test-Was-Lautsprecher-Apps-ausplaudern-6126264-0/ "Datenschutz im Test - Was Lautsprecher-Apps ausplaudern")
+* [Camping-Gasflaschen: Anschluss verpasst](https://www.test.de/Camping-Gasflaschen-Anschluss-verpasst-6024548-0/ "Camping-Gasflaschen - Anschluss verpasst")
+* [Amazon Prime Video: Wie Sie 2,99 Euro je Monat zurück­fordern](https://www.test.de/Amazon-Prime-Videos-Werbung-6083427-0/ "Amazon Prime Video - Wie Sie 2,99 Euro je Monat zurückfordern")
+* [Verpackungs­ärger: Short­bread von The Irish Short­bread Company](https://www.test.de/Verpackungsaerger-Shortbread-von-The-Irish-Shortbread-Company-5992223-0/ "Verpackungsärger - Shortbread von The Irish Shortbread Company")
+* [Fitness-Apps im Test: Die richtige App fürs Training](https://www.test.de/Fitness-Apps-im-Test-6010207-0/ "Fitness-Apps im Test - Die richtige App fürs Training")
 
 Neueste Tests
 
@@ -3909,12 +3909,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Recht auf Reparatur: EU verpflichtet Hersteller zu Reparatur defekter Geräte](https://www.test.de/Recht-auf-Reparatur-EU-verpflichtet-Hersteller-zu-Reparatur-defekter-Geraete-6116340-0/ "Recht auf Reparatur - EU verpflichtet Hersteller zu Reparatur defekter Geräte")
-* [Ganz­jahres­reifen im Test: Die besten Reifen für jedes Wetter](https://www.test.de/Die-besten-Ganzjahresreifen-5391687-0/ "Ganzjahresreifen im Test - Die besten Reifen für jedes Wetter")
-* [Geschlechts­eintrag ändern: Identität offiziell berichtigen lassen](https://www.test.de/Geschlechtseintrag-aendern-6143042-0/ "Geschlechtseintrag ändern - Identität offiziell berichtigen lassen")
-* [Schnell­test Sprach­verstärker Oskar: Sprache beim Fernsehen besser verstehen](https://www.test.de/Schnelltest-Sprachverstaerker-Oskar-Sprache-beim-Fernsehen-besser-verstehen-5992192-0/ "Schnelltest Sprachverstärker Oskar - Sprache beim Fernsehen besser verstehen")
-* [Dubiose Anleger­anwälte: Komplexe Vereinbarungen und unrealistische Szenarien](https://www.test.de/Dubiose-Anlegeranwaelte-Komplexe-Vereinbarungen-und-unrealistische-Szenarien-6133882-0/ "Dubiose Anlegeranwälte - Komplexe Vereinbarungen und unrealistische Szenarien")
-* [Zinsen: Erste Bank aus Tschechien mit im Vergleich](https://www.test.de/Zinsen-Erste-Bank-aus-Tschechien-5987319-0/ "Zinsen - Erste Bank aus Tschechien mit im Vergleich")
+* [Identitäts­miss­brauch: Betrug bei spar-finanzen](https://www.test.de/Identitaetsmissbrauch-Betrug-bei-spar-finanzen-6167927-0/ "Identitätsmissbrauch - Betrug bei spar-finanzen")
+* [Daten­schutz im Test: Was Laut­sprecher-Apps ausplaudern](https://www.test.de/Datenschutz-im-Test-Was-Lautsprecher-Apps-ausplaudern-6126264-0/ "Datenschutz im Test - Was Lautsprecher-Apps ausplaudern")
+* [Camping-Gasflaschen: Anschluss verpasst](https://www.test.de/Camping-Gasflaschen-Anschluss-verpasst-6024548-0/ "Camping-Gasflaschen - Anschluss verpasst")
+* [Amazon Prime Video: Wie Sie 2,99 Euro je Monat zurück­fordern](https://www.test.de/Amazon-Prime-Videos-Werbung-6083427-0/ "Amazon Prime Video - Wie Sie 2,99 Euro je Monat zurückfordern")
+* [Verpackungs­ärger: Short­bread von The Irish Short­bread Company](https://www.test.de/Verpackungsaerger-Shortbread-von-The-Irish-Shortbread-Company-5992223-0/ "Verpackungsärger - Shortbread von The Irish Shortbread Company")
+* [Fitness-Apps im Test: Die richtige App fürs Training](https://www.test.de/Fitness-Apps-im-Test-6010207-0/ "Fitness-Apps im Test - Die richtige App fürs Training")
 
 Stiftung Warentest
 
