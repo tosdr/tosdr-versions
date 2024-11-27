@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.kagstv.com/assets/KVUE/images/0d1bfa40-c491-490c-aa6b-43cf39764498/0d1bfa40-c491-490c-aa6b-43cf39764498_16x9.jpg) ![](https://media.kagstv.com/assets/KVUE/images/0d1bfa40-c491-490c-aa6b-43cf39764498/0d1bfa40-c491-490c-aa6b-43cf39764498_360x203.jpg)](https://www.kagstv.com/article/news/local/china-us-prisoner-swap-mark-swidan-kai-li-and-john-leung/285-f4b4a127-4d3c-4d04-92ea-e793d9c197af)
+        
+        #### [Houston man among prisoners released as part of US deal with China, White House says](https://www.kagstv.com/article/news/local/china-us-prisoner-swap-mark-swidan-kai-li-and-john-leung/285-f4b4a127-4d3c-4d04-92ea-e793d9c197af)
+        
     *  [![](https://media.kagstv.com/assets/KAGS/images/66c1844b-29a1-41e2-bd53-5fc440d5ceea/66c1844b-29a1-41e2-bd53-5fc440d5ceea_16x9.jpg) ![](https://media.kagstv.com/assets/KAGS/images/66c1844b-29a1-41e2-bd53-5fc440d5ceea/66c1844b-29a1-41e2-bd53-5fc440d5ceea_360x203.jpg)](https://www.kagstv.com/article/news/crime/nov-2024-college-station-search-warrant-arrest/500-b6b945a2-00e3-4d73-a3db-6b9de1cb11cc)
         
         #### [One in custody, three detained after high-risk search warrant connected to College Station shooting investigation](https://www.kagstv.com/article/news/crime/nov-2024-college-station-search-warrant-arrest/500-b6b945a2-00e3-4d73-a3db-6b9de1cb11cc)
-        
-    *  [![](https://media.kagstv.com/assets/KAGS/images/38821079-9e13-4031-87ae-a84324ea1539/38821079-9e13-4031-87ae-a84324ea1539_16x9.jpg) ![](https://media.kagstv.com/assets/KAGS/images/38821079-9e13-4031-87ae-a84324ea1539/38821079-9e13-4031-87ae-a84324ea1539_360x203.jpg)](https://www.kagstv.com/article/news/crime/four-shots-fired-calls-bryan-college-station-believed-connected-police-say/500-3ac56ba5-65c4-485c-b28b-cf8d8259cb07)
-        
-        #### [Four shots fired calls across Bryan-College Station believed to be connected, police say](https://www.kagstv.com/article/news/crime/four-shots-fired-calls-bryan-college-station-believed-connected-police-say/500-3ac56ba5-65c4-485c-b28b-cf8d8259cb07)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-61°
+83°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
