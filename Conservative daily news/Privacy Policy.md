@@ -130,6 +130,30 @@ Orange = One-Time Donations
 
 Recent Posts
 
+* [![Hamas Israel Iran ICC](https://www.conservativedailynews.com/wp-content/uploads/2024/11/mrz112724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/exposed/)
+    
+    [Exposed](https://www.conservativedailynews.com/2024/11/exposed/)
+    
+    November 27, 2024
+    
+* [![Donald Trump witch hunt Fani Willis Jack Smith Letitia James ALvin Bragg](https://www.conservativedailynews.com/wp-content/uploads/2024/11/gv112724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/ding-dong-the-witches-are-dead/)
+    
+    [Ding-Dong the Witches are Dead](https://www.conservativedailynews.com/2024/11/ding-dong-the-witches-are-dead/)
+    
+    November 27, 2024
+    
+* [![Thanksgiving 2024 Donald Trump](https://www.conservativedailynews.com/wp-content/uploads/2024/11/stg112724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/something-to-be-thankful-for/)
+    
+    [Something to be Thankful For](https://www.conservativedailynews.com/2024/11/something-to-be-thankful-for/)
+    
+    November 27, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/12/groceries-220x150.png)](https://www.conservativedailynews.com/2024/11/whats-your-grocery-shopping-personality/)
+    
+    [What’s Your Grocery Shopping Personality?](https://www.conservativedailynews.com/2024/11/whats-your-grocery-shopping-personality/)
+    
+    November 27, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2021/03/Joe-Biden-sleeping-2-220x150.png)](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-wednesday-november-27-2024/)
     
     [President Joe Biden’s Schedule for Wednesday, November 27, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-wednesday-november-27-2024/)
@@ -152,33 +176,10 @@ Recent Posts
     
     November 27, 2024
     
-* [![donald-trump-thumbs-up](https://www.conservativedailynews.com/wp-content/uploads/2016/10/donald-trump-thumbs-up.jpg)](https://www.conservativedailynews.com/2024/11/trump-deserves-to-have-his-nominees-confirmed-quickly/)
-    
-    [Trump Deserves To Have His Nominees Confirmed Quickly](https://www.conservativedailynews.com/2024/11/trump-deserves-to-have-his-nominees-confirmed-quickly/)
-    
-    November 27, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2017/06/money-600-x-366.jpg)](https://www.conservativedailynews.com/2024/11/lame-duck-biden-admin-cuts-massive-check-for-failing-ev-manufacturer/)
-    
-    [Lame Duck Biden Admin Cuts Massive Check For Failing EV Manufacturer](https://www.conservativedailynews.com/2024/11/lame-duck-biden-admin-cuts-massive-check-for-failing-ev-manufacturer/)
-    
-    November 27, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/gavel-justice-220x150.jfif)](https://www.conservativedailynews.com/2024/11/cnns-elie-honig-lays-out-why-trumps-legal-cases-will-not-return-after-he-leave-office-in-4-years/)
-    
-    [CNN’s Elie Honig Lays Out Why Trump’s Legal Cases Will Not Return After He Leave Office In 4 Years](https://www.conservativedailynews.com/2024/11/cnns-elie-honig-lays-out-why-trumps-legal-cases-will-not-return-after-he-leave-office-in-4-years/)
-    
-    November 27, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2017/08/Walmart_Store_Sign-600-x-389.jpg)](https://www.conservativedailynews.com/2024/11/walmart-abandons-trans-products-for-kids-dei-policies/)
-    
-    [Walmart Abandons Trans Products For Kids, DEI Policies](https://www.conservativedailynews.com/2024/11/walmart-abandons-trans-products-for-kids-dei-policies/)
-    
-    November 26, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Legendary Pistol Marksman And Olympian Joe Benner](https://www.thegunpage.com/legendary-pistol-marksman-and-olympian-joe-benner/10612139)
 * [TFB Review: Geissele Super Duty MOD1](https://www.thegunpage.com/tfb-review-geissele-super-duty-mod1/10612136)
 * [POTD: FN America LICC IWS](https://www.thegunpage.com/potd-fn-america-licc-iws/10612137)
 * [The 5 Best Home Defense Shotguns](https://www.thegunpage.com/the-5-best-home-defense-shotguns/10612138)
@@ -188,7 +189,6 @@ Recent Posts
 * [New FightLite Raptor Belt-Fed AR Upper: \*Real\* High-Capacity Firepower](https://www.thegunpage.com/new-fightlite-raptor-belt-fed-ar-upper-real-high-capacity-firepower/10612129)
 * [California Grandfather Uses Gun To Save Self, Grandkids](https://www.thegunpage.com/california-grandfather-uses-gun-to-save-self-grandkids/10612124)
 * [$11 Million Verdict In P320 Lawsuit, SIG Sauer Plans To Appeal](https://www.thegunpage.com/11-million-verdict-in-p320-lawsuit-sig-sauer-plans-to-appeal/10612119)
-* [Skynet Ordered To Pay Jury Verdict To Portland Nightclub Goer Shot In The Leg](https://www.thegunpage.com/skynet-ordered-to-pay-jury-verdict-to-portland-nightclub-goer-shot-in-the-leg/10612117)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
