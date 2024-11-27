@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-26 Nov 2024
+27 Nov 2024
 
 * [Home
     
@@ -273,6 +273,13 @@ Most Popular
 [PROPERTY: Ideal Derry home for first time buyers hits the market](https://www.derrynow.com/news/property/1665235/property-ideal-derry-home-for-first-time-buyers-hits-the-market.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Fraud charges dismissed at Derry Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Fraud charges dismissed at Derry Court")](https://www.derrynow.com/news/local-news/1664978/fraud-charges-dismissed-at-derry-court.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Fraud charges dismissed at Derry Court](https://www.derrynow.com/news/local-news/1664978/fraud-charges-dismissed-at-derry-court.html)
+--------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1664293/derry-death-notices-tuesday-november-26-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
@@ -280,12 +287,28 @@ Most Popular
 [Derry Death Notices - Tuesday, November 26, 2024](https://www.derrynow.com/news/deaths/1664293/derry-death-notices-tuesday-november-26-2024.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Fraud charges dismissed at Derry Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Fraud charges dismissed at Derry Court")](https://www.derrynow.com/news/local-news/1664978/fraud-charges-dismissed-at-derry-court.html)
+[![Derry City fans at the Brandywell](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City fans at the Brandywell")](https://www.derrynow.com/news/derry-sport/1665177/derry-city-s-season-tickets-for-2025-are-the-most-expensive-in-the-league-of-ireland.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+Derry City fans at the Brandywell
 
-[Fraud charges dismissed at Derry Court](https://www.derrynow.com/news/local-news/1664978/fraud-charges-dismissed-at-derry-court.html)
---------------------------------------------------------------------------------------------------------------------------------------
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Derry City's season tickets for 2025 are the most expensive in the League of Ireland](https://www.derrynow.com/news/derry-sport/1665177/derry-city-s-season-tickets-for-2025-are-the-most-expensive-in-the-league-of-ireland.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Annual Slaughmanus GAA Dinner Dance](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Annual Slaughmanus GAA Dinner Dance")](https://www.derrynow.com/story-telling/pictures---videos/1664118/in-pictures-annual-slaughmanus-gaa-dinner-dance.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Annual Slaughmanus GAA Dinner Dance](https://www.derrynow.com/story-telling/pictures---videos/1664118/in-pictures-annual-slaughmanus-gaa-dinner-dance.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Campaign to change NI’s Commonwealth Games flag ‘ill-advised’, says minister](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Campaign to change NI’s Commonwealth Games flag ‘ill-advised’, says minister")](https://www.derrynow.com/news/northern-ireland/1665231/campaign-to-change-nis-commonwealth-games-flag-ill-advised-says-minister.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Campaign to change NI’s Commonwealth Games flag ‘ill-advised’, says minister](https://www.derrynow.com/news/northern-ireland/1665231/campaign-to-change-nis-commonwealth-games-flag-ill-advised-says-minister.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![17-year-old told 'his days of thumbing his nose at the court will soon be over'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "17-year-old told 'his days of thumbing his nose at the court will soon be over'")](https://www.derrynow.com/news/local-news/1664889/17-year-old-told-his-days-of-thumbing-his-nose-at-the-court-will-soon-be-over.html)
 
@@ -303,37 +326,14 @@ Derry Magistrate's Court
 [Scuffles with police in Derry street led to 'public order incident that got out of hand'](https://www.derrynow.com/news/local-news/1664972/scuffles-with-police-in-derry-street-led-to-public-order-incident-that-got-out-of-hand.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![IN PICTURES: Annual Slaughmanus GAA Dinner Dance](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Annual Slaughmanus GAA Dinner Dance")](https://www.derrynow.com/story-telling/pictures---videos/1664118/in-pictures-annual-slaughmanus-gaa-dinner-dance.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Annual Slaughmanus GAA Dinner Dance](https://www.derrynow.com/story-telling/pictures---videos/1664118/in-pictures-annual-slaughmanus-gaa-dinner-dance.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: Crowds Enjoy Magherafelt Christmas Lights Switch On!](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Crowds Enjoy Magherafelt Christmas Lights Switch On!")](https://www.derrynow.com/news/home/1664963/pictures-crowds-enjoy-magherafelt-christmas-lights-switch-on.html)
-
-[Home](https://www.derrynow.com/)
-
-[PICTURES: Crowds Enjoy Magherafelt Christmas Lights Switch On!](https://www.derrynow.com/news/home/1664963/pictures-crowds-enjoy-magherafelt-christmas-lights-switch-on.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Searches carried out in Derry linked to 'ongoing drugs criminality' by the INLA](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Searches carried out in Derry linked to 'ongoing drugs criminality' by the INLA")](https://www.derrynow.com/news/local-news/1665153/searches-carried-out-in-derry-linked-to-ongoing-drugs-criminality-by-the-inla.html)
+[![Two men arrested in Derry on suspicion of drug related offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two men arrested in Derry on suspicion of drug related offences")](https://www.derrynow.com/news/local-news/1665498/two-men-arrested-in-derry-on-suspicion-of-drug-related-offences.html)
 
 PSNI
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Searches carried out in Derry linked to 'ongoing drugs criminality' by the INLA](https://www.derrynow.com/news/local-news/1665153/searches-carried-out-in-derry-linked-to-ongoing-drugs-criminality-by-the-inla.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Bradagh Interior Directors: Kevin Gallagher and Kevin McMacken](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Bradagh Interior Directors: Kevin Gallagher and Kevin McMacken")](https://www.derrynow.com/news/county-derry-post/1664820/belfast-grand-central-station-showcases-county-derry-construction-expertise-to-the-world-helping-power-new-good-jobs.html)
-
-Bradagh Interior Directors: Kevin Gallagher and Kevin McMacken
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[Belfast Grand Central Station Showcases County Derry Construction Expertise to the World Helping Power New Good Jobs](https://www.derrynow.com/news/county-derry-post/1664820/belfast-grand-central-station-showcases-county-derry-construction-expertise-to-the-world-helping-power-new-good-jobs.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Two men arrested in Derry on suspicion of drug related offences](https://www.derrynow.com/news/local-news/1665498/two-men-arrested-in-derry-on-suspicion-of-drug-related-offences.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -511,7 +511,50 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[!['Our goal is for people to stop and think' with new breastfeeding mural in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'Our goal is for people to stop and think' with new breastfeeding mural in Derry")](https://www.derrynow.com/news/derry-news/1665006/our-goal-is-for-people-to-stop-and-think-with-new-breastfeeding-mural-in-derry.html)
+[![Murphy approves access to student loans for Derry graduate entry medical students](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Murphy approves access to student loans for Derry graduate entry medical students")](https://www.derrynow.com/news/local-news/1665164/murphy-approves-access-to-student-loans-for-derry-graduate-entry-medical-students.html)
+
+Economy Minister Conor Murphy is pictured with Patrica Harris, Associate Head of School of Medicine at Ulster University’s Derry campus, and first year medical students Clodagh McErlean and Dylan Kerr
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Murphy approves access to student loans for Derry graduate entry medical students](https://www.derrynow.com/news/local-news/1665164/murphy-approves-access-to-student-loans-for-derry-graduate-entry-medical-students.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![MacRory Cup](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "MacRory Cup")](https://www.derrynow.com/news/derry-sport/1665602/strong-second-half-earns-st-mary-s-magherafelt-a-macrory-cup-victory-over-cathair-dhoire.html)
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Strong second half earns St. Mary's, Magherafelt a MacRory Cup victory over Cathair Dhoire](https://www.derrynow.com/news/derry-sport/1665602/strong-second-half-earns-st-mary-s-magherafelt-a-macrory-cup-victory-over-cathair-dhoire.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Two men arrested in Derry on suspicion of drug related offences](https://www.derrynow.com/resizer/165/93/true/2024_02_26/75d09668-969e-11ed-a6c5-0210609a3fe2-1685351040715.jpg---1708952493894.jpg--.jpg?1708952493928 "Two men arrested in Derry on suspicion of drug related offences")](https://www.derrynow.com/news/local-news/1665498/two-men-arrested-in-derry-on-suspicion-of-drug-related-offences.html)
+
+PSNI
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Two men arrested in Derry on suspicion of drug related offences](https://www.derrynow.com/news/local-news/1665498/two-men-arrested-in-derry-on-suspicion-of-drug-related-offences.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![County Derry teenagers shine bright on the catwalk](https://www.derrynow.com/resizer/165/93/true/2024_11_26/CDP_-_26-11-24_-_Page_6_lead_pic_%283%29-1732635580013_1732635890.jpg--.jpg?1732635890154 "County Derry teenagers shine bright on the catwalk")](https://www.derrynow.com/news/home/1665244/county-derry-teenagers-shine-bright-on-the-catwalk.html)
+
+Cara (left) and Hannah Rose (right) were crowned winners at the recent modelling competition.
+
+[Home](https://www.derrynow.com/)
+
+[County Derry teenagers shine bright on the catwalk](https://www.derrynow.com/news/home/1665244/county-derry-teenagers-shine-bright-on-the-catwalk.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Bellaghy singer-songwriter 'excited' to perform at iconic Nashville venue](https://www.derrynow.com/resizer/165/93/true/2024_11_26/CDP_-_26-11-24_-_Page_4_lead_pic-1732634769450_1732634849.jpg--.jpg?1732634849263 "Bellaghy singer-songwriter 'excited' to perform at iconic Nashville venue")](https://www.derrynow.com/news/home/1665210/bellaghy-singer-songwriter-excited-to-perform-at-iconic-nashville-venue.html)
+
+Lauren Craig is hoping her music will receive greater exposure in the US.
+
+[Home](https://www.derrynow.com/)
+
+[Bellaghy singer-songwriter 'excited' to perform at iconic Nashville venue](https://www.derrynow.com/news/home/1665210/bellaghy-singer-songwriter-excited-to-perform-at-iconic-nashville-venue.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[!['Our goal is for people to stop and think' with new breastfeeding mural in Derry](https://www.derrynow.com/resizer/165/93/true/2024_11_26/NW_BAPS-1732624920233.PNG--.PNG?1732624920336 "'Our goal is for people to stop and think' with new breastfeeding mural in Derry")](https://www.derrynow.com/news/derry-news/1665006/our-goal-is-for-people-to-stop-and-think-with-new-breastfeeding-mural-in-derry.html)
 
 Breastfeeding Mural on Great James Street
 
@@ -519,45 +562,6 @@ Breastfeeding Mural on Great James Street
 
 ['Our goal is for people to stop and think' with new breastfeeding mural in Derry](https://www.derrynow.com/news/derry-news/1665006/our-goal-is-for-people-to-stop-and-think-with-new-breastfeeding-mural-in-derry.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PROPERTY: Ideal Derry home for first time buyers hits the market](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PROPERTY: Ideal Derry home for first time buyers hits the market")](https://www.derrynow.com/news/property/1665235/property-ideal-derry-home-for-first-time-buyers-hits-the-market.html)
-
-[Property](https://www.derrynow.com/section/1232/property)
-
-[PROPERTY: Ideal Derry home for first time buyers hits the market](https://www.derrynow.com/news/property/1665235/property-ideal-derry-home-for-first-time-buyers-hits-the-market.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry City fans at the Brandywell](https://www.derrynow.com/resizer/165/93/true/2023_05_16/Fans_at_Derry_City_v_Dundalk_game_7-1684234604924.jpg--.jpg?1684234605572 "Derry City fans at the Brandywell")](https://www.derrynow.com/news/derry-sport/1665177/derry-city-s-season-tickets-for-2025-are-the-most-expensive-in-the-league-of-ireland.html)
-
-Derry City fans at the Brandywell
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Derry City's season tickets for 2025 are the most expensive in the League of Ireland](https://www.derrynow.com/news/derry-sport/1665177/derry-city-s-season-tickets-for-2025-are-the-most-expensive-in-the-league-of-ireland.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry communities feel a mixed Christmas spirit over 'half dead' tree and a modern twist](https://www.derrynow.com/resizer/165/93/true/2024_11_26/christmas-4704707_1280-1732622172253.jpg--.jpg?1732622172331 "Derry communities feel a mixed Christmas spirit over 'half dead' tree and a modern twist")](https://www.derrynow.com/news/home/1664949/county-derry-communities-feel-a-mixed-christmas-spirit-over-half-dead-tree-and-a-modern-twist.html)
-
-[Home](https://www.derrynow.com/)
-
-[Derry communities feel a mixed Christmas spirit over 'half dead' tree and a modern twist](https://www.derrynow.com/news/home/1664949/county-derry-communities-feel-a-mixed-christmas-spirit-over-half-dead-tree-and-a-modern-twist.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry services not impacted as Relate NI and Family Mediation NI merge](https://www.derrynow.com/resizer/165/93/true/2024_11_26/Relate_NI_and_Family_Mediation_NI_have_merged-1732630217346.jpg--.jpg?1732630224651 "Derry services not impacted as Relate NI and Family Mediation NI merge")](https://www.derrynow.com/news/local-news/1665110/derry-services-not-impacted-as-relate-ni-and-family-mediation-ni-merge.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry services not impacted as Relate NI and Family Mediation NI merge](https://www.derrynow.com/news/local-news/1665110/derry-services-not-impacted-as-relate-ni-and-family-mediation-ni-merge.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Searches carried out in Derry linked to 'ongoing drugs criminality' by the INLA](https://www.derrynow.com/resizer/165/93/true/2024_02_26/75d09668-969e-11ed-a6c5-0210609a3fe2-1685351040715.jpg---1708952493894.jpg--.jpg?1708952493928 "Searches carried out in Derry linked to 'ongoing drugs criminality' by the INLA")](https://www.derrynow.com/news/local-news/1665153/searches-carried-out-in-derry-linked-to-ongoing-drugs-criminality-by-the-inla.html)
-
-PSNI
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Searches carried out in Derry linked to 'ongoing drugs criminality' by the INLA](https://www.derrynow.com/news/local-news/1665153/searches-carried-out-in-derry-linked-to-ongoing-drugs-criminality-by-the-inla.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
