@@ -55,6 +55,7 @@ Toggle navigation
     * [Reports](https://www.lexology.com/index/reports)
     * [Research methodology](https://www.lexology.com/index/methodology)
     * [Submissions](https://www.lexology.com/index/submissions)
+    * [Client Choice 2025](https://www.lexology.com/index/report/client-choice)
     
 * [Lexology Index](https://www.lexology.com/index)
 * Learn
@@ -140,6 +141,7 @@ Lexology Index
 * [Research methodology](https://www.lexology.com/index/methodology)
 * [Submissions](https://www.lexology.com/index/submissions)
 * [Instruct Counsel](https://www.lexology.com/instructcounsel/find)
+* [Client Choice 2025](https://www.lexology.com/index/report/client-choice)
 
 More
 
