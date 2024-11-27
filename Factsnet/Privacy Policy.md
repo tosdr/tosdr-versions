@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![27 Facts About Ekstraklasa ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/lifestyle/sports/27-facts-about-ekstraklasa/)
-
-Sports
-
-26 Nov 2024
-
-[27 Facts About Ekstraklasa](https://facts.net/lifestyle/sports/27-facts-about-ekstraklasa/)
-
-[![35 Facts About Sobibor ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%221%22 height=%221%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/historical-events/35-facts-about-sobibor/)
+[![35 Facts About Gandhi Death ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%221%22 height=%221%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/historical-events/35-facts-about-gandhi-death/)
 
 Historical Events
 
-26 Nov 2024
+27 Nov 2024
 
-[35 Facts About Sobibor](https://facts.net/history/historical-events/35-facts-about-sobibor/)
+[35 Facts About Gandhi Death](https://facts.net/history/historical-events/35-facts-about-gandhi-death/)
+
+[![34 Facts About Shah Jahan ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%221%22 height=%221%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/people/34-facts-about-shah-jahan/)
+
+People
+
+27 Nov 2024
+
+[34 Facts About Shah Jahan](https://facts.net/history/people/34-facts-about-shah-jahan/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
