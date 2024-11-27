@@ -684,6 +684,10 @@ Red.es: Edificio Bronce
 Plaza Manuel Gómez Moreno, s/n  
 28020 Madrid, email: [_protecciondedatos@red.es_](mailto:protecciondedatos@red.es)
 
+**\-  Encargado:**
+
+Se han detectado encargados de tratamiento en las tareas de gestión de proveedores
+
 **\- Delegado de Protección de Datos:**
 
 Email: [_protecciondedatos@red.es_](mailto:protecciondedatos@red.es)
