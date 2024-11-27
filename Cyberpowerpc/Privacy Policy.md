@@ -1,3 +1,5 @@
+Christmas Guarantee Delivery On All Orders | Order by 12/6/2024 [More Details](https://www.cyberpowerpc.com/page/christmas-holiday/) [Shop Now](https://www.cyberpowerpc.com/page/Mega-Special/)
+
 [![cyberpowerpc.com - Gaming Computers](/template/common/images/brand/brand_new2016.png)](https://www.cyberpowerpc.com/ "cyberpowerpc.com - Gaming Computers")
 
 * [Gaming PCs](https://www.cyberpowerpc.com/category/gaming-pcs/)
