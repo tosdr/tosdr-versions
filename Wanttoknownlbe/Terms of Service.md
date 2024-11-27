@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/in-elke-situatie-het-hogere-perspectief-waarnemen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/elektro-magnetische-straling-ems/kinderen-lijden-in-de-buurt-van-5g-masten/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
