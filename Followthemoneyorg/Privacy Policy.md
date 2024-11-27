@@ -66,7 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Total Fundraising by Candidates for State Offices, 2000–2016](/assets/Images/teasers/small/state-candidates.JPG)](https://www.followthemoney.org/research/institute-reports/2016-candidate-elections-overview)
+[![pro-guncontrol](/assets/logos/NRAGunGIvingProCon201112.png)](http://www.followthemoney.org/research/institute-research/nra-direct-contributions-decline)
+
+Pro-gun-control was dramatically outspent, 2011-12.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
