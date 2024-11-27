@@ -6,7 +6,7 @@
 
 [Skip to content](#content)
 
-Tuesday, November 26, 2024
+Wednesday, November 27, 2024
 
  [![](https://www.accuweather.com/images/weathericons/38.svg) 43°F](https://www.kitsapdailynews.com/weather/ "Current weather and forecast")
 
