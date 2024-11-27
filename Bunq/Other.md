@@ -645,7 +645,7 @@ English (EU)
 
 ![](https://framerusercontent.com/images/sWRF4ObO08rPbIgYFc52ViJ2To.svg)
 
-Select LanguageEnglish (EU)NederlandsDeutschFrançaisEspañolItalianoEnglish (Netherlands)English (Germany)English (France)English (Spain)English (Ireland)
+Select LanguageEnglish (EU)NederlandsDeutschFrançaisEspañolItalianoEnglish (Ireland)English (Netherlands)English (Germany)English (France)English (Spain)
 
 English (EU)
 
@@ -661,7 +661,7 @@ Discover
 
 [Compare Plans](https://www.bunq.com/assets/media/legal/en/plans)
 
-[Pricing](https://www.bunq.com/assets/media/legal/en/pricing)
+[Pricing](https://www.bunq.com/assets/media/legal/en/)
 
 [Mortgages](https://mortgages.bunq.com/)
 
@@ -723,7 +723,7 @@ English (EU)
 
 ![](https://framerusercontent.com/images/sWRF4ObO08rPbIgYFc52ViJ2To.svg)
 
-Select LanguageEnglish (EU)NederlandsDeutschFrançaisEspañolItalianoEnglish (Netherlands)English (Germany)English (France)English (Spain)English (Ireland)
+Select LanguageEnglish (EU)NederlandsDeutschFrançaisEspañolItalianoEnglish (Ireland)English (Netherlands)English (Germany)English (France)English (Spain)
 
 English (EU)
 
@@ -739,7 +739,7 @@ Discover
 
 [Compare Plans](https://www.bunq.com/assets/media/legal/en/plans)
 
-[Pricing](https://www.bunq.com/assets/media/legal/en/pricing)
+[Pricing](https://www.bunq.com/assets/media/legal/en/)
 
 [Mortgages](https://mortgages.bunq.com/)
 
@@ -801,7 +801,7 @@ English (EU)
 
 ![](https://framerusercontent.com/images/sWRF4ObO08rPbIgYFc52ViJ2To.svg)
 
-Select LanguageEnglish (EU)NederlandsDeutschFrançaisEspañolItalianoEnglish (Netherlands)English (Germany)English (France)English (Spain)English (Ireland)
+Select LanguageEnglish (EU)NederlandsDeutschFrançaisEspañolItalianoEnglish (Ireland)English (Netherlands)English (Germany)English (France)English (Spain)
 
 English (EU)
 
@@ -817,7 +817,7 @@ Discover
 
 [Compare Plans](https://www.bunq.com/assets/media/legal/en/plans)
 
-[Pricing](https://www.bunq.com/assets/media/legal/en/pricing)
+[Pricing](https://www.bunq.com/assets/media/legal/en/)
 
 [Mortgages](https://mortgages.bunq.com/)
 
