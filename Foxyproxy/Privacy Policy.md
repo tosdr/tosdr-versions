@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I did a new 6-month subscription with FoxyProxy this week, Still luv FoxyProxy!
+We've been very happy with your services!
 
-Tim Relf
+Catalin Stoica
