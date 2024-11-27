@@ -403,7 +403,7 @@ Footer Navigation
 
 [open](javascript:void(0);)
 
-* [Chat with Us](javascript:void(0);)
+* [Chat with Us](https://www.samsung.com/us/support/?chat=auto)
 * [Product Help](https://www.samsung.com/us/support/)
 * [Order Help](https://www.samsung.com/us/support/order-help/)
 * [Your Account](https://www.samsung.com/us/support/account/)
