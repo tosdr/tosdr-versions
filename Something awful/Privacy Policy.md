@@ -205,28 +205,27 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Beast Forum](https://www.somethingawful.com/weekend-web/beastforum/1/)
-* [Krappy Komics Korner: A Deadly Choice!](https://www.somethingawful.com/news/a-deadly-choice/1/)
-* [I Hate You Page 01](https://www.somethingawful.com/cliff-yablonski/i-hate-you-01/)
-* [Rapture Ready](https://www.somethingawful.com/weekend-web/rapture-ready/1/)
+* [Sponsored Links Sponsored By Recommended Sponsors](https://www.somethingawful.com/news/sponsored-recommended-links/)
+* [Pooping and Peeing in Public Places and Somalinet](https://www.somethingawful.com/weekend-web/pooping-peeing-public/1/)
+* [I Hate You Page 131](https://www.somethingawful.com/cliff-yablonski/i-hate-you-131/)
 * [Terror Toons](https://www.somethingawful.com/movie-reviews/terror-toons/1/)
+* [Minion Memes for Your Social Media Feeds](https://www.somethingawful.com/news/minion-memes/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/ddrd-scsa.gif) [ALS](http://forums.somethingawful.com/showthread.php?threadid=4076329 "ALS")
-* ![](https://fi.somethingawful.com/forums/posticons/games-regret.gif) [Mariah Carey is so good she makes Jay Z's bars in Heartbreaker bearable to](http://forums.somethingawful.com/showthread.php?threadid=4076319 "Mariah Carey is so good she makes Jay Z's bars in Heartbreaker bearable to")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/music.png) [itt we are boomer rappers who rap about boomer things](http://forums.somethingawful.com/showthread.php?threadid=4076282 "itt we are boomer rappers who rap about boomer things")
 * ![](https://fi.somethingawful.com/forums/posticons/cspamkiddo.gif) [what was your most cringe blorbo](http://forums.somethingawful.com/showthread.php?threadid=4076307 "what was your most cringe blorbo")
-* ![](https://fi.somethingawful.com/forums/posticons/cspam-yeshahahayes.gif) [Post your weird ass dreams ITT](http://forums.somethingawful.com/showthread.php?threadid=4076341 "Post your weird ass dreams ITT")
+* ![](https://fi.somethingawful.com/forums/posticons/ddrd-scsa.gif) [ALS](http://forums.somethingawful.com/showthread.php?threadid=4076329 "ALS")
 * ![](https://fi.somethingawful.com/images/shitpost.gif) [ITT we write patch notes for things](http://forums.somethingawful.com/showthread.php?threadid=4076344 "ITT we write patch notes for things")
+* ![](https://fi.somethingawful.com/forums/posticons/cspam-yeshahahayes.gif) [Post your weird ass dreams ITT](http://forums.somethingawful.com/showthread.php?threadid=4076341 "Post your weird ass dreams ITT")
+* ![](https://fi.somethingawful.com/forums/posticons/games-regret.gif) [Mariah Carey is so good she makes Jay Z's bars in Heartbreaker bearable to](http://forums.somethingawful.com/showthread.php?threadid=4076319 "Mariah Carey is so good she makes Jay Z's bars in Heartbreaker bearable to")
 
 ### Random Articles
 
-* [Denny's Tumblr](https://www.somethingawful.com/awful-links/dennys-tumblr-blog/)
-* [Safe Seth Is Nice](https://www.somethingawful.com/flash-tub/seth-nice-cartoon/)
-* [ETfriends.com](https://www.somethingawful.com/awful-links/awful-link-2209/)
-* [Winning Hearts and Minesweeper in Southeast Asia](https://www.somethingawful.com/daily-dirt/winning-hearts-minesweeper/)
-* [A CAT IN A SINK](https://www.somethingawful.com/daily-dirt/cat-sink/)
+* [The Awful Guide to Podcasting, Part 2](https://www.somethingawful.com/news/guide-podcasting-two/)
+* [I Hate You Page 191](https://www.somethingawful.com/cliff-yablonski/i-hate-you-191/)
+* [A Slightly Better List of Funny Twitter People](https://www.somethingawful.com/news/twitter-best-of/1/)
+* [Fighting Like ATHENA](https://www.somethingawful.com/horrors-of-porn/fighting-like-athena/)
+* [A Complete List of What Happened](https://www.somethingawful.com/news/what-happened-bernie/)
 
 [Random!](https://www.somethingawful.com/random/)
 
