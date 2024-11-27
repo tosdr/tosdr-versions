@@ -131,7 +131,7 @@
 * [Adult](https://www.sensorytoywarehouse.com/product-category/adult-sensory-toys/)
 * [Clearance](https://www.sensorytoywarehouse.com/product-category/clearance/)
 
-🎄 **Christmas Sale!** Enjoy 20% off all products with code **'XMAS24'**. 🎁 Shop Now!
+🎄 **BLACKFRIDAY SALE!** Enjoy 20% off all products with code **'XMAS24'**. 🎁 Shop Now!
 
 [![](https://www.sensorytoywarehouse.com/wp-content/uploads/2020/11/delivery.gif)
 
