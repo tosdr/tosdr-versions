@@ -196,57 +196,61 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Saving time, saving money
-> -------------------------
+> Wish I started ages ago!
+> ------------------------
 > 
-> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
+> I just want to compliment you and your team for an amazing back office software.
+> 
+> I have been struggling with a proper invoicing solution for six months now (to make time each month)
+> 
+> I just wish I started using Invoices Online ages ago.
 
-Cornel Erasmus - TELA Loss Adjusters & Assessors
+Terri Winfield
 
-![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=4eb4edecc103594d892776dc8ce1356a0b3a1bd977fb03e3ff1fc2d5cd6fe176&c=197738823)  
-Repairs In Motion
+![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=f42f2ec0e0171be59ac1bc8e641f79979ae7783890fdc0e6298edcee5d052119&c=116531473)  
+Wiselink Broadband Pty Ltd
 
-![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=4eb4edecc103594d892776dc8ce1356a0b3a1bd977fb03e3ff1fc2d5cd6fe176&c=71631880)  
-Digifax (Pty) Ltd T/A SecurityHyper
+![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=f42f2ec0e0171be59ac1bc8e641f79979ae7783890fdc0e6298edcee5d052119&c=182595300)  
+Know Informatics
 
-![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=4eb4edecc103594d892776dc8ce1356a0b3a1bd977fb03e3ff1fc2d5cd6fe176&c=142007120)  
-Xpress Designs
+![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=f42f2ec0e0171be59ac1bc8e641f79979ae7783890fdc0e6298edcee5d052119&c=127525911)  
+OrgChart Hosting Pty Ltd
 
-![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=4eb4edecc103594d892776dc8ce1356a0b3a1bd977fb03e3ff1fc2d5cd6fe176&c=174352502)  
-Druce Digital
+![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=f42f2ec0e0171be59ac1bc8e641f79979ae7783890fdc0e6298edcee5d052119&c=86703104)  
+All Trucking Solutions
 
-![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=4eb4edecc103594d892776dc8ce1356a0b3a1bd977fb03e3ff1fc2d5cd6fe176&c=42264854)  
-Lemba Truck Stop
+![valued client NC Labour Hire](https://www.invoicesonline.co.za/scripts/image.php?bid=8545&file=logo_300_100&type=&fe=f42f2ec0e0171be59ac1bc8e641f79979ae7783890fdc0e6298edcee5d052119&c=98146837)  
+NC Labour Hire
 
-![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=4eb4edecc103594d892776dc8ce1356a0b3a1bd977fb03e3ff1fc2d5cd6fe176&c=36342492)  
-Electro-Heat
+![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=f42f2ec0e0171be59ac1bc8e641f79979ae7783890fdc0e6298edcee5d052119&c=188222846)  
+Highlands Auto Engineering
 
-![valued client Cooper Power](https://www.invoicesonline.co.za/scripts/image.php?bid=8689&file=logo_300_100&type=&fe=4eb4edecc103594d892776dc8ce1356a0b3a1bd977fb03e3ff1fc2d5cd6fe176&c=114270684)  
-Cooper Power
-
-![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=4eb4edecc103594d892776dc8ce1356a0b3a1bd977fb03e3ff1fc2d5cd6fe176&c=181646084)  
-SMART GUY PCS (PTY) LTD
-
-![valued client Kara Medical (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=3913&file=logo_300_100&type=&fe=4eb4edecc103594d892776dc8ce1356a0b3a1bd977fb03e3ff1fc2d5cd6fe176&c=39082690)  
-Kara Medical (Pty) Ltd
-
-![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=4eb4edecc103594d892776dc8ce1356a0b3a1bd977fb03e3ff1fc2d5cd6fe176&c=30259292)  
-Oukraal Merino's
-
-![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=4eb4edecc103594d892776dc8ce1356a0b3a1bd977fb03e3ff1fc2d5cd6fe176&c=188696869)  
-Little Nutty Professors
-
-![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=4eb4edecc103594d892776dc8ce1356a0b3a1bd977fb03e3ff1fc2d5cd6fe176&c=115393441)  
-M's Frozen Delights
-
-![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=4eb4edecc103594d892776dc8ce1356a0b3a1bd977fb03e3ff1fc2d5cd6fe176&c=200319434)  
-Westside Car Audio CC
-
-![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=4eb4edecc103594d892776dc8ce1356a0b3a1bd977fb03e3ff1fc2d5cd6fe176&c=105453581)  
+![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=f42f2ec0e0171be59ac1bc8e641f79979ae7783890fdc0e6298edcee5d052119&c=186425406)  
 NEW BEGINNINGS DESIGNS
 
-![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=4eb4edecc103594d892776dc8ce1356a0b3a1bd977fb03e3ff1fc2d5cd6fe176&c=15376058)  
-kidoscabbie
+![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=f42f2ec0e0171be59ac1bc8e641f79979ae7783890fdc0e6298edcee5d052119&c=123941155)  
+Sarabi
+
+![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=f42f2ec0e0171be59ac1bc8e641f79979ae7783890fdc0e6298edcee5d052119&c=36947849)  
+NJR ICT Services (Pty) Ltd
+
+![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=f42f2ec0e0171be59ac1bc8e641f79979ae7783890fdc0e6298edcee5d052119&c=73380432)  
+SR Travel Services
+
+![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=f42f2ec0e0171be59ac1bc8e641f79979ae7783890fdc0e6298edcee5d052119&c=101794044)  
+Testpro Laboratory (Pty) Ltd
+
+![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=f42f2ec0e0171be59ac1bc8e641f79979ae7783890fdc0e6298edcee5d052119&c=183736446)  
+Abandoned Vehicle and Truck Solutions
+
+![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=f42f2ec0e0171be59ac1bc8e641f79979ae7783890fdc0e6298edcee5d052119&c=36784405)  
+MONSTER CONNECT (PTY) LTD
+
+![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=f42f2ec0e0171be59ac1bc8e641f79979ae7783890fdc0e6298edcee5d052119&c=133805667)  
+BEE SURE CONSULTING (PTY) LTD
+
+![valued client FLIPS AUTO ELECTRICAL ](https://www.invoicesonline.co.za/scripts/image.php?bid=8725&file=logo_300_100&type=&fe=f42f2ec0e0171be59ac1bc8e641f79979ae7783890fdc0e6298edcee5d052119&c=181640541)  
+FLIPS AUTO ELECTRICAL
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
