@@ -28,7 +28,7 @@ Sign in with Google](https://xhamster.com/login-google?source=base)
 
 [Videos](https://xhamster.com/)
 
-[Live Sex](https://xhamsterlive.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=mainMenu-LiveSex&widgetElement=tab&isUserLogged=0&isUserRetargeted=0&p1=cold&exp=%7B%223002%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A6%7D%2C%223003%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A3%7D%2C%223004%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A3%7D%7D&xhStatsUid=6746f6c6431227.8226224699f&xhSessionToken=cf1d47a90a228e5f4aa95c248b684aed1c2e08f5&xhSessionStartedAt=1732703942)
+[Live Sex](https://xhamsterlive.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=mainMenu-LiveSex&widgetElement=tab&isUserLogged=0&isUserRetargeted=0&p1=cold&exp=%7B%223002%22%3A%7B%22g%22%3A%22f%22%2C%22v%22%3A6%7D%2C%223003%22%3A%7B%22g%22%3A%22b%22%2C%22v%22%3A3%7D%2C%223004%22%3A%7B%22g%22%3A%22b%22%2C%22v%22%3A3%7D%7D&xhStatsUid=67474dc387dc40.54081578077&xhSessionToken=30382bb969c4824585dcd40f83fe1cac74015ddf&xhSessionStartedAt=1732726211)
 
 [Categories](https://xhamster.com/categories)
 
@@ -46,7 +46,7 @@ Sex Chat](https://xhamster.com/ff/out?utm_source=xhamster&utm_medium=menu&utm_ca
 
 [![Faphouse](//static-nss.xhcdn.com/xh-images/components/header/components/header-nav/faphouse-crown.component.svg)
 
-Premium Videos](https://faphouse.com/?utm_source=xhamster&utm_medium=button&utm_campaign=guest&utm_content=landingpage&exp=%7B%223002%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A6%7D%2C%223003%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A3%7D%2C%223004%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A3%7D%7D)
+Premium Videos](https://faphouse.com/?utm_source=xhamster&utm_medium=button&utm_campaign=guest&utm_content=landingpage&exp=%7B%223002%22%3A%7B%22g%22%3A%22f%22%2C%22v%22%3A6%7D%2C%223003%22%3A%7B%22g%22%3A%22b%22%2C%22v%22%3A3%7D%2C%223004%22%3A%7B%22g%22%3A%22b%22%2C%22v%22%3A3%7D%7D)
 
 [Dating](https://xhamster.com/dating)
 
@@ -54,7 +54,7 @@ Premium Videos](https://faphouse.com/?utm_source=xhamster&utm_medium=button&utm_
 
 * [Upload](https://xhamster.com/creator-signup?source=uploadHeader)
 
-[THANKSGIVING MEGA SALE 🔥🎉 Grab the hottest deals! JOIN FAPHOUSE 50% OFF](https://faphouse.com/?utm_source=xhamster-headline&utm_campaign=thanksgiving-2024&utm_medium=desktop-headline)
+[Looking for REAL GIRLS? ❤️‍🔥 1-on-1 sex chat on Flirtify video roulette JOIN FOR FREE](https://xhamsterflirt.com/?utm_source=xhamster&utm_medium=all-pages)
 
 Privacy Policy
 ==============
@@ -379,7 +379,7 @@ Last Modified: January 04, 2024
 
 ### Start making money with us
 
-* [Camgirls Wanted](https://join.flirtify.com/?utm_source=xhamster-desktop&utm_medium=footer)
+* [Camgirls Wanted](https://join.flirtify.com/?utm_source=xhamster-mobile&utm_medium=footer)
 * [Creator Contest](https://xhamster.com/creators/contest)
 * [Сontent Creators Program](https://xhamster.com/creator?source=footerCcp)
 
