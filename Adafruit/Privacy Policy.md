@@ -406,9 +406,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ You just keep pushing. You just keep pushing. I made every mistake that could be made. But I just kept pushing”
+“ I would rather walk with a friend in the dark than alone in the light”
 
-[René Descartes](http://en.wikipedia.org/wiki/Ren%C3%A9_Descartes)
+[Helen Keller](https://en.wikipedia.org/wiki/Helen_Keller)
 
 [](https://www.adafruit.com/about)
 
