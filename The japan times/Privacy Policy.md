@@ -476,13 +476,13 @@ Revised June 1, 2022
 
   [![Fujikura's headquarters in Tokyo's Koto Ward. The company's share price has surged by more than 400% this year. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/25/436122.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Fujikura's headquarters in Tokyo's Koto Ward. The company's share price has surged by more than 400% this year. ")](https://www.japantimes.co.jp/business/2024/11/25/companies/ai-fujikura-stocks/ "AI boom makes 139-year-old cable maker Japan’s hottest stock")
 
+[Suspected arson in Sapporo leaves four injured](https://www.japantimes.co.jp/news/2024/11/27/japan/japan-sapporo-explosion/ "Suspected arson in Sapporo leaves four injured")
+
+  [![Firetrucks outside a building in Sapporo where an explosion left four people injured on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/26/436400.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Firetrucks outside a building in Sapporo where an explosion left four people injured on Tuesday.")](https://www.japantimes.co.jp/news/2024/11/27/japan/japan-sapporo-explosion/ "Suspected arson in Sapporo leaves four injured")
+
 [Japan’s sauna movement: Relax, refresh, repeat](https://www.japantimes.co.jp/life/2024/11/25/lifestyle/sauna-culture-japan/ "Japan’s sauna movement: Relax, refresh, repeat")
 
   [![Totopa in Tokyo’s Shinjuku Ward was picked by consultants TTNE as the best sauna of the year. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/25/435137.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Totopa in Tokyo’s Shinjuku Ward was picked by consultants TTNE as the best sauna of the year. ")](https://www.japantimes.co.jp/life/2024/11/25/lifestyle/sauna-culture-japan/ "Japan’s sauna movement: Relax, refresh, repeat")
-
-[Funeral held for Princess Yuriko at Tokyo cemetery](https://www.japantimes.co.jp/news/2024/11/26/japan/society/princess-yuriko-funeral/ "Funeral held for Princess Yuriko at Tokyo cemetery")
-
-  [![Crown Prince Akishino and Crown Princess Kiko, followed by Princess Aiko and Princess Kako, prepare to attend a funeral service for Princess Yuriko at Toshimagaoka Cemetery in Tokyo on Tuesday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/26/436352.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Crown Prince Akishino and Crown Princess Kiko, followed by Princess Aiko and Princess Kako, prepare to attend a funeral service for Princess Yuriko at Toshimagaoka Cemetery in Tokyo on Tuesday. ")](https://www.japantimes.co.jp/news/2024/11/26/japan/society/princess-yuriko-funeral/ "Funeral held for Princess Yuriko at Tokyo cemetery")
 
 [Bluesky is booming in Japan — mainly for reasons other than U.S. politics](https://www.japantimes.co.jp/business/2024/11/25/companies/bluesky-social-japan/ "Bluesky is booming in Japan — mainly for reasons other than U.S. politics")
 
@@ -523,9 +523,9 @@ By [Greg Dvorak](https://www.japantimes.co.jp/author/6191/greg-dvorak/ "Greg Dvo
 SUSTAINABLE JAPAN
 -----------------
 
-[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
-[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -565,25 +565,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Vietnam mogul told to refund missing billions to overturn death sentence](https://www.japantimes.co.jp/news/2024/11/27/asia-pacific/crime-legal/vietnam-mogul-refund-billions-life/ "Vietnam mogul told to refund missing billions to overturn death sentence")
+[VW confirms plans to exit controversial Xinjiang operation](https://www.japantimes.co.jp/business/2024/11/27/companies/volkswagen-xinjiang-china-forced-labor/ "VW confirms plans to exit controversial Xinjiang operation")
 
-1 mins ago
+53 mins ago
 
-[In Zimbabwe, Starlink’s fast internet gives telehealth a boost](https://www.japantimes.co.jp/news/2024/11/27/world/science-health/zimbabwe-starlink-internet-telehealth/ "In Zimbabwe, Starlink’s fast internet gives telehealth a boost")
+[Panel defers decision on scrapping Japan's NTT law](https://www.japantimes.co.jp/business/2024/11/27/companies/ntt-law-panel/ "Panel defers decision on scrapping Japan's NTT law")
 
-2 mins ago
+1 hour ago
 
-[Japanese prosecutor apologizes to Hakamata following his acquittal](https://www.japantimes.co.jp/news/2024/11/27/japan/crime-legal/prosecutor-apology-hakamata/ "Japanese prosecutor apologizes to Hakamata following his acquittal")
+[Biden hopes to parlay Lebanon ceasefire into a broader regional peace](https://www.japantimes.co.jp/news/2024/11/27/world/politics/biden-mideast-analysis/ "Biden hopes to parlay Lebanon ceasefire into a broader regional peace")
 
-19 mins ago
+1 hour ago
+
+[Iran's businesses bear brunt of daily power blackouts](https://www.japantimes.co.jp/business/2024/11/27/companies/iran-businesses-power-blackouts/ "Iran's businesses bear brunt of daily power blackouts")
+
+2 hours ago
 
 [China defense minister being investigated for corruption, report says](https://www.japantimes.co.jp/news/2024/11/27/asia-pacific/politics/china-defense-minister-corruption-dong-jun/ "China defense minister being investigated for corruption, report says")
 
-37 mins ago
-
-[Two years pass since Japan's last execution, amid calls for abolition](https://www.japantimes.co.jp/news/2024/11/27/japan/crime-legal/japan-capital-punishment/ "Two years pass since Japan's last execution, amid calls for abolition")
-
-1 hour ago
+2 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
