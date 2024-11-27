@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/esm-een-europese-fed-in-de-maak/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/hoofdartikelen/kun-je-met-de-waarheid-omgaan/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
