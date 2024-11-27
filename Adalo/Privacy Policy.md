@@ -24,6 +24,32 @@ Support
 
 [Pricing](https://www.adalo.com/pricing)[Hire an Expert](https://www.adalo.com/hire-an-expert)
 
+Features
+
+USER MANAGEMENT
+
+[Account Settings](https://adalo.com/features/account-settings-feature-template)[Browse and Manage Users](https://adalo.com/features/browse-users-feature-template)[User Profile and Account Settings](https://adalo.com/features/user-profile-account-settings-feature-template)[User Admin Dashboard](https://adalo.com/features/user-admin-dashboard-feature-template)
+
+BROWSING AND LISTINGS
+
+[Class Purchase and Management](https://www.adalo.com/feature-template-detail-pages/templates-browse-purchasemanage-classes)[Browse Classes](https://adalo.com/features/browse-classes-feature-template)[Browse Dates](https://adalo.com/features/browse-dates-feature-template)[Browse Home Listings](https://adalo.com/features/browse-home-listings-feature-template)[Classes Admin Dashboard](https://adalo.com/features/classes-admin-dashboard-feature-template)
+
+TASK AND ACTIVITY MANAGEMENT
+
+[Assign and Manage Tasks](https://adalo.com/features/assign-tasks-feature-template)[Workout Assignment](https://adalo.com/features/workout-assignment-feature-template)
+
+CONTENT AND MEDIA
+
+[Announcements and Notifications](https://adalo.com/features/announcements-notifications-feature-template)[Image Carousel](https://adalo.com/features/image-carousel-feature-template)[Social Media Feed](https://adalo.com/features/social-media-feed-feature-template)
+
+MESSAGING AND COMMUNICATION
+
+[Group Messaging](https://adalo.com/features/group-messaging-feature-template)[User Chat](https://adalo.com/features/user-chat-feature-template)
+
+DOCUMENT AND LISTING MANAGEMENT
+
+[Agree and Sign Documents](https://adalo.com/features/agree-and-sign-feature-template)[External Collections Integration](https://adalo.com/features/external-collections)
+
 Support
 
 [Help Docs](https://help.adalo.com/)[Community Forum](https://forum.adalo.com/)[Adalo App Academy 🆕](https://appacademy.adalo.com/)[Submit a Ticket](https://info.adalo.com/submit-a-support-ticket)[Roadmap](https://adalo.canny.io/)
@@ -152,9 +178,35 @@ Compare
 
 [Vs Bubble](https://www.adalo.com/adalo-vs-bubble)[Vs Glide](https://www.adalo.com/adalo-vs-glide)[Vs Flutterflow](https://www.adalo.com/adalo-vs-flutterflow)
 
+Explore Features
+
+USER MANAGEMENT
+
+[Account Settings](https://www.adalo.com/features/account-settings-feature-template)[Browse and Manage Users](https://www.adalo.com/features/browse-users-feature-template)[User Profile and Account Settings](https://www.adalo.com/features/user-profile-account-settings-feature-template)[User Admin Dashboard](https://www.adalo.com/features/user-admin-dashboard-feature-template)
+
+BROWSING AND LISTINGS
+
+[Class Purchase and Management](https://www.adalo.com/feature-template-detail-pages/templates-browse-purchasemanage-classes)[Browse Classes](https://www.adalo.com/features/browse-classes-feature-template)[Browse Dates](https://www.adalo.com/features/browse-dates-feature-template)[Browse Home Listings](https://www.adalo.com/features/browse-home-listings-feature-template)[Classes Admin Dashboard](https://www.adalo.com/features/classes-admin-dashboard-feature-template)
+
 Company
 
 [About](https://www.adalo.com/about-us)[Careers](https://www.adalo.com/jobs)[Blog](https://www.adalo.com/blog)[Preferences](https://www.adalo.com/preferences)
+
+TASK AND ACTIVITY MANAGEMENT
+
+[Assign and Manage Tasks](https://www.adalo.com/features/assign-tasks-feature-template)[Workout Assignment](https://www.adalo.com/features/workout-assignment-feature-template)
+
+CONTENT AND MEDIA
+
+[Accouncement and Notifications](https://www.adalo.com/features/announcements-notifications-feature-template)[Image Carousel](https://www.adalo.com/features/image-carousel-feature-template)[Social Media Feed](https://www.adalo.com/features/social-media-feed-feature-template)
+
+MESSAGING AND COMMUNICATION
+
+[Group Messaging](https://www.adalo.com/features/group-messaging-feature-template)[User Chat](https://www.adalo.com/features/user-chat-feature-template)
+
+DOCUMENT AND LISTING MANAGEMENT
+
+[Agree and Sign Documents](https://www.adalo.com/features/agree-and-sign-feature-template)[External Collections Integration](https://www.adalo.com/features/external-collections)
 
 [](https://twitter.com/adalohq)[](https://www.instagram.com/adalohq/)[](https://www.facebook.com/AdaloHQ/)[](https://www.linkedin.com/company/adalohq)[](https://www.youtube.com/channel/UCy3qpkwqXcxgnLgmA_qbTpw)
 
