@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I found the service to be good, I was travelling in New Zealand for the end of the trip and wanted to access ITV's player. I was very happy to be able to do so.
+I intend on using your services again. I was pleased and had a good experience with FoxyProxy.
 
-Malcolm Lee
+Dana Bush
