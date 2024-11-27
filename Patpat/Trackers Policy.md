@@ -502,19 +502,15 @@ This Application uses Trackers to deliver personalized ads or marketing content,
     
     Storage duration:
     
+    * FPtrust: indefinite
     * OB-AD-BLOCKER-STAT: indefinite
     * OB-AD-BLOCKER-WL-STAT: indefinite
     * OB-CCPA: indefinite
     * OB-CLDT: indefinite
     * OB-CNSNT-2: indefinite
-    * OB-EM-FREQUENCY: indefinite
     * OB-FD-TO: indefinite
     * OB-FDE: indefinite
-    * OB-INTERACTION-STASH: indefinite
-    * OB-OD-LSD: indefinite
-    * OB-PUB-IN: indefinite
-    * OB-RN-FREQUENCY: indefinite
-    * OB-SEID: indefinite
+    * OB-FREQUENCY: indefinite
     * OB-SKELETON-STRUCT: indefinite
     * OB-SYNC: indefinite
     * OB-SYNC-TTL: indefinite
@@ -523,17 +519,23 @@ This Application uses Trackers to deliver personalized ads or marketing content,
     * OB-USER-TOKEN-CREATION: indefinite
     * OB-lastPageViewInfo: indefinite
     * OB:LSU: indefinite
-    * OBD-UD-TS: indefinite
     * auid: 3 months
-    * obsessionid-{}: 30 minutes
+    * dicbo\_id: 7 days
+    * ob-monitor-obm-ImageError: indefinite
+    * ob-monitor-obm-MCDPRetriesError: indefinite
+    * ob-monitor-obm-PixelLoadingError: indefinite
+    * ob-test: indefinite
     * obuid: 3 months
     * optout: 5 years
-    * outbrain\_cid\_fetch: 5 minutes
-    * outbrain\_click\_id: 1 day
-    * recs-{}: 1 minute
     * ref-{}: 1 minute
+    * sync: 7 days
     * thirdparty: 1 hour
-    * tick: indefinite
+    * token: indefinite
+    * uids: 3 months
+    * zoptout: 5 years
+    * zpb: 1 day
+    * zpbid: 1 day
+    * zuid: 1 year
     
 * ### BSmartData (BSmartData GmbH)
     
