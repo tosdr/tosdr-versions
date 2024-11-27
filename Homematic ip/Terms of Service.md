@@ -363,6 +363,8 @@ Pfadnavigation
 --------------
 
 1. [Home](https://homematic-ip.com/de)
+2. [Service](https://homematic-ip.com/de/service)
+3. EULA
 
 Nutzungsbedingungen für die Homematic IP App und Homematic IP Cloud
 ===================================================================
