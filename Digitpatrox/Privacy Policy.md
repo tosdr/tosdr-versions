@@ -20,16 +20,16 @@ Wednesday, November 27 2024
 
 Latest
 
-* [The biggest IT threat? That seemingly innocuous web browser – Computerworld](https://digitpatrox.com/the-biggest-it-threat-that-seemingly-innocuous-web-browser-computerworld/)
-* [The JBL PartyBox Stage 320 Speaker Is $200 Off for Black Friday](https://digitpatrox.com/the-jbl-partybox-stage-320-speaker-is-200-off-for-black-friday/)
-* [Insulated Thermal Bag Face-Off – Consumer Reports](https://digitpatrox.com/insulated-thermal-bag-face-off-consumer-reports/)
-* [The Best iPhone Tripods of 2024](https://digitpatrox.com/the-best-iphone-tripods-of-2024/)
-* [What is PCI Express? Do PCIe lanes, slots, and versions matter?](https://digitpatrox.com/what-is-pci-express-do-pcie-lanes-slots-and-versions-matter/)
-* [Top 7 No-Cost Digital Asset Management Templates](https://digitpatrox.com/top-7-no-cost-digital-asset-management-templates/)
-* [New on Netflix in December 2024 — all the new shows and movies you need to watch](https://digitpatrox.com/new-on-netflix-in-december-2024-all-the-new-shows-and-movies-you-need-to-watch/)
-* [Save up to 74% on yearly subscriptions](https://digitpatrox.com/save-up-to-74-on-yearly-subscriptions/)
-* [Porsche is holding on to gas cars for a bit longer](https://digitpatrox.com/porsche-is-holding-on-to-gas-cars-for-a-bit-longer/)
-* [NYT Strands Today: Hints, Answers & Spangram for November 27](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-november-27/)
+* [The 2024 Guide to TikTok Scams](https://digitpatrox.com/the-2024-guide-to-tiktok-scams/)
+* [The IT department is finally getting the recognition it deserves, and it’s all down to the rise of AI – workers are gaining C-suite praise, bigger budgets, and pay rises](https://digitpatrox.com/the-it-department-is-finally-getting-the-recognition-it-deserves-and-its-all-down-to-the-rise-of-ai-workers-are-gaining-c-suite-praise-bigger-budgets-and-pay-rises/)
+* [All your privacy questions answered – Computerworld](https://digitpatrox.com/all-your-privacy-questions-answered-computerworld/)
+* [All the Best Best Black Friday Deals for Xbox, PlayStation, Switch, and PC Gamers](https://digitpatrox.com/all-the-best-best-black-friday-deals-for-xbox-playstation-switch-and-pc-gamers/)
+* [What is PhaaS (Phishing as a Service)?](https://digitpatrox.com/what-is-phaas-phishing-as-a-service/)
+* [Never Dress Your Child in a Bulky Winter Coat for Car Rides](https://digitpatrox.com/never-dress-your-child-in-a-bulky-winter-coat-for-car-rides/)
+* [Raycon Bone Conduction Headphones Review: Strong Battery, Weaker Sound](https://digitpatrox.com/raycon-bone-conduction-headphones-review-strong-battery-weaker-sound/)
+* [ASUS ProArt X870E-CREATOR WIFI review: For content creators!](https://digitpatrox.com/asus-proart-x870e-creator-wifi-review-for-content-creators/)
+* [Fresh warning issued over encryption-less ransomware as notorious threat group shifts tactics](https://digitpatrox.com/fresh-warning-issued-over-encryption-less-ransomware-as-notorious-threat-group-shifts-tactics/)
+* [Australia Passes Groundbreaking Cyber Security Law](https://digitpatrox.com/australia-passes-groundbreaking-cyber-security-law/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3610541-0-05923400-1732619013-cso_browser_security_by_thinkstock_497418668_1200x800-100817200-orig.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/the-biggest-it-threat-that-seemingly-innocuous-web-browser-computerworld/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/Guide-to-TikTok-scams.jpg)](https://digitpatrox.com/the-2024-guide-to-tiktok-scams/)
     
-    [The biggest IT threat? That seemingly innocuous web browser – Computerworld](https://digitpatrox.com/the-biggest-it-threat-that-seemingly-innocuous-web-browser-computerworld/)
+    [The 2024 Guide to TikTok Scams](https://digitpatrox.com/the-2024-guide-to-tiktok-scams/)
     
-    47 minutes ago
+    1 second ago
     
-* [![](https://lifehacker.com/imagery/articles/01JDN26CTA0RYXMVSXZJGSXGK3/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/the-jbl-partybox-stage-320-speaker-is-200-off-for-black-friday/)
+* [![](https://cdn.mos.cms.futurecdn.net/RG3kQWB246adNEpYxSphtW-1200-80.jpg)](https://digitpatrox.com/the-it-department-is-finally-getting-the-recognition-it-deserves-and-its-all-down-to-the-rise-of-ai-workers-are-gaining-c-suite-praise-bigger-budgets-and-pay-rises/)
     
-    [The JBL PartyBox Stage 320 Speaker Is $200 Off for Black Friday](https://digitpatrox.com/the-jbl-partybox-stage-320-speaker-is-200-off-for-black-friday/)
+    [The IT department is finally getting the recognition it deserves, and it’s all down to the rise of AI – workers are gaining C-suite praise, bigger budgets, and pay rises](https://digitpatrox.com/the-it-department-is-finally-getting-the-recognition-it-deserves-and-its-all-down-to-the-rise-of-ai-workers-are-gaining-c-suite-praise-bigger-budgets-and-pay-rises/)
+    
+    30 minutes ago
+    
+* [![](https://www.computerworld.com/wp-content/uploads/2024/11/2128281-0-99434200-1732705412-0-Microsoft-Windows-Recall-privacy.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/all-your-privacy-questions-answered-computerworld/)
+    
+    [All your privacy questions answered – Computerworld](https://digitpatrox.com/all-your-privacy-questions-answered-computerworld/)
+    
+    51 minutes ago
+    
+* [![](https://lifehacker.com/imagery/articles/01JDN0W0NJMVY997C7M5PH4ED3/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/all-the-best-best-black-friday-deals-for-xbox-playstation-switch-and-pc-gamers/)
+    
+    [All the Best Best Black Friday Deals for Xbox, PlayStation, Switch, and PC Gamers](https://digitpatrox.com/all-the-best-best-black-friday-deals-for-xbox-playstation-switch-and-pc-gamers/)
     
     1 hour ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1731079554/prod/content/dam/CRO-Images-2024/Home/CR-Home-RR-InlineHero-Can-this-thermal-freezer-bag-out-perform-our-top-small-cooler-1124)](https://digitpatrox.com/insulated-thermal-bag-face-off-consumer-reports/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/What-is-PhaaS-Phishing-as-a-Service_.jpg)](https://digitpatrox.com/what-is-phaas-phishing-as-a-service/)
     
-    [Insulated Thermal Bag Face-Off – Consumer Reports](https://digitpatrox.com/insulated-thermal-bag-face-off-consumer-reports/)
-    
-    1 hour ago
-    
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/youtube-filming.jpg)](https://digitpatrox.com/the-best-iphone-tripods-of-2024/)
-    
-    [The Best iPhone Tripods of 2024](https://digitpatrox.com/the-best-iphone-tripods-of-2024/)
-    
-    1 hour ago
-    
-* [![](https://www.digitalcitizen.life/wp-content/uploads/2020/01/pci_express_slot.jpg)](https://digitpatrox.com/what-is-pci-express-do-pcie-lanes-slots-and-versions-matter/)
-    
-    [What is PCI Express? Do PCIe lanes, slots, and versions matter?](https://digitpatrox.com/what-is-pci-express-do-pcie-lanes-slots-and-versions-matter/)
+    [What is PhaaS (Phishing as a Service)?](https://digitpatrox.com/what-is-phaas-phishing-as-a-service/)
     
     1 hour ago
     
@@ -208,39 +208,39 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [47 minutes ago
+* [1 second ago
     
-    ### The biggest IT threat? That seemingly innocuous web browser – Computerworld](https://digitpatrox.com/the-biggest-it-threat-that-seemingly-innocuous-web-browser-computerworld/)
-* [1 hour ago
+    ### The 2024 Guide to TikTok Scams](https://digitpatrox.com/the-2024-guide-to-tiktok-scams/)
+* [30 minutes ago
     
-    ### The JBL PartyBox Stage 320 Speaker Is $200 Off for Black Friday](https://digitpatrox.com/the-jbl-partybox-stage-320-speaker-is-200-off-for-black-friday/)
-* [1 hour ago
+    ### The IT department is finally getting the recognition it deserves, and it’s all down to the rise of AI – workers are gaining C-suite praise, bigger budgets, and pay rises](https://digitpatrox.com/the-it-department-is-finally-getting-the-recognition-it-deserves-and-its-all-down-to-the-rise-of-ai-workers-are-gaining-c-suite-praise-bigger-budgets-and-pay-rises/)
+* [51 minutes ago
     
-    ### Insulated Thermal Bag Face-Off – Consumer Reports](https://digitpatrox.com/insulated-thermal-bag-face-off-consumer-reports/)
+    ### All your privacy questions answered – Computerworld](https://digitpatrox.com/all-your-privacy-questions-answered-computerworld/)
 
 Most Popular Topics
 
-* [October 17, 2024
+* [August 30, 2024
     
-    ### 70% of exploited flaws disclosed in 2023 were zero-days](https://digitpatrox.com/70-of-exploited-flaws-disclosed-in-2023-were-zero-days/)
-* [September 5, 2024
+    ### I Tried My iPhone’s Color Filters, Here Are My Favorites](https://digitpatrox.com/i-tried-my-iphones-color-filters-here-are-my-favorites/)
+* [2 weeks ago
     
-    ### You’ll Never Know How Accurate Your Fitness Tracker Is, and That’s OK](https://digitpatrox.com/youll-never-know-how-accurate-your-fitness-tracker-is-and-thats-ok/)
-* [August 27, 2024
+    ### VR Passthrough Needs to Get Much Better](https://digitpatrox.com/vr-passthrough-needs-to-get-much-better/)
+* [4 weeks ago
     
-    ### Is Iced Tea Good for You?](https://digitpatrox.com/is-iced-tea-good-for-you/)
+    ### Google Explains How It Improved Meet Call Quality](https://digitpatrox.com/google-explains-how-it-improved-meet-call-quality/)
 
 Last Modified Topics
 
 * [2 hours ago
     
-    ### New on Netflix in December 2024 — all the new shows and movies you need to watch](https://digitpatrox.com/new-on-netflix-in-december-2024-all-the-new-shows-and-movies-you-need-to-watch/)
-* [3 hours ago
+    ### Raycon Bone Conduction Headphones Review: Strong Battery, Weaker Sound](https://digitpatrox.com/raycon-bone-conduction-headphones-review-strong-battery-weaker-sound/)
+* [2 hours ago
     
-    ### Save up to 74% on yearly subscriptions](https://digitpatrox.com/save-up-to-74-on-yearly-subscriptions/)
-* [4 hours ago
+    ### ASUS ProArt X870E-CREATOR WIFI review: For content creators!](https://digitpatrox.com/asus-proart-x870e-creator-wifi-review-for-content-creators/)
+* [2 hours ago
     
-    ### Porsche is holding on to gas cars for a bit longer](https://digitpatrox.com/porsche-is-holding-on-to-gas-cars-for-a-bit-longer/)
+    ### Fresh warning issued over encryption-less ransomware as notorious threat group shifts tactics](https://digitpatrox.com/fresh-warning-issued-over-encryption-less-ransomware-as-notorious-threat-group-shifts-tactics/)
 
 Most Viewed Topics
 
