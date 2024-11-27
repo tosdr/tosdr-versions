@@ -208,16 +208,16 @@ this hour
 
 * * *
 
+* [Long Ring Fingers and a Love of Alcohol](https://www.sciencedaily.com/releases/2024/11/241126145338.htm)
+* [Unexplained Heat-Wave 'Hotspots'](https://www.sciencedaily.com/releases/2024/11/241126145331.htm)
+* [Brain Test Shows That Crabs Process Pain](https://www.sciencedaily.com/releases/2024/11/241126135832.htm)
+* [One Star System Generating Radio Waves](https://www.sciencedaily.com/releases/2024/11/241126135731.htm)
+* [Reversing Climate Change: Far More Costly Later](https://www.sciencedaily.com/releases/2024/11/241126135636.htm)
+* [Magnetic Tornado at Jupiter's Poles](https://www.sciencedaily.com/releases/2024/11/241126135634.htm)
+* [Explosive Secret of the Squirting Cucumber](https://www.sciencedaily.com/releases/2024/11/241125162946.htm)
 * [Uranus's Swaying Moons and Hidden Oceans](https://www.sciencedaily.com/releases/2024/11/241125163025.htm)
 * [Uranus and Neptune: What Lies Beneath?](https://www.sciencedaily.com/releases/2024/11/241125162951.htm)
 * [Realistic Satellite Images of Future Flooding](https://www.sciencedaily.com/releases/2024/11/241125124937.htm)
-* [Pathogenic Pandrug-Resistant Bacteria in Ukraine](https://www.sciencedaily.com/releases/2024/11/241125124920.htm)
-* [Prehistoric Elks Painted On Rock: Sounds Too](https://www.sciencedaily.com/releases/2024/11/241125125648.htm)
-* [Focaccia: A Neolithic Culinary Tradition](https://www.sciencedaily.com/releases/2024/11/241125125151.htm)
-* [Bats' Amazing Plan B for When They Can't Hear](https://www.sciencedaily.com/releases/2024/11/241125125118.htm)
-* [Stellar Evolution During the Early Universe](https://www.sciencedaily.com/releases/2024/11/241125124843.htm)
-* [Most Energetic Cosmic-Ray Electrons, Positrons](https://www.sciencedaily.com/releases/2024/11/241125124728.htm)
-* [Ancient Hot Water On Mars: Habitable Past?](https://www.sciencedaily.com/releases/2024/11/241122160756.htm)
 
 Trending Topics
 ---------------
@@ -228,27 +228,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
+[Hypertension](https://www.sciencedaily.com/news/health_medicine/hypertension/)
+
 [Gastrointestinal Problems](https://www.sciencedaily.com/news/health_medicine/gastrointestinal_problems/)
 
 [Dementia](https://www.sciencedaily.com/news/mind_brain/dementia/)
 
-[Hypertension](https://www.sciencedaily.com/news/health_medicine/hypertension/)
-
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
-
-[Black Holes](https://www.sciencedaily.com/news/space_time/black_holes/)
-
-[Medical Technology](https://www.sciencedaily.com/news/matter_energy/medical_technology/)
 
 [Galaxies](https://www.sciencedaily.com/news/space_time/galaxies/)
 
+[Computers and Internet](https://www.sciencedaily.com/news/computers_math/computers_and_internet/)
+
+[Medical Technology](https://www.sciencedaily.com/news/matter_energy/medical_technology/)
+
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
+
+[Climate](https://www.sciencedaily.com/news/earth_climate/climate/)
 
 [Cell Biology](https://www.sciencedaily.com/news/plants_animals/cell_biology/)
 
-[Ancient Civilizations](https://www.sciencedaily.com/news/fossils_ruins/ancient_civilizations/)
-
-[Biochemistry Research](https://www.sciencedaily.com/news/plants_animals/biochemistry/)
+[Floods](https://www.sciencedaily.com/news/earth_climate/floods/)
 
   
 
