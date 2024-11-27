@@ -4,7 +4,7 @@
 
 **Free Shipping on $199+ Orders**
 
-   [![SD Bullion - The Lowest Price. Period.](https://sdbullion.com/media/logo/default/lowest-price-period-logo-dark-856x220_1_.png) ![](https://sdbullion.com/static/version1732273325/frontend/SDBullion/theme-frontend-sd/en_US/images/logo-sticky.png)](https://sdbullion.com/)
+   [![SD Bullion - The Lowest Price. Period.](https://sdbullion.com/media/logo/default/lowest-price-period-logo-dark-856x220_1_.png) ![](https://sdbullion.com/static/version1732705279/frontend/SDBullion/theme-frontend-sd/en_US/images/logo-sticky.png)](https://sdbullion.com/)
 
   [![SD Bullion Free Shipping](https://sdbullion.com/media/wysiwyg/sitewide/free-shipping-over-199-300x55-min.jpg)](https://sdbullion.com/sd-bullion-shipping-policies)
 
@@ -1462,21 +1462,29 @@ Search  Search
             
             [Perth Mint](https://sdbullion.com/perth-mint)
             
-        * [chevron-right Austrian Mint](https://sdbullion.com/austrian-mint)
+        * [chevron-right Argor-Heraeus Mint](https://sdbullion.com/argor-heraeus-mint)
             
-            [Austrian Mint](https://sdbullion.com/austrian-mint)
+            [Argor-Heraeus Mint](https://sdbullion.com/argor-heraeus-mint)
+            
+        * [chevron-right Scottsdale Mint](https://sdbullion.com/scottsdale-mint)
+            
+            [Scottsdale Mint](https://sdbullion.com/scottsdale-mint)
+            
+        * [chevron-right Mexican Mint](https://sdbullion.com/mexican-mint)
+            
+            [Mexican Mint](https://sdbullion.com/mexican-mint)
+            
+        * [chevron-right Chinese Mint](https://sdbullion.com/china-mint)
+            
+            [Chinese Mint](https://sdbullion.com/china-mint)
             
         * [chevron-right South African Mint](https://sdbullion.com/south-african-mint)
             
             [South African Mint](https://sdbullion.com/south-african-mint)
             
-        * [chevron-right PAMP Suisse Mint](https://sdbullion.com/pamp-suisse)
+        * [chevron-right Austrian Mint](https://sdbullion.com/austrian-mint)
             
-            [PAMP Suisse Mint](https://sdbullion.com/pamp-suisse)
-            
-        * [chevron-right Argor-Heraeus Mint](https://sdbullion.com/argor-heraeus-mint)
-            
-            [Argor-Heraeus Mint](https://sdbullion.com/argor-heraeus-mint)
+            [Austrian Mint](https://sdbullion.com/austrian-mint)
             
         * [chevron-right Valcambi Mint](https://sdbullion.com/valcambi-mint)
             
@@ -1485,18 +1493,6 @@ Search  Search
         * [chevron-right Germania Mint](https://sdbullion.com/germania-mint)
             
             [Germania Mint](https://sdbullion.com/germania-mint)
-            
-        * [chevron-right Scottsdale Mint](https://sdbullion.com/scottsdale-mint)
-            
-            [Scottsdale Mint](https://sdbullion.com/scottsdale-mint)
-            
-        * [chevron-right Chinese Mint](https://sdbullion.com/china-mint)
-            
-            [Chinese Mint](https://sdbullion.com/china-mint)
-            
-        * [chevron-right Mexican Mint](https://sdbullion.com/mexican-mint)
-            
-            [Mexican Mint](https://sdbullion.com/mexican-mint)
             
         
         * [chevron-left Shop By Mint](#/)
@@ -1516,21 +1512,29 @@ Search  Search
             
             [Perth Mint](https://sdbullion.com/perth-mint)
             
-        * [chevron-right Austrian Mint](https://sdbullion.com/austrian-mint)
+        * [chevron-right Argor-Heraeus Mint](https://sdbullion.com/argor-heraeus-mint)
             
-            [Austrian Mint](https://sdbullion.com/austrian-mint)
+            [Argor-Heraeus Mint](https://sdbullion.com/argor-heraeus-mint)
+            
+        * [chevron-right Scottsdale Mint](https://sdbullion.com/scottsdale-mint)
+            
+            [Scottsdale Mint](https://sdbullion.com/scottsdale-mint)
+            
+        * [chevron-right Mexican Mint](https://sdbullion.com/mexican-mint)
+            
+            [Mexican Mint](https://sdbullion.com/mexican-mint)
+            
+        * [chevron-right Chinese Mint](https://sdbullion.com/china-mint)
+            
+            [Chinese Mint](https://sdbullion.com/china-mint)
             
         * [chevron-right South African Mint](https://sdbullion.com/south-african-mint)
             
             [South African Mint](https://sdbullion.com/south-african-mint)
             
-        * [chevron-right PAMP Suisse Mint](https://sdbullion.com/pamp-suisse)
+        * [chevron-right Austrian Mint](https://sdbullion.com/austrian-mint)
             
-            [PAMP Suisse Mint](https://sdbullion.com/pamp-suisse)
-            
-        * [chevron-right Argor-Heraeus Mint](https://sdbullion.com/argor-heraeus-mint)
-            
-            [Argor-Heraeus Mint](https://sdbullion.com/argor-heraeus-mint)
+            [Austrian Mint](https://sdbullion.com/austrian-mint)
             
         * [chevron-right Valcambi Mint](https://sdbullion.com/valcambi-mint)
             
@@ -1539,18 +1543,6 @@ Search  Search
         * [chevron-right Germania Mint](https://sdbullion.com/germania-mint)
             
             [Germania Mint](https://sdbullion.com/germania-mint)
-            
-        * [chevron-right Scottsdale Mint](https://sdbullion.com/scottsdale-mint)
-            
-            [Scottsdale Mint](https://sdbullion.com/scottsdale-mint)
-            
-        * [chevron-right Chinese Mint](https://sdbullion.com/china-mint)
-            
-            [Chinese Mint](https://sdbullion.com/china-mint)
-            
-        * [chevron-right Mexican Mint](https://sdbullion.com/mexican-mint)
-            
-            [Mexican Mint](https://sdbullion.com/mexican-mint)
             
     * [chevron-right Accessories](https://sdbullion.com/coin-supplies-accessories)
         
@@ -1602,21 +1594,29 @@ Search  Search
             
             [Perth Mint](https://sdbullion.com/perth-mint)
             
-        * [chevron-right Austrian Mint](https://sdbullion.com/austrian-mint)
+        * [chevron-right Argor-Heraeus Mint](https://sdbullion.com/argor-heraeus-mint)
             
-            [Austrian Mint](https://sdbullion.com/austrian-mint)
+            [Argor-Heraeus Mint](https://sdbullion.com/argor-heraeus-mint)
+            
+        * [chevron-right Scottsdale Mint](https://sdbullion.com/scottsdale-mint)
+            
+            [Scottsdale Mint](https://sdbullion.com/scottsdale-mint)
+            
+        * [chevron-right Mexican Mint](https://sdbullion.com/mexican-mint)
+            
+            [Mexican Mint](https://sdbullion.com/mexican-mint)
+            
+        * [chevron-right Chinese Mint](https://sdbullion.com/china-mint)
+            
+            [Chinese Mint](https://sdbullion.com/china-mint)
             
         * [chevron-right South African Mint](https://sdbullion.com/south-african-mint)
             
             [South African Mint](https://sdbullion.com/south-african-mint)
             
-        * [chevron-right PAMP Suisse Mint](https://sdbullion.com/pamp-suisse)
+        * [chevron-right Austrian Mint](https://sdbullion.com/austrian-mint)
             
-            [PAMP Suisse Mint](https://sdbullion.com/pamp-suisse)
-            
-        * [chevron-right Argor-Heraeus Mint](https://sdbullion.com/argor-heraeus-mint)
-            
-            [Argor-Heraeus Mint](https://sdbullion.com/argor-heraeus-mint)
+            [Austrian Mint](https://sdbullion.com/austrian-mint)
             
         * [chevron-right Valcambi Mint](https://sdbullion.com/valcambi-mint)
             
@@ -1625,18 +1625,6 @@ Search  Search
         * [chevron-right Germania Mint](https://sdbullion.com/germania-mint)
             
             [Germania Mint](https://sdbullion.com/germania-mint)
-            
-        * [chevron-right Scottsdale Mint](https://sdbullion.com/scottsdale-mint)
-            
-            [Scottsdale Mint](https://sdbullion.com/scottsdale-mint)
-            
-        * [chevron-right Chinese Mint](https://sdbullion.com/china-mint)
-            
-            [Chinese Mint](https://sdbullion.com/china-mint)
-            
-        * [chevron-right Mexican Mint](https://sdbullion.com/mexican-mint)
-            
-            [Mexican Mint](https://sdbullion.com/mexican-mint)
             
         
         * [chevron-left Shop By Mint](#/)
@@ -1656,21 +1644,29 @@ Search  Search
             
             [Perth Mint](https://sdbullion.com/perth-mint)
             
-        * [chevron-right Austrian Mint](https://sdbullion.com/austrian-mint)
+        * [chevron-right Argor-Heraeus Mint](https://sdbullion.com/argor-heraeus-mint)
             
-            [Austrian Mint](https://sdbullion.com/austrian-mint)
+            [Argor-Heraeus Mint](https://sdbullion.com/argor-heraeus-mint)
+            
+        * [chevron-right Scottsdale Mint](https://sdbullion.com/scottsdale-mint)
+            
+            [Scottsdale Mint](https://sdbullion.com/scottsdale-mint)
+            
+        * [chevron-right Mexican Mint](https://sdbullion.com/mexican-mint)
+            
+            [Mexican Mint](https://sdbullion.com/mexican-mint)
+            
+        * [chevron-right Chinese Mint](https://sdbullion.com/china-mint)
+            
+            [Chinese Mint](https://sdbullion.com/china-mint)
             
         * [chevron-right South African Mint](https://sdbullion.com/south-african-mint)
             
             [South African Mint](https://sdbullion.com/south-african-mint)
             
-        * [chevron-right PAMP Suisse Mint](https://sdbullion.com/pamp-suisse)
+        * [chevron-right Austrian Mint](https://sdbullion.com/austrian-mint)
             
-            [PAMP Suisse Mint](https://sdbullion.com/pamp-suisse)
-            
-        * [chevron-right Argor-Heraeus Mint](https://sdbullion.com/argor-heraeus-mint)
-            
-            [Argor-Heraeus Mint](https://sdbullion.com/argor-heraeus-mint)
+            [Austrian Mint](https://sdbullion.com/austrian-mint)
             
         * [chevron-right Valcambi Mint](https://sdbullion.com/valcambi-mint)
             
@@ -1679,18 +1675,6 @@ Search  Search
         * [chevron-right Germania Mint](https://sdbullion.com/germania-mint)
             
             [Germania Mint](https://sdbullion.com/germania-mint)
-            
-        * [chevron-right Scottsdale Mint](https://sdbullion.com/scottsdale-mint)
-            
-            [Scottsdale Mint](https://sdbullion.com/scottsdale-mint)
-            
-        * [chevron-right Chinese Mint](https://sdbullion.com/china-mint)
-            
-            [Chinese Mint](https://sdbullion.com/china-mint)
-            
-        * [chevron-right Mexican Mint](https://sdbullion.com/mexican-mint)
-            
-            [Mexican Mint](https://sdbullion.com/mexican-mint)
             
     * [chevron-right Accessories](https://sdbullion.com/coin-supplies-accessories)
         
@@ -3275,21 +3259,29 @@ x
             
             [Perth Mint](https://sdbullion.com/perth-mint)
             
-        * [chevron-right Austrian Mint](https://sdbullion.com/austrian-mint)
+        * [chevron-right Argor-Heraeus Mint](https://sdbullion.com/argor-heraeus-mint)
             
-            [Austrian Mint](https://sdbullion.com/austrian-mint)
+            [Argor-Heraeus Mint](https://sdbullion.com/argor-heraeus-mint)
+            
+        * [chevron-right Scottsdale Mint](https://sdbullion.com/scottsdale-mint)
+            
+            [Scottsdale Mint](https://sdbullion.com/scottsdale-mint)
+            
+        * [chevron-right Mexican Mint](https://sdbullion.com/mexican-mint)
+            
+            [Mexican Mint](https://sdbullion.com/mexican-mint)
+            
+        * [chevron-right Chinese Mint](https://sdbullion.com/china-mint)
+            
+            [Chinese Mint](https://sdbullion.com/china-mint)
             
         * [chevron-right South African Mint](https://sdbullion.com/south-african-mint)
             
             [South African Mint](https://sdbullion.com/south-african-mint)
             
-        * [chevron-right PAMP Suisse Mint](https://sdbullion.com/pamp-suisse)
+        * [chevron-right Austrian Mint](https://sdbullion.com/austrian-mint)
             
-            [PAMP Suisse Mint](https://sdbullion.com/pamp-suisse)
-            
-        * [chevron-right Argor-Heraeus Mint](https://sdbullion.com/argor-heraeus-mint)
-            
-            [Argor-Heraeus Mint](https://sdbullion.com/argor-heraeus-mint)
+            [Austrian Mint](https://sdbullion.com/austrian-mint)
             
         * [chevron-right Valcambi Mint](https://sdbullion.com/valcambi-mint)
             
@@ -3298,18 +3290,6 @@ x
         * [chevron-right Germania Mint](https://sdbullion.com/germania-mint)
             
             [Germania Mint](https://sdbullion.com/germania-mint)
-            
-        * [chevron-right Scottsdale Mint](https://sdbullion.com/scottsdale-mint)
-            
-            [Scottsdale Mint](https://sdbullion.com/scottsdale-mint)
-            
-        * [chevron-right Chinese Mint](https://sdbullion.com/china-mint)
-            
-            [Chinese Mint](https://sdbullion.com/china-mint)
-            
-        * [chevron-right Mexican Mint](https://sdbullion.com/mexican-mint)
-            
-            [Mexican Mint](https://sdbullion.com/mexican-mint)
             
         
         * [chevron-left Shop By Mint](#/)
@@ -3329,21 +3309,29 @@ x
             
             [Perth Mint](https://sdbullion.com/perth-mint)
             
-        * [chevron-right Austrian Mint](https://sdbullion.com/austrian-mint)
+        * [chevron-right Argor-Heraeus Mint](https://sdbullion.com/argor-heraeus-mint)
             
-            [Austrian Mint](https://sdbullion.com/austrian-mint)
+            [Argor-Heraeus Mint](https://sdbullion.com/argor-heraeus-mint)
+            
+        * [chevron-right Scottsdale Mint](https://sdbullion.com/scottsdale-mint)
+            
+            [Scottsdale Mint](https://sdbullion.com/scottsdale-mint)
+            
+        * [chevron-right Mexican Mint](https://sdbullion.com/mexican-mint)
+            
+            [Mexican Mint](https://sdbullion.com/mexican-mint)
+            
+        * [chevron-right Chinese Mint](https://sdbullion.com/china-mint)
+            
+            [Chinese Mint](https://sdbullion.com/china-mint)
             
         * [chevron-right South African Mint](https://sdbullion.com/south-african-mint)
             
             [South African Mint](https://sdbullion.com/south-african-mint)
             
-        * [chevron-right PAMP Suisse Mint](https://sdbullion.com/pamp-suisse)
+        * [chevron-right Austrian Mint](https://sdbullion.com/austrian-mint)
             
-            [PAMP Suisse Mint](https://sdbullion.com/pamp-suisse)
-            
-        * [chevron-right Argor-Heraeus Mint](https://sdbullion.com/argor-heraeus-mint)
-            
-            [Argor-Heraeus Mint](https://sdbullion.com/argor-heraeus-mint)
+            [Austrian Mint](https://sdbullion.com/austrian-mint)
             
         * [chevron-right Valcambi Mint](https://sdbullion.com/valcambi-mint)
             
@@ -3352,18 +3340,6 @@ x
         * [chevron-right Germania Mint](https://sdbullion.com/germania-mint)
             
             [Germania Mint](https://sdbullion.com/germania-mint)
-            
-        * [chevron-right Scottsdale Mint](https://sdbullion.com/scottsdale-mint)
-            
-            [Scottsdale Mint](https://sdbullion.com/scottsdale-mint)
-            
-        * [chevron-right Chinese Mint](https://sdbullion.com/china-mint)
-            
-            [Chinese Mint](https://sdbullion.com/china-mint)
-            
-        * [chevron-right Mexican Mint](https://sdbullion.com/mexican-mint)
-            
-            [Mexican Mint](https://sdbullion.com/mexican-mint)
             
     * [chevron-right Accessories](https://sdbullion.com/coin-supplies-accessories)
         
@@ -3415,21 +3391,29 @@ x
             
             [Perth Mint](https://sdbullion.com/perth-mint)
             
-        * [chevron-right Austrian Mint](https://sdbullion.com/austrian-mint)
+        * [chevron-right Argor-Heraeus Mint](https://sdbullion.com/argor-heraeus-mint)
             
-            [Austrian Mint](https://sdbullion.com/austrian-mint)
+            [Argor-Heraeus Mint](https://sdbullion.com/argor-heraeus-mint)
+            
+        * [chevron-right Scottsdale Mint](https://sdbullion.com/scottsdale-mint)
+            
+            [Scottsdale Mint](https://sdbullion.com/scottsdale-mint)
+            
+        * [chevron-right Mexican Mint](https://sdbullion.com/mexican-mint)
+            
+            [Mexican Mint](https://sdbullion.com/mexican-mint)
+            
+        * [chevron-right Chinese Mint](https://sdbullion.com/china-mint)
+            
+            [Chinese Mint](https://sdbullion.com/china-mint)
             
         * [chevron-right South African Mint](https://sdbullion.com/south-african-mint)
             
             [South African Mint](https://sdbullion.com/south-african-mint)
             
-        * [chevron-right PAMP Suisse Mint](https://sdbullion.com/pamp-suisse)
+        * [chevron-right Austrian Mint](https://sdbullion.com/austrian-mint)
             
-            [PAMP Suisse Mint](https://sdbullion.com/pamp-suisse)
-            
-        * [chevron-right Argor-Heraeus Mint](https://sdbullion.com/argor-heraeus-mint)
-            
-            [Argor-Heraeus Mint](https://sdbullion.com/argor-heraeus-mint)
+            [Austrian Mint](https://sdbullion.com/austrian-mint)
             
         * [chevron-right Valcambi Mint](https://sdbullion.com/valcambi-mint)
             
@@ -3438,18 +3422,6 @@ x
         * [chevron-right Germania Mint](https://sdbullion.com/germania-mint)
             
             [Germania Mint](https://sdbullion.com/germania-mint)
-            
-        * [chevron-right Scottsdale Mint](https://sdbullion.com/scottsdale-mint)
-            
-            [Scottsdale Mint](https://sdbullion.com/scottsdale-mint)
-            
-        * [chevron-right Chinese Mint](https://sdbullion.com/china-mint)
-            
-            [Chinese Mint](https://sdbullion.com/china-mint)
-            
-        * [chevron-right Mexican Mint](https://sdbullion.com/mexican-mint)
-            
-            [Mexican Mint](https://sdbullion.com/mexican-mint)
             
         
         * [chevron-left Shop By Mint](#/)
@@ -3469,21 +3441,29 @@ x
             
             [Perth Mint](https://sdbullion.com/perth-mint)
             
-        * [chevron-right Austrian Mint](https://sdbullion.com/austrian-mint)
+        * [chevron-right Argor-Heraeus Mint](https://sdbullion.com/argor-heraeus-mint)
             
-            [Austrian Mint](https://sdbullion.com/austrian-mint)
+            [Argor-Heraeus Mint](https://sdbullion.com/argor-heraeus-mint)
+            
+        * [chevron-right Scottsdale Mint](https://sdbullion.com/scottsdale-mint)
+            
+            [Scottsdale Mint](https://sdbullion.com/scottsdale-mint)
+            
+        * [chevron-right Mexican Mint](https://sdbullion.com/mexican-mint)
+            
+            [Mexican Mint](https://sdbullion.com/mexican-mint)
+            
+        * [chevron-right Chinese Mint](https://sdbullion.com/china-mint)
+            
+            [Chinese Mint](https://sdbullion.com/china-mint)
             
         * [chevron-right South African Mint](https://sdbullion.com/south-african-mint)
             
             [South African Mint](https://sdbullion.com/south-african-mint)
             
-        * [chevron-right PAMP Suisse Mint](https://sdbullion.com/pamp-suisse)
+        * [chevron-right Austrian Mint](https://sdbullion.com/austrian-mint)
             
-            [PAMP Suisse Mint](https://sdbullion.com/pamp-suisse)
-            
-        * [chevron-right Argor-Heraeus Mint](https://sdbullion.com/argor-heraeus-mint)
-            
-            [Argor-Heraeus Mint](https://sdbullion.com/argor-heraeus-mint)
+            [Austrian Mint](https://sdbullion.com/austrian-mint)
             
         * [chevron-right Valcambi Mint](https://sdbullion.com/valcambi-mint)
             
@@ -3492,18 +3472,6 @@ x
         * [chevron-right Germania Mint](https://sdbullion.com/germania-mint)
             
             [Germania Mint](https://sdbullion.com/germania-mint)
-            
-        * [chevron-right Scottsdale Mint](https://sdbullion.com/scottsdale-mint)
-            
-            [Scottsdale Mint](https://sdbullion.com/scottsdale-mint)
-            
-        * [chevron-right Chinese Mint](https://sdbullion.com/china-mint)
-            
-            [Chinese Mint](https://sdbullion.com/china-mint)
-            
-        * [chevron-right Mexican Mint](https://sdbullion.com/mexican-mint)
-            
-            [Mexican Mint](https://sdbullion.com/mexican-mint)
             
     * [chevron-right Accessories](https://sdbullion.com/coin-supplies-accessories)
         
@@ -4075,7 +4043,7 @@ RESOURCES
 * [Careers](https://sdbullion.com/careers)
 * [FAQ](https://sdbullion.com/help)
 
-![Top](https://sdbullion.com/static/version1732273325/frontend/SDBullion/theme-frontend-sd/en_US/images/footer/scroll_to_top.png)
+![Top](https://sdbullion.com/static/version1732705279/frontend/SDBullion/theme-frontend-sd/en_US/images/footer/scroll_to_top.png)
 
   ![Top 500 Retailers Image](https://sdbullion.com/media/wysiwyg/footer/top-500-online-retailers.png)
 
@@ -4083,11 +4051,11 @@ RESOURCES
 
      [![bbb desktop image](https://sdbullion.com/media/wysiwyg/footer/bbb.png)   ![bbb mobile image](https://sdbullion.com/media/wysiwyg/footer/bbb-mobile.png)](https://www.bbb.org/toledo/business-reviews/gold-silver-and-platinum-dealers/sd-bullion-in-ottawa-lake-mi-90114703#bbbseal)
 
-![ica image](https://sdbullion.com/static/version1732273325/frontend/SDBullion/theme-frontend-sd/en_US/images/footer/ica.png)
+![ica image](https://sdbullion.com/static/version1732705279/frontend/SDBullion/theme-frontend-sd/en_US/images/footer/ica.png)
 
   [![Shopper Approved Logo](https://sdbullion.com/media/wysiwyg/footer/shopper-approved-min.png)](http://www.shopperapproved.com/reviews/sdbullion.com/)
 
-![SDBullion](https://sdbullion.com/static/version1732273325/frontend/SDBullion/theme-frontend-sd/en_US/images/footer/400-SD-Bullion-Logo-light.png) ![SDBullion Coin Image](https://sdbullion.com/static/version1732273325/frontend/SDBullion/theme-frontend-sd/en_US/images/footer/Lowest-Price-Period-Coins.png) © 2024 SD Bullion, Inc. All rights reserved.
+![SDBullion](https://sdbullion.com/static/version1732705279/frontend/SDBullion/theme-frontend-sd/en_US/images/footer/400-SD-Bullion-Logo-light.png) ![SDBullion Coin Image](https://sdbullion.com/static/version1732705279/frontend/SDBullion/theme-frontend-sd/en_US/images/footer/Lowest-Price-Period-Coins.png) © 2024 SD Bullion, Inc. All rights reserved.
 
 *    [![Facebook Icon](https://sdbullion.com/media/wysiwyg/footer/facebook-icon-min.png) Facebook Link](https://www.facebook.com/SDBullion/)
 *    [![YouTube Icon](https://sdbullion.com/media/wysiwyg/footer/youtube-icon-min.png) YouTube Link](https://www.youtube.com/sdbullion)
