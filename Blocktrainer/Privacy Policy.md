@@ -590,6 +590,8 @@ Kopieren
 
 [](#)
 
+[![Kurant](/fileadmin/_processed_/8/7/csm_Banner_hoch_390x615_93118de063.png)](https://ref.blocktrainer.de/kurant)
+
 **Privatsphäre-Einstellungen**
 
 Mit diesem Tool können Sie Ihre Zustimmung zur Erfassung und Verarbeitung personenbezogener Daten durch Technologien von Drittanbietern verwalten.
