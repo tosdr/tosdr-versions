@@ -109,11 +109,12 @@
         
         Quick Links
         
+        * [Demo Zone](https://www.bitdefender.com/en-us/business/demo-zone) _NEW_
         * [Best Deals](https://www.bitdefender.com/en-us/business/deals/)
         * [Free Trials](https://www.bitdefender.com/en-us/business/products/free-trials/) _Try Now_
         * [Compare Solutions](https://www.bitdefender.com/en-us/business/compare)
         * [All Products](https://www.bitdefender.com/en-us/business/all-products)
-        * [2024 Cybersecurity Assessment](https://www.bitdefender.com/en-us/business/campaign/cybersecurity-assessment) _NEW_
+        * [2024 Cybersecurity Assessment](https://www.bitdefender.com/en-us/business/campaign/cybersecurity-assessment)
         
         View All
         
@@ -147,6 +148,7 @@
         
         Quick Links
         
+        * [Demo Zone](https://www.bitdefender.com/en-us/business/demo-zone) _NEW_
         * [MDR Insights](https://www.bitdefender.com/en-us/blog/businessinsights/tag/managed-detection-and-response/)
         * [MITRE Engenuity for MDR](https://www.bitdefender.com/business/explore/mdr-paid/ebook-bitdefender-definitive-guide-to-mitre-engenuitys-attck-evaluations-for-managed-services?utm_source=website&campaign=22024_May_WW_CORE_EPP_DM_Premium_Content_Evolve_Cybersecurity__XDR_trial)
         * [Gartner Market Guide for MDR](https://www.bitdefender.com/en-us/business/campaign/2024_gartner_mdr_market_guide)
@@ -190,6 +192,7 @@
         
         [Resources](https://www.bitdefender.com/en-us/business/resource-library)
         
+        * [Demo Zone](https://www.bitdefender.com/en-us/business/demo-zone) _NEW_
         * [Case Studies](https://www.bitdefender.com/business/resource-library.html?type=Case-Study)
         * [White Papers](https://www.bitdefender.com/business/resource-library.html?type=Whitepaper)
         * [Webinars](https://www.bitdefender.com/en-us/business/webinars)
