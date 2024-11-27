@@ -76,7 +76,7 @@ Latest news
 
 ### HEARST NETWORKS UK LAUNCHES ‘UNBREAKABLE’ A POWERFUL NEW SHORT-FORM SERIES ON CRIME+INVESTIGATION](https://www.aenetworks.tv/news/uk/hearst-networks-uk-launches-unbreakable-powerful-new-short-form-series-crimeinvestigation)
 
-    [![Marcel Theroux Investigations The Eunuch Maker](/s3/files/styles/card_tablet/public/2024-11/Marcel%20Theroux%20CD.jpg?itok=4ugG9PsH)
+    [![Marcel Theroux Investigations The Eunuch Maker](https://hearstnetworkscorp.s3.eu-west-2.amazonaws.com/s3fs-public/styles/card_tablet/public/2024-11/Marcel%20Theroux%20CD.jpg?VersionId=d7MVZEMjr8952ExBDv9CR2f6jos0JyzK&itok=4ugG9PsH)
 
 11 November 2024
 
@@ -88,7 +88,7 @@ Latest news
 
 ### BLAZE®TO AIR THE 2024 LAKESIDE WORLD DARTS CHAMPIONSHIPS LIVE AND EXCLUSIVE](https://www.aenetworks.tv/news/uk/blazerto-air-2024-lakeside-world-darts-championships-live-and-exclusive)
 
-    [![GEMA Awards Win Cosmo](/s3/files/styles/card_tablet/public/2024-10/THE-BASE_GEMA_Premios%20CD%201.jpg?itok=O9NWEP82)
+    [![GEMA Awards Win Cosmo](https://hearstnetworkscorp.s3.eu-west-2.amazonaws.com/s3fs-public/styles/card_tablet/public/2024-10/THE-BASE_GEMA_Premios%20CD%201.jpg?VersionId=FKxqX3boAOzrO7fmGUDr89G8WTpfQRxt&itok=O9NWEP82)
 
 18 October 2024
 
