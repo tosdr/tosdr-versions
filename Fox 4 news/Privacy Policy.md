@@ -401,6 +401,18 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![North Texas woman inspired by community's support gives back with Thanksgiving meals](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/p-amelia-thanksgiving-meal-giveaway-9p_00.00.48.14.jpg?ve=1&tl=1)
+
+ ![North Texas woman inspired by community's support gives back with Thanksgiving meals](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/p-amelia-thanksgiving-meal-giveaway-9p_00.00.48.14.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/north-texas-woman-inspired-communitys-support-gives-back-thanksgiving-meals)
+
+### [North Texas woman inspired by community's support gives back with Thanksgiving meals](https://www.fox4news.com/news/north-texas-woman-inspired-communitys-support-gives-back-thanksgiving-meals)
+
+ [![Israel-Hezbollah ceasefire to take effect Wednesday, Biden says](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/biden-ceasefire-remarks-getty.jpg?ve=1&tl=1)
+
+ ![Israel-Hezbollah ceasefire to take effect Wednesday, Biden says](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/biden-ceasefire-remarks-getty.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/watch-biden-discuss-middle-east-peace-talks-ceasefire)
+
+### [Israel-Hezbollah ceasefire to take effect Wednesday, Biden says](https://www.fox4news.com/news/watch-biden-discuss-middle-east-peace-talks-ceasefire)
+
  [![Former Arizona Coyotes player, Paul Bissonnette, assaulted at Scottsdale restaurant](https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/11/32/18/gettyimages-482770757-scaled.jpg?ve=1&tl=1)
 
  ![Former Arizona Coyotes player, Paul Bissonnette, assaulted at Scottsdale restaurant](https://images.foxtv.com/images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/11/32/18/592/333/gettyimages-482770757-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/former-arizona-coyotes-player-paul-bissonnette-assaulted-scottsdale-restaurant)
@@ -418,18 +430,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![Greenville police officer shot and killed in 'ambush' attack, police say](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/v_greenville_pickett_st_ois_4a_mxf_00.00.59.06-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/greenville-police-officer-shot-killed)
 
 ### [Greenville police officer shot and killed in 'ambush' attack, police say](https://www.fox4news.com/news/greenville-police-officer-shot-killed)
-
- [![UT-Arlington hosts campuswide Thanksgiving feast](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/kst-uta-feast-vosot_kdfw641d_186_mp4_00.00.51.04.jpg?ve=1&tl=1)
-
- ![UT-Arlington hosts campuswide Thanksgiving feast](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/kst-uta-feast-vosot_kdfw641d_186_mp4_00.00.51.04.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ut-arlington-hosts-thanksgiving-feast)
-
-### [UT-Arlington hosts campuswide Thanksgiving feast](https://www.fox4news.com/news/ut-arlington-hosts-thanksgiving-feast)
-
- [![Far North Dallas residents band together after man caught on camera breaking into homes](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/p-shaun-far-hills-lane-burglar-530p_00.01.47.56.jpg?ve=1&tl=1)
-
- ![Far North Dallas residents band together after man caught on camera breaking into homes](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/p-shaun-far-hills-lane-burglar-530p_00.01.47.56.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/valley-view-lane-break-ins-far-hills-lane)
-
-### [Far North Dallas residents band together after man caught on camera breaking into homes](https://www.fox4news.com/news/valley-view-lane-break-ins-far-hills-lane)
 
 ###### [News](https://www.fox4news.com/news)
 
