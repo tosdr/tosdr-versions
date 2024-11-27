@@ -1,10 +1,10 @@
-HOLIDAY SEASON SALE!
+BLACK FRIDAY BLOWOUT!
 
-20% Off + 10% **Cashback**
+25% Off + 10% **Cashback**
 
 on all orders -
 
-Use Code : HDEALS20
+Use Code : BFRIDAY
 
 * [![Free Shipping](/images/truck.png)FREE SHIPPING\* | Guaranteed Delivery](https://www.budgetpetcare.com/ship_returns.aspx)
     
@@ -135,7 +135,7 @@ Prices Starting at Only $22.99
 
 [![Revolution](https://budgetpetcare.b-cdn.net/images/Banners/revolution-sml.jpg)](https://www.budgetpetcare.com/revolution-for-dogs/dog-flea-and-tick-treatment-431.aspx?utm_source=suggested_products)
 
-Prices Starting at Only $66.98
+Prices Starting at Only $37.89
 
 Order using our App
 
