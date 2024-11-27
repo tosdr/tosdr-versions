@@ -19,7 +19,7 @@ Privacy Policy
 Who we are
 ----------
 
-Our website address is https://tmp-e52ew943eg1n.oatmealdome.me.
+Our website address is https://oatmealdome.me.
 
 Cookies
 -------
