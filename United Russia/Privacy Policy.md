@@ -299,45 +299,45 @@
 
 [Все новости](https://er.ru/activity/news)
 
-[![«Единая Россия» подготовила второй рейтинг региональных мер поддержки молодых ученых](https://cdn.er.ru/media/news/November2024/IgZkouPr30dxM6RyDsHA-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-podgotovila-vtoroj-rejting-regionalnyh-mer-podderzhki-molodyh-uchenyh)
+[![«Единая Россия» подготовила второй рейтинг региональных мер поддержки молодых учёных](https://cdn.er.ru/media/news/November2024/IgZkouPr30dxM6RyDsHA-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-podgotovila-vtoroj-rejting-regionalnyh-mer-podderzhki-molodyh-uchyonyh)
 
-[«Единая Россия» подготовила второй рейтинг региональных мер поддержки молодых ученых](https://er.ru/activity/news/edinaya-rossiya-podgotovila-vtoroj-rejting-regionalnyh-mer-podderzhki-molodyh-uchenyh)
+[«Единая Россия» подготовила второй рейтинг региональных мер поддержки молодых учёных](https://er.ru/activity/news/edinaya-rossiya-podgotovila-vtoroj-rejting-regionalnyh-mer-podderzhki-molodyh-uchyonyh)
 
 [#Мажуга](https://er.ru/activity/news?tags%5B0%5D=1091855) [#рейтинг](https://er.ru/activity/news?tags%5B0%5D=179) [#молодыеученые](https://er.ru/activity/news?tags%5B0%5D=127906) [#мерыподдержки](https://er.ru/activity/news?tags%5B0%5D=147555) [#Сириус](https://er.ru/activity/news?tags%5B0%5D=9137) [#Сочи](https://er.ru/activity/news?tags%5B0%5D=549)
 
-Сегодня 19:09
+27.11.24
 
 [![«Единая Россия» и Минэкономразвития проведут Всероссийскую встречу по вопросам поддержки НКО](https://cdn.er.ru/media/news/November2024/TucC4LuFU6hEkGQuWnTJ-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-i-minekonomrazvitiya-provedut-vserossijskuyu-vstrechu-po-voprosam-podderzhki-nko)
 
 [«Единая Россия» и Минэкономразвития проведут Всероссийскую встречу по вопросам поддержки НКО](https://er.ru/activity/news/edinaya-rossiya-i-minekonomrazvitiya-provedut-vserossijskuyu-vstrechu-po-voprosam-podderzhki-nko)
 
-[#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#Минэкономразвития](https://er.ru/activity/news?tags%5B0%5D=1786) [#НКО](https://er.ru/activity/news?tags%5B0%5D=1394) [#поддержкаНКО](https://er.ru/activity/news?tags%5B0%5D=127695) [#СоветСторонниковЕР](https://er.ru/activity/news?tags%5B0%5D=130514)
+[#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#Минэкономразвития](https://er.ru/activity/news?tags%5B0%5D=1786) [#НКО](https://er.ru/activity/news?tags%5B0%5D=1394) [#поддержкаНКО](https://er.ru/activity/news?tags%5B0%5D=127695) [#СоветСторонниковЕР](https://er.ru/activity/news?tags%5B0%5D=130514) [#реестр](https://er.ru/activity/news?tags%5B0%5D=2286)
 
-Сегодня 18:31
+27.11.24
 
 [![Добровольцами в зону спецоперации отправились ещё восемь представителей «Молодой Гвардии Единой России» и «Волонтёрской Роты»](https://cdn.er.ru/media/news/November2024/nNaTQCO7e1kCCeS95leb-small.jpg)](https://er.ru/activity/news/dobrovolcami-v-zonu-specoperacii-otpravilis-eshyo-vosem-predstavitelej-molodoj-gvardii-edinoj-rossii-i-volontyorskoj-roty)
 
 [Добровольцами в зону спецоперации отправились ещё восемь представителей «Молодой Гвардии Единой России» и «Волонтёрской Роты»](https://er.ru/activity/news/dobrovolcami-v-zonu-specoperacii-otpravilis-eshyo-vosem-predstavitelej-molodoj-gvardii-edinoj-rossii-i-volontyorskoj-roty)
 
-[#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#МолодаяГвардияЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094676) [#ВолонтерскаяРота](https://er.ru/activity/news?tags%5B0%5D=131631) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#военнослужащие](https://er.ru/activity/news?tags%5B0%5D=838)
+[#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#ВолонтерскаяРота](https://er.ru/activity/news?tags%5B0%5D=131631) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#военнослужащие](https://er.ru/activity/news?tags%5B0%5D=838)
 
-Сегодня 18:03
+27.11.24
 
 [![Секретарём Тамбовского реготделения «Единой России» избран врио губернатора Евгений Первышов](https://cdn.er.ru/media/news/November2024/UMyD8szUviX8ZKELq0pV-small.jpg)](https://er.ru/activity/news/sekretaryom-tambovskogo-regotdeleniya-edinoj-rossii-izbran-vrio-gubernatora-evgenij-pervyshov)
 
 [Секретарём Тамбовского реготделения «Единой России» избран врио губернатора Евгений Первышов](https://er.ru/activity/news/sekretaryom-tambovskogo-regotdeleniya-edinoj-rossii-izbran-vrio-gubernatora-evgenij-pervyshov)
 
-[#Тамбовская область](https://er.ru/activity/news?tags%5B0%5D=778) [#конференциярегиональногоотделения](https://er.ru/activity/news?tags%5B0%5D=128228) [#Первышов](https://er.ru/activity/news?tags%5B0%5D=101048)
+[#Тамбовская область](https://er.ru/activity/news?tags%5B0%5D=778) [#конференциярегиональногоотделения](https://er.ru/activity/news?tags%5B0%5D=128228) [#Первышов](https://er.ru/activity/news?tags%5B0%5D=101048) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
-Сегодня 17:46
+27.11.24
 
 [![В «Единой России» считают необходимым вернуть начальное профессиональное образование](https://cdn.er.ru/media/news/November2024/KEIhO0zcSVYaSKz7LGl9-small.jpg)](https://er.ru/activity/news/v-edinoj-rossii-schitayut-neobhodimym-vernut-nachalnoe-professionalnoe-obrazovanie)
 
 [В «Единой России» считают необходимым вернуть начальное профессиональное образование](https://er.ru/activity/news/v-edinoj-rossii-schitayut-neobhodimym-vernut-nachalnoe-professionalnoe-obrazovanie)
 
-[#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#Белых](https://er.ru/activity/news?tags%5B0%5D=9569) [#среднеепрофессиональноеобразование](https://er.ru/activity/news?tags%5B0%5D=120108) [#начальное образование](https://er.ru/activity/news?tags%5B0%5D=68424) [#образование](https://er.ru/activity/news?tags%5B0%5D=57)
+[#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#Белых](https://er.ru/activity/news?tags%5B0%5D=9569) [#среднеепрофессиональноеобразование](https://er.ru/activity/news?tags%5B0%5D=120108) [#образование](https://er.ru/activity/news?tags%5B0%5D=57)
 
-Сегодня 16:41
+27.11.24
 
 [![Владимир Якушев станет наставником в конкурсе «Лидеры России. Политика»](https://cdn.er.ru/media/news/November2024/2Dlq16r3ULMmM3LtHche-small.JPG)](https://er.ru/activity/news/vladimir-yakushev-stanet-nastavnikom-v-konkurse-lidery-rossii-politika)
 
@@ -345,7 +345,7 @@
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#наставничество](https://er.ru/activity/news?tags%5B0%5D=72627) [#Лидеры России](https://er.ru/activity/news?tags%5B0%5D=1094751) [#конкурс](https://er.ru/activity/news?tags%5B0%5D=360)
 
-Сегодня 15:19
+27.11.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
