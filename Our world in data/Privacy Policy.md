@@ -14,6 +14,8 @@ Subscribe
 
 [Donate](https://ourworldindata.org/donate)
 
+[It’s Giving Season. Help us do more with a donation.](https://ourworldindata.org/donate)
+
 Privacy policy
 ==============
 
