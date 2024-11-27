@@ -158,7 +158,17 @@ cross
     
 * Get started
     
-    [###### Boomi Discover](https://discover.boomi.com/)[###### Connectors](https://boomi.com/connectors/)[###### Community](https://community.boomi.com/s/)[###### Documentation](https://help.boomi.com/)[###### Training](https://boomi.com/services/training/)
+    [###### Boomi Discover
+    
+    Explore prebuilt solutions](https://discover.boomi.com/)[###### Connectors
+    
+    Connectors Connect 1.5k+ applications](https://boomi.com/connectors/)[###### Community
+    
+    Engage with 250k+ customers](https://community.boomi.com/s/)[###### Documentation
+    
+    Get to know our technical features](https://help.boomi.com/)[###### Training
+    
+    Access on-demand courses](https://boomi.com/services/training/)
     
 * [Login](https://platform.boomi.com/?_ga=2.140176439.544537635.1525375425-968405543.1525375425)
 
@@ -414,11 +424,21 @@ Search
 
 * Get started
     
-    * [Boomi Discover](https://discover.boomi.com/)
-    * [Connectors](https://boomi.com/connectors/)
-    * [Community](https://community.boomi.com/s/)
-    * [Documentation](https://help.boomi.com/)
-    * [Training](https://boomi.com/services/training/)
+    * [Boomi Discover
+        
+        Explore prebuilt solutions](https://discover.boomi.com/)
+    * [Connectors
+        
+        Connectors Connect 1.5k+ applications](https://boomi.com/connectors/)
+    * [Community
+        
+        Engage with 250k+ customers](https://community.boomi.com/s/)
+    * [Documentation
+        
+        Get to know our technical features](https://help.boomi.com/)
+    * [Training
+        
+        Access on-demand courses](https://boomi.com/services/training/)
     
 * [Login](https://platform.boomi.com/?_ga=2.140176439.544537635.1525375425-968405543.1525375425)
 
