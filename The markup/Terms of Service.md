@@ -29,7 +29,7 @@ Search term
 * [Mastodon](https://mastodon.themarkup.org/@themarkup)
 * [RSS Feed](https://themarkup.org/feeds/rss.xml)
 
-[Reader support powers The Markup. Donate today.](https://themarkup.org/donate-stripe-202411)
+[Shine a light on tech’s hidden impacts. Triple your donation.](https://themarkup.org/donate-stripe-202411)
 
 [Skip navigation](#content)
 
