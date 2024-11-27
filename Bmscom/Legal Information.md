@@ -196,7 +196,10 @@ Other Markets
 
 bmsUScqPageLucene
 
-[Medicines >](https://www.bms.com/patient-and-caregivers/our-medicines.html) [Careers >](https://careers.bms.com/jobs) [Press Releases >](https://news.bms.com/) [Medical Information >](https://www.bmsmedinfo.com/)
+* [Medicines >](https://www.bms.com/patient-and-caregivers/our-medicines.html)
+* [Careers >](https://careers.bms.com/jobs)
+* [Press Releases >](https://news.bms.com/)
+* [Medical Information >](https://www.bmsmedinfo.com/)
 
 _Previous Page Icon_
 
@@ -206,7 +209,8 @@ Our Medicines
 
 Patients & caregivers
 
-[Patients & caregivers](https://www.bms.com/patient-and-caregivers.html)
+[Patients & caregivers
+---------------------](https://www.bms.com/patient-and-caregivers.html)
 
 [Our medicines](https://www.bms.com/patient-and-caregivers/our-medicines.html)
 
@@ -220,7 +224,7 @@ Patients & caregivers
 
 [Plain language summaries of clinical trial results](https://www.bms.com/patient-and-caregivers/plain-language-summary.html)
 
-Related links
+### Related links
 
 [Immunology patient resources](https://www.bms.com/patient-and-caregivers/patient-resources-by-condition/immunology-resources.html)
 
@@ -232,7 +236,8 @@ Related links
 
 Healthcare providers
 
-[Healthcare providers](https://www.bms.com/healthcare-providers.html)
+[Healthcare providers
+--------------------](https://www.bms.com/healthcare-providers.html)
 
 [Learn about pre-approval access](https://www.bms.com/healthcare-providers/early-patient-access-to-investigational-medicine.html)
 
@@ -240,7 +245,7 @@ Healthcare providers
 
 [340B practice fact sheet](https://www.bms.com/assets/bms/us/en-us/pdf/BMS-340B-Practice-Fact-Sheet.pdf)
 
-Related links
+### Related links
 
 [U.S. medical information](http://www.bmsmedinfo.com/)
 
@@ -248,7 +253,8 @@ Related links
 
 Researchers
 
-[Researchers](https://www.bms.com/researchers-and-partners.html)
+[Researchers
+-----------](https://www.bms.com/researchers-and-partners.html)
 
 [Areas of focus](https://www.bms.com/researchers-and-partners/areas-of-focus.html)
 
@@ -262,7 +268,7 @@ Researchers
 
 [Independent research](https://www.bms.com/researchers-and-partners/independent-research.html)
 
-Related links
+### Related links
 
 [Research publications](https://www.bms.com/researchers-and-partners/our-r-and-d-team/research-publications.html)
 
@@ -276,7 +282,8 @@ Related links
 
 Investors
 
-[Investors](https://www.bms.com/investors.html)
+[Investors
+---------](https://www.bms.com/investors.html)
 
 [Stock information](https://www.bms.com/investors/stock-information.html)
 
@@ -290,7 +297,7 @@ Investors
 
 [Investor contacts](https://www.bms.com/investors/investor-contacts.html)
 
-Related links
+### Related links
 
 [Annual reports](https://www.bms.com/investors/financial-reporting/annual-reports.html)
 
@@ -304,7 +311,8 @@ Related links
 
 Business development
 
-[Business development](https://www.bms.com/business-development.html)
+[Business development
+--------------------](https://www.bms.com/business-development.html)
 
 [Our partnerships](https://www.bms.com/business-development/existing-partners.html)
 
@@ -318,7 +326,7 @@ Business development
 
 [Contact Business Development](https://www.bms.com/business-development/begin-discussion.html)
 
-Related links
+### Related links
 
 [Download business development brochure](https://www.bms.com/assets/bms/us/en-us/pdf/bms-business-development-brochure.pdf)
 
@@ -326,7 +334,8 @@ Related links
 
 News & media
 
-[News & media](https://www.bms.com/media.html)
+[News & media
+------------](https://www.bms.com/media.html)
 
 [Press releases](https://www.bms.com/media/press-releases.html)
 
@@ -336,7 +345,7 @@ News & media
 
 [Media contacts](https://www.bms.com/media/media-contacts.html)
 
-Related links
+### Related links
 
 [Scientific media resources](https://www.bms.com/media/media-library/scientific-media-resources.html)
 
@@ -346,7 +355,8 @@ Related links
 
 About us
 
-[About us](https://www.bms.com/about-us.html)
+[About us
+--------](https://www.bms.com/about-us.html)
 
 [Our company](https://www.bms.com/about-us/our-company.html)
 
@@ -362,7 +372,7 @@ About us
 
 [Contact us](https://www.bms.com/about-us/contact-us.html)
 
-Related links
+### Related links
 
 [Global Patient Week](https://www.bms.com/about-us/our-company/global-patient-week.html)
 
