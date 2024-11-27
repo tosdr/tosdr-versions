@@ -308,7 +308,7 @@ You must confirm the double-opt email sent in order to complete the signup proce
 
 When subscribing, your email address is submitted to MailerLite which manages our newsletter system. [See their privacy policy.](https://www.mailerlite.com/legal/privacy-policy)
 
-[Github](https://github.com/LeastAuthority) [Linkedin](https://www.linkedin.com/company/leastauthority/) [](https://twitter.com/LeastAuthority)[Youtube](https://www.youtube.com/channel/UCemZol-P7c9_WxewG0S9j5Q)[](https://mastodon.social/@LeastAuthority)
+[Github](https://github.com/LeastAuthority) [Linkedin](https://www.linkedin.com/company/leastauthority/) [](https://twitter.com/LeastAuthority)[Youtube](https://www.youtube.com/channel/UCemZol-P7c9_WxewG0S9j5Q)[](https://mastodon.social/@LeastAuthority)[](https://bsky.app/profile/leastauthority.bsky.social)
 
 © Least Authority 2021    |   [Privacy Policy](https://leastauthority.com/privacy-policy)   |   [Imprint    |](http://www.leastauthority.com/imprint)    [Contact Us](https://leastauthority.com/contact-us)
 
