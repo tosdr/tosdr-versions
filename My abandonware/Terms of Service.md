@@ -107,11 +107,11 @@ Top downloads
 
 Latest releases
 
+* [Rakuen no Guardian](https://www.myabandonware.com/game/rakuen-no-guardian-tbg)
+* [Alien 8](https://www.myabandonware.com/game/alien-8-6m5)
 * [Giant Killers 2](https://www.myabandonware.com/game/giant-killers-2-tbc)
 * [Giant Killers Euro Manager 2000](https://www.myabandonware.com/game/giant-killers-euro-manager-2000-tbb)
 * [All Dogs Go to Heaven Activity Center](https://www.myabandonware.com/game/all-dogs-go-to-heaven-activity-center-huz)
-* [Giant Killers](https://www.myabandonware.com/game/giant-killers-tba)
-* [Unreal Tournament: Game of the Year Edition](https://www.myabandonware.com/game/unreal-tournament-game-of-the-year-edition-d47)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
