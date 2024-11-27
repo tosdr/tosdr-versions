@@ -20,11 +20,11 @@
 * [About](https://www.interpublic.com/about/ "About")
     * [Leadership](https://www.interpublic.com/about/leadership/ "Leadership")
     * [Board of Directors](https://www.interpublic.com/about/leadership#board-of-directors "Board of Directors")
-    * [Interact](https://www.interpublic.com/about/interact/ "Interact")
-    * [Collective Intelligence](https://www.interpublic.com/about/collective-intelligence/ "Collective Intelligence")
     * [Corporate Governance](https://www.interpublic.com/about/corporate-governance/ "Corporate Governance")
-    * [Supplier Management](https://www.interpublic.com/about/supplier-management/ "Supplier Management")
+    * [Interact](https://www.interpublic.com/about/interact/ "Interact")
     * [IPG Commerce](https://www.interpublic.com/about/ipg-commerce/ "IPG Commerce")
+    * [Collective Intelligence](https://www.interpublic.com/about/collective-intelligence/ "Collective Intelligence")
+    * [Supplier Management](https://www.interpublic.com/about/supplier-management/ "Supplier Management")
 
 [Menu](# "Menu") [Search](# "Search")
 
