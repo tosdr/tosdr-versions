@@ -52,7 +52,7 @@ Hardware
     
     [Atari 7800+](https://www.atari.com/collections/7800)
     
-    [Atari 400 Mini](https://www.atari.com/collections/atari-400-mini-collection)
+    [Atari 400 Mini](https://www.atari.com/products/atari-400-mini-1)
     
     [Atari VCS](https://atari.com/pages/atari-vcs)
 
@@ -94,7 +94,7 @@ Featured
     
     [Atari 7800+](https://www.atari.com/collections/7800)
     
-    [Atari 400 Mini](https://www.atari.com/collections/atari-400-mini-collection)
+    [Atari 400 Mini](https://www.atari.com/products/atari-400-mini-1)
     
     [Atari VCS](https://atari.com/pages/atari-vcs)
 
@@ -431,7 +431,7 @@ SHOP NOW](https://www.atari.com/pages/holiday-gift-guides)
 
 ### BLACK FRIDAY DEALS
 
-[![Black Friday Exclusive: 7800+ Console w/ 2 Wireless Controllers](files/7800_ControllerBundle_6d228362-75ff-44ce-a5f0-01275f047490.jpg)
+[![Black Friday Exclusive: 7800+ Console w/ 2 Wireless Controllers](files/7800_ControllerBundle_ac00091b-dc0f-4116-9738-d7ed57de3ea7.jpg)
 
 ![Black Friday Exclusive: 7800+ Console w/ 2 Wireless Controllers](files/Atari_10102024_257_d6a2d153-b144-4fde-8c48-240d70c7d610.jpg)
 
