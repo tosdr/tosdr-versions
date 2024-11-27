@@ -157,7 +157,7 @@
 
 13 November 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/community-radio/greater-flexibility-for-community-radio-stations-to-serve-local-listeners/)
 
- [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/cookies-policy/ "Switch to Welsh")
+ [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/cookies-policy/?language=cy "Switch to Welsh")
 
 1. [Home](https://www.ofcom.org.uk/)
 2. [About Ofcom](https://www.ofcom.org.uk/about-ofcom/)
