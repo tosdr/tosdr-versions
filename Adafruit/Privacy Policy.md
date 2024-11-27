@@ -1,3 +1,5 @@
+Hack the Holidays! Use code acidburn15 for 15% off! [Some restrictions apply](https://blog.adafruit.com/2024/11/27/acidburn15/).
+
   Skip Navigation
 
  [![Adafruit Logo](/includes/templates/shop2019/images/adafruit_logo_small.png "Adafruit")](https://www.adafruit.com/)toggle menu
@@ -404,9 +406,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ I am one of the people who love the why of things”
+“ You just keep pushing. You just keep pushing. I made every mistake that could be made. But I just kept pushing”
 
-[Catherine the Great](http://en.wikipedia.org/wiki/Catherine_the_Great)
+[René Descartes](http://en.wikipedia.org/wiki/Ren%C3%A9_Descartes)
 
 [](https://www.adafruit.com/about)
 
