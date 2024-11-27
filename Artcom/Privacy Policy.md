@@ -2,11 +2,11 @@ Shop Now
 
 30% Off Everything\* Ends in..
 
-4DAYS16HRS16MINS
+4DAYS10HRS6MINS
 
 30% Off Everything\* Ends in..
 
-4DAYS16HRS16MINS
+4DAYS10HRS6MINS
 
 Shop Now
 
