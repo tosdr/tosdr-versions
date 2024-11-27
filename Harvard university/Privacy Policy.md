@@ -123,7 +123,17 @@ Menu
     
     **[In Focus](https://www.harvard.edu/in-focus/)** Explore a curated examination of Harvard's research, scholarly work, and community. Recent topics include:
     
-    1. Food
+    1. HIV/AIDS
+        
+        In Focus
+        
+        **HIV/AIDS** For more than 40 years, the Harvard community has been working to understand the disease and treat those affected. Now, with life-changing treatments available and potential cures on the horizon, we may be entering a new phase of the epidemic. [Explore the research](https://www.harvard.edu/in-focus/hiv-aids/)
+        
+        1. **What's inside**
+            1. [**Beginning of the end of the HIV epidemic?**](https://news.harvard.edu/gazette/story/2024/07/beginning-of-end-of-hiv-epidemic-aids-lenacapavir/)
+            2. [**Improving life expectancy for youth with HIV in the U.S.**](https://www.hsph.harvard.edu/news/hsph-in-the-news/improving-life-expectancy-for-youth-with-hiv-in-u-s/)
+        
+    2. Food
         
         In Focus
         
@@ -133,7 +143,7 @@ Menu
             1. [**Explore why we crave junk food**](https://news.harvard.edu/gazette/story/2024/09/why-do-we-crave-junk-food-diet-psychology/)
             2. [**Learn the chemistry and physics of cooking**](https://pll.harvard.edu/catalog?keywords=cooking)
         
-    2. The Enhanced Body
+    3. The Enhanced Body
         
         In Focus
         
@@ -141,16 +151,6 @@ Menu
         
         1. 1. [**The progress of dental implants**](https://news.harvard.edu/gazette/story/2024/10/daniel-buser-honored-at-harvard-school-of-dental-medicine/)
             2. [**The innovation of wearable robotics**](https://gsas.harvard.edu/news/walk-robot)
-        
-    3. Veterans
-        
-        In Focus
-        
-        **Tradition of Service** Harvard celebrates the long, proud legacy of students and alumni who answer the call to military service. [Explore Harvard's military legacy](https://www.harvard.edu/in-focus/veterans/)
-        
-        1. **What's inside**
-            1. [**Harvard and the military**](https://news.harvard.edu/gazette/story/series/harvard-and-the-military/)
-            2. [**The long Crimson line**](https://news.harvard.edu/gazette/story/2024/11/number-of-armed-services-veterans-at-harvard-on-the-rise/)
         
     
 4. Visit
@@ -210,8 +210,8 @@ Menu
         [Read more news](http://news.harvard.edu/)
         
         1. [**8 Harvard students named Rhodes Scholars** 5 in U.S. class, most for any institution, joined by 3 international recipients](https://news.harvard.edu/gazette/story/2024/11/8-harvard-students-named-rhodes-scholars/)
-        2. [**Is cheese bad for you?** Nutritionist explains why you’re probably eating way too much](https://news.harvard.edu/gazette/story/2024/11/is-cheese-bad-for-you/)
-        3. [**Too much sitting hurts the heart** Even with exercise, sedentary behavior can increase risk of heart failure by up to 60%, according to study](https://news.harvard.edu/gazette/story/2024/11/study-finds-too-much-sitting-hurts-the-heart/)
+        2. [**Rhodes scholars share their Oxford ambitions**   8 students to pursue social, political, computational sciences](https://news.harvard.edu/gazette/story/2024/11/rhodes-scholars-share-their-oxford-ambitions/)
+        3. [**What Trump got right** Kellyanne Conway, president-elect’s 2016 campaign manager and former senior adviser, discusses election, what comes next](https://news.harvard.edu/gazette/story/2024/11/what-trump-got-right/)
         
     2. [Sign up for the Daily Gazette](https://www.pages01.net/harvard/gazette?email=)
     
