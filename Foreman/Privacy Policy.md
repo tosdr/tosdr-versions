@@ -14,7 +14,7 @@
     
 * News
     
-    [Blog](https://theforeman.org/blog/index.html) [Events](https://theforeman.org/events) [Community Demos](https://theforeman.org/demos/) [Videos](https://theforeman.org/media.html) [Security](https://theforeman.org/security.html)
+    [Blog](https://theforeman.org/blog/index.html) [Events](https://community.theforeman.org/c/events/l/calendar) [Community Demos](https://theforeman.org/demos/) [Videos](https://theforeman.org/media.html) [Security](https://theforeman.org/security.html)
     
 
 Foreman Privacy Policy
@@ -173,9 +173,9 @@ Changes to this Privacy Statement
 
 Foreman reserves the right to update this policy from time to time. Material changes will be posted to the [Announcements list](https://community.theforeman.org/c/release-announcements) and posted to the front page of the [website](https://theforeman.org/). This policy was last updated on 10th May 2024.
 
-Foreman 3.12.0 has been released! [Follow the quick start to install it.](https://theforeman.org/manuals/3.12/quickstart_guide.html)
+Foreman 3.12.1 has been released! [Follow the quick start to install it.](https://theforeman.org/manuals/3.12/quickstart_guide.html)
 
-Foreman 3.11.4 has been released! [Follow the quick start to install it.](https://theforeman.org/manuals/3.11/quickstart_guide.html)
+Foreman 3.11.5 has been released! [Follow the quick start to install it.](https://theforeman.org/manuals/3.11/quickstart_guide.html)
 
 View our [Privacy Policy](https://theforeman.org/privacy.html)
 
