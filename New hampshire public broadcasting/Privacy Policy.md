@@ -192,7 +192,7 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 * [**Season 5 Official Preview** | All Creatures Great and Small](https://video.nhpbs.org/video/season-5-official-preview-fhagmb?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Appraisal: Enamel Turkey Brooch, ca. 1940** | Antiques Roadshow](https://video.nhpbs.org/video/appraisal-enamel-turkey-brooch-ca-1940-ljnnzy?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**November 25, 2024** | Amanpour and Company](https://video.nhpbs.org/video/november-25-2024-vlazpq?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Science of Mars' Retrograde December 2 - December 8** | Star Gazers](https://video.nhpbs.org/video/science-of-mars-retrograde-december-2-december-8-2rs7eu?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Find Zelda's Giant Rupee December 9 - December 15** | Star Gazers](https://video.nhpbs.org/video/find-zeldas-giant-rupee-december-9-december-15-clb9ai?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
