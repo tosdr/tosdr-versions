@@ -301,3 +301,13 @@ English, Spanish, Chinese/Mandarin, French, Korean, Vietnamese, Persian/Farsi, T
 © 2024 Jewish Social Services Agency
 
 Back to Top
+
+[![](https://www.jssa.org/wp-content/uploads/2024/10/Goal-Reach-375-Families-In-Need.-1.jpg)](https://www.jssa.org/givingtuesday/?segmentCode=CLW112500100)
+
+### Support Neighbors in Need on Giving Tuesday
+
+Help JSSA provide gift cards to local families who rely on JSSA for support and make the holidays a little brighter! Your Giving Tuesday gift will provide direct support for neighbors in need!
+
+[DONATE NOW](https://www.jssa.org/givingtuesday/?segmentCode=CLW112500100 "Inquiry Form")
+
+CLOSE
