@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.kagstv.com/assets/KAGS/images/66c1844b-29a1-41e2-bd53-5fc440d5ceea/66c1844b-29a1-41e2-bd53-5fc440d5ceea_16x9.jpg) ![](https://media.kagstv.com/assets/KAGS/images/66c1844b-29a1-41e2-bd53-5fc440d5ceea/66c1844b-29a1-41e2-bd53-5fc440d5ceea_360x203.jpg)](https://www.kagstv.com/article/news/crime/nov-2024-college-station-search-warrant-arrest/500-b6b945a2-00e3-4d73-a3db-6b9de1cb11cc)
+        
+        #### [One in custody, three detained after high-risk search warrant connected to College Station shooting investigation](https://www.kagstv.com/article/news/crime/nov-2024-college-station-search-warrant-arrest/500-b6b945a2-00e3-4d73-a3db-6b9de1cb11cc)
+        
     *  [![](https://media.kagstv.com/assets/KAGS/images/38821079-9e13-4031-87ae-a84324ea1539/38821079-9e13-4031-87ae-a84324ea1539_16x9.jpg) ![](https://media.kagstv.com/assets/KAGS/images/38821079-9e13-4031-87ae-a84324ea1539/38821079-9e13-4031-87ae-a84324ea1539_360x203.jpg)](https://www.kagstv.com/article/news/crime/four-shots-fired-calls-bryan-college-station-believed-connected-police-say/500-3ac56ba5-65c4-485c-b28b-cf8d8259cb07)
         
         #### [Four shots fired calls across Bryan-College Station believed to be connected, police say](https://www.kagstv.com/article/news/crime/four-shots-fired-calls-bryan-college-station-believed-connected-police-say/500-3ac56ba5-65c4-485c-b28b-cf8d8259cb07)
-        
-    *  [![](https://media.kagstv.com/assets/KAGS/images/4c1b7249-ccec-4fef-a77b-3ec47a8806a8/4c1b7249-ccec-4fef-a77b-3ec47a8806a8_16x9.png) ![](https://media.kagstv.com/assets/KAGS/images/4c1b7249-ccec-4fef-a77b-3ec47a8806a8/4c1b7249-ccec-4fef-a77b-3ec47a8806a8_360x203.png)](https://www.kagstv.com/article/news/local/pepes-mexican-cafe-in-bryan-robbed-nov-2024/500-7e9b3a56-20bb-42ea-83e5-7c256c3a74e7)
-        
-        #### [Pepe's Mexican Cafe in Bryan considering going cashless after thieves break in, steal cash drawers](https://www.kagstv.com/article/news/local/pepes-mexican-cafe-in-bryan-robbed-nov-2024/500-7e9b3a56-20bb-42ea-83e5-7c256c3a74e7)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-54°
+61°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
