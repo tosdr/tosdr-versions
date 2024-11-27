@@ -223,7 +223,7 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [Smart Products Surveyed Fail to Provide Consumers with Information on How Long Companies will Provide Software Updates](https://www.ftc.gov/news-events/news/press-releases/2024/11/smart-products-surveyed-fail-provide-consumers-information-how-long-companies-will-provide-software)
+    ### [Statement Regarding Union Health’s COPA Application Withdrawal](https://www.ftc.gov/news-events/news/press-releases/2024/11/statement-regarding-union-healths-copa-application-withdrawal)
     
     November 26, 2024
     
