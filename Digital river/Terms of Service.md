@@ -1491,7 +1491,7 @@ English
 * [Connector Solution](https://docs.digitalriver.com/digital-river-api/)
 * [Commerce Solution](https://docs.digitalriver.com/commerce-api/)
 * [MyCommerce](https://account.mycommerce.com/home/wiki)
-* [Partner Integrations](https://docs.digitalriver.com/digital-river-api/developer-resources/standards-and-certifications)
+* [Partner Integrations](https://docs.digitalriver.com/partner-integrations/partner-integration-program)
 
 ##### [Legal Documentation](https://www.digitalriver.com/legal-information/)
 
