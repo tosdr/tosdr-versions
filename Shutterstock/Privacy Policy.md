@@ -10,8 +10,6 @@
 
 [Enterprise](https://www.shutterstock.com/business)
 
-[0 Credits Available](https://www.shutterstock.com/pricing)
-
 [Pricing](https://www.shutterstock.com/pricing)
 
 [](https://www.shutterstock.com/signup?site=image)
