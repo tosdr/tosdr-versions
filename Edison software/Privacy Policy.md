@@ -195,13 +195,13 @@ _Combined Information._ For the purposes discussed in this Policy, we may combi
 
 _Aggregate/Anonymous data._ We may aggregate and/or anonymize any information collected through the Services. We may use aggregated or anonymized information for any purpose, including for research and marketing purposes, and we may also share such information for any purpose with any third parties, at our discretion.
 
+_Service Providers & Vendors_**.** We may transfer personal information to service providers (including affiliates where operate in that role) that assist our business operations, including by hosting our Services and providing email communication, customer support services, application development, data storage, maintenance, marketing, security, and analytics (“Service Providers”). This includes advertising service providers and vendors, which help us advertise our Services to you. Please see Section 6 for your choices regarding how we disclose personal information in this way.
+
 **4\. HOW WE DISCLOSE INFORMATION**
 
 We disclose the information described above as follows.
 
 **Subscribers.**We provide De-identified Data to businesses that subscribe to our commercial services. As noted above, we also prohibit subscribers from re-identifying individuals from whom De-identified Data is derived.
-
-**Service Providers & Vendors.** We may disclose information to service providers (including affiliates where operate in that role) that assist our business operations, including by hosting our Services and providing email communication, customer support services, application development, data storage, maintenance, marketing, security, and analytics (“Service Providers”). This includes advertising service providers and vendors, which help us advertise our Services to you. Please see Section 6 for your choices regarding how we disclose information in this way.
 
 **Legal Compliance.** We may disclose your information as permitted or required by law, including to comply with legal process served on us or our affiliates to provide information to law enforcement or regulatory agencies, or in connection with an investigation on matters related to public safety. We may also disclose your information to enforce our Terms or this Policy, take precautions against liability, investigate and defend ourselves against any third-party claims or allegations, protect the security or integrity of the Services, or protect the rights, property, or personal safety of ourselves or others.
 
@@ -255,19 +255,23 @@ If you are residing outside the US, please note that information collected throu
 
 If you are a resident of a European Economic Area (EEA) country, the UK, or Switzerland, you may have certain additional privacy rights. Visit our Additional Information for [EEA, UK, and Swiss Residents page](https://www.edison.tech/eu-residents) for more information.
 
-**11\. CHILDREN’S PRIVACY**
+**11\. ADDITIONAL INFORMATION FOR CANADIAN RESIDENTS**
+
+If you are a resident of Canada, you may have certain additional privacy rights. Visit our Additional Information for [Canadian Residents page](https://www.edison.tech/canada-residents) for more information.
+
+**12\. CHILDREN’S PRIVACY**
 
 Our services are not directed to or intended for use by persons under the age of 16 and we do not knowingly collect or otherwise process personal information from children under the age of 16. If we become aware that a person under the age of 16 has opened an account or provided us with personal information, we will immediately delete the account and any such personal information.
 
-**12\. LINKS TO OTHER SITES**
+**13\. LINKS TO OTHER SITES**
 
 Our Services may contain links to other sites that are not under our control and have their own privacy policies. Please read over the rules and policies of third-party sites before you proceed to use them. We are not responsible for the acts, omissions, or content linked on websites, and we provide these links solely for the convenience and information of our users. We make no representations as to the accuracy or suitability of information on third-party sites.
 
-**13\. PRIVACY POLICY UPDATES**
+**14\. PRIVACY POLICY UPDATES**
 
 We may update this Policy from time to time in our sole discretion, so you should review this Policy periodically. When we change the Policy, we will update the “last revised date” at the top of this Policy. Changes to this Policy are effective when they are posted on this page. Your continued use of our Services after the revised Policy has become effective indicates that you have read, understood, and agreed to the current version of the Policy.
 
-**14\. GOOGLE USER DATA**
+**15\. GOOGLE USER DATA**
 
 Notwithstanding anything else in this Privacy Policy, consumer Gmail account information obtained via the Gmail APIs, is subject to these additional restrictions:
 
@@ -281,7 +285,7 @@ These restrictions **do not apply** if you have created an App password for th
 
 The Services’ use and transfer to any other app of information received from Google APIs will adhere to Google API Services User Data Policy.
 
-**15\. ACCESS RIGHTS for EU, UK, AND SWISS Residents**
+**16\. ACCESS RIGHTS for EU, UK, AND SWISS Residents**
 
 The Right to Access: You have the right to request we provide access to and/or a copy of the personal data we process about you, confirmation of whether we process personal data about you, and certain information about such personal data and/or our processing of it.
 
@@ -302,7 +306,7 @@ The Right to Lodge a Complaint: You have the right to lodge a complaint with the
 
 To exercise any of these rights (except the right to lodge a complaint), please complete our [privacy request form](https://yipit.clarip.com/dsr/create?brand=EDISONMAIL).
 
-**16\. EU-U.S. Data Privacy Framework with UK Extension, and Swiss-U.S. Data Privacy Framework**
+**17\. EU-U.S. Data Privacy Framework with UK Extension, and Swiss-U.S. Data Privacy Framework**
 
 Edison complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce.  Edison has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) under the UK Extension to the EU-U.S. DPF.  Edison has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF.  If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern.  To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/).
 
