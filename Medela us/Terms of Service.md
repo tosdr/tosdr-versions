@@ -305,37 +305,53 @@ Close
 How we turn Science into Care
 -----------------------------
 
-[![](/000-homepage/8139/image-thumb__8139__card/symphony_home_rental_hp.5b7c25fe.jpg)
+[![](/000-homepage/8139/image-thumb__8139__card/symphony_home_rental_hp.5b7c25fe.jpg)](https://www.medela.us/en-us/breastfeeding-pumping/products)
 
 ### We got you, Mama
 
-Breastfeeding solutions, not just products.](https://www.medela.us/en-us/breastfeeding-pumping/products)[![](/000-homepage/8138/image-thumb__8138__card/symphony_hospital_hp.9befbebb.jpg)
+Breastfeeding solutions, not just products.
+
+[Find out more](https://www.medela.us/en-us/breastfeeding-pumping/products)
+
+[![](/000-homepage/8138/image-thumb__8138__card/symphony_hospital_hp.9befbebb.jpg)](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals)
 
 ### Supporting you supporting moms
 
-Our service for lactation professionals](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals)[![Doctors in an operating room with a patient. The room can be seen from the center to the ceiling, the patient himself is not depicted.](/200-surgical-and-woundcare/3605/image-thumb__3605__card/jcr_content.6bbe73d8.jpg)
+Our service for lactation professionals
+
+[Find out more](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals)
+
+[![Doctors in an operating room with a patient. The room can be seen from the center to the ceiling, the patient himself is not depicted.](/200-surgical-and-woundcare/3605/image-thumb__3605__card/jcr_content.6bbe73d8.jpg)](https://www.medela.us/en-us/surgical-woundcare)
 
 ### Trusted medical vacuum solutions
 
-Digital drainage and surgical suction](https://www.medela.us/en-us/surgical-woundcare)
+Digital drainage and surgical suction
 
-[![](/000-homepage/8139/image-thumb__8139__card/symphony_home_rental_hp.5b7c25fe.jpg)
+[Find out more](https://www.medela.us/en-us/surgical-woundcare)
+
+[![](/000-homepage/8139/image-thumb__8139__card/symphony_home_rental_hp.5b7c25fe.jpg)](https://www.medela.us/en-us/breastfeeding-pumping/products)
 
 ### We got you, Mama
 
-Breastfeeding solutions, not just products.](https://www.medela.us/en-us/breastfeeding-pumping/products)
+Breastfeeding solutions, not just products.
 
-[![](/000-homepage/8138/image-thumb__8138__card/symphony_hospital_hp.9befbebb.jpg)
+[Find out more](https://www.medela.us/en-us/breastfeeding-pumping/products)
+
+[![](/000-homepage/8138/image-thumb__8138__card/symphony_hospital_hp.9befbebb.jpg)](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals)
 
 ### Supporting you supporting moms
 
-Our service for lactation professionals](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals)
+Our service for lactation professionals
 
-[![Doctors in an operating room with a patient. The room can be seen from the center to the ceiling, the patient himself is not depicted.](/200-surgical-and-woundcare/3605/image-thumb__3605__card/jcr_content.6bbe73d8.jpg)
+[Find out more](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals)
+
+[![Doctors in an operating room with a patient. The room can be seen from the center to the ceiling, the patient himself is not depicted.](/200-surgical-and-woundcare/3605/image-thumb__3605__card/jcr_content.6bbe73d8.jpg)](https://www.medela.us/en-us/surgical-woundcare)
 
 ### Trusted medical vacuum solutions
 
-Digital drainage and surgical suction](https://www.medela.us/en-us/surgical-woundcare)
+Digital drainage and surgical suction
+
+[Find out more](https://www.medela.us/en-us/surgical-woundcare)
 
 ![Mother holding baby and both smiling at one another](/300-about-medela/science-of-care/observing-research/4693/image-thumb__4693__text-image-hero/science-of-care-baby-smiles-at-her-mother-2-.82e8d724.jpg)
 
