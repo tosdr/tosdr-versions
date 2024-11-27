@@ -65,6 +65,12 @@ Huawei Central
     
 * [Wearables](https://www.huaweicentral.com/category/wearables/)
     
+    * [![Huawei Watch D2 China](https://www.huaweicentral.com/wp-content/uploads/2024/11/Watch-D2-1-400x240.jpg)
+        
+        Huawei Watch D2 blood pressure wearable launched in China](https://www.huaweicentral.com/huawei-watch-d2-blood-pressure-wearable-launched-in-china/)
+    * [![Huawei Watch Ultimate Sapphire Gold](https://www.huaweicentral.com/wp-content/uploads/2024/11/Watch-Ultimate-Gold-Edition-400x240.jpg)
+        
+        Huawei introduces Watch Ultimate Design Sapphire Gold Edition](https://www.huaweicentral.com/huawei-introduces-watch-ultimate-design-sapphire-gold-edition/)
     * [![Huawei Watch D2 pre-sale China](https://www.huaweicentral.com/wp-content/uploads/2024/11/Watch-D2-pre-sale-400x240.jpg)
         
         Huawei Watch D2 wearable open for pre-sale in China](https://www.huaweicentral.com/huawei-watch-d2-wearable-open-for-pre-sale-in-china/)
@@ -74,12 +80,6 @@ Huawei Central
     * [![Huawei Q3 2024 Chinese wearable](https://www.huaweicentral.com/wp-content/uploads/2024/10/WatchGT5-400x240.jpg)
         
         Huawei ranks first in Q3 2024 Chinese wearable market, beating Apple](https://www.huaweicentral.com/huawei-ranks-first-in-q3-2024-chinese-wearable-market-beating-apple/)
-    * [![Huawei Watch GT 5 Pro October 2024 update](https://www.huaweicentral.com/wp-content/uploads/2024/10/Watch-GT-5-Pro-1-400x240.jpg)
-        
-        Huawei Watch GT 5 Pro gets October 2024 improvements update](https://www.huaweicentral.com/huawei-watch-gt-5-pro-gets-october-2024-improvements-update/)
-    * [![Huawei Watch Ultimate Green Edition China](https://www.huaweicentral.com/wp-content/uploads/2024/10/Green-Edition-1-400x240.jpg)
-        
-        Huawei launches Watch Ultimate Green Edition in China with dual-tone bezel](https://www.huaweicentral.com/huawei-launches-watch-ultimate-green-edition-in-china-with-dual-tone-bezel/)
     
 * [Contact Us](https://www.huaweicentral.com/contact/)
 
