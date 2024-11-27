@@ -664,12 +664,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fest­geld: Plutus Money täuscht Anleger](https://www.test.de/Festgeld-Plutus-Capital-taeuscht-Anleger-6062884-0/ "Festgeld - Plutus Money täuscht Anleger")
-* [Technologie-Aktienfonds: Geld anlegen mit künst­licher Intelligenz](https://www.test.de/Technologie-Aktienfonds-Geld-anlegen-mit-kuenstlicher-Intelligenz-5978907-0/ "Technologie-Aktienfonds - Geld anlegen mit künstlicher Intelligenz")
-* [Anleger­schutz: Betrug mit Kryptowährungen](https://www.test.de/Anlegerschutz-Betrug-mit-Kryptowaehrungen-5954720-0/ "Anlegerschutz - Betrug mit Kryptowährungen")
-* [Insolvenz von Welt­bild: Jetzt eBooks und Hörbucher sichern](https://www.test.de/Insolvenz-von-Weltbild-Jetzt-eBooks-und-Hoerbucher-sichern-6147571-0/ "Insolvenz von Weltbild - Jetzt eBooks und Hörbucher sichern")
-* [Verpackungs­ärger: Alterra Slee­ping Cream](https://www.test.de/Verpackungsaerger-Alterra-Sleeping-Cream-6095379-0/ "Verpackungsärger - Alterra Sleeping Cream")
-* [Ratgeber Hilfe, ich habe geerbt: Formulare zum Download](https://www.test.de/Ratgeber-Hilfe-ich-habe-geerbt-Formulare-zum-Download-6038257-0/ "Ratgeber Hilfe, ich habe geerbt - Formulare zum Download")
+* [Strom­preisbremse-Rechner: Was Ihnen die Strom­preisbremse bringt](https://www.test.de/Strompreisbremse-Rechner-So-viel-bringt-die-Strompreisbremse-5978005-0/ "Strompreisbremse-Rechner - Was Ihnen die Strompreisbremse bringt")
+* [Lebens­versicherungen: Warten auf den Zins­anstieg](https://www.test.de/Lebensversicherungen-Warten-auf-den-Zinsanstieg-5942381-0/ "Lebensversicherungen - Warten auf den Zinsanstieg")
+* [Leserfall: Wenn Paypal ein Kunden­konto einfriert](https://www.test.de/Leserfall-Wenn-Paypal-ein-Kundenkonto-einfriert-5955274-0/ "Leserfall - Wenn Paypal ein Kundenkonto einfriert")
+* [Hauts­cree­ning-Apps im Test: Haut­krebs per App erkennen](https://www.test.de/Hautscreening-Apps-im-Test-5944602-0/ "Hautscreening-Apps im Test - Hautkrebs per App erkennen")
+* [Weichmacher: Sonnen­creme unter Schad­stoff­verdacht – was ist dran?](https://www.test.de/Weichmacher-Sonnencreme-unter-Schadstoffverdacht-was-ist-dran-6103822-0/ "Weichmacher - Sonnencreme unter Schadstoffverdacht – was ist dran?")
+* [Cookie-Eis im Test: Für Krümel­monster und Teignascher](https://www.test.de/cookie-eis-test-6126231-0/ "Cookie-Eis im Test - Für Krümelmonster und Teignascher")
 
 Weitere Informationen
 
@@ -3082,12 +3082,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fest­geld: Plutus Money täuscht Anleger](https://www.test.de/Festgeld-Plutus-Capital-taeuscht-Anleger-6062884-0/ "Festgeld - Plutus Money täuscht Anleger")
-* [Technologie-Aktienfonds: Geld anlegen mit künst­licher Intelligenz](https://www.test.de/Technologie-Aktienfonds-Geld-anlegen-mit-kuenstlicher-Intelligenz-5978907-0/ "Technologie-Aktienfonds - Geld anlegen mit künstlicher Intelligenz")
-* [Anleger­schutz: Betrug mit Kryptowährungen](https://www.test.de/Anlegerschutz-Betrug-mit-Kryptowaehrungen-5954720-0/ "Anlegerschutz - Betrug mit Kryptowährungen")
-* [Insolvenz von Welt­bild: Jetzt eBooks und Hörbucher sichern](https://www.test.de/Insolvenz-von-Weltbild-Jetzt-eBooks-und-Hoerbucher-sichern-6147571-0/ "Insolvenz von Weltbild - Jetzt eBooks und Hörbucher sichern")
-* [Verpackungs­ärger: Alterra Slee­ping Cream](https://www.test.de/Verpackungsaerger-Alterra-Sleeping-Cream-6095379-0/ "Verpackungsärger - Alterra Sleeping Cream")
-* [Ratgeber Hilfe, ich habe geerbt: Formulare zum Download](https://www.test.de/Ratgeber-Hilfe-ich-habe-geerbt-Formulare-zum-Download-6038257-0/ "Ratgeber Hilfe, ich habe geerbt - Formulare zum Download")
+* [Strom­preisbremse-Rechner: Was Ihnen die Strom­preisbremse bringt](https://www.test.de/Strompreisbremse-Rechner-So-viel-bringt-die-Strompreisbremse-5978005-0/ "Strompreisbremse-Rechner - Was Ihnen die Strompreisbremse bringt")
+* [Lebens­versicherungen: Warten auf den Zins­anstieg](https://www.test.de/Lebensversicherungen-Warten-auf-den-Zinsanstieg-5942381-0/ "Lebensversicherungen - Warten auf den Zinsanstieg")
+* [Leserfall: Wenn Paypal ein Kunden­konto einfriert](https://www.test.de/Leserfall-Wenn-Paypal-ein-Kundenkonto-einfriert-5955274-0/ "Leserfall - Wenn Paypal ein Kundenkonto einfriert")
+* [Hauts­cree­ning-Apps im Test: Haut­krebs per App erkennen](https://www.test.de/Hautscreening-Apps-im-Test-5944602-0/ "Hautscreening-Apps im Test - Hautkrebs per App erkennen")
+* [Weichmacher: Sonnen­creme unter Schad­stoff­verdacht – was ist dran?](https://www.test.de/Weichmacher-Sonnencreme-unter-Schadstoffverdacht-was-ist-dran-6103822-0/ "Weichmacher - Sonnencreme unter Schadstoffverdacht – was ist dran?")
+* [Cookie-Eis im Test: Für Krümel­monster und Teignascher](https://www.test.de/cookie-eis-test-6126231-0/ "Cookie-Eis im Test - Für Krümelmonster und Teignascher")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -3138,12 +3138,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fest­geld: Plutus Money täuscht Anleger](https://www.test.de/Festgeld-Plutus-Capital-taeuscht-Anleger-6062884-0/ "Festgeld - Plutus Money täuscht Anleger")
-* [Technologie-Aktienfonds: Geld anlegen mit künst­licher Intelligenz](https://www.test.de/Technologie-Aktienfonds-Geld-anlegen-mit-kuenstlicher-Intelligenz-5978907-0/ "Technologie-Aktienfonds - Geld anlegen mit künstlicher Intelligenz")
-* [Anleger­schutz: Betrug mit Kryptowährungen](https://www.test.de/Anlegerschutz-Betrug-mit-Kryptowaehrungen-5954720-0/ "Anlegerschutz - Betrug mit Kryptowährungen")
-* [Insolvenz von Welt­bild: Jetzt eBooks und Hörbucher sichern](https://www.test.de/Insolvenz-von-Weltbild-Jetzt-eBooks-und-Hoerbucher-sichern-6147571-0/ "Insolvenz von Weltbild - Jetzt eBooks und Hörbucher sichern")
-* [Verpackungs­ärger: Alterra Slee­ping Cream](https://www.test.de/Verpackungsaerger-Alterra-Sleeping-Cream-6095379-0/ "Verpackungsärger - Alterra Sleeping Cream")
-* [Ratgeber Hilfe, ich habe geerbt: Formulare zum Download](https://www.test.de/Ratgeber-Hilfe-ich-habe-geerbt-Formulare-zum-Download-6038257-0/ "Ratgeber Hilfe, ich habe geerbt - Formulare zum Download")
+* [Strom­preisbremse-Rechner: Was Ihnen die Strom­preisbremse bringt](https://www.test.de/Strompreisbremse-Rechner-So-viel-bringt-die-Strompreisbremse-5978005-0/ "Strompreisbremse-Rechner - Was Ihnen die Strompreisbremse bringt")
+* [Lebens­versicherungen: Warten auf den Zins­anstieg](https://www.test.de/Lebensversicherungen-Warten-auf-den-Zinsanstieg-5942381-0/ "Lebensversicherungen - Warten auf den Zinsanstieg")
+* [Leserfall: Wenn Paypal ein Kunden­konto einfriert](https://www.test.de/Leserfall-Wenn-Paypal-ein-Kundenkonto-einfriert-5955274-0/ "Leserfall - Wenn Paypal ein Kundenkonto einfriert")
+* [Hauts­cree­ning-Apps im Test: Haut­krebs per App erkennen](https://www.test.de/Hautscreening-Apps-im-Test-5944602-0/ "Hautscreening-Apps im Test - Hautkrebs per App erkennen")
+* [Weichmacher: Sonnen­creme unter Schad­stoff­verdacht – was ist dran?](https://www.test.de/Weichmacher-Sonnencreme-unter-Schadstoffverdacht-was-ist-dran-6103822-0/ "Weichmacher - Sonnencreme unter Schadstoffverdacht – was ist dran?")
+* [Cookie-Eis im Test: Für Krümel­monster und Teignascher](https://www.test.de/cookie-eis-test-6126231-0/ "Cookie-Eis im Test - Für Krümelmonster und Teignascher")
 
 Neueste Tests
 
@@ -3156,12 +3156,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fest­geld: Plutus Money täuscht Anleger](https://www.test.de/Festgeld-Plutus-Capital-taeuscht-Anleger-6062884-0/ "Festgeld - Plutus Money täuscht Anleger")
-* [Technologie-Aktienfonds: Geld anlegen mit künst­licher Intelligenz](https://www.test.de/Technologie-Aktienfonds-Geld-anlegen-mit-kuenstlicher-Intelligenz-5978907-0/ "Technologie-Aktienfonds - Geld anlegen mit künstlicher Intelligenz")
-* [Anleger­schutz: Betrug mit Kryptowährungen](https://www.test.de/Anlegerschutz-Betrug-mit-Kryptowaehrungen-5954720-0/ "Anlegerschutz - Betrug mit Kryptowährungen")
-* [Insolvenz von Welt­bild: Jetzt eBooks und Hörbucher sichern](https://www.test.de/Insolvenz-von-Weltbild-Jetzt-eBooks-und-Hoerbucher-sichern-6147571-0/ "Insolvenz von Weltbild - Jetzt eBooks und Hörbucher sichern")
-* [Verpackungs­ärger: Alterra Slee­ping Cream](https://www.test.de/Verpackungsaerger-Alterra-Sleeping-Cream-6095379-0/ "Verpackungsärger - Alterra Sleeping Cream")
-* [Ratgeber Hilfe, ich habe geerbt: Formulare zum Download](https://www.test.de/Ratgeber-Hilfe-ich-habe-geerbt-Formulare-zum-Download-6038257-0/ "Ratgeber Hilfe, ich habe geerbt - Formulare zum Download")
+* [Strom­preisbremse-Rechner: Was Ihnen die Strom­preisbremse bringt](https://www.test.de/Strompreisbremse-Rechner-So-viel-bringt-die-Strompreisbremse-5978005-0/ "Strompreisbremse-Rechner - Was Ihnen die Strompreisbremse bringt")
+* [Lebens­versicherungen: Warten auf den Zins­anstieg](https://www.test.de/Lebensversicherungen-Warten-auf-den-Zinsanstieg-5942381-0/ "Lebensversicherungen - Warten auf den Zinsanstieg")
+* [Leserfall: Wenn Paypal ein Kunden­konto einfriert](https://www.test.de/Leserfall-Wenn-Paypal-ein-Kundenkonto-einfriert-5955274-0/ "Leserfall - Wenn Paypal ein Kundenkonto einfriert")
+* [Hauts­cree­ning-Apps im Test: Haut­krebs per App erkennen](https://www.test.de/Hautscreening-Apps-im-Test-5944602-0/ "Hautscreening-Apps im Test - Hautkrebs per App erkennen")
+* [Weichmacher: Sonnen­creme unter Schad­stoff­verdacht – was ist dran?](https://www.test.de/Weichmacher-Sonnencreme-unter-Schadstoffverdacht-was-ist-dran-6103822-0/ "Weichmacher - Sonnencreme unter Schadstoffverdacht – was ist dran?")
+* [Cookie-Eis im Test: Für Krümel­monster und Teignascher](https://www.test.de/cookie-eis-test-6126231-0/ "Cookie-Eis im Test - Für Krümelmonster und Teignascher")
 
 Stiftung Warentest
 
