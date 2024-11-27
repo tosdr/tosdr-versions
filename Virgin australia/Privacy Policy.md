@@ -241,7 +241,7 @@ Our Privacy policies contain details about our complaint handling process and wh
     
     * [Help centre](https://www.virginaustralia.com/au/en/help/)
     * [Travel Credits information](https://www.virginaustralia.com/au/en/book/manage-booking/redeem-travel-credits/)
-    * [Velocity member support](https://experience.velocityfrequentflyer.com/member-support)
+    * [Velocity member support](https://www.velocityfrequentflyer.com/member-support?cctp=vffld_virginaustralia)
     * [View by Velocity blog](https://view.velocityfrequentflyer.com/)
     * [Contact us](https://www.virginaustralia.com/au/en/help/contact-us/)
 * #### Get to know us
