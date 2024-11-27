@@ -1,6 +1,6 @@
 ![](https://www.facebook.com/tr?id=1540084302933059&ev=PageView&noscript=1)    
 
-                    
+                         
 
 ![](https://tags.w55c.net/rs?id=d5308c050ef44dc58b06a9f3df60d349&t=marketing)![](//legacybox.com/cdn/shop/t/566/assets/placeholder-pixel.png?v=50439485113009717681726754073)
 
@@ -113,7 +113,7 @@ You Fill
 
 We Digitize
 
-We Digitize
+You Enjoy
 
 [Learn More](https://legacybox.com/pages/how-it-works)
 
@@ -157,7 +157,7 @@ Professionally digitized, future-proof, & ready to relive.™ Each Legacybox inc
 
 [Learn More](https://help.legacybox.com/hc/en-us)
 
-[Shop Now](https://legacybox.com/products/legacybox-digitizing-kit)
+[Shop 65% Off](https://legacybox.com/products/legacybox-digitizing-kit)
 
 [My Orders](https://legacybox.com/pages/order-tracking)
 
@@ -242,7 +242,7 @@ You Fill
 
 We Digitize
 
-We Digitize
+You Enjoy
 
 [Learn More](https://legacybox.com/pages/how-it-works)
 
