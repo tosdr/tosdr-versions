@@ -2,6 +2,8 @@ skip to main content
 
 [![Arthritis Foundation Logo](/img/template-images/logo.jpg)](https://www.arthritis.org/home)
 
+[800-283-7800](tel:800-283-7800) [Helpline](https://www.arthritis.org/helpline)
+
 [Your Local Area](https://www.arthritis.org/local-offices)
 
 [Sign In](https://www.arthritis.org/live-yes-sign-in)
@@ -396,7 +398,7 @@ Updated: April 26, 2021.
 
 Atlanta, GA
 
-61° Arthritis Index Beneficial
+53° Arthritis Index Beneficial
 
 [See More Details](https://www.arthritis.org/weather)
 
