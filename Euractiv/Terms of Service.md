@@ -611,7 +611,15 @@ Languages: [Français](https://www.euractiv.fr/?post_type=page&p=179361) | [Deut
 Most recent
 -----------
 
-[26-11-2024
+[27-11-2024
+
+Commission working on study to develop AI model energy efficiency framework](https://www.euractiv.com/section/eet/news/commission-working-on-study-to-develop-ai-model-energy-efficiency-framework/)[27-11-2024
+
+EU’s energy transition resilience needs action, gas infrastructure funding](https://www.euractiv.com/section/eet/news/eus-energy-transition-resilience-needs-action-gas-infrastructure-funding/)[26-11-2024
+
+EU must invest quickly in Kazakhstan’s rare earths production, for green energy transition and global competition](https://www.euractiv.com/section/eet/news/eu-must-invest-quickly-in-kazakhstans-rare-earths-production-for-green-energy-transition-and-global-competition/)[26-11-2024
+
+Rising distrust of news and journalists is risking lives, media freedom in EU](https://www.euractiv.com/section/politics/news/rising-distrust-of-news-and-journalists-is-risking-lives-media-freedom-in-eu/)[26-11-2024
 
 German industry boss warns: Europe could be hit next by Trump tariff threats](https://www.euractiv.com/section/economy-jobs/news/german-industry-boss-warns-europe-could-be-hit-next-in-trump-tariff-threats/)[26-11-2024
 
@@ -623,15 +631,7 @@ Agri-food caught in crossfire of looming trade wars, WTO paralysis](https://www.
 
 NGOs, experts make last push to uphold wolf protection status](https://www.euractiv.com/section/eet/news/ngos-experts-make-last-push-to-uphold-wolf-protection-status/)[26-11-2024
 
-EU healthcare assistants struggle to make a living wage, warn unions](https://www.euractiv.com/section/health-consumers/news/eu-healthcare-assistants-struggle-to-make-a-living-wage-warn-unions/)[26-11-2024
-
-Meta calls for EU regulation on age verification](https://www.euractiv.com/section/tech/news/meta-calls-for-eu-regulation-on-age-verification/)[26-11-2024
-
-Paris Mayor Anne Hidalgo won’t seek reelection in 2026](https://www.euractiv.com/section/politics/news/paris-mayor-anne-hidalgo-wont-seek-reelection-in-2026/)[26-11-2024
-
-Czech president warns Trump of rising autocracies](https://www.euractiv.com/section/politics/news/the-capitals-czech-president-warns-trump-of-rising-autocracies/)[26-11-2024
-
-Borissov vows to bring Bulgaria into eurozone if named PM](https://www.euractiv.com/section/politics/news/borissov-vows-to-bring-bulgaria-into-eurozone-if-named-pm/)
+EU healthcare assistants struggle to make a living wage, warn unions](https://www.euractiv.com/section/health-consumers/news/eu-healthcare-assistants-struggle-to-make-a-living-wage-warn-unions/)
 
 ###### Advertisement
 
