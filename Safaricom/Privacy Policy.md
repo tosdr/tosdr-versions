@@ -140,19 +140,49 @@ Customer Testimonials
 
 out of 5 based on
 
-[779 reviews](https://www.trustpilot.com/review/www.safari.com)
+[782 reviews](https://www.trustpilot.com/review/www.safari.com)
 
 ![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
-> Nov 25, 2024
+> Nov 27, 2024
 
-> Nous avons exploré les parcs de…TARANGIRE, MANYARA, SERENGETI, NGORONGORO
+> We are exprienced world travellers
 
-> Nous avons exploré les parcs de Tarangire, Manyara, Serengeti et Ngorongoro avec Gilmag Safari, et ce fut une expérience inoubliable grâce à une organisation impeccable. La faune sauvage de Tanzanie est tout simplement extraordinaire. Notre guide, Prosper, a partagé avec enthousiasme sa passion, nous permettant de découvrir ce monde fascinant à seulement quelques mètres de notre véhicule. Un grand merci à Gilmag Safari pour ce voyage exceptionnel !
+> We are exprienced world travellers, but when it came to booking a safari, after a bit of research we realized we were out of our league with the logistics. Shaan Shaw at Safari.com listened closely to our needs and intrests, and quickly responded to all of our questions, efficietly putting together the package for a fly-in safari of our dreams at nearly half the price of other luxury groups! Her strong communicatioin skills, creative problem solving, experience and attentiveness have are refreshing attributes and it has been a delight to work with her.
 
-Jean Luc Janssen
+Ray
 
 ,
+
+US
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Nov 26, 2024
+
+> What a great booking experience
+
+> What a great booking experience. Shann was extremely attentive, answered all my questions swifty and provided me with confidence that I was in good hands and my trip would be exactly what I was looking for.
+
+Phillip Marshall
+
+,
+
+GB
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Nov 26, 2024
+
+> Heleen was awesome!
+
+> Heleen was extremely courteous and helpful with my first-time booking with safari.com for Kruger National Park. Having never been to Africa, let alone Kruger, she offered a lot of first-hand advice on what made sense and what didn't. I feel confident that our booking will give us a great chance to experience a broad spectrum of what the park has to offer over our upcoming week-long trip.
+
+TSO
+
+,
+
+US
 
 ![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
@@ -166,7 +196,7 @@ Neil Buckley
 
 ,
 
-gb
+GB
 
 ![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
@@ -180,7 +210,7 @@ Gogo and Tiffany.
 
 ,
 
-us
+US
 
 ![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
@@ -237,34 +267,6 @@ Annette P
 ,
 
 MW
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Nov 19, 2024
-
-> A massive thank you to Anja
-
-> A massive thank you to Anja, she helped us with everything and super quick with responding on WhatsApp - really looking forward to the Safari 🙏🏼🙌🏼 great service thanks!
-
-customer
-
-,
-
-GB
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Nov 18, 2024
-
-> Shann was Wonderful!
-
-> Shann was fantastic and very helpful with booking a very last minute trip!
-
-Amelia
-
-,
-
-US
 
 VIP service
 
