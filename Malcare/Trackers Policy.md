@@ -79,35 +79,51 @@
     * [](https://www.malcare.com/features/wordpress-activity-log/)
 * [Pricing](https://www.malcare.com/pricing/)
 * ResourcesExpand
-    * [###### How to clean WordPress hacked redirect
+    * [![WordPress Hacked Redirect](https://www.malcare.com/wp-content/uploads/2019/02/WordPress-Hacked-Redirect.png)
         
-        If your WordPress website or admin dashboard is getting redirected automatically…](https://www.malcare.com/blog/wordpress-hacked-redirect/)
+        ###### How to clean WordPress hacked redirect
         
-        [###### How to clean a hacked WordPress site
+        If your WordPress website or admin dashboard is getting redirected…](https://www.malcare.com/blog/wordpress-hacked-redirect/)
+        
+        [![WordPress hacked](https://www.malcare.com/wp-content/uploads/2020/03/WordPress-hacked.png)
+        
+        ###### How to clean a hacked WordPress site
         
         Is your website behaving strangely? Redirecting visitors to unsavoury sites…](https://www.malcare.com/blog/wordpress-hacked/)
         
-        [###### How to remove malware from WordPress
+        [![Best WordPress Malware Removal Plugins](https://www.malcare.com/wp-content/uploads/2022/01/feature-01-1.png)
         
-        If you suspect a hack or suspicious activity on your website, it can be a nerve-wracking experience…](https://www.malcare.com/blog/how-to-remove-malware-from-wordpress-site/)
+        ###### How to remove malware from WordPress
         
-        [###### Best WordPress Security measures
+        If you suspect a hack or suspicious activity on your website, it can be a nerve-wr…](https://www.malcare.com/blog/how-to-remove-malware-from-wordpress-site/)
         
-        Malware costs businesses billions of dollars every year in lost revenue, legal costs, damage…](https://www.malcare.com/blog/wordpress-security/)
+        [![WordPress security](https://www.malcare.com/wp-content/uploads/2024/10/Content-team-feature-images-2.jpg)
         
-        [###### Best WordPress security plugins
+        ###### Best WordPress Security measures
+        
+        Malware costs businesses billions of dollars every year in lost revenue, legal costs…](https://www.malcare.com/blog/wordpress-security/)
+        
+        [![WordPress security plugins](https://www.malcare.com/wp-content/uploads/2019/10/WordPress-security-plugins.png)
+        
+        ###### Best WordPress security plugins
         
         Your website is the cornerstone of your business, and its security is critical….](https://www.malcare.com/blog/wordpress-security-plugins/)
         
-        [###### Types of WordPress attacks
+        [![WordPress Attacks](https://www.malcare.com/wp-content/uploads/2020/04/wordpress-attacks.png)
+        
+        ###### Types of WordPress attacks
         
         WordPress is susceptible to various types of cyber attacks, and a big facet…](https://www.malcare.com/blog/wordpress-attacks/)
         
-        [###### Remove Google blacklist warning
+        [![google blacklist](https://www.malcare.com/wp-content/uploads/2020/03/google-blacklist-1.png)
         
-        Are you seeing a big red warning when you try to visit your website, saying that your website is dangerous…](https://www.malcare.com/blog/remove-google-blacklist-warning/)
+        ###### Remove Google blacklist warning
         
-        [###### WordPress login security
+        Are you seeing a big red warning when you try to visit your website, saying that…](https://www.malcare.com/blog/remove-google-blacklist-warning/)
+        
+        [![WordPress Login Security](https://www.malcare.com/wp-content/uploads/2020/01/WordPress-Login-Security.png)
+        
+        ###### WordPress login security
         
         Is your WordPress login secure…](https://www.malcare.com/blog/wordpress-login-security/)
         
@@ -413,35 +429,51 @@ We use cookies to provide and improve our services. By using our site, you conse
 * [Pricing](https://www.malcare.com/pricing/)
 * ResourcesToggle child menuExpand
     
-    * [###### How to clean WordPress hacked redirect
+    * [![WordPress Hacked Redirect](https://www.malcare.com/wp-content/uploads/2019/02/WordPress-Hacked-Redirect.png)
         
-        If your WordPress website or admin dashboard is getting redirected automatically…](https://www.malcare.com/blog/wordpress-hacked-redirect/)
+        ###### How to clean WordPress hacked redirect
         
-        [###### How to clean a hacked WordPress site
+        If your WordPress website or admin dashboard is getting redirected…](https://www.malcare.com/blog/wordpress-hacked-redirect/)
+        
+        [![WordPress hacked](https://www.malcare.com/wp-content/uploads/2020/03/WordPress-hacked.png)
+        
+        ###### How to clean a hacked WordPress site
         
         Is your website behaving strangely? Redirecting visitors to unsavoury sites…](https://www.malcare.com/blog/wordpress-hacked/)
         
-        [###### How to remove malware from WordPress
+        [![Best WordPress Malware Removal Plugins](https://www.malcare.com/wp-content/uploads/2022/01/feature-01-1.png)
         
-        If you suspect a hack or suspicious activity on your website, it can be a nerve-wracking experience…](https://www.malcare.com/blog/how-to-remove-malware-from-wordpress-site/)
+        ###### How to remove malware from WordPress
         
-        [###### Best WordPress Security measures
+        If you suspect a hack or suspicious activity on your website, it can be a nerve-wr…](https://www.malcare.com/blog/how-to-remove-malware-from-wordpress-site/)
         
-        Malware costs businesses billions of dollars every year in lost revenue, legal costs, damage…](https://www.malcare.com/blog/wordpress-security/)
+        [![WordPress security](https://www.malcare.com/wp-content/uploads/2024/10/Content-team-feature-images-2.jpg)
         
-        [###### Best WordPress security plugins
+        ###### Best WordPress Security measures
+        
+        Malware costs businesses billions of dollars every year in lost revenue, legal costs…](https://www.malcare.com/blog/wordpress-security/)
+        
+        [![WordPress security plugins](https://www.malcare.com/wp-content/uploads/2019/10/WordPress-security-plugins.png)
+        
+        ###### Best WordPress security plugins
         
         Your website is the cornerstone of your business, and its security is critical….](https://www.malcare.com/blog/wordpress-security-plugins/)
         
-        [###### Types of WordPress attacks
+        [![WordPress Attacks](https://www.malcare.com/wp-content/uploads/2020/04/wordpress-attacks.png)
+        
+        ###### Types of WordPress attacks
         
         WordPress is susceptible to various types of cyber attacks, and a big facet…](https://www.malcare.com/blog/wordpress-attacks/)
         
-        [###### Remove Google blacklist warning
+        [![google blacklist](https://www.malcare.com/wp-content/uploads/2020/03/google-blacklist-1.png)
         
-        Are you seeing a big red warning when you try to visit your website, saying that your website is dangerous…](https://www.malcare.com/blog/remove-google-blacklist-warning/)
+        ###### Remove Google blacklist warning
         
-        [###### WordPress login security
+        Are you seeing a big red warning when you try to visit your website, saying that…](https://www.malcare.com/blog/remove-google-blacklist-warning/)
+        
+        [![WordPress Login Security](https://www.malcare.com/wp-content/uploads/2020/01/WordPress-Login-Security.png)
+        
+        ###### WordPress login security
         
         Is your WordPress login secure…](https://www.malcare.com/blog/wordpress-login-security/)
         
