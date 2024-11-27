@@ -13,7 +13,11 @@
         
     * [On Sale](https://www.smithbrothersfarms.com/on-special)
         
-    * [Thanksgiving Essentials](https://www.smithbrothersfarms.com/thanksgiving-essentials)
+    * [Holiday](https://www.smithbrothersfarms.com/holiday)
+        
+        * BACK
+        * [Holiday Treats](https://www.smithbrothersfarms.com/holiday-treats)
+            
         
     * [Milk & Cream](https://www.smithbrothersfarms.com/milk-cream)
         
@@ -194,9 +198,13 @@ Hi
         
     * [New! (87)](https://www.smithbrothersfarms.com/featured-products)
         
-    * [On Sale (68)](https://www.smithbrothersfarms.com/on-special)
+    * [On Sale (69)](https://www.smithbrothersfarms.com/on-special)
         
-    * [Thanksgiving Essentials (28)](https://www.smithbrothersfarms.com/thanksgiving-essentials)
+    * [Holiday (42)](https://www.smithbrothersfarms.com/holiday)
+        
+        * BACK
+        * [Holiday Treats (15)](https://www.smithbrothersfarms.com/holiday-treats)
+            
         
     * [Milk & Cream (55)](https://www.smithbrothersfarms.com/milk-cream)
         
