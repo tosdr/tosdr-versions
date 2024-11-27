@@ -313,6 +313,10 @@
     
     Success Stories
     
+    [![Schuh Logo](https://static.wingify.com/gcp//uploads/2024/11/Schuh-logo.png)
+    
+    schuh Improves Checkout Completion and CTA Conversions with VWO](https://vwo.com/success-stories/schuh/)
+    
     [![Logo (1) (1)](https://static.wingify.com/gcp//uploads/2024/11/logo-1-1.png)
     
     Us improved checkout rates for e5 by adding a cart confirmation pop-up](https://vwo.com/success-stories/us/)
@@ -348,10 +352,6 @@
     [![Logo](https://static.wingify.com/gcp/tr:h-50,w-60,c-at_max/uploads/2024/01/logo.png)
     
     Melbourne Innovation Centre Boosts Lead Conversion Through Homepage Testing](https://vwo.com/success-stories/melbourne-innovation-centre/)
-    
-    [![Logo](https://static.wingify.com/gcp//uploads/2023/12/LOGO.png)
-    
-    Critique Jeu Improved Inter-page Navigation by Testing Blue Underlined Hyperlinks](https://vwo.com/success-stories/critique-jeu/)
     
     [View all Success Stories](https://vwo.com/success-stories)
     
