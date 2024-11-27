@@ -1245,7 +1245,7 @@ CHOOSE Size
 
 ### [Cherry Lip Balm](https://www.100percentpure.com/products/cherry-lip-balm)
 
-757 reviews (757)
+759 reviews (759)
 
 $8.00
 
