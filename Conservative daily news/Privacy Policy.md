@@ -1,15 +1,15 @@
-Tuesday, November 26 2024
+Wednesday, November 27 2024
 
 Breaking News
 
-* [GOP Rep Looks To Thwart Potential Trump Resistance In Department Of Labor](https://www.conservativedailynews.com/2024/11/gop-rep-looks-to-thwart-potential-trump-resistance-in-department-of-labor/)
-* [Watch Out — Xi Is Going To Confront Trump](https://www.conservativedailynews.com/2024/11/watch-out-xi-is-going-to-confront-trump/)
-* [A Cautionary Note for Republicans Celebrating Trump’s Historic Victory](https://www.conservativedailynews.com/2024/11/a-cautionary-note-for-republicans-celebrating-trumps-historic-victory/)
-* [40 Appointments in 18 Days, Do You Think Trump Means Business?](https://www.conservativedailynews.com/2024/11/40-appointments-in-18-days-do-you-think-trump-means-business/)
-* [Trump Endorses Florida CFO To Replace Gaetz](https://www.conservativedailynews.com/2024/11/trump-endorses-florida-cfo-to-replace-gaetz/)
-* [President Joe Biden’s Schedule for Tuesday, November 26, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-tuesday-november-26-2024/)
-* [Medal of Honor Monday: Army Pfc. Noah Knight](https://www.conservativedailynews.com/2024/11/medal-of-honor-monday-army-pfc-noah-knight/)
-* [Poll Shows Majority Approve of Trump’s Transition](https://www.conservativedailynews.com/2024/11/poll-shows-majority-approve-of-trumps-transition/)
+* [President Joe Biden’s Schedule for Wednesday, November 27, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-wednesday-november-27-2024/)
+* [OOF: Kamala Harris Appears Disheveled In First Appearance Since Election Loss](https://www.conservativedailynews.com/2024/11/oof-kamala-harris-appears-disheveled-in-first-appearance-since-election-loss/)
+* [Trump Deserves To Have His Nominees Confirmed Quickly](https://www.conservativedailynews.com/2024/11/trump-deserves-to-have-his-nominees-confirmed-quickly/)
+* [Lame Duck Biden Admin Cuts Massive Check For Failing EV Manufacturer](https://www.conservativedailynews.com/2024/11/lame-duck-biden-admin-cuts-massive-check-for-failing-ev-manufacturer/)
+* [CNN’s Elie Honig Lays Out Why Trump’s Legal Cases Will Not Return After He Leave Office In 4 Years](https://www.conservativedailynews.com/2024/11/cnns-elie-honig-lays-out-why-trumps-legal-cases-will-not-return-after-he-leave-office-in-4-years/)
+* [Walmart Abandons Trans Products For Kids, DEI Policies](https://www.conservativedailynews.com/2024/11/walmart-abandons-trans-products-for-kids-dei-policies/)
+* [Tom Homan Suggests Denver Mayor Could ‘Go To Jail’ For Obstructing Deportation](https://www.conservativedailynews.com/2024/11/tom-homan-suggests-denver-mayor-could-go-to-jail-for-obstructing-deportation/)
+* [Mr. Cuban, Are Ten Strong Women Enough?](https://www.conservativedailynews.com/2024/11/mr-cuban-are-ten-strong-women-enough/)
 
 * [RSS](https://www.conservativedailynews.com/news-feeds/)
 * [Facebook](https://www.facebook.com/ConservativeDailyNews/)
@@ -115,32 +115,11 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 Red = Recurring Donations  
 Orange = One-Time Donations
 
-* [![Bidenomics thanksgiving Joe Biden](https://www.conservativedailynews.com/wp-content/uploads/2023/11/image-37-220x150.png)](https://www.conservativedailynews.com/2024/11/thanksgiving-food-costs-still-gobble-up-more-of-americans-paychecks-than-any-time-under-trump/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/Kamala-Harris-11-26-24-maybe-drunk-220x150.jpg)](https://www.conservativedailynews.com/2024/11/oof-kamala-harris-appears-disheveled-in-first-appearance-since-election-loss/)
     
-    [Thanksgiving Food Costs Still Gobble Up More Of Americans’ Paychecks Than Any Time Under Trump](https://www.conservativedailynews.com/2024/11/thanksgiving-food-costs-still-gobble-up-more-of-americans-paychecks-than-any-time-under-trump/)
+    [OOF: Kamala Harris Appears Disheveled In First Appearance Since Election Loss](https://www.conservativedailynews.com/2024/11/oof-kamala-harris-appears-disheveled-in-first-appearance-since-election-loss/)
     
-    November 24, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/IMG_5814-220x150.png)](https://www.conservativedailynews.com/2024/11/importing-poverty-is-no-ticket-to-prosperity/)
-    
-    [Importing Poverty Is No Ticket To Prosperity](https://www.conservativedailynews.com/2024/11/importing-poverty-is-no-ticket-to-prosperity/)
-    
-    November 23, 2024
-    
-
-Recent Posts
-
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/02/Capitol-hill.jpg)](https://www.conservativedailynews.com/2024/11/gop-rep-looks-to-thwart-potential-trump-resistance-in-department-of-labor/)
-    
-    [GOP Rep Looks To Thwart Potential Trump Resistance In Department Of Labor](https://www.conservativedailynews.com/2024/11/gop-rep-looks-to-thwart-potential-trump-resistance-in-department-of-labor/)
-    
-    November 26, 2024
-    
-* [![Joe Biden China better off](https://www.conservativedailynews.com/wp-content/uploads/2023/04/stg042423dAPR.jpg)](https://www.conservativedailynews.com/2024/11/watch-out-xi-is-going-to-confront-trump/)
-    
-    [Watch Out — Xi Is Going To Confront Trump](https://www.conservativedailynews.com/2024/11/watch-out-xi-is-going-to-confront-trump/)
-    
-    November 26, 2024
+    November 27, 2024
     
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2024/07/Curious-Shock-questioning-220x150.jpg)](https://www.conservativedailynews.com/2024/11/a-cautionary-note-for-republicans-celebrating-trumps-historic-victory/)
     
@@ -148,39 +127,61 @@ Recent Posts
     
     November 26, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/10/Twitter-bird-finger-220x150.png)](https://www.conservativedailynews.com/2024/11/x-objects-to-bankruptcy-sale-of-alex-jones-infowars-assets/)
+
+Recent Posts
+
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/03/Joe-Biden-sleeping-2-220x150.png)](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-wednesday-november-27-2024/)
     
-    [X Objects To Bankruptcy Sale Of Alex Jones, Infowars Assets](https://www.conservativedailynews.com/2024/11/x-objects-to-bankruptcy-sale-of-alex-jones-infowars-assets/)
+    [President Joe Biden’s Schedule for Wednesday, November 27, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-wednesday-november-27-2024/)
     
-    November 26, 2024
+    November 27, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/IMG_5827-220x150.jpeg)](https://www.conservativedailynews.com/2024/11/40-appointments-in-18-days-do-you-think-trump-means-business/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/Kamala-Harris-11-26-24-maybe-drunk-220x150.jpg)](https://www.conservativedailynews.com/2024/11/oof-kamala-harris-appears-disheveled-in-first-appearance-since-election-loss/)
     
-    [40 Appointments in 18 Days, Do You Think Trump Means Business?](https://www.conservativedailynews.com/2024/11/40-appointments-in-18-days-do-you-think-trump-means-business/)
+    [OOF: Kamala Harris Appears Disheveled In First Appearance Since Election Loss](https://www.conservativedailynews.com/2024/11/oof-kamala-harris-appears-disheveled-in-first-appearance-since-election-loss/)
     
-    November 26, 2024
+    November 27, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/Jimmy-Patronis-220x150.jpg)](https://www.conservativedailynews.com/2024/11/trump-endorses-florida-cfo-to-replace-gaetz/)
+* [Trump Taps Jamieson Greer To Be His Trade Chief](https://www.conservativedailynews.com/2024/11/trump-taps-jamieson-greer-to-be-his-trade-chief/)
     
-    [Trump Endorses Florida CFO To Replace Gaetz](https://www.conservativedailynews.com/2024/11/trump-endorses-florida-cfo-to-replace-gaetz/)
+    November 27, 2024
     
-    November 26, 2024
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/gavel-justice-220x150.jfif)](https://www.conservativedailynews.com/2024/11/court-of-appeals-ends-trumps-legal-battle-over-classified-documents-in-florida/)
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/12/01-swampish-dt-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/11/americas-chicken-little-elites/)
+    [Court Of Appeals Ends Trump’s Legal Battle Over Classified Documents In Florida](https://www.conservativedailynews.com/2024/11/court-of-appeals-ends-trumps-legal-battle-over-classified-documents-in-florida/)
     
-    [America’s ‘Chicken Little’ Elites](https://www.conservativedailynews.com/2024/11/americas-chicken-little-elites/)
+    November 27, 2024
     
-    November 26, 2024
+* [![donald-trump-thumbs-up](https://www.conservativedailynews.com/wp-content/uploads/2016/10/donald-trump-thumbs-up.jpg)](https://www.conservativedailynews.com/2024/11/trump-deserves-to-have-his-nominees-confirmed-quickly/)
     
-* [![Kamala Harris missing](https://www.conservativedailynews.com/wp-content/uploads/2024/11/stg112624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/wheres-kamala/)
+    [Trump Deserves To Have His Nominees Confirmed Quickly](https://www.conservativedailynews.com/2024/11/trump-deserves-to-have-his-nominees-confirmed-quickly/)
     
-    [Where’s Kamala?](https://www.conservativedailynews.com/2024/11/wheres-kamala/)
+    November 27, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2017/06/money-600-x-366.jpg)](https://www.conservativedailynews.com/2024/11/lame-duck-biden-admin-cuts-massive-check-for-failing-ev-manufacturer/)
+    
+    [Lame Duck Biden Admin Cuts Massive Check For Failing EV Manufacturer](https://www.conservativedailynews.com/2024/11/lame-duck-biden-admin-cuts-massive-check-for-failing-ev-manufacturer/)
+    
+    November 27, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/gavel-justice-220x150.jfif)](https://www.conservativedailynews.com/2024/11/cnns-elie-honig-lays-out-why-trumps-legal-cases-will-not-return-after-he-leave-office-in-4-years/)
+    
+    [CNN’s Elie Honig Lays Out Why Trump’s Legal Cases Will Not Return After He Leave Office In 4 Years](https://www.conservativedailynews.com/2024/11/cnns-elie-honig-lays-out-why-trumps-legal-cases-will-not-return-after-he-leave-office-in-4-years/)
+    
+    November 27, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2017/08/Walmart_Store_Sign-600-x-389.jpg)](https://www.conservativedailynews.com/2024/11/walmart-abandons-trans-products-for-kids-dei-policies/)
+    
+    [Walmart Abandons Trans Products For Kids, DEI Policies](https://www.conservativedailynews.com/2024/11/walmart-abandons-trans-products-for-kids-dei-policies/)
     
     November 26, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [TFB Review: Geissele Super Duty MOD1](https://www.thegunpage.com/tfb-review-geissele-super-duty-mod1/10612136)
+* [POTD: FN America LICC IWS](https://www.thegunpage.com/potd-fn-america-licc-iws/10612137)
+* [The 5 Best Home Defense Shotguns](https://www.thegunpage.com/the-5-best-home-defense-shotguns/10612138)
 * [Silencers To Your Door: Griffin Armament and Capitol Armory](https://www.thegunpage.com/silencers-to-your-door-griffin-armament-and-capitol-armory/10612130)
 * [Tennessee Wildlife Resouces Agency Chooses Beretta A300 Ultima Patrol](https://www.thegunpage.com/tennessee-wildlife-resouces-agency-chooses-beretta-a300-ultima-patrol/10612128)
 * [One of the Country’s Possibly Worst Sheriffs and His Department has Hampered Gun Ownership](https://www.thegunpage.com/one-of-the-countrys-possibly-worst-sheriffs-and-his-department-has-hampered-gun-ownership/10612126)
@@ -188,9 +189,6 @@ Recent Posts
 * [California Grandfather Uses Gun To Save Self, Grandkids](https://www.thegunpage.com/california-grandfather-uses-gun-to-save-self-grandkids/10612124)
 * [$11 Million Verdict In P320 Lawsuit, SIG Sauer Plans To Appeal](https://www.thegunpage.com/11-million-verdict-in-p320-lawsuit-sig-sauer-plans-to-appeal/10612119)
 * [Skynet Ordered To Pay Jury Verdict To Portland Nightclub Goer Shot In The Leg](https://www.thegunpage.com/skynet-ordered-to-pay-jury-verdict-to-portland-nightclub-goer-shot-in-the-leg/10612117)
-* [Shell Shock Technologies Launches Shell Tech Ammunition Line](https://www.thegunpage.com/shell-shock-technologies-launches-shell-tech-ammunition-line/10612120)
-* [Congressman Announces New Measure To Abolish ATF](https://www.thegunpage.com/congressman-announces-new-measure-to-abolish-atf/10612114)
-* [2024 Holiday Gift Guide: Optics & Gear](https://www.thegunpage.com/2024-holiday-gift-guide-optics-gear/10612125)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
