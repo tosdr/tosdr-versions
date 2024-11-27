@@ -410,13 +410,13 @@ Top
     
     [How to Book a Train Ticket in India (For Foreigners)](https://blog.karlrock.com/how-to-book-a-train-ticket-in-india-for-foreigners/ "How to Book a Train Ticket in India (For Foreigners)")
     
-* [![Why Do Indians like to Take Photos with Foreigners? [Selfies Included!]](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2017/08/Selfie-at-Hampi-with-Kick-2-Cast.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/why-do-indians-like-to-take-photos-with-foreigners-selfies-included/ "Why Do Indians like to Take Photos with Foreigners? [Selfies Included!]")
-    
-    [Why Do Indians like to Take Photos with Foreigners? \[Selfies Included!\]](https://blog.karlrock.com/why-do-indians-like-to-take-photos-with-foreigners-selfies-included/ "Why Do Indians like to Take Photos with Foreigners? [Selfies Included!]")
-    
 * [![The Real Locations of Shantaram](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2022/10/Shantaram-TV-show-is-filmed-in-thailand-not-india.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/the-real-locations-of-shantaram/ "The Real Locations of Shantaram")
     
     [The Real Locations of Shantaram](https://blog.karlrock.com/the-real-locations-of-shantaram/ "The Real Locations of Shantaram")
+    
+* [![Why Do Indians like to Take Photos with Foreigners? [Selfies Included!]](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2017/08/Selfie-at-Hampi-with-Kick-2-Cast.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/why-do-indians-like-to-take-photos-with-foreigners-selfies-included/ "Why Do Indians like to Take Photos with Foreigners? [Selfies Included!]")
+    
+    [Why Do Indians like to Take Photos with Foreigners? \[Selfies Included!\]](https://blog.karlrock.com/why-do-indians-like-to-take-photos-with-foreigners-selfies-included/ "Why Do Indians like to Take Photos with Foreigners? [Selfies Included!]")
     
 * [![What Do Lawyers in India Charge? My Personal Experience Revealed](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2024/06/Walkthrough-of-a-court-complex-in-India.jpeg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/what-do-lawyers-in-india-charge/ "What Do Lawyers in India Charge? My Personal Experience Revealed")
     
