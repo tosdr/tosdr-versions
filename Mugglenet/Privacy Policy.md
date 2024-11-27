@@ -288,15 +288,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Ginny Weasley’s middle name is Molly.
+Minerva McGonagall’s mother kept her own magical heritage a secret from her Muggle husband for years, which made her life very sad and difficult.
 
 ### Potter History
 
-December 24, 2008 – In a first for the Harry Potter fandom, MuggleNet launches MuggleSpace, a social network designed specifically for Harry Potter fans.
+December 15, 2004 – Producer David Heyman says Harry Potter and the Goblet of Fire filming is 75% complete.
 
 ### Potter Quote
 
-“Now you mention it, d’you know . . . I think I’m feeling a bit . . . rebellious.”
+“You’ve gone middle head!”
 
 [](#)
 
