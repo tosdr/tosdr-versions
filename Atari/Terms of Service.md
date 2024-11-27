@@ -52,7 +52,7 @@ Hardware
     
     [Atari 7800+](https://www.atari.com/collections/7800)
     
-    [Atari 400 Mini](https://www.atari.com/collections/atari-400-mini-collection)
+    [Atari 400 Mini](https://www.atari.com/products/atari-400-mini-1)
     
     [Atari VCS](https://atari.com/pages/atari-vcs)
 
@@ -94,7 +94,7 @@ Featured
     
     [Atari 7800+](https://www.atari.com/collections/7800)
     
-    [Atari 400 Mini](https://www.atari.com/collections/atari-400-mini-collection)
+    [Atari 400 Mini](https://www.atari.com/products/atari-400-mini-1)
     
     [Atari VCS](https://atari.com/pages/atari-vcs)
 
