@@ -1,4 +1,6 @@
-[![Qustodio](https://www.qustodio.com/wp-content/themes/Divi-child/assets/dist/svg/template-parts/header/qustodio-logo.svg?v=4.18.0)](https://www.qustodio.com/en/)
+[**BLACK FRIDAY SALE |** Get 50% off Premium today – **BUY NOW**](https://www.qustodio.com/en/premium/)
+
+[![Qustodio](https://www.qustodio.com/wp-content/themes/Divi-child/assets/dist/svg/template-parts/header/qustodio-logo.svg?v=4.18.1)](https://www.qustodio.com/en/)
 
 * [Home](https://www.qustodio.com/en/)
 * [Why Qustodio](https://www.qustodio.com/en/why-qustodio/)
@@ -13,7 +15,9 @@
 * [Log in](https://family.qustodio.com/)
 * [Sign up](https://www.qustodio.com/en/free-sign-up/)
 
-[![Qustodio](https://www.qustodio.com/wp-content/themes/Divi-child/assets/dist/svg/template-parts/header/qustodio-logo.svg?v=4.18.0)](https://www.qustodio.com/en/)
+[**BLACK FRIDAY SALE |** Get 50% off Premium today – **BUY NOW**](https://www.qustodio.com/en/premium/)
+
+[![Qustodio](https://www.qustodio.com/wp-content/themes/Divi-child/assets/dist/svg/template-parts/header/qustodio-logo.svg?v=4.18.1)](https://www.qustodio.com/en/)
 
 * [Product](#)
     * [Why Qustodio
@@ -193,3 +197,9 @@ Follow @qustodio
 ![](https://www.qustodio.com/wp-content/themes/Divi-child/assets/src/img/template-parts/footer/copyright-logo.png) © 2024 Qustodio is a registered trademark of Qustodio LLC. All rights reserved.
 
 ![](https://www.qustodio.com/wp-content/themes/Divi-child/assets/src/img/template-parts/footer/badges.png)
+
+### **Black Friday Sale is on now!**
+
+Get 50% off Premium Complete protection with code FRIDAY50
+
+[Go Premium](https://www.qustodio.com/en/premium/) [Go Premium](https://www.qustodio.com/en/premium/) [Go Premium](https://www.qustodio.com/en/premium/)
