@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Is there a blood test for asbestos exposure?](https://www.pintas.com/wp-content/uploads/2020/09/chicago-personal-injury-lawyer-is-there-a-blood-test-for-asbestos-exposure-1.jpg "Is There a Blood Test for Asbestos Exposure?")](https://www.pintas.com/practice-areas/lung-cancer/blood-test-for-asbestos-exposure "Is There a Blood Test for Asbestos Exposure?")
+[![What’s the difference between lung cancer and mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-whats-the-difference-between-lung-cancer-and-mesothelioma.jpg "What’s the Difference Between Lung Cancer and Mesothelioma?")](https://www.pintas.com/lung-cancer/whats-the-difference-between-lung-cancer-and-mesothelioma/ "What’s the Difference Between Lung Cancer and Mesothelioma?")
 
-[#### Is There a Blood Test for Asbestos Exposure?](https://www.pintas.com/practice-areas/lung-cancer/blood-test-for-asbestos-exposure)
+[#### What’s the Difference Between Lung Cancer and Mesothelioma?](https://www.pintas.com/lung-cancer/whats-the-difference-between-lung-cancer-and-mesothelioma/)
 
-[![How can i report abuse at a memory care facility?](https://www.pintas.com/wp-content/uploads/2021/03/practice-areas-personal-injury-assisted-living-accident-lawyer-how-can-i-report-abuse-at-a-memory-care-facility-300x200.jpg "How Can I Report Abuse at a Memory Care Facility?")](https://www.pintas.com/faq/how-can-i-report-abuse-at-a-memory-care-facility/ "How Can I Report Abuse at a Memory Care Facility?")
+[![What is talc used for?](https://www.pintas.com/wp-content/uploads/2020/06/talcum-powder-what-is-talc-used-for.jpg "What Is Talc Used For?")](https://www.pintas.com/talcum-powder/what-is-talc-used-for/ "What Is Talc Used For?")
 
-[#### How Can I Report Abuse at a Memory Care Facility?](https://www.pintas.com/faq/how-can-i-report-abuse-at-a-memory-care-facility/)
+[#### What Is Talc Used For?](https://www.pintas.com/talcum-powder/what-is-talc-used-for/)
 
-[![Does a broken bone hurt?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-does-a-broken-bone-hurt.jpg "Does a Broken Bone Hurt?")](https://www.pintas.com/faq/does-a-broken-bone-hurt/ "Does a Broken Bone Hurt?")
+[![How do you get roundup off your skin?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-how-do-you-get-roundup-off-your-skin.jpg "How Do You Get Roundup Off Your Skin?")](https://www.pintas.com/lawsuit/roundup-weed-killer/how-do-you-get-roundup-off-your-skin/ "How Do You Get Roundup Off Your Skin?")
 
-[#### Does a Broken Bone Hurt?](https://www.pintas.com/faq/does-a-broken-bone-hurt/)
+[#### How Do You Get Roundup Off Your Skin?](https://www.pintas.com/lawsuit/roundup-weed-killer/how-do-you-get-roundup-off-your-skin/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Phone
+Email
 
 This field is for validation purposes and should be left unchanged.
 
