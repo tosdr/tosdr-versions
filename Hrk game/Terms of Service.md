@@ -140,7 +140,7 @@ Giveaways
 
 [Support](https://www.hrkgame.com/en/support/)
 
-[](https://www.hrkgame.com/fr/events/sale/black-friday/)
+[](https://www.hrkgame.com/en/events/sale/black-friday/)
 
 Terms of Service
 ----------------
@@ -294,16 +294,6 @@ We reserve the right, at our sole discretion, to update, change or replace any p
 **SECTION 19 - CONTACT INFORMATION**
 
 Questions about the Terms of Service should be sent to us at [\[email protected\]](https://www.hrkgame.com/cdn-cgi/l/email-protection).
-
-**Company Details:**
-
-**Nebulink Limited**
-
-The Black Church, st.
-
-Mary’s Place, Dublin 7,
-
-Leinster,  D07 P4AX, Ireland
 
 Your Basket (0 Items)
 ---------------------
