@@ -1,6 +1,6 @@
-**Did you know?** _The Patriot Post_ is funded 100% by its readers. Help us stay front and center in the fight for Liberty and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_3&utm_medium=web&utm_source=patriotpost.us).
+**Part of our core mission?** Exposing the Left's blatant hypocrisy. Help us continue the fight and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_5&utm_medium=web&utm_source=patriotpost.us) now.
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_3&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_5&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -195,26 +195,29 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/112315-potential-cannibal-encounters-2024-11-25)
+     [](https://patriotpost.us/memes/112383-and-freedom-2024-11-27)
 
 * [More Memes >](https://patriotpost.us/memes)
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34570)
+     [](https://patriotpost.us/cartoons/34577)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
+*      [Ian Haworth Jewish Voters: Keep Punishing Pro-Hamas Democrats](https://patriotpost.us/opinion/112378-jewish-voters-keep-punishing-pro-hamas-democrats-2024-11-27)
+*      [Stephen Moore Yes Nukes!](https://patriotpost.us/opinion/112377-yes-nukes-2024-11-27)
+*      [Gary Bauer Trump’s Warning](https://patriotpost.us/opinion/112376-trumps-warning-2024-11-27)
+*      [Victor Davis Hanson Universities Have a 2025 Rendezvous With Reality](https://patriotpost.us/opinion/112375-universities-have-a-2025-rendezvous-with-reality-2024-11-27)
+*      [Byron York One Month After Campaign’s Final Convulsion, a Moment of Peace](https://patriotpost.us/opinion/112374-one-month-after-campaigns-final-convulsion-a-moment-of-peace-2024-11-27)
+*      [Tim Graham Journalist Tantrums About Elon Musk Don’t Fix Public Distrust](https://patriotpost.us/opinion/112373-journalist-tantrums-about-elon-musk-dont-fix-public-distrust-2024-11-27)
+*      [Star Parker To Get Rid of Woke, Understand How It Got Started](https://patriotpost.us/opinion/112372-to-get-rid-of-woke-understand-how-it-got-started-2024-11-27)
+*      [John Stossel Thank You, Property Rights!](https://patriotpost.us/opinion/112371-thank-you-property-rights-2024-11-27)
+*      [Allen West Resistance Is Futile … and Stupid](https://patriotpost.us/opinion/112370-resistance-is-futile-dot-dot-dot-and-stupid-2024-11-27)
 *      [The Washington Stand Trump Could Scrap Biden’s Trans Troops Policy ‘as Soon as Day One’](https://patriotpost.us/opinion/112352-trump-could-scrap-bidens-trans-troops-policy-as-soon-as-day-one-2024-11-27)
-*      [Rich Lowry Mass Deportation Is an Appropriate Response to Mass Illegal Immigration](https://patriotpost.us/opinion/112353-mass-deportation-is-an-appropriate-response-to-mass-illegal-immigration-2024-11-26)
-*      [Cal Thomas Fluoride: Good or Bad?](https://patriotpost.us/opinion/112331-fluoride-good-or-bad-2024-11-26)
-*      [Daniel McCarthy Trump Draws the Map to 2028](https://patriotpost.us/opinion/112330-trump-draws-the-map-to-2028-2024-11-26)
-*      [Victor Joecks America’s ‘Chicken Little’ Elites](https://patriotpost.us/opinion/112329-americas-chicken-little-elites-2024-11-26)
-*      [Gary Bauer Lying About America](https://patriotpost.us/opinion/112328-lying-about-america-2024-11-26)
-*      [Christine Flowers Wandering in the Wilderness for Four Years Not Appealing](https://patriotpost.us/opinion/112326-wandering-in-the-wilderness-for-four-years-not-appealing-2024-11-26)
-*      [Salena Zito The Family-Run Businesses That Make Thanksgiving Possible](https://patriotpost.us/opinion/112327-the-family-run-businesses-that-make-thanksgiving-possible-2024-11-26)
+*      [The Babylon Bee 9 Things Public Schools Won’t Tell You About the First Thanksgiving](https://patriotpost.us/opinion/112369-9-things-public-schools-wont-tell-you-about-the-first-thanksgiving-2024-11-27)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -228,11 +231,15 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[The Web's First and Foremost Conservative News Digest](https://patriotpost.us/alexander/2810)
+[Wear Your Patriotism on Your Sleeve
+
+ 
+
+Shop Now](https://patriotpostshop.com/)
 
 ### The Foundation
 
-“Equal and exact justice to all men, of whatever persuasion, religious or political.” —Thomas Jefferson (1801)
+“War is not the best engine for us to resort to; nature has given us one in our commerce, which if properly managed, will be a better instrument for obliging the interested nations of Europe to treat us with justice.” —Thomas Jefferson (1797)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
