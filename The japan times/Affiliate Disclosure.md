@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[November 27, 2024](https://www.japantimes.co.jp/archive/2024/11/27/ "archive page")
+[November 28, 2024](https://www.japantimes.co.jp/archive/2024/11/28/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -131,28 +131,36 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
+[Funeral held for Princess Yuriko at Tokyo cemetery](https://www.japantimes.co.jp/news/2024/11/26/japan/society/princess-yuriko-funeral/ "Funeral held for Princess Yuriko at Tokyo cemetery")
+
+  [![Crown Prince Akishino and Crown Princess Kiko, followed by Princess Aiko and Princess Kako, prepare to attend a funeral service for Princess Yuriko at Toshimagaoka Cemetery in Tokyo on Tuesday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/26/436352.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Crown Prince Akishino and Crown Princess Kiko, followed by Princess Aiko and Princess Kako, prepare to attend a funeral service for Princess Yuriko at Toshimagaoka Cemetery in Tokyo on Tuesday. ")](https://www.japantimes.co.jp/news/2024/11/26/japan/society/princess-yuriko-funeral/ "Funeral held for Princess Yuriko at Tokyo cemetery")
+
 [Bluesky is booming in Japan — mainly for reasons other than U.S. politics](https://www.japantimes.co.jp/business/2024/11/25/companies/bluesky-social-japan/ "Bluesky is booming in Japan — mainly for reasons other than U.S. politics")
 
   [![According to Similarweb, average monthly user numbers for Bluesky on Android in Japan quintupled in the 12 months to October.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/25/436245.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "According to Similarweb, average monthly user numbers for Bluesky on Android in Japan quintupled in the 12 months to October.")](https://www.japantimes.co.jp/business/2024/11/25/companies/bluesky-social-japan/ "Bluesky is booming in Japan — mainly for reasons other than U.S. politics")
-
-[Trump pledges 25% tariffs on Canada and Mexico, and more levies on China](https://www.japantimes.co.jp/business/2024/11/26/economy/trump-tariffs-mexico-canada/ "Trump pledges 25% tariffs on Canada and Mexico, and more levies on China")
-
-  [![U.S. President-elect Donald Trump attends a viewing of the launch of the sixth test flight of the SpaceX Starship rocket, in Brownsville, Texas, on Nov. 19. Trump on Monday threatened to slap China, Mexico and Canada with hefty tariffs upon his return to the White House.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/26/436269.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "U.S. President-elect Donald Trump attends a viewing of the launch of the sixth test flight of the SpaceX Starship rocket, in Brownsville, Texas, on Nov. 19. Trump on Monday threatened to slap China, Mexico and Canada with hefty tariffs upon his return to the White House.")](https://www.japantimes.co.jp/business/2024/11/26/economy/trump-tariffs-mexico-canada/ "Trump pledges 25% tariffs on Canada and Mexico, and more levies on China")
-
-[AI boom makes 139-year-old cable maker Japan’s hottest stock](https://www.japantimes.co.jp/business/2024/11/25/companies/ai-fujikura-stocks/ "AI boom makes 139-year-old cable maker Japan’s hottest stock")
-
-  [![Fujikura's headquarters in Tokyo's Koto Ward. The company's share price has surged by more than 400% this year. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/25/436122.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Fujikura's headquarters in Tokyo's Koto Ward. The company's share price has surged by more than 400% this year. ")](https://www.japantimes.co.jp/business/2024/11/25/companies/ai-fujikura-stocks/ "AI boom makes 139-year-old cable maker Japan’s hottest stock")
 
 [Suspected arson in Sapporo leaves four injured](https://www.japantimes.co.jp/news/2024/11/27/japan/japan-sapporo-explosion/ "Suspected arson in Sapporo leaves four injured")
 
   [![Firetrucks outside a building in Sapporo where an explosion left four people injured on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/26/436400.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Firetrucks outside a building in Sapporo where an explosion left four people injured on Tuesday.")](https://www.japantimes.co.jp/news/2024/11/27/japan/japan-sapporo-explosion/ "Suspected arson in Sapporo leaves four injured")
 
-[Japan’s sauna movement: Relax, refresh, repeat](https://www.japantimes.co.jp/life/2024/11/25/lifestyle/sauna-culture-japan/ "Japan’s sauna movement: Relax, refresh, repeat")
+[Trump pledges 25% tariffs on Canada and Mexico, and more levies on China](https://www.japantimes.co.jp/business/2024/11/26/economy/trump-tariffs-mexico-canada/ "Trump pledges 25% tariffs on Canada and Mexico, and more levies on China")
 
-  [![Totopa in Tokyo’s Shinjuku Ward was picked by consultants TTNE as the best sauna of the year. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/25/435137.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Totopa in Tokyo’s Shinjuku Ward was picked by consultants TTNE as the best sauna of the year. ")](https://www.japantimes.co.jp/life/2024/11/25/lifestyle/sauna-culture-japan/ "Japan’s sauna movement: Relax, refresh, repeat")
+  [![U.S. President-elect Donald Trump attends a viewing of the launch of the sixth test flight of the SpaceX Starship rocket, in Brownsville, Texas, on Nov. 19. Trump on Monday threatened to slap China, Mexico and Canada with hefty tariffs upon his return to the White House.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/26/436269.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "U.S. President-elect Donald Trump attends a viewing of the launch of the sixth test flight of the SpaceX Starship rocket, in Brownsville, Texas, on Nov. 19. Trump on Monday threatened to slap China, Mexico and Canada with hefty tariffs upon his return to the White House.")](https://www.japantimes.co.jp/business/2024/11/26/economy/trump-tariffs-mexico-canada/ "Trump pledges 25% tariffs on Canada and Mexico, and more levies on China")
+
+[False report on Yasukuni Shrine visit 'extremely regrettable,' top spokesperson says](https://www.japantimes.co.jp/news/2024/11/27/japan/kyodo-news-yasukuni-report-mistake/ "False report on Yasukuni Shrine visit 'extremely regrettable,' top spokesperson says")
+
+  [![Chief Cabinet Secretary Yoshimasa Hayashi during a news conference in Tokyo on Tuesday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/26/436444.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Chief Cabinet Secretary Yoshimasa Hayashi during a news conference in Tokyo on Tuesday")](https://www.japantimes.co.jp/news/2024/11/27/japan/kyodo-news-yasukuni-report-mistake/ "False report on Yasukuni Shrine visit 'extremely regrettable,' top spokesperson says")
 
 Editors' Picks
 --------------
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Funeral held for Princess Yuriko at Tokyo cemetery](https://www.japantimes.co.jp/news/2024/11/26/japan/society/princess-yuriko-funeral/ "Funeral held for Princess Yuriko at Tokyo cemetery")
+
+By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
+
+  [![Crown Prince Akishino and Crown Princess Kiko, followed by Princess Aiko and Princess Kako, prepare to attend a funeral service for Princess Yuriko at Toshimagaoka Cemetery in Tokyo on Tuesday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/26/436352.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Crown Prince Akishino and Crown Princess Kiko, followed by Princess Aiko and Princess Kako, prepare to attend a funeral service for Princess Yuriko at Toshimagaoka Cemetery in Tokyo on Tuesday. ")](https://www.japantimes.co.jp/news/2024/11/26/japan/society/princess-yuriko-funeral/ "Funeral held for Princess Yuriko at Tokyo cemetery")
 
 [BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
 
@@ -162,6 +170,12 @@ By [Elizabeth Beattie](https://www.japantimes.co.jp/author/3993/elizabeth-beatti
 
   [![According to Similarweb, average monthly user numbers for Bluesky on Android in Japan quintupled in the 12 months to October.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/25/436245.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "According to Similarweb, average monthly user numbers for Bluesky on Android in Japan quintupled in the 12 months to October.")](https://www.japantimes.co.jp/business/2024/11/25/companies/bluesky-social-japan/ "Bluesky is booming in Japan — mainly for reasons other than U.S. politics")
 
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Suspected arson in Sapporo leaves four injured](https://www.japantimes.co.jp/news/2024/11/27/japan/japan-sapporo-explosion/ "Suspected arson in Sapporo leaves four injured")
+
+  [![Firetrucks outside a building in Sapporo where an explosion left four people injured on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/26/436400.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Firetrucks outside a building in Sapporo where an explosion left four people injured on Tuesday.")](https://www.japantimes.co.jp/news/2024/11/27/japan/japan-sapporo-explosion/ "Suspected arson in Sapporo leaves four injured")
+
 [BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
 
 [Trump pledges 25% tariffs on Canada and Mexico, and more levies on China](https://www.japantimes.co.jp/business/2024/11/26/economy/trump-tariffs-mexico-canada/ "Trump pledges 25% tariffs on Canada and Mexico, and more levies on China")
@@ -170,27 +184,11 @@ By [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse
 
   [![U.S. President-elect Donald Trump attends a viewing of the launch of the sixth test flight of the SpaceX Starship rocket, in Brownsville, Texas, on Nov. 19. Trump on Monday threatened to slap China, Mexico and Canada with hefty tariffs upon his return to the White House.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/26/436269.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "U.S. President-elect Donald Trump attends a viewing of the launch of the sixth test flight of the SpaceX Starship rocket, in Brownsville, Texas, on Nov. 19. Trump on Monday threatened to slap China, Mexico and Canada with hefty tariffs upon his return to the White House.")](https://www.japantimes.co.jp/business/2024/11/26/economy/trump-tariffs-mexico-canada/ "Trump pledges 25% tariffs on Canada and Mexico, and more levies on China")
 
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
-
-[AI boom makes 139-year-old cable maker Japan’s hottest stock](https://www.japantimes.co.jp/business/2024/11/25/companies/ai-fujikura-stocks/ "AI boom makes 139-year-old cable maker Japan’s hottest stock")
-
-By [Aya Wagatsuma](https://www.japantimes.co.jp/author/3567/aya-wagatsuma/ "Aya Wagatsuma")  
-
-  [![Fujikura's headquarters in Tokyo's Koto Ward. The company's share price has surged by more than 400% this year. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/25/436122.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Fujikura's headquarters in Tokyo's Koto Ward. The company's share price has surged by more than 400% this year. ")](https://www.japantimes.co.jp/business/2024/11/25/companies/ai-fujikura-stocks/ "AI boom makes 139-year-old cable maker Japan’s hottest stock")
-
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Suspected arson in Sapporo leaves four injured](https://www.japantimes.co.jp/news/2024/11/27/japan/japan-sapporo-explosion/ "Suspected arson in Sapporo leaves four injured")
+[False report on Yasukuni Shrine visit 'extremely regrettable,' top spokesperson says](https://www.japantimes.co.jp/news/2024/11/27/japan/kyodo-news-yasukuni-report-mistake/ "False report on Yasukuni Shrine visit 'extremely regrettable,' top spokesperson says")
 
-  [![Firetrucks outside a building in Sapporo where an explosion left four people injured on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/26/436400.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Firetrucks outside a building in Sapporo where an explosion left four people injured on Tuesday.")](https://www.japantimes.co.jp/news/2024/11/27/japan/japan-sapporo-explosion/ "Suspected arson in Sapporo leaves four injured")
-
-[LIFE](https://www.japantimes.co.jp/life/ "LIFE")
-
-[Japan’s sauna movement: Relax, refresh, repeat](https://www.japantimes.co.jp/life/2024/11/25/lifestyle/sauna-culture-japan/ "Japan’s sauna movement: Relax, refresh, repeat")
-
-By [Greg Dvorak](https://www.japantimes.co.jp/author/6191/greg-dvorak/ "Greg Dvorak")  
-
-  [![Totopa in Tokyo’s Shinjuku Ward was picked by consultants TTNE as the best sauna of the year. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/25/435137.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Totopa in Tokyo’s Shinjuku Ward was picked by consultants TTNE as the best sauna of the year. ")](https://www.japantimes.co.jp/life/2024/11/25/lifestyle/sauna-culture-japan/ "Japan’s sauna movement: Relax, refresh, repeat")
+  [![Chief Cabinet Secretary Yoshimasa Hayashi during a news conference in Tokyo on Tuesday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/26/436444.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Chief Cabinet Secretary Yoshimasa Hayashi during a news conference in Tokyo on Tuesday")](https://www.japantimes.co.jp/news/2024/11/27/japan/kyodo-news-yasukuni-report-mistake/ "False report on Yasukuni Shrine visit 'extremely regrettable,' top spokesperson says")
 
 Podcast
 -------
@@ -253,25 +251,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[ICC prosecutor seeks arrest warrant for Myanmar military leader](https://www.japantimes.co.jp/news/2024/11/27/world/icc-myanmar-rohingya/ "ICC prosecutor seeks arrest warrant for Myanmar military leader")
+
+4 hours ago
+
+[Emperor and empress visit grave of Princess Yuriko](https://www.japantimes.co.jp/news/2024/11/27/japan/emperor-princess-yuriko-grave/ "Emperor and empress visit grave of Princess Yuriko")
+
+5 hours ago
+
+[DPP’s Tamaki leverages new position with energy proposal](https://www.japantimes.co.jp/news/2024/11/27/japan/politics/ishiba-tamaki-nuclear-energy/ "DPP’s Tamaki leverages new position with energy proposal")
+
+5 hours ago
+
 [VW confirms plans to exit controversial Xinjiang operation](https://www.japantimes.co.jp/business/2024/11/27/companies/volkswagen-xinjiang-china-forced-labor/ "VW confirms plans to exit controversial Xinjiang operation")
 
-52 mins ago
+7 hours ago
 
 [Panel defers decision on scrapping Japan's NTT law](https://www.japantimes.co.jp/business/2024/11/27/companies/ntt-law-panel/ "Panel defers decision on scrapping Japan's NTT law")
 
-1 hour ago
-
-[Biden hopes to parlay Lebanon ceasefire into a broader regional peace](https://www.japantimes.co.jp/news/2024/11/27/world/politics/biden-mideast-analysis/ "Biden hopes to parlay Lebanon ceasefire into a broader regional peace")
-
-1 hour ago
-
-[Iran's businesses bear brunt of daily power blackouts](https://www.japantimes.co.jp/business/2024/11/27/companies/iran-businesses-power-blackouts/ "Iran's businesses bear brunt of daily power blackouts")
-
-2 hours ago
-
-[China defense minister being investigated for corruption, report says](https://www.japantimes.co.jp/news/2024/11/27/asia-pacific/politics/china-defense-minister-corruption-dong-jun/ "China defense minister being investigated for corruption, report says")
-
-2 hours ago
+7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
