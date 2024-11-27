@@ -96,9 +96,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/traditional) [See All](https://classiccountrymusic.com/genre/traditional)
 
+* [Tracy Lawrence Helps Fry 1,600 Turkeys...](https://classiccountrymusic.com/tracy-lawrence-helps-fry-1600-turkeys-to-serve-25000-thanksgiving-meals-to-people-in-need/)
 * [Wynonna Judd Gives Breathtaking Performance of...](https://classiccountrymusic.com/wynonna-judd-gives-breathtaking-performance-of-patsy-clines-crazy/)
 * [Kix Brooks Is Stepping Down As...](https://classiccountrymusic.com/kix-brooks-is-stepping-down-as-the-host-of-american-country-countdown/)
-* [THE VOICE: Christina Eagle Advances To...](https://classiccountrymusic.com/the-voice-christina-eagle-advances-to-semi-finals-with-rowdy-cover-of-rebas-fancy/)
 
 ![bluegrass](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
