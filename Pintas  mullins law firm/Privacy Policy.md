@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![When was the first case of mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-when-was-the-first-case-of-mesothelioma.jpg "When Was the First Case of Mesothelioma?")](https://www.pintas.com/lung-cancer/when-was-the-first-case-of-mesothelioma/ "When Was the First Case of Mesothelioma?")
+[![What evidence do you need to sue a nursing home?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-evidence-do-you-need-to-sue-a-nursing-home-scaled.jpg "What Evidence Do You Need to Sue a Nursing Home?")](https://www.pintas.com/faq/what-evidence-do-you-need-to-sue-a-nursing-home/ "What Evidence Do You Need to Sue a Nursing Home?")
 
-[#### When Was the First Case of Mesothelioma?](https://www.pintas.com/lung-cancer/when-was-the-first-case-of-mesothelioma/)
+[#### What Evidence Do You Need to Sue a Nursing Home?](https://www.pintas.com/faq/what-evidence-do-you-need-to-sue-a-nursing-home/)
 
-[![Is malnutrition common in seniors with dementia?](https://www.pintas.com/wp-content/uploads/2021/03/elderly-woman-with-a-memory-problem-300x169.jpg "Is Malnutrition Common in Seniors with Dementia?")](https://www.pintas.com/faq/is-malnutrition-common-in-seniors-with-dementia/ "Is Malnutrition Common in Seniors with Dementia?")
+[![What is the talcum powder lawsuit?](https://www.pintas.com/wp-content/uploads/2020/03/johnson-and-johnson-talcum-powder-lawsuit-lawyer-what-is-the-talcum-powder-lawsuit.jpg "What Is the Talcum Powder Lawsuit?")](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/what-is-the-talcum-powder-lawsuit/ "What Is the Talcum Powder Lawsuit?")
 
-[#### Is Malnutrition Common in Seniors with Dementia?](https://www.pintas.com/faq/is-malnutrition-common-in-seniors-with-dementia/)
+[#### What Is the Talcum Powder Lawsuit?](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/what-is-the-talcum-powder-lawsuit/)
 
-[![How long can lung cancer go untreated?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-how-long-can-lung-cancer-go-untreated.jpg "How Long Can Lung Cancer Go Untreated?")](https://www.pintas.com/practice-areas/lung-cancer/how-long-can-cancer-go-untreated "How Long Can Lung Cancer Go Untreated?")
+[![Serious head injuries from falls at assisted living facilities](https://www.pintas.com/wp-content/uploads/2021/03/elderly-lady-sitting-on-floor-after-a-fall-300x200.jpg "Serious Head Injuries From Falls at Assisted Living Facilities")](https://www.pintas.com/faq/can-falls-at-assisted-livings-lead-to-serious-head-injuries/ "Serious Head Injuries From Falls at Assisted Living Facilities")
 
-[#### How Long Can Lung Cancer Go Untreated?](https://www.pintas.com/practice-areas/lung-cancer/how-long-can-cancer-go-untreated)
+[#### Serious Head Injuries From Falls at Assisted Living Facilities](https://www.pintas.com/faq/can-falls-at-assisted-livings-lead-to-serious-head-injuries/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Phone
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
