@@ -99,8 +99,6 @@ Follow us:
 * [![](/themes/custom/nrf_d8/svg/icon-instagram.svg)](https://www.instagram.com/nrf/)
 * [![](/themes/custom/nrf_d8/svg/icon-youtube.svg)](https://www.youtube.com/user/NRFInternet)
 
-We are undergoing site maintenance. You may experience intermittent issues while navigating the site. Thank you for your patience.
-
 Privacy Policy
 ==============
 
