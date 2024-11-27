@@ -224,6 +224,8 @@ Patients & caregivers
 
 [Plain language summaries of clinical trial results](https://www.bms.com/patient-and-caregivers/plain-language-summary.html)
 
+[CAR T cell therapy patient resources](https://www.bms.com/patient-and-caregivers/car-t-cell-therapy-patient-resources.html)
+
 ### Related links
 
 [Immunology patient resources](https://www.bms.com/patient-and-caregivers/patient-resources-by-condition/immunology-resources.html)
