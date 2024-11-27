@@ -139,24 +139,23 @@ Save settings
 
 ### Featured Articles
 
+[![Make Money from Your Phone](https://www.wikihow.com/images/thumb/5/5d/Make-Money-from-Your-Phone-Step-18-Version-2.jpg/-crop-126-120-126px-Make-Money-from-Your-Phone-Step-18-Version-2.jpg)
+
+How to  
+Make Money on Your Phone: 18 Apps & Side Hustles](https://www.wikihow.com/Make-Money-from-Your-Phone)
+
+[![Sprinkle Sprinkle](https://www.wikihow.com/images/thumb/5/5b/Sprinkle-Sprinkle-Step-10.jpg/-crop-126-120-126px-Sprinkle-Sprinkle-Step-10.jpg)
+
+Sprinkle Sprinkle Explained: What It Means and How to Use It](https://www.wikihow.com/Sprinkle-Sprinkle)
+
+[![Make Icee Slime](https://www.wikihow.com/images/thumb/a/ae/Make-Icee-Slime-Step-35.jpg/-crop-126-120-126px-Make-Icee-Slime-Step-35.jpg)
+
+6 Simple Icee Slime Recipes: Blue Raspberry, Cherry, & More](https://www.wikihow.com/Make-Icee-Slime)
+
 [![Play Dominoes](https://www.wikihow.com/images/thumb/2/26/Play-Dominoes-Step-16.jpg/-crop-126-120-126px-Play-Dominoes-Step-16.jpg)
 
 How to  
 Play Dominoes](https://www.wikihow.com/Play-Dominoes)
-
-[![Schedule a Text](https://www.wikihow.com/images/thumb/c/c9/Schedule-a-Text-Step-20.jpg/-crop-126-120-126px-Schedule-a-Text-Step-20.jpg)
-
-How to  
-Schedule a Text Message on iPhone or Android](https://www.wikihow.com/Schedule-a-Text)
-
-[![Dating Profile Bio](https://www.wikihow.com/images/thumb/3/33/Dating-Profile-Bio-Step-17.jpg/-crop-126-120-126px-Dating-Profile-Bio-Step-17.jpg)
-
-How to  
-Write a Dating Profile Bio: 60+ Funny, Clever & Flirty Examples](https://www.wikihow.com/Dating-Profile-Bio)
-
-[![Connect My Phone to My TV](https://www.wikihow.com/images/thumb/c/c1/Connect-My-Phone-to-My-TV-Step-17-Version-2.jpg/-crop-126-120-126px-Connect-My-Phone-to-My-TV-Step-17-Version-2.jpg)
-
-4 Easy Ways to Connect an iPhone or Android to a TV](https://www.wikihow.com/Connect-My-Phone-to-My-TV)
 
   
 
@@ -199,4 +198,4 @@ Follow Us
 
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=8003466&cv=3.9.1&cj=1)
 
-133
+149
