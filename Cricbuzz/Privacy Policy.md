@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[WI vs BAN - WI Won](https://www.cricbuzz.com/live-cricket-scores/95205/wi-vs-ban-1st-test-bangladesh-tour-of-west-indies-2024 "West Indies v Bangladesh, 1st Test - WI Won")[ZIM vs PAK - PAK Won](https://www.cricbuzz.com/live-cricket-scores/100987/zim-vs-pak-2nd-odi-pakistan-tour-of-zimbabwe-2024 "Zimbabwe v Pakistan, 2nd ODI - PAK Won")[RSA vs SL - Preview](https://www.cricbuzz.com/live-cricket-scores/94404/rsa-vs-sl-1st-test-sri-lanka-tour-of-south-africa-2024 "South Africa v Sri Lanka, 1st Test - Preview")[MSA vs DBL - MSA Won](https://www.cricbuzz.com/live-cricket-scores/109509/msa-vs-dbl-21st-match-abu-dhabi-t10-league-2024 "Morrisville Samp Army v Delhi Bulls, 21st Match - MSA Won")[GAW vs LHQ - Preview](https://www.cricbuzz.com/live-cricket-scores/109660/gaw-vs-lhq-1st-match-global-super-league-2024 "Guyana Amazon Warriors v Lahore Qalandars, 1st Match - Preview")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[WI vs BAN - WI Won](https://www.cricbuzz.com/live-cricket-scores/95205/wi-vs-ban-1st-test-bangladesh-tour-of-west-indies-2024 "West Indies v Bangladesh, 1st Test - WI Won")[ZIM vs PAK - PAK Won](https://www.cricbuzz.com/live-cricket-scores/100987/zim-vs-pak-2nd-odi-pakistan-tour-of-zimbabwe-2024 "Zimbabwe v Pakistan, 2nd ODI - PAK Won")[LHQ vs GAW - Live](https://www.cricbuzz.com/live-cricket-scores/109660/lhq-vs-gaw-1st-match-global-super-league-2024 "Lahore Qalandars v Guyana Amazon Warriors, 1st Match - Live")[RSA vs SL - Preview](https://www.cricbuzz.com/live-cricket-scores/94404/rsa-vs-sl-1st-test-sri-lanka-tour-of-south-africa-2024 "South Africa v Sri Lanka, 1st Test - Preview")[MSA vs DBL - MSA Won](https://www.cricbuzz.com/live-cricket-scores/109509/msa-vs-dbl-21st-match-abu-dhabi-t10-league-2024 "Morrisville Samp Army v Delhi Bulls, 21st Match - MSA Won")
 
 AllLive NowToday
 
@@ -168,11 +168,7 @@ AllLive NowToday
     
     Abu Dhabi T10 League 2024
     
-    [Chennai Brave Jaguars vs Morrisville Samp Army](https://www.cricbuzz.com/live-cricket-scores/109474/cbj-vs-msa-15th-match-abu-dhabi-t10-league-2024 "Chennai Brave Jaguars v Morrisville Samp Army, 15th Match - MSA Won")
-    
-    15th Match
-    
-* [Team Abu Dhabi vs New York Strikers](https://www.cricbuzz.com/live-cricket-scores/109481/ad-vs-nys-16th-match-abu-dhabi-t10-league-2024 "Team Abu Dhabi v New York Strikers, 16th Match - NYS Won")
+    [Team Abu Dhabi vs New York Strikers](https://www.cricbuzz.com/live-cricket-scores/109481/ad-vs-nys-16th-match-abu-dhabi-t10-league-2024 "Team Abu Dhabi v New York Strikers, 16th Match - NYS Won")
     
     16th Match
     
@@ -222,7 +218,7 @@ AllLive NowToday
     
 * GSL, 2024
     
-    [Guyana Amazon Warriors vs Lahore Qalandars](https://www.cricbuzz.com/live-cricket-scores/109660/gaw-vs-lhq-1st-match-gsl-2024 "Guyana Amazon Warriors v Lahore Qalandars, 1st Match - Preview")
+    [Lahore Qalandars vs Guyana Amazon Warriors  LIVE](https://www.cricbuzz.com/live-cricket-scores/109660/lhq-vs-gaw-1st-match-gsl-2024 "Lahore Qalandars v Guyana Amazon Warriors, 1st Match - Live")
     
     1st Match
     
@@ -243,6 +239,10 @@ AllLive NowToday
     Group A
     
 * [Jharkhand vs Manipur](https://www.cricbuzz.com/live-cricket-scores/98355/jhkd-vs-mnp-group-c-sma-trophy-2024 "Jharkhand v Manipur, Group C - JHKD Won")
+    
+    Group C
+    
+* [Delhi vs Jammu and Kashmir](https://www.cricbuzz.com/live-cricket-scores/98350/del-vs-jk-group-c-sma-trophy-2024 "Delhi v Jammu and Kashmir, Group C - DEL Won")
     
     Group C
     
@@ -270,10 +270,6 @@ AllLive NowToday
     
     Group D
     
-* [Delhi vs Jammu and Kashmir](https://www.cricbuzz.com/live-cricket-scores/98350/del-vs-jk-group-c-sma-trophy-2024 "Delhi v Jammu and Kashmir, Group C - DEL Won")
-    
-    Group C
-    
 * [Madhya Pradesh vs Meghalaya](https://www.cricbuzz.com/live-cricket-scores/98384/mp-vs-mgly-group-a-sma-trophy-2024 "Madhya Pradesh v Meghalaya, Group A - MP Won")
     
     Group A
@@ -283,6 +279,10 @@ AllLive NowToday
     Group C
     
 * [Tamil Nadu vs Sikkim](https://www.cricbuzz.com/live-cricket-scores/98402/tn-vs-skm-group-b-sma-trophy-2024 "Tamil Nadu v Sikkim, Group B - TN Won")
+    
+    Group B
+    
+* [Saurashtra vs Gujarat](https://www.cricbuzz.com/live-cricket-scores/98393/saur-vs-guj-group-b-sma-trophy-2024 "Saurashtra v Gujarat, Group B - GUJ Won")
     
     Group B
     
@@ -302,10 +302,6 @@ AllLive NowToday
     
     Group C
     
-* [Saurashtra vs Gujarat](https://www.cricbuzz.com/live-cricket-scores/98393/saur-vs-guj-group-b-sma-trophy-2024 "Saurashtra v Gujarat, Group B - GUJ Won")
-    
-    Group B
-    
 * [Bengal vs Mizoram](https://www.cricbuzz.com/live-cricket-scores/98447/ben-vs-miz-group-a-sma-trophy-2024 "Bengal v Mizoram, Group A - Preview")
     
     Group A
@@ -315,6 +311,10 @@ AllLive NowToday
     Group C
     
 * [Gujarat vs Tripura](https://www.cricbuzz.com/live-cricket-scores/98458/guj-vs-tri-group-b-sma-trophy-2024 "Gujarat v Tripura, Group B - Preview")
+    
+    Group B
+    
+* [Karnataka vs Saurashtra](https://www.cricbuzz.com/live-cricket-scores/98454/kar-vs-saur-group-b-sma-trophy-2024 "Karnataka v Saurashtra, Group B - Preview")
     
     Group B
     
@@ -342,10 +342,6 @@ AllLive NowToday
     
     Group C
     
-* [Karnataka vs Saurashtra](https://www.cricbuzz.com/live-cricket-scores/98454/kar-vs-saur-group-b-sma-trophy-2024 "Karnataka v Saurashtra, Group B - Preview")
-    
-    Group B
-    
 * [Arunachal Pradesh vs Jammu and Kashmir](https://www.cricbuzz.com/live-cricket-scores/98548/arnp-vs-jk-group-c-sma-trophy-2024 "Arunachal Pradesh v Jammu and Kashmir, Group C - Preview")
     
     Group C
@@ -358,13 +354,13 @@ AllLive NowToday
     
     Group A
     
-* [Maharashtra vs Mumbai](https://www.cricbuzz.com/live-cricket-scores/98564/mah-vs-mum-group-e-sma-trophy-2024 "Maharashtra v Mumbai, Group E - Preview")
-    
-    Group E
-    
 * [Assam vs Chandigarh](https://www.cricbuzz.com/live-cricket-scores/98557/asm-vs-cdg-group-d-sma-trophy-2024 "Assam v Chandigarh, Group D - Preview")
     
     Group D
+    
+* [Madhya Pradesh vs Punjab](https://www.cricbuzz.com/live-cricket-scores/98508/mp-vs-pun-group-a-sma-trophy-2024 "Madhya Pradesh v Punjab, Group A - Preview")
+    
+    Group A
     
 * [Delhi vs Haryana](https://www.cricbuzz.com/live-cricket-scores/98539/del-vs-har-group-c-sma-trophy-2024 "Delhi v Haryana, Group C - Preview")
     
@@ -374,9 +370,9 @@ AllLive NowToday
     
     Group B
     
-* [Madhya Pradesh vs Punjab](https://www.cricbuzz.com/live-cricket-scores/98508/mp-vs-pun-group-a-sma-trophy-2024 "Madhya Pradesh v Punjab, Group A - Preview")
+* [Maharashtra vs Mumbai](https://www.cricbuzz.com/live-cricket-scores/98564/mah-vs-mum-group-e-sma-trophy-2024 "Maharashtra v Mumbai, Group E - Preview")
     
-    Group A
+    Group E
     
 * CSA Four-Day Series Division One 2024-25
     
@@ -408,7 +404,7 @@ AllLive NowToday
     
     13th Match
     
-* [Tasmania vs New South Wales](https://www.cricbuzz.com/live-cricket-scores/102918/tas-vs-nsw-14th-match-sheffield-shield-2024-25 "Tasmania v New South Wales, 14th Match - Stumps")
+* [Tasmania vs New South Wales  LIVE](https://www.cricbuzz.com/live-cricket-scores/102918/tas-vs-nsw-14th-match-sheffield-shield-2024-25 "Tasmania v New South Wales, 14th Match - Live")
     
     14th Match
     
@@ -428,17 +424,17 @@ AllLive NowToday
     
 * Plunket Shield
     
-    [Northern Knights vs Otago](https://www.cricbuzz.com/live-cricket-scores/107475/nk-vs-otg-8th-match-plunket-shield "Northern Knights v Otago, 8th Match - Upcoming")
+    [Central Districts vs Wellington](https://www.cricbuzz.com/live-cricket-scores/107481/cd-vs-wel-9th-match-plunket-shield "Central Districts v Wellington, 9th Match - Upcoming")
+    
+    9th Match
+    
+* [Northern Knights vs Otago](https://www.cricbuzz.com/live-cricket-scores/107475/nk-vs-otg-8th-match-plunket-shield "Northern Knights v Otago, 8th Match - Upcoming")
     
     8th Match
     
 * [Auckland vs Canterbury](https://www.cricbuzz.com/live-cricket-scores/107467/akl-vs-cntbry-7th-match-plunket-shield "Auckland v Canterbury, 7th Match - Upcoming")
     
     7th Match
-    
-* [Central Districts vs Wellington](https://www.cricbuzz.com/live-cricket-scores/107481/cd-vs-wel-9th-match-plunket-shield "Central Districts v Wellington, 9th Match - Upcoming")
-    
-    9th Match
     
 * WOMEN
     
@@ -771,37 +767,37 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 [ICC likely to propose hybrid model for CT25](https://www.cricbuzz.com/cricket-news/132556/icc-likely-to-propose-hybrid-model-to-pcb "ICC likely to propose hybrid model for CT25")
 
-58m ago
+6h ago
 
   [](https://www.cricbuzz.com/cricket-news/132555/wi-complete-big-win-to-take-series-lead "WI complete big win to take series lead")
 
 [WI complete big win to take series lead](https://www.cricbuzz.com/cricket-news/132555/wi-complete-big-win-to-take-series-lead "WI complete big win to take series lead")
 
-3h ago
+9h ago
 
   [](https://www.cricbuzz.com/cricket-news/132554/marnus-labuschagne-at-his-best-is-the-player-we-need-andrew-mcdonald "Marnus, at his best, is the player we need: Andrew McDonald")
 
 [Marnus, at his best, is the player we need: Andrew McDonald](https://www.cricbuzz.com/cricket-news/132554/marnus-labuschagne-at-his-best-is-the-player-we-need-andrew-mcdonald "Marnus, at his best, is the player we need: Andrew McDonald")
 
-4h ago
+10h ago
 
   [](https://www.cricbuzz.com/cricket-news/132553/south-africa-throw-down-gauntlet-in-push-for-wtc-title "South Africa throw down gauntlet in push for WTC title")
 
 [South Africa throw down gauntlet in push for WTC title](https://www.cricbuzz.com/cricket-news/132553/south-africa-throw-down-gauntlet-in-push-for-wtc-title "South Africa throw down gauntlet in push for WTC title")
 
-4h ago
+10h ago
 
   [](https://www.cricbuzz.com/cricket-news/132552/bangladesh-eye-crucial-points-in-bid-for-direct-world-cup-qualification "Bangladesh eye crucial points in bid for direct World Cup qualification")
 
 [Bangladesh eye crucial points in bid for direct World Cup qualification](https://www.cricbuzz.com/cricket-news/132552/bangladesh-eye-crucial-points-in-bid-for-direct-world-cup-qualification "Bangladesh eye crucial points in bid for direct World Cup qualification")
 
-6h ago
+12h ago
 
   [](https://www.cricbuzz.com/cricket-news/132551/saim-ayub-ton-powers-pakistan-to-dominant-series-levelling-win "Saim Ayub ton powers Pakistan to dominant series levelling win")
 
 [Saim Ayub ton powers Pakistan to dominant series levelling win](https://www.cricbuzz.com/cricket-news/132551/saim-ayub-ton-powers-pakistan-to-dominant-series-levelling-win "Saim Ayub ton powers Pakistan to dominant series levelling win")
 
-6h ago
+12h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
