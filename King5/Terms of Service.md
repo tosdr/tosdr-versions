@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/39bd4f1c-74cc-41c9-b288-e8731bb5b737/20241126T015901/39bd4f1c-74cc-41c9-b288-e8731bb5b737_16x9.jpg) ![](https://media.king5.com/assets/KING/images/39bd4f1c-74cc-41c9-b288-e8731bb5b737/20241126T015901/39bd4f1c-74cc-41c9-b288-e8731bb5b737_360x203.jpg)](https://www.king5.com/article/news/crime/4-washington-state-patrol-cars-struck-impaired-drivers/281-3f875ac7-3d02-4933-b39e-654b1d00b942)
+    *  [![](https://media.king5.com/assets/KING/images/df767be0-523a-434f-809f-a9cdb06ea797/20240812T163051/df767be0-523a-434f-809f-a9cdb06ea797_16x9.jpg) ![](https://media.king5.com/assets/KING/images/df767be0-523a-434f-809f-a9cdb06ea797/20240812T163051/df767be0-523a-434f-809f-a9cdb06ea797_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/northern-lights-visible-thursday-friday-weather-washington/281-8bf111b8-a8d4-42a5-b575-19c64b446856)
         
-        #### [4 Washington State Patrol cars struck by impaired drivers in 4 hours](https://www.king5.com/article/news/crime/4-washington-state-patrol-cars-struck-impaired-drivers/281-3f875ac7-3d02-4933-b39e-654b1d00b942)
+        #### [Northern lights may be visible on Thanksgiving - but it will be cloudy in western Washington](https://www.king5.com/article/weather/weather-blog/northern-lights-visible-thursday-friday-weather-washington/281-8bf111b8-a8d4-42a5-b575-19c64b446856)
         
-    *  [![](https://media.king5.com/assets/KING/images/8d1e5e46-8750-46c1-b2a0-80d50ee23c2c/20241127T072052/8d1e5e46-8750-46c1-b2a0-80d50ee23c2c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/8d1e5e46-8750-46c1-b2a0-80d50ee23c2c/20241127T072052/8d1e5e46-8750-46c1-b2a0-80d50ee23c2c_360x203.jpg)](https://www.king5.com/article/news/local/911-response-drones-redmond-police-first-in-wa-faa-approval-flying-without-visual-observer/281-f1c505f9-8ccf-45ca-9d47-74bdb203aeca)
+    *  [![](https://media.king5.com/assets/KING/images/d321fcc4-2498-4770-a4ac-2e55a9d72922/20241127T042545/d321fcc4-2498-4770-a4ac-2e55a9d72922_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d321fcc4-2498-4770-a4ac-2e55a9d72922/20241127T042545/d321fcc4-2498-4770-a4ac-2e55a9d72922_360x203.jpg)](https://www.king5.com/article/travel/15-million-passengers-expected-travel-sea-thanksgiving-season/281-6eebe45a-0f2c-4527-9ece-c4d20f7f6dc5)
         
-        #### [Redmond police celebrating 'monumental' decision by FAA that approves drone use on more 911 calls](https://www.king5.com/article/news/local/911-response-drones-redmond-police-first-in-wa-faa-approval-flying-without-visual-observer/281-f1c505f9-8ccf-45ca-9d47-74bdb203aeca)
+        #### [Flying through SEA Airport for Thanksgiving? Here's what you should know](https://www.king5.com/article/travel/15-million-passengers-expected-travel-sea-thanksgiving-season/281-6eebe45a-0f2c-4527-9ece-c4d20f7f6dc5)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/df767be0-523a-434f-809f-a9cdb06ea797/20240812T163051/df767be0-523a-434f-809f-a9cdb06ea797_16x9.jpg) ![](https://media.king5.com/assets/KING/images/df767be0-523a-434f-809f-a9cdb06ea797/20240812T163051/df767be0-523a-434f-809f-a9cdb06ea797_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/northern-lights-visible-thursday-friday-weather-washington/281-8bf111b8-a8d4-42a5-b575-19c64b446856)
+        
+        #### [Northern lights may be visible on Thanksgiving - but it will be cloudy in western Washington](https://www.king5.com/article/weather/weather-blog/northern-lights-visible-thursday-friday-weather-washington/281-8bf111b8-a8d4-42a5-b575-19c64b446856)
+        
     *  [![](https://media.king5.com/assets/KING/images/82079bf0-6a07-4308-ba49-e001a289ba66/20241127T130254/82079bf0-6a07-4308-ba49-e001a289ba66_16x9.jpg) ![](https://media.king5.com/assets/KING/images/82079bf0-6a07-4308-ba49-e001a289ba66/20241127T130254/82079bf0-6a07-4308-ba49-e001a289ba66_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
-    *  [![](https://media.king5.com/assets/KING/images/fda0c3fc-38a2-45fa-ba1c-40b2ce224e74/20241126T062402/fda0c3fc-38a2-45fa-ba1c-40b2ce224e74_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fda0c3fc-38a2-45fa-ba1c-40b2ce224e74/20241126T062402/fda0c3fc-38a2-45fa-ba1c-40b2ce224e74_360x203.jpg)](https://www.king5.com/article/weather/severe-weather/whatcom-county-couple-unharmed-massive-tree-crushes-their-home-bomb-cyclone/281-dbe62f35-c72a-4010-8bdf-05215ba5d179)
-        
-        #### [Whatcom County couple unharmed after massive tree crushes their home during bomb cyclone](https://www.king5.com/article/weather/severe-weather/whatcom-county-couple-unharmed-massive-tree-crushes-their-home-bomb-cyclone/281-dbe62f35-c72a-4010-8bdf-05215ba5d179)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-43°
+46°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
