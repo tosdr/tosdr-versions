@@ -314,11 +314,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![Zoran Popovic's solo exhibition 'Time Based Works', Artget Gallery, Belgrade Cultural Center, 2007](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-time-based-works/vremenski-radovi/instalacija-rada-mentalna-umetnost-24-bond-street-new-york-new-york-jul-1974.jpg?itok=so3Wel_s "Solo exhibition of Zoran Popovic, 'Time Based Works', Artget Gallery, Belgrade Cultural Center, 2007 ")](http://seecult.org/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-time-based-works-vremenski-radovi)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/karavukovo/umetnici-biografije/ana-krstich.jpg?itok=igEgr077)](http://seecult.org/galerija/galerija-umetnika/karavukovo/umetnici-biografije)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/jammin.jpg?itok=uRCEB6sW)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/izlozbe-exhibitions/54-bijenale-u-veneciji/nacionalni-paviljoni/fabrizio-plessi.jpg?itok=wufK_D4I)](http://seecult.org/galerija/foto-galerija/izlo%C5%BEbe-exhibitions/54-bijenale-u-veneciji/nacionalni-paviljoni)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
