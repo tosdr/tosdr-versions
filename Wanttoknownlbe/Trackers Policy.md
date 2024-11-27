@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/valse-vlag-operaties/niemand-overleed-bij-de-sandy-hook-aanslag/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/corona-kwestie/30-wetenschappelijke-covid-studies-rapporten-fraude-en-manipulatie/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
