@@ -110,11 +110,11 @@ Recent Stories
 
 Monitor Daily
 
-November 25, 2024
+November 26, 2024
 
-Donald Trump’s balancing act on China
+Gabbling and gobbling
 
-The big question on many people’s minds, both in the United States and abroad, concerns what President-elect Donald Trump is actually going to do. His first term offers some clues as to how rhetoric became policy (or not). But much has changed.Today, Ann Scott Tyson asks this question about Mr. Trump’s China policy. She shows how two core elements of Mr. Trump’s political identity are in conflict on China. How he manages that balance will be something to watch.
+Today, Monitor writers explore the implications of International Criminal Court charges and how President-elect Donald Trump’s economic team is taking shape. Then we’ll turn to something far lighter that may be on your mind: Did Ben Franklin really admire turkeys as much as holiday lore sometimes suggests?Food writer Kendra Nordin Beato tackles that question and share some insights on the most analyzed, pored over, and otherwise parsed meal in the United States. You’ll have plenty to gabble about as you gobble.
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### With Netanyahu warrant, international court tests priorities of Israel’s allies](https://www.csmonitor.com/World/Europe/2024/1126/icc-netanyahu-gaza-israel-famine-war-crimes "With Netanyahu warrant, international court tests priorities of Israel’s allies")
+
 [### Wild animals are disappearing in Latin America. Colombia is fighting back.](https://www.csmonitor.com/World/Americas/2024/1126/colombia-wildlife-trafficking-animals-environment "Wild animals are disappearing in Latin America. Colombia is fighting back.")
 
 [### In Canada, too, people remember a feast with settlers and Indigenous people](https://www.csmonitor.com/World/Americas/2024/1126/canada-thanksgiving-acadian-indigenous-harvest-celebration "In Canada, too, people remember a feast with settlers and Indigenous people")
-
-[### Why is Walmart the biggest company yet to cut its DEI policies?](https://www.csmonitor.com/USA/2024/1126/Walmart-DEI-initiatives-rollback-affirmative-action "Why is Walmart the biggest company yet to cut its DEI policies?")
 
 * * *
 
