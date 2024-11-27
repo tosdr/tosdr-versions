@@ -213,7 +213,7 @@ The Broadcast and On Demand Bulletin reports on investigations into potential br
 
 [### Organisations we work with
 
-Organisations we work with, including the Consumer Forum for Communications and other relevant bodies.](https://www.ofcom.org.uk/about-ofcom/what-we-do/organisations-we-work-with/?language=en)
+Organisations we work with, including the Consumer Forum for Communications and other relevant bodies.](https://www.ofcom.org.uk/about-ofcom/what-we-do/organisations-we-work-with/)
 
 [### Register of disclosable interests
 
