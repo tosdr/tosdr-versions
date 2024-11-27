@@ -20,9 +20,9 @@ Fork
 
 You've already forked org
 
-[30](https://codeberg.org/Codeberg/org/forks)
+[29](https://codeberg.org/Codeberg/org/forks)
 
-[Code](https://codeberg.org/Codeberg/org) [Issues 10](https://codeberg.org/Codeberg/org/issues) [Pull requests 15](https://codeberg.org/Codeberg/org/pulls) [Activity](https://codeberg.org/Codeberg/org/activity)
+[Code](https://codeberg.org/Codeberg/org) [Issues 10](https://codeberg.org/Codeberg/org/issues) [Pull requests 14](https://codeberg.org/Codeberg/org/pulls) [Activity](https://codeberg.org/Codeberg/org/activity)
 
 **main**
 
