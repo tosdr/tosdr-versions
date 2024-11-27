@@ -133,6 +133,18 @@
 
 #### Latest news
 
+[![A person looking at news websites on their mobile phone and laptop](/siteassets/resources/images/-news-centre/thumbnail-images/internet/news-on-phone-and-laptop-screens.jpg?width=1920&height=1085&quality=80)
+
+### Four in 10 UK adults encounter misinformation
+
+27 November 2024](https://www.ofcom.org.uk/media-use-and-attitudes/attitudes-to-news/four-in-10-uk-adults-encounter-misinformation/)
+
+[![Women stressed Hero](/siteassets/resources/images/-news-centre/thumbnail-images/phones/women-stressed-hero.png?width=1920&height=1085&quality=80)
+
+### Seasonal scams to watch out for
+
+27 November 2024](https://www.ofcom.org.uk/phones-and-broadband/scam-calls-and-messages/seasonal-scams-to-watch-out-for/)
+
 [![Complaints-visual-web](/siteassets/resources/images/-news-centre/thumbnail-images/phones/complaints-visual-web.jpg?width=1920&height=1085&quality=80)
 
 ### Latest telecoms and pay-TV complaints figures revealed
@@ -145,19 +157,7 @@
 
 13 November 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/community-radio/greater-flexibility-for-community-radio-stations-to-serve-local-listeners/)
 
-[![radio tower](/siteassets/resources/images/-news-centre/body-images/2024/mmwave-spectrum-auction-moves-a-step-closer/hero-1336--560px-mmwave-spectrum-auction-moves-a-step-closer.png?width=1920&height=1085&quality=80)
-
-### mmWave spectrum auction moves a step closer
-
-11 November 2024](https://www.ofcom.org.uk/spectrum/frequencies/mmwave-spectrum-auction-moves-a-step-closer/)
-
-[![Abstract Online (Web)](/siteassets/resources/images/-news-centre/thumbnail-images/online-safety/abstract-online-web.jpg?width=1920&height=1085&quality=80)
-
-### Open letter to UK online service providers regarding Generative AI and chatbots
-
-8 November 2024](https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/open-letter-to-uk-online-service-providers-regarding-generative-ai-and-chatbots/)
-
- [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/corporate-policies/general-privacy-statement/?language=cy "Switch to Welsh")
+ [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/corporate-policies/general-privacy-statement/ "Switch to Welsh")
 
 1. [Home](https://www.ofcom.org.uk/)
 2. [About Ofcom](https://www.ofcom.org.uk/about-ofcom/)
