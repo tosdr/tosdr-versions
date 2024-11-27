@@ -285,29 +285,11 @@ Past Week
 
 ### Most Read Articles
 
-[![Bessis sitting at an outdoor café in Paris.](https://www.quantamagazine.org/wp-content/uploads/2024/11/QADavidBessis-crLaurenceGeai-Thumbnail.webp)](https://www.quantamagazine.org/mathematical-thinking-isnt-what-you-think-it-is-20241118/)
+[](https://www.quantamagazine.org/privacy-policy/)
 
-[#### Mathematical Thinking Isn’t What You Think It Is](https://www.quantamagazine.org/mathematical-thinking-isnt-what-you-think-it-is-20241118/)
+[#### Privacy Policy](https://www.quantamagazine.org/privacy-policy/)
 
-_By_ [Kelsey Houston-Edwards](https://www.quantamagazine.org/authors/kelsey-houston-edwards)
-
-[![](https://www.quantamagazine.org/wp-content/uploads/2024/11/Meet-Luca_crRobertNeubeker-Thumbnail.webp)](https://www.quantamagazine.org/all-life-on-earth-today-descended-from-a-single-cell-meet-luca-20241120/)
-
-[#### All Life on Earth Today Descended From a Single Cell. Meet LUCA.](https://www.quantamagazine.org/all-life-on-earth-today-descended-from-a-single-cell-meet-luca-20241120/)
-
-_By_ [Jonathan Lambert](https://www.quantamagazine.org/authors/jonathan-lambert)
-
-[![An illustration of a man with an apple and looking at his reflection, in which the apple has a bite taken out of it, evoking the way that quantum reference frames can affect the perceived order of events.](https://www.quantamagazine.org/wp-content/uploads/2024/11/Quantum-Reference-Frames_crMichele-Sclafani-Thumbnail.webp)](https://www.quantamagazine.org/in-the-quantum-world-even-points-of-view-are-uncertain-20241122/)
-
-[#### In the Quantum World, Even Points of View Are Uncertain](https://www.quantamagazine.org/in-the-quantum-world-even-points-of-view-are-uncertain-20241122/)
-
-_By_ [Anil Ananthaswamy](https://www.quantamagazine.org/authors/anil-ananthaswamy)
-
-[![](https://www.quantamagazine.org/wp-content/uploads/2024/11/PublicKeyCryptoExplainer-crKristinaArmitage-Thumbnail.webp)](https://www.quantamagazine.org/how-public-key-cryptography-really-works-20241115/)
-
-[#### How Public Key Cryptography Really Works, Using Only Simple Math](https://www.quantamagazine.org/how-public-key-cryptography-really-works-20241115/)
-
-_By_ [John Pavlus](https://www.quantamagazine.org/authors/john-pavlus)
+_By_ [Quanta Magazine](https://www.quantamagazine.org/authors/quanta)
 
 The Quanta Newsletter
 
