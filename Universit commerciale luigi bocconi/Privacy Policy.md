@@ -88,7 +88,7 @@ Menu Close
     [Overview](https://www.unibocconi.eu/en/current-students)
     
     * [Welcome Days](https://www.unibocconi.eu/en/current-students/welcome-days)
-    * [Bachelor of Science Programs](https://www.unibocconi.eu/en/current-students/bachelor-science-programs)
+    * [Bachelor Programs](https://www.unibocconi.eu/en/current-students/bachelor-programs)
     * [Master of Science Program](https://www.unibocconi.eu/en/current-students/master-science-program)
     * [Application and Admissions](https://www.unibocconi.eu/en/current-students/application-and-admissions)
     * [Campus Life](https://www.unibocconi.eu/en/current-students/campus-life)
