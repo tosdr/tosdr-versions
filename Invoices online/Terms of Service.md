@@ -203,50 +203,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Cornel Erasmus - TELA Loss Adjusters & Assessors
 
-![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=41baba2870e02f585d324648597191f8b919391baa8ec8491cef7a5c0fc471a5&c=87493240)  
-Wiselink Broadband Pty Ltd
+![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=4eb4edecc103594d892776dc8ce1356a0b3a1bd977fb03e3ff1fc2d5cd6fe176&c=197738823)  
+Repairs In Motion
 
-![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=41baba2870e02f585d324648597191f8b919391baa8ec8491cef7a5c0fc471a5&c=102329177)  
-Sarabi
+![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=4eb4edecc103594d892776dc8ce1356a0b3a1bd977fb03e3ff1fc2d5cd6fe176&c=71631880)  
+Digifax (Pty) Ltd T/A SecurityHyper
 
-![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=41baba2870e02f585d324648597191f8b919391baa8ec8491cef7a5c0fc471a5&c=119615434)  
-Blue Bulls Rugby Coaches Association
+![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=4eb4edecc103594d892776dc8ce1356a0b3a1bd977fb03e3ff1fc2d5cd6fe176&c=142007120)  
+Xpress Designs
 
-![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=41baba2870e02f585d324648597191f8b919391baa8ec8491cef7a5c0fc471a5&c=164688767)  
-Peter Salvage Pty Ltd
+![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=4eb4edecc103594d892776dc8ce1356a0b3a1bd977fb03e3ff1fc2d5cd6fe176&c=174352502)  
+Druce Digital
 
-![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=41baba2870e02f585d324648597191f8b919391baa8ec8491cef7a5c0fc471a5&c=110114327)  
-VerdanTech Pty Ltd
+![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=4eb4edecc103594d892776dc8ce1356a0b3a1bd977fb03e3ff1fc2d5cd6fe176&c=42264854)  
+Lemba Truck Stop
 
-![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=41baba2870e02f585d324648597191f8b919391baa8ec8491cef7a5c0fc471a5&c=203177361)  
-Hydroworld T/A Milliqua
+![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=4eb4edecc103594d892776dc8ce1356a0b3a1bd977fb03e3ff1fc2d5cd6fe176&c=36342492)  
+Electro-Heat
 
-![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=41baba2870e02f585d324648597191f8b919391baa8ec8491cef7a5c0fc471a5&c=80160164)  
-Brand's Fountains Deco and Events Coordinatoin
+![valued client Cooper Power](https://www.invoicesonline.co.za/scripts/image.php?bid=8689&file=logo_300_100&type=&fe=4eb4edecc103594d892776dc8ce1356a0b3a1bd977fb03e3ff1fc2d5cd6fe176&c=114270684)  
+Cooper Power
 
-![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=41baba2870e02f585d324648597191f8b919391baa8ec8491cef7a5c0fc471a5&c=85725125)  
-National Elite Security Services (PTY) LTD
+![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=4eb4edecc103594d892776dc8ce1356a0b3a1bd977fb03e3ff1fc2d5cd6fe176&c=181646084)  
+SMART GUY PCS (PTY) LTD
 
-![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=41baba2870e02f585d324648597191f8b919391baa8ec8491cef7a5c0fc471a5&c=145213364)  
-Brilliant Roof Products
+![valued client Kara Medical (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=3913&file=logo_300_100&type=&fe=4eb4edecc103594d892776dc8ce1356a0b3a1bd977fb03e3ff1fc2d5cd6fe176&c=39082690)  
+Kara Medical (Pty) Ltd
 
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=41baba2870e02f585d324648597191f8b919391baa8ec8491cef7a5c0fc471a5&c=67989097)  
-West Coast Horse Trails
+![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=4eb4edecc103594d892776dc8ce1356a0b3a1bd977fb03e3ff1fc2d5cd6fe176&c=30259292)  
+Oukraal Merino's
 
-![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=41baba2870e02f585d324648597191f8b919391baa8ec8491cef7a5c0fc471a5&c=82062708)  
-FX ACCOUNTING
+![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=4eb4edecc103594d892776dc8ce1356a0b3a1bd977fb03e3ff1fc2d5cd6fe176&c=188696869)  
+Little Nutty Professors
 
-![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=41baba2870e02f585d324648597191f8b919391baa8ec8491cef7a5c0fc471a5&c=99031252)  
-United Paintball Federation
+![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=4eb4edecc103594d892776dc8ce1356a0b3a1bd977fb03e3ff1fc2d5cd6fe176&c=115393441)  
+M's Frozen Delights
 
-![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=41baba2870e02f585d324648597191f8b919391baa8ec8491cef7a5c0fc471a5&c=23850416)  
-Nogana Events and Decor
+![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=4eb4edecc103594d892776dc8ce1356a0b3a1bd977fb03e3ff1fc2d5cd6fe176&c=200319434)  
+Westside Car Audio CC
 
-![valued client De light Investments(Pty)Ltd trading as Serene Memorials](https://www.invoicesonline.co.za/scripts/image.php?bid=6723&file=logo_300_100&type=&fe=41baba2870e02f585d324648597191f8b919391baa8ec8491cef7a5c0fc471a5&c=62279869)  
-De light Investments(Pty)Ltd trading as Serene Memorials
+![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=4eb4edecc103594d892776dc8ce1356a0b3a1bd977fb03e3ff1fc2d5cd6fe176&c=105453581)  
+NEW BEGINNINGS DESIGNS
 
-![valued client MONSTER SECURITY SERVICES (NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=41baba2870e02f585d324648597191f8b919391baa8ec8491cef7a5c0fc471a5&c=72707447)  
-MONSTER SECURITY SERVICES (NORTHAM)
+![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=4eb4edecc103594d892776dc8ce1356a0b3a1bd977fb03e3ff1fc2d5cd6fe176&c=15376058)  
+kidoscabbie
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
