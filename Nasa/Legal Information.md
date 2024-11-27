@@ -70,13 +70,13 @@ Suggested Searches
 
 ### Discovery Alert: a ‘Hot Neptune’ in a Tight Orbit
 
-article11 hours ago](https://science.nasa.gov/universe/exoplanets/discovery-alert-a-hot-neptune-in-a-tight-orbit/)[![NASA Data Reveals Role of Green Spaces in Cooling Cities](https://science.nasa.gov/wp-content/uploads/2024/11/sanaa-oli-20240608-1440.jpg)
+article19 hours ago](https://science.nasa.gov/universe/exoplanets/discovery-alert-a-hot-neptune-in-a-tight-orbit/)[![NASA Data Reveals Role of Green Spaces in Cooling Cities](https://science.nasa.gov/wp-content/uploads/2024/11/sanaa-oli-20240608-1440.jpg)
 
 5 min read
 
 ### NASA Data Reveals Role of Green Spaces in Cooling Cities
 
-article13 hours ago](https://science.nasa.gov/earth/climate-change/nasa-data-reveals-role-of-green-spaces-in-cooling-cities/)[![Europa Clipper illustration](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia26443-spacecraft-illustration.jpg?w=1024)
+article21 hours ago](https://science.nasa.gov/earth/climate-change/nasa-data-reveals-role-of-green-spaces-in-cooling-cities/)[![Europa Clipper illustration](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia26443-spacecraft-illustration.jpg?w=1024)
 
 5 min read
 
@@ -247,7 +247,7 @@ Back
 
 ### NASA’s Commercial Partners Make Progress on Low Earth Orbit Projects
 
-article 1 day ago](https://www.nasa.gov/general/nasas-commercial-partners-make-progress-on-low-earth-orbit-projects/)[![Europa Clipper illustration](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia26443-spacecraft-illustration.jpg?w=1024)
+article 2 days ago](https://www.nasa.gov/general/nasas-commercial-partners-make-progress-on-low-earth-orbit-projects/)[![Europa Clipper illustration](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia26443-spacecraft-illustration.jpg?w=1024)
 
 5 min read
 
@@ -269,19 +269,19 @@ article 2 days ago](https://science.nasa.gov/missions/xrism/nasa-jaxa-xrism-miss
 
 ### NASA’s Commercial Partners Make Progress on Low Earth Orbit Projects
 
-article 1 day ago](https://www.nasa.gov/general/nasas-commercial-partners-make-progress-on-low-earth-orbit-projects/)[![A close-up of a conduction chamber for testing the heat conduction properties of materials and equipment to be used in Artemis missions.](https://www.nasa.gov/wp-content/uploads/2024/11/ksh0121.jpg?w=1024)
+article 2 days ago](https://www.nasa.gov/general/nasas-commercial-partners-make-progress-on-low-earth-orbit-projects/)[![A close-up of a conduction chamber for testing the heat conduction properties of materials and equipment to be used in Artemis missions.](https://www.nasa.gov/wp-content/uploads/2024/11/ksh0121.jpg?w=1024)
 
 4 min read
 
 ### NASA Marshall Thermal Engineering Lab Provides Key Insight to Human Landing System
 
-article 4 days ago](https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-marshall-thermal-engineering-lab-provides-key-insight-to-human-landing-system/)[![NASA astronaut and Expedition 72 Flight Engineer Nick Hague pedals on the Cycle Ergometer with Vibration Isolation and Stabilization (CEVIS), an exercise cycle located aboard the International Space Station's Destiny laboratory module. CEVIS provides aerobic and cardiovascular conditioning through recumbent (leaning back position) or upright cycling activities.](https://images-assets.nasa.gov/image/iss072e034702/iss072e034702~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint)
+article 5 days ago](https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-marshall-thermal-engineering-lab-provides-key-insight-to-human-landing-system/)[![NASA astronaut and Expedition 72 Flight Engineer Nick Hague pedals on the Cycle Ergometer with Vibration Isolation and Stabilization (CEVIS), an exercise cycle located aboard the International Space Station's Destiny laboratory module. CEVIS provides aerobic and cardiovascular conditioning through recumbent (leaning back position) or upright cycling activities.](https://images-assets.nasa.gov/image/iss072e034702/iss072e034702~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint)
 
 8 min read
 
 ### Preguntas frecuentes: La verdadera historia del cuidado de la salud de los astronautas en el espacio
 
-article 5 days ago](https://www.nasa.gov/missions/station/preguntas-frecuentes-la-verdadera-historia-del-cuidado-de-la-salud-de-los-astronautas-en-el-espacio/)
+article 6 days ago](https://www.nasa.gov/missions/station/preguntas-frecuentes-la-verdadera-historia-del-cuidado-de-la-salud-de-los-astronautas-en-el-espacio/)
 
 ### Highlights
 
@@ -291,13 +291,13 @@ article 5 days ago](https://www.nasa.gov/missions/station/preguntas-frecuentes-l
 
 ### NASA AI, Open Science Advance Disaster Research and Recovery
 
-article 10 hours ago](https://science.nasa.gov/open-science/artificial-intelligence-hurricane-response/)[![NASA Data Reveals Role of Green Spaces in Cooling Cities](https://science.nasa.gov/wp-content/uploads/2024/11/sanaa-oli-20240608-1440.jpg)
+article 18 hours ago](https://science.nasa.gov/open-science/artificial-intelligence-hurricane-response/)[![NASA Data Reveals Role of Green Spaces in Cooling Cities](https://science.nasa.gov/wp-content/uploads/2024/11/sanaa-oli-20240608-1440.jpg)
 
 5 min read
 
 ### NASA Data Reveals Role of Green Spaces in Cooling Cities
 
-article 13 hours ago](https://science.nasa.gov/earth/climate-change/nasa-data-reveals-role-of-green-spaces-in-cooling-cities/)[![Amendment 70: New Opportunity: A.62 FarmFlux Science Team](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/content-feature/carboncycle/images/abandoned_farm.jpg)
+article 21 hours ago](https://science.nasa.gov/earth/climate-change/nasa-data-reveals-role-of-green-spaces-in-cooling-cities/)[![Amendment 70: New Opportunity: A.62 FarmFlux Science Team](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/content-feature/carboncycle/images/abandoned_farm.jpg)
 
 2 min read
 
@@ -313,13 +313,13 @@ article 6 days ago](https://science.nasa.gov/researchers/solicitations/roses-202
 
 ### Amendment 73: D.13 Astrophysics Pioneers Substantial Revisions
 
-article 9 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-73-d-13-astrophysics-pioneers-substantial-revisions/)[![Amendment 71: F.11 Stand-Alone Landing Site-Agnostic Payloads and Research Investigations on the Surface of the Moon Final Text and Due Dates Released.](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/lunar-science/science-payloads/prospect/Prospect_wide_horizontal.png)
+article 17 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-73-d-13-astrophysics-pioneers-substantial-revisions/)[![Amendment 71: F.11 Stand-Alone Landing Site-Agnostic Payloads and Research Investigations on the Surface of the Moon Final Text and Due Dates Released.](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/lunar-science/science-payloads/prospect/Prospect_wide_horizontal.png)
 
 2 min read
 
 ### Amendment 71: F.11 Stand-Alone Landing Site-Agnostic Payloads and Research Investigations on the Surface of the Moon Final Text and Due Dates Released.
 
-article 12 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-71-f-11-stand-alone-landing-site-agnostic-payloads-and-research-investigations-on-the-surface-of-the-moon-final-text-and-due-dates-released/)[![Europa Clipper illustration](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia26443-spacecraft-illustration.jpg?w=1024)
+article 20 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-71-f-11-stand-alone-landing-site-agnostic-payloads-and-research-investigations-on-the-surface-of-the-moon-final-text-and-due-dates-released/)[![Europa Clipper illustration](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia26443-spacecraft-illustration.jpg?w=1024)
 
 5 min read
 
@@ -335,19 +335,19 @@ article 2 days ago](https://www.nasa.gov/missions/europa-clipper/nasas-europa-cl
 
 ### Discovery Alert: a ‘Hot Neptune’ in a Tight Orbit
 
-article 11 hours ago](https://science.nasa.gov/universe/exoplanets/discovery-alert-a-hot-neptune-in-a-tight-orbit/)[![Amendment 72: D.14 Nancy Grace Roman Space Telescope Research and Support Participation Opportunities Final Text and Due Dates.](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/exo-explore/2023/09/n/NASARoman.jpg)
+article 19 hours ago](https://science.nasa.gov/universe/exoplanets/discovery-alert-a-hot-neptune-in-a-tight-orbit/)[![Amendment 72: D.14 Nancy Grace Roman Space Telescope Research and Support Participation Opportunities Final Text and Due Dates.](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/exo-explore/2023/09/n/NASARoman.jpg)
 
 2 min read
 
 ### Amendment 72: D.14 Nancy Grace Roman Space Telescope Research and Support Participation Opportunities Final Text and Due Dates.
 
-article 12 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-72-d-14-nancy-grace-roman-space-telescope-research-and-support-participation-opportunities-final-text-and-due-dates/)[![EXCITE (EXoplanet Climate Infrared TElescope)](https://science.nasa.gov/wp-content/uploads/2024/08/excite-mission-hero.jpg)
+article 20 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-72-d-14-nancy-grace-roman-space-telescope-research-and-support-participation-opportunities-final-text-and-due-dates/)[![EXCITE (EXoplanet Climate Infrared TElescope)](https://science.nasa.gov/wp-content/uploads/2024/08/excite-mission-hero.jpg)
 
 2 min read
 
 ### EXCITE (EXoplanet Climate Infrared TElescope)
 
-article 1 day ago](https://science.nasa.gov/mission/excite/)
+article 2 days ago](https://science.nasa.gov/mission/excite/)
 
 ### Highlights
 
@@ -357,19 +357,19 @@ article 1 day ago](https://science.nasa.gov/mission/excite/)
 
 ### Amendment 73: D.13 Astrophysics Pioneers Substantial Revisions
 
-article 9 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-73-d-13-astrophysics-pioneers-substantial-revisions/)[![Amendment 72: D.14 Nancy Grace Roman Space Telescope Research and Support Participation Opportunities Final Text and Due Dates.](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/exo-explore/2023/09/n/NASARoman.jpg)
+article 17 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-73-d-13-astrophysics-pioneers-substantial-revisions/)[![Amendment 72: D.14 Nancy Grace Roman Space Telescope Research and Support Participation Opportunities Final Text and Due Dates.](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/exo-explore/2023/09/n/NASARoman.jpg)
 
 2 min read
 
 ### Amendment 72: D.14 Nancy Grace Roman Space Telescope Research and Support Participation Opportunities Final Text and Due Dates.
 
-article 12 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-72-d-14-nancy-grace-roman-space-telescope-research-and-support-participation-opportunities-final-text-and-due-dates/)[![Amendment 71: F.11 Stand-Alone Landing Site-Agnostic Payloads and Research Investigations on the Surface of the Moon Final Text and Due Dates Released.](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/lunar-science/science-payloads/prospect/Prospect_wide_horizontal.png)
+article 20 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-72-d-14-nancy-grace-roman-space-telescope-research-and-support-participation-opportunities-final-text-and-due-dates/)[![Amendment 71: F.11 Stand-Alone Landing Site-Agnostic Payloads and Research Investigations on the Surface of the Moon Final Text and Due Dates Released.](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/lunar-science/science-payloads/prospect/Prospect_wide_horizontal.png)
 
 2 min read
 
 ### Amendment 71: F.11 Stand-Alone Landing Site-Agnostic Payloads and Research Investigations on the Surface of the Moon Final Text and Due Dates Released.
 
-article 12 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-71-f-11-stand-alone-landing-site-agnostic-payloads-and-research-investigations-on-the-surface-of-the-moon-final-text-and-due-dates-released/)
+article 20 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-71-f-11-stand-alone-landing-site-agnostic-payloads-and-research-investigations-on-the-surface-of-the-moon-final-text-and-due-dates-released/)
 
 ### Highlights
 
@@ -401,13 +401,13 @@ article 2 weeks ago](https://www.nasa.gov/dynamic-spin-rig-publications/)
 
 ### Amendment 71: F.11 Stand-Alone Landing Site-Agnostic Payloads and Research Investigations on the Surface of the Moon Final Text and Due Dates Released.
 
-article 12 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-71-f-11-stand-alone-landing-site-agnostic-payloads-and-research-investigations-on-the-surface-of-the-moon-final-text-and-due-dates-released/)[![Illustration of the BioSentinel spacecraft, flying past the Moon with the CubeSat's solar arrays fully deployed, facing the Sun.](https://www.nasa.gov/wp-content/uploads/2021/12/biosentinel_1920x1080.png?w=1024)
+article 20 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-71-f-11-stand-alone-landing-site-agnostic-payloads-and-research-investigations-on-the-surface-of-the-moon-final-text-and-due-dates-released/)[![Illustration of the BioSentinel spacecraft, flying past the Moon with the CubeSat's solar arrays fully deployed, facing the Sun.](https://www.nasa.gov/wp-content/uploads/2021/12/biosentinel_1920x1080.png?w=1024)
 
 8 min read
 
 ### What is BioSentinel?
 
-article 6 days ago](https://www.nasa.gov/centers-and-facilities/ames/what-is-biosentinel/)[![A prototype of a robot designed to explore subsurface oceans of icy moons](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia26423-swim-phase-ii-reflection.png?w=1024)
+article 7 days ago](https://www.nasa.gov/centers-and-facilities/ames/what-is-biosentinel/)[![A prototype of a robot designed to explore subsurface oceans of icy moons](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia26423-swim-phase-ii-reflection.png?w=1024)
 
 5 min read
 
@@ -423,7 +423,7 @@ article 7 days ago](https://www.nasa.gov/solar-system/planets/jupiter/jupiter-mo
 
 ### Why NASA Is a Great Place to Launch Your Career 
 
-article 4 days ago](https://www.nasa.gov/learning-resources/launch-your-career/)[![Northwestern University team members pose with lunar inflatable prototypes from their METALS project in NASA’s 2024 BIG Idea Challenge.](https://www.nasa.gov/wp-content/uploads/2024/11/2024-big-idea-photo-northwestern-university.jpg?w=1024)
+article 5 days ago](https://www.nasa.gov/learning-resources/launch-your-career/)[![Northwestern University team members pose with lunar inflatable prototypes from their METALS project in NASA’s 2024 BIG Idea Challenge.](https://www.nasa.gov/wp-content/uploads/2024/11/2024-big-idea-photo-northwestern-university.jpg?w=1024)
 
 3 min read
 
@@ -445,19 +445,19 @@ article 1 week ago](https://www.nasa.gov/centers-and-facilities/glenn/nasa-engin
 
 ### This Thanksgiving, We’re Grateful for NASA’s Volunteer Scientists!
 
-article 13 hours ago](https://science.nasa.gov/get-involved/citizen-science/this-thanksgiving-were-grateful-for-nasas-amateur-scientists/)[![Sierra Space’s LIFE (Large Integrated Flexible Environment) habitat following a full-scale ultimate burst pressure test at NASA’s Marshall Space Flight Center in Huntsville, Alabama](https://www.nasa.gov/wp-content/uploads/2024/11/sierra-space-image.png?w=1024)
+article 21 hours ago](https://science.nasa.gov/get-involved/citizen-science/this-thanksgiving-were-grateful-for-nasas-amateur-scientists/)[![Sierra Space’s LIFE (Large Integrated Flexible Environment) habitat following a full-scale ultimate burst pressure test at NASA’s Marshall Space Flight Center in Huntsville, Alabama](https://www.nasa.gov/wp-content/uploads/2024/11/sierra-space-image.png?w=1024)
 
 6 min read
 
 ### NASA’s Commercial Partners Make Progress on Low Earth Orbit Projects
 
-article 1 day ago](https://www.nasa.gov/general/nasas-commercial-partners-make-progress-on-low-earth-orbit-projects/)[![Students at NASA's Jet Propulsion Laboratory pose for photos around the laboratory wearing their eclipse glasses.](https://www.nasa.gov/wp-content/uploads/2023/03/38540233062-abf67c18dd-o.jpeg?w=985)
+article 2 days ago](https://www.nasa.gov/general/nasas-commercial-partners-make-progress-on-low-earth-orbit-projects/)[![Students at NASA's Jet Propulsion Laboratory pose for photos around the laboratory wearing their eclipse glasses.](https://www.nasa.gov/wp-content/uploads/2023/03/38540233062-abf67c18dd-o.jpeg?w=985)
 
 2 min read
 
 ### Why NASA Is a Great Place to Launch Your Career 
 
-article 4 days ago](https://www.nasa.gov/learning-resources/launch-your-career/)
+article 5 days ago](https://www.nasa.gov/learning-resources/launch-your-career/)
 
 ### Highlights
 
