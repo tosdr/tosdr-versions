@@ -321,7 +321,7 @@ Advertise
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.9347%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_835%2C$y_90/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/d0e2b3630120a8f733f81b66d55fae7b8b4c5ff5)](https://www.afr.com/life-and-luxury/fashion-and-style/seriously-chic-picks-for-the-silly-season-20241118-p5krko)
+[![The panettone from Baker Bleu.](https://static.ffx.io/images/$zoom_0.1495%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_209/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/ba2b2c5e20e13f71b195aad7c90d1c970a86ee09)](https://www.afr.com/life-and-luxury/fashion-and-style/seriously-chic-picks-for-the-silly-season-20241118-p5krko)
 
 ### [Seriously chic picks for the silly season](https://www.afr.com/life-and-luxury/fashion-and-style/seriously-chic-picks-for-the-silly-season-20241118-p5krko)
 
