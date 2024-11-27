@@ -20,7 +20,7 @@
     
     Your gateway to online freedom.
     
-    (new window)](https://protonvpn.com/?ref=prdmenuvpn)[![Proton Pass](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1703162849%2Fstatic%2Flogos%2Ficons%2Fpass_wl1fk9.svg)
+    (new window)](https://protonvpn.com/?ref=pme_lp_b2c_proton_submenu)[![Proton Pass](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1703162849%2Fstatic%2Flogos%2Ficons%2Fpass_wl1fk9.svg)
     
     ![Proton](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1703162849%2Fstatic%2Flogos%2Ftexts%2Fproton-black_zvq72v.svg)![Pass](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1703162849%2Fstatic%2Flogos%2Ftexts%2Fpass-purple_h2rbko.svg)
     
@@ -87,7 +87,7 @@
     
     [Proton Mail](https://protonvpn.com/mail/download)[Proton Calendar](https://protonvpn.com/calendar/download)[Proton Drive](https://protonvpn.com/drive/download)[Proton VPN
     
-    (new window)](https://protonvpn.com/download?ref=hdrdwnlvpn)[Proton Pass](https://protonvpn.com/pass/download)
+    (new window)](https://protonvpn.com/download?ref=pme_lp_b2c_proton_submenu)[Proton Pass](https://protonvpn.com/pass/download)
     
 
 [Create a free account](https://protonvpn.com/pricing)
