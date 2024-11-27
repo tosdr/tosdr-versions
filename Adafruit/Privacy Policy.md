@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ We are what we amplify”
+“ I am one of the people who love the why of things”
 
-[Unknown](https://www.adafruit.com/blacklivesmatter)
+[Catherine the Great](http://en.wikipedia.org/wiki/Catherine_the_Great)
 
 [](https://www.adafruit.com/about)
 
