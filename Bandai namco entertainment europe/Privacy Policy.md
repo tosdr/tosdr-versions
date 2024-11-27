@@ -23,8 +23,8 @@ Popular Games
 
 Latest game news
 
-* [NARUTO TO BORUTO: SHINOBI STRIKER welcomes Naruto Uzumaki (Young Version)](https://en.bandainamcoent.eu/naruto/news/naruto-boruto-shinobi-striker-welcomes-naruto-uzumaki-young-version)
-* [A new DLC and Free Update #4 for Jujutsu Kaisen Cursed Clash released today!](https://en.bandainamcoent.eu/jujutsu-kaisen/news/new-dlc-and-free-update-4-jujutsu-kaisen-cursed-clash-released-today)
+* [SYNDUALITY: Echo of Ada – Open Network Test is coming in December! Register to our giveaway to get a chance to win an Ultimate Edition of the game !](https://en.bandainamcoent.eu/synduality/news/synduality-echo-of-ada-open-network-test-coming-december-register-our-giveaway-get)
+* [Behind the Scenes of the Unknown 9 Universe](https://en.bandainamcoent.eu/unknown-9/news/behind-the-scenes-of-the-unknown-9-universe)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
