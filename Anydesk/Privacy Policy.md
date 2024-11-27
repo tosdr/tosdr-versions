@@ -33,7 +33,7 @@
     
     [Partner Community](https://anydesk.com/en/partners) [Become a Partner](https://anydesk.com/en/become-a-partner) [Partner Locator](https://anydesk.com/en/partners/partner-locator) [Integration Partners](https://anydesk.com/en/partners/integration)
     
-* [Company![](/_static/icons/white/bold/arrow-down-1-ec7f5c.svg) ![](/_static/icons/black/medium/arrow-down-1-38c71c.svg)](#) 
+* [Company![](/_static/icons/white/bold/arrow-down-1-b9dbb9.svg) ![](/_static/icons/black/medium/arrow-down-1-38c71c.svg)](#) 
     
     Company
     
@@ -41,13 +41,13 @@
     
     Resources
     
-    [Case Studies](https://anydesk.com/en/case-studies) [AnyDesk Stories](https://anydesk.com/en/stories) [Resources Hub](https://anydesk.com/en/resources) [Tutorials![](/_static/icons/black/bold/keyboard-arrow-top-right-7aaa41.svg)](https://www.youtube.com/playlist?list=PLlEnzX2FLqbs_GC8rUUn4I5rwMJFwki8n) [Help Center![](/_static/icons/black/bold/keyboard-arrow-top-right-7aaa41.svg)](https://support.anydesk.com/knowledge)
+    [Case Studies](https://anydesk.com/en/case-studies) [AnyDesk Stories](https://anydesk.com/en/stories) [Resources Hub](https://anydesk.com/en/resources) [Tutorials![](/_static/icons/red/bold/keyboard-arrow-top-right-634d12.svg)](https://www.youtube.com/playlist?list=PLlEnzX2FLqbs_GC8rUUn4I5rwMJFwki8n) [Help Center![](/_static/icons/red/bold/keyboard-arrow-top-right-634d12.svg)](https://support.anydesk.com/knowledge)
     
 * [Support![](/_static/icons/white/bold/arrow-down-1-ec7f5c.svg) ![](/_static/icons/black/medium/arrow-down-1-38c71c.svg)](#) 
     
     Support
     
-    [Customer Portal![](/_static/icons/black/bold/keyboard-arrow-top-right-7aaa41.svg)](https://my.anydesk.com/) [Help Center![](/_static/icons/black/bold/keyboard-arrow-top-right-7aaa41.svg)](https://support.anydesk.com/knowledge) [Contact Us](https://anydesk.com/en/contact-anydesk)
+    [Customer Portal![](/_static/icons/red/bold/keyboard-arrow-top-right-634d12.svg)](https://my.anydesk.com/) [Help Center![](/_static/icons/red/bold/keyboard-arrow-top-right-634d12.svg)](https://support.anydesk.com/knowledge) [Contact Us](https://anydesk.com/en/contact-anydesk)
     
 * [Buy Now](https://anydesk.com/en/pricing)
 
@@ -296,11 +296,9 @@ At AnyDesk, we want to provide the best experience and most innovative technolog
 
   Enter your email address 
 
-![](/_static/img/favicon/favicon-32x32-d029f3.png)
+Subscribe Now
 
 Loading captcha...
-
-Subscribe Now
 
 ![](/_static/img/logos/anydesk-logo-white-red-ec4e3a.png "AnyDesk logo")
 
