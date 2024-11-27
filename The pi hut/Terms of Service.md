@@ -208,7 +208,7 @@ Cart](https://thepihut.com/cart)
         * [Boards](https://thepihut.com/collections/raspberry-pi-boards)
         * [Pi 400](https://thepihut.com/collections/pi400)
         * [Pico](https://thepihut.com/collections/pico)
-        * [Compute Module 4](https://thepihut.com/collections/raspberry-pi-compute-module-4-accessories)
+        * [Compute Module](https://thepihut.com/collections/raspberry-pi-compute-module-4-accessories)
         
     * [Kits & Bundles](https://thepihut.com/collections/raspberry-pi-kits-and-bundles)
     * SD Cards & Storage
@@ -644,7 +644,7 @@ Login New customer?[Create an account](https://thepihut.com/account/register)
 
 Huge Range
 
-[7,700+ products](https://thepihut.com/collections/all "/collections/all")
+[7,800+ products](https://thepihut.com/collections/all "/collections/all")
 
 Five Star Service
 
