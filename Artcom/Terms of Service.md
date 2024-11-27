@@ -1,6 +1,14 @@
-[Discover New Arrivals](https://www.art.com/gallery/id--b25816/what-s-new-posters.htm)
+Shop Now
 
-[Discover New Arrivals](https://www.art.com/gallery/id--b25816/what-s-new-posters.htm)|[Shop Our Gift Guide](https://www.art.com/gift-guide/holiday)|[Up to 50% Off Art Deals](https://www.art.com/gallery/id--b55196/art-sale-posters.htm)
+30% Off Everything\* Ends in..
+
+4DAYS22HRS18MINS
+
+30% Off Everything\* Ends in..
+
+4DAYS22HRS18MINS
+
+Shop Now
 
 [](https://www.art.com/ "Art.com")
 
@@ -323,6 +331,8 @@ Cancel
 [Christmas](https://www.art.com/gallery/id--b7911/christmas-posters.htm "Christmas")
 
 [Fall Landscape](https://www.art.com/gallery/id--b275246/fall-landscapes-posters.htm "Fall Landscape")
+
+[Pink Christmas](https://www.art.com/gallery/id--b61172/pink-christmas-posters.htm "Pink Christmas")
 
 [Vintage Christmas](https://www.art.com/gallery/id--b20120/winter-wonderland-posters.htm "Vintage Christmas")
 
