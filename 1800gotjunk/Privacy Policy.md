@@ -629,14 +629,6 @@ John Ricci Calgary 22/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Great customer service and speedy removal - highly recommend!
-
-Holly Shaw Calgary 21/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Excellent service
 
 Wade Stewart Calgary 21/11/2024
@@ -653,6 +645,14 @@ rens harkema Calgary 21/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Great customer service and speedy removal - highly recommend!
+
+Holly Shaw Calgary 21/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Excellent Team!!! John and Robert are the best. Thanks for getting rid of everything so quickly.
 
 Vee Gregg Calgary 20/11/2024
@@ -661,17 +661,17 @@ Vee Gregg Calgary 20/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Great and friendly service! Guys were in and out quickly and efficiently. Thank you!
+Quick and easy. Very professional and friendly.
 
-Neil Bailey Calgary 19/11/2024
+C L Calgary 19/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Quick and easy. Very professional and friendly.
+Great and friendly service! Guys were in and out quickly and efficiently. Thank you!
 
-C L Calgary 19/11/2024
+Neil Bailey Calgary 19/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -885,22 +885,6 @@ Melanie Carey Monteregie Metro 19/04/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-This duel was awesome! Very friendly. Great customer service. Earlier than expected. Quick and easy!
-
-Sarah Choy Seattle 23/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-John and Marci did a great job. They took all of my junk 10 out of 10.
-
-James Mategko Seattle 23/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Andre and Alex were awesome! Really professional and efficient!
 
 Julie Deming Wisconsin 23/11/2024
@@ -1021,9 +1005,25 @@ Mary Parker Naples 23/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Don and Luis were great! Professional and explained everything perfectly! Would definitely reach out again!
+This duel was awesome! Very friendly. Great customer service. Earlier than expected. Quick and easy!
 
-MiKayla Chinn Austin 22/11/2024
+Sarah Choy Seattle 23/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+John and Marci did a great job. They took all of my junk 10 out of 10.
+
+James Mategko Seattle 23/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Brandon and Shawn did an excellent job. Very professional and courteous. Thank you.
+
+terry dillon Naples 22/11/2024
 
 ### 
 
