@@ -1,3 +1,8 @@
+* **Public computers and catalog computers unavailable**
+    
+    Due to a power issue, the Library’s public PCs and catalog computers cannot currently access the internet. We are working on the issue and apologize for the inconvenience.
+    
+
 * **The Seattle Public Library Is Closed On Thanksgiving Day**
     
     All locations of The Seattle Public Library and book returns at the Central Library will be closed on Thanksgiving Day, Thursday, November 28.
