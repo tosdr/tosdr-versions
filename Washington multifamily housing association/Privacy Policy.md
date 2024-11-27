@@ -1,9 +1,17 @@
 [Skip to content](#content)
 
-**It's Renewal Time!**
-----------------------
+Thanksgiving Hours
+------------------
 
-> 2025 Membership Invoices will go out the first week of November and are due by January 1st.
+In observance of the Thanksgiving Holiday, WMFHA will be adjusting our office hours:
+
+Wednesday, November 27th: Online, 8:00 AM - 4:00 PM
+
+Thursday, November 28th: Closed
+
+Friday, November 29th: Closed
+
+_We hope you have a wonderful Thanksgiving and we look forward to connecting with you when our team returns on Monday, December 1st._
 
 ACKNOWLEDGE
 
