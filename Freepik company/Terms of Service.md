@@ -4,25 +4,25 @@ Toggle menu
 
 * Tools
     
-    [AI image generatorCreate images from words in real time](https://www.freepikcompany.com/ai/image-generator)
+    [AI Image GeneratorCreate images from words in real time](https://www.freepikcompany.com/ai/image-generator)
     
     [AI video generatornewCreate stunning videos from text or images](https://www.freepikcompany.com/ai/video-generator)
     
     [DesignerbetaEdit templates from your browser](https://www.freepik.com/designer)
     
-    [Mockup generatorBring designs to life, effortlessly](https://www.freepikcompany.com/mockup-generator)
+    [Mockup GeneratorBring designs to life, effortlessly](https://www.freepikcompany.com/mockup-generator)
     
     [ReimagineCreate image variations with AI](https://www.freepikcompany.com/ai/reimagine)
     
-    [Background removerErase the background from an image](https://www.freepikcompany.com/ai/background-remover)
+    [Background RemoverErase the background from an image](https://www.freepikcompany.com/ai/background-remover)
     
-    [Image editorEdit photos easily online, no software needed](https://www.freepikcompany.com/ai/photo-editor)
+    [Image EditorEdit photos easily online, no software needed](https://www.freepikcompany.com/ai/photo-editor)
     
     [ExpandnewResize any image filling the gaps with AI](https://www.freepik.com/pikaso/expand)
     
     [RetouchnewReplace details quickly and easily](https://www.freepik.com/pikaso/retouch)
     
-    [Sketch to imageTransform a doodle into an image in real time](https://www.freepikcompany.com/ai/sketch-to-image)
+    [Sketch to ImageTransform a doodle into an image in real time](https://www.freepikcompany.com/ai/sketch-to-image)
     
     [Freepik AIDiscover how AI boosts our tools and features, as well as your creativity](https://www.freepik.com/ai)
     
@@ -1136,10 +1136,10 @@ If any court or competent authority finds that any provision of this EULA (or pa
 
 Tools
 
-* [AI image generator](https://www.freepikcompany.com/ai/image-generator)
+* [AI Image Generator](https://www.freepikcompany.com/ai/image-generator)
 * [AI video generator](https://www.freepikcompany.com/ai/video-generator)
 * [Image upscaler](https://www.freepikcompany.com/ai/image-upscaler)
-* [Background remover](https://www.freepikcompany.com/ai/background-remover)
+* [Background Remover](https://www.freepikcompany.com/ai/background-remover)
 * [Photo editor](https://www.freepikcompany.com/ai/photo-editor)
 * [All Freepik tools](https://www.freepikcompany.com/tools)
 
