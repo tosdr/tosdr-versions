@@ -2,7 +2,7 @@
 
 ![](https://www.facebook.com/tr?id=1013298092648180&ev=PageView&noscript=1)
 
-[Place a bid on og.ai, the domain everyone is bidding on in this month’s .AI auction ➡️](https://www.dynadot.com/market/registry-expired-auction?utm_source=Promobar&utm_campaign=AI%20Auction%20Promobar%20Nov%202024&utm_medium=ai%20auction&drefid=4645)[The Black Friday deals are rolling in, click to view what’s on sale right now 🛒](https://www.dynadot.com/black-friday-sale?utm_source=Promobar&utm_campaign=BFCM%20Preview%20Promobar%20Nov%202024&utm_medium=BFCM%20Sales&drefid=4646)
+[Place a bid on og.ai, the domain everyone is bidding on in this month’s .AI auction ➡️](https://www.dynadot.com/market/registry-expired-auction?utm_source=Promobar&utm_campaign=AI%20Auction%20Promobar%20Nov%202024&utm_medium=ai%20auction&drefid=4645)[The Black Friday deals are rolling in, click to view what’s on sale right now 🛒](https://www.dynadot.com/black-friday-sale?utm_source=Promobar&utm_campaign=BFCM%20Preview%20Promobar%20Nov%202024&utm_medium=BFCM%20Sales&drefid=4646)[Impress recruiters by presenting your skills on a professional .CV website for only $2.99 🧑‍💻](https://www.dynadot.com/domain/cv?utm_source=Promobar&utm_campaign=CV%20Promobar%20Nov%202024&utm_medium=cv&drefid=4650)
 
 [](https://www.dynadot.com/)
 
