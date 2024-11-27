@@ -1,6 +1,6 @@
-**Fellow Patriot:** The voluntary financial generosity of supporters like _you_ keeps our hard-hitting analysis coming. Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_0&utm_medium=web&utm_source=patriotpost.us) today. Thank you for your support! —Nate Jackson, Managing Editor
+**Why We Ask:** Our mission and operations are funded 100% by conservatives like _you_. Please help us continue to extend Liberty to the next generation and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_2&utm_medium=web&utm_source=patriotpost.us) today.
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_0&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_2&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -126,6 +126,7 @@ Last Updated: November 15, 2011.
 
 ### Top Opinion
 
+*      [The Washington Stand Trump Could Scrap Biden’s Trans Troops Policy ‘as Soon as Day One’](https://patriotpost.us/opinion/112352-trump-could-scrap-bidens-trans-troops-policy-as-soon-as-day-one-2024-11-27)
 *      [Rich Lowry Mass Deportation Is an Appropriate Response to Mass Illegal Immigration](https://patriotpost.us/opinion/112353-mass-deportation-is-an-appropriate-response-to-mass-illegal-immigration-2024-11-26)
 *      [Cal Thomas Fluoride: Good or Bad?](https://patriotpost.us/opinion/112331-fluoride-good-or-bad-2024-11-26)
 *      [Daniel McCarthy Trump Draws the Map to 2028](https://patriotpost.us/opinion/112330-trump-draws-the-map-to-2028-2024-11-26)
@@ -133,10 +134,6 @@ Last Updated: November 15, 2011.
 *      [Gary Bauer Lying About America](https://patriotpost.us/opinion/112328-lying-about-america-2024-11-26)
 *      [Christine Flowers Wandering in the Wilderness for Four Years Not Appealing](https://patriotpost.us/opinion/112326-wandering-in-the-wilderness-for-four-years-not-appealing-2024-11-26)
 *      [Salena Zito The Family-Run Businesses That Make Thanksgiving Possible](https://patriotpost.us/opinion/112327-the-family-run-businesses-that-make-thanksgiving-possible-2024-11-26)
-*      [Tony Perkins Capitol Bathroom Debate Is a Symptom of Much Deeper Problems](https://patriotpost.us/opinion/112325-capitol-bathroom-debate-is-a-symptom-of-much-deeper-problems-2024-11-26)
-*      [The Washington Stand Tugging a Strand of History: Feminism, Communism, and Transgender Bathrooms](https://patriotpost.us/opinion/112324-tugging-a-strand-of-history-feminism-communism-and-transgender-bathrooms-2024-11-26)
-*      [The Babylon Bee Musk Announces Plan to Buy MSNBC and Turn It Into a News Network](https://patriotpost.us/opinion/112323-musk-announces-plan-to-buy-msnbc-and-turn-it-into-a-news-network-2024-11-26)
-*      [Guest Commentary Peace Through Strength](https://patriotpost.us/opinion/112332-peace-through-strength-2024-11-26)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -150,7 +147,11 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J82YASE4QNMY5QGPJZ5PECFM.jpeg)](https://patriotpostshop.com/collections/founders-wisdom-coffee)
+[Wear Your Patriotism on Your Sleeve
+
+ 
+
+Shop Now](https://patriotpostshop.com/)
 
 ### The Foundation
 
