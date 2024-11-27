@@ -210,45 +210,45 @@ Welcome to our Newest Members!
 
 Testimonials
 
-> Improving little by little every day is not just a slogan for Great Wall Motor. We believe in daily advances in our in-vehicle systems to improve our customers’ overall driving experience. Harnessing the benefits inherent in open source software to help do so completely aligns with our goals. By joining OIN, we are demonstrating our commitment to open source software, and supporting it with a pledge of patent non-aggression.  
+> We remain focused on leveraging the best technologies for our platforms and are excited to join the Open Invention Network (OIN), that supports protection from patent infringement claims for the greater good of the wider innovation community.  
 
-Xiaozu WangHead of Intellectual PropertyGreat Wall Motor Company Limited
+Josh DeathIP & Patentable Innovations LeadTD Bank
 
-> At Bareos GmbH & Co. KG, we believe in the power of open source to drive innovation and progress. Joining the Open Invention Network aligns with our commitment to create a collaborative and secure environment for the open-source community. We look forward to contributing to and benefiting from this global network of like-minded organizations.
+> We view OIN as one of the key methods through which open source leaders and innovators can deter patent aggression. We are committed to freedom of action in open source, and have noted OIN’s efforts to actively defend and enable the Linux ecosystem.  
 
-Stephan DührManaging Director, Bareos GmbH & Co. KG
-
-> Philips is proud to be a founder of the Open Invention Network. Over the years, OSS has been an important building block for many of our businesses and is increasingly important for the medical and health tech industries. OSS enables faster development of monitoring, imaging, diagnostic, and informatic platforms, while driving down costs. With more than 4,000 community members, OIN is ensuring that OSS innovation continues its rapid pace, in a safe environment enabled by licensing.  
-
-Jako EleveldHead of IP LicensingRoyal Philips
-
-> _We continuously look for ways to integrate the best technologies in our payment solutions, which helps to deliver capabilities and services that our merchant and bank customers value and trust. We provide our customers safer and faster digital transaction services, and open source is a significant innovation driver in these offerings. We are pleased to join the Open Invention Network and support its role in protecting Open Source software._
-
-Christophe DuquenneGroup Chief Technology & Operations Officer, Worldline
-
-> By fostering the largest patent non-aggression community in history, OIN has protected core Linux and a broad array of FOSS technologies from patent aggression. We have worked together for the past 15 years, with the goal that FOSS would grow unimpeded by patent risks, and we have largely succeeded.  OIN has made a transformational difference.  I look forward to working with Keith and OIN as it creatively faces new challenges in the next decade.  
-
-Eben MoglenDirector-Counsel & ChairmanSoftware Freedom Law Center
-
-> Companies building products using open source technologies must help protect open source communities from threats posed by abusers of low quality patents.We applaud the innovative approach taken by the OS Zone and call on other companies to support solutions that protect open source innovation from targeted threats.
-
-MicrosoftJustin Colannino, Associate General Counsel for Open Source at Microsoft
+Jane SilberCEOCanonical
 
 > Foxconn continuously looks for ways to integrate advances into the design and manufacturing of smart consumer electronics, cloud and networking equipment, computing devices and components, among others. We are pleased to join the Open Invention Network and support its role in protecting open source.
 
 Mick LimDirector, Foxconn IP Affairs Division
 
-> _Demonstrating its commitment to open innovation, NatWest is a Gold member in FINOS, the main global organization aiming to move the entire financial services industry toward collaboration through Open Source and FDC3 standards. NatWest is also building on its foundations of open banking by creating the ‘Bank of APIs’ – an API ecosystem that brings an increasingly wide variety of our services to customers and partners in new and innovative ways. Open is important to us. As such we are proud… [Read more](https://www.openinventionnetwork.com/testimonial/natwest-group/ "Complete testimonial by Declan O’Gorman")_
+> For the past several years we have increased our involvement in, and contributions to, the open source community. We are pleased to stand with OIN, the Linux Foundation and IBM in protecting Linux and other important OSS technologies against patent aggression.  
 
-Declan O’GormanHead of Enterprise Engineering, NatWest Group
+Erich AndersonCorporate VP & Chief IP CounselMicrosoft
 
-> As a global solutions provider that grows with customers and society through the highest level of trust, SMFG is committed to creating businesses that transcend the boundaries of finance and resolving issues. In order to further promote this effort and quickly deliver high added-value services to our customers and society, SMFG believes that the utilization of open source software will be essential. Also, in promoting OSS utilization, SMFG believes that measures to protect intellectual property … [Read more](https://www.openinventionnetwork.com/testimonial/smfg/ "Complete testimonial by Sumitomo Mitsui Financial Group")
+> Spurious claims from Patent Assertion Entities divert resources and investment away from true innovation and collaboration. We also recognize that a modern approach to technology development and innovation requires a level playing field around use of open source software. With membership of LOT and OIN, we are pleased to contribute to and extend the growing global community working together to reduce the PAE threat and lower barriers to use of open source technologies.  
 
-Sumitomo Mitsui Financial Group
+Lee BraineManaging Director, Chief Technology OfficeBarclays
 
-> OIN is an organization which helps protect the Linux ecosystem by building a variety of defenses against patent attacks. By joining, Mozilla receives cross-licenses from other OIN licensees, but more importantly, for the long term, it affords us a chance to work with OIN in reducing IP threats to open source development and innovation.  
+> Over its 21 years existence, OVHcloud has developed a strong vision on how innovation is critical to empower cloud users with a relentless effort on open source and open standards. Joining OIN is a strong asset to keep on developing our open innovation roadmap and taking it to the community.  
 
-Harvey AndersonVP & General CounselMozilla
+Miroslaw KlabaCo-founder & VP of EngineeringOVHcloud
+
+> Open source technology, especially Linux, has led to profound increases in capabilities across a number of key industries, while increasing overall product and service efficiency. By joining Open Invention Network, we are demonstrating our continued commitment to innovation, and supporting it with patent non-aggression in Linux.  
+
+Hideki SanatakeExecutive Officer, Deputy Group Executive of Corporate Intellectual Properties & LegalCanon
+
+> UNISOC is committed to the independent development and design of core chips in the field of mobile communications and AIoT, and Linux and open source software are the key elements of our technology development. By joining the OIN community, Zhanrui demonstrates its strong commitment to innovation and will continue to support patent protection for projects such as Linux.  
+
+Yang JiejingHead of Legal DepartmentUNISOC
+
+> _We are incredibly focused on pleasing our customers. One of the most effective ways to do that is to develop the systems and technologies that enable our customers to innovate. Building and leveraging open technologies enables businesses to more easily integrate their solutions — while empowering them to focus more of their resources in the powerful, distinguishing technologies that customers pursue. We are pleased to be part of the OIN community protecting open projects that encourage innovat… [Read more](https://www.openinventionnetwork.com/testimonial/tokyo-electron-device/ "Complete testimonial by Kazuki Shinoda")_
+
+Kazuki ShinodaSVP, Tokyo Electron Device, Ltd.
+
+> For some time, Groupe Renault has invested in developing the innovations and technologies that will enable sustainable transportation that excels in urban and rural environments and brings connected services in the vehicle. With our rapid pace of development coupled with our passion for precision, quality and interoperability, we see leveraging open source software as an important part of our strategy.  
+
+Groupe Renault
 
 [![Open Invention Network](https://openinventionnetwork.com/wp-content/uploads/2024/01/oin-website-logo.png)](https://openinventionnetwork.com/)
 
@@ -262,7 +262,7 @@ Your Name\*
 
 Email\*
 
-Comments
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
