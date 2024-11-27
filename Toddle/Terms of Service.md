@@ -2,7 +2,7 @@
 
 ![](https://px.ads.linkedin.com/collect/?pid=4160820&fmt=gif)
 
-Terms of Service | Toddle          
+Terms of Service | Toddle        
 
 [![Toddle](https://www.toddleapp.com/wp-content/uploads/2024/07/Toddle_black_logo.svg)](https://www.toddleapp.com/ "Toddle")
 
