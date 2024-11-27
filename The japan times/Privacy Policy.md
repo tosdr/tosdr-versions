@@ -567,23 +567,19 @@ Latest News
 
 [ICC prosecutor seeks arrest warrant for Myanmar military leader](https://www.japantimes.co.jp/news/2024/11/27/world/icc-myanmar-rohingya/ "ICC prosecutor seeks arrest warrant for Myanmar military leader")
 
-4 hours ago
+10 hours ago
 
 [Emperor and empress visit grave of Princess Yuriko](https://www.japantimes.co.jp/news/2024/11/27/japan/emperor-princess-yuriko-grave/ "Emperor and empress visit grave of Princess Yuriko")
 
-5 hours ago
+11 hours ago
 
 [DPP’s Tamaki leverages new position with energy proposal](https://www.japantimes.co.jp/news/2024/11/27/japan/politics/ishiba-tamaki-nuclear-energy/ "DPP’s Tamaki leverages new position with energy proposal")
 
-5 hours ago
+11 hours ago
 
 [VW confirms plans to exit controversial Xinjiang operation](https://www.japantimes.co.jp/business/2024/11/27/companies/volkswagen-xinjiang-china-forced-labor/ "VW confirms plans to exit controversial Xinjiang operation")
 
-7 hours ago
-
 [Panel defers decision on scrapping Japan's NTT law](https://www.japantimes.co.jp/business/2024/11/27/companies/ntt-law-panel/ "Panel defers decision on scrapping Japan's NTT law")
-
-7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
