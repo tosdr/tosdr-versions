@@ -205,25 +205,25 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Saurischia (Thanks, Aidan!)](https://www.somethingawful.com/awful-links/saurischia-eskridge/)
-* [An Important Message from the Monstergeddon Board of Directors!](https://www.somethingawful.com/news/monstergeddon-abuse-accusations/)
-* [Movie Posters](https://www.somethingawful.com/photoshop-phriday/movie-posters-2/1/)
-* [SEA OF DOGS](https://www.somethingawful.com/news/sea-dog-classifieds/)
-* [That Insidious Beast: Active Area](https://www.somethingawful.com/news/that-insidious-letter/1/)
+* [AwfulVision: Let's get retarded in here!](https://www.somethingawful.com/awfulvision/retard-anime-rap/1/)
+* [Bareback Exchange](https://www.somethingawful.com/weekend-web/bareback-exchange/1/)
+* [Oldboy; Homefront; Frozen; Philomena](https://www.somethingawful.com/current-movie-reviews/oldboy-homefront-frozen/1/)
+* [PacMania 2](https://www.somethingawful.com/rom-pit/pacmaneatsbutt/)
+* [The Amazing Spider-Man; The Savages; To Rome with Love; People Like Us; Katy Perry: Part of Me](https://www.somethingawful.com/current-movie-reviews/spider-man-savages/1/)
 
 ### Popular Threads
 
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/music.png) [itt we are boomer rappers who rap about boomer things](http://forums.somethingawful.com/showthread.php?threadid=4076282 "itt we are boomer rappers who rap about boomer things")
-* ![](https://fi.somethingawful.com/forums/posticons/gws-snacks.gif) [Corn or Flour, What Say You?](http://forums.somethingawful.com/showthread.php?threadid=4076211 "Corn or Flour, What Say You?")
-* ![](https://fi.somethingawful.com/forums/posticons/diy-robots.gif) [Sit on Robot Santa's Lap](http://forums.somethingawful.com/showthread.php?threadid=4076210 "Sit on Robot Santa's Lap")
+* ![](https://fi.somethingawful.com/forums/posticons/cspamkiddo.gif) [what was your most cringe blorbo](http://forums.somethingawful.com/showthread.php?threadid=4076307 "what was your most cringe blorbo")
+* ![](https://fi.somethingawful.com/forums/posticons/games-regret.gif) [Mariah Carey is so good she makes Jay Z's bars in Heartbreaker bearable to](http://forums.somethingawful.com/showthread.php?threadid=4076319 "Mariah Carey is so good she makes Jay Z's bars in Heartbreaker bearable to")
 
 ### Random Articles
 
-* [What I Learned Last Week, By Rich Lowtax Kyanka, Age 26](https://www.somethingawful.com/news/what-learned-last/)
-* [Jori and MoJo's State of the Union](https://www.somethingawful.com/awful-links/awful-link-1685/)
-* [20th Century Fox Wins](https://www.somethingawful.com/news/20th-century-fox/)
-* [TEAM ROCKET](https://www.somethingawful.com/comedy-goldmine/team-rocket-drawings/1/)
-* [Warhammer Age of Sigmar: Soul Wars](https://www.somethingawful.com/video-game-article/warhammer-soul-wars/)
+* [Denise's Pieces](https://www.somethingawful.com/awful-links/awful-link-1244/)
+* [The Ingredients for a Downriver BBQ](https://www.somethingawful.com/news/ingredients-for-downriver/)
+* [Western Outlaw: Wanted Dead or Alive](https://www.somethingawful.com/game-reviews/western-outlaw-wanted/1/)
+* [A Voice for Men](https://www.somethingawful.com/awful-links/voice-men-avfm/)
+* [Conservapedia](https://www.somethingawful.com/awful-links/conservapedia/)
 
 [Random!](https://www.somethingawful.com/random/)
 
