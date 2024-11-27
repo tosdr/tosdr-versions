@@ -70,13 +70,13 @@ Suggested Searches
 
 ### Discovery Alert: a ‘Hot Neptune’ in a Tight Orbit
 
-article19 hours ago](https://science.nasa.gov/universe/exoplanets/discovery-alert-a-hot-neptune-in-a-tight-orbit/)[![NASA Data Reveals Role of Green Spaces in Cooling Cities](https://science.nasa.gov/wp-content/uploads/2024/11/sanaa-oli-20240608-1440.jpg)
+article23 hours ago](https://science.nasa.gov/universe/exoplanets/discovery-alert-a-hot-neptune-in-a-tight-orbit/)[![NASA Data Reveals Role of Green Spaces in Cooling Cities](https://science.nasa.gov/wp-content/uploads/2024/11/sanaa-oli-20240608-1440.jpg)
 
 5 min read
 
 ### NASA Data Reveals Role of Green Spaces in Cooling Cities
 
-article21 hours ago](https://science.nasa.gov/earth/climate-change/nasa-data-reveals-role-of-green-spaces-in-cooling-cities/)[![Europa Clipper illustration](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia26443-spacecraft-illustration.jpg?w=1024)
+article1 day ago](https://science.nasa.gov/earth/climate-change/nasa-data-reveals-role-of-green-spaces-in-cooling-cities/)[![Europa Clipper illustration](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia26443-spacecraft-illustration.jpg?w=1024)
 
 5 min read
 
@@ -291,13 +291,13 @@ article 6 days ago](https://www.nasa.gov/missions/station/preguntas-frecuentes-l
 
 ### NASA AI, Open Science Advance Disaster Research and Recovery
 
-article 18 hours ago](https://science.nasa.gov/open-science/artificial-intelligence-hurricane-response/)[![NASA Data Reveals Role of Green Spaces in Cooling Cities](https://science.nasa.gov/wp-content/uploads/2024/11/sanaa-oli-20240608-1440.jpg)
+article 22 hours ago](https://science.nasa.gov/open-science/artificial-intelligence-hurricane-response/)[![NASA Data Reveals Role of Green Spaces in Cooling Cities](https://science.nasa.gov/wp-content/uploads/2024/11/sanaa-oli-20240608-1440.jpg)
 
 5 min read
 
 ### NASA Data Reveals Role of Green Spaces in Cooling Cities
 
-article 21 hours ago](https://science.nasa.gov/earth/climate-change/nasa-data-reveals-role-of-green-spaces-in-cooling-cities/)[![Amendment 70: New Opportunity: A.62 FarmFlux Science Team](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/content-feature/carboncycle/images/abandoned_farm.jpg)
+article 1 day ago](https://science.nasa.gov/earth/climate-change/nasa-data-reveals-role-of-green-spaces-in-cooling-cities/)[![Amendment 70: New Opportunity: A.62 FarmFlux Science Team](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/content-feature/carboncycle/images/abandoned_farm.jpg)
 
 2 min read
 
@@ -313,13 +313,13 @@ article 6 days ago](https://science.nasa.gov/researchers/solicitations/roses-202
 
 ### Amendment 73: D.13 Astrophysics Pioneers Substantial Revisions
 
-article 17 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-73-d-13-astrophysics-pioneers-substantial-revisions/)[![Amendment 71: F.11 Stand-Alone Landing Site-Agnostic Payloads and Research Investigations on the Surface of the Moon Final Text and Due Dates Released.](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/lunar-science/science-payloads/prospect/Prospect_wide_horizontal.png)
+article 21 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-73-d-13-astrophysics-pioneers-substantial-revisions/)[![Amendment 71: F.11 Stand-Alone Landing Site-Agnostic Payloads and Research Investigations on the Surface of the Moon Final Text and Due Dates Released.](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/lunar-science/science-payloads/prospect/Prospect_wide_horizontal.png)
 
 2 min read
 
 ### Amendment 71: F.11 Stand-Alone Landing Site-Agnostic Payloads and Research Investigations on the Surface of the Moon Final Text and Due Dates Released.
 
-article 20 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-71-f-11-stand-alone-landing-site-agnostic-payloads-and-research-investigations-on-the-surface-of-the-moon-final-text-and-due-dates-released/)[![Europa Clipper illustration](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia26443-spacecraft-illustration.jpg?w=1024)
+article 24 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-71-f-11-stand-alone-landing-site-agnostic-payloads-and-research-investigations-on-the-surface-of-the-moon-final-text-and-due-dates-released/)[![Europa Clipper illustration](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia26443-spacecraft-illustration.jpg?w=1024)
 
 5 min read
 
@@ -335,13 +335,13 @@ article 2 days ago](https://www.nasa.gov/missions/europa-clipper/nasas-europa-cl
 
 ### Discovery Alert: a ‘Hot Neptune’ in a Tight Orbit
 
-article 19 hours ago](https://science.nasa.gov/universe/exoplanets/discovery-alert-a-hot-neptune-in-a-tight-orbit/)[![Amendment 72: D.14 Nancy Grace Roman Space Telescope Research and Support Participation Opportunities Final Text and Due Dates.](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/exo-explore/2023/09/n/NASARoman.jpg)
+article 23 hours ago](https://science.nasa.gov/universe/exoplanets/discovery-alert-a-hot-neptune-in-a-tight-orbit/)[![Amendment 72: D.14 Nancy Grace Roman Space Telescope Research and Support Participation Opportunities Final Text and Due Dates.](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/exo-explore/2023/09/n/NASARoman.jpg)
 
 2 min read
 
 ### Amendment 72: D.14 Nancy Grace Roman Space Telescope Research and Support Participation Opportunities Final Text and Due Dates.
 
-article 20 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-72-d-14-nancy-grace-roman-space-telescope-research-and-support-participation-opportunities-final-text-and-due-dates/)[![EXCITE (EXoplanet Climate Infrared TElescope)](https://science.nasa.gov/wp-content/uploads/2024/08/excite-mission-hero.jpg)
+article 24 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-72-d-14-nancy-grace-roman-space-telescope-research-and-support-participation-opportunities-final-text-and-due-dates/)[![EXCITE (EXoplanet Climate Infrared TElescope)](https://science.nasa.gov/wp-content/uploads/2024/08/excite-mission-hero.jpg)
 
 2 min read
 
@@ -357,19 +357,19 @@ article 2 days ago](https://science.nasa.gov/mission/excite/)
 
 ### Amendment 73: D.13 Astrophysics Pioneers Substantial Revisions
 
-article 17 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-73-d-13-astrophysics-pioneers-substantial-revisions/)[![Amendment 72: D.14 Nancy Grace Roman Space Telescope Research and Support Participation Opportunities Final Text and Due Dates.](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/exo-explore/2023/09/n/NASARoman.jpg)
+article 21 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-73-d-13-astrophysics-pioneers-substantial-revisions/)[![Amendment 72: D.14 Nancy Grace Roman Space Telescope Research and Support Participation Opportunities Final Text and Due Dates.](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/exo-explore/2023/09/n/NASARoman.jpg)
 
 2 min read
 
 ### Amendment 72: D.14 Nancy Grace Roman Space Telescope Research and Support Participation Opportunities Final Text and Due Dates.
 
-article 20 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-72-d-14-nancy-grace-roman-space-telescope-research-and-support-participation-opportunities-final-text-and-due-dates/)[![Amendment 71: F.11 Stand-Alone Landing Site-Agnostic Payloads and Research Investigations on the Surface of the Moon Final Text and Due Dates Released.](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/lunar-science/science-payloads/prospect/Prospect_wide_horizontal.png)
+article 24 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-72-d-14-nancy-grace-roman-space-telescope-research-and-support-participation-opportunities-final-text-and-due-dates/)[![Amendment 71: F.11 Stand-Alone Landing Site-Agnostic Payloads and Research Investigations on the Surface of the Moon Final Text and Due Dates Released.](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/lunar-science/science-payloads/prospect/Prospect_wide_horizontal.png)
 
 2 min read
 
 ### Amendment 71: F.11 Stand-Alone Landing Site-Agnostic Payloads and Research Investigations on the Surface of the Moon Final Text and Due Dates Released.
 
-article 20 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-71-f-11-stand-alone-landing-site-agnostic-payloads-and-research-investigations-on-the-surface-of-the-moon-final-text-and-due-dates-released/)
+article 24 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-71-f-11-stand-alone-landing-site-agnostic-payloads-and-research-investigations-on-the-surface-of-the-moon-final-text-and-due-dates-released/)
 
 ### Highlights
 
@@ -395,25 +395,25 @@ article 2 weeks ago](https://www.nasa.gov/dynamic-spin-rig-publications/)
 
 ### Highlights
 
-[![Amendment 71: F.11 Stand-Alone Landing Site-Agnostic Payloads and Research Investigations on the Surface of the Moon Final Text and Due Dates Released.](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/lunar-science/science-payloads/prospect/Prospect_wide_horizontal.png)
+[![Researchers Al Capps (seated) and Paul Borchers demonstrate Airspace Technology Demonstration 2 (ATD-2) tools that air traffic managers began testing in 2017.](https://www.nasa.gov/wp-content/uploads/2021/09/dsc_0007.jpg?w=1024)
+
+3 min read
+
+### An Electronic Traffic Monitor for Airports 
+
+article 2 hours ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/an-electronic-traffic-monitor-for-airports/)[![Amendment 71: F.11 Stand-Alone Landing Site-Agnostic Payloads and Research Investigations on the Surface of the Moon Final Text and Due Dates Released.](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/lunar-science/science-payloads/prospect/Prospect_wide_horizontal.png)
 
 2 min read
 
 ### Amendment 71: F.11 Stand-Alone Landing Site-Agnostic Payloads and Research Investigations on the Surface of the Moon Final Text and Due Dates Released.
 
-article 20 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-71-f-11-stand-alone-landing-site-agnostic-payloads-and-research-investigations-on-the-surface-of-the-moon-final-text-and-due-dates-released/)[![Illustration of the BioSentinel spacecraft, flying past the Moon with the CubeSat's solar arrays fully deployed, facing the Sun.](https://www.nasa.gov/wp-content/uploads/2021/12/biosentinel_1920x1080.png?w=1024)
+article 24 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-71-f-11-stand-alone-landing-site-agnostic-payloads-and-research-investigations-on-the-surface-of-the-moon-final-text-and-due-dates-released/)[![Illustration of the BioSentinel spacecraft, flying past the Moon with the CubeSat's solar arrays fully deployed, facing the Sun.](https://www.nasa.gov/wp-content/uploads/2021/12/biosentinel_1920x1080.png?w=1024)
 
 8 min read
 
 ### What is BioSentinel?
 
-article 7 days ago](https://www.nasa.gov/centers-and-facilities/ames/what-is-biosentinel/)[![A prototype of a robot designed to explore subsurface oceans of icy moons](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia26423-swim-phase-ii-reflection.png?w=1024)
-
-5 min read
-
-### NASA Ocean World Explorers Have to Swim Before They Can Fly
-
-article 7 days ago](https://www.nasa.gov/solar-system/planets/jupiter/jupiter-moons/europa/nasa-ocean-world-explorers-have-to-swim-before-they-can-fly/)
+article 7 days ago](https://www.nasa.gov/centers-and-facilities/ames/what-is-biosentinel/)
 
 ### Featured
 
@@ -445,7 +445,7 @@ article 1 week ago](https://www.nasa.gov/centers-and-facilities/glenn/nasa-engin
 
 ### This Thanksgiving, We’re Grateful for NASA’s Volunteer Scientists!
 
-article 21 hours ago](https://science.nasa.gov/get-involved/citizen-science/this-thanksgiving-were-grateful-for-nasas-amateur-scientists/)[![Sierra Space’s LIFE (Large Integrated Flexible Environment) habitat following a full-scale ultimate burst pressure test at NASA’s Marshall Space Flight Center in Huntsville, Alabama](https://www.nasa.gov/wp-content/uploads/2024/11/sierra-space-image.png?w=1024)
+article 1 day ago](https://science.nasa.gov/get-involved/citizen-science/this-thanksgiving-were-grateful-for-nasas-amateur-scientists/)[![Sierra Space’s LIFE (Large Integrated Flexible Environment) habitat following a full-scale ultimate burst pressure test at NASA’s Marshall Space Flight Center in Huntsville, Alabama](https://www.nasa.gov/wp-content/uploads/2024/11/sierra-space-image.png?w=1024)
 
 6 min read
 
