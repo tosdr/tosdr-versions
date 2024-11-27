@@ -26,45 +26,41 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-kendis-gibson-1200x630.jpg)](https://americanwirenews.com/former-abc-anchor-claims-degrading-and-racist-workplace-led-to-depression-suicide-attempt/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-derricknaacp-1200-x-628-1200x630.jpg)](https://americanwirenews.com/naacp-boss-already-whining-about-trumps-cabinet/)
 
-[Former ABC anchor claims degrading and racist workplace led to depression, suicide attempt](https://americanwirenews.com/former-abc-anchor-claims-degrading-and-racist-workplace-led-to-depression-suicide-attempt/)
+[NAACP boss already whining about Trump’s Cabinet](https://americanwirenews.com/naacp-boss-already-whining-about-trumps-cabinet/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-jennings-1200x630.jpg)](https://americanwirenews.com/priceless-scott-jennings-shoots-down-cnn-panelists-claim-against-x-in-brutal-fashion/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-jones-vs-gw-jones-470x260-1200-x-628-1200x630.jpg)](https://americanwirenews.com/trump-team-shoots-down-claim-hell-purge-transgenders-from-military/)
 
-[Scott Jennings’ quick response to leftist CNN panelist is absolutely ‘priceless’](https://americanwirenews.com/priceless-scott-jennings-shoots-down-cnn-panelists-claim-against-x-in-brutal-fashion/)
+[Trump team shoots down claim he’ll purge transgenders from military](https://americanwirenews.com/trump-team-shoots-down-claim-hell-purge-transgenders-from-military/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-romero-1200x630.jpg)](https://americanwirenews.com/colorado-womans-land-rights-fight-opens-her-eyes-to-government-overreach-now-we-can-just-go-to-war/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-michelle-obama-1200x630.png)](https://americanwirenews.com/michelle-obama-pimping-new-book-overcoming-just-in-time-for-christmas/)
 
-[Colorado woman’s land rights fight opens her eyes to government overreach: ‘Now we can just go to war’](https://americanwirenews.com/colorado-womans-land-rights-fight-opens-her-eyes-to-government-overreach-now-we-can-just-go-to-war/)
+[Michelle Obama pimping new book ‘Overcoming’ just in time for Christmas](https://americanwirenews.com/michelle-obama-pimping-new-book-overcoming-just-in-time-for-christmas/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-newsguard-rating-1200x630.jpg)](https://americanwirenews.com/its-nuts-influential-media-watchdog-awards-wapo-a-perfect-score/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-james-carville-1200x630.png)](https://americanwirenews.com/carville-goes-off-on-kamalas-23-year-old-snot-nosed-brat-staffers-in-f-bomb-laden-rant/)
 
-[‘It’s nuts!’ Influential media ‘watchdog’ awards WaPo a perfect score](https://americanwirenews.com/its-nuts-influential-media-watchdog-awards-wapo-a-perfect-score/)
+[Carville goes off on Kamala’s 23-year-old snot-nosed brat staffers in F-bomb laden rant](https://americanwirenews.com/carville-goes-off-on-kamalas-23-year-old-snot-nosed-brat-staffers-in-f-bomb-laden-rant/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-2185632401-1-1200x630.jpg)](https://americanwirenews.com/paging-elon-musk-joni-ernsts-plan-to-eliminate-2t-in-govt-waste-is-a-must-read/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-phelan-bhattacharya-1200x630.jpg)](https://americanwirenews.com/trump-taps-two-more-head-turning-leaders-to-round-out-list/)
 
-(Photo by Brandon Bell/Getty Images)
+[Trump taps two more head-turning leaders to round out list](https://americanwirenews.com/trump-taps-two-more-head-turning-leaders-to-round-out-list/)
 
-[Paging Elon Musk: Joni Ernst’s plan to eliminate $2T in govt. waste is a MUST READ](https://americanwirenews.com/paging-elon-musk-joni-ernsts-plan-to-eliminate-2t-in-govt-waste-is-a-must-read/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-steele-1200x630.jpg)](https://americanwirenews.com/fmr-rnc-boss-with-tds-says-trumps-return-is-like-opening-a-pandoras-box-of-hell/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2022/08/RF-Getty-Fossil-Fuel-1200x630.jpg)](https://americanwirenews.com/must-watch-billy-bob-thorton-clip-taking-on-environmental-extremists-goes-viral/)
+[Fmr. RNC boss with TDS says Trump’s return is like opening a ‘Pandora’s box of hell’](https://americanwirenews.com/fmr-rnc-boss-with-tds-says-trumps-return-is-like-opening-a-pandoras-box-of-hell/)
 
-Getty Images
+[![](https://americanwirenews.com/wp-content/uploads/2022/06/sg-luntz-1200x630.png)](https://americanwirenews.com/frank-luntz-roasted-over-touting-this-years-cheaper-turkey-day-dinner/)
 
-[Must watch Billy Bob Thorton clip taking on environmental extremists goes viral](https://americanwirenews.com/must-watch-billy-bob-thorton-clip-taking-on-environmental-extremists-goes-viral/)
+[Frank Luntz ROASTED over touting this year’s cheaper Turkey Day dinner](https://americanwirenews.com/frank-luntz-roasted-over-touting-this-years-cheaper-turkey-day-dinner/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-defund-the-police-sign-1200x630.jpg)](https://americanwirenews.com/anti-police-activist-accused-of-using-charitable-donations-to-fund-lavish-lifestyle/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-cutter-1200x630.png)](https://americanwirenews.com/kamala-aides-blame-trump-for-her-missing-out-on-interview-with-joe-rogan/)
 
-[Anti-police activist accused of using charitable donations to fund lavish lifestyle](https://americanwirenews.com/anti-police-activist-accused-of-using-charitable-donations-to-fund-lavish-lifestyle/)
+[Kamala aides blame TRUMP for her missing out on interview with Joe Rogan](https://americanwirenews.com/kamala-aides-blame-trump-for-her-missing-out-on-interview-with-joe-rogan/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-welker-schmitt-1200x630.jpg)](https://americanwirenews.com/nbc-anchor-gets-an-earful-when-she-asks-gop-sen-about-government-weaponization/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/screenshot-2024-11-27-071639-1200x630.jpg)
 
-[NBC anchor gets an earful when she asks GOP Sen. about government weaponization](https://americanwirenews.com/nbc-anchor-gets-an-earful-when-she-asks-gop-sen-about-government-weaponization/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-capehart-1-1200x630.jpg)
-
-### Gay MSNBC host admits Trump’s Treasury pick has him ‘conflicted’](https://americanwirenews.com/gay-msnbc-host-admits-trumps-treasury-pick-has-him-conflicted/)
+### MSNBC claims it was ‘unaware’ that Al Sharpton got paid by Kamala](https://americanwirenews.com/msnbc-claims-it-was-unaware-that-al-sharpton-got-paid-by-kamala/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -81,6 +77,14 @@ Getty Images
 ### [Denver mayor rethinks pitting police against ICE deportation forces](https://americanwirenews.com/denver-mayor-rethinks-pitting-police-against-ice-deportation-forces/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-trump-guitar-220x180.jpg)](https://americanwirenews.com/gibson-fires-off-cease-and-desist-over-trumps-limited-edition-guitars/)
+
+[Gibson fires off cease-and-desist over Trump’s limited edition guitars](https://americanwirenews.com/gibson-fires-off-cease-and-desist-over-trumps-limited-edition-guitars/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-stone-220x180.jpg)](https://americanwirenews.com/hollywood-actress-goes-abroad-tees-off-on-uneducated-untraveled-americans-who-voted-for-trump/)
+
+[Hollywood actress goes abroad, tees off on ‘uneducated,’ untraveled Americans who voted for Trump](https://americanwirenews.com/hollywood-actress-goes-abroad-tees-off-on-uneducated-untraveled-americans-who-voted-for-trump/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-routhvid-1200-x-628-220x180.jpg)](https://americanwirenews.com/alleged-would-be-trump-assassin-releases-jailhouse-letter-railing-against-two-party-system/)
 
@@ -175,14 +179,6 @@ Getty Images
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-whoopi-220x180.png)](https://americanwirenews.com/whoopi-singing-new-tune-on-trump-criticism-tells-ana-navarro-shes-pissing-in-the-wind/)
 
 [Whoopi singing new tune on Trump criticism, tells Ana Navarro she’s ‘pissing in the wind’](https://americanwirenews.com/whoopi-singing-new-tune-on-trump-criticism-tells-ana-navarro-shes-pissing-in-the-wind/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-meeks-congressional-black-caucus-220x180.jpg)](https://americanwirenews.com/racist-nation-congressional-black-caucus-boasts-of-record-high-membership-not-counting-republicans/)
-
-[Racist nation? Congressional Black Caucus boasts of record high membership – not counting Republicans](https://americanwirenews.com/racist-nation-congressional-black-caucus-boasts-of-record-high-membership-not-counting-republicans/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-patel-220x180.jpg)](https://americanwirenews.com/kash-patel-asks-for-proof-after-mccabe-others-say-hes-a-dangerous-pick-to-lead-fbi/)
-
-[Kash Patel asks for ‘proof’ after McCabe, others say he’s a ‘dangerous’ pick to lead FBI](https://americanwirenews.com/kash-patel-asks-for-proof-after-mccabe-others-say-hes-a-dangerous-pick-to-lead-fbi/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
