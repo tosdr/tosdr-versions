@@ -72,7 +72,9 @@ triangle borderless
     
     Smart Locks](https://www.lorex.com/collections/smart-locks)[![](//www.lorex.com/cdn/shop/collections/ACWFDPS-L1_80x.png?v=1686081784)
     
-    Accessories](https://www.lorex.com/collections/accessories-smart-home)
+    Accessories](https://www.lorex.com/collections/accessories-smart-home)[![](//www.lorex.com/cdn/shop/collections/wifiCameras2_80x.png?v=1717609137)
+    
+    Shop All Wireless Security Solutions](https://www.lorex.com/collections/wireless-security-solutions)
     
     Fusion Security Solutions arrow bottom
     
@@ -80,7 +82,9 @@ triangle borderless
     
     Fusion Wireless](https://www.lorex.com/collections/fusion-wireless)[![](//www.lorex.com/cdn/shop/collections/fusionwiredwifi_80x.jpg?v=1730391498)
     
-    Fusion Wired & Wi-Fi](https://www.lorex.com/collections/fusion-wired-wi-fi)
+    Fusion Wired & Wi-Fi](https://www.lorex.com/collections/fusion-wired-wi-fi)[![](//www.lorex.com/cdn/shop/collections/fusioncollection_80x.png?v=1727796730)
+    
+    Shop All Fusion Security Solutions](https://www.lorex.com/collections/the-fusion-collection)
     
     Video Doorbells arrow bottom
     
@@ -96,13 +100,17 @@ triangle borderless
     
     4K Battery Video Doorbell (64GB)](https://www.lorex.com/products/b861-4k-battery-doorbell)[![](//www.lorex.com/cdn/shop/files/b560f576100df6e145b2c85fd68d2fc43ade0937710d29d208a1e08e15e55382_80x.png?v=1699309499)
     
-    Wi-Fi Chimebox](https://www.lorex.com/products/acchm2-add-on-wi-fi-chime-for-lorex-video-doorbells)
+    Wi-Fi Chimebox](https://www.lorex.com/products/acchm2-add-on-wi-fi-chime-for-lorex-video-doorbells)[![](//www.lorex.com/cdn/shop/collections/B451AJ-L2_e9ccaa52-5294-4423-81cd-e3ead363321a_80x.png?v=1693511092)
+    
+    Shop All Video Doorbells](https://www.lorex.com/collections/doorbells)
     
     Other Security Solutions arrow bottom
     
     [![](//www.lorex.com/cdn/shop/files/4182405c6737dba05ed8d72ac1dba38cfc283d0bbf8ed3322b047203aca3c646_80x.png?v=1699310476)
     
-    Portable Thermal Monocular Camera](https://www.lorex.com/products/thermal-monocular-camera)
+    Portable Thermal Monocular Camera](https://www.lorex.com/products/thermal-monocular-camera)[![](//www.lorex.com/cdn/shop/collections/LK100-L2_528cde37-6f82-4bec-9b09-ddecb6ba434a_80x.png?v=1708627639)
+    
+    Shop All Other Security Solutions](https://www.lorex.com/collections/other-security-solutions)
     
     [Lorex Solutions Finder](https://www.lorex.com/pages/solutions-finder)
     
