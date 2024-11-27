@@ -137,59 +137,69 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
-
-New comment
-
-The Voice Kids from The Philippines (an example ...  [more](https://lyricstranslate.com/en/comment/1178253#comment-1178253)
-
-[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
-
-New comment
-
-https://lyricstranslate.com/en/...  [more](https://lyricstranslate.com/en/comment/1178252#comment-1178252)
-
-[![Роман Постовалов](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1609206-1728278937.jpg)](https://lyricstranslate.com/en/translator/%D1%80%D0%BE%D0%BC%D0%B0%D0%BD-%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B0%D0%BB%D0%BE%D0%B2 "Роман Постовалов")
+[![BlackRyder](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1429942-1641186576.png)](https://lyricstranslate.com/en/translator/blackryder "BlackRyder")
 
 New translation
 
-[Måneskin - Baby Said](https://lyricstranslate.com/en/maneskin-baby-said-romanian)
+[Negramaro - Lente](https://lyricstranslate.com/en/negramaro-lente-spanish)
 
-English → Romanian
+Italian → Spanish
 
-[![Роман Постовалов](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1609206-1728278937.jpg)](https://lyricstranslate.com/en/translator/%D1%80%D0%BE%D0%BC%D0%B0%D0%BD-%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B0%D0%BB%D0%BE%D0%B2 "Роман Постовалов")
+[![Panda love](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1458061-1655828855.jpg)](https://lyricstranslate.com/en/translator/panda-love "Panda love")
 
-New request
+New song
 
-[Måneskin - Baby Said](https://lyricstranslate.com/en/request/baby-said-1)
+[Moana 2 (OST) - 放手 \[Get Lost\] (China)](https://lyricstranslate.com/en/moana-2-ost-fang-shou-lyrics)
 
-English → Spanish
+Chinese
 
-[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
-
-New comment
-
-https://lyricstranslate.com/en/...  [more](https://lyricstranslate.com/en/comment/1178251#comment-1178251)
-
-[![A L I R E Z A Abast](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1618606-1716002340.jpg)](https://lyricstranslate.com/en/translator/l-i-r-e-z-abast "A L I R E Z A Abast")
-
-New comment
-
-ممنون از ترجمه خوب و وقتی که میگذارید 👍🙏  [more](https://lyricstranslate.com/en/comment/1178250#comment-1178250)
-
-[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
-
-New comment
-
-https://lyricstranslate.com/en/...  [more](https://lyricstranslate.com/en/comment/1178249#comment-1178249)
-
-[![forwards24](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/forwards24 "forwards24")
+[![kerakemas](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1192548-1634473760.jpg)](https://lyricstranslate.com/en/translator/kerakemas "kerakemas")
 
 New translation
 
-[Nir Knaan - די (Dai)](https://lyricstranslate.com/en/nir-knaan-dai-english)
+[SadSvit - Пам'ятай свій дім (Pam'yatay sviy dim)](https://lyricstranslate.com/en/sadsvit-pamyatay-sviy-dim-transliteration)
 
-Hebrew → English
+Ukrainian → Transliteration
+
+[![Zarina01](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1295512-1667921080.jpg)](https://lyricstranslate.com/en/translator/zarina01 "Zarina01")
+
+New translation
+
+[Ofra Haza - אסאלק (A 'Salk)](https://lyricstranslate.com/en/ofra-haza-slq-salk-transliteration)
+
+Judeo-Yemeni Arabic → Transliteration
+
+[![Joseph Unicornvault](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1600574-1731910325.jpg)](https://lyricstranslate.com/en/translator/joseph3101 "Joseph Unicornvault")
+
+New song
+
+[Schock-headed Peter (Musical) - Shock-headed Peter Ouverture](https://lyricstranslate.com/en/schock-headed-peter-musi-shock-headed-peter-ouvert-lyrics)
+
+English
+
+[![Panda love](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1458061-1655828855.jpg)](https://lyricstranslate.com/en/translator/panda-love "Panda love")
+
+New song
+
+[Moana 2 (OST) - 远航（再现） \[Beyond（Reprise)\] (China)](https://lyricstranslate.com/en/moana-2-ost-yuan-hang-zai-xian-lyrics)
+
+Chinese
+
+[![Joseph Unicornvault](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1600574-1731910325.jpg)](https://lyricstranslate.com/en/translator/joseph3101 "Joseph Unicornvault")
+
+New song
+
+[Schock-headed Peter (Musical) - Ouvertüre \[Shock-headed Peter Ouverture\]](https://lyricstranslate.com/en/schock-headed-peter-musi-ouverture-shock-headed-p-lyrics)
+
+German
+
+[![Sibaq 2k25](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1638220-1732682429.png)](https://lyricstranslate.com/en/translator/sibaq-2k25 "Sibaq 2k25")
+
+New song
+
+[AJSAL THRISSUR&AJSAL KOTTAKKALRAZAN KAKKODI - THIRU THWAHA JAGAGURU](https://lyricstranslate.com/en/ajsal-thrissurajsal-kott-thiru-thwaha-jagaguru-lyrics)
+
+Malay
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
