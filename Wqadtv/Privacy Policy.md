@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/68fa9687-3548-4f83-b311-361ca5037fd1/20241127T043101/68fa9687-3548-4f83-b311-361ca5037fd1_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/68fa9687-3548-4f83-b311-361ca5037fd1/20241127T043101/68fa9687-3548-4f83-b311-361ca5037fd1_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/445b57a7-3686-4bd1-bf39-d859b005fc71/20241127T131500/445b57a7-3686-4bd1-bf39-d859b005fc71_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/445b57a7-3686-4bd1-bf39-d859b005fc71/20241127T131500/445b57a7-3686-4bd1-bf39-d859b005fc71_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [A seasonally cool day come Wednesday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Dry and comfortable Wednesday; Big chill arrives for Thanksgiving](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-    *  [![](https://media.tegna-media.com/assets/WUSA/images/fa3f5ca3-94ce-4c85-a82e-8bdd234d13c0/20241125T111801/fa3f5ca3-94ce-4c85-a82e-8bdd234d13c0_16x9.jpg) ![](https://media.tegna-media.com/assets/WUSA/images/fa3f5ca3-94ce-4c85-a82e-8bdd234d13c0/20241125T111801/fa3f5ca3-94ce-4c85-a82e-8bdd234d13c0_360x203.jpg)](https://www.wqad.com/article/tech/science/environment/christmas-trees-real-vs-artificial-environmental-impacts/65-07335bd6-c59b-44d0-b720-72761ded9160)
+    *  [![](https://media.tegna-media.com/assets/WCNC/images/a11cb4f4-9f11-4770-b48b-af0d48f1ce2c/a11cb4f4-9f11-4770-b48b-af0d48f1ce2c_16x9.jpeg) ![](https://media.tegna-media.com/assets/WCNC/images/a11cb4f4-9f11-4770-b48b-af0d48f1ce2c/a11cb4f4-9f11-4770-b48b-af0d48f1ce2c_360x203.jpeg)](https://www.wqad.com/article/weather/historical-level-cold-iowa-state-cyclones-hawkeyes-football-weather/524-0bf8d5bd-3157-4c2b-837b-698d6104639b)
         
-        #### [Real tree or fake tree: Experts say both holiday staples have pros and cons](https://www.wqad.com/article/tech/science/environment/christmas-trees-real-vs-artificial-environmental-impacts/65-07335bd6-c59b-44d0-b720-72761ded9160)
+        #### [Historically cold football games for both Iowa and Iowa State this week](https://www.wqad.com/article/weather/historical-level-cold-iowa-state-cyclones-hawkeyes-football-weather/524-0bf8d5bd-3157-4c2b-837b-698d6104639b)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-34°
+37°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
