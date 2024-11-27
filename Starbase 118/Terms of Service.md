@@ -350,6 +350,18 @@ Read More
 Community News
 --------------
 
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2023/09/RoninBeauty-full-768x419.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/uss-ronin-and-uss-khitomer-repairs-and-extended-shore-leave-continue-at-deep-space-nine/)
+
+### [USS Ronin and USS Khitomer Repairs and Extended Shore Leave Continue at Deep Space Nine](https://www.starbase118.net/2024/uss-ronin-and-uss-khitomer-repairs-and-extended-shore-leave-continue-at-deep-space-nine/)
+
+Federation News Service November 27, 2024
+
+DEEP SPACE NINE – Repairs to the USS Ronin and USS Khitomer following the defense of Deep Space Thirty-Three have taken longer than anticipated, primarily
+
+[Read More »](https://www.starbase118.net/2024/uss-ronin-and-uss-khitomer-repairs-and-extended-shore-leave-continue-at-deep-space-nine/)
+
 ### [Award winner – Lt Karen Stendhal, USS Octavia E Butler (Xalor Clan Xifilis Award)](https://www.starbase118.net/2024/award-winner-lt-karen-stendhal-uss-octavia-e-butler-xalor-clan-xifilis-award/)
 
 Lhandon Nilsen November 26, 2024
@@ -369,18 +381,6 @@ Federation News Service November 25, 2024
 RING 42 – The crew of Denali Station traveled a short distance on Ring 42 to assist a newly established Jem’Hadar colony struggling with several
 
 [Read More »](https://www.starbase118.net/2024/denali-crew-travels-to-a-newly-established-jemhadar-colony/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2018/04/Tuvok_promoted-768x585.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/promotions-for-october-6/)
-
-### [Promotions for October](https://www.starbase118.net/2024/promotions-for-october-6/)
-
-Alora DeVeau November 24, 2024
-
-We’d like to congratulate all who saw their hard work and dedication pay off the last couple of months with a promotion to a higher
-
-[Read More »](https://www.starbase118.net/2024/promotions-for-october-6/)
 
 Ready to get started?
 ---------------------
