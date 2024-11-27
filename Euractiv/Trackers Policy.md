@@ -111,25 +111,25 @@ Most recent
 
 [27-11-2024
 
-Commission working on study to develop AI model energy efficiency framework](https://www.euractiv.com/section/eet/news/commission-working-on-study-to-develop-ai-model-energy-efficiency-framework/)[27-11-2024
+Poland, France join forces against EU-Mercosur trade deal](https://www.euractiv.com/section/politics/news/the-capitals-poland-france-join-forces-against-eu-mercosur-trade-deal/)[27-11-2024
 
-EU’s energy transition resilience needs action, gas infrastructure funding](https://www.euractiv.com/section/eet/news/eus-energy-transition-resilience-needs-action-gas-infrastructure-funding/)[26-11-2024
+Bulgaria on verge of holding eighth election in just four years](https://www.euractiv.com/section/politics/news/bulgaria-on-verge-of-holding-eighth-election-in-just-four-years/)[27-11-2024
 
-EU must invest quickly in Kazakhstan’s rare earths production, for green energy transition and global competition](https://www.euractiv.com/section/eet/news/eu-must-invest-quickly-in-kazakhstans-rare-earths-production-for-green-energy-transition-and-global-competition/)[26-11-2024
+European Commission approves Portugal’s 2025-2028 budget plan](https://www.euractiv.com/section/politics/news/european-commission-approves-portugals-2025-2028-budget-plan/)[27-11-2024
 
-Rising distrust of news and journalists is risking lives, media freedom in EU](https://www.euractiv.com/section/politics/news/rising-distrust-of-news-and-journalists-is-risking-lives-media-freedom-in-eu/)[26-11-2024
+European Commission approves Spain’s new fiscal plan](https://www.euractiv.com/section/politics/news/european-commission-approves-spains-new-fiscal-plan/)[27-11-2024
 
-German industry boss warns: Europe could be hit next by Trump tariff threats](https://www.euractiv.com/section/economy-jobs/news/german-industry-boss-warns-europe-could-be-hit-next-in-trump-tariff-threats/)[26-11-2024
+G7 states back Middle East ceasefire, omit debate on ICC arrest warrants](https://www.euractiv.com/section/politics/news/g7-states-back-middle-east-ceasefire-omit-debate-on-icc-arrest-warrants/)[27-11-2024
 
-Energy security remains a challenge for the EU, Trump could make it worse](https://www.euractiv.com/section/eet/news/energy-security-remains-a-challenge-for-the-eu-trump-could-make-it-worse/)[26-11-2024
+Russia condemns ‘irresponsible’ talk of nuclear weapons for Ukraine](https://www.euractiv.com/section/global-europe/news/russia-condemns-irresponsible-talk-of-nuclear-weapons-for-ukraine/)[27-11-2024
 
-‘My majority is becoming reality’, EPP leader Weber proclaims](https://www.euractiv.com/section/politics/news/my-majority-is-becoming-reality-epp-leader-weber-proclaims/)[26-11-2024
+Habeck admits coalition failure in key German industries lagging](https://www.euractiv.com/section/politics/news/habeck-admits-coalition-failure-in-key-german-industries-lagging/)[27-11-2024
 
-Agri-food caught in crossfire of looming trade wars, WTO paralysis](https://www.euractiv.com/section/agriculture-food/news/agri-food-caught-in-crossfire-of-looming-trade-wars-wto-paralysis/)[26-11-2024
+‘Undemocratic’ snap elections have Germany’s small EU delegations fear for their future](https://www.euractiv.com/section/politics/news/undemocratic-snap-elections-have-germanys-small-eu-delegations-fear-for-their-future/)[27-11-2024
 
-NGOs, experts make last push to uphold wolf protection status](https://www.euractiv.com/section/eet/news/ngos-experts-make-last-push-to-uphold-wolf-protection-status/)[26-11-2024
+‘I’m not the one who wanted them’: Gentiloni criticises new EU fiscal rules](https://www.euractiv.com/section/economy-jobs/news/im-not-the-one-who-wanted-them-gentiloni-criticises-new-eu-fiscal-rules/)[27-11-2024
 
-EU healthcare assistants struggle to make a living wage, warn unions](https://www.euractiv.com/section/health-consumers/news/eu-healthcare-assistants-struggle-to-make-a-living-wage-warn-unions/)
+Baltics Sea region PMs meet to discuss regional security ahead of Trump’s return](https://www.euractiv.com/section/politics/news/baltics-sea-region-pms-meet-to-discuss-regional-security-ahead-of-trumps-return/)
 
 ###### Advertisement
 
