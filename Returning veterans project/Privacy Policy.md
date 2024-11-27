@@ -185,10 +185,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Dr. Stephen Hunt](https://cdn.returningveterans.org/images/honor/stephen_hunt.jpg)  
+![Seal Team 6](https://cdn.returningveterans.org/images/honor/beth_corey_woh_picture.jpg)  
 
-**In Honor of Dr. Stephen Hunt**  
-Submitted by Anonymous](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Honor of Seal Team 6**  
+United States Navy  
+Submitted by Beth Corey](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -231,5 +232,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 11/26/24 - 1:31:17  
+Printed 11/26/24 - 7:21:24  
 © 2024 Returning Veterans Project
