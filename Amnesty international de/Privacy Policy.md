@@ -143,6 +143,10 @@ Verantwortlich für die Datenverarbeitung ist
 
 **12059 Berlin**
 
+Registergericht: Amtsgericht Charlottenburg
+
+Vereinsregisternummer: VR 36372 B
+
 Sie erreichen uns postalisch, per E-Mail an [info@amnesty.de](mailto:info@amnesty.de) oder telefonisch unter +49-30-420248-0. Unseren Datenschutzbeauftragten erreichen Sie per Post (adressiert an "Datenschutzbeauftragter") unter obiger Anschrift, unser Datenschutzteam erreichen Sie per E-Mail an [datenschutz@amnesty.de](mailto:datenschutz@amnesty.de).
 
 Mitgliedschaft
@@ -1155,6 +1159,10 @@ Sonnenallee 221 C
 12059 Berlin  
   
 Telefon: +49 (0)30 / 420248-0
+
+Registergericht: Amtsgericht Charlottenburg
+
+Vereinsregisternummer: VR 36372 B
 
 Spendenkonto
 ------------
