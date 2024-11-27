@@ -480,9 +480,9 @@ Revised June 1, 2022
 
   [![Totopa in Tokyo’s Shinjuku Ward was picked by consultants TTNE as the best sauna of the year. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/25/435137.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Totopa in Tokyo’s Shinjuku Ward was picked by consultants TTNE as the best sauna of the year. ")](https://www.japantimes.co.jp/life/2024/11/25/lifestyle/sauna-culture-japan/ "Japan’s sauna movement: Relax, refresh, repeat")
 
-[Kotozakura unburdened by weight of history after claiming first title](https://www.japantimes.co.jp/sports/2024/11/25/sumo/kotozakura-handles-weight-of-history/ "Kotozakura unburdened by weight of history after claiming first title")
+[Funeral held for Princess Yuriko at Tokyo cemetery](https://www.japantimes.co.jp/news/2024/11/26/japan/society/princess-yuriko-funeral/ "Funeral held for Princess Yuriko at Tokyo cemetery")
 
-  [![Kotozakura speaks during a news conference in Fukuoka on Monday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/25/436188.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Kotozakura speaks during a news conference in Fukuoka on Monday")](https://www.japantimes.co.jp/sports/2024/11/25/sumo/kotozakura-handles-weight-of-history/ "Kotozakura unburdened by weight of history after claiming first title")
+  [![Crown Prince Akishino and Crown Princess Kiko, followed by Princess Aiko and Princess Kako, prepare to attend a funeral service for Princess Yuriko at Toshimagaoka Cemetery in Tokyo on Tuesday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/26/436352.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Crown Prince Akishino and Crown Princess Kiko, followed by Princess Aiko and Princess Kako, prepare to attend a funeral service for Princess Yuriko at Toshimagaoka Cemetery in Tokyo on Tuesday. ")](https://www.japantimes.co.jp/news/2024/11/26/japan/society/princess-yuriko-funeral/ "Funeral held for Princess Yuriko at Tokyo cemetery")
 
 [Bluesky is booming in Japan — mainly for reasons other than U.S. politics](https://www.japantimes.co.jp/business/2024/11/25/companies/bluesky-social-japan/ "Bluesky is booming in Japan — mainly for reasons other than U.S. politics")
 
@@ -523,9 +523,9 @@ By [Greg Dvorak](https://www.japantimes.co.jp/author/6191/greg-dvorak/ "Greg Dvo
 SUSTAINABLE JAPAN
 -----------------
 
-[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
-[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -565,25 +565,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Many municipalities in Japan lack understanding of megaquake advisory system](https://www.japantimes.co.jp/news/2024/11/26/japan/society/municipalities-unaware-megaquake-advisory-system/ "Many municipalities in Japan lack understanding of megaquake advisory system")
+[Vietnam mogul told to refund missing billions to overturn death sentence](https://www.japantimes.co.jp/news/2024/11/27/asia-pacific/crime-legal/vietnam-mogul-refund-billions-life/ "Vietnam mogul told to refund missing billions to overturn death sentence")
 
-9 hours ago
+1 mins ago
 
-[Trump prepares wide-ranging energy plan centered on gas and oil, sources say](https://www.japantimes.co.jp/news/2024/11/26/world/politics/trump-energy-agenda/ "Trump prepares wide-ranging energy plan centered on gas and oil, sources say")
+[In Zimbabwe, Starlink’s fast internet gives telehealth a boost](https://www.japantimes.co.jp/news/2024/11/27/world/science-health/zimbabwe-starlink-internet-telehealth/ "In Zimbabwe, Starlink’s fast internet gives telehealth a boost")
 
-9 hours ago
+2 mins ago
 
-[Philippines-China tensions trigger money-making disinformation](https://www.japantimes.co.jp/news/2024/11/26/asia-pacific/politics/china-philippines-disinformation-networks-profit/ "Philippines-China tensions trigger money-making disinformation")
+[Japanese prosecutor apologizes to Hakamata following his acquittal](https://www.japantimes.co.jp/news/2024/11/27/japan/crime-legal/prosecutor-apology-hakamata/ "Japanese prosecutor apologizes to Hakamata following his acquittal")
 
-10 hours ago
+19 mins ago
 
-[False report on Yasukuni Shrine visit 'extremely regrettable,' top spokesperson says](https://www.japantimes.co.jp/news/2024/11/26/japan/kyodo-news-yasukuni-report-mistake/ "False report on Yasukuni Shrine visit 'extremely regrettable,' top spokesperson says")
+[China defense minister being investigated for corruption, report says](https://www.japantimes.co.jp/news/2024/11/27/asia-pacific/politics/china-defense-minister-corruption-dong-jun/ "China defense minister being investigated for corruption, report says")
 
-10 hours ago
+37 mins ago
 
-[Ishiba urges Biden to approve Nippon-U.S. Steel deal, sources say](https://www.japantimes.co.jp/news/2024/11/26/japan/politics/ishiba-biden-nippon-steel-letter/ "Ishiba urges Biden to approve Nippon-U.S. Steel deal, sources say")
+[Two years pass since Japan's last execution, amid calls for abolition](https://www.japantimes.co.jp/news/2024/11/27/japan/crime-legal/japan-capital-punishment/ "Two years pass since Japan's last execution, amid calls for abolition")
 
-11 hours ago
+1 hour ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
