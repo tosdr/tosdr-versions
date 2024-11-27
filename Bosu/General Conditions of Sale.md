@@ -196,7 +196,7 @@ We can not issue refunds once the order is already
 * being prepared for shipment
 * or has been shipped
 
-However, if you [contact us](https://bosu-1279.myshopify.com/pages/contact) within 24 hours after placing the order, we can cancel/change your order.
+However, if you [contact us](https://bosu-1279.myshopify.com/pages/contact) we can attempt to cancel/change your order.
 
 Please ensure that all details within your shipping address are correct before placing an order. An order confirmation email will also be sent after placing an order to confirm all order details.
 
