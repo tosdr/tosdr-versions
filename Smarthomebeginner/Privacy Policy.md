@@ -171,11 +171,11 @@ For specific information about Mediavine Partners, the data each collects and th
 
 [![](https://www.smarthomebeginner.com/wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fimg.youtube.com%2Fvi%2FOnoKy73b-w4%2Fhqdefault.jpg)](https://youtu.be/OnoKy73b-w4)
 
-Deployarr 5 Walkthrough: Docker Homelab in Minutes🚀
+Deployarr 5 Intro: Docker Homelab in Minutes🚀
 
 > **Be the 1 in 200,000. Help us sustain what we do.**
 > 
-> 114 / 150 by Dec 31, 2024
+> 112 / 150 by Dec 31, 2024
 > 
 > [Join the Geek Army!](https://www.smarthomebeginner.com/membership-account/memberships-products-services/)
 > 
@@ -190,31 +190,31 @@ Deployarr 5 Walkthrough: Docker Homelab in Minutes🚀
 Recent Posts
 ------------
 
-* [![Deployarr V5 With 90 Apps Thumbnail | Smarthomebeginner](https://www.smarthomebeginner.com/images/2024/06/Deployarr-v5-with-90-Apps-Thumbnail-150x85.jpg "Deployarr v5 Launched: Is it an Embarrassment? BS? 2")
+* [![Dozzle Docker Compose - Web Interface](https://www.smarthomebeginner.com/images/2024/11/dozzle-web-interface-2024-150x72.png "Ultimate Docker Guides: Dozzle Docker Compose 2")
     
-    ![Deployarr V5 With 90 Apps Thumbnail | Smarthomebeginner](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20150%2085%22%3E%3C/svg%3E "Deployarr v5 Launched: Is it an Embarrassment? BS? 2")](https://www.smarthomebeginner.com/deployarr-v5-launched/)
+    ![Dozzle Docker Compose - Web Interface](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20150%2072%22%3E%3C/svg%3E "Ultimate Docker Guides: Dozzle Docker Compose 2")](https://www.smarthomebeginner.com/dozzle-docker-compose-guide-2024/)
+    
+    [Ultimate Docker Guides: Dozzle Docker Compose](https://www.smarthomebeginner.com/dozzle-docker-compose-guide-2024/)
+* [![Install Windows 11 On Proxmox Ft | Smarthomebeginner](https://www.smarthomebeginner.com/images/2024/10/Install-Windows-11-on-Proxmox-ft-150x84.jpg "Install Windows 11 on Proxmox - Now Better Than Before! 3")
+    
+    ![Install Windows 11 On Proxmox Ft | Smarthomebeginner](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20150%2084%22%3E%3C/svg%3E "Install Windows 11 on Proxmox - Now Better Than Before! 3")](https://www.smarthomebeginner.com/install-windows-11-on-proxmox/)
+    
+    [Install Windows 11 on Proxmox – Now Better Than Before!](https://www.smarthomebeginner.com/install-windows-11-on-proxmox/)
+* [![Deployarr V5 With 90 Apps Thumbnail | Smarthomebeginner](https://www.smarthomebeginner.com/images/2024/06/Deployarr-v5-with-90-Apps-Thumbnail-150x85.jpg "Deployarr v5 Launched: Is it an Embarrassment? BS? 4")
+    
+    ![Deployarr V5 With 90 Apps Thumbnail | Smarthomebeginner](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20150%2085%22%3E%3C/svg%3E "Deployarr v5 Launched: Is it an Embarrassment? BS? 4")](https://www.smarthomebeginner.com/deployarr-v5-launched/)
     
     [Deployarr v5 Launched: Is it an Embarrassment? BS?](https://www.smarthomebeginner.com/deployarr-v5-launched/)
-* [![Authelia Docker Compose Guide](https://www.smarthomebeginner.com/images/2024/02/Docker-Series-06-Authelia-150x84.png "Authelia Docker Compose Guide: Secure 2-Factor Auth [2024-v2] 3")
+* [![Authelia Docker Compose Guide](https://www.smarthomebeginner.com/images/2024/02/Docker-Series-06-Authelia-150x84.png "Authelia Docker Compose Guide: Secure 2-Factor Auth [2024-v2] 5")
     
-    ![Authelia Docker Compose Guide](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20150%2084%22%3E%3C/svg%3E "Authelia Docker Compose Guide: Secure 2-Factor Auth [2024-v2] 3")](https://www.smarthomebeginner.com/authelia-docker-compose-guide-2024-v2/)
+    ![Authelia Docker Compose Guide](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20150%2084%22%3E%3C/svg%3E "Authelia Docker Compose Guide: Secure 2-Factor Auth [2024-v2] 5")](https://www.smarthomebeginner.com/authelia-docker-compose-guide-2024-v2/)
     
     [Authelia Docker Compose Guide: Secure 2-Factor Auth \[2024-v2\]](https://www.smarthomebeginner.com/authelia-docker-compose-guide-2024-v2/)
-* [![Uptime Kuma Docker Compose](https://www.smarthomebeginner.com/images/2024/05/title-2-150x93.jpeg "Uptime Kuma Docker Compose 2024: Ultimate Non-Stop Monitoring 4")
+* [![Uptime Kuma Docker Compose](https://www.smarthomebeginner.com/images/2024/05/title-2-150x93.jpeg "Uptime Kuma Docker Compose 2024: Ultimate Non-Stop Monitoring 6")
     
-    ![Uptime Kuma Docker Compose](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20150%2093%22%3E%3C/svg%3E "Uptime Kuma Docker Compose 2024: Ultimate Non-Stop Monitoring 4")](https://www.smarthomebeginner.com/uptime-kuma-docker-compose-guide/)
+    ![Uptime Kuma Docker Compose](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20150%2093%22%3E%3C/svg%3E "Uptime Kuma Docker Compose 2024: Ultimate Non-Stop Monitoring 6")](https://www.smarthomebeginner.com/uptime-kuma-docker-compose-guide/)
     
     [Uptime Kuma Docker Compose 2024: Ultimate Non-Stop Monitoring](https://www.smarthomebeginner.com/uptime-kuma-docker-compose-guide/)
-* [![Deployarr V5 With 90 Apps Thumbnail | Smarthomebeginner](https://www.smarthomebeginner.com/images/2024/06/Deployarr-v5-with-90-Apps-Thumbnail-150x85.jpg "Deployarr: 90+ Docker Apps in Minutes with Traefik, SSL, Authelia 5")
-    
-    ![Deployarr V5 With 90 Apps Thumbnail | Smarthomebeginner](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20150%2085%22%3E%3C/svg%3E "Deployarr: 90+ Docker Apps in Minutes with Traefik, SSL, Authelia 5")](https://www.smarthomebeginner.com/deployarr/)
-    
-    [Deployarr: 90+ Docker Apps in Minutes with Traefik, SSL, Authelia](https://www.smarthomebeginner.com/deployarr/)
-* [![Bash Aliases For Docker](https://www.smarthomebeginner.com/images/2024/05/bash-aliases-for-Docker-150x84.webp "Simplify Docker, Docker Compose, and Linux Commands with Bash Aliases 6")
-    
-    ![Bash Aliases For Docker](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20150%2084%22%3E%3C/svg%3E "Simplify Docker, Docker Compose, and Linux Commands with Bash Aliases 6")](https://www.smarthomebeginner.com/bash-aliases-for-docker-and-linux/)
-    
-    [Simplify Docker, Docker Compose, and Linux Commands with Bash Aliases](https://www.smarthomebeginner.com/bash-aliases-for-docker-and-linux/)
 
 [Post Archives](https://www.smarthomebeginner.com/archives/)
 
