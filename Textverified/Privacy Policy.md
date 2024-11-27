@@ -96,6 +96,7 @@ Footer
 ### Services
 
 * [Products](https://www.textverified.com/products)
+* [Ticketmaster](https://www.textverified.com/ticketmaster)
 * [Free Numbers](https://www.textverified.com/free)
 * [Buy Credits](https://www.textverified.com/app/credits/card?open=true)
 * [API](https://www.textverified.com/docs/api/v2)
