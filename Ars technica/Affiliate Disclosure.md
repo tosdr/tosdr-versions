@@ -83,17 +83,17 @@ We apply the same rigor and standards of objectivity to these articles as we do 
 
 Most Read
 
-1. [![Listing image for first story in Most Read: After Russian ship docks to space station, astronauts report a foul smell](https://cdn.arstechnica.net/wp-content/uploads/2023/02/52674646862_dbe4378754_k-768x432.jpg)](https://arstechnica.com/space/2024/11/after-russian-ship-docks-to-space-station-astronauts-report-a-foul-smell/)
+1. [![Listing image for first story in Most Read: NASA awards SpaceX a contract for one of the few things it hasn’t done yet](https://cdn.arstechnica.net/wp-content/uploads/2024/11/graphite-impact-shell-gis-768x432.jpg)](https://arstechnica.com/space/2024/11/with-dragonfly-contract-nasa-will-certify-spacex-for-nuclear-powered-payloads/)
     
-    1. [After Russian ship docks to space station, astronauts report a foul smell](https://arstechnica.com/space/2024/11/after-russian-ship-docks-to-space-station-astronauts-report-a-foul-smell/)
+    1. [NASA awards SpaceX a contract for one of the few things it hasn’t done yet](https://arstechnica.com/space/2024/11/with-dragonfly-contract-nasa-will-certify-spacex-for-nuclear-powered-payloads/)
     
-2. 2. [NASA awards SpaceX a contract for one of the few things it hasn’t done yet](https://arstechnica.com/space/2024/11/with-dragonfly-contract-nasa-will-certify-spacex-for-nuclear-powered-payloads/)
+2. 2. [After Russian ship docks to space station, astronauts report a foul smell](https://arstechnica.com/space/2024/11/after-russian-ship-docks-to-space-station-astronauts-report-a-foul-smell/)
     
-3. 3. [Are any of Apple’s official MagSafe accessories worth buying?](https://arstechnica.com/gadgets/2024/11/are-any-of-apples-official-magsafe-accessories-worth-buying/)
+3. 3. [Nvidia’s new AI audio model can synthesize sounds that have never existed](https://arstechnica.com/ai/2024/11/nvidias-new-ai-audio-model-can-synthesize-sounds-that-have-never-existed/)
     
-4. 4. [Nvidia’s new AI audio model can synthesize sounds that have never existed](https://arstechnica.com/ai/2024/11/nvidias-new-ai-audio-model-can-synthesize-sounds-that-have-never-existed/)
+4. 4. [Workers demand more transparency after Intel secures $8B CHIPS funding](https://arstechnica.com/tech-policy/2024/11/workers-demand-more-transparency-after-intel-secures-8b-chips-funding/)
     
-5. 5. [Workers demand more transparency after Intel secures $8B CHIPS funding](https://arstechnica.com/tech-policy/2024/11/workers-demand-more-transparency-after-intel-secures-8b-chips-funding/)
+5. 5. [ISPs say their “excellent customer service” is why users don’t switch providers](https://arstechnica.com/tech-policy/2024/11/isps-say-their-excellent-customer-service-is-why-users-dont-switch-providers/)
     
 
 Customize
