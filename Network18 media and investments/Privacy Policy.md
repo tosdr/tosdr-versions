@@ -25,7 +25,6 @@ Wed, Nov 27, 2024
 
 * [Home](https://www.news18.com/)
 * [Movies](https://www.news18.com/movies/)
-* [Elections](https://www.news18.com/elections/)
 * [Cricket](https://www.news18.com/cricket/)
 * [India](https://www.news18.com/india/)
 * [Web Stories](https://www.news18.com/web-stories/)
@@ -35,15 +34,16 @@ Wed, Nov 27, 2024
 * [Videos](https://www.news18.com/videos/)
 * [Business](https://www.news18.com/business/)
 * [Education](https://www.news18.com/education-career/)
+* [Politics](https://www.news18.com/politics/)
 * More
     
-    * [Politics](https://www.news18.com/politics/)
     * [Showsha](https://www.news18.com/entertainment/)
     * [Opinion](https://www.news18.com/opinion/)
     * [Explainers](https://www.news18.com/explainers/)
     * [Podcast](https://www.news18.com/podcast/)
     * [Movie Reviews](https://www.news18.com/entertainment/movie-reviews/)
     * [Sports](https://www.news18.com/sports/)
+    * [Elections](https://www.news18.com/elections/)
     * [Photos](https://www.news18.com/photogallery/)
     * [Tech](https://www.news18.com/tech/)
     * [Auto](https://www.news18.com/auto/)
@@ -101,7 +101,6 @@ English
 
 * [Home](https://www.news18.com/)
 * [Movies](https://www.news18.com/movies/)
-* [Elections](https://www.news18.com/elections/)
 * [Cricket](https://www.news18.com/cricket/)
 * [India](https://www.news18.com/india/)
 * [Web Stories](https://www.news18.com/web-stories/)
@@ -118,6 +117,7 @@ English
 * [Podcast](https://www.news18.com/podcast/)
 * [Movie Reviews](https://www.news18.com/entertainment/movie-reviews/)
 * [Sports](https://www.news18.com/sports/)
+* [Elections](https://www.news18.com/elections/)
 * [Photos](https://www.news18.com/photogallery/)
 * [Tech](https://www.news18.com/tech/)
 * [Auto](https://www.news18.com/auto/)
@@ -128,13 +128,13 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
-    * [Samantha Ruth Prabhu](https://www.news18.com/movies/samantha-ruth-prabhu-breaks-silence-on-divorce-from-naga-chaitanya-absolute-lies-were-9133952.html)
-    * [Ajinkya Rahane](https://www.news18.com/cricket/ipl-2025-kolkata-knight-riders-venky-mysore-ajinkya-rahane-new-kkr-captain-venkatesh-iyer-9134717.html)
+    * [Sreeleela](https://www.news18.com/web-stories/celebrities/5-south-diva-sreeleela-inspired-glamourous-ethnic-looks-2639695/)
+    * [KKR Captain](https://www.news18.com/cricket/ipl-2025-kolkata-knight-riders-venky-mysore-ajinkya-rahane-new-kkr-captain-venkatesh-iyer-9134717.html)
     * [Zainab Ravdjee](https://www.news18.com/movies/who-is-zainab-ravdjee-everything-you-need-to-know-about-akhil-akkinenis-fiancee-9135037.html)
-    * [Aishwarya Rai](https://www.news18.com/movies/aishwarya-rais-sister-in-law-makes-a-rare-comment-about-actress-after-troll-attacks-her-9134721.html)
-    * [Prithvi Shaw](https://www.news18.com/viral/prithvi-shaw-breaks-silence-on-trolling-amid-poor-form-i-see-memes-i-get-hurt-9134791.html)
-    * [WTC Points Table](https://www.news18.com/cricket/updated-wtc-2023-25-points-table-after-india-beat-australia-by-295-runs-in-perth-test-9133029.html)
-    * [Rahul Gandhi](https://www.news18.com/politics/india-blames-rahul-gandhis-3-mistakes-for-maharashtra-loss-heres-what-they-are-9133899.html)
+    * [Samantha Ruth Prabhu](https://www.news18.com/movies/samantha-ruth-prabhu-breaks-silence-on-divorce-from-naga-chaitanya-absolute-lies-were-9133952.html)
+    * [Riddhima Kapoor Sahni](https://www.news18.com/movies/riddhima-kapoor-sahni-reacts-to-criticism-of-ranbir-kapoors-animal-if-my-grandfather-was-here-9132859.html)
+    * [Bengaluru](https://www.news18.com/india/the-many-challenges-of-renting-a-house-in-bengaluru-news18-uncovers-the-home-truths-9135172.html)
+    * [Belly Fat](https://www.news18.com/lifestyle/5-morning-rituals-you-should-adopt-to-reduce-belly-fat-9124509.html)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
     * [Check Credit Score](https://www.moneycontrol.com/credit-score?utm_source=News18English&utm_medium=Email&utm_campaign=CBEnglish)
@@ -170,13 +170,13 @@ Follow us on
 
 In Trends:
 
-* [Samantha Ruth Prabhu](https://www.news18.com/movies/samantha-ruth-prabhu-breaks-silence-on-divorce-from-naga-chaitanya-absolute-lies-were-9133952.html)
-* [Ajinkya Rahane](https://www.news18.com/cricket/ipl-2025-kolkata-knight-riders-venky-mysore-ajinkya-rahane-new-kkr-captain-venkatesh-iyer-9134717.html)
+* [Sreeleela](https://www.news18.com/web-stories/celebrities/5-south-diva-sreeleela-inspired-glamourous-ethnic-looks-2639695/)
+* [KKR Captain](https://www.news18.com/cricket/ipl-2025-kolkata-knight-riders-venky-mysore-ajinkya-rahane-new-kkr-captain-venkatesh-iyer-9134717.html)
 * [Zainab Ravdjee](https://www.news18.com/movies/who-is-zainab-ravdjee-everything-you-need-to-know-about-akhil-akkinenis-fiancee-9135037.html)
-* [Aishwarya Rai](https://www.news18.com/movies/aishwarya-rais-sister-in-law-makes-a-rare-comment-about-actress-after-troll-attacks-her-9134721.html)
-* [Prithvi Shaw](https://www.news18.com/viral/prithvi-shaw-breaks-silence-on-trolling-amid-poor-form-i-see-memes-i-get-hurt-9134791.html)
-* [WTC Points Table](https://www.news18.com/cricket/updated-wtc-2023-25-points-table-after-india-beat-australia-by-295-runs-in-perth-test-9133029.html)
-* [Rahul Gandhi](https://www.news18.com/politics/india-blames-rahul-gandhis-3-mistakes-for-maharashtra-loss-heres-what-they-are-9133899.html)
+* [Samantha Ruth Prabhu](https://www.news18.com/movies/samantha-ruth-prabhu-breaks-silence-on-divorce-from-naga-chaitanya-absolute-lies-were-9133952.html)
+* [Riddhima Kapoor Sahni](https://www.news18.com/movies/riddhima-kapoor-sahni-reacts-to-criticism-of-ranbir-kapoors-animal-if-my-grandfather-was-here-9132859.html)
+* [Bengaluru](https://www.news18.com/india/the-many-challenges-of-renting-a-house-in-bengaluru-news18-uncovers-the-home-truths-9135172.html)
+* [Belly Fat](https://www.news18.com/lifestyle/5-morning-rituals-you-should-adopt-to-reduce-belly-fat-9124509.html)
 
 * Follow Us
 * [](https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J)
