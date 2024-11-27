@@ -46,11 +46,11 @@
     * [Events Near Me Find local DU events near you](https://www.ducks.org/events#events)
     * [DU Roadshows Find a Roadshow near you](https://www.ducks.org/duroadshows)
     * [Volunteer Join DU's mission and make a difference](https://www.ducks.org/get-involved/volunteer/become-a-du-volunteer)
-    * [![Image for Donate today ](/files/live/sites/ducksorg/files/products/250x192_camobaselayer_dropdowns_oct24.jpg)
+    * [![Image for Donate today ](/files/live/sites/ducksorg/files/products/250x192_habfleecepullover_dropdowns.jpg)
         
-        DU Expedition Shirt
+        DU Habitat Fleece Pullover
         
-        Donate today](https://give.ducks.org/campaign/638645/donate)
+        Donate today](https://give.ducks.org/campaign/638653/donate)
     
 * [Media](https://www.ducks.org/media)
     
@@ -60,11 +60,11 @@
     * [Photo Gallery Experience wildlife in action through DU's photo gallery](https://www.ducks.org/media/photo-gallery)
     * [E-Newsletter Get the latest news and updates from DU delivered straight to you](https://www.ducks.org/newsletter)
     * [Mobile App Access exclusive features, tips, & more by downloading DU's app](https://www.ducks.org/media/mobile-app)
-    * [![Image for Donate today ](/files/live/sites/ducksorg/files/products/250x192_camobaselayer_dropdowns_oct24.jpg)
+    * [![Image for Donate today ](/files/live/sites/ducksorg/files/products/250x192_habfleecepullover_dropdowns.jpg)
         
-        DU Expedition Shirt
+        DU Habitat Fleece Pullover
         
-        Donate today](https://give.ducks.org/campaign/638645/donate)
+        Donate today](https://give.ducks.org/campaign/638653/donate)
     
 * [About](https://www.ducks.org/about-ducks-unlimited)
     
@@ -165,11 +165,11 @@ Change [View State Page](https://www.ducks.org/)
 * [Events Near Me Find local DU events near you](https://www.ducks.org/events#events)
 * [DU Roadshows Find a Roadshow near you](https://www.ducks.org/duroadshows)
 * [Volunteer Join DU's mission and make a difference](https://www.ducks.org/get-involved/volunteer/become-a-du-volunteer)
-* [![Image for Donate today ](/files/live/sites/ducksorg/files/products/250x192_camobaselayer_dropdowns_oct24.jpg)
+* [![Image for Donate today ](/files/live/sites/ducksorg/files/products/250x192_habfleecepullover_dropdowns.jpg)
     
-    DU Expedition Shirt
+    DU Habitat Fleece Pullover
     
-    Donate today](https://give.ducks.org/campaign/638645/donate)
+    Donate today](https://give.ducks.org/campaign/638653/donate)
 
 [Media](https://www.ducks.org/media)
 
@@ -179,11 +179,11 @@ Change [View State Page](https://www.ducks.org/)
 * [Photo Gallery Experience wildlife in action through DU's photo gallery](https://www.ducks.org/media/photo-gallery)
 * [E-Newsletter Get the latest news and updates from DU delivered straight to you](https://www.ducks.org/newsletter)
 * [Mobile App Access exclusive features, tips, & more by downloading DU's app](https://www.ducks.org/media/mobile-app)
-* [![Image for Donate today ](/files/live/sites/ducksorg/files/products/250x192_camobaselayer_dropdowns_oct24.jpg)
+* [![Image for Donate today ](/files/live/sites/ducksorg/files/products/250x192_habfleecepullover_dropdowns.jpg)
     
-    DU Expedition Shirt
+    DU Habitat Fleece Pullover
     
-    Donate today](https://give.ducks.org/campaign/638645/donate)
+    Donate today](https://give.ducks.org/campaign/638653/donate)
 
 [About](https://www.ducks.org/about-ducks-unlimited)
 
