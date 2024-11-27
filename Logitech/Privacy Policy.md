@@ -155,7 +155,8 @@ Free standard shipping on orders over $29.00
         * [Made for Apple®](https://www.logitech.com/en-us/apple.html)
         * [Made for iPad®](https://www.logitech.com/en-us/apple/for-ipad.html)
         * [Made for Mac®](https://www.logitech.com/en-us/apple/for-mac.html)
-        * [Creative Professionals Shop](https://www.logitech.com/en-us/mx/mx-creatives.html)
+        * [For Coders](https://www.logitech.com/en-us/mx/mx-coders.html)
+        * [For Creatives](https://www.logitech.com/en-us/mx/mx-creatives.html)
         * [On the Go](https://www.logitech.com/en-us/mobility/mobile-solutions.html)
         * [Ultimate Ears Speakers](https://www.logitech.com/en-us/ue/ultimate-ears.html)
         
@@ -164,7 +165,16 @@ Free standard shipping on orders over $29.00
     
     Deals Close
     
-    * [Current Offers](https://www.logitech.com/en-us/sales.html)
+    * [Holiday GIft Guide](https://www.logitech.com/en-us/campaigns/gift-guide.html)
+        ------------------------------------------------------------------------------
+        
+        [![Products with gift boxes](https://resource.logitech.com/w_316,c_limit,f_auto,q_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/navigation/deals-holiday-gift-guide-2.png?v=1)](https://www.logitech.com/en-us/campaigns/gift-guide.html)
+        
+        Holiday GIft Guide
+        
+        * [Holiday GIft Guide](https://www.logitech.com/en-us/campaigns/gift-guide.html)
+        
+        [Current Offers](https://www.logitech.com/en-us/sales.html)
         -----------------------------------------------------------
         
         [![Multiple product images with discount tags](https://resource.logitech.com/w_316,c_limit,f_auto,q_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/navigation/deals-current-offers-2.png?v=1)](https://www.logitech.com/en-us/sales.html#current-deals)
@@ -172,15 +182,6 @@ Free standard shipping on orders over $29.00
         Current Offers
         
         * [Current Offers](https://www.logitech.com/en-us/sales.html)
-        
-        [Gifts with Purchase](https://www.logitech.com/en-us/sales.html#gift)
-        ---------------------------------------------------------------------
-        
-        [![Keyboard with sleeve](https://resource.logitech.com/w_316,c_limit,f_auto,q_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/navigation/deals-gifts-with-purchase-2.png?v=1)](https://www.logitech.com/en-us/sales.html#gift)
-        
-        Gifts with Purchase
-        
-        * [Gifts with Purchase](https://www.logitech.com/en-us/sales.html#gift)
         
         [Save with Combos](https://www.logitech.com/en-us/products/combos.html)
         -----------------------------------------------------------------------
@@ -281,6 +282,7 @@ Free standard shipping on orders over $29.00
         
         * [Meeting Rooms](https://www.logitech.com/en-us/business/solutions.html#meeting-rooms)
         * [Work Desks](https://www.logitech.com/en-us/business/solutions.html#work-desks)
+        * [Mobile Workspaces](https://www.logitech.com/en-us/business/solutions.html#mobile-workspaces)
         * [Explore all](https://www.logitech.com/en-us/business/solutions.html)
         
         [Products](https://www.logitech.com/en-us/business/products.html)
