@@ -209,9 +209,9 @@ By [Greg Dvorak](https://www.japantimes.co.jp/author/6191/greg-dvorak/ "Greg Dvo
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -253,23 +253,19 @@ Latest News
 
 [ICC prosecutor seeks arrest warrant for Myanmar military leader](https://www.japantimes.co.jp/news/2024/11/27/world/icc-myanmar-rohingya/ "ICC prosecutor seeks arrest warrant for Myanmar military leader")
 
-4 hours ago
+10 hours ago
 
 [Emperor and empress visit grave of Princess Yuriko](https://www.japantimes.co.jp/news/2024/11/27/japan/emperor-princess-yuriko-grave/ "Emperor and empress visit grave of Princess Yuriko")
 
-5 hours ago
+11 hours ago
 
 [DPP’s Tamaki leverages new position with energy proposal](https://www.japantimes.co.jp/news/2024/11/27/japan/politics/ishiba-tamaki-nuclear-energy/ "DPP’s Tamaki leverages new position with energy proposal")
 
-5 hours ago
+11 hours ago
 
 [VW confirms plans to exit controversial Xinjiang operation](https://www.japantimes.co.jp/business/2024/11/27/companies/volkswagen-xinjiang-china-forced-labor/ "VW confirms plans to exit controversial Xinjiang operation")
 
-7 hours ago
-
 [Panel defers decision on scrapping Japan's NTT law](https://www.japantimes.co.jp/business/2024/11/27/companies/ntt-law-panel/ "Panel defers decision on scrapping Japan's NTT law")
-
-7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
