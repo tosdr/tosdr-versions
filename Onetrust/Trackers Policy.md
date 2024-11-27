@@ -176,9 +176,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
+* [The ROI of consent & preference data: A good, better, best view of how organizations win with personalization](https://www.onetrust.com/resources/the-roi-of-consent-preference-data-a-good-better-best-view-of-how-organizations-win-with-personalization-webinar/)
+* [The PDPL in Saudi Arabia is now in effect: is your business ready?](https://www.onetrust.com/resources/the-pdpl-in-saudi-arabia-is-now-in-effect-is-your-business-ready-webinar/)
 * [Automating metadata capture: Future-proofing data management for AI](https://www.onetrust.com/resources/automating-metadata-capture-future-proofing-data-management-for-ai-webinar/)
-* [Operationalizing the EU AI Act](https://www.onetrust.com/resources/operationalizing-the-eu-ai-act-webinar/)
-* [Top 10 privacy moments that shaped 2024](https://www.onetrust.com/resources/top-10-privacy-moments-that-shaped-2024-webinar/)
 
 ### Platform
 
