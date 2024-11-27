@@ -68,9 +68,9 @@
         
         Discover how BIG-IP Next’s modern design simplifies operations, strengthens security, and increases visibility.
         
-    * [Connectivity Stack for Kubernetes](https://www.f5.com/trials/free-trial-connectivity-stack-kubernetes)
+    * [NGINX One](https://www.f5.com/trials/nginx-one)
         
-        Scale, observe, secure, and govern Kubernetes apps—on premises, in the cloud, or at the edge.
+        Enterprise supported products built to handle your load balancing, reverse proxy, Kubernetes ingress and egress, API gateway, and web app security needs.
         
     
 
@@ -345,7 +345,7 @@
     * [F5 Distributed Cloud Services](https://www.f5.com/trials/distributed-cloud-services-enterprise-trial)
     * [BIG-IP VE and BIG-IQ Centralized Management VE](https://www.f5.com/trials/big-ip-virtual-edition)
     * [BIG-IP Next](https://www.f5.com/trials/big-ip-next)
-    * [Connectivity Stack for Kubernetes](https://www.f5.com/trials/free-trial-connectivity-stack-kubernetes)
+    * [NGINX One](https://www.f5.com/trials/nginx-one)
     
 *    [![](/etc.clientlibs/f5-com/clientlibs/f5-com-resources/resources/main-nav/icon-globe.svg)   English](#)
     
