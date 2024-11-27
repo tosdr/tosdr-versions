@@ -28,12 +28,12 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250701)
 * [Women's T20I
     
-    28/11 3:00 AEST
+    ENG won by 36 runs
     
     |     |     |
     | --- | --- |
-    | RSA | –   |
-    | ENG | –   |
+    | RSA | 6 /168 |
+    | ENG | 4 /204 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20I2024-250202)
 * [Women's BBL
@@ -102,46 +102,6 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/golf/match?matchid=ISPS_Handa_Australia20250010013049F)
 * Basketball
     
-* [NBA
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | WAS | 108 |
-    | CHI | 127 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010069/box-score)
-* [NBA
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | MIA | 103 |
-    | MIL | 106 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010071/box-score)
-* [NBA
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | MIN | 111 |
-    | HOU | 117 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010073/box-score)
-* [NBA
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | UTA | 115 |
-    | SA  | 128 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010075/box-score)
 * [NBA
     
     Full Time
@@ -302,26 +262,46 @@ FOX SCORES
     | TWN | 80  |
     
     Match Centre](https://www.foxsports.com.au/basketball/wnbl/match-centre/WNBL2024-25050001/play-by-play)
-* Football
+* [NBL
     
-* [UCL
-    
-    28/11 4:45 AEST
+    28/11 19:30 AEST
     
     |     |     |
     | --- | --- |
-    | BGD | –   |
-    | STU | –   |
+    | ILL | –   |
+    | NZB | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25100001)
+* Football
+    
+* [Women's Int
+    
+    28/11 21:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | AUSW | –   |
+    | BRAW | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/womens-international/match-centre/W_INT20240106)
+* [UCL
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | BGD | 5   |
+    | STU | 1   |
     
     Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250519)
 * [UCL
     
-    28/11 4:45 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | SG  | –   |
-    | GIR | –   |
+    | SG  | 1   |
+    | GIR | 0   |
     
     Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250521)
 * [UCL
