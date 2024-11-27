@@ -7,6 +7,7 @@ icon-X Close menu
     * [A - F](https://creatorink.com/collections)
         
         * [After Skool](https://creatorink.com/collections/after-skool)
+        * [Alpharad](https://creatorink.com/collections/alpharad)
         * [Anti-Chef](https://creatorink.com/collections/anti-chef)
         * [BrodyAnimates](https://creatorink.com/collections/brodyanimates)
         * [Chocovania](https://creatorink.com/collections/chocovania)
@@ -89,6 +90,8 @@ icon-X Close menu
     [A - F](https://creatorink.com/collections)
     
     [After Skool](https://creatorink.com/collections/after-skool)
+    
+    [Alpharad](https://creatorink.com/collections/alpharad)
     
     [Anti-Chef](https://creatorink.com/collections/anti-chef)
     
