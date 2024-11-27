@@ -1,4 +1,4 @@
-![](https://www.facebook.com/tr?id=2747422148905832&ev=PageView&noscript=1)                                                                            
+![](https://www.facebook.com/tr?id=2747422148905832&ev=PageView&noscript=1)                                                                               
 
 * [English](https://lumapr.com/terms-and-conditions-of-use/?lang=en&switch_language=en)
 * [Español (Spanish)](https://lumapr.com/terminos-y-condiciones-de-uso/?switch_language=es)
