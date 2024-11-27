@@ -226,9 +226,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Tuesday, November 26, 2024**
+**Wednesday, November 27, 2024**
 
-**...Fog Dissipates Across North Florida This Morning, Giving Way to a Mixture of Sunshine and Clouds...Weak Cold Front to Bring Isolated Showers Along the I-10 Corridor Today, Stalling Across North Florida Tonight...Near-Zero Rain Chances Expected for Remainder of Florida...Patchy to Locally Dense Fog Forecast Wednesday Morning Nearly Statewide, with Greater Chances for Dense Fog Likely Throughout the Suwannee River Valley...Locally Sensitive Wildfire Conditions Possible for the Interior Peninsula...Minor River Flooding Continues for the Withlacoochee and St. Johns Basins...Moderate Risk of Rip Currents Expected for Florida Panhandle and East-Central Florida Beaches...No Tropical Development Expected Over the Next 7 Days...**
+**...Foggy Conditions to Linger Through Mid-to-Late Morning Hours Throughout North and Central Florida...Lingering Frontal Boundary to Dissipate Across North Florida; Spotty Shower or Two During Daytime Hours...Next Cold Front Approaching Overnight Bringing Isoalted Showers and Thunderstorms; Possible Strong to Severe Thunderstorms for Portions of Panhandle and Big Bend...Fog and Low Clouds Likely To Return Early Thursday Morning Statewide; Greatest Chance Across Suwannee Valley and Northern Peninsula...Locally Sensitive Wildfire Conditions Possible for the Interior Central  Peninsula...Minor River Flooding Continues for the Withlacoochee Basin...Moderate Risk of Rip Currents Expected for Florida Panhandle and Several East Coast Florida Beaches...No Tropical Development Expected Over the Next 7 Days...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
