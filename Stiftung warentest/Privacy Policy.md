@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Steuer­änderungen 2024: Bundes­rat stimmt für Wachstums­chancengesetz](https://www.test.de/Steueraenderungen-2024-beschlossen-6076655-0/ "Steueränderungen 2024 - Bundesrat stimmt für Wachstumschancengesetz")
-* [Geld­anlage richtig planen: Anlegen auf Sicht kostet Rendite](https://www.test.de/Geldanlage-richtig-planen-Anlegen-auf-Sicht-kostet-Rendite-6048767-0/ "Geldanlage richtig planen - Anlegen auf Sicht kostet Rendite")
-* [Betrugs­fallen: Von Schockanruf bis Enkeltrick – wie Sie miese Maschen erkennen](https://www.test.de/Betrugsfallen-erkennen-6000240-0/ "Betrugsfallen - Von Schockanruf bis Enkeltrick – wie Sie miese Maschen erkennen")
-* [Diagnose Demenz: Das Vergessen liebevoll begleiten](https://www.test.de/Diagnose-Demenz-Das-Vergessen-liebevoll-begleiten-6142415-0/ "Diagnose Demenz - Das Vergessen liebevoll begleiten")
-* [Wärmepumpen­versicherung: Wärmepumpe gegen Umwelt­schäden und Vandalismus absichern](https://www.test.de/Waermepumpenversicherung-6030311-0/ "Wärmepumpenversicherung - Wärmepumpe gegen Umweltschäden und Vandalismus absichern")
-* [Fernseher richtig einstellen: Mehr Spaß beim Fußball­gucken](https://www.test.de/Fernseher-richtig-einstellen-Mehr-Spass-beim-Fussballgucken-6119038-0/ "Fernseher richtig einstellen - Mehr Spaß beim Fußballgucken")
+* [Recht auf Reparatur: EU verpflichtet Hersteller zu Reparatur defekter Geräte](https://www.test.de/Recht-auf-Reparatur-EU-verpflichtet-Hersteller-zu-Reparatur-defekter-Geraete-6116340-0/ "Recht auf Reparatur - EU verpflichtet Hersteller zu Reparatur defekter Geräte")
+* [Ganz­jahres­reifen im Test: Die besten Reifen für jedes Wetter](https://www.test.de/Die-besten-Ganzjahresreifen-5391687-0/ "Ganzjahresreifen im Test - Die besten Reifen für jedes Wetter")
+* [Geschlechts­eintrag ändern: Identität offiziell berichtigen lassen](https://www.test.de/Geschlechtseintrag-aendern-6143042-0/ "Geschlechtseintrag ändern - Identität offiziell berichtigen lassen")
+* [Schnell­test Sprach­verstärker Oskar: Sprache beim Fernsehen besser verstehen](https://www.test.de/Schnelltest-Sprachverstaerker-Oskar-Sprache-beim-Fernsehen-besser-verstehen-5992192-0/ "Schnelltest Sprachverstärker Oskar - Sprache beim Fernsehen besser verstehen")
+* [Dubiose Anleger­anwälte: Komplexe Vereinbarungen und unrealistische Szenarien](https://www.test.de/Dubiose-Anlegeranwaelte-Komplexe-Vereinbarungen-und-unrealistische-Szenarien-6133882-0/ "Dubiose Anlegeranwälte - Komplexe Vereinbarungen und unrealistische Szenarien")
+* [Zinsen: Erste Bank aus Tschechien mit im Vergleich](https://www.test.de/Zinsen-Erste-Bank-aus-Tschechien-5987319-0/ "Zinsen - Erste Bank aus Tschechien mit im Vergleich")
 
 Weitere Informationen
 
@@ -3871,12 +3871,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Steuer­änderungen 2024: Bundes­rat stimmt für Wachstums­chancengesetz](https://www.test.de/Steueraenderungen-2024-beschlossen-6076655-0/ "Steueränderungen 2024 - Bundesrat stimmt für Wachstumschancengesetz")
-* [Geld­anlage richtig planen: Anlegen auf Sicht kostet Rendite](https://www.test.de/Geldanlage-richtig-planen-Anlegen-auf-Sicht-kostet-Rendite-6048767-0/ "Geldanlage richtig planen - Anlegen auf Sicht kostet Rendite")
-* [Betrugs­fallen: Von Schockanruf bis Enkeltrick – wie Sie miese Maschen erkennen](https://www.test.de/Betrugsfallen-erkennen-6000240-0/ "Betrugsfallen - Von Schockanruf bis Enkeltrick – wie Sie miese Maschen erkennen")
-* [Diagnose Demenz: Das Vergessen liebevoll begleiten](https://www.test.de/Diagnose-Demenz-Das-Vergessen-liebevoll-begleiten-6142415-0/ "Diagnose Demenz - Das Vergessen liebevoll begleiten")
-* [Wärmepumpen­versicherung: Wärmepumpe gegen Umwelt­schäden und Vandalismus absichern](https://www.test.de/Waermepumpenversicherung-6030311-0/ "Wärmepumpenversicherung - Wärmepumpe gegen Umweltschäden und Vandalismus absichern")
-* [Fernseher richtig einstellen: Mehr Spaß beim Fußball­gucken](https://www.test.de/Fernseher-richtig-einstellen-Mehr-Spass-beim-Fussballgucken-6119038-0/ "Fernseher richtig einstellen - Mehr Spaß beim Fußballgucken")
+* [Recht auf Reparatur: EU verpflichtet Hersteller zu Reparatur defekter Geräte](https://www.test.de/Recht-auf-Reparatur-EU-verpflichtet-Hersteller-zu-Reparatur-defekter-Geraete-6116340-0/ "Recht auf Reparatur - EU verpflichtet Hersteller zu Reparatur defekter Geräte")
+* [Ganz­jahres­reifen im Test: Die besten Reifen für jedes Wetter](https://www.test.de/Die-besten-Ganzjahresreifen-5391687-0/ "Ganzjahresreifen im Test - Die besten Reifen für jedes Wetter")
+* [Geschlechts­eintrag ändern: Identität offiziell berichtigen lassen](https://www.test.de/Geschlechtseintrag-aendern-6143042-0/ "Geschlechtseintrag ändern - Identität offiziell berichtigen lassen")
+* [Schnell­test Sprach­verstärker Oskar: Sprache beim Fernsehen besser verstehen](https://www.test.de/Schnelltest-Sprachverstaerker-Oskar-Sprache-beim-Fernsehen-besser-verstehen-5992192-0/ "Schnelltest Sprachverstärker Oskar - Sprache beim Fernsehen besser verstehen")
+* [Dubiose Anleger­anwälte: Komplexe Vereinbarungen und unrealistische Szenarien](https://www.test.de/Dubiose-Anlegeranwaelte-Komplexe-Vereinbarungen-und-unrealistische-Szenarien-6133882-0/ "Dubiose Anlegeranwälte - Komplexe Vereinbarungen und unrealistische Szenarien")
+* [Zinsen: Erste Bank aus Tschechien mit im Vergleich](https://www.test.de/Zinsen-Erste-Bank-aus-Tschechien-5987319-0/ "Zinsen - Erste Bank aus Tschechien mit im Vergleich")
 
 Weitere spannende Themen
 
@@ -3891,12 +3891,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Steuer­änderungen 2024: Bundes­rat stimmt für Wachstums­chancengesetz](https://www.test.de/Steueraenderungen-2024-beschlossen-6076655-0/ "Steueränderungen 2024 - Bundesrat stimmt für Wachstumschancengesetz")
-* [Geld­anlage richtig planen: Anlegen auf Sicht kostet Rendite](https://www.test.de/Geldanlage-richtig-planen-Anlegen-auf-Sicht-kostet-Rendite-6048767-0/ "Geldanlage richtig planen - Anlegen auf Sicht kostet Rendite")
-* [Betrugs­fallen: Von Schockanruf bis Enkeltrick – wie Sie miese Maschen erkennen](https://www.test.de/Betrugsfallen-erkennen-6000240-0/ "Betrugsfallen - Von Schockanruf bis Enkeltrick – wie Sie miese Maschen erkennen")
-* [Diagnose Demenz: Das Vergessen liebevoll begleiten](https://www.test.de/Diagnose-Demenz-Das-Vergessen-liebevoll-begleiten-6142415-0/ "Diagnose Demenz - Das Vergessen liebevoll begleiten")
-* [Wärmepumpen­versicherung: Wärmepumpe gegen Umwelt­schäden und Vandalismus absichern](https://www.test.de/Waermepumpenversicherung-6030311-0/ "Wärmepumpenversicherung - Wärmepumpe gegen Umweltschäden und Vandalismus absichern")
-* [Fernseher richtig einstellen: Mehr Spaß beim Fußball­gucken](https://www.test.de/Fernseher-richtig-einstellen-Mehr-Spass-beim-Fussballgucken-6119038-0/ "Fernseher richtig einstellen - Mehr Spaß beim Fußballgucken")
+* [Recht auf Reparatur: EU verpflichtet Hersteller zu Reparatur defekter Geräte](https://www.test.de/Recht-auf-Reparatur-EU-verpflichtet-Hersteller-zu-Reparatur-defekter-Geraete-6116340-0/ "Recht auf Reparatur - EU verpflichtet Hersteller zu Reparatur defekter Geräte")
+* [Ganz­jahres­reifen im Test: Die besten Reifen für jedes Wetter](https://www.test.de/Die-besten-Ganzjahresreifen-5391687-0/ "Ganzjahresreifen im Test - Die besten Reifen für jedes Wetter")
+* [Geschlechts­eintrag ändern: Identität offiziell berichtigen lassen](https://www.test.de/Geschlechtseintrag-aendern-6143042-0/ "Geschlechtseintrag ändern - Identität offiziell berichtigen lassen")
+* [Schnell­test Sprach­verstärker Oskar: Sprache beim Fernsehen besser verstehen](https://www.test.de/Schnelltest-Sprachverstaerker-Oskar-Sprache-beim-Fernsehen-besser-verstehen-5992192-0/ "Schnelltest Sprachverstärker Oskar - Sprache beim Fernsehen besser verstehen")
+* [Dubiose Anleger­anwälte: Komplexe Vereinbarungen und unrealistische Szenarien](https://www.test.de/Dubiose-Anlegeranwaelte-Komplexe-Vereinbarungen-und-unrealistische-Szenarien-6133882-0/ "Dubiose Anlegeranwälte - Komplexe Vereinbarungen und unrealistische Szenarien")
+* [Zinsen: Erste Bank aus Tschechien mit im Vergleich](https://www.test.de/Zinsen-Erste-Bank-aus-Tschechien-5987319-0/ "Zinsen - Erste Bank aus Tschechien mit im Vergleich")
 
 Neueste Tests
 
@@ -3909,12 +3909,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Steuer­änderungen 2024: Bundes­rat stimmt für Wachstums­chancengesetz](https://www.test.de/Steueraenderungen-2024-beschlossen-6076655-0/ "Steueränderungen 2024 - Bundesrat stimmt für Wachstumschancengesetz")
-* [Geld­anlage richtig planen: Anlegen auf Sicht kostet Rendite](https://www.test.de/Geldanlage-richtig-planen-Anlegen-auf-Sicht-kostet-Rendite-6048767-0/ "Geldanlage richtig planen - Anlegen auf Sicht kostet Rendite")
-* [Betrugs­fallen: Von Schockanruf bis Enkeltrick – wie Sie miese Maschen erkennen](https://www.test.de/Betrugsfallen-erkennen-6000240-0/ "Betrugsfallen - Von Schockanruf bis Enkeltrick – wie Sie miese Maschen erkennen")
-* [Diagnose Demenz: Das Vergessen liebevoll begleiten](https://www.test.de/Diagnose-Demenz-Das-Vergessen-liebevoll-begleiten-6142415-0/ "Diagnose Demenz - Das Vergessen liebevoll begleiten")
-* [Wärmepumpen­versicherung: Wärmepumpe gegen Umwelt­schäden und Vandalismus absichern](https://www.test.de/Waermepumpenversicherung-6030311-0/ "Wärmepumpenversicherung - Wärmepumpe gegen Umweltschäden und Vandalismus absichern")
-* [Fernseher richtig einstellen: Mehr Spaß beim Fußball­gucken](https://www.test.de/Fernseher-richtig-einstellen-Mehr-Spass-beim-Fussballgucken-6119038-0/ "Fernseher richtig einstellen - Mehr Spaß beim Fußballgucken")
+* [Recht auf Reparatur: EU verpflichtet Hersteller zu Reparatur defekter Geräte](https://www.test.de/Recht-auf-Reparatur-EU-verpflichtet-Hersteller-zu-Reparatur-defekter-Geraete-6116340-0/ "Recht auf Reparatur - EU verpflichtet Hersteller zu Reparatur defekter Geräte")
+* [Ganz­jahres­reifen im Test: Die besten Reifen für jedes Wetter](https://www.test.de/Die-besten-Ganzjahresreifen-5391687-0/ "Ganzjahresreifen im Test - Die besten Reifen für jedes Wetter")
+* [Geschlechts­eintrag ändern: Identität offiziell berichtigen lassen](https://www.test.de/Geschlechtseintrag-aendern-6143042-0/ "Geschlechtseintrag ändern - Identität offiziell berichtigen lassen")
+* [Schnell­test Sprach­verstärker Oskar: Sprache beim Fernsehen besser verstehen](https://www.test.de/Schnelltest-Sprachverstaerker-Oskar-Sprache-beim-Fernsehen-besser-verstehen-5992192-0/ "Schnelltest Sprachverstärker Oskar - Sprache beim Fernsehen besser verstehen")
+* [Dubiose Anleger­anwälte: Komplexe Vereinbarungen und unrealistische Szenarien](https://www.test.de/Dubiose-Anlegeranwaelte-Komplexe-Vereinbarungen-und-unrealistische-Szenarien-6133882-0/ "Dubiose Anlegeranwälte - Komplexe Vereinbarungen und unrealistische Szenarien")
+* [Zinsen: Erste Bank aus Tschechien mit im Vergleich](https://www.test.de/Zinsen-Erste-Bank-aus-Tschechien-5987319-0/ "Zinsen - Erste Bank aus Tschechien mit im Vergleich")
 
 Stiftung Warentest
 
