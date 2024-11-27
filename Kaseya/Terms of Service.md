@@ -402,11 +402,11 @@ Kaseya DattoCon Announcements - Release of Kaseya 365 User & Acquisition of SaaS
     
     Upcoming Events
     
-    ![](https://www.kaseya.com/wp-content/uploads/2024/11/1200x675-Kaseya-365-Webinar-The-Right-Ingredients-300x169.png)
+    ![](https://www.kaseya.com/wp-content/uploads/2023/04/CITlocal-WebImage-1200x800_belgium-300x200.jpg)
     
-    The Right Ingredients and a Powerful Recipe at the Best Price: Manage and Secure IT With Kaseya 365
+    Kaseya + Datto Connect Local :: GENT (Belgium)
     
-    November 26
+    December 3
     
     [View All Events](https://www.kaseya.com/events/)
     
