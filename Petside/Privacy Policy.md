@@ -65,7 +65,7 @@ All Categories
     * [Reptiles](https://www.petside.com/reptiles/)
 * [News](https://www.petside.com/news/)
 
-[![logo](https://www.petside.com/wp-content/uploads/2021/07/Petside_2021-01.png)](https://www.petside.com/)
+[![logo](data:image/svg+xml;nitro-empty-id=MzM1OjEyNQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTI3NSAzNTMiIHdpZHRoPSIxMjc1IiBoZWlnaHQ9IjM1MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://www.petside.com/)
 
 [](javascript:void(0);)
 
@@ -174,7 +174,7 @@ contact (@) petside.com
 
 This Policy was last updated on 4th October 2019
 
-[![image](https://www.petside.com/wp-content/uploads/2021/07/Petside_2021-01.png)](https://www.petside.com/)
+[![image](data:image/svg+xml;nitro-empty-id=NDQzOjE0Ng==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTI3NSAzNTMiIHdpZHRoPSIxMjc1IiBoZWlnaHQ9IjM1MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://www.petside.com/)
 
 PetSide ©2024
 
@@ -190,4 +190,4 @@ PetSide ©2024
 * [](https://pinterest.com/)
 * [](https://www.instagram.com/)
 
-[![DMCA.com Protection Status](https://www.petside.com/wp-content/themes/petside/assets/img/footer-image.png)](https://www.dmca.com/Protection/Status.aspx?ID=cadbe9b6-6fa5-4cf2-b4d5-2106b0f0f31e "DMCA.com Protection Status")
+[![DMCA.com Protection Status](data:image/svg+xml;nitro-empty-id=NDgxOjE0Ng==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTIxIDI0IiB3aWR0aD0iMTIxIiBoZWlnaHQ9IjI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://www.dmca.com/Protection/Status.aspx?ID=cadbe9b6-6fa5-4cf2-b4d5-2106b0f0f31e "DMCA.com Protection Status")
