@@ -296,6 +296,8 @@ Accessible Responsive Video Carousel
 
  Your browser does not support the video tag.
 
+ Your browser does not support the video tag.
+
 ❯
 
 This is a popup overlay.
