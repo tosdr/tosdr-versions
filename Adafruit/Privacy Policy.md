@@ -81,10 +81,6 @@ Search
     
     $6.95](https://www.adafruit.com/product/6060)
     
-    ![Angled shot of 256GB NVMe SSD.](https://cdn-shop.adafruit.com/230x173/6090-00.jpg)[Raspberry Pi NVMe SSD - 256GB
-    
-    $30.00](https://www.adafruit.com/product/6090)
-    
     ![Angled shot of lipo charger PCB.](https://cdn-shop.adafruit.com/230x173/6092-03.jpg)[Adafruit bq25185 USB / DC / Solar Charger with 3.3V Buck Board
     
     $8.95](https://www.adafruit.com/product/6092)
@@ -92,6 +88,10 @@ Search
     ![Angled shot of black, square-shaped lipoly battery charger PCB.](https://cdn-shop.adafruit.com/230x173/6091-00.jpg)[Adafruit bq25185 USB / DC / Solar Lithium Ion/Polymer charger
     
     $6.95](https://www.adafruit.com/product/6091)
+    
+    ![Demo Shot of the LED RGB Pebble Pixel, Addressable string light/DC5V, 100 LED/pcs.](https://cdn-shop.adafruit.com/230x173/6026-06.jpg)[Adafruit NeoPixel Pebble / Seed LED Strand - 100 LEDs - 4" Pitch
+    
+    $17.50](https://www.adafruit.com/product/6026)
     
     Featured Products[view all](https://www.adafruit.com/featured)
     
@@ -406,9 +406,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ I would rather walk with a friend in the dark than alone in the light”
+“ ... when you see something that is not right, not fair, not just, say something, do something. Get in trouble, good trouble, necessary trouble”
 
-[Helen Keller](https://en.wikipedia.org/wiki/Helen_Keller)
+[John Lewis](https://en.wikipedia.org/wiki/John_Lewis_(civil_rights_leader))
 
 [](https://www.adafruit.com/about)
 
