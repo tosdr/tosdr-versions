@@ -134,104 +134,104 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![Igor Oliveirax](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256930.thumb.jpeg.4f782532301fe2389f5f98019b978056.jpeg)](https://www.clubedohardware.com.br/profile/1256930-igor-oliveirax/ "Ir ao perfil de Igor Oliveirax")
+    * [![MatheusDosCompuiters](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256963.thumb.png.dd98adb2e4a5feaf1f01b5bfa3f6e31c.png)](https://www.clubedohardware.com.br/profile/1256963-matheusdoscompuiters/ "Ir ao perfil de MatheusDosCompuiters")
+        
+        0
+        
+        [Qual placa-mãe e processador escolher](https://www.clubedohardware.com.br/forums/topic/1703646-qual-placa-m%C3%A3e-e-processador-escolher/?do=getNewComment "Qual placa-mãe e processador escolher")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [MatheusDosCompuiters](https://www.clubedohardware.com.br/profile/1256963-matheusdoscompuiters/ "Ir ao perfil de MatheusDosCompuiters")  
+        1 minuto atrás
+        
+    * [![Goudardu](https://www.clubedohardware.com.br/uploads/members/monthly_2020_04/kisspng-pixel-art-animated-film-ghost-5aff57d160d565.9271319115266836013966.thumb.jpg.3c4931b5b72a3e892639651e83a326e6.jpg)](https://www.clubedohardware.com.br/profile/1086048-goudardu/ "Ir ao perfil de Goudardu")
+        
+        0
+        
+        [Sony WEGA 21 (KV-21FS150) tá com a imagem completamente desalhinada e torta](https://www.clubedohardware.com.br/forums/topic/1703645-sony-wega-21-kv-21fs150-t%C3%A1-com-a-imagem-completamente-desalhinada-e-torta/?do=getNewComment "Sony WEGA 21 (KV-21FS150) tá com a imagem completamente desalhinada e torta")
+        
+        [Televisores e projetores](https://www.clubedohardware.com.br/forums/forum/193-televisores-e-projetores/ "Televisores e projetores")  
+        Por [Goudardu](https://www.clubedohardware.com.br/profile/1086048-goudardu/ "Ir ao perfil de Goudardu")  
+        18 minutos atrás
+        
+    * [![anibal69](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23628ec4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1256961-anibal69/ "Ir ao perfil de anibal69")
         
         1
         
-        [XMP não dá vídeo](https://www.clubedohardware.com.br/forums/topic/1703598-xmp-n%C3%A3o-d%C3%A1-v%C3%ADdeo/?do=getNewComment "XMP não dá vídeo")
+        [x99 8mf com RX 6650 XT](https://www.clubedohardware.com.br/forums/topic/1703644-x99-8mf-com-rx-6650-xt/?do=getNewComment "x99 8mf com RX 6650 XT")
         
         [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [Igor Oliveirax](https://www.clubedohardware.com.br/profile/1256930-igor-oliveirax/ "Ir ao perfil de Igor Oliveirax")  
-        12 minutos atrás
+        Por [anibal69](https://www.clubedohardware.com.br/profile/1256961-anibal69/ "Ir ao perfil de anibal69")  
+        19 minutos atrás
         
-    * [![Bruno Henrique Nyland](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4a462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EBH%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/835129-bruno-henrique-nyland/ "Ir ao perfil de Bruno Henrique Nyland")
-        
-        1
-        
-        [SSD M.2 4TB, preço muito bom. Pegadinha?](https://www.clubedohardware.com.br/forums/topic/1703596-ssd-m2-4tb-pre%C3%A7o-muito-bom-pegadinha/?do=getNewComment "SSD M.2 4TB, preço muito bom. Pegadinha?")
-        
-        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
-        Por [Bruno Henrique Nyland](https://www.clubedohardware.com.br/profile/835129-bruno-henrique-nyland/ "Ir ao perfil de Bruno Henrique Nyland")  
-        23 minutos atrás
-        
-    * [![TheDemonLena](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1090527.thumb.jpeg.46d8e381bc7d55d703f4d44ef16fc161.jpeg)](https://www.clubedohardware.com.br/profile/1090527-thedemonlena/ "Ir ao perfil de TheDemonLena")
+    * [![Lactobacilos](https://www.clubedohardware.com.br/uploads/members/monthly_2022_09/1060365459_Capturadetela2022-09-22125925.thumb.png.9e2f9d3595d1a4a7ede81894b4aad7bd.png)](https://www.clubedohardware.com.br/profile/657181-lactobacilos/ "Ir ao perfil de Lactobacilos")
         
         0
         
-        [Driver congelando após placa de vídeo atingir 30GB de VRAM - Radeon RX 7800XT](https://www.clubedohardware.com.br/forums/topic/1703597-driver-congelando-ap%C3%B3s-placa-de-v%C3%ADdeo-atingir-30gb-de-vram-radeon-rx-7800xt/?do=getNewComment "Driver congelando após placa de vídeo atingir 30GB de VRAM - Radeon RX 7800XT")
+        [Recomendação de memória RAM DDR5 para Ryzen 5 7600](https://www.clubedohardware.com.br/forums/topic/1703643-recomenda%C3%A7%C3%A3o-de-mem%C3%B3ria-ram-ddr5-para-ryzen-5-7600/?do=getNewComment "Recomendação de memória RAM DDR5 para Ryzen 5 7600")
         
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [TheDemonLena](https://www.clubedohardware.com.br/profile/1090527-thedemonlena/ "Ir ao perfil de TheDemonLena")  
-        23 minutos atrás
+        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
+        Por [Lactobacilos](https://www.clubedohardware.com.br/profile/657181-lactobacilos/ "Ir ao perfil de Lactobacilos")  
+        34 minutos atrás
         
-    * [![r.king](https://www.clubedohardware.com.br/uploads/members/monthly_2016_01/995530_1374510932762495_700266814_n.jpg.d9bf362555abfec8782426fd75f406be.jpg)](https://www.clubedohardware.com.br/profile/795396-rking/ "Ir ao perfil de r.king")
+    * [![fyvinicius](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256957.thumb.png.0e1c63cefd26f5116cfe8cfadfaaaa6a.png)](https://www.clubedohardware.com.br/profile/1256957-fyvinicius/ "Ir ao perfil de fyvinicius")
         
-        0
+        5
         
-        [Caixa spam gmail não esvazia após deletar! Demora 24h. Como resolver?](https://www.clubedohardware.com.br/forums/topic/1703595-caixa-spam-gmail-n%C3%A3o-esvazia-ap%C3%B3s-deletar-demora-24h-como-resolver/?do=getNewComment "Caixa spam gmail não esvazia após deletar! Demora 24h. Como resolver?")
-        
-        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
-        Por [r.king](https://www.clubedohardware.com.br/profile/795396-rking/ "Ir ao perfil de r.king")  
-        28 minutos atrás
-        
-    * [![Malzoleu.bebado](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256929.thumb.png.470b6bc68a88f2b0441bce4df6a067dc.png)](https://www.clubedohardware.com.br/profile/1256929-malzoleubebado/ "Ir ao perfil de Malzoleu.bebado")
-        
-        2
-        
-        [ASRock H310CM-HG4 suporta GeForce RTX 4060?](https://www.clubedohardware.com.br/forums/topic/1703594-asrock-h310cm-hg4-suporta-geforce-rtx-4060/?do=getNewComment "ASRock H310CM-HG4 suporta GeForce RTX 4060?")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [Malzoleu.bebado](https://www.clubedohardware.com.br/profile/1256929-malzoleubebado/ "Ir ao perfil de Malzoleu.bebado")  
-        37 minutos atrás
-        
-    * [![sweetvfx](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256805.thumb.png.ba3333847b92d79551ee83093ad669e0.png)](https://www.clubedohardware.com.br/profile/1256805-sweetvfx/ "Ir ao perfil de sweetvfx")
-        
-        0
-        
-        [Recomendação de Aircooler ou watercooler para o Ryzen 7 5700x3d até R$300](https://www.clubedohardware.com.br/forums/topic/1703593-recomenda%C3%A7%C3%A3o-de-aircooler-ou-watercooler-para-o-ryzen-7-5700x3d-at%C3%A9-r300/?do=getNewComment "Recomendação de Aircooler ou watercooler para o Ryzen 7 5700x3d até R$300")
+        [recomendação de fonte para esse config](https://www.clubedohardware.com.br/forums/topic/1703642-recomenda%C3%A7%C3%A3o-de-fonte-para-esse-config/?do=getNewComment "recomendação de fonte para esse config")
         
         [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [sweetvfx](https://www.clubedohardware.com.br/profile/1256805-sweetvfx/ "Ir ao perfil de sweetvfx")  
-        45 minutos atrás
+        Por [fyvinicius](https://www.clubedohardware.com.br/profile/1256957-fyvinicius/ "Ir ao perfil de fyvinicius")  
+        42 minutos atrás
         
-    * [![OhDarkzin](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255772.thumb.jpeg.efb7786cd7b40c8ff2f759f7b7aae09e.jpeg)](https://www.clubedohardware.com.br/profile/1255772-ohdarkzin/ "Ir ao perfil de OhDarkzin")
+    * [![italo__106](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256956.thumb.jpeg.696a8f9c7cdfc02cc35dd3858754a7ca.jpeg)](https://www.clubedohardware.com.br/profile/1256956-italo__106/ "Ir ao perfil de italo__106")
         
-        2
+        1
         
-        [Essas peças são compatíves? Ryzen 5 5500 - ASUS TUF Gaming A520M-Plus II](https://www.clubedohardware.com.br/forums/topic/1703592-essas-pe%C3%A7as-s%C3%A3o-compat%C3%ADves-ryzen-5-5500-asus-tuf-gaming-a520m-plus-ii/?do=getNewComment "Essas peças são compatíves? Ryzen 5 5500 - ASUS TUF Gaming A520M-Plus II")
+        [o email da minha namorada foi hackeado, tenho o IMEI do cara](https://www.clubedohardware.com.br/forums/topic/1703641-o-email-da-minha-namorada-foi-hackeado-tenho-o-imei-do-cara/?do=getNewComment "o email da minha namorada foi hackeado, tenho o IMEI do cara")
         
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [OhDarkzin](https://www.clubedohardware.com.br/profile/1255772-ohdarkzin/ "Ir ao perfil de OhDarkzin")  
-        47 minutos atrás
+        [Vírus, malware, invasões e afins](https://www.clubedohardware.com.br/forums/forum/88-v%C3%ADrus-malware-invas%C3%B5es-e-afins/ "Vírus, malware, invasões e afins")  
+        Por [italo\_\_106](https://www.clubedohardware.com.br/profile/1256956-italo__106/ "Ir ao perfil de italo__106")  
+        48 minutos atrás
         
-    * [![kirinBR](https://www.clubedohardware.com.br/uploads/members/monthly_2021_01/765ef1376f29bf09a3c8833c1be14488.thumb.jpg.fefc55778438f4f3a0970448eee0b3aa.jpg)](https://www.clubedohardware.com.br/profile/1137576-kirinbr/ "Ir ao perfil de kirinBR")
+    * [![João Pedro Carneiro](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23abc462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EJP%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/924902-jo%C3%A3o-pedro-carneiro/ "Ir ao perfil de João Pedro Carneiro")
         
-        6
+        3
         
-        [como desativa o clima e as noticias na barra de tarefas?](https://www.clubedohardware.com.br/forums/topic/1703591-como-desativa-o-clima-e-as-noticias-na-barra-de-tarefas/?do=getNewComment "como desativa o clima e as noticias na barra de tarefas?")
+        [Recomendações de fonte para Ryzen 5 4600G e GeForce RTX 4060Ti](https://www.clubedohardware.com.br/forums/topic/1703640-recomenda%C3%A7%C3%B5es-de-fonte-para-ryzen-5-4600g-e-geforce-rtx-4060ti/?do=getNewComment "Recomendações de fonte para Ryzen 5 4600G e GeForce RTX 4060Ti")
         
-        [Windows 10](https://www.clubedohardware.com.br/forums/forum/249-windows-10/ "Windows 10")  
-        Por [kirinBR](https://www.clubedohardware.com.br/profile/1137576-kirinbr/ "Ir ao perfil de kirinBR")  
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [João Pedro Carneiro](https://www.clubedohardware.com.br/profile/924902-jo%C3%A3o-pedro-carneiro/ "Ir ao perfil de João Pedro Carneiro")  
         1 hora atrás
         
-    * [![SoaresMed0123](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256927.thumb.png.b1c12ce37d4fdd2ab751e7126513de2f.png)](https://www.clubedohardware.com.br/profile/1256927-soaresmed0123/ "Ir ao perfil de SoaresMed0123")
+    * [![italo__106](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256956.thumb.jpeg.696a8f9c7cdfc02cc35dd3858754a7ca.jpeg)](https://www.clubedohardware.com.br/profile/1256956-italo__106/ "Ir ao perfil de italo__106")
         
-        8
+        0
         
-        [Opiniões e recomendações para montagem de PC para jogos de até R$15.000](https://www.clubedohardware.com.br/forums/topic/1703590-opini%C3%B5es-e-recomenda%C3%A7%C3%B5es-para-montagem-de-pc-para-jogos-de-at%C3%A9-r15000/?do=getNewComment "Opiniões e recomendações para montagem de PC para jogos de até R$15.000")
+        [o email da minha namorada foi hackeado, tenho o IMEI do cara](https://www.clubedohardware.com.br/forums/topic/1703639-o-email-da-minha-namorada-foi-hackeado-tenho-o-imei-do-cara/?do=getNewComment "o email da minha namorada foi hackeado, tenho o IMEI do cara")
         
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [SoaresMed0123](https://www.clubedohardware.com.br/profile/1256927-soaresmed0123/ "Ir ao perfil de SoaresMed0123")  
+        [Vírus, malware, invasões e afins](https://www.clubedohardware.com.br/forums/forum/88-v%C3%ADrus-malware-invas%C3%B5es-e-afins/ "Vírus, malware, invasões e afins")  
+        Por [italo\_\_106](https://www.clubedohardware.com.br/profile/1256956-italo__106/ "Ir ao perfil de italo__106")  
         1 hora atrás
         
-    * [![Megumi7815](https://lh6.googleusercontent.com/-XxJt2SN4mfk/AAAAAAAAAAI/AAAAAAAAABc/lZ_Vun4_Hlk/photo.jpg)](https://www.clubedohardware.com.br/profile/1002135-megumi7815/ "Ir ao perfil de Megumi7815")
+    * [![Mateus Stock](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1247159.thumb.png.991a95208182e50974b6db22d82ec8b5.png)](https://www.clubedohardware.com.br/profile/1247159-mateus-stock/ "Ir ao perfil de Mateus Stock")
+        
+        0
+        
+        [Compra de componentes ARDUINO em SP (25 de março?)](https://www.clubedohardware.com.br/forums/topic/1703638-compra-de-componentes-arduino-em-sp-25-de-mar%C3%A7o/?do=getNewComment "Compra de componentes ARDUINO em SP (25 de março?)")
+        
+        [Recomendações de lojas e serviços](https://www.clubedohardware.com.br/forums/forum/12-recomenda%C3%A7%C3%B5es-de-lojas-e-servi%C3%A7os/ "Recomendações de lojas e serviços")  
+        Por [Mateus Stock](https://www.clubedohardware.com.br/profile/1247159-mateus-stock/ "Ir ao perfil de Mateus Stock")  
+        1 hora atrás
+        
+    * [![fyvinicius](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256957.thumb.png.0e1c63cefd26f5116cfe8cfadfaaaa6a.png)](https://www.clubedohardware.com.br/profile/1256957-fyvinicius/ "Ir ao perfil de fyvinicius")
         
         4
         
-        [RX 6600 XT desligando por super aquecimento e chegando a 112ºC no Hot Spot.](https://www.clubedohardware.com.br/forums/topic/1703588-rx-6600-xt-desligando-por-super-aquecimento-e-chegando-a-112%C2%BAc-no-hot-spot/?do=getNewComment "RX 6600 XT desligando por super aquecimento e chegando a 112ºC no Hot Spot.")
+        [eu comprei esse kit xeon e não sei qual cpu cooler funcionaria bem](https://www.clubedohardware.com.br/forums/topic/1703637-eu-comprei-esse-kit-xeon-e-n%C3%A3o-sei-qual-cpu-cooler-funcionaria-bem/?do=getNewComment "eu comprei esse kit xeon e não sei qual cpu cooler funcionaria bem")
         
         [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [Megumi7815](https://www.clubedohardware.com.br/profile/1002135-megumi7815/ "Ir ao perfil de Megumi7815")  
+        Por [fyvinicius](https://www.clubedohardware.com.br/profile/1256957-fyvinicius/ "Ir ao perfil de fyvinicius")  
         1 hora atrás
         
     
@@ -262,7 +262,7 @@ Política de privacidade
     
     * ![Black Week Clube do Hardware](https://www.clubedohardware.com.br/uploads/cms/monthly_2024_11/BF2024-04(1920x1080px).thumb.png.08e2cfe5d2bb6216fe055364ca4e8a38.png "Black Week Clube do Hardware")
         
-        2
+        3
         
         [Black Week Clube do Hardware](https://www.clubedohardware.com.br/artigos/blog/black-week-clube-do-hardware-r37140/ "Black Week Clube do Hardware")
         
@@ -272,7 +272,7 @@ Política de privacidade
         
     * ![Tabela comparativa dos chips GeForce da NVIDIA (desktop)](https://www.clubedohardware.com.br/uploads/cms/monthly_2024_11/Nvidia-GeForce-GTX-Feature.thumb.jpg.d82f8ce81b8059c4bcf04f9ba149c7b1.jpg "Tabela comparativa dos chips GeForce da NVIDIA (desktop)")
         
-        51
+        54
         
         [Tabela comparativa dos chips GeForce da NVIDIA (desktop)](https://www.clubedohardware.com.br/artigos/video/tabela-comparativa-dos-chips-geforce-da-nvidia-desktop-r34106/ "Tabela comparativa dos chips GeForce da NVIDIA (desktop)")
         
