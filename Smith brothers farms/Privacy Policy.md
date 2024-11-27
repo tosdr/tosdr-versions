@@ -232,14 +232,14 @@ Hi
         * [Whipping Cream (5)](https://www.smithbrothersfarms.com/whipping-cream)
             
         
-    * [Yogurt (77)](https://www.smithbrothersfarms.com/yogurt)
+    * [Yogurt (76)](https://www.smithbrothersfarms.com/yogurt)
         
         * BACK
         * [Kefir & Drinkable Yogurt (10)](https://www.smithbrothersfarms.com/kefir)
             
         * [Greek Yogurt (52)](https://www.smithbrothersfarms.com/greek)
             
-        * [Traditional Yogurt (22)](https://www.smithbrothersfarms.com/traditional)
+        * [Traditional Yogurt (21)](https://www.smithbrothersfarms.com/traditional)
             
         
     * [Eggs & Butter (10)](https://www.smithbrothersfarms.com/eggs-butter)
@@ -250,7 +250,7 @@ Hi
         * [Eggs (7)](https://www.smithbrothersfarms.com/eggs)
             
         
-    * [Cheese (62)](https://www.smithbrothersfarms.com/cheese)
+    * [Cheese (61)](https://www.smithbrothersfarms.com/cheese)
         
         * BACK
         * [Block Cheese (6)](https://www.smithbrothersfarms.com/blocks)
@@ -259,7 +259,7 @@ Hi
             
         * [Shreds & Crumbles (11)](https://www.smithbrothersfarms.com/shreds-crumbles)
             
-        * [Cream Cheese (10)](https://www.smithbrothersfarms.com/cream-cheese)
+        * [Cream Cheese (9)](https://www.smithbrothersfarms.com/cream-cheese)
             
         * [Artisan Cheese (17)](https://www.smithbrothersfarms.com/other-cheese)
             
@@ -282,14 +282,14 @@ Hi
         * [Prepared Produce (5)](https://www.smithbrothersfarms.com/prepped)
             
         
-    * [Bakery (106)](https://www.smithbrothersfarms.com/bakery)
+    * [Bakery (105)](https://www.smithbrothersfarms.com/bakery)
         
         * BACK
         * [Bread & Buns (35)](https://www.smithbrothersfarms.com/bread)
             
         * [Tortillas & Pizza Crust (6)](https://www.smithbrothersfarms.com/tortillas-and-pizza)
             
-        * [Bagels (16)](https://www.smithbrothersfarms.com/bagels)
+        * [Bagels (15)](https://www.smithbrothersfarms.com/bagels)
             
         * [Breakfast Treats (20)](https://www.smithbrothersfarms.com/breakfast-treats)
             
