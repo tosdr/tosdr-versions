@@ -224,10 +224,6 @@ WUSH™ 2.0 Pro Ear Cleaner
 
 1480
 
-Color
-
-$59.00
-
-Color](https://blackwolfnation.com/products/wush)
+$59.00](https://blackwolfnation.com/products/wush)
 
 {"themeColor":"#574cd5","iconColor":"#574cd5","showLogo":true,"topBottomPosition":100,"rightLeftPosition":10,"iconSize":"extra-small","iconCustomSize":64,"position":"middle-right"}
