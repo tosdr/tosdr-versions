@@ -8,7 +8,7 @@ Previous
 
 [Create your own 5-piece mini set on $80+. No code needed.](https://www.bobbibrowncosmetics.com/offers-landing-page)
 
-[Limited time only! 50% off select lip. Shop now.](https://www.bobbibrowncosmetics.com/flash-sales)
+[Limited time only! 50% off select Cheek. Shop now.](https://www.bobbibrowncosmetics.com/flash-sales)
 
 Enjoy Free Standard Shipping on any $65+ order.
 
@@ -294,7 +294,7 @@ Special offers
 
 [40% off Select Favorites](https://www.bobbibrowncosmetics.com/products/16111/Makeup/last-call "40% off Select Favorites")
 
-[50% off Select Lips](https://www.bobbibrowncosmetics.com/flash-sales "50% off Select Lips")
+[50% off Select Cheek](https://www.bobbibrowncosmetics.com/flash-sales "50% off Select Cheek")
 
 [Auto Replenishment](https://www.bobbibrowncosmetics.com/products/15597/makeup/auto-replenishment "Auto Replenishment")
 
