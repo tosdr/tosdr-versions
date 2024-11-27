@@ -192,10 +192,10 @@ Please enter your location to help us display the correct information for your a
 
   
 
-Enhancing lives tod​ay and accelerating a spectrum of solutions for tomorrow.
-=============================================================================
+Enhancing lives today and accelerating a spectrum of solutions for tomorrow.
+============================================================================
 
-![Champions of Change Tonya and Tyler](/sites/default/files/styles/wysiwyg_fullscreen_width/public/Tonya_Tyler_herohtml.png?itok=p_dJo7-H "Tonya Tyler hero html crop")
+![Tonya and Tyler](/sites/default/files/styles/wysiwyg_fullscreen_width/public/Tonya-and-Tyler_hero_widecropv2%20copy.png?itok=sSMXWbDJ "Tonya and Tyler hero no background")
 
 Autism information and support
 
@@ -287,6 +287,22 @@ Autism news
 
 All the latest that matters to our community
 
+![Stuart Spielman looking at camera smiling with arm around his son's shoulder. Zak smiles while leaning his face towards side of Stuart's head.](/sites/default/files/styles/content_list/public/Stuart%20%26%20Zak.jpg.webp?itok=85I1iwOg)
+
+11.26.24
+
+[### 30/10 - Milestone Birthdays for My Son and the ABLE Act](https://guide.autismspeaks.org/advocacy-news/3010-milestone-birthdays-my-son-and-able-act)
+
+A few months ago, Stuart Spielman celebrated the 30th birthday of his autistic son Zak, and soon we will be celebrating the 10th anniversary of the
+
+![The Shorty Awards](/sites/default/files/styles/content_list/public/Shorty21_Logo_v2_Vertical_Awards_Shorty_Black.png.webp?itok=CVA77LAI)
+
+11.26.24
+
+[### Autism Speaks celebrates "fearless" wins at the Shorty Awards](https://guide.autismspeaks.org/news/autism-speaks-celebrates-fearless-wins-shorty-awards)
+
+For the past twenty years, Autism Speaks has been more than just a voice—it has been a reliable ally to those on the autism spectrum.
+
 ![Pam Dixon and friends in a cafe](/sites/default/files/styles/content_list/public/Pam-Dixon-and-friends-in-a-cafe.jpg.webp?itok=oNmYDb4X)
 
 11.26.24
@@ -318,22 +334,6 @@ Autism Speaks Chief Science Officer Dr. Andy Shih was one of three individuals i
 [### Autism Speaks joins congressional briefing on family caregivers](https://guide.autismspeaks.org/advocacy-news/autism-speaks-joins-congressional-briefing-family-caregivers)
 
 Autism Speaks was grateful to join the Rosalynn Carter Institute for Caregivers, Elizabeth Dole Foundation and Caregiver Action Network for a
-
-![Autism Speaks new PSA for employment](/sites/default/files/styles/content_list/public/Autism%20Speaks%20new%20PSA%20for%20employment.png.webp?itok=XRKtwSWZ)
-
-11.15.24
-
-[### \[PSA\] This is why hiring autistic employees can benefit your business](https://guide.autismspeaks.org/news/watch-autism-speaks-psa-autistic-employment)
-
-Hiring autistic employees can be a game-changer for your business. Find out how in Autism Speaks’ newest PSA is changing how we view workplace
-
-![Autism Digest logo](/sites/default/files/styles/content_list/public/Autism%20Digest%20logo.jpg.webp?itok=pmzzVnN0)
-
-11.5.24
-
-[### Autism Digest shares Tyler and Tonya’s journey to employment](https://guide.autismspeaks.org/news/autism-digest-shares-tyler-and-tonyas-journey-employment)
-
-Autism Digest shares the journey to employment for Autism Speaks Champions of Change, Tonya and Tyler Haynes.
 
 [Read more news](https://guide.autismspeaks.org/articles?article_type%5B981%5D=981&article_type%5B2181%5D=2181&article_type%5B2186%5D=2186&article_type%5B986%5D=986)
 
