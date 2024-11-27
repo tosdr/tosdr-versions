@@ -1,9 +1,5 @@
  [Aller au contenu principal](#main-content)
 
-![](https://cdn-fr.ouigo.com/edito-p-v3-assets/file/i%20info_1.png)
-
-Suite à une maintenance technique planifiée, les ventes et après-ventes sont indisponibles dans la nuit du 26 au 27 novembre, à partir de 22h.
-
 ![](https://cdn-fr.ouigo.com/edito-p-v3-assets/file/T%C3%A9l%C3%A9chargement%20app.png)
 
 Téléchargez l'application OUIGO ! 
