@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Guess ANs IRL enemy (IC) (113)](https://forum.nationstates.net/viewtopic.php?t=557577&f=25&view=unread#unread ""Guess ANs IRL enemy (IC)" (113 posts)")
-* [When do you think AN was founded? (IC) (195)](https://forum.nationstates.net/viewtopic.php?t=558109&f=25&view=unread#unread ""When do you think AN was founded? (IC)" (195 posts)")
-* [Ajax Regional Application and Recruit… (309)](https://forum.nationstates.net/viewtopic.php?t=419206&f=23&view=unread#unread ""Ajax Regional Application and Recruitment Thread [MT; Open]" (309 posts)")
-* [Could AL Lead YN? (139)](https://forum.nationstates.net/viewtopic.php?t=557686&f=25&view=unread#unread ""Could AL Lead YN?" (139 posts)")
-* [Syrian Civl War: Possible New Grand O… (1)](https://forum.nationstates.net/viewtopic.php?t=558866&f=20&view=unread#unread ""Syrian Civl War: Possible New Grand Offensive" (1 post)")
+* [Heirs of Icarus | OoC | Closed (149)](https://forum.nationstates.net/viewtopic.php?t=558264&f=31&view=unread#unread ""Heirs of Icarus | OoC | Closed" (149 posts)")
+* [\[Discussion\] Rule Change: Academic Di… (22)](https://forum.nationstates.net/viewtopic.php?t=558801&f=9&view=unread#unread ""[Discussion] Rule Change: Academic Dishonesty" (22 posts)")
+* [Ukrainian War VII: Everything has a p… (11,315)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Everything has a price" (11,315 posts)")
+* [Guess AU's stance on their chosen topic (28)](https://forum.nationstates.net/viewtopic.php?t=558795&f=25&view=unread#unread ""Guess AU's stance on their chosen topic" (28 posts)")
+* [The Catalyst of Crisis (IC) (25)](https://forum.nationstates.net/viewtopic.php?t=558483&f=5&view=unread#unread ""The Catalyst of Crisis (IC)" (25 posts)")
 
 Advertisement
 
