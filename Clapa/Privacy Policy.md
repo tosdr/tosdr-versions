@@ -40,7 +40,7 @@
     * [Events for children and families](https://www.clapa.com/events/events-for-children-and-families/)
     * [Events for Parents and Carers](https://www.clapa.com/events/events-for-parents-and-carers/)
     * [Events for Young People](https://www.clapa.com/events/events-for-young-people/)
-    * [Camp CLAPA Activity Weekends](https://www.clapa.com/events/residential-weekends/)
+    * [Camp CLAPA](https://www.clapa.com/events/residential-weekends/)
     * [Help with joining virtual events](https://www.clapa.com/events/help-with-joining-virtual-events/)
 * [Get involved](https://www.clapa.com/get-involved/)
     * [Fundraise](https://www.clapa.com/get-involved/fundraise-for-clapa/)
