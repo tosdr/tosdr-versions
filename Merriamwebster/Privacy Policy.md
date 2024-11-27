@@ -388,9 +388,9 @@ If you have questions about Merriam-Webster or its products, visit our [Contact 
 
 #### [Word of the Day](https://www.merriam-webster.com/word-of-the-day)
 
-#### [eddy](https://www.merriam-webster.com/word-of-the-day)
+#### [guttural](https://www.merriam-webster.com/word-of-the-day)
 
-[![Listen to the pronunciation of eddy](/dist-cross-dungarees/2024-11-25--16-12-55-ndopr/images/svg/audio.svg)](javascript:void(0) "Listen to the pronunciation of eddy")
+[![Listen to the pronunciation of guttural](/dist-cross-dungarees/2024-11-25--16-12-55-ndopr/images/svg/audio.svg)](javascript:void(0) "Listen to the pronunciation of guttural")
 
 [See Definitions and Examples](https://www.merriam-webster.com/word-of-the-day) »
 
