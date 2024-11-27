@@ -179,6 +179,9 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Missouri AG To Sue Jackson County For Violation of Missouri Gun Law](https://www.thegunpage.com/missouri-ag-to-sue-jackson-county-for-violation-of-missouri-gun-law/10612142)
+* [Mosin-Nagant Re-Chambered in .500 S&W Magnum – Ultimate Bubba Rifle](https://www.thegunpage.com/mosin-nagant-re-chambered-in-500-sw-magnum-ultimate-bubba-rifle/10612141)
+* [GOA Warns Of Gun Control Push During Lame-Duck Session](https://www.thegunpage.com/goa-warns-of-gun-control-push-during-lame-duck-session/10612140)
 * [Legendary Pistol Marksman And Olympian Joe Benner](https://www.thegunpage.com/legendary-pistol-marksman-and-olympian-joe-benner/10612139)
 * [TFB Review: Geissele Super Duty MOD1](https://www.thegunpage.com/tfb-review-geissele-super-duty-mod1/10612136)
 * [POTD: FN America LICC IWS](https://www.thegunpage.com/potd-fn-america-licc-iws/10612137)
@@ -186,9 +189,6 @@ Recent Posts
 * [Silencers To Your Door: Griffin Armament and Capitol Armory](https://www.thegunpage.com/silencers-to-your-door-griffin-armament-and-capitol-armory/10612130)
 * [Tennessee Wildlife Resouces Agency Chooses Beretta A300 Ultima Patrol](https://www.thegunpage.com/tennessee-wildlife-resouces-agency-chooses-beretta-a300-ultima-patrol/10612128)
 * [One of the Country’s Possibly Worst Sheriffs and His Department has Hampered Gun Ownership](https://www.thegunpage.com/one-of-the-countrys-possibly-worst-sheriffs-and-his-department-has-hampered-gun-ownership/10612126)
-* [New FightLite Raptor Belt-Fed AR Upper: \*Real\* High-Capacity Firepower](https://www.thegunpage.com/new-fightlite-raptor-belt-fed-ar-upper-real-high-capacity-firepower/10612129)
-* [California Grandfather Uses Gun To Save Self, Grandkids](https://www.thegunpage.com/california-grandfather-uses-gun-to-save-self-grandkids/10612124)
-* [$11 Million Verdict In P320 Lawsuit, SIG Sauer Plans To Appeal](https://www.thegunpage.com/11-million-verdict-in-p320-lawsuit-sig-sauer-plans-to-appeal/10612119)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -230,6 +230,8 @@ Contact Us
 
 Recent Comments
 
+* charles wilkins on [Something to be Thankful For](https://www.conservativedailynews.com/2024/11/something-to-be-thankful-for/#comment-783422)
+* Stanley Warner on [Lame Duck Biden Admin Cuts Massive Check For Failing EV Manufacturer](https://www.conservativedailynews.com/2024/11/lame-duck-biden-admin-cuts-massive-check-for-failing-ev-manufacturer/#comment-783421)
 * Jeff L. on [A Cautionary Note for Republicans Celebrating Trump’s Historic Victory](https://www.conservativedailynews.com/2024/11/a-cautionary-note-for-republicans-celebrating-trumps-historic-victory/#comment-783412)
 * Jeff L. on [A Cautionary Note for Republicans Celebrating Trump’s Historic Victory](https://www.conservativedailynews.com/2024/11/a-cautionary-note-for-republicans-celebrating-trumps-historic-victory/#comment-783411)
 * alan kifer on [Transgender Activist Says Trying To Stop Men From Using Women’s Restrooms Will Be ‘Last Mistake You Ever Make’](https://www.conservativedailynews.com/2024/11/transgender-activist-says-trying-to-stop-men-from-using-womens-restrooms-will-be-last-mistake-you-ever-make/#comment-783396)
@@ -237,8 +239,6 @@ Recent Comments
 * KayCee on [Transgender Activist Says Trying To Stop Men From Using Women’s Restrooms Will Be ‘Last Mistake You Ever Make’](https://www.conservativedailynews.com/2024/11/transgender-activist-says-trying-to-stop-men-from-using-womens-restrooms-will-be-last-mistake-you-ever-make/#comment-783370)
 * Stanley Warner on [It Is A Coming Out Party For Trump Supporters](https://www.conservativedailynews.com/2024/11/it-is-a-coming-out-party-for-trump-supporters/#comment-783368)
 * Stanley Warner on [May The Spirit Of Laken Riley Shed Light On A Broken Judicial System](https://www.conservativedailynews.com/2024/11/may-the-spirit-of-laken-riley-shed-light-on-a-broken-judicial-system/#comment-783367)
-* charles wilkins on [Parting Gift](https://www.conservativedailynews.com/2024/11/parting-gift/#comment-783343)
-* Stanley Warner on [Our Elections Need To Be Fixed Before The 2026 Midterms](https://www.conservativedailynews.com/2024/11/our-elections-need-to-be-fixed-before-the-2026-midterms/#comment-783327)
 
 [Close](#)
 
