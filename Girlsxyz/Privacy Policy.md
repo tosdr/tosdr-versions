@@ -1,6 +1,6 @@
 [](https://girls.xyz/)
 
-2493 Online
+3032 Online
 
 [Login](https://girls.xyz/login) [Join now for free](https://girls.xyz/members/join)
 
@@ -10,47 +10,47 @@
 
 Categories
 
-* [Anal (796 Live)](https://girls.xyz/anal)
-* [Arab (4 Live)](https://girls.xyz/arab)
-* [Asian (85 Live)](https://girls.xyz/asian)
-* [Babes (767 Live)](https://girls.xyz/babes)
-* [BBW (172 Live)](https://girls.xyz/bbw)
-* [Best for Privates (69 Live)](https://girls.xyz/best-for-privates)
-* [Big Ass (755 Live)](https://girls.xyz/big-ass)
-* [Big Tits (599 Live)](https://girls.xyz/big-tits)
-* [Blonde (321 Live)](https://girls.xyz/blonde)
-* [Bondage (322 Live)](https://girls.xyz/bondage)
-* [Brunette (1129 Live)](https://girls.xyz/brunette)
-* [College Girls (476 Live)](https://girls.xyz/college-girls)
-* [Curvy (306 Live)](https://girls.xyz/curvy)
-* [Ebony (261 Live)](https://girls.xyz/ebony)
-* [Fetish (1130 Live)](https://girls.xyz/fetish)
-* [Granny (23 Live)](https://girls.xyz/granny)
+* [Anal (941 Live)](https://girls.xyz/anal)
+* [Arab (16 Live)](https://girls.xyz/arab)
+* [Asian (83 Live)](https://girls.xyz/asian)
+* [Babes (830 Live)](https://girls.xyz/babes)
+* [BBW (198 Live)](https://girls.xyz/bbw)
+* [Best for Privates (66 Live)](https://girls.xyz/best-for-privates)
+* [Big Ass (830 Live)](https://girls.xyz/big-ass)
+* [Big Tits (684 Live)](https://girls.xyz/big-tits)
+* [Blonde (373 Live)](https://girls.xyz/blonde)
+* [Bondage (412 Live)](https://girls.xyz/bondage)
+* [Brunette (1298 Live)](https://girls.xyz/brunette)
+* [College Girls (582 Live)](https://girls.xyz/college-girls)
+* [Curvy (328 Live)](https://girls.xyz/curvy)
+* [Ebony (237 Live)](https://girls.xyz/ebony)
+* [Fetish (1369 Live)](https://girls.xyz/fetish)
+* [Granny (33 Live)](https://girls.xyz/granny)
 * [Group Sex (0 Live)](https://girls.xyz/group-sex)
 * [Hairy Pussy (205 Live)](https://girls.xyz/hairy-pussy)
-* [Housewives (622 Live)](https://girls.xyz/housewives)
-* [Huge Tits (128 Live)](https://girls.xyz/huge-tits)
-* [Indian (4 Live)](https://girls.xyz/indian)
-* [Latina (445 Live)](https://girls.xyz/latina)
-* [Lesbian (21 Live)](https://girls.xyz/lesbian)
-* [Mature (405 Live)](https://girls.xyz/mature)
-* [Medium Tits (630 Live)](https://girls.xyz/medium-tits)
-* [Muscle (36 Live)](https://girls.xyz/muscle)
-* [Petite (202 Live)](https://girls.xyz/petite)
-* [Pornstar (7 Live)](https://girls.xyz/pornstar)
+* [Housewives (747 Live)](https://girls.xyz/housewives)
+* [Huge Tits (146 Live)](https://girls.xyz/huge-tits)
+* [Indian (6 Live)](https://girls.xyz/indian)
+* [Latina (741 Live)](https://girls.xyz/latina)
+* [Lesbian (17 Live)](https://girls.xyz/lesbian)
+* [Mature (485 Live)](https://girls.xyz/mature)
+* [Medium Tits (710 Live)](https://girls.xyz/medium-tits)
+* [Muscle (23 Live)](https://girls.xyz/muscle)
+* [Petite (226 Live)](https://girls.xyz/petite)
+* [Pornstar (4 Live)](https://girls.xyz/pornstar)
 * [Pregnant (2 Live)](https://girls.xyz/pregnant)
-* [Redhead (197 Live)](https://girls.xyz/redhead)
-* [Shaved Pussy (1107 Live)](https://girls.xyz/shaved-pussy)
-* [Small Tits (289 Live)](https://girls.xyz/small-tits)
+* [Redhead (225 Live)](https://girls.xyz/redhead)
+* [Shaved Pussy (1289 Live)](https://girls.xyz/shaved-pussy)
+* [Small Tits (354 Live)](https://girls.xyz/small-tits)
 * [Smoking (19 Live)](https://girls.xyz/smoking)
-* [Squirt (883 Live)](https://girls.xyz/squirt)
-* [Teens 18+ (476 Live)](https://girls.xyz/teens-18)
-* [Toys (1190 Live)](https://girls.xyz/toys)
-* [White Girls (848 Live)](https://girls.xyz/white-girls)
+* [Squirt (1058 Live)](https://girls.xyz/squirt)
+* [Teens 18+ (582 Live)](https://girls.xyz/teens-18)
+* [Toys (1395 Live)](https://girls.xyz/toys)
+* [White Girls (813 Live)](https://girls.xyz/white-girls)
 
 History
 
-[All Promotions](https://girls.xyz/free-tokens) [Contests](https://girls.xyz/contest/queen-of-queens) [Girls App](https://girls.xyz/mobile-app)
+[All Promotions](https://girls.xyz/free-tokens) [Contests](https://girls.xyz/contest/queen-of-queens-international) [Girls App](https://girls.xyz/mobile-app)
 
 Privacy Policy
 ==============
@@ -543,9 +543,9 @@ Support
 
 Contest / Money
 
-* [Top 100 of the Week](https://girls.xyz/contest/queen-of-queens)
+* [Top 100 of the Week](https://girls.xyz/contest/queen-of-queens-international)
 * [All Promotions](https://girls.xyz/free-tokens)
-* [Affiliate Sign up](https://bongacash.com/ref?c=696088)
+* [Affiliate Sign up](https://en.bongacash.com/ref?c=696088)
 
 [Take a tour](https://girls.xyz/user-faq)
 
