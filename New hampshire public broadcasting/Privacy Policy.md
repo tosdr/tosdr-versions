@@ -184,15 +184,15 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
+* [**"Breakdown in Maine" - Preview** | FRONTLINE](https://video.nhpbs.org/video/breakdown-in-maine-preview?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Trailer Minted** | Independent Lens](https://video.nhpbs.org/video/trailer-minted-oowqv7?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**5 Facts about Henry Mancini** | Great Performances](https://video.nhpbs.org/video/5-facts-about-henry-mancini-stw4m1?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**November 26, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/november-26-2024-pbs-news-hour-full-episode-1732597201?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Building Stuff: Change It!** | NOVA](https://video.nhpbs.org/video/building-stuff-change-it-p6ydi1?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Season 5 Official Preview** | All Creatures Great and Small](https://video.nhpbs.org/video/season-5-official-preview-fhagmb?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**News Wrap: Israeli-Hezbollah cease-fire close, official says** | PBS News Hour](https://video.nhpbs.org/video/news-wrap-1732573680?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Appraisal: Enamel Turkey Brooch, ca. 1940** | Antiques Roadshow](https://video.nhpbs.org/video/appraisal-enamel-turkey-brooch-ca-1940-ljnnzy?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**November 25, 2024** | Amanpour and Company](https://video.nhpbs.org/video/november-25-2024-vlazpq?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Science of Mars' Retrograde December 2 - December 8** | Star Gazers](https://video.nhpbs.org/video/science-of-mars-retrograde-december-2-december-8-2rs7eu?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Hard Pasts, Clear Futures** | The Whitney Reynolds Show](https://video.nhpbs.org/video/hard-pasts-clear-futures-tm09sf?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**full episode, 11/22/24** | Washington Week with The Atlantic](https://video.nhpbs.org/video/washington-week-with-the-atlantic-full-episode-112224-xifbvq?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Shorts: Until He's Back** | POV](https://video.nhpbs.org/video/pov-shorts-until-hes-back-zhfsv1?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Find Zelda's Giant Rupee December 9 - December 15** | Star Gazers](https://video.nhpbs.org/video/find-zeldas-giant-rupee-december-9-december-15-clb9ai?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
