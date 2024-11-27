@@ -4,6 +4,8 @@
 * [](https://twitter.com/dantelabs?lang=en "X")
 * [](https://www.instagram.com/dantelabs_official/ "Instagram")
 
+[Dante Black Friday: Unlock Genetic Insights at Unmatched Prices!](https://us.dantelabs.com/products/whole-genome-sequencing)
+
 * [Dante Genome Test](https://us.dantelabs.com/products/whole-genome-sequencing "Dante Genome Test")
 * [Genomic Reports](https://us.dantelabs.com/collections/dante-labs-comprehensive-panels "Genomic Reports")
 * [About us](https://us.dantelabs.com/pages/about-us "About us")
@@ -118,11 +120,11 @@ Popular searches
 
 Trending Now
 
-* Save 60% [![All Panels Package](//us.dantelabs.com/cdn/shop/products/all-panels-package-738620.gif?v=1678506804&width=20)
+* Save 70% [![All Panels Package](//us.dantelabs.com/cdn/shop/products/all-panels-package-738620.gif?v=1678506804&width=20)
     
     Quick view](https://us.dantelabs.com/products/all-panels-package "All Panels Package")
     
-    [All Panels Package](https://us.dantelabs.com/products/all-panels-package "All Panels Package") ~$499.00~ $199.00 /
+    [All Panels Package](https://us.dantelabs.com/products/all-panels-package "All Panels Package") ~$499.00~ $149.00 /
     
 * [![Cardiovascular Report](//us.dantelabs.com/cdn/shop/files/cardiovascular-report-205351.jpg?v=1714589736&width=20)
     
