@@ -89,7 +89,7 @@ Menu
     * [View All](https://its-can.com/solutions/)
 * [Business Challenges](#)
     * [Digital Transformation](https://its-can.com/solutions/digital-transformation/)
-    * [Security](https://its-can.com/?page_id=1600)
+    * [Cybersecurity](https://its-can.com/solutions/cyber-security/)
     * [Automation](https://its-can.com/solutions/automation/)
     * [Gaining Efficiency](https://its-can.com/solutions/gaining-efficiency/)
 * [Company](https://its-can.com/about/)
@@ -98,7 +98,6 @@ Menu
     * [Partners & Certifications](https://its-can.com/partnerships/)
 * [Blog](https://its-can.com/blog/)
 * [Schedule a Consultation](https://its-can.com/contact/)
-* [FAQ](https://its-can.com/?page_id=1314)
 * [Contact](https://its-can.com/contact/)
 * [Client Support](https://its-can.itclientportal.com/)
 
@@ -115,7 +114,7 @@ Menu
     * [View All](https://its-can.com/solutions/)
 * [Business Challenges](#)
     * [Digital Transformation](https://its-can.com/solutions/digital-transformation/)
-    * [Security](https://its-can.com/?page_id=1600)
+    * [Cybersecurity](https://its-can.com/solutions/cyber-security/)
     * [Automation](https://its-can.com/solutions/automation/)
     * [Gaining Efficiency](https://its-can.com/solutions/gaining-efficiency/)
 * [Company](https://its-can.com/about/)
@@ -124,7 +123,6 @@ Menu
     * [Partners & Certifications](https://its-can.com/partnerships/)
 * [Blog](https://its-can.com/blog/)
 * [Schedule a Consultation](https://its-can.com/contact/)
-* [FAQ](https://its-can.com/?page_id=1314)
 * [Contact](https://its-can.com/contact/)
 * [Client Support](https://its-can.itclientportal.com/)
 
@@ -264,10 +262,8 @@ Privacy Officer, privacy@its-can.com
 * [Partners & Certifications](https://its-can.com/partnerships/)
 
 * [Blog](https://its-can.com/blog/)
-* [FAQ](https://its-can.com/?page_id=1314)
 
 * [Blog](https://its-can.com/blog/)
-* [FAQ](https://its-can.com/?page_id=1314)
 
    
 
