@@ -129,12 +129,12 @@ English
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
     * [Sreeleela](https://www.news18.com/web-stories/celebrities/5-south-diva-sreeleela-inspired-glamourous-ethnic-looks-2639695/)
+    * [Taj Mahal](https://www.news18.com/viral/foreigner-visits-taj-mahal-with-elderly-father-shares-frustration-on-social-media-in-viral-video-9135413.html)
+    * [D Gukesh vs Ding Liren](https://www.news18.com/sports/d-gukesh-vs-ding-liren-live-updates-chess-world-championship-final-game-3-streaming-watch-free-timing-record-head-to-head-liveblog-9135627.html)
+    * [Maharashtra CM](https://www.news18.com/elections/maharashtra-assembly-election-result-2024-live-government-formation-devendra-fadnavis-eknath-shinde-ajit-pawar-chief-minister-bjp-shiv-sena-ncp-latest-news-liveblog-9135300.html)
+    * [Dhanush](https://www.news18.com/movies/dhanush-sues-nayanthara-vignesh-sivan-over-unauthorised-naanum-rowdy-dhaan-footage-in-netflix-docu-9135667.html)
+    * [AR Rahman](https://www.news18.com/movies/ar-rahman-looks-heartbroken-in-first-appearance-after-separating-from-saira-banu-video-goes-viral-9136013.html?utm_campaign=promotion&utm_source=izooto&utm_medium=push_notifications)
     * [KKR Captain](https://www.news18.com/cricket/ipl-2025-kolkata-knight-riders-venky-mysore-ajinkya-rahane-new-kkr-captain-venkatesh-iyer-9134717.html)
-    * [Zainab Ravdjee](https://www.news18.com/movies/who-is-zainab-ravdjee-everything-you-need-to-know-about-akhil-akkinenis-fiancee-9135037.html)
-    * [Samantha Ruth Prabhu](https://www.news18.com/movies/samantha-ruth-prabhu-breaks-silence-on-divorce-from-naga-chaitanya-absolute-lies-were-9133952.html)
-    * [Riddhima Kapoor Sahni](https://www.news18.com/movies/riddhima-kapoor-sahni-reacts-to-criticism-of-ranbir-kapoors-animal-if-my-grandfather-was-here-9132859.html)
-    * [Bengaluru](https://www.news18.com/india/the-many-challenges-of-renting-a-house-in-bengaluru-news18-uncovers-the-home-truths-9135172.html)
-    * [Belly Fat](https://www.news18.com/lifestyle/5-morning-rituals-you-should-adopt-to-reduce-belly-fat-9124509.html)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
     * [Check Credit Score](https://www.moneycontrol.com/credit-score?utm_source=News18English&utm_medium=Email&utm_campaign=CBEnglish)
@@ -171,12 +171,12 @@ Follow us on
 In Trends:
 
 * [Sreeleela](https://www.news18.com/web-stories/celebrities/5-south-diva-sreeleela-inspired-glamourous-ethnic-looks-2639695/)
+* [Taj Mahal](https://www.news18.com/viral/foreigner-visits-taj-mahal-with-elderly-father-shares-frustration-on-social-media-in-viral-video-9135413.html)
+* [D Gukesh vs Ding Liren](https://www.news18.com/sports/d-gukesh-vs-ding-liren-live-updates-chess-world-championship-final-game-3-streaming-watch-free-timing-record-head-to-head-liveblog-9135627.html)
+* [Maharashtra CM](https://www.news18.com/elections/maharashtra-assembly-election-result-2024-live-government-formation-devendra-fadnavis-eknath-shinde-ajit-pawar-chief-minister-bjp-shiv-sena-ncp-latest-news-liveblog-9135300.html)
+* [Dhanush](https://www.news18.com/movies/dhanush-sues-nayanthara-vignesh-sivan-over-unauthorised-naanum-rowdy-dhaan-footage-in-netflix-docu-9135667.html)
+* [AR Rahman](https://www.news18.com/movies/ar-rahman-looks-heartbroken-in-first-appearance-after-separating-from-saira-banu-video-goes-viral-9136013.html?utm_campaign=promotion&utm_source=izooto&utm_medium=push_notifications)
 * [KKR Captain](https://www.news18.com/cricket/ipl-2025-kolkata-knight-riders-venky-mysore-ajinkya-rahane-new-kkr-captain-venkatesh-iyer-9134717.html)
-* [Zainab Ravdjee](https://www.news18.com/movies/who-is-zainab-ravdjee-everything-you-need-to-know-about-akhil-akkinenis-fiancee-9135037.html)
-* [Samantha Ruth Prabhu](https://www.news18.com/movies/samantha-ruth-prabhu-breaks-silence-on-divorce-from-naga-chaitanya-absolute-lies-were-9133952.html)
-* [Riddhima Kapoor Sahni](https://www.news18.com/movies/riddhima-kapoor-sahni-reacts-to-criticism-of-ranbir-kapoors-animal-if-my-grandfather-was-here-9132859.html)
-* [Bengaluru](https://www.news18.com/india/the-many-challenges-of-renting-a-house-in-bengaluru-news18-uncovers-the-home-truths-9135172.html)
-* [Belly Fat](https://www.news18.com/lifestyle/5-morning-rituals-you-should-adopt-to-reduce-belly-fat-9124509.html)
 
 * Follow Us
 * [](https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J)
