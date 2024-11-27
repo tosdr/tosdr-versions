@@ -41,20 +41,32 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Ariana Grande on the red carpet](https://www.women.com/img/gallery/all-of-ariana-grandes-wicked-tattoos-including-her-matching-ink-with-cynthia-erivo/intro-1732307595.jpg)](https://www.women.com/1721081/ariana-grande-wicked-tattoos-matching-ink-cynthia-erivo/)
+*  [![Zoe Kravitz and Channing Tatum in London for the Blink Twice premiere](https://www.women.com/img/gallery/the-red-flags-we-couldnt-ignore-in-channing-tatum-and-zoe-kravitzs-relationship/intro-1732124296.jpg)](https://www.women.com/1718419/red-flags-couldnt-ignore-channing-tatum-zoe-kravitz-relationship/)
     
-    [Beauty](https://www.women.com/category/beauty/)
+    [Exclusives](https://www.women.com/category/exclusives/)
     
-    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+    [Exclusives](https://www.women.com/category/exclusives/) By Amanda Chatel
     
-    [All Of Ariana Grande's Wicked Tattoos - Including Her Matching Ink With Cynthia Erivo](https://www.women.com/1721081/ariana-grande-wicked-tattoos-matching-ink-cynthia-erivo/)
-    ===============================================================================================================================================================================
+    [The Red Flags We Couldn't Ignore In Channing Tatum And Zoe Kravitz's Relationship](https://www.women.com/1718419/red-flags-couldnt-ignore-channing-tatum-zoe-kravitz-relationship/)
+    ====================================================================================================================================================================================
     
-    The 2024 "Wicked" movie is ultra-personal for Ariana Grande, who got several Oz-inspired tattoos, including some matching ink with her co-star Cynthia Erivo.
+    With every relationship that's not destined to make it, celebrity relationships included, there are red flags along the way that are hard to ignore.
     
-    By Emily Hutchinson [Read More](https://www.women.com/1721081/ariana-grande-wicked-tattoos-matching-ink-cynthia-erivo/)
+    By Amanda Chatel [Read More](https://www.women.com/1718419/red-flags-couldnt-ignore-channing-tatum-zoe-kravitz-relationship/)
     
-* *  [![Jennifer Lopez in a brown cardigan and brown toned lipstick](https://www.women.com/img/gallery/jennifer-lopezs-style-transformation-since-her-ben-affleck-divorce/intro-1732038036.jpg)](https://www.women.com/1717258/jennifer-lopez-style-transformation-since-ben-affleck-divorce/)
+* *  [![Ariana Grande on the red carpet](https://www.women.com/img/gallery/all-of-ariana-grandes-wicked-tattoos-including-her-matching-ink-with-cynthia-erivo/intro-1732307595.jpg)](https://www.women.com/1721081/ariana-grande-wicked-tattoos-matching-ink-cynthia-erivo/)
+        
+        [Beauty](https://www.women.com/category/beauty/)
+        
+        [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+        
+        ### [All Of Ariana Grande's Wicked Tattoos - Including Her Matching Ink With Cynthia Erivo](https://www.women.com/1721081/ariana-grande-wicked-tattoos-matching-ink-cynthia-erivo/)
+        
+        The 2024 "Wicked" movie is ultra-personal for Ariana Grande, who got several Oz-inspired tattoos, including some matching ink with her co-star Cynthia Erivo.
+        
+        By Emily Hutchinson [Read More](https://www.women.com/1721081/ariana-grande-wicked-tattoos-matching-ink-cynthia-erivo/)
+        
+    *  [![Jennifer Lopez in a brown cardigan and brown toned lipstick](https://www.women.com/img/gallery/jennifer-lopezs-style-transformation-since-her-ben-affleck-divorce/intro-1732038036.jpg)](https://www.women.com/1717258/jennifer-lopez-style-transformation-since-ben-affleck-divorce/)
         
         [Fashion](https://www.women.com/category/fashion/)
         
@@ -66,22 +78,22 @@
         
         By Emily Hutchinson [Read More](https://www.women.com/1717258/jennifer-lopez-style-transformation-since-ben-affleck-divorce/)
         
-    *  [![Woman laying down getting lip injections](https://www.women.com/img/gallery/can-you-lay-down-after-getting-botox/intro-1732041593.jpg)](https://www.women.com/1717335/can-lay-down-after-botox-explained/)
-        
-        [Exclusives](https://www.women.com/category/exclusives/)
-        
-        [Exclusives](https://www.women.com/category/exclusives/) By Amanda Chatel
-        
-        ### [Can You Lay Down After Getting Botox?](https://www.women.com/1717335/can-lay-down-after-botox-explained/)
-        
-        As beneficial as Botox can be for many people, it's not free of downsides, migration being one of them. But don't let social media scare you.
-        
-        By Amanda Chatel [Read More](https://www.women.com/1717335/can-lay-down-after-botox-explained/)
-        
 
 More Stories
 ------------
 
+*  [![Woman laying down getting lip injections](https://www.women.com/img/gallery/can-you-lay-down-after-getting-botox/intro-1732041593.jpg)](https://www.women.com/1717335/can-lay-down-after-botox-explained/)
+    
+    [Exclusives](https://www.women.com/category/exclusives/)
+    
+    [Exclusives](https://www.women.com/category/exclusives/) By Amanda Chatel
+    
+    ### [Can You Lay Down After Getting Botox?](https://www.women.com/1717335/can-lay-down-after-botox-explained/)
+    
+    As beneficial as Botox can be for many people, it's not free of downsides, migration being one of them. But don't let social media scare you.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1717335/can-lay-down-after-botox-explained/)
+    
 *  [![Angled close-up of Billie Eilish at the 2024 People's Choice Awards](https://www.women.com/img/gallery/the-stunning-transformation-of-billie-eilishs-ever-evolving-personal-style/intro-1732034136.jpg)](https://www.women.com/1717137/stunning-transformation-billie-eilish-personal-style/)
     
     [Fashion](https://www.women.com/category/fashion/)
@@ -393,18 +405,6 @@ More Stories
     Taylor Swift, and her fashion, have grown up since the sundress-and-boots days of the early 2000s. Today, she's making WAG wear supportive and galm.
     
     By Emily Hutchinson [Read More](https://www.women.com/1703649/full-transformation-taylor-swift-from-country-singer-chiefs-wag/)
-    
-*  [![Selena Gomez wearing pink makeup](https://www.women.com/img/gallery/selena-gomez-beauty-looks-well-never-forget/intro-1730826646.jpg)](https://www.women.com/1705788/selena-gomez-beauty-looks-never-forget/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
-    
-    ### [Selena Gomez Beauty Looks We'll Never Forget](https://www.women.com/1705788/selena-gomez-beauty-looks-never-forget/)
-    
-    Selena Gomez may be the queen of understated makeup, but she's also pulled out some bold, vibrant looks over the years that we love.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1705788/selena-gomez-beauty-looks-never-forget/)
     
 
 Back
