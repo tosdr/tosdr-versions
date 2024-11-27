@@ -120,62 +120,62 @@
 
 ### 精选推荐
 
-* [![LittleBigMouse - 让多屏幕操作丝滑如一，鼠标移动再无边界 1](https://www.appinn.com/wp-content/uploads/2024/10/Appinn-Feature-images-2024-10-30T210939.481-115x115.jpg "LittleBigMouse - 让多屏幕操作丝滑如一，鼠标移动再无边界 1")](https://www.appinn.com/littlebigmouse/ "LittleBigMouse – 让多屏幕操作丝滑如一，鼠标移动再无边界")
+* [![Scrcpy v3.0 重磅升级：支持多个安卓应用同时投屏，开源免费 1](https://www.appinn.com/wp-content/uploads/2024/11/appinn-homework-8-115x115.jpg "Scrcpy v3.0 重磅升级：支持多个安卓应用同时投屏，开源免费 1")](https://www.appinn.com/scrcpy-3/ "Scrcpy v3.0 重磅升级：支持多个安卓应用同时投屏，开源免费")
+    
+    [Scrcpy v3.0 重磅升级：支持多个安卓应用同时投屏，开源免费](https://www.appinn.com/scrcpy-3/ "Scrcpy v3.0 重磅升级：支持多个安卓应用同时投屏，开源免费")
+    
+    11 月 26, 2024 0
+    
+* [![LittleBigMouse - 让多屏幕操作丝滑如一，鼠标移动再无边界 2](https://www.appinn.com/wp-content/uploads/2024/10/Appinn-Feature-images-2024-10-30T210939.481-115x115.jpg "LittleBigMouse - 让多屏幕操作丝滑如一，鼠标移动再无边界 2")](https://www.appinn.com/littlebigmouse/ "LittleBigMouse – 让多屏幕操作丝滑如一，鼠标移动再无边界")
     
     [LittleBigMouse – 让多屏幕操作丝滑如一，鼠标移动再无边界](https://www.appinn.com/littlebigmouse/ "LittleBigMouse – 让多屏幕操作丝滑如一，鼠标移动再无边界")
     
     10 月 30, 2024 0
     
-* [![运动派对 - iPhone/iPad 变成「体感游戏机」打怪升级，顺便…减个肥 2](https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-14T130547.367-115x115.jpg "运动派对 - iPhone/iPad 变成「体感游戏机」打怪升级，顺便…减个肥 2")](https://www.appinn.com/yundong-paidui/ "运动派对 – iPhone/iPad 变成「体感游戏机」打怪升级，顺便…减个肥")
+* [![运动派对 - iPhone/iPad 变成「体感游戏机」打怪升级，顺便…减个肥 3](https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-14T130547.367-115x115.jpg "运动派对 - iPhone/iPad 变成「体感游戏机」打怪升级，顺便…减个肥 3")](https://www.appinn.com/yundong-paidui/ "运动派对 – iPhone/iPad 变成「体感游戏机」打怪升级，顺便…减个肥")
     
     [运动派对 – iPhone/iPad 变成「体感游戏机」打怪升级，顺便…减个肥](https://www.appinn.com/yundong-paidui/ "运动派对 – iPhone/iPad 变成「体感游戏机」打怪升级，顺便…减个肥")
     
     8 月 14, 2024 0
     
-* [![Image Toolbox - 拥有 93 个功能的开源图片编辑器，今天只介绍图片对比挑选功能[Android] 3](https://www.appinn.com/wp-content/uploads/2024/06/Appinn-feature-images-2024-06-19T142357.854-115x115.jpg "Image Toolbox - 拥有 93 个功能的开源图片编辑器，今天只介绍图片对比挑选功能[Android] 3")](https://www.appinn.com/image-toolbox/ "Image Toolbox – 拥有 93 个功能的开源图片编辑器，今天只介绍图片对比挑选功能[Android]")
+* [![Image Toolbox - 拥有 93 个功能的开源图片编辑器，今天只介绍图片对比挑选功能[Android] 4](https://www.appinn.com/wp-content/uploads/2024/06/Appinn-feature-images-2024-06-19T142357.854-115x115.jpg "Image Toolbox - 拥有 93 个功能的开源图片编辑器，今天只介绍图片对比挑选功能[Android] 4")](https://www.appinn.com/image-toolbox/ "Image Toolbox – 拥有 93 个功能的开源图片编辑器，今天只介绍图片对比挑选功能[Android]")
     
     [Image Toolbox – 拥有 93 个功能的开源图片编辑器，今天只介绍图片对比挑选功能\[Android\]](https://www.appinn.com/image-toolbox/ "Image Toolbox – 拥有 93 个功能的开源图片编辑器，今天只介绍图片对比挑选功能[Android]")
     
     6 月 19, 2024 2
     
-* [![Kodi v21 (Omega)发布，可能是门槛最低的家庭影音中心：集中一处播放本地视频、海报墙、自动刮削、字幕 4](https://www.appinn.com/wp-content/uploads/2024/04/Appinn-feature-images-2024-04-13T193401.913-115x115.jpg "Kodi v21 (Omega)发布，可能是门槛最低的家庭影音中心：集中一处播放本地视频、海报墙、自动刮削、字幕 4")](https://www.appinn.com/kodi-v21-omega/ "Kodi v21 (Omega)发布，可能是门槛最低的家庭影音中心：集中一处播放本地视频、海报墙、自动刮削、字幕")
+* [![Kodi v21 (Omega)发布，可能是门槛最低的家庭影音中心：集中一处播放本地视频、海报墙、自动刮削、字幕 5](https://www.appinn.com/wp-content/uploads/2024/04/Appinn-feature-images-2024-04-13T193401.913-115x115.jpg "Kodi v21 (Omega)发布，可能是门槛最低的家庭影音中心：集中一处播放本地视频、海报墙、自动刮削、字幕 5")](https://www.appinn.com/kodi-v21-omega/ "Kodi v21 (Omega)发布，可能是门槛最低的家庭影音中心：集中一处播放本地视频、海报墙、自动刮削、字幕")
     
     [Kodi v21 (Omega)发布，可能是门槛最低的家庭影音中心：集中一处播放本地视频、海报墙、自动刮削、字幕](https://www.appinn.com/kodi-v21-omega/ "Kodi v21 (Omega)发布，可能是门槛最低的家庭影音中心：集中一处播放本地视频、海报墙、自动刮削、字幕")
     
     4 月 13, 2024 0
     
-* [![Breezy Weather - 开源安卓天气预报应用，精确至1小时预报，最长15天 5](https://www.appinn.com/wp-content/uploads/2024/04/Appinn-feature-images-2024-04-11T142759.329-115x115.jpg "Breezy Weather - 开源安卓天气预报应用，精确至1小时预报，最长15天 5")](https://www.appinn.com/breezy-weather/ "Breezy Weather – 开源安卓天气预报应用，精确至1小时预报，最长15天")
-    
-    [Breezy Weather – 开源安卓天气预报应用，精确至1小时预报，最长15天](https://www.appinn.com/breezy-weather/ "Breezy Weather – 开源安卓天气预报应用，精确至1小时预报，最长15天")
-    
-    4 月 11, 2024 0
-    
 
 ### 最近 30 天的热门内容
 
-* [![CleanShot X - 专业 Mac 截图、录屏神器，双11限时 8 折优惠中 6](https://www.appinn.com/wp-content/uploads/2020/10/cleanshot-x.jpgo_-115x115.jpg "CleanShot X - 专业 Mac 截图、录屏神器，双11限时 8 折优惠中 6")](https://www.appinn.com/cleanshot-x-for-macos/ "CleanShot X – 专业 Mac 截图、录屏神器，双11限时 8 折优惠中")
-    
-    [CleanShot X – 专业 Mac 截图、录屏神器，双11限时 8 …](https://www.appinn.com/cleanshot-x-for-macos/ "CleanShot X – 专业 Mac 截图、录屏神器，双11限时 8 折优惠中")
-    
-    11 月 7, 2024 3
-    
-* [![PixPin - 截图工具：贴图、截长图、截动图、OCR 文字识别｜终身会员首次7折优惠，可激活8个设备 7](https://www.appinn.com/wp-content/uploads/2023/11/Appinn-feature-images-2023-11-21T144225.949-115x115.jpg "PixPin - 截图工具：贴图、截长图、截动图、OCR 文字识别｜终身会员首次7折优惠，可激活8个设备 7")](https://www.appinn.com/pixpin/ "PixPin – 截图工具：贴图、截长图、截动图、OCR 文字识别｜终身会员首次7折优惠，可激活8个设备")
+* [![PixPin - 截图工具：贴图、截长图、截动图、OCR 文字识别｜终身会员首次7折优惠，可激活8个设备 6](https://www.appinn.com/wp-content/uploads/2023/11/Appinn-feature-images-2023-11-21T144225.949-115x115.jpg "PixPin - 截图工具：贴图、截长图、截动图、OCR 文字识别｜终身会员首次7折优惠，可激活8个设备 6")](https://www.appinn.com/pixpin/ "PixPin – 截图工具：贴图、截长图、截动图、OCR 文字识别｜终身会员首次7折优惠，可激活8个设备")
     
     [PixPin – 截图工具：贴图、截长图、截动图、OCR 文字识别｜终身会员首次7折优惠，可激活8个设备](https://www.appinn.com/pixpin/ "PixPin – 截图工具：贴图、截长图、截动图、OCR 文字识别｜终身会员首次7折优惠，可激活8个设备")
     
     10 月 29, 2024 3
     
-* [![Follow 是什么？它不止是 RSS 阅读器，但万物皆可订阅｜2024年11月3日更新：第一轮空投开始 8](https://www.appinn.com/wp-content/uploads/2024/10/Appinn-Feature-images-2024-10-24T155053.119-115x115.jpg "Follow 是什么？它不止是 RSS 阅读器，但万物皆可订阅｜2024年11月3日更新：第一轮空投开始 8")](https://www.appinn.com/what-is-follow/ "Follow 是什么？它不止是 RSS 阅读器，但万物皆可订阅｜2024年11月3日更新：第一轮空投开始")
+* [![CleanShot X - 专业 Mac 截图、录屏神器，双11限时 8 折优惠中 7](https://www.appinn.com/wp-content/uploads/2020/10/cleanshot-x.jpgo_-115x115.jpg "CleanShot X - 专业 Mac 截图、录屏神器，双11限时 8 折优惠中 7")](https://www.appinn.com/cleanshot-x-for-macos/ "CleanShot X – 专业 Mac 截图、录屏神器，双11限时 8 折优惠中")
     
-    [Follow 是什么？它不止是 RSS 阅读器，但万物皆可订阅｜2024年11月3日更新：第一轮空投开始](https://www.appinn.com/what-is-follow/ "Follow 是什么？它不止是 RSS 阅读器，但万物皆可订阅｜2024年11月3日更新：第一轮空投开始")
+    [CleanShot X – 专业 Mac 截图、录屏神器，双11限时 8 …](https://www.appinn.com/cleanshot-x-for-macos/ "CleanShot X – 专业 Mac 截图、录屏神器，双11限时 8 折优惠中")
     
-    11 月 3, 2024 2
+    11 月 7, 2024 3
     
-* [![无需登录！轻松下载 YouTube 视频的最简单方法 9](https://www.appinn.com/wp-content/uploads/2024/11/faq-22-115x115.jpg "无需登录！轻松下载 YouTube 视频的最简单方法 9")](https://www.appinn.com/download-yt-video-use-cobalt/ "无需登录！轻松下载 YouTube 视频的最简单方法")
+* [![无需登录！轻松下载 YouTube 视频的最简单方法 8](https://www.appinn.com/wp-content/uploads/2024/11/faq-22-115x115.jpg "无需登录！轻松下载 YouTube 视频的最简单方法 8")](https://www.appinn.com/download-yt-video-use-cobalt/ "无需登录！轻松下载 YouTube 视频的最简单方法")
     
     [无需登录！轻松下载 YouTube 视频的最简单方法](https://www.appinn.com/download-yt-video-use-cobalt/ "无需登录！轻松下载 YouTube 视频的最简单方法")
     
     11 月 1, 2024 2
+    
+* [![Follow 是什么？它不止是 RSS 阅读器，但万物皆可订阅｜2024年11月3日更新：第一轮空投开始 9](https://www.appinn.com/wp-content/uploads/2024/10/Appinn-Feature-images-2024-10-24T155053.119-115x115.jpg "Follow 是什么？它不止是 RSS 阅读器，但万物皆可订阅｜2024年11月3日更新：第一轮空投开始 9")](https://www.appinn.com/what-is-follow/ "Follow 是什么？它不止是 RSS 阅读器，但万物皆可订阅｜2024年11月3日更新：第一轮空投开始")
+    
+    [Follow 是什么？它不止是 RSS 阅读器，但万物皆可订阅｜2024年11月3日更新：第一轮空投开始](https://www.appinn.com/what-is-follow/ "Follow 是什么？它不止是 RSS 阅读器，但万物皆可订阅｜2024年11月3日更新：第一轮空投开始")
+    
+    11 月 3, 2024 2
     
 * [![开源稍后阅读工具 Omnivore 被收购，并将在本月底关闭 10](https://www.appinn.com/wp-content/uploads/2024/11/Appinn-Feature-images-2024-11-05T142923.773-1-115x115.jpg "开源稍后阅读工具 Omnivore 被收购，并将在本月底关闭 10")](https://www.appinn.com/omnivore-shutting-down/ "开源稍后阅读工具 Omnivore 被收购，并将在本月底关闭")
     
