@@ -148,6 +148,8 @@ Menu
         
     * [Fruit Snacks](https://www.bettycrocker.com/products/fruit-snacks)
         
+    * [Betty Crocker™ Pancake Mix](https://www.bettycrocker.com/products/betty-crocker-pancake-mix)
+        
     * [Betty Crocker™ Pizza Crust Mix](https://www.bettycrocker.com/products/betty-crocker-pizza-mix)
         
     * [Bakeware & Kitchen Tools](https://www.bettycrocker.com/products/bakeware-and-kitchen-tools)
