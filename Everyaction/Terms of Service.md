@@ -1,6 +1,8 @@
 [Skip to Main Content](#content)
 
-[![Bonterra logo](https://www.bonterratech.com/wp-content/uploads/2024/07/logo.svg)](https://www.bonterratech.com/)
+[![Bonterra logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![Bonterra logo](https://www.bonterratech.com/wp-content/uploads/2024/07/logo.svg)](https://www.bonterratech.com/)
 
 ![Search](https://www.bonterratech.com/wp-content/themes/bonterra/_images/search-icon.svg)
 
@@ -15,6 +17,8 @@
                 * [Events + Webinars](https://www.everyaction.com/events-webinars)
                 * [News + Press](https://www.everyaction.com/news-press)
                 * [Case Studies](https://www.everyaction.com/case-studies)
+                
+                ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
                 
                 ![](https://www.bonterratech.com/wp-content/uploads/2024/10/habitat-for-humanity-of-omaha_background-photo.png-150x150.webp)
                 
@@ -56,6 +60,8 @@
                 * [Why Us?](https://www.everyaction.com/why-us)
                 * [Culture, Values + DEIB](https://www.everyaction.com/culture-values-and-deib)
                 * [Resources](https://www.everyaction.com/resource-hub)
+                
+                ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
                 
                 ![](https://www.bonterratech.com/wp-content/uploads/2024/10/bonterra-home-repair-services_header-photo.jpg-150x150.webp)
                 
@@ -176,7 +182,9 @@ Find details about how Bonterra Tech is committed to upholding human rights and 
 
 [Review the Human Rights & Modern Slavery statement](https://www.bonterratech.com/legal/human-rights-modern-slavery)
 
-[![](https://www.bonterratech.com/wp-content/uploads/2024/08/Clip-path-group-1.svg)](https://www.bonterratech.com/)
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://www.bonterratech.com/wp-content/uploads/2024/08/Clip-path-group-1.svg)](https://www.bonterratech.com/)
 
 Offices
 
@@ -212,7 +220,27 @@ Take 20 minutes to get expert answers from Bonterra about the best tools for you
 
 [Request a demo](https://www.everyaction.com/request-a-demo)
 
- [![](https://www.bonterratech.com/wp-content/uploads/2024/08/instagram.svg) Bonterra's Instagram Account](https://www.instagram.com/bonterratech/)[![](https://www.bonterratech.com/wp-content/uploads/2024/08/linkedin.svg) Bonterra's LinkedIn Account](https://www.linkedin.com/company/bonterra-tech/)[![](https://www.bonterratech.com/wp-content/uploads/2024/08/facebook.svg) Bonterra's Facebook Account](https://www.facebook.com/BonterraTech)[![](https://www.bonterratech.com/wp-content/uploads/2024/11/youtube.svg) Bonterra's YouTube Account](https://www.youtube.com/bonterratech)[![](https://www.bonterratech.com/wp-content/uploads/2024/11/X.svg) Bonterra's X Account](https://x.com/bonterratech)
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://www.bonterratech.com/wp-content/uploads/2024/08/instagram.svg)
+
+Bonterra's Instagram Account](https://www.instagram.com/bonterratech/) [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://www.bonterratech.com/wp-content/uploads/2024/08/linkedin.svg)
+
+Bonterra's LinkedIn Account](https://www.linkedin.com/company/bonterra-tech/) [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://www.bonterratech.com/wp-content/uploads/2024/08/facebook.svg)
+
+Bonterra's Facebook Account](https://www.facebook.com/BonterraTech) [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://www.bonterratech.com/wp-content/uploads/2024/11/youtube.svg)
+
+Bonterra's YouTube Account](https://www.youtube.com/bonterratech) [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://www.bonterratech.com/wp-content/uploads/2024/11/X.svg)
+
+Bonterra's X Account](https://x.com/bonterratech)
 
 [Want to partner with us?](https://www.bonterratech.com/partnerships)
 
@@ -224,5 +252,7 @@ Copyright © 2024 Bonterra. All rights reserved.
 * [NGP VAN](https://www.ngpvan.com/)
 * [Sitemap](https://www.bonterratech.com/sitemap)
 * [Terms of Use](https://www.bonterratech.com/legal/bonterra-website-terms-and-conditions)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![](https://www.bonterratech.com/wp-content/themes/bonterra/_images/bottom-logo.svg)
