@@ -85,6 +85,8 @@ All content is copyright Chris Krycho, 2019 – 2024 under a [Creative Commo
 * [Journal](https://v5.chriskrycho.com/journal/)
 * [Library](https://v5.chriskrycho.com/library/)
 * [Elsewhere](https://v5.chriskrycho.com/elsewhere/)
+* * * *
+    
 * [Archive](https://v5.chriskrycho.com/archive/)
 * * * *
     
