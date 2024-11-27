@@ -185,11 +185,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Daniel Methvin](https://cdn.returningveterans.org/images/honor/Daniel_Methvin_Stott_donor.jpg)  
+![Lane Wickham Barton Jr.](https://cdn.returningveterans.org/images/honor/Battle_of_the_Bulge.jpg)  
 
-**In Memory of Daniel Methvin**  
+**In Memory of Lane Wickham Barton Jr.**  
 United States Army  
-Submitted by Anonymous](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+Submitted by Sarah Smith](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -232,5 +232,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 11/27/24 - 1:24:29  
+Printed 11/27/24 - 7:28:39  
 © 2024 Returning Veterans Project
