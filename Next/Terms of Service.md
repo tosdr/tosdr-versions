@@ -1,6 +1,6 @@
 5.39.5
 
-1732696250452
+1732718701705
 
                                              
 
@@ -12,7 +12,7 @@ en
 
 3.16.0
 
-1732696549821
+1732718474445
 
      Next Terms & Conditions | T&C's | Next Official Site                                  
 
@@ -22,7 +22,7 @@ en
 
 cutaway22
 
-1732696781421
+1732717671617
 
 You need to enable JavaScript to run this app.
 
@@ -548,13 +548,6 @@ Please note the redemption of the 10% welcome offer to credit applies only to Ne
 ### Up to £100 off Selected Dyson Promotion
 
 * Up to £100 off on selected Dyson products.
-* Discounted price visible on product listing page and product already includes saving.
-* Item will be added to basket at discounted price.
-* Offer available while stocks last.
-
-### 40% off on Selected Bath & Body Works Candles Promotion
-
-* Up to 40% off on selected Bath & Body Works three wick candles.
 * Discounted price visible on product listing page and product already includes saving.
 * Item will be added to basket at discounted price.
 * Offer available while stocks last.
@@ -3038,7 +3031,7 @@ You need to enable JavaScript to run this app.
 
 3.16.0
 
-1732697046530
+1732718904956
 
 ### Our Social Networks
 
