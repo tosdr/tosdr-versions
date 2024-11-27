@@ -6,8 +6,6 @@ Help me look for content related to…
 
 Search for:  Search
 
-WEBINAR: _Are You Prepared for NIS2?_ on December 4, 2024 [Learn More](https://www.aeris.com/news-and-press/webinar-are-you-prepared-for-nis2/) 
-
 * [News & Press](https://www.aeris.com/news-press/ "News & Press")
 * [Resources](https://www.aeris.com/resource-library/ "Resources")
 * [Support](https://www.aeris.com/services-and-support/ "Support")
@@ -161,7 +159,7 @@ Sign up to receive weekly roundups of the latest news and trends with IoT Connec
 
 Email Address(Required)
 
-Email
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
