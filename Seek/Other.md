@@ -200,7 +200,7 @@ Classifications
 * [Government & Defence](https://www.seek.com.au/jobs-in-government-defence)
 * [Healthcare & Medical](https://www.seek.com.au/jobs-in-healthcare-medical)
 * [Sales](https://www.seek.com.au/jobs-in-sales)
-View all⁠
+* View all⁠
 
 * [Accounting](https://www.seek.com.au/jobs-in-accounting)
 * [Administration & Office Support](https://www.seek.com.au/jobs-in-administration-office-support)
