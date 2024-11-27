@@ -1,5 +1,3 @@
-[Breaking: Georgia Supreme Court to hear appeal of ‘shaken baby’ murder case](https://www.ajc.com/news/atlanta-news/top-georgia-court-to-consider-appeal-of-man-convicted-of-killing-infant-son/XIU74HZBQBG75HFK3LLAISRZYI/)
-
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1836)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1836)](https://www.ajc.com/)
 
 Log In
@@ -16,7 +14,6 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
-* [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-the-end-of-the-never-ending-trial/MMFXVYDPGFFCHJ5ZBIDD55CSS4/)
 * [Politically Georgia](https://www.ajc.com/politics/politically-georgia/)
 * [Holiday Guide](https://www.ajc.com/things-to-do/atlanta-winter-guide/)
 * [UATL](https://www.ajc.com/uatl/)
