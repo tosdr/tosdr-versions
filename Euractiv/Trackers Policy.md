@@ -111,6 +111,16 @@ Most recent
 
 [27-11-2024
 
+NGO says record number of fossil fuel, chemical lobbyists at global plastics talks](https://www.euractiv.com/section/eet/news/ngo-says-record-number-of-fossil-fuel-chemical-lobbyists-at-global-plastics-talks/)[27-11-2024
+
+VDL 2.0: EU Parliament approves new Commission](https://www.euractiv.com/section/politics/news/vdl-2-0-eu-parliament-approves-new-commission/)[27-11-2024
+
+EU Startups Alliance prepares for formal pan-EU status](https://www.euractiv.com/section/tech/news/eu-startups-alliance-prepares-for-formal-pan-eu-status/)[27-11-2024
+
+EU countries ready to fund defence products despite US use restrictions](https://www.euractiv.com/section/global-europe/news/eu-countries-ready-to-fund-defence-products-despite-us-use-restrictions/)[27-11-2024
+
+Georgian ruling party nominates anti-West former football player for president](https://www.euractiv.com/section/global-europe/news/georgian-ruling-party-nominates-anti-west-former-football-player-for-president/)[27-11-2024
+
 Poland, France join forces against EU-Mercosur trade deal](https://www.euractiv.com/section/politics/news/the-capitals-poland-france-join-forces-against-eu-mercosur-trade-deal/)[27-11-2024
 
 Bulgaria on verge of holding eighth election in just four years](https://www.euractiv.com/section/politics/news/bulgaria-on-verge-of-holding-eighth-election-in-just-four-years/)[27-11-2024
@@ -119,17 +129,7 @@ European Commission approves Portugal’s 2025-2028 budget plan](https://www.eur
 
 European Commission approves Spain’s new fiscal plan](https://www.euractiv.com/section/politics/news/european-commission-approves-spains-new-fiscal-plan/)[27-11-2024
 
-G7 states back Middle East ceasefire, omit debate on ICC arrest warrants](https://www.euractiv.com/section/politics/news/g7-states-back-middle-east-ceasefire-omit-debate-on-icc-arrest-warrants/)[27-11-2024
-
-Russia condemns ‘irresponsible’ talk of nuclear weapons for Ukraine](https://www.euractiv.com/section/global-europe/news/russia-condemns-irresponsible-talk-of-nuclear-weapons-for-ukraine/)[27-11-2024
-
-Habeck admits coalition failure in key German industries lagging](https://www.euractiv.com/section/politics/news/habeck-admits-coalition-failure-in-key-german-industries-lagging/)[27-11-2024
-
-‘Undemocratic’ snap elections have Germany’s small EU delegations fear for their future](https://www.euractiv.com/section/politics/news/undemocratic-snap-elections-have-germanys-small-eu-delegations-fear-for-their-future/)[27-11-2024
-
-‘I’m not the one who wanted them’: Gentiloni criticises new EU fiscal rules](https://www.euractiv.com/section/economy-jobs/news/im-not-the-one-who-wanted-them-gentiloni-criticises-new-eu-fiscal-rules/)[27-11-2024
-
-Baltics Sea region PMs meet to discuss regional security ahead of Trump’s return](https://www.euractiv.com/section/politics/news/baltics-sea-region-pms-meet-to-discuss-regional-security-ahead-of-trumps-return/)
+G7 states back Middle East ceasefire, omit debate on ICC arrest warrants](https://www.euractiv.com/section/politics/news/g7-states-back-middle-east-ceasefire-omit-debate-on-icc-arrest-warrants/)
 
 ###### Advertisement
 
