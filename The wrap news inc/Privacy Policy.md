@@ -85,9 +85,9 @@ Trending Topics:
 
 * [Holding On in Hollywood](https://www.thewrap.com/tag/holding-on-in-hollywood/)
 
-Cyber Week Offer: 50% Off Wrap PRO Subscription!
+Black Friday Sale: 50% Off WrapPRO Subscription
 
-[Subscribe](https://www.thewrap.com/join-pro/?utm_source=zephr&utm_medium=banner&utm_campaign=Cyber_Sale_Banner&utm_id=112223)
+[Subscribe](https://www.thewrap.com/join-pro/)
 
 [](#)
 
