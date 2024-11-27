@@ -134,8 +134,6 @@ Sign in through
 
 [Cart](https://www.lttstore.com/cart)
 
-/ FREE SHIPPING
-
  
 
 Back to shop
