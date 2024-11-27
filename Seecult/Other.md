@@ -314,11 +314,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![Gott liebt die Serben, Rasa Todosijevic](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/ras-todosijevic/svetlost-i-tama-simbola/paviljon-srbije/izlozba-svetlost-i-tama-simbola/bog-voli-srbe.jpg?itok=zA-ktDkk)](http://seecult.org/galerija/galerija-umetnika/rasa-todosijevic/svetlost-i-tama-simbola-light-and-darkness-symbols-30)
+[![Zoran Popovic's solo exhibition 'Time Based Works', Artget Gallery, Belgrade Cultural Center, 2007](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-time-based-works/vremenski-radovi/instalacija-rada-mentalna-umetnost-24-bond-street-new-york-new-york-jul-1974.jpg?itok=so3Wel_s "Solo exhibition of Zoran Popovic, 'Time Based Works', Artget Gallery, Belgrade Cultural Center, 2007 ")](http://seecult.org/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-time-based-works-vremenski-radovi)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/marah.jpg?itok=GS3BcvHS)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/jammin.jpg?itok=uRCEB6sW)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
