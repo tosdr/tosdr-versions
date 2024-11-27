@@ -89,10 +89,6 @@ Contact Us Menu
 ---------------
 
 * [Contact Us](https://www.anthology.com/contact-us)
-    * [Connect with a sales representative](https://www.anthology.com/contact-us/sales)
-    * [I have a support issue](https://www.anthology.com/community-and-support)
-    * [Access the Anthology User Portal](https://community.anthology.com/home)
-    * [All other inquiries](https://www.anthology.com/contact-us/general-inquiry)
 
 Region Selector Menu
 --------------------
@@ -112,10 +108,6 @@ Contact Us Menu
 ---------------
 
 * [Contact Us](https://www.anthology.com/contact-us)
-    * [Connect with a sales representative](https://www.anthology.com/contact-us/sales)
-    * [I have a support issue](https://www.anthology.com/community-and-support)
-    * [Access the Anthology User Portal](https://community.anthology.com/home)
-    * [All other inquiries](https://www.anthology.com/contact-us/general-inquiry)
 
 Region Selector Menu
 --------------------
@@ -508,10 +500,6 @@ Contact Us Menu
 ---------------
 
 * [Contact Us](https://www.anthology.com/contact-us)
-    * [Connect with a sales representative](https://www.anthology.com/contact-us/sales)
-    * [I have a support issue](https://www.anthology.com/community-and-support)
-    * [Access the Anthology User Portal](https://community.anthology.com/home)
-    * [All other inquiries](https://www.anthology.com/contact-us/general-inquiry)
 
 Region Selector Menu
 --------------------
