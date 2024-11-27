@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Mega Millions jackpot lottery grows to $514 million: When is the next drawing?](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-1297834427.jpg?ve=1&tl=1)
+ [![Which came first, the chicken or the egg? We may have an answer](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-931846248.jpg?ve=1&tl=1)
 
- ![Mega Millions jackpot lottery grows to $514 million: When is the next drawing?](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-1297834427.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mega-millions-jackpot-lottery-514-million-when-is-next-drawing)
+ ![Which came first, the chicken or the egg? We may have an answer](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-931846248.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/chicken-or-egg-first-study)
 
-### [Mega Millions jackpot lottery grows to $514 million: When is the next drawing?](https://www.fox4news.com/news/mega-millions-jackpot-lottery-514-million-when-is-next-drawing)
+### [Which came first, the chicken or the egg? We may have an answer](https://www.fox4news.com/news/chicken-or-egg-first-study)
 
- [![Motorcyclist hits police car on Dallas highway](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/112624-north-central-expy-accident-kdfweme003_22_0_00.15.25.16.jpg?ve=1&tl=1)
+ [![3 Americans released from China after years of imprisonment](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/mark-swidan-release.jpg?ve=1&tl=1)
 
- ![Motorcyclist hits police car on Dallas highway](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/112624-north-central-expy-accident-kdfweme003_22_0_00.15.25.16.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/motorcyclist-hits-police-car-dallas-highway)
+ ![3 Americans released from China after years of imprisonment](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/mark-swidan-release.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/americans-released-china-years-imprisonment)
 
-### [Motorcyclist hits police car on Dallas highway](https://www.fox4news.com/news/motorcyclist-hits-police-car-dallas-highway)
+### [3 Americans released from China after years of imprisonment](https://www.fox4news.com/news/americans-released-china-years-imprisonment)
 
- [![Dallas police looking to identify suspect in deadly shooting](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/suspect-south-dallas.png?ve=1&tl=1)
+ [![Arlington police fatally shoot man with knife involved in motel room fight](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/v-arlington-collins-st-ois-5a_00.00.02.48.jpg?ve=1&tl=1)
 
- ![Dallas police looking to identify suspect in deadly shooting](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/suspect-south-dallas.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/south-dallas-shooting-suspect)
+ ![Arlington police fatally shoot man with knife involved in motel room fight](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/v-arlington-collins-st-ois-5a_00.00.02.48.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/arlington-police-fatally-shoot-man-knife)
 
-### [Dallas police looking to identify suspect in deadly shooting](https://www.fox4news.com/news/south-dallas-shooting-suspect)
+### [Arlington police fatally shoot man with knife involved in motel room fight](https://www.fox4news.com/news/arlington-police-fatally-shoot-man-knife)
 
- [![Geomagnetic Storm Watch issued for Thanksgiving, Black Friday: Where Northern Lights could be visible](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/northern-lights-2.jpg?ve=1&tl=1)
+ [![Fort Worth police respond to threat against Trump Ag. Secretary pick Brooke Rollins](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/gettyimages-1242253406.jpg?ve=1&tl=1)
 
- ![Geomagnetic Storm Watch issued for Thanksgiving, Black Friday: Where Northern Lights could be visible](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/northern-lights-2.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/where-northern-lights-could-be-visible-thanksgiving-black-friday-2024)
+ ![Fort Worth police respond to threat against Trump Ag. Secretary pick Brooke Rollins](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/gettyimages-1242253406.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-brooke-rollins-trump-cabinet-nominees-threatened)
 
-### [Geomagnetic Storm Watch issued for Thanksgiving, Black Friday: Where Northern Lights could be visible](https://www.fox4news.com/news/where-northern-lights-could-be-visible-thanksgiving-black-friday-2024)
+### [Fort Worth police respond to threat against Trump Ag. Secretary pick Brooke Rollins](https://www.fox4news.com/news/fort-worth-brooke-rollins-trump-cabinet-nominees-threatened)
 
- [![North Texas woman inspired by community's support gives back with Thanksgiving meals](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/p-amelia-thanksgiving-meal-giveaway-9p_00.00.48.14.jpg?ve=1&tl=1)
+ [![These retailers will be closed on Thanksgiving this year](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/shoppers-at-walmart.jpg?ve=1&tl=1)
 
- ![North Texas woman inspired by community's support gives back with Thanksgiving meals](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/p-amelia-thanksgiving-meal-giveaway-9p_00.00.48.14.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/north-texas-woman-inspired-communitys-support-gives-back-thanksgiving-meals)
+ ![These retailers will be closed on Thanksgiving this year](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/shoppers-at-walmart.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/stores-closed-thanksgiving-2024-black-friday)
 
-### [North Texas woman inspired by community's support gives back with Thanksgiving meals](https://www.fox4news.com/news/north-texas-woman-inspired-communitys-support-gives-back-thanksgiving-meals)
+### [These retailers will be closed on Thanksgiving this year](https://www.fox4news.com/news/stores-closed-thanksgiving-2024-black-friday)
 
 ###### [News](https://www.fox4news.com/news)
 
