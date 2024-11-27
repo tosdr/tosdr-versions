@@ -384,7 +384,7 @@ weiter
 
 Suchen
 
-![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v123175144.svg)
+![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v123254121.svg)
 
 1. [Startweiter](https://www.test.de/)
 2. Daten­schutz­erklärung
@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Identitäts­miss­brauch: Betrug bei spar-finanzen](https://www.test.de/Identitaetsmissbrauch-Betrug-bei-spar-finanzen-6167927-0/ "Identitätsmissbrauch - Betrug bei spar-finanzen")
-* [Daten­schutz im Test: Was Laut­sprecher-Apps ausplaudern](https://www.test.de/Datenschutz-im-Test-Was-Lautsprecher-Apps-ausplaudern-6126264-0/ "Datenschutz im Test - Was Lautsprecher-Apps ausplaudern")
-* [Camping-Gasflaschen: Anschluss verpasst](https://www.test.de/Camping-Gasflaschen-Anschluss-verpasst-6024548-0/ "Camping-Gasflaschen - Anschluss verpasst")
-* [Amazon Prime Video: Wie Sie 2,99 Euro je Monat zurück­fordern](https://www.test.de/Amazon-Prime-Videos-Werbung-6083427-0/ "Amazon Prime Video - Wie Sie 2,99 Euro je Monat zurückfordern")
-* [Verpackungs­ärger: Short­bread von The Irish Short­bread Company](https://www.test.de/Verpackungsaerger-Shortbread-von-The-Irish-Shortbread-Company-5992223-0/ "Verpackungsärger - Shortbread von The Irish Shortbread Company")
-* [Fitness-Apps im Test: Die richtige App fürs Training](https://www.test.de/Fitness-Apps-im-Test-6010207-0/ "Fitness-Apps im Test - Die richtige App fürs Training")
+* [Neben­wirkung von Medikamenten: Von harmlos bis lebens­gefähr­lich](https://www.test.de/Nebenwirkung-von-Medikamenten-Von-harmlos-bis-lebensgefaehrlich-5996584-0/ "Nebenwirkung von Medikamenten - Von harmlos bis lebensgefährlich")
+* [Unter­nehmens­beteiligung: Riskante Beteiligung auf Raten](https://www.test.de/Unternehmensbeteiligung-Riskante-Beteiligung-auf-Raten-5978862-0/ "Unternehmensbeteiligung - Riskante Beteiligung auf Raten")
+* [Shrink­flation: Die versteckte Preis­erhöhung](https://www.test.de/Shrinkflation-So-laeuft-die-versteckte-Preiserhoehung-6031412-0/ "Shrinkflation - Die versteckte Preiserhöhung")
+* [Kinder-Smartwatches im Test: Peilsender am Hand­gelenk](https://www.test.de/Kinder-Smartwatch-Test-6041356-0/ "Kinder-Smartwatches im Test - Peilsender am Handgelenk")
+* [Kranken­versicherung für Studierende: Zum Uni-Start richtig kranken­versichert](https://www.test.de/Krankenversicherung-fuer-Studierende-6057464-0/ "Krankenversicherung für Studierende - Zum Uni-Start richtig krankenversichert")
+* [Energie sparen: Die Stromsparbox ist nutzlos](https://www.test.de/test-warnt-Nutzlose-Stromsparbox-5956815-0/ "Energie sparen - Die Stromsparbox ist nutzlos")
 
 Weitere Informationen
 
@@ -3871,12 +3871,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Identitäts­miss­brauch: Betrug bei spar-finanzen](https://www.test.de/Identitaetsmissbrauch-Betrug-bei-spar-finanzen-6167927-0/ "Identitätsmissbrauch - Betrug bei spar-finanzen")
-* [Daten­schutz im Test: Was Laut­sprecher-Apps ausplaudern](https://www.test.de/Datenschutz-im-Test-Was-Lautsprecher-Apps-ausplaudern-6126264-0/ "Datenschutz im Test - Was Lautsprecher-Apps ausplaudern")
-* [Camping-Gasflaschen: Anschluss verpasst](https://www.test.de/Camping-Gasflaschen-Anschluss-verpasst-6024548-0/ "Camping-Gasflaschen - Anschluss verpasst")
-* [Amazon Prime Video: Wie Sie 2,99 Euro je Monat zurück­fordern](https://www.test.de/Amazon-Prime-Videos-Werbung-6083427-0/ "Amazon Prime Video - Wie Sie 2,99 Euro je Monat zurückfordern")
-* [Verpackungs­ärger: Short­bread von The Irish Short­bread Company](https://www.test.de/Verpackungsaerger-Shortbread-von-The-Irish-Shortbread-Company-5992223-0/ "Verpackungsärger - Shortbread von The Irish Shortbread Company")
-* [Fitness-Apps im Test: Die richtige App fürs Training](https://www.test.de/Fitness-Apps-im-Test-6010207-0/ "Fitness-Apps im Test - Die richtige App fürs Training")
+* [Neben­wirkung von Medikamenten: Von harmlos bis lebens­gefähr­lich](https://www.test.de/Nebenwirkung-von-Medikamenten-Von-harmlos-bis-lebensgefaehrlich-5996584-0/ "Nebenwirkung von Medikamenten - Von harmlos bis lebensgefährlich")
+* [Unter­nehmens­beteiligung: Riskante Beteiligung auf Raten](https://www.test.de/Unternehmensbeteiligung-Riskante-Beteiligung-auf-Raten-5978862-0/ "Unternehmensbeteiligung - Riskante Beteiligung auf Raten")
+* [Shrink­flation: Die versteckte Preis­erhöhung](https://www.test.de/Shrinkflation-So-laeuft-die-versteckte-Preiserhoehung-6031412-0/ "Shrinkflation - Die versteckte Preiserhöhung")
+* [Kinder-Smartwatches im Test: Peilsender am Hand­gelenk](https://www.test.de/Kinder-Smartwatch-Test-6041356-0/ "Kinder-Smartwatches im Test - Peilsender am Handgelenk")
+* [Kranken­versicherung für Studierende: Zum Uni-Start richtig kranken­versichert](https://www.test.de/Krankenversicherung-fuer-Studierende-6057464-0/ "Krankenversicherung für Studierende - Zum Uni-Start richtig krankenversichert")
+* [Energie sparen: Die Stromsparbox ist nutzlos](https://www.test.de/test-warnt-Nutzlose-Stromsparbox-5956815-0/ "Energie sparen - Die Stromsparbox ist nutzlos")
 
 Weitere spannende Themen
 
@@ -3891,12 +3891,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Identitäts­miss­brauch: Betrug bei spar-finanzen](https://www.test.de/Identitaetsmissbrauch-Betrug-bei-spar-finanzen-6167927-0/ "Identitätsmissbrauch - Betrug bei spar-finanzen")
-* [Daten­schutz im Test: Was Laut­sprecher-Apps ausplaudern](https://www.test.de/Datenschutz-im-Test-Was-Lautsprecher-Apps-ausplaudern-6126264-0/ "Datenschutz im Test - Was Lautsprecher-Apps ausplaudern")
-* [Camping-Gasflaschen: Anschluss verpasst](https://www.test.de/Camping-Gasflaschen-Anschluss-verpasst-6024548-0/ "Camping-Gasflaschen - Anschluss verpasst")
-* [Amazon Prime Video: Wie Sie 2,99 Euro je Monat zurück­fordern](https://www.test.de/Amazon-Prime-Videos-Werbung-6083427-0/ "Amazon Prime Video - Wie Sie 2,99 Euro je Monat zurückfordern")
-* [Verpackungs­ärger: Short­bread von The Irish Short­bread Company](https://www.test.de/Verpackungsaerger-Shortbread-von-The-Irish-Shortbread-Company-5992223-0/ "Verpackungsärger - Shortbread von The Irish Shortbread Company")
-* [Fitness-Apps im Test: Die richtige App fürs Training](https://www.test.de/Fitness-Apps-im-Test-6010207-0/ "Fitness-Apps im Test - Die richtige App fürs Training")
+* [Neben­wirkung von Medikamenten: Von harmlos bis lebens­gefähr­lich](https://www.test.de/Nebenwirkung-von-Medikamenten-Von-harmlos-bis-lebensgefaehrlich-5996584-0/ "Nebenwirkung von Medikamenten - Von harmlos bis lebensgefährlich")
+* [Unter­nehmens­beteiligung: Riskante Beteiligung auf Raten](https://www.test.de/Unternehmensbeteiligung-Riskante-Beteiligung-auf-Raten-5978862-0/ "Unternehmensbeteiligung - Riskante Beteiligung auf Raten")
+* [Shrink­flation: Die versteckte Preis­erhöhung](https://www.test.de/Shrinkflation-So-laeuft-die-versteckte-Preiserhoehung-6031412-0/ "Shrinkflation - Die versteckte Preiserhöhung")
+* [Kinder-Smartwatches im Test: Peilsender am Hand­gelenk](https://www.test.de/Kinder-Smartwatch-Test-6041356-0/ "Kinder-Smartwatches im Test - Peilsender am Handgelenk")
+* [Kranken­versicherung für Studierende: Zum Uni-Start richtig kranken­versichert](https://www.test.de/Krankenversicherung-fuer-Studierende-6057464-0/ "Krankenversicherung für Studierende - Zum Uni-Start richtig krankenversichert")
+* [Energie sparen: Die Stromsparbox ist nutzlos](https://www.test.de/test-warnt-Nutzlose-Stromsparbox-5956815-0/ "Energie sparen - Die Stromsparbox ist nutzlos")
 
 Neueste Tests
 
@@ -3909,12 +3909,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Identitäts­miss­brauch: Betrug bei spar-finanzen](https://www.test.de/Identitaetsmissbrauch-Betrug-bei-spar-finanzen-6167927-0/ "Identitätsmissbrauch - Betrug bei spar-finanzen")
-* [Daten­schutz im Test: Was Laut­sprecher-Apps ausplaudern](https://www.test.de/Datenschutz-im-Test-Was-Lautsprecher-Apps-ausplaudern-6126264-0/ "Datenschutz im Test - Was Lautsprecher-Apps ausplaudern")
-* [Camping-Gasflaschen: Anschluss verpasst](https://www.test.de/Camping-Gasflaschen-Anschluss-verpasst-6024548-0/ "Camping-Gasflaschen - Anschluss verpasst")
-* [Amazon Prime Video: Wie Sie 2,99 Euro je Monat zurück­fordern](https://www.test.de/Amazon-Prime-Videos-Werbung-6083427-0/ "Amazon Prime Video - Wie Sie 2,99 Euro je Monat zurückfordern")
-* [Verpackungs­ärger: Short­bread von The Irish Short­bread Company](https://www.test.de/Verpackungsaerger-Shortbread-von-The-Irish-Shortbread-Company-5992223-0/ "Verpackungsärger - Shortbread von The Irish Shortbread Company")
-* [Fitness-Apps im Test: Die richtige App fürs Training](https://www.test.de/Fitness-Apps-im-Test-6010207-0/ "Fitness-Apps im Test - Die richtige App fürs Training")
+* [Neben­wirkung von Medikamenten: Von harmlos bis lebens­gefähr­lich](https://www.test.de/Nebenwirkung-von-Medikamenten-Von-harmlos-bis-lebensgefaehrlich-5996584-0/ "Nebenwirkung von Medikamenten - Von harmlos bis lebensgefährlich")
+* [Unter­nehmens­beteiligung: Riskante Beteiligung auf Raten](https://www.test.de/Unternehmensbeteiligung-Riskante-Beteiligung-auf-Raten-5978862-0/ "Unternehmensbeteiligung - Riskante Beteiligung auf Raten")
+* [Shrink­flation: Die versteckte Preis­erhöhung](https://www.test.de/Shrinkflation-So-laeuft-die-versteckte-Preiserhoehung-6031412-0/ "Shrinkflation - Die versteckte Preiserhöhung")
+* [Kinder-Smartwatches im Test: Peilsender am Hand­gelenk](https://www.test.de/Kinder-Smartwatch-Test-6041356-0/ "Kinder-Smartwatches im Test - Peilsender am Handgelenk")
+* [Kranken­versicherung für Studierende: Zum Uni-Start richtig kranken­versichert](https://www.test.de/Krankenversicherung-fuer-Studierende-6057464-0/ "Krankenversicherung für Studierende - Zum Uni-Start richtig krankenversichert")
+* [Energie sparen: Die Stromsparbox ist nutzlos](https://www.test.de/test-warnt-Nutzlose-Stromsparbox-5956815-0/ "Energie sparen - Die Stromsparbox ist nutzlos")
 
 Stiftung Warentest
 
