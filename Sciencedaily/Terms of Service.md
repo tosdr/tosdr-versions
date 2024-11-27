@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**November 26, 2024**
+**November 27, 2024**
 
 * * *
 
@@ -249,11 +249,11 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
+[Chronic Illness](https://www.sciencedaily.com/news/health_medicine/chronic_illness/)
+
+[Brain-Computer Interfaces](https://www.sciencedaily.com/news/mind_brain/brain-computer_interfaces/)
+
 [Hypertension](https://www.sciencedaily.com/news/health_medicine/hypertension/)
-
-[Gastrointestinal Problems](https://www.sciencedaily.com/news/health_medicine/gastrointestinal_problems/)
-
-[Dementia](https://www.sciencedaily.com/news/mind_brain/dementia/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
@@ -261,15 +261,15 @@ this week
 
 [Computers and Internet](https://www.sciencedaily.com/news/computers_math/computers_and_internet/)
 
-[Medical Technology](https://www.sciencedaily.com/news/matter_energy/medical_technology/)
+[Internet](https://www.sciencedaily.com/news/computers_math/internet/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Climate](https://www.sciencedaily.com/news/earth_climate/climate/)
-
 [Cell Biology](https://www.sciencedaily.com/news/plants_animals/cell_biology/)
 
-[Floods](https://www.sciencedaily.com/news/earth_climate/floods/)
+[Molecular Biology](https://www.sciencedaily.com/news/plants_animals/molecular_biology/)
+
+[Climate](https://www.sciencedaily.com/news/earth_climate/climate/)
 
   
 
