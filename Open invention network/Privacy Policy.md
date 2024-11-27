@@ -210,45 +210,45 @@ Welcome to our Newest Members!
 
 Testimonials
 
-> We remain focused on leveraging the best technologies for our platforms and are excited to join the Open Invention Network (OIN), that supports protection from patent infringement claims for the greater good of the wider innovation community.  
+> Infosys is actively taking open source, and open source based products, to all our enterprise customers, and so we are extremely excited to become part of OIN, and we encourage others to join OIN as well to support this very important initiative.  
 
-Josh DeathIP & Patentable Innovations LeadTD Bank
+Navin BudhirajaSVP, Head of Architecture & TechnologyInfosys
 
-> We view OIN as one of the key methods through which open source leaders and innovators can deter patent aggression. We are committed to freedom of action in open source, and have noted OIN’s efforts to actively defend and enable the Linux ecosystem.  
+> For more than two decades, we have been a steadfast supporter of open source and the numerous benefits it provides. We have and continue to support the OIN and the Linux Foundation. IBM and Red Hat believe this is a key initiative to significantly deter non-practicing entities from asserting patents against the open source community.  
 
-Jane SilberCEOCanonical
+Todd MooreCTO, Developer EcosystemsIBM
 
-> Foxconn continuously looks for ways to integrate advances into the design and manufacturing of smart consumer electronics, cloud and networking equipment, computing devices and components, among others. We are pleased to join the Open Invention Network and support its role in protecting open source.
+> NewLink has been committed to the deep integration of digitalization and the energy industry, and continues to explore the best technologies to improve energy utilization in order to better serve partners across the industry chain. Linux systems and open source technologies provide support for digitalization, and we appreciate OIN’s contribution to reducing the risk of open source software patents around the world.  We value the protection of intellectual property rights and also respect the in… [Read more](https://openinventionnetwork.com/testimonial/naas-technology-newlink/ "Complete testimonial by Mingyi Jin")
 
-Mick LimDirector, Foxconn IP Affairs Division
+Mingyi JinVP & General Legal Counsel at NewLink
 
-> For the past several years we have increased our involvement in, and contributions to, the open source community. We are pleased to stand with OIN, the Linux Foundation and IBM in protecting Linux and other important OSS technologies against patent aggression.  
+> Consistent with OIN’s mission to provide freedom of action in Linux, we believe it is important to reinforce the principle that Intellectual Property (IP) enforcement should be conducted in a manner that is rational and in consonance with the collaborative process that occurs in Open Source Software (OSS). We encourage all of our members to provide their unequivocal support for the GPL Cooperation Commitment.  
 
-Erich AndersonCorporate VP & Chief IP CounselMicrosoft
+Keith BergeltCEOOpen Invention Network
 
-> Spurious claims from Patent Assertion Entities divert resources and investment away from true innovation and collaboration. We also recognize that a modern approach to technology development and innovation requires a level playing field around use of open source software. With membership of LOT and OIN, we are pleased to contribute to and extend the growing global community working together to reduce the PAE threat and lower barriers to use of open source technologies.  
+> OIN protects the open-source community through a patent cross-license for Linux and related open-source technologies. The license is free and available to companies, organizations, and individual developers if they agree not to assert their own patents against Linux.  
 
-Lee BraineManaging Director, Chief Technology OfficeBarclays
+Chris DiBonaDirector of Open SourceGoogle
 
-> Over its 21 years existence, OVHcloud has developed a strong vision on how innovation is critical to empower cloud users with a relentless effort on open source and open standards. Joining OIN is a strong asset to keep on developing our open innovation roadmap and taking it to the community.  
+> Linux and open source are driving innovation in cloud and mobile computing, and emerging technologies such as the Internet of Things. These are developments that are very close to our hearts at Sage. We applaud the Open Invention Network’s efforts to promote openness and innovation for the benefit of the technical community and our wider society and would encourage our partners to support their work.  
 
-Miroslaw KlabaCo-founder & VP of EngineeringOVHcloud
+Klaus-Michael VogelbergChief Technology OfficerSage
+
+> This move (regarding Huawei’s OIN membership demonstrates that joining OIN has become a no-brainer for any product company. Setting aside the patent trolls, who would never have an incentive to join, no one is asserting patents against Linux anymore. Waging a patent war against a popular open-source project like Linux is bad for business. Of course, the OIN definition of Linux is far broader than the kernel. Even so, the OIN pool protects the basic infrastructure of the web, and no serious pro… [Read more](https://openinventionnetwork.com/testimonial/omelveny-myers/ "Complete testimonial by Heather Meeker")
+
+Heather MeekerPartnerO'Melveny & Myers
+
+> Companies building products using open source technologies must help protect open source communities from threats posed by abusers of low quality patents.We applaud the innovative approach taken by the OS Zone and call on other companies to support solutions that protect open source innovation from targeted threats.
+
+MicrosoftJustin Colannino, Associate General Counsel for Open Source at Microsoft
 
 > Open source technology, especially Linux, has led to profound increases in capabilities across a number of key industries, while increasing overall product and service efficiency. By joining Open Invention Network, we are demonstrating our continued commitment to innovation, and supporting it with patent non-aggression in Linux.  
 
 Hideki SanatakeExecutive Officer, Deputy Group Executive of Corporate Intellectual Properties & LegalCanon
 
-> UNISOC is committed to the independent development and design of core chips in the field of mobile communications and AIoT, and Linux and open source software are the key elements of our technology development. By joining the OIN community, Zhanrui demonstrates its strong commitment to innovation and will continue to support patent protection for projects such as Linux.  
+> We continuously look for ways to integrate the best technologies in our appliances, which helps to shape living for the better. It also helps us achieve our goal of continuous improvement in appliance sustainability. We are pleased to join the Open Invention Network and support its role in protecting open source software.
 
-Yang JiejingHead of Legal DepartmentUNISOC
-
-> _We are incredibly focused on pleasing our customers. One of the most effective ways to do that is to develop the systems and technologies that enable our customers to innovate. Building and leveraging open technologies enables businesses to more easily integrate their solutions — while empowering them to focus more of their resources in the powerful, distinguishing technologies that customers pursue. We are pleased to be part of the OIN community protecting open projects that encourage innovat… [Read more](https://www.openinventionnetwork.com/testimonial/tokyo-electron-device/ "Complete testimonial by Kazuki Shinoda")_
-
-Kazuki ShinodaSVP, Tokyo Electron Device, Ltd.
-
-> For some time, Groupe Renault has invested in developing the innovations and technologies that will enable sustainable transportation that excels in urban and rural environments and brings connected services in the vehicle. With our rapid pace of development coupled with our passion for precision, quality and interoperability, we see leveraging open source software as an important part of our strategy.  
-
-Groupe Renault
+ElectroluxFabio Albanese, Head of Engineering, Connected Electronics Platform
 
 [![Open Invention Network](https://openinventionnetwork.com/wp-content/uploads/2024/01/oin-website-logo.png)](https://openinventionnetwork.com/)
 
@@ -262,7 +262,7 @@ Your Name\*
 
 Email\*
 
-Phone
+Name
 
 This field is for validation purposes and should be left unchanged.
 
