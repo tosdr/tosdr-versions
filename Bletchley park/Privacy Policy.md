@@ -20,6 +20,11 @@ GPNQHZ987
 
 Type above to decrypt our story...
 
+Road closure
+------------
+
+An unplanned road closure in Sherwood Drive may affect your journey to us, please note our SatNav postcode is **MK3 6DS** please use your SatNav to direct you around the closure to approach from the Whalley Drive direction.
+
 Back
 
 * [Tickets](https://bletchleypark.org.uk/book-now/)
