@@ -23,31 +23,31 @@
     * [Featured](#nfeatured)
     * [Latest](#nlatest)
     
-    * [![Hackers breach US firm over Wi-Fi from Russia in 'Nearest Neighbor Attack'](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Hackers breach US firm over Wi-Fi from Russia in 'Nearest Neighbor Attack'](https://www.bleepingcomputer.com/news/security/hackers-breach-us-firm-over-wi-fi-from-russia-in-nearest-neighbor-attack/)
-    * [![Over 2,000 Palo Alto firewalls hacked using recently patched bugs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Over 2,000 Palo Alto firewalls hacked using recently patched bugs](https://www.bleepingcomputer.com/news/security/over-2-000-palo-alto-firewalls-hacked-using-recently-patched-bugs/)
-    * [![Microsoft rolls out Recall to Windows Insiders with Copilot+ PCs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Microsoft rolls out Recall to Windows Insiders with Copilot+ PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-recall-to-windows-insiders-with-copilot-plus-pcs/)
-    * [![Fortinet VPN design flaw hides successful brute-force attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Fortinet VPN design flaw hides successful brute-force attacks](https://www.bleepingcomputer.com/news/security/fortinet-vpn-design-flaw-hides-successful-brute-force-attacks/)
-    
-    * [![Why Cybersecurity Leaders Trust the MITRE ATT&CK Evaluations](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Why Cybersecurity Leaders Trust the MITRE ATT&CK Evaluations](https://www.bleepingcomputer.com/news/security/why-cybersecurity-leaders-trust-the-mitre-attack-evaluations/)
-    * [![Hackers exploit critical bug in Array Networks SSL VPN products](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Hackers exploit critical bug in Array Networks SSL VPN products](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-bug-in-array-networks-ssl-vpn-products/)
     * [![Firefox and Windows zero-days exploited by Russian RomCom hackers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Firefox and Windows zero-days exploited by Russian RomCom hackers](https://www.bleepingcomputer.com/news/security/firefox-and-windows-zero-days-exploited-by-russian-romcom-hackers/)
-    * [![Black Friday is your chance to get lifetime access to Rosetta Stone](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Salt Typhoon hackers backdoor telcos with new GhostSpider malware](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Black Friday is your chance to get lifetime access to Rosetta Stone](https://www.bleepingcomputer.com/offer/deals/black-friday-is-your-chance-to-get-lifetime-access-to-rosetta-stone/)
+        Salt Typhoon hackers backdoor telcos with new GhostSpider malware](https://www.bleepingcomputer.com/news/security/salt-typhoon-hackers-backdoor-telcos-with-new-ghostspider-malware/)
+    * [![Hackers exploit critical bug in Array Networks SSL VPN products](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Hackers exploit critical bug in Array Networks SSL VPN products](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-bug-in-array-networks-ssl-vpn-products/)
+    * [![DOJ: Man hacked networks to pitch cybersecurity services](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        DOJ: Man hacked networks to pitch cybersecurity services](https://www.bleepingcomputer.com/news/security/doj-man-hacked-networks-to-pitch-cybersecurity-services/)
+    
+    * [![New NachoVPN attack uses rogue VPN servers to install malicious updates](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        New NachoVPN attack uses rogue VPN servers to install malicious updates](https://www.bleepingcomputer.com/news/security/new-nachovpn-attack-uses-rogue-vpn-servers-to-install-malicious-updates/)
+    * [![NordVPN Black Friday Deal: Save up to 74% on yearly subscriptions](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        NordVPN Black Friday Deal: Save up to 74% on yearly subscriptions](https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal/)
+    * [![Over 1,000 arrested in massive ‘Serengeti’ anti-cybercrime operation](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Over 1,000 arrested in massive ‘Serengeti’ anti-cybercrime operation](https://www.bleepingcomputer.com/news/security/over-1-000-arrested-in-massive-serengeti-anti-cybercrime-operation/)
+    * [![Study for multiple CompTIA certifications with this $25 course bundle deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Study for multiple CompTIA certifications with this $25 course bundle deal](https://www.bleepingcomputer.com/offer/deals/study-for-multiple-comptia-certifications-with-this-25-course-bundle-deal/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
