@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/39bd4f1c-74cc-41c9-b288-e8731bb5b737/20241126T015901/39bd4f1c-74cc-41c9-b288-e8731bb5b737_16x9.jpg) ![](https://media.king5.com/assets/KING/images/39bd4f1c-74cc-41c9-b288-e8731bb5b737/20241126T015901/39bd4f1c-74cc-41c9-b288-e8731bb5b737_360x203.jpg)](https://www.king5.com/article/news/crime/4-washington-state-patrol-cars-struck-impaired-drivers/281-3f875ac7-3d02-4933-b39e-654b1d00b942)
+        
+        #### [4 Washington State Patrol cars struck by impaired drivers in 4 hours](https://www.king5.com/article/news/crime/4-washington-state-patrol-cars-struck-impaired-drivers/281-3f875ac7-3d02-4933-b39e-654b1d00b942)
+        
     *  [![](https://media.king5.com/assets/KING/images/8d1e5e46-8750-46c1-b2a0-80d50ee23c2c/20241127T072052/8d1e5e46-8750-46c1-b2a0-80d50ee23c2c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/8d1e5e46-8750-46c1-b2a0-80d50ee23c2c/20241127T072052/8d1e5e46-8750-46c1-b2a0-80d50ee23c2c_360x203.jpg)](https://www.king5.com/article/news/local/911-response-drones-redmond-police-first-in-wa-faa-approval-flying-without-visual-observer/281-f1c505f9-8ccf-45ca-9d47-74bdb203aeca)
         
         #### [Redmond police celebrating 'monumental' decision by FAA that approves drone use on more 911 calls](https://www.king5.com/article/news/local/911-response-drones-redmond-police-first-in-wa-faa-approval-flying-without-visual-observer/281-f1c505f9-8ccf-45ca-9d47-74bdb203aeca)
-        
-    *  [![](https://media.king5.com/assets/KING/images/9fe4a7af-1223-42e5-8cad-bae0f2cf0c6f/20240904T124839/9fe4a7af-1223-42e5-8cad-bae0f2cf0c6f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/9fe4a7af-1223-42e5-8cad-bae0f2cf0c6f/20240904T124839/9fe4a7af-1223-42e5-8cad-bae0f2cf0c6f_360x203.jpg)](https://www.king5.com/article/news/education/seattle-schools-superintendent-withdrawing-school-closure-recommendation/281-9a998bc6-78e4-47d3-ba10-f8f450cf0903)
-        
-        #### [Seattle schools superintendent withdrawing school closure recommendation](https://www.king5.com/article/news/education/seattle-schools-superintendent-withdrawing-school-closure-recommendation/281-9a998bc6-78e4-47d3-ba10-f8f450cf0903)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/d36acd8d-c23a-49c7-91d3-b907b5a9900b/20241127T013807/d36acd8d-c23a-49c7-91d3-b907b5a9900b_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d36acd8d-c23a-49c7-91d3-b907b5a9900b/20241127T013807/d36acd8d-c23a-49c7-91d3-b907b5a9900b_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/82079bf0-6a07-4308-ba49-e001a289ba66/20241127T130254/82079bf0-6a07-4308-ba49-e001a289ba66_16x9.jpg) ![](https://media.king5.com/assets/KING/images/82079bf0-6a07-4308-ba49-e001a289ba66/20241127T130254/82079bf0-6a07-4308-ba49-e001a289ba66_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -94,7 +94,7 @@ Navigation
 
 Seattle, WA »
 
-44°
+43°
 
 ![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
