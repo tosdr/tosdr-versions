@@ -26,7 +26,7 @@ FREE SHIPPING WITHIN AB OVER $50 - FREE SHIPPING ALL OF CANADA OVER $80
 * [HOME](https://www.fubar-themovie.com/en-us)
 * [STORE](https://www.fubar-themovie.com/en-us/collections/all)
 
-Search [Log in](https://www.fubar-themovie.com/en-us/account/login) [Cart
+Search [Log in](https://www.fubar-themovie.com/customer_authentication/redirect?locale=en&region_country=US) [Cart
 
 0 items](https://www.fubar-themovie.com/en-us/cart)
 
