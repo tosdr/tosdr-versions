@@ -117,61 +117,61 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Support even on Sundays!
+> Wish I started ages ago!
 > ------------------------
 > 
-> Thanks Adriaan...
+> I just want to compliment you and your team for an amazing back office software.
 > 
-> You guys even work on Sundays?
+> I have been struggling with a proper invoicing solution for six months now (to make time each month)
 > 
-> I’m impressed!!
+> I just wish I started using Invoices Online ages ago.
 
-Johan Botha - Brand Xplosion
+Terri Winfield
 
-![valued client Kara Medical (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=3913&file=logo_300_100&type=&fe=a0de13a7728c1529423f1dd43ee1e94305447790b3003c15ad90c9565b2941bc&c=140458247)  
-Kara Medical (Pty) Ltd
+![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=276ddef8fef0679669fe41d788c56f2b07f577db981d11fa1d0378758e389f95&c=72894421)  
+Well Hung Art
 
-![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=a0de13a7728c1529423f1dd43ee1e94305447790b3003c15ad90c9565b2941bc&c=205250211)  
-CGHK Enterprises (PTY) LTD
+![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=276ddef8fef0679669fe41d788c56f2b07f577db981d11fa1d0378758e389f95&c=28636519)  
+Cooper Power Cape Town (Pty) Ltd
 
-![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=a0de13a7728c1529423f1dd43ee1e94305447790b3003c15ad90c9565b2941bc&c=155461888)  
-Blue Sky Solar Services
+![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=276ddef8fef0679669fe41d788c56f2b07f577db981d11fa1d0378758e389f95&c=52863205)  
+On The Spot Marketing (Pty) Ltd t/a 24hrprinting
 
-![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=a0de13a7728c1529423f1dd43ee1e94305447790b3003c15ad90c9565b2941bc&c=86949654)  
-Norton Medical & Consult - Namibia
+![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=276ddef8fef0679669fe41d788c56f2b07f577db981d11fa1d0378758e389f95&c=157848628)  
+Creative Characters
 
-![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=a0de13a7728c1529423f1dd43ee1e94305447790b3003c15ad90c9565b2941bc&c=50740481)  
-Konsortium Operations (PTY) LTD
+![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=276ddef8fef0679669fe41d788c56f2b07f577db981d11fa1d0378758e389f95&c=101879550)  
+AMS Ambu Medical Supplies
 
-![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=a0de13a7728c1529423f1dd43ee1e94305447790b3003c15ad90c9565b2941bc&c=93071414)  
-NJR ICT Services (Pty) Ltd
+![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=276ddef8fef0679669fe41d788c56f2b07f577db981d11fa1d0378758e389f95&c=210019902)  
+Lion Software Develepment
 
-![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=a0de13a7728c1529423f1dd43ee1e94305447790b3003c15ad90c9565b2941bc&c=96818826)  
-Highlands Auto Engineering
+![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=276ddef8fef0679669fe41d788c56f2b07f577db981d11fa1d0378758e389f95&c=144089552)  
+GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
 
-![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=a0de13a7728c1529423f1dd43ee1e94305447790b3003c15ad90c9565b2941bc&c=203157689)  
-Adele Jordaan T/A Joyful Noise Music Room
+![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=276ddef8fef0679669fe41d788c56f2b07f577db981d11fa1d0378758e389f95&c=197450919)  
+NEW BEGINNINGS DESIGNS
 
-![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=a0de13a7728c1529423f1dd43ee1e94305447790b3003c15ad90c9565b2941bc&c=87640558)  
-FRAMED BY ANTON (Pty) Ltd.
+![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=276ddef8fef0679669fe41d788c56f2b07f577db981d11fa1d0378758e389f95&c=186260228)  
+TRACKFORCE (Pty) Ltd
 
-![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=a0de13a7728c1529423f1dd43ee1e94305447790b3003c15ad90c9565b2941bc&c=28255581)  
-Oukraal Merino's
+![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=276ddef8fef0679669fe41d788c56f2b07f577db981d11fa1d0378758e389f95&c=158398838)  
+ARCHITEK PTY LTD
 
-![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=a0de13a7728c1529423f1dd43ee1e94305447790b3003c15ad90c9565b2941bc&c=29084192)  
-Beyond Laser CNC Cutting Technology South Africa CC
+![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=276ddef8fef0679669fe41d788c56f2b07f577db981d11fa1d0378758e389f95&c=61757521)  
+Cape Adventure Zone
 
-![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=a0de13a7728c1529423f1dd43ee1e94305447790b3003c15ad90c9565b2941bc&c=2568879)  
-Immediate Health (pty)ltd
+![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=276ddef8fef0679669fe41d788c56f2b07f577db981d11fa1d0378758e389f95&c=43977770)  
+Roamfree Boerdery (PTY) LTD
 
-![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=a0de13a7728c1529423f1dd43ee1e94305447790b3003c15ad90c9565b2941bc&c=163097829)  
-Mountain Lion Properties
+![valued client MONSTER SECURITY SERVICES (NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=276ddef8fef0679669fe41d788c56f2b07f577db981d11fa1d0378758e389f95&c=9574986)  
+MONSTER SECURITY SERVICES (NORTHAM)
 
-![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=a0de13a7728c1529423f1dd43ee1e94305447790b3003c15ad90c9565b2941bc&c=184061821)  
-Goju-Ryu Pretoria East
+![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=276ddef8fef0679669fe41d788c56f2b07f577db981d11fa1d0378758e389f95&c=73304393)  
+Repairs In Motion
 
-![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=a0de13a7728c1529423f1dd43ee1e94305447790b3003c15ad90c9565b2941bc&c=209104440)  
-Brand's Fountains Deco and Events Coordinatoin
+![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=276ddef8fef0679669fe41d788c56f2b07f577db981d11fa1d0378758e389f95&c=83816787)  
+ELLIE'S CLEANING CHICKS
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
