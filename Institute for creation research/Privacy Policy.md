@@ -95,31 +95,61 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Acts & Facts
+More Days of Praise
 
-[![](/i/articles/af/af2311-webcover.jpg)](https://www.icr.org/article/14355)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/the-self-life)
 
-[November-December 2023](https://www.icr.org/article/14355/)
+[The Self Life](https://www.icr.org/article/the-self-life/)
 
-...
+“O wretched man that I am! who shall deliver me from the body of this death?” (Romans 7:24) This despondent cry follows Paul’s...
 
-BY:  [VARIOUS AUTHORS](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=35)
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
-[![](/i/articles/af/af2111-webcover.jpg)](https://www.icr.org/article/13069)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/him-no-darkness)
 
-[November 2021](https://www.icr.org/article/13069/)
+[In Him Is No Darkness](https://www.icr.org/article/him-no-darkness/)
 
-...
+“This then is the message which we have heard of him, and declare unto you, that God is light, and in him is no darkness at all.” (1...
 
-BY:  [VARIOUS AUTHORS](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=35)
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
-[![](/i/articles/af/af2003-webcover.jpg)](https://www.icr.org/article/11760)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/faith-hope-love-step)
 
-[March 2020](https://www.icr.org/article/11760/)
+[Faith, Hope, and Love in Step](https://www.icr.org/article/faith-hope-love-step/)
 
-...
+“And now abideth faith, hope, charity, these three; but the greatest of these is charity.” (1 Corinthians 13:13) Love, rendered...
 
-BY:  [VARIOUS AUTHORS](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=35)
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+
+Shop Related Products
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10474571/file.jpg)
+
+The Bible Has the Answer](https://store.icr.org/dr-henry-morris-the-bible-has-the-answer.html)
+
+$16.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10472129/file.jpg)
+
+Scientific Creationism](https://store.icr.org/dr-henry-morris-scientific-creationism.html)
+
+$14.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/16945324/file.jpg)
+
+The Long War Against God](https://store.icr.org/dr-henry-morris-the-long-war-against-god.html)
+
+$16.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10474089/file.jpg)
+
+Defending the Faith](https://store.icr.org/dr-henry-morris-defending-the-faith.html)
+
+$12.99
+
+[](https://store.icr.org/.html)
+
+$
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
