@@ -314,11 +314,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/karavukovo/karavukova-jazbina/f21.jpg?itok=4AB_ucjG)](http://seecult.org/galerija/galerija-umetnika/karavukovo/karavukova-jazbina)
+[![Gott liebt die Serben, Rasa Todosijevic](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/ras-todosijevic/svetlost-i-tama-simbola/paviljon-srbije/izlozba-svetlost-i-tama-simbola/bog-voli-srbe.jpg?itok=zA-ktDkk)](http://seecult.org/galerija/galerija-umetnika/rasa-todosijevic/svetlost-i-tama-simbola-light-and-darkness-symbols-30)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/gbh2.jpg?itok=RIwyuLjc)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/marah.jpg?itok=GS3BcvHS)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
