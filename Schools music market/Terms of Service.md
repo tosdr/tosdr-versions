@@ -26,7 +26,7 @@ Menu
 
 [](https://schoolsmusicmarket.com/wishlist/)
 
- [](https://schoolsmusicmarket.com/product/mix-match-music-notation-worksheet/)
+ [](https://schoolsmusicmarket.com/product/exploring-hip-hop-part-1-powerpoint/)
 
 [HOME](https://schoolsmusicmarket.com/seller-dashboard)
 
@@ -282,7 +282,7 @@ Results
 
 See all results
 
- [](https://schoolsmusicmarket.com/product/apple-anthems-themed-composing-worksheet-set/)
+ [](https://schoolsmusicmarket.com/product/match-the-musical-genres-worksheet-activity/)
 
 ###### Browse By Year/Grade
 
