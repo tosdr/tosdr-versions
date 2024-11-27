@@ -175,7 +175,7 @@ Deployarr 5 Intro: Docker Homelab in Minutes🚀
 
 > **Be the 1 in 200,000. Help us sustain what we do.**
 > 
-> 112 / 150 by Dec 31, 2024
+> 113 / 150 by Dec 31, 2024
 > 
 > [Join the Geek Army!](https://www.smarthomebeginner.com/membership-account/memberships-products-services/)
 > 
@@ -190,31 +190,31 @@ Deployarr 5 Intro: Docker Homelab in Minutes🚀
 Recent Posts
 ------------
 
-* [![Dozzle Docker Compose - Web Interface](https://www.smarthomebeginner.com/images/2024/11/dozzle-web-interface-2024-150x72.png "Ultimate Docker Guides: Dozzle Docker Compose 2")
+* [![Smarthomebeginner.com](https://www.smarthomebeginner.com/images/2018/02/default_featured_image-150x84.jpg "Black Friday: State of the Site Updates and DEALS! 2")
     
-    ![Dozzle Docker Compose - Web Interface](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20150%2072%22%3E%3C/svg%3E "Ultimate Docker Guides: Dozzle Docker Compose 2")](https://www.smarthomebeginner.com/dozzle-docker-compose-guide-2024/)
+    ![Smarthomebeginner.com](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20150%2084%22%3E%3C/svg%3E "Black Friday: State of the Site Updates and DEALS! 2")](https://www.smarthomebeginner.com/black-friday-update-2024/)
+    
+    [Black Friday: State of the Site Updates and DEALS!](https://www.smarthomebeginner.com/black-friday-update-2024/)
+* [![Dozzle Docker Compose - Web Interface](https://www.smarthomebeginner.com/images/2024/11/dozzle-web-interface-2024-150x72.png "Ultimate Docker Guides: Dozzle Docker Compose 3")
+    
+    ![Dozzle Docker Compose - Web Interface](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20150%2072%22%3E%3C/svg%3E "Ultimate Docker Guides: Dozzle Docker Compose 3")](https://www.smarthomebeginner.com/dozzle-docker-compose-guide-2024/)
     
     [Ultimate Docker Guides: Dozzle Docker Compose](https://www.smarthomebeginner.com/dozzle-docker-compose-guide-2024/)
-* [![Install Windows 11 On Proxmox Ft | Smarthomebeginner](https://www.smarthomebeginner.com/images/2024/10/Install-Windows-11-on-Proxmox-ft-150x84.jpg "Install Windows 11 on Proxmox - Now Better Than Before! 3")
+* [![Install Windows 11 On Proxmox Ft | Smarthomebeginner](https://www.smarthomebeginner.com/images/2024/10/Install-Windows-11-on-Proxmox-ft-150x84.jpg "Install Windows 11 on Proxmox - Now Better Than Before! 4")
     
-    ![Install Windows 11 On Proxmox Ft | Smarthomebeginner](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20150%2084%22%3E%3C/svg%3E "Install Windows 11 on Proxmox - Now Better Than Before! 3")](https://www.smarthomebeginner.com/install-windows-11-on-proxmox/)
+    ![Install Windows 11 On Proxmox Ft | Smarthomebeginner](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20150%2084%22%3E%3C/svg%3E "Install Windows 11 on Proxmox - Now Better Than Before! 4")](https://www.smarthomebeginner.com/install-windows-11-on-proxmox/)
     
     [Install Windows 11 on Proxmox – Now Better Than Before!](https://www.smarthomebeginner.com/install-windows-11-on-proxmox/)
-* [![Deployarr V5 With 90 Apps Thumbnail | Smarthomebeginner](https://www.smarthomebeginner.com/images/2024/06/Deployarr-v5-with-90-Apps-Thumbnail-150x85.jpg "Deployarr v5 Launched: Is it an Embarrassment? BS? 4")
+* [![Deployarr V5 With 90 Apps Thumbnail | Smarthomebeginner](https://www.smarthomebeginner.com/images/2024/06/Deployarr-v5-with-90-Apps-Thumbnail-150x85.jpg "Deployarr v5 Launched: Is it an Embarrassment? BS? 5")
     
-    ![Deployarr V5 With 90 Apps Thumbnail | Smarthomebeginner](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20150%2085%22%3E%3C/svg%3E "Deployarr v5 Launched: Is it an Embarrassment? BS? 4")](https://www.smarthomebeginner.com/deployarr-v5-launched/)
+    ![Deployarr V5 With 90 Apps Thumbnail | Smarthomebeginner](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20150%2085%22%3E%3C/svg%3E "Deployarr v5 Launched: Is it an Embarrassment? BS? 5")](https://www.smarthomebeginner.com/deployarr-v5-launched/)
     
     [Deployarr v5 Launched: Is it an Embarrassment? BS?](https://www.smarthomebeginner.com/deployarr-v5-launched/)
-* [![Authelia Docker Compose Guide](https://www.smarthomebeginner.com/images/2024/02/Docker-Series-06-Authelia-150x84.png "Authelia Docker Compose Guide: Secure 2-Factor Auth [2024-v2] 5")
+* [![Authelia Docker Compose Guide](https://www.smarthomebeginner.com/images/2024/02/Docker-Series-06-Authelia-150x84.png "Authelia Docker Compose Guide: Secure 2-Factor Auth [2024-v2] 6")
     
-    ![Authelia Docker Compose Guide](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20150%2084%22%3E%3C/svg%3E "Authelia Docker Compose Guide: Secure 2-Factor Auth [2024-v2] 5")](https://www.smarthomebeginner.com/authelia-docker-compose-guide-2024-v2/)
+    ![Authelia Docker Compose Guide](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20150%2084%22%3E%3C/svg%3E "Authelia Docker Compose Guide: Secure 2-Factor Auth [2024-v2] 6")](https://www.smarthomebeginner.com/authelia-docker-compose-guide-2024-v2/)
     
     [Authelia Docker Compose Guide: Secure 2-Factor Auth \[2024-v2\]](https://www.smarthomebeginner.com/authelia-docker-compose-guide-2024-v2/)
-* [![Uptime Kuma Docker Compose](https://www.smarthomebeginner.com/images/2024/05/title-2-150x93.jpeg "Uptime Kuma Docker Compose 2024: Ultimate Non-Stop Monitoring 6")
-    
-    ![Uptime Kuma Docker Compose](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20150%2093%22%3E%3C/svg%3E "Uptime Kuma Docker Compose 2024: Ultimate Non-Stop Monitoring 6")](https://www.smarthomebeginner.com/uptime-kuma-docker-compose-guide/)
-    
-    [Uptime Kuma Docker Compose 2024: Ultimate Non-Stop Monitoring](https://www.smarthomebeginner.com/uptime-kuma-docker-compose-guide/)
 
 [Post Archives](https://www.smarthomebeginner.com/archives/)
 
@@ -233,11 +233,11 @@ All information on smarthomebeginner.com is for informational purposes only. No 
 
 Copyright © 2024 HTPCBEGINNER LLC. All Rights Reserved · No reproduction without permission
 
-Deployarr 5 Released!
----------------------
+Black Friday Sale!
+------------------
 
-Automate Homelab Setup with Deployarr. ([Launch Sale](https://www.smarthomebeginner.com/deployarr/))
+Limited Time 40% Off on [Platinum Memberships](https://www.smarthomebeginner.com/membership-account/join-the-geek-army/) (~$399.99~ $239.99).
 
-15% Off Code: **DEPLOYARR5**
+Code: **BF2024PL**
 
 Try Deployarr
