@@ -549,6 +549,10 @@ Submit Search Close Search
 1. [Home page](https://www.axa.co.uk/)
 2. [Terms and Conditions](https://www.axa.co.uk/terms-and-conditions/)
 
+![](/globalassets/new-website/icons/info-tosca-48dp.svg)
+
+We’re working on improving your experience of our website. While we upgrade things, you may find some features are out of action. Please check back later, or find more ways to get in touch on our [contact page](https://www.axa.co.uk/contact-us/).
+
 Terms and Conditions
 ====================
 
