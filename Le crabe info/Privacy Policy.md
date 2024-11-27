@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 550 utilisateurs actifs
+##### 1156 utilisateurs actifs
 
 Chargement en cours
 
@@ -131,9 +131,9 @@ Chargement en cours
 
 ### À la une
 
+* [Microsoft corrige le bug avec Voicemeeter, vous pouvez enfin passer à Windows 11 24H2 !](https://lecrabeinfo.net/microsoft-corrige-le-bug-avec-voicemeeter-vous-pouvez-enfin-passer-a-windows-11-24h2.html)
 * ["Ne tuez pas Android (WSA) !" : le feedback qui monte sur Windows 11, mais Microsoft en tiendra-t-il compte ?](https://lecrabeinfo.net/ne-tuez-pas-android-wsa-le-feedback-qui-monte-sur-windows-11-mais-microsoft-en-tiendra-t-il-compte.html)
 * [Microsoft lance le Windows 365 Link : un mini-PC connecté au cloud](https://lecrabeinfo.net/microsoft-lance-le-windows-365-link-un-mini-pc-connecte-au-cloud.html)
-* [PlayStation 2 : lire des jeux PS1 depuis une clé USB avec Open PS2 Loader (OPL)](https://lecrabeinfo.net/playstation-2-lire-des-jeux-ps1-depuis-une-cle-usb-avec-open-ps2-loader-opl.html)
 
 ### Tendance
 
