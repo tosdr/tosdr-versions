@@ -359,12 +359,14 @@
 *    [![EN](/-/media/Project/PSE/Portal/Icons/Language_icon.png?rev=6227f24f84234f0583eab7768827d362&modified=20220704095934&h=26&w=22&la=en&hash=951D374340D6D9C905ED9854E64AAF39) ![EN](/-/media/Project/PSE/Portal/Icons/Language_icon_fill.png?rev=04d9d5ac09b243b8930bcae27bc28178&modified=20221013170138&h=27&w=23&la=en&hash=F9F88C61EA0DFBFD42365B5FDA83DED0) ![EN](/-/media/Project/PSE/Portal/Icons/Language_mobile_icon.png?rev=6893de0879434b1dbe13f2ca17990c66&modified=20220714074900&h=27&w=22&la=en&hash=99D70EAEF69ADAA4010E9F3BE9725496) ![EN](/-/media/Project/PSE/Portal/Icons/Language_mobile_icon_fill.png?rev=1ea89ae8f7d54ad08d582eb69df53d40&modified=20221013170150&h=27&w=23&la=en&hash=144CDA651D943198CB42F9B6F8002978)](#)
     
 
-[Storm alert Updated Nov 26, 6:00 PM](#collapseOne)  
+[PSE CEO Mary Kipp: Thank you to our customers and crews Updated Nov 27, 10:00 AM](#collapseOne)  
 
 November Wind Storm
 -------------------
 
-Crews continue to work around the clock restoring power to our customers. We now have crews or servicemen assigned to all remaining outages in King County from the hurricane-force windstorm and are working toward restoring all remaining customers by or within a few hours of 6 p.m. tonight.
+#### PSE CEO Mary Kipp: Thank you to our customers and crews
+
+A video message from PSE President & CEO Mary Kipp thanking customers for their patience during one of the worst storms to hit in decades, and thanking the amazing crews who worked tirelessly to restore power to customers.
 
 [Read more](https://www.pse.com/en/outage/alerts-and-advisories)
 
