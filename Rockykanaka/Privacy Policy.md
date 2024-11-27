@@ -13,17 +13,18 @@ Free Shipping on Orders Over $79 (USA)
     * [Jerky](https://rockykanaka.com/collections/jerky)
     * [Chews](https://rockykanaka.com/collections/chew)
     
-* Merch
+* Collections
     
-    [Merch](https://rockykanaka.com/collections/merch-by-rocky-kanaka)
+    [Collections](https://rockykanaka.com/collections/merch-by-rocky-kanaka)
     
+    * [Bonnie - Sitting with Dogs](https://rockykanaka.com/collections/sitting-with-dogs-bonnie-limited-edition)
+    * [Pumpkin - Sitting with Dogs](https://rockykanaka.com/collections/sitting-with-dogs-london-limited-edition)
+    * [Bean - Sitting with Dogs](https://rockykanaka.com/collections/bean)
+    * [Sitting With Dogs - Original](https://rockykanaka.com/collections/sitting-with-dogs)
     * [Easily Distracted by Dogs](https://rockykanaka.com/collections/easily-distracted-by-dogs)
     * [Keep Calm & Rescue A dog](https://rockykanaka.com/collections/keep-calm-rescue-a-dog)
-    * [Sitting With Dogs](https://rockykanaka.com/collections/sitting-with-dogs)
     * [Kobe Inspire](https://rockykanaka.com/collections/kobe-insprie)
     * [Dog Mom](https://rockykanaka.com/collections/dog-mom)
-    * [My Dog is My Happy Place](https://rockykanaka.com/collections/my-dog-is-my-happy-place)
-    * [Hello Aloha Woof Meow](https://rockykanaka.com/collections/hello-aloha-woof-meow)
     
 * [Gift Card](https://rockykanaka.com/products/gift-card)
 * [About](https://www.rockykanaka.com/about)
@@ -40,15 +41,16 @@ Free Shipping on Orders Over $79 (USA)
     * [Jerky](https://rockykanaka.com/collections/jerky)
     * [Chews](https://rockykanaka.com/collections/chew)
     
-* [Merch](https://rockykanaka.com/collections/merch-by-rocky-kanaka)
+* [Collections](https://rockykanaka.com/collections/merch-by-rocky-kanaka)
     
+    * [Bonnie - Sitting with Dogs](https://rockykanaka.com/collections/sitting-with-dogs-bonnie-limited-edition)
+    * [Pumpkin - Sitting with Dogs](https://rockykanaka.com/collections/sitting-with-dogs-london-limited-edition)
+    * [Bean - Sitting with Dogs](https://rockykanaka.com/collections/bean)
+    * [Sitting With Dogs - Original](https://rockykanaka.com/collections/sitting-with-dogs)
     * [Easily Distracted by Dogs](https://rockykanaka.com/collections/easily-distracted-by-dogs)
     * [Keep Calm & Rescue A dog](https://rockykanaka.com/collections/keep-calm-rescue-a-dog)
-    * [Sitting With Dogs](https://rockykanaka.com/collections/sitting-with-dogs)
     * [Kobe Inspire](https://rockykanaka.com/collections/kobe-insprie)
     * [Dog Mom](https://rockykanaka.com/collections/dog-mom)
-    * [My Dog is My Happy Place](https://rockykanaka.com/collections/my-dog-is-my-happy-place)
-    * [Hello Aloha Woof Meow](https://rockykanaka.com/collections/hello-aloha-woof-meow)
     
 * [Gift Card](https://rockykanaka.com/products/gift-card)
 * [About](https://www.rockykanaka.com/about)
