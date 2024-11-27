@@ -295,7 +295,6 @@ Thank you for subscribing!
 © DigiDNA SARL, 2008-2024. All rights reserved.  
 iMazing ® is a registered trademark of DigiDNA SARL.
 
-* [](https://twitter.com/DigiDNA "X @DigiDNA")
 * [](https://www.youtube.com/user/DigiDNAnet "Youtube")
 * [](https://www.facebook.com/DigiDNA "DigiDNA Facebook")
 * [](https://www.instagram.com/imazing "Instagram")
