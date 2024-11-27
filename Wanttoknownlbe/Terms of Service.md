@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/artsen-geven-toe-kankerdiagnose-uit-winstbejag/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/rebellen-geven-gifgas-aanval-toe/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
