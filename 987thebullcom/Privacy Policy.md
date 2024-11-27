@@ -349,11 +349,11 @@ Recently Played
 
 |     |
 | --- |
-| ReligiouslyBailey Zimmerman<br><br>4:40pm |
-| You Look Like You Love MeElla Langley Ft Riley Green<br><br>4:36pm |
-| Buy Me A BoatChris Janson<br><br>4:32pm |
-| I Remember EverythingZach Bryan Ft Kacey Musgraves<br><br>4:28pm |
-| Wind Up Missing YouTucker Wetmore<br><br>4:26pm |
+| StayFlorida Georgia Line<br><br>10:41pm |
+| Darlin'Chase Matthew<br><br>10:38pm |
+| Last NightMorgan Wallen<br><br>10:35pm |
+| Miles On ItKane Brown Ft Marshmello<br><br>10:32pm |
+| Where The Wild Things AreLuke Combs<br><br>10:20pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -497,21 +497,21 @@ State
 Featured Brands
 ---------------
 
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+
+Top 40 • Pacific NW
+
 [![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
 Country • Western
 
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
-Top 40 • Eastern
+News Talk • Eastern
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
-Country • Western
-
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
-
-Top 40 • Pacific NW
+Sports • Midwest
 
 [](https://www.alphamediausa.com/)
 
