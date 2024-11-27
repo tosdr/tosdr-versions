@@ -280,22 +280,6 @@ Most Popular
 [Fraud charges dismissed at Derry Court](https://www.derrynow.com/news/local-news/1664978/fraud-charges-dismissed-at-derry-court.html)
 --------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1664293/derry-death-notices-tuesday-november-26-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Tuesday, November 26, 2024](https://www.derrynow.com/news/deaths/1664293/derry-death-notices-tuesday-november-26-2024.html)
---------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry City fans at the Brandywell](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City fans at the Brandywell")](https://www.derrynow.com/news/derry-sport/1665177/derry-city-s-season-tickets-for-2025-are-the-most-expensive-in-the-league-of-ireland.html)
-
-Derry City fans at the Brandywell
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Derry City's season tickets for 2025 are the most expensive in the League of Ireland](https://www.derrynow.com/news/derry-sport/1665177/derry-city-s-season-tickets-for-2025-are-the-most-expensive-in-the-league-of-ireland.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![IN PICTURES: Annual Slaughmanus GAA Dinner Dance](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Annual Slaughmanus GAA Dinner Dance")](https://www.derrynow.com/story-telling/pictures---videos/1664118/in-pictures-annual-slaughmanus-gaa-dinner-dance.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
@@ -309,6 +293,15 @@ Derry City fans at the Brandywell
 
 [Campaign to change NI’s Commonwealth Games flag ‘ill-advised’, says minister](https://www.derrynow.com/news/northern-ireland/1665231/campaign-to-change-nis-commonwealth-games-flag-ill-advised-says-minister.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry City fans at the Brandywell](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City fans at the Brandywell")](https://www.derrynow.com/news/derry-sport/1665177/derry-city-s-season-tickets-for-2025-are-the-most-expensive-in-the-league-of-ireland.html)
+
+Derry City fans at the Brandywell
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Derry City's season tickets for 2025 are the most expensive in the League of Ireland](https://www.derrynow.com/news/derry-sport/1665177/derry-city-s-season-tickets-for-2025-are-the-most-expensive-in-the-league-of-ireland.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![17-year-old told 'his days of thumbing his nose at the court will soon be over'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "17-year-old told 'his days of thumbing his nose at the court will soon be over'")](https://www.derrynow.com/news/local-news/1664889/17-year-old-told-his-days-of-thumbing-his-nose-at-the-court-will-soon-be-over.html)
 
@@ -334,6 +327,15 @@ PSNI
 
 [Two men arrested in Derry on suspicion of drug related offences](https://www.derrynow.com/news/local-news/1665498/two-men-arrested-in-derry-on-suspicion-of-drug-related-offences.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Searches carried out in Derry linked to 'ongoing drugs criminality' by the INLA](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Searches carried out in Derry linked to 'ongoing drugs criminality' by the INLA")](https://www.derrynow.com/news/local-news/1665153/searches-carried-out-in-derry-linked-to-ongoing-drugs-criminality-by-the-inla.html)
+
+PSNI
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Searches carried out in Derry linked to 'ongoing drugs criminality' by the INLA](https://www.derrynow.com/news/local-news/1665153/searches-carried-out-in-derry-linked-to-ongoing-drugs-criminality-by-the-inla.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -511,6 +513,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1664784/derry-death-notices-wednesday-november-27-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Wednesday, November 27, 2024](https://www.derrynow.com/news/deaths/1664784/derry-death-notices-wednesday-november-27-2024.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Murphy approves access to student loans for Derry graduate entry medical students](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Murphy approves access to student loans for Derry graduate entry medical students")](https://www.derrynow.com/news/local-news/1665164/murphy-approves-access-to-student-loans-for-derry-graduate-entry-medical-students.html)
 
 Economy Minister Conor Murphy is pictured with Patrica Harris, Associate Head of School of Medicine at Ulster University’s Derry campus, and first year medical students Clodagh McErlean and Dylan Kerr
@@ -520,7 +529,7 @@ Economy Minister Conor Murphy is pictured with Patrica Harris, Associate Head of
 [Murphy approves access to student loans for Derry graduate entry medical students](https://www.derrynow.com/news/local-news/1665164/murphy-approves-access-to-student-loans-for-derry-graduate-entry-medical-students.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![MacRory Cup](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "MacRory Cup")](https://www.derrynow.com/news/derry-sport/1665602/strong-second-half-earns-st-mary-s-magherafelt-a-macrory-cup-victory-over-cathair-dhoire.html)
+[![MacRory Cup](https://www.derrynow.com/resizer/165/93/true/2024_11_26/20241031_112714-1732660894885.jpg--.jpg?1732660895611 "MacRory Cup")](https://www.derrynow.com/news/derry-sport/1665602/strong-second-half-earns-st-mary-s-magherafelt-a-macrory-cup-victory-over-cathair-dhoire.html)
 
 [Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
@@ -553,15 +562,6 @@ Lauren Craig is hoping her music will receive greater exposure in the US.
 
 [Bellaghy singer-songwriter 'excited' to perform at iconic Nashville venue](https://www.derrynow.com/news/home/1665210/bellaghy-singer-songwriter-excited-to-perform-at-iconic-nashville-venue.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[!['Our goal is for people to stop and think' with new breastfeeding mural in Derry](https://www.derrynow.com/resizer/165/93/true/2024_11_26/NW_BAPS-1732624920233.PNG--.PNG?1732624920336 "'Our goal is for people to stop and think' with new breastfeeding mural in Derry")](https://www.derrynow.com/news/derry-news/1665006/our-goal-is-for-people-to-stop-and-think-with-new-breastfeeding-mural-in-derry.html)
-
-Breastfeeding Mural on Great James Street
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-['Our goal is for people to stop and think' with new breastfeeding mural in Derry](https://www.derrynow.com/news/derry-news/1665006/our-goal-is-for-people-to-stop-and-think-with-new-breastfeeding-mural-in-derry.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
