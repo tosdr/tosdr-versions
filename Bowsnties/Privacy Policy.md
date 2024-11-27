@@ -1,6 +1,6 @@
 ![](https://ct.pinterest.com/v3/?tid=2619239296514&event=init&noscript=1)  
 
-### [Wedding Shoppe - 200+ Colors](https://www.bows-n-ties.com/wedding-ties/)
+### [BLACK FRIDAY SALE - 40% OFF Sitewide](https://www.bows-n-ties.com/neckties/)
 
 __
 
