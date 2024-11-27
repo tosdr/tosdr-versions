@@ -90,17 +90,27 @@ New York, NY 10017
 Spotlight
 ---------
 
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/medicaid-spending.jpg)[](https://admin.mi52siterestore.com/article/slowing-optional-medicaid-spending-growth/ "Read More")
+
+Issue Brief Health Healthcare, Poverty & Welfare
+
+Nov 26 2024
+
+Issue Brief Health Healthcare, Poverty & Welfare
+
+Nov 26 2024
+
+### [Slowing Optional Medicaid Spending Growth](https://admin.mi52siterestore.com/article/slowing-optional-medicaid-spending-growth/)
+
+By **[Chris Pope](https://admin.mi52siterestore.com/person/chris-pope/)** Read time **23 mins** [Read More](https://admin.mi52siterestore.com/article/slowing-optional-medicaid-spending-growth/)
+
     ![](https://media4.manhattan-institute.org/wp-content/uploads/Top-Public-Policy-Programs-Have-Almost-No-Conservative-Faculty.jpg)[](https://admin.mi52siterestore.com/article/top-public-policy-programs-have-almost-no-conservative-faculty/ "Read More")
 
 Issue Brief Education, Governance
 
 Nov 21 2024
 
-Issue Brief Education, Governance
-
-Nov 21 2024
-
-### [Top Public Policy Programs Have Almost No Conservative Faculty](https://admin.mi52siterestore.com/article/top-public-policy-programs-have-almost-no-conservative-faculty/)
+[Top Public Policy Programs Have Almost No Conservative Faculty](https://admin.mi52siterestore.com/article/top-public-policy-programs-have-almost-no-conservative-faculty/)
 
 By **[Frederick M. Hess](https://admin.mi52siterestore.com/person/frederick-m-hess/), [Riley Fletcher](https://admin.mi52siterestore.com/person/riley-fletcher/)** Read time **12 mins** [Read More](https://admin.mi52siterestore.com/article/top-public-policy-programs-have-almost-no-conservative-faculty/)
 
@@ -133,16 +143,6 @@ Nov 19 2024
 [How Trump Can Teach the Department of Education a Lesson](https://admin.mi52siterestore.com/article/how-trump-can-teach-the-department-of-education-a-lesson/)
 
 By **[Jason L. Riley](https://admin.mi52siterestore.com/person/jason-l-riley/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/how-trump-can-teach-the-department-of-education-a-lesson/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/horrific-stabbing-spree-in-manhattan-shows-how-politicians-still-wont-lock-up-the-dangerous-mentally-ill.jpg)[](https://admin.mi52siterestore.com/article/horrific-stabbing-spree-in-manhattan-shows-how-politicians-still-wont-lock-up-the-dangerous-mentally-ill/ "Read More")
-
-Commentary Public Safety, Cities Crime Control, Serious Mental Illness, Policing, New York City
-
-Nov 19 2024
-
-[Horrific Stabbing Spree in Manhattan Shows How Politicians Still Won’t Lock Up the Dangerous Mentally Ill](https://admin.mi52siterestore.com/article/horrific-stabbing-spree-in-manhattan-shows-how-politicians-still-wont-lock-up-the-dangerous-mentally-ill/)
-
-By **[Carolyn D. Gorman](https://admin.mi52siterestore.com/person/carolyn-d-gorman/), [Stephen Eide](https://admin.mi52siterestore.com/person/stephen-eide/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/horrific-stabbing-spree-in-manhattan-shows-how-politicians-still-wont-lock-up-the-dangerous-mentally-ill/)
 
 Our Policy Areas
 ----------------
