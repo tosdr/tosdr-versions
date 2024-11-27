@@ -34,11 +34,10 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Favorite line from AN's Factbooks II (12,117)](https://forum.nationstates.net/viewtopic.php?t=510652&f=25&view=unread#unread ""Favorite line from AN's Factbooks II" (12,117 posts)")
-* [Merge the 2 AN's Names (9,407)](https://forum.nationstates.net/viewtopic.php?t=427976&f=25&view=unread#unread ""Merge the 2 AN's Names" (9,407 posts)")
-* [the Plains of Perdition: New Sinker (49)](https://forum.nationstates.net/viewtopic.php?t=558835&f=12&view=unread#unread ""the Plains of Perdition: New Sinker" (49 posts)")
-* [Your favorite part of AN’s forum sig XI (5,291)](https://forum.nationstates.net/viewtopic.php?t=555083&f=25&view=unread#unread ""Your favorite part of AN’s forum sig XI" (5,291 posts)")
-* [Agree or Disagree III (12,213)](https://forum.nationstates.net/viewtopic.php?t=516044&f=25&view=unread#unread ""Agree or Disagree III" (12,213 posts)")
+* [What gender do you think X items are? (19)](https://forum.nationstates.net/viewtopic.php?t=558845&f=20&view=unread#unread ""What gender do you think X items are?" (19 posts)")
+* [Fallen Nations: A Shadow of a New War… (139)](https://forum.nationstates.net/viewtopic.php?t=558662&f=31&view=unread#unread ""Fallen Nations: A Shadow of a New War [Dieselpunk|OOC|Open]" (139 posts)")
+* [Trade between Pakania and Freedom Fre… (382)](https://forum.nationstates.net/viewtopic.php?t=558680&f=5&view=unread#unread ""Trade between Pakania and Freedom Freelandia (Invite Only)" (382 posts)")
+* [\[Discussion\] Rule Change: Academic Di… (18)](https://forum.nationstates.net/viewtopic.php?t=558801&f=9&view=unread#unread ""[Discussion] Rule Change: Academic Dishonesty" (18 posts)")
 
 Advertisement
 
