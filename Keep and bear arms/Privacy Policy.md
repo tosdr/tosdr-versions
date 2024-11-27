@@ -8,7 +8,7 @@
 
 |     |     |
 | --- | --- |
-| **You are 1 of 1063 active visitors** | **Wednesday, November 27, 2024** |
+| **You are 1 of 866 active visitors** | **Wednesday, November 27, 2024** |
 
 **EMAIL NEWS**![](/images/clear.gif)
 
@@ -109,7 +109,7 @@ Should you have questions or concerns relating to this Privacy Statement or comp
 |     |     |
 |     |     |    
 
- **QUOTES TO REMEMBER**And what country can preserve its liberties, if its rulers are not warned from time to time that this people preserve the spirit of resistance? Let them take arms....The tree of liberty must be refreshed from time to time, with the blood of patriots and tyrants. � Thomas Jefferson in a letter to William S. Smith in 1787. Taken from Jefferson, On Democracy p. 20, S. Padover ed., 1939
+ **QUOTES TO REMEMBER**The whole of the Bill of Rights is a declaration of the right of the people at large or considered as individuals. It establishes some rights of the individual as unalienable and which consequently, no majority has a right to deprive them of. � Albert Gallatin of the New York Historical Society, October 7, 1789.
 
 **COPYRIGHT POLICY:** The posting of copyrighted articles and other content, in whole or in part, is not allowed here. We have made an effort to educate our users about this policy and we are extremely serious about this. Users who are caught violating this rule will be warned and/or banned.  
 If you are the owner of content that you believe has been posted on this site without your permission, [please contact our webmaster by following this link](http://keepandbeararms.com/about/contact_us.asp). Please include with your message: (1) the particulars of the infringement, including a description of the content, (2) a link to that content here and (3) information concerning where the content in question was originally posted/published. We will address your complaint as quickly as possible. Thank you.
