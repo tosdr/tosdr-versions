@@ -117,57 +117,63 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Fast, Accurate & Easy to Use
-> ----------------------------
+> Impossible to run our businesses without IO
+> -------------------------------------------
 > 
-> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
+> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
+>   
+> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
+>   
+> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
+>   
+> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
 
-Jannie Schutte - myFinance-Online.co.za
+Kobus Venter
 
-![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=9e68d062b48ded348940b61a72f62d40da74acc0729cf2d3057102f7001a57aa&c=40524378)  
-Leef in Afrikaans
+![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=97bf2cbfc85e27fb365f3d0733c336d12e49a964e24855a444d935940bddd4f1&c=15892518)  
+#DiGi3 Marketing & Design
 
-![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=9e68d062b48ded348940b61a72f62d40da74acc0729cf2d3057102f7001a57aa&c=184728070)  
-Alliance Energy
-
-![valued client Moulded Wax SA - The Candle Store](https://www.invoicesonline.co.za/scripts/image.php?bid=8218&file=logo_300_100&type=&fe=9e68d062b48ded348940b61a72f62d40da74acc0729cf2d3057102f7001a57aa&c=167478248)  
-Moulded Wax SA - The Candle Store
-
-![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=9e68d062b48ded348940b61a72f62d40da74acc0729cf2d3057102f7001a57aa&c=153756644)  
-Electro-Heat
-
-![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=9e68d062b48ded348940b61a72f62d40da74acc0729cf2d3057102f7001a57aa&c=17239964)  
-Network Grey (Pty) Ltd
-
-![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=9e68d062b48ded348940b61a72f62d40da74acc0729cf2d3057102f7001a57aa&c=76657183)  
-Highlands Auto Engineering
-
-![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=9e68d062b48ded348940b61a72f62d40da74acc0729cf2d3057102f7001a57aa&c=64587610)  
-Little Nutty Professors
-
-![valued client Roekeloos Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8320&file=logo_300_100&type=&fe=9e68d062b48ded348940b61a72f62d40da74acc0729cf2d3057102f7001a57aa&c=91802370)  
-Roekeloos Group
-
-![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=9e68d062b48ded348940b61a72f62d40da74acc0729cf2d3057102f7001a57aa&c=166597382)  
-United Paintball Federation
-
-![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=9e68d062b48ded348940b61a72f62d40da74acc0729cf2d3057102f7001a57aa&c=61473600)  
+![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=97bf2cbfc85e27fb365f3d0733c336d12e49a964e24855a444d935940bddd4f1&c=7091459)  
 MONSTER SECURITY SERVICES
 
-![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=9e68d062b48ded348940b61a72f62d40da74acc0729cf2d3057102f7001a57aa&c=180631094)  
-Bloem Rugby Academy PTY (Ltd)
+![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=97bf2cbfc85e27fb365f3d0733c336d12e49a964e24855a444d935940bddd4f1&c=163524151)  
+Salvage Genie
 
-![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=9e68d062b48ded348940b61a72f62d40da74acc0729cf2d3057102f7001a57aa&c=48585152)  
-Xpress Designs
+![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=97bf2cbfc85e27fb365f3d0733c336d12e49a964e24855a444d935940bddd4f1&c=74409828)  
+Abandoned Vehicle and Truck Solutions
 
-![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=9e68d062b48ded348940b61a72f62d40da74acc0729cf2d3057102f7001a57aa&c=77779194)  
-Durbanville Classifieds (Pty) Ltd
+![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=97bf2cbfc85e27fb365f3d0733c336d12e49a964e24855a444d935940bddd4f1&c=118242152)  
+Adele Jordaan T/A Joyful Noise Music Room
 
-![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=9e68d062b48ded348940b61a72f62d40da74acc0729cf2d3057102f7001a57aa&c=213862381)  
-BD Maintenance
+![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=97bf2cbfc85e27fb365f3d0733c336d12e49a964e24855a444d935940bddd4f1&c=88577223)  
+MSPCloud (Pty) Ltd
 
-![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=9e68d062b48ded348940b61a72f62d40da74acc0729cf2d3057102f7001a57aa&c=131852888)  
-Kaylas Creations
+![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=97bf2cbfc85e27fb365f3d0733c336d12e49a964e24855a444d935940bddd4f1&c=77763030)  
+ARCHITEK PTY LTD
+
+![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=97bf2cbfc85e27fb365f3d0733c336d12e49a964e24855a444d935940bddd4f1&c=175506443)  
+OptaServ
+
+![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=97bf2cbfc85e27fb365f3d0733c336d12e49a964e24855a444d935940bddd4f1&c=79852287)  
+Tagline Brands
+
+![valued client Sophia's Roses](https://www.invoicesonline.co.za/scripts/image.php?bid=5227&file=logo_300_100&type=&fe=97bf2cbfc85e27fb365f3d0733c336d12e49a964e24855a444d935940bddd4f1&c=61691200)  
+Sophia's Roses
+
+![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=97bf2cbfc85e27fb365f3d0733c336d12e49a964e24855a444d935940bddd4f1&c=52780863)  
+Qothiphango Mining
+
+![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=97bf2cbfc85e27fb365f3d0733c336d12e49a964e24855a444d935940bddd4f1&c=95995540)  
+Mountain Lion Properties
+
+![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=97bf2cbfc85e27fb365f3d0733c336d12e49a964e24855a444d935940bddd4f1&c=38000407)  
+All Trucking Solutions
+
+![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=97bf2cbfc85e27fb365f3d0733c336d12e49a964e24855a444d935940bddd4f1&c=198258968)  
+Blue Sky Solar Services
+
+![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=97bf2cbfc85e27fb365f3d0733c336d12e49a964e24855a444d935940bddd4f1&c=102921397)  
+ELLIE'S CLEANING CHICKS
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
