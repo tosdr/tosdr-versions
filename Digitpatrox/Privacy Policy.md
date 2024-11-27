@@ -20,16 +20,16 @@ Wednesday, November 27 2024
 
 Latest
 
-* [The 2024 Guide to TikTok Scams](https://digitpatrox.com/the-2024-guide-to-tiktok-scams/)
-* [The IT department is finally getting the recognition it deserves, and it’s all down to the rise of AI – workers are gaining C-suite praise, bigger budgets, and pay rises](https://digitpatrox.com/the-it-department-is-finally-getting-the-recognition-it-deserves-and-its-all-down-to-the-rise-of-ai-workers-are-gaining-c-suite-praise-bigger-budgets-and-pay-rises/)
-* [All your privacy questions answered – Computerworld](https://digitpatrox.com/all-your-privacy-questions-answered-computerworld/)
-* [All the Best Best Black Friday Deals for Xbox, PlayStation, Switch, and PC Gamers](https://digitpatrox.com/all-the-best-best-black-friday-deals-for-xbox-playstation-switch-and-pc-gamers/)
-* [What is PhaaS (Phishing as a Service)?](https://digitpatrox.com/what-is-phaas-phishing-as-a-service/)
-* [Never Dress Your Child in a Bulky Winter Coat for Car Rides](https://digitpatrox.com/never-dress-your-child-in-a-bulky-winter-coat-for-car-rides/)
-* [Raycon Bone Conduction Headphones Review: Strong Battery, Weaker Sound](https://digitpatrox.com/raycon-bone-conduction-headphones-review-strong-battery-weaker-sound/)
-* [ASUS ProArt X870E-CREATOR WIFI review: For content creators!](https://digitpatrox.com/asus-proart-x870e-creator-wifi-review-for-content-creators/)
-* [Fresh warning issued over encryption-less ransomware as notorious threat group shifts tactics](https://digitpatrox.com/fresh-warning-issued-over-encryption-less-ransomware-as-notorious-threat-group-shifts-tactics/)
-* [Australia Passes Groundbreaking Cyber Security Law](https://digitpatrox.com/australia-passes-groundbreaking-cyber-security-law/)
+* [Microsoft says it’s not using your Word, Excel data for AI training](https://digitpatrox.com/microsoft-says-its-not-using-your-word-excel-data-for-ai-training/)
+* [The DJI Mini 3 is $100 off and matching its record low for Black Friday](https://digitpatrox.com/the-dji-mini-3-is-100-off-and-matching-its-record-low-for-black-friday/)
+* [Mel’s New Powers and Abilities in Arcane and League of Legends](https://digitpatrox.com/mels-new-powers-and-abilities-in-arcane-and-league-of-legends/)
+* [Ransomware gang demands $1.4 million from Louisiana school district](https://digitpatrox.com/ransomware-gang-demands-1-4-million-from-louisiana-school-district/)
+* [WithSecure Elements Cloud Platform review](https://digitpatrox.com/withsecure-elements-cloud-platform-review/)
+* [Download our Windows Repair Upgrade Cheat Sheet](https://digitpatrox.com/download-our-windows-repair-upgrade-cheat-sheet/)
+* [How to Customize Your Android Home Screen](https://digitpatrox.com/how-to-customize-your-android-home-screen/)
+* [Server Hardening Checklist: Fortify your server environment](https://digitpatrox.com/server-hardening-checklist-fortify-your-server-environment/)
+* [How to create hidden share folder on Windows 11, 10](https://digitpatrox.com/how-to-create-hidden-share-folder-on-windows-11-10/)
+* [Talking Cars 459: Driving the 2025 Hyundai Sonata](https://digitpatrox.com/talking-cars-459-driving-the-2025-hyundai-sonata/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/Guide-to-TikTok-scams.jpg)](https://digitpatrox.com/the-2024-guide-to-tiktok-scams/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/02/23/AI_robot_Windows_11.jpg)](https://digitpatrox.com/microsoft-says-its-not-using-your-word-excel-data-for-ai-training/)
     
-    [The 2024 Guide to TikTok Scams](https://digitpatrox.com/the-2024-guide-to-tiktok-scams/)
+    [Microsoft says it’s not using your Word, Excel data for AI training](https://digitpatrox.com/microsoft-says-its-not-using-your-word-excel-data-for-ai-training/)
     
-    1 second ago
+    22 minutes ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/RG3kQWB246adNEpYxSphtW-1200-80.jpg)](https://digitpatrox.com/the-it-department-is-finally-getting-the-recognition-it-deserves-and-its-all-down-to-the-rise-of-ai-workers-are-gaining-c-suite-praise-bigger-budgets-and-pay-rises/)
+* [![](https://cdn.vox-cdn.com/thumbor/gb5D_2e8P3G_ie-Ye20ijLY8W-c=/0x0:2097x1398/1200x628/filters:focal(1049x699:1050x700)/cdn.vox-cdn.com/uploads/chorus_asset/file/25761386/dji_mini_3_1.jpg)](https://digitpatrox.com/the-dji-mini-3-is-100-off-and-matching-its-record-low-for-black-friday/)
     
-    [The IT department is finally getting the recognition it deserves, and it’s all down to the rise of AI – workers are gaining C-suite praise, bigger budgets, and pay rises](https://digitpatrox.com/the-it-department-is-finally-getting-the-recognition-it-deserves-and-its-all-down-to-the-rise-of-ai-workers-are-gaining-c-suite-praise-bigger-budgets-and-pay-rises/)
+    [The DJI Mini 3 is $100 off and matching its record low for Black Friday](https://digitpatrox.com/the-dji-mini-3-is-100-off-and-matching-its-record-low-for-black-friday/)
     
-    30 minutes ago
+    39 minutes ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/11/2128281-0-99434200-1732705412-0-Microsoft-Windows-Recall-privacy.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/all-your-privacy-questions-answered-computerworld/)
+* [![](https://beebom.com/wp-content/uploads/2024/11/Mel-new-powers.jpg)](https://digitpatrox.com/mels-new-powers-and-abilities-in-arcane-and-league-of-legends/)
     
-    [All your privacy questions answered – Computerworld](https://digitpatrox.com/all-your-privacy-questions-answered-computerworld/)
+    [Mel’s New Powers and Abilities in Arcane and League of Legends](https://digitpatrox.com/mels-new-powers-and-abilities-in-arcane-and-league-of-legends/)
     
-    51 minutes ago
+    55 minutes ago
     
-* [![](https://lifehacker.com/imagery/articles/01JDN0W0NJMVY997C7M5PH4ED3/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/all-the-best-best-black-friday-deals-for-xbox-playstation-switch-and-pc-gamers/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/Ransomware-gang-demands-1.4-million-from-Louisiana-school-district.jpg)](https://digitpatrox.com/ransomware-gang-demands-1-4-million-from-louisiana-school-district/)
     
-    [All the Best Best Black Friday Deals for Xbox, PlayStation, Switch, and PC Gamers](https://digitpatrox.com/all-the-best-best-black-friday-deals-for-xbox-playstation-switch-and-pc-gamers/)
+    [Ransomware gang demands $1.4 million from Louisiana school district](https://digitpatrox.com/ransomware-gang-demands-1-4-million-from-louisiana-school-district/)
     
-    1 hour ago
+    2 hours ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/What-is-PhaaS-Phishing-as-a-Service_.jpg)](https://digitpatrox.com/what-is-phaas-phishing-as-a-service/)
+* [![](https://cdn.mos.cms.futurecdn.net/P2AU42Arw2v3trytr9n3yh-1200-80.jpg)](https://digitpatrox.com/withsecure-elements-cloud-platform-review/)
     
-    [What is PhaaS (Phishing as a Service)?](https://digitpatrox.com/what-is-phaas-phishing-as-a-service/)
+    [WithSecure Elements Cloud Platform review](https://digitpatrox.com/withsecure-elements-cloud-platform-review/)
     
-    1 hour ago
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [1 second ago
+* [22 minutes ago
     
-    ### The 2024 Guide to TikTok Scams](https://digitpatrox.com/the-2024-guide-to-tiktok-scams/)
-* [30 minutes ago
+    ### Microsoft says it’s not using your Word, Excel data for AI training](https://digitpatrox.com/microsoft-says-its-not-using-your-word-excel-data-for-ai-training/)
+* [39 minutes ago
     
-    ### The IT department is finally getting the recognition it deserves, and it’s all down to the rise of AI – workers are gaining C-suite praise, bigger budgets, and pay rises](https://digitpatrox.com/the-it-department-is-finally-getting-the-recognition-it-deserves-and-its-all-down-to-the-rise-of-ai-workers-are-gaining-c-suite-praise-bigger-budgets-and-pay-rises/)
-* [51 minutes ago
+    ### The DJI Mini 3 is $100 off and matching its record low for Black Friday](https://digitpatrox.com/the-dji-mini-3-is-100-off-and-matching-its-record-low-for-black-friday/)
+* [55 minutes ago
     
-    ### All your privacy questions answered – Computerworld](https://digitpatrox.com/all-your-privacy-questions-answered-computerworld/)
+    ### Mel’s New Powers and Abilities in Arcane and League of Legends](https://digitpatrox.com/mels-new-powers-and-abilities-in-arcane-and-league-of-legends/)
 
 Most Popular Topics
 
-* [August 30, 2024
+* [August 25, 2024
     
-    ### I Tried My iPhone’s Color Filters, Here Are My Favorites](https://digitpatrox.com/i-tried-my-iphones-color-filters-here-are-my-favorites/)
-* [2 weeks ago
+    ### Most and Least Reliable Refrigerator Brands](https://digitpatrox.com/most-and-least-reliable-refrigerator-brands/)
+* [September 7, 2024
     
-    ### VR Passthrough Needs to Get Much Better](https://digitpatrox.com/vr-passthrough-needs-to-get-much-better/)
-* [4 weeks ago
+    ### Nanoleaf’s Sense Plus Smart Switch is finally here](https://digitpatrox.com/nanoleafs-sense-plus-smart-switch-is-finally-here/)
+* [October 19, 2024
     
-    ### Google Explains How It Improved Meet Call Quality](https://digitpatrox.com/google-explains-how-it-improved-meet-call-quality/)
+    ### Amazon’s early Black Friday deals are up to 65% off — here’s my favorite power banks and chargers](https://digitpatrox.com/amazons-early-black-friday-deals-are-up-to-65-off-heres-my-favorite-power-banks-and-chargers/)
 
 Last Modified Topics
 
-* [2 hours ago
+* [3 hours ago
     
-    ### Raycon Bone Conduction Headphones Review: Strong Battery, Weaker Sound](https://digitpatrox.com/raycon-bone-conduction-headphones-review-strong-battery-weaker-sound/)
-* [2 hours ago
+    ### How to Customize Your Android Home Screen](https://digitpatrox.com/how-to-customize-your-android-home-screen/)
+* [3 hours ago
     
-    ### ASUS ProArt X870E-CREATOR WIFI review: For content creators!](https://digitpatrox.com/asus-proart-x870e-creator-wifi-review-for-content-creators/)
-* [2 hours ago
+    ### Server Hardening Checklist: Fortify your server environment](https://digitpatrox.com/server-hardening-checklist-fortify-your-server-environment/)
+* [3 hours ago
     
-    ### Fresh warning issued over encryption-less ransomware as notorious threat group shifts tactics](https://digitpatrox.com/fresh-warning-issued-over-encryption-less-ransomware-as-notorious-threat-group-shifts-tactics/)
+    ### How to create hidden share folder on Windows 11, 10](https://digitpatrox.com/how-to-create-hidden-share-folder-on-windows-11-10/)
 
 Most Viewed Topics
 
-* [August 11, 2024
-    
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 13, 2024
     
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
+* [August 12, 2024
+    
+    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
 * [October 2, 2024
     
     ### The best noise-canceling headphones for 2024](https://digitpatrox.com/the-best-noise-canceling-headphones-for-2024/)
