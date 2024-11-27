@@ -367,6 +367,7 @@ No credit card required.
     * [What To Watch on Netflix](https://www.plex.tv/what-to-watch/netflix/)
     * [What To Watch on Hulu](https://www.plex.tv/what-to-watch/hulu/)
     * [A24 movies](https://www.plex.tv/a24-movies/)
+    * [Christmas Movies](https://www.plex.tv/best-christmas-movies/)
 
 Copyright © 2024 Plex
 
