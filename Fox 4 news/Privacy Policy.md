@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Mega Millions jackpot lottery grows to $514 million: When is the next drawing?](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-1297834427.jpg?ve=1&tl=1)
+
+ ![Mega Millions jackpot lottery grows to $514 million: When is the next drawing?](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-1297834427.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mega-millions-jackpot-lottery-514-million-when-is-next-drawing)
+
+### [Mega Millions jackpot lottery grows to $514 million: When is the next drawing?](https://www.fox4news.com/news/mega-millions-jackpot-lottery-514-million-when-is-next-drawing)
+
+ [![Motorcyclist hits police car on Dallas highway](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/112624-north-central-expy-accident-kdfweme003_22_0_00.15.25.16.jpg?ve=1&tl=1)
+
+ ![Motorcyclist hits police car on Dallas highway](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/112624-north-central-expy-accident-kdfweme003_22_0_00.15.25.16.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/motorcyclist-hits-police-car-dallas-highway)
+
+### [Motorcyclist hits police car on Dallas highway](https://www.fox4news.com/news/motorcyclist-hits-police-car-dallas-highway)
+
+ [![Dallas police looking to identify suspect in deadly shooting](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/suspect-south-dallas.png?ve=1&tl=1)
+
+ ![Dallas police looking to identify suspect in deadly shooting](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/suspect-south-dallas.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/south-dallas-shooting-suspect)
+
+### [Dallas police looking to identify suspect in deadly shooting](https://www.fox4news.com/news/south-dallas-shooting-suspect)
+
+ [![Geomagnetic Storm Watch issued for Thanksgiving, Black Friday: Where Northern Lights could be visible](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/northern-lights-2.jpg?ve=1&tl=1)
+
+ ![Geomagnetic Storm Watch issued for Thanksgiving, Black Friday: Where Northern Lights could be visible](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/northern-lights-2.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/where-northern-lights-could-be-visible-thanksgiving-black-friday-2024)
+
+### [Geomagnetic Storm Watch issued for Thanksgiving, Black Friday: Where Northern Lights could be visible](https://www.fox4news.com/news/where-northern-lights-could-be-visible-thanksgiving-black-friday-2024)
+
  [![North Texas woman inspired by community's support gives back with Thanksgiving meals](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/p-amelia-thanksgiving-meal-giveaway-9p_00.00.48.14.jpg?ve=1&tl=1)
 
  ![North Texas woman inspired by community's support gives back with Thanksgiving meals](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/p-amelia-thanksgiving-meal-giveaway-9p_00.00.48.14.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/north-texas-woman-inspired-communitys-support-gives-back-thanksgiving-meals)
 
 ### [North Texas woman inspired by community's support gives back with Thanksgiving meals](https://www.fox4news.com/news/north-texas-woman-inspired-communitys-support-gives-back-thanksgiving-meals)
-
- [![Israel-Hezbollah ceasefire to take effect Wednesday, Biden says](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/biden-ceasefire-remarks-getty.jpg?ve=1&tl=1)
-
- ![Israel-Hezbollah ceasefire to take effect Wednesday, Biden says](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/biden-ceasefire-remarks-getty.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/watch-biden-discuss-middle-east-peace-talks-ceasefire)
-
-### [Israel-Hezbollah ceasefire to take effect Wednesday, Biden says](https://www.fox4news.com/news/watch-biden-discuss-middle-east-peace-talks-ceasefire)
-
- [![Former Arizona Coyotes player, Paul Bissonnette, assaulted at Scottsdale restaurant](https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/11/32/18/gettyimages-482770757-scaled.jpg?ve=1&tl=1)
-
- ![Former Arizona Coyotes player, Paul Bissonnette, assaulted at Scottsdale restaurant](https://images.foxtv.com/images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/11/32/18/592/333/gettyimages-482770757-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/former-arizona-coyotes-player-paul-bissonnette-assaulted-scottsdale-restaurant)
-
-### [Police ID suspects in Paul Bissonnette assault](https://www.fox4news.com/news/former-arizona-coyotes-player-paul-bissonnette-assaulted-scottsdale-restaurant)
-
- [![Social media stars Big Justice, A.J. bring the boom to Arlington BBQ shop](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/9nv-toss-to-costco-guys_kdfw6458_146_mxf_00.00.00.00.jpg?ve=1&tl=1)
-
- ![Social media stars Big Justice, A.J. bring the boom to Arlington BBQ shop](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/9nv-toss-to-costco-guys_kdfw6458_146_mxf_00.00.00.00.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/big-justice-aj-arlington-boom)
-
-### [Social media stars Big Justice, A.J. bring the boom to Arlington BBQ shop](https://www.fox4news.com/news/big-justice-aj-arlington-boom)
-
- [![Greenville police officer shot and killed in 'ambush' attack, police say](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/v_greenville_pickett_st_ois_4a_mxf_00.00.59.06-1.jpg?ve=1&tl=1)
-
- ![Greenville police officer shot and killed in 'ambush' attack, police say](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/v_greenville_pickett_st_ois_4a_mxf_00.00.59.06-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/greenville-police-officer-shot-killed)
-
-### [Greenville police officer shot and killed in 'ambush' attack, police say](https://www.fox4news.com/news/greenville-police-officer-shot-killed)
 
 ###### [News](https://www.fox4news.com/news)
 
