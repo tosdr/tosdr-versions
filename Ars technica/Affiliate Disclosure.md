@@ -87,13 +87,13 @@ Most Read
     
     1. [After Russian ship docks to space station, astronauts report a foul smell](https://arstechnica.com/space/2024/11/after-russian-ship-docks-to-space-station-astronauts-report-a-foul-smell/)
     
-2. 2. [Nvidia’s new AI audio model can synthesize sounds that have never existed](https://arstechnica.com/ai/2024/11/nvidias-new-ai-audio-model-can-synthesize-sounds-that-have-never-existed/)
+2. 2. [Are any of Apple’s official MagSafe accessories worth buying?](https://arstechnica.com/gadgets/2024/11/are-any-of-apples-official-magsafe-accessories-worth-buying/)
     
-3. 3. [Are any of Apple’s official MagSafe accessories worth buying?](https://arstechnica.com/gadgets/2024/11/are-any-of-apples-official-magsafe-accessories-worth-buying/)
+3. 3. [Nvidia’s new AI audio model can synthesize sounds that have never existed](https://arstechnica.com/ai/2024/11/nvidias-new-ai-audio-model-can-synthesize-sounds-that-have-never-existed/)
     
-4. 4. [Supreme Court wants US input on whether ISPs should be liable for users’ piracy](https://arstechnica.com/tech-policy/2024/11/supreme-court-may-decide-whether-isps-must-terminate-users-accused-of-piracy/)
+4. 4. [With Dragonfly contract, NASA will certify SpaceX for nuclear-powered payloads](https://arstechnica.com/space/2024/11/with-dragonfly-contract-nasa-will-certify-spacex-for-nuclear-powered-payloads/)
     
-5. 5. [OpenAI blamed NYT for tech problem erasing evidence of copyright abuse](https://arstechnica.com/tech-policy/2024/11/tech-problems-plague-openai-court-battles-judge-rejects-a-key-fair-use-defense/)
+5. 5. [Supreme Court wants US input on whether ISPs should be liable for users’ piracy](https://arstechnica.com/tech-policy/2024/11/supreme-court-may-decide-whether-isps-must-terminate-users-accused-of-piracy/)
     
 
 Customize
