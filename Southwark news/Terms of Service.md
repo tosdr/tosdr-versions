@@ -20,6 +20,10 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Jaqueline Willis and Doreen Dower outside the Lewington Centre](https://southwarknews.co.uk/wp-content/uploads/2024/11/image00003-8-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-community-centre-putting-profit-before-residents-since-120-million-regeneration-locals-claim/)
+    
+    ### [Rotherhithe community centre ‘putting profit before residents’ since £120 million regeneration, locals claim](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-community-centre-putting-profit-before-residents-since-120-million-regeneration-locals-claim/)
+    
     [![Anne Davis says a routine bus trip has become a logistical nightmare](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_3311-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-92-faces-hour-long-bus-journey-to-reach-high-street-fifteen-minutes-away-and-now-cannot-reach-it-at-all/)
     
     ### [Bermondsey pensioner, 92, faces hour-long bus journey to reach high street fifteen-minutes away – and now cannot reach it at all](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-92-faces-hour-long-bus-journey-to-reach-high-street-fifteen-minutes-away-and-now-cannot-reach-it-at-all/)
@@ -51,10 +55,6 @@
     [![Brixton Road. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/11/Brixton-Road.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/kennington/man-charged-with-attempted-murder-over-brixton-bus-incident/)
     
     ### [Man charged with attempted murder over Brixton bus incident](https://southwarknews.co.uk/area/kennington/man-charged-with-attempted-murder-over-brixton-bus-incident/)
-    
-    [![Westminster Bridge. Credit- Bjørn Erik Pedersen (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Westminster-Bridge.-Credit-Bjorn-Erik-Pedersen-Creative-Commons-360x180.jpg)](https://southwarknews.co.uk/area/waterloo/westminster-bridge-three-arrested-on-suspicion-of-attempted-murder/)
-    
-    ### [Westminster Bridge: Three arrested on suspicion of attempted murder](https://southwarknews.co.uk/area/waterloo/westminster-bridge-three-arrested-on-suspicion-of-attempted-murder/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,6 +105,10 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Jaqueline Willis and Doreen Dower outside the Lewington Centre](https://southwarknews.co.uk/wp-content/uploads/2024/11/image00003-8-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-community-centre-putting-profit-before-residents-since-120-million-regeneration-locals-claim/)
+    
+    ### [Rotherhithe community centre ‘putting profit before residents’ since £120 million regeneration, locals claim](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-community-centre-putting-profit-before-residents-since-120-million-regeneration-locals-claim/)
+    
     [![Anne Davis says a routine bus trip has become a logistical nightmare](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_3311-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-92-faces-hour-long-bus-journey-to-reach-high-street-fifteen-minutes-away-and-now-cannot-reach-it-at-all/)
     
     ### [Bermondsey pensioner, 92, faces hour-long bus journey to reach high street fifteen-minutes away – and now cannot reach it at all](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-92-faces-hour-long-bus-journey-to-reach-high-street-fifteen-minutes-away-and-now-cannot-reach-it-at-all/)
@@ -136,10 +140,6 @@ View All Result
     [![Brixton Road. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/11/Brixton-Road.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/kennington/man-charged-with-attempted-murder-over-brixton-bus-incident/)
     
     ### [Man charged with attempted murder over Brixton bus incident](https://southwarknews.co.uk/area/kennington/man-charged-with-attempted-murder-over-brixton-bus-incident/)
-    
-    [![Westminster Bridge. Credit- Bjørn Erik Pedersen (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Westminster-Bridge.-Credit-Bjorn-Erik-Pedersen-Creative-Commons-360x180.jpg)](https://southwarknews.co.uk/area/waterloo/westminster-bridge-three-arrested-on-suspicion-of-attempted-murder/)
-    
-    ### [Westminster Bridge: Three arrested on suspicion of attempted murder](https://southwarknews.co.uk/area/waterloo/westminster-bridge-three-arrested-on-suspicion-of-attempted-murder/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -223,6 +223,12 @@ Terms of Use
 
 [25th November 2024](https://southwarknews.co.uk/area/peckham/most-people-in-southwark-cant-afford-these-homes-protestors-unite-against-berkeley-homes-unfit-plans-for-peckham/)
 
+[![Anne Davis says a routine bus trip has become a logistical nightmare](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_3311-120x86.jpeg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-92-faces-hour-long-bus-journey-to-reach-high-street-fifteen-minutes-away-and-now-cannot-reach-it-at-all/)
+
+### [Bermondsey pensioner, 92, faces hour-long bus journey to reach high street fifteen-minutes away – and now cannot reach it at all](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-92-faces-hour-long-bus-journey-to-reach-high-street-fifteen-minutes-away-and-now-cannot-reach-it-at-all/)
+
+[26th November 2024](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-92-faces-hour-long-bus-journey-to-reach-high-street-fifteen-minutes-away-and-now-cannot-reach-it-at-all/)
+
 [![The chairs in Elephant and Castle (credit: Russell Cronin, social media)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-20-11-2024-at-15.14-120x86.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/fancy-a-chat-council-blunder-in-elephant-and-castle-as-misplaced-chairs-spark-confusion/)
 
 ### [‘Fancy a chat?’: Council blunder in Elephant and Castle as misplaced chairs spark confusion](https://southwarknews.co.uk/area/elephant-and-castle/fancy-a-chat-council-blunder-in-elephant-and-castle-as-misplaced-chairs-spark-confusion/)
@@ -234,12 +240,6 @@ Terms of Use
 ### [Boy, 14, stabbed in South London](https://southwarknews.co.uk/news/crime/boy-14-stabbed-in-south-london/)
 
 [23rd November 2024](https://southwarknews.co.uk/news/crime/boy-14-stabbed-in-south-london/)
-
-[![Jake Cooper has every league game he's been healthy for this season.](https://southwarknews.co.uk/wp-content/uploads/2024/11/J-Cooper-55545-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-confirms-jake-cooper-is-out-for-ten-weeks/)
-
-### [Millwall boss confirms Jake Cooper is out for ten weeks](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-confirms-jake-cooper-is-out-for-ten-weeks/)
-
-[23rd November 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-confirms-jake-cooper-is-out-for-ten-weeks/)
 
 ### Featured Articles
 
