@@ -66,7 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Hassan Banks on Little](/assets/Images/teasers/full/NH-Banking-2014.png)](http://www.followthemoney.org/research/blog/maggie-hassan-banks-on-jerry-little/)
+[![Names in the News: Alpha Natural Resources](/assets/Images/teasers/full/ANR-Coal-by-Party.png)](http://www.followthemoney.org/research/institute-reports/names-in-the-news-alpha-natural-resources/)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
