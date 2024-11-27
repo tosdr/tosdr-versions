@@ -1,4 +1,4 @@
-Leading Marketers Are Benefitting From **[D-ID’s Marketing Suite >>](https://www.d-id.com/marketing-solutions/)**
+Black Friday savings – **50% off** Pro and Advanced annual plans! [Use code: WEB50 >>](https://www.d-id.com/pricing/studio/)
 
 [![](https://www.d-id.com/wp-content/uploads/2023/11/d-id-logo.svg)](https://www.d-id.com/)
 
