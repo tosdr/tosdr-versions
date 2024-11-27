@@ -99,25 +99,25 @@ We welcome feedback from our viewers and readers. If readers/viewers have a conc
 Top of Today
 ------------
 
-1. [![Marc Bru (U.S. Attorney's Office)](https://am22.mediaite.com/lc/cnt/uploads/2024/01/Marc-Bru-432x243.jpg)](https://lawandcrime.com/high-profile/f-ing-kangaroo-court-proud-boy-who-stormed-capitol-and-berated-obama-appointed-judge-gets-reduced-sentence/)
+1. [![Maryland Highway 210 with images of Loretta Canter and Sandra Orellana](https://am23.mediaite.com/lc/cnt/uploads/2024/11/highway-of-death-moms-432x243.jpg)](https://lawandcrime.com/crime/multiple-hit-and-runs-on-highway-of-death-claim-2-mothers-lives-within-24-hours/)
     
-    ### ['F---ing kangaroo court': Proud Boy who stormed Capitol and berated Obama-appointed judge gets reduced sentence](https://lawandcrime.com/high-profile/f-ing-kangaroo-court-proud-boy-who-stormed-capitol-and-berated-obama-appointed-judge-gets-reduced-sentence/)
+    ### [Multiple hit-and-runs on 'highway of death' claim 2 mothers' lives within 24 hours](https://lawandcrime.com/crime/multiple-hit-and-runs-on-highway-of-death-claim-2-mothers-lives-within-24-hours/)
     
-2. [![Left to right: Donald Trump, Juan Merchan, Alvin Bragg, and Jack Smith.](https://am22.mediaite.com/lc/cnt/uploads/2024/11/Trump-Merchan-Bragg-Smith-432x243.jpg)](https://lawandcrime.com/high-profile/hush-money-judge-gives-trump-one-final-twist-of-the-knife-by-rejecting-lengthy-deadlines-in-favor-of-das-quick-turnaround-and-deals-jack-smith-one-final-card-to-play/)
+2. [![Inset: Shamika Mitchell (Volusia County Division of Corrections). Background: Daytona Beach, Florida, where Shamika Mitchell abandoned her 1-year-old son (WRAL/YouTube).](https://am21.mediaite.com/lc/cnt/uploads/2024/11/Shamika-Mitchell-432x243.jpg)](https://lawandcrime.com/crime/my-mom-is-possessed-by-demons-mother-abandons-toddler-on-daytona-beach-teen-brother-calls-cops-on-her/)
     
-    ### [Hush-money judge gives Trump one final twist of the knife by rejecting lengthy deadlines in favor of DA's quick turnaround — and deals Jack Smith one final card to play](https://lawandcrime.com/high-profile/hush-money-judge-gives-trump-one-final-twist-of-the-knife-by-rejecting-lengthy-deadlines-in-favor-of-das-quick-turnaround-and-deals-jack-smith-one-final-card-to-play/)
+    ### ['My mom is possessed by demons': Mother abandons toddler on Daytona Beach, teen brother calls cops on her](https://lawandcrime.com/crime/my-mom-is-possessed-by-demons-mother-abandons-toddler-on-daytona-beach-teen-brother-calls-cops-on-her/)
     
-3. [![Republican presidential candidate former President Donald Trump speaks with reporters at the National Republican Senatorial Committee, Thursday, June 13, 2024, in Washington, as from left, Sen. Rick Scott, R-Fla., Sen. Ron Johnson, R-Wis., Sen. John Barrasso, R-Wyo., Sen Roger Marshall, R-Kan., Sen. J.D. Vance, R-Ohio, and Sen. Steve Daines, R-Mont., listen. (AP Photo/Evan Vucci)](https://am23.mediaite.com/lc/cnt/uploads/2024/11/trumpsenate-ap-432x243.jpg)](https://lawandcrime.com/high-profile/immediate-litigation-trumps-fight-to-end-birthright-citizenship-faces-126-year-old-legal-hurdle/)
+3. [![Donald Trump appears in Salem, Virginia.](https://am22.mediaite.com/lc/cnt/uploads/2024/11/AP24331802381280-crop-432x243.jpg)](https://lawandcrime.com/high-profile/die-to-become-royalty-gun-toting-man-threatened-trump-and-his-family-with-vague-yet-direct-violence-in-numerous-lengthy-facebook-videos-for-several-months-feds-say/)
     
-    ### ['Immediate litigation': Trump's fight to end birthright citizenship faces 126-year-old legal hurdle](https://lawandcrime.com/high-profile/immediate-litigation-trumps-fight-to-end-birthright-citizenship-faces-126-year-old-legal-hurdle/)
+    ### ['Die to become royalty': Gun-toting man threatened Trump and his family with 'vague yet direct' violence in 'numerous lengthy' Facebook videos for several months, feds say](https://lawandcrime.com/high-profile/die-to-become-royalty-gun-toting-man-threatened-trump-and-his-family-with-vague-yet-direct-violence-in-numerous-lengthy-facebook-videos-for-several-months-feds-say/)
     
-4. [![Marvin Redondo-Funes](https://am23.mediaite.com/lc/cnt/uploads/2024/11/Marvin-Redondo-Funes-432x243.jpg)](https://lawandcrime.com/crime/man-taking-photo-of-florida-welcomes-you-sign-causes-car-crash-that-kills-his-niece-and-nephews-cops/)
+4. [![Clockwise from top left: Javi Maquindang, Christine Aca-ac, Matthew Montebello, and Edwin Garcia (GoFundMe).](https://am24.mediaite.com/lc/cnt/uploads/2024/11/asdfadfdasfa-432x243.jpg)](https://lawandcrime.com/crime/jilted-boyfriend-killed-ex-and-3-roommates-as-they-peacefully-slept-in-their-beds-then-lit-house-on-fire-to-cover-it-up-police/)
     
-    ### [Man taking photo of 'Florida Welcomes You' sign causes car crash that kills his niece and nephews: Cops](https://lawandcrime.com/crime/man-taking-photo-of-florida-welcomes-you-sign-causes-car-crash-that-kills-his-niece-and-nephews-cops/)
+    ### [Jilted boyfriend killed ex and 3 roommates 'as they peacefully slept in their beds,' then lit house on fire to cover it up: Police](https://lawandcrime.com/crime/jilted-boyfriend-killed-ex-and-3-roommates-as-they-peacefully-slept-in-their-beds-then-lit-house-on-fire-to-cover-it-up-police/)
     
-5. [![Insets, from left: Dinora Cardoso, Eva Fontes Cardoso, Kayla Cardoso, and Lisa Hamilton. Background: The location where Dinora Cardoso was found in severe neglect (WFXT).](https://am24.mediaite.com/lc/cnt/uploads/2024/11/massneglect-432x243.jpg)](https://lawandcrime.com/crime/3-charged-in-death-of-elderly-woman-found-stuck-to-mattress-infested-with-cockroaches-bedbugs-and-feces-prosecutors/)
+5. [![Left: Marilyn Manson at The 2016 Fashion Awards held on December 5, 2016 at The Royal Albert Hall in London, England, UK (File Photo by: zz/KGC-03/STAR MAX/IPx 2016). Right: Right: Evan Rachel Wood speaks onstage at Let's Get WEIRD panel during New York Comic Con 2022 on October 09, 2022 in New York (NDZ/STAR MAX photo).](https://am23.mediaite.com/lc/cnt/uploads/2024/08/Marilyn-Manson-Evan-Rachel-Wood-432x243.jpg)](https://lawandcrime.com/high-profile/marilyn-manson-drops-defamation-claim-against-evan-rachel-wood-agrees-to-pay-full-fee-award-of-attorney-costs/)
     
-    ### [3 charged in death of elderly woman found stuck to mattress infested with cockroaches, bedbugs and feces: Prosecutors](https://lawandcrime.com/crime/3-charged-in-death-of-elderly-woman-found-stuck-to-mattress-infested-with-cockroaches-bedbugs-and-feces-prosecutors/)
+    ### [Marilyn Manson drops defamation claim against Evan Rachel Wood, agrees to pay 'full fee award' of attorney costs](https://lawandcrime.com/high-profile/marilyn-manson-drops-defamation-claim-against-evan-rachel-wood-agrees-to-pay-full-fee-award-of-attorney-costs/)
     
 
 [](http://eepurl.com/c89Jdb)
