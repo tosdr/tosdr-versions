@@ -6,9 +6,9 @@ To find out whether your browser supports Javascript, or to allow scripts, see t
 
 [](https://www.xlovecam.com/en/)
 
-[![XloveCam®](//medianew.wlresources.com/wl/xlovecam/logo-1663.png)](https://www.xlovecam.com/en/)
+[![](//img.wlresources.com/modelmanager/marketing/logo-xlovecam.png)](https://www.xlovecam.com/en/)
 
-* [Free Sex Cams (813)](https://www.xlovecam.com/en/)
+* [Free Sex Cams (415)](https://www.xlovecam.com/en/)
 * [Media](#)
     
     * [Pictures](https://www.xlovecam.com/en/photos/)
