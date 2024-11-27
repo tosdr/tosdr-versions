@@ -1,9 +1,5 @@
-### [Go to 99math](https://99math.com/)
-
-[![](//v.fastcdn.co/t/35959ce9/10615b0d/1728857030-49473945-125x80-99mathlogo-white.png)](http://www.99math.com/)
-
-**Privacy Policy**
-==================
+99math's Privacy Policy
+=======================
 
 Last revised at: Sep. 1st, 2021
 
