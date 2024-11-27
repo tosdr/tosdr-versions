@@ -42,6 +42,10 @@ Light Dark
     [Community](https://forum.gg.deals/)
     
 
+AllAll Platforms
+
+AllAll PlatformsPCXboxPlayStationSwitch
+
 * [Sign in](https://gg.deals/login/)
 
 * [Home](https://gg.deals/) 
