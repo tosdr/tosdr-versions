@@ -31,6 +31,136 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Controles de exceso de velocidad en Quito este miércoles 27 de noviembre
+========================================================================
+
+Estos son los horarios y los puntos donde se realizarán los controles preventivos de velocidad en Quito. Estos no tendrán sanciones
+-----------------------------------------------------------------------------------------------------------------------------------
+
+![Dos operativos de control de exceso de velocidad se harán este miércoles 27 de noviembre.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-31-1.jpg)
+
+La **Agencia Metropolitana de Tránsito** (AMT) informó sobre la reanudación de los **controles preventivos** de velocidad que se realizarán en las calles de Quito.
+
+### Más noticias
+
+* [Así funciona el Pico y placa en Quito este miércoles 27 de noviembre](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-en-quito-este-miercoles-27-de-noviembre.html "Así funciona el Pico y placa en Quito este miércoles 27 de noviembre")
+* [La Mascarada Nocturna será el jueves 28 de noviembre; estos son los cierres viales](https://www.elcomercio.com/actualidad/quito/mascarada-nocturna-jueves-28-de-noviembre-cierres-viales.html "La Mascarada Nocturna será el jueves 28 de noviembre; estos son los cierres viales")
+* [Cierres viales por las fiestas de Quito del 26 al 30 de noviembre](https://www.elcomercio.com/actualidad/quito/fiestas-quito-cierres-viales-amt.html "Cierres viales por las fiestas de Quito del 26 al 30 de noviembre")
+
+Operativos se reanudan tras suspensión
+--------------------------------------
+
+La Agencia Metropolitana de Tránsito (AMT) realizó **controles de exceso de velocidad en Quito** hasta el mes de septiembre en algunas vías de Quito. Estos operativos de control de exceso de velocidad tienen el objetivo de **reducir los siniestros de tránsito y salvar vidas**.
+
+La AMT ejecutó el último **operativo preventivo de control de velocidad** el martes 24 de septiembre en la av. Simón Bolívar, una de las vías que más [siniestros](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito") registra.
+
+El mismo 24 de septiembre, la **Agencia de Tránsito** informó que, en la coyuntura de los cortes de luz que se realizan en Quito, se decidió **suspender de forma temporal los operativos**. Tanto los controles preventivos como los sancionatorios se detuvieron desde esa última semana de septiembre.
+
+Esta decisión se tomó como un **esfuerzo para realizar una mejor gestión del tránsito** vehicular durante los apagones. De ese modo, **todo el contingente de la AMT** está concentrado en asistir a la ciudadanía en los principales cruces cuando los semáforos se quedan sin luz.
+
+La **AMT además destina** a su personal para la **atención de emergencias** como los incendios que se registraron en Quito los últimos días de septiembre. Así como las complicaciones causadas por las lluvias en el mes de octubre.
+
+Operativos de control de velocidad se reanudan
+----------------------------------------------
+
+La AMT informó que, debido a que las **horas de cortes de luz** se redujeron, se retomará la realización de los **controles preventivos de velocidad.**
+
+Así mismo, los agentes podrán retomar la ejecución de los **controles de alcotest,** placas y que no circulen dos hombres en moto.
+
+Los **controles preventivos de velocidad** se retomarán nuevamente en Quito y se harán de manera periódica. Los primeros se harán durante todos los días de esta semana.
+
+Dos controles de velocidad se realizaron la mañana del **martes 26 de noviembre**. Uno de ellos se realizó en Guajaló (mañana) y el otro en la av. Panamericana (tarde).
+
+Para este miércoles 27 de noviembre están previstos dos controles preventivos de exceso velocidad en los siguientes puntos y horas:
+
+* De 09:00 a 10:00, **av. Mariscal Sucre y Mariana de Jesús,** sentido norte-sur
+* De 16:00 a 17:00, **av. Mariscal Sucre y La Maná,** sentido sur-norte
+
+Estos operativos son preventivos, es decir, loa **agentes de tránsito no impondrán sanciones** a los conductores que excedan los límites [permitidos de velocidad](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
+
+Próximos operativos
+-------------------
+
+* **Jueves 28 de noviembre:**
+    * De 10:30 a 11:30, av. Simón Bolívar, sector Santa Rosa, sentido sur-norte
+    * De 14:00 a 15:00, av. Velasco Ibarra, mirador, sentido sur-norte
+* **Viernes 29 de noviembre:**
+    * De 10:00 a 11:00, av. Mariscal Sucre y Fernández Salvador, sentido sur-norte
+    * De 14:30 a 15:30, av. Simón Bolívar, sector Santa Rosa, sentido sur-norte
+* **Lunes 2 de diciembre:**
+    * De 10:30 a 11:30, av. Simón Bolívar, sector Más Gas, sentido sur-norte
+    * De 14:30 a 15:30, av. De los Shyris y Portugal, sentido norte-sur
+* **Martes 3 de diciembre:**
+    * De 07:00 a 08:00, av. Tnt. Hugo Ortiz, sentido sur-norte
+    * De 15:00 a 16:00, av. Simón Bolívar, sector La Pampa, sentido norte-sur
+
+Así funciona el Pico y placa en Quito este miércoles 27 de noviembre
+====================================================================
+
+Cuatro contraflujos se realizan en Quito como medidas simultáneas para controlar el flujo vehicular, además del Pico y placa
+----------------------------------------------------------------------------------------------------------------------------
+
+![La medida Pico y placa se aplica en Quito de lunes a viernes.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-2024-11-26T143751.355.jpg)
+
+El **Municipio de Quito** implementó la medida de **Pico y placa en Quito** para controlar el flujo vehicular dentro de la ciudad.
+
+### Más noticias
+
+* [Cierres viales por las fiestas de Quito del 26 al 30 de noviembre](https://www.elcomercio.com/actualidad/quito/fiestas-quito-cierres-viales-amt.html "Cierres viales por las fiestas de Quito del 26 al 30 de noviembre")
+* [Controles de exceso de velocidad se reanudan en Quito este martes 26 de noviembre](https://www.elcomercio.com/actualidad/quito/controles-exceso-velocidad-se-reanudan-quito-martes-26-noviembre.html "Controles de exceso de velocidad se reanudan en Quito este martes 26 de noviembre")
+* [La Mascarada Nocturna será el jueves 28 de noviembre; estos son los cierres viales](https://www.elcomercio.com/actualidad/quito/mascarada-nocturna-jueves-28-de-noviembre-cierres-viales.html "La Mascarada Nocturna será el jueves 28 de noviembre; estos son los cierres viales")
+
+¿Cómo funciona el Pico y placa?
+-------------------------------
+
+La medida del **Pico y placa** incluye a todos los vehículos y motos del Distrito Metropolitano, a excepción de los conducidos por personas de la tercera edad o con discapacidad.
+
+La restricción vehicular **Pico y placa en Quito** se aplica cinco días a la semana, de **lunes a viernes**, de 06:00 a 09:30 y de **16:00 a 20:00**.
+
+Este **miércoles,** no pueden circular los autos con **placas terminadas en dígitos 5 y 6.**
+
+Contraflujos y Pico y placa en Quito
+------------------------------------
+
+Como medida adicional **al Pico y placa**, para que el tránsito tenga mayor fluidez en horas pico, la Agencia Metropolitana de Tránsito (AMT) también aplica **cuatro contraflujos en Quito**, estos son:
+
+–**Avenida Mariscal Sucre:** desde el cementerio de San Diego hasta la avenida Universitaria.
+
+Mañana: 06:30 a 07:00 y de 07:30 a 08:00
+
+Tarde: 16:30 a 17:00 y 17:30 a 18:00
+
+–**Autopista General Rumiñahui:** desde la av. Pichincha, en El Trébol, hasta el sector de Cuscungo, en la autopista.
+
+Mañana: 06:30 a 07:30 y de 08:00 a 08:30
+
+Tarde: 16:30 a 19:30
+
+–**Avenida Velasco Ibarra** (Oriental): en la mañana desde la avenida Napo hasta la av. Velasco Ibarra (La Tola). En la tarde, desde el coliseo Rumiñahui hasta La Tola.
+
+Mañana: 06:00 a 08:30
+
+Tarde: 17:00 a 19:00
+
+– **Túnel Guayasamín:** desde la av. Guayasamín y av. Simón Bolívar hasta la av. 6 de Diciembre y av. Oswaldo Guayasamín y viceversa en la tarde.
+
+Mañana: 07:00 a 08:30
+
+Tarde: de 16:00 a 19:30
+
+Mantente atento a estos contraflujos y a los **horarios de Pico y placa** en Quito y [evita sanciones.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
+
+> 📢 [#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Ponte pilas!  
+> ⏰ Conoce los horarios y los tramos de los contraflujos que hay en la ciudad.  
+>   
+> 👮‍♂️ Conduce con precaución, respeta las normas y llega seguro a tu destino.  
+>   
+> 🤝 Juntos llegamos sin contratiempos.  
+>   
+> ☀️[#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/nfehiI0uUO](https://t.co/nfehiI0uUO)
+> 
+> — AMTQuito (@AMT\_Quito) [October 22, 2024](https://twitter.com/AMT_Quito/status/1848669582912897155?ref_src=twsrc%5Etfw)
+
 La sentencia en el caso Metástasis es un hito
 =============================================
 
@@ -55,6 +185,24 @@ En este contexto, la **sociedad ecuatoriana** debe mantener una vigilancia activ
 
 El caso [Metástasis](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-jueza-confirma-delincuencia-organizada-se-espera-sentencia.html "https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-jueza-confirma-delincuencia-organizada-se-espera-sentencia.html") es un espejo que refleja tanto los aciertos como las **deficiencias del sistema judicial** ecuatoriano. Su desenlace plantea un desafío colectivo: fortalecer las instituciones, garantizar la independencia judicial y construir un país donde la justicia no sea una **promesa vacía**, sino una realidad tangible.
 
+Adanismo populista
+==================
+
+El adanismo populista concentra poder, deslegitima el pasado y suprime disidencias bajo líderes autoritarios.
+-------------------------------------------------------------------------------------------------------------
+
+![Ramiro Rivera Molina, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Ramiro-Rivera-Molina.jpg)
+
+Si recurrimos a la **Real Academia Española** (RAE), dice del _adanismo_: «_Hábito de comenzar una actividad cualquiera como si nadie hubiera ejercido anteriormente_».  En su **dimensión etimológica,** constituye el inicio y el origen. Antes de Adán nada existe. Ni hechos ni historia.  Es lo recién aparecido. La jactancia de ser los únicos. Los primeros en pensar y hacer algo por los demás. El **adanismo** es uno de los síndromes del populismo egocentrista, **paternalista**, **arrogante, infalible, exaltado, narcisista**, teatral.
+
+El síntoma es el espíritu refundacional. No reconocen la existencia de un **poder constituido**, aunque corroído por el desgaste de la representación, la desconfianza o la pérdida de **legitimidad**. Acceden al poder por la **constitución**, pero no juramentan respetarla. Se empeñan en los **procesos constituyentes** con plenos poderes. Parten de la nada. Satanizan al pasado. Todo es prehistoria. El **adanismo populista** reescribe su historieta trágica, beligerante y mesiánica. Colonizan con el ideologismo unicolor. Se empeñan por la **hegemonía** absoluta.
+
+Exhiben una **visión dicotómica** de la **sociedad**. La dialéctica del **antagonismo** irreconciliable entre los buenos y malos, patriotas y traidores, ricos y pobres, amigos y enemigos. No hay espacio para las mediaciones y consensos. Se trata de abatir y aniquilar al enemigo. El soñado anhelo de acumular el **poder** absoluto, borrar la división de **poderes**, los **equilibrios** y balances. Concentrar y centralizar el poder. La totalidad lo conquista el **carismático** y amado líder, quien define todo.
+
+No caben mediaciones, ni **tejido social** y menos el institucional. Por eso incomoda la **libertad de expresión** y los medios de comunicación que son silenciados y estatizados. Las agrupaciones, partidos, gremios, **asociaciones**, instituciones; son sometidas a **vigilancia**, perseguidas y reducidas a la nada.  La única voz es la oficial. Impera el Estado de Propaganda. Se busca pintar todo con un solo color. La **homogeneidad**. La hegemonía despótica. Por eso, los populismos devienen en **autoritarios** y **totalitarios**.
+
+El caudillo es la **encarnación** del **pueblo**. El pueblo es él. Eliecer Gaitán decía: «_Yo no soy un hombre, yo soy un pueblo_». Algo parecido, lo ha repetido Hugo Chávez, Nicolás Maduro, Evo Morales, Daniel Ortega, AMLO o Rafael Correa.  Petulantes, jactanciosos, superiores y ególatras sin límite. Son los enviados de Dios y venerados como tal. Quienes disienten o contradicen son anunciados como los jinetes del apocalipsis: el principio del final. Las desgracias: hambre, guerra, peste y muerte. Es un imperativo evitar que el **adanismo populista**, mezclado con el **crimen organizado** y el narcotráfico, obtenga el poder.
+
 Cartas a Quito / 27 de noviembre de 2024
 ========================================
 
@@ -75,24 +223,6 @@ Creo que es completamente idiota considerar como un delito tanto los racionamien
 Los que formaron su cerebro con los principios memoristas, son la presa más fácil para el dogmatismo y el fanatismo. Esto, obviamente, les conviene a aquellos partidos políticos que basan sus adhesiones en fidelidades obtusas y sumisas. La verdadera lucha la debemos enfocar en erradicar ese tipo de educación, impuesta por un partido político que domina gran parte de los planteles fiscales.
 
  José M. Jalil Haas
-
-Adanismo populista
-==================
-
-El adanismo populista concentra poder, deslegitima el pasado y suprime disidencias bajo líderes autoritarios.
--------------------------------------------------------------------------------------------------------------
-
-![Ramiro Rivera Molina, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Ramiro-Rivera-Molina.jpg)
-
-Si recurrimos a la **Real Academia Española** (RAE), dice del _adanismo_: «_Hábito de comenzar una actividad cualquiera como si nadie hubiera ejercido anteriormente_».  En su **dimensión etimológica,** constituye el inicio y el origen. Antes de Adán nada existe. Ni hechos ni historia.  Es lo recién aparecido. La jactancia de ser los únicos. Los primeros en pensar y hacer algo por los demás. El **adanismo** es uno de los síndromes del populismo egocentrista, **paternalista**, **arrogante, infalible, exaltado, narcisista**, teatral.
-
-El síntoma es el espíritu refundacional. No reconocen la existencia de un **poder constituido**, aunque corroído por el desgaste de la representación, la desconfianza o la pérdida de **legitimidad**. Acceden al poder por la **constitución**, pero no juramentan respetarla. Se empeñan en los **procesos constituyentes** con plenos poderes. Parten de la nada. Satanizan al pasado. Todo es prehistoria. El **adanismo populista** reescribe su historieta trágica, beligerante y mesiánica. Colonizan con el ideologismo unicolor. Se empeñan por la **hegemonía** absoluta.
-
-Exhiben una **visión dicotómica** de la **sociedad**. La dialéctica del **antagonismo** irreconciliable entre los buenos y malos, patriotas y traidores, ricos y pobres, amigos y enemigos. No hay espacio para las mediaciones y consensos. Se trata de abatir y aniquilar al enemigo. El soñado anhelo de acumular el **poder** absoluto, borrar la división de **poderes**, los **equilibrios** y balances. Concentrar y centralizar el poder. La totalidad lo conquista el **carismático** y amado líder, quien define todo.
-
-No caben mediaciones, ni **tejido social** y menos el institucional. Por eso incomoda la **libertad de expresión** y los medios de comunicación que son silenciados y estatizados. Las agrupaciones, partidos, gremios, **asociaciones**, instituciones; son sometidas a **vigilancia**, perseguidas y reducidas a la nada.  La única voz es la oficial. Impera el Estado de Propaganda. Se busca pintar todo con un solo color. La **homogeneidad**. La hegemonía despótica. Por eso, los populismos devienen en **autoritarios** y **totalitarios**.
-
-El caudillo es la **encarnación** del **pueblo**. El pueblo es él. Eliecer Gaitán decía: «_Yo no soy un hombre, yo soy un pueblo_». Algo parecido, lo ha repetido Hugo Chávez, Nicolás Maduro, Evo Morales, Daniel Ortega, AMLO o Rafael Correa.  Petulantes, jactanciosos, superiores y ególatras sin límite. Son los enviados de Dios y venerados como tal. Quienes disienten o contradicen son anunciados como los jinetes del apocalipsis: el principio del final. Las desgracias: hambre, guerra, peste y muerte. Es un imperativo evitar que el **adanismo populista**, mezclado con el **crimen organizado** y el narcotráfico, obtenga el poder.
 
 Gran Bretaña alerta sobre propagación de tres virus en el mundo; uno incluye a Ecuador
 ======================================================================================
@@ -883,91 +1013,3 @@ El primer ministro indicó que ese es “el momento” adecuado para un alto el 
 Sobre la guerra en Líbano, en que **murieron más de 3 500 libaneses**, Netanyahu aseguró haber logrado los objetivos, ya que no solo ha descabezado a la organización -asesinando a toda su cúpula incluido el líder Hasán Nasralá- sino que le ha hecho retroceder “miles de años” tras la destrucción de la mayoría de su arsenal armamentístico e infraestructura subterránea.
 
 “Hace unos años esto habría parecido ciencia ficción, pero no lo es. Nosotros lo logramos”, enfatizó el mandatario, quien dijo haber elegido **estratégicamente el momento** de iniciar la ofensiva bélica en el norte -paralela a la guerra en Gaza- así como cuándo responder al ataque con 181 misiles de Irán en octubre.
-
-(Video) Jeremy Sarmiento se reencontró con el gol en Inglaterra
-===============================================================
-
-El ecuatoriano puso fin a una sequía de casi dos meses al anotar para el Burnley en el Championship.
-----------------------------------------------------------------------------------------------------
-
-![Jeremy Sarmiento celebrando su nuevo gol con el Burnley de inglaterra.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-26T173030.370.jpg)
-
-El ecuatoriano **Jeremy Sarmiento** marcó en la victoria del Burnley por 2-0 frente al Coventry City este martes 26 de noviembre, en la decimoséptima jornada del **Championship**, la segunda división del fútbol de Inglaterra.
-
-Con este triunfo, el **Burnley** ascendió a la segunda posición en la tabla con 33 puntos, consolidando una racha positiva de cuatro partidos consecutivos sin conocer la derrota.
-
-### Más noticias:
-
-* [La Selección de Ecuador brilla en Guayaquil y golea a Bolivia](https://www.elcomercio.com/deportes/futbol/ecuador-bolivia-partido-eliminatorias-guayaquil-resultado.html "La Selección de Ecuador brilla en Guayaquil y golea a Bolivia")
-* [Moisés Caicedo, el jefe del Chelsea de Inglaterra](https://www.elcomercio.com/deportes/futbol/moises-caicedo-el-jefe-del-chelsea-de-inglaterra.html "Moisés Caicedo, el jefe del Chelsea de Inglaterra")
-* [Brighton dejó escapar la victoria, y el Liverpool es el nuevo líder](https://www.elcomercio.com/deportes/futbol/brighton-dejo-escapar-la-victoria-liverpool-nuevo-lider-premier-leauge.html "Brighton dejó escapar la victoria, y el Liverpool es el nuevo líder")
-
-El regreso al gol de Jeremy Sarmiento
--------------------------------------
-
-**Sarmiento** anotó su segundo tanto con la camiseta de los ‘**Vinotintos**‘, poniendo fin a una sequía de casi dos meses. Su primer gol con el equipo había sido en septiembre.
-
-El extremo fue **titular en el duelo contra el Coventry Cit**y y su tanto llegó en la segunda mitad. Desde la mitad del campo, Sarmiento inició una carrera explosiva, abrió el balón hacia la banda derecha y luego se proyectó al área. Allí recibió un pase preciso y, de **primera intención, envió el balón al fondo de la red.**
-
-El ecuatoriano disputó 68 minutos y fue una de las figuras del partido, destacándose con un gol, un pase clave y un impresionante 100% de precisión en sus pases.
-
-> [pic.twitter.com/HdRAOjgCPI](https://t.co/HdRAOjgCPI)
-> 
-> — Follow @CenterOfGoals (@FredericaR14944) [November 26, 2024](https://twitter.com/FredericaR14944/status/1861513332957589585?ref_src=twsrc%5Etfw)
-
-### **El recorrido de Sarmiento en el Burnley**
-
-**Jeremy** **Sarmiento** llegó al Burnley para la temporada 2024/2025, tras no ser considerado en el primer equipo del **Brighton & Hove Albion**, club propietario de sus derechos.
-
-Este es el segundo año consecutivo que **Sarmiento** juega en la segunda división inglesa. En la campaña pasada militó en el Ipswich Town, donde fue pieza clave en el ascenso del equipo, anotando goles decisivos.
-
-Con el Burnley, Sarmiento ha disputado **12 partidos, aunque solo ha sido titular en cuatro ocasiones**. En poco más de 440 minutos de juego, ha anotado dos goles: el primero contra el Portsmouth y el más reciente frente al Coventry City.
-
-Avioneta se estrelló en Santa Elena y causó la muerte dos tripulantes
-=====================================================================
-
-Una avioneta cayó en una zona residencial de Santa Elena. Dos ocupantes de la nave fallecieron en el impacto.
--------------------------------------------------------------------------------------------------------------
-
-![La avioneta cayó en la avenida Eleodoro Soloerzano en La Libertad. Cortesía](https://www.elcomercio.com/wp-content/uploads/2024/11/PHOTO-2024-11-26-17-50-25.jpg)
-
-Una **avioneta** se estrelló la tarde de este martes 26 de noviembre de 2024 en la **avenida Eleodoro Solorzano** en el cantón **La Libertad**, en la provincia de Santa Elena. El hecho ocurrió alrededor de las 16:40.
-
-### Más noticias
-
-* [Daniel Noboa oficializó la creación de la Universidad de Santo Domingo de los Tsáchilas](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-universidad-santo-domingo-tsachilas.html "Daniel Noboa oficializó la creación de la Universidad de Santo Domingo de los Tsáchilas")
-* [(Video) Muere Chuck Coleman, instructor de vuelo de Tom Cruise en ‘Top Gun: Maverick’](https://www.elcomercio.com/tendencias/entretenimiento/muere-chuck-coleman-instructor-de-vuelo-de-tom-cruise-en-top-gun-maverick.html "(Video) Muere Chuck Coleman, instructor de vuelo de Tom Cruise en ‘Top Gun: Maverick’ ")
-* [Un avión de Air India aterriza de emergencia en Canadá por una amenaza de bomba](https://www.elcomercio.com/actualidad/mundo/avion-air-india-aterriza-emergencia-en-canada-por-una-amenaza-de-bomba.html "Un avión de Air India aterriza de emergencia en Canadá por una amenaza de bomba")
-
-Dos miembros de la FAE fallecieron
-----------------------------------
-
-La **Fuerza Aérea Ecuatoriana** (FAE) confirmó que en el siniestro fallecieron **dos personas** que pertenecían a la institución.
-
-Transeúntes del lugar intentaron rescatar a los **ocupantes de la aeronave**, pero la fuerza del impacto impidió que los ayudaran.
-
-Según detalló la FAE, a través de un boletín de prensa, la aeronave era tripulada por una **capitán** y un **cadete** mientras realizaba un **vuelo de instrucción**.
-
-La avioneta de fabricación canadiense Diamond DA 20C1 pertenece a la **Escuela Superior Militar de Aviación (ESMA)**, de su centro en Salinas, Cosme Rennella Barbatto. La nave caída tenía **7,06 metros** de largo.
-
-Avioneta impactó a un motociclista y un vehículo
-------------------------------------------------
-
-En videos difundidos en redes sociales se observa como **la nave impactó** a un motociclista y un automóvil liviano durante su caída.
-
-Según informaron medios locales, los ocupantes de los vehículos **sobrevivieron al fuerte golpe** y fueron trasladados a una casa de salud cercana.
-
-Tras el siniestro, la aeronave quedó incrustada debajo de un automóvil tipo SUB de color plomo.
-
-FAE y Ministerio de Defensa se pronunciaron tras el siniestro
--------------------------------------------------------------
-
-La FAE lamentó el hecho y extendió su solidaridad con los **familiares de las víctimas**.
-
-La institución afirmó que se encuentra gestionando los **trámites legales** y que se conformará una **Junta Investigadora de Accidentes** para tratar el hecho.
-
-> Ante el lamentable hecho ocurrido en Santa Elena, compartimos con ustedes el pronunciamiento del ministro de Defensa Nacional: [pic.twitter.com/3JIjGe4jIu](https://t.co/3JIjGe4jIu)
-> 
-> — Ministerio de Defensa Nacional del Ecuador (@DefensaEc) [November 26, 2024](https://twitter.com/DefensaEc/status/1861559380925124639?ref_src=twsrc%5Etfw)
-
-Asimismo, el ministro de Defensa, **Gian Carlo Loffredo**, mostró su pesar por lo sucedido. El funcionario aseguró que, de forma inmediata, solicitó a la Fuerza Aérea que proporcione el apoyo necesario a los familiares de los fallecidos.
