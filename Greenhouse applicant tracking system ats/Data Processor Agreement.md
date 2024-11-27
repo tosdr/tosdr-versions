@@ -274,10 +274,6 @@ Greenhouse Recruiting only
 
 --------------------------------
 
-**HireAbility.com, Inc.**  
-PO Box 115  
-Londonderry, NH 03053, USA**Resume parsing**  
-
 **Mailgun Technologies, Inc**  
 535 Mission St., 14th Floor  
 San Francisco, CA 94105, USA
