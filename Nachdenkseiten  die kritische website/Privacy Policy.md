@@ -525,9 +525,9 @@ Weitere Informationen zu Umfang und Zweck der Datenverarbeitung durch INFOnline 
 
 ### [NachDenkSeiten im Gespräch](https://www.youtube.com/playlist?list=PLpNi0Wmi7L80YYabA3qOGKP8ZporDTlRA)
 
-[![Dirk Pohlmann im Gespräch mit Albrecht Müller](https://www.nachdenkseiten.de/wp-content/uploads/2020/11/Dirk-Pohlmann-im-Gespraech-mit-Albrecht-Mueller-e1605795684574.png "Dirk Pohlmann im Gespräch mit Albrecht Müller")](https://www.youtube.com/watch?v=rJ70DFKjy3U&list=PLpNi0Wmi7L80YYabA3qOGKP8ZporDTlRA&index=2)
+[![Florian Warweg im Gespräch mit Gabriele Gysi: „Die Macht muss hinterfragt werden“](https://www.nachdenkseiten.de/wp-content/uploads/2024/01/24016-Gysi-warweg.jpg "Florian Warweg im Gespräch mit Gabriele Gysi: „Die Macht muss hinterfragt werden“")](https://www.nachdenkseiten.de/?p=109563)
 
-* [Dirk Pohlmann im Gespräch mit Albrecht Müller](https://www.youtube.com/watch?v=rJ70DFKjy3U&list=PLpNi0Wmi7L80YYabA3qOGKP8ZporDTlRA&index=2)
+* [Florian Warweg im Gespräch mit Gabriele Gysi: „Die Macht muss hinterfragt werden“](https://www.nachdenkseiten.de/?p=109563)
 * [Videoangebot der NachDenkSeiten](https://www.nachdenkseiten.de/?page_id=47509)
 
 ![Albrecht Müller: Glaube wenig. Hinterfrage alles. Denke selbst.](https://www.nachdenkseiten.de/wp-content/uploads/2022/05/220510-glaube.jpg "Albrecht Müller: Glaube wenig. Hinterfrage alles. Denke selbst.")
