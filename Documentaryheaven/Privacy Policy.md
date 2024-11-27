@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![The Fake Genius: A $30 BILLION Fraud](/wp-content/thumbnails/16703-100x70.jpg?x53432)
+* [![No-Go Zones: Seven Mile Road, Detroit, USA](/wp-content/thumbnails/16527-100x70.jpg?x53432)
     
-    The Fake Genius: A $30 BILLION Fraud
+    No-Go Zones: Seven Mile Road, Detroit, USA
     
-    Everyone likes a story about an underdog, someone out of the ordinary an unlikely genius who comes once in a lifetime, someone who wants to change the world for good... this is not one of those stori](https://documentaryheaven.com/the-fake-genius-a-30-billion-fraud/ "The Fake Genius: A $30 BILLION Fraud")
-* [![Paradise Lost: The Child Murders at Robin Hood Hills](/wp-content/thumbnails/4533-100x70.jpg?x53432)
+    Seven Mile Road located in Detroit is one of the most dangerous no-go zones in the United States. Those who live or dare to come here to visit are literally playing with their lives. It is a territor](https://documentaryheaven.com/no-go-zones-seven-mile-road/ "No-Go Zones: Seven Mile Road, Detroit, USA")
+* [![Modern Meat](/wp-content/thumbnails/1428-100x70.jpg?x53432)
     
-    Paradise Lost: The Child Murders at Robin Hood Hills
+    Modern Meat
     
-    Paradise Lost: The Child Murders at Robin Hood Hills is a 1996 documentary film directed by Joe Berlinger and Bruce Sinofsky about the trials of three teenage boys in West Memphis, Arkansas for the mu](https://documentaryheaven.com/paradise-lost-the-child-murders-at-robin-hood-hills/ "Paradise Lost: The Child Murders at Robin Hood Hills")
-* [![The Other Side of AIDS](/wp-content/thumbnails/5792-100x70.jpg?x53432)
+    What could be simpler than a hamburger? Take a ground beef patty, throw it on a grill, wait a few minutes as the fat sizzles, maybe add some cheese, and stick it on a bun. It's a thoroughly American o](https://documentaryheaven.com/modern-meat/ "Modern Meat")
+* [![James Gandolfini: Tribute to a Friend](/wp-content/thumbnails/12855-100x70.jpg?x53432)
     
-    The Other Side of AIDS
+    James Gandolfini: Tribute to a Friend
     
-    Take an unflinching look into an issue the mainstream media doesn't dare touch: the failure of the multi billion-dollar war on AIDS. The Other Side of AIDS gives voice to a growing movement of doctors](https://documentaryheaven.com/the-other-side-of-aids/ "The Other Side of AIDS")
-* [![How Weed Won The West](/wp-content/thumbnails/6290-100x70.jpg?x53432)
+    The passing of James Gandolfini in 2013 took many by surprise, not only because he was just 51 years old but also because of the fact he was a larger than life character who came across as indestructi](https://documentaryheaven.com/james-gandolfini-tribute-to-friend/ "James Gandolfini: Tribute to a Friend")
+* [![A Classroom Divided](/wp-content/thumbnails/2623-100x70.jpg?x53432)
     
-    How Weed Won The West
+    A Classroom Divided
     
-    In the follow-up to his ground-breaking documentary 'American Drug War,' filmmaker Kevin Booth traces the fight against Federal drug regulation in the State of California. A public majority has spoken](https://documentaryheaven.com/how-weed-won-the-west/ "How Weed Won The West")
-* [![Delius: Composer, Lover, Enigma](/wp-content/thumbnails/10069-100x70.jpg?x53432)
+    Suggested By: AnandaOne day in 1968, Jane Elliott, a teacher in a small, all-white Iowa town, divided her third-grade class into blue-eyed and brown-eyed groups and gave them a daring lesson in di](https://documentaryheaven.com/a-classroom-divided/ "A Classroom Divided")
+* [![The Story of Stuff](/wp-content/thumbnails/1661-100x70.png?x53432)
     
-    Delius: Composer, Lover, Enigma
+    The Story of Stuff
     
-    Burials in Britain are not normally held after dark, but nothing in the life and music of the composer Frederick Delius was normal. He was buries in May 1935, yet he'd actually died almost a year](https://documentaryheaven.com/delius-composer-lover-enigma/ "Delius: Composer, Lover, Enigma")
+    "But the truth is, it's a system in crisis, and the reason it's a system in crisis is it's a linear system and we live on a finite planet, and you cannot run a linear system on a finite planet indefin](https://documentaryheaven.com/the-story-of-stuff/ "The Story of Stuff")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
