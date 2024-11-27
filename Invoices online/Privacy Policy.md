@@ -117,63 +117,61 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Impossible to run our businesses without IO
-> -------------------------------------------
+> Support even on Sundays!
+> ------------------------
 > 
-> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
->   
-> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
->   
-> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
->   
-> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
+> Thanks Adriaan...
+> 
+> You guys even work on Sundays?
+> 
+> I’m impressed!!
 
-Kobus Venter
+Johan Botha - Brand Xplosion
 
-![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=97bf2cbfc85e27fb365f3d0733c336d12e49a964e24855a444d935940bddd4f1&c=15892518)  
-#DiGi3 Marketing & Design
+![valued client Kara Medical (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=3913&file=logo_300_100&type=&fe=a0de13a7728c1529423f1dd43ee1e94305447790b3003c15ad90c9565b2941bc&c=140458247)  
+Kara Medical (Pty) Ltd
 
-![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=97bf2cbfc85e27fb365f3d0733c336d12e49a964e24855a444d935940bddd4f1&c=7091459)  
-MONSTER SECURITY SERVICES
+![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=a0de13a7728c1529423f1dd43ee1e94305447790b3003c15ad90c9565b2941bc&c=205250211)  
+CGHK Enterprises (PTY) LTD
 
-![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=97bf2cbfc85e27fb365f3d0733c336d12e49a964e24855a444d935940bddd4f1&c=163524151)  
-Salvage Genie
-
-![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=97bf2cbfc85e27fb365f3d0733c336d12e49a964e24855a444d935940bddd4f1&c=74409828)  
-Abandoned Vehicle and Truck Solutions
-
-![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=97bf2cbfc85e27fb365f3d0733c336d12e49a964e24855a444d935940bddd4f1&c=118242152)  
-Adele Jordaan T/A Joyful Noise Music Room
-
-![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=97bf2cbfc85e27fb365f3d0733c336d12e49a964e24855a444d935940bddd4f1&c=88577223)  
-MSPCloud (Pty) Ltd
-
-![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=97bf2cbfc85e27fb365f3d0733c336d12e49a964e24855a444d935940bddd4f1&c=77763030)  
-ARCHITEK PTY LTD
-
-![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=97bf2cbfc85e27fb365f3d0733c336d12e49a964e24855a444d935940bddd4f1&c=175506443)  
-OptaServ
-
-![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=97bf2cbfc85e27fb365f3d0733c336d12e49a964e24855a444d935940bddd4f1&c=79852287)  
-Tagline Brands
-
-![valued client Sophia's Roses](https://www.invoicesonline.co.za/scripts/image.php?bid=5227&file=logo_300_100&type=&fe=97bf2cbfc85e27fb365f3d0733c336d12e49a964e24855a444d935940bddd4f1&c=61691200)  
-Sophia's Roses
-
-![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=97bf2cbfc85e27fb365f3d0733c336d12e49a964e24855a444d935940bddd4f1&c=52780863)  
-Qothiphango Mining
-
-![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=97bf2cbfc85e27fb365f3d0733c336d12e49a964e24855a444d935940bddd4f1&c=95995540)  
-Mountain Lion Properties
-
-![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=97bf2cbfc85e27fb365f3d0733c336d12e49a964e24855a444d935940bddd4f1&c=38000407)  
-All Trucking Solutions
-
-![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=97bf2cbfc85e27fb365f3d0733c336d12e49a964e24855a444d935940bddd4f1&c=198258968)  
+![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=a0de13a7728c1529423f1dd43ee1e94305447790b3003c15ad90c9565b2941bc&c=155461888)  
 Blue Sky Solar Services
 
-![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=97bf2cbfc85e27fb365f3d0733c336d12e49a964e24855a444d935940bddd4f1&c=102921397)  
-ELLIE'S CLEANING CHICKS
+![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=a0de13a7728c1529423f1dd43ee1e94305447790b3003c15ad90c9565b2941bc&c=86949654)  
+Norton Medical & Consult - Namibia
+
+![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=a0de13a7728c1529423f1dd43ee1e94305447790b3003c15ad90c9565b2941bc&c=50740481)  
+Konsortium Operations (PTY) LTD
+
+![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=a0de13a7728c1529423f1dd43ee1e94305447790b3003c15ad90c9565b2941bc&c=93071414)  
+NJR ICT Services (Pty) Ltd
+
+![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=a0de13a7728c1529423f1dd43ee1e94305447790b3003c15ad90c9565b2941bc&c=96818826)  
+Highlands Auto Engineering
+
+![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=a0de13a7728c1529423f1dd43ee1e94305447790b3003c15ad90c9565b2941bc&c=203157689)  
+Adele Jordaan T/A Joyful Noise Music Room
+
+![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=a0de13a7728c1529423f1dd43ee1e94305447790b3003c15ad90c9565b2941bc&c=87640558)  
+FRAMED BY ANTON (Pty) Ltd.
+
+![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=a0de13a7728c1529423f1dd43ee1e94305447790b3003c15ad90c9565b2941bc&c=28255581)  
+Oukraal Merino's
+
+![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=a0de13a7728c1529423f1dd43ee1e94305447790b3003c15ad90c9565b2941bc&c=29084192)  
+Beyond Laser CNC Cutting Technology South Africa CC
+
+![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=a0de13a7728c1529423f1dd43ee1e94305447790b3003c15ad90c9565b2941bc&c=2568879)  
+Immediate Health (pty)ltd
+
+![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=a0de13a7728c1529423f1dd43ee1e94305447790b3003c15ad90c9565b2941bc&c=163097829)  
+Mountain Lion Properties
+
+![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=a0de13a7728c1529423f1dd43ee1e94305447790b3003c15ad90c9565b2941bc&c=184061821)  
+Goju-Ryu Pretoria East
+
+![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=a0de13a7728c1529423f1dd43ee1e94305447790b3003c15ad90c9565b2941bc&c=209104440)  
+Brand's Fountains Deco and Events Coordinatoin
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
