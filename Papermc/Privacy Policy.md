@@ -88,7 +88,7 @@ Nov **24**
 * [Sunday at 5:45 PM](https://papermc.io/threads/1-21-3.1430/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 2,369
+* 2,419
 * 1
 
 ### The 1.21.3 Update​
@@ -198,7 +198,7 @@ Jun **14**
 * [Jun 14, 2024](https://papermc.io/threads/1-21.1221/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 11,243
+* 11,254
 * 2
 
 ### The 1.21 Update​
@@ -314,7 +314,7 @@ May **28**
 * [May 28, 2024](https://papermc.io/threads/paper-velocity-1-20-6.1152/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 8,931
+* 8,939
 * 6
 
 ### The 1.20.5/6 Update​
@@ -412,7 +412,7 @@ Mar **26**
 * [Mar 26, 2024](https://papermc.io/threads/announcing-the-end-of-life-of-waterfall.1088/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 18,602
+* 18,605
 * 11
 
 Announcing the end of life of Waterfall​
@@ -548,7 +548,7 @@ Dec **31**
 * [Dec 31, 2023](https://papermc.io/threads/new-years-post.1009/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 28,058
+* 28,074
 * 6
 
 Happy New Year from PaperMC!​
@@ -692,7 +692,7 @@ Dec **25**
 * [Dec 25, 2023](https://papermc.io/threads/paper-velocity-1-20-4.998/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 9,079
+* 9,084
 * 1
 
 ### The 1.20.4 Update​
@@ -871,7 +871,7 @@ Jun **11**
 * [Jun 11, 2023](https://papermc.io/threads/paper-velocity-1-20-1.783/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 14,293
+* 14,295
 * 9
 
 ### The 1.20(.1) Update​
@@ -1064,7 +1064,7 @@ Dec **11**
 * [Dec 11, 2022](https://papermc.io/threads/paper-velocity-1-19-3.592/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 13,966
+* 13,967
 * 1
 
 ### The 1.19.3 Update​
@@ -1161,7 +1161,7 @@ Jul **30**
 * [Jul 30, 2022](https://papermc.io/threads/paper-1-19-1.394/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 15,223
+* 15,224
 * 1
 
 ### The 1.19.1 Update​
@@ -1276,7 +1276,7 @@ Mar **04**
 * [Mar 4, 2022](https://papermc.io/threads/paper-1-18-2.185/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 24,032
+* 24,033
 * 12
 
 ### The 1.18.2 Update​
@@ -1428,7 +1428,7 @@ Overall, PaperMC is a community that's excited about Minecraft software and maki
 
 No members online now.
 
-Total: 35 (members: 1, guests: 34)
+Total: 20 (members: 0, guests: 20)
 
 ### [Latest posts](https://papermc.io/whats-new/posts/?skip=1)
 
@@ -1437,7 +1437,7 @@ Total: 35 (members: 1, guests: 34)
 [Banned on Discord server](https://papermc.io/threads/banned-on-discord-server.1446/)
 
 * [hmr](https://papermc.io/members/hmr.12685/)
-* [Today at 1:46 AM](https://papermc.io/threads/banned-on-discord-server.1446/)
+* [Yesterday at 1:46 AM](https://papermc.io/threads/banned-on-discord-server.1446/)
 * [Off-topic](https://papermc.io/forums/general-off-topic/)
 
 Replies
@@ -1446,9 +1446,9 @@ Replies
 
 Views
 
-59
+65
 
-[Off-topic](https://papermc.io/forums/general-off-topic/) [Today at 7:20 AM](https://papermc.io/threads/banned-on-discord-server.1446/latest)
+[Off-topic](https://papermc.io/forums/general-off-topic/) [Yesterday at 7:20 AM](https://papermc.io/threads/banned-on-discord-server.1446/latest)
 
 [MiniDigger](https://papermc.io/members/minidigger.15/)
 
@@ -1472,7 +1472,7 @@ Views
 
 3K
 
-[Help](https://papermc.io/forums/paper-help/) [Yesterday at 7:01 PM](https://papermc.io/threads/chunk-loading-not-working-1-18-1-wither-mob-switch.139/latest)
+[Help](https://papermc.io/forums/paper-help/) [Monday at 7:01 PM](https://papermc.io/threads/chunk-loading-not-working-1-18-1-wither-mob-switch.139/latest)
 
 [ElShala](https://papermc.io/members/elshala.12680/)
 
@@ -1485,7 +1485,7 @@ Views
 Solved [\[Put under wrong cat, sorry\] Issue regarding joining server](https://papermc.io/threads/put-under-wrong-cat-sorry-issue-regarding-joining-server.1445/)
 
 * [outsmile](https://papermc.io/members/outsmile.12670/)
-* [Yesterday at 6:15 AM](https://papermc.io/threads/put-under-wrong-cat-sorry-issue-regarding-joining-server.1445/)
+* [Monday at 6:15 AM](https://papermc.io/threads/put-under-wrong-cat-sorry-issue-regarding-joining-server.1445/)
 * [Help](https://papermc.io/forums/velocity-help/)
 
 Replies
@@ -1494,9 +1494,9 @@ Replies
 
 Views
 
-47
+48
 
-[Help](https://papermc.io/forums/velocity-help/) [Yesterday at 6:15 AM](https://papermc.io/threads/put-under-wrong-cat-sorry-issue-regarding-joining-server.1445/latest)
+[Help](https://papermc.io/forums/velocity-help/) [Monday at 6:15 AM](https://papermc.io/threads/put-under-wrong-cat-sorry-issue-regarding-joining-server.1445/latest)
 
 [outsmile](https://papermc.io/members/outsmile.12670/)
 
@@ -1566,7 +1566,7 @@ Replies
 
 Views
 
-92
+94
 
 [Plugin Development](https://papermc.io/forums/paper-plugin-development/) [Nov 18, 2024](https://papermc.io/threads/generate-a-dimension-with-a-set-list-of-biomes.1444/latest)
 
@@ -1590,7 +1590,7 @@ Replies
 
 Views
 
-102
+105
 
 [Help](https://papermc.io/forums/paper-help/) [Nov 18, 2024](https://papermc.io/threads/error-when-trying-to-start-papermc-jar.1443/latest)
 
@@ -1658,7 +1658,7 @@ Replies
 
 Views
 
-149
+151
 
 [Plugin Development](https://papermc.io/forums/paper-plugin-development/) [Nov 14, 2024](https://papermc.io/threads/cannot-place-torch-on-wall.1441/latest)
 
