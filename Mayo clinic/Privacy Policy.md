@@ -478,7 +478,7 @@ Don’t miss your chance!
 
 [Give Now](https://give.mayoclinic.org/give/627381?utm_source=devorgtilead&utm_medium=devweb&utm_campaign=devgivingtuesday%2F%23%21%2Fdonation%2Fcheckout)
 
-Give by Dec. 3 to double your impact 2X.
+Give by Dec. 3 to double your impact.
 
 [Give Now](https://give.mayoclinic.org/give/627381?utm_source=devorgtilead&utm_medium=devweb&utm_campaign=devgivingtuesday%2F%23%21%2Fdonation%2Fcheckout)
 
