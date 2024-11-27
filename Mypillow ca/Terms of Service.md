@@ -53,8 +53,8 @@ Customer Service [1-800-308-1299](tel:18003081299)
     * [Platform Bed Foundation](https://www.mypillow.ca/mattresses/platform-bed-foundation)
     * [Mattress Foundation](https://www.mypillow.ca/mattressfoundation)
     * [Semi Truck Mattress](https://www.mypillow.ca/drivers-dream-truck-mattress)
-* [Mattress Toppers](https://www.mypillow.ca/toppers)
-    * [MyMattress Topper](https://www.mypillow.com/mymattress-topper-with-free-mypillow-percale-sheets)
+* [Mattress Toppers](https://www.mypillow.ca/mattress-toppers)
+    * [MyMattress Topper](https://www.mypillow.com/mattress-toppers/mymattress-topper)
     * [MyMattress Topper 2.0](https://www.mypillow.ca/mattress-toppers/3-coil-mattress-topper)
     * [3” Mattress Topper](https://www.mypillow.ca/mattress-toppers/3inchtopper-50off)
     * [2” Mattress Topper](https://www.mypillow.ca/mattress-toppers/2-mattress-topper-new)
@@ -93,8 +93,6 @@ Apply
 
 [](https://www.mypillow.com/the-classic-collection)
 
-[](https://www.mypillow.com/mymattress-topper-with-free-mypillow-percale-sheets)
-
 [](https://www.mypillow.com/christmas-extravaganza)
 
 [](https://www.mypillow.ca/mystore-general-redirect)
@@ -105,7 +103,7 @@ Apply
 
 [](https://www.mypillow.com/slipper-specials)
 
-[](https://www.mypillow.com/mymattress-topper-with-free-mypillow-percale-sheets)
+[](https://www.mypillow.com/mymattress-topper)
 
 [](https://www.mypillow.com/the-classic-collection)
 
@@ -117,11 +115,11 @@ Apply
 
 [](https://www.mypillow.com/bath/mypillow-bath-robes)
 
-[](https://www.mypillow.com/clothing/made-in-america-socks-category)
+[](https://www.mypillow.com/accessory-pillows)
 
 [](https://www.mypillow.com/accessory-pillows)
 
-[](https://www.mypillow.com/mystore-gummies)
+[](https://www.mypillow.com/mattresses)
 
 [SAVE up to 80% with promo code
 
@@ -147,7 +145,7 @@ SHOP NOW](https://www.mypillow.com/new-gorka)
 
 SHOP NOW](https://www.mypillow.com/hannity-new)
 
-[](https://www.mypillow.com/mattresses)
+[](https://www.mypillow.com/clothing/made-in-america-socks-category)
 
 [](https://www.mypillow.ca/mypillow-2-pick-your-size)
 
@@ -167,7 +165,7 @@ SHOP NOW](https://www.mypillow.com/hannity-new)
 
 [](https://www.mypillow.com/open-box)
 
-[](https://www.mypillow.com/bolster-pillow-w-bolster-pillowcase)
+[](https://www.mypillow.com/mystore-gummies)
 
 [](https://www.mypillow.ca/clothing)
 
