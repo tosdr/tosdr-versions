@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/6ea2552c-00c8-4b5f-9ebc-a17dbc9d0359/20241127T002818/6ea2552c-00c8-4b5f-9ebc-a17dbc9d0359_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/6ea2552c-00c8-4b5f-9ebc-a17dbc9d0359/20241127T002818/6ea2552c-00c8-4b5f-9ebc-a17dbc9d0359_360x203.jpg)](https://www.wqad.com/article/money/business/bacon-factory-davenport-fair-oaks-foods/526-0ab7b5e5-81d5-4a2c-85b5-c4daea1e13a6)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/de585f37-9948-4de4-be6f-551e34da40f0/20241127T040723/de585f37-9948-4de4-be6f-551e34da40f0_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/de585f37-9948-4de4-be6f-551e34da40f0/20241127T040723/de585f37-9948-4de4-be6f-551e34da40f0_360x203.jpg)](https://www.wqad.com/article/news/local/davenport-city-council-votes-no-hotel-development/526-2ac7548c-20c1-4eee-b7ad-2df582631ff9)
         
-        #### [Here are where years-long plans for a new bacon factory in Davenport stand](https://www.wqad.com/article/money/business/bacon-factory-davenport-fair-oaks-foods/526-0ab7b5e5-81d5-4a2c-85b5-c4daea1e13a6)
+        #### [Davenport City Council rejects hotel development incentive](https://www.wqad.com/article/news/local/davenport-city-council-votes-no-hotel-development/526-2ac7548c-20c1-4eee-b7ad-2df582631ff9)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/e78e9cdd-53fc-4fd6-b5cc-d49bddc8024e/20241126T224448/e78e9cdd-53fc-4fd6-b5cc-d49bddc8024e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e78e9cdd-53fc-4fd6-b5cc-d49bddc8024e/20241126T224448/e78e9cdd-53fc-4fd6-b5cc-d49bddc8024e_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/three-rare-species-bee-plants-found-east-moline-rock-island-amowa-forest-preserve/526-77442e9a-fbd8-4737-9ebf-898ac10c4ef6)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/b882a18c-4878-415e-9a56-357534e57001/20241127T042054/b882a18c-4878-415e-9a56-357534e57001_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b882a18c-4878-415e-9a56-357534e57001/20241127T042054/b882a18c-4878-415e-9a56-357534e57001_360x203.jpg)](https://www.wqad.com/article/news/local/trump-mass-deportation-illegal-immigration-quad-cities-immigrants-react/526-bfb5ee53-5a56-43f0-96b3-889da6089fdd)
         
-        #### [Three rare species found in Amôwa Forest Preserve near East Moline](https://www.wqad.com/article/news/local/the-current/three-rare-species-bee-plants-found-east-moline-rock-island-amowa-forest-preserve/526-77442e9a-fbd8-4737-9ebf-898ac10c4ef6)
+        #### [Quad Cities immigrants react to Trump's proposed mass deportation plan](https://www.wqad.com/article/news/local/trump-mass-deportation-illegal-immigration-quad-cities-immigrants-react/526-bfb5ee53-5a56-43f0-96b3-889da6089fdd)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/28239874-27fc-4ca9-836d-b2fd668b68a1/20241126T222334/28239874-27fc-4ca9-836d-b2fd668b68a1_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/28239874-27fc-4ca9-836d-b2fd668b68a1/20241126T222334/28239874-27fc-4ca9-836d-b2fd668b68a1_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/68fa9687-3548-4f83-b311-361ca5037fd1/20241127T043101/68fa9687-3548-4f83-b311-361ca5037fd1_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/68fa9687-3548-4f83-b311-361ca5037fd1/20241127T043101/68fa9687-3548-4f83-b311-361ca5037fd1_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
         #### [A seasonally cool day come Wednesday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-35°
+34°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
