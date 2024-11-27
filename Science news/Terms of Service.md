@@ -90,23 +90,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
     * Recent posts in Humans
         ----------------------
         
+        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
+            
+            ### [Cervical cancer deaths are plummeting among young U.S. women](https://www.sciencenews.org/article/cervical-cancer-deaths-fall-young-women)
+            
+            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")5 hours ago
+            
+        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
+            
+            ### [Sluggish proteins may underpin aging and chronic disease](https://www.sciencenews.org/article/sluggish-proteins-aging-chronic-disease)
+            
+            By [Elie Dolgin](https://www.sciencenews.org/author/elie-doglin "Posts by Elie Dolgin")5 hours ago
+            
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
             
-            ### [Like brain cells, kidney cells can ‘remember’](https://www.sciencenews.org/article/brain-kidney-cells-memory)
+            ### [Like brain cells, kidney cells can form memories](https://www.sciencenews.org/article/brain-kidney-cells-memory)
             
-            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")24 hours ago
-            
-        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
-            
-            ### [Dengue is classified as an urban disease. Mosquitoes don’t care](https://www.sciencenews.org/article/dengue-mosquitoes-urban-rural-disease)
-            
-            By [Sujata Gupta](https://www.sciencenews.org/author/sujata-gupta "Posts by Sujata Gupta")November 25, 2024
-            
-        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
-            
-            ### [Refurbished heart pacemakers work like new](https://www.sciencenews.org/article/refurbished-heart-pacemakers-work-new)
-            
-            By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")November 22, 2024
+            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")November 26, 2024
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
@@ -124,13 +124,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [This ‘hidden figure’ of entomology fought for civil rights](https://www.sciencenews.org/article/maragret-collins-entomology-termite)
             
-            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")3 hours ago
+            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")8 hours ago
             
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
             
-            ### [Like brain cells, kidney cells can ‘remember’](https://www.sciencenews.org/article/brain-kidney-cells-memory)
+            ### [Like brain cells, kidney cells can form memories](https://www.sciencenews.org/article/brain-kidney-cells-memory)
             
-            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")24 hours ago
+            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")November 26, 2024
             
         * [Paleontology](https://www.sciencenews.org/topic/paleontology)
             
