@@ -3,16 +3,6 @@ Here are the [instructions on how to enable JavaScript in your web browser](http
 
 [Click to view our Accessibility Statement or contact us with accessibility-related questions](https://drop.com/accessibility)
 
-[The Black Friday Bash Is LIVE
-
-We slash the prices, you crash the party.
-
-SHOP NOW
-
-_keyboard\_arrow\_right_](https://drop.com/talk/142147/black-friday-bash-2024)
-
-Free Standard Shipping in the US on orders over $99
-
 Free Standard Shipping in the US on orders over $99
 
 [Drop](https://drop.com/)
