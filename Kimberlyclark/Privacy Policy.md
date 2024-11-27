@@ -468,7 +468,7 @@ We are committed to earning and maintaining trust by honoring the following prin
 GLOBAL PRIVACY POLICY
 =====================
 
-Last Updated : 11/21/2024
+Last Updated : 11/27/2024
 
 [](javascript:void(0))
 
@@ -1152,6 +1152,8 @@ If you reside in Brazil, this portion of our Policy applies to you.
     * When the legal basis for processing your data is anything other than consent, you can object to the processing when it does not comply with a law; and/or
       
     * You have the right to review decisions, if any, taken solely on the bases of automated processing of personal information that affects your interests.
+      
+    * You can exercise the right(s) to confirm, access, correct, anonymize and delete your personal data, which you can request at: [Privacy Web Form](https://privacyportal-de.onetrust.com/webform/99096bff-8366-4b94-a7e2-97f3efa52243/06ee8bd6-6a56-4022-9b8a-9d64602904d8).
       
     
 * **How to contact us.**If you have any questions, comments, concerns or need to exercise your rights, you may contact our Brazil Data Protection Officer [here](https://www.global.kimberly-clark.com/pt-br/privacy).
