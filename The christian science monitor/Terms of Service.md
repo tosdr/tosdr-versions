@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
-[Forgiveness
+[Peace
 
-### Thanksgiving as forgiving](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1127/Thanksgiving-as-forgiving "Thanksgiving as forgiving")
+### Trump’s Mideast team: A familiar look for a transformed region](https://www.csmonitor.com/World/Middle-East/2024/1127/trump-middle-east-policy-team-israel "Trump’s Mideast team: A familiar look for a transformed region")
 
-[Freedom
+[Joy
 
-### Building peace by disrupting lies](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1126/Building-peace-by-disrupting-lies "Building peace by disrupting lies")
+### How century-old fashion is helping Ukrainians escape the grind of war](https://www.csmonitor.com/World/Europe/2024/1127/ukraine-war-russia-sumy-fashion-history-museum "How century-old fashion is helping Ukrainians escape the grind of war")
 
-[Balance
+[Creativity
 
-### A guardrail holds](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1125/A-guardrail-holds "A guardrail holds")
+### Five-star ‘Flow’ and chatty ‘Moana 2’ offer eye-widening animated delights](https://www.csmonitor.com/The-Culture/Movies/2024/1127/moana-2-flow-animated-films "Five-star ‘Flow’ and chatty ‘Moana 2’ offer eye-widening animated delights")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -110,11 +110,11 @@ Recent Stories
 
 Monitor Daily
 
-November 26, 2024
+November 27, 2024
 
-Gabbling and gobbling
+A harvest season in any season
 
-Today, Monitor writers explore the implications of International Criminal Court charges and how President-elect Donald Trump’s economic team is taking shape. Then we’ll turn to something far lighter that may be on your mind: Did Ben Franklin really admire turkeys as much as holiday lore sometimes suggests?Food writer Kendra Nordin Beato tackles that question and share some insights on the most analyzed, pored over, and otherwise parsed meal in the United States. You’ll have plenty to gabble about as you gobble.
+Today, Sara Miller Llana writes about the earliest Canadian harvest traditions, which evolved into Thanksgiving. Melanie Stetson Freeman’s photos add a sumptuous touch. There is an Order of Good Cheer, beaver tails seared over a roaring hearth, and the hush of crickets going silent at the start of autumn.But under it all is Tpi’tnewey. For the Mi’kmaq, an Indigenous people in eastern Canada, Tpi’tnewey is intertwined with the harvest season. It is the idea of giving generously, of doing good. This comes from an understanding of the interconnection of all peoples, Sara writes, and so beautifully points to the greater harvest that comes in any season when humility and unselfishness are in abundance.
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
-[### With Netanyahu warrant, international court tests priorities of Israel’s allies](https://www.csmonitor.com/World/Europe/2024/1126/icc-netanyahu-gaza-israel-famine-war-crimes "With Netanyahu warrant, international court tests priorities of Israel’s allies")
+[### Trump’s Mideast team: A familiar look for a transformed region](https://www.csmonitor.com/World/Middle-East/2024/1127/trump-middle-east-policy-team-israel "Trump’s Mideast team: A familiar look for a transformed region")
 
-[### Wild animals are disappearing in Latin America. Colombia is fighting back.](https://www.csmonitor.com/World/Americas/2024/1126/colombia-wildlife-trafficking-animals-environment "Wild animals are disappearing in Latin America. Colombia is fighting back.")
+[### How century-old fashion is helping Ukrainians escape the grind of war](https://www.csmonitor.com/World/Europe/2024/1127/ukraine-war-russia-sumy-fashion-history-museum "How century-old fashion is helping Ukrainians escape the grind of war")
 
-[### In Canada, too, people remember a feast with settlers and Indigenous people](https://www.csmonitor.com/World/Americas/2024/1126/canada-thanksgiving-acadian-indigenous-harvest-celebration "In Canada, too, people remember a feast with settlers and Indigenous people")
+[### Israel enjoys upper hand as ceasefire signals Hezbollah’s limits](https://www.csmonitor.com/World/Middle-East/2024/1127/lebanon-hezbollah-israel-ceasefire-gaza "Israel enjoys upper hand as ceasefire signals Hezbollah’s limits")
 
 * * *
 
