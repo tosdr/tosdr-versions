@@ -342,6 +342,7 @@ We value your opinions and welcome your feedback.  To contact us about this Dis
     * [Brokers & Consultants](https://www.lifespeak.com/wellbeing-suite/brokers-consultants/ "Wellbeing Solutions for Brokers & Consultants")
     * [Partners](https://www.lifespeak.com/wellbeing-suite/partners/ "Wellbeing Solutions for Partners")
 * [Resources](https://www.lifespeak.com/resources/)
+    * [Employee Benefits](https://www.lifespeak.com/employee-benefits/)
     * [Wellbeing Blog](https://www.lifespeak.com/resources/blog-posts/)
     * [Podcasts](https://www.lifespeak.com/resources/podcasts/)
     * [Webinars](https://www.lifespeak.com/resources/webinars/)
