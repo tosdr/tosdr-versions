@@ -1,6 +1,8 @@
 [Skip to Main Content](#content)
 
-[![Bonterra logo](https://www.bonterratech.com/wp-content/uploads/2024/07/logo.svg)](https://www.bonterratech.com/)
+[![Bonterra logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![Bonterra logo](https://www.bonterratech.com/wp-content/uploads/2024/07/logo.svg)](https://www.bonterratech.com/)
 
 ![Search](https://www.bonterratech.com/wp-content/themes/bonterra/_images/search-icon.svg)
 
@@ -15,6 +17,8 @@
                 * [Events + Webinars](https://www.everyaction.com/events-webinars)
                 * [News + Press](https://www.everyaction.com/news-press)
                 * [Case Studies](https://www.everyaction.com/case-studies)
+                
+                ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
                 
                 ![](https://www.bonterratech.com/wp-content/uploads/2024/10/habitat-for-humanity-of-omaha_background-photo.png-150x150.webp)
                 
@@ -56,6 +60,8 @@
                 * [Why Us?](https://www.everyaction.com/why-us)
                 * [Culture, Values + DEIB](https://www.everyaction.com/culture-values-and-deib)
                 * [Resources](https://www.everyaction.com/resource-hub)
+                
+                ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
                 
                 ![](https://www.bonterratech.com/wp-content/uploads/2024/10/bonterra-home-repair-services_header-photo.jpg-150x150.webp)
                 
@@ -130,26 +136,54 @@ Purpose-built software to get more from your mission
 
 play button Our story
 
-![](https://www.bonterratech.com/wp-content/uploads/2024/07/Stocksy_comp_5807140.jpg)![](https://www.bonterratech.com/wp-content/uploads/2024/07/Stocksy_comp_5807140.jpg)![](https://www.bonterratech.com/wp-content/uploads/2024/07/hp-hero-info-card.png)
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://www.bonterratech.com/wp-content/uploads/2024/07/Stocksy_comp_5807140.jpg)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://www.bonterratech.com/wp-content/uploads/2024/07/Stocksy_comp_5807140.jpg)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://www.bonterratech.com/wp-content/uploads/2024/07/hp-hero-info-card.png)
 
 Our solutions
 
 Give, grant, match, raise, and impact more
 ------------------------------------------
 
-![](https://www.bonterratech.com/wp-content/uploads/2024/07/icon-fund-1.svg)![](https://www.bonterratech.com/wp-content/uploads/2024/07/icon-fund-2.svg)
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://www.bonterratech.com/wp-content/uploads/2024/07/icon-fund-1.svg)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://www.bonterratech.com/wp-content/uploads/2024/07/icon-fund-2.svg)
 
 [### Fundraising & Engagement](https://www.bonterratech.com/product/fundraising-and-engagement)
 
 Easily deliver the personalized supporter experiences that drive giving, boost engagement, and activate your base.  
 
-![](https://www.bonterratech.com/wp-content/uploads/2024/07/icon-phil.svg)![](https://www.bonterratech.com/wp-content/uploads/2024/07/icon-phil-1.svg)
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://www.bonterratech.com/wp-content/uploads/2024/07/icon-phil.svg)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://www.bonterratech.com/wp-content/uploads/2024/07/icon-phil-1.svg)
 
 [### Corporate Social Responsibility](https://www.bonterratech.com/product/corporate-social-responsibility)
 
 Maximize business outcomes and social impact with powerful grant management and employee engagement tools.  
 
-![](https://www.bonterratech.com/wp-content/uploads/2024/07/icon-impact.svg)![](https://www.bonterratech.com/wp-content/uploads/2024/07/icon-impact-1.svg)
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://www.bonterratech.com/wp-content/uploads/2024/07/icon-impact.svg)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://www.bonterratech.com/wp-content/uploads/2024/07/icon-impact-1.svg)
 
 [### Case Management](https://www.bonterratech.com/product/case-management)
 
@@ -170,26 +204,58 @@ Annual giving supported
 ### Nonprofit organizations  
 
 Amplify your impact, expand your base, and boost efficiency with software built specifically for nonprofits.  
- [![arrow](https://www.bonterratech.com/wp-content/themes/bonterra/_images/arrow.svg) Explore solutions for nonprofits](https://www.bonterratech.com/who-we-serve/nonprofits)
+[![arrow](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![arrow](https://www.bonterratech.com/wp-content/themes/bonterra/_images/arrow.svg)
+
+Explore solutions for nonprofits](https://www.bonterratech.com/who-we-serve/nonprofits)
 
 ### Foundations and grantmakers
 
 Strengthen the social good ecosystem through powerful technology and programs proven to drive impact.  
- [![arrow](https://www.bonterratech.com/wp-content/themes/bonterra/_images/arrow.svg) Explore solutions for foundations](https://www.bonterratech.com/who-we-serve/foundations-grantmakers)
+[![arrow](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![arrow](https://www.bonterratech.com/wp-content/themes/bonterra/_images/arrow.svg)
+
+Explore solutions for foundations](https://www.bonterratech.com/who-we-serve/foundations-grantmakers)
 
 ### Public sector agencies  
 
 Deliver life-changing programming, streamline processes, and boost funding with secure case management software.  
- [![arrow](https://www.bonterratech.com/wp-content/themes/bonterra/_images/arrow.svg) Explore solutions for agencies](https://www.bonterratech.com/who-we-serve/public-agencies)
+[![arrow](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![arrow](https://www.bonterratech.com/wp-content/themes/bonterra/_images/arrow.svg)
+
+Explore solutions for agencies](https://www.bonterratech.com/who-we-serve/public-agencies)
 
 ### Corporations  
 
 Drive greater impact and stronger business outcomes with powerful corporate social responsibility software.  
- [![arrow](https://www.bonterratech.com/wp-content/themes/bonterra/_images/arrow.svg) Explore solutions for corporations](https://www.bonterratech.com/who-we-serve/corporations)
+[![arrow](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![](https://www.bonterratech.com/wp-content/uploads/2024/11/Bonterra4249876-1.jpg)![](https://www.bonterratech.com/wp-content/uploads/2024/11/Screenshot-2024-11-18-at-3.25.23 PM.png)![](https://www.bonterratech.com/wp-content/uploads/2024/11/Bonterra5981732-scaled.jpg)![](https://www.bonterratech.com/wp-content/uploads/2024/11/Screenshot-2024-11-15-at-2.02.16 PM.png)
+![arrow](https://www.bonterratech.com/wp-content/themes/bonterra/_images/arrow.svg)
+
+Explore solutions for corporations](https://www.bonterratech.com/who-we-serve/corporations)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://www.bonterratech.com/wp-content/uploads/2024/11/Bonterra4249876-1.jpg)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://www.bonterratech.com/wp-content/uploads/2024/11/Screenshot-2024-11-18-at-3.25.23 PM.png)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://www.bonterratech.com/wp-content/uploads/2024/11/Bonterra5981732-scaled.jpg)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://www.bonterratech.com/wp-content/uploads/2024/11/Screenshot-2024-11-15-at-2.02.16 PM.png)
 
 For the greatest good
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![](https://www.bonterratech.com/wp-content/uploads/2024/11/AAFSC.png)
 
@@ -207,6 +273,8 @@ PRODUCTS
 
 Bonterra Impact Management
 
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](https://www.bonterratech.com/wp-content/uploads/2024/11/Audubon.png)
 
 800%
@@ -222,6 +290,8 @@ Vice President of Direct Response, Audubon Society
 PRODUCTS
 
 Fundraising and Engagement
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![](https://www.bonterratech.com/wp-content/uploads/2024/11/MCVSC.png)
 
@@ -239,6 +309,8 @@ PRODUCTS
 
 Bonterra Impact Management
 
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](https://www.bonterratech.com/wp-content/uploads/2024/11/sanofi_hero.png)
 
 70+
@@ -255,12 +327,28 @@ PRODUCTS
 
 Grants Management
 
- ![](https://www.bonterratech.com/wp-content/uploads/2024/11/AAFSC-01.svg)![](https://www.bonterratech.com/wp-content/uploads/2024/11/Audubon_logo.svg) ![](https://www.bonterratech.com/wp-content/uploads/2024/11/MCVSC.svg) ![](https://www.bonterratech.com/wp-content/uploads/2024/11/sanofi_logo.svg)
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://www.bonterratech.com/wp-content/uploads/2024/11/AAFSC-01.svg)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://www.bonterratech.com/wp-content/uploads/2024/11/Audubon_logo.svg)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://www.bonterratech.com/wp-content/uploads/2024/11/MCVSC.svg)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://www.bonterratech.com/wp-content/uploads/2024/11/sanofi_logo.svg)
 
 The latest from our social good ecosystem
 -----------------------------------------
 
 [Browse Resources](https://www.everyaction.com/resource-hub)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![](https://www.bonterratech.com/wp-content/uploads/2024/10/1663298209.jpeg-1-669x320.webp)
 
@@ -270,17 +358,23 @@ Blog
 
 For CSR leaders, using software to automate grant approvals, track employee donations, disburse funds, and measure impact can reduce administrative work and free up time for your teams. But not all corporate giving platforms are the same — the right solution depends on your company’s unique needs, programs, and goals. For instance, if you have \[…\]
 
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](https://www.bonterratech.com/wp-content/uploads/2024/10/2043245974.jpeg-1-240x196.webp)
 
 Blog
 
 [### What’s coming to your Fundraising and Engagement platform?](https://www.bonterratech.com/blog/whats-coming-to-your-fundraising-and-engagement-platform)
 
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](https://www.bonterratech.com/wp-content/uploads/2024/10/1457878227.jpeg-1-240x196.webp)
 
 Blog
 
 [### 3 strategies to unlock your CSR participation potential](https://www.bonterratech.com/blog/3-strategies-unlock-your-csr-participation-potential)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![](https://www.bonterratech.com/wp-content/uploads/2024/10/istock-639739758.jpg-2-240x196.webp)
 
@@ -297,7 +391,9 @@ Accelerate your impact
 
 [Request a demo](https://www.everyaction.com/request-a-demo)
 
-[![](https://www.bonterratech.com/wp-content/uploads/2024/08/Clip-path-group-1.svg)](https://www.bonterratech.com/)
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://www.bonterratech.com/wp-content/uploads/2024/08/Clip-path-group-1.svg)](https://www.bonterratech.com/)
 
 Offices
 
@@ -333,7 +429,27 @@ Take 20 minutes to get expert answers from Bonterra about the best tools for you
 
 [Request a demo](https://www.everyaction.com/request-a-demo)
 
- [![](https://www.bonterratech.com/wp-content/uploads/2024/08/instagram.svg) Bonterra's Instagram Account](https://www.instagram.com/bonterratech/)[![](https://www.bonterratech.com/wp-content/uploads/2024/08/linkedin.svg) Bonterra's LinkedIn Account](https://www.linkedin.com/company/bonterra-tech/)[![](https://www.bonterratech.com/wp-content/uploads/2024/08/facebook.svg) Bonterra's Facebook Account](https://www.facebook.com/BonterraTech)[![](https://www.bonterratech.com/wp-content/uploads/2024/11/youtube.svg) Bonterra's YouTube Account](https://www.youtube.com/bonterratech)[![](https://www.bonterratech.com/wp-content/uploads/2024/11/X.svg) Bonterra's X Account](https://x.com/bonterratech)
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://www.bonterratech.com/wp-content/uploads/2024/08/instagram.svg)
+
+Bonterra's Instagram Account](https://www.instagram.com/bonterratech/) [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://www.bonterratech.com/wp-content/uploads/2024/08/linkedin.svg)
+
+Bonterra's LinkedIn Account](https://www.linkedin.com/company/bonterra-tech/) [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://www.bonterratech.com/wp-content/uploads/2024/08/facebook.svg)
+
+Bonterra's Facebook Account](https://www.facebook.com/BonterraTech) [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://www.bonterratech.com/wp-content/uploads/2024/11/youtube.svg)
+
+Bonterra's YouTube Account](https://www.youtube.com/bonterratech) [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://www.bonterratech.com/wp-content/uploads/2024/11/X.svg)
+
+Bonterra's X Account](https://x.com/bonterratech)
 
 [Want to partner with us?](https://www.bonterratech.com/partnerships)
 
@@ -345,5 +461,7 @@ Copyright © 2024 Bonterra. All rights reserved.
 * [NGP VAN](https://www.ngpvan.com/)
 * [Sitemap](https://www.bonterratech.com/sitemap)
 * [Terms of Use](https://www.bonterratech.com/legal/bonterra-website-terms-and-conditions)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![](https://www.bonterratech.com/wp-content/themes/bonterra/_images/bottom-logo.svg)
