@@ -314,11 +314,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/galerija-talenata/godisnja-izlozba-studenata-flu-beograd-20062007/andjela-grabez/andjela-grabez-2.jpg?itok=dOJ5YU3D)](http://seecult.org/galerija/galerija-umetnika/galerija-talenata/godisnja-izlozba-studenata-flu-beograd-20062007/andjela)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/karavukovo/karavukova-jazbina/f21.jpg?itok=4AB_ucjG)](http://seecult.org/galerija/galerija-umetnika/karavukovo/karavukova-jazbina)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/zampa-irwin.jpg?itok=7MxTzdbS)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/gbh2.jpg?itok=RIwyuLjc)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -334,6 +334,7 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 * [Nadežda Petrović u Narodnom muzeju](http://seecult.org/vest/nadezda-petrovic-u-narodnom-muzeju)
 
+* [Uručene specijalne nagrade 30. FAF-a](http://seecult.org/vest/urucene-specijalne-nagrade-30-faf)
 * [Značaj filmskog fonda za debitante](http://seecult.org/vest/znacaj-filmskog-fonda-za-debitante)
 * [Prednosti kreativnog mentorstva](http://seecult.org/vest/prednosti-kreativnog-mentorstva)
 * [Nikiti Zdravkoviću nagrada Veruj u sebe](http://seecult.org/vest/nikiti-zdravkovicu-nagrada-veruj-u-sebe)
@@ -343,7 +344,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Voda kao metafora za transformaciju i obnovu](http://seecult.org/vest/voda-kao-metafora-za-transformaciju-i-obnovu)
 * [Decenija Pančevo film festivala](http://seecult.org/vest/decenija-pancevo-film-festivala)
 * [Srpski manastiri na Kosovu u sedištu Uneska](http://seecult.org/vest/srpski-manastiri-na-kosovu-u-sedistu-uneska)
-* [Bitno je šta vaše oči vide](http://seecult.org/vest/bitno-je-sta-vase-oci-vide)
 
 * [Konkursi](#tab1_1)
 
