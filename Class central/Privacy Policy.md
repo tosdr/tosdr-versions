@@ -412,36 +412,36 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 Most common
 
-1. excel
+1. c
     
-2. project management
+2. finance
     
-3. graphic design
+3. machine learning
     
 
 Popular subjects
 
-1. [AI Engineering
+1. [Psychology
     
-    58 courses](https://www.classcentral.com/subject/ai-engineering)
-2. [Artificial Intelligence
+    2,710 courses](https://www.classcentral.com/subject/psychology)
+2. [Software Development
     
-    14,068 courses](https://www.classcentral.com/subject/ai)
-3. [Digital Marketing
+    9,977 courses](https://www.classcentral.com/subject/software-development)
+3. [Data Analysis
     
-    6,286 courses](https://www.classcentral.com/subject/digital-marketing)
+    8,845 courses](https://www.classcentral.com/subject/data-analysis)
 
 Popular courses
 
-1. [Sheep in the Land of Fire and Ice
+1. [Introduction to Philosophy
     
-    University of Iceland](https://www.classcentral.com/course/environmental-science-the-university-of-iceland-s-13245)
-2. [Digital Marketing
+    University of Edinburgh](https://www.classcentral.com/course/introphil-418)
+2. [Introduction to Animal Behaviour
     
-    Panjab University Chandigarh](https://www.classcentral.com/course/swayam-digital-marketing-14006)
-3. [Modern Product Leadership
+    Wageningen University](https://www.classcentral.com/course/animal-behavior-wageningen-university-research-in-6033)
+3. [AI and Big Data in Global Health Improvement
     
-    University System of Maryland](https://www.classcentral.com/course/product-management-the-university-of-maryland-col-19102)
+    Taipei Medical University](https://www.classcentral.com/course/ai-and-big-data-global-health-improvement-17981)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
