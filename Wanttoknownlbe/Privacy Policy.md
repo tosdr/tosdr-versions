@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/het-verschil-tussen-nepgetuige-en-nepgetuige/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/boeken/de-helende-kracht-van-familierelaties/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
