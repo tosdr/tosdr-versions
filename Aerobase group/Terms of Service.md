@@ -150,6 +150,11 @@ For further information regarding the applicable laws, regulations, and policies
 
 #### Defense News
 
+* [Russian jets intercept B-52s during Baltic training flight](https://www.defensenews.com/news/your-air-force/2024/11/27/russian-jets-intercept-b-52s-during-baltic-training-flight/)  
+    11/27/24 12:39pm  
+    
+    Two Russian fighters intercepted a pair of B-52H Stratofortresses near the Baltic Sea on Monday, a U.S. defense official confirmed. One of the Stratofortresses is shown here taking off from RAF Fairford on Monday. (Airman 1st Class Laiken King/U.S. Air Force)
+    
 * [Air Force awards Boeing $2.4 billion contract for KC-46 tankers](https://www.defensenews.com/air/2024/11/25/air-force-awards-boeing-24-billion-contract-for-kc-46-tankers/)  
     11/25/24 05:00pm  
     
@@ -164,11 +169,6 @@ For further information regarding the applicable laws, regulations, and policies
     11/21/24 04:15pm  
     
     Ukrainian rescue workers put out a fire of a burning house damaged by a Russian strike on Dnipro, Ukraine, on Thursday. (Ukrainian Emergency Service via AP)
-    
-* [The F-15 fighter jet is having a second spring in Asia](https://www.defensenews.com/global/asia-pacific/2024/11/21/the-f-15-fighter-jet-is-having-a-second-spring-in-asia/)  
-    11/21/24 05:38am  
-    
-    A U.S. Air Force F-15 Eagle lands on the runway June 7, 2017, at Kadena Air Base, Japan. (Senior Airman Lynette M. Rolen)
     
 
 Recent parts by keyword  
