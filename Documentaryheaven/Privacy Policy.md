@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![PT 1/2 On Piracy And The Future Of Media](/wp-content/thumbnails/2191-100x70.jpg?x53432)
+* [![The Fake Genius: A $30 BILLION Fraud](/wp-content/thumbnails/16703-100x70.jpg?x53432)
     
-    PT 1/2 On Piracy And The Future Of Media
+    The Fake Genius: A $30 BILLION Fraud
     
-    Each day, millions of youths from Canada and around the world download music and movies off of the Internet. This epidemic of “unauthorized” downloading has been cited by the record and film industrie](https://documentaryheaven.com/pt-12-on-piracy-and-the-future-of-media/ "PT 1/2 On Piracy And The Future Of Media")
-* [![Night Will Fall](/wp-content/thumbnails/9561-100x70.jpg?x53432)
+    Everyone likes a story about an underdog, someone out of the ordinary an unlikely genius who comes once in a lifetime, someone who wants to change the world for good... this is not one of those stori](https://documentaryheaven.com/the-fake-genius-a-30-billion-fraud/ "The Fake Genius: A $30 BILLION Fraud")
+* [![Paradise Lost: The Child Murders at Robin Hood Hills](/wp-content/thumbnails/4533-100x70.jpg?x53432)
     
-    Night Will Fall
+    Paradise Lost: The Child Murders at Robin Hood Hills
     
-    Night Will Fall is a documentary that was originally shot by Alfred Hitchcock and Sidney Bernstein in 1945 just after the war ended, and it's about the atrocities the victors discovered upon finding t](https://documentaryheaven.com/night-will-fall/ "Night Will Fall")
-* [![Who Killed Rasputin?](/wp-content/thumbnails/4217-100x70.jpg?x53432)
+    Paradise Lost: The Child Murders at Robin Hood Hills is a 1996 documentary film directed by Joe Berlinger and Bruce Sinofsky about the trials of three teenage boys in West Memphis, Arkansas for the mu](https://documentaryheaven.com/paradise-lost-the-child-murders-at-robin-hood-hills/ "Paradise Lost: The Child Murders at Robin Hood Hills")
+* [![The Other Side of AIDS](/wp-content/thumbnails/5792-100x70.jpg?x53432)
     
-    Who Killed Rasputin?
+    The Other Side of AIDS
     
-    The programme-makers re-opened the investigation into his death and found conclusive evidence to suggest that Rasputin was murdered in St Petersburg in 1916 in a plot hatched by rogue members of the B](https://documentaryheaven.com/who-killed-rasputin/ "Who Killed Rasputin?")
-* [![Interview with a Cannibal](/wp-content/thumbnails/6808-100x70.jpg?x53432)
+    Take an unflinching look into an issue the mainstream media doesn't dare touch: the failure of the multi billion-dollar war on AIDS. The Other Side of AIDS gives voice to a growing movement of doctors](https://documentaryheaven.com/the-other-side-of-aids/ "The Other Side of AIDS")
+* [![How Weed Won The West](/wp-content/thumbnails/6290-100x70.jpg?x53432)
     
-    Interview with a Cannibal
+    How Weed Won The West
     
-    Issei Sagawa murdered an innocent woman and spent three days eating her flesh. Due to loopholes in the law, Issei is a free man to this day.On the afternoon of June 13, 1981, a Japanese man named](https://documentaryheaven.com/interview-with-a-cannibal/ "Interview with a Cannibal")
-* [![The Billion Dollar Art Hunt](/wp-content/thumbnails/16397-100x70.jpg?x53432)
+    In the follow-up to his ground-breaking documentary 'American Drug War,' filmmaker Kevin Booth traces the fight against Federal drug regulation in the State of California. A public majority has spoken](https://documentaryheaven.com/how-weed-won-the-west/ "How Weed Won The West")
+* [![Delius: Composer, Lover, Enigma](/wp-content/thumbnails/10069-100x70.jpg?x53432)
     
-    The Billion Dollar Art Hunt
+    Delius: Composer, Lover, Enigma
     
-    As an arts journalist John Wilson has covered the theft of many great paintings over the years, most never return but when they do it usually makes headline news, and a journalist like him will tell](https://documentaryheaven.com/billion-dollar-art-hunt/ "The Billion Dollar Art Hunt")
+    Burials in Britain are not normally held after dark, but nothing in the life and music of the composer Frederick Delius was normal. He was buries in May 1935, yet he'd actually died almost a year](https://documentaryheaven.com/delius-composer-lover-enigma/ "Delius: Composer, Lover, Enigma")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
