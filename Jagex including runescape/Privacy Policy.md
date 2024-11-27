@@ -1,4 +1,4 @@
-![Logo](https://4216836603-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/organizations%2FMhQqNo4JtUqK6Wq0HUQu%2Fsites%2Fsite_vEwis%2Flogo%2F4oPA4LV6S9sSS2nVl3b1%2Fjagex-full-flat.03efc24e.svg?alt=media&token=8bb1b34f-8540-4194-bbb8-c1c0bbc9dfdd)![Logo](https://4216836603-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/organizations%2FMhQqNo4JtUqK6Wq0HUQu%2Fsites%2Fsite_vEwis%2Flogo%2F4oPA4LV6S9sSS2nVl3b1%2Fjagex-full-flat.03efc24e.svg?alt=media&token=8bb1b34f-8540-4194-bbb8-c1c0bbc9dfdd)
+[![Logo](https://4216836603-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/organizations%2FMhQqNo4JtUqK6Wq0HUQu%2Fsites%2Fsite_vEwis%2Flogo%2F4oPA4LV6S9sSS2nVl3b1%2Fjagex-full-flat.03efc24e.svg?alt=media&token=8bb1b34f-8540-4194-bbb8-c1c0bbc9dfdd)![Logo](https://4216836603-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/organizations%2FMhQqNo4JtUqK6Wq0HUQu%2Fsites%2Fsite_vEwis%2Flogo%2F4oPA4LV6S9sSS2nVl3b1%2Fjagex-full-flat.03efc24e.svg?alt=media&token=8bb1b34f-8540-4194-bbb8-c1c0bbc9dfdd)](https://www.jagex.com/)
 
 English
 
@@ -8,7 +8,7 @@ More
 
 SearchCtrl + K
 
-* Legal Portal
+* [Legal Portal](https://www.jagex.com/)
     
     * [Contact us](https://www.jagex.com/readme/contact-us)
         
