@@ -196,7 +196,7 @@ Hi
     * BACK
     * [All Products](https://www.smithbrothersfarms.com/all-products)
         
-    * [New! (87)](https://www.smithbrothersfarms.com/featured-products)
+    * [New! (93)](https://www.smithbrothersfarms.com/featured-products)
         
     * [On Sale (69)](https://www.smithbrothersfarms.com/on-special)
         
@@ -312,10 +312,10 @@ Hi
         * [Deli & Charcuterie (17)](https://www.smithbrothersfarms.com/deli-and-charcuterie)
             
         
-    * [Meals & Sides (80)](https://www.smithbrothersfarms.com/prepared-foods)
+    * [Meals & Sides (83)](https://www.smithbrothersfarms.com/prepared-foods)
         
         * BACK
-        * [Frozen Meals (25)](https://www.smithbrothersfarms.com/entrees)
+        * [Frozen Meals (28)](https://www.smithbrothersfarms.com/entrees)
             
         * [Sides & Appetizers (25)](https://www.smithbrothersfarms.com/sides-and-apps)
             
@@ -326,12 +326,12 @@ Hi
         * [Sauces (6)](https://www.smithbrothersfarms.com/sauces-and-soups)
             
         
-    * [Coffee, Juice & Tea (52)](https://www.smithbrothersfarms.com/coffee-juice-tea)
+    * [Coffee, Juice & Tea (55)](https://www.smithbrothersfarms.com/coffee-juice-tea)
         
         * BACK
         * [Juice & Tea (23)](https://www.smithbrothersfarms.com/juice-3)
             
-        * [Coffee (29)](https://www.smithbrothersfarms.com/coffee-2)
+        * [Coffee (32)](https://www.smithbrothersfarms.com/coffee-2)
             
         
     * [Snacks (35)](https://www.smithbrothersfarms.com/snacks)
