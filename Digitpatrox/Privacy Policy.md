@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Tuesday, November 26 2024
+Wednesday, November 27 2024
 
 Latest
 
-* [Steady progress and partner potential at HPE Discover Barcelona 2024](https://digitpatrox.com/steady-progress-and-partner-potential-at-hpe-discover-barcelona-2024/)
-* [UK Regulator Probes Apple’s Mobile Browser Dominance](https://digitpatrox.com/uk-regulator-probes-apples-mobile-browser-dominance/)
-* [These are the best Black Friday golf deals I’m buying](https://digitpatrox.com/these-are-the-best-black-friday-golf-deals-im-buying/)
-* [Why Cybersecurity Leaders Trust the MITRE ATT&CK Evaluations](https://digitpatrox.com/why-cybersecurity-leaders-trust-the-mitre-attck-evaluations/)
-* [How to use Google Gemini on your phone](https://digitpatrox.com/how-to-use-google-gemini-on-your-phone/)
-* [Elon Musk learns how EV charging works from Pete Buttigieg](https://digitpatrox.com/elon-musk-learns-how-ev-charging-works-from-pete-buttigieg/)
-* [Don’t Miss Out on These Google Pixel Deals During Black Friday](https://digitpatrox.com/dont-miss-out-on-these-google-pixel-deals-during-black-friday/)
-* [Tech hiring is set to grow in 2025, but wary staff are putting job security front and center](https://digitpatrox.com/tech-hiring-is-set-to-grow-in-2025-but-wary-staff-are-putting-job-security-front-and-center/)
-* [For Microsoft, will Trump’s antitrust and environmental views help or harm? – Computerworld](https://digitpatrox.com/for-microsoft-will-trumps-antitrust-and-environmental-views-help-or-harm-computerworld/)
-* [Kendrick Lamar’s ‘GNX’: The Out-of-Touch Adults’ Guide to Kid Culture](https://digitpatrox.com/kendrick-lamars-gnx-the-out-of-touch-adults-guide-to-kid-culture/)
+* [Adobe’s Creative Cloud Is 50% Off for Black Friday](https://digitpatrox.com/adobes-creative-cloud-is-50-off-for-black-friday/)
+* [How to disable Recall (AI timeline) on Windows 11](https://digitpatrox.com/how-to-disable-recall-ai-timeline-on-windows-11/)
+* [How to Make Travel More Comfortable](https://digitpatrox.com/how-to-make-travel-more-comfortable/)
+* [My Handheld PC Was Overheating Like Crazy, Then I Opened It…](https://digitpatrox.com/my-handheld-pc-was-overheating-like-crazy-then-i-opened-it/)
+* [The iPhone Control Center: All you need to know](https://digitpatrox.com/the-iphone-control-center-all-you-need-to-know/)
+* [Sysdig names cybersecurity veteran William Welch as new CEO](https://digitpatrox.com/sysdig-names-cybersecurity-veteran-william-welch-as-new-ceo/)
+* [How the GenAI Changed Tech Work](https://digitpatrox.com/how-the-genai-changed-tech-work/)
+* [NYT Connections today hints and answers — Wednesday, November 27 (#535)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-wednesday-november-27-535/)
+* [New NachoVPN attack uses rogue VPN servers to install malicious updates](https://digitpatrox.com/new-nachovpn-attack-uses-rogue-vpn-servers-to-install-malicious-updates/)
+* [Google’s connecting Spotify to its Gemini AI assistant](https://digitpatrox.com/googles-connecting-spotify-to-its-gemini-ai-assistant/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/SEYN9yWB9qWqirhtAa8PjR-1200-80.jpg)](https://digitpatrox.com/steady-progress-and-partner-potential-at-hpe-discover-barcelona-2024/)
+* [![](https://lifehacker.com/imagery/articles/01JDMVH3YTFH3BVC7WC5VNF2GX/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/adobes-creative-cloud-is-50-off-for-black-friday/)
     
-    [Steady progress and partner potential at HPE Discover Barcelona 2024](https://digitpatrox.com/steady-progress-and-partner-potential-at-hpe-discover-barcelona-2024/)
-    
-    10 minutes ago
-    
-* [![](https://assets.techrepublic.com/uploads/2024/11/tr_20241126-apple-cma-browser-dominance.jpg)](https://digitpatrox.com/uk-regulator-probes-apples-mobile-browser-dominance/)
-    
-    [UK Regulator Probes Apple’s Mobile Browser Dominance](https://digitpatrox.com/uk-regulator-probes-apples-mobile-browser-dominance/)
+    [Adobe’s Creative Cloud Is 50% Off for Black Friday](https://digitpatrox.com/adobes-creative-cloud-is-50-off-for-black-friday/)
     
     14 minutes ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/cZwWvHxhGMfzDs7UhvFnfC-1200-80.jpg)](https://digitpatrox.com/these-are-the-best-black-friday-golf-deals-im-buying/)
+* [![](https://pureinfotech.com/wp-content/uploads/2024/05/windows-11-recall-disable-hero.webp)](https://digitpatrox.com/how-to-disable-recall-ai-timeline-on-windows-11/)
     
-    [These are the best Black Friday golf deals I’m buying](https://digitpatrox.com/these-are-the-best-black-friday-golf-deals-im-buying/)
+    [How to disable Recall (AI timeline) on Windows 11](https://digitpatrox.com/how-to-disable-recall-ai-timeline-on-windows-11/)
     
-    18 minutes ago
+    21 minutes ago
     
-* [![](https://www.bleepstatic.com/content/posts/2024/11/25/cynet-mitre.jpg)](https://digitpatrox.com/why-cybersecurity-leaders-trust-the-mitre-attck-evaluations/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1730923870/prod/content/dam/special-graphics/Tout_Safe_travels_tout)](https://digitpatrox.com/how-to-make-travel-more-comfortable/)
     
-    [Why Cybersecurity Leaders Trust the MITRE ATT&CK Evaluations](https://digitpatrox.com/why-cybersecurity-leaders-trust-the-mitre-attck-evaluations/)
+    [How to Make Travel More Comfortable](https://digitpatrox.com/how-to-make-travel-more-comfortable/)
     
-    1 hour ago
+    25 minutes ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/ButG-UlDZFnMVc_GYbKmQGx3XBM=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/25460677/HT054_AI_GEMINI.png)](https://digitpatrox.com/how-to-use-google-gemini-on-your-phone/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/11/a-lenovo-legion-go-on-fire-on-a-wooden-surface.jpg)](https://digitpatrox.com/my-handheld-pc-was-overheating-like-crazy-then-i-opened-it/)
     
-    [How to use Google Gemini on your phone](https://digitpatrox.com/how-to-use-google-gemini-on-your-phone/)
+    [My Handheld PC Was Overheating Like Crazy, Then I Opened It…](https://digitpatrox.com/my-handheld-pc-was-overheating-like-crazy-then-i-opened-it/)
     
-    2 hours ago
+    26 minutes ago
+    
+* [![](https://www.digitalcitizen.life/wp-content/uploads/2024/11/iphone_control_center.jpg)](https://digitpatrox.com/the-iphone-control-center-all-you-need-to-know/)
+    
+    [The iPhone Control Center: All you need to know](https://digitpatrox.com/the-iphone-control-center-all-you-need-to-know/)
+    
+    28 minutes ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [10 minutes ago
-    
-    ### Steady progress and partner potential at HPE Discover Barcelona 2024](https://digitpatrox.com/steady-progress-and-partner-potential-at-hpe-discover-barcelona-2024/)
 * [14 minutes ago
     
-    ### UK Regulator Probes Apple’s Mobile Browser Dominance](https://digitpatrox.com/uk-regulator-probes-apples-mobile-browser-dominance/)
-* [18 minutes ago
+    ### Adobe’s Creative Cloud Is 50% Off for Black Friday](https://digitpatrox.com/adobes-creative-cloud-is-50-off-for-black-friday/)
+* [21 minutes ago
     
-    ### These are the best Black Friday golf deals I’m buying](https://digitpatrox.com/these-are-the-best-black-friday-golf-deals-im-buying/)
+    ### How to disable Recall (AI timeline) on Windows 11](https://digitpatrox.com/how-to-disable-recall-ai-timeline-on-windows-11/)
+* [25 minutes ago
+    
+    ### How to Make Travel More Comfortable](https://digitpatrox.com/how-to-make-travel-more-comfortable/)
 
 Most Popular Topics
 
-* [October 3, 2024
+* [October 9, 2024
     
-    ### Critical Ivanti RCE flaw with public exploit now used in attacks](https://digitpatrox.com/critical-ivanti-rce-flaw-with-public-exploit-now-used-in-attacks/)
-* [September 6, 2024
+    ### All Disney Dreamlight Valley Codes (October 2024)](https://digitpatrox.com/all-disney-dreamlight-valley-codes-october-2024/)
+* [October 7, 2024
     
-    ### The source code for Android 15 is now available to developers – Computerworld](https://digitpatrox.com/the-source-code-for-android-15-is-now-available-to-developers-computerworld/)
-* [September 26, 2024
+    ### I managed to unenroll my PC from the Insider Program to stay on Windows 11 24H2 without reinstalling](https://digitpatrox.com/i-managed-to-unenroll-my-pc-from-the-insider-program-to-stay-on-windows-11-24h2-without-reinstalling/)
+* [August 29, 2024
     
-    ### This New Google Doodle Is a Tasty Popcorn Game You Should Play!](https://digitpatrox.com/this-new-google-doodle-is-a-tasty-popcorn-game-you-should-play/)
+    ### Halliburton cyberattack linked to RansomHub ransomware gang](https://digitpatrox.com/halliburton-cyberattack-linked-to-ransomhub-ransomware-gang/)
 
 Last Modified Topics
 
+* [1 hour ago
+    
+    ### How the GenAI Changed Tech Work](https://digitpatrox.com/how-the-genai-changed-tech-work/)
+* [1 hour ago
+    
+    ### NYT Connections today hints and answers — Wednesday, November 27 (#535)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-wednesday-november-27-535/)
 * [2 hours ago
     
-    ### Don’t Miss Out on These Google Pixel Deals During Black Friday](https://digitpatrox.com/dont-miss-out-on-these-google-pixel-deals-during-black-friday/)
-* [4 hours ago
-    
-    ### Tech hiring is set to grow in 2025, but wary staff are putting job security front and center](https://digitpatrox.com/tech-hiring-is-set-to-grow-in-2025-but-wary-staff-are-putting-job-security-front-and-center/)
-* [4 hours ago
-    
-    ### For Microsoft, will Trump’s antitrust and environmental views help or harm? – Computerworld](https://digitpatrox.com/for-microsoft-will-trumps-antitrust-and-environmental-views-help-or-harm-computerworld/)
+    ### New NachoVPN attack uses rogue VPN servers to install malicious updates](https://digitpatrox.com/new-nachovpn-attack-uses-rogue-vpn-servers-to-install-malicious-updates/)
 
 Most Viewed Topics
 
-* [October 2, 2024
+* [August 13, 2024
     
-    ### The best noise-canceling headphones for 2024](https://digitpatrox.com/the-best-noise-canceling-headphones-for-2024/)
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 * [August 12, 2024
     
     ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
-* [August 13, 2024
+* [October 2, 2024
     
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
+    ### The best noise-canceling headphones for 2024](https://digitpatrox.com/the-best-noise-canceling-headphones-for-2024/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
