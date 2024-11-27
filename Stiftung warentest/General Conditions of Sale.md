@@ -384,7 +384,7 @@ weiter
 
 Suchen
 
-![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v123175144.svg)
+![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v123254121.svg)
 
 1. [Startweiter](https://www.test.de/)
 2. Hilfe
@@ -664,12 +664,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Bank­karten zum Giro­konto: Debitkarte – was die neuen Karten können und was nicht](https://www.test.de/Debitkarte-zum-Girokonto-6008302-0/ "Bankkarten zum Girokonto - Debitkarte – was die neuen Karten können und was nicht")
-* [Leser­aufruf zu Dark Patterns: Melden Sie uns Manipulation im Netz](https://www.test.de/Leseraufruf-zu-Dark-Patterns-Melden-Sie-uns-Manipulation-im-Netz-6047043-0/ "Leseraufruf zu Dark Patterns - Melden Sie uns Manipulation im Netz")
-* [Bauspar­rechner: Online-Angebote für Bausparer oft unge­eignet](https://www.test.de/Bausparrechner-Online-Angebote-fuer-Bausparer-oft-ungeeignet-6009987-0/ "Bausparrechner - Online-Angebote für Bausparer oft ungeeignet")
-* [Instabile Intel CPUs: Was Betroffene tun können](https://www.test.de/Instabile-Intel-CPUs-Was-Betroffene-tun-koennen-6147165-0/ "Instabile Intel CPUs - Was Betroffene tun können")
-* [Überge­wicht bei Kindern: Kampf den Corona-Pfunden](https://www.test.de/Uebergewicht-bei-Kindern-Kampf-den-Corona-Pfunden-5979072-0/ "Übergewicht bei Kindern - Kampf den Corona-Pfunden")
-* [Essen und Getränke zum Mitnehmen: Weg frei für mehr Mehrweg](https://www.test.de/Essen-und-Getraenke-zum-Mitnehmen-Weg-frei-fuer-mehr-Mehrweg-5944591-0/ "Essen und Getränke zum Mitnehmen - Weg frei für mehr Mehrweg")
+* [Mutmacherin: Ein Sieg für alle Frauen](https://www.test.de/Mutmacherin-Ein-Sieg-fuer-alle-Frauen-6041286-0/ "Mutmacherin - Ein Sieg für alle Frauen")
+* [Verpackungs­ärger: Caffè Crema von Tchibo](https://www.test.de/verpackungsaerger-caffe-crema-von-tchibo-6066168-0/ "Verpackungsärger - Caffè Crema von Tchibo")
+* [Dyna­mische Strom­tarife im Vergleich: Strom verbrauchen, wenn er günstig ist](https://www.test.de/Dynamische-Stromtarife-6071801-0/ "Dynamische Stromtarife im Vergleich - Strom verbrauchen, wenn er günstig ist")
+* [Anlegen in Rohstoffen: Warum sich Industrie­metalle nicht als Geld­anlage eignen](https://www.test.de/Anlegen-in-Rohstoffen-Warum-sich-Industriemetalle-nicht-als-Geldanlage-eignen-6160704-0/ "Anlegen in Rohstoffen - Warum sich Industriemetalle nicht als Geldanlage eignen")
+* [Riskante digitale Geld­anlagen: Die Masche von Profitwallet](https://www.test.de/Riskante-digitale-Geldanlagen-Die-Masche-von-Profitwallet-6118441-0/ "Riskante digitale Geldanlagen - Die Masche von Profitwallet")
+* [Gendergerechtig­keit in der Geld­anlage: Frauen im Fokus von Fonds](https://www.test.de/Gendergerechtigkeit-in-der-Geldanlage-Frauen-im-Fokus-von-Fonds-6103505-0/ "Gendergerechtigkeit in der Geldanlage - Frauen im Fokus von Fonds")
 
 Weitere Informationen
 
@@ -3082,12 +3082,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Bank­karten zum Giro­konto: Debitkarte – was die neuen Karten können und was nicht](https://www.test.de/Debitkarte-zum-Girokonto-6008302-0/ "Bankkarten zum Girokonto - Debitkarte – was die neuen Karten können und was nicht")
-* [Leser­aufruf zu Dark Patterns: Melden Sie uns Manipulation im Netz](https://www.test.de/Leseraufruf-zu-Dark-Patterns-Melden-Sie-uns-Manipulation-im-Netz-6047043-0/ "Leseraufruf zu Dark Patterns - Melden Sie uns Manipulation im Netz")
-* [Bauspar­rechner: Online-Angebote für Bausparer oft unge­eignet](https://www.test.de/Bausparrechner-Online-Angebote-fuer-Bausparer-oft-ungeeignet-6009987-0/ "Bausparrechner - Online-Angebote für Bausparer oft ungeeignet")
-* [Instabile Intel CPUs: Was Betroffene tun können](https://www.test.de/Instabile-Intel-CPUs-Was-Betroffene-tun-koennen-6147165-0/ "Instabile Intel CPUs - Was Betroffene tun können")
-* [Überge­wicht bei Kindern: Kampf den Corona-Pfunden](https://www.test.de/Uebergewicht-bei-Kindern-Kampf-den-Corona-Pfunden-5979072-0/ "Übergewicht bei Kindern - Kampf den Corona-Pfunden")
-* [Essen und Getränke zum Mitnehmen: Weg frei für mehr Mehrweg](https://www.test.de/Essen-und-Getraenke-zum-Mitnehmen-Weg-frei-fuer-mehr-Mehrweg-5944591-0/ "Essen und Getränke zum Mitnehmen - Weg frei für mehr Mehrweg")
+* [Mutmacherin: Ein Sieg für alle Frauen](https://www.test.de/Mutmacherin-Ein-Sieg-fuer-alle-Frauen-6041286-0/ "Mutmacherin - Ein Sieg für alle Frauen")
+* [Verpackungs­ärger: Caffè Crema von Tchibo](https://www.test.de/verpackungsaerger-caffe-crema-von-tchibo-6066168-0/ "Verpackungsärger - Caffè Crema von Tchibo")
+* [Dyna­mische Strom­tarife im Vergleich: Strom verbrauchen, wenn er günstig ist](https://www.test.de/Dynamische-Stromtarife-6071801-0/ "Dynamische Stromtarife im Vergleich - Strom verbrauchen, wenn er günstig ist")
+* [Anlegen in Rohstoffen: Warum sich Industrie­metalle nicht als Geld­anlage eignen](https://www.test.de/Anlegen-in-Rohstoffen-Warum-sich-Industriemetalle-nicht-als-Geldanlage-eignen-6160704-0/ "Anlegen in Rohstoffen - Warum sich Industriemetalle nicht als Geldanlage eignen")
+* [Riskante digitale Geld­anlagen: Die Masche von Profitwallet](https://www.test.de/Riskante-digitale-Geldanlagen-Die-Masche-von-Profitwallet-6118441-0/ "Riskante digitale Geldanlagen - Die Masche von Profitwallet")
+* [Gendergerechtig­keit in der Geld­anlage: Frauen im Fokus von Fonds](https://www.test.de/Gendergerechtigkeit-in-der-Geldanlage-Frauen-im-Fokus-von-Fonds-6103505-0/ "Gendergerechtigkeit in der Geldanlage - Frauen im Fokus von Fonds")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -3138,12 +3138,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Bank­karten zum Giro­konto: Debitkarte – was die neuen Karten können und was nicht](https://www.test.de/Debitkarte-zum-Girokonto-6008302-0/ "Bankkarten zum Girokonto - Debitkarte – was die neuen Karten können und was nicht")
-* [Leser­aufruf zu Dark Patterns: Melden Sie uns Manipulation im Netz](https://www.test.de/Leseraufruf-zu-Dark-Patterns-Melden-Sie-uns-Manipulation-im-Netz-6047043-0/ "Leseraufruf zu Dark Patterns - Melden Sie uns Manipulation im Netz")
-* [Bauspar­rechner: Online-Angebote für Bausparer oft unge­eignet](https://www.test.de/Bausparrechner-Online-Angebote-fuer-Bausparer-oft-ungeeignet-6009987-0/ "Bausparrechner - Online-Angebote für Bausparer oft ungeeignet")
-* [Instabile Intel CPUs: Was Betroffene tun können](https://www.test.de/Instabile-Intel-CPUs-Was-Betroffene-tun-koennen-6147165-0/ "Instabile Intel CPUs - Was Betroffene tun können")
-* [Überge­wicht bei Kindern: Kampf den Corona-Pfunden](https://www.test.de/Uebergewicht-bei-Kindern-Kampf-den-Corona-Pfunden-5979072-0/ "Übergewicht bei Kindern - Kampf den Corona-Pfunden")
-* [Essen und Getränke zum Mitnehmen: Weg frei für mehr Mehrweg](https://www.test.de/Essen-und-Getraenke-zum-Mitnehmen-Weg-frei-fuer-mehr-Mehrweg-5944591-0/ "Essen und Getränke zum Mitnehmen - Weg frei für mehr Mehrweg")
+* [Mutmacherin: Ein Sieg für alle Frauen](https://www.test.de/Mutmacherin-Ein-Sieg-fuer-alle-Frauen-6041286-0/ "Mutmacherin - Ein Sieg für alle Frauen")
+* [Verpackungs­ärger: Caffè Crema von Tchibo](https://www.test.de/verpackungsaerger-caffe-crema-von-tchibo-6066168-0/ "Verpackungsärger - Caffè Crema von Tchibo")
+* [Dyna­mische Strom­tarife im Vergleich: Strom verbrauchen, wenn er günstig ist](https://www.test.de/Dynamische-Stromtarife-6071801-0/ "Dynamische Stromtarife im Vergleich - Strom verbrauchen, wenn er günstig ist")
+* [Anlegen in Rohstoffen: Warum sich Industrie­metalle nicht als Geld­anlage eignen](https://www.test.de/Anlegen-in-Rohstoffen-Warum-sich-Industriemetalle-nicht-als-Geldanlage-eignen-6160704-0/ "Anlegen in Rohstoffen - Warum sich Industriemetalle nicht als Geldanlage eignen")
+* [Riskante digitale Geld­anlagen: Die Masche von Profitwallet](https://www.test.de/Riskante-digitale-Geldanlagen-Die-Masche-von-Profitwallet-6118441-0/ "Riskante digitale Geldanlagen - Die Masche von Profitwallet")
+* [Gendergerechtig­keit in der Geld­anlage: Frauen im Fokus von Fonds](https://www.test.de/Gendergerechtigkeit-in-der-Geldanlage-Frauen-im-Fokus-von-Fonds-6103505-0/ "Gendergerechtigkeit in der Geldanlage - Frauen im Fokus von Fonds")
 
 Neueste Tests
 
@@ -3156,12 +3156,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Bank­karten zum Giro­konto: Debitkarte – was die neuen Karten können und was nicht](https://www.test.de/Debitkarte-zum-Girokonto-6008302-0/ "Bankkarten zum Girokonto - Debitkarte – was die neuen Karten können und was nicht")
-* [Leser­aufruf zu Dark Patterns: Melden Sie uns Manipulation im Netz](https://www.test.de/Leseraufruf-zu-Dark-Patterns-Melden-Sie-uns-Manipulation-im-Netz-6047043-0/ "Leseraufruf zu Dark Patterns - Melden Sie uns Manipulation im Netz")
-* [Bauspar­rechner: Online-Angebote für Bausparer oft unge­eignet](https://www.test.de/Bausparrechner-Online-Angebote-fuer-Bausparer-oft-ungeeignet-6009987-0/ "Bausparrechner - Online-Angebote für Bausparer oft ungeeignet")
-* [Instabile Intel CPUs: Was Betroffene tun können](https://www.test.de/Instabile-Intel-CPUs-Was-Betroffene-tun-koennen-6147165-0/ "Instabile Intel CPUs - Was Betroffene tun können")
-* [Überge­wicht bei Kindern: Kampf den Corona-Pfunden](https://www.test.de/Uebergewicht-bei-Kindern-Kampf-den-Corona-Pfunden-5979072-0/ "Übergewicht bei Kindern - Kampf den Corona-Pfunden")
-* [Essen und Getränke zum Mitnehmen: Weg frei für mehr Mehrweg](https://www.test.de/Essen-und-Getraenke-zum-Mitnehmen-Weg-frei-fuer-mehr-Mehrweg-5944591-0/ "Essen und Getränke zum Mitnehmen - Weg frei für mehr Mehrweg")
+* [Mutmacherin: Ein Sieg für alle Frauen](https://www.test.de/Mutmacherin-Ein-Sieg-fuer-alle-Frauen-6041286-0/ "Mutmacherin - Ein Sieg für alle Frauen")
+* [Verpackungs­ärger: Caffè Crema von Tchibo](https://www.test.de/verpackungsaerger-caffe-crema-von-tchibo-6066168-0/ "Verpackungsärger - Caffè Crema von Tchibo")
+* [Dyna­mische Strom­tarife im Vergleich: Strom verbrauchen, wenn er günstig ist](https://www.test.de/Dynamische-Stromtarife-6071801-0/ "Dynamische Stromtarife im Vergleich - Strom verbrauchen, wenn er günstig ist")
+* [Anlegen in Rohstoffen: Warum sich Industrie­metalle nicht als Geld­anlage eignen](https://www.test.de/Anlegen-in-Rohstoffen-Warum-sich-Industriemetalle-nicht-als-Geldanlage-eignen-6160704-0/ "Anlegen in Rohstoffen - Warum sich Industriemetalle nicht als Geldanlage eignen")
+* [Riskante digitale Geld­anlagen: Die Masche von Profitwallet](https://www.test.de/Riskante-digitale-Geldanlagen-Die-Masche-von-Profitwallet-6118441-0/ "Riskante digitale Geldanlagen - Die Masche von Profitwallet")
+* [Gendergerechtig­keit in der Geld­anlage: Frauen im Fokus von Fonds](https://www.test.de/Gendergerechtigkeit-in-der-Geldanlage-Frauen-im-Fokus-von-Fonds-6103505-0/ "Gendergerechtigkeit in der Geldanlage - Frauen im Fokus von Fonds")
 
 Stiftung Warentest
 
