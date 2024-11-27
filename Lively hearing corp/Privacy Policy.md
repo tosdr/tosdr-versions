@@ -12,13 +12,15 @@ Take $300 off the Enhance Select 500! [Shop now](https://www.listenlively.com/pr
 
 100-day risk-free trial and US-based customer support!
 
-[This deal won’t last forever!This deal won’t last forever!This deal won’t last forever! **Sale ends in 4d : 8h : 19m**](https://www.listenlively.com/product)
+[This deal won’t last forever!This deal won’t last forever!This deal won’t last forever! **Sale ends in 4d : 2h : 26m**](https://www.listenlively.com/product)
 
 [Jabra EnhanceTM](https://www.listenlively.com/)
 
 [Hearing aids](https://www.listenlively.com/product)[Remote care](https://www.listenlively.com/hearing-care)[Hearing resources](https://www.listenlively.com/hearing-aid-guide)
 
-[(800) 854-2772We're open! Call now](tel:8008542772)[](tel:8008542772 "Call us")
+Schedule call[(800) 854-2772](tel:8008542772)
+
+[](tel:8008542772 "Call us")
 
 [](https://www.listenlively.com/survey)
 
@@ -59,7 +61,7 @@ With our advanced hearing aids and recommended expert care, you'll be hearing be
 
 [Start your 100-day trial](https://www.listenlively.com/survey)[Shop for hearing aids ›](https://www.listenlively.com/product)
 
-![](/cdn-cgi/image/width=1920,quality=80,format=auto/_next/static/media/default-desktop.dae76a02.jpg)[##### Save $300!
+![](/cdn-cgi/image/width=1920,quality=80,format=auto/_next/static/media/default-desktop-test1.292815d0.jpg)[##### Save $300!
 
 **Shop now**](https://www.listenlively.com/product)[##### Save $300!
 
