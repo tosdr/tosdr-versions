@@ -153,14 +153,14 @@ Latest reactions
 
 Latest forum posts
 
+* [How do I run the Quran on FMSX3DS?](https://www.msx.org/forum/msx-talk/emulation/how-do-i-run-the-quran-on-fmsx3ds?page=1 "How do I run the Quran on FMSX3DS?")
+* [Run Bubble Rain with Sofarun](https://www.msx.org/forum/msx-talk/software/run-bubble-rain-with-sofarun?page=1 "Run Bubble Rain with Sofarun")
 * [Christmas Quiz 2024](https://www.msx.org/forum/msx-talk/off-topic/christmas-quiz-2024 "Christmas Quiz 2024")
 * [DalSoRi R2 on OpenMSX](https://www.msx.org/forum/msx-talk/openmsx/dalsori-r2-on-openmsx?page=1 "DalSoRi R2 on OpenMSX")
 * [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=78 "WonderTANG! Who wants to juice up your MSX?")
-* [How do I run the Quran on FMSX3DS?](https://www.msx.org/forum/msx-talk/emulation/how-do-i-run-the-quran-on-fmsx3ds "How do I run the Quran on FMSX3DS?")
 * [Dirt-cheap Vaus paddle clone for MSX](https://www.msx.org/forum/msx-talk/hardware/dirt-cheap-vaus-paddle-clone-for-msx?page=4 "Dirt-cheap Vaus paddle clone for MSX")
 * [Compass](https://www.msx.org/forum/msx-talk/development/compass?page=1 "Compass")
 * [Full English translation of Illusion City for MSX Turbo-R](https://www.msx.org/forum/msx-talk/software/full-english-translation-of-illusion-city-for-msx-turbo-r?page=16 "Full English translation of Illusion City for MSX Turbo-R")
-* [Run Bubble Rain with Sofarun](https://www.msx.org/forum/msx-talk/software/run-bubble-rain-with-sofarun?page=1 "Run Bubble Rain with Sofarun")
 * [Help identifying a game](https://www.msx.org/forum/msx-talk/software/help-identifying-a-game "Help identifying a game")
 * [TRH9000 V9990 & Spiderwave OPL4 don't work in Slotx4?](https://www.msx.org/forum/msx-talk/hardware/trh9000-v9990-spiderwave-opl4-dont-work-in-slotx4?page=1 "TRH9000 V9990 & Spiderwave OPL4 don't work in Slotx4?")
 * [MSX on R36S (using Openmsx and some tweaking)](https://www.msx.org/forum/msx-talk/emulation/msx-on-r36s-using-openmsx-and-some-tweaking "MSX on R36S (using Openmsx and some tweaking)")
