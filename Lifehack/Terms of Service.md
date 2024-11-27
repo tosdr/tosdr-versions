@@ -385,6 +385,7 @@ If you would like to notify us of the infringing material or activity, we encour
 * [Goal Rescue Tool](https://www.lifehack.org/tools/assessments/goal-rescue)
 * [Morning Routine Planner](https://www.lifehack.org/tools/assessments/morning-routine)
 * [Keystone Habit Builder](https://www.lifehack.org/tools/assessments/keystone-habit)
+* [AI Daily Affirmation](https://dub.sh/lh-affirmation)
 
 * MEMBERSHIP
 * [Plans & Pricing](https://p.lifehack.org/pricing)
