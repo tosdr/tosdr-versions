@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_9.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_1.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,9 +148,9 @@
 
 Сейчас читают
 
+* [Мясная запеканка с грибами и овощным пюре](https://www.russianfood.com/recipes/recipe.php?rid=174856)
 * [Гречневая запеканка с курицей и шампиньонами](https://www.russianfood.com/recipes/recipe.php?rid=164974)
 * [Гречка с грибами в микроволновке](https://www.russianfood.com/recipes/recipe.php?rid=164571)
-* [Кокосовое безе с шоколадной глазурью](https://www.russianfood.com/recipes/recipe.php?rid=173191)
 * [Быстрый торт в микроволновке](https://www.russianfood.com/recipes/recipe.php?rid=173205)
 * [Борщ с квашеной капустой и зелёным горошком](https://www.russianfood.com/recipes/recipe.php?rid=172919)
 * [Пирог "Ель" из слоёного теста, с какао и корицей](https://www.russianfood.com/recipes/recipe.php?rid=158880)
@@ -182,6 +182,34 @@
 
 |     |     |
 | --- | --- |
+| Для прессы<br><br>[Простые рецепты всегда кстати! Лучшие рецепты ЭКОНОМНЕЕ! №24-48](https://www.russianfood.com/reading/?post_id=22929) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/711/sm_710671.jpg)](https://www.russianfood.com/reading/?post_id=22929)
+
+Курица со стручковой фасолью в соусе. Рисовые котлеты с сыром. Тыквенный суп с фасолью и сельдереем. Печень с яблоками в микроволновке. Шоколадно-ореховая паста.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22929)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты ЭКОНОМНЕЕ!](https://www.russianfood.com/blogs/?id=338625) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22929#comments) | 27.11.24 |     |
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Удачные сочетания вкусов и текстур. Лучшие УЖИНЫ №24-48](https://www.russianfood.com/reading/?post_id=22928) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/739/sm_738448.jpg)](https://www.russianfood.com/reading/?post_id=22928)
+
+Отбивные с грибами и сыром. Гречка с курицей и тыквой в духовке. Жареные куриные ножки в маринаде. Фунчоза с овощами и яйцом. Рисовая запеканка с тунцом. Тефтели с грибами и булгуром. Капуста с рисом и тушёнкой.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22928)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие ужины](https://www.russianfood.com/blogs/?id=325304) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22928#comments) | 27.11.24 |     |
+
+|     |     |
+| --- | --- |
 | Для прессы<br><br>[Праздник вкусов и ароматов. Лучшие рецепты на Новый год (92)](https://www.russianfood.com/reading/?post_id=22927) |     |
 
 [![](//img1.russianfood.com/dycontent/images_upl/742/sm_741833.jpg)](https://www.russianfood.com/reading/?post_id=22927)
@@ -206,7 +234,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174921#comments) | 27.11.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174921#comments) | 27.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -362,34 +390,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Лучшие рецепты БЫСТРЕЕ!](https://www.russianfood.com/blogs/?id=338614) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22920#comments) | 25.11.24 |     |
 
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Фантазии на картофельную тему. КАРТОШКА по-необычному (38)](https://www.russianfood.com/reading/?post_id=22919) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/548/sm_547111.jpg)](https://www.russianfood.com/reading/?post_id=22919)
-
-Картофель в мундире, запечённый в фольге. Жареное мясо с картофелем по-грузински. Картошка со свининой и капустой. Картошка с тушёнкой в томатном соусе.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22919)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Обычное по-необычному](https://www.russianfood.com/blogs/?id=325689) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22919#comments) | 24.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Новые сладкие истории. Лучшие СЛАДОСТИ №24-47](https://www.russianfood.com/reading/?post_id=22918) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/746/sm_745268.jpg)](https://www.russianfood.com/reading/?post_id=22918)
-
-Пирог из лаваша с творогом и цукатами. Быстрый торт в микроволновке. Постные корзинки с киви. Шоколадно-творожный десерт с вафлями и бананом. Кокосово-йогуртовый кекс в кружке. Пряные морковные капкейки с мандариновой начинкой и сливочным кремом. Тарталетки с яблоками.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22918)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие сладости](https://www.russianfood.com/blogs/?id=327533) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22918#comments) | 24.11.24 |     |
-
 |     |
 | --- |
 | ← Предыдущая \| [Следующая →](https://www.russianfood.com/?page=2) |
@@ -461,8 +461,8 @@
 
 |     |     |     |
 | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/748/alt1_747417.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174315) | [![](//img1.russianfood.com/dycontent/images_upl/736/alt1_735960.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173408) | [![](//img1.russianfood.com/dycontent/images_upl/755/alt1_754751.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174921) |
-| [Котлеты с рисом, сыром и крабовыми палочками](https://www.russianfood.com/recipes/recipe.php?rid=174315) | [Салат из капусты с зелёным горошком и яйцами](https://www.russianfood.com/recipes/recipe.php?rid=173408) | [Рулет из лаваша с морковью по-корейски, сыром и зеленью](https://www.russianfood.com/recipes/recipe.php?rid=174921) |
+| [![](//img1.russianfood.com/dycontent/images_upl/755/alt1_754751.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174921) | [![](//img1.russianfood.com/dycontent/images_upl/748/alt1_747417.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174315) | [![](//img1.russianfood.com/dycontent/images_upl/736/alt1_735960.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173408) |
+| [Рулет из лаваша с морковью по-корейски, сыром и зеленью](https://www.russianfood.com/recipes/recipe.php?rid=174921) | [Котлеты с рисом, сыром и крабовыми палочками](https://www.russianfood.com/recipes/recipe.php?rid=174315) | [Салат из капусты с зелёным горошком и яйцами](https://www.russianfood.com/recipes/recipe.php?rid=173408) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -479,4 +479,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(98)
+(145)
