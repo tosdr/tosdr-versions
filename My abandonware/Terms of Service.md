@@ -107,11 +107,11 @@ Top downloads
 
 Latest releases
 
+* [Kimaru!](https://www.myabandonware.com/game/kimaru-tbo)
+* [Alhademic Sniper](https://www.myabandonware.com/game/alhademic-sniper-tbn)
+* [Sega Swirl](https://www.myabandonware.com/game/sega-swirl-tbk)
 * [O-DEN2000](https://www.myabandonware.com/game/o-den2000-tbh)
 * [Rakuen no Guardian](https://www.myabandonware.com/game/rakuen-no-guardian-tbg)
-* [Alien 8](https://www.myabandonware.com/game/alien-8-6m5)
-* [Giant Killers 2](https://www.myabandonware.com/game/giant-killers-2-tbc)
-* [Giant Killers Euro Manager 2000](https://www.myabandonware.com/game/giant-killers-euro-manager-2000-tbb)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
