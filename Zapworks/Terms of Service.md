@@ -32,9 +32,12 @@
         
         Create immersive web based XR experiences for smartphone devices and VR headsets.](https://zap.works/webxr/)
     
-    * [AR Web Embed (NEW)
+    * [AR Web Embed
         
         Visualise and interact with content on your website with our intuitive AR Web Embed.](https://zap.works/ar-web-embed/)
+    * [Location-based AR (VPS) (NEW)
+        
+        Use the Immersal Visual Position System (VPS) in Mattercraft to build location-based web experiences.](https://zap.works/mattercraft-immersal/)
     
     Learn
     
@@ -106,6 +109,7 @@ Products
     * [WebAR](https://zap.works/webar/)
     * [AR Web Embed (NEW)](https://zap.works/ar-web-embed/)
     * [WebXR](https://zap.works/webxr/)
+    * [Mattercraft x Immersal](https://zap.works/mattercraft-immersal/)
     
 * Back[Learn
     
@@ -624,6 +628,7 @@ If you wish to report any violation of these TOU please send an email to [legal@
     * [Native Apps](https://zap.works/native-apps)
     * [WebXR](https://zap.works/webxr/)
     * [AR Web Embed](https://zap.works/ar-web-embed/)
+    * [Immersal VPS](https://zap.works/mattercraft-immersal/)
     * Measure
     * [Zapworks Analytics](https://zap.works/zapalytics)
 * Solutions
@@ -678,6 +683,7 @@ If you wish to report any violation of these TOU please send an email to [legal@
 * [Native Apps](https://zap.works/native-apps)
 * [WebXR](https://zap.works/webxr/)
 * [AR Web Embed](https://zap.works/ar-web-embed/)
+* [Immersal VPS](https://zap.works/mattercraft-immersal/)
 * Measure
 * [Zapworks Analytics](https://zap.works/zapalytics)
 
