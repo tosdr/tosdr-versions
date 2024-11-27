@@ -75,6 +75,7 @@
         * [GLS Banking App](https://www.gls.de/konten-karten/banking/banking-app/)
         * [Banking für Firmenkunden](https://www.gls.de/konten-karten/banking/zahlungssysteme-banking/)
         * [SecureGo plus](https://www.gls.de/konten-karten/banking/securego-plus/)
+        * [SmartTAN](https://www.gls.de/konten-karten/banking/smarttan/)
         * [Sicherheitshinweise Onlinebanking](https://www.gls.de/konten-karten/banking/sicherheitshinweise-onlinebanking/)
         
         Barrierearmut
