@@ -24,13 +24,19 @@
 
 [](javascript:ShowNextAnnouncement(false,'next'))
 
-[](https://amzn.to/2SjhDei)
+[](https://drawabox.com/rec/bucci/digitalpainting)
 
-[](https://amzn.to/2R8xkYn)
+USE CODE BLACK20
 
-[](https://amzn.to/45JqVq9)
+FOR 20% OFF
 
-[](https://amzn.to/2BA10no)
+SALE ENDS November 29th
+
+[](https://amzn.to/4cDKBhz)
+
+[](https://amzn.to/4bl6tx5)
+
+[](https://amzn.to/3KZMtFM)
 
 ![Drawabox](https://d15v304a6xpq4b.cloudfront.net/assets/images/drawabox-logo.png "Drawabox")
 
