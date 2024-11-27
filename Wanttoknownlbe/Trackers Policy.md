@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/boeken/gefeliciteerd-met-je-burn-out/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/valse-vlag-operaties/niemand-overleed-bij-de-sandy-hook-aanslag/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
