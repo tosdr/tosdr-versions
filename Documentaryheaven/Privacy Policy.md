@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![No-Go Zones: Seven Mile Road, Detroit, USA](/wp-content/thumbnails/16527-100x70.jpg?x53432)
+* [![Disenfranchised in America](/wp-content/thumbnails/6599-100x70.jpg?x53432)
     
-    No-Go Zones: Seven Mile Road, Detroit, USA
+    Disenfranchised in America
     
-    Seven Mile Road located in Detroit is one of the most dangerous no-go zones in the United States. Those who live or dare to come here to visit are literally playing with their lives. It is a territor](https://documentaryheaven.com/no-go-zones-seven-mile-road/ "No-Go Zones: Seven Mile Road, Detroit, USA")
-* [![Modern Meat](/wp-content/thumbnails/1428-100x70.jpg?x53432)
+    New legislation across the US could have a huge impact on the country’s 2012 presidential elections. Largely Republican politicians have passed a range of new voting laws that groups fear could disen](https://documentaryheaven.com/disenfranchised-in-america/ "Disenfranchised in America")
+* [![Future Weapons: Front Line S2/E5](/wp-content/thumbnails/1900-100x70.jpg?x53432)
     
-    Modern Meat
+    Future Weapons: Front Line S2/E5
     
-    What could be simpler than a hamburger? Take a ground beef patty, throw it on a grill, wait a few minutes as the fat sizzles, maybe add some cheese, and stick it on a bun. It's a thoroughly American o](https://documentaryheaven.com/modern-meat/ "Modern Meat")
-* [![James Gandolfini: Tribute to a Friend](/wp-content/thumbnails/12855-100x70.jpg?x53432)
+    Watch Mack as he handles a XM307 machine grenade launcher that unleashes a terrifying barrage of firepower. Plus, test weapons that are tough enough to survive the front line of battle including the S](https://documentaryheaven.com/future-weapons-front-line-s2e5/ "Future Weapons: Front Line S2/E5")
+* [![The Nuremberg Trials](/wp-content/thumbnails/12542-100x70.jpeg?x53432)
     
-    James Gandolfini: Tribute to a Friend
+    The Nuremberg Trials
     
-    The passing of James Gandolfini in 2013 took many by surprise, not only because he was just 51 years old but also because of the fact he was a larger than life character who came across as indestructi](https://documentaryheaven.com/james-gandolfini-tribute-to-friend/ "James Gandolfini: Tribute to a Friend")
-* [![A Classroom Divided](/wp-content/thumbnails/2623-100x70.jpg?x53432)
+    The Nuremberg Trials were a set of military tribunals which were held by the Allied forces once World War II had come to an end. The initial and more notable trail was held between 20 November 1945 an](https://documentaryheaven.com/nuremberg-trials/ "The Nuremberg Trials")
+* [![Banned from the Bible](/wp-content/thumbnails/3116-100x70.jpg?x53432)
     
-    A Classroom Divided
+    Banned from the Bible
     
-    Suggested By: AnandaOne day in 1968, Jane Elliott, a teacher in a small, all-white Iowa town, divided her third-grade class into blue-eyed and brown-eyed groups and gave them a daring lesson in di](https://documentaryheaven.com/a-classroom-divided/ "A Classroom Divided")
-* [![The Story of Stuff](/wp-content/thumbnails/1661-100x70.png?x53432)
+    When Jesus was a boy, did he kill another child? Was Mary Magdalene a prostitute — or an apostle?Did Cain commit incest? Will there be an apocalypse or is this God’s trick to scare us?The answers](https://documentaryheaven.com/banned-from-the-bible/ "Banned from the Bible")
+* [![Shame](/wp-content/thumbnails/7076-100x70.jpg?x53432)
     
-    The Story of Stuff
+    Shame
     
-    "But the truth is, it's a system in crisis, and the reason it's a system in crisis is it's a linear system and we live on a finite planet, and you cannot run a linear system on a finite planet indefin](https://documentaryheaven.com/the-story-of-stuff/ "The Story of Stuff")
+    This stun­ning Special Emmy winning doc­u­men­tary tells the true sto­ry of in­ter­na­tion­al hu­man rights icon Mukhtaran Mai, a Pak­istani peas­ant who was gang-raped and pub­licly shamed in her vil](https://documentaryheaven.com/shame/ "Shame")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
