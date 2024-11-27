@@ -7,8 +7,14 @@
 * [About](https://tagmyfav.com/about/)
 * [M365 Apps](https://tagmyfav.com/microsoft-365-apps/)
 * [Use Cases](https://tagmyfav.com/use-cases/)
-    * [TMF for Legal](https://tagmyfav.com/tagmyfav-for-legal/)
-    * [TMF for Education](#)
+    * [Legal professionals](https://tagmyfav.com/streamlining-research-and-reference-management-for-legal-professionals/)
+    * [Consulting Firms](https://tagmyfav.com/enhancing-knowledge-sharing-in-consulting-firms/)
+    * [Sales and Marketing](https://tagmyfav.com/organizing-case-studies-and-marketing-collateral-in-sales-teams-2/)
+    * [IT and Support Teams](https://tagmyfav.com/centralizing-documentation-for-it-and-support-teams/)
+    * [Educational Institutions](https://tagmyfav.com/boosting-academic-and-research-efficiency-for-educational-institutions/)
+    * [HR and Recruitment](https://tagmyfav.com/improving-efficiency-in-recruitment-and-candidate-sourcing-for-hr-teams/)
+    * [Continuous Learning and Development](https://tagmyfav.com/supporting-continuous-learning-and-development-for-professionals/)
+    * [Executives and Decision-Makers](https://tagmyfav.com/strategic-planning-for-executives-and-decision-makers/)
 * [Pricing](https://tagmyfav.com/pricing/)
 * [Contact](https://tagmyfav.com/contact/)
 * [Get Started](#)
@@ -18,8 +24,14 @@ Menu
 * [About](https://tagmyfav.com/about/)
 * [M365 Apps](https://tagmyfav.com/microsoft-365-apps/)
 * [Use Cases](https://tagmyfav.com/use-cases/)
-    * [TMF for Legal](https://tagmyfav.com/tagmyfav-for-legal/)
-    * [TMF for Education](#)
+    * [Legal professionals](https://tagmyfav.com/streamlining-research-and-reference-management-for-legal-professionals/)
+    * [Consulting Firms](https://tagmyfav.com/enhancing-knowledge-sharing-in-consulting-firms/)
+    * [Sales and Marketing](https://tagmyfav.com/organizing-case-studies-and-marketing-collateral-in-sales-teams-2/)
+    * [IT and Support Teams](https://tagmyfav.com/centralizing-documentation-for-it-and-support-teams/)
+    * [Educational Institutions](https://tagmyfav.com/boosting-academic-and-research-efficiency-for-educational-institutions/)
+    * [HR and Recruitment](https://tagmyfav.com/improving-efficiency-in-recruitment-and-candidate-sourcing-for-hr-teams/)
+    * [Continuous Learning and Development](https://tagmyfav.com/supporting-continuous-learning-and-development-for-professionals/)
+    * [Executives and Decision-Makers](https://tagmyfav.com/strategic-planning-for-executives-and-decision-makers/)
 * [Pricing](https://tagmyfav.com/pricing/)
 * [Contact](https://tagmyfav.com/contact/)
 * [Get Started](#)
@@ -138,11 +150,16 @@ Submit
 Use Cases
 ---------
 
-* Education
-* [Legal](https://www.tagmyfav.com/tagmyfav-for-legal/)
-* Communication
+* [Legal professionals](https://tagmyfav.com/streamlining-research-and-reference-management-for-legal-professionals/)
+* [Consulting Firms](https://tagmyfav.com/enhancing-knowledge-sharing-in-consulting-firms/)
+* [Sales & Marketing](https://tagmyfav.com/organizing-case-studies-and-marketing-collateral-in-sales-teams-2/)
+* Project Managers
+* [Continuous Learning](https://tagmyfav.com/supporting-continuous-learning-and-development-for-professionals/)
+* [HR & Recruitment](https://tagmyfav.com/improving-efficiency-in-recruitment-and-candidate-sourcing-for-hr-teams/)
+* [Educational Institutions](https://tagmyfav.com/boosting-academic-and-research-efficiency-for-educational-institutions/)
+* [IT and Support Teams](https://tagmyfav.com/centralizing-documentation-for-it-and-support-teams/)
 * Corporate
-* Government
+* [Executive and Decision-Makers](https://tagmyfav.com/strategic-planning-for-executives-and-decision-makers/)
 
 Legal Documentation
 -------------------
