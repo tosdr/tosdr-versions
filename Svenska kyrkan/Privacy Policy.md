@@ -1162,6 +1162,10 @@ Sök Meny
                 
             * [Talousapua ja –neuvontaa](https://www.svenskakyrkan.se/talousapua-ja-neuvontaa)
                 
+        * [Kauneimmat joululaulut](https://www.svenskakyrkan.se/kauneimmatjoululaulut)
+            
+            * [Joululaulujen videogalleria](https://www.svenskakyrkan.se/joululaulujen-videogalleria)
+                
         * [Himmeli-lehti](https://www.svenskakyrkan.se/himmeli-lehti)
             
         * [Kirkkovuosi](https://www.svenskakyrkan.se/kirkkovuosi)
@@ -1200,8 +1204,6 @@ Sök Meny
                     
                 * [Kenelle sinä sytytät kynttilän?](https://www.svenskakyrkan.se/kenelle-sina-sytytat-kynttilan)
                     
-            * [Kauneimmat joululaulut](https://www.svenskakyrkan.se/kauneimmatjoululaulut)
-                
             * [Tuomiosunnuntai](https://www.svenskakyrkan.se/tuomiosunnuntai)
                 
         * [Kristillinen usko](https://www.svenskakyrkan.se/kristillinen-usko)
