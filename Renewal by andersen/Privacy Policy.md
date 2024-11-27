@@ -255,11 +255,11 @@ Find Help
 
 [![Energy star partner of the year](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![Energy star partner of the year](/_next/image/?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fandersencorporation-c47i754m%2Fmedia%2FProject%2FAndersenCorporation%2FAndersenWindows%2FAndersenWindows%2Fimages%2Flogos%2Fenergystar-poy-sustained-excellence-120x62.jpg%3Fh%3D62%26iar%3D0%26w%3D120%26rev%3D3e0aed953fec4a04844dae9804668de3&w=3840&q=75)
+![Energy star partner of the year](https://www.prod.andersenwindows.com/_next/image?url=%2F-%2Fmedia%2FProject%2FAndersenCorporation%2FAndersenWindows%2FAndersenWindows%2Fimages%2Flogos%2Fenergystar-poy-sustained-excellence-120x62.jpg%3Fh%3D62%26iar%3D0%26w%3D120%26rev%3D3e0aed953fec4a04844dae9804668de3&w=3840&q=75)
 
 ![Energy star partner of the year](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![Energy star partner of the year](/_next/image/?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fandersencorporation-c47i754m%2Fmedia%2FProject%2FAndersenCorporation%2FAndersenWindows%2FAndersenWindows%2Fimages%2Flogos%2Fenergystar-poy-sustained-excellence-120x62.jpg%3Fh%3D62%26iar%3D0%26w%3D120%26rev%3D3e0aed953fec4a04844dae9804668de3&w=3840&q=75)](https://www.andersenwindows.com/ideas-and-inspiration/why-andersen/energy-efficiency/energy-star/)
+![Energy star partner of the year](https://www.prod.andersenwindows.com/_next/image?url=%2F-%2Fmedia%2FProject%2FAndersenCorporation%2FAndersenWindows%2FAndersenWindows%2Fimages%2Flogos%2Fenergystar-poy-sustained-excellence-120x62.jpg%3Fh%3D62%26iar%3D0%26w%3D120%26rev%3D3e0aed953fec4a04844dae9804668de3&w=3840&q=75)](https://www.andersenwindows.com/ideas-and-inspiration/why-andersen/energy-efficiency/energy-star/)
 
 ### Andersen collects certain categories of personal information. See links for more information.
 
