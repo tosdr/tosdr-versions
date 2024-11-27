@@ -229,11 +229,6 @@ About
 
 Copyright 2024 © [KLC Consulting](https://klcconsulting.net/ "KLC Consulting") All Rights Reserved | [Privacy Policy](https://klcconsulting.net/privacy-security-statement/) | [Site Map](https://klcconsulting.net/site-map/) | [Contact Us](https://klcconsulting.net/contact/) | [Website Design by MP Design](https://mpdesignonline.com/)
 
-![CMMC Level 2 Final Rule Q&A](https://klcconsulting.net/wp-content/uploads/2024/11/KLCC_Webinar_AskExperts.webp)
-
-[Join our webinar on CMMC Level 2 Final Rule Q&A](https://klcconsulting.net/cmmc-level-2-final-rule-q-and-a/)
--------------------------------------------------------------------------------------------------------------
-
 Manage Cookie Consent
 
 To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions.
