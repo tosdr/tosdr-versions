@@ -64,6 +64,7 @@ Menu icon Menu
     
     #### Shop by hair needs](https://www.soapboxsoaps.com/pages/shop-by-hair-needs)
     
+* [Build a Bundle](https://www.soapboxsoaps.com/a/loop_subscriptions/bundle/cbfc5541caf74757a8db61caadb6f348)
 * [Our Mission](https://www.soapboxsoaps.com/pages/ourmission)
 * [Retail Partners](https://www.soapboxsoaps.com/pages/store-locator)
 * [Hope Code](https://www.soapboxsoaps.com/pages/hope)
@@ -136,6 +137,7 @@ Search icon Search
     
     #### Shop by hair needs](https://www.soapboxsoaps.com/pages/shop-by-hair-needs)
     
+* [Build a Bundle](https://www.soapboxsoaps.com/a/loop_subscriptions/bundle/cbfc5541caf74757a8db61caadb6f348)
 * [Our Mission](https://www.soapboxsoaps.com/pages/ourmission)
 * [Retail Partners](https://www.soapboxsoaps.com/pages/store-locator)
 * [Hope Code](https://www.soapboxsoaps.com/pages/hope)
