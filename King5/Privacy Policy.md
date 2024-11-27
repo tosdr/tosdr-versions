@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/2c130e42-8085-4166-8db4-1133ffdeefc0/20241127T014628/2c130e42-8085-4166-8db4-1133ffdeefc0_16x9.jpg) ![](https://media.king5.com/assets/KING/images/2c130e42-8085-4166-8db4-1133ffdeefc0/20241127T014628/2c130e42-8085-4166-8db4-1133ffdeefc0_360x203.jpg)](https://www.king5.com/article/news/local/data-breaches-surge-record-levels-washington-attorney-general-policy-changes/281-aec77ae8-5443-42d3-b241-335af93c4180)
+    *  [![](https://media.king5.com/assets/KING/images/8d1e5e46-8750-46c1-b2a0-80d50ee23c2c/20241127T072052/8d1e5e46-8750-46c1-b2a0-80d50ee23c2c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/8d1e5e46-8750-46c1-b2a0-80d50ee23c2c/20241127T072052/8d1e5e46-8750-46c1-b2a0-80d50ee23c2c_360x203.jpg)](https://www.king5.com/article/news/local/911-response-drones-redmond-police-first-in-wa-faa-approval-flying-without-visual-observer/281-f1c505f9-8ccf-45ca-9d47-74bdb203aeca)
         
-        #### [Data breaches surge to record levels in Washington state, Attorney General calls for policy changes](https://www.king5.com/article/news/local/data-breaches-surge-record-levels-washington-attorney-general-policy-changes/281-aec77ae8-5443-42d3-b241-335af93c4180)
+        #### [Redmond police celebrating 'monumental' decision by FAA that approves drone use on more 911 calls](https://www.king5.com/article/news/local/911-response-drones-redmond-police-first-in-wa-faa-approval-flying-without-visual-observer/281-f1c505f9-8ccf-45ca-9d47-74bdb203aeca)
         
-    *  [![](https://media.king5.com/assets/KING/images/1bbd0790-4129-4f35-87e7-582f5b5b1e24/20241127T013854/1bbd0790-4129-4f35-87e7-582f5b5b1e24_16x9.jpg) ![](https://media.king5.com/assets/KING/images/1bbd0790-4129-4f35-87e7-582f5b5b1e24/20241127T013854/1bbd0790-4129-4f35-87e7-582f5b5b1e24_360x203.jpg)](https://www.king5.com/article/news/local/disaster/fallen-tree-splits-kingston-family-home-half/281-86bf6721-5528-4734-bc59-87a458e07bd9)
+    *  [![](https://media.king5.com/assets/KING/images/9fe4a7af-1223-42e5-8cad-bae0f2cf0c6f/20240904T124839/9fe4a7af-1223-42e5-8cad-bae0f2cf0c6f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/9fe4a7af-1223-42e5-8cad-bae0f2cf0c6f/20240904T124839/9fe4a7af-1223-42e5-8cad-bae0f2cf0c6f_360x203.jpg)](https://www.king5.com/article/news/education/seattle-schools-superintendent-withdrawing-school-closure-recommendation/281-9a998bc6-78e4-47d3-ba10-f8f450cf0903)
         
-        #### ['We are holding each other tighter': Fallen tree splits Kingston family home in half](https://www.king5.com/article/news/local/disaster/fallen-tree-splits-kingston-family-home-half/281-86bf6721-5528-4734-bc59-87a458e07bd9)
+        #### [Seattle schools superintendent withdrawing school closure recommendation](https://www.king5.com/article/news/education/seattle-schools-superintendent-withdrawing-school-closure-recommendation/281-9a998bc6-78e4-47d3-ba10-f8f450cf0903)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -94,7 +94,7 @@ Navigation
 
 Seattle, WA »
 
-45°
+44°
 
 ![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
