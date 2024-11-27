@@ -1,10 +1,10 @@
 [Skip to main content](#main-content)
 
-Save 40% Sitewide! DETAILS
+Save 50% Sitewide! DETAILS
 
 \+ Free Gift With Purchase! DETAILS
 
-SAVE 40% SITEWIDE
+SAVE 50% SITEWIDE
 
 Close the Modal
 
