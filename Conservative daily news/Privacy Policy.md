@@ -2,14 +2,14 @@ Tuesday, November 26 2024
 
 Breaking News
 
+* [GOP Rep Looks To Thwart Potential Trump Resistance In Department Of Labor](https://www.conservativedailynews.com/2024/11/gop-rep-looks-to-thwart-potential-trump-resistance-in-department-of-labor/)
+* [Watch Out — Xi Is Going To Confront Trump](https://www.conservativedailynews.com/2024/11/watch-out-xi-is-going-to-confront-trump/)
+* [A Cautionary Note for Republicans Celebrating Trump’s Historic Victory](https://www.conservativedailynews.com/2024/11/a-cautionary-note-for-republicans-celebrating-trumps-historic-victory/)
+* [40 Appointments in 18 Days, Do You Think Trump Means Business?](https://www.conservativedailynews.com/2024/11/40-appointments-in-18-days-do-you-think-trump-means-business/)
+* [Trump Endorses Florida CFO To Replace Gaetz](https://www.conservativedailynews.com/2024/11/trump-endorses-florida-cfo-to-replace-gaetz/)
 * [President Joe Biden’s Schedule for Tuesday, November 26, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-tuesday-november-26-2024/)
 * [Medal of Honor Monday: Army Pfc. Noah Knight](https://www.conservativedailynews.com/2024/11/medal-of-honor-monday-army-pfc-noah-knight/)
 * [Poll Shows Majority Approve of Trump’s Transition](https://www.conservativedailynews.com/2024/11/poll-shows-majority-approve-of-trumps-transition/)
-* [The People Complaining About Pete Hegseth May Be Giving Us WW III](https://www.conservativedailynews.com/2024/11/the-people-complaining-about-pete-hegseth-may-be-giving-us-ww-iii/)
-* [Today’s Woke Democrats Are Simply Trouble Makers](https://www.conservativedailynews.com/2024/11/todays-woke-democrats-are-simply-trouble-makers/)
-* [Trump Is Doing Something Unexpected — Making The GOP Cool](https://www.conservativedailynews.com/2024/11/trump-is-doing-something-unexpected-making-the-gop-cool/)
-* [President Joe Biden’s Schedule for Monday, November 25, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-monday-november-25-2024/)
-* [The West Is Playing With Fire In Ukraine](https://www.conservativedailynews.com/2024/11/the-west-is-playing-with-fire-in-ukraine/)
 
 * [RSS](https://www.conservativedailynews.com/news-feeds/)
 * [Facebook](https://www.facebook.com/ConservativeDailyNews/)
@@ -130,67 +130,67 @@ Orange = One-Time Donations
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/02/Capitol-hill.jpg)](https://www.conservativedailynews.com/2024/11/gop-rep-looks-to-thwart-potential-trump-resistance-in-department-of-labor/)
+    
+    [GOP Rep Looks To Thwart Potential Trump Resistance In Department Of Labor](https://www.conservativedailynews.com/2024/11/gop-rep-looks-to-thwart-potential-trump-resistance-in-department-of-labor/)
+    
+    November 26, 2024
+    
+* [![Joe Biden China better off](https://www.conservativedailynews.com/wp-content/uploads/2023/04/stg042423dAPR.jpg)](https://www.conservativedailynews.com/2024/11/watch-out-xi-is-going-to-confront-trump/)
+    
+    [Watch Out — Xi Is Going To Confront Trump](https://www.conservativedailynews.com/2024/11/watch-out-xi-is-going-to-confront-trump/)
+    
+    November 26, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/07/Curious-Shock-questioning-220x150.jpg)](https://www.conservativedailynews.com/2024/11/a-cautionary-note-for-republicans-celebrating-trumps-historic-victory/)
+    
+    [A Cautionary Note for Republicans Celebrating Trump’s Historic Victory](https://www.conservativedailynews.com/2024/11/a-cautionary-note-for-republicans-celebrating-trumps-historic-victory/)
+    
+    November 26, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/10/Twitter-bird-finger-220x150.png)](https://www.conservativedailynews.com/2024/11/x-objects-to-bankruptcy-sale-of-alex-jones-infowars-assets/)
+    
+    [X Objects To Bankruptcy Sale Of Alex Jones, Infowars Assets](https://www.conservativedailynews.com/2024/11/x-objects-to-bankruptcy-sale-of-alex-jones-infowars-assets/)
+    
+    November 26, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/IMG_5827-220x150.jpeg)](https://www.conservativedailynews.com/2024/11/40-appointments-in-18-days-do-you-think-trump-means-business/)
+    
+    [40 Appointments in 18 Days, Do You Think Trump Means Business?](https://www.conservativedailynews.com/2024/11/40-appointments-in-18-days-do-you-think-trump-means-business/)
+    
+    November 26, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/Jimmy-Patronis-220x150.jpg)](https://www.conservativedailynews.com/2024/11/trump-endorses-florida-cfo-to-replace-gaetz/)
+    
+    [Trump Endorses Florida CFO To Replace Gaetz](https://www.conservativedailynews.com/2024/11/trump-endorses-florida-cfo-to-replace-gaetz/)
+    
+    November 26, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/12/01-swampish-dt-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/11/americas-chicken-little-elites/)
+    
+    [America’s ‘Chicken Little’ Elites](https://www.conservativedailynews.com/2024/11/americas-chicken-little-elites/)
+    
+    November 26, 2024
+    
 * [![Kamala Harris missing](https://www.conservativedailynews.com/wp-content/uploads/2024/11/stg112624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/wheres-kamala/)
     
     [Where’s Kamala?](https://www.conservativedailynews.com/2024/11/wheres-kamala/)
     
     November 26, 2024
     
-* [![smartphones at the table Thanksgiving](https://www.conservativedailynews.com/wp-content/uploads/2024/11/gv112524dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/thankful-2/)
-    
-    [Thankful?](https://www.conservativedailynews.com/2024/11/thankful-2/)
-    
-    November 26, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/01/yoga-pose-sky-1200x628-facebook-1200x628-1-220x150.webp)](https://www.conservativedailynews.com/2024/11/the-lowdown-on-chair-yoga-free-resources-real-benefits-no-gimmicks/)
-    
-    [The Lowdown on Chair Yoga: Free Resources, Real Benefits, No Gimmicks](https://www.conservativedailynews.com/2024/11/the-lowdown-on-chair-yoga-free-resources-real-benefits-no-gimmicks/)
-    
-    November 26, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/05-whirlwind-dt-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/11/winds-of-change/)
-    
-    [Winds Of Change](https://www.conservativedailynews.com/2024/11/winds-of-change/)
-    
-    November 26, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/02/Joe-Biden-Air-Force-One-220x150.png)](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-tuesday-november-26-2024/)
-    
-    [President Joe Biden’s Schedule for Tuesday, November 26, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-tuesday-november-26-2024/)
-    
-    November 26, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/05/cropped-MONEY.jpg)](https://www.conservativedailynews.com/2024/11/trumps-economy-must-create-new-capital/)
-    
-    [Trump’s Economy Must Create New Capital](https://www.conservativedailynews.com/2024/11/trumps-economy-must-create-new-capital/)
-    
-    November 25, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/241120-O-D0439-0048M-220x150.jpg)](https://www.conservativedailynews.com/2024/11/medal-of-honor-monday-army-pfc-noah-knight/)
-    
-    [Medal of Honor Monday: Army Pfc. Noah Knight](https://www.conservativedailynews.com/2024/11/medal-of-honor-monday-army-pfc-noah-knight/)
-    
-    November 25, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/05/Donald-Trump-and-Melania-Trump-walking-outside-the-White-House.png)](https://www.conservativedailynews.com/2024/11/poll-shows-majority-approve-of-trumps-transition/)
-    
-    [Poll Shows Majority Approve of Trump’s Transition](https://www.conservativedailynews.com/2024/11/poll-shows-majority-approve-of-trumps-transition/)
-    
-    November 25, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Silencers To Your Door: Griffin Armament and Capitol Armory](https://www.thegunpage.com/silencers-to-your-door-griffin-armament-and-capitol-armory/10612130)
+* [Tennessee Wildlife Resouces Agency Chooses Beretta A300 Ultima Patrol](https://www.thegunpage.com/tennessee-wildlife-resouces-agency-chooses-beretta-a300-ultima-patrol/10612128)
+* [One of the Country’s Possibly Worst Sheriffs and His Department has Hampered Gun Ownership](https://www.thegunpage.com/one-of-the-countrys-possibly-worst-sheriffs-and-his-department-has-hampered-gun-ownership/10612126)
+* [New FightLite Raptor Belt-Fed AR Upper: \*Real\* High-Capacity Firepower](https://www.thegunpage.com/new-fightlite-raptor-belt-fed-ar-upper-real-high-capacity-firepower/10612129)
+* [California Grandfather Uses Gun To Save Self, Grandkids](https://www.thegunpage.com/california-grandfather-uses-gun-to-save-self-grandkids/10612124)
+* [$11 Million Verdict In P320 Lawsuit, SIG Sauer Plans To Appeal](https://www.thegunpage.com/11-million-verdict-in-p320-lawsuit-sig-sauer-plans-to-appeal/10612119)
 * [Skynet Ordered To Pay Jury Verdict To Portland Nightclub Goer Shot In The Leg](https://www.thegunpage.com/skynet-ordered-to-pay-jury-verdict-to-portland-nightclub-goer-shot-in-the-leg/10612117)
+* [Shell Shock Technologies Launches Shell Tech Ammunition Line](https://www.thegunpage.com/shell-shock-technologies-launches-shell-tech-ammunition-line/10612120)
 * [Congressman Announces New Measure To Abolish ATF](https://www.thegunpage.com/congressman-announces-new-measure-to-abolish-atf/10612114)
-* [Carry Optics: Division Of Choice At 2024 Buckeye Blast USPSA Ohio Section Match](https://www.thegunpage.com/carry-optics-division-of-choice-at-2024-buckeye-blast-uspsa-ohio-section-match/10612113)
-* [TFB Review: Mantis Laser Academy](https://www.thegunpage.com/tfb-review-mantis-laser-academy/10612109)
-* [POTD: FN Minimi In The Trenches](https://www.thegunpage.com/potd-fn-minimi-in-the-trenches/10612110)
-* [The Rimfire Report: A Series Of Tubes – The Hamilton Model 11](https://www.thegunpage.com/the-rimfire-report-a-series-of-tubes-the-hamilton-model-11/10612111)
-* [Guns We Love: Sig Sauer P365 9mm Review](https://www.thegunpage.com/guns-we-love-sig-sauer-p365-9mm-review/10612107)
-* [GOA Releases Feature Documentary on the Fight to Arm Pilots Following 9/11](https://www.thegunpage.com/goa-releases-feature-documentary-on-the-fight-to-arm-pilots-following-9-11/10612106)
-* [Kimber 2K11 Offers Custom-Level Features And High-Capacity Magazines](https://www.thegunpage.com/kimber-2k11-offers-custom-level-features-and-high-capacity-magazines/10612104)
-* [Streamlight Introduces the HL6](https://www.thegunpage.com/streamlight-introduces-the-hl6/10612102)
+* [2024 Holiday Gift Guide: Optics & Gear](https://www.thegunpage.com/2024-holiday-gift-guide-optics-gear/10612125)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -232,6 +232,8 @@ Contact Us
 
 Recent Comments
 
+* Jeff L. on [A Cautionary Note for Republicans Celebrating Trump’s Historic Victory](https://www.conservativedailynews.com/2024/11/a-cautionary-note-for-republicans-celebrating-trumps-historic-victory/#comment-783412)
+* Jeff L. on [A Cautionary Note for Republicans Celebrating Trump’s Historic Victory](https://www.conservativedailynews.com/2024/11/a-cautionary-note-for-republicans-celebrating-trumps-historic-victory/#comment-783411)
 * alan kifer on [Transgender Activist Says Trying To Stop Men From Using Women’s Restrooms Will Be ‘Last Mistake You Ever Make’](https://www.conservativedailynews.com/2024/11/transgender-activist-says-trying-to-stop-men-from-using-womens-restrooms-will-be-last-mistake-you-ever-make/#comment-783396)
 * charles wilkins on [Parting Gift](https://www.conservativedailynews.com/2024/11/parting-gift/#comment-783386)
 * KayCee on [Transgender Activist Says Trying To Stop Men From Using Women’s Restrooms Will Be ‘Last Mistake You Ever Make’](https://www.conservativedailynews.com/2024/11/transgender-activist-says-trying-to-stop-men-from-using-womens-restrooms-will-be-last-mistake-you-ever-make/#comment-783370)
@@ -239,8 +241,6 @@ Recent Comments
 * Stanley Warner on [May The Spirit Of Laken Riley Shed Light On A Broken Judicial System](https://www.conservativedailynews.com/2024/11/may-the-spirit-of-laken-riley-shed-light-on-a-broken-judicial-system/#comment-783367)
 * charles wilkins on [Parting Gift](https://www.conservativedailynews.com/2024/11/parting-gift/#comment-783343)
 * Stanley Warner on [Our Elections Need To Be Fixed Before The 2026 Midterms](https://www.conservativedailynews.com/2024/11/our-elections-need-to-be-fixed-before-the-2026-midterms/#comment-783327)
-* [Bill](http://conservativedailynews.com/) on [Crap Fight](https://www.conservativedailynews.com/2024/11/crap-fight/#comment-783326)
-* [Bill](http://conservativedailynews.com/) on [Barrage Of Liberal Judges Will Be Schumer’s Swan Song](https://www.conservativedailynews.com/2024/11/barrage-of-liberal-judges-will-be-schumers-swan-song/#comment-783325)
 
 [Close](#)
 
