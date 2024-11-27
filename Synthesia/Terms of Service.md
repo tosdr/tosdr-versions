@@ -90,374 +90,360 @@ Company
 
 [Get started](https://www.synthesia.io/pricing)
 
-Terms of Service
-================
+[Back to top](#)
 
-_Published on July 20th, 2022_
+Customer Terms of Service
+=========================
 
-**1\. Introduction**
---------------------
+![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/66194aa48d2943b401e98862_Legal-Hero-BG.webp)
 
-Welcome to Synthesia’s Platform! As you have just arrived at our Terms of Service, please pause, grab a cup of coffee, and carefully read the following pages. It will take you approximately 20 minutes.
+[Synthesia Legal Hub](https://www.synthesia.io/legal)
 
-“**Synthesia**”, “**we**”, “**our**”, “**us**” is Synthesia Limited along with Synthesia’s subsidiaries and affiliates, their respective directors, officers, employees, licensees, contractors, attorneys, agents, successors, and assigns.
+Terms
 
-“**User**”, “**you**” or “**your**” is either: i) a registered business that visits our website or uses any product or service made available through the Platform including the business’ respective directors, officers, employees, licensees, contractors, attorneys, agents, successors and assigns (“**Business Customer**”); or ii) a private individual that visits our website or uses any products or service made available through the Platform (“**Consumer**”).
+Customer Terms of Service
 
-These Terms of Service (“**Terms**”) govern your use of our web pages located at synthesia.io (the “**Site**”), services and products accessible through the Site (“**Services**”) and the associated web-based software provided by Synthesia (“**Software**”). The Site, the Services, and the Software are jointly referred to as the “**Platform**”.  Our Privacy Policy, available at [https://www.synthesia.io/terms/privacy-policy](https://www.synthesia.io/terms/privacy-policy), explains how we collect, safeguard, and disclose information that results from your use of the Platform.
+Effective: February 23, 2024
 
-If you are using the Platform as a Business Customer, our processing of personal data you provide us during your use of the Platform is further regulated by our Data Processing Agreement (“**DPA**”) available here https://www.synthesia.io/terms/data-processing-agreement. The DPA represents an integral part of the Terms for Business Customers. If you are using the Platform as a private individual the DPA does not apply. 
+These Customer Terms of Service (the “**Customer Terms**”) describe your rights and responsibilities when using our video creation platform, including associated tools, functionality and artificial intelligence components, made available at [www.synthesia.io](http://www.synthesia.io/) (the “**Services**”). Please read them carefully. If you are a Customer (defined below), these Customer Terms govern your access and use of our Services. If you are an individual that a Customer is inviting to use the Services, the [User Terms of Service](https://www.synthesia.io/legal/user-terms-of-service) (the “**User Terms**”) govern your access and use of the Services.
 
-By accessing and using the Platform you acknowledge that you have read and understood the Terms, our Privacy Policy, and where applicable the DPA, and agree to be bound by them. If you do not agree with (or cannot comply with) the above, then you may not use (and must immediately stop using) the Platform, but please let us know by emailing at support@synthesia.io so we can try to find a solution. These Terms apply to all visitors, Users and others who wish to access or use the Platform.
+THE CONTRACT
+------------
 
-Thank you for being responsible.
+### **These “Customer Terms” Form a Part of a Binding “Contract”**
 
-#### **‍**
+These Customer Terms (or, if applicable, your written agreement with us) and any Order Form(s) (defined below) together form a binding “**Contract**” between Customer and us. If any terms in the [Customer-Specific Supplement](https://www.synthesia.io/legal/customer-specific-supplement) apply to Customer (e.g., if Customer is a U.S. government entity), those terms are also incorporated herein by reference and form part of the Contract. “We,” “our” and “us” refers to the applicable Synthesia entity in the section titled “Which Synthesia Entity is Customer Contracting With?” below.
 
-**2\. No Use By Minors**
-------------------------
+HIGHLIGHTED VIDEO
 
-The Platform is intended only for access and use by individuals at least sixteen (16) years old. 
+Customer Terms of Service
 
-By accessing or using the Platform, you warrant and represent that you are at least sixteen (16) years of age and with the full authority, right, and capacity to enter into this agreement and abide by all of the terms and conditions of these Terms. If you are not at least sixteen (16) years old, you are prohibited from both the access and usage of the Platform and should immediately stop using the Platform.
+### **Your Agreement On Behalf of “Customer”**
 
-#### **‍**
+If you purchase subscription(s) to the Services, invite individuals to use the Services, or use or allow use of the Services after being notified of a change to these Customer Terms, you acknowledge your understanding of the then-current Contract and agree to the Contract on behalf of Customer. Please make sure you have the necessary authority to enter into the Contract on behalf of Customer before proceeding.
 
-**3\. Communications**
-----------------------
-
-If you register on the Platform we will use your email address to send you important Service emails including password resets, purchase confirmations, data breach warnings, as well as marketing emails with information about the Services including information on how to create content, introduction of new functionalities and promotions. You may opt-out of the marketing emails by accessing your account settings on the Platform or by following the unsubscribe link in the emails you receive. We will not send you marketing emails about any third-party product or service without obtaining your explicit prior consent. 
-
-For additional information about how we protect your privacy, please refer to our Privacy Policy at [https://www.synthesia.io/terms/privacy-policy](https://www.synthesia.io/terms/privacy-policy).
-
-#### **‍**
-
-**4\. Purchases**
------------------
-
-If you wish to purchase any product or service made available through the Platform (“**Purchase**”), you may be asked to supply certain information relevant to your Purchase including, without limitation, your credit card number, the expiration date of your credit card, and your billing address.
-
-You represent and warrant that: (i) you have the legal right to use any credit card(s) or other payment method(s) in connection with any Purchase; and (ii) the information you supply to us is true, correct, and complete.
-
-We may employ the use of third-party services for the purpose of facilitating payment and the completion of Purchases. By submitting your payment information, you understand that we may share that information with these third parties subject to our Privacy Policy.
-
-Your Purchase is not confirmed until you receive a confirmation email from us. In particular, we reserve the right to reject your Purchase due to product or service unavailability, or if fraud or an unauthorised or illegal transaction is suspected.
-
-All prices shown on the Platform are as a standard denominated in USD. We may determine to show the prices in the currency that Synthesia determines to be your local currency. All prices shown to Consumers include applicable sales taxes at the rate that is in force from time to time.
-
-#### **‍**
-
-**5\. Contests, Sweepstakes and Promotions**
---------------------------------------------
-
-Any contests, sweepstakes, or other promotions (collectively, “**Promotions**”) made available through the Platform may be governed by rules that are separate from these Terms. If you participate in any Promotions, please review the applicable rules as well as our Privacy Policy. If the rules for a Promotion conflict with these Terms, the rules governing the Promotion will prevail.
-
-#### **‍**
-
-**6\. Subscriptions**
----------------------
-
-Some Services are subject to payments. Paid Services are usually provided on a recurring subscription basis (“**Subscription(s)**”), but we may also provide them on a fixed-term basis (“**Fixed Term**”), or as one-time payment add-ons (“**Add-on(s)**”). Fixed Term Services are paid against the invoice according to the payment terms agreed separately. Unless otherwise agreed, Subscription payment terms shall not apply to Fixed Term Services. If you are interested in Fixed Term Services, please contact us. Subscriptions are billed in advance on a recurring and periodic basis (“**Billing Cycle**”). The relevant Billing Cycle will be displayed to you at check-out.
-
-At the end of each Billing Cycle, your Subscription will automatically renew unless you cancel it or Synthesia cancels it. If your Subscription is on an annual basis, we will let you know at least fifteen (15) days in advance of any automatic renewal in order to give you the opportunity to cancel your Subscription. You may cancel your Subscription renewal either through your online account management page or by contacting our customer support team.
-
-A valid payment method, including credit card, is required to process the payment for your Subscription and Add-on(s). You shall provide Synthesia with accurate and complete billing information including full name, address, state, zip code, telephone number, VAT number (if applicable) and a valid payment method information. By submitting such payment information, you automatically authorise Synthesia to charge all Subscription and Add-on fees incurred through your account to any such payment instruments.
-
-Should automatic billing fail to occur for any reason, Synthesia may (but does not have an obligation to) issue an electronic invoice indicating that you must proceed manually, within a certain deadline date, with the full payment corresponding to the billing period as indicated on the invoice. We reserve the right to terminate your Subscription in the event we are unable to collect a relevant payment from you (whether automatically or manually). Where that happens, we will inform you of the termination of your Subscription via email.
-
-#### **‍**
-
-**7\. Free Trial**
-------------------
-
-We may, at our sole discretion, offer a Subscription with a free trial for a limited period of time (“**Free Trial**”).
-
-You may be required to enter your billing information in order to sign up for a Free Trial. If you do enter your billing information when signing up for Free Trial, you will not be charged by Synthesia until your Free Trial has expired. On the last day of the Free Trial period, unless you cancelled your Subscription, you will be automatically charged the applicable Subscription fees for the type of Subscription you have selected.
-
-At any time before the start of your Free Trial and without notice, Synthesia reserves the right to (i) modify the terms applicable to any Free Trial offer, or (ii) cancel such Free Trial offer.
-
-#### **‍**
-
-**8\. Fee Changes**
--------------------
-
-Synthesia, in its sole discretion and at any time, may modify Subscription fees for the Subscriptions. We will inform you of any change to your Subscription fees at least thirty (30) days in advance to give you an opportunity to terminate your Subscription before such change becomes effective. Any Subscription fee change will become effective immediately upon publishing, or, if you have an active Subscription, at the end of your then current Billing Cycle.
-
-Your continued use of a Subscription after a Subscription fee change comes into effect constitutes your agreement to pay the revised Subscription fee amount.
-
-#### **‍**
-
-**9\. Refunds**
----------------
-
-If you make any Purchase on the Platform as a Consumer, you have the right to request a refund of the applicable Purchase price without providing a reason at any time within fifteen (15) days of the original date of purchase. As your Purchase can be used by you immediately, we reserve the right to only issue a pro-rated refund which reflects the amount of time you have enjoyed the Purchase before claiming a refund.
-
-To request a refund (or partial refund), please contact us by using the contact details at the bottom of these Terms. We will issue any refund as soon as possible to the payment method used for the original Purchase.
-
-Refunds do not apply to Business Customers.
-
-#### **‍**
-
-**10\. Software license and Content**
--------------------------------------
-
-Subject to your compliance with these Terms, and during your active Subscription, Synthesia grants you a limited, non-exclusive, non-transferable, non-sublicensable licence to access and use the Software. Except as expressly permitted in these Terms, you may not: 
-
-• decompile, reverse engineer, disassemble, attempt to derive the source code of, or decrypt the Software; 
-
-• make any modification, adaptation, improvement, enhancement, translation, or derivative work from the Software;
-
-• violate any applicable laws, rules, or regulations in connection with your access or use of the Software;
-
-• remove, alter, or obscure any proprietary notice (including any notice of copyright or trademark) posted by Synthesia or the licensors of the Software;
-
-• use the Software for any purpose for which it is not designed or intended; 
-
-• use the Software for creating a product, service, or software that is, directly or indirectly, competitive with or in any way a substitute for the Software; or
-
-• distribute, transfer, sublicence, lease, lend or rent the Software to any third-party; 
-
-Our Platform allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material (referred to as “**Your Content**”), and also allows you to create or generate graphics, videos or other material (referred to as “**User Generated Content**”). 
-
-You are responsible for Your Content and User Generated Content, including its legality, reliability, and appropriateness.
-
-By posting or creating content on or through the Platform, you represent and warrant that: (i) Your Content is yours (you own it) and/or you have the right to use it and the right to grant us the rights and licence as provided in these Terms, and (ii) the posting of Your Content on or through the Platform does not violate the privacy rights, publicity rights, copyrights, contract rights, intellectual property rights or any other rights of any person or entity. We reserve the right to terminate your account in the event you infringe this provision.
-
-You retain any and all of your rights to any content you submit, post, display or create on or through the Platform and you are responsible for protecting those rights. We take no responsibility and assume no liability for content you post or create on or through the Platform. 
-
-For the purposes of these Terms “**Synthesia Content**” refers to all images, text, audio, video data, or any other information located on the Platform or available through the Platform. Synthesia Content is and will remain the exclusive property of Synthesia and its licensors. Immediately upon creating the User Generated Content Synthesia grants you a limited, revocable, non-exclusive, perpetual, worldwide, royalty-free, transferable, sub-licensable licence to use Synthesia Content in the created User Generated Content. Granted licence is limited by the Acceptable Use Policy requirements and conditioned on the full payment of the applicable Subscription fees. The licence may be revoked only due to the breach of the Acceptable Use Policy. Revoking the licence for the use in User Generated Content that is found in violation of the Acceptable Use Policy will not affect the licence for the non-breaching User Generated Content.
-
-Certain parts of the Synthesia Content are owned or created by third parties and licenced or transferred through Synthesia. For example, background images for enterprise accounts are provided by Shutterstock (https://www.shutterstock.com/licence), and they do not include content designated by Shutterstock as “editorial use only”; audio files created through text-to-speech functionality are provided by various integrated text-to-speech services that either grant Synthesia the sole ownership or an exclusive, sublicensable licence. Licence or ownership granted by third parties to Synthesia will not restrict the licences provided herein. Synthesia shall only offer the third-party content that can be licenced to you entirely in accordance with the licence terms specified herein.
-
-Synthesia has the right but not the obligation to monitor and edit all content submitted by users on the Platform. 
-
-By uploading or creating content on or through the Platform, you grant Synthesia a free of charge, non-exclusive, perpetual, transferable, royalty-free, irrevocable, worldwide licence to: (i) deliver the Platform to you; and (ii) use the content for internal research and development and/or to improve the Platform and any other Synthesia technology. Where content includes personal information about private individuals this will be further regulated by our Privacy Policy, DPA, or other individual agreement. 
-
-You shall ensure that Your Content complies with, and assist Synthesia to comply with, the requirements of all legislation and regulatory requirements in force from time to time relating to the use of personal data included in Your Content, including (without limitation) any data protection legislation from time to time in force in the UK including the Data Protection Act 2018 and any successor legislation. You will collect and process the personal data of all individuals featured in the content in accordance with all applicable laws, including by obtaining any appropriate consents or approvals sufficient for the provision of the Platform by Synthesia.
-
-You are solely responsible for securing and backing up Your Content.
-
-#### **‍**
-
-**11\. Prohibited Uses – Acceptable Use Policy**
+ABOUT CUSTOMER CHOICES, CONTENT & CONFIGURATIONS
 ------------------------------------------------
 
-You agree that you will not misuse the Platform, Synthesia Content, Your Content or User Generated Content. A misuse constitutes any use, access, or interference with the Platform, Synthesia Content, Your Content or User Generated Content contrary to these Terms, any other individual agreement executed between you and Synthesia, and applicable laws and regulations. You will especially not, without limitation, use the Platform, Synthesia Content, Your Content or User Generated Content:
+### Who is “Customer”?
 
-1. In any way that violates any applicable national or international law or regulation.
-2. For the purpose of exploiting, harming, or attempting to exploit or harm minors in any way by exposing them to inappropriate content or otherwise.
-3. For the purpose of adult entertainment and/or other incriminating content.
-4. To impersonate or attempt to impersonate Synthesia, a Synthesia employee, or any other person or entity.
-5. In any way that infringes upon the rights of others, or in any way that is obscene, defamatory, immoral, insulting, threatening, fraudulent, bullying, discriminating, or harmful.
-6. To engage in any other conduct that interferes with Platform's security features and restricts or inhibits anyone's use or enjoyment of the Platform, or which, as reasonably determined by Synthesia, may harm or offend Synthesia or other users of the Platform or expose them to liability.
-7. Use any robot, spider, or other automatic devices, process, or means without Synthesia's prior explicit consent through Synthesia API, to access the Platform for any purpose, including monitoring or copying any of the material on the Platform.
-8. Take any action that may damage or falsify Synthesia's ratings or reputation.
+**“Customer**” is the organization that you represent in agreeing to the Contract. If the Services are being set up by someone who is not formally affiliated with an organization, Customer is the individual setting them up. If you signed up for a plan using your corporate email domain, your organization is Customer, and Customer can modify and re-assign roles for your Services (including your role) and otherwise exercise its rights under the Contract. If Customer elects to replace you as the representative with ultimate authority for the Services, we will provide you with notice following such election and you agree to take any actions reasonably requested by us or Customer to facilitate the transfer of authority to a new representative of Customer.
 
-The avatars that are not created specifically for you and are already available in the Platform (**Stock Avatars**) are made based on and bear a life-like resemblance to real people. For this reason, in order to comply with the licensing terms with the actors and to protect the rights and reputation of the actors, additional restrictions apply. In addition to general restrictions, you agree not to use any Stock Avatars (without Synthesia's explicit written consent):
+### Who is an “Authorized User”?
 
-1. In User Generated Content for TV broadcasting.
-2. In User Generated Content for "promoted", "boosted", or "paid" advertising on any social media platform or similar media.
-3. In User Generated Content used as or part of non-fungible tokens (NFTs) or similar.
-4. To transmit, or procure the sending of, any advertising or promotional material, including any "junk mail", “chain letter”, “spam”, or any other similar solicitation.
-5. To portray Stock Avatar in User Generated Content in a way that a person would reasonably find offensive, including, but not limited to portraying Stock Avatar as suffering from or medicating for any medical condition, including addiction.
-6. To portray Stock Avatar in User Generated Content alongside or in connection with regulated or not age-appropriate goods or services including, but not limited to alcohol, tobacco, nicotine (including vaping products), psychoactive substances, firearms, gambling, contraceptives, sex toys, escort services, dating services, adult entertainment venues and similar.
-7. In User Generated Content in which Stock Avatar is making any kind of statement of opinion, including expressing any personal preferences or experiences as if they are Stock Avatar’s preferences or experiences.
-8. In User Generated Content in which Stock Avatar is making any kind of statement of fact regarding religion, politics, race, gender, sexuality, or other similar topics that are known to be sensitive to certain demographics.
-9. To create trademarks, design-marks, service-marks, or other similar protected or registrable rights.
+Under the Contract, an “**Authorized User**” is an individual, such as an employee, contractor or client of Customer, who is invited by Customer to use the Services. Depending on the subscription plan in effect and how Customer elects to configure the Services, Authorized Users may have varying levels of roles, access and permission. For example, certain Authorized Users may have broad access and permission and can create and generate videos while others may only be able to comment on videos.
 
-Synthesia may, but is not obliged to, monitor User Generated Content for breach of the Acceptable Use Policy. If User Generated Content is automatically flagged for a possible violation of the Acceptable Use Policy, such request for content creation may undergo a manual review or become automatically rejected. Synthesia can in its full discretion decide if User Generated Content violates this Acceptable Use Policy and reject User Generated Content creation request. If any of User Generated Content is deemed in violation of this Acceptable Use Policy after its creation, you must immediately delete, stop distributing and recall the violating Content both online and offline. We may immediately discontinue your access to the Platform in the event of breach of the Acceptable Use Policy. 
+### **What are “Avatars” and “Synthesia Content”?**
 
-#### **‍**
+Authorized Users may access and use certain types of content that we make generally available through the Services, such as stock avatars, images, audio clips, and video templates (“**Synthesia Content**”) or they can create or upload their own. Note that “Synthesia Content” excludes Non-Synthesia Products (defined below). Using content together with the features and functionalities of the Services, including the artificial intelligence components, Authorized Users can build scenes and direct Avatars to read scripts and act them out in realistic manners. “**Avatars**” are digital representations of humans and include both those created for, and made generally available to customers of a particular Services plan (“**Stock Avatars**”) and those created specifically for, and at the direction of Customer (“**Custom Avatars**”). Check out our [Help Center](https://help.synthesia.io/en/collections/3916466-synthesia-ai-avatars) for more information about Avatars.
 
-**12\. Confidential Information**
----------------------------------
+### **What is “Customer Data”?**
 
-“Confidential Information” means the specific terms and conditions of the Agreements and any non-public technical or business information of a party, including without limitation any information relating to a party’s techniques, algorithms, know-how, current and future products and services, research, engineering, designs, financial information, procurement requirements, manufacturing, customer lists, business forecasts, marketing plans and any other information which is disclosed to the other party in any form and (i) which is marked or identified as confidential or proprietary at the time of disclosure, or (ii) that the receiving party knows or should reasonably know to be the confidential or proprietary information of the disclosing party given the nature of such information and the circumstances of its disclosure.
+“**Customer Data**” is any (a) content or information submitted by Authorized Users to the Services, such as text and scripts used to prompt Avatars to speak and perform, and image and audio files uploaded to the Services; and (b) any videos created by Authorized Users using the Services. “Customer Data” excludes the Services, Synthesia Content, Non-Synthesia Products and Usage Information (defined below). Customer may exclusively provide us with instructions on what to do with Customer Data. For example, Customer may provision or deprovision access to Customer Data, enable or disable third party integrations, manage permissions, retention and export settings and publish or distribute Customer Data to third party sites. Since these choices and instructions may result in the access, use, disclosure, modification or deletion of certain or all Customer Data, please review the [Help Center](https://help.synthesia.io/en/) for more information about these choices and instructions.
 
-Both Synthesia and User will only use the other’s Confidential Information as necessary to perform under the Agreements, and must not use or disclose, either during or after the termination of its relationship, such information.  Both Synthesia and User will only disclose the other party’s Confidential Information to persons or entities who need to know the information to perform under the Agreements. These obligations will remain in full force and effect in perpetuity.
+Customer will (a) inform Authorized Users of all Customer policies and practices that are relevant to their use of the Services, including the use of any Avatars, and of any settings that may impact the processing of Customer Data; and (b) ensure the transfer and processing of Customer Data under the Contract is lawful.
 
-Nothing in the Agreements shall prohibit either Synthesia or User from disclosing Confidential Information of the other party if legally required to do so by judicial or governmental order (“Required Disclosure”); provided that the disclosing party shall: (i) give the other party prompt written notice of such Required Disclosure prior to disclosure; (ii) cooperate with the other party in the event the party elects to oppose such disclosure or seek a protective order with respect thereto, and/or (iii) only disclose the portion of Confidential Information specifically requested by the Required Disclosure.
+HIGHLIGHTED VIDEO
 
-#### **‍**
+### Ordering Subscriptions
 
-**13\. Accounts**
------------------
+Subscriptions allow Customer and its Authorized Users to access the Services and to create, edit and generate videos. A subscription is required for each individual and may be procured through the Services interface, or in some cases, via an order form entered into between Customer and us (each, an “**Order Form**”). Please see the [Help Center](https://help.synthesia.io/en/articles/8408197-guide-to-licenses) for more information on how to procure subscriptions, how to invite Authorized Users and how the types of subscriptions are categorized. Subscriptions commence when we make them available to Customer and continue for the term specified in the Services “check-out” interface or in the Order Form, as applicable. We sometimes enter into other kinds of ordering arrangements, but that would need to be spelled out and agreed to in an Order Form. During an active subscription term, adding more subscriptions is fairly easy. Unless the Order Form says otherwise, Customer may invite additional Authorized Users at the price stated in the Order Form and all will terminate on the same date.
 
-When you create an account with us, you guarantee that the information you provide us is accurate, complete, and current at all times. Inaccurate, incomplete, or obsolete information may result in the immediate termination of your account on the Platform.
+HIGHLIGHTED VIDEO
 
-You are responsible for maintaining the confidentiality of your account and password, including but not limited to the restriction of access to your device and/or account. You agree to accept responsibility for all activities or actions that occur under your account and/or password, whether your password is with our Platform or a third-party service. You must notify us immediately upon becoming aware of any breach of security or unauthorised use of your account.
+Ordering Subscriptions
 
-You may not use as a username the name of another person or entity or that is not lawfully available for use, or a name or trademark that is subject to any rights of another person or entity other than you, without appropriate authorisation. You may not use as a username any name that is offensive, vulgar or obscene.
+### Purchasing Decisions
 
-#### **‍**
+We may share information about our future product plans because we like transparency. Our public statements about those product plans are an expression of intent, but do not rely on them when making a purchase. If Customer decides to buy our Services, that decision should be based on the functionality, features and Stock Avatars we have made available today and not on the delivery of any future functionality, features or Stock Avatars.
 
-**14\. Customer Reference**
----------------------------
+### Choosing to be a Beta Tester
 
-You agree (i) that Synthesia may identify you as a recipient of Service and use your name and logo in sales presentations and on the Synthesia website, and with prior approval in marketing materials and press releases, and (ii) with prior approval to develop a brief customer profile for promotional purposes on any websites owned and/or controlled by Synthesia.
+Occasionally, we look for beta testers to help us test our new features. These features will be identified as “beta” or “pre-release,” or words or phrases with similar meanings (each, a “**Beta Product**”). Beta Products may not be ready for prime time so they are made available “as is,” and any warranties or contractual commitments we make for other Services do not apply.
 
-#### **‍**
+### Feedback is Welcome
 
-**15\. Error Reporting and Feedback**
--------------------------------------
+The more suggestions our customers make, the better the Services become. If Customer sends us any feedback or suggestions regarding the Services, there is a chance we will use it, so Customer grants us (for itself and all of its Authorized Users and other Customer personnel) an unlimited, irrevocable, perpetual, sublicensable, transferable, royalty-free license to use any such feedback or suggestions for any purpose without any obligation or compensation to Customer, any Authorized User or other Customer personnel. If we choose not to implement the suggestion, please don’t take it personally. We appreciate it nonetheless.
 
-You may provide us directly at support@synthesia.io with information and feedback concerning errors, suggestions for improvements, ideas, problems, complaints, and other matters related to our Platform (“**Feedback**”). 
+### Synthesia as a Platform
 
-You acknowledge and agree that: (i) you shall not retain, acquire or assert any intellectual property rights or other rights, title or interest in or to the Feedback; (ii) we may use the Feedback to improve the Platform or any other technology; (iii) we may have development ideas similar to the Feedback; (iv) the Feedback does not contain confidential information or proprietary information from you or any third-party; and (v) we are not under any obligation of confidentiality with respect to the Feedback. 
+The Services are designed to be flexibly configured based on the needs and objectives of each particular organization. To that end, the Services may enable Customer to access integrations with Customer’s own, or a third party’s, content, databases, resources, applications, artificial intelligence bots or engines and other software components that complement or interoperate with Customer’s use of the Services (each, a “**Non-Synthesia Product**”). THESE ARE NOT OUR PRODUCTS OR SERVICES, SO WE DO NOT WARRANT OR SUPPORT THEM, AND, ULTIMATELY, CUSTOMER (AND NOT US) WILL DECIDE WHETHER OR NOT TO ENABLE THEM. ANY USE OF A NON-SYNTHESIA PRODUCT IS SOLELY BETWEEN CUSTOMER AND THE APPLICABLE THIRD PARTY PROVIDER.
 
-You hereby grant Synthesia and its affiliates an exclusive, transferable, irrevocable, free-of-charge, royalty-free, sub-licensable, unlimited and perpetual right to use (including copy, modify, create derivative works, publish, distribute and commercialise) the Feedback in any manner and for any purpose.‍
+If Customer connects, installs or enables Non-Synthesia Products for use with the Services, please be mindful of any Customer Data that will be shared with the third party provider and the purposes for which the provider requires access. We will not be responsible for any use, disclosure, modification or deletion of Customer Data that is transmitted to, or accessed by, a Non-Synthesia Product. Check out our [website](https://www.synthesia.io/integrations) for more examples of, and information about, these integrations.
 
-#### **‍**
+### Privacy Policy
 
-**16\. Links To Other Web Sites**
----------------------------------
+Please review our [Privacy Policy](https://www.synthesia.io/legal/privacy-policy) for more information on how we collect and use data relating to the use and performance of our websites and products.
 
-Our Platform may contain links to third-party web sites or services that are not owned or controlled by Synthesia.
-
-Synthesia has no control over, and assumes no responsibility for, the content, privacy policies or practices of any third-party web sites or services. We do not warrant the offerings of any of these entities/individuals or their web sites.
-
-You acknowledge and agree that Synthesia shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such third-party web sites or services.
-
-We strongly advise you to read the terms of service and privacy policies of any third-party web sites or services that you visit.
-
-#### **‍**
-
-**17\. Disclaimer of Warranty**
--------------------------------
-
-OUR PLATFORM AND ANY CONTENT THEREIN ARE PROVIDED BY SYNTHESIA ON AN “AS IS” AND “AS AVAILABLE” BASIS. SYNTHESIA MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, AS TO THE OPERATION OF THE SERVICE AND THE INFORMATION, CONTENT OR MATERIALS INCLUDED THEREIN. YOU EXPRESSLY AGREE THAT YOUR USE OF THE SERVICE AND ANY CONTENT THEREIN IS AT YOUR SOLE RISK.
-
-TO THE EXTENT PERMITTED BY APPLICABLE LAW, SYNTHESIA MAKES NO WARRANTY OR REPRESENTATION WITH RESPECT TO THE COMPLETENESS, SECURITY, RELIABILITY, QUALITY, ACCURACY, OR AVAILABILITY OF THE PLATFORM. WITHOUT LIMITING THE FOREGOING, SYNTHESIA DOES NOT REPRESENT THAT THE PLATFORM, ANY CONTENT THEREIN OR ANY SERVICES OR ITEMS OBTAINED THROUGH THE PLATFORM WILL BE ACCURATE, RELIABLE, ERROR-FREE OR UNINTERRUPTED, THAT DEFECTS WILL BE CORRECTED, THAT THE PLATFORM OR THE SERVER THAT MAKES IT AVAILABLE ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS OR THAT THE PLATFORM OR ANY SERVICES OR ITEMS OBTAINED THROUGH THE SERVICES WILL OTHERWISE MEET YOUR NEEDS OR EXPECTATIONS.
-
-THE FOREGOING DOES NOT AFFECT ANY WARRANTIES WHICH CANNOT BE EXCLUDED OR LIMITED UNDER APPLICABLE LAW. IN PARTICULAR, IF YOU ARE A CONSUMER AND HAVE YOUR HABITUAL RESIDENCE IN THE UK OR THE EUROPEAN ECONOMIC AREA, APPLICABLE CONSUMER LAWS MAY NOT ALLOW SOME OF THE EXCLUSIONS AND LIMITATIONS SET OUT ABOVE, SO SOME OR ALL OF THE ABOVE EXCLUSIONS AND LIMITATIONS MAY NOT APPLY TO YOU.
-
-#### **‍**
-
-**18\. Liability and Indemnity**
---------------------------------
-
-TO THE EXTENT PERMITTED BY APPLICABLE LAW, YOU WILL DEFEND, INDEMNIFY AND HOLD HARMLESS SYNTHESIA AND ITS OFFICERS, DIRECTORS, EMPLOYEES, AND AGENTS FROM AND AGAINST ANY AND ALL LOSSES, DAMAGES, COSTS, EXPENSES (INCLUDING LEGAL FEES), CLAIMS, COMPLAINTS, DEMANDS, ACTIONS, SUITS, PROCEEDINGS, OBLIGATIONS AND LIABILITIES ARISING FROM, CONNECTED WITH OR RELATING TO YOUR USE OF THE SERVICE OR BREACH OF THESE TERMS. NOTWITHSTANDING THE FOREGOING, SYNTHESIA RETAINS THE RIGHT TO PARTICIPATE IN THE DEFENCE OF AND SETTLEMENT NEGOTIATIONS RELATING TO ANY THIRD-PARTY CLAIM, COMPLAINT, DEMAND, ACTION, SUIT OR PROCEEDING WITH COUNSEL OF OUR OWN SELECTION AT OUR SOLE COST AND EXPENSE.
-
-IN NO EVENT AND UNDER NO CIRCUMSTANCES WILL SYNTHESIA BE LIABLE TO YOU FOR LOSS OF PROFITS, SALES, BUSINESS, OR REVENUE, BUSINESS INTERRUPTION, LOSS OF ANTICIPATED SAVINGS, LOSS OF BUSINESS OPPORTUNITY, LOSS OF GOODWILL OR REPUTATION, OR ANY INDIRECT OR CONSEQUENTIAL DAMAGE RESULTING FROM YOUR USE OF THE SERVICE OR ANY CONTENT THEREIN.
-
-IN NO EVENT AND UNDER NO CIRCUMSTANCES WILL SYNTHESIA’S TOTAL AGGREGATE LIABILITY ARISING FROM, IN CONNECTION WITH, OR RELATING TO THESE TERMS, THE SERVICE OR ANY CONTENT THEREIN EXCEED: (I) IF YOU HAVE MADE ANY PURCHASE, THE AMOUNT OF THE PURCHASE GIVING RISE TO THE RELEVANT DISPUTE; OR (II) THE AMOUNT OF ONE-HUNDRED POUND STERLING (£100).
-
-NOTHING IN THESE TERMS IS INTENDED TO EXCLUDE OR LIMIT OUR LIABILITY TO THE EXTENT NOT PERMITTED BY APPLICABLE LAW.
-
-#### **‍**
-
-**19\. Termination**
---------------------
-
-We may terminate or suspend your account and/or prevent your access to the Platform immediately, without prior notice in the event you are in breach of these Terms. We may suspend your subscription auto renewal for any reason or without a reason at any time without any consequences to you. 
-
-You are free to stop using the Platform at any time. If you wish to terminate your account, please contact us. Termination of your account will take effect at the end of the then current Billing Cycle and will not give rise to any refund of your Purchase, unless as described under “9. Refund”.
-
-All provisions of these Terms which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.
-
-#### **‍**
-
-**20\. Governing Law**
-----------------------
-
-The Agreements and any dispute or claim (including non-contractual disputes or claims) arising out of or in connection with it or its subject matter or formation are governed by laws of England and Wales. The courts of England and Wales will have exclusive jurisdiction to deal with any dispute (including any non-contractual claim or dispute) which has arisen or may arise out of, or in connection with, the Agreements.
-
-If you are a Consumer and have your habitual residence in the UK or the European Economic Area, you may benefit from additional rights and protection afforded to you by mandatory provisions of the laws of your country of residence, and nothing in these Terms shall affect the enforceability of these additional rights and protection.
-
-#### **‍**
-
-**21\. Changes To Service**
----------------------------
-
-We reserve the right to withdraw or amend our Service, and any service or material we provide via the Platform, in our sole discretion without notice. We will not be liable if for any reason all or any part of the Platform is unavailable at any time or for any period. From time to time, we may restrict your access to some parts of Platform, or the entire Platform.
-
-#### **‍**
-
-**22\. Amendments To Terms**
+RESPONSIBILITIES OF CUSTOMER
 ----------------------------
 
-We may amend these Terms at any time by posting the amended Terms on this site. It is your responsibility to review these Terms periodically. These terms become effective immediately upon posting, unless you have an active Subscription in which case the revised Terms will become effective thirty (30) days after posting. If any revision to these Terms has a material impact on your rights or obligations, we may notify you of such revision using your registered e-mail address.
+### Use of the Services
 
-By continuing to access or use our Platform after any revisions become effective, you agree to be bound by the revised Terms. If you do not agree to the revised Terms, you are no longer authorised to use Platform.
+Customer, including its Authorized Users, must at all times comply with the Contract and the [Acceptable Use Policy](https://www.synthesia.io/legal/acceptable-use-policy). As further described in our [Help Center](https://help.synthesia.io/en/articles/6341934-guide-to-content-moderation) and the below section titled “Further Artificial Intelligence Assurances,” we may review conduct for compliance purposes and in order to uphold our AI Principles. Customer, and not Synthesia, is responsible for ensuring that (a) its use of the Services, including its use, processing and generation of any content therewith, is in compliance with applicable law, and (b) all Authorized Users are over the applicable statutory legal age.
 
-#### **‍**
+### Responsibilities To, and For, Authorized Users 
 
-**23\. Waiver**
+Customer will (a) inform Authorized Users of all Customer policies and practices that are relevant to Customer’s use of the Services, including the use of any Avatars, and of any settings that may impact the processing or generation of Customer Data, (b) ensure any submission, processing, use or generation of Customer Data is lawful, and (c) ensure that when it authorizes the creation or use of a Custom Avatar using the voice or likeness of an individual, such individual is over the applicable statutory legal age and has provided free and informed consent.  
+
+### Our Removal Rights
+
+If we believe that there is a violation of the Contract that can simply be remedied by Customer’s takedown or removal of certain Customer Data, Custom Avatar or Non-Synthesia Product, we will, in most cases, ask Customer to take direct action rather than intervene. However, we may directly step in and take what we determine to be appropriate action, if Customer does not take appropriate action, or if we believe there is a credible risk of harm to us, the Services, Authorized Users, or any third parties. We may discontinue the availability of any Synthesia Content from the Services in our sole discretion.
+
+PAYMENT OBLIGATIONS
+-------------------
+
+### Payment Terms
+
+For Customers that purchase our Services, the fees are specified at the Services interface “check-out” and if applicable, in the Order Form(s). Unless expressly stated otherwise, fees must be paid in advance. Payment obligations are non-cancelable and, except as expressly stated in the Contract, fees paid are non-refundable. Check out our [Help Center](https://help.synthesia.io/en/articles/6341896-billing-payments) for more information about payment options and how the pricing for an Authorized User subscription is determined. If we agree to invoice Customer by email, full payment must be received within thirty (30) days from the invoice date. Fees are stated exclusive of any taxes, levies, duties, or similar governmental assessments of any nature, including, for example, value-added, sales, use or withholding taxes, assessable by any jurisdiction (collectively, “**Taxes**”). Customer will be responsible for paying all Taxes associated with its purchases, except for those taxes based on our net income. Should any payment for the Services be subject to withholding tax by any government, Customer will reimburse us for such withholding tax. 
+
+### Suspension of Services
+
+If any charge owed by Customer (excluding amounts disputed in reasonable and good faith) is thirty (30) days or more overdue, we may, without limiting other rights and remedies, suspend any fee-based Services until such amounts are paid in full, provided we have given Customer ten (10) or more days’ prior notice, which we may provide to Customer’s designated billing contact via email, that its account is overdue.
+
+### Credits
+
+Any credits that may accrue to Customer’s account (for example, from a promotion), will expire following expiration or termination of the applicable Contract, will have no currency or exchange value, and will not be transferable or refundable.
+
+OUR RESPONSIBILITIES
+--------------------
+
+### Providing the Services 
+
+We will (a) make the Services and Synthesia Content available to Customer and its Authorized Users as described in the Contract; and (b) not use or process Customer Data for any purpose without Customer’s prior written instructions; provided, however, that “prior written instructions” will be deemed to include use of the Services by and on behalf of Authorized Users in connection with the Services and any processing related to such use or otherwise necessary for the performance of the Contract. 
+
+Be assured that (a) the Services will perform materially in accordance with our then-current Help Center; (b) we have all rights, licenses and consents to make available the Synthesia Content, to the extent used in accordance with the Contract; and (c) subject to the “Synthesia as a Platform” section, we will not materially decrease the functionality of the Services during a subscription term. For any breach of a warranty in this section, Customer’s exclusive remedies are those described in the sections titled “Termination for Cause” and “Effect of Termination”. 
+
+### Keeping the Services Available
+
+For our cloud-based Services, we will use commercially reasonable efforts to make the Services available 24 hours a day, 7 days a week, excluding planned downtime. We expect planned downtime to be infrequent but will endeavor to provide Customer with advance notice (e.g., through the Services), if we think it may exceed five (5) continuous minutes. 
+
+### Protecting Customer Data
+
+The protection of Customer Data is a top priority for us so we will maintain physical, and technical safeguards for the security, confidentiality and integrity of Customer Data at a level not materially less protective than as described in our [Security Practices](https://www.synthesia.io/legal/security-practices). Those safeguards will include measures for preventing unauthorized access, use, modification, deletion and disclosure of Customer Data by our personnel. Before sharing Customer Data with any of our third party service providers, we will ensure that the third party maintains, at a minimum, reasonable data practices for maintaining the confidentiality, security and availability of Customer Data and preventing unauthorized access. Further, the terms of the [Synthesia Data Processing Addendum](https://www.synthesia.io/legal/data-processing-agreement) (“**DPA**”) posted as of the Effective Date are hereby incorporated by reference. Customer (not us) bears sole responsibility for adequate security, protection and backup of Customer Data when in Customer’s or its representatives’ or agents’ Databases, possession or control. We are not responsible for what Customer’s Authorized Users or Non-Synthesia Products do with Customer Data. That is Customer’s responsibility.
+
+HIGHLIGHTED VIDEO
+
+### Compliance with Laws
+
+We will comply with those laws applicable to our provisioning of the Services to customers generally (i.e. without regard to the nature of the Customer Data and/or Customer’s particular use or configuration of the Services). Even though the artificial intelligence legal landscape is still developing, to our knowledge, the foregoing includes our compliance with applicable artificial intelligence laws. To the extent any artificial intelligence laws are newly enacted, we will evaluate our obligations in good faith and if we determine such laws apply, we will use commercially reasonable efforts to comply within a reasonable period of time. 
+
+### Further Artificial Intelligence Assurances 
+
+We will in good faith and all material regards, implement into our practices, and design into our products, the principles described in our [AI Governance Practices page](http://www.synthesia.io/legal/ai-governance-practices), as updated from time-to-time (our “**AI Principles**”). Further, in accordance with the below section titled “Our Indemnification of Customer,” we will defend and indemnify Customer for any Claims Against Customer that constitute third party copyright infringement claims arising from our creation or development of any artificial intelligence components of the Services. This indemnification obligation is referred to herein as our “**AI Copyright Pledge**”.
+
+HIGHLIGHTED VIDEO
+
+Compliance with Laws and Further AI Assurances
+
+### The Synthesia Extended Family
+
+We may leverage our employees, those of our corporate affiliates and third party contractors (the “**Synthesia Extended Family**”) in exercising our rights and performing our obligations under the Contract. We will be responsible for the Synthesia Extended Family’s compliance with our obligations under the Contract. 
+
+OWNERSHIP AND PROPRIETARY RIGHTS
+--------------------------------
+
+### What’s Yours is Yours…
+
+As between us on the one hand, and Customer and its Authorized Users on the other, Customer will own all Customer Data, but excluding the components of the Services and Synthesia Content. Subject to the terms and conditions of the Contract, Customer (for itself and all of its Users) grants us and the Synthesia Extended Family a worldwide, non-exclusive, limited term license to access, use, process, copy, distribute, perform, export and display Customer Data, Custom Avatars and any Non-Synthesia Products created or deployed by or for Customer, only as reasonably necessary (a) to provide, maintain and improve the Services; (b) to prevent or address service, security, support or technical issues; (c) as required by law, to prevent fraud, or as permitted by the [Data Request Policy](https://www.synthesia.io/legal/data-request-policy); and (d) as expressly permitted in writing by Customer.
+
+### And What’s Ours is Ours
+
+We own and will continue to own the Synthesia Content, our Services and all components thereof, including all related intellectual property rights. We grant to Customer a non-sublicensable, non-transferable, non-exclusive, limited license for Customer and its Authorized Users to access and use the Synthesia Content made available through the Services during the term of an applicable subscription, and after the term to the extent it has been incorporated in videos generated using the Services, subject to Customer’s and its Authorized Users’ continued compliance with with the Contract and the [User Terms](https://www.synthesia.io/legal/user-terms-of-service). All of our rights not expressly granted by this license are hereby retained.
+
+HIGHLIGHTED VIDEO
+
+### Artificial Intelligence & Improvements to the Service
+
+Customer understands that it is purchasing Services that are intended to improve, and which have been designed to improve, with greater use and interaction. Subject to the restrictions below in this section, when an Authorized User uses or interacts with the features and functionality of the Services, we may generate, collect and analyze data and information relating to such use and interaction, and to the performance and quality of the Services resulting therefrom (collectively, “**Usage Information**”) for the purposes of improving the Services. Because the Services are made available through a shared multi-tenant platform, these improvements generally benefit all customers. However, in no event will any generation, collection or use of Usage Information, or any improvement therefrom, result in (a) the identification of Customer or any Authorized Users to third parties (e.g., other customers); (b) the unauthorized disclosure of Customer Data or Custom Avatars; (c) the access or use of Customer Data beyond Customer’s prior written instructions (and also beyond an individual’s consent where their voice or likeness is being used to create a Custom Avatar); (d) the improvement or fine tuning of any artificial intelligence components unless integrated with the Services being used by Customer; or (e) the creation or development of any artificial intelligence models that may be provisioned independent of the Services.
+
+HIGHLIGHTED VIDEO
+
+Artificial Intelligence & Improvements to the Service
+
+TERM AND TERMINATION
+--------------------
+
+### Contract Term 
+
+As further described below, a subscription has a term that may expire or be terminated. The Contract remains effective until all subscriptions ordered under the Contract have expired or been terminated or the Contract itself terminates. Termination of the Contract will terminate all subscriptions and all Order Forms.
+
+### Auto-Renewal
+
+Unless an Order Form says something different, (a) all subscriptions automatically renew (without the need to go through the Services-interface “check-out” or execute a renewal Order Form) for additional periods equal to one (1) year or the preceding term, whichever is shorter; and (b) the per-unit pricing during any automatic renewal term will remain the same as it was during the immediately prior term. Either party can give the other notice of non-renewal at least thirty (30) days before the end of a subscription term to stop the subscriptions from automatically renewing. 
+
+### Termination for Cause
+
+We or Customer may terminate the Contract on notice to the other party if the other party materially breaches the Contract and such breach is not cured within thirty (30) days after the non-breaching party provides notice of the breach. Customer is responsible for its Authorized Users, including for any breaches of this Contract caused by its Users. We may terminate the Contract immediately on notice to Customer if we reasonably believe that the Services are being used by Customer or its Users in violation of applicable law.
+
+### Termination Without Cause
+
+Customer may terminate its free subscriptions immediately without cause. We may also terminate Customer’s free subscriptions without cause, but we will provide Customer with thirty (30) days prior written notice.
+
+### Effect of Termination
+
+Upon any termination for cause by Customer, we will refund Customer any prepaid fees covering the remainder of the term of all subscriptions after the effective date of termination. Upon any termination for cause by us, Customer will pay any unpaid fees covering the remainder of the term of those subscriptions after the effective date of termination. In no event will any termination relieve Customer of the obligation to pay any fees payable to us for the period prior to the effective date of termination.
+
+### Data Portability and Deletion
+
+During the term of a subscription, Customer will be permitted to export Customer Data via the Services; provided, that Customer acknowledges and agrees that such ability to export may be limited by the applicable Services plan in effect and the data retention settings enabled by Customer. Following the Term, Synthesia shall have no obligation to maintain, support or provide any Customer Data or Custom Avatars, or to retrain or fine tune any artificial intelligence components of the Services, and upon Customer’s deletion of its account, Synthesia shall, unless legally prohibited, delete all Customer Data and Custom Avatars in its systems or otherwise in its possession or under its control in accordance with the practices set forth in our Security Practices.
+
+REPRESENTATIONS; DISCLAIMER OF WARRANTIES
+-----------------------------------------
+
+Customer represents and warrants that it has validly entered into the Contract and has the legal power to do so. Customer further represents and warrants that it is responsible for the conduct of its Authorized Users and their compliance with the terms of this Contract and the User Terms.
+
+EXCEPT AS EXPRESSLY PROVIDED FOR HEREIN, THE SYNTHESIA CONTENT, SERVICES AND ALL RELATED COMPONENTS AND INFORMATION ARE PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS WITHOUT ANY WARRANTIES OF ANY KIND, AND SYNTHESIA EXPRESSLY DISCLAIMS ANY AND ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, TITLE, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. CUSTOMER ACKNOWLEDGES THAT SYNTHESIA DOES NOT WARRANT THAT THE SERVICES WILL BE UNINTERRUPTED, TIMELY, STABLE, SECURE, OR ERROR FREE. EACH PARTY DISCLAIMS ALL LIABILITY AND INDEMNIFICATION OBLIGATIONS FOR ANY HARM OR DAMAGES CAUSED BY ANY BETA SERVICES. NOTWITHSTANDING ANYTHING TO THE CONTRARY IN THE AGREEMENT, CUSTOMER ACKNOWLEDGES AND AGREES THAT THE BETA SERVICES ARE PROVIDED “AS-IS” WITH RESPECT TO ITS PERFORMANCE, SPEED, FUNCTIONALITY, SUPPORT, AND AVAILABILITY. 
+
+LIMITATION OF LIABILITY
+-----------------------
+
+OTHER THAN IN CONNECTION WITH A PARTY’S INDEMNIFICATION OBLIGATIONS HEREUNDER, WHICH INCLUDES OUR AI COPYRIGHT PLEDGE, IN NO EVENT WILL EITHER CUSTOMER’S OR THE SYNTHESIA EXTENDED FAMILY’S AGGREGATE LIABILITY ARISING OUT OF OR RELATED TO THE CONTRACT OR THE USER TERMS (WHETHER IN CONTRACT OR TORT OR UNDER ANY OTHER THEORY OF LIABILITY) EXCEED THE TOTAL AMOUNT PAID BY CUSTOMER HEREUNDER IN THE TWELVE (12) MONTHS PRECEDING THE LAST EVENT GIVING RISE TO LIABILITY. THE FOREGOING WILL NOT LIMIT CUSTOMER’S PAYMENT OBLIGATIONS UNDER THE “PAYMENT TERMS” SECTION ABOVE.
+
+IN NO EVENT WILL EITHER CUSTOMER OR ANY MEMBER OF THE SYNTHESIA EXTENDED FAMILY HAVE ANY LIABILITY TO THE OTHER PARTY OR TO ANY THIRD PARTY FOR ANY LOST PROFITS OR REVENUES OR FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, COVER OR PUNITIVE DAMAGES HOWEVER CAUSED, WHETHER IN CONTRACT, TORT OR UNDER ANY OTHER THEORY OF LIABILITY, AND WHETHER OR NOT THE PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THE FOREGOING DISCLAIMER WILL NOT APPLY TO THE EXTENT PROHIBITED BY APPLICABLE LAW.
+
+The limitations under this “Limitation of Liability” section apply with respect to all legal theories, whether in contract, tort or otherwise, and to the extent permitted by law. The provisions of this “Limitation of Liability” section allocate the risks under this Contract between the parties, and the parties have relied on these limitations in determining whether to enter into this Contract and the pricing for the Services. 
+
+OUR INDEMNIFICATION OF CUSTOMER
+-------------------------------
+
+We will defend Customer from and against any and all third party claims, actions, suits, proceedings, and demands alleging (a) that the Services or Synthesia Content, or the use thereof as permitted hereunder, infringes or misappropriates the intellectual property rights of a third party; or (b) that the use of a Stock Avatar’s voice or likeness, as permitted hereunder, violates the applicable actor’s right to privacy or publicity (each, a “**Claim Against Customer**”), and will indemnify Customer for all reasonable attorney’s fees incurred and damages and other costs finally awarded against Customer in connection with or as a result of, and for amounts paid by Customer under a settlement we approve of in connection with, a Claim Against Customer; provided, however, that we will have no liability if a Claim Against Customer arises from (x) Customer Data, Custom Avatars, or Non-Synthesia Products; (y) Customer’s negligence, misconduct, or breach of the Contract, including Acceptable Use Policy, or (z) any use of Synthesia Content other than the most current version or release made available by us. Customer must provide us with prompt written notice of any Claim Against Customer and allow us the right to assume the exclusive defense and control, and cooperate with any reasonable requests assisting our defense and settlement of such matter. This section states our sole liability with respect to, and Customer’s exclusive remedy against us and the Synthesia Extended Family for, any Claim Against Customer.
+
+CUSTOMER’S INDEMNIFICATION OF US
+--------------------------------
+
+Customer will defend Synthesia and the members of the Synthesia Extended Family (collectively, the “**Synthesia Indemnified Parties”**) from and against any and all third party claims, actions, suits, proceedings, and demands alleging (a) that Customer Data, or use thereof, infringes or misappropriates the intellectual property rights of a third party; or (b) that Customer’s use of the Services or Avatars violates the Acceptable Use Policy (each, a “**Claim Against Us”**), and will indemnify the Synthesia Indemnified Parties for all reasonable attorney’s fees incurred and damages and other costs finally awarded against a Synthesia Indemnified Party in connection with or as a result of, and for amounts paid by a Synthesia Indemnified Party under a settlement Customer approves of in connection with, a Claim Against Us; provided, however, that Customer shall have no liability under (a) to the extent a Claim Against Us arises from Synthesia Content or under (b) to the extent a Claim Against Us arises from our breach of the Contract. We must provide Customer with prompt written notice of any Claim Against Us and allow Customer the right to assume the exclusive defense and control, and cooperate with any reasonable requests assisting Customer’s defense and settlement of such matter. This section states your sole liability with respect to, and the Synthesia Indemnified Parties’ exclusive remedy against Customer for, any Claim Against Us.
+
+LIMITATIONS ON INDEMNIFICATIONS
+-------------------------------
+
+Notwithstanding anything contained in the two preceding sections, (a) an indemnified party will always be free to choose its own counsel if it pays for the cost of such counsel; and (b) no settlement may be entered into by an indemnifying party, without the express written consent of the indemnified parties (such consent not to be unreasonably withheld), if (i) the third party asserting the claim is a government agency, (ii) the settlement arguably involves the making of admissions by the indemnified parties, (iii) the settlement does not include a full release of liability for the indemnified parties, or (iv) the settlement includes terms other than a full release of liability for the indemnified parties and the payment of money.
+
+CONFIDENTIALITY
 ---------------
 
-No waiver by Synthesia of any term or condition set forth in these Terms shall be deemed a further or continuing waiver of such term or condition, or a waiver of any other term or condition, and any failure of Synthesia to assert a right or provision under these Terms shall not constitute a waiver of such right or provision.
+### Confidential Information
 
-#### **‍**
+Each party (“**Disclosing Party**”) may disclose “**Confidential Information**” to the other party (“**Receiving Party**”) in connection with the Contract, which is anything that reasonably should be understood to be confidential given the nature of the information and the circumstances of disclosure including all Order Forms, as well as non-public business, product, technology and marketing information. Confidential Information of Customer includes Customer Data. If something is labeled “Confidential,” that’s a clear indicator to the Receiving Party that the material is confidential. Notwithstanding the above, Confidential Information does not include information that (a) is or becomes generally available to the public without breach of any obligation owed to the Disclosing Party; (b) was known to the Receiving Party prior to its disclosure by the Disclosing Party without breach of any obligation owed to the Disclosing Party; or (c) is received from a third party without breach of any obligation owed to the Disclosing Party; (d) was independently developed by the Receiving Party.
 
-**24\. Severability**
----------------------
+### Protection and Use of Confidential Information
 
-If any provision of these Terms is held by a court or other tribunal of competent jurisdiction to be invalid, illegal or unenforceable for any reason, such provision shall be eliminated or limited to the minimum extent such that the remaining provisions of these Terms will continue in full force and effect.
+The Receiving Party will (a) take at least reasonable measures to prevent the unauthorized disclosure or use of Confidential Information, and limit access to those employees, affiliates and contractors who need to know such information in connection with the Contract ; and (b) not use or disclose any Confidential Information of the Disclosing Party for any purpose outside the scope of this Contract. Nothing above will prevent either party from sharing Confidential Information with financial and legal advisors; provided, however, that the advisors are bound to confidentiality obligations at least as restrictive as those in the Contract.
 
-#### **‍**
+### Compelled Access or Disclosure
 
-**25\. Assignment**
--------------------
+The Receiving Party may access or disclose Confidential Information of the Disclosing Party if it is required by law; provided, however, that the Receiving Party gives the Disclosing Party prior notice of the compelled access or disclosure (to the extent legally permitted) and reasonable assistance, at the Disclosing Party's cost, if the Disclosing Party wishes to contest the access or disclosure. Without limiting the foregoing, please review the [Data Request Policy](https://www.synthesia.io/legal/data-request-policy)  for details on how requests may be made for the disclosure of Customer Data and how we will handle those requests. If the Receiving Party is compelled by law to access or disclose the Disclosing Party’s Confidential Information, the Disclosing Party will reimburse the Receiving Party for its reasonable cost of compiling and providing access to such Confidential Information as well as the reasonable cost for any support provided in connection with the Disclosing Party seeking a protective order or confidential treatment for the Confidential Information to be produced.
 
-We may transfer our rights and obligations under these Terms to another organisation. We will always tell you in writing if this happens and we will ensure that the transfer will not affect your rights.
+SURVIVAL
+--------
 
-You may not transfer any of your rights and obligations under these Terms to any other person without our prior express written consent.
+The sections titled “Feedback is Welcome,” “Synthesia as a Platform,” “Use of the Services,” “Our Removal Rights,” “Payment Terms,” “Credits,” “The Synthesia Extended Family,” “What’s Yours is Yours …,” “And What’s Ours is Ours,” “Effect of Termination,” “Data Portability and Deletion,” “Representations; Disclaimer of Warranties,” “Limitation of Liability,” “Our Indemnification of Customer,” “Customer’s Indemnification of Us,” “Limitations on Indemnifications,” “Confidentiality” and “Survival,” as well as all of the provisions under the general heading “General Provisions,” will survive any termination or expiration of the Contract.
 
-#### **‍**
+GENERAL PROVISIONS
+------------------
 
-**26\. Acknowledgement**
-------------------------
+### Publicity
 
-BY USING THE SERVICE OR OTHER SERVICES PROVIDED BY US, YOU ACKNOWLEDGE THAT YOU HAVE READ THESE TERMS AND AGREE TO BE BOUND BY THEM.
+Customer grants us the right to use Customer’s company name and logo as a reference for marketing or promotional purposes on our website and in other public or private communications with our existing or potential customers, subject to Customer’s standard trademark usage guidelines as provided to us from time-to-time. We don’t want to list customers who don’t want to be listed, so Customer may send us an email to support@synthesia.io stating that it does not wish to be used as a reference.
 
-#### **‍**
+### Force Majeure
 
-**27\. Contact Us**
--------------------
+Neither us nor Customer will be liable by reason of any failure or delay in the performance of its obligations on account of events beyond the reasonable control of a party, which may include denial-of-service attacks, a failure by a third party hosting provider or utility provider, strikes, shortages, riots, fires, acts of God, war, terrorism, and governmental action.
 
-The Platform is operated by Synthesia Limited. Our registered address is Kent House, 14/17 Market Place, London W1W 8AJ, United Kingdom.
+### Relationship of the Parties; No Third Party Beneficiaries
 
-Please send your feedback, comments, requests for technical support by email at: support@synthesia.io.
+The parties are independent contractors. The Contract does not create a partnership, franchise, joint venture, agency, fiduciary or employment relationship between the parties. There are no third party beneficiaries to the Contract.
 
-#### ‍
+### Email Notices
 
-Previous versions of the Terms of Service document:
+Except as otherwise set forth herein, all notices under the Contract will be by email, although we may instead choose to provide notice to Customer through the Services (e.g., a Synthesia Platform notification). Notices to Synthesia will be sent to support@synthesia.io, except for legal notices, such as notices of termination or an indemnifiable claim, which must be sent to legal@synthesia.io. Notices will be deemed to have been duly given (a) the day after it is sent, in the case of notices through email; and (b) the same day, in the case of notices through the Services.
 
-‍
+### Modifications
 
-_Version of November 10th, 2021 available_ [_here_](https://www.synthesia.io/terms/terms-of-service-old-20220203)
+As our business evolves, we may change these Customer Terms and the other components of the Contract (except any Order Forms). If we make a material change to the Contract, we will provide Customer with reasonable notice prior to the change taking effect, either by emailing the email address associated with Customer’s account or by messaging Customer through the Services. Customer can review the most current version of the Customer Terms at any time by visiting this page and by visiting the most current versions of the other pages that are referenced in the Contract. The materially revised Contract will become effective on the date set forth in our notice, and all other changes will become effective upon posting of the change. If Customer (or any Authorized Personnel) accesses or uses the Services after the effective date, that use will constitute Customer’s acceptance of any revised terms and conditions. 
 
-_Version of February 3rd, 2022 available_ [_here_](https://www.synthesia.io/terms/terms-of-service-2022-02-03)
+### Waiver
 
-_Version of March 31st, 2022 available_ [_here_](https://www.synthesia.io/terms/terms-of-service-old-20220531)
+No failure or delay by either party in exercising any right under the Contract will constitute a waiver of that right. No waiver under the Contract will be effective unless made in writing and signed by an authorized representative of the party being deemed to have granted the waiver.
 
-‍
+### Severability
+
+The Contract will be enforced to the fullest extent permitted under applicable law. If any provision of the Contract is held by a court of competent jurisdiction to be contrary to law, the provision will be modified by the court and interpreted so as best to accomplish the objectives of the original provision to the fullest extent permitted by law, and the remaining provisions of the Contract will remain in effect.
+
+### Assignment
+
+Except with respect to the Synthesia Extended Family, neither party may assign or delegate any of its rights or obligations hereunder, whether by operation of law or otherwise, without the prior written consent of the other party (not to be unreasonably withheld). Notwithstanding the foregoing, either party may assign the Contract in its entirety (including all Order Forms), without consent of the other party, to a corporate affiliate or in connection with a merger, acquisition, corporate reorganization, or sale of all or substantially all of its assets. Customer will keep its billing and contact information current at all times by notifying Synthesia of any changes. Any purported assignment in violation of this section is void. A party’s sole remedy for any purported assignment by the other party in breach of this section will be, at the non-assigning party’s election, termination of the Contract upon written notice to the assigning party. In the event of such a termination by Customer, we will refund Customer any prepaid fees covering the remainder of the term of all subscriptions after the effective date of termination. Subject to the foregoing, the Contract will bind and inure to the benefit of the parties, their respective successors and permitted assigns.
+
+### Which Synthesia Entity is Customer Contracting With?
+
+All references to ‘Synthesia,’ ‘we,’ or ‘us’ under the Contract, what law will apply in any dispute or lawsuit arising out of or in connection with the Contract, and which courts have jurisdiction over any such dispute or lawsuit, shall be as follows:
+
+| Domicile | Synthesia Contracting Entity | Governing Law | Venue |
+| --- | --- | --- | --- |
+| United Kingdom | Synthesia Limited | England & Wales | London, England |
+| Europe | Synthesia Limited | Ireland | Dublin, Ireland |
+| Rest of World | Synthesia Limited | California | San Francisco County, California |
+
+The Contract, and any disputes arising out of or related hereto, will be governed exclusively by the applicable governing law above, without regard to conflicts of laws rules or the United Nations Convention on the International Sale of Goods. The courts located in the applicable venue above will have exclusive jurisdiction to adjudicate any dispute arising out of or relating to the Contract or its formation, interpretation or enforcement. Each party hereby consents and submits to the exclusive jurisdiction of such courts. In any action or proceeding to enforce rights under the Contract, the prevailing party will be entitled to recover its reasonable costs and attorney’s fees.
+
+### Entire Agreement
+
+The Contract, including these Customer Terms and all referenced pages and Order Forms, if applicable, constitutes the entire agreement between the parties and supersedes all prior and contemporaneous agreements, proposals or representations, written or oral, concerning its subject matter. No representation, undertaking or promise shall be taken to have been given or be implied from anything said or written in negotiations between the parties prior to this Contract except as expressly stated in this Contract. Without limiting the foregoing, the Contract supersedes the terms of any online agreement electronically accepted by Customer. However, to the extent of any conflict or inconsistency between the provisions in these Customer Terms and any other documents or pages referenced in these Customer Terms, the following order of precedence will apply: (1) the terms of any Order Form (if any), (2) the portions of the [Customer-Specific Supplement](https://www.synthesia.io/legal/customer-specific-supplement) that apply to Customer (if any), (3) the Customer Terms and (4) finally any other documents or pages referenced in the Customer Terms. Notwithstanding any language to the contrary therein, no terms or conditions stated in a Customer purchase order, vendor onboarding process or web portal, or any other Customer order documentation (excluding Order Forms) will be incorporated into or form any part of the Contract, and all such terms or conditions will be null and void.
+
+HIGHLIGHTED VIDEO
+
+HIGHLIGHTED VIDEO
+
+HIGHLIGHTED VIDEO
+
+Recommended videos
+
+![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/66179f005533df0b976958c3_Headset-White.svg)
+
+Need more help?
+
+If you need assistance with Synthesia or have a question about our products or services, please contact our customer support team.
+
+[Get in touch](mailto:support@synthesia.io?subject=Need%20more%20help?&body=If%20you%20need%20assistance%20with%20Synthesia%20or%20have%20a%20question%20about%20our%20products%20or%20services,%20please%20contact%20our%20customer%20support%20team.)
+
+Ready to try our AI video platform?
+-----------------------------------
+
+Join over 1M+ users today and start making AI videos with 230+ avatars in 140+ languages.
+
+[Get started](https://www.synthesia.io/pricing)[Book demo](https://www.synthesia.io/book-a-demo)
+
+![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/66e29871dd292f4642e087fd_Prefooter-poster.webp)![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/66e29871dd292f4642e087fd_Prefooter-poster.webp "Your browser does not support the <video> tag")
+
+![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/66e2aaafbb07871299aa26c1_Pre-footer-img-230.webp)
+
+![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/6616a999987b13e0a37360a4_pre-footer-dark.webp)
 
 [![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/65eae6894e82dff052cd139f_Logo-white.svg)](https://www.synthesia.io/?r=0)
 
-[en](https://www.synthesia.io/terms/terms-of-service)
+[en](https://www.synthesia.io/legal/customer-terms-of-service)
 
-[fr](https://www.synthesia.io/fr/terms/terms-of-service)
+[fr](https://www.synthesia.io/fr/legal/customer-terms-of-service)
 
-[de](https://www.synthesia.io/de/terms/terms-of-service)
+[de](https://www.synthesia.io/de/legal/customer-terms-of-service)
 
-[es](https://www.synthesia.io/es/terms/terms-of-service)
+[es](https://www.synthesia.io/es/legal/customer-terms-of-service)
 
 [en
 
-English](https://www.synthesia.io/terms/terms-of-service)
+English](https://www.synthesia.io/legal/customer-terms-of-service)
 
 [fr
 
-Français](https://www.synthesia.io/fr/terms/terms-of-service)
+Français](https://www.synthesia.io/fr/legal/customer-terms-of-service)
 
 [de
 
-Deutsch](https://www.synthesia.io/de/terms/terms-of-service)
+Deutsch](https://www.synthesia.io/de/legal/customer-terms-of-service)
 
 [es
 
-Español](https://www.synthesia.io/es/terms/terms-of-service)
+Español](https://www.synthesia.io/es/legal/customer-terms-of-service)
 
 Synthesia is the #1 AI Video Communications Platform. Our [AI Video Generator](https://www.synthesia.io/?r=0) enables everyone to create professional videos without mics, cameras, actors or studios.  
   
