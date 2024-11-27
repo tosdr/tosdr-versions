@@ -30,14 +30,15 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/de585f37-9948-4de4-be6f-551e34da40f0/20241127T040723/de585f37-9948-4de4-be6f-551e34da40f0_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/de585f37-9948-4de4-be6f-551e34da40f0/20241127T040723/de585f37-9948-4de4-be6f-551e34da40f0_360x203.jpg)](https://www.wqad.com/article/news/local/davenport-city-council-votes-no-hotel-development/526-2ac7548c-20c1-4eee-b7ad-2df582631ff9)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/aa9a6c71-9860-4dca-b02c-b5cdbaefe3c0/20241125T224234/aa9a6c71-9860-4dca-b02c-b5cdbaefe3c0_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/aa9a6c71-9860-4dca-b02c-b5cdbaefe3c0/20241125T224234/aa9a6c71-9860-4dca-b02c-b5cdbaefe3c0_360x203.jpg)](https://www.wqad.com/article/news/local/east-moline-correctional-center-lockdown/526-769f86b6-71d6-486b-a55f-8df2ccf25602)
         
-        #### [Davenport City Council rejects hotel development incentive](https://www.wqad.com/article/news/local/davenport-city-council-votes-no-hotel-development/526-2ac7548c-20c1-4eee-b7ad-2df582631ff9)
+        #### [Lockdown lifted at East Moline Correctional Center](https://www.wqad.com/article/news/local/east-moline-correctional-center-lockdown/526-769f86b6-71d6-486b-a55f-8df2ccf25602)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/b882a18c-4878-415e-9a56-357534e57001/20241127T042054/b882a18c-4878-415e-9a56-357534e57001_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b882a18c-4878-415e-9a56-357534e57001/20241127T042054/b882a18c-4878-415e-9a56-357534e57001_360x203.jpg)](https://www.wqad.com/article/news/local/trump-mass-deportation-illegal-immigration-quad-cities-immigrants-react/526-bfb5ee53-5a56-43f0-96b3-889da6089fdd)
+    *  [![](https://media.tegna-media.com/assets/WTOL/images/e6a46ce0-5c9c-4bfe-b123-4c9c9eb705c6/20241127T155720/e6a46ce0-5c9c-4bfe-b123-4c9c9eb705c6_16x9.jpg) ![](https://media.tegna-media.com/assets/WTOL/images/e6a46ce0-5c9c-4bfe-b123-4c9c9eb705c6/20241127T155720/e6a46ce0-5c9c-4bfe-b123-4c9c9eb705c6_360x203.jpg)](https://www.wqad.com/article/news/local/illinois-hunters-54000-deer-opening-weekend-firearm-hunting-season/526-9955a1ad-b125-4d0a-9b17-5871be77d2f8)
         
-        #### [Quad Cities immigrants react to Trump's proposed mass deportation plan](https://www.wqad.com/article/news/local/trump-mass-deportation-illegal-immigration-quad-cities-immigrants-react/526-bfb5ee53-5a56-43f0-96b3-889da6089fdd)
+        #### [Illinois hunters bagged more than 54,000 deer during the opening weekend of firearm deer season](https://www.wqad.com/article/news/local/illinois-hunters-54000-deer-opening-weekend-firearm-hunting-season/526-9955a1ad-b125-4d0a-9b17-5871be77d2f8) [![](https://media.tegna-media.com/assets/WTOL/images/e6a46ce0-5c9c-4bfe-b123-4c9c9eb705c6/20241127T155720/e6a46ce0-5c9c-4bfe-b123-4c9c9eb705c6_16x9.jpg) ![](https://media.tegna-media.com/assets/WTOL/images/e6a46ce0-5c9c-4bfe-b123-4c9c9eb705c6/20241127T155720/e6a46ce0-5c9c-4bfe-b123-4c9c9eb705c6_360x203.jpg)](https://www.wqad.com/article/news/local/illinois-hunters-54000-deer-opening-weekend-firearm-hunting-season/526-9955a1ad-b125-4d0a-9b17-5871be77d2f8)
         
+        #### [More than 54,000 deer harvested during opening weekend of Illinois firearm deer hunting season](https://www.wqad.com/article/news/local/illinois-hunters-54000-deer-opening-weekend-firearm-hunting-season/526-9955a1ad-b125-4d0a-9b17-5871be77d2f8)
     
 * [Weather](https://www.wqad.com/weather)
     
@@ -56,13 +57,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/445b57a7-3686-4bd1-bf39-d859b005fc71/20241127T131500/445b57a7-3686-4bd1-bf39-d859b005fc71_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/445b57a7-3686-4bd1-bf39-d859b005fc71/20241127T131500/445b57a7-3686-4bd1-bf39-d859b005fc71_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
-        
-        #### [Dry and comfortable Wednesday; Big chill arrives for Thanksgiving](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
-        
     *  [![](https://media.tegna-media.com/assets/WCNC/images/a11cb4f4-9f11-4770-b48b-af0d48f1ce2c/a11cb4f4-9f11-4770-b48b-af0d48f1ce2c_16x9.jpeg) ![](https://media.tegna-media.com/assets/WCNC/images/a11cb4f4-9f11-4770-b48b-af0d48f1ce2c/a11cb4f4-9f11-4770-b48b-af0d48f1ce2c_360x203.jpeg)](https://www.wqad.com/article/weather/historical-level-cold-iowa-state-cyclones-hawkeyes-football-weather/524-0bf8d5bd-3157-4c2b-837b-698d6104639b)
         
         #### [Historically cold football games for both Iowa and Iowa State this week](https://www.wqad.com/article/weather/historical-level-cold-iowa-state-cyclones-hawkeyes-football-weather/524-0bf8d5bd-3157-4c2b-837b-698d6104639b)
+        
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/445b57a7-3686-4bd1-bf39-d859b005fc71/20241127T131500/445b57a7-3686-4bd1-bf39-d859b005fc71_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/445b57a7-3686-4bd1-bf39-d859b005fc71/20241127T131500/445b57a7-3686-4bd1-bf39-d859b005fc71_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        
+        #### [Dry and comfortable Wednesday; Big chill arrives for Thanksgiving](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +87,9 @@ Navigation
 
 Davenport, IA »
 
-37°
+39°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
