@@ -94,7 +94,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Like brain cells, kidney cells can ‘remember’](https://www.sciencenews.org/article/brain-kidney-cells-memory)
             
-            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")5 hours ago
+            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")11 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
@@ -124,13 +124,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Like brain cells, kidney cells can ‘remember’](https://www.sciencenews.org/article/brain-kidney-cells-memory)
             
-            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")5 hours ago
+            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")11 hours ago
             
         * [Paleontology](https://www.sciencenews.org/topic/paleontology)
             
             ### [China’s famously rich dinosaur fossil beds get a new origins story](https://www.sciencenews.org/article/china-fossil-beds-new-origins-story)
             
-            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")8 hours ago
+            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")14 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
