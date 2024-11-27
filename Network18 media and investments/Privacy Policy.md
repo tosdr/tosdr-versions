@@ -17,7 +17,7 @@ English Edition
 * [অসমীয়া (Assam)](https://assam.news18.com/)
 * [ଓଡ଼ିଆ (Odia)](https://odia.news18.com/)
 
-Wed, Nov 27, 2024
+Thu, Nov 28, 2024
 
 [Download News18 APP](https://onelink.to/eng-web-other)[Watch LIVE TV](https://www.news18.com/livetv/)
 
@@ -130,11 +130,11 @@ English
 * Top Trends
     * [Sreeleela](https://www.news18.com/web-stories/celebrities/5-south-diva-sreeleela-inspired-glamourous-ethnic-looks-2639695/)
     * [Taj Mahal](https://www.news18.com/viral/foreigner-visits-taj-mahal-with-elderly-father-shares-frustration-on-social-media-in-viral-video-9135413.html)
-    * [D Gukesh vs Ding Liren](https://www.news18.com/sports/d-gukesh-vs-ding-liren-live-updates-chess-world-championship-final-game-3-streaming-watch-free-timing-record-head-to-head-liveblog-9135627.html)
+    * [Kamala Harris](https://www.news18.com/world/is-she-drunk-kamala-harris-emotional-video-after-us-election-defeat-sparks-concerns-watch-9136288.html)
     * [Maharashtra CM](https://www.news18.com/elections/maharashtra-assembly-election-result-2024-live-government-formation-devendra-fadnavis-eknath-shinde-ajit-pawar-chief-minister-bjp-shiv-sena-ncp-latest-news-liveblog-9135300.html)
-    * [Dhanush](https://www.news18.com/movies/dhanush-sues-nayanthara-vignesh-sivan-over-unauthorised-naanum-rowdy-dhaan-footage-in-netflix-docu-9135667.html)
-    * [AR Rahman](https://www.news18.com/movies/ar-rahman-looks-heartbroken-in-first-appearance-after-separating-from-saira-banu-video-goes-viral-9136013.html?utm_campaign=promotion&utm_source=izooto&utm_medium=push_notifications)
+    * [Suhana Khan](https://www.news18.com/web-stories/celebrities/5-suhana-khan-inspired-saree-blouses-for-marriage-season-2639121/)
     * [KKR Captain](https://www.news18.com/cricket/ipl-2025-kolkata-knight-riders-venky-mysore-ajinkya-rahane-new-kkr-captain-venkatesh-iyer-9134717.html)
+    * [Eknath Shinde](https://www.news18.com/politics/eknath-shinde-demands-mahayuti-convener-position-seeks-maharashtra-deputy-cm-post-for-son-shrikant-shinde-sources-9135494.html)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
     * [Check Credit Score](https://www.moneycontrol.com/credit-score?utm_source=News18English&utm_medium=Email&utm_campaign=CBEnglish)
@@ -172,11 +172,11 @@ In Trends:
 
 * [Sreeleela](https://www.news18.com/web-stories/celebrities/5-south-diva-sreeleela-inspired-glamourous-ethnic-looks-2639695/)
 * [Taj Mahal](https://www.news18.com/viral/foreigner-visits-taj-mahal-with-elderly-father-shares-frustration-on-social-media-in-viral-video-9135413.html)
-* [D Gukesh vs Ding Liren](https://www.news18.com/sports/d-gukesh-vs-ding-liren-live-updates-chess-world-championship-final-game-3-streaming-watch-free-timing-record-head-to-head-liveblog-9135627.html)
+* [Kamala Harris](https://www.news18.com/world/is-she-drunk-kamala-harris-emotional-video-after-us-election-defeat-sparks-concerns-watch-9136288.html)
 * [Maharashtra CM](https://www.news18.com/elections/maharashtra-assembly-election-result-2024-live-government-formation-devendra-fadnavis-eknath-shinde-ajit-pawar-chief-minister-bjp-shiv-sena-ncp-latest-news-liveblog-9135300.html)
-* [Dhanush](https://www.news18.com/movies/dhanush-sues-nayanthara-vignesh-sivan-over-unauthorised-naanum-rowdy-dhaan-footage-in-netflix-docu-9135667.html)
-* [AR Rahman](https://www.news18.com/movies/ar-rahman-looks-heartbroken-in-first-appearance-after-separating-from-saira-banu-video-goes-viral-9136013.html?utm_campaign=promotion&utm_source=izooto&utm_medium=push_notifications)
+* [Suhana Khan](https://www.news18.com/web-stories/celebrities/5-suhana-khan-inspired-saree-blouses-for-marriage-season-2639121/)
 * [KKR Captain](https://www.news18.com/cricket/ipl-2025-kolkata-knight-riders-venky-mysore-ajinkya-rahane-new-kkr-captain-venkatesh-iyer-9134717.html)
+* [Eknath Shinde](https://www.news18.com/politics/eknath-shinde-demands-mahayuti-convener-position-seeks-maharashtra-deputy-cm-post-for-son-shrikant-shinde-sources-9135494.html)
 
 * Follow Us
 * [](https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J)
@@ -430,7 +430,7 @@ This Policy was last updated as of 14th November 2024.
 
 ![](https://images.news18.com/ibnlive/uploads/2021/07/1627283897_news18_logo-1200x800.jpg)
 
-Nov 27, 2024
+Nov 28, 2024
 
 [View All](https://www.news18.com/short-news/)
 
