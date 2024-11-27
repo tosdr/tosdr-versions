@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/wetenschap/klimaat/is-rudy-bouma-nos-die-alles-wetende-fact-checker/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/artsen-geven-toe-kankerdiagnose-uit-winstbejag/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
