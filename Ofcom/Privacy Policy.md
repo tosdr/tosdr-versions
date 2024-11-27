@@ -161,7 +161,7 @@
 
 1. [Home](https://www.ofcom.org.uk/)
 2. [About Ofcom](https://www.ofcom.org.uk/about-ofcom/)
-3. [Corporate policies](https://www.ofcom.org.uk/about-ofcom/corporate-policies/)
+3. [Corporate policies](https://www.ofcom.org.uk/about-ofcom/corporate-policies/?language=en)
 4. General Privacy Statement
 
 **HELP US MAKE OFCOM’S WEBSITE BETTER!** 
@@ -171,7 +171,7 @@ Share your experience in our [2\-minute survey](https://online1.snapsurveys.com/
 **General Privacy Statement – How we handle your personal data**
 ================================================================
 
-[About Ofcom](https://www.ofcom.org.uk/about-ofcom/) [Corporate policies](https://www.ofcom.org.uk/about-ofcom/corporate-policies/)
+[About Ofcom](https://www.ofcom.org.uk/about-ofcom/) [Corporate policies](https://www.ofcom.org.uk/about-ofcom/corporate-policies/?language=en)
 
 Published: 10 February 2023
 
