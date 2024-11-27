@@ -1261,7 +1261,7 @@ Dated: 11 Oct-2022
 
 ### Cookie Policy
 
-Date of most recent update: 1st July 2022.
+Date of most recent update: 27th November 2024.
 
 PLEASE READ THIS POLICY CAREFULLY BEFORE USING OUR WEBSITES
 
@@ -1287,7 +1287,7 @@ You can learn about the cookies we use and how to manage them below.
 
 **What type of cookies Bank use?**
 
-The type of cookies used on most websites can generally be put into 1 of 4 categories: Strictly Necessary, Performance, Functionality and Targeting.
+The type of cookies used on most websites can generally be put into 1 of 5 categories: Strictly Necessary, Performance, Functionality, Targeting and Advertising.
 
 Strictly Necessary Cookies
 
@@ -1311,7 +1311,9 @@ These cookies are used to tailor marketing to you and your interests. They are a
 
 Without these cookies, online advertisements you encounter will be less relevant to you and your interests.
 
-  
+Advertising Cookies  
+Advertising cookies, also known as tracking cookies or third-party cookies, are small text files stored on your device by websites you visit. They are used to track your browsing behavior, interests, and demographics to deliver targeted advertisements.  
+​​​​​​​  
 
 **What happens if I disable cookies?**
 
