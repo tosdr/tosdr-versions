@@ -2,72 +2,172 @@
 
 ![Proton](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/proton-black_zvq72v.svg)![VPN](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/vpn-purple_afexu9.svg)](https://protonvpn.com/)
 
-* Features
+* Why Proton VPN
     
-    [All features
+    [What is a VPN?
     
-    Advanced security and privacy](https://protonvpn.com/features)[Why Proton VPN
+    Find out what a VPN is, how it works, and when to use one.](https://protonvpn.com/what-is-a-vpn)[Why Proton VPN?
     
-    Open source, independently-audited and transparent](https://protonvpn.com/why-proton-vpn)[What is a VPN?
+    No logs, no ads, open-source and independently audited.](https://protonvpn.com/why-proton-vpn)[All features
     
-    What a VPN is, how it works, and when to use one](https://protonvpn.com/what-is-a-vpn)[VPN servers
+    Learn how our advanced security and privacy features allow you to browse the web with peace of mind.](https://protonvpn.com/features)[VPN servers
     
-    Truly global connectivity](https://protonvpn.com/vpn-servers)
+    Servers in 110+ countries for truly global connectivity.](https://protonvpn.com/vpn-servers)
+    
+    * * *
+    
+    [VPN for Streaming
+    
+    Watch what you want, when you want, from wherever you want with Proton VPN.](https://protonvpn.com/streaming)
+    
+    * * *
+    
+    Countries
+    
+    [United States](https://protonvpn.com/vpn-servers/usa)[United Kingdom](https://protonvpn.com/vpn-servers/uk)[France](https://protonvpn.com/vpn-servers/france)[All countries](https://protonvpn.com/vpn-servers)
+    
+    Services
+    
+    [Netflix](https://protonvpn.com/streaming/netflix)[Amazon Prime Video](https://protonvpn.com/support/watch-amazon-prime-with-vpn)[Disney+](https://protonvpn.com/streaming/disney-plus)[All services](https://protonvpn.com/streaming/services)
+    
+    Devices
+    
+    [Android TV](https://protonvpn.com/download-androidtv)[Fire Stick](https://protonvpn.com/support/firestick)[Apple TV](https://protonvpn.com/download-appletv)[All devices](https://protonvpn.com/streaming/devices)
     
 * [Pricing](https://protonvpn.com/pricing)
 * Download
     
-    Desktop
+    Devices
     
-    [VPN for Windows](https://protonvpn.com/download-windows)[VPN for macOS](https://protonvpn.com/download-macos)[VPN for Linux](https://protonvpn.com/download-linux)
+    [Windows](https://protonvpn.com/download-windows)[macOS](https://protonvpn.com/download-macos)[Linux](https://protonvpn.com/download-linux)[Chromebook](https://protonvpn.com/download-chromebook)[Android](https://protonvpn.com/download-android)[iPhone / iPad](https://protonvpn.com/download-ios)
     
-    Mobile
+    VPN extensions
     
-    [VPN for iPhone / iPad](https://protonvpn.com/download-ios)[VPN for Android](https://protonvpn.com/download-android)
+    [Chrome](https://protonvpn.com/download-chrome-extension)[Firefox](https://protonvpn.com/download-firefox-extension)
     
-    Extension
+    Smart TV
     
-    [Chrome](https://protonvpn.com/download-chrome-extension)[Firefox](https://protonvpn.com/download-firefox-extension) [Android TV](https://protonvpn.com/download-androidtv)[Apple TV](https://protonvpn.com/download-appletv)[Chromebook](https://protonvpn.com/download-chromebook)
+    [Android TV](https://protonvpn.com/download-androidtv)[Apple TV](https://protonvpn.com/download-appletv)[Firestick](https://protonvpn.com/support/firestick)
+    
+    * * *
+    
+    [Auto-detect the right version for your device](https://protonvpn.com/download)
     
 * Resources
     
-    [Help & support
+    Help and support
     
-    Guides and customer support for Proton VPN](https://protonvpn.com/support)[Blog
+    [Proton VPN support](https://protonvpn.com/support)
     
-    Latest news on privacy and the internet](https://protonvpn.com/blog)[VPN for streaming
+    Resources
     
-    Watch what you want, when you want, from wherever you want with Proton VPN](https://protonvpn.com/streaming)
+    [Proton VPN Observatory
     
-* [Business VPN](https://protonvpn.com/business?ref=pvpnb2cheader)
+    Documenting spikes in Proton VPN use as people fight for online freedom.](https://protonvpn.com/internet-censorship-observatory)
+    
+    Blog
+    
+    [Proton VPN blog](https://protonvpn.com/blog)[Proton news
+    
+    (new window)](https://proton.me/blog/news?ref=pvpn_support_b2c_vpn_submenu)[Privacy guides
+    
+    (new window)](https://proton.me/blog/privacy-guides?ref=pvpn_support_b2c_vpn_submenu)
+    
+* [Business VPN(new window)](https://proton.me/business/vpn?ref=pvpn_support_b2c_vpn_menu)
 
-* [Sign in](https://account.protonvpn.com/login)
-* [Create account](https://protonvpn.com/pricing)
+Discover Proton
 
-* [![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/icons/mail_xxy4bg.svg)
-    
-    ![Proton](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/proton-black_zvq72v.svg)![Mail](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/mail-purple_resbmb.svg)
-    
-    (new window)](https://proton.me/mail?ref=pvpncom)[![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/icons/calendar_ylg2jq.svg)
-    
-    ![Proton](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/proton-black_zvq72v.svg)![Calendar](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/calendar-purple_axpwhi.svg)
-    
-    (new window)](https://proton.me/calendar?ref=pvpncom)[![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/icons/drive_wo2nx4.svg)
-    
-    ![Proton](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/proton-black_zvq72v.svg)![Drive](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/drive-purple_gvgywi.svg)
-    
-    (new window)](https://proton.me/drive?ref=pvpncom)[![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/icons/vpn_f9embt.svg)
-    
-    ![Proton](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/proton-black_zvq72v.svg)![VPN](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/vpn-purple_afexu9.svg)](https://protonvpn.com/)[![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/icons/pass_wl1fk9.svg)
-    
-    ![Proton](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/proton-black_zvq72v.svg)![Pass](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/pass-purple_h2rbko.svg)
-    
-    (new window)](https://proton.me/pass?ref=pvpncom)[![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/icons/wallet_hnlslt.svg)
-    
-    ![Proton](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/proton-black_zvq72v.svg)![Wallet](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/wallet-purple_gxmyyv.svg)
-    
-    (new window)](https://proton.me/wallet?ref=pvpncom)
-    
+[Proton
+
+A better internet starts with privacy and freedom.
+
+(new window)](https://proton.me/?ref=pvpn_support_b2c_vpn_submenu)[About us
+
+Proton stands for privacy. Always has, always will.
+
+(new window)](https://proton.me/about?ref=pvpn_support_b2c_vpn_submenu)[Team
+
+Meet the people building a better internet.
+
+(new window)](https://proton.me/about/team?ref=pvpn_support_b2c_vpn_submenu)[Impact
+
+Defending freedom through tech is why we exist.
+
+(new window)](https://proton.me/about/impact?ref=pvpn_support_b2c_vpn_submenu)[CareersWe're hiring
+
+Seeking talented people to take Proton to the next level.
+
+(new window)](https://proton.me/careers?ref=pvpn_support_b2c_vpn_submenu)
+
+* * *
+
+We've always been guided by the Proton community.
+
+[Community
+
+Join the fight to make the internet a better place.
+
+(new window)](https://proton.me/community?ref=pvpn_support_b2c_vpn_submenu)[Open source
+
+Everyone is welcome to inspect our code. We're open.
+
+(new window)](https://proton.me/community/open-source?ref=pvpn_support_b2c_vpn_submenu)[Proton Foundation
+
+Our non-profit model puts people before profit.
+
+(new window)](https://proton.me/foundation?ref=pvpn_support_b2c_vpn_submenu)
+
+* * *
+
+[![Proton Mail](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/icons/mail_xxy4bg.svg)
+
+![Proton](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/proton-black_zvq72v.svg)![Mail](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/mail-purple_resbmb.svg)
+
+Encrypted email that's private by default.
+
+(new window)](https://proton.me/mail?ref=pvpn_support_b2c_vpn_submenu)[![Proton Calendar](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/icons/calendar_ylg2jq.svg)
+
+![Proton](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/proton-black_zvq72v.svg)![Calendar](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/calendar-purple_axpwhi.svg)
+
+Your calendar is a record of your life. Keep it safe.
+
+(new window)](https://proton.me/calendar?ref=pvpn_support_b2c_vpn_submenu)[![Proton Drive](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/icons/drive_wo2nx4.svg)
+
+![Proton](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/proton-black_zvq72v.svg)![Drive](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/drive-purple_gvgywi.svg)
+
+Secure cloud storage that gives you control of your data.
+
+(new window)](https://proton.me/drive?ref=pvpn_support_b2c_vpn_submenu)[![Proton VPN](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/icons/vpn_f9embt.svg)
+
+![Proton](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/proton-black_zvq72v.svg)![VPN](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/vpn-purple_afexu9.svg)
+
+Your gateway to online freedom.](https://protonvpn.com/)[![Proton Pass](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/icons/pass_wl1fk9.svg)
+
+![Proton](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/proton-black_zvq72v.svg)![Pass](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/pass-purple_h2rbko.svg)
+
+An encrypted password manager that protects your online identity.
+
+(new window)](https://proton.me/pass?ref=pvpn_support_b2c_vpn_submenu)[![Proton Wallet](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/icons/wallet_hnlslt.svg)
+
+![Proton](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/proton-black_zvq72v.svg)![Wallet](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/wallet-purple_gxmyyv.svg)
+
+Store and transact Bitcoin privately with an encrypted self-custody wallet.
+
+(new window)](https://proton.me/wallet?ref=pvpn_support_b2c_vpn_submenu)
+
+* * *
+
+[![Proton](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/proton-black_zvq72v.svg)
+
+![For Business](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/business-black_xc1ryk.svg)
+
+Improve the security of your business and comply with data protection laws.
+
+(new window)](https://proton.me/business?ref=pvpn_support_b2c_vpn_submenu)
+
+[Create account](https://protonvpn.com/pricing)
+
+[Sign in](https://account.protonvpn.com/login)
 
 Open menu
 
@@ -134,7 +234,7 @@ Partnerships contact[partners@proton.me](mailto:partners@proton.me)
 * [![Facebook](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/facebook.svg)(new window)](https://www.facebook.com/Proton)
 * [![LinkedIn](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/linkedin.svg)(new window)](https://www.linkedin.com/company/protonprivacy/)
 * [![Mastodon](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/mastodon.svg)(new window)](https://mastodon.social/@protonprivacy)
-* [![RSS](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/rss.svg)](https://protonvpn.com/blog/feed)
+* [![RSS](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/rss.svg)(new window)](https://proton.me/blog/feed)
 * [![Threads](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/threads.svg)(new window)](https://www.threads.net/@protonprivacy)
 * [![WhatsApp](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/whatsapp.svg)(new window)](https://www.whatsapp.com/channel/0029VaErt8I4tRrjiU8eMd1U)
 * [![Telegram](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/telegram.svg)(new window)](https://t.me/proton_privacy)
