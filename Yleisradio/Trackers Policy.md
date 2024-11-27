@@ -326,9 +326,12 @@ Detailed information
 | applicationLanguage | yle.fi | permanent | Local storage | Remembering user-defined Yle Areena functional settings, such as the language of text playback. |
 | areena\_ab | yle.fi | 364 days | HTTP Cookie | Yle Areena's user tests. With the help of a cookie, users are drawn into groups that see a different Areena. |
 | audioSettings | yle.fi | permanent | Local storage | Remembering the preferred audio track for the end user. |
-| profile\_view\_shown | yle.fi | permanent | Local storage | Make it possible to show the profile view only once per session. |
+| production\_sub\_profile\_promotion\_shown | yle.fi | Permanent | Local storage | To remember the state of the promotion for sub profiles. |
+| profile-view-is-editing | yle.fi | Session | Session storage | Makes it possible to remember the state of editing for the profile. |
+| profile\_view\_shown | yle.fi | Session | Session storage | Makes it possible to only show the profile view once per session. |
 | profiles | yle.fi | permanent | Local storage | Remembering the user profiles logged in to the device. |
-| promotions | yle.fi | permanent | Local storage | Remembering the state of the prompt to login. |
+| regionalChannelPrefs | yle.fi | Permanent | Local storage | To remember the local radio channel choice. |
+| session\_user\_logged\_in | yle.fi | Session | Session storage | Makes it possible to skip the sub profile function straight after login. |
 | subtitleSettings | yle.fi | permanent | Local storage | Remembering the subtitle settings. |
 | userconsent | yle.fi | 365 days | HTTP Cookie | To control cookies and consents in Yle’s services. To show the cookie preferences in Yle’s services. To control permissions concerning the Yle ID agreement. |
 | yle.referrer.source |     |     | URL parameter | Analysis of the source of incoming traffic to the Yle App. |
