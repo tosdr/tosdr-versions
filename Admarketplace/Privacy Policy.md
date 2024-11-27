@@ -82,7 +82,7 @@ Learn more
 
 ![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/6736b24095fdfb599ceb66a9_arrow%20right.svg)](https://www.admarketplace.com/blog/marketing-leader-to-senior-product-manager-transforming-marketing-expertise-into-product-innovation-transitioning-from-a-career)
 
-[Log In](https://amplify.admarketplace.com/performance-overview)
+[Log In](https://my.admarketplace.com/login/login.html)
 
 [Contact Us](https://www.admarketplace.com/contact-us)
 
