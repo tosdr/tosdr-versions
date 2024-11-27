@@ -142,6 +142,8 @@ Table of Contents
 
 [22\. Applicable law and place of jurisdiction](#_Toc524517587)
 
+[23\. Account Suspension, Termination, and Community Safety](#_Toc524517599)
+
 [II. customer information](#_Toc524517588)  
 
 [1\. Identity of the provider](#_Toc524517589)
@@ -157,6 +159,8 @@ Table of Contents
 [6\. Statutory liability for defects](#_Toc524517594)
 
 [7\. Term of contract, termination](#_Toc524517595)
+
+[8\. Precedence of Terms and Conditions](#_Toc524517596)
 
 Data protection declaration
 ===========================
@@ -352,21 +356,17 @@ When using a mobile device, the following data is also stored:
 
 14.7 Further information on this and your rights in this regard can be found in the data protection declarations of the plug-in providers as the responsible bodies, which you can call up as follows:
 
-14.7.1 Facebook Inc, 1601 S California Ave, Palo Alto, California 94304 USA - https://www.facebook.com/policy.php
+14.7.1 Facebook Inc, 1601 S California Ave, Palo Alto, California 94304 USA - [https://www.facebook.com/policy.php](https://www.facebook.com/policy.php)
 
-14.7.2 Google+: Google Inc., 1600 Amphitheater Parkway, Mountain View, California 94103 USA – https://www.google.com/policies/privacy/partners/?hl=de
+14.7.2 Google+: Google Inc., 1600 Amphitheater Parkway, Mountain View, California 94103 USA - [https://www.google.com/policies/privacy/partners/](https://www.google.com/policies/privacy/partners/)
 
-14.7.3 Twitter: Twitter, Inc. 1355 Market St., Suite 900, San Francisco, California 94103 USA - https://twitter.com/privacy?lang=en
+14.7.3 Twitter: Twitter, Inc. 1355 Market St., Suite 900, San Francisco, California 94103 USA - [https://twitter.com/privacy?lang=en](https://twitter.com/privacy?lang=en)
 
 14.7.4 YouTube: YouTube, LLC (Google Inc.), 901 Cherry Ave., San Bruno, CA 94066 USA - [https://www.google.de/intl/de/policies/privacy/](https://www.google.de/intl/de/policies/privacy/)
 
-14.7.5 Twitch: Twitch Interactive, Inc., 350 Bush Street, 2nd Floor, San Francisco, CA 94104 USA
+14.7.5 Twitch: Twitch Interactive, Inc., 350 Bush Street, 2nd Floor, San Francisco, CA 94104 USA - [https://www.twitch.tv/p/de-de/legal/privacy-policy](https://www.twitch.tv/p/de-de/legal/privacy-policy/)
 
-\- [https://www.twitch.tv/p/de-de/legal/privacy-policy/](https://www.twitch.tv/p/de-de/legal/privacy-policy/)
-
-14.7.6 Instagram: Instagram LLC, 1601 Willow Road, Menlo Park, CA 94025 USA
-
-\- https:// help.instagram.com/155833707900388
+14.7.6 Instagram: Instagram LLC, 1601 Willow Road, Menlo Park, CA 94025 USA - [https://help.instagram.com/155833707900388](https://help.instagram.com/155833707900388)
 
  
 -
@@ -612,13 +612,10 @@ https://support.google.com/analytics/answer/6004245?hl=en
 
 17.2 TeamSpeak® USA provides you with information about data security within the company at any time. Please direct your request to [\[email protected\]](https://teamspeak.com/cdn-cgi/l/email-protection) or the information provided in the imprint of TeamSpeak® USA websites.
 
- 
--
-
 18\. Data Protection Officer
 ----------------------------
 
-TeamSpeak® has appointed an external data protection officer.
+TeamSpeak® has appointed an external data protection officer:
 
 Stephan Hendel
 
@@ -632,11 +629,12 @@ Germany
 
 If you have any concerns or questions about the data TeamSpeak® processes, you can also contact our data protection officer directly. Further contact details can be found at  https://www.gabler-hendel.de/kontakt/
 
+  
+
 General business Terms and Customer Information of TeamSpeak® **Systems, Inc.**
 
-  
 I. General Terms and Conditions
-==================================
+===============================
 
 ### 1\. Scope
 
@@ -890,8 +888,6 @@ B. Special provisions for the respective contracts for individual services
 
 11.6 Any termination must be made in text form.
 
-###  
-
 ### 12\. Obligations of the customer when using the client
 
 12.1 The customer himself is obliged to undertake data back-ups at regular intervals. TeamSpeak® assumes no responsibility for any loss of data resulting from a breach of this obligation. This does not apply if TeamSpeak® is responsible for the violation.
@@ -962,9 +958,6 @@ B. Special provisions for the respective contracts for individual services
 
 17.4 Any termination shall require a text form.
 
- 
--
-
 C. General terms and conditions
 -------------------------------
 
@@ -1002,8 +995,6 @@ C. General terms and conditions
 
 21.2 With the exception of managing directors or authorized signatories, TeamSpeak® employees are not entitled to make any verbal agreements to the contrary.
 
-###  
-
 ### 22\. Applicable law and place of jurisdiction
 
 22.1 German law shall apply. In the case of consumers, this choice of law applies only insofar as the protection granted by mandatory provisions of the law of the country of the consumer's habitual residence is not withdrawn (principle of favourability).
@@ -1012,9 +1003,30 @@ C. General terms and conditions
 
 22.3 The provisions of the UN Sales Convention expressly do not apply.
 
-  
+### 23\. Account Suspension, Termination, and Community Safety
+
+23.1 TeamSpeak is committed to fostering a safe, respectful, and secure environment for all users. To maintain the integrity of its services, TeamSpeak reserves the right, at its sole discretion, to suspend, restrict, block, ban, or delete any user account without prior notice, including but not limited to the following circumstances:
+
+23.1.1 Violation of Terms: Breach of this Policy, the Community Guidelines, or any applicable laws.
+
+23.1.2 Harmful Behavior: Engaging in conduct deemed harmful, abusive, threatening, or disruptive to other users or TeamSpeak services.
+
+23.1.3 Fraudulent or Unauthorized Activity: Use of the platform for fraudulent, unauthorized, or unlawful purposes.
+
+23.1.4 Content Violations: Uploading, sharing, or disseminating content that violates intellectual property rights, promotes hate speech, or includes offensive or illegal material.
+
+23.1.5 Security Risks: Actions that jeopardize the security, integrity, or functionality of TeamSpeak’s systems or services.
+
+23.1.6 Inactive Accounts: Prolonged inactivity or failure to comply with account verification requirements.
+
+23.2 TeamSpeak will evaluate account activity on a case-by-case basis and take appropriate actions as necessary. Users acknowledge and agree that TeamSpeak has no obligation to provide prior notice or disclose the reasons for such actions, except as required by law.
+
+23.3 Appeals Process: Users whose accounts are banned, restricted, or deleted may contact TeamSpeak support to appeal the decision. Appeals will be reviewed at TeamSpeak’s discretion, and the company reserves the right to uphold, modify, or reverse its actions without further explanation.
+
+23.4 Disclaimer of Liability: TeamSpeak is not liable for any loss of data, communication, or access resulting from account suspension or termination. Users are responsible for regularly backing up any critical data stored or transmitted via TeamSpeak’s services.
+
 II. customer information
-===========================
+========================
 
 1\. Identity of the provider
 ----------------------------
@@ -1058,6 +1070,11 @@ The statutory rights to liability for defects shall exist towards consumers.
 ---------------------------------
 
 Information on the term of the contract and the conditions of termination can be found in the respective service description and in Section B. of the General Terms and Conditions.
+
+8\. Precedence of Terms and Conditions
+--------------------------------------
+
+These Terms and Conditions govern the use of all services and websites operated by TeamSpeak. In the event of any conflict between these Terms and Conditions and any other terms, policies, or agreements within the TeamSpeak network, these Terms and Conditions shall prevail and take precedence.
 
 #### Features
 
