@@ -315,67 +315,65 @@
 
 This material may not be published, broadcast, rewritten, or redistributed. ©2024 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided by [Factset](https://go.factset.com/legal). Powered and implemented by [FactSet Digital Solutions](https://www.factset.com/solutions/digital-solutions). [Legal Statement](https://www.factset.com/privacy). Mutual Fund and ETF data provided by [Refinitiv Lipper](https://lipperalpha.refinitiv.com/).
 
-     [![First video from Harris since election loss goes viral: 'There's something, ummm, off' - Fox News](//a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/11/720/405/kamala-harris-x-video.jpg?tl=1&ve=1)
+     [![Enemies lurking on American soil set their sights on President-elect Trump’s Cabinet picks - Fox News](//a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/11/720/405/gettyimages-2167290586-scaled-e1732718341992.jpg?tl=1&ve=1)
 
-'HATED BY HER STAFF'](https://www.foxnews.com/media/x-users-left-stunned-terrible-video-harris-speaking-supporters-who-thought-good-idea)
+HOMEGROWN THREAT](https://www.foxnews.com/politics/trump-cabinet-nominees-appointees-targeted-violent-unamerican-threats)EXCLUSIVE
 
-### [First video from Harris since election loss goes viral: 'There's something, ummm, off'](https://www.foxnews.com/media/x-users-left-stunned-terrible-video-harris-speaking-supporters-who-thought-good-idea)
+### [Enemies lurking on American soil set their sights on President-elect Trump’s Cabinet picks](https://www.foxnews.com/politics/trump-cabinet-nominees-appointees-targeted-violent-unamerican-threats)
 
-     [![Coastal town in deep-blue state makes move to shield itself from 'dangerous' liberal policies - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/343/193/79c6b2e7667ab1f7050b6572a1ba5b48.png?tl=1&ve=1)
+     [![Trump returns to former adviser for a top foreign policy issue facing 2nd term - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/343/193/4449eecb781dea29c29214cee2fdacd8.png?tl=1&ve=1)
 
-'NEWSOM-PROOF'](https://www.foxnews.com/us/california-coastal-enclave-near-sanctuary-city-tries-newsom-proof-itself)
+POINT MAN](https://www.foxnews.com/politics/trump-nominates-former-pence-military-aide-new-ukraine-post)
 
-### [Coastal town in deep-blue state makes move to shield itself from 'dangerous' liberal policies](https://www.foxnews.com/us/california-coastal-enclave-near-sanctuary-city-tries-newsom-proof-itself)
+### [Trump returns to former adviser for a top foreign policy issue facing 2nd term](https://www.foxnews.com/politics/trump-nominates-former-pence-military-aide-new-ukraine-post)
 
-     [![AOC's ally takes a jab at Harris, pinning loss on specific misstep - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/343/193/c5ffbdc4ad434bb7a8dbd9f2d6c42afd.png?tl=1&ve=1)
+     [![Harris camp confesses to rejection by wildly popular hot wings podcast - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/343/193/25154a75e412a5048078d014f6c62346.jpg?tl=1&ve=1)
 
-FIRING 'SQUAD'](https://www.foxnews.com/politics/ilhan-omar-blasts-harris-walz-campaign-courting-liz-cheney-huge-misstep)
+OH, CLUCK](https://www.foxnews.com/media/harris-campaign-popular-hot-ones-podcast-rejected-candidate-werent-going-take-us)
 
-### [AOC's ally takes a jab at Harris, pinning loss on specific misstep](https://www.foxnews.com/politics/ilhan-omar-blasts-harris-walz-campaign-courting-liz-cheney-huge-misstep)
+### [Harris camp confesses to rejection by wildly popular hot wings podcast](https://www.foxnews.com/media/harris-campaign-popular-hot-ones-podcast-rejected-candidate-werent-going-take-us)
 
-     [![Officials warned it would happen, then it did — the latest illegal immigrant gang arrests - Fox News](//a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/11/343/193/tn-arrests.jpg?tl=1&ve=1)
+     [![Biden vacations at friend's mansion as locals reel from dangerous reality he created - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/343/193/d899cc5c742881c5ecfbe4fe2ca10dce.png?tl=1&ve=1)
 
-SHADOWS OF PERIL](https://www.foxnews.com/us/venezuelan-gang-members-arrested-southern-state-same-week-officials-warned-tren-de-aragua-resurgence)
+LET THEM EAT CAKE](https://www.foxnews.com/us/liberal-nantucket-reels-migrant-crime-wave-biden-spends-thanksgiving-rich-friends-mansion)
 
-### [Officials warned it would happen, then it did — the latest illegal immigrant gang arrests](https://www.foxnews.com/us/venezuelan-gang-members-arrested-southern-state-same-week-officials-warned-tren-de-aragua-resurgence)
+### [Biden vacations at friend's mansion as locals reel from dangerous reality he created](https://www.foxnews.com/us/liberal-nantucket-reels-migrant-crime-wave-biden-spends-thanksgiving-rich-friends-mansion)
 
-     [![Dem drunkenly slurs and flaunts government role during DUI arrest caught on bodycam - Fox News](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/11/343/193/copy-of-right-inset-55.png?tl=1&ve=1&tl=1&ve=1)
+     [![Carville says young 'snot-nosed' progressive staffers hurt Harris with 'hissy fit' - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/343/193/eb026ce0d8717a9c3c261c5dd4593e5b.jpg?tl=1&ve=1)
 
-'I'M AN ELECTED OFFICIAL'](https://www.foxnews.com/us/democratic-official-drunkenly-slurs-flaunts-government-position-dui-arrest-video)
+'FIRE THAT MOTHERF---ER'](https://www.foxnews.com/media/carville-says-young-snot-nosed-progressive-staffers-hurt-harris-hissy-fit-over-rogan)
 
-### [Dem drunkenly slurs and flaunts government role during DUI arrest caught on bodycam](https://www.foxnews.com/us/democratic-official-drunkenly-slurs-flaunts-government-position-dui-arrest-video)
-
-     [![Al Sharpton facing backlash among MSNBC colleagues over growing scandal - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/343/193/327724c9dc620de2a4635479a1058794.jpg?tl=1&ve=1)
-
-'HOW DOES THIS HAPPEN?'](https://www.foxnews.com/media/sharptons-pay-to-play-scandal-ricocheting-around-halls-msnbc-insider-says-cant-be-acceptable)
-
-### [Al Sharpton facing backlash among MSNBC colleagues over growing scandal](https://www.foxnews.com/media/sharptons-pay-to-play-scandal-ricocheting-around-halls-msnbc-insider-says-cant-be-acceptable)
-
-* [MSNBC responds to Harris camp's hefty donation to host's nonprofit before interview](https://www.foxnews.com/media/msnbc-unaware-harris-campaign-gave-500k-al-sharptons-group-ahead-friendly-interview)
-
-     [![Mystery drones taunt US fighter jets prompting heightened defense response - Fox News](//a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/11/343/193/lakenheath-us-fighter-jet.jpg?tl=1&ve=1)
-
-GHOST INTRUDERS](https://www.foxnews.com/world/unidentified-drones-spotted-over-us-bases-uk-do-not-appear-belong-hobbyists)
-
-### [Mystery drones taunt US fighter jets prompting heightened defense response](https://www.foxnews.com/world/unidentified-drones-spotted-over-us-bases-uk-do-not-appear-belong-hobbyists)
-
-     [![Accused killer forced to explain alleged act in room tied to judge’s death - Fox News](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/10/343/193/kentucky-judge-2.jpg?ve=1&tl=1&tl=1&ve=1)
-
-CHAMBER OF SECRETS](https://www.foxnews.com/us/sheriffs-defense-judge-murder-could-depend-deposition-separate-case-report)
-
-### [Accused killer forced to explain alleged act in room tied to judge’s death](https://www.foxnews.com/us/sheriffs-defense-judge-murder-could-depend-deposition-separate-case-report)
-
-     [![Timeline of secret between college volleyball teammates that erupted nationally - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/343/193/60495cf0191b3c7ca4da42c3c6cf6350.png?tl=1&ve=1)
-
-DOUBLE HIT](https://www.foxnews.com/sports/sjsu-transgender-volleyball-scandal-timeline-allegations-political-impact-counterculture-movement)sports
-
-### [Timeline of secret between college volleyball teammates that erupted nationally](https://www.foxnews.com/sports/sjsu-transgender-volleyball-scandal-timeline-allegations-political-impact-counterculture-movement)
+### [Carville says young 'snot-nosed' progressive staffers hurt Harris with 'hissy fit'](https://www.foxnews.com/media/carville-says-young-snot-nosed-progressive-staffers-hurt-harris-hissy-fit-over-rogan)
 
 [Video
 
-THROWING STONES](https://www.foxnews.com/video/6365248188112)WATCH
+'LOOK AT IT LIKE THAT...'](https://www.foxnews.com/video/6365260508112)watch
 
-### [Another Hollywood elite bashes Americans after Trump's historic victory](https://www.foxnews.com/video/6365248188112)
+### ['The View' co-hosts debate whether Biden should pardon Hunter before leaving office](https://www.foxnews.com/video/6365260508112)
+
+     [![Gaines points to Harris' new video as evidence for why VP skipped Joe Rogan's podcast - Fox News](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/10/343/193/riley-gaines.jpg?ve=1&tl=1&tl=1&ve=1)
+
+DEEP END](https://www.foxnews.com/sports/riley-gaines-takes-swipe-harris-after-vp-releases-surprise-video-supporters)sports
+
+### [Gaines points to Harris' new video as evidence for why VP skipped Joe Rogan's podcast](https://www.foxnews.com/sports/riley-gaines-takes-swipe-harris-after-vp-releases-surprise-video-supporters)
+
+     [![Harris aides admit internal polling never had VP ahead of Trump - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/343/193/ac20d51e867552b93f038c1954a395ff.jpg?tl=1&ve=1)
+
+WAY BEHIND](https://www.foxnews.com/politics/harris-aides-admit-she-never-surpassed-trump-internal-polls-suggest-campaign-doomed)
+
+### [Harris aides admit internal polling never had VP ahead of Trump](https://www.foxnews.com/politics/harris-aides-admit-she-never-surpassed-trump-internal-polls-suggest-campaign-doomed)
+
+     [![John Kerry says US needs to 'declare a climate emergency' and 'get people to behave' - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/343/193/e961ea884aa72e786142470d99ff4534.jpg?tl=1&ve=1)
+
+WORD OF WARMING](https://www.foxnews.com/politics/kerry-suggests-africans-without-electricity-must-pick-the-right-kinds-electricity)
+
+### [John Kerry says US needs to 'declare a climate emergency' and 'get people to behave'](https://www.foxnews.com/politics/kerry-suggests-africans-without-electricity-must-pick-the-right-kinds-electricity)
+
+[Video
+
+SPOILED FRUIT](https://www.foxbusiness.com/video/6365260857112)WATCH
+
+### [Dem lawmaker's proposal aims to push the Empire State’s move to join Canada](https://www.foxbusiness.com/video/6365260857112)
 
 * [Fox News Channel  
     Pay TV Login Required](https://www.foxnews.com/video/5614615980001)
@@ -412,13 +410,25 @@ Deals
 
 [](https://www.foxnews.com/video/5614615980001)
 
-### [WATCH LIVE: ‘FOX & Friends’ is on the pulse of what matters to Americans](https://www.foxnews.com/video/5614615980001)
+### [WATCH LIVE: Today’s top stories on ‘America Reports’](https://www.foxnews.com/video/5614615980001)
 
-     [![Mexico's president teases what could come in response to Trump's proposed tariffs - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/economy/mexico-may-retaliate-its-own-tariffs-after-trump-threat-new-president-says)
+[](https://www.foxnews.com/politics/size-slim-republican-house-majority-hangs-5-uncalled-races)
 
-[DONALD TRUMP](https://www.foxbusiness.com/tag/donald-trump)
+[HOUSE OF REPRESENTATIVES](https://www.foxnews.com/category/politics/elections/house-of-representatives)
 
-### [Mexico's president teases what could come in response to Trump's proposed tariffs](https://www.foxbusiness.com/economy/mexico-may-retaliate-its-own-tariffs-after-trump-threat-new-president-says)
+### [Three House races to decide Republican's strength — but one may be near the finish line](https://www.foxnews.com/politics/size-slim-republican-house-majority-hangs-5-uncalled-races)
+
+      [![Governor opposes trans athletes in women's sports before tournament - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/nevada-gov-speaks-out-against-trans-athletes-womens-sports-ahead-controversial-volleyball-tournament)sports
+
+[NCAA](https://www.foxnews.com/category/sports/ncaa)
+
+### [Governor opposes trans athletes in women's sports before tournament](https://www.foxnews.com/sports/nevada-gov-speaks-out-against-trans-athletes-womens-sports-ahead-controversial-volleyball-tournament)
+
+     [![Mystery drones taunt US fighter jets prompting heightened defense response - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/world/unidentified-drones-spotted-over-us-bases-uk-do-not-appear-belong-hobbyists)
+
+[UNITED KINGDOM](https://www.foxnews.com/category/world/world-regions/united-kingdom)
+
+### [Mystery drones taunt US fighter jets prompting heightened defense response](https://www.foxnews.com/world/unidentified-drones-spotted-over-us-bases-uk-do-not-appear-belong-hobbyists)
 
 [Video](https://www.foxnews.com/video/6365226680112) WATCH
 
@@ -426,21 +436,15 @@ Deals
 
 ### [President-elect makes generous offer to youngster on golf course](https://www.foxnews.com/video/6365226680112)
 
-     [![Bill Maher says Trump's victory proves US isn't as 'racially tribal' as media claims - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/bill-maher-says-trumps-win-proves-us-isnt-divided-racially-tribal-media-claims)
-
-[DONALD TRUMP](https://www.foxnews.com/category/person/donald-trump)
-
-### [Bill Maher says Trump's victory proves US isn't as 'racially tribal' as media claims](https://www.foxnews.com/media/bill-maher-says-trumps-win-proves-us-isnt-divided-racially-tribal-media-claims)
-
-      [![We now have a fighting chance to rescue this great country - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/6365232523112) WATCH
-
-[hannity](https://www.foxnews.com/video)
-
-### [SEAN HANNITY: We now have a fighting chance to rescue this great country](https://www.foxnews.com/video/6365232523112)
-
      [![Here's how your neighborhood voted in the 2024 election - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/elections)
 
 ### [DEMOCRACY '24: Here's how your neighborhood voted in the 2024 election](https://www.foxnews.com/elections)
+
+     [![Broadcast chair goes scorched earth on Joe Rogan at media conference - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/australian-broadcast-chair-unleashes-joe-rogan-deeply-repulsive)
+
+[MEDIA](https://www.foxnews.com/category/media)
+
+### [Broadcast chair goes scorched earth on Joe Rogan at media conference](https://www.foxnews.com/media/australian-broadcast-chair-unleashes-joe-rogan-deeply-repulsive)
 
       [![Flight passengers tapping airplane before boarding triggers mixed feelings - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/travel/flight-passengers-ritual-touching-airplane-boarding-sparks-mixed-feelings-among-travelers)travel
 
@@ -448,39 +452,33 @@ Deals
 
 ### [Flight passengers tapping airplane before boarding triggers mixed feelings](https://www.foxnews.com/travel/flight-passengers-ritual-touching-airplane-boarding-sparks-mixed-feelings-among-travelers)
 
-      [![Read the fine print airlines don't want you to know about if your flight is delayed or canceled - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/lifestyle/traveling-plane-thanksgiving-how-airline-refund-rules-can-help-when-flights-canceled-delayed)lifestyle
-
-[TRAVEL](https://www.foxbusiness.com/tag/travel)
-
-### [Read the fine print airlines don't want you to know about if your flight is delayed or canceled](https://www.foxbusiness.com/lifestyle/traveling-plane-thanksgiving-how-airline-refund-rules-can-help-when-flights-canceled-delayed)
-
 [](https://www.foxnews.com/games)
 
 ### [PLAY NOW! Crosswords ♠ Word Search ♦ Crazy Crystals ♣ Stack & Match ♥ 5 Across!](https://www.foxnews.com/games)
 
-      [![Netanyahu reportedly approves Israel-Hezbollah cease-fire deal 'in principle' - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/6365203938112) WATCH
+      [![The perfect Thanksgiving gravy that doubles as a next-day sandwich topper - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/food-drink/best-homemade-thanksgiving-turkey-gravy-try-recipe)food
 
-[Fox & Friends First](https://www.foxnews.com/video)
+[RECIPES](https://www.foxnews.com/category/food-drink/recipes)
 
-### [Netanyahu reportedly approves Israel-Hezbollah cease-fire deal 'in principle'](https://www.foxnews.com/video/6365203938112)
+### [The perfect Thanksgiving gravy that doubles as a next-day sandwich topper](https://www.foxnews.com/food-drink/best-homemade-thanksgiving-turkey-gravy-try-recipe)
 
-     [![Carville rips 'snot-nosed' Harris staffers for Rogan snub: 'Fire that person on the spot' - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/carville-says-young-snot-nosed-progressive-staffers-hurt-harris-hissy-fit-over-rogan)
+     [![Longtime Dem donor hopes to unseat Mayor Adams, free Big Apple of 'radical left' rule - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/longtime-democratic-donor-joins-nyc-mayoral-race-vows-upend-radical-left-agenda)
 
-[MEDIA](https://www.foxnews.com/category/media)
+[FOX NEWS FLASH](https://www.foxnews.com/category/topic/fox-news-flash)
 
-### [Carville rips 'snot-nosed' Harris staffers for Rogan snub: 'Fire that person on the spot'](https://www.foxnews.com/media/carville-says-young-snot-nosed-progressive-staffers-hurt-harris-hissy-fit-over-rogan)
+### [Longtime Dem donor hopes to unseat Mayor Adams, free Big Apple of 'radical left' rule](https://www.foxnews.com/media/longtime-democratic-donor-joins-nyc-mayoral-race-vows-upend-radical-left-agenda)
 
-      [![ESPN star claims Trump ran for president to 'get back' at NFL owners after failed Bills bid - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/stephen-smith-claims-trump-ran-president-get-back-nfl-owners-after-failed-bills-bid)sports
+     [![Elon Musk says there's substantial ignorance about America's national debt - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/elon-musk-says-theres-substantial-ignorance-about-americas-national-debt)
 
-[BUFFALO BILLS](https://www.foxnews.com/category/sports/nfl/buffalo-bills)
+[POLITICS](https://www.foxnews.com/category/politics)
 
-### [ESPN star claims Trump ran for president to 'get back' at NFL owners after failed Bills bid](https://www.foxnews.com/sports/stephen-smith-claims-trump-ran-president-get-back-nfl-owners-after-failed-bills-bid)
+### [Elon Musk says there's substantial ignorance about America's national debt](https://www.foxnews.com/politics/elon-musk-says-theres-substantial-ignorance-about-americas-national-debt)
 
-     [![Dem backs Trump threat to impose tariffs on Mexico, says it will bring country to the table - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/trump-tariffs-bring-mexico-table-texas-democrat-says)
+     [![A look at the candidates most likely to fill JD Vance’s Senate seat - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/here-candidates-most-likely-fill-jd-vances-senate-seat)
 
-[DONALD TRUMP](https://www.foxnews.com/category/person/donald-trump)
+[JD VANCE](https://www.foxnews.com/category/person/jd-vance)
 
-### [Dem backs Trump threat to impose tariffs on Mexico, says it will bring country to the table](https://www.foxnews.com/politics/trump-tariffs-bring-mexico-table-texas-democrat-says)
+### [A look at the candidates most likely to fill JD Vance’s Senate seat](https://www.foxnews.com/politics/here-candidates-most-likely-fill-jd-vances-senate-seat)
 
      [![Thanksgiving winter storm puts millions on alert in Northeast for heavy snow, rain - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxweather.com/weather-news/thanksgiving-winter-storm-snow-2024)
 
@@ -492,11 +490,11 @@ Deals
 
 ### [The ‘one concern’ financial expert has on next year’s market outlook](https://www.foxbusiness.com/video/6365210086112)
 
-     [![20 electronic deals you won't want to miss on Amazon this Black Friday - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/lifestyle/electronic-deals-amazon-black-friday)
+     [![Walmart's Black Friday deals: 25 must-have bargains you won’t want to miss - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/lifestyle/walmart-black-friday-early-deals)
 
 [DEALS](https://www.foxnews.com/category/deals)
 
-### [20 electronic deals you won't want to miss on Amazon this Black Friday](https://www.foxnews.com/lifestyle/electronic-deals-amazon-black-friday)
+### [Walmart's Black Friday deals: 25 must-have bargains you won’t want to miss](https://www.foxnews.com/lifestyle/walmart-black-friday-early-deals)
 
      [![Political cartoons of the day - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/politics-cartoons-slideshow)
 
@@ -508,11 +506,11 @@ Deals
 
 ### [YOU'RE HIRED: Trump’s picks for key administration roles as the transition takes shape](https://foxnews.com/trumptransition)
 
-      [![NHL team helps feed hungry Americans with every goal scored - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/food-drink/food-focus-nhl-team-helps-feed-hungry-residents-through-goals-scored)food
+      [!['Yellowstone' star, chef reveals biggest turkey cooking mistakes Americans make - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/food-drink/yellowstone-star-chef-reveals-thanksgiving-turkey-carving-tips-common-bird-cooking-mistakes)food
 
 [FOOD-DRINK](https://www.foxnews.com/category/food-drink)
 
-### [NHL team helps feed hungry Americans with every goal scored](https://www.foxnews.com/food-drink/food-focus-nhl-team-helps-feed-hungry-residents-through-goals-scored)
+### ['Yellowstone' star, chef reveals biggest turkey cooking mistakes Americans make](https://www.foxnews.com/food-drink/yellowstone-star-chef-reveals-thanksgiving-turkey-carving-tips-common-bird-cooking-mistakes)
 
      [![American Culture Quiz: Test yourself on turkey pardons, travel and parade personalities - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/lifestyle/american-culture-quiz-test-yourself-turkey-pardons-train-travel-parade-personalities)
 
@@ -526,17 +524,11 @@ Deals
 
 ### [FOX News Channel dominates November with largest cable news share ever](https://www.foxnews.com/media/fox-news-dominates-november-viewership-msnbc-cnn-flounder-post-election)
 
-     [![Nordstrom's Black Friday sale kicks off – here are 20 can't-miss deals - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/lifestyle/nordstrom-black-friday-sale)
+     [![Amazon Black Friday: 11 items to help update your winter wardrobe - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/lifestyle/amazon-black-friday-winter-clothes)
 
 [DEALS](https://www.foxnews.com/category/deals)
 
-### [Nordstrom's Black Friday sale kicks off – here are 20 can't-miss deals](https://www.foxnews.com/lifestyle/nordstrom-black-friday-sale)
-
-[Video](https://www.foxnews.com/video/6365175794112) WATCH
-
-[VIDEO](https://www.foxnews.com/video)
-
-### [TikToker stunned after testing viral new trend of freezing freshly made popcorn](https://www.foxnews.com/video/6365175794112)
+### [Amazon Black Friday: 11 items to help update your winter wardrobe](https://www.foxnews.com/lifestyle/amazon-black-friday-winter-clothes)
 
 [Video](https://www.foxbusiness.com/video/6365056936112) WATCH
 
@@ -544,63 +536,69 @@ Deals
 
 ### [Impending recession is 'boiling up from the bottom,' chief economist warns](https://www.foxbusiness.com/video/6365056936112)
 
-     [![University weeds out DEI, replaces it with merit-based initiatives - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/university-austin-weeds-out-dei-replaces-merit-based-initiatives-vp)
+     [![First video from Harris since election loss goes viral: 'There's something, ummm, off' - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/x-users-left-stunned-terrible-video-harris-speaking-supporters-who-thought-good-idea)
+
+[KAMALA HARRIS](https://www.foxnews.com/category/person/kamala-harris)
+
+### [First video from Harris since election loss goes viral: 'There's something, ummm, off'](https://www.foxnews.com/media/x-users-left-stunned-terrible-video-harris-speaking-supporters-who-thought-good-idea)
+
+     [![Suspect allegedly killed 65-year-old golfer in 'random act of violence' - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/florida-golfer-65-beaten-death-own-clubs-random-act-violence-authorities-say)
+
+[FLORIDA](https://www.foxnews.com/category/us/us-regions/southeast/florida)
+
+### [Suspect allegedly killed 65-year-old golfer in 'random act of violence'](https://www.foxnews.com/us/florida-golfer-65-beaten-death-own-clubs-random-act-violence-authorities-say)
+
+     [![Dem goes against his own party's narrative and joins Netanyahu's defense - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/cuomo-joins-netanyahus-legal-defense-team-against-icc-warrants-he-mulls-2025-nyc-mayoral-run)
 
 [POLITICS](https://www.foxnews.com/category/politics)
 
-### [University weeds out DEI, replaces it with merit-based initiatives](https://www.foxnews.com/politics/university-austin-weeds-out-dei-replaces-merit-based-initiatives-vp)
+### [Dem goes against his own party's narrative and joins Netanyahu's defense](https://www.foxnews.com/politics/cuomo-joins-netanyahus-legal-defense-team-against-icc-warrants-he-mulls-2025-nyc-mayoral-run)
 
-     [![Billy Bob Thornton goes viral as 'Landman' clip on renewable energy explodes online - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/scene-from-billy-bob-thorntons-new-show-landman-slams-clean-energy-goes-viral-x)
-
-[MEDIA](https://www.foxnews.com/category/media)
-
-### [Billy Bob Thornton goes viral as 'Landman' clip on renewable energy explodes online](https://www.foxnews.com/media/scene-from-billy-bob-thorntons-new-show-landman-slams-clean-energy-goes-viral-x)
-
-      [![Meghan Markle, Victoria Beckham friendship fallout ‘boils down to jealousy’: expert - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/meghan-markle-victoria-beckham-friendship-fallout-boils-down-jealousy-expert)entertainment
-
-[MEGHAN MARKLE](https://www.foxnews.com/category/entertainment/celebrity-news/meghan-markle)
-
-### [Meghan Markle, Victoria Beckham friendship fallout ‘boils down to jealousy’: expert](https://www.foxnews.com/entertainment/meghan-markle-victoria-beckham-friendship-fallout-boils-down-jealousy-expert)
-
-     [![Tom Cotton slams Secretary Austin's 'baseless insinuation' against Trump - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/tom-cotton-slams-partisans-obstructionists-dod-reportedly-plotting-block-trump-plans)
-
-[POLITICS](https://www.foxnews.com/category/politics)
-
-### [Tom Cotton slams Secretary Austin's 'baseless insinuation' against Trump](https://www.foxnews.com/politics/tom-cotton-slams-partisans-obstructionists-dod-reportedly-plotting-block-trump-plans)
-
-     [![Harris aides blame Trump for VP's decision to skip Joe Rogan's podcast - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/kamala-harris-campaign-aides-suggest-trumps-sit-down-joe-rogan-blame-her-not-joining-podcast)
+     [![Al Sharpton continues to appear on MSNBC after Harris payments revealed - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/al-sharpton-continuing-host-msnbc-show-make-regular-appearances-after-harris-campaign-payment-revealed)
 
 [MEDIA](https://www.foxnews.com/category/media)
 
-### [Harris aides blame Trump for VP's decision to skip Joe Rogan's podcast](https://www.foxnews.com/media/kamala-harris-campaign-aides-suggest-trumps-sit-down-joe-rogan-blame-her-not-joining-podcast)
+### [Al Sharpton continues to appear on MSNBC after Harris payments revealed](https://www.foxnews.com/media/al-sharpton-continuing-host-msnbc-show-make-regular-appearances-after-harris-campaign-payment-revealed)
 
-     [![Jack Smith's 'vindictive' Trump prosecutions were doomed on election night - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/gregg-jarrett-americans-had-final-say-jack-smiths-misbegotten-trump-prosecutions)
+      [![Read the fine print airlines don't want you to know about if your flight is delayed or canceled - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/lifestyle/traveling-plane-thanksgiving-how-airline-refund-rules-can-help-when-flights-canceled-delayed)lifestyle
 
-[FOX NEWS FLASH](https://www.foxnews.com/category/media/fox-news-flash)
+[TRAVEL](https://www.foxbusiness.com/tag/travel)
 
-### [GREGG JARRETT: Jack Smith's 'vindictive' Trump prosecutions were doomed on election night](https://www.foxnews.com/media/gregg-jarrett-americans-had-final-say-jack-smiths-misbegotten-trump-prosecutions)
+### [Read the fine print airlines don't want you to know about if your flight is delayed or canceled](https://www.foxbusiness.com/lifestyle/traveling-plane-thanksgiving-how-airline-refund-rules-can-help-when-flights-canceled-delayed)
 
-      [![Rural Americans are mad — and they gave Democrats a reckoning - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/opinion/rural-americans-mad-gave-democrats-reckoning)OPINION
+      [![Conor McGregor dropped by companies following verdict in assault case - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/conor-mcgregor-dropped-two-companies-including-popular-whiskey-brand-following-verdict-assault-case)sports
 
-[OPINION](https://www.foxnews.com/category/opinion)
+[UFC](https://www.foxnews.com/category/sports/ufc)
 
-### [Rural Americans are mad — and they gave Democrats a reckoning](https://www.foxnews.com/opinion/rural-americans-mad-gave-democrats-reckoning)
+### [Conor McGregor dropped by companies following verdict in assault case](https://www.foxnews.com/sports/conor-mcgregor-dropped-two-companies-including-popular-whiskey-brand-following-verdict-assault-case)
 
-     [![Majority of American households lack economic security, study finds - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/economy/majority-americans-lack-economic-security-study-finds)
+     [![Coastal town in deep-blue state makes move to shield itself from 'dangerous' liberal policies - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/california-coastal-enclave-near-sanctuary-city-tries-newsom-proof-itself)
 
-[ECONOMY](https://www.foxbusiness.com/tag/economy)
+[CALIFORNIA](https://www.foxnews.com/category/us/us-regions/west/california)
 
-### [Majority of American households lack economic security, study finds](https://www.foxbusiness.com/economy/majority-americans-lack-economic-security-study-finds)
+### [Coastal town in deep-blue state makes move to shield itself from 'dangerous' liberal policies](https://www.foxnews.com/us/california-coastal-enclave-near-sanctuary-city-tries-newsom-proof-itself)
 
-      [![What to expect from Trump as president-elect plans to end the ‘war on crypto’ - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxbusiness.com/video/6365049430112) WATCH
+      [![‘Desperate Housewives’ star Teri Hatcher says dating at 59 is 'just not that fun anymore' - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/desperate-housewives-star-teri-hatcher-dating-59-not-fun)entertainment
 
-[Varney & Co](https://video.foxbusiness.com/)
+[ENTERTAINMENT](https://www.foxnews.com/category/entertainment)
 
-### [What to expect from Trump as president-elect plans to end the ‘war on crypto’](https://www.foxbusiness.com/video/6365049430112)
+### [‘Desperate Housewives’ star Teri Hatcher says dating at 59 is 'just not that fun anymore'](https://www.foxnews.com/entertainment/desperate-housewives-star-teri-hatcher-dating-59-not-fun)
 
-      [![Biden announces cease-fire deal between Israel and Hezbollah - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/category/topic/anti-semitism)ANTISEMITISM EXPOSED
+     [![‘Brady Bunch’ actors talk co-star hookups, first kisses, fake weddings - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/brady-bunch-actors-admit-co-star-hookups-first-kisses-fake-weddings)
 
-### [Biden announces cease-fire deal between Israel and Hezbollah](https://www.foxnews.com/category/topic/anti-semitism)
+[ENTERTAINMENT](https://www.foxnews.com/category/entertainment)
+
+### [‘Brady Bunch’ actors talk co-star hookups, first kisses, fake weddings](https://www.foxnews.com/entertainment/brady-bunch-actors-admit-co-star-hookups-first-kisses-fake-weddings)
+
+     [![Woman appears unfazed by life sentence for husband's murder she blamed on daughter - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/killer-wife-appears-unfazed-life-sentence-husbands-murder-she-blamed-daughter)
+
+[TRUE CRIME](https://www.foxnews.com/category/us/true-crime)
+
+### [Woman appears unfazed by life sentence for husband's murder she blamed on daughter](https://www.foxnews.com/us/killer-wife-appears-unfazed-life-sentence-husbands-murder-she-blamed-daughter)
+
+      [![Israel-Hezbollah cease-fire begins in Lebanon after agreement reached - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/category/topic/anti-semitism)ANTISEMITISM EXPOSED
+
+### [Israel-Hezbollah cease-fire begins in Lebanon after agreement reached](https://www.foxnews.com/category/topic/anti-semitism)
 
      [![Martin Scorsese brings John the Baptist's story of defiance and faith to FOX Nation - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/martin-scorsese-brings-john-baptists-story-defiance-faith-fox-nation)
 
@@ -630,9 +628,9 @@ Deals
 
 ### [NASCAR wives stun on red carpet, Dale Jr.’s return ends with a brawl](https://www.outkick.com/sports/meet-hottest-wives-nascar-dale-jr-returns-bang-brawl-show-your-liberal-aunt)
 
-     [![New technology detects woman’s breast cancer after screening misses it - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/category/tech/artificial-intelligence)
+     [![You can now have conversations in different languages right from your wrist - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/category/tech/artificial-intelligence)
 
-### [New technology detects woman’s breast cancer after screening misses it](https://www.foxnews.com/category/tech/artificial-intelligence)
+### [You can now have conversations in different languages right from your wrist](https://www.foxnews.com/category/tech/artificial-intelligence)
 
      [![Delicious recipes, surprising power foods & juicy secrets to eating better - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/food-drink)
 
@@ -646,11 +644,11 @@ Deals
 
 ### [PICTURE OF HEALTH: Doctors on call for you, tips to staying fit & key warning signs](https://www.foxnews.com/health)
 
-     [![Pluto is only 4 hours away if you traveled at the speed of light - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/fun-facts-humans-spend-how-long-eyes-closed-from-blinking)
+     [![This frog can freeze without dying - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/fun-facts-humans-spend-how-long-eyes-closed-from-blinking)
 
 [Media](https://www.foxnews.com/category/media)
 
-### [FUN FACTS: Pluto is only 4 hours away if you traveled at the speed of light](https://www.foxnews.com/media/fun-facts-humans-spend-how-long-eyes-closed-from-blinking)
+### [FUN FACTS: This frog can freeze without dying](https://www.foxnews.com/media/fun-facts-humans-spend-how-long-eyes-closed-from-blinking)
 
 [### Fox Nation](https://bit.ly/4hXhF7U)
 
@@ -702,21 +700,21 @@ Top 'quiet travel' DESTINATIONS](https://www.foxnews.com/travel/quiet-travel-hav
 [OutKick](https://www.outkick.com/)
 -----------------------------------
 
-     [![Elon Musk Supports Nancy Mace With Hilarious Tweet - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/culture/elon-musk-nancy-mace-support-viral-tweet)
+     [![Rob Gronkowski Got Rich After Buying $69k Worth Of A Stock A Random Guy Building His House Suggested To Him - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/rob-gronkowski-apple-stock-fortune-advice-homebuilder)
 
-### [Elon Musk Supports Nancy Mace With Hilarious Tweet](https://www.outkick.com/culture/elon-musk-nancy-mace-support-viral-tweet)
+### [Rob Gronkowski Got Rich After Buying $69k Worth Of A Stock A Random Guy Building His House Suggested To Him](https://www.outkick.com/sports/rob-gronkowski-apple-stock-fortune-advice-homebuilder)
 
-### [Points Should Be Easy To Get In Michigan State Vs. UNC](https://www.outkick.com/betting/points-should-easy-get-michigan-state-vs-unc)
+### [Malik Nabers Clarifies Coaching Criticism But 'I Still Stand On What I Said'](https://www.outkick.com/sports/malik-nabers-clarifies-coaching-criticism-no-regrets)
 
-   [![Mar 16, 2024; Washington, D.C., USA; North Carolina Tar Heels guard RJ Davis (4) dribbles the ball against the North Carolina State Wolfpack during the second half at Capital One Arena. Mandatory Credit: Geoff Burke-USA TODAY Sports - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/betting/points-should-easy-get-michigan-state-vs-unc)
+   [![Malik Nabers Clarifies Coaching Criticism But &apos;I Still Stand On What I Said&apos; - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/malik-nabers-clarifies-coaching-criticism-no-regrets)
 
-### [NFL Mailbag: Peeking Ahead To Postseason Awards And An Unlikely Landing Spot For Aaron Rodgers](https://www.outkick.com/sports/nfl-mailbag-postseason-awards-aaron-rodgers-daniel-jones)
+### [Working-Class Man Eats Taco Bell, Results Might Shock You](https://www.outkick.com/culture/david-hookstead-taco-bell-review)
 
-   [![NFL Mailbag: Peeking Ahead To Postseason Awards And An Unlikely Landing Spot For Aaron Rodgers - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/nfl-mailbag-postseason-awards-aaron-rodgers-daniel-jones)
+   [![David Hookstead reviews Taco Bell. (Credit: David Hookstead) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/culture/david-hookstead-taco-bell-review)
 
-### [Kamala Harris Ruthlessly Roasted For Brutally Awkward Video: WATCH](https://www.outkick.com/culture/kamala-harris-post-election-video-reactions)
+### [Mario Andretti Says GM-Cadillac F1 Teams Hopes To Use Ferrari Engines For First Two Seasons](https://www.outkick.com/sports/mario-andretti-says-gm-cadillac-f1-teams-hopes-use-ferrari-engines-first-two-seasons)
 
-   [![The internet is cooking Kamala Harris for an awkward video about her post-election feelings. Watch the video. Check out the reactions. (Credit: Getty Images) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/culture/kamala-harris-post-election-video-reactions)
+   [![MIAMI GARDENS, FL - MAY 05: Former driver Mario Andretti on pit lane prior to the running of the F1 Crypto.com Miami Grand Prix on May 5, 2024 at Miami International Autodrome in Miami Gardens, FL. (Photo by Jeff Robinson/Icon Sportswire via Getty Images) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/mario-andretti-says-gm-cadillac-f1-teams-hopes-use-ferrari-engines-first-two-seasons)
 
 [Digital Originals](https://www.foxnews.com/category/us/digital-originals)
 --------------------------------------------------------------------------
@@ -740,9 +738,13 @@ Top 'quiet travel' DESTINATIONS](https://www.foxnews.com/travel/quiet-travel-hav
 [Economy](https://www.foxnews.com/economy)
 ------------------------------------------
 
-     [![As Americans prepare for Thanksgiving, veterans face food insecurity in significant numbers: study - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/americans-prepare-thanksgiving-veterans-face-food-insecurity-significant-numbers-study)
+     [![Elon Musk says there's substantial ignorance about America's national debt - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/elon-musk-says-theres-substantial-ignorance-about-americas-national-debt)
+
+### [Elon Musk says there's substantial ignorance about America's national debt](https://www.foxnews.com/politics/elon-musk-says-theres-substantial-ignorance-about-americas-national-debt)
 
 ### [As Americans prepare for Thanksgiving, veterans face food insecurity in significant numbers: study](https://www.foxnews.com/us/americans-prepare-thanksgiving-veterans-face-food-insecurity-significant-numbers-study)
+
+   [![Volunteers serve up plates filled with all of the traditional Thanksgiving food at the Long Beach Rescue Mission in Long Beach on Wednesday, November 22, 2023. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/americans-prepare-thanksgiving-veterans-face-food-insecurity-significant-numbers-study)
 
 ### [Utah senator coaches GOP aides on strategy for streamlining Trump’s agenda through Congress](https://www.foxnews.com/politics/utah-senator-coaches-gop-aides-strategy-trumps-agenda-congress)
 
@@ -751,10 +753,6 @@ Top 'quiet travel' DESTINATIONS](https://www.foxnews.com/travel/quiet-travel-hav
 ### [Construction trade group leaders look forward to new leadership under Trump: 'Relief on the horizon'](https://www.foxnews.com/politics/construction-trade-group-leaders-look-forward-new-leadership-under-trump-relief-horizon)
 
    [![Construction trade group leaders look forward to new leadership under Trump: &apos;Relief on the horizon&apos; - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/construction-trade-group-leaders-look-forward-new-leadership-under-trump-relief-horizon)
-
-### [‘The View’ co-host Sunny Hostin claims Trump 'never talked about' egg prices during campaign](https://www.foxnews.com/media/view-co-host-sunny-hostin-claims-trump-never-talked-egg-prices-campaign)
-
-   [![&quot;The View&quot; co-host Sunny Hostin alleged that President-elect Donald Trump never mentioned egg prices during his 2024 presidential campaign. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/view-co-host-sunny-hostin-claims-trump-never-talked-egg-prices-campaign)
 
 [Fox News Flash](https://www.foxnews.com/category/media/fox-news-flash)
 -----------------------------------------------------------------------
@@ -778,21 +776,21 @@ Top 'quiet travel' DESTINATIONS](https://www.foxnews.com/travel/quiet-travel-hav
 [Elections](https://www.foxnews.com/elections)
 ----------------------------------------------
 
-     [![Mississippi runoff election for state Supreme Court justice is too close to call - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/mississippi-runoff-election-state-supreme-court-justice-too-close-call)
+     [![Kamala Harris campaign aide admits she never surpassed Trump in internal polls - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/harris-aides-admit-she-never-surpassed-trump-internal-polls-suggest-campaign-doomed)
 
-### [Mississippi runoff election for state Supreme Court justice is too close to call](https://www.foxnews.com/politics/mississippi-runoff-election-state-supreme-court-justice-too-close-call)
+### [Kamala Harris campaign aide admits she never surpassed Trump in internal polls](https://www.foxnews.com/politics/harris-aides-admit-she-never-surpassed-trump-internal-polls-suggest-campaign-doomed)
 
-### [Trump's AG pick has ‘history of consensus building’](https://www.foxnews.com/politics/trump-ag-pick-has-history-consensus-building)
+### [Get to know Donald Trump's Cabinet: Who has the president-elect picked so far?](https://www.foxnews.com/politics/trumps-picks-so-far-heres-who-advising-new-president)
 
-   [![Pam Bondi, former Florida attorney general, arrives to speak during the Republican National Convention at the Andrew W. Mellon Auditorium in Washington, D.C., U.S., on Tuesday, Aug. 25, 2020. President Trump plans to appear nightly during the four-day convention, which will be staged mostly from Washington because of the coronavirus pandemic. Photographer: Chip Somodevilla/Getty Images/Bloomberg via Getty Images - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/trump-ag-pick-has-history-consensus-building)
+   [![Donald Trump dances on stage after speaking at a campaign rally at PPG Paints Arena in Pittsburgh, Pennsylvania on November 4, 2024. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/trumps-picks-so-far-heres-who-advising-new-president)
 
-### [SJSU transgender volleyball scandal: Timeline of allegations, political impact and a raging culture movement](https://www.foxnews.com/sports/sjsu-transgender-volleyball-scandal-timeline-allegations-political-impact-counterculture-movement)
+### [Trump nominates former Pence military aide for new Ukraine post](https://www.foxnews.com/politics/trump-nominates-former-pence-military-aide-new-ukraine-post)
 
-   [![Blaire Fleming, Donald Trump, and Brooke Slusser - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/sjsu-transgender-volleyball-scandal-timeline-allegations-political-impact-counterculture-movement)
+   [![Retired Lt. Gen. Keith Kellogg took aim at the Biden administration in its totality and suggested that the president has always taken &quot;a long time to make decisions or to do something&quot; when it comes to dealing with adversaries. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/trump-nominates-former-pence-military-aide-new-ukraine-post)
 
-### [Bill Maher says Trump's win proves US isn't as 'divided,' 'racially tribal' as the media claims](https://www.foxnews.com/media/bill-maher-says-trumps-win-proves-us-isnt-divided-racially-tribal-media-claims)
+### [Trump Cabinet nominees, appointees targeted with ‘violent, unAmerican threats’](https://www.foxnews.com/politics/trump-cabinet-nominees-appointees-targeted-violent-unamerican-threats)
 
-   [![HBO host Bill Maher rebuked Trump supporters who insist that the former president was saved from assassination by God. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/bill-maher-says-trumps-win-proves-us-isnt-divided-racially-tribal-media-claims)
+   [![GLENDALE, ARIZONA - AUGUST 23: Republican presidential nominee, former U.S. President Donald Trump takes the stage during a campaign rally at Desert Diamond Arena on August 23, 2024 in Glendale, Arizona. The rally, held in partnership with Turning Point PAC and Turning Point Action, comes come two weeks after Democratic presidential nominee U.S. Vice President Harris held a rally at the same location. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/trump-cabinet-nominees-appointees-targeted-violent-unamerican-threats)
 
 [Personal Freedoms](https://www.foxnews.com/category/us/personal-freedoms)
 --------------------------------------------------------------------------
@@ -816,47 +814,51 @@ Top 'quiet travel' DESTINATIONS](https://www.foxnews.com/travel/quiet-travel-hav
 [World](https://www.foxnews.com/world)
 --------------------------------------
 
-     [![Unidentified drones spotted over US bases in the UK, do not appear belong to 'hobbyists' - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/world/unidentified-drones-spotted-over-us-bases-uk-do-not-appear-belong-hobbyists)
+     [![China releases 3 'wrongfully detained' Americans, White House says - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/world/china-agrees-release-3-wrongfully-detained-americans)
+
+### [China releases 3 'wrongfully detained' Americans, White House says](https://www.foxnews.com/world/china-agrees-release-3-wrongfully-detained-americans)
+
+### [2,000-year-old fig unearthed in Ireland marks ‘oldest example of an exotic fruit’ discovered in the area](https://www.foxnews.com/world/2000-year-old-fig-unearthed-ireland-marks-oldest-example-exotic-fruit-discovered-area)
+
+   [![The charred fig from the Drumanagh excavation. This image was taken at a Historic England laboratory using an AHRC-funded Keyence VHX7000 3-D digital microscope at x 30 magnification. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/world/2000-year-old-fig-unearthed-ireland-marks-oldest-example-exotic-fruit-discovered-area)
 
 ### [Unidentified drones spotted over US bases in the UK, do not appear belong to 'hobbyists'](https://www.foxnews.com/world/unidentified-drones-spotted-over-us-bases-uk-do-not-appear-belong-hobbyists)
+
+   [![LN AF 98 131 U.S. Air Force McDonnell Douglas F-15E Strike Eagle of the 492nd Fighter Squadron (Madhatters) 48th Fighter Wing applies the air-brake RAF Lakenheath, Dec. 15, 2021. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/world/unidentified-drones-spotted-over-us-bases-uk-do-not-appear-belong-hobbyists)
 
 ### [Biden announces cease-fire plan between Israel and Hezbollah ending 14 months of fighting](https://www.foxnews.com/world/netanyahu-publicly-backs-israel-hezbollah-cease-fire-plan)
 
    [![Smoke rises following Israeli bombardment in southern Lebanon as seen from northern Israel, Tuesday, Nov. 26, 2024. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/world/netanyahu-publicly-backs-israel-hezbollah-cease-fire-plan)
 
-### [New subway system in Greece puts archaeological finds discovered during construction on display for passengers](https://www.foxnews.com/world/new-subway-system-greece-puts-archaeological-finds-discovered-during-construction-display-passengers)
-
-   [![New subway system in Greece puts archaeological finds discovered during construction on display for passengers - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/world/new-subway-system-greece-puts-archaeological-finds-discovered-during-construction-display-passengers)
-
-### [Trump, Congress looking to put suffocating sanctions on 'kangaroo' ICC over Netanyahu arrest warrant](https://www.foxnews.com/world/trump-congress-looking-put-suffocating-sanctions-kangaroo-icc-over-netanyahu-arrest-warrant)
-
-   [![President-elect Donald Trump | Karim Khan ICC prosecutor. Photos: Getty Images. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/world/trump-congress-looking-put-suffocating-sanctions-kangaroo-icc-over-netanyahu-arrest-warrant)
-
 [Opinion](https://www.foxnews.com/opinion)
 ------------------------------------------
 
-     [![China’s secret weapon in the space race is already hurting us - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/opinion/chinas-secret-weapon-space-race-already-hurting)
+     [![DR. AYELET LEVY SHAHAR: A mother's message to America: Don't forget the hostages - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/opinion/dr-ayelet-levy-shahar-mothers-message-america-dont-forget-hostages)
+
+### [DR. AYELET LEVY SHAHAR: A mother's message to America: Don't forget the hostages](https://www.foxnews.com/opinion/dr-ayelet-levy-shahar-mothers-message-america-dont-forget-hostages)
+
+### [Lincoln gave us Thanksgiving as a time to unite. We owe it to him to try](https://www.foxnews.com/opinion/lincoln-gave-thanksgiving-time-unite-owe-him-try)
+
+   [![Abraham Lincoln, 16th President of the United States. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/opinion/lincoln-gave-thanksgiving-time-unite-owe-him-try)
 
 ### [China’s secret weapon in the space race is already hurting us](https://www.foxnews.com/opinion/chinas-secret-weapon-space-race-already-hurting)
 
-### [Rural Americans are mad--and they gave Democrats a reckoning](https://www.foxnews.com/opinion/rural-americans-mad-gave-democrats-reckoning)
+   [![In this photo released by Xinhua News Agency, the Long March 5B Y3 carrier rocket, carrying Wentian lab module blasts off from the Wenchang Space Launch Center in Wenchang in southern China&apos;s Hainan Province Sunday, July 24, 2022. On a hot Sunday afternoon, with a large crowd of amateur photographers and space enthusiasts watching, China launched the Wentian lab module from tropical Hainan Island. (Li Gang/Xinhua via AP) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/opinion/chinas-secret-weapon-space-race-already-hurting)
+
+### [Rural Americans are mad – and they gave Democrats a reckoning](https://www.foxnews.com/opinion/rural-americans-mad-gave-democrats-reckoning)
 
    [![CHARLES CITY, IOWA - AUGUST 10: A farmer uses a barn to show support for Republican presidential candidate former President Donald Trump on August 10, 2024 near Charles City, Iowa.  Trump won Iowa by 9 percent in 2016 and 8 percent in 2020 over his democratic rivals.  (Photo by Scott Olson/Getty Images) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/opinion/rural-americans-mad-gave-democrats-reckoning)
-
-### [MSNBC'S Sharpton relationship underlines network's disdain for media ethics](https://www.foxnews.com/opinion/msnbcs-sharpton-relationship-underlines-networks-disdain-media-ethics)
-
-   [![Al Sharpton MSNBC Harris - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/opinion/msnbcs-sharpton-relationship-underlines-networks-disdain-media-ethics)
-
-### [JONATHAN TURLEY: The public rejected lawfare when they re-elected Trump](https://www.foxnews.com/opinion/jonathan-turley-public-rejected-lawfare-when-re-elected-trump)
-
-   [![Republican presidential nominee former President Donald Trump pumps his fist as he arrives to speak at a campaign event at Nassau Coliseum, Wednesday, Sept.18, 2024, in Uniondale, N.Y. (AP Photo/Alex Brandon) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/opinion/jonathan-turley-public-rejected-lawfare-when-re-elected-trump)
 
 [Health](https://www.foxnews.com/health)
 ----------------------------------------
 
-     [![Thanksgiving on Ozempic: Here’s how to enjoy the meal with a smaller appetite - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/health/thanksgiving-ozempic-heres-how-enjoy-meal-smaller-appetite)
+     [![HIV-positive transplants now permitted for livers and kidneys - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/health/hiv-positive-transplants-now-permitted-livers-kidneys)
+
+### [HIV-positive transplants now permitted for livers and kidneys](https://www.foxnews.com/health/hiv-positive-transplants-now-permitted-livers-kidneys)
 
 ### [Thanksgiving on Ozempic: Here’s how to enjoy the meal with a smaller appetite](https://www.foxnews.com/health/thanksgiving-ozempic-heres-how-enjoy-meal-smaller-appetite)
+
+   [![Thanksgiving on Ozempic: Here&rsquo;s how to enjoy the meal with a smaller appetite - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/health/thanksgiving-ozempic-heres-how-enjoy-meal-smaller-appetite)
 
 ### [Giving thanks can make you happier and healthier, experts say](https://www.foxnews.com/health/giving-thanks-can-make-you-happier-healthier-experts-say)
 
@@ -866,28 +868,24 @@ Top 'quiet travel' DESTINATIONS](https://www.foxnews.com/travel/quiet-travel-hav
 
    [![A mosquito on human skin. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/health/texas-records-first-locally-transmitted-dengue-fever-case-2024)
 
-### [Ozempic, Wegovy covered by Medicare and Medicaid under Biden admin proposal for anti-obesity GLP-1 drugs](https://www.foxnews.com/health/ozempic-wegovy-covered-medicare-medicaid-biden-admin-proposal-anti-obesity-glp1-drugs)
-
-   [![A new Biden administration proposal will expand coverage of Wegovy for people with Medicare and Medicaid. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/health/ozempic-wegovy-covered-medicare-medicaid-biden-admin-proposal-anti-obesity-glp1-drugs)
-
 [Crime](https://www.foxnews.com/category/us/crime)
 --------------------------------------------------
 
-     [![Macy's Thanksgiving Day Parade seen as attractive terrorist target: report - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/macys-thanksgiving-day-parade-seen-attractive-terrorist-target-report)
+     [![Florida golfer, 65, beaten to death with own clubs in 'random act of violence,' authorities say - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/florida-golfer-65-beaten-death-own-clubs-random-act-violence-authorities-say)
 
-### [Macy's Thanksgiving Day Parade seen as attractive terrorist target: report](https://www.foxnews.com/us/macys-thanksgiving-day-parade-seen-attractive-terrorist-target-report)
+### [Florida golfer, 65, beaten to death with own clubs in 'random act of violence,' authorities say](https://www.foxnews.com/us/florida-golfer-65-beaten-death-own-clubs-random-act-violence-authorities-say)
 
-### [Venezuelan gang members arrested in southern state same week officials warned of Tren de Aragua resurgence](https://www.foxnews.com/us/venezuelan-gang-members-arrested-southern-state-same-week-officials-warned-tren-de-aragua-resurgence)
+### [Longtime Democratic donor joins NYC mayoral race, vows to upend 'radical left' agenda](https://www.foxnews.com/media/longtime-democratic-donor-joins-nyc-mayoral-race-vows-upend-radical-left-agenda)
 
-   [![Four suspects, including a Tren de Aragua member, have been arrested in Hamilton County, Tennessee, in a sex-trafficking sting. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/venezuelan-gang-members-arrested-southern-state-same-week-officials-warned-tren-de-aragua-resurgence)
+   [![Eric Adams and Whitney Tilson - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/longtime-democratic-donor-joins-nyc-mayoral-race-vows-upend-radical-left-agenda)
 
-### [Texas trio sought in Oklahoma for for stealing $25K from man praying at place of worship](https://www.foxnews.com/us/texas-trio-sought-oklahoma-stealing-25k-from-man-praying-place-worship)
+### [Grandpa shoots burglar who broke into his business with grandkids inside](https://www.foxnews.com/us/grandpa-shoots-burglar-who-broke-into-his-business-with-grandkids-inside)
 
-   [![Leo Moore and Haley Barber were arrested on capital murder charges. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/texas-trio-sought-oklahoma-stealing-25k-from-man-praying-place-worship)
+   [![A California business owner says he shot a burglar who broke into his store in the middle of the night to save his grandson&apos;s lives. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/grandpa-shoots-burglar-who-broke-into-his-business-with-grandkids-inside)
 
-### [NYC woman released from prison after new evidence contradicts accounts claiming she helped hitman in 1999](https://www.foxnews.com/us/nyc-woman-released-from-prison-after-new-evidence-contradicts-accounts-claiming-she-helped-hitman-1999)
+### [Australian police officer who used Taser on 95-year-old woman found guilty of manslaughter](https://www.foxnews.com/world/australian-police-officer-who-used-taser-95-year-old-woman-found-guilty-manslaughter)
 
-   [![Jail - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/nyc-woman-released-from-prison-after-new-evidence-contradicts-accounts-claiming-she-helped-hitman-1999)
+   [![Senior Constable Kristian White arrives at the New South Wales Supreme Court, in Sydney, Tuesday, Nov. 26, 2024. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/world/australian-police-officer-who-used-taser-95-year-old-woman-found-guilty-manslaughter)
 
 [America Together](https://www.foxnews.com/category/us/personal-freedoms/america-together)
 ------------------------------------------------------------------------------------------
@@ -911,9 +909,13 @@ Top 'quiet travel' DESTINATIONS](https://www.foxnews.com/travel/quiet-travel-hav
 [Military](https://www.foxnews.com/category/us/military)
 --------------------------------------------------------
 
-     [![Unidentified drones spotted over US bases in the UK, do not appear belong to 'hobbyists' - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/world/unidentified-drones-spotted-over-us-bases-uk-do-not-appear-belong-hobbyists)
+     [![Sleeping man saved from rolling off bridge by police officer, Good Samaritan in dramatic video - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/sleeping-man-saved-from-rolling-off-bridge-police-officer-good-samaritan-dramatic-video)
+
+### [Sleeping man saved from rolling off bridge by police officer, Good Samaritan in dramatic video](https://www.foxnews.com/us/sleeping-man-saved-from-rolling-off-bridge-police-officer-good-samaritan-dramatic-video)
 
 ### [Unidentified drones spotted over US bases in the UK, do not appear belong to 'hobbyists'](https://www.foxnews.com/world/unidentified-drones-spotted-over-us-bases-uk-do-not-appear-belong-hobbyists)
+
+   [![LN AF 98 131 U.S. Air Force McDonnell Douglas F-15E Strike Eagle of the 492nd Fighter Squadron (Madhatters) 48th Fighter Wing applies the air-brake RAF Lakenheath, Dec. 15, 2021. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/world/unidentified-drones-spotted-over-us-bases-uk-do-not-appear-belong-hobbyists)
 
 ### [As Americans prepare for Thanksgiving, veterans face food insecurity in significant numbers: study](https://www.foxnews.com/us/americans-prepare-thanksgiving-veterans-face-food-insecurity-significant-numbers-study)
 
@@ -923,66 +925,62 @@ Top 'quiet travel' DESTINATIONS](https://www.foxnews.com/travel/quiet-travel-hav
 
    [![Baltimore Ravens safety Kyle Hamilton chooses Our Military Kids as his cause for the NFL&apos;s &quot;My Cause My Cleats.&quot; - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/ravens-star-kyle-hamilton-talks-impacting-military-children-nfls-annual-my-cause-my-cleats)
 
-### [Noah, God and skillset diversity](https://www.foxnews.com/opinion/noah-god-skillset-diversity)
-
-   [![Jesus and The Ark of Salvation - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/opinion/noah-god-skillset-diversity)
-
 [Entertainment](https://www.foxnews.com/entertainment)
 ------------------------------------------------------
 
-     [!['Merry Gentlemen' star Chad Michael Murray puts ‘God and family first’ to avoid ‘bad situations’ - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/merry-gentlemen-star-chad-michael-murray-puts-god-family-first-avoid-bad-situations)
+     [![Kristin Cavallari slams Kardashian family as manipulative - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/kristin-cavallari-slams-kardashian-family-manipulative)
 
-### ['Merry Gentlemen' star Chad Michael Murray puts ‘God and family first’ to avoid ‘bad situations’](https://www.foxnews.com/entertainment/merry-gentlemen-star-chad-michael-murray-puts-god-family-first-avoid-bad-situations)
+### [Kristin Cavallari slams Kardashian family as manipulative](https://www.foxnews.com/entertainment/kristin-cavallari-slams-kardashian-family-manipulative)
 
-### [Mark Wahlberg thankful for his continued 'relationship with God' this holiday season](https://www.foxnews.com/entertainment/mark-wahlberg-thankful-continued-relationship-god-holiday-season)
+### [‘Brady Bunch’ actors talk co-star hookups, first kisses, fake weddings](https://www.foxnews.com/entertainment/brady-bunch-actors-admit-co-star-hookups-first-kisses-fake-weddings)
 
-   [![MIAMI, FLORIDA - JANUARY 21: Mark Wahlberg is seen on January 21, 2023 in Miami, Florida. (Photo by 305pics/GC Images) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/mark-wahlberg-thankful-continued-relationship-god-holiday-season)
+   [![UNITED STATES - SEPTEMBER 01:  THE BRADY BUNCH - Season Three - 9/1/71, The misadventures of a large family united when two widowed people married. Susan Olsen (as Cindy), Barry Williams (as Greg), Eve Plumb (as Jan), Maureen McCormick (as Marcia), Christopher Knight (as Peter), Mike Lookinland (as Bobby) in the Disney General Entertainment Content via Getty Images Television Network series &quot;The Brady Bunch.&quot;,  (Photo by ABC Photo Archives/Disney General Entertainment Content via Getty Images) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/brady-bunch-actors-admit-co-star-hookups-first-kisses-fake-weddings)
 
-### [Meghan Markle, Victoria Beckham friendship fallout ‘boils down to jealousy’: expert](https://www.foxnews.com/entertainment/meghan-markle-victoria-beckham-friendship-fallout-boils-down-jealousy-expert)
+### [Brooke Burke's tip to feast at Thanksgiving without sacrificing your waistline](https://www.foxnews.com/entertainment/brooke-burkes-tip-feast-thanksgiving-without-sacrificing-your-waistline)
 
-   [![Meghan Markles rift with Victoria Beckham &quot;boils down to jealousy.&quot; - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/meghan-markle-victoria-beckham-friendship-fallout-boils-down-jealousy-expert)
+   [![Brooke Burke shared ways to minimize your waistline during the holidays. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/brooke-burkes-tip-feast-thanksgiving-without-sacrificing-your-waistline)
 
-### [Sharon Stone chastises 'ignorant, arrogant' Americans in rant against fascism](https://www.foxnews.com/entertainment/sharon-stone-chastises-ignorant-arrogant-americans-rant-against-fascism)
+### [‘Desperate Housewives’ star Teri Hatcher says dating at 59 is 'just not that fun anymore'](https://www.foxnews.com/entertainment/desperate-housewives-star-teri-hatcher-dating-59-not-fun)
 
-   [![Sharon Stone ranted about American politics at the Torino Film Festival. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/sharon-stone-chastises-ignorant-arrogant-americans-rant-against-fascism)
+   [![UNITED STATES - AUGUST 16: 100889_1011 -- DESPERATE HOUSEWIVES - A primetime soap with a truly contemporary take on &quot;happily every after,&quot; this new hour- long drama takes a darkly comedic look at suburbia, where the secret lives of housewives aren&apos;t always what they seem. &quot;Desperate Housewives&quot; stars Teri Hatcher as Susan Mayer. / NEW YORK, NEW YORK - FEBRUARY 01: Teri Hatcher attends The American Heart Association&apos;s Go Red for Women Red Dress Collection Concert 2023 on February 01, 2023 in New York City. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/desperate-housewives-star-teri-hatcher-dating-59-not-fun)
 
 [Sports](https://www.foxnews.com/sports)
 ----------------------------------------
 
-     [![Aaron Rodgers mocks people still giving 'vax status,' says to 'look out' with RFK Jr in Trump's admin - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/aaron-rodgers-mocks-people-still-giving-vax-status-says-look-out-rfk-jr-trumps-admin)
+     [![Nevada gov speaks out against trans athletes in women's sports ahead of controversial volleyball tournament - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/nevada-gov-speaks-out-against-trans-athletes-womens-sports-ahead-controversial-volleyball-tournament)
 
-### [Aaron Rodgers mocks people still giving 'vax status,' says to 'look out' with RFK Jr in Trump's admin](https://www.foxnews.com/sports/aaron-rodgers-mocks-people-still-giving-vax-status-says-look-out-rfk-jr-trumps-admin)
+### [Nevada gov speaks out against trans athletes in women's sports ahead of controversial volleyball tournament](https://www.foxnews.com/sports/nevada-gov-speaks-out-against-trans-athletes-womens-sports-ahead-controversial-volleyball-tournament)
 
-### [LIV Golf star Bryson DeChambeau reveals space aspirations while taking in SpaceX rocket launch](https://www.foxnews.com/sports/liv-golf-star-bryson-dechambeau-reveals-space-aspirations-while-taking-spacex-rocket-launch)
+### [Shaq tosses hilarious quip at Charles Barkley for his weight loss: 'Ozempic FBI!'](https://www.foxnews.com/sports/shaq-tosses-hilarious-quip-charles-barkley-his-weight-loss-ozempic-fbi)
 
-   [![Sep 21, 2024; Carrolton, Texas, USA; Bryson DeChambeau of the Crushers GC watches his shot from the tenth tee during the LIV Golf Dallas Team Championship Semifinals at Maridoe Golf Club. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/liv-golf-star-bryson-dechambeau-reveals-space-aspirations-while-taking-spacex-rocket-launch)
+   [![NBA Hall of Famers Shaquille O&apos;Neal and Charles Barkley had a few quips for each other on &quot;Inside the NBA.&quot; - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/shaq-tosses-hilarious-quip-charles-barkley-his-weight-loss-ozempic-fbi)
 
-### [Stephen A Smith claims Trump ran for president to 'get back' at NFL owners after failed Bills bid](https://www.foxnews.com/sports/stephen-smith-claims-trump-ran-president-get-back-nfl-owners-after-failed-bills-bid)
+### [Travis Kelce jokes that Jason and Kylie should 'go for the starting five' after announcement of 4th child](https://www.foxnews.com/sports/travis-kelce-jokes-jason-kylie-should-go-starting-five-after-announcement-4th-child)
 
-   [![Republican presidential nominee and former President Donald Trump attends a game between the NFL Pittsburgh Steelers and the New York Jets in Latrobe, Pennsylvania on October 20, 2024. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/stephen-smith-claims-trump-ran-president-get-back-nfl-owners-after-failed-bills-bid)
+   [![Travis Kelce and brother Jason Kelce talk on the 4th tee during the first round of the American Century Celebrity Championship golf tournament at Edgewood Tahoe Golf Course in Stateline, Nev., Friday, July 12, 2024. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/travis-kelce-jokes-jason-kylie-should-go-starting-five-after-announcement-4th-child)
 
-### [SJSU transgender volleyball scandal: Timeline of allegations, political impact and a raging culture movement](https://www.foxnews.com/sports/sjsu-transgender-volleyball-scandal-timeline-allegations-political-impact-counterculture-movement)
+### [2024 NBA Cup odds: Celtics favored; Warriors, Rockets clinch groups](https://www.foxnews.com/sports/2024-nba-cup-odds)
 
-   [![Blaire Fleming, Donald Trump, and Brooke Slusser - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/sjsu-transgender-volleyball-scandal-timeline-allegations-political-impact-counterculture-movement)
+   [![2024 NBA Cup odds: Celtics favored; Warriors, Rockets clinch groups - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/2024-nba-cup-odds)
 
 [U.S.](https://www.foxnews.com/us)
 ----------------------------------
 
-     [![Macy's Thanksgiving Day Parade seen as attractive terrorist target: report - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/macys-thanksgiving-day-parade-seen-attractive-terrorist-target-report)
+     [![Florida golfer, 65, beaten to death with own clubs in 'random act of violence,' authorities say - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/florida-golfer-65-beaten-death-own-clubs-random-act-violence-authorities-say)
 
-### [Macy's Thanksgiving Day Parade seen as attractive terrorist target: report](https://www.foxnews.com/us/macys-thanksgiving-day-parade-seen-attractive-terrorist-target-report)
+### [Florida golfer, 65, beaten to death with own clubs in 'random act of violence,' authorities say](https://www.foxnews.com/us/florida-golfer-65-beaten-death-own-clubs-random-act-violence-authorities-say)
 
-### [As Americans prepare for Thanksgiving, veterans face food insecurity in significant numbers: study](https://www.foxnews.com/us/americans-prepare-thanksgiving-veterans-face-food-insecurity-significant-numbers-study)
+### [Grandpa shoots burglar who broke into his business with grandkids inside](https://www.foxnews.com/us/grandpa-shoots-burglar-who-broke-into-his-business-with-grandkids-inside)
 
-   [![Volunteers serve up plates filled with all of the traditional Thanksgiving food at the Long Beach Rescue Mission in Long Beach on Wednesday, November 22, 2023. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/americans-prepare-thanksgiving-veterans-face-food-insecurity-significant-numbers-study)
+   [![A California business owner says he shot a burglar who broke into his store in the middle of the night to save his grandson&apos;s lives. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/grandpa-shoots-burglar-who-broke-into-his-business-with-grandkids-inside)
 
-### [First Harris video since losing goes viral for wrong reasons and more top headlines](https://www.foxnews.com/us/first-harris-video-since-losing-goes-viral-wrong-reason-more-top-headlines)
+### [Killer wife appears unfazed by life sentence for husband's murder she blamed on daughter](https://www.foxnews.com/us/killer-wife-appears-unfazed-life-sentence-husbands-murder-she-blamed-daughter)
 
-   [![Vice President Kamala Harris addressed her supporters in an X video on Tuesday. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/first-harris-video-since-losing-goes-viral-wrong-reason-more-top-headlines)
+   [![Laurie Shaver at sentencing - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/killer-wife-appears-unfazed-life-sentence-husbands-murder-she-blamed-daughter)
 
-### [Venezuelan gang members arrested in southern state same week officials warned of Tren de Aragua resurgence](https://www.foxnews.com/us/venezuelan-gang-members-arrested-southern-state-same-week-officials-warned-tren-de-aragua-resurgence)
+### [Sleeping man saved from rolling off bridge by police officer, Good Samaritan in dramatic video](https://www.foxnews.com/us/sleeping-man-saved-from-rolling-off-bridge-police-officer-good-samaritan-dramatic-video)
 
-   [![Four suspects, including a Tren de Aragua member, have been arrested in Hamilton County, Tennessee, in a sex-trafficking sting. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/venezuelan-gang-members-arrested-southern-state-same-week-officials-warned-tren-de-aragua-resurgence)
+   [![Dramatic new video has been released showing the moment a quick-thinking police officer and a Good Samaritan save a sleeping man from certain death after he rolled off a bridge in Oklahoma. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/sleeping-man-saved-from-rolling-off-bridge-police-officer-good-samaritan-dramatic-video)
 
 [Family](https://www.foxnews.com/family)
 ----------------------------------------
@@ -1025,21 +1023,21 @@ Top 'quiet travel' DESTINATIONS](https://www.foxnews.com/travel/quiet-travel-hav
 [Technology](https://www.foxnews.com/tech)
 ------------------------------------------
 
-     [![Talk in 2 languages with Apple Watch's real-time translation - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/tech/talk-two-languages-apple-watchs-real-time-translation)
+     [![Fox News AI Newsletter: Amazon's $4B bet on an AI startup - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/tech/fox-news-ai-newsletter-amazons-4b-bet-ai-startup)
+
+### [Fox News AI Newsletter: Amazon's $4B bet on an AI startup](https://www.foxnews.com/tech/fox-news-ai-newsletter-amazons-4b-bet-ai-startup)
+
+### [6 sneaky gift card scams to watch out for this holiday season](https://www.foxnews.com/tech/6-sneaky-gift-card-scams-watch-out-holiday-season)
+
+   [![A person purchasing a gift card online - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/tech/6-sneaky-gift-card-scams-watch-out-holiday-season)
 
 ### [Talk in 2 languages with Apple Watch's real-time translation](https://www.foxnews.com/tech/talk-two-languages-apple-watchs-real-time-translation)
+
+   [![A man wearing an Apple Watch - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/tech/talk-two-languages-apple-watchs-real-time-translation)
 
 ### [How to (kindly) ask people not to post your kids' photos on social media](https://www.foxnews.com/tech/how-kindly-ask-people-not-post-your-kids-social)
 
    [![Tired pretty blonde teenage girl using a laptop,doing homework,listening online lesson at home.Back to school concept.School distance education at home during coronavirus pandemic,homeschooling. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/tech/how-kindly-ask-people-not-post-your-kids-social)
-
-### [Lost access? Here’s how to reclaim your Facebook account](https://www.foxnews.com/tech/lost-access-heres-how-reclaim-your-facebook-account)
-
-   [![Facebook app on smartphone - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/tech/lost-access-heres-how-reclaim-your-facebook-account)
-
-### [Don't chance it. Secure your retirement accounts with a VPN and protect your future](https://www.foxnews.com/tech/dont-chance-it-secure-your-retirement-accounts-vpn-protect-your-future)
-
-   [![A woman using a VPN on her tablet - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/tech/dont-chance-it-secure-your-retirement-accounts-vpn-protect-your-future)
 
 [Movies](https://www.foxnews.com/category/entertainment/movies)
 ---------------------------------------------------------------
@@ -1063,28 +1061,32 @@ Top 'quiet travel' DESTINATIONS](https://www.foxnews.com/travel/quiet-travel-hav
 [Business](https://www.foxbusiness.com/)
 ----------------------------------------
 
-     [![Why are ESG-oriented ETFs going away? - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/markets/why-esg-oriented-etfs-going-away)
+     [![Trump's proposed tariffs on Mexico, Canada, China will increase inflation, Goldman Sachs warns - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/economy/trumps-proposed-tariffs-mexico-canada-china-increase-inflation-goldman-sachs-warns)
 
-### [Why are ESG-oriented ETFs going away?](https://www.foxbusiness.com/markets/why-esg-oriented-etfs-going-away)
+### [Trump's proposed tariffs on Mexico, Canada, China will increase inflation, Goldman Sachs warns](https://www.foxbusiness.com/economy/trumps-proposed-tariffs-mexico-canada-china-increase-inflation-goldman-sachs-warns)
 
-### [When do major retailers open on Black Friday?](https://www.foxbusiness.com/economy/when-do-major-retailers-open-black-friday)
+### [Mortgage demand jumps as rates drop](https://www.foxbusiness.com/economy/mortgage-rates-november-27-2024)
 
-   [![NEW YORK - DECEMBER 24:  Last minute shoppers shop during the few remaining hours of shopping on Christmas eve December 24, 2004 at Macys in New York City. Retailers suffering with disappointing seasonal sales hope to get a surge in sales due to last minute Christmas shopping.  (Photo by Stephen Chernin/Getty Images) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/economy/when-do-major-retailers-open-black-friday)
+   [![A For Sale sign displayed in front of a home on February 22, 2023 in Miami, Florida. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/economy/mortgage-rates-november-27-2024)
 
-### [Majority of Americans lack economic security, study finds](https://www.foxbusiness.com/economy/majority-americans-lack-economic-security-study-finds)
+### [New Taylor Swift book hits Target shelves on Black Friday: What to know](https://www.foxbusiness.com/retail/new-taylor-swift-book-hits-target-shelves-black-friday-what-know)
 
-   [![More than half of American households do not have the resources to pay their monthly expenses and have enough money left to save, a new study found - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/economy/majority-americans-lack-economic-security-study-finds)
+   [![Taylor Swift holding copies of &quot;The Eras Tour Book&quot; and &quot;The Tortured Poets Department: The Anthology&quot; - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/retail/new-taylor-swift-book-hits-target-shelves-black-friday-what-know)
 
-### [Traveling by plane for Thanksgiving? How airline refund rules can help when flights are canceled, delayed](https://www.foxbusiness.com/lifestyle/traveling-plane-thanksgiving-how-airline-refund-rules-can-help-when-flights-canceled-delayed)
+### [Dow hits all-time high, on pace for 47th record close](https://www.foxbusiness.com/markets/dow-hits-all-time-high-pace-47th-record-close)
 
-   [![JetBlue has been sued in the Southern District of New York for allegedly violating the Civil Rights Act of 1866 against Orthodox Jewish passengers. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/lifestyle/traveling-plane-thanksgiving-how-airline-refund-rules-can-help-when-flights-canceled-delayed)
+   [![A Trump hat on the floor of the New York Stock Exchange (NYSE) in New York, US, on Wednesday, Nov. 6, 2024. Donald Trump quickly put his stamp on financial markets as his victory in the US presidential election propelled &quot;Trump Trade&quot; plays across assets. Photographer: Michael Nagle/Bloomberg via Getty Images - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/markets/dow-hits-all-time-high-pace-47th-record-close)
 
 [Faith & Values](https://www.foxnews.com/faith-values)
 ------------------------------------------------------
 
-     [!['Merry Gentlemen' star Chad Michael Murray puts ‘God and family first’ to avoid ‘bad situations’ - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/merry-gentlemen-star-chad-michael-murray-puts-god-family-first-avoid-bad-situations)
+     [![DR. AYELET LEVY SHAHAR: A mother's message to America: Don't forget the hostages - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/opinion/dr-ayelet-levy-shahar-mothers-message-america-dont-forget-hostages)
+
+### [DR. AYELET LEVY SHAHAR: A mother's message to America: Don't forget the hostages](https://www.foxnews.com/opinion/dr-ayelet-levy-shahar-mothers-message-america-dont-forget-hostages)
 
 ### ['Merry Gentlemen' star Chad Michael Murray puts ‘God and family first’ to avoid ‘bad situations’](https://www.foxnews.com/entertainment/merry-gentlemen-star-chad-michael-murray-puts-god-family-first-avoid-bad-situations)
+
+   [![The Merry Gentlemen. (L-R) Hector David Jr. as Ricky, Marc Anthony Samuel as Rodger, Chad Michael Murray as Luke and Colt Prattes as Troy in The Merry Gentlemen. Cr. Katrina Marcinowski/Netflix &copy; 2024 - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/merry-gentlemen-star-chad-michael-murray-puts-god-family-first-avoid-bad-situations)
 
 ### [In my city of Chicago, many are rooting for me to fail. In their eyes I'm committing this crime](https://www.foxnews.com/opinion/my-city-chicago-many-rooting-me-fail-eyes-im-committing-crime)
 
@@ -1093,10 +1095,6 @@ Top 'quiet travel' DESTINATIONS](https://www.foxnews.com/travel/quiet-travel-hav
 ### [Bishop T.D. Jakes suffers health incident after 'powerful' sermon during Sunday service](https://www.foxnews.com/us/bishop-t-d-jakes-suffers-health-incident-powerful-sermon-sunday-service)
 
    [![Bishop T.D. Jakes speaks on stage during day 3 of the Cry Out 2024 at George R. Brown Convention Center on June 23, 2024 in Houston, Texas. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/bishop-t-d-jakes-suffers-health-incident-powerful-sermon-sunday-service)
-
-### [Kim Kardashian admonished for wearing rosary in new scantily clad advertisement: 'Nothing about you is holy'](https://www.foxnews.com/entertainment/kim-kardashian-admonished-wearing-rosary-new-scantily-clad-advertisement-nothing-about-holy)
-
-   [![LOS ANGELES, CALIFORNIA - NOVEMBER 02: Kim Kardashian attends the 2024 LACMA Art+Film Gala at Los Angeles County Museum of Art on November 02, 2024 in Los Angeles, California. (Photo by Alberto E. Rodriguez/WireImage) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/kim-kardashian-admonished-wearing-rosary-new-scantily-clad-advertisement-nothing-about-holy)
 
 [Autos](https://www.foxnews.com/auto)
 -------------------------------------
@@ -1120,28 +1118,32 @@ Top 'quiet travel' DESTINATIONS](https://www.foxnews.com/travel/quiet-travel-hav
 [Travel + Outdoors](https://www.foxnews.com/travel)
 ---------------------------------------------------
 
-     [![Talk in 2 languages with Apple Watch's real-time translation - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/tech/talk-two-languages-apple-watchs-real-time-translation)
+     [![16 gifts for outdoorsy people you can find during Black Friday - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/lifestyle/gifts-outdoors-black-friday)
+
+### [16 gifts for outdoorsy people you can find during Black Friday](https://www.foxnews.com/lifestyle/gifts-outdoors-black-friday)
+
+### [Search for missing Oregon hiker and her dogs suspended over 'weather conditions, likelihood of survivability'](https://www.foxnews.com/us/search-missing-oregon-hiker-her-dogs-suspended-weather-conditions-likelihood-survivability)
+
+   [![Susan Lane-Fournier and the Malinois-mix dogs she is believed to have vanished with, the Clackamas County Sheriff&apos;s Office says. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/search-missing-oregon-hiker-her-dogs-suspended-weather-conditions-likelihood-survivability)
 
 ### [Talk in 2 languages with Apple Watch's real-time translation](https://www.foxnews.com/tech/talk-two-languages-apple-watchs-real-time-translation)
+
+   [![A man wearing an Apple Watch - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/tech/talk-two-languages-apple-watchs-real-time-translation)
 
 ### [Flight passengers' ritual of touching airplane before boarding sparks mixed feelings among travelers](https://www.foxnews.com/travel/flight-passengers-ritual-touching-airplane-boarding-sparks-mixed-feelings-among-travelers)
 
    [![Private plane business travel - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/travel/flight-passengers-ritual-touching-airplane-boarding-sparks-mixed-feelings-among-travelers)
 
-### [California man allegedly checked suitcases containing meth-caked clothes and a cow pajama onesie: DOJ](https://www.foxnews.com/us/california-man-allegedly-checked-suitcases-containing-meth-caked-clothes-cow-pajama-onesie-doj)
-
-   [![A California man allegedly checked to suitcases into Los Angeles International Airport before a flight to Sydney, Australia, which contained several pieces of clothing caked in methamphetamines. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/california-man-allegedly-checked-suitcases-containing-meth-caked-clothes-cow-pajama-onesie-doj)
-
-### [Mom's message in a bottle found by her own daughter 26 years later](https://www.foxnews.com/travel/moms-message-bottle-found-her-own-daughter-26-years-later)
-
-   [![Mom&apos;s message in a bottle found by her own daughter 26 years later - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/travel/moms-message-bottle-found-her-own-daughter-26-years-later)
-
 [Music](https://www.foxnews.com/category/entertainment/music)
 -------------------------------------------------------------
 
-     [![Sammy Hagar thankful for his health and career this Thanksgiving - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/sammy-hagar-thankful-his-health-career-thanksgiving)
+     [![Gwen Stefani tried to shut down ‘insane’ relationship with Blake Shelton - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/gwen-stefani-tried-shut-down-insane-relationship-blake-shelton)
+
+### [Gwen Stefani tried to shut down ‘insane’ relationship with Blake Shelton](https://www.foxnews.com/entertainment/gwen-stefani-tried-shut-down-insane-relationship-blake-shelton)
 
 ### [Sammy Hagar thankful for his health and career this Thanksgiving](https://www.foxnews.com/entertainment/sammy-hagar-thankful-his-health-career-thanksgiving)
+
+   [![Sammy Hagar at the star ceremony where Sammy Hagar is honored with a star on the Hollywood Walk of Fame on April 30, 2024 in Los Angeles, California. (Photo by Michael Buckner/Variety via Getty Images) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/sammy-hagar-thankful-his-health-career-thanksgiving)
 
 ### [Zach Bryan scolds fan for throwing object on stage during concert](https://www.foxnews.com/entertainment/zach-bryan-scolds-fan-throwing-object-stage-during-concert)
 
@@ -1151,28 +1153,24 @@ Top 'quiet travel' DESTINATIONS](https://www.foxnews.com/travel/quiet-travel-hav
 
    [![NASHVILLE, TENNESSEE - AUGUST 21: In this image released on September 18, 2024, (L-R) Brittany Aldean and Jason Aldean attend the 17th Academy Of Country Music Honors at Ryman Auditorium on August 21, 2024 in Nashville, Tennessee. (Photo by John Shearer/Getty Images for ACM) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/jason-aldean-wife-brittany-embrace-not-being-politically-correct-homeschooling-amid-fame)
 
-### [Elton John unsure if he can return to work after ‘severe’ infection caused loss of vision in right eye](https://www.foxnews.com/entertainment/elton-john-unsure-he-can-return-work-after-severe-infection-caused-loss-vision-right-eye)
-
-   [![NEW YORK, NEW YORK - OCTOBER 01: Elton John performs onstage at the &quot;Elton John: Never Too Late&quot; screening during the 62nd New York Film Festival at Alice Tully Hall, Lincoln Center on October 01, 2024 in New York City. (Photo by Jamie McCarthy/Getty Images for FLC) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/elton-john-unsure-he-can-return-work-after-severe-infection-caused-loss-vision-right-eye)
-
 [Food + Drink](https://www.foxnews.com/food-drink)
 --------------------------------------------------
 
-     [![For Thanksgiving, this type of bread makes the best stuffing, chefs reveal - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/food-drink/thanksgiving-type-bread-makes-best-stuffing-chefs)
+     [!['Best homemade' Thanksgiving turkey gravy: Try the recipe - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/food-drink/best-homemade-thanksgiving-turkey-gravy-try-recipe)
+
+### ['Best homemade' Thanksgiving turkey gravy: Try the recipe](https://www.foxnews.com/food-drink/best-homemade-thanksgiving-turkey-gravy-try-recipe)
+
+### ['Yellowstone' star and chef reveals Thanksgiving turkey carving tips, common bird-cooking mistakes](https://www.foxnews.com/food-drink/yellowstone-star-chef-reveals-thanksgiving-turkey-carving-tips-common-bird-cooking-mistakes)
+
+   [![&lsquo;Yellowstone&rsquo; actor and real-life Gabriel &quot;Gator&quot; Guilbeau shares with Fox News Digital his Thanksgiving turkey tips. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/food-drink/yellowstone-star-chef-reveals-thanksgiving-turkey-carving-tips-common-bird-cooking-mistakes)
 
 ### [For Thanksgiving, this type of bread makes the best stuffing, chefs reveal](https://www.foxnews.com/food-drink/thanksgiving-type-bread-makes-best-stuffing-chefs)
+
+   [![Homemade Turkey Stuffing for Thanksgiving Dinner in a Casserole Dish - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/food-drink/thanksgiving-type-bread-makes-best-stuffing-chefs)
 
 ### [Food in focus as NHL team helps feed hungry residents through goals scored](https://www.foxnews.com/food-drink/food-focus-nhl-team-helps-feed-hungry-residents-through-goals-scored)
 
    [![The Florida Panthers are cross-checking hunger by donating 650 meals each time a goal is scored at home this season. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/food-drink/food-focus-nhl-team-helps-feed-hungry-residents-through-goals-scored)
-
-### [World's oldest man, dead at 112, ate this meal every Friday](https://www.foxnews.com/food-drink/worlds-oldest-man-dead-112-ate-meal-every-friday)
-
-   [![John Alfred Tinniswood poses for a photo on April 4, 2024. The world&rsquo;s oldest man has died in England at age 112. The family of John Alfred Tinniswood said he died Monday, Nov. 25, 2024 at a care home outside Liverpool, where he was born in 1912. (Guinness World Records via AP) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/food-drink/worlds-oldest-man-dead-112-ate-meal-every-friday)
-
-### [Thanksgiving decision: Is butter or margarine a better spread at your feast?](https://www.foxnews.com/food-drink/thanksgiving-decision-butter-margarine-better-spread-feast)
-
-   [![Happy mother and her little daughter making final preparation of roasted turkey for dinner with their family. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/food-drink/thanksgiving-decision-butter-margarine-better-spread-feast)
 
 [FOX Weather](https://www.foxweather.com/)
 ------------------------------------------
@@ -1181,9 +1179,9 @@ Top 'quiet travel' DESTINATIONS](https://www.foxnews.com/travel/quiet-travel-hav
 
 ### [Thanksgiving winter storm puts millions on alert in Northeast for heavy snow, rain threatening holiday travel](https://www.foxweather.com/weather-news/thanksgiving-winter-storm-snow-2024)
 
-### [Arctic blast to invade US on Thanksgiving with nearly 230 million plunging below average by Friday](https://www.foxweather.com/weather-news/cold-temperatures-thanksgiving-forecast)
+### [Nearly 230 million face arctic blast following Thanksgiving with temps plunging below average](https://www.foxweather.com/weather-news/cold-temperatures-thanksgiving-forecast)
 
-   [![Arctic blast to invade US on Thanksgiving with nearly 230 million plunging below average by Friday - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxweather.com/weather-news/cold-temperatures-thanksgiving-forecast)
+   [![Nearly 230 million face arctic blast following Thanksgiving with temps plunging below average - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxweather.com/weather-news/cold-temperatures-thanksgiving-forecast)
 
 ### [Thanksgiving travel winter storm weather tracker: Live maps, airport status, flight delays, forecast and more](https://www.foxweather.com/weather-news/thanksgiving-travel-2024-live-maps-weather-flight-delays)
 
@@ -1196,66 +1194,70 @@ Top 'quiet travel' DESTINATIONS](https://www.foxnews.com/travel/quiet-travel-hav
 [Full Episodes](https://www.foxnews.com/video/topics/latest-news-video)
 -----------------------------------------------------------------------
 
-      [![Hannity - Tuesday, November 26 - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/6365248381112)
+      [![Outnumbered - Wednesday, November 27 - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/6365262614112)
 
-### [Hannity - Tuesday, November 26](https://www.foxnews.com/video/6365248381112)
+### [Outnumbered - Wednesday, November 27](https://www.foxnews.com/video/6365262614112)
 
-### [Fox News @ Night - Tuesday, November 26](https://www.foxnews.com/video/6365244442112)
+### [Jesse Watters Primetime - Tuesday, November 26](https://www.foxnews.com/video/6365251380112)
 
-    [![Fox News @ Night - Tuesday, November 26 - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/6365244442112)
+    [![Jesse Watters Primetime - Tuesday, November 26 - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/6365251380112)
 
-### [Special Report w/ Bret Baier - Tuesday, November 26](https://www.foxnews.com/video/6365230970112)
+### [The Ingraham Angle - Tuesday, November 26](https://www.foxnews.com/video/6365250865112)
 
-    [![Special Report w/ Bret Baier - Tuesday, November 26 - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/6365230970112)
+    [![The Ingraham Angle - Tuesday, November 26 - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/6365250865112)
 
-### [The Five - Tuesday, November 26](https://www.foxnews.com/video/6365228433112)
+### [Gutfeld! - Tuesday, November 26](https://www.foxnews.com/video/6365251193112)
 
-    [![The Five - Tuesday, November 26 - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/6365228433112)
+    [![Gutfeld! - Tuesday, November 26 - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/6365251193112)
 
 [Latest Wires](https://www.foxnews.com/category/topic/associated-press)
 -----------------------------------------------------------------------
 
-     [![6 dead as protests erupt in Pakistan over jailed former Prime Minister Imran Khan - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/world/dead-protests-erupt-pakistan-jailed-former-prime-minister-imran-khan)
+     [![US sanctions 21 more Maduro allies accused of post-election repression in Venezuela - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/world/us-sanctions-21-more-maduro-allies-accused-post-election-repression-venezuela)
+
+### [US sanctions 21 more Maduro allies accused of post-election repression in Venezuela](https://www.foxnews.com/world/us-sanctions-21-more-maduro-allies-accused-post-election-repression-venezuela)
+
+### [Australian police officer who used Taser on 95-year-old woman found guilty of manslaughter](https://www.foxnews.com/world/australian-police-officer-who-used-taser-95-year-old-woman-found-guilty-manslaughter)
+
+   [![Senior Constable Kristian White arrives at the New South Wales Supreme Court, in Sydney, Tuesday, Nov. 26, 2024. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/world/australian-police-officer-who-used-taser-95-year-old-woman-found-guilty-manslaughter)
 
 ### [6 dead as protests erupt in Pakistan over jailed former Prime Minister Imran Khan](https://www.foxnews.com/world/dead-protests-erupt-pakistan-jailed-former-prime-minister-imran-khan)
+
+   [![Paramilitary soldiers fire tear gas shells to disperse supporters of imprisoned former premier Imran Khan&apos;s Pakistan Tehreek-e-Insaf party, during clashes, in Islamabad, Pakistan, Tuesday, Nov. 26, 2024. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/world/dead-protests-erupt-pakistan-jailed-former-prime-minister-imran-khan)
 
 ### [Earth bids farewell to 'mini moon' asteroid set for return visit in 2055](https://www.foxnews.com/science/earth-mini-moon-asteroid)
 
    [![A supermoon with a partial lunar eclipse rises over Lake Michigan in Chicago, Sept. 17, 2024. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/science/earth-mini-moon-asteroid)
 
-### [Alabama carries out nitrogen gas execution on inmate convicted in female hitchhiker's 1994 killing](https://www.foxnews.com/us/alabama-carries-out-nitrogen-gas-execution-inmate-convicted-female-hitchhikers-1994-killing)
-
-   [![Carey Dale Grayson - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/alabama-carries-out-nitrogen-gas-execution-inmate-convicted-female-hitchhikers-1994-killing)
-
-### [Percival Everett, Jason De León selected as winners of the 2024 National Book Awards](https://www.foxnews.com/lifestyle/percival-everett-jason-de-leon-selected-winners-2024-national-book-awards)
-
-   [![This combo image shows authors Percival Everett, left, and Jason De Leon as they attend the 75th National Book Awards ceremony at Cipriani Wall Street on Wednesday, Nov. 20, 2024, in New York. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/lifestyle/percival-everett-jason-de-leon-selected-winners-2024-national-book-awards)
-
 [Media](https://www.foxnews.com/media)
 --------------------------------------
 
-     [![Gregg Jarrett: Americans had final say on Jack Smith's 'misbegotten' Trump prosecutions - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/gregg-jarrett-americans-had-final-say-jack-smiths-misbegotten-trump-prosecutions)
+     [![Australian broadcast chair unleashes on Joe Rogan: 'Deeply repulsive' - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/australian-broadcast-chair-unleashes-joe-rogan-deeply-repulsive)
 
-### [Gregg Jarrett: Americans had final say on Jack Smith's 'misbegotten' Trump prosecutions](https://www.foxnews.com/media/gregg-jarrett-americans-had-final-say-jack-smiths-misbegotten-trump-prosecutions)
+### [Australian broadcast chair unleashes on Joe Rogan: 'Deeply repulsive'](https://www.foxnews.com/media/australian-broadcast-chair-unleashes-joe-rogan-deeply-repulsive)
 
-### [Bill Maher says Trump's win proves US isn't as 'divided,' 'racially tribal' as the media claims](https://www.foxnews.com/media/bill-maher-says-trumps-win-proves-us-isnt-divided-racially-tribal-media-claims)
+### [Longtime Democratic donor joins NYC mayoral race, vows to upend 'radical left' agenda](https://www.foxnews.com/media/longtime-democratic-donor-joins-nyc-mayoral-race-vows-upend-radical-left-agenda)
 
-   [![HBO host Bill Maher rebuked Trump supporters who insist that the former president was saved from assassination by God. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/bill-maher-says-trumps-win-proves-us-isnt-divided-racially-tribal-media-claims)
+   [![Eric Adams and Whitney Tilson - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/longtime-democratic-donor-joins-nyc-mayoral-race-vows-upend-radical-left-agenda)
 
-### [Harris team complains media asked VP 'dumb' questions:' 'A disservice to voters'](https://www.foxnews.com/media/harris-team-complains-media-asked-vp-dumb-questions-a-disservice-voters)
+### [Harris campaign admits popular 'Hot Ones' podcast rejected having candidate on: 'Weren't going to take us'](https://www.foxnews.com/media/harris-campaign-popular-hot-ones-podcast-rejected-candidate-werent-going-take-us)
 
-   [![Vice President Kamala Harris avoided questions about President Bidens mental decline during her Fox News interview. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/harris-team-complains-media-asked-vp-dumb-questions-a-disservice-voters)
+   [![The Harris campaign recently disclosed they were rejected in their attempts to get Vice President Kamala Harris on the popular YouTube podcast &quot;Hot Ones.&quot; - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/harris-campaign-popular-hot-ones-podcast-rejected-candidate-werent-going-take-us)
 
-### [Rocket launch attendees share hopes about Elon Musk’s prediction for Mars travel by 2026](https://www.foxnews.com/media/rocket-launch-attendees-share-hopes-about-elon-musks-prediction-mars-travel-2026)
+### [Al Sharpton continuing to host MSNBC show, make regular appearances after Harris campaign payment revealed](https://www.foxnews.com/media/al-sharpton-continuing-host-msnbc-show-make-regular-appearances-after-harris-campaign-payment-revealed)
 
-   [![Attendees of a SpaceX launch in Texas shared their estimates of how soon Musk will be sending manned or unmanned craft to Mars. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/rocket-launch-attendees-share-hopes-about-elon-musks-prediction-mars-travel-2026)
+   [![Al Sharpton MSNBC Harris - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/al-sharpton-continuing-host-msnbc-show-make-regular-appearances-after-harris-campaign-payment-revealed)
 
 [Antisemitism Exposed](https://www.foxnews.com/category/topic/anti-semitism)
 ----------------------------------------------------------------------------
 
-     [![NYT changes headline about murdered Dubai rabbi following public outcry: 'Call it for what it is' - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/nyt-changes-headline-about-murdered-dubai-rabbi-following-public-outcry-call-what-is)
+     [![DR. AYELET LEVY SHAHAR: A mother's message to America: Don't forget the hostages - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/opinion/dr-ayelet-levy-shahar-mothers-message-america-dont-forget-hostages)
+
+### [DR. AYELET LEVY SHAHAR: A mother's message to America: Don't forget the hostages](https://www.foxnews.com/opinion/dr-ayelet-levy-shahar-mothers-message-america-dont-forget-hostages)
 
 ### [NYT changes headline about murdered Dubai rabbi following public outcry: 'Call it for what it is'](https://www.foxnews.com/media/nyt-changes-headline-about-murdered-dubai-rabbi-following-public-outcry-call-what-is)
+
+   [![NYT changes headline about murdered Dubai rabbi following public outcry: &apos;Call it for what it is&apos; - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/nyt-changes-headline-about-murdered-dubai-rabbi-following-public-outcry-call-what-is)
 
 ### [UAE arrests 3 in death of missing Abu Dhabi rabbi, Israel decries 'abhorrent act of antisemitic terrorism’](https://www.foxnews.com/world/israel-confirms-death-missing-abu-dhabi-rabbi-abhorrent-act-antisemitic-terrorism)
 
@@ -1265,16 +1267,16 @@ Top 'quiet travel' DESTINATIONS](https://www.foxnews.com/travel/quiet-travel-hav
 
    [![A man walks along a building whose facade is covered with Stars of David painted during the night, in the Alesia district of Paris, on October 31, 2023. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/world/calls-us-do-more-antisemitic-acts-skyrocket-europe-enormously-painful)
 
-### [Stefanik meets with senators as Trump's UN ambassador nominee, touts 'America First peace through strength'](https://www.foxnews.com/world/stefanik-meets-senators-trumps-un-ambassador-nominee-touts-american-first-peace-through-strength)
-
-   [![Rep. Elise Stefanik, R-N.Y., said she worked closely with Sen. John Barasso &quot;when we were the House and Senate counterparts as Conference Chairs.&quot; - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/world/stefanik-meets-senators-trumps-un-ambassador-nominee-touts-american-first-peace-through-strength)
-
 [Immigration](https://www.foxnews.com/category/us/immigration)
 --------------------------------------------------------------
 
-     [![Venezuelan gang members arrested in southern state same week officials warned of Tren de Aragua resurgence - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/venezuelan-gang-members-arrested-southern-state-same-week-officials-warned-tren-de-aragua-resurgence)
+     [![Liberal Nantucket reels from migrant crime wave as Biden spends Thanksgiving in rich friend’s mansion - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/liberal-nantucket-reels-migrant-crime-wave-biden-spends-thanksgiving-rich-friends-mansion)
+
+### [Liberal Nantucket reels from migrant crime wave as Biden spends Thanksgiving in rich friend’s mansion](https://www.foxnews.com/us/liberal-nantucket-reels-migrant-crime-wave-biden-spends-thanksgiving-rich-friends-mansion)
 
 ### [Venezuelan gang members arrested in southern state same week officials warned of Tren de Aragua resurgence](https://www.foxnews.com/us/venezuelan-gang-members-arrested-southern-state-same-week-officials-warned-tren-de-aragua-resurgence)
+
+   [![Four suspects, including a Tren de Aragua member, have been arrested in Hamilton County, Tennessee, in a sex-trafficking sting. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/venezuelan-gang-members-arrested-southern-state-same-week-officials-warned-tren-de-aragua-resurgence)
 
 ### [California coastal enclave near sanctuary city tries to 'Newsom-proof' itself](https://www.foxnews.com/us/california-coastal-enclave-near-sanctuary-city-tries-newsom-proof-itself)
 
@@ -1284,28 +1286,24 @@ Top 'quiet travel' DESTINATIONS](https://www.foxnews.com/travel/quiet-travel-hav
 
    [![FILE - Migrants, mostly Venezuelans, cross a river during their journey through the Darien Gap from Colombia into Panama, hoping to reach the U.S., Oct. 15, 2022. The United States, Panama and Colombia announced Tuesday, April 11, 2023, that they will launch a 60-day campaign aimed at halting illegal migration through the treacherous Darien Gap, where the flow of migrants has multiplied this year. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/numbers-afghans-chinese-coming-through-key-migrant-crossing-surged-since-2021-report)
 
-### [Incoming border czar Homan issues warning in Texas to Dems opposing Trump deportations: 'Don't test us'](https://www.foxnews.com/politics/incoming-border-czar-homan-join-texas-gov-abbott-key-border-point-serve-meals-troops)
-
-   [![Incoming U.S. Border Czar Tom Homan, center, helps serve meals to state troopers and national guardsmen taking part in Operation Lone Star at a facility on the U.S.-Mexico border, Tuesday, Nov. 26, 2024, in Eagle Pass, Texas. (AP Photo/Eric Gay) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/incoming-border-czar-homan-join-texas-gov-abbott-key-border-point-serve-meals-troops)
-
 [Fox News Podcasts](https://radio.foxnews.com/podcast/)
 -------------------------------------------------------
 
-     [![The Menendez Brothers Will Not Be Home For Christmas - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://radio.foxnews.com/2024/11/27/the-menendez-brothers-will-not-be-home-for-christmas/)
+     [![A Firefighter’s Guide to Frying Your Turkey - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://radio.foxnews.com/2024/11/27/a-firefighters-guide-to-frying-your-turkey/)
 
-### [The Menendez Brothers Will Not Be Home For Christmas](https://radio.foxnews.com/2024/11/27/the-menendez-brothers-will-not-be-home-for-christmas/)
+### [A Firefighter’s Guide to Frying Your Turkey](https://radio.foxnews.com/2024/11/27/a-firefighters-guide-to-frying-your-turkey/)
 
-### [Tom Homan: Back To Building The Wall](https://radio.foxnews.com/2024/11/27/tom-homan-back-to-building-the-wall/)
+### [Trump’s New Border Czar Threatens to Jail Denver Mayor If He Shields Illegal Immigrants](https://radio.foxnews.com/2024/11/27/trumps-new-border-czar-threatens-to-jail-denver-mayor-if-he-shields-illegal-immigrants/)
 
-   [![Tom Homan: Back To Building The Wall - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://radio.foxnews.com/2024/11/27/tom-homan-back-to-building-the-wall/)
+   [![Trump&rsquo;s New Border Czar Threatens to Jail Denver Mayor If He Shields Illegal Immigrants - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://radio.foxnews.com/2024/11/27/trumps-new-border-czar-threatens-to-jail-denver-mayor-if-he-shields-illegal-immigrants/)
 
-### [The Department Of Education. Should It Stay Or Should It Go?](https://radio.foxnews.com/2024/11/27/the-department-of-education-should-it-stay-or-should-it-go/)
+### [‘DWTS’ Names Winners! (NEW: 8AM)](https://radio.foxnews.com/2024/11/27/dwts-names-winners-new-8am/)
 
-   [![The Department Of Education. Should It Stay Or Should It Go? - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://radio.foxnews.com/2024/11/27/the-department-of-education-should-it-stay-or-should-it-go/)
+   [![&lsquo;DWTS&rsquo; Names Winners! (NEW: 8AM) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://radio.foxnews.com/2024/11/27/dwts-names-winners-new-8am/)
 
-### [The Quiz #265 – The Great American Road Trip](https://radio.foxnews.com/2024/11/27/the-quiz-265-the-great-american-road-trip/)
+### [Will Trump Revive Keystone XL Pipeline?](https://radio.foxnews.com/2024/11/27/will-trump-revive-keystone-xl-pipeline/)
 
-   [![The Quiz #265 &ndash; The Great American Road Trip - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://radio.foxnews.com/2024/11/27/the-quiz-265-the-great-american-road-trip/)
+   [![Will Trump Revive Keystone XL Pipeline? - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://radio.foxnews.com/2024/11/27/will-trump-revive-keystone-xl-pipeline/)
 
 ##### [U.S.](https://www.foxnews.com/us)
 
