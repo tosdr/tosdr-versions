@@ -30,18 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/f64488f1-909b-4cf7-84ae-b25bb8bca61a/20241126T221944/f64488f1-909b-4cf7-84ae-b25bb8bca61a_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f64488f1-909b-4cf7-84ae-b25bb8bca61a/20241126T221944/f64488f1-909b-4cf7-84ae-b25bb8bca61a_360x203.jpg)](https://www.wqad.com/article/news/local/man-receives-300000-dollars-lost-money-great-iowa-treasure-hunt/526-9af4eef8-ea98-4140-a4a1-edb0c2a9b9e3)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/6ea2552c-00c8-4b5f-9ebc-a17dbc9d0359/20241127T002818/6ea2552c-00c8-4b5f-9ebc-a17dbc9d0359_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/6ea2552c-00c8-4b5f-9ebc-a17dbc9d0359/20241127T002818/6ea2552c-00c8-4b5f-9ebc-a17dbc9d0359_360x203.jpg)](https://www.wqad.com/article/money/business/bacon-factory-davenport-fair-oaks-foods/526-0ab7b5e5-81d5-4a2c-85b5-c4daea1e13a6)
         
-        #### [Man receives more than $300,000 in lost money from Great Iowa Treasure Hunt](https://www.wqad.com/article/news/local/man-receives-300000-dollars-lost-money-great-iowa-treasure-hunt/526-9af4eef8-ea98-4140-a4a1-edb0c2a9b9e3) [![](https://media.tegna-media.com/assets/WQAD/images/f64488f1-909b-4cf7-84ae-b25bb8bca61a/20241126T221944/f64488f1-909b-4cf7-84ae-b25bb8bca61a_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f64488f1-909b-4cf7-84ae-b25bb8bca61a/20241126T221944/f64488f1-909b-4cf7-84ae-b25bb8bca61a_360x203.jpg)](https://www.wqad.com/article/news/local/man-receives-300000-dollars-lost-money-great-iowa-treasure-hunt/526-9af4eef8-ea98-4140-a4a1-edb0c2a9b9e3)
+        #### [Here are where years-long plans for a new bacon factory in Davenport stand](https://www.wqad.com/article/money/business/bacon-factory-davenport-fair-oaks-foods/526-0ab7b5e5-81d5-4a2c-85b5-c4daea1e13a6)
         
-        #### [Great Iowa Treasure Hunt reunites one lucky man with more than $300,000](https://www.wqad.com/article/news/local/man-receives-300000-dollars-lost-money-great-iowa-treasure-hunt/526-9af4eef8-ea98-4140-a4a1-edb0c2a9b9e3) [![](https://media.tegna-media.com/assets/WQAD/images/f64488f1-909b-4cf7-84ae-b25bb8bca61a/20241126T221944/f64488f1-909b-4cf7-84ae-b25bb8bca61a_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f64488f1-909b-4cf7-84ae-b25bb8bca61a/20241126T221944/f64488f1-909b-4cf7-84ae-b25bb8bca61a_360x203.jpg)](https://www.wqad.com/article/news/local/man-receives-300000-dollars-lost-money-great-iowa-treasure-hunt/526-9af4eef8-ea98-4140-a4a1-edb0c2a9b9e3)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/e78e9cdd-53fc-4fd6-b5cc-d49bddc8024e/20241126T224448/e78e9cdd-53fc-4fd6-b5cc-d49bddc8024e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e78e9cdd-53fc-4fd6-b5cc-d49bddc8024e/20241126T224448/e78e9cdd-53fc-4fd6-b5cc-d49bddc8024e_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/three-rare-species-bee-plants-found-east-moline-rock-island-amowa-forest-preserve/526-77442e9a-fbd8-4737-9ebf-898ac10c4ef6)
         
-        #### [One lucky man is $300,000 richer thanks to the Great Iowa Treasure Hunt](https://www.wqad.com/article/news/local/man-receives-300000-dollars-lost-money-great-iowa-treasure-hunt/526-9af4eef8-ea98-4140-a4a1-edb0c2a9b9e3)
-    *  [![](https://media.tegna-media.com/assets/WUSA/images/cd9a8033-9d35-4f1e-8e26-b81ff308c604/cd9a8033-9d35-4f1e-8e26-b81ff308c604_16x9.jpg) ![](https://media.tegna-media.com/assets/WUSA/images/cd9a8033-9d35-4f1e-8e26-b81ff308c604/cd9a8033-9d35-4f1e-8e26-b81ff308c604_360x203.jpg)](https://www.wqad.com/article/news/local/moline-snow-removal-program-snow-angels-residents-in-need/526-6dc16d8f-2d3b-4e0a-aee1-a882f9f99650)
+        #### [Three rare species found in Amôwa Forest Preserve near East Moline](https://www.wqad.com/article/news/local/the-current/three-rare-species-bee-plants-found-east-moline-rock-island-amowa-forest-preserve/526-77442e9a-fbd8-4737-9ebf-898ac10c4ef6)
         
-        #### [New program helping with snow removal for Moline residents in need](https://www.wqad.com/article/news/local/moline-snow-removal-program-snow-angels-residents-in-need/526-6dc16d8f-2d3b-4e0a-aee1-a882f9f99650) [![](https://media.tegna-media.com/assets/WUSA/images/cd9a8033-9d35-4f1e-8e26-b81ff308c604/cd9a8033-9d35-4f1e-8e26-b81ff308c604_16x9.jpg) ![](https://media.tegna-media.com/assets/WUSA/images/cd9a8033-9d35-4f1e-8e26-b81ff308c604/cd9a8033-9d35-4f1e-8e26-b81ff308c604_360x203.jpg)](https://www.wqad.com/article/news/local/moline-snow-removal-program-snow-angels-residents-in-need/526-6dc16d8f-2d3b-4e0a-aee1-a882f9f99650)
-        
-        #### [Moline's new 'Snow Angel' program helping with snow removal for residents in need](https://www.wqad.com/article/news/local/moline-snow-removal-program-snow-angels-residents-in-need/526-6dc16d8f-2d3b-4e0a-aee1-a882f9f99650)
     
 * [Weather](https://www.wqad.com/weather)
     
@@ -60,9 +56,9 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/1599b000-3a47-43fd-b27b-fc2e8d5e43fe/20241126T131228/1599b000-3a47-43fd-b27b-fc2e8d5e43fe_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/1599b000-3a47-43fd-b27b-fc2e8d5e43fe/20241126T131228/1599b000-3a47-43fd-b27b-fc2e8d5e43fe_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/28239874-27fc-4ca9-836d-b2fd668b68a1/20241126T222334/28239874-27fc-4ca9-836d-b2fd668b68a1_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/28239874-27fc-4ca9-836d-b2fd668b68a1/20241126T222334/28239874-27fc-4ca9-836d-b2fd668b68a1_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Chilly Tuesday despite the return of sunshine](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [A seasonally cool day come Wednesday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/WUSA/images/fa3f5ca3-94ce-4c85-a82e-8bdd234d13c0/20241125T111801/fa3f5ca3-94ce-4c85-a82e-8bdd234d13c0_16x9.jpg) ![](https://media.tegna-media.com/assets/WUSA/images/fa3f5ca3-94ce-4c85-a82e-8bdd234d13c0/20241125T111801/fa3f5ca3-94ce-4c85-a82e-8bdd234d13c0_360x203.jpg)](https://www.wqad.com/article/tech/science/environment/christmas-trees-real-vs-artificial-environmental-impacts/65-07335bd6-c59b-44d0-b720-72761ded9160)
         
@@ -90,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-36°
+35°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
