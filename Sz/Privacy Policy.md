@@ -16,13 +16,13 @@
 Datenschutzhinweise
 ===================
 
-26.09.2024
+27.11.2024
 
 Wenn Sie ein Angebot der Süddeutschen Zeitung als SZ Plus-Abonnent:in nutzen, verarbeitet die Süddeutsche Zeitung GmbH Ihre personenbezogenen Daten. Mit diesen Datenschutzhinweisen informieren wir Sie, wie und warum wir Ihre Daten verarbeiten und wie wir gewährleisten, dass sie vertraulich bleiben und geschützt sind. Wenn Sie Abonnent:in der gedruckten SZ sind, finden Sie die entsprechenden Datenschutzhinweise der dann einschlägigen Datenverarbeitungen unter den Punkten [Vertragsabwicklung](#Bestellen), [Kommunikation](#Kommunikation) und [Werbung für unsere Produkte](#Direktwerbung)
 
 Wenn Sie SZ.de nutzen, indem Sie nach dem Aufrufen der Webseite einen Vertrag mit Werbung abschließen bzw. abgeschlossen haben, finden Sie die in diesem Fall geltenden Datenschutzhinweise [hier](https://www.swmh-datenschutz.de/sz_vertragmitwerbung).
 
-[als PDF speichern](https://datenschutz.sueddeutsche.de/sz/9.22/sz.pdf)
+[als PDF speichern](https://datenschutz.sueddeutsche.de/sz/9.23/sz.pdf)
 
 Die wichtigsten Themen auf einen Blick
 
@@ -532,16 +532,6 @@ Neben der Nutzungsanalyse setzen wir auch Testverfahren ein, um beispielsweise u
 Zu diesen Zwecken werden Profile, d.h. zu einem Nutzungsvorgang zusammengefasste Daten, angelegt und Informationen in einem Browser bzw. in einem Endgerät gespeichert und aus diesem ausgelesen. Zu den erhobenen Angaben gehören insbesondere besuchte Webseiten und dort genutzte Elemente sowie technische Angaben wie der verwendete Browser, das verwendete Computersystem sowie Angaben zu Nutzungszeiten.
 
 Es werden ebenfalls die IP-Adressen der Nutzer gespeichert. Wir nutzen dazu ein IP-Masking-Verfahren (d.h. Pseudonymisierung durch Kürzung der IP-Adresse) zu Ihrem Schutz. Generell werden die im Rahmen von Webanalyse, A/B-Testings und Optimierung keine Klardaten der Nutzer (wie z.B. E-Mail-Adressen oder Namen) gespeichert, sondern Pseudonyme, so dass weder wir noch die Anbieter der eingesetzten Software, die für uns als Auftragsverarbeiter tätig sind, die tatsächliche Identität der Nutzer kennen.
-
-#### Google Analytics
-
-Wir verwenden Google Analytics (Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland) zur Messung und Analyse der Nutzung unseres Onlineangebotes auf der Grundlage einer pseudonymen Nutzeridentifikationsnummer. Diese Identifikationsnummer enthält keine eindeutigen Daten, wie Namen oder E-Mail-Adressen. Sie dient dazu, Analyseinformationen einem Endgerät zuzuordnen, um zu erkennen, welche Inhalte die Nutzer innerhalb eines oder verschiedener Nutzungsvorgänge aufgerufen haben, welche Suchbegriffe sie verwendet haben, diese erneut aufgerufen haben oder mit unserem Onlineangebot interagiert haben. Ebenso werden der Zeitpunkt der Nutzung und deren Dauer gespeichert, sowie die Quellen der Nutzer, die auf unser Onlineangebot verweisen und technische Aspekte ihrer Endgeräte und Browser. Dabei werden pseudonyme Profile von Nutzern mit Informationen aus der Nutzung verschiedener Geräte erstellt, wobei Cookies eingesetzt werden können. Google Analytics protokolliert und speichert keine individuellen IP-Adressen für EU-Nutzer. Analytics stellt jedoch grobe geografische Standortdaten bereit, indem es die folgenden Metadaten von IP-Adressen ableitet: Stadt (und der abgeleitete Breiten- und Längengrad der Stadt), Kontinent, Land, Region, Subkontinent (und ID-basierte Gegenstücke). Beim EU-Datenverkehr werden die IP-Adressdaten ausschließlich für diese Ableitung von Geolokalisierungsdaten verwendet, bevor sie sofort gelöscht werden. Sie werden nicht protokolliert, sind nicht zugänglich und werden nicht für weitere Verwendungszwecke genutzt. Wenn Google Analytics Messdaten sammelt, werden alle IP-Abfragen auf EU-basierten Servern durchgeführt, bevor der Verkehr zur Verarbeitung an Analytics-Server weitergeleitet wird.
-
-Die Speicherdauer der Daten beträgt 14 Monate (betrifft Daten auf Nutzer- und Ereignisebene). Aggregierte Daten sind anonymisiert und werden nicht gelöscht.
-
-Google ist unser Auftragsverarbeiter, mit dem wir die dazu erforderlichen Vereinbarungen geschlossen haben. Wir haben zudem Maßnahmen ergriffen, um geeignete und angemessene Garantien zum Schutz der personenbezogenen Daten beim Drittlanddatentransfer sicherzustellen, indem wir EU-Standardvertragsklauseln abgeschlossen haben und bei Bedarf zusätzliche Maßnahmen zum Schutz der Betroffenenrechte beachten.
-
-Rechtsgrundlage für die Datenverarbeitung ist Ihre Einwilligung gemäß Art. 6 Abs. 1 S. 1 lit. a) DSGVO.
 
 ### SZ-Personalisierung
 
