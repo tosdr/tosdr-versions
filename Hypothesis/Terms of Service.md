@@ -195,6 +195,10 @@ Subscribe & Follow Subscribe
 * [](https://web.hypothes.is/feed/)
 * [](https://github.com/hypothesis)
 
+### Learn more about Hypothesis.
+
+Ready to experience the Hypothesis transformation? Complete the form to learn more.
+
   
 
 ×
