@@ -245,70 +245,13 @@ The provisions of these Terms of Use and any Additional Terms which expressly or
 7. Geographic Restrictions. Opencare makes no representation that Services are appropriate or available for use in locations outside of Canada or the United States. We provide the Services for use only by persons located in certain cities in Canada and the United States. If you choose to access this site from locations outside Canada or the United States, you do so at your own risk and you are responsible for compliance with local laws, if and to the extent, local laws apply.
 8. English Language. It is the express wish of the parties that these Terms of Use and all related documents be drawn up in English. C’est la volonté expresse des parties que la présente convention ainsi que les documents qui s’y rattachent soient rédigés en anglais.
 
-Opencare
---------
-
-* [About Us](https://www.opencare.com/about/)
-* [Careers](https://www.opencare.com/careers/)
-* [Learning center](https://www.opencare.com/blog/)
-* [Log in](https://patient.opencare.com/#/login/)
-* [Referrals](https://www.opencare.com/%7B%7BpatientAppUrl%7D%7D/#/referrals/?source={{linkSource}}) [Referrals](https://www.opencare.com/affiliates/?source=search-app-header)
-* [Sitemap](https://www.opencare.com/site-map/)
-
-For Dentists
-------------
-
-* [Patient Acquisition](https://www.opencare.com/for-dentists/patient-acquisition/)
-* [Guide to Dental Marketing](https://www.opencare.com/for-dentists/dental-marketing-guide/)
-* [The Opencare Difference](https://www.opencare.com/for-dentists/the-opencare-difference/)
-* [Our Results](https://www.opencare.com/for-dentists/us-based-case-study/)
-* [Practice Login](https://app.opencare.com/#/login/)
-
-Need help?
-----------
-
-* [Support](https://www.opencare.com/support/)
-* [Accessibility](https://opencare.zendesk.com/hc/en-us/articles/360052687852)
-* [Privacy Opt-Out](https://www.opencare.com/privacy/?optOut=true)
-
-[](https://www.facebook.com/OpenCare1 "Facebook")[](https://www.linkedin.com/company/opencare-com "LinkedIn")[](https://twitter.com/opencare "Twitter")[](https://angel.co/opencare "AngelList")[](https://www.glassdoor.ca/Reviews/Opencare-Reviews-E700045.htm "Glassdoor")
-
 Popular Searches
 ----------------
 
 * [Dentists Near Me](https://www.opencare.com/)
-* [Dentists in Austin](https://www.opencare.com/dentists/austin-tx/)
-* [Dentists in Boston](https://www.opencare.com/dentists/boston-ma/)
-* [Dentists in Brooklyn](https://www.opencare.com/dentists/brooklyn-ny/)
-* [Dentists in Calgary](https://www.opencare.com/dentists/calgary-ab/)
-* [Dentists in Chicago](https://www.opencare.com/dentists/chicago-il/)
-* [Dentists in Dallas](https://www.opencare.com/dentists/dallas-tx/)
-* [Dentists in Denver](https://www.opencare.com/dentists/denver-co/)
-* [Dentists in Houston](https://www.opencare.com/dentists/houston-tx/)
-* [Dentists in Las Vegas](https://www.opencare.com/dentists/las-vegas-nv/)
-* [Dentists in Los Angeles](https://www.opencare.com/dentists/los-angeles-ca/)
-* [Dentists in Miami](https://www.opencare.com/dentists/miami-fl/)
-* [Dentists in New York](https://www.opencare.com/dentists/new-york-ny/)
-* [Dentists in Ottawa](https://www.opencare.com/dentists/ottawa-on/)
-* [Dentists in Phoenix](https://www.opencare.com/dentists/phoenix-az/)
-* [Dentists in Sacramento](https://www.opencare.com/dentists/sacramento-ca/)
-* [Dentists in San Diego](https://www.opencare.com/dentists/san-diego-ca/)
-* [Dentists in San Francisco](https://www.opencare.com/dentists/san-francisco-ca/)
-* [Dentists in San Jose](https://www.opencare.com/dentists/san-jose-ca/)
-* [Dentists in Seattle](https://www.opencare.com/dentists/seattle-wa/)
-* [Dentists in Toronto](https://www.opencare.com/dentists/toronto-on/)
-* [Dentists in Vancouver](https://www.opencare.com/dentists/vancouver-bc/)
-* [Dental Marketing](https://www.opencare.com/blog/dental-marketing/)
-* [Dentistry Practice Management](https://www.opencare.com/blog/dental-practice-management/)
-* [Dentist Appointment](https://www.opencare.com/blog/how-to-make-a-dentist-appointment/)
-* [Tonsil Stones](https://www.opencare.com/blog/tonsil-stones/)
-* [Dentist Referrals](https://www.opencare.com/blog/dentist-referral-programs/)
-
-### Level up your oral wellness.
 
 * * *
 
-* © Opencare 2024
-* [Terms of Use](https://www.opencare.com/terms/)
-* [Privacy Policy](https://www.opencare.com/privacy/)
-* [](https://www.facebook.com/OpenCare1 "Facebook")[](https://www.linkedin.com/company/opencare-com "LinkedIn")[](https://twitter.com/opencare "Twitter")[](https://angel.co/opencare "AngelList")[](https://www.glassdoor.ca/Reviews/Opencare-Reviews-E700045.htm "Glassdoor")
+Level up your oral wellness.
+
+© Opencare 2024 [Terms of Use](https://www.opencare.com/terms/) [Privacy Policy](https://www.opencare.com/privacy/)
