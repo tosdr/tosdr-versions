@@ -1,4 +1,4 @@
-![null](https://www.facebook.com/tr?id=1565747026990890&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-2-prd-us-central1-190132479670)                                                   
+![null](https://www.facebook.com/tr?id=1565747026990890&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-2-prd-us-central1-190146252354)                                                   
 
 FREE SHIPPING on Online Orders $40+
 
@@ -507,6 +507,7 @@ OK Cancel
 * [IXL Learning](https://www.carsondellosa.com/ixl/)
 * [Key Education](https://www.carsondellosa.com/key-education-special-learning)
 * [Mark Twain Media](https://www.carsondellosa.com/brands/mark-twain-media/)
+* [Rosetta Stone](https://www.carsondellosa.com/rosetta-stone-picture-dictionaries/)
 * [Rourke Educational Media](https://www.carsondellosa.com/rourke-educational-media-carson-dellosa-education/)
 * [Spectrum](https://www.carsondellosa.com/spectrum-workbooks/)
 * [Summer Bridge](https://www.carsondellosa.com/summer-bridge-activities/)
