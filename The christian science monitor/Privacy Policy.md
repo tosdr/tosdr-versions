@@ -92,6 +92,10 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Forgiveness
+
+### Thanksgiving as forgiving](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1127/Thanksgiving-as-forgiving "Thanksgiving as forgiving")
+
 [Freedom
 
 ### Building peace by disrupting lies](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1126/Building-peace-by-disrupting-lies "Building peace by disrupting lies")
@@ -99,10 +103,6 @@ Recent Stories
 [Balance
 
 ### A guardrail holds](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1125/A-guardrail-holds "A guardrail holds")
-
-[Balance
-
-### Want a less commercial holiday? Gen Z tries ‘underconsumption core.’](https://www.csmonitor.com/The-Culture/2024/1125/underconsumption-core-holiday-gen-z "Want a less commercial holiday? Gen Z tries ‘underconsumption core.’")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
