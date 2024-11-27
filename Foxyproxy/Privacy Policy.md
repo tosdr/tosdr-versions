@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Your proxy server (Poland) makes our work easier and faster. We are very happy with your service.
+I found the service to be good, I was travelling in New Zealand for the end of the trip and wanted to access ITV's player. I was very happy to be able to do so.
 
-Nina Kolos
+Malcolm Lee
