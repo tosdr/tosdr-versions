@@ -20,6 +20,23 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![L: Tooley St HQ of Southwark Council; R: Cllr Kieron Williams](https://southwarknews.co.uk/wp-content/uploads/2022/05/cllr-kieron-360x180.jpg)](https://southwarknews.co.uk/area/southwark/southwark-councils-leader-has-apologised-after-the-governments-social-housing-watchdog-found-serious-failings/)
+    
+    ### [Southwark Council’s leader has apologised after the government’s social housing watchdog found ‘serious failings’](https://southwarknews.co.uk/area/southwark/southwark-councils-leader-has-apologised-after-the-governments-social-housing-watchdog-found-serious-failings/)
+    
+    [![Cllr Adam Hood on what he referred to as 'Slower Road' (photo: supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/11/92BD81E6-1968-48BA-9F93-C13EB2F001FF-e1732553647710-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/liberal-democrat-councillor-marks-one-year-campaigning-for-lower-road-fixes-amid-ongoing-traffic-chaos/)
+    
+    ### [Liberal Democrat councillor marks one year campaigning for Lower Road fixes amid ongoing traffic chaos](https://southwarknews.co.uk/area/rotherhithe/liberal-democrat-councillor-marks-one-year-campaigning-for-lower-road-fixes-amid-ongoing-traffic-chaos/)
+    
+    [![Greenwich Theatre 
+    Photo by Nancy Poole](https://southwarknews.co.uk/wp-content/uploads/2024/11/Credit-NancyPoole-Greenwich-Theatre-360x180.jpg)](https://southwarknews.co.uk/news/community/six-pantos-and-christmas-shows-in-south-london-to-get-you-in-the-festive-spirit/)
+    
+    ### [Six pantos and Christmas shows in South London to get you in the festive spirit](https://southwarknews.co.uk/news/community/six-pantos-and-christmas-shows-in-south-london-to-get-you-in-the-festive-spirit/)
+    
+    [![](https://southwarknews.co.uk/wp-content/uploads/2021/08/Police-stock.jpeg)](https://southwarknews.co.uk/area/london/police-step-up-patrols-in-theft-hotspots-to-protect-christmas-shoppers/)
+    
+    ### [Police step up patrols in theft hotspots to protect Christmas shoppers](https://southwarknews.co.uk/area/london/police-step-up-patrols-in-theft-hotspots-to-protect-christmas-shoppers/)
+    
     [![Jaqueline Willis and Doreen Dower outside the Lewington Centre](https://southwarknews.co.uk/wp-content/uploads/2024/11/image00003-8-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-community-centre-putting-profit-before-residents-since-120-million-regeneration-locals-claim/)
     
     ### [Rotherhithe community centre ‘putting profit before residents’ since £120 million regeneration, locals claim](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-community-centre-putting-profit-before-residents-since-120-million-regeneration-locals-claim/)
@@ -39,22 +56,6 @@
     [![London mayor Sadiq Khan. Credit: Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/08/London-mayor-Sadiq-Khan.-Photo-by-Noah-Vickers-360x180.jpg)](https://southwarknews.co.uk/area/london/calls-for-deaths-and-serious-injuries-on-londons-roads-to-be-independently-investigated-like-those-on-the-railway/)
     
     ### [Calls for deaths and serious injuries on London’s roads to be independently investigated like those on the railway](https://southwarknews.co.uk/area/london/calls-for-deaths-and-serious-injuries-on-londons-roads-to-be-independently-investigated-like-those-on-the-railway/)
-    
-    [![Construction continues on some of the affordable homes funded by City Hall. Credit: Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/11/Construction-of-Mayors-affordable-homes-360x180.jpg)](https://southwarknews.co.uk/area/london/some-boroughs-in-london-have-started-just-one-new-affordable-home-a-year/)
-    
-    ### [Some boroughs in London have started just one new affordable home a year](https://southwarknews.co.uk/area/london/some-boroughs-in-london-have-started-just-one-new-affordable-home-a-year/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/11/154335-London-Gay-Men-s-Choir-360x180.webp)](https://southwarknews.co.uk/area/south-bank/southbank-centre-to-host-vintage-christmas-extravaganza-by-london-gay-mens-chorus/)
-    
-    ### [Southbank Centre to host vintage Christmas extravaganza by London Gay Men’s Chorus](https://southwarknews.co.uk/area/south-bank/southbank-centre-to-host-vintage-christmas-extravaganza-by-london-gay-mens-chorus/) 
-    
-    [![Maydew House stripped and ready to demolish](https://southwarknews.co.uk/wp-content/uploads/2024/11/image00009-2-1-e1732116151890-360x180.jpeg)](https://southwarknews.co.uk/news/news-plus/the-maydew-house-story-how-southwark-councils-15-million-housing-calamity-unfolded/)
-    
-    ### [The Maydew House story: How Southwark Council’s £15 million housing calamity unfolded](https://southwarknews.co.uk/news/news-plus/the-maydew-house-story-how-southwark-councils-15-million-housing-calamity-unfolded/)
-    
-    [![Brixton Road. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/11/Brixton-Road.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/kennington/man-charged-with-attempted-murder-over-brixton-bus-incident/)
-    
-    ### [Man charged with attempted murder over Brixton bus incident](https://southwarknews.co.uk/area/kennington/man-charged-with-attempted-murder-over-brixton-bus-incident/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,6 +106,23 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![L: Tooley St HQ of Southwark Council; R: Cllr Kieron Williams](https://southwarknews.co.uk/wp-content/uploads/2022/05/cllr-kieron-360x180.jpg)](https://southwarknews.co.uk/area/southwark/southwark-councils-leader-has-apologised-after-the-governments-social-housing-watchdog-found-serious-failings/)
+    
+    ### [Southwark Council’s leader has apologised after the government’s social housing watchdog found ‘serious failings’](https://southwarknews.co.uk/area/southwark/southwark-councils-leader-has-apologised-after-the-governments-social-housing-watchdog-found-serious-failings/)
+    
+    [![Cllr Adam Hood on what he referred to as 'Slower Road' (photo: supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/11/92BD81E6-1968-48BA-9F93-C13EB2F001FF-e1732553647710-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/liberal-democrat-councillor-marks-one-year-campaigning-for-lower-road-fixes-amid-ongoing-traffic-chaos/)
+    
+    ### [Liberal Democrat councillor marks one year campaigning for Lower Road fixes amid ongoing traffic chaos](https://southwarknews.co.uk/area/rotherhithe/liberal-democrat-councillor-marks-one-year-campaigning-for-lower-road-fixes-amid-ongoing-traffic-chaos/)
+    
+    [![Greenwich Theatre 
+    Photo by Nancy Poole](https://southwarknews.co.uk/wp-content/uploads/2024/11/Credit-NancyPoole-Greenwich-Theatre-360x180.jpg)](https://southwarknews.co.uk/news/community/six-pantos-and-christmas-shows-in-south-london-to-get-you-in-the-festive-spirit/)
+    
+    ### [Six pantos and Christmas shows in South London to get you in the festive spirit](https://southwarknews.co.uk/news/community/six-pantos-and-christmas-shows-in-south-london-to-get-you-in-the-festive-spirit/)
+    
+    [![](https://southwarknews.co.uk/wp-content/uploads/2021/08/Police-stock.jpeg)](https://southwarknews.co.uk/area/london/police-step-up-patrols-in-theft-hotspots-to-protect-christmas-shoppers/)
+    
+    ### [Police step up patrols in theft hotspots to protect Christmas shoppers](https://southwarknews.co.uk/area/london/police-step-up-patrols-in-theft-hotspots-to-protect-christmas-shoppers/)
+    
     [![Jaqueline Willis and Doreen Dower outside the Lewington Centre](https://southwarknews.co.uk/wp-content/uploads/2024/11/image00003-8-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-community-centre-putting-profit-before-residents-since-120-million-regeneration-locals-claim/)
     
     ### [Rotherhithe community centre ‘putting profit before residents’ since £120 million regeneration, locals claim](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-community-centre-putting-profit-before-residents-since-120-million-regeneration-locals-claim/)
@@ -124,22 +142,6 @@ View All Result
     [![London mayor Sadiq Khan. Credit: Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/08/London-mayor-Sadiq-Khan.-Photo-by-Noah-Vickers-360x180.jpg)](https://southwarknews.co.uk/area/london/calls-for-deaths-and-serious-injuries-on-londons-roads-to-be-independently-investigated-like-those-on-the-railway/)
     
     ### [Calls for deaths and serious injuries on London’s roads to be independently investigated like those on the railway](https://southwarknews.co.uk/area/london/calls-for-deaths-and-serious-injuries-on-londons-roads-to-be-independently-investigated-like-those-on-the-railway/)
-    
-    [![Construction continues on some of the affordable homes funded by City Hall. Credit: Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/11/Construction-of-Mayors-affordable-homes-360x180.jpg)](https://southwarknews.co.uk/area/london/some-boroughs-in-london-have-started-just-one-new-affordable-home-a-year/)
-    
-    ### [Some boroughs in London have started just one new affordable home a year](https://southwarknews.co.uk/area/london/some-boroughs-in-london-have-started-just-one-new-affordable-home-a-year/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/11/154335-London-Gay-Men-s-Choir-360x180.webp)](https://southwarknews.co.uk/area/south-bank/southbank-centre-to-host-vintage-christmas-extravaganza-by-london-gay-mens-chorus/)
-    
-    ### [Southbank Centre to host vintage Christmas extravaganza by London Gay Men’s Chorus](https://southwarknews.co.uk/area/south-bank/southbank-centre-to-host-vintage-christmas-extravaganza-by-london-gay-mens-chorus/) 
-    
-    [![Maydew House stripped and ready to demolish](https://southwarknews.co.uk/wp-content/uploads/2024/11/image00009-2-1-e1732116151890-360x180.jpeg)](https://southwarknews.co.uk/news/news-plus/the-maydew-house-story-how-southwark-councils-15-million-housing-calamity-unfolded/)
-    
-    ### [The Maydew House story: How Southwark Council’s £15 million housing calamity unfolded](https://southwarknews.co.uk/news/news-plus/the-maydew-house-story-how-southwark-councils-15-million-housing-calamity-unfolded/)
-    
-    [![Brixton Road. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/11/Brixton-Road.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/kennington/man-charged-with-attempted-murder-over-brixton-bus-incident/)
-    
-    ### [Man charged with attempted murder over Brixton bus incident](https://southwarknews.co.uk/area/kennington/man-charged-with-attempted-murder-over-brixton-bus-incident/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -213,17 +215,17 @@ This site uses cookies – small text files that are placed on your machine to h
 
 [21st November 2024](https://southwarknews.co.uk/area/camberwell/hundreds-of-co-living-flats-to-be-built-near-south-london-station-despite-zero-affordable-housing/)
 
-[![L: Residents have their say; R: CGI of Berkeley Homes' proposed Aylesham scheme](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-25-11-2024-at-07.41-120x86.jpg)](https://southwarknews.co.uk/area/peckham/most-people-in-southwark-cant-afford-these-homes-protestors-unite-against-berkeley-homes-unfit-plans-for-peckham/)
-
-### [‘Most people in Southwark can’t afford these homes’: Protestors unite against Berkeley Homes’ ‘unfit’ plans for Peckham](https://southwarknews.co.uk/area/peckham/most-people-in-southwark-cant-afford-these-homes-protestors-unite-against-berkeley-homes-unfit-plans-for-peckham/)
-
-[25th November 2024](https://southwarknews.co.uk/area/peckham/most-people-in-southwark-cant-afford-these-homes-protestors-unite-against-berkeley-homes-unfit-plans-for-peckham/)
-
 [![Anne Davis says a routine bus trip has become a logistical nightmare](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_3311-120x86.jpeg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-92-faces-hour-long-bus-journey-to-reach-high-street-fifteen-minutes-away-and-now-cannot-reach-it-at-all/)
 
 ### [Bermondsey pensioner, 92, faces hour-long bus journey to reach high street fifteen-minutes away – and now cannot reach it at all](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-92-faces-hour-long-bus-journey-to-reach-high-street-fifteen-minutes-away-and-now-cannot-reach-it-at-all/)
 
 [26th November 2024](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-92-faces-hour-long-bus-journey-to-reach-high-street-fifteen-minutes-away-and-now-cannot-reach-it-at-all/)
+
+[![L: Residents have their say; R: CGI of Berkeley Homes' proposed Aylesham scheme](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-25-11-2024-at-07.41-120x86.jpg)](https://southwarknews.co.uk/area/peckham/most-people-in-southwark-cant-afford-these-homes-protestors-unite-against-berkeley-homes-unfit-plans-for-peckham/)
+
+### [‘Most people in Southwark can’t afford these homes’: Protestors unite against Berkeley Homes’ ‘unfit’ plans for Peckham](https://southwarknews.co.uk/area/peckham/most-people-in-southwark-cant-afford-these-homes-protestors-unite-against-berkeley-homes-unfit-plans-for-peckham/)
+
+[25th November 2024](https://southwarknews.co.uk/area/peckham/most-people-in-southwark-cant-afford-these-homes-protestors-unite-against-berkeley-homes-unfit-plans-for-peckham/)
 
 [![The chairs in Elephant and Castle (credit: Russell Cronin, social media)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-20-11-2024-at-15.14-120x86.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/fancy-a-chat-council-blunder-in-elephant-and-castle-as-misplaced-chairs-spark-confusion/)
 
@@ -238,6 +240,25 @@ This site uses cookies – small text files that are placed on your machine to h
 [23rd November 2024](https://southwarknews.co.uk/news/crime/boy-14-stabbed-in-south-london/)
 
 ### Featured Articles
+
+[![L: Tooley St HQ of Southwark Council; R: Cllr Kieron Williams](https://southwarknews.co.uk/wp-content/uploads/2022/05/cllr-kieron-120x86.jpg)](https://southwarknews.co.uk/area/southwark/southwark-councils-leader-has-apologised-after-the-governments-social-housing-watchdog-found-serious-failings/)
+
+### [Southwark Council’s leader has apologised after the government’s social housing watchdog found ‘serious failings’](https://southwarknews.co.uk/area/southwark/southwark-councils-leader-has-apologised-after-the-governments-social-housing-watchdog-found-serious-failings/)
+
+[27th November 2024](https://southwarknews.co.uk/area/southwark/southwark-councils-leader-has-apologised-after-the-governments-social-housing-watchdog-found-serious-failings/)
+
+[![Cllr Adam Hood on what he referred to as 'Slower Road' (photo: supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/11/92BD81E6-1968-48BA-9F93-C13EB2F001FF-e1732553647710-120x86.jpeg)](https://southwarknews.co.uk/area/rotherhithe/liberal-democrat-councillor-marks-one-year-campaigning-for-lower-road-fixes-amid-ongoing-traffic-chaos/)
+
+### [Liberal Democrat councillor marks one year campaigning for Lower Road fixes amid ongoing traffic chaos](https://southwarknews.co.uk/area/rotherhithe/liberal-democrat-councillor-marks-one-year-campaigning-for-lower-road-fixes-amid-ongoing-traffic-chaos/)
+
+[27th November 2024](https://southwarknews.co.uk/area/rotherhithe/liberal-democrat-councillor-marks-one-year-campaigning-for-lower-road-fixes-amid-ongoing-traffic-chaos/)
+
+[![Greenwich Theatre 
+Photo by Nancy Poole](https://southwarknews.co.uk/wp-content/uploads/2024/11/Credit-NancyPoole-Greenwich-Theatre-120x86.jpg)](https://southwarknews.co.uk/news/community/six-pantos-and-christmas-shows-in-south-london-to-get-you-in-the-festive-spirit/)
+
+### [Six pantos and Christmas shows in South London to get you in the festive spirit](https://southwarknews.co.uk/news/community/six-pantos-and-christmas-shows-in-south-london-to-get-you-in-the-festive-spirit/)
+
+[27th November 2024](https://southwarknews.co.uk/news/community/six-pantos-and-christmas-shows-in-south-london-to-get-you-in-the-festive-spirit/)
 
 [![Anne Davis says a routine bus trip has become a logistical nightmare](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_3311-120x86.jpeg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-92-faces-hour-long-bus-journey-to-reach-high-street-fifteen-minutes-away-and-now-cannot-reach-it-at-all/)
 
@@ -256,24 +277,6 @@ This site uses cookies – small text files that are placed on your machine to h
 ### [From naval operations to the operating theatre: How one veteran found a new career at St Thomas’ Hospital](https://southwarknews.co.uk/area/waterloo/from-naval-operations-to-the-operating-theatre-how-one-veteran-found-a-new-career-at-st-thomas-hospital/)
 
 [26th November 2024](https://southwarknews.co.uk/area/waterloo/from-naval-operations-to-the-operating-theatre-how-one-veteran-found-a-new-career-at-st-thomas-hospital/)
-
-[![](https://southwarknews.co.uk/wp-content/uploads/2024/11/154335-London-Gay-Men-s-Choir-120x86.webp)](https://southwarknews.co.uk/area/south-bank/southbank-centre-to-host-vintage-christmas-extravaganza-by-london-gay-mens-chorus/)
-
-### [Southbank Centre to host vintage Christmas extravaganza by London Gay Men’s Chorus](https://southwarknews.co.uk/area/south-bank/southbank-centre-to-host-vintage-christmas-extravaganza-by-london-gay-mens-chorus/) 
-
-[25th November 2024](https://southwarknews.co.uk/area/south-bank/southbank-centre-to-host-vintage-christmas-extravaganza-by-london-gay-mens-chorus/)
-
-[![Brixton Road. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/11/Brixton-Road.-Image-Google-120x86.png)](https://southwarknews.co.uk/area/kennington/man-charged-with-attempted-murder-over-brixton-bus-incident/)
-
-### [Man charged with attempted murder over Brixton bus incident](https://southwarknews.co.uk/area/kennington/man-charged-with-attempted-murder-over-brixton-bus-incident/)
-
-[25th November 2024](https://southwarknews.co.uk/area/kennington/man-charged-with-attempted-murder-over-brixton-bus-incident/)
-
-[![Westminster Bridge. Credit- Bjørn Erik Pedersen (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Westminster-Bridge.-Credit-Bjorn-Erik-Pedersen-Creative-Commons-120x86.jpg)](https://southwarknews.co.uk/area/waterloo/westminster-bridge-three-arrested-on-suspicion-of-attempted-murder/)
-
-### [Westminster Bridge: Three arrested on suspicion of attempted murder](https://southwarknews.co.uk/area/waterloo/westminster-bridge-three-arrested-on-suspicion-of-attempted-murder/)
-
-[25th November 2024](https://southwarknews.co.uk/area/waterloo/westminster-bridge-three-arrested-on-suspicion-of-attempted-murder/)
 
 ### USEFUL PAGES
 
