@@ -94,11 +94,11 @@ Learn more about our enterprise solution and get a demo from our sales team.](ht
 
 **Read our latest content**
 
-![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/6744b793d725bb6a37996c58_winners-clearco-2024-top-ecommerce-awards1.png)
+![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/67464008631689823345e6c9_walmart-generative-ai-chatbot.png)
 
-###### WINNERS of Clearco's 2024 Top Ecommerce Awards
+###### How Walmart is Revolutionizing Ecommerce with Generative AI—and How Your Brand Can Too
 
-[Read now >](https://clear.co/blog/winners-clearco-2024-top-ecommerce-awards)
+[Read now >](https://clear.co/blog/how-walmart-leverages-generative-ai-ecommerce-strategy)
 
 [Sign In](http://my.clearbanc.com/login)[Get Funding](http://my.clearbanc.com/signup)
 
