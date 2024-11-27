@@ -590,8 +590,6 @@ Kopieren
 
 [](#)
 
-[![Relai](/fileadmin/_processed_/9/0/csm_RelaiApp_49dbef3ad1.jpg)](https://ref.blocktrainer.de/relai/ws/blocktrainer-empfehlungslinks/logo-banner)
-
 **Privatsphäre-Einstellungen**
 
 Mit diesem Tool können Sie Ihre Zustimmung zur Erfassung und Verarbeitung personenbezogener Daten durch Technologien von Drittanbietern verwalten.
