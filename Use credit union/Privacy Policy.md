@@ -11,9 +11,7 @@ BluPeak Credit Union ![BluPeak Credit Union App stars rating](https://www.blupea
 
 Notice
 
-In observance of Thanksgiving Day our branches will be closing at 2:00pm on Wednesday 27th and closed Thursday – Friday, November 28-29th.
-
-[](#)
+In observance of Thanksgiving Day our branches will be closing at 2:00pm on Wednesday 27th and closed Thursday – Friday, November 28-29th
 
 [Skip to web banking login](#js-header_login_panel)
 
