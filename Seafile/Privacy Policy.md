@@ -85,7 +85,7 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 #### Support
 
-* [Help](https://download.seafile.com/published/seafile-user-manual/home.md)
+* [Help](https://help.seafile.com/)
 * [Forum](https://forum.seafile.com/)
 * [Server Manual](http://manual.seafile.com/)
 * [Customer Center](https://customer.seafile.com/)
