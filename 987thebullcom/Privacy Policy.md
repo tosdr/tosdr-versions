@@ -349,11 +349,11 @@ Recently Played
 
 |     |
 | --- |
-| Lose ItKane Brown<br><br>4:38am |
-| TexasBlake Shelton<br><br>4:36am |
-| Think I'M In Love With YouChris Stapleton<br><br>4:32am |
-| This Is How We RollFlorida Georgia Line Ft Luke Bryan<br><br>4:29am |
-| Gonna Love YouParmalee<br><br>4:26am |
+| I Remember EverythingZach Bryan Ft Kacey Musgraves<br><br>10:37am |
+| Famous FriendsChris Young And Kane Brown<br><br>10:34am |
+| As Good As I Once WasToby Keith<br><br>10:31am |
+| A Lot More FreeMax Mcnown<br><br>10:28am |
+| Wind Up Missing YouTucker Wetmore<br><br>10:25am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -497,13 +497,13 @@ State
 Featured Brands
 ---------------
 
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
-Top 40 • Eastern
+Spanish • Western
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
-Country • Western
+News Talk • Eastern
 
 [![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
