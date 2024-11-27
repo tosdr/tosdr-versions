@@ -734,7 +734,7 @@ Discover
 Discover
 
 * [Fjällräven Experience](https://experience.fjallraven.com/us/en-us)
-* [Fjällräven Polar](https://experience.fjallraven.com/polar/2025?id=56a54d16-e06e-4b3e-a2f8-55c7e55a110f)
+* [Fjällräven Polar](https://experience.fjallraven.com/polar/2025?id=4c793a29-cf98-47b0-8ca9-de5d7a5033c7)
 * [Fjällräven Classic](https://classic.fjallraven.com/)
 * [Our Community](https://www.fjallraven.com/us/en-us/our-community/)
 * Do Not Sell or Share My Personal Information
