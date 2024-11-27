@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Alexis-Bahena-Carlos-Degante-and-Yahir-Rodriguez-326x245.jpg)](https://cwbchicago.com/2024/11/3-face-machine-gun-and-narcotics-charges-after-shots-are-fired-at-cops-on-nw-side.html "3 face machine gun and narcotics charges after shots are fired at cops on NW Side")
+
+Irving Park
+
+### [3 face machine gun and narcotics charges after shots are fired at cops on NW Side](https://cwbchicago.com/2024/11/3-face-machine-gun-and-narcotics-charges-after-shots-are-fired-at-cops-on-nw-side.html "3 face machine gun and narcotics charges after shots are fired at cops on NW Side")
+
+[November 25, 2024 6:44 AM](https://cwbchicago.com/2024/11)
+
+Three men are charged with possessing cocaine and firearms, including a machine gun, after running from a stolen car on the Northwest Side, officials said. The driver of the Lexus got away, but not before someone fired shots at Chicago cops.[](https://cwbchicago.com/2024/11/3-face-machine-gun-and-narcotics-charges-after-shots-are-fired-at-cops-on-nw-side.html "3 face machine gun and narcotics charges after shots are fired at cops on NW Side")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Conv-Store-map--326x245.jpg)](https://cwbchicago.com/2024/11/convenience-stores-robbed-minutes-apart-in-old-town-loop.html "Convenience stores robbed  minutes apart in Old Town, Loop")
+
+Loop
+
+### [Convenience stores robbed minutes apart in Old Town, Loop](https://cwbchicago.com/2024/11/convenience-stores-robbed-minutes-apart-in-old-town-loop.html "Convenience stores robbed  minutes apart in Old Town, Loop")
+
+[November 25, 2024 5:35 AM](https://cwbchicago.com/2024/11)
+
+Police are investigating two convenience store robberies reported minutes apart on Sunday evening, one in the Loop and the other in Old Town.[](https://cwbchicago.com/2024/11/convenience-stores-robbed-minutes-apart-in-old-town-loop.html "Convenience stores robbed  minutes apart in Old Town, Loop")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/11/Mirela-Beldie-326x245.jpg)](https://cwbchicago.com/2024/11/judge-who-released-husband-accused-of-murdering-wife-on-nw-side-denies-prosecutors-detention-petitions-far-more-often-than-his-peers.html "Judge who released husband accused of murdering wife on NW Side denies prosecutors’ detention petitions far more often than his peers")
 
 Portage Park
@@ -252,26 +272,6 @@ Portage Park
 [November 24, 2024 7:19 PM](https://cwbchicago.com/2024/11)
 
 There are many unanswered questions about the shocking domestic attack in which a woman was allegedly murdered by her husband, who was wearing a GPS monitor for a pending domestic violence case. We secured a transcript to learn why the judge sent him home on an ankle monitor instead of keeping him in jail as prosecutors wanted. We also found that the judge denies detention petitons far more often than his peers.[](https://cwbchicago.com/2024/11/judge-who-released-husband-accused-of-murdering-wife-on-nw-side-denies-prosecutors-detention-petitions-far-more-often-than-his-peers.html "Judge who released husband accused of murdering wife on NW Side denies prosecutors’ detention petitions far more often than his peers")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Justin-Bradley-and-Marshawn-Sampson-326x245.jpg)](https://cwbchicago.com/2024/11/2-charged-with-robbery-after-pausing-getaway-to-grab-mcdonalds-on-the-victims-credit-card-cpd-report.html "2 charged with robbery after pausing getaway to grab McDonald’s on the victim’s credit card: CPD report")
-
-Bronzeville
-
-### [2 charged with robbery after pausing getaway to grab McDonald’s on the victim’s credit card: CPD report](https://cwbchicago.com/2024/11/2-charged-with-robbery-after-pausing-getaway-to-grab-mcdonalds-on-the-victims-credit-card-cpd-report.html "2 charged with robbery after pausing getaway to grab McDonald’s on the victim’s credit card: CPD report")
-
-[November 24, 2024 6:00 PM](https://cwbchicago.com/2024/11)
-
-Two men are facing robbery charges, possibly because they took a break from their getaway to grab some McDonald’s on the victim’s credit card.[](https://cwbchicago.com/2024/11/2-charged-with-robbery-after-pausing-getaway-to-grab-mcdonalds-on-the-victims-credit-card-cpd-report.html "2 charged with robbery after pausing getaway to grab McDonald’s on the victim’s credit card: CPD report")
-
-[![](https://cwbchicago.com/wp-content/uploads/2023/02/Latrice-Harvey-326x245.jpg)](https://cwbchicago.com/2024/11/6-years-for-woman-who-ordered-gunman-to-shoot-victim-during-a-fight-on-the-red-line.html "6 years for woman who ordered gunman to shoot victim during a fight on the Red Line")
-
-CTA
-
-### [6 years for woman who ordered gunman to shoot victim during a fight on the Red Line](https://cwbchicago.com/2024/11/6-years-for-woman-who-ordered-gunman-to-shoot-victim-during-a-fight-on-the-red-line.html "6 years for woman who ordered gunman to shoot victim during a fight on the Red Line")
-
-[November 24, 2024 11:51 AM](https://cwbchicago.com/2024/11)
-
-A woman has been given a six-year prison sentence for ordering her companion to shoot a woman during a fight on a Red Line train in the Loop. Prosecutors said the victim’s school-age son was nearby when the shooting occurred.[](https://cwbchicago.com/2024/11/6-years-for-woman-who-ordered-gunman-to-shoot-victim-during-a-fight-on-the-red-line.html "6 years for woman who ordered gunman to shoot victim during a fight on the Red Line")
 
 Search
 
