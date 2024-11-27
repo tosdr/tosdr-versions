@@ -1,4 +1,4 @@
-[Motorsport.tv](https://motorsport.tv/)
+[Motorsport.tv](https://motorsport.tv/videos)
 
 ![motorsport-tv-icon-header-search](/client/2c908237.svg)
 
@@ -6,7 +6,7 @@
 
 [Log In](https://motorsport.tv/login)[Join](https://motorsport.tv/join)
 
-[Home](https://motorsport.tv/)[Live](https://motorsport.tv/livestream)[Channels](https://motorsport.tv/channel)[Programs](https://motorsport.tv/program)[Racing series](https://motorsport.tv/racing)
+[Home](https://motorsport.tv/videos)[Live](https://motorsport.tv/livestream)[Channels](https://motorsport.tv/channel)[Programs](https://motorsport.tv/program)[Racing series](https://motorsport.tv/racing)
 
 FOLLOWING
 
