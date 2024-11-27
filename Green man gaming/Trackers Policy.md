@@ -317,7 +317,7 @@ Kakao Pay
 
 * [Youtube](https://www.youtube.com/channel/UCbONsRevt2_YIN6sLigGIzQ)
 
-* [About Us](https://www.greenmangaming.com/who-we-are/)
+* [About Us](https://www.greenmangaming.com/company/about-us/)
 * [Corporate](https://www.greenmangaming.com/company/)
 * [Redeem a Gift](https://www.greenmangaming.com/gift-redemption/)
 * [Affiliate Partnerships](https://www.greenmangaming.com/affiliates/)
