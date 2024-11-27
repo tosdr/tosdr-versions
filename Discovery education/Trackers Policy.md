@@ -90,7 +90,7 @@
     
 * [](https://help.discoveryeducation.co.uk/hc/en-gb)
     
-    FAQs
+    Help Centre
     
 
   
