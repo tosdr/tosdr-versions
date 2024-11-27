@@ -1,3 +1,27 @@
+  
+**Notice**: Function \_load\_textdomain\_just\_in\_time was called **incorrectly**. Translation loading for the `nelio-ab-testing` domain was triggered too early. This is usually an indicator for some code in the plugin or theme running too early. Translations should be loaded at the `init` action or later. Please see [Debugging in WordPress](https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/) for more information. (This message was added in version 6.7.0.) in **/home/aynrandorg/public\_html/wp-includes/functions.php** on line **6114**  
+  
+**Notice**: Function \_load\_textdomain\_just\_in\_time was called **incorrectly**. Translation loading for the `dynamic-content-for-elementor` domain was triggered too early. This is usually an indicator for some code in the plugin or theme running too early. Translations should be loaded at the `init` action or later. Please see [Debugging in WordPress](https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/) for more information. (This message was added in version 6.7.0.) in **/home/aynrandorg/public\_html/wp-includes/functions.php** on line **6114**  
+  
+**Notice**: Function \_load\_textdomain\_just\_in\_time was called **incorrectly**. Translation loading for the `wp-file-upload` domain was triggered too early. This is usually an indicator for some code in the plugin or theme running too early. Translations should be loaded at the `init` action or later. Please see [Debugging in WordPress](https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/) for more information. (This message was added in version 6.7.0.) in **/home/aynrandorg/public\_html/wp-includes/functions.php** on line **6114**  
+  
+**Notice**: Function \_load\_textdomain\_just\_in\_time was called **incorrectly**. Translation loading for the `wp-fusion` domain was triggered too early. This is usually an indicator for some code in the plugin or theme running too early. Translations should be loaded at the `init` action or later. Please see [Debugging in WordPress](https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/) for more information. (This message was added in version 6.7.0.) in **/home/aynrandorg/public\_html/wp-includes/functions.php** on line **6114**  
+  
+**Notice**: Function \_load\_textdomain\_just\_in\_time was called **incorrectly**. Translation loading for the `wp-fusion` domain was triggered too early. This is usually an indicator for some code in the plugin or theme running too early. Translations should be loaded at the `init` action or later. Please see [Debugging in WordPress](https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/) for more information. (This message was added in version 6.7.0.) in **/home/aynrandorg/public\_html/wp-includes/functions.php** on line **6114**  
+  
+**Notice**: Function \_load\_textdomain\_just\_in\_time was called **incorrectly**. Translation loading for the `woocommerce` domain was triggered too early. This is usually an indicator for some code in the plugin or theme running too early. Translations should be loaded at the `init` action or later. Please see [Debugging in WordPress](https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/) for more information. (This message was added in version 6.7.0.) in **/home/aynrandorg/public\_html/wp-includes/functions.php** on line **6114**  
+  
+**Notice**: Function \_load\_textdomain\_just\_in\_time was called **incorrectly**. Translation loading for the `FS-License-Manager` domain was triggered too early. This is usually an indicator for some code in the plugin or theme running too early. Translations should be loaded at the `init` action or later. Please see [Debugging in WordPress](https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/) for more information. (This message was added in version 6.7.0.) in **/home/aynrandorg/public\_html/wp-includes/functions.php** on line **6114**  
+                   AYN RAND INSTITUTE PRIVACY POLICY - AynRand.org                                   
+
+          
+
+                  
+
+                                                                    
+
+          
+
 [Newsletter Sign Up](https://aynrand-19886644.hs-sites.com/johnnycarsonpremiere-0-1?utm_campaign=Discover%20Ayn%20Rand&utm_source=Discover%20Ayn%20Rand&utm_medium=Discover%20Ayn%20Rand%20-%20General%20Audience%20Sign-up&utm_content=Ayn%20Rand)
 
 * [Ayn Rand](https://aynrand.org/)
@@ -305,4 +329,4 @@ STAY IN TOUCH
 
 Copyright © 1985 – 2024 The Ayn Rand Institute (ARI). Reproduction of content and images in whole or in part is prohibited. All rights reserved. ARI is a 501(c)(3) nonprofit organization. Contributions to ARI in the United States are tax-exempt to the extent provided by law. Objectivist Conferences (OCON), Ayn Rand Conference (ARC), Ayn Rand University (ARU) and the Ayn Rand Institute eStore are operated by ARI. Payments to OCON, ARC, ARU or the Ayn Rand Institute eStore do not qualify as tax-deductible contributions to the Ayn Rand Institute. AYN RAND, AYN RAND INSTITUTE, ARI, AYN RAND UNIVERSITY and the AYN RAND device are trademarks of the Ayn Rand Institute. All rights reserved.
 
-![](https://www.facebook.com/tr?id=166841928455126&ev=PageView&noscript=1&eid=16684192845512691eb943d-afca-4a7a-b003-3a01f4269852&cd%5Bpage_title%5D=AYN+RAND+INSTITUTE+PRIVACY+POLICY&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=3&cd%5Bplugin%5D=PixelYourSite&cd%5Bevent_url%5D=aynrand.org%2Fprivacy-policy%2F&cd%5Buser_role%5D=guest)
+![](https://www.facebook.com/tr?id=166841928455126&ev=PageView&noscript=1&eid=1668419284551262b52da0e-c61c-4f33-ab7e-25d8f1965247&cd%5Bpage_title%5D=AYN+RAND+INSTITUTE+PRIVACY+POLICY&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=3&cd%5Bplugin%5D=PixelYourSite&cd%5Bevent_url%5D=aynrand.org%2Fprivacy-policy%2F&cd%5Buser_role%5D=guest)
