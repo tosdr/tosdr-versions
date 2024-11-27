@@ -196,61 +196,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Wish I started ages ago!
-> ------------------------
+> Integrated Debit Order Solution
+> -------------------------------
 > 
-> I just want to compliment you and your team for an amazing back office software.
-> 
-> I have been struggling with a proper invoicing solution for six months now (to make time each month)
-> 
-> I just wish I started using Invoices Online ages ago.
+> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
 
-Terri Winfield
+Hugo van Sittert
 
-![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=f42f2ec0e0171be59ac1bc8e641f79979ae7783890fdc0e6298edcee5d052119&c=116531473)  
+![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=af384819cbe78b992084985104e80e9f3249afdbbeedfd497766cfd13014bb38&c=46564547)  
 Wiselink Broadband Pty Ltd
 
-![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=f42f2ec0e0171be59ac1bc8e641f79979ae7783890fdc0e6298edcee5d052119&c=182595300)  
-Know Informatics
+![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=af384819cbe78b992084985104e80e9f3249afdbbeedfd497766cfd13014bb38&c=130336675)  
+FX ACCOUNTING
 
-![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=f42f2ec0e0171be59ac1bc8e641f79979ae7783890fdc0e6298edcee5d052119&c=127525911)  
-OrgChart Hosting Pty Ltd
+![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=af384819cbe78b992084985104e80e9f3249afdbbeedfd497766cfd13014bb38&c=149739541)  
+Vplay Grafix
 
-![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=f42f2ec0e0171be59ac1bc8e641f79979ae7783890fdc0e6298edcee5d052119&c=86703104)  
-All Trucking Solutions
+![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=af384819cbe78b992084985104e80e9f3249afdbbeedfd497766cfd13014bb38&c=13640596)  
+On The Spot Marketing (Pty) Ltd t/a 24hrprinting
 
-![valued client NC Labour Hire](https://www.invoicesonline.co.za/scripts/image.php?bid=8545&file=logo_300_100&type=&fe=f42f2ec0e0171be59ac1bc8e641f79979ae7783890fdc0e6298edcee5d052119&c=98146837)  
-NC Labour Hire
+![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=af384819cbe78b992084985104e80e9f3249afdbbeedfd497766cfd13014bb38&c=104743712)  
+Myfinance-Online
 
-![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=f42f2ec0e0171be59ac1bc8e641f79979ae7783890fdc0e6298edcee5d052119&c=188222846)  
-Highlands Auto Engineering
+![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=af384819cbe78b992084985104e80e9f3249afdbbeedfd497766cfd13014bb38&c=68302042)  
+Digifax Pty) Ltd t/a Findfish
 
-![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=f42f2ec0e0171be59ac1bc8e641f79979ae7783890fdc0e6298edcee5d052119&c=186425406)  
-NEW BEGINNINGS DESIGNS
+![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=af384819cbe78b992084985104e80e9f3249afdbbeedfd497766cfd13014bb38&c=137774478)  
+Brand's Fountains Deco and Events Coordinatoin
 
-![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=f42f2ec0e0171be59ac1bc8e641f79979ae7783890fdc0e6298edcee5d052119&c=123941155)  
-Sarabi
+![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=af384819cbe78b992084985104e80e9f3249afdbbeedfd497766cfd13014bb38&c=134636753)  
+Konsortium Operations ( Roamfree Meats )
 
-![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=f42f2ec0e0171be59ac1bc8e641f79979ae7783890fdc0e6298edcee5d052119&c=36947849)  
-NJR ICT Services (Pty) Ltd
+![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=af384819cbe78b992084985104e80e9f3249afdbbeedfd497766cfd13014bb38&c=146462969)  
+Goju Ryu Karate Centre
 
-![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=f42f2ec0e0171be59ac1bc8e641f79979ae7783890fdc0e6298edcee5d052119&c=73380432)  
-SR Travel Services
+![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=af384819cbe78b992084985104e80e9f3249afdbbeedfd497766cfd13014bb38&c=87632342)  
+Nogana Events and Decor
 
-![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=f42f2ec0e0171be59ac1bc8e641f79979ae7783890fdc0e6298edcee5d052119&c=101794044)  
-Testpro Laboratory (Pty) Ltd
+![valued client One2b](https://www.invoicesonline.co.za/scripts/image.php?bid=4093&file=logo_300_100&type=&fe=af384819cbe78b992084985104e80e9f3249afdbbeedfd497766cfd13014bb38&c=90670309)  
+One2b
 
-![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=f42f2ec0e0171be59ac1bc8e641f79979ae7783890fdc0e6298edcee5d052119&c=183736446)  
-Abandoned Vehicle and Truck Solutions
+![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=af384819cbe78b992084985104e80e9f3249afdbbeedfd497766cfd13014bb38&c=186230434)  
+GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
 
-![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=f42f2ec0e0171be59ac1bc8e641f79979ae7783890fdc0e6298edcee5d052119&c=36784405)  
-MONSTER CONNECT (PTY) LTD
+![valued client High Point Marketing CC t/a Leads For Africa](https://www.invoicesonline.co.za/scripts/image.php?bid=6845&file=logo_300_100&type=&fe=af384819cbe78b992084985104e80e9f3249afdbbeedfd497766cfd13014bb38&c=97655332)  
+High Point Marketing CC t/a Leads For Africa
 
-![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=f42f2ec0e0171be59ac1bc8e641f79979ae7783890fdc0e6298edcee5d052119&c=133805667)  
-BEE SURE CONSULTING (PTY) LTD
+![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=af384819cbe78b992084985104e80e9f3249afdbbeedfd497766cfd13014bb38&c=59529560)  
+Imhoff Equestrian Centre
 
-![valued client FLIPS AUTO ELECTRICAL ](https://www.invoicesonline.co.za/scripts/image.php?bid=8725&file=logo_300_100&type=&fe=f42f2ec0e0171be59ac1bc8e641f79979ae7783890fdc0e6298edcee5d052119&c=181640541)  
-FLIPS AUTO ELECTRICAL
+![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=af384819cbe78b992084985104e80e9f3249afdbbeedfd497766cfd13014bb38&c=100366504)  
+M's Frozen Delights
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
