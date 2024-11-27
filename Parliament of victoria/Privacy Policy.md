@@ -117,6 +117,10 @@ Main menu
     
     #### [Latest](https://parliament.vic.gov.au/link/c5bd7124b44e42c2929fdf47bfd51f6e.aspx)
     
+    * [Better access to boost inclusion](https://parliament.vic.gov.au/link/7dbc04650f7147ea8d37c2a907abeb7a.aspx)
+        
+        27 November 2024
+        
     * [Inquiry report is food for thought](https://parliament.vic.gov.au/link/1aefb2eacb064fc697ebf05564386a4c.aspx)
         
         26 November 2024
@@ -124,10 +128,6 @@ Main menu
     * [Gambling and liquor report response](https://parliament.vic.gov.au/link/3a4da7f967ad4fdc821159b124cec53f.aspx)
         
         25 November 2024
-        
-    * [Tobacco licensing scheme debated](https://parliament.vic.gov.au/link/5e97d0a9930249d8b47c7a581821664f.aspx)
-        
-        22 November 2024
         
     
 * [Visit](https://parliament.vic.gov.au/visit/)Expand Visit
