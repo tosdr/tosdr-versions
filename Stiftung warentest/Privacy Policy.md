@@ -808,21 +808,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
+* [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
+* [Fest­geld­vergleich: Hier bringt Ihr Spargeld die beste Rendite – und ist sicher](https://www.test.de/Festgeldvergleich-Die-besten-Zinsen-4196084-0/ "Festgeldvergleich - Hier bringt Ihr Spargeld die beste Rendite – und ist sicher")
+* [Tages­geld­vergleich: Hier finden Sie die besten Zinsen](https://www.test.de/Tagesgeldvergleich-Die-besten-Zinsen-4196794-0/ "Tagesgeldvergleich - Hier finden Sie die besten Zinsen")
 * [Kfz-Versicherung im Vergleich: Jetzt noch die Chance nutzen – güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Jetzt noch die Chance nutzen – günstige Autoversicherung finden")
 * [Laptops im Test: Kräftig und kompakt – Notebooks, Ultra­books und Co](https://www.test.de/Tablets-mit-Tastatur-Notebooks-Ultrabooks-Convertibles-im-Test-4734961-0/ "Laptops im Test - Kräftig und kompakt – Notebooks, Ultrabooks und Co")
-* [Smartphones im Test: Gute Handys gibt es für weniger als 200 Euro](https://www.test.de/Handys-und-Smartphones-im-Test-4222793-0/ "Smartphones im Test - Gute Handys gibt es für weniger als 200 Euro")
-* [Elektrische Zahnbürsten im Test: Gründlich putzen für weniger als 50 Euro](https://www.test.de/elektrische-Zahnbuersten-im-Test-4621863-0/ "Elektrische Zahnbürsten im Test - Gründlich putzen für weniger als 50 Euro")
-* [Kinder­hoch­stühle im Test: Drei sind gut, drei fallen durch](https://www.test.de/Kinderhochstuehle-im-Test-1557913-0/ "Kinderhochstühle im Test - Drei sind gut, drei fallen durch")
-* [Fahr­radversicherungen im Vergleich: Fahr­rad und E-Bike günstig versichern](https://www.test.de/Fahrradversicherungen-Vergleich-5205101-0/ "Fahrradversicherungen im Vergleich - Fahrrad und E-Bike günstig versichern")
 
 test.de entdecken
 
-* [Neben­wirkung von Medikamenten: Von harmlos bis lebens­gefähr­lich](https://www.test.de/Nebenwirkung-von-Medikamenten-Von-harmlos-bis-lebensgefaehrlich-5996584-0/ "Nebenwirkung von Medikamenten - Von harmlos bis lebensgefährlich")
-* [Unter­nehmens­beteiligung: Riskante Beteiligung auf Raten](https://www.test.de/Unternehmensbeteiligung-Riskante-Beteiligung-auf-Raten-5978862-0/ "Unternehmensbeteiligung - Riskante Beteiligung auf Raten")
-* [Shrink­flation: Die versteckte Preis­erhöhung](https://www.test.de/Shrinkflation-So-laeuft-die-versteckte-Preiserhoehung-6031412-0/ "Shrinkflation - Die versteckte Preiserhöhung")
-* [Kinder-Smartwatches im Test: Peilsender am Hand­gelenk](https://www.test.de/Kinder-Smartwatch-Test-6041356-0/ "Kinder-Smartwatches im Test - Peilsender am Handgelenk")
-* [Kranken­versicherung für Studierende: Zum Uni-Start richtig kranken­versichert](https://www.test.de/Krankenversicherung-fuer-Studierende-6057464-0/ "Krankenversicherung für Studierende - Zum Uni-Start richtig krankenversichert")
-* [Energie sparen: Die Stromsparbox ist nutzlos](https://www.test.de/test-warnt-Nutzlose-Stromsparbox-5956815-0/ "Energie sparen - Die Stromsparbox ist nutzlos")
+* [ETF-Sparpläne im Minus: Die wichtigsten Antworten auf Fragen von Börsen­anfängern](https://www.test.de/ETF-Sparplaene-im-Minus-Die-wichtigsten-Antworten-fuer-Boersenanfaenger-5973024-0/ "ETF-Sparpläne im Minus - Die wichtigsten Antworten auf Fragen von Börsenanfängern")
+* [Daten­schutz im Test: Was Laut­sprecher-Apps ausplaudern](https://www.test.de/Datenschutz-im-Test-Was-Lautsprecher-Apps-ausplaudern-6126264-0/ "Datenschutz im Test - Was Lautsprecher-Apps ausplaudern")
+* [Zweites Leben für Textilien: Ballast abwerfen mit Bedacht](https://www.test.de/gebrauchte-kleidung-verkaufen-5954033-0/ "Zweites Leben für Textilien - Ballast abwerfen mit Bedacht")
+* [Dienst­reisen: Wie Sie Ihre Reise­kosten von der Steuer absetzen](https://www.test.de/reisekosten-steuer-6109917-0/ "Dienstreisen - Wie Sie Ihre Reisekosten von der Steuer absetzen")
+* [Instabile Intel CPUs: Was Betroffene tun können](https://www.test.de/Instabile-Intel-CPUs-Was-Betroffene-tun-koennen-6147165-0/ "Instabile Intel CPUs - Was Betroffene tun können")
+* [Erbstreit: Interview: „Um Geld geht es meist nur vordergründig“](https://www.test.de/Erbstreit-Interview-Um-Geld-geht-es-meist-nur-vordergruendig-5988060-0/ "Erbstreit - Interview: „Um Geld geht es meist nur vordergründig“")
 
 Weitere Informationen
 
@@ -3862,59 +3862,59 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
+* [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
+* [Fest­geld­vergleich: Hier bringt Ihr Spargeld die beste Rendite – und ist sicher](https://www.test.de/Festgeldvergleich-Die-besten-Zinsen-4196084-0/ "Festgeldvergleich - Hier bringt Ihr Spargeld die beste Rendite – und ist sicher")
+* [Tages­geld­vergleich: Hier finden Sie die besten Zinsen](https://www.test.de/Tagesgeldvergleich-Die-besten-Zinsen-4196794-0/ "Tagesgeldvergleich - Hier finden Sie die besten Zinsen")
 * [Kfz-Versicherung im Vergleich: Jetzt noch die Chance nutzen – güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Jetzt noch die Chance nutzen – günstige Autoversicherung finden")
 * [Laptops im Test: Kräftig und kompakt – Notebooks, Ultra­books und Co](https://www.test.de/Tablets-mit-Tastatur-Notebooks-Ultrabooks-Convertibles-im-Test-4734961-0/ "Laptops im Test - Kräftig und kompakt – Notebooks, Ultrabooks und Co")
-* [Smartphones im Test: Gute Handys gibt es für weniger als 200 Euro](https://www.test.de/Handys-und-Smartphones-im-Test-4222793-0/ "Smartphones im Test - Gute Handys gibt es für weniger als 200 Euro")
-* [Elektrische Zahnbürsten im Test: Gründlich putzen für weniger als 50 Euro](https://www.test.de/elektrische-Zahnbuersten-im-Test-4621863-0/ "Elektrische Zahnbürsten im Test - Gründlich putzen für weniger als 50 Euro")
-* [Kinder­hoch­stühle im Test: Drei sind gut, drei fallen durch](https://www.test.de/Kinderhochstuehle-im-Test-1557913-0/ "Kinderhochstühle im Test - Drei sind gut, drei fallen durch")
-* [Fahr­radversicherungen im Vergleich: Fahr­rad und E-Bike günstig versichern](https://www.test.de/Fahrradversicherungen-Vergleich-5205101-0/ "Fahrradversicherungen im Vergleich - Fahrrad und E-Bike günstig versichern")
 
 test.de entdecken
 
-* [Neben­wirkung von Medikamenten: Von harmlos bis lebens­gefähr­lich](https://www.test.de/Nebenwirkung-von-Medikamenten-Von-harmlos-bis-lebensgefaehrlich-5996584-0/ "Nebenwirkung von Medikamenten - Von harmlos bis lebensgefährlich")
-* [Unter­nehmens­beteiligung: Riskante Beteiligung auf Raten](https://www.test.de/Unternehmensbeteiligung-Riskante-Beteiligung-auf-Raten-5978862-0/ "Unternehmensbeteiligung - Riskante Beteiligung auf Raten")
-* [Shrink­flation: Die versteckte Preis­erhöhung](https://www.test.de/Shrinkflation-So-laeuft-die-versteckte-Preiserhoehung-6031412-0/ "Shrinkflation - Die versteckte Preiserhöhung")
-* [Kinder-Smartwatches im Test: Peilsender am Hand­gelenk](https://www.test.de/Kinder-Smartwatch-Test-6041356-0/ "Kinder-Smartwatches im Test - Peilsender am Handgelenk")
-* [Kranken­versicherung für Studierende: Zum Uni-Start richtig kranken­versichert](https://www.test.de/Krankenversicherung-fuer-Studierende-6057464-0/ "Krankenversicherung für Studierende - Zum Uni-Start richtig krankenversichert")
-* [Energie sparen: Die Stromsparbox ist nutzlos](https://www.test.de/test-warnt-Nutzlose-Stromsparbox-5956815-0/ "Energie sparen - Die Stromsparbox ist nutzlos")
+* [ETF-Sparpläne im Minus: Die wichtigsten Antworten auf Fragen von Börsen­anfängern](https://www.test.de/ETF-Sparplaene-im-Minus-Die-wichtigsten-Antworten-fuer-Boersenanfaenger-5973024-0/ "ETF-Sparpläne im Minus - Die wichtigsten Antworten auf Fragen von Börsenanfängern")
+* [Daten­schutz im Test: Was Laut­sprecher-Apps ausplaudern](https://www.test.de/Datenschutz-im-Test-Was-Lautsprecher-Apps-ausplaudern-6126264-0/ "Datenschutz im Test - Was Lautsprecher-Apps ausplaudern")
+* [Zweites Leben für Textilien: Ballast abwerfen mit Bedacht](https://www.test.de/gebrauchte-kleidung-verkaufen-5954033-0/ "Zweites Leben für Textilien - Ballast abwerfen mit Bedacht")
+* [Dienst­reisen: Wie Sie Ihre Reise­kosten von der Steuer absetzen](https://www.test.de/reisekosten-steuer-6109917-0/ "Dienstreisen - Wie Sie Ihre Reisekosten von der Steuer absetzen")
+* [Instabile Intel CPUs: Was Betroffene tun können](https://www.test.de/Instabile-Intel-CPUs-Was-Betroffene-tun-koennen-6147165-0/ "Instabile Intel CPUs - Was Betroffene tun können")
+* [Erbstreit: Interview: „Um Geld geht es meist nur vordergründig“](https://www.test.de/Erbstreit-Interview-Um-Geld-geht-es-meist-nur-vordergruendig-5988060-0/ "Erbstreit - Interview: „Um Geld geht es meist nur vordergründig“")
 
 Weitere spannende Themen
 
 Neueste Tests
 
+* [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
+* [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
+* [Fest­geld­vergleich: Hier bringt Ihr Spargeld die beste Rendite – und ist sicher](https://www.test.de/Festgeldvergleich-Die-besten-Zinsen-4196084-0/ "Festgeldvergleich - Hier bringt Ihr Spargeld die beste Rendite – und ist sicher")
+* [Tages­geld­vergleich: Hier finden Sie die besten Zinsen](https://www.test.de/Tagesgeldvergleich-Die-besten-Zinsen-4196794-0/ "Tagesgeldvergleich - Hier finden Sie die besten Zinsen")
 * [Kfz-Versicherung im Vergleich: Jetzt noch die Chance nutzen – güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Jetzt noch die Chance nutzen – günstige Autoversicherung finden")
 * [Laptops im Test: Kräftig und kompakt – Notebooks, Ultra­books und Co](https://www.test.de/Tablets-mit-Tastatur-Notebooks-Ultrabooks-Convertibles-im-Test-4734961-0/ "Laptops im Test - Kräftig und kompakt – Notebooks, Ultrabooks und Co")
-* [Smartphones im Test: Gute Handys gibt es für weniger als 200 Euro](https://www.test.de/Handys-und-Smartphones-im-Test-4222793-0/ "Smartphones im Test - Gute Handys gibt es für weniger als 200 Euro")
-* [Elektrische Zahnbürsten im Test: Gründlich putzen für weniger als 50 Euro](https://www.test.de/elektrische-Zahnbuersten-im-Test-4621863-0/ "Elektrische Zahnbürsten im Test - Gründlich putzen für weniger als 50 Euro")
-* [Kinder­hoch­stühle im Test: Drei sind gut, drei fallen durch](https://www.test.de/Kinderhochstuehle-im-Test-1557913-0/ "Kinderhochstühle im Test - Drei sind gut, drei fallen durch")
-* [Fahr­radversicherungen im Vergleich: Fahr­rad und E-Bike günstig versichern](https://www.test.de/Fahrradversicherungen-Vergleich-5205101-0/ "Fahrradversicherungen im Vergleich - Fahrrad und E-Bike günstig versichern")
 
 test.de entdecken
 
-* [Neben­wirkung von Medikamenten: Von harmlos bis lebens­gefähr­lich](https://www.test.de/Nebenwirkung-von-Medikamenten-Von-harmlos-bis-lebensgefaehrlich-5996584-0/ "Nebenwirkung von Medikamenten - Von harmlos bis lebensgefährlich")
-* [Unter­nehmens­beteiligung: Riskante Beteiligung auf Raten](https://www.test.de/Unternehmensbeteiligung-Riskante-Beteiligung-auf-Raten-5978862-0/ "Unternehmensbeteiligung - Riskante Beteiligung auf Raten")
-* [Shrink­flation: Die versteckte Preis­erhöhung](https://www.test.de/Shrinkflation-So-laeuft-die-versteckte-Preiserhoehung-6031412-0/ "Shrinkflation - Die versteckte Preiserhöhung")
-* [Kinder-Smartwatches im Test: Peilsender am Hand­gelenk](https://www.test.de/Kinder-Smartwatch-Test-6041356-0/ "Kinder-Smartwatches im Test - Peilsender am Handgelenk")
-* [Kranken­versicherung für Studierende: Zum Uni-Start richtig kranken­versichert](https://www.test.de/Krankenversicherung-fuer-Studierende-6057464-0/ "Krankenversicherung für Studierende - Zum Uni-Start richtig krankenversichert")
-* [Energie sparen: Die Stromsparbox ist nutzlos](https://www.test.de/test-warnt-Nutzlose-Stromsparbox-5956815-0/ "Energie sparen - Die Stromsparbox ist nutzlos")
+* [ETF-Sparpläne im Minus: Die wichtigsten Antworten auf Fragen von Börsen­anfängern](https://www.test.de/ETF-Sparplaene-im-Minus-Die-wichtigsten-Antworten-fuer-Boersenanfaenger-5973024-0/ "ETF-Sparpläne im Minus - Die wichtigsten Antworten auf Fragen von Börsenanfängern")
+* [Daten­schutz im Test: Was Laut­sprecher-Apps ausplaudern](https://www.test.de/Datenschutz-im-Test-Was-Lautsprecher-Apps-ausplaudern-6126264-0/ "Datenschutz im Test - Was Lautsprecher-Apps ausplaudern")
+* [Zweites Leben für Textilien: Ballast abwerfen mit Bedacht](https://www.test.de/gebrauchte-kleidung-verkaufen-5954033-0/ "Zweites Leben für Textilien - Ballast abwerfen mit Bedacht")
+* [Dienst­reisen: Wie Sie Ihre Reise­kosten von der Steuer absetzen](https://www.test.de/reisekosten-steuer-6109917-0/ "Dienstreisen - Wie Sie Ihre Reisekosten von der Steuer absetzen")
+* [Instabile Intel CPUs: Was Betroffene tun können](https://www.test.de/Instabile-Intel-CPUs-Was-Betroffene-tun-koennen-6147165-0/ "Instabile Intel CPUs - Was Betroffene tun können")
+* [Erbstreit: Interview: „Um Geld geht es meist nur vordergründig“](https://www.test.de/Erbstreit-Interview-Um-Geld-geht-es-meist-nur-vordergruendig-5988060-0/ "Erbstreit - Interview: „Um Geld geht es meist nur vordergründig“")
 
 Neueste Tests
 
+* [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
+* [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
+* [Fest­geld­vergleich: Hier bringt Ihr Spargeld die beste Rendite – und ist sicher](https://www.test.de/Festgeldvergleich-Die-besten-Zinsen-4196084-0/ "Festgeldvergleich - Hier bringt Ihr Spargeld die beste Rendite – und ist sicher")
+* [Tages­geld­vergleich: Hier finden Sie die besten Zinsen](https://www.test.de/Tagesgeldvergleich-Die-besten-Zinsen-4196794-0/ "Tagesgeldvergleich - Hier finden Sie die besten Zinsen")
 * [Kfz-Versicherung im Vergleich: Jetzt noch die Chance nutzen – güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Jetzt noch die Chance nutzen – günstige Autoversicherung finden")
 * [Laptops im Test: Kräftig und kompakt – Notebooks, Ultra­books und Co](https://www.test.de/Tablets-mit-Tastatur-Notebooks-Ultrabooks-Convertibles-im-Test-4734961-0/ "Laptops im Test - Kräftig und kompakt – Notebooks, Ultrabooks und Co")
-* [Smartphones im Test: Gute Handys gibt es für weniger als 200 Euro](https://www.test.de/Handys-und-Smartphones-im-Test-4222793-0/ "Smartphones im Test - Gute Handys gibt es für weniger als 200 Euro")
-* [Elektrische Zahnbürsten im Test: Gründlich putzen für weniger als 50 Euro](https://www.test.de/elektrische-Zahnbuersten-im-Test-4621863-0/ "Elektrische Zahnbürsten im Test - Gründlich putzen für weniger als 50 Euro")
-* [Kinder­hoch­stühle im Test: Drei sind gut, drei fallen durch](https://www.test.de/Kinderhochstuehle-im-Test-1557913-0/ "Kinderhochstühle im Test - Drei sind gut, drei fallen durch")
-* [Fahr­radversicherungen im Vergleich: Fahr­rad und E-Bike günstig versichern](https://www.test.de/Fahrradversicherungen-Vergleich-5205101-0/ "Fahrradversicherungen im Vergleich - Fahrrad und E-Bike günstig versichern")
 
 test.de entdecken
 
-* [Neben­wirkung von Medikamenten: Von harmlos bis lebens­gefähr­lich](https://www.test.de/Nebenwirkung-von-Medikamenten-Von-harmlos-bis-lebensgefaehrlich-5996584-0/ "Nebenwirkung von Medikamenten - Von harmlos bis lebensgefährlich")
-* [Unter­nehmens­beteiligung: Riskante Beteiligung auf Raten](https://www.test.de/Unternehmensbeteiligung-Riskante-Beteiligung-auf-Raten-5978862-0/ "Unternehmensbeteiligung - Riskante Beteiligung auf Raten")
-* [Shrink­flation: Die versteckte Preis­erhöhung](https://www.test.de/Shrinkflation-So-laeuft-die-versteckte-Preiserhoehung-6031412-0/ "Shrinkflation - Die versteckte Preiserhöhung")
-* [Kinder-Smartwatches im Test: Peilsender am Hand­gelenk](https://www.test.de/Kinder-Smartwatch-Test-6041356-0/ "Kinder-Smartwatches im Test - Peilsender am Handgelenk")
-* [Kranken­versicherung für Studierende: Zum Uni-Start richtig kranken­versichert](https://www.test.de/Krankenversicherung-fuer-Studierende-6057464-0/ "Krankenversicherung für Studierende - Zum Uni-Start richtig krankenversichert")
-* [Energie sparen: Die Stromsparbox ist nutzlos](https://www.test.de/test-warnt-Nutzlose-Stromsparbox-5956815-0/ "Energie sparen - Die Stromsparbox ist nutzlos")
+* [ETF-Sparpläne im Minus: Die wichtigsten Antworten auf Fragen von Börsen­anfängern](https://www.test.de/ETF-Sparplaene-im-Minus-Die-wichtigsten-Antworten-fuer-Boersenanfaenger-5973024-0/ "ETF-Sparpläne im Minus - Die wichtigsten Antworten auf Fragen von Börsenanfängern")
+* [Daten­schutz im Test: Was Laut­sprecher-Apps ausplaudern](https://www.test.de/Datenschutz-im-Test-Was-Lautsprecher-Apps-ausplaudern-6126264-0/ "Datenschutz im Test - Was Lautsprecher-Apps ausplaudern")
+* [Zweites Leben für Textilien: Ballast abwerfen mit Bedacht](https://www.test.de/gebrauchte-kleidung-verkaufen-5954033-0/ "Zweites Leben für Textilien - Ballast abwerfen mit Bedacht")
+* [Dienst­reisen: Wie Sie Ihre Reise­kosten von der Steuer absetzen](https://www.test.de/reisekosten-steuer-6109917-0/ "Dienstreisen - Wie Sie Ihre Reisekosten von der Steuer absetzen")
+* [Instabile Intel CPUs: Was Betroffene tun können](https://www.test.de/Instabile-Intel-CPUs-Was-Betroffene-tun-koennen-6147165-0/ "Instabile Intel CPUs - Was Betroffene tun können")
+* [Erbstreit: Interview: „Um Geld geht es meist nur vordergründig“](https://www.test.de/Erbstreit-Interview-Um-Geld-geht-es-meist-nur-vordergruendig-5988060-0/ "Erbstreit - Interview: „Um Geld geht es meist nur vordergründig“")
 
 Stiftung Warentest
 
