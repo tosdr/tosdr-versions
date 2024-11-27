@@ -1,6 +1,6 @@
  
 
-**10% OFF** till 25th Nov 2024 with promo code **PEACE**
+**10% OFF** with promo code **PEACE**
 
 [![logo](//cdn.weatherapi.com/v4/images/weatherapi_logo.png)](https://www.weatherapi.com/)
 
