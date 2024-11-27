@@ -229,6 +229,7 @@ this hour
 
 * * *
 
+* [Explosive Secret of the Squirting Cucumber](https://www.sciencedaily.com/releases/2024/11/241125162946.htm)
 * [Uranus's Swaying Moons and Hidden Oceans](https://www.sciencedaily.com/releases/2024/11/241125163025.htm)
 * [Uranus and Neptune: What Lies Beneath?](https://www.sciencedaily.com/releases/2024/11/241125162951.htm)
 * [Realistic Satellite Images of Future Flooding](https://www.sciencedaily.com/releases/2024/11/241125124937.htm)
@@ -238,7 +239,6 @@ this hour
 * [Bats' Amazing Plan B for When They Can't Hear](https://www.sciencedaily.com/releases/2024/11/241125125118.htm)
 * [Stellar Evolution During the Early Universe](https://www.sciencedaily.com/releases/2024/11/241125124843.htm)
 * [Most Energetic Cosmic-Ray Electrons, Positrons](https://www.sciencedaily.com/releases/2024/11/241125124728.htm)
-* [Ancient Hot Water On Mars: Habitable Past?](https://www.sciencedaily.com/releases/2024/11/241122160756.htm)
 
 Trending Topics
 ---------------
@@ -253,15 +253,15 @@ this week
 
 [Hypertension](https://www.sciencedaily.com/news/health_medicine/hypertension/)
 
-[Colitis](https://www.sciencedaily.com/news/health_medicine/colitis/)
+[Dementia](https://www.sciencedaily.com/news/mind_brain/dementia/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Medical Technology](https://www.sciencedaily.com/news/matter_energy/medical_technology/)
 
-[Photography](https://www.sciencedaily.com/news/computers_math/photography/)
+[Computers and Internet](https://www.sciencedaily.com/news/computers_math/computers_and_internet/)
 
-[Computer Programming](https://www.sciencedaily.com/news/computers_math/computer_programming/)
+[Internet](https://www.sciencedaily.com/news/computers_math/internet/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
@@ -269,7 +269,7 @@ this week
 
 [Floods](https://www.sciencedaily.com/news/earth_climate/floods/)
 
-[Ancient Civilizations](https://www.sciencedaily.com/news/fossils_ruins/ancient_civilizations/)
+[Genetically Modified](https://www.sciencedaily.com/news/plants_animals/genetically_modified/)
 
   
 
