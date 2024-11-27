@@ -1,5 +1,7 @@
             
 
+[Language](#language)
+
 [English](https://www.cgtn.com/tv) [Español](https://espanol.cgtn.com/) [Français](https://francais.cgtn.com/) [العربية](https://arabic.cgtn.com/) [Русский](https://russian.cgtn.com/)
 
 [](https://www.cgtn.com/)
@@ -79,7 +81,7 @@ Your account Sign out
 * [Newsletters](https://www.cgtn.com/subscribe/newsletter.html)
 * [RSS](https://www.cgtn.com/subscribe/rss.html)
 
-* [LANGUAGE](javascript:;)
+* [EXPLORE MORE](javascript:;)
     
     [English](https://www.cgtn.com/tv) [Español](https://espanol.cgtn.com/) [Français](https://francais.cgtn.com/) [العربية](https://arabic.cgtn.com/) [Русский](https://russian.cgtn.com/) [Documentary](https://www.cgtn.com/channel/documentary) [CCTV+](http://www.cctvplus.com/)
     
@@ -155,6 +157,8 @@ Your account Sign out
 
 [](https://www.cgtn.com/)
 
+[Language](#language_)
+
 SIGN IN USER
 
 Your account Sign out
@@ -166,7 +170,7 @@ Your account Sign out
 * [Newsletters](https://www.cgtn.com/subscribe/newsletter.html)
 * [RSS](https://www.cgtn.com/subscribe/rss.html)
 
-* [LANGUAGE](javascript:;)
+* [EXPLORE MORE](javascript:;)
     
     [English](https://www.cgtn.com/tv) [Español](https://espanol.cgtn.com/) [Français](https://francais.cgtn.com/) [العربية](https://arabic.cgtn.com/) [Русский](https://russian.cgtn.com/) [Documentary](https://www.cgtn.com/channel/documentary) [CCTV+](http://www.cctvplus.com/)
     
@@ -246,8 +250,8 @@ Our Privacy Statement & Cookie Policy
 
 By continuing to browse our site you agree to our use of cookies, revised Privacy Policy and Terms of Use. You can change your cookie settings through your browser.
 
-* Privacy Policy
-* Terms of Use
+* [Privacy Policy](https://www.cgtn.com/privacy)
+* [Terms of Use](https://www.cgtn.com/terms-of-use)
 
 I agree
 
@@ -358,8 +362,6 @@ E-mail: dataprotection@cgtn-europe.com
 
 [](https://www.cgtn.com/)
 
-SITEMAP
-
 * [China](https://www.cgtn.com/china)
 * [World](https://www.cgtn.com/world)
 * [Politics](https://www.cgtn.com/politics)
@@ -389,6 +391,52 @@ EXPLORE MORE
 * [Documentary](https://www.cgtn.com/channel/documentary)
 * [CCTV+](http://www.cctvplus.com/)
 
+CHOOSE YOUR LANGUAGE
+
+* [Albanian Shqip](https://albanian.cgtn.com/)
+* [Arabic العربية](https://arabic.cgtn.com/)
+* [Belarusian Беларуская](https://belarusian.cgtn.com/)
+* [Bengali বাংলা](https://bangla.cgtn.com/)
+* [Bulgarian Български](https://bulgarian.cgtn.com/)
+* [Cambodian ខ្មែរ](https://cambodian.cgtn.com/)
+* [Croatian Hrvatski](https://croatian.cgtn.com/)
+* [Czech Český](https://czech.cgtn.com/)
+* [English English](https://www.cgtn.com/tv)
+* [Esperanto Esperanto](https://esperanto.cgtn.com/)
+* [Filipino Filipino](https://filipino.cgtn.com/)
+* [French Français](https://francais.cgtn.com/)
+* [German Deutsch](https://german.cgtn.com/)
+* [Greek Ελληνικά](https://greek.cgtn.com/)
+* [Hausa Hausa](https://hausa.cgtn.com/)
+* [Hebrew עברית](https://hebrew.cgtn.com/)
+* [Hungarian Magyar](https://hungarian.cgtn.com/)
+* [Hindi हिन्दी](https://hindi.cgtn.com/)
+* [Indonesian Bahasa Indonesia](https://indonesian.cgtn.com/)
+* [Italian Italiano](https://italian.cgtn.com/)
+* [Japanese 日本語](https://japanese.cgtn.com/)
+* [Korean 한국어](https://korean.cgtn.com/)
+* [Lao ລາວ](https://laos.cgtn.com/)
+* [Malay Bahasa Melayu](https://malay.cgtn.com/)
+* [Mongolian Монгол](https://mongol.cgtn.com/)
+* [Myanmar မြန်မာဘာသာ](https://myanmar.cgtn.com/)
+* [Nepali नेपाली](https://nepal.cgtn.com/)
+* [Persian فارسی](https://persian.cgtn.com/)
+* [Polish Polski](https://polish.cgtn.com/)
+* [Portuguese Português](https://portuguese.cgtn.com/)
+* [Pushtu پښتو](https://pashto.cgtn.com/)
+* [Romanian Română](https://romanian.cgtn.com/)
+* [Russian Русский](https://russian.cgtn.com/)
+* [Serbian Српски](https://serbian.cgtn.com/)
+* [Sinhalese සිංහල](https://sinhala.cgtn.com/)
+* [Spanish Español](https://espanol.cgtn.com/)
+* [Swahili Kiswahili](https://swahili.cgtn.com/)
+* [Tamil தமிழ்](https://tamil.cgtn.com/)
+* [Thai ไทย](https://thai.cgtn.com/)
+* [Turkish Türkçe](https://turkish.cgtn.com/)
+* [Ukrainian Українська](https://ukrainian.cgtn.com/)
+* [Urdu اردو](https://urdu.cgtn.com/)
+* [Vietnamese Tiếng Việt](https://vietnamese.cgtn.com/)
+
 DOWNLOAD OUR APP
 
 * [](https://itunes.apple.com/us/app/cctvnews/id922456579)
@@ -396,21 +444,23 @@ DOWNLOAD OUR APP
 * [](https://news.cgtn.com/download/CGTN.apk)
 * [](https://www.cgtn.com/appletv-download)
 
-Copyright © 2024 CGTN. [京ICP备20000184号](http://beian.miit.gov.cn/)
-
- [![](https://ui.cgtn.com/static/ng/resource/images/gwab.png) 京公网安备 11010502050052号](http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502050052)
-
-Disinformation report hotline: 010-85061466
-
 * [Terms of use](https://www.cgtn.com/terms-of-use)
 * [Copyright](https://www.cgtn.com/copyright)
 * [Privacy policy](https://www.cgtn.com/privacy)
 * [About us](https://www.cgtn.com/about-us)
+
+Copyright © 2024 CGTN.
+
+[京ICP备20000184号](http://beian.miit.gov.cn/)
+
+ [![](https://ui.cgtn.com/static/ng/resource/images/gwab.png) 京公网安备 11010502050052号](http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502050052)
+
+互联网新闻信息许可证10120180008
+
+Disinformation report hotline: 010-85061466
 
 [](https://www.cgtn.com/)
 
-SITEMAP
-
 * [China](https://www.cgtn.com/china)
 * [World](https://www.cgtn.com/world)
 * [Politics](https://www.cgtn.com/politics)
@@ -421,6 +471,7 @@ SITEMAP
 * [Opinions](https://www.cgtn.com/opinions)
 * [Travel](https://www.cgtn.com/travel)
 * [Nature](https://www.cgtn.com/nature)
+
 * [Picture](https://www.cgtn.com/picture)
 * [Video](https://www.cgtn.com/video)
 * [Live](https://www.cgtn.com/live)
@@ -436,9 +487,57 @@ EXPLORE MORE
 * [Español](https://espanol.cgtn.com/)
 * [Français](https://francais.cgtn.com/)
 * [العربية](https://arabic.cgtn.com/)
+
 * [Русский](https://russian.cgtn.com/)
 * [Documentary](https://www.cgtn.com/channel/documentary)
 * [CCTV+](http://www.cctvplus.com/)
+
+CHOOSE YOUR LANGUAGE
+
+* [Albanian Shqip](https://albanian.cgtn.com/)
+* [Arabic العربية](https://arabic.cgtn.com/)
+* [Belarusian Беларуская](https://belarusian.cgtn.com/)
+* [Bengali বাংলা](https://bangla.cgtn.com/)
+* [Bulgarian Български](https://bulgarian.cgtn.com/)
+* [Cambodian ខ្មែរ](https://cambodian.cgtn.com/)
+* [Croatian Hrvatski](https://croatian.cgtn.com/)
+* [Czech Český](https://czech.cgtn.com/)
+* [English English](https://www.cgtn.com/tv)
+* [Esperanto Esperanto](https://esperanto.cgtn.com/)
+* [Filipino Filipino](https://filipino.cgtn.com/)
+* [French Français](https://francais.cgtn.com/)
+* [German Deutsch](https://german.cgtn.com/)
+* [Greek Ελληνικά](https://greek.cgtn.com/)
+* [Hausa Hausa](https://hausa.cgtn.com/)
+* [Hebrew עברית](https://hebrew.cgtn.com/)
+* [Hungarian Magyar](https://hungarian.cgtn.com/)
+* [Hindi हिन्दी](https://hindi.cgtn.com/)
+* [Indonesian Bahasa Indonesia](https://indonesian.cgtn.com/)
+* [Italian Italiano](https://italian.cgtn.com/)
+* [Japanese 日本語](https://japanese.cgtn.com/)
+* [Korean 한국어](https://korean.cgtn.com/)
+
+* [Lao ລາວ](https://laos.cgtn.com/)
+* [Malay Bahasa Melayu](https://malay.cgtn.com/)
+* [Mongolian Монгол](https://mongol.cgtn.com/)
+* [Myanmar မြန်မာဘာသာ](https://myanmar.cgtn.com/)
+* [Nepali नेपाली](https://nepal.cgtn.com/)
+* [Persian فارسی](https://persian.cgtn.com/)
+* [Polish Polski](https://polish.cgtn.com/)
+* [Portuguese Português](https://portuguese.cgtn.com/)
+* [Pushtu پښتو](https://pashto.cgtn.com/)
+* [Romanian Română](https://romanian.cgtn.com/)
+* [Russian Русский](https://russian.cgtn.com/)
+* [Serbian Српски](https://serbian.cgtn.com/)
+* [Sinhalese සිංහල](https://sinhala.cgtn.com/)
+* [Spanish Español](https://espanol.cgtn.com/)
+* [Swahili Kiswahili](https://swahili.cgtn.com/)
+* [Tamil தமிழ்](https://tamil.cgtn.com/)
+* [Thai ไทย](https://thai.cgtn.com/)
+* [Turkish Türkçe](https://turkish.cgtn.com/)
+* [Ukrainian Українська](https://ukrainian.cgtn.com/)
+* [Urdu اردو](https://urdu.cgtn.com/)
+* [Vietnamese Tiếng Việt](https://vietnamese.cgtn.com/)
 
 DOWNLOAD OUR APP
 
@@ -447,13 +546,15 @@ DOWNLOAD OUR APP
 * [](https://news.cgtn.com/download/CGTN.apk)
 * [](https://www.cgtn.com/appletv-download)
 
-Copyright © 2024 CGTN. [京ICP备20000184号](http://beian.miit.gov.cn/)
-
- [![](https://ui.cgtn.com/static/ng/resource/images/gwab.png) 京公网安备 11010502050052号](http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502050052)
-
-Disinformation report hotline: 010-85061466
-
 * [Terms of use](https://www.cgtn.com/terms-of-use)
 * [Copyright](https://www.cgtn.com/copyright)
 * [Privacy policy](https://www.cgtn.com/privacy)
 * [About us](https://www.cgtn.com/about-us)
+
+Copyright © 2024 CGTN. [京ICP备20000184号](http://beian.miit.gov.cn/)
+
+ [![](https://ui.cgtn.com/static/ng/resource/images/gwab.png) 京公网安备 11010502050052号](http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502050052)
+
+互联网新闻信息许可证10120180008
+
+Disinformation report hotline: 010-85061466
