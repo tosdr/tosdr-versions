@@ -112,7 +112,7 @@ We may change this Privacy Policy from time to time. If we make changes, we will
 
 _Last updated: November 14, 2024_
 
-_“I can’t say enough good things about working with Dave Lechnyr. The progress I’m finally making – after years of trying – is improving my life in ways that I was beginning to think was never going to happen. I finally got to the point that I was ready and willing to put the hard work in. Dave has a seamless way of guiding and directing you to help you discover the road to better mental health on your own. An efficient, effective road to self-discovery. But, I learned you have to put the work in. The work you do is the engine propelling you forward. Dave is the Captain guiding you to safety. Put the work in, and Dave will meet you there step for step. He is extremely knowledgeable, professional, encouraging, and compassionate. I have and would HIGHLY recommend Dave.”_
+_“Working with Dave has been just what we needed. He doesn’t sugarcoat things, and that honesty helped us really see our issues and understand each other better. With his guidance, we’ve finally been able to work through some of our long-standing struggles and actually make progress. We couldn’t have done it without his support.”_
 
 [Get Started Now](https://therapydave.com/therapist-appointments/)
 
