@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![brouillard](https://www.watson.ch/fr/_watsui/static/img/weather/w-56.svg)2°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![en partie ensoleillé](https://www.watson.ch/fr/_watsui/static/img/weather/w-3.svg)3°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -54,26 +54,26 @@
 
 Thèmes du moment
 
-* [France](https://www.watson.ch/fr/france/)
 * [Argent](https://www.watson.ch/fr/argent/)
-* [Santé](https://www.watson.ch/fr/sante/)
+* [Neuchâtel](https://www.watson.ch/fr/neuchatel/)
+* [En direct](https://www.watson.ch/fr/en-direct/)
+* [Accident](https://www.watson.ch/fr/accident/)
+* [Politique](https://www.watson.ch/fr/politique/)
+* [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
 * [Police](https://www.watson.ch/fr/police/)
 * [Justice](https://www.watson.ch/fr/justice/)
-* [Poutine](https://www.watson.ch/fr/poutine/)
-* [En direct](https://www.watson.ch/fr/en-direct/)
+* [CFF](https://www.watson.ch/fr/cff/)
 * [Super League](https://www.watson.ch/fr/super-league/)
-* [Accident](https://www.watson.ch/fr/accident/)
+* [Banques](https://www.watson.ch/fr/banques/)
 * [voiture](https://www.watson.ch/fr/voiture/)
-* [Paris](https://www.watson.ch/fr/paris/)
+* [ukraine](https://www.watson.ch/fr/ukraine/)
+* [Gaza](https://www.watson.ch/fr/gaza/)
 * [Football](https://www.watson.ch/fr/football/)
-* [nourriture](https://www.watson.ch/fr/nourriture/)
 * [Russie](https://www.watson.ch/fr/russie/)
-* [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
-* [présidentielle américaine](https://www.watson.ch/fr/presidentielle-americaine/)
-* [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
-* [Donald Trump](https://www.watson.ch/fr/donald-trump/)
 * [Israël](https://www.watson.ch/fr/israel/)
 * [Liban](https://www.watson.ch/fr/liban/)
+* [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
+* [Donald Trump](https://www.watson.ch/fr/donald-trump/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
 * [Obtenir l'application](https://www.watson.ch/fr/u/app)
