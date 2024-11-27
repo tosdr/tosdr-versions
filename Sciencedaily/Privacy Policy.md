@@ -228,11 +228,11 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Chronic Illness](https://www.sciencedaily.com/news/health_medicine/chronic_illness/)
-
 [Brain-Computer Interfaces](https://www.sciencedaily.com/news/mind_brain/brain-computer_interfaces/)
 
-[Hypertension](https://www.sciencedaily.com/news/health_medicine/hypertension/)
+[Insomnia](https://www.sciencedaily.com/news/mind_brain/insomnia/)
+
+[Parenting](https://www.sciencedaily.com/news/mind_brain/parenting/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
@@ -240,7 +240,7 @@ this week
 
 [Computers and Internet](https://www.sciencedaily.com/news/computers_math/computers_and_internet/)
 
-[Internet](https://www.sciencedaily.com/news/computers_math/internet/)
+[Black Holes](https://www.sciencedaily.com/news/space_time/black_holes/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
