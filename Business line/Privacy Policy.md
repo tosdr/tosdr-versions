@@ -1,48 +1,48 @@
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=11398210&cs_ucfr=1&cv=4.4.0&cj=1) />
 
-##### SENSEX   79,973.14
+##### SENSEX   80,097.01
 
- -136.71
++ 92.95
 
-##### NIFTY   24,183.20
+##### NIFTY   24,197.85
 
- -38.70
++ 3.35
 
-##### CRUDEOIL   5,858.00
+##### CRUDEOIL   5,827.00
 
-+ 32.00
++ 51.00
 
-##### GOLD   74,970.00
+##### GOLD   75,900.00
 
- -341.00
++ 689.00
 
-##### SILVER   87,701.00
+##### SILVER   88,945.00
 
-+ 2.00
++ 695.00
 
-##### SENSEX   79,973.14
+##### SENSEX   80,097.01
 
- -136.71
++ 92.95
 
-##### NIFTY   24,183.20
+##### NIFTY   24,197.85
 
- -38.70
++ 3.35
 
-##### NIFTY   24,183.20
+##### NIFTY   24,197.85
 
- -38.70
++ 3.35
 
-##### CRUDEOIL   5,858.00
+##### CRUDEOIL   5,827.00
 
-+ 32.00
++ 51.00
 
-##### CRUDEOIL   5,858.00
+##### CRUDEOIL   5,827.00
 
-+ 32.00
++ 51.00
 
-##### GOLD   74,970.00
+##### GOLD   75,900.00
 
- -341.00
++ 689.00
 
 [![Businessline Logo](https://assetsbl.thehindubusinessline.com/theme/images/bl-online/logo.svg)](https://www.thehindubusinessline.com/)
 
@@ -708,14 +708,14 @@ The Courts in Chennai in India shall have the exclusive jurisdiction to the excl
 ##### Trending on businessline
 
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Stock Market Live](https://www.thehindubusinessline.com/markets/share-market-nifty-sensex-live-updates-november-26-2024/article68911667.ece)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) NTPC IPO Live](https://www.thehindubusinessline.com/markets/stock-markets/ntpc-green-energy-stocks-share-price-today-ntpc-ipo-gmp-listing-live-updates-27-nov-2024/article68913887.ece)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Tamil Nadu Rain Live](https://www.thehindubusinessline.com/news/tamil-nadu-chennai-pondicherry-rains-fengal-cyclone-live-news-updates/article68914195.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Adani Share Price Live](https://www.thehindubusinessline.com/markets/stock-markets/adani-group-stocks-adani-power-green-energy-enterprises-wilmar-ports-share-price-today-live-updates-26-nov-2024/article68896875.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) IPL Auction 2025 Day 1 Live](https://www.thehindubusinessline.com/news/sports/ipl-2025-mega-auction-live-news-updates/article68902386.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Maharashtra Election Results 2024 Live](https://www.thehindubusinessline.com/news/maharashtra-assembly-election-results-2024-live-news-updates/article68899648.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Delhi Air Pollution Live](https://www.thehindubusinessline.com/news/national/delhi-weather-temperature-delhi-ncr-aqi-air-quality-pollution-live-updates-today-20-nov-2024/article68880880.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) RBI Monetary Policy Live](https://www.thehindubusinessline.com/money-and-banking/rbi-monetary-policy-committee-mpc-meeting-october-2024-live-news-updates/article68732719.ece)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Ratan Tata Stocks Live](https://www.thehindubusinessline.com/markets/stock-markets/ratan-tata-group-stocks-tcs-tata-motors-tata-power-tata-steel-titan-tata-technologies-tata-communications-share-price-live-updates-11-oct-2024/article68739247.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) RBI MPC Meeting Highlights](https://www.thehindubusinessline.com/money-and-banking/rbi-monetary-policy-committee-mpc-meeting-live-updates-and-news-august-2024/article68496081.ece)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Adani Enterprises Share Price](https://www.thehindubusinessline.com/stocks/adani-enterprises-ltd/)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Nifty Prediction Today](https://www.thehindubusinessline.com/portfolio/technical-analysis/nifty-prediction-todaymarch-20-2024-bears-gain-traction-consider-shorts/article67971033.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Find Voter ID Number Online](https://www.thehindubusinessline.com/info-tech/how-to/how-to-find-voter-id-number-online/article66664192.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) SBI Share Price](https://www.thehindubusinessline.com/stocks/state-bank-of-india/)
