@@ -6,9 +6,9 @@
     * [Contact us](https://www.untu.us/contact-us/)
     * [Join our team](https://www.untu.us/join-our-team/)
     
-    [![adexchanger awards finalist badge](/_next/image/?url=https%3A%2F%2Fmedia.winwithoptimal.com%2Fwp-content%2Fuploads%2F2024%2F08%2F2024-AdExchanger-Awards-1.gif&w=3840&q=75)
+    [![designing a website](/_next/image/?url=https%3A%2F%2Fmedia.winwithoptimal.com%2Fwp-content%2Fuploads%2F2024%2F11%2FUntitled-design-20.png&w=3840&q=75)
     
-    ### Optimal is a 3x AdExchanger Awards Finalist](https://www.untu.us/insights/optimal-is-a-3x-adexchanger-awards-finalist/)
+    ### Website Migration Guide & Checklist for SEO](https://www.untu.us/insights/seo-website-migration/)
     
 * [Solutions](https://www.untu.us/solutions/)
     
@@ -18,7 +18,7 @@
     
     [![heathcare technology](/_next/image/?url=https%3A%2F%2Fmedia.winwithoptimal.com%2Fwp-content%2Fuploads%2F2024%2F04%2FFinn-Partners-case-study-image-768x768.png&w=3840&q=75)
     
-    ### How Finn Partners and Volta Medical Utilized Optimal’s Aura Data Cloud to Reduce CPC by 31%
+    ### How Finn Partners and Volta Medical Utilized Optimal’s Health Data to Reduce CPC by 31%
     
     The campaign efficiently reached AFIB patients and caregivers at a CPC 31% lower and a CTR 51% higher than health industry average.](https://www.untu.us/case-studies/how-optimals-aura-data-cloud-reduced-cpc-by-31/)
     
@@ -35,7 +35,7 @@
     
     [![heathcare technology](/_next/image/?url=https%3A%2F%2Fmedia.winwithoptimal.com%2Fwp-content%2Fuploads%2F2024%2F04%2FFinn-Partners-case-study-image-768x768.png&w=3840&q=75)
     
-    ### How Finn Partners and Volta Medical Utilized Optimal’s Aura Data Cloud to Reduce CPC by 31%
+    ### How Finn Partners and Volta Medical Utilized Optimal’s Health Data to Reduce CPC by 31%
     
     The campaign efficiently reached AFIB patients and caregivers at a CPC 31% lower and a CTR 51% higher than health industry average.](https://www.untu.us/case-studies/how-optimals-aura-data-cloud-reduced-cpc-by-31/)
     
@@ -367,7 +367,11 @@ Get ahead with the news and insights you need to inform and inspire your next su
 
 [Read more](https://www.untu.us/insights/)
 
-[![adexchanger awards finalist badge](/_next/image/?url=https%3A%2F%2Fmedia.winwithoptimal.com%2Fwp-content%2Fuploads%2F2024%2F08%2F2024-AdExchanger-Awards-1.gif&w=3840&q=75)
+[![designing a website](/_next/image/?url=https%3A%2F%2Fmedia.winwithoptimal.com%2Fwp-content%2Fuploads%2F2024%2F11%2FUntitled-design-20.png&w=3840&q=75)
+
+ConsumerEntertainmentHealthcare
+
+### Website Migration Guide & Checklist for SEO](https://www.untu.us/insights/seo-website-migration/)[![adexchanger awards finalist badge](/_next/image/?url=https%3A%2F%2Fmedia.winwithoptimal.com%2Fwp-content%2Fuploads%2F2024%2F08%2F2024-AdExchanger-Awards-1.gif&w=3840&q=75)
 
 ConsumerEntertainmentPoliticsPublic affairs
 
@@ -375,11 +379,7 @@ ConsumerEntertainmentPoliticsPublic affairs
 
 PoliticsPublic affairs
 
-### Optimal and Beeswax: Revolutionizing Voter Targeting Through Advanced CTV Technology](https://www.untu.us/insights/optimal-and-beeswax-revolutionizing-ctv-campaigns/)[![person watching tv with bowl of popcorn](/_next/image/?url=https%3A%2F%2Fmedia.winwithoptimal.com%2Fwp-content%2Fuploads%2F2022%2F10%2FCopy-of-DSPolitical-Email-Header-e1723587851421.png&w=3840&q=75)
-
-ConsumerEntertainmentPoliticsPublic affairs
-
-### Optimal Celebrates CTV Campaign Success with FreeWheel’s Performance Suite](https://www.untu.us/insights/optimal-freewheel-performance-suite-ctv-optimization/)
+### Optimal and Beeswax: Revolutionizing Voter Targeting Through Advanced CTV Technology](https://www.untu.us/insights/optimal-and-beeswax-revolutionizing-ctv-campaigns/)
 
 ### Company
 
