@@ -134,13 +134,13 @@ Join the **I_A_** newsletter for regular updates on our latest news stories.
 Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
+* [The 3G shutdown: Lessons from Australia and the world](https://independentaustralia.net/article-display/the-3g-shutdown-lessons-from-australia-and-the-world,19208 "Permanent Link : The 3G shutdown: Lessons from Australia and the world")
+* [EDITORIAL: 5 Top enshittification picks for 2024](https://independentaustralia.net/article-display/editorial-5-top-enshittification-picks-for-2024,19212 "Permanent Link : EDITORIAL: 5 Top enshittification picks for 2024")
 * [Alternatives to a social media age ban](https://independentaustralia.net/article-display/alternatives-to-a-social-media-age-ban,19211 "Permanent Link : Alternatives to a social media age ban")
 * [Politicians and media doing nothing to fix child removal crisis](https://independentaustralia.net/article-display/politicians-and-media-doing-nothing-to-fix-child-removal-crisis,19209 "Permanent Link : Politicians and media doing nothing to fix child removal crisis")
-* [The 3G shutdown: Lessons from Australia and the world](https://independentaustralia.net/article-display/the-3g-shutdown-lessons-from-australia-and-the-world,19208 "Permanent Link : The 3G shutdown: Lessons from Australia and the world")
 * [Compassion for refugees can undo Trump's influence on Australia](https://independentaustralia.net/article-display/compassion-for-refugees-can-undo-trumps-influence-on-australia,19207 "Permanent Link : Compassion for refugees can undo Trump's influence on Australia")
 * [Sustainable transport key to achieving Asia-Pacific development](https://independentaustralia.net/article-display/sustainable-transport-key-to-achieving-asia-pacific-development,19205 "Permanent Link : Sustainable transport key to achieving Asia-Pacific development")
 * [Draconian social media ban doomed to fail](https://independentaustralia.net/article-display/draconian-social-media-ban-doomed-to-fail,19206 "Permanent Link : Draconian social media ban doomed to fail")
-* [No coming back from Trump](https://independentaustralia.net/article-display/no-coming-back-from-trump,19204 "Permanent Link : No coming back from Trump")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
