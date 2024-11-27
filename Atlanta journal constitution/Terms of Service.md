@@ -1,5 +1,7 @@
 error: no ad slot id exists: undefined
 
+[Breaking: 2 DeKalb officers shot at condo complex near Panthersville](https://www.ajc.com/news/crime/2-dekalb-officers-shot-near-panthersville/OWKNINMS7RABBC7ZV5MJEIYGRM/)
+
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1836)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1836)](https://www.ajc.com/)
 
 Log In
@@ -179,13 +181,13 @@ Follow Us
 
 [](https://twitter.com/ajc)[](https://facebook.com/ajc)[](https://www.instagram.com/ajcnews)
 
-© 2024 . All Rights Reserved.
+© 2024 The Atlanta Journal-Constitution. All Rights Reserved.
 
 By using this website, you accept the terms of our
 
-[](#), [](#), [](#), and understand your options regarding [](#).
+[Terms of Use](https://www.ajc.com/visitor-agreement/), [Privacy Policy](https://www.ajc.com/privacy-policy/), [CCPA](https://www.ajc.com/california-privacy-notice/), and understand your options regarding [Ad Choices](https://www.ajc.com/privacy-policy/#ad-choices).
 
-[Learn about .](#)
+[Learn about Careers at Cox Enterprises.](https://jobs.coxenterprises.com/?prefilters=none&CloudSearchLocation=none&CloudSearchValue=none/)
 
 ATLANTA JOURNAL-CONSTITUTION TERMS OF USE
 -----------------------------------------
