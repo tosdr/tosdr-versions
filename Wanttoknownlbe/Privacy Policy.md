@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/hoofdartikelen/kun-je-met-de-waarheid-omgaan/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/meelezen/een-hart-onder-de-riem-van-christina-von-dreien/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
