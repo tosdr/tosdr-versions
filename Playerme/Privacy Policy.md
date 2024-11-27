@@ -33,9 +33,9 @@
     
     ### What's new:
     
-    [](https://player.me/strinova-agents-tier-list/)
+    [](https://player.me/frontiers-of-pandora-dlc-delayed-until-november-28/)
     
-    ![Strinova Agents Tier List: A Detailed Guide About the New Anime 5v5 Shooter](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
+    ![Avatar: Frontiers of Pandora DLC, Secrets of the Spires, Delayed Until November 28 Due to a Critical Issue](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
     
     Load More
     
@@ -73,9 +73,9 @@
     
     ### What's new:
     
-    [](https://player.me/strinova-agents-tier-list/)
+    [](https://player.me/frontiers-of-pandora-dlc-delayed-until-november-28/)
     
-    ![Strinova Agents Tier List: A Detailed Guide About the New Anime 5v5 Shooter](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
+    ![Avatar: Frontiers of Pandora DLC, Secrets of the Spires, Delayed Until November 28 Due to a Critical Issue](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
     
     Load More
     
@@ -141,6 +141,32 @@ TRENDING
 *   Back
 * The Last of Us
 
+![Avatar: Frontiers of Pandora DLC, Secrets of the Spires, Delayed Until November 28 Due to a Critical Issue](https://player.me/wp-content/uploads/2024/11/Player_me-2-1.png)
+
+[Avatar: Frontiers of Pandora DLC, Secrets of the Spires, Delayed Until November 28 Due to a Critical Issue](https://player.me/frontiers-of-pandora-dlc-delayed-until-november-28/)
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+November 27, 2024/
+
+Ubisoft has announced a minor delay for the eagerly awaited Avatar: Frontiers of Pandora DLC, Secrets of the Spires. Originally…
+
+[Read More](https://player.me/frontiers-of-pandora-dlc-delayed-until-november-28/)
+
+![Ranking the 10 Best Castlevania Games Across the Castlevania Series](https://player.me/wp-content/uploads/2024/11/Ranking-the-10-Best-Castlevania-Games-Across-the-Castlevania-Series.png)
+
+[Ranking the 10 Best Castlevania Games Across the Castlevania Series](https://player.me/ranking-the-10-best-castlevania-games/)
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+November 27, 2024/
+
+Few video game franchises have shaped an entire genre as profoundly as Castlevania. Alongside Metroid, the Belmont clan’s adventures gave…
+
+[Read More](https://player.me/ranking-the-10-best-castlevania-games/)
+
 ![Strinova Agents Tier List: A Detailed Guide About the New Anime 5v5 Shooter](https://player.me/wp-content/uploads/2024/11/Strinova-Agents-Tier-List.png)
 
 [Strinova Agents Tier List: A Detailed Guide About the New Anime 5v5 Shooter](https://player.me/strinova-agents-tier-list/)
@@ -218,32 +244,6 @@ November 21, 2024/
 The annual Microsoft Ignite 2024 conference, held on November 19 in Chicago, delivered a series of groundbreaking announcements aimed at…
 
 [Read More](https://player.me/microsoft-ignite-2024-complete-guide/)
-
-![Farming Simulator 25: Ranking the Best Crops to Earn Quick Money](https://player.me/wp-content/uploads/2024/11/Farming-Simulator-25.png)
-
-[Farming Simulator 25: Ranking the Best Crops to Earn Quick Money](https://player.me/ranking-the-best-crops-in-farming-simulator-25/)
-
-
------------------------------------------------------------------------------------------------------------------------------------------
-
-November 20, 2024/
-
-In just one week since its release, Farming Simulator 25 is already proving to be a monumental success for GIANTS…
-
-[Read More](https://player.me/ranking-the-best-crops-in-farming-simulator-25/)
-
-![Lorelei and the Laser Eyes PS5 and PS4 Release Date Set on December 3](https://player.me/wp-content/uploads/2024/11/Lorelei-and-the-Laser-Eyes-PS5-and-PS4-Release-Date-Set-on-December-3.png)
-
-[Lorelei and the Laser Eyes PS5 and PS4 Release Date Set on December 3](https://player.me/lorelei-and-the-laser-eyes-playstation-release-date/)
-
-
----------------------------------------------------------------------------------------------------------------------------------------------------
-
-November 20, 2024/
-
-After months of anticipation, Lorelei and the Laser Eyes, one of 2024’s most critically acclaimed indie games, is set to…
-
-[Read More](https://player.me/lorelei-and-the-laser-eyes-playstation-release-date/)
 
 [Older Posts](https://player.me/page/2/)Newer Posts
 
@@ -276,6 +276,32 @@ GAMING
 *   Back
 * The Last of Us
 
+![Avatar: Frontiers of Pandora DLC, Secrets of the Spires, Delayed Until November 28 Due to a Critical Issue](https://player.me/wp-content/uploads/2024/11/Player_me-2-1.png)
+
+[Avatar: Frontiers of Pandora DLC, Secrets of the Spires, Delayed Until November 28 Due to a Critical Issue](https://player.me/frontiers-of-pandora-dlc-delayed-until-november-28/)
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+November 27, 2024/
+
+Ubisoft has announced a minor delay for the eagerly awaited Avatar: Frontiers of Pandora DLC, Secrets of the Spires. Originally…
+
+[Read More](https://player.me/frontiers-of-pandora-dlc-delayed-until-november-28/)
+
+![Ranking the 10 Best Castlevania Games Across the Castlevania Series](https://player.me/wp-content/uploads/2024/11/Ranking-the-10-Best-Castlevania-Games-Across-the-Castlevania-Series.png)
+
+[Ranking the 10 Best Castlevania Games Across the Castlevania Series](https://player.me/ranking-the-10-best-castlevania-games/)
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+November 27, 2024/
+
+Few video game franchises have shaped an entire genre as profoundly as Castlevania. Alongside Metroid, the Belmont clan’s adventures gave…
+
+[Read More](https://player.me/ranking-the-10-best-castlevania-games/)
+
 ![Strinova Agents Tier List: A Detailed Guide About the New Anime 5v5 Shooter](https://player.me/wp-content/uploads/2024/11/Strinova-Agents-Tier-List.png)
 
 [Strinova Agents Tier List: A Detailed Guide About the New Anime 5v5 Shooter](https://player.me/strinova-agents-tier-list/)
@@ -379,32 +405,6 @@ November 20, 2024/
 After months of anticipation, Lorelei and the Laser Eyes, one of 2024’s most critically acclaimed indie games, is set to…
 
 [Read More](https://player.me/lorelei-and-the-laser-eyes-playstation-release-date/)
-
-![Ratatan, Patapon’s Spiritual Successor, Is Officially Launching on PS4 and PS5 in 2025](https://player.me/wp-content/uploads/2024/11/Ratatan-Patapons-Spiritual-Successor-Is-Officially-Launching-on-PS4-and-PS5-in-2025.png)
-
-[Ratatan, Patapon’s Spiritual Successor, Is Officially Launching on PS4 and PS5 in 2025](https://player.me/ratatan-is-officially-launching-on-ps4-and-ps5-in-2025/)
-
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-November 19, 2024/
-
-The highly anticipated rhythm-action game Ratatan, developed by Ratata Arts in collaboration with TVT, will be released in 2025. Ratatan…
-
-[Read More](https://player.me/ratatan-is-officially-launching-on-ps4-and-ps5-in-2025/)
-
-![The Game Awards 2024 Nominees: Complete List](https://player.me/wp-content/uploads/2024/11/The-Game-Awards-2024-Nominees.png)
-
-[The Game Awards 2024 Nominees: Complete List](https://player.me/the-game-awards-2024-nominees-complete-list/)
-
-
-------------------------------------------------------------------------------------------------------------------
-
-November 19, 2024/
-
-The Game Awards 2024, one of the most prestigious annual events in gaming, is set to take place on Thursday,…
-
-[Read More](https://player.me/the-game-awards-2024-nominees-complete-list/)
 
 [Older Posts](https://player.me/page/2/)Newer Posts
 
@@ -817,6 +817,18 @@ Diversify. This was the motto for Apple after the US-China trade ties soured and
 
 player.me
 
+[](https://player.me/frontiers-of-pandora-dlc-delayed-until-november-28/ "Avatar: Frontiers of Pandora DLC, Secrets of the Spires, Delayed Until November 28 Due to a Critical Issue")
+
+[Avatar: Frontiers of Pandora DLC, Secrets of the Spires, Delayed Until November 28 Due to a Critical Issue](https://player.me/frontiers-of-pandora-dlc-delayed-until-november-28/)
+
+November 27, 2024
+
+[](https://player.me/ranking-the-10-best-castlevania-games/ "Ranking the 10 Best Castlevania Games Across the Castlevania Series")
+
+[Ranking the 10 Best Castlevania Games Across the Castlevania Series](https://player.me/ranking-the-10-best-castlevania-games/)
+
+November 27, 2024
+
 [](https://player.me/strinova-agents-tier-list/ "Strinova Agents Tier List: A Detailed Guide About the New Anime 5v5 Shooter")
 
 [Strinova Agents Tier List: A Detailed Guide About the New Anime 5v5 Shooter](https://player.me/strinova-agents-tier-list/)
@@ -853,22 +865,10 @@ November 21, 2024
 
 November 21, 2024
 
-[](https://player.me/ranking-the-best-crops-in-farming-simulator-25/ "Farming Simulator 25: Ranking the Best Crops to Earn Quick Money")
-
-[Farming Simulator 25: Ranking the Best Crops to Earn Quick Money](https://player.me/ranking-the-best-crops-in-farming-simulator-25/)
-
-November 20, 2024
-
-[](https://player.me/lorelei-and-the-laser-eyes-playstation-release-date/ "Lorelei and the Laser Eyes PS5 and PS4 Release Date Set on December 3")
-
-[Lorelei and the Laser Eyes PS5 and PS4 Release Date Set on December 3](https://player.me/lorelei-and-the-laser-eyes-playstation-release-date/)
-
-November 20, 2024
-
 [ตรวจหวย 17 มกราคม 2567](https://www.surveymonkey.com/r/checklottery17jan)  
 [Ufabet](https://www.surveymonkey.com/r/ufabet_ufa)  
 
-Visited 583,877 times, 179 visit(s) today
+Visited 583,920 times, 16 visit(s) today
 
 ![Player.me Logo](image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDg5JyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnPjwvc3ZnPg==)
 
