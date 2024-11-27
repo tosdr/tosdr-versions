@@ -1,10 +1,10 @@
 Γ
 
-                                                                   
+                                                                      
 
-Privacy Policy - VORO MOTORS                               
+Privacy Policy - VORO MOTORS                        
 
-👉 [BLACK FRIDAY DEALS ARE HERE! CHECK THEM OUT NOW.](https://www.voromotors.com/en-gb/pages/black-friday-2024 "https://www.voromotors.com/en-gb/pages/black-friday-2024")
+NExt day delivery LA / SD / LV / SF 👉 [BLACK FRIDAY DEALS ARE HERE! CHECK THEM OUT NOW.](https://www.voromotors.com/en-gb/pages/black-friday-2024 "https://www.voromotors.com/en-gb/pages/black-friday-2024")
 
 Menu
 
@@ -42,28 +42,12 @@ Menu
     * [Altis](https://www.voromotors.com/collections/altis-ebikes)
         * [Altis Sigma](https://www.voromotors.com/products/altis-sigma-best-electric-dirt-bike-98v-35ah-e-dirt-bike)
 * [Accessories](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/accessories)
-    * [EMOVE](https://www.voromotors.com/collections/emove-accessories-and-parts/accessories)
-        * [Cruiser](https://www.voromotors.com/collections/cruiser-s-accessories)
-        * [Cruiser V2](https://www.voromotors.com/collections/cruiser-v2-accessories)
-        * [Touring](https://www.voromotors.com/collections/touring-accessories)
-        * [RoadRunner SE](https://www.voromotors.com/collections/roadrunner-se-accessories)
-        * [RoadRunner](https://www.voromotors.com/collections/roadrunner-v2-accessories)
-        * [RoadRunner Pro](https://www.voromotors.com/collections/roadrunner-pro-accessories)
-        * [Roadster](https://www.voromotors.com/collections/roadster-accessories)
-    * [Kaabo](https://www.voromotors.com/collections/kaabo-accessories-and-parts/accessories)
-        * [Wolf King GTR](https://www.voromotors.com/collections/wolf-king-gtr-accessories)
-        * [Wolf King GT](https://www.voromotors.com/collections/wolf-king-gt-accessories)
-        * [Wolf Warrior GT](https://www.voromotors.com/collections/wolf-warrior-gt-accessories)
-        * [Wolf Warrior X Pro](https://www.voromotors.com/collections/wolf-warrior-x-pro-accessories)
-        * [Mantis King GT](https://www.voromotors.com/collections/mantis-king-gt-accessories)
-    * [Inmotion](https://www.voromotors.com/collections/inmotion-accessories-and-parts)
-        * [RS Midnight](https://www.voromotors.com/collections/rs-midnight-accessories)
-        * [Climber](https://www.voromotors.com/collections/climber-accessories)
+    * [All Accessories](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/accessories)
+        * [Latest and Greatest](https://www.voromotors.com/collections/latest-greatest)
+        * [Protection / Anti-Theft](https://www.voromotors.com/collections/protection-anti-theft)
+        * [Performance](https://www.voromotors.com/collections/performance)
+        * [Quality of Life](https://www.voromotors.com/collections/quality-of-life)
     * [Others](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/accessories)
-        * [E Ride Pro SS](https://www.voromotors.com/collections/e-ride-pro-ss-accessories)
-        * [Fiido](https://www.voromotors.com/collections/fiido-accessories-and-parts)
-        * [Dualtron](https://www.voromotors.com/collections/dualtron-accessories-1)
-        * [Safety Gear](https://www.voromotors.com/collections/safety-gear)
         * [Gift Cards](https://www.voromotors.com/products/gift-card-1)
         * [Merch](https://www.voromotors.com/collections/merch)
 * [Spare Parts](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/spare-parts)
@@ -126,7 +110,7 @@ Menu
 
 [0](https://www.voromotors.com/cart "Cart")
 
-👉 [BLACK FRIDAY DEALS ARE HERE! CHECK THEM OUT NOW.](https://www.voromotors.com/en-gb/pages/black-friday-2024 "https://www.voromotors.com/en-gb/pages/black-friday-2024")
+NExt day delivery LA / SD / LV / SF 👉 [BLACK FRIDAY DEALS ARE HERE! CHECK THEM OUT NOW.](https://www.voromotors.com/en-gb/pages/black-friday-2024 "https://www.voromotors.com/en-gb/pages/black-friday-2024")
 
 * [](mailto:support@voromotors.com "Email VORO MOTORS")
 * [](https://www.facebook.com/voromotors/?hc_ref=ARQt5oqSRDb3O_2dEeqJf59C-0aG1zH3i68aiYoxYjZddTaL3EBY2I-npawa3-pm4zY&fref=nf&__xts__[0]=68.ARBnR8fjq1PI-62n0AGbymqjO7N1yW0RJu0-fc_uFFEiwGCxljiit_Cqr9RcgQSywZ9gXhwCLM9rWCyHk9BtF7kd7J4Zp0ay3rj9-wuGn6FvpyK3pQhZGnD_jRYFDPhgQg00Bahz2QH9qjJcsbvnGurdzantzaIoLXFjQBUesFZQ0hu5P2V_m0jsAFF4-spGlFIhonboGzEhhvyK8m22L7XU_fmStWE3-GWxJdGVI_aPRBfTJm_42V5uqUk46OE1wIRkFnysjCUacVYdvKvPdzGJEbjV7nBu6FdQhyTA0F8ochmKtT8_epk&__tn__=kC-R "VORO MOTORS on Facebook")
@@ -200,28 +184,12 @@ Continue Shopping
     
 * Accessories
     
-    * [EMOVE](https://www.voromotors.com/collections/emove-accessories-and-parts/accessories)
-        * [Cruiser](https://www.voromotors.com/collections/cruiser-s-accessories)
-        * [Cruiser V2](https://www.voromotors.com/collections/cruiser-v2-accessories)
-        * [Touring](https://www.voromotors.com/collections/touring-accessories)
-        * [RoadRunner SE](https://www.voromotors.com/collections/roadrunner-se-accessories)
-        * [RoadRunner](https://www.voromotors.com/collections/roadrunner-v2-accessories)
-        * [RoadRunner Pro](https://www.voromotors.com/collections/roadrunner-pro-accessories)
-        * [Roadster](https://www.voromotors.com/collections/roadster-accessories)
-    * [Kaabo](https://www.voromotors.com/collections/kaabo-accessories-and-parts/accessories)
-        * [Wolf King GTR](https://www.voromotors.com/collections/wolf-king-gtr-accessories)
-        * [Wolf King GT](https://www.voromotors.com/collections/wolf-king-gt-accessories)
-        * [Wolf Warrior GT](https://www.voromotors.com/collections/wolf-warrior-gt-accessories)
-        * [Wolf Warrior X Pro](https://www.voromotors.com/collections/wolf-warrior-x-pro-accessories)
-        * [Mantis King GT](https://www.voromotors.com/collections/mantis-king-gt-accessories)
-    * [Inmotion](https://www.voromotors.com/collections/inmotion-accessories-and-parts)
-        * [RS Midnight](https://www.voromotors.com/collections/rs-midnight-accessories)
-        * [Climber](https://www.voromotors.com/collections/climber-accessories)
+    * [All Accessories](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/accessories)
+        * [Latest and Greatest](https://www.voromotors.com/collections/latest-greatest)
+        * [Protection / Anti-Theft](https://www.voromotors.com/collections/protection-anti-theft)
+        * [Performance](https://www.voromotors.com/collections/performance)
+        * [Quality of Life](https://www.voromotors.com/collections/quality-of-life)
     * [Others](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/accessories)
-        * [E Ride Pro SS](https://www.voromotors.com/collections/e-ride-pro-ss-accessories)
-        * [Fiido](https://www.voromotors.com/collections/fiido-accessories-and-parts)
-        * [Dualtron](https://www.voromotors.com/collections/dualtron-accessories-1)
-        * [Safety Gear](https://www.voromotors.com/collections/safety-gear)
         * [Gift Cards](https://www.voromotors.com/products/gift-card-1)
         * [Merch](https://www.voromotors.com/collections/merch)
     
