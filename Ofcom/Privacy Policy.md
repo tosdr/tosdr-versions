@@ -143,7 +143,7 @@
 
 ### Seasonal scams to watch out for
 
-27 November 2024](https://www.ofcom.org.uk/phones-and-broadband/scam-calls-and-messages/seasonal-scams-to-watch-out-for/)
+27 November 2024](https://www.ofcom.org.uk/phones-and-broadband/scam-calls-and-messages/seasonal-scams-to-watch-out-for/?language=en)
 
 [![Complaints-visual-web](/siteassets/resources/images/-news-centre/thumbnail-images/phones/complaints-visual-web.jpg?width=1920&height=1085&quality=80)
 
@@ -157,7 +157,7 @@
 
 13 November 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/community-radio/greater-flexibility-for-community-radio-stations-to-serve-local-listeners/)
 
- [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/corporate-policies/general-privacy-statement/ "Switch to Welsh")
+ [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/corporate-policies/general-privacy-statement/?language=cy "Switch to Welsh")
 
 1. [Home](https://www.ofcom.org.uk/)
 2. [About Ofcom](https://www.ofcom.org.uk/about-ofcom/)
