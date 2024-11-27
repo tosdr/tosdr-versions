@@ -131,7 +131,7 @@ Prices Starting at Only $21.99
 
 [![Heartgard Plus](https://budgetpetcare.b-cdn.net/images/Banners/heartgard-sml-1.jpg)](https://www.budgetpetcare.com/heartgard-plus-for-dogs/dog-heartwormer-treatment-310.aspx?utm_source=suggested_products)
 
-Prices Starting at Only $22.99
+Prices Starting at Only $37.89
 
 [![Revolution](https://budgetpetcare.b-cdn.net/images/Banners/revolution-sml.jpg)](https://www.budgetpetcare.com/revolution-for-dogs/dog-flea-and-tick-treatment-431.aspx?utm_source=suggested_products)
 
