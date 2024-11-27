@@ -82,7 +82,7 @@ Trending Posts
 * [Why did Democrats lose? Just listen to the voters.](https://therealnews.com/why-did-democrats-lose-just-listen-to-the-voters)
 * [‘Let this election galvanize and radicalize us’: Abby Martin, Francesca Fiorentini, and Kat Abughazaleh respond to Trump’s win](https://therealnews.com/let-this-election-galvanize-and-radicalize-us-abby-martin-francesca-fiorentini-and-kat-abughazaleh-respond-to-trumps-win)
 * [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
-* [The weapons Israel tests on Palestinians will be used against all of us](https://therealnews.com/the-weapons-israel-tests-on-palestinians-will-be-used-against-all-of-us)
+* [The bad, the worse, and the ugly: Trump's incoming cabinet](https://therealnews.com/the-bad-the-worse-and-the-ugly-trumps-incoming-cabinet)
 
 Close
 
@@ -146,7 +146,7 @@ Trending Posts
 * [Why did Democrats lose? Just listen to the voters.](https://therealnews.com/why-did-democrats-lose-just-listen-to-the-voters)
 * [‘Let this election galvanize and radicalize us’: Abby Martin, Francesca Fiorentini, and Kat Abughazaleh respond to Trump’s win](https://therealnews.com/let-this-election-galvanize-and-radicalize-us-abby-martin-francesca-fiorentini-and-kat-abughazaleh-respond-to-trumps-win)
 * [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
-* [The weapons Israel tests on Palestinians will be used against all of us](https://therealnews.com/the-weapons-israel-tests-on-palestinians-will-be-used-against-all-of-us)
+* [The bad, the worse, and the ugly: Trump's incoming cabinet](https://therealnews.com/the-bad-the-worse-and-the-ugly-trumps-incoming-cabinet)
 
 [Skip to content](#main)
 
