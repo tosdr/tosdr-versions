@@ -190,18 +190,24 @@
 
 Subscribe
 
-[#### Type 2 Diabetes](https://www.healthline.com/type-2-diabetes)
+[#### Mental Well-Being](https://www.healthline.com/mental-health)
 
-* [What to Eat](https://www.healthline.com/type-2-diabetes/what-to-eat)
-* [Medications](https://www.healthline.com/type-2-diabetes/medications)
-* [Essentials](https://www.healthline.com/type-2-diabetes/essentials)
-* [Perspectives](https://www.healthline.com/type-2-diabetes/perspectives)
-* [Mental Health](https://www.healthline.com/type-2-diabetes/mental-health-and-type-2-diabetes)
-* [Life with T2D](https://www.healthline.com/type-2-diabetes/lifestyle)
-* [Newsletter](https://www.healthline.com/newsletter-signup/type-2-diabetes)
-* [Community](https://www.bezzyt2d.com/)
-* [Lessons](https://www.healthline.com/app/type-2-diabetes?utm_source=t2dnav)
-* [Español](https://www.healthline.com/type-2-diabetes/diabetes-tipo-2)
+* [Anxiety](https://www.healthline.com/mental-health/anxiety)
+* [Depression](https://www.healthline.com/mental-health/depression)
+* [Better Sleep](https://www.healthline.com/mental-health/sleep)
+* [Nutrition & Supplements](https://www.healthline.com/mental-health/nutrition-supplements)
+* [Building Relationships](https://www.healthline.com/mental-health/building-relationships)
+* [Emotional Well-Being](https://www.healthline.com/mental-health/mind-and-body)
+* [Navigating Therapy](https://www.healthline.com/mental-health/treatment)
+* [Crisis Support](https://www.healthline.com/mental-health/crisis-support)
+* [ADHD](https://www.healthline.com/mental-health/adhd)
+* [Bipolar Disorder](https://www.healthline.com/mental-health/bipolar)
+* [Eating Disorders](https://www.healthline.com/mental-health/eating-disorders)
+* [OCD](https://www.healthline.com/mental-health/ocd)
+* [Schizophrenia](https://www.healthline.com/mental-health/schizophrenia)
+* [Addiction](https://www.healthline.com/mental-health/addiction)
+* [Services & Reviews](https://www.healthline.com/reviews/mental-health-services-and-products)
+* [Apps](https://www.healthline.com/mental-health/apps)
 
 Privacy Policy
 ==============
