@@ -99,7 +99,7 @@ Latest commented posts
 
 [ash and dean (no nut november) created by drako1997](https://yiff-party.com/yiff/ash-and-dean-no-nut-november-created-by-drako1997/)
 
-0 349 1
+0 356 1
 
 November 2, 2024
 
@@ -107,21 +107,21 @@ November 2, 2024
 
 [agatha directed by kotcfacu (director)](https://yiff-party.com/yiff/agatha-directed-by-kotcfacu-director/)
 
-0 340 1
+0 351 1
 
 November 18, 2024
 
-[](https://yiff-party.com/yiff/isabelle-animal-crossing-and-etc-created-by-healerart/)
+[](https://yiff-party.com/yiff/yasha-created-by-peculiart/)
 
-[isabelle (animal crossing and etc) created by healerart](https://yiff-party.com/yiff/isabelle-animal-crossing-and-etc-created-by-healerart/)
+[yasha created by peculiart](https://yiff-party.com/yiff/yasha-created-by-peculiart/)
 
-0 119 0
+0 93 0
 
 October 28, 2024
 
-[](https://yiff-party.com/yiff/dean-and-zasha-no-nut-november-and-etc-created-by-drako1997/)
+[](https://yiff-party.com/yiff-gif/artifact-the-fox-and-loona-helluva-boss-and-etc-created-by-glowhorn/)
 
-[dean and zasha (no nut november and etc) created by drako1997](https://yiff-party.com/yiff/dean-and-zasha-no-nut-november-and-etc-created-by-drako1997/)
+[artifact the fox and loona (helluva boss and etc) created by glowhorn](https://yiff-party.com/yiff-gif/artifact-the-fox-and-loona-helluva-boss-and-etc-created-by-glowhorn/)
 
 0 2 0
 
