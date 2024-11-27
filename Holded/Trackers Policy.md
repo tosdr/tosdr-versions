@@ -1,25 +1,5 @@
 [BLACK FRIDAY: 75% discount for three months  →](https://www.holded.com/pricing)
 
-06
-
-DAYS
-
-07
-
-HRS
-
-:
-
-16
-
-MIN
-
-:
-
-38
-
-SEC
-
 Talk to our sales team:[+34 932 718 999](tel:+34932718999)
 
 [Holded![](https://storage.googleapis.com/landing-strapi-v4/assets/svg/logo_holded-qMwQDtfE85rbQYwgBwaJYY.svg)](https://www.holded.com/)
