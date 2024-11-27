@@ -114,9 +114,9 @@
 * [Book demo](https://timeular.com/demo/)
 * [Try for free](https://app.timeular.com/#/register)
 
-BLACK FRIDAY SALE 30% OFF!
+Time tracking for busy people 30% OFF!
 
-**Hurry!** All Timeular yearly plans now with 30% off.
+Your time matters. Track it with Timeular. Celebrate Black Friday with 30% OFF!
 
 [Get 30% off Timeular](https://timeular.com/lp/best-deal-2024/)
 
