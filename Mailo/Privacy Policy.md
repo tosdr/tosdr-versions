@@ -1,4 +1,7 @@
-Open the menu[![Mailo logo](https://images.mailo.com/img-20240716/mailo/common/mailo/logo_only_mailo.svg)![Mailo logo](https://images.mailo.com/img-20240716/mailo/common/mailo/logo_mailo_35.svg)](https://www.mailo.com/ "Mailo home page")
+1. Close
+    
+
+Open the menu[![Mailo logo](https://images.mailo.com/img-20241127/mailo/common/mailo/logo_only_mailo.svg)![Mailo logo](https://images.mailo.com/img-20241127/mailo/common/mailo/logo_mailo_35.svg)](https://www.mailo.com/ "Mailo home page")
 
 [Sign up](https://www.mailo.com/mailo/auth/signup.php)[Sign in](https://www.mailo.com/?language=en&page=id)[Sign in](https://www.mailo.com/?language=en&page=id "Sign in")[Language selection](javascript: "Language selection")
 
@@ -192,9 +195,9 @@ To exercise your rights or for any question regarding the management of your dat
 * ### Social networks
     
     * [Facebook](https://www.facebook.com/hellomailo "Facebook")
-    * [Twitter](https://www.x.com/HELLOMAILO "Twitter")
     * [Mastodon](https://mastodon.social/@hellomailo "Mastodon")
-    * [Linkedin](https://www.linkedin.com/company/mailofr "Linkedin")
+    * [Bluesky](https://bsky.app/profile/hellomailo.bsky.social "Bluesky")
+    * [LinkedIn](https://www.linkedin.com/company/mailofr "LinkedIn")
     * [Instagram](https://www.instagram.com/hellomailo "Instagram")
     * [Threads](https://www.threads.net/@hellomailo "Threads")
 
