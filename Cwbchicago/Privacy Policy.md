@@ -243,35 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Yeison-Becerra-326x245.jpg)](https://cwbchicago.com/2024/11/migrant-arrested-3x-in-a-month-is-charged-with-mugging-a-woman-in-the-loop.html "Migrant, arrested 3x in a month, is charged with mugging a woman in the Loop")
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Mirela-Beldie-326x245.jpg)](https://cwbchicago.com/2024/11/judge-who-released-husband-accused-of-murdering-wife-on-nw-side-denies-prosecutors-detention-petitions-far-more-often-than-his-peers.html "Judge who released husband accused of murdering wife on NW Side denies prosecutors’ detention petitions far more often than his peers")
 
-Loop
+Portage Park
 
-### [Migrant, arrested 3x in a month, is charged with mugging a woman in the Loop](https://cwbchicago.com/2024/11/migrant-arrested-3x-in-a-month-is-charged-with-mugging-a-woman-in-the-loop.html "Migrant, arrested 3x in a month, is charged with mugging a woman in the Loop")
+### [Judge who released husband accused of murdering wife on NW Side denies prosecutors’ detention petitions far more often than his peers](https://cwbchicago.com/2024/11/judge-who-released-husband-accused-of-murdering-wife-on-nw-side-denies-prosecutors-detention-petitions-far-more-often-than-his-peers.html "Judge who released husband accused of murdering wife on NW Side denies prosecutors’ detention petitions far more often than his peers")
 
-[November 24, 2024 8:28 AM](https://cwbchicago.com/2024/11)
+[November 24, 2024 7:19 PM](https://cwbchicago.com/2024/11)
 
-CHICAGO — A Venezuelan migrant is charged with mugging a 50-year-old woman in the Loop this week. It’s his third arrest in a month and his sixth arrest in the past year. The victim told police that a man confronted her as she got into her car in the 500 block of South Wabash on[](https://cwbchicago.com/2024/11/migrant-arrested-3x-in-a-month-is-charged-with-mugging-a-woman-in-the-loop.html "Migrant, arrested 3x in a month, is charged with mugging a woman in the Loop")
+There are many unanswered questions about the shocking domestic attack in which a woman was allegedly murdered by her husband, who was wearing a GPS monitor for a pending domestic violence case. We secured a transcript to learn why the judge sent him home on an ankle monitor instead of keeping him in jail as prosecutors wanted. We also found that the judge denies detention petitons far more often than his peers.[](https://cwbchicago.com/2024/11/judge-who-released-husband-accused-of-murdering-wife-on-nw-side-denies-prosecutors-detention-petitions-far-more-often-than-his-peers.html "Judge who released husband accused of murdering wife on NW Side denies prosecutors’ detention petitions far more often than his peers")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/JH-519120-loop-041A-326x245.jpg)](https://cwbchicago.com/2024/11/woman-runs-into-macys-after-being-shot-during-christmas-festivities-in-the-loop.html "Woman runs into Macy’s after being shot during Christmas festivities in the Loop")
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Justin-Bradley-and-Marshawn-Sampson-326x245.jpg)](https://cwbchicago.com/2024/11/2-charged-with-robbery-after-pausing-getaway-to-grab-mcdonalds-on-the-victims-credit-card-cpd-report.html "2 charged with robbery after pausing getaway to grab McDonald’s on the victim’s credit card: CPD report")
 
-Loop
+Bronzeville
 
-### [Woman runs into Macy’s after being shot during Christmas festivities in the Loop](https://cwbchicago.com/2024/11/woman-runs-into-macys-after-being-shot-during-christmas-festivities-in-the-loop.html "Woman runs into Macy’s after being shot during Christmas festivities in the Loop")
+### [2 charged with robbery after pausing getaway to grab McDonald’s on the victim’s credit card: CPD report](https://cwbchicago.com/2024/11/2-charged-with-robbery-after-pausing-getaway-to-grab-mcdonalds-on-the-victims-credit-card-cpd-report.html "2 charged with robbery after pausing getaway to grab McDonald’s on the victim’s credit card: CPD report")
 
-[November 24, 2024 5:14 AM](https://cwbchicago.com/2024/11)
+[November 24, 2024 6:00 PM](https://cwbchicago.com/2024/11)
 
-CHICAGO — A woman was shot in the Loop on Saturday evening as large crowds filled the area to celebrate the start of the holiday season. An individual is being questioned. Chicago police officers were maintaining a significant presence in the Loop following the annual Festival of Lights and Friday’s lighting of the city’s official[](https://cwbchicago.com/2024/11/woman-runs-into-macys-after-being-shot-during-christmas-festivities-in-the-loop.html "Woman runs into Macy’s after being shot during Christmas festivities in the Loop")
+Two men are facing robbery charges, possibly because they took a break from their getaway to grab some McDonald’s on the victim’s credit card.[](https://cwbchicago.com/2024/11/2-charged-with-robbery-after-pausing-getaway-to-grab-mcdonalds-on-the-victims-credit-card-cpd-report.html "2 charged with robbery after pausing getaway to grab McDonald’s on the victim’s credit card: CPD report")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/west-town-nov-2024-326x245.jpg)](https://cwbchicago.com/2024/11/5-armed-robberies-and-carjackings-reported-from-west-loop-to-logan-square.html "5 armed robberies and carjackings reported from West Loop to Logan Square")
+[![](https://cwbchicago.com/wp-content/uploads/2023/02/Latrice-Harvey-326x245.jpg)](https://cwbchicago.com/2024/11/6-years-for-woman-who-ordered-gunman-to-shoot-victim-during-a-fight-on-the-red-line.html "6 years for woman who ordered gunman to shoot victim during a fight on the Red Line")
 
-Logan Square
+CTA
 
-### [5 armed robberies and carjackings reported from West Loop to Logan Square](https://cwbchicago.com/2024/11/5-armed-robberies-and-carjackings-reported-from-west-loop-to-logan-square.html "5 armed robberies and carjackings reported from West Loop to Logan Square")
+### [6 years for woman who ordered gunman to shoot victim during a fight on the Red Line](https://cwbchicago.com/2024/11/6-years-for-woman-who-ordered-gunman-to-shoot-victim-during-a-fight-on-the-red-line.html "6 years for woman who ordered gunman to shoot victim during a fight on the Red Line")
 
-[November 23, 2024 7:00 PM](https://cwbchicago.com/2024/11)
+[November 24, 2024 11:51 AM](https://cwbchicago.com/2024/11)
 
-An area that was hard hit by roving teams of armed robbers over the past few years, only to enjoy a sharp drop after Chicago police made several arrests earlier in 2024, is starting to see an uptick in activity again, with five armed robberies and carjackings reported from Friday evening to Saturday afternoon.[](https://cwbchicago.com/2024/11/5-armed-robberies-and-carjackings-reported-from-west-loop-to-logan-square.html "5 armed robberies and carjackings reported from West Loop to Logan Square")
+A woman has been given a six-year prison sentence for ordering her companion to shoot a woman during a fight on a Red Line train in the Loop. Prosecutors said the victim’s school-age son was nearby when the shooting occurred.[](https://cwbchicago.com/2024/11/6-years-for-woman-who-ordered-gunman-to-shoot-victim-during-a-fight-on-the-red-line.html "6 years for woman who ordered gunman to shoot victim during a fight on the Red Line")
 
 Search
 
