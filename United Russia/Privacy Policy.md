@@ -299,6 +299,30 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Секретарём Курского реготделения «Единой России» избран губернатор Алексей Смирнов](https://cdn.er.ru/media/news/November2024/WDMabdO0EQnLgqAMxz7c-small.jpg)](https://er.ru/activity/news/sekretaryom-kurskogo-regotdeleniya-edinoj-rossii-izbran-gubernator-aleksej-smirnov)
+
+[Секретарём Курского реготделения «Единой России» избран губернатор Алексей Смирнов](https://er.ru/activity/news/sekretaryom-kurskogo-regotdeleniya-edinoj-rossii-izbran-gubernator-aleksej-smirnov)
+
+[#Курская область](https://er.ru/activity/news?tags%5B0%5D=579) [#конференция](https://er.ru/activity/news?tags%5B0%5D=17) [#Смирнов](https://er.ru/activity/news?tags%5B0%5D=5223) [#реготделение](https://er.ru/activity/news?tags%5B0%5D=19972)
+
+Сегодня 12:11
+
+[![«Единая Россия» обеспечит совершенствование механизмов сельхозстрахования](https://cdn.er.ru/media/news/November2024/B99u4Ko0mPmsslHKWjW1-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-obespechit-sovershenstvovanie-mehanizmov-selhozstrahovaniya)
+
+[«Единая Россия» обеспечит совершенствование механизмов сельхозстрахования](https://er.ru/activity/news/edinaya-rossiya-obespechit-sovershenstvovanie-mehanizmov-selhozstrahovaniya)
+
+[#Оглоблина](https://er.ru/activity/news?tags%5B0%5D=9223) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#сельскоехозяйство](https://er.ru/activity/news?tags%5B0%5D=100396) [#агрофраншиза](https://er.ru/activity/news?tags%5B0%5D=88662) [#сельхозстрахование](https://er.ru/activity/news?tags%5B0%5D=50433)
+
+Сегодня 12:04
+
+[![О принятом бюджете на 2025-2027 годы. Статья Андрея Исаева](https://cdn.er.ru/media/news/November2024/rAPoJLWQAVrN7d6I8CXL-small.jfif)](https://er.ru/activity/news/o-prinyatom-byudzhete-na-2025-2027-gody-statya-andreya-isaeva)
+
+[О принятом бюджете на 2025-2027 годы. Статья Андрея Исаева](https://er.ru/activity/news/o-prinyatom-byudzhete-na-2025-2027-gody-statya-andreya-isaeva)
+
+[#Исаев](https://er.ru/activity/news?tags%5B0%5D=121396) [#РГ](https://er.ru/activity/news?tags%5B0%5D=8568) [#статья](https://er.ru/activity/news?tags%5B0%5D=71) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#Правительство](https://er.ru/activity/news?tags%5B0%5D=1090296)
+
+Сегодня 09:00
+
 [![«Единая Россия» обеспечит создание дополнительных возможностей для инклюзивного туризма](https://cdn.er.ru/media/news/November2024/LNCgF6ofTe59pMlPsR3N-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-obespechit-sozdanie-dopolnitelnyh-vozmozhnostej-dlya-inklyuzivnogo-turizma)
 
 [«Единая Россия» обеспечит создание дополнительных возможностей для инклюзивного туризма](https://er.ru/activity/news/edinaya-rossiya-obespechit-sozdanie-dopolnitelnyh-vozmozhnostej-dlya-inklyuzivnogo-turizma)
@@ -320,30 +344,6 @@
 [По инициативе «Единой России» в законе о молодёжной политике закрепят понятие «студенческая семья»](https://er.ru/activity/news/po-iniciative-edinoj-rossii-v-zakone-o-molodyozhnoj-politike-zakrepyat-ponyatie-studencheskaya-semya)
 
 [#Дрожжина](https://er.ru/activity/news?tags%5B0%5D=79696) [#мерыподдержкисемей](https://er.ru/activity/news?tags%5B0%5D=145903) [#семьисдетьми](https://er.ru/activity/news?tags%5B0%5D=136562) [#студенческаясемья](https://er.ru/activity/news?tags%5B0%5D=1095947) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#Метелев](https://er.ru/activity/news?tags%5B0%5D=133170)
-
-26.11.24
-
-[![Владимир Якушев: Ставропольское отделение «Единой России» показывает пример системной работы с участниками СВО](https://cdn.er.ru/media/news/November2024/NieWxKVWZ3IWLHmbwwv8-small.JPG)](https://er.ru/activity/news/vladimir-yakushev-stavropolskoe-otdelenie-edinoj-rossii-pokazyvaet-primer-sistemnoj-raboty-s-uchastnikami-svo)
-
-[Владимир Якушев: Ставропольское отделение «Единой России» показывает пример системной работы с участниками СВО](https://er.ru/activity/news/vladimir-yakushev-stavropolskoe-otdelenie-edinoj-rossii-pokazyvaet-primer-sistemnoj-raboty-s-uchastnikami-svo)
-
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Ставропольский край](https://er.ru/activity/news?tags%5B0%5D=1300) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Владимиров](https://er.ru/activity/news?tags%5B0%5D=9331) [#помощьучастникамСВО](https://er.ru/activity/news?tags%5B0%5D=1093584) [#мерыподдержки](https://er.ru/activity/news?tags%5B0%5D=147555)
-
-26.11.24
-
-[![Антон Горелкин: «Единая Россия» добивается обеспечения доступной и безопасной цифровой среды для всех граждан](https://cdn.er.ru/media/news/November2024/lsuIrqp1P6RYnYIrG7cs-small.jpg)](https://er.ru/activity/news/anton-gorelkin-edinaya-rossiya-dobivaetsya-obespecheniya-dostupnoj-i-bezopasnoj-cifrovoj-sredy-dlya-vseh-grazhdan)
-
-[Антон Горелкин: «Единая Россия» добивается обеспечения доступной и безопасной цифровой среды для всех граждан](https://er.ru/activity/news/anton-gorelkin-edinaya-rossiya-dobivaetsya-obespecheniya-dostupnoj-i-bezopasnoj-cifrovoj-sredy-dlya-vseh-grazhdan)
-
-[#Горелкин](https://er.ru/activity/news?tags%5B0%5D=101387) [#ЦифроваяРоссия](https://er.ru/activity/news?tags%5B0%5D=111610) [#цифровойдиктант](https://er.ru/activity/news?tags%5B0%5D=1095797) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#цифровизация](https://er.ru/activity/news?tags%5B0%5D=47329) [#цифроваяграмотность](https://er.ru/activity/news?tags%5B0%5D=105659)
-
-26.11.24
-
-[![Госдума приняла закон «Единой России» об ужесточении ответственности за утечку персональных данных](https://cdn.er.ru/media/news/November2024/k3QkHAQr86Bkdm4KNMZM-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-zakon-edinoj-rossii-ob-uzhestochenii-otvetstvennosti-za-utechku-personalnyh-dannyh)
-
-[Госдума приняла закон «Единой России» об ужесточении ответственности за утечку персональных данных](https://er.ru/activity/news/gosduma-prinyala-zakon-edinoj-rossii-ob-uzhestochenii-otvetstvennosti-za-utechku-personalnyh-dannyh)
-
-[#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#персональныеданные](https://er.ru/activity/news?tags%5B0%5D=106582) [#кибербезопасность](https://er.ru/activity/news?tags%5B0%5D=28765) [#утечка](https://er.ru/activity/news?tags%5B0%5D=6385) [#Хинштейн](https://er.ru/activity/news?tags%5B0%5D=897) [#ужесточение отвественности](https://er.ru/activity/news?tags%5B0%5D=10365)
 
 26.11.24
 
