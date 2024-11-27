@@ -1,4 +1,4 @@
-* [* Deutsch](https://www.algolia.com/de/policies/policyEntryMenu/policyentry-2 "Switch to ")[* English](#)[* français](https://www.algolia.com/fr/policies/policyEntryMenu/policyentry-2 "Switch to ")
+* [* Deutsch](https://www.algolia.com/de/policies/policyEntryMenu/privacy "Switch to ")[* English](#)[* français](https://www.algolia.com/fr/policies/policyEntryMenu/privacy "Switch to ")
     
 
 [News:
