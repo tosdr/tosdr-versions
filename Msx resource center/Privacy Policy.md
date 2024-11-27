@@ -137,6 +137,7 @@ MSX Music player
 
 Latest reactions
 
+* [DSK Pro light](https://www.msx.org/news/development/en/disk-pro-light "DSK Pro light")
 * [FUSION-C the C library for MSX (SDCC)](https://www.msx.org/news/development/en/fusion-c-is-available "FUSION-C the C library for MSX (SDCC) ")
 * [SX-LITE and SX-E by 8bits4ever](https://www.msx.org/news/hardware/en/sx-lite-and-sx-e-by-8bits4ever "SX-LITE and SX-E by 8bits4ever")
 * [A Lone Wolf](https://www.msx.org/news/en/a-lone-wolf "A Lone Wolf ")
@@ -146,22 +147,21 @@ Latest reactions
 * [LevelUp! on stage](https://www.msx.org/news/media/en/level-up-on-stage "LevelUp! on stage")
 * [New stuff for sale at the Bitwise booth, including many MSXDev games and the Advanced version of Deep Dungeon. (Let's see how long it takes until ARTRAG comments that it contains an easter egg bonus game!)](https://www.msx.org/photoshoots/nijmegen-2010/new-stuff-sale-bitwise-booth-including-many-msxdev-games-and-advanced-vers "New stuff for sale at the Bitwise booth, including many MSXDev games and the Advanced version of Deep Dungeon. (Let's see how long it takes until ARTRAG comments that it contains an easter egg bonus game!)")
 * [PISA MSX DEVCON 2024](https://www.msx.org/news/en/pisa-event-on-11162024 "PISA MSX DEVCON 2024")
-* [JPT-PANAKEY-V2 Panasonic MSX2+ and turbo R keyboard replacement by Leonardo Padial](https://www.msx.org/news/hardware/en/jpt-panakey-v2-pansonic-msx2-and-turbo-r-keyboard-replacement-leonardo-padial "JPT-PANAKEY-V2 Panasonic MSX2+ and turbo R keyboard replacement by Leonardo Padial")
 
 Latest forum posts
 
-* [DalSoRi R2 on OpenMSX](https://www.msx.org/forum/msx-talk/openmsx/dalsori-r2-on-openmsx "DalSoRi R2 on OpenMSX")
+* [Christmas Quiz 2024](https://www.msx.org/forum/msx-talk/off-topic/christmas-quiz-2024 "Christmas Quiz 2024")
+* [DalSoRi R2 on OpenMSX](https://www.msx.org/forum/msx-talk/openmsx/dalsori-r2-on-openmsx?page=1 "DalSoRi R2 on OpenMSX")
+* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=78 "WonderTANG! Who wants to juice up your MSX?")
+* [How do I run the Quran on FMSX3DS?](https://www.msx.org/forum/msx-talk/emulation/how-do-i-run-the-quran-on-fmsx3ds "How do I run the Quran on FMSX3DS?")
 * [Dirt-cheap Vaus paddle clone for MSX](https://www.msx.org/forum/msx-talk/hardware/dirt-cheap-vaus-paddle-clone-for-msx?page=4 "Dirt-cheap Vaus paddle clone for MSX")
 * [Compass](https://www.msx.org/forum/msx-talk/development/compass?page=1 "Compass")
 * [Full English translation of Illusion City for MSX Turbo-R](https://www.msx.org/forum/msx-talk/software/full-english-translation-of-illusion-city-for-msx-turbo-r?page=16 "Full English translation of Illusion City for MSX Turbo-R")
-* [Christmas Quiz 2024](https://www.msx.org/forum/msx-talk/off-topic/christmas-quiz-2024 "Christmas Quiz 2024")
 * [Run Bubble Rain with Sofarun](https://www.msx.org/forum/msx-talk/software/run-bubble-rain-with-sofarun?page=1 "Run Bubble Rain with Sofarun")
 * [Help identifying a game](https://www.msx.org/forum/msx-talk/software/help-identifying-a-game "Help identifying a game")
 * [TRH9000 V9990 & Spiderwave OPL4 don't work in Slotx4?](https://www.msx.org/forum/msx-talk/hardware/trh9000-v9990-spiderwave-opl4-dont-work-in-slotx4?page=1 "TRH9000 V9990 & Spiderwave OPL4 don't work in Slotx4?")
-* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=78 "WonderTANG! Who wants to juice up your MSX?")
 * [MSX on R36S (using Openmsx and some tweaking)](https://www.msx.org/forum/msx-talk/emulation/msx-on-r36s-using-openmsx-and-some-tweaking "MSX on R36S (using Openmsx and some tweaking)")
 * [Vhd interface for victor hc90/95](https://www.msx.org/forum/msx-talk/hardware/vhd-interface-for-victor-hc9095?page=27 "Vhd interface for victor hc90/95")
-* [How do I run the Quran on FMSX3DS?](https://www.msx.org/forum/msx-talk/emulation/how-do-i-run-the-quran-on-fmsx3ds "How do I run the Quran on FMSX3DS?")
 * [Penguin Adventure Remake - pre Alpha](https://www.msx.org/forum/msx-talk/general-discussion/penguin-adventure-remake-pre-alpha?page=1 "Penguin Adventure Remake - pre Alpha")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
