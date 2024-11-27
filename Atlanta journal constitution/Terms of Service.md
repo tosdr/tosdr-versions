@@ -16,6 +16,7 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
+* [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-wild-turkey-woes/JTH4PAP6UJFZ3MDNFDZAQ6KTSI/)
 * [Politically Georgia](https://www.ajc.com/politics/politically-georgia/)
 * [Holiday Guide](https://www.ajc.com/things-to-do/atlanta-winter-guide/)
 * [UATL](https://www.ajc.com/uatl/)
@@ -178,13 +179,13 @@ Follow Us
 
 [](https://twitter.com/ajc)[](https://facebook.com/ajc)[](https://www.instagram.com/ajcnews)
 
-© 2024 The Atlanta Journal-Constitution. All Rights Reserved.
+© 2024 . All Rights Reserved.
 
 By using this website, you accept the terms of our
 
-[Terms of Use](https://www.ajc.com/visitor-agreement/), [Privacy Policy](https://www.ajc.com/privacy-policy/), [CCPA](https://www.ajc.com/california-privacy-notice/), and understand your options regarding [Ad Choices](https://www.ajc.com/privacy-policy/#ad-choices).
+[](#), [](#), [](#), and understand your options regarding [](#).
 
-[Learn about Careers at Cox Enterprises.](https://jobs.coxenterprises.com/?prefilters=none&CloudSearchLocation=none&CloudSearchValue=none/)
+[Learn about .](#)
 
 ATLANTA JOURNAL-CONSTITUTION TERMS OF USE
 -----------------------------------------
