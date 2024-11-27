@@ -398,11 +398,11 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 ##### Latest
 
-1. [262K Courses, 833M Enrollments: Breaking Down Udemy’s Massive Catalog](https://www.classcentral.com/report/udemy-by-the-numbers/)
-2. [\[2024\] Massive List of Thousands of Free Certificates and Badges](https://www.classcentral.com/report/free-certificates/)
-3. [Google Prompting Essentials Course Review](https://www.classcentral.com/report/review-google-prompting-essentials/)
-4. [\[2024\] 2400+ Free SWAYAM + NPTEL Courses](https://www.classcentral.com/report/swayam-moocs-course-list/)
-5. [\[2024\] 1000+ Free Google Certificates and Badges](https://www.classcentral.com/report/free-google-certifications/)
+1. [Learn Something New: 100 Most Popular Courses For December](https://www.classcentral.com/report/most-popular-december-2024/)
+2. [Black Friday 2024: 50+ Online Learning Deals](https://www.classcentral.com/report/online-courses-deals-black-friday-cyber-monday/)
+3. [262K Courses, 833M Enrollments: Breaking Down Udemy’s Massive Catalog](https://www.classcentral.com/report/udemy-by-the-numbers/)
+4. [\[2024\] Massive List of Thousands of Free Certificates and Badges](https://www.classcentral.com/report/free-certificates/)
+5. [AI Prompting with Google: From Beginner to Certified](https://www.classcentral.com/report/review-google-prompting-essentials/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -412,36 +412,36 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 Most common
 
-1. hacking
+1. English
     
-2. sql
+2. excel
     
-3. law
+3. hacking
     
 
 Popular subjects
 
-1. [Psychology
+1. [Computer Science
     
-    2,710 courses](https://www.classcentral.com/subject/psychology)
+    43,853 courses](https://www.classcentral.com/subject/cs)
 2. [Software Development
     
     9,977 courses](https://www.classcentral.com/subject/software-development)
-3. [Data Analysis
+3. [Computer Networking
     
-    8,845 courses](https://www.classcentral.com/subject/data-analysis)
+    1,761 courses](https://www.classcentral.com/subject/computer-networking)
 
 Popular courses
 
-1. [Introduction to Philosophy
+1. [Working with Translation: Theory and Practice
     
-    University of Edinburgh](https://www.classcentral.com/course/introphil-418)
-2. [Introduction to Animal Behaviour
+    Cardiff University](https://www.classcentral.com/course/working-with-translation-6981)
+2. [Supporting Successful Learning in Primary School
     
-    Wageningen University](https://www.classcentral.com/course/animal-behavior-wageningen-university-research-in-6033)
-3. [AI and Big Data in Global Health Improvement
+    University of Reading](https://www.classcentral.com/course/supporting-learning-primary-13229)
+3. [Product Management Essentials
     
-    Taipei Medical University](https://www.classcentral.com/course/ai-and-big-data-global-health-improvement-17981)
+    University of Maryland, College Park](https://www.classcentral.com/course/product-management-essentials-46400)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
