@@ -809,7 +809,8 @@ Browse
     * Fujifilm Deals
         
         * [Fujifilm Deals](https://www.maplin.co.uk/collections/fujifilm-deals)
-        * [£120 off X-S20 Camera](https://www.maplin.co.uk/products/fujifilm-x-s20-mirrorless-digital-camera-black)
+        * [Up to £250 off X-S20 Camera](https://www.maplin.co.uk/products/fujifilm-x-s20-mirrorless-digital-camera-black)
+        * [£150 off X-T50 Camera](https://www.maplin.co.uk/collections/fujifilm-x-t50)
         * [Up to £15 off Instant Cameras](https://www.maplin.co.uk/collections/fujifilm-instant-camera-deals)
         * [Up to £90 off PAL Cameras](https://www.maplin.co.uk/collections/fujifilm-pal-camera-deals)
         * [Up to £90 off Photo Printers](https://www.maplin.co.uk/collections/fujifilm-printer-deals)
@@ -1643,7 +1644,8 @@ Browse
     
     [Fujifilm Deals](https://www.maplin.co.uk/collections/fujifilm-deals)
     
-    * [£120 off X-S20 Camera](https://www.maplin.co.uk/products/fujifilm-x-s20-mirrorless-digital-camera-black)
+    * [Up to £250 off X-S20 Camera](https://www.maplin.co.uk/products/fujifilm-x-s20-mirrorless-digital-camera-black)
+    * [£150 off X-T50 Camera](https://www.maplin.co.uk/collections/fujifilm-x-t50)
     * [Up to £15 off Instant Cameras](https://www.maplin.co.uk/collections/fujifilm-instant-camera-deals)
     * [Up to £90 off PAL Cameras](https://www.maplin.co.uk/collections/fujifilm-pal-camera-deals)
     * [Up to £90 off Photo Printers](https://www.maplin.co.uk/collections/fujifilm-printer-deals)
