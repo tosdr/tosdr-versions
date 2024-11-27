@@ -1,5 +1,7 @@
 [Skip to content](#MainContent)
 
+Storewide Sale - Get 10% off entire order automatically at checkout. Hurry sale ends Dec 2, 2024!
+
 [](https://artnindia.com/search)
 
 Search 
