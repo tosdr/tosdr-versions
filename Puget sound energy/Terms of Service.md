@@ -359,26 +359,12 @@
 *    [![EN](/-/media/Project/PSE/Portal/Icons/Language_icon.png?rev=6227f24f84234f0583eab7768827d362&modified=20220704095934&h=26&w=22&la=en&hash=951D374340D6D9C905ED9854E64AAF39) ![EN](/-/media/Project/PSE/Portal/Icons/Language_icon_fill.png?rev=04d9d5ac09b243b8930bcae27bc28178&modified=20221013170138&h=27&w=23&la=en&hash=F9F88C61EA0DFBFD42365B5FDA83DED0) ![EN](/-/media/Project/PSE/Portal/Icons/Language_mobile_icon.png?rev=6893de0879434b1dbe13f2ca17990c66&modified=20220714074900&h=27&w=22&la=en&hash=99D70EAEF69ADAA4010E9F3BE9725496) ![EN](/-/media/Project/PSE/Portal/Icons/Language_mobile_icon_fill.png?rev=1ea89ae8f7d54ad08d582eb69df53d40&modified=20221013170150&h=27&w=23&la=en&hash=144CDA651D943198CB42F9B6F8002978)](#)
     
 
-[Outage Map Alert Updated Nov 26, 6:00 AM](#collapseOne)  
-
-As storm recovery continues, we are aware that the outage map is not showing some customers who are still without power. Our internal systems for identifying outages and prioritizing restorations are still functioning. We are working hard to reconcile the outages shown on the map. Please continue to report outages, as needed.
-
-We are also aware of some estimated restoration times showing as expired or incorrect on the outage map.
-
-We have internal teams working to resolve these issues—we know it’s frustrating for customers who are trying to make plans.
-
-We will continue to work around the clock until power is restored to all customers.
-
-[Storm alert Updated Nov 26, 6:00 AM](#collapseOne)  
+[Storm alert Updated Nov 26, 6:00 PM](#collapseOne)  
 
 November Wind Storm
 -------------------
 
-**Damage assessment and restoration efforts continue**
-
-Crews are working as fast as they can to restore your power. We expect customers to have power restored by this afternoon or within a few hours of that. As we restore power for customers in an area, in some cases it is leading us to find additional damage that we could not previously see, which prevents the power from coming on completely at your location. We will continue to work around the clock until power is restored to all customers. When crews arrive on site, please give them space to work safely.
-
-We know this is so hard for our customers still experiencing an outage—we are working around the clock to restore power to you. For examples of the extensive damage our crews are working to restore, check out photos posted on PSE’s social media channels: [Facebook](https://www.facebook.com/pugetsoundenergy) / [Instagram](https://www.instagram.com/pugetsoundenergy/) / [Flickr](https://www.flickr.com/photos/pugetsoundenergy/) / [X](https://x.com/PSETalk)
+Crews continue to work around the clock restoring power to our customers. We now have crews or servicemen assigned to all remaining outages in King County from the hurricane-force windstorm and are working toward restoring all remaining customers by or within a few hours of 6 p.m. tonight.
 
 [Read more](https://www.pse.com/en/outage/alerts-and-advisories)
 
