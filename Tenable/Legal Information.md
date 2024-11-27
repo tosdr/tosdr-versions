@@ -111,7 +111,7 @@ Tenable One Exposure Management Platform enables you to gain visibility across y
 
 * [Active Directory](https://www.tenable.com/solutions/active-directory)
 * [Compliance](https://www.tenable.com/solutions/compliance)
-* [Cyber insurance](https://www.tenable.com/solutions/cyber-insurance)
+* [Cyber insurance](https://www.tenable.com/cyber-insurance)
 * [OT / IT](https://www.tenable.com/solutions/it-ot)
 * [Ransomware](https://www.tenable.com/solutions/ransomware)
 * [Vulnerability assessment](https://www.tenable.com/solutions/vulnerability-assessment)
@@ -341,7 +341,7 @@ Tenable is named a leading force in vulnerability management and top ranked amon
     * Business needs
         * [Active Directory](https://www.tenable.com/solutions/active-directory)
         * [Compliance](https://www.tenable.com/solutions/compliance)
-        * [Cyber insurance](https://www.tenable.com/solutions/cyber-insurance)
+        * [Cyber insurance](https://www.tenable.com/cyber-insurance)
         * [IT / OT](https://www.tenable.com/solutions/it-ot)
         * [Ransomware](https://www.tenable.com/solutions/ransomware)
         * [Vulnerability assessment](https://www.tenable.com/solutions/vulnerability-assessment)
