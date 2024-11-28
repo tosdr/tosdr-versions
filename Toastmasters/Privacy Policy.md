@@ -31,6 +31,10 @@ Search  Search
 1. [Home](https://www.toastmasters.org/)
 2. /Privacy Policy
 
+[×](#)
+
+World Headquarters will be closed November 28-29 in observance of the Thanksgiving holiday.
+
 Privacy Policy
 ==============
 
