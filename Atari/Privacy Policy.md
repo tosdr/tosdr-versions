@@ -336,7 +336,7 @@ Holiday Collection](https://www.atari.com/collections/holiday-collection)
 
 [![](files/atari_merch_nov2024-350_1.jpg)
 
-Jaguar](https://www.atari.com/collections/jaguar)
+Jaguar Collection](https://www.atari.com/collections/jaguar)
 
 [![](files/ThumbsUp_-ATAORGDECSET-Image5-160835-Daniel.jpg)
 
@@ -358,7 +358,7 @@ Holiday Collection](https://www.atari.com/collections/holiday-collection)
 
 [![](files/atari_merch_nov2024-350_1.jpg)
 
-Jaguar](https://www.atari.com/collections/jaguar)
+Jaguar Collection](https://www.atari.com/collections/jaguar)
 
 [![](files/ThumbsUp_-ATAORGDECSET-Image5-160835-Daniel.jpg)
 
@@ -424,13 +424,13 @@ A re-imagining of the Atari 2600 cult classic.
 THE HOLIDAYS ARE HERE
 ---------------------
 
-[![](files/wrapping-paper-sheets-_3_-white-matte-28.75x19.75-front-673c847b84c27copy.jpg)
+[![](files/atari_merch_nov2024-206_1_1.jpg)
 
-### NEW HOLIDAY MERCH
+### 20% OFF ALL MERCH
 
-Check out our seasonal sweatshirts, wrapping paper, and RCT holiday gear.
+Our hoodies, hats, tees and more are on sale!
 
-Shop Now](https://www.atari.com/collections/holiday-collection)[![](files/Home_Arcade-Banner_245f070b-4d45-4ac5-aa31-123b38372580.jpg)
+Shop Black Friday Deals](https://atari.com/collections/apparel-accessories?filter.p.product_type=Bags&filter.p.product_type=Bottoms&filter.p.product_type=Hats&filter.p.product_type=Jackets&filter.p.product_type=Shirts&filter.p.product_type=Sweatshirts&sort_by=manual)[![](files/Collector-Banner_dcec72c2-0b9c-4726-94ce-88d747b8917e.jpg)
 
 ### HOLIDAY GIFT GUIDES
 
