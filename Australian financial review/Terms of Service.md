@@ -293,43 +293,46 @@ Advertise
 [The Australian Financial Review Magazine](https://www.afr.com/afr-magazine)
 ----------------------------------------------------------------------------
 
-[![Jeweller Bibi van der Velden takes inspiration from everywhere - except, perhaps surprisingly, from jewellery itself.](https://static.ffx.io/images/$zoom_0.4149%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_867%2C$y_337/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/88bc0136bcdde6a3addba68e6e3e585f08bff1d8)](https://www.afr.com/life-and-luxury/fashion-and-style/mammoth-tusks-and-jellyfish-how-to-bring-jewellery-alive-20241016-p5kiw0)
+[![ ](https://static.ffx.io/images/$zoom_0.5968%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_1270%2C$y_1484/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/278c03f1a02720352636e954bb4b553d7209375f)](https://www.afr.com/policy/economy/like-a-gloved-fist-accc-gina-cass-gottlieb-s-supermarket-sweep-20241015-p5kibd)
 
-### [Mammoth tusks and jellyfish: how to bring jewellery ‘alive’](https://www.afr.com/life-and-luxury/fashion-and-style/mammoth-tusks-and-jellyfish-how-to-bring-jewellery-alive-20241016-p5kiw0)
+### [‘Like a gloved fist’: ACCC Gina Cass-Gottlieb’s supermarket sweep](https://www.afr.com/policy/economy/like-a-gloved-fist-accc-gina-cass-gottlieb-s-supermarket-sweep-20241015-p5kibd)
 
-* Lauren Sams
+* 54 mins ago
+* Ronald Mizen
 
-* ### [Cult Tasmanian whisky Sullivans Cove has a stately new home](https://www.afr.com/life-and-luxury/food-and-wine/cult-tasmanian-whisky-sullivans-cove-has-a-stately-new-home-20240711-p5jszk)
+* ### [Mammoth tusks and jellyfish: how to bring jewellery ‘alive’](https://www.afr.com/life-and-luxury/fashion-and-style/mammoth-tusks-and-jellyfish-how-to-bring-jewellery-alive-20241016-p5kiw0)
     
-* ### [Max Allen’s top 20 drinks of the year](https://www.afr.com/life-and-luxury/food-and-wine/max-allen-s-top-20-drinks-of-the-year-20240927-p5kdzl)
+* ### [Cult Tasmanian whisky Sullivans Cove has a stately new home](https://www.afr.com/life-and-luxury/food-and-wine/cult-tasmanian-whisky-sullivans-cove-has-a-stately-new-home-20240711-p5jszk)
     
 
 [BOSS Financial Review](https://www.afr.com/boss)
 -------------------------------------------------
 
-[![Dr Katie Spearritt, chief executive of Diversity Partners.](https://static.ffx.io/images/$zoom_0.9819%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_105/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/66ac6b142dbaa69e4656ddf5606e30ba19e853f9)](https://www.afr.com/work-and-careers/workplace/why-the-backlash-from-men-is-threatening-gender-targets-20241125-p5ktbc)
+[![IAG CEO Nick Hawkins. ](https://static.ffx.io/images/$zoom_0.3148%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_516%2C$y_37/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/c1ca3053a3cd56b421ae905227c227b2b66b4533)](https://www.afr.com/companies/financial-services/how-iag-boss-nick-hawkins-weathered-the-perfect-storm-20241118-p5kri3)
 
-### [Why the backlash from men is threatening gender targets](https://www.afr.com/work-and-careers/workplace/why-the-backlash-from-men-is-threatening-gender-targets-20241125-p5ktbc)
+### [How IAG boss Nick Hawkins weathered the perfect storm](https://www.afr.com/companies/financial-services/how-iag-boss-nick-hawkins-weathered-the-perfect-storm-20241118-p5kri3)
 
-* Sally Patten
+* 54 mins ago
+* James Eyers
 
-* ### [How Chris Lucas came to know the secrets of the rich and powerful](https://www.afr.com/work-and-careers/workplace/how-chris-lucas-came-to-know-the-secrets-of-the-rich-and-powerful-20241113-p5kqeo)
+* ### [Why the backlash from men is threatening gender targets](https://www.afr.com/work-and-careers/workplace/why-the-backlash-from-men-is-threatening-gender-targets-20241125-p5ktbc)
     
-* ### [How a jibe from this CEO’s teenage daughter triggered a career rethink](https://www.afr.com/work-and-careers/workplace/how-a-jibe-from-this-ceo-s-teenage-daughter-triggered-a-career-rethink-20241111-p5kplc)
+* ### [How Chris Lucas came to know the secrets of the rich and powerful](https://www.afr.com/work-and-careers/workplace/how-chris-lucas-came-to-know-the-secrets-of-the-rich-and-powerful-20241113-p5kqeo)
     
 
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.7062%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_487/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/809bed85ebac0606c55da8ee6c82476da6ea50df)](https://www.afr.com/life-and-luxury/health-and-wellness/money-lifestyle-hair-why-this-executive-was-drawn-to-tennis-20241119-p5krqc)
+[![ ](https://static.ffx.io/images/$zoom_0.1283%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/428f2b075146c742c5b475125f6b6c08a72f5a0c)](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/a-big-electric-suv-with-sporty-intent-20241105-p5knxq)
 
-### [Money, lifestyle, hair: why this executive was drawn to tennis](https://www.afr.com/life-and-luxury/health-and-wellness/money-lifestyle-hair-why-this-executive-was-drawn-to-tennis-20241119-p5krqc)
+### [A big electric SUV with sporty intent](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/a-big-electric-suv-with-sporty-intent-20241105-p5knxq)
 
-* Life & Leisure
+* 54 mins ago
+* Tony Davis
 
-* ### [The fiction lover’s guide to Christmas gifting](https://www.afr.com/life-and-luxury/arts-and-culture/the-fiction-lover-s-guide-to-christmas-gifting-20241023-p5kkt3)
+* ### [What this ballerina eats backstage during The Nutcracker](https://www.afr.com/life-and-luxury/arts-and-culture/what-this-ballerina-eats-backstage-during-the-nutcracker-20241025-p5kla9)
     
-* ### [Can a swimsuit really be one-size-fits-all?](https://www.afr.com/life-and-luxury/fashion-and-style/can-a-swimsuit-really-be-one-size-fits-all-20241009-p5kgyo)
+* ### [Money, lifestyle, hair: why this executive was drawn to tennis](https://www.afr.com/life-and-luxury/health-and-wellness/money-lifestyle-hair-why-this-executive-was-drawn-to-tennis-20241119-p5krqc)
     
 
 [Rich List](https://www.afr.com/rich-list)
