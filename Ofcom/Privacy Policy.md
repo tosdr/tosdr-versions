@@ -149,7 +149,7 @@
 
 ### Seasonal scams to watch out for
 
-27 November 2024](https://www.ofcom.org.uk/phones-and-broadband/scam-calls-and-messages/seasonal-scams-to-watch-out-for/?language=en)
+27 November 2024](https://www.ofcom.org.uk/phones-and-broadband/scam-calls-and-messages/seasonal-scams-to-watch-out-for/)
 
 [![Complaints-visual-web](/siteassets/resources/images/-news-centre/thumbnail-images/phones/complaints-visual-web.jpg?width=1920&height=1085&quality=80)
 
