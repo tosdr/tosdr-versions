@@ -229,16 +229,16 @@ this hour
 
 * * *
 
+* [Nanorobot Hand Made of DNA Grabs Viruses](https://www.sciencedaily.com/releases/2024/11/241127165721.htm)
+* [Unexplained Heat-Wave 'Hotspots'](https://www.sciencedaily.com/releases/2024/11/241126145331.htm)
 * [Discovering the Traits of Extinct Birds](https://www.sciencedaily.com/releases/2024/11/241127165718.htm)
 * [Moving 'Hotspot' Made Underwater Mountain Belt](https://www.sciencedaily.com/releases/2024/11/241127140243.htm)
 * [Simple Secret to Living a Longer Life](https://www.sciencedaily.com/releases/2024/11/241126215133.htm)
 * [Complex Chimpanzee Cultures](https://www.sciencedaily.com/releases/2024/11/241127135912.htm)
 * [World's Oldest Lizard Wins Fossil Fight](https://www.sciencedaily.com/releases/2024/11/241126191725.htm)
 * [Animal Characters Good for Kids](https://www.sciencedaily.com/releases/2024/11/241122130629.htm)
-* [Unexplained Heat-Wave 'Hotspots'](https://www.sciencedaily.com/releases/2024/11/241126145331.htm)
 * [Brain Test Shows That Crabs Process Pain](https://www.sciencedaily.com/releases/2024/11/241126135832.htm)
 * [One Star System Generating Radio Waves](https://www.sciencedaily.com/releases/2024/11/241126135731.htm)
-* [Reversing Climate Change: Far More Costly Later](https://www.sciencedaily.com/releases/2024/11/241126135636.htm)
 
 Trending Topics
 ---------------
@@ -249,27 +249,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Brain-Computer Interfaces](https://www.sciencedaily.com/news/mind_brain/brain-computer_interfaces/)
+[Health Policy](https://www.sciencedaily.com/news/health_medicine/health_policy/)
 
 [Chronic Illness](https://www.sciencedaily.com/news/health_medicine/chronic_illness/)
 
-[Workplace Health](https://www.sciencedaily.com/news/health_medicine/workplace_health/)
+[Brain-Computer Interfaces](https://www.sciencedaily.com/news/mind_brain/brain-computer_interfaces/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Space Telescopes](https://www.sciencedaily.com/news/space_time/space_telescopes/)
 
-[Computers and Internet](https://www.sciencedaily.com/news/computers_math/computers_and_internet/)
+[NASA](https://www.sciencedaily.com/news/space_time/nasa/)
 
-[Internet](https://www.sciencedaily.com/news/computers_math/internet/)
+[Galaxies](https://www.sciencedaily.com/news/space_time/galaxies/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
+[Birds](https://www.sciencedaily.com/news/plants_animals/birds/)
+
+[Animal Learning and Intelligence](https://www.sciencedaily.com/news/plants_animals/animal_learning_and_intelligence/)
+
 [Cell Biology](https://www.sciencedaily.com/news/plants_animals/cell_biology/)
-
-[Endangered Animals](https://www.sciencedaily.com/news/plants_animals/endangered_animals/)
-
-[Insects (including Butterflies)](https://www.sciencedaily.com/news/plants_animals/insects_and_butterflies/)
 
   
 
