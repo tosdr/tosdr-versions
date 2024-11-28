@@ -411,11 +411,11 @@ _A equipe do POSTGRAIN lhe deseja uma excelente navegação!_
 
 ### Última do blog
 
-[![Produtivo - A imagem que ilustra o tema tem o fundo de uma sala onde aparece um computador sobre uma mesa e na tela dele o ChatGPT aberto.](https://postgrain.com/wp-content/uploads/2024/11/THUMB-BLOG-Social-media-Aumente-sua-produtividade-com-ChatGPT-580x290.jpg)](https://postgrain.com/?post_type=post&p=12745)
+[![nicho de mercado - a imagem que ilustra o tema tem o fundo de um local público e, em foco, tem uma mulher sentada numa mesa com caneta na mão sobre um papel apoiado na mesa, olhando para a frente e sorrindo.](https://postgrain.com/wp-content/uploads/2024/11/THUMB-BLOG-Como-definir-seu-nicho-de-mercado-580x290.jpg)](https://postgrain.com/?post_type=post&p=12749)
 
-[Social media: Aumente sua produtividade com ChatGPT](https://postgrain.com/?post_type=post&p=12745)
+[Como definir seu nicho de mercado: Um guia prático para pequenas empresas alcançarem o sucesso em 2025](https://postgrain.com/?post_type=post&p=12749)
 
-[Leia mais](https://postgrain.com/?post_type=post&p=12745)
+[Leia mais](https://postgrain.com/?post_type=post&p=12749)
 
 Ilustração de um dos personagens do Postgrain
 
