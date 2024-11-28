@@ -137,7 +137,7 @@
 
 ### Digital differences between men and women revealed
 
-28 November 2024](https://www.ofcom.org.uk/media-use-and-attitudes/online-habits/digital-differences-between-men-and-women-revealed/)
+28 November 2024](https://www.ofcom.org.uk/media-use-and-attitudes/online-habits/digital-differences-between-men-and-women-revealed/?language=en)
 
 [![A person looking at news websites on their mobile phone and laptop](/siteassets/resources/images/-news-centre/thumbnail-images/internet/news-on-phone-and-laptop-screens.jpg?width=1920&height=1085&quality=80)
 
