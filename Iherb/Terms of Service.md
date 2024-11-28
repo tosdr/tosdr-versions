@@ -1166,11 +1166,9 @@ Wellness
 
 More
 
-[22% Off Digestive Support 
+[25% Off Black Friday and Cyber Monday Sale
 
- 
-
-‌‌Shop Now‌‌](https://www.iherb.com/c/digestive-support?pcode=22DIGEST24)
+‌‌Shop Now‌‌](https://www.iherb.com/c/categories?pcode=BFCM24)
 
       
 
