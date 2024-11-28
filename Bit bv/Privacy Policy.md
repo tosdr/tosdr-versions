@@ -117,7 +117,7 @@ Europees wetsvoorstel
 
 ### [Nieuws](https://www.bit.nl/nieuws)
 
-#### [Een goede cloud heeft een kundige dirigent nodig](https://www.bit.nl/news/3626/88/Een-goede-cloud-heeft-een-kundige-dirigent-nodig)
+#### [ECOFED uitgeroepen tot publieksfavoriet bij Computable Awards](https://www.bit.nl/news/3627/88/ECOFED-uitgeroepen-tot-publieksfavoriet-bij-Computable-Awards)
 
 [](https://www.bit.nl/nieuws)
 
