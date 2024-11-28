@@ -243,35 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Alexis-Bahena-Carlos-Degante-and-Yahir-Rodriguez-326x245.jpg)](https://cwbchicago.com/2024/11/3-face-machine-gun-and-narcotics-charges-after-shots-are-fired-at-cops-on-nw-side.html "3 face machine gun and narcotics charges after shots are fired at cops on NW Side")
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/MALCOLM-MOFFETT-BROWN--326x245.jpg)](https://cwbchicago.com/2024/11/2-years-for-driver-who-pointed-gun-at-on-duty-cop-because-he-wanted-to-get-chased.html "2 years for driver who pointed gun at on-duty cop because he wanted to get chased")
 
-Irving Park
+South Shore
 
-### [3 face machine gun and narcotics charges after shots are fired at cops on NW Side](https://cwbchicago.com/2024/11/3-face-machine-gun-and-narcotics-charges-after-shots-are-fired-at-cops-on-nw-side.html "3 face machine gun and narcotics charges after shots are fired at cops on NW Side")
+### [2 years for driver who pointed gun at on-duty cop because he wanted to get chased](https://cwbchicago.com/2024/11/2-years-for-driver-who-pointed-gun-at-on-duty-cop-because-he-wanted-to-get-chased.html "2 years for driver who pointed gun at on-duty cop because he wanted to get chased")
 
-[November 25, 2024 6:44 AM](https://cwbchicago.com/2024/11)
+[November 26, 2024 8:29 AM](https://cwbchicago.com/2024/11)
 
-Three men are charged with possessing cocaine and firearms, including a machine gun, after running from a stolen car on the Northwest Side, officials said. The driver of the Lexus got away, but not before someone fired shots at Chicago cops.[](https://cwbchicago.com/2024/11/3-face-machine-gun-and-narcotics-charges-after-shots-are-fired-at-cops-on-nw-side.html "3 face machine gun and narcotics charges after shots are fired at cops on NW Side")
+A man who repeatedly aimed a gun at an on-duty Chicago police officer because he wanted to be involved in a police pursuit has been given a two-year prison sentence. But Malcolm Moffett-Brown will not spend any time in prison because his sentence will be offset by credits earned by being on electronic monitoring while the case was pending.[](https://cwbchicago.com/2024/11/2-years-for-driver-who-pointed-gun-at-on-duty-cop-because-he-wanted-to-get-chased.html "2 years for driver who pointed gun at on-duty cop because he wanted to get chased")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Conv-Store-map--326x245.jpg)](https://cwbchicago.com/2024/11/convenience-stores-robbed-minutes-apart-in-old-town-loop.html "Convenience stores robbed  minutes apart in Old Town, Loop")
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/1600-block-w-juneway-326x245.jpg)](https://cwbchicago.com/2024/11/man-shot-in-rogers-park-did-not-cooperate-with-investigators-cpd-says.html "Man shot in Rogers Park did not cooperate with investigators, CPD says")
 
-Loop
+Rogers Park
 
-### [Convenience stores robbed minutes apart in Old Town, Loop](https://cwbchicago.com/2024/11/convenience-stores-robbed-minutes-apart-in-old-town-loop.html "Convenience stores robbed  minutes apart in Old Town, Loop")
+### [Man shot in Rogers Park did not cooperate with investigators, CPD says](https://cwbchicago.com/2024/11/man-shot-in-rogers-park-did-not-cooperate-with-investigators-cpd-says.html "Man shot in Rogers Park did not cooperate with investigators, CPD says")
 
-[November 25, 2024 5:35 AM](https://cwbchicago.com/2024/11)
+[November 26, 2024 7:47 AM](https://cwbchicago.com/2024/11)
 
-Police are investigating two convenience store robberies reported minutes apart on Sunday evening, one in the Loop and the other in Old Town.[](https://cwbchicago.com/2024/11/convenience-stores-robbed-minutes-apart-in-old-town-loop.html "Convenience stores robbed  minutes apart in Old Town, Loop")
+A man who was shot in Rogers Park on Monday evening did not cooperate with cops who responded to help him, according to Chicago police.[](https://cwbchicago.com/2024/11/man-shot-in-rogers-park-did-not-cooperate-with-investigators-cpd-says.html "Man shot in Rogers Park did not cooperate with investigators, CPD says")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Mirela-Beldie-326x245.jpg)](https://cwbchicago.com/2024/11/judge-who-released-husband-accused-of-murdering-wife-on-nw-side-denies-prosecutors-detention-petitions-far-more-often-than-his-peers.html "Judge who released husband accused of murdering wife on NW Side denies prosecutors’ detention petitions far more often than his peers")
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Jamari-Woods-sm-326x245.jpg)](https://cwbchicago.com/2024/11/man-charged-with-carjacking-uber-driver-after-cops-learn-his-account-ordered-the-doomed-ride.html "Man charged with carjacking Uber driver after cops learn his account ordered the doomed ride")
 
-Portage Park
+West Garfield Park
 
-### [Judge who released husband accused of murdering wife on NW Side denies prosecutors’ detention petitions far more often than his peers](https://cwbchicago.com/2024/11/judge-who-released-husband-accused-of-murdering-wife-on-nw-side-denies-prosecutors-detention-petitions-far-more-often-than-his-peers.html "Judge who released husband accused of murdering wife on NW Side denies prosecutors’ detention petitions far more often than his peers")
+### [Man charged with carjacking Uber driver after cops learn his account ordered the doomed ride](https://cwbchicago.com/2024/11/man-charged-with-carjacking-uber-driver-after-cops-learn-his-account-ordered-the-doomed-ride.html "Man charged with carjacking Uber driver after cops learn his account ordered the doomed ride")
 
-[November 24, 2024 7:19 PM](https://cwbchicago.com/2024/11)
+[November 25, 2024 6:50 PM](https://cwbchicago.com/2024/11)
 
-There are many unanswered questions about the shocking domestic attack in which a woman was allegedly murdered by her husband, who was wearing a GPS monitor for a pending domestic violence case. We secured a transcript to learn why the judge sent him home on an ankle monitor instead of keeping him in jail as prosecutors wanted. We also found that the judge denies detention petitons far more often than his peers.[](https://cwbchicago.com/2024/11/judge-who-released-husband-accused-of-murdering-wife-on-nw-side-denies-prosecutors-detention-petitions-far-more-often-than-his-peers.html "Judge who released husband accused of murdering wife on NW Side denies prosecutors’ detention petitions far more often than his peers")
+Prosecutors have charged a man with robbing and carjacking a rideshare driver after investigators determined that his Uber account was used to order the victim’s fateful ride, according to court records.[](https://cwbchicago.com/2024/11/man-charged-with-carjacking-uber-driver-after-cops-learn-his-account-ordered-the-doomed-ride.html "Man charged with carjacking Uber driver after cops learn his account ordered the doomed ride")
 
 Search
 
