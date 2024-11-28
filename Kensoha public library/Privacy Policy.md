@@ -52,7 +52,7 @@ Search FAQs
 
 * [My Settings](https://mykpl.bibliocommons.com/account)
 
-[![Kenosha Public Library](//cor-liv-cdn-static.bibliocommons.com/images/WI-KENOSHA/logo.png?1732728758438)](https://mykpl.info/)
+[![Kenosha Public Library](//cor-liv-cdn-static.bibliocommons.com/images/WI-KENOSHA/logo.png?1732801785583)](https://mykpl.info/)
 
 [Main navigation](#) [Events](#)
 
@@ -546,7 +546,7 @@ Kenosha, WI 53142-2129
 
 Powered by BiblioCommons.
 
-BiblioWeb: webapp07 Version 4.23.0 Last updated 2024/11/06 08:40
+BiblioWeb: webapp05 Version 4.23.0 Last updated 2024/11/06 08:35
 
 [Back to Top](#top)
 
