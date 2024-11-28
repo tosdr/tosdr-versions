@@ -286,16 +286,3 @@ The ASPCA is a 501(c)(3) non-for-profit organization. [Privacy Policy](https://w
 * [ASPCA Pet Health Insurance](https://www.aspca.org/about-us/strategic-cause-partnerships/aspca-pet-health-insurance)
     
     Underwritten by Independence American Insurance Company
-    
-
- ![](https://www.aspca.org/sites/default/files/modal-mobile/ea3_hungry-animals_20241125_lightbox_small.jpg)
-
-### Last Chance to Support Hungry Animals!
-
-**[Help us reach 60k meals by Thanksgiving.](https://secure.aspca.org/donate/2024-eap-nov3-web-T1-P1?ms=wb_con_lightbox-nov3-20241125&initialms=wb_con_lightbox-nov3-20241125&pcode=WEBMEMBER&lpcode=WEBGUARD)**
-
-### Last Chance to Support Hungry Animals!
-
-**[Help us reach 60k meals by Thanksgiving.](https://secure.aspca.org/donate/2024-eap-nov3-web-T1-P1?ms=wb_con_lightbox-nov3-20241125&initialms=wb_con_lightbox-nov3-20241125&pcode=WEBMEMBER&lpcode=WEBGUARD)**
-
-[DONATE](https://secure.aspca.org/donate/2024-eap-nov3-web-T1-P1?ms=wb_con_lightbox-nov3-20241125&initialms=wb_con_lightbox-nov3-20241125&pcode=WEBMEMBER&lpcode=WEBGUARD&ms=wb_con_lightbox-nov3-20241125&initialms=wb_con_lightbox-nov3-20241125&pcode=WEBMEMBER&lpcode=WEBGUARD)
