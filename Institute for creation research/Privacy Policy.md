@@ -97,29 +97,29 @@ Return to our [subscription form](https://www.icr.org/subscriptions).
 
 More Days of Praise
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/the-self-life)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/gift-labor)
 
-[The Self Life](https://www.icr.org/article/the-self-life/)
+[The Gift of Labor](https://www.icr.org/article/gift-labor/)
 
-“O wretched man that I am! who shall deliver me from the body of this death?” (Romans 7:24) This despondent cry follows Paul’s...
-
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
-
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/him-no-darkness)
-
-[In Him Is No Darkness](https://www.icr.org/article/him-no-darkness/)
-
-“This then is the message which we have heard of him, and declare unto you, that God is light, and in him is no darkness at all.” (1...
+“And the LORD God took the man, and put him into the garden of Eden to dress it and to keep it.” (Genesis 2:15) When God first...
 
 BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/faith-hope-love-step)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/sound-doctrine)
 
-[Faith, Hope, and Love in Step](https://www.icr.org/article/faith-hope-love-step/)
+[Sound Doctrine](https://www.icr.org/article/sound-doctrine/)
 
-“And now abideth faith, hope, charity, these three; but the greatest of these is charity.” (1 Corinthians 13:13) Love, rendered...
+“Hold fast the form of sound words, which thou hast heard of me, in faith and love which is in Christ Jesus.” (2 Timothy 1:13) When...
 
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/speaking-parables)
+
+[Speaking in Parables](https://www.icr.org/article/speaking-parables/)
+
+“And he spake many things unto them in parables, saying, Behold, a sower went forth to sow.” (Matthew 13:3) The Lord Jesus Christ...
+
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
 Shop Related Products
 
@@ -129,11 +129,11 @@ The Bible Has the Answer](https://store.icr.org/dr-henry-morris-the-bible-has-th
 
 $16.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10472129/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10473917/file.jpg)
 
-Scientific Creationism](https://store.icr.org/dr-henry-morris-scientific-creationism.html)
+Creation and the Second Coming](https://store.icr.org/dr-henry-morris-creation-and-the-second-coming.html)
 
-$14.99
+$10.99
 
 [![](https://cdn.shoplightspeed.com/shops/601440/files/16945324/file.jpg)
 
@@ -141,15 +141,19 @@ The Long War Against God](https://store.icr.org/dr-henry-morris-the-long-war-aga
 
 $16.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10474089/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10475689/file.jpg)
 
-Defending the Faith](https://store.icr.org/dr-henry-morris-defending-the-faith.html)
+The Remarkable Wisdom of Solomon](https://store.icr.org/dr-henry-morris-the-remarkable-wisdom-of-solomon.html)
 
-$12.99
+$13.99
 
-[](https://store.icr.org/.html)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/32688/file.jpg)
 
-$
+The Henry Morris Study Bible - Case](https://store.icr.org/dr-henry-morris-the-henry-morris-study-bible-case.html)
+
+$34.99
+
+$39.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
