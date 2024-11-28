@@ -307,7 +307,7 @@ Advertise
 [BOSS Financial Review](https://www.afr.com/boss)
 -------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_1.0996%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_1%2C$y_87/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/043aefebc3ecaadce253317679c9e27b8f9877e2)](https://www.afr.com/work-and-careers/workplace/why-the-backlash-from-men-is-threatening-gender-targets-20241125-p5ktbc)
+[![Dr Katie Spearritt, chief executive of Diversity Partners.](https://static.ffx.io/images/$zoom_0.9819%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_105/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/66ac6b142dbaa69e4656ddf5606e30ba19e853f9)](https://www.afr.com/work-and-careers/workplace/why-the-backlash-from-men-is-threatening-gender-targets-20241125-p5ktbc)
 
 ### [Why the backlash from men is threatening gender targets](https://www.afr.com/work-and-careers/workplace/why-the-backlash-from-men-is-threatening-gender-targets-20241125-p5ktbc)
 
