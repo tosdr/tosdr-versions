@@ -117,59 +117,63 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Quick and efficient support
-> ---------------------------
+> Impossible to run our businesses without IO
+> -------------------------------------------
 > 
-> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
-> 
-> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
+> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
+>   
+> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
+>   
+> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
+>   
+> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
 
-Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
+Kobus Venter
 
-![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=24b1cddb2d71ebb2640b537f936f01bab3ee475a1378f08faea8201549c3d522&c=86128953)  
-Nilbet T/A Waterman
+![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=0f0a053a870ac9928005a5edd0a67844918ad3eed5b7ec665af470f88459e57e&c=51947295)  
+Desygn
 
-![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=24b1cddb2d71ebb2640b537f936f01bab3ee475a1378f08faea8201549c3d522&c=52302576)  
-Goju-Ryu Pretoria East
+![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=0f0a053a870ac9928005a5edd0a67844918ad3eed5b7ec665af470f88459e57e&c=42978341)  
+Repairs In Motion
 
-![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=24b1cddb2d71ebb2640b537f936f01bab3ee475a1378f08faea8201549c3d522&c=108452288)  
-Karino Merinos ( PTY ) LTD
+![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=0f0a053a870ac9928005a5edd0a67844918ad3eed5b7ec665af470f88459e57e&c=201518629)  
+M's Frozen Delights
 
-![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=24b1cddb2d71ebb2640b537f936f01bab3ee475a1378f08faea8201549c3d522&c=185297475)  
-Import Maaw
+![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=0f0a053a870ac9928005a5edd0a67844918ad3eed5b7ec665af470f88459e57e&c=35098054)  
+United Paintball Federation
 
-![valued client Cooper Power](https://www.invoicesonline.co.za/scripts/image.php?bid=8689&file=logo_300_100&type=&fe=24b1cddb2d71ebb2640b537f936f01bab3ee475a1378f08faea8201549c3d522&c=84839821)  
-Cooper Power
+![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=0f0a053a870ac9928005a5edd0a67844918ad3eed5b7ec665af470f88459e57e&c=148709273)  
+OptaServ
 
-![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=24b1cddb2d71ebb2640b537f936f01bab3ee475a1378f08faea8201549c3d522&c=106870426)  
-Kaylas Creations
+![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=0f0a053a870ac9928005a5edd0a67844918ad3eed5b7ec665af470f88459e57e&c=142989445)  
+Three Moons Emporium
 
-![valued client Kara Medical (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=3913&file=logo_300_100&type=&fe=24b1cddb2d71ebb2640b537f936f01bab3ee475a1378f08faea8201549c3d522&c=188507145)  
-Kara Medical (Pty) Ltd
+![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=0f0a053a870ac9928005a5edd0a67844918ad3eed5b7ec665af470f88459e57e&c=12172265)  
+Well Hung Art
 
-![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=24b1cddb2d71ebb2640b537f936f01bab3ee475a1378f08faea8201549c3d522&c=39529909)  
-TechnoDezi PTY(LTD)
+![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=0f0a053a870ac9928005a5edd0a67844918ad3eed5b7ec665af470f88459e57e&c=183117758)  
+Iurus Inc
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (651)](https://www.invoicesonline.co.za/scripts/image.php?bid=6481&file=logo_300_100&type=&fe=24b1cddb2d71ebb2640b537f936f01bab3ee475a1378f08faea8201549c3d522&c=54812657)  
-VIV'S TRUCKS (Pty) Ltd. (651)
+![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=0f0a053a870ac9928005a5edd0a67844918ad3eed5b7ec665af470f88459e57e&c=129278819)  
+Wiselink Broadband Dundee
 
-![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=24b1cddb2d71ebb2640b537f936f01bab3ee475a1378f08faea8201549c3d522&c=18683009)  
-Westside Car Audio CC
+![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=0f0a053a870ac9928005a5edd0a67844918ad3eed5b7ec665af470f88459e57e&c=181926079)  
+IAS Logistics (Pty) Ltd T/A MULTITRANSIT
 
-![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=24b1cddb2d71ebb2640b537f936f01bab3ee475a1378f08faea8201549c3d522&c=94958588)  
-MSPCloud (Pty) Ltd
+![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=0f0a053a870ac9928005a5edd0a67844918ad3eed5b7ec665af470f88459e57e&c=211032175)  
+Salvage Genie
 
-![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=24b1cddb2d71ebb2640b537f936f01bab3ee475a1378f08faea8201549c3d522&c=115343944)  
-National Elite Security Services (PTY) LTD
+![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=0f0a053a870ac9928005a5edd0a67844918ad3eed5b7ec665af470f88459e57e&c=212924760)  
+Safe-Train Consulting (PTY) Ltd
 
-![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=24b1cddb2d71ebb2640b537f936f01bab3ee475a1378f08faea8201549c3d522&c=140698272)  
-Durbanville Classifieds (Pty) Ltd
+![valued client FlipDesign - Renovation Contracting Firm](https://www.invoicesonline.co.za/scripts/image.php?bid=8663&file=logo_300_100&type=&fe=0f0a053a870ac9928005a5edd0a67844918ad3eed5b7ec665af470f88459e57e&c=83779986)  
+FlipDesign - Renovation Contracting Firm
 
-![valued client Lindani Protection Services & Projects](https://www.invoicesonline.co.za/scripts/image.php?bid=8265&file=logo_300_100&type=&fe=24b1cddb2d71ebb2640b537f936f01bab3ee475a1378f08faea8201549c3d522&c=160847691)  
-Lindani Protection Services & Projects
+![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=0f0a053a870ac9928005a5edd0a67844918ad3eed5b7ec665af470f88459e57e&c=190272184)  
+Bchange Online CC
 
-![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=24b1cddb2d71ebb2640b537f936f01bab3ee475a1378f08faea8201549c3d522&c=116991120)  
-RADIO TYGERBERG 104FM NPC
+![valued client Calonet ](https://www.invoicesonline.co.za/scripts/image.php?bid=3324&file=logo_300_100&type=&fe=0f0a053a870ac9928005a5edd0a67844918ad3eed5b7ec665af470f88459e57e&c=205687367)  
+Calonet
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
