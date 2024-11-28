@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/11/art-magdiel-lopez-24-feature.jpg)
+
+[](https://theinspirationgrid.com/striking-digital-collages-by-magdiel-lopez/)
+
+### Striking Digital Collages by Magdiel Lopez
+
+![](https://inspgr.id/app/uploads/2024/11/digital-art-arice-feature.jpg)
+
+[](https://theinspirationgrid.com/pouring-stones-abstract-digital-art-by-andrea-arice/)
+
+### Pouring Stones: Abstract Digital Art by Andrea Arice
+
 ![](https://inspgr.id/app/uploads/2024/11/branding-millers-quay-feature.jpg)
 
 [](https://theinspirationgrid.com/millers-quay-branding-by-smiling-wolf/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/awesome-illustrations-by-rafael-nobre/)
 
 ### Awesome Illustrations by Rafael Nobre
-
-![](https://inspgr.id/app/uploads/2024/11/branding-the-brass-onion-feature.jpg)
-
-[](https://theinspirationgrid.com/the-brass-onion-branding-by-carpenter-collective/)
-
-### The Brass Onion Branding by Carpenter Collective
-
-![](https://inspgr.id/app/uploads/2024/11/art-brown-garrett-feature.jpg)
-
-[](https://theinspirationgrid.com/a-whisper-in-the-eye-of-the-storm-an-immersive-art-installation/)
-
-### A Whisper in the Eye of the Storm: An Immersive Optical Art Installation
 
 Awesome products for creatives
 ------------------------------
