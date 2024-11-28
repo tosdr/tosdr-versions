@@ -559,7 +559,7 @@ Connect with us
 
 [Virgin Pulse member login](https://iam.virginpulse.com/auth/realms/virginpulse/protocol/openid-connect/auth?client_id=genesis-ui&redirect_uri=https%3A%2F%2Fapp.member.virginpulse.com%2F&state=fd2b192d-5ffe-48d1-8127-aab213ab5bb1&nonce=c4057426-16e8-40da-8673-4794c50c1eb0&response_mode=fragment&response_type=code&scope=openid)
 
-[Personify Health member support](https://personifyhealth.zendesk.com/hc/en-us)
+[Member support](https://personifyhealth.zendesk.com/hc/en-us)
 
 [HCOnline](https://hconline.healthcomp.com/login)
 
