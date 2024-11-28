@@ -107,20 +107,20 @@ Top downloads
 
 Latest releases
 
+* [MINI01](https://www.myabandonware.com/game/mini01-tbr)
 * [Holotz's Castle](https://www.myabandonware.com/game/holotz-s-castle-tbq)
 * [King](https://www.myabandonware.com/game/king-tbp)
 * [Kimaru!](https://www.myabandonware.com/game/kimaru-tbo)
 * [Alhademic Sniper](https://www.myabandonware.com/game/alhademic-sniper-tbn)
-* [Sega Swirl](https://www.myabandonware.com/game/sega-swirl-tbk)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
 
 Screenshots needed
 
-* [Board Game: Top Shop](https://www.myabandonware.com/game/board-game-top-shop-qic)
-* [Magical Truck Adventure](https://www.myabandonware.com/game/magical-truck-adventure-spb)
-* [Wonder Boy](https://www.myabandonware.com/game/wonder-boy-suy)
+* [Star Wars: Racer Arcade](https://www.myabandonware.com/game/star-wars-racer-arcade-smy)
+* [Yahtzee, Parcheesi & Aggravation Collection](https://www.myabandonware.com/game/yahtzee-parcheesi-aggravation-collection-noj)
+* [Are You Ready & Alert](https://www.myabandonware.com/game/are-you-ready-alert-epv)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
