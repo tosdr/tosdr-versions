@@ -205,27 +205,26 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [AOL Search Log Special, Part 1](https://www.somethingawful.com/weekend-web/aol-search-log/1/)
-* [Biggles!](https://www.somethingawful.com/photoshop-phriday/biggles/1/)
-* [Dumbass of Love](https://www.somethingawful.com/comedy-goldmine/dumbass-of-love/1/)
-* [Animals in Film: A Retrospective!](https://www.somethingawful.com/photoshop-phriday/animals-film/)
-* [Comic Book Chaos (Part 1)](https://www.somethingawful.com/photoshop-phriday/comic-book-chaos/1/)
+* [\[CHACHA.COM\] get people to help you search for crap that doesn't exist](https://www.somethingawful.com/comedy-goldmine/chachacom-get-people/1/)
+* [ConanOBrien.net Boards, Myjellybean, Swirve Utopia, and TheXpower](https://www.somethingawful.com/weekend-web/conanobriennet-boards-myjellybea/1/)
+* [Reaching for the Great Beyond: Six Steps to Success](https://www.somethingawful.com/news/six-steps-success/1/)
+* [This Baby Is An Absolute Piece of Shit](https://www.somethingawful.com/feature-articles/shitty-baby/)
+* [Covid and Our Mental Health (Part 1)](https://www.somethingawful.com/news/covid1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/ddrd-scsa.gif) [ALS](http://forums.somethingawful.com/showthread.php?threadid=4076329 "ALS")
-* ![](https://fi.somethingawful.com/forums/posticons/tviv-competition.gif) [Pitch a Catch Phrase](http://forums.somethingawful.com/showthread.php?threadid=4076401 "Pitch a Catch Phrase")
-* ![](https://fi.somethingawful.com/forums/posticons/cspam-yeshahahayes.gif) [Post your weird ass dreams ITT](http://forums.somethingawful.com/showthread.php?threadid=4076341 "Post your weird ass dreams ITT")
-* ![](https://fi.somethingawful.com/forums/posticons/games-regret.gif) [Mariah Carey is so good she makes Jay Z's bars in Heartbreaker bearable to](http://forums.somethingawful.com/showthread.php?threadid=4076319 "Mariah Carey is so good she makes Jay Z's bars in Heartbreaker bearable to")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/serious.png) [What is the absolute WORST thing you've ever done?](http://forums.somethingawful.com/showthread.php?threadid=4076413 "What is the absolute WORST thing you've ever done?")
 * ![](https://fi.somethingawful.com/images/shitpost.gif) [ITT we write patch notes for things](http://forums.somethingawful.com/showthread.php?threadid=4076344 "ITT we write patch notes for things")
+* ![](https://fi.somethingawful.com/forums/posticons/cspam-yeshahahayes.gif) [Post your weird ass dreams ITT](http://forums.somethingawful.com/showthread.php?threadid=4076341 "Post your weird ass dreams ITT")
+* ![](https://fi.somethingawful.com/forums/posticons/tviv-competition.gif) [Pitch a Catch Phrase](http://forums.somethingawful.com/showthread.php?threadid=4076401 "Pitch a Catch Phrase")
 
 ### Random Articles
 
-* [Rap is Awesome, KenK](https://www.somethingawful.com/icq-pranks/icq-transcript-rap/1/)
-* [The Official Rules Of Tournament Poker](https://www.somethingawful.com/news/poker-rules/)
-* [State Fair Scavenger Hunt](https://www.somethingawful.com/news/fair-hunt/)
-* [The Xtreme Strength Gallery](https://www.somethingawful.com/awful-links/awful-link-1609/)
-* [Hammer Bro's Grasslands (Thanks, Ron John!)](https://www.somethingawful.com/awful-links/grasslands-street-koopas/)
+* [August 6, 2007](https://www.somethingawful.com/forum-fridays/ff08-06-07a/1/)
+* [SA Celebrity Stalker: January Edition](https://www.somethingawful.com/news/celebrity-stalker-january/)
+* [These Things I Know](https://www.somethingawful.com/news/things-knowledge-events/1/)
+* [The Worst Joke of 2010](https://www.somethingawful.com/news/tsa-elmo-joke/)
+* [Activity Center](https://www.somethingawful.com/flash-tub/activity-center/)
 
 [Random!](https://www.somethingawful.com/random/)
 
