@@ -5,9 +5,9 @@ Main Navigation
 
 [TAP HERE TO VIEW ITEMS THAT ARE IN STOCK AND WILL DELIVER IN TIME FOR HOLIDAYS](https://shop.travisscott.com/collections/cactuscon-in-stock)
 
- [![CACTUS JACK](//shop.travisscott.com/cdn/shop/files/Sign-Cluster-logo.png?v=1732564326)](https://shop.travisscott.com/)[Cart : 0 Items](https://shop.travisscott.com/cart)
+ [![CACTUS JACK](//shop.travisscott.com/cdn/shop/files/Sign_Cluster_2.png?v=1732748906)](https://shop.travisscott.com/)[Cart : 0 Items](https://shop.travisscott.com/cart)
 
-[View All](https://shop.travisscott.com/) [View in stock items](https://shop.travisscott.com/collections/cactuscon-in-stock)
+[View All](https://shop.travisscott.com/) [View in stock](https://shop.travisscott.com/collections/cactuscon-in-stock)
 
 PRIVACY POLICY
 ==============
