@@ -20,16 +20,16 @@ Thursday, November 28 2024
 
 Latest
 
-* [8 Video Production Templates You Can Use in < 30 Minutes](https://digitpatrox.com/8-video-production-templates-you-can-use-in-30-minutes/)
-* [NYT Connections today hints and answers — Thursday, November 28 (#536)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-thursday-november-28-536/)
-* [Microsoft re-releases Exchange updates after fixing mail delivery](https://digitpatrox.com/microsoft-re-releases-exchange-updates-after-fixing-mail-delivery/)
-* [The discontinued Steam Deck LCD is on sale](https://digitpatrox.com/the-discontinued-steam-deck-lcd-is-on-sale/)
-* [All the Major Arcane Characters Who Died in the Show](https://digitpatrox.com/all-the-major-arcane-characters-who-died-in-the-show/)
-* [Small businesses could see electricity bills surge 70% as AI data center energy demands skyrocket](https://digitpatrox.com/small-businesses-could-see-electricity-bills-surge-70-as-ai-data-center-energy-demands-skyrocket/)
-* [10+ tips and services for new Bluesky users – Computerworld](https://digitpatrox.com/10-tips-and-services-for-new-bluesky-users-computerworld/)
-* [‘Batch Cocktails’ Is the Book You Need for Your Next Holiday Party](https://digitpatrox.com/batch-cocktails-is-the-book-you-need-for-your-next-holiday-party/)
-* [How to use GGPoker with a VPN (and the best VPNs for the job)](https://digitpatrox.com/how-to-use-ggpoker-with-a-vpn-and-the-best-vpns-for-the-job/)
-* [Download Windows 365 Link PC default wallpapers for Windows 11](https://digitpatrox.com/download-windows-365-link-pc-default-wallpapers-for-windows-11/)
+* [Everyone Should Have a Big Battery Like the Jackery 1000 (and It's 50% Off for Black Friday)](https://digitpatrox.com/everyone-should-have-a-big-battery-like-the-jackery-1000-and-its-50-off-for-black-friday/)
+* [Best Baby Play Gyms & Baby Play Mats](https://digitpatrox.com/best-baby-play-gyms-baby-play-mats/)
+* [The Browser Choice Alliance Wants to Keep Microsoft Edge in Check](https://digitpatrox.com/the-browser-choice-alliance-wants-to-keep-microsoft-edge-in-check/)
+* [How to turn off the NVIDIA overlay (Alt + Z)](https://digitpatrox.com/how-to-turn-off-the-nvidia-overlay-alt-z/)
+* [Huawei Cloud France brings products and customer commitment to the fore at its inaugural summit](https://digitpatrox.com/huawei-cloud-france-brings-products-and-customer-commitment-to-the-fore-at-its-inaugural-summit/)
+* [10 Tips to Make Your Excel Spreadsheets Look Professional & Functional](https://digitpatrox.com/10-tips-to-make-your-excel-spreadsheets-look-professional-functional/)
+* [My favorite solar charger for my phone is 39% off for Black Friday — and it even shades me from the sun](https://digitpatrox.com/my-favorite-solar-charger-for-my-phone-is-39-off-for-black-friday-and-it-even-shades-me-from-the-sun/)
+* [Hackers abuse popular Godot game engine to infect thousands of PCs](https://digitpatrox.com/hackers-abuse-popular-godot-game-engine-to-infect-thousands-of-pcs/)
+* [Mark Zuckerberg meets Donald Trump at Mar-a-Lago](https://digitpatrox.com/mark-zuckerberg-meets-donald-trump-at-mar-a-lago/)
+* [NYT Connections Today: Hints and Answers for November 28, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-november-28-2024/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://assets.techrepublic.com/uploads/2024/11/video-production-templates-featured-image-11272024-min.png)](https://digitpatrox.com/8-video-production-templates-you-can-use-in-30-minutes/)
+* [![](https://lifehacker.com/imagery/articles/01JDQTMQWBH6T7ETCMNECDXZH7/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/everyone-should-have-a-big-battery-like-the-jackery-1000-and-its-50-off-for-black-friday/)
     
-    [8 Video Production Templates You Can Use in < 30 Minutes](https://digitpatrox.com/8-video-production-templates-you-can-use-in-30-minutes/)
+    [Everyone Should Have a Big Battery Like the Jackery 1000 (and It's 50% Off for Black Friday)](https://digitpatrox.com/everyone-should-have-a-big-battery-like-the-jackery-1000-and-its-50-off-for-black-friday/)
     
-    3 minutes ago
+    6 minutes ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/GPc572YotvfLXGxckqpudW-1200-80.jpg)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-thursday-november-28-536/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1732210161/prod/content/dam/CRO-Images-2024/Rapid-Response/CR-RR-InlineHero-Best-Baby-Gyms-Lovevery-1124-v2)](https://digitpatrox.com/best-baby-play-gyms-baby-play-mats/)
     
-    [NYT Connections today hints and answers — Thursday, November 28 (#536)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-thursday-november-28-536/)
+    [Best Baby Play Gyms & Baby Play Mats](https://digitpatrox.com/best-baby-play-gyms-baby-play-mats/)
     
-    7 minutes ago
+    17 minutes ago
     
-* [![](https://www.bleepstatic.com/content/hl-images/2024/10/28/Exchange_Online.jpg)](https://digitpatrox.com/microsoft-re-releases-exchange-updates-after-fixing-mail-delivery/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/edge.jpg)](https://digitpatrox.com/the-browser-choice-alliance-wants-to-keep-microsoft-edge-in-check/)
     
-    [Microsoft re-releases Exchange updates after fixing mail delivery](https://digitpatrox.com/microsoft-re-releases-exchange-updates-after-fixing-mail-delivery/)
+    [The Browser Choice Alliance Wants to Keep Microsoft Edge in Check](https://digitpatrox.com/the-browser-choice-alliance-wants-to-keep-microsoft-edge-in-check/)
     
-    1 hour ago
+    18 minutes ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/YwlcyFa6sCwDj-mxdF1VZYGxOTk=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23270003/vpavic_220210_5030_0054_Edit.jpg)](https://digitpatrox.com/the-discontinued-steam-deck-lcd-is-on-sale/)
+* [![](https://www.digitalcitizen.life/wp-content/uploads/2022/09/geforce_experience.png)](https://digitpatrox.com/how-to-turn-off-the-nvidia-overlay-alt-z/)
     
-    [The discontinued Steam Deck LCD is on sale](https://digitpatrox.com/the-discontinued-steam-deck-lcd-is-on-sale/)
+    [How to turn off the NVIDIA overlay (Alt + Z)](https://digitpatrox.com/how-to-turn-off-the-nvidia-overlay-alt-z/)
     
-    2 hours ago
+    20 minutes ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/11/Arcane-asset-with-Viktor-Jayce-and-Vander.jpg?w=1250&quality=75)](https://digitpatrox.com/all-the-major-arcane-characters-who-died-in-the-show/)
+* [![](https://cdn.mos.cms.futurecdn.net/KQ2bHEt8Di8nq6vzc9Kagm-1200-80.jpg)](https://digitpatrox.com/huawei-cloud-france-brings-products-and-customer-commitment-to-the-fore-at-its-inaugural-summit/)
     
-    [All the Major Arcane Characters Who Died in the Show](https://digitpatrox.com/all-the-major-arcane-characters-who-died-in-the-show/)
+    [Huawei Cloud France brings products and customer commitment to the fore at its inaugural summit](https://digitpatrox.com/huawei-cloud-france-brings-products-and-customer-commitment-to-the-fore-at-its-inaugural-summit/)
     
-    2 hours ago
+    56 minutes ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [3 minutes ago
+* [6 minutes ago
     
-    ### 8 Video Production Templates You Can Use in < 30 Minutes](https://digitpatrox.com/8-video-production-templates-you-can-use-in-30-minutes/)
-* [7 minutes ago
+    ### Everyone Should Have a Big Battery Like the Jackery 1000 (and It's 50% Off for Black Friday)](https://digitpatrox.com/everyone-should-have-a-big-battery-like-the-jackery-1000-and-its-50-off-for-black-friday/)
+* [17 minutes ago
     
-    ### NYT Connections today hints and answers — Thursday, November 28 (#536)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-thursday-november-28-536/)
-* [1 hour ago
+    ### Best Baby Play Gyms & Baby Play Mats](https://digitpatrox.com/best-baby-play-gyms-baby-play-mats/)
+* [18 minutes ago
     
-    ### Microsoft re-releases Exchange updates after fixing mail delivery](https://digitpatrox.com/microsoft-re-releases-exchange-updates-after-fixing-mail-delivery/)
+    ### The Browser Choice Alliance Wants to Keep Microsoft Edge in Check](https://digitpatrox.com/the-browser-choice-alliance-wants-to-keep-microsoft-edge-in-check/)
 
 Most Popular Topics
 
-* [3 weeks ago
-    
-    ### 5 top new TV shows to stream this week on Netflix, Prime Video and more (Nov. 4-10)](https://digitpatrox.com/5-top-new-tv-shows-to-stream-this-week-on-netflix-prime-video-and-more-nov-4-10/)
 * [1 day ago
     
-    ### Former Google CEO Eric Schmidt rejects claims Al scaling has peaked – but firms like OpenAI, Anthropic, and Google are finding it harder and more expensive to deliver](https://digitpatrox.com/former-google-ceo-eric-schmidt-rejects-claims-al-scaling-has-peaked-but-firms-like-openai-anthropic-and-google-are-finding-it-harder-and-more-expensive-to-deliver/)
-* [September 30, 2024
+    ### The Best iPhone Tripods of 2024](https://digitpatrox.com/the-best-iphone-tripods-of-2024/)
+* [October 9, 2024
     
-    ### Tesla Cybertruck First Drive Review](https://digitpatrox.com/tesla-cybertruck-first-drive-review/)
+    ### Onedrive Is Getting Better Photo Management, Faster Performance, and More](https://digitpatrox.com/onedrive-is-getting-better-photo-management-faster-performance-and-more/)
+* [5 days ago
+    
+    ### OpenAI is thinking about building its own browser – Computerworld](https://digitpatrox.com/openai-is-thinking-about-building-its-own-browser-computerworld/)
 
 Last Modified Topics
 
-* [4 hours ago
+* [1 hour ago
     
-    ### 10+ tips and services for new Bluesky users – Computerworld](https://digitpatrox.com/10-tips-and-services-for-new-bluesky-users-computerworld/)
-* [4 hours ago
+    ### My favorite solar charger for my phone is 39% off for Black Friday — and it even shades me from the sun](https://digitpatrox.com/my-favorite-solar-charger-for-my-phone-is-39-off-for-black-friday-and-it-even-shades-me-from-the-sun/)
+* [2 hours ago
     
-    ### ‘Batch Cocktails’ Is the Book You Need for Your Next Holiday Party](https://digitpatrox.com/batch-cocktails-is-the-book-you-need-for-your-next-holiday-party/)
-* [4 hours ago
+    ### Hackers abuse popular Godot game engine to infect thousands of PCs](https://digitpatrox.com/hackers-abuse-popular-godot-game-engine-to-infect-thousands-of-pcs/)
+* [3 hours ago
     
-    ### How to use GGPoker with a VPN (and the best VPNs for the job)](https://digitpatrox.com/how-to-use-ggpoker-with-a-vpn-and-the-best-vpns-for-the-job/)
+    ### Mark Zuckerberg meets Donald Trump at Mar-a-Lago](https://digitpatrox.com/mark-zuckerberg-meets-donald-trump-at-mar-a-lago/)
 
 Most Viewed Topics
 
+* [August 11, 2024
+    
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 13, 2024
     
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
-* [August 12, 2024
-    
-    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 * [October 2, 2024
     
     ### The best noise-canceling headphones for 2024](https://digitpatrox.com/the-best-noise-canceling-headphones-for-2024/)
