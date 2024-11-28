@@ -268,12 +268,12 @@ Aerial photograph of application site and H30 Zoning.
 [South Bank Square granted planning permission for  674 new homes in Derry](https://www.derrynow.com/news/local-news/1666525/south-bank-square-granted-planning-permission-for-674-new-homes-in-derry.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1664784/derry-death-notices-wednesday-november-27-2024.html)
+[![IN PICTURES: Seán Dolans GAC Annual Dinner Dance in The City Hotel](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Seán Dolans GAC Annual Dinner Dance in The City Hotel")](https://www.derrynow.com/story-telling/pictures---videos/1664007/in-pictures-sean-dolans-gac-annual-dinner-dance-in-the-city-hotel.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[Derry Death Notices - Wednesday, November 27, 2024](https://www.derrynow.com/news/deaths/1664784/derry-death-notices-wednesday-november-27-2024.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------
+[IN PICTURES: Seán Dolans GAC Annual Dinner Dance in The City Hotel](https://www.derrynow.com/story-telling/pictures---videos/1664007/in-pictures-sean-dolans-gac-annual-dinner-dance-in-the-city-hotel.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Limavady murder accused refused compassionate leave to visit sister and newborn niece](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Limavady murder accused refused compassionate leave to visit sister and newborn niece")](https://www.derrynow.com/news/home/1666062/limavady-murder-accused-refused-compassionate-leave-to-visit-sister-and-newborn-niece.html)
 
@@ -281,13 +281,6 @@ Aerial photograph of application site and H30 Zoning.
 
 [Limavady murder accused refused compassionate leave to visit sister and newborn niece](https://www.derrynow.com/news/home/1666062/limavady-murder-accused-refused-compassionate-leave-to-visit-sister-and-newborn-niece.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Seán Dolans GAC Annual Dinner Dance in The City Hotel](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Seán Dolans GAC Annual Dinner Dance in The City Hotel")](https://www.derrynow.com/story-telling/pictures---videos/1664007/in-pictures-sean-dolans-gac-annual-dinner-dance-in-the-city-hotel.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Seán Dolans GAC Annual Dinner Dance in The City Hotel](https://www.derrynow.com/story-telling/pictures---videos/1664007/in-pictures-sean-dolans-gac-annual-dinner-dance-in-the-city-hotel.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Two men charged with a series of drug offences remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two men charged with a series of drug offences remanded")](https://www.derrynow.com/news/local-news/1666040/two-men-charged-with-a-series-of-drug-offences-remanded.html)
 
@@ -319,6 +312,13 @@ An effigy of Lundy before the burning at a previous 'Shutting of the Gates'.
 [Dungiven man threatened to kill partner by 'cutting her from ear to ear', court told](https://www.derrynow.com/news/home/1666429/dungiven-man-threatened-to-kill-partner-by-cutting-her-from-ear-to-ear-court-told.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Suspended sentence for man charged with disorderly behavior and resisting police](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for man charged with disorderly behavior and resisting police")](https://www.derrynow.com/news/local-news/1666125/suspended-sentence-for-man-charged-with-disorderly-behavior-and-resisting-police.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Suspended sentence for man charged with disorderly behavior and resisting police](https://www.derrynow.com/news/local-news/1666125/suspended-sentence-for-man-charged-with-disorderly-behavior-and-resisting-police.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Two men charged to court following Derry drug seizure](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two men charged to court following Derry drug seizure")](https://www.derrynow.com/news/local-news/1665774/two-men-charged-to-court-following-derry-drug-seizure.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -326,12 +326,14 @@ An effigy of Lundy before the burning at a previous 'Shutting of the Gates'.
 [Two men charged to court following Derry drug seizure](https://www.derrynow.com/news/local-news/1665774/two-men-charged-to-court-following-derry-drug-seizure.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Suspended sentence for man charged with disorderly behavior and resisting police](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for man charged with disorderly behavior and resisting police")](https://www.derrynow.com/news/local-news/1666125/suspended-sentence-for-man-charged-with-disorderly-behavior-and-resisting-police.html)
+[![County Derry educator revealed as Outstanding New Teacher of the Year on BBC's The One Show](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry educator revealed as Outstanding New Teacher of the Year on BBC's The One Show")](https://www.derrynow.com/news/home/1665332/county-derry-educator-revealed-as-outstanding-new-teacher-of-the-year-on-bbc-s-the-one-show.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+Ciara Mulholland pictured with singer Ryan McMullan and BBC presenter Ryan.
 
-[Suspended sentence for man charged with disorderly behavior and resisting police](https://www.derrynow.com/news/local-news/1666125/suspended-sentence-for-man-charged-with-disorderly-behavior-and-resisting-police.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Home](https://www.derrynow.com/)
+
+[County Derry educator revealed as Outstanding New Teacher of the Year on BBC's The One Show](https://www.derrynow.com/news/home/1665332/county-derry-educator-revealed-as-outstanding-new-teacher-of-the-year-on-bbc-s-the-one-show.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -511,6 +513,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1666526/derry-death-notices-thursday-november-28-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Thursday, November 28, 2024](https://www.derrynow.com/news/deaths/1666526/derry-death-notices-thursday-november-28-2024.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Parents of special educational needs children face ‘endless fight’ for support](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Parents of special educational needs children face ‘endless fight’ for support")](https://www.derrynow.com/news/northern-ireland/1666278/parents-of-special-educational-needs-children-face-endless-fight-for-support.html)
 
 [Northern Ireland](https://www.limerickleader.ie/section/2726/northern-ireland)
@@ -518,7 +527,7 @@ Advertise with Us
 [Parents of special educational needs children face ‘endless fight’ for support](https://www.derrynow.com/news/northern-ireland/1666278/parents-of-special-educational-needs-children-face-endless-fight-for-support.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Learmount Forest Footstick Bridge officially opened by Minister](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Learmount Forest Footstick Bridge officially opened by Minister")](https://www.derrynow.com/news/home/1666574/learmount-forest-footstick-bridge-officially-opened-by-minister.html)
+[![Learmount Forest Footstick Bridge officially opened by Minister](https://www.derrynow.com/resizer/165/93/true/2024_11_27/Captioned_Learmount_Greenway_Project_%283%29-1732732331634.jpg--.jpg?1732732332220 "Learmount Forest Footstick Bridge officially opened by Minister")](https://www.derrynow.com/news/home/1666574/learmount-forest-footstick-bridge-officially-opened-by-minister.html)
 
 The Mayor with Caroline Lynch, Learmount, Karen Phillips and David Mullan, DCSDC, Mike Savage, (retired, DCSDC), Minister John O'Dowd, Paul McNaught, DfC, and Patrick Conway, Learmount.
 
@@ -551,15 +560,6 @@ Aerial photograph of application site and H30 Zoning.
 
 [South Bank Square granted planning permission for  674 new homes in Derry](https://www.derrynow.com/news/local-news/1666525/south-bank-square-granted-planning-permission-for-674-new-homes-in-derry.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![A day of festive celebration at Flowerfield Arts Centre](https://www.derrynow.com/resizer/165/93/true/2024_11_27/CCGBC_FLOWERFIELD_XMAS_1-1732722335923.jpg--.jpg?1732722337551 "A day of festive celebration at Flowerfield Arts Centre")](https://www.derrynow.com/news/home/1666346/a-day-of-festive-celebration-at-flowerfield-arts-centre.html)
-
-Local creative Fiona Shannon (Fiona Shannon Ceramics), and Amy Donaghey, Arts Marketing and Engagement Officer, pictured at the Christmas Craft Market.
-
-[Home](https://www.derrynow.com/)
-
-[A day of festive celebration at Flowerfield Arts Centre](https://www.derrynow.com/news/home/1666346/a-day-of-festive-celebration-at-flowerfield-arts-centre.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
