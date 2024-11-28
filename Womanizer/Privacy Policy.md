@@ -4,13 +4,39 @@ The store will not work correctly in the case when cookies are disabled.
 
 **JavaScript seems to be disabled in your browser.** For the best experience on our site, be sure to turn on Javascript in your browser.
 
-[Black Friday SALE - up to 50 % OFF!](https://www.womanizer.com/eu/sale)
+[Black Friday Sale **Up to 50% off** Order now, sale ends soon!
 
-[Choose a free Womanizer toy with every order above 199€!](https://www.womanizer.com/eu/sex-toys)
+* 00
+    
+    Hours
+    
+* :
+* 00
+    
+    Minutes
+    
+* :
+* 00
+    
+    Seconds](https://www.womanizer.com/eu/sale)
 
-[5-Year Warranty On All Womanizer Toys](https://www.womanizer.com/eu/5warranty)
+[Black Friday Sale**Up to 50% off**
 
-[100 day Pleasure Guaranteed](https://www.womanizer.com/eu/satisfaction-guaranteed)
+Order now! Sale ends in
+
+* 00
+    
+    Hours
+    
+* :
+* 00
+    
+    Minutes
+    
+* :
+* 00
+    
+    Seconds](https://www.womanizer.com/eu/sale)
 
 [](https://www.womanizer.com/eu/)
 
