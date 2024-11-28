@@ -42,17 +42,15 @@ The Godot team recognizes that it can be difficult to come forward in cases of a
 
 ### Code of Conduct team
 
-* George Marques, [\[email protected\]](https://godotengine.org/cdn-cgi/l/email-protection) (he/him)
-    * GitHub / Contributors Chat / Discord / Reddit / Twitter: _vnen_
-    * Languages: English, Portuguese
 * HP van Braam, [\[email protected\]](https://godotengine.org/cdn-cgi/l/email-protection) (they/them)
-    * GitHub: _hpvb_ – Contributors Chat: _hp_ – Discord / Reddit: _TMM_
+    * GitHub: _hpvb_ – Contributors Chat: _hp_
     * Languages: English, Dutch
 * Julian Murgia, [\[email protected\]](https://godotengine.org/cdn-cgi/l/email-protection) (he/him)
-    * GitHub / Contributors Chat / Discord/ Reddit: _StraToN_ – Twitter: _TheStraToN_
+    * GitHub / Contributors Chat: _StraToN_
     * Languages: English, French
-* Lara, [\[email protected\]](https://godotengine.org/cdn-cgi/l/email-protection) (she/her)
+* Nat, [\[email protected\]](https://godotengine.org/cdn-cgi/l/email-protection) (she/they)
+    * GitHub / Contributors Chat: _MurderVeggie_
     * Languages: English, German
 * Rémi Verschelde, [\[email protected\]](https://godotengine.org/cdn-cgi/l/email-protection) (he/him)
-    * GitHub / Reddit: _akien-mga_ – Contributors Chat / Discord / Twitter: _Akien_
+    * GitHub: _akien-mga_ – Contributors Chat: _Akien_
     * Languages: English, French, German
