@@ -751,6 +751,7 @@ We use certain sub-processors in the general running of our business and to assi
 
 | Sub-processor | Country of Storage | Description of Processing |
 | --- | --- | --- |
+| Albato | US, Germany, Australia | Automation service to connect apps and APIs |
 | Amazon Web Services | US, Germany, Australia | Infrastructure and hosting for all Knack services and data |
 | Datadog | Germany | Infrastructure monitoring and analytics |
 | Google | US  | Customer analytics  <br>Robot and spam mitigation |
@@ -758,9 +759,10 @@ We use certain sub-processors in the general running of our business and to assi
 | Intercom | US  | Customer support chat and communication |
 | LogRocket | US  | Customer session analytics |
 | Pendo | US  | Customer session event tracking |
-| Segment | US  | Customer data management |
+| RudderStack | US, Germany | Product behavior analysis |
 | Sendgrid | US  | Email communications |
 | Stripe | US  | Payment processing |
+| Svix | US, Germany | Webhooks as a service |
 
 Do you need to do anything to be compliant?
 -------------------------------------------
