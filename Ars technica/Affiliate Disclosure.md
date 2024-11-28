@@ -91,9 +91,9 @@ Most Read
     
 3. 3. [Nvidia’s new AI audio model can synthesize sounds that have never existed](https://arstechnica.com/ai/2024/11/nvidias-new-ai-audio-model-can-synthesize-sounds-that-have-never-existed/)
     
-4. 4. [Workers demand more transparency after Intel secures $8B CHIPS funding](https://arstechnica.com/tech-policy/2024/11/workers-demand-more-transparency-after-intel-secures-8b-chips-funding/)
+4. 4. [ISPs say their “excellent customer service” is why users don’t switch providers](https://arstechnica.com/tech-policy/2024/11/isps-say-their-excellent-customer-service-is-why-users-dont-switch-providers/)
     
-5. 5. [ISPs say their “excellent customer service” is why users don’t switch providers](https://arstechnica.com/tech-policy/2024/11/isps-say-their-excellent-customer-service-is-why-users-dont-switch-providers/)
+5. 5. [Workers demand more transparency after Intel secures $8B CHIPS funding](https://arstechnica.com/tech-policy/2024/11/workers-demand-more-transparency-after-intel-secures-8b-chips-funding/)
     
 
 Customize
