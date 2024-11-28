@@ -661,17 +661,17 @@ Vee Gregg Calgary 20/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Quick and easy. Very professional and friendly.
+Great and friendly service! Guys were in and out quickly and efficiently. Thank you!
 
-C L Calgary 19/11/2024
+Neil Bailey Calgary 19/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Great and friendly service! Guys were in and out quickly and efficiently. Thank you!
+Quick and easy. Very professional and friendly.
 
-Neil Bailey Calgary 19/11/2024
+C L Calgary 19/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
