@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![30 Facts About Infrared Astronomy ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22102%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/nature/universe/30-facts-about-infrared-astronomy/)
+[![21 Facts About Inyo National Forest ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22102%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/nature/21-facts-about-inyo-national-forest/)
 
-Universe
+Nature
 
-27 Nov 2024
+28 Nov 2024
 
-[30 Facts About Infrared Astronomy](https://facts.net/nature/universe/30-facts-about-infrared-astronomy/)
+[21 Facts About Inyo National Forest](https://facts.net/nature/21-facts-about-inyo-national-forest/)
 
-[![The Pharmaceutical Pollution Crisis Calls for Greener Drug Design ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22150%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/public-health/facts-about-the-pharmaceutical-pollution-crisis-and-greener-drug-design/)
+[![35 Facts About Mikhail Popkov ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%221%22 height=%221%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/people/35-facts-about-mikhail-popkov/)
 
-Public Health
+People
 
-27 Nov 2024
+28 Nov 2024
 
-[The Pharmaceutical Pollution Crisis Calls for Greener Drug Design](https://facts.net/fitness-and-wellbeing/public-health/facts-about-the-pharmaceutical-pollution-crisis-and-greener-drug-design/)
+[35 Facts About Mikhail Popkov](https://facts.net/history/people/35-facts-about-mikhail-popkov/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
