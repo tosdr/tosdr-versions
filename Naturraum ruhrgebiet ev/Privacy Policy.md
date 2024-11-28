@@ -42,6 +42,9 @@ Heidestraße 20
 47166 Duisburg  
    
 
+Wir bedanken uns für die Unterstützung durch  
+![Logo Easyverein](img/easyverein.jpg)
+
  **Datenschutzerklärung**
 
 Der Server schreibt automatisch Logfiles, in denen die Zugriffe und die IP-Adressen der Zugreifenden gespeichert werden. Diese sind nicht personenbezogen. Ihre Daten sind uns sehr wichtig. Daher werden auch keine weiteren Daten erhoben, gespeichert oder ausgewertet. Es werden keinerlei Cookies gesetzt.
