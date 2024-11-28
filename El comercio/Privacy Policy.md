@@ -31,11 +31,355 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+La sociedad adolescente
+=======================
+
+Agustín Laje es un académico de prestigio, politólogo, investigador y conferencista en varios países, incluido el Ecuador.
+--------------------------------------------------------------------------------------------------------------------------
+
+![Fausto Segovia Baus, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Fausto-Segovia-Baus.jpg)
+
+El título puede parecer raro, pero no lo es. Según las investigaciones de **Agustín Laje, en “La generación idiota: una crítica al adolescentrismo”, Harper Collins México, 2023, las categorías etarias están, paradójicamente, desactualizadas.**
+
+El autor se refiere a los **nativos digitales, a los millenials, baby boomers o X, Y, Z**. Laje explica que los cortes temporales no dicen nada interesante porque resultan demasiado obvios. Esta supuesta confusión se supera con la identificación del **idiotismo como principio homogeneizador de la cultura**, que está marcando a la sociedad adolescente en ciernes.
+
+No se trata de un insulto, agravio o algo por el estilo, sino de una **categoría sociológica, que expresa el signo de una meta generación propia de la posmodernidad**. Su postura es polémica, pero digna de análisis profundos, con independencia de nuestros principios, experiencias, prejuicios y conocimientos.
+
+**Agustín Laje es un académico de prestigio, politólogo, investigador y conferencista en varios países, incluido el Ecuador**. En mi concepto, Laje es irreverente y transgresor; provoca un pensamiento diferente y replantea el mundo que vivimos desde visiones vanguardistas mediante una propuesta: **la sociedad adolescente.**
+
+**“La generación idiota es una transgeneración degenerada”, expresa Laje.** Y añade: “Si bien el modelo de esa transgeneración es la adolescencia, hoy todos podemos ser adolescentes, de la manera que todos podemos ser mujeres o que todos podemos ser hombres…” **En otros términos, según Laje, “la generación idiota es el núcleo de la sociedad adolescente. No más gerontocracias. Fin a los adultocentrismos: el adolescente gobernará desde ahora nuestro mundo”**.
+
+**Su discurso cuestiona el poder decadente de los adultos en el siglo XXI**, y las nuevas tendencias de la era posmoderna, asumidas por los adolescentes, signadas por la **pérdida de sentido** \-“el desierto avanza sin freno”-, en aras de la dominación emergente **\-la frivolidad-,** que implica un recambio de significaciones -“batallas culturales”-, y **el nacimiento de un nuevo poder -el “mimético”-**, que detenta y desarrolla una nueva sociedad -la adolescente- denominado **metaverso**.
+
+Para ello, Laje pone el dedo en la llaga: **“Nuestra educación funciona como el más burdo de los adoctrinamientos”.** Y propone una **educación radical**, para superar, en su opinión, el **“Estado niñera, creado para cubrir nuestras necesidades y disciplinarnos, y saciar y estimular nuestros deseos y vigilar nuestra felicidad”.**
+
+¡Les invito a leer y disfrutar este excelente libro vanguardista!
+
+La crisis climática demanda más empleo verde
+============================================
+
+La creación de empleos verdes es una solución sostenible para mitigar los efectos del cambio climático.
+-------------------------------------------------------------------------------------------------------
+
+![Imagen creada en Ideogram con el prompt: Empleo verde para salvar el planeta de la crisis climática.](https://www.elcomercio.com/wp-content/uploads/2024/11/Empleo-verde-IA.jpg)
+
+En Ecuador, la transición hacia empleos verdes no solo es una oportunidad económica, sino una necesidad urgente ante los retos climáticos que enfrenta el país.
+
+En 2023 se catalogaron [12 mil puestos de trabajo](https://www.elcomercio.com/tendencias/ambiente/en-ecuador-12-mil-puestos-de-trabajo-que-se-llenaron-en-2023-fueron-considerados-verdes.html "https://www.elcomercio.com/tendencias/ambiente/en-ecuador-12-mil-puestos-de-trabajo-que-se-llenaron-en-2023-fueron-considerados-verdes.html") como verdes de 73 493 colocaciones exitosas, que se lograron a través del Servicio Público de Empleo. Esto representó un 16%, lo que refleja un avance en la búsqueda de un desarrollo sostenible. Sin embargo, esta cifra debe entenderse en el contexto de una crisis ambiental, que se manifiesta con eventos extremos como las sequías.
+
+La crisis hídrica es un problema acuciante en Ecuador, en consecuencia se ha considerado como la sequía más severa en seis décadas. Este fenómeno impacta la agricultura, que es vital para la economía, pero también puso en riesgo el suministro de agua potable y la generación de energía hidroeléctrica. En este contexto, los empleos verdes emergen como una solución altamente viable. La promoción de prácticas sostenibles en sectores como la agricultura y la energía puede ayudar a mitigar estos efectos adversos.
+
+Los empleos verdes son aquellos que contribuyen a reducir el impacto ambiental y promover la sostenibilidad. Esto incluye desde la implementación de energías renovables hasta la gestión eficiente del agua y la reforestación. Sin embargo, es crucial que estos trabajos sean también decentes, ofreciendo condiciones laborales justas y seguras. La informalidad en sectores como el reciclaje demuestra que no todos los empleos verdes cumplen con estos estándares. Esto subraya la importancia de políticas que aseguren derechos laborales adecuados.
+
+Además, Ecuador está expuesto a riesgos naturales significativos debido a su geografía y clima. Los desastres naturales, como inundaciones y deslizamientos de tierra, son frecuentes y devastadores. Esto resalta la necesidad de una estrategia integral que incorpore la resiliencia climática en el diseño de empleos verdes. Las iniciativas deben enfocarse no solo en crear puestos de trabajo, sino también en preparar a la ciudadanía para enfrentar y adaptarse a los cambios extremos del clima.
+
+> Es fundamental que el gobierno ecuatoriano junto con organismos internacionales y el sector privado, continúe impulsando políticas que fomenten la creación de empleos verdes.
+
+La estrategia ‘Empleos Verdes’ del Ministerio del Trabajo es un paso positivo hacia esta dirección. Sin embargo, se necesita un compromiso más profundo para garantizar que estos trabajos no solo sean numerosos, sino también sostenibles y justos en el tiempo.
+
+En conclusión, Ecuador tiene una oportunidad única para transitar hacia una economía verde mediante el impulso de empleos con enfoque sostenible. Esto no solo contribuirá a enfrentar los desafíos ambientales actuales sino que también puede ser un motor para el desarrollo social y económico del país.
+
+La clave estará en asegurar que esta transición sea inclusiva y equitativa. Y de esta forma se beneficia a todos los sectores de la sociedad mientras se protege el medio ambiente.
+
+Cartas a Quito / 28 de noviembre de 2024
+========================================
+
+Estas son las cartas a Quito de este jueves 28 de noviembre de 2024
+-------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Noviembre: mes de las leyendas y tradiciones ecuatorianas
+---------------------------------------------------------
+
+Nuestro País, a no dudarlo, es demasiado óptimo y bendecido, no solo por la belleza de sus paisajes, la variedad de su clima, su flora, su fauna, sus riquezas minerales y, especialmente, por la calidez de su gente, lo que la convierte en un verdadero paraíso codiciado por turistas tanto nacionales como extranjeros. Desde luego, sin dejar de mencionar nuestra riqueza cultural en cuanto se refiere a sus costumbres ancestrales, leyendas y tradiciones, elementos que, a no dudarlo, deberían enorgullecernos, pues son las que definen nuestra identidad cultural.
+
+Es menester entonces hacer acopio de estas pródigas riquezas y tratar, a toda costa de difundirlas por todos los medios a nuestro alcance, más aún tomando en consideración que el mes de noviembre, según la Declaratoria Municipal 2543 ha sido declarado como el mes de la leyenda y la tradición ecuatoriana, Esto implica que los ecuatorianos deberíamos indagar y promover la memoria colectiva sobre los personajes mitológicos que dieron origen a esta  difusión en conocidas leyendas y mitos, con personajes como: duendes, aparecidos, fantasmas, almas en pena,  cucuruchos, shamanes, viudas, cucos, etc.
+
+Nos preguntamos entonces ¿Por qué no hacer acopio de estas costumbres e incentivar a los escolares (niños y jóvenes)  a conocer estos imponderables tesoros culturales, organizando diversas actividades alusivas como: concursos escritos y orales, dramatizaciones, videos, obras de teatro, trabajos de investigación sobre las leyendas que se cuentan en las diferentes regiones (Costa, Sierra, Oriente, incluyendo nuestras famosas Islas Encantadas)  como por ejemplo: ¿La mano negra, la caja ronca, el Yavirac, Cantuña, el padre Almeida, Bella aurora, etc. etc.? Todas ellas poseedoras de maravillosas y auténticas historias y leyendas de gran interés y valía, dignas de ser conocidas por propios y extraños y tratar de difundirlas tanto a nivel nacional como internacional para, de esta manera, ir reemplazando a las celebraciones foráneas e importadas como el Halloween.
+
+Estos cambios culturales son, sin duda,  otra manera de respetar y rendir pleitesía a nuestro amado suelo Patrio, protegiendo nuestra identidad y dando valor a lo auténticamente nuestro.
+
+Fabiola Carrera Alemán
+
+Ley que limita la venta de sustitutos de leche materna ¿es realmente viable?
+============================================================================
+
+La Asamblea en Ecuador aprobó la Ley en este noviembre de 2024. Esta tiene detalles sobre la lactancia materna y algunas limitaciones.
+--------------------------------------------------------------------------------------------------------------------------------------
+
+![Imagen referencial de lactancia materna.](https://www.elcomercio.com/wp-content/uploads/2024/11/lactancia.jpg)
+
+El Pleno de la **Asamblea Nacional** de Ecuador, en este noviembre de 2024, aprobó el proyecto de **Ley Orgánica de Fomento, Apoyo y Protección a la Lactancia Materna**[.](https://es.wikipedia.org/wiki/Ecuador)
+
+En la normativa se incluyó la prohibición de la venta libre de sucedáneos (sustitutos o complementos) de leche materna. Esta aún debe pasar por el veto del presidente **Daniel Noboa**.
+
+### Más noticias
+
+* [Propuesta de Daniel Noboa sobre bases militares tiene cronograma en la Asamblea](https://www.elcomercio.com/actualidad/politica/propuesta-daniel-noboa-bases-militares-cronograma-asamblea.html "Propuesta de Daniel Noboa sobre bases militares tiene cronograma en la Asamblea")
+* [Juez dicta medidas cautelares contra funcionaria de la Asamblea que participó en las marchas](https://www.elcomercio.com/actualidad/politica/juez-dicta-medidas-cautelares-funcionaria-asamblea-marchas.html "Juez dicta medidas cautelares contra funcionaria de la Asamblea que participó en las marchas")
+* [Día de la Eliminación de la Violencia contra las Mujeres se vive con unión y ‘Esperanza’](https://www.elcomercio.com/actualidad/seguridad/dia-de-la-eliminacion-de-la-violencia-contra-las-mujeres-se-vive-con-union-y-esperanza.html "Día de la Eliminación de la Violencia contra las Mujeres se vive con unión y ‘Esperanza’")
+
+Leche materna y la Asamblea en Ecuador
+--------------------------------------
+
+La Ley aprobada por la **Asamblea** establece que los sustitutos o complementos a la leche materna solo podrán ser comercializados bajo prescripción médica y deberán llevar una etiqueta indestructible con la información necesaria.
+
+La norma, además, regula la promoción y donación de preparaciones para **lactantes** o productos que puedan reemplazar con propiedades similares a leche materna.
+
+Esto va tanto para los establecimientos del **sistema nacional de salud** cuanto al público en general, salvo en situaciones de emergencia.
+
+En la **Asamblea** se atribuyó la norma a garantizar los derechos de los niños en relación con la lactancia materna, promoviendo su alimentación y desarrollo saludable.
+
+Según declaraciones de la asambleísta **Sofía Sánchez**, el 50 % de los niños menores de 6 años no recibieron leche materna, una cifra que refleja la grave crisis de **desnutrición infantil** que afecta a más del 30% de los niños en el país.
+
+La norma y detalles
+-------------------
+
+La norma incluye el control de los centros de recolección de **leche materna**. Esta será procesada para ser distribuida a centros de salud y hospitales de acuerdo con las necesidades de los lactantes.
+
+Se dará prioridad a aquellos en situaciones críticas o con **requerimientos médicos** especiales.
+
+También se incluye que el **profesional médico** de instituciones públicas y privadas debe recomendar y fomentar como único alimento la leche materna para el menor de 6 meses y su prolongación hasta los 2 años. Solamente en situaciones especiales podrá recomendar los sustitutos.
+
+¿Hasta dónde es viable la norma?
+--------------------------------
+
+**María Isabel Zurita**, docente de Derecho, hace énfasis en que no cabe duda de que la lactancia materna es un derecho natural de los niños.
+
+No obstante, recuerda que, en 1981, la Asamblea Mundial de la Salud de los Estados Miembro de la **Organización de Naciones Unidas** aprobó el Código Internacional de Comercialización de Sucedáneos de la Leche Materna.
+
+Ese instrumento recoge recomendaciones dirigidas a asegurar la lactancia materna natural y regular la comercialización de los sucedáneos de la leche materna. Esto con el propósito de frenar su comercialización agresiva e indebida como sustitutos de la leche materna.
+
+En Ecuador, ya en noviembre de 1995, se promulgó la **Ley de Fomento, Apoyo y Protección a la Lactancia Materna**.
+
+Sin embargo, Zurita apunta que, en una decisión cuestionable, recientemente la [Asamblea Nacional](https://www.asambleanacional.gob.ec/es) aprobó una norma en esa línea, pero, para prohibir la venta libre de sucedáneos de **leche materna**, disponiendo que esos productos solo puedan ser comercializados, bajo prescripción médica.
+
+La catedrática agrega que, si bien la lactancia materna es un derecho fundamental e indiscutible, el establecer tal prohibición, parece desconocer contextos sociales que deben tomarse en cuenta, así como que las realidades de las **madres y los niños** son diversas.
+
+Los contextos diversos
+----------------------
+
+**María Isabel Zurita** detalla, por ejemplo, que no se ha considerado que para implementar tal prohibición se requerirá mayor flexibilización laboral para las madres que estén en periodo de lactancia.
+
+Además, dice, no se contempló que para mantener el banco de leche necesaria, esta debe almacenarse en refrigeración, “cuando el **Estado** ni siquiera está siendo capaz de asegurar una dotación regular del servicio básico de electricidad, ni mucho menos se ha considerado cómo dicha prohibición podría afectar  eventualmente al niño y limitar el acceso en condiciones de igualdad de las **mujeres** en el ámbito laboral”.
+
+Ella hace énfasis en: **“¿Qué ocurre en los contextos en que por condiciones médicas de la madre no pueda dar de lactar? ¿Qué ocurre en aquellas ocasiones en que la madre no cuente con la posibilidad de acceder a la receta médica porque el Estado, no ha sido capaz de asegurar un sistema de salud pública adecuado?”**.
+
+La docente recuerda que, en fallos recientes, la **Corte Constitucional** del Ecuador,  ha apostado por  asegurar las condiciones de igualdad de las mujeres a fin de garantizar su rol en el ámbito laboral y no solo en el doméstico.
+
+De hecho, esa fue una razón de peso por la que en el 2021 se declaró la inconstitucionalidad de la preferencia materna.
+
+Los beneficios de la leche materna
+----------------------------------
+
+La leche materna tiene beneficios como proteger del **sobrepeso, obesidad y diabetes** tipo 2 a los niños, así como la desnutrición e incrementa la inteligencia de los bebés.
+
+**Karina Pazmiño**, docente universitaria de la carrera de Nutrición, explica que los adultos que fueron amamantados con leche materna poseen 3,4 veces más en los indicadores de desarrollo cognitivo. La leche materna no deja huella de carbono y es un alimento renovable.
+
+La especialista detalla que se trata de un alimento perfecto desde el **punto nutricional**, protege contra infecciones gracias a las inmunoglobulinas y la muerte.
+
+También provee todos los **nutrientes**, apoya el desarrollo y crecimiento cerebral. Y, gracias a sus anticuerpos, protege el sistema inmune.
+
+También es un escudo para el asma, el eccema (trastorno de la piel), leucemia, obesidad, caries, infecciones de oído, diarrea persistente, y se relaciona con mayor coeficiente intelectual.
+
+Beneficios para la madre
+------------------------
+
+La **lactancia materna**, a la vez, ayuda a la madre a la recuperación rápida, permite que el útero vuelva a su tamaño normal y detiene el sangrado vaginal.
+
+También protege a la madre de la diabetes, presión arterial elevada, **cáncer** de mama y ovario. Protege de las fracturas en la edad adulta.
+
+Otros escenarios
+----------------
+
+**Karina Pazmiño** habla de casos especiales, en los que la **lactancia materna** se limita. Por ejemplo, un niño con galactosemia; es decir, no puede digerir la lactosa.
+
+Del mismo modo, se podría sumar la presencia de un virus de la leucemia humana de **células T** en la madre y se puede pasar al bebé por medio de la lactancia materna. Lo propio con el **virus de inmunodeficiencia adquirida (VIH)**.
+
+No se queda fuera de las limitaciones el consumo de medicamentos, agentes de **quimioterapia**, medicina para el sueño, estabilizadores del estado de ánimo y los padres deben consultar al médico si es segura la **lactancia materna**.
+
+Puntualizaciones necesarias
+---------------------------
+
+En el mercado hay **fórmulas** a base de leche de vaca, parcialmente hidrolizadas, en las que la proteína se hace más fácil de digerir y no contiene la misma cantidad de lactosa, especialmente sugerida para niños con problemas **gastrointestinales**.
+
+También hay fórmulas hipoalergénicas destinadas para niños que tienen alergia a la proteína de la leche de vaca, fórmulas deslactosadas para niños con **galactosemia**.
+
+Estados Unidos hizo nueva donación a Ecuador ¿Cuál es el fin?
+=============================================================
+
+Nueva donación de Estados Unidos a Ecuador se formalizó a través de la suscripción de una carta de entrega.
+-----------------------------------------------------------------------------------------------------------
+
+![Estados Unidos hizo una nueva donación a Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/estados-unidos-donacion-ecuador.jpg)
+
+**Estados Unidos (EE.UU.)** hizo una nueva **donación** a **Ecuador** este miércoles 27 de noviembre de 2024.
+
+La ministra de Relaciones Exteriores y Movilidad Humana, **Gabriela Sommerfeld** y el encargado de Negocios de EE.UU., **Lawrence Petroni**, suscribieron la carta de entrega.
+
+### Más noticias:
+
+* [Estados Unidos reconoce a Edmundo González Urrutia como presidente electo de Venezuela](https://www.elcomercio.com/actualidad/mundo/estados-unidos-reconoce-a-edmundo-gonzalez-urrutia-como-presidente-electo-de-venezuela.html "Estados Unidos reconoce a Edmundo González Urrutia como presidente electo de Venezuela")
+* [Daniel Noboa enfocó su agenda en el agro, durante su visita a Chimborazo](https://www.elcomercio.com/actualidad/politica/daniel-noboa-agenda-agro-visita-chimborazo.html "Daniel Noboa enfocó su agenda en el agro, durante su visita a Chimborazo")
+
+El fin de la nueva donación de Estados Unidos a Ecuador
+-------------------------------------------------------
+
+Ecuador y EE. UU. suscribieron la carta de entrega de **7,6 millones de dólares** otorgados por el Gobierno estadounidense.
+
+Este dinero será destinado al **combate a la minería ilegal** y el equipamiento junto a la profesionalización en varios puertos del país.
+
+La firma se realiza en el marco de la **Enmienda 19** al Convenio de Cooperación Bilateral entre ambos países.
+
+Este Convenio está relacionado con el fortalecimiento de la **capacidad institucional** del Ecuador para controlar la producción y el tráfico ilícito de drogas.
+
+La canciller Gabriela Sommerfeld, señaló que el presidente **Daniel Noboa** impulsa acciones para desmantelar las estructuras criminales que han surgido en los últimos años.
+
+El Gobierno, dijo Sommerfeld, busca garantizar la **justicia y la paz** para la población.
+
+La Ministra de Relaciones Exteriores y Movilidad Humana agradeció a los EE. UU. por su “**constante apoyo** a los esfuerzos del Gobierno ecuatoriano para combatir el **crimen organizado transnacional, el narcotráfico y la minería ilegal**“.
+
+“Valoramos profundamente el compromiso de su nación con la **seguridad y estabilidad** del Ecuador”, agregó.
+
+El encargado de Negocios a. i. de los Estados Unidos, Lawrence Petroni, ratificó el **respaldo** de su Gobierno al Ecuador para enfrentar estas problemáticas.
+
+Petroni destacó “la valentía del pueblo ecuatoriano para superar estos **desafíos**“.
+
+Alfonso Quirola ganó la tercera etapa de la Vuelta Automovilística al Ecuador
+=============================================================================
+
+La Vuelta Automovilística al Ecuador está a una etapa de coronar a su nuevo campeón, y Alfonso Quirola se perfila como el principal favorito para llevarse el título.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Vehículo de Alfonso Quirola, ganador de la tercera etapa de la Vuelta Automovilística al Ecuador 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-27T211828.102.jpg)
+
+El piloto Alfonso Quirola, junto a su copiloto Leo Rojas, reafirmó su dominio en la Vuelta Automovilística al Ecuador 2024 al imponerse en la tercera etapa del recorrido.
+
+A bordo de su Volkswagen Polo R5, completaron los seis tramos cronometrados entre Cañar, Chimborazo y Tungurahua en un tiempo de **1:08:20**. Sus perseguidores, Martín Navas y Luis Mena, finalizaron en segundo lugar al llegar **37 segundos después**.
+
+### Más noticias:
+
+* [¿Cómo será la Vuelta al Ecuador de automovilismo 2024?](https://www.elcomercio.com/deportes/vuelta-ecuador-automovilismo-2024-cronograma.html "¿Cómo será la Vuelta al Ecuador de automovilismo 2024?")
+* [La Fórmula 1 contará con un nuevo equipo en 2026](https://www.elcomercio.com/deportes/formula-1/formula1-nuevo-equipo-mundial-2026-f1.html "La Fórmula 1 contará con un nuevo equipo en 2026")
+* [Max Verstappen arrasó en el Gran Premio de Sao Paulo de la Fórmula 1](https://www.elcomercio.com/deportes/formula-1/max-verstappen-arraso-gran-premio-de-sao-paulo-de-la-formula-uno.html "Max Verstappen arrasó en el Gran Premio de Sao Paulo de la Fórmula 1")
+
+Con este resultado, Quirola y Rojas aumentaron su ventaja en la clasificación general, donde lideran con una diferencia de **5 minutos y 31 segundos** sobre Navas y Mena.
+
+En el tercer lugar de la general se mantiene el carchense Andrés Guerra, a bordo de su Citroën C3 N5, seguido por Byron Jiménez, de Loja, en la cuarta posición.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-27T211908.259-1024x683.jpg)
+
+Vehículo de Alfonso Quirola durante la Vuelta Automovilística al Ecuador 2024. Foto: Cortesía.
+
+¿Cuál es el cronograma de la Vuelta al Ecuador?
+-----------------------------------------------
+
+El viernes 22 de noviembre del 2024 será el primer día de la **Vuelta al Ecuador** y en él se realizarán verificaciones administrativas, técnicas y de seguridad. Asimismo, tendrá lugar el ‘shakedown‘, que es un tramo menor a siete kilómetros donde los pilotos podrán llevar al máximo a sus vehículos y definir los últimos ajustes mecánicos.
+
+Aquella prueba preliminar se llevará a cabo en la **Pista La Avanzada de El Oro**. Asimismo, allí también se presentará a las tripulaciones que formarán parte de la competencia. En aquel escenario también habrá la etapa especial ‘Superprime‘ durante el 23 de noviembre, la cual se corre en un circuito cerrado y permite que los corredores compitan en paralelo.
+
+La primera etapa será entre **El Oro y Loja** durante el 24 de noviembre, mientras que al día siguiente se celebrará entre Loja y Azuay. El martes 26 habrá descanso y el miércoles 27 se correrá entre Cañar, Chimborazo y Tungurahua.
+
+El jueves 28 habrá una etapa en Tungurahua; al siguente día, descanso. Finalmente, el sábado 30 de noviembre será la etapa **Imbabura – Pichincha** y la premiación en la capital.
+
+Daniel Noboa enfocó su agenda en el agro, durante su visita a Chimborazo
+========================================================================
+
+El presidente Daniel Noboa visitó Chimborazo y se refirió a la inversión en el agro.
+------------------------------------------------------------------------------------
+
+![Daniel Noboa habló sobre políticas para el agro en Chimborazo.](https://www.elcomercio.com/wp-content/uploads/2024/11/daniel-noboa-chimborazo.jpg)
+
+El presidente **Daniel Noboa** enfocó su agenda en el **agro**, durante su visita a la provincia de **Chimborazo**, este miércoles 27 de noviembre de 2024.
+
+El Gobierno escuchó a personas dedicadas a la agricultura e hizo la **entrega** de equipos.
+
+### Más noticias:
+
+* [Daniel Noboa oficializó la creación de la Universidad de Santo Domingo de los Tsáchilas](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-universidad-santo-domingo-tsachilas.html "Daniel Noboa oficializó la creación de la Universidad de Santo Domingo de los Tsáchilas")
+* [Corte Constitucional da paso a propuesta sobre financiamiento público a organizaciones políticas](https://www.elcomercio.com/actualidad/politica/corte-constitucional-paso-propuesta-financiamiento-publico-organizaciones-politicas.html "Corte Constitucional da paso a propuesta sobre  financiamiento público a organizaciones políticas")
+
+Daniel Noboa durante su visita a Chimborazo
+-------------------------------------------
+
+La mañana de este miércoles, el presidente Daniel Noboa se reunió con personas dedicadas a la  
+**agricultura y ganadería,** en Chimborazo.
+
+El Ministerio de Agricultura y Ganadería entregó camionetas, **tractores**, kits pecuarios y títulos de propiedad.
+
+Fueron cuatro unidades móviles para **Colta, Alausí, Guano y Riobamba**.
+
+El Gobierno señaló que, con estas camionetas, se r**educirá los costos** de producción y comercialización.
+
+“Invertir en el agro es **invertir** en el futuro de Ecuador. Este gobierno comprende la importancia de la tierra, de la siembra y del sacrificio que conlleva trabajar en el campo”, manifestó Noboa.
+
+**200 familias** dedicadas al trabajo en el campo recibieron títulos de propiedad de tierras.
+
+Además, se entregaron **50 credenciales** a productoras y productores, que les permiten vender directamente en el Mercado Mayorista de Riobamba.
+
+Se proporcionaron **51 kits** pecuarios para la producción ganadera y **11 certificados** de Agricultura Familiar Campesina.
+
+Noboa recordó que dispuso la **condonación** de las obligaciones financieras a todas las juntas de agua del país, para que “se reactiven económicamente y salgan adelante en un año difícil con la sequía”.
+
+El ministro de Agricultura y Ganadería, **Danilo Palacios**, indicó que el sector agrícola es fuente fundamental para la alimentación de las y los ecuatorianos.
+
+**14 300 productores** también recibieron tres tractores “para fomentar una producción  
+sostenible y responsable”, agregó el Gobierno.
+
+### Las reacciones
+
+**Jorge Sandoval**, agricultor de 88 años, señaló que contar con una unidad móvil agropecuaria como herramienta de trabajo le permitirá “transportar sus productos a todos los mercados”.
+
+**Mélida Catagña** recibió un kit agrícola para mejorar la técnica de pastoreo y capacitación sobre  
+desparasitación de ganado, lo que mejoró su producción, dijo.
+
+“Somos incómodos para las **mafias o partidos políticos** por los cuales la gente ya no quiere  
+votar. Así honramos su voto: entregando los recursos que son suyos”, concluyó Noboa, al referirse a la corrupción.
+
+Liga de Quito recibió una buena noticia de la Liga Pro
+======================================================
+
+Liga de Quito se juega mucho en el tramo final de la Liga Pro.
+--------------------------------------------------------------
+
+![Alexander Domínguez en un partido con Liga de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-27T203517.948.jpg)
+
+**Liga de Quito** tendrá este jueves 28 de noviembre su audiencia de apelación y resolución sobre la sanción que le restó tres puntos. Sin embargo, este miércoles, el club recibió una noticia que trajo alegría al mundo albo.
+
+Mientras se espera la resolución sobre la posible devolución de puntos en la **Liga Pro**, el ‘Rey de Copas’ puede respirar aliviado. **Alexander Domínguez**, quien fue expulsado en el partido contra Universidad Católica, solo cumplirá un partido de suspensión por la tarjeta roja que recibió.
+
+### Más noticias:
+
+* [Liga de Quito y su pelea por los puntos, ¿tienen posibilidad de recuperarlos?](https://www.elcomercio.com/deportes/futbol/liga-de-quito-pelea-por-puntos-tienen-posibilidad-de-recuperarlos.html "Liga de Quito y su pelea por los puntos, ¿tienen posibilidad de recuperarlos?")
+* [Liga de Quito ya tiene fecha y hora para audiencia de apelación](https://www.elcomercio.com/deportes/futbol/liga-de-quito-tiene-fecha-hora-audiencia-apelacion.html "Liga de Quito ya tiene fecha y hora para audiencia de apelación")
+* [Liga Pro tomó una tajante decisión sobre Liga de Quito y su sanción](https://www.elcomercio.com/deportes/futbol/liga-pro-tomo-una-tajante-decision-sobre-liga-de-quito-y-su-sancion.html "Liga Pro tomó una tajante decisión sobre Liga de Quito y su sanción")
+
+Domínguez estará disponible para una hipotética final
+-----------------------------------------------------
+
+En la penúltima jornada de la segunda etapa, **Liga de Quito venció 2-4 a Universidad Católica** en el Olímpico Atahualpa, pero Alexander Domínguez fue expulsado tras cometer un penal en los minutos finales.
+
+Esto generó incertidumbre en el entorno albo, ya que el arquero corría el riesgo de perderse un eventual partido de ida en una final. Sin embargo, la Liga Pro publicó este miércoles 27 de noviembre que “Dida” recibió únicamente un partido de suspensión por **“malograr una oportunidad manifiesta de gol”.**
+
+Esto significa que Domínguez no estará en la última jornada ante **Deportivo Cuenca,** pero estará disponible para una eventual final, en caso de que Liga la dispute. Gonzalo Valle será el encargado de custodiar el arco albo este domingo 1 de diciembre en el Rodrigo Paz Delgado.
+
+A la espera de recuperar los puntos descontados
+-----------------------------------------------
+
+Ahora, Liga de Quito fija su atención en la **audiencia de apelación** programada para este jueves 28 de noviembre a las 17:00, donde se decidirá si se le devuelve o no los tres puntos que le fueron restados.
+
+La sanción se debió a una notificación tardía sobre **pagos pendientes a exjugadores**.
+
+Aunque el club argumenta que los pagos se realizaron dentro del plazo correspondiente. De obtener una decisión favorable, la ‘U’ recuperaría los puntos y mantendría intactas sus opciones de pelear la etapa, donde compite codo a codo con Independiente del Valle.
+
+**Liga** **de** **Quito**, que se juega el título nacional y busca seguir haciendo historia, vive días de máxima tensión y expectativa.
+
 Diana Ruiz, capitán de la avioneta siniestrada, es velada en Píllaro, Tungurahua
 ================================================================================
 
-Una capilla ardiente se levantó en la Escuela de Aviación Cosme Rennella en honor a la capitán de la avioneta siniestrada, Diana Ruiz y el cadete, Juan Pacheco, por la tarde.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Una capilla se levantó en la Escuela de Aviación Cosme Rennella en honor a la capitán de la avioneta siniestrada, Diana Ruiz y el cadete, Juan Pacheco.
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![La capitán de la avioneta siniestrada en Santa Elena, Diana Ruiz, es velada en Píllaro.](https://www.elcomercio.com/wp-content/uploads/2024/11/diana-ruiz-avioneta-siniestrada.jpg)
 
@@ -663,457 +1007,3 @@ En el siguiente artículo, Noboa exhorta a la Asamblea a tramitar el proyecto �
 Si la Asamblea lo aprueba, el proyecto **pasará a referéndum** para que los ecuatorianos tomen la decisión final.
 
 Los fondos que hoy reciben los partidos políticos se destinarán a sectores prioritarios como salud, educación y seguridad.
-
-Gabriel Cortez, héroe ‘militar’ y goleador de la Copa Ecuador
-=============================================================
-
-Gabriel Cortez se formó en Independiente del Valle y en el 2024 fue su verdugo en la Copa Ecuador.
---------------------------------------------------------------------------------------------------
-
-![Gabriel Cortez es el goleador histórico de la Copa Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/cortez_goleador_1.jpg)
-
-**Gabriel Cortez** fue determinante para que El Nacional gane el título de la Copa Ecuador 2024. En la final disputada este miércoles 27 de noviembre fue el autor del 1-0 sobre Independiente del Valle.
-
-Más de 25 000 hinchas de El Nacional llenaron gran parte del Rodrigo Paz Delgado y **gritaron a todo pulmón el gol de Gabriel Cortez** al final del primer tiempo. Su remate pasó en medio de la piernas de un derrotado Moisés Ramírez.
-
-### Más noticias:
-
-* [Keny Arroyo, mejor jugador de la fecha 14 de la Liga Pro](https://www.elcomercio.com/deportes/futbol/keny-arroyo-independiente-valle-ligapro.html "Keny Arroyo, mejor jugador de la fecha 14 de la Liga Pro")
-* [Paúl Vélez, el DT ecuatoriano con más puntos en 2024](https://www.elcomercio.com/deportes/futbol/paul-velez-puntos-liga-pro.html "Paúl Vélez, el DT ecuatoriano con más puntos en 2024")
-* [Liga de Quito ya tiene fecha y hora para audiencia de apelación](https://www.elcomercio.com/deportes/futbol/liga-de-quito-tiene-fecha-hora-audiencia-apelacion.html "Liga de Quito ya tiene fecha y hora para audiencia de apelación")
-
-El ‘Loco’ Cortez salió a festejar el gol con sus compañeros y los miles de hinchas de los rojos celebraron a rabiar el tanto en las gradas, que abrió la puerta para creer que conseguir un nuevo título era posible.
-
-La última **corona de los ‘militares’ fue en el torneo local de 2006**. El 17 de diciembre de ese año empataron 0-0 ante Olmedo en el Olímpico de Ibarra y bordaron la estrella 13 en su glorioso y pesado escudo.
-
-Desde 2006 a 2024 mucha agua corrió debajo del puente de los ‘Puros Criollos’. La más dramática la vivieron en al **cierre de la 2020 con el descenso a la Serie B**, pero en el 2023 regresaron a la máxima categoría del fútbol de Ecuador.
-
-El 2024 no ha sido del todo fácil. En medio de problemas económicos han afrontado una temporada que está terminando con el título de la Copa Ecuador y con la clasificación a la Copa Libertadores de 2025.
-
-En medio de ese panorama surgió la figura del ‘Loco’, que llegó **como refuerzo para la segunda mitad del año**, una vez que fue desechado por el argentino Ariel Holan, entrenador de Barcelona SC que nunca lo tuvo en cuenta.
-
-![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/11/cortez_goleador_2-1024x683.jpg)
-
-Foto: API.
-
-Gabriel Cortez, el goleador de la Copa Ecuador
-----------------------------------------------
-
-Gabriel Cortez no solo es una de las figuras de El Nacional en la Copa Ecuador, **sino que es el goleador histórico de la competencia**.
-
-**Cortez anotó nueve 10 goles**. En el 2019 la jugó con Emelec, en el 2022 con 9 de Octubre y en el 2024 con El Nacional. En total según Transfermarkt, lleva jugados 16 encuentros en la Copa Ecuador.
-
-Con el ‘Bombillo’ anotó dos tantos en cuatro partidos; con los octubrinos seis en siete juegos; y con los capitalinos tres en cinco compromisos.
-
-El podio de los goleadores se completa con **Edinson Mero, actualmente en Guayaquil City**; y José Lugo, delantero de Cuniburo, que tiene siete tantos cada uno.
-
-Cortez nació en **Esmeraldas el 10 de octubre de 1995. Se formó en Independiente del Valle** en donde debutó en el 2012 como una de las primeras promesas de una de las canteras más prodigiosas del mundo.
-
-En 2018 vivió su primera experiencia internacional en Lobos BUAP de México. Para el 2019 regresó a Ecuador para jugar en Emelec, **pero en el 2020 se volvió a marchar para defender la camiseta** del Botafogo de Brasil, en el primer semestre, y en el segundo de Guayaquil City.
-
-Del 2021 al 2024 su carrera se alternó entre **Barcelona SC, 9 de Octubre y finalmente El Nacional**.
-
-La Copa Ecuador es el primer título en la carrera del mediocampista de 29 años de edad.
-
-San viernes
------------
-
-Los dinosaurios sonaban diferente a ‘Jurassic Park’ y la ciencia lo explica 
-============================================================================
-
-Los dinosaurios no rugían como en 'Jurassic Park'. La ciencia revela sus verdaderos sonidos.
---------------------------------------------------------------------------------------------
-
-![Los dinosaurios probablemente no rugían como creemos. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/11/Jurassic-Park-sonidos-dinosaurios.jpg)
-
-Desde su estreno en 1993, **‘Jurassic Park’** ha dejado una huella en la **cultura popular**. Sin embargo, la **representación de los dinosaurios** en la película ha llevado a una percepción errónea sobre **cómo realmente sonaban** estos gigantes prehistóricos. ¿Cuál es la ciencia sobre los sonidos de los dinosaurios? 
-
-### Más noticias
-
-* [Los dinosaurios ‘raptores’ vivieron 10 millones de años antes, según investigación](https://www.elcomercio.com/tendencias/ciencia/dinosaurios-raptores-vivieron-antes-investigacion.html "https://www.elcomercio.com/tendencias/ciencia/dinosaurios-raptores-vivieron-antes-investigacion.html")
-* [‘Jurassic World: Dominion’ será el título del nuevo filme de la saga jurásica](https://www.elcomercio.com/tendencias/entretenimiento/jurassic-world-filme-saga-jurasica.html "https://www.elcomercio.com/tendencias/entretenimiento/jurassic-world-filme-saga-jurasica.html")
-
-**La creación de los sonidos en ‘Jurassic Park’** 
---------------------------------------------------
-
-El desafío de **recrear los sonidos de los dinosaurios** fue monumental. **Gary Rydstrom**, diseñador de sonido de la película, utilizó una mezcla ingeniosa de **grabaciones de animales vivos** para dar vida a los rugidos y gritos que resonarían en la pantalla. Por ejemplo, el icónico rugido del **Tyrannosaurus rex** fue creado combinando el sonido de un **koala, un tigre y un elefante bebé**, según [Univisión](https://www.univision.com/entretenimiento/cine-y-series/pelicula-jurassic-park-rugidos-t-rex-sonidos-koalas "https://www.univision.com/entretenimiento/cine-y-series/pelicula-jurassic-park-rugidos-t-rex-sonidos-koalas"). 
-
-Esta mezcla no solo **buscaba ser aterradora**, sino también memorable. Rydstrom pasó meses en la búsqueda de **sonidos inusuales en la naturaleza**. La clave estaba en **ajustar las frecuencias** para lograr un efecto impactante. Así, el **rugido del T-Rex** se convirtió en uno de los más reconocibles del cine, pero poco tiene que ver con lo que realmente pudo haber sonado, siguiendo con Univisión. 
-
-**La ciencia detrás de los sonidos** 
--------------------------------------
-
-**Investigaciones recientes** han revelado que los dinosaurios probablemente **no emitían los rugidos espectaculares** que hemos llegado a asociar con ellos. Según la paleontóloga **Julia Clarke**, los dinosaurios carnívoros como el **T-Rex** probablemente hacían **vocalizaciones cortas y profundas**, posiblemente inaudibles para el oído humano, según informa [Hipertextual](https://hipertextual.com/2020/10/sonidos-dinosaurios "https://hipertextual.com/2020/10/sonidos-dinosaurios").  
-
-Esto se debe a que **emitir sonidos fuertes** durante la caza sería contraproducente, al alertar a sus presas. Los estudios sugieren que muchos dinosaurios podrían haber utilizado un **rango vocal más bajo** y sutil para comunicarse. Esto contrasta drásticamente con las **representaciones cinematográficas** que muestran a estos animales como criaturas ruidosas y agresivas. En realidad, su comportamiento podría haber sido mucho más **silencioso y calculador**, a decir de Hipertextual.  
-
-**Comparación entre realidad y ficción** 
------------------------------------------
-
-A continuación, se presenta **una tabla que compara** algunos de los sonidos ficticios más conocidos con lo que se cree que podrían haber sido en realidad. 
-
-![Foto: Captura de pantalla.](https://www.elcomercio.com/wp-content/uploads/2024/11/Jurassic-Park-sonidos-dinosaurios-1-1024x683.jpg)
-
-Foto: Captura de pantalla.
-
-Esta tabla ilustra cómo las interpretaciones cinematográficas han **distorsionado nuestra percepción** sobre cómo podrían haber sonado realmente estos animales. 
-
-**Los dinosaurios en la cultura pop** 
---------------------------------------
-
-La influencia de **‘Jurassic Park’** ha sido tan profunda que ha moldeado no solo nuestra percepción de los dinosaurios, sino también nuestra **cultura popular**. Los rugidos y gritos han sido **imitados en otras películas**, programas de televisión y videojuegos. Sin embargo, esta representación ha llevado a generaciones a creer en **una imagen distorsionada** de estos animales prehistóricos. Los documentales y programas educativos han comenzado a **corregir esta narrativa**. Con avances en la **paleontología y tecnología acústica**, ahora es posible hacer inferencias más precisas sobre cómo podrían haberse comunicado estos seres extintos, concluye Hipertextual.  
-
-Asamblea Nacional rechazó proyecto de ley económica urgente
-===========================================================
-
-La Asamblea Nacional archivó un proyecto económico urgente, rechazando nuevos impuestos.
-----------------------------------------------------------------------------------------
-
-![Asamblea Nacional aprobó archivar el proyecto de ley económica urgente.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-65-1.jpg)
-
-Con 84 votos, la Asamblea Nacional **rechazó y archivó el proyecto de Ley Orgánica para la Mejora Recaudatoria mediante el Combate al Lavado de Activos**. Esta propuesta, presentada con carácter **económico urgente**, buscaba generar cambios que fueron ampliamente cuestionados por los legisladores.
-
-### Más noticias
-
-* [Asamblea Nacional aprobó avance del proyecto de alivio financiero a segundo debate](https://www.elcomercio.com/actualidad/politica/asamblea-nacional-aprueba-avance-proyecto-alivio-financiero-segundo-debate.html "Asamblea Nacional aprobó avance del proyecto de alivio financiero a segundo debate")
-* [Asamblea Nacional tomó una decisión sobre el juicio político contra Andrea Arrobo](https://www.elcomercio.com/actualidad/politica/asamblea-nacional-tomo-decision-juicio-politico-andrea-arrobo.html "Asamblea Nacional tomó una decisión sobre el juicio político contra Andrea Arrobo")
-* [Asamblea aplazó debate sobre el Código Orgánico de Protección Integral a Niñas, Niños y Adolescentes](https://www.elcomercio.com/actualidad/politica/asamblea-aplazo-debate-codigo-organico-proteccion-integral-ninos-adolescentes.html "Asamblea aplazó debate sobre el Código Orgánico de Protección Integral a Niñas, Niños y Adolescentes")
-
-En reiteradas declaraciones, la presidenta del órgano legislativo, **Viviana Veloz**, destacó el compromiso de la Asamblea con las **familias ecuatorianas**. Aseguró que no se permitirán nuevas cargas tributarias para la clase trabajadora.
-
-“Estamos aquí para proteger los **bolsillos de los ecuatorianos**, especialmente de los más vulnerables”, afirmó durante una intervención reciente.
-
-> [#ComunicadoAsamblea](https://twitter.com/hashtag/ComunicadoAsamblea?src=hash&ref_src=twsrc%5Etfw) | Asamblea Nacional del Ecuador negó y archivó proyecto de ley para la Mejora Recaudatoria, a través del Combate al Lavado de Activos, calificado como urgente en materia económica.[#JuntosLegislamos](https://twitter.com/hashtag/JuntosLegislamos?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/07dxz2nbb7](https://t.co/07dxz2nbb7)
-> 
-> — Asamblea Nacional (@AsambleaEcuador) [November 27, 2024](https://twitter.com/AsambleaEcuador/status/1861876387386142859?ref_src=twsrc%5Etfw)
-
-Debate legislativo y cuestionamientos al proyecto
--------------------------------------------------
-
-El **27 de noviembre**, durante el primer debate del proyecto, varios asambleístas **expresaron que la propuesta no ofrecía estrategias efectivas** para combatir el lavado de activos. Entre los argumentos principales, señalaron que el verdadero objetivo de la iniciativa era **imponer más impuestos** a los ciudadanos.
-
-Las críticas se centraron en los efectos negativos que la **medida podría tener sobre los sectores de ingresos medios y bajos,** quienes ya enfrentan una situación económica complicada. Este impacto, según los legisladores, agravaría aún más las **desigualdades sociales en el país**.
-
-Razones detrás de la negación y archivo
----------------------------------------
-
-La moción para archivar la propuesta fue liderada por el legislador Jorge Peñafiel, quien resaltó que el proyecto carecía de una **planificación técnica adecuada**. Según Peñafiel, su implementación representaría una reubicación de recursos que afectaría directamente a la **calidad de vida de la ciudadanía**.
-
-“El mensaje es claro: **no permitiremos más impuestos** que perjudiquen a los sectores vulnerables”, subrayó tras la votación.
-
-El Nacional venció a Independiente y es campeón de la Copa Ecuador
-==================================================================
-
-Independiente del Valle y El Nacional jugarán la final de la Copa Ecuador 2024.
--------------------------------------------------------------------------------
-
-![Gabriel Cortez celebra el gol del título de El Nacional en la Copa Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/final_copa_6.jpg)
-
-El Nacional se proclamó como el nuevo campeón de la Copa Ecuador al vencer por 1-0 a Independiente del Valle con un solitario gol de Gabriel ‘Loco’ Cortez, la tarde de este miércoles 27 de noviembre de 2024.
-
-La final de la Copa Ecuador entre Independiente del Valle y El Nacional se jugó en el estadio Rodrigo Paz Delgado. **Más de 25 000 hinchas**, en su mayoría de los rojos, llegaron hasta el escenario ubicado al norte de la capital ecuatoriana.
-
-### Más noticias:
-
-* [Liga de Portoviejo definió fecha y hora para semifinal ante 22 de Julio](https://www.elcomercio.com/deportes/futbol/liga-portoviejo-partido-horario-22julio-ascenso.html "Liga de Portoviejo definió fecha y hora para semifinal ante 22 de Julio")
-* [Javier Mascherano, nuevo entrenador del Inter Miami](https://www.elcomercio.com/deportes/futbol/javier-mascherano-dt-inter-miami.html "Javier Mascherano, nuevo entrenador del Inter Miami")
-* [Esther Galarza correrá en Europa con Pato Bike BMC Team](https://www.elcomercio.com/deportes/esther-galarza-historia-vuelta-femenina-ecuador-europa.html "Esther Galarza correrá en Europa con Pato Bike BMC Team")
-
-El campeón de la **Copa Ecuador ganó un premio económico de 340 000 dólares**. En lo deportivo, el ‘Nacho’ se hizo acreedor al cuarto cupo del país para la Copa Libertadores 2025, donde arrancará desde la fase uno de eliminación.
-
-El corto palmarés de la Copa Ecuador tiene a El Nacional como el primer campeón en 1970. **En 2019 la corona recayó en manos de Liga de Quito**, en el 2022 en Independiente del Valle y en el 2024 regresa a los ‘Puros Criollos’.
-
-El IDV ganó su último trofeo en el 2023. Derrotó en la **final única de la Supercopa Ecuador a Aucas** por un marcador de 3-0. El compromiso se realizó en el estadio La Cocha de Latacunga.
-
-La espera de los rojos por una consagración fue larga. La última vez fue campeón en el torneo nacional de 2006. El **entrenador en esa ocasión fue Éver Hugo Almeida**, actualmente en el Mushuc Runa de la provincia del Tungurahua.
-
-En vivo: IDV vs. El Nacional
-----------------------------
-
-* Los equipos saltan a la cancha. Independiente con camiseta rosada y El Nacional con la azul.
-* Se entonan las notas del Himno de Ecuador.
-* Yerson Zambrano es el árbitro central. Roddy Zambrano está a cargo del VAR.
-* Ceca de 20 000 personas en el estadio, en su mayoría de los ‘Puros criollos’.
-* Richard Schunke (IDV) y David Cabezas (EN) los capitanes de los finalistas.
-
-### Primer tiempo
-
-1′: Arranca el partido en el Rodrigo Paz Delgado.
-
-3′: Primeros minutos de estudio. No existe opciones de gol sobre ninguna de las porterías.
-
-7′: Un partido de mediocampo. Pocos acercamientos a los arcos.
-
-9′: Primera jugada de peligro de El Nacional. Jorge Ordóñez remata con su cabeza un tiro de esquina, pero Gabriel Cortez se interpuso en posición adelantada.
-
-10′: Responde IDV. Una jugada desde un tiro de esquina es rechazada en extremo por la defensa de los rojos.
-
-13′: IDV domina las acciones. El balón está en su posesión y poco a poco genera más opciones de gol.
-
-15′: Un error de Moisés Ramírez por poco termina en gol del ‘Nacho’.
-
-16′: Por poco gol olímpico de Cortez. Su remate pegó en el vertical izquierdo del arco de Ramírez.
-
-20′: El Nacional acecha a los ‘rayados’ y le genera más de un dolor de cabeza.
-
-24′: Se lo pierde Keny Arroyo. Un contragolpe termina en un remate desviado del joven mediocampista ecuatoriano de Independiente.
-
-26′: Tarjeta amarilla para Fernando Mora, jugador de El Nacional.
-
-30′: Arroyo es el jugador más dinámico de IDV. Un remate suyo sale cerca del arco militar.
-
-33′: Se salva IDV. Luis Arce solo frente a Ramírez envía su remate al cuerpo del arquero guayaquileño.
-
-37′: Nuevo contragolpe de IDV. Daniel Patiño salva un remate de Yaimar Medina de los rayados.
-
-43′: Goooooooooooooooool de El Nacional. Gabriel Cortez abre el marcador y anota el 0-1 con un remate que pasa entre las piernas de Ramírez.
-
-45′: El árbitro añade dos minutos de adición.
-
-45+2′: Finaliza el PT. El Nacional gana 1-0 a Independiente del Valle.
-
-![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/11/final_copa_3-1024x683.jpg)
-
-Foto: API.
-
-### Segundo tiempo:
-
-45′: Arranca el ST en el Rodrigo Paz Delgado.
-
-45′: Cambios en IDV: salen Carabajal y García para que ingresen Michael Hoyos y Luis Zárate.
-
-46′: Tarjeta amarilla para Luis Arce por una fuerte falta sobre Yaimar Medina.
-
-52′: IDV se acerca con un golpe de cabeza de Michael Hoyos.
-
-60′: Arroyo sigue siendo el jugador más peligroso de IDV. Un nuevo remate muere en las manos de David Cabezas.
-
-63′: Remate de Renato Ibarra por poco termina en en el empate 1-1, pero Cabezas contiene el esférico y Bedoya lo saca al tiro de esquina.
-
-64′: Tarjeta amarilla para Cortez por reclamos al juez central.
-
-65′: Cabezazo de Luis Zárate sale cerca del arco de Cabezas.
-
-65′: Cambio en IDV: Sale Joao Ortiz para que ingrese Kendry Páez.
-
-71′: Tarjeta amarilla para Zárate de IDV.
-
-76′: Cambios en IDV: ingresan Justin Lerma y Romario Ibarra por Arroyo y Renato Ibarra.
-
-78′: Cambios en El Nacional: Salen Fernando Mora y Alejandro Cabeza por Mario Pineida y Charles Vélez.
-
-82′: Cambio en El Nacional: Sale Gabriel Cortez para que ingrese Gustavo Asprilla.
-
-87′: Por poco empata IDV. Zárate se pierde el 1-1.
-
-90′: Se adicionan seis minutos.
-
-92+2′: El Nacional cerca del 2-0. Ramírez desvía el balón al tiro de esquina.
-
-90+6′: Final del partido. El Nacional ganó 1-0 y es el nuevo campeón de la Copa Ecuador.
-
-Alineación Independiente del Valle
-----------------------------------
-
-Moisés Ramírez; Matías Fernández, Mateo Carabajal, Richard Schunke y Yaimar Medina; Joao Ortiz, Cristian Zabala, Bryan García y Renato Ibarra; Keny Arroyo y Jeison Medina.
-
-DT: Javier Gandolfi.
-
-Alineación El Nacional
-----------------------
-
-David Cabezas; Daniel Patiño, Rommel Cabezas, Antonhy Bedoya y Fernando Mora; Adrián Cela, Luis Arce, Fidel Martínez y Jorge Ordóñez; Gabriel Cortez y Alejandro Cabeza.
-
-DT: Marcelo Zuleta.
-
-![Bryan García (i) y Adrián Cela en la final de la Copa Ecuador 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/final_copa_2-1024x683.jpg)
-
-Bryan García (i) y Adrián Cela en la final de la Copa Ecuador 2024.
-
-San viernes
------------
-
-Kylian Mbappé falló un penal y el Real Madrid perdió en Champions
-=================================================================
-
-Kylian Mbappé sigue sin levantar cabeza con el Real Madrid y jugó uno de sus peores partidos como profesional.
---------------------------------------------------------------------------------------------------------------
-
-![Kylian Mbappé falló un penal en la derrota del Real Madrid contra el Liverpool en la Champions League.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-27T164418.161.jpg)
-
-El **Real Madrid** no se adaptó bien al nuevo formato de la Champions League y sumó una nueva derrota. Los blancos perdieron 2-0 en su visita al Liverpool en Anfield este miércoles 27 de noviembre, por la quinta fecha del torneo.
-
-Es la tercera derrota del Real Madrid en la fase de grupos, y uno de los señalados por la derrota fue el francés **Kylian Mbappé,** quien atraviesa un mal momento en el club español y lo evidenció al fallar un penal en un momento clave del encuentro.
-
-### Más noticias:
-
-* [Calendario de ecuatorianos en la Champions League](https://www.elcomercio.com/deportes/futbol/calendario-ecuatorianos-quinta-fecha-champions-league.html "Calendario de ecuatorianos en la Champions League")
-* [Real Madrid se encomienda a Kylian Mbappé en la Champions](https://www.elcomercio.com/deportes/futbol/real-madrid-liverpool-cuando-juegan.html "Real Madrid se encomienda a Kylian Mbappé en la Champions")
-* [Sparta Praga sufrió una dura goleada en Champions sin Angelo Preciado](https://www.elcomercio.com/deportes/futbol/sparta-praga-sufrio-goleada-champions-sin-angelo-preciado-atletico-madrid.html "Sparta Praga sufrió una dura goleada en Champions sin Angelo Preciado")
-
-Con esta derrota, el **Real Madrid** se encuentra en el cuarto lugar del grupo, el último puesto de clasificación a la siguiente ronda, con solo seis puntos. Por su parte, el Liverpool se mantiene como líder invicto con 15 puntos y un paso perfecto.
-
-Un primer tiempo para olvidar
------------------------------
-
-El R**eal Madrid vivió una auténtica pesadilla** en el primer tiempo en Anfield. Los blancos se refugiaron en su área, cediendo el control del balón al Liverpool, que dominó el ritmo del partido.
-
-Si no hubiese sido por T**hibaut Courtois**, los madridistas habrían terminado los primeros 45 minutos en desventaja, pero nuevamente el portero belga estuvo excepcional, salvando en varias ocasiones a su equipo.
-
-Los visitantes **concluyeron** el primer tiempo sin realizar un solo remate a portería, una estadística preocupante para un club de la talla del **Real Madrid.**
-
-Mbappé falló y el Liverpool golpeó
-----------------------------------
-
-El Liverpool abrió el marcador al inicio del segundo tiempo, un tanto más que merecido para un equipo que insistió durante todo el primer tiempo, pero Courtois lo impidió en varias ocasiones.
-
-**Alexis Mac Allister abrió el marcador** con un gran remate cruzado dentro del área, que, pese a la estirada de Courtois, no pudo evitar que el balón se colara en las redes.
-
-A los 58 minutos, Lucas Vázquez y Dani Ceballos, quienes ingresaron como cambios, generaron un penal para el Real Madrid. Ceballos dio un gran pase a Vázquez, quien con picardía enganchó dentro del área y provocó la falta de Andrey Robertson.
-
-**Kylian Mbappé se hizo cargo de la pena máxima, pe**ro el francés, en medio de una mala racha, no pudo concretar el gol y agravó su momento negativo en el club español.
-
-Un rápido contragolpe del Liverpool, a los 68 minutos, provocó un penal a su favor. Mohamed Salah desbordó y con un regate, forzó la falta de **Ferland Mendy.** Salah se encargó de la ejecución, pero estrelló su remate en el poste.
-
-Finalmente, a los 76 minutos, Liverpool sentenció el partido. **Cody Gakpo,** quien reemplazó a Darwin Núñez, anotó de cabeza tras un gran centro, sin marca que lo impidiera.
-
-Cortes de luz en Quito este jueves 28 de noviembre
-==================================================
-
-La Empresa Eléctrica Quito publicó los nuevos horarios de cortes de luz para este jueves 28 de noviembre, en la capital.
-------------------------------------------------------------------------------------------------------------------------
-
-![Los cortes de luz en Quito este jueves 28 de noviembre son de hasta seis horas no consecutivas para el sector residencial.](https://www.elcomercio.com/wp-content/uploads/2024/11/cortes-luz-quito-jueves-28-noviembre.jpg)
-
-Los **cortes de luz** en **Quito** este **jueves 28 de noviembre** de 2024 se mantienen con una duración de seis horas no consecutivas.
-
-La **Empresa Eléctrica Quito (EEQ)** publicó los nuevos horarios de suspensión del servicio de energía eléctrica en la capital.
-
-### Más noticias:
-
-* [Ecuador lleva 60 días con cortes de luz, ¿está cerca de salir de la crisis?](https://www.elcomercio.com/actualidad/negocios/ecuador-lleva-60-dias-cortes-luz-esta-cerca-salir-crisis.html "Ecuador lleva 60 días con cortes de luz, ¿está cerca de salir de la crisis?")
-* [Energía de Colombia alivia crisis eléctrica en Ecuador, ¿en qué estado están los embalses?](https://www.elcomercio.com/actualidad/negocios/energia-colombia-crisis-electrica-ecuador-estado-embalses-cortes-luz.html "Energía de Colombia alivia crisis eléctrica en Ecuador, ¿en qué estado están los embalses?")
-
-Los horarios de cortes de luz en Quito este jueves 28 de noviembre
-------------------------------------------------------------------
-
-Hasta este **jueves 28 de noviembre**, la EEQ definió los horarios de cortes de luz para esta semana.
-
-Los quiteños están a la expectativa de los **horarios** que corresponden al viernes 29, sábado 30 y domingo 1 de diciembre.
-
-Ecuador sigue atravesando una de las peores **crisis energéticas** en las últimas décadas.
-
-La dependencia de las lluvias para el funcionamiento de las **centrales hidroeléctricas** y la falta de proyectos de energías alternativas pusieron la capacidad de producción de energía al límite.
-
-El último ofrecimiento del presidente Daniel Noboa sobre los cortes de luz a escala nacional es que no existirán para **diciembre**.
-
-Y, en Quito, la suspensión de los cortes de luz el 6 de diciembre, por las fiestas de **fundación de la capital**.
-
-Sin embargo, la generación de energía, a través de otros proyectos de inversión del actual Gobierno, se concretaría desde los primeros meses del **2025**.
-
-En tanto, el Gobierno logró restablecer el intercambio de energía con **Colombia** y las primeras lluvias de intensidad media o alta empiezan a caer en el Austro.
-
-Mientras las condiciones mejoran, Quito sigue con cortes de luz de hasta **seis horas**, divididas en dos franjas horarias para el sector residencial.
-
-A continuación, los horarios de los **cortes de luz en Quito este jueves 28 de noviembre**:
-
-Brasil teme impactos a su industria por el posible proteccionismo de Donald Trump
-=================================================================================
-
-Estados Unidos, segundo mayor socio comercial de Brasil, es uno de los principales compradores de productos industriales brasileños.
-------------------------------------------------------------------------------------------------------------------------------------
-
-![Imagen del Hotel Nacional, en Río de Janeiro.](https://www.elcomercio.com/wp-content/uploads/2024/11/Brasil-hotel-efe.jpg)
-
-El posible **aumento de los aranceles** a las exportaciones a [EE.UU](https://www.elcomercio.com/actualidad/mundo/ee-uu-sanciona-21-altos-cargos-venezuela-intentar-robar-lelecciones.html "https://www.elcomercio.com/actualidad/mundo/ee-uu-sanciona-21-altos-cargos-venezuela-intentar-robar-lelecciones.html")., prometido por el presidente electo, Donald Trump, impactaría en Brasil principalmente a la industria, ya que el sector agropecuario podría beneficiarse de una **guerra comercial**, según dirigentes patronales y analistas.
-
-### Más noticias
-
-* [Donald Trump promete más aranceles sobre China y México](https://www.elcomercio.com/actualidad/mundo/donald-trump-promete-mas-aranceles-sobre-china-y-mexico.html "Donald Trump promete más aranceles sobre China y México")
-* [El futuro Gobierno de Trump sella alianza con Texas para su plan de deportaciones](https://www.elcomercio.com/actualidad/mundo/futuro-gobierno-trump-sella-alianza-texas-plan-deportaciones.html "El futuro Gobierno de Trump sella alianza con Texas para su plan de deportaciones")
-* [Donald Trump elije a Jamieson Greer como representante comercial](https://www.elcomercio.com/actualidad/mundo/donald-trump-elije-jamieson-greer-representante-comercial.html "Donald Trump elije a Jamieson Greer como representante comercial")
-
-Estados Unidos, **segundo mayor socio comercial de Brasil,** es uno de los principales compradores de productos industriales brasileños, incluyendo aviones, aceros, hierro y petróleo.
-
-Los **exportadores de productos agropecuarios** a Estados Unidos, principalmente café, carnes, jugo de naranja y azúcar, consideran que Trump difícilmente elevará los **aranceles sobre los alimentos,** ya que ello puede causar inflación en la mayor economía mundial.
-
-“No sería sensato aumentar los aranceles sobre la importación de un producto como el café que Estados Unidos no produce y del que es el **mayor consumidor mundial**“, afirmó recientemente el presidente del Consejo de Exportadores de Café (Cecafé) de Brasil, Marcos Matos.
-
-Brasil es el principal **abastecedor de café de EE.UU.,** hacia donde van el 15 % de sus embarques del grano.
-
-Los exportadores agrícolas consideran igualmente que tienen mayor margen para desviar sus exportaciones a otros países y que, en caso de que **Estados Unidos y China** protagonicen una nueva guerra comercial, se pueden beneficiar de una mayor cuota de mercado si el **gigante asiático** reduce sus compras de alimentos estadounidenses.
-
-Desviar ventas hacia China
---------------------------
-
-“Si Trump restringe las compras, tenemos la expectativa de que Brasil consiga aumentar la venta de soja hacia China”, afirmó en declaraciones a **periodistas el presidente** de la Asociación Brasileña de Productores de Soja (Aprosoja), Mauricio Buffon, quien recuerda que eso ya ocurrió en 2019, cuando China restringió las compras de la oleaginosa de EE.UU. en respuesta a medidas proteccionistas.
-
-Para la industria, en cambio, Trump ya mostró en su primer Gobierno, con un aumento de los aranceles a productos siderúrgicos y el aluminio, que **Brasil no estaría exento de medidas proteccionistas**.
-
-En ese caso, el impacto va a depender tanto del **nivel de los nuevos aranceles** como de la capacidad de Brasil para colocar sus productos en otros mercados, explicó la coordinadora del **Índice de Comercio Exterior (Icomex) de la Fundación Getúlio Vargas**, Lia Vals.
-
-Según un estudio divulgado la semana pasada por el Icomex, Brasil es uno de los países, el séptimo en valores, con los que Estados Unidos tiene superávit en su **balanza comercial**, lo que no justifica la adopción de medidas proteccionistas.
-
-El mismo informe indica que, tras haber sido el **primer socio comercial de Brasil** en el pasado, tan solo un 11,6 % de las exportaciones brasileñas entre enero y octubre tuvieron EE.UU. como destino, muy por debajo de China (29,3 %).
-
-Además, la participación de Brasil en las **importaciones estadounidenses es muy baja**, el 2,6 % del total.
-
-El punto negativo es la **demanda estadounidense** de productos industriales brasileños, que sigue siendo fuerte.
-
-Mientras que la participación de la industria en las exportaciones brasileñas cayó desde el 81,6 % en 2001 hasta el 54,3 % en 2022, las dirigidas a Estados Unidos bajaron desde el 95,9 % al 78,8 %.
-
-La demanda de Estados Unidos por productos industriales “atenúa” la creciente **concentración en productos agropecuarios** de la pauta exportadora brasileña, alerta el Incomex.
-
-Productos más exportados por Brasil a Estados Unidos
-----------------------------------------------------
-
-Los productos más exportados por Brasil a Estados Unidos entre enero y octubre de este año fueron petróleo, con una participación del **14,6 %, semimanufacturados siderúrgicos (7,4 %), café (4,2 %), hierro fundido (3,7 %), derivados de petróleo (2,8 %), aviones (2,7 %) y productos siderúrgicos (2,1 %).**
-
-En el caso del petróleo, Estados Unidos demanda el **12 % del exportado por Brasil** y el país tiene otros 20 mercados hacia donde enviarlo.
-
-En cuanto a los aviones, la brasileña Embraer tiene a Estados Unidos como principal cliente, “pero es poco probable que los **aranceles sobre los mismos sean elevados** y, además, la empresa tiene fábrica en territorio estadounidense”, dice el Incomex. 
-
-Plaza en El Panecillo tendrá una renovación, en Quito
-=====================================================
-
-La renovación de la Plaza de las Nubes pretende dar un ambiente más moderno, seguro y acogedor para los turistas en Quito
--------------------------------------------------------------------------------------------------------------------------
-
-![Más de 2000 m2 serán intervenidos en la Plaza de las Nubes.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-57-3.jpg)
-
-Un ambicioso **proyecto urbanístico** y **turístico** pretende la **renovación** de la **‘Plaza de las Nubes’**, ubicada en El Panecillo, en el Centro Histórico de Quito. Es una apuesta del sector privado y el Municipio. El objetivo es mejorar este lugar para que sea más **amigable** con los turistas nacionales y extranjeros en una icónica loma de la capital.
-
-### Más noticias
-
-* [¿Cuál es el perfil de usuario que más viaja en el Metro de Quito?](https://www.elcomercio.com/actualidad/quito/metro-quito-perfil-usuario-viaje.html "¿Cuál es el perfil de usuario que más viaja en el Metro de Quito?")
-* [Controles de exceso de velocidad en Quito este miércoles 27 de noviembre](https://www.elcomercio.com/actualidad/quito/controles-exceso-de-velocidad-quito-miercoles-27-de-noviembre.html "Controles de exceso de velocidad en Quito este miércoles 27 de noviembre")
-* [Fiestas de Quito, ¿cuál plato define a la quiteñidad?](https://www.elcomercio.com/actualidad/quito/locro-papa-gastronomia-quito.html "Fiestas de Quito, ¿cuál plato define a la quiteñidad?")
-
-Una Plaza de las nubes mejorada
--------------------------------
-
-La **Plaza de las Nubes** pretende mejorar 2 000 m2 en el mirador de **El Panecillo** y atraer a más visitantes que vienen a este mirador tradicional de Quito.
-
-A **El Panecillo** llega alrededor de **un millón de turistas** al año. Y pretende ser, además, “el regalo navideño” que ofrecerán a los quiteños, para que se convierta en “un punto de encuentro”.
-
-Las innovaciones en la Plaza de las Nubes
------------------------------------------
-
-La intervención ocupará un espacio de **2 000 metros cuadrados** en la **Plaza de las Nubes de Quito**. Además de mejorar lo ya existente en el Panecillo, se pretende abrir **nuevos espacios**.
-
-Uno de ellos es el **mirador elevado**, que permitirá tener vistas panorámicas de la ciudad y los volcanes que la rodean.
-
-También se plantea construir un **graderío** que se oriente al **tótem** del **Inti Raymi.** El proyecto de la Plaza de las Nubes incluye un plan de manejo de la **vegetación** que preserve la **biodiversidad** de Quito.
-
-Además, la intención es que este sea un lugar donde se realicen **actividades culturales** en las que se cuenten las **historias de Quito.** La **renovación de El Panecillo** busca promover el sentido de la pertenencia de los quiteños. Finalmente, habrá también espacios creativos y de descanso para fomentar la convivencia.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-58-3-1024x683.jpg)
-
-Este será el graderío que se levantará frente al tótem, en El Panecillo. Foto: DK Managment
-
-Las razones de las mejoras
---------------------------
-
-Para **Cristina Moshenek,** de DK , el “objetivo es **transformar** El Panecillo con un **enfoque integral**, que preserve y potencie su riqueza histórica y cultural”[.](https://es.wikipedia.org/wiki/El_Panecillo "https://es.wikipedia.org/wiki/El_Panecillo")
-
-Por otra parte, se busca mejorar la infraestructura, seguridad y accesibilidad. “Queremos crear un entorno **moderno, seguro y acogedor**“, añade Moshenek. .
