@@ -27,7 +27,7 @@
 
 Terms of Use
 
-LAST UPDATED: September 18, 2024
+LAST UPDATED: November 27, 2024
 
 Table of Contents
 -----------------
@@ -59,19 +59,19 @@ Subject to and conditioned upon your compliance with these Terms, we grant to yo
 
 * Access or attempt to access images that are not your images or accounts that you do not own, unless given permission by the image subject (or, in the case of a minor, the image subject’s parent or legal guardian);
 * Defame, abuse, harass, stalk, threaten or otherwise violate the rights of others, including, without limitation, others’ privacy rights or rights of publicity;
-* Impersonate any person or entity or use any fraudulent, misleading or inaccurate email address or other contact information;
+* Impersonate any person or entity, generate misinformation, misrepresentations, or misleading content, or use any fraudulent, misleading or inaccurate email address or other contact information;
 * Restrict or inhibit any other user from using any of our Sites and Apps, including, without limitation, by means of “hacking” or defacing any portion our Sites and Apps;
 * Violate any applicable laws or regulations;
 * Upload to, transmit through, or display on any of our Sites and Apps (a) any material that is unlawful, fraudulent, threatening, abusive, libelous, defamatory, obscene or otherwise objectionable, or infringes our or any third party’s intellectual property or other rights; (b) any confidential, proprietary or trade secret information of any third party; or (c) any advertisements, solicitations, chain letters, pyramid schemes, investment opportunities or other unsolicited commercial communication (except as otherwise expressly permitted by us);
 * Use our Sites or Apps to store, transfer, or distribute content of or on behalf of third parties, to operate your own file storage application or service, or to operate a photography business or other commercial service;
 * Engage in spamming;
-* Transmit any software or other materials that contain any viruses, worms, trojan horses, defects, or other destructive items;
+* Transmit any software or other materials that contain any viruses, worms, trojan horses, defects, or other destructive items, or take any action that would abuse, harm, interfere with, or disrupt our Sites and Apps;
 * Modify, adapt, translate, distribute, reverse engineer, decompile or disassemble any portion of our Sites and Apps; and
 * Crawl, scrape, or spider any aspects of our Sites or Apps;
 * Remove any copyright, trademark or other proprietary rights notices contained in or displayed on any portion of our Sites and Apps;
-* Display adult nudity or inappropriate child nudity;
-* Upload photographs of people who have not given permission for their photographs to be uploaded or shared; and
-* Post objectionable material, such as material containing hate or malicious content or offers for adult services, or material inciting or advocating terrorism or violence.
+* Display or generate adult nudity, inappropriate child nudity, or sexually explicit content;
+* Upload or generate images of people who have not given permission for their photographs to be uploaded or shared; and
+* Post or generate objectionable material, such as material containing hate or malicious content or offers for adult services, or material inciting or advocating terrorism or violence, or attempt to override or circumvent safety filters.
 
 2\. YOUR MEMBER ACCOUNT
 
