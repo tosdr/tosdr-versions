@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![The Lives I Lead: My Multiple Personalities](/wp-content/thumbnails/14043-100x70.jpg?x53432)
+* [![The Big Bang](/wp-content/thumbnails/80-100x70.png?x53432)
     
-    The Lives I Lead: My Multiple Personalities
+    The Big Bang
     
-    Dissociative Identity Disorder or Multiple Personality Disorder as it is more commonly known as is a mental condition characterised by at least two distinct and relatively enduring personality states.](https://documentaryheaven.com/my-multiple-personalities/ "The Lives I Lead: My Multiple Personalities")
-* [![Whats Wrong With Our Weather?](/wp-content/thumbnails/10155-100x70.jpg?x53432)
+    This documentary was aired on September 7th of 2008 to coincide with the switching-on of the LHC, the world's largest particle accelerator complex, Professor Jim Al Khalili delves into over 50 years o](https://documentaryheaven.com/lost-horizons-the-big-bang/ "The Big Bang")
+* [![Presumed Guilty](/wp-content/thumbnails/5503-100x70.jpg?x53432)
     
-    Whats Wrong With Our Weather?
+    Presumed Guilty
     
-    Over the last few years it has been clear to see that Britain's weather has become quite a bit more extreme, especially the winter season. The winter of 2014 was the wettest on record, with deadly sto](https://documentaryheaven.com/whats-wrong-with-our-weather/ "Whats Wrong With Our Weather?")
-* [![Earth – The Climate Wars PT 2/3](/wp-content/thumbnails/241-100x70.png?x53432)
+    This is an extraordinary documentary about a case in Mexico about an innocent guy who was put in jail for "presumed murder". The documentary shows how the Mexico's legal justice system is corrupted fr](https://documentaryheaven.com/presumed-guilty/ "Presumed Guilty")
+* [![Apartheid Did Not Die](/wp-content/thumbnails/1130-100x70.jpg?x53432)
     
-    Earth – The Climate Wars PT 2/3
+    Apartheid Did Not Die
     
-    PART TWO - FightbackDr Iain Stewart investigates the counter attack that was launched by the global warming sceptics in the 1990s. At the start of the 1990s it seemed the world was united. At the Ri](https://documentaryheaven.com/earth-the-climate-wars-pt-23/ "Earth – The Climate Wars PT 2/3")
-* [![John Nash: A Beautiful Mind](/wp-content/thumbnails/9863-100x70.jpg?x53432)
+    Apartheid based on race is outlawed now, but the system always went far deeper than that. The cruelty and injustice were underwritten by an economic apartheid, which regarded people as no more than ch](https://documentaryheaven.com/apartheid-did-not-die/ "Apartheid Did Not Die")
+* [![Collapse](/wp-content/thumbnails/3500-100x70.jpg?x53432)
     
-    John Nash: A Beautiful Mind
+    Collapse
     
-    In September 1949, the world learned that the Soviet Union had joined the United States as a nuclear power. This shocking news intensified fears in the US and put a premium on mathematicians. Mathemat](https://documentaryheaven.com/john-nash-beautiful-mind/ "John Nash: A Beautiful Mind")
-* [![The Library of Alexandria](/wp-content/thumbnails/12021-100x70.jpg?x53432)
+    Americans generally like to hear good news. They like to believe that a new president will right old wrongs, that clean energy will replace dirty oil and that fresh thinking will set the economy strai](https://documentaryheaven.com/collapse/ "Collapse")
+* [![Enron: The Smartest Guys in the Room](/wp-content/thumbnails/2181-100x70.jpg?x53432)
     
-    The Library of Alexandria
+    Enron: The Smartest Guys in the Room
     
-    Constructed and established in the 3rd century BC, The Royal Library of Alexandria located in Alexandria, Egypt was one of the largest and most significant libraries of the ancient world. It was](https://documentaryheaven.com/library-of-alexandria/ "The Library of Alexandria")
+    At this writing in early 2006, the principal players in the sordid drama of Enron — believed by some accusers to be the most egregious corporate malefactors in American history — are about to go on tr](https://documentaryheaven.com/enron-the-smartest-guys-in-the-room/ "Enron: The Smartest Guys in the Room")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
