@@ -45,7 +45,7 @@ Password(Required)
 
  Remember Me
 
-Login       
+Login        
 
 [Create new account](https://reason.com/registration/ "Create new account")  
 [Forgot password](https://reason.com/password-reset/ "Forgot password")  
@@ -237,5 +237,3 @@ This site is protected by reCAPTCHA and the Google [**Privacy Policy**](https://
 Just **$25** per year
 
 [Join Today!](https://reason.secure.darwin.cx/J4PKEXTR?utm_source=popup&utm_medium=internal_ad&utm_campaign=reason_plus)
-
-reason-plus-modal-2
