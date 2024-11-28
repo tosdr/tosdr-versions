@@ -13,7 +13,7 @@ Log In
 
 [Forgot your login?](https://www.gaiaonline.com/account/sendpass/ "Forgot your username/password?")
 
-805155f2a92a00958304c58aa0f8a58d805155f2a92a00958304c58aa0f8a58d805155f2a92a00958304c58aa0f8a58d
+5d7b0e3b218ba464b141264abfbb77215d7b0e3b218ba464b141264abfbb7721eff1706bb340d1376000fea3f260b6a15d7b0e3b218ba464b141264abfbb7721
 
 * [My Gaia](https://www.gaiaonline.com/register/?v=c&&redirect=https%3A%2F%2Fwww.gaiaonline.com%2Fmygaia%2F)
 
@@ -337,7 +337,7 @@ More Items
 
 * [Deals & New Items](https://www.gaiaonline.com/deals)
     
-    3 new deals & 1 new item released!
+    2 new deals & 1 new item released!
     
 * [Premium Items](https://www.gaiaonline.com/register/?v=c&&redirect=https%3A%2F%2Fwww.gaiaonline.com%2Fpremiumitems%2F)
     
@@ -531,4 +531,4 @@ Play with Platinum
 
 [More](https://www.gaiaonline.com/luckycatch/)
 
-![](https://www.gaiaonline.com/internal/mkt_t.php?mid[]=354&tm=1732737499)
+![](https://www.gaiaonline.com/internal/mkt_t.php?mid[]=354&tm=1732758679)
