@@ -20,16 +20,16 @@ Thursday, November 28 2024
 
 Latest
 
-* [Dell Technologies CTO: ROI on AI should be the number one focus for execs](https://digitpatrox.com/dell-technologies-cto-roi-on-ai-should-be-the-number-one-focus-for-execs/)
-* [FTC opens antitrust investigation into Microsoft’s cloud, AI, and cybersecurity practices – Computerworld](https://digitpatrox.com/ftc-opens-antitrust-investigation-into-microsofts-cloud-ai-and-cybersecurity-practices-computerworld/)
-* [This Vitamix Blender Is $80 Off Right Now](https://digitpatrox.com/this-vitamix-blender-is-80-off-right-now/)
-* [Nebraskan credit union notifies over 52K people of data breach following ransomware attack](https://digitpatrox.com/nebraskan-credit-union-notifies-over-52k-people-of-data-breach-following-ransomware-attack/)
-* [How to Escape Your Car If the Electronic Door Handle Fails](https://digitpatrox.com/how-to-escape-your-car-if-the-electronic-door-handle-fails/)
-* [Meet Ubuntu Studio, a Linux Distro & Software Toolbox for Creatives](https://digitpatrox.com/meet-ubuntu-studio-a-linux-distro-software-toolbox-for-creatives/)
-* [G.Skill Trident Z5 Neo RGB DDR5-6000 review](https://digitpatrox.com/g-skill-trident-z5-neo-rgb-ddr5-6000-review/)
-* [Microsoft dismisses claims it’s using Word and Excel data to train AI](https://digitpatrox.com/microsoft-dismisses-claims-its-using-word-and-excel-data-to-train-ai/)
-* [8 Best Construction CRM Software](https://digitpatrox.com/8-best-construction-crm-software/)
-* [Forget Samsung — we just got our first Snapdragon 8 Elite smartphone from an unlikely source](https://digitpatrox.com/forget-samsung-we-just-got-our-first-snapdragon-8-elite-smartphone-from-an-unlikely-source/)
+* [Researchers sound alarm over hackers exploiting critical ProjectSend vulnerability](https://digitpatrox.com/researchers-sound-alarm-over-hackers-exploiting-critical-projectsend-vulnerability/)
+* [10 steps to smarter Google account security – Computerworld](https://digitpatrox.com/10-steps-to-smarter-google-account-security-computerworld/)
+* [These Black Friday PS5 Bundles Are Perfect For Fortnite and NBA Fans](https://digitpatrox.com/these-black-friday-ps5-bundles-are-perfect-for-fortnite-and-nba-fans/)
+* [Best Massage Guns of 2024](https://digitpatrox.com/best-massage-guns-of-2024/)
+* [Today’s NYT Connections Hints and Answer for November 28 (#536)](https://digitpatrox.com/todays-nyt-connections-hints-and-answer-for-november-28-536/)
+* [Forget expensive, power-hungry LLMs models, 2025 will be the year where small language models hit the mainstream](https://digitpatrox.com/forget-expensive-power-hungry-llms-models-2025-will-be-the-year-where-small-language-models-hit-the-mainstream/)
+* [Microsoft Visio 2024 is 86% Off for a Limited Time](https://digitpatrox.com/microsoft-visio-2024-is-86-off-for-a-limited-time/)
+* [Lions vs Bears — How to watch NFL live stream from anywhere](https://digitpatrox.com/lions-vs-bears-how-to-watch-nfl-live-stream-from-anywhere/)
+* [Hackers exploit ProjectSend flaw to backdoor exposed servers](https://digitpatrox.com/hackers-exploit-projectsend-flaw-to-backdoor-exposed-servers/)
+* [The best deals on the baby gear I recommend to my friends](https://digitpatrox.com/the-best-deals-on-the-baby-gear-i-recommend-to-my-friends/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/RqKrXzBvRZ5GfoqRJxQsfk-1200-80.jpg)](https://digitpatrox.com/dell-technologies-cto-roi-on-ai-should-be-the-number-one-focus-for-execs/)
+* [![](https://cdn.mos.cms.futurecdn.net/Hr8Z3QGRRnSdJ7oqmTW3V6-1200-80.jpg)](https://digitpatrox.com/researchers-sound-alarm-over-hackers-exploiting-critical-projectsend-vulnerability/)
     
-    [Dell Technologies CTO: ROI on AI should be the number one focus for execs](https://digitpatrox.com/dell-technologies-cto-roi-on-ai-should-be-the-number-one-focus-for-execs/)
+    [Researchers sound alarm over hackers exploiting critical ProjectSend vulnerability](https://digitpatrox.com/researchers-sound-alarm-over-hackers-exploiting-critical-projectsend-vulnerability/)
     
-    19 minutes ago
+    34 minutes ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3614495-0-50938200-1732793303-shutterstock_2325970865-100962558-orig.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/ftc-opens-antitrust-investigation-into-microsofts-cloud-ai-and-cybersecurity-practices-computerworld/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/11/1615305-0-14746900-1732790924-google-account-security-100832892-orig.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/10-steps-to-smarter-google-account-security-computerworld/)
     
-    [FTC opens antitrust investigation into Microsoft’s cloud, AI, and cybersecurity practices – Computerworld](https://digitpatrox.com/ftc-opens-antitrust-investigation-into-microsofts-cloud-ai-and-cybersecurity-practices-computerworld/)
+    [10 steps to smarter Google account security – Computerworld](https://digitpatrox.com/10-steps-to-smarter-google-account-security-computerworld/)
     
-    40 minutes ago
+    55 minutes ago
     
-* [![](https://lifehacker.com/imagery/articles/01JDR62AQ4ZSQXCQEKJVNT5RYY/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/this-vitamix-blender-is-80-off-right-now/)
+* [![](https://lifehacker.com/imagery/articles/01JDQTC6CXPKJ2MYVQWZCD06RH/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/these-black-friday-ps5-bundles-are-perfect-for-fortnite-and-nba-fans/)
     
-    [This Vitamix Blender Is $80 Off Right Now](https://digitpatrox.com/this-vitamix-blender-is-80-off-right-now/)
-    
-    1 hour ago
-    
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/Nebraskan-Credit-Union-notifies-over-52K-people-of-data-breach.jpg)](https://digitpatrox.com/nebraskan-credit-union-notifies-over-52k-people-of-data-breach-following-ransomware-attack/)
-    
-    [Nebraskan credit union notifies over 52K people of data breach following ransomware attack](https://digitpatrox.com/nebraskan-credit-union-notifies-over-52k-people-of-data-breach-following-ransomware-attack/)
+    [These Black Friday PS5 Bundles Are Perfect For Fortnite and NBA Fans](https://digitpatrox.com/these-black-friday-ps5-bundles-are-perfect-for-fortnite-and-nba-fans/)
     
     1 hour ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1653314918/prod/content/dam/CRO-Images-2022/Cars/05May/CR-Cars-InlineHero-2017-Lincoln_-Continental-Door-Release-5-22)](https://digitpatrox.com/how-to-escape-your-car-if-the-electronic-door-handle-fails/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1706887177/prod/content/dam/CRO-Images-2024/Health/CR-Health-Inlinehero-best-massage-guns-0224)](https://digitpatrox.com/best-massage-guns-of-2024/)
     
-    [How to Escape Your Car If the Electronic Door Handle Fails](https://digitpatrox.com/how-to-escape-your-car-if-the-electronic-door-handle-fails/)
+    [Best Massage Guns of 2024](https://digitpatrox.com/best-massage-guns-of-2024/)
     
-    1 hour ago
+    2 hours ago
+    
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/nyt-connections-game-icon-on-a-phone-screen-and-several-magnifying-glasses-and-question-marks-around-it.jpg)](https://digitpatrox.com/todays-nyt-connections-hints-and-answer-for-november-28-536/)
+    
+    [Today’s NYT Connections Hints and Answer for November 28 (#536)](https://digitpatrox.com/todays-nyt-connections-hints-and-answer-for-november-28-536/)
+    
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [19 minutes ago
+* [34 minutes ago
     
-    ### Dell Technologies CTO: ROI on AI should be the number one focus for execs](https://digitpatrox.com/dell-technologies-cto-roi-on-ai-should-be-the-number-one-focus-for-execs/)
-* [40 minutes ago
+    ### Researchers sound alarm over hackers exploiting critical ProjectSend vulnerability](https://digitpatrox.com/researchers-sound-alarm-over-hackers-exploiting-critical-projectsend-vulnerability/)
+* [55 minutes ago
     
-    ### FTC opens antitrust investigation into Microsoft’s cloud, AI, and cybersecurity practices – Computerworld](https://digitpatrox.com/ftc-opens-antitrust-investigation-into-microsofts-cloud-ai-and-cybersecurity-practices-computerworld/)
+    ### 10 steps to smarter Google account security – Computerworld](https://digitpatrox.com/10-steps-to-smarter-google-account-security-computerworld/)
 * [1 hour ago
     
-    ### This Vitamix Blender Is $80 Off Right Now](https://digitpatrox.com/this-vitamix-blender-is-80-off-right-now/)
+    ### These Black Friday PS5 Bundles Are Perfect For Fortnite and NBA Fans](https://digitpatrox.com/these-black-friday-ps5-bundles-are-perfect-for-fortnite-and-nba-fans/)
 
 Most Popular Topics
 
-* [September 2, 2024
+* [October 1, 2024
     
-    ### Boeing’s Starliner started making a repeating ‘pulsing’ sound yesterday](https://digitpatrox.com/boeings-starliner-started-making-a-repeating-pulsing-sound-yesterday/)
-* [October 23, 2024
+    ### you and your business need satellite comms – Computerworld](https://digitpatrox.com/you-and-your-business-need-satellite-comms-computerworld/)
+* [2 weeks ago
     
-    ### The Boox Palma 2 has a faster processor and adds a fingerprint reader](https://digitpatrox.com/the-boox-palma-2-has-a-faster-processor-and-adds-a-fingerprint-reader/)
-* [1 day ago
+    ### NYT Strands today — hints, spangram and answers for game #260 (Monday, November 18 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-260-monday-november-18-2024/)
+* [2 weeks ago
     
-    ### Max, Hulu, and Paramount Plus are all heavily discounted for Black Friday](https://digitpatrox.com/max-hulu-and-paramount-plus-are-all-heavily-discounted-for-black-friday/)
+    ### HIBP notifies 57 million people of Hot Topic data breach](https://digitpatrox.com/hibp-notifies-57-million-people-of-hot-topic-data-breach/)
 
 Last Modified Topics
 
-* [1 hour ago
-    
-    ### G.Skill Trident Z5 Neo RGB DDR5-6000 review](https://digitpatrox.com/g-skill-trident-z5-neo-rgb-ddr5-6000-review/)
 * [2 hours ago
     
-    ### Microsoft dismisses claims it’s using Word and Excel data to train AI](https://digitpatrox.com/microsoft-dismisses-claims-its-using-word-and-excel-data-to-train-ai/)
+    ### Microsoft Visio 2024 is 86% Off for a Limited Time](https://digitpatrox.com/microsoft-visio-2024-is-86-off-for-a-limited-time/)
 * [2 hours ago
     
-    ### 8 Best Construction CRM Software](https://digitpatrox.com/8-best-construction-crm-software/)
+    ### Lions vs Bears — How to watch NFL live stream from anywhere](https://digitpatrox.com/lions-vs-bears-how-to-watch-nfl-live-stream-from-anywhere/)
+* [4 hours ago
+    
+    ### Hackers exploit ProjectSend flaw to backdoor exposed servers](https://digitpatrox.com/hackers-exploit-projectsend-flaw-to-backdoor-exposed-servers/)
 
 Most Viewed Topics
 
-* [August 13, 2024
-    
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [August 11, 2024
     
     ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
+* [August 13, 2024
+    
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [October 2, 2024
     
     ### The best noise-canceling headphones for 2024](https://digitpatrox.com/the-best-noise-canceling-headphones-for-2024/)
