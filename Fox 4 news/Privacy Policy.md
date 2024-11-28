@@ -90,6 +90,10 @@ Search site
 * [Houston News - FOX 26 Houston](https://www.fox26houston.com/)
 * [Austin News - FOX 7 Austin](https://www.fox7austin.com/)
 
+[Freeze Watch
+
+from FRI 12:00 AM CST until FRI 9:00 AM CST, Collin County, Wise County, Fannin County, Delta County, Hunt County, Hopkins County, Jack County, Denton County, Cooke County, Lamar County, Rains County](https://www.fox4news.com/weather-alerts)
+
 Privacy Policy
 ==============
 
@@ -401,6 +405,12 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Arizona grandma and stranger she mistakenly texted in 2016 will celebrate 9th Thanksgiving together](https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2021/11/32/18/thanksgiving-text-SS-THUMB-1.jpg?ve=1&tl=1)
+
+ ![Arizona grandma and stranger she mistakenly texted in 2016 will celebrate 9th Thanksgiving together](https://images.foxtv.com/images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2021/11/32/18/592/333/thanksgiving-text-SS-THUMB-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/arizona-grandma-stranger-she-mistakenly-texted-2016-will-celebrate-9th-thanksgiving-together)
+
+### [Grandma, stranger to spend Thanksgiving together](https://www.fox4news.com/news/arizona-grandma-stranger-she-mistakenly-texted-2016-will-celebrate-9th-thanksgiving-together)
+
  [![Man who tried to enter Dallas church with tactical rifle now facing federal charge](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/ragsdale-church-rifle.png?ve=1&tl=1)
 
  ![Man who tried to enter Dallas church with tactical rifle now facing federal charge](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/ragsdale-church-rifle.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/russell-alan-ragsdale-federal-gun-charge-st-augustine-catholic-church)
@@ -424,12 +434,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![Sean 'Diddy' Combs denied bail a third time as he awaits sex trafficking trial](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/05/32/18/592/333/GettyImages-1747401006.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/sean-diddy-combs-denied-bail-third-time-he-awaits-sex-trafficking-trial)
 
 ### [Sean 'Diddy' Combs denied bail a third time as he awaits sex trafficking trial](https://www.fox4news.com/news/sean-diddy-combs-denied-bail-third-time-he-awaits-sex-trafficking-trial)
-
- [![T.D. Jakes gives update on health, says he didn't suffer stroke](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/td-jakes.jpg?ve=1&tl=1)
-
- ![T.D. Jakes gives update on health, says he didn't suffer stroke](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/td-jakes.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/td-jakes-gives-update-health-stroke)
-
-### [T.D. Jakes gives update on health, says he didn't suffer stroke](https://www.fox4news.com/news/td-jakes-gives-update-health-stroke)
 
 ###### [News](https://www.fox4news.com/news)
 
