@@ -31,9 +31,9 @@ Navigation
     
     *  [![](https://media.kagstv.com/assets/KCEN/images/fd35d786-d00e-44d2-9fe0-0cfdad9f3799/20241127T212419/fd35d786-d00e-44d2-9fe0-0cfdad9f3799_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/fd35d786-d00e-44d2-9fe0-0cfdad9f3799/20241127T212419/fd35d786-d00e-44d2-9fe0-0cfdad9f3799_360x203.jpg)](https://www.kagstv.com/article/news/local/bryan-police-searching-missing-man/500-fb919004-a70c-45e4-a4dc-ba628faebab8)
         
-        #### [Have you seen this man? Bryan Police searching for missing man](https://www.kagstv.com/article/news/local/bryan-police-searching-missing-man/500-fb919004-a70c-45e4-a4dc-ba628faebab8)
+        #### [Bryan man found safe after being reported missing](https://www.kagstv.com/article/news/local/bryan-police-searching-missing-man/500-fb919004-a70c-45e4-a4dc-ba628faebab8)
         
-    *  [![](https://media.kagstv.com/assets/KVUE/images/0d1bfa40-c491-490c-aa6b-43cf39764498/0d1bfa40-c491-490c-aa6b-43cf39764498_16x9.jpg) ![](https://media.kagstv.com/assets/KVUE/images/0d1bfa40-c491-490c-aa6b-43cf39764498/0d1bfa40-c491-490c-aa6b-43cf39764498_360x203.jpg)](https://www.kagstv.com/article/news/local/china-us-prisoner-swap-mark-swidan-kai-li-and-john-leung/285-f4b4a127-4d3c-4d04-92ea-e793d9c197af)
+    *  [![](https://media.kagstv.com/assets/KHOU/images/0b2bd420-8e57-4dcb-a350-4a84f25397b2/20241128T041012/0b2bd420-8e57-4dcb-a350-4a84f25397b2_16x9.jpg) ![](https://media.kagstv.com/assets/KHOU/images/0b2bd420-8e57-4dcb-a350-4a84f25397b2/20241128T041012/0b2bd420-8e57-4dcb-a350-4a84f25397b2_360x203.jpg)](https://www.kagstv.com/article/news/local/china-us-prisoner-swap-mark-swidan-kai-li-and-john-leung/285-f4b4a127-4d3c-4d04-92ea-e793d9c197af)
         
         #### [Houston man among prisoners released as part of US deal with China, White House says](https://www.kagstv.com/article/news/local/china-us-prisoner-swap-mark-swidan-kai-li-and-john-leung/285-f4b4a127-4d3c-4d04-92ea-e793d9c197af)
         
@@ -86,7 +86,7 @@ Navigation
 
 Bryan, TX »
 
-68°
+57°
 
 ![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
