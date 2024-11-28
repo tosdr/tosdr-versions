@@ -196,61 +196,59 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Support even on Sundays!
-> ------------------------
+> Quick and efficient support
+> ---------------------------
 > 
-> Thanks Adriaan...
+> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
 > 
-> You guys even work on Sundays?
-> 
-> I’m impressed!!
+> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
 
-Johan Botha - Brand Xplosion
+Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
 
-![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=adb558dd99a4d9d782f91b4e200b89dd6b2dcd3083f9338a481c99be2849874d&c=124963503)  
-United Paintball Federation
+![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=5dc7725b236d7e4e14ce62737ecd9639ca765c0ac56af023d3bc47635c7a6286&c=166805676)  
+SMART GUY PCS (PTY) LTD
 
-![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=adb558dd99a4d9d782f91b4e200b89dd6b2dcd3083f9338a481c99be2849874d&c=87757027)  
-Qothiphango Mining
+![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=5dc7725b236d7e4e14ce62737ecd9639ca765c0ac56af023d3bc47635c7a6286&c=164344370)  
+van Schaik rentals
 
-![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=adb558dd99a4d9d782f91b4e200b89dd6b2dcd3083f9338a481c99be2849874d&c=173412727)  
-Kinetic Power Solutions (Pty) Ltd.
+![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=5dc7725b236d7e4e14ce62737ecd9639ca765c0ac56af023d3bc47635c7a6286&c=102536736)  
+NJR ICT Services (Pty) Ltd
 
-![valued client Meyer Towing & Recovery ](https://www.invoicesonline.co.za/scripts/image.php?bid=7983&file=logo_300_100&type=&fe=adb558dd99a4d9d782f91b4e200b89dd6b2dcd3083f9338a481c99be2849874d&c=145680938)  
-Meyer Towing & Recovery
+![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=5dc7725b236d7e4e14ce62737ecd9639ca765c0ac56af023d3bc47635c7a6286&c=98313996)  
+SA Security Brokerz (Pty) Ltd
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (651)](https://www.invoicesonline.co.za/scripts/image.php?bid=6481&file=logo_300_100&type=&fe=adb558dd99a4d9d782f91b4e200b89dd6b2dcd3083f9338a481c99be2849874d&c=143040517)  
-VIV'S TRUCKS (Pty) Ltd. (651)
-
-![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=adb558dd99a4d9d782f91b4e200b89dd6b2dcd3083f9338a481c99be2849874d&c=176777120)  
-Kaylas Creations
-
-![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=adb558dd99a4d9d782f91b4e200b89dd6b2dcd3083f9338a481c99be2849874d&c=25194471)  
-Cpower Projects t/a Pro Pure Water
-
-![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=adb558dd99a4d9d782f91b4e200b89dd6b2dcd3083f9338a481c99be2849874d&c=205716855)  
-AquariumSmiths
-
-![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=adb558dd99a4d9d782f91b4e200b89dd6b2dcd3083f9338a481c99be2849874d&c=62041391)  
+![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=5dc7725b236d7e4e14ce62737ecd9639ca765c0ac56af023d3bc47635c7a6286&c=48328866)  
 Mountain Lion Properties
 
-![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=adb558dd99a4d9d782f91b4e200b89dd6b2dcd3083f9338a481c99be2849874d&c=28726618)  
-MOSELA GROUP Pty(ltd)
+![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=5dc7725b236d7e4e14ce62737ecd9639ca765c0ac56af023d3bc47635c7a6286&c=25714894)  
+Tiny Cuddles Photography
 
-![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=adb558dd99a4d9d782f91b4e200b89dd6b2dcd3083f9338a481c99be2849874d&c=170381930)  
-Sonic Electrical Services PTY Ltd
+![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=5dc7725b236d7e4e14ce62737ecd9639ca765c0ac56af023d3bc47635c7a6286&c=156107592)  
+Hydroworld T/A Milliqua
 
-![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=adb558dd99a4d9d782f91b4e200b89dd6b2dcd3083f9338a481c99be2849874d&c=102743663)  
-Adele Jordaan T/A Joyful Noise Music Room
+![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=5dc7725b236d7e4e14ce62737ecd9639ca765c0ac56af023d3bc47635c7a6286&c=125187145)  
+NGB HOLDINGS PTY LTD
 
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=adb558dd99a4d9d782f91b4e200b89dd6b2dcd3083f9338a481c99be2849874d&c=137956396)  
-West Coast Horse Trails
+![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=5dc7725b236d7e4e14ce62737ecd9639ca765c0ac56af023d3bc47635c7a6286&c=150604298)  
+Environment Friendly Toilets (Pty) Ltd
 
-![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=adb558dd99a4d9d782f91b4e200b89dd6b2dcd3083f9338a481c99be2849874d&c=117750482)  
-CBR Verwe/Paints
+![valued client IEMS (PTY) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7805&file=logo_300_100&type=&fe=5dc7725b236d7e4e14ce62737ecd9639ca765c0ac56af023d3bc47635c7a6286&c=124523441)  
+IEMS (PTY) ltd
 
-![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=adb558dd99a4d9d782f91b4e200b89dd6b2dcd3083f9338a481c99be2849874d&c=117041654)  
-SR Travel Services
+![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=5dc7725b236d7e4e14ce62737ecd9639ca765c0ac56af023d3bc47635c7a6286&c=23918196)  
+Gemini-IT Group
+
+![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=5dc7725b236d7e4e14ce62737ecd9639ca765c0ac56af023d3bc47635c7a6286&c=66328518)  
+Moremi Kitchens Rustenburg
+
+![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=5dc7725b236d7e4e14ce62737ecd9639ca765c0ac56af023d3bc47635c7a6286&c=174614892)  
+VIV'S TRUCKS (Pty) Ltd. (29/31/33)
+
+![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=5dc7725b236d7e4e14ce62737ecd9639ca765c0ac56af023d3bc47635c7a6286&c=144423317)  
+Leef in Afrikaans
+
+![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=5dc7725b236d7e4e14ce62737ecd9639ca765c0ac56af023d3bc47635c7a6286&c=155594799)  
+FX ACCOUNTING
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
