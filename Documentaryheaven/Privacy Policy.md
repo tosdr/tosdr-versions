@@ -128,39 +128,39 @@ Advertisement
     The Dark Side of Porn: Diary of a Porn Virgin
     
     Pornography in Britain has entered the mainstream. As this documentary reveals, there is now no taboo when it comes to working in the porn industry in the UK.From a 38-year-old wife, mother and su...](https://documentaryheaven.com/the-dark-side-of-porn-diary-of-a-porn-virgin/ "The Dark Side of Porn: Diary of a Porn Virgin")
-* [![Why The Industrial Revolution Happened Here](/wp-content/thumbnails/8018-100x70.jpeg?x53432)
+* [![Louis Theroux: Drinking To Oblivion](/wp-content/thumbnails/16353-100x70.jpg?x53432)
     
-    Why The Industrial Revolution Happened Here
+    Louis Theroux: Drinking To Oblivion
     
-    Professor Jeremy Black examines one of the most extraordinary periods in British history: the Industrial Revolution. He explains the unique economic, social and political conditions that by the 19th c...](https://documentaryheaven.com/why-industrial-revolution-happened-here/ "Why The Industrial Revolution Happened Here")
+    Drinking To Oblivion sees Louis Theroux set about spending some time in the world of extreme drinkers, getting to know people who consume alcohol not just to excess but to the point of total oblivio...](https://documentaryheaven.com/louis-theroux-drinking-to-oblivion/ "Louis Theroux: Drinking To Oblivion")
 
 ###### Throwback Documentaries
 
-* [![The Big Bang](/wp-content/thumbnails/80-100x70.png?x53432)
+* [![The Gorilla King](/wp-content/thumbnails/9231-100x70.jpg?x53432)
     
-    The Big Bang
+    The Gorilla King
     
-    This documentary was aired on September 7th of 2008 to coincide with the switching-on of the LHC, the world's largest particle accelerator complex, Professor Jim Al Khalili delves into over 50 years o](https://documentaryheaven.com/lost-horizons-the-big-bang/ "The Big Bang")
-* [![Presumed Guilty](/wp-content/thumbnails/5503-100x70.jpg?x53432)
+    High on the Virunga Volcanos of Rwanda lives a lost tribe, one of our closest living relatives, the Mountain Gorilla. This particular mountain is a dangerous one, and no more so than for one](https://documentaryheaven.com/gorilla-king/ "The Gorilla King")
+* [![America’s Medicated Kids](/wp-content/thumbnails/7298-100x70.jpg?x53432)
     
-    Presumed Guilty
+    America’s Medicated Kids
     
-    This is an extraordinary documentary about a case in Mexico about an innocent guy who was put in jail for "presumed murder". The documentary shows how the Mexico's legal justice system is corrupted fr](https://documentaryheaven.com/presumed-guilty/ "Presumed Guilty")
-* [![Apartheid Did Not Die](/wp-content/thumbnails/1130-100x70.jpg?x53432)
+    Parents in America are turning to psychoactive medication to help them cope with the challenging behaviour of their kids, even though the drugs, and sometimes the diagnoses, remain controversial.I](https://documentaryheaven.com/americas-medicated-kids/ "America’s Medicated Kids")
+* [![Mourinho](/wp-content/thumbnails/7013-100x70.jpg?x53432)
     
-    Apartheid Did Not Die
+    Mourinho
     
-    Apartheid based on race is outlawed now, but the system always went far deeper than that. The cruelty and injustice were underwritten by an economic apartheid, which regarded people as no more than ch](https://documentaryheaven.com/apartheid-did-not-die/ "Apartheid Did Not Die")
-* [![Collapse](/wp-content/thumbnails/3500-100x70.jpg?x53432)
+    He is the only manager to have won league titles in England, Italy and Spain. In barely a decade he has won 21 major trophies, sparked unprecedented acclaim and controversy and become a sporting pheno](https://documentaryheaven.com/mourinho/ "Mourinho")
+* [![2057: The City of the Future](/wp-content/thumbnails/1289-100x70.jpg?x53432)
     
-    Collapse
+    2057: The City of the Future
     
-    Americans generally like to hear good news. They like to believe that a new president will right old wrongs, that clean energy will replace dirty oil and that fresh thinking will set the economy strai](https://documentaryheaven.com/collapse/ "Collapse")
-* [![Enron: The Smartest Guys in the Room](/wp-content/thumbnails/2181-100x70.jpg?x53432)
+    What would you see and experience if the clocks rolled forward 50 years? In a unique blend of drama and science, this three-part series shows you the world of tomorrow. Will we have flying cars? Will](https://documentaryheaven.com/2057-the-city-of-the-future/ "2057: The City of the Future")
+* [![Hunting the Edge of Space](/wp-content/thumbnails/14262-100x70.jpg?x53432)
     
-    Enron: The Smartest Guys in the Room
+    Hunting the Edge of Space
     
-    At this writing in early 2006, the principal players in the sordid drama of Enron — believed by some accusers to be the most egregious corporate malefactors in American history — are about to go on tr](https://documentaryheaven.com/enron-the-smartest-guys-in-the-room/ "Enron: The Smartest Guys in the Room")
+    Today we are unlocking the secrets of the cosmos, exploding stars, supermassive blackholes and screaming jets of gas. Across the world and in space, high tech telescopes are picking up the signals whi](https://documentaryheaven.com/hunting-edge-space/ "Hunting the Edge of Space")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
