@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Wednesday, November 27 2024
+Thursday, November 28 2024
 
 Latest
 
-* [Microsoft says it’s not using your Word, Excel data for AI training](https://digitpatrox.com/microsoft-says-its-not-using-your-word-excel-data-for-ai-training/)
-* [The DJI Mini 3 is $100 off and matching its record low for Black Friday](https://digitpatrox.com/the-dji-mini-3-is-100-off-and-matching-its-record-low-for-black-friday/)
-* [Mel’s New Powers and Abilities in Arcane and League of Legends](https://digitpatrox.com/mels-new-powers-and-abilities-in-arcane-and-league-of-legends/)
-* [Ransomware gang demands $1.4 million from Louisiana school district](https://digitpatrox.com/ransomware-gang-demands-1-4-million-from-louisiana-school-district/)
-* [WithSecure Elements Cloud Platform review](https://digitpatrox.com/withsecure-elements-cloud-platform-review/)
-* [Download our Windows Repair Upgrade Cheat Sheet](https://digitpatrox.com/download-our-windows-repair-upgrade-cheat-sheet/)
-* [How to Customize Your Android Home Screen](https://digitpatrox.com/how-to-customize-your-android-home-screen/)
-* [Server Hardening Checklist: Fortify your server environment](https://digitpatrox.com/server-hardening-checklist-fortify-your-server-environment/)
-* [How to create hidden share folder on Windows 11, 10](https://digitpatrox.com/how-to-create-hidden-share-folder-on-windows-11-10/)
-* [Talking Cars 459: Driving the 2025 Hyundai Sonata](https://digitpatrox.com/talking-cars-459-driving-the-2025-hyundai-sonata/)
+* [8 Video Production Templates You Can Use in < 30 Minutes](https://digitpatrox.com/8-video-production-templates-you-can-use-in-30-minutes/)
+* [NYT Connections today hints and answers — Thursday, November 28 (#536)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-thursday-november-28-536/)
+* [Microsoft re-releases Exchange updates after fixing mail delivery](https://digitpatrox.com/microsoft-re-releases-exchange-updates-after-fixing-mail-delivery/)
+* [The discontinued Steam Deck LCD is on sale](https://digitpatrox.com/the-discontinued-steam-deck-lcd-is-on-sale/)
+* [All the Major Arcane Characters Who Died in the Show](https://digitpatrox.com/all-the-major-arcane-characters-who-died-in-the-show/)
+* [Small businesses could see electricity bills surge 70% as AI data center energy demands skyrocket](https://digitpatrox.com/small-businesses-could-see-electricity-bills-surge-70-as-ai-data-center-energy-demands-skyrocket/)
+* [10+ tips and services for new Bluesky users – Computerworld](https://digitpatrox.com/10-tips-and-services-for-new-bluesky-users-computerworld/)
+* [‘Batch Cocktails’ Is the Book You Need for Your Next Holiday Party](https://digitpatrox.com/batch-cocktails-is-the-book-you-need-for-your-next-holiday-party/)
+* [How to use GGPoker with a VPN (and the best VPNs for the job)](https://digitpatrox.com/how-to-use-ggpoker-with-a-vpn-and-the-best-vpns-for-the-job/)
+* [Download Windows 365 Link PC default wallpapers for Windows 11](https://digitpatrox.com/download-windows-365-link-pc-default-wallpapers-for-windows-11/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://www.bleepstatic.com/content/hl-images/2024/02/23/AI_robot_Windows_11.jpg)](https://digitpatrox.com/microsoft-says-its-not-using-your-word-excel-data-for-ai-training/)
+* [![](https://assets.techrepublic.com/uploads/2024/11/video-production-templates-featured-image-11272024-min.png)](https://digitpatrox.com/8-video-production-templates-you-can-use-in-30-minutes/)
     
-    [Microsoft says it’s not using your Word, Excel data for AI training](https://digitpatrox.com/microsoft-says-its-not-using-your-word-excel-data-for-ai-training/)
+    [8 Video Production Templates You Can Use in < 30 Minutes](https://digitpatrox.com/8-video-production-templates-you-can-use-in-30-minutes/)
     
-    22 minutes ago
+    3 minutes ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/gb5D_2e8P3G_ie-Ye20ijLY8W-c=/0x0:2097x1398/1200x628/filters:focal(1049x699:1050x700)/cdn.vox-cdn.com/uploads/chorus_asset/file/25761386/dji_mini_3_1.jpg)](https://digitpatrox.com/the-dji-mini-3-is-100-off-and-matching-its-record-low-for-black-friday/)
+* [![](https://cdn.mos.cms.futurecdn.net/GPc572YotvfLXGxckqpudW-1200-80.jpg)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-thursday-november-28-536/)
     
-    [The DJI Mini 3 is $100 off and matching its record low for Black Friday](https://digitpatrox.com/the-dji-mini-3-is-100-off-and-matching-its-record-low-for-black-friday/)
+    [NYT Connections today hints and answers — Thursday, November 28 (#536)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-thursday-november-28-536/)
     
-    39 minutes ago
+    7 minutes ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/11/Mel-new-powers.jpg)](https://digitpatrox.com/mels-new-powers-and-abilities-in-arcane-and-league-of-legends/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/10/28/Exchange_Online.jpg)](https://digitpatrox.com/microsoft-re-releases-exchange-updates-after-fixing-mail-delivery/)
     
-    [Mel’s New Powers and Abilities in Arcane and League of Legends](https://digitpatrox.com/mels-new-powers-and-abilities-in-arcane-and-league-of-legends/)
+    [Microsoft re-releases Exchange updates after fixing mail delivery](https://digitpatrox.com/microsoft-re-releases-exchange-updates-after-fixing-mail-delivery/)
     
-    55 minutes ago
+    1 hour ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/Ransomware-gang-demands-1.4-million-from-Louisiana-school-district.jpg)](https://digitpatrox.com/ransomware-gang-demands-1-4-million-from-louisiana-school-district/)
+* [![](https://cdn.vox-cdn.com/thumbor/YwlcyFa6sCwDj-mxdF1VZYGxOTk=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23270003/vpavic_220210_5030_0054_Edit.jpg)](https://digitpatrox.com/the-discontinued-steam-deck-lcd-is-on-sale/)
     
-    [Ransomware gang demands $1.4 million from Louisiana school district](https://digitpatrox.com/ransomware-gang-demands-1-4-million-from-louisiana-school-district/)
+    [The discontinued Steam Deck LCD is on sale](https://digitpatrox.com/the-discontinued-steam-deck-lcd-is-on-sale/)
     
     2 hours ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/P2AU42Arw2v3trytr9n3yh-1200-80.jpg)](https://digitpatrox.com/withsecure-elements-cloud-platform-review/)
+* [![](https://beebom.com/wp-content/uploads/2024/11/Arcane-asset-with-Viktor-Jayce-and-Vander.jpg?w=1250&quality=75)](https://digitpatrox.com/all-the-major-arcane-characters-who-died-in-the-show/)
     
-    [WithSecure Elements Cloud Platform review](https://digitpatrox.com/withsecure-elements-cloud-platform-review/)
+    [All the Major Arcane Characters Who Died in the Show](https://digitpatrox.com/all-the-major-arcane-characters-who-died-in-the-show/)
     
     2 hours ago
     
@@ -208,39 +208,39 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [22 minutes ago
+* [3 minutes ago
     
-    ### Microsoft says it’s not using your Word, Excel data for AI training](https://digitpatrox.com/microsoft-says-its-not-using-your-word-excel-data-for-ai-training/)
-* [39 minutes ago
+    ### 8 Video Production Templates You Can Use in < 30 Minutes](https://digitpatrox.com/8-video-production-templates-you-can-use-in-30-minutes/)
+* [7 minutes ago
     
-    ### The DJI Mini 3 is $100 off and matching its record low for Black Friday](https://digitpatrox.com/the-dji-mini-3-is-100-off-and-matching-its-record-low-for-black-friday/)
-* [55 minutes ago
+    ### NYT Connections today hints and answers — Thursday, November 28 (#536)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-thursday-november-28-536/)
+* [1 hour ago
     
-    ### Mel’s New Powers and Abilities in Arcane and League of Legends](https://digitpatrox.com/mels-new-powers-and-abilities-in-arcane-and-league-of-legends/)
+    ### Microsoft re-releases Exchange updates after fixing mail delivery](https://digitpatrox.com/microsoft-re-releases-exchange-updates-after-fixing-mail-delivery/)
 
 Most Popular Topics
 
-* [August 25, 2024
+* [3 weeks ago
     
-    ### Most and Least Reliable Refrigerator Brands](https://digitpatrox.com/most-and-least-reliable-refrigerator-brands/)
-* [September 7, 2024
+    ### 5 top new TV shows to stream this week on Netflix, Prime Video and more (Nov. 4-10)](https://digitpatrox.com/5-top-new-tv-shows-to-stream-this-week-on-netflix-prime-video-and-more-nov-4-10/)
+* [1 day ago
     
-    ### Nanoleaf’s Sense Plus Smart Switch is finally here](https://digitpatrox.com/nanoleafs-sense-plus-smart-switch-is-finally-here/)
-* [October 19, 2024
+    ### Former Google CEO Eric Schmidt rejects claims Al scaling has peaked – but firms like OpenAI, Anthropic, and Google are finding it harder and more expensive to deliver](https://digitpatrox.com/former-google-ceo-eric-schmidt-rejects-claims-al-scaling-has-peaked-but-firms-like-openai-anthropic-and-google-are-finding-it-harder-and-more-expensive-to-deliver/)
+* [September 30, 2024
     
-    ### Amazon’s early Black Friday deals are up to 65% off — here’s my favorite power banks and chargers](https://digitpatrox.com/amazons-early-black-friday-deals-are-up-to-65-off-heres-my-favorite-power-banks-and-chargers/)
+    ### Tesla Cybertruck First Drive Review](https://digitpatrox.com/tesla-cybertruck-first-drive-review/)
 
 Last Modified Topics
 
-* [3 hours ago
+* [4 hours ago
     
-    ### How to Customize Your Android Home Screen](https://digitpatrox.com/how-to-customize-your-android-home-screen/)
-* [3 hours ago
+    ### 10+ tips and services for new Bluesky users – Computerworld](https://digitpatrox.com/10-tips-and-services-for-new-bluesky-users-computerworld/)
+* [4 hours ago
     
-    ### Server Hardening Checklist: Fortify your server environment](https://digitpatrox.com/server-hardening-checklist-fortify-your-server-environment/)
-* [3 hours ago
+    ### ‘Batch Cocktails’ Is the Book You Need for Your Next Holiday Party](https://digitpatrox.com/batch-cocktails-is-the-book-you-need-for-your-next-holiday-party/)
+* [4 hours ago
     
-    ### How to create hidden share folder on Windows 11, 10](https://digitpatrox.com/how-to-create-hidden-share-folder-on-windows-11-10/)
+    ### How to use GGPoker with a VPN (and the best VPNs for the job)](https://digitpatrox.com/how-to-use-ggpoker-with-a-vpn-and-the-best-vpns-for-the-job/)
 
 Most Viewed Topics
 
