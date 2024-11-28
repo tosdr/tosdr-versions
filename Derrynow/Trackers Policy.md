@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-27 Nov 2024
+28 Nov 2024
 
 * [Home
     
@@ -259,29 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1664784/derry-death-notices-wednesday-november-27-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Wednesday, November 27, 2024](https://www.derrynow.com/news/deaths/1664784/derry-death-notices-wednesday-november-27-2024.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Two men arrested in Derry on suspicion of drug related offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two men arrested in Derry on suspicion of drug related offences")](https://www.derrynow.com/news/local-news/1665498/two-men-arrested-in-derry-on-suspicion-of-drug-related-offences.html)
-
-PSNI
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Two men arrested in Derry on suspicion of drug related offences](https://www.derrynow.com/news/local-news/1665498/two-men-arrested-in-derry-on-suspicion-of-drug-related-offences.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Limavady murder accused refused compassionate leave to visit sister and newborn niece](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Limavady murder accused refused compassionate leave to visit sister and newborn niece")](https://www.derrynow.com/news/home/1666062/limavady-murder-accused-refused-compassionate-leave-to-visit-sister-and-newborn-niece.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Limavady murder accused refused compassionate leave to visit sister and newborn niece](https://www.derrynow.com/news/home/1666062/limavady-murder-accused-refused-compassionate-leave-to-visit-sister-and-newborn-niece.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![South Bank Square granted planning permission for  674 new homes in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "South Bank Square granted planning permission for  674 new homes in Derry")](https://www.derrynow.com/news/local-news/1666525/south-bank-square-granted-planning-permission-for-674-new-homes-in-derry.html)
 
 Aerial photograph of application site and H30 Zoning.
@@ -290,6 +267,27 @@ Aerial photograph of application site and H30 Zoning.
 
 [South Bank Square granted planning permission for  674 new homes in Derry](https://www.derrynow.com/news/local-news/1666525/south-bank-square-granted-planning-permission-for-674-new-homes-in-derry.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1664784/derry-death-notices-wednesday-november-27-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Wednesday, November 27, 2024](https://www.derrynow.com/news/deaths/1664784/derry-death-notices-wednesday-november-27-2024.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Limavady murder accused refused compassionate leave to visit sister and newborn niece](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Limavady murder accused refused compassionate leave to visit sister and newborn niece")](https://www.derrynow.com/news/home/1666062/limavady-murder-accused-refused-compassionate-leave-to-visit-sister-and-newborn-niece.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Limavady murder accused refused compassionate leave to visit sister and newborn niece](https://www.derrynow.com/news/home/1666062/limavady-murder-accused-refused-compassionate-leave-to-visit-sister-and-newborn-niece.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Seán Dolans GAC Annual Dinner Dance in The City Hotel](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Seán Dolans GAC Annual Dinner Dance in The City Hotel")](https://www.derrynow.com/story-telling/pictures---videos/1664007/in-pictures-sean-dolans-gac-annual-dinner-dance-in-the-city-hotel.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Seán Dolans GAC Annual Dinner Dance in The City Hotel](https://www.derrynow.com/story-telling/pictures---videos/1664007/in-pictures-sean-dolans-gac-annual-dinner-dance-in-the-city-hotel.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Two men charged with a series of drug offences remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two men charged with a series of drug offences remanded")](https://www.derrynow.com/news/local-news/1666040/two-men-charged-with-a-series-of-drug-offences-remanded.html)
 
@@ -307,6 +305,20 @@ An effigy of Lundy before the burning at a previous 'Shutting of the Gates'.
 [Traffic information ahead of Apprentice Boys 336th ‘Shutting of the Gates’](https://www.derrynow.com/news/local-news/1666133/traffic-information-ahead-of-apprentice-boys-336th-shutting-of-the-gates-announced.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Derry man charged with terrorism offences linked to PSNI data breach expected to go on trial in New Year](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with terrorism offences linked to PSNI data breach expected to go on trial in New Year")](https://www.derrynow.com/news/home/1665982/derry-man-charged-with-terrorism-offences-linked-to-psni-data-breach-expected-to-go-on-trial-in-new-year.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man charged with terrorism offences linked to PSNI data breach expected to go on trial in New Year](https://www.derrynow.com/news/home/1665982/derry-man-charged-with-terrorism-offences-linked-to-psni-data-breach-expected-to-go-on-trial-in-new-year.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Dungiven man threatened to kill partner by 'cutting her from ear to ear', court told](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Dungiven man threatened to kill partner by 'cutting her from ear to ear', court told")](https://www.derrynow.com/news/home/1666429/dungiven-man-threatened-to-kill-partner-by-cutting-her-from-ear-to-ear-court-told.html)
+
+[Home](https://www.derrynow.com/)
+
+[Dungiven man threatened to kill partner by 'cutting her from ear to ear', court told](https://www.derrynow.com/news/home/1666429/dungiven-man-threatened-to-kill-partner-by-cutting-her-from-ear-to-ear-court-told.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Two men charged to court following Derry drug seizure](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two men charged to court following Derry drug seizure")](https://www.derrynow.com/news/local-news/1665774/two-men-charged-to-court-following-derry-drug-seizure.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -314,28 +326,12 @@ An effigy of Lundy before the burning at a previous 'Shutting of the Gates'.
 [Two men charged to court following Derry drug seizure](https://www.derrynow.com/news/local-news/1665774/two-men-charged-to-court-following-derry-drug-seizure.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![County Derry teenagers shine bright on the catwalk](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry teenagers shine bright on the catwalk")](https://www.derrynow.com/news/home/1665244/county-derry-teenagers-shine-bright-on-the-catwalk.html)
-
-Cara (left) and Hannah Rose (right) were crowned winners at the recent modelling competition.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[County Derry teenagers shine bright on the catwalk](https://www.derrynow.com/news/home/1665244/county-derry-teenagers-shine-bright-on-the-catwalk.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Suspended sentence for man charged with disorderly behavior and resisting police](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for man charged with disorderly behavior and resisting police")](https://www.derrynow.com/news/local-news/1666125/suspended-sentence-for-man-charged-with-disorderly-behavior-and-resisting-police.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
 [Suspended sentence for man charged with disorderly behavior and resisting police](https://www.derrynow.com/news/local-news/1666125/suspended-sentence-for-man-charged-with-disorderly-behavior-and-resisting-police.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man charged with terrorism offences linked to PSNI data breach expected to go on trial in New Year](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with terrorism offences linked to PSNI data breach expected to go on trial in New Year")](https://www.derrynow.com/news/home/1665982/derry-man-charged-with-terrorism-offences-linked-to-psni-data-breach-expected-to-go-on-trial-in-new-year.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man charged with terrorism offences linked to PSNI data breach expected to go on trial in New Year](https://www.derrynow.com/news/home/1665982/derry-man-charged-with-terrorism-offences-linked-to-psni-data-breach-expected-to-go-on-trial-in-new-year.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -515,7 +511,30 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Late mother and close friend inspire Maghera native to record debut album](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Late mother and close friend inspire Maghera native to record debut album")](https://www.derrynow.com/news/home/1665837/late-mother-and-close-friend-inspire-maghera-native-to-record-debut-album.html)
+[![Parents of special educational needs children face ‘endless fight’ for support](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Parents of special educational needs children face ‘endless fight’ for support")](https://www.derrynow.com/news/northern-ireland/1666278/parents-of-special-educational-needs-children-face-endless-fight-for-support.html)
+
+[Northern Ireland](https://www.limerickleader.ie/section/2726/northern-ireland)
+
+[Parents of special educational needs children face ‘endless fight’ for support](https://www.derrynow.com/news/northern-ireland/1666278/parents-of-special-educational-needs-children-face-endless-fight-for-support.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Learmount Forest Footstick Bridge officially opened by Minister](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Learmount Forest Footstick Bridge officially opened by Minister")](https://www.derrynow.com/news/home/1666574/learmount-forest-footstick-bridge-officially-opened-by-minister.html)
+
+The Mayor with Caroline Lynch, Learmount, Karen Phillips and David Mullan, DCSDC, Mike Savage, (retired, DCSDC), Minister John O'Dowd, Paul McNaught, DfC, and Patrick Conway, Learmount.
+
+[Home](https://www.derrynow.com/)
+
+[Learmount Forest Footstick Bridge officially opened by Minister](https://www.derrynow.com/news/home/1666574/learmount-forest-footstick-bridge-officially-opened-by-minister.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Dungiven man threatened to kill partner by 'cutting her from ear to ear', court told](https://www.derrynow.com/resizer/165/93/true/2024_11_27/360_F_516209984_APT701DWSDCUPzErByEByUrqEjHwRYCX-1732725965780.jpg--.jpg?1732725965798 "Dungiven man threatened to kill partner by 'cutting her from ear to ear', court told")](https://www.derrynow.com/news/home/1666429/dungiven-man-threatened-to-kill-partner-by-cutting-her-from-ear-to-ear-court-told.html)
+
+[Home](https://www.derrynow.com/)
+
+[Dungiven man threatened to kill partner by 'cutting her from ear to ear', court told](https://www.derrynow.com/news/home/1666429/dungiven-man-threatened-to-kill-partner-by-cutting-her-from-ear-to-ear-court-told.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Late mother and close friend inspire Maghera native to record debut album](https://www.derrynow.com/resizer/165/93/true/2024_11_27/CDP_-_26-11-24_-_Page_2_lead_pic_%281%29-1732701753027.JPG--.JPG?1732701753654 "Late mother and close friend inspire Maghera native to record debut album")](https://www.derrynow.com/news/home/1665837/late-mother-and-close-friend-inspire-maghera-native-to-record-debut-album.html)
 
 John Burns (left) accepts the first copy of his friend, John O'Connor's debut album.
 
@@ -524,7 +543,7 @@ John Burns (left) accepts the first copy of his friend, John O'Connor's debut al
 [Late mother and close friend inspire Maghera native to record debut album](https://www.derrynow.com/news/home/1665837/late-mother-and-close-friend-inspire-maghera-native-to-record-debut-album.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![South Bank Square granted planning permission for  674 new homes in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "South Bank Square granted planning permission for  674 new homes in Derry")](https://www.derrynow.com/news/local-news/1666525/south-bank-square-granted-planning-permission-for-674-new-homes-in-derry.html)
+[![South Bank Square granted planning permission for  674 new homes in Derry](https://www.derrynow.com/resizer/165/93/true/2024_11_27/Site_map-1732730287512.jpg--.jpg?1732730287566 "South Bank Square granted planning permission for  674 new homes in Derry")](https://www.derrynow.com/news/local-news/1666525/south-bank-square-granted-planning-permission-for-674-new-homes-in-derry.html)
 
 Aerial photograph of application site and H30 Zoning.
 
@@ -541,31 +560,6 @@ Local creative Fiona Shannon (Fiona Shannon Ceramics), and Amy Donaghey, Arts Ma
 
 [A day of festive celebration at Flowerfield Arts Centre](https://www.derrynow.com/news/home/1666346/a-day-of-festive-celebration-at-flowerfield-arts-centre.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![World Diabetes Day event informs 130 Limavady participants about healthy lifestyles](https://www.derrynow.com/resizer/165/93/true/2024_11_27/CDP_-_26-11-24_-_Page_9_lead_pic-1732721564304.jpeg--.jpeg?1732721564493 "World Diabetes Day event informs 130 Limavady participants about healthy lifestyles")](https://www.derrynow.com/news/home/1666331/world-diabetes-day-event-informs-130-limavady-participants-about-healthy-lifestyles.html)
-
-Some of the speakers who attended the Limavady event.
-
-[Home](https://www.derrynow.com/)
-
-[World Diabetes Day event informs 130 Limavady participants about healthy lifestyles](https://www.derrynow.com/news/home/1666331/world-diabetes-day-event-informs-130-limavady-participants-about-healthy-lifestyles.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![New stand at the Brandywell](https://www.derrynow.com/resizer/165/93/true/2024_11_27/467777652_1087985496674185_4041858053796289876_n-1732722697014.jpg--.jpg?1732722697086 "New stand at the Brandywell")](https://www.derrynow.com/poll/derry-sport/1666352/what-should-the-new-stand-at-the-ryan-mcbride-brandywell-be-named.html)
-
-New stand at the Brandywell
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[What should the new stand at the Ryan McBride Brandywell be named?](https://www.derrynow.com/poll/derry-sport/1666352/what-should-the-new-stand-at-the-ryan-mcbride-brandywell-be-named.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Former Limerick Stength & conditioning coach joins Derry backroom team](https://www.derrynow.com/resizer/165/93/true/2024_11_27/2583257-1732705681682_1732706777.jpg--.jpg?1732706777720 "Former Limerick Stength & conditioning coach joins Derry backroom team")](https://www.derrynow.com/news/derry-sport/1666337/former-limerick-strength-and-conditioning-coach-joins-derry-backroom-team.html)
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Former Limerick strength and conditioning coach joins Derry backroom team](https://www.derrynow.com/news/derry-sport/1666337/former-limerick-strength-and-conditioning-coach-joins-derry-backroom-team.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
