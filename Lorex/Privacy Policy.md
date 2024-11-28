@@ -46,7 +46,9 @@ triangle borderless
     
     Wired Security Solutions arrow bottom
     
-    [![](//www.lorex.com/cdn/shop/collections/N4K2SD-84WD-1-L1_80x.png?v=1686081716)
+    [![](//www.lorex.com/cdn/shop/collections/wiredSolutions_80x.jpg?v=1732802420)
+    
+    Shop All Wired Security Solutions](https://www.lorex.com/collections/wired-security-solutions)[![](//www.lorex.com/cdn/shop/collections/N4K2SD-84WD-1-L1_80x.png?v=1686081716)
     
     Security Systems](https://www.lorex.com/collections/security-camera-systems)[![](//www.lorex.com/cdn/shop/collections/LNE9282B-L3_80x.png?v=1686081714)
     
