@@ -4,7 +4,7 @@
 
 [Facebook](https://www.facebook.com/miamipartycharacters/ "Facebook")[X](https://twitter.com/miamisuperhero "X")[YouTube](https://www.youtube.com/channel/UCapXRJB-1d4I8n_-ZKLZJ0Q "YouTube")
 
-[![Miami Superhero Logo](data:image/svg+xml;nitro-empty-id=MTM0OjI2NA==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzY0IDM3IiB3aWR0aD0iMzY0IiBoZWlnaHQ9IjM3IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://miamisuperhero.com/)
+[![Miami Superhero Logo](data:image/svg+xml;nitro-empty-id=MTM1OjI2NA==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzY0IDM3IiB3aWR0aD0iMzY0IiBoZWlnaHQ9IjM3IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://miamisuperhero.com/)
 
 Search for: 
 
@@ -114,6 +114,7 @@ Search for:
         * [Minecraft Steve](https://miamisuperhero.com/minecraft-steve/)
         * [Minions Party](https://miamisuperhero.com/minions-party/)
         * [MINNIE Mouse](https://miamisuperhero.com/minnie-mouse-character/)
+        * [Moana](https://miamisuperhero.com/princess-moana-party/)
         * [Monster High](https://miamisuperhero.com/monster-high-party/)
         * [Ms Rachel](https://miamisuperhero.com/ms-rachel-party/ "Ms Rachel party")
         * [Nella The Princess Knight](https://miamisuperhero.com/nella-the-princess-knight-rental/)
@@ -137,6 +138,7 @@ Search for:
         * [Princess Encanto](https://miamisuperhero.com/encanto-rental/)
         * [Princess Fiona & Shrek](https://miamisuperhero.com/shrek-fiona/)
         * [Princess Jasmine](https://miamisuperhero.com/princess-jasmine-party/)
+        * [Princess Moana](https://miamisuperhero.com/princess-moana-party/)
         * [Princess Nella Knight](https://miamisuperhero.com/nella-the-princess-knight-rental/)
         * [Princess Peaches](https://miamisuperhero.com/princess-peaches/)
         * [Princess Rapunzel Tangled](https://miamisuperhero.com/tangled-rapunzel/)
@@ -386,6 +388,7 @@ Search for:
         * [Minecraft Steve](https://miamisuperhero.com/minecraft-steve/)
         * [Minions Party](https://miamisuperhero.com/minions-party/)
         * [MINNIE Mouse](https://miamisuperhero.com/minnie-mouse-character/)
+        * [Moana](https://miamisuperhero.com/princess-moana-party/)
         * [Monster High](https://miamisuperhero.com/monster-high-party/)
         * [Ms Rachel](https://miamisuperhero.com/ms-rachel-party/ "Ms Rachel party")
         * [Nella The Princess Knight](https://miamisuperhero.com/nella-the-princess-knight-rental/)
@@ -409,6 +412,7 @@ Search for:
         * [Princess Encanto](https://miamisuperhero.com/encanto-rental/)
         * [Princess Fiona & Shrek](https://miamisuperhero.com/shrek-fiona/)
         * [Princess Jasmine](https://miamisuperhero.com/princess-jasmine-party/)
+        * [Princess Moana](https://miamisuperhero.com/princess-moana-party/)
         * [Princess Nella Knight](https://miamisuperhero.com/nella-the-princess-knight-rental/)
         * [Princess Peaches](https://miamisuperhero.com/princess-peaches/)
         * [Princess Rapunzel Tangled](https://miamisuperhero.com/tangled-rapunzel/)
