@@ -808,21 +808,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
+* [Anschluss­finanzierung: So sichern Sie sich einen güns­tigen Anschluss­kredit](https://www.test.de/Anschlussfinanzierung-Kredit-Zinsen-Vergleich-4963970-0/ "Anschlussfinanzierung - So sichern Sie sich einen günstigen Anschlusskredit")
 * [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
 * [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
 * [Fest­geld­vergleich: Hier bringt Ihr Spargeld die beste Rendite – und ist sicher](https://www.test.de/Festgeldvergleich-Die-besten-Zinsen-4196084-0/ "Festgeldvergleich - Hier bringt Ihr Spargeld die beste Rendite – und ist sicher")
 * [Tages­geld­vergleich: Hier finden Sie die besten Zinsen](https://www.test.de/Tagesgeldvergleich-Die-besten-Zinsen-4196794-0/ "Tagesgeldvergleich - Hier finden Sie die besten Zinsen")
-* [Kfz-Versicherung im Vergleich: Jetzt noch die Chance nutzen – güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Jetzt noch die Chance nutzen – günstige Autoversicherung finden")
-* [Laptops im Test: Kräftig und kompakt – Notebooks, Ultra­books und Co](https://www.test.de/Tablets-mit-Tastatur-Notebooks-Ultrabooks-Convertibles-im-Test-4734961-0/ "Laptops im Test - Kräftig und kompakt – Notebooks, Ultrabooks und Co")
 
 test.de entdecken
 
-* [Finanz­bildung: Mit Kindern über Geld sprechen](https://www.test.de/Mit-Kindern-ueber-Geld-sprechen-6071008-0/ "Finanzbildung - Mit Kindern über Geld sprechen")
-* [Heiz­decken im Test: Mit denen werden wir warm](https://www.test.de/Heizdecken-im-Test-6157422-0/ "Heizdecken im Test - Mit denen werden wir warm")
-* [Schmierfilm auf Kunststoffen: So werden klebrige Oberflächen wieder glatt](https://www.test.de/Schmierfilm-auf-Kunststoffen-So-werden-klebrige-Oberflaechen-wieder-glatt-5952486-0/ "Schmierfilm auf Kunststoffen - So werden klebrige Oberflächen wieder glatt")
-* [Mehr Spaß im Glas mit der Stiftung Warentest: Eiskalte Drinks für den Sommer](https://www.test.de/Mehr-Spass-im-Glas-mit-der-Stiftung-Warentest-Eiskalte-Drinks-fuer-den-Sommer-6010945-0/ "Mehr Spaß im Glas mit der Stiftung Warentest - Eiskalte Drinks für den Sommer")
-* [Pflege für Boote: Algen ausbooten](https://www.test.de/Pflege-fuer-Boote-Algen-ausbooten-6016420-0/ "Pflege für Boote - Algen ausbooten")
-* [Chinas Aktienmärkte: Welche Chancen es für Anleger in China gibt – und welche Risiken](https://www.test.de/Chinas-Aktienmaerkte-Chancen-und-Risiken-fuer-Anleger-im-Reich-der-Mitte-6147094-0/ "Chinas Aktienmärkte - Welche Chancen es für Anleger in China gibt – und welche Risiken")
+* [Streuung bei der Geld­anlage: Sind Einzel­aktien besser als ETF?](https://www.test.de/Streuung-bei-der-Geldanlage-Sind-Einzelaktien-besser-als-ETF-6116220-0/ "Streuung bei der Geldanlage - Sind Einzelaktien besser als ETF?")
+* [Steuererklärung für Studierende: Schon im Studium Steuern sparen](https://www.test.de/Steuererklaerung-fuer-Studierende-4168988-0/ "Steuererklärung für Studierende - Schon im Studium Steuern sparen")
+* [Dubiose Onlinebroker: Eternity Business Ltd. fehlt Zulassung](https://www.test.de/Dubiose-Onlinebroker-Eternity-Business-Ltd-fehlt-Zulassung-6031051-0/ "Dubiose Onlinebroker - Eternity Business Ltd. fehlt Zulassung")
+* [Fisch­stäbchen im Test: Zum Anbeißen sind nur zwei](https://www.test.de/fischstaebchen-im-test-1662266-0/ "Fischstäbchen im Test - Zum Anbeißen sind nur zwei")
+* [TV-Tonspur „Klare Sprache“ im Test: Besser verstehen, was die Schauspieler sagen](https://www.test.de/TV-Tonspur-Klare-Sprache-im-Test-Besser-verstehen-was-die-Schauspieler-sagen-6074291-0/ "TV-Tonspur „Klare Sprache“ im Test - Besser verstehen, was die Schauspieler sagen")
+* [Welt-Aktien-ETF: MSCI World ETF – nur was für Einsteiger?](https://www.test.de/Welt-Aktien-ETF-MSCI-World-ETF-nur-was-fuer-Einsteiger-6044298-0/ "Welt-Aktien-ETF - MSCI World ETF – nur was für Einsteiger?")
 
 Weitere Informationen
 
@@ -3862,59 +3862,59 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
+* [Anschluss­finanzierung: So sichern Sie sich einen güns­tigen Anschluss­kredit](https://www.test.de/Anschlussfinanzierung-Kredit-Zinsen-Vergleich-4963970-0/ "Anschlussfinanzierung - So sichern Sie sich einen günstigen Anschlusskredit")
 * [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
 * [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
 * [Fest­geld­vergleich: Hier bringt Ihr Spargeld die beste Rendite – und ist sicher](https://www.test.de/Festgeldvergleich-Die-besten-Zinsen-4196084-0/ "Festgeldvergleich - Hier bringt Ihr Spargeld die beste Rendite – und ist sicher")
 * [Tages­geld­vergleich: Hier finden Sie die besten Zinsen](https://www.test.de/Tagesgeldvergleich-Die-besten-Zinsen-4196794-0/ "Tagesgeldvergleich - Hier finden Sie die besten Zinsen")
-* [Kfz-Versicherung im Vergleich: Jetzt noch die Chance nutzen – güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Jetzt noch die Chance nutzen – günstige Autoversicherung finden")
-* [Laptops im Test: Kräftig und kompakt – Notebooks, Ultra­books und Co](https://www.test.de/Tablets-mit-Tastatur-Notebooks-Ultrabooks-Convertibles-im-Test-4734961-0/ "Laptops im Test - Kräftig und kompakt – Notebooks, Ultrabooks und Co")
 
 test.de entdecken
 
-* [Finanz­bildung: Mit Kindern über Geld sprechen](https://www.test.de/Mit-Kindern-ueber-Geld-sprechen-6071008-0/ "Finanzbildung - Mit Kindern über Geld sprechen")
-* [Heiz­decken im Test: Mit denen werden wir warm](https://www.test.de/Heizdecken-im-Test-6157422-0/ "Heizdecken im Test - Mit denen werden wir warm")
-* [Schmierfilm auf Kunststoffen: So werden klebrige Oberflächen wieder glatt](https://www.test.de/Schmierfilm-auf-Kunststoffen-So-werden-klebrige-Oberflaechen-wieder-glatt-5952486-0/ "Schmierfilm auf Kunststoffen - So werden klebrige Oberflächen wieder glatt")
-* [Mehr Spaß im Glas mit der Stiftung Warentest: Eiskalte Drinks für den Sommer](https://www.test.de/Mehr-Spass-im-Glas-mit-der-Stiftung-Warentest-Eiskalte-Drinks-fuer-den-Sommer-6010945-0/ "Mehr Spaß im Glas mit der Stiftung Warentest - Eiskalte Drinks für den Sommer")
-* [Pflege für Boote: Algen ausbooten](https://www.test.de/Pflege-fuer-Boote-Algen-ausbooten-6016420-0/ "Pflege für Boote - Algen ausbooten")
-* [Chinas Aktienmärkte: Welche Chancen es für Anleger in China gibt – und welche Risiken](https://www.test.de/Chinas-Aktienmaerkte-Chancen-und-Risiken-fuer-Anleger-im-Reich-der-Mitte-6147094-0/ "Chinas Aktienmärkte - Welche Chancen es für Anleger in China gibt – und welche Risiken")
+* [Streuung bei der Geld­anlage: Sind Einzel­aktien besser als ETF?](https://www.test.de/Streuung-bei-der-Geldanlage-Sind-Einzelaktien-besser-als-ETF-6116220-0/ "Streuung bei der Geldanlage - Sind Einzelaktien besser als ETF?")
+* [Steuererklärung für Studierende: Schon im Studium Steuern sparen](https://www.test.de/Steuererklaerung-fuer-Studierende-4168988-0/ "Steuererklärung für Studierende - Schon im Studium Steuern sparen")
+* [Dubiose Onlinebroker: Eternity Business Ltd. fehlt Zulassung](https://www.test.de/Dubiose-Onlinebroker-Eternity-Business-Ltd-fehlt-Zulassung-6031051-0/ "Dubiose Onlinebroker - Eternity Business Ltd. fehlt Zulassung")
+* [Fisch­stäbchen im Test: Zum Anbeißen sind nur zwei](https://www.test.de/fischstaebchen-im-test-1662266-0/ "Fischstäbchen im Test - Zum Anbeißen sind nur zwei")
+* [TV-Tonspur „Klare Sprache“ im Test: Besser verstehen, was die Schauspieler sagen](https://www.test.de/TV-Tonspur-Klare-Sprache-im-Test-Besser-verstehen-was-die-Schauspieler-sagen-6074291-0/ "TV-Tonspur „Klare Sprache“ im Test - Besser verstehen, was die Schauspieler sagen")
+* [Welt-Aktien-ETF: MSCI World ETF – nur was für Einsteiger?](https://www.test.de/Welt-Aktien-ETF-MSCI-World-ETF-nur-was-fuer-Einsteiger-6044298-0/ "Welt-Aktien-ETF - MSCI World ETF – nur was für Einsteiger?")
 
 Weitere spannende Themen
 
 Neueste Tests
 
+* [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
+* [Anschluss­finanzierung: So sichern Sie sich einen güns­tigen Anschluss­kredit](https://www.test.de/Anschlussfinanzierung-Kredit-Zinsen-Vergleich-4963970-0/ "Anschlussfinanzierung - So sichern Sie sich einen günstigen Anschlusskredit")
 * [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
 * [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
 * [Fest­geld­vergleich: Hier bringt Ihr Spargeld die beste Rendite – und ist sicher](https://www.test.de/Festgeldvergleich-Die-besten-Zinsen-4196084-0/ "Festgeldvergleich - Hier bringt Ihr Spargeld die beste Rendite – und ist sicher")
 * [Tages­geld­vergleich: Hier finden Sie die besten Zinsen](https://www.test.de/Tagesgeldvergleich-Die-besten-Zinsen-4196794-0/ "Tagesgeldvergleich - Hier finden Sie die besten Zinsen")
-* [Kfz-Versicherung im Vergleich: Jetzt noch die Chance nutzen – güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Jetzt noch die Chance nutzen – günstige Autoversicherung finden")
-* [Laptops im Test: Kräftig und kompakt – Notebooks, Ultra­books und Co](https://www.test.de/Tablets-mit-Tastatur-Notebooks-Ultrabooks-Convertibles-im-Test-4734961-0/ "Laptops im Test - Kräftig und kompakt – Notebooks, Ultrabooks und Co")
 
 test.de entdecken
 
-* [Finanz­bildung: Mit Kindern über Geld sprechen](https://www.test.de/Mit-Kindern-ueber-Geld-sprechen-6071008-0/ "Finanzbildung - Mit Kindern über Geld sprechen")
-* [Heiz­decken im Test: Mit denen werden wir warm](https://www.test.de/Heizdecken-im-Test-6157422-0/ "Heizdecken im Test - Mit denen werden wir warm")
-* [Schmierfilm auf Kunststoffen: So werden klebrige Oberflächen wieder glatt](https://www.test.de/Schmierfilm-auf-Kunststoffen-So-werden-klebrige-Oberflaechen-wieder-glatt-5952486-0/ "Schmierfilm auf Kunststoffen - So werden klebrige Oberflächen wieder glatt")
-* [Mehr Spaß im Glas mit der Stiftung Warentest: Eiskalte Drinks für den Sommer](https://www.test.de/Mehr-Spass-im-Glas-mit-der-Stiftung-Warentest-Eiskalte-Drinks-fuer-den-Sommer-6010945-0/ "Mehr Spaß im Glas mit der Stiftung Warentest - Eiskalte Drinks für den Sommer")
-* [Pflege für Boote: Algen ausbooten](https://www.test.de/Pflege-fuer-Boote-Algen-ausbooten-6016420-0/ "Pflege für Boote - Algen ausbooten")
-* [Chinas Aktienmärkte: Welche Chancen es für Anleger in China gibt – und welche Risiken](https://www.test.de/Chinas-Aktienmaerkte-Chancen-und-Risiken-fuer-Anleger-im-Reich-der-Mitte-6147094-0/ "Chinas Aktienmärkte - Welche Chancen es für Anleger in China gibt – und welche Risiken")
+* [Streuung bei der Geld­anlage: Sind Einzel­aktien besser als ETF?](https://www.test.de/Streuung-bei-der-Geldanlage-Sind-Einzelaktien-besser-als-ETF-6116220-0/ "Streuung bei der Geldanlage - Sind Einzelaktien besser als ETF?")
+* [Steuererklärung für Studierende: Schon im Studium Steuern sparen](https://www.test.de/Steuererklaerung-fuer-Studierende-4168988-0/ "Steuererklärung für Studierende - Schon im Studium Steuern sparen")
+* [Dubiose Onlinebroker: Eternity Business Ltd. fehlt Zulassung](https://www.test.de/Dubiose-Onlinebroker-Eternity-Business-Ltd-fehlt-Zulassung-6031051-0/ "Dubiose Onlinebroker - Eternity Business Ltd. fehlt Zulassung")
+* [Fisch­stäbchen im Test: Zum Anbeißen sind nur zwei](https://www.test.de/fischstaebchen-im-test-1662266-0/ "Fischstäbchen im Test - Zum Anbeißen sind nur zwei")
+* [TV-Tonspur „Klare Sprache“ im Test: Besser verstehen, was die Schauspieler sagen](https://www.test.de/TV-Tonspur-Klare-Sprache-im-Test-Besser-verstehen-was-die-Schauspieler-sagen-6074291-0/ "TV-Tonspur „Klare Sprache“ im Test - Besser verstehen, was die Schauspieler sagen")
+* [Welt-Aktien-ETF: MSCI World ETF – nur was für Einsteiger?](https://www.test.de/Welt-Aktien-ETF-MSCI-World-ETF-nur-was-fuer-Einsteiger-6044298-0/ "Welt-Aktien-ETF - MSCI World ETF – nur was für Einsteiger?")
 
 Neueste Tests
 
+* [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
+* [Anschluss­finanzierung: So sichern Sie sich einen güns­tigen Anschluss­kredit](https://www.test.de/Anschlussfinanzierung-Kredit-Zinsen-Vergleich-4963970-0/ "Anschlussfinanzierung - So sichern Sie sich einen günstigen Anschlusskredit")
 * [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
 * [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
 * [Fest­geld­vergleich: Hier bringt Ihr Spargeld die beste Rendite – und ist sicher](https://www.test.de/Festgeldvergleich-Die-besten-Zinsen-4196084-0/ "Festgeldvergleich - Hier bringt Ihr Spargeld die beste Rendite – und ist sicher")
 * [Tages­geld­vergleich: Hier finden Sie die besten Zinsen](https://www.test.de/Tagesgeldvergleich-Die-besten-Zinsen-4196794-0/ "Tagesgeldvergleich - Hier finden Sie die besten Zinsen")
-* [Kfz-Versicherung im Vergleich: Jetzt noch die Chance nutzen – güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Jetzt noch die Chance nutzen – günstige Autoversicherung finden")
-* [Laptops im Test: Kräftig und kompakt – Notebooks, Ultra­books und Co](https://www.test.de/Tablets-mit-Tastatur-Notebooks-Ultrabooks-Convertibles-im-Test-4734961-0/ "Laptops im Test - Kräftig und kompakt – Notebooks, Ultrabooks und Co")
 
 test.de entdecken
 
-* [Finanz­bildung: Mit Kindern über Geld sprechen](https://www.test.de/Mit-Kindern-ueber-Geld-sprechen-6071008-0/ "Finanzbildung - Mit Kindern über Geld sprechen")
-* [Heiz­decken im Test: Mit denen werden wir warm](https://www.test.de/Heizdecken-im-Test-6157422-0/ "Heizdecken im Test - Mit denen werden wir warm")
-* [Schmierfilm auf Kunststoffen: So werden klebrige Oberflächen wieder glatt](https://www.test.de/Schmierfilm-auf-Kunststoffen-So-werden-klebrige-Oberflaechen-wieder-glatt-5952486-0/ "Schmierfilm auf Kunststoffen - So werden klebrige Oberflächen wieder glatt")
-* [Mehr Spaß im Glas mit der Stiftung Warentest: Eiskalte Drinks für den Sommer](https://www.test.de/Mehr-Spass-im-Glas-mit-der-Stiftung-Warentest-Eiskalte-Drinks-fuer-den-Sommer-6010945-0/ "Mehr Spaß im Glas mit der Stiftung Warentest - Eiskalte Drinks für den Sommer")
-* [Pflege für Boote: Algen ausbooten](https://www.test.de/Pflege-fuer-Boote-Algen-ausbooten-6016420-0/ "Pflege für Boote - Algen ausbooten")
-* [Chinas Aktienmärkte: Welche Chancen es für Anleger in China gibt – und welche Risiken](https://www.test.de/Chinas-Aktienmaerkte-Chancen-und-Risiken-fuer-Anleger-im-Reich-der-Mitte-6147094-0/ "Chinas Aktienmärkte - Welche Chancen es für Anleger in China gibt – und welche Risiken")
+* [Streuung bei der Geld­anlage: Sind Einzel­aktien besser als ETF?](https://www.test.de/Streuung-bei-der-Geldanlage-Sind-Einzelaktien-besser-als-ETF-6116220-0/ "Streuung bei der Geldanlage - Sind Einzelaktien besser als ETF?")
+* [Steuererklärung für Studierende: Schon im Studium Steuern sparen](https://www.test.de/Steuererklaerung-fuer-Studierende-4168988-0/ "Steuererklärung für Studierende - Schon im Studium Steuern sparen")
+* [Dubiose Onlinebroker: Eternity Business Ltd. fehlt Zulassung](https://www.test.de/Dubiose-Onlinebroker-Eternity-Business-Ltd-fehlt-Zulassung-6031051-0/ "Dubiose Onlinebroker - Eternity Business Ltd. fehlt Zulassung")
+* [Fisch­stäbchen im Test: Zum Anbeißen sind nur zwei](https://www.test.de/fischstaebchen-im-test-1662266-0/ "Fischstäbchen im Test - Zum Anbeißen sind nur zwei")
+* [TV-Tonspur „Klare Sprache“ im Test: Besser verstehen, was die Schauspieler sagen](https://www.test.de/TV-Tonspur-Klare-Sprache-im-Test-Besser-verstehen-was-die-Schauspieler-sagen-6074291-0/ "TV-Tonspur „Klare Sprache“ im Test - Besser verstehen, was die Schauspieler sagen")
+* [Welt-Aktien-ETF: MSCI World ETF – nur was für Einsteiger?](https://www.test.de/Welt-Aktien-ETF-MSCI-World-ETF-nur-was-fuer-Einsteiger-6044298-0/ "Welt-Aktien-ETF - MSCI World ETF – nur was für Einsteiger?")
 
 Stiftung Warentest
 
