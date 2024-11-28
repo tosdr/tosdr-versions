@@ -193,7 +193,7 @@
         * [Participación](https://www.juntadeandalucia.es/servicios/participacion.html "Participación")
         * [Estadística y cartografía](https://www.juntadeandalucia.es/servicios/estadistica-cartografia.html "Estadística y cartografía")
         * [Catálogo de publicaciones](https://www.juntadeandalucia.es/servicios/publicaciones.html "Catálogo de publicaciones")
-        * [Datos abiertos](https://www.juntadeandalucia.es/datosabiertos/portal.html "Datos abiertos")
+        * [Datos abiertos](https://www.juntadeandalucia.es/datosabiertos/portal/ "Datos abiertos")
         * [Ver más](https://www.juntadeandalucia.es/servicios/servicios-informacion.html "Ver más")
     
     Directo a
