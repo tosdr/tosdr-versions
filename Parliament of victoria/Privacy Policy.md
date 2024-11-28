@@ -31,6 +31,20 @@ Main menu
     #### Latest Icon time
     
     * [**Legislative Council**  
+        Hansard proceedings published](https://parliament.vic.gov.au/parliamentary-activity/hansard/hansard-details/HANSARD-974425065-29213)
+        
+        Icon calendar 28 November 2024
+        
+        Proof
+        
+    * [**Legislative Assembly**  
+        Hansard proceedings published](https://parliament.vic.gov.au/parliamentary-activity/hansard/hansard-details/HANSARD-2145855009-28982)
+        
+        Icon calendar 28 November 2024
+        
+        Proof
+        
+    * [**Legislative Council**  
         Hansard proceedings published](https://parliament.vic.gov.au/parliamentary-activity/hansard/hansard-details/HANSARD-974425065-29123)
         
         Icon calendar 27 November 2024
@@ -41,20 +55,6 @@ Main menu
         Hansard proceedings published](https://parliament.vic.gov.au/parliamentary-activity/hansard/hansard-details/HANSARD-2145855009-28857)
         
         Icon calendar 27 November 2024
-        
-        Proof
-        
-    * [**Legislative Assembly**  
-        Hansard proceedings published](https://parliament.vic.gov.au/parliamentary-activity/hansard/hansard-details/HANSARD-2145855009-28763)
-        
-        Icon calendar 26 November 2024
-        
-        Proof
-        
-    * [**Legislative Council**  
-        Hansard proceedings published](https://parliament.vic.gov.au/parliamentary-activity/hansard/hansard-details/HANSARD-974425065-29037)
-        
-        Icon calendar 26 November 2024
         
         Proof
         
@@ -117,6 +117,10 @@ Main menu
     
     #### [Latest](https://parliament.vic.gov.au/link/c5bd7124b44e42c2929fdf47bfd51f6e.aspx)
     
+    * [A fairer share for cash-strapped councils](https://parliament.vic.gov.au/link/a956c472bf1943e7a01efecac566fe2c.aspx)
+        
+        28 November 2024
+        
     * [Better access to boost inclusion](https://parliament.vic.gov.au/link/7dbc04650f7147ea8d37c2a907abeb7a.aspx)
         
         27 November 2024
@@ -124,10 +128,6 @@ Main menu
     * [Inquiry report is food for thought](https://parliament.vic.gov.au/link/1aefb2eacb064fc697ebf05564386a4c.aspx)
         
         26 November 2024
-        
-    * [Gambling and liquor report response](https://parliament.vic.gov.au/link/3a4da7f967ad4fdc821159b124cec53f.aspx)
-        
-        25 November 2024
         
     
 * [Visit](https://parliament.vic.gov.au/visit/)Expand Visit
