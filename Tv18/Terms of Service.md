@@ -12,9 +12,11 @@ Language
 
 [Markets](https://www.cnbctv18.com/market/ "Markets")
 
-[Economy](https://www.cnbctv18.com/economy/ "Economy")
+[Business](https://www.cnbctv18.com/https://www.cnbctv18.com/business/ "Business")
 
 [Personal Finance](https://www.cnbctv18.com/personal-finance/ "Personal Finance")
+
+[Economy](https://www.cnbctv18.com/economy/ "Economy")
 
 [India](https://www.cnbctv18.com/india/ "India")
 
