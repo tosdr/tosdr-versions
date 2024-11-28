@@ -311,7 +311,7 @@ Canada
 ##### USEFUL LINKS
 
 * [Redeem Code](https://eldamar-studio.com/redeem-code/)
-* [Lifetime Access](https://eldamar-studio.com/lifetime-access/)
+* [Lifetime Subscription](https://eldamar-studio.com/product/the-professional-70000-graphic-asset-bundle-lifetime-subscription/)
 * [Products Compatibility](https://eldamar-studio.com/products-compatibility/)
 * [How to use Lightroom Presets](https://eldamar-studio.com/how-to-use-lightroom-presets/)
 * [How to use LUTs](https://eldamar-studio.com/how-to-use-luts/)
