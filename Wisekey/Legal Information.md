@@ -225,14 +225,14 @@ If you have questions regarding this Privacy Notice, please contact us via email
 
 Subscribe to our Newsletter
 
-* [Solutions](https://www.wisekey.com/page/)
+* [Solutions](#)
     * [By Industry](https://www.wisekey.com/solutions/by-industry/)
         * [Automotive](https://www.wisekey.com/solutions/by-industry/secure-connected-cars/)
         * [Government](https://www.wisekey.com/solutions/by-industry/government-trust-solutions/)
         * [Industry 4.0](https://www.wisekey.com/solutions/by-industry/industry-4-0/)
         * [Financial](https://www.wisekey.com/solutions/by-industry/finance/)
         * [Health](https://www.wisekey.com/wisekey-end2end-secure-digital-medical-devices/)
-    * [Brand Protection](https://www.wisekey.com/page/)
+    * [Brand Protection](#)
         * [Authentic Customer Engagement](https://www.wisekey.com/solutions/brand-protection/authentic-customer-engagement/)
         * [Battery Authentication](https://www.wisekey.com/solutions/brand-protection/protecting-batteries/)
         * [Printer & Cartridge Protection](https://www.wisekey.com/solutions/brand-protection/printer-cartridge-protection/)
