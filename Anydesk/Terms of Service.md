@@ -1,6 +1,6 @@
 ![](https://ad-wa.anydesk.com/matomo.php?idsite=3&rec=1)                                         
 
-![](/_static/icons/white/bold/arrow-up-36e8a8.svg)
+![](/_static/icons/white/bold/arrow-up-38ccc5.svg)
 
   Light Mode
 
