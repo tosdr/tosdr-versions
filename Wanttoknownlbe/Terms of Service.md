@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/mensen/onderzoek-prins-bernhard-vuistdiep-in-wapenhandel/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/artsen-ontkennen-nutteloosheid-psa-prostaatonderzoek/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
