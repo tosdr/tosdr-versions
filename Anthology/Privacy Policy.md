@@ -79,9 +79,8 @@ Main Menu
         * [Brochures & Materials](https://www.anthology.com/resources/brochures-and-materials)
     * [Success Stories](https://www.anthology.com/client-success-stories)
     * Partners
-        * STRATEGIC PARTNERSHIPS
+        * Strategic Partnerships [Amazon Web Services](https://www.anthology.com/strategic-partners/aws) [Microsoft](https://www.anthology.com/strategic-partners/microsoft)
             
-            [Amazon Web Services](https://www.anthology.com/strategic-partners/aws) [Microsoft](https://www.anthology.com/strategic-partners/microsoft)
         * [Integration Partnerships Discover our network of Integration Partners with whom we collaborate so you can seamlessly extend your Anthology platform Learn More](https://www.anthology.com/integration-partnerships)
         * [Channel Partnerships Explore our extensive and expert network of Channel Partners who resell Anthology’s Solutions and Services Learn More](https://www.anthology.com/channel-partnerships)
 
