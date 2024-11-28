@@ -4,27 +4,33 @@ Toggle menu
 
 * Tools
     
+    Create
+    
+    Edit
+    
+    [Explore AI Suite](https://www.freepik.com/ai)
+    
     [AI Image GeneratorCreate images from words in real time](https://www.freepikcompany.com/ai/image-generator)
     
     [AI video generatornewCreate stunning videos from text or images](https://www.freepikcompany.com/ai/video-generator)
     
-    [DesignerbetaEdit templates from your browser](https://www.freepik.com/designer)
-    
     [Mockup GeneratorBring designs to life, effortlessly](https://www.freepikcompany.com/mockup-generator)
     
-    [ReimagineCreate image variations with AI](https://www.freepikcompany.com/ai/reimagine)
+    [AI voice generatornewTurn text into a stunning voiceover in seconds](https://www.freepikcompany.com/ai/voice-generator)
+    
+    [DesignerbetaEdit templates from your browser](https://www.freepik.com/designer)
     
     [Background RemoverErase the background from an image](https://www.freepikcompany.com/ai/background-remover)
     
+    [UpscaleIncrease resolution and details](https://www.freepikcompany.com/ai/image-upscaler)
+    
+    [ReimagineCreate image variations with AI](https://www.freepikcompany.com/ai/reimagine)
+    
+    [ExpandResize any image filling the gaps with AI](https://www.freepik.com/pikaso/expand)
+    
+    [RetouchReplace details quickly and easily](https://www.freepik.com/pikaso/retouch)
+    
     [Image EditorEdit photos easily online, no software needed](https://www.freepikcompany.com/ai/photo-editor)
-    
-    [ExpandnewResize any image filling the gaps with AI](https://www.freepik.com/pikaso/expand)
-    
-    [RetouchnewReplace details quickly and easily](https://www.freepik.com/pikaso/retouch)
-    
-    [Sketch to ImageTransform a doodle into an image in real time](https://www.freepikcompany.com/ai/sketch-to-image)
-    
-    [Freepik AIDiscover how AI boosts our tools and features, as well as your creativity](https://www.freepik.com/ai)
     
 * Images
     
