@@ -203,50 +203,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Jannie Schutte - myFinance-Online.co.za
 
-![valued client Safe Train Mokgethwa (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8103&file=logo_300_100&type=&fe=787944ebbf83016e9b8361eb2e4d113fbfb4386c35d26efd2ad7d77ab684e809&c=130607519)  
-Safe Train Mokgethwa (PTY) Ltd
+![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=a597f2c809e09e43284b6812c091ce2c5f337ab710646df9c2315845c726e56f&c=93246055)  
+Bloem Rugby Academy PTY (Ltd)
 
-![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=787944ebbf83016e9b8361eb2e4d113fbfb4386c35d26efd2ad7d77ab684e809&c=157363651)  
-TurboFibre
+![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=a597f2c809e09e43284b6812c091ce2c5f337ab710646df9c2315845c726e56f&c=93965917)  
+SR Travel Services
 
-![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=787944ebbf83016e9b8361eb2e4d113fbfb4386c35d26efd2ad7d77ab684e809&c=209081908)  
-CBR Verwe/Paints
+![valued client De light Investments(Pty)Ltd trading as Serene Memorials](https://www.invoicesonline.co.za/scripts/image.php?bid=6723&file=logo_300_100&type=&fe=a597f2c809e09e43284b6812c091ce2c5f337ab710646df9c2315845c726e56f&c=80426952)  
+De light Investments(Pty)Ltd trading as Serene Memorials
 
-![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=787944ebbf83016e9b8361eb2e4d113fbfb4386c35d26efd2ad7d77ab684e809&c=12049158)  
-Depot Diesel (Pty) Ltd
+![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=a597f2c809e09e43284b6812c091ce2c5f337ab710646df9c2315845c726e56f&c=24396710)  
+Adele Jordaan T/A Joyful Noise Music Room
 
-![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=787944ebbf83016e9b8361eb2e4d113fbfb4386c35d26efd2ad7d77ab684e809&c=178612075)  
-MONSTER SECURITY SERVICES
+![valued client SAUL ATHOL ACRES RENTAL](https://www.invoicesonline.co.za/scripts/image.php?bid=8430&file=logo_300_100&type=&fe=a597f2c809e09e43284b6812c091ce2c5f337ab710646df9c2315845c726e56f&c=123775015)  
+SAUL ATHOL ACRES RENTAL
 
-![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=787944ebbf83016e9b8361eb2e4d113fbfb4386c35d26efd2ad7d77ab684e809&c=78696759)  
-Kaylas Creations
+![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=a597f2c809e09e43284b6812c091ce2c5f337ab710646df9c2315845c726e56f&c=50332886)  
+J.M. HUMAN RESOURCES
 
-![valued client Cooper Power](https://www.invoicesonline.co.za/scripts/image.php?bid=8689&file=logo_300_100&type=&fe=787944ebbf83016e9b8361eb2e4d113fbfb4386c35d26efd2ad7d77ab684e809&c=163667024)  
-Cooper Power
+![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=a597f2c809e09e43284b6812c091ce2c5f337ab710646df9c2315845c726e56f&c=134610314)  
+MOSELA GROUP Pty(ltd)
 
-![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=787944ebbf83016e9b8361eb2e4d113fbfb4386c35d26efd2ad7d77ab684e809&c=186990781)  
-Oukraal Merino's
+![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=a597f2c809e09e43284b6812c091ce2c5f337ab710646df9c2315845c726e56f&c=8393362)  
+Moremi Kitchens Rustenburg
 
-![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=787944ebbf83016e9b8361eb2e4d113fbfb4386c35d26efd2ad7d77ab684e809&c=35861350)  
-Itroniq (Pty) Ltd
+![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=a597f2c809e09e43284b6812c091ce2c5f337ab710646df9c2315845c726e56f&c=105936420)  
+RADIO TYGERBERG 104FM NPC
 
-![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=787944ebbf83016e9b8361eb2e4d113fbfb4386c35d26efd2ad7d77ab684e809&c=124297375)  
-Druce Digital
+![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=a597f2c809e09e43284b6812c091ce2c5f337ab710646df9c2315845c726e56f&c=5649196)  
+Cpower Projects t/a Pro Pure Water
 
-![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=787944ebbf83016e9b8361eb2e4d113fbfb4386c35d26efd2ad7d77ab684e809&c=36709276)  
-Mtunzini Group
+![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=a597f2c809e09e43284b6812c091ce2c5f337ab710646df9c2315845c726e56f&c=59868808)  
+Oak Tree Immigration
 
-![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=787944ebbf83016e9b8361eb2e4d113fbfb4386c35d26efd2ad7d77ab684e809&c=183227301)  
-Leef in Afrikaans
+![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=a597f2c809e09e43284b6812c091ce2c5f337ab710646df9c2315845c726e56f&c=2779781)  
+Iurus Inc
 
-![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=787944ebbf83016e9b8361eb2e4d113fbfb4386c35d26efd2ad7d77ab684e809&c=155282178)  
-MSPCloud (Pty) Ltd
+![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=a597f2c809e09e43284b6812c091ce2c5f337ab710646df9c2315845c726e56f&c=143731020)  
+Camp 4 Africa (Pty) Ltd
 
-![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=787944ebbf83016e9b8361eb2e4d113fbfb4386c35d26efd2ad7d77ab684e809&c=21064459)  
-AquariumSmiths
+![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=a597f2c809e09e43284b6812c091ce2c5f337ab710646df9c2315845c726e56f&c=97091941)  
+Moving Made Easy (PTY) Ltd
 
-![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=787944ebbf83016e9b8361eb2e4d113fbfb4386c35d26efd2ad7d77ab684e809&c=191869927)  
-BD Maintenance
+![valued client NC Labour Hire](https://www.invoicesonline.co.za/scripts/image.php?bid=8545&file=logo_300_100&type=&fe=a597f2c809e09e43284b6812c091ce2c5f337ab710646df9c2315845c726e56f&c=153800112)  
+NC Labour Hire
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
