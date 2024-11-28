@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/f6704c73-6578-4e33-8600-167b56950ea3/f6704c73-6578-4e33-8600-167b56950ea3_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f6704c73-6578-4e33-8600-167b56950ea3/f6704c73-6578-4e33-8600-167b56950ea3_360x203.jpg)](https://www.king5.com/article/traffic/traffic-news/i-90-i-5-thanksgiving-holiday-traffic-wsdot-charts/281-15ea8af7-1992-4355-a394-d0b33c453e8c)
-        
-        #### [Best and worst times to hit the road for Thanksgiving travel in western Washington](https://www.king5.com/article/traffic/traffic-news/i-90-i-5-thanksgiving-holiday-traffic-wsdot-charts/281-15ea8af7-1992-4355-a394-d0b33c453e8c)
-        
     *  [![](https://media.king5.com/assets/KING/images/b98d833e-e675-46b7-ab91-c59cee8e5da5/20241128T062632/b98d833e-e675-46b7-ab91-c59cee8e5da5_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b98d833e-e675-46b7-ab91-c59cee8e5da5/20241128T062632/b98d833e-e675-46b7-ab91-c59cee8e5da5_360x203.jpg)](https://www.king5.com/article/news/local/stranger-steps-in-after-enumclaw-senior-generator-stolen-power-outage/281-f05da6b0-fc86-4248-aded-966c650d69a5)
         
         #### [Stranger steps in after ailing Enumclaw senior's generator was stolen during power outage](https://www.king5.com/article/news/local/stranger-steps-in-after-enumclaw-senior-generator-stolen-power-outage/281-f05da6b0-fc86-4248-aded-966c650d69a5)
+        
+    *  [![](https://media.king5.com/assets/KING/images/f6704c73-6578-4e33-8600-167b56950ea3/f6704c73-6578-4e33-8600-167b56950ea3_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f6704c73-6578-4e33-8600-167b56950ea3/f6704c73-6578-4e33-8600-167b56950ea3_360x203.jpg)](https://www.king5.com/article/traffic/traffic-news/i-90-i-5-thanksgiving-holiday-traffic-wsdot-charts/281-15ea8af7-1992-4355-a394-d0b33c453e8c)
+        
+        #### [Best and worst times to hit the road for Thanksgiving travel in western Washington](https://www.king5.com/article/traffic/traffic-news/i-90-i-5-thanksgiving-holiday-traffic-wsdot-charts/281-15ea8af7-1992-4355-a394-d0b33c453e8c)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/20a25fdc-2134-41e9-8b11-0b5da6c86549/20241128T012952/20a25fdc-2134-41e9-8b11-0b5da6c86549_16x9.jpg) ![](https://media.king5.com/assets/KING/images/20a25fdc-2134-41e9-8b11-0b5da6c86549/20241128T012952/20a25fdc-2134-41e9-8b11-0b5da6c86549_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/48ea85a4-848d-4e04-a2d2-984620c9bd42/20241128T142129/48ea85a4-848d-4e04-a2d2-984620c9bd42_16x9.jpg) ![](https://media.king5.com/assets/KING/images/48ea85a4-848d-4e04-a2d2-984620c9bd42/20241128T142129/48ea85a4-848d-4e04-a2d2-984620c9bd42_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-38°
+40°
 
-![Fog](/assets/shared-images/weather-icons/fog-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
