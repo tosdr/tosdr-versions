@@ -196,30 +196,154 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 
 If there are any questions regarding this privacy policy you may Contact Us.
 
-Latest Courses
---------------
+Learn Important Tutorial
+------------------------
 
-[![Python](/static/img/python.png)](https://www.javatpoint.com/python-tutorial)
+[![Python](/static/img/python.png)
 
-[![Java](/static/img/java.png)](https://www.javatpoint.com/java-tutorial)
+Python](https://www.javatpoint.com/python-tutorial)
 
-[![Javascript](/static/img/js.png)](https://www.javatpoint.com/javascript-tutorial)
+[![Java](/static/img/java.png)
 
-[![Html](/static/img/html-5.png)](https://www.javatpoint.com/html-tutorial)
+Java](https://www.javatpoint.com/java-tutorial)
 
-[![Database](/static/img/database.png)](https://www.javatpoint.com/sql-create-database)
+[![Javascript](/static/img/js.png)
 
-[![Php](/static/img/php.png)](https://www.javatpoint.com/php-tutorial)
+Javascript](https://www.javatpoint.com/javascript-tutorial)
 
-[![C++](/static/img/c-.png)](https://www.javatpoint.com/cpp-tutorial)
+[![Html](/static/img/html-5.png)
 
-[![React](/static/img/react.png)](https://www.javatpoint.com/reactjs-tutorial)
+HTML](https://www.javatpoint.com/html-tutorial)
 
-[![Data-Structures](/static/img/data-structures.png)](https://www.javatpoint.com/data-structure-tutorial)
+[![Database](/static/img/database.png)
 
-[![Cloud-Computing](/static/img/cloud-computing.png)](https://www.javatpoint.com/cloud-computing)
+Database](https://www.javatpoint.com/sql-create-database)
 
-[![Ethical-Hacking](/static/img/ethical-hacking.png)](https://www.javatpoint.com/ethical-hacking)
+[![Php](/static/img/php.png)
+
+PHP](https://www.javatpoint.com/php-tutorial)
+
+[![C++](/static/img/c-.png)
+
+C++](https://www.javatpoint.com/cpp-tutorial)
+
+[![React](/static/img/react.png)
+
+React](https://www.javatpoint.com/reactjs-tutorial)
+
+B.Tech / MCA
+------------
+
+[![DBMS tutorial](https://static.javatpoint.com/images/homeicon/dbms.png)
+
+DBMS](https://www.javatpoint.com/dbms-tutorial)
+
+[![Data Structures tutorial](https://static.javatpoint.com/images/homeicon/data-structures.png)
+
+Data Structures](https://www.javatpoint.com/data-structure-tutorial)
+
+[![DAA Tutorial](https://static.javatpoint.com/images/homeicon/daa.png)
+
+DAA](https://www.javatpoint.com/daa-tutorial)
+
+[![Operating System](https://static.javatpoint.com/images/homeicon/operating-system.png)
+
+Operating System](https://www.javatpoint.com/operating-system)
+
+[![Computer Network Tutorial](https://static.javatpoint.com/images/homeicon/computer-network.png)
+
+Computer Network](https://www.javatpoint.com/computer-network-tutorial)
+
+[![Compiler Design Tutorial](https://static.javatpoint.com/images/homeicon/compiler-design.png)
+
+Compiler Design](https://www.javatpoint.com/compiler-tutorial)
+
+[![Computer Organization](https://static.javatpoint.com/images/homeicon/computer-organization.png)
+
+Computer Organization](https://www.javatpoint.com/computer-organization-and-architecture-tutorial)
+
+[![Discrete Mathematics](https://static.javatpoint.com/images/homeicon/discrete-mathematics.png)
+
+Discrete Mathematics](https://www.javatpoint.com/discrete-mathematics-tutorial)
+
+[![Ethical Hacking Tutorial](https://static.javatpoint.com/images/homeicon/ethical-hacking.png)
+
+Ethical Hacking](https://www.javatpoint.com/ethical-hacking)
+
+[![Computer Graphics Tutorial](https://static.javatpoint.com/images/homeicon/computer-graphics.png)
+
+Computer Graphics](https://www.javatpoint.com/computer-graphics-tutorial)
+
+[![Web Technology Tutorial](https://static.javatpoint.com/images/homeicon/web-technology.png)
+
+Web Technology](https://www.javatpoint.com/html-tutorial)
+
+[![Software Engineering Tutorial](https://static.javatpoint.com/images/homeicon/software-engineering.png)
+
+Software Engineering](https://www.javatpoint.com/software-engineering)
+
+[![Cyber Security Tutorial](https://static.javatpoint.com/images/homeicon/cyber-security.png)
+
+Cyber Security](https://www.javatpoint.com/cyber-security-tutorial)
+
+[![Automata Tutorial](https://static.javatpoint.com/images/homeicon/automata.png)
+
+Automata](https://www.javatpoint.com/automata-tutorial)
+
+[![C Programming Tutorial](https://static.javatpoint.com/images/homeicon/c-programming.png)
+
+C Programming](https://www.javatpoint.com/c-programming-language-tutorial)
+
+[![C Plus Plus Tutorial](https://static.javatpoint.com/images/homeicon/cpp.png)
+
+C++](https://www.javatpoint.com/cpp-tutorial)
+
+[![Java Tutorial](https://static.javatpoint.com/images/homeicon/java.png)
+
+Java](https://www.javatpoint.com/java-tutorial)
+
+[![.Net Framework tutorial](https://static.javatpoint.com/images/homeicon/dot-net.png)
+
+.Net](https://www.javatpoint.com/net-framework)
+
+[![Python tutorial](https://static.javatpoint.com/images/homeicon/python.png)
+
+Python](https://www.javatpoint.com/python-tutorial)
+
+[![List of Programs](https://static.javatpoint.com/images/homeicon/programs.png)
+
+Programs](https://www.javatpoint.com/programs-list)
+
+[![Control System Tutorial](https://static.javatpoint.com/images/homeicon/control-system.png)
+
+Control System](https://www.javatpoint.com/control-system-tutorial)
+
+[![Data Warehouse Tutorial](https://static.javatpoint.com/images/homeicon/data-warehouse.png)
+
+Data Warehouse](https://www.javatpoint.com/data-warehouse)
+
+Preparation
+-----------
+
+[![Aptitude](https://static.javatpoint.com/aptitude/images/quantitative-aptitude-home.png)
+
+Aptitude](https://www.javatpoint.com/aptitude/quantitative)
+
+[![Reasoning](https://static.javatpoint.com/reasoning/images/reasoning-home.png)
+
+Reasoning](https://www.javatpoint.com/reasoning)
+
+[![Verbal Ability](https://static.javatpoint.com/verbal-ability/images/verbal-ability-home.png)
+
+Verbal Ability](https://www.javatpoint.com/verbal-ability)
+
+[![Interview Questions](https://static.javatpoint.com/images/logo/interviewhome.png)
+
+Interview Questions](https://www.javatpoint.com/interview-questions-and-answers)
+
+[![Company Questions](https://static.javatpoint.com/interview/images/company-home.jpeg)
+
+Company Questions](https://www.javatpoint.com/company-interview-questions-and-recruitment-process)
 
 ![Logo](/static/img/logo.png)
 
