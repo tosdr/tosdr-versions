@@ -196,7 +196,7 @@ In this section
 * [Government and administration](https://www.gov.je/Government/Pages/default.aspx)
 * [Health and wellbeing](https://www.gov.je/Health/Pages/default.aspx)
 * [Home and community](https://www.gov.je/Home/Pages/default.aspx)
-* [How to contact us if you are deaf, hard of hearing or speech impaired](https://www.gov.je/Pages/SignVideo.aspx)
+* [How to contact us and communicate with us using British Sign Language (BSL)](https://www.gov.je/Pages/SignVideo.aspx)
 * [Leisure, culture and entertainment](https://www.gov.je/Leisure/Pages/default.aspx)
 * [Life events](https://www.gov.je/LifeEvents/Pages/default.aspx)
 * [Log in](https://www.gov.je/Pages/login.aspx)
