@@ -63,7 +63,7 @@ KeePassXC is released under the GPLv3.
 * [Legal Info / Impressum](https://keepassxc.org/team#legal)
 
 * [GitHub](https://github.com/keepassxreboot/keepassxc)
-* [Twitter](https://twitter.com/KeePassXC)
+* [Bluesky](https://bsky.app/profile/keepassxc.org)
 * [Mastodon](https://fosstodon.org/@keepassxc)
 
 ![](https://analytics.keepassxc.org/matomo.php?idsite=4&rec=1)
