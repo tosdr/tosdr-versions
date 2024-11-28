@@ -30,9 +30,9 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/df767be0-523a-434f-809f-a9cdb06ea797/20240812T163051/df767be0-523a-434f-809f-a9cdb06ea797_16x9.jpg) ![](https://media.king5.com/assets/KING/images/df767be0-523a-434f-809f-a9cdb06ea797/20240812T163051/df767be0-523a-434f-809f-a9cdb06ea797_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/northern-lights-visible-thursday-friday-weather-washington/281-8bf111b8-a8d4-42a5-b575-19c64b446856)
+    *  [![](https://media.king5.com/assets/KING/images/f6704c73-6578-4e33-8600-167b56950ea3/f6704c73-6578-4e33-8600-167b56950ea3_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f6704c73-6578-4e33-8600-167b56950ea3/f6704c73-6578-4e33-8600-167b56950ea3_360x203.jpg)](https://www.king5.com/article/traffic/traffic-news/i-90-i-5-thanksgiving-holiday-traffic-wsdot-charts/281-15ea8af7-1992-4355-a394-d0b33c453e8c)
         
-        #### [Northern lights may be visible on Thanksgiving - but it will be cloudy in western Washington](https://www.king5.com/article/weather/weather-blog/northern-lights-visible-thursday-friday-weather-washington/281-8bf111b8-a8d4-42a5-b575-19c64b446856)
+        #### [Best and worst times to hit the road for Thanksgiving travel in western Washington](https://www.king5.com/article/traffic/traffic-news/i-90-i-5-thanksgiving-holiday-traffic-wsdot-charts/281-15ea8af7-1992-4355-a394-d0b33c453e8c)
         
     *  [![](https://media.king5.com/assets/KING/images/d321fcc4-2498-4770-a4ac-2e55a9d72922/20241127T042545/d321fcc4-2498-4770-a4ac-2e55a9d72922_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d321fcc4-2498-4770-a4ac-2e55a9d72922/20241127T042545/d321fcc4-2498-4770-a4ac-2e55a9d72922_360x203.jpg)](https://www.king5.com/article/travel/15-million-passengers-expected-travel-sea-thanksgiving-season/281-6eebe45a-0f2c-4527-9ece-c4d20f7f6dc5)
         
@@ -60,7 +60,7 @@ Navigation
         
         #### [Northern lights may be visible on Thanksgiving - but it will be cloudy in western Washington](https://www.king5.com/article/weather/weather-blog/northern-lights-visible-thursday-friday-weather-washington/281-8bf111b8-a8d4-42a5-b575-19c64b446856)
         
-    *  [![](https://media.king5.com/assets/KING/images/82079bf0-6a07-4308-ba49-e001a289ba66/20241127T130254/82079bf0-6a07-4308-ba49-e001a289ba66_16x9.jpg) ![](https://media.king5.com/assets/KING/images/82079bf0-6a07-4308-ba49-e001a289ba66/20241127T130254/82079bf0-6a07-4308-ba49-e001a289ba66_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/20a25fdc-2134-41e9-8b11-0b5da6c86549/20241128T012952/20a25fdc-2134-41e9-8b11-0b5da6c86549_16x9.jpg) ![](https://media.king5.com/assets/KING/images/20a25fdc-2134-41e9-8b11-0b5da6c86549/20241128T012952/20a25fdc-2134-41e9-8b11-0b5da6c86549_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-46°
+43°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
