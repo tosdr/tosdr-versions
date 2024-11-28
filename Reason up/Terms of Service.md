@@ -14,28 +14,33 @@ Buy now and get 50% OFF
 
 ![icon](/_next/static/media/icon.a51ffbb7.svg)
 
-[Contact Us](https://www.reasonsecurity.com/contact-us)[Blog](https://www.reasonsecurity.com/blog)
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2722%27%20height=%2722%27/%3e)![phone](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-[![logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+![phone](/_next/static/media/phone.91bc53fc.svg)
 
-![logo](/_next/static/media/logo-reason-labs.884f8136.svg)](https://www.reasonsecurity.com/)
+[+1 (989) 244-1738](tel:+19892441738)
 
-* Pricing
-* Resources
-* [Company](https://www.reasonsecurity.com/company)
-* Threat Intelligence
+[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2723%27%20height=%2723%27/%3e)![chat](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-Start Free Trial
+![chat](/_next/static/media/chat.76515e2e.svg)
 
-![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2722%27%20height=%2721%27/%3e)![checked](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+Support Center](https://www.reasonsecurity.com/help)
 
-![checked](/_next/static/media/check.e3cd6773.svg)
+[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27194%27%20height=%2734%27/%3e)![logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-**30-day money-back guarantee**
+![logo](/_next/static/media/logo.9107654d.svg)](https://www.reasonsecurity.com/)
+
+Start Free Trial![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2730%27%20height=%2730%27/%3e)![menu](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+![menu](/_next/static/media/menu.d2bf642b.svg)
+
+![bg](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+![bg](/_next/static/media/bg.13f45751.svg)
 
 ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%279%27%20height=%2714%27/%3e)![arrow](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![arrow](/_next/static/media/arrow.8551ad91.svg)
+![arrow](/_next/static/media/arrow.08af7286.svg)
 
 Go Back
 
@@ -46,7 +51,7 @@ By continuing to access and/or use the Services (as defined below) following any
 
 PLEASE READ THIS END USER LICENSE AGREEMENT CAREFULLY BEFORE ACCESSING/ DOWNLOADING AND/OR THE SERVICES.
 
-This End User License Agreement (the “Terms”) is the legal binding agreement between you and Reason Cybersecurity Ltd. (“our”, “we” or “us”). These Terms and the Privacy Policy (“Privacy Policy”) available at [https://reasonlabs.com/platform/products/rav/privacy-policy](https://reasonlabs.com/platform/products/rav/privacy-policy), which is incorporated herein by reference, govern your access to and use of the Services. These Terms also govern any software updates and/or upgrades provided by us as part of the Services, unless such updates and/or upgrades are accompanied by a separate license, in which case the terms and conditions of such separate license will apply.
+This End User License Agreement (the “Terms”) is the legal binding agreement between you and Reason Cybersecurity Ltd. (“our”, “we” or “us”). These Terms and the Privacy Policy (“Privacy Policy”) available at [https://reasonlabs.com/platform/products/endpoint-protection/privacy-policy](https://reasonlabs.com/platform/products/endpoint-protection/privacy-policy), which is incorporated herein by reference, govern your access to and use of the Services. These Terms also govern any software updates and/or upgrades provided by us as part of the Services, unless such updates and/or upgrades are accompanied by a separate license, in which case the terms and conditions of such separate license will apply.
 
 BY ACCESSING, DOWNLOADING, INSTALLING AND/OR USING THE SERVICES, YOU ACKNOWLEDGE THAT YOU HAVE READ THESE TERMS AND THAT YOU AGREE TO BE BOUND BY THESE TERMS. By accepting these Terms, you confirm that you are: (i) lawfully entitled to use the Software and/or Website in the country in which you are located, and (ii) of legal age to engage in this binding agreement with us. If you are a minor according to the law of the country you reside in, you are not permitted to use the Services. If you do not accept these Terms, then you may not access, download, install or use the Services (as applicable).
 
@@ -99,7 +104,7 @@ You hereby represent and warrant that: (a) you will use the Services as permitte
 7\. Privacy
 -----------
 
-The Privacy Policy available here: [https://reasonlabs.com/platform/products/rav/privacy-policy](https://reasonlabs.com/platform/products/rav/privacy-policy) provides information about our privacy practice and about the information that we may access, collect from you, use and/or share in connection with your use of the Services. If you believe that we violated your privacy right, please contact us at: [support@reasonlabs.com](mailto:support@reasonlabs.com).
+The Privacy Policy available here: [https://reasonlabs.com/platform/products/endpoint-protection/privacy-policy](https://reasonlabs.com/platform/products/endpoint-protection/privacy-policy) provides information about our privacy practice and about the information that we may access, collect from you, use and/or share in connection with your use of the Services. If you believe that we violated your privacy right, please contact us at: [support@reasonlabs.com](mailto:support@reasonlabs.com).
 
 8\. U.S. Government User and Export Laws
 ----------------------------------------
@@ -141,46 +146,60 @@ If you have any questions with respect to these Terms, please contact us at [sup
 
 The Software includes third party components to which you can review the licenses and copyright notices here: [http://cdn.reasonsecurity.com/resources/documents/Open+Source+Licenses.pdf](http://cdn.reasonsecurity.com/resources/documents/Open+Source+Licenses.pdf).
 
-[![footer logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27175%27%20height=%2731%27/%3e)![logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![footer logo](/_next/static/media/logo-reason-labs.884f8136.svg)](https://www.reasonsecurity.com/)
+![logo](/_next/static/media/logo.70eec5e2.svg)](https://www.reasonsecurity.com/)
 
-[](https://www.facebook.com/ReasonLabsCyberSec)[](https://www.linkedin.com/company/6428902)[](https://twitter.com/Reasonsecurity)[](https://www.youtube.com/c/Reasoncoresecurity)
+[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2721%27%20height=%2721%27/%3e)![img](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-[+1 (989) 300-0998](tel: +19893000998)[support@reasonlabs.com](mailto: support@reasonlabs.com)
+![img](/_next/static/media/facebook.5632e07d.svg)](https://www.facebook.com/ReasonLabsCyberSec)[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2722%27%20height=%2722%27/%3e)![img](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+![img](/_next/static/media/x.c436bf3f.svg)](https://twitter.com/Reasonsecurity)[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2722%27%20height=%2721%27/%3e)![img](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+![img](/_next/static/media/linkedin.6fe02189.svg)](https://www.linkedin.com/company/6428902)[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2721%27%20height=%2721%27/%3e)![img](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+![img](/_next/static/media/youtube.41a63383.svg)](https://www.youtube.com/c/Reasoncoresecurity)
+
+[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2725%27/%3e)![img](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+![img](/_next/static/media/phone.547a4f91.svg)
+
++1 (989) 244-1738](tel:+19892441738)[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2722%27%20height=%2723%27/%3e)![img](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+![img](/_next/static/media/message.fef15657.svg)
+
+support@reasonlabs.com](mailto:support@reasonlabs.com)[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2725%27/%3e)![img](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+![img](/_next/static/media/email.45acd363.svg)
+
+press@reasonlabs.com](mailto:press@reasonlabs.com)
 
 Company
 
-![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2712%27%20height=%277%27/%3e)![arrow](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![arrow](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![arrow](/_next/static/media/arrow.60f6fd8e.svg)
+![arrow](/_next/static/media/arrow.0fb78ddd.svg)
 
-[Who We Are](https://www.reasonsecurity.com/company)[Why ReasonLabs?](https://www.reasonsecurity.com/why)[Platform](https://www.reasonsecurity.com/platform/packages/essential)[Events](https://www.reasonsecurity.com/events)[Industry Recognition](https://www.reasonsecurity.com/industry-recognition)[Careers](https://www.reasonsecurity.com/career)
+Features
+
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![arrow](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+![arrow](/_next/static/media/arrow.0fb78ddd.svg)
 
 Resources
 
-![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2712%27%20height=%277%27/%3e)![arrow](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![arrow](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![arrow](/_next/static/media/arrow.60f6fd8e.svg)
-
-[Blog](https://www.reasonsecurity.com/blog)[Labs](https://www.reasonsecurity.com/threat-intelligence)[Cyberpedia](https://cyberpedia.reasonlabs.com/)[Reports](https://www.reasonsecurity.com/research)[News](https://www.reasonsecurity.com/news)[FAQ’s](https://www.reasonsecurity.com/faq)
-
-Products
-
-![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2712%27%20height=%277%27/%3e)![arrow](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![arrow](/_next/static/media/arrow.60f6fd8e.svg)
-
-[RAV Endpoint Protection](https://www.reasonsecurity.com/platform/products/endpoint-protection)[Safer Web DNS Filtering](https://www.reasonsecurity.com/platform/products/safer-web)[RAV VPN](https://www.reasonsecurity.com/platform/products/vpn)[RAV Managed EDR](https://www.reasonsecurity.com/platform/products/edr)[Online Security](https://www.reasonsecurity.com/platform/products/online-security)[FamilyKeeper](https://familykeeper.reasonlabs.com/)
+![arrow](/_next/static/media/arrow.0fb78ddd.svg)
 
 © 2024 Reason Cybersecurity Ltd.
 
-[Product Policies](https://www.reasonsecurity.com/policies)[Privacy Policy](https://www.reasonsecurity.com/eula)[Terms & Conditions](https://www.reasonsecurity.com/terms-conditions)
+[Product Policies](https://www.reasonsecurity.com/policies)[Privacy Policy](https://www.reasonsecurity.com/privacy-policy)[Terms & Conditions](https://www.reasonsecurity.com/terms-conditions)
 
 ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2720%27%20height=%2725%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
 ![](/_next/static/media/minimize.4207353e.svg)
 
-![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2769%27%20height=%2769%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2750%27%20height=%2750%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![](/_next/static/media/badge.5cc43f89.svg)
+![](/_next/static/media/new-badge.eefad446.svg)
