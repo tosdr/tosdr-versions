@@ -6,12 +6,12 @@
 * [Ir para o login3](javascript:void(0))
 * [Ir para o rodapé4](#arodape)
 
-* [Acessibilidade](https://www.consumidor.gov.br/pages/conteudo/acessibilidade;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
+* [Acessibilidade](https://www.consumidor.gov.br/pages/conteudo/acessibilidade;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
 * [Alto Contraste](#)
 
-[![Inicio do portal consumidor.gov.br É seu.É fácil. Participe.](/resources/imagens/logo-nova-900.png;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)](https://www.consumidor.gov.br/;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46 "Início do portal consumidor.gov.br. É seu. É fácil. Participe.")
+[![Inicio do portal consumidor.gov.br É seu.É fácil. Participe.](/resources/imagens/logo-nova-900.png;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)](https://www.consumidor.gov.br/;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE "Início do portal consumidor.gov.br. É seu. É fácil. Participe.")
 
-[Entrar com gov.br](https://www.consumidor.gov.br/pages/govbr/login;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
+[Entrar com gov.br](https://www.consumidor.gov.br/pages/govbr/login;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
 
 Realize seu cadastro/login por meio da Conta gov.br, login único para acesso a serviços públicos digitais.
 
@@ -24,12 +24,12 @@ Não forneça sua senha para outra pessoa. Ela é individual e intransferível.
 * [Ir para o login3](javascript:void(0))
 * [Ir para o rodapé4](#arodape)
 
-* [Acessibilidade](https://www.consumidor.gov.br/pages/conteudo/acessibilidade;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
+* [Acessibilidade](https://www.consumidor.gov.br/pages/conteudo/acessibilidade;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
 * [Alto Contraste](#)
 
-[![Inicio do portal consumidor.gov.br É seu.É fácil. Participe.](/resources/imagens/logo-nova-900.png;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)](https://www.consumidor.gov.br/;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46 "Início do portal consumidor.gov.br. É seu. É fácil. Participe.")
+[![Inicio do portal consumidor.gov.br É seu.É fácil. Participe.](/resources/imagens/logo-nova-900.png;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)](https://www.consumidor.gov.br/;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE "Início do portal consumidor.gov.br. É seu. É fácil. Participe.")
 
-[Entrar com gov.br](https://www.consumidor.gov.br/pages/govbr/login;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
+[Entrar com gov.br](https://www.consumidor.gov.br/pages/govbr/login;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
 
 Realize seu cadastro/login por meio da Conta gov.br, login único para acesso a serviços públicos digitais.
 
@@ -42,7 +42,7 @@ Não forneça sua senha para outra pessoa. Ela é individual e intransferível.
 * [Ir para o login3](javascript:void(0))
 * [Ir para o rodapé4](#arodape)
 
-* [Acessibilidade](https://www.consumidor.gov.br/pages/conteudo/acessibilidade;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
+* [Acessibilidade](https://www.consumidor.gov.br/pages/conteudo/acessibilidade;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
 * [Alto Contraste](#)
 
 * [Ir para o conteúdo1](#aconteudo)
@@ -50,7 +50,7 @@ Não forneça sua senha para outra pessoa. Ela é individual e intransferível.
 * [Ir para o login3](javascript:void(0))
 * [Ir para o rodapé4](#arodape)
 
-* [Acessibilidade](https://www.consumidor.gov.br/pages/conteudo/acessibilidade;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
+* [Acessibilidade](https://www.consumidor.gov.br/pages/conteudo/acessibilidade;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
 * [Alto Contraste](#)
 
 * [Ir para o conteúdo1](#aconteudo)
@@ -63,12 +63,12 @@ Não forneça sua senha para outra pessoa. Ela é individual e intransferível.
 * [Ir para o login3](javascript:void(0))
 * [Ir para o rodapé4](#arodape)
 
-* [Acessibilidade](https://www.consumidor.gov.br/pages/conteudo/acessibilidade;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
+* [Acessibilidade](https://www.consumidor.gov.br/pages/conteudo/acessibilidade;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
 * [Alto Contraste](#)
 
-[![Inicio do portal consumidor.gov.br É seu.É fácil. Participe.](/resources/imagens/logo-nova-900.png;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)](https://www.consumidor.gov.br/;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46 "Início do portal consumidor.gov.br. É seu. É fácil. Participe.")
+[![Inicio do portal consumidor.gov.br É seu.É fácil. Participe.](/resources/imagens/logo-nova-900.png;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)](https://www.consumidor.gov.br/;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE "Início do portal consumidor.gov.br. É seu. É fácil. Participe.")
 
-[Entrar com gov.br](https://www.consumidor.gov.br/pages/govbr/login;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
+[Entrar com gov.br](https://www.consumidor.gov.br/pages/govbr/login;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
 
 Realize seu cadastro/login por meio da Conta gov.br, login único para acesso a serviços públicos digitais.
 
@@ -76,15 +76,15 @@ Realize seu cadastro/login por meio da Conta gov.br, login único para acesso a 
 
 Não forneça sua senha para outra pessoa. Ela é individual e intransferível.
 
-[![Inicio do portal consumidor.gov.br É seu.É fácil. Participe.](/resources/imagens/logo-nova-900.png;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)](https://www.consumidor.gov.br/;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46 "Início do portal consumidor.gov.br. É seu. É fácil. Participe.")
+[![Inicio do portal consumidor.gov.br É seu.É fácil. Participe.](/resources/imagens/logo-nova-900.png;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)](https://www.consumidor.gov.br/;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE "Início do portal consumidor.gov.br. É seu. É fácil. Participe.")
 
-[![Inicio do portal consumidor.gov.br É seu.É fácil. Participe.](/resources/imagens/logo-nova-900.png;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)](https://www.consumidor.gov.br/;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46 "Início do portal consumidor.gov.br. É seu. É fácil. Participe.")
+[![Inicio do portal consumidor.gov.br É seu.É fácil. Participe.](/resources/imagens/logo-nova-900.png;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)](https://www.consumidor.gov.br/;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE "Início do portal consumidor.gov.br. É seu. É fácil. Participe.")
 
-[![Inicio do portal consumidor.gov.br É seu.É fácil. Participe.](/resources/imagens/logo-nova-900.png;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)](https://www.consumidor.gov.br/;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46 "Início do portal consumidor.gov.br. É seu. É fácil. Participe.")
+[![Inicio do portal consumidor.gov.br É seu.É fácil. Participe.](/resources/imagens/logo-nova-900.png;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)](https://www.consumidor.gov.br/;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE "Início do portal consumidor.gov.br. É seu. É fácil. Participe.")
 
-[![Inicio do portal consumidor.gov.br É seu.É fácil. Participe.](/resources/imagens/logo-nova-900.png;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)](https://www.consumidor.gov.br/;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46 "Início do portal consumidor.gov.br. É seu. É fácil. Participe.")
+[![Inicio do portal consumidor.gov.br É seu.É fácil. Participe.](/resources/imagens/logo-nova-900.png;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)](https://www.consumidor.gov.br/;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE "Início do portal consumidor.gov.br. É seu. É fácil. Participe.")
 
-[Entrar com gov.br](https://www.consumidor.gov.br/pages/govbr/login;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
+[Entrar com gov.br](https://www.consumidor.gov.br/pages/govbr/login;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
 
 Realize seu cadastro/login por meio da Conta gov.br, login único para acesso a serviços públicos digitais.
 
@@ -94,45 +94,45 @@ Não forneça sua senha para outra pessoa. Ela é individual e intransferível.
 
 Toggle navigation
 
-* [Início](https://www.consumidor.gov.br/;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Sobre o Serviço](https://www.consumidor.gov.br/pages/conteudo/sobre-servico;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Empresas Participantes](https://www.consumidor.gov.br/pages/principal/empresas-participantes;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Indicadores](https://www.consumidor.gov.br/pages/indicador/geral/abrir;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
+* [Início](https://www.consumidor.gov.br/;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Sobre o Serviço](https://www.consumidor.gov.br/pages/conteudo/sobre-servico;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Empresas Participantes](https://www.consumidor.gov.br/pages/principal/empresas-participantes;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Indicadores](https://www.consumidor.gov.br/pages/indicador/geral/abrir;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
 
 Toggle navigation
 
-* [Início](https://www.consumidor.gov.br/;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Sobre o Serviço](https://www.consumidor.gov.br/pages/conteudo/sobre-servico;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Empresas Participantes](https://www.consumidor.gov.br/pages/principal/empresas-participantes;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Indicadores](https://www.consumidor.gov.br/pages/indicador/geral/abrir;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
+* [Início](https://www.consumidor.gov.br/;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Sobre o Serviço](https://www.consumidor.gov.br/pages/conteudo/sobre-servico;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Empresas Participantes](https://www.consumidor.gov.br/pages/principal/empresas-participantes;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Indicadores](https://www.consumidor.gov.br/pages/indicador/geral/abrir;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
 
 Toggle navigation
 
-* [Início](https://www.consumidor.gov.br/;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Sobre o Serviço](https://www.consumidor.gov.br/pages/conteudo/sobre-servico;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Empresas Participantes](https://www.consumidor.gov.br/pages/principal/empresas-participantes;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Indicadores](https://www.consumidor.gov.br/pages/indicador/geral/abrir;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
+* [Início](https://www.consumidor.gov.br/;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Sobre o Serviço](https://www.consumidor.gov.br/pages/conteudo/sobre-servico;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Empresas Participantes](https://www.consumidor.gov.br/pages/principal/empresas-participantes;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Indicadores](https://www.consumidor.gov.br/pages/indicador/geral/abrir;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
 
 Toggle navigation
 
-* [Início](https://www.consumidor.gov.br/;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Sobre o Serviço](https://www.consumidor.gov.br/pages/conteudo/sobre-servico;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Empresas Participantes](https://www.consumidor.gov.br/pages/principal/empresas-participantes;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Indicadores](https://www.consumidor.gov.br/pages/indicador/geral/abrir;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
+* [Início](https://www.consumidor.gov.br/;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Sobre o Serviço](https://www.consumidor.gov.br/pages/conteudo/sobre-servico;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Empresas Participantes](https://www.consumidor.gov.br/pages/principal/empresas-participantes;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Indicadores](https://www.consumidor.gov.br/pages/indicador/geral/abrir;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
 
 Toggle navigation
 
-* [Início](https://www.consumidor.gov.br/;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Sobre o Serviço](https://www.consumidor.gov.br/pages/conteudo/sobre-servico;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Empresas Participantes](https://www.consumidor.gov.br/pages/principal/empresas-participantes;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Indicadores](https://www.consumidor.gov.br/pages/indicador/geral/abrir;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
+* [Início](https://www.consumidor.gov.br/;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Sobre o Serviço](https://www.consumidor.gov.br/pages/conteudo/sobre-servico;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Empresas Participantes](https://www.consumidor.gov.br/pages/principal/empresas-participantes;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Indicadores](https://www.consumidor.gov.br/pages/indicador/geral/abrir;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
 
 Toggle navigation
 
-* [Início](https://www.consumidor.gov.br/;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Sobre o Serviço](https://www.consumidor.gov.br/pages/conteudo/sobre-servico;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Empresas Participantes](https://www.consumidor.gov.br/pages/principal/empresas-participantes;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Indicadores](https://www.consumidor.gov.br/pages/indicador/geral/abrir;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
+* [Início](https://www.consumidor.gov.br/;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Sobre o Serviço](https://www.consumidor.gov.br/pages/conteudo/sobre-servico;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Empresas Participantes](https://www.consumidor.gov.br/pages/principal/empresas-participantes;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Indicadores](https://www.consumidor.gov.br/pages/indicador/geral/abrir;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
 
 [Início do conteúdo](#)
 
@@ -183,35 +183,35 @@ A Secretaria Nacional do Consumidor se reserva o direito de modificar estes term
 
 **Serviços**
 
-* [Indicadores](https://www.consumidor.gov.br/pages/indicador/geral/abrir;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Painel Estatístico](https://www.consumidor.gov.br/pages/conteudo/publico/62;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Denúncia Combustível - Preço Justo](https://www.consumidor.gov.br/pages/conteudo/publico/82;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Não encontrei a empresa](https://www.consumidor.gov.br/pages/conteudo/publico/41;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Como Aderir - Empresas](https://www.consumidor.gov.br/pages/conteudo/publico/2;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Acesso Restrito para Gestores e Empresas](https://www.consumidor.gov.br/pages/administrativo/login;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Suporte](https://www.consumidor.gov.br/pages/faleconosco/externo;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
+* [Indicadores](https://www.consumidor.gov.br/pages/indicador/geral/abrir;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Painel Estatístico](https://www.consumidor.gov.br/pages/conteudo/publico/62;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Denúncia Combustível - Preço Justo](https://www.consumidor.gov.br/pages/conteudo/publico/82;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Não encontrei a empresa](https://www.consumidor.gov.br/pages/conteudo/publico/41;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Como Aderir - Empresas](https://www.consumidor.gov.br/pages/conteudo/publico/2;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Acesso Restrito para Gestores e Empresas](https://www.consumidor.gov.br/pages/administrativo/login;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Suporte](https://www.consumidor.gov.br/pages/faleconosco/externo;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
 
 **Institucional**
 
-* [Órgãos Gestores e de Monitoramento](https://www.consumidor.gov.br/pages/principal/orgaos-gestores;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
+* [Órgãos Gestores e de Monitoramento](https://www.consumidor.gov.br/pages/principal/orgaos-gestores;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
 * [Ministério da Justiça](http://www.justica.gov.br/)
-* [Secretaria Nacional do Consumidor](https://www.consumidor.gov.br/pages/conteudo/publico/5;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Sistema Nacional de Defesa do Consumidor](https://www.consumidor.gov.br/pages/conteudo/publico/6;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Como Aderir - Órgãos de Monitoramento](https://www.consumidor.gov.br/pages/conteudo/publico/21;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Quem Somos](https://www.consumidor.gov.br/pages/conteudo/publico/4;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Código de Defesa do Consumidor (CDC)](https://www.consumidor.gov.br/pages/conteudo/publico/102;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
+* [Secretaria Nacional do Consumidor](https://www.consumidor.gov.br/pages/conteudo/publico/5;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Sistema Nacional de Defesa do Consumidor](https://www.consumidor.gov.br/pages/conteudo/publico/6;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Como Aderir - Órgãos de Monitoramento](https://www.consumidor.gov.br/pages/conteudo/publico/21;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Quem Somos](https://www.consumidor.gov.br/pages/conteudo/publico/4;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Código de Defesa do Consumidor (CDC)](https://www.consumidor.gov.br/pages/conteudo/publico/102;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
 
 **Política de Uso**
 
-* [Termos de Uso](https://www.consumidor.gov.br/pages/conteudo/publico/7;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Conheça o Consumidor.gov.br](https://www.consumidor.gov.br/pages/conteudo/publico/1;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Orientações de uso](https://www.consumidor.gov.br/pages/conteudo/publico/8;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Política de Uso de Dados Pessoais](https://www.consumidor.gov.br/pages/conteudo/publico/9;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Perguntas Frequentes (FAQ)](https://www.consumidor.gov.br/pages/conteudo/publico/3;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
+* [Termos de Uso](https://www.consumidor.gov.br/pages/conteudo/publico/7;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Conheça o Consumidor.gov.br](https://www.consumidor.gov.br/pages/conteudo/publico/1;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Orientações de uso](https://www.consumidor.gov.br/pages/conteudo/publico/8;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Política de Uso de Dados Pessoais](https://www.consumidor.gov.br/pages/conteudo/publico/9;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Perguntas Frequentes (FAQ)](https://www.consumidor.gov.br/pages/conteudo/publico/3;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
 
-[![Acesso a Informação](/resources/imagens/acesso-info.png;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)](http://www.acessoainformacao.gov.br/)
+[![Acesso a Informação](/resources/imagens/acesso-info.png;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)](http://www.acessoainformacao.gov.br/)
 
-![Selo Inovação](/resources/imagens/selo-inovacao.png;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
+![Selo Inovação](/resources/imagens/selo-inovacao.png;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
 
 [Início do conteúdo](#)
 
@@ -517,166 +517,166 @@ A Secretaria Nacional do Consumidor se reserva o direito de modificar estes term
 
 **Serviços**
 
-* [Indicadores](https://www.consumidor.gov.br/pages/indicador/geral/abrir;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Painel Estatístico](https://www.consumidor.gov.br/pages/conteudo/publico/62;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Denúncia Combustível - Preço Justo](https://www.consumidor.gov.br/pages/conteudo/publico/82;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Não encontrei a empresa](https://www.consumidor.gov.br/pages/conteudo/publico/41;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Como Aderir - Empresas](https://www.consumidor.gov.br/pages/conteudo/publico/2;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Acesso Restrito para Gestores e Empresas](https://www.consumidor.gov.br/pages/administrativo/login;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Suporte](https://www.consumidor.gov.br/pages/faleconosco/externo;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
+* [Indicadores](https://www.consumidor.gov.br/pages/indicador/geral/abrir;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Painel Estatístico](https://www.consumidor.gov.br/pages/conteudo/publico/62;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Denúncia Combustível - Preço Justo](https://www.consumidor.gov.br/pages/conteudo/publico/82;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Não encontrei a empresa](https://www.consumidor.gov.br/pages/conteudo/publico/41;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Como Aderir - Empresas](https://www.consumidor.gov.br/pages/conteudo/publico/2;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Acesso Restrito para Gestores e Empresas](https://www.consumidor.gov.br/pages/administrativo/login;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Suporte](https://www.consumidor.gov.br/pages/faleconosco/externo;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
 
 **Institucional**
 
-* [Órgãos Gestores e de Monitoramento](https://www.consumidor.gov.br/pages/principal/orgaos-gestores;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
+* [Órgãos Gestores e de Monitoramento](https://www.consumidor.gov.br/pages/principal/orgaos-gestores;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
 * [Ministério da Justiça](http://www.justica.gov.br/)
-* [Secretaria Nacional do Consumidor](https://www.consumidor.gov.br/pages/conteudo/publico/5;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Sistema Nacional de Defesa do Consumidor](https://www.consumidor.gov.br/pages/conteudo/publico/6;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Como Aderir - Órgãos de Monitoramento](https://www.consumidor.gov.br/pages/conteudo/publico/21;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Quem Somos](https://www.consumidor.gov.br/pages/conteudo/publico/4;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Código de Defesa do Consumidor (CDC)](https://www.consumidor.gov.br/pages/conteudo/publico/102;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
+* [Secretaria Nacional do Consumidor](https://www.consumidor.gov.br/pages/conteudo/publico/5;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Sistema Nacional de Defesa do Consumidor](https://www.consumidor.gov.br/pages/conteudo/publico/6;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Como Aderir - Órgãos de Monitoramento](https://www.consumidor.gov.br/pages/conteudo/publico/21;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Quem Somos](https://www.consumidor.gov.br/pages/conteudo/publico/4;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Código de Defesa do Consumidor (CDC)](https://www.consumidor.gov.br/pages/conteudo/publico/102;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
 
 **Política de Uso**
 
-* [Termos de Uso](https://www.consumidor.gov.br/pages/conteudo/publico/7;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Conheça o Consumidor.gov.br](https://www.consumidor.gov.br/pages/conteudo/publico/1;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Orientações de uso](https://www.consumidor.gov.br/pages/conteudo/publico/8;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Política de Uso de Dados Pessoais](https://www.consumidor.gov.br/pages/conteudo/publico/9;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Perguntas Frequentes (FAQ)](https://www.consumidor.gov.br/pages/conteudo/publico/3;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
+* [Termos de Uso](https://www.consumidor.gov.br/pages/conteudo/publico/7;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Conheça o Consumidor.gov.br](https://www.consumidor.gov.br/pages/conteudo/publico/1;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Orientações de uso](https://www.consumidor.gov.br/pages/conteudo/publico/8;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Política de Uso de Dados Pessoais](https://www.consumidor.gov.br/pages/conteudo/publico/9;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Perguntas Frequentes (FAQ)](https://www.consumidor.gov.br/pages/conteudo/publico/3;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
 
 [Início do rodapé](#)
 
 **Serviços**
 
-* [Indicadores](https://www.consumidor.gov.br/pages/indicador/geral/abrir;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Painel Estatístico](https://www.consumidor.gov.br/pages/conteudo/publico/62;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Denúncia Combustível - Preço Justo](https://www.consumidor.gov.br/pages/conteudo/publico/82;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Não encontrei a empresa](https://www.consumidor.gov.br/pages/conteudo/publico/41;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Como Aderir - Empresas](https://www.consumidor.gov.br/pages/conteudo/publico/2;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Acesso Restrito para Gestores e Empresas](https://www.consumidor.gov.br/pages/administrativo/login;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Suporte](https://www.consumidor.gov.br/pages/faleconosco/externo;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
+* [Indicadores](https://www.consumidor.gov.br/pages/indicador/geral/abrir;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Painel Estatístico](https://www.consumidor.gov.br/pages/conteudo/publico/62;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Denúncia Combustível - Preço Justo](https://www.consumidor.gov.br/pages/conteudo/publico/82;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Não encontrei a empresa](https://www.consumidor.gov.br/pages/conteudo/publico/41;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Como Aderir - Empresas](https://www.consumidor.gov.br/pages/conteudo/publico/2;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Acesso Restrito para Gestores e Empresas](https://www.consumidor.gov.br/pages/administrativo/login;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Suporte](https://www.consumidor.gov.br/pages/faleconosco/externo;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
 
 **Institucional**
 
-* [Órgãos Gestores e de Monitoramento](https://www.consumidor.gov.br/pages/principal/orgaos-gestores;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
+* [Órgãos Gestores e de Monitoramento](https://www.consumidor.gov.br/pages/principal/orgaos-gestores;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
 * [Ministério da Justiça](http://www.justica.gov.br/)
-* [Secretaria Nacional do Consumidor](https://www.consumidor.gov.br/pages/conteudo/publico/5;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Sistema Nacional de Defesa do Consumidor](https://www.consumidor.gov.br/pages/conteudo/publico/6;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Como Aderir - Órgãos de Monitoramento](https://www.consumidor.gov.br/pages/conteudo/publico/21;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Quem Somos](https://www.consumidor.gov.br/pages/conteudo/publico/4;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Código de Defesa do Consumidor (CDC)](https://www.consumidor.gov.br/pages/conteudo/publico/102;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
+* [Secretaria Nacional do Consumidor](https://www.consumidor.gov.br/pages/conteudo/publico/5;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Sistema Nacional de Defesa do Consumidor](https://www.consumidor.gov.br/pages/conteudo/publico/6;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Como Aderir - Órgãos de Monitoramento](https://www.consumidor.gov.br/pages/conteudo/publico/21;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Quem Somos](https://www.consumidor.gov.br/pages/conteudo/publico/4;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Código de Defesa do Consumidor (CDC)](https://www.consumidor.gov.br/pages/conteudo/publico/102;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
 
 **Política de Uso**
 
-* [Termos de Uso](https://www.consumidor.gov.br/pages/conteudo/publico/7;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Conheça o Consumidor.gov.br](https://www.consumidor.gov.br/pages/conteudo/publico/1;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Orientações de uso](https://www.consumidor.gov.br/pages/conteudo/publico/8;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Política de Uso de Dados Pessoais](https://www.consumidor.gov.br/pages/conteudo/publico/9;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Perguntas Frequentes (FAQ)](https://www.consumidor.gov.br/pages/conteudo/publico/3;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
+* [Termos de Uso](https://www.consumidor.gov.br/pages/conteudo/publico/7;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Conheça o Consumidor.gov.br](https://www.consumidor.gov.br/pages/conteudo/publico/1;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Orientações de uso](https://www.consumidor.gov.br/pages/conteudo/publico/8;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Política de Uso de Dados Pessoais](https://www.consumidor.gov.br/pages/conteudo/publico/9;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Perguntas Frequentes (FAQ)](https://www.consumidor.gov.br/pages/conteudo/publico/3;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
 
 [Início do rodapé](#)
 
 **Serviços**
 
-* [Indicadores](https://www.consumidor.gov.br/pages/indicador/geral/abrir;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Painel Estatístico](https://www.consumidor.gov.br/pages/conteudo/publico/62;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Denúncia Combustível - Preço Justo](https://www.consumidor.gov.br/pages/conteudo/publico/82;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Não encontrei a empresa](https://www.consumidor.gov.br/pages/conteudo/publico/41;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Como Aderir - Empresas](https://www.consumidor.gov.br/pages/conteudo/publico/2;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Acesso Restrito para Gestores e Empresas](https://www.consumidor.gov.br/pages/administrativo/login;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Suporte](https://www.consumidor.gov.br/pages/faleconosco/externo;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
+* [Indicadores](https://www.consumidor.gov.br/pages/indicador/geral/abrir;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Painel Estatístico](https://www.consumidor.gov.br/pages/conteudo/publico/62;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Denúncia Combustível - Preço Justo](https://www.consumidor.gov.br/pages/conteudo/publico/82;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Não encontrei a empresa](https://www.consumidor.gov.br/pages/conteudo/publico/41;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Como Aderir - Empresas](https://www.consumidor.gov.br/pages/conteudo/publico/2;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Acesso Restrito para Gestores e Empresas](https://www.consumidor.gov.br/pages/administrativo/login;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Suporte](https://www.consumidor.gov.br/pages/faleconosco/externo;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
 
 **Institucional**
 
-* [Órgãos Gestores e de Monitoramento](https://www.consumidor.gov.br/pages/principal/orgaos-gestores;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
+* [Órgãos Gestores e de Monitoramento](https://www.consumidor.gov.br/pages/principal/orgaos-gestores;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
 * [Ministério da Justiça](http://www.justica.gov.br/)
-* [Secretaria Nacional do Consumidor](https://www.consumidor.gov.br/pages/conteudo/publico/5;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Sistema Nacional de Defesa do Consumidor](https://www.consumidor.gov.br/pages/conteudo/publico/6;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Como Aderir - Órgãos de Monitoramento](https://www.consumidor.gov.br/pages/conteudo/publico/21;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Quem Somos](https://www.consumidor.gov.br/pages/conteudo/publico/4;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Código de Defesa do Consumidor (CDC)](https://www.consumidor.gov.br/pages/conteudo/publico/102;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
+* [Secretaria Nacional do Consumidor](https://www.consumidor.gov.br/pages/conteudo/publico/5;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Sistema Nacional de Defesa do Consumidor](https://www.consumidor.gov.br/pages/conteudo/publico/6;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Como Aderir - Órgãos de Monitoramento](https://www.consumidor.gov.br/pages/conteudo/publico/21;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Quem Somos](https://www.consumidor.gov.br/pages/conteudo/publico/4;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Código de Defesa do Consumidor (CDC)](https://www.consumidor.gov.br/pages/conteudo/publico/102;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
 
 **Política de Uso**
 
-* [Termos de Uso](https://www.consumidor.gov.br/pages/conteudo/publico/7;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Conheça o Consumidor.gov.br](https://www.consumidor.gov.br/pages/conteudo/publico/1;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Orientações de uso](https://www.consumidor.gov.br/pages/conteudo/publico/8;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Política de Uso de Dados Pessoais](https://www.consumidor.gov.br/pages/conteudo/publico/9;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Perguntas Frequentes (FAQ)](https://www.consumidor.gov.br/pages/conteudo/publico/3;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
+* [Termos de Uso](https://www.consumidor.gov.br/pages/conteudo/publico/7;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Conheça o Consumidor.gov.br](https://www.consumidor.gov.br/pages/conteudo/publico/1;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Orientações de uso](https://www.consumidor.gov.br/pages/conteudo/publico/8;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Política de Uso de Dados Pessoais](https://www.consumidor.gov.br/pages/conteudo/publico/9;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Perguntas Frequentes (FAQ)](https://www.consumidor.gov.br/pages/conteudo/publico/3;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
 
 **Serviços**
 
-* [Indicadores](https://www.consumidor.gov.br/pages/indicador/geral/abrir;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Painel Estatístico](https://www.consumidor.gov.br/pages/conteudo/publico/62;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Denúncia Combustível - Preço Justo](https://www.consumidor.gov.br/pages/conteudo/publico/82;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Não encontrei a empresa](https://www.consumidor.gov.br/pages/conteudo/publico/41;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Como Aderir - Empresas](https://www.consumidor.gov.br/pages/conteudo/publico/2;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Acesso Restrito para Gestores e Empresas](https://www.consumidor.gov.br/pages/administrativo/login;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Suporte](https://www.consumidor.gov.br/pages/faleconosco/externo;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
+* [Indicadores](https://www.consumidor.gov.br/pages/indicador/geral/abrir;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Painel Estatístico](https://www.consumidor.gov.br/pages/conteudo/publico/62;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Denúncia Combustível - Preço Justo](https://www.consumidor.gov.br/pages/conteudo/publico/82;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Não encontrei a empresa](https://www.consumidor.gov.br/pages/conteudo/publico/41;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Como Aderir - Empresas](https://www.consumidor.gov.br/pages/conteudo/publico/2;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Acesso Restrito para Gestores e Empresas](https://www.consumidor.gov.br/pages/administrativo/login;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Suporte](https://www.consumidor.gov.br/pages/faleconosco/externo;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
 
 **Serviços**
 
-* [Indicadores](https://www.consumidor.gov.br/pages/indicador/geral/abrir;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Painel Estatístico](https://www.consumidor.gov.br/pages/conteudo/publico/62;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Denúncia Combustível - Preço Justo](https://www.consumidor.gov.br/pages/conteudo/publico/82;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Não encontrei a empresa](https://www.consumidor.gov.br/pages/conteudo/publico/41;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Como Aderir - Empresas](https://www.consumidor.gov.br/pages/conteudo/publico/2;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Acesso Restrito para Gestores e Empresas](https://www.consumidor.gov.br/pages/administrativo/login;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Suporte](https://www.consumidor.gov.br/pages/faleconosco/externo;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
+* [Indicadores](https://www.consumidor.gov.br/pages/indicador/geral/abrir;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Painel Estatístico](https://www.consumidor.gov.br/pages/conteudo/publico/62;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Denúncia Combustível - Preço Justo](https://www.consumidor.gov.br/pages/conteudo/publico/82;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Não encontrei a empresa](https://www.consumidor.gov.br/pages/conteudo/publico/41;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Como Aderir - Empresas](https://www.consumidor.gov.br/pages/conteudo/publico/2;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Acesso Restrito para Gestores e Empresas](https://www.consumidor.gov.br/pages/administrativo/login;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Suporte](https://www.consumidor.gov.br/pages/faleconosco/externo;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
 
 **Serviços**
 
 **Institucional**
 
-* [Órgãos Gestores e de Monitoramento](https://www.consumidor.gov.br/pages/principal/orgaos-gestores;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
+* [Órgãos Gestores e de Monitoramento](https://www.consumidor.gov.br/pages/principal/orgaos-gestores;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
 * [Ministério da Justiça](http://www.justica.gov.br/)
-* [Secretaria Nacional do Consumidor](https://www.consumidor.gov.br/pages/conteudo/publico/5;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Sistema Nacional de Defesa do Consumidor](https://www.consumidor.gov.br/pages/conteudo/publico/6;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Como Aderir - Órgãos de Monitoramento](https://www.consumidor.gov.br/pages/conteudo/publico/21;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Quem Somos](https://www.consumidor.gov.br/pages/conteudo/publico/4;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Código de Defesa do Consumidor (CDC)](https://www.consumidor.gov.br/pages/conteudo/publico/102;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
+* [Secretaria Nacional do Consumidor](https://www.consumidor.gov.br/pages/conteudo/publico/5;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Sistema Nacional de Defesa do Consumidor](https://www.consumidor.gov.br/pages/conteudo/publico/6;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Como Aderir - Órgãos de Monitoramento](https://www.consumidor.gov.br/pages/conteudo/publico/21;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Quem Somos](https://www.consumidor.gov.br/pages/conteudo/publico/4;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Código de Defesa do Consumidor (CDC)](https://www.consumidor.gov.br/pages/conteudo/publico/102;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
 
 **Institucional**
 
-* [Órgãos Gestores e de Monitoramento](https://www.consumidor.gov.br/pages/principal/orgaos-gestores;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
+* [Órgãos Gestores e de Monitoramento](https://www.consumidor.gov.br/pages/principal/orgaos-gestores;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
 * [Ministério da Justiça](http://www.justica.gov.br/)
-* [Secretaria Nacional do Consumidor](https://www.consumidor.gov.br/pages/conteudo/publico/5;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Sistema Nacional de Defesa do Consumidor](https://www.consumidor.gov.br/pages/conteudo/publico/6;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Como Aderir - Órgãos de Monitoramento](https://www.consumidor.gov.br/pages/conteudo/publico/21;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Quem Somos](https://www.consumidor.gov.br/pages/conteudo/publico/4;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Código de Defesa do Consumidor (CDC)](https://www.consumidor.gov.br/pages/conteudo/publico/102;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
+* [Secretaria Nacional do Consumidor](https://www.consumidor.gov.br/pages/conteudo/publico/5;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Sistema Nacional de Defesa do Consumidor](https://www.consumidor.gov.br/pages/conteudo/publico/6;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Como Aderir - Órgãos de Monitoramento](https://www.consumidor.gov.br/pages/conteudo/publico/21;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Quem Somos](https://www.consumidor.gov.br/pages/conteudo/publico/4;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Código de Defesa do Consumidor (CDC)](https://www.consumidor.gov.br/pages/conteudo/publico/102;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
 
 **Institucional**
 
 **Política de Uso**
 
-* [Termos de Uso](https://www.consumidor.gov.br/pages/conteudo/publico/7;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Conheça o Consumidor.gov.br](https://www.consumidor.gov.br/pages/conteudo/publico/1;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Orientações de uso](https://www.consumidor.gov.br/pages/conteudo/publico/8;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Política de Uso de Dados Pessoais](https://www.consumidor.gov.br/pages/conteudo/publico/9;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Perguntas Frequentes (FAQ)](https://www.consumidor.gov.br/pages/conteudo/publico/3;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
+* [Termos de Uso](https://www.consumidor.gov.br/pages/conteudo/publico/7;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Conheça o Consumidor.gov.br](https://www.consumidor.gov.br/pages/conteudo/publico/1;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Orientações de uso](https://www.consumidor.gov.br/pages/conteudo/publico/8;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Política de Uso de Dados Pessoais](https://www.consumidor.gov.br/pages/conteudo/publico/9;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Perguntas Frequentes (FAQ)](https://www.consumidor.gov.br/pages/conteudo/publico/3;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
 
 **Política de Uso**
 
-* [Termos de Uso](https://www.consumidor.gov.br/pages/conteudo/publico/7;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Conheça o Consumidor.gov.br](https://www.consumidor.gov.br/pages/conteudo/publico/1;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Orientações de uso](https://www.consumidor.gov.br/pages/conteudo/publico/8;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Política de Uso de Dados Pessoais](https://www.consumidor.gov.br/pages/conteudo/publico/9;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
-* [Perguntas Frequentes (FAQ)](https://www.consumidor.gov.br/pages/conteudo/publico/3;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
+* [Termos de Uso](https://www.consumidor.gov.br/pages/conteudo/publico/7;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Conheça o Consumidor.gov.br](https://www.consumidor.gov.br/pages/conteudo/publico/1;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Orientações de uso](https://www.consumidor.gov.br/pages/conteudo/publico/8;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Política de Uso de Dados Pessoais](https://www.consumidor.gov.br/pages/conteudo/publico/9;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
+* [Perguntas Frequentes (FAQ)](https://www.consumidor.gov.br/pages/conteudo/publico/3;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
 
 **Política de Uso**
 
-[![Acesso a Informação](/resources/imagens/acesso-info.png;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)](http://www.acessoainformacao.gov.br/)
+[![Acesso a Informação](/resources/imagens/acesso-info.png;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)](http://www.acessoainformacao.gov.br/)
 
-![Selo Inovação](/resources/imagens/selo-inovacao.png;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
+![Selo Inovação](/resources/imagens/selo-inovacao.png;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
 
-[![Acesso a Informação](/resources/imagens/acesso-info.png;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)](http://www.acessoainformacao.gov.br/)
+[![Acesso a Informação](/resources/imagens/acesso-info.png;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)](http://www.acessoainformacao.gov.br/)
 
-![Selo Inovação](/resources/imagens/selo-inovacao.png;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
+![Selo Inovação](/resources/imagens/selo-inovacao.png;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
 
-[![Acesso a Informação](/resources/imagens/acesso-info.png;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)](http://www.acessoainformacao.gov.br/)
+[![Acesso a Informação](/resources/imagens/acesso-info.png;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)](http://www.acessoainformacao.gov.br/)
 
-![Selo Inovação](/resources/imagens/selo-inovacao.png;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
+![Selo Inovação](/resources/imagens/selo-inovacao.png;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
 
-[![Acesso a Informação](/resources/imagens/acesso-info.png;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)](http://www.acessoainformacao.gov.br/)
+[![Acesso a Informação](/resources/imagens/acesso-info.png;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)](http://www.acessoainformacao.gov.br/)
 
-![Selo Inovação](/resources/imagens/selo-inovacao.png;acoesSessaoCookie=EF2B28785A35FA6A9A8AB9C0804BFC46)
+![Selo Inovação](/resources/imagens/selo-inovacao.png;acoesSessaoCookie=8B2E12E82954F8BDF35B708CC1A326BE)
