@@ -1176,7 +1176,7 @@ BIC: BFSWDE33XXX
 
 IBAN KOPIEREN [QR-Code für Banking-App](#qr-popup)
 
-[×](#) ![Bank QR Code](themes/custom/ai_theme/assets/img/QR-code.jpg)
+[×](#) ![Bank QR Code](/themes/custom/ai_theme/assets/img/QR-code.jpg)
 
 [![Logo ITZ](https://www.amnesty.de/sites/default/files/2021-08/Transparente_Zivilgesellschaft_weiss.png)](https://www.amnesty.de/amnesty/transparenz-angaben)
 
