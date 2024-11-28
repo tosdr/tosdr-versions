@@ -174,7 +174,7 @@ These Terms of Service (“Terms”), End User License Agreement, and other docu
     Blvd Miami,  
     FL 33134
     
-    Total Security Limited trading as Protected (Scanguard),  
+    Total Security Limited trading as Total Security (Scanguard),  
     16-18 Barnes Wallis Road,  
     Segensworth,  
     Fareham,  
