@@ -1,4 +1,4 @@
-[Nominate and Help Us Give $100,000 This GivingTuesday! Learn More.](https://www.canadahelps.org/en/givingtuesday/)
+[Get Ready For GivingTuesday! Explore All The Ways You Can Participate Here.](https://www.canadahelps.org/en/givingtuesday/)
 
  
 
