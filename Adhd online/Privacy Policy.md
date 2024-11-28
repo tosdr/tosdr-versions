@@ -304,7 +304,7 @@ If you have a concern about the safety and quality of care, please contact ADHD 
 
 © 2024 Mentavi Health, Inc. All Rights Reserved. | [Privacy policy](https://adhdonline.com/privacy-policy/) | [Notice of privacy practices](https://adhdonline.com/notice-of-privacy-practices/) | [Terms & conditions](https://adhdonline.com/terms-conditions/) | [No Show & Refund policy](https://adhdonline.com/refund-policy/)
 
-**If you are having suicidal thoughts please immediately call or text the National Suicide Prevention Hotline at [988](tel:988)**
+**If you are having suicidal thoughts, please immediately call or text the Suicide & Crisis Lifeline at 988**  
 
 * [Diagnosis](#)
     * [Smart Assessment](https://adhdonline.com/assessment/)
