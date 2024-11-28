@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[November 28, 2024](https://www.japantimes.co.jp/archive/2024/11/28/ "archive page")
+[November 29, 2024](https://www.japantimes.co.jp/archive/2024/11/29/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -131,37 +131,29 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
-[Funeral held for Princess Yuriko at Tokyo cemetery](https://www.japantimes.co.jp/news/2024/11/26/japan/society/princess-yuriko-funeral/ "Funeral held for Princess Yuriko at Tokyo cemetery")
-
-  [![Crown Prince Akishino and Crown Princess Kiko, followed by Princess Aiko and Princess Kako, prepare to attend a funeral service for Princess Yuriko at Toshimagaoka Cemetery in Tokyo on Tuesday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/26/436352.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Crown Prince Akishino and Crown Princess Kiko, followed by Princess Aiko and Princess Kako, prepare to attend a funeral service for Princess Yuriko at Toshimagaoka Cemetery in Tokyo on Tuesday. ")](https://www.japantimes.co.jp/news/2024/11/26/japan/society/princess-yuriko-funeral/ "Funeral held for Princess Yuriko at Tokyo cemetery")
-
 [Japan investigating Amazon for allegedly bullying other businesses](https://www.japantimes.co.jp/business/2024/11/27/companies/jftc-amazon-japan/ "Japan investigating Amazon for allegedly bullying other businesses")
 
   [![Packages move along a conveyor belt at an Amazon warehouse](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/27/436814.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Packages move along a conveyor belt at an Amazon warehouse")](https://www.japantimes.co.jp/business/2024/11/27/companies/jftc-amazon-japan/ "Japan investigating Amazon for allegedly bullying other businesses")
 
-[Trump team weighs direct talks with North Korea's Kim](https://www.japantimes.co.jp/news/2024/11/27/asia-pacific/politics/us-north-korea-trump-kim-talks/ "Trump team weighs direct talks with North Korea's Kim")
+[DPP’s Tamaki leverages new position with energy proposal](https://www.japantimes.co.jp/news/2024/11/27/japan/politics/ishiba-tamaki-nuclear-energy/ "DPP’s Tamaki leverages new position with energy proposal")
 
-  [![Then-U.S. President Donald Trump meets with North Korean leader Kim Jong Un at the Demilitarized Zone separating the two Koreas, in Panmunjom, South Korea, in June 2019.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/27/436484.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Then-U.S. President Donald Trump meets with North Korean leader Kim Jong Un at the Demilitarized Zone separating the two Koreas, in Panmunjom, South Korea, in June 2019.")](https://www.japantimes.co.jp/news/2024/11/27/asia-pacific/politics/us-north-korea-trump-kim-talks/ "Trump team weighs direct talks with North Korea's Kim")
+  [![DPP leader Yuichiro Tamaki in Tokyo on Tuesday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/27/436830.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "DPP leader Yuichiro Tamaki in Tokyo on Tuesday")](https://www.japantimes.co.jp/news/2024/11/27/japan/politics/ishiba-tamaki-nuclear-energy/ "DPP’s Tamaki leverages new position with energy proposal")
 
-[Bluesky is booming in Japan — mainly for reasons other than U.S. politics](https://www.japantimes.co.jp/business/2024/11/25/companies/bluesky-social-japan/ "Bluesky is booming in Japan — mainly for reasons other than U.S. politics")
+[Japanese man broke into 1,000 homes to 'relieve stress'](https://www.japantimes.co.jp/news/2024/11/27/japan/crime-legal/man-home-invasion/ "Japanese man broke into 1,000 homes to 'relieve stress'")
 
-  [![According to Similarweb, average monthly user numbers for Bluesky on Android in Japan quintupled in the 12 months to October.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/25/436245.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "According to Similarweb, average monthly user numbers for Bluesky on Android in Japan quintupled in the 12 months to October.")](https://www.japantimes.co.jp/business/2024/11/25/companies/bluesky-social-japan/ "Bluesky is booming in Japan — mainly for reasons other than U.S. politics")
+  [![Fukuoka Prefectural Police Headquarters in Fukuoka. Police took a 37-year-old man into custody on Monday on suspicion of trespassing on a property in Dazaifu City. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/27/436747.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Fukuoka Prefectural Police Headquarters in Fukuoka. Police took a 37-year-old man into custody on Monday on suspicion of trespassing on a property in Dazaifu City. ")](https://www.japantimes.co.jp/news/2024/11/27/japan/crime-legal/man-home-invasion/ "Japanese man broke into 1,000 homes to 'relieve stress'")
 
-[Israel-Hezbollah cease-fire, brokered by U.S. and France, takes effect](https://www.japantimes.co.jp/news/2024/11/27/world/politics/israel-hezbollah-ceasefire-agreement/ "Israel-Hezbollah cease-fire, brokered by U.S. and France, takes effect")
+[Wild boar injures six at Himeji child care facility](https://www.japantimes.co.jp/news/2024/11/27/japan/crime-legal/wild-boar-attack/ "Wild boar injures six at Himeji child care facility")
 
-  [![People near Martyrs Square in Beirut watch as Israeli Prime Minister Benjamin Netanyahu announces a cease-fire on television on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/27/436453.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "People near Martyrs Square in Beirut watch as Israeli Prime Minister Benjamin Netanyahu announces a cease-fire on television on Tuesday.")](https://www.japantimes.co.jp/news/2024/11/27/world/politics/israel-hezbollah-ceasefire-agreement/ "Israel-Hezbollah cease-fire, brokered by U.S. and France, takes effect")
+  [![Hyogo Prefectural Police headquarters. A wild boar attacked children and staff at a child care facility in the prefecture on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/27/436720.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Hyogo Prefectural Police headquarters. A wild boar attacked children and staff at a child care facility in the prefecture on Tuesday.")](https://www.japantimes.co.jp/news/2024/11/27/japan/crime-legal/wild-boar-attack/ "Wild boar injures six at Himeji child care facility")
+
+[Russia says it will respond if U.S. places missiles in Japan](https://www.japantimes.co.jp/news/2024/11/28/japan/russia-us-missiles-japan/ "Russia says it will respond if U.S. places missiles in Japan")
+
+  [![Russian Foreign Ministry spokesperson Maria Zakharova at a news conference in the city of Nizhny Novgorod, Russia, in June](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/28/436866.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Russian Foreign Ministry spokesperson Maria Zakharova at a news conference in the city of Nizhny Novgorod, Russia, in June")](https://www.japantimes.co.jp/news/2024/11/28/japan/russia-us-missiles-japan/ "Russia says it will respond if U.S. places missiles in Japan")
 
 Editors' Picks
 --------------
 
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Funeral held for Princess Yuriko at Tokyo cemetery](https://www.japantimes.co.jp/news/2024/11/26/japan/society/princess-yuriko-funeral/ "Funeral held for Princess Yuriko at Tokyo cemetery")
-
-By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
-
-  [![Crown Prince Akishino and Crown Princess Kiko, followed by Princess Aiko and Princess Kako, prepare to attend a funeral service for Princess Yuriko at Toshimagaoka Cemetery in Tokyo on Tuesday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/26/436352.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Crown Prince Akishino and Crown Princess Kiko, followed by Princess Aiko and Princess Kako, prepare to attend a funeral service for Princess Yuriko at Toshimagaoka Cemetery in Tokyo on Tuesday. ")](https://www.japantimes.co.jp/news/2024/11/26/japan/society/princess-yuriko-funeral/ "Funeral held for Princess Yuriko at Tokyo cemetery")
-
 [BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
 
 [Japan investigating Amazon for allegedly bullying other businesses](https://www.japantimes.co.jp/business/2024/11/27/companies/jftc-amazon-japan/ "Japan investigating Amazon for allegedly bullying other businesses")
@@ -170,27 +162,33 @@ By [Elizabeth Beattie](https://www.japantimes.co.jp/author/3993/elizabeth-beatti
 
   [![Packages move along a conveyor belt at an Amazon warehouse](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/27/436814.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Packages move along a conveyor belt at an Amazon warehouse")](https://www.japantimes.co.jp/business/2024/11/27/companies/jftc-amazon-japan/ "Japan investigating Amazon for allegedly bullying other businesses")
 
-[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Trump team weighs direct talks with North Korea's Kim](https://www.japantimes.co.jp/news/2024/11/27/asia-pacific/politics/us-north-korea-trump-kim-talks/ "Trump team weighs direct talks with North Korea's Kim")
+[DPP’s Tamaki leverages new position with energy proposal](https://www.japantimes.co.jp/news/2024/11/27/japan/politics/ishiba-tamaki-nuclear-energy/ "DPP’s Tamaki leverages new position with energy proposal")
 
-By [Trevor Hunnicutt](https://www.japantimes.co.jp/author/1493/trevor-hunnicutt/ "Trevor Hunnicutt")  
+By [Gabriele Ninivaggi](https://www.japantimes.co.jp/author/4179/gabriele-ninivaggi/ "Gabriele Ninivaggi")  
 
-  [![Then-U.S. President Donald Trump meets with North Korean leader Kim Jong Un at the Demilitarized Zone separating the two Koreas, in Panmunjom, South Korea, in June 2019.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/27/436484.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Then-U.S. President Donald Trump meets with North Korean leader Kim Jong Un at the Demilitarized Zone separating the two Koreas, in Panmunjom, South Korea, in June 2019.")](https://www.japantimes.co.jp/news/2024/11/27/asia-pacific/politics/us-north-korea-trump-kim-talks/ "Trump team weighs direct talks with North Korea's Kim")
+  [![DPP leader Yuichiro Tamaki in Tokyo on Tuesday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/27/436830.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "DPP leader Yuichiro Tamaki in Tokyo on Tuesday")](https://www.japantimes.co.jp/news/2024/11/27/japan/politics/ishiba-tamaki-nuclear-energy/ "DPP’s Tamaki leverages new position with energy proposal")
 
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Bluesky is booming in Japan — mainly for reasons other than U.S. politics](https://www.japantimes.co.jp/business/2024/11/25/companies/bluesky-social-japan/ "Bluesky is booming in Japan — mainly for reasons other than U.S. politics")
+[Japanese man broke into 1,000 homes to 'relieve stress'](https://www.japantimes.co.jp/news/2024/11/27/japan/crime-legal/man-home-invasion/ "Japanese man broke into 1,000 homes to 'relieve stress'")
 
-By [Elizabeth Beattie](https://www.japantimes.co.jp/author/3993/elizabeth-beattie/ "Elizabeth Beattie")  
+  [![Fukuoka Prefectural Police Headquarters in Fukuoka. Police took a 37-year-old man into custody on Monday on suspicion of trespassing on a property in Dazaifu City. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/27/436747.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Fukuoka Prefectural Police Headquarters in Fukuoka. Police took a 37-year-old man into custody on Monday on suspicion of trespassing on a property in Dazaifu City. ")](https://www.japantimes.co.jp/news/2024/11/27/japan/crime-legal/man-home-invasion/ "Japanese man broke into 1,000 homes to 'relieve stress'")
 
-  [![According to Similarweb, average monthly user numbers for Bluesky on Android in Japan quintupled in the 12 months to October.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/25/436245.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "According to Similarweb, average monthly user numbers for Bluesky on Android in Japan quintupled in the 12 months to October.")](https://www.japantimes.co.jp/business/2024/11/25/companies/bluesky-social-japan/ "Bluesky is booming in Japan — mainly for reasons other than U.S. politics")
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[WORLD](https://www.japantimes.co.jp/news/world/ "WORLD")
+[Wild boar injures six at Himeji child care facility](https://www.japantimes.co.jp/news/2024/11/27/japan/crime-legal/wild-boar-attack/ "Wild boar injures six at Himeji child care facility")
 
-[Israel-Hezbollah cease-fire, brokered by U.S. and France, takes effect](https://www.japantimes.co.jp/news/2024/11/27/world/politics/israel-hezbollah-ceasefire-agreement/ "Israel-Hezbollah cease-fire, brokered by U.S. and France, takes effect")
+By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
 
-  [![People near Martyrs Square in Beirut watch as Israeli Prime Minister Benjamin Netanyahu announces a cease-fire on television on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/27/436453.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "People near Martyrs Square in Beirut watch as Israeli Prime Minister Benjamin Netanyahu announces a cease-fire on television on Tuesday.")](https://www.japantimes.co.jp/news/2024/11/27/world/politics/israel-hezbollah-ceasefire-agreement/ "Israel-Hezbollah cease-fire, brokered by U.S. and France, takes effect")
+  [![Hyogo Prefectural Police headquarters. A wild boar attacked children and staff at a child care facility in the prefecture on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/27/436720.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Hyogo Prefectural Police headquarters. A wild boar attacked children and staff at a child care facility in the prefecture on Tuesday.")](https://www.japantimes.co.jp/news/2024/11/27/japan/crime-legal/wild-boar-attack/ "Wild boar injures six at Himeji child care facility")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Russia says it will respond if U.S. places missiles in Japan](https://www.japantimes.co.jp/news/2024/11/28/japan/russia-us-missiles-japan/ "Russia says it will respond if U.S. places missiles in Japan")
+
+  [![Russian Foreign Ministry spokesperson Maria Zakharova at a news conference in the city of Nizhny Novgorod, Russia, in June](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/28/436866.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Russian Foreign Ministry spokesperson Maria Zakharova at a news conference in the city of Nizhny Novgorod, Russia, in June")](https://www.japantimes.co.jp/news/2024/11/28/japan/russia-us-missiles-japan/ "Russia says it will respond if U.S. places missiles in Japan")
 
 Podcast
 -------
@@ -211,9 +209,9 @@ By [Greg Dvorak](https://www.japantimes.co.jp/author/6191/greg-dvorak/ "Greg Dvo
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -253,25 +251,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[SoftBank blasts Moody’s for unsolicited ratings](https://www.japantimes.co.jp/business/2024/11/28/companies/softbank-moodys-rating/ "SoftBank blasts Moody’s for unsolicited ratings")
+[Putin warns Russia may strike Kyiv with new ballistic missiles](https://www.japantimes.co.jp/news/2024/11/28/world/putin-warns-kyiv-strike-new-missiles/ "Putin warns Russia may strike Kyiv with new ballistic missiles")
 
-51 mins ago
+3 hours ago
 
-[Real-life ‘Tokyo Swindlers’ ordered to pay ¥1 billion in damages](https://www.japantimes.co.jp/news/2024/11/28/japan/crime-legal/tokyo-swindlers-case/ "Real-life ‘Tokyo Swindlers’ ordered to pay ¥1 billion in damages")
+[Share of female presidents at Japanese firms hits record 8.4%](https://www.japantimes.co.jp/business/2024/11/28/female-president-share-record/ "Share of female presidents at Japanese firms hits record 8.4%")
 
-1 hour ago
+4 hours ago
 
-[Toyota’s sales and output plateau on downturn in Japan and China](https://www.japantimes.co.jp/business/2024/11/28/companies/toyota-nissan-sales/ "Toyota’s sales and output plateau on downturn in Japan and China")
+[Rights group says Vietnam's imprisonment of Khmer monks violated religious freedom](https://www.japantimes.co.jp/news/2024/11/28/asia-pacific/crime-legal/monks-vietnam-rights/ "Rights group says Vietnam's imprisonment of Khmer monks violated religious freedom")
 
-1 hour ago
+4 hours ago
 
-[Trump agenda set to collide with slow pace of U.S. legal system](https://www.japantimes.co.jp/news/2024/11/28/world/politics/trump-agenda-us-legal-system/ "Trump agenda set to collide with slow pace of U.S. legal system")
+[Taiwan president's plan to stop over in Hawaii and Guam angers Beijing](https://www.japantimes.co.jp/news/2024/11/28/asia-pacific/taiwan-leader-stop-hawaii-guam/ "Taiwan president's plan to stop over in Hawaii and Guam angers Beijing")
 
-2 hours ago
+5 hours ago
 
-[Two dead after fire at Upper House lawmaker Kuniko Inoguchi’s apartment](https://www.japantimes.co.jp/news/2024/11/28/japan/politics/kuniko-inoguchi-fire/ "Two dead after fire at Upper House lawmaker Kuniko Inoguchi’s apartment")
+[Japan to lean heavily on extra tax revenue to cover costs of extra budget](https://www.japantimes.co.jp/news/2024/11/28/japan/extra-budget-tax-revenue/ "Japan to lean heavily on extra tax revenue to cover costs of extra budget")
 
-2 hours ago
+5 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
