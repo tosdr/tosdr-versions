@@ -162,6 +162,6 @@ Stand with us to keep progressive voices strong and resilient against attacks. Y
 
 [![Join the Resistance banner with raised open palms in diverse skin tones symbolizing solidarity against a dynamic, hopeful background.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20576'%3E%3C/svg%3E)
 
-![Join the Resistance banner with raised open palms in diverse skin tones symbolizing solidarity against a dynamic, hopeful background.](https://freespeech.org/wp-content/uploads/2024/11/Join-the-Resistance_web-1024x576.jpg)](https://freespeech.org/donate-all/)
+![Join the Resistance banner with raised open palms in diverse skin tones symbolizing solidarity against a dynamic, hopeful background.](https://freespeech.org/wp-content/uploads/2024/11/Join-the-Resistance_banner_NOV24_184KB-1024x576.jpg)](https://freespeech.org/donate-all/)
 
 ×
