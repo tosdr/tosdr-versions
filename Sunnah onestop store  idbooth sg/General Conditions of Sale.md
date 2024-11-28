@@ -154,7 +154,7 @@ Search
     
     **
     
-    Regular price Sale price $17 ~$33.50~
+    Regular price Sale price $13.90 ~$33.50~
     
     **](https://sunnahosstore-id.com/products/moroccan-argan-oil)
     
