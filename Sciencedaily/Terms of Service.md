@@ -229,6 +229,8 @@ this hour
 
 * * *
 
+* [Discovering the Traits of Extinct Birds](https://www.sciencedaily.com/releases/2024/11/241127165718.htm)
+* [Moving 'Hotspot' Made Underwater Mountain Belt](https://www.sciencedaily.com/releases/2024/11/241127140243.htm)
 * [Simple Secret to Living a Longer Life](https://www.sciencedaily.com/releases/2024/11/241126215133.htm)
 * [Complex Chimpanzee Cultures](https://www.sciencedaily.com/releases/2024/11/241127135912.htm)
 * [World's Oldest Lizard Wins Fossil Fight](https://www.sciencedaily.com/releases/2024/11/241126191725.htm)
@@ -237,8 +239,6 @@ this hour
 * [Brain Test Shows That Crabs Process Pain](https://www.sciencedaily.com/releases/2024/11/241126135832.htm)
 * [One Star System Generating Radio Waves](https://www.sciencedaily.com/releases/2024/11/241126135731.htm)
 * [Reversing Climate Change: Far More Costly Later](https://www.sciencedaily.com/releases/2024/11/241126135636.htm)
-* [Magnetic Tornado at Jupiter's Poles](https://www.sciencedaily.com/releases/2024/11/241126135634.htm)
-* [Explosive Secret of the Squirting Cucumber](https://www.sciencedaily.com/releases/2024/11/241125162946.htm)
 
 Trending Topics
 ---------------
