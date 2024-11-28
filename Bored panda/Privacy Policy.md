@@ -10,27 +10,29 @@ Get Premium
 
 Dark mode theme is available exclusively for premium users. Learn more about the benefits of subscribing.
 
+No fees, cancel anytime.
+
 ![](https://assets.boredpanda.com/blog/wp-content/themes/boredpanda/images/premium/ic-check-green.svg) Dark Mode
 
 ![](https://assets.boredpanda.com/blog/wp-content/themes/boredpanda/images/premium/ic-check-green.svg) Ad-Free Browsing
 
 ![](https://assets.boredpanda.com/blog/wp-content/themes/boredpanda/images/premium/ic-check-green.svg) Unlimited Content
 
-[Upgrade now](https://www.boredpanda.com/premium/?utm_source=boredpanda&utm_medium=darkmode&utm_campaign=premium_darkmode)
+[Upgrade now](https://www.boredpanda.com/premium/?utm_source=boredpanda&utm_medium=darkmode&utm_campaign=premium_darkmode) [Already a subscriber? **Sign In**](javascript:void(0))
+
+![](https://assets.boredpanda.com/blog/wp-content/themes/boredpanda/images/premium/mobile-primis-popup-cover.webp)
+
+Get Premium – Enjoy No Ads [![](https://assets.boredpanda.com/blog/wp-content/themes/boredpanda/images/premium/ic-close-full.svg)](javascript:void(0))
+
+![](https://assets.boredpanda.com/blog/wp-content/themes/boredpanda/images/premium/ic-check-green.svg) Ad-Free Browsing
+
+![](https://assets.boredpanda.com/blog/wp-content/themes/boredpanda/images/premium/ic-check-green.svg) Unlimited Content
+
+![](https://assets.boredpanda.com/blog/wp-content/themes/boredpanda/images/premium/ic-check-green.svg) Dark Mode
 
 ![](https://assets.boredpanda.com/blog/wp-content/themes/boredpanda/images/premium/ic-clock-modal.svg) No fees, cancel anytime
 
-![](https://assets.boredpanda.com/blog/wp-content/themes/boredpanda/images/premium/primis-popup-cover.webp) ![](https://assets.boredpanda.com/blog/wp-content/themes/boredpanda/images/premium/mobile-primis-popup-cover.webp)
-
-Unlock Premium: Enjoy No Ads
-
-![](https://assets.boredpanda.com/blog/wp-content/themes/boredpanda/images/premium/ic-check-green.svg) Ad-Free Browsing
-
-![](https://assets.boredpanda.com/blog/wp-content/themes/boredpanda/images/premium/ic-check-green.svg) Unlimited Content
-
-![](https://assets.boredpanda.com/blog/wp-content/themes/boredpanda/images/premium/ic-check-green.svg) Dark Mode
-
-[Skip](javascript:void(0)) [Upgrade now](https://www.boredpanda.com/premium/?utm_source=boredpanda&utm_medium=popup&utm_campaign=premium-popup)
+[Upgrade now](https://www.boredpanda.com/premium/?utm_source=boredpanda&utm_medium=popup&utm_campaign=premium-popup) [Already a subscriber? **Sign In**](javascript:void(0))
 
 [_Modal close_](javascript:void(0))
 
