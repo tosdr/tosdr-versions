@@ -1,3 +1,21 @@
+[![](https://therealnews.com/wp-content/uploads/2024/02/Media-at-risk-2024-1-1024x639.jpg)](https://support.therealnews.com/-/XTZGUMAB)
+
+******[The Fight for Media Freedom CONTINUES](https://support.therealnews.com/-/XDGVUPWM)******! ******[Help Us Reach our goal by the end of 2024!](https://support.therealnews.com/-/XDGVUPWM)******
+
+The Real News Network operates on a simple principle**: no corporate money, no paywalls, no ads**. Our work relies entirely on supporters like you who believe in the power of independent journalism to drive change.
+
+**[We are facing an urgent and critical financial crisis right now.](https://support.therealnews.com/-/XXVAKETU)**
+
+To sustain our reporting in 2025, we must raise **$200,000 by year’s end**. Every story and every voice we amplify depends on your support. Without it, fearless, movement-building journalism is at risk.
+
+In a media landscape dominated by corporate interests, **TRNN stands as a vital platform for exposing injustice, amplifying grassroots movements, and empowering people to act.**
+
+Your donation—**whether $5 or $500**—keeps us independent, bold, and uncompromising. Join us in this fight for truth.
+
+**Donate today and help us reach our $200K goal.** Together, we can ensure that independent journalism thrives when it’s needed most.
+
+[**I STAND WITH TRNN!**](https://support.therealnews.com/-/XHNHQCAR)
+
 You're missing out.
 ===================
 
@@ -27,14 +45,15 @@ Search for:  Search
 * [Shows & Podcasts](https://therealnews.com/our-shows-podcasts)
 * [About](https://therealnews.com/about)
 
+* [Elections 2024](https://therealnews.com/tag/elections-2024)
 * [Israel’s War on Palestine](https://therealnews.com/tag/palestine)
 * [Under the Shadow](https://therealnews.com/under-the-shadow)
 * [Killer Water](https://therealnews.com/killer-water-the-toxic-legacy-of-canadas-oil-sands-industry-for-indigenous-communities)
 
-* [Facebook](https://www.facebook.com/therealnews)
-* [Twitter](https://twitter.com/therealnews)
-* [Instagram](https://www.instagram.com/therealnewsnetwork/)
 * [Youtube](https://www.youtube.com/c/therealnews)
+* [Facebook](https://www.facebook.com/therealnews)
+* [Instagram](https://www.instagram.com/therealnewsnetwork/)
+* [Twitter](https://twitter.com/therealnews)
 * [Mastodon](https://mastodon.social/@therealnews)
 * [Telegram](https://t.me/the_real_news_network)
 * [RSS Feed](https://therealnews.com/feed?partner-feed=the-real-news-network)
@@ -90,16 +109,16 @@ Follow Us
 Trending Posts
 --------------
 
-* [North Carolina failed to evacuate prisoners during Hurricane Helene](https://therealnews.com/north-carolina-failed-to-evacuate-prisoners-during-hurricane-helene)
-* [Billionaires spew more CO2 pollution in 90 minutes than average person in a lifetime](https://therealnews.com/billionaires-spew-more-co2-pollution-in-90-minutes-than-average-person-in-a-lifetime)
-* [The failures of liberals and the Left have helped Trump's rise](https://therealnews.com/the-failures-of-liberals-and-the-left-have-helped-trumps-rise)
-* ['I'm not interested in changing hearts and minds': The work of an anti-Zionist rabbi](https://therealnews.com/the-work-of-an-anti-zionist-rabbi)
-* [Zionism is driving a growing divide in Jewish communities](https://therealnews.com/zionism-is-driving-a-growing-divide-in-jewish-communities)
-* [Kaiser workers’ strike enters second week in Southern California](https://therealnews.com/kaiser-workers-strike-enters-second-week-in-southern-california)
-* [This CEO left coal miners penniless. Why did a West Virginia town give him a lucrative tax break to build a luxury hotel?](https://therealnews.com/this-ceo-left-coal-miners-penniless-why-did-a-west-virginia-town-give-him-a-lucrative-tax-break-to-build-a-luxury-hotel)
-* [France wants to make Olympics-style surveillance permanent](https://therealnews.com/france-wants-to-make-olympics-style-surveillance-permanent)
-* [‘This is an extermination’: Israel’s assault on north Gaza’s last functioning hospital](https://therealnews.com/this-is-an-extermination-israels-assault-on-north-gazas-last-functioning-hospital)
-* [Black, conservative, and unapologetic: A deep dive with the Black women fighting to get Trump reelected](https://therealnews.com/black-conservative-and-unapologetic-a-deep-dive-with-the-black-women-fighting-to-get-trump-reelected)
+* [Everything you've heard about this election is wrong. Dr. Richard Wolff explains why.](https://therealnews.com/everything-youve-heard-about-this-election-is-wrong-dr-richard-wolff-explains-why)
+* [Union president explains the existential threat Trump poses to organized labor—and how we fight back](https://therealnews.com/union-president-explains-the-existential-threat-trump-poses-to-organized-labor-and-how-we-fight-back)
+* [10 ways to be prepared and grounded now that Trump has won](https://therealnews.com/10-ways-to-be-prepared-and-grounded-now-that-trump-has-won)
+* [The bad, the worse, and the ugly: Trump's incoming cabinet](https://therealnews.com/the-bad-the-worse-and-the-ugly-trumps-incoming-cabinet)
+* [Yes, the 'nonprofit killer' bill is that bad—but it's not invincible](https://therealnews.com/yes-the-nonprofit-killer-bill-is-that-bad-but-its-not-invincible)
+* [How Big Tech made Trump 2.0](https://therealnews.com/how-big-tech-made-trump-2-0)
+* ['Ascension Hospital...is making a mockery of the Church doctrine': Baltimore Catholic nurses picket Bishops for fair contract](https://therealnews.com/ascension-hospital-is-making-a-mockery-of-the-church-doctrine-baltimore-catholic-nurses-picket-bishops-for-fair-contract)
+* [Why did Democrats lose? Just listen to the voters.](https://therealnews.com/why-did-democrats-lose-just-listen-to-the-voters)
+* [Solidarity or Jewish supremacy? The moral choice facing Judaism](https://therealnews.com/solidarity-or-jewish-supremacy-the-moral-choice-facing-judaism)
+* [“Let’s unite!”: Poisoned residents of America’s sacrifice zones are banding together](https://therealnews.com/lets-unite-poisoned-residents-of-americas-sacrifice-zones-are-banding-together)
 
 Close
 
@@ -154,27 +173,28 @@ Follow Us
 Trending Posts
 --------------
 
-* [North Carolina failed to evacuate prisoners during Hurricane Helene](https://therealnews.com/north-carolina-failed-to-evacuate-prisoners-during-hurricane-helene)
-* [Billionaires spew more CO2 pollution in 90 minutes than average person in a lifetime](https://therealnews.com/billionaires-spew-more-co2-pollution-in-90-minutes-than-average-person-in-a-lifetime)
-* [The failures of liberals and the Left have helped Trump's rise](https://therealnews.com/the-failures-of-liberals-and-the-left-have-helped-trumps-rise)
-* ['I'm not interested in changing hearts and minds': The work of an anti-Zionist rabbi](https://therealnews.com/the-work-of-an-anti-zionist-rabbi)
-* [Zionism is driving a growing divide in Jewish communities](https://therealnews.com/zionism-is-driving-a-growing-divide-in-jewish-communities)
-* [Kaiser workers’ strike enters second week in Southern California](https://therealnews.com/kaiser-workers-strike-enters-second-week-in-southern-california)
-* [This CEO left coal miners penniless. Why did a West Virginia town give him a lucrative tax break to build a luxury hotel?](https://therealnews.com/this-ceo-left-coal-miners-penniless-why-did-a-west-virginia-town-give-him-a-lucrative-tax-break-to-build-a-luxury-hotel)
-* [France wants to make Olympics-style surveillance permanent](https://therealnews.com/france-wants-to-make-olympics-style-surveillance-permanent)
-* [‘This is an extermination’: Israel’s assault on north Gaza’s last functioning hospital](https://therealnews.com/this-is-an-extermination-israels-assault-on-north-gazas-last-functioning-hospital)
-* [Black, conservative, and unapologetic: A deep dive with the Black women fighting to get Trump reelected](https://therealnews.com/black-conservative-and-unapologetic-a-deep-dive-with-the-black-women-fighting-to-get-trump-reelected)
+* [Everything you've heard about this election is wrong. Dr. Richard Wolff explains why.](https://therealnews.com/everything-youve-heard-about-this-election-is-wrong-dr-richard-wolff-explains-why)
+* [Union president explains the existential threat Trump poses to organized labor—and how we fight back](https://therealnews.com/union-president-explains-the-existential-threat-trump-poses-to-organized-labor-and-how-we-fight-back)
+* [10 ways to be prepared and grounded now that Trump has won](https://therealnews.com/10-ways-to-be-prepared-and-grounded-now-that-trump-has-won)
+* [The bad, the worse, and the ugly: Trump's incoming cabinet](https://therealnews.com/the-bad-the-worse-and-the-ugly-trumps-incoming-cabinet)
+* [Yes, the 'nonprofit killer' bill is that bad—but it's not invincible](https://therealnews.com/yes-the-nonprofit-killer-bill-is-that-bad-but-its-not-invincible)
+* [How Big Tech made Trump 2.0](https://therealnews.com/how-big-tech-made-trump-2-0)
+* ['Ascension Hospital...is making a mockery of the Church doctrine': Baltimore Catholic nurses picket Bishops for fair contract](https://therealnews.com/ascension-hospital-is-making-a-mockery-of-the-church-doctrine-baltimore-catholic-nurses-picket-bishops-for-fair-contract)
+* [Why did Democrats lose? Just listen to the voters.](https://therealnews.com/why-did-democrats-lose-just-listen-to-the-voters)
+* [Solidarity or Jewish supremacy? The moral choice facing Judaism](https://therealnews.com/solidarity-or-jewish-supremacy-the-moral-choice-facing-judaism)
+* [“Let’s unite!”: Poisoned residents of America’s sacrifice zones are banding together](https://therealnews.com/lets-unite-poisoned-residents-of-americas-sacrifice-zones-are-banding-together)
 
 [Skip to content](#main)
 
+* [Elections 2024](https://therealnews.com/tag/elections-2024)
 * [Israel’s War on Palestine](https://therealnews.com/tag/palestine)
 * [Under the Shadow](https://therealnews.com/under-the-shadow)
 * [Killer Water](https://therealnews.com/killer-water-the-toxic-legacy-of-canadas-oil-sands-industry-for-indigenous-communities)
 
-* [Facebook](https://www.facebook.com/therealnews)
-* [Twitter](https://twitter.com/therealnews)
-* [Instagram](https://www.instagram.com/therealnewsnetwork/)
 * [Youtube](https://www.youtube.com/c/therealnews)
+* [Facebook](https://www.facebook.com/therealnews)
+* [Instagram](https://www.instagram.com/therealnewsnetwork/)
+* [Twitter](https://twitter.com/therealnews)
 * [Mastodon](https://mastodon.social/@therealnews)
 * [Telegram](https://t.me/the_real_news_network)
 * [RSS Feed](https://therealnews.com/feed?partner-feed=the-real-news-network)
@@ -197,6 +217,7 @@ Search for:  Search
 [Donate](https://support.therealnews.com/-/XNTZXPCB) Menu
 
 * Blank (needed for hamburger alignment)
+* [Elections 2024](https://therealnews.com/tag/elections-2024)
 * [Israel’s War on Palestine](https://therealnews.com/tag/palestine)
 * [Under the Shadow](https://therealnews.com/under-the-shadow)
 * [Killer Water](https://therealnews.com/killer-water-the-toxic-legacy-of-canadas-oil-sands-industry-for-indigenous-communities)
@@ -215,9 +236,9 @@ Terms of use and privacy policy
 * [Click to share on Reddit (Opens in new window)](https://therealnews.com/termsandconditions?share=reddit "Click to share on Reddit")
 * [Click to email a link to a friend (Opens in new window)](mailto:?subject=%5BShared%20Post%5D%20Terms%20of%20use%20and%20privacy%20policy&body=https%3A%2F%2Ftherealnews.com%2Ftermsandconditions&share=email "Click to email a link to a friend")
 
-> **[Your support has prepared us for this critical moment](https://support.therealnews.com/-/XBPYYKPM).** But as the election approaches, the need for independent reporting grows. If you can **[contribute](https://support.therealnews.com/-/XFCNEKXY)** today to power our election coverage, it will make a real difference in keeping the truth accessible to all. Please don't wait. Support TRNN today.  
+> [To sustain our reporting in 2025, we must raise **$200,000 by year’s end**. Every voice we amplify depends on your support. Without it, fearless, movement-building journalism is at risk. Your donation—**whether $5 or $500**—keeps us independent, bold, and uncompromising. **We are facing an urgent and critical financial crisis right now.** Join us in this fight for truth.](https://support.therealnews.com/-/XMRSECPP)
 > 
-> [**YES! SIGN ME UP**](https://support.therealnews.com/-/XBRDMZQT)
+> [**YES! SIGN ME UP**](https://support.therealnews.com/-/XMRSECPP)
 
 If you continue to browse and use this website you are agreeing to comply with and be bound by the following terms and conditions of use, which together with our [privacy policy](https://therealnews.com/%22http://therealnews.com/web/index.php?thisdataswitch=0&thisid=417&thisview=item#privacy%22) govern _The Real News_ relationship with you in relation to this website.
 
@@ -300,16 +321,16 @@ If you are dissatisfied with _The Real News_‘s privacy policies or practices, 
 CHANGES TO THIS POLICY  
 _The Real News_ may periodically review all of its policies and procedures. We reserve the right to change our Privacy Policy from time to time.
 
-[Help Fuel movement-building journalism by supporting TRNN today!](https://support.therealnews.com/-/XXCXTLVY)
---------------------------------------------------------------------------------------------------------------
+[**The Fight for Truth Needs You: Invest in the Future of Independent News**](https://support.therealnews.com/-/XXCXTLVY)
+-------------------------------------------------------------------------------------------------------------------------
 
-**With the November 5th** election approaching, there's no better time to **[support independent journalism](https://support.therealnews.com/-/XWNAYEEE)**[.](https://support.therealnews.com/-/XJTKFBXD) TRNN  is here to provide in-depth, truthful reporting that empowers voters to make informed decisions. [](https://support.therealnews.com/-/XJPRTJDW)**[Your support ensures we deliver impactful coverage that holds power accountable](https://support.therealnews.com/-/XHBWVQHQ)**. Stand with us today and make a difference.  
+The Real News Network operates on a simple principle**: no corporate money, no paywalls, no ads**. In a media landscape dominated by corporate interests, TRNN stands as a vital platform for exposing injustice, amplifying grassroots movements, and empowering people to act. **[Our work relies entirely on supporters like you](https://support.therealnews.com/-/XZGLPQHK)** who believe in the power of independent journalism to drive change.
 
-Your support means the world to us**. It will ensure that we properly pay independent journalists for their vital work and that our team has the resources to do on-the-ground reporting.**
+To sustain our reporting in 2025, we must raise **$200,000 by year’s end**. Every voice we amplify depends on your support. Without it, fearless, movement-building journalism is at risk. Your donation—whether $5 or $500—keeps us independent, bold, and uncompromising.
 
-We rely on donations from people like you who care about our work to remain independent. If you value The Real News as a platform for **movement-building journalism**, please support us today!
+**We are facing an urgent and critical financial crisis right now.** Join us in this fight for truth!
 
-[**_Please consider making a tax-deductible donation today_**!](https://support.therealnews.com/-/XCNQJEJL)
+**_Please consider making a tax-deductible donation today_**!
 
 [](#XSNUXGAA)
 
@@ -349,23 +370,23 @@ Tagged: [video](https://therealnews.com/tag/video)
 Trending Posts
 --------------
 
-* [North Carolina failed to evacuate prisoners during Hurricane Helene](https://therealnews.com/north-carolina-failed-to-evacuate-prisoners-during-hurricane-helene)
-* [Billionaires spew more CO2 pollution in 90 minutes than average person in a lifetime](https://therealnews.com/billionaires-spew-more-co2-pollution-in-90-minutes-than-average-person-in-a-lifetime)
-* [The failures of liberals and the Left have helped Trump's rise](https://therealnews.com/the-failures-of-liberals-and-the-left-have-helped-trumps-rise)
-* ['I'm not interested in changing hearts and minds': The work of an anti-Zionist rabbi](https://therealnews.com/the-work-of-an-anti-zionist-rabbi)
-* [Zionism is driving a growing divide in Jewish communities](https://therealnews.com/zionism-is-driving-a-growing-divide-in-jewish-communities)
-* [Kaiser workers’ strike enters second week in Southern California](https://therealnews.com/kaiser-workers-strike-enters-second-week-in-southern-california)
-* [This CEO left coal miners penniless. Why did a West Virginia town give him a lucrative tax break to build a luxury hotel?](https://therealnews.com/this-ceo-left-coal-miners-penniless-why-did-a-west-virginia-town-give-him-a-lucrative-tax-break-to-build-a-luxury-hotel)
-* [France wants to make Olympics-style surveillance permanent](https://therealnews.com/france-wants-to-make-olympics-style-surveillance-permanent)
-* [‘This is an extermination’: Israel’s assault on north Gaza’s last functioning hospital](https://therealnews.com/this-is-an-extermination-israels-assault-on-north-gazas-last-functioning-hospital)
-* [Black, conservative, and unapologetic: A deep dive with the Black women fighting to get Trump reelected](https://therealnews.com/black-conservative-and-unapologetic-a-deep-dive-with-the-black-women-fighting-to-get-trump-reelected)
+* [Everything you've heard about this election is wrong. Dr. Richard Wolff explains why.](https://therealnews.com/everything-youve-heard-about-this-election-is-wrong-dr-richard-wolff-explains-why)
+* [Union president explains the existential threat Trump poses to organized labor—and how we fight back](https://therealnews.com/union-president-explains-the-existential-threat-trump-poses-to-organized-labor-and-how-we-fight-back)
+* [10 ways to be prepared and grounded now that Trump has won](https://therealnews.com/10-ways-to-be-prepared-and-grounded-now-that-trump-has-won)
+* [The bad, the worse, and the ugly: Trump's incoming cabinet](https://therealnews.com/the-bad-the-worse-and-the-ugly-trumps-incoming-cabinet)
+* [Yes, the 'nonprofit killer' bill is that bad—but it's not invincible](https://therealnews.com/yes-the-nonprofit-killer-bill-is-that-bad-but-its-not-invincible)
+* [How Big Tech made Trump 2.0](https://therealnews.com/how-big-tech-made-trump-2-0)
+* ['Ascension Hospital...is making a mockery of the Church doctrine': Baltimore Catholic nurses picket Bishops for fair contract](https://therealnews.com/ascension-hospital-is-making-a-mockery-of-the-church-doctrine-baltimore-catholic-nurses-picket-bishops-for-fair-contract)
+* [Why did Democrats lose? Just listen to the voters.](https://therealnews.com/why-did-democrats-lose-just-listen-to-the-voters)
+* [Solidarity or Jewish supremacy? The moral choice facing Judaism](https://therealnews.com/solidarity-or-jewish-supremacy-the-moral-choice-facing-judaism)
+* [“Let’s unite!”: Poisoned residents of America’s sacrifice zones are banding together](https://therealnews.com/lets-unite-poisoned-residents-of-americas-sacrifice-zones-are-banding-together)
 
 [![The Real News Network](https://i0.wp.com/therealnews.com/wp-content/uploads/2022/08/lockup-duochrome-bright-1.png?fit=3000%2C595&ssl=1)](https://therealnews.com/)
 
-* [Facebook](https://www.facebook.com/therealnews)
-* [Twitter](https://twitter.com/therealnews)
-* [Instagram](https://www.instagram.com/therealnewsnetwork/)
 * [Youtube](https://www.youtube.com/c/therealnews)
+* [Facebook](https://www.facebook.com/therealnews)
+* [Instagram](https://www.instagram.com/therealnewsnetwork/)
+* [Twitter](https://twitter.com/therealnews)
 * [Mastodon](https://mastodon.social/@therealnews)
 * [Telegram](https://t.me/the_real_news_network)
 * [RSS Feed](https://therealnews.com/feed?partner-feed=the-real-news-network)
