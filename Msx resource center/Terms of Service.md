@@ -153,9 +153,10 @@ Latest reactions
 
 Latest forum posts
 
-* [I need a guide or manual for Sorcerian...](https://www.msx.org/forum/msx-talk/software/i-need-a-guide-or-manual-for-sorcerian "I need a guide or manual for Sorcerian...")
-* [Dirt-cheap Vaus paddle clone for MSX](https://www.msx.org/forum/msx-talk/hardware/dirt-cheap-vaus-paddle-clone-for-msx?page=4 "Dirt-cheap Vaus paddle clone for MSX")
+* [Modern joystick and joypad compatibility](https://www.msx.org/forum/msx-talk/hardware/modern-joystick-and-joypad-compatibility "Modern joystick and joypad compatibility")
 * [TRH9000 V9990 & Spiderwave OPL4 don't work in Slotx4?](https://www.msx.org/forum/msx-talk/hardware/trh9000-v9990-spiderwave-opl4-dont-work-in-slotx4?page=1 "TRH9000 V9990 & Spiderwave OPL4 don't work in Slotx4?")
+* [Dirt-cheap Vaus paddle clone for MSX](https://www.msx.org/forum/msx-talk/hardware/dirt-cheap-vaus-paddle-clone-for-msx?page=4 "Dirt-cheap Vaus paddle clone for MSX")
+* [I need a guide or manual for Sorcerian...](https://www.msx.org/forum/msx-talk/software/i-need-a-guide-or-manual-for-sorcerian "I need a guide or manual for Sorcerian...")
 * [MSXgl – A new C game library for MSX](https://www.msx.org/forum/msx-talk/development/msxgl-%E2%80%93-a-new-c-game-library-for-msx?page=27 "MSXgl – A new C game library for MSX")
 * [Run Bubble Rain with Sofarun](https://www.msx.org/forum/msx-talk/software/run-bubble-rain-with-sofarun?page=2 "Run Bubble Rain with Sofarun")
 * [Can't play Manbow 2 on MFR SCC+ when flashing with OPFXSD v1.25](https://www.msx.org/forum/msx-talk/software/cant-play-manbow-2-on-mfr-scc-when-flashing-with-opfxsd-v125 "Can't play Manbow 2 on MFR SCC+ when flashing with OPFXSD v1.25")
@@ -165,7 +166,6 @@ Latest forum posts
 * [Christmas Quiz 2024](https://www.msx.org/forum/msx-talk/off-topic/christmas-quiz-2024 "Christmas Quiz 2024")
 * [DalSoRi R2 on OpenMSX](https://www.msx.org/forum/msx-talk/openmsx/dalsori-r2-on-openmsx?page=1 "DalSoRi R2 on OpenMSX")
 * [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=78 "WonderTANG! Who wants to juice up your MSX?")
-* [Compass](https://www.msx.org/forum/msx-talk/development/compass?page=1 "Compass")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
