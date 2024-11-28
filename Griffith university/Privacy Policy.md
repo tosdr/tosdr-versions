@@ -909,7 +909,7 @@ Footer
 * [Gold Coast](https://www.griffith.edu.au/about-griffith/campuses-facilities/gold-coast)
 * [Logan](https://www.griffith.edu.au/about-griffith/campuses-facilities/logan)
 * [Mount Gravatt](https://www.griffith.edu.au/about-griffith/campuses-facilities/brisbane-south-mt-gravatt)
-* [Nathan](https://www.griffith.edu.au/about-griffith/campuses-facilities/nathan)
+* [Nathan](https://www.griffith.edu.au/about-griffith/campuses-facilities/brisbane-south-nathan)
 * [South Bank](https://www.griffith.edu.au/about-griffith/campuses-facilities/south-bank)
 
 ### Getting to Griffith
