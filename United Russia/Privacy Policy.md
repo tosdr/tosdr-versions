@@ -299,13 +299,21 @@
 
 [Все новости](https://er.ru/activity/news)
 
-[![Врио главы Республики Коми Ростислав Гольдштейн избран секретарём реготделения «Единой России»](https://cdn.er.ru/media/news/November2024/mr1kam04Yc4fHwVAstKi-small.png)](https://er.ru/activity/news/vrio-glavy-respubliki-komi-rostislav-goldshtejn-izbran-sekretaryom-regotdeleniya-edinoj-rossii)
+[![Михаил Киселёв: «Единая Россия» окажет содействие в реализации новых национальных проектов](https://cdn.er.ru/media/news/November2024/WPTESQQLY8MUdqs6lRPd-small.jpg)](https://er.ru/activity/news/mihail-kiselyov-edinaya-rossiya-okazhet-sodejstvie-v-realizacii-novyh-nacionalnyh-proektov)
+
+[Михаил Киселёв: «Единая Россия» окажет содействие в реализации новых национальных проектов](https://er.ru/activity/news/mihail-kiselyov-edinaya-rossiya-okazhet-sodejstvie-v-realizacii-novyh-nacionalnyh-proektov)
+
+[#нацпроекты](https://er.ru/activity/news?tags%5B0%5D=29486) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#кадры](https://er.ru/activity/news?tags%5B0%5D=975) [#Киселев](https://er.ru/activity/news?tags%5B0%5D=974)
+
+28.11.24
+
+[![Врио главы Республики Коми Ростислав Гольдштейн избран секретарём реготделения «Единой России»](https://cdn.er.ru/media/news/November2024/Kvd9vUco7RnPn9c4YaPF-small.png)](https://er.ru/activity/news/vrio-glavy-respubliki-komi-rostislav-goldshtejn-izbran-sekretaryom-regotdeleniya-edinoj-rossii)
 
 [Врио главы Республики Коми Ростислав Гольдштейн избран секретарём реготделения «Единой России»](https://er.ru/activity/news/vrio-glavy-respubliki-komi-rostislav-goldshtejn-izbran-sekretaryom-regotdeleniya-edinoj-rossii)
 
 [#Республика Коми](https://er.ru/activity/news?tags%5B0%5D=1026) [#Гольдштейн](https://er.ru/activity/news?tags%5B0%5D=1795) [#Кутепов](https://er.ru/activity/news?tags%5B0%5D=115479) [#секретарьреготделения](https://er.ru/activity/news?tags%5B0%5D=147029) [#конференциярегиональногоотделения](https://er.ru/activity/news?tags%5B0%5D=128228) [#избрание](https://er.ru/activity/news?tags%5B0%5D=416)
 
-Сегодня 18:58
+28.11.24
 
 [![«Молодая Гвардия Единой России» доставила питьевую воду в Горловку (ДНР)](https://cdn.er.ru/media/news/November2024/vIrz4N3y6r27zr1qyxn6-small.jpg)](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-dostavila-pitevuyu-vodu-v-gorlovku-dnr)
 
@@ -313,7 +321,15 @@
 
 [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#МолодаяГвардияЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094676) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#гуманитарнаямиссия](https://er.ru/activity/news?tags%5B0%5D=1092899) [#Донецкая Народная Республика](https://er.ru/activity/news?tags%5B0%5D=60937) [#Пушилин](https://er.ru/activity/news?tags%5B0%5D=1092774) [#Добровольский](https://er.ru/activity/news?tags%5B0%5D=67120)
 
-Сегодня 17:00
+28.11.24
+
+[![Реализацию новых нацпроектов обсудили на расширенном заседании общественного совета партпроекта «Старшее поколение»](https://cdn.er.ru/media/news/November2024/JtzVQcl4203FymKHFDbR-small.JPG)](https://er.ru/activity/news/realizaciyu-novyh-nacproektov-obsudili-na-rasshirennom-zasedanii-obshestvennogo-soveta-partproekta-starshee-pokolenie)
+
+[Реализацию новых нацпроектов обсудили на расширенном заседании общественного совета партпроекта «Старшее поколение»](https://er.ru/activity/news/realizaciyu-novyh-nacproektov-obsudili-na-rasshirennom-zasedanii-obshestvennogo-soveta-partproekta-starshee-pokolenie)
+
+[#Карелова](https://er.ru/activity/news?tags%5B0%5D=682) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#старшеепоколение](https://er.ru/activity/news?tags%5B0%5D=79196) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#нацпроекты](https://er.ru/activity/news?tags%5B0%5D=29486) [#Баталина](https://er.ru/activity/news?tags%5B0%5D=6842) [#Камкин](https://er.ru/activity/news?tags%5B0%5D=132921) [#Минздрав](https://er.ru/activity/news?tags%5B0%5D=1960) [#Минтруда](https://er.ru/activity/news?tags%5B0%5D=17938) [#Правительство](https://er.ru/activity/news?tags%5B0%5D=1090296) [#здравоохранение](https://er.ru/activity/news?tags%5B0%5D=116225)
+
+28.11.24
 
 [![«Единая Россия» организовала экскурсию в музей им. А.С. Пушкина для участников СВО](https://cdn.er.ru/media/news/November2024/KZFxNkm9TXIqabQb06rR-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-organizovala-ekskursiyu-v-muzej-im-a-s-pushkina-dlya-uchastnikov-svo)
 
@@ -321,7 +337,7 @@
 
 [#Стенякина](https://er.ru/activity/news?tags%5B0%5D=26293) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#ЖенскоеДвижениеЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1093396) [#реабилитация](https://er.ru/activity/news?tags%5B0%5D=3765) [#помощьучастникамСВО](https://er.ru/activity/news?tags%5B0%5D=1093584) [#экскурсия](https://er.ru/activity/news?tags%5B0%5D=12368) [#досуг](https://er.ru/activity/news?tags%5B0%5D=4852) [#Москва](https://er.ru/activity/news?tags%5B0%5D=255) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
-Сегодня 13:00
+28.11.24
 
 [![Секретарём регионального отделения «Единой России» в Республике Алтай избран председатель Госсобрания Эжер Ялбаков](https://cdn.er.ru/media/news/November2024/r94v2YUaurRaVBNijuTw-small.JPG)](https://er.ru/activity/news/sekretaryom-regionalnogo-otdeleniya-edinoj-rossii-v-respublike-altaj-izbran-predsedatel-gossobraniya-ezher-yalbakov)
 
@@ -329,23 +345,7 @@
 
 [#Республика Алтай](https://er.ru/activity/news?tags%5B0%5D=3973) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#конференция](https://er.ru/activity/news?tags%5B0%5D=17) [#избрание](https://er.ru/activity/news?tags%5B0%5D=416) [#секретарьреготделения](https://er.ru/activity/news?tags%5B0%5D=147029) [#Ялбаков](https://er.ru/activity/news?tags%5B0%5D=1095897)
 
-Сегодня 11:48
-
-[![Владимир Якушев: «Единая Россия», в отличие от других политических сил, постоянно должна предъявлять осязаемый результат](https://cdn.er.ru/media/news/November2024/qIYcOSld8vcyaDjAwCDH-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-edinaya-rossiya-v-otlichie-ot-drugih-politicheskih-sil-postoyanno-dolzhna-predyavlyat-osyazaemyj-rezultat)
-
-[Владимир Якушев: «Единая Россия», в отличие от других политических сил, постоянно должна предъявлять осязаемый результат](https://er.ru/activity/news/vladimir-yakushev-edinaya-rossiya-v-otlichie-ot-drugih-politicheskih-sil-postoyanno-dolzhna-predyavlyat-osyazaemyj-rezultat)
-
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#статья](https://er.ru/activity/news?tags%5B0%5D=71) [#«Ведомости»](https://er.ru/activity/news?tags%5B0%5D=47963) [#ДеньрожденияПартии](https://er.ru/activity/news?tags%5B0%5D=1090865)
-
-Сегодня 09:08
-
-[![Ко Дню морской пехоты «Единая Россия» провела тематические мероприятия в регионах](https://cdn.er.ru/media/news/November2024/t1CboglepQ0m1shqCZo1-small.jpg)](https://er.ru/activity/news/ko-dnyu-morskoj-pehoty-edinaya-rossiya-provela-tematicheskie-meropriyatiya-v-regionah)
-
-[Ко Дню морской пехоты «Единая Россия» провела тематические мероприятия в регионах](https://er.ru/activity/news/ko-dnyu-morskoj-pehoty-edinaya-rossiya-provela-tematicheskie-meropriyatiya-v-regionah)
-
-[#Колесник](https://er.ru/activity/news?tags%5B0%5D=8327) [#штабобщественнойподдержки](https://er.ru/activity/news?tags%5B0%5D=1092101) [#Деньморскойпехоты](https://er.ru/activity/news?tags%5B0%5D=125333) [#лекции](https://er.ru/activity/news?tags%5B0%5D=18064) [#мастер-классы](https://er.ru/activity/news?tags%5B0%5D=34619) [#квизы](https://er.ru/activity/news?tags%5B0%5D=134874) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
-
-27.11.24
+28.11.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
