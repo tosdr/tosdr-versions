@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**November 27, 2024**
+**November 28, 2024**
 
 * * *
 
@@ -236,7 +236,7 @@ this week
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Galaxies](https://www.sciencedaily.com/news/space_time/galaxies/)
+[Space Telescopes](https://www.sciencedaily.com/news/space_time/space_telescopes/)
 
 [Computers and Internet](https://www.sciencedaily.com/news/computers_math/computers_and_internet/)
 
@@ -246,9 +246,9 @@ this week
 
 [Cell Biology](https://www.sciencedaily.com/news/plants_animals/cell_biology/)
 
-[Molecular Biology](https://www.sciencedaily.com/news/plants_animals/molecular_biology/)
+[Endangered Animals](https://www.sciencedaily.com/news/plants_animals/endangered_animals/)
 
-[Developmental Biology](https://www.sciencedaily.com/news/plants_animals/developmental_biology/)
+[Insects (including Butterflies)](https://www.sciencedaily.com/news/plants_animals/insects_and_butterflies/)
 
   
 
