@@ -513,7 +513,7 @@ Bei der Anmeldung zum Newsletter geben Sie Ihre E-Mail-Adresse an, an die der Ne
 
 Rechts­grund­lage für die Verarbeitung der im Zusammen­hang mit der Bestellung des Newsletters erhobenen Daten ist Art. 6 Abs. 1 S. 1 lit. a DSGVO.
 
-Sofern Sie bei der Anmeldung Ihr Geburts­datum angegeben haben, nutzen wir dies für Geburts­tags- und alters­gruppen­spezi­fische Newsletter.
+Sollten Sie Ihr Geburts­datum angeben und uns Ihre Einwilligung für unsere Newsletter erteilen, nutzen wir ihr Geburts­datum für Geburts­tags- und alters­gruppen­spezi­fische Newsletter.
 
 Wir nutzen Ihre Daten darüber hinaus, um Ihnen von Zeit zu Zeit Angebote der Stiftung Warentest per Post zu über­senden.
 
@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Aktien-ETF Japan: Mit oder ohne Währungs­sicherung?](https://www.test.de/Aktien-ETF-Japan-Mit-oder-ohne-Waehrungssicherung-6132893-0/ "Aktien-ETF Japan - Mit oder ohne Währungssicherung?")
-* [Samsungs Falt-Smartphones im Schnell­test: Flip und Fold − Flop oder top?](https://www.test.de/Samsungs-Falt-Smartphones-im-Schnelltest-Flip-und-Fold-Flop-oder-top-6148252-0/ "Samsungs Falt-Smartphones im Schnelltest - Flip und Fold − Flop oder top?")
-* [Unregelmäßig­keiten bei offenem Immobilienfonds: Wie es zur Abwertung beim Fonds UniImmo Wohnen ZBI kam](https://www.test.de/Unregelmaessigkeiten-bei-offenem-Immobilienfonds-Wie-es-zur-Abwertung-beim-Fonds-UniImmo-Wohnen-ZBI-kam-6142636-0/ "Unregelmäßigkeiten bei offenem Immobilienfonds - Wie es zur Abwertung beim Fonds UniImmo Wohnen ZBI kam")
-* [Vorabpauschalen-Rechner: Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds](https://www.test.de/vorabpauschale-rechner-6123332-0/ "Vorabpauschalen-Rechner - Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds")
-* [Vorsorgevoll­macht: Fest­legen, wer im Notfall für Sie entscheiden darf](https://www.test.de/Vorsorgevollmacht-6144012-0/ "Vorsorgevollmacht - Festlegen, wer im Notfall für Sie entscheiden darf")
-* [Fest­geld: Swed­bank-Angebot ist nicht echt](https://www.test.de/Festgeld-Swedbank-Angebot-ist-nicht-echt-6157210-0/ "Festgeld - Swedbank-Angebot ist nicht echt")
+* [Neues Finanztest Spezial ETF: Wie Sie den richtigen ETF für Ihre Anlageziele finden](https://www.test.de/Statistiken-zu-ETF-Die-Erfolgsgeschichte-der-ETF-6067757-0/ "Neues Finanztest Spezial ETF - Wie Sie den richtigen ETF für Ihre Anlageziele finden")
+* [Ärger beim Bahnfahren: Schön cool bleiben – unsere Tipps für Buchung und Entschädigung](https://www.test.de/Aerger-beim-Bahnfahren-Wie-Sie-das-Beste-draus-machen-4200668-0/ "Ärger beim Bahnfahren - Schön cool bleiben – unsere Tipps für Buchung und Entschädigung")
+* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
+* [Lebens­erwartung in Deutsch­land: Krankheiten werden zu spät behandelt](https://www.test.de/Lebenserwartung-in-Deutschland-Krankheiten-werden-zu-spaet-behandelt-6123053-0/ "Lebenserwartung in Deutschland - Krankheiten werden zu spät behandelt")
+* [Ringelröteln: Für Kinder meist harmlos, für Schwangere nicht](https://www.test.de/Ringelroeteln-Fuer-Kinder-meist-harmlos-fuer-Schwangere-nicht-6123237-0/ "Ringelröteln - Für Kinder meist harmlos, für Schwangere nicht")
+* [Notebook-Reparatur­dienste im Test: Manchmal gut, selten schnell, mitunter preis­wert](https://www.test.de/notebook-reparaturdienste-im-test-6001209-0/ "Notebook-Reparaturdienste im Test - Manchmal gut, selten schnell, mitunter preiswert")
 
 Weitere Informationen
 
@@ -2453,7 +2453,7 @@ Bei der Anmeldung zum Newsletter geben Sie Ihre E-Mail-Adresse an, an die der Ne
 
 Rechts­grund­lage für die Verarbeitung der im Zusammen­hang mit der Bestellung des Newsletters erhobenen Daten ist Art. 6 Abs. 1 S. 1 lit. a DSGVO.
 
-Sofern Sie bei der Anmeldung Ihr Geburts­datum angegeben haben, nutzen wir dies für Geburts­tags- und alters­gruppen­spezi­fische Newsletter.
+Sollten Sie Ihr Geburts­datum angeben und uns Ihre Einwilligung für unsere Newsletter erteilen, nutzen wir ihr Geburts­datum für Geburts­tags- und alters­gruppen­spezi­fische Newsletter.
 
 Wir nutzen Ihre Daten darüber hinaus, um Ihnen von Zeit zu Zeit Angebote der Stiftung Warentest per Post zu über­senden.
 
@@ -2863,7 +2863,7 @@ Bei der Anmeldung zum Newsletter geben Sie Ihre E-Mail-Adresse an, an die der Ne
 
 Rechts­grund­lage für die Verarbeitung der im Zusammen­hang mit der Bestellung des Newsletters erhobenen Daten ist Art. 6 Abs. 1 S. 1 lit. a DSGVO.
 
-Sofern Sie bei der Anmeldung Ihr Geburts­datum angegeben haben, nutzen wir dies für Geburts­tags- und alters­gruppen­spezi­fische Newsletter.
+Sollten Sie Ihr Geburts­datum angeben und uns Ihre Einwilligung für unsere Newsletter erteilen, nutzen wir ihr Geburts­datum für Geburts­tags- und alters­gruppen­spezi­fische Newsletter.
 
 Wir nutzen Ihre Daten darüber hinaus, um Ihnen von Zeit zu Zeit Angebote der Stiftung Warentest per Post zu über­senden.
 
@@ -3308,7 +3308,7 @@ Bei der Anmeldung zum Newsletter geben Sie Ihre E-Mail-Adresse an, an die der Ne
 
 Rechts­grund­lage für die Verarbeitung der im Zusammen­hang mit der Bestellung des Newsletters erhobenen Daten ist Art. 6 Abs. 1 S. 1 lit. a DSGVO.
 
-Sofern Sie bei der Anmeldung Ihr Geburts­datum angegeben haben, nutzen wir dies für Geburts­tags- und alters­gruppen­spezi­fische Newsletter.
+Sollten Sie Ihr Geburts­datum angeben und uns Ihre Einwilligung für unsere Newsletter erteilen, nutzen wir ihr Geburts­datum für Geburts­tags- und alters­gruppen­spezi­fische Newsletter.
 
 Wir nutzen Ihre Daten darüber hinaus, um Ihnen von Zeit zu Zeit Angebote der Stiftung Warentest per Post zu über­senden.
 
@@ -3322,7 +3322,7 @@ Bei der Anmeldung zum Newsletter geben Sie Ihre E-Mail-Adresse an, an die der Ne
 
 Rechts­grund­lage für die Verarbeitung der im Zusammen­hang mit der Bestellung des Newsletters erhobenen Daten ist Art. 6 Abs. 1 S. 1 lit. a DSGVO.
 
-Sofern Sie bei der Anmeldung Ihr Geburts­datum angegeben haben, nutzen wir dies für Geburts­tags- und alters­gruppen­spezi­fische Newsletter.
+Sollten Sie Ihr Geburts­datum angeben und uns Ihre Einwilligung für unsere Newsletter erteilen, nutzen wir ihr Geburts­datum für Geburts­tags- und alters­gruppen­spezi­fische Newsletter.
 
 Wir nutzen Ihre Daten darüber hinaus, um Ihnen von Zeit zu Zeit Angebote der Stiftung Warentest per Post zu über­senden.
 
@@ -3871,12 +3871,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Aktien-ETF Japan: Mit oder ohne Währungs­sicherung?](https://www.test.de/Aktien-ETF-Japan-Mit-oder-ohne-Waehrungssicherung-6132893-0/ "Aktien-ETF Japan - Mit oder ohne Währungssicherung?")
-* [Samsungs Falt-Smartphones im Schnell­test: Flip und Fold − Flop oder top?](https://www.test.de/Samsungs-Falt-Smartphones-im-Schnelltest-Flip-und-Fold-Flop-oder-top-6148252-0/ "Samsungs Falt-Smartphones im Schnelltest - Flip und Fold − Flop oder top?")
-* [Unregelmäßig­keiten bei offenem Immobilienfonds: Wie es zur Abwertung beim Fonds UniImmo Wohnen ZBI kam](https://www.test.de/Unregelmaessigkeiten-bei-offenem-Immobilienfonds-Wie-es-zur-Abwertung-beim-Fonds-UniImmo-Wohnen-ZBI-kam-6142636-0/ "Unregelmäßigkeiten bei offenem Immobilienfonds - Wie es zur Abwertung beim Fonds UniImmo Wohnen ZBI kam")
-* [Vorabpauschalen-Rechner: Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds](https://www.test.de/vorabpauschale-rechner-6123332-0/ "Vorabpauschalen-Rechner - Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds")
-* [Vorsorgevoll­macht: Fest­legen, wer im Notfall für Sie entscheiden darf](https://www.test.de/Vorsorgevollmacht-6144012-0/ "Vorsorgevollmacht - Festlegen, wer im Notfall für Sie entscheiden darf")
-* [Fest­geld: Swed­bank-Angebot ist nicht echt](https://www.test.de/Festgeld-Swedbank-Angebot-ist-nicht-echt-6157210-0/ "Festgeld - Swedbank-Angebot ist nicht echt")
+* [Neues Finanztest Spezial ETF: Wie Sie den richtigen ETF für Ihre Anlageziele finden](https://www.test.de/Statistiken-zu-ETF-Die-Erfolgsgeschichte-der-ETF-6067757-0/ "Neues Finanztest Spezial ETF - Wie Sie den richtigen ETF für Ihre Anlageziele finden")
+* [Ärger beim Bahnfahren: Schön cool bleiben – unsere Tipps für Buchung und Entschädigung](https://www.test.de/Aerger-beim-Bahnfahren-Wie-Sie-das-Beste-draus-machen-4200668-0/ "Ärger beim Bahnfahren - Schön cool bleiben – unsere Tipps für Buchung und Entschädigung")
+* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
+* [Lebens­erwartung in Deutsch­land: Krankheiten werden zu spät behandelt](https://www.test.de/Lebenserwartung-in-Deutschland-Krankheiten-werden-zu-spaet-behandelt-6123053-0/ "Lebenserwartung in Deutschland - Krankheiten werden zu spät behandelt")
+* [Ringelröteln: Für Kinder meist harmlos, für Schwangere nicht](https://www.test.de/Ringelroeteln-Fuer-Kinder-meist-harmlos-fuer-Schwangere-nicht-6123237-0/ "Ringelröteln - Für Kinder meist harmlos, für Schwangere nicht")
+* [Notebook-Reparatur­dienste im Test: Manchmal gut, selten schnell, mitunter preis­wert](https://www.test.de/notebook-reparaturdienste-im-test-6001209-0/ "Notebook-Reparaturdienste im Test - Manchmal gut, selten schnell, mitunter preiswert")
 
 Weitere spannende Themen
 
@@ -3891,12 +3891,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Aktien-ETF Japan: Mit oder ohne Währungs­sicherung?](https://www.test.de/Aktien-ETF-Japan-Mit-oder-ohne-Waehrungssicherung-6132893-0/ "Aktien-ETF Japan - Mit oder ohne Währungssicherung?")
-* [Samsungs Falt-Smartphones im Schnell­test: Flip und Fold − Flop oder top?](https://www.test.de/Samsungs-Falt-Smartphones-im-Schnelltest-Flip-und-Fold-Flop-oder-top-6148252-0/ "Samsungs Falt-Smartphones im Schnelltest - Flip und Fold − Flop oder top?")
-* [Unregelmäßig­keiten bei offenem Immobilienfonds: Wie es zur Abwertung beim Fonds UniImmo Wohnen ZBI kam](https://www.test.de/Unregelmaessigkeiten-bei-offenem-Immobilienfonds-Wie-es-zur-Abwertung-beim-Fonds-UniImmo-Wohnen-ZBI-kam-6142636-0/ "Unregelmäßigkeiten bei offenem Immobilienfonds - Wie es zur Abwertung beim Fonds UniImmo Wohnen ZBI kam")
-* [Vorabpauschalen-Rechner: Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds](https://www.test.de/vorabpauschale-rechner-6123332-0/ "Vorabpauschalen-Rechner - Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds")
-* [Vorsorgevoll­macht: Fest­legen, wer im Notfall für Sie entscheiden darf](https://www.test.de/Vorsorgevollmacht-6144012-0/ "Vorsorgevollmacht - Festlegen, wer im Notfall für Sie entscheiden darf")
-* [Fest­geld: Swed­bank-Angebot ist nicht echt](https://www.test.de/Festgeld-Swedbank-Angebot-ist-nicht-echt-6157210-0/ "Festgeld - Swedbank-Angebot ist nicht echt")
+* [Neues Finanztest Spezial ETF: Wie Sie den richtigen ETF für Ihre Anlageziele finden](https://www.test.de/Statistiken-zu-ETF-Die-Erfolgsgeschichte-der-ETF-6067757-0/ "Neues Finanztest Spezial ETF - Wie Sie den richtigen ETF für Ihre Anlageziele finden")
+* [Ärger beim Bahnfahren: Schön cool bleiben – unsere Tipps für Buchung und Entschädigung](https://www.test.de/Aerger-beim-Bahnfahren-Wie-Sie-das-Beste-draus-machen-4200668-0/ "Ärger beim Bahnfahren - Schön cool bleiben – unsere Tipps für Buchung und Entschädigung")
+* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
+* [Lebens­erwartung in Deutsch­land: Krankheiten werden zu spät behandelt](https://www.test.de/Lebenserwartung-in-Deutschland-Krankheiten-werden-zu-spaet-behandelt-6123053-0/ "Lebenserwartung in Deutschland - Krankheiten werden zu spät behandelt")
+* [Ringelröteln: Für Kinder meist harmlos, für Schwangere nicht](https://www.test.de/Ringelroeteln-Fuer-Kinder-meist-harmlos-fuer-Schwangere-nicht-6123237-0/ "Ringelröteln - Für Kinder meist harmlos, für Schwangere nicht")
+* [Notebook-Reparatur­dienste im Test: Manchmal gut, selten schnell, mitunter preis­wert](https://www.test.de/notebook-reparaturdienste-im-test-6001209-0/ "Notebook-Reparaturdienste im Test - Manchmal gut, selten schnell, mitunter preiswert")
 
 Neueste Tests
 
@@ -3909,12 +3909,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Aktien-ETF Japan: Mit oder ohne Währungs­sicherung?](https://www.test.de/Aktien-ETF-Japan-Mit-oder-ohne-Waehrungssicherung-6132893-0/ "Aktien-ETF Japan - Mit oder ohne Währungssicherung?")
-* [Samsungs Falt-Smartphones im Schnell­test: Flip und Fold − Flop oder top?](https://www.test.de/Samsungs-Falt-Smartphones-im-Schnelltest-Flip-und-Fold-Flop-oder-top-6148252-0/ "Samsungs Falt-Smartphones im Schnelltest - Flip und Fold − Flop oder top?")
-* [Unregelmäßig­keiten bei offenem Immobilienfonds: Wie es zur Abwertung beim Fonds UniImmo Wohnen ZBI kam](https://www.test.de/Unregelmaessigkeiten-bei-offenem-Immobilienfonds-Wie-es-zur-Abwertung-beim-Fonds-UniImmo-Wohnen-ZBI-kam-6142636-0/ "Unregelmäßigkeiten bei offenem Immobilienfonds - Wie es zur Abwertung beim Fonds UniImmo Wohnen ZBI kam")
-* [Vorabpauschalen-Rechner: Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds](https://www.test.de/vorabpauschale-rechner-6123332-0/ "Vorabpauschalen-Rechner - Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds")
-* [Vorsorgevoll­macht: Fest­legen, wer im Notfall für Sie entscheiden darf](https://www.test.de/Vorsorgevollmacht-6144012-0/ "Vorsorgevollmacht - Festlegen, wer im Notfall für Sie entscheiden darf")
-* [Fest­geld: Swed­bank-Angebot ist nicht echt](https://www.test.de/Festgeld-Swedbank-Angebot-ist-nicht-echt-6157210-0/ "Festgeld - Swedbank-Angebot ist nicht echt")
+* [Neues Finanztest Spezial ETF: Wie Sie den richtigen ETF für Ihre Anlageziele finden](https://www.test.de/Statistiken-zu-ETF-Die-Erfolgsgeschichte-der-ETF-6067757-0/ "Neues Finanztest Spezial ETF - Wie Sie den richtigen ETF für Ihre Anlageziele finden")
+* [Ärger beim Bahnfahren: Schön cool bleiben – unsere Tipps für Buchung und Entschädigung](https://www.test.de/Aerger-beim-Bahnfahren-Wie-Sie-das-Beste-draus-machen-4200668-0/ "Ärger beim Bahnfahren - Schön cool bleiben – unsere Tipps für Buchung und Entschädigung")
+* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
+* [Lebens­erwartung in Deutsch­land: Krankheiten werden zu spät behandelt](https://www.test.de/Lebenserwartung-in-Deutschland-Krankheiten-werden-zu-spaet-behandelt-6123053-0/ "Lebenserwartung in Deutschland - Krankheiten werden zu spät behandelt")
+* [Ringelröteln: Für Kinder meist harmlos, für Schwangere nicht](https://www.test.de/Ringelroeteln-Fuer-Kinder-meist-harmlos-fuer-Schwangere-nicht-6123237-0/ "Ringelröteln - Für Kinder meist harmlos, für Schwangere nicht")
+* [Notebook-Reparatur­dienste im Test: Manchmal gut, selten schnell, mitunter preis­wert](https://www.test.de/notebook-reparaturdienste-im-test-6001209-0/ "Notebook-Reparaturdienste im Test - Manchmal gut, selten schnell, mitunter preiswert")
 
 Stiftung Warentest
 
