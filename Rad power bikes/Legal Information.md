@@ -676,6 +676,7 @@ Get help
 Company
 -------
 
+* [About Rad](https://www.radpowerbikes.com/pages/about)
 * [Rad Service](https://www.radpowerbikes.com/pages/rad-service)
 * [Stores & Local Bike Shops](https://www.radpowerbikes.com/pages/locations)
 * [RadRetail Stores](https://www.radpowerbikes.com/pages/all-radretail)
