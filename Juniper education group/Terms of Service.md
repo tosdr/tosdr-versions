@@ -33,7 +33,7 @@
         * [Essential training](https://junipereducation.org/classroom-primary/supporting-teachers/?hsLang=en)
         * [Education resource service](https://junipereducation.org/ers?hsLang=en)
     * [Secondary](https://junipereducation.org/classroom-secondary/?hsLang=en)
-        * [Sisra Analytics](https://junipereducation.org/classroom-secondary/progress-and-outcomes/?hsLang=en)
+        * [Sisra Analytics](https://junipereducation.org/classroom-secondary/sisra-analytics?hsLang=en)
         * [Sonar Multi-School](https://junipereducation.org/classroom-secondary/insights-and-data/?hsLang=en)
         * [Supporting teachers](https://junipereducation.org/classroom-secondary/supporting-teachers/?hsLang=en)
 *  [![menu02](https://junipereducation.org/hubfs/Juniper%20-%20Theme/menu02.svg)School office solutions MIS, Finance, Internal Scrutiny, Governance, Clerking and more.](https://junipereducation.org/school-office/?hsLang=en)
@@ -88,7 +88,7 @@
 * [Essential training](https://junipereducation.org/classroom-primary/supporting-teachers/?hsLang=en)
 * [Education resource service](https://junipereducation.org/ers?hsLang=en)
 
-* [Sisra Analytics](https://junipereducation.org/classroom-secondary/progress-and-outcomes/?hsLang=en)
+* [Sisra Analytics](https://junipereducation.org/classroom-secondary/sisra-analytics?hsLang=en)
 * [Sonar Multi-School](https://junipereducation.org/classroom-secondary/insights-and-data/?hsLang=en)
 * [Supporting teachers](https://junipereducation.org/classroom-secondary/supporting-teachers/?hsLang=en)
 
