@@ -6,9 +6,9 @@
 
 Save up to $130!](https://www.horizonhobby.com/horizon-hobby-rc-sale/black-friday-sale/?cp_source=global&cp_medium=tippy-top)
 
-[Holiday Gift Guide
+[Happy Thanksgiving
 
-Find The Perfect RC Gift](https://www.horizonhobby.com/holiday-headquarters/?cp_source=global&cp_medium=tippy-top)
+From your friends at Horizon Hobby](https://www.horizonhobby.com/horizon-hobby-rc-sale/?cp_source=global&cp_medium=tippy-top)
 
 [Clearance Sale
 
@@ -18,9 +18,9 @@ Save Big While Supplies Last](https://www.horizonhobby.com/clearance-sale/?cp_so
 
 Save up to $130!](https://www.horizonhobby.com/horizon-hobby-rc-sale/black-friday-sale/?cp_source=global&cp_medium=tippy-top)
 
-[Holiday Gift Guide
+[Happy Thanksgiving
 
-Find The Perfect RC Gift](https://www.horizonhobby.com/holiday-headquarters/?cp_source=global&cp_medium=tippy-top)
+From your friends at Horizon Hobby](https://www.horizonhobby.com/horizon-hobby-rc-sale/?cp_source=global&cp_medium=tippy-top)
 
 [Clearance Sale
 
@@ -112,9 +112,9 @@ My store
 
 Save up to $130!](https://www.horizonhobby.com/horizon-hobby-rc-sale/black-friday-sale/?cp_source=global&cp_medium=tippy-top)
 
-[Holiday Gift Guide
+[Happy Thanksgiving
 
-Find The Perfect RC Gift](https://www.horizonhobby.com/holiday-headquarters/?cp_source=global&cp_medium=tippy-top)
+From your friends at Horizon Hobby](https://www.horizonhobby.com/horizon-hobby-rc-sale/?cp_source=global&cp_medium=tippy-top)
 
 [Clearance Sale
 
@@ -124,9 +124,9 @@ Save Big While Supplies Last](https://www.horizonhobby.com/clearance-sale/?cp_so
 
 Save up to $130!](https://www.horizonhobby.com/horizon-hobby-rc-sale/black-friday-sale/?cp_source=global&cp_medium=tippy-top)
 
-[Holiday Gift Guide
+[Happy Thanksgiving
 
-Find The Perfect RC Gift](https://www.horizonhobby.com/holiday-headquarters/?cp_source=global&cp_medium=tippy-top)
+From your friends at Horizon Hobby](https://www.horizonhobby.com/horizon-hobby-rc-sale/?cp_source=global&cp_medium=tippy-top)
 
 [Clearance Sale
 
@@ -634,7 +634,7 @@ Support
 * [RC Blog](https://www.horizonhobby.com/blog/)
 * [Order Status](https://www.horizonhobby.com/orderstatus?cp_source=footer&cp_medium=support "Go to Order Status")
 * [Repairs](https://www.horizonhobby.com/service-center.html?cp_source=footer&cp_medium=support "Go to Product Repairs")
-* [Product Registration](https://www.horizonhobby.com/login?isRegisterProductLogin=true&cp_source=footer&cp_medium=support "Go to Product Registration")
+* [Product Registration](https://www.horizonhobby.com/register "Go to Product Registration")
 * [Check E-Gift Card Balance](https://www.horizonhobby.com/gift-card-balance?cp_source=footer&cp_medium=support "Check E-Gift Card Balance")
 * [Shipping, Billing & Returns](https://www.horizonhobby.com/shipping-billing-returns-info.html?cp_source=footer&cp_medium=support "Go to Shipping, Billing & Returns")
 * [Event Donations](https://www.horizonhobby.com/donation-requests.html?cp_source=footer&cp_medium=support "Go to Donations Request")
