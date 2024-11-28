@@ -735,7 +735,7 @@ SELECT
 
 ### [Coffee Bean Caffeine Brightening Eye Cream](https://www.100percentpure.com/products/coffee-bean-caffeine-brightening-eye-cream)
 
-4627 reviews (4629)
+4629 reviews (4629)
 
 $16.00 $29.00
 
@@ -1209,7 +1209,7 @@ ADD TO TOTE
 
 ### [Organic Mint Lip Balm](https://www.100percentpure.com/products/organic-mint-lip-balm)
 
-512 reviews (512)
+520 reviews (520)
 
 $8.00
 
