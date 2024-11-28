@@ -1,6 +1,4 @@
-[Skip to main](#main)    
-
- 
+[Skip to main](#main)     
 
 K12 Coalition
 
@@ -451,9 +449,7 @@ This is notice of the Terms and Conditions between Teaching Channel, Inc., with 
 
 In addition to confirming your agreement to the Terms of Use, this notice services to inform you that copyright laws apply to original works to control how they are used and if it can be copied, whether marked with a “©” or not. Pursuant to such laws, unauthorized use of such works can result in copyright infringement, which can lead to legal challenges. Legal rights to acquire use of Teaching Channel’s videos via the Tch Site is only granted when a subscription license has been purchased by you, a Subscriber, per applicable Subscriber. Any videos being viewed or broadcasted must be viewed or broadcasted to exclusive individual Subscriber accounts, each containing individual usernames and passwords (and/or SSO and URL license agreements) in the form of written consent agreements. The law states, and Tch requires, that you, the Subscriber, and other Subscribers, always need permission from the copyright owner for any content not created by yourself that is shared with others.
 
-[![Teaching Channel Footer Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20252%20102'%3E%3C/svg%3E)
-
-![Teaching Channel Footer Logo](https://www.teachingchannel.com/wp-content/uploads/2023/01/TC-logo-with-K12-Stacked.svg)](https://www.teachingchannel.com/)
+[![Teaching Channel Footer Logo](https://www.teachingchannel.com/wp-content/uploads/2023/01/TC-logo-with-K12-Stacked.svg)](https://www.teachingchannel.com/)
 
 [Request a Course Catalog](https://www.teachingchannel.com/continuing-education-online-courses/#Download-Catalog)
 
@@ -462,9 +458,7 @@ In addition to confirming your agreement to the Terms of Use, this notice servic
     Eagan, MN 55121](https://goo.gl/maps/x4zNN47DmAr5qTsL7)
 * [952-469-3454](tel:9524693454)
 
-[![Corp B](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2060%2088'%3E%3C/svg%3E)
-
-![Corp B](https://www.teachingchannel.com/wp-content/themes/wp-teachingchannel/assets/img/b-corp-logo-black-rgb.svg)](https://k12coalition.com/b-corp/)
+[![Corp B](https://www.teachingchannel.com/wp-content/themes/wp-teachingchannel/assets/img/b-corp-logo-black-rgb.svg)](https://k12coalition.com/b-corp/)
 
 * [About Us](https://www.teachingchannel.com/about-us/)
 * [Reviews](https://www.teachingchannel.com/reviews/)
@@ -489,23 +483,19 @@ In addition to confirming your agreement to the Terms of Use, this notice servic
 
 [Linkedin](https://www.linkedin.com/company/teachingchannel/) [Twitter](https://twitter.com/TeachingChannel) [](https://www.instagram.com/teachingchannel/)[Facebook](https://www.facebook.com/TeachingChannel/) [Pinterest](https://www.pinterest.com/teachingchannel/)
 
- 
+  
 
 **You Could Win a $200 Amazon Gift Card in Our Back-to-School Giveaway! [Enter to Win >>](https://www.teachingchannel.com/back-to-school-2024/)**
 
-![close-image](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2015%2015'%3E%3C/svg%3E)
-
 ![close-image](https://www.teachingchannel.com/wp-content/uploads/2023/02/close-icon.svg)
 
- 
+  
 
  **Use promo code FLASHAI80 to get $80 off** 2 of our best-selling AI Courses! Now through September 13. [L](https://www.teachingchannel.com/ai-flash-sale/)[earn More](https://www.teachingchannel.com/ai-flash-sale/) [>](https://www.teachingchannel.com/dog-days-of-summer-sale-2024/)[\>](https://www.teachingchannel.com/ai-flash-sale/)
 
-![close-image](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2015%2015'%3E%3C/svg%3E)
-
 ![close-image](https://www.teachingchannel.com/wp-content/uploads/2023/02/close-icon.svg)
 
-                                      
+                                   
 
 What are you looking for?
 
