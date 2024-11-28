@@ -406,9 +406,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ The key to the future of the world is finding the optimistic stories and letting them be known”
+“ Blowing out someone else's candle won't make yours shine brighter”
 
-[Pete Seeger](http://en.wikipedia.org/wiki/Pete_Seeger)
+[Unknown](https://www.adafruit.com/quotes)
 
 [](https://www.adafruit.com/about)
 
