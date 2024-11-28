@@ -1,3 +1,9 @@
+  
+**Notice**: Function \_load\_textdomain\_just\_in\_time was called **incorrectly**. Translation loading for the `rank-math` domain was triggered too early. This is usually an indicator for some code in the plugin or theme running too early. Translations should be loaded at the `init` action or later. Please see [Debugging in WordPress](https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/) for more information. (This message was added in version 6.7.0.) in **/www/illumin\_951/public/wp-includes/functions.php** on line **6114**  
+                 
+**Warning**: Undefined array key "search\_page" in **/www/illumin\_951/public/wp-content/themes/illumin/functions.php** on line **93**  
+Cookie Policy | illumin                                                               
+
  [![logo-white](https://illumin.com/wp-content/uploads/2024/09/logo-white.svg) ![logo black](https://illumin.com/wp-content/uploads/2024/09/logo-1.svg)](https://illumin.com/)
 
 * [Product](#)
