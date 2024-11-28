@@ -590,7 +590,7 @@ Kopieren
 
 [](#)
 
-[![BitBox Swiss](/fileadmin/_processed_/2/a/csm_blocktrainervertikal_7f33fe5e4a.jpg)](https://ref.blocktrainer.de/bitbox/ws/blocktrainer-empfehlungslinks/logo-banner)
+[![Blocktrainer Black Week](/fileadmin/_processed_/d/3/csm_Black_Friday_Ad_Banner_390x615px_aca6dbec8d.jpg)](https://shop.blocktrainer.de/)
 
 **Privatsphäre-Einstellungen**
 
