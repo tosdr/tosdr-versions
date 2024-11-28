@@ -82,12 +82,13 @@
     
     * * Investors
             * Investors
-            * [Financial results at 30 September 2024](https://www.orange.com/en/latest-consolidated-results)
+            * [Financial information at 30 September 2024](https://www.orange.com/en/latest-consolidated-results)
             * [Results](https://www.orange.com/en/finance/investors/consolidated-results)
             * [Investors' conferences](https://www.orange.com/en/finance/investors/investors-conferences)
             * [Financial press releases](https://newsroom.orange.com/section/communiques-dossiers/?cat=71&lang=en)
             * [Regulated information](https://www.orange.com/en/finance/investors/regulated-information)
             * [Debt and rating](https://www.orange.com/en/finance/investors/debt-and-rating)
+            * [ADR program](https://www.orange.com/en/finance/adr-program-american-depositary-receipt)
         * Individual shareholders
             * Individual shareholders
             * [The Retail Investor Club](https://investisseurs-individuels.orange.com/en/)
@@ -121,7 +122,6 @@
 * [Careers](https://www.orange.com/en/your-career-at-orange)
 * [Newsroom](https://newsroom.orange.com/?lang=en)
 * [Magazines](https://www.orange.com/en/magazines)
-* [Orange Cyberdefense: building a safer digital society](https://www.orange.com/en/group/our-activities/cybersecurity)
 
 * Algolia Search bar
 * [fr](https://www.orange.com/fr/notice-sur-la-protection-des-donnees-personnelles)
