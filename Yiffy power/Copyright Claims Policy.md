@@ -77,7 +77,7 @@ Latest commented posts
 
 [ash and dean (no nut november) created by drako1997](https://yiff-party.com/yiff/ash-and-dean-no-nut-november-created-by-drako1997/)
 
-0 390 1
+0 399 1
 
 November 2, 2024
 
@@ -85,21 +85,21 @@ November 2, 2024
 
 [agatha directed by kotcfacu (director)](https://yiff-party.com/yiff/agatha-directed-by-kotcfacu-director/)
 
-0 391 1
+0 407 1
 
 November 18, 2024
 
-[](https://yiff-party.com/yiff/fan-character-kinktober-and-etc-created-by-alna-fratcher/)
+[](https://yiff-party.com/yiff-ai-premium/flora-and-trace-legacy-directed-by-anontk-2/)
 
-[fan character (kinktober and etc) created by alna fratcher](https://yiff-party.com/yiff/fan-character-kinktober-and-etc-created-by-alna-fratcher/)
+[flora and trace legacy directed by anontk](https://yiff-party.com/yiff-ai-premium/flora-and-trace-legacy-directed-by-anontk-2/)
 
-0 91 0
+0 39 0
 
 October 29, 2024
 
-[](https://yiff-party.com/yiff/frisk-kris-and-ralsei-undertale-series-and-etc-created-by-desertkaiju/)
+[](https://yiff-party.com/yiff/mythology-created-by-night-kota/)
 
-[frisk, kris, and ralsei (undertale (series) and etc) created by desertkaiju](https://yiff-party.com/yiff/frisk-kris-and-ralsei-undertale-series-and-etc-created-by-desertkaiju/)
+[mythology created by night kota](https://yiff-party.com/yiff/mythology-created-by-night-kota/)
 
 0 2 0
 
