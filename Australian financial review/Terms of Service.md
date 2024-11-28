@@ -297,7 +297,6 @@ Advertise
 
 ### [Mammoth tusks and jellyfish: how to bring jewellery ‘alive’](https://www.afr.com/life-and-luxury/fashion-and-style/mammoth-tusks-and-jellyfish-how-to-bring-jewellery-alive-20241016-p5kiw0)
 
-* 56 mins ago
 * Lauren Sams
 
 * ### [Cult Tasmanian whisky Sullivans Cove has a stately new home](https://www.afr.com/life-and-luxury/food-and-wine/cult-tasmanian-whisky-sullivans-cove-has-a-stately-new-home-20240711-p5jszk)
@@ -312,7 +311,6 @@ Advertise
 
 ### [Why the backlash from men is threatening gender targets](https://www.afr.com/work-and-careers/workplace/why-the-backlash-from-men-is-threatening-gender-targets-20241125-p5ktbc)
 
-* 56 mins ago
 * Sally Patten
 
 * ### [How Chris Lucas came to know the secrets of the rich and powerful](https://www.afr.com/work-and-careers/workplace/how-chris-lucas-came-to-know-the-secrets-of-the-rich-and-powerful-20241113-p5kqeo)
@@ -327,7 +325,6 @@ Advertise
 
 ### [Money, lifestyle, hair: why this executive was drawn to tennis](https://www.afr.com/life-and-luxury/health-and-wellness/money-lifestyle-hair-why-this-executive-was-drawn-to-tennis-20241119-p5krqc)
 
-* 56 mins ago
 * Life & Leisure
 
 * ### [The fiction lover’s guide to Christmas gifting](https://www.afr.com/life-and-luxury/arts-and-culture/the-fiction-lover-s-guide-to-christmas-gifting-20241023-p5kkt3)
