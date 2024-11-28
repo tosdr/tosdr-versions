@@ -109,27 +109,27 @@ Languages: [Français](https://www.euractiv.fr/?post_type=page&p=364525)
 Most recent
 -----------
 
-[27-11-2024
+[28-11-2024
 
-Romania officials to meet over ‘cyber risks’ to elections](http://afp.euractiv.com/htmlen.php?id=241127160015.1t74odiq)[27-11-2024
+Biden readies $725 million arms aid package for Ukraine](https://www.euractiv.com/section/global-europe/news/biden-readies-725-million-arms-aid-package-for-ukraine/)[28-11-2024
 
-Europe’s pharma sector falling behind US and China, competitiveness drive is urgent, vital](https://www.euractiv.com/section/health-consumers/news/europes-pharma-sector-falling-behind-us-and-china-competitiveness-drive-is-urgent-vital/)[27-11-2024
+Russia’s plane shortage holds air travel back](https://www.euractiv.com/section/global-europe/news/russias-plane-shortage-holds-air-travel-back/)[28-11-2024
 
-Brazil’s livestock industry has ‘beef’ with French supermarkets, threatening legal action](https://www.euractiv.com/section/agriculture-food/news/brazils-livestock-industry-has-beef-with-french-supermarkets-threatening-legal-action/)[27-11-2024
+Nordic, Baltic leaders agree to increase aid to Ukraine before Trump’s return](https://www.euractiv.com/section/politics/news/the-capitals-nordic-baltic-leaders-agree-to-increase-aid-to-ukraine-before-trumps-return/)[28-11-2024
 
-Romanian expats on TikTok aided far-right surge, says PNL’s Mureșan](https://www.euractiv.com/section/politics/news/romanian-expats-on-tiktok-aided-far-right-surge-says-pnls-muresan/)[27-11-2024
+Romanian NGOs urge Commission to investigate TikTok amid presidential elections](https://www.euractiv.com/section/politics/news/romanian-ngos-urge-commission-to-investigate-tiktok-amid-presidential-elections/)[28-11-2024
 
-NGO says record number of fossil fuel, chemical lobbyists at global plastics talks](https://www.euractiv.com/section/eet/news/ngo-says-record-number-of-fossil-fuel-chemical-lobbyists-at-global-plastics-talks/)[27-11-2024
+Bulgarian court issues EU arrest warrant for ex-state bank chief](https://www.euractiv.com/section/politics/news/bulgarian-court-issues-eu-arrest-warrant-for-ex-state-bank-chief/)[28-11-2024
 
-VDL 2.0: EU Parliament approves new Commission](https://www.euractiv.com/section/politics/news/vdl-2-0-eu-parliament-approves-new-commission/)[27-11-2024
+Brussels approves Poland’s defence-focused deficit reduction plan](https://www.euractiv.com/section/politics/news/brussels-approves-polands-defence-focused-deficit-reduction-plan/)[28-11-2024
 
-EU Startups Alliance prepares for formal pan-EU status](https://www.euractiv.com/section/tech/news/eu-startups-alliance-prepares-for-formal-pan-eu-status/)[27-11-2024
+Fico calls Trump, says yes to Putin’s Moscow invite](https://www.euractiv.com/section/politics/news/fico-calls-trump-says-yes-to-putins-moscow-invite/)[28-11-2024
 
-EU countries ready to fund defence products despite US use restrictions](https://www.euractiv.com/section/global-europe/news/eu-countries-ready-to-fund-defence-products-despite-us-use-restrictions/)[27-11-2024
+Spain’s Sánchez, Ribera blame Partido Popular for siding with EU far-right](https://www.euractiv.com/section/politics/news/spains-sanchez-ribera-blame-partido-popular-for-siding-with-eu-far-right/)[28-11-2024
 
-Georgian ruling party nominates anti-West former football player for president](https://www.euractiv.com/section/global-europe/news/georgian-ruling-party-nominates-anti-west-former-football-player-for-president/)[27-11-2024
+Nuclear attack unlikely despite Putin’s warnings, US intelligence says](https://www.euractiv.com/section/global-europe/news/nuclear-attack-unlikely-despite-putins-warnings-us-intelligence-says/)[28-11-2024
 
-Poland, France join forces against EU-Mercosur trade deal](https://www.euractiv.com/section/politics/news/the-capitals-poland-france-join-forces-against-eu-mercosur-trade-deal/)
+Italian opposition says government falling apart after split in European Parliament](https://www.euractiv.com/section/politics/news/italian-opposition-says-government-falling-apart-after-split-in-european-parliament/)
 
 ###### Advertisement
 
