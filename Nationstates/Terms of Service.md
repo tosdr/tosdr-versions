@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Ask BN a question (2,124)](https://forum.nationstates.net/viewtopic.php?t=550451&f=25&view=unread#unread ""Ask BN a question" (2,124 posts)")
-* [The Relationships and Lovers Discussi… (253)](https://forum.nationstates.net/viewtopic.php?t=558521&f=20&view=unread#unread ""The Relationships and Lovers Discussion Thread" (253 posts)")
-* [Who is AU's Favorite U.S President? (18)](https://forum.nationstates.net/viewtopic.php?t=558883&f=25&view=unread#unread ""Who is AU's Favorite U.S President?" (18 posts)")
-* [What would the AN get if trading card… (411)](https://forum.nationstates.net/viewtopic.php?t=555137&f=25&view=unread#unread ""What would the AN get if trading cards came now?" (411 posts)")
-* [The Collective Security League Assemb… (1,752)](https://forum.nationstates.net/viewtopic.php?t=555699&f=5&view=unread#unread ""The Collective Security League Assembly III [MT|IC]" (1,752 posts)")
+* [Trade between Pakania and Freedom Fre… (522)](https://forum.nationstates.net/viewtopic.php?t=558680&f=5&view=unread#unread ""Trade between Pakania and Freedom Freelandia (Invite Only)" (522 posts)")
+* [Commend or Condemn AN II (2,482)](https://forum.nationstates.net/viewtopic.php?t=553545&f=25&view=unread#unread ""Commend or Condemn AN II" (2,482 posts)")
+* [Would You Rather Chill with AU or AAU? (512)](https://forum.nationstates.net/viewtopic.php?t=556519&f=25&view=unread#unread ""Would You Rather Chill with AU or AAU?" (512 posts)")
+* [Geography Game II (11,454)](https://forum.nationstates.net/viewtopic.php?t=529733&f=25&view=unread#unread ""Geography Game II" (11,454 posts)")
+* [The Brotherhood of Malice: The Embassy (2,194)](https://forum.nationstates.net/viewtopic.php?t=202403&f=12&view=unread#unread ""The Brotherhood of Malice: The Embassy" (2,194 posts)")
 
 Advertisement
 
