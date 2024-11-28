@@ -133,6 +133,12 @@
 
 #### Latest news
 
+[![People on their phones](/siteassets/resources/images/-news-centre/body-images/2024/online-nations/hero-online-nation-2024.jpg?width=1920&height=1085&quality=80)
+
+### Digital differences between men and women revealed
+
+28 November 2024](https://www.ofcom.org.uk/media-use-and-attitudes/online-habits/digital-differences-between-men-and-women-revealed/?language=en)
+
 [![A person looking at news websites on their mobile phone and laptop](/siteassets/resources/images/-news-centre/thumbnail-images/internet/news-on-phone-and-laptop-screens.jpg?width=1920&height=1085&quality=80)
 
 ### Four in 10 UK adults encounter misinformation
@@ -151,13 +157,7 @@
 
 14 November 2024](https://www.ofcom.org.uk/phones-and-broadband/service-quality/latest-telecoms-and-pay-tv-complaints-figures-revealed2/)
 
-[![debate](/siteassets/resources/images/-news-centre/thumbnail-images/about-ofcom/debate-web.png?width=1920&height=1085&quality=80)
-
-### Greater flexibility for community radio stations to serve local listeners
-
-13 November 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/community-radio/greater-flexibility-for-community-radio-stations-to-serve-local-listeners/)
-
- [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/terms-of-use/ "Switch to Welsh")
+ [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/terms-of-use/?language=cy "Switch to Welsh")
 
 1. [Home](https://www.ofcom.org.uk/)
 2. [About Ofcom](https://www.ofcom.org.uk/about-ofcom/)
