@@ -49,7 +49,7 @@ Remember me
         Pet Search
         ==========
         
-        Available pets for adoption near you](https://wagtopia.com/petsearch)
+        Available pets for adoption near you](https://www.wagtopia.com/petsearch)
     * [![wagtopiamd icon](https://s3.amazonaws.com/Petstablished/images/homepage/Menu+Icons/Wagtopia MD.svg)
         
         Wagtopia MD
@@ -107,7 +107,7 @@ Remember me
         Pet Search
         ==========
         
-        Available pets for adoption near you](https://wagtopia.com/petsearch)
+        Available pets for adoption near you](https://www.wagtopia.com/petsearch)
     * [![wagtopiamd icon](https://s3.amazonaws.com/Petstablished/images/homepage/Menu+Icons/Wagtopia MD.svg)
         
         Wagtopia MD
