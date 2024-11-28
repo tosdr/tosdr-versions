@@ -205,26 +205,28 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [The 10 Reasons We Will Never Review F.A.T.A.L.](https://www.somethingawful.com/dungeons-and-dragons/fatal-worst-rpg/1/)
-* [Real College Textbooks](https://www.somethingawful.com/comedy-goldmine/real-college-textbooks/1/)
-* [Porn Versions of Classic Films! (Part 1 of 2)](https://www.somethingawful.com/photoshop-phriday/classic-films-porn/1/)
-* [Make Horror Wholesome](https://www.somethingawful.com/photoshop-phriday/horror-wholesome/)
-* [With Music of Tango!](https://www.somethingawful.com/awfulvision/crispin-glover-owns/1/)
+* [The British Library's Bizarre Image Collection!](https://www.somethingawful.com/photoshop-phriday/british-library-images/)
+* [Segway Chat, The Student Room, Fart Discussions, and YaHooka](https://www.somethingawful.com/weekend-web/segway-chat-student/1/)
+* [Create Your Own Adventure: Summer Vacation](https://www.somethingawful.com/news/create-adventure/1/)
+* [Movie Based Games](https://www.somethingawful.com/photoshop-phriday/movie-based-games/1/)
+* [Steve Bradenton Cartoons](https://www.somethingawful.com/awful-links/bradenton-political-cartoon/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/serious.png) [What is the absolute WORST thing you've ever done?](http://forums.somethingawful.com/showthread.php?threadid=4076413 "What is the absolute WORST thing you've ever done?")
+* ![](https://fi.somethingawful.com/forums/posticons/fyad-sandwich.gif) [Document your Thanksgiving prep!](http://forums.somethingawful.com/showthread.php?threadid=4076432 "Document your Thanksgiving prep!")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-gents.gif) [What to get your NeverKamala family members for Christmas](http://forums.somethingawful.com/showthread.php?threadid=4076438 "What to get your NeverKamala family members for Christmas")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [Awful American Thanksgiving 2024](http://forums.somethingawful.com/showthread.php?threadid=4076419 "Awful American Thanksgiving 2024")
 * ![](https://fi.somethingawful.com/forums/posticons/fyad-smallthread.gif) [Adults who skateboard](http://forums.somethingawful.com/showthread.php?threadid=4076416 "Adults who skateboard")
 * ![](https://fi.somethingawful.com/forums/posticons/tviv-competition.gif) [Pitch a Catch Phrase](http://forums.somethingawful.com/showthread.php?threadid=4076401 "Pitch a Catch Phrase")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [Awful Thanksgiving 2024](http://forums.somethingawful.com/showthread.php?threadid=4076419 "Awful Thanksgiving 2024")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/serious.png) [What is the absolute WORST thing you've ever done?](http://forums.somethingawful.com/showthread.php?threadid=4076413 "What is the absolute WORST thing you've ever done?")
 
 ### Random Articles
 
-* [World's Fastest Clown](https://www.somethingawful.com/awful-links/awful-link-3427/)
-* [TODD AND BRISTOL BOTH GET TV SHOWS??? COME ON!!!!](https://www.somethingawful.com/levi-johnston/stars-earn-stripes/)
-* [Increased Difficulty](https://www.somethingawful.com/photoshop-phriday/increased-difficulty/1/)
-* [Fucking Insane T-Shirts](https://www.somethingawful.com/awful-links/awful-link-2964/)
-* [Variety Pack #2: Improved Bullfighting, Idiotic Sequels and Crappy Soft Drinks!](https://www.somethingawful.com/photoshop-phriday/variety-pack-2/1/)
+* [A Guide to Gracefully Losing an Internet Argument](https://www.somethingawful.com/news/internet-argument-lose/1/)
+* [The Reificant: Panorama](https://www.somethingawful.com/news/reificant-liminal-three/1/)
+* [SupErlovE InterDimensional Evoluti](https://www.somethingawful.com/awful-links/awful-link-584/)
+* [Human / Animal Communication](https://www.somethingawful.com/news/human-animal-communication/)
+* [In Space No One Can Hear the Music Die](https://www.somethingawful.com/news/scifi-music-movies/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
