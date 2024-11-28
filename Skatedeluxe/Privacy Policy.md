@@ -171,11 +171,10 @@ Polski
   Change
 
 Search result for "%search\_keywords%"
---------------------------------------
 
-### We couldn't find anything for %query%.
+We couldn't find anything for %query%.
 
-### View new items in the shop instead:
+View new items in the shop instead:
 
 [](https://www.skatedeluxe.com/en)
 
@@ -194,11 +193,10 @@ Search result for "%search\_keywords%"
 [Sale](https://www.skatedeluxe.com/en/c/sale "Sale")
 
 Search result for "%search\_keywords%"
---------------------------------------
 
-### We couldn't find anything for %query%.
+We couldn't find anything for %query%.
 
-### View new items in the shop instead:
+View new items in the shop instead:
 
 [](https://www.skatedeluxe.com/en/account "My Account")
 
@@ -210,7 +208,7 @@ Search result for "%search\_keywords%"
 
 [0](https://www.skatedeluxe.com/en/cart "Shopping cart")
 
-### Filter items
+Filter items
 
 Active filters 0
 
@@ -717,7 +715,7 @@ Last Updated: 29.09.2023
 
 © skatedeluxe.com Skateshop 2024
 
-### How do I unsubscribe?
+How do I unsubscribe?
 
 You can either unsubscribe by clicking the corresponding link in the newsletter or adjust your notification settings in your account under "Newsletter & notifications". Of course you can also contact our service team.
 
