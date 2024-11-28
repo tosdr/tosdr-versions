@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/mensen/atlantis-doen-we-het-dit-keer-anders-deel-2/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/meelezen/orgonite-en-chembusters/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
