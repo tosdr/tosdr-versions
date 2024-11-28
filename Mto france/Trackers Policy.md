@@ -187,6 +187,7 @@ PUBLIC - Menu burger
 * [Nos Services](https://services.meteofrance.com/ "Offres et Services de Météo-France")
 * [Applications mobiles](https://meteofrance.com/applications-mobiles "Applications mobiles")
 * [Widgets](https://meteofrance.com/widgets "Widgets Météo-France")
+* [Testez nos prototypes](https://meteofrance.com/la-fabrique-prototypes)
 
 Suivez-nous
 
@@ -205,7 +206,7 @@ Suivez-nous
 Gestion des Cookies
 ===================
 
-27/11/2024
+28/11/2024
 
 Météo-France s'engage à ce que la collecte et le traitement de vos données, effectués à partir de ses sites Internet, soient conformes au règlement général sur la protection des données (RGPD) et à la loi Informatique et Libertés.
 
