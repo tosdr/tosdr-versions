@@ -286,11 +286,11 @@ Lawyers and free speech advocates. IP, gaming, adult, and First Amendment law.
 
 ![walterslawgroup](https://pbs.twimg.com/profile_images/1639690830/40482_141262409241305_114671631900383_269027_5869480_n_normal.jpg)](https://twitter.com/walterslawgroup)[Walters Law Group](https://twitter.com/walterslawgroup) [@walterslawgroup](https://twitter.com/walterslawgroup) ·
 
-[14 Nov](https://twitter.com/walterslawgroup/status/1857097169355874549)
+[27 Nov](https://twitter.com/walterslawgroup/status/1861593010812694850)
 
-Adult website operators - watch for these demand letters from Kansas attorneys demanding large sums for alleged violations of the state’s age verification law.
+FSC Sues Tennessee Over AV Law, Seeks Preliminary Injunction
 
-[Reply on Twitter 1857097169355874549](https://twitter.com/intent/tweet?in_reply_to=1857097169355874549&related=walterslawgroup) [Retweet on Twitter 1857097169355874549 1](https://twitter.com/intent/retweet?tweet_id=1857097169355874549&related=walterslawgroup) [Like on Twitter 1857097169355874549](https://twitter.com/intent/like?tweet_id=1857097169355874549&related=walterslawgroup) [Twitter 1857097169355874549](https://twitter.com/walterslawgroup/status/1857097169355874549)
+[Reply on Twitter 1861593010812694850](https://twitter.com/intent/tweet?in_reply_to=1861593010812694850&related=walterslawgroup) [Retweet on Twitter 1861593010812694850](https://twitter.com/intent/retweet?tweet_id=1861593010812694850&related=walterslawgroup) [Like on Twitter 1861593010812694850 2](https://twitter.com/intent/like?tweet_id=1861593010812694850&related=walterslawgroup) [Twitter 1861593010812694850](https://twitter.com/walterslawgroup/status/1861593010812694850)
 
 [Load More](javascript:void(0);)
 
