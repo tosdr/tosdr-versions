@@ -116,6 +116,7 @@ Categories
 * [Sub-Processors List](https://heap.io/sub-processors)
 * [Privacy Policy](https://heap.io/privacy)
 * [Cookie Policy](https://heap.io/cookies)
+* [Sample Cookie Description](https://heap.io/sample-cookie-description-for-customers)
 * [Heap's Status](https://heap.io/status)
 
 Heap Privacy Policy
