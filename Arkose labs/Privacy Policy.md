@@ -697,4 +697,4 @@ New Research: Benchmark your defensive AI maturity against peers
 
                                                
 
-https://tvn.pl/
+https://www.google.com/search?hl=en&q=testing
