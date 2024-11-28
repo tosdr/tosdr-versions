@@ -94,17 +94,17 @@
 
 * [Website portfolio](https://websites.junipereducation.org/our-work)
 
-![home-header-40-min-1024x682.jpeg-2](https://junipereducation.org/hs-fs/hubfs/home-header-40-min-1024x682.jpeg-2.webp?width=1024&height=682&name=home-header-40-min-1024x682.jpeg-2.webp)
+![sonar logo favicon](https://junipereducation.org/hubfs/sonar%20logo%20favicon.svg)
 
-Case Study
+Primary: Popular Product
 
-##### [East Sheen Primary School: An Outstanding Ofsted Rating with Help from Juniper Assessment Tracker](https://junipereducation.org/esource/case-studies/east-sheen-primary-school-an-outstanding-ofsted-rating-with-help-from-juniper-assessment-tracker/?hsLang=en)
+##### [Go beyond traditional progress tracking with Sonar Tracker.](https://junipereducation.org/classroom-primary/sonar-tracker?hsLang=en)
 
-![South Bromsgrove High School pic](https://junipereducation.org/hs-fs/hubfs/Case%20Study%20images%20and%20logos/South%20Bromsgrove%20High%20School%20pic.png?width=687&height=483&name=South%20Bromsgrove%20High%20School%20pic.png)
+![Untitled design](https://junipereducation.org/hubfs/Untitled%20design.svg)
 
-Case Study
+Secondary: Popular Product
 
-##### [South Bromsgrove High School: Utilising Data Analytics for Enhanced Educational Outcomes](https://junipereducation.org/resource/case-studies/utilising-data-analytics-for-enhanced-educational-outcomes/?hsLang=en)
+##### [Make time-consuming data analysis a thing of the past with Sisra Analytics.](https://junipereducation.org/classroom-secondary/sisra-analytics?hsLang=en)
 
 ![Boudica Schools trust pic](https://junipereducation.org/hs-fs/hubfs/Case%20Study%20images%20and%20logos/Boudica%20Schools%20trust%20pic.png?width=687&height=388&name=Boudica%20Schools%20trust%20pic.png)
 
