@@ -213,7 +213,7 @@ If you are a member of Virgin Red, please see the [Virgin Red Privacy Policy](ht
 
 * [Contact Virgin](https://www.virgin.com/contact-us)
 * [Web Terms of Use](https://www.virgin.com/terms-and-conditions)
-* [Web Privacy Policy](https://www.virgin.com/privacy-policy)
+* [Web Privacy Policy](https://www.virgin.com/virgin-red/privacy-policy)
 * [Web Cookie Policy](https://www.virgin.com/cookie-policy)
 
 * [Virgin Modern Slavery Statement](https://www.virgin.com/modern-slavery-act)
