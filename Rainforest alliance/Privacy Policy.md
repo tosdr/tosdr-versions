@@ -292,7 +292,7 @@ general or business(Required)
 
  Send me business updates
 
-Email
+Name
 
 This field is for validation purposes and should be left unchanged.
 
@@ -301,7 +301,7 @@ Subscribe
 * For Individuals
     * [Impact](https://www.rainforest-alliance.org/?page_id=44398)
     * [Our Approach](https://www.rainforest-alliance.org/approach/)
-    * [Support Us](https://www.rainforest-alliance.org/?page_id=44391)
+    * [Support Us](https://www.rainforest-alliance.org/get-involved/)
 * For Business
     * [2020 Certification Program](https://www.rainforest-alliance.org/for-business/2020-certification-program/)
     * [Tailored Supply Chain Services](https://www.rainforest-alliance.org/business/tailored-services/)
