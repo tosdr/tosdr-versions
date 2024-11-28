@@ -164,7 +164,7 @@ This agreement shall be governed by and interpreted and enforced in accordance w
 * [Cloud Services (85)](https://www.iplocation.net/blog/category/cloud-services)
 * [Computing (58)](https://www.iplocation.net/blog/category/computing)
 * [Crypto & Blockchain (36)](https://www.iplocation.net/blog/category/blockchain)
-* [Cybersecurity (269)](https://www.iplocation.net/blog/category/cybersecurity)
+* [Cybersecurity (270)](https://www.iplocation.net/blog/category/cybersecurity)
 * [Distributed Denial of Service (10)](https://www.iplocation.net/blog/category/ddos)
 * [Password (21)](https://www.iplocation.net/blog/category/password)
 * [Safety (26)](https://www.iplocation.net/blog/category/safety)
@@ -206,7 +206,7 @@ This agreement shall be governed by and interpreted and enforced in accordance w
 * [Travel (18)](https://www.iplocation.net/blog/category/travel)
 * [World Wide Web (164)](https://www.iplocation.net/blog/category/web)
 * [Search Engine Optimization (61)](https://www.iplocation.net/blog/category/seo)
-* [Web Hosting (26)](https://www.iplocation.net/blog/category/web-hosting)
+* [Web Hosting (27)](https://www.iplocation.net/blog/category/web-hosting)
 * [Web Design (15)](https://www.iplocation.net/blog/category/web-design)
 
 ### About Us
