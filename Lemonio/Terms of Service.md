@@ -48,7 +48,7 @@
         * [Hire Flutter developers](https://lemon.io/hire/flutter-developers/)
         * [Hire React Native developers](https://lemon.io/hire/react-native-developers/)
         * [Hire Android developers](https://lemon.io/hire/android-developers/)
-    * [View all services](https://lemon.io/hire)
+    * [View all services](https://lemon.io/hire/)
 
 [Home](https://lemon.io/) TERMS OF USE
 
