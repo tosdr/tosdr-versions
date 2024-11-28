@@ -95,7 +95,7 @@ Special Offers
 
 Save 30% + 2 Free Cloud Pillows
 
-TEMPUR-Cloud® Mattress](https://www.tempurpedic.com/shop-mattresses/tempur-cloud-mattress/)[![Two stacked Cloud Pillows](https://assets-www.tempurpedic.com/media/images/CloudOfferMobileNavV3.width-300.png)
+TEMPUR-Cloud® Mattress](https://www.tempurpedic.com/shop-mattresses/cloud-sitebuster/v/3882/)[![Two stacked Cloud Pillows](https://assets-www.tempurpedic.com/media/images/CloudOfferMobileNavV3.width-300.png)
 
 ###### Ends Monday
 
@@ -123,7 +123,7 @@ use code 300FREE](https://www.tempurpedic.com/shop-mattresses/)[![a topper supre
 
 Save 40%
 
-TEMPUR-Adapt® Topper & TEMPUR-Cloud® Topper](https://www.tempurpedic.com/other-products/tempur-toppers/)[![Stack of Sheet Sets](https://assets-www.tempurpedic.com/media/images/Cotton-Classic-Sheet-Stack_B_1.width-300.png)
+TEMPUR-Adapt® & TEMPUR-Cloud® Toppers](https://www.tempurpedic.com/other-products/tempur-toppers/)[![Stack of Sheet Sets](https://assets-www.tempurpedic.com/media/images/Cotton-Classic-Sheet-Stack_B_1.width-300.png)
 
 ###### Ends Tomorrow
 
