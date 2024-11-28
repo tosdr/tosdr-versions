@@ -247,6 +247,8 @@ Seller Name
 
 [Save](#)
 
+Black Friday On Now!
+
 Terms and Conditions
 ====================
 
