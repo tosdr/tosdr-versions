@@ -117,59 +117,59 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Enjoying Invoices Online
-> ------------------------
+> Quick and efficient support
+> ---------------------------
 > 
-> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
+> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
 > 
-> I have upgraded to the Gold account in order to support you guys!
+> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
 
-Shaun Gartshore
+Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
 
-![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=32f4c05747315794b25176a94013deb15f9732740922d05eb12eaa57a38f75aa&c=117931594)  
-Depot Diesel (Pty) Ltd
+![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=24b1cddb2d71ebb2640b537f936f01bab3ee475a1378f08faea8201549c3d522&c=86128953)  
+Nilbet T/A Waterman
 
-![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=32f4c05747315794b25176a94013deb15f9732740922d05eb12eaa57a38f75aa&c=106948957)  
-FRAMED BY ANTON (Pty) Ltd.
+![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=24b1cddb2d71ebb2640b537f936f01bab3ee475a1378f08faea8201549c3d522&c=52302576)  
+Goju-Ryu Pretoria East
 
-![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=32f4c05747315794b25176a94013deb15f9732740922d05eb12eaa57a38f75aa&c=190026785)  
-Iurus Inc
+![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=24b1cddb2d71ebb2640b537f936f01bab3ee475a1378f08faea8201549c3d522&c=108452288)  
+Karino Merinos ( PTY ) LTD
 
-![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=32f4c05747315794b25176a94013deb15f9732740922d05eb12eaa57a38f75aa&c=99122262)  
-Kinetic Power Solutions (Pty) Ltd.
+![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=24b1cddb2d71ebb2640b537f936f01bab3ee475a1378f08faea8201549c3d522&c=185297475)  
+Import Maaw
 
-![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=32f4c05747315794b25176a94013deb15f9732740922d05eb12eaa57a38f75aa&c=68962483)  
-SMART GUY PCS (PTY) LTD
+![valued client Cooper Power](https://www.invoicesonline.co.za/scripts/image.php?bid=8689&file=logo_300_100&type=&fe=24b1cddb2d71ebb2640b537f936f01bab3ee475a1378f08faea8201549c3d522&c=84839821)  
+Cooper Power
 
-![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=32f4c05747315794b25176a94013deb15f9732740922d05eb12eaa57a38f75aa&c=123685073)  
-VerdanTech Pty Ltd
+![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=24b1cddb2d71ebb2640b537f936f01bab3ee475a1378f08faea8201549c3d522&c=106870426)  
+Kaylas Creations
 
-![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=32f4c05747315794b25176a94013deb15f9732740922d05eb12eaa57a38f75aa&c=77965022)  
-Lily Fern & Co
+![valued client Kara Medical (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=3913&file=logo_300_100&type=&fe=24b1cddb2d71ebb2640b537f936f01bab3ee475a1378f08faea8201549c3d522&c=188507145)  
+Kara Medical (Pty) Ltd
 
-![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=32f4c05747315794b25176a94013deb15f9732740922d05eb12eaa57a38f75aa&c=17287583)  
-NWET Pty LTD
+![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=24b1cddb2d71ebb2640b537f936f01bab3ee475a1378f08faea8201549c3d522&c=39529909)  
+TechnoDezi PTY(LTD)
 
-![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=32f4c05747315794b25176a94013deb15f9732740922d05eb12eaa57a38f75aa&c=11859258)  
-Cooper Logistics (Pty) Ltd
+![valued client VIV'S TRUCKS (Pty) Ltd. (651)](https://www.invoicesonline.co.za/scripts/image.php?bid=6481&file=logo_300_100&type=&fe=24b1cddb2d71ebb2640b537f936f01bab3ee475a1378f08faea8201549c3d522&c=54812657)  
+VIV'S TRUCKS (Pty) Ltd. (651)
 
-![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=32f4c05747315794b25176a94013deb15f9732740922d05eb12eaa57a38f75aa&c=106055266)  
-Website Café (PTY) LTD
+![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=24b1cddb2d71ebb2640b537f936f01bab3ee475a1378f08faea8201549c3d522&c=18683009)  
+Westside Car Audio CC
 
-![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=32f4c05747315794b25176a94013deb15f9732740922d05eb12eaa57a38f75aa&c=20611588)  
-All Trucking Solutions
+![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=24b1cddb2d71ebb2640b537f936f01bab3ee475a1378f08faea8201549c3d522&c=94958588)  
+MSPCloud (Pty) Ltd
 
-![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=32f4c05747315794b25176a94013deb15f9732740922d05eb12eaa57a38f75aa&c=25549284)  
-Itroniq (Pty) Ltd
+![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=24b1cddb2d71ebb2640b537f936f01bab3ee475a1378f08faea8201549c3d522&c=115343944)  
+National Elite Security Services (PTY) LTD
 
-![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=32f4c05747315794b25176a94013deb15f9732740922d05eb12eaa57a38f75aa&c=186094354)  
-Qothiphango Mining
+![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=24b1cddb2d71ebb2640b537f936f01bab3ee475a1378f08faea8201549c3d522&c=140698272)  
+Durbanville Classifieds (Pty) Ltd
 
-![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=32f4c05747315794b25176a94013deb15f9732740922d05eb12eaa57a38f75aa&c=41661275)  
-INDUSTRIAL DRUM SERVICES (PTY)LTD
+![valued client Lindani Protection Services & Projects](https://www.invoicesonline.co.za/scripts/image.php?bid=8265&file=logo_300_100&type=&fe=24b1cddb2d71ebb2640b537f936f01bab3ee475a1378f08faea8201549c3d522&c=160847691)  
+Lindani Protection Services & Projects
 
-![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=32f4c05747315794b25176a94013deb15f9732740922d05eb12eaa57a38f75aa&c=160371086)  
-MONSTER SECURITY SERVICES
+![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=24b1cddb2d71ebb2640b537f936f01bab3ee475a1378f08faea8201549c3d522&c=116991120)  
+RADIO TYGERBERG 104FM NPC
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
