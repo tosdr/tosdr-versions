@@ -336,7 +336,7 @@ Holiday Collection](https://www.atari.com/collections/holiday-collection)
 
 [![](files/atari_merch_nov2024-350_1.jpg)
 
-Jaguar](https://www.atari.com/collections/jaguar)
+Jaguar Collection](https://www.atari.com/collections/jaguar)
 
 [![](files/ThumbsUp_-ATAORGDECSET-Image5-160835-Daniel.jpg)
 
@@ -358,7 +358,7 @@ Holiday Collection](https://www.atari.com/collections/holiday-collection)
 
 [![](files/atari_merch_nov2024-350_1.jpg)
 
-Jaguar](https://www.atari.com/collections/jaguar)
+Jaguar Collection](https://www.atari.com/collections/jaguar)
 
 [![](files/ThumbsUp_-ATAORGDECSET-Image5-160835-Daniel.jpg)
 
