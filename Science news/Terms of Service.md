@@ -94,13 +94,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Cervical cancer deaths are plummeting among young U.S. women](https://www.sciencenews.org/article/cervical-cancer-deaths-fall-young-women)
             
-            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")11 hours ago
+            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")17 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
             ### [Sluggish proteins may underpin aging and chronic disease](https://www.sciencenews.org/article/sluggish-proteins-aging-chronic-disease)
             
-            By [Elie Dolgin](https://www.sciencenews.org/author/elie-doglin "Posts by Elie Dolgin")11 hours ago
+            By [Elie Dolgin](https://www.sciencenews.org/author/elie-doglin "Posts by Elie Dolgin")17 hours ago
             
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
             
@@ -124,7 +124,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [This ‘hidden figure’ of entomology fought for civil rights](https://www.sciencenews.org/article/maragret-collins-entomology-termite)
             
-            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")14 hours ago
+            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")20 hours ago
             
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
             
