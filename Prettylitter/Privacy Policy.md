@@ -238,9 +238,9 @@ Argentina
 
 Brazil
 
-[Português](https://bra.mars.com/)
+[Português](https://www.prettylitter.com/pt-br)
 
-[Português](https://bra.mars.com/)
+[Português](https://www.prettylitter.com/pt-br)
 
 Canada
 
@@ -250,9 +250,9 @@ Canada
 
 Mexico
 
-[Spanish](https://mex.mars.com/)
+[Español](https://www.prettylitter.com/es-mx)
 
-[Spanish](https://mex.mars.com/)
+[Español](https://www.prettylitter.com/es-mx)
 
 Asia & Pacific
 
@@ -362,9 +362,9 @@ Ireland
 
 Italy
 
-[Italiano](https://ita.mars.com/)
+[Italiano](https://www.prettylitter.com/it-it)
 
-[Italiano](https://ita.mars.com/)
+[Italiano](https://www.prettylitter.com/it-it)
 
 Lithuania
 
