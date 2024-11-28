@@ -60,7 +60,7 @@ Mijn NRC Terug
 
 [Nieuwsbrieven](https://www.nrc.nl/nieuwsbrieven/) [Masterclasses](https://www.nrc.nl/masterclass/) [Onderwerpen](https://www.nrc.nl/onderwerpen/)
 
-[Ik ben abonnee](https://www.nrc.nl/login/subscriber/?return_to=/cookies/) [Neem een abonnement](https://abonnementen.nrc.nl/nrc-nl/?utm_intern=nrc-web-profielmenu)
+[Ik ben abonnee](https://www.nrc.nl/login/subscriber/?return_to=/cookies/) [Neem een abonnement](https://abonnementen.nrc.nl/?utm_intern=nrc-web-profielmenu)
 
 Instellingen Weergaveopties [Uitloggen](https://www.nrc.nl/logout/)
 
@@ -74,7 +74,7 @@ Service
 
 [Terug naar de krant](https://www.nrc.nl/de/) Lijst
 
-Al abonnee? [Inloggen](https://www.nrc.nl/login/?return_to=/cookies/?t%3D1732800974)
+Al abonnee? [Inloggen](https://www.nrc.nl/login/?return_to=/cookies/?t%3D1732821841)
 
 N.B. Het kan zijn dat elementen ontbreken aan deze printversie.
 
