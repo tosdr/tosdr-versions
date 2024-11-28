@@ -100,7 +100,9 @@ Bitpanda AcademyLearn everything you need to know about personal finance, digita
 
 CRYPTOHow to start trading cryptocurrencies](https://www.bitpanda.com/academy/en/lessons/how-to-start-trading-cryptocurrencies)[![](https://sbcdn.bitpanda.com/4167x2500/278190baf1/bitcoin-spot-etf-explained.png)
 
-BITCOINBitcoin ETFs explained](https://www.bitpanda.com/academy/en/lessons/bitcoin-etfs-explained)[![](https://cdn.bitpanda.com/media/bitpanda-academy-expert-13-what-is-staking-in-crypto-header.png)
+BITCOINBitcoin ETFs explained](https://www.bitpanda.com/academy/en/lessons/bitcoin-etfs-explained)[![](https://sbcdn.bitpanda.com/4167x2500/accf0bdca4/bull-market.png)
+
+TRENDSWhat is a bull market?](https://www.bitpanda.com/academy/en/lessons/what-is-a-bull-market)[![](https://cdn.bitpanda.com/media/bitpanda-academy-expert-13-what-is-staking-in-crypto-header.png)
 
 STAKINGWhat is staking?](https://www.bitpanda.com/academy/en/lessons/what-is-staking)
 
