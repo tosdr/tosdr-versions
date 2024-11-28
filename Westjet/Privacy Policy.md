@@ -2,6 +2,12 @@ The browser you are using is not supported. Please see our [supported browsers](
 
 Close
 
+_We are currently experiencing high call volumes._ 
+
+Close
+
+Please visit our [Self-serve](https://www.westjet.com/en-ca/contact/on-hold-self-serve) page for available options
+
 By using the WestJet website, you agree to the website [terms of use](https://www.westjet.com/content/westjet/ca/en/legal/terms-use.html), the [privacy statement](https://www.westjet.com/content/westjet/ca/en/legal/privacy-policy.html), and the [use of cookies](https://www.westjet.com/content/westjet/ca/en/legal/privacy-policy.html#cookies).  
 
 Accept
@@ -49,14 +55,14 @@ Check back later
     * [Receipts](https://www.westjet.com/en-ca/manage/receipts)
 * [Check in](https://www.westjet.com/en-ca/manage/check-in)
 * [Flight status](https://www.westjet.com/en-ca/flights/status)
-* Rewards
+* WestJet Rewards
     * [Join WestJet Rewards](https://www.westjet.com/en-ca/rewards/join)
     * [About WestJet Rewards](https://www.westjet.com/en-ca/rewards)
     * [WestJet dollars](https://www.westjet.com/en-ca/rewards/westjet-dollars)
     * [Tiers and benefits](https://www.westjet.com/en-ca/rewards/tiers)
     * [WestJet RBC credit cards](https://www.westjet.com/en-ca/rewards/credit-cards)
     * [Account help](https://www.westjet.com/en-ca/rewards/contact-us)
-* Rewards
+* WestJet Rewards
     * [View my account](https://www.westjet.com/en-ca/rewards/account)
     * [View my transactions](https://www.westjet.com/en-ca/rewards/manage/transaction-history)
     * [Account settings](https://www.westjet.com/en-ca/account/settings)
