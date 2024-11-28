@@ -108,6 +108,8 @@
         Português](https://ftmo.com/pt/terms-conditions/)
 * [Client Area](https://trader.ftmo.com/?lang=en)
 
+Black Friday is here! Get 10% Off all undiscounted [FTMO Challenges!](https://trader.ftmo.com/start-challenge)
+
 Terms and Conditions
 ====================
 
