@@ -36,18 +36,18 @@
         
         Chinese hackers breached T-Mobile's routers to scope out network](https://www.bleepingcomputer.com/news/security/chinese-hackers-breached-t-mobiles-routers-to-scope-out-network/)
     
+    * [![Early Black Friday deal: Save on Microsoft Office 2024 while you can](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Early Black Friday deal: Save on Microsoft Office 2024 while you can](https://www.bleepingcomputer.com/offer/deals/early-black-friday-deal-save-on-microsoft-office-2024-while-you-can/)
+    * [![UK hospital network postpones procedures after cyberattack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        UK hospital network postpones procedures after cyberattack](https://www.bleepingcomputer.com/news/security/uk-hospital-network-postpones-procedures-after-cyberattack/)
     * [![Microsoft re-releases Exchange updates after fixing mail delivery](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Microsoft re-releases Exchange updates after fixing mail delivery](https://www.bleepingcomputer.com/news/security/microsoft-re-releases-exchange-updates-after-fixing-mail-delivery/)
     * [![Hackers abuse popular Godot game engine to infect thousands of PCs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Hackers abuse popular Godot game engine to infect thousands of PCs](https://www.bleepingcomputer.com/news/security/new-godloader-malware-infects-thousands-of-gamers-using-godot-scripts/)
-    * [![Hackers exploit ProjectSend flaw to backdoor exposed servers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Hackers exploit ProjectSend flaw to backdoor exposed servers](https://www.bleepingcomputer.com/news/security/hackers-exploit-projectsend-flaw-to-backdoor-exposed-servers/)
-    * [![Zello asks users to reset passwords after security incident](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Zello asks users to reset passwords after security incident](https://www.bleepingcomputer.com/news/security/zello-asks-users-to-reset-passwords-after-security-incident/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
