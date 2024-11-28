@@ -62,7 +62,7 @@ Jupiter Terms and Conditions
 
 These Terms and Conditions govern the access and use of the Jupiter app and the services provided by Jupiter. Please read these Terms and Conditions carefully before accepting. By accepting the Terms and Conditions you agree that you have read, understood, acknowledged and accepted these Terms and Conditions, Tariff of Schedule to access and use the Jupiter app and Jupiter product and Services.
 
-Last updated on 29 May, 2024
+Last updated on 28 November, 2024
 
 For ease of use, these terms and conditions have been divided into the following sections:
 
@@ -1075,23 +1075,67 @@ As a Jupiter App customer, you will have the option to perform a regular investm
 11. Jupiter is not entering into any contractual, legal or any other kind of relationship with itself and the participants or between participants in running this Campaign.
 12. Any dispute, issue or other matter arising with reference to the participant’s participation in the Campaign and/or these Terms and Conditions or any related matters thereto shall be referred to arbitration by a sole arbitrator appointed by Jupiter which shall be governed by the Arbitration and Conciliation Act, 1996, as amended from time to time. The venue for arbitration shall be Mumbai and proceedings shall be conducted in English language. All the costs, charges and expenses in connection to the arbitration shall be solely borne by the person who has raised the dispute.
 
-### ​​**Savings Challenge II (“Challenge”)**
+### ​​**Savings Challenge III (“Challenge”)**
 
 Please read these terms and conditions (**“T&C”)** before entering the Challenge.
 
-You agree that, by participating in this Challenge, you will be bound by these T&Cs and you acknowledge and agree that you satisfy all Challenge requirements as provided herein below to be eligible for Digital Gold. These T&Cs are in addition to the www.jupiter.money conditions of Privacy Policy to which you agree by using the mobile application of [www.jupiter.money](http://www.jupiter.money/). To the extent the www.jupiter.money Privacy Policy conditions are inconsistent with these T&Cs; these T&Cs will prevail with respect to the Challenge only. For the purpose of these T&Cs, wherever the context so requires “You” or “Your” shall mean any natural person who is participating in the Challenge.
+You agree that, by participating in this Challenge, you will be bound by these T&Cs and you acknowledge and agree that you satisfy all Challenge requirements as provided herein below to be eligible for Jewels. These T&Cs are in addition to the www.jupiter.money conditions of Privacy Policy to which you agree by using the mobile application of [www.jupiter.money](http://www.jupiter.money/). To the extent the www.jupiter.money Privacy Policy conditions are inconsistent with these T&Cs; these T&Cs will prevail with respect to the Challenge only. For the purpose of these T&Cs, wherever the context so requires “You” or “Your” shall mean any natural person who is participating in the Challenge.
 
 **DETAILS OF THE CHALLENGE**:
 
-1. You can participate in this Challenge if You are a full KYC user.
-2. This Challenge will have 6 weeks continuous lock-in, to be eligible for Digital Gold worth Rs.250/-, You will have to (a) credit Pot by a minimum amount of INR 1000/- every week for continuous 6 weeks within the Challenge Period; (b) Successfully complete the “**Transactions**” (Transactions are set of actions which will be communicated to the user over email or Jupiter App or through any other communication channel; (c) Transactions performed by the user post opening the account on Jupiter App shall also be considered; (d)  You need to be amongst the top 1000 users.
-3. You understand that there are no Jewels to be credited for the Challenge
-4. Upon successful completion of the Challenge, participants will be selected by such random draw of lots, who will be declared winner and be eligible to claim Digital Gold worth Rs. 250/-
-5. Odds of winning Digital Gold depends on the number of users who successfully completes the Challenge
-6. Winners will be notified by Jupiter through email/push notification and phone call within 15 days from the winner announcement
-7. There are no cash or other prize alternatives available in whole or in part. However, in circumstances beyond Jupiter’s control, Jupiter may substitute a similar alternative prize of equal or greater value at Jupiter sole discretion
-8. Winners of Digital Gold will be credited with Digital Gold to their Jupiter account. Jupiter Digital Gold Terms apply to the winners
-9. FAQs are in addition to these T&C, kindly refer to it.
+1\. Challenge Structure
+
+* **Saving Challenge Metal Edition**
+    * Deposit INR 2,000 per week for 8 weeks amount equivalent to INR 16,000.
+    * Rewards for successful weekly deposits:
+        * 10 Jewels (5J = INR 1) for each successful deposit.
+* **Saving Challenge Wealth Edition**
+    * Deposit minimum INR 5,000 per week for 6 weeks, amount equivalent to INR 30,000.
+    * Rewards for successful weekly deposits:
+        * 10 Jewels (10J = INR 2) for each successful deposit.
+
+2\. Qualifying Criteria for Winning the Challenge
+
+* **Max Number of DC Merchant (Non-ATM) Transactions**: The participant who completes the highest number (volume) of Debit Card (DC) merchant transactions (excluding ATM) during the challenge period (8 weeks) will be eligible for the rewards as outlined below.
+
+3\. Rewards Structure
+
+* **Metal Edition**
+    * **Top 11 Users:** Will receive a **Metal Debit Card.**
+    * **Next 51 Users:** Will receive an **Amazon INR 200 Voucher.**
+* **Wealth Edition**
+    * **Top 15 Users:** Will be invited to a special **Virtual Masterclass** on managing investments.
+    * **Next 11 Users:** Will receive a **Metal Debit Card.**
+
+4\. Timelines
+
+* **Metal Edition**
+    * **Challenge Start Date: 18th Nov 2024.**
+    * **No New Users:** New users will not be allowed to join after **2nd December 2024.**
+    * **Challenge End Date: 31st January, 2025**
+    * **Winners Announcement & Rewards Distribution: February 2025.**
+* **Wealth Edition**
+    * **Challenge Start Date:** To be announced
+    * **No New Users:** New users will not be allowed to join after XX / XX/ XX (To be announced)
+    * **Challenge End Date:** To be announced
+    * **Winners Announcement & Rewards Distribution:** To be announced
+
+5\. Exclusions
+
+* Users who are classified as **dormant**, or are in **Redo-VKYC** or **Re-KYC** segments are **excluded** from participating in the challenge.
+
+6\. General Terms
+
+* You can participate in this Challenge if You are a full KYC user.
+* **Jewels and Reward Points**: Jewels are credited to participants' accounts upon successful weekly deposits, and can be redeemed as per the terms outlined above.
+* **Non-transferability of Rewards**: Rewards are non-transferable and non-exchangeable for cash.
+* **KYC Compliance**: All participants must comply with the KYC requirements in order to be eligible for the challenge and to redeem the rewards.
+* **Modification and Cancellation**: The organizer reserves the right to modify, cancel, or extend the challenge at any time without prior notice.
+* **Liability**: The organizer is not liable for any technical issues or delays that may affect the participant's ability to earn rewards or complete the challenge.
+* **Governing Law**: The terms and conditions are governed by the laws of India, and any disputes will be subject to the exclusive jurisdiction of Indian courts.
+* Winners will be notified by Jupiter through email/push notification and phone call within 15 days from the winner announcement
+* There are no cash or other prize alternatives available in whole or in part. However, in circumstances beyond Jupiter’s control, Jupiter may substitute a similar alternative prize of equal or greater value at Jupiter sole discretion
+* FAQs are in addition to these T&C, kindly refer to it.
 
 **ADDITIONAL TERMS**:
 
@@ -1099,7 +1143,7 @@ You agree that, by participating in this Challenge, you will be bound by these T
 2. Jupiter may, in its sole discretion, disqualify any user found to be tampering with the Challenge or Jupiter application without specifying the reason or intimating the user
 3. Jupiter shall not be liable for any delay or adverse effect caused to You as a result of a force majeure event
 4. This Challenge is being made purely on a best effort basis and participating in this Challenge is voluntary.
-5. Jupiter shall have sole discretion in changing the amount of Digital Gold a winner could earn at any time before the end of the Challenge
+5. Jupiter shall have sole discretion in changing the amount of Jewels and Rewards a winner could earn at any time before the end of the Challenge
 6. These Offer Terms are governed by the laws of India and the courts at Mumbai will have exclusive jurisdiction over any matters/disputes arising out of or concerning these Terms.  
     
 
