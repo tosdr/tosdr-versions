@@ -52,7 +52,7 @@
     
 
 * [Community](https://community.oppo.com/)
-* [ColorOS](https://www.oppo.com/uk/coloros14/)
+* [ColorOS](https://www.oppo.com/uk/coloros15/)
 * [Shop Now](https://www.oppo.com/uk/online-store/)
 * [Support](https://support.oppo.com/uk/)
 
@@ -178,7 +178,7 @@ Quick Links
     
 
 * [Community](https://community.oppo.com/)
-* [ColorOS](https://www.oppo.com/uk/coloros14/)
+* [ColorOS](https://www.oppo.com/uk/coloros15/)
 * [Shop Now](https://www.oppo.com/uk/online-store/)
 * [Support](https://support.oppo.com/uk/)
 
