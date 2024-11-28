@@ -17,7 +17,7 @@ Cookie policy
 
 Last updated on: 15 December 2023
 
-Hello! Welcome to the Virgin.com website. The Virgin.com website, including Virgin ID and the section of the website relating to the Virgin Red programme (together this is what we mean when we say **Website**), is run by us – Virgin Red Limited. If you're curious, our company details are: Virgin Red Limited, 66 Porchester Road, London, W2 6ET. Our company number is 11490861, and our VAT number is (GB) 425216184.   
+Hello! Welcome to the Virgin.com website. The Virgin.com website, including Virgin ID and the section of the website relating to the Virgin Red programme (together this is what we mean when we say **Website**), is run by us – Virgin Red Limited. If you're curious, our company details are: Virgin Red Limited, Whitfield Studios, 50A Charlotte Street, London W1T 2NS. Our company number is 11490861, and our VAT number is (GB) 425216184.   
 
 This Cookie Policy applies to your use of the Website, your Virgin ID (if you have one, that is), and, if you are a member of Virgin Red, the Virgin Red app. Take a look at the [**Virgin Red Limited Privacy Policy**](https://www.virgin.com/virgin-red/privacy-policy) if you want more information about how the Virgin Red app uses cookies. 
 
