@@ -1,4 +1,4 @@
-[Log in](https://app.pandadoc.com/login/?lng=en-US) [Help center](https://support.pandadoc.com/hc/en-us) English (United States) Nederlands (Nederland) Français (France) Polski (Polska) Español (España) Deutsch (Deutschland) Svenska (Sverige) Português (Portugal) English (United States)
+[Log in](https://app.pandadoc.com/login/?lng=en-US) [Help center](https://support.pandadoc.com/en/) English (United States) Nederlands (Nederland) Français (France) Polski (Polska) Español (España) Deutsch (Deutschland) Svenska (Sverige) Português (Portugal) English (United States)
 
 English (United States) Nederlands (Nederland) Français (France) Polski (Polska) Español (España) Deutsch (Deutschland) Svenska (Sverige) Português (Portugal) English (United States)
 
@@ -153,7 +153,7 @@ English (United States) Nederlands (Nederland) Français (France) Polski (Polska
         
     * Support
         
-        * [Help center](https://support.pandadoc.com/hc/en-us/)
+        * [Help center](https://support.pandadoc.com/en/)
         * [Contact us](https://www.pandadoc.com/contact/)
         * [Onboarding services](https://www.pandadoc.com/customer-experience/onboarding/)
         * [Professional services](https://www.pandadoc.com/customer-experience/services/)
