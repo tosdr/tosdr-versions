@@ -29,17 +29,17 @@ Version All 1.21.3 1.21.2 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 
 
 Active Servers
 
-[![TerminaMC](plugins/MineCraft/icons/25x25xTerminaMC_1732760306.png.pagespeed.ic.0Ovp_WT-FD.jpg)
+[![Crackex_Network](plugins/MineCraft/icons/25x25xCrackex_Network_1719945700.png.pagespeed.ic.5lGRZnbn0U.jpg)
 
-Termina - Towny Raiding (War) (SMP) \[Crossplay\]](https://minecraft-server.net/details/TerminaMC/ "Termina - Towny Raiding (War) (SMP) [Crossplay]")[![ArcanePixels](plugins/MineCraft/icons/25x25xArcanePixels_1732670654.png.pagespeed.ic.pOweCOa3tD.png)
+BEST SURVIVAL • CrackexMc](https://minecraft-server.net/details/Crackex_Network/ "BEST SURVIVAL • CrackexMc")[![HardcoreAnarchy](plugins/MineCraft/icons/25x25xHardcoreAnarchy_1723313227.png.pagespeed.ic.BxBvHn1f9s.png)
 
-ArcanePixels](https://minecraft-server.net/details/ArcanePixels/ "ArcanePixels")[![menacecraft](plugins/MineCraft/icons/25x25xmenacecraft_1652138567.png.pagespeed.ic.HfOnkxYpBG.png)
+Hardcore Anarchy](https://minecraft-server.net/details/HardcoreAnarchy/ "Hardcore Anarchy")[![mcprison](plugins/MineCraft/icons/25x25xmcprison_1732687836.png.pagespeed.ic.0wYsTOy-Nc.png)
 
-Menacecraft Survival Server \[Java and Bedrock\]](https://minecraft-server.net/details/menacecraft/ "Menacecraft Survival Server [Java and Bedrock]")[![HardcoreAnarchy](plugins/MineCraft/icons/25x25xHardcoreAnarchy_1723313227.png.pagespeed.ic.BxBvHn1f9s.png)
+STAFF NEEDED - PURPLE PRISON](https://minecraft-server.net/details/mcprison/ "STAFF NEEDED - PURPLE PRISON")[![Folas1337](plugins/MineCraft/icons/Folas1337_1706960544.png)
 
-Hardcore Anarchy](https://minecraft-server.net/details/HardcoreAnarchy/ "Hardcore Anarchy")[![MCVerseCity](plugins/MineCraft/icons/25x25xMCVerseCity_1700330564.png.pagespeed.ic.k89VlBgKKa.jpg)
+~~ MetaUnion ~~ \[Friendly Community, No Pay2Win, RPG Survival, Creative\]](https://minecraft-server.net/details/Folas1337/ "~~ MetaUnion ~~ [Friendly Community, No Pay2Win, RPG Survival, Creative]")[![SkyblockAnarchy](plugins/MineCraft/icons/25x25xSkyblockAnarchy_1680402377.png.pagespeed.ic.VilkXiVJ71.jpg)
 
-1.21.1 Vanilla+ NoGrief](https://minecraft-server.net/details/MCVerseCity/ "1.21.1 Vanilla+ NoGrief")
+Skyblock Anarchy](https://minecraft-server.net/details/SkyblockAnarchy/ "Skyblock Anarchy")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Refund
@@ -116,4 +116,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.07047 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.0762 - Created by [Debaucus](https://debauc.us/)
