@@ -134,104 +134,104 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![MatheusDosCompuiters](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256963.thumb.png.dd98adb2e4a5feaf1f01b5bfa3f6e31c.png)](https://www.clubedohardware.com.br/profile/1256963-matheusdoscompuiters/ "Ir ao perfil de MatheusDosCompuiters")
+    * [![gustavoomt](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%236295c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EG%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1007856-gustavoomt/ "Ir ao perfil de gustavoomt")
         
         0
         
-        [Qual placa-mãe e processador escolher](https://www.clubedohardware.com.br/forums/topic/1703646-qual-placa-m%C3%A3e-e-processador-escolher/?do=getNewComment "Qual placa-mãe e processador escolher")
+        [audio extremamente baixo em qualquer situacao](https://www.clubedohardware.com.br/forums/topic/1703698-audio-extremamente-baixo-em-qualquer-situacao/?do=getNewComment "audio extremamente baixo em qualquer situacao")
         
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [MatheusDosCompuiters](https://www.clubedohardware.com.br/profile/1256963-matheusdoscompuiters/ "Ir ao perfil de MatheusDosCompuiters")  
-        1 minuto atrás
+        [Windows 10](https://www.clubedohardware.com.br/forums/forum/249-windows-10/ "Windows 10")  
+        Por [gustavoomt](https://www.clubedohardware.com.br/profile/1007856-gustavoomt/ "Ir ao perfil de gustavoomt")  
+        17 minutos atrás
         
-    * [![Goudardu](https://www.clubedohardware.com.br/uploads/members/monthly_2020_04/kisspng-pixel-art-animated-film-ghost-5aff57d160d565.9271319115266836013966.thumb.jpg.3c4931b5b72a3e892639651e83a326e6.jpg)](https://www.clubedohardware.com.br/profile/1086048-goudardu/ "Ir ao perfil de Goudardu")
-        
-        0
-        
-        [Sony WEGA 21 (KV-21FS150) tá com a imagem completamente desalhinada e torta](https://www.clubedohardware.com.br/forums/topic/1703645-sony-wega-21-kv-21fs150-t%C3%A1-com-a-imagem-completamente-desalhinada-e-torta/?do=getNewComment "Sony WEGA 21 (KV-21FS150) tá com a imagem completamente desalhinada e torta")
-        
-        [Televisores e projetores](https://www.clubedohardware.com.br/forums/forum/193-televisores-e-projetores/ "Televisores e projetores")  
-        Por [Goudardu](https://www.clubedohardware.com.br/profile/1086048-goudardu/ "Ir ao perfil de Goudardu")  
-        18 minutos atrás
-        
-    * [![anibal69](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23628ec4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1256961-anibal69/ "Ir ao perfil de anibal69")
-        
-        1
-        
-        [x99 8mf com RX 6650 XT](https://www.clubedohardware.com.br/forums/topic/1703644-x99-8mf-com-rx-6650-xt/?do=getNewComment "x99 8mf com RX 6650 XT")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [anibal69](https://www.clubedohardware.com.br/profile/1256961-anibal69/ "Ir ao perfil de anibal69")  
-        19 minutos atrás
-        
-    * [![Lactobacilos](https://www.clubedohardware.com.br/uploads/members/monthly_2022_09/1060365459_Capturadetela2022-09-22125925.thumb.png.9e2f9d3595d1a4a7ede81894b4aad7bd.png)](https://www.clubedohardware.com.br/profile/657181-lactobacilos/ "Ir ao perfil de Lactobacilos")
+    * [![victorquinalia](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256878.thumb.png.a2e86a915eaba8d08057a1e458ef8d31.png)](https://www.clubedohardware.com.br/profile/1256878-victorquinalia/ "Ir ao perfil de victorquinalia")
         
         0
         
-        [Recomendação de memória RAM DDR5 para Ryzen 5 7600](https://www.clubedohardware.com.br/forums/topic/1703643-recomenda%C3%A7%C3%A3o-de-mem%C3%B3ria-ram-ddr5-para-ryzen-5-7600/?do=getNewComment "Recomendação de memória RAM DDR5 para Ryzen 5 7600")
+        [RTX 4060 Ti 8 Gb GALAX vs GYGABYTE vs INNO3D](https://www.clubedohardware.com.br/forums/topic/1703697-rtx-4060-ti-8-gb-galax-vs-gygabyte-vs-inno3d/?do=getNewComment "RTX 4060 Ti 8 Gb GALAX vs GYGABYTE vs INNO3D")
         
-        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
-        Por [Lactobacilos](https://www.clubedohardware.com.br/profile/657181-lactobacilos/ "Ir ao perfil de Lactobacilos")  
-        34 minutos atrás
-        
-    * [![fyvinicius](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256957.thumb.png.0e1c63cefd26f5116cfe8cfadfaaaa6a.png)](https://www.clubedohardware.com.br/profile/1256957-fyvinicius/ "Ir ao perfil de fyvinicius")
-        
-        5
-        
-        [recomendação de fonte para esse config](https://www.clubedohardware.com.br/forums/topic/1703642-recomenda%C3%A7%C3%A3o-de-fonte-para-esse-config/?do=getNewComment "recomendação de fonte para esse config")
-        
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [fyvinicius](https://www.clubedohardware.com.br/profile/1256957-fyvinicius/ "Ir ao perfil de fyvinicius")  
-        42 minutos atrás
-        
-    * [![italo__106](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256956.thumb.jpeg.696a8f9c7cdfc02cc35dd3858754a7ca.jpeg)](https://www.clubedohardware.com.br/profile/1256956-italo__106/ "Ir ao perfil de italo__106")
-        
-        1
-        
-        [o email da minha namorada foi hackeado, tenho o IMEI do cara](https://www.clubedohardware.com.br/forums/topic/1703641-o-email-da-minha-namorada-foi-hackeado-tenho-o-imei-do-cara/?do=getNewComment "o email da minha namorada foi hackeado, tenho o IMEI do cara")
-        
-        [Vírus, malware, invasões e afins](https://www.clubedohardware.com.br/forums/forum/88-v%C3%ADrus-malware-invas%C3%B5es-e-afins/ "Vírus, malware, invasões e afins")  
-        Por [italo\_\_106](https://www.clubedohardware.com.br/profile/1256956-italo__106/ "Ir ao perfil de italo__106")  
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [victorquinalia](https://www.clubedohardware.com.br/profile/1256878-victorquinalia/ "Ir ao perfil de victorquinalia")  
         48 minutos atrás
         
-    * [![João Pedro Carneiro](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23abc462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EJP%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/924902-jo%C3%A3o-pedro-carneiro/ "Ir ao perfil de João Pedro Carneiro")
+    * [![Décio dos Santos](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23a262c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EDS%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/890868-d%C3%A9cio-dos-santos/ "Ir ao perfil de Décio dos Santos")
+        
+        1
+        
+        [Rocomendação de SSD sata 4tb pra usar pra armazenamento de arquivos no notebook](https://www.clubedohardware.com.br/forums/topic/1703696-rocomenda%C3%A7%C3%A3o-de-ssd-sata-4tb-pra-usar-pra-armazenamento-de-arquivos-no-notebook/?do=getNewComment "Rocomendação de SSD sata 4tb pra usar pra armazenamento de arquivos no notebook")
+        
+        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
+        Por [Décio dos Santos](https://www.clubedohardware.com.br/profile/890868-d%C3%A9cio-dos-santos/ "Ir ao perfil de Décio dos Santos")  
+        52 minutos atrás
+        
+    * [![koushiroz](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256982.thumb.png.e52651c2d4b93daa26593dc6fce797d1.png)](https://www.clubedohardware.com.br/profile/1256982-koushiroz/ "Ir ao perfil de koushiroz")
+        
+        1
+        
+        [Processador i5 ou i7 e placa-mãe](https://www.clubedohardware.com.br/forums/topic/1703695-processador-i5-ou-i7-e-placa-m%C3%A3e/?do=getNewComment "Processador i5 ou i7 e placa-mãe")
+        
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [koushiroz](https://www.clubedohardware.com.br/profile/1256982-koushiroz/ "Ir ao perfil de koushiroz")  
+        1 hora atrás
+        
+    * [![SaraGamerxdxdxd](https://www.clubedohardware.com.br/uploads/members/monthly_2024_01/imported-photo-1229626.thumb.jpeg.dc0e890f549b9458007f6ff6d5489451.jpeg)](https://www.clubedohardware.com.br/profile/1229626-saragamerxdxdxd/ "Ir ao perfil de SaraGamerxdxdxd")
+        
+        0
+        
+        [Qual fonte é melhor para Ryzen 7 5700x3d com RTX 4070](https://www.clubedohardware.com.br/forums/topic/1703694-qual-fonte-%C3%A9-melhor-para-ryzen-7-5700x3d-com-rtx-4070/?do=getNewComment "Qual fonte é melhor para Ryzen 7 5700x3d com RTX 4070")
+        
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [SaraGamerxdxdxd](https://www.clubedohardware.com.br/profile/1229626-saragamerxdxdxd/ "Ir ao perfil de SaraGamerxdxdxd")  
+        1 hora atrás
+        
+    * [![carlos daniel gomes de sa](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256981.thumb.png.797ca5c3e4e7f66ecb6bd325704ff253.png)](https://www.clubedohardware.com.br/profile/1256981-carlos-daniel-gomes-de-sa/ "Ir ao perfil de carlos daniel gomes de sa")
+        
+        0
+        
+        Outro [preciso fazer esse circuito, so que estou com dificuldade na memória RAM](https://www.clubedohardware.com.br/forums/topic/1703693-preciso-fazer-esse-circuito-so-que-estou-com-dificuldade-na-mem%C3%B3ria-ram/?do=getNewComment "preciso fazer esse circuito, so que estou com dificuldade na memória RAM")
+        
+        [Microcontroladores](https://www.clubedohardware.com.br/forums/forum/217-microcontroladores/ "Microcontroladores")  
+        Por [carlos daniel gomes de sa](https://www.clubedohardware.com.br/profile/1256981-carlos-daniel-gomes-de-sa/ "Ir ao perfil de carlos daniel gomes de sa")  
+        1 hora atrás
+        
+    * [![GabrielGN](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c4a7%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EG%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/850087-gabrielgn/ "Ir ao perfil de GabrielGN")
+        
+        0
+        
+        [Defeito LED Monitor Superframe](https://www.clubedohardware.com.br/forums/topic/1703692-defeito-led-monitor-superframe/?do=getNewComment "Defeito LED Monitor Superframe")
+        
+        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
+        Por [GabrielGN](https://www.clubedohardware.com.br/profile/850087-gabrielgn/ "Ir ao perfil de GabrielGN")  
+        1 hora atrás
+        
+    * [![Mascote01](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255646.thumb.png.820336c43536551e35326f3f8300400f.png)](https://www.clubedohardware.com.br/profile/1255646-mascote01/ "Ir ao perfil de Mascote01")
         
         3
         
-        [Recomendações de fonte para Ryzen 5 4600G e GeForce RTX 4060Ti](https://www.clubedohardware.com.br/forums/topic/1703640-recomenda%C3%A7%C3%B5es-de-fonte-para-ryzen-5-4600g-e-geforce-rtx-4060ti/?do=getNewComment "Recomendações de fonte para Ryzen 5 4600G e GeForce RTX 4060Ti")
+        [Hardware PCI desconhecido, não sei para que serve](https://www.clubedohardware.com.br/forums/topic/1703691-hardware-pci-desconhecido-n%C3%A3o-sei-para-que-serve/?do=getNewComment "Hardware PCI desconhecido, não sei para que serve")
         
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [João Pedro Carneiro](https://www.clubedohardware.com.br/profile/924902-jo%C3%A3o-pedro-carneiro/ "Ir ao perfil de João Pedro Carneiro")  
+        [Periféricos - outros](https://www.clubedohardware.com.br/forums/forum/280-perif%C3%A9ricos-outros/ "Periféricos - outros")  
+        Por [Mascote01](https://www.clubedohardware.com.br/profile/1255646-mascote01/ "Ir ao perfil de Mascote01")  
         1 hora atrás
         
-    * [![italo__106](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256956.thumb.jpeg.696a8f9c7cdfc02cc35dd3858754a7ca.jpeg)](https://www.clubedohardware.com.br/profile/1256956-italo__106/ "Ir ao perfil de italo__106")
+    * [![iDrunnkz](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256980.thumb.png.525f97eb712981894ad9cdd30e8f1732.png)](https://www.clubedohardware.com.br/profile/1256980-idrunnkz/ "Ir ao perfil de iDrunnkz")
+        
+        1
+        
+        [PC gamer de até 4k](https://www.clubedohardware.com.br/forums/topic/1703690-pc-gamer-de-at%C3%A9-4k/?do=getNewComment "PC gamer de até 4k")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [iDrunnkz](https://www.clubedohardware.com.br/profile/1256980-idrunnkz/ "Ir ao perfil de iDrunnkz")  
+        1 hora atrás
+        
+    * [![jotalvn](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254543.thumb.png.b759caede046a0e758d139aee89a3e87.png)](https://www.clubedohardware.com.br/profile/1254543-jotalvn/ "Ir ao perfil de jotalvn")
         
         0
         
-        [o email da minha namorada foi hackeado, tenho o IMEI do cara](https://www.clubedohardware.com.br/forums/topic/1703639-o-email-da-minha-namorada-foi-hackeado-tenho-o-imei-do-cara/?do=getNewComment "o email da minha namorada foi hackeado, tenho o IMEI do cara")
+        [placa de Vídeo dando conflito com hertz de monitor alto](https://www.clubedohardware.com.br/forums/topic/1703689-placa-de-v%C3%ADdeo-dando-conflito-com-hertz-de-monitor-alto/?do=getNewComment "placa de Vídeo dando conflito com hertz de monitor alto")
         
-        [Vírus, malware, invasões e afins](https://www.clubedohardware.com.br/forums/forum/88-v%C3%ADrus-malware-invas%C3%B5es-e-afins/ "Vírus, malware, invasões e afins")  
-        Por [italo\_\_106](https://www.clubedohardware.com.br/profile/1256956-italo__106/ "Ir ao perfil de italo__106")  
-        1 hora atrás
-        
-    * [![Mateus Stock](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1247159.thumb.png.991a95208182e50974b6db22d82ec8b5.png)](https://www.clubedohardware.com.br/profile/1247159-mateus-stock/ "Ir ao perfil de Mateus Stock")
-        
-        0
-        
-        [Compra de componentes ARDUINO em SP (25 de março?)](https://www.clubedohardware.com.br/forums/topic/1703638-compra-de-componentes-arduino-em-sp-25-de-mar%C3%A7o/?do=getNewComment "Compra de componentes ARDUINO em SP (25 de março?)")
-        
-        [Recomendações de lojas e serviços](https://www.clubedohardware.com.br/forums/forum/12-recomenda%C3%A7%C3%B5es-de-lojas-e-servi%C3%A7os/ "Recomendações de lojas e serviços")  
-        Por [Mateus Stock](https://www.clubedohardware.com.br/profile/1247159-mateus-stock/ "Ir ao perfil de Mateus Stock")  
-        1 hora atrás
-        
-    * [![fyvinicius](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256957.thumb.png.0e1c63cefd26f5116cfe8cfadfaaaa6a.png)](https://www.clubedohardware.com.br/profile/1256957-fyvinicius/ "Ir ao perfil de fyvinicius")
-        
-        4
-        
-        [eu comprei esse kit xeon e não sei qual cpu cooler funcionaria bem](https://www.clubedohardware.com.br/forums/topic/1703637-eu-comprei-esse-kit-xeon-e-n%C3%A3o-sei-qual-cpu-cooler-funcionaria-bem/?do=getNewComment "eu comprei esse kit xeon e não sei qual cpu cooler funcionaria bem")
-        
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [fyvinicius](https://www.clubedohardware.com.br/profile/1256957-fyvinicius/ "Ir ao perfil de fyvinicius")  
+        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
+        Por [jotalvn](https://www.clubedohardware.com.br/profile/1254543-jotalvn/ "Ir ao perfil de jotalvn")  
         1 hora atrás
         
     
