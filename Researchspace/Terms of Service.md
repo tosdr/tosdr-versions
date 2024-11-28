@@ -162,9 +162,9 @@ Have questions or concerns about RSpace, our Services and privacy? Contact us at
 
 [![](https://cdn.prod.website-files.com/5ffc384cb3a51a7b1c2d57ad/6239f62a33bc35909f6f9a87_rspace_logo_white.svg)](https://www.researchspace.com/)
 
-[![](https://cdn.prod.website-files.com/5ffc384cb3a51a7b1c2d57ad/668bfec151e7417522cb89cd_github_footer.svg)](https://github.com/rspace-os)[![](https://cdn.prod.website-files.com/5ffc384cb3a51a7b1c2d57ad/668bfe44cc750f6b3c190f8f_linkedin_footer.svg)](https://www.linkedin.com/company/researchspace/)[![](https://cdn.prod.website-files.com/5ffc384cb3a51a7b1c2d57ad/62cc1399903d3470e02603a2_iconmonstr-twitter-3.svg)](https://twitter.com/TheConnectedLab)[![](https://cdn.prod.website-files.com/5ffc384cb3a51a7b1c2d57ad/62cc139ae819846cb3c9bf87_iconmonstr-youtube-8.svg)](https://www.youtube.com/c/Researchspace/featured)
+[![](https://cdn.prod.website-files.com/5ffc384cb3a51a7b1c2d57ad/668bfec151e7417522cb89cd_github_footer.svg)](https://github.com/rspace-os)[![](https://cdn.prod.website-files.com/5ffc384cb3a51a7b1c2d57ad/668bfe44cc750f6b3c190f8f_linkedin_footer.svg)](https://www.linkedin.com/company/researchspace/)[![](https://cdn.prod.website-files.com/5ffc384cb3a51a7b1c2d57ad/67488a169dc36c27cce785a9_bluesky.svg)](https://bsky.app/profile/researchspace.com)[![](https://cdn.prod.website-files.com/5ffc384cb3a51a7b1c2d57ad/62cc1399903d3470e02603a2_iconmonstr-twitter-3.svg)](https://twitter.com/TheConnectedLab)[![](https://cdn.prod.website-files.com/5ffc384cb3a51a7b1c2d57ad/62cc139ae819846cb3c9bf87_iconmonstr-youtube-8.svg)](https://www.youtube.com/c/Researchspace/featured)
 
-[![](https://cdn.prod.website-files.com/5ffc384cb3a51a7b1c2d57ad/6470abbec22911c855a839a2_SOC_cert.svg)
+[![](https://cdn.prod.website-files.com/5ffc384cb3a51a7b1c2d57ad/674887c322ef85cce0f8abb1_soc_2.svg)
 
 SOC2 Certified](https://www.aicpa-cima.com/resources/download/get-description-criteria-for-your-organizations-soc-2-r-report)[![](https://cdn.prod.website-files.com/5ffc384cb3a51a7b1c2d57ad/65b29919af2367156be688a7_ISO_IEC%2027001_2022.png)
 
