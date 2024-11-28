@@ -328,6 +328,12 @@ Country/region specific Privacy Notices
 
 [**USA**](https://atos.net/en-na/your-us-state-privacy-rights)
 
+### Asia Pacific
+
+![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+[**Japan**](https://atos.net/en/privacy-notice-for-japan)
+
 ### Europe
 
 ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
