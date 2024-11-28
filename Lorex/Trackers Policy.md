@@ -62,7 +62,9 @@ triangle borderless
     
     [![](//www.lorex.com/cdn/shop/collections/wifiCameras2_80x.png?v=1717609137)
     
-    Shop All Wireless Security Solutions](https://www.lorex.com/collections/wireless-security-solutions)[![](//www.lorex.com/cdn/shop/collections/Wi-FI-cameras-L1_80x.png?v=1727730105)
+    Shop All Wireless Security Solutions](https://www.lorex.com/collections/wireless-security-solutions)[![](//www.lorex.com/cdn/shop/collections/cloudpromo-subbanner_80x.jpg?v=1732805610)
+    
+    Cloud Storage Cameras](https://www.lorex.com/collections/cloud-storage-cameras)[![](//www.lorex.com/cdn/shop/collections/Wi-FI-cameras-L1_80x.png?v=1727730105)
     
     Wireless (Wi-Fi) Cameras](https://www.lorex.com/collections/wi-fi-security-cameras)[![](//www.lorex.com/cdn/shop/collections/B451AJ-L2_e9ccaa52-5294-4423-81cd-e3ead363321a_80x.png?v=1693511092)
     
@@ -106,6 +108,22 @@ triangle borderless
     
     Wi-Fi Chimebox](https://www.lorex.com/products/acchm2-add-on-wi-fi-chime-for-lorex-video-doorbells)
     
+    Cloud Storage Cameras arrow bottom
+    
+    [![](//www.lorex.com/cdn/shop/collections/cloudpromo-subbanner_80x.jpg?v=1732805610)
+    
+    Shop All Cloud Storage Cameras](https://www.lorex.com/collections/cloud-storage-cameras)[![](//www.lorex.com/cdn/shop/files/5b2b2236024034a518824ed79505bccc99a3057486fe0d2aeb61f0ef8ac94bf4_80x.png?v=1728306704)
+    
+    Lorex 4K Spotlight Battery Wi-Fi Security Camera](https://www.lorex.com/products/f861asd-4k-spotlight-battery-camera)[![](//www.lorex.com/cdn/shop/files/305b780dd882e1b0e7824a8bb3a3605817e847f0b5fb926cc84dfdf430f8fef4_80x.png?v=1708104429)
+    
+    4K Wi-Fi Video Doorbell (Wired)](https://www.lorex.com/products/b862-lorex-4k-wired-video-doorbell)[![](//www.lorex.com/cdn/shop/files/3604e16180a2ff56d73f1f38a9c8c135b194d3a95376f418e369b455a0ec49aa_2fc2a36d-42a6-46eb-8fd3-9d48101908ef_80x.webp?v=1715781069)
+    
+    4K Spotlight Outdoor Wi-Fi 6 Security Camera with Smart Security Lighting](https://www.lorex.com/products/w881aad-4k-spotlight-indoor-outdoor-wi-fi-security-camera)[![](//www.lorex.com/cdn/shop/files/799d6e3eb1fec1e8cd76ddb07c803269cb58ac165da412c540d84831b92027de_d792bf02-3059-4644-b239-11a1d9f88370_80x.png?v=1719407178)
+    
+    2K Wi-Fi Floodlight Security Camera](https://www.lorex.com/products/2k-floodlight-camera)[![](//www.lorex.com/cdn/shop/files/b21d0bb40c960e440fb7dbf165f60e03598cde1a48a59f433315b32846f6f73a_80x.png?v=1706798337)
+    
+    2K Spotlight Outdoor Wi-Fi Security Camera](https://www.lorex.com/products/w482cad-e-2k-spotlight-indoor-outdoor-wifi-camera)
+    
     Other Security Solutions arrow bottom
     
     [![](//www.lorex.com/cdn/shop/collections/LK100-L2_528cde37-6f82-4bec-9b09-ddecb6ba434a_80x.png?v=1708627639)
@@ -117,8 +135,6 @@ triangle borderless
     [Lorex Solutions Finder](https://www.lorex.com/pages/solutions-finder)
     
     [Custom Bundle Builder](https://www.lorex.com/pages/bundle-builder)
-    
-    [Lorex Cloud Storage](https://www.lorex.com/pages/lorex-cloud-subscriptions?utm_source=navigation_banner&utm_campaign=cloud_storage)
     
 * [Lorex Cloud Storage](https://www.lorex.com/pages/lorex-cloud-subscriptions?utm_source=main_menu&utm_campaign=cloud_storage)
 * Deals arrow right
@@ -205,6 +221,7 @@ arrow left Back
 arrow left Back
 
 * [Wireless Security Solutions](https://www.lorex.com/collections/wireless-security-solutions)
+* [Cloud Storage Cameras](https://www.lorex.com/collections/cloud-storage-cameras)
 * [Wireless (Wi-Fi) Cameras](https://www.lorex.com/collections/wi-fi-security-cameras)
 * [Video Doorbells](https://www.lorex.com/collections/doorbells)
 * [Floodlight Cameras](https://www.lorex.com/collections/floodlights)
@@ -228,6 +245,15 @@ arrow left Back
 * [4K Wired Video Doorbell (Wired, 32GB)](https://www.lorex.com/products/b862-lorex-4k-wired-video-doorbell)
 * [4K Battery Video Doorbell (64GB)](https://www.lorex.com/products/b861-4k-battery-doorbell)
 * [Wi-Fi Chimebox](https://www.lorex.com/products/acchm2-add-on-wi-fi-chime-for-lorex-video-doorbells)
+
+arrow left Back
+
+* [Cloud Storage Cameras](https://www.lorex.com/collections/cloud-storage-cameras)
+* [Lorex 4K Spotlight Battery Wi-Fi Security Camera](https://www.lorex.com/products/f861asd-4k-spotlight-battery-camera)
+* [4K Wi-Fi Video Doorbell (Wired)](https://www.lorex.com/products/b862-lorex-4k-wired-video-doorbell)
+* [4K Spotlight Outdoor Wi-Fi 6 Security Camera with Smart Security Lighting](https://www.lorex.com/products/w881aad-4k-spotlight-indoor-outdoor-wi-fi-security-camera)
+* [2K Wi-Fi Floodlight Security Camera](https://www.lorex.com/products/2k-floodlight-camera)
+* [2K Spotlight Outdoor Wi-Fi Security Camera](https://www.lorex.com/products/w482cad-e-2k-spotlight-indoor-outdoor-wifi-camera)
 
 arrow left Back
 
@@ -339,10 +365,11 @@ Your cart is empty
     * [Wireless Security Solutions](https://www.lorex.com/collections/wireless-security-solutions)
     * [Fusion Security Solutions](https://www.lorex.com/collections/the-fusion-collection)
     * [Video Doorbells](https://www.lorex.com/collections/doorbells)
+    * [Cloud Storage Cameras](https://www.lorex.com/collections/cloud-storage-cameras)
     * [Other Security Solutions](https://www.lorex.com/collections/other-security-solutions)
     * [Lorex Solutions Finder](https://www.lorex.com/pages/solutions-finder)
     * [Custom Bundle Builder](https://www.lorex.com/pages/bundle-builder)
-    * [Lorex Cloud Storage](https://www.lorex.com/pages/lorex-cloud-subscriptions?utm_source=navigation_banner&utm_campaign=cloud_storage)
+    * [](https://www.lorex.com/pages/lorex-cloud-subscriptions?utm_source=navigation_banner&utm_campaign=cloud_storage)
     
     [![](//www.lorex.com/cdn/shop/files/682704073010e4486a23079b906d343454a1dc3b1d8a664c7a9f15e644db1aef_x150.png?v=1718650384)
     
@@ -421,6 +448,18 @@ Your cart is empty
     * [Power Adapters](https://www.lorex.com/collections/power-adapters)
     
     [**Shop All >**](https://www.lorex.com/collections/accessories-security-system)
+    
+    [![](//www.lorex.com/cdn/shop/collections/cloudpromo-subbanner_x150.jpg?v=1732805610)
+    
+    Cloud Storage Cameras
+    
+    Secure your footage with 30 Days of cloud storage, even if your camera is offline.](https://www.lorex.com/collections/cloud-storage-cameras)
+    
+    * [4K Spotlight Battery Securi...](https://www.lorex.com/products/f861asd-4k-spotlight-battery-camera)
+    * [4K Spotlight /Outdoor 6 Sec...](https://www.lorex.com/products/w881aad-4k-spotlight-indoor-outdoor-wi-fi-security-camera)
+    * [2K Floodlight Security Came...](https://www.lorex.com/products/2k-floodlight-camera)
+    
+    [**Shop All >**](https://www.lorex.com/collections/cloud-storage-cameras)
     
     [![](//www.lorex.com/cdn/shop/collections/Wi-FI-cameras-L1_x150.png?v=1727730105)
     
@@ -536,6 +575,26 @@ Your cart is empty
     
     Wi-Fi Chimebox](https://www.lorex.com/products/acchm2-add-on-wi-fi-chime-for-lorex-video-doorbells)
     
+    [![](//www.lorex.com/cdn/shop/files/5b2b2236024034a518824ed79505bccc99a3057486fe0d2aeb61f0ef8ac94bf4_x150.png?v=1728306704)
+    
+    Lorex 4K Spotlight Battery Wi-Fi Security Camera](https://www.lorex.com/products/f861asd-4k-spotlight-battery-camera)
+    
+    [![](//www.lorex.com/cdn/shop/files/305b780dd882e1b0e7824a8bb3a3605817e847f0b5fb926cc84dfdf430f8fef4_x150.png?v=1708104429)
+    
+    4K Wi-Fi Video Doorbell (Wired)](https://www.lorex.com/products/b862-lorex-4k-wired-video-doorbell)
+    
+    [![](//www.lorex.com/cdn/shop/files/3604e16180a2ff56d73f1f38a9c8c135b194d3a95376f418e369b455a0ec49aa_2fc2a36d-42a6-46eb-8fd3-9d48101908ef_x150.webp?v=1715781069)
+    
+    4K Spotlight Outdoor Wi-Fi 6 Security Camera with Smart Security Lighting](https://www.lorex.com/products/w881aad-4k-spotlight-indoor-outdoor-wi-fi-security-camera)
+    
+    [![](//www.lorex.com/cdn/shop/files/799d6e3eb1fec1e8cd76ddb07c803269cb58ac165da412c540d84831b92027de_d792bf02-3059-4644-b239-11a1d9f88370_x150.png?v=1719407178)
+    
+    2K Wi-Fi Floodlight Security Camera](https://www.lorex.com/products/2k-floodlight-camera)
+    
+    [![](//www.lorex.com/cdn/shop/files/b21d0bb40c960e440fb7dbf165f60e03598cde1a48a59f433315b32846f6f73a_x150.png?v=1706798337)
+    
+    2K Spotlight Outdoor Wi-Fi Security Camera](https://www.lorex.com/products/w482cad-e-2k-spotlight-indoor-outdoor-wifi-camera)
+    
     [![](//www.lorex.com/cdn/shop/files/4182405c6737dba05ed8d72ac1dba38cfc283d0bbf8ed3322b047203aca3c646_x150.png?v=1699310476)
     
     Portable Thermal Monocular Camera](https://www.lorex.com/products/thermal-monocular-camera)
@@ -547,8 +606,6 @@ Your cart is empty
     Customize your security solution based on your needs.
     
     [](https://www.lorex.com/pages/bundle-builder)
-    
-    Lorex Cloud Storage is a safer place for your footage, providing double protection and back-up for your recordings.
     
     [](https://www.lorex.com/pages/lorex-cloud-subscriptions?utm_source=navigation_banner&utm_campaign=cloud_storage)
     
