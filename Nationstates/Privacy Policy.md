@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [What's AN HOI4 Kaiserreich ideology? (30)](https://forum.nationstates.net/viewtopic.php?t=557932&f=25&view=unread#unread ""What's AN HOI4 Kaiserreich ideology?" (30 posts)")
-* [Stereotypes of AN? (116)](https://forum.nationstates.net/viewtopic.php?t=558227&f=25&view=unread#unread ""Stereotypes of AN?" (116 posts)")
-* [Based on the Flag, which Hoi4 Kaiserr… (728)](https://forum.nationstates.net/viewtopic.php?t=544426&f=25&view=unread#unread ""Based on the Flag, which Hoi4 Kaiserreich ideology AN is?" (728 posts)")
-* [\[DRAFT\] Commend Vylixan (12)](https://forum.nationstates.net/viewtopic.php?t=558880&f=24&view=unread#unread ""[DRAFT] Commend Vylixan" (12 posts)")
-* [F7 Clickbait (317)](https://forum.nationstates.net/viewtopic.php?t=556479&f=25&view=unread#unread ""F7 Clickbait" (317 posts)")
+* [The Western Wire \[Regional News\] (303)](https://forum.nationstates.net/viewtopic.php?t=154407&f=4&view=unread#unread ""The Western Wire [Regional News]" (303 posts)")
+* [Out of the 2 AN’s: Which one has the… (4,784)](https://forum.nationstates.net/viewtopic.php?t=552240&f=25&view=unread#unread ""Out of the 2 AN’s: Which one has the better flag? VIII" (4,784 posts)")
+* [Grant AN's wish then curse it (1,309)](https://forum.nationstates.net/viewtopic.php?t=555678&f=25&view=unread#unread ""Grant AN's wish then curse it" (1,309 posts)")
+* [Does Your Nation Support? (8,745)](https://forum.nationstates.net/viewtopic.php?t=524926&f=25&view=unread#unread ""Does Your Nation Support?" (8,745 posts)")
+* [Do YN's citizens want to go to war wi… (216)](https://forum.nationstates.net/viewtopic.php?t=556966&f=25&view=unread#unread ""Do YN's citizens want to go to war with AN?" (216 posts)")
 
 Advertisement
 
