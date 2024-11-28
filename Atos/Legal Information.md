@@ -19,7 +19,7 @@ Necessary cookies
 -----------------
 
 These are essential for the user navigation and allow to give access to certain functionalities such as secured zones accesses. Without these cookies, it won’t be possible to provide the service.  
-[Matomo](https://matomo.org/privacy-policy/)
+[Matomo privacy policy](https://matomo.org/privacy-policy/)
 
 Toggle Marketing
 
@@ -27,7 +27,7 @@ Marketing cookies
 -----------------
 
 These cookies are used to deliver advertisements more relevant for you, limit the number of times you see an advertisement; help measure the effectiveness of the advertising campaign; and understand people’s behavior after they view an advertisement.  
-[Adobe Privacy policy](https://www.adobe.com/privacy/policy.html) | [Marketo Privacy Policy](https://documents.marketo.com/legal/cookies/) | [Pardot Privacy Policy](https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/misc/pardot-security-privacy-and-architecture.pdf) | [Oktopost Privacy Policy](https://www.oktopost.com/privacy) | [MRP Privacy Policy](https://www.mrpfd.com/privacy-policy/) | [AccountInsight Privacy Policy](https://www.accountinsight.ai/privacy-policy/) | [Triblio Privacy Policy](https://triblio.com/privacy-policy/)
+[Adobe Privacy policy](https://www.adobe.com/privacy/policy.html) | [Marketo Privacy Policy](https://documents.marketo.com/legal/cookies/) | [Pardot Privacy Policy](https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/misc/pardot-security-privacy-and-architecture.pdf) | [Oktopost Privacy Policy](https://www.oktopost.com/privacy) | [AccountInsight Privacy Policy](https://www.accountinsight.ai/privacy-policy/) | [Triblio Privacy Policy](https://triblio.com/privacy-policy/)
 
 Toggle Social Media
 
