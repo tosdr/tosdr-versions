@@ -70,6 +70,12 @@ Latest news
 
 [All articles](https://www.aenetworks.tv/news)
 
+    [![Gary Sokolov in Auschwitz Birkenau](/s3/files/styles/card_tablet/public/2024-11/The_Tattooists%20Son_Gary_Sokolov%20in%20Auschwitz%20Birkenau_FIN_1.jpg?itok=kwa7yFQW)
+
+28 November 2024
+
+### THE TATTOOIST’S SON: JOURNEY TO AUSCHWITZ COMING TO SKY HISTORY](https://www.aenetworks.tv/news/tattooists-son-journey-auschwitz-coming-sky-history)
+
     [![Unbreakable Series on crime+Investigation](https://hearstnetworkscorp.s3.eu-west-2.amazonaws.com/s3fs-public/styles/card_tablet/public/2024-11/Unbreakable_Survivor_Stories_1920x1080_CLEAN_0.jpg?VersionId=vumZiJUgBjkCnbF9HnnIzkzIUrOBGADC&itok=BHM7hHxn)
 
 25 November 2024
@@ -87,12 +93,6 @@ Latest news
 30 October 2024
 
 ### BLAZE®TO AIR THE 2024 LAKESIDE WORLD DARTS CHAMPIONSHIPS LIVE AND EXCLUSIVE](https://www.aenetworks.tv/news/uk/blazerto-air-2024-lakeside-world-darts-championships-live-and-exclusive)
-
-    [![GEMA Awards Win Cosmo](https://hearstnetworkscorp.s3.eu-west-2.amazonaws.com/s3fs-public/styles/card_tablet/public/2024-10/THE-BASE_GEMA_Premios%20CD%201.jpg?VersionId=FKxqX3boAOzrO7fmGUDr89G8WTpfQRxt&itok=O9NWEP82)
-
-18 October 2024
-
-### COSMO WINS 2 GOLD AND 1 SILVER AT THE WORLD GEMA AWARDS](https://www.aenetworks.tv/news/spain/cosmo-wins-2-gold-and-1-silver-world-gema-awards)
 
 Corporate
 ---------
