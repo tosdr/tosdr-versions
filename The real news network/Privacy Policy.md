@@ -75,14 +75,14 @@ Trending Posts
 
 * [Everything you've heard about this election is wrong. Dr. Richard Wolff explains why.](https://therealnews.com/everything-youve-heard-about-this-election-is-wrong-dr-richard-wolff-explains-why)
 * [Union president explains the existential threat Trump poses to organized labor—and how we fight back](https://therealnews.com/union-president-explains-the-existential-threat-trump-poses-to-organized-labor-and-how-we-fight-back)
-* ['Ascension Hospital...is making a mockery of the Church doctrine': Baltimore Catholic nurses picket Bishops for fair contract](https://therealnews.com/ascension-hospital-is-making-a-mockery-of-the-church-doctrine-baltimore-catholic-nurses-picket-bishops-for-fair-contract)
 * [10 ways to be prepared and grounded now that Trump has won](https://therealnews.com/10-ways-to-be-prepared-and-grounded-now-that-trump-has-won)
-* [How Big Tech made Trump 2.0](https://therealnews.com/how-big-tech-made-trump-2-0)
 * [The bad, the worse, and the ugly: Trump's incoming cabinet](https://therealnews.com/the-bad-the-worse-and-the-ugly-trumps-incoming-cabinet)
 * [Yes, the 'nonprofit killer' bill is that bad—but it's not invincible](https://therealnews.com/yes-the-nonprofit-killer-bill-is-that-bad-but-its-not-invincible)
-* [Solidarity or Jewish supremacy? The moral choice facing Judaism](https://therealnews.com/solidarity-or-jewish-supremacy-the-moral-choice-facing-judaism)
+* [How Big Tech made Trump 2.0](https://therealnews.com/how-big-tech-made-trump-2-0)
+* ['Ascension Hospital...is making a mockery of the Church doctrine': Baltimore Catholic nurses picket Bishops for fair contract](https://therealnews.com/ascension-hospital-is-making-a-mockery-of-the-church-doctrine-baltimore-catholic-nurses-picket-bishops-for-fair-contract)
 * [Why did Democrats lose? Just listen to the voters.](https://therealnews.com/why-did-democrats-lose-just-listen-to-the-voters)
-* [The weapons Israel tests on Palestinians will be used against all of us](https://therealnews.com/the-weapons-israel-tests-on-palestinians-will-be-used-against-all-of-us)
+* [Solidarity or Jewish supremacy? The moral choice facing Judaism](https://therealnews.com/solidarity-or-jewish-supremacy-the-moral-choice-facing-judaism)
+* [“Let’s unite!”: Poisoned residents of America’s sacrifice zones are banding together](https://therealnews.com/lets-unite-poisoned-residents-of-americas-sacrifice-zones-are-banding-together)
 
 Close
 
@@ -139,14 +139,14 @@ Trending Posts
 
 * [Everything you've heard about this election is wrong. Dr. Richard Wolff explains why.](https://therealnews.com/everything-youve-heard-about-this-election-is-wrong-dr-richard-wolff-explains-why)
 * [Union president explains the existential threat Trump poses to organized labor—and how we fight back](https://therealnews.com/union-president-explains-the-existential-threat-trump-poses-to-organized-labor-and-how-we-fight-back)
-* ['Ascension Hospital...is making a mockery of the Church doctrine': Baltimore Catholic nurses picket Bishops for fair contract](https://therealnews.com/ascension-hospital-is-making-a-mockery-of-the-church-doctrine-baltimore-catholic-nurses-picket-bishops-for-fair-contract)
 * [10 ways to be prepared and grounded now that Trump has won](https://therealnews.com/10-ways-to-be-prepared-and-grounded-now-that-trump-has-won)
-* [How Big Tech made Trump 2.0](https://therealnews.com/how-big-tech-made-trump-2-0)
 * [The bad, the worse, and the ugly: Trump's incoming cabinet](https://therealnews.com/the-bad-the-worse-and-the-ugly-trumps-incoming-cabinet)
 * [Yes, the 'nonprofit killer' bill is that bad—but it's not invincible](https://therealnews.com/yes-the-nonprofit-killer-bill-is-that-bad-but-its-not-invincible)
-* [Solidarity or Jewish supremacy? The moral choice facing Judaism](https://therealnews.com/solidarity-or-jewish-supremacy-the-moral-choice-facing-judaism)
+* [How Big Tech made Trump 2.0](https://therealnews.com/how-big-tech-made-trump-2-0)
+* ['Ascension Hospital...is making a mockery of the Church doctrine': Baltimore Catholic nurses picket Bishops for fair contract](https://therealnews.com/ascension-hospital-is-making-a-mockery-of-the-church-doctrine-baltimore-catholic-nurses-picket-bishops-for-fair-contract)
 * [Why did Democrats lose? Just listen to the voters.](https://therealnews.com/why-did-democrats-lose-just-listen-to-the-voters)
-* [The weapons Israel tests on Palestinians will be used against all of us](https://therealnews.com/the-weapons-israel-tests-on-palestinians-will-be-used-against-all-of-us)
+* [Solidarity or Jewish supremacy? The moral choice facing Judaism](https://therealnews.com/solidarity-or-jewish-supremacy-the-moral-choice-facing-judaism)
+* [“Let’s unite!”: Poisoned residents of America’s sacrifice zones are banding together](https://therealnews.com/lets-unite-poisoned-residents-of-americas-sacrifice-zones-are-banding-together)
 
 [Skip to content](#main)
 
