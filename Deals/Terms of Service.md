@@ -48,6 +48,12 @@ AllAll PlatformsPCXboxPlayStationSwitch
 
 * [Sign in](https://gg.deals/login/)
 
+![](https://img.gg.deals/58/dc/15f1a5e1345429aac048825c63d741b6a904_1272cr200_Q100.jpg)
+
+![](https://img.gg.deals/36/6a/cbdaa004803d0a0ef230985aebfbc8e95151_2560xt1440_Q100.jpg)
+
+[](https://gg.deals/us/redirect/8caea2a38702160f63dc430730ec497e19e5d4d1/?utm_campaign=main-banner&utm_source=page%2Fpage)[](https://gg.deals/us/redirect/8caea2a38702160f63dc430730ec497e19e5d4d1/?utm_campaign=main-left&utm_source=page%2Fpage)[](https://gg.deals/us/redirect/8caea2a38702160f63dc430730ec497e19e5d4d1/?utm_campaign=main-right&utm_source=page%2Fpage)
+
 * [Home](https://gg.deals/) 
 * [Terms & conditions](https://gg.deals/terms/) 
 
