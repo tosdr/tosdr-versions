@@ -357,13 +357,13 @@ article 2 days ago](https://science.nasa.gov/mission/excite/)
 
 ### OSDR at AGU 2024
 
-article 2 hours ago](https://www.nasa.gov/osdr-at-agu-2024-2/)[![Amendment 74: A.63 Ecohydrology, a New Opportunity in ROSES-24](https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000002/GSFC_20171208_Archive_e000002~large.jpg)
+article 7 hours ago](https://www.nasa.gov/osdr-at-agu-2024-2/)[![Amendment 74: A.63 Ecohydrology, a New Opportunity in ROSES-24](https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000002/GSFC_20171208_Archive_e000002~large.jpg)
 
 1 min read
 
 ### Amendment 74: A.63 Ecohydrology, a New Opportunity in ROSES-24
 
-article 4 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-74-a-63-ecohydrology-a-new-opportunity-in-roses-24/)[![Amendment 73: D.13 Astrophysics Pioneers Substantial Revisions](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26185/PIA26185.jpg)
+article 9 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-74-a-63-ecohydrology-a-new-opportunity-in-roses-24/)[![Amendment 73: D.13 Astrophysics Pioneers Substantial Revisions](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26185/PIA26185.jpg)
 
 2 min read
 
@@ -401,7 +401,7 @@ article 2 weeks ago](https://www.nasa.gov/dynamic-spin-rig-publications/)
 
 ### An Electronic Traffic Monitor for Airports 
 
-article 6 hours ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/an-electronic-traffic-monitor-for-airports/)[![Amendment 71: F.11 Stand-Alone Landing Site-Agnostic Payloads and Research Investigations on the Surface of the Moon Final Text and Due Dates Released.](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/lunar-science/science-payloads/prospect/Prospect_wide_horizontal.png)
+article 11 hours ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/an-electronic-traffic-monitor-for-airports/)[![Amendment 71: F.11 Stand-Alone Landing Site-Agnostic Payloads and Research Investigations on the Surface of the Moon Final Text and Due Dates Released.](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/lunar-science/science-payloads/prospect/Prospect_wide_horizontal.png)
 
 2 min read
 
@@ -417,25 +417,25 @@ article 1 week ago](https://www.nasa.gov/centers-and-facilities/ames/what-is-bio
 
 ### Featured
 
-[![NASA Science Activation Opportunities Near You](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/2024/SCIACT_ICON_wTEXT_3-COLOR-01.png)
+[![Photo of Aaron Yazzie](https://www.nasa.gov/wp-content/uploads/2024/11/aaron-yazzie-crop.jpg?w=658)
+
+4 min read
+
+### Aaron Yazzie: Bridging Indigenous Heritage and Space Exploration
+
+article 5 hours ago](https://www.nasa.gov/learning-resources/bridging-indigenous-heritage-and-space-exploration/)[![NASA Science Activation Opportunities Near You](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/2024/SCIACT_ICON_wTEXT_3-COLOR-01.png)
 
 1 min read
 
 ### NASA Science Activation Opportunities Near You
 
-article 3 hours ago](https://science.nasa.gov/learn/nasa-science-activation-opportunities-near-you/)[![Students at NASA's Jet Propulsion Laboratory pose for photos around the laboratory wearing their eclipse glasses.](https://www.nasa.gov/wp-content/uploads/2023/03/38540233062-abf67c18dd-o.jpeg?w=985)
+article 8 hours ago](https://science.nasa.gov/learn/nasa-science-activation-opportunities-near-you/)[![Students at NASA's Jet Propulsion Laboratory pose for photos around the laboratory wearing their eclipse glasses.](https://www.nasa.gov/wp-content/uploads/2023/03/38540233062-abf67c18dd-o.jpeg?w=985)
 
 2 min read
 
 ### Why NASA Is a Great Place to Launch Your Career 
 
-article 5 days ago](https://www.nasa.gov/learning-resources/launch-your-career/)[![Northwestern University team members pose with lunar inflatable prototypes from their METALS project in NASA’s 2024 BIG Idea Challenge.](https://www.nasa.gov/wp-content/uploads/2024/11/2024-big-idea-photo-northwestern-university.jpg?w=1024)
-
-3 min read
-
-### Northwestern University Takes Top Honors in BIG Idea Lunar Inflatables Challenge 
-
-article 1 week ago](https://www.nasa.gov/directorates/stmd/northwestern-university-takes-top-honors-in-big-idea-lunar-inflatables-challenge/)
+article 5 days ago](https://www.nasa.gov/learning-resources/launch-your-career/)
 
 ### Featured
 
