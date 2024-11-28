@@ -111,6 +111,10 @@ Most recent
 
 [28-11-2024
 
+EU ‘naivety’ to blame for Northvolt’s collapse, says Sweden](https://www.euractiv.com/section/economy-jobs/news/eu-naivety-to-blame-for-northvolts-collapse-says-sweden/)[28-11-2024
+
+TikTok hits back against allegations in Romanian elections](https://www.euractiv.com/section/tech/news/tiktok-hits-back-against-allegations-in-romanian-elections/)[28-11-2024
+
 Biden readies $725 million arms aid package for Ukraine](https://www.euractiv.com/section/global-europe/news/biden-readies-725-million-arms-aid-package-for-ukraine/)[28-11-2024
 
 Russia’s plane shortage holds air travel back](https://www.euractiv.com/section/global-europe/news/russias-plane-shortage-holds-air-travel-back/)[28-11-2024
@@ -125,11 +129,7 @@ Brussels approves Poland’s defence-focused deficit reduction plan](https://www
 
 Fico calls Trump, says yes to Putin’s Moscow invite](https://www.euractiv.com/section/politics/news/fico-calls-trump-says-yes-to-putins-moscow-invite/)[28-11-2024
 
-Spain’s Sánchez, Ribera blame Partido Popular for siding with EU far-right](https://www.euractiv.com/section/politics/news/spains-sanchez-ribera-blame-partido-popular-for-siding-with-eu-far-right/)[28-11-2024
-
-Nuclear attack unlikely despite Putin’s warnings, US intelligence says](https://www.euractiv.com/section/global-europe/news/nuclear-attack-unlikely-despite-putins-warnings-us-intelligence-says/)[28-11-2024
-
-Italian opposition says government falling apart after split in European Parliament](https://www.euractiv.com/section/politics/news/italian-opposition-says-government-falling-apart-after-split-in-european-parliament/)
+Spain’s Sánchez, Ribera blame Partido Popular for siding with EU far-right](https://www.euractiv.com/section/politics/news/spains-sanchez-ribera-blame-partido-popular-for-siding-with-eu-far-right/)
 
 ###### Advertisement
 
