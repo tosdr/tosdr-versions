@@ -135,3 +135,12 @@ App 内打开
 © 2013-2024 少数派[粤ICP备09128966号-4](https://beian.miit.gov.cn/) | [粤B2-20211534](https://dxzhgl.miit.gov.cn/)
 
 确定
+
+* 联系客服
+* [发送邮件](mailto:contact@sspai.com)
+* [商务合作](https://sspai.com/page/bussiness)
+* [少数派 App](https://sspai.com/page/client)
+
+请用微信手机端扫码咨询客服
+
+![](https://cdn-static.sspai.com/ui/qrcode_service.png)
