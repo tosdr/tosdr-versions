@@ -20,6 +20,14 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Credit: LFB (X)](https://southwarknews.co.uk/wp-content/uploads/2024/11/GdYrAwQWIAAAq50-e1732797204229-360x180.jpeg)](https://southwarknews.co.uk/area/camberwell/brigade-tackles-fire-at-camberwell-shops-and-homes/)
+    
+    ### [Brigade tackles fire at Camberwell shops and homes](https://southwarknews.co.uk/area/camberwell/brigade-tackles-fire-at-camberwell-shops-and-homes/)
+    
+    [![Bakerloo Line extension to Lewisham. Credit - Transport for London](https://southwarknews.co.uk/wp-content/uploads/2024/11/Bakerloo-Line-extension-to-Lewisham.-Credit-Transport-for-London-360x180.jpg)](https://southwarknews.co.uk/area/peckham/planets-are-aligning-for-the-government-to-release-funding-to-extend-the-bakerloo-line/)
+    
+    ### [“Planets are aligning” for the Government to release funding to extend the Bakerloo line](https://southwarknews.co.uk/area/peckham/planets-are-aligning-for-the-government-to-release-funding-to-extend-the-bakerloo-line/)
+    
     [![L: Sam, Jesse's godmother and Chaise, Jesse's sister. R: Jesse Lloyd-Smith, 20 (2004-2024)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-28-11-2024-at-13.04-360x180.jpg)](https://southwarknews.co.uk/area/peckham/we-believe-people-are-sitting-on-the-truth-family-pleads-for-answers-after-jesse-lloyd-smith-was-shot-in-peckham/)
     
     ### [‘We believe people are sitting on the truth’: Family pleads for answers after Jesse Lloyd-Smith was shot in Peckham](https://southwarknews.co.uk/area/peckham/we-believe-people-are-sitting-on-the-truth-family-pleads-for-answers-after-jesse-lloyd-smith-was-shot-in-peckham/)
@@ -47,15 +55,6 @@
     [![Cllr Adam Hood on what he referred to as 'Slower Road' (photo: supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/11/92BD81E6-1968-48BA-9F93-C13EB2F001FF-e1732553647710-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/liberal-democrat-councillor-marks-one-year-campaigning-for-lower-road-fixes-amid-ongoing-traffic-chaos/)
     
     ### [Liberal Democrat councillor marks one year campaigning for Lower Road fixes amid ongoing traffic chaos](https://southwarknews.co.uk/area/rotherhithe/liberal-democrat-councillor-marks-one-year-campaigning-for-lower-road-fixes-amid-ongoing-traffic-chaos/)
-    
-    [![Greenwich Theatre 
-    Photo by Nancy Poole](https://southwarknews.co.uk/wp-content/uploads/2024/11/Credit-NancyPoole-Greenwich-Theatre-360x180.jpg)](https://southwarknews.co.uk/news/community/six-pantos-and-christmas-shows-in-south-london-to-get-you-in-the-festive-spirit/)
-    
-    ### [Six pantos and Christmas shows in South London to get you in the festive spirit](https://southwarknews.co.uk/news/community/six-pantos-and-christmas-shows-in-south-london-to-get-you-in-the-festive-spirit/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2021/08/Police-stock.jpeg)](https://southwarknews.co.uk/area/london/police-step-up-patrols-in-theft-hotspots-to-protect-christmas-shoppers/)
-    
-    ### [Police step up patrols in theft hotspots to protect Christmas shoppers](https://southwarknews.co.uk/area/london/police-step-up-patrols-in-theft-hotspots-to-protect-christmas-shoppers/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -106,6 +105,14 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Credit: LFB (X)](https://southwarknews.co.uk/wp-content/uploads/2024/11/GdYrAwQWIAAAq50-e1732797204229-360x180.jpeg)](https://southwarknews.co.uk/area/camberwell/brigade-tackles-fire-at-camberwell-shops-and-homes/)
+    
+    ### [Brigade tackles fire at Camberwell shops and homes](https://southwarknews.co.uk/area/camberwell/brigade-tackles-fire-at-camberwell-shops-and-homes/)
+    
+    [![Bakerloo Line extension to Lewisham. Credit - Transport for London](https://southwarknews.co.uk/wp-content/uploads/2024/11/Bakerloo-Line-extension-to-Lewisham.-Credit-Transport-for-London-360x180.jpg)](https://southwarknews.co.uk/area/peckham/planets-are-aligning-for-the-government-to-release-funding-to-extend-the-bakerloo-line/)
+    
+    ### [“Planets are aligning” for the Government to release funding to extend the Bakerloo line](https://southwarknews.co.uk/area/peckham/planets-are-aligning-for-the-government-to-release-funding-to-extend-the-bakerloo-line/)
+    
     [![L: Sam, Jesse's godmother and Chaise, Jesse's sister. R: Jesse Lloyd-Smith, 20 (2004-2024)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-28-11-2024-at-13.04-360x180.jpg)](https://southwarknews.co.uk/area/peckham/we-believe-people-are-sitting-on-the-truth-family-pleads-for-answers-after-jesse-lloyd-smith-was-shot-in-peckham/)
     
     ### [‘We believe people are sitting on the truth’: Family pleads for answers after Jesse Lloyd-Smith was shot in Peckham](https://southwarknews.co.uk/area/peckham/we-believe-people-are-sitting-on-the-truth-family-pleads-for-answers-after-jesse-lloyd-smith-was-shot-in-peckham/)
@@ -133,15 +140,6 @@ View All Result
     [![Cllr Adam Hood on what he referred to as 'Slower Road' (photo: supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/11/92BD81E6-1968-48BA-9F93-C13EB2F001FF-e1732553647710-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/liberal-democrat-councillor-marks-one-year-campaigning-for-lower-road-fixes-amid-ongoing-traffic-chaos/)
     
     ### [Liberal Democrat councillor marks one year campaigning for Lower Road fixes amid ongoing traffic chaos](https://southwarknews.co.uk/area/rotherhithe/liberal-democrat-councillor-marks-one-year-campaigning-for-lower-road-fixes-amid-ongoing-traffic-chaos/)
-    
-    [![Greenwich Theatre 
-    Photo by Nancy Poole](https://southwarknews.co.uk/wp-content/uploads/2024/11/Credit-NancyPoole-Greenwich-Theatre-360x180.jpg)](https://southwarknews.co.uk/news/community/six-pantos-and-christmas-shows-in-south-london-to-get-you-in-the-festive-spirit/)
-    
-    ### [Six pantos and Christmas shows in South London to get you in the festive spirit](https://southwarknews.co.uk/news/community/six-pantos-and-christmas-shows-in-south-london-to-get-you-in-the-festive-spirit/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2021/08/Police-stock.jpeg)](https://southwarknews.co.uk/area/london/police-step-up-patrols-in-theft-hotspots-to-protect-christmas-shoppers/)
-    
-    ### [Police step up patrols in theft hotspots to protect Christmas shoppers](https://southwarknews.co.uk/area/london/police-step-up-patrols-in-theft-hotspots-to-protect-christmas-shoppers/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -385,6 +383,12 @@ Website
 
 ### Featured Articles
 
+[![Bakerloo Line extension to Lewisham. Credit - Transport for London](https://southwarknews.co.uk/wp-content/uploads/2024/11/Bakerloo-Line-extension-to-Lewisham.-Credit-Transport-for-London-120x86.jpg)](https://southwarknews.co.uk/area/peckham/planets-are-aligning-for-the-government-to-release-funding-to-extend-the-bakerloo-line/)
+
+### [“Planets are aligning” for the Government to release funding to extend the Bakerloo line](https://southwarknews.co.uk/area/peckham/planets-are-aligning-for-the-government-to-release-funding-to-extend-the-bakerloo-line/)
+
+[28th November 2024](https://southwarknews.co.uk/area/peckham/planets-are-aligning-for-the-government-to-release-funding-to-extend-the-bakerloo-line/)
+
 [![L: Sam, Jesse's godmother and Chaise, Jesse's sister. R: Jesse Lloyd-Smith, 20 (2004-2024)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-28-11-2024-at-13.04-120x86.jpg)](https://southwarknews.co.uk/area/peckham/we-believe-people-are-sitting-on-the-truth-family-pleads-for-answers-after-jesse-lloyd-smith-was-shot-in-peckham/)
 
 ### [‘We believe people are sitting on the truth’: Family pleads for answers after Jesse Lloyd-Smith was shot in Peckham](https://southwarknews.co.uk/area/peckham/we-believe-people-are-sitting-on-the-truth-family-pleads-for-answers-after-jesse-lloyd-smith-was-shot-in-peckham/)
@@ -414,12 +418,6 @@ Website
 ### [Southwark Council’s leader has apologised after the government’s social housing watchdog found ‘serious failings’](https://southwarknews.co.uk/area/southwark/southwark-councils-leader-has-apologised-after-the-governments-social-housing-watchdog-found-serious-failings/)
 
 [27th November 2024](https://southwarknews.co.uk/area/southwark/southwark-councils-leader-has-apologised-after-the-governments-social-housing-watchdog-found-serious-failings/)
-
-[![Cllr Adam Hood on what he referred to as 'Slower Road' (photo: supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/11/92BD81E6-1968-48BA-9F93-C13EB2F001FF-e1732553647710-120x86.jpeg)](https://southwarknews.co.uk/area/rotherhithe/liberal-democrat-councillor-marks-one-year-campaigning-for-lower-road-fixes-amid-ongoing-traffic-chaos/)
-
-### [Liberal Democrat councillor marks one year campaigning for Lower Road fixes amid ongoing traffic chaos](https://southwarknews.co.uk/area/rotherhithe/liberal-democrat-councillor-marks-one-year-campaigning-for-lower-road-fixes-amid-ongoing-traffic-chaos/)
-
-[27th November 2024](https://southwarknews.co.uk/area/rotherhithe/liberal-democrat-councillor-marks-one-year-campaigning-for-lower-road-fixes-amid-ongoing-traffic-chaos/)
 
 ### USEFUL PAGES
 
