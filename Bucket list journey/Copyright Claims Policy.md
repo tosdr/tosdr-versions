@@ -243,6 +243,32 @@ Jump right in and you will get your printable ideas by email:
 
 ![](https://forms.aweber.com/form/displays.htm?id=TBxsTCxsnAzM)
 
+[California’s Yountville is right in the heart of ![California’s Yountville is right in the heart of Napa Valley, and is a food lover’s dream! With its wine country charm, the bar for great food is set high—and it doesn’t disappoint. I happily ate my way through the town to find the best spots. While you can’t really go wrong, these are my favs: 
+👉 Save for your trip to the Napa Valley!
+🍳 @bardessonoyountville’s Lucy: Perfect spot for brunch. The chilaquiles are delish & the avocado toast is the prettiest ever!
+🍝 @botteganapavalley is a hotspot for good reason—it delivers on all fronts—food, cocktails, and atmosphere. My standout dish was the Brodetto Frutta de Mar, a seafood stew so good you might just buy Chiarello’s cookbook to make it at home!
+🦪 @bouchon_bistro: This place will make you feel like you’re in France. Don’t skip the French onion soup. After go right next door to hit up @bouchon_bakery for dessert!
+🥗 @therdkitchens: Pan-Asian noodle salad + the crispy chicken sandwich = perfection.
+🍅 @bistro.jeanty: Cozy French vibes and the famous Boeuf Bourguignon.
+🌟 The French Laundry (@_tfl_ ) Three-Michelin star Thomas Keller Restaurant that’s the ultimate bucket list splurge. 
+🍕 @ciccio_napavalley: Wood-fired pizza + House-made pasta = happy foodie.
+🍗 @adhoc_addendum: Fried chicken so good it’ll make you cry.
+🐙 @northblockyountville: Trendy wine country eats like charred octopus & maple leaf duck breast
+🍣 @ro.lounge: Another Thomas Keller gem that draws from Asian culinary influences. If you love caviar, this is your place!](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
+
+![California’s Yountville is right in the heart of Napa Valley, and is a food lover’s dream! With its wine country charm, the bar for great food is set high—and it doesn’t disappoint. I happily ate my way through the town to find the best spots. While you can’t really go wrong, these are my favs: 
+👉 Save for your trip to the Napa Valley!
+🍳 @bardessonoyountville’s Lucy: Perfect spot for brunch. The chilaquiles are delish & the avocado toast is the prettiest ever!
+🍝 @botteganapavalley is a hotspot for good reason—it delivers on all fronts—food, cocktails, and atmosphere. My standout dish was the Brodetto Frutta de Mar, a seafood stew so good you might just buy Chiarello’s cookbook to make it at home!
+🦪 @bouchon_bistro: This place will make you feel like you’re in France. Don’t skip the French onion soup. After go right next door to hit up @bouchon_bakery for dessert!
+🥗 @therdkitchens: Pan-Asian noodle salad + the crispy chicken sandwich = perfection.
+🍅 @bistro.jeanty: Cozy French vibes and the famous Boeuf Bourguignon.
+🌟 The French Laundry (@_tfl_ ) Three-Michelin star Thomas Keller Restaurant that’s the ultimate bucket list splurge. 
+🍕 @ciccio_napavalley: Wood-fired pizza + House-made pasta = happy foodie.
+🍗 @adhoc_addendum: Fried chicken so good it’ll make you cry.
+🐙 @northblockyountville: Trendy wine country eats like charred octopus & maple leaf duck breast
+🍣 @ro.lounge: Another Thomas Keller gem that draws from Asian culinary influences. If you love caviar, this is your place!](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DC4VxoRPAHb/) 
+
 [Ever wonder what a perfect day in the Napa Valley ![Ever wonder what a perfect day in the Napa Valley wine country looks like? Here’s my one-day bucket list itinerary for YOUNTVILLE, CALIFORNIA 🍷
 1️⃣ Start your day in #Yountville the only way you should—with pastries! @Bouchon_Bakery is tiny but mighty, serving up buttery scones, flaky croissants, and giant macarons 🥐 
 2️⃣ Next, hop aboard the Napa Valley @winetrain where you’ll be served a four course meal while riding through Napa valley Vineyards and sipping on local wine 🚂 They have plenty of experiences to choose from (we did the Vista Dome and loved it!)
@@ -286,44 +312,6 @@ When my friend @inspiringoptimism invited me to her dreamy vacation rental @humm
 The mission? Four of us, armed with paintbrushes, a YouTube tutorial, and lots of wine, took on the challenge of painting (or at least attempting to paint 😂) a colorful peacock 🦚 Let’s just say, some of our peacocks had very unique personalities!
 Did I mention that there were delicious tacos too? 😋 
 #bucketlistidea #paintnight #paintandsip #peacock  #bucketlist✔️ #bucketlist✅ #bucketlistadventures #bucketlisters](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DCZZ88Mvt-J/) 
-
-[If you’re heading to Point Reyes National Seasho ![If you’re heading to Point Reyes National Seashore in  #northerncalifornia, these are my favorite places to eat to add to your bucket list.
-(💫 SAVE for planning your trip to Northern #California💫)
-POINT REYES, CALIFORNIA RESTAURANTS
-1️⃣ Route One Bakery & Kitchen: Outdoor pizza slices and sourdough olive bread—yes, please! @routeonebakeryandkitchen
-2️⃣ Hog Island Oyster Farm: the famous fresh oysters everyone talks about! @hogislandoysterfarm
-3️⃣ The Marshall Store: Smoked oysters & chowder by the water @the.marshall.store 
-4️⃣ Nick’s Cove: Cozy seafood by the pier @nickscove
-5️⃣ Tony’s Seafood: Classic fish tacos, fried oysters and seafood stew (it’s a part of the Hog Island Oyster Co. family)
-6️⃣ Cafe Reyes: Wood-fired pizza with a local twist 🍕 this place has chill vibes and wood-fired pizza with names inspired by the area.  @cafereyes_94956 
-7️⃣ Side Street Kitchen: Farm to table dining in  Point Reyes Station. @sidestreet_prs
-8️⃣ The Farmer’s Wife: Must-try tuna melt with chips on it! Plus lots of other yummy choices @thefarmersxwife
-9️⃣ Station House Cafe: popular brunch spot with local, seasonal food @stationhousecafe
-1️⃣0️⃣ Due West Tavern: Trendy spot for clam chowder locally sourced seafood & steak 🥩@duewestpointreyes
-1️⃣1️⃣ Tap Room: Craft beer & local burger vibes with a special menu that changes every night @invernessparkmarket
-1️⃣2️⃣ Saltwater Oyster Depot: Fresh oysters & seafood chowder @saltwateroysterdepot 
-1️⃣3️⃣ BoVida: Smoothies & acai bowls for a lighter bite @bovidabolinas 
-1️⃣4️⃣ Parkside Cafe: Seafood & sandwiches steps away from Stinson Beach @parksidecafestinsonbeach
-#pointreyes #pointreyesstation #northerncalifornia #pacificcoast #marincounty #visitcalifornia #california #travelbucketlist #bucketlistadventures](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
-
-![If you’re heading to Point Reyes National Seashore in  #northerncalifornia, these are my favorite places to eat to add to your bucket list.
-(💫 SAVE for planning your trip to Northern #California💫)
-POINT REYES, CALIFORNIA RESTAURANTS
-1️⃣ Route One Bakery & Kitchen: Outdoor pizza slices and sourdough olive bread—yes, please! @routeonebakeryandkitchen
-2️⃣ Hog Island Oyster Farm: the famous fresh oysters everyone talks about! @hogislandoysterfarm
-3️⃣ The Marshall Store: Smoked oysters & chowder by the water @the.marshall.store 
-4️⃣ Nick’s Cove: Cozy seafood by the pier @nickscove
-5️⃣ Tony’s Seafood: Classic fish tacos, fried oysters and seafood stew (it’s a part of the Hog Island Oyster Co. family)
-6️⃣ Cafe Reyes: Wood-fired pizza with a local twist 🍕 this place has chill vibes and wood-fired pizza with names inspired by the area.  @cafereyes_94956 
-7️⃣ Side Street Kitchen: Farm to table dining in  Point Reyes Station. @sidestreet_prs
-8️⃣ The Farmer’s Wife: Must-try tuna melt with chips on it! Plus lots of other yummy choices @thefarmersxwife
-9️⃣ Station House Cafe: popular brunch spot with local, seasonal food @stationhousecafe
-1️⃣0️⃣ Due West Tavern: Trendy spot for clam chowder locally sourced seafood & steak 🥩@duewestpointreyes
-1️⃣1️⃣ Tap Room: Craft beer & local burger vibes with a special menu that changes every night @invernessparkmarket
-1️⃣2️⃣ Saltwater Oyster Depot: Fresh oysters & seafood chowder @saltwateroysterdepot 
-1️⃣3️⃣ BoVida: Smoothies & acai bowls for a lighter bite @bovidabolinas 
-1️⃣4️⃣ Parkside Cafe: Seafood & sandwiches steps away from Stinson Beach @parksidecafestinsonbeach
-#pointreyes #pointreyesstation #northerncalifornia #pacificcoast #marincounty #visitcalifornia #california #travelbucketlist #bucketlistadventures](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DCRnq6FJ3XV/) 
 
 [Follow on Instagram](https://www.instagram.com/bucketlistjourney/)
 
