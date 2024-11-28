@@ -112,7 +112,7 @@ We may change this Privacy Policy from time to time. If we make changes, we will
 
 _Last updated: November 14, 2024_
 
-_“Working with Dave has been just what we needed. He doesn’t sugarcoat things, and that honesty helped us really see our issues and understand each other better. With his guidance, we’ve finally been able to work through some of our long-standing struggles and actually make progress. We couldn’t have done it without his support.”_
+_“I’ve had a lot of therapists over the last 17 years and I’ve never had a counselor bring me through this much progress... ever. Not even close.”_
 
 [Get Started Now](https://therapydave.com/therapist-appointments/)
 
