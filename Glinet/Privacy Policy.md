@@ -105,7 +105,7 @@ Don't Miss Out! Save up to 42% during our Black Friday Sale | [Shop Today](#)
     
     ###### Connect with Us
     
-    [Forum](https://forum.gl-inet.com/) [Discord](https://discord.gg/SybeWJJ6Bs) [Facebook](https://www.facebook.com/gl.inet.wifi/) [Instagram](https://www.instagram.com/gl.inet/) [Twitter](https://twitter.com/GLiNetWiFi)
+    [Forum](https://forum.gl-inet.com/) [Discord](https://link.gl-inet.com/Website-Discord) [Facebook](https://www.facebook.com/gl.inet.wifi/) [Instagram](https://www.instagram.com/gl.inet/) [Twitter](https://twitter.com/GLiNetWiFi)
     
     ##### Get More with Every Purchase
     
@@ -405,7 +405,7 @@ This GL.iNet Privacy Policy was revised and posted as of April 17, 2020.
 
 * ##### Connect with Us
     
-    [](https://www.facebook.com/gl.inet.wifi/)[](https://www.facebook.com/GLINETUS/)[](https://www.facebook.com/profile.php?id=61561514011042)[](https://www.instagram.com/gl.inet/)[](https://www.instagram.com/glinet.us/)[](https://www.instagram.com/glinet.eu/)[](https://www.youtube.com/channel/UCBfNEzurltlIeFFCbUgHQyg)[](https://www.tiktok.com/@gl.inet)[](https://twitter.com/GLiNetWiFi)[](https://www.reddit.com/user/GLiNet_WiFi)[](https://www.linkedin.com/company/gl-inet.com/)[](https://discord.gg/SybeWJJ6Bs)[](https://github.com/gl-inet/)[](https://forum.gl-inet.com/)
+    [](https://www.facebook.com/gl.inet.wifi/)[](https://www.facebook.com/GLINETUS/)[](https://www.facebook.com/profile.php?id=61561514011042)[](https://www.instagram.com/gl.inet/)[](https://www.instagram.com/glinet.us/)[](https://www.instagram.com/glinet.eu/)[](https://www.youtube.com/channel/UCBfNEzurltlIeFFCbUgHQyg)[](https://www.tiktok.com/@gl.inet)[](https://twitter.com/GLiNetWiFi)[](https://www.reddit.com/user/GLiNet_WiFi)[](https://www.linkedin.com/company/gl-inet.com/)[](https://link.gl-inet.com/Website-Discord)[](https://github.com/gl-inet/)[](https://forum.gl-inet.com/)
     
 * [About GL.iNet](https://www.gl-inet.com/about-us/)
     
