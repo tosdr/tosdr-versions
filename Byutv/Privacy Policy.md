@@ -82,9 +82,9 @@ The mission of BYUtv is to create purposeful, engaging viewing and listening exp
 
 A Service of Brigham Young University.
 
-Client Version: 5.0.5144
+Client Version: 5.0.5212
 
-API Version: 5.60.0
+API Version: 5.62.0
 
 * [About Us](https://www.byutv.org/about)
 * [Contact Us](https://www.byutv.org/contact)
@@ -108,6 +108,13 @@ API Version: 5.60.0
 ![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTcuNDEgMTUuNDEgMTIgMTAuODNsNC41OSA0LjU4TDE4IDE0bC02LTYtNiA2IDEuNDEgMS40MVoiIHN0eWxlPSJmaWxsOiNmZmYiLz48L3N2Zz4=)
 
 ![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0ibTIxLjY1MyA1Ljg1OS0zLjUxMS0zLjUxMS02LjE0MSA2LjE0MUw1Ljg2IDIuMzQ4bC0zLjUxMSAzLjUxTDguNDg5IDEybC02LjE0IDYuMTQxIDMuNTEgMy41MTEgNi4xNDItNi4xNDEgNi4xNDEgNi4xNDEgMy41MTEtMy41MUwxNS41MTIgMTJ6Ii8+PC9zdmc+)
+
+Our live channel is free, but you need  
+to be signed in to view some content.
+
+Preview has Ended
+
+Create Free Account / Sign In
 
 ![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTcuNDEgOC41OCAxMiAxMy4xN2w0LjU5LTQuNTlMMTggMTBsLTYgNi02LTYgMS40MS0xLjQyWiIgc3R5bGU9ImZpbGw6I2ZmZiIvPjwvc3ZnPg==)
 
