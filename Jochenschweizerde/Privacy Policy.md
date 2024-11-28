@@ -249,7 +249,7 @@ Benutzerkonto
 * [Außergewöhnliche Erlebnistage](https://www.jochen-schweizer.de/erlebnistage/l/7ncx1)
 * [Aktivitäten nach Region](https://www.jochen-schweizer.de/aktivitaeten-nach-region/l/sv786)
 
-**Stand: September 2024**
+**Stand: November 2024**
 
 Die nachfolgenden Datenschutzhinweise gelten für die Webseite jochen-schweizer.de ("Online-Angebot").
 
@@ -535,19 +535,27 @@ Wir verwenden Google Fonts der Firma Google Inc. (1600 Amphitheatre Parkway Moun
 
 Bei der Verwendung werden bei jeder Anfrage bezüglich Google Fonts Informationen wie IP-Adresse, Spracheinstellungen und Browsereinstellungen und -informationen an die Google Server übertragen. Die Font-Dateien werden bei Google ein Jahr gespeichert.
 
-Um die von Google gespeicherten Daten löschen zu können, müssen Sie den Google-Support auf https://support.google.com/?hl=de&tid=311141511 kontaktieren. Weitere Informationen finden Sie unter [https://www.google.com/intl/de/policies/privacy/](https://www.google.com/intl/de/policies/privacy/).
+Um die von Google gespeicherten Daten löschen zu können, müssen Sie den Google-Support auf https://support.google.com/?hl=de&tid=311141511 kontaktieren. Weitere Informationen finden Sie unter [https://www.google.com/intl/de/policies/privacy/](https://www.google.com/intl/de/policies/privacy/).
+
+ **Microsoft Clarity**
+
+Diese Website nutzt Microsoft Clarity für die Analyse von Webseiteninteraktionen. Anbieter ist die Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399 USA (im Folgenden „Microsoft Clarity“).
+
+Microsoft Clarity ist ein Dienst, mit dem u.a. Sitzungsaufzeichnungen, Heatmaps und ML Insights erstellt werden können, um unsere Produkte/Dienstleistungen zu verbessern und zu vermarkten. Die Nutzungsdaten der Website werden mithilfe von Cookies von Erst- und Drittanbietern und anderen Tracking-Technologien erfasst, um die Beliebtheit von Produkten/Dienstleistungen und Online-Aktivitäten zu ermitteln. Außerdem verwenden wir diese Informationen zur Optimierung der Website, zu Betrugs-/Sicherheitszwecken und für Werbung. Die von Ihnen erstellten/übermittelten Daten werden auf den Servern von Microsoft Clarity gespeichert. Weitere Informationen zu den Funktionen von Microsoft Clarity erhalten Sie unter: https://docs.microsoft.com/de-de/clarity/faq
+
+Die Verarbeitung der Daten erfolgt auf Grundlage einer Einwilligung gem. Art. 6 Abs. 1 lit. a DSGVO. Diese Einwilligung kann von Ihnen jederzeit widerrufen werden. Die Rechtmäßigkeit der bereits erfolgten Datenverarbeitungsvorgänge bleibt vom Widerruf jedoch unberührt.  Die von Ihnen für Microsoft Clarity bei uns hinterlegten Daten werden bis zu 12 Monate gespeichert und dann gelöscht. Microsoft Clarity verpflichtet sich in seinen Online Service Terms und unter Verwendung der EU-Standardvertragsklauseln den Schutz Ihrer personenbezogenen Daten zu gewährleisten. Näheres entnehmen Sie bitte den Datenschutzbestimmungen von Microsoft Clarity unter https://privacy.microsoft.com/de-de/privacystatement
 
 **Optimizely**
 
 Optimizely wird von Optimizely GmbH, Spichernstrasse 6, 50672 Köln, Deutschland, bereitgestellt. Optimizely verwendet "Cookies", die durch das Cookie erzeugten Informationen über Ihre Benutzung dieser Website werden in der Regel an einen Server von Optimizely in den USA übertragen und dort gespeichert. Im Falle der Aktivierung der IP-Anonymisierung auf dieser Webseite, wird jedoch Ihre IP-Adresse von Optimizely noch innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zuvor gekürzt. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Optimizely in den USA übertragen und erst dort gekürzt. Im Falle eines Auftrags von uns wird Optimizely diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten und um Reports über die Websiteaktivitäten zusammenzustellen. Die im Rahmen von Optimizely von Ihrem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Optimizely zusammengeführt.
 
-Sie können die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich werden nutzen können. Sie können darüber hinaus das Optimizely-Tracking jederzeit deaktivieren (und somit die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten - inkl. Ihrer IP-Adresse - an Optimizely sowie die Verarbeitung dieser Daten durch Optimizely verhindern), indem Sie der Anleitung auf [https://www.optimizely.com/de/opt\_out/](https://www.optimizely.com/de/opt_out/) folgen.
+Sie können die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich werden nutzen können. Sie können darüber hinaus das Optimizely-Tracking jederzeit deaktivieren (und somit die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten - inkl. Ihrer IP-Adresse - an Optimizely sowie die Verarbeitung dieser Daten durch Optimizely verhindern), indem Sie der Anleitung auf [https://www.optimizely.com/de/opt\_out/](https://www.optimizely.com/de/opt_out/) folgen.
 
 **Youtube Video**
 
 Wir verwenden Youtube Video zur Einbettung von Videos auf unserer Webseite. Dabei handelt es sich um einen Dienst von Google (Google Inc. 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. Dabei werden Cookies gesetzt, um Informationen über das Verhalten des Users zu sammeln und das Angebot zu verbessern.
 
-Weitere Informationen finden Sie unter [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en).
+Weitere Informationen finden Sie unter [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en).
 
 **Zopim**
 
@@ -555,7 +563,7 @@ Zur Bearbeitung von Kundenanfragen benutzen wir das Livechat-Tool Zopim, das von
 
 Zur Bearbeitung Ihrer Anfragen werden notwendige Daten, wie beispielsweise Vor- und Nachname sowie ggf. Kontaktdaten über unsere Website erfasst, um Ihre Anliegen bearbeiten zu können. Die so erzeugten Informationen können an einen Server von Zendesk in den USA übertragen und dort gespeichert werden. In den Fällen, wo Zendesk personenbezogene Daten in Länder außerhalb der EWR übermittelt, geschieht dies im Rahmen der Musterverträge der Europäischen Kommission für die Übermittlung personenbezogener Daten in Drittländer (d. h. Standardvertragsklauseln) gemäß der Entscheidung der Kommission 2004/915/EG bzw. 2010/87/EU (je nach Fall) oder gemäß einem nach EU-Recht genehmigten Ersatzmechanismus.
 
-Nähere Informationen hierzu finden Sie in der Datenschutzerklärung von Zendesk: [https://www.zendesk.de/company/customers-partners/privacy-policy/?\_ga=1.173700263.507192527.1412186898](https://www.zendesk.de/company/customers-partners/privacy-policy/?_ga=1.173700263.507192527.1412186898) .
+Nähere Informationen hierzu finden Sie in der Datenschutzerklärung von Zendesk: [https://www.zendesk.de/company/customers-partners/privacy-policy/?\_ga=1.173700263.507192527.1412186898](https://www.zendesk.de/company/customers-partners/privacy-policy/?_ga=1.173700263.507192527.1412186898) .
 
 **Wir nutzen** **folgende Cookies zu Zwecken des Marketings:**
 
@@ -754,9 +762,19 @@ OptOut-Links:[https://partner.jochen-schweizer.de/cookie\_optout.cgi](https://pa
 
 Dieses Cookie basiert auf der Clickid von QualityClick und wird gesetzt, wenn eine URL bei Website-Einstieg diese Clickid enthält. Dieses setzen wir, um den Nutzer als über das Affiliate-Netzwerk QualityClick auf unsere Website geleitet zu identifizieren und QualityClick entsprechend dieser generierten Leads zu vergüten. Das Cookie hat eine Gültigkeitsdauer von 360 Tagen.
 
+**Spotify**
+
+Diese Webseite setzt Pixel ein, wenn sie über Anklicken des Banners der Spotify AB, Regeringsgatan 19, SE-111 53 Stockholm, Schweden („Spotify“) auf unsere Webseite zu gelangen. Dadurch können wir Ihr Nutzerverhalten auswerten. Gleichzeitig werden die Informationen zu Ihrem Nutzerverhalten auch an Spotify übermittelt. Sie können diese Auswertung unterbinden, indem Sie Ihre Spotify Kontoübersicht aufrufen und unter „Datenschutz-Einstellungen" die Option „Meine personenbezogenen Daten für individuell angepasste Werbung verarbeiten" deaktivieren. Wenn Sie den Erhalt von interessenbezogener Werbung auf diese Weise ablehnen, gibt Spotify Ihre Daten nicht an externe Werbetreibende weiter und nutzt auch keine Informationen.
+
+Darüber hinaus können Sie auch auf dieser Webseite Ihre Einwilligung jederzeit widerrufen. Die Rechtmäßigkeit der bereits erfolgten Datenverarbeitungsvorgänge bleibt vom Widerruf jedoch unberührt. 
+
 **Sovendus**
 
 Für die Auswahl eines für Sie aktuell interessanten Gutscheinangebots werden von uns Ihre E-Mail- und Ihre IP-Adresse an die Sovendus GmbH, Hermann-Veit-Str. 6, 76135 Karlsruhe (Sovendus) übermittelt (Art. 6 Abs.1 f DSGVO), wo die Daten (oder Identifier) vor Verarbeitung pseudonymisiert und verschlüsselt werden. Der pseudonymisierte Hashwert der E-Mail-Adresse wird zur Berücksichtigung eines möglicherweise vorliegenden Widerspruchs gegen Werbung von Sovendus verwendet (Art. 21 Abs.3, Art. 6 Abs.1 c DSGVO). Die IP-Adresse wird von Sovendus ausschließlich zu Zwecken der Datensicherheit verwendet und im Regelfall nach sieben Tagen anonymisiert (Art. 6 Abs.1 f DSGVO). Außerdem übermitteln wir zu Abrechnungszwecken pseudonymisiert Bestellnummer, Bestellwert mit Währung, Session-ID, Couponcode und Zeitstempel an Sovendus (Art. 6 Abs.1 f DSGVO). Wenn Sie sich für ein Gutscheinangebot von Sovendus interessieren, zu Ihrer E-Mail-Adresse kein Werbewiderspruch vorliegt und auf das nur in diesem Fall angezeigte Gutschein-Banner klicken, werden von uns verschlüsselt Anrede, Name, Postleitzahl, Land und Ihre E-Mail-Adresse an Sovendus zur Vorbereitung des Gutscheins übermittelt (Art. 6 Abs.1 b, f DSGVO).
+
+**Taboola**
+
+Diese Webseite nutzt die Content Discovery Technologie der Taboola Europe Limited („Taboola“) um Ihnen weitere Online Inhalte zu empfehlen, die Sie interessieren könnten. Um diese Empfehlungen zu steuern, sammelt Taboola Informationen zu Ihrem Gerät und Ihrem Verhalten auf dieser Webseite (und anderen Partner Seiten) durch Cookies und ähnliche Technologien. Die Benutzerinformationen werden nicht länger als 13 Monate ab der letzten Interaktion des Benutzers mit dem Dienst gespeichert. Um mehr Informationen zu erhalten, finden Sie hier (https://www.taboola.com/de/policies/datenschutzerklaerung)  Taboola’s Datenschutz Richtlinien oder klicken Sie hier (https://accessrequest.taboola.com/access) für das Opt-Out.
 
 **TikTok**
 
