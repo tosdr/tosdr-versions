@@ -370,6 +370,15 @@ Atari 7800+](https://www.atari.com/collections/7800)
 
  
 
+BLACK FRIDAY DEALS
+==================
+
+Save up to 50% on consoles, games, merch, and more!
+
+[Shop Now](https://www.atari.com/collections/black-friday-sale)
+
+ 
+
 RCT Classic
 ===========
 
