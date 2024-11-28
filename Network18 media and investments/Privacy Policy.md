@@ -128,13 +128,13 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
-    * [Sreeleela](https://www.news18.com/web-stories/celebrities/5-south-diva-sreeleela-inspired-glamourous-ethnic-looks-2639695/)
     * [Taj Mahal](https://www.news18.com/viral/foreigner-visits-taj-mahal-with-elderly-father-shares-frustration-on-social-media-in-viral-video-9135413.html)
-    * [Kamala Harris](https://www.news18.com/world/is-she-drunk-kamala-harris-emotional-video-after-us-election-defeat-sparks-concerns-watch-9136288.html)
-    * [Maharashtra CM](https://www.news18.com/elections/maharashtra-assembly-election-result-2024-live-government-formation-devendra-fadnavis-eknath-shinde-ajit-pawar-chief-minister-bjp-shiv-sena-ncp-latest-news-liveblog-9135300.html)
-    * [Suhana Khan](https://www.news18.com/web-stories/celebrities/5-suhana-khan-inspired-saree-blouses-for-marriage-season-2639121/)
-    * [KKR Captain](https://www.news18.com/cricket/ipl-2025-kolkata-knight-riders-venky-mysore-ajinkya-rahane-new-kkr-captain-venkatesh-iyer-9134717.html)
-    * [Eknath Shinde](https://www.news18.com/politics/eknath-shinde-demands-mahayuti-convener-position-seeks-maharashtra-deputy-cm-post-for-son-shrikant-shinde-sources-9135494.html)
+    * [Aishwarya Rai Bachchan](https://www.news18.com/movies/aishwarya-rai-drops-bachchan-from-her-name-viral-video-sparks-rumours-fact-check-9137627.html)
+    * [Sreeleela](https://www.news18.com/web-stories/celebrities/5-south-diva-sreeleela-inspired-glamourous-ethnic-looks-2639695/)
+    * [WTC Final](https://www.news18.com/cricket/explained-how-both-india-australia-can-qualify-for-wtc-2025-final-9137876.html)
+    * [Prithvi Shaw](https://www.news18.com/cricket/prithvi-shaws-former-coach-reveals-why-star-opener-went-unsold-at-ipl-2025-mega-auction-9137818.html)
+    * [Kareena Kapoor Khan](https://www.news18.com/web-stories/celebrities/5-kareena-kapoor-khan-inspired-saree-blouses-for-marriage-season-2642366/)
+    * [Eknath Shinde](https://www.news18.com/politics/let-bjp-high-command-decide-eknath-shinde-on-next-maharashtra-cm-9135937.html)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
     * [Check Credit Score](https://www.moneycontrol.com/credit-score?utm_source=News18English&utm_medium=Email&utm_campaign=CBEnglish)
@@ -170,13 +170,13 @@ Follow us on
 
 In Trends:
 
-* [Sreeleela](https://www.news18.com/web-stories/celebrities/5-south-diva-sreeleela-inspired-glamourous-ethnic-looks-2639695/)
 * [Taj Mahal](https://www.news18.com/viral/foreigner-visits-taj-mahal-with-elderly-father-shares-frustration-on-social-media-in-viral-video-9135413.html)
-* [Kamala Harris](https://www.news18.com/world/is-she-drunk-kamala-harris-emotional-video-after-us-election-defeat-sparks-concerns-watch-9136288.html)
-* [Maharashtra CM](https://www.news18.com/elections/maharashtra-assembly-election-result-2024-live-government-formation-devendra-fadnavis-eknath-shinde-ajit-pawar-chief-minister-bjp-shiv-sena-ncp-latest-news-liveblog-9135300.html)
-* [Suhana Khan](https://www.news18.com/web-stories/celebrities/5-suhana-khan-inspired-saree-blouses-for-marriage-season-2639121/)
-* [KKR Captain](https://www.news18.com/cricket/ipl-2025-kolkata-knight-riders-venky-mysore-ajinkya-rahane-new-kkr-captain-venkatesh-iyer-9134717.html)
-* [Eknath Shinde](https://www.news18.com/politics/eknath-shinde-demands-mahayuti-convener-position-seeks-maharashtra-deputy-cm-post-for-son-shrikant-shinde-sources-9135494.html)
+* [Aishwarya Rai Bachchan](https://www.news18.com/movies/aishwarya-rai-drops-bachchan-from-her-name-viral-video-sparks-rumours-fact-check-9137627.html)
+* [Sreeleela](https://www.news18.com/web-stories/celebrities/5-south-diva-sreeleela-inspired-glamourous-ethnic-looks-2639695/)
+* [WTC Final](https://www.news18.com/cricket/explained-how-both-india-australia-can-qualify-for-wtc-2025-final-9137876.html)
+* [Prithvi Shaw](https://www.news18.com/cricket/prithvi-shaws-former-coach-reveals-why-star-opener-went-unsold-at-ipl-2025-mega-auction-9137818.html)
+* [Kareena Kapoor Khan](https://www.news18.com/web-stories/celebrities/5-kareena-kapoor-khan-inspired-saree-blouses-for-marriage-season-2642366/)
+* [Eknath Shinde](https://www.news18.com/politics/let-bjp-high-command-decide-eknath-shinde-on-next-maharashtra-cm-9135937.html)
 
 * Follow Us
 * [](https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J)
