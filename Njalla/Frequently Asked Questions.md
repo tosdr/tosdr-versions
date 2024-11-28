@@ -93,9 +93,9 @@ We use a distributed storage backend - so your data is stored in a redundant way
 Accepted payments
 -----------------
 
-We accept lots of crypto currencies, like Bitcoin, Litecoin, Monero, ZCash, Ethereum ... and we even support PayPal.
+We accept lots of crypto currencies, like Bitcoin, Litecoin, Monero, ZCash, Ethereum ... and we even support Debit/Credit Cards and PayPal.
 
-![Bitcoin](/static/img/btc.svg) ![Litecoin](/static/img/ltc.svg) ![PayPal](/static/img/paypal.svg) ![Monero](/static/img/xmr.svg) ![ZCash](/static/img/zec.svg)
+![Bitcoin](/static/img/btc.svg) ![Litecoin](/static/img/ltc.svg) ![Card](/static/img/card.svg) ![PayPal](/static/img/paypal.svg) ![Monero](/static/img/xmr.svg) ![ZCash](/static/img/zec.svg)
 
 [](https://njal.la/)
 
