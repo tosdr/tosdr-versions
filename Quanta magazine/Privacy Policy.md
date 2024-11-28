@@ -285,11 +285,29 @@ Past Week
 
 ### Most Read Articles
 
-[](https://www.quantamagazine.org/privacy-policy/)
+[![Bessis sitting at an outdoor café in Paris.](https://www.quantamagazine.org/wp-content/uploads/2024/11/QADavidBessis-crLaurenceGeai-Thumbnail.webp)](https://www.quantamagazine.org/mathematical-thinking-isnt-what-you-think-it-is-20241118/)
 
-[#### Privacy Policy](https://www.quantamagazine.org/privacy-policy/)
+[#### Mathematical Thinking Isn’t What You Think It Is](https://www.quantamagazine.org/mathematical-thinking-isnt-what-you-think-it-is-20241118/)
 
-_By_ [Quanta Magazine](https://www.quantamagazine.org/authors/quanta)
+_By_ [Kelsey Houston-Edwards](https://www.quantamagazine.org/authors/kelsey-houston-edwards)
+
+[![](https://www.quantamagazine.org/wp-content/uploads/2024/11/Meet-Luca_crRobertNeubeker-Thumbnail.webp)](https://www.quantamagazine.org/all-life-on-earth-today-descended-from-a-single-cell-meet-luca-20241120/)
+
+[#### All Life on Earth Today Descended From a Single Cell. Meet LUCA.](https://www.quantamagazine.org/all-life-on-earth-today-descended-from-a-single-cell-meet-luca-20241120/)
+
+_By_ [Jonathan Lambert](https://www.quantamagazine.org/authors/jonathan-lambert)
+
+[![An illustration of a man with an apple and looking at his reflection, in which the apple has a bite taken out of it, evoking the way that quantum reference frames can affect the perceived order of events.](https://www.quantamagazine.org/wp-content/uploads/2024/11/Quantum-Reference-Frames_crMichele-Sclafani-Thumbnail.webp)](https://www.quantamagazine.org/in-the-quantum-world-even-points-of-view-are-uncertain-20241122/)
+
+[#### In the Quantum World, Even Points of View Are Uncertain](https://www.quantamagazine.org/in-the-quantum-world-even-points-of-view-are-uncertain-20241122/)
+
+_By_ [Anil Ananthaswamy](https://www.quantamagazine.org/authors/anil-ananthaswamy)
+
+[![A cube being subdivided into smaller cubes](https://www.quantamagazine.org/wp-content/uploads/2024/11/KnotsInFractals-crDaveWhyte-Thumbnail.jpg)](https://www.quantamagazine.org/teen-mathematicians-tie-knots-through-a-mind-blowing-fractal-20241126/)
+
+[#### Teen Mathematicians Tie Knots Through a Mind-Blowing Fractal](https://www.quantamagazine.org/teen-mathematicians-tie-knots-through-a-mind-blowing-fractal-20241126/)
+
+_By_ [Gregory Barber](https://www.quantamagazine.org/authors/gregorybarber)
 
 The Quanta Newsletter
 
