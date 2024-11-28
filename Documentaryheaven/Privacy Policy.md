@@ -128,39 +128,39 @@ Advertisement
     The Dark Side of Porn: Diary of a Porn Virgin
     
     Pornography in Britain has entered the mainstream. As this documentary reveals, there is now no taboo when it comes to working in the porn industry in the UK.From a 38-year-old wife, mother and su...](https://documentaryheaven.com/the-dark-side-of-porn-diary-of-a-porn-virgin/ "The Dark Side of Porn: Diary of a Porn Virgin")
-* [![Louis Theroux: Drinking To Oblivion](/wp-content/thumbnails/16353-100x70.jpg?x53432)
+* [![Why The Industrial Revolution Happened Here](/wp-content/thumbnails/8018-100x70.jpeg?x53432)
     
-    Louis Theroux: Drinking To Oblivion
+    Why The Industrial Revolution Happened Here
     
-    Drinking To Oblivion sees Louis Theroux set about spending some time in the world of extreme drinkers, getting to know people who consume alcohol not just to excess but to the point of total oblivio...](https://documentaryheaven.com/louis-theroux-drinking-to-oblivion/ "Louis Theroux: Drinking To Oblivion")
+    Professor Jeremy Black examines one of the most extraordinary periods in British history: the Industrial Revolution. He explains the unique economic, social and political conditions that by the 19th c...](https://documentaryheaven.com/why-industrial-revolution-happened-here/ "Why The Industrial Revolution Happened Here")
 
 ###### Throwback Documentaries
 
-* [![The Gorilla King](/wp-content/thumbnails/9231-100x70.jpg?x53432)
+* [![The Doctor, the Depleted Uranium, and the Dying Children](/wp-content/thumbnails/2642-100x70.jpg?x53432)
     
-    The Gorilla King
+    The Doctor, the Depleted Uranium, and the Dying Children
     
-    High on the Virunga Volcanos of Rwanda lives a lost tribe, one of our closest living relatives, the Mountain Gorilla. This particular mountain is a dangerous one, and no more so than for one](https://documentaryheaven.com/gorilla-king/ "The Gorilla King")
-* [![America’s Medicated Kids](/wp-content/thumbnails/7298-100x70.jpg?x53432)
+    An award winning documentary film produced for German television by Freider Wagner and Valentin Thurn. The film exposes the use and impact of radioactive weapons during the current war against Iraq.](https://documentaryheaven.com/the-doctor-the-depleted-uranium-and-the-dying-children/ "The Doctor, the Depleted Uranium, and the Dying Children")
+* [![EP4/4 Wonders of the Universe](/wp-content/thumbnails/5692-100x70.jpg?x53432)
     
-    America’s Medicated Kids
+    EP4/4 Wonders of the Universe
     
-    Parents in America are turning to psychoactive medication to help them cope with the challenging behaviour of their kids, even though the drugs, and sometimes the diagnoses, remain controversial.I](https://documentaryheaven.com/americas-medicated-kids/ "America’s Medicated Kids")
-* [![Mourinho](/wp-content/thumbnails/7013-100x70.jpg?x53432)
+    Messengers In the last episode of Professor Brian Cox’s epic journey across the universe, he travels from the fossils of the Burgess Shale to the sands of the oldest desert in the world to show how li](https://documentaryheaven.com/wonders-of-the-universe-4/ "EP4/4 Wonders of the Universe")
+* [![Deep Web](/wp-content/thumbnails/9904-100x70.jpg?x53432)
     
-    Mourinho
+    Deep Web
     
-    He is the only manager to have won league titles in England, Italy and Spain. In barely a decade he has won 21 major trophies, sparked unprecedented acclaim and controversy and become a sporting pheno](https://documentaryheaven.com/mourinho/ "Mourinho")
-* [![2057: The City of the Future](/wp-content/thumbnails/1289-100x70.jpg?x53432)
+    The Deep Web is vast, thousands of times larger than the "Surface Web" i.e. the searchable web that we all know and love. The Deep Web itself is not a place it just simply accounts for all of the](https://documentaryheaven.com/deep-web/ "Deep Web")
+* [![The Nine Months That Made You](/wp-content/thumbnails/6030-100x70.jpg?x53432)
     
-    2057: The City of the Future
+    The Nine Months That Made You
     
-    What would you see and experience if the clocks rolled forward 50 years? In a unique blend of drama and science, this three-part series shows you the world of tomorrow. Will we have flying cars? Will](https://documentaryheaven.com/2057-the-city-of-the-future/ "2057: The City of the Future")
-* [![Hunting the Edge of Space](/wp-content/thumbnails/14262-100x70.jpg?x53432)
+    Horizon explores the secrets of what makes a long, healthy and happy life. It turns out that a time you can’t remember – the nine months you spend in the womb – could have more lasting effects on you](https://documentaryheaven.com/the-nine-months-that-made-you/ "The Nine Months That Made You")
+* [![Daft Punk: Random Access Memories (Behind The Scenes)](/wp-content/thumbnails/7111-100x70.png?x53432)
     
-    Hunting the Edge of Space
+    Daft Punk: Random Access Memories (Behind The Scenes)
     
-    Today we are unlocking the secrets of the cosmos, exploding stars, supermassive blackholes and screaming jets of gas. Across the world and in space, high tech telescopes are picking up the signals whi](https://documentaryheaven.com/hunting-edge-space/ "Hunting the Edge of Space")
+    After 8 years Daft Punk is back with a new album and the the song “Get Lucky” with vocals from Pharrell Williams has burned up the Internet since its release. A look at the collaborators behind Random](https://documentaryheaven.com/daft-punk-random-access-memories/ "Daft Punk: Random Access Memories (Behind The Scenes)")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
