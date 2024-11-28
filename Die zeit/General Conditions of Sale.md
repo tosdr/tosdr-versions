@@ -42,6 +42,7 @@ Lesezeichen
 * [Schlagzeilen](https://www.zeit.de/news/index)
 * [Daten und Visualisierung](https://www.zeit.de/daten-und-visualisierung)
 * [Fragen Sie ZEIT ONLINE (Beta)](https://www.zeit.de/beta/fragen-sie-zeit-online-news)
+* [Aktuelle ZEIT-Ausgabe](https://www.zeit.de/aktuelle-ausgabe)
 * [DIE ZEIT Ausgabenarchiv](https://www.zeit.de/archiv/index)
 * [Spiele](https://www.zeit.de/spiele/index)
 
