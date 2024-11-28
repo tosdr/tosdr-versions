@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
+        
+        #### [Boil orders in the Quad Cities region](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
+        
     *  [![](https://media.tegna-media.com/assets/WTOL/images/e6a46ce0-5c9c-4bfe-b123-4c9c9eb705c6/20241127T155720/e6a46ce0-5c9c-4bfe-b123-4c9c9eb705c6_16x9.jpg) ![](https://media.tegna-media.com/assets/WTOL/images/e6a46ce0-5c9c-4bfe-b123-4c9c9eb705c6/20241127T155720/e6a46ce0-5c9c-4bfe-b123-4c9c9eb705c6_360x203.jpg)](https://www.wqad.com/article/news/local/illinois-hunters-54000-deer-opening-weekend-firearm-hunting-season/526-9955a1ad-b125-4d0a-9b17-5871be77d2f8)
         
         #### [Illinois hunters bagged more than 54,000 deer during the opening weekend of firearm deer season](https://www.wqad.com/article/news/local/illinois-hunters-54000-deer-opening-weekend-firearm-hunting-season/526-9955a1ad-b125-4d0a-9b17-5871be77d2f8)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/bdd2eb20-15f2-4e38-a715-f475eca60dfd/20241127T230404/bdd2eb20-15f2-4e38-a715-f475eca60dfd_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/bdd2eb20-15f2-4e38-a715-f475eca60dfd/20241127T230404/bdd2eb20-15f2-4e38-a715-f475eca60dfd_360x203.jpg)](https://www.wqad.com/article/money/business/small-business/small-business-saturday-quad-cities-region-businesses-encouraging-shop-local/526-f53a0b28-f939-49b7-af63-1baf0b3a05da)
-        
-        #### [How a Prophetstown small business went from a basement boutique to a storefront success](https://www.wqad.com/article/money/business/small-business/small-business-saturday-quad-cities-region-businesses-encouraging-shop-local/526-f53a0b28-f939-49b7-af63-1baf0b3a05da)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,9 +56,9 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/d1ac0856-dbbb-4065-907b-b6938945b164/20241127T234155/d1ac0856-dbbb-4065-907b-b6938945b164_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d1ac0856-dbbb-4065-907b-b6938945b164/20241127T234155/d1ac0856-dbbb-4065-907b-b6938945b164_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/8b3cfe34-598e-4972-ba40-5a78463b2dbf/20241128T132453/8b3cfe34-598e-4972-ba40-5a78463b2dbf_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/8b3cfe34-598e-4972-ba40-5a78463b2dbf/20241128T132453/8b3cfe34-598e-4972-ba40-5a78463b2dbf_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Dry and comfortable Wednesday; Big chill arrives for Thanksgiving](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Windy and much colder Thanksgiving and beyond](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/WCNC/images/a11cb4f4-9f11-4770-b48b-af0d48f1ce2c/a11cb4f4-9f11-4770-b48b-af0d48f1ce2c_16x9.jpeg) ![](https://media.tegna-media.com/assets/WCNC/images/a11cb4f4-9f11-4770-b48b-af0d48f1ce2c/a11cb4f4-9f11-4770-b48b-af0d48f1ce2c_360x203.jpeg)](https://www.wqad.com/article/weather/historical-level-cold-iowa-state-cyclones-hawkeyes-football-weather/524-0bf8d5bd-3157-4c2b-837b-698d6104639b)
         
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-26°
+27°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
