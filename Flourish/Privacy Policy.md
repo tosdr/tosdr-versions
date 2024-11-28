@@ -275,7 +275,7 @@ We may update this Privacy Policy from time to time to reflect our current pract
 
 Please submit any questions or comments you have about our privacy practices or this Privacy Policy, or any requests concerning your personal data information, by email to [support@flourish.studio](mailto:support@flourish.studio) or write to us at: Flourish Team, Canva UK Operations Limited, 33-35 Hoxton Square, London, N1 6NN.
 
-Our local representative in the EEA is European Data Protection Office (EDPO) with registered address at Regus Block 1, Blanchardstown Corporate Park, Ballycoolen Road, Blanchardstown, Dublin, D15 AKK1, Ireland. The EDPO can be contacted at [info@edpo.com](mailto:info@edpo.com). If you are in the EEA, data subject request forms can be accessed at [http://edpo.com/gdpr-data-request/](http://edpo.com/gdpr-data-request/).
+Our local representative in the EEA is European Data Protection Office (EDPO) with registered address at Ground Floor, 71 Lower Baggot Street, Dublin, D02 P593 Ireland. The EDPO can be contacted at [info@edpo.com](mailto:info@edpo.com). If you are in the EEA, data subject request forms can be accessed at [http://edpo.com/gdpr-data-request/](http://edpo.com/gdpr-data-request/).
 
 #### Company
 
