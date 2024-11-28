@@ -95,6 +95,94 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
+More The Universe Was Created Recently
+
+[![](/i/wide/cosmic_supervoid_wide.jpg)](https://www.icr.org/article/cosmic-supervoid-vs-big-bang)
+
+[A Cosmic 'Supervoid' vs. the Big Bang](https://www.icr.org/article/cosmic-supervoid-vs-big-bang/)
+
+In a new paper, scientists have announced the discovery of an enormous region of lower-than-average galaxy density about three billion light-years from...
+
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+
+[![](/i/stage_248/saturnrings-stage.jpg)](https://www.icr.org/article/secular-scientists-dumbfounded-by-saturns)
+
+[Secular Scientists Dumbfounded by Saturn's Young Rings](https://www.icr.org/article/secular-scientists-dumbfounded-by-saturns/)
+
+Data obtained by an instrument aboard the Cassini space probe have convinced planetary scientists that Saturn’s rings can be no more than a few...
+
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+
+[![](/i/wide/rare_supernova_wide.jpg)](https://www.icr.org/article/rare-supernova-recalls-missing-remnants)
+
+[Rare Supernova Recalls Missing Remnants Mystery](https://www.icr.org/article/rare-supernova-recalls-missing-remnants/)
+
+Astronomers have found "the supernova of a generation," according to University of California's Joshua Bloom.1 Sequential photographs show the...
+
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+
+More Creation Science Update
+
+[![](/i/Main%20Stage%20-%201400x1050/MetabolismOrigin_1400x1050.jpg)](https://www.icr.org/article/metabolism-origin)
+
+[The Origin of Metabolism](https://www.icr.org/article/metabolism-origin/)
+
+Metabolism is the totality of chemical reactions that manage all of the molecular, material, and energy resources within an organism. Part of a creature’s...
+
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+
+[![](/i/Main%20Stage%20-%201400x1050/blue_bacteria_1400x1050)](https://www.icr.org/article/bacterial-complexity)
+
+[Bacterial Complexity](https://www.icr.org/article/bacterial-complexity/)
+
+Yet another layer of complexity has been added to the lowly bacterial cell. It has been discovered they can undergo genetic silencing to guard themselves...
+
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+
+[![](/i/Main%20Stage%20-%201400x1050/AnotherLivingFossil_1400x1050)](https://www.icr.org/article/yet-another-living-fossil-found)
+
+[Yet Another Living Fossil Found](https://www.icr.org/article/yet-another-living-fossil-found/)
+
+Evolutionary philosophy states the fossil record is a record of the gradual and slow evolution of life forms that all came from a single common ancestor...
+
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+
+Shop Related Products
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/16087568/file.jpg)
+
+Ancient and Fossil Bone Collagen Remnants](https://store.icr.org/ancient-and-fossil-bone-collagen-remnants.html)
+
+$29.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/13216342/file.jpg)
+
+Discovering Dinosaurs - Download](https://store.icr.org/mr-brian-thomas-discovering-dinosaurs-download.html)
+
+$4.99
+
+$9.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/60049696/file.jpg)
+
+Living in Light of Genesis](https://store.icr.org/living-in-the-light-of-genesis.html)
+
+$15.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/25997817/file.jpg)
+
+Why the World Looks So Young](https://store.icr.org/why-the-world-looks-so-young.html)
+
+$7.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/60993469/file.jpg)
+
+Why the World Looks So Young - eBook](https://store.icr.org/why-the-world-looks-so-young-ebook.html)
+
+$2.99
+
+$7.99
+
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
