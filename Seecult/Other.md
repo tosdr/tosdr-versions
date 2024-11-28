@@ -314,11 +314,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/galerija-talenata/godisnja-izlozba-studenata-flu-beograd-2005/2006/11-g.jpg?itok=gjJEZSji)](http://seecult.org/galerija/galerija-umetnika/galerija-talenata/godisnja-izlozba-studenata-flu-beograd-20052006)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zorica-vasic/staro-dvoriste/old-yard/deca-children2.jpg?itok=b671XtPT)](http://seecult.org/galerija/galerija-umetnika/zorica-vasic/staro-dvoriste-old-yard)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/izlozbe-exhibitions/davor-gobac-oh-yeah/oh-yeah-003.jpg?itok=v2EnHbLZ)](http://seecult.org/galerija/foto-galerija/izlo%C5%BEbe-exhibitions/davor-gobac-oh-yeah)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/13-sff-17-25807/buscemi.jpg?itok=GCSHcNpl)](http://seecult.org/galerija/foto-galerija/foto-arhiva/13-sff-17-25807)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -334,6 +334,8 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 * [Nadežda Petrović u Narodnom muzeju](http://seecult.org/vest/nadezda-petrovic-u-narodnom-muzeju)
 
+* [Vladimiru Radovanoviću nagrada Marko Glušac](http://seecult.org/vest/vladimiru-radovanovicu-nagrada-marko-glusac)
+* [30\. FAF na BIS](http://seecult.org/vest/30-faf-na-bis)
 * [Nemi film uživo](http://seecult.org/vest/nemi-film-uzivo)
 * [Užičko pozorište pobednik 17. Festivala pobednika festivala](http://seecult.org/vest/uzicko-pozoriste-pobednik-17-festivala-pobednika-festivala)
 * [Uručene specijalne nagrade 30. FAF-a](http://seecult.org/vest/urucene-specijalne-nagrade-30-faf)
@@ -342,8 +344,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Nikiti Zdravkoviću nagrada Veruj u sebe](http://seecult.org/vest/nikiti-zdravkovicu-nagrada-veruj-u-sebe)
 * [Univerzalna vrednost u opasnosti](http://seecult.org/vest/univerzalna-vrednost-u-opasnosti)
 * [Škola kao ogledalo društva](http://seecult.org/vest/skola-kao-ogledalo-drustva)
-* [Uručenje nagrada UDUS-a](http://seecult.org/vest/urucenje-nagrada-udus)
-* [Voda kao metafora za transformaciju i obnovu](http://seecult.org/vest/voda-kao-metafora-za-transformaciju-i-obnovu)
 
 * [Konkursi](#tab1_1)
 
