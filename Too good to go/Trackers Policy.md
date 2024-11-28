@@ -8,13 +8,13 @@ Download the App
 
 [Business sign-up](https://store.toogoodtogo.com/onboarding "Business sign-up")
 
-[Store login](https://store.toogoodtogo.com/login "Store login")
+[MyStore login](https://store.toogoodtogo.com/login "MyStore login")
 
 Download the App
 
 [Business sign-up](https://store.toogoodtogo.com/onboarding "Business sign-up")
 
-[Store login](https://store.toogoodtogo.com/login "Store login")
+[MyStore login](https://store.toogoodtogo.com/login "MyStore login")
 
 Download the App
 
@@ -24,13 +24,13 @@ Download the App
 
 [Business sign-up](https://store.toogoodtogo.com/onboarding "Business sign-up")
 
-[Store login](https://store.toogoodtogo.com/login "Store login")
+[MyStore login](https://store.toogoodtogo.com/login "MyStore login")
 
 Download the App
 
 [Business sign-up](https://store.toogoodtogo.com/onboarding "Business sign-up")
 
-[Store login](https://store.toogoodtogo.com/login "Store login")
+[MyStore login](https://store.toogoodtogo.com/login "MyStore login")
 
 Download the App
 
@@ -112,7 +112,7 @@ United States (English)
 
 [Business sign-up](https://store.toogoodtogo.com/onboarding "Business sign-up")
 
-[Store login](https://store.toogoodtogo.com/login "Store login")
+[MyStore login](https://store.toogoodtogo.com/login "MyStore login")
 
 Cookie Policy
 =============
