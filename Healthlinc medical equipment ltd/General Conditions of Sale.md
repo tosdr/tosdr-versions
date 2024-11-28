@@ -8,7 +8,7 @@ Open Today:8:00am-5:00pm
 Mon - Fri:8:00am-5:00pm  
 Sat / Sun:Closed
 
-Telephone:[604-821-0075](tel:604-821-0075)  
+Telephone:[1-844-821-0075](tel:1-844-821-0075)  
 Fax:604-821-0049
 
 ![](https://www.hmebc.com/wp-content/themes/UWD/icons/hmelogopeople.png)
@@ -24,7 +24,7 @@ Open Today:8:00am-5:00pm
 Mon - Fri:8:00am-5:00pm  
 Sat / Sun:Closed
 
-Telephone:[604-535-5768](tel:604-535-5768)  
+Telephone:[1-844-821-0075](tel:1-844-821-0075)  
 Fax:604-542-0184
 
 ![](https://www.hmebc.com/wp-content/themes/UWD/icons/hmelogopeople.png)
@@ -40,7 +40,7 @@ Open Today:8:00am-5:00pm
 Mon - Fri:8:00am-5:00pm  
 Sat / Sun:Closed
 
-Telephone:[250-386-0075](tel:250-386-0075)  
+Telephone:[1-844-821-0075](tel:1-844-821-0075)  
 Fax:250-386-0049
 
 ![](https://www.hmebc.com/wp-content/themes/UWD/icons/hmelogopeople.png)
@@ -56,7 +56,7 @@ Open Today:8:00am-5:00pm
 Mon - Fri:8:00am-5:00pm  
 Sat / Sun:Closed
 
-Telephone:[778-441-0077](tel:778-441-0077)  
+Telephone:[1-844-821-0075](tel:1-844-821-0075)  
 Fax:250-591-0055
 
 ![](https://www.hmebc.com/wp-content/themes/UWD/icons/hmelogopeople.png)
@@ -72,7 +72,7 @@ Open Today:8:00am-5:00pm
 Mon - Fri:8:00am-5:00pm  
 Sat / Sun:Closed
 
-Telephone:[236-420-6877](tel:236-420-6877)  
+Telephone:[1-844-821-0075](tel:1-844-821-0075)  
 Fax:236-420-6881
 
 ![](https://www.hmebc.com/wp-content/themes/UWD/icons/hmelogopeople.png)
@@ -88,7 +88,7 @@ Open Today:8:00am-5:00pm
 Mon - Fri:8:00am-5:00pm  
 Sat / Sun:Closed
 
-Telephone:[604-973-5768](tel:604-973-5768)  
+Telephone:[1-844-821-0075](tel:1-844-821-0075)  
 Fax:604-770-0290
 
 ![](https://www.hmebc.com/wp-content/themes/UWD/icons/hmelogopeople.png)
