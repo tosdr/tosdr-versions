@@ -33,7 +33,7 @@ Search  Search
 
 [×](#)
 
-World Headquarters will be closed November 28-29 in observance of the Thanksgiving holiday.
+World Headquarters will be closed November 28-29 in observance of the Thanksgiving holiday
 
 Privacy Policy
 ==============
