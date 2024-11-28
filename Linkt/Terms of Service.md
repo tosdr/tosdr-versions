@@ -24,7 +24,7 @@ Accounts and passes _arrow\_drop\_down_
 
 Using toll roads _arrow\_drop\_down_
 
-[* Toll calculator](https://www.linkt.com.au/using-toll-roads/toll-calculator/brisbane.html)[* About Queensland toll roads](https://www.linkt.com.au/using-toll-roads/about-brisbane-toll-roads/brisbane.html)[* News](https://www.linkt.com.au/using-toll-roads/news/brisbane.html)[* Safety and sustainability](https://www.linkt.com.au/using-toll-roads/safety/brisbane.html)[* Traffic and roadworks](https://www.linkt.com.au/using-toll-roads/traffic-and-roadworks/brisbane.html)
+[* Toll calculator](https://www.linkt.com.au/using-toll-roads/toll-calculator/brisbane.html)[* Trip Compare](https://www.linkt.com.au/using-toll-roads/trip-compare/brisbane.html)[* About Queensland toll roads](https://www.linkt.com.au/using-toll-roads/about-brisbane-toll-roads/brisbane.html)[* News](https://www.linkt.com.au/using-toll-roads/news/brisbane.html)[* Safety and sustainability](https://www.linkt.com.au/using-toll-roads/safety/brisbane.html)[* Traffic and roadworks](https://www.linkt.com.au/using-toll-roads/traffic-and-roadworks/brisbane.html)
 
  ![Help icon](/content/dam/mylo/images/header-footer/nav-icons/help-question.svg) Help
 
@@ -57,7 +57,7 @@ Hi
 
 [Using toll roads _arrow\_drop\_down_](#)
 
-[Toll calculator](https://www.linkt.com.au/using-toll-roads/toll-calculator/brisbane.html) [About Queensland toll roads](https://www.linkt.com.au/using-toll-roads/about-brisbane-toll-roads/brisbane.html) [News](https://www.linkt.com.au/using-toll-roads/news/brisbane.html) [Safety and sustainability](https://www.linkt.com.au/using-toll-roads/safety/brisbane.html) [Traffic and roadworks](https://www.linkt.com.au/using-toll-roads/traffic-and-roadworks/brisbane.html)
+[Toll calculator](https://www.linkt.com.au/using-toll-roads/toll-calculator/brisbane.html) [Trip Compare](https://www.linkt.com.au/using-toll-roads/trip-compare/brisbane.html) [About Queensland toll roads](https://www.linkt.com.au/using-toll-roads/about-brisbane-toll-roads/brisbane.html) [News](https://www.linkt.com.au/using-toll-roads/news/brisbane.html) [Safety and sustainability](https://www.linkt.com.au/using-toll-roads/safety/brisbane.html) [Traffic and roadworks](https://www.linkt.com.au/using-toll-roads/traffic-and-roadworks/brisbane.html)
 
 ![](/content/dam/mylo/images/header-footer/nav-icons/cross-icon.svg)
 
