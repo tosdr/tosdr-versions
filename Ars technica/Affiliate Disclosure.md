@@ -91,7 +91,7 @@ Most Read
     
 3. 3. [Found in the wild: The world’s first unkillable UEFI bootkit for Linux](https://arstechnica.com/security/2024/11/found-in-the-wild-the-worlds-first-unkillable-uefi-bootkit-for-linux/)
     
-4. 4. [Nvidia’s new AI audio model can synthesize sounds that have never existed](https://arstechnica.com/ai/2024/11/nvidias-new-ai-audio-model-can-synthesize-sounds-that-have-never-existed/)
+4. 4. [Man suffers chemical burn that lasted months after squeezing limes](https://arstechnica.com/health/2024/11/man-suffers-chemical-burn-that-lasted-months-after-squeezing-limes/)
     
 5. 5. [FCC approves Starlink plan for cellular phone service, with some limits](https://arstechnica.com/tech-policy/2024/11/fcc-approves-starlink-plan-for-cellular-phone-service-with-some-limits/)
     
