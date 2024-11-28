@@ -727,7 +727,6 @@ Footer
 * [YouTube](https://www.youtube.com/user/RWTHAachenUniversity "YouTube (Footer)")
 * [TikTok](https://www.tiktok.com/@rwth_aachen_university "TikTok (Footer)")
 * [Facebook](https://de-de.facebook.com/RWTHAachenUniversity "Facebook (Footer)")
-* [X](https://twitter.com/RWTH "X (Footer)")
 * [RWTH Social Media](https://www.rwth-aachen.de/socialmedia/ "RWTH Social Media (Footer)")
 
 ### Further Institutions
