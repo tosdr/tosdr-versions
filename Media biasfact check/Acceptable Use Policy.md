@@ -67,11 +67,11 @@
 
 MBFC News
 
-* [November 24, 2024 | Source of the Week: Write Revolution News](https://mediabiasfactcheck.com/2024/11/24/source-of-the-week-write-revolution-news/ "Source of the Week: Write Revolution News")
-* [November 24, 2024 | MBFC’s Daily Vetted Fact Checks for 11/24/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/11/24/mbfcs-daily-vetted-fact-checks-for-11-24-2024-weekend-edition/ "MBFC’s Daily Vetted Fact Checks for 11/24/2024 (Weekend Edition)")
-* [November 23, 2024 | MBFC’s Weekly Media Literacy Quiz Covering the Week of Nov 17th – Nov 23rd](https://mediabiasfactcheck.com/2024/11/23/mbfcs-weekly-media-literacy-quiz-covering-the-week-of-nov-17th-nov-23rd/ "MBFC’s Weekly Media Literacy Quiz Covering the Week of Nov 17th – Nov 23rd")
-* [November 23, 2024 | MBFC’s Daily Vetted Fact Checks for 11/23/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/11/23/mbfcs-daily-vetted-fact-checks-for-11-23-2024-weekend-edition/ "MBFC’s Daily Vetted Fact Checks for 11/23/2024 (Weekend Edition)")
-* [November 22, 2024 | Media News Daily: Top Stories for 11/22/2024](https://mediabiasfactcheck.com/2024/11/22/media-news-daily-top-stories-for-11-22-2024/ "Media News Daily: Top Stories for 11/22/2024")
+* [November 28, 2024 | MBFC’s Daily Vetted Fact Checks for 11/28/2024](https://mediabiasfactcheck.com/2024/11/28/mbfcs-daily-vetted-fact-checks-for-11-28-2024/ "MBFC’s Daily Vetted Fact Checks for 11/28/2024")
+* [November 27, 2024 | Media News Daily: Top Stories for 11/27/2024](https://mediabiasfactcheck.com/2024/11/27/media-news-daily-top-stories-for-11-27-2024/ "Media News Daily: Top Stories for 11/27/2024")
+* [November 27, 2024 | MBFC’s Daily Vetted Fact Checks for 11/27/2024](https://mediabiasfactcheck.com/2024/11/27/mbfcs-daily-vetted-fact-checks-for-11-27-2024/ "MBFC’s Daily Vetted Fact Checks for 11/27/2024")
+* [November 26, 2024 | Media News Daily: Top Stories for 11/26/2024](https://mediabiasfactcheck.com/2024/11/26/media-news-daily-top-stories-for-11-26-2024/ "Media News Daily: Top Stories for 11/26/2024")
+* [November 26, 2024 | MBFC’s Daily Vetted Fact Checks for 11/26/2024](https://mediabiasfactcheck.com/2024/11/26/mbfcs-daily-vetted-fact-checks-for-11-26-2024/ "MBFC’s Daily Vetted Fact Checks for 11/26/2024")
 
 Search for:  
 
@@ -86,6 +86,8 @@ Fair Use Policy and Legal Disclaimer
 This site contains copyrighted material the use of which has not always been specifically authorized by the copyright owner. In accord with our mission, we are making such material available to advance understanding of media bias and factual reporting. We believe this constitutes a ‘fair use’ of any such copyrighted material as provided in Section 107 of the US Copyright Law. In accordance with Title 17 U.S.C. Section 107, the material on this site is distributed  to those who have expressed a prior interest in receiving the included information for research and educational purposes. For further information on fair use, go to: [https://www.copyright.gov/fair-use/more-info.html](https://www.copyright.gov/fair-use/more-info.html)
 
 If you wish to use copyrighted material from this site for purposes of your own that go beyond fair use, you must obtain permission from the copyright owner.
+
+Last Updated on October 18, 2018 by Media Bias Fact Check
 
 * * *
 
@@ -129,74 +131,74 @@ If you wish to use copyrighted material from this site for purposes of your own 
 
 #### Recently Added Sources or Pages
 
-* [San Francisco Public Press – Bias and Credibility](https://mediabiasfactcheck.com/san-francisco-public-press-bias/)
+* [Drop Site News – Bias and Credibility](https://mediabiasfactcheck.com/drop-site-news-bias-and-credibility/)
     
-    November 24, 2024
+    November 28, 2024
     
-* [The Bureau Of Investigative Journalism – Bias and Credibility](https://mediabiasfactcheck.com/the-bureau-of-investigative-journalism-bias/)
+* [The Burning Platform – Bias and Credibility](https://mediabiasfactcheck.com/the-burning-platform-bias-and-credibility/)
     
-    November 24, 2024
+    November 28, 2024
     
-* [The Assembly NC – Bias and Credibility](https://mediabiasfactcheck.com/the-assembly-nc-bias-and-credibility/)
+* [The Cool Down – Bias and Credibility](https://mediabiasfactcheck.com/the-cool-down-bias-and-credibility/)
     
-    November 24, 2024
+    November 28, 2024
     
-* [Annual Review of Pathology: Mechanisms of Disease – Bias and Credibility](https://mediabiasfactcheck.com/annual-review-of-pathology-mechanisms-of-disease-bias/)
+* [Daily Upside – Bias and Credibility](https://mediabiasfactcheck.com/daily-upside-bias-and-credibility/)
     
-    November 24, 2024
+    November 28, 2024
     
-* [Texas Signal – Bias and Credibility](https://mediabiasfactcheck.com/texas-signal-bias-and-credibility/)
+* [The Critic – Bias and Credibility](https://mediabiasfactcheck.com/the-critic-bias-and-credibility/)
     
-    November 24, 2024
+    November 28, 2024
     
-* [Telegraph India – Bias and Credibility](https://mediabiasfactcheck.com/telegraph-india-bias-and-credibility/)
+* [The Defense Post – Bias and Credibility](https://mediabiasfactcheck.com/the-defense-post-bias-and-credibility/)
     
-    November 23, 2024
+    November 28, 2024
     
-* [Bristol Post – Bias and Credibility](https://mediabiasfactcheck.com/bristol-post-bias-and-credibility/)
+* [Sveriges Television (SVT) – Bias and Credibility](https://mediabiasfactcheck.com/sveriges-television-svt-bias-and-credibility/)
     
-    November 23, 2024
+    November 27, 2024
     
-* [Svenska Dagbladet (SvD) – Bias and Credibility](https://mediabiasfactcheck.com/svenska-dagbladet-svd-bias-and-credibility/)
+* [Harvard Crimson – Bias and Credibility](https://mediabiasfactcheck.com/harvard-crimson-bias-and-credibility/)
     
-    November 23, 2024
+    November 27, 2024
     
 
 #### Recently Updated Pages
 
-* [Left Bias](https://mediabiasfactcheck.com/left/ "View Left Bias") - November 24, 2024
+* [Left Bias](https://mediabiasfactcheck.com/left/ "View Left Bias") - November 28, 2024
     
-* [San Francisco Public Press – Bias and Credibility](https://mediabiasfactcheck.com/san-francisco-public-press-bias/ "View San Francisco Public Press – Bias and Credibility") - November 24, 2024
+* [Drop Site News – Bias and Credibility](https://mediabiasfactcheck.com/drop-site-news-bias-and-credibility/ "View Drop Site News – Bias and Credibility") - November 28, 2024
     
-* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - November 24, 2024
+* [Questionable Sources](https://mediabiasfactcheck.com/fake-news/ "View Questionable Sources") - November 28, 2024
     
-* [The Bureau Of Investigative Journalism – Bias and Credibility](https://mediabiasfactcheck.com/the-bureau-of-investigative-journalism-bias/ "View The Bureau Of Investigative Journalism – Bias and Credibility") - November 24, 2024
+* [The Burning Platform – Bias and Credibility](https://mediabiasfactcheck.com/the-burning-platform-bias-and-credibility/ "View The Burning Platform – Bias and Credibility") - November 28, 2024
     
-* [Left-Center Bias](https://mediabiasfactcheck.com/leftcenter/ "View Left-Center Bias") - November 24, 2024
+* [Left-Center Bias](https://mediabiasfactcheck.com/leftcenter/ "View Left-Center Bias") - November 28, 2024
     
-* [The Assembly NC – Bias and Credibility](https://mediabiasfactcheck.com/the-assembly-nc-bias-and-credibility/ "View The Assembly NC – Bias and Credibility") - November 24, 2024
+* [The Cool Down – Bias and Credibility](https://mediabiasfactcheck.com/the-cool-down-bias-and-credibility/ "View The Cool Down – Bias and Credibility") - November 28, 2024
     
-* [Pro-Science](https://mediabiasfactcheck.com/pro-science/ "View Pro-Science") - November 24, 2024
+* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - November 28, 2024
     
-* [Annual Review of Pathology: Mechanisms of Disease – Bias and Credibility](https://mediabiasfactcheck.com/annual-review-of-pathology-mechanisms-of-disease-bias/ "View Annual Review of Pathology: Mechanisms of Disease – Bias and Credibility") - November 24, 2024
+* [Daily Upside – Bias and Credibility](https://mediabiasfactcheck.com/daily-upside-bias-and-credibility/ "View Daily Upside – Bias and Credibility") - November 28, 2024
     
-* [Texas Signal – Bias and Credibility](https://mediabiasfactcheck.com/texas-signal-bias-and-credibility/ "View Texas Signal – Bias and Credibility") - November 24, 2024
+* [Right Bias](https://mediabiasfactcheck.com/right/ "View Right Bias") - November 28, 2024
     
-* [Interactive Maps and Charts by MBFC](https://mediabiasfactcheck.com/interactive-maps-and-charts-by-mbfc/ "View Interactive Maps and Charts by MBFC") - November 24, 2024
+* [The Critic – Bias and Credibility](https://mediabiasfactcheck.com/the-critic-bias-and-credibility/ "View The Critic – Bias and Credibility") - November 28, 2024
     
 
 #### Today’s Top Page Views
 
 * [Media Bias/Fact Check News](https://mediabiasfactcheck.com/)
-* [Least Biased](https://mediabiasfactcheck.com/center/)
 * [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
+* [Least Biased](https://mediabiasfactcheck.com/center/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
+* [New Republic - Bias and Credibility](https://mediabiasfactcheck.com/new-republic/)
+* [BBC - Bias and Credibility](https://mediabiasfactcheck.com/bbc/)
+* [The Guardian - Bias and Credibility](https://mediabiasfactcheck.com/the-guardian/)
 * [NewsNation - Bias and Credibility](https://mediabiasfactcheck.com/newsnation/)
-* [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
-* [Daily Mail - Bias and Credibility](https://mediabiasfactcheck.com/daily-mail/)
-* [MSNBC - Bias and Credibility](https://mediabiasfactcheck.com/msnbc/)
-* [MBFC's Daily Vetted Fact Checks for 11/23/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/11/23/mbfcs-daily-vetted-fact-checks-for-11-23-2024-weekend-edition/)
+* [MBFC's Daily Vetted Fact Checks for 11/27/2024](https://mediabiasfactcheck.com/2024/11/27/mbfcs-daily-vetted-fact-checks-for-11-27-2024/)
 
 #### Subscribe via Email
 
