@@ -535,12 +535,8 @@ You can earn points and redeem rewards on eligible delivery orders if you join t
     * [Community Overview](https://www.mcdonalds.com/us/en-us/community.html)
     * [Now Serving](https://www.mcdonalds.com/us/en-us/now-serving.html)
     * [Scholarship Overview](https://www.mcdonalds.com/us/en-us/mcdonalds-scholarships.html)
-    * [HACER® Scholarships for Hispanic Students](https://www.mcdonalds.com/us/en-us/community/hacer.html)
-    * [McDonald’s Asian Pacific American](https://www.mcdonalds.com/us/en-us/asian-pacific-americans.html)
-    * [Black and Positively Golden](https://www.mcdonalds.com/us/en-us/black-and-positively-golden.html)
     * [Ronald McDonald House Charities®](https://www.mcdonalds.com/us/en-us/community/giving-back-with-ronald-mcdonald-house.html)
     * [McDonald’s International](https://corporate.mcdonalds.com/corpmcd.html)
-    * [McDonald’s LGBTQ+](https://www.mcdonalds.com/us/en-us/community/lgbtq-plus.html)
     
 * Contact Us
     ----------
@@ -586,12 +582,8 @@ Community
 * [Community Overview](https://www.mcdonalds.com/us/en-us/community.html)
 * [Now Serving](https://www.mcdonalds.com/us/en-us/now-serving.html)
 * [Scholarship Overview](https://www.mcdonalds.com/us/en-us/mcdonalds-scholarships.html)
-* [HACER® Scholarships for Hispanic Students](https://www.mcdonalds.com/us/en-us/community/hacer.html)
-* [McDonald’s Asian Pacific American](https://www.mcdonalds.com/us/en-us/asian-pacific-americans.html)
-* [Black and Positively Golden](https://www.mcdonalds.com/us/en-us/black-and-positively-golden.html)
 * [Ronald McDonald House Charities®](https://www.mcdonalds.com/us/en-us/community/giving-back-with-ronald-mcdonald-house.html)
 * [McDonald’s International](https://corporate.mcdonalds.com/corpmcd.html)
-* [McDonald’s LGBTQ+](https://www.mcdonalds.com/us/en-us/community/lgbtq-plus.html)
 
 Contact Us
 ----------
