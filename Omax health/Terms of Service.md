@@ -1,8 +1,8 @@
-![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)       
+![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)   
 
-     
+Terms & Conditions – Omax Health - Omax Health                          
 
-Terms & Conditions – Omax Health - Omax Health                                 
+                
 
 FREE U.S. SHIPPING ON ALL ORDERS
 
@@ -303,13 +303,13 @@ Go to product page
 
 ### Let customers speak for us
 
-[3414 reviews](https://omaxhealth.com/pages/reviews)
+[3415 reviews](https://omaxhealth.com/pages/reviews)
 
 [Write a review](#)
 
 91%
 
-(3092)
+(3093)
 
 5%
 
@@ -327,7 +327,17 @@ Go to product page
 
 (54)
 
-2209
+2210
+
+B
+
+[3 Pack CryoFreeze® Hemp CBD Roll-On | Extra Strength](https://omaxhealth.com/products/3-pack-cryofreeze-hemp-cbd-roll-on-extra-strength#judgeme_product_reviews)
+
+BrendaC
+
+**Love the CryoFreeze roll-on**
+
+I love the CryoFreeze roll-on. It helps so much with my neck pain. Wish y’all would make it in a small purse-size, and make it refillable.
 
 S
 
@@ -346,15 +356,5 @@ V
 Vincent A.
 
 Relief is instantaneous! You can feel the soothing coolness as soon as it’s applied! It’s the go to product I use for long lasting results
-
-J
-
-[CryoFreeze® Hemp CBD Roll-On | Extra Strength](https://omaxhealth.com/products/new-cryofreeze-cbd-roll-on-extra-strength#judgeme_product_reviews)
-
-John F.
-
-**Very effective pain reliever**
-
-I have been using this product well over a year. This is the most effective pain reliever I have ever used. I suffer from chronic back pain from surgery years ago.
 
 Load More
