@@ -406,9 +406,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Blowing out someone else's candle won't make yours shine brighter”
+“ As we enjoy great advantages from the inventions of others, we should be glad of an opportunity to serve others by any invention of ours; and this we should do freely and generously.”
 
-[Unknown](https://www.adafruit.com/quotes)
+[Benjamin Franklin](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm)
 
 [](https://www.adafruit.com/about)
 
