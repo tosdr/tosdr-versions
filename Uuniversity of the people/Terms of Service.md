@@ -86,11 +86,11 @@
         * [Milestones](https://www.uopeople.edu/about/uopeople/milestones/)
     * [Leadership](https://www.uopeople.edu/about/leadership/)
         
-        * [Office of the President](https://www.uopeople.edu/about/leadership/office-of-the-president/)
-        * [President’s Council](https://www.uopeople.edu/about/leadership/presidents-council/)
-        * [Board of Trustees](https://www.uopeople.edu/about/leadership/board-of-trustees/)
-        * [Academic Leadership](https://www.uopeople.edu/about/leadership/academic-leadership/)
-        * [Academic Team](https://www.uopeople.edu/about/leadership/meet-our-academic-team/)
+        * [Office of the President](https://www.uopeople.edu/about/leadership/department/office-of-the-president/)
+        * [President’s Council](https://www.uopeople.edu/about/leadership/department/presidents-council/)
+        * [Board of Trustees](https://www.uopeople.edu/about/leadership/department/board-of-trustees/)
+        * [Academic Leadership](https://www.uopeople.edu/about/leadership/department/academic-leadership/)
+        * [Academic Team](https://www.uopeople.edu/about/leadership/department/academic-team/)
     * [Partners](https://www.uopeople.edu/about/partners/)
         
         * [Academic Partners](https://www.uopeople.edu/about/partners/academic-partnerships/)
