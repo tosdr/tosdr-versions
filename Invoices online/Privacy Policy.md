@@ -117,63 +117,59 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Impossible to run our businesses without IO
-> -------------------------------------------
+> Quick and efficient support
+> ---------------------------
 > 
-> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
->   
-> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
->   
-> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
->   
-> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
+> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
+> 
+> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
 
-Kobus Venter
+Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
 
-![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=0f0a053a870ac9928005a5edd0a67844918ad3eed5b7ec665af470f88459e57e&c=51947295)  
-Desygn
+![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=99c7e95758c14c47306345dbde925e8d547bc4a4b4b5e9223213bcdd2c0e32f6&c=54404030)  
+PROGRAPHIX PTY LTD
 
-![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=0f0a053a870ac9928005a5edd0a67844918ad3eed5b7ec665af470f88459e57e&c=42978341)  
-Repairs In Motion
+![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=99c7e95758c14c47306345dbde925e8d547bc4a4b4b5e9223213bcdd2c0e32f6&c=6346735)  
+Itroniq (Pty) Ltd
 
-![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=0f0a053a870ac9928005a5edd0a67844918ad3eed5b7ec665af470f88459e57e&c=201518629)  
-M's Frozen Delights
+![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=99c7e95758c14c47306345dbde925e8d547bc4a4b4b5e9223213bcdd2c0e32f6&c=94382928)  
+Vplay Grafix
 
-![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=0f0a053a870ac9928005a5edd0a67844918ad3eed5b7ec665af470f88459e57e&c=35098054)  
-United Paintball Federation
+![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=99c7e95758c14c47306345dbde925e8d547bc4a4b4b5e9223213bcdd2c0e32f6&c=182126005)  
+Nogana Events and Decor
 
-![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=0f0a053a870ac9928005a5edd0a67844918ad3eed5b7ec665af470f88459e57e&c=148709273)  
-OptaServ
+![valued client Sophia's Roses](https://www.invoicesonline.co.za/scripts/image.php?bid=5227&file=logo_300_100&type=&fe=99c7e95758c14c47306345dbde925e8d547bc4a4b4b5e9223213bcdd2c0e32f6&c=202877194)  
+Sophia's Roses
 
-![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=0f0a053a870ac9928005a5edd0a67844918ad3eed5b7ec665af470f88459e57e&c=142989445)  
-Three Moons Emporium
+![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=99c7e95758c14c47306345dbde925e8d547bc4a4b4b5e9223213bcdd2c0e32f6&c=175621329)  
+NWET Pty LTD
 
-![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=0f0a053a870ac9928005a5edd0a67844918ad3eed5b7ec665af470f88459e57e&c=12172265)  
-Well Hung Art
+![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=99c7e95758c14c47306345dbde925e8d547bc4a4b4b5e9223213bcdd2c0e32f6&c=34383232)  
+#DiGi3 Marketing & Design
 
-![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=0f0a053a870ac9928005a5edd0a67844918ad3eed5b7ec665af470f88459e57e&c=183117758)  
-Iurus Inc
+![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=99c7e95758c14c47306345dbde925e8d547bc4a4b4b5e9223213bcdd2c0e32f6&c=169516858)  
+Chiron Medical Solutions
 
-![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=0f0a053a870ac9928005a5edd0a67844918ad3eed5b7ec665af470f88459e57e&c=129278819)  
-Wiselink Broadband Dundee
+![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=99c7e95758c14c47306345dbde925e8d547bc4a4b4b5e9223213bcdd2c0e32f6&c=22289397)  
+Baby Toddles Infant Care
 
-![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=0f0a053a870ac9928005a5edd0a67844918ad3eed5b7ec665af470f88459e57e&c=181926079)  
-IAS Logistics (Pty) Ltd T/A MULTITRANSIT
+![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=99c7e95758c14c47306345dbde925e8d547bc4a4b4b5e9223213bcdd2c0e32f6&c=201905813)  
+Salt & Pepper Guest Accommodation (Pty) Ltd.
 
-![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=0f0a053a870ac9928005a5edd0a67844918ad3eed5b7ec665af470f88459e57e&c=211032175)  
-Salvage Genie
+![valued client African Roots](https://www.invoicesonline.co.za/scripts/image.php?bid=1000&file=logo_300_100&type=&fe=99c7e95758c14c47306345dbde925e8d547bc4a4b4b5e9223213bcdd2c0e32f6&c=156391031)  
+African Roots
 
-![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=0f0a053a870ac9928005a5edd0a67844918ad3eed5b7ec665af470f88459e57e&c=212924760)  
-Safe-Train Consulting (PTY) Ltd
+![valued client The Gourmet Artisans Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8737&file=logo_300_100&type=&fe=99c7e95758c14c47306345dbde925e8d547bc4a4b4b5e9223213bcdd2c0e32f6&c=195027330)  
+The Gourmet Artisans Ltd.
 
-![valued client FlipDesign - Renovation Contracting Firm](https://www.invoicesonline.co.za/scripts/image.php?bid=8663&file=logo_300_100&type=&fe=0f0a053a870ac9928005a5edd0a67844918ad3eed5b7ec665af470f88459e57e&c=83779986)  
-FlipDesign - Renovation Contracting Firm
+![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=99c7e95758c14c47306345dbde925e8d547bc4a4b4b5e9223213bcdd2c0e32f6&c=33595763)  
+Waterfinatics Swim School
 
-![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=0f0a053a870ac9928005a5edd0a67844918ad3eed5b7ec665af470f88459e57e&c=190272184)  
-Bchange Online CC
+![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=99c7e95758c14c47306345dbde925e8d547bc4a4b4b5e9223213bcdd2c0e32f6&c=125894883)  
+Brand's Fountains Deco and Events Coordinatoin
 
-![valued client Calonet ](https://www.invoicesonline.co.za/scripts/image.php?bid=3324&file=logo_300_100&type=&fe=0f0a053a870ac9928005a5edd0a67844918ad3eed5b7ec665af470f88459e57e&c=205687367)  
-Calonet
+![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=99c7e95758c14c47306345dbde925e8d547bc4a4b4b5e9223213bcdd2c0e32f6&c=89961278)  
+ARCHITEK PTY LTD
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
