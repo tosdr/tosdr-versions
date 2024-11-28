@@ -191,6 +191,10 @@
     
     Latest Blogs
     
+    [![](https://static.wingify.com/gcp/uploads/sites/3/2024/11/Feature-image-18-Top-Customer-Activation-Tools-Software-for-Enhanced-User-Engagement.jpg?tr=w-60,h-50)
+    
+    18 Top Customer Activation Tools & Software for Enhanced User Engagement](https://vwo.com/blog/customer-activation-tools/)
+    
     [![](https://static.wingify.com/gcp/uploads/sites/3/2024/11/Feature-image-CRO-Perspectives-Ian-Fong.jpg?tr=w-60,h-50)
     
     Leverage CRO for Cost Efficiency and Strategy Building, Not Just Revenue](https://vwo.com/blog/ian-fong-interview/)
@@ -206,10 +210,6 @@
     [![](https://static.wingify.com/gcp/uploads/sites/3/2024/11/Feature-image-10-Top-Customer-Satisfaction-Tools-for-Your-Business-Growth-1.jpg?tr=w-60,h-50)
     
     10 Top Customer Satisfaction Survey Tools for Business Growth](https://vwo.com/blog/customer-satisfaction-survey-tools/)
-    
-    [![](https://static.wingify.com/gcp/uploads/sites/3/2024/11/Feature-image-neilson@2x.jpg?tr=w-60,h-50)
-    
-    How Neilson Active Holidays Leveraged Behaviour Analytics by VWO to Boost UX and User Engagement \[Case Study\]](https://vwo.com/blog/how-neilson-active-holidays-leveraged-behaviour-analytics-by-vwo/)
     
     Featured Blogs
     
