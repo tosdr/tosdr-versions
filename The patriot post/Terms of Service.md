@@ -201,20 +201,20 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34577)
+     [](https://patriotpost.us/cartoons/34583)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
+*      [Gary Bauer Be Thankful](https://patriotpost.us/opinion/112413-be-thankful-2024-11-28)
+*      [Jeff Jacoby Thank God for the ‘Invisible Hand’](https://patriotpost.us/opinion/112409-thank-god-for-the-invisible-hand-2024-11-28)
+*      [The Washington Stand Walmart’s Retreat on DEI This Thanksgiving Is Just Gravy](https://patriotpost.us/opinion/112397-walmarts-retreat-on-dei-this-thanksgiving-is-just-gravy-2024-11-28)
+*      [Cal Thomas The Evolution of Thanksgiving](https://patriotpost.us/opinion/112351-the-evolution-of-thanksgiving-2024-11-28)
+*      [Guest Commentary On the Importance of Thanksgiving](https://patriotpost.us/opinion/112333-on-the-importance-of-thanksgiving-2024-11-28)
 *      [Betsy McCaughey Disrupting the Health Agencies Will Save American Lives](https://patriotpost.us/opinion/112407-disrupting-the-health-agencies-will-save-american-lives-2024-11-27)
 *      [Mark Alexander The Hand of Providence](https://patriotpost.us/alexander/112358-the-hand-of-providence-2024-11-27)
 *      [Ian Haworth Jewish Voters: Keep Punishing Pro-Hamas Democrats](https://patriotpost.us/opinion/112378-jewish-voters-keep-punishing-pro-hamas-democrats-2024-11-27)
-*      [Stephen Moore Yes Nukes!](https://patriotpost.us/opinion/112377-yes-nukes-2024-11-27)
-*      [Gary Bauer Trump’s Warning](https://patriotpost.us/opinion/112376-trumps-warning-2024-11-27)
-*      [Victor Davis Hanson Universities Have a 2025 Rendezvous With Reality](https://patriotpost.us/opinion/112375-universities-have-a-2025-rendezvous-with-reality-2024-11-27)
-*      [Byron York One Month After Campaign’s Final Convulsion, a Moment of Peace](https://patriotpost.us/opinion/112374-one-month-after-campaigns-final-convulsion-a-moment-of-peace-2024-11-27)
-*      [Tim Graham Journalist Tantrums About Elon Musk Don’t Fix Public Distrust](https://patriotpost.us/opinion/112373-journalist-tantrums-about-elon-musk-dont-fix-public-distrust-2024-11-27)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -228,7 +228,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[The Web's First and Foremost Conservative News Digest](https://patriotpost.us/alexander/2810)
+[![](https://img.patriotpost.us/01J82YASE4QNMY5QGPJZ5PECFM.jpeg)](https://patriotpostshop.com/collections/founders-wisdom-coffee)
 
 ### The Foundation
 
