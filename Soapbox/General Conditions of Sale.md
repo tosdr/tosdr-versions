@@ -173,7 +173,7 @@ All Collections Chevron down icon
 * [New Products](https://www.soapboxsoaps.com/collections/new-products)
 * [Bundles](https://www.soapboxsoaps.com/collections/bundles)
 * [Hair Care](https://www.soapboxsoaps.com/collections/haircare)
-* [Body Care](https://www.soapboxsoaps.com/collections/body-care)
+* [Body Care](https://www.soapboxsoaps.com/collections/all-personal-care)
 * [Body Wash](https://www.soapboxsoaps.com/collections/body-wash)
 * [Deodorant](https://www.soapboxsoaps.com/collections/deodorant)
 * [Liquid Hand Soap](https://www.soapboxsoaps.com/collections/liquid-hand-soap)
@@ -233,6 +233,8 @@ Close icon
 Chevron down icon Chevron down icon
 
        
+
+     
 
       
 
