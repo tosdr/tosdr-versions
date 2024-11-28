@@ -1,6 +1,6 @@
-[Uniqlo: UNIQLO’s Thank You Event is on: Up to 50% off! + 7% Cash Back
+[TEMU: Save up to 90% ! Make the most of this shopping season + 12% Cash Back
 
-Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/uniqlo?store=uniqlo&sourceName=sitewide-sticky-header)
+Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/temu?store=temu&sourceName=sitewide-sticky-header)
 
 [](https://www.rakuten.ca/)
 
@@ -125,9 +125,9 @@ FR
         
         3.5% Cash Back](https://www.rakuten.ca/eufy)[HP Canada
         
-        10% Cash Back](https://www.rakuten.ca/hp-canada)[Lenovo Canada
+        15% Cash Back](https://www.rakuten.ca/hp-canada)[Lenovo Canada
         
-        9% Cash Back](https://www.rakuten.ca/lenovo-canada)[NordVPN
+        15% Cash Back](https://www.rakuten.ca/lenovo-canada)[NordVPN
         
         100% Cash Back](https://www.rakuten.ca/nordvpn)
         
@@ -141,7 +141,7 @@ FR
         
         Dell Technologies
         
-        up to 15% Cash Back](https://www.rakuten.ca/ticket/campaign/4CategoryFeaturedStores/store/dell-consumer?sourceName=nav-menu)
+        15% Cash Back](https://www.rakuten.ca/ticket/campaign/4CategoryFeaturedStores/store/dell-consumer?sourceName=nav-menu)
         
         [![](//static.rakuten.ca//static/images/blank.1.0.0.gif)
         
@@ -397,7 +397,7 @@ FR
         
         $25 for every $10,000](https://www.rakuten.ca/all-purposerealty.com)[Best Buy
         
-        up to 5% Cash Back](https://www.rakuten.ca/best-buy)
+        up to 2% Cash Back](https://www.rakuten.ca/best-buy)
         
         Featured Shops & Deals
         
@@ -459,7 +459,7 @@ FR
         
         2% Cash Back](https://www.rakuten.ca/lululemon)[Under Armour Canada
         
-        11% Cash Back](https://www.rakuten.ca/under-armour-canada)[tentree
+        15% Cash Back](https://www.rakuten.ca/under-armour-canada)[tentree
         
         3% Cash Back](https://www.rakuten.ca/ten-tree)[Bass Pro Shops & Cabela's Canada
         
@@ -523,7 +523,7 @@ FR
         
         [Expedia.ca
         
-        up to 10% Cash Back](https://www.rakuten.ca/expedia-ca)[Airalo
+        up to 3% Cash Back](https://www.rakuten.ca/expedia-ca)[Airalo
         
         4% Cash Back](https://www.rakuten.ca/airalo)[TravelPro
         
@@ -848,7 +848,13 @@ All rights reserved.
 
  ![](//static.rakuten.ca/static/img/footer_close.svg) ![](//static.rakuten.ca/static/img/footer_open.svg)
 
-[![](//static.rakuten.ca/img/campaign_entity/303981/en_stickyfooter-1170x60_gift_card_shop_.png)](https://www.rakuten.ca/giftcardshop)
+[![Earn 15% Cash Back from Rakuten.ca with HP Canada Coupons, Promo Codes](//static.rakuten.ca/img/campaign_entity/303508/en-stickyfooter-1170x60_hp-offer2.png "HP Canada Coupons, Promo Codes")
+
+was 2%, now
+
+15% Cash Back
+
+Shop Now](https://www.rakuten.ca/ticket/campaign/sticky-footer-base-1/store/hp-canada?sourceName=stickyfooter1)
 
 × ![Rakuten White Logo](//static.rakuten.ca/static/images/logo/logo_Rakuten_white.svg)
 
