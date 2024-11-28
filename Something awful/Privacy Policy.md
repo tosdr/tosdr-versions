@@ -205,26 +205,26 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [\[CHACHA.COM\] get people to help you search for crap that doesn't exist](https://www.somethingawful.com/comedy-goldmine/chachacom-get-people/1/)
-* [ConanOBrien.net Boards, Myjellybean, Swirve Utopia, and TheXpower](https://www.somethingawful.com/weekend-web/conanobriennet-boards-myjellybea/1/)
-* [Reaching for the Great Beyond: Six Steps to Success](https://www.somethingawful.com/news/six-steps-success/1/)
-* [This Baby Is An Absolute Piece of Shit](https://www.somethingawful.com/feature-articles/shitty-baby/)
-* [Covid and Our Mental Health (Part 1)](https://www.somethingawful.com/news/covid1/)
+* [The 10 Reasons We Will Never Review F.A.T.A.L.](https://www.somethingawful.com/dungeons-and-dragons/fatal-worst-rpg/1/)
+* [Real College Textbooks](https://www.somethingawful.com/comedy-goldmine/real-college-textbooks/1/)
+* [Porn Versions of Classic Films! (Part 1 of 2)](https://www.somethingawful.com/photoshop-phriday/classic-films-porn/1/)
+* [Make Horror Wholesome](https://www.somethingawful.com/photoshop-phriday/horror-wholesome/)
+* [With Music of Tango!](https://www.somethingawful.com/awfulvision/crispin-glover-owns/1/)
 
 ### Popular Threads
 
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/serious.png) [What is the absolute WORST thing you've ever done?](http://forums.somethingawful.com/showthread.php?threadid=4076413 "What is the absolute WORST thing you've ever done?")
-* ![](https://fi.somethingawful.com/images/shitpost.gif) [ITT we write patch notes for things](http://forums.somethingawful.com/showthread.php?threadid=4076344 "ITT we write patch notes for things")
-* ![](https://fi.somethingawful.com/forums/posticons/cspam-yeshahahayes.gif) [Post your weird ass dreams ITT](http://forums.somethingawful.com/showthread.php?threadid=4076341 "Post your weird ass dreams ITT")
+* ![](https://fi.somethingawful.com/forums/posticons/fyad-smallthread.gif) [Adults who skateboard](http://forums.somethingawful.com/showthread.php?threadid=4076416 "Adults who skateboard")
 * ![](https://fi.somethingawful.com/forums/posticons/tviv-competition.gif) [Pitch a Catch Phrase](http://forums.somethingawful.com/showthread.php?threadid=4076401 "Pitch a Catch Phrase")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [Awful Thanksgiving 2024](http://forums.somethingawful.com/showthread.php?threadid=4076419 "Awful Thanksgiving 2024")
 
 ### Random Articles
 
-* [August 6, 2007](https://www.somethingawful.com/forum-fridays/ff08-06-07a/1/)
-* [SA Celebrity Stalker: January Edition](https://www.somethingawful.com/news/celebrity-stalker-january/)
-* [These Things I Know](https://www.somethingawful.com/news/things-knowledge-events/1/)
-* [The Worst Joke of 2010](https://www.somethingawful.com/news/tsa-elmo-joke/)
-* [Activity Center](https://www.somethingawful.com/flash-tub/activity-center/)
+* [World's Fastest Clown](https://www.somethingawful.com/awful-links/awful-link-3427/)
+* [TODD AND BRISTOL BOTH GET TV SHOWS??? COME ON!!!!](https://www.somethingawful.com/levi-johnston/stars-earn-stripes/)
+* [Increased Difficulty](https://www.somethingawful.com/photoshop-phriday/increased-difficulty/1/)
+* [Fucking Insane T-Shirts](https://www.somethingawful.com/awful-links/awful-link-2964/)
+* [Variety Pack #2: Improved Bullfighting, Idiotic Sequels and Crappy Soft Drinks!](https://www.somethingawful.com/photoshop-phriday/variety-pack-2/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
