@@ -42,6 +42,19 @@
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://loop.homes/wp-content/uploads/2024/01/loop_insulation_top_banner_house-1024x521.png)
+
+Optimise
+--------
+
+[Find out more](https://loop.homes/great-british-insulation-scheme/?utm_source=website&utm_medium=banner&utm_campaign=insulation)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](https://loop.homes/wp-content/uploads/2024/01/loop_insulation_top_banner_house-1024x521.png)
 
 Secure Your 90% Insulation Subsidy This Winter
