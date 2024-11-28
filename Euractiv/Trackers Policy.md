@@ -111,25 +111,25 @@ Most recent
 
 [28-11-2024
 
+Franco-German nuclear fight foils EU competitiveness agreement](https://www.euractiv.com/section/politics/news/franco-german-nuclear-fight-foils-eu-competitiveness-agreement/)[28-11-2024
+
+French farmers no longer want to be ‘top of the class’ in the fight against pesticides](https://www.euractiv.com/section/agriculture-food/news/french-farmers-no-longer-want-to-be-top-of-the-class-in-the-fight-against-pesticides/)[28-11-2024
+
+MEPs spring a surprise by rejecting smoke-free environments resolution](https://www.euractiv.com/section/health-consumers/news/meps-spring-a-surprise-by-rejecting-smoke-free-environments-resolution/)[28-11-2024
+
+Commission mulling 2025 white paper on electricity market reform](https://www.euractiv.com/section/eet/news/commission-mulling-2025-white-paper-on-electricity-market-reform/)[28-11-2024
+
+EU’s weakened liberals offer olive branch to (some) conservatives](https://www.euractiv.com/section/politics/news/eus-weakened-liberals-offer-olive-branch-to-some-conservatives/)[28-11-2024
+
+Von der Leyen 2: A thin-stretched majority](https://www.euractiv.com/section/politics/news/von-der-leyen-2-a-thin-stretched-majority/)[28-11-2024
+
 EU ‘naivety’ to blame for Northvolt’s collapse, says Sweden](https://www.euractiv.com/section/economy-jobs/news/eu-naivety-to-blame-for-northvolts-collapse-says-sweden/)[28-11-2024
 
 TikTok hits back against allegations in Romanian elections](https://www.euractiv.com/section/tech/news/tiktok-hits-back-against-allegations-in-romanian-elections/)[28-11-2024
 
 Biden readies $725 million arms aid package for Ukraine](https://www.euractiv.com/section/global-europe/news/biden-readies-725-million-arms-aid-package-for-ukraine/)[28-11-2024
 
-Russia’s plane shortage holds air travel back](https://www.euractiv.com/section/global-europe/news/russias-plane-shortage-holds-air-travel-back/)[28-11-2024
-
-Nordic, Baltic leaders agree to increase aid to Ukraine before Trump’s return](https://www.euractiv.com/section/politics/news/the-capitals-nordic-baltic-leaders-agree-to-increase-aid-to-ukraine-before-trumps-return/)[28-11-2024
-
-Romanian NGOs urge Commission to investigate TikTok amid presidential elections](https://www.euractiv.com/section/politics/news/romanian-ngos-urge-commission-to-investigate-tiktok-amid-presidential-elections/)[28-11-2024
-
-Bulgarian court issues EU arrest warrant for ex-state bank chief](https://www.euractiv.com/section/politics/news/bulgarian-court-issues-eu-arrest-warrant-for-ex-state-bank-chief/)[28-11-2024
-
-Brussels approves Poland’s defence-focused deficit reduction plan](https://www.euractiv.com/section/politics/news/brussels-approves-polands-defence-focused-deficit-reduction-plan/)[28-11-2024
-
-Fico calls Trump, says yes to Putin’s Moscow invite](https://www.euractiv.com/section/politics/news/fico-calls-trump-says-yes-to-putins-moscow-invite/)[28-11-2024
-
-Spain’s Sánchez, Ribera blame Partido Popular for siding with EU far-right](https://www.euractiv.com/section/politics/news/spains-sanchez-ribera-blame-partido-popular-for-siding-with-eu-far-right/)
+Russia’s plane shortage holds air travel back](https://www.euractiv.com/section/global-europe/news/russias-plane-shortage-holds-air-travel-back/)
 
 ###### Advertisement
 
