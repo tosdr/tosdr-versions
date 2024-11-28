@@ -128,39 +128,39 @@ Advertisement
     The Dark Side of Porn: Diary of a Porn Virgin
     
     Pornography in Britain has entered the mainstream. As this documentary reveals, there is now no taboo when it comes to working in the porn industry in the UK.From a 38-year-old wife, mother and su...](https://documentaryheaven.com/the-dark-side-of-porn-diary-of-a-porn-virgin/ "The Dark Side of Porn: Diary of a Porn Virgin")
-* [![No-Go Zones: Seven Mile Road, Detroit, USA](/wp-content/thumbnails/16527-100x70.jpg?x53432)
+* [![Why The Industrial Revolution Happened Here](/wp-content/thumbnails/8018-100x70.jpeg?x53432)
     
-    No-Go Zones: Seven Mile Road, Detroit, USA
+    Why The Industrial Revolution Happened Here
     
-    Seven Mile Road located in Detroit is one of the most dangerous no-go zones in the United States. Those who live or dare to come here to visit are literally playing with their lives. It is a territor...](https://documentaryheaven.com/no-go-zones-seven-mile-road/ "No-Go Zones: Seven Mile Road, Detroit, USA")
+    Professor Jeremy Black examines one of the most extraordinary periods in British history: the Industrial Revolution. He explains the unique economic, social and political conditions that by the 19th c...](https://documentaryheaven.com/why-industrial-revolution-happened-here/ "Why The Industrial Revolution Happened Here")
 
 ###### Throwback Documentaries
 
-* [![Chosen](/wp-content/thumbnails/12532-100x70.jpg?x53432)
+* [![The Lives I Lead: My Multiple Personalities](/wp-content/thumbnails/14043-100x70.jpg?x53432)
     
-    Chosen
+    The Lives I Lead: My Multiple Personalities
     
-    Peter Wright, an 83 year old former headmaster of posh prep school Caldicott, located in southern Buckinghamshire, England was convicted of 12 offences against five children who studied there. The ass](https://documentaryheaven.com/chosen/ "Chosen")
-* [![Oil, Smoke and Mirrors](/wp-content/thumbnails/803-100x70.png?x53432)
+    Dissociative Identity Disorder or Multiple Personality Disorder as it is more commonly known as is a mental condition characterised by at least two distinct and relatively enduring personality states.](https://documentaryheaven.com/my-multiple-personalities/ "The Lives I Lead: My Multiple Personalities")
+* [![Whats Wrong With Our Weather?](/wp-content/thumbnails/10155-100x70.jpg?x53432)
     
-    Oil, Smoke and Mirrors
+    Whats Wrong With Our Weather?
     
-    Through a series of interviews, this film argues that the bizarre events surrounding the 9/11 attacks, and the equally bizarre prosecution of the so-called “war on terror”, can be more credibly unders](https://documentaryheaven.com/oil-smoke-and-mirrors/ "Oil, Smoke and Mirrors")
-* [![Listen Up: The Lives of Quincy Jones](/wp-content/thumbnails/7596-100x70.jpg?x53432)
+    Over the last few years it has been clear to see that Britain's weather has become quite a bit more extreme, especially the winter season. The winter of 2014 was the wettest on record, with deadly sto](https://documentaryheaven.com/whats-wrong-with-our-weather/ "Whats Wrong With Our Weather?")
+* [![Earth – The Climate Wars PT 2/3](/wp-content/thumbnails/241-100x70.png?x53432)
     
-    Listen Up: The Lives of Quincy Jones
+    Earth – The Climate Wars PT 2/3
     
-    The extraordinary life of Quincy Jones, one of the 20th century's most influential and talented composers, musicians and music producers, provides the basis of this offbeat, free-form documentary trib](https://documentaryheaven.com/listen-up-lives-quincy-jones/ "Listen Up: The Lives of Quincy Jones")
-* [![Secret Lives: L. Ron Hubbard](/wp-content/thumbnails/1173-100x70.jpg?x53432)
+    PART TWO - FightbackDr Iain Stewart investigates the counter attack that was launched by the global warming sceptics in the 1990s. At the start of the 1990s it seemed the world was united. At the Ri](https://documentaryheaven.com/earth-the-climate-wars-pt-23/ "Earth – The Climate Wars PT 2/3")
+* [![John Nash: A Beautiful Mind](/wp-content/thumbnails/9863-100x70.jpg?x53432)
     
-    Secret Lives: L. Ron Hubbard
+    John Nash: A Beautiful Mind
     
-    An intriguing, but bizarre, biographical documentary by Channel 4 on the 'Secret Life' of L Ron Hubbard - the Sci Fi author and creator of the Scientology cult. This biopic from 1997, with some fantas](https://documentaryheaven.com/secret-lives-l-ron-hubbard/ "Secret Lives: L. Ron Hubbard")
-* [![Inside Chernobyl’s Mega Tomb](/wp-content/thumbnails/13776-100x70.jpg?x53432)
+    In September 1949, the world learned that the Soviet Union had joined the United States as a nuclear power. This shocking news intensified fears in the US and put a premium on mathematicians. Mathemat](https://documentaryheaven.com/john-nash-beautiful-mind/ "John Nash: A Beautiful Mind")
+* [![The Library of Alexandria](/wp-content/thumbnails/12021-100x70.jpg?x53432)
     
-    Inside Chernobyl’s Mega Tomb
+    The Library of Alexandria
     
-    Today in Ukraine an international team of engineers is racing to assemble one of the most complex super structures ever built, at an extraordinary 36,000 tones it will be the largest structure moved o](https://documentaryheaven.com/inside-chernobyls-mega-tomb/ "Inside Chernobyl’s Mega Tomb")
+    Constructed and established in the 3rd century BC, The Royal Library of Alexandria located in Alexandria, Egypt was one of the largest and most significant libraries of the ancient world. It was](https://documentaryheaven.com/library-of-alexandria/ "The Library of Alexandria")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
