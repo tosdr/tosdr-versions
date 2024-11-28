@@ -148,15 +148,16 @@
 
 Сейчас читают
 
-* [Чечевичная пицца с грибами, перцем и кукурузой](https://www.russianfood.com/recipes/recipe.php?rid=174551)
 * [Картофельная запеканка с морепродуктами](https://www.russianfood.com/recipes/recipe.php?rid=172790)
 * [Куриный суп с кукурузной крупой и зеленым горошком](https://www.russianfood.com/recipes/recipe.php?rid=171142)
-* [Куриный суп с вермишелью](https://www.russianfood.com/recipes/recipe.php?rid=171074)
 * [Постный рассольник с рисом и грибами](https://www.russianfood.com/recipes/recipe.php?rid=168560)
 * [Сырный суп с овощами](https://www.russianfood.com/recipes/recipe.php?rid=171038)
-* [Шашлык из лосося и болгарского перца (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=163232)
 * [Яблоки, фаршированные мясом цыпленка](https://www.russianfood.com/recipes/recipe.php?rid=926)
-* [Ростбиф-I](https://www.russianfood.com/recipes/recipe.php?rid=3840)
+* [Суп картофельный с гречневой крупой](https://www.russianfood.com/recipes/recipe.php?rid=4829)
+* [Каша рассыпчатая с луком, шпигом или яйцом II](https://www.russianfood.com/recipes/recipe.php?rid=5365)
+* [Горячая «спичечная» закуска из свинины и говядины](https://www.russianfood.com/recipes/recipe.php?rid=5574)
+* [Горячая «спичечная» закуска из мяса и хлеба](https://www.russianfood.com/recipes/recipe.php?rid=5576)
+* [Луковый суп (6 порций)](https://www.russianfood.com/recipes/recipe.php?rid=5580)
 
 |     |
 | --- |
@@ -205,7 +206,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174872#comments) | 28.11.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174872#comments) | 28.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -219,7 +220,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174864#comments) | 28.11.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174864#comments) | 28.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -275,7 +276,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=172679#comments) | 28.11.24 |     |
+|     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=172679#comments) | 28.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -289,7 +290,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=172820#comments) | 28.11.24 |     |
+|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=172820#comments) | 28.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -303,7 +304,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=172626#comments) | 28.11.24 |     |
+|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=172626#comments) | 28.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -339,13 +340,13 @@
 
 [![Фото к рецепту: Сливочный суп с мясным фаршем и солёными огурцами](//img1.russianfood.com/dycontent/images_upl/711/sm_710214.jpg "Фото к рецепту: Сливочный суп с мясным фаршем и солёными огурцами")](https://www.russianfood.com/recipes/recipe.php?rid=172684)
 
-Этот нежный сливочный суп с мясным фаршем и солёными огурцами станет отличной альтернативой рассольнику за обеденным столом. Солёные огурцы добавляют приятную кислинку, которая гармонично оттеняет сливочный вкус, а корень сельдерея наполняет блюдо выразительным ароматом.
+Мясной фарш обжаривается и тушится с овощами, в том числе с ароматным корнем сельдерея. Затем всё заливается водой, и суп варится до готовности. В конце добавляются сливки. Кислинка огурцов гармонично оттеняет сливочный вкус супа.
 
 [Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=172684)  
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=172684#comments) | 28.11.24 |     |
+|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=172684#comments) | 28.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -460,10 +461,10 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/756/alt1_755654.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=172820) | [![](//img1.russianfood.com/dycontent/images_upl/726/alt1_725953.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=172626) | [![](//img1.russianfood.com/dycontent/images_upl/711/alt1_710152.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=172679) | [![](//img1.russianfood.com/dycontent/images_upl/754/alt1_753740.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174553) | [![](//img1.russianfood.com/dycontent/images_upl/686/alt1_685263.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=171675) | [![](//img1.russianfood.com/dycontent/images_upl/707/alt1_706753.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=172725) | [![](//img1.russianfood.com/dycontent/images_upl/750/alt1_749952.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174598) |
-| [Суп "Чизбургер"](https://www.russianfood.com/recipes/recipe.php?rid=172820) | [Сливочный суп с грибами и фрикадельками](https://www.russianfood.com/recipes/recipe.php?rid=172626) | [Песочные рогалики "Конфетки" с ирисками](https://www.russianfood.com/recipes/recipe.php?rid=172679) | [Кексы "Тёмная ночь" с сырным кремом](https://www.russianfood.com/recipes/recipe.php?rid=174553) | [Суп с грибами, тыквой и булгуром](https://www.russianfood.com/recipes/recipe.php?rid=171675) | [Суп с говядиной, охотничьими колбасками и грибами](https://www.russianfood.com/recipes/recipe.php?rid=172725) | [Булочки с творогом, печёным сельдереем и маринованными огурцами](https://www.russianfood.com/recipes/recipe.php?rid=174598) |
-| [![](//img1.russianfood.com/dycontent/images_upl/711/alt1_710214.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=172684) | [![](//img1.russianfood.com/dycontent/images_upl/755/alt1_754233.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174360) | [![](//img1.russianfood.com/dycontent/images_upl/753/alt1_752947.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174551) | [![](//img1.russianfood.com/dycontent/images_upl/755/alt1_754772.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174864) | [![](//img1.russianfood.com/dycontent/images_upl/754/alt1_753081.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174872) | [![](//img1.russianfood.com/dycontent/images_upl/736/alt1_735382.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173317) |
-| [Сливочный суп с мясным фаршем и солёными огурцами](https://www.russianfood.com/recipes/recipe.php?rid=172684) | [Котлеты из рыбы с брокколи](https://www.russianfood.com/recipes/recipe.php?rid=174360) | [Чечевичная пицца с грибами, перцем и кукурузой](https://www.russianfood.com/recipes/recipe.php?rid=174551) | [Горячие бутерброды с крабовыми палочками и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174864) | [Жареные пирожки на кефире, с квашеной капустой](https://www.russianfood.com/recipes/recipe.php?rid=174872) | [Зелёный борщ со шпинатом](https://www.russianfood.com/recipes/recipe.php?rid=173317) |
+| [![](//img1.russianfood.com/dycontent/images_upl/711/alt1_710152.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=172679) | [![](//img1.russianfood.com/dycontent/images_upl/726/alt1_725953.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=172626) | [![](//img1.russianfood.com/dycontent/images_upl/686/alt1_685263.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=171675) | [![](//img1.russianfood.com/dycontent/images_upl/755/alt1_754772.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174864) | [![](//img1.russianfood.com/dycontent/images_upl/753/alt1_752947.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174551) | [![](//img1.russianfood.com/dycontent/images_upl/736/alt1_735382.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173317) | [![](//img1.russianfood.com/dycontent/images_upl/754/alt1_753740.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174553) |
+| [Песочные рогалики "Конфетки" с ирисками](https://www.russianfood.com/recipes/recipe.php?rid=172679) | [Сливочный суп с грибами и фрикадельками](https://www.russianfood.com/recipes/recipe.php?rid=172626) | [Суп с грибами, тыквой и булгуром](https://www.russianfood.com/recipes/recipe.php?rid=171675) | [Горячие бутерброды с крабовыми палочками и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174864) | [Чечевичная пицца с грибами, перцем и кукурузой](https://www.russianfood.com/recipes/recipe.php?rid=174551) | [Зелёный борщ со шпинатом](https://www.russianfood.com/recipes/recipe.php?rid=173317) | [Кексы "Тёмная ночь" с сырным кремом](https://www.russianfood.com/recipes/recipe.php?rid=174553) |
+| [![](//img1.russianfood.com/dycontent/images_upl/756/alt1_755654.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=172820) | [![](//img1.russianfood.com/dycontent/images_upl/707/alt1_706753.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=172725) | [![](//img1.russianfood.com/dycontent/images_upl/754/alt1_753081.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174872) | [![](//img1.russianfood.com/dycontent/images_upl/755/alt1_754233.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174360) | [![](//img1.russianfood.com/dycontent/images_upl/750/alt1_749952.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174598) | [![](//img1.russianfood.com/dycontent/images_upl/711/alt1_710214.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=172684) |
+| [Суп "Чизбургер"](https://www.russianfood.com/recipes/recipe.php?rid=172820) | [Суп с говядиной, охотничьими колбасками и грибами](https://www.russianfood.com/recipes/recipe.php?rid=172725) | [Жареные пирожки на кефире, с квашеной капустой](https://www.russianfood.com/recipes/recipe.php?rid=174872) | [Котлеты из рыбы с брокколи](https://www.russianfood.com/recipes/recipe.php?rid=174360) | [Булочки с творогом, печёным сельдереем и маринованными огурцами](https://www.russianfood.com/recipes/recipe.php?rid=174598) | [Сливочный суп с мясным фаршем и солёными огурцами](https://www.russianfood.com/recipes/recipe.php?rid=172684) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -480,4 +481,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(204)
+(116)
