@@ -31,6 +31,229 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Cortes de luz en Guayaquil del viernes 29 de noviembre al domingo 1 de diciembre
+================================================================================
+
+El cronograma de cortes de luz para Guayaquil contempla cinco y siete horas de reducción del servicio eléctrico. Este se aplica en dos franjas
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+![La empresa CNEL compartió los cronogramas de cortes de luz hasta el domingo 1 de diciembre.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-2024-11-28T075631.318.jpg)
+
+El **Ministerio de Energía y Minas** publicó los nuevos **horarios de cortes de luz** programados hasta el domingo 1 de diciembre. Estos contemplan las mismas horas que los días previos.
+
+### Más noticias
+
+* [Cortes de luz en Ecuador del viernes 29 de noviembre al domingo 1 de diciembre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-ecuador-de-viernes-29-de-noviembre-a-domingo-1-de-diciembre.html "Cortes de luz en Ecuador del viernes 29 de noviembre al domingo 1 de diciembre")
+* [Cortes de luz en Quito del viernes 29 de noviembre al domingo 1 de diciembre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-de-viernes-29-de-noviembre-a-domingo-1-de-diciembre.html "Cortes de luz en Quito del viernes 29 de noviembre al domingo 1 de diciembre")
+* [Cortes de luz en Guayaquil este jueves 28 de noviembre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-guayaquil-jueves-28-noviembre.html "Cortes de luz en Guayaquil este jueves 28 de noviembre")
+
+Horarios de cortes de luz se mantienen en Ecuador
+-------------------------------------------------
+
+La Cartera de Energía informó este jueves 28 de noviembre que se **realizaron diversos análisis técnicos** que buscan de manera prioritaria y responsable **mantener los caudales.**
+
+Con base en ellos, se elaboraron **los cronogramas de racionamientos** desde el viernes 29 de noviembre hasta el **domingo 1 de diciembre** con las mismas horas de los días previos.
+
+Esto se hace en conjunto con las **empresas distribuidoras de energía** y en coordinación con el Cenace, por lo que se decidió continuar con **suspensiones de seis y siete horas.**
+
+El Ministerio recalcó que **trabaja de manera comprometida e ininterrumpida** para potenciar el Sistema Energético ecuatoriano y mejorar las condiciones técnicas de la infraestructura eléctrica.
+
+Las decisiones están enfocadas en poder suspender los racionamientos de energía para finales de 2024, como ofreció el **presidente Daniel Noboa**.
+
+Esto, tras **65 días de que Ecuador afronte cortes de luz** en todas sus provincias de hasta 12 horas.
+
+La crisis energética, provocada por un **déficit de 1 080 megavatios** (MW) y una de las peores sequías en la historia del país, afecta todos los aspectos de la vida diaria de los ecuatorianos. Y no tiene una fecha exacta de solución.
+
+Cortes de luz en Guayaquil
+--------------------------
+
+La empresa distribuidora de energía CNEL publicó la **programación de cortes de luz** para el viernes 29 de noviembre, sábado 30 de noviembre y domingo 1 de diciembre de 2024.
+
+Los horarios en Guayaquil se aplicarán por cinco y siete horas, distribuidas en **dos franjas horarias de cuatro y tres horas** para cada bloque de barrios afectados.
+
+El sector industrial, en cambio, mantendrá una **suspensión del servicio** de solamente cuatro horas continuas.
+
+Los comentarios de los usuarios no se hicieron esperar y se pueden leer **varias quejas** en las redes sociales. La mayoría de personas reclama que **no existe una rotación en los horarios** establecidos a lo largo de las semanas.
+
+Piden que se haga una **rotación entre los sectores y la aplicación** de los cortes a lo largo del día. Algunos usuarios se quejan de la suspensión de energía en las madrugadas debido a la delincuencia y otros, que no pueden trabajar en sus negocios.
+
+Aquí puede revisar el [**cronograma completo**](https://es.wikipedia.org/wiki/Guayaquil "https://es.wikipedia.org/wiki/Guayaquil") de los tres días:
+
+Cortes de luz en Quito del viernes 29 de noviembre al domingo 1 de diciembre
+============================================================================
+
+Los horarios de cortes de luz hasta el 1 de diciembre contemplan seis horas de suspensión. Se espera que terminen a fin de año.
+-------------------------------------------------------------------------------------------------------------------------------
+
+![La Empresa Eléctrica Quito informó los horarios de cortes de luz.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-2024-11-28T074520.180.jpg)
+
+El **Ministerio de Energía y Minas** publicó los nuevos **horarios de cortes de luz** programados hasta el domingo 1 de diciembre. Estos contemplan las mismas horas que los días previos.
+
+### Más noticias
+
+* [Cortes de luz en Ecuador del viernes 29 de noviembre al domingo 1 de diciembre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-ecuador-de-viernes-29-de-noviembre-a-domingo-1-de-diciembre.html "Cortes de luz en Ecuador del viernes 29 de noviembre al domingo 1 de diciembre")
+* [Cortes de luz en Quito este jueves 28 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-jueves-28-noviembre.html "Cortes de luz en Quito este jueves 28 de noviembre")
+* [Plaza en El Panecillo tendrá una renovación, en Quito](https://www.elcomercio.com/actualidad/quito/plaza-nubes-quito-renovacion.html "Plaza en El Panecillo tendrá una renovación, en Quito")
+
+Horarios de cortes de luz se mantienen en Ecuador
+-------------------------------------------------
+
+La Cartera de Energía informó este jueves 28 de noviembre que se **realizaron diversos análisis técnicos** que buscan de manera prioritaria y responsable **mantener los caudales.**
+
+Con base en ellos, se elaboraron **los cronogramas de racionamientos** desde el viernes 29 de noviembre hasta el **domingo 1 de diciembre** con las mismas horas de los días previos.
+
+Esto se hace en conjunto con las **empresas distribuidoras de energía** y en coordinación con el Cenace, por lo que se decidió continuar con **suspensiones de seis y siete horas.**
+
+El Ministerio recalcó que **trabaja de manera comprometida e ininterrumpida** para potenciar el Sistema Energético ecuatoriano y mejorar las condiciones técnicas de la infraestructura eléctrica.
+
+Las decisiones están enfocadas en poder suspender los racionamientos de energía para finales de 2024, como ofreció el **presidente Daniel Noboa**.
+
+Esto, tras **65 días de que Ecuador afronte cortes de luz** en todas sus provincias de hasta 12 horas.
+
+La crisis energética, provocada por un **déficit de 1 080 megavatios** (MW) y una de las peores sequías en la historia del país, afecta todos los aspectos de la vida diaria de los ecuatorianos. Y no tiene una fecha exacta de solución.
+
+Horarios de cortes de luz en Quito
+----------------------------------
+
+La Empresa Eléctrica Quito publicó la **programación de cortes de luz** para el viernes 29 de noviembre, sábado 30 de noviembre y domingo 1 de diciembre de 2024.
+
+Estos horarios contemplan seis horas, distribuidas en **dos franjas horarias de tres horas** para cada bloque de barrios afectados.
+
+En cambio, el sector industrial, mantendrá una **suspensión del servicio e**n un horario de siete horas continuas.
+
+Aquí puede revisar el **[cronograma completo](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")** de los tres días:
+
+Cortes de luz en Ecuador del viernes 29 de noviembre al domingo 1 de diciembre
+==============================================================================
+
+Los horarios de cortes de luz hasta el 1 de diciembre contemplan entre seis y siete horas de suspensión, Se espera que terminen a fin de año.
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+![El Ministerio de Energía y Minas estableció los horarios de cortes de luz hasta el 1 de diciembre.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-2024-11-28T072030.139.jpg)
+
+El **Ministerio de Energía y Minas** publicó los nuevos **horarios de cortes de luz** programados hasta el domingo 1 de diciembre. Estos contemplan las mismas horas que los días previos.
+
+### Más noticias
+
+* [Cortes de luz en Quito este jueves 28 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-jueves-28-noviembre.html "Cortes de luz en Quito este jueves 28 de noviembre")
+* [Cortes de luz en Guayaquil este jueves 28 de noviembre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-guayaquil-jueves-28-noviembre.html "Cortes de luz en Guayaquil este jueves 28 de noviembre")
+* [AMT sancionó a conductor de taxi que invadió La Carolina, en Quito](https://www.elcomercio.com/actualidad/quito/amt-sanciono-a-conductor-de-taxi-que-invadio-la-carolina-en-quito.html "AMT sancionó a conductor de taxi que invadió La Carolina, en Quito")
+
+Horarios de cortes de luz se mantienen en Ecuador
+-------------------------------------------------
+
+La Cartera de Energía informó este jueves 28 de noviembre que se **realizaron diversos análisis técnicos** que buscan de manera prioritaria y responsable **mantener los caudales.**
+
+Con base en ellos, se elaboraron **los cronogramas de racionamientos** desde el viernes 29 de noviembre hasta el **domingo 1 de diciembre** con las mismas horas de los días previos.
+
+Esto se hace en conjunto con las **empresas distribuidoras de energía** y en coordinación con el Cenace, por lo que se decidió continuar con **suspensiones de seis y siete horas.**
+
+El Ministerio recalcó que **trabaja de manera comprometida e ininterrumpida** para potenciar el Sistema Energético ecuatoriano y mejorar las condiciones técnicas de la infraestructura eléctrica.
+
+Las decisiones están enfocadas en poder suspender los racionamientos de energía para finales de 2024, como ofreció el **presidente Daniel Noboa**.
+
+Esto, tras **65 días de que Ecuador afronte cortes de luz** en todas sus provincias de hasta 12 horas.
+
+La crisis energética, provocada por un **déficit de 1 080 megavatios** (MW) y una de las peores sequías en la historia del país, afecta todos los aspectos de la vida diaria de los ecuatorianos. Y no tiene una fecha exacta de solución.
+
+Horarios de cortes de luz en Ecuador
+------------------------------------
+
+Las nueve distribuidoras de energía en [Ecuador](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito") publicaron los horarios de cortes de luz de sus unidades de negocio este jueves 28 de noviembre. **Los racionamientos contemplan entre seis y siete horas** de apagones y están establecidos hasta el domingo 1 de diciembre.
+
+[Aquí puede revisar los horarios de cortes de luz](https://www.recursosyenergia.gob.ec/programacionracionamiento-eed1/ "https://www.recursosyenergia.gob.ec/programacionracionamiento-eed1/") según su provincia y ciudad.
+
+> 📍¡IMPORTANTE!  
+>   
+> 📌Informamos que los horarios de racionamiento del servicio de electricidad para el periodo comprendido desde el viernes 29 de noviembre hasta el domingo 01 de diciembre, se mantendrán en un lapso de 6 a 7 horas.  
+>   
+> ➡️Más detalles en⏩ [https://t.co/hGHtswzuk4](https://t.co/hGHtswzuk4) [pic.twitter.com/cDLMsGjqTM](https://t.co/cDLMsGjqTM)
+> 
+> — Ministerio de Energía y Minas Ecuador🇪🇨 (@RecNaturalesEC) [November 28, 2024](https://twitter.com/RecNaturalesEC/status/1862104273460293648?ref_src=twsrc%5Etfw)
+
+Así funciona el Pico y placa en Quito este jueves 28 de noviembre
+=================================================================
+
+Recuerda que en noviembre deben matricular autos con placas terminadas en 0. Revisa los horarios del Pico y placa y evita multas
+--------------------------------------------------------------------------------------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-42.jpg)
+
+El **pico y placa continúa vigente en Quito** para autos y motos; esta medida se implementó para mejorar el flujo vehicular en las horas de mayor tránsito.
+
+### Más noticias
+
+* [AMT sancionó a conductor de taxi que invadió La Carolina, en Quito](https://www.elcomercio.com/actualidad/quito/amt-sanciono-a-conductor-de-taxi-que-invadio-la-carolina-en-quito.html "AMT sancionó a conductor de taxi que invadió La Carolina, en Quito")
+* [¿Cuál es el perfil de usuario que más viaja en el Metro de Quito?](https://www.elcomercio.com/actualidad/quito/metro-quito-perfil-usuario-viaje.html "¿Cuál es el perfil de usuario que más viaja en el Metro de Quito?")
+* [Cortes de agua se realizan en 95 barrios de Quito hasta el 2 de diciembre](https://www.elcomercio.com/actualidad/quito/cortes-de-agua-95-barrios-quito-hasta-2-de-diciembre.html "Cortes de agua se realizan en 95 barrios de Quito hasta el 2 de diciembre")
+
+El **Pico y placa no afecta a vehículos de personas de la tercera edad o** con discapacidad. Tampoco a vehículos oficiales o de servicios de salud.
+
+El **horario de aplicación** de Pico y placa es en la mañana de **06:00 a 09:30** y en la tarde de 16:00 a 20:00.
+
+El esquema de aplicación:
+-------------------------
+
+* **Lunes:** placas terminadas en 1 y 2.
+* **Martes:** los que finalizan en 3 y 4.
+* **Miércoles:** los de dígitos 5 y 6.
+* **Jueves:** los que tengan 7 y 8.
+* **Viernes:** las placas 9 y 0.
+
+Así, este jueves no pueden circular las **placas terminadas en 7 y 8.**
+
+Multas por infringir Pico y placa
+---------------------------------
+
+La multa por incumplir el **Pico y placa** es del 15% del Salario Básico Unificado, es decir 69 dólares la primera vez; la segunda vez será el 25%, es decir, 115 dólares.
+
+Si incumples por tercera vez, **la multa asciende** al 50% de un salario básico, es decir, 230 dólares.
+
+Además, los agentes de tránsito se pueden llevar tu auto retenido. La estancia de tu auto en los parqueaderos municipales genera **costos diarios**.
+
+Revisa antes de salir de casa la placa de tu auto y si eres distraído, coloca una alarma en tu celular los días de Pico y placa.
+
+Matriculación vehicular
+-----------------------
+
+Recuerda que debes tener licencia y **matrícula vigentes** para poder circular. El mes de noviembre los automotores con placa terminada en 0 deben cumplir con el proceso de matriculación. [Evita sanciones.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
+
+> 🚨[#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Ponte pilas!  
+>   
+> 💁 Recuerda, hoy la medida “Pico y Placa” se mantiene con normalidad.  
+>   
+> Respeta las normas de tránsito y evita sanciones.  
+>   
+> 🚘 Con cultura vial [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/PsjaUTUJC0](https://t.co/PsjaUTUJC0)
+> 
+> — AMTQuito (@AMT\_Quito) [October 17, 2024](https://twitter.com/AMT_Quito/status/1846853759294472282?ref_src=twsrc%5Etfw)
+
+La crisis climática demanda más empleo verde
+============================================
+
+La creación de empleos verdes es una solución sostenible para mitigar los efectos del cambio climático.
+-------------------------------------------------------------------------------------------------------
+
+![Imagen creada en Ideogram con el prompt: Empleo verde para salvar el planeta de la crisis climática.](https://www.elcomercio.com/wp-content/uploads/2024/11/Empleo-verde-IA.jpg)
+
+En Ecuador, la transición hacia empleos verdes no solo es una oportunidad económica, sino una necesidad urgente ante los retos climáticos que enfrenta el país.
+
+En 2023 se catalogaron [12 mil puestos de trabajo](https://www.elcomercio.com/tendencias/ambiente/en-ecuador-12-mil-puestos-de-trabajo-que-se-llenaron-en-2023-fueron-considerados-verdes.html "https://www.elcomercio.com/tendencias/ambiente/en-ecuador-12-mil-puestos-de-trabajo-que-se-llenaron-en-2023-fueron-considerados-verdes.html") como verdes de 73 493 colocaciones exitosas, que se lograron a través del **Servicio Público de Empleo.** Esto representó un 16%, lo que refleja un avance en la búsqueda de un desarrollo sostenible. Sin embargo, esta cifra debe entenderse en el contexto de una crisis ambiental, que se manifiesta con eventos extremos como las sequías.
+
+La **crisis hídrica** es un problema acuciante en Ecuador, y en consecuencia se ha considerado como la sequía más extrema en seis décadas. Este fenómeno impacta la agricultura, que es vital para la economía, pero también puso en riesgo el suministro de agua potable y la generación de energía hidroeléctrica. En este contexto, los **empleos verdes** emergen como una solución altamente viable. La promoción de prácticas sostenibles en sectores como la agricultura y la energía puede ayudar a mitigar estos efectos adversos.
+
+Los **empleos verdes** son aquellos que contribuyen a reducir el impacto ambiental y promover la sostenibilidad. Esto incluye desde la implementación de energías renovables hasta la gestión eficiente del agua y la reforestación. Sin embargo, es crucial que estos trabajos sean también decentes, ofreciendo condiciones laborales justas y seguras. La informalidad en sectores como el reciclaje demuestra que no todos los empleos verdes cumplen con estos estándares. Esto subraya la importancia de políticas que aseguren derechos laborales adecuados.
+
+Además, Ecuador está expuesto a riesgos naturales significativos debido a su geografía y clima. Los desastres naturales, como inundaciones y deslizamientos de tierra, son frecuentes y devastadores. Esto resalta la necesidad de una estrategia integral que incorpore la resiliencia climática en el diseño de empleos verdes. Las iniciativas deben enfocarse no solo en crear puestos de trabajo, sino también en preparar a la ciudadanía para enfrentar y adaptarse a los cambios extremos del clima.
+
+> Es fundamental que el gobierno ecuatoriano, junto con organismos internacionales y el sector privado, continúe impulsando políticas que fomenten la creación de empleos verdes.
+
+La estrategia **‘Empleos Verdes’ del Ministerio del Trabajo** es un paso positivo hacia esta dirección. Sin embargo, se necesita un compromiso más profundo para garantizar que estos trabajos no solo sean numerosos, sino también sostenibles y justos en el tiempo.
+
+Ecuador tiene una oportunidad única para transitar hacia una economía verde mediante el impulso de empleos con enfoque sostenible. Esto no solo contribuirá a enfrentar los desafíos ambientales actuales, sino que también puede ser un motor para el desarrollo social y económico del país.
+
+La clave estará en asegurar que esta transición sea inclusiva y equitativa. Y de esta forma se beneficia a todos los sectores de la sociedad mientras se protege el medio ambiente.
+
 La sociedad adolescente
 =======================
 
@@ -54,32 +277,6 @@ No se trata de un insulto, agravio o algo por el estilo, sino de una **categorí
 Para ello, Laje pone el dedo en la llaga: **“Nuestra educación funciona como el más burdo de los adoctrinamientos”.** Y propone una **educación radical**, para superar, en su opinión, el **“Estado niñera, creado para cubrir nuestras necesidades y disciplinarnos, y saciar y estimular nuestros deseos y vigilar nuestra felicidad”.**
 
 ¡Les invito a leer y disfrutar este excelente libro vanguardista!
-
-La crisis climática demanda más empleo verde
-============================================
-
-La creación de empleos verdes es una solución sostenible para mitigar los efectos del cambio climático.
--------------------------------------------------------------------------------------------------------
-
-![Imagen creada en Ideogram con el prompt: Empleo verde para salvar el planeta de la crisis climática.](https://www.elcomercio.com/wp-content/uploads/2024/11/Empleo-verde-IA.jpg)
-
-En Ecuador, la transición hacia empleos verdes no solo es una oportunidad económica, sino una necesidad urgente ante los retos climáticos que enfrenta el país.
-
-En 2023 se catalogaron [12 mil puestos de trabajo](https://www.elcomercio.com/tendencias/ambiente/en-ecuador-12-mil-puestos-de-trabajo-que-se-llenaron-en-2023-fueron-considerados-verdes.html "https://www.elcomercio.com/tendencias/ambiente/en-ecuador-12-mil-puestos-de-trabajo-que-se-llenaron-en-2023-fueron-considerados-verdes.html") como verdes de 73 493 colocaciones exitosas, que se lograron a través del Servicio Público de Empleo. Esto representó un 16%, lo que refleja un avance en la búsqueda de un desarrollo sostenible. Sin embargo, esta cifra debe entenderse en el contexto de una crisis ambiental, que se manifiesta con eventos extremos como las sequías.
-
-La crisis hídrica es un problema acuciante en Ecuador, en consecuencia se ha considerado como la sequía más severa en seis décadas. Este fenómeno impacta la agricultura, que es vital para la economía, pero también puso en riesgo el suministro de agua potable y la generación de energía hidroeléctrica. En este contexto, los empleos verdes emergen como una solución altamente viable. La promoción de prácticas sostenibles en sectores como la agricultura y la energía puede ayudar a mitigar estos efectos adversos.
-
-Los empleos verdes son aquellos que contribuyen a reducir el impacto ambiental y promover la sostenibilidad. Esto incluye desde la implementación de energías renovables hasta la gestión eficiente del agua y la reforestación. Sin embargo, es crucial que estos trabajos sean también decentes, ofreciendo condiciones laborales justas y seguras. La informalidad en sectores como el reciclaje demuestra que no todos los empleos verdes cumplen con estos estándares. Esto subraya la importancia de políticas que aseguren derechos laborales adecuados.
-
-Además, Ecuador está expuesto a riesgos naturales significativos debido a su geografía y clima. Los desastres naturales, como inundaciones y deslizamientos de tierra, son frecuentes y devastadores. Esto resalta la necesidad de una estrategia integral que incorpore la resiliencia climática en el diseño de empleos verdes. Las iniciativas deben enfocarse no solo en crear puestos de trabajo, sino también en preparar a la ciudadanía para enfrentar y adaptarse a los cambios extremos del clima.
-
-> Es fundamental que el gobierno ecuatoriano junto con organismos internacionales y el sector privado, continúe impulsando políticas que fomenten la creación de empleos verdes.
-
-La estrategia ‘Empleos Verdes’ del Ministerio del Trabajo es un paso positivo hacia esta dirección. Sin embargo, se necesita un compromiso más profundo para garantizar que estos trabajos no solo sean numerosos, sino también sostenibles y justos en el tiempo.
-
-En conclusión, Ecuador tiene una oportunidad única para transitar hacia una economía verde mediante el impulso de empleos con enfoque sostenible. Esto no solo contribuirá a enfrentar los desafíos ambientales actuales sino que también puede ser un motor para el desarrollo social y económico del país.
-
-La clave estará en asegurar que esta transición sea inclusiva y equitativa. Y de esta forma se beneficia a todos los sectores de la sociedad mientras se protege el medio ambiente.
 
 Cartas a Quito / 28 de noviembre de 2024
 ========================================
@@ -206,15 +403,15 @@ En el mercado hay **fórmulas** a base de leche de vaca, parcialmente hidrolizad
 
 También hay fórmulas hipoalergénicas destinadas para niños que tienen alergia a la proteína de la leche de vaca, fórmulas deslactosadas para niños con **galactosemia**.
 
-Estados Unidos hizo nueva donación a Ecuador ¿Cuál es el fin?
-=============================================================
+Estados Unidos hizo nueva donación a Ecuador, ¿cuál es su fin?
+==============================================================
 
 Nueva donación de Estados Unidos a Ecuador se formalizó a través de la suscripción de una carta de entrega.
 -----------------------------------------------------------------------------------------------------------
 
 ![Estados Unidos hizo una nueva donación a Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/estados-unidos-donacion-ecuador.jpg)
 
-**Estados Unidos (EE.UU.)** hizo una nueva **donación** a **Ecuador** este miércoles 27 de noviembre de 2024.
+**Estados Unidos (EE.UU.)** hizo una nueva **donación** a **Ecuador** este miércoles 27 de noviembre de 2024[.](https://es.wikipedia.org/wiki/Estados_Unidos "https://es.wikipedia.org/wiki/Estados_Unidos")
 
 La ministra de Relaciones Exteriores y Movilidad Humana, **Gabriela Sommerfeld** y el encargado de Negocios de EE.UU., **Lawrence Petroni**, suscribieron la carta de entrega.
 
@@ -230,6 +427,9 @@ Ecuador y EE. UU. suscribieron la carta de entrega de **7,6 millones de dólares
 
 Este dinero será destinado al **combate a la minería ilegal** y el equipamiento junto a la profesionalización en varios puertos del país.
 
+Convenio binacional
+-------------------
+
 La firma se realiza en el marco de la **Enmienda 19** al Convenio de Cooperación Bilateral entre ambos países.
 
 Este Convenio está relacionado con el fortalecimiento de la **capacidad institucional** del Ecuador para controlar la producción y el tráfico ilícito de drogas.
@@ -241,6 +441,9 @@ El Gobierno, dijo Sommerfeld, busca garantizar la **justicia y la paz** para la 
 La Ministra de Relaciones Exteriores y Movilidad Humana agradeció a los EE. UU. por su “**constante apoyo** a los esfuerzos del Gobierno ecuatoriano para combatir el **crimen organizado transnacional, el narcotráfico y la minería ilegal**“.
 
 “Valoramos profundamente el compromiso de su nación con la **seguridad y estabilidad** del Ecuador”, agregó.
+
+Respaldo de Estados Unidos
+--------------------------
 
 El encargado de Negocios a. i. de los Estados Unidos, Lawrence Petroni, ratificó el **respaldo** de su Gobierno al Ecuador para enfrentar estas problemáticas.
 
@@ -822,188 +1025,3 @@ El dato legal
 -------------
 
 El **femicidio** está tipificado en el artículo 141 del **COIP**. En el juicio se definió la circunstancia agravante contemplada en la norma: por la relación familiar entre la víctima y el agresor.
-
-Cortes de luz en Guayaquil este jueves 28 de noviembre
-======================================================
-
-Los cortes de luz en Guayaquil para este jueves 28 de noviembre son de hasta siete horas.
------------------------------------------------------------------------------------------
-
-![Los cortes de luz en Guayaquil el jueves 28 de noviembre son de hasta siete horas.](https://www.elcomercio.com/wp-content/uploads/2024/11/cortes-luz-guayaquil-jueves-28-noviembre.jpg)
-
-Los **cortes de luz** en **Guayaquil** este **jueves 28 de noviembre** de 2024 se mantienen con una duración de hasta siete horas no consecutivas, para el sector residencial.
-
-**CNEL** publicó los nuevos horarios de suspensión del servicio de energía eléctrica en la capital.
-
-### Más noticias:
-
-* [Ecuador lleva 60 días con cortes de luz, ¿está cerca de salir de la crisis?](https://www.elcomercio.com/actualidad/negocios/ecuador-lleva-60-dias-cortes-luz-esta-cerca-salir-crisis.html "Ecuador lleva 60 días con cortes de luz, ¿está cerca de salir de la crisis?")
-* [Energía de Colombia alivia crisis eléctrica en Ecuador, ¿en qué estado están los embalses?](https://www.elcomercio.com/actualidad/negocios/energia-colombia-crisis-electrica-ecuador-estado-embalses-cortes-luz.html "Energía de Colombia alivia crisis eléctrica en Ecuador, ¿en qué estado están los embalses?")
-
-Los horarios de cortes de luz en Guayaquil este jueves 28 de noviembre
-----------------------------------------------------------------------
-
-Hasta este **jueves 28 de noviembre**, CNEL definió los horarios de cortes de luz para esta semana.
-
-Los guayaquileños están a la expectativa de los **horarios** que corresponden al viernes 29, sábado 30 y domingo 1 de diciembre.
-
-Ecuador sigue atravesando una de las peores **crisis energéticas** en las últimas décadas.
-
-La dependencia de las lluvias para el funcionamiento de las **centrales hidroeléctricas** y la falta de proyectos de energías alternativas pusieron la capacidad de producción de energía al límite.
-
-El último ofrecimiento del presidente Daniel Noboa sobre los cortes de luz a escala nacional es que no existirán para **diciembre**.
-
-Y, en Quito, la suspensión de los cortes de luz el 6 de diciembre, por las fiestas de **fundación de la capital**.
-
-Sin embargo, la generación de energía, a través de otros proyectos de inversión del actual Gobierno, se concretaría desde los primeros meses del **2025**.
-
-En tanto, el Gobierno logró restablecer el intercambio de energía con **Colombia** y las primeras lluvias de intensidad media o alta empiezan a caer en el Austro.
-
-Mientras las condiciones mejoran, Quito sigue con cortes de luz de entre **seis y siete horas**, divididas en dos franjas horarias para el sector residencial.
-
-A continuación, los horarios de los **cortes de luz en Guayaquil este jueves 28 de noviembre**:
-
-Claudia Sheinbaum habló con Donald Trump sobre migración y aranceles
-====================================================================
-
-Claudia Sheinbaum insistió en que las caravanas migrantes "ya no llegan a la frontera".
----------------------------------------------------------------------------------------
-
-![Claudia Sheinbaum en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/11/Claudia-Sheinbaum-efe.jpg)
-
-La presidenta de México, [Claudia Sheinbaum](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-pide-calma-mercados-ante-aranceles-propuestos-trump.html "https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-pide-calma-mercados-ante-aranceles-propuestos-trump.html"), habló este miércoles, 27 de noviembre de 2024, por teléfono con el mandatario electo de Estados Unidos, **Donald Trump**, sobre migración y fentanilo tras su amago de **imponer aranceles de 25 %** a todos los productos mexicanos.
-
-### Más noticias
-
-* [Claudia Sheinbaum pide ‘calma’ a los mercados ante aranceles propuestos por Donald Trump](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-pide-calma-mercados-ante-aranceles-propuestos-trump.html "Claudia Sheinbaum pide ‘calma’ a los mercados ante aranceles propuestos por Donald Trump")
-* [Donald Trump promete más aranceles sobre China y México](https://www.elcomercio.com/actualidad/mundo/donald-trump-promete-mas-aranceles-sobre-china-y-mexico.html "Donald Trump promete más aranceles sobre China y México")
-* [Donald Trump elije a Jamieson Greer como representante comercial](https://www.elcomercio.com/actualidad/mundo/donald-trump-elije-jamieson-greer-representante-comercial.html "Donald Trump elije a Jamieson Greer como representante comercial")
-
-“Tuve una excelente conversación con el presidente Donald Trump. Abordamos la **estrategia mexicana** sobre el fenómeno de la migración y compartí que no están llegando **caravanas a la frontera** norte porque son atendidas en México”, expuso la mandataria mexicana en sus redes sociales.
-
-La llamada ocurre después de que Trump anunció el lunes, 25 de noviembre de 2024, que una de sus primeras órdenes ejecutivas será imponer aranceles de 25 % a “todos los productos” de **México y Canadá**, hasta que se “detenga la invasión” de los migrantes ilegales y drogas, en particular el fentanilo.
-
-Donald Trump justificó los impuestos
-------------------------------------
-
-En su texto en la red Truth Social, el político republicano justificó los impuestos comerciales al argumentar que “en este momento una caravana **proveniente de México**, conformada por miles de personas, parece infrenable” por lo que hay ahora “una frontera abierta”.
-
-Pero en la conversación de este miércoles y en una carta enviada el martes, Sheinbaum insistió en que las caravanas migrantes **“ya no llegan a la frontera”**.
-
-Además, la gobernante mexicana destacó la cooperación que existe para el **combate al narcotráfico.**
-
-“También hablamos de reforzar la colaboración en temas de seguridad en el marco de nuestra soberanía y de la campaña que estamos realizando en el país para prevenir el consumo de fentanilo”, concluyó en su breve mensaje.
-
-Sheinbaum estuvo acompañada en la llamada por el canciller, **Juan Ramón de la Fuente**, quien “ya está en contacto” con el equipo de transición de Trump para buscar una reunión en la que el Gobierno mexicano exponga la importancia de preservar el **Tratado entre México, Estados Unidos y Canadá** (T-MEC).
-
-La charla sucedió el mismo día en el que la presidenta y las cámaras del sector privado presentaron un nuevo consejo empresarial como un frente unido para combatir los aranceles de Donald Trump.
-
-El secretario de Economía, Marcelo Ebrard, advirtió en la conferencia matutina del Gobierno de la potencial pérdida de **400 000 empleos en Estados Unidos** e inflación, como un incremento de 3.000 dólares en el precio de cada camioneta.
-
-Además, recordó que las importaciones totales en Estados Unidos representan el **12,7 % de su producto interior bruto (PIB)**, y que el intercambio comercial de los tres países de Norteamérica sumó 1 776,5 billones de dólares de enero a septiembre de 2024, el equivalente al 30 % de la economía mundial. 
-
-El Nacional regresa a la gloria 18 años después
-===============================================
-
-El Nacional volvió a gritar campeón en Ecuador, después de años difíciles. Uno de los equipos más históricos del país se consagró nuevamente.
----------------------------------------------------------------------------------------------------------------------------------------------
-
-![El Nacional volvió a levantar un título 18 años después.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-27T172357.387.jpg)
-
-**El** **Nacional**, uno de los clubes más grandes e históricos del fútbol ecuatoriano, **gritó campeón** este miércoles 27 de noviembre, en un día que será inolvidable para sus aficionados, especialmente para los más jóvenes.
-
-Los puros criollos se **consagraron campeones de la Copa Ecuador 2024**, al vencer 1-0 a Independiente del Valle en la final, disputada en el Estadio Rodrigo Paz Delgado. Este triunfo les devolvió la alegría a los hinchas, quienes coparon el estadio para apoyar a su equipo, que **celebró un título que les costó tanto recuperar.**
-
-### Más noticias:
-
-* [El Nacional venció a Independiente y es campeón de la Copa Ecuador](https://www.elcomercio.com/deportes/futbol/final-unica-copa-ecuador-resultado.html "El Nacional venció a Independiente y es campeón de la Copa Ecuador")
-* [El Nacional ganó la Copa Ecuador 1970 con solo dos partidos](https://www.elcomercio.com/deportes/futbol/el-nacional-campeon-copa-ecuador1970.html "El Nacional ganó la Copa Ecuador 1970 con solo dos partidos")
-* [IDV y El Nacional definen la Copa Ecuador, ¿a qué hora juegan?](https://www.elcomercio.com/deportes/futbol/final-copa-ecuador-horario-dia.html "IDV y El Nacional definen la Copa Ecuador, ¿a qué hora juegan?")
-
-18 años después, El Nacional vuelve a ser campeón
--------------------------------------------------
-
-A menos de un mes de **que se cumplan 18 años desde su último título**, El Nacional, el único equipo “Bi-Tri” del país, volvió a alzarse con la gloria.
-
-Los capitalinos **lograron su primer título en casi dos décadas**, después de haber pasado por años de sufrimiento y altibajos. Su última conquista había sido en 2006, cuando ganaron el campeonato ecuatoriano, con figuras como Christian Benítez (+), Cristian Lara, entre otros. Desde entonces, la hinchada vivió momentos difíciles.
-
-Uno de los **puntos más bajos fue en 2019**, cuando el club estuvo al borde del descenso. Aunque no jugó en la **Serie B** debido a un cambio en el formato, el pésimo rendimiento los llevó nuevamente a puestos de descenso, y finalmente, en 2020, descendieron a la segunda división.
-
-En **2021 estuvieron cerca de ascende**r, pero un resultado negativo en la última fecha les impidió lograrlo. Sin embargo, no dejaron de luchar, y en 2022 consiguieron el ascenso como campeones.
-
-Dos años después de ese sufrimiento, en 2024, **El Nacional volvió a levantar un título.** Un trofeo que será el primero para muchas nuevas generaciones de hinchas, quienes apenas guardan recuerdos de los títulos de 2005 y 2006.
-
-El único bicampeón de la Copa Ecuador
--------------------------------------
-
-Con este título, **El Nacional se convirtió en el primer equipo en ganar dos veces la Copa Ecuador**, consolidándose como el club más exitoso en la historia de la competencia organizada por la Federación Ecuatoriana de Fútbol (FEF).
-
-El Nacional había ganado la **primera edición del torneo en 1970,** aunque esa edición fue polémica, ya que dos de los equipos participantes se retiraron a mitad de campeonato. Sin embargo, en 2024, el club demostró que no fue casualidad lo logrado hace más de 50 años.
-
-El camino al título no fue fácil. En cuartos de final, vencieron a su clásico rival, **Liga de Quito**, por penales en su propio estadio. En semifinales, superaron a Mushuc Runa, dirigido por Ever Hugo Almeida, el último entrenador que los llevó a un campeonato en 2006.
-
-Y en la final, enfrentaron al mejor equipo de Ecuador, Independiente del Valle, y con un gol de Gabriel Cortez, se consagraron como los **primeros bicampeones de la Copa Ecuador.**
-
-Corte Constitucional da paso a propuesta sobre financiamiento público a organizaciones políticas
-================================================================================================
-
-Daniel Noboa firmó decreto que da paso para que Asamblea trate la reforma que elimina el financiamiento estatal a organizaciones políticas.
--------------------------------------------------------------------------------------------------------------------------------------------
-
-![Corte Constitucional tomó una decisión sobre el financiamiento público a organizaciones políticas.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-33-2.jpg)
-
-La **Corte Constitucional** aprobó un dictamen clave que permite el debate sobre la eliminación del financiamiento público para **partidos y movimientos políticos**. La resolución, emitida el 28 de octubre de 2024, contó con el respaldo de **cinco jueces constitucionales**, mientras que **cuatro salvaron su voto**.
-
-### Más noticias
-
-* [Suspensión de Verónica Abad a consulta de la Corte Constitucional](https://www.elcomercio.com/actualidad/politica/suspension-de-veronica-abad-a-consulta-de-la-corte-constitucional.html "Suspensión de Verónica Abad a consulta de la Corte Constitucional")
-* [Corte Constitucional declara inconstitucional una parte del estado de excepción](https://www.elcomercio.com/actualidad/politica/corte-constitucional-declara-inconstitucionales-parte-estado-excepcion.html "Corte Constitucional declara inconstitucional una parte del estado de excepción")
-* [¿Qué función tienen los nuevos veedores de la renovación de la Corte Constitucional?](https://www.elcomercio.com/actualidad/politica/que-funcion-tienen-nuevos-veedores-renovacion-corte-constitucional.html "¿Qué función tienen los nuevos veedores de la renovación de la Corte Constitucional?")
-
-La jueza ponente, **Karla Andrade Quevedo**, presentó el dictamen que habilita al Presidente de la República a proponer **reformas constitucionales en esta materia**.
-
-En la resolución, se declaró que el procedimiento de reforma parcial es apto para tramitar las modificaciones propuestas, lo que implica que la **Asamblea Nacional** deberá tramitar la reforma.
-
-De ser aprobada, se someterá a referéndum, cumpliendo con los artículos pertinentes de la **Constitución y la Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional**.
-
-Debate sobre financiamiento público
------------------------------------
-
-El financiamiento público a partidos y movimientos políticos generó controversia. Actualmente, la normativa establece que estas **organizaciones reciben asignaciones del Estado** sujetas a control. La reforma busca eliminar estas **asignaciones y depender únicamente de aportes de afiliados y simpatizantes**.
-
-Defensores de la reforma argumentan que eliminar el **financiamiento público** fortalecerá la autonomía de los partidos políticos. Sin embargo, críticos advierten que esta medida podría debilitar a pequeños movimientos, limitando la **participación democrática**.
-
-Sanciones y control electoral
------------------------------
-
-Otro aspecto importante del dictamen es la propuesta de **endurecer el control** sobre los recursos utilizados en **campañas electorales**. Esto incluye sanciones claras para quienes incumplan las normas relacionadas con propaganda y **gasto electoral**. También se prohíbe la publicidad gubernamental durante los procesos electorales.
-
-> Corte Constitucional hace dictamen de vía👆🏻y con las justas (5 vs.4 votos) señala que reforma a la Constitución es correcta para eliminación del fondo partidista que entregaba asignaciones del Estado💡Corresponde ahora la Asamblea tratarlo y aprobarlo previo a referéndum👆🏻 [pic.twitter.com/mLtgCFoy35](https://t.co/mLtgCFoy35)
-> 
-> — José Chalco-Salgado (@jchalco) [November 27, 2024](https://twitter.com/jchalco/status/1861866673310990554?ref_src=twsrc%5Etfw)
-
-La Corte Constitucional dejó en claro que los medios de comunicación deben garantizar equidad en la promoción electoral. Este punto ha generado debate sobre la responsabilidad de los medios y el impacto en la transparencia del proceso electoral.
-
-Gobierno respalda la reforma parcial constitucional
----------------------------------------------------
-
-El **Gobierno** expresó su apoyo a la decisión de la **Corte Constitucional** que permite debatir la eliminación del financiamiento estatal a **organizaciones políticas**.
-
-Según un comunicado oficial del 27 de noviembre de 2024, se busca evitar el **mal uso de recursos públicos destinados a candidatos y partidos**. Estas asignaciones, históricamente cuestionadas, han sostenido estructuras políticas poco transparentes.
-
-> 🔵 A la ciudadanía: [pic.twitter.com/VUVAR3w0wJ](https://t.co/VUVAR3w0wJ)
-> 
-> — Ministerio de Gobierno Ecuador (@MinGobiernoEc) [November 27, 2024](https://twitter.com/MinGobiernoEc/status/1861873185873916343?ref_src=twsrc%5Etfw)
-
-Daniel Noboa firmó el decreto sobre financiamiento de campañas políticas
-------------------------------------------------------------------------
-
-A través del **Decreto Ejecutivo 467**, el presidente Daniel Noboa remitió a la Asamblea Nacional el proyecto de reforma parcial a la Constitución para que lo tramite de conformidad a lo dispuesto en la Constitución y la Ley.
-
-En el artículo 2, el Decreto dispone notificar a la **Asamblea** con el proyecto de reforma parcial constitucional para que continúe con el trámite previsto en el artículo 442 de la Constitución.
-
-En el siguiente artículo, Noboa exhorta a la Asamblea a tramitar el proyecto “con **responsabilidad** y en sintonía con las necesidades de la ciudadanía”.
-
-Si la Asamblea lo aprueba, el proyecto **pasará a referéndum** para que los ecuatorianos tomen la decisión final.
-
-Los fondos que hoy reciben los partidos políticos se destinarán a sectores prioritarios como salud, educación y seguridad.
