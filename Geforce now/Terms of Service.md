@@ -192,13 +192,14 @@ Main Menu
     
 * For You
     
-            
+             
     
     * Creatives/Designers
     * Data Scientists
     * Developers
     * [Executives](https://www.nvidia.com/en-eu/executive-insights/)
     * Gamers
+    * [ISVs](https://www.nvidia.com/en-us/programs/isv/)
     * IT Professionals
     * Researchers
     * Roboticists
@@ -791,7 +792,8 @@ NVIDIA NVIDIA logo
             * [Shop](https://shop.nvidia.com/en-us/shield/)
             * [FAQs](https://www.nvidia.com/en-us/geforce-now/faq/)
             * [Knowledge Base](https://nvidia.custhelp.com/app/shield/st/5/p/178/page/1/)
-    * [IT Professionals](#nav-lvl1-tab4-lvl2-tab6)
+    * [ISVs](https://www.nvidia.com/en-us/programs/isv/)
+    * [IT Professionals](#nav-lvl1-tab4-lvl2-tab7)
     * * Solutions
             
             * [Data Center (On-Premises)](https://www.nvidia.com/en-eu/data-center/solutions/accelerated-computing/)
@@ -825,7 +827,7 @@ NVIDIA NVIDIA logo
             * [Security](https://www.nvidia.com/en-eu/security/)
             * [Product Documentation](https://docs.nvidia.com/)
             * [Forums](https://forums.developer.nvidia.com/)
-    * [Researchers](#nav-lvl1-tab4-lvl2-tab7)
+    * [Researchers](#nav-lvl1-tab4-lvl2-tab8)
     * * * [NVIDIA Research Home](https://www.nvidia.com/en-us/research/)
             * [Research Areas](https://www.nvidia.com/en-us/research/research-areas/)
             * [AI Playground](https://www.nvidia.com/en-us/research/ai-playground/)
@@ -838,7 +840,7 @@ NVIDIA NVIDIA logo
             * [Developer Blog](https://developer.nvidia.com/blog/)
             * [Open Source Portal](https://developer.nvidia.com/open-source/)
             * [Cambridge-1 Supercomputer](https://www.nvidia.com/en-eu/industries/healthcare-life-sciences/cambridge-1/)
-    * [Roboticists](#nav-lvl1-tab4-lvl2-tab8)
+    * [Roboticists](#nav-lvl1-tab4-lvl2-tab9)
     * * Products
             
             * [AI Training - DGX](https://www.nvidia.com/en-eu/data-center/dgx-systems/)
