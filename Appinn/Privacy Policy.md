@@ -153,35 +153,35 @@
 
 ### 最近 30 天的热门内容
 
-* [![PixPin - 截图工具：贴图、截长图、截动图、OCR 文字识别｜终身会员首次7折优惠，可激活8个设备 6](https://www.appinn.com/wp-content/uploads/2023/11/Appinn-feature-images-2023-11-21T144225.949-115x115.jpg "PixPin - 截图工具：贴图、截长图、截动图、OCR 文字识别｜终身会员首次7折优惠，可激活8个设备 6")](https://www.appinn.com/pixpin/ "PixPin – 截图工具：贴图、截长图、截动图、OCR 文字识别｜终身会员首次7折优惠，可激活8个设备")
-    
-    [PixPin – 截图工具：贴图、截长图、截动图、OCR 文字识别｜终身会员首次7折优惠，可激活8个设备](https://www.appinn.com/pixpin/ "PixPin – 截图工具：贴图、截长图、截动图、OCR 文字识别｜终身会员首次7折优惠，可激活8个设备")
-    
-    10 月 29, 2024 3
-    
-* [![CleanShot X - 专业 Mac 截图、录屏神器，双11限时 8 折优惠中 7](https://www.appinn.com/wp-content/uploads/2020/10/cleanshot-x.jpgo_-115x115.jpg "CleanShot X - 专业 Mac 截图、录屏神器，双11限时 8 折优惠中 7")](https://www.appinn.com/cleanshot-x-for-macos/ "CleanShot X – 专业 Mac 截图、录屏神器，双11限时 8 折优惠中")
+* [![CleanShot X - 专业 Mac 截图、录屏神器，双11限时 8 折优惠中 6](https://www.appinn.com/wp-content/uploads/2020/10/cleanshot-x.jpgo_-115x115.jpg "CleanShot X - 专业 Mac 截图、录屏神器，双11限时 8 折优惠中 6")](https://www.appinn.com/cleanshot-x-for-macos/ "CleanShot X – 专业 Mac 截图、录屏神器，双11限时 8 折优惠中")
     
     [CleanShot X – 专业 Mac 截图、录屏神器，双11限时 8 …](https://www.appinn.com/cleanshot-x-for-macos/ "CleanShot X – 专业 Mac 截图、录屏神器，双11限时 8 折优惠中")
     
     11 月 7, 2024 3
     
-* [![无需登录！轻松下载 YouTube 视频的最简单方法 8](https://www.appinn.com/wp-content/uploads/2024/11/faq-22-115x115.jpg "无需登录！轻松下载 YouTube 视频的最简单方法 8")](https://www.appinn.com/download-yt-video-use-cobalt/ "无需登录！轻松下载 YouTube 视频的最简单方法")
-    
-    [无需登录！轻松下载 YouTube 视频的最简单方法](https://www.appinn.com/download-yt-video-use-cobalt/ "无需登录！轻松下载 YouTube 视频的最简单方法")
-    
-    11 月 1, 2024 2
-    
-* [![Follow 是什么？它不止是 RSS 阅读器，但万物皆可订阅｜2024年11月3日更新：第一轮空投开始 9](https://www.appinn.com/wp-content/uploads/2024/10/Appinn-Feature-images-2024-10-24T155053.119-115x115.jpg "Follow 是什么？它不止是 RSS 阅读器，但万物皆可订阅｜2024年11月3日更新：第一轮空投开始 9")](https://www.appinn.com/what-is-follow/ "Follow 是什么？它不止是 RSS 阅读器，但万物皆可订阅｜2024年11月3日更新：第一轮空投开始")
+* [![Follow 是什么？它不止是 RSS 阅读器，但万物皆可订阅｜2024年11月3日更新：第一轮空投开始 7](https://www.appinn.com/wp-content/uploads/2024/10/Appinn-Feature-images-2024-10-24T155053.119-115x115.jpg "Follow 是什么？它不止是 RSS 阅读器，但万物皆可订阅｜2024年11月3日更新：第一轮空投开始 7")](https://www.appinn.com/what-is-follow/ "Follow 是什么？它不止是 RSS 阅读器，但万物皆可订阅｜2024年11月3日更新：第一轮空投开始")
     
     [Follow 是什么？它不止是 RSS 阅读器，但万物皆可订阅｜2024年11月3日更新：第一轮空投开始](https://www.appinn.com/what-is-follow/ "Follow 是什么？它不止是 RSS 阅读器，但万物皆可订阅｜2024年11月3日更新：第一轮空投开始")
     
     11 月 3, 2024 2
     
-* [![开源稍后阅读工具 Omnivore 被收购，并将在本月底关闭 10](https://www.appinn.com/wp-content/uploads/2024/11/Appinn-Feature-images-2024-11-05T142923.773-1-115x115.jpg "开源稍后阅读工具 Omnivore 被收购，并将在本月底关闭 10")](https://www.appinn.com/omnivore-shutting-down/ "开源稍后阅读工具 Omnivore 被收购，并将在本月底关闭")
+* [![双 11 榜单，哪些软件买的人最多 8](https://www.appinn.com/wp-content/uploads/2024/11/Appinn-Feature-images-2024-11-12T142028.247-115x115.jpg "双 11 榜单，哪些软件买的人最多 8")](https://www.appinn.com/241111-lizhi-final/ "双 11 榜单，哪些软件买的人最多")
+    
+    [双 11 榜单，哪些软件买的人最多](https://www.appinn.com/241111-lizhi-final/ "双 11 榜单，哪些软件买的人最多")
+    
+    11 月 12, 2024 2
+    
+* [![开源稍后阅读工具 Omnivore 被收购，并将在本月底关闭 9](https://www.appinn.com/wp-content/uploads/2024/11/Appinn-Feature-images-2024-11-05T142923.773-1-115x115.jpg "开源稍后阅读工具 Omnivore 被收购，并将在本月底关闭 9")](https://www.appinn.com/omnivore-shutting-down/ "开源稍后阅读工具 Omnivore 被收购，并将在本月底关闭")
     
     [开源稍后阅读工具 Omnivore 被收购，并将在本月底关闭](https://www.appinn.com/omnivore-shutting-down/ "开源稍后阅读工具 Omnivore 被收购，并将在本月底关闭")
     
     11 月 5, 2024 2
+    
+* [![无需登录！轻松下载 YouTube 视频的最简单方法 10](https://www.appinn.com/wp-content/uploads/2024/11/faq-22-115x115.jpg "无需登录！轻松下载 YouTube 视频的最简单方法 10")](https://www.appinn.com/download-yt-video-use-cobalt/ "无需登录！轻松下载 YouTube 视频的最简单方法")
+    
+    [无需登录！轻松下载 YouTube 视频的最简单方法](https://www.appinn.com/download-yt-video-use-cobalt/ "无需登录！轻松下载 YouTube 视频的最简单方法")
+    
+    11 月 1, 2024 2
     
 
 ### 分类
