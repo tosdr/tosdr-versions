@@ -89,11 +89,11 @@ Most Read
     
 2. 2. [After Russian ship docks to space station, astronauts report a foul smell](https://arstechnica.com/space/2024/11/after-russian-ship-docks-to-space-station-astronauts-report-a-foul-smell/)
     
-3. 3. [Nvidia’s new AI audio model can synthesize sounds that have never existed](https://arstechnica.com/ai/2024/11/nvidias-new-ai-audio-model-can-synthesize-sounds-that-have-never-existed/)
+3. 3. [Found in the wild: The world’s first unkillable UEFI bootkit for Linux](https://arstechnica.com/security/2024/11/found-in-the-wild-the-worlds-first-unkillable-uefi-bootkit-for-linux/)
     
-4. 4. [ISPs say their “excellent customer service” is why users don’t switch providers](https://arstechnica.com/tech-policy/2024/11/isps-say-their-excellent-customer-service-is-why-users-dont-switch-providers/)
+4. 4. [Nvidia’s new AI audio model can synthesize sounds that have never existed](https://arstechnica.com/ai/2024/11/nvidias-new-ai-audio-model-can-synthesize-sounds-that-have-never-existed/)
     
-5. 5. [Workers demand more transparency after Intel secures $8B CHIPS funding](https://arstechnica.com/tech-policy/2024/11/workers-demand-more-transparency-after-intel-secures-8b-chips-funding/)
+5. 5. [FCC approves Starlink plan for cellular phone service, with some limits](https://arstechnica.com/tech-policy/2024/11/fcc-approves-starlink-plan-for-cellular-phone-service-with-some-limits/)
     
 
 Customize
