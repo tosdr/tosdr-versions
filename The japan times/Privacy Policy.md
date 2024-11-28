@@ -468,25 +468,29 @@ Revised June 1, 2022
 
   [![Crown Prince Akishino and Crown Princess Kiko, followed by Princess Aiko and Princess Kako, prepare to attend a funeral service for Princess Yuriko at Toshimagaoka Cemetery in Tokyo on Tuesday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/26/436352.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Crown Prince Akishino and Crown Princess Kiko, followed by Princess Aiko and Princess Kako, prepare to attend a funeral service for Princess Yuriko at Toshimagaoka Cemetery in Tokyo on Tuesday. ")](https://www.japantimes.co.jp/news/2024/11/26/japan/society/princess-yuriko-funeral/ "Funeral held for Princess Yuriko at Tokyo cemetery")
 
+[Trump team weighs direct talks with North Korea's Kim](https://www.japantimes.co.jp/news/2024/11/27/asia-pacific/politics/us-north-korea-trump-kim-talks/ "Trump team weighs direct talks with North Korea's Kim")
+
+  [![Then-U.S. President Donald Trump meets with North Korean leader Kim Jong Un at the Demilitarized Zone separating the two Koreas, in Panmunjom, South Korea, in June 2019.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/27/436484.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Then-U.S. President Donald Trump meets with North Korean leader Kim Jong Un at the Demilitarized Zone separating the two Koreas, in Panmunjom, South Korea, in June 2019.")](https://www.japantimes.co.jp/news/2024/11/27/asia-pacific/politics/us-north-korea-trump-kim-talks/ "Trump team weighs direct talks with North Korea's Kim")
+
 [Bluesky is booming in Japan — mainly for reasons other than U.S. politics](https://www.japantimes.co.jp/business/2024/11/25/companies/bluesky-social-japan/ "Bluesky is booming in Japan — mainly for reasons other than U.S. politics")
 
   [![According to Similarweb, average monthly user numbers for Bluesky on Android in Japan quintupled in the 12 months to October.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/25/436245.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "According to Similarweb, average monthly user numbers for Bluesky on Android in Japan quintupled in the 12 months to October.")](https://www.japantimes.co.jp/business/2024/11/25/companies/bluesky-social-japan/ "Bluesky is booming in Japan — mainly for reasons other than U.S. politics")
+
+[Israel-Hezbollah cease-fire, brokered by U.S. and France, takes effect](https://www.japantimes.co.jp/news/2024/11/27/world/politics/israel-hezbollah-ceasefire-agreement/ "Israel-Hezbollah cease-fire, brokered by U.S. and France, takes effect")
+
+  [![People near Martyrs Square in Beirut watch as Israeli Prime Minister Benjamin Netanyahu announces a cease-fire on television on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/27/436453.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "People near Martyrs Square in Beirut watch as Israeli Prime Minister Benjamin Netanyahu announces a cease-fire on television on Tuesday.")](https://www.japantimes.co.jp/news/2024/11/27/world/politics/israel-hezbollah-ceasefire-agreement/ "Israel-Hezbollah cease-fire, brokered by U.S. and France, takes effect")
 
 [Suspected arson in Sapporo leaves four injured](https://www.japantimes.co.jp/news/2024/11/27/japan/japan-sapporo-explosion/ "Suspected arson in Sapporo leaves four injured")
 
   [![Firetrucks outside a building in Sapporo where an explosion left four people injured on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/26/436400.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Firetrucks outside a building in Sapporo where an explosion left four people injured on Tuesday.")](https://www.japantimes.co.jp/news/2024/11/27/japan/japan-sapporo-explosion/ "Suspected arson in Sapporo leaves four injured")
 
-[Trump pledges 25% tariffs on Canada and Mexico, and more levies on China](https://www.japantimes.co.jp/business/2024/11/26/economy/trump-tariffs-mexico-canada/ "Trump pledges 25% tariffs on Canada and Mexico, and more levies on China")
-
-  [![U.S. President-elect Donald Trump attends a viewing of the launch of the sixth test flight of the SpaceX Starship rocket, in Brownsville, Texas, on Nov. 19. Trump on Monday threatened to slap China, Mexico and Canada with hefty tariffs upon his return to the White House.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/26/436269.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "U.S. President-elect Donald Trump attends a viewing of the launch of the sixth test flight of the SpaceX Starship rocket, in Brownsville, Texas, on Nov. 19. Trump on Monday threatened to slap China, Mexico and Canada with hefty tariffs upon his return to the White House.")](https://www.japantimes.co.jp/business/2024/11/26/economy/trump-tariffs-mexico-canada/ "Trump pledges 25% tariffs on Canada and Mexico, and more levies on China")
-
-[False report on Yasukuni Shrine visit 'extremely regrettable,' top spokesperson says](https://www.japantimes.co.jp/news/2024/11/27/japan/kyodo-news-yasukuni-report-mistake/ "False report on Yasukuni Shrine visit 'extremely regrettable,' top spokesperson says")
-
-  [![Chief Cabinet Secretary Yoshimasa Hayashi during a news conference in Tokyo on Tuesday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/26/436444.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Chief Cabinet Secretary Yoshimasa Hayashi during a news conference in Tokyo on Tuesday")](https://www.japantimes.co.jp/news/2024/11/27/japan/kyodo-news-yasukuni-report-mistake/ "False report on Yasukuni Shrine visit 'extremely regrettable,' top spokesperson says")
-
 [Bluesky is booming in Japan — mainly for reasons other than U.S. politics](https://www.japantimes.co.jp/business/2024/11/25/companies/bluesky-social-japan/ "Bluesky is booming in Japan — mainly for reasons other than U.S. politics")
 
   [![According to Similarweb, average monthly user numbers for Bluesky on Android in Japan quintupled in the 12 months to October.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/25/436245.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "According to Similarweb, average monthly user numbers for Bluesky on Android in Japan quintupled in the 12 months to October.")](https://www.japantimes.co.jp/business/2024/11/25/companies/bluesky-social-japan/ "Bluesky is booming in Japan — mainly for reasons other than U.S. politics")
+
+[China defense minister being investigated for corruption, report says](https://www.japantimes.co.jp/news/2024/11/27/asia-pacific/politics/china-defense-minister-corruption-dong-jun/ "China defense minister being investigated for corruption, report says")
+
+  [![Chinese Defense Minister Dong Jun attends the opening ceremony of the Xiangshan Forum at the Beijing International Convention Center on Sept. 13. Dong is the third consecutive incumbent or former defense chief to be probed over alleged corruption.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/27/436546.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Chinese Defense Minister Dong Jun attends the opening ceremony of the Xiangshan Forum at the Beijing International Convention Center on Sept. 13. Dong is the third consecutive incumbent or former defense chief to be probed over alleged corruption.")](https://www.japantimes.co.jp/news/2024/11/27/asia-pacific/politics/china-defense-minister-corruption-dong-jun/ "China defense minister being investigated for corruption, report says")
 
 [How Japan can exit the fossil fuel subsidies it can’t seem to quit](https://www.japantimes.co.jp/environment/2024/11/24/energy/fossil-fuel-subsidies-quit/ "How Japan can exit the fossil fuel subsidies it can’t seem to quit")
 
@@ -499,10 +503,6 @@ Revised June 1, 2022
 [Rayssa Leal and Chloe Covell on Japan’s teen skaters: We are friends, not rivals](https://www.japantimes.co.jp/sports/2024/11/24/more-sports/rayssa-leal-chloe-covell-skateboarding-teens/ "Rayssa Leal and Chloe Covell on Japan’s teen skaters: We are friends, not rivals")
 
   [![Brazil’s Rayssa Leal celebrates after winning the women's Street League Skateboarding competition on Saturday in Tokyo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/24/435925.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Brazil’s Rayssa Leal celebrates after winning the women's Street League Skateboarding competition on Saturday in Tokyo.")](https://www.japantimes.co.jp/sports/2024/11/24/more-sports/rayssa-leal-chloe-covell-skateboarding-teens/ "Rayssa Leal and Chloe Covell on Japan’s teen skaters: We are friends, not rivals")
-
-[An iconic 32-foot doughnut might give Randy’s an edge in Japan](https://www.japantimes.co.jp/business/2024/11/24/companies/randys-donut-japan/ "An iconic 32-foot doughnut might give Randy’s an edge in Japan")
-
-  [![Randy's Donuts in Inglewood, California. Replicas of the giant doughnut sculpture will be installed, where possible, at shops in Japan.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/24/435759.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Randy's Donuts in Inglewood, California. Replicas of the giant doughnut sculpture will be installed, where possible, at shops in Japan.")](https://www.japantimes.co.jp/business/2024/11/24/companies/randys-donut-japan/ "An iconic 32-foot doughnut might give Randy’s an edge in Japan")
 
 Podcast
 -------
@@ -565,21 +565,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[ICC prosecutor seeks arrest warrant for Myanmar military leader](https://www.japantimes.co.jp/news/2024/11/27/world/icc-myanmar-rohingya/ "ICC prosecutor seeks arrest warrant for Myanmar military leader")
+[Adani allegations cast light on barriers to India's ambitious solar drive](https://www.japantimes.co.jp/business/2024/11/28/tech/adani-allegations-india-clean-energy/ "Adani allegations cast light on barriers to India's ambitious solar drive")
 
-10 hours ago
+7 mins ago
 
-[Emperor and empress visit grave of Princess Yuriko](https://www.japantimes.co.jp/news/2024/11/27/japan/emperor-princess-yuriko-grave/ "Emperor and empress visit grave of Princess Yuriko")
+[Asia likely to benefit from cheaper Canadian and Mexican oil if Trump imposes tariffs](https://www.japantimes.co.jp/business/2024/11/28/markets/asia-canadian-mexican-oil-trump-tariffs/ "Asia likely to benefit from cheaper Canadian and Mexican oil if Trump imposes tariffs")
 
-11 hours ago
+50 mins ago
 
-[DPP’s Tamaki leverages new position with energy proposal](https://www.japantimes.co.jp/news/2024/11/27/japan/politics/ishiba-tamaki-nuclear-energy/ "DPP’s Tamaki leverages new position with energy proposal")
+[Online marketing costs jump amid bidding war by Temu and Shein](https://www.japantimes.co.jp/business/2024/11/28/tech/black-friday-marketing-temu-shein/ "Online marketing costs jump amid bidding war by Temu and Shein")
 
-11 hours ago
+52 mins ago
 
-[VW confirms plans to exit controversial Xinjiang operation](https://www.japantimes.co.jp/business/2024/11/27/companies/volkswagen-xinjiang-china-forced-labor/ "VW confirms plans to exit controversial Xinjiang operation")
+[Triennale aims to energize Tokyo's Odaiba area with art](https://www.japantimes.co.jp/news/2024/11/28/japan/japan-odaiba-art-festival/ "Triennale aims to energize Tokyo's Odaiba area with art")
 
-[Panel defers decision on scrapping Japan's NTT law](https://www.japantimes.co.jp/business/2024/11/27/companies/ntt-law-panel/ "Panel defers decision on scrapping Japan's NTT law")
+54 mins ago
+
+[Exxon lobbyist probed over hacked papers that disrupted climate lawsuits](https://www.japantimes.co.jp/business/2024/11/28/companies/exxon-lobbyist-hack-environmentalist/ "Exxon lobbyist probed over hacked papers that disrupted climate lawsuits")
+
+54 mins ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
