@@ -11,7 +11,7 @@ Terms and Conditions
 
   
 
-[Terms and conditions affective before December 19, 2024.](https://www.worldremit.com/about-us/terms-and-conditions-us-oct-2024)
+[Terms and conditions effective before December 19, 2024.](https://www.worldremit.com/about-us/terms-and-conditions-us-oct-2024)
 
 [**Download**](https://assets.ctfassets.net/sb7j5o4oxtgv/26v7Hx9tt2UdBzhIjCliCv/f70c58a8848fad4269d1f376d38df74b/DEC_2024_ZEPZ_US_Sender_User_Terms_WR.pdf)
 
