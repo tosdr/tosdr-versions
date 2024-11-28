@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/corona-kwestie/oproep-aan-engelse-lareb-stop-met-vaccineren/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/universum/een-universitaire-kijk-op-ufos-ze-bestaan/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
