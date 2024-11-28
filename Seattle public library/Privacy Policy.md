@@ -1,6 +1,6 @@
-* **Public computers and catalog computers unavailable**
+* **Children’s Computers Unavailable**
     
-    Due to a power issue, the Library’s public PCs and catalog computers cannot currently access the internet. We are working on the issue and apologize for the inconvenience.
+    Due to a technical issue, children’s computers are not currently available. We are working on the issue, and apologize for the inconvenience.
     
 
 * **The Seattle Public Library Is Closed On Thanksgiving Day**
