@@ -66,9 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![ThirdParty](/assets/logos/ThirdParty.png)](http://www.followthemoney.org/research/institute-research/third-party-candidates-face-long-odds)
-
-How many third-party candidates were successful 2000-2009?
+[![Names in the News: Alpha Natural Resources](/assets/Images/teasers/full/ANR-Coal-by-Party.png)](http://www.followthemoney.org/research/institute-reports/names-in-the-news-alpha-natural-resources/)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
