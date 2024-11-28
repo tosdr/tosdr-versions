@@ -567,23 +567,23 @@ Latest News
 
 [Putin warns Russia may strike Kyiv with new ballistic missiles](https://www.japantimes.co.jp/news/2024/11/28/world/putin-warns-kyiv-strike-new-missiles/ "Putin warns Russia may strike Kyiv with new ballistic missiles")
 
-4 hours ago
+9 hours ago
 
 [Share of female presidents at Japanese firms hits record 8.4%](https://www.japantimes.co.jp/business/2024/11/28/female-president-share-record/ "Share of female presidents at Japanese firms hits record 8.4%")
 
-4 hours ago
+10 hours ago
 
 [Rights group says Vietnam's imprisonment of Khmer monks violated religious freedom](https://www.japantimes.co.jp/news/2024/11/28/asia-pacific/crime-legal/monks-vietnam-rights/ "Rights group says Vietnam's imprisonment of Khmer monks violated religious freedom")
 
-5 hours ago
+10 hours ago
 
 [Taiwan president's plan to stop over in Hawaii and Guam angers Beijing](https://www.japantimes.co.jp/news/2024/11/28/asia-pacific/taiwan-leader-stop-hawaii-guam/ "Taiwan president's plan to stop over in Hawaii and Guam angers Beijing")
 
-5 hours ago
+11 hours ago
 
 [Japan to lean heavily on extra tax revenue to cover costs of extra budget](https://www.japantimes.co.jp/news/2024/11/28/japan/extra-budget-tax-revenue/ "Japan to lean heavily on extra tax revenue to cover costs of extra budget")
 
-5 hours ago
+11 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
