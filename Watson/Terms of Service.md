@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![larges éclaircies](https://www.watson.ch/fr/_watsui/static/img/weather/w-3.svg)7°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![faible pluie](https://www.watson.ch/fr/_watsui/static/img/weather/w-16.svg)9°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -54,26 +54,26 @@
 
 Thèmes du moment
 
-* [Argent](https://www.watson.ch/fr/argent/)
-* [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
-* [Neuchâtel](https://www.watson.ch/fr/neuchatel/)
-* [Ligue des champions](https://www.watson.ch/fr/ligue-des-champions/)
-* [Chine](https://www.watson.ch/fr/chine/)
-* [Cryptomonnaie](https://www.watson.ch/fr/cryptomonnaie/)
-* [Valais](https://www.watson.ch/fr/valais/)
+* [Promotion](https://www.watson.ch/fr/promotion/)
 * [Politique](https://www.watson.ch/fr/politique/)
+* [Climat](https://www.watson.ch/fr/climat/)
 * [Musique](https://www.watson.ch/fr/musique/)
+* [Donald Trump](https://www.watson.ch/fr/donald-trump/)
+* [Football](https://www.watson.ch/fr/football/)
 * [Transports](https://www.watson.ch/fr/transports/)
 * [Réseaux sociaux](https://www.watson.ch/fr/reseaux-sociaux/)
 * [Justice](https://www.watson.ch/fr/justice/)
 * [CFF](https://www.watson.ch/fr/cff/)
+* [Les Good News](https://www.watson.ch/fr/les-good-news/)
 * [Banques](https://www.watson.ch/fr/banques/)
 * [train](https://www.watson.ch/fr/train/)
 * [Corée du Sud](https://www.watson.ch/fr/coree-du-sud/)
-* [Youtube](https://www.watson.ch/fr/youtube/)
-* [Football](https://www.watson.ch/fr/football/)
-* [Climat](https://www.watson.ch/fr/climat/)
-* [Donald Trump](https://www.watson.ch/fr/donald-trump/)
+* [Chine](https://www.watson.ch/fr/chine/)
+* [Cryptomonnaie](https://www.watson.ch/fr/cryptomonnaie/)
+* [Ligue des champions](https://www.watson.ch/fr/ligue-des-champions/)
+* [Neuchâtel](https://www.watson.ch/fr/neuchatel/)
+* [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
+* [Argent](https://www.watson.ch/fr/argent/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
 * [Obtenir l'application](https://www.watson.ch/fr/u/app)
