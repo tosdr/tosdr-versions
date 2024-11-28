@@ -412,36 +412,36 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 Most common
 
-1. marketing
+1. project management
     
-2. graphic design
+2. harvard
     
-3. machine learning
+3. web development
     
 
 Popular subjects
 
-1. [Computer Science
+1. [Web Development
     
-    43,853 courses](https://www.classcentral.com/subject/cs)
-2. [Software Development
+    13,798 courses](https://www.classcentral.com/subject/web-development)
+2. [Digital Marketing
     
-    9,977 courses](https://www.classcentral.com/subject/software-development)
-3. [Computer Networking
+    6,286 courses](https://www.classcentral.com/subject/digital-marketing)
+3. [Artificial Intelligence
     
-    1,761 courses](https://www.classcentral.com/subject/computer-networking)
+    14,101 courses](https://www.classcentral.com/subject/ai)
 
 Popular courses
 
-1. [Working with Translation: Theory and Practice
+1. [Monitoring Volcanoes and Magma Movements
     
-    Cardiff University](https://www.classcentral.com/course/working-with-translation-6981)
-2. [Supporting Successful Learning in Primary School
+    University of Iceland](https://www.classcentral.com/course/volcanoes-the-university-of-iceland-monitoring-vo-13227)
+2. [FinTech Ethics and Risks
     
-    University of Reading](https://www.classcentral.com/course/supporting-learning-primary-13229)
-3. [Product Management Essentials
+    The University of Hong Kong](https://www.classcentral.com/course/fintech-university-of-hong-kong-fintech-ethics-an-11392)
+3. [Python and Statistics for Financial Analysis
     
-    University of Maryland, College Park](https://www.classcentral.com/course/product-management-essentials-46400)
+    The Hong Kong University of Science and Technology](https://www.classcentral.com/course/python-statistics-financial-analysis-12648)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
