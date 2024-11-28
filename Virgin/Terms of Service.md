@@ -39,7 +39,7 @@ Alright, that's it for the background – time to dive into the detail! 
 
 We want to make sure you understand how we handle your personal information when you use the Website or your Virgin ID. 
 
-To get all the details about how we collect, use, and share your information, as well as our commitment to protecting your privacy, take a look at the [**Virgin Red Limited Privacy Policy**](https://www.virgin.com/privacy-policy)**.**  
+To get all the details about how we collect, use, and share your information, as well as our commitment to protecting your privacy, take a look at the [**Virgin Red Limited Privacy Policy**](https://www.virgin.com/virgin-red/privacy-policy)**.**  
 
 Just to let you know - if you use the "Report a Scam" section on the Website, the information you provide will be sent to Virgin Enterprises Limited. They might contact you directly about your enquiry. Also, Virgin Management Limited is a separate data controller for personal data sent through their managed mailboxes when you contact them using the “Book a Branson” and “Contact Us” pages of the Website or when you contact the Virgin Press Office. You'll find more details about all this in our privacy policy, including the addresses for these two companies**.**
 
@@ -216,7 +216,7 @@ So, that’s it. We hope you enjoy using the Virgin.com website and your Virgin 
 
 * [Contact Virgin](https://www.virgin.com/contact-us)
 * [Web Terms of Use](https://www.virgin.com/terms-and-conditions)
-* [Web Privacy Policy](https://www.virgin.com/privacy-policy)
+* [Web Privacy Policy](https://www.virgin.com/virgin-red/privacy-policy)
 * [Web Cookie Policy](https://www.virgin.com/cookie-policy)
 
 * [Virgin Modern Slavery Statement](https://www.virgin.com/modern-slavery-act)
