@@ -129,8 +129,8 @@ Pursuant to Title 17, United States Code, Section 512(c)(2), notifications of cl
 
 ![bloosurf-llc](https://bloosurf.com/wp-content/uploads/2019/12/bloosurf-llc-300x122.png)
 
-1222 Old Ocean City Rd.,  
-  
+108 Moss Hill Lane,
+
 Salisbury, MD 21804
 
 [**866-319-7172**](tel:8663197172)
