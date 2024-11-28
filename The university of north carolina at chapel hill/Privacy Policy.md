@@ -94,12 +94,12 @@ Hide Main Navigation Menu
 
 ### Featured
 
-* [![](https://www.unc.edu/wp-content/uploads/2024/11/LHR1121hero-250x141.jpg)
+* [![](https://www.unc.edu/wp-content/uploads/2024/11/BloodDriveHero-250x141.jpg)
     
-    A message from the chancellor: Hurricane Helene relief](https://www.unc.edu/posts/2024/11/21/a-message-from-the-chancellor-hurricane-helene-relief/)
-* [![](https://www.unc.edu/wp-content/uploads/2024/11/StudyAbroadHERO-250x141.jpg)
+    Holiday Carolina Blood Drive helps those in need](https://www.unc.edu/posts/2024/11/26/holiday-carolina-blood-drive-helps-those-in-need/)
+* [![](https://www.unc.edu/wp-content/uploads/2024/11/RidgeRdHero-250x141.jpg)
     
-    Carolina ranks 9th in U.S. for study abroad participation](https://www.unc.edu/posts/2024/11/20/carolina-ranks-9th-in-u-s-for-study-abroad-participation/)
+    Ridge Road closed to through traffic Dec. 1–Jan. 8](https://www.unc.edu/posts/2024/11/26/ridge-road-closed-to-through-traffic-dec-1-jan-8/)
 
 About the University
 
@@ -477,7 +477,7 @@ Please contact [privacy@unc.edu](mailto:privacy@unc.edu) for more information on
 
  [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?mini=true&url=%url%&title=%title%)
 
- [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=c7ca51dd0f&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
+ [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=860a0c63ef&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
 
 ### Share on Mastodon
 
