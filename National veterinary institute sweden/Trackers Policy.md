@@ -1293,7 +1293,7 @@ Gå direkt till :
             * [Två BMA med gedigen erfarenhet parasit-diagnostik, intermittent](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/tva-bma-med-gedigen-erfarenhet-parasit-diagnostik-intermittent/)
             * [Laboratorietekniker med gedigen erfarenhet av parasitdiagnostik](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/laboratorietekniker-med-gedigen-erfarenhet-av-parasitdiagnostik/)
             * [Biomedicinsk analytiker - intermittent anställning](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/biomedicinsk-analytiker-intermittent-anstallning/)
-            * [laboratorietekniker eller laboratorieassistent](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/laboratorietekniker-eller-laboratorieassistent/)
+            * [Laboratorieassistent eller laboratorietekniker](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/laboratorieassistent-eller-laboratorietekniker/)
         * [SVA som arbetsplats](https://www.sva.se/om-oss/arbeta-hos-oss/sva-som-arbetsplats/)
         * [Möt våra medarbetare](https://www.sva.se/om-oss/arbeta-hos-oss/mot-vara-medarbetare/)[](#)
             * [Ylva, mikrobiolog](https://www.sva.se/om-oss/arbeta-hos-oss/mot-vara-medarbetare/ylva-mikrobiolog/)
