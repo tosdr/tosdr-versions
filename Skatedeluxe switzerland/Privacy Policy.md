@@ -121,11 +121,10 @@ Français
   Change
 
 Search result for "%search\_keywords%"
---------------------------------------
 
-### We couldn't find anything for %query%.
+We couldn't find anything for %query%.
 
-### View new items in the shop instead:
+View new items in the shop instead:
 
 [](https://www.skatedeluxe.ch/en)
 
@@ -144,11 +143,10 @@ Search result for "%search\_keywords%"
 [Sale](https://www.skatedeluxe.ch/en/c/sale "Sale")
 
 Search result for "%search\_keywords%"
---------------------------------------
 
-### We couldn't find anything for %query%.
+We couldn't find anything for %query%.
 
-### View new items in the shop instead:
+View new items in the shop instead:
 
 [](https://www.skatedeluxe.ch/en/account "My Account")
 
@@ -160,7 +158,7 @@ Search result for "%search\_keywords%"
 
 [0](https://www.skatedeluxe.ch/en/cart "Shopping cart")
 
-### Filter items
+Filter items
 
 Active filters 0
 
@@ -656,7 +654,7 @@ We naturally implement suitable **technical and organizational security measures
 
 © skatedeluxe.ch Skateshop 2024
 
-### How do I unsubscribe?
+How do I unsubscribe?
 
 You can either unsubscribe by clicking the corresponding link in the newsletter or adjust your notification settings in your account under "Newsletter & notifications". Of course you can also contact our service team.
 
