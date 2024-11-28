@@ -278,6 +278,14 @@ Recurs yearly
 
 Dean Thomas
 
+#### Wed, Dec 4
+
+The Tales of Beedle the Bard book
+
+Recurs yearly
+
+2008
+
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -288,15 +296,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Minerva McGonagall’s mother kept her own magical heritage a secret from her Muggle husband for years, which made her life very sad and difficult.
+During filming, Ollivander’s wand shop had over 17,000 individually labeled wand boxes inside.
 
 ### Potter History
 
-December 15, 2004 – Producer David Heyman says Harry Potter and the Goblet of Fire filming is 75% complete.
+September 17, 2007 – Warner Bros. confirms various details for the Harry Potter and the Order of the Phoenix DVD, including its December 11 release in the United States.
 
 ### Potter Quote
 
-“You’ve gone middle head!”
+“Wangoballwime?”
 
 [](#)
 
