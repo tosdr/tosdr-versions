@@ -131,6 +131,18 @@ SEND
 
 #### Featured POSts
 
+[![](https://www.sickchirpse.com/wp-content/uploads/2024/11/woman-ex-bitcoin.webp)](https://www.sickchirpse.com/woman-who-binned-exs-620000000-bitcoin-fortune-says-shes-sick-of-hearing-about-it/)
+
+### [Woman Who Binned Ex’s £620,000,000 Bitcoin Fortune Says She’s ‘Sick Of Hearing About It’](https://www.sickchirpse.com/woman-who-binned-exs-620000000-bitcoin-fortune-says-shes-sick-of-hearing-about-it/)
+
+[Read More »](https://www.sickchirpse.com/woman-who-binned-exs-620000000-bitcoin-fortune-says-shes-sick-of-hearing-about-it/)
+
+[![](https://www.sickchirpse.com/wp-content/uploads/2024/11/jay-slater-gofundme-raised.webp)](https://www.sickchirpse.com/jay-slaters-family-post-final-message-on-gofundme-after-closing-page-with-72000-raised/)
+
+### [Jay Slater’s Family Post Final Message On GoFundMe After Closing Page With £72,000 Raised](https://www.sickchirpse.com/jay-slaters-family-post-final-message-on-gofundme-after-closing-page-with-72000-raised/)
+
+[Read More »](https://www.sickchirpse.com/jay-slaters-family-post-final-message-on-gofundme-after-closing-page-with-72000-raised/)
+
 [![](https://www.sickchirpse.com/wp-content/uploads/2024/11/david-walliams.jpg)](https://www.sickchirpse.com/david-walliams-53-reveals-hes-probably-non-binary-as-he-discusses-gender-identity-in-new-interview/)
 
 ### [David Walliams, 53, Reveals He’s ‘Probably Non-Binary’ As He Discusses Gender Identity In New Interview](https://www.sickchirpse.com/david-walliams-53-reveals-hes-probably-non-binary-as-he-discusses-gender-identity-in-new-interview/)
@@ -149,19 +161,19 @@ SEND
 
 [Read More »](https://www.sickchirpse.com/keir-starmer-breaks-his-silence-on-demand-for-election-as-petition-hits-2-5-million-signatures/)
 
-[![](https://www.sickchirpse.com/wp-content/uploads/2024/11/bank-holiday-brits.webp)](https://www.sickchirpse.com/brits-to-get-extra-bank-holiday-in-2025-to-mark-anniversary-of-the-end-of-world-war-two/)
-
-### [Brits ‘To Get Extra Bank Holiday’ In 2025 To Mark Anniversary Of The End Of World War Two](https://www.sickchirpse.com/brits-to-get-extra-bank-holiday-in-2025-to-mark-anniversary-of-the-end-of-world-war-two/)
-
-[Read More »](https://www.sickchirpse.com/brits-to-get-extra-bank-holiday-in-2025-to-mark-anniversary-of-the-end-of-world-war-two/)
-
-[![](https://www.sickchirpse.com/wp-content/uploads/2024/11/ana-de-armas.jpg)](https://www.sickchirpse.com/ana-de-armas-is-officially-taken-now-dating-the-son-of-cubas-president/)
-
-### [Ana De Armas Is Officially Taken – Now Dating The Son Of Cuba’s President](https://www.sickchirpse.com/ana-de-armas-is-officially-taken-now-dating-the-son-of-cubas-president/)
-
-[Read More »](https://www.sickchirpse.com/ana-de-armas-is-officially-taken-now-dating-the-son-of-cubas-president/)
-
 #### trending post
+
+[![](https://www.sickchirpse.com/wp-content/uploads/2024/11/woman-ex-bitcoin.webp)](https://www.sickchirpse.com/woman-who-binned-exs-620000000-bitcoin-fortune-says-shes-sick-of-hearing-about-it/)
+
+### [Woman Who Binned Ex’s £620,000,000 Bitcoin Fortune Says She’s ‘Sick Of Hearing About It’](https://www.sickchirpse.com/woman-who-binned-exs-620000000-bitcoin-fortune-says-shes-sick-of-hearing-about-it/)
+
+[Read More »](https://www.sickchirpse.com/woman-who-binned-exs-620000000-bitcoin-fortune-says-shes-sick-of-hearing-about-it/)
+
+[![](https://www.sickchirpse.com/wp-content/uploads/2024/11/jay-slater-gofundme-raised.webp)](https://www.sickchirpse.com/jay-slaters-family-post-final-message-on-gofundme-after-closing-page-with-72000-raised/)
+
+### [Jay Slater’s Family Post Final Message On GoFundMe After Closing Page With £72,000 Raised](https://www.sickchirpse.com/jay-slaters-family-post-final-message-on-gofundme-after-closing-page-with-72000-raised/)
+
+[Read More »](https://www.sickchirpse.com/jay-slaters-family-post-final-message-on-gofundme-after-closing-page-with-72000-raised/)
 
 [![](https://www.sickchirpse.com/wp-content/uploads/2024/11/david-walliams.jpg)](https://www.sickchirpse.com/david-walliams-53-reveals-hes-probably-non-binary-as-he-discusses-gender-identity-in-new-interview/)
 
@@ -181,18 +193,6 @@ SEND
 
 [Read More »](https://www.sickchirpse.com/brits-to-get-extra-bank-holiday-in-2025-to-mark-anniversary-of-the-end-of-world-war-two/)
 
-[![](https://www.sickchirpse.com/wp-content/uploads/2024/11/ana-de-armas.jpg)](https://www.sickchirpse.com/ana-de-armas-is-officially-taken-now-dating-the-son-of-cubas-president/)
-
-### [Ana De Armas Is Officially Taken – Now Dating The Son Of Cuba’s President](https://www.sickchirpse.com/ana-de-armas-is-officially-taken-now-dating-the-son-of-cubas-president/)
-
-[Read More »](https://www.sickchirpse.com/ana-de-armas-is-officially-taken-now-dating-the-son-of-cubas-president/)
-
-[![](https://www.sickchirpse.com/wp-content/uploads/2024/11/petition-election-keir-starmer.webp)](https://www.sickchirpse.com/petition-calling-for-immediate-uk-general-election-passes-one-million-signatures-in-under-24-hours/)
-
-### [Petition Calling For Immediate UK General Election Passes One Million Signatures In Under 24 Hours](https://www.sickchirpse.com/petition-calling-for-immediate-uk-general-election-passes-one-million-signatures-in-under-24-hours/)
-
-[Read More »](https://www.sickchirpse.com/petition-calling-for-immediate-uk-general-election-passes-one-million-signatures-in-under-24-hours/)
-
 Copyright 2023 © All rights Reserved.
 
 **Nocturnal Media UK** 
@@ -200,13 +200,5 @@ Copyright 2023 © All rights Reserved.
 [www.SickChirpse.com](https://www.sickchirpse.com/)
 
 **For all advertising enquires:** [\[email protected\]](https://www.sickchirpse.com/cdn-cgi/l/email-protection) / [\[email protected\]](https://www.sickchirpse.com/cdn-cgi/l/email-protection)
-
-Mashable is a global, multi-platform media and entertainment  
-company
-
-For  
-more queries and news contact us on this
-
-Email: [\[email protected\]](https://www.sickchirpse.com/cdn-cgi/l/email-protection)
 
 Scroll to Top
