@@ -244,25 +244,25 @@ New York, NY 10001
 Top of Today
 ------------
 
-1. [![Tricia LaCount (U.S. Attorney's Office).](https://am24.mediaite.com/lc/cnt/uploads/2024/11/lacount-432x243.jpg)](https://lawandcrime.com/high-profile/jan-6-rioter-who-called-nancy-pelosis-office-so-gaudy-while-wearing-trump-flag-after-breaching-the-capitol-is-sentenced/)
+1. [![Inset: Deputy Garrison Page (Bibb County Sheriff's Office). Background: Garrison Page accepting a 2019 ](https://am23.mediaite.com/lc/cnt/uploads/2024/11/Garrison-Page-432x243.jpg)](https://lawandcrime.com/crime/former-deputy-of-the-year-charged-with-dui-after-trying-to-direct-traffic-that-didnt-exist-cops/)
     
-    ### [Jan. 6 rioter who called Nancy Pelosi’s office ‘so gaudy’ while wearing Trump flag after breaching the Capitol is sentenced](https://lawandcrime.com/high-profile/jan-6-rioter-who-called-nancy-pelosis-office-so-gaudy-while-wearing-trump-flag-after-breaching-the-capitol-is-sentenced/)
+    ### [Former 'Deputy of the Year' charged with DUI after trying to direct traffic that didn't exist: Cops](https://lawandcrime.com/crime/former-deputy-of-the-year-charged-with-dui-after-trying-to-direct-traffic-that-didnt-exist-cops/)
     
-2. [![Letitia James appears inset in an image; Donald Trump points to the left.](https://am21.mediaite.com/lc/cnt/uploads/2024/11/Trump-James-432x243.jpg)](https://lawandcrime.com/high-profile/join-forces-for-the-greater-good-trump-asks-letitia-james-to-dismiss-civil-fraud-case-vacate-massive-fine-and-end-legal-onslaught-against-him-in-the-name-of-unity/)
+2. [![Douglas Harrington (U.S. Attorney's Office)](https://am22.mediaite.com/lc/cnt/uploads/2024/11/j6-3-432x243.jpg)](https://lawandcrime.com/high-profile/these-commies-need-to-pay-jan-6-rioter-who-attacked-cops-with-flagpole-is-going-to-prison/)
     
-    ### ['Join forces for the greater good': Trump asks Letitia James to dismiss civil fraud case, vacate massive fine, and end 'legal onslaught against him' in the name of 'unity'](https://lawandcrime.com/high-profile/join-forces-for-the-greater-good-trump-asks-letitia-james-to-dismiss-civil-fraud-case-vacate-massive-fine-and-end-legal-onslaught-against-him-in-the-name-of-unity/)
+    ### ['THESE COMMIES NEED TO PAY': Jan. 6 rioter who attacked cops with flagpole is going to prison](https://lawandcrime.com/high-profile/these-commies-need-to-pay-jan-6-rioter-who-attacked-cops-with-flagpole-is-going-to-prison/)
     
-3. [![Inset: Christin Donat (Vanderburgh County Sheriff’s Office). Background: The mobile home where Christin Donat lived with her 2-month-old son (WEVV/YouTube).](https://am21.mediaite.com/lc/cnt/uploads/2024/11/Ch-432x243.jpg)](https://lawandcrime.com/crime/starved-2-month-old-looked-like-holocaust-survivor-after-being-taken-away-from-neglectful-mother-cops/)
+3. [![Bottom inset: John Craiger (Volusia County Jail). Top inset: Ghazi Osta (Lohman Funeral Home Ormond). Background: The jewelry store where Osta was killed (WESH).](https://am21.mediaite.com/lc/cnt/uploads/2024/11/jewelrymurder-432x243.jpg)](https://lawandcrime.com/crime/daddys-been-shot-florida-sentenced-for-shooting-jewelry-store-owner-in-the-head-in-dispute-over-transaction/)
     
-    ### [Starved 2-month-old looked like 'Holocaust survivor' after being taken away from neglectful mother: Cops](https://lawandcrime.com/crime/starved-2-month-old-looked-like-holocaust-survivor-after-being-taken-away-from-neglectful-mother-cops/)
+    ### ['Daddy's been shot': Florida man sentenced for shooting jewelry store owner in the head in dispute over transaction](https://lawandcrime.com/crime/daddys-been-shot-florida-sentenced-for-shooting-jewelry-store-owner-in-the-head-in-dispute-over-transaction/)
     
-4. [![Main: Texas Attorney General Ken Paxton speaking during CPAC in February 2024 (AP Photo/Jose Luis Magana, File). Inset: Jack Smith speaks about an indictment of former President Donald Trump, Aug. 1, 2023, in Washington (AP Photo/Jacquelyn Martin).](https://am22.mediaite.com/lc/cnt/uploads/2024/11/asdfadf-1-432x243.jpg)](https://lawandcrime.com/high-profile/trump-appointed-judge-offers-blistering-response-to-unserious-jack-smith-paper-shredding-claims/)
+4. [![Left inset: Brian Peterson (KOAT). Right inset: Mark Castello (Albuquerque Police Department) Background: The scene of the crash that killed Peterson (KOAT).](https://am22.mediaite.com/lc/cnt/uploads/2024/11/abqcrash-432x243.jpg)](https://lawandcrime.com/crime/my-dad-was-trapped-in-his-recliner-man-high-on-meth-gets-10-years-behind-bars-for-crashing-into-home-killing-a-grandfather-sitting-in-his-favorite-chair-watching-tv/)
     
-    ### [Trump-appointed judge offers blistering response to 'unserious' Jack Smith 'paper shredding' claims](https://lawandcrime.com/high-profile/trump-appointed-judge-offers-blistering-response-to-unserious-jack-smith-paper-shredding-claims/)
+    ### ['My dad was trapped in his recliner': Man high on meth gets 10 years behind bars for crashing into home, killing a grandfather sitting in his favorite chair watching TV](https://lawandcrime.com/crime/my-dad-was-trapped-in-his-recliner-man-high-on-meth-gets-10-years-behind-bars-for-crashing-into-home-killing-a-grandfather-sitting-in-his-favorite-chair-watching-tv/)
     
-5. [![Mark Waynick and Jerry McKane Waynick](https://am24.mediaite.com/lc/cnt/uploads/2024/11/Mark-Waynick-and-Jerry-McKane-Waynick-Jan-6-432x243.jpg)](https://lawandcrime.com/high-profile/were-an-imminent-threat-father-son-duo-headed-to-prison-for-hurling-metal-pole-barrel-at-cops-during-jan-6-capitol-breach/)
+5. [![Tiffanie Lucas](https://am21.mediaite.com/lc/cnt/uploads/2024/11/Tiffany-Lucas-432x243.jpg)](https://lawandcrime.com/video/im-a-woman-of-god-mother-who-murdered-her-2-kids-says-sugar-daddy-manipulated-her-mind-into-killing-sons/)
     
-    ### ['We're an imminent threat': Father-son duo headed to prison for hurling metal pole, barrel at cops during Jan. 6 Capitol breach](https://lawandcrime.com/high-profile/were-an-imminent-threat-father-son-duo-headed-to-prison-for-hurling-metal-pole-barrel-at-cops-during-jan-6-capitol-breach/)
+    ### ['I'm a woman of God': Mother who murdered her 2 kids says 'sugar daddy' manipulated her mind into killing sons](https://lawandcrime.com/video/im-a-woman-of-god-mother-who-murdered-her-2-kids-says-sugar-daddy-manipulated-her-mind-into-killing-sons/)
     
 
 [](http://eepurl.com/c89Jdb)
