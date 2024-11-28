@@ -107,65 +107,69 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Guaglione](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/guaglione "Guaglione")
+[![BasilLeaf](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1614673-1712762391.jpg)](https://lyricstranslate.com/en/translator/BasilLeaf "BasilLeaf")
 
 New translation
 
-[Chantal Goya - Un lapin](https://lyricstranslate.com/en/chantal-goya-un-lapin-german)
+[Zhanar Dughalova - Сен емес (Sen emes)](https://lyricstranslate.com/en/zhanar-dughalova-sen-emes-transliteration)
 
-French → German
+Kazakh → Transliteration
 
-[![cinaedn](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/cinaedn "cinaedn")
-
-New translation
-
-[Pippin (Musical) - No Time At All](https://lyricstranslate.com/en/pippin-musical-no-time-all-swedish)
-
-English → Swedish
-
-[![Lobuś](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1366079-1706206074.jpg)](https://lyricstranslate.com/en/translator/lobu%C5%9B "Lobuś")
+[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
 
 New translation
 
-[Pablo Alborán - Tu refugio](https://lyricstranslate.com/en/pablo-alboran-tu-refugio-polish-0)
+[Litfiba - Oceano](https://lyricstranslate.com/en/litfiba-oceano-latin)
 
-Spanish → Polish
+Italian → Latin
 
-[![Dr_Igor](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1465978-1715538506.jpg)](https://lyricstranslate.com/en/translator/drigor "Dr_Igor")
-
-New comment
-
-In the spirit of our convention of publishing ...  [more](https://lyricstranslate.com/en/comment/1178141#comment-1178141)
-
-[![Elian E.](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/elian-e "Elian E.")
-
-New transcription request
-
-[Chabelo - Mi cuate soñador](https://lyricstranslate.com/en/chabelo-mi-cuate-so%C3%B1ador)
-
-Spanish
-
-[![Daniel Andersson](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1552522-1667872031.jpg)](https://lyricstranslate.com/en/translator/daniel-andersson "Daniel Andersson")
+[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
 
 New translation
 
-[Marina Kapuro - Мой дом единственный](https://lyricstranslate.com/en/marina-kapuro-moy-dom-edinstvennyy-swedish)
+[Litfiba - Oceano](https://lyricstranslate.com/en/litfiba-oceano-danish)
 
-Russian → Swedish
+Italian → Danish
 
-[![P.Y.](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1623403-1720467255.png)](https://lyricstranslate.com/en/translator/py-0 "P.Y.")
+[![Turbonorm](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1620552-1725868199.jpg)](https://lyricstranslate.com/en/translator/turbonorm "Turbonorm")
 
 New song
 
-[Rosava - На волю в небеса](https://lyricstranslate.com/en/rosava-na-volyu-v-nebesa-lyrics)
+[Einár (Sweden) - Min Nivå](https://lyricstranslate.com/en/einar-sweden-min-niva-lyrics)
 
-Ukrainian
+Swedish
 
-[![Zarina01](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1295512-1667921080.jpg)](https://lyricstranslate.com/en/translator/zarina01 "Zarina01")
+[![78ip](https://lyricstranslate.com/files/styles/micro/public/avatar-default-w.png)](https://lyricstranslate.com/en/translator/78ip "78ip")
 
-New comment
+New song
 
-Russian version of Scream by Sergey Lazarev for ...  [more](https://lyricstranslate.com/en/comment/1178140#comment-1178140)
+[Diva Gray - Magic Carpet Ride](https://lyricstranslate.com/en/diva-gray-magic-carpet-ride-lyrics)
+
+English
+
+[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
+
+New translation
+
+[Litfiba - Oceano](https://lyricstranslate.com/en/litfiba-oceano-finnish)
+
+Italian → Finnish
+
+[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
+
+New translation
+
+[Litfiba - Oceano](https://lyricstranslate.com/en/litfiba-oceano-swedish)
+
+Italian → Swedish
+
+[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
+
+New translation
+
+[Litfiba - Oceano](https://lyricstranslate.com/en/litfiba-oceano-dutch)
+
+Italian → Dutch
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
