@@ -17,7 +17,7 @@
 
 * [Raspberry Pi 5](https://www.canakit.com/raspberry-pi-5)
 * [Raspberry Pi](https://www.canakit.com/raspberry-pi)
-    * [Computer Module 5](https://www.canakit.com/raspberry-pi-computer-module-5)
+    * [Compute Module 5](https://www.canakit.com/raspberry-pi-compute-module-5)
     * [Pi 4 Kits](https://www.canakit.com/raspberry-pi/pi-4-kits)
     * [Pi 400](https://www.canakit.com/raspberry-pi/pi-400)
     * [Pi 3 A+ Kits](https://www.canakit.com/raspberry-pi/pi-3-model-a-plus-kits)
