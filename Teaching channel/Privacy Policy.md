@@ -1,6 +1,4 @@
-[Skip to main](#main)    
-
- 
+[Skip to main](#main)     
 
 K12 Coalition
 
@@ -19,9 +17,7 @@ K12 Coalition
 
 * [Cart](https://courses.teachingchannel.com/cart/items)
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20298%2051'%3E%3C/svg%3E)
-
-![](https://www.teachingchannel.com/wp-content/uploads/2023/01/TC-Logo-with-Learners-Edge-Horizontal.svg)](https://www.teachingchannel.com/)
+[![](https://www.teachingchannel.com/wp-content/uploads/2023/01/TC-Logo-with-Learners-Edge-Horizontal.svg)](https://www.teachingchannel.com/)
 
 * [Courses](https://www.teachingchannel.com/continuing-education-courses-for-teachers/)
     * [All Courses](#)
@@ -140,9 +136,7 @@ K12 Coalition
 
 [Shop Courses](https://courses.teachingchannel.com/courses/dl/all)
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20298%2051'%3E%3C/svg%3E)
-
-![](https://www.teachingchannel.com/wp-content/uploads/2023/01/TC-Logo-with-Learners-Edge-Horizontal.svg)](https://www.teachingchannel.com/)
+[![](https://www.teachingchannel.com/wp-content/uploads/2023/01/TC-Logo-with-Learners-Edge-Horizontal.svg)](https://www.teachingchannel.com/)
 
 [Video Library](https://learn.teachingchannel.com/user/login)
 
@@ -494,9 +488,7 @@ Eagan, Minnesota 55121](https://goo.gl/maps/KXDPY3p9is81gZzXA)
 
 You can also send an email to: [\[email protected\]](https://www.teachingchannel.com/cdn-cgi/l/email-protection). Please do not include personal or other sensitive information in your e-mail correspondence.
 
-[![Teaching Channel Footer Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20252%20102'%3E%3C/svg%3E)
-
-![Teaching Channel Footer Logo](https://www.teachingchannel.com/wp-content/uploads/2023/01/TC-logo-with-K12-Stacked.svg)](https://www.teachingchannel.com/)
+[![Teaching Channel Footer Logo](https://www.teachingchannel.com/wp-content/uploads/2023/01/TC-logo-with-K12-Stacked.svg)](https://www.teachingchannel.com/)
 
 [Request a Course Catalog](https://www.teachingchannel.com/continuing-education-online-courses/#Download-Catalog)
 
@@ -505,9 +497,7 @@ You can also send an email to: [\[email protected\]](https://www.teachingchann
     Eagan, MN 55121](https://goo.gl/maps/x4zNN47DmAr5qTsL7)
 * [952-469-3454](tel:9524693454)
 
-[![Corp B](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2060%2088'%3E%3C/svg%3E)
-
-![Corp B](https://www.teachingchannel.com/wp-content/themes/wp-teachingchannel/assets/img/b-corp-logo-black-rgb.svg)](https://k12coalition.com/b-corp/)
+[![Corp B](https://www.teachingchannel.com/wp-content/themes/wp-teachingchannel/assets/img/b-corp-logo-black-rgb.svg)](https://k12coalition.com/b-corp/)
 
 * [About Us](https://www.teachingchannel.com/about-us/)
 * [Reviews](https://www.teachingchannel.com/reviews/)
@@ -532,23 +522,19 @@ You can also send an email to: [\[email protected\]](https://www.teachingchann
 
 [Linkedin](https://www.linkedin.com/company/teachingchannel/) [Twitter](https://twitter.com/TeachingChannel) [](https://www.instagram.com/teachingchannel/)[Facebook](https://www.facebook.com/TeachingChannel/) [Pinterest](https://www.pinterest.com/teachingchannel/)
 
- 
+  
 
 **You Could Win a $200 Amazon Gift Card in Our Back-to-School Giveaway! [Enter to Win >>](https://www.teachingchannel.com/back-to-school-2024/)**
 
-![close-image](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2015%2015'%3E%3C/svg%3E)
-
 ![close-image](https://www.teachingchannel.com/wp-content/uploads/2023/02/close-icon.svg)
 
- 
+  
 
  **Use promo code FLASHAI80 to get $80 off** 2 of our best-selling AI Courses! Now through September 13. [L](https://www.teachingchannel.com/ai-flash-sale/)[earn More](https://www.teachingchannel.com/ai-flash-sale/) [>](https://www.teachingchannel.com/dog-days-of-summer-sale-2024/)[\>](https://www.teachingchannel.com/ai-flash-sale/)
 
-![close-image](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2015%2015'%3E%3C/svg%3E)
-
 ![close-image](https://www.teachingchannel.com/wp-content/uploads/2023/02/close-icon.svg)
 
-                                      
+                                   
 
 What are you looking for?
 
