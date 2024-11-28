@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [Backup from FTP](https://www.backup4all.com/backup-from-ftp-kb.html)  
+* [How to configure a new backup?](https://www.backup4all.com/how-to-configure-a-new-backup-kb.html)  
     
-* [How to restore your backup from Box](https://www.backup4all.com/how-to-restore-your-backup-from-box-kb.html)  
+* [How to backup your data to Google Drive](https://www.backup4all.com/how-to-backup-your-data-to-google-drive-kb.html)  
     
-* [How to back up data files from Zettagrid usin ...](https://www.backup4all.com/how-to-back-up-data-files-from-zettagrid-using-backup4all-kb.html)  
+* [How to configure logs and history](https://www.backup4all.com/how-to-configure-logs-and-history-kb.html)  
     
-* [Smart backup type](https://www.backup4all.com/smart-backup-type-kb.html)  
+* [How to monitor multiple Backup4all installati ...](https://www.backup4all.com/how-to-monitor-multiple-backup4all-installations-using-the-back-kb.html)  
     
-* [How to back up data files from QNAP using Bac ...](https://www.backup4all.com/how-to-back-up-data-files-from-qnap-using-backup4all-kb.html)  
+* [How to manage backup tags](https://www.backup4all.com/how-to-manage-backup-groups-kb.html)  
     
 
 Choose language:
