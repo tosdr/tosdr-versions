@@ -1,12 +1,12 @@
 [Skip to content](#main-content)
 
-[EARLY BLACK FRIDAY SALE - 15% OFF SITEWIDE!](https://www.thehomesecuritysuperstore.com/collections/homepage-high-recommended-products?utm_source=website&utm_medium=banner&utm_campaign=EARLY+BLACK+FRIDAY+SALE)
+[HAPPY THANKSGIVING! SHOP 15% Off Site Wide!](https://www.thehomesecuritysuperstore.com/collections/homepage-high-recommended-products?utm_source=website&utm_medium=banner&utm_campaign=HAPPY+THANKSGIVING+SHOP+15%25+Off+Site+Wide)
 
-TODAY'S OFFER: :: | EARLY BLACK FRIDAY SALE - 15% OFF SITEWIDE!
+TODAY'S OFFER: :: | HAPPY THANKSGIVING! SHOP 15% Off Site Wide!
 
 TODAY'S OFFER: : :
 
- EARLY BLACK FRIDAY SALE - 15% OFF SITEWIDE!
+ HAPPY THANKSGIVING! SHOP 15% Off Site Wide!
 
 [![The Home Security Superstore](//www.thehomesecuritysuperstore.com/cdn/shop/files/thss-main-logo-jpg.jpg?v=1729157895&width=300)](https://www.thehomesecuritysuperstore.com/)
 
