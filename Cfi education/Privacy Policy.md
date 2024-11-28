@@ -2,10 +2,9 @@
 
 Menu
 
-* Explore
+* Explore Courses
     
-    * [FMVA](https://corporatefinanceinstitute.com/certifications/financial-modeling-valuation-analyst-fmva-program/)
-    * [Get Certified](https://corporatefinanceinstitute.com/certifications/)
+    * [Earn a Certification](https://corporatefinanceinstitute.com/certifications/)
         * [Certifications](#)
             * [Certifications represent a broad body of knowledge that demonstrates competence in the skills required to work in a specific finance domain.](#)
                 * [Financial Modeling & Valuation Analyst (FMVA®)](https://corporatefinanceinstitute.com/certifications/financial-modeling-valuation-analyst-fmva-program/)
@@ -248,7 +247,6 @@ Menu
         * [Explore All Topics](https://corporatefinanceinstitute.com/topics/)
     * [View All Courses](https://corporatefinanceinstitute.com/collections/)
     
-* [CPE](https://corporatefinanceinstitute.com/about-cfi/cpe-credits-online/)
 * Pricing
     
     * [For Individuals](https://corporatefinanceinstitute.com/pricing/)
