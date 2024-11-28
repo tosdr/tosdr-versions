@@ -54,12 +54,12 @@
 
 [BREITBART](https://www.breitbart.com/ "Breitbart News Network")
 
-* [Breitbart Fight Club](https://web.breitbart.com/fight-club)
+* [Thanksgiving](https://www.breitbart.com/tag/thanksgiving/)
 * [Trump Tariffs](https://www.breitbart.com/tag/2024-presidential-election/)
-* [WWIII Watch](https://www.breitbart.com/tag/ukraine/)
 * [Mass Deport Battle](https://www.breitbart.com/tag/deportation/)
+* [WWIII Watch](https://www.breitbart.com/tag/ukraine/)
 * [Media Meltdown](https://www.breitbart.com/the-media/)
-* [Israel Ceasefire?](https://www.breitbart.com/tag/israel/)
+* [Israel vs Hamas](https://www.breitbart.com/tag/israel/)
 
 Breitbart Privacy Policy
 ========================
