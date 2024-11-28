@@ -255,7 +255,7 @@ FR
         
         2% Cash Back](https://www.rakuten.ca/canadian-tire)[Home Hardware
         
-        1% Cash Back](https://www.rakuten.ca/home-hardware)[Worx
+        5% Cash Back](https://www.rakuten.ca/home-hardware)[Worx
         
         2% Cash Back](https://www.rakuten.ca/worx)[eBay.ca
         
@@ -323,7 +323,7 @@ FR
         
         7.5% Cash Back](https://www.rakuten.ca/vitamix)[Home Hardware
         
-        1% Cash Back](https://www.rakuten.ca/home-hardware)[Dyson
+        5% Cash Back](https://www.rakuten.ca/home-hardware)[Dyson
         
         15% Cash Back](https://www.rakuten.ca/dyson)[Simba Sleep Canada
         
@@ -391,7 +391,7 @@ FR
         
         2% Cash Back](https://www.rakuten.ca/canadian-tire)[Home Hardware
         
-        1% Cash Back](https://www.rakuten.ca/home-hardware)[Insurely
+        5% Cash Back](https://www.rakuten.ca/home-hardware)[Insurely
         
         Up to $25 Cash Back](https://www.rakuten.ca/insurely)[All-Purpose Realty
         
@@ -692,13 +692,13 @@ All rights reserved.
 
  ![](//static.rakuten.ca/static/img/footer_close.svg) ![](//static.rakuten.ca/static/img/footer_open.svg)
 
-[![Earn 15% Cash Back from Rakuten.ca with HP Canada Coupons, Promo Codes](//static.rakuten.ca/img/campaign_entity/303508/en-stickyfooter-1170x60_hp-offer2.png "HP Canada Coupons, Promo Codes")
+[![Earn 15% Cash Back from Rakuten.ca with Under Armour Canada Coupons, Promo Codes](//static.rakuten.ca/img/campaign_entity/303725/en-stickyfooter-1170x60_ua.png "Under Armour Canada Coupons, Promo Codes")
 
 was 2%, now
 
 15% Cash Back
 
-Shop Now](https://www.rakuten.ca/ticket/campaign/sticky-footer-base-1/store/hp-canada?sourceName=stickyfooter1)
+Shop Now](https://www.rakuten.ca/ticket/campaign/sticky-footer-base-1/store/under-armour-canada?sourceName=stickyfooter1)
 
 × ![Rakuten White Logo](//static.rakuten.ca/static/images/logo/logo_Rakuten_white.svg)
 
