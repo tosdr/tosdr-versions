@@ -230,6 +230,34 @@ out of 5 based on
 
 > Nov 28, 2024
 
+> Please contact for any lodging inside parks
+
+> I emailed, contact relevant persons and get help fast 🏃‍♀️ 🙂 not like SANPARKS
+
+Schalk Grobler
+
+,
+
+ZA
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Nov 28, 2024
+
+> Heleen helped me within 24 hours with a personalised request.
+
+> Heleen was extremely helpful and responded on the very day after my request for a booking
+
+Danielle Heyns
+
+,
+
+ZA
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Nov 28, 2024
+
 > Heleen was just the best!
 
 > Heleen was just the best!
@@ -323,34 +351,6 @@ James
 ,
 
 GB
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Nov 21, 2024
-
-> Friendly and super efficient service
-
-> Prompt and helpful response by your agents when I had to change my bookings. Friendly and super efficient service.
-
-Margret Slyper
-
-,
-
-ZA
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Nov 21, 2024
-
-> Heleen was great
-
-> Heleen was meticulous with our requirements and recomendations. We changed a number of times so it was a bit awkward but nothing too much for her. Its not easy booking from abroad but we received all the information we needed and actual booking and payment was simple
-
-Vaughan Moss
-
-,
-
-NZ
 
 VIP service
 
