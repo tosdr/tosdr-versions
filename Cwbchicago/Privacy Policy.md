@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/bb17-326x245.jpg)](https://cwbchicago.com/2024/11/man-found-shot-unconscious-on-a-street-previously-served-by-shotspotter.html "Man found shot, unconscious on a street previously served by ShotSpotter")
+
+Chicago Lawn
+
+### [Man found shot, unconscious on a street previously served by ShotSpotter](https://cwbchicago.com/2024/11/man-found-shot-unconscious-on-a-street-previously-served-by-shotspotter.html "Man found shot, unconscious on a street previously served by ShotSpotter")
+
+[November 26, 2024 1:49 PM](https://cwbchicago.com/2024/11)
+
+CHICAGO — A man is in critical condition after being found unconscious, suffering from gunshot wounds in Chicago Lawn on Monday evening. Nobody called 911 to report gunfire, and, in fact, the person who found the man wasn’t even sure he had been shot. The shooting occurred in an area that used to be served[](https://cwbchicago.com/2024/11/man-found-shot-unconscious-on-a-street-previously-served-by-shotspotter.html "Man found shot, unconscious on a street previously served by ShotSpotter")
+
+[![](https://cwbchicago.com/wp-content/uploads/2018/04/1450LSD-1.jpg)](https://cwbchicago.com/2024/11/14%c2%bd-years-for-cross-town-carjacking-and-shooting-spree-that-ended-in-gold-coast.html "14½ years for cross-town carjacking and shooting spree that ended in Gold Coast")
+
+Gold Coast
+
+### [14½ years for cross-town carjacking and shooting spree that ended in Gold Coast](https://cwbchicago.com/2024/11/14%c2%bd-years-for-cross-town-carjacking-and-shooting-spree-that-ended-in-gold-coast.html "14½ years for cross-town carjacking and shooting spree that ended in Gold Coast")
+
+[November 26, 2024 11:21 AM](https://cwbchicago.com/2024/11)
+
+A federal judge has sentenced a man to 14½ years in prison for a violent 2018 crime spree in the Gold Coast during which he shot two people, stole three cars, and tried to steal two more.[](https://cwbchicago.com/2024/11/14%c2%bd-years-for-cross-town-carjacking-and-shooting-spree-that-ended-in-gold-coast.html "14½ years for cross-town carjacking and shooting spree that ended in Gold Coast")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/11/MALCOLM-MOFFETT-BROWN--326x245.jpg)](https://cwbchicago.com/2024/11/2-years-for-driver-who-pointed-gun-at-on-duty-cop-because-he-wanted-to-get-chased.html "2 years for driver who pointed gun at on-duty cop because he wanted to get chased")
 
 South Shore
@@ -252,26 +272,6 @@ South Shore
 [November 26, 2024 8:29 AM](https://cwbchicago.com/2024/11)
 
 A man who repeatedly aimed a gun at an on-duty Chicago police officer because he wanted to be involved in a police pursuit has been given a two-year prison sentence. But Malcolm Moffett-Brown will not spend any time in prison because his sentence will be offset by credits earned by being on electronic monitoring while the case was pending.[](https://cwbchicago.com/2024/11/2-years-for-driver-who-pointed-gun-at-on-duty-cop-because-he-wanted-to-get-chased.html "2 years for driver who pointed gun at on-duty cop because he wanted to get chased")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/1600-block-w-juneway-326x245.jpg)](https://cwbchicago.com/2024/11/man-shot-in-rogers-park-did-not-cooperate-with-investigators-cpd-says.html "Man shot in Rogers Park did not cooperate with investigators, CPD says")
-
-Rogers Park
-
-### [Man shot in Rogers Park did not cooperate with investigators, CPD says](https://cwbchicago.com/2024/11/man-shot-in-rogers-park-did-not-cooperate-with-investigators-cpd-says.html "Man shot in Rogers Park did not cooperate with investigators, CPD says")
-
-[November 26, 2024 7:47 AM](https://cwbchicago.com/2024/11)
-
-A man who was shot in Rogers Park on Monday evening did not cooperate with cops who responded to help him, according to Chicago police.[](https://cwbchicago.com/2024/11/man-shot-in-rogers-park-did-not-cooperate-with-investigators-cpd-says.html "Man shot in Rogers Park did not cooperate with investigators, CPD says")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Jamari-Woods-sm-326x245.jpg)](https://cwbchicago.com/2024/11/man-charged-with-carjacking-uber-driver-after-cops-learn-his-account-ordered-the-doomed-ride.html "Man charged with carjacking Uber driver after cops learn his account ordered the doomed ride")
-
-West Garfield Park
-
-### [Man charged with carjacking Uber driver after cops learn his account ordered the doomed ride](https://cwbchicago.com/2024/11/man-charged-with-carjacking-uber-driver-after-cops-learn-his-account-ordered-the-doomed-ride.html "Man charged with carjacking Uber driver after cops learn his account ordered the doomed ride")
-
-[November 25, 2024 6:50 PM](https://cwbchicago.com/2024/11)
-
-Prosecutors have charged a man with robbing and carjacking a rideshare driver after investigators determined that his Uber account was used to order the victim’s fateful ride, according to court records.[](https://cwbchicago.com/2024/11/man-charged-with-carjacking-uber-driver-after-cops-learn-his-account-ordered-the-doomed-ride.html "Man charged with carjacking Uber driver after cops learn his account ordered the doomed ride")
 
 Search
 
