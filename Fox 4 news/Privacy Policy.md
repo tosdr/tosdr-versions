@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Which came first, the chicken or the egg? We may have an answer](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-931846248.jpg?ve=1&tl=1)
+ [!['VetsGiving' volunteers deliver Thanksgiving meals to North Texas veterans](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/p-dionne-thanksgiving-meal-distribution-6p_00.00.42.56.jpg?ve=1&tl=1)
 
- ![Which came first, the chicken or the egg? We may have an answer](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-931846248.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/chicken-or-egg-first-study)
+ !['VetsGiving' volunteers deliver Thanksgiving meals to North Texas veterans](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/p-dionne-thanksgiving-meal-distribution-6p_00.00.42.56.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/vetsgiving-volunteers-deliver-thanksgiving-meals-north-texas-veterans)
 
-### [Which came first, the chicken or the egg? We may have an answer](https://www.fox4news.com/news/chicken-or-egg-first-study)
+### ['VetsGiving' volunteers deliver Thanksgiving meals to North Texas veterans](https://www.fox4news.com/news/vetsgiving-volunteers-deliver-thanksgiving-meals-north-texas-veterans)
 
- [![3 Americans released from China after years of imprisonment](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/mark-swidan-release.jpg?ve=1&tl=1)
+ [![Court rules feds can't destroy razor wire along Texas border](https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/11/32/18/gettyimages-2102547777.jpg?ve=1&tl=1)
 
- ![3 Americans released from China after years of imprisonment](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/mark-swidan-release.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/americans-released-china-years-imprisonment)
+ ![Court rules feds can't destroy razor wire along Texas border](https://images.foxtv.com/images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/11/32/18/592/333/gettyimages-2102547777.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/court-rules-feds-cant-destroy-razor-wire-along-texas-border)
 
-### [3 Americans released from China after years of imprisonment](https://www.fox4news.com/news/americans-released-china-years-imprisonment)
+### [Court rules feds can't destroy razor wire along Texas border](https://www.fox4news.com/news/court-rules-feds-cant-destroy-razor-wire-along-texas-border)
 
- [![Arlington police fatally shoot man with knife involved in motel room fight](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/v-arlington-collins-st-ois-5a_00.00.02.48.jpg?ve=1&tl=1)
+ [![Sean 'Diddy' Combs denied bail a third time as he awaits sex trafficking trial](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/05/32/18/GettyImages-1747401006.jpg?ve=1&tl=1)
 
- ![Arlington police fatally shoot man with knife involved in motel room fight](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/v-arlington-collins-st-ois-5a_00.00.02.48.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/arlington-police-fatally-shoot-man-knife)
+ ![Sean 'Diddy' Combs denied bail a third time as he awaits sex trafficking trial](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/05/32/18/592/333/GettyImages-1747401006.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/sean-diddy-combs-denied-bail-third-time-he-awaits-sex-trafficking-trial)
 
-### [Arlington police fatally shoot man with knife involved in motel room fight](https://www.fox4news.com/news/arlington-police-fatally-shoot-man-knife)
+### [Sean 'Diddy' Combs denied bail a third time as he awaits sex trafficking trial](https://www.fox4news.com/news/sean-diddy-combs-denied-bail-third-time-he-awaits-sex-trafficking-trial)
 
- [![Fort Worth police respond to threat against Trump Ag. Secretary pick Brooke Rollins](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/gettyimages-1242253406.jpg?ve=1&tl=1)
+ [![T.D. Jakes gives update on health, says he didn't suffer stroke](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/td-jakes.jpg?ve=1&tl=1)
 
- ![Fort Worth police respond to threat against Trump Ag. Secretary pick Brooke Rollins](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/gettyimages-1242253406.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-brooke-rollins-trump-cabinet-nominees-threatened)
+ ![T.D. Jakes gives update on health, says he didn't suffer stroke](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/td-jakes.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/td-jakes-gives-update-health-stroke)
 
-### [Fort Worth police respond to threat against Trump Ag. Secretary pick Brooke Rollins](https://www.fox4news.com/news/fort-worth-brooke-rollins-trump-cabinet-nominees-threatened)
+### [T.D. Jakes gives update on health, says he didn't suffer stroke](https://www.fox4news.com/news/td-jakes-gives-update-health-stroke)
 
- [![These retailers will be closed on Thanksgiving this year](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/shoppers-at-walmart.jpg?ve=1&tl=1)
+ [![Dallas weather: Wednesday temps break 119-year-old record](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/early-pm-news-clean-wednesday-2024_11_27-kdfweme00_00.14.35.36.jpg?ve=1&tl=1)
 
- ![These retailers will be closed on Thanksgiving this year](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/shoppers-at-walmart.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/stores-closed-thanksgiving-2024-black-friday)
+ ![Dallas weather: Wednesday temps break 119-year-old record](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/early-pm-news-clean-wednesday-2024_11_27-kdfweme00_00.14.35.36.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/weather/dallas-weather-wednesday-temps-break-119-year-old-record)
 
-### [These retailers will be closed on Thanksgiving this year](https://www.fox4news.com/news/stores-closed-thanksgiving-2024-black-friday)
+### [Dallas weather: Wednesday temps break 119-year-old record](https://www.fox4news.com/weather/dallas-weather-wednesday-temps-break-119-year-old-record)
 
 ###### [News](https://www.fox4news.com/news)
 
