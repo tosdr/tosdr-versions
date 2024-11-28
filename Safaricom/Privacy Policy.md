@@ -144,6 +144,20 @@ out of 5 based on
 
 ![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
+> Nov 28, 2024
+
+> Heleen was just the best!
+
+> Heleen was just the best!
+
+Sumari von Kunow
+
+,
+
+SE
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
 > Nov 27, 2024
 
 > We are exprienced world travellers
@@ -253,20 +267,6 @@ Vaughan Moss
 ,
 
 NZ
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Nov 20, 2024
-
-> Outstanding Experience! (Cape Town, Sabi Sands, Vic Falls)
-
-> After attempting to book this trip myself (a couple coming from the US), I gave up and reached out to Sara from Safari.com. I told Sara what I was thinking and by the next day she had created several wonderful itineraries! Based on her suggestions, we personalized the itineraries and within 7 days I was booked and all set!! Sara was available at all times (before, during, and after the trip). We are currently heading home and we are so happy with all the bookings Sara created for us! Everything went flawlessly. Her 3rd parties for tours and transfers were perfect (always early, professional, knowledgeable, and kind). The hotel acknowledged our anniversary thanks to Sara. We stayed at the Victoria & Alfred hotel in Cape Town, then off to Dulini Moya in Sabi Sands, and finally Victoria Falls Island Treehouse in Zimbabwe. I highly recommend all of them. Tell Sara what you envision your experience to be and your budget and she will make it happen!! Her knowledge was so helpful in assisting us to choose the perfect itinerary. It was comforting that she kept in touch while we were traveling throughout Africa. I feel so lucky to have had Sara arrange this trip and will certainly request her expertise again in the future!! You won’t have to worry about anything because she is on top of it all. Do not hesitate!! Book with Sara from Safari.com!
-
-Annette P
-
-,
-
-MW
 
 VIP service
 
