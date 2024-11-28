@@ -13,7 +13,7 @@ Oops! Something went wrong while submitting the form.
 
 By providing your contact information you agree to receive communications from Subsplash including but not limited to emails, phone calls, and text messages. Message and data rates may apply. Message frequency varies. Opt out available. You can learn more about how we handle your personal data and your rights by reviewing our [privacy policy.](https://www.subsplash.com/legal/privacy)
 
-THE HOLIDAY SALE IS HERE | New sign-ups receive two months on us through Nov 30, 2024
+CYBER SALE | Two months on us + $500 off any onboarding package through Dec 8, 2024
 
 Register now!
 
@@ -84,7 +84,7 @@ Register now!
     
     [New! Check-in on the Subsplash Platform
     
-    Our powerful new software for a simple & seamless check-in process](https://www.subsplash.com/product/check-in-software)[Top 10 challenges facing pastors today
+    Our powerful new software for a simple & seamless check-in process](https://www.subsplash.com/pulpit-ai)[Top 10 challenges facing pastors today
     
     Understanding & navigating the complexities of modern-day ministry](https://www.subsplash.com/blog/pastor-problems)[5 best church donation tracking tools
     
