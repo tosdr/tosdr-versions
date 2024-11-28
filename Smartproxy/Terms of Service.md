@@ -76,7 +76,7 @@ Test lists of proxies to avoid potential errors.](https://smartproxy.com/apps/pr
 
 [Features](https://smartproxy.com/proxies/features)
 
-[SOCKS5](https://smartproxy.com/proxies/socks5)[Rotating](https://smartproxy.com/proxies/rotating-proxies)[ISP](https://smartproxy.com/proxies/isp-proxies)[Shared](https://smartproxy.com/proxies/shared-proxies)[Private](https://smartproxy.com/proxies/private-proxies)[Backconnect](https://smartproxy.com/proxies/backconnect-proxies)[Anonymous](https://smartproxy.com/proxies/anonymous-proxy)[No subnets](https://smartproxy.com/proxies/proxies-without-subnets)[IPv4](https://smartproxy.com/proxies/ipv4-proxies)[Proxy Servers](https://smartproxy.com/proxies/buy)[Cheap](https://smartproxy.com/proxies/cheap)
+[SOCKS5](https://smartproxy.com/proxies/socks5)[Rotating](https://smartproxy.com/proxies/rotating-proxies)[ISP](https://smartproxy.com/proxies/isp-proxies)[Shared](https://smartproxy.com/proxies/shared-proxies)[Private](https://smartproxy.com/proxies/private-proxies)[Backconnect](https://smartproxy.com/proxies/backconnect-proxies)[Elite](https://smartproxy.com/proxies/elite-proxy)[Anonymous](https://smartproxy.com/proxies/anonymous-proxy)[No subnets](https://smartproxy.com/proxies/proxies-without-subnets)[IPv4](https://smartproxy.com/proxies/ipv4-proxies)[Proxy Servers](https://smartproxy.com/proxies/buy)[Cheap](https://smartproxy.com/proxies/cheap)
 
 [Targets](https://smartproxy.com/targets)
 
