@@ -335,15 +335,15 @@ Advertise
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![Blackmagic Designs founder Grant Petty with the company’s URSA Cine 17k camera.](https://static.ffx.io/images/$zoom_1%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_938%2C$y_549/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/c55bed9f14a56332711e0b68d1036135015aba8a)](https://www.afr.com/life-and-luxury/arts-and-culture/this-rich-lister-has-a-plan-to-save-cinema-and-his-business-20241112-p5kq0f)
+[![Australia’s wealthiest women and those leading philanthropic foundations gathered in Canberra on Thursday to boost female giving.](https://static.ffx.io/images/$zoom_1.0369%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_343%2C$y_262/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/fe62a7adc7b192f61667748cffa2d2406d7b0581)](https://www.afr.com/wealth/people/australia-s-wealthiest-women-join-forces-to-supercharge-philanthropy-20241127-p5ktt5)
 
-### [This Rich Lister has a plan to save cinema (and his business)](https://www.afr.com/life-and-luxury/arts-and-culture/this-rich-lister-has-a-plan-to-save-cinema-and-his-business-20241112-p5kq0f)
+### [Australia’s wealthiest women join forces to supercharge philanthropy](https://www.afr.com/wealth/people/australia-s-wealthiest-women-join-forces-to-supercharge-philanthropy-20241127-p5ktt5)
 
-* Michael Bailey
+* Yolanda Redrup
 
-* ### [The stock set to propel one of WA’s richest back onto the Rich List](https://www.afr.com/rich-list/the-stock-set-to-propel-one-of-wa-s-richest-back-onto-the-rich-list-20241120-p5ks3m)
+* ### [One of the few remaining building groups on the ASX hits the gas](https://www.afr.com/companies/infrastructure/one-of-the-few-remaining-building-groups-on-the-asx-hits-the-gas-20241128-p5ku98)
     
-* ### [Lonely Planet founders not content with giving away half their wealth](https://www.afr.com/wealth/people/lonely-planet-founders-not-content-with-giving-away-half-their-wealth-20241119-p5krsr)
+* ### [This Rich Lister has a plan to save cinema (and his business)](https://www.afr.com/life-and-luxury/arts-and-culture/this-rich-lister-has-a-plan-to-save-cinema-and-his-business-20241112-p5kq0f)
     
 
 [The Australian Financial Review](https://www.afr.com/)
