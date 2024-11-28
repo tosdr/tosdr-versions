@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thank you very much. Excellent support.
+Service is very good, easy to set up. I have suggested to a few friends to sign up.
 
-Davor Spanic
+David Grant
