@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/vetarm-dieet-veroorzaakt-juist-hartziekten/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/meelezen/soeverein-onafhankelijke-pioniers-nederland-sopn/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
