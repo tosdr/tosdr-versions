@@ -22,9 +22,7 @@ Above Header
 
 [+1-786-522-3667](tel:+1-786-522-3667) [+44 20 33719356](tel:+44 20 33719356)
 
-[![tgw-travel](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20223%2051'%3E%3C/svg%3E)
-
-![tgw-travel](https://toursgonewild.com/wp-content/uploads/2020/06/tgw-travel.png)](https://toursgonewild.com/)
+[![tgw-travel](https://toursgonewild.com/wp-content/uploads/2020/06/tgw-travel.png)](https://toursgonewild.com/)
 
 Main Menu
 
@@ -112,9 +110,7 @@ Above Header
 
 [+1-786-522-3667](tel:+1-786-522-3667) [+44 20 33719356](tel:+44 20 33719356)
 
-[![tgw-travel](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20223%2051'%3E%3C/svg%3E)
-
-![tgw-travel](https://toursgonewild.com/wp-content/uploads/2020/06/tgw-travel.png)](https://toursgonewild.com/)
+[![tgw-travel](https://toursgonewild.com/wp-content/uploads/2020/06/tgw-travel.png)](https://toursgonewild.com/)
 
 Main Menu
 
@@ -496,7 +492,7 @@ Get a Price Quote
 * More Details: (customization, desired experience, etc)
     
 * 
-* Comments
+* Name
     
     This field is for validation purposes and should be left unchanged.
     
