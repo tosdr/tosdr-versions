@@ -129,12 +129,12 @@ English
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
     * [Taj Mahal](https://www.news18.com/viral/foreigner-visits-taj-mahal-with-elderly-father-shares-frustration-on-social-media-in-viral-video-9135413.html)
-    * [Aishwarya Rai Bachchan](https://www.news18.com/movies/aishwarya-rai-drops-bachchan-from-her-name-viral-video-sparks-rumours-fact-check-9137627.html)
-    * [Sreeleela](https://www.news18.com/web-stories/celebrities/5-south-diva-sreeleela-inspired-glamourous-ethnic-looks-2639695/)
+    * [Virat Kohli](https://www.news18.com/cricket/always-gotta-add-some-spice-virat-kohlis-cheeky-response-leaves-australian-pm-anthony-albanese-in-splits-9138255.html)
+    * [Zaheer Iqbal](https://www.news18.com/movies/sonakshi-sinhas-mother-poonam-takes-a-dig-at-zaheer-iqbal-usse-shaadi-ki-jisko-9137967.html)
     * [WTC Final](https://www.news18.com/cricket/explained-how-both-india-australia-can-qualify-for-wtc-2025-final-9137876.html)
-    * [Prithvi Shaw](https://www.news18.com/cricket/prithvi-shaws-former-coach-reveals-why-star-opener-went-unsold-at-ipl-2025-mega-auction-9137818.html)
-    * [Kareena Kapoor Khan](https://www.news18.com/web-stories/celebrities/5-kareena-kapoor-khan-inspired-saree-blouses-for-marriage-season-2642366/)
-    * [Eknath Shinde](https://www.news18.com/politics/let-bjp-high-command-decide-eknath-shinde-on-next-maharashtra-cm-9135937.html)
+    * [Best Indian Spinners](https://www.news18.com/cricket/not-ashwin-jadeja-or-harbhajan-ravi-shastri-picks-indias-3-best-spinners-of-all-time-watch-9137893.html)
+    * [New Asteriod](https://www.news18.com/world/nasa-discovers-asteroid-that-can-make-every-person-on-earth-billionaire-9136169.html)
+    * [Bengaluru Layoff](https://www.news18.com/viral/bengaluru-man-fired-after-2-5-months-over-a-text-message-says-feeling-confused-and-defeated-9138052.html)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
     * [Check Credit Score](https://www.moneycontrol.com/credit-score?utm_source=News18English&utm_medium=Email&utm_campaign=CBEnglish)
@@ -171,12 +171,12 @@ Follow us on
 In Trends:
 
 * [Taj Mahal](https://www.news18.com/viral/foreigner-visits-taj-mahal-with-elderly-father-shares-frustration-on-social-media-in-viral-video-9135413.html)
-* [Aishwarya Rai Bachchan](https://www.news18.com/movies/aishwarya-rai-drops-bachchan-from-her-name-viral-video-sparks-rumours-fact-check-9137627.html)
-* [Sreeleela](https://www.news18.com/web-stories/celebrities/5-south-diva-sreeleela-inspired-glamourous-ethnic-looks-2639695/)
+* [Virat Kohli](https://www.news18.com/cricket/always-gotta-add-some-spice-virat-kohlis-cheeky-response-leaves-australian-pm-anthony-albanese-in-splits-9138255.html)
+* [Zaheer Iqbal](https://www.news18.com/movies/sonakshi-sinhas-mother-poonam-takes-a-dig-at-zaheer-iqbal-usse-shaadi-ki-jisko-9137967.html)
 * [WTC Final](https://www.news18.com/cricket/explained-how-both-india-australia-can-qualify-for-wtc-2025-final-9137876.html)
-* [Prithvi Shaw](https://www.news18.com/cricket/prithvi-shaws-former-coach-reveals-why-star-opener-went-unsold-at-ipl-2025-mega-auction-9137818.html)
-* [Kareena Kapoor Khan](https://www.news18.com/web-stories/celebrities/5-kareena-kapoor-khan-inspired-saree-blouses-for-marriage-season-2642366/)
-* [Eknath Shinde](https://www.news18.com/politics/let-bjp-high-command-decide-eknath-shinde-on-next-maharashtra-cm-9135937.html)
+* [Best Indian Spinners](https://www.news18.com/cricket/not-ashwin-jadeja-or-harbhajan-ravi-shastri-picks-indias-3-best-spinners-of-all-time-watch-9137893.html)
+* [New Asteriod](https://www.news18.com/world/nasa-discovers-asteroid-that-can-make-every-person-on-earth-billionaire-9136169.html)
+* [Bengaluru Layoff](https://www.news18.com/viral/bengaluru-man-fired-after-2-5-months-over-a-text-message-says-feeling-confused-and-defeated-9138052.html)
 
 * Follow Us
 * [](https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J)
