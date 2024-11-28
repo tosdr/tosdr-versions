@@ -150,8 +150,6 @@ Sök Meny
                     
                 * [Soita Palvelevaan puhelimeen](https://www.svenskakyrkan.se/soita-palvelevaan-puhelimeen)
                     
-        * [Samtalsjour för döva](https://www.svenskakyrkan.se/samtalsstod/samtalsstod/samtalsstodsamtalsjour-for-dova-via-bildtelefon)
-            
         * [Sjukhuskyrkan](https://www.svenskakyrkan.se/samtalsstod/samtalsstod/sjukhuskyrka)
             
         * [Universitetskyrkan](https://www.svenskakyrkan.se/samtalsstod/universitetskyrkan)
