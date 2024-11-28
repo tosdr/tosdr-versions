@@ -30,7 +30,6 @@ Menu
 * [LNK](# "Blogroll’s, Links, and alternatives.")
     * [Black-Mirror](https://www.s-config.com/black-mirrors/)
     * [Cellar-Door](https://www.s-config.com/cellar-door/)
-    * [Web Rings.](https://www.s-config.com/webrings/ "Community Based linkage.")
 * [COM](# "Communications for social and E-mail.")
     * [E-Mail](https://www.s-config.com/email/)
     * [Social](https://www.s-config.com/social/)
@@ -305,18 +304,17 @@ Pages
 * [November Changelog 11/6/2023](https://www.s-config.com/november-changelog-11-6-2023/)
 * [Privacy Notice](https://www.s-config.com/privacy-notice/)
 * [The Social Blades.](https://www.s-config.com/social/)
-* [Webrings](https://www.s-config.com/webrings/)
 
 Recent Posts
 ------------
 
+* [Site update: Deactivating Webrings Page.](https://www.s-config.com/site-update-deactivating-webrings-page/) November 27, 2024
 * [The PINEcil!](https://www.s-config.com/the-pinecil/) November 24, 2024
 * [OpenNIC](https://www.s-config.com/opennic/) October 29, 2024
 * [IntelliMouse lives again.](https://www.s-config.com/intellimouse-lives-again/) August 18, 2024
 * [Thinking WITHOUT Google. Welcome Old-Web.](https://www.s-config.com/thinking-without-google-welcome-old-web/) August 12, 2024
 * [Pay for your mouse… Forever!](https://www.s-config.com/pay-for-your-mouse-forever/) August 3, 2024
 * [Privacy PSA time!](https://www.s-config.com/privacy-psa-time/) July 27, 2024
-* [We were always in dark-mode.](https://www.s-config.com/we-were-always-in-dark-mode/) July 21, 2024
 
 Search this entire site:
 ------------------------
@@ -326,8 +324,7 @@ Search for:
 Accepted Web-Rings.
 -------------------
 
-* **Fur Ring:** [Previous](https://webri.ng/webring/furring/previous?via=https%3A%2F%2Fwww.s-config.com%2F) | [Random](https://webri.ng/webring/furring/random?via=https%3A%2F%2Fwww.s-config.com%2F) | [Next](https://webri.ng/webring/furring/next?via=https%3A%2F%2Fwww.s-config.com%2F)
-* **LainChan:** [Decentralized Here](https://www.s-config.com/webrings/).
+* * **Fur Ring:** [Previous](https://webri.ng/webring/furring/previous?via=https%3A%2F%2Fwww.s-config.com%2F) | [Random](https://webri.ng/webring/furring/random?via=https%3A%2F%2Fwww.s-config.com%2F) | [Next](https://webri.ng/webring/furring/next?via=https%3A%2F%2Fwww.s-config.com%2F)
 
 Recent Comments
 ---------------
