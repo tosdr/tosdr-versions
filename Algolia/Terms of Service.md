@@ -13,7 +13,7 @@ Learn more](https://www.algolia.com/search-solutions/algolia-on-aws)
 *  [![](/files/live/sites/algolia-assets/files/icons/person_blue.svg) Login](https://dashboard.algolia.com/users/sign_in)
 *  [![](/files/live/sites/algolia-assets/files/icons/Check%20Square.svg) Logout](https://dashboard.algolia.com/users/sign_out)
 
-[Algolia mark white Algolia logo white](https://www.algolia.com/)
+[Algolia mark blue Algolia logo blue](https://www.algolia.com/)
 
 Menu
 
@@ -169,8 +169,7 @@ Algolia Service Level Agreement
 
 Latest update: May 1st, 2023
 
-_ALGOLIA PROVIDES THE FOLLOWING GUARANTEES FOR THE AVAILABILITY OF ALGOLIA'S HOSTED SEARCH & RECOMMEND SERVICES_
-----------------------------------------------------------------------------------------------------------------
+### _ALGOLIA PROVIDES THE FOLLOWING GUARANTEES FOR THE AVAILABILITY OF ALGOLIA'S HOSTED SEARCH & RECOMMEND SERVICES_
 
 If Algolia does not meet this Service Level Agreement ("SLA") for its hosted search & recommend services under a Plan, and if Subscriber meets its obligations under this SLA, Subscriber will be eligible to receive the invoice credits described below. This SLA states Subscriber's sole and exclusive remedy for any failure by Algolia to meet the SLA.
 
