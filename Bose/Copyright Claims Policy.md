@@ -1,10 +1,12 @@
 [Skip to main content](#maincontent) [Skip to Support Chat](#) [Skip to footer content](#footercontent) [Skip to Accessibility Statement](https://www.bose.com/legal/accessibility)
 
-Early Black Friday Deals: Save up to 40% off bestsellers. [Shop](https://www.bose.com/c/holiday-sale)
+BLACK FRIDAY DEALS: Save up to 40% on bestsellers. [Shop](https://www.bose.com/c/black-friday-deals)
 
-Exclusive Color Drop: Save $50 on Ultra Open Earbuds in new Sunset Iridescent. [Shop](https://www.bose.com/c/exclusives)
+LIMITED-TIME OFFER: Get our lowest holiday price on select QuietComfort Ultra Headphones. [Buy now](https://www.bose.com/QCUH-HEADPHONEARN-SDSTN-WW.html?quantity=1)
 
-Get gift inspiration with our Holiday Gift Guide. [Shop](https://www.bose.com/holiday-gift-guide)
+LIMITED-TIME OFFER: Get $200 off Bose Smart Ultra Soundbar. [Buy now](https://www.bose.com/SUSB-SOUNDBAR.html?dwvar_SUSB-SOUNDBAR_color=ARCTIC+WHITE&quantity=1)
+
+Stress-free shopping | 90-day return policy | Holiday Price Match Promise [Learn how](https://www.bose.com/buy-direct-from-bose)
 
 [Cancel](#)
 
@@ -12,7 +14,7 @@ Back
 
 * [Holiday](#)
     
-    * [Black Friday Deals](https://www.bose.com/c/holiday-sale)
+    * [New! Black Friday Deals](https://www.bose.com/c/black-friday-deals)
     * [Gift Guide](https://www.bose.com/holiday-gift-guide)
     * [Exclusive Drops](https://www.bose.com/c/exclusives)
     * [Gift Sets](https://www.bose.com/c/sets)
@@ -20,23 +22,23 @@ Back
     
     Back
     
-    [![](https://assets.bosecreative.com/m/33e5229206617c17/webimage-SF_NAV-Flyout_Holiday_Gifting1_Cross-Cat_Mobile.png)
+    [![](https://assets.bosecreative.com/m/78dd9abd99af0a8d/webimage-SF_NavFlyout_Holiday_Turkey-6_Cross-cat_Mobile.png)
     
-    ### Early Black Friday Deals](https://www.bose.com/c/holiday-sale "Shop")
+    ### Black Friday starts now](https://www.bose.com/c/black-friday-deals "Shop")
     
      
     
-    Early Black Friday Deals
-    ------------------------
+    Black Friday starts now
+    -----------------------
     
-    Don’t wait! Own the gift game with up to 40% off bestsellers.
+    Save up to 40% with deals on this season’s best.
     
-    [Shop](https://www.bose.com/c/holiday-sale "Shop")
+    [Shop](https://www.bose.com/c/black-friday-deals "Shop")
     
 
 * [Shop](#)
     
-    * [Black Friday Deals](https://www.bose.com/c/holiday-sale)
+    * [New! Black Friday Deals](https://www.bose.com/c/black-friday-deals)
     * [New & Exclusive](https://www.bose.com/c/new-arrivals)
     * [Headphones](https://www.bose.com/c/headphones)
     * [Earbuds](https://www.bose.com/c/earbuds)
@@ -105,22 +107,22 @@ Back
     * [Gift Sets](https://www.bose.com/c/sets)
     * [Gift Cards](https://www.bose.com/gift-cards)
     
-    [![](https://assets.bosecreative.com/m/137e6e77e7518f6d/webimage-UOEBLE25-Sunset_SF_NavFlyout_Holiday_Tease_Mobile.png)
+    [![](https://assets.bosecreative.com/m/30b4365343cced7f/webimage-QCUHLE25-Diamond_SF_NavFlyout_T6_Mobile.png)
     
-    Exclusive Color Drop
+    QuietComfort Ultra Headphones
     
-    ### Now in Sunset Iridescent](https://www.bose.com/ULT-HEADPHONEOPN.html?dwvar_ULT-HEADPHONEOPN_color=SUNSET+IRIDESCENT&quantity=1 "BUY NOW")
+    ### Limited-time offer](https://www.bose.com/QCUH-HEADPHONEARN.html?dwvar_QCUH-HEADPHONEARN_color=DIAMOND+60TH+EDITION&quantity=1 "BUY NOW")
     
      
     
-    Exclusive Color Drop
+    QUIETCOMFORT ULTRA HEADPHONES
     
-    Hear all the joy
-    ----------------
+    This week only
+    --------------
     
-    Save $50 off Ultra Open Earbuds now in Sunset Iridescent.
+    Snag our lowest price of the season on select colors of QuietComfort Ultra Headphones.
     
-    [BUY NOW](https://www.bose.com/ULT-HEADPHONEOPN.html?dwvar_ULT-HEADPHONEOPN_color=SUNSET+IRIDESCENT&quantity=1 "BUY NOW")
+    [BUY NOW](https://www.bose.com/QCUH-HEADPHONEARN.html?dwvar_QCUH-HEADPHONEARN_color=DIAMOND+60TH+EDITION&quantity=1 "BUY NOW")
     
 
 * [Explore](#)
@@ -188,9 +190,9 @@ Back
 * [Contact Us](https://support.bose.com/s/get-help-landing-page?language=en_US)
 * [Where Is My Order?](https://www.bose.com/orders)
 
-[![](https://assets.bosecreative.com/m/33e5229206617c17/webimage-SF_NAV-Flyout_Holiday_Gifting1_Cross-Cat_Mobile.png)
+[![](https://assets.bosecreative.com/m/78dd9abd99af0a8d/webimage-SF_NavFlyout_Holiday_Turkey-6_Cross-cat_Mobile.png)
 
-### Early Black Friday Deals](https://www.bose.com/c/holiday-sale "Shop")
+### Black Friday starts now](https://www.bose.com/c/black-friday-deals "Shop")
 
 [![Bose](/on/demandware.static/Sites-Bose_US-Site/-/default/dwaf0ae0f9/images/logo.svg)](https://www.bose.com/home "Bose Home")
 
