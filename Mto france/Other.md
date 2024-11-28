@@ -187,6 +187,7 @@ PUBLIC - Menu burger
 * [Nos Services](https://services.meteofrance.com/ "Offres et Services de Météo-France")
 * [Applications mobiles](https://meteofrance.com/applications-mobiles "Applications mobiles")
 * [Widgets](https://meteofrance.com/widgets "Widgets Météo-France")
+* [Testez nos prototypes](https://meteofrance.com/la-fabrique-prototypes)
 
 Suivez-nous
 
@@ -205,7 +206,7 @@ Suivez-nous
 Droits de Reproduction
 ======================
 
-27/11/2024
+28/11/2024
 
 Décharge de responsabilité
 --------------------------
