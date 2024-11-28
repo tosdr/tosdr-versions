@@ -61,11 +61,11 @@ icon-X Close menu
         * [Authorized Collection](https://creatorink.com/collections/authorized)
         * [Pre-Orders](https://creatorink.com/collections/pre-order-1)
         * [Available in Youth Sizes](https://creatorink.com/collections/available-in-kids-sizes)
-        * [Final Sale!](https://creatorink.com/collections/evergreen-sale-collection)
+        * [BFCM | Sale](https://creatorink.com/collections/best-deals)
         * [All Available](https://creatorink.com/collections/all-available)
         
     
-* [BFCM | Sale](https://creatorink.com/collections/evergreen-sale-collection)
+* [BFCM | Sale](https://creatorink.com/collections/best-deals)
     
     * [Best BFCM Deals](https://creatorink.com/collections/best-deals)
         
@@ -177,7 +177,7 @@ icon-X Close menu
     
     [Available in Youth Sizes](https://creatorink.com/collections/available-in-kids-sizes)
     
-    [Final Sale!](https://creatorink.com/collections/evergreen-sale-collection)
+    [BFCM | Sale](https://creatorink.com/collections/best-deals)
     
     [All Available](https://creatorink.com/collections/all-available)
     
