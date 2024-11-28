@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Heirs of Icarus | OoC | Closed (149)](https://forum.nationstates.net/viewtopic.php?t=558264&f=31&view=unread#unread ""Heirs of Icarus | OoC | Closed" (149 posts)")
-* [\[Discussion\] Rule Change: Academic Di… (22)](https://forum.nationstates.net/viewtopic.php?t=558801&f=9&view=unread#unread ""[Discussion] Rule Change: Academic Dishonesty" (22 posts)")
-* [Ukrainian War VII: Everything has a p… (11,315)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Everything has a price" (11,315 posts)")
-* [Guess AU's stance on their chosen topic (28)](https://forum.nationstates.net/viewtopic.php?t=558795&f=25&view=unread#unread ""Guess AU's stance on their chosen topic" (28 posts)")
-* [The Catalyst of Crisis (IC) (25)](https://forum.nationstates.net/viewtopic.php?t=558483&f=5&view=unread#unread ""The Catalyst of Crisis (IC)" (25 posts)")
+* [Ask BN a question (2,124)](https://forum.nationstates.net/viewtopic.php?t=550451&f=25&view=unread#unread ""Ask BN a question" (2,124 posts)")
+* [The Relationships and Lovers Discussi… (253)](https://forum.nationstates.net/viewtopic.php?t=558521&f=20&view=unread#unread ""The Relationships and Lovers Discussion Thread" (253 posts)")
+* [Who is AU's Favorite U.S President? (18)](https://forum.nationstates.net/viewtopic.php?t=558883&f=25&view=unread#unread ""Who is AU's Favorite U.S President?" (18 posts)")
+* [What would the AN get if trading card… (411)](https://forum.nationstates.net/viewtopic.php?t=555137&f=25&view=unread#unread ""What would the AN get if trading cards came now?" (411 posts)")
+* [The Collective Security League Assemb… (1,752)](https://forum.nationstates.net/viewtopic.php?t=555699&f=5&view=unread#unread ""The Collective Security League Assembly III [MT|IC]" (1,752 posts)")
 
 Advertisement
 
