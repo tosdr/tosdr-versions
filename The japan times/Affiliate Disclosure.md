@@ -135,6 +135,10 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Crown Prince Akishino and Crown Princess Kiko, followed by Princess Aiko and Princess Kako, prepare to attend a funeral service for Princess Yuriko at Toshimagaoka Cemetery in Tokyo on Tuesday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/26/436352.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Crown Prince Akishino and Crown Princess Kiko, followed by Princess Aiko and Princess Kako, prepare to attend a funeral service for Princess Yuriko at Toshimagaoka Cemetery in Tokyo on Tuesday. ")](https://www.japantimes.co.jp/news/2024/11/26/japan/society/princess-yuriko-funeral/ "Funeral held for Princess Yuriko at Tokyo cemetery")
 
+[Japan investigating Amazon for allegedly bullying other businesses](https://www.japantimes.co.jp/business/2024/11/27/companies/jftc-amazon-japan/ "Japan investigating Amazon for allegedly bullying other businesses")
+
+  [![Packages move along a conveyor belt at an Amazon warehouse](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/27/436814.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Packages move along a conveyor belt at an Amazon warehouse")](https://www.japantimes.co.jp/business/2024/11/27/companies/jftc-amazon-japan/ "Japan investigating Amazon for allegedly bullying other businesses")
+
 [Trump team weighs direct talks with North Korea's Kim](https://www.japantimes.co.jp/news/2024/11/27/asia-pacific/politics/us-north-korea-trump-kim-talks/ "Trump team weighs direct talks with North Korea's Kim")
 
   [![Then-U.S. President Donald Trump meets with North Korean leader Kim Jong Un at the Demilitarized Zone separating the two Koreas, in Panmunjom, South Korea, in June 2019.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/27/436484.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Then-U.S. President Donald Trump meets with North Korean leader Kim Jong Un at the Demilitarized Zone separating the two Koreas, in Panmunjom, South Korea, in June 2019.")](https://www.japantimes.co.jp/news/2024/11/27/asia-pacific/politics/us-north-korea-trump-kim-talks/ "Trump team weighs direct talks with North Korea's Kim")
@@ -147,10 +151,6 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![People near Martyrs Square in Beirut watch as Israeli Prime Minister Benjamin Netanyahu announces a cease-fire on television on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/27/436453.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "People near Martyrs Square in Beirut watch as Israeli Prime Minister Benjamin Netanyahu announces a cease-fire on television on Tuesday.")](https://www.japantimes.co.jp/news/2024/11/27/world/politics/israel-hezbollah-ceasefire-agreement/ "Israel-Hezbollah cease-fire, brokered by U.S. and France, takes effect")
 
-[Suspected arson in Sapporo leaves four injured](https://www.japantimes.co.jp/news/2024/11/27/japan/japan-sapporo-explosion/ "Suspected arson in Sapporo leaves four injured")
-
-  [![Firetrucks outside a building in Sapporo where an explosion left four people injured on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/26/436400.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Firetrucks outside a building in Sapporo where an explosion left four people injured on Tuesday.")](https://www.japantimes.co.jp/news/2024/11/27/japan/japan-sapporo-explosion/ "Suspected arson in Sapporo leaves four injured")
-
 Editors' Picks
 --------------
 
@@ -161,6 +161,14 @@ Editors' Picks
 By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
 
   [![Crown Prince Akishino and Crown Princess Kiko, followed by Princess Aiko and Princess Kako, prepare to attend a funeral service for Princess Yuriko at Toshimagaoka Cemetery in Tokyo on Tuesday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/26/436352.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Crown Prince Akishino and Crown Princess Kiko, followed by Princess Aiko and Princess Kako, prepare to attend a funeral service for Princess Yuriko at Toshimagaoka Cemetery in Tokyo on Tuesday. ")](https://www.japantimes.co.jp/news/2024/11/26/japan/society/princess-yuriko-funeral/ "Funeral held for Princess Yuriko at Tokyo cemetery")
+
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+
+[Japan investigating Amazon for allegedly bullying other businesses](https://www.japantimes.co.jp/business/2024/11/27/companies/jftc-amazon-japan/ "Japan investigating Amazon for allegedly bullying other businesses")
+
+By [Elizabeth Beattie](https://www.japantimes.co.jp/author/3993/elizabeth-beattie/ "Elizabeth Beattie")  
+
+  [![Packages move along a conveyor belt at an Amazon warehouse](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/27/436814.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Packages move along a conveyor belt at an Amazon warehouse")](https://www.japantimes.co.jp/business/2024/11/27/companies/jftc-amazon-japan/ "Japan investigating Amazon for allegedly bullying other businesses")
 
 [ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
 
@@ -184,12 +192,6 @@ By [Elizabeth Beattie](https://www.japantimes.co.jp/author/3993/elizabeth-beatti
 
   [![People near Martyrs Square in Beirut watch as Israeli Prime Minister Benjamin Netanyahu announces a cease-fire on television on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/27/436453.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "People near Martyrs Square in Beirut watch as Israeli Prime Minister Benjamin Netanyahu announces a cease-fire on television on Tuesday.")](https://www.japantimes.co.jp/news/2024/11/27/world/politics/israel-hezbollah-ceasefire-agreement/ "Israel-Hezbollah cease-fire, brokered by U.S. and France, takes effect")
 
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Suspected arson in Sapporo leaves four injured](https://www.japantimes.co.jp/news/2024/11/27/japan/japan-sapporo-explosion/ "Suspected arson in Sapporo leaves four injured")
-
-  [![Firetrucks outside a building in Sapporo where an explosion left four people injured on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/26/436400.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Firetrucks outside a building in Sapporo where an explosion left four people injured on Tuesday.")](https://www.japantimes.co.jp/news/2024/11/27/japan/japan-sapporo-explosion/ "Suspected arson in Sapporo leaves four injured")
-
 Podcast
 -------
 
@@ -209,9 +211,9 @@ By [Greg Dvorak](https://www.japantimes.co.jp/author/6191/greg-dvorak/ "Greg Dvo
 SUSTAINABLE JAPAN
 -----------------
 
-[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
-[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -251,25 +253,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Adani allegations cast light on barriers to India's ambitious solar drive](https://www.japantimes.co.jp/business/2024/11/28/tech/adani-allegations-india-clean-energy/ "Adani allegations cast light on barriers to India's ambitious solar drive")
+[SoftBank blasts Moody’s for unsolicited ratings](https://www.japantimes.co.jp/business/2024/11/28/companies/softbank-moodys-rating/ "SoftBank blasts Moody’s for unsolicited ratings")
 
-7 mins ago
+51 mins ago
 
-[Asia likely to benefit from cheaper Canadian and Mexican oil if Trump imposes tariffs](https://www.japantimes.co.jp/business/2024/11/28/markets/asia-canadian-mexican-oil-trump-tariffs/ "Asia likely to benefit from cheaper Canadian and Mexican oil if Trump imposes tariffs")
+[Real-life ‘Tokyo Swindlers’ ordered to pay ¥1 billion in damages](https://www.japantimes.co.jp/news/2024/11/28/japan/crime-legal/tokyo-swindlers-case/ "Real-life ‘Tokyo Swindlers’ ordered to pay ¥1 billion in damages")
 
-50 mins ago
+1 hour ago
 
-[Online marketing costs jump amid bidding war by Temu and Shein](https://www.japantimes.co.jp/business/2024/11/28/tech/black-friday-marketing-temu-shein/ "Online marketing costs jump amid bidding war by Temu and Shein")
+[Toyota’s sales and output plateau on downturn in Japan and China](https://www.japantimes.co.jp/business/2024/11/28/companies/toyota-nissan-sales/ "Toyota’s sales and output plateau on downturn in Japan and China")
 
-52 mins ago
+1 hour ago
 
-[Triennale aims to energize Tokyo's Odaiba area with art](https://www.japantimes.co.jp/news/2024/11/28/japan/japan-odaiba-art-festival/ "Triennale aims to energize Tokyo's Odaiba area with art")
+[Trump agenda set to collide with slow pace of U.S. legal system](https://www.japantimes.co.jp/news/2024/11/28/world/politics/trump-agenda-us-legal-system/ "Trump agenda set to collide with slow pace of U.S. legal system")
 
-54 mins ago
+2 hours ago
 
-[Exxon lobbyist probed over hacked papers that disrupted climate lawsuits](https://www.japantimes.co.jp/business/2024/11/28/companies/exxon-lobbyist-hack-environmentalist/ "Exxon lobbyist probed over hacked papers that disrupted climate lawsuits")
+[Two dead after fire at Upper House lawmaker Kuniko Inoguchi’s apartment](https://www.japantimes.co.jp/news/2024/11/28/japan/politics/kuniko-inoguchi-fire/ "Two dead after fire at Upper House lawmaker Kuniko Inoguchi’s apartment")
 
-54 mins ago
+2 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
