@@ -31,130 +31,787 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Avances y críticas en las obras de la av. De los Shyris, Alameda y Colón
-========================================================================
+Diana Ruiz, capitán de la avioneta siniestrada, es velada en Píllaro, Tungurahua
+================================================================================
 
-El Municipio de Quito realiza trabajos de rehabilitación en varios puntos de la ciudad antes de terminar el 2024.
------------------------------------------------------------------------------------------------------------------
+Una capilla ardiente se levantó en la Escuela de Aviación Cosme Rennella en honor a la capitán de la avioneta siniestrada, Diana Ruiz y el cadete, Juan Pacheco, por la tarde.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![La inauguración del bulevar está prevista para inicios de diciembre.](https://www.elcomercio.com/wp-content/uploads/2024/11/Bulevar-1.jpg)
+![La capitán de la avioneta siniestrada en Santa Elena, Diana Ruiz, es velada en Píllaro.](https://www.elcomercio.com/wp-content/uploads/2024/11/diana-ruiz-avioneta-siniestrada.jpg)
 
-En **Quito** se desarrollan tres **proyectos urbanos** que transforman espacios emblemáticos: el bulevar De **los** **Shyris**, la rehabilitación del parque **La Alameda** y el **Sendero** **Seguro** de la avenida **Colón**[.](https://es.wikipedia.org/wiki/Obra_p%C3%BAblica "https://es.wikipedia.org/wiki/Obra_p%C3%BAblica")
+**Diana Ruiz**, capitán de la **FAE** que falleció en el siniestro de una **avioneta** en **Santa Elena**, es velada en **Píllaro, Tungurahua,** este miércoles 27 de noviembre.
 
-**Más noticias**
-----------------
+Esta tarde, se levantó una **capilla ardiente** en honor a la capitán de Aviación Diana Estefanía Ruiz Solís y el cadete Juan Andrés Pacheco Ramírez, en la **Escuela de Aviación Cosme Rennella Barbato**, en el cantón Salinas.
 
-* [Obras de pavimentación del carril de la Ecovía causan nuevos cierres viales](https://www.elcomercio.com/actualidad/quito/obras-pavimentacion-carril-de-ecovia-causan-nuevos-cierres-viales.html "Obras de pavimentación del carril de la Ecovía causan nuevos cierres viales")
-* [Las obras en la av. Mariana de Jesús finalizan luego de 107 días](https://www.elcomercio.com/actualidad/quito/mariana-jesus-finaliza-rehabilitacion-107-dias.html "Las obras en la av. Mariana de Jesús finalizan luego de 107 días")
-* [Gobierno destinó cuatro millones de dólares para obras en cinco GAD](https://www.elcomercio.com/actualidad/ecuador/gobierno-destino-cuatro-millones-de-dolares-obras-gad.html "Gobierno destinó cuatro millones de dólares para obras en cinco GAD")
+### Más noticias:
 
-Estas iniciativas, a cargo de la Empresa Metropolitana de Movilidad y Obras Públicas (Epmmop), buscan mejorar la movilidad, revitalizar espacios públicos y promover una ciudad más sostenible.
+* [Lo que se sabe del accidente de la avioneta en Santa Elena](https://www.elcomercio.com/actualidad/ecuador/lo-que-se-sabe-accidente-avioneta-santa-elena.html "Lo que se sabe del accidente de la avioneta en Santa Elena")
+* [Avioneta se estrelló en Santa Elena y causó la muerte dos tripulantes](https://www.elcomercio.com/actualidad/ecuador/avioneta-estrello-santa-elena.html "Avioneta se estrelló en Santa Elena y causó la muerte dos tripulantes")
 
-Sin embargo, los presupuestos y enfoques generan tanto expectativas como críticas entre los ciudadanos.
+Velación de la capitán de la avioneta siniestrada, Diana Ruiz, en Píllaro, Tungurahua
+-------------------------------------------------------------------------------------
 
-Construcción del bulevar de la avenida De los Shyris
-----------------------------------------------------
+La capitán Diana Ruiz y el cadete Juan Pacheco fallecieron cuando la avioneta en la que volaban cayó estrepitosamente sobre la calzada de la avenida Eleodoro Solórzano, en **Santa Elena**.
 
-El bulevar **De los Shyris** abarca 1,4 kilómetros entre las avenidas Naciones Unidas y Eloy Alfaro, con un presupuesto de **1 000 000** de dólares.
+El **Ministerio de Defensa**, la Fuerza Aérea Ecuatoriana (FAE) y otras instituciones expresaron su nota de pesar por el trágico deceso de “la dama y el caballero del aire”.
 
-El **proyecto** incluye 5.000 m² de áreas verdes, ciclorutas y camineras con accesibilidad universal, iluminación LED, además de un parque para mascotas.
+El mundo de la aviación conocía a Ruiz como la **“mujer supersónica”**, por ser la primera mujer a bordo de un avión supersónico **‘Cheetah’**.
 
-El **Municipio** busca transformar un espacio que anteriormente enfrentaba problemas de inseguridad e insalubridad.
+La FAE dijo que se conformará una **Junta Investigadora de Accidentes** con el fin de esclarecer las causas del hecho. Así mismo, la Fiscalía dispuso la práctica de diligencias en el sitio del siniestro.
 
-Según la Epmmop, más de 100 000 personas se benefician directamente de esta intervención, que prioriza la **movilidad sostenible** y la mejora del **entorno urbano.**
+La FAE instaló una **capilla ardiente** en Santa Elena para rendir honor a los dos fallecidos.
 
-Sin embargo, las críticas no se han hecho esperar. Leonardo López cuestiona la utilidad del gasto: “Un millón de dólares solo para que se vea estéticamente mejor un tramo de la ciudad… habrá que ver el costo-beneficio”.
+Esto, antes del traslado de sus cuerpos a sus **lugares de origen**.
 
-Gabriel Jaramillo señala que el diseño podría i**ncluir más vegetación**: “Hace falta verde, con árboles grandes que den sombra”.
+Un avión de la Fuerza Aérea transportó a los cuerpos hasta el aeropuerto de **Latacunga, Cotopaxi.**
 
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DCzwbdbiwh4/?utm_source=ig_embed&utm_campaign=loading)
+A las 18:00, en Píllaro, miembros de la FAE, amigos, familiares y habitantes de **Pillaro**, esperaban la llegada de los restos de la capitán Diana Ruiz, fallecida la tarde de ayer en un siniestro aéreo, en Santa Elena.
+
+Sus familiares programaron el velorio en el **Teatro Obrero**.
+
+La misa de cuerpo presente estaba prevista para este jueves 28 de noviembre, a las 16:00, en la **Iglesia Matriz de Pílllaro**.
+
+El Nacional recordó a ‘Chucho’ Benítez con su nuevo título
+==========================================================
+
+Uno de los últimos ídolos que tuvo El Nacional fue Cristián 'Chucho' Benítez.
+-----------------------------------------------------------------------------
+
+![Christian Benítez (+) celebrando el título del campeonato ecuatoriano 2006 con El Nacional.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-27T190533.550.jpg)
+
+**El Nacional** rompió una sequía de 18 años sin títulos con la conquista de la Copa Ecuador. La última vez que levantaron una copa fue en 2006, con **Christian ‘Chucho’ Benítez** como una de las figuras clave del equipo militar.
+
+En medio de la alegría por el nuevo título y la travesía que vivió el club, que atravesó dos descensos y crisis económicas e institucionales, **El Nacional le dedicó la copa a ‘Chucho’,** uno de los ídolos más grandes de su historia, quien falleció en 2013.
+
+### Más noticias:
+
+* [El Nacional, el tercer equipo con más títulos en Ecuador](https://www.elcomercio.com/deportes/futbol/el-nacional-el-tercer-equipo-con-mas-titulos-en-ecuador.html "El Nacional, el tercer equipo con más títulos en Ecuador")
+* [El Nacional regresa a la gloria 18 años después](https://www.elcomercio.com/deportes/futbol/el-nacional-regresa-a-la-gloria-18-anos-despues.html "El Nacional regresa a la gloria 18 años después")
+* [El Nacional venció a Independiente y es campeón de la Copa Ecuador](https://www.elcomercio.com/deportes/futbol/final-unica-copa-ecuador-resultado.html "El Nacional venció a Independiente y es campeón de la Copa Ecuador")
+
+Tras consagrarse campeones de la Copa Ecuador al vencer 1-0 a Independiente del Valle en el Estadio Rodrigo Paz Delgado, el ‘Bi-Tri’ publicó un emotivo mensaje en sus redes sociales: _“**El título también es para ti. Te extraño,**“_ escribió el club en su cuenta de X (antes Twitter).
+
+> El título también es para ti. Te extraño. [pic.twitter.com/3p1RNraa4z](https://t.co/3p1RNraa4z)
 > 
-> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/reel/DCzwbdbiwh4/?utm_source=ig_embed&utm_campaign=loading)
+> — Club Deportivo El Nacional (@elnacionalec) [November 27, 2024](https://twitter.com/elnacionalec/status/1861904657506783449?ref_src=twsrc%5Etfw)
 
-Rehabilitación del parque La Alameda
-------------------------------------
+‘Chucho’ Benítez y su legado en El Nacional
+-------------------------------------------
 
-El parque **La Alameda**, uno de los espacios más icónicos de **Quito**, registra un avance del 90 % en su rehabilitación.
+**Christian** **Benítez** llegó a El Nacional en 1997, con apenas 12 años, y **debutó profesionalmente en 2004**, a los 18 años. Durante la temporada 2005, jugó 31 partidos, anotó seis goles y repartió ocho asistencias, siendo clave para que El Nacional ganara el torneo clausura.
 
-Las obras abarcan 11.956 m², con limpieza y pintura de la laguna, reparación de camineras, trabajos de arborización y la **instalación de pérgolas**, casetas y luminarias LED.
+Pero fue en 2006 cuando ‘**Chucho’ brilló con todo su esplendor**. Con solo 20 años, fue el máximo referente del equipo que consiguió el título, el último en el campeonato ecuatoriano hasta este miércoles 27 de noviembre. En esa temporada, Benítez disputó **50 partidos, anotó 16 goles y entregó 13 asistencias.**
 
-El **Municipio** busca devolver el valor turístico y funcional del parque, que “estuvo en abandono durante más de 15 años”.
+En 2007, tras 19 partidos y ocho goles, **Benítez** decidió emprender su carrera en México, donde dejó una huella imborrable como figura de varios equipos.
 
-La recuperación incluye el **traslado de peces** no nativos de la laguna a una reserva natural y el uso de productos especializados para garantizar la limpieza del agua.
+Aunque solo jugó cuatro años en El Nacional, su legado perduró. Con 30 goles y dos títulos ligueros (2005 y 2006), **‘Chucho’ se consagró como uno de los más grandes ídolos del club**, y el equipo lo recordó en este gran logro, casi dos décadas después de su último título con ellos.
 
-Mario Torres, vecino del sector, sugiere mayor atención al **mantenimiento a largo plazo**: “Es un buen inicio, pero deberían garantizar que el parque no vuelva a deteriorarse”.
+Lo que costaron los retratos de Felipe y Letizia que hizo Annie Leibovitz
+=========================================================================
 
-Por su parte, **Sofía Cárdenas** pide reforzar la seguridad en el lugar: “Es importante evitar que el espacio regrese al abandono”.
+Los retratos reales generaron opiniones divididas en España
+-----------------------------------------------------------
 
-Construcción del Sendero seguro en la avenida Colón
----------------------------------------------------
+![La reina Letizia, con una creación negra y fucsia de Balenciaga y retratada por la fotógrafa Annie Leibovitz.](https://www.elcomercio.com/wp-content/uploads/2024/11/retratos-reyes-El-Comercio-1.jpg)
 
-El Sendero seguro de la avenida **Colón** utiliza un presupuesto de USD 1 297 147 para mejorar las aceras, soterrar cables, instalar iluminación ornamental, arborizar y garantizar la **accesibilidad universal**.
+El precio de la majestuosidad de **los retratos de los reyes Felipe VI y Letizia**, capturados por la legendaria **fotógrafa Annie Leibovitz**, han desatado comentarios tras su reciente presentación.
 
-Las obras comenzaron el 8 de mayo de 2024 y según la Epmmop, “ya se está por terminar”.
-
-La **Epmmop** busca reducir la contaminación visual, mejorar la seguridad peatonal y transformar esta avenida en un **eje más accesible y moderno**.
-
-Carla Zambrano, estudiante de una universidad que está por el sector, opina sobre el proyecto: “Es una buena idea, pero 1.3 millones de dólares parecen excesivos para arreglar aceras”.
-
-Andrés Castillo, quien trabaja cerca del sector, considera que estas intervenciones no solucionan **problemas estructurales**: “La avenida **Colón** necesita más **seguridad vial** y soluciones para el tráfico”.
-
-Milei busca evitar que presos cambien de cárcel por asuntos de género
-=====================================================================
-
-El Mandatario citó a un preso que argumentó cambio de género para ser trasladado a una cárcel de mujeres y abusó de una de ellas
---------------------------------------------------------------------------------------------------------------------------------
-
-![Fotografía del 20 de noviembre de 2024 del presidente de Argentina, Javier Milei, durante un acto en la Casa Rosada en Buenos Aires (Argentina).](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-40.jpg)
-
-El presidente argentino, **Javier Milei,** anunció que impulsará una iniciativa para prohibir que los presos y presas en el país puedan **solicitar un traslado a otra cárcel** por cuestiones de **identidad de género.**
+Estas obras, encargadas por el Banco de España, forman parte de su galería histórica, que incluye piezas de Goya y Sorolla.
 
 ### Más noticias
 
-* [Cristina Fernández exige a Milei la restitución de las pensiones](https://www.elcomercio.com/actualidad/mundo/cristina-fernandez-exige-a-milei-restitucion-de-las-pensiones.html "Cristina Fernández exige a Milei la restitución de las pensiones")
-* [Tras un año del triunfo, Javier Milei reafirma su estilo excéntrico](https://www.elcomercio.com/actualidad/mundo/tras-ano-triunfo-javier-milei-reafirma-estilo-excentrico.html "Tras un año del triunfo, Javier Milei reafirma su estilo excéntrico")
-* [Trump felicita a Milei por ‘hacer grande a Argentina nuevamente’ y recibe respuesta](https://www.elcomercio.com/actualidad/mundo/trump-felicita-a-milei-por-hacer-grande-a-argentina-respuesta.html "Trump felicita a Milei por ‘hacer grande a Argentina nuevamente’ y recibe respuesta")
+* **[Los dinosaurios sonaban diferente a ‘Jurassic Park’ y la ciencia lo explica](https://www.elcomercio.com/tendencias/curiosidades/jurassic-park-dinosaurios-sonidos.html "https://www.elcomercio.com/tendencias/curiosidades/jurassic-park-dinosaurios-sonidos.html")** 
+* **[Historia de los gladiadores romanos más allá de los mitos](https://www.elcomercio.com/tendencias/curiosidades/gladiadores-romanos-historia-mitos-verdades.html "https://www.elcomercio.com/tendencias/curiosidades/gladiadores-romanos-historia-mitos-verdades.html")** 
 
-La identidad de género como ‘paraguas’
---------------------------------------
+El costo total del proyecto fue de 137,000 euros (unos 148,000 dólares). Este monto también cubrió el retrato del anterior gobernador del Banco, Pablo Hernández de Cos, según La Vanguardia.
 
-“Los delincuentes no van a poder solicitar un cambio de penal bajo **el paraguas** de la identidad de género”, dijo el mandatario durante **una ceremonia con las fuerzas de seguridad** en la Casa Rosada.
+**Una fusión de tradición y modernidad**
+----------------------------------------
 
-Milei citó una serie de **casos recientes de presos** que apelaron a la Ley de Identidad de Género para solicitar el **traslado desde una cárcel de hombres a una de mujeres.**
+![El Banco de España presentó los retratos que ha realizado la fotógrafa Annie Leibovitz de sus majestades los Reyes de España este martes en la sala del Consejo del Banco de España de Madrid.](https://www.elcomercio.com/wp-content/uploads/2024/11/retratos-reyes-El-Comercio-1024x683.jpg)
 
-“Pretendían argumentar que, en realidad, eran mujeres, que debían estar en una cárcel de mujeres. Ya sea para **aprovechar de las mujeres reclusas** o para continuar con los negociados, desde condiciones más laxas”, señaló el Presidente. Milei mencionó como ejemplo el caso reciente del jefe de un grupo vinculado al narcotráfico.
+El Banco de España presentó los retratos que ha realizado la [fotógrafa Annie Leibovitz](https://www.instagram.com/annieleibovitz/ "https://www.instagram.com/annieleibovitz/") de sus majestades los Reyes de España este martes en la sala del Consejo del Banco de España de Madrid.
 
-“Solo en un país cuyos valores han sido profundamente trastocados puede permitirse semejante barbaridad”, agregó Milei. Y anticipó que **“esta estupidez se termina”** y que los sistemas penitenciarios provinciales que no adhieran a la medida estarán “premiando la creatividad de los criminales” y “faltando el respeto a las víctimas”.
+La sesión fotográfica tuvo lugar en el Salón Gasparini del **Palacio Real de Madrid** en febrero de 2024.
 
-Presos no serán trasladados por seguridad
+En estas obras, Felipe VI luce el uniforme de gala del Ejército, mientras Letizia lleva un vestido vintage negro de la marca de alta moda Balenciaga.
+
+Ambos posan con una iluminación que evoca a los **retratos de Velázquez**. Según Yolanda Romero, conservadora del Banco de España, las fotos combinan elementos modernos con la tradición histórica de los retratos reales​.
+
+**Críticas en redes sociales**
+------------------------------
+
+![Felipe VI, con uniforme de gran etiqueta del Ejército de Tierra, retratado por la fotógrafa Annie Leibovitz. ](https://www.elcomercio.com/wp-content/uploads/2024/11/retratos-reyes-El-Comercio-2-1024x683.jpg)
+
+Felipe VI, con uniforme de gran etiqueta del Ejército de Tierra, retratado por la fotógrafa Annie Leibovitz.
+
+Aunque se resalta el prestigio de Leibovitz, la inversión ha generado polémica en redes, especialmente en el contexto de recientes catástrofes naturales en España.
+
+Comentarios como “140,000 euros para fotos mientras muchos sufren” evidencian el descontento de algunos sectores, recoge Infobae.
+
+​Las fotografías están disponibles en la exposición ‘La tiranía de Cronos’ en la sede del Banco de España hasta marzo de 2025. Después, pasarán a formar parte permanente de la galería institucional del Banco.​
+
+Los trabajadores requieren más competencias y habilidades ‘verdes’. Cuatro testimonios
+======================================================================================
+
+Una economía verde demanda de trabajadores orientados a reducir la huella de carbono y preservar el medio ambiente.
+-------------------------------------------------------------------------------------------------------------------
+
+![Quienes cuidan gallinas orgánicas aplican prácticas éticas en el manejo animal, reduciendo el impacto ambiental.](https://www.elcomercio.com/wp-content/uploads/2024/11/portada_720.jpg)
+
+Hoy, la transición hacia una economía verde requiere un cambio significativo en el perfil laboral de los trabajadores. Esto incluye habilidades y competencias más amigables con el medio ambiente.
+
+Más noticias
+------------
+
+* [En Ecuador, 12 mil puestos de trabajo que se ocuparon en 2023 fueron considerados verdes](https://www.elcomercio.com/tendencias/ambiente/en-ecuador-12-mil-puestos-de-trabajo-que-se-llenaron-en-2023-fueron-considerados-verdes.html "En Ecuador, 12 mil puestos de trabajo que se llenaron en 2023 fueron considerados verdes")
+* [Dos empresas de Otavalo generan energía limpia con paneles solares](https://www.elcomercio.com/videos/dos-empresas-textiles-de-otavalo-generan-energia-limpia-con-paneles-solares.html "Dos empresas textiles de Otavalo generan energía limpia con paneles solares")
+
+Para esto se requiere de más capacitación, en tecnologías limpias y prácticas que bajen la huella de carbono. Pero también quienes tengan habilidades relacionadas con la sostenibilidad serán más competitivos. En este contexto, la Organización Internacional del Trabajo (OIT) detalla ciertas competencias para lograr un futuro más ecológico:
+
+* **Conocimiento sobre sostenibilidad**: Comprender sus principios y su aplicación en diversos sectores.
+* **Desarrollo de competencias técnicas**: Formación en tecnologías limpias y prácticas que disminuyan la huella de carbono en distintas industrias. Dominio de herramientas digitales.
+* **Pensamiento crítico y resolución de problemas**. Habilidades para enfrentar los desafíos ambientales y encontrar soluciones innovadoras.
+* **Evaluación y seguimiento de políticas**: Capacidad para evaluar la efectividad de las políticas sobre el medio ambiente y las competencias profesionales.
+
+Cuatro ejemplos de gestión de competencias y habilidades
+--------------------------------------------------------
+
+Para entender mejor la importancia del desarrollo de competencias y habilidades profesionales con enfoque sostenible, El COMERCIO conversó con trabajadores de cuatro sectores. Ellos explican por qué y para qué impulsan los empleos verdes; las dificultades que afrontan y su planes a futuro.
+
+Manufactura
+-----------
+
+‘El desafío es cambiar la mentalidad de clientes y trabajadores’
+----------------------------------------------------------------
+
+**Melissa Santa María**. _Diseñadora de Planblu, marca que produce moda y uniformes ecológicos._
+
+En su trabajo no solo usa materiales eco amigables sino que busca optimizar y mejorar cada paso de su cadena de producción. Trabaja con recicladoras para la recuperación de botellas; tejen sus textiles en una planta que genera energía limpia con paneles solares, mientras 30 artesanas se encargan de la confección de prendas. Ellas laboran bajo el modelo Zero Waste, en el que se da vida hasta el último retazo.
+
+Para mejorar su producción capacitan a sus colaboradores en temas de sostenibilidad e inspiran a llevar una vida más consciente dentro y fuera del trabajo con su propio ejemplo. Aunque reconoce que el principal desafío es lograr un cambio de mentalidad en consumidores y trabajadores. 
+
+![Melissa promueve el uso de materiales  sustentables, orgánicos y reciclados.  ](https://www.elcomercio.com/wp-content/uploads/2024/11/melissa_720.jpg)
+
+Melissa Santa María promueve el uso de materiales sustentables, orgánicos y reciclados.
+
+Actualmente laboran en la medición de la huella de carbono de sus prendas con Oxify para ofrecer a sus clientes la posibilidad de reducir su huella, a través del uso de uniformes ecológicos. Además trabaja en el desarrollo de una nueva línea de producción de materiales de construcción y mobiliario con  textiles que ya cumplieron su vida útil y, así ampliar las plazas de trabajo verde. 
+
+Gestión de materiales
+---------------------
+
+¿Separas residuos?, pregunta clave antes de contratar
+-----------------------------------------------------
+
+**Lorena Gallardo**. _Gerente de Innovación y Tecnología de Reciveci, startup de reciclaje inclusivo._
+
+Esta startup tiene una red de 200 personas, entre recicladores, proveedores y un staff de 15 personas, liderados por tres mujeres. El equipo operativo incluye especialistas en sostenibilidad, ingeniería y tecnología ambiental, desarrolladores web. El 70% del personal directo o indirecto es mujeres.
+
+Antes de contratar personal indagan si los candidatos separan los residuos en casa y qué hacen con ellos.
+
+> “Nos gusta saber que, por nuestro giro de negocio, esto sea algo que practicamos desde nuestros valores y como cultura empresarial interna”.
+
+![Lorena Gallardo busca que la ciudadanía valore  el trabajo que hacen los recicladores de base. ](https://www.elcomercio.com/wp-content/uploads/2024/11/lore_gallardo_720.jpg)
+
+Lorena Gallardo busca que la ciudadanía valore el trabajo que hacen los recicladores de base.
+
+Fomentan prácticas para evitar la generación de residuos, reutilizar materiales y entregar reciclables a los recicladores de base. Promueve la conciencia sobre el consumo responsable, el uso adecuado del agua y otros hábitos sostenibles. La idea es que todos vivan y trabajen en un entorno de sostenibilidad y economía circular inclusiva. Otras características que buscan: buena comunicación y actitud de liderazgo.
+
+Más de 150 recicladores fueron capacitados en cómo mejorar su eficiencia laboral y recuperar materiales con seguridad y salud e incluyeron salud sexual y reproductiva y finanzas saludables.
+
+A través de una app móvil informan a la ciudadanía sobre qué materiales se reciclan y la entrega a recicladores de base. En su centro de acopio de vidrio se busca bajar el consumo energético.
+
+A la par se enfocan en combinar la inclusión con la incorporación de más tecnologías en sus cadenas de valor con residuos reciclables. Esto es un reto, ya que muchos recicladores no acceden a tecnologías.
+
+Agricultura sostenible
+----------------------
+
+Transformar hábitos tradicionales a enfoques sostenibles
+--------------------------------------------------------
+
+**Viviana López**. _Gerente y propietaria de Organic Life, empresa que promueve la agricultura sustentable._
+
+Ha generado más de 10 empleos directos e indirectos desde la producción hasta la distribución de huevos y vegetales orgánicos certificados. Estos empleos abarcan áreas como agricultura sostenible, logística de productos orgánicos y gestión de residuos compostables.
+
+Los agricultores orgánicos trabajan en cultivos libres de químicos y pesticidas. Ayudan a regenerar el suelo y preservar la biodiversidad. Por su parte, los cuidadores de gallinas orgánicas aplican prácticas éticas en el manejo animal, minimizando el impacto ambiental.
+
+El personal de poscosecha se ocupa de la limpieza, clasificación y empaque de pedidos. Estos empleos reducen la huella de carbono, preservan los recursos y fomentan un sistema alimentario más sostenible.
+
+La empresa selecciona colaboradores que amen la naturaleza, estén comprometidos con la sostenibilidad y su mentalidad esté orientada a proteger el medio ambiente, mientras mejoran la calidad de los ecosistemas y trabajan en equipo.
+
+También ofrece talleres sobre veterinaria orgánica, agricultura sostenible, manejo ético de animales y uso eficiente de recursos. También enseña compostaje y técnicas para reutilizar residuos agrícolas.
+
+![Viviana López incentiva a preservación de los recursos naturales. ](https://www.elcomercio.com/wp-content/uploads/2024/11/organic_720.jpg)
+
+Viviana López incentiva a preservación de los recursos naturales y el amor a la naturaleza.
+
+Entre los desafíos que afronta Viviana López está la implementación de tecnologías sostenibles y la inversión que conlleva la capacitación a los empleados.
+
+> “Enseñar nuevas prácticas y transformar hábitos tradicionales hacia enfoques sostenibles lleva tiempo y dedicación; además, algunas herramientas amigables con el medio ambiente no están fácilmente disponibles en Ecuador”.
+
+Actualmente cuentan con sistemas eficientes de riego utilizando agua de vertiente y continuarán explorando sistemas de energía renovable así como procesos automatizados para reducir aún más su huella ambiental. Esto se complementará con empaques biodegradables y talleres sobre sostenibilidad para involucrar a más personas en la economía circular.
+
+Construcción ecoeficiente
+-------------------------
+
+La construcción tiene potencial en empleo verde
+-----------------------------------------------
+
+**Fernando Hinojosa**. Arquitecto y docente. Construye casas ecoeficientes.  
+
+Este profesional ve con un enorme potencial la creación de empleos verdes en la construcción ecoeficiente, que busca el uso racional y eficiente de recursos naturales y de energía.
+
+Por la tradición artesanal que hay en Ecuador, este tipo de construcción ofrece alternativas como enlucidos con arcillas de colores, pisos con cerámicas hechas a mano.
+
+En vez de madera prensada se trabaja con la mejor madera y elaboran lacas con aceite de linaza. A esto se conocía antes como charol. También utilizan la cera de abeja. 
+
+Se utilizan pinturas elaboradas con arcillas de colores, aunque son un poco más caras por la dificultad de conseguirlas. “Si esto se potenciaría sería más económico, depende del mercado porque no se utiliza”. 
+
+En estas construcciones se incluye a las mujeres. Hinojosa trabaja con un grupo de artesanos de Sangolquí a los que capacita y trabaja con materiales naturales. 
+
+![Las mujeres participan activamente en las construcciones ecoeficientes de Fernando Hinojosa. ](https://www.elcomercio.com/wp-content/uploads/2024/11/construcci__n_eco_720.jpg)
+
+Las mujeres participan activamente en las construcciones ecoeficientes de Fernando Hinojosa.
+
+Hace años-recuerda- que trataba de convencer a sus clientes sobre el uso de materiales verdes. Extranjeros y personas mayores aceptaban sus propuestas. Ahora construye viviendas para jóvenes, quienes exigen que sea cada vez más ecológico.
+
+> “(Los jóvenes) se han vuelto más críticos y revisan qué tan contaminantes son los materiales”.
+
+Actualmente trabaja en una casa de estructura de madera con adobe para una pareja, que exige que el piso sea hecho de manera eficiente con tierra. Las paredes son de bahareque; las plantas son autóctonas del lugar y consumen menos agua. No se bota el agua al alcantarillado sino que se colocaron filtros que separan las aguas jabonosas, residuales, de las duchas. Las primeras van a plantas como nardos, papiros que filtran y se regresan a la parte verde de los jardines. Con las aguas negras se saca una especie de compost para distribuir a los cítricos. Se recogen aguas lluvias.
+
+Este tipo de trabajos y los estándares de las nuevas generaciones ha hecho que Hinojosa sea más ecológico, desde cosas sencillas como tomar agua en una botella de vidrio y no de plástico.
+
+  
+   
+
+Colón Pico recibió otra sentencia en su contra ¿Cuáles son el delito y la pena?
+===============================================================================
+
+Fabricio Colón Pico recibió otra sentencia en octubre por el delito de intimidación a la fiscal general, Diana Salazar.
+-----------------------------------------------------------------------------------------------------------------------
+
+![Fabricio Colón Pico fue sentenciado en otro caso.](https://www.elcomercio.com/wp-content/uploads/2024/04/Colon-Pico-1.jpg)
+
+**Fabricio Colón Pico**, líder del grupo de delincuencia organizada **Los Lobos**, recibió otra **sentencia** en su contra este miércoles 27 de noviembre.
+
+La Fiscalía Especializada en Delincuencia Organizada, Transnacional e Internacional (**Fedot**i) impulsó el proceso.
+
+### Más noticias:
+
+* [Colón Pico recibe sentencia por intimidación contra Diana Salazar ¿Cuántos años en prisión?](https://www.elcomercio.com/actualidad/colon-pico-sentencia-intimidacion-diana-salazar.html)
+* [Colón Pico, en fases decisivas de procesos por tráfico de armas e intimidación a Diana Salazar](https://www.elcomercio.com/actualidad/seguridad/colon-pico-fases-decisivas-procesos-trafico-armas-intimidacion-diana-salazar.html)
+
+Colón Pico y la nueva sentencia en su contra
+--------------------------------------------
+
+El 9 de julio de 2023, A. A. P., hijo del narcotraficante alias de **‘Chugo Porto’**, investigado en Estados Unidos y buscado por la Interpol, se encontraba en una reunión en **La Ferroviaria**, en el sur de **Quito**.
+
+Casi a la medianoche, solicitó un **taxi** a través de una aplicación.
+
+Al salir a esperar el vehículo, observó un **auto negro** sin placas en la calle.
+
+En ese momento, cuatro **personas armadas** descendieron del automotor.
+
+Él intentó regresar al interior de la casa, pero los secuestradores lo sacaron a la fuerza y lo llevaron a un lugar apartado en **Nanegalito**, noroccidente de la capital.
+
+Los antisociales, bajo el mando de Fabricio Colón Pico, solicitaron un **beneficio territorial** en la provincia de **Esmeraldas**, relacionado con las actividades delictivas del padre del secuestrado.
+
+El 12 de julio de 2023, A. A. P. fue trasladado por sus **captores** durante varias horas por la carretera.
+
+Lo dejaron en un **centro comercial del norte de Quito**, proporcionándole 20 dólares para su movilización.
+
+### Sentencia
+
+Con la acusación y el proceso en su contra, Fabricio Colón Pico fue sentenciado a cinco años de prisión como **autor mediato de secuestro**.
+
+William Mauricio A. M. y Benigno Joel P. M. recibieron la misma pena como **coautores** del delito.
+
+Cada uno de los procesados deberá cancelar una multa de doce salarios básicos unificados y, entre los tres, deberán pagar **3 000 dólares** como reparación integral.
+
+“Este delito se comete en el marco del **crimen organizado**”, indicó la Fedoti ante el Tribunal Penal.
+
+Durante la audiencia de juicio, la Fiscalía demostró que los tres sentenciados secuestraron a A. A. P. y lo mantuvieron en **cautiverio** durante tres días.
+
+Para dar con los secuestradores, Fiscalía ordenó diligencias como la **interceptación y triangulación de llamadas**, el cotejamiento de voces.
+
+Además, entrevistas a fuentes abiertas, el informe de reconocimiento del lugar de los hechos, **testimonios de testigos del secuestro**, entre otros.
+
+En su defensa, los procesados **negaron los cargos**.
+
+El delito de secuestro está tipificado en el artículo 161 del **Código Orgánico Integral Penal (COIP)** y es sancionado con penas de cinco a siete años de prisión.
+
+El Nacional, el tercer equipo con más títulos en Ecuador
+========================================================
+
+El Nacional regresa a la gloria y se consagra como uno de los equipos más ganadores del país, con un nuevo título que lo coloca en el podio histórico.
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Jugadores de El Nacional festejando el título de la Copa Ecuador 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-27T180951.623.jpg)
+
+**El Nacional** alcanzó un nuevo hito este miércoles 27 de noviembre, al consagrarse campeón de la Copa Ecuador 2024, por segunda vez en su historia.
+
+Con este triunfo, el **“Bi-Tri” se posiciona como el tercer equipo más exitoso del país**, sumando un título más a su palmarés luego de 18 años sin conquistas.
+
+Más noticias:
+
+* [El Nacional regresa a la gloria 18 años después](https://www.elcomercio.com/deportes/futbol/el-nacional-regresa-a-la-gloria-18-anos-despues.html "El Nacional regresa a la gloria 18 años después")
+* [El Nacional venció a Independiente y es campeón de la Copa Ecuador](https://www.elcomercio.com/deportes/futbol/final-unica-copa-ecuador-resultado.html "El Nacional venció a Independiente y es campeón de la Copa Ecuador")
+* [El Nacional ganó la Copa Ecuador 1970 con solo dos partidos](https://www.elcomercio.com/deportes/futbol/el-nacional-campeon-copa-ecuador1970.html "El Nacional ganó la Copa Ecuador 1970 con solo dos partidos")
+
+El Nacional y su nueva estrella
+-------------------------------
+
+Con esta nueva **Copa Ecuador,** **El Nacional** llegó a los 15 títulos en competiciones de primera división y rompieron el empate que tenían con **Emelec**. Los militares han ganado 13 veces el campeonato ecuatoriano y 2 veces la Copa Ecuador.
+
+Los **campeonatos de Serie A** fueron obtenidos en los años 1967, 1973, 1976, 1977, 1978, 1982, 1983, 1984, 1986, 1992, 1996, 2005 y 2006. Mientras que las **Copas Ecuador** fueron en 1970 y 2024.
+
+De esta manera, El Nacional se consolida como el tercer club más ganador de Ecuador, detrás de **Barcelona SC**, con 16 títulos, y **Liga de Quito**, con 20. El club capitalino también tiene en su haber 2 Supercopas Ecuador, 1 Libertadores, 2 Sudamericanas y 2 Recopas Sudamericanas.
+
+El único bicampeón de la Copa Ecuador
+-------------------------------------
+
+Con esta victoria, **El Nacional se convierte en el primer club en ganar la Copa Ecuador en dos ocasiones**, consolidándose como el equipo más exitoso en la historia de esta competencia organizada por la Federación Ecuatoriana de Fútbol (FEF).
+
+La primera edición del torneo fue ganada por El Nacional en 1970, aunque esa edición fue polémica, ya que dos de los equipos participantes se retiraron a mitad de campeonato. Sin embargo, en 2024, el club demostró que no fue casualidad su primer logro.
+
+> ¡ES NUESTRA![pic.twitter.com/YfMALCih0f](https://t.co/YfMALCih0f)
+> 
+> — Club Deportivo El Nacional (@elnacionalec) [November 27, 2024](https://twitter.com/elnacionalec/status/1861904875614838889?ref_src=twsrc%5Etfw)
+
+El camino hacia el título no fue fácil. En los cuartos de final, El Nacional venció a su clásico rival, Liga de Quito, en un emocionante duelo de penales. En semifinales, superaron a Mushuc Runa, dirigido por Ever Hugo Almeida, el último entrenador que los llevó a un campeonato en 2006.
+
+Finalmente, en la gran final, enfrentaron a Independiente del Valle, el equipo más destacado de Ecuador en los últimos años, y con un gol de **Gabriel Cortez,** El Nacional se coronó campeón, logrando ser los primeros bicampeones de la Copa Ecuador.
+
+En Colombia tramitan una ley para regular el uso de redes sociales en menores de 14 años
+========================================================================================
+
+El proyecto apunta a garantizar la seguridad, salud de los niños y adolescentes en entornos digitales.
+------------------------------------------------------------------------------------------------------
+
+![Imagen referencial sobre los adolescentes que usan redes sociales.](https://www.elcomercio.com/wp-content/uploads/2024/11/celu-chico-cut.jpg)
+
+El **Congreso colombiano** está tramitando un proyecto de ley para regular el **uso de las redes sociales** en los menores de 14 años, una iniciativa que busca **prohibir a los niños el acceso** y la creación de cuentas en estas plataformas, informaron este miércoles, 27 de noviembre de 2024, fuentes oficiales.
+
+### Más noticias
+
+* [En Colombia al menos 100 niños sufren violencia al día, alerta Unicef](https://www.elcomercio.com/actualidad/mundo/colombia-100-ninos-sufren-violencia-dia-alerta-unicef.html "En Colombia al menos 100 niños sufren violencia al día, alerta Unicef")
+* [Intercambio de energía eléctrica entre Colombia y Ecuador empezó hace 26 años](https://www.elcomercio.com/actualidad/negocios/intercambio-de-energia-electrica-entre-colombia-y-ecuador-empezo-hace-26-anos.html "Intercambio de energía eléctrica entre Colombia y Ecuador empezó hace 26 años")
+* [Periodista colombiano calificó de ‘agrandada’ a su selección](https://www.elcomercio.com/deportes/futbol/carlos-antonio-velez-colombia-ecuador.html "Periodista colombiano calificó de ‘agrandada’ a su selección")
+
+“La exposición temprana a redes sociales puede tener consecuencias **graves en la salud mental** de nuestros niños, niñas y adolescentes, incluyendo aumento de la **ansiedad, depresión y problemas de autoestima**“, afirmó el ministro de Tecnologías de la Información y la Comunicación (MinTIC), Mauricio Lizcano.
+
+Por eso el Gobierno respalda este proyecto de ley que busca “**proteger a la infancia del país**, educar a las familias y construir un entorno digital más seguro y responsable”, según Lizcano.
+
+El proyecto, que fue aprobado ya por la **Comisión Sexta del Senado,** apunta a garantizar la seguridad, salud y bienestar de los niños y adolescentes en los entornos digitales.
+
+Un informe del **Fondo de las Naciones Unidas para la Infancia (Unicef)**, citado por el MinTIC, señala que uno de cada tres usuarios de Internet en el mundo es menor de edad.
+
+¿Qué plantea el proyecto?
+-------------------------
+
+En ese sentido, el proyecto de ley plantea la creación de una ‘Escuela para Padres’, una plataforma con la que se busca orientar a los progenitores y **cuidadores en el uso responsable de las redes sociales.**
+
+Igualmente propone una restricción horaria para “que el **acceso a redes sociales** sea bloqueado entre las 22:00 y las 06:00 para los menores autorizados”, señaló el MinTIC, que agregó que las plataformas que incumplan con estas medidas serán sancionadas económicamente.
+
+“El **bienestar y la seguridad de nuestros niños** no son negociables. Este proyecto es una oportunidad para construir una cultura digital que priorice el **desarrollo integral de nuestra niñez** y adolescencia”, agregó Lizcano.
+
+Hombre recibió sentencia por femicidio de la madre en Ecuador
+=============================================================
+
+La Fiscalía informó los detalles del femicidio, que ocurrió en Latacunga.
+-------------------------------------------------------------------------
+
+![Imagen referencial usada por la Fiscalía.](https://www.elcomercio.com/wp-content/uploads/2024/11/femicidio-madre.jpg)
+
+Isaac Israel C. asesinó a su madre en junio de 2022. Este 27 de noviembre de 2024, la **Fiscalía General del Estado** de Ecuador informó sobre la sentencia[.](https://es.wikipedia.org/wiki/Ecuador)
+
+El hecho se produjo en la parroquia Guaytacama, en Latacunga. En el país, el delito está tipificado en el **Código Orgánico Integral Penal (COIP)** desde 2014.
+
+Según la organización Aldea, entre el 1 de enero y el 15 de noviembre, en Ecuador, se registraron 214 femicidios.
+
+### Más noticias
+
+* [Pódcast Esperanza se lanza en el Día Internacional de la Eliminación de la Violencia contra las Mujeres](https://www.elcomercio.com/actualidad/seguridad/esperanza-lanza-dia-internacional-eliminacion-violencia-contra-mujeres.html "Pódcast Esperanza se lanza en el Día Internacional de la Eliminación de la Violencia contra las Mujeres")
+* [Día de la Eliminación de la Violencia contra las Mujeres se vive con unión y ‘Esperanza’](https://www.elcomercio.com/actualidad/seguridad/dia-de-la-eliminacion-de-la-violencia-contra-las-mujeres-se-vive-con-union-y-esperanza.html "Día de la Eliminación de la Violencia contra las Mujeres se vive con unión y ‘Esperanza’")
+* [Romper y hacer pactos por la eliminación de la violencia de género](https://www.elcomercio.com/actualidad/romper-hacer-pactos-eliminacion-violencia-genero.html "Romper y hacer pactos por la eliminación de la violencia de género")
+
+> [#ATENCIÓN](https://twitter.com/hashtag/ATENCI%C3%93N?src=hash&ref_src=twsrc%5Etfw)| [#Cotopaxi](https://twitter.com/hashtag/Cotopaxi?src=hash&ref_src=twsrc%5Etfw): Isaac Israel C. es sentenciado como autor del [#Femicidio](https://twitter.com/hashtag/Femicidio?src=hash&ref_src=twsrc%5Etfw) de su madre. [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw) demostró que la agredió hasta causarle la muerte.  
+>   
+> Más información ⬇️[https://t.co/ynLxQySlfS](https://t.co/ynLxQySlfS) [pic.twitter.com/kVfn7OS17z](https://t.co/kVfn7OS17z)
+> 
+> — Fiscalía Ecuador (@FiscaliaEcuador) [November 27, 2024](https://twitter.com/FiscaliaEcuador/status/1861884597765632296?ref_src=twsrc%5Etfw)
+
+Femicidio de madre en Ecuador
+-----------------------------
+
+Tras verificar las pruebas aportadas por las partes procesales, el **Tribunal de Garantías Penales de Cotopaxi** impuso una pena privativa de libertad de 26 años para **Isaac Israel C.**, como autor del femicidio de su madre.
+
+La pena no fue la única sanción. El hombre, de 21 años, debe pagar una multa de **340 000 dólares y 20 000 dólares** como reparación integral a favor de la familia de la víctima.
+
+El crimen se perpetró en el domicilio familiar. En el sitio, antes del **femicidio**, el autor y sus padres ingerían alcohol.
+
+El padre se retiró al dormitorio. Hasta tanto, la víctima y su hijo permanecieron en la sala consumiendo alcohol. Una discusión fue el inicio del **crimen**.
+
+La mujer fue a la cocina y su hijo la siguió. Él la empujó contra la refrigeradora, lo que provocó la **caída** de la **progenitora**.
+
+El ahora sentenciado, la sujetó del cabello, la golpeó contra el piso y la agredió con **patadas y puñetazos**. Luego se retiró del inmueble.
+
+La tragedia llevó unas horas
+----------------------------
+
+Según informó la **Fiscalía**, luego de la agresión, el padre despertó y observó una silueta en el piso de la cocina.
+
+En ese momento, no había luz y asumió que la **mujer** estaba dormida. Él intentó moverla, al no lograrlo, la cubrió con una cobija y salió.
+
+**Isaac Israel C.** regresó al domicilio y, al percatarse de que su madre aún estaba viva, la golpeó. En ese momento, utilizó un objeto contundente y finalmente le sustrajo dinero antes de huir.
+
+El desenlace
+------------
+
+La víctima fue encontrada al día siguiente por la suegra, quien la trasladó al **Hospital General de Latacunga**.
+
+En el sitio, la madre falleció por un **trauma cráneo-encefálico** y obstrucción de vías respiratorias, provocada por el desprendimiento de una pieza dental durante la agresión.
+
+La **Fiscalía** presentó testimonios de los peritos que practicaron la autopsia médico-legal y la pericia de perfil genético, el informe de reconocimiento del lugar de los hechos y de evidencias. Se sumaron versiones de varias personas.
+
+El dato legal
+-------------
+
+El **femicidio** está tipificado en el artículo 141 del **COIP**. En el juicio se definió la circunstancia agravante contemplada en la norma: por la relación familiar entre la víctima y el agresor.
+
+Cortes de luz en Guayaquil este jueves 28 de noviembre
+======================================================
+
+Los cortes de luz en Guayaquil para este jueves 28 de noviembre son de hasta siete horas.
+-----------------------------------------------------------------------------------------
+
+![Los cortes de luz en Guayaquil el jueves 28 de noviembre son de hasta siete horas.](https://www.elcomercio.com/wp-content/uploads/2024/11/cortes-luz-guayaquil-jueves-28-noviembre.jpg)
+
+Los **cortes de luz** en **Guayaquil** este **jueves 28 de noviembre** de 2024 se mantienen con una duración de hasta siete horas no consecutivas, para el sector residencial.
+
+**CNEL** publicó los nuevos horarios de suspensión del servicio de energía eléctrica en la capital.
+
+### Más noticias:
+
+* [Ecuador lleva 60 días con cortes de luz, ¿está cerca de salir de la crisis?](https://www.elcomercio.com/actualidad/negocios/ecuador-lleva-60-dias-cortes-luz-esta-cerca-salir-crisis.html "Ecuador lleva 60 días con cortes de luz, ¿está cerca de salir de la crisis?")
+* [Energía de Colombia alivia crisis eléctrica en Ecuador, ¿en qué estado están los embalses?](https://www.elcomercio.com/actualidad/negocios/energia-colombia-crisis-electrica-ecuador-estado-embalses-cortes-luz.html "Energía de Colombia alivia crisis eléctrica en Ecuador, ¿en qué estado están los embalses?")
+
+Los horarios de cortes de luz en Guayaquil este jueves 28 de noviembre
+----------------------------------------------------------------------
+
+Hasta este **jueves 28 de noviembre**, CNEL definió los horarios de cortes de luz para esta semana.
+
+Los guayaquileños están a la expectativa de los **horarios** que corresponden al viernes 29, sábado 30 y domingo 1 de diciembre.
+
+Ecuador sigue atravesando una de las peores **crisis energéticas** en las últimas décadas.
+
+La dependencia de las lluvias para el funcionamiento de las **centrales hidroeléctricas** y la falta de proyectos de energías alternativas pusieron la capacidad de producción de energía al límite.
+
+El último ofrecimiento del presidente Daniel Noboa sobre los cortes de luz a escala nacional es que no existirán para **diciembre**.
+
+Y, en Quito, la suspensión de los cortes de luz el 6 de diciembre, por las fiestas de **fundación de la capital**.
+
+Sin embargo, la generación de energía, a través de otros proyectos de inversión del actual Gobierno, se concretaría desde los primeros meses del **2025**.
+
+En tanto, el Gobierno logró restablecer el intercambio de energía con **Colombia** y las primeras lluvias de intensidad media o alta empiezan a caer en el Austro.
+
+Mientras las condiciones mejoran, Quito sigue con cortes de luz de entre **seis y siete horas**, divididas en dos franjas horarias para el sector residencial.
+
+A continuación, los horarios de los **cortes de luz en Guayaquil este jueves 28 de noviembre**:
+
+Claudia Sheinbaum habló con Donald Trump sobre migración y aranceles
+====================================================================
+
+Claudia Sheinbaum insistió en que las caravanas migrantes "ya no llegan a la frontera".
+---------------------------------------------------------------------------------------
+
+![Claudia Sheinbaum en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/11/Claudia-Sheinbaum-efe.jpg)
+
+La presidenta de México, [Claudia Sheinbaum](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-pide-calma-mercados-ante-aranceles-propuestos-trump.html "https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-pide-calma-mercados-ante-aranceles-propuestos-trump.html"), habló este miércoles, 27 de noviembre de 2024, por teléfono con el mandatario electo de Estados Unidos, **Donald Trump**, sobre migración y fentanilo tras su amago de **imponer aranceles de 25 %** a todos los productos mexicanos.
+
+### Más noticias
+
+* [Claudia Sheinbaum pide ‘calma’ a los mercados ante aranceles propuestos por Donald Trump](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-pide-calma-mercados-ante-aranceles-propuestos-trump.html "Claudia Sheinbaum pide ‘calma’ a los mercados ante aranceles propuestos por Donald Trump")
+* [Donald Trump promete más aranceles sobre China y México](https://www.elcomercio.com/actualidad/mundo/donald-trump-promete-mas-aranceles-sobre-china-y-mexico.html "Donald Trump promete más aranceles sobre China y México")
+* [Donald Trump elije a Jamieson Greer como representante comercial](https://www.elcomercio.com/actualidad/mundo/donald-trump-elije-jamieson-greer-representante-comercial.html "Donald Trump elije a Jamieson Greer como representante comercial")
+
+“Tuve una excelente conversación con el presidente Donald Trump. Abordamos la **estrategia mexicana** sobre el fenómeno de la migración y compartí que no están llegando **caravanas a la frontera** norte porque son atendidas en México”, expuso la mandataria mexicana en sus redes sociales.
+
+La llamada ocurre después de que Trump anunció el lunes, 25 de noviembre de 2024, que una de sus primeras órdenes ejecutivas será imponer aranceles de 25 % a “todos los productos” de **México y Canadá**, hasta que se “detenga la invasión” de los migrantes ilegales y drogas, en particular el fentanilo.
+
+Donald Trump justificó los impuestos
+------------------------------------
+
+En su texto en la red Truth Social, el político republicano justificó los impuestos comerciales al argumentar que “en este momento una caravana **proveniente de México**, conformada por miles de personas, parece infrenable” por lo que hay ahora “una frontera abierta”.
+
+Pero en la conversación de este miércoles y en una carta enviada el martes, Sheinbaum insistió en que las caravanas migrantes **“ya no llegan a la frontera”**.
+
+Además, la gobernante mexicana destacó la cooperación que existe para el **combate al narcotráfico.**
+
+“También hablamos de reforzar la colaboración en temas de seguridad en el marco de nuestra soberanía y de la campaña que estamos realizando en el país para prevenir el consumo de fentanilo”, concluyó en su breve mensaje.
+
+Sheinbaum estuvo acompañada en la llamada por el canciller, **Juan Ramón de la Fuente**, quien “ya está en contacto” con el equipo de transición de Trump para buscar una reunión en la que el Gobierno mexicano exponga la importancia de preservar el **Tratado entre México, Estados Unidos y Canadá** (T-MEC).
+
+La charla sucedió el mismo día en el que la presidenta y las cámaras del sector privado presentaron un nuevo consejo empresarial como un frente unido para combatir los aranceles de Donald Trump.
+
+El secretario de Economía, Marcelo Ebrard, advirtió en la conferencia matutina del Gobierno de la potencial pérdida de **400 000 empleos en Estados Unidos** e inflación, como un incremento de 3.000 dólares en el precio de cada camioneta.
+
+Además, recordó que las importaciones totales en Estados Unidos representan el **12,7 % de su producto interior bruto (PIB)**, y que el intercambio comercial de los tres países de Norteamérica sumó 1 776,5 billones de dólares de enero a septiembre de 2024, el equivalente al 30 % de la economía mundial. 
+
+El Nacional regresa a la gloria 18 años después
+===============================================
+
+El Nacional volvió a gritar campeón en Ecuador, después de años difíciles. Uno de los equipos más históricos del país se consagró nuevamente.
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+![El Nacional volvió a levantar un título 18 años después.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-27T172357.387.jpg)
+
+**El** **Nacional**, uno de los clubes más grandes e históricos del fútbol ecuatoriano, **gritó campeón** este miércoles 27 de noviembre, en un día que será inolvidable para sus aficionados, especialmente para los más jóvenes.
+
+Los puros criollos se **consagraron campeones de la Copa Ecuador 2024**, al vencer 1-0 a Independiente del Valle en la final, disputada en el Estadio Rodrigo Paz Delgado. Este triunfo les devolvió la alegría a los hinchas, quienes coparon el estadio para apoyar a su equipo, que **celebró un título que les costó tanto recuperar.**
+
+### Más noticias:
+
+* [El Nacional venció a Independiente y es campeón de la Copa Ecuador](https://www.elcomercio.com/deportes/futbol/final-unica-copa-ecuador-resultado.html "El Nacional venció a Independiente y es campeón de la Copa Ecuador")
+* [El Nacional ganó la Copa Ecuador 1970 con solo dos partidos](https://www.elcomercio.com/deportes/futbol/el-nacional-campeon-copa-ecuador1970.html "El Nacional ganó la Copa Ecuador 1970 con solo dos partidos")
+* [IDV y El Nacional definen la Copa Ecuador, ¿a qué hora juegan?](https://www.elcomercio.com/deportes/futbol/final-copa-ecuador-horario-dia.html "IDV y El Nacional definen la Copa Ecuador, ¿a qué hora juegan?")
+
+18 años después, El Nacional vuelve a ser campeón
+-------------------------------------------------
+
+A menos de un mes de **que se cumplan 18 años desde su último título**, El Nacional, el único equipo “Bi-Tri” del país, volvió a alzarse con la gloria.
+
+Los capitalinos **lograron su primer título en casi dos décadas**, después de haber pasado por años de sufrimiento y altibajos. Su última conquista había sido en 2006, cuando ganaron el campeonato ecuatoriano, con figuras como Christian Benítez (+), Cristian Lara, entre otros. Desde entonces, la hinchada vivió momentos difíciles.
+
+Uno de los **puntos más bajos fue en 2019**, cuando el club estuvo al borde del descenso. Aunque no jugó en la **Serie B** debido a un cambio en el formato, el pésimo rendimiento los llevó nuevamente a puestos de descenso, y finalmente, en 2020, descendieron a la segunda división.
+
+En **2021 estuvieron cerca de ascende**r, pero un resultado negativo en la última fecha les impidió lograrlo. Sin embargo, no dejaron de luchar, y en 2022 consiguieron el ascenso como campeones.
+
+Dos años después de ese sufrimiento, en 2024, **El Nacional volvió a levantar un título.** Un trofeo que será el primero para muchas nuevas generaciones de hinchas, quienes apenas guardan recuerdos de los títulos de 2005 y 2006.
+
+El único bicampeón de la Copa Ecuador
+-------------------------------------
+
+Con este título, **El Nacional se convirtió en el primer equipo en ganar dos veces la Copa Ecuador**, consolidándose como el club más exitoso en la historia de la competencia organizada por la Federación Ecuatoriana de Fútbol (FEF).
+
+El Nacional había ganado la **primera edición del torneo en 1970,** aunque esa edición fue polémica, ya que dos de los equipos participantes se retiraron a mitad de campeonato. Sin embargo, en 2024, el club demostró que no fue casualidad lo logrado hace más de 50 años.
+
+El camino al título no fue fácil. En cuartos de final, vencieron a su clásico rival, **Liga de Quito**, por penales en su propio estadio. En semifinales, superaron a Mushuc Runa, dirigido por Ever Hugo Almeida, el último entrenador que los llevó a un campeonato en 2006.
+
+Y en la final, enfrentaron al mejor equipo de Ecuador, Independiente del Valle, y con un gol de Gabriel Cortez, se consagraron como los **primeros bicampeones de la Copa Ecuador.**
+
+Corte Constitucional da paso a propuesta sobre financiamiento público a organizaciones políticas
+================================================================================================
+
+Daniel Noboa firmó decreto que da paso para que Asamblea trate la reforma que elimina el financiamiento estatal a organizaciones políticas.
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+![Corte Constitucional tomó una decisión sobre el financiamiento público a organizaciones políticas.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-33-2.jpg)
+
+La **Corte Constitucional** aprobó un dictamen clave que permite el debate sobre la eliminación del financiamiento público para **partidos y movimientos políticos**. La resolución, emitida el 28 de octubre de 2024, contó con el respaldo de **cinco jueces constitucionales**, mientras que **cuatro salvaron su voto**.
+
+### Más noticias
+
+* [Suspensión de Verónica Abad a consulta de la Corte Constitucional](https://www.elcomercio.com/actualidad/politica/suspension-de-veronica-abad-a-consulta-de-la-corte-constitucional.html "Suspensión de Verónica Abad a consulta de la Corte Constitucional")
+* [Corte Constitucional declara inconstitucional una parte del estado de excepción](https://www.elcomercio.com/actualidad/politica/corte-constitucional-declara-inconstitucionales-parte-estado-excepcion.html "Corte Constitucional declara inconstitucional una parte del estado de excepción")
+* [¿Qué función tienen los nuevos veedores de la renovación de la Corte Constitucional?](https://www.elcomercio.com/actualidad/politica/que-funcion-tienen-nuevos-veedores-renovacion-corte-constitucional.html "¿Qué función tienen los nuevos veedores de la renovación de la Corte Constitucional?")
+
+La jueza ponente, **Karla Andrade Quevedo**, presentó el dictamen que habilita al Presidente de la República a proponer **reformas constitucionales en esta materia**.
+
+En la resolución, se declaró que el procedimiento de reforma parcial es apto para tramitar las modificaciones propuestas, lo que implica que la **Asamblea Nacional** deberá tramitar la reforma.
+
+De ser aprobada, se someterá a referéndum, cumpliendo con los artículos pertinentes de la **Constitución y la Ley Orgánica de Garantías Jurisdiccionales y Control Constitucional**.
+
+Debate sobre financiamiento público
+-----------------------------------
+
+El financiamiento público a partidos y movimientos políticos generó controversia. Actualmente, la normativa establece que estas **organizaciones reciben asignaciones del Estado** sujetas a control. La reforma busca eliminar estas **asignaciones y depender únicamente de aportes de afiliados y simpatizantes**.
+
+Defensores de la reforma argumentan que eliminar el **financiamiento público** fortalecerá la autonomía de los partidos políticos. Sin embargo, críticos advierten que esta medida podría debilitar a pequeños movimientos, limitando la **participación democrática**.
+
+Sanciones y control electoral
+-----------------------------
+
+Otro aspecto importante del dictamen es la propuesta de **endurecer el control** sobre los recursos utilizados en **campañas electorales**. Esto incluye sanciones claras para quienes incumplan las normas relacionadas con propaganda y **gasto electoral**. También se prohíbe la publicidad gubernamental durante los procesos electorales.
+
+> Corte Constitucional hace dictamen de vía👆🏻y con las justas (5 vs.4 votos) señala que reforma a la Constitución es correcta para eliminación del fondo partidista que entregaba asignaciones del Estado💡Corresponde ahora la Asamblea tratarlo y aprobarlo previo a referéndum👆🏻 [pic.twitter.com/mLtgCFoy35](https://t.co/mLtgCFoy35)
+> 
+> — José Chalco-Salgado (@jchalco) [November 27, 2024](https://twitter.com/jchalco/status/1861866673310990554?ref_src=twsrc%5Etfw)
+
+La Corte Constitucional dejó en claro que los medios de comunicación deben garantizar equidad en la promoción electoral. Este punto ha generado debate sobre la responsabilidad de los medios y el impacto en la transparencia del proceso electoral.
+
+Gobierno respalda la reforma parcial constitucional
+---------------------------------------------------
+
+El **Gobierno** expresó su apoyo a la decisión de la **Corte Constitucional** que permite debatir la eliminación del financiamiento estatal a **organizaciones políticas**.
+
+Según un comunicado oficial del 27 de noviembre de 2024, se busca evitar el **mal uso de recursos públicos destinados a candidatos y partidos**. Estas asignaciones, históricamente cuestionadas, han sostenido estructuras políticas poco transparentes.
+
+> 🔵 A la ciudadanía: [pic.twitter.com/VUVAR3w0wJ](https://t.co/VUVAR3w0wJ)
+> 
+> — Ministerio de Gobierno Ecuador (@MinGobiernoEc) [November 27, 2024](https://twitter.com/MinGobiernoEc/status/1861873185873916343?ref_src=twsrc%5Etfw)
+
+Daniel Noboa firmó el decreto sobre financiamiento de campañas políticas
+------------------------------------------------------------------------
+
+A través del **Decreto Ejecutivo 467**, el presidente Daniel Noboa remitió a la Asamblea Nacional el proyecto de reforma parcial a la Constitución para que lo tramite de conformidad a lo dispuesto en la Constitución y la Ley.
+
+En el artículo 2, el Decreto dispone notificar a la **Asamblea** con el proyecto de reforma parcial constitucional para que continúe con el trámite previsto en el artículo 442 de la Constitución.
+
+En el siguiente artículo, Noboa exhorta a la Asamblea a tramitar el proyecto “con **responsabilidad** y en sintonía con las necesidades de la ciudadanía”.
+
+Si la Asamblea lo aprueba, el proyecto **pasará a referéndum** para que los ecuatorianos tomen la decisión final.
+
+Los fondos que hoy reciben los partidos políticos se destinarán a sectores prioritarios como salud, educación y seguridad.
+
+Gabriel Cortez, héroe ‘militar’ y goleador de la Copa Ecuador
+=============================================================
+
+Gabriel Cortez se formó en Independiente del Valle y en el 2024 fue su verdugo en la Copa Ecuador.
+--------------------------------------------------------------------------------------------------
+
+![Gabriel Cortez es el goleador histórico de la Copa Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/cortez_goleador_1.jpg)
+
+**Gabriel Cortez** fue determinante para que El Nacional gane el título de la Copa Ecuador 2024. En la final disputada este miércoles 27 de noviembre fue el autor del 1-0 sobre Independiente del Valle.
+
+Más de 25 000 hinchas de El Nacional llenaron gran parte del Rodrigo Paz Delgado y **gritaron a todo pulmón el gol de Gabriel Cortez** al final del primer tiempo. Su remate pasó en medio de la piernas de un derrotado Moisés Ramírez.
+
+### Más noticias:
+
+* [Keny Arroyo, mejor jugador de la fecha 14 de la Liga Pro](https://www.elcomercio.com/deportes/futbol/keny-arroyo-independiente-valle-ligapro.html "Keny Arroyo, mejor jugador de la fecha 14 de la Liga Pro")
+* [Paúl Vélez, el DT ecuatoriano con más puntos en 2024](https://www.elcomercio.com/deportes/futbol/paul-velez-puntos-liga-pro.html "Paúl Vélez, el DT ecuatoriano con más puntos en 2024")
+* [Liga de Quito ya tiene fecha y hora para audiencia de apelación](https://www.elcomercio.com/deportes/futbol/liga-de-quito-tiene-fecha-hora-audiencia-apelacion.html "Liga de Quito ya tiene fecha y hora para audiencia de apelación")
+
+El ‘Loco’ Cortez salió a festejar el gol con sus compañeros y los miles de hinchas de los rojos celebraron a rabiar el tanto en las gradas, que abrió la puerta para creer que conseguir un nuevo título era posible.
+
+La última **corona de los ‘militares’ fue en el torneo local de 2006**. El 17 de diciembre de ese año empataron 0-0 ante Olmedo en el Olímpico de Ibarra y bordaron la estrella 13 en su glorioso y pesado escudo.
+
+Desde 2006 a 2024 mucha agua corrió debajo del puente de los ‘Puros Criollos’. La más dramática la vivieron en al **cierre de la 2020 con el descenso a la Serie B**, pero en el 2023 regresaron a la máxima categoría del fútbol de Ecuador.
+
+El 2024 no ha sido del todo fácil. En medio de problemas económicos han afrontado una temporada que está terminando con el título de la Copa Ecuador y con la clasificación a la Copa Libertadores de 2025.
+
+En medio de ese panorama surgió la figura del ‘Loco’, que llegó **como refuerzo para la segunda mitad del año**, una vez que fue desechado por el argentino Ariel Holan, entrenador de Barcelona SC que nunca lo tuvo en cuenta.
+
+![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/11/cortez_goleador_2-1024x683.jpg)
+
+Foto: API.
+
+Gabriel Cortez, el goleador de la Copa Ecuador
+----------------------------------------------
+
+Gabriel Cortez no solo es una de las figuras de El Nacional en la Copa Ecuador, **sino que es el goleador histórico de la competencia**.
+
+**Cortez anotó nueve 10 goles**. En el 2019 la jugó con Emelec, en el 2022 con 9 de Octubre y en el 2024 con El Nacional. En total según Transfermarkt, lleva jugados 16 encuentros en la Copa Ecuador.
+
+Con el ‘Bombillo’ anotó dos tantos en cuatro partidos; con los octubrinos seis en siete juegos; y con los capitalinos tres en cinco compromisos.
+
+El podio de los goleadores se completa con **Edinson Mero, actualmente en Guayaquil City**; y José Lugo, delantero de Cuniburo, que tiene siete tantos cada uno.
+
+Cortez nació en **Esmeraldas el 10 de octubre de 1995. Se formó en Independiente del Valle** en donde debutó en el 2012 como una de las primeras promesas de una de las canteras más prodigiosas del mundo.
+
+En 2018 vivió su primera experiencia internacional en Lobos BUAP de México. Para el 2019 regresó a Ecuador para jugar en Emelec, **pero en el 2020 se volvió a marchar para defender la camiseta** del Botafogo de Brasil, en el primer semestre, y en el segundo de Guayaquil City.
+
+Del 2021 al 2024 su carrera se alternó entre **Barcelona SC, 9 de Octubre y finalmente El Nacional**.
+
+La Copa Ecuador es el primer título en la carrera del mediocampista de 29 años de edad.
+
+San viernes
+-----------
+
+Los dinosaurios sonaban diferente a ‘Jurassic Park’ y la ciencia lo explica 
+============================================================================
+
+Los dinosaurios no rugían como en 'Jurassic Park'. La ciencia revela sus verdaderos sonidos.
+--------------------------------------------------------------------------------------------
+
+![Los dinosaurios probablemente no rugían como creemos. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/11/Jurassic-Park-sonidos-dinosaurios.jpg)
+
+Desde su estreno en 1993, **‘Jurassic Park’** ha dejado una huella en la **cultura popular**. Sin embargo, la **representación de los dinosaurios** en la película ha llevado a una percepción errónea sobre **cómo realmente sonaban** estos gigantes prehistóricos. ¿Cuál es la ciencia sobre los sonidos de los dinosaurios? 
+
+### Más noticias
+
+* [Los dinosaurios ‘raptores’ vivieron 10 millones de años antes, según investigación](https://www.elcomercio.com/tendencias/ciencia/dinosaurios-raptores-vivieron-antes-investigacion.html "https://www.elcomercio.com/tendencias/ciencia/dinosaurios-raptores-vivieron-antes-investigacion.html")
+* [‘Jurassic World: Dominion’ será el título del nuevo filme de la saga jurásica](https://www.elcomercio.com/tendencias/entretenimiento/jurassic-world-filme-saga-jurasica.html "https://www.elcomercio.com/tendencias/entretenimiento/jurassic-world-filme-saga-jurasica.html")
+
+**La creación de los sonidos en ‘Jurassic Park’** 
+--------------------------------------------------
+
+El desafío de **recrear los sonidos de los dinosaurios** fue monumental. **Gary Rydstrom**, diseñador de sonido de la película, utilizó una mezcla ingeniosa de **grabaciones de animales vivos** para dar vida a los rugidos y gritos que resonarían en la pantalla. Por ejemplo, el icónico rugido del **Tyrannosaurus rex** fue creado combinando el sonido de un **koala, un tigre y un elefante bebé**, según [Univisión](https://www.univision.com/entretenimiento/cine-y-series/pelicula-jurassic-park-rugidos-t-rex-sonidos-koalas "https://www.univision.com/entretenimiento/cine-y-series/pelicula-jurassic-park-rugidos-t-rex-sonidos-koalas"). 
+
+Esta mezcla no solo **buscaba ser aterradora**, sino también memorable. Rydstrom pasó meses en la búsqueda de **sonidos inusuales en la naturaleza**. La clave estaba en **ajustar las frecuencias** para lograr un efecto impactante. Así, el **rugido del T-Rex** se convirtió en uno de los más reconocibles del cine, pero poco tiene que ver con lo que realmente pudo haber sonado, siguiendo con Univisión. 
+
+**La ciencia detrás de los sonidos** 
+-------------------------------------
+
+**Investigaciones recientes** han revelado que los dinosaurios probablemente **no emitían los rugidos espectaculares** que hemos llegado a asociar con ellos. Según la paleontóloga **Julia Clarke**, los dinosaurios carnívoros como el **T-Rex** probablemente hacían **vocalizaciones cortas y profundas**, posiblemente inaudibles para el oído humano, según informa [Hipertextual](https://hipertextual.com/2020/10/sonidos-dinosaurios "https://hipertextual.com/2020/10/sonidos-dinosaurios").  
+
+Esto se debe a que **emitir sonidos fuertes** durante la caza sería contraproducente, al alertar a sus presas. Los estudios sugieren que muchos dinosaurios podrían haber utilizado un **rango vocal más bajo** y sutil para comunicarse. Esto contrasta drásticamente con las **representaciones cinematográficas** que muestran a estos animales como criaturas ruidosas y agresivas. En realidad, su comportamiento podría haber sido mucho más **silencioso y calculador**, a decir de Hipertextual.  
+
+**Comparación entre realidad y ficción** 
 -----------------------------------------
 
-El anuncio llega no solo a días de conocerse los pedidos de **traslado del líder** de un grupo vinculado al narcotráfico sino también poco después de difundirse otro caso.
+A continuación, se presenta **una tabla que compara** algunos de los sonidos ficticios más conocidos con lo que se cree que podrían haber sido en realidad. 
 
-Esta vez de **un preso** en una cárcel de Córdoba que **trasladaron a un pabellón de mujeres** tras argumentar un cambio de género. Luego del cambio, se lo acusó de haber abusado a una compañera de celda.
+![Foto: Captura de pantalla.](https://www.elcomercio.com/wp-content/uploads/2024/11/Jurassic-Park-sonidos-dinosaurios-1-1024x683.jpg)
 
-Por otra parte, Milei expresó su **apoyo irrestricto a las fuerzas de seguridad**, que dijo “quedaron desamparadas por un Estado que se cansó de ningunearlas”.
+Foto: Captura de pantalla.
 
-“El Estado tiene que **proteger a las víctimas y castigar a los victimarios**, no proteger a los victimarios y castigar a las víctimas”, añadió. Además, enfatizó que **“los buenos son los de azul** (la Policía)” y “los malos son los [delincuentes](https://es.wikipedia.org/wiki/Javier_Milei "https://es.wikipedia.org/wiki/Javier_Milei")“.
+Esta tabla ilustra cómo las interpretaciones cinematográficas han **distorsionado nuestra percepción** sobre cómo podrían haber sonado realmente estos animales. 
 
-> 🇦🇷 | ÚLTIMA HORA  
->   
-> Javier Milei ([@JMilei](https://twitter.com/JMilei?ref_src=twsrc%5Etfw)) anuncia la prohibición del cambio de sexo para prisioneros: “Con nosotros esta estupidez se termina. Los delincuentes no podrán cambiar de penal escudándose en la identidad de género”.  
-> [pic.twitter.com/C09GdoRYjD](https://t.co/C09GdoRYjD)
+**Los dinosaurios en la cultura pop** 
+--------------------------------------
+
+La influencia de **‘Jurassic Park’** ha sido tan profunda que ha moldeado no solo nuestra percepción de los dinosaurios, sino también nuestra **cultura popular**. Los rugidos y gritos han sido **imitados en otras películas**, programas de televisión y videojuegos. Sin embargo, esta representación ha llevado a generaciones a creer en **una imagen distorsionada** de estos animales prehistóricos. Los documentales y programas educativos han comenzado a **corregir esta narrativa**. Con avances en la **paleontología y tecnología acústica**, ahora es posible hacer inferencias más precisas sobre cómo podrían haberse comunicado estos seres extintos, concluye Hipertextual.  
+
+Asamblea Nacional rechazó proyecto de ley económica urgente
+===========================================================
+
+La Asamblea Nacional archivó un proyecto económico urgente, rechazando nuevos impuestos.
+----------------------------------------------------------------------------------------
+
+![Asamblea Nacional aprobó archivar el proyecto de ley económica urgente.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-65-1.jpg)
+
+Con 84 votos, la Asamblea Nacional **rechazó y archivó el proyecto de Ley Orgánica para la Mejora Recaudatoria mediante el Combate al Lavado de Activos**. Esta propuesta, presentada con carácter **económico urgente**, buscaba generar cambios que fueron ampliamente cuestionados por los legisladores.
+
+### Más noticias
+
+* [Asamblea Nacional aprobó avance del proyecto de alivio financiero a segundo debate](https://www.elcomercio.com/actualidad/politica/asamblea-nacional-aprueba-avance-proyecto-alivio-financiero-segundo-debate.html "Asamblea Nacional aprobó avance del proyecto de alivio financiero a segundo debate")
+* [Asamblea Nacional tomó una decisión sobre el juicio político contra Andrea Arrobo](https://www.elcomercio.com/actualidad/politica/asamblea-nacional-tomo-decision-juicio-politico-andrea-arrobo.html "Asamblea Nacional tomó una decisión sobre el juicio político contra Andrea Arrobo")
+* [Asamblea aplazó debate sobre el Código Orgánico de Protección Integral a Niñas, Niños y Adolescentes](https://www.elcomercio.com/actualidad/politica/asamblea-aplazo-debate-codigo-organico-proteccion-integral-ninos-adolescentes.html "Asamblea aplazó debate sobre el Código Orgánico de Protección Integral a Niñas, Niños y Adolescentes")
+
+En reiteradas declaraciones, la presidenta del órgano legislativo, **Viviana Veloz**, destacó el compromiso de la Asamblea con las **familias ecuatorianas**. Aseguró que no se permitirán nuevas cargas tributarias para la clase trabajadora.
+
+“Estamos aquí para proteger los **bolsillos de los ecuatorianos**, especialmente de los más vulnerables”, afirmó durante una intervención reciente.
+
+> [#ComunicadoAsamblea](https://twitter.com/hashtag/ComunicadoAsamblea?src=hash&ref_src=twsrc%5Etfw) | Asamblea Nacional del Ecuador negó y archivó proyecto de ley para la Mejora Recaudatoria, a través del Combate al Lavado de Activos, calificado como urgente en materia económica.[#JuntosLegislamos](https://twitter.com/hashtag/JuntosLegislamos?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/07dxz2nbb7](https://t.co/07dxz2nbb7)
 > 
-> — UHN PLUS (@UHN\_Plus) [November 26, 2024](https://twitter.com/UHN_Plus/status/1861490847834869783?ref_src=twsrc%5Etfw)
+> — Asamblea Nacional (@AsambleaEcuador) [November 27, 2024](https://twitter.com/AsambleaEcuador/status/1861876387386142859?ref_src=twsrc%5Etfw)
 
-(En vivo) Independiente vs. El Nacional pugnan por la Copa Ecuador
+Debate legislativo y cuestionamientos al proyecto
+-------------------------------------------------
+
+El **27 de noviembre**, durante el primer debate del proyecto, varios asambleístas **expresaron que la propuesta no ofrecía estrategias efectivas** para combatir el lavado de activos. Entre los argumentos principales, señalaron que el verdadero objetivo de la iniciativa era **imponer más impuestos** a los ciudadanos.
+
+Las críticas se centraron en los efectos negativos que la **medida podría tener sobre los sectores de ingresos medios y bajos,** quienes ya enfrentan una situación económica complicada. Este impacto, según los legisladores, agravaría aún más las **desigualdades sociales en el país**.
+
+Razones detrás de la negación y archivo
+---------------------------------------
+
+La moción para archivar la propuesta fue liderada por el legislador Jorge Peñafiel, quien resaltó que el proyecto carecía de una **planificación técnica adecuada**. Según Peñafiel, su implementación representaría una reubicación de recursos que afectaría directamente a la **calidad de vida de la ciudadanía**.
+
+“El mensaje es claro: **no permitiremos más impuestos** que perjudiquen a los sectores vulnerables”, subrayó tras la votación.
+
+El Nacional venció a Independiente y es campeón de la Copa Ecuador
 ==================================================================
 
 Independiente del Valle y El Nacional jugarán la final de la Copa Ecuador 2024.
 -------------------------------------------------------------------------------
 
-![Imagen de archivo de un partido de Independiente del Valle y El Nacional en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/final_copa_1.jpg)
+![Gabriel Cortez celebra el gol del título de El Nacional en la Copa Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/final_copa_6.jpg)
 
-**Independiente del Valle y El Nacional** se enfrentan en la final única de la Copa Ecuador. El juego está programado para este miércoles 27 de noviembre de 2024, desde las 15:00.
+El Nacional se proclamó como el nuevo campeón de la Copa Ecuador al vencer por 1-0 a Independiente del Valle con un solitario gol de Gabriel ‘Loco’ Cortez, la tarde de este miércoles 27 de noviembre de 2024.
 
-La final de la Copa Ecuador entre Independiente del Valle y El Nacional se jugará en el estadio Rodrigo Paz Delgado. **Se estima que cerca de 20 000 hinchas**, en su mayoría de los rojos, lleguen hasta el escenario ubicado al norte de la capital ecuatoriano.
+La final de la Copa Ecuador entre Independiente del Valle y El Nacional se jugó en el estadio Rodrigo Paz Delgado. **Más de 25 000 hinchas**, en su mayoría de los rojos, llegaron hasta el escenario ubicado al norte de la capital ecuatoriana.
 
 ### Más noticias:
 
@@ -162,13 +819,98 @@ La final de la Copa Ecuador entre Independiente del Valle y El Nacional se jugar
 * [Javier Mascherano, nuevo entrenador del Inter Miami](https://www.elcomercio.com/deportes/futbol/javier-mascherano-dt-inter-miami.html "Javier Mascherano, nuevo entrenador del Inter Miami")
 * [Esther Galarza correrá en Europa con Pato Bike BMC Team](https://www.elcomercio.com/deportes/esther-galarza-historia-vuelta-femenina-ecuador-europa.html "Esther Galarza correrá en Europa con Pato Bike BMC Team")
 
-El campeón de la **Copa Ecuador ganará un premio económico de 340 000 dólares**. En lo deportivo, el ‘Nacho’ se hizo acreedor al cuarto cupo del país para la Copa Libertadores 2025, donde arrancará desde la fase uno de eliminación.
+El campeón de la **Copa Ecuador ganó un premio económico de 340 000 dólares**. En lo deportivo, el ‘Nacho’ se hizo acreedor al cuarto cupo del país para la Copa Libertadores 2025, donde arrancará desde la fase uno de eliminación.
 
-El corto palmarés de la Copa Ecuador tiene a El Nacional como el primer campeón en 1970. **En 2019 la corona recayó en manos de Liga de Quito**, y en el 2022 de Independiente del Valle.
+El corto palmarés de la Copa Ecuador tiene a El Nacional como el primer campeón en 1970. **En 2019 la corona recayó en manos de Liga de Quito**, en el 2022 en Independiente del Valle y en el 2024 regresa a los ‘Puros Criollos’.
 
 El IDV ganó su último trofeo en el 2023. Derrotó en la **final única de la Supercopa Ecuador a Aucas** por un marcador de 3-0. El compromiso se realizó en el estadio La Cocha de Latacunga.
 
-La espera de los rojos por una consagración es más larga. La última vez fue en el campeonato nacional de 2006. El **entrenador en esa ocasión fue Éver Hugo Almeida**, actualmente en el Mushuc Runa de la provincia del Tungurahua.
+La espera de los rojos por una consagración fue larga. La última vez fue campeón en el torneo nacional de 2006. El **entrenador en esa ocasión fue Éver Hugo Almeida**, actualmente en el Mushuc Runa de la provincia del Tungurahua.
+
+En vivo: IDV vs. El Nacional
+----------------------------
+
+* Los equipos saltan a la cancha. Independiente con camiseta rosada y El Nacional con la azul.
+* Se entonan las notas del Himno de Ecuador.
+* Yerson Zambrano es el árbitro central. Roddy Zambrano está a cargo del VAR.
+* Ceca de 20 000 personas en el estadio, en su mayoría de los ‘Puros criollos’.
+* Richard Schunke (IDV) y David Cabezas (EN) los capitanes de los finalistas.
+
+### Primer tiempo
+
+1′: Arranca el partido en el Rodrigo Paz Delgado.
+
+3′: Primeros minutos de estudio. No existe opciones de gol sobre ninguna de las porterías.
+
+7′: Un partido de mediocampo. Pocos acercamientos a los arcos.
+
+9′: Primera jugada de peligro de El Nacional. Jorge Ordóñez remata con su cabeza un tiro de esquina, pero Gabriel Cortez se interpuso en posición adelantada.
+
+10′: Responde IDV. Una jugada desde un tiro de esquina es rechazada en extremo por la defensa de los rojos.
+
+13′: IDV domina las acciones. El balón está en su posesión y poco a poco genera más opciones de gol.
+
+15′: Un error de Moisés Ramírez por poco termina en gol del ‘Nacho’.
+
+16′: Por poco gol olímpico de Cortez. Su remate pegó en el vertical izquierdo del arco de Ramírez.
+
+20′: El Nacional acecha a los ‘rayados’ y le genera más de un dolor de cabeza.
+
+24′: Se lo pierde Keny Arroyo. Un contragolpe termina en un remate desviado del joven mediocampista ecuatoriano de Independiente.
+
+26′: Tarjeta amarilla para Fernando Mora, jugador de El Nacional.
+
+30′: Arroyo es el jugador más dinámico de IDV. Un remate suyo sale cerca del arco militar.
+
+33′: Se salva IDV. Luis Arce solo frente a Ramírez envía su remate al cuerpo del arquero guayaquileño.
+
+37′: Nuevo contragolpe de IDV. Daniel Patiño salva un remate de Yaimar Medina de los rayados.
+
+43′: Goooooooooooooooool de El Nacional. Gabriel Cortez abre el marcador y anota el 0-1 con un remate que pasa entre las piernas de Ramírez.
+
+45′: El árbitro añade dos minutos de adición.
+
+45+2′: Finaliza el PT. El Nacional gana 1-0 a Independiente del Valle.
+
+![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/11/final_copa_3-1024x683.jpg)
+
+Foto: API.
+
+### Segundo tiempo:
+
+45′: Arranca el ST en el Rodrigo Paz Delgado.
+
+45′: Cambios en IDV: salen Carabajal y García para que ingresen Michael Hoyos y Luis Zárate.
+
+46′: Tarjeta amarilla para Luis Arce por una fuerte falta sobre Yaimar Medina.
+
+52′: IDV se acerca con un golpe de cabeza de Michael Hoyos.
+
+60′: Arroyo sigue siendo el jugador más peligroso de IDV. Un nuevo remate muere en las manos de David Cabezas.
+
+63′: Remate de Renato Ibarra por poco termina en en el empate 1-1, pero Cabezas contiene el esférico y Bedoya lo saca al tiro de esquina.
+
+64′: Tarjeta amarilla para Cortez por reclamos al juez central.
+
+65′: Cabezazo de Luis Zárate sale cerca del arco de Cabezas.
+
+65′: Cambio en IDV: Sale Joao Ortiz para que ingrese Kendry Páez.
+
+71′: Tarjeta amarilla para Zárate de IDV.
+
+76′: Cambios en IDV: ingresan Justin Lerma y Romario Ibarra por Arroyo y Renato Ibarra.
+
+78′: Cambios en El Nacional: Salen Fernando Mora y Alejandro Cabeza por Mario Pineida y Charles Vélez.
+
+82′: Cambio en El Nacional: Sale Gabriel Cortez para que ingrese Gustavo Asprilla.
+
+87′: Por poco empata IDV. Zárate se pierde el 1-1.
+
+90′: Se adicionan seis minutos.
+
+92+2′: El Nacional cerca del 2-0. Ramírez desvía el balón al tiro de esquina.
+
+90+6′: Final del partido. El Nacional ganó 1-0 y es el nuevo campeón de la Copa Ecuador.
 
 Alineación Independiente del Valle
 ----------------------------------
@@ -184,872 +926,194 @@ David Cabezas; Daniel Patiño, Rommel Cabezas, Antonhy Bedoya y Fernando Mora; A
 
 DT: Marcelo Zuleta.
 
-San viernes
------------
+![Bryan García (i) y Adrián Cela en la final de la Copa Ecuador 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/final_copa_2-1024x683.jpg)
 
-Video muestra el momento en que un hombre se baja de una montaña rusa en movimiento
-===================================================================================
-
-El hombre escuchó cuando el mecanismo de sujeción del asiento se desbloqueó
----------------------------------------------------------------------------
-
-![Momento en que ocurre el incidente de la montaña rusa en Arizona.](https://www.elcomercio.com/wp-content/uploads/2024/11/montana-rusa-El-Comercio.jpg)
-
-Un **impactante video** que circula en **redes sociales** muestra a un hombre saltando de una montaña rusa en pleno movimiento en el parque Castles N’ Coasters, ubicado en Phoenix, Arizona (Estados Unidos). El incidente ocurrió el domingo 24 de noviembre de 2024, **cuando la barra de seguridad del asiento del hombre se desbloqueó poco antes de que el vehículo descendiera en picada.**
-
-El hombre, quien celebraba el cumpleaños de su sobrina en el parque, decidió montar la atracción conocida como “**Desert Storm**”. Esta montaña rusa es conocida por sus emocionantes bucles que dejan a los pasajeros completamente cabeza abajo. 
-
-Según contó a ‘NBC’, fue al inicio del recorrido cuando identificó el problema con la barra de seguridad. **“Empezamos a subir y se oye el clic de la cadena, el sonido normal de una montaña rusa”**, relató. 
-
-Sin embargo, poco después escuchó un sonido diferente. “Llegamos casi a la cima y escuché un clic diferente al sonido de la cadena que nos levantaba, así que revisé mi barra de seguridad una vez más y se desbloqueó”.
-
-El hombre reaccionó en segundos
--------------------------------
-
-> WATCH: Terrifying moments at a Phoenix amusement park caught on camera as a rider's safety harness disengages and he has only moments to jump off. [@NicoleK\_Fox10](https://twitter.com/NicoleK_Fox10?ref_src=twsrc%5Etfw) has the exclusive story tonight at 9.[@FOX10Phoenix](https://twitter.com/FOX10Phoenix?ref_src=twsrc%5Etfw) [pic.twitter.com/Nna7e9LGJ0](https://t.co/Nna7e9LGJ0)
-> 
-> — Trenton Hooker (@trentonhooker) [November 25, 2024](https://twitter.com/trentonhooker/status/1860889761793061047?ref_src=twsrc%5Etfw)
-
-Con apenas segundos para reaccionar, el hombre tomó la decisión de bajarse de la atracción y subir a la pasarela de emergencia. Según sus palabras, esta acción fue clave para evitar un desenlace fatal. 
-
-**“Solo tuve unos segundos para decidir si me quedaba en el carro o me iba”**, explicó. El hombre recordó que había escuchado un clic inusual en la barra de seguridad antes de que comenzara el viaje, pero el operador de la atracción no realizó una inspección física para verificar que todo estuviera correctamente asegurado.
-
-El operador, según informó el hombre a ‘KPNX’, no notó lo que había sucedido hasta que él ya estaba a salvo en tierra firme. “Ella debería haber estado monitoreando ese carro, y cuando me vio salir, debería haber activado una liberación de emergencia, debería haber hecho algo”, declaró.
-
-Otro episodio registrado en una atracción mecánica en México
-------------------------------------------------------------
-
-> 🇲🇽⛈ Terror en las alturas  
->   
-> Visitantes de Six Flags en la Ciudad de México vivieron momentos de pánico cuando una tormenta obligó a detener las atracciones. Un video muestra a algunos asistentes atrapados a más de 70 metros del suelo, en medio de la lluvia y la densa niebla. [pic.twitter.com/yGsBQXdsAl](https://t.co/yGsBQXdsAl)
-> 
-> — Sputnik Mundo (@SputnikMundo) [August 22, 2024](https://twitter.com/SputnikMundo/status/1826485701535527303?ref_src=twsrc%5Etfw)
-
-Un susto monumental vivieron los visitantes de **Six Flags México** el domingo 18 de agosto de 2024, cuando la atracción conocida como ‘Supergirl’, **una de las más altas del parque, quedó varada a 74 metros de altura debido a una fuerte tormenta que azotó la Ciudad de México.**
-
-El incidente ocurrió en medio de lluvias torrenciales que afectaron las inmediaciones de la alcaldía de Tlalpan, al sur de la capital. En redes sociales, un video que registró el momento mostró cómo los asientos de la atracción se movían bruscamente por la intensa brisa, generando preocupación entre los atrapados.
-
-En las imágenes, capturadas por uno de los visitantes, se aprecia el cielo completamente nublado y las violentas ráfagas de viento que azotaban la estructura. Esto incrementó el temor de quienes permanecían suspendidos en las alturas, mientras el personal del parque intentaba solucionar la situación. La interrupción del juego mecánico hizo que los usuarios esperaran varios minutos antes de ser rescatados de manera segura, lo que intensificó la sensación de angustia.
-
-Chill Guy, la nueva sensación viral de Internet. Te contamos su historia 
-=========================================================================
-
-Chill Guy, el meme que combina calma, humor y controversia.
------------------------------------------------------------
-
-![Chill Guy fue creado por el artista Phillip Banks. Foto: Instagram @philbbankss.](https://www.elcomercio.com/wp-content/uploads/2024/11/Chill-Guy.jpg)
-
-La imagen de un **perro antropomórfico**, conocido como **‘Chill Guy’ o Tío ‘Tranquilo’**, ha capturado la atención de millones en las **redes sociales**. Este meme se ha convertido en un **símbolo de calma** y despreocupación en un mundo lleno de estrés y ansiedad.  
-
-### Más noticias
-
-* [El emotivo homenaje al Sr. Miyagi que conmueve a los fans de ‘Cobra Kai’](https://www.elcomercio.com/afull/cobra-kai-sr-miyagi-homenaje-netflix.html "https://www.elcomercio.com/afull/cobra-kai-sr-miyagi-homenaje-netflix.html") 
-* [El mayor temor del tío Jesse se volvió realidad por una razón que no creerías](https://elcomercio.com/afull/tio-jesse-full-house-john-stamos.html "https://elcomercio.com/afull/tio-jesse-full-house-john-stamos.html") 
-
-**¿Qué es Chill Guy?** 
------------------------
-
-El **Chill Guy** es una representación gráfica de **un perro con cuerpo humano**, vestido de manera casual y con una expresión relajada.  
-
-Este personaje ha sido utilizado para transmitir un mensaje claro: **mantener la calma** ante situaciones adversas. La imagen ha resonado especialmente en plataformas como **TikTok, Instagram y X** (anteriormente Twitter), donde los usuarios la emplean para expresar su deseo de **serenidad en medio del caos** cotidiano, según [Super Channel 12](https://superchannel12.com/657621/que-es-chill-guy-el-meme-viral-conoce-el-origen-y-significado-de-tio-tranquilo-y-chill "https://superchannel12.com/657621/que-es-chill-guy-el-meme-viral-conoce-el-origen-y-significado-de-tio-tranquilo-y-chill"). 
-
-**Origen del meme** 
---------------------
-
-El origen del meme se remonta a 2023, cuando un usuario de X conocido como **@phillipbankss** publicó la primera imagen del **Chill Guy**. Desde entonces, la ilustración **se ha viralizado**, convirtiéndose en una herramienta humorística para describir momentos estresantes con un toque de ironía, de acuerdo con [Diario de Morelos](https://www.diariodemorelos.com/noticias/este-es-el-origen-del-chill-guy-perrito-con-cuerpo-humano-que-se-ha-vuelto-viral-en-redes "https://www.diariodemorelos.com/noticias/este-es-el-origen-del-chill-guy-perrito-con-cuerpo-humano-que-se-ha-vuelto-viral-en-redes").  
-
-La **popularidad del meme** creció exponencialmente después de que **figuras públicas**, como el presidente de El Salvador, **Nayib Bukele**, lo compartieran en sus redes sociales, siguiendo con Super Channel 12. 
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DCrshm-vtTZ/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de Makeship (@makeship)](https://www.instagram.com/reel/DCrshm-vtTZ/?utm_source=ig_embed&utm_campaign=loading)
-
-**¿Por qué también se llama Tío Tranquilo?** 
----------------------------------------------
-
-El término “Tío Tranquilo” proviene del **uso popular en España y Latinoamérica**. En este contexto, “chill” es una palabra en inglés que denota **calma y relajación**. Juntas, estas palabras reflejan la actitud despreocupada que el meme intenta transmitir, según [Prensa Libre](https://www.prensalibre.com/vida/escenario/chill-guy-meme-que-significa-y-por-que-es-tan-popular-en-redes-sociales/ "https://www.prensalibre.com/vida/escenario/chill-guy-meme-que-significa-y-por-que-es-tan-popular-en-redes-sociales/"). 
-
-A pesar de su simplicidad, el mensaje detrás del Chill Guy resuena profundamente con una generación que enfrenta el **estrés diario**. 
-
-**Impacto cultural** 
----------------------
-
-El impacto del **Chill Guy** va más allá del humor. Este meme representa una filosofía moderna que invita a las personas a **lidiar con el estrés** de manera creativa y humorística. En un mundo donde **la ansiedad y el ‘burnout’** son comunes, el Chill Guy se erige como un ideal aspiracional: la capacidad de permanecer imperturbable ante las adversidades, según [Xataka](https://www.xataka.com/magnet/chill-guy-ultimo-meme-viral-porque-esconde-algo-profundo-todo-que-aspiramos-a-ser "https://www.xataka.com/magnet/chill-guy-ultimo-meme-viral-porque-esconde-algo-profundo-todo-que-aspiramos-a-ser"). 
-
-Además, su popularidad ha llevado a la creación de una **criptomoneda** llamada $CHILLGUY, lo que demuestra cómo los memes pueden influir en la economía digital, siguiendo con Prensalibre.  
-
-**Controversias y derechos de autor** 
---------------------------------------
-
-A pesar de su éxito, el **Chill Guy** ha generado controversias. Su creador ha expresado frustración por el **uso no autorizado de su imagen** por parte de empresas y proyectos relacionados con criptomonedas. Esto ha abierto un debate sobre los **derechos de autor** en la **era digital** y si los memes deben ser considerados obras protegidas, concluye Super Channel 12. 
-
-Mientras algunos defienden al creador, otros argumentan que los memes pertenecen al **dominio público** una vez que son compartidos en Internet. 
-
-**Te recomendamos:**
---------------------
-
-Amenazas arancelarias de Trump ponen en riesgo la liberalización comercial en el mundo
-======================================================================================
-
-Los aranceles estadounidenses producirán disputas comerciales en el seno de la Organización Mundial del Comercio (PMC).
------------------------------------------------------------------------------------------------------------------------
-
-![Donald Trump previo a uno de sus discursos en Estados Unidos.](https://www.elcomercio.com/wp-content/uploads/2024/11/Donald-Trump-Efe-2024-1.jpg)
-
-Las amenazas de [Donald Trump](https://www.elcomercio.com/actualidad/mundo/donald-trump-promete-mas-aranceles-sobre-china-y-mexico.html "https://www.elcomercio.com/actualidad/mundo/donald-trump-promete-mas-aranceles-sobre-china-y-mexico.html") de imponer **aranceles a las mercancías** que entran en Estados Unidos supondrían un duro golpe a la **liberalización comercial en el mundo** y podrían dinamitar el tratado de libre comercio que existe en Norteamérica desde 1994, mientras **China sería la economía** menos perjudicada y Europa se prepara por si acaso.
-
-### Más noticias
-
-* [Donald Trump elije a Jamieson Greer como representante comercial](https://www.elcomercio.com/actualidad/mundo/donald-trump-elije-jamieson-greer-representante-comercial.html "Donald Trump elije a Jamieson Greer como representante comercial")
-* [Claudia Sheinbaum pide ‘calma’ a los mercados ante aranceles propuestos por Donald Trump](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-pide-calma-mercados-ante-aranceles-propuestos-trump.html "Claudia Sheinbaum pide ‘calma’ a los mercados ante aranceles propuestos por Donald Trump")
-* [Evo Morales acusa a Donald Trump de financiar un ‘golpe de Estado’ en Bolivia](https://www.elcomercio.com/actualidad/mundo/evo-morales-acusa-donald-trump-financiar-golpe-estado-bolivia.html "Evo Morales acusa a Donald Trump de financiar un ‘golpe de Estado’ en Bolivia ")
-
-El presidente electo de Estados Unidos anunció un recargo del **25 % a todos los bienes importados** desde México y Canadá, así como un arancel adicional del 10 % a los productos chinos. Esto ocurrirá hasta que **estos países** \-que son sus principales socios comerciales- **frenen la llegada de inmigración** ilegal y drogas, en particular el fentanilo, lo que tendría consecuencias económicas para todos ellos.
-
-Es de esperar que los aranceles estadounidenses produzcan una nueva **oleada de disputas comerciales** en el seno de la **Organización Mundial del Comercio (PMC)**, que puede autorizar sanciones.
-
-Las diferencias se dirimen en una suerte de tribunal comercial, cuya última instancia está bloqueada desde 2019 porque EEUU se niega a autorizar el nombramiento de nuevos jueces. Esto provoca que una de las **principales disputas comerciales nacidas en** la anterior Administración de Trump (2017-2021) -la mantenida con China por la imposición recíproca de aranceles- aún esté en el limbo en la OMC, como otros 30 conflictos comerciales entre distintas economías.
-
-“Con el sistema de **disputas bloqueado sin funcionalidad,** los miembros de la OMC están tomando cada vez más la justicia por su mano y esto mina en gran medida el **supuesto equilibro comercial**“, analiza en declaraciones eith Rockwell, investigador de la Fundación Hinrich que trabajó durante años en esa organización con sede en Ginebra.
-
-Previsión de crecimiento de México se desploma
-----------------------------------------------
-
-Tras el anuncio de Trump, Moody’s rebajó a la mitad, **al 0,6 %, el pronóstico de crecimiento** de la economía de México para 2025.
-
-EE.UU. es el país al que México envía el **80 % de sus exportaciones**, en su mayoría componentes de automóviles, **vehículos ligeros, camiones, procesadores de datos y tractores,** según la Secretaría de Economía de México.
-
-La presidenta de México, Claudia Sheinbaum, respondió a Trump con una carta en la que advierte de que “a un a**rancel vendrá otro en respuesta** y así hasta que pongamos en riesgo empresas comunes”, lo que causaría en ambos países un repunte de la inflación y pérdida de empleo.
-
-El secretario de Economía, Marcelo Ebrard, ha augurado la destrucción de 400 000 empleos en EEUU, ya que las empresas más afectadas en México son totalmente o en parte estadounidenses -General Motors, Stellantis y Ford-, lo que para el país vecino supone “un tiro en el pie”.
-
-Canadá teme una recesión
-------------------------
-
-El temor en Canadá es que incluso unos aranceles del 10 % costarían a la economía canadiense alrededor de un 1 % de su PIB, mientras que un recargo del **25 % sumiría al país en una profunda recesión,** lo que llevó al primer ministro, Justin Trudeau, a convocar una reunión de emergencia con las provincias del país para acordar una estrategia.
-
-De momento, las provincias canadienses**, capitaneadas por Ontario** – la más industrial y centro del sector del automóvil de Canadá- respaldan desmantelar el actual tratado de comercio trilateral, T-MEC, para que Washington y Ottawa negocien un acuerdo bilateral sin México.
-
-El **director del Instituto de Investigación Económica Regiona**l y profesor asistente de Economía de la Universidad Florida Gulf Coast en EEUU, Amir Neto, señaló que la imposición de aranceles entre los tres socios norteamericanos supondrá **“el fin del acuerdo de libre comercio”**. Sin embargo, considera que nadie sabe si Trump está lanzando un farol para extraer concesiones de México y Canadá o si es una amenaza real.
-
-La postura de China
--------------------
-
-La Embajada china en Washington afirmó que “**nadie ganará una guerra comercial o arancelaria**” y criticó las acusaciones de Trump sobre el **papel del país asiático** en el tráfico de drogas: “La idea de que China permite deliberadamente que los precursores (químicos) del fentanilo fluyan hacia Estados Unidos va completamente contra los hechos y la realidad”.
-
-El viceministro de Comercio de China, Wang Shouwen, ha asegurado que serán los consumidores estadounidenses los que acaben pagando esas tasas.
-
-“Como los aranceles los pagan los consumidores y usuarios en el país importador, se traducirán inevitablemente en (…) un aumento de la inflación”, ha apuntado.
-
-La maquinaria aglutina casi la mitad de los 500.243 millones de dólares que China exportó a EEUU en 2023, un 13,1 % menos que el año anterior, con bienes destacados como los equipos de transmisión, los ordenadores, los componentes para máquinas de oficina o las baterías eléctricas.
-
-Estimaciones de la consultora Capital Economics cifran en hasta un 1,1 % del PIB chino el hipotético impacto de aranceles estadounidenses de un 60 %, ya que la demanda estadounidense de bienes representa menos de un 3 % de la segunda economía mundial.
-
-Esa firma prevé que China apostará por dejar que su moneda, el yuan, se deprecie para amortiguar el impacto, aunque limitando el descenso “para no provocar a Trump”.
-
-Europa se prepara
------------------
-
-La Comisión Europea está dispuesta a cooperar con la futura Administración Trump, pese a lo cual Bruselas creó hace un año un grupo de trabajo para **analizar las consecuencias de las elecciones** estadounidenses y está “preparada para todas las posibilidades”, según el portavoz de Comercio, Olof Gil.
-
-Los sectores europeos que más afectados por un eventual aumento de los **aranceles serían el farmacéutico y el automovilístico**, los dos que más exportaron a EEUU en 2023, según Eurostat.
-
-Todo ello mientras la UE y EEUU, bajo el Gobierno de Joe Biden, tampoco cerraron las antiguas disputas abiertas durante el anterior mandato de Trump por los **aranceles al acero y al aluminio** o a la aceituna negra española, y mientras la guerra comercial por Boeing y Airbus está congelada, por ahora, hasta 2026. 
-
-Guayaba y canela, infusión con insospechados beneficios para la salud
-=====================================================================
-
-Estos ingredientes aportan beneficios al organismo, por su alto contenido en vitaminas y fibra.
------------------------------------------------------------------------------------------------
-
-![Tés naturales para lograr un bienestar en la salud.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-1-4.jpg)
-
-Los **tés** son una de las **bebidas predilectas** para acompañar las comidas a cualquier hora del día, ya que ayudan con la **digestión**, aunque existen variedades de sabores, la gran mayoría son **beneficiosas** para la **salud**.
-
-* [La hierba para desintoxicar y limpiar el hígado de forma natural](https://www.elcomercio.com/tendencias/salud/hierba-desintoxica-limpia-higado-natural.html "La hierba para desintoxicar y limpiar el hígado de forma natural")
-* [Celebra el Día del Vino Tinto con sabor y estilo](https://www.elcomercio.com/tendencias/gastronomia/dia-vino-tinto-efemeride.html "Celebra el Día del Vino Tinto con sabor y estilo ")
-* [Los tres alimentos recomendados por Harvard para disminuir el riesgo de demencia](https://www.elcomercio.com/tendencias/salud/alimentos-demencia-harvard-salud.html "Los tres alimentos recomendados por Harvard para disminuir el riesgo de demencia ")
-
-La **infusión de guayaba** con **canela** contiene varias **propiedades** y su preparación conserva una mayor cantidad de **nutrientes**, principalmente para el **sistema digestivo** y respiratorio. La **guayaba** es rica en vitaminas C, A, E, D12, hierro, cobre, calcio, potasio y magnesio. Está compuesta por agua, por lo que aporta pocas calorías, así lo dice un artículo de la Procuraduría Federal del Consumidor (Profeco), de México.
-
-La guayaba y sus múltiples formas de disfrutarla en todo el año
----------------------------------------------------------------
-
-Una de las **ventajas** de esta **fruta** es que está presente en todas las **temporadas** del **año** y en Colombia la cultivan en diferentes departamentos como lo son Boyacá, Santander, Meta, Cauca, Tolima, Valle del Cauca, Caldas y Atlántico, según el Ministerio de Agricultura y Desarrollo Rural.
-
-Además, de todos los beneficios que tiene la **guayaba**, la puede consumir como fruto fresco o en preparaciones como **mermeladas**, **postres** e **infusiones** acompañadas de otras **hierbas** y plantas.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2-4-1024x683.jpg)
-
-La guayaba es rica en vitaminas. Ilustración generadad en Ideogram.ai
-
-El sitio web ‘Consumer Eroski’, si la **pulpa** es anaranjada, es más rica en **provitamina A, vitamina C** que contiene en la **formación de colágeno, huesos y dientes**, glóbulos rojos y favorece la absorción del hierro de los alimentos y la resistencia a las infecciones.
-
-La canela, rica en nutrientes y beneficios medicinales
-------------------------------------------------------
-
-Por otro lado, la **canela** contiene **niveles altos de fósforo, magnesio, hierro, vitamina A, C, ácido fólico y pocas calorías**. Esta planta ha tenido uso medicinal desde la antigüedad por las propiedades digestivas, antibióticas y antisépticas para tratar varios tipos de enfermedades.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-9-1024x683.jpg)
-
-El té de canela con guayaba contiene beneficios para la salud.
-
-Esta especia también es rica en **calcio, magnesio y fibra** y tiene propiedades antioxidantes que fortalece el **sistema inmunológico** que ayuda a prevenir el cáncer y enfermedades del corazón.
-
-Estos son los beneficios que tiene la infusión de té de canela y guayaba
-------------------------------------------------------------------------
-
-Tanto la **guayaba como la canela** tiene propiedades y al consumirla juntas le aporta una cantidad de **beneficios** a la **salud** del cuerpo humano, entre las que se encuentran las siguientes:
-
-* Previene **enfermedades respiratorias**: esta bebida de guayaba con canela es ideal para combatir enfermedades como el resfriado, gripa, entre otras. Gracias a su alto contenido de **vitamina C**, la cual actúa como **antioxidante** y protege las células de los daños que causan los radicales libres.
-* **Ayuda** a **bajar de peso**: esta infusión es baja en calorías y tiene una rápida absorción en el **metabolismo** y contribuye acelerar el **proceso de digestión**.
-* **Disminuye los niveles de azúcar**: esta especie es utilizada para disminuir el azúcar en la sangre, ya que puede ayudar a controlar la **ansiedad** por consumir **bebidas dulces** y ayuda a mejorar la absorción de la **glucosa** en las células.
-* **Mejora el sistema digestivo**: el té de guayaba con canela contribuye a tratar la **diarrea** y el **estreñimiento**.
-
-Shakira rompe el récord de Taylor Swift en el tercer país más grande de Latinoamérica
-=====================================================================================
-
-Shakira hace historia con su tour 'Las Mujeres Ya No Lloran'.
--------------------------------------------------------------
-
-![Shakira sumó un nuevo hito en su carrera. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-27T131458.838.jpg)
-
-**Shakira** sigue sorprendiendo al mundo con el éxito rotundo de su gira ‘**Las Mujeres Ya No Lloran’**. Su tour marcó un antes y un después en la historia de los conciertos en **el tercer país más grande de Latinoamérica**.
-
-La cantante colombiana, quien volvió a los escenarios después de seis años de ausencia, nunca imaginó la increíble respuesta de sus seguidores.
-
-Los **boletos** para sus primeros **conciertos** se agotaron en cuestión de minutos. Eso llevó a la artista a postergar el inicio de su tour para poder ampliar la producción a recintos más grandes.
-
-### **Más noticias:**
-
-* [En Spotify, un puertorriqueño endulza el oído del ecuatoriano](https://www.elcomercio.com/tendencias/entretenimiento/spotify-preferidas-ecuador-top-10-puertorriqueno-artistas.html "https://www.elcomercio.com/tendencias/entretenimiento/spotify-preferidas-ecuador-top-10-puertorriqueno-artistas.html")
-* [El ‘playlist’ del ecuatoriano es solo música urbana, según Spotify](https://www.elcomercio.com/tendencias/entretenimiento/ecuador-playlist-musica-urbana-spotify.html "https://www.elcomercio.com/tendencias/entretenimiento/ecuador-playlist-musica-urbana-spotify.html")
-* [Una canción de Justin Bieber ‘revive’ tras la polémica de ‘Diddy’](https://www.elcomercio.com/tendencias/entretenimiento/justin-bieber-diddy-lonely-controversia-fans.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/justin-bieber-diddy-lonely-controversia-fans.html?source=Internal&ref=Single+Content+Link")
-
-**Shakira se pronunció sobre su nueva hazaña**
-----------------------------------------------
-
-A través de sus **redes sociales**, **[Shakira](https://www.shakira.com/?queueittoken=e_shakira~ts_1732732073~ce_true~rt_safetynet~h_c1a1d74fb12f504c50e5049ef7e7687bbddd3119bddbf9f1eb1f9aa387bd0730 "https://www.shakira.com/?queueittoken=e_shakira~ts_1732732073~ce_true~rt_safetynet~h_c1a1d74fb12f504c50e5049ef7e7687bbddd3119bddbf9f1eb1f9aa387bd0730")** expresó su emoción por el apoyo recibido en ese gigante de Latinoamérica.
-
-“Nunca imaginé recibir esta placa y superar mis expectativas. Gracias, gracias y gracias. Prometo ofrecer el mejor concierto de mi vida”, escribió la cantante, visiblemente emocionada por el amor de sus fans.
-
-**Shakira rompe el récord de Taylor Swift en el tercer país más grande de Latinoamérica**
------------------------------------------------------------------------------------------
-
-En México, la intérprete de **Suerte** logró un logro histórico al agotar las entradas de los siete conciertos en el Estadio GNP Seguros (antes Foro Sol), superando el récord anterior de **cuatro shows** agotados que estableció Taylor Swift en el mismo recinto.
-
-> [View this post on Instagram](https://www.instagram.com/p/DCpojjAvlqf/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [A post shared by Shakira (@shakira)](https://www.instagram.com/p/DCpojjAvlqf/?utm_source=ig_embed&utm_campaign=loading)
-
-Shakira se convirtió así en la primera artista en la historia del país en realizar siete fechas consecutivas con entradas agotadas en este icónico estadio de la Ciudad de México.
-
-Según el calendario, la **cantante colombiana** se reencontrará con el público mexicano en marzo de 2024, con conciertos el 19, 21, 23, 25, 27, 28 y 30.
-
-19 cierres viales este miércoles 27 de noviembre por partido de fútbol
-======================================================================
-
-La AMT puso en marcha un operativo con cierres primarios y secundarios alrededor del estadio. Además, controlarán autos mal parqueados
---------------------------------------------------------------------------------------------------------------------------------------
-
-![Agentes de tránsito controlarán el flujo vehicular en los alrededores del estadio.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-39.jpg)
-
-La **Agencia Metropolitana de Tránsito** (AMT) planificó un operativo para este miércoles 27 de noviembre de 2024 por la realización del partido entre El Nacional e Independiente del Valle, en Quito.
-
-### Más noticias
-
-* [Al menos cinco calles cerradas para atender incendio estructural en Quito](https://www.elcomercio.com/actualidad/quito/al-menos-cinco-calles-cerradas-para-atender-incendio-estructural-en-quito.html "Al menos cinco calles cerradas para atender incendio estructural en Quito")
-* [Al menos 12 calles están cerradas en Quito por desfile](https://www.elcomercio.com/actualidad/quito/al-menos-12-calles-estan-cerradas-quito-desfile-transito.html "Al menos 12 calles están cerradas en Quito por desfile")
-* [AMT sancionó a conductor de taxi que invadió La Carolina, en Quito](https://www.elcomercio.com/actualidad/quito/amt-sanciono-a-conductor-de-taxi-que-invadio-la-carolina-en-quito.html "AMT sancionó a conductor de taxi que invadió La Carolina, en Quito")
-
-Operativo de tránsito
----------------------
-
-El partido se realizará en el **estadio Rodrigo Paz**, ubicado en la av. De la Prensa, por lo que las vías aledañas se incluyen en el operativo de cierres viales.
-
-El plan operativo contempla un **cierre primario** que se realiza desde las 09:00 hasta las 19:00. Y un cierre secundario que será de 11:00 a 19:00.
-
-El partido está previsto desde las 15:00 hasta las 17:00; sin embargo, los agentes de tránsito gestionarán el flujo vehicular durante el día.
-
-Cierres viales
---------------
-
-Las vías cerradas este miércoles 27 de noviembre son las siguientes:
-
-* Av. Diego Vásquez de Cepeda y Cacica Quilago
-* Ramón Chiriboga y Jhon F. Kennedy
-* Ramón Chiriboga y Pablo Palacio
-* Ramón Chiriboga y Miguel Moreno
-* Ramón Chiriboga y Jacinto Morlán
-* Av. De la Prensa y David Ledesma
-* Av. De la Prensa y Gustavo Lemus
-* Av. De la Prensa y Pablo Picasso
-* Jhon F. Kennedy y Leonardo Da Vinci
-* Jhon F. Kennedy y Pablo Picasso
-* Jhon F. Kennedy y La Esperanza
-* Jhon F. Kennedy y Cacica Quilango
-* Gustavo Lemus y David Ledesma
-* La Esperanza y Camilo Guachamín
-* La Esperanza y Rembrandt
-* La Esperanza y Jhon F. Kennedy
-* Rembrandt y Vincent Van Gogh
-* Juana Terrazas y Tomasa Mideros
-* Juana Terrazas y Vincent Van Gogh
-
-Si necesitas [circular por el sector,](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito") puedes tomar **estas vías alternas**:
-
-* Av. De la Prensa
-* Av. Diego Vásquez de Cepeda
-* Calle Ramón Chiriboga
-* Calle Pablo Picasso
-* Calle Gustavo Lemus
-* Calle Tomasa Mideros
-* Av. Mariscal Sucre
-* Calle Camilo Guachamín
-
-Los agentes de tránsito controlarán autos mal parqueados, ten precaución.
-
-Real Madrid se encomienda a Kylian Mbappé en la Champions
-=========================================================
-
-El Real Madrid tiene un supremacía total sobre el Liverpool. La última victoria de los ingleses fue en 2009.
-------------------------------------------------------------------------------------------------------------
-
-![Kylian Mbappé, delantero del Real Madrid de España.](https://www.elcomercio.com/wp-content/uploads/2024/11/mbappe_madrid_2.jpg)
-
-La afición del **Real Madrid se encomienda al astro francés Kylian Mbappé** para lograr la victoria ante el Liverpool este miércoles 27 de noviembre de 2024, en la Champions League, ante una afición ‘red’ en busca de revancha en lo que se está convirtiendo un clásico en Europa.
-
-“**Confiamos en Mbappé, tiene que ser el momento de Kylian**”, afirman a EFE una pareja de hermanos hinchas del Real Madrid, Alejandro y Hugo Serrano, desplazados desde la capital española. “Hoy es su día”, pronostican.
-
-### Más noticias:
-
-* [FIFA recordó un momento doloroso de la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/fifa-recordo-un-momento-doloroso-de-la-seleccion-de-ecuador.html "FIFA recordó un momento doloroso de la Selección de Ecuador")
-* [Independiente vs. El Nacional, la final de la opulencia y la necesidad](https://www.elcomercio.com/deportes/futbol/final-copa-ecuador-idv-nacional.html "Independiente vs. El Nacional, la final de la opulencia y la necesidad")
-* [Liga de Portoviejo definió fecha y hora para semifinal ante 22 de Julio](https://www.elcomercio.com/deportes/futbol/liga-portoviejo-partido-horario-22julio-ascenso.html "Liga de Portoviejo definió fecha y hora para semifinal ante 22 de Julio")
-
-“Se tiene que echar el equipo a la espalda”, dice Alejandro enfundado en su bufanda blanca y bien tapado por un gorro para aliviar el frío inglés.
-
-Ante las bajas de **Vinícius Júnior, héroe de la final de París, y Rodrygo Goes**; la afición madridista no se amedrenta ante el buen estado de forma del Liverpool, invicto en la competición europea, fetiche de los blancos, y primero en la Premier League con ocho puntos de ventaja sobre el Manchester City.
-
-Con el paso de las temporadas este encuentro se ha convertido en un clásico de Europa, pero un clásico con sabor blanco, ya que el Liverpool no ha ganado ninguno de los ocho últimos enfrentamientos, con siete victorias y un empate para el Real Madrdud,
-
-“Son de los equipos más grandes de Europa, **es una rivalidad total, se va a ganar sin duda.**”, sostiene a EFE un aficionado blanco procedente de Barcelona, Rafa Barrio, que apuesta por un 1-3.
-
-A Barrio sus amigos le llaman ‘el talismán’ porque ha estado en las últimas nueve finales de la ‘Champions’ del Real Madrid, desde la Séptima de Mijatovic. No teme el ambiente de Anfield.
-
-![Foto: Facebook del club.](https://www.elcomercio.com/wp-content/uploads/2024/11/mbappe_madrid_1-1024x683.jpg)
-
-Foto: Facebook del club.
-
-El Madrid domina al Liverpool
------------------------------
-
-La última victoria del Liverpool se remonta a la temporada 2009; cuando el ‘Niño’ Torres era flamante delantero ‘Red’; y endosó un 4-0 con doblete de su eterno capitán Steven Gerrard.
-
-Liverpool es una **ciudad de pasado industrial y de gente trabajadora**, que respira fútbol por los cuatro puntos cardinales, y con dos colores predominantes: el rojo (Liverpool) y azul (Everton).
-
-La rivalidad de ambos equipos está separada por un pequeño parque que distancia Goodison Park de Anfield.
-
-“La gente piensa que estamos divididos, pero no es así, tengo amigos que apoyan al Everton. **Mi chica apoya al Everton**”, comenta Abdul mientras que conduce de camino al campo de entrenamiento del Liverpool. “Mis hijos eligieron el lado correcto (Red)”, ríe.
-
-“Es cierto, no estamos divididos. Yo diría que es noventa – diez, para el Liverpool”, comenta con guasa John Robert, liverpuliano con un marcado acento ‘Scous’e en el trayecto al hogar de los Red, Anfield.
-
-Desde entonces, todos los encuentros frente al Real Madrid casi cuentan por **derrotas y títulos para los blancos, Kiev (2018) y París (2022)**, decimotercero y decimocuarto entorchado continental madridista, y el último una remontada en octavos de final (2-5) en 2023.
-
-“Hay ese sentimiento de revancha”, dice un joven aficionado Red a EFE, Aaron Smith. “Este año está yendo bien en Europa y Real Madrid no lo está haciendo tan bien…. Estaría genial una victoria, un 3-1”, afirma.
-
-Los aficionados rojos, cautelosos y precavidos, se encomiendan a sus jugadores y sobre todo al ambiente de Anfield.
-
-Robert, al igual que su nuevo entrenador, Arne Slot, se muestra cauteloso. “**Estamos en muy buena forma, un inicio espectacular**, pero es el Real Madrid. Siempre tienen algo”, aunque confía en “la magia de Anfield”, como sucedió frente al Barcelona (4-0) en 2018.
+Bryan García (i) y Adrián Cela en la final de la Copa Ecuador 2024.
 
 San viernes
 -----------
 
-Benjamín Netanyahu notifica a la CPI su decisión de apelar la orden de arresto en su contra
-===========================================================================================
-
-Además, el Gobierno israelí afirmó que no reconoce la autoridad de la CPI ni las órdenes de detención correspondientes.
------------------------------------------------------------------------------------------------------------------------
-
-![El primer ministro israelí, Benjamin Netanyahu.](https://www.elcomercio.com/wp-content/uploads/2024/11/netanyahu-efe-ok.jpg)
-
- El primer ministro de Israel, [Benjamín Netanyaju](https://www.elcomercio.com/actualidad/mundo/cpi-dicta-orden-de-arresto-contra-netanyahu-por-crimenes-de-guerra-en-gaza.html "https://www.elcomercio.com/actualidad/mundo/cpi-dicta-orden-de-arresto-contra-netanyahu-por-crimenes-de-guerra-en-gaza.html"), confirmó este miércoles, 27 de noviembre de 2024, que va a **apelar la orden de arresto** que emitió la **Corte Penal Internacional (CPI)** contra él y el exministro de Defensa Yoav Gallant.
-
-### Más noticias
-
-* [Hamás celebra la orden de detención a Netanyahu y Gallant](https://www.elcomercio.com/actualidad/mundo/hamas-celebra-orden-detencion-netanyahu-gallant.html "Hamás celebra la orden de detención a Netanyahu y Gallant")
-* [La CPI dicta orden de arresto contra Netanyahu por crímenes de guerra en Gaza](https://www.elcomercio.com/actualidad/mundo/cpi-dicta-orden-de-arresto-contra-netanyahu-por-crimenes-de-guerra-en-gaza.html "La CPI dicta orden de arresto contra Netanyahu por crímenes de guerra en Gaza")
-* [Benjamín Netanyahu reitera que ‘la luz vencerá a las tinieblas’ en un mensaje a Irán](https://www.elcomercio.com/actualidad/mundo/netanyahu-reitera-luz-vencera-tinieblas-mensaje-iran.html "Benjamín Netanyahu reitera que ‘la luz vencerá a las tinieblas’ en un mensaje a Irán")
-
-“Israel presentó hoy a la Corte Penal Internacional (CPI) un aviso de su **intención de apelar ante el tribunal** con una demanda para retrasar la ejecución de las órdenes de arresto”, informó en un comunicado la oficina del Primer Ministro.
-
-La notificación, destacó la nota, “revela en **detalle lo inverosímil** y carente de fundamento fáctico o legal que fue la decisión de emitir las órdenes de arresto”.
-
-Gobierno israelí se pronuncia
------------------------------
-
-Además, el Gobierno israelí afirmó que no reconoce la autoridad de la CPI ni las órdenes de detención correspondientes.
-
-Medios israelíes revelaron que la **participación de Francia** en las negociaciones para el cese al fuego en el Líbano, entre Israel y la milicia chií Hezbolá, estuvo condicionada al compromiso de que París anunciara que no cumpliría con la **orden de arresto** contra Netanyahu emitida por la CPI.
-
-El anuncio de la apelación se produjo tras una reunión entre Netanyahu y el senador estadounidense **Lindsey Graham en Jerusalén** en un encuentro en el que discutieron las iniciativas impulsadas en el Congreso estadounidense para sancionar a los países que cooperen con la CPI.
-
-La CPI emitió el 21 de noviembre **órdenes de arresto contra Netanyahu y Gallant** acusados de crímenes de guerra por la ofensiva israelí en la Franja de Gaza.
-
-El futuro Gobierno de Trump sella alianza con Texas para su plan de deportaciones
-=================================================================================
-
-Texas instaló kilómetros de concertina en diferentes zonas del territorio fronterizo, al igual que colocó una barrera flotante sobre el río Grande.
----------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Donald Trump en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/11/Donald-Trump-efe-8-noviembre-1.jpg)
-
-El Gobierno entrante de EE.UU. – dirigido por el presidente electo [Donald Trump](https://www.elcomercio.com/actualidad/mundo/donald-trump-promete-mas-aranceles-sobre-china-y-mexico.html "https://www.elcomercio.com/actualidad/mundo/donald-trump-promete-mas-aranceles-sobre-china-y-mexico.html")– selló este martes la **alianza con el estado de Texas** para implementar su plan de deportar a los más de **11 millones de migrantes indocumentados** que viven en el país.
-
-Más noticias
-------------
-
-* [Donald Trump elije a Jamieson Greer como representante comercial](https://www.elcomercio.com/actualidad/mundo/donald-trump-elije-jamieson-greer-representante-comercial.html "Donald Trump elije a Jamieson Greer como representante comercial")
-* [Donald Trump promete más aranceles sobre China y México](https://www.elcomercio.com/actualidad/mundo/donald-trump-promete-mas-aranceles-sobre-china-y-mexico.html "Donald Trump promete más aranceles sobre China y México")
-* [Claudia Sheinbaum pide ‘calma’ a los mercados ante aranceles propuestos por Donald Trump](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-pide-calma-mercados-ante-aranceles-propuestos-trump.html "Claudia Sheinbaum pide ‘calma’ a los mercados ante aranceles propuestos por Donald Trump")
-
-El elegido de Trump para liderar esta labor, el llamado **‘zar de la frontera’**, Tom Homan, viajó a la ciudad fronteriza de Eagle Pass para reunirse con el **gobernador de Texas, Greg Abbott,** y visitar una base militar instalada a orillas del Río Grande.
-
-Abbott, un ultraconservador en el poder desde 2015, se convirtió en uno de los pioneros de las políticas anti-migrantes en el país, principalmente a través de la iniciativa **‘Operation Lone Star’** (operación estrella solitaria), en la que ha gastado más de 11 000 millones de dólares para militarizar la frontera con México.
-
-En la base militar – un **complejo inaugurado en abril**, con capacidad para hasta **1 800 efectivos- Homan alabó las polémicas** acciones de Abbott para “frenar” la migración y señaló que el estado es un ejemplo a seguir para el país.
-
-“Usted es un héroe nacional”, dijo el exfuncionario del **Servicio de Inmigración y Control de Aduanas** (ICE) a Abbott y felicitó también a los militares, que se reunieron a la hora del almuerzo para una celebración adelantada del festivo de Acción de Gracias.
-
-Base ubicada en Río Grande
---------------------------
-
-La base está ubicada a pocos metros del **Río Grande,** que hace de frontera natural entre EE.UU. y México, y está compuesta por decenas de contenedores de obra repartidos sobre un terreno árido que hacen de oficinas y habitaciones para los militares.
-
-En mesas decoradas con manteles naranjas y calabazas de cerámicas, los soldados comieron para conmemorar la festividad y recibieron las “gracias” de los **funcionarios de alto rango por “defender** a EE.UU.” de lo que llaman una “invasión” de migrantes.
-
-Las medidas de Abbott lo llevaron a enfrentarse en varias ocasiones con la Administración del actual presidente Joe Biden, dado que el **Gobierno federal es el encargado de hacer cumplir** las leyes migratorias de EE.UU.
-
-Además del despliegue de militares, Texas instaló kilómetros de concertina en diferentes zonas del territorio fronterizo, al igual que colocó una barrera flotante sobre el río Grande.
-
-A su vez, los efectivos de la Guardia Nacional fueron **sido acusados por organizaciones de derechos** humanos en la frontera de utilizar gas lacrimógeno, bolas de goma e incluso de golpear a migrantes para evitar que crucen hacia territorio estadounidense.
-
-Tanto Homan como Abbott indicaron que el equipo de transición y el gobierno de Texas ya están comenzando a trabajar juntos para planear cómo se llevarán a cabo las deportaciones una vez Trump se mude a la Casa Blanca.
-
-“El cambio ya comenzó, a través de acciones, planes y preparaciones. Todo lo necesario para que no haya un hueco y que cuando llegue el **20 de enero haya un cambio en la manera en que EE.UU.** protege su frontera y su soberanía”, subrayó el gobernador.
-
-Texas es el segundo estado con la mayor cantidad de migrantes indocumentados en el país, detrás de California, con alrededor de **1,6 millones de personas**, según datos del centro de investigación Pew Research Center.
-
-Facilitar el plan de Trump
---------------------------
-
-La colaboración de los gobiernos estatales y locales será clave para frenar o **facilitar el plan de Trump** de deportaciones masivas y Abbott ya ha dejado claro que hará todo lo posible para apoyar a su aliado, incluso a través de los recursos de ‘Operation Lone Star’.
-
-Homan aprovechó para **dirigir unas palabras a los gobernadores de estados** que se han pronunciado en contra de las deportaciones masivas y adelantaron que no cooperarán para perseguir a los migrantes (entre ellos la gobernadora demócrata del estado fronterizo de Arizona, Katie Hobbs).
-
-“No crucen esa línea; albergar y ocultar a **migrantes ilegales es un delito grave.** No nos pongan a prueba”, sentenció. 
-
-Sexo programado para contrarrestar la rutina diaria 
-====================================================
-
-La planificación puede ser una solución efectiva para contrarrestar la rutina diaria.
--------------------------------------------------------------------------------------
-
-![El sexo programado surge como una alternativa para avivar la llama de la pasión. Foto: Pexels](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-27T121102.510.jpg)
-
-El uso del **calendario** para programar **encuentros sexuales** entre **parejas** cobra relevancia en la búsqueda de **mantener** la intimidad en relaciones a largo plazo. 
-
-Expertos sugieren que, aunque la **espontaneidad** es valorada, la **planificación** puede ser una solución efectiva para **contrarrestar** la rutina diaria y el **desgaste emocional** que enfrentan muchas parejas. ¿Qué dicen los expertos?
-
-### **Más noticias:**
-
-* [¿Quieres un juguete sexual? Una experta te ayuda a elegir al compañero ideal](https://www.elcomercio.com/tendencias/bienestar/juguete-sexual-companero-ideal-seleccion-pareja.html "https://www.elcomercio.com/tendencias/bienestar/juguete-sexual-companero-ideal-seleccion-pareja.html")
-* [Karol G pide disculpas ‘de corazón’ por la canción +57](https://www.elcomercio.com/tendencias/entretenimiento/karol-g-musica-criticas-fans-nueva-cancion-57.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/karol-g-musica-criticas-fans-nueva-cancion-57.html?source=Internal&ref=Single+Content+Link")
-* [La canción más icónica de Madonna cumple 40 años](https://www.elcomercio.com/tendencias/entretenimiento/madonna-like-virgin-aniversario-musica.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/madonna-like-virgin-aniversario-musica.html?source=Internal&ref=Single+Content+Link")
-
-De acuerdo con un **estudio** realizado por el Instituto Kinsey de la Universidad de Indiana, en Estados Unidos, **solo el 34% de las parejas casadas mantiene relaciones sexuales entre dos y tres veces a la semana.** El 66% restante sostiene que la frecuencia y la satisfacción es menor.
-
-**¿Qué dice la gente sobre el sexo programado?**
-------------------------------------------------
-
-Luis – de 41 años- jamás lo practicaría. Este contador quiteño afirma que el **sexo programado** podría generar **estrés** en la pareja. “¿Qué pasa si no cumples con las fechas fijadas?”. 
-
-Insiste en que el **sexo** debe darse naturalmente y que debe ser de mutuo acuerdo.  
-
-Esteban -de 32 años- coincide con Luis y añade que el sexo debe fluir. “No se trata de una actividad cualquiera”.
-
-La educadora sexual ecuatoriana July Ruiz -en cambio- afirma que todo es válido cuando se trata de mantener encendida la llama de la pasión. Destaca que programar tiempo para el **sexo** no debe ser una obligación, sino una oportunidad para disfrutar juntos. Hace hincapié en que cualquier estrategia debe ser consultada con la pareja.
-
-**Flexibilidad en el sexo programado**
---------------------------------------
-
-Aunque se establezcan días específicos, es importante mantener un grado de **flexibilidad**. Esto permite que las parejas adapten sus planes según el estado de ánimo o las circunstancias, evitando que la programación se sienta como una carga.
-
-Asamblea Nacional tomó una decisión sobre el juicio político contra Andrea Arrobo
-=================================================================================
-
-Asamblea Nacional aprueba juicio político contra la exministra de Energía, Andrea Arrobo, por crisis energética.
-----------------------------------------------------------------------------------------------------------------
-
-![Votación del Pleno de la Asamblea para dar paso al juicio político contra Andrea Arrobo.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-62-1.jpg)
-
-El Pleno de la Asamblea Nacional decidió, **con 80 votos afirmativos,** continuar con el **juicio político** contra **Andrea Arrobo Peña**, exministra de Energía y Minas. La resolución se ampara en el numeral 2 del **artículo 83 de la Ley Orgánica de la Función Legislativa**, según informó el comunicado oficial emitido este miércoles 27 de noviembre de 2024.
-
-### Más noticias
-
-* [Asamblea aplazó debate sobre el Código Orgánico de Protección Integral a Niñas, Niños y Adolescentes](https://www.elcomercio.com/actualidad/politica/asamblea-aplazo-debate-codigo-organico-proteccion-integral-ninos-adolescentes.html "Asamblea aplazó debate sobre el Código Orgánico de Protección Integral a Niñas, Niños y Adolescentes")
-* [Proyectos urgentes de Daniel Noboa van a primer debate en la Asamblea](https://www.elcomercio.com/actualidad/politica/proyectos-urgentes-daniel-noboa-primer-debate-asamblea.html "Proyectos urgentes de Daniel Noboa van a primer debate en la Asamblea")
-* [Juez dicta medidas cautelares contra funcionaria de la Asamblea que participó en las marchas](https://www.elcomercio.com/actualidad/politica/juez-dicta-medidas-cautelares-funcionaria-asamblea-marchas.html "Juez dicta medidas cautelares contra funcionaria de la Asamblea que participó en las marchas")
-
-La presidenta de la **Asamblea Nacional** tiene un plazo máximo de **cinco días** para incluir el juicio en el orden del día del Pleno. Durante esta sesión, se decidirá si se absuelve o censura a la exfuncionaria.
-
-> Con 80 votos afirmativos, se aprueba la moción de continuar con el [#JuicioPolítico](https://twitter.com/hashtag/JuicioPol%C3%ADtico?src=hash&ref_src=twsrc%5Etfw) en contra de [@andrearrobo](https://twitter.com/andrearrobo?ref_src=twsrc%5Etfw), presentada por la asambleísta [@AnitaMGalarzaA](https://twitter.com/AnitaMGalarzaA?ref_src=twsrc%5Etfw). [#JuntosLegislamos](https://twitter.com/hashtag/JuntosLegislamos?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/b0KF3u9JWf](https://t.co/b0KF3u9JWf)
-> 
-> — Asamblea Nacional (@AsambleaEcuador) [November 27, 2024](https://twitter.com/AsambleaEcuador/status/1861807743897588207?ref_src=twsrc%5Etfw)
-
-Posturas en la Asamblea sobre juicio político a Arrobo
-------------------------------------------------------
-
-En el proceso, se presentaron tres informes de postura. El primero, liderado por asambleístas como **Lenin Barreto, Sofía Espín y Pamela Aguirre,** recomendó archivar el juicio político.
-
-Según Barreto, la responsabilidad de los apagones eléctricos no recae únicamente en Arrobo, sino también en otros funcionarios como **Roberto Luque y Félix Wong**, e incluso en el Presidente de la República, Daniel Noboa.
-
-Por su parte, un segundo grupo, integrado por **Lenin Rogel y Ramiro Vela**, respaldó el enjuiciamiento, señalando un **presunto incumplimiento de funcione**s por parte de la exministra. Rogel enfatizó que las políticas públicas deben ser continuas y no depender de ideologías políticas, abogando por la censura.
-
-El tercer informe, presentado por **Adriana García**, también apoyó el juicio político. García indicó que esta acción **no constituye un ataque personal**, sino un acto de justicia en beneficio de los ecuatorianos afectados por la crisis energética.
-
-Argumentos sobre la crisis energética
--------------------------------------
-
-Durante el debate, **Vicente Taiano** destacó que el país atraviesa una crisis energética, con cortes de luz de hasta **48 horas en el sector industrial** y **16 horas en los hogares**. Según Taiano, la exministra actuó con negligencia al no cumplir con las **responsabilidades inherentes a su cargo**.
-
-> [#JuicioPolítico](https://twitter.com/hashtag/JuicioPol%C3%ADtico?src=hash&ref_src=twsrc%5Etfw)[@VicenteTaianoEC](https://twitter.com/VicenteTaianoEC?ref_src=twsrc%5Etfw) destaca que son 70 días de una [#CrisisEnergética](https://twitter.com/hashtag/CrisisEnerg%C3%A9tica?src=hash&ref_src=twsrc%5Etfw) con cortes de energía de más 48 horas en el sector industrial y de hasta 16 horas en los hogares. Señala que [@andrearrobo](https://twitter.com/andrearrobo?ref_src=twsrc%5Etfw) actuó con negligencia, al no cumplir con las responsabilidades a su cargo. [pic.twitter.com/9LddPeCMKQ](https://t.co/9LddPeCMKQ)
-> 
-> — Asamblea Nacional (@AsambleaEcuador) [November 27, 2024](https://twitter.com/AsambleaEcuador/status/1861801277329432915?ref_src=twsrc%5Etfw)
-
-Finalmente, **Anita Galarza**, ponente del pedido de juicio político, presentó la moción para avanzar en el proceso contra Arrobo, subrayando la **importancia de sancionar la inacción** frente a los problemas energéticos del país.
-
-Lamine Yamal ganó el Golden Boy con doble récord
-================================================
-
-Pedro González 'Pedri' y Pablo Páez Gavira 'Gavi', ganaron el premio en las ediciones anteriores.
--------------------------------------------------------------------------------------------------
-
-![Lamine Yamal, jugador del Barcelona en la temporada 2024/25.](https://www.elcomercio.com/wp-content/uploads/2024/11/yamal_premio_1.jpg)
-
-Lamine Yamal fue anunciado este miércoles 27 de noviembre de 2024, como el ganador del premio ‘Golden Boy’, galardón que acredita al mejor jugador sub-21 de las ligas europeas.
-
-Con este reconocimiento, Lamine Yamal firmó un doble récord al convertirse en el más joven en conseguirlo y en el jugador que un mayor número de votos acumuló.
-
-### Más noticias:
-
-* [Liga de Portoviejo definió fecha y hora para semifinal ante 22 de Julio](https://www.elcomercio.com/deportes/futbol/liga-portoviejo-partido-horario-22julio-ascenso.html "Liga de Portoviejo definió fecha y hora para semifinal ante 22 de Julio")
-* [¿Por qué es tendencia Alexander Domínguez?](https://www.elcomercio.com/deportes/futbol/alexander-dominguez-tendencia-liga-quito.html "¿Por qué es tendencia Alexander Domínguez?")
-* [IDV y El Nacional definen la Copa Ecuador, ¿a qué hora juegan?](https://www.elcomercio.com/deportes/futbol/final-copa-ecuador-horario-dia.html "IDV y El Nacional definen la Copa Ecuador, ¿a qué hora juegan?")
-
-Yamal, campeón de Europa con España este verano en Alemania, superó al inglés Jude Bellingham, jugador del Real Madrid, **que recibió un 97% de los votos, es decir, 485 de los 500 posibles**.
-
-Fue el mismo porcentaje con el que ganó el francés Kylian Mbappé, otro jugador del Madrid, pero lo hizo en una edición con 30 votantes y ahora lo hacen 50.
-
-Este año, según informó el diario ‘Tuttosport’, creador del premio, **Lamine Yamal acumuló 488 votos de los 500 posibles**, superando en 3 a Bellingham, alzando el porcentaje a los 97.6 puntos finales.
-
-Además, nunca hubo un ganador del ‘Golde Boy’ tan joven. A sus **17 años y 4 meses, se coronó con este galardón** que recogerá el próximo 16 de diciembre.
-
-“Es un orgullo ganar este trofeo. Es un sueño, estoy muy contento. Gracias a ‘Tuttosport’ y al jurado. **No me quiero olvidar de mis compañeros** y cuerpo técnico tanto del Barcelona y de la selección española”, dijo el ganador, en un vídeo que se proyectó en Turín.
-
-“Muy contento y a por más”, añadió el deportista que está en pleno proceso de recuperación de una lesión muscular que lo alejó de la última jornada FIFA de noviembre.
-
-Además, el turco Kenan Yildiz, **jugador del Juventus Turín, ganó el premio ‘Golden Boy Web’**, elegido por los aficionados; y Michael Kayode, del Fiorentina, el ‘Golden Boy’ italiano.
-
-Yamal se unió, de esta manera, al reciente éxito del club blaugrana en este sentido, que tuvo como campeones a Pedro González ‘Pedri’ y a Pablo Páez Gavira ‘Gavi’ en las ediciones de 2021 y 2022.
-
-Historia del Golden Boy
------------------------
-
-2024: Lamine Yamal (ESP)
-
-**2023: Jude Bellingham (ING)**
-
-2022: Pablo Páez Gavira ‘Gavi’ (ESP)
-
-**2021: Pedro González “Pedri” (ESP)**
-
-2020: Erling Braut Haaland (NOR)
-
-**2019: Joao Félix (POR)**
-
-2018: Matthijs De Ligt (HOL)
-
-**2017: Kylian Mbappé (FRA)**
-
-2016: Renato Sanches (POR)
-
-**2015: Anthony Martial (FRA)**
-
-2014: Raheem Sterling (ING)
-
-**2013: Paul Pogba (FRA)**
-
-2012: Isco Alarcón (ESP)
-
-**2011: Mario Gotze (ALE)**
-
-2010: Mario Balotelli (ITA)
-
-**2009: Alexandre Pato (BRA)**
-
-2008: Anderson Oliveira (BRA)
-
-**2007: Sergio Agüero (ARG)**
-
-2006: Cesc Fábregas (ESP)
-
-**2005: Leo Messi (ARG)**
-
-2004: Wayne Rooney (ING)
-
-**2003: Rafael Van der Vaart (HOL)**
-
-![Foto: Facebook del club.](https://www.elcomercio.com/wp-content/uploads/2024/11/yamal_premio_2-1024x683.jpg)
-
-Foto: Facebook del club.
-
-San viernes
------------
-
-AMT sancionó a conductor de taxi que invadió La Carolina, en Quito
-==================================================================
-
-El conductor del taxi se mostró arrepentido, ofreció disculpas públicas a los quiteños y prometió no volverlo a hacer.
-----------------------------------------------------------------------------------------------------------------------
-
-![El conductor del taxi que ingresó a La Carolina ofreció disculpas.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-38.jpg)
-
-En redes sociales se compartió un video el jueves 21 de noviembre de 2024 que muestra a un **taxi que circula** por uno de los senderos del **interior del Parque La Carolina**. Este fue el tercer caso del mes.
-
-### Más noticias
-
-* [Un taxi circuló dentro del parque La Carolina, en Quito](https://www.elcomercio.com/actualidad/quito/taxi-circulo-dentro-de-parque-la-carolina-quito.html "Un taxi circuló dentro del parque La Carolina, en Quito")
-* [Tres parqueaderos de La Carolina suspenden servicio en Quito](https://www.elcomercio.com/actualidad/quito/tres-parqueaderos-carolina-suspension-rehabilitacion.html "Tres parqueaderos de La Carolina suspenden servicio en Quito")
-* [AMT habla de las sanciones a las conductoras que irrumpieron en La Carolina](https://www.elcomercio.com/actualidad/quito/amt-habla-de-sanciones-a-conductoras-que-irrumpieron-en-la-carolina.html "AMT habla de las sanciones a las conductoras que irrumpieron en La Carolina")
-
-El tercer caso de invasión a La Carolina en un mes
---------------------------------------------------
-
-Los dos primeros casos se dieron el domingo 10 de noviembre, cuando dos conductoras invadieron los senderos peatonales del parque La Carolina.
-
-El caso del taxi es el **tercero en el mes de noviembre** y el que aumentó la indignación de los quiteños que reclaman seguridad para los visitantes del parque.
-
-En este caso, las imágenes muestran a **dos personas con sus mascotas** que deben retirarse del camino para dar paso al auto amarillo e ingresar al césped.
-
-Los comentarios de **indignación** no se hicieron esperar tras la tercera invasión a una zona que es plenamente peatonal. El parque es una de las **principales áreas verdes de la ciudad** y recibe a diario a deportistas, niños y mascotas que acuden a ejercitarse o simplemente distraerse.
-
-Las sanciones
--------------
-
-En los dos primeros casos, la **Agencia Metropolitana de Tránsito** (AMT) informó que no se podía establecer sanciones con base en un video.
-
-En el tercer caso, el conductor del taxi **se mostró arrepentido**, aceptó su error y quiso aceptar la sanción. Por ello, la AMT lo sancionó por irrespeto a las señales de tránsito. La sanción para esta infracción es una multa equivalente al **30% de un salario básico unificado y seis puntos** en su licencia de conducir.
-
-Al hablar con la AMT, expresó que lo hizo por **desconocimiento** ya que, por ayudar a una persona de la tercera edad, ingresó pues le dijo que era permitido.
-
-En un mensaje, pidió a la ciudadanía no cometer el mismo error y **[no ingresar a zonas peatonales](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")**.
-
-> 📢 [#TuVozImporta](https://twitter.com/hashtag/TuVozImporta?src=hash&ref_src=twsrc%5Etfw) | Localizamos al taxista que circuló por el parque La Carolina y lo sancionamos.  
-> 💪 Cero tolerancia con quienes ponen en riesgo la seguridad vial.  
->   
-> 🚙 Al conducir con responsabilidad [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/J9k1A4S64a](https://t.co/J9k1A4S64a)
-> 
-> — AMTQuito (@AMT\_Quito) [November 27, 2024](https://twitter.com/AMT_Quito/status/1861583802419593475?ref_src=twsrc%5Etfw)
-
-Enner, un nombre que ganó fanáticos en tres años
-================================================
-
-El nombre de Enner Valencia se popularizó en los años que más goles marcó con la Selección de Ecuador.
-------------------------------------------------------------------------------------------------------
-
-![Enner Valencia en el estadio Monumental en las eliminatorias al Mundial 2026.](https://www.elcomercio.com/wp-content/uploads/2024/11/enner_ano_1.jpg)
-
-Enner Valencia es el **goleador histórico de la Selección de Ecuador**. En 95 partidos tiene marcados 44 goles. Esta cifra lo coloca por delante de nombres ilustres como los de Agustín Delgado, Eduardo Hurtado y Álex Darío Aguinaga.
-
-El camino de Enner Valencia con la Selección de Ecuador se unió en 2012. Ese año el d**elantero esmeraldeño era jugador de Emelec**, club en el que se formó y en el que había debutado dos años antes.
-
-### Más noticias:
-
-* [Independiente vs. El Nacional, la final de la opulencia y la necesidad](https://www.elcomercio.com/deportes/futbol/final-copa-ecuador-idv-nacional.html "Independiente vs. El Nacional, la final de la opulencia y la necesidad")
-* [Liga de Portoviejo definió fecha y hora para semifinal ante 22 de Julio](https://www.elcomercio.com/deportes/futbol/liga-portoviejo-partido-horario-22julio-ascenso.html "Liga de Portoviejo definió fecha y hora para semifinal ante 22 de Julio")
-* [¿Por qué es tendencia Alexander Domínguez?](https://www.elcomercio.com/deportes/futbol/alexander-dominguez-tendencia-liga-quito.html "¿Por qué es tendencia Alexander Domínguez?")
-
-Valencia fue citado por primera vez por el colombiano Reinaldo Rueda. Fue para un amistoso ante Honduras en el George Capwell que ganaron los ecuatorianos 2-0 con doblete de Jaime ‘Yoya’ Ayoví.
-
-Después ‘Superman’ representó al país en las eliminatorias a los mundiales Brasil 2014, donde no marcó goles en tres partidos; **Rusia 2018, con cinco goles en 12 presencias**; Catar 2022, con cuatro tantos en 12 juegos; y Canadá, Estados Unidos y México 2026 en la que ya marcó tres tantos en 10 compromisos.
-
-También dijo presente en la Copa América Chile 2015 (dos goles en tres partidos); Centenario en Estados Unidos 2016 (dos goles en cuatro partidos); **Brasil 2019 y 2021 (un gol en siete juegos)**; y Estados Unidos 2024 (cero goles en tres presentaciones).
-
-Enner Valencia y la Copa del Mundo
-----------------------------------
-
-Enner Valencia es el jugador ecuatoriano con más goles anotados en una Copa del Mundo. En seis partidos, **entre Brasil 2014 y Catar 2022, anotó la misma cantidad de tantos**, todos en la fase de grupos.
-
-Agustín Delgado marcó tres, uno en Corea-Japón 2002 y dos en Alemania 2006; Carlos Tenorio hizo dos, todos en Alemania 2006; **Édison Méndez, Jaime Iván Kaviedes, y Moisés Caicedo** tienen un tanto en Corea-Japón 2002, Alemania 2006 y Catar 2022, respectivamente.
-
-Los goles mundialistas del ‘GOAT’ fueron ante Suiza el 15 de junio de 14 en Brasilia, y un doblete ante Honduras el 20 del mismo mes en Curitiba.
-
-El 20 de noviembre de 2022 volvió a anotar un doblete ante **Catar en Jor en el partido inaugural de esa Copa del Mundo**, con lo que puso a soñar a todo un país con una posible clasificación a la segunda ronda.
-
-El 25 del mismo mes dijo presente en Rayán en el empate 1-1 ante Países Bajos, pero sus goles no fueron suficientes para evitar la tempranera eliminación tricolor.
-
-![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/11/enner_ano_2-1024x683.jpg)
-
-Foto: API.
-
-Goles y popularidad van de la mano
-----------------------------------
-
-El Registro Civil, consultado por EL COMERCIO, indicó que, desde 1990, hasta el **24 de noviembre de 2024, existen 1 566 personas** que se inscribieron con el nombre de Enner, ya sea el primero o segundo.
-
-Confidencialmente, el 2014, año de su explosión como delantero de élite de la Tri, se **registró el mayor número de inscritos con 385 personas** a escala nacional. Le siguen el 2015 con 242 y el 2016 con 194.
-
-Esos tres años el esmeraldeño marcó, según Transfermarkt, **18 goles, entre mundial, eliminatorias, Copa América y amistosos**, siendo los de máxima producción goleadora como seleccionado nacional.
-
-San viernes
------------
-
-Ecuador firmará explotación de mina Cangrejos con la canadiense Lumina Gold
-===========================================================================
-
-La fase de construcción prevé la creación de unos 1 250 empleos directos; mientras que la fase de operación, entre 700 y 1 050
-------------------------------------------------------------------------------------------------------------------------------
-
-![Ecuador firmará el contrato de explotación del proyecto minero Cangrejos.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-37-1.jpg)
-
-El **Gobierno de Ecuador** prevé firmar en enero de 2025 con la minera canadiense Lumina Gold el contrato de concesión para la explotación del proyecto de extracción de cobre y oro Cangrejos. Para ello, la empresa prevé una inversión inicial aproximada de al menos **1 300 millones de dólares.**
-
-### Más noticias
-
-* [Manzano anhela un ‘diciembre sin apagones’](https://www.elcomercio.com/actualidad/negocios/manzano-anhelo-diciembre-sin-apagones.html "Manzano anhela un ‘diciembre sin apagones’")
-* [Equipos para nueva central térmica llegan en diciembre ¿Cuándo iniciará operaciones?](https://www.elcomercio.com/actualidad/negocios/equipos-nueva-central-termica-llegan-diciembre-cuando-inicia-operaciones.html "Equipos para nueva central térmica llegan en diciembre ¿Cuándo iniciará operaciones?")
-* [Inés Manzano dice que Colombia empezó a entregar energía a Ecuador](https://www.elcomercio.com/actualidad/negocios/ines-manzano-anuncia-nuevas-medidas-para-reducir-cortes-luz.html "Inés Manzano dice que Colombia empezó a entregar energía a Ecuador")
-
-La firma del contrato
----------------------
-
-Así lo anticipó este martes la **ministra de Energía y Minas** encargada, Inés Manzano, durante la inauguración en Quito del XIX Encuentro Nacional de Minería (Enaep). En el evento, anticipó que el Ejecutivo había alcanzado **un acuerdo con la compañía canadiense** sobre las condiciones que tendrá la concesión de explotación.
-
-Entre los términos acordados está **el pago adelantado de regalías** y una cláusula por la que la empresa se compromete a garantizar su autoabastecimiento de energía. De esa manera se evita que la operación quede temporalmente suspendida por **falta de electricidad,** como ha ocurrido con algunas de las principales minas ante la crisis energética que atraviesa Ecuador.
-
-De acuerdo a **Manzano,** la inversión contemplada para la construcción de las instalaciones de la mina es de entre 1 300 y 1 400 millones de dólares.
-
-En la fase de construcción se prevé la creación de unos **1 250 empleos directos**, mientras que la fase de operación de Cangrejos requerirá entre 700 y 1 050 trabajadores.
-
-El **proyecto minero Cangrejos** está situado en la sureña provincia costeña de El Oro, fronteriza con Perú, a unos 30 kilómetros al sureste de la ciudad de Machala. A 40 kilómetros del puerto comercial de aguas profundas de Puerto Bolívar.
-
-El Gobierno del presidente **Daniel Noboa** ha identificado a la minería, el turismo y la agricultura como los tres sectores económicos que impulsar para el crecimiento de la economía.
-
-A inicios de año, el Ejecutivo firmó **acuerdos de inversión** con mineras canadienses por valor de 4 800 millones de dólares. Esto fue rechazado por **colectivos ambientalistas** y organizaciones indígenas que se oponen a la expansión de la actividad [mineral industrial](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito") en Ecuador.
-
-EE.UU. sanciona a 21 altos cargos de Venezuela por intentar ‘robar las elecciones’
-==================================================================================
-
-Estados Unidos los acusa de "represión" y de intentar "robar" las elecciones presidenciales del 28 de julio.
-------------------------------------------------------------------------------------------------------------
-
-![Diosdado Cabello es uno de los sancionados.](https://www.elcomercio.com/wp-content/uploads/2024/11/diosdado-cabello-efe.jpg)
-
-Estados Unidos sancionó este miércoles, 27 de noviembre de 2024, a **21 altos cargos de Venezuela** a los que acusa de **“represión”** y de **intentar “robar”** las elecciones presidenciales del 28 de julio, en las que se proclamó la reelección de Nicolás Maduro, un resultado cuestionado por la oposición y parte de la comunidad internacional.
-
-### Más noticias
-
-* [Donald Trump elije a Jamieson Greer como representante comercial](https://www.elcomercio.com/actualidad/mundo/donald-trump-elije-jamieson-greer-representante-comercial.html "Donald Trump elije a Jamieson Greer como representante comercial")
-* [Donald Trump promete más aranceles sobre China y México](https://www.elcomercio.com/actualidad/mundo/donald-trump-promete-mas-aranceles-sobre-china-y-mexico.html "Donald Trump promete más aranceles sobre China y México")
-* [Evo Morales acusa a Donald Trump de financiar un ‘golpe de Estado’ en Bolivia](https://www.elcomercio.com/actualidad/mundo/evo-morales-acusa-donald-trump-financiar-golpe-estado-bolivia.html "Evo Morales acusa a Donald Trump de financiar un ‘golpe de Estado’ en Bolivia ")
-
-Esta nueva ronda de sanciones llega después de que la **Administración de Joe Biden,** que el próximo 20 de enero pasará el relevo al republicano Donald Trump, reconociera al opositor Edmundo González como el **“presidente electo” de Venezuela.** 
-
-Lista de sancionados
---------------------
-
-Dentro de la lista de sancionados por el **Departamento del Tesoro** está el ministro de Despacho de la Presidencia, Aníbal Coronado; el de Comunicación, **Freddy Ñáñez**, y el de Servicios Penitenciarios, **Julio García Zerpa.**
-
-También hay altos mandos de la **Guardia Nacional Bolivariana, l**a Policía Nacional Bolivariana, el Servicio Bolivariano de Inteligencia Nacional (SEBIN) y la **Dirección General de Contrainteligencia Militar** (DGCIM), a los que acusa de “reprimir violentamente las manifestaciones pacíficas” tras las elecciones.
-
-Entre ellos está **Alexis Rodríguez Cabello, director del SEBIN** y primo del ministro de Interior, **Diosdado Cabello**, y también el jefe de la DGCIM y de la Guardia de Honor Presidencial, Javier Marcana Tabata.
-
-Bajo esta decisión quedan bloqueadas todas las propiedades de los sancionados en Estados Unidos y se prohíbe llevar a cabo transacciones financieras con esas personas.
-
-Sanción a 150 venezonalos
--------------------------
-
-Hasta la fecha, el Tesoro estadounidense ha sancionado a 150 venezolanos y a un centenar de entidades del país caribeño por acometer “acciones antidemocráticas”.
-
-El **Consejo Nacional Electoral (CNE)** proclamó en los comicios del 28 de julio la reelección de Nicolás Maduro como presidente de Venezuela, pero el organismo no publica las actas con los resultados desagregados de las elecciones.
-
-La **Plataforma Unitaria Democrática (PUD),** la principal coalición opositora del país, presentó por su parte unas actas que dan la victoria a su candidato, González Urrutia, quien desde septiembre se encuentra exiliado en España denunciando una persecución de las autoridades venezolanas.
-
-Edmundo González se prepara para regresar a Venezuela
------------------------------------------------------
-
-En una entrevista el pasado lunes, González Urrutia confirmó su intención de viajar a Caracas para asumir el cargo el 10 de enero y sostuvo que está “moralmente preparado” para su eventual detención en Venezuela.
-
-“Nicolás Maduro y los que lo rodean nunca antes habían estado tan aislados”, dijo este miércoles un alto funcionario estadounidense en una llamada con periodistas.
-
-Estados Unidos reconoció en agosto a González como el **ganador de las elecciones** debido a la “abrumadora evidencia” de su victoria, y el 19 de noviembre lo nombró por primera vez como “presidente electo”, un paso que España no ha dado por ahora.
-
-El alto funcionario estadounidense dijo al respecto que corresponde a cada país tomar este tipo de decisiones y remarcó que hacer ese reconocimiento “añade presión” sobre Maduro.
-
-En 2019, la **primera Administración de Trump lideró el reconocimiento internacional** del entonces líder opositor venezolano Juan Guaidó como “presidente interino” del país, pero este nunca tuvo un poder efectivo. 
-
-¿Cuál es el perfil de usuario que más viaja en el Metro de Quito?
+Kylian Mbappé falló un penal y el Real Madrid perdió en Champions
 =================================================================
 
-El Metro de Quito inició sus operaciones en diciembre de 2023. Está por cumplir un año de servicio.
----------------------------------------------------------------------------------------------------
+Kylian Mbappé sigue sin levantar cabeza con el Real Madrid y jugó uno de sus peores partidos como profesional.
+--------------------------------------------------------------------------------------------------------------
 
-![El Metro de Quito está por cumplir un año de funcionamiento.](https://www.elcomercio.com/wp-content/uploads/2024/11/Metro-Quito-1.jpg)
+![Kylian Mbappé falló un penal en la derrota del Real Madrid contra el Liverpool en la Champions League.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-27T164418.161.jpg)
 
-A punto de cumplir su primer año de funcionamiento, el **Metro de Quito** busca ser el principal sistema de transporte urbano en la capital[.](https://es.wikipedia.org/wiki/Metro_de_Quito "https://es.wikipedia.org/wiki/Metro_de_Quito")
+El **Real Madrid** no se adaptó bien al nuevo formato de la Champions League y sumó una nueva derrota. Los blancos perdieron 2-0 en su visita al Liverpool en Anfield este miércoles 27 de noviembre, por la quinta fecha del torneo.
 
-Más noticias
-------------
+Es la tercera derrota del Real Madrid en la fase de grupos, y uno de los señalados por la derrota fue el francés **Kylian Mbappé,** quien atraviesa un mal momento en el club español y lo evidenció al fallar un penal en un momento clave del encuentro.
 
-* [Metro de Quito habilita opciones de ingreso para acompañantes](https://www.elcomercio.com/actualidad/quito/metro-de-quito-habilita-opciones-de-ingreso-para-acompanantes.html "Metro de Quito habilita opciones de ingreso para acompañantes")
-* [Metro de Quito ya suma más de 4,9 millones de viajes, en octubre](https://www.elcomercio.com/actualidad/quito/metro-de-quito-suma-mas-de-49-millones-de-viajes-octubre.html "Metro de Quito ya suma más de 4,9 millones de viajes, en octubre")
-* [Metro de Quito tiene nuevo contrato de mantenimiento](https://www.elcomercio.com/actualidad/quito/metro-quito-mantenimiento-energia-terminar.html "Metro de Quito tiene nuevo contrato de mantenimiento")
+### Más noticias:
 
-Este servicio subterráneo conecta puntos clave de **Quito** y refleja la **diversidad** **socioeconómica** y **demográfica** de sus usuarios.
+* [Calendario de ecuatorianos en la Champions League](https://www.elcomercio.com/deportes/futbol/calendario-ecuatorianos-quinta-fecha-champions-league.html "Calendario de ecuatorianos en la Champions League")
+* [Real Madrid se encomienda a Kylian Mbappé en la Champions](https://www.elcomercio.com/deportes/futbol/real-madrid-liverpool-cuando-juegan.html "Real Madrid se encomienda a Kylian Mbappé en la Champions")
+* [Sparta Praga sufrió una dura goleada en Champions sin Angelo Preciado](https://www.elcomercio.com/deportes/futbol/sparta-praga-sufrio-goleada-champions-sin-angelo-preciado-atletico-madrid.html "Sparta Praga sufrió una dura goleada en Champions sin Angelo Preciado")
 
-El perfil del usuario del Metro de Quito
-----------------------------------------
+Con esta derrota, el **Real Madrid** se encuentra en el cuarto lugar del grupo, el último puesto de clasificación a la siguiente ronda, con solo seis puntos. Por su parte, el Liverpool se mantiene como líder invicto con 15 puntos y un paso perfecto.
 
-El **Metro de Quito** ofrece una alternativa eficiente, segura y económica para miles de personas. Los datos más recientes muestran que la mayoría de sus usuarios tiene entre 18 y 39 años, con una concentración del 36% en la franja de 18 a 29 años.
+Un primer tiempo para olvidar
+-----------------------------
 
-Este grupo incluye principalmente **empleados del sector privado (**40-50%), **estudiantes** **universitarios** (17-23%) y **empleados** **públicos** (10-23%).
+El R**eal Madrid vivió una auténtica pesadilla** en el primer tiempo en Anfield. Los blancos se refugiaron en su área, cediendo el control del balón al Liverpool, que dominó el ritmo del partido.
 
-Muchas familias con ingresos cercanos o por debajo de la **canasta** **básica** encuentran en el **Metro** una **solución** **accesible** para su movilidad.
+Si no hubiese sido por T**hibaut Courtois**, los madridistas habrían terminado los primeros 45 minutos en desventaja, pero nuevamente el portero belga estuvo excepcional, salvando en varias ocasiones a su equipo.
 
-Las **mujeres** representan entre el 54% y 59% de los usuarios, lo que resalta la seguridad del sistema como un factor clave para este grupo.
+Los visitantes **concluyeron** el primer tiempo sin realizar un solo remate a portería, una estadística preocupante para un club de la talla del **Real Madrid.**
 
-Movilidad interconectada del Metro de Quito
--------------------------------------------
+Mbappé falló y el Liverpool golpeó
+----------------------------------
 
-Los usuarios inician la mayoría de sus trayectos en **Quitumbe** y **El** **Recreo**, ubicadas en el sur de **Quito**.
+El Liverpool abrió el marcador al inicio del segundo tiempo, un tanto más que merecido para un equipo que insistió durante todo el primer tiempo, pero Courtois lo impidió en varias ocasiones.
 
-Las estaciones más concurridas como destino incluyen **Iñaquito**, **San** **Francisco**, **Universidad** **Central** y **Labrador**, áreas con intensa actividad laboral, educativa y administrativa.
+**Alexis Mac Allister abrió el marcador** con un gran remate cruzado dentro del área, que, pese a la estirada de Courtois, no pudo evitar que el balón se colara en las redes.
 
-El sistema conecta las zonas residenciales del sur con los centros de actividad **económica** y **educativa** del **hipercentro** y norte de la ciudad.
+A los 58 minutos, Lucas Vázquez y Dani Ceballos, quienes ingresaron como cambios, generaron un penal para el Real Madrid. Ceballos dio un gran pase a Vázquez, quien con picardía enganchó dentro del área y provocó la falta de Andrey Robertson.
 
-El Metro de Quito es aceptado por los usuarios
-----------------------------------------------
+**Kylian Mbappé se hizo cargo de la pena máxima, pe**ro el francés, en medio de una mala racha, no pudo concretar el gol y agravó su momento negativo en el club español.
 
-Los pasajeros valoran principalmente la rapidez del servicio, seguida de la seguridad y la puntualidad.
+Un rápido contragolpe del Liverpool, a los 68 minutos, provocó un penal a su favor. Mohamed Salah desbordó y con un regate, forzó la falta de **Ferland Mendy.** Salah se encargó de la ejecución, pero estrelló su remate en el poste.
 
-El diseño del sistema permite una integración eficiente con otros **medios** **de** **transporte**, lo que reduce de manera significativa los tiempos de viaje.
+Finalmente, a los 76 minutos, Liverpool sentenció el partido. **Cody Gakpo,** quien reemplazó a Darwin Núñez, anotó de cabeza tras un gran centro, sin marca que lo impidiera.
 
-El **Metro de Quito** también incorpora tecnologías modernas, como un sistema de pago digital, que agiliza el acceso y fomenta la inclusión financiera.
+Cortes de luz en Quito este jueves 28 de noviembre
+==================================================
 
-Impacto en la movilidad de Quito
---------------------------------
+La Empresa Eléctrica Quito publicó los nuevos horarios de cortes de luz para este jueves 28 de noviembre, en la capital.
+------------------------------------------------------------------------------------------------------------------------
 
-Desde su inauguración, el **Metro** registra un uso constante, con picos de afluencia en horas laborales.
+![Los cortes de luz en Quito este jueves 28 de noviembre son de hasta seis horas no consecutivas para el sector residencial.](https://www.elcomercio.com/wp-content/uploads/2024/11/cortes-luz-quito-jueves-28-noviembre.jpg)
 
-Durante octubre de 2024, el sistema alcanzó un récord en el número de viajes diarios, lo que refuerza su rol como un servicio esencial para más de 142 000 pasajeros diarios.
+Los **cortes de luz** en **Quito** este **jueves 28 de noviembre** de 2024 se mantienen con una duración de seis horas no consecutivas.
+
+La **Empresa Eléctrica Quito (EEQ)** publicó los nuevos horarios de suspensión del servicio de energía eléctrica en la capital.
+
+### Más noticias:
+
+* [Ecuador lleva 60 días con cortes de luz, ¿está cerca de salir de la crisis?](https://www.elcomercio.com/actualidad/negocios/ecuador-lleva-60-dias-cortes-luz-esta-cerca-salir-crisis.html "Ecuador lleva 60 días con cortes de luz, ¿está cerca de salir de la crisis?")
+* [Energía de Colombia alivia crisis eléctrica en Ecuador, ¿en qué estado están los embalses?](https://www.elcomercio.com/actualidad/negocios/energia-colombia-crisis-electrica-ecuador-estado-embalses-cortes-luz.html "Energía de Colombia alivia crisis eléctrica en Ecuador, ¿en qué estado están los embalses?")
+
+Los horarios de cortes de luz en Quito este jueves 28 de noviembre
+------------------------------------------------------------------
+
+Hasta este **jueves 28 de noviembre**, la EEQ definió los horarios de cortes de luz para esta semana.
+
+Los quiteños están a la expectativa de los **horarios** que corresponden al viernes 29, sábado 30 y domingo 1 de diciembre.
+
+Ecuador sigue atravesando una de las peores **crisis energéticas** en las últimas décadas.
+
+La dependencia de las lluvias para el funcionamiento de las **centrales hidroeléctricas** y la falta de proyectos de energías alternativas pusieron la capacidad de producción de energía al límite.
+
+El último ofrecimiento del presidente Daniel Noboa sobre los cortes de luz a escala nacional es que no existirán para **diciembre**.
+
+Y, en Quito, la suspensión de los cortes de luz el 6 de diciembre, por las fiestas de **fundación de la capital**.
+
+Sin embargo, la generación de energía, a través de otros proyectos de inversión del actual Gobierno, se concretaría desde los primeros meses del **2025**.
+
+En tanto, el Gobierno logró restablecer el intercambio de energía con **Colombia** y las primeras lluvias de intensidad media o alta empiezan a caer en el Austro.
+
+Mientras las condiciones mejoran, Quito sigue con cortes de luz de hasta **seis horas**, divididas en dos franjas horarias para el sector residencial.
+
+A continuación, los horarios de los **cortes de luz en Quito este jueves 28 de noviembre**:
+
+Brasil teme impactos a su industria por el posible proteccionismo de Donald Trump
+=================================================================================
+
+Estados Unidos, segundo mayor socio comercial de Brasil, es uno de los principales compradores de productos industriales brasileños.
+------------------------------------------------------------------------------------------------------------------------------------
+
+![Imagen del Hotel Nacional, en Río de Janeiro.](https://www.elcomercio.com/wp-content/uploads/2024/11/Brasil-hotel-efe.jpg)
+
+El posible **aumento de los aranceles** a las exportaciones a [EE.UU](https://www.elcomercio.com/actualidad/mundo/ee-uu-sanciona-21-altos-cargos-venezuela-intentar-robar-lelecciones.html "https://www.elcomercio.com/actualidad/mundo/ee-uu-sanciona-21-altos-cargos-venezuela-intentar-robar-lelecciones.html")., prometido por el presidente electo, Donald Trump, impactaría en Brasil principalmente a la industria, ya que el sector agropecuario podría beneficiarse de una **guerra comercial**, según dirigentes patronales y analistas.
+
+### Más noticias
+
+* [Donald Trump promete más aranceles sobre China y México](https://www.elcomercio.com/actualidad/mundo/donald-trump-promete-mas-aranceles-sobre-china-y-mexico.html "Donald Trump promete más aranceles sobre China y México")
+* [El futuro Gobierno de Trump sella alianza con Texas para su plan de deportaciones](https://www.elcomercio.com/actualidad/mundo/futuro-gobierno-trump-sella-alianza-texas-plan-deportaciones.html "El futuro Gobierno de Trump sella alianza con Texas para su plan de deportaciones")
+* [Donald Trump elije a Jamieson Greer como representante comercial](https://www.elcomercio.com/actualidad/mundo/donald-trump-elije-jamieson-greer-representante-comercial.html "Donald Trump elije a Jamieson Greer como representante comercial")
+
+Estados Unidos, **segundo mayor socio comercial de Brasil,** es uno de los principales compradores de productos industriales brasileños, incluyendo aviones, aceros, hierro y petróleo.
+
+Los **exportadores de productos agropecuarios** a Estados Unidos, principalmente café, carnes, jugo de naranja y azúcar, consideran que Trump difícilmente elevará los **aranceles sobre los alimentos,** ya que ello puede causar inflación en la mayor economía mundial.
+
+“No sería sensato aumentar los aranceles sobre la importación de un producto como el café que Estados Unidos no produce y del que es el **mayor consumidor mundial**“, afirmó recientemente el presidente del Consejo de Exportadores de Café (Cecafé) de Brasil, Marcos Matos.
+
+Brasil es el principal **abastecedor de café de EE.UU.,** hacia donde van el 15 % de sus embarques del grano.
+
+Los exportadores agrícolas consideran igualmente que tienen mayor margen para desviar sus exportaciones a otros países y que, en caso de que **Estados Unidos y China** protagonicen una nueva guerra comercial, se pueden beneficiar de una mayor cuota de mercado si el **gigante asiático** reduce sus compras de alimentos estadounidenses.
+
+Desviar ventas hacia China
+--------------------------
+
+“Si Trump restringe las compras, tenemos la expectativa de que Brasil consiga aumentar la venta de soja hacia China”, afirmó en declaraciones a **periodistas el presidente** de la Asociación Brasileña de Productores de Soja (Aprosoja), Mauricio Buffon, quien recuerda que eso ya ocurrió en 2019, cuando China restringió las compras de la oleaginosa de EE.UU. en respuesta a medidas proteccionistas.
+
+Para la industria, en cambio, Trump ya mostró en su primer Gobierno, con un aumento de los aranceles a productos siderúrgicos y el aluminio, que **Brasil no estaría exento de medidas proteccionistas**.
+
+En ese caso, el impacto va a depender tanto del **nivel de los nuevos aranceles** como de la capacidad de Brasil para colocar sus productos en otros mercados, explicó la coordinadora del **Índice de Comercio Exterior (Icomex) de la Fundación Getúlio Vargas**, Lia Vals.
+
+Según un estudio divulgado la semana pasada por el Icomex, Brasil es uno de los países, el séptimo en valores, con los que Estados Unidos tiene superávit en su **balanza comercial**, lo que no justifica la adopción de medidas proteccionistas.
+
+El mismo informe indica que, tras haber sido el **primer socio comercial de Brasil** en el pasado, tan solo un 11,6 % de las exportaciones brasileñas entre enero y octubre tuvieron EE.UU. como destino, muy por debajo de China (29,3 %).
+
+Además, la participación de Brasil en las **importaciones estadounidenses es muy baja**, el 2,6 % del total.
+
+El punto negativo es la **demanda estadounidense** de productos industriales brasileños, que sigue siendo fuerte.
+
+Mientras que la participación de la industria en las exportaciones brasileñas cayó desde el 81,6 % en 2001 hasta el 54,3 % en 2022, las dirigidas a Estados Unidos bajaron desde el 95,9 % al 78,8 %.
+
+La demanda de Estados Unidos por productos industriales “atenúa” la creciente **concentración en productos agropecuarios** de la pauta exportadora brasileña, alerta el Incomex.
+
+Productos más exportados por Brasil a Estados Unidos
+----------------------------------------------------
+
+Los productos más exportados por Brasil a Estados Unidos entre enero y octubre de este año fueron petróleo, con una participación del **14,6 %, semimanufacturados siderúrgicos (7,4 %), café (4,2 %), hierro fundido (3,7 %), derivados de petróleo (2,8 %), aviones (2,7 %) y productos siderúrgicos (2,1 %).**
+
+En el caso del petróleo, Estados Unidos demanda el **12 % del exportado por Brasil** y el país tiene otros 20 mercados hacia donde enviarlo.
+
+En cuanto a los aviones, la brasileña Embraer tiene a Estados Unidos como principal cliente, “pero es poco probable que los **aranceles sobre los mismos sean elevados** y, además, la empresa tiene fábrica en territorio estadounidense”, dice el Incomex. 
+
+Plaza en El Panecillo tendrá una renovación, en Quito
+=====================================================
+
+La renovación de la Plaza de las Nubes pretende dar un ambiente más moderno, seguro y acogedor para los turistas en Quito
+-------------------------------------------------------------------------------------------------------------------------
+
+![Más de 2000 m2 serán intervenidos en la Plaza de las Nubes.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-57-3.jpg)
+
+Un ambicioso **proyecto urbanístico** y **turístico** pretende la **renovación** de la **‘Plaza de las Nubes’**, ubicada en El Panecillo, en el Centro Histórico de Quito. Es una apuesta del sector privado y el Municipio. El objetivo es mejorar este lugar para que sea más **amigable** con los turistas nacionales y extranjeros en una icónica loma de la capital.
+
+### Más noticias
+
+* [¿Cuál es el perfil de usuario que más viaja en el Metro de Quito?](https://www.elcomercio.com/actualidad/quito/metro-quito-perfil-usuario-viaje.html "¿Cuál es el perfil de usuario que más viaja en el Metro de Quito?")
+* [Controles de exceso de velocidad en Quito este miércoles 27 de noviembre](https://www.elcomercio.com/actualidad/quito/controles-exceso-de-velocidad-quito-miercoles-27-de-noviembre.html "Controles de exceso de velocidad en Quito este miércoles 27 de noviembre")
+* [Fiestas de Quito, ¿cuál plato define a la quiteñidad?](https://www.elcomercio.com/actualidad/quito/locro-papa-gastronomia-quito.html "Fiestas de Quito, ¿cuál plato define a la quiteñidad?")
+
+Una Plaza de las nubes mejorada
+-------------------------------
+
+La **Plaza de las Nubes** pretende mejorar 2 000 m2 en el mirador de **El Panecillo** y atraer a más visitantes que vienen a este mirador tradicional de Quito.
+
+A **El Panecillo** llega alrededor de **un millón de turistas** al año. Y pretende ser, además, “el regalo navideño” que ofrecerán a los quiteños, para que se convierta en “un punto de encuentro”.
+
+Las innovaciones en la Plaza de las Nubes
+-----------------------------------------
+
+La intervención ocupará un espacio de **2 000 metros cuadrados** en la **Plaza de las Nubes de Quito**. Además de mejorar lo ya existente en el Panecillo, se pretende abrir **nuevos espacios**.
+
+Uno de ellos es el **mirador elevado**, que permitirá tener vistas panorámicas de la ciudad y los volcanes que la rodean.
+
+También se plantea construir un **graderío** que se oriente al **tótem** del **Inti Raymi.** El proyecto de la Plaza de las Nubes incluye un plan de manejo de la **vegetación** que preserve la **biodiversidad** de Quito.
+
+Además, la intención es que este sea un lugar donde se realicen **actividades culturales** en las que se cuenten las **historias de Quito.** La **renovación de El Panecillo** busca promover el sentido de la pertenencia de los quiteños. Finalmente, habrá también espacios creativos y de descanso para fomentar la convivencia.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-58-3-1024x683.jpg)
+
+Este será el graderío que se levantará frente al tótem, en El Panecillo. Foto: DK Managment
+
+Las razones de las mejoras
+--------------------------
+
+Para **Cristina Moshenek,** de DK , el “objetivo es **transformar** El Panecillo con un **enfoque integral**, que preserve y potencie su riqueza histórica y cultural”[.](https://es.wikipedia.org/wiki/El_Panecillo "https://es.wikipedia.org/wiki/El_Panecillo")
+
+Por otra parte, se busca mejorar la infraestructura, seguridad y accesibilidad. “Queremos crear un entorno **moderno, seguro y acogedor**“, añade Moshenek. .
