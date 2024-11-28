@@ -15,7 +15,6 @@ Our Company Our Company [Our Company](https://www.verizon.com/about/our-company)
     * [Overview](https://www.verizon.com/about/our-company/who-we-are)
     * [Diversity and Inclusion](https://www.verizon.com/about/our-company/diversity-and-inclusion)
     * [History and Timeline](https://www.verizon.com/about/our-company/history-and-timeline)
-    * [The Verizon Story](https://www.verizon.com/story)
     * [Headquarters & Contact Info](https://www.verizon.com/about/our-company/verizon-corporate-headquarters)
     * [Verizon Fact Sheet](https://www.verizon.com/about/our-company/verizon-fact-sheet)
     * [Leadership](https://www.verizon.com/about/our-company/executive-bios)
@@ -1225,7 +1224,6 @@ Support
 Innovation
 
 * [Innovation Labs](https://www.verizon.com/about/our-company/innovation-labs)
-* [The Verizon Story & Museum](https://www.verizon.com/story)
 * [Verizon Ventures](https://www.verizon.com/about/our-company/verizon-ventures)
 
 Network Technologies
