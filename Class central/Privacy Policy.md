@@ -414,9 +414,9 @@ Most common
 
 1. marketing
     
-2. computer science
+2. graphic design
     
-3. French
+3. machine learning
     
 
 Popular subjects
