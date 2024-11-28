@@ -17,7 +17,7 @@ English Edition
 * [অসমীয়া (Assam)](https://assam.news18.com/)
 * [ଓଡ଼ିଆ (Odia)](https://odia.news18.com/)
 
-Thu, Nov 28, 2024
+Fri, Nov 29, 2024
 
 [Download News18 APP](https://onelink.to/eng-web-other)[Watch LIVE TV](https://www.news18.com/livetv/)
 
@@ -128,12 +128,12 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
+    * [Sonakshi Sinha](https://www.news18.com/movies/sonakshi-sinhas-mother-poonam-takes-a-dig-at-zaheer-iqbal-usse-shaadi-ki-jisko-9137967.html)
+    * [Aishwarya Rai Bachchan](https://www.news18.com/movies/aishwarya-rais-sister-in-law-makes-rare-comment-on-actors-mom-battling-cancer-she-wasnt-looking-9137946.html)
+    * [Allu Arjun](https://www.news18.com/movies/allu-arjun-breaks-silence-on-fahadh-faasils-absence-from-pushpa-2-promotions-i-really-miss-9136715.html)
     * [Taj Mahal](https://www.news18.com/viral/foreigner-visits-taj-mahal-with-elderly-father-shares-frustration-on-social-media-in-viral-video-9135413.html)
-    * [Virat Kohli](https://www.news18.com/cricket/always-gotta-add-some-spice-virat-kohlis-cheeky-response-leaves-australian-pm-anthony-albanese-in-splits-9138255.html)
-    * [Zaheer Iqbal](https://www.news18.com/movies/sonakshi-sinhas-mother-poonam-takes-a-dig-at-zaheer-iqbal-usse-shaadi-ki-jisko-9137967.html)
-    * [WTC Final](https://www.news18.com/cricket/explained-how-both-india-australia-can-qualify-for-wtc-2025-final-9137876.html)
-    * [Best Indian Spinners](https://www.news18.com/cricket/not-ashwin-jadeja-or-harbhajan-ravi-shastri-picks-indias-3-best-spinners-of-all-time-watch-9137893.html)
-    * [New Asteriod](https://www.news18.com/world/nasa-discovers-asteroid-that-can-make-every-person-on-earth-billionaire-9136169.html)
+    * [Kareena Kapoor Khan](https://www.news18.com/web-stories/celebrities/5-kareena-kapoor-khan-inspired-saree-blouses-for-marriage-season-2642366/)
+    * [New Asteroid](https://www.news18.com/world/nasa-discovers-asteroid-that-can-make-every-person-on-earth-billionaire-9136169.html)
     * [Bengaluru Layoff](https://www.news18.com/viral/bengaluru-man-fired-after-2-5-months-over-a-text-message-says-feeling-confused-and-defeated-9138052.html)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
@@ -170,12 +170,12 @@ Follow us on
 
 In Trends:
 
+* [Sonakshi Sinha](https://www.news18.com/movies/sonakshi-sinhas-mother-poonam-takes-a-dig-at-zaheer-iqbal-usse-shaadi-ki-jisko-9137967.html)
+* [Aishwarya Rai Bachchan](https://www.news18.com/movies/aishwarya-rais-sister-in-law-makes-rare-comment-on-actors-mom-battling-cancer-she-wasnt-looking-9137946.html)
+* [Allu Arjun](https://www.news18.com/movies/allu-arjun-breaks-silence-on-fahadh-faasils-absence-from-pushpa-2-promotions-i-really-miss-9136715.html)
 * [Taj Mahal](https://www.news18.com/viral/foreigner-visits-taj-mahal-with-elderly-father-shares-frustration-on-social-media-in-viral-video-9135413.html)
-* [Virat Kohli](https://www.news18.com/cricket/always-gotta-add-some-spice-virat-kohlis-cheeky-response-leaves-australian-pm-anthony-albanese-in-splits-9138255.html)
-* [Zaheer Iqbal](https://www.news18.com/movies/sonakshi-sinhas-mother-poonam-takes-a-dig-at-zaheer-iqbal-usse-shaadi-ki-jisko-9137967.html)
-* [WTC Final](https://www.news18.com/cricket/explained-how-both-india-australia-can-qualify-for-wtc-2025-final-9137876.html)
-* [Best Indian Spinners](https://www.news18.com/cricket/not-ashwin-jadeja-or-harbhajan-ravi-shastri-picks-indias-3-best-spinners-of-all-time-watch-9137893.html)
-* [New Asteriod](https://www.news18.com/world/nasa-discovers-asteroid-that-can-make-every-person-on-earth-billionaire-9136169.html)
+* [Kareena Kapoor Khan](https://www.news18.com/web-stories/celebrities/5-kareena-kapoor-khan-inspired-saree-blouses-for-marriage-season-2642366/)
+* [New Asteroid](https://www.news18.com/world/nasa-discovers-asteroid-that-can-make-every-person-on-earth-billionaire-9136169.html)
 * [Bengaluru Layoff](https://www.news18.com/viral/bengaluru-man-fired-after-2-5-months-over-a-text-message-says-feeling-confused-and-defeated-9138052.html)
 
 * Follow Us
@@ -430,7 +430,7 @@ This Policy was last updated as of 14th November 2024.
 
 ![](https://images.news18.com/ibnlive/uploads/2021/07/1627283897_news18_logo-1200x800.jpg)
 
-Nov 28, 2024
+Nov 29, 2024
 
 [View All](https://www.news18.com/short-news/)
 
