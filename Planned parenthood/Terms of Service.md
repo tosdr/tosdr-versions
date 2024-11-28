@@ -315,17 +315,17 @@ Planned Parenthood Federation of America, Inc. (PPFA) works to protect and expan
 
 © 2024 Planned Parenthood Federation of America Inc.
 
-[Español](https://www.plannedparenthood.org/es/condiciones-de-uso)
-
 ### This website uses cookies
 
-Planned Parenthood cares about your data privacy. We and our third-party vendors use cookies and other tools to collect, store, monitor, and analyze information about your interaction with our site to improve performance, analyze your use of our sites and assist in our marketing efforts. You may opt out of the use of these cookies and other tools at any time by visiting Cookie Settings. By clicking “Allow All Cookies” you consent to our collection and use of such data, and our [Terms of Use](https://www.plannedparenthood.org/terms-use). For more information, see our [Privacy Notice](https://www.plannedparenthood.org/privacy-policy).
+Planned Parenthood cares about your healthcare privacy and information preferences. We and our third-party vendors use cookies and other tools to collect, store, monitor, and analyze information about your interaction with our site, to improve performance, analyze your use of our sites and assist in our marketing efforts. We also use analytics to better understand how users book appointments. You may edit the use of these cookies and other tools at any time by visiting Cookie Settings. By clicking “Allow All Cookies” you consent to our collection and use of such data, and our [](https://www.plannedparenthood.org/terms-of-use)Terms of Use. For more information, see our [Privacy Notice](https://www.plannedparenthood.org/privacy-policy). Planned Parenthood Federation of America uses tracking technologies to improve your site experience. By using this site you agree to our general use of cookies on some of our pages. To learn more, see our [Privacy Notice](https://www.plannedparenthood.org/privacy-policy) or by viewing your Cookie Settings.
 
-Allow all Cookie settings
+[Español](https://www.plannedparenthood.org/es/condiciones-de-uso)
+
+Cookie settings Allow all
 
 ### Cookie Settings
 
-Planned Parenthood cares about your data privacy. We and our third-party vendors, use cookies, pixels, and other tracking technologies to collect, store, monitor, and process certain information about you when you access and use our services, read our emails, or otherwise engage with us. The information collected might relate to you, your preferences, or your device. We use that information to make the site work, analyze performance and traffic on our website, to provide a more personalized web experience, and assist in our marketing efforts. We also share information with our social media, advertising, and analytics partners. You can change your default settings according to your preference. You cannot opt-out of required cookies when utilizing our site; this includes necessary cookies that help our site to function (such as remembering your cookie preference settings). For more information, please see our [Privacy Notice](https://www.plannedparenthood.org/privacy-policy).
+We, and our third-party partners, use cookies, pixels, and other tracking technologies to collect, store, monitor, and process certain information about you when you access and use our services, read our emails, or otherwise engage with us. The information collected might relate to you, your preferences, or your device. We use that information to make the site work, analyze performance and traffic on our website, to provide a more personalized web experience, and assist in our marketing efforts. We also share information with our social media, advertising, and analytics partners. You can change your default settings according to your preference. You cannot opt-out of required cookies when utilizing our site; this includes necessary cookies that help our site to function (such as remembering your cookie preference settings). For more information, please see our [Privacy Notice](https://www.plannedparenthood.org/privacy-policy).
 
 #### Marketing
 
