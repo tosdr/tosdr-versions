@@ -94,13 +94,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Cervical cancer deaths are plummeting among young U.S. women](https://www.sciencenews.org/article/cervical-cancer-deaths-fall-young-women)
             
-            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")17 hours ago
+            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")23 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
             ### [Sluggish proteins may underpin aging and chronic disease](https://www.sciencenews.org/article/sluggish-proteins-aging-chronic-disease)
             
-            By [Elie Dolgin](https://www.sciencenews.org/author/elie-doglin "Posts by Elie Dolgin")17 hours ago
+            By [Elie Dolgin](https://www.sciencenews.org/author/elie-doglin "Posts by Elie Dolgin")23 hours ago
             
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
             
@@ -124,7 +124,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [This ‘hidden figure’ of entomology fought for civil rights](https://www.sciencenews.org/article/maragret-collins-entomology-termite)
             
-            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")20 hours ago
+            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")November 27, 2024
             
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
             
@@ -199,6 +199,12 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
     * Recent posts in Space
         ---------------------
         
+        * [Space](https://www.sciencenews.org/topic/space)
+            
+            ### [What will it take to defend the world from an asteroid?](https://www.sciencenews.org/article/robin-andrews-kill-asteroid-review)
+            
+            By [Shi En Kim](https://www.sciencenews.org/author/shi-en-kim "Posts by Shi En Kim")2 hours ago
+            
         * [Astronomy](https://www.sciencenews.org/topic/astronomy)
             
             ### [This is the first close-up image of a star beyond our galaxy](https://www.sciencenews.org/article/first-close-image-star-beyond-galaxy)
@@ -210,12 +216,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [Mars’ potato-shaped moons could be the remains of a shredded asteroid](https://www.sciencenews.org/article/mars-moons-shredded-asteroid)
             
             By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")November 20, 2024
-            
-        * [Cosmology](https://www.sciencenews.org/topic/cosmology)
-            
-            ### [Einstein’s gravity endures despite a dark energy puzzle](https://www.sciencenews.org/article/einstein-gravity-dark-energy-desi) 
-            
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")November 19, 2024
             
 
 Privacy Policy
