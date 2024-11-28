@@ -134,105 +134,105 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![Jubrius](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256273.thumb.jpeg.58fff80c5679d933f640eb2b9d5d5c29.jpeg)](https://www.clubedohardware.com.br/profile/1256273-jubrius/ "Ir ao perfil de Jubrius")
+    * [![Justin farias](https://www.clubedohardware.com.br/uploads/members/monthly_2020_10/imported-photo-1114416.thumb.png.d7a1b3e07d0ffcb161489893debe4591.png)](https://www.clubedohardware.com.br/profile/1114416-justin-farias/ "Ir ao perfil de Justin farias")
         
         0
         
-        [Qual é a melhor marca para uma RTX 4060 Ti?](https://www.clubedohardware.com.br/forums/topic/1703737-qual-%C3%A9-a-melhor-marca-para-uma-rtx-4060-ti/?do=getNewComment "Qual é a melhor marca para uma RTX 4060 Ti?")
+        [Limite de internet após troca de placa-mãe e processador](https://www.clubedohardware.com.br/forums/topic/1703756-limite-de-internet-ap%C3%B3s-troca-de-placa-m%C3%A3e-e-processador/?do=getNewComment "Limite de internet após troca de placa-mãe e processador")
+        
+        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
+        Por [Justin farias](https://www.clubedohardware.com.br/profile/1114416-justin-farias/ "Ir ao perfil de Justin farias")  
+        3 minutos atrás
+        
+    * [![Kakgomes](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23abc462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EK%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1257013-kakgomes/ "Ir ao perfil de Kakgomes")
+        
+        0
+        
+        [Sugestao de placa de Vídeo para aorus b450m](https://www.clubedohardware.com.br/forums/topic/1703755-sugestao-de-placa-de-v%C3%ADdeo-para-aorus-b450m/?do=getNewComment "Sugestao de placa de Vídeo para aorus b450m")
         
         [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Jubrius](https://www.clubedohardware.com.br/profile/1256273-jubrius/ "Ir ao perfil de Jubrius")  
-        1 hora atrás
+        Por [Kakgomes](https://www.clubedohardware.com.br/profile/1257013-kakgomes/ "Ir ao perfil de Kakgomes")  
+        15 minutos atrás
         
-    * [![_arturzz](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23939393%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1256999-_arturzz/ "Ir ao perfil de _arturzz")
-        
-        0
-        
-        [tamanho da tampa lateral do gabinete](https://www.clubedohardware.com.br/forums/topic/1703736-tamanho-da-tampa-lateral-do-gabinete/?do=getNewComment "tamanho da tampa lateral do gabinete")
-        
-        [Gabinetes e casemod](https://www.clubedohardware.com.br/forums/forum/81-gabinetes-e-casemod/ "Gabinetes e casemod")  
-        Por [\_arturzz](https://www.clubedohardware.com.br/profile/1256999-_arturzz/ "Ir ao perfil de _arturzz")  
-        1 hora atrás
-        
-    * [![Jubrius](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256273.thumb.jpeg.58fff80c5679d933f640eb2b9d5d5c29.jpeg)](https://www.clubedohardware.com.br/profile/1256273-jubrius/ "Ir ao perfil de Jubrius")
+    * [![AirSkate14](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1231761.thumb.png.658c96e8231aa9b9ee4804771a1a58b4.png)](https://www.clubedohardware.com.br/profile/1231761-airskate14/ "Ir ao perfil de AirSkate14")
         
         0
         
-        [RTX 4060 ou RTX 4060 Ti?](https://www.clubedohardware.com.br/forums/topic/1703735-rtx-4060-ou-rtx-4060-ti/?do=getNewComment "RTX 4060 ou RTX 4060 Ti?")
+        [Recomendação de montagem de computador para jogos de até R$5.500](https://www.clubedohardware.com.br/forums/topic/1703753-recomenda%C3%A7%C3%A3o-de-montagem-de-computador-para-jogos-de-at%C3%A9-r5500/?do=getNewComment "Recomendação de montagem de computador para jogos de até R$5.500")
         
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Jubrius](https://www.clubedohardware.com.br/profile/1256273-jubrius/ "Ir ao perfil de Jubrius")  
-        1 hora atrás
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [AirSkate14](https://www.clubedohardware.com.br/profile/1231761-airskate14/ "Ir ao perfil de AirSkate14")  
+        23 minutos atrás
         
-    * [![Deathstroke177](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256521.thumb.png.7e36068e4cbae40ac89cc5992cd4f7c3.png)](https://www.clubedohardware.com.br/profile/1256521-deathstroke177/ "Ir ao perfil de Deathstroke177")
+    * [![Pedro HJ](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1257010.thumb.png.ca5aece4b4741846f8cfa7e1154e21f2.png)](https://www.clubedohardware.com.br/profile/1257010-pedro-hj/ "Ir ao perfil de Pedro HJ")
         
         0
         
-        [Compatibilidade da RTX 4060 Ti Triple Fan com o Gabinete Mancer e a Placa-mãe AS](https://www.clubedohardware.com.br/forums/topic/1703734-compatibilidade-da-rtx-4060-ti-triple-fan-com-o-gabinete-mancer-e-a-placa-m%C3%A3e-as/?do=getNewComment "Compatibilidade da RTX 4060 Ti Triple Fan com o Gabinete Mancer e a Placa-mãe AS")
+        [Headset P3 não funciona microfone em notebook Lenovo BS-145-15 iil](https://www.clubedohardware.com.br/forums/topic/1703751-headset-p3-n%C3%A3o-funciona-microfone-em-notebook-lenovo-bs-145-15-iil/?do=getNewComment "Headset P3 não funciona microfone em notebook Lenovo BS-145-15 iil")
         
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Deathstroke177](https://www.clubedohardware.com.br/profile/1256521-deathstroke177/ "Ir ao perfil de Deathstroke177")  
+        [Caixas de som, fones, microfones e headsets](https://www.clubedohardware.com.br/forums/forum/144-caixas-de-som-fones-microfones-e-headsets/ "Caixas de som, fones, microfones e headsets")  
+        Por [Pedro HJ](https://www.clubedohardware.com.br/profile/1257010-pedro-hj/ "Ir ao perfil de Pedro HJ")  
+        53 minutos atrás
+        
+    * [![henrique rib](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1248658.thumb.png.2ea4c0143639cd95e14baf93facb1513.png)](https://www.clubedohardware.com.br/profile/1248658-henrique-rib/ "Ir ao perfil de henrique rib")
+        
+        0
+        
+        [Qual placa-mãe aguenta Ryzen 5 7600 e RTX 4060/3060 - AM5](https://www.clubedohardware.com.br/forums/topic/1703750-qual-placa-m%C3%A3e-aguenta-ryzen-5-7600-e-rtx-40603060-am5/?do=getNewComment "Qual placa-mãe aguenta Ryzen 5 7600 e  RTX 4060/3060 - AM5")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [henrique rib](https://www.clubedohardware.com.br/profile/1248658-henrique-rib/ "Ir ao perfil de henrique rib")  
+        53 minutos atrás
+        
+    * [![TheDemonLena](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1090527.thumb.jpeg.46d8e381bc7d55d703f4d44ef16fc161.jpeg)](https://www.clubedohardware.com.br/profile/1090527-thedemonlena/ "Ir ao perfil de TheDemonLena")
+        
+        9
+        
+        [Como instalar Windows no linux](https://www.clubedohardware.com.br/forums/topic/1703749-como-instalar-windows-no-linux/?do=getNewComment "Como instalar Windows no linux")
+        
+        [Linux](https://www.clubedohardware.com.br/forums/forum/102-linux/ "Linux")  
+        Por [TheDemonLena](https://www.clubedohardware.com.br/profile/1090527-thedemonlena/ "Ir ao perfil de TheDemonLena")  
         1 hora atrás
         
-    * [![ThiagoDonola](https://www.clubedohardware.com.br/uploads/members/monthly_2020_10/imported-photo-1058564.thumb.jpeg.fee0fa72c0775261ef119f0caaafc4dc.jpeg)](https://www.clubedohardware.com.br/profile/1058564-thiagodonola/ "Ir ao perfil de ThiagoDonola")
+    * [![Kamito](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253202.thumb.jpeg.e0c7d46425c98e75f33ca34abf9726b8.jpeg)](https://www.clubedohardware.com.br/profile/1253202-kamito/ "Ir ao perfil de Kamito")
+        
+        1
+        
+        [fan argb 6 Pinos e 12v ou 5v](https://www.clubedohardware.com.br/forums/topic/1703748-fan-argb-6-pinos-e-12v-ou-5v/?do=getNewComment "fan argb 6 Pinos e 12v ou 5v")
+        
+        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
+        Por [Kamito](https://www.clubedohardware.com.br/profile/1253202-kamito/ "Ir ao perfil de Kamito")  
+        1 hora atrás
+        
+    * [![courte](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1257006.thumb.png.18a34b6ce0c67d69292463168fa21ce1.png)](https://www.clubedohardware.com.br/profile/1257006-courte/ "Ir ao perfil de courte")
+        
+        0
+        
+        [Filtro de linha e Pocket com protetor contra surtos (DPS)](https://www.clubedohardware.com.br/forums/topic/1703747-filtro-de-linha-e-pocket-com-protetor-contra-surtos-dps/?do=getNewComment "Filtro de linha e Pocket com protetor contra surtos (DPS)")
+        
+        [Eletrônica](https://www.clubedohardware.com.br/forums/forum/30-eletr%C3%B4nica/ "Eletrônica")  
+        Por [courte](https://www.clubedohardware.com.br/profile/1257006-courte/ "Ir ao perfil de courte")  
+        1 hora atrás
+        
+    * [![Justin farias](https://www.clubedohardware.com.br/uploads/members/monthly_2020_10/imported-photo-1114416.thumb.png.d7a1b3e07d0ffcb161489893debe4591.png)](https://www.clubedohardware.com.br/profile/1114416-justin-farias/ "Ir ao perfil de Justin farias")
         
         3
         
-        [Qualquer jogo de emulador android aumenta a memória RAM gradualmente no meu PC](https://www.clubedohardware.com.br/forums/topic/1703733-qualquer-jogo-de-emulador-android-aumenta-a-mem%C3%B3ria-ram-gradualmente-no-meu-pc/?do=getNewComment "Qualquer jogo de emulador android aumenta a memória RAM gradualmente no meu PC")
+        [Internet limitada após troca de componentes no computador](https://www.clubedohardware.com.br/forums/topic/1703746-internet-limitada-ap%C3%B3s-troca-de-componentes-no-computador/?do=getNewComment "Internet limitada após troca de componentes no computador")
         
-        [Problemas de desempenho](https://www.clubedohardware.com.br/forums/forum/256-problemas-de-desempenho/ "Problemas de desempenho")  
-        Por [ThiagoDonola](https://www.clubedohardware.com.br/profile/1058564-thiagodonola/ "Ir ao perfil de ThiagoDonola")  
+        [Outros problemas de hardware](https://www.clubedohardware.com.br/forums/forum/125-outros-problemas-de-hardware/ "Outros problemas de hardware")  
+        Por [Justin farias](https://www.clubedohardware.com.br/profile/1114416-justin-farias/ "Ir ao perfil de Justin farias")  
         2 horas atrás
         
-    * [![ZeastfulAggio](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1189715.thumb.jpeg.d70eaa0896290a55ee58cf4ef51519be.jpeg)](https://www.clubedohardware.com.br/profile/1189715-zeastfulaggio/ "Ir ao perfil de ZeastfulAggio")
+    * [![vMATHEUSp](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1257004.thumb.png.5335e2223689c1a29f808441ba3ce85c.png)](https://www.clubedohardware.com.br/profile/1257004-vmatheusp/ "Ir ao perfil de vMATHEUSp")
         
-        0
+        10
         
-        [Dicas de upgrade para 2025](https://www.clubedohardware.com.br/forums/topic/1703732-dicas-de-upgrade-para-2025/?do=getNewComment "Dicas de upgrade para 2025")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [ZeastfulAggio](https://www.clubedohardware.com.br/profile/1189715-zeastfulaggio/ "Ir ao perfil de ZeastfulAggio")  
-        3 horas atrás
-        
-    * [![SantiagoFL](https://www.clubedohardware.com.br/uploads/members/monthly_2023_12/imported-photo-1211730.thumb.gif.abc7d9936ca74673e32600e80b273750.gif)](https://www.clubedohardware.com.br/profile/1211730-santiagofl/ "Ir ao perfil de SantiagoFL")
-        
-        0
-        
-        [Sugestão de Upgrade pra Pc](https://www.clubedohardware.com.br/forums/topic/1703731-sugest%C3%A3o-de-upgrade-pra-pc/?do=getNewComment "Sugestão de Upgrade pra Pc")
+        [Recomendações de Upgrade, Ryzen 5 5500 e RTX 3060 12Gb, vale a pena?](https://www.clubedohardware.com.br/forums/topic/1703745-recomenda%C3%A7%C3%B5es-de-upgrade-ryzen-5-5500-e-rtx-3060-12gb-vale-a-pena/?do=getNewComment "Recomendações de Upgrade, Ryzen 5 5500 e RTX 3060 12Gb, vale a pena?")
         
         [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [SantiagoFL](https://www.clubedohardware.com.br/profile/1211730-santiagofl/ "Ir ao perfil de SantiagoFL")  
-        3 horas atrás
-        
-    * [![Robert Macedo](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c46290%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ERM%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1173775-robert-macedo/ "Ir ao perfil de Robert Macedo")
-        
-        1
-        
-        [Tela Azul - Slot da Placa-Mãe ou memória RAM?](https://www.clubedohardware.com.br/forums/topic/1703730-tela-azul-slot-da-placa-m%C3%A3e-ou-mem%C3%B3ria-ram/?do=getNewComment "Tela Azul - Slot da Placa-Mãe ou memória RAM?")
-        
-        [Telas azuis](https://www.clubedohardware.com.br/forums/forum/124-telas-azuis/ "Telas azuis")  
-        Por [Robert Macedo](https://www.clubedohardware.com.br/profile/1173775-robert-macedo/ "Ir ao perfil de Robert Macedo")  
-        3 horas atrás
-        
-    * [![kalend0](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/-a28r9g.thumb.jpg.f1a61edcf8880b963553eaa93ea29c6e.jpg)](https://www.clubedohardware.com.br/profile/1256996-kalend0/ "Ir ao perfil de kalend0")
-        
-        0
-        
-        [Brickei uma Colorful H510: o que posso fazer agora?](https://www.clubedohardware.com.br/forums/topic/1703729-brickei-uma-colorful-h510-o-que-posso-fazer-agora/?do=getNewComment "Brickei uma Colorful H510: o que posso fazer agora?")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [kalend0](https://www.clubedohardware.com.br/profile/1256996-kalend0/ "Ir ao perfil de kalend0")  
-        3 horas atrás
-        
-    * [![dieegofs](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256994.thumb.jpeg.2c711ef6e82d850516b6b09bd6918a93.jpeg)](https://www.clubedohardware.com.br/profile/1256994-dieegofs/ "Ir ao perfil de dieegofs")
-        
-        1
-        
-        [montar primeiro pc - custo-benefício](https://www.clubedohardware.com.br/forums/topic/1703728-montar-primeiro-pc-custo-benef%C3%ADcio/?do=getNewComment "montar primeiro pc - custo-benefício")
-        
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [dieegofs](https://www.clubedohardware.com.br/profile/1256994-dieegofs/ "Ir ao perfil de dieegofs")  
-        3 horas atrás
+        Por [vMATHEUSp](https://www.clubedohardware.com.br/profile/1257004-vmatheusp/ "Ir ao perfil de vMATHEUSp")  
+        2 horas atrás
         
     
 
