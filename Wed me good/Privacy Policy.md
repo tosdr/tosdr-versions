@@ -168,17 +168,17 @@ By Theme
 
 Latest Real Weddings
 
-[![Sana and Garvit](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
+[![Shelly and Ishan](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
 
-![Sana and Garvit](https://image.wedmegood.com/resized/250X/uploads/images/377fc1a722514bb8b5f0937d2cac4c2crealwedding/DIL_1952Large.jpeg?crop=97,197,1013,569)
+![Shelly and Ishan](https://image.wedmegood.com/resized/250X/uploads/images/ed6d3c15cfad407291e6e9ab2e7821f4realwedding/VISH0294.jpg?crop=244,366,954,536)
 
-Sana and Garvit (Mussoorie)](https://www.wedmegood.com/real_wedding/detail/sana-and-garvit-mussoorie-cross-culture-wedding-4437)
+Shelly and Ishan (Karnal)](https://www.wedmegood.com/real_wedding/detail/shelly-and-ishan-karnal-wedding-4440)
 
-[![Pooja and Neeraj](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
+[![Aditi Rao Hydari and Sidharth](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
 
-![Pooja and Neeraj](https://image.wedmegood.com/resized/250X/uploads/images/d901449e99e14617a0e1b226e6f931a4realwedding/_NAN2750(1)Large.jpeg?crop=156,101,1012,569)
+![Aditi Rao Hydari and Sidharth](https://image.wedmegood.com/resized/250X/uploads/images/0c567aba551046d7b6f9a8a122d177d5realwedding/Snapinsta.app_468627430_927961662192143_6462890063787209751_n_1080.jpg?crop=104,585,858,482)
 
-Pooja and Neeraj (Mumbai)](https://www.wedmegood.com/real_wedding/detail/pooja-and-neeraj-mumbai-cross-culture-wedding-4436)
+Aditi Rao Hydari and Sidharth (Rajasthan)](https://www.wedmegood.com/real_wedding/detail/aditi-rao-hydari-and-sidharth-rajasthan-cross-culture-wedding-4439)
 
 Browse by Category
 
