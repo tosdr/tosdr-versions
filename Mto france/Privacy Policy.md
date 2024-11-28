@@ -187,6 +187,7 @@ PUBLIC - Menu burger
 * [Nos Services](https://services.meteofrance.com/ "Offres et Services de Météo-France")
 * [Applications mobiles](https://meteofrance.com/applications-mobiles "Applications mobiles")
 * [Widgets](https://meteofrance.com/widgets "Widgets Météo-France")
+* [Testez nos prototypes](https://meteofrance.com/la-fabrique-prototypes)
 
 Suivez-nous
 
@@ -231,7 +232,8 @@ Le Délégué à la Protection des Données personnelles au sein de Météo-Fran
 
 L’utilisation des sites Internet des prévisions peuvent générer le traitement et la collecte des données personnelles suivantes :
 
-* Adresse IP, lors de la navigation lors de l'utilisation des sites Internet de prévisions.
+* Adresse IP, lors de la navigation lors de l'utilisation des sites Internet de prévisions ;
+* Adresse mail et nom en cas d'utilisation du formulaire situé sur la page : [https://meteofrance.com/la-fabrique-prototypes/risque-de-vagues-scelerates/et-si-vous-nous-en-disiez-plus](https://meteofrance.com/la-fabrique-prototypes/risque-de-vagues-scelerates/et-si-vous-nous-en-disiez-plus)
 
 ### b. Exclusion des Données sensibles
 
@@ -240,13 +242,16 @@ Dans le cadre de son activité, Météo-France garantit ne traiter aucune donné
 III. FINALITÉS & DUREES DE CONSERVATION
 ---------------------------------------
 
-| Catégorie | Finalités | Durée de conservation |
+|     |     |     |
 | --- | --- | --- |
+| **Catégorie** | **Finalités** | **Durée de conservation** |
 | Cookies | Fonctionnement et amélioration du site et des services | 13 mois |
 | Cookies | Mesures d’audience | 13 mois |
 | Cookies | Publicités ciblées (Pour Sites de Prévisions uniquement) | 13 mois |
 | Adresse IP | Maintenance et supervision informatique de la plateforme d'alimentation | 2 jours |
 | Adresse IP | Maintenance et supervision informatique du site Internet | 2 jours |
+| Adresse mail | Demande éventuelle de compléments suite aux retours sur les produits de la rubrique "La fabrique à prototypes" | 6 mois |
+| Nom | Demande éventuelle de compléments suite aux retours sur les produits de la rubrique "La fabrique à prototypes" | 6 mois |
 
 IV. ACCÈS
 ---------
