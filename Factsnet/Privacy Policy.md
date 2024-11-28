@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![35 Facts About Gandhi Death ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%221%22 height=%221%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/historical-events/35-facts-about-gandhi-death/)
+[![35 Facts About Dunchraigaig Cairn ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%221%22 height=%221%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/culture-and-the-arts/35-facts-about-dunchraigaig-cairn/)
 
-Historical Events
+Culture & The Arts
 
-27 Nov 2024
+28 Nov 2024
 
-[35 Facts About Gandhi Death](https://facts.net/history/historical-events/35-facts-about-gandhi-death/)
+[35 Facts About Dunchraigaig Cairn](https://facts.net/culture-and-the-arts/35-facts-about-dunchraigaig-cairn/)
 
-[![34 Facts About Shah Jahan ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%221%22 height=%221%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/people/34-facts-about-shah-jahan/)
+[![35 Facts About Incredible Illnesses ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%221%22 height=%221%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/35-facts-about-incredible-illnesses/)
 
-People
+Health Science
 
-27 Nov 2024
+28 Nov 2024
 
-[34 Facts About Shah Jahan](https://facts.net/history/people/34-facts-about-shah-jahan/)
+[35 Facts About Incredible Illnesses](https://facts.net/fitness-and-wellbeing/health-science/35-facts-about-incredible-illnesses/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
