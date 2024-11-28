@@ -110,7 +110,7 @@
 
 [Test Preps](#)
 
-[SAT Test Preparation](https://www.literacentre.com/sat/ "SAT Test Preparation Online")
+[SAT Test Preparation](https://www.literacentre.com/sat-online-coaching/ "SAT Test Preparation Online")
 
 [ACT Test Prep](https://www.literacentre.com/act/ "ACT Test Preparation Online")
 
