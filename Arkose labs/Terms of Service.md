@@ -378,4 +378,4 @@ New Research: Benchmark your defensive AI maturity against peers
 
                                                
 
-https://www.arkoselabs.com/arkose-university/sign-up/
+https://www.arkoselabs.com/legal/terms-of-use
