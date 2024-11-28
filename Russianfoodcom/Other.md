@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_6.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_9.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,16 +148,16 @@
 
 Сейчас читают
 
-* [Курица в сливочно-винном соусе с беконом и кинзой](https://www.russianfood.com/recipes/recipe.php?rid=172339)
+* [Паштет из куриной печени](https://www.russianfood.com/recipes/recipe.php?rid=160107)
+* [Салат "Метёлка" из свёклы, моркови и яблок](https://www.russianfood.com/recipes/recipe.php?rid=164016)
 * [Рулетики из слоёного теста с консервированной фасолью и овощами](https://www.russianfood.com/recipes/recipe.php?rid=166187)
 * [Овощная лазанья из лаваша](https://www.russianfood.com/recipes/recipe.php?rid=165198)
 * [Рис с грибами, помидорами и болгарским перцем (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=163093)
 * [Картофельная запеканка с твёрдым сыром и фетой](https://www.russianfood.com/recipes/recipe.php?rid=174623)
-* [Борщ с квашеной капустой и зелёным горошком](https://www.russianfood.com/recipes/recipe.php?rid=172919)
-* [Завтрак из хека](https://www.russianfood.com/recipes/recipe.php?rid=573)
 * [Яблоки, фаршированные мясом цыпленка](https://www.russianfood.com/recipes/recipe.php?rid=926)
-* [Рисовый пудинг](https://www.russianfood.com/recipes/recipe.php?rid=2883)
-* [Пудинг рисовый с изюмом](https://www.russianfood.com/recipes/recipe.php?rid=3092)
+* [Ростбиф-I](https://www.russianfood.com/recipes/recipe.php?rid=3840)
+* [Тминный квас](https://www.russianfood.com/recipes/recipe.php?rid=3849)
+* [Запеканка из говяжьей тушенки](https://www.russianfood.com/recipes/recipe.php?rid=3857)
 
 |     |
 | --- |
@@ -457,13 +457,6 @@
 |     |     |
 | [Подписаться письмом](mailto:home.cookery.prostierecepti-sub@subscribe.ru?subj=subscribe) |     |
 
-Новые рецепты:
-
-|     |     |     |     |     |
-| --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741489.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174188) | [![](//img1.russianfood.com/dycontent/images_upl/755/alt1_754844.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174322) | [![](//img1.russianfood.com/dycontent/images_upl/755/alt1_754751.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174921) | [![](//img1.russianfood.com/dycontent/images_upl/736/alt1_735960.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173408) | [![](//img1.russianfood.com/dycontent/images_upl/748/alt1_747417.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174315) |
-| [Слойки с дыней и бананом](https://www.russianfood.com/recipes/recipe.php?rid=174188) | [Рагу с цветной капустой и грибами](https://www.russianfood.com/recipes/recipe.php?rid=174322) | [Рулет из лаваша с морковью по-корейски, сыром и зеленью](https://www.russianfood.com/recipes/recipe.php?rid=174921) | [Салат из капусты с зелёным горошком и яйцами](https://www.russianfood.com/recipes/recipe.php?rid=173408) | [Котлеты с рисом, сыром и крабовыми палочками](https://www.russianfood.com/recipes/recipe.php?rid=174315) |
-
 |     |     |     |
 | --- | --- | --- |
 | ![](//img1.russianfood.com/images/common/bottom_line1.jpg) | ![](//img1.russianfood.com/images/common/bottom_line2.jpg) |     |
@@ -479,4 +472,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(112)
+(109)
