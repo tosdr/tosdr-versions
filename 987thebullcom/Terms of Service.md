@@ -212,11 +212,11 @@ Recently Played
 
 |     |
 | --- |
-| I Remember EverythingZach Bryan Ft Kacey Musgraves<br><br>10:37am |
-| Famous FriendsChris Young And Kane Brown<br><br>10:34am |
-| As Good As I Once WasToby Keith<br><br>10:31am |
-| A Lot More FreeMax Mcnown<br><br>10:28am |
-| Wind Up Missing YouTucker Wetmore<br><br>10:25am |
+| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>4:38pm |
+| Beautiful CrazyLuke Combs<br><br>4:35pm |
+| The PainterCody Johnson<br><br>4:32pm |
+| Pink SkiesZach Bryan<br><br>4:29pm |
+| No Shoes, No Shirt, No ProblemKenny Chesney<br><br>4:26pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -360,21 +360,21 @@ State
 Featured Brands
 ---------------
 
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+
+Top 40 • Eastern
+
 [![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
 Top 40 • Pacific NW
-
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
-
-News Talk • Eastern
 
 [![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
 Country • Western
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
-Country • Western
+Sports • Midwest
 
 [](https://www.alphamediausa.com/)
 
