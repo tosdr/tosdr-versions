@@ -12,19 +12,11 @@
 
 Search
 
-  Search our store 
+  Search 
 
 Close search
 
 [![AreYouGame.com](//areyougame.com/cdn/shop/files/AYG_Logo_Flatlg_900x.png?v=1614326358)](https://areyougame.com/)
-
-[Search](https://areyougame.com/search)
-
-Search
-
-  Search our store 
-
-Close search
 
 [](https://areyougame.com/account)
 
@@ -37,7 +29,7 @@ Close search
 
 Search
 
-  Search our store 
+  Search 
 
 * [GAMES](https://areyougame.com/collections/games)
     * [SHOP BY CATEGORY](#)
@@ -226,7 +218,7 @@ Search
 
 Search
 
-  Search our store 
+  Search 
 
 Close search
 
@@ -236,6 +228,12 @@ Close search
 * [Create an account](https://areyougame.com/account/register)
 
 [0](https://areyougame.com/cart)
+
+Search
+
+  Search 
+
+Close search
 
 [](#)
 
