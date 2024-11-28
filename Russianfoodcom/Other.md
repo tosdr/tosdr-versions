@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_9.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_10.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,16 +148,14 @@
 
 Сейчас читают
 
+* [Котлеты с рисом, сыром и крабовыми палочками](https://www.russianfood.com/recipes/recipe.php?rid=174315)
+* [Паштет из фасоли с грибами](https://www.russianfood.com/recipes/recipe.php?rid=171889)
 * [Паштет из куриной печени](https://www.russianfood.com/recipes/recipe.php?rid=160107)
-* [Салат "Метёлка" из свёклы, моркови и яблок](https://www.russianfood.com/recipes/recipe.php?rid=164016)
 * [Рулетики из слоёного теста с консервированной фасолью и овощами](https://www.russianfood.com/recipes/recipe.php?rid=166187)
 * [Овощная лазанья из лаваша](https://www.russianfood.com/recipes/recipe.php?rid=165198)
 * [Рис с грибами, помидорами и болгарским перцем (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=163093)
-* [Картофельная запеканка с твёрдым сыром и фетой](https://www.russianfood.com/recipes/recipe.php?rid=174623)
 * [Яблоки, фаршированные мясом цыпленка](https://www.russianfood.com/recipes/recipe.php?rid=926)
 * [Ростбиф-I](https://www.russianfood.com/recipes/recipe.php?rid=3840)
-* [Тминный квас](https://www.russianfood.com/recipes/recipe.php?rid=3849)
-* [Запеканка из говяжьей тушенки](https://www.russianfood.com/recipes/recipe.php?rid=3857)
 
 |     |
 | --- |
@@ -182,6 +180,20 @@
 
 |     |     |
 | --- | --- |
+| Для прессы<br><br>[Простые продукты - гармоничные блюда. Время САЛАТОВ (152)](https://www.russianfood.com/reading/?post_id=22930) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/715/sm_714413.jpg)](https://www.russianfood.com/reading/?post_id=22930)
+
+Салат со шпротами и картофелем. Салат со свёклой, тыквой и брынзой. Салат с куриной печенью и помидорами. Салат из свежих шампиньонов. Салат с пекинской капустой и фунчозой.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22930)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22930#comments) | 28.11.24 |     |
+
+|     |     |
+| --- | --- |
 | Рецепты<br><br>[Слойки с дыней и бананом](https://www.russianfood.com/recipes/recipe.php?rid=174188) |     |
 
 [![Фото к рецепту: Слойки с дыней и бананом](//img1.russianfood.com/dycontent/images_upl/742/sm_741489.jpg "Фото к рецепту: Слойки с дыней и бананом")](https://www.russianfood.com/recipes/recipe.php?rid=174188)
@@ -192,7 +204,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [ДЕСЕРТация](https://www.russianfood.com/blogs/?id=421376) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174188#comments) | 27.11.24 |     |
+|     | [ДЕСЕРТация](https://www.russianfood.com/blogs/?id=421376) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174188#comments) | 27.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -262,7 +274,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_10 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174921#comments) | 27.11.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_12 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174921#comments) | 27.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -376,20 +388,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [HomeRecipes](https://www.russianfood.com/blogs/?id=300916) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [1](https://www.russianfood.com/recipes/recipe.php?rid=174908#comments) | 26.11.24 |     |
 
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Каждый из них хорош. Лучшие САЛАТЫ №24-48](https://www.russianfood.com/reading/?post_id=22922) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/736/sm_735596.jpg)](https://www.russianfood.com/reading/?post_id=22922)
-
-Салат с рыбными консервами и овощами. Салат с курицей и пекинской капустой. Салат с краснокочанной капустой, тыквой и виноградом. Салат с копчёной колбасой и овощами. Салат с копчёной колбасой, овощами и сыром. Винегрет с орехами. Салат с копчёной курицей и пекинской капустой.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22922)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие салаты](https://www.russianfood.com/blogs/?id=325071) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22922#comments) | 25.11.24 |     |
-
 |     |
 | --- |
 | ← Предыдущая \| [Следующая →](https://www.russianfood.com/?page=2) |
@@ -472,4 +470,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(109)
+(154)
