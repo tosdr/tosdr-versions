@@ -880,6 +880,10 @@ Contact Us
 
 ![Image 43](/_next/image?url=%2Fassets%2Fc963d67e-a08a-4652-9f6d-48a489bfe13a&w=128&q=75)
 
+![Instant Bank Transfer](/_next/image?url=%2Fassets%2F6ca896b3-bc79-4f12-9b6f-682e6a1be094&w=128&q=75)
+
+![Wire Transfer](/_next/image?url=%2Fassets%2F8129c0cd-81cd-4599-8587-2bfc12d06820&w=128&q=75)
+
 Instacoins Europe EOOD is registered in 63, Office 1, Tsar Boris III Blvd, 1612 Hipodruma, Sofia, Bulgaria with company registration number 206805724. Instacoins Europe EOOD is licensed by the Bulgarian National Revenue Agency to carry out services for the exchange of virtual currencies under license number BB-48.
 
 "Instacoins" is a protected trademark registered with the European Union Intellectual Property Office.
