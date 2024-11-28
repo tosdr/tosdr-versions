@@ -1,4 +1,4 @@
-In order to view all our website features you need to [enable Javascript.](http://www.enable-javascript.com/en) ![](/images/js_disabled_tracking.gif?cid=dd0bd8abf6895d536a3b38e32ee171c5)
+In order to view all our website features you need to [enable Javascript.](http://www.enable-javascript.com/en) ![](/images/js_disabled_tracking.gif?cid=5dfea4b3f9e9f19e1c5db6cab607a1b9)
 
 Icons-MyTello Icons-MyTello Icons-MyTello Icons-MyTello Icons-MyTello
 
@@ -274,7 +274,7 @@ Questions?
 
 If you wish to change any information you have made available when registering, or have questions about our Privacy Policy, you can contact us at:
 
-cus​tom​ers​erv​ice​@te​llo​.co​m​
+cust​omer​serv​ice@​tell​o.co​m​
 
   
   
