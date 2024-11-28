@@ -1,8 +1,3 @@
-* **Children’s Computers Unavailable**
-    
-    Due to a technical issue, children’s computers are not currently available. We are working on the issue, and apologize for the inconvenience.
-    
-
 * **The Seattle Public Library Is Closed On Thanksgiving Day**
     
     All locations of The Seattle Public Library and book returns at the Central Library will be closed on Thanksgiving Day, Thursday, November 28.
