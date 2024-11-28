@@ -265,7 +265,7 @@ Don’t hesitate to contact us if you have any questions.
 
 [![](https://www.recruitbright.in/wp-content/uploads/2019/11/Download_on_the_App_Store_Badge_US-UK_blk_092917-300x100.png)](https://apps.apple.com/us/app/4m-jobs-job-search-vacancies/id1514961555)
 
-© 2024 Recruit Bright FROM Forem Software
+© 2024 Recruit Bright FROM Forem Innovations Private Limited
 
 RecruitBright.in Acquired by Forem Innovations Private Limited
 
@@ -285,7 +285,7 @@ Close
 
 [](javascript:void(0);)
 
-Required 'Candidate' login to applying this job. Click here to [logout](https://www.recruitbright.in/macosbigsur/?action=logout&redirect_to=https%3A%2F%2Fwww.recruitbright.in%2Fterms-and-conditions%2F&_wpnonce=368ec7e09a) And try again
+Required 'Candidate' login to applying this job. Click here to [logout](https://www.recruitbright.in/macosbigsur/?action=logout&redirect_to=https%3A%2F%2Fwww.recruitbright.in%2Fterms-and-conditions%2F&_wpnonce=85c8d7c22a) And try again
 
 Login to your account
 ---------------------
