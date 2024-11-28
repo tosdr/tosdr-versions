@@ -229,16 +229,16 @@ this hour
 
 * * *
 
-* [Long Ring Fingers and a Love of Alcohol](https://www.sciencedaily.com/releases/2024/11/241126145338.htm)
+* [Simple Secret to Living a Longer Life](https://www.sciencedaily.com/releases/2024/11/241126215133.htm)
+* [Complex Chimpanzee Cultures](https://www.sciencedaily.com/releases/2024/11/241127135912.htm)
+* [World's Oldest Lizard Wins Fossil Fight](https://www.sciencedaily.com/releases/2024/11/241126191725.htm)
+* [Animal Characters Good for Kids](https://www.sciencedaily.com/releases/2024/11/241122130629.htm)
 * [Unexplained Heat-Wave 'Hotspots'](https://www.sciencedaily.com/releases/2024/11/241126145331.htm)
 * [Brain Test Shows That Crabs Process Pain](https://www.sciencedaily.com/releases/2024/11/241126135832.htm)
 * [One Star System Generating Radio Waves](https://www.sciencedaily.com/releases/2024/11/241126135731.htm)
 * [Reversing Climate Change: Far More Costly Later](https://www.sciencedaily.com/releases/2024/11/241126135636.htm)
 * [Magnetic Tornado at Jupiter's Poles](https://www.sciencedaily.com/releases/2024/11/241126135634.htm)
 * [Explosive Secret of the Squirting Cucumber](https://www.sciencedaily.com/releases/2024/11/241125162946.htm)
-* [Uranus's Swaying Moons and Hidden Oceans](https://www.sciencedaily.com/releases/2024/11/241125163025.htm)
-* [Uranus and Neptune: What Lies Beneath?](https://www.sciencedaily.com/releases/2024/11/241125162951.htm)
-* [Realistic Satellite Images of Future Flooding](https://www.sciencedaily.com/releases/2024/11/241125124937.htm)
 
 Trending Topics
 ---------------
@@ -251,9 +251,9 @@ this week
 
 [Brain-Computer Interfaces](https://www.sciencedaily.com/news/mind_brain/brain-computer_interfaces/)
 
-[Insomnia](https://www.sciencedaily.com/news/mind_brain/insomnia/)
+[Chronic Illness](https://www.sciencedaily.com/news/health_medicine/chronic_illness/)
 
-[Parenting](https://www.sciencedaily.com/news/mind_brain/parenting/)
+[Workplace Health](https://www.sciencedaily.com/news/health_medicine/workplace_health/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
@@ -261,7 +261,7 @@ this week
 
 [Computers and Internet](https://www.sciencedaily.com/news/computers_math/computers_and_internet/)
 
-[Black Holes](https://www.sciencedaily.com/news/space_time/black_holes/)
+[Internet](https://www.sciencedaily.com/news/computers_math/internet/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
@@ -269,7 +269,7 @@ this week
 
 [Molecular Biology](https://www.sciencedaily.com/news/plants_animals/molecular_biology/)
 
-[Climate](https://www.sciencedaily.com/news/earth_climate/climate/)
+[Developmental Biology](https://www.sciencedaily.com/news/plants_animals/developmental_biology/)
 
   
 
