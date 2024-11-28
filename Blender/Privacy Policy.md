@@ -1,7 +1,7 @@
 Join the 2%
 ===========
 
-Just **2 percent** of users donating can help bring in more developers to keep Blender the best 3D software out there. Free for everyone, forever!
+When **2 percent** of users donate, more developers will be supported to work on Ul and tools. Free and Open Source for everyone, forever.
 
 Donate to Blender
 
