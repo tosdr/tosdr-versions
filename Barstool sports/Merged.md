@@ -142,11 +142,11 @@
 [My Feed!My Feed](https://www.barstoolsports.com/favorites)[App](https://www.barstoolsports.com/download)
 
 * Trending Topics
-* [Stella Blue Coffee](https://stellabluecoffee.com/)
+* [Barstool Sports Advisors](https://www.barstoolsports.com/video/3532525/a-stu-feiner-thanksgiving-masterclass-barstool-sports-advisors-week-13)
+* [The Pro Football Football Show](https://www.barstoolsports.com/video/3532493/thanksgiving-and-black-friday-slate-picks-or-the-pro-football-football-show-special-edition)
 * [Barstool Store Best Sellers](https://store.barstoolsports.com/collections/best-sellers-page)
-* [Ugly Sweater Collection](https://store.barstoolsports.com/collections/ugly-sweaters)
 * [Football Collection](https://store.barstoolsports.com/collections/football)
-* [Pardon My Cheesesteak](https://pardonmycheesesteak.com/)
+* [Stella Blue Coffee](https://stellabluecoffee.com/)
 
 Privacy Policy
 ==============
