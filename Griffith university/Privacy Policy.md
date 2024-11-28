@@ -890,19 +890,6 @@ Last Updated: 2 May 2024
 Footer
 ------
 
-### Study areas
-
-* [Architecture, construction and planning](https://www.griffith.edu.au/study/architecture-construction-planning)
-* [Business and government](https://www.griffith.edu.au/study/business-government)
-* [Criminology and law](https://www.griffith.edu.au/study/criminology-law)
-* [Education](https://www.griffith.edu.au/study/education)
-* [Engineering, IT and aviation](https://www.griffith.edu.au/study/engineering-it-aviation)
-* [Humanities, languages and social science](https://www.griffith.edu.au/study/humanities-languages)
-* [Medicine, dentistry and health](https://www.griffith.edu.au/study/health)
-* [Music and performing arts](https://www.griffith.edu.au/study/music)
-* [Science and environment](https://www.griffith.edu.au/study/science-environment)
-* [Visual and creative arts](https://www.griffith.edu.au/study/visual-creative-arts)
-
 ### Campuses
 
 * [Digital](https://www.griffith.edu.au/about-griffith/campuses-facilities/digital?city=online)
