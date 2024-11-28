@@ -361,7 +361,7 @@ Infomaniak
 
 Support
 
-[Assistance 7/7](https://www.infomaniak.com/en/chatbot) [FAQ and guides](https://www.infomaniak.com/en/support/faq/admin2) [Premium Support](https://www.infomaniak.com/en/support) [Sales contact](https://www.infomaniak.com/en/sales) [API REST](https://developer.infomaniak.com/) [Report abuse](https://www.infomaniak.com/en/domains/abuse)
+[Assistance 7/7](https://www.infomaniak.com/en/chatbot) [FAQ and guides](https://www.infomaniak.com/en/support/faq/admin2) [Premium Support](https://www.infomaniak.com/en/support) [Sales contact](https://www.infomaniak.com/en/sales) [API REST](https://developer.infomaniak.com/) [Report abuse](https://www.infomaniak.com/en/domains/abuse) [WHOIS](https://www.infomaniak.com/en/domains/whois)
 
 Partnerships
 
@@ -412,7 +412,7 @@ Prices do not include VAT
 
 [Support](#collapseTwoFooter)
 
-[Assistance 7/7](https://www.infomaniak.com/en/chatbot) [FAQ and guides](https://www.infomaniak.com/en/support/faq/admin2) [Premium Support offer](https://www.infomaniak.com/en/support) [Sales contact](https://www.infomaniak.com/en/sales) [API REST](https://developer.infomaniak.com/) [Report abuse](https://www.infomaniak.com/en/domains/abuse)
+[Assistance 7/7](https://www.infomaniak.com/en/chatbot) [FAQ and guides](https://www.infomaniak.com/en/support/faq/admin2) [Premium Support offer](https://www.infomaniak.com/en/support) [Sales contact](https://www.infomaniak.com/en/sales) [API REST](https://developer.infomaniak.com/) [Report abuse](https://www.infomaniak.com/en/domains/abuse) [WHOIS](https://www.infomaniak.com/en/domains/whois)
 
 [Partnerships](#collapseThreeFooter)
 
