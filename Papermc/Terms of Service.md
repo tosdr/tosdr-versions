@@ -88,7 +88,7 @@ Nov **24**
 * [Sunday at 5:45 PM](https://papermc.io/threads/1-21-3.1430/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 2,522
+* 2,551
 * 1
 
 ### The 1.21.3 Update​
@@ -198,7 +198,7 @@ Jun **14**
 * [Jun 14, 2024](https://papermc.io/threads/1-21.1221/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 11,289
+* 11,302
 * 2
 
 ### The 1.21 Update​
@@ -314,7 +314,7 @@ May **28**
 * [May 28, 2024](https://papermc.io/threads/paper-velocity-1-20-6.1152/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 8,953
+* 8,955
 * 6
 
 ### The 1.20.5/6 Update​
@@ -412,7 +412,7 @@ Mar **26**
 * [Mar 26, 2024](https://papermc.io/threads/announcing-the-end-of-life-of-waterfall.1088/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 18,641
+* 18,644
 * 11
 
 Announcing the end of life of Waterfall​
@@ -450,7 +450,7 @@ Mar **22**
 * [Mar 22, 2024](https://papermc.io/threads/important-dev-psa-future-removal-of-cb-package-relocation.1106/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 15,148
+* 15,150
 * 12
 
 ### Future removal of CB package relocation + moving away from obfuscation at runtime​
@@ -548,7 +548,7 @@ Dec **31**
 * [Dec 31, 2023](https://papermc.io/threads/new-years-post.1009/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 28,127
+* 28,139
 * 6
 
 Happy New Year from PaperMC!​
@@ -692,7 +692,7 @@ Dec **25**
 * [Dec 25, 2023](https://papermc.io/threads/paper-velocity-1-20-4.998/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 9,098
+* 9,100
 * 1
 
 ### The 1.20.4 Update​
@@ -871,7 +871,7 @@ Jun **11**
 * [Jun 11, 2023](https://papermc.io/threads/paper-velocity-1-20-1.783/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 14,308
+* 14,310
 * 9
 
 ### The 1.20(.1) Update​
@@ -944,7 +944,7 @@ Apr **20**
 * [Apr 20, 2023](https://papermc.io/threads/hangar-papermcs-plugin-repository.691/)
 * [MiniDigger](https://papermc.io/home/authors/minidigger.15/)
 
-* 6,750
+* 6,751
 * 1
 
 Once again, we have another exciting announcement for you, this time about PaperMC's own site for uploading and downloading Paper, Velocity, and Waterfall plugins, called [**Hangar**](https://hangar.papermc.io/)! The main reason we started working on this is to finally provide a centralized place for Paper and Velocity plugins. Compared to the Spigot forums, Hangar allows you much more control over your resource in terms of:  
@@ -992,7 +992,7 @@ Mar **15**
 * [Mar 15, 2023](https://papermc.io/threads/paper-velocity-1-19-4.680/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 8,578
+* 8,579
 * 3
 
 ### The 1.19.4 Update​
@@ -1276,7 +1276,7 @@ Mar **04**
 * [Mar 4, 2022](https://papermc.io/threads/paper-1-18-2.185/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 24,037
+* 24,038
 * 12
 
 ### The 1.18.2 Update​
@@ -1327,7 +1327,7 @@ Jan **04**
 * [Jan 4, 2022](https://papermc.io/threads/paper-1-18-and-more.6/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 24,487
+* 24,488
 * 17
 
 ### The 1.18 update​
@@ -1424,30 +1424,44 @@ Overall, PaperMC is a community that's excited about Minecraft software and maki
 
 [](https://papermc.io/threads/welcome-to-papermc.1/)
 
-### [Staff online](https://papermc.io/members/?key=staff_members)
-
-* [![kennytv](/data/avatars/s/0/5.jpg?1670679461)](https://papermc.io/members/kennytv.5/)
-    
-    [kennytv](https://papermc.io/members/kennytv.5/)
-    
-    Professional Twitch Streamer
-    
-
 ### [Members online](https://papermc.io/online/)
 
-* [kennytv](https://papermc.io/members/kennytv.5/)
-* [ElShala](https://papermc.io/members/elshala.12680/)
+No members online now.
 
-Total: 28 (members: 2, guests: 26)
+Total: 14 (members: 0, guests: 14)
 
 ### [Latest posts](https://papermc.io/whats-new/posts/?skip=1)
+
+[![SpektrSoyuz](https://secure.gravatar.com/avatar/d9f57281087c89b4a53a64dc01c1eb98?s=48)](https://papermc.io/members/spektrsoyuz.12710/)
+
+* Question
+
+Question [Invalid Plugin Exception: Did not find a valid velocity-plugin.json](https://papermc.io/threads/invalid-plugin-exception-did-not-find-a-valid-velocity-plugin-json.1447/)
+
+* [SpektrSoyuz](https://papermc.io/members/spektrsoyuz.12710/)
+* [Yesterday at 10:29 PM](https://papermc.io/threads/invalid-plugin-exception-did-not-find-a-valid-velocity-plugin-json.1447/)
+* [Help](https://papermc.io/forums/velocity-help/)
+
+Replies
+
+0
+
+Views
+
+23
+
+[Help](https://papermc.io/forums/velocity-help/) [Yesterday at 10:29 PM](https://papermc.io/threads/invalid-plugin-exception-did-not-find-a-valid-velocity-plugin-json.1447/latest)
+
+[SpektrSoyuz](https://papermc.io/members/spektrsoyuz.12710/)
+
+[![SpektrSoyuz](https://secure.gravatar.com/avatar/d9f57281087c89b4a53a64dc01c1eb98?s=48)](https://papermc.io/members/spektrsoyuz.12710/)
 
 [H](https://papermc.io/members/hmr.12685/)
 
 [Banned on Discord server](https://papermc.io/threads/banned-on-discord-server.1446/)
 
 * [hmr](https://papermc.io/members/hmr.12685/)
-* [Yesterday at 1:46 AM](https://papermc.io/threads/banned-on-discord-server.1446/)
+* [Tuesday at 1:46 AM](https://papermc.io/threads/banned-on-discord-server.1446/)
 * [Off-topic](https://papermc.io/forums/general-off-topic/)
 
 Replies
@@ -1456,9 +1470,9 @@ Replies
 
 Views
 
-79
+82
 
-[Off-topic](https://papermc.io/forums/general-off-topic/) [Yesterday at 7:20 AM](https://papermc.io/threads/banned-on-discord-server.1446/latest)
+[Off-topic](https://papermc.io/forums/general-off-topic/) [Tuesday at 7:20 AM](https://papermc.io/threads/banned-on-discord-server.1446/latest)
 
 [MiniDigger](https://papermc.io/members/minidigger.15/)
 
@@ -1504,7 +1518,7 @@ Replies
 
 Views
 
-63
+66
 
 [Help](https://papermc.io/forums/velocity-help/) [Monday at 6:15 AM](https://papermc.io/threads/put-under-wrong-cat-sorry-issue-regarding-joining-server.1445/latest)
 
@@ -1554,7 +1568,7 @@ Views
 
 14K
 
-[Help](https://papermc.io/forums/paper-help/) [Thursday at 5:09 PM](https://papermc.io/threads/my-string-farm-doesnt-work.1132/latest)
+[Help](https://papermc.io/forums/paper-help/) [Nov 21, 2024](https://papermc.io/threads/my-string-farm-doesnt-work.1132/latest)
 
 [Sefonn](https://papermc.io/members/sefonn.12614/)
 
@@ -1622,7 +1636,7 @@ Replies
 
 Views
 
-87
+89
 
 [Plugin Development](https://papermc.io/forums/paper-plugin-development/) [Nov 17, 2024](https://papermc.io/threads/error-when-connection-to-mongodb-database.1442/latest)
 
@@ -1646,35 +1660,13 @@ Replies
 
 Views
 
-207
+210
 
 [Help](https://papermc.io/forums/paper-help/) [Nov 14, 2024](https://papermc.io/threads/how-do-i-set-up-groups-so-that-i-cant-make-changes-to-a-higher-ranked-group-paper-1-21-1-luckperms.1435/latest)
 
 [bettyking](https://papermc.io/members/bettyking.9272/)
 
 [B](https://papermc.io/members/bettyking.9272/)
-
-[![thomerow](https://secure.gravatar.com/avatar/727bd571346f9b34828da20a1745ba48?s=48)](https://papermc.io/members/thomerow.12485/)
-
-Solved [Cannot place torch on wall](https://papermc.io/threads/cannot-place-torch-on-wall.1441/)
-
-* [thomerow](https://papermc.io/members/thomerow.12485/)
-* [Nov 13, 2024](https://papermc.io/threads/cannot-place-torch-on-wall.1441/)
-* [Plugin Development](https://papermc.io/forums/paper-plugin-development/)
-
-Replies
-
-1
-
-Views
-
-153
-
-[Plugin Development](https://papermc.io/forums/paper-plugin-development/) [Nov 14, 2024](https://papermc.io/threads/cannot-place-torch-on-wall.1441/latest)
-
-[thomerow](https://papermc.io/members/thomerow.12485/)
-
-[![thomerow](https://secure.gravatar.com/avatar/727bd571346f9b34828da20a1745ba48?s=48)](https://papermc.io/members/thomerow.12485/)
 
 [View more…](https://papermc.io/whats-new/posts/?skip=1)
 
