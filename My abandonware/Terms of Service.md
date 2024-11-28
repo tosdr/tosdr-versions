@@ -107,11 +107,11 @@ Top downloads
 
 Latest releases
 
+* [Sven-Göran Eriksson's World Manager](https://www.myabandonware.com/game/sven-goeran-eriksson-s-world-manager-tbu)
+* [Bungaru WA](https://www.myabandonware.com/game/bungaru-wa-tbs)
+* [Alhademic Lines](https://www.myabandonware.com/game/alhademic-lines-tbi)
 * [Puyo Pop Fever](https://www.myabandonware.com/game/puyo-pop-fever-ir1)
 * [Puyo Puyo](https://www.myabandonware.com/game/puyo-puyo-85n)
-* [MINI01](https://www.myabandonware.com/game/mini01-tbr)
-* [Holotz's Castle](https://www.myabandonware.com/game/holotz-s-castle-tbq)
-* [King](https://www.myabandonware.com/game/king-tbp)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
