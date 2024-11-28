@@ -14,9 +14,7 @@
 
 [](#main)
 
-[M365 Threat Scan](https://www.mimecast.com/free-trial/)
-
-[Get a Quote](https://www.mimecast.com/get-a-quote/)
+[M365 Threat Scan](https://www.mimecast.com/free-trial/) [Get a Quote](https://www.mimecast.com/get-a-quote/)
 
 * Why Mimecast
     
@@ -182,9 +180,9 @@
     
     ![icon_mimecastercentral.png](https://assets.mimecast.com/api/public/content/2e6624e57dcf401aba62439ed1bf9f1f?v=4c53bcb4)
     
-    Mimecaster Central
+    Mimecast Community
     
-    Discover guidebooks, videos, and Technical Support resources for any Mimecast product.
+    Engage with cybersecurity peers, Mimecasters and partners, access the Knowledge Hub, Mimecast University, and Support experts.
     
     [Access Now](https://community.mimecast.com/s/)
     
@@ -217,9 +215,7 @@ Quick Links
     * [français](https://www.mimecast.com/fr/company/mimecast-trust-center/privacy-statement/)
     
 
-[M365 Threat Scan](https://www.mimecast.com/free-trial/)
-
-[Get a Quote](https://www.mimecast.com/get-a-quote/)
+[M365 Threat Scan](https://www.mimecast.com/free-trial/) [Get a Quote](https://www.mimecast.com/get-a-quote/)
 
 Mimecast Privacy Statement
 ==========================
