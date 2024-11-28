@@ -190,7 +190,7 @@ Now, let's get a bit technical. For the purposes of some data protection laws, w
 
 If you're also part of Flying Club, which is run by Virgin Atlantic Airways Limited (or Virgin Atlantic for short), they will also manage your data in line with their own privacy policy. You can check this out on their [**website**](https://www.virginatlantic.com/us/en/footer/privacy-policy.html). We and Virgin Atlantic are what’s known as independent data controllers when it comes to your personal data that is associated with Flying Club – this means we each have our own responsibilities for managing separate aspects of your personal data.  
 
-Got questions or concerns? Get in touch at **Virgin Red Limited, Data Protection Officer, 66 Porchester Road, London W2 6ET** or contact our Data Protection Officer directly at [red.dpo@virgin.com](mailto:red.dpo@virgin.com). 
+Got questions or concerns? Get in touch at **Virgin Red Limited, Data Protection Officer, Whitfield Studios, 50A Charlotte Street, London W1T 2NS** or contact our Data Protection Officer directly at [red.dpo@virgin.com](mailto:red.dpo@virgin.com). 
 
 Hey, EU-based users: We don’t have an establishment in the EU, but you can get in touch with our EU representative at MCF Legal Technology Solutions Limited, Dublin, Ireland. They act as a direct contact for data protection authorities and EU individuals and can be reached by email at **virginred@mcf.ie** or MCF Legal Technology Solutions Limited, Riverside One, Sir John Rogerson's Quay, Dublin 2, Ireland or by phone on 00353 01 829 0000. 
 
@@ -481,7 +481,7 @@ Heads up: Virgin Enterprises Limited are a separate data controller of your pers
 
 From time to time Virgin Management may ask to use your personal data within content in our office spaces, website or social media channels. We'll always ask if that's okay and won't be upset if you say no thanks.
 
-You can find both Virgin Enterprises and Virgin Management at 66 Porchester Road, London W2 6ET and you can get in touch with their data protection officer at [dpo@virgin.com](mailto:dpo@virgin.com)
+You can find both Virgin Enterprises and Virgin Management at Whitfield Studios, 50A Charlotte Street, London W1T 2NS and you can get in touch with their data protection officer at [dpo@virgin.com](mailto:dpo@virgin.com)
 
 **5.2 The information we collect on Virgin.com**
 
@@ -838,7 +838,7 @@ You also have the following rights when it comes to our use of your personal inf
 
 Your data, your choice. If you want to exercise any of these privacy rights, no worries. You have the right to not receive any discriminatory treatment because of it.  
 
- To use these rights, just reach out to us – either directly or through someone authorised on your behalf. You can write to **Virgin Red Limited at 66 Porchester Road, London, W2 6ET UK**, or ping us an email at [membersupport@virgin.com](mailto:membersupport@virgin.com). You can also contact our Data Protection Officer at [red.dpo@virgin.com](mailto:red.dpo@virgin.com). If things still feel off, you can also complain to the UK’s information protection regulator, the Information Commissioner's Office (ICO). You can do this via their website: [https://ico.org.uk/concerns/](https://ico.org.uk/concerns/).
+ To use these rights, just reach out to us – either directly or through someone authorised on your behalf. You can write to **Virgin Red Limited at Whitfield Studios, 50A Charlotte Street, London, W1T 2NS**, or ping us an email at [membersupport@virgin.com](mailto:membersupport@virgin.com). You can also contact our Data Protection Officer at [red.dpo@virgin.com](mailto:red.dpo@virgin.com). If things still feel off, you can also complain to the UK’s information protection regulator, the Information Commissioner's Office (ICO). You can do this via their website: [https://ico.org.uk/concerns/](https://ico.org.uk/concerns/).
 
 **8.8 Your California privacy rights**
 
