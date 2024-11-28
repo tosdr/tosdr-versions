@@ -41,47 +41,71 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Zoe Kravitz and Channing Tatum in London for the Blink Twice premiere](https://www.women.com/img/gallery/the-red-flags-we-couldnt-ignore-in-channing-tatum-and-zoe-kravitzs-relationship/intro-1732124296.jpg)](https://www.women.com/1718419/red-flags-couldnt-ignore-channing-tatum-zoe-kravitz-relationship/)
+*  [![Lindsay Lohan in a cream-colored silk gown and matching coat](https://www.women.com/img/gallery/3-lindsay-lohan-outfits-that-give-hallie-parker-and-3-that-are-so-annie-james/intro-1732207776.jpg)](https://www.women.com/1719538/lindsay-lohan-outfits-hallie-parker-annie-james-the-parent-trap/)
     
-    [Exclusives](https://www.women.com/category/exclusives/)
+    [Fashion](https://www.women.com/category/fashion/)
     
-    [Exclusives](https://www.women.com/category/exclusives/) By Amanda Chatel
+    [Fashion](https://www.women.com/category/fashion/) By Mila Williams
     
-    [The Red Flags We Couldn't Ignore In Channing Tatum And Zoe Kravitz's Relationship](https://www.women.com/1718419/red-flags-couldnt-ignore-channing-tatum-zoe-kravitz-relationship/)
-    ====================================================================================================================================================================================
+    [3 Lindsay Lohan Outfits That Give Hallie Parker (And 3 That Are So Annie James)](https://www.women.com/1719538/lindsay-lohan-outfits-hallie-parker-annie-james-the-parent-trap/)
+    =================================================================================================================================================================================
     
-    With every relationship that's not destined to make it, celebrity relationships included, there are red flags along the way that are hard to ignore.
+    As fabulous as her later projects are, Lindsay Lohan's looks, whether on the red carpet, during media tours, or on social media, channel the Parker twins.
     
-    By Amanda Chatel [Read More](https://www.women.com/1718419/red-flags-couldnt-ignore-channing-tatum-zoe-kravitz-relationship/)
+    By Mila Williams [Read More](https://www.women.com/1719538/lindsay-lohan-outfits-hallie-parker-annie-james-the-parent-trap/)
     
-* *  [![Ariana Grande on the red carpet](https://www.women.com/img/gallery/all-of-ariana-grandes-wicked-tattoos-including-her-matching-ink-with-cynthia-erivo/intro-1732307595.jpg)](https://www.women.com/1721081/ariana-grande-wicked-tattoos-matching-ink-cynthia-erivo/)
+* *  [![Short Christmas nails in front of a Christmas tree](https://www.women.com/img/gallery/15-stunning-holiday-manicure-ideas-for-short-nails/intro-1731955638.jpg)](https://www.women.com/1716367/stunning-holiday-manicure-ideas-short-nails/)
         
         [Beauty](https://www.women.com/category/beauty/)
         
         [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
         
-        ### [All Of Ariana Grande's Wicked Tattoos - Including Her Matching Ink With Cynthia Erivo](https://www.women.com/1721081/ariana-grande-wicked-tattoos-matching-ink-cynthia-erivo/)
+        ### [15 Stunning Holiday Manicure Ideas For Short Nails](https://www.women.com/1716367/stunning-holiday-manicure-ideas-short-nails/)
         
-        The 2024 "Wicked" movie is ultra-personal for Ariana Grande, who got several Oz-inspired tattoos, including some matching ink with her co-star Cynthia Erivo.
+        Short nails don't have to keep you from a stunning holiday manicure. Try festive colors or add sparkle for the New Year.
         
-        By Emily Hutchinson [Read More](https://www.women.com/1721081/ariana-grande-wicked-tattoos-matching-ink-cynthia-erivo/)
+        By Emily Hutchinson [Read More](https://www.women.com/1716367/stunning-holiday-manicure-ideas-short-nails/)
         
-    *  [![Jennifer Lopez in a brown cardigan and brown toned lipstick](https://www.women.com/img/gallery/jennifer-lopezs-style-transformation-since-her-ben-affleck-divorce/intro-1732038036.jpg)](https://www.women.com/1717258/jennifer-lopez-style-transformation-since-ben-affleck-divorce/)
+    *  [![Zoe Kravitz and Channing Tatum in London for the Blink Twice premiere](https://www.women.com/img/gallery/the-red-flags-we-couldnt-ignore-in-channing-tatum-and-zoe-kravitzs-relationship/intro-1732124296.jpg)](https://www.women.com/1718419/red-flags-couldnt-ignore-channing-tatum-zoe-kravitz-relationship/)
         
-        [Fashion](https://www.women.com/category/fashion/)
+        [Exclusives](https://www.women.com/category/exclusives/)
         
-        [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+        [Exclusives](https://www.women.com/category/exclusives/) By Amanda Chatel
         
-        ### [Jennifer Lopez's Style Transformation Since Her Divorce From Ben Affleck](https://www.women.com/1717258/jennifer-lopez-style-transformation-since-ben-affleck-divorce/)
+        ### [The Red Flags We Couldn't Ignore In Channing Tatum And Zoe Kravitz's Relationship](https://www.women.com/1718419/red-flags-couldnt-ignore-channing-tatum-zoe-kravitz-relationship/)
         
-        J.Lo has done a lot of internal work since her split. And that newfound happiness and bold independence has been reflected in the star's wardrobe.
+        With every relationship that's not destined to make it, celebrity relationships included, there are red flags along the way that are hard to ignore.
         
-        By Emily Hutchinson [Read More](https://www.women.com/1717258/jennifer-lopez-style-transformation-since-ben-affleck-divorce/)
+        By Amanda Chatel [Read More](https://www.women.com/1718419/red-flags-couldnt-ignore-channing-tatum-zoe-kravitz-relationship/)
         
 
 More Stories
 ------------
 
+*  [![Ariana Grande on the red carpet](https://www.women.com/img/gallery/all-of-ariana-grandes-wicked-tattoos-including-her-matching-ink-with-cynthia-erivo/intro-1732307595.jpg)](https://www.women.com/1721081/ariana-grande-wicked-tattoos-matching-ink-cynthia-erivo/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+    
+    ### [All Of Ariana Grande's Wicked Tattoos - Including Her Matching Ink With Cynthia Erivo](https://www.women.com/1721081/ariana-grande-wicked-tattoos-matching-ink-cynthia-erivo/)
+    
+    The 2024 "Wicked" movie is ultra-personal for Ariana Grande, who got several Oz-inspired tattoos, including some matching ink with her co-star Cynthia Erivo.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1721081/ariana-grande-wicked-tattoos-matching-ink-cynthia-erivo/)
+    
+*  [![Jennifer Lopez in a brown cardigan and brown toned lipstick](https://www.women.com/img/gallery/jennifer-lopezs-style-transformation-since-her-ben-affleck-divorce/intro-1732038036.jpg)](https://www.women.com/1717258/jennifer-lopez-style-transformation-since-ben-affleck-divorce/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+    
+    ### [Jennifer Lopez's Style Transformation Since Her Divorce From Ben Affleck](https://www.women.com/1717258/jennifer-lopez-style-transformation-since-ben-affleck-divorce/)
+    
+    J.Lo has done a lot of internal work since her split. And that newfound happiness and bold independence has been reflected in the star's wardrobe.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1717258/jennifer-lopez-style-transformation-since-ben-affleck-divorce/)
+    
 *  [![Woman laying down getting lip injections](https://www.women.com/img/gallery/can-you-lay-down-after-getting-botox/intro-1732041593.jpg)](https://www.women.com/1717335/can-lay-down-after-botox-explained/)
     
     [Exclusives](https://www.women.com/category/exclusives/)
@@ -129,18 +153,6 @@ More Stories
     Of all of the addictions out there, sex addiction isn't taken as seriously as it should be. But it can impact anyone, for any reason.
     
     By Amanda Chatel [Read More](https://www.women.com/1716187/celebs-open-about-battle-sex-addiction/)
-    
-*  [![Short Christmas nails in front of a Christmas tree](https://www.women.com/img/gallery/15-stunning-holiday-manicure-ideas-for-short-nails/intro-1731955638.jpg)](https://www.women.com/1716367/stunning-holiday-manicure-ideas-short-nails/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
-    
-    ### [15 Stunning Holiday Manicure Ideas For Short Nails](https://www.women.com/1716367/stunning-holiday-manicure-ideas-short-nails/)
-    
-    Short nails don't have to keep you from a stunning holiday manicure. Try festive colors or add sparkle for the New Year.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1716367/stunning-holiday-manicure-ideas-short-nails/)
     
 *  [![Jenna Bush Hager at an event wearing red](https://www.women.com/img/gallery/the-best-read-with-jenna-book-club-picks-of-all-time/intro-1731948738.jpg)](https://www.women.com/1716056/best-read-with-jenna-book-club-picks-all-time/)
     
@@ -393,18 +405,6 @@ More Stories
     Shiloh Jolie has undergone a remarkable transformation, from repurposing old garments to freely playing with gender expression.
     
     By Bernadette Roe [Read More](https://www.women.com/1705729/shiloh-jolie-stunning-style-transformation/)
-    
-*  [![Taylor Swift on stage](https://www.women.com/img/gallery/the-full-transformation-of-taylor-swift-from-country-singer-to-chiefs-wag/intro-1730484748.jpg)](https://www.women.com/1703649/full-transformation-taylor-swift-from-country-singer-chiefs-wag/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
-    
-    ### [The Full Transformation Of Taylor Swift From Country Singer To Chiefs WAG](https://www.women.com/1703649/full-transformation-taylor-swift-from-country-singer-chiefs-wag/)
-    
-    Taylor Swift, and her fashion, have grown up since the sundress-and-boots days of the early 2000s. Today, she's making WAG wear supportive and galm.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1703649/full-transformation-taylor-swift-from-country-singer-chiefs-wag/)
     
 
 Back
