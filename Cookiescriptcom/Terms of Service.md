@@ -53,7 +53,7 @@
 * [Sign in](https://cookie-script.com/login "Sign in")
 *  [![English](/templates/uber/images/langs/en.svg "English") English](javascript:void(0) "/templates/uber/images/langs/en.svg")
     
-    *  [![English](/templates/uber/images/langs/en.svg "English") English](https://cookie-script.com/index.php?option=com_scanner&task=.screenshotCallback&identifier=cdafc253896b90c05a0996759d216043 "/templates/uber/images/langs/en.svg")
+    *  [![English](/templates/uber/images/langs/en.svg "English") English](https://cookie-script.com/register "/templates/uber/images/langs/en.svg")
     *  [![Deutsch](/templates/uber/images/langs/de.svg "Deutsch") Deutsch](https://cookie-script.com/de/ "/templates/uber/images/langs/de.svg")
     *  [![Français](/templates/uber/images/langs/fr.svg "Français") Français](https://cookie-script.com/fr/ "/templates/uber/images/langs/fr.svg")
     *  [![Italiano](/templates/uber/images/langs/it.svg "Italiano") Italiano](https://cookie-script.com/it/ "/templates/uber/images/langs/it.svg")
@@ -70,6 +70,8 @@
         Português](https://cookie-script.com/pt/ "/templates/uber/images/langs/pt.svg")
     
 * [Try now](https://cookie-script.com/register "Try now")
+
+ 
 
 Details
 
@@ -286,3 +288,5 @@ Documents generated using our Service are generated fully automatically and ther
 Any assistance and customer support provided by CookieScript does not establish an attorney-client relationship and is meant just for sharing general information.
 
 Therefore, before taking any actions based upon information, provided by CookieScript, we encourage you to consult with a lawyer or an attorney licensed in the relevant jurisdiction(s).
+
+![](https://cookie-script.com/index.php/_wblapi?nolangfilter=1&_wblapi=/forseo/v1/cron/image/)
