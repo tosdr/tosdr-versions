@@ -20,6 +20,10 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Monica Ferman passed away in 2012. (Family handout)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Monica-2-1-360x180.jpeg)](https://southwarknews.co.uk/area/dulwich/dulwich-woman-recounts-mums-horrendous-final-days-in-call-for-assisted-dying-law-saying-they-watched-her-starve-to-death/)
+    
+    ### [Dulwich woman recounts mum’s ‘horrendous’ final days in call for assisted dying law, saying they ‘watched her starve to death’](https://southwarknews.co.uk/area/dulwich/dulwich-woman-recounts-mums-horrendous-final-days-in-call-for-assisted-dying-law-saying-they-watched-her-starve-to-death/)
+    
     [![L: Tooley St HQ of Southwark Council; R: Cllr Kieron Williams](https://southwarknews.co.uk/wp-content/uploads/2022/05/cllr-kieron-360x180.jpg)](https://southwarknews.co.uk/area/southwark/southwark-councils-leader-has-apologised-after-the-governments-social-housing-watchdog-found-serious-failings/)
     
     ### [Southwark Council’s leader has apologised after the government’s social housing watchdog found ‘serious failings’](https://southwarknews.co.uk/area/southwark/southwark-councils-leader-has-apologised-after-the-governments-social-housing-watchdog-found-serious-failings/)
@@ -52,10 +56,6 @@
     [![Alex Oliver went from naval operations to the operating theatre.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-26-11-2024-at-17.33-360x180.jpg)](https://southwarknews.co.uk/area/waterloo/from-naval-operations-to-the-operating-theatre-how-one-veteran-found-a-new-career-at-st-thomas-hospital/)
     
     ### [From naval operations to the operating theatre: How one veteran found a new career at St Thomas’ Hospital](https://southwarknews.co.uk/area/waterloo/from-naval-operations-to-the-operating-theatre-how-one-veteran-found-a-new-career-at-st-thomas-hospital/)
-    
-    [![London mayor Sadiq Khan. Credit: Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/08/London-mayor-Sadiq-Khan.-Photo-by-Noah-Vickers-360x180.jpg)](https://southwarknews.co.uk/area/london/calls-for-deaths-and-serious-injuries-on-londons-roads-to-be-independently-investigated-like-those-on-the-railway/)
-    
-    ### [Calls for deaths and serious injuries on London’s roads to be independently investigated like those on the railway](https://southwarknews.co.uk/area/london/calls-for-deaths-and-serious-injuries-on-londons-roads-to-be-independently-investigated-like-those-on-the-railway/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -106,6 +106,10 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Monica Ferman passed away in 2012. (Family handout)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Monica-2-1-360x180.jpeg)](https://southwarknews.co.uk/area/dulwich/dulwich-woman-recounts-mums-horrendous-final-days-in-call-for-assisted-dying-law-saying-they-watched-her-starve-to-death/)
+    
+    ### [Dulwich woman recounts mum’s ‘horrendous’ final days in call for assisted dying law, saying they ‘watched her starve to death’](https://southwarknews.co.uk/area/dulwich/dulwich-woman-recounts-mums-horrendous-final-days-in-call-for-assisted-dying-law-saying-they-watched-her-starve-to-death/)
+    
     [![L: Tooley St HQ of Southwark Council; R: Cllr Kieron Williams](https://southwarknews.co.uk/wp-content/uploads/2022/05/cllr-kieron-360x180.jpg)](https://southwarknews.co.uk/area/southwark/southwark-councils-leader-has-apologised-after-the-governments-social-housing-watchdog-found-serious-failings/)
     
     ### [Southwark Council’s leader has apologised after the government’s social housing watchdog found ‘serious failings’](https://southwarknews.co.uk/area/southwark/southwark-councils-leader-has-apologised-after-the-governments-social-housing-watchdog-found-serious-failings/)
@@ -138,10 +142,6 @@ View All Result
     [![Alex Oliver went from naval operations to the operating theatre.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-26-11-2024-at-17.33-360x180.jpg)](https://southwarknews.co.uk/area/waterloo/from-naval-operations-to-the-operating-theatre-how-one-veteran-found-a-new-career-at-st-thomas-hospital/)
     
     ### [From naval operations to the operating theatre: How one veteran found a new career at St Thomas’ Hospital](https://southwarknews.co.uk/area/waterloo/from-naval-operations-to-the-operating-theatre-how-one-veteran-found-a-new-career-at-st-thomas-hospital/)
-    
-    [![London mayor Sadiq Khan. Credit: Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/08/London-mayor-Sadiq-Khan.-Photo-by-Noah-Vickers-360x180.jpg)](https://southwarknews.co.uk/area/london/calls-for-deaths-and-serious-injuries-on-londons-roads-to-be-independently-investigated-like-those-on-the-railway/)
-    
-    ### [Calls for deaths and serious injuries on London’s roads to be independently investigated like those on the railway](https://southwarknews.co.uk/area/london/calls-for-deaths-and-serious-injuries-on-londons-roads-to-be-independently-investigated-like-those-on-the-railway/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -209,12 +209,6 @@ This site uses cookies – small text files that are placed on your machine to h
 
 [20th November 2024](https://southwarknews.co.uk/area/bermondsey/havent-they-got-enough-money-locals-react-as-royals-charge-guys-and-st-thomas-trust-11-4m-to-store-ambulances-on-kings-land-in-bermondsey/)
 
-[![Computer-generated image of the shared industrial unit. Image: Lambeth Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/cgi-of-planned-industrial-unit-120x86.jpg)](https://southwarknews.co.uk/area/camberwell/hundreds-of-co-living-flats-to-be-built-near-south-london-station-despite-zero-affordable-housing/)
-
-### [Hundreds of co-living flats to be built near South London station despite zero affordable housing](https://southwarknews.co.uk/area/camberwell/hundreds-of-co-living-flats-to-be-built-near-south-london-station-despite-zero-affordable-housing/)
-
-[21st November 2024](https://southwarknews.co.uk/area/camberwell/hundreds-of-co-living-flats-to-be-built-near-south-london-station-despite-zero-affordable-housing/)
-
 [![Anne Davis says a routine bus trip has become a logistical nightmare](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_3311-120x86.jpeg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-92-faces-hour-long-bus-journey-to-reach-high-street-fifteen-minutes-away-and-now-cannot-reach-it-at-all/)
 
 ### [Bermondsey pensioner, 92, faces hour-long bus journey to reach high street fifteen-minutes away – and now cannot reach it at all](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-92-faces-hour-long-bus-journey-to-reach-high-street-fifteen-minutes-away-and-now-cannot-reach-it-at-all/)
@@ -226,6 +220,12 @@ This site uses cookies – small text files that are placed on your machine to h
 ### [‘Most people in Southwark can’t afford these homes’: Protestors unite against Berkeley Homes’ ‘unfit’ plans for Peckham](https://southwarknews.co.uk/area/peckham/most-people-in-southwark-cant-afford-these-homes-protestors-unite-against-berkeley-homes-unfit-plans-for-peckham/)
 
 [25th November 2024](https://southwarknews.co.uk/area/peckham/most-people-in-southwark-cant-afford-these-homes-protestors-unite-against-berkeley-homes-unfit-plans-for-peckham/)
+
+[![Computer-generated image of the shared industrial unit. Image: Lambeth Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/cgi-of-planned-industrial-unit-120x86.jpg)](https://southwarknews.co.uk/area/camberwell/hundreds-of-co-living-flats-to-be-built-near-south-london-station-despite-zero-affordable-housing/)
+
+### [Hundreds of co-living flats to be built near South London station despite zero affordable housing](https://southwarknews.co.uk/area/camberwell/hundreds-of-co-living-flats-to-be-built-near-south-london-station-despite-zero-affordable-housing/)
+
+[21st November 2024](https://southwarknews.co.uk/area/camberwell/hundreds-of-co-living-flats-to-be-built-near-south-london-station-despite-zero-affordable-housing/)
 
 [![The chairs in Elephant and Castle (credit: Russell Cronin, social media)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-20-11-2024-at-15.14-120x86.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/fancy-a-chat-council-blunder-in-elephant-and-castle-as-misplaced-chairs-spark-confusion/)
 
@@ -240,6 +240,12 @@ This site uses cookies – small text files that are placed on your machine to h
 [23rd November 2024](https://southwarknews.co.uk/news/crime/boy-14-stabbed-in-south-london/)
 
 ### Featured Articles
+
+[![Monica Ferman passed away in 2012. (Family handout)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Monica-2-1-120x86.jpeg)](https://southwarknews.co.uk/area/dulwich/dulwich-woman-recounts-mums-horrendous-final-days-in-call-for-assisted-dying-law-saying-they-watched-her-starve-to-death/)
+
+### [Dulwich woman recounts mum’s ‘horrendous’ final days in call for assisted dying law, saying they ‘watched her starve to death’](https://southwarknews.co.uk/area/dulwich/dulwich-woman-recounts-mums-horrendous-final-days-in-call-for-assisted-dying-law-saying-they-watched-her-starve-to-death/)
+
+[27th November 2024](https://southwarknews.co.uk/area/dulwich/dulwich-woman-recounts-mums-horrendous-final-days-in-call-for-assisted-dying-law-saying-they-watched-her-starve-to-death/)
 
 [![L: Tooley St HQ of Southwark Council; R: Cllr Kieron Williams](https://southwarknews.co.uk/wp-content/uploads/2022/05/cllr-kieron-120x86.jpg)](https://southwarknews.co.uk/area/southwark/southwark-councils-leader-has-apologised-after-the-governments-social-housing-watchdog-found-serious-failings/)
 
@@ -271,12 +277,6 @@ Photo by Nancy Poole](https://southwarknews.co.uk/wp-content/uploads/2024/11/Cre
 ### [Elephant and Castle university evacuated after ‘suspicious package’ reported](https://southwarknews.co.uk/area/elephant-and-castle/elephant-and-castle-university-evacuated-after-suspicious-package-reported/)
 
 [26th November 2024](https://southwarknews.co.uk/area/elephant-and-castle/elephant-and-castle-university-evacuated-after-suspicious-package-reported/)
-
-[![Alex Oliver went from naval operations to the operating theatre.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-26-11-2024-at-17.33-120x86.jpg)](https://southwarknews.co.uk/area/waterloo/from-naval-operations-to-the-operating-theatre-how-one-veteran-found-a-new-career-at-st-thomas-hospital/)
-
-### [From naval operations to the operating theatre: How one veteran found a new career at St Thomas’ Hospital](https://southwarknews.co.uk/area/waterloo/from-naval-operations-to-the-operating-theatre-how-one-veteran-found-a-new-career-at-st-thomas-hospital/)
-
-[26th November 2024](https://southwarknews.co.uk/area/waterloo/from-naval-operations-to-the-operating-theatre-how-one-veteran-found-a-new-career-at-st-thomas-hospital/)
 
 ### USEFUL PAGES
 
