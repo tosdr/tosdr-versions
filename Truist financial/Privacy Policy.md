@@ -147,13 +147,13 @@ Sign in
     * [How (and when) to consolidate debt](https://www.truist.com/money-mindset/principles/outsmarting-debt/how-when-to-consolidate-debt)
     * [HELOC Calculator](https://www.truist.com/loans/heloc#heloc-calculator)
     
-    ![](//static.truist.com/content/dam/truist-bank/us/en/icons/promo-loans-white.svg)
+    ![](https://static.truist.com/content/dam/truist-bank/us/en/icons/low-rate-icon-white.svg)
     
-    #### Get a game plan—in 2 minutes.
+    #### A debt consolidation loan puts you in control.
     
-    Find the right loan by telling us what you're after.
+    Trade higher-interest debt for one payment at a lower rate.
     
-    [Take the quiz.](https://www.truist.com/loans#anchor-take-the-quiz)
+    [Explore loans from Truist.](https://www.truist.com/loans/personal-loans)
     
 * [Mortgage](#)
     
