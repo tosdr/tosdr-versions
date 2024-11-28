@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/de-zin-van-een-zin-met-een-dubbele-bodem/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/internationale-hoorzittingen-911/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
