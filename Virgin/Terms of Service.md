@@ -19,7 +19,7 @@ Last updated: 4 April 2024
 
 Hello! We're here to talk about some important stuff—our Terms of Use. Don't worry, it's not as complicated as it sounds. These terms apply to two things: your use of the Virgin.com website and your use of Virgin ID. 
 
-Both the Virgin.com website (that’s what we mean when we say the “**Website**”) and Virgin ID are run by us—Virgin Red Limited. If you're curious, our company details are: Virgin Red Limited, 66 Porchester Road, London, W2 6ET. Our company number is 11490861, and our VAT number is (GB) 425216184.  
+Both the Virgin.com website (that’s what we mean when we say the “**Website**”) and Virgin ID are run by us—Virgin Red Limited. If you're curious, our company details are: Virgin Red Limited, Whitfield Studios, 50A Charlotte Street, London, W1T 2NS. Our company number is 11490861, and our VAT number is (GB) 425216184.  
 
 Now, let's get down to business. These terms form a special agreement between you and us, and it's legally binding. So take a moment to read them carefully – we want you to be fully aware of how they might affect your legal rights. We'll cover things like the rules for using the Website, each of our rights and obligations regarding your Virgin ID, and other important info about your rights. It's all in there! 
 
@@ -206,7 +206,7 @@ Remember, these Terms of Use don't limit our legal powers. We can still exercise
 
 **Finally — if in doubt, talk to us** 
 
-If you ever find yourself with any questions about the Website, Virgin ID or these Terms of Use, we're all ears and ready to chat. Just drop us a line. You can send us a good old-fashioned letter to The Webmaster, Virgin Red Limited, 66 Porchester Road, London, W2 6ET, UK. Or, if you prefer the speedy route, ping us an email at [membersupport@virgin.com](mailto:membersupport@virgin.com).  
+If you ever find yourself with any questions about the Website, Virgin ID or these Terms of Use, we're all ears and ready to chat. Just drop us a line. You can send us a good old-fashioned letter to The Webmaster, Virgin Red Limited, Whitfield Studios, 50A Charlotte Street, London, W1T 2NS. Or, if you prefer the speedy route, ping us an email at [membersupport@virgin.com](mailto:membersupport@virgin.com).  
 
 If you have any questions, comments, or complaints about the websites of other Virgin companies or the products and services they offer, go straight to the source and get in touch with them directly. To make it super easy for you, you can contact them through the "Companies" section of our Website.  
 
