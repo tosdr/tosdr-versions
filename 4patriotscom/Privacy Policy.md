@@ -28,7 +28,7 @@ Search
     
     [![](https://s3-us-west-2.amazonaws.com/catsy.1040/MENU-2410-PPGS-X-LIFESTYLE-OUTDOORS-854x674.jpg )](https://4patriots.com/product/ultracharge-patriot-power-generator-2000x-sidekick-bundle)["Ultracharge" Backup Power Package](https://4patriots.com/product/ultracharge-patriot-power-generator-2000x-sidekick-bundle)﻿
     
-    ###### Featured Early Black Friday Deals
+    ###### Black Friday Deals
     
     ![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)
     
@@ -46,7 +46,7 @@ Search
     
     [![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2Fafe30086aaf54c3191129ed6c3913c9b?width=500)](https://4patriots.com/category/deals)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F4a521c4c3a8f4b5f8006029711027a7c?width=638)](https://4patriots.com/product/emergency-food-ration-bars)
     
-    ###### Early Black Friday Deals Start Now
+    ###### Black Friday Deals
     
     ![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)
     
@@ -288,7 +288,7 @@ Search
     
     [![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2Fafe30086aaf54c3191129ed6c3913c9b?width=500)](https://4patriots.com/category/deals)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F4a521c4c3a8f4b5f8006029711027a7c?width=638)](https://4patriots.com/product/emergency-food-ration-bars)
     
-    ###### Early Black Friday Deals Start Now
+    ###### Black Friday Deals Start Now
     
     ![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)
     
