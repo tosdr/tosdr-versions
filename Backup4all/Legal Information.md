@@ -1,8 +1,8 @@
- ![Limited time promo](https://www.backup4all.com/images/promo/pack/promo-save.png?ek79cy)
+ ![Limited time promo](https://www.backup4all.com/images/promo/blackfriday/badge-black-friday.png?ek79cy)
 
-#### Limited time sale: Backup4all PRO Family Pack - Pay for 2 Licenses & Get 3 (Save US$ 46.68)
+#### Black Friday sale: 70% Discount for Backup4all Pro to unlock new features (Save US$ 34.99)
 
-Buy (US$ 93.33)
+Buy (US$ 15.00)
 
 [![Backup4all Logo](https://www.backup4all.com/images/backup4all-logo.svg)![Backup4all Logo by Softland](https://www.backup4all.com/images/backup4all-by-softland.svg)](https://www.backup4all.com/)
 
@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to configure a new backup?](https://www.backup4all.com/how-to-configure-a-new-backup-kb.html)  
+* [How to backup your data to Caringo Swarm](https://www.backup4all.com/how-to-backup-your-data-to-caringo-swarm-kb.html)  
     
-* [How to backup your data to Google Drive](https://www.backup4all.com/how-to-backup-your-data-to-google-drive-kb.html)  
+* [How to back up data files from Hubic using Ba ...](https://www.backup4all.com/how-to-back-up-data-files-from-hubic-using-backup4all-kb.html)  
     
-* [How to configure logs and history](https://www.backup4all.com/how-to-configure-logs-and-history-kb.html)  
+* [How to create a new task using Windows Task S ...](https://www.backup4all.com/how-to-create-a-new-task-using-windows-task-scheduler-kb.html)  
     
-* [How to monitor multiple Backup4all installati ...](https://www.backup4all.com/how-to-monitor-multiple-backup4all-installations-using-the-back-kb.html)  
+* [Configure Backup4all for remote monitoring](https://www.backup4all.com/configure-backup4all-for-remote-monitoring-kb.html)  
     
-* [How to manage backup tags](https://www.backup4all.com/how-to-manage-backup-groups-kb.html)  
+* [What is cloud backup](https://www.backup4all.com/what-is-cloud-backup-kb.html)  
     
 
 Choose language:
