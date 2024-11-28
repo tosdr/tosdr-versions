@@ -51,6 +51,8 @@ The personal data you provide us is administered safely and only for the specifi
   
 Registered users give their consent to the processing of personal data, under the conditions mentioned above, in accordance with applicable laws.
 
+ANDROID ZONE, New York, New York, New York, 10005
+
 * [Releases](https://android-zone.ws/discover/81/)
 
 * [Home](https://android-zone.ws/ "Home")
@@ -105,6 +107,6 @@ Important Information
 
 This website uses cookies. To learn more, visit our [Privacy Policy](https://android-zone.ws/privacy/).
 
-  [I accept](https://android-zone.ws/index.php?app=core&module=system&controller=terms&do=dismiss&ref=aHR0cHM6Ly9hbmRyb2lkLXpvbmUud3Mv&csrfKey=250f85fbd43302ef40f2f2fc7cdfa8c8)
+  [I accept](https://android-zone.ws/index.php?app=core&module=system&controller=terms&do=dismiss&ref=aHR0cHM6Ly9hbmRyb2lkLXpvbmUud3Mv&csrfKey=e9c8566e5f91dddc7b4b527d95333ce5)
 
  Change theme
