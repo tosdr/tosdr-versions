@@ -401,6 +401,12 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Man who tried to enter Dallas church with tactical rifle now facing federal charge](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/ragsdale-church-rifle.png?ve=1&tl=1)
+
+ ![Man who tried to enter Dallas church with tactical rifle now facing federal charge](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/ragsdale-church-rifle.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/russell-alan-ragsdale-federal-gun-charge-st-augustine-catholic-church)
+
+### [Man who tried to enter Dallas church with tactical rifle now facing federal charge](https://www.fox4news.com/news/russell-alan-ragsdale-federal-gun-charge-st-augustine-catholic-church)
+
  [!['VetsGiving' volunteers deliver Thanksgiving meals to North Texas veterans](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/p-dionne-thanksgiving-meal-distribution-6p_00.00.42.56.jpg?ve=1&tl=1)
 
  !['VetsGiving' volunteers deliver Thanksgiving meals to North Texas veterans](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/p-dionne-thanksgiving-meal-distribution-6p_00.00.42.56.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/vetsgiving-volunteers-deliver-thanksgiving-meals-north-texas-veterans)
@@ -424,12 +430,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![T.D. Jakes gives update on health, says he didn't suffer stroke](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/td-jakes.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/td-jakes-gives-update-health-stroke)
 
 ### [T.D. Jakes gives update on health, says he didn't suffer stroke](https://www.fox4news.com/news/td-jakes-gives-update-health-stroke)
-
- [![Dallas weather: Wednesday temps break 119-year-old record](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/early-pm-news-clean-wednesday-2024_11_27-kdfweme00_00.14.35.36.jpg?ve=1&tl=1)
-
- ![Dallas weather: Wednesday temps break 119-year-old record](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/early-pm-news-clean-wednesday-2024_11_27-kdfweme00_00.14.35.36.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/weather/dallas-weather-wednesday-temps-break-119-year-old-record)
-
-### [Dallas weather: Wednesday temps break 119-year-old record](https://www.fox4news.com/weather/dallas-weather-wednesday-temps-break-119-year-old-record)
 
 ###### [News](https://www.fox4news.com/news)
 
