@@ -20,11 +20,27 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![L: Sam, Jesse's godmother and Chaise, Jesse's sister. R: Jesse Lloyd-Smith, 20 (2004-2024)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-28-11-2024-at-13.04-360x180.jpg)](https://southwarknews.co.uk/area/peckham/we-believe-people-are-sitting-on-the-truth-family-pleads-for-answers-after-jesse-lloyd-smith-was-shot-in-peckham/)
+    
+    ### [‘We believe people are sitting on the truth’: Family pleads for answers after Jesse Lloyd-Smith was shot in Peckham](https://southwarknews.co.uk/area/peckham/we-believe-people-are-sitting-on-the-truth-family-pleads-for-answers-after-jesse-lloyd-smith-was-shot-in-peckham/)
+    
+    [![Chatelain House on Walworth Road, South London was built in the 1980s. Image from Southwark Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/Chatelain-House-360x180.jpg)](https://southwarknews.co.uk/area/walworth/fresh-plans-to-redevelop-an-eyesore-office-block-on-the-walworth-road/)
+    
+    ### [Fresh plans to redevelop an ‘eyesore’ office block on the Walworth Road](https://southwarknews.co.uk/area/walworth/fresh-plans-to-redevelop-an-eyesore-office-block-on-the-walworth-road/)
+    
+    [![Neil Coyle, MP for Bermondsey and Old Southwark (left) and Miatta Fahnbulleh, MP for Peckham (right)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Neil-Coyle-MP-for-Bermondsey-and-Old-Southwark-left-and-Miatta-Fahnbulleh-MP-for-Peckham-right-360x180.png)](https://southwarknews.co.uk/news/news-plus/two-southwark-mps-reveal-voting-intention-on-assisted-dying-bill/)
+    
+    ### [Two Southwark MPs reveal voting intention on assisted dying bill](https://southwarknews.co.uk/news/news-plus/two-southwark-mps-reveal-voting-intention-on-assisted-dying-bill/)
+    
+    [![The Flaxyard site, Peckham Town Centre.](https://southwarknews.co.uk/wp-content/uploads/2024/11/SJH_3494-Pano-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/council-celebrates-completion-of-120-affordable-homes-in-peckham-town-centre/)
+    
+    ### [Council celebrates completion of 120 affordable homes in Peckham Town Centre](https://southwarknews.co.uk/area/peckham/council-celebrates-completion-of-120-affordable-homes-in-peckham-town-centre/)
+    
     [![Monica Ferman passed away in 2012. (Family handout)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Monica-2-1-360x180.jpeg)](https://southwarknews.co.uk/area/dulwich/dulwich-woman-recounts-mums-horrendous-final-days-in-call-for-assisted-dying-law-saying-they-watched-her-starve-to-death/)
     
     ### [Dulwich woman recounts mum’s ‘horrendous’ final days in call for assisted dying law, saying they ‘watched her starve to death’](https://southwarknews.co.uk/area/dulwich/dulwich-woman-recounts-mums-horrendous-final-days-in-call-for-assisted-dying-law-saying-they-watched-her-starve-to-death/)
     
-    [![L: Tooley St HQ of Southwark Council; R: Cllr Kieron Williams](https://southwarknews.co.uk/wp-content/uploads/2022/05/cllr-kieron-360x180.jpg)](https://southwarknews.co.uk/area/southwark/southwark-councils-leader-has-apologised-after-the-governments-social-housing-watchdog-found-serious-failings/)
+    [![L: Tooley St HQ of Southwark Council; R: Cllr Kieron Williams](https://southwarknews.co.uk/wp-content/uploads/2024/11/L-Tooley-St-HQ-of-Southwark-Council-R-Cllr-Kieron-Williams-360x180.png)](https://southwarknews.co.uk/area/southwark/southwark-councils-leader-has-apologised-after-the-governments-social-housing-watchdog-found-serious-failings/)
     
     ### [Southwark Council’s leader has apologised after the government’s social housing watchdog found ‘serious failings’](https://southwarknews.co.uk/area/southwark/southwark-councils-leader-has-apologised-after-the-governments-social-housing-watchdog-found-serious-failings/)
     
@@ -40,22 +56,6 @@
     [![](https://southwarknews.co.uk/wp-content/uploads/2021/08/Police-stock.jpeg)](https://southwarknews.co.uk/area/london/police-step-up-patrols-in-theft-hotspots-to-protect-christmas-shoppers/)
     
     ### [Police step up patrols in theft hotspots to protect Christmas shoppers](https://southwarknews.co.uk/area/london/police-step-up-patrols-in-theft-hotspots-to-protect-christmas-shoppers/)
-    
-    [![Jaqueline Willis and Doreen Dower outside the Lewington Centre](https://southwarknews.co.uk/wp-content/uploads/2024/11/image00003-8-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-community-centre-putting-profit-before-residents-since-120-million-regeneration-locals-claim/)
-    
-    ### [Rotherhithe community centre ‘putting profit before residents’ since £120 million regeneration, locals claim](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-community-centre-putting-profit-before-residents-since-120-million-regeneration-locals-claim/)
-    
-    [![Anne Davis says a routine bus trip has become a logistical nightmare](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_3311-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-92-faces-hour-long-bus-journey-to-reach-high-street-fifteen-minutes-away-and-now-cannot-reach-it-at-all/)
-    
-    ### [Bermondsey pensioner, 92, faces hour-long bus journey to reach high street fifteen-minutes away – and now cannot reach it at all](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-92-faces-hour-long-bus-journey-to-reach-high-street-fifteen-minutes-away-and-now-cannot-reach-it-at-all/)
-    
-    [![Credit: Lawrence Okulaja](https://southwarknews.co.uk/wp-content/uploads/2024/11/e8ba5e69-be13-4936-ac89-194f896d05c3-e1732645304217-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/elephant-and-castle-university-evacuated-after-suspicious-package-reported/)
-    
-    ### [Elephant and Castle university evacuated after ‘suspicious package’ reported](https://southwarknews.co.uk/area/elephant-and-castle/elephant-and-castle-university-evacuated-after-suspicious-package-reported/)
-    
-    [![Alex Oliver went from naval operations to the operating theatre.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-26-11-2024-at-17.33-360x180.jpg)](https://southwarknews.co.uk/area/waterloo/from-naval-operations-to-the-operating-theatre-how-one-veteran-found-a-new-career-at-st-thomas-hospital/)
-    
-    ### [From naval operations to the operating theatre: How one veteran found a new career at St Thomas’ Hospital](https://southwarknews.co.uk/area/waterloo/from-naval-operations-to-the-operating-theatre-how-one-veteran-found-a-new-career-at-st-thomas-hospital/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -106,11 +106,27 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![L: Sam, Jesse's godmother and Chaise, Jesse's sister. R: Jesse Lloyd-Smith, 20 (2004-2024)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-28-11-2024-at-13.04-360x180.jpg)](https://southwarknews.co.uk/area/peckham/we-believe-people-are-sitting-on-the-truth-family-pleads-for-answers-after-jesse-lloyd-smith-was-shot-in-peckham/)
+    
+    ### [‘We believe people are sitting on the truth’: Family pleads for answers after Jesse Lloyd-Smith was shot in Peckham](https://southwarknews.co.uk/area/peckham/we-believe-people-are-sitting-on-the-truth-family-pleads-for-answers-after-jesse-lloyd-smith-was-shot-in-peckham/)
+    
+    [![Chatelain House on Walworth Road, South London was built in the 1980s. Image from Southwark Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/Chatelain-House-360x180.jpg)](https://southwarknews.co.uk/area/walworth/fresh-plans-to-redevelop-an-eyesore-office-block-on-the-walworth-road/)
+    
+    ### [Fresh plans to redevelop an ‘eyesore’ office block on the Walworth Road](https://southwarknews.co.uk/area/walworth/fresh-plans-to-redevelop-an-eyesore-office-block-on-the-walworth-road/)
+    
+    [![Neil Coyle, MP for Bermondsey and Old Southwark (left) and Miatta Fahnbulleh, MP for Peckham (right)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Neil-Coyle-MP-for-Bermondsey-and-Old-Southwark-left-and-Miatta-Fahnbulleh-MP-for-Peckham-right-360x180.png)](https://southwarknews.co.uk/news/news-plus/two-southwark-mps-reveal-voting-intention-on-assisted-dying-bill/)
+    
+    ### [Two Southwark MPs reveal voting intention on assisted dying bill](https://southwarknews.co.uk/news/news-plus/two-southwark-mps-reveal-voting-intention-on-assisted-dying-bill/)
+    
+    [![The Flaxyard site, Peckham Town Centre.](https://southwarknews.co.uk/wp-content/uploads/2024/11/SJH_3494-Pano-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/council-celebrates-completion-of-120-affordable-homes-in-peckham-town-centre/)
+    
+    ### [Council celebrates completion of 120 affordable homes in Peckham Town Centre](https://southwarknews.co.uk/area/peckham/council-celebrates-completion-of-120-affordable-homes-in-peckham-town-centre/)
+    
     [![Monica Ferman passed away in 2012. (Family handout)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Monica-2-1-360x180.jpeg)](https://southwarknews.co.uk/area/dulwich/dulwich-woman-recounts-mums-horrendous-final-days-in-call-for-assisted-dying-law-saying-they-watched-her-starve-to-death/)
     
     ### [Dulwich woman recounts mum’s ‘horrendous’ final days in call for assisted dying law, saying they ‘watched her starve to death’](https://southwarknews.co.uk/area/dulwich/dulwich-woman-recounts-mums-horrendous-final-days-in-call-for-assisted-dying-law-saying-they-watched-her-starve-to-death/)
     
-    [![L: Tooley St HQ of Southwark Council; R: Cllr Kieron Williams](https://southwarknews.co.uk/wp-content/uploads/2022/05/cllr-kieron-360x180.jpg)](https://southwarknews.co.uk/area/southwark/southwark-councils-leader-has-apologised-after-the-governments-social-housing-watchdog-found-serious-failings/)
+    [![L: Tooley St HQ of Southwark Council; R: Cllr Kieron Williams](https://southwarknews.co.uk/wp-content/uploads/2024/11/L-Tooley-St-HQ-of-Southwark-Council-R-Cllr-Kieron-Williams-360x180.png)](https://southwarknews.co.uk/area/southwark/southwark-councils-leader-has-apologised-after-the-governments-social-housing-watchdog-found-serious-failings/)
     
     ### [Southwark Council’s leader has apologised after the government’s social housing watchdog found ‘serious failings’](https://southwarknews.co.uk/area/southwark/southwark-councils-leader-has-apologised-after-the-governments-social-housing-watchdog-found-serious-failings/)
     
@@ -126,22 +142,6 @@ View All Result
     [![](https://southwarknews.co.uk/wp-content/uploads/2021/08/Police-stock.jpeg)](https://southwarknews.co.uk/area/london/police-step-up-patrols-in-theft-hotspots-to-protect-christmas-shoppers/)
     
     ### [Police step up patrols in theft hotspots to protect Christmas shoppers](https://southwarknews.co.uk/area/london/police-step-up-patrols-in-theft-hotspots-to-protect-christmas-shoppers/)
-    
-    [![Jaqueline Willis and Doreen Dower outside the Lewington Centre](https://southwarknews.co.uk/wp-content/uploads/2024/11/image00003-8-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-community-centre-putting-profit-before-residents-since-120-million-regeneration-locals-claim/)
-    
-    ### [Rotherhithe community centre ‘putting profit before residents’ since £120 million regeneration, locals claim](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-community-centre-putting-profit-before-residents-since-120-million-regeneration-locals-claim/)
-    
-    [![Anne Davis says a routine bus trip has become a logistical nightmare](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_3311-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-92-faces-hour-long-bus-journey-to-reach-high-street-fifteen-minutes-away-and-now-cannot-reach-it-at-all/)
-    
-    ### [Bermondsey pensioner, 92, faces hour-long bus journey to reach high street fifteen-minutes away – and now cannot reach it at all](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-92-faces-hour-long-bus-journey-to-reach-high-street-fifteen-minutes-away-and-now-cannot-reach-it-at-all/)
-    
-    [![Credit: Lawrence Okulaja](https://southwarknews.co.uk/wp-content/uploads/2024/11/e8ba5e69-be13-4936-ac89-194f896d05c3-e1732645304217-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/elephant-and-castle-university-evacuated-after-suspicious-package-reported/)
-    
-    ### [Elephant and Castle university evacuated after ‘suspicious package’ reported](https://southwarknews.co.uk/area/elephant-and-castle/elephant-and-castle-university-evacuated-after-suspicious-package-reported/)
-    
-    [![Alex Oliver went from naval operations to the operating theatre.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-26-11-2024-at-17.33-360x180.jpg)](https://southwarknews.co.uk/area/waterloo/from-naval-operations-to-the-operating-theatre-how-one-veteran-found-a-new-career-at-st-thomas-hospital/)
-    
-    ### [From naval operations to the operating theatre: How one veteran found a new career at St Thomas’ Hospital](https://southwarknews.co.uk/area/waterloo/from-naval-operations-to-the-operating-theatre-how-one-veteran-found-a-new-career-at-st-thomas-hospital/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -245,13 +245,31 @@ Terms of Use
 
 ### Featured Articles
 
+[![L: Sam, Jesse's godmother and Chaise, Jesse's sister. R: Jesse Lloyd-Smith, 20 (2004-2024)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-28-11-2024-at-13.04-120x86.jpg)](https://southwarknews.co.uk/area/peckham/we-believe-people-are-sitting-on-the-truth-family-pleads-for-answers-after-jesse-lloyd-smith-was-shot-in-peckham/)
+
+### [‘We believe people are sitting on the truth’: Family pleads for answers after Jesse Lloyd-Smith was shot in Peckham](https://southwarknews.co.uk/area/peckham/we-believe-people-are-sitting-on-the-truth-family-pleads-for-answers-after-jesse-lloyd-smith-was-shot-in-peckham/)
+
+[28th November 2024](https://southwarknews.co.uk/area/peckham/we-believe-people-are-sitting-on-the-truth-family-pleads-for-answers-after-jesse-lloyd-smith-was-shot-in-peckham/)
+
+[![Chatelain House on Walworth Road, South London was built in the 1980s. Image from Southwark Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/Chatelain-House-120x86.jpg)](https://southwarknews.co.uk/area/walworth/fresh-plans-to-redevelop-an-eyesore-office-block-on-the-walworth-road/)
+
+### [Fresh plans to redevelop an ‘eyesore’ office block on the Walworth Road](https://southwarknews.co.uk/area/walworth/fresh-plans-to-redevelop-an-eyesore-office-block-on-the-walworth-road/)
+
+[28th November 2024](https://southwarknews.co.uk/area/walworth/fresh-plans-to-redevelop-an-eyesore-office-block-on-the-walworth-road/)
+
+[![The Flaxyard site, Peckham Town Centre.](https://southwarknews.co.uk/wp-content/uploads/2024/11/SJH_3494-Pano-120x86.jpeg)](https://southwarknews.co.uk/area/peckham/council-celebrates-completion-of-120-affordable-homes-in-peckham-town-centre/)
+
+### [Council celebrates completion of 120 affordable homes in Peckham Town Centre](https://southwarknews.co.uk/area/peckham/council-celebrates-completion-of-120-affordable-homes-in-peckham-town-centre/)
+
+[28th November 2024](https://southwarknews.co.uk/area/peckham/council-celebrates-completion-of-120-affordable-homes-in-peckham-town-centre/)
+
 [![Monica Ferman passed away in 2012. (Family handout)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Monica-2-1-120x86.jpeg)](https://southwarknews.co.uk/area/dulwich/dulwich-woman-recounts-mums-horrendous-final-days-in-call-for-assisted-dying-law-saying-they-watched-her-starve-to-death/)
 
 ### [Dulwich woman recounts mum’s ‘horrendous’ final days in call for assisted dying law, saying they ‘watched her starve to death’](https://southwarknews.co.uk/area/dulwich/dulwich-woman-recounts-mums-horrendous-final-days-in-call-for-assisted-dying-law-saying-they-watched-her-starve-to-death/)
 
 [27th November 2024](https://southwarknews.co.uk/area/dulwich/dulwich-woman-recounts-mums-horrendous-final-days-in-call-for-assisted-dying-law-saying-they-watched-her-starve-to-death/)
 
-[![L: Tooley St HQ of Southwark Council; R: Cllr Kieron Williams](https://southwarknews.co.uk/wp-content/uploads/2022/05/cllr-kieron-120x86.jpg)](https://southwarknews.co.uk/area/southwark/southwark-councils-leader-has-apologised-after-the-governments-social-housing-watchdog-found-serious-failings/)
+[![L: Tooley St HQ of Southwark Council; R: Cllr Kieron Williams](https://southwarknews.co.uk/wp-content/uploads/2024/11/L-Tooley-St-HQ-of-Southwark-Council-R-Cllr-Kieron-Williams-120x86.png)](https://southwarknews.co.uk/area/southwark/southwark-councils-leader-has-apologised-after-the-governments-social-housing-watchdog-found-serious-failings/)
 
 ### [Southwark Council’s leader has apologised after the government’s social housing watchdog found ‘serious failings’](https://southwarknews.co.uk/area/southwark/southwark-councils-leader-has-apologised-after-the-governments-social-housing-watchdog-found-serious-failings/)
 
@@ -262,25 +280,6 @@ Terms of Use
 ### [Liberal Democrat councillor marks one year campaigning for Lower Road fixes amid ongoing traffic chaos](https://southwarknews.co.uk/area/rotherhithe/liberal-democrat-councillor-marks-one-year-campaigning-for-lower-road-fixes-amid-ongoing-traffic-chaos/)
 
 [27th November 2024](https://southwarknews.co.uk/area/rotherhithe/liberal-democrat-councillor-marks-one-year-campaigning-for-lower-road-fixes-amid-ongoing-traffic-chaos/)
-
-[![Greenwich Theatre 
-Photo by Nancy Poole](https://southwarknews.co.uk/wp-content/uploads/2024/11/Credit-NancyPoole-Greenwich-Theatre-120x86.jpg)](https://southwarknews.co.uk/news/community/six-pantos-and-christmas-shows-in-south-london-to-get-you-in-the-festive-spirit/)
-
-### [Six pantos and Christmas shows in South London to get you in the festive spirit](https://southwarknews.co.uk/news/community/six-pantos-and-christmas-shows-in-south-london-to-get-you-in-the-festive-spirit/)
-
-[27th November 2024](https://southwarknews.co.uk/news/community/six-pantos-and-christmas-shows-in-south-london-to-get-you-in-the-festive-spirit/)
-
-[![Anne Davis says a routine bus trip has become a logistical nightmare](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_3311-120x86.jpeg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-92-faces-hour-long-bus-journey-to-reach-high-street-fifteen-minutes-away-and-now-cannot-reach-it-at-all/)
-
-### [Bermondsey pensioner, 92, faces hour-long bus journey to reach high street fifteen-minutes away – and now cannot reach it at all](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-92-faces-hour-long-bus-journey-to-reach-high-street-fifteen-minutes-away-and-now-cannot-reach-it-at-all/)
-
-[26th November 2024](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-92-faces-hour-long-bus-journey-to-reach-high-street-fifteen-minutes-away-and-now-cannot-reach-it-at-all/)
-
-[![Credit: Lawrence Okulaja](https://southwarknews.co.uk/wp-content/uploads/2024/11/e8ba5e69-be13-4936-ac89-194f896d05c3-e1732645304217-120x86.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/elephant-and-castle-university-evacuated-after-suspicious-package-reported/)
-
-### [Elephant and Castle university evacuated after ‘suspicious package’ reported](https://southwarknews.co.uk/area/elephant-and-castle/elephant-and-castle-university-evacuated-after-suspicious-package-reported/)
-
-[26th November 2024](https://southwarknews.co.uk/area/elephant-and-castle/elephant-and-castle-university-evacuated-after-suspicious-package-reported/)
 
 ### USEFUL PAGES
 
