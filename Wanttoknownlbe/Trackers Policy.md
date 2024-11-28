@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/meelezen/soeverein-onafhankelijke-pioniers-nederland-sopn/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/corona-kwestie/oproep-aan-engelse-lareb-stop-met-vaccineren/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
@@ -131,6 +131,14 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 * [Last 8](#first)
 * [9 - 16](#second)
 * [17 - 24](#third)
+
+![Adriaan W](https://secure.gravatar.com/avatar/f607d7c1535fae5fdb42d6065fb8e1f5?s=50&d=identicon&r=g)
+
+##### **Adriaan W** reacts on:
+
+##### Een omgekeerde wereld…
+
+[Bedankt mevr. Harriet een fantastisch artikel, gelijk gePDFi…](https://www.wanttoknow.nl/inspiratie/een-omgekeerde-wereld/comment-page-1/#comment-626375)
 
 ![ikzie](https://secure.gravatar.com/avatar/99005f7fd1b9bebeaf2ae5766f00b3c6?s=50&d=identicon&r=g)
 
@@ -379,14 +387,6 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 ##### Gesponsord medicijn-research: bétere resultaten..???
 
 [Wonderlijk fenomeen, dat mensdom. Ik was nog maar een ventje…](https://www.wanttoknow.nl/gezondheid/big-pharma/gesponsord-medicijn-research-betere-resultaten/comment-page-1/#comment-626343)
-
-![Senjutsu](https://secure.gravatar.com/avatar/744ec16c6541fe3eb3d9745c3bf7eff8?s=50&d=identicon&r=g)
-
-##### **Senjutsu** reacts on:
-
-##### De sluiers worden opgelicht..!
-
-[Blijkbaar is de "redder" Trump nog steeds het oogappeltje va…](https://www.wanttoknow.nl/inspiratie/de-sluiers-worden-opgelicht/comment-page-1/#comment-626342)
 
 [![VaccinVrij banner](https://www.wanttoknow.nl/wp-content/uploads/stichting-vaccin-vrij-banner.jpg)](https://stichtingvaccinvrij.nl/)
 
