@@ -375,7 +375,7 @@ Never miss another offer!
 * [![Lidl Plus](/static/assets/app-store-apple-375462.png)](https://app.adjust.com/pi2c87h?campaign=Website&adgroup=IOS%20Badge&redirect=https%3A%2F%2Fapps.apple.com%2Fgb%2Fapp%2Flidl-plus%2Fid1238611143%3Fl%3Den "Lidl Plus")
 * [![Lidl Plus Google Play](/static/assets/google-play-badge-375481.png)](https://app.adjust.com/pi2c87h?campaign=Website&adgroup=Android%20Badge&redirect=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.lidl.eci.lidlplus%26hl%3Den "Lidl Plus Google Play")
 
-* ![Lidl Awards](/static/assets/RIA_2023-Award_Banner_3840_1000px_UPDATED-645930.png)
+* ![Lidl Awards](/static/assets/KeyVisual_3840pxX1000px_AwardsFooter-1282043.png)
 
 * [Legal](https://www.lidl.co.uk/c/legal-information/s10022935)
 * [Customer Privacy Notice](https://www.lidl.co.uk/c/customer-privacy-notice/s10022952)
