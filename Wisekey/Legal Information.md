@@ -223,7 +223,7 @@ If you have questions regarding this Privacy Notice, please contact us via email
 
 [![](https://www.wisekey.com/wp-content/themes/wisekey/dist/images/logo-white.svg)](https://www.wisekey.com/)
 
-Subscrible to our Newsletter
+Subscribe to our Newsletter
 
 * [Solutions](https://www.wisekey.com/page/)
     * [By Industry](https://www.wisekey.com/solutions/by-industry/)
