@@ -20,6 +20,8 @@
     * [Referral](https://setupad.com/referral-program-setupad/ "Referral")
     * [Contact](https://setupad.com/contact/ "Contact")
 * [LOG IN](https://client.setupad.com/ "LOG IN")
+* [![](https://setupad.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.svg)English](# "English")
+    * [![](https://setupad.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/es.svg)Español (Spanish)](https://setupad.com/es/privacy-policy/ "Spanish")
 
 Privacy Policy
 ==============
