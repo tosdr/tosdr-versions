@@ -76,6 +76,10 @@ Search
 
 Search
 
+#### Exclusive
+
+[Hezbollah cease-fire deal will help Israel finally get back Hamas hostages — including Americans: UN ambassador](https://nypost.com/2024/11/27/world-news/hezbollah-cease-fire-deal-will-help-israel-finally-get-back-hamas-hostages-including-americans-un-ambassador-tells-the-post/)
+
 Privacy Notice Highlights
 =========================
 
