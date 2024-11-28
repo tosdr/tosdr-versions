@@ -18,12 +18,12 @@ FOX SCORES
     
 * [Men's Test
     
-    Day 2 Session 1
+    Day 2 Session 3
     
     |     |     |
     | --- | --- |
-    | RSA | 4 /83 |
-    | SRI |     |
+    | RSA | 191 & 1 /64 |
+    | SRI | 42  |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250701)
 * [Men's Test
@@ -36,16 +36,6 @@ FOX SCORES
     | ENG |     |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250801)
-* [Women's T20I
-    
-    ENG won by 36 runs
-    
-    |     |     |
-    | --- | --- |
-    | RSA | 6 /168 |
-    | ENG | 4 /204 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20I2024-250202)
 * [Women's BBL
     
     29/11 19:15 AEST
@@ -92,6 +82,28 @@ FOX SCORES
     |     |
     
     Race Centre](https://www.foxsports.com.au/motorsport/formula-one/race-centre?meetingid=597)
+* NFL
+    
+* [NFL
+    
+    29/11 4:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | DET | –   |
+    | CHI | –   |
+    
+    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251301)
+* [NFL
+    
+    29/11 8:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | DAL | –   |
+    | NYG | –   |
+    
+    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251302)
 * Basketball
     
 * [NBA
@@ -236,116 +248,26 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010280/box-score)
 * [NBL
     
-    28/11 19:30 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | ILL | –   |
-    | NZB | –   |
+    | ILL | 109 |
+    | NZB | 71  |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25100001)
+    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25100001/play-by-play)
 * Football
     
 * [Women's Int
     
-    28/11 21:00 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | AUSW | –   |
-    | BRAW | –   |
+    | AUSW | 1   |
+    | BRAW | 3   |
     
     Match Centre](https://www.foxsports.com.au/football/womens-international/match-centre/W_INT20240106)
-* [UCL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | SG  | 1   |
-    | GIR | 0   |
-    
-    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250521)
-* [UCL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | BGD | 5   |
-    | STU | 1   |
-    
-    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250519)
-* [UCL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | CEL | 1   |
-    | CB  | 1   |
-    
-    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250533)
-* [UCL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | LIV | 2   |
-    | RMD | 0   |
-    
-    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250531)
-* [UCL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | DZ  | 0   |
-    | BDM | 3   |
-    
-    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250529)
-* [UCL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | BOL | 1   |
-    | LIL | 2   |
-    
-    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250525)
-* [UCL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | AVL | 0   |
-    | JUV | 0   |
-    
-    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250523)
-* [UCL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | PSV | 3   |
-    | DON | 2   |
-    
-    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250535)
-* [UCL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | MCO | 2   |
-    | BEN | 3   |
-    
-    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250527)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
