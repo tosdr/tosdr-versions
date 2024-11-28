@@ -1,6 +1,6 @@
-**Patriots:** For over 26 years, your generosity has made it possible to offer The Patriot Post without a subscription fee to military personnel, students, and those with limited means. Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us) today.
+**You Make a Difference!** Our mission and operations are funded entirely by Patriots like you! Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_6&utm_medium=web&utm_source=patriotpost.us) now.
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_6&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -120,20 +120,20 @@ Last Updated: November 15, 2011.
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34577)
+     [](https://patriotpost.us/cartoons/34583)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
+*      [Gary Bauer Be Thankful](https://patriotpost.us/opinion/112413-be-thankful-2024-11-28)
+*      [Jeff Jacoby Thank God for the ‘Invisible Hand’](https://patriotpost.us/opinion/112409-thank-god-for-the-invisible-hand-2024-11-28)
+*      [The Washington Stand Walmart’s Retreat on DEI This Thanksgiving Is Just Gravy](https://patriotpost.us/opinion/112397-walmarts-retreat-on-dei-this-thanksgiving-is-just-gravy-2024-11-28)
+*      [Cal Thomas The Evolution of Thanksgiving](https://patriotpost.us/opinion/112351-the-evolution-of-thanksgiving-2024-11-28)
+*      [Guest Commentary On the Importance of Thanksgiving](https://patriotpost.us/opinion/112333-on-the-importance-of-thanksgiving-2024-11-28)
 *      [Betsy McCaughey Disrupting the Health Agencies Will Save American Lives](https://patriotpost.us/opinion/112407-disrupting-the-health-agencies-will-save-american-lives-2024-11-27)
 *      [Mark Alexander The Hand of Providence](https://patriotpost.us/alexander/112358-the-hand-of-providence-2024-11-27)
 *      [Ian Haworth Jewish Voters: Keep Punishing Pro-Hamas Democrats](https://patriotpost.us/opinion/112378-jewish-voters-keep-punishing-pro-hamas-democrats-2024-11-27)
-*      [Stephen Moore Yes Nukes!](https://patriotpost.us/opinion/112377-yes-nukes-2024-11-27)
-*      [Gary Bauer Trump’s Warning](https://patriotpost.us/opinion/112376-trumps-warning-2024-11-27)
-*      [Victor Davis Hanson Universities Have a 2025 Rendezvous With Reality](https://patriotpost.us/opinion/112375-universities-have-a-2025-rendezvous-with-reality-2024-11-27)
-*      [Byron York One Month After Campaign’s Final Convulsion, a Moment of Peace](https://patriotpost.us/opinion/112374-one-month-after-campaigns-final-convulsion-a-moment-of-peace-2024-11-27)
-*      [Tim Graham Journalist Tantrums About Elon Musk Don’t Fix Public Distrust](https://patriotpost.us/opinion/112373-journalist-tantrums-about-elon-musk-dont-fix-public-distrust-2024-11-27)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -147,7 +147,7 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-No MSM Churn No Clickbait Junk No Advertising
+[![](https://img.patriotpost.us/01JAZT6VDT6H9HTK9EJ190K832.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
