@@ -1,8 +1,8 @@
-Menu [![BFMTV](/assets/v8/images/BFMTV-header.030eba2d277d5b5fc0df00daebd9ff70.svg "BFMTV")](https://www.bfmtv.com/ "BFMTV")
+Menu [![BFMTV](/assets/v9/images/BFMTV-header.030eba2d277d5b5fc0df00daebd9ff70.svg "BFMTV")](https://www.bfmtv.com/ "BFMTV")
 
-[Replay](https://www.rmcbfmplay.com/chaine/bfm-tv?subMenuId=RefMenuItem::rmcgo_home_bfmtv "Replay")[![Direct Radio](/assets/v8/images/radio.dee6a7c951465a8cbb208e64f4c09ff6.svg)
+[Replay](https://www.rmcbfmplay.com/chaine/bfm-tv?subMenuId=RefMenuItem::rmcgo_home_bfmtv "Replay")[![Direct Radio](/assets/v9/images/radio.dee6a7c951465a8cbb208e64f4c09ff6.svg)
 
-Radio](https://www.bfmtv.com/en-direct/bfm-radio/ "Direct Radio")[![Direct tv](/assets/v8/images/direct_tv.a04f54365fdb12eef5ce900c03db08d4.svg)
+Radio](https://www.bfmtv.com/en-direct/bfm-radio/ "Direct Radio")[![Direct tv](/assets/v9/images/direct_tv.a04f54365fdb12eef5ce900c03db08d4.svg)
 
 Direct](https://www.bfmtv.com/en-direct/ "Direct tv")
 
@@ -22,17 +22,17 @@ Direct](https://www.bfmtv.com/en-direct/ "Direct tv")
 * [Newsletters](https://www.bfmtv.com/newsletters/ "Newsletters")
 * [Code promo](https://www.bfmtv.com/code-promo/ "Code promo")
 
-[![Regarder BFMTV](/assets/v8/images/BFMTV.848c19e09c92f3ced2163a1a0399be11.svg)
+[![Regarder BFMTV](/assets/v9/images/BFMTV.848c19e09c92f3ced2163a1a0399be11.svg)
 
-Regarder BFMTV](https://www.bfmtv.com/en-direct/ "Regarder BFMTV")[![Regarder BFM2](/assets/v8/images/bfm2_direct_logo.bfd86ff55d6f8abea0d6bf696cc89388.svg)
+Regarder BFMTV](https://www.bfmtv.com/en-direct/ "Regarder BFMTV")[![Regarder BFM2](/assets/v9/images/bfm2_direct_logo.bfd86ff55d6f8abea0d6bf696cc89388.svg)
 
 Regarder BFM2](https://www.bfmtv.com/en-direct/bfm2/ "Regarder BFM2")
 
-![Écouter BFM Radio](/assets/v8/images/BFM-Radio.2afb246578899c5f8d87d1f216c22953.svg)
+![Écouter BFM Radio](/assets/v9/images/BFM-Radio.2afb246578899c5f8d87d1f216c22953.svg)
 
 Écouter BFM Radio
 
-[![Replay BFMTV](/assets/v8/images/RMC-BFM-Play-radio.62cafa0ab4419da4ac6039b204f52a3e.svg)
+[![Replay BFMTV](/assets/v9/images/RMC-BFM-Play-radio.62cafa0ab4419da4ac6039b204f52a3e.svg)
 
 Replay BFMTV](https://www.rmcbfmplay.com/chaine/bfm-tv?subMenuId=RefMenuItem::rmcgo_home_bfmtv "Replay BFMTV")
 
@@ -67,20 +67,20 @@ Parcourir
     * [Devenir Annonceur](https://www.rmcbfm-ads.com/nos-marques/bfmtv.html "Devenir Annonceur")
     * [Annonces légales](https://annonces-legales.bfmtv.com/ "Annonces légales")
 
-BFM Régions
+BFM Locales
 
 Précédent
 
-* [![BFM Paris IDF](/assets/v8/images/Pastille_nav_Paris.5cb57106255258ffcae7a9b4fa5a7bde.svg)](https://www.bfmtv.com/paris/ "BFM Paris IDF")
-* [![BFM Marseille](/assets/v8/images/Pastille_nav_Marseille.882f303ff8e9c0df415130718e091330.svg)](https://www.bfmtv.com/marseille/ "BFM Marseille")
-* [![BFM Lyon](/assets/v8/images/Pastille_nav_Lyon.2476b5ad68ee714438b8a95ba338ddbc.svg)](https://www.bfmtv.com/lyon/ "BFM Lyon")
-* [![BFM Lille](/assets/v8/images/Pastille_nav_GrandLille.5dac2f26867e0d82f3c807884129346d.svg)](https://www.bfmtv.com/grand-lille/ "BFM Lille")
-* [![BFM Littoral](/assets/v8/images/Pastille_nav_GrandLittoral.8355537be320498dba3d6393a0170aea.svg)](https://www.bfmtv.com/grand-littoral/ "BFM Littoral")
-* [![BFM DICI](/assets/v8/images/Pastille_nav_DICI.0644006a2d062f87b14ceb3b1573db28.svg)](https://www.bfmtv.com/bfm-dici/ "BFM DICI")
-* [![BFM Var](/assets/v8/images/Pastille_nav_Var.af14c97f74da293c3bd75517f9a8b9df.svg)](https://www.bfmtv.com/var/ "BFM Var")
-* [![BFM Côte d'Azur](/assets/v8/images/Pastille_nav_Nice.fcc3226c1bb765efec7a5a5a0a2f2585.svg)](https://www.bfmtv.com/cote-d-azur/ "BFM Côte d'Azur")
-* [![BFM Alsace](/assets/v8/images/Pastille_nav_Alsace.dad6587c856a70051ed7dc16d2912b23.svg)](https://www.bfmtv.com/alsace/ "BFM Alsace")
-* [![BFM Normandie](/assets/v8/images/Pastille_nav_Normandie.421698e846327ea2b09fb1a8992761fa.svg)](https://www.bfmtv.com/normandie/ "BFM Normandie")
+* [![BFM Paris IDF](/assets/v9/images/Pastille_nav_Paris.5cb57106255258ffcae7a9b4fa5a7bde.svg)](https://www.bfmtv.com/paris/ "BFM Paris IDF")
+* [![BFM Marseille](/assets/v9/images/Pastille_nav_Marseille.882f303ff8e9c0df415130718e091330.svg)](https://www.bfmtv.com/marseille/ "BFM Marseille")
+* [![BFM Lyon](/assets/v9/images/Pastille_nav_Lyon.2476b5ad68ee714438b8a95ba338ddbc.svg)](https://www.bfmtv.com/lyon/ "BFM Lyon")
+* [![BFM Lille](/assets/v9/images/Pastille_nav_GrandLille.5dac2f26867e0d82f3c807884129346d.svg)](https://www.bfmtv.com/grand-lille/ "BFM Lille")
+* [![BFM Littoral](/assets/v9/images/Pastille_nav_GrandLittoral.8355537be320498dba3d6393a0170aea.svg)](https://www.bfmtv.com/grand-littoral/ "BFM Littoral")
+* [![BFM DICI](/assets/v9/images/Pastille_nav_DICI.0644006a2d062f87b14ceb3b1573db28.svg)](https://www.bfmtv.com/bfm-dici/ "BFM DICI")
+* [![BFM Var](/assets/v9/images/Pastille_nav_Var.af14c97f74da293c3bd75517f9a8b9df.svg)](https://www.bfmtv.com/var/ "BFM Var")
+* [![BFM Côte d'Azur](/assets/v9/images/Pastille_nav_Nice.fcc3226c1bb765efec7a5a5a0a2f2585.svg)](https://www.bfmtv.com/cote-d-azur/ "BFM Côte d'Azur")
+* [![BFM Alsace](/assets/v9/images/Pastille_nav_Alsace.dad6587c856a70051ed7dc16d2912b23.svg)](https://www.bfmtv.com/alsace/ "BFM Alsace")
+* [![BFM Normandie](/assets/v9/images/Pastille_nav_Normandie.421698e846327ea2b09fb1a8992761fa.svg)](https://www.bfmtv.com/normandie/ "BFM Normandie")
 
 Suivant
 
@@ -110,17 +110,17 @@ Rubriques
 
 Suivez-nous sur
 
-[](https://www.facebook.com/BFMTV "Facebook")[](https://x.com/bfmtv "X") [![Instagram](/assets/v8/images/instagram.6a7fd7797c667fbd899cd2a960baf714.svg)](https://www.instagram.com/bfmtv/?hl=fr "Instagram")[](https://www.youtube.com/c/Bfmtv-actu/videos "Youtube")[](https://fr.linkedin.com/company/bfmtv/ "Linkedin") [![Newsletters](/assets/v8/images/newsletter.3977615e993db64e69a0a169632178b9.svg)](https://www.bfmtv.com/newsletters/ "Newsletters")[![IOS](/assets/v8/images/apple.e139f47f38d27653ceffcdd25f755d51.svg)](https://app.adjust.com/2dnslix "IOS")[![Android](/assets/v8/images/android.1f1231e1f7b43ca8c61115c3a81a4529.svg)](https://app.adjust.com/dsokfy1 "Android")
+[](https://www.facebook.com/BFMTV "Facebook")[](https://x.com/bfmtv "X") [![Instagram](/assets/v9/images/instagram.6a7fd7797c667fbd899cd2a960baf714.svg)](https://www.instagram.com/bfmtv/?hl=fr "Instagram")[](https://www.youtube.com/c/Bfmtv-actu/videos "Youtube")[](https://fr.linkedin.com/company/bfmtv/ "Linkedin") [![Newsletters](/assets/v9/images/newsletter.3977615e993db64e69a0a169632178b9.svg)](https://www.bfmtv.com/newsletters/ "Newsletters")[![IOS](/assets/v9/images/apple.e139f47f38d27653ceffcdd25f755d51.svg)](https://app.adjust.com/2dnslix "IOS")[![Android](/assets/v9/images/android.1f1231e1f7b43ca8c61115c3a81a4529.svg)](https://app.adjust.com/dsokfy1 "Android")
 
 Les sites du groupe
 
 Précédent
 
 * BFM Business
-* BFM Régions
+* BFM Locales
 * BFM Bourse
 * Tech&Co
-*  ![Iconic Business](/assets/v8/images/BFM-iconic-business-menu.6fef2e09b7e6a3a4855e7a6f10f328e4.svg) Iconic Business
+*  ![Iconic Business](/assets/v9/images/BFM-iconic-business-menu.6fef2e09b7e6a3a4855e7a6f10f328e4.svg) Iconic Business
 * RMC
 * RMC Sport
 * RMC Conso
@@ -326,26 +326,26 @@ _Date dernière mise à jour : Novembre 2024_
 Les plus lus
 ------------
 
-1. [![Le président français Emmanuel Macron attend l'arrivée du président du Panama Jose Raul Mulino pour une réunion au palais présidentiel de l'Elysée à Paris, le 21 octobre 2024.](https://images.bfmtv.com/2ZlxYCo2eBcWjqDlEiFlV4CUOnI=/7x111:2039x1254/300x0/images/EMMANUEL-MACRON-1961194.jpg)
+1. [![Michel Barnier à Paris le 22 novembre 2024 ](https://images.bfmtv.com/aSJgNJ4MYxuMBGX27fIkndZaF14=/0x213:2048x1365/300x0/images/Michel-Barnier-a-Paris-le-22-novembre-2024-1985874.jpg)
     
-    ![Le président français Emmanuel Macron attend l'arrivée du président du Panama Jose Raul Mulino pour une réunion au palais présidentiel de l'Elysée à Paris, le 21 octobre 2024.](https://images.bfmtv.com/2ZlxYCo2eBcWjqDlEiFlV4CUOnI=/7x111:2039x1254/300x0/images/EMMANUEL-MACRON-1961194.jpg)
+    ![Michel Barnier à Paris le 22 novembre 2024 ](https://images.bfmtv.com/aSJgNJ4MYxuMBGX27fIkndZaF14=/0x213:2048x1365/300x0/images/Michel-Barnier-a-Paris-le-22-novembre-2024-1985874.jpg)
     
-    ### "Le gouvernement va tomber": l'Élysée dément des propos attribués à Emmanuel Macron](https://www.bfmtv.com/politique/elysee/le-gouvernement-va-tomber-l-elysee-dement-des-propos-attribues-a-emmanuel-macron_AN-202411260747.html ""Le gouvernement va tomber": l'Élysée dément des propos attribués à Emmanuel Macron")
-2. [### Cessez le feu Israël-Hezbollah: retrait des soldats, aide de la France... Que va-t-il se passer maintenant?](https://www.bfmtv.com/international/moyen-orient/liban/cessez-le-feu-israel-hezbollah-retrait-des-soldats-aide-de-la-france-que-va-t-il-se-passer-maintenant_AV-202411270149.html "Cessez le feu Israël-Hezbollah: retrait des soldats, aide de la France... Que va-t-il se passer maintenant?")
-3. [### "J'ai détruit votre vie": l'élève qui a menti avant l'assassinat de Samuel Paty s'excuse au procès](https://www.bfmtv.com/police-justice/proces/j-ai-detruit-votre-vie-l-eleve-qui-a-menti-avant-l-assassinat-de-samuel-paty-s-excuse-au-proces_AV-202411260415.html ""J'ai détruit votre vie": l'élève qui a menti avant l'assassinat de Samuel Paty s'excuse au procès")
-4. [### Menace nucléaire russe: faut-il répertorier nos bunkers comme le font les Allemands?](https://www.bfmtv.com/economie/entreprises/defense/menace-nucleaire-russe-faut-il-repertorier-nos-bunkers-comme-le-font-les-allemands_AV-202411260678.html "Menace nucléaire russe: faut-il répertorier nos bunkers comme le font les Allemands?")
-5. [### Pénurie de pères Noël: le costume "ne fait plus rêver", les agences spécialisées peinent à recruter](https://www.bfmtv.com/economie/emploi/penurie-de-peres-noel-le-costume-ne-fait-plus-rever-les-agences-specialisees-peinent-a-recruter_AN-202411270089.html "Pénurie de pères Noël: le costume "ne fait plus rêver", les agences spécialisées peinent à recruter")
+    ### Dette, loi spéciale, article 47... Ce qui risque d'arriver si le budget du gouvernement Barnier ne passe pas](https://www.bfmtv.com/economie/dette-loi-speciale-cessation-de-paiement-ce-qui-risque-d-arriver-si-le-budget-du-gouvernement-barnier-est-refuse_AN-202411270948.html "Dette, loi spéciale, article 47... Ce qui risque d'arriver si le budget du gouvernement Barnier ne passe pas")
+2. [### CARTE. Jusqu'à 200.000 emplois menacés en France? La CGT alerte sur une vague de plans sociaux](https://www.bfmtv.com/economie/economie-social/social/carte-ou-sont-les-286-plans-sociaux-recenses-par-la-cgt_AV-202411270666.html "CARTE. Jusqu'à 200.000 emplois menacés en France? La CGT alerte sur une vague de plans sociaux")
+3. [### "On a besoin que la justice nous soutienne": le témoignage de l'ex-proviseur du lycée Ravel visé par des menaces de mort](https://www.bfmtv.com/paris/on-a-besoin-que-la-justice-nous-soutienne-le-temoignage-de-l-ex-proviseur-du-lycee-ravel-vise-par-des-menaces-de-mort_AV-202411270959.html ""On a besoin que la justice nous soutienne": le témoignage de l'ex-proviseur du lycée Ravel visé par des menaces de mort")
+4. [### Des traces de peste dans un courrier envoyé à une école en Saône-et-Loire](https://www.bfmtv.com/police-justice/des-traces-de-peste-dans-un-courrier-envoye-a-une-ecole-en-saone-et-loire_AD-202411271141.html "Des traces de peste dans un courrier envoyé à une école en Saône-et-Loire")
+5. [### Des courses réservées aux femmes: Uber lance un service pour éviter les chauffeurs hommes](https://www.bfmtv.com/tech/vie-numerique/plus-de-serenite-uber-propose-desormais-des-courses-avec-chauffeuse-reservees-aux-femmes_AV-202411280137.html "Des courses réservées aux femmes: Uber lance un service pour éviter les chauffeurs hommes")
 
-![BFMTV](/assets/v8/images/BFMTV.848c19e09c92f3ced2163a1a0399be11.svg "BFMTV")
+![BFMTV](/assets/v9/images/BFMTV.848c19e09c92f3ced2163a1a0399be11.svg "BFMTV")
 
 première sur l'info
 
 * [Facebook](https://www.facebook.com/BFMTV "Facebook")
 * [X](https://x.com/bfmtv "X")
 * [Flux RSS](https://www.bfmtv.com/rss/ "Flux RSS")
-* [Newsletter](https://www.bfmtv.com/newsletters/ "Newsletter")
+* [Newsletters](https://www.bfmtv.com/newsletters/ "Newsletters")
 
-applications mobiles
+Applications mobiles
 
 * [Apple](https://app.adjust.com/t45iq9u "Apple")
 * [Android](https://app.adjust.com/mqqli6u "Android")
@@ -359,12 +359,11 @@ bfmtv
 * [Jeux-concours](https://www.bfmtv.com/evenements/jeux-concours/ "Jeux-concours")
 * [Programme TV](https://www.bfmtv.com/programme-tv/ "Programme TV")
 * [Canaux TV](https://www.bfmtv.com/canaux-tv/ "Canaux TV")
-* [Archives](https://www.bfmtv.com/archives/ "Archives")
 * [Applications mobiles](https://www.bfmtv.com/application/ "Applications mobiles")
 * [Plan du site](https://www.bfmtv.com/plan-du-site/ "Plan du site")
 * [Météo des neiges](https://meteo.bfmtv.com/previsions-meteo-montagne "Météo des neiges")
 
-nos services
+Nos services
 
 * [Code promo](https://www.bfmtv.com/code-promo/ "Code promo")
 * [Comparateur](https://www.bfmtv.com/comparateur/ "Comparateur")
@@ -379,7 +378,7 @@ nos services
 * [Portage Salarial](https://www.bfmtv.com/pratique/emploi-formation/missioneo_DB-202205130438.html "Portage Salarial")
 * [Règlements](https://www.bfmtv.com/evenements/jeux-concours/reglements-jeux-concours-bfmtv_AN-202110140220.html "Règlements")
 
-en savoir plus
+En savoir plus
 
 * [Nous contacter](https://www.bfmtv.com/contacts/ "Nous contacter")
 * [Devenir Annonceur](https://www.rmcbfm-ads.com/ "Devenir Annonceur")
@@ -391,7 +390,7 @@ en savoir plus
 * [CGU](https://www.bfmtv.com/cgu/ "CGU")
 * [Charte de déontologie](https://www.bfmtv.com/charte-deontologie/ "Charte de déontologie")
 
-les sites du groupe
+Les sites du groupe
 
 * [BFM Business](https://www.bfmtv.com/economie/ "BFM Business")
 * [BFM Patrimoine](https://www.bfmtv.com/economie/patrimoine/ "BFM Patrimoine")
@@ -406,7 +405,7 @@ les sites du groupe
 * [RMC Conso](https://rmc.bfmtv.com/conso/ "RMC Conso")
 * [Association RMC / BFM](http://ajila.org/associations-rmcbfm/ "Association RMC / BFM")
 * [Tech&Co](https://www.bfmtv.com/tech/ "Tech&Co")
-* [BFM Régions](https://www.bfmtv.com/regions/ "BFM Régions")
+* [BFM Locales](https://www.bfmtv.com/regions/ "BFM Locales")
 * [RMC Story](https://www.rmcbfmplay.com/chaine/rmc-story?subMenuId=RefMenuItem::rmcgo_home_rmcstory "RMC Story")
 * [BFM Crypto](https://www.bfmtv.com/crypto/ "BFM Crypto")
 
