@@ -228,12 +228,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-Want more stories with less ads? Try
+If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-It's what the cool kids are doing.  
-It also helps us pay the bills.
+Come on, it's $10 a month, just do it.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -333,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Walmart employee gets called into work on her day off, becomes millionaire when her shift ends. Guess they really needed her to work](https://www.fark.com/goto/13477150) ( [usatoday.com](https://www.fark.com/goto/13477150) ) » [(19 comments)](https://www.fark.com/comments/13477150/Walmart-employee-gets-called-into-work-on-her-day-off-becomes-millionaire-when-her-shift-ends-Guess-they-really-needed-her-to-work) |
-| [Discussion](https://www.fark.com/discussion/) | [Listen boy, I don't want to see you let a good thing slip away. You know I don't like watching anybody make the same mistakes I made in the MSNBC Discussion Thread, live at 7:00 PM ET](https://www.fark.com/goto/13477282) ( [msnbc.com](https://www.fark.com/goto/13477282) ) » [(30 comments)](https://www.fark.com/comments/13477282/Listen-boy-I-dont-want-to-see-you-let-a-good-thing-slip-away-You-know-I-dont-like-watching-anybody-make-same-mistakes-I-made-in-MSNBC-Discussion-Thread-live-at-700-PM-ET) |
-| [Sports](https://www.fark.com/sports/) | [Dennis Rodman's son is DJ is released by the Capital City Go-Go in the G League, yet his stats are way better than Bronny James, makes one say hmm](https://www.fark.com/goto/13476980) ( [msn.com](https://www.fark.com/goto/13476980) ) » [(8 comments)](https://www.fark.com/comments/13476980/Dennis-Rodmans-son-is-DJ-is-released-by-Capital-City-Go-Go-in-G-League-yet-his-stats-are-way-better-than-Bronny-James-makes-one-say-hmm) |
-| [Business](https://www.fark.com/business/) | [Nissan will offer itself up to Honda if it can't turn things around next year](https://www.fark.com/goto/13476906) ( [motor1.com](https://www.fark.com/goto/13476906) ) » [(7 comments)](https://www.fark.com/comments/13476906/Nissan-will-offer-itself-up-to-Honda-if-it-cant-turn-things-around-next-year) |
-| [STEM](https://www.fark.com/stem/) | [Now you can choose between Google and China having your browsing history](https://www.fark.com/goto/13476778) ( [theverge.com](https://www.fark.com/goto/13476778) ) » [(1 comment)](https://www.fark.com/comments/13476778/Now-you-can-choose-between-Google-China-having-your-browsing-history) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Lana del Rey fans' wallets are breaking down faster than her version of summertime](https://www.fark.com/goto/13477184) ( [metro.co.uk](https://www.fark.com/goto/13477184) ) » [(18 comments)](https://www.fark.com/comments/13477184/Lana-del-Rey-fans-wallets-are-breaking-down-faster-than-her-version-of-summertime) |
-| [Fandom](https://www.fark.com/fandom/) | [The Twitter cage fight that no one wants, yet everyone needs: Elon Musk versus Derek Smart. TO THE DEATH](https://www.fark.com/goto/13477204) ( [pcgamer.com](https://www.fark.com/goto/13477204) ) » [(22 comments)](https://www.fark.com/comments/13477204/The-Twitter-cage-fight-that-no-one-wants-yet-everyone-needs-Elon-Musk-versus-Derek-Smart-TO-THE-DEATH) |
-| [D'awww](https://www.fark.com/dawww/) | [100 y/o man uses a walker to shuffle five blocks every day to visit his wife in a care home. Who knew his journey would create so much dust - in the snow no less?](https://www.fark.com/goto/13477056) ( [winnipeg.ctvnews.ca](https://www.fark.com/goto/13477056) ) » [(4 comments)](https://www.fark.com/comments/13477056/-100-yo-man-uses-a-walker-to-shuffle-five-blocks-every-day-to-visit-his-wife-in-a-care-home-Who-knew-his-journey-would-create-so-much-dust-in-snow-no-less) |
-| [Food](https://www.fark.com/food/) | [Think having no toilet paper was bad? How about the Great Cranberry Scare of 1959](https://www.fark.com/goto/13477188) ( [history.com](https://www.fark.com/goto/13477188) ) » [(6 comments)](https://www.fark.com/comments/13477188/Think-having-no-toilet-paper-was-bad-How-about-Great-Cranberry-Scare-of-1959) |
-| [Politics](https://www.fark.com/politics/) | [No. We cannot. Now take your sootcase and GTFO](https://www.fark.com/goto/13477140) ( [slate.com](https://www.fark.com/goto/13477140) ) » [(11 comments)](https://www.fark.com/comments/13477140/No-We-cannot-Now-take-your-sootcase-GTFO) |
+| [Main](https://www.fark.com/) | [The Czech is in the mail](https://www.fark.com/goto/13477456) ( [bbc.com](https://www.fark.com/goto/13477456) ) » [(8 comments)](https://www.fark.com/comments/13477456/The-Czech-is-in-mail) |
+| [Discussion](https://www.fark.com/discussion/) | [China's latest tourist attraction proves some people really do pay to be scared out of their minds](https://www.fark.com/goto/13476934) ( [metro.co.uk](https://www.fark.com/goto/13476934) ) » [(1 comment)](https://www.fark.com/comments/13476934/Chinas-latest-tourist-attraction-proves-some-people-really-do-pay-to-be-scared-out-of-their-minds) |
+| [Sports](https://www.fark.com/sports/) | [Evidently Alabama's medical exam skipped over that difficult "Dead/Not Dead" chapter](https://www.fark.com/goto/13477356) ( [espn.com](https://www.fark.com/goto/13477356) ) » [(1 comment)](https://www.fark.com/comments/13477356/Evidently-Alabamas-medical-exam-skipped-over-that-difficult-DeadNot-Dead-chapter) |
+| [Business](https://www.fark.com/business/) | [Because Porn (possible nsfw content on page)](https://www.fark.com/goto/13477466) ( [dailystar.co.uk](https://www.fark.com/goto/13477466) ) » [(0 comments)](https://www.fark.com/comments/13477466/Because-Porn-possible-nsfw-content-on-page) |
+| [STEM](https://www.fark.com/stem/) | [After a 37 year break, all the fashionable orcas have started wearing dead salmon on their heads again](https://www.fark.com/goto/13477410) ( [iflscience.com](https://www.fark.com/goto/13477410) ) » [(10 comments)](https://www.fark.com/comments/13477410/After-a-37-year-break-all-fashionable-orcas-have-started-wearing-dead-salmon-on-their-heads-again) |
+| [Entertainment](https://www.fark.com/entertainment/) | [If the conditions of your bail prohibit you from leaving the state, don't do so. And especially don't do so if you're a well-known country singer leaving to attend the CMAs. And really, really don't post pictures of yourself doing that on Instagram](https://www.fark.com/goto/13477334) ( [thedailybeast.com](https://www.fark.com/goto/13477334) ) » [(12 comments)](https://www.fark.com/comments/13477334/If-conditions-of-your-bail-prohibit-you-from-leaving-state-dont-do-so-And-especially-dont-do-so-if-youre-a-well-known-country-singer-leaving-to-attend-CMAs-And-really-really-dont-post-pictures-of-yourself-doing-that-on-Instagram) |
+| [Fandom](https://www.fark.com/fandom/) | [Simpsons: Hit and Run could have had three games for no money, but settled for no games for three money](https://www.fark.com/goto/13477112) ( [gamerant.com](https://www.fark.com/goto/13477112) ) » [(1 comment)](https://www.fark.com/comments/13477112/Simpsons-Hit-Run-could-have-had-three-games-for-no-money-but-settled-for-no-games-for-three-money) |
+| [D'awww](https://www.fark.com/dawww/) | [100 y/o man uses a walker to shuffle five blocks every day to visit his wife in a care home. Who knew his journey would create so much dust - in the snow no less?](https://www.fark.com/goto/13477056) ( [winnipeg.ctvnews.ca](https://www.fark.com/goto/13477056) ) » [(6 comments)](https://www.fark.com/comments/13477056/-100-yo-man-uses-a-walker-to-shuffle-five-blocks-every-day-to-visit-his-wife-in-a-care-home-Who-knew-his-journey-would-create-so-much-dust-in-snow-no-less) |
+| [Food](https://www.fark.com/food/) | [Duck Donuts, founded where man first flew lighter than air craft, crashes in the Wright Bros. home state. Who thought regular ol donuts covered in bacon & frosting for $35 a dozen wouldn't fly during an inflationary crisis?](https://www.fark.com/goto/13477390) ( [hoodline.com](https://www.fark.com/goto/13477390) ) » [(5 comments)](https://www.fark.com/comments/13477390/Duck-Donuts-founded-where-man-first-flew-lighter-than-air-craft-crashes-in-Wright-Bros-home-state-Who-thought-regular-ol-donuts-covered-in-bacon-frosting-for-$35-a-dozen-wouldnt-fly-during-an-inflationary-crisis) |
+| [Politics](https://www.fark.com/politics/) | [They said they were gonna](https://www.fark.com/goto/13477382) ( [theguardian.com](https://www.fark.com/goto/13477382) ) » [(20 comments)](https://www.fark.com/comments/13477382/They-said-they-were-gonna) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -352,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 28 2024 01:42:07  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 28 2024 07:42:16  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
