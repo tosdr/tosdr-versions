@@ -3,7 +3,7 @@
 Website Terms of Use
 ====================
 
-Version 2.4, last updated: October 28, 2023
+Version 2.5, last updated: November 28, 2023
 
 PLEASE READ THE TERMS OF USE CAREFULLY BEFORE USING THIS WEBSITE. BY ACCESSING AND USING THE SITE IN ANY WAY, INCLUDING BROWSING THE SITE, USING ANY INFORMATION, CONTENT, OR SERVICES, DOWNLOADING ANY SOFTWARE OR FILES, OR PLACING ORDERS FOR PRODUCTS, YOU ARE ENTERING INTO A LEGAL AGREEMENT WITH JETBRAINS AND HEREBY AGREE TO ABIDE BY THESE TERMS.
 
@@ -271,13 +271,13 @@ General Provisions
 
 ### THESE TERMS OF USE AND THEIR PARTIES
 
-These Terms of Use together with the order accepted by Us form the entire agreement and replace any previous agreement between You and Us in relation to its subject matter. By accepting these Terms of Use, You agree to use JetBrains Website in accordance with the JetBrains Cloud-Based Product Acceptable Use Policy, available at [https://www.jetbrains.com/legal/docs/terms/teamware-acceptable-use.html.](https://www.jetbrains.com/legal/docs/terms/teamware-acceptable-use.html) Except as expressly mentioned, these Terms of Use do not apply or give rights to anyone else (‘no third-party beneficiaries’).
+These Terms of Use form the entire agreement and replace any previous agreement between You and Us in relation to its subject matter. By accepting these Terms of Use, You agree to use JetBrains Website in accordance with the JetBrains Cloud-Based Product Acceptable Use Policy, available at [https://www.jetbrains.com/legal/docs/terms/teamware-acceptable-use.html.](https://www.jetbrains.com/legal/docs/terms/teamware-acceptable-use.html) Except as expressly mentioned, these Terms of Use do not apply or give rights to anyone else (‘no third-party beneficiaries’).
 
 ### GOVERNING LAW AND DISPUTES
 
 These Terms of Use are governed by the laws of the Czech Republic, without reference to conflict of laws principles, and specifically excluding the United Nations Convention on Contracts for the International Sale of Goods. The Parties to these Terms of Use undertake to use the best commercial efforts to amicably settle any disputes arising hereunder (“Dispute”).
 
-Should the Parties to these Terms of Use fail to settle a Dispute amicably, the Dispute will be excluded from the jurisdiction of general courts and all such Disputes will be finally decided by the Arbitration Court attached to the Czech Chamber of Commerce and the Agricultural Chamber of the Czech Republic by three (3) arbitrators in accordance with the Rules of that Arbitration Court, and the language of the proceedings will be English.
+Should the Parties to these Terms of Use fail to settle a Dispute amicably, the Dispute shall be subject to the exclusive jurisdiction of the courts of the Czech Republic.
 
 ### FORCE MAJEURE
 
@@ -303,30 +303,8 @@ These Terms of Use can be updated from time to time, to reflect changes in the J
 
 Your relationship with JetBrains is that of independent parties. These Terms of Use do not create a partnership, franchise, joint venture, agency, fiduciary, employment, or any other type of relationship.
 
-### CONTRACT REVIEW
-
-By agreeing to these Terms of Use, You are confirming to Us that:
-
-i) You have had sufficient opportunity to read, review, and consider these Terms of Use;
-
-ii) You understand the content of each paragraph of these Terms of Use; and
-
-iii) You have had sufficient opportunity to seek independent professional legal advice.
-
-This means that, to the extent permitted by applicable law, any statutory provisions relating to so-called ‘form’ or ‘adhesion’ contracts do not apply to these Terms of Use.
-
 ### RESERVATION OF RIGHTS
 
 We reserve the right to alter these Terms of Use at any time.
-
-**CHILDREN AND MINORS**
-
-If You are younger than 13 years old, You cannot agree to these Terms of Use or use the JetBrains Website. By agreeing to these Terms of Use You are confirming that:
-
-i) You have the legal capacity to enter into these Terms of Use, or, if You are between the age of 13 and 18, You have valid consent from a parent or legal guardian to do so; and
-
-ii) You understand the JetBrains Privacy Notice, available at [https://www.jetbrains.com/legal/docs/privacy/privacy.html](https://www.jetbrains.com/legal/docs/privacy/privacy.html).
-
-IF YOU DO NOT UNDERSTAND THIS SECTION, DO NOT UNDERSTAND THE JETBRAINS PRIVACY NOTICE, OR DO NOT KNOW WHETHER YOU HAVE THE LEGAL CAPACITY TO ACCEPT THESE TERMS OF USE, PLEASE ASK YOUR PARENT OR LEGAL GUARDIAN FOR HELP.
 
 If You have any questions about these Terms of Use, please contact Us at [legal@jetbrains.com](mailto:legal@jetbrains.com).
