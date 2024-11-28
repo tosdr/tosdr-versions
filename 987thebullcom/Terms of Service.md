@@ -212,11 +212,11 @@ Recently Played
 
 |     |
 | --- |
-| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>4:38pm |
-| Beautiful CrazyLuke Combs<br><br>4:35pm |
-| The PainterCody Johnson<br><br>4:32pm |
-| Pink SkiesZach Bryan<br><br>4:29pm |
-| No Shoes, No Shirt, No ProblemKenny Chesney<br><br>4:26pm |
+| You ProofMorgan Wallen<br><br>10:39pm |
+| Devil You KnowTyler Braden<br><br>10:36pm |
+| Backseat DriverKane Brown<br><br>10:24pm |
+| Where It'S AtDustin Lynch<br><br>10:21pm |
+| Try That In A Small TownJason Aldean<br><br>10:18pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -360,21 +360,21 @@ State
 Featured Brands
 ---------------
 
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+
+News Talk • Eastern
+
 [![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
 Top 40 • Eastern
-
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
-
-Top 40 • Pacific NW
 
 [![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
 Country • Western
 
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
-Sports • Midwest
+Country • Western
 
 [](https://www.alphamediausa.com/)
 
