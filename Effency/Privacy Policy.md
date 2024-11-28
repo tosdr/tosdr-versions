@@ -53,8 +53,6 @@ La présente Politique de Confidentialité a pour objet de vous informer sur les
 
 Nous nous conformons, dans la collecte et la gestion de ces données, à la réglementation applicable en matière de données personnelles et notamment la loi n°78-17 du 6 janvier 1978 dite « Informatique et Libertés », au Règlement UE 2016/679 du 27 avril 2016 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données faisant l’objet du décret n°2019-536 du 29 mai 2019. 
 
-1
-
   
 **Notice**: Undefined index: title\_display in **/home/effency-user/applications/wordpress/wp-prod.new/wp-content/plugins/premium-addons-for-elementor/widgets/premium-counter.php** on line **1377**  
 
