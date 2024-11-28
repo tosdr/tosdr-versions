@@ -103,31 +103,31 @@ Financial Freedom happens here.®
 
 ### Footnotes
 
-##### Company
+Company
 
 * [Careers](https://www.fairwinds.org/careers)
 * [Locations](https://www.fairwinds.org/locations)
 * [Our Foundation](https://www.fairwinds.org/fairwinds-foundation)
 * [Community Relations](https://www.fairwinds.org/community-relations)
 
-##### Rates and Charges
+Rates and Charges
 
 * [Current Rates](https://www.fairwinds.org/rates)
 * [Service Charges](https://www.fairwinds.org/resources/service-charges)
 * [Business Service Charges](https://www.fairwinds.org/resources/business-service-charges)
 
-##### Mobile Apps
+Mobile Apps
 
 * [Apple App Store](https://www.fairwinds.org/exit-warning?goto=https://apps.apple.com/us/app/fairwinds-mobile-banking/id642838826)
 * [Google Play](https://www.fairwinds.org/exit-warning?goto=https://play.google.com/store/apps/details?id=com.ifs.banking.fiid1425)
 
-##### Media
+Media
 
 * [Newsroom](https://www.fairwinds.org/newsroom)
 * [Awards and Accolades](https://www.fairwinds.org/media/awards)
 * [Annual Reports](https://www.fairwinds.org/media/annual-reports)
 
-##### Connect with Us
+Connect with Us
 
 * [Facebook](https://www.fairwinds.org/exit-warning?goto=https://www.facebook.com/fairwinds)
 * [Instagram](https://www.fairwinds.org/exit-warning?goto=https://www.instagram.com/fairwindscu/)
