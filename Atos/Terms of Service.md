@@ -19,7 +19,7 @@ Necessary cookies
 -----------------
 
 These are essential for the user navigation and allow to give access to certain functionalities such as secured zones accesses. Without these cookies, it won’t be possible to provide the service.  
-[Matomo](https://matomo.org/privacy-policy/)
+[Matomo privacy policy](https://matomo.org/privacy-policy/)
 
 Toggle Marketing
 
