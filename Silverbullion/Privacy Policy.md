@@ -122,7 +122,7 @@
     *  [![](data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KDTwhLS0gVXBsb2FkZWQgdG86IFNWRyBSZXBvLCB3d3cuc3ZncmVwby5jb20sIFRyYW5zZm9ybWVkIGJ5OiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4KPHN2ZyB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSIjMDAwMDAwIj4KDTxnIGlkPSJTVkdSZXBvX2JnQ2FycmllciIgc3Ryb2tlLXdpZHRoPSIwIi8+Cg08ZyBpZD0iU1ZHUmVwb190cmFjZXJDYXJyaWVyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KDTxnIGlkPSJTVkdSZXBvX2ljb25DYXJyaWVyIj4gPGcgZmlsbD0ibm9uZSI+IDxjaXJjbGUgZmlsbD0iIzNFNzNDNCIgY3g9IjE2IiBjeT0iMTYiIHI9IjE2Ii8+IDxnIGZpbGw9IiNGRkYiPiA8cGF0aCBkPSJNMjAuMDIyIDE4LjEyNGMwLTIuMTI0LTEuMjgtMi44NTItMy44NC0zLjE1Ni0xLjgyOC0uMjQzLTIuMTkzLS43MjgtMi4xOTMtMS41NzggMC0uODUuNjEtMS4zOTYgMS44MjgtMS4zOTYgMS4wOTcgMCAxLjcwNy4zNjQgMi4wMTEgMS4yNzVhLjQ1OC40NTggMCAwMC40MjcuMzAzaC45NzVhLjQxNi40MTYgMCAwMC40MjctLjQyNXYtLjA2YTMuMDQgMy4wNCAwIDAwLTIuNzQzLTIuNDg5VjkuMTQyYzAtLjI0My0uMTgzLS40MjUtLjQ4Ny0uNDg2aC0uOTE1Yy0uMjQzIDAtLjQyNi4xODItLjQ4Ny40ODZ2MS4zOTZjLTEuODI5LjI0Mi0yLjk4NiAxLjQ1Ni0yLjk4NiAyLjk3NCAwIDIuMDAyIDEuMjE4IDIuNzkxIDMuNzc4IDMuMDk1IDEuNzA3LjMwMyAyLjI1NS42NjggMi4yNTUgMS42MzkgMCAuOTctLjg1MyAxLjYzOC0yLjAxMSAxLjYzOC0xLjU4NSAwLTIuMTMzLS42NjctMi4zMTYtMS41NzgtLjA2LS4yNDItLjI0NC0uMzY0LS40MjctLjM2NGgtMS4wMzZhLjQxNi40MTYgMCAwMC0uNDI2LjQyNXYuMDZjLjI0MyAxLjUxOCAxLjIxOSAyLjYxIDMuMjMgMi45MTR2MS40NTdjMCAuMjQyLjE4My40MjUuNDg3LjQ4NWguOTE1Yy4yNDMgMCAuNDI2LS4xODIuNDg3LS40ODVWMjEuMzRjMS44MjktLjMwMyAzLjA0Ny0xLjU3OCAzLjA0Ny0zLjIxN3oiLz4gPHBhdGggZD0iTTEyLjg5MiAyNC40OTdjLTQuNzU0LTEuNy03LjE5Mi02Ljk4LTUuNDI0LTExLjY1My45MTQtMi41NSAyLjkyNS00LjQ5MSA1LjQyNC01LjQwMi4yNDQtLjEyMS4zNjUtLjMwMy4zNjUtLjYwN3YtLjg1YzAtLjI0Mi0uMTIxLS40MjQtLjM2NS0uNDg1LS4wNjEgMC0uMTgzIDAtLjI0NC4wNmExMC44OTUgMTAuODk1IDAgMDAtNy4xMyAxMy43MTdjMS4wOTYgMy40IDMuNzE3IDYuMDEgNy4xMyA3LjEwMi4yNDQuMTIxLjQ4OCAwIC41NDgtLjI0My4wNjEtLjA2LjA2MS0uMTIyLjA2MS0uMjQzdi0uODVjMC0uMTgyLS4xODItLjQyNC0uMzY1LS41NDZ6bTYuNDYtMTguOTM2Yy0uMjQ0LS4xMjItLjQ4OCAwLS41NDguMjQyLS4wNjEuMDYxLS4wNjEuMTIyLS4wNjEuMjQzdi44NWMwIC4yNDMuMTgyLjQ4NS4zNjUuNjA3IDQuNzU0IDEuNyA3LjE5MiA2Ljk4IDUuNDI0IDExLjY1My0uOTE0IDIuNTUtMi45MjUgNC40OTEtNS40MjQgNS40MDItLjI0NC4xMjEtLjM2NS4zMDMtLjM2NS42MDd2Ljg1YzAgLjI0Mi4xMjEuNDI0LjM2NS40ODUuMDYxIDAgLjE4MyAwIC4yNDQtLjA2YTEwLjg5NSAxMC44OTUgMCAwMDcuMTMtMTMuNzE3Yy0xLjA5Ni0zLjQ2LTMuNzc4LTYuMDctNy4xMy03LjE2MnoiLz4gPC9nPiA8L2c+IDwvZz4KDTwvc3ZnPg==) USDC - USD Coin](https://silverbullion.com.sg/Widgets/SetPreferredCurrency/USDC)
     *  [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAwIiBoZWlnaHQ9IjE3NTAiIHZpZXdCb3g9IjAgMCAyMDAwIDE3NTAiPjxwYXRoIGZpbGw9IiM1M2FlOTQiIGQ9Ik0xNjMyLjMgMCAzNjcuNyAwIDAgNzg1Ljk4IDEwMDAgMTc1MCAyMDAwIDc4NS45OCAxNjMyLjMgMHoiLz48cGF0aCBkPSJNMTEzOC44OCw2MjYuMTJWNDczLjU4SDE0ODcuN1YyNDEuMTdINTM3Ljg3VjQ3My41OEg4ODYuNzJWNjI2QzYwMy4yLDYzOSwzOTAsNjk1LjE3LDM5MCw3NjIuNDNTNjAzLjMsODg1Ljg1LDg4Ni43Miw4OTl2NDg4LjU5SDExMzlWODk4LjkxYzI4My0xMy4wNiw0OTUuNzUtNjkuMTcsNDk1Ljc1LTEzNi4zOFMxNDIyLDYzOS4yMiwxMTM5LDYyNi4xNm0wLDIzMS4zN3YtLjEzYy03LjExLjQ1LTQzLjY4LDIuNjUtMTI1LjA5LDIuNjUtNjUuMDksMC0xMTAuODktMS44NS0xMjctMi42OXYuMjFDNjM2LjM2LDg0Ni40Nyw0NDkuNCw4MDIuODUsNDQ5LjQsNzUwLjY2czE4Ny05NS43NSw0MzcuNDQtMTA2Ljg2VjgxNC4xMWMxNi40MSwxLjEzLDYzLjMzLDMuOSwxMjguMDksMy45LDc3Ljc5LDAsMTE2LjktMy4yNCwxMjQuMDctMy45VjY0My44YzI1MCwxMS4xMyw0MzYuNTMsNTQuNzksNDM2LjUzLDEwNi44UzEzODguOTEsODQ2LjI5LDExMzksODU3LjQyIiBmaWxsPSIjZmZmIi8+PC9zdmc+) USDT - Tether USD](https://silverbullion.com.sg/Widgets/SetPreferredCurrency/USDT)
     
-* [**Silver** 40.40 SGD **Gold** 3,558.19 SGD **Platinum** 1,271.85 SGD **USD/SGD:** 1.3442 Prices & charts](https://silverbullion.com.sg/Chart/Prices)
+* [**Silver** 40.64 SGD **Gold** 3,545.05 SGD **Platinum** 1,265.55 SGD **USD/SGD:** 1.3428 Prices & charts](https://silverbullion.com.sg/Chart/Prices)
 * [Retail Shop](https://silverbullion.com.sg/Retail)
 * [SBTV](https://silverbullion.com.sg/SBTV)
 * [**Silver Bullion Singapore**](#)
@@ -253,102 +253,109 @@
     * [Visit Us](https://silverbullion.com.sg/Info/VisitUs)
     * [Contact Us](https://silverbullion.com.sg/ContactUs)
 
-Privacy Policy
+PRIVACY POLICY
 ==============
 
-In this Privacy Policy “we”, “us”, “our” or “Silver Bullion” means Silver Bullion Pte Ltd, and “you”, “your” or “yours” means the persons to whom this policy applies.
+In this Privacy Policy, "we," "us," "our," or "Silver Bullion" refers to Silver Bullion Pte Ltd, and "you," "your," or "yours" refers to individuals subject to this policy.
 
-The security of your personal data is important to us. Silver Bullion has put in place safeguards to protect the personal data stored with us. This policy describes how we may collect, use, disclose, process and manage your personal data.
+We are committed to safeguarding your personal data and have implemented robust security measures to protect it. This policy explains how we collect, use, disclose, process, and manage your personal data in compliance with the Personal Data Protection Act (PDPA) of Singapore.
 
-This policy applies to any individual’s personal data which is in our possession or under our control.
+This Privacy Policy applies to all personal data within our possession or control, including information collected through interactions with our websites, services, and physical premises.
 
-What Personal Data Do We Collect
---------------------------------
-
-“Personal data” is data that can be used to identify a natural person. Some examples of personal data that we may collect are:
-
-1. Personal Particulars: name, residential address, date of birth, nationality;
-2. Identity Verification Information: images of government issued ID, passport, national ID or driving license;
-3. Contact Information: mobile number, phone number, email address;
-4. Employment Details: directorships of a company account and trusteeship of a trust account;
-5. Financial Information: bank and bank account numbers; and/or
-6. personal opinions made known to us (e.g. feedback or responses to surveys).
-
-Usage of Your Personal Data
+COLLECTION OF PERSONAL DATA
 ---------------------------
 
-We may use your personal data for our core business purposes, such as:
+"Personal data" refers to information that identifies an individual. We may collect personal data required to provide our products and services, and to comply with 'Know-Your-Customer' (KYC) regulations essential for providing these products and services. The types of personal data we may collect include, but are not limited to:
 
-1. developing and providing our products or services (whether made available by us or through us), including but not limited to:
-    1. accepting and buy and sell orders;
-    2. accepting and borrowing requests and lending offers;
-    3. accepting and executing related transactions or request;
-    4. carrying out research, planning and statistical analysis; or
-    5. analytics for the purposes of developing or improving our products, services, security, service quality, and advertising strategies;
-2. assessing and processing applications, instructions or requests from you or our customers;
-3. communicating with you, including providing you with updates on changes to products, services (whether made available by us or through us) including any additions, expansions, suspensions and replacements of or to such products, services and their terms and conditions;
-4. managing our infrastructure and business operations and complying with internal policies and procedures;
-5. responding to queries or feedback;
-6. addressing or investigating any complaints, claims or disputes;
-7. verifying your identity for the purposes of providing our products or services;
-8. screenings or due diligence checks as may be required under applicable law, regulation or directive;
-9. complying with all applicable laws and regulations;
-10. monitoring products and services provided by or made available through us;
-11. financial reporting, audit and record keeping purposes;
-12. enforcing obligations owed to us; and/or
-13. seeking professional advice, including legal advice.
+1. Personal Particulars: Name, residential address, date of birth, nationality.
+2. Identity Verification Information: Images of government-issued identification, such as a passport, NRIC, or driver’s license.
+3. Contact Information: Mobile number, phone number, email address.
+4. Employment Details: Positions held in companies, including directorships and trusteeships.
+5. Financial Information: Bank names and account numbers.
+6. Personal Feedback: Opinions or responses provided in surveys or feedback forms.
+7. Appointment Booking Information: When customers book appointments to visit the Silver Bullion office at The Reserve building, we collect first and last names and email addresses. This appointment information is forwarded to the building security team for security purposes and to facilitate entry into the building by appointment.
 
-We may also use personal data for purposes set out in the terms and conditions that govern our relationship with you or our customer.
+USE OF PERSONAL DATA
+--------------------
 
-Use of Personal Data for Marketing Purposes
--------------------------------------------
+We may use your personal data for a variety of purposes necessary for our core business operations and to enhance your experience with our products and services. These purposes include, but are not limited to:
 
-If you are subscribed to our newsletter, we may use your personal data to offer you products or services, including special offers and promotions that may be of interest to you or for which you may be eligible. Such marketing messages will be sent to you by email and in doing so, we will comply with the Singapore Personal Data Protection Act 2012 (PDPA) and other applicable data protection and privacy laws, such as the European Union General Data Protection Regulation (GDPR).
+1. To develop, provide, and manage our products and services, including:
+    * Processing buy and sell orders,
+    * Handling borrowing requests and lending offers,
+    * Executing related transactions,
+    * Verifying your identity when collecting orders or during bullion withdrawals,
+    * Conducting research, planning, and statistical analysis, and
+    * Performing analytics to improve our products, services, security, service quality, and marketing strategies.
+2. To assess and process applications, instructions, or requests from you.
+3. To communicate with you about changes to our products and services, including any additions, modifications, or updates to terms and conditions.
+4. To manage our business operations and infrastructure, ensuring compliance with internal policies and procedures.
+5. To respond to queries, feedback, complaints, and requests.
+6. To verify your identity as required for providing products or services, including screenings or due diligence checks mandated by applicable laws or regulations.
+7. Processing insurance loss claims and issuing loss payee certificates where applicable, which may require disclosing personal data to our insurers or their agents.
+8. To comply with legal and regulatory requirements applicable to us.
+9. To monitor and review products and services provided by or made available through us, ensuring they meet high standards of quality and security.
+10. For financial reporting, audits, and maintaining accurate records.
+11. To enforce obligations owed to us and seek professional advice, including legal advice, as needed.
+12. Utilizing appointment booking information to facilitate entry to the Silver Bullion office at The Reserve building, ensuring security and efficiency in managing visitor access.
 
-You may at any time request that we stop contacting you for marketing purposes by unsubscribing to our newsletter or by contacting us about your request.
+We may also use your personal data for purposes outlined in the terms and conditions governing our relationship with you or as required by applicable laws and regulations.
 
-Disclosure and Sharing of Personal Data
----------------------------------------
+MARKETING COMMUNICATIONS
+------------------------
 
-We may from time to time and in compliance with all applicable laws on data privacy, disclose your personal data when requested through a court order from a relevant Singapore court. Please be assured that when we disclose your personal data to such parties, we require them to ensure that any personal data disclosed to them are kept confidential and secure.
+If you have subscribed to our newsletter, we may use your personal data to send you updates, offers, and promotions related to products and services from Silver Bullion or its affiliates. These communications will be sent in compliance with the Singapore Personal Data Protection Act (PDPA) and other applicable data protection laws, such as the European Union General Data Protection Regulation (GDPR).
 
-We wish to emphasize that Silver Bullion does not sell personal data to any third parties and we shall remain fully compliant of any duty or obligation of confidentiality imposed on us under the applicable agreement(s) and/or terms and conditions that govern our relationship with you or our customer or any applicable law.
+You may opt out of receiving marketing communications at any time by unsubscribing from our newsletter or contacting us directly.
 
-Cookies and Related Technologies
+DISCLOSURE OF PERSONAL DATA
+---------------------------
+
+We may disclose your personal data in compliance with all applicable laws on data privacy, in response to legal orders from Singapore courts, requests from Singapore regulatory authorities, or to our insurers or their agents solely for the purpose of processing claims related to the loss of goods or issuing loss payee certificates. When we disclose personal data to such parties, we ensure that confidentiality and security are maintained.
+
+**Silver Bullion does not sell personal data to third parties**. We are fully compliant with all confidentiality obligations as required by applicable agreements, governing terms and conditions, and relevant laws.
+
+COOKIES AND RELATED TECHNOLOGIES
 --------------------------------
 
-Our website use cookies. A cookie is a small text file placed on your computer or mobile device when you visit a website. Cookies collect information about users and their visit to the website, such as their Internet protocol (IP) address, how they arrived at the website (for example, through a search engine or a link from another website) and how they navigate within the website. We use cookies and other technologies to facilitate your internet sessions, offer you products and/or services according to your preferred settings (e.g., your preferred currency), track use of our website and to compile statistics about activities carried out on our website.
+Our website uses cookies, which are small text files placed on your computer or mobile device when you visit a website. Cookies collect information about users and their interactions with the website, such as their Internet Protocol (IP) address, how they arrived at the site (e.g., via a search engine or a link from another site), and how they navigate within the site. We use cookies and similar technologies to facilitate your internet sessions, provide products and services according to your preferences (e.g., preferred currency), track website usage, and compile statistics on site activities.
 
-You may set up your web browser to block cookies which will in turn disable the website from monitoring your website visit. You may also remove cookies stored from your computer or mobile device. However, if you do block cookies on your browser, you may not be able to use certain features and functions of our web sites.
+You may configure your web browser to block cookies, which will prevent the website from tracking your visit. You can also delete cookies stored on your computer or mobile device. However, blocking cookies may disable certain features and functions of our website.
 
-Other Web Sites
----------------
-
-Our website may contain links to other websites which are not maintained by Silver Bullion. This privacy policy only applies to the websites of Silver Bullion. When visiting these third-party website(s), you should read their privacy policies which will apply to your use of the website(s).
-
-Retention of Personal Data
+LINKS TO EXTERNAL WEBSITES
 --------------------------
 
-Your personal data is retained as long as the purpose for which it was collected remains and until it is no longer necessary for any other legal or business purposes.
+Our website may contain links to external sites that are not operated or maintained by Silver Bullion.
 
-Access and Correction
----------------------
+Once you leave our website, the privacy policies of these third-party sites will govern any data you provide or that is collected during your visit. We are not responsible for privacy practices, security measures, or content on these sites.
 
-You may request access or make corrections to your personal data held by Silver Bullion.
+We encourage you to review the privacy policies of any external websites you visit to understand their data collection, usage, and protection practices.
 
-The GDPR also provides relevant individuals with additional rights including the right to obtain information on how Silver Bullion processes your personal data, receive certain information provided in an electronic format and/or request that these be transmitted to a third party, request for your information to be erased, object or restrict the use or processing of your information in some circumstances. These will be subject to ongoing obligations imposed on us pursuant to any applicable law or regulation.
+RETENTION OF PERSONAL DATA
+--------------------------
 
-Please contact us for the details on how you may request access, correct, or exercise your rights with respect to the processing of your personal data.
+We retain your personal data only as long as necessary to fulfill the purposes for which it was collected, such as providing our products and services or meeting legal, regulatory, and business requirements.
 
-How to Contact Us
+Once your personal data is no longer needed for these purposes or when it no longer meets retention requirements under applicable laws or regulations, we will securely delete it. Our retention policies ensure that we store personal data only as long as it is relevant to our operations, with periodic reviews to maintain compliance.
+
+ACCESS, CORRECTION, AND DATA RIGHTS
+-----------------------------------
+
+You have the right to request access to, correction of, or information on how we process your personal data.
+
+For individuals under the GDPR, additional rights include requesting data in electronic format, transmitting data to third parties, objecting to or restricting data processing, and requesting data erasure in specific circumstances. These rights are subject to applicable legal obligations.
+
+HOW TO CONTACT US
 -----------------
 
-To contact us on any aspect of this policy or your personal data or to provide any feedback that you may have, please visit our retails office or get in touch with our customer service officer at [\[email protected\]](https://silverbullion.com.sg/cdn-cgi/l/email-protection).
+For inquiries regarding this Privacy Policy or to exercise your data protection rights, please contact our Data Protection Officer (DPO) at [\[email protected\]](https://silverbullion.com.sg/cdn-cgi/l/email-protection).
 
-Amendments and Updates of Silver Bullion Privacy Policy
--------------------------------------------------------
+AMENDMENTS TO THIS POLICY
+-------------------------
 
-We may amend this policy from time to time to ensure that this policy is consistent with any changes to the laws and regulations applicable to Silver Bullion. We will make available the updated policy on our web site ([https://silverbullion.com.sg/privacy](https://silverbullion.com.sg/privacy)). All communications, transactions and dealings with us shall be subject to the latest version of this policy in force at the time.
+We may update this Privacy Policy periodically to reflect changes in legal or regulatory requirements.
+
+The latest version will be available on our website ([https://www.silverbullion.com.sg/privacy](https://www.silverbullion.com.sg/privacy)). All interactions will be governed by the policy in force at the time.
 
 #### SILVER BULLION PTE LTD
 
@@ -443,4 +450,4 @@ S.T.A.R. Bullion Storage and Silver Bullion logos and names are registered trade
 
 ×Close
 
-[](https://silverbullion.com.sg/Account/DormantPopup?rand=0.769076782171185)
+[](https://silverbullion.com.sg/Account/DormantPopup?rand=0.450166588858779)
