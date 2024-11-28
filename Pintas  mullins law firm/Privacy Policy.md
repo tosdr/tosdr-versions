@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What are some signs that death is near?](https://www.pintas.com/wp-content/uploads/2020/11/what-are-some-signs-that-death-is-near.jpg "What Are Some Signs that Death Is Near?")](https://www.pintas.com/lung-cancer/what-are-some-signs-that-death-is-near/ "What Are Some Signs that Death Is Near?")
+[![Can someone be arrested for emotional abuse?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-can-someone-be-arrested-for-emotional-abuse.jpg "Can Someone Be Arrested for Emotional Abuse?")](https://www.pintas.com/faq/can-someone-be-arrested-for-emotional-abuse/ "Can Someone Be Arrested for Emotional Abuse?")
 
-[#### What Are Some Signs that Death Is Near?](https://www.pintas.com/lung-cancer/what-are-some-signs-that-death-is-near/)
+[#### Can Someone Be Arrested for Emotional Abuse?](https://www.pintas.com/faq/can-someone-be-arrested-for-emotional-abuse/)
 
-[![Can copd be caused by asbestos?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-can-copd-be-caused-by-asbestos.jpg "Can COPD Be Caused By Asbestos?")](https://www.pintas.com/practice-areas/lung-cancer/can-copd-be-caused-by-asbestos/ "Can COPD Be Caused By Asbestos?")
+[![What evidence do you need to sue a nursing home?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-evidence-do-you-need-to-sue-a-nursing-home-scaled.jpg "What Evidence Do You Need to Sue a Nursing Home?")](https://www.pintas.com/faq/what-evidence-do-you-need-to-sue-a-nursing-home/ "What Evidence Do You Need to Sue a Nursing Home?")
 
-[#### Can COPD Be Caused By Asbestos?](https://www.pintas.com/practice-areas/lung-cancer/can-copd-be-caused-by-asbestos/)
+[#### What Evidence Do You Need to Sue a Nursing Home?](https://www.pintas.com/faq/what-evidence-do-you-need-to-sue-a-nursing-home/)
 
-[![What are the misconceptions about a nursing home?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-are-the-misconceptions-about-a-nursing-home-scaled.jpg "What Are the Misconceptions About a Nursing Home?")](https://www.pintas.com/faq/what-are-the-misconceptions-about-a-nursing-home/ "What Are the Misconceptions About a Nursing Home?")
+[![How long does it take to settle a nursing home lawsuit?](https://www.pintas.com/wp-content/uploads/2021/04/a-neglected-senior-in-a-wheelchair-300x200.jpg "How Long Does it Take to Settle a Nursing Home Lawsuit?")](https://www.pintas.com/practice-areas/personal-injury/nursing-home-abuse-lawyer/nursing-home-settlement-timeline/ "How Long Does it Take to Settle a Nursing Home Lawsuit?")
 
-[#### What Are the Misconceptions About a Nursing Home?](https://www.pintas.com/faq/what-are-the-misconceptions-about-a-nursing-home/)
+[#### How Long Does it Take to Settle a Nursing Home Lawsuit?](https://www.pintas.com/practice-areas/personal-injury/nursing-home-abuse-lawyer/nursing-home-settlement-timeline/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
