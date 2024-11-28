@@ -139,7 +139,7 @@ Education
 * [Primary](https://www.trilbytv.co.uk/primary)
 * [Secondary](https://www.trilbytv.co.uk/secondary)
 * [Independent](https://www.trilbytv.co.uk/independent)
-* [FE/HE](https://www.trilbytv.co.uk/fehe)
+* [FE/HE](https://www.trilbytv.co.uk/fe-he)
 * [SEN](https://www.trilbytv.co.uk/sen)
 
 Support
