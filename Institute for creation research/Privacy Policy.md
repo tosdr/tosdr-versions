@@ -95,66 +95,6 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Days of Praise
-
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/gift-labor)
-
-[The Gift of Labor](https://www.icr.org/article/gift-labor/)
-
-“And the LORD God took the man, and put him into the garden of Eden to dress it and to keep it.” (Genesis 2:15) When God first...
-
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
-
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/sound-doctrine)
-
-[Sound Doctrine](https://www.icr.org/article/sound-doctrine/)
-
-“Hold fast the form of sound words, which thou hast heard of me, in faith and love which is in Christ Jesus.” (2 Timothy 1:13) When...
-
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
-
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/speaking-parables)
-
-[Speaking in Parables](https://www.icr.org/article/speaking-parables/)
-
-“And he spake many things unto them in parables, saying, Behold, a sower went forth to sow.” (Matthew 13:3) The Lord Jesus Christ...
-
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
-
-Shop Related Products
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10474571/file.jpg)
-
-The Bible Has the Answer](https://store.icr.org/dr-henry-morris-the-bible-has-the-answer.html)
-
-$16.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10473917/file.jpg)
-
-Creation and the Second Coming](https://store.icr.org/dr-henry-morris-creation-and-the-second-coming.html)
-
-$10.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/16945324/file.jpg)
-
-The Long War Against God](https://store.icr.org/dr-henry-morris-the-long-war-against-god.html)
-
-$16.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10475689/file.jpg)
-
-The Remarkable Wisdom of Solomon](https://store.icr.org/dr-henry-morris-the-remarkable-wisdom-of-solomon.html)
-
-$13.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/32688/file.jpg)
-
-The Henry Morris Study Bible - Case](https://store.icr.org/dr-henry-morris-the-henry-morris-study-bible-case.html)
-
-$34.99
-
-$39.99
-
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
