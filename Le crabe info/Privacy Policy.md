@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 156 utilisateurs actifs
+##### 626 utilisateurs actifs
 
 Chargement en cours
 
@@ -131,9 +131,9 @@ Chargement en cours
 
 ### À la une
 
+* [Windows 11 : les applications Courrier et Calendrier cesseront de fonctionner après le 31 décembre 2024](https://lecrabeinfo.net/windows-11-les-applications-courrier-et-calendrier-cesseront-de-fonctionner-apres-le-31-decembre-2024.html) 
 * [Microsoft corrige le bug avec Voicemeeter, vous pouvez enfin passer à Windows 11 24H2 !](https://lecrabeinfo.net/microsoft-corrige-le-bug-avec-voicemeeter-vous-pouvez-enfin-passer-a-windows-11-24h2.html)
 * ["Ne tuez pas Android (WSA) !" : le feedback qui monte sur Windows 11, mais Microsoft en tiendra-t-il compte ?](https://lecrabeinfo.net/ne-tuez-pas-android-wsa-le-feedback-qui-monte-sur-windows-11-mais-microsoft-en-tiendra-t-il-compte.html)
-* [Microsoft lance le Windows 365 Link : un mini-PC connecté au cloud](https://lecrabeinfo.net/microsoft-lance-le-windows-365-link-un-mini-pc-connecte-au-cloud.html)
 
 ### Tendance
 
