@@ -2,7 +2,7 @@
 
 [New Zealand Parliament Pāremata Aotearoa](https://www.parliament.nz/en/)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/make-a-submission/document/54SCJUST_SCF_227E6D0B-E632-42EB-CFFE-08DCFEB826C6/principles-of-the-treaty-of-waitangi-bill%20/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/scl/environment/)
 
 Search
 
@@ -12,7 +12,7 @@ Search
 
  Search
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/make-a-submission/document/54SCJUST_SCF_227E6D0B-E632-42EB-CFFE-08DCFEB826C6/principles-of-the-treaty-of-waitangi-bill%20/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/scl/environment/)
 
 * [Home](https://www.parliament.nz/en/ "Home")
 * [Parliamentary Business](https://www.parliament.nz/en/pb/)
