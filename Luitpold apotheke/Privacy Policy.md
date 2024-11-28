@@ -349,25 +349,25 @@ Mo-Fr 8:00 - 17:00
 
 Klick des Tages
 
-[NUROFEN 200mg Ibuprofen Schmelztabletten Lemon bei Kopfschmerzen 200mg 24St](https://www.medikamente-per-klick.de/product?artnr=11550548&simpleContentAttachmentId=14183&wochenklick)**  
+[MINOXIDIL DoppelherzPharma Männer 50 mg/g Schaum 3x60g](https://www.medikamente-per-klick.de/product?artnr=18754768&simpleContentAttachmentId=14183&wochenklick)**  
 Sonderangebot**  
-[![Sonderangebot](/images/products/medikamenteperklick/mittel/11550548_m.jpg "Sonderangebot")](https://www.medikamente-per-klick.de/product?artnr=11550548&simpleContentAttachmentId=14183&wochenklick)
+[![Sonderangebot](/images/products/medikamenteperklick/mittel/18754768_m.jpg "Sonderangebot")](https://www.medikamente-per-klick.de/product?artnr=18754768&simpleContentAttachmentId=14183&wochenklick)
 
-VK1:
+UVP2:
 
-19,71 €\*
+62,95 €\*
 
 Ihr Preis:
 
-11,98 €\*
+42,13 €\*
 
 Sie sparen:
 
-7,73 € \-39%
+20,82 € \-33%
 
-2024-11-27 12:00:00
+2024-12-04 10:00:00
 
-[Jetzt sichern](https://www.medikamente-per-klick.de/quickAddProductsToCart?pzn=11550548&quantity=1&simpleContentAttachmentId=14183&Wochenklick)
+[Jetzt sichern](https://www.medikamente-per-klick.de/quickAddProductsToCart?pzn=18754768&quantity=1&simpleContentAttachmentId=14183&Wochenklick)
 
 layoutStyle2
 
@@ -665,4 +665,4 @@ Haben Sie bitte auch dafür Verständnis, dass wir aus Datenschutzgründen Ausk�
 
 ![](https://www.facebook.com/tr?id=338982736604254&ev=PageView&noscript=1)
 
-![](https://c.paypal.com/v1/r/d/b/ns?f=omrlnblzwjpukbpvpforohflfpyadjuu&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
+![](https://c.paypal.com/v1/r/d/b/ns?f=yppaiuqmopmzpbqghuznqrmqhylcgvzh&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
