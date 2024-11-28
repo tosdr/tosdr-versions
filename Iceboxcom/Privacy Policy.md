@@ -262,7 +262,7 @@ Cart Is EmptyAdd more diamonds to your life! [Start Shopping](https://www.icebox
 
 Phone Number
 
-Send OTP Sign in with email
+Login Sign in with email
 
 **Don't have an Icebox account?** Create Account
 
@@ -300,7 +300,7 @@ Create Account
 
 Back To Login
 
-#### Enter Verification Code We've sent the code to . Enter it below.
+#### Enter Code Sent by SMS We've sent the code to . Enter it below.
 
  
 
