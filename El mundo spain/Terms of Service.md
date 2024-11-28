@@ -1,9 +1,9 @@
-![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Favisolegal%2Ehtml&s=elmundo&d=Z0fI9goAAVEAAABcDKc)
+![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Favisolegal%2Ehtml&s=elmundo&d=Z0gdBQoAAVEAAABc8-4)
 
 Es noticia
 
 * [Lotería Navidad 2024](https://www.elmundo.es/loterias/loteria-navidad/comprobar-loteria.html)
-* [Guerra Rusia Ucrania](https://www.elmundo.es/internacional/2024/11/27/6746b7b11ee97cbdb6b92931-directo.html)
+* [Guerra Rusia Ucrania](https://www.elmundo.es/internacional/2024/11/28/67480bd8a75cca8941e42e27-directo.html)
 * [Lobato](https://www.elmundo.es/madrid/2024/11/27/67471dd2fdddff85348b45ac.html)
 * [Begoña Gómez](https://www.elmundo.es/espana/2024/11/27/67474d55e85ececb458b45a6.html)
 * [García Ortiz](https://www.elmundo.es/espana/2024/11/27/67470a5be9cf4a676c8b4571.html)
@@ -14,7 +14,7 @@ Es noticia
 * [Mazón ayudas DANA](https://www.elmundo.es/comunidad-valenciana/2024/11/27/67471697e9cf4aef478b458d.html)
 * [Familia Lobato](https://www.elmundo.es/loc/famosos/2024/11/27/674721c6e4d4d862678b458e.html)
 * [Asesinato profesor](https://www.elmundo.es/internacional/2024/11/27/67475f1f21efa0fe138b458b.html)
-* [Trump](https://www.elmundo.es/internacional/2024/11/27/67476b22fdddfffb248b45ae.html)
+* [Black Friday Zara](https://www.elmundo.es/yodona/moda/2024/11/28/6747358ee4d4d8603d8b45a1.html)
 * [Mercado Plaza Mayor](https://www.elmundo.es/como/2024/11/27/6746ecb521efa045188b4570.html)
 * [Luces Madrid](https://www.elmundo.es/como/2024/10/23/6718de44fc6c837f238b4584.html)
 * [Hyundai](https://www.elmundo.es/motor/2024/11/27/67475e7bfdddff04038b45b1.html)
@@ -28,7 +28,6 @@ Es noticia
 * [Traductor](https://www.elmundo.es/traductor/)
 * [Programación TV](https://www.elmundo.es/television/programacion-tv/)
 * [Últimas noticias](https://www.elmundo.es/ultimas-noticias.html)
-* [Kalel Langford](https://www.elmundo.es/como/2024/11/27/6746d9bf21efa0477e8b456e.html)
 
 [Portada](https://www.elmundo.es/) [Portada](https://www.elmundo.es/?intcmp=MENUMIGA01&s_kw=portada) [Portada](https://www.elmundo.es/)
 
