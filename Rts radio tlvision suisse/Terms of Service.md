@@ -161,7 +161,7 @@ MENU
 * [Accueil](https://www.rts.ch/entreprise/)
 * [ ]  Qui nous sommes
     
-    [L'entreprise](https://www.rts.ch/entreprise/a-propos/)
+    [Entreprise](https://www.rts.ch/entreprise/a-propos/)
     
     [Notre offre](https://www.rts.ch/entreprise/l-offre-rts/)
     
@@ -173,7 +173,7 @@ MENU
     
      Qui nous sommes
     
-    [L'entreprise](https://www.rts.ch/entreprise/a-propos/)
+    [Entreprise](https://www.rts.ch/entreprise/a-propos/)
     
     [Notre offre](https://www.rts.ch/entreprise/l-offre-rts/)
     
