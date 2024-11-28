@@ -43,10 +43,7 @@ Search  Search
 * CURRENCY selected='selected'USD ($)EUR (€)GBP (£)
     
 
-* [My Account](https://my.yoast.com/)
-    * [MyYoast](https://my.yoast.com/)
-    * [My academy courses](https://academy.yoast.com/courses/)
-    * [Logout](https://yoast.com/wp/wp-login.php?action=logout&_wpnonce=83311f7d6a)
+* [Login](https://my.yoast.com/)
 * [Cart](https://yoast.com/checkout/)
 * Search
 * Navigation menu
