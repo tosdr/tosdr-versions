@@ -164,7 +164,7 @@ Select Policy
 
 [Anti-Modern Slavery Statement](https://www.algolia.com/policies/anti-modern-slavery-statement)
 
-### 1\. INTRODUCTION.
+### I. INTRODUCTION.
 
 The acceptable use policy described in Section II (the "AUP") specifies guidelines for users of Algolia’s services. By using Algolia’s services, accessing our website located at [www.algolia.com](https://www.algolia.com/), including Algolia Community (the “Website”), you agree to the latest version of the AUP and Algolia’s response in accordance with Section III and IV below. Algolia may modify the AUP at any time by posting a revised version on the Website and providing notice on the Website that the AUP has been updated.
 
@@ -172,7 +172,7 @@ Anyone may report a violation of the AUP by following the instructions in Sectio
 
 If you violate the AUP or authorize or help others to do so, we may suspend or terminate your use of the Algolia services or the Website.
 
-### 2\. ACCEPTABLE USE POLICY.
+### II. ACCEPTABLE USE POLICY.
 
 Algolia’s services shall not be used by any person or entity:
 
@@ -195,7 +195,7 @@ Algolia’s services shall not be used by any person or entity:
 9. in any way that restricts or inhibits anyone's use or enjoyment of Algolia’s services or which, as determined by Algolia, may harm Algolia or users of Algolia’s services or expose them to liability.
     
 
-### 3\. REPORTING A VIOLATION OF THE AUP
+### III. REPORTING A VIOLATION OF THE AUP
 
 As a search as a service provider that hosts subscribers’ content, storage and removal of hosted content by Algolia’s services occurs automatically based on the actions of our subscribers.
 
@@ -221,7 +221,7 @@ Mailing address for notices at 3790 El Camino Real, Unit #518, Palo Alto, CA 943
 
 Algolia will promptly forward this report to the applicable subscriber. Algolia reserves the right to investigate any violation of the AUP or misuse of the Algolia services or Website. Algolia may suspend or terminate a subscriber’s account or remove or disable access to any content that violates the AUP or any other agreement with a subscriber for use of the Algolia services or the Website.
 
-### 4\. DIGITAL MILLENNIUM COPYRIGHT ACT (“DMCA”)
+### IV. DIGITAL MILLENNIUM COPYRIGHT ACT (“DMCA”)
 
 Algolia complies with laws applicable to it and its services.
 
