@@ -1,8 +1,8 @@
 Go directly to:
 
-* [Go directly to: Main navigation](https://www.rabobank.com/privacy#main_navigation)
-* [Go directly to: Content](https://www.rabobank.com/privacy#content)
-* [Go directly to: Footer](https://www.rabobank.com/privacy#footer)
+* [Go directly to: Main navigation](https://www.rabobank.com/privacy?utm_medium=email&utm_term=N/A&utm_source=dynamics-rr&utm_campaign=SN:%2020241128-Podcast:%20Private%20lab%203388e7#main_navigation)
+* [Go directly to: Content](https://www.rabobank.com/privacy?utm_medium=email&utm_term=N/A&utm_source=dynamics-rr&utm_campaign=SN:%2020241128-Podcast:%20Private%20lab%203388e7#content)
+* [Go directly to: Footer](https://www.rabobank.com/privacy?utm_medium=email&utm_term=N/A&utm_source=dynamics-rr&utm_campaign=SN:%2020241128-Podcast:%20Private%20lab%203388e7#footer)
 
 [![Rabo logo](https://media.rabobank.com/m/5c0d2c496819b02f/original/Rabobank-text-logo.png)](https://www.rabobank.com/ "to homepage")
 
