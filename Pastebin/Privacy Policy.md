@@ -168,35 +168,35 @@ Questions regarding Pastebin's Privacy Statement or information practices should
 
 [Public Pastes](https://pastebin.com/archive)
 
-* [⭐ giftcards for free](https://pastebin.com/CZJKpZYF)
+* [⭐️ EARN $500 INSTANTLY⭐ DB](https://pastebin.com/w77GPNrN)
     
-    JavaScript | 4 sec ago | 0.05 KB
+    JavaScript | 7 sec ago | 0.18 KB
     
-* [⭐️ EARN $500 INSTANTLY⭐ DB](https://pastebin.com/9hvDDTpf)
+* [⭐ FREE giftcards method⭐ GT](https://pastebin.com/LhKEABeY)
     
-    JavaScript | 6 sec ago | 0.18 KB
+    JavaScript | 7 sec ago | 0.18 KB
     
-* [⭐ Binance Account hack 9Y](https://pastebin.com/ds5sDaFU)
+* [⭐ Binance Account hack FO](https://pastebin.com/KMXqB9iT)
+    
+    JavaScript | 7 sec ago | 0.18 KB
+    
+* [⭐ Binance Account hack 9Y](https://pastebin.com/NhuBKdaV)
     
     JavaScript | 8 sec ago | 0.18 KB
     
-* [⭐ Binance Account hack FO](https://pastebin.com/aFr1XkqZ)
+* [⭐ get any gift card for FREE](https://pastebin.com/AqueRMKg)
     
-    JavaScript | 12 sec ago | 0.18 KB
+    JavaScript | 10 sec ago | 0.05 KB
     
-* [⭐ get any gift card for FREE⭐ JQ](https://pastebin.com/b85Jp3tR)
-    
-    JavaScript | 14 sec ago | 0.18 KB
-    
-* [⭐ get any gift card for FREE](https://pastebin.com/QTjqX5jb)
-    
-    JavaScript | 16 sec ago | 0.05 KB
-    
-* [⭐ FREE giftcards method 59](https://pastebin.com/UUUsLbsT)
+* [⭐ FREE giftcards method 59](https://pastebin.com/J639kaNK)
     
     JavaScript | 17 sec ago | 0.18 KB
     
-* [⭐ get any gift card for FREE⭐ A7](https://pastebin.com/v2PR3fY3)
+* [⭐ FREE giftcards method](https://pastebin.com/vA2Qvsjy)
+    
+    JavaScript | 18 sec ago | 0.05 KB
+    
+* [⭐ get any gift card for NE](https://pastebin.com/f3FnmCLm)
     
     JavaScript | 18 sec ago | 0.18 KB
     
