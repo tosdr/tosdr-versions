@@ -255,6 +255,13 @@ If you have any questions about these Terms or otherwise need to contact The Arc
 
 [Take Action >](https://disabilityadvocacynetwork.org/?0)
 
+* [Join The Arc >](https://thearc.org/get-involved/join-arc/)
+    
+    [Donate >](https://thearc.org/memorial_tribute_gifts/)
+    
+    [Take Action >](https://thearc.org/action)
+    
+
 ### About Us
 
 * [About Us](https://thearc.org/about-us/)
