@@ -244,25 +244,25 @@ New York, NY 10001
 Top of Today
 ------------
 
-1. [![Maryland Highway 210 with images of Loretta Canter and Sandra Orellana](https://am23.mediaite.com/lc/cnt/uploads/2024/11/highway-of-death-moms-432x243.jpg)](https://lawandcrime.com/crime/multiple-hit-and-runs-on-highway-of-death-claim-2-mothers-lives-within-24-hours/)
+1. [![Tricia LaCount (U.S. Attorney's Office).](https://am24.mediaite.com/lc/cnt/uploads/2024/11/lacount-432x243.jpg)](https://lawandcrime.com/high-profile/jan-6-rioter-who-called-nancy-pelosis-office-so-gaudy-while-wearing-trump-flag-after-breaching-the-capitol-is-sentenced/)
     
-    ### [Multiple hit-and-runs on 'highway of death' claim 2 mothers' lives within 24 hours](https://lawandcrime.com/crime/multiple-hit-and-runs-on-highway-of-death-claim-2-mothers-lives-within-24-hours/)
+    ### [Jan. 6 rioter who called Nancy Pelosi’s office ‘so gaudy’ while wearing Trump flag after breaching the Capitol is sentenced](https://lawandcrime.com/high-profile/jan-6-rioter-who-called-nancy-pelosis-office-so-gaudy-while-wearing-trump-flag-after-breaching-the-capitol-is-sentenced/)
     
-2. [![Inset: Shamika Mitchell (Volusia County Division of Corrections). Background: Daytona Beach, Florida, where Shamika Mitchell abandoned her 1-year-old son (WRAL/YouTube).](https://am21.mediaite.com/lc/cnt/uploads/2024/11/Shamika-Mitchell-432x243.jpg)](https://lawandcrime.com/crime/my-mom-is-possessed-by-demons-mother-abandons-toddler-on-daytona-beach-teen-brother-calls-cops-on-her/)
+2. [![Letitia James appears inset in an image; Donald Trump points to the left.](https://am21.mediaite.com/lc/cnt/uploads/2024/11/Trump-James-432x243.jpg)](https://lawandcrime.com/high-profile/join-forces-for-the-greater-good-trump-asks-letitia-james-to-dismiss-civil-fraud-case-vacate-massive-fine-and-end-legal-onslaught-against-him-in-the-name-of-unity/)
     
-    ### ['My mom is possessed by demons': Mother abandons toddler on Daytona Beach, teen brother calls cops on her](https://lawandcrime.com/crime/my-mom-is-possessed-by-demons-mother-abandons-toddler-on-daytona-beach-teen-brother-calls-cops-on-her/)
+    ### ['Join forces for the greater good': Trump asks Letitia James to dismiss civil fraud case, vacate massive fine, and end 'legal onslaught against him' in the name of 'unity'](https://lawandcrime.com/high-profile/join-forces-for-the-greater-good-trump-asks-letitia-james-to-dismiss-civil-fraud-case-vacate-massive-fine-and-end-legal-onslaught-against-him-in-the-name-of-unity/)
     
-3. [![Donald Trump appears in Salem, Virginia.](https://am22.mediaite.com/lc/cnt/uploads/2024/11/AP24331802381280-crop-432x243.jpg)](https://lawandcrime.com/high-profile/die-to-become-royalty-gun-toting-man-threatened-trump-and-his-family-with-vague-yet-direct-violence-in-numerous-lengthy-facebook-videos-for-several-months-feds-say/)
+3. [![Inset: Christin Donat (Vanderburgh County Sheriff’s Office). Background: The mobile home where Christin Donat lived with her 2-month-old son (WEVV/YouTube).](https://am21.mediaite.com/lc/cnt/uploads/2024/11/Ch-432x243.jpg)](https://lawandcrime.com/crime/starved-2-month-old-looked-like-holocaust-survivor-after-being-taken-away-from-neglectful-mother-cops/)
     
-    ### ['Die to become royalty': Gun-toting man threatened Trump and his family with 'vague yet direct' violence in 'numerous lengthy' Facebook videos for several months, feds say](https://lawandcrime.com/high-profile/die-to-become-royalty-gun-toting-man-threatened-trump-and-his-family-with-vague-yet-direct-violence-in-numerous-lengthy-facebook-videos-for-several-months-feds-say/)
+    ### [Starved 2-month-old looked like 'Holocaust survivor' after being taken away from neglectful mother: Cops](https://lawandcrime.com/crime/starved-2-month-old-looked-like-holocaust-survivor-after-being-taken-away-from-neglectful-mother-cops/)
     
-4. [![Clockwise from top left: Javi Maquindang, Christine Aca-ac, Matthew Montebello, and Edwin Garcia (GoFundMe).](https://am24.mediaite.com/lc/cnt/uploads/2024/11/asdfadfdasfa-432x243.jpg)](https://lawandcrime.com/crime/jilted-boyfriend-killed-ex-and-3-roommates-as-they-peacefully-slept-in-their-beds-then-lit-house-on-fire-to-cover-it-up-police/)
+4. [![Main: Texas Attorney General Ken Paxton speaking during CPAC in February 2024 (AP Photo/Jose Luis Magana, File). Inset: Jack Smith speaks about an indictment of former President Donald Trump, Aug. 1, 2023, in Washington (AP Photo/Jacquelyn Martin).](https://am22.mediaite.com/lc/cnt/uploads/2024/11/asdfadf-1-432x243.jpg)](https://lawandcrime.com/high-profile/trump-appointed-judge-offers-blistering-response-to-unserious-jack-smith-paper-shredding-claims/)
     
-    ### [Jilted boyfriend killed ex and 3 roommates 'as they peacefully slept in their beds,' then lit house on fire to cover it up: Police](https://lawandcrime.com/crime/jilted-boyfriend-killed-ex-and-3-roommates-as-they-peacefully-slept-in-their-beds-then-lit-house-on-fire-to-cover-it-up-police/)
+    ### [Trump-appointed judge offers blistering response to 'unserious' Jack Smith 'paper shredding' claims](https://lawandcrime.com/high-profile/trump-appointed-judge-offers-blistering-response-to-unserious-jack-smith-paper-shredding-claims/)
     
-5. [![Left: Marilyn Manson at The 2016 Fashion Awards held on December 5, 2016 at The Royal Albert Hall in London, England, UK (File Photo by: zz/KGC-03/STAR MAX/IPx 2016). Right: Right: Evan Rachel Wood speaks onstage at Let's Get WEIRD panel during New York Comic Con 2022 on October 09, 2022 in New York (NDZ/STAR MAX photo).](https://am23.mediaite.com/lc/cnt/uploads/2024/08/Marilyn-Manson-Evan-Rachel-Wood-432x243.jpg)](https://lawandcrime.com/high-profile/marilyn-manson-drops-defamation-claim-against-evan-rachel-wood-agrees-to-pay-full-fee-award-of-attorney-costs/)
+5. [![Mark Waynick and Jerry McKane Waynick](https://am24.mediaite.com/lc/cnt/uploads/2024/11/Mark-Waynick-and-Jerry-McKane-Waynick-Jan-6-432x243.jpg)](https://lawandcrime.com/high-profile/were-an-imminent-threat-father-son-duo-headed-to-prison-for-hurling-metal-pole-barrel-at-cops-during-jan-6-capitol-breach/)
     
-    ### [Marilyn Manson drops defamation claim against Evan Rachel Wood, agrees to pay 'full fee award' of attorney costs](https://lawandcrime.com/high-profile/marilyn-manson-drops-defamation-claim-against-evan-rachel-wood-agrees-to-pay-full-fee-award-of-attorney-costs/)
+    ### ['We're an imminent threat': Father-son duo headed to prison for hurling metal pole, barrel at cops during Jan. 6 Capitol breach](https://lawandcrime.com/high-profile/were-an-imminent-threat-father-son-duo-headed-to-prison-for-hurling-metal-pole-barrel-at-cops-during-jan-6-capitol-breach/)
     
 
 [](http://eepurl.com/c89Jdb)
