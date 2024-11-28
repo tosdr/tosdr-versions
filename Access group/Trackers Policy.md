@@ -72,6 +72,14 @@ Country UK AU & NZ SG MY US IE
     
     Latest News
     
+    ![](/media/xvbfjgrv/screenshot-2024-11-27-174323.png?rmode=max&width=230&height=295&v=1db417c6b112f00)
+    
+    Posted 28th November 2024
+    
+    The Access Group helps students gain skills and experience to kickstart careers in tech
+    
+    [Read article on The Access Group helps students gain skills and experience to kickstart careers in tech](https://www.theaccessgroup.com/en-gb/about/news/the-access-group-helps-students-gain-skills-and-experience-to-kickstart-careers-in-tech/)
+    
     ![](/media/bddfnfg4/screenshot-2024-11-22-122950.png?rmode=max&width=230&height=295&v=1db3cce7b93b990)
     
     Posted 22nd November 2024
