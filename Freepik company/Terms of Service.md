@@ -12,11 +12,11 @@ Toggle menu
     
     [AI Image GeneratorCreate images from words in real time](https://www.freepikcompany.com/ai/image-generator)
     
-    [AI video generatornewCreate stunning videos from text or images](https://www.freepikcompany.com/ai/video-generator)
+    [AI Video GeneratornewCreate stunning videos from text or images](https://www.freepikcompany.com/ai/video-generator)
     
     [Mockup GeneratorBring designs to life, effortlessly](https://www.freepikcompany.com/mockup-generator)
     
-    [AI voice generatornewTurn text into a stunning voiceover in seconds](https://www.freepikcompany.com/ai/voice-generator)
+    [AI Voice GeneratornewTurn text into a stunning voiceover in seconds](https://www.freepikcompany.com/ai/voice-generator)
     
     [DesignerbetaEdit templates from your browser](https://www.freepik.com/designer)
     
@@ -1143,7 +1143,7 @@ If any court or competent authority finds that any provision of this EULA (or pa
 Tools
 
 * [AI Image Generator](https://www.freepikcompany.com/ai/image-generator)
-* [AI video generator](https://www.freepikcompany.com/ai/video-generator)
+* [AI Video Generator](https://www.freepikcompany.com/ai/video-generator)
 * [Image upscaler](https://www.freepikcompany.com/ai/image-upscaler)
 * [Background Remover](https://www.freepikcompany.com/ai/background-remover)
 * [Photo editor](https://www.freepikcompany.com/ai/photo-editor)
