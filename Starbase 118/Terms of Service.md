@@ -352,6 +352,18 @@ Community News
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2024/11/rouiancetheadshot.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/captains-corner-lia-rouiancet-uss-octavia-e-butler/)
+
+### [Captain’s Corner: Lia Rouiancet, USS Octavia E. Butler](https://www.starbase118.net/2024/captains-corner-lia-rouiancet-uss-octavia-e-butler/)
+
+Alora DeVeau November 28, 2024
+
+Each month, we interview a captain or first officer of the fleet to gain more insight on what it takes to command a ship and
+
+[Read More »](https://www.starbase118.net/2024/captains-corner-lia-rouiancet-uss-octavia-e-butler/)
+
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2023/09/RoninBeauty-full-768x419.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/uss-ronin-and-uss-khitomer-repairs-and-extended-shore-leave-continue-at-deep-space-nine/)
 
 ### [USS Ronin and USS Khitomer Repairs and Extended Shore Leave Continue at Deep Space Nine](https://www.starbase118.net/2024/uss-ronin-and-uss-khitomer-repairs-and-extended-shore-leave-continue-at-deep-space-nine/)
@@ -369,18 +381,6 @@ Lhandon Nilsen November 26, 2024
 Award winner – Lt Karen Stendhal, USS Octavia E Butler (Xalor Clan Xifilis Award) Join us for another in a series of interviews with winners
 
 [Read More »](https://www.starbase118.net/2024/award-winner-lt-karen-stendhal-uss-octavia-e-butler-xalor-clan-xifilis-award/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2022/06/1600px-Denali_Station-768x432.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/denali-crew-travels-to-a-newly-established-jemhadar-colony/)
-
-### [Denali crew travels to a newly established Jem’Hadar colony](https://www.starbase118.net/2024/denali-crew-travels-to-a-newly-established-jemhadar-colony/)
-
-Federation News Service November 25, 2024
-
-RING 42 – The crew of Denali Station traveled a short distance on Ring 42 to assist a newly established Jem’Hadar colony struggling with several
-
-[Read More »](https://www.starbase118.net/2024/denali-crew-travels-to-a-newly-established-jemhadar-colony/)
 
 Ready to get started?
 ---------------------
