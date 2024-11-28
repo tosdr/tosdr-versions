@@ -277,7 +277,7 @@ Sign up for Era Clear ad removal!
 * 
 * [Resetera](https://www.resetera.com/misc/style "Style chooser")
 
-* [Twitter](https://twitter.com/ReseteraForum)
+* [BlueSky](https://bsky.app/profile/resetera-forum.bsky.social)
 * [Contact us](https://www.resetera.com/misc/contact)
 * [Terms and rules](https://www.resetera.com/help/terms/)
 * [Privacy policy](https://www.resetera.com/help/privacy-policy/)
