@@ -266,28 +266,19 @@ Most Popular
 [Throwback Thursday: Out and about at Bound for Boston 'Battle of the Bands' (2007)](https://www.derrynow.com/story-telling/pictures---videos/1664785/throwback-thursday-out-and-about-at-bound-for-boston-battle-of-the-bands-2007.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![IN PICTURES: Seán Dolans GAC Annual Dinner Dance in The City Hotel](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Seán Dolans GAC Annual Dinner Dance in The City Hotel")](https://www.derrynow.com/story-telling/pictures---videos/1664007/in-pictures-sean-dolans-gac-annual-dinner-dance-in-the-city-hotel.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Seán Dolans GAC Annual Dinner Dance in The City Hotel](https://www.derrynow.com/story-telling/pictures---videos/1664007/in-pictures-sean-dolans-gac-annual-dinner-dance-in-the-city-hotel.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![South Bank Square granted planning permission for  674 new homes in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "South Bank Square granted planning permission for  674 new homes in Derry")](https://www.derrynow.com/news/local-news/1666525/south-bank-square-granted-planning-permission-for-674-new-homes-in-derry.html)
-
-Aerial photograph of application site and H30 Zoning.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[South Bank Square granted planning permission for  674 new homes in Derry](https://www.derrynow.com/news/local-news/1666525/south-bank-square-granted-planning-permission-for-674-new-homes-in-derry.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Man in late teens shot in the leg in Derry attack](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man in late teens shot in the leg in Derry attack")](https://www.derrynow.com/news/local-news/1666879/man-in-late-teens-shot-in-the-leg-in-derry-attack.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
 [Man in late teens shot in the leg in Derry attack](https://www.derrynow.com/news/local-news/1666879/man-in-late-teens-shot-in-the-leg-in-derry-attack.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Diversions are in place on the Glenshane Road, Maghera at its junction with the Mullagh Road due to a road traffic collision.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Diversions are in place on the Glenshane Road, Maghera at its junction with the Mullagh Road due to a road traffic collision.")](https://www.derrynow.com/news/county-derry-post/1667123/diversions-are-in-place-on-the-glenshane-road-maghera-at-its-junction-with-the-mullagh-road-due-to-a-road-traffic-collision.html)
+
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+[Diversions are in place on the Glenshane Road, Maghera at its junction with the Mullagh Road due to a road traffic collision.](https://www.derrynow.com/news/county-derry-post/1667123/diversions-are-in-place-on-the-glenshane-road-maghera-at-its-junction-with-the-mullagh-road-due-to-a-road-traffic-collision.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Dungiven man threatened to kill partner by 'cutting her from ear to ear', court told](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Dungiven man threatened to kill partner by 'cutting her from ear to ear', court told")](https://www.derrynow.com/news/home/1666429/dungiven-man-threatened-to-kill-partner-by-cutting-her-from-ear-to-ear-court-told.html)
 
@@ -296,15 +287,6 @@ Aerial photograph of application site and H30 Zoning.
 [Dungiven man threatened to kill partner by 'cutting her from ear to ear', court told](https://www.derrynow.com/news/home/1666429/dungiven-man-threatened-to-kill-partner-by-cutting-her-from-ear-to-ear-court-told.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Traffic information ahead of Apprentice Boys 336th ‘Shutting of the Gates’](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Traffic information ahead of Apprentice Boys 336th ‘Shutting of the Gates’")](https://www.derrynow.com/news/local-news/1666133/traffic-information-ahead-of-apprentice-boys-336th-shutting-of-the-gates-announced.html)
-
-An effigy of Lundy before the burning at a previous 'Shutting of the Gates'.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Traffic information ahead of Apprentice Boys 336th ‘Shutting of the Gates’](https://www.derrynow.com/news/local-news/1666133/traffic-information-ahead-of-apprentice-boys-336th-shutting-of-the-gates-announced.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1666526/derry-death-notices-thursday-november-28-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
@@ -312,30 +294,46 @@ An effigy of Lundy before the burning at a previous 'Shutting of the Gates'.
 [Derry Death Notices - Thursday, November 28, 2024](https://www.derrynow.com/news/deaths/1666526/derry-death-notices-thursday-november-28-2024.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Suspended sentence for man charged with disorderly behavior and resisting police](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for man charged with disorderly behavior and resisting police")](https://www.derrynow.com/news/local-news/1666125/suspended-sentence-for-man-charged-with-disorderly-behavior-and-resisting-police.html)
+[![Man pleads not guilty at Derry Crown Court to series of sexual assaults](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man pleads not guilty at Derry Crown Court to series of sexual assaults")](https://www.derrynow.com/news/local-news/1667039/man-pleads-not-guilty-at-derry-crown-court-to-series-of-sexual-assaults.html)
+
+Derry courthouse
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Suspended sentence for man charged with disorderly behavior and resisting police](https://www.derrynow.com/news/local-news/1666125/suspended-sentence-for-man-charged-with-disorderly-behavior-and-resisting-police.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Man pleads not guilty at Derry Crown Court to series of sexual assaults](https://www.derrynow.com/news/local-news/1667039/man-pleads-not-guilty-at-derry-crown-court-to-series-of-sexual-assaults.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![New stand at the Brandywell](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "New stand at the Brandywell")](https://www.derrynow.com/poll/derry-sport/1666352/what-should-the-new-stand-at-the-ryan-mcbride-brandywell-be-named.html)
+[![Man charged with criminal damage and theft from number of Derry shops](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man charged with criminal damage and theft from number of Derry shops")](https://www.derrynow.com/news/local-news/1666955/man-charged-with-criminal-damage-and-theft-from-number-of-derry-shops.html)
 
-New stand at the Brandywell
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+[Man charged with criminal damage and theft from number of Derry shops](https://www.derrynow.com/news/local-news/1666955/man-charged-with-criminal-damage-and-theft-from-number-of-derry-shops.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[What should the new stand at the Ryan McBride Brandywell be named?](https://www.derrynow.com/poll/derry-sport/1666352/what-should-the-new-stand-at-the-ryan-mcbride-brandywell-be-named.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![Derry judge brands Housing Executive regulations as 'illogical nonsense'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry judge brands Housing Executive regulations as 'illogical nonsense'")](https://www.derrynow.com/news/local-news/1666951/derry-judge-brands-housing-executive-regulations-as-illogical-nonsense.html)
 
-[![Late mother and close friend inspire Maghera native to record debut album](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Late mother and close friend inspire Maghera native to record debut album")](https://www.derrynow.com/news/home/1665837/late-mother-and-close-friend-inspire-maghera-native-to-record-debut-album.html)
+Derry Magistrate's Court
 
-John Burns (left) accepts the first copy of his friend, John O'Connor's debut album.
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Home](https://www.derrynow.com/)
+[Derry judge brands Housing Executive regulations as 'illogical nonsense'](https://www.derrynow.com/news/local-news/1666951/derry-judge-brands-housing-executive-regulations-as-illogical-nonsense.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Late mother and close friend inspire Maghera native to record debut album](https://www.derrynow.com/news/home/1665837/late-mother-and-close-friend-inspire-maghera-native-to-record-debut-album.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![McDaid’s  Dungiven](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "McDaid’s  Dungiven")](https://www.derrynow.com/news/county-derry-post/1667212/county-derry-community-pharmacy-sold-to-first-time-buyer-pair.html)
+
+McDaid’s Pharmacy Dungiven
+
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+[County Derry Community Pharmacy sold to first time buyer pair](https://www.derrynow.com/news/county-derry-post/1667212/county-derry-community-pharmacy-sold-to-first-time-buyer-pair.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Police have arrested two men on suspicion of a number of offences following a vehicle pursuit and related offences in Kilrea.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police have arrested two men on suspicion of a number of offences following a vehicle pursuit and related offences in Kilrea.")](https://www.derrynow.com/news/county-derry-post/1667055/police-have-arrested-two-men-on-suspicion-of-a-number-of-offences-following-a-vehicle-pursuit-and-related-offences-in-kilrea.html)
+
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+[Police have arrested two men on suspicion of a number of offences following a vehicle pursuit and related offences in Kilrea.](https://www.derrynow.com/news/county-derry-post/1667055/police-have-arrested-two-men-on-suspicion-of-a-number-of-offences-following-a-vehicle-pursuit-and-related-offences-in-kilrea.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -515,55 +513,55 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry judge brands Housing Executive regulations as 'illogical nonsense'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry judge brands Housing Executive regulations as 'illogical nonsense'")](https://www.derrynow.com/news/local-news/1666951/derry-judge-brands-housing-executive-regulations-as-illogical-nonsense.html)
+[![Kilrea Christmas Lights will Switch on](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Kilrea Christmas Lights will Switch on")](https://www.derrynow.com/news/county-derry-post/1667280/kilrea-christmas-lights-will-switch-on-this-weekend.html)
+
+Kilrea Christmas Lights will Switch on
+
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+[Kilrea Christmas Lights will Switch on this weekend](https://www.derrynow.com/news/county-derry-post/1667280/kilrea-christmas-lights-will-switch-on-this-weekend.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry's Foyle Street to re-open temporarily to traffic in time for Christmas rush](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry's Foyle Street to re-open temporarily to traffic in time for Christmas rush")](https://www.derrynow.com/news/local-news/1667294/derry-s-foyle-street-to-re-open-temporarily-to-traffic-in-time-for-christmas-rush.html)
+
+Foyle Street will reopen to traffic from December 9, NI Water has confirmed.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry's Foyle Street to re-open temporarily to traffic in time for Christmas rush](https://www.derrynow.com/news/local-news/1667294/derry-s-foyle-street-to-re-open-temporarily-to-traffic-in-time-for-christmas-rush.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man jailed at Derry Magistrate's Court for spitting in police officer's eye](https://www.derrynow.com/resizer/165/93/true/2024_03_28/derrycourthouse2.jpg--man_remanded_at_derry_magistrate_s_court_on_series_of_driving_charges-1711633542377.jpg--.jpg?1711633542414 "Man jailed at Derry Magistrate's Court for spitting in police officer's eye")](https://www.derrynow.com/news/local-news/1667067/man-jailed-at-derry-magistrate-s-court-for-spitting-in-police-officer-s-eye.html)
 
 Derry Magistrate's Court
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Derry judge brands Housing Executive regulations as 'illogical nonsense'](https://www.derrynow.com/news/local-news/1666951/derry-judge-brands-housing-executive-regulations-as-illogical-nonsense.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Man jailed at Derry Magistrate's Court for spitting in police officer's eye](https://www.derrynow.com/news/local-news/1667067/man-jailed-at-derry-magistrate-s-court-for-spitting-in-police-officer-s-eye.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Diversions are in place on the Glenshane Road, Maghera at its junction with the Mullagh Road due to a road traffic collision.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Diversions are in place on the Glenshane Road, Maghera at its junction with the Mullagh Road due to a road traffic collision.")](https://www.derrynow.com/news/county-derry-post/1667123/diversions-are-in-place-on-the-glenshane-road-maghera-at-its-junction-with-the-mullagh-road-due-to-a-road-traffic-collision.html)
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[Diversions are in place on the Glenshane Road, Maghera at its junction with the Mullagh Road due to a road traffic collision.](https://www.derrynow.com/news/county-derry-post/1667123/diversions-are-in-place-on-the-glenshane-road-maghera-at-its-junction-with-the-mullagh-road-due-to-a-road-traffic-collision.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Police have arrested two men on suspicion of a number of offences following a vehicle pursuit and related offences in Kilrea.](https://www.derrynow.com/resizer/165/93/true/2024_02_26/75d09668-969e-11ed-a6c5-0210609a3fe2-1685351040715.jpg---1708952493894.jpg--.jpg?1708952493928 "Police have arrested two men on suspicion of a number of offences following a vehicle pursuit and related offences in Kilrea.")](https://www.derrynow.com/news/county-derry-post/1667055/police-have-arrested-two-men-on-suspicion-of-a-number-of-offences-following-a-vehicle-pursuit-and-related-offences-in-kilrea.html)
+[![Police investigating a vehicle pursuit, ramming and related offences in Kilrea have made three further arrests](https://www.derrynow.com/resizer/165/93/true/2024_02_26/75d09668-969e-11ed-a6c5-0210609a3fe2-1685351040715.jpg---1708952493894.jpg--.jpg?1708952493928 "Police investigating a vehicle pursuit, ramming and related offences in Kilrea have made three further arrests")](https://www.derrynow.com/news/county-derry-post/1667351/police-investigating-a-vehicle-pursuit-ramming-and-related-offences-in-kilrea-have-made-three-further-arrests.html)
 
 [County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
 
-[Police have arrested two men on suspicion of a number of offences following a vehicle pursuit and related offences in Kilrea.](https://www.derrynow.com/news/county-derry-post/1667055/police-have-arrested-two-men-on-suspicion-of-a-number-of-offences-following-a-vehicle-pursuit-and-related-offences-in-kilrea.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Police investigating a vehicle pursuit, ramming and related offences in Kilrea have made three further arrests](https://www.derrynow.com/news/county-derry-post/1667351/police-investigating-a-vehicle-pursuit-ramming-and-related-offences-in-kilrea-have-made-three-further-arrests.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Mayoral reception for Causeway Coast and Glens powerlifter and weightlifter](https://www.derrynow.com/resizer/165/93/true/2024_11_28/CCGBC_RECEPTION_2-1732789458386.jpg--.jpg?1732789460261 "Mayoral reception for Causeway Coast and Glens powerlifter and weightlifter")](https://www.derrynow.com/news/home/1666901/mayoral-reception-for-causeway-coast-and-glens-powerlifter-and-weightlifter.html)
+[![UK Culture Secretary Lisa Nandy](https://www.derrynow.com/resizer/165/93/true/pa/2024_07_05/1720211701850_0.jpg--.jpg?1720211702138 "UK Culture Secretary Lisa Nandy")](https://www.derrynow.com/news/derry-news/1667038/culture-secretary-lisa-nandy-agrees-to-visit-northern-ireland-if-she-can-meet-the-stars-of-derry-girls.html)
 
-Minnie Dihmis (powerlifting) and Zak Taggart (weightlifting) with Mayor of Causeway Coast and Glens, Councillor Ciarán McQuillan, Minnie’s mum Diana and Zak’s dad Jason.
+UK Culture Secretary Lisa Nandy
 
-[Home](https://www.derrynow.com/)
+[Derry News](https://www.derrynow.com/section/999/derry-news)
 
-[Mayoral reception for Causeway Coast and Glens powerlifter and weightlifter](https://www.derrynow.com/news/home/1666901/mayoral-reception-for-causeway-coast-and-glens-powerlifter-and-weightlifter.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Culture Secretary Lisa Nandy agrees to visit Northern Ireland if she can meet the stars of Derry Girls](https://www.derrynow.com/news/derry-news/1667038/culture-secretary-lisa-nandy-agrees-to-visit-northern-ireland-if-she-can-meet-the-stars-of-derry-girls.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![New health service rolled out across Derry community pharmacies](https://www.derrynow.com/resizer/165/93/true/2022_07_15/Untitled%284%29-1657884006660.jpg--.jpg?1657884006721 "New health service rolled out across Derry community pharmacies")](https://www.derrynow.com/news/home/1666885/new-health-service-rolled-out-across-derry-community-pharmacies.html)
+[![Lack of capacity within NI Water severely impacting the building of homes across city and district](https://www.derrynow.com/resizer/165/93/true/2024_11_28/Culmore_Drainage_Area_Capacity_Constraints-1732795752497.png--.png?1732795752556 "Lack of capacity within NI Water severely impacting the building of homes across city and district")](https://www.derrynow.com/news/local-news/1667036/lack-of-capacity-within-ni-water-severely-impacting-the-building-of-homes-across-city-and-district.html)
 
-This follows on from the positive evaluation of a pilot service delivered in 43 pharmacies in 2023.
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Home](https://www.derrynow.com/)
-
-[New health service rolled out across Derry community pharmacies](https://www.derrynow.com/news/home/1666885/new-health-service-rolled-out-across-derry-community-pharmacies.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Green Infrastructure play project at Claudy Country Park officially opens](https://www.derrynow.com/resizer/165/93/true/2024_11_28/Captioned_Claudy_Playpark_%281%29-1732787105537.jpg--.jpg?1732787106186 "Green Infrastructure play project at Claudy Country Park officially opens")](https://www.derrynow.com/news/home/1666856/green-infrastructure-play-project-at-claudy-country-park-officially-opens.html)
-
-Pictured at the official opening of the play park in Claudy.
-
-[Home](https://www.derrynow.com/)
-
-[Green Infrastructure play project at Claudy Country Park officially opens](https://www.derrynow.com/news/home/1666856/green-infrastructure-play-project-at-claudy-country-park-officially-opens.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Lack of capacity within NI Water severely impacting the building of homes across city and district](https://www.derrynow.com/news/local-news/1667036/lack-of-capacity-within-ni-water-severely-impacting-the-building-of-homes-across-city-and-district.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
