@@ -190,14 +190,24 @@
 
 Subscribe
 
-[#### Fitness](https://www.healthline.com/fitness)
+[#### Mental Well-Being](https://www.healthline.com/mental-health)
 
-* [Exercise](https://www.healthline.com/fitness/exercise)
-* [Cardio](https://www.healthline.com/fitness/cardio)
-* [Products](https://www.healthline.com/fitness/products)
-* [Strength Training](https://www.healthline.com/fitness/strength-training)
-* [Yoga](https://www.healthline.com/fitness/yoga)
-* [Holistic Fitness](https://www.healthline.com/fitness/holistic-fitness)
+* [Anxiety](https://www.healthline.com/mental-health/anxiety)
+* [Depression](https://www.healthline.com/mental-health/depression)
+* [Better Sleep](https://www.healthline.com/mental-health/sleep)
+* [Nutrition & Supplements](https://www.healthline.com/mental-health/nutrition-supplements)
+* [Building Relationships](https://www.healthline.com/mental-health/building-relationships)
+* [Emotional Well-Being](https://www.healthline.com/mental-health/mind-and-body)
+* [Navigating Therapy](https://www.healthline.com/mental-health/treatment)
+* [Crisis Support](https://www.healthline.com/mental-health/crisis-support)
+* [ADHD](https://www.healthline.com/mental-health/adhd)
+* [Bipolar Disorder](https://www.healthline.com/mental-health/bipolar)
+* [Eating Disorders](https://www.healthline.com/mental-health/eating-disorders)
+* [OCD](https://www.healthline.com/mental-health/ocd)
+* [Schizophrenia](https://www.healthline.com/mental-health/schizophrenia)
+* [Addiction](https://www.healthline.com/mental-health/addiction)
+* [Services & Reviews](https://www.healthline.com/reviews/mental-health-services-and-products)
+* [Apps](https://www.healthline.com/mental-health/apps)
 
 Privacy Policy
 ==============
