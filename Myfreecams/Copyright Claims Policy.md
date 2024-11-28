@@ -135,6 +135,6 @@ Navigation menu
 * [Privacy policy](https://wiki.myfreecams.com/wiki/Wiki.MyFreeCams.com:Privacy_policy)
 * [About Wiki.MyFreeCams.com](https://wiki.myfreecams.com/wiki/Wiki.MyFreeCams.com:About)
 * [Disclaimers](https://wiki.myfreecams.com/wiki/Wiki.MyFreeCams.com:General_disclaimer)
-* [Mobile view](https://wiki.myfreecams.com/wiki/index.php?title=DMCA_Information&mobileaction=toggle_view_mobile)
+* [Desktop](https://wiki.myfreecams.com/wiki/index.php?title=DMCA_Information&mobileaction=toggle_view_desktop)
 
 * [![Powered by MediaWiki](/wiki/resources/assets/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
