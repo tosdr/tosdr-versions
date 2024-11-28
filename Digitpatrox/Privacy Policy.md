@@ -20,16 +20,16 @@ Thursday, November 28 2024
 
 Latest
 
-* [Everyone Should Have a Big Battery Like the Jackery 1000 (and It's 50% Off for Black Friday)](https://digitpatrox.com/everyone-should-have-a-big-battery-like-the-jackery-1000-and-its-50-off-for-black-friday/)
-* [Best Baby Play Gyms & Baby Play Mats](https://digitpatrox.com/best-baby-play-gyms-baby-play-mats/)
-* [The Browser Choice Alliance Wants to Keep Microsoft Edge in Check](https://digitpatrox.com/the-browser-choice-alliance-wants-to-keep-microsoft-edge-in-check/)
-* [How to turn off the NVIDIA overlay (Alt + Z)](https://digitpatrox.com/how-to-turn-off-the-nvidia-overlay-alt-z/)
-* [Huawei Cloud France brings products and customer commitment to the fore at its inaugural summit](https://digitpatrox.com/huawei-cloud-france-brings-products-and-customer-commitment-to-the-fore-at-its-inaugural-summit/)
-* [10 Tips to Make Your Excel Spreadsheets Look Professional & Functional](https://digitpatrox.com/10-tips-to-make-your-excel-spreadsheets-look-professional-functional/)
-* [My favorite solar charger for my phone is 39% off for Black Friday — and it even shades me from the sun](https://digitpatrox.com/my-favorite-solar-charger-for-my-phone-is-39-off-for-black-friday-and-it-even-shades-me-from-the-sun/)
-* [Hackers abuse popular Godot game engine to infect thousands of PCs](https://digitpatrox.com/hackers-abuse-popular-godot-game-engine-to-infect-thousands-of-pcs/)
-* [Mark Zuckerberg meets Donald Trump at Mar-a-Lago](https://digitpatrox.com/mark-zuckerberg-meets-donald-trump-at-mar-a-lago/)
-* [NYT Connections Today: Hints and Answers for November 28, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-november-28-2024/)
+* [Dell Technologies CTO: ROI on AI should be the number one focus for execs](https://digitpatrox.com/dell-technologies-cto-roi-on-ai-should-be-the-number-one-focus-for-execs/)
+* [FTC opens antitrust investigation into Microsoft’s cloud, AI, and cybersecurity practices – Computerworld](https://digitpatrox.com/ftc-opens-antitrust-investigation-into-microsofts-cloud-ai-and-cybersecurity-practices-computerworld/)
+* [This Vitamix Blender Is $80 Off Right Now](https://digitpatrox.com/this-vitamix-blender-is-80-off-right-now/)
+* [Nebraskan credit union notifies over 52K people of data breach following ransomware attack](https://digitpatrox.com/nebraskan-credit-union-notifies-over-52k-people-of-data-breach-following-ransomware-attack/)
+* [How to Escape Your Car If the Electronic Door Handle Fails](https://digitpatrox.com/how-to-escape-your-car-if-the-electronic-door-handle-fails/)
+* [Meet Ubuntu Studio, a Linux Distro & Software Toolbox for Creatives](https://digitpatrox.com/meet-ubuntu-studio-a-linux-distro-software-toolbox-for-creatives/)
+* [G.Skill Trident Z5 Neo RGB DDR5-6000 review](https://digitpatrox.com/g-skill-trident-z5-neo-rgb-ddr5-6000-review/)
+* [Microsoft dismisses claims it’s using Word and Excel data to train AI](https://digitpatrox.com/microsoft-dismisses-claims-its-using-word-and-excel-data-to-train-ai/)
+* [8 Best Construction CRM Software](https://digitpatrox.com/8-best-construction-crm-software/)
+* [Forget Samsung — we just got our first Snapdragon 8 Elite smartphone from an unlikely source](https://digitpatrox.com/forget-samsung-we-just-got-our-first-snapdragon-8-elite-smartphone-from-an-unlikely-source/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://lifehacker.com/imagery/articles/01JDQTMQWBH6T7ETCMNECDXZH7/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/everyone-should-have-a-big-battery-like-the-jackery-1000-and-its-50-off-for-black-friday/)
+* [![](https://cdn.mos.cms.futurecdn.net/RqKrXzBvRZ5GfoqRJxQsfk-1200-80.jpg)](https://digitpatrox.com/dell-technologies-cto-roi-on-ai-should-be-the-number-one-focus-for-execs/)
     
-    [Everyone Should Have a Big Battery Like the Jackery 1000 (and It's 50% Off for Black Friday)](https://digitpatrox.com/everyone-should-have-a-big-battery-like-the-jackery-1000-and-its-50-off-for-black-friday/)
+    [Dell Technologies CTO: ROI on AI should be the number one focus for execs](https://digitpatrox.com/dell-technologies-cto-roi-on-ai-should-be-the-number-one-focus-for-execs/)
     
-    6 minutes ago
+    19 minutes ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1732210161/prod/content/dam/CRO-Images-2024/Rapid-Response/CR-RR-InlineHero-Best-Baby-Gyms-Lovevery-1124-v2)](https://digitpatrox.com/best-baby-play-gyms-baby-play-mats/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3614495-0-50938200-1732793303-shutterstock_2325970865-100962558-orig.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/ftc-opens-antitrust-investigation-into-microsofts-cloud-ai-and-cybersecurity-practices-computerworld/)
     
-    [Best Baby Play Gyms & Baby Play Mats](https://digitpatrox.com/best-baby-play-gyms-baby-play-mats/)
+    [FTC opens antitrust investigation into Microsoft’s cloud, AI, and cybersecurity practices – Computerworld](https://digitpatrox.com/ftc-opens-antitrust-investigation-into-microsofts-cloud-ai-and-cybersecurity-practices-computerworld/)
     
-    17 minutes ago
+    40 minutes ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/edge.jpg)](https://digitpatrox.com/the-browser-choice-alliance-wants-to-keep-microsoft-edge-in-check/)
+* [![](https://lifehacker.com/imagery/articles/01JDR62AQ4ZSQXCQEKJVNT5RYY/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/this-vitamix-blender-is-80-off-right-now/)
     
-    [The Browser Choice Alliance Wants to Keep Microsoft Edge in Check](https://digitpatrox.com/the-browser-choice-alliance-wants-to-keep-microsoft-edge-in-check/)
+    [This Vitamix Blender Is $80 Off Right Now](https://digitpatrox.com/this-vitamix-blender-is-80-off-right-now/)
     
-    18 minutes ago
+    1 hour ago
     
-* [![](https://www.digitalcitizen.life/wp-content/uploads/2022/09/geforce_experience.png)](https://digitpatrox.com/how-to-turn-off-the-nvidia-overlay-alt-z/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/Nebraskan-Credit-Union-notifies-over-52K-people-of-data-breach.jpg)](https://digitpatrox.com/nebraskan-credit-union-notifies-over-52k-people-of-data-breach-following-ransomware-attack/)
     
-    [How to turn off the NVIDIA overlay (Alt + Z)](https://digitpatrox.com/how-to-turn-off-the-nvidia-overlay-alt-z/)
+    [Nebraskan credit union notifies over 52K people of data breach following ransomware attack](https://digitpatrox.com/nebraskan-credit-union-notifies-over-52k-people-of-data-breach-following-ransomware-attack/)
     
-    20 minutes ago
+    1 hour ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/KQ2bHEt8Di8nq6vzc9Kagm-1200-80.jpg)](https://digitpatrox.com/huawei-cloud-france-brings-products-and-customer-commitment-to-the-fore-at-its-inaugural-summit/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1653314918/prod/content/dam/CRO-Images-2022/Cars/05May/CR-Cars-InlineHero-2017-Lincoln_-Continental-Door-Release-5-22)](https://digitpatrox.com/how-to-escape-your-car-if-the-electronic-door-handle-fails/)
     
-    [Huawei Cloud France brings products and customer commitment to the fore at its inaugural summit](https://digitpatrox.com/huawei-cloud-france-brings-products-and-customer-commitment-to-the-fore-at-its-inaugural-summit/)
+    [How to Escape Your Car If the Electronic Door Handle Fails](https://digitpatrox.com/how-to-escape-your-car-if-the-electronic-door-handle-fails/)
     
-    56 minutes ago
+    1 hour ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [6 minutes ago
+* [19 minutes ago
     
-    ### Everyone Should Have a Big Battery Like the Jackery 1000 (and It's 50% Off for Black Friday)](https://digitpatrox.com/everyone-should-have-a-big-battery-like-the-jackery-1000-and-its-50-off-for-black-friday/)
-* [17 minutes ago
+    ### Dell Technologies CTO: ROI on AI should be the number one focus for execs](https://digitpatrox.com/dell-technologies-cto-roi-on-ai-should-be-the-number-one-focus-for-execs/)
+* [40 minutes ago
     
-    ### Best Baby Play Gyms & Baby Play Mats](https://digitpatrox.com/best-baby-play-gyms-baby-play-mats/)
-* [18 minutes ago
+    ### FTC opens antitrust investigation into Microsoft’s cloud, AI, and cybersecurity practices – Computerworld](https://digitpatrox.com/ftc-opens-antitrust-investigation-into-microsofts-cloud-ai-and-cybersecurity-practices-computerworld/)
+* [1 hour ago
     
-    ### The Browser Choice Alliance Wants to Keep Microsoft Edge in Check](https://digitpatrox.com/the-browser-choice-alliance-wants-to-keep-microsoft-edge-in-check/)
+    ### This Vitamix Blender Is $80 Off Right Now](https://digitpatrox.com/this-vitamix-blender-is-80-off-right-now/)
 
 Most Popular Topics
 
+* [September 2, 2024
+    
+    ### Boeing’s Starliner started making a repeating ‘pulsing’ sound yesterday](https://digitpatrox.com/boeings-starliner-started-making-a-repeating-pulsing-sound-yesterday/)
+* [October 23, 2024
+    
+    ### The Boox Palma 2 has a faster processor and adds a fingerprint reader](https://digitpatrox.com/the-boox-palma-2-has-a-faster-processor-and-adds-a-fingerprint-reader/)
 * [1 day ago
     
-    ### The Best iPhone Tripods of 2024](https://digitpatrox.com/the-best-iphone-tripods-of-2024/)
-* [October 9, 2024
-    
-    ### Onedrive Is Getting Better Photo Management, Faster Performance, and More](https://digitpatrox.com/onedrive-is-getting-better-photo-management-faster-performance-and-more/)
-* [5 days ago
-    
-    ### OpenAI is thinking about building its own browser – Computerworld](https://digitpatrox.com/openai-is-thinking-about-building-its-own-browser-computerworld/)
+    ### Max, Hulu, and Paramount Plus are all heavily discounted for Black Friday](https://digitpatrox.com/max-hulu-and-paramount-plus-are-all-heavily-discounted-for-black-friday/)
 
 Last Modified Topics
 
 * [1 hour ago
     
-    ### My favorite solar charger for my phone is 39% off for Black Friday — and it even shades me from the sun](https://digitpatrox.com/my-favorite-solar-charger-for-my-phone-is-39-off-for-black-friday-and-it-even-shades-me-from-the-sun/)
+    ### G.Skill Trident Z5 Neo RGB DDR5-6000 review](https://digitpatrox.com/g-skill-trident-z5-neo-rgb-ddr5-6000-review/)
 * [2 hours ago
     
-    ### Hackers abuse popular Godot game engine to infect thousands of PCs](https://digitpatrox.com/hackers-abuse-popular-godot-game-engine-to-infect-thousands-of-pcs/)
-* [3 hours ago
+    ### Microsoft dismisses claims it’s using Word and Excel data to train AI](https://digitpatrox.com/microsoft-dismisses-claims-its-using-word-and-excel-data-to-train-ai/)
+* [2 hours ago
     
-    ### Mark Zuckerberg meets Donald Trump at Mar-a-Lago](https://digitpatrox.com/mark-zuckerberg-meets-donald-trump-at-mar-a-lago/)
+    ### 8 Best Construction CRM Software](https://digitpatrox.com/8-best-construction-crm-software/)
 
 Most Viewed Topics
 
+* [August 13, 2024
+    
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [August 11, 2024
     
     ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
-* [August 13, 2024
-    
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 * [October 2, 2024
     
     ### The best noise-canceling headphones for 2024](https://digitpatrox.com/the-best-noise-canceling-headphones-for-2024/)
