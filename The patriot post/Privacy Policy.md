@@ -1,6 +1,6 @@
-**Fellow Patriot:** The voluntary financial generosity of supporters like _you_ keeps our hard-hitting analysis coming. Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_0&utm_medium=web&utm_source=patriotpost.us) today. Thank you for your support! —Nate Jackson, Managing Editor
+**Patriots:** For over 26 years, your generosity has made it possible to offer The Patriot Post without a subscription fee to military personnel, students, and those with limited means. Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us) today.
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_0&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -114,7 +114,7 @@ Last Updated: November 15, 2011.
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/112383-and-freedom-2024-11-27)
+     [](https://patriotpost.us/memes/112404-why-eat-turkey-2024-11-28)
 
 * [More Memes >](https://patriotpost.us/memes)
 
@@ -134,11 +134,6 @@ Last Updated: November 15, 2011.
 *      [Victor Davis Hanson Universities Have a 2025 Rendezvous With Reality](https://patriotpost.us/opinion/112375-universities-have-a-2025-rendezvous-with-reality-2024-11-27)
 *      [Byron York One Month After Campaign’s Final Convulsion, a Moment of Peace](https://patriotpost.us/opinion/112374-one-month-after-campaigns-final-convulsion-a-moment-of-peace-2024-11-27)
 *      [Tim Graham Journalist Tantrums About Elon Musk Don’t Fix Public Distrust](https://patriotpost.us/opinion/112373-journalist-tantrums-about-elon-musk-dont-fix-public-distrust-2024-11-27)
-*      [Star Parker To Get Rid of Woke, Understand How It Got Started](https://patriotpost.us/opinion/112372-to-get-rid-of-woke-understand-how-it-got-started-2024-11-27)
-*      [John Stossel Thank You, Property Rights!](https://patriotpost.us/opinion/112371-thank-you-property-rights-2024-11-27)
-*      [Allen West Resistance Is Futile … and Stupid](https://patriotpost.us/opinion/112370-resistance-is-futile-dot-dot-dot-and-stupid-2024-11-27)
-*      [The Washington Stand Trump Could Scrap Biden’s Trans Troops Policy ‘as Soon as Day One’](https://patriotpost.us/opinion/112352-trump-could-scrap-bidens-trans-troops-policy-as-soon-as-day-one-2024-11-27)
-*      [The Babylon Bee 9 Things Public Schools Won’t Tell You About the First Thanksgiving](https://patriotpost.us/opinion/112369-9-things-public-schools-wont-tell-you-about-the-first-thanksgiving-2024-11-27)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -152,7 +147,7 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01JAZT6VDT6H9HTK9EJ190K832.jpeg)](https://patriotpostshop.com/collections/featured-products)
+No MSM Churn No Clickbait Junk No Advertising
 
 ### The Foundation
 
