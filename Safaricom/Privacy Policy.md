@@ -146,6 +146,18 @@ out of 5 based on
 
 > Nov 28, 2024
 
+> Simple and straightforward to deal with
+
+> Quick, simple and painless. Shann was both patient and expert!
+
+5c9ui1bh
+
+,
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Nov 28, 2024
+
 > Please contact for any lodging inside parks
 
 > I emailed, contact relevant persons and get help fast 🏃‍♀️ 🙂 not like SANPARKS
@@ -253,20 +265,6 @@ Gogo and Tiffany.
 ,
 
 US
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Nov 21, 2024
-
-> Mel made our booking experience a…
-
-> Mel made our booking experience a dream. Quick response with various options absolutely stress free. And trailer made our experience 5 star
-
-James
-
-,
-
-GB
 
 VIP service
 
