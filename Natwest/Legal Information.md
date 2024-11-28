@@ -103,7 +103,7 @@ NatWest Group
             5. [Equity calculator](https://personal.natwest.com/mortgages/mortgage-calculators/equity-calculator.html)
             6. [Track your mortgage application online](https://personal.natwest.com/mortgages/applying-for-a-mortgage/mortgage-application-tracker.html)
             7. [Tariff of mortgage charges](https://personal.natwest.com/content/dam/natwest_com/mortgages/downloads/Tariff_of_Charges_NW.pdf)
-            8. [Mortgage offer extension](https://customerforms.natwest.com/apps/secure/applicationforms_dda/asp/form.asp?appid=144)
+            8. [Mortgage offer extension](https://www.natwest.com/mortgages/applying-for-a-mortgage.html#extension)
         
     * [Savings](https://personal.natwest.com/savings.html)
         
