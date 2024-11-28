@@ -1,8 +1,8 @@
- ![Limited time promo](https://www.backup4all.com/images/promo/pack/promo-save.png?ek79cy)
+ ![Limited time promo](https://www.backup4all.com/images/promo/blackfriday/badge-black-friday.png?ek79cy)
 
-#### Limited time sale: Backup4all PRO Family Pack - Pay for 2 Licenses & Get 3 (Save US$ 46.68)
+#### Black Friday sale: 70% Discount for Backup4all Pro to unlock new features (Save US$ 34.99)
 
-Buy (US$ 93.33)
+Buy (US$ 15.00)
 
 [![Backup4all Logo](https://www.backup4all.com/images/backup4all-logo.svg)![Backup4all Logo by Softland](https://www.backup4all.com/images/backup4all-by-softland.svg)](https://www.backup4all.com/)
 
@@ -301,15 +301,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to back up data files from NetApp using B ...](https://www.backup4all.com/how-to-back-up-data-files-from-netapp-using-backup4all-kb.html)  
+* [How to back up data files from ThinkOn using ...](https://www.backup4all.com/how-to-back-up-data-files-from-thinkon-using-backup4all-kb.html)  
     
-* [How to back up data files from Revera using B ...](https://www.backup4all.com/how-to-back-up-data-files-from-revera-using-backup4all-kb.html)  
+* [How to back up data files from HGST using Bac ...](https://www.backup4all.com/how-to-back-up-data-files-from-hgst-using-backup4all-kb.html)  
     
-* [Using Backup4all - FAQ 5](https://www.backup4all.com/using-backup4all-faq-5-kb.html)  
+* [How to move a backup from a failing hard driv ...](https://www.backup4all.com/how-to-move-a-backup-from-a-failing-hard-drive-to-a-new-one-kb.html)  
     
-* [How to backup your data to HGST](https://www.backup4all.com/how-to-backup-your-data-to-hgst-kb.html)  
+* [Backup strategy: run first backup locally the ...](https://www.backup4all.com/how-to-run-the-first-large-backup-locally-then-continue-the-kb.html)  
     
-* [What to check when application does not start](https://www.backup4all.com/what-to-check-when-application-does-not-start-kb.html)  
+* [How to encrypt the files in Backup4all](https://www.backup4all.com/how-to-encrypt-the-files-in-backup4all-kb.html)  
     
 
 Choose language:
