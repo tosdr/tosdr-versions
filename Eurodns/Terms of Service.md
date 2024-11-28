@@ -114,10 +114,10 @@ Legacy
 
 #### Latest blog articles
 
+* 28.11.2024[DNSSEC Basics: Secure Your Business Domain](https://www.eurodns.com/blog/dnssec-guide-secure-domain)
 * 20.11.2024[Istanbul Insights: Key Outcomes from ICANN 81](https://www.eurodns.com/blog/icann-81-istanbul-insights)
 * 15.11.2024[How to Resolve Common Domain Transfer Problems](https://www.eurodns.com/blog/resolve-common-domain-transfer-problems)
 * 08.11.2024[7 Top Domain Trends You Need To Know For 2025](https://www.eurodns.com/blog/top-domain-trends-for-2025)
-* 29.10.2024[EuroDNS Web Security Suite: Your Complete Web Protection is Here](https://www.eurodns.com/blog/web-security-suite-launch)
 
 #### Domain Name Discounts
 
