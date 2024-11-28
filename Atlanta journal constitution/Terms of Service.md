@@ -1,5 +1,7 @@
 error: no ad slot id exists: undefined
 
+[Breaking: 52-year-old man dead after Thanksgiving shooting, Atlanta police say](https://www.ajc.com/news/atlanta-news/52-year-old-man-dead-after-thanksgiving-shooting-atlanta-police-say/SNN4F6X5WJCBVMMV7NYEGSEQRA/)
+
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1836)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1836)](https://www.ajc.com/)
 
 Log In
@@ -16,6 +18,7 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
+* [Weekend Things to Do](https://www.ajc.com/things-to-do/things-to-do-in-atlanta-the-weekend-after-thanksgiving-nov-29-dec-1/I4GZQSQAXBDFDE3PFIPFPNRUUA/)
 * [Politically Georgia](https://www.ajc.com/politics/politically-georgia/)
 * [Holiday Guide](https://www.ajc.com/things-to-do/atlanta-winter-guide/)
 * [UATL](https://www.ajc.com/uatl/)
