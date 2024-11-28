@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.kagstv.com/assets/KCEN/images/fd35d786-d00e-44d2-9fe0-0cfdad9f3799/20241127T212419/fd35d786-d00e-44d2-9fe0-0cfdad9f3799_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/fd35d786-d00e-44d2-9fe0-0cfdad9f3799/20241127T212419/fd35d786-d00e-44d2-9fe0-0cfdad9f3799_360x203.jpg)](https://www.kagstv.com/article/news/local/bryan-police-searching-missing-man/500-fb919004-a70c-45e4-a4dc-ba628faebab8)
+        
+        #### [Have you seen this man? Bryan Police searching for missing man](https://www.kagstv.com/article/news/local/bryan-police-searching-missing-man/500-fb919004-a70c-45e4-a4dc-ba628faebab8)
+        
     *  [![](https://media.kagstv.com/assets/KVUE/images/0d1bfa40-c491-490c-aa6b-43cf39764498/0d1bfa40-c491-490c-aa6b-43cf39764498_16x9.jpg) ![](https://media.kagstv.com/assets/KVUE/images/0d1bfa40-c491-490c-aa6b-43cf39764498/0d1bfa40-c491-490c-aa6b-43cf39764498_360x203.jpg)](https://www.kagstv.com/article/news/local/china-us-prisoner-swap-mark-swidan-kai-li-and-john-leung/285-f4b4a127-4d3c-4d04-92ea-e793d9c197af)
         
         #### [Houston man among prisoners released as part of US deal with China, White House says](https://www.kagstv.com/article/news/local/china-us-prisoner-swap-mark-swidan-kai-li-and-john-leung/285-f4b4a127-4d3c-4d04-92ea-e793d9c197af)
-        
-    *  [![](https://media.kagstv.com/assets/KAGS/images/66c1844b-29a1-41e2-bd53-5fc440d5ceea/66c1844b-29a1-41e2-bd53-5fc440d5ceea_16x9.jpg) ![](https://media.kagstv.com/assets/KAGS/images/66c1844b-29a1-41e2-bd53-5fc440d5ceea/66c1844b-29a1-41e2-bd53-5fc440d5ceea_360x203.jpg)](https://www.kagstv.com/article/news/crime/nov-2024-college-station-search-warrant-arrest/500-b6b945a2-00e3-4d73-a3db-6b9de1cb11cc)
-        
-        #### [One in custody, three detained after high-risk search warrant connected to College Station shooting investigation](https://www.kagstv.com/article/news/crime/nov-2024-college-station-search-warrant-arrest/500-b6b945a2-00e3-4d73-a3db-6b9de1cb11cc)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-83°
+68°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
