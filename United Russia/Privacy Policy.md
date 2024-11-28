@@ -299,6 +299,30 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Секретарём регионального отделения «Единой России» в Республике Алтай избран председатель Госсобрания Эжер Ялбаков](https://cdn.er.ru/media/news/November2024/r94v2YUaurRaVBNijuTw-small.JPG)](https://er.ru/activity/news/sekretaryom-regionalnogo-otdeleniya-edinoj-rossii-v-respublike-altaj-izbran-predsedatel-gossobraniya-ezher-yalbakov)
+
+[Секретарём регионального отделения «Единой России» в Республике Алтай избран председатель Госсобрания Эжер Ялбаков](https://er.ru/activity/news/sekretaryom-regionalnogo-otdeleniya-edinoj-rossii-v-respublike-altaj-izbran-predsedatel-gossobraniya-ezher-yalbakov)
+
+[#Республика Алтай](https://er.ru/activity/news?tags%5B0%5D=3973) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#конференция](https://er.ru/activity/news?tags%5B0%5D=17) [#избрание](https://er.ru/activity/news?tags%5B0%5D=416) [#секретарьреготделения](https://er.ru/activity/news?tags%5B0%5D=147029)
+
+Сегодня 11:48
+
+[![Владимир Якушев: «Единая Россия» в отличие от других политических сил постоянно должна предъявлять осязаемый результат](https://cdn.er.ru/media/news/November2024/qIYcOSld8vcyaDjAwCDH-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-edinaya-rossiya-v-otlichie-ot-drugih-politicheskih-sil-postoyanno-dolzhna-predyavlyat-osyazaemyj-rezultat)
+
+[Владимир Якушев: «Единая Россия» в отличие от других политических сил постоянно должна предъявлять осязаемый результат](https://er.ru/activity/news/vladimir-yakushev-edinaya-rossiya-v-otlichie-ot-drugih-politicheskih-sil-postoyanno-dolzhna-predyavlyat-osyazaemyj-rezultat)
+
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#статья](https://er.ru/activity/news?tags%5B0%5D=71) [#«Ведомости»](https://er.ru/activity/news?tags%5B0%5D=47963) [#ДеньрожденияПартии](https://er.ru/activity/news?tags%5B0%5D=1090865)
+
+Сегодня 09:08
+
+[![Ко Дню морской пехоты «Единая Россия» провела тематические мероприятия в регионах](https://cdn.er.ru/media/news/November2024/t1CboglepQ0m1shqCZo1-small.jpg)](https://er.ru/activity/news/ko-dnyu-morskoj-pehoty-edinaya-rossiya-provela-tematicheskie-meropriyatiya-v-regionah)
+
+[Ко Дню морской пехоты «Единая Россия» провела тематические мероприятия в регионах](https://er.ru/activity/news/ko-dnyu-morskoj-pehoty-edinaya-rossiya-provela-tematicheskie-meropriyatiya-v-regionah)
+
+[#Колесник](https://er.ru/activity/news?tags%5B0%5D=8327) [#штабобщественнойподдержки](https://er.ru/activity/news?tags%5B0%5D=1092101) [#Деньморскойпехоты](https://er.ru/activity/news?tags%5B0%5D=125333) [#лекции](https://er.ru/activity/news?tags%5B0%5D=18064) [#мастер-классы](https://er.ru/activity/news?tags%5B0%5D=34619) [#квизы](https://er.ru/activity/news?tags%5B0%5D=134874)
+
+27.11.24
+
 [![«Единая Россия» подготовила второй рейтинг региональных мер поддержки молодых учёных](https://cdn.er.ru/media/news/November2024/IgZkouPr30dxM6RyDsHA-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-podgotovila-vtoroj-rejting-regionalnyh-mer-podderzhki-molodyh-uchyonyh)
 
 [«Единая Россия» подготовила второй рейтинг региональных мер поддержки молодых учёных](https://er.ru/activity/news/edinaya-rossiya-podgotovila-vtoroj-rejting-regionalnyh-mer-podderzhki-molodyh-uchyonyh)
@@ -320,30 +344,6 @@
 [Добровольцами в зону спецоперации отправились ещё восемь представителей «Молодой Гвардии Единой России» и «Волонтёрской Роты»](https://er.ru/activity/news/dobrovolcami-v-zonu-specoperacii-otpravilis-eshyo-vosem-predstavitelej-molodoj-gvardii-edinoj-rossii-i-volontyorskoj-roty)
 
 [#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#ВолонтерскаяРота](https://er.ru/activity/news?tags%5B0%5D=131631) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#военнослужащие](https://er.ru/activity/news?tags%5B0%5D=838)
-
-27.11.24
-
-[![Секретарём Тамбовского реготделения «Единой России» избран врио губернатора Евгений Первышов](https://cdn.er.ru/media/news/November2024/UMyD8szUviX8ZKELq0pV-small.jpg)](https://er.ru/activity/news/sekretaryom-tambovskogo-regotdeleniya-edinoj-rossii-izbran-vrio-gubernatora-evgenij-pervyshov)
-
-[Секретарём Тамбовского реготделения «Единой России» избран врио губернатора Евгений Первышов](https://er.ru/activity/news/sekretaryom-tambovskogo-regotdeleniya-edinoj-rossii-izbran-vrio-gubernatora-evgenij-pervyshov)
-
-[#Тамбовская область](https://er.ru/activity/news?tags%5B0%5D=778) [#конференциярегиональногоотделения](https://er.ru/activity/news?tags%5B0%5D=128228) [#Первышов](https://er.ru/activity/news?tags%5B0%5D=101048) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
-
-27.11.24
-
-[![В «Единой России» считают необходимым вернуть начальное профессиональное образование](https://cdn.er.ru/media/news/November2024/KEIhO0zcSVYaSKz7LGl9-small.jpg)](https://er.ru/activity/news/v-edinoj-rossii-schitayut-neobhodimym-vernut-nachalnoe-professionalnoe-obrazovanie)
-
-[В «Единой России» считают необходимым вернуть начальное профессиональное образование](https://er.ru/activity/news/v-edinoj-rossii-schitayut-neobhodimym-vernut-nachalnoe-professionalnoe-obrazovanie)
-
-[#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#Белых](https://er.ru/activity/news?tags%5B0%5D=9569) [#среднеепрофессиональноеобразование](https://er.ru/activity/news?tags%5B0%5D=120108) [#образование](https://er.ru/activity/news?tags%5B0%5D=57)
-
-27.11.24
-
-[![Владимир Якушев станет наставником в конкурсе «Лидеры России. Политика»](https://cdn.er.ru/media/news/November2024/2Dlq16r3ULMmM3LtHche-small.JPG)](https://er.ru/activity/news/vladimir-yakushev-stanet-nastavnikom-v-konkurse-lidery-rossii-politika)
-
-[Владимир Якушев станет наставником в конкурсе «Лидеры России. Политика»](https://er.ru/activity/news/vladimir-yakushev-stanet-nastavnikom-v-konkurse-lidery-rossii-politika)
-
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#наставничество](https://er.ru/activity/news?tags%5B0%5D=72627) [#Лидеры России](https://er.ru/activity/news?tags%5B0%5D=1094751) [#конкурс](https://er.ru/activity/news?tags%5B0%5D=360)
 
 27.11.24
 
