@@ -112,6 +112,13 @@ The Arc is committed to continuously improving the accessibility and usability o
 
 [Take Action >](https://disabilityadvocacynetwork.org/?0)
 
+* [Join The Arc >](https://thearc.org/get-involved/join-arc/)
+    
+    [Donate >](https://thearc.org/memorial_tribute_gifts/)
+    
+    [Take Action >](https://thearc.org/action)
+    
+
 ### About Us
 
 * [About Us](https://thearc.org/about-us/)
