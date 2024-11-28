@@ -71,6 +71,8 @@
     
 * [Try now](https://cookie-script.com/register "Try now")
 
+  
+
 Privacy Policy 
 ===============
 
@@ -364,3 +366,5 @@ Documents generated using our Service are generated fully automatically and ther
 Any assistance and customer support provided by CookieScript does not establish an attorney-client relationship and is meant just for sharing general information.
 
 Therefore, before taking any actions based upon information, provided by CookieScript, we encourage you to consult with a lawyer or an attorney licensed in the relevant jurisdiction(s).
+
+![](https://cookie-script.com/index.php/_wblapi?nolangfilter=1&_wblapi=/forseo/v1/cron/image/)
