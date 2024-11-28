@@ -99,7 +99,7 @@ Latest commented posts
 
 [ash and dean (no nut november) created by drako1997](https://yiff-party.com/yiff/ash-and-dean-no-nut-november-created-by-drako1997/)
 
-0 384 1
+0 390 1
 
 November 2, 2024
 
@@ -107,21 +107,21 @@ November 2, 2024
 
 [agatha directed by kotcfacu (director)](https://yiff-party.com/yiff/agatha-directed-by-kotcfacu-director/)
 
-0 381 1
+0 391 1
 
 November 18, 2024
 
-[](https://yiff-party.com/yiff/the-elder-scrolls-and-etc-created-by-sword-draws/)
+[](https://yiff-party.com/yiff/fan-character-kinktober-and-etc-created-by-alna-fratcher/)
 
-[the elder scrolls and etc created by sword draws](https://yiff-party.com/yiff/the-elder-scrolls-and-etc-created-by-sword-draws/)
+[fan character (kinktober and etc) created by alna fratcher](https://yiff-party.com/yiff/fan-character-kinktober-and-etc-created-by-alna-fratcher/)
 
-0 93 0
+0 91 0
 
 October 29, 2024
 
-[](https://yiff-party.com/yiff/loona-helluva-boss-and-etc-created-by-tozamtr/)
+[](https://yiff-party.com/yiff/frisk-kris-and-ralsei-undertale-series-and-etc-created-by-desertkaiju/)
 
-[loona (helluva boss and etc) created by tozamtr](https://yiff-party.com/yiff/loona-helluva-boss-and-etc-created-by-tozamtr/)
+[frisk, kris, and ralsei (undertale (series) and etc) created by desertkaiju](https://yiff-party.com/yiff/frisk-kris-and-ralsei-undertale-series-and-etc-created-by-desertkaiju/)
 
 0 2 0
 
