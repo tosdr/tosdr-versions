@@ -1,7 +1,5 @@
 ![](https://www.facebook.com/tr?id=1513851155447195&ev=PageView&noscript=1)       
 
-[Guided Focus Sessions (Live!)](https://workfrom.com/@rescuetime)
-
 [![](https://assets.rescuetime.com/assets/logo-wordmark-53h-096d80aad6488c87173f58a24d91549184e4898a91b23cd1a93c5edf3e255a61.svg)](https://www.rescuetime.com/)
 
 * [![](https://assets.rescuetime.com/assets/logo-wordmark-53h-096d80aad6488c87173f58a24d91549184e4898a91b23cd1a93c5edf3e255a61.svg)](https://www.rescuetime.com/)
@@ -9,8 +7,9 @@
 * [Timesheets](https://timesheets.rescuetime.com/)
 * [Blog](https://blog.rescuetime.com/)
 
+* [Guided Focus Sessions](https://workfrom.com/browse/jwgseb)
 * [Log In](https://www.rescuetime.com/login)
-* [Guided Focus Sessions (Live!)](https://workfrom.com/@rescuetime)
+
 * [Try For Free](https://www.rescuetime.com/unified/users/new)
 * [Try For Free](https://www.rescuetime.com/unified/teams/new)
 
