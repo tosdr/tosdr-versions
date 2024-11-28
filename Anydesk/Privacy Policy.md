@@ -33,7 +33,7 @@
     
     [Partner Community](https://anydesk.com/en/partners) [Become a Partner](https://anydesk.com/en/become-a-partner) [Partner Locator](https://anydesk.com/en/partners/partner-locator) [Integration Partners](https://anydesk.com/en/partners/integration)
     
-* [Company![](/_static/icons/white/bold/arrow-down-1-b9dbb9.svg) ![](/_static/icons/black/medium/arrow-down-1-38c71c.svg)](#) 
+* [Company![](/_static/icons/white/bold/arrow-down-1-ec7f5c.svg) ![](/_static/icons/black/medium/arrow-down-1-38c71c.svg)](#) 
     
     Company
     
