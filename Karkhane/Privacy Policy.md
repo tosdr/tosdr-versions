@@ -28,15 +28,6 @@ Privacy Policy
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![](https://karkhane.org/app/uploads/2024/10/1-95x65.jpg)](https://karkhane.org/5958/is_there_an_accident/)[حادثه‌ای در کار است یا نه؟!](https://karkhane.org/5958/is_there_an_accident/)
-* [![پوستر فیلم «سازمانده»-پهن](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![پوستر فیلم «سازمانده»-پهن](https://karkhane.org/app/uploads/2020/04/organizer-movie-poster-wide-95x65.jpg)](https://karkhane.org/1322/%d9%81%db%8c%d9%84%d9%85-%d8%b3%d8%a7%d8%b2%d9%85%d8%a7%d9%86%d8%af%d9%87/)[یادداشتی بر فیلم «سازمانده»](https://karkhane.org/1322/%d9%81%db%8c%d9%84%d9%85-%d8%b3%d8%a7%d8%b2%d9%85%d8%a7%d9%86%d8%af%d9%87/)
-* [![فیلم کودک و استثمار](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![فیلم کودک و استثمار](https://karkhane.org/app/uploads/2020/06/kudak-o-estesmār-featured-95x65.jpg)](https://karkhane.org/1981/%da%a9%d9%88%d8%af%da%a9%d8%a7%d9%86-%da%a9%d8%a7%d8%b1%da%af%d8%b1-%db%8c%d8%a7%d8%af%d8%af%d8%a7%d8%b4%d8%aa%db%8c-%d8%a8%d8%b1-%d9%81%db%8c%d9%84%d9%85-%da%a9%d9%88%d8%af%da%a9-%d9%88-%d8%a7/)[کودکان کارگر: یادداشتی بر فیلم «کودک و استثمار»](https://karkhane.org/1981/%da%a9%d9%88%d8%af%da%a9%d8%a7%d9%86-%da%a9%d8%a7%d8%b1%da%af%d8%b1-%db%8c%d8%a7%d8%af%d8%af%d8%a7%d8%b4%d8%aa%db%8c-%d8%a8%d8%b1-%d9%81%db%8c%d9%84%d9%85-%da%a9%d9%88%d8%af%da%a9-%d9%88-%d8%a7/)
-* [![inflation and capitalism](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![inflation and capitalism](https://karkhane.org/app/uploads/2024/02/Capit-95x65.jpeg)](https://karkhane.org/5376/nirooyekar-dastmozad/)[نیروی کار، ‌دستمزد و تورم](https://karkhane.org/5376/nirooyekar-dastmozad/)
 * [![چه باید بخوریم؟](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![چه باید بخوریم؟](https://karkhane.org/app/uploads/2024/04/Fat-Capitalist-95x65.jpg)](https://karkhane.org/5433/what-to-eat/)[چه باید بخوریم؟](https://karkhane.org/5433/what-to-eat/)
@@ -46,15 +37,24 @@ Privacy Policy
 * [![در کارخانه‌ی اسنوا چه می‌گذرد؟](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![در کارخانه‌ی اسنوا چه می‌گذرد؟](https://karkhane.org/app/uploads/2021/12/dar-snowa-che-migozarad-95x65.jpg)](https://karkhane.org/3309/%d8%af%d8%b1-%da%a9%d8%a7%d8%b1%d8%ae%d8%a7%d9%86%d9%87%db%8c-%d8%a7%d8%b3%d9%86%d9%88%d8%a7-%da%86%d9%87-%d9%85%db%8c%da%af%d8%b0%d8%b1%d8%af%d8%9f/)[در کارخانه‌ی اسنوا چه می‌گذرد؟](https://karkhane.org/3309/%d8%af%d8%b1-%da%a9%d8%a7%d8%b1%d8%ae%d8%a7%d9%86%d9%87%db%8c-%d8%a7%d8%b3%d9%86%d9%88%d8%a7-%da%86%d9%87-%d9%85%db%8c%da%af%d8%b0%d8%b1%d8%af%d8%9f/)
-* [![کارگری‌نویسی: همبستگی و پیوستگی در راه مبارزه‌ی طبقاتی](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![پوستر فیلم «سازمانده»-پهن](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![کارگری‌نویسی: همبستگی و پیوستگی در راه مبارزه‌ی طبقاتی](https://karkhane.org/app/uploads/2021/02/1-95x65.jpg)](https://karkhane.org/2483/%da%a9%d8%a7%d8%b1%da%af%d8%b1%db%8c%d9%86%d9%88%db%8c%d8%b3%db%8c-%d9%87%d9%85%d8%a8%d8%b3%d8%aa%da%af%db%8c-%d9%88-%d9%be%db%8c%d9%88%d8%b3%d8%aa%da%af%db%8c-%d8%af%d8%b1-%d8%b1%d8%a7/)[کارگری‌نویسی: همبستگی و پیوستگی در راه مبارزه‌ی طبقاتی](https://karkhane.org/2483/%da%a9%d8%a7%d8%b1%da%af%d8%b1%db%8c%d9%86%d9%88%db%8c%d8%b3%db%8c-%d9%87%d9%85%d8%a8%d8%b3%d8%aa%da%af%db%8c-%d9%88-%d9%be%db%8c%d9%88%d8%b3%d8%aa%da%af%db%8c-%d8%af%d8%b1-%d8%b1%d8%a7/)
-* [![عدالت‌خواهانِ جوان (۱)؛ مشاورانِ اقتصاد مقاومتی و مبلغانِ تولید](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    ![پوستر فیلم «سازمانده»-پهن](https://karkhane.org/app/uploads/2020/04/organizer-movie-poster-wide-95x65.jpg)](https://karkhane.org/1322/%d9%81%db%8c%d9%84%d9%85-%d8%b3%d8%a7%d8%b2%d9%85%d8%a7%d9%86%d8%af%d9%87/)[یادداشتی بر فیلم «سازمانده»](https://karkhane.org/1322/%d9%81%db%8c%d9%84%d9%85-%d8%b3%d8%a7%d8%b2%d9%85%d8%a7%d9%86%d8%af%d9%87/)
+* [![فیلم کودک و استثمار](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![عدالت‌خواهانِ جوان (۱)؛ مشاورانِ اقتصاد مقاومتی و مبلغانِ تولید](https://karkhane.org/app/uploads/2023/04/edalatxahan-e-javan-1-95x65.jpg)](https://karkhane.org/4909/edalatxahan-e-javan-1/)[عدالت‌خواهان جوان (۱)؛ مشاورانِ اقتصاد مقاومتی و مبلغانِ تولید](https://karkhane.org/4909/edalatxahan-e-javan-1/)
-* [![خودکشی و استثمار: بر دوراهیِ مقاومت و تسلیم](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    ![فیلم کودک و استثمار](https://karkhane.org/app/uploads/2020/06/kudak-o-estesmār-featured-95x65.jpg)](https://karkhane.org/1981/%da%a9%d9%88%d8%af%da%a9%d8%a7%d9%86-%da%a9%d8%a7%d8%b1%da%af%d8%b1-%db%8c%d8%a7%d8%af%d8%af%d8%a7%d8%b4%d8%aa%db%8c-%d8%a8%d8%b1-%d9%81%db%8c%d9%84%d9%85-%da%a9%d9%88%d8%af%da%a9-%d9%88-%d8%a7/)[کودکان کارگر: یادداشتی بر فیلم «کودک و استثمار»](https://karkhane.org/1981/%da%a9%d9%88%d8%af%da%a9%d8%a7%d9%86-%da%a9%d8%a7%d8%b1%da%af%d8%b1-%db%8c%d8%a7%d8%af%d8%af%d8%a7%d8%b4%d8%aa%db%8c-%d8%a8%d8%b1-%d9%81%db%8c%d9%84%d9%85-%da%a9%d9%88%d8%af%da%a9-%d9%88-%d8%a7/)
+* [![inflation and capitalism](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![خودکشی و استثمار: بر دوراهیِ مقاومت و تسلیم](https://karkhane.org/app/uploads/2021/04/xodkosi-o-estesmar-95x65.jpg)](https://karkhane.org/2592/%d8%ae%d9%88%d8%af%da%a9%d8%b4%db%8c-%d9%88-%d8%a7%d8%b3%d8%aa%d8%ab%d9%85%d8%a7%d8%b1/)[خودکشی و استثمار: بر دوراهیِ مقاومت و تسلیم](https://karkhane.org/2592/%d8%ae%d9%88%d8%af%da%a9%d8%b4%db%8c-%d9%88-%d8%a7%d8%b3%d8%aa%d8%ab%d9%85%d8%a7%d8%b1/)
+    ![inflation and capitalism](https://karkhane.org/app/uploads/2024/02/Capit-95x65.jpeg)](https://karkhane.org/5376/nirooyekar-dastmozad/)[نیروی کار، ‌دستمزد و تورم](https://karkhane.org/5376/nirooyekar-dastmozad/)
+* [![فصل مشترک سرگذشت‌های متفاوت ما یک چیز است: کارگر شدن، کارگر بودن](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![فصل مشترک سرگذشت‌های متفاوت ما یک چیز است: کارگر شدن، کارگر بودن](https://karkhane.org/app/uploads/2020/09/fasl-e-mostarak-e-ma-kargar-sodan-o-kargar-budan-95x65.jpg)](https://karkhane.org/2167/%da%a9%d8%a7%d8%b1%da%af%d8%b1-%d8%b4%d8%af%d9%86-%da%a9%d8%a7%d8%b1%da%af%d8%b1-%d8%a8%d9%88%d8%af%d9%86/)[فصل مشترک سرگذشت‌های متفاوت ما یک چیز است: کارگر شدن، کارگر بودن](https://karkhane.org/2167/%da%a9%d8%a7%d8%b1%da%af%d8%b1-%d8%b4%d8%af%d9%86-%da%a9%d8%a7%d8%b1%da%af%d8%b1-%d8%a8%d9%88%d8%af%d9%86/)
+* [![کتابچه‌ی راهنمای قراردادِ کار و مزد 1400](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![کتابچه‌ی راهنمای قراردادِ کار و مزد 1400](https://karkhane.org/app/uploads/2021/06/ketabce-rahnama-e-qarardad-e-kar-o-mozd-1400-95x65.jpg)](https://karkhane.org/2865/%da%a9%d8%aa%d8%a7%d8%a8%da%86%d9%87-%d8%b1%d8%a7%d9%87%d9%86%d9%85%d8%a7%db%8c-%d9%82%d8%b1%d8%a7%d8%b1%d8%af%d8%a7%d8%af-%da%a9%d8%a7%d8%b1-%d9%88-%d9%85%d8%b2%d8%af-1400/)[کتابچه‌ی راهنمای قرارداد کار و مزد ۱۴۰۰](https://karkhane.org/2865/%da%a9%d8%aa%d8%a7%d8%a8%da%86%d9%87-%d8%b1%d8%a7%d9%87%d9%86%d9%85%d8%a7%db%8c-%d9%82%d8%b1%d8%a7%d8%b1%d8%af%d8%a7%d8%af-%da%a9%d8%a7%d8%b1-%d9%88-%d9%85%d8%b2%d8%af-1400/)
+* [![کارگری می اندیشد](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![کارگری می اندیشد](https://karkhane.org/app/uploads/2024/05/Worker_b-95x65.jpg)](https://karkhane.org/5497/jedal_workers/)[چرا تلویزیون “جدال” سعی دارد “کارفروش” را به جای کارگر بنشاند؟](https://karkhane.org/5497/jedal_workers/)
 
 * [Facebook](https://www.facebook.com/--107914377686249)
 * [YouTube](https://www.youtube.com/channel/UCnz481dcaM1p7c3oDR5Ot9A)
