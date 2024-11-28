@@ -28,9 +28,9 @@ Boost your application with PLUS!
 
 Continue to My Account
 
-![Future Fest 2024 Expo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+![Zuku](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![Future Fest 2024 Expo](https://d29uiur3lqifhy.cloudfront.net/Production/SmsWebsiteAssets/webp/nav-future-fest-2024.webp)
+![Zuku](https://d29uiur3lqifhy.cloudfront.net/Production/SmsWebsiteAssets/webp/zuku-ad-banner-mobile.webp)
 
 * [FAQs](https://www.lockandstock.app/faqs)
 * [Partner With Us](https://www.lockandstock.app/partner-with-us)
