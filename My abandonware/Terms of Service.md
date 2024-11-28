@@ -107,11 +107,11 @@ Top downloads
 
 Latest releases
 
+* [Holotz's Castle](https://www.myabandonware.com/game/holotz-s-castle-tbq)
+* [King](https://www.myabandonware.com/game/king-tbp)
 * [Kimaru!](https://www.myabandonware.com/game/kimaru-tbo)
 * [Alhademic Sniper](https://www.myabandonware.com/game/alhademic-sniper-tbn)
 * [Sega Swirl](https://www.myabandonware.com/game/sega-swirl-tbk)
-* [O-DEN2000](https://www.myabandonware.com/game/o-den2000-tbh)
-* [Rakuen no Guardian](https://www.myabandonware.com/game/rakuen-no-guardian-tbg)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
