@@ -71,8 +71,6 @@
     
 * [Try now](https://cookie-script.com/register "Try now")
 
-  
-
 Privacy Policy 
 ===============
 
