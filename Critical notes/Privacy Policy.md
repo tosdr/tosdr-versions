@@ -35,7 +35,7 @@ If you have any questions regarding this privacy policy, please send an email to
 
 * [Team Critical Notes](https://www.loopwerk.io/)
 * [Subscription / Pricing](https://www.critical-notes.com/subscriptions)
-* [\[email protected\]](https://www.critical-notes.com/cdn-cgi/l/email-protection)[](https://dice.camp/@CriticalNotes "Mastodon")[](https://hachyderm.io/@kevinrenskers "Mastodon")
+* [\[email protected\]](https://www.critical-notes.com/cdn-cgi/l/email-protection)[](https://bsky.app/profile/critical-notes.com "Bluesky")[](https://dice.camp/@CriticalNotes "Mastodon")[](https://hachyderm.io/@kevinrenskers "Mastodon")
 
 * Made with 🧡 using  
     [SvelteKit](https://kit.svelte.dev/) & [Django](https://www.djangoproject.com/).
