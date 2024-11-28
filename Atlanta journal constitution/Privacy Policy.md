@@ -1,5 +1,3 @@
-[Breaking: 2 DeKalb officers shot at condo complex near Panthersville](https://www.ajc.com/news/crime/2-dekalb-officers-shot-near-panthersville/OWKNINMS7RABBC7ZV5MJEIYGRM/)
-
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1836)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1836)](https://www.ajc.com/)
 
 Log In
@@ -16,7 +14,6 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
-* [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-wild-turkey-woes/JTH4PAP6UJFZ3MDNFDZAQ6KTSI/)
 * [Politically Georgia](https://www.ajc.com/politics/politically-georgia/)
 * [Holiday Guide](https://www.ajc.com/things-to-do/atlanta-winter-guide/)
 * [UATL](https://www.ajc.com/uatl/)
