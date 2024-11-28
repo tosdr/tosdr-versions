@@ -635,11 +635,13 @@ Share This Article
 
  
 
-[![The History of Thanksgiving for Students](https://www.safesearchkids.com/wp-content/uploads/2024/11/Family-Thanksgiving-Dinner.webp)](https://www.safesearchkids.com/the-history-of-thanksgiving/)
+* [Amazon Prime for Students](https://www.safesearchkids.com/amazon-prime-offer-for-young-adults-and-college-students/)
+
+[![Parental Control Sale Black Friday](https://www.safesearchkids.com/wp-content/uploads/2024/11/Parental-Controls-50-OFF.webp)](https://www.awin1.com/cread.php?awinmid=7874&awinaffid=1039603&ued=https%3A%2F%2Fwww.qustodio.com%2Fen%2Fpremium%2F)
 
 ### 
 
-[The History of Thanksgiving](https://www.safesearchkids.com/the-history-of-thanksgiving/)
+[Black Friday Weekend](https://www.safesearchkids.com/best-parental-control-app/)
 
 ### Article Categories
 
@@ -655,19 +657,17 @@ Share This Article
 * [Well-Being](https://www.safesearchkids.com/well-being/)
 * [Human Interest](https://www.safesearchkids.com/well-being/human-interest/)
 
-[![Parental Control Sale Black Friday](https://www.safesearchkids.com/wp-content/uploads/2024/11/Parental-Controls-50-OFF.webp)](https://www.awin1.com/cread.php?awinmid=7874&awinaffid=1039603&ued=https%3A%2F%2Fwww.qustodio.com%2Fen%2Fpremium%2F)
-
-### 
-
-[Black Friday Weekend](https://www.safesearchkids.com/best-parental-control-app/)
-
 [![Safe Internet for Schools](https://www.safesearchkids.com/wp-content/uploads/2022/05/Kids-in-Classroom-Searching-the-Web-Safely.jpg)](https://www.safesearchkids.com/internet-filtering/)
 
 ### 
 
 [Safe Internet for Schools](https://www.safesearchkids.com/internet-filtering/)
 
-* [Amazon Prime for Students](https://www.safesearchkids.com/amazon-prime-offer-for-young-adults-and-college-students/)
+[![The History of Thanksgiving for Students](https://www.safesearchkids.com/wp-content/uploads/2024/11/Family-Thanksgiving-Dinner.webp)](https://www.safesearchkids.com/the-history-of-thanksgiving/)
+
+### 
+
+[The History of Thanksgiving](https://www.safesearchkids.com/the-history-of-thanksgiving/)
 
 ### Parenting and Well-Being
 
