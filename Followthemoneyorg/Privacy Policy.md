@@ -66,9 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![pro-guncontrol](/assets/logos/NRAGunGIvingProCon201112.png)](http://www.followthemoney.org/research/institute-research/nra-direct-contributions-decline)
-
-Pro-gun-control was dramatically outspent, 2011-12.
+[![2013 and 2014: Money and Incumbency in State Legislative Races](/assets/Images/teasers/full/SuccessForContested2001-14.png)](http://www.followthemoney.org/research/institute-reports/2013-and-2014-money-and-incumbency-in-state-legislative-races/)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
