@@ -34,6 +34,7 @@ Complete Checkout
           
 
  * [Subscribe & Save](https://magicalbutter.com/collections/subscriptions)
+* [Sales](https://magicalbutter.com/collections/all)
 * [Bundle Deals](https://magicalbutter.com/pages/bundles)
     
     Bundle Deals
@@ -154,6 +155,7 @@ Complete Checkout
 * [LinkedIn iconLinkedIn](https://www.linkedin.com/company/magicalbutter-com/)[![Magical Brands](//magicalbutter.com/cdn/shop/files/magical-logo-dark_744f32d7-ce1c-488a-9e9c-d38b758f3c11.png?v=1669924087)](https://magicalbutter.com/)
 
 * [Subscribe & Save](https://magicalbutter.com/collections/subscriptions)
+* [Sales](https://magicalbutter.com/collections/all)
 * [Bundle Deals](https://magicalbutter.com/pages/bundles)
     
     * [The OG Bundles](https://magicalbutter.com/pages/bundles)
