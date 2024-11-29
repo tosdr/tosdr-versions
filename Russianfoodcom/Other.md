@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_9.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_8.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -149,8 +149,6 @@
 Сейчас читают
 
 * [Запечённый картофель, фаршированный сыром и кукурузой](https://www.russianfood.com/recipes/recipe.php?rid=166207)
-* [Куриный суп с кукурузной крупой и зеленым горошком](https://www.russianfood.com/recipes/recipe.php?rid=171142)
-* [Постный рассольник с рисом и грибами](https://www.russianfood.com/recipes/recipe.php?rid=168560)
 * [Сырный суп с овощами](https://www.russianfood.com/recipes/recipe.php?rid=171038)
 
 |     |
@@ -242,7 +240,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_7 _![](/images/blank.gif)_0 |     | [1](https://www.russianfood.com/recipes/recipe.php?rid=174872#comments) | 28.11.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_8 _![](/images/blank.gif)_0 |     | [1](https://www.russianfood.com/recipes/recipe.php?rid=174872#comments) | 28.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -455,10 +453,10 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/711/alt1_710152.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=172679) | [![](//img1.russianfood.com/dycontent/images_upl/707/alt1_706753.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=172725) | [![](//img1.russianfood.com/dycontent/images_upl/726/alt1_725953.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=172626) | [![](//img1.russianfood.com/dycontent/images_upl/736/alt1_735382.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173317) | [![](//img1.russianfood.com/dycontent/images_upl/756/alt1_755654.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=172820) | [![](//img1.russianfood.com/dycontent/images_upl/711/alt1_710214.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=172684) | [![](//img1.russianfood.com/dycontent/images_upl/750/alt1_749952.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174598) |
-| [Песочные рогалики "Конфетки" с ирисками](https://www.russianfood.com/recipes/recipe.php?rid=172679) | [Суп с говядиной, охотничьими колбасками и грибами](https://www.russianfood.com/recipes/recipe.php?rid=172725) | [Сливочный суп с грибами и фрикадельками](https://www.russianfood.com/recipes/recipe.php?rid=172626) | [Зелёный борщ со шпинатом](https://www.russianfood.com/recipes/recipe.php?rid=173317) | [Суп "Чизбургер"](https://www.russianfood.com/recipes/recipe.php?rid=172820) | [Сливочный суп с мясным фаршем и солёными огурцами](https://www.russianfood.com/recipes/recipe.php?rid=172684) | [Булочки с творогом, печёным сельдереем и маринованными огурцами](https://www.russianfood.com/recipes/recipe.php?rid=174598) |
-| [![](//img1.russianfood.com/dycontent/images_upl/686/alt1_685263.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=171675) | [![](//img1.russianfood.com/dycontent/images_upl/754/alt1_753740.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174553) | [![](//img1.russianfood.com/dycontent/images_upl/753/alt1_752947.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174551) |
-| [Суп с грибами, тыквой и булгуром](https://www.russianfood.com/recipes/recipe.php?rid=171675) | [Кексы "Тёмная ночь" с сырным кремом](https://www.russianfood.com/recipes/recipe.php?rid=174553) | [Чечевичная пицца с грибами, перцем и кукурузой](https://www.russianfood.com/recipes/recipe.php?rid=174551) |
+| [![](//img1.russianfood.com/dycontent/images_upl/711/alt1_710152.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=172679) | [![](//img1.russianfood.com/dycontent/images_upl/736/alt1_735382.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173317) | [![](//img1.russianfood.com/dycontent/images_upl/726/alt1_725953.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=172626) | [![](//img1.russianfood.com/dycontent/images_upl/707/alt1_706753.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=172725) | [![](//img1.russianfood.com/dycontent/images_upl/753/alt1_752947.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174551) | [![](//img1.russianfood.com/dycontent/images_upl/750/alt1_749952.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174598) | [![](//img1.russianfood.com/dycontent/images_upl/686/alt1_685263.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=171675) |
+| [Песочные рогалики "Конфетки" с ирисками](https://www.russianfood.com/recipes/recipe.php?rid=172679) | [Зелёный борщ со шпинатом](https://www.russianfood.com/recipes/recipe.php?rid=173317) | [Сливочный суп с грибами и фрикадельками](https://www.russianfood.com/recipes/recipe.php?rid=172626) | [Суп с говядиной, охотничьими колбасками и грибами](https://www.russianfood.com/recipes/recipe.php?rid=172725) | [Чечевичная пицца с грибами, перцем и кукурузой](https://www.russianfood.com/recipes/recipe.php?rid=174551) | [Булочки с творогом, печёным сельдереем и маринованными огурцами](https://www.russianfood.com/recipes/recipe.php?rid=174598) | [Суп с грибами, тыквой и булгуром](https://www.russianfood.com/recipes/recipe.php?rid=171675) |
+| [![](//img1.russianfood.com/dycontent/images_upl/754/alt1_753740.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174553) | [![](//img1.russianfood.com/dycontent/images_upl/711/alt1_710214.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=172684) | [![](//img1.russianfood.com/dycontent/images_upl/756/alt1_755654.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=172820) |
+| [Кексы "Тёмная ночь" с сырным кремом](https://www.russianfood.com/recipes/recipe.php?rid=174553) | [Сливочный суп с мясным фаршем и солёными огурцами](https://www.russianfood.com/recipes/recipe.php?rid=172684) | [Суп "Чизбургер"](https://www.russianfood.com/recipes/recipe.php?rid=172820) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -475,4 +473,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(129)
+(109)
