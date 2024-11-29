@@ -42,13 +42,13 @@ Sök Meny
         
 * [Konfirmation](https://www.svenskakyrkan.se/konfirmation)
     
-    * [Hitta konfirmation](https://www.svenskakyrkan.se/konfirmation/hitta-konfirmation)
-        
     * [Konfirmeras på andra språk](https://www.svenskakyrkan.se/konfirmeras-pa-finska-samiska-eller-teckensprak)
         
         * [Konfirmation för dig som är teckenspråkig](https://www.svenskakyrkan.se/konfirmation/teckensprak)
             
     * [Konfirmeras som vuxen](https://www.svenskakyrkan.se/konfirmation/konfirmeras-som-vuxen)
+        
+    * [Hitta konfirmation](https://www.svenskakyrkan.se/konfirmation/hitta-konfirmation)
         
     * [Vanliga frågor om konfirmation](https://www.svenskakyrkan.se/konfirmation/vanliga-fragor-och-svar)
         
@@ -920,7 +920,7 @@ Sök Meny
                 
             * [Barnkonsekvensanalys](https://www.svenskakyrkan.se/barnkonsekvensanalys)
                 
-            * [Barnkonventionen i Svenska kyrkan](https://www.svenskakyrkan.se/barnkonventionen-i-svenska-kyrkan/)
+            * [Barnkonventionen i Svenska kyrkan](https://www.svenskakyrkan.se/barnkonventionen-i-svenska-kyrkan)
                 
             * [Konfessionella friskolor](https://www.svenskakyrkan.se/konfessionella-friskolor)
                 
