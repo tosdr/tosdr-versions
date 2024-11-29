@@ -694,6 +694,7 @@ Bitrix24
 * [Contact us](https://www.bitrix24.com/about/contacts.php)
 * [In the press](https://www.bitrix24.com/about/press.php)
 * [Sustainability](https://www.bitrix24.com/pr/sustainability.php)
+* [Cyber Weekend Sale 2024](https://www.bitrix24.com/promo/sales/cyber-weekend-sale-2024/)
 
 Support
 
