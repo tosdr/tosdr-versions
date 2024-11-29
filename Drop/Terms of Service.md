@@ -9,7 +9,7 @@ We slash the prices, you crash the party.
 
 SHOP NOW
 
-_keyboard\_arrow\_right_](https://drop.com/talk/142147/black-friday-bash-2024)
+_keyboard\_arrow\_right_](https://drop.com/featured/black-friday)
 
 Free Standard Shipping in the US on orders over $99
 
@@ -52,7 +52,7 @@ new
 
 Collections
 
-* [Black Friday Bash 2024](https://drop.com/talk/142147/black-friday-bash-2024)
+* [Black Friday Bash 2024](https://drop.com/featured/black-friday)
 * [Drop + The Lord of the Rings™](https://drop.com/featured/lotr)
 * [DCX-Profile Keycaps](https://drop.com/featured/dcx-keycaps)
 * [Customize Your CSTM80 Keyboard](https://drop.com/all-communities/drops/CSTM80-Keyboard-Collection)
