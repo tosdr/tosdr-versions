@@ -1,6 +1,6 @@
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=11398210&cs_ucfr=1&cv=4.4.0&cj=1) />
 
-November 25, 2024[e-Paper](https://epaper.thehindu.com/reader?utm_source=Hindu&utm_medium=Menu&utm_campaign=Header&_gl=1*1u4uvwa*_gcl_au*NDk4ODM2Nzc2LjE3MjUwNzc4OTIuNTIxNjMwNzI4LjE3MjU0NDM0NDkuMTcyNTQ0MzQ0OQ..)
+November 28, 2024[e-Paper](https://epaper.thehindu.com/reader?utm_source=Hindu&utm_medium=Menu&utm_campaign=Header&_gl=1*1u4uvwa*_gcl_au*NDk4ODM2Nzc2LjE3MjUwNzc4OTIuNTIxNjMwNzI4LjE3MjU0NDM0NDkuMTcyNTQ0MzQ0OQ..)
 
 [![The Hindu Logo](https://www.thehindu.com/theme/images/th-online/thehindu-logo.svg "The Hindu Logo")](https://www.thehindu.com/)
 
@@ -10,7 +10,7 @@ LOGIN[Account](https://www.thehindu.com/myaccount/)
 
 [](https://www.thehindu.com/search/)
 
-[India](https://www.thehindu.com/news/national/) [World](https://www.thehindu.com/news/international/) [Movies](https://www.thehindu.com/entertainment/movies/) [Sport](https://www.thehindu.com/sport/) [Data](https://www.thehindu.com/data/) [Health](https://www.thehindu.com/sci-tech/health/) [Opinion](https://www.thehindu.com/opinion/) [Sci-Tech](https://www.thehindu.com/sci-tech/) [Business](https://www.thehindu.com/business/) [Premium](https://www.thehindu.com/premium/)
+[India](https://www.thehindu.com/news/national/) [World](https://www.thehindu.com/news/international/) [Movies](https://www.thehindu.com/entertainment/movies/) [Sport](https://www.thehindu.com/sport/) [Data](https://www.thehindu.com/data/) [Health](https://www.thehindu.com/sci-tech/health/) [Opinion](https://www.thehindu.com/opinion/) [Science](https://www.thehindu.com/sci-tech/science/) [Business](https://www.thehindu.com/business/) [Premium](https://www.thehindu.com/premium/)
 
 [Live Now](https://www.thehindu.com/topic/live-news/) [Agriculture](https://www.thehindu.com/sci-tech/agriculture/)
 
@@ -27,8 +27,6 @@ TOPICS
 NEWSLETTER[![](https://www.thehindu.com/static/content/newsletter/nl-card/13_thehinduonbooks.jpg)
 
 The Hindu On Books Books of the week, reviews, excerpts, new titles and features.](https://www.thehindu.com/newsletter/the-hindu-on-books/?utm_source=books_preview_link&utm_medium=website_nl-sub_page&utm_campaign=newsletter_signup)[SEE ALL NEWSLETTERS](https://www.thehindu.com/newsletter-subscription/?utm_source=site_menu&utm_medium=website&utm_campaign=newsletter_signup)
-
-[Brandhub](https://www.thehindu.com/brandhub/)
 
 Business
 
@@ -108,7 +106,7 @@ SECTION
 
 [Life & Style](https://www.thehindu.com/life-and-style/) [Fashion](https://www.thehindu.com/life-and-style/fashion/) [Fitness](https://www.thehindu.com/life-and-style/fitness/) [Homes and gardens](https://www.thehindu.com/life-and-style/homes-and-gardens/) [Luxury](https://www.thehindu.com/life-and-style/luxury/) [Motoring](https://www.thehindu.com/life-and-style/motoring/) [Travel](https://www.thehindu.com/life-and-style/travel/)
 
-[Litfest](https://www.thehindu.com/litfest/)
+[Lit For Life](https://www.thehindu.com/litfest/)
 
 News
 
@@ -168,7 +166,7 @@ States
 
 SECTION
 
-[States](https://www.thehindu.com/news/states/) [Andhra Pradesh](https://www.thehindu.com/news/national/andhra-pradesh/) [Karnataka](https://www.thehindu.com/news/national/karnataka/) [Kerala](https://www.thehindu.com/news/national/kerala/) [Maharashtra](https://www.thehindu.com/news/national/maharashtra/) [Tamil Nadu](https://www.thehindu.com/news/national/tamil-nadu/) [Telangana](https://www.thehindu.com/news/national/telangana/) [West Bengal](https://www.thehindu.com/news/national/west-bengal/)
+[States](https://www.thehindu.com/news/states/) [Andhra Pradesh](https://www.thehindu.com/news/national/andhra-pradesh/) [Karnataka](https://www.thehindu.com/news/national/karnataka/) [Kerala](https://www.thehindu.com/news/national/kerala/) [Tamil Nadu](https://www.thehindu.com/news/national/tamil-nadu/) [Telangana](https://www.thehindu.com/news/national/telangana/) [Andaman and Nicobar Islands](https://www.thehindu.com/news/national/andaman-and-nicobar-islands/) [Arunachal Pradesh](https://www.thehindu.com/news/national/arunachal-pradesh/) [Assam](https://www.thehindu.com/news/national/assam/) [Bihar](https://www.thehindu.com/news/national/bihar/) [Chandigarh](https://www.thehindu.com/news/national/chandigarh/) [Chhattisgarh](https://www.thehindu.com/news/national/chhattisgarh/) [Daman, Diu, Dadra and Nagar Haveli](https://www.thehindu.com/news/national/daman-diu-dadra-and-nagar-haveli/) [Goa](https://www.thehindu.com/news/national/goa/) [Gujarat](https://www.thehindu.com/news/national/gujarat/) [Haryana](https://www.thehindu.com/news/national/haryana/) [Himachal Pradesh](https://www.thehindu.com/news/national/himachal-pradesh/) [Jammu and Kashmir](https://www.thehindu.com/news/national/jammu-and-kashmir/) [Jharkhand](https://www.thehindu.com/news/national/jharkhand/) [Lakshadweep](https://www.thehindu.com/news/national/lakshadweep/) [Ladakh](https://www.thehindu.com/news/national/ladakh/) [Madhya Pradesh](https://www.thehindu.com/news/national/madhya-pradesh/) [Maharashtra](https://www.thehindu.com/news/national/maharashtra/) [Manipur](https://www.thehindu.com/news/national/manipur/) [Meghalaya](https://www.thehindu.com/news/national/meghalaya/) [Mizoram](https://www.thehindu.com/news/national/mizoram/) [Nagaland](https://www.thehindu.com/news/national/nagaland/) [Odisha](https://www.thehindu.com/news/national/odisha/) [Other States](https://www.thehindu.com/news/national/other-states/) [Punjab](https://www.thehindu.com/news/national/punjab/) [Rajasthan](https://www.thehindu.com/news/national/rajasthan/) [Sikkim](https://www.thehindu.com/news/national/sikkim/) [Tripura](https://www.thehindu.com/news/national/tripura/) [Uttar Pradesh](https://www.thehindu.com/news/national/uttar-pradesh/) [Uttarakhand](https://www.thehindu.com/news/national/uttarakhand/) [West Bengal](https://www.thehindu.com/news/national/west-bengal/)
 
 TOPICS
 
@@ -188,19 +186,21 @@ NEWSLETTER[![](https://www.thehindu.com/static/content/newsletter/nl-card/11_tod
 
 Today's Cache Your download of the top 5 technology stories of the day.](https://www.thehindu.com/newsletter/newsletter-today-cache/?utm_source=todays_cache_preview_link&utm_medium=website_nl-sub_page&utm_campaign=newsletter_signup)[SEE ALL NEWSLETTERS](https://www.thehindu.com/newsletter-subscription/?utm_source=site_menu&utm_medium=website&utm_campaign=newsletter_signup)
 
+[Brandhub](https://www.thehindu.com/brandhub/)
+
 Connect with us[](https://whatsapp.com/channel/0029VaAvwQJ90x34WZ6FDg36 "WhatsApp")[](https://twitter.com/The_Hindu "Twitter")[](https://www.facebook.com/thehindu "Facebook")[](https://www.instagram.com/the_hindu/?ref=badge "Instagram")[](https://www.linkedin.com/school/the-hindu/ "Linkedin")[](https://www.youtube.com/user/The1878Hindu "Youtube")[](https://open.spotify.com/show/5yESTCj0iikA81EP3uXkQC "Spotify")[](https://t.me/THnewsupdates "Telegram")
 
-November 25, 2024[e-Paper](https://epaper.thehindu.com/reader?utm_source=Hindu&utm_medium=Menu&utm_campaign=Header&_gl=1*1u4uvwa*_gcl_au*NDk4ODM2Nzc2LjE3MjUwNzc4OTIuNTIxNjMwNzI4LjE3MjU0NDM0NDkuMTcyNTQ0MzQ0OQ..)
+November 28, 2024[e-Paper](https://epaper.thehindu.com/reader?utm_source=Hindu&utm_medium=Menu&utm_campaign=Header&_gl=1*1u4uvwa*_gcl_au*NDk4ODM2Nzc2LjE3MjUwNzc4OTIuNTIxNjMwNzI4LjE3MjU0NDM0NDkuMTcyNTQ0MzQ0OQ..)
 
 [Search for topics, people, articles...](https://www.thehindu.com/search/)
 
-[India](https://www.thehindu.com/news/national/) [World](https://www.thehindu.com/news/international/) [Movies](https://www.thehindu.com/entertainment/movies/) [Sport](https://www.thehindu.com/sport/) [Data](https://www.thehindu.com/data/) [Health](https://www.thehindu.com/sci-tech/health/) [Opinion](https://www.thehindu.com/opinion/) [Sci-Tech](https://www.thehindu.com/sci-tech/) [Business](https://www.thehindu.com/business/) [Premium](https://www.thehindu.com/premium/)
+[India](https://www.thehindu.com/news/national/) [World](https://www.thehindu.com/news/international/) [Movies](https://www.thehindu.com/entertainment/movies/) [Sport](https://www.thehindu.com/sport/) [Data](https://www.thehindu.com/data/) [Health](https://www.thehindu.com/sci-tech/health/) [Opinion](https://www.thehindu.com/opinion/) [Science](https://www.thehindu.com/sci-tech/science/) [Business](https://www.thehindu.com/business/) [Premium](https://www.thehindu.com/premium/)
 
-[Videos](https://www.thehindu.com/videos/) [Podcast](https://www.thehindu.com/podcast/) [Photos](https://www.thehindu.com/photos/) [Crossword](https://crossword.thehindu.com/?utm_source=thehindu&utm_medium=mainmenu) [Newsletter Subscription](https://www.thehindu.com/newsletter-subscription/)
+[Videos](https://www.thehindu.com/videos/) [Podcast](https://www.thehindu.com/podcast/) [Photos](https://www.thehindu.com/photos/) [Crossword](https://crossword.thehindu.com/?utm_source=thehindu&utm_medium=mainmenu) [Newsletter](https://www.thehindu.com/newsletter-subscription/)
 
 Events
 
-[Litfest](https://www.thehindu.com/litfest/) [The Huddle](https://www.thehindu.com/the-huddle/)
+[Lit for Life](https://www.thehindu.com/litfest/) [The Huddle](https://www.thehindu.com/the-huddle/)
 
 * [ABOUT US](https://www.thehindu.com/aboutus/)
 * [TERMS OF USE](https://www.thehindu.com/termsofuse/)
@@ -583,7 +583,7 @@ Effective Date - 18th January 2023
 
 ##### The Hindu
 
-[About Us](https://www.thehindu.com/aboutus/) [Code of Editorial Values](https://www.thehindu.com/values/) [News Archive](https://www.thehindu.com/archive/) [Sitemap](https://www.thehindu.com/sitemap/) [Print Subscription](http://www.thehindugroup.in/subscribe/) [Digital Subscription](https://www.thehindu.com/subscription/?utm_source=footer&utm_medium=section&utm_caign=website) [Subscribe to Newsletters](https://www.thehindu.com/newsletter-subscription/) [Rss Feeds](https://www.thehindu.com/rssfeeds/) [Readers Editor-Terms of Reference](https://www.thehindu.com/readers-editor-terms/) [Authors & Contributors](https://www.thehindu.com/profile/) [Frame Front page](https://www.thehindu.com/frontpage/)
+[About Us](https://www.thehindu.com/aboutus/) [Code of Editorial Values](https://www.thehindu.com/values/) [News Archive](https://www.thehindu.com/archive/) [Sitemap](https://www.thehindu.com/sitemap/) [Print Subscription](http://www.thehindugroup.in/subscribe/) [Digital Subscription](https://www.thehindu.com/subscription/?utm_source=footer&utm_medium=section&utm_caign=website) [Subscribe to Newsletters](https://www.thehindu.com/newsletter-subscription/) [Rss Feeds](https://www.thehindu.com/rssfeeds/) [Readers Editor-Terms of Reference](https://www.thehindu.com/readers-editor-terms/) [Authors & Contributors](https://www.thehindu.com/profile/) [Gift Front page](https://www.thehindu.com/frontpage/)
 
 ##### Contact us
 
@@ -627,11 +627,11 @@ Effective Date - 18th January 2023
 
 ##### Trending on The Hindu
 
-[IPL auction 2025 day 2 LIVE updates](https://www.thehindu.com/sport/cricket/ipl-mega-auction-2025-day-2-live-updates-november-25/article68908665.ece?a=) [World chess championship](https://www.thehindu.com/sport/other-sports/world-chess-championship-2024-ding-liren-vs-gukesh-on-november-25-2024/article68910298.ece) [Maharashtra government formation LIVE](https://www.thehindu.com/news/national/maharashtra/maharashtra-new-chief-minister-and-government-formation-live-updates-november-25/article68908644.ece) [Parliament winter session day 1 LIVE](https://www.thehindu.com/news/national/parliament-winter-session-2024-day-1-live-updates-november-25/article68908170.ece) [IPL 2025 auction: What are the RTM rules?](https://www.thehindu.com/sport/cricket/ipl-2025-mega-auction-what-are-the-rtm-rules-during-the-auction/article68905610.ece) [IPL 2025 mega auction: When and where to watch?](https://www.thehindu.com/sport/cricket/ipl-mega-auction-2025-when-and-where-to-watch-live-streaming/article68897402.ece) [Live cricket scores, IPL 2025 auction news](https://www.thehindu.com/sport/cricket/) [Tulsi Gabbard news](https://www.thehindu.com/news/international/trump-taps-former-democrat-tulsi-gabbard-as-us-intel-chief-senator-marco-rubio-as-secretary-of-state/article68865674.ece) [Haryana earthquake](https://www.thehindu.com/news/national/haryana/mild-tremors-of-magnitude-3-on-richter-scale-hit-haryana/article68858374.ece) [AMD Layoffs](https://www.thehindu.com/sci-tech/technology/amd-to-cut-4-of-global-workforce-as-it-focuses-on-ai-chip-development/article68866599.ece)
+[News](https://www.thehindu.com/news/) [Maharashtra government formation LIVE - Nov 28](https://www.thehindu.com/elections/maharashtra-assembly/maharashtra-government-formation-live-november-28-2024/article68921356.ece) [Tamil Nadu rains LIVE updates](https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-rain-live-cyclone-fengal-november-28-2024/article68921365.ece) [Israel Hezbollah ceasefire deal](https://www.thehindu.com/news/international/israels-netanyahu-says-he-supports-ceasefire-proposal-with-lebanons-hezbollah/article68916067.ece) [Chennai school holiday - 27 Nov 2024](https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-rains-holiday-for-schools-in-chennai-chengalpattu-and-kancheepuram/article68916348.ece) [Parliament winter session Day 3 LIVE](https://www.thehindu.com/news/national/parliament-winter-session-2024-day-3-updates-november-27/article68917085.ece) [Gautam Adani, nephew not charged with FCPA](https://www.thehindu.com/business/Industry/adani-nephew-not-charged-under-us-foreign-corrupt-practices-act-adani-green/article68917322.ece) [Tulsi Gabbard news](https://www.thehindu.com/news/international/trump-taps-former-democrat-tulsi-gabbard-as-us-intel-chief-senator-marco-rubio-as-secretary-of-state/article68865674.ece) [Haryana earthquake](https://www.thehindu.com/news/national/haryana/mild-tremors-of-magnitude-3-on-richter-scale-hit-haryana/article68858374.ece) [AMD Layoffs](https://www.thehindu.com/sci-tech/technology/amd-to-cut-4-of-global-workforce-as-it-focuses-on-ai-chip-development/article68866599.ece)
 
 ##### Trending on Group sites
 
-[Stock Market Live Updates](https://www.thehindubusinessline.com/markets/share-market-nifty-sensex-live-updates-1st-april-2024/article68012792.ece) [IPL Auction 2025 Live | Sportstar](https://sportstar.thehindu.com/cricket/ipl/ipl-news/ipl-auction-2025-live-updates-day-2-bids-csk-mi-rcb-kkr-gt-lsg-rr-srh-dc-pbks-team-list-indian-premier-league/article68908675.ece?a=2) [Stocks to buy today](https://www.thehindubusinessline.com/markets/stocks-that-will-see-action-todaymarch-22-2024/article67979002.ece) [Domestic cricket](https://sportstar.thehindu.com/cricket/domestic/) [Paralympics 2024](https://sportstar.thehindu.com/olympics/paris-paralympics-2024/news/sumit-antil-live-updates-paris-2024-paralympics-javelin-throw-f64-final-highlights-details-medal/article68597541.ece) [Gold Rate Today](https://www.thehindubusinessline.com/gold-rate-today/Chennai/) [Silver Rate Today](https://www.thehindubusinessline.com/silver-rate-today/) [BJP is back to its favourite bogey: ‘The Other’](https://frontline.thehindu.com/columns/bjp-modi-aggresive-hindutva-language-jharkhand-assembly-election-2024-hemant-soren/article68841509.ece?utm_source=th&utm_medium=footer&utm_campaign=internal) [Editor’s Note: Putting Muslims in their place?](https://frontline.thehindu.com/the-nation/waqf-amendment-bill-impact-indian-muslims-reforms-consultative-process-othering-backwardness/article68849163.ece?utm_source=th&utm_medium=footer&utm_campaign=internal) [Frontline Current Issue](https://frontline.thehindu.com/current-issue/)
+[Stock Market Live Updates](https://www.thehindubusinessline.com/markets/share-market-nifty-sensex-live-updates-1st-april-2024/article68012792.ece) [IPL Auction 2025 Live | Sportstar](https://sportstar.thehindu.com/cricket/ipl/ipl-news/ipl-auction-2025-live-updates-day-2-bids-csk-mi-rcb-kkr-gt-lsg-rr-srh-dc-pbks-team-list-indian-premier-league/article68908675.ece?a=2) [Stocks to buy today](https://www.thehindubusinessline.com/markets/stocks-that-will-see-action-todaymarch-22-2024/article67979002.ece) [Domestic cricket](https://sportstar.thehindu.com/cricket/domestic/) [Chess](https://sportstar.thehindu.com/chess/) [Gold Rate Today](https://www.thehindubusinessline.com/gold-rate-today/Chennai/) [Silver Rate Today](https://www.thehindubusinessline.com/silver-rate-today/) [BJP is back to its favourite bogey: ‘The Other’](https://frontline.thehindu.com/columns/bjp-modi-aggresive-hindutva-language-jharkhand-assembly-election-2024-hemant-soren/article68841509.ece?utm_source=th&utm_medium=footer&utm_campaign=internal) [Editor’s Note: Putting Muslims in their place?](https://frontline.thehindu.com/the-nation/waqf-amendment-bill-impact-indian-muslims-reforms-consultative-process-othering-backwardness/article68849163.ece?utm_source=th&utm_medium=footer&utm_campaign=internal) [Frontline Current Issue](https://frontline.thehindu.com/current-issue/)
 
 [](https://whatsapp.com/channel/0029VaAvwQJ90x34WZ6FDg36)[](https://twitter.com/The_Hindu)[](https://www.facebook.com/thehindu)[](https://www.instagram.com/the_hindu/?ref=badge)[](https://www.linkedin.com/school/the-hindu/)[](https://www.youtube.com/user/The1878Hindu)[](https://open.spotify.com/show/5yESTCj0iikA81EP3uXkQC)[](https://t.me/THnewsupdates)
 
