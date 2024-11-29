@@ -664,12 +664,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Tages­geld und Fest­geld: Anlegen geht auch ohne Internet](https://www.test.de/Tagesgeld-Festgeld-Konten-ohne-Online-Banking-oder-App-6143253-0/ "Tagesgeld und Festgeld - Anlegen geht auch ohne Internet")
-* [Bisphenole: Schad­stoffe in Unter­wäsche](https://www.test.de/Bisphenole-in-Unterwaesche-6163207-0/ "Bisphenole - Schadstoffe in Unterwäsche")
-* [Überge­wicht bei Kindern: Kampf den Corona-Pfunden](https://www.test.de/Uebergewicht-bei-Kindern-Kampf-den-Corona-Pfunden-5979072-0/ "Übergewicht bei Kindern - Kampf den Corona-Pfunden")
-* [Deutsche Bahn: Neue Zugangs­regeln für DB-Lounge](https://www.test.de/Deutsche-Bahn-Neue-Zugangsregeln-fuer-DB-Lounge-5986611-0/ "Deutsche Bahn - Neue Zugangsregeln für DB-Lounge")
-* [Mutmacher: Volle Solar­kraft voraus!](https://www.test.de/Mutmacher-Volle-Solarkraft-voraus-6070925-0/ "Mutmacher - Volle Solarkraft voraus!")
-* [Fahr­rad­urlaub planen: So klappt die Radreise](https://www.test.de/Fahrradurlaub-so-planen-Sie-die-Radreise-5978592-0/ "Fahrradurlaub planen - So klappt die Radreise")
+* [Studie Grauer Kapitalmarkt: Anleger strukturell benach­teiligt](https://www.test.de/Studie-Grauer-Kapitalmarkt-Anleger-strukturell-benachteiligt-5948223-0/ "Studie Grauer Kapitalmarkt - Anleger strukturell benachteiligt")
+* [Verpackungs­ärger: Ritual of Karma Shampoo, Rituals](https://www.test.de/Verpackungsaerger-Ritual-of-Karma-Shampoo-Rituals-6038436-0/ "Verpackungsärger - Ritual of Karma Shampoo, Rituals")
+* [Project-Gruppe: Auszahlungen an Anleger gestoppt](https://www.test.de/Project-Gruppe-Auszahlungen-an-Anleger-gestoppt-6044635-0/ "Project-Gruppe - Auszahlungen an Anleger gestoppt")
+* [Ib-Ex Bank: Geschäfte ohne Erlaubnis](https://www.test.de/Ib-Ex-Bank-Geschaefte-ohne-Erlaubnis-6028212-0/ "Ib-Ex Bank - Geschäfte ohne Erlaubnis")
+* [Verpackungs­ärger: Vivani-Schokoriegel](https://www.test.de/Verpackungsaerger-Vivani-Schokoriegel-5970152-0/ "Verpackungsärger - Vivani-Schokoriegel")
+* [Wunder­sames aus dem Prüf­labor: Hitziger Streuner](https://www.test.de/Wundersames-aus-dem-Prueflabor-Hitziger-Streuner-6125232-0/ "Wundersames aus dem Prüflabor - Hitziger Streuner")
 
 Weitere Informationen
 
@@ -3082,12 +3082,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Tages­geld und Fest­geld: Anlegen geht auch ohne Internet](https://www.test.de/Tagesgeld-Festgeld-Konten-ohne-Online-Banking-oder-App-6143253-0/ "Tagesgeld und Festgeld - Anlegen geht auch ohne Internet")
-* [Bisphenole: Schad­stoffe in Unter­wäsche](https://www.test.de/Bisphenole-in-Unterwaesche-6163207-0/ "Bisphenole - Schadstoffe in Unterwäsche")
-* [Überge­wicht bei Kindern: Kampf den Corona-Pfunden](https://www.test.de/Uebergewicht-bei-Kindern-Kampf-den-Corona-Pfunden-5979072-0/ "Übergewicht bei Kindern - Kampf den Corona-Pfunden")
-* [Deutsche Bahn: Neue Zugangs­regeln für DB-Lounge](https://www.test.de/Deutsche-Bahn-Neue-Zugangsregeln-fuer-DB-Lounge-5986611-0/ "Deutsche Bahn - Neue Zugangsregeln für DB-Lounge")
-* [Mutmacher: Volle Solar­kraft voraus!](https://www.test.de/Mutmacher-Volle-Solarkraft-voraus-6070925-0/ "Mutmacher - Volle Solarkraft voraus!")
-* [Fahr­rad­urlaub planen: So klappt die Radreise](https://www.test.de/Fahrradurlaub-so-planen-Sie-die-Radreise-5978592-0/ "Fahrradurlaub planen - So klappt die Radreise")
+* [Studie Grauer Kapitalmarkt: Anleger strukturell benach­teiligt](https://www.test.de/Studie-Grauer-Kapitalmarkt-Anleger-strukturell-benachteiligt-5948223-0/ "Studie Grauer Kapitalmarkt - Anleger strukturell benachteiligt")
+* [Verpackungs­ärger: Ritual of Karma Shampoo, Rituals](https://www.test.de/Verpackungsaerger-Ritual-of-Karma-Shampoo-Rituals-6038436-0/ "Verpackungsärger - Ritual of Karma Shampoo, Rituals")
+* [Project-Gruppe: Auszahlungen an Anleger gestoppt](https://www.test.de/Project-Gruppe-Auszahlungen-an-Anleger-gestoppt-6044635-0/ "Project-Gruppe - Auszahlungen an Anleger gestoppt")
+* [Ib-Ex Bank: Geschäfte ohne Erlaubnis](https://www.test.de/Ib-Ex-Bank-Geschaefte-ohne-Erlaubnis-6028212-0/ "Ib-Ex Bank - Geschäfte ohne Erlaubnis")
+* [Verpackungs­ärger: Vivani-Schokoriegel](https://www.test.de/Verpackungsaerger-Vivani-Schokoriegel-5970152-0/ "Verpackungsärger - Vivani-Schokoriegel")
+* [Wunder­sames aus dem Prüf­labor: Hitziger Streuner](https://www.test.de/Wundersames-aus-dem-Prueflabor-Hitziger-Streuner-6125232-0/ "Wundersames aus dem Prüflabor - Hitziger Streuner")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -3138,12 +3138,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Tages­geld und Fest­geld: Anlegen geht auch ohne Internet](https://www.test.de/Tagesgeld-Festgeld-Konten-ohne-Online-Banking-oder-App-6143253-0/ "Tagesgeld und Festgeld - Anlegen geht auch ohne Internet")
-* [Bisphenole: Schad­stoffe in Unter­wäsche](https://www.test.de/Bisphenole-in-Unterwaesche-6163207-0/ "Bisphenole - Schadstoffe in Unterwäsche")
-* [Überge­wicht bei Kindern: Kampf den Corona-Pfunden](https://www.test.de/Uebergewicht-bei-Kindern-Kampf-den-Corona-Pfunden-5979072-0/ "Übergewicht bei Kindern - Kampf den Corona-Pfunden")
-* [Deutsche Bahn: Neue Zugangs­regeln für DB-Lounge](https://www.test.de/Deutsche-Bahn-Neue-Zugangsregeln-fuer-DB-Lounge-5986611-0/ "Deutsche Bahn - Neue Zugangsregeln für DB-Lounge")
-* [Mutmacher: Volle Solar­kraft voraus!](https://www.test.de/Mutmacher-Volle-Solarkraft-voraus-6070925-0/ "Mutmacher - Volle Solarkraft voraus!")
-* [Fahr­rad­urlaub planen: So klappt die Radreise](https://www.test.de/Fahrradurlaub-so-planen-Sie-die-Radreise-5978592-0/ "Fahrradurlaub planen - So klappt die Radreise")
+* [Studie Grauer Kapitalmarkt: Anleger strukturell benach­teiligt](https://www.test.de/Studie-Grauer-Kapitalmarkt-Anleger-strukturell-benachteiligt-5948223-0/ "Studie Grauer Kapitalmarkt - Anleger strukturell benachteiligt")
+* [Verpackungs­ärger: Ritual of Karma Shampoo, Rituals](https://www.test.de/Verpackungsaerger-Ritual-of-Karma-Shampoo-Rituals-6038436-0/ "Verpackungsärger - Ritual of Karma Shampoo, Rituals")
+* [Project-Gruppe: Auszahlungen an Anleger gestoppt](https://www.test.de/Project-Gruppe-Auszahlungen-an-Anleger-gestoppt-6044635-0/ "Project-Gruppe - Auszahlungen an Anleger gestoppt")
+* [Ib-Ex Bank: Geschäfte ohne Erlaubnis](https://www.test.de/Ib-Ex-Bank-Geschaefte-ohne-Erlaubnis-6028212-0/ "Ib-Ex Bank - Geschäfte ohne Erlaubnis")
+* [Verpackungs­ärger: Vivani-Schokoriegel](https://www.test.de/Verpackungsaerger-Vivani-Schokoriegel-5970152-0/ "Verpackungsärger - Vivani-Schokoriegel")
+* [Wunder­sames aus dem Prüf­labor: Hitziger Streuner](https://www.test.de/Wundersames-aus-dem-Prueflabor-Hitziger-Streuner-6125232-0/ "Wundersames aus dem Prüflabor - Hitziger Streuner")
 
 Neueste Tests
 
@@ -3156,12 +3156,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Tages­geld und Fest­geld: Anlegen geht auch ohne Internet](https://www.test.de/Tagesgeld-Festgeld-Konten-ohne-Online-Banking-oder-App-6143253-0/ "Tagesgeld und Festgeld - Anlegen geht auch ohne Internet")
-* [Bisphenole: Schad­stoffe in Unter­wäsche](https://www.test.de/Bisphenole-in-Unterwaesche-6163207-0/ "Bisphenole - Schadstoffe in Unterwäsche")
-* [Überge­wicht bei Kindern: Kampf den Corona-Pfunden](https://www.test.de/Uebergewicht-bei-Kindern-Kampf-den-Corona-Pfunden-5979072-0/ "Übergewicht bei Kindern - Kampf den Corona-Pfunden")
-* [Deutsche Bahn: Neue Zugangs­regeln für DB-Lounge](https://www.test.de/Deutsche-Bahn-Neue-Zugangsregeln-fuer-DB-Lounge-5986611-0/ "Deutsche Bahn - Neue Zugangsregeln für DB-Lounge")
-* [Mutmacher: Volle Solar­kraft voraus!](https://www.test.de/Mutmacher-Volle-Solarkraft-voraus-6070925-0/ "Mutmacher - Volle Solarkraft voraus!")
-* [Fahr­rad­urlaub planen: So klappt die Radreise](https://www.test.de/Fahrradurlaub-so-planen-Sie-die-Radreise-5978592-0/ "Fahrradurlaub planen - So klappt die Radreise")
+* [Studie Grauer Kapitalmarkt: Anleger strukturell benach­teiligt](https://www.test.de/Studie-Grauer-Kapitalmarkt-Anleger-strukturell-benachteiligt-5948223-0/ "Studie Grauer Kapitalmarkt - Anleger strukturell benachteiligt")
+* [Verpackungs­ärger: Ritual of Karma Shampoo, Rituals](https://www.test.de/Verpackungsaerger-Ritual-of-Karma-Shampoo-Rituals-6038436-0/ "Verpackungsärger - Ritual of Karma Shampoo, Rituals")
+* [Project-Gruppe: Auszahlungen an Anleger gestoppt](https://www.test.de/Project-Gruppe-Auszahlungen-an-Anleger-gestoppt-6044635-0/ "Project-Gruppe - Auszahlungen an Anleger gestoppt")
+* [Ib-Ex Bank: Geschäfte ohne Erlaubnis](https://www.test.de/Ib-Ex-Bank-Geschaefte-ohne-Erlaubnis-6028212-0/ "Ib-Ex Bank - Geschäfte ohne Erlaubnis")
+* [Verpackungs­ärger: Vivani-Schokoriegel](https://www.test.de/Verpackungsaerger-Vivani-Schokoriegel-5970152-0/ "Verpackungsärger - Vivani-Schokoriegel")
+* [Wunder­sames aus dem Prüf­labor: Hitziger Streuner](https://www.test.de/Wundersames-aus-dem-Prueflabor-Hitziger-Streuner-6125232-0/ "Wundersames aus dem Prüflabor - Hitziger Streuner")
 
 Stiftung Warentest
 
