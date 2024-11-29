@@ -808,21 +808,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 * [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 * [Anschluss­finanzierung: So sichern Sie sich einen güns­tigen Anschluss­kredit](https://www.test.de/Anschlussfinanzierung-Kredit-Zinsen-Vergleich-4963970-0/ "Anschlussfinanzierung - So sichern Sie sich einen günstigen Anschlusskredit")
 * [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
 * [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
 * [Fest­geld­vergleich: Hier bringt Ihr Spargeld die beste Rendite – und ist sicher](https://www.test.de/Festgeldvergleich-Die-besten-Zinsen-4196084-0/ "Festgeldvergleich - Hier bringt Ihr Spargeld die beste Rendite – und ist sicher")
-* [Tages­geld­vergleich: Hier finden Sie die besten Zinsen](https://www.test.de/Tagesgeldvergleich-Die-besten-Zinsen-4196794-0/ "Tagesgeldvergleich - Hier finden Sie die besten Zinsen")
 
 test.de entdecken
 
-* [Babynester im Test: Gefahren statt Geborgenheit](https://www.test.de/Babynester-im-Test-Gefahren-statt-Geborgenheit-6043309-0/ "Babynester im Test - Gefahren statt Geborgenheit")
-* [Geschäfts­konto-Vergleich: Auf Extra­kosten achten, sonst wird das Gratis­konto teuer](https://www.test.de/Geschaeftskonto-Vergleich-6010850-0/ "Geschäftskonto-Vergleich - Auf Extrakosten achten, sonst wird das Gratiskonto teuer")
-* [Acadian Investment: Falsche Frank­furter kommen auf Warn­liste](https://www.test.de/Acadian-Investment-Falsche-Frankfurter-kommen-auf-Warnliste-5975768-0/ "Acadian Investment - Falsche Frankfurter kommen auf Warnliste")
-* [Winterreifen im Test: Die besten Winterreifen im Test des ADAC](https://www.test.de/Winterreifen-im-Test-Die-besten-Winterreifen-im-Test-des-ADAC-6045640-0/ "Winterreifen im Test - Die besten Winterreifen im Test des ADAC")
-* [Verpackungs­ärger: Oregano von Wiberg](https://www.test.de/Verpackungsaerger-Oregano-von-Wiberg-5986974-0/ "Verpackungsärger - Oregano von Wiberg")
-* [Vergleichs­maßstab für gemischte Depots: So über­prüfen Sie Ihren Anlage­erfolg](https://www.test.de/Vergleichsmassstab-fuer-gemischte-Depots-So-ueberpruefen-Sie-Ihren-Anlageerfolg-6070469-0/ "Vergleichsmaßstab für gemischte Depots - So überprüfen Sie Ihren Anlageerfolg")
+* [Microsoft Surface mit ARM-Chip im Schnell­test: Neue Surface-Modelle treten gegen MacBook und iPad an](https://www.test.de/Microsoft-Surface-mit-ARM-Chip-im-Schnelltest-Neue-Surface-Modelle-machen-dem-MacBook-Konkurrenz-6165262-0/ "Microsoft Surface mit ARM-Chip im Schnelltest - Neue Surface-Modelle treten gegen MacBook und iPad an")
+* [Leser­aufruf zu Dark Patterns: Melden Sie uns Manipulation im Netz](https://www.test.de/Leseraufruf-zu-Dark-Patterns-Melden-Sie-uns-Manipulation-im-Netz-6047043-0/ "Leseraufruf zu Dark Patterns - Melden Sie uns Manipulation im Netz")
+* [Gewusst wie: Paypal-Konto einrichten](https://www.test.de/Gewusst-wie-Paypal-Konto-einrichten-5986194-0/ "Gewusst wie - Paypal-Konto einrichten")
+* [E-Growing: Firmen von Juicyfields insolvent](https://www.test.de/E-Growing-Firmen-von-Juicyfields-insolvent-5963963-0/ "E-Growing - Firmen von Juicyfields insolvent")
+* [Fonds und ETF: Wie Sie die passende Anteils­klasse Ihres Fonds finden](https://www.test.de/Fonds-und-ETF-Die-passende-Anteilsklasse-Ihres-Fonds-6124427-0/ "Fonds und ETF - Wie Sie die passende Anteilsklasse Ihres Fonds finden")
+* [Rück­ruf Fashy Schwimm­flügel Sima: Späte Reaktion auf unser Test­urteil](https://www.test.de/Rueckruf-Fashy-Schwimmfluegel-Sima-Spaete-Reaktion-auf-unser-Testurteil-6136440-0/ "Rückruf Fashy Schwimmflügel Sima - Späte Reaktion auf unser Testurteil")
 
 Weitere Informationen
 
@@ -3862,59 +3862,59 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 * [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 * [Anschluss­finanzierung: So sichern Sie sich einen güns­tigen Anschluss­kredit](https://www.test.de/Anschlussfinanzierung-Kredit-Zinsen-Vergleich-4963970-0/ "Anschlussfinanzierung - So sichern Sie sich einen günstigen Anschlusskredit")
 * [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
 * [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
 * [Fest­geld­vergleich: Hier bringt Ihr Spargeld die beste Rendite – und ist sicher](https://www.test.de/Festgeldvergleich-Die-besten-Zinsen-4196084-0/ "Festgeldvergleich - Hier bringt Ihr Spargeld die beste Rendite – und ist sicher")
-* [Tages­geld­vergleich: Hier finden Sie die besten Zinsen](https://www.test.de/Tagesgeldvergleich-Die-besten-Zinsen-4196794-0/ "Tagesgeldvergleich - Hier finden Sie die besten Zinsen")
 
 test.de entdecken
 
-* [Babynester im Test: Gefahren statt Geborgenheit](https://www.test.de/Babynester-im-Test-Gefahren-statt-Geborgenheit-6043309-0/ "Babynester im Test - Gefahren statt Geborgenheit")
-* [Geschäfts­konto-Vergleich: Auf Extra­kosten achten, sonst wird das Gratis­konto teuer](https://www.test.de/Geschaeftskonto-Vergleich-6010850-0/ "Geschäftskonto-Vergleich - Auf Extrakosten achten, sonst wird das Gratiskonto teuer")
-* [Acadian Investment: Falsche Frank­furter kommen auf Warn­liste](https://www.test.de/Acadian-Investment-Falsche-Frankfurter-kommen-auf-Warnliste-5975768-0/ "Acadian Investment - Falsche Frankfurter kommen auf Warnliste")
-* [Winterreifen im Test: Die besten Winterreifen im Test des ADAC](https://www.test.de/Winterreifen-im-Test-Die-besten-Winterreifen-im-Test-des-ADAC-6045640-0/ "Winterreifen im Test - Die besten Winterreifen im Test des ADAC")
-* [Verpackungs­ärger: Oregano von Wiberg](https://www.test.de/Verpackungsaerger-Oregano-von-Wiberg-5986974-0/ "Verpackungsärger - Oregano von Wiberg")
-* [Vergleichs­maßstab für gemischte Depots: So über­prüfen Sie Ihren Anlage­erfolg](https://www.test.de/Vergleichsmassstab-fuer-gemischte-Depots-So-ueberpruefen-Sie-Ihren-Anlageerfolg-6070469-0/ "Vergleichsmaßstab für gemischte Depots - So überprüfen Sie Ihren Anlageerfolg")
+* [Microsoft Surface mit ARM-Chip im Schnell­test: Neue Surface-Modelle treten gegen MacBook und iPad an](https://www.test.de/Microsoft-Surface-mit-ARM-Chip-im-Schnelltest-Neue-Surface-Modelle-machen-dem-MacBook-Konkurrenz-6165262-0/ "Microsoft Surface mit ARM-Chip im Schnelltest - Neue Surface-Modelle treten gegen MacBook und iPad an")
+* [Leser­aufruf zu Dark Patterns: Melden Sie uns Manipulation im Netz](https://www.test.de/Leseraufruf-zu-Dark-Patterns-Melden-Sie-uns-Manipulation-im-Netz-6047043-0/ "Leseraufruf zu Dark Patterns - Melden Sie uns Manipulation im Netz")
+* [Gewusst wie: Paypal-Konto einrichten](https://www.test.de/Gewusst-wie-Paypal-Konto-einrichten-5986194-0/ "Gewusst wie - Paypal-Konto einrichten")
+* [E-Growing: Firmen von Juicyfields insolvent](https://www.test.de/E-Growing-Firmen-von-Juicyfields-insolvent-5963963-0/ "E-Growing - Firmen von Juicyfields insolvent")
+* [Fonds und ETF: Wie Sie die passende Anteils­klasse Ihres Fonds finden](https://www.test.de/Fonds-und-ETF-Die-passende-Anteilsklasse-Ihres-Fonds-6124427-0/ "Fonds und ETF - Wie Sie die passende Anteilsklasse Ihres Fonds finden")
+* [Rück­ruf Fashy Schwimm­flügel Sima: Späte Reaktion auf unser Test­urteil](https://www.test.de/Rueckruf-Fashy-Schwimmfluegel-Sima-Spaete-Reaktion-auf-unser-Testurteil-6136440-0/ "Rückruf Fashy Schwimmflügel Sima - Späte Reaktion auf unser Testurteil")
 
 Weitere spannende Themen
 
 Neueste Tests
 
+* [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 * [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 * [Anschluss­finanzierung: So sichern Sie sich einen güns­tigen Anschluss­kredit](https://www.test.de/Anschlussfinanzierung-Kredit-Zinsen-Vergleich-4963970-0/ "Anschlussfinanzierung - So sichern Sie sich einen günstigen Anschlusskredit")
 * [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
 * [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
 * [Fest­geld­vergleich: Hier bringt Ihr Spargeld die beste Rendite – und ist sicher](https://www.test.de/Festgeldvergleich-Die-besten-Zinsen-4196084-0/ "Festgeldvergleich - Hier bringt Ihr Spargeld die beste Rendite – und ist sicher")
-* [Tages­geld­vergleich: Hier finden Sie die besten Zinsen](https://www.test.de/Tagesgeldvergleich-Die-besten-Zinsen-4196794-0/ "Tagesgeldvergleich - Hier finden Sie die besten Zinsen")
 
 test.de entdecken
 
-* [Babynester im Test: Gefahren statt Geborgenheit](https://www.test.de/Babynester-im-Test-Gefahren-statt-Geborgenheit-6043309-0/ "Babynester im Test - Gefahren statt Geborgenheit")
-* [Geschäfts­konto-Vergleich: Auf Extra­kosten achten, sonst wird das Gratis­konto teuer](https://www.test.de/Geschaeftskonto-Vergleich-6010850-0/ "Geschäftskonto-Vergleich - Auf Extrakosten achten, sonst wird das Gratiskonto teuer")
-* [Acadian Investment: Falsche Frank­furter kommen auf Warn­liste](https://www.test.de/Acadian-Investment-Falsche-Frankfurter-kommen-auf-Warnliste-5975768-0/ "Acadian Investment - Falsche Frankfurter kommen auf Warnliste")
-* [Winterreifen im Test: Die besten Winterreifen im Test des ADAC](https://www.test.de/Winterreifen-im-Test-Die-besten-Winterreifen-im-Test-des-ADAC-6045640-0/ "Winterreifen im Test - Die besten Winterreifen im Test des ADAC")
-* [Verpackungs­ärger: Oregano von Wiberg](https://www.test.de/Verpackungsaerger-Oregano-von-Wiberg-5986974-0/ "Verpackungsärger - Oregano von Wiberg")
-* [Vergleichs­maßstab für gemischte Depots: So über­prüfen Sie Ihren Anlage­erfolg](https://www.test.de/Vergleichsmassstab-fuer-gemischte-Depots-So-ueberpruefen-Sie-Ihren-Anlageerfolg-6070469-0/ "Vergleichsmaßstab für gemischte Depots - So überprüfen Sie Ihren Anlageerfolg")
+* [Microsoft Surface mit ARM-Chip im Schnell­test: Neue Surface-Modelle treten gegen MacBook und iPad an](https://www.test.de/Microsoft-Surface-mit-ARM-Chip-im-Schnelltest-Neue-Surface-Modelle-machen-dem-MacBook-Konkurrenz-6165262-0/ "Microsoft Surface mit ARM-Chip im Schnelltest - Neue Surface-Modelle treten gegen MacBook und iPad an")
+* [Leser­aufruf zu Dark Patterns: Melden Sie uns Manipulation im Netz](https://www.test.de/Leseraufruf-zu-Dark-Patterns-Melden-Sie-uns-Manipulation-im-Netz-6047043-0/ "Leseraufruf zu Dark Patterns - Melden Sie uns Manipulation im Netz")
+* [Gewusst wie: Paypal-Konto einrichten](https://www.test.de/Gewusst-wie-Paypal-Konto-einrichten-5986194-0/ "Gewusst wie - Paypal-Konto einrichten")
+* [E-Growing: Firmen von Juicyfields insolvent](https://www.test.de/E-Growing-Firmen-von-Juicyfields-insolvent-5963963-0/ "E-Growing - Firmen von Juicyfields insolvent")
+* [Fonds und ETF: Wie Sie die passende Anteils­klasse Ihres Fonds finden](https://www.test.de/Fonds-und-ETF-Die-passende-Anteilsklasse-Ihres-Fonds-6124427-0/ "Fonds und ETF - Wie Sie die passende Anteilsklasse Ihres Fonds finden")
+* [Rück­ruf Fashy Schwimm­flügel Sima: Späte Reaktion auf unser Test­urteil](https://www.test.de/Rueckruf-Fashy-Schwimmfluegel-Sima-Spaete-Reaktion-auf-unser-Testurteil-6136440-0/ "Rückruf Fashy Schwimmflügel Sima - Späte Reaktion auf unser Testurteil")
 
 Neueste Tests
 
+* [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 * [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 * [Anschluss­finanzierung: So sichern Sie sich einen güns­tigen Anschluss­kredit](https://www.test.de/Anschlussfinanzierung-Kredit-Zinsen-Vergleich-4963970-0/ "Anschlussfinanzierung - So sichern Sie sich einen günstigen Anschlusskredit")
 * [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
 * [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
 * [Fest­geld­vergleich: Hier bringt Ihr Spargeld die beste Rendite – und ist sicher](https://www.test.de/Festgeldvergleich-Die-besten-Zinsen-4196084-0/ "Festgeldvergleich - Hier bringt Ihr Spargeld die beste Rendite – und ist sicher")
-* [Tages­geld­vergleich: Hier finden Sie die besten Zinsen](https://www.test.de/Tagesgeldvergleich-Die-besten-Zinsen-4196794-0/ "Tagesgeldvergleich - Hier finden Sie die besten Zinsen")
 
 test.de entdecken
 
-* [Babynester im Test: Gefahren statt Geborgenheit](https://www.test.de/Babynester-im-Test-Gefahren-statt-Geborgenheit-6043309-0/ "Babynester im Test - Gefahren statt Geborgenheit")
-* [Geschäfts­konto-Vergleich: Auf Extra­kosten achten, sonst wird das Gratis­konto teuer](https://www.test.de/Geschaeftskonto-Vergleich-6010850-0/ "Geschäftskonto-Vergleich - Auf Extrakosten achten, sonst wird das Gratiskonto teuer")
-* [Acadian Investment: Falsche Frank­furter kommen auf Warn­liste](https://www.test.de/Acadian-Investment-Falsche-Frankfurter-kommen-auf-Warnliste-5975768-0/ "Acadian Investment - Falsche Frankfurter kommen auf Warnliste")
-* [Winterreifen im Test: Die besten Winterreifen im Test des ADAC](https://www.test.de/Winterreifen-im-Test-Die-besten-Winterreifen-im-Test-des-ADAC-6045640-0/ "Winterreifen im Test - Die besten Winterreifen im Test des ADAC")
-* [Verpackungs­ärger: Oregano von Wiberg](https://www.test.de/Verpackungsaerger-Oregano-von-Wiberg-5986974-0/ "Verpackungsärger - Oregano von Wiberg")
-* [Vergleichs­maßstab für gemischte Depots: So über­prüfen Sie Ihren Anlage­erfolg](https://www.test.de/Vergleichsmassstab-fuer-gemischte-Depots-So-ueberpruefen-Sie-Ihren-Anlageerfolg-6070469-0/ "Vergleichsmaßstab für gemischte Depots - So überprüfen Sie Ihren Anlageerfolg")
+* [Microsoft Surface mit ARM-Chip im Schnell­test: Neue Surface-Modelle treten gegen MacBook und iPad an](https://www.test.de/Microsoft-Surface-mit-ARM-Chip-im-Schnelltest-Neue-Surface-Modelle-machen-dem-MacBook-Konkurrenz-6165262-0/ "Microsoft Surface mit ARM-Chip im Schnelltest - Neue Surface-Modelle treten gegen MacBook und iPad an")
+* [Leser­aufruf zu Dark Patterns: Melden Sie uns Manipulation im Netz](https://www.test.de/Leseraufruf-zu-Dark-Patterns-Melden-Sie-uns-Manipulation-im-Netz-6047043-0/ "Leseraufruf zu Dark Patterns - Melden Sie uns Manipulation im Netz")
+* [Gewusst wie: Paypal-Konto einrichten](https://www.test.de/Gewusst-wie-Paypal-Konto-einrichten-5986194-0/ "Gewusst wie - Paypal-Konto einrichten")
+* [E-Growing: Firmen von Juicyfields insolvent](https://www.test.de/E-Growing-Firmen-von-Juicyfields-insolvent-5963963-0/ "E-Growing - Firmen von Juicyfields insolvent")
+* [Fonds und ETF: Wie Sie die passende Anteils­klasse Ihres Fonds finden](https://www.test.de/Fonds-und-ETF-Die-passende-Anteilsklasse-Ihres-Fonds-6124427-0/ "Fonds und ETF - Wie Sie die passende Anteilsklasse Ihres Fonds finden")
+* [Rück­ruf Fashy Schwimm­flügel Sima: Späte Reaktion auf unser Test­urteil](https://www.test.de/Rueckruf-Fashy-Schwimmfluegel-Sima-Spaete-Reaktion-auf-unser-Testurteil-6136440-0/ "Rückruf Fashy Schwimmflügel Sima - Späte Reaktion auf unser Testurteil")
 
 Stiftung Warentest
 
