@@ -114,9 +114,9 @@
 * [Book demo](https://timeular.com/demo/)
 * [Try for free](https://app.timeular.com/#/register)
 
-Time tracking for busy people 30% OFF!
+Time tracking for busy people 30% OFF
 
-Your time matters. Track it with Timeular. Celebrate Black Friday with 30% OFF!
+Your time matters. Track it with Timeular. Celebrate Black Friday with 30% off.
 
 [Get 30% off Timeular](https://timeular.com/lp/best-deal-2024/)
 
