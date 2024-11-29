@@ -385,7 +385,7 @@ What Customers Are Saying
 
 Based on 305,387 Carpet Cleaning Services Reviews
 
-Excellent service, local, prompt and efficient.. **SE.** - Gig Harbor, WA - 11/28/2024
+**MF.** - New Braunfels, TX - 11/28/2024
 
 (5.0 Out of 5 stars)
 
@@ -393,9 +393,9 @@ It got the job done. The carpets look great. **MB.** - Wake Forest, NC - 11/28/2
 
 (5.0 Out of 5 stars)
 
-Quick and good **DS.** - Hesston, KS - 11/27/2024
+Care was taken-not a rush job!! And **JS.** - Pittsville, MD - 11/27/2024
 
-(4.5 Out of 5 stars)
+(5.0 Out of 5 stars)
 
 [MORE REVIEWS](https://www.oxifresh.com/testimonials)
 
