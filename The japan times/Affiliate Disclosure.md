@@ -213,9 +213,9 @@ By [Greg Dvorak](https://www.japantimes.co.jp/author/6191/greg-dvorak/ "Greg Dvo
 SUSTAINABLE JAPAN
 -----------------
 
-[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -255,25 +255,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Consumer inflation speeds up amid BOJ rate hike speculation](https://www.japantimes.co.jp/business/2024/11/29/economy/tokyo-cpi-speeds-up/ "Consumer inflation speeds up amid BOJ rate hike speculation")
+[Tokyo police arrest six Chinese nationals over _yami baito_ scheme](https://www.japantimes.co.jp/news/2024/11/29/japan/crime-legal/chinese-arrest-kidnapping/ "Tokyo police arrest six Chinese nationals over yami baito scheme")
 
-8 mins ago
+2 hours ago
 
-[Japanese food makers to raise prices for 109 items in December](https://www.japantimes.co.jp/business/2024/11/29/economy/japanese-food-price-rise/ "Japanese food makers to raise prices for 109 items in December")
+[Uniqlo risks boycott in China after CEO's Xinjiang comment](https://www.japantimes.co.jp/business/2024/11/29/companies/uniqlo-boycott-risk-china/ "Uniqlo risks boycott in China after CEO's Xinjiang comment")
 
-39 mins ago
+2 hours ago
 
-[U.K. Parliament to hold first vote on assisted dying in nine years](https://www.japantimes.co.jp/news/2024/11/29/world/crime-legal/uk-assisted-dying-vote/ "U.K. Parliament to hold first vote on assisted dying in nine years")
+[Chinese man pleads guilty to role in vandalizing Yasukuni Shrine](https://www.japantimes.co.jp/news/2024/11/29/japan/crime-legal/yasukuni-vandalism-trial/ "Chinese man pleads guilty to role in vandalizing Yasukuni Shrine")
 
-57 mins ago
+3 hours ago
 
-[MUFG considering bid for Japanese robo-adviser WealthNavi](https://www.japantimes.co.jp/business/2024/11/29/companies/mufg-bid-wealthnavi/ "MUFG considering bid for Japanese robo-adviser WealthNavi")
+[Yen breaches key ¥150 level as Tokyo inflation fuels BOJ bets](https://www.japantimes.co.jp/business/2024/11/29/markets/yen-breaches-150-level/ "Yen breaches key ¥150 level as Tokyo inflation fuels BOJ bets")
 
-57 mins ago
+3 hours ago
 
-[Osaka court acquits man of fatally injuring 2-year-old daughter](https://www.japantimes.co.jp/news/2024/11/29/japan/crime-legal/overturned-conviction-father/ "Osaka court acquits man of fatally injuring 2-year-old daughter")
+[Denso and Fuji Electric to get government aid for power chips](https://www.japantimes.co.jp/business/2024/11/29/companies/denso-fuji-electric-power-chip-aid/ "Denso and Fuji Electric to get government aid for power chips")
 
-1 hour ago
+3 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
