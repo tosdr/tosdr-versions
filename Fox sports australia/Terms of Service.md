@@ -18,22 +18,22 @@ FOX SCORES
     
 * [Men's Test
     
-    Day 2
+    Day 3 Session 1
     
     |     |     |
     | --- | --- |
-    | RSA | 191 & 3 /132 |
+    | RSA | 191 & 3 /143 |
     | SRI | 42  |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250701)
 * [Men's Test
     
-    Day 2 Session 2
+    Day 2
     
     |     |     |
     | --- | --- |
     | NZL | 348 |
-    | ENG | 4 /108 |
+    | ENG | 5 /319 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250801)
 * [Women's BBL
@@ -55,7 +55,7 @@ FOX SCORES
     |     |
     | --- |
     | Australia Open |
-    | J. Gumberg leads by 1 |
+    | L. Herbert leads by 4 |
     
     Match Centre](https://www.foxsports.com.au/golf/match?matchid=ISPS_Handa_Australia20250010013049F)
 * AFL
@@ -70,18 +70,6 @@ FOX SCORES
     | BRI | –   |
     
     Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20241401)
-* Motorsport
-    
-* [Formula 1
-    
-    30/11 0:30 AEST
-    
-    |     |
-    | --- |
-    | Qatar Grand Prix |
-    |     |
-    
-    Race Centre](https://www.foxsports.com.au/motorsport/formula-one/race-centre?meetingid=597)
 * NFL
     
 * [NFL
@@ -96,16 +84,6 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251301)
 * [NFL
     
-    1st Qtr
-    
-    |     |     |
-    | --- | --- |
-    | GB  | 7   |
-    | MIA | 0   |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251303)
-* [NFL
-    
     Full Time
     
     |     |     |
@@ -114,8 +92,48 @@ FOX SCORES
     | NYG | 20  |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251302)
+* [NFL
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | GB  | 30  |
+    | MIA | 17  |
+    
+    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251303)
 * Basketball
     
+* [NBA
+    
+    30/11 4:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | CHA | –   |
+    | NY  | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010079)
+* [NBA
+    
+    30/11 6:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | ATL | –   |
+    | CLE | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010081)
+* [NBA
+    
+    30/11 9:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | MEM | –   |
+    | NO  | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010083)
 * [WNBL
     
     29/11 19:30 AEST
@@ -146,18 +164,20 @@ FOX SCORES
     | BRI | –   |
     
     Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25100003)
+* Motorsport
+    
+* [Formula 1
+    
+    30/11 0:30 AEST
+    
+    |     |
+    | --- |
+    | Qatar Grand Prix |
+    |     |
+    
+    Race Centre](https://www.foxsports.com.au/motorsport/formula-one/race-centre?meetingid=597)
 * Football
     
-* [Women's Int
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | AUSW | 1   |
-    | BRAW | 3   |
-    
-    Match Centre](https://www.foxsports.com.au/football/womens-international/match-centre/W_INT20240106)
 * [A-League M
     
     29/11 19:35 AEST
@@ -168,6 +188,16 @@ FOX SCORES
     | PER | –   |
     
     Match Centre](https://www.foxsports.com.au/football/a-league/match-centre/ALM2024-250601)
+* [Premier League
+    
+    30/11 7:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | BHA | –   |
+    | SOU | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-251309)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
@@ -812,17 +842,18 @@ FOX SCORES
 
 * [NFL](https://www.foxsports.com.au/video/other-sports/nfl)
 * [Other Sports](https://www.foxsports.com.au/video/other-sports/other-sports)
-* Baseball
+* [Baseball](https://www.foxsports.com.au/video/other-sports/baseball)
 * [WWE](https://www.foxsports.com.au/video/other-sports/wwe)
+* Ice Hockey
 * [Netball](https://www.foxsports.com.au/video/other-sports/netball)
 * [Cycling](https://www.foxsports.com.au/video/other-sports/cycling)
 * [Surfing](https://www.foxsports.com.au/video/other-sports/surfing)
 * [Horse Racing](https://www.foxsports.com.au/video/other-sports/horse-racing)
 * Olympics
 
-[Baseball](https://www.foxsports.com.au/video/other-sports/baseball)
+[Ice Hockey](https://www.foxsports.com.au/video/other-sports/ice-hockey)
 
-* [MLB](https://www.foxsports.com.au/video/other-sports/baseball/mlb)
+* [NHL](https://www.foxsports.com.au/video/other-sports/ice-hockey/nhl)
 
 [Olympics](https://www.foxsports.com.au/video/other-sports/olympics)
 
