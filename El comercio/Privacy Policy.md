@@ -31,1065 +31,1234 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Mario Pineida se burla nuevamente de Liga de Quito tras ser campeón
-===================================================================
+Silvia Pinal, la última diva del cine de oro de México, falleció
+================================================================
 
-Mario Pineida, conocido por sus polémicas declaraciones, volvió a provocar a Liga de Quito tras consagrarse campeón de la Copa Ecuador con El Nacional.
--------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Mario Pineida (der.) con la Copa Ecuador que ganó en 2024 en el estadio de Liga de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-28T142211.063.jpg)
-
-El Nacional se coronó campeón de la **Copa Ecuador 2024** este miércoles 27 de noviembre, tras vencer 1-0 a Independiente del Valle en la final disputada en el Estadio Rodrigo Paz Delgado.
-
-Durante las celebraciones, **Mario Pineida** volvió a ser el centro de atención con un gesto que no pasó desapercibido y que estuvo claramente dirigido a Liga de Quito.
-
-### Más noticias:
-
-* [Así estaba el país cuando El Nacional fue campéon hace 18 años](https://www.elcomercio.com/deportes/futbol/asi-era-el-pais-cuando-el-nacional-fue-campeon-por-ultima-vez.html "Así estaba el país cuando El Nacional fue campéon hace 18 años")
-* [El Nacional venció a Independiente y es campeón de la Copa Ecuador](https://www.elcomercio.com/deportes/futbol/final-unica-copa-ecuador-resultado.html "El Nacional venció a Independiente y es campeón de la Copa Ecuador")
-* [Liga de Quito recibió una buena noticia de la Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-de-quito-recibio-una-buena-noticia-de-la-liga-pro.html "Liga de Quito recibió una buena noticia de la Liga Pro")
-
-El lateral izquierdo, conocido por su carácter polémico, aprovechó la ocasión para recordar a todos que ha sido campeón en el estadio de la ‘U’ en dos ocasiones: primero con Barcelona SC en la **Liga Pro 2020**, y ahora con El Nacional en la Copa Ecuador.
-
-Frente a las cámaras, **Pineida** **levantó** dos dedos, haciendo referencia a estas victorias, lo que generó reacciones divididas en redes sociales.
-
-Mientras los hinchas de Barcelona aplaudieron y celebraron el gesto, calificándolo de “icónico”, los aficionados de **Liga de Quito** no ocultaron su enojo.
-
-> ¿Cuantas vueltas vas dando en Casa Blanca Mario Pineida? 😂 [pic.twitter.com/kNfra67N9V](https://t.co/kNfra67N9V)
-> 
-> — Idolo TV (@idoloTV) [November 27, 2024](https://twitter.com/idoloTV/status/1861907471247306800?ref_src=twsrc%5Etfw)
-
-Es la segunda burla contra Liga de Quito
-----------------------------------------
-
-Esta no es la primera vez que Mario Pineida se burla de Liga de Quito en el presente año, ya que hace poco más de un mes hizo lo mismo cuando **El Nacional** eliminó a la ‘U’ en ‘Casa Blanca’ en los cuartos de final de la **Copa Ecuador**.
-
-Pineida, lateral de El Nacional, protagonizó un momento polémico al finalizar el compromiso en ‘Casa Blanca’, insultando a Liga de Quito y a su hinchada ante las cámaras de televisión.
-
-_“T**e di la vuelta olímpica en 2020 y ahora dejamos afuera a estos perros**“_, declaró el jugador tras la victoria.
-
-Las palabras de **Pineida** no cayeron bien entre los aficionados de Liga, quienes rápidamente expresaron su indignación en redes sociales, por lo que consideraron una falta de respeto hacia el club y su hinchada.
-
-Después, ya en las celebraciones en los camerinos, el lateral se volvió a mofar del equipo universitario, recordándoles la vez que apagaron las luces de su estadio tras la vuelta olímpica de **Barcelona SC** en 2020.
-
-Registro para universidades en Ecuador empieza, ¿cuál es el plazo?
-==================================================================
-
-El registro para ingresar a universidades en Ecuador se acerca.
----------------------------------------------------------------
-
-![Imagen referencial de inscripción virtual.](https://www.elcomercio.com/wp-content/uploads/2024/11/inscripcion.jpg)
-
-Las personas que deseen ingresar a las **universidades en Ecuador** deben cumplir con el **Registro Nacional**. Este paso es obligatorio[.](https://es.wikipedia.org/wiki/Ecuador)[](https://es.wikipedia.org/wiki/Ecuador)
-
-Lo mismo corresponde a **escuelas politécnicas**, institutos tecnológicos y conservatorios superiores públicos a escala nacional.
-
-### Más noticias
-
-* [La educación ciudadana y la cultura de paz](https://www.elcomercio.com/tendencias/educacion-ciudadana-cultura-paz.html "La educación ciudadana y la cultura de paz")
-* [Daniel Noboa oficializó la creación de la Universidad de Santo Domingo de los Tsáchilas](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-universidad-santo-domingo-tsachilas.html "Daniel Noboa oficializó la creación de la Universidad de Santo Domingo de los Tsáchilas")
-* [Postergan prueba de razonamiento para aspirantes a docentes municipales en Quito](https://www.elcomercio.com/actualidad/quito/examen-docente-municipal-quito-razonamiento.html "Postergan prueba de razonamiento para aspirantes a docentes municipales en Quito")
-
-Registro a universidades se inicia en Ecuador
----------------------------------------------
-
-**Del 30 de noviembre al 8 de diciembre de 2024** se desarrollará el Registro Nacional, un proceso obligatorio para quienes deseen acceder a universidades, **escuelas politécnica**s e institutos tecnológicos. Lo propio para conservatorios superiores públicos, a nivel nacional, incluyendo carrera focalizadas.
-
-Para la inscripción hay requisitos que cumplir. Deben ser al menos dos: tener título de bachiller y estar cursando el último año de bachillerato en el régimen Costa-Galápagos, en el año lectivo 2024-2025.
-
-El registro para las distintas instituciones de educación superior es a través de la página [registrounicoedusup.gob.ec](https://www.registrounicoedusup.gob.ec/ "https://www.registrounicoedusup.gob.ec/").
-
-La Senescyt y el proceso de registro en universidades
------------------------------------------------------
-
-**Secretaría de Educación Superior, Ciencia, Tecnología e Innovación (Senescyt)** informó que gestionará el acceso a los **54 institutos tecnológicos** y conservatorios superiores públicos.
-
-En cambio, cada **universidad** y escuela politécnica definirá y llevará su proceso de admisión, de acuerdo con las normas internas.
-
-Eso sí, el registro es el paso primordial para que los aspirantes a la **educación superior** continúen con el proceso de admisión y optar por programas académicos que los prepararán para enfrentar los retos del entorno profesional.
-
-Ese proceso va dirigido también para carreras técnicas y **programas universitarios**, las instituciones ofrecen una amplia gama de opciones educativas.
-
-Así estaba el país cuando El Nacional fue campéon hace 18 años
-==============================================================
-
-El Nacional rompió una sequía de 18 años y volvió a levantar un título oficial. ¿Cómo era Ecuador en 2006, cuando el ‘Bi-Tri’ alcanzó la gloria por última vez?
----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Christian Lara, Gustavo Figueroa y Christian Benítez (+) en un partido de El Nacional en 2006.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-28T130120.746.jpg)
-
-El miércoles 27 de noviembre de 2024, **El Nacional se coronó campeón de la Copa Ecuador** al vencer 1-0 a Independiente del Valle en la final, logrando su segundo título de este torneo. Este triunfo marcó el fin de **18 años sin levantar trofeos** oficiales.
-
-La última ocasión en que el ‘Bi-Tri’ **alzó una copa fue en diciembre de 2006,** cuando se consagró campeón del campeonato ecuatoriano, su título número 14. Han pasado casi dos décadas desde entonces, y mucho ha cambiado en Ecuador y el mundo del fútbol.
-
-### Más noticias:
-
-* [El Nacional sigue festejando el título de la Copa Ecuador](https://www.elcomercio.com/deportes/futbol/el-nacional-copa-ecuador-festejos.html "El Nacional sigue festejando el título de la Copa Ecuador")
-* [El Nacional recordó a ‘Chucho’ Benítez con su nuevo título](https://www.elcomercio.com/deportes/futbol/el-nacional-recordo-a-chucho-benitez-con-su-nuevo-titulo-copa-ecuador.html "El Nacional recordó a ‘Chucho’ Benítez con su nuevo título")
-* [El Nacional, el tercer equipo con más títulos en Ecuador](https://www.elcomercio.com/deportes/futbol/el-nacional-el-tercer-equipo-con-mas-titulos-en-ecuador.html "El Nacional, el tercer equipo con más títulos en Ecuador")
-
-Ecuador en 2006: ¿Cómo era el país?
------------------------------------
-
-En 2006, Alfredo Palacio estaba finalizando su mandato presidencial, mientras que un joven **Rafael** **Correa** ganaba las elecciones para asumir la presidencia por primera vez.
-
-En el ámbito futbolístico, Ecuador vivía una época diferente. La selección nacional había participado en su **segundo Mundial**, Alemania 2006, logrando su mejor actuación histórica al llegar a octavos de final.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-28T125535.652-1024x683.jpg)
-
-En el torneo local:
-
-* **Deportivo Quito** todavía jugaba en primera división y acumulaba casi 40 años sin ser campeón.
-* **Liga de Quito** contaba solo con seis títulos nacionales y aún no había conquistado trofeos internacionales.
-* **Barcelona SC** estaba lejos de los títulos y atravesaba una sequía importante.
-* **Independiente del Valle** aún jugaba en la segunda categoría bajo el nombre de Independiente José Terán.
-* **El Nacional**, por su parte, era considerado el club más exitoso del país, con 14 títulos, liderando el palmarés nacional.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-28T125425.674-1024x683.jpg)
-
-En 2006, futbolistas como Antonio Valencia apenas comenzaban a destacar profesionalmente, y la figura del país era **Édison Méndez**, quien brillaba en el PSV Eindhoven de Países Bajos. En contraste, jugadores como **Moisés Caicedo**, Piero Hincapié y William Pacho eran niños de cinco años, y Kendry Páez aún no nacía, ya que llegó al mundo en 2007.
-
-El mundo del fútbol en 2006
----------------------------
-
-Ese año, Italia ganó su cuarto Mundial al vencer a Francia en una final recordada por el retiro de **Zinedine** **Zidane** tras su icónico cabezazo a Marco Materazzi.
-
-**Cristiano** **Ronaldo** y **Lionel** **Messi** ya daban sus primeros pasos como figuras emergentes en sus respectivos clubes.
-
-> El día que comenzó todo 🤩  
->   
-> Un 16 de junio de 2006, y con solo 18 años, Lionel Messi 🇦🇷 debutó en la Copa Mundial de la FIFA 🏆  
->   
-> Y sí, lo hizo marcando un gol 🔥[@Argentina](https://twitter.com/Argentina?ref_src=twsrc%5Etfw) [pic.twitter.com/zgf6vV5lrW](https://t.co/zgf6vV5lrW)
-> 
-> — Copa Mundial FIFA 🏆 (@fifaworldcup\_es) [June 16, 2023](https://twitter.com/fifaworldcup_es/status/1669716648633450496?ref_src=twsrc%5Etfw)
-
-Por otro lado, **Ronaldinho** era el mejor jugador del mundo, pero **Fabio Cannavaro ganó el Balón de Oro** gracias al Mundial que conquistó Italia. Mientras que el **FC Barcelona** era el vigente campeón de la Champions League.
-
-> ⚽️✨ Throwback in 2006 when Fabio Cannavaro won the Ballon d'Or! [#ballondor](https://twitter.com/hashtag/ballondor?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/UL1XammuTG](https://t.co/UL1XammuTG)
-> 
-> — Ballon d'Or (@ballondor) [October 8, 2024](https://twitter.com/ballondor/status/1843622372235952575?ref_src=twsrc%5Etfw)
-
-Y en Sudamérica, el ganador de la **Copa Libertadores** fue el Internacional de Porto Alegre.
-
-La tecnología y la sociedad en 2006
------------------------------------
-
-En aquellos años, los celulares con infrarrojo eran la novedad, y los dispositivos táctiles aún no existían. **Apple no había lanzado el iPhone,** pero dominaba el mercado musical con el iPod.
-
-En redes sociales, **MySpace era el rey**, mientras que Facebook empezaba a ganar popularidad. Twitter, ahora conocida como X, se fundó ese mismo año, y ni **Instagram ni WhatsApp habían sido creados**.
-
-2006 nos parece lejano, **pero esa fue la última vez que El Nacional celebró un título**, un recuerdo que ahora los hinchas vuelven a revivir.
-
-Independiente del Valle perdió cuatro finales en su historia
-============================================================
-
-Independiente del Valle tiene seis títulos ganados y cuatro perdidos en su historia.
-------------------------------------------------------------------------------------
-
-![Keny Arroyo, jugador de Independiente del Valle en la final de la Copa Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/idv_finales_1.jpg)
-
-**Independiente del Valle** jugó su primera temporada en la Serie A de Ecuador en el 2010. Dese ese año su crecimiento ha sido notable y luego de 14 años está consolidado como una de las instituciones más destacadas del país.
-
-La base del crecimiento de Independiente del Valle está dado por su fuerte organización institucional, la **formación de jugadores, venta de los mismos y por los títulos nacionales** e internacionales que fue aglutinando con el pasar de los años.
-
-### Más noticias:
-
-* [Las cuatro claves del éxito de Segundo Castillo en Barcelona SC](https://www.elcomercio.com/deportes/futbol/cuatro-claves-del-exito-segundo-castillo-barcelona-sporting-club.html "Las cuatro claves del éxito de Segundo Castillo en Barcelona SC")
-* [Liga de Quito y su pelea por los puntos, ¿tienen posibilidad de recuperarlos?](https://www.elcomercio.com/deportes/futbol/liga-de-quito-pelea-por-puntos-tienen-posibilidad-de-recuperarlos.html "Liga de Quito y su pelea por los puntos, ¿tienen posibilidad de recuperarlos?")
-* [Kylian Mbappé falló un penal y el Real Madrid perdió en Champions](https://www.elcomercio.com/deportes/futbol/kylian-mbappe-fallo-penal-real-madrid-perdio-champions-liverpool.html "Kylian Mbappé falló un penal y el Real Madrid perdió en Champions")
-
-El primer título en su hoja de vida fue el de la Copa Sudamericana de 2019. En la **final única jugada en Asunción, Paraguay**, ante Colón de Santa Fe, ganaron por 3-1 para inaugurar la seguidilla de trofeos que sumaron a sus vitrinas.
-
-Luego se sumaron la de la Liga Pro 2021 (vs. Emelec), la Sudamericana (vs. San Paulo) y la **Copa Ecuador (vs. 9 de Octubre) de 2022**; la Supercopa Ecuador (vs Aucas) y la Recopa Sudamericana (Flamengo) en el 2023.
-
-Todos esos títulos le abrieron un espacio en el país, pero también lo pusieron en el mapa del fútbol sudamericano. En **poco tiempo pasó de ser un participante más a competir codo a codo** con equipos de mayor trayectoria y tradición.
-
-Incluso se dio el lujo de ganar la Copa Libertadores sub-20 en el 2020 en Asunción. En al final vencieron a River Plate por 2-1. En los argentinos despuntaba un joven Enzo Pérez, campeón del mundo con su país en Catar 2022.
-
-Las derrotas de Independiente del Valle
----------------------------------------
-
-Sin embargo, IDV tiene prácticamente la misma cantidad de finales perdidas. Suma cuatro en estos años.
-
-Antes de la consagración de 2019, **los del Valle perdieron la final de la Copa Libertadores 2016** ante el Atlético Nacional de Colombia por un marcador global de 2-1.
-
-El paraguayo Librado Azcona, los uruguayos Christian Núñez, Emiliano Telechea y Mario Rizotto, más los ecuatorianos Aturo Mina, **Luis ‘Kunty’ Caicedo, Jefferson Orejuela, Julio Angulo, Junior Sornoza**, Bryan Cabezas, José ‘Tin’ Angulo, Jonathan González, Jonny Uchuari, Miller Castillo, fueron parte de ese plantel.
-
-La segunda final perdida fue la Recopa Sudamericana 2020 ante Flamengo. En la ida **empataron 2-2 en el Olímpico Atahualpa** y en la revancha perdieron 3-0 en el Maracaná de Río de Janeiro.
-
-Alan Franco y Angelo Preciado, mundialista con la Selección de Ecuador en Catar 2022, integraron ese plantel.
-
-El primer título nacional que perdió fue en la Liga Pro 2023. Fue ante Liga de Quito que ganó 3-1 en los lanzamientos penales. La ida se **cerró con un 0-0 y la vuelta con un dramático y disputado 1-1**.
-
-Moisés Ramírez, Jhoanner Chávez, Kendry Páez, Joao Ortiz, Jordy Alcívar, Junior Sornoza, Beder Caicedo, Alexis Villa, **Patrickson Delgado y Yaimar Medina**, seleccionados nacionales, estaban en el equipo.
-
-La última final perdida fue de la Copa Ecuador 2024. En el mismo Rodrigo Paz Delgado cayó 0-1 ante El Nacional.
-
-San viernes
------------
-
-EE.UU. ‘consideraría’ ayudar a Edmundo González a regresar a Venezuela si él se lo pidiera
-==========================================================================================
-
-Estados Unidos reconoce como “presidente electo” de Venezuela a Edmundo González, quien se encuentra en España.
----------------------------------------------------------------------------------------------------------------
-
-![Edmundo González planea regresar a Venezuela el 10 de enero de 2025.](https://www.elcomercio.com/wp-content/uploads/2024/11/Edmungo-gonzalez-urrutia-efe.jpg)
-
-[Estados Unidos](https://www.elcomercio.com/actualidad/politica/estados-unidos-hizo-nueva-donacion-a-ecuador-cual-es-el-fin.html "https://www.elcomercio.com/actualidad/politica/estados-unidos-hizo-nueva-donacion-a-ecuador-cual-es-el-fin.html") afirmó el miércoles, 27 de noviembre de 2024, que el líder opositor venezolano [Edmundo González](https://www.elcomercio.com/actualidad/mundo/edmundo-gonzalez-moralmente-preparado-eventual-detencion-venezuela.html "https://www.elcomercio.com/actualidad/mundo/edmundo-gonzalez-moralmente-preparado-eventual-detencion-venezuela.html") Urrutia, actualmente exiliado en España, no le pidió ayuda para regresar a su país, pero dijo que lo “consideraría” si este se lo pidiera.
-
-### Más noticias
-
-* [Estas son las 5 propuestas claves de Donald Trump y Kamala Harris](https://www.elcomercio.com/actualidad/mundo/son-5-propuestas-claves-donald-trump-kamala-harris.html "Estas son las 5 propuestas claves de Donald Trump y Kamala Harris")
-* [Brasil teme impactos a su industria por el posible proteccionismo de Donald Trump](https://www.elcomercio.com/actualidad/mundo/brasil-teme-impactos-industria-posible-proteccionismo-donald-trump.html "Brasil teme impactos a su industria por el posible proteccionismo de Donald Trump")
-* [Estados Unidos reconoce a Edmundo González Urrutia como presidente electo de Venezuela](https://www.elcomercio.com/actualidad/mundo/estados-unidos-reconoce-a-edmundo-gonzalez-urrutia-como-presidente-electo-de-venezuela.html "Estados Unidos reconoce a Edmundo González Urrutia como presidente electo de Venezuela")
-
-“El Gobierno de Estados Unidos no recibió ninguna **solicitud de asistencia** para su transporte; tampoco participamos en su **salida de Venezuela** ni se nos pidió que lo hiciéramos”, dijo un alto cargo de la **Administración de Joe Biden** en una llamada con periodistas.
-
-El mismo funcionario agregó: “**si recibiéramos una solicitud de él, la consideraríamos”**.
-
-También remarcó que **Estados Unidos** no reconoce la autoridad del presidente de Venezuela, Nicolás Maduro, y que, por tanto, **no está “en contacto” con su Gobierno** para “este tipo de asuntos”.
-
-Estados Unidos reconoce a Edmundo González como presidente electo
------------------------------------------------------------------
-
-Estados Unidos reconoce como **“presidente electo” de Venezuela a Edmundo González**, quien se encuentra en España y declaró su intención de **regresar a su país** para asumir la Presidencia el 10 de enero de 2025, cuando está prevista la investidura de Maduro.
-
-El **Consejo Nacional Electoral (CNE)** proclamó en las elecciones a la Presidencia del 28 de julio la reelección de **Nicolás Maduro** como presidente de Venezuela, pero el organismo no publicó las actas con los resultados desagregados.
-
-La Plataforma Unitaria Democrática (PUD), la principal coalición opositora del país, presentó por su parte unas actas que dan la victoria a su candidato, González Urrutia, quien desde septiembre se encuentra exiliado en España denunciando una persecución de las autoridades de su país.
-
-En una entrevista el pasado lunes en Madrid, **González Urrutia** confirmó su intención de viajar a Caracas para asumir el cargo el 10 de enero y sostuvo que está **“moralmente preparado” para su posible** detención en Venezuela.
-
-Venezuela estudia sus relaciones con el G7 por su apoyo a González
-------------------------------------------------------------------
-
-El Gobierno de Venezuela anunció que revisará sus relaciones con los países del G7 debido a una reciente postura del grupo, en el que dan su respaldo a Edmundo González Urrutia como ganador de las elecciones del 28 de julio, en las que el presidente Nicolás Maduro fue proclamado ganador.
-
-El Rodrigo Paz vio coronarse campeones a cuatro equipos
-=======================================================
-
-El Rodrigo Paz Delgado fue testigo de ocho vueltas olímpicas de Liga de Quito.
-------------------------------------------------------------------------------
-
-![Gustavo Asprilla, jugador de El Nacional en el Rodrigo Paz Delgado.](https://www.elcomercio.com/wp-content/uploads/2024/11/rodrigo_paz_1.jpg)
-
-El **6 de marzo de 1997 el estadio Rodrigo Paz Delgado** abrió por primera vez sus puertas para recibir a los hinchas de Liga de Quito en su nueva y moderna casa. Ese fue el inicio de un época gloriosa para la institución.
-
-Esa noche le ganaron 3-1 a Atlético Mineiro de Brasil en un compromiso amistoso.  **Mané Ferreira (31′), Paúl Guevara (72′) y Patricio Hurtado (89′)** fueron los autores de los goles. Nino (52′) descontó para los invitados a esta histórica fiesta.
-
-### Más noticias:
-
-* [Liga de Quito ya tiene fecha y hora para audiencia de apelación](https://www.elcomercio.com/deportes/futbol/liga-de-quito-tiene-fecha-hora-audiencia-apelacion.html "Liga de Quito ya tiene fecha y hora para audiencia de apelación")
-* [Enner, un nombre que ganó fanáticos en tres años](https://www.elcomercio.com/deportes/futbol/enner-valencia-cantidad-inscritos-nombre.html "Enner, un nombre que ganó fanáticos en tres años")
-* [Lamine Yamal ganó el Golden Boy con doble récord](https://www.elcomercio.com/deportes/futbol/lamine-yamal-golden-boy-record.html "Lamine Yamal ganó el Golden Boy con doble récord")
-
-Pasaron más de 27 años desde aquella jornada. El Rodrigo Paz **se ha convertido en uno de los escenarios deportivos más importantes del país** con el sinnúmero de eventos trascendentes que ahí se han desarrollado.
-
-Para el Mundial Corea-Japón 2002 fue sede de dos **partidos de eliminatorias de la Selección de Ecuador**, pero desde el camino al Mundial Catar 2022 y 2026 se convirtió en la nueva casa del equipo nacional.
-
-En este tiempo son cuatro conjuntos que se han coronado campeones en ‘Casa Blanca’ y han dado la vuelta olímpica.
-
-Liga de Quito
--------------
-
-Como no podía ser de otra manera, **Liga de Quito tiene ocho vueltas olímpicas** en su estadio, siete nacionales y una internacional.
-
-En el campeonato nacional ganó los torneos de **1998, 1999, 2003, Apertura 2005, 2007, 2018 y 2023**.
-
-A escala internacional ganó la Recopa Sudamericana de 2009 ante Estudiantes de La Plata, siendo el único de los cinco que obtuvo jugado de local.
-
-Los cuatro restantes los ganó en el **Maracaná, Centenario de Quilmes en Buenos Aires**, y en el Domingo Burgueño Miguel, Maldonado, Uruguay.
-
-![Foto: Archivo histórico EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/11/rodrigo_paz_2-1024x683.jpg)
-
-Foto: Archivo histórico EL COMERCIO.
-
-Emelec
-------
-
-Emelec se convirtió en el primer equipo visitante que dio la vuelta olímpica en el Rodrigo Paz.
-
-El domingo 20 de diciembre de **2015 empataron 0-0 en la revancha y consolidaron** su tricampeonato de la década y se confirmó como uno de los mejores equipos de ese momento.
-
-En la ida, jugada en el Reales Tamarindos, los azules ganaron por 3-1 con goles de Fernando Gaibor y un doblete de Ángel Mena. Jose Francisco Cevallos descontó.
-
-![Foto: Archivo histórico EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/11/rodrigo_paz_3-1024x683.jpg)
-
-Foto: Archivo histórico EL COMERCIO.
-
-Barcelona SC
-------------
-
-En el 2020 el turno para dar la vuelto olímpica en **Ponceano fue para Barcelona Sporting Club**.
-
-El martes 29 de diciembre de 2020 se jugó la final de vuelta de la Liga Pro, con un estadio vacío por las restricciones que en ese momento se implementaron para mitigar las afectaciones del covid-19.
-
-En los 90 minutos empataron 0-0 y en los lanzamientos penales los guayaquileños se impusieron 3-1 con los acertados disparos de **Jonathan Álvez, Matías Oyola y Damián Díaz**.
-
-Los albos solo acertaron con Jordy Alcívar. **Ezequiel Piovi, Franklin Guerra y Cristian Martínez Borja** erraron ante la figura de Javier Burrai, uno de los destacados de esa noche.
-
-![Foto: ECDF.](https://www.elcomercio.com/wp-content/uploads/2024/11/rodrigo_paz_5-1024x683.jpg)
-
-Foto: ECDF.
-
-El Nacional
------------
-
-El último en sumarse a los equipos que dieron la vuelta en la casa de Liga de Quito fue El Nacional.
-
-Lo hizo el miércoles **27 de noviembre de 2024 en la final de la Copa Ecuador**. Con un tanto de Gabriel ‘Loco’ Cortez derrotaron a Independiente del Valle para sumar la segunda corona de este torneo.
-
-Para los rojos es el primer título que ganan desde 2006. Ese año sumaron a su palmarés el trofeo 13 del campeonato ecuatoriano.
-
-El **uruguayo-paraguayo Éver Hugo Almeida** era el DT de un equipo que tenía como una de sus figuras a Christian ‘Chucho’ Benítez.
-
-![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/11/rodrigo_paz_4-1024x683.jpg)
-
-Foto: API.
-
-San viernes
------------
-
-Ecuatorianos disputarán una nueva fecha de Europa y Conference League
-=====================================================================
-
-Seis jugadores ecuatorianos representarán al país en la Europa League y Conference League, dos de los torneos de clubes más importantes de Europa.
---------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Alan Minda es uno de los ecuatorianos presente en la Conference League.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-28T114119.824.jpg)
-
-Este jueves 28 de noviembre se disputarán la quinta jornada de la **Europa** **League** y la cuarta fecha de la **Conference** **League**. Varias figuras ecuatorianas estarán en acción en estas competencias, buscando destacar en el escenario internacional.
-
-A medida que las fases de **grupos de ambos torneos** se acercan a su desenlace, los equipos luchan por asegurar su clasificación a la siguiente ronda. Aquí te presentamos el calendario de los jugadores ecuatorianos que verán acción.
-
-### Más noticias:
-
-* [Moisés Caicedo fue un pilar del Chelsea en victoria ante Leicester](https://www.elcomercio.com/deportes/futbol/moises-caicedo-clave-triunfo-chelsea-leicester.html "Moisés Caicedo fue un pilar del Chelsea en victoria ante Leicester")
-* [Kylian Mbappé falló un penal y el Real Madrid perdió en Champions](https://www.elcomercio.com/deportes/futbol/kylian-mbappe-fallo-penal-real-madrid-perdio-champions-liverpool.html "Kylian Mbappé falló un penal y el Real Madrid perdió en Champions")
-* [Calendario de ecuatorianos en la Champions League](https://www.elcomercio.com/deportes/futbol/calendario-ecuatorianos-quinta-fecha-champions-league.html "Calendario de ecuatorianos en la Champions League")
-
-Europa League
--------------
-
-Cuatro ecuatorianos estarán presentes en esta jornada de la Europa League: **Nilson Angulo** (Anderlecht, Bélgica), Cristian Ramírez (Ferencváros, Hungría), Denil Castillo (Midtjylland, Dinamarca) y **Kevin** **Rodríguez** (Union Saint-Gilloise, Bélgica).
-
-Ficha de partidos
------------------
-
-**Nilson Angulo**
-
-* **Partido:** Anderlecht vs. Porto
-* **Hora:** 12:45
-* **Estadio:** Lotto Park
-
-**Cristian Ramírez**
-
-* **Partido:** Ferencváros vs. Malmö
-* **Hora:** 15:00
-* **Estadio:** Groupama Arena
-
-**Denil Castillo**
-
-* **Partido:** Midtjylland vs. Frankfurt
-* **Hora:** 15:00
-* **Estadio:** MCH Arena
-
-**Kevin Rodríguez**
-
-* **Partido:** Twente vs. Union Saint-Gilloise
-* **Hora:** 15:00
-* **Estadio:** De Grolsch Veste
-
-Conference League
------------------
-
-El torneo más nuevo de la Uefa, la **Conference League**, contará con la presencia de dos tricolores: Alan Minda (Cercle Brugge, Bélgica) y Moisés Caicedo (Chelsea, Inglaterra).
-
-**Moisés** **Caicedo**, aunque estuvo presente en las fases previas de clasificación al torneo oficial, ha tenido poca participación en la fase de grupos. Desde la primera jornada, donde estuvo convocado, no ha vuelto a ser considerado en el banco de suplentes.
-
-El entrenador del Chelsea, **Enzo** **Maresca**, ha priorizado rotar la plantilla, dando protagonismo a jugadores suplentes en esta competición.
-
-#### **Ficha de partidos**
-
-**Alan Minda**
-
-* **Partido:** Cercle Brugge vs. Hearts
-* **Hora:** 12:45
-* **Estadio:** Jan Breydel
-
-**Moisés Caicedo**
-
-* **Partido:** Heidenheim vs. Chelsea
-* **Hora:** 12:45
-* **Estadio:** Voith-Arena
-
-Con jugadores en ambos torneos, el fútbol ecuatoriano sigue ganando visibilidad en Europa.
-
-Las lluvias en Cuenca, ¿cómo aportaron al embalse de Mazar?
-===========================================================
-
-El caudal del río Tomebamba subió de 0,70 metros cúbicos por segundo a 7,47 luego de dos días de lluvias en Cuenca.
--------------------------------------------------------------------------------------------------------------------
-
-![El caudal del río Tomebamba mejoró luego de dos días lluvias en Cuenca. Cortesía Etapa](https://www.elcomercio.com/wp-content/uploads/2024/11/Tomebamba.jpg)
-
-Dos días seguidos de lluvias se registraron en **Cuenca**. El caudal de los cuatro ríos, que atraviesan la ciudad, mejoró por las precipitaciones del martes 26 y miércoles 27 de noviembre de 2024.
-
-A las 08:00 de este jueves 28 de noviembre de 2024, el río **Tomebamba** tuvo un caudal de 7,47 metros cúbicos por segundo y el **Machángara** alcanzó los 4,11 metros. Ambos están en niveles considerados como normales.
-
-El **Yanuncay** y el **Tarqui** aún están con caudales bajos, con 2,47 y 1,96, respectivamente.
-
-Antes de estas lluvias, el Tomebamba y el Machángara tenía caudales de 0,70 y 1,12 metros cúbicos, en ese orden.
-
-Pese a esta mejora, la **Red Hidrometereológica de la empresa Etapa** aún contabiliza los días de sequía hidrológica en el Austro. Ya van 139 días.
-
-Para este jueves 28 de noviembre, los pronósticos establecen que existe un 74% de probabilidades de lluvias durante el día y 50% para la noche.
-
-### Más noticias
-
-* [Hidroeléctrica Mazar está apagada cinco días y su embalse se recupera lentamente](https://www.elcomercio.com/actualidad/negocios/hidroelectrica-mazar-esta-apagada-cinco-dias-y-su-embalse-se-recupera-lentamente.html "Hidroeléctrica Mazar está apagada cinco días y su embalse se recupera lentamente")
-* [Lluvias en Cuenca la noche de este martes 26 de noviembre](https://www.elcomercio.com/actualidad/ecuador/lluvias-cuenca-noche-martes-26-de-noviembre.html "Lluvias en Cuenca la noche de este martes 26 de noviembre")
-
-Las condiciones en el embalse de Mazar
---------------------------------------
-
-El **embalse de Mazar** se mantiene en los 2 111 metros sobre el nivel del mar. Es decir, a 42 metro del máximo, según los datos de **Celec Sur**.
-
-Las lluvias registradas el del martes 26 y miércoles 27 de noviembre en **Cuenca** mejoraron los caudales del río **Paute** que alimentan los embalses de **Mazar y Paute**. El promedio de este jueves 28 es de 44 metros cúbicos por segundo.
-
-El lunes 25 estuvo en los 21,39 metros cúbicos, de acuerdo con la data de Celec Sur.
-
-El **embalse** de **Mazar** se mantiene en los 2 111 metros por dos razones fundamentales. La primera es el aporte de agua que entrega al embalse de la **Central Paute**, que está aguas abajo.
-
-La **presa Daniel Palacios** de Paute está en la cota 1 982 metros sobre el nivel de mar y con un caudal de 39,46 metros cúbico por segundo.
-
-El segundo factor es que **Mazar** genera energía para cubrir la demanda nacional. Opera con una de sus dos turbinas.
-
-Para este jueves 28 de noviembre, el **Operador Nacional de Electricidad (Cenace)** programó que Mazar aporte con el 2% de la producción hidroeléctrica y Paute con el 12%.
-
-**Sopladora**, que forma parte del mismo complejo de Mazar y Paute, generará el 8%. **Coca Codo Sinclair**, que es la más grande de Ecuador, abastecerá con el 34%.
-
-Daniel Noboa reducirá Impuesto a la Salida de Divisas
-=====================================================
-
-El ajuste propuesto por Daniel Noboa aplicará a partir del 1 de enero del año 2025 y se reajustará a partir de abril del mismo año
-----------------------------------------------------------------------------------------------------------------------------------
-
-![Daniel Noboa dando un discurso el pasado 25 de noviembre de 2024 en la ciudad de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-66-1.jpg)
-
-El gobierno de **Daniel Noboa** informó este jueves 28 de noviembre de 2024 sobre la decisión tomada en torno al **Impuesto a la Salida de Divisas (ISD)**.
-
-### Más noticias
-
-* [Daniel Noboa oficializó la creación de la Universidad de Santo Domingo de los Tsáchilas](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-universidad-santo-domingo-tsachilas.html "Daniel Noboa oficializó la creación de la Universidad de Santo Domingo de los Tsáchilas")
-* [Daniel Noboa asegura que los feminicidios se redujeron en un 35% en Ecuador](https://www.elcomercio.com/actualidad/politica/daniel-noboa-asegura-que-feminicidios-se-redujeron-en-un-35-ecuador.html "Daniel Noboa asegura que los feminicidios se redujeron en un 35% en Ecuador")
-* [Pago de sueldos y décimos de diciembre estarían asegurados por parte del Gobierno](https://www.elcomercio.com/actualidad/negocios/pago-sueldo-decimos-diciembre-asegurado-gobierno.html "Pago de sueldos y décimos de diciembre estarían asegurados por parte del Gobierno")
-
-Reducción del ISD
------------------
-
-En un comunicado, el **Gobierno Nacional** informó que, considerando los desafíos actuales y con el objetivo de promover la competitividad de las empresas, se modificará a la baja el ISD. Esto en favor de subpartidas arancelarias de materias primas esenciales para la producción de la industria nacional.
-
-Así, desde el 1 de enero de 2025, y durante los tres primeros meses del año, la tarifa del ISD será del 0% y, desde abril de 2025, será del 2,5%.
-
-Actualmente, el Impuesto a la Salida de Divisas (ISD) **tenía un aumento del 3,5% al 5%.** Este ajuste, establecido por la Ley Orgánica para enfrentar el Conflicto Armado Interno, comenzó a aplicarse a partir del [1 de abril de 2024.](https://es.wikipedia.org/wiki/Guayaquil "https://es.wikipedia.org/wiki/Guayaquil")
-
-Agrega que las **subpartidas que serán beneficiadas** con la reducción del ISD serán definidas por el equipo económico del Gobierno en coordinación con 17 sectores productivos.
-
-Esta decisión se ampara en la **Ley Orgánica** para enfrentar el conflicto armado interno, la crisis social y económica. Se la adopta con el fin de que el **sector productivo no se vea afectado** por un dictamen emitido por la Corte Constitucional que estableció que solo hasta el 31 de diciembre de 2024 regirá el crédito tributario **relacionado con el ISD.**
-
-Con esa medida, e**l Gobierno Nacional** protege la competitividad del sector para contribuir al dinamismo económico que beneficie a la población ecuatoriana, concluye el comunicado.
-
-> A la ciudadanía:[#ElNuevoEcuadorResuelve](https://twitter.com/hashtag/ElNuevoEcuadorResuelve?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/OCqs5Wo4pl](https://t.co/OCqs5Wo4pl)
-> 
-> — Presidencia Ecuador 🇪🇨 (@Presidencia\_Ec) [November 28, 2024](https://twitter.com/Presidencia_Ec/status/1862171409922867684?ref_src=twsrc%5Etfw)
-
-Ya hay un comité para organizar los debates para las elecciones 2025
-====================================================================
-
-Ya se conocen los nombres de quienes definirán los detalles para el debate de las elecciones 2025.
---------------------------------------------------------------------------------------------------
-
-![Capacitaciones a integrantes de organizaciones políticas son parte de las elecciones 2025.](https://www.elcomercio.com/wp-content/uploads/2024/11/cne-capacitaciones.jpg)
-
-Como parte del calendario para las **elecciones 2025**, el **Consejo Nacional Electoral (CNE)** definió los integrantes del Comité Nacional de Debates Electorales[.](https://es.wikipedia.org/wiki/Consejo_Nacional_Electoral_(Ecuador))[](https://es.wikipedia.org/wiki/Consejo_Nacional_Electoral_(Ecuador))
-
-Este jueves, 28 de noviembre de 2024, el organismo electoral dio los nombres de quienes dirigirán los encuentros entre los candidatos a la Presidencia.
-
-### Más noticias
-
-* [Las elecciones 2025 se acercan, ¿qué pesa más a la hora de votar?](https://www.elcomercio.com/actualidad/politica/elecciones-2025-se-acercan-pesa-mas-para-votar.html "Las elecciones 2025 se acercan, ¿qué pesa más a la hora de votar?")
-* [180 candidatos para asambleístas nacionales en las elecciones 2025, ¿cuántos puestos hay?](https://www.elcomercio.com/elecciones/180-candidatos-para-asambleistas-nacionales-elecciones-2025-puestos.html "180 candidatos para asambleístas nacionales en las elecciones 2025, ¿cuántos puestos hay?")
-* [CNE inicia la impresión de papeletas para las elecciones 2025](https://www.elcomercio.com/actualidad/politica/cne-inicia-impresion-papeletas-elecciones-2025.html "CNE inicia la impresión de papeletas para las elecciones 2025")
-
-Elecciones 2025 y los debates
------------------------------
-
-El Comité está conformado por cinco personas. Los integrantes provienen de instituciones académicas y organizaciones de la sociedad civil.
-
-Según el **[CNE](https://www.cne.gob.ec/)**, la premisa es garantizar la independencia, pluralismo, equidad e igualdad en el desarrollo de estos espacios de deliberación democrática.
-
-Los expertos designados son: **María Gabriela Castro Pérez, Pablo Andrés Escandón Montenegro, Héctor Yépez Martínez, Ernesto Francisco Valle Minuche y Carlos Alonso Naranjo Mena**.
-
-> ATENCIÓN 📢  
->   
-> Designamos al Comité Nacional de Debates 🇪🇨🗳️ para las [#Elecciones2025Ec](https://twitter.com/hashtag/Elecciones2025Ec?src=hash&ref_src=twsrc%5Etfw).  
->   
-> Conoce los detalles ➡️📃[https://t.co/DBH5hSFJAH](https://t.co/DBH5hSFJAH) [pic.twitter.com/SUG7f40jnA](https://t.co/SUG7f40jnA)
-> 
-> — cnegobec (@cnegobec) [November 28, 2024](https://twitter.com/cnegobec/status/1862158400760500255?ref_src=twsrc%5Etfw)
-
-¿Cuáles son las funciones?
---------------------------
-
-Los integrantes del **Comité Nacional de Debates Electorales** se encargarán de definir los ejes temáticos para los debates presidenciales obligatorios.
-
-En las tareas de las personas definidas se incluye elaborar las preguntas generales que se formularán a los candidatos.
-
-A su vez, la delegación tendrá que presentar una terna al **Pleno del CNE** para seleccionar a los moderadores.
-
-Calendario electoral y los debates
-----------------------------------
-
-De acuerdo con el **calendario electoral**, el debate de los candidatos a la Presidencia de Ecuador será el 19 de enero de 2025. Son 16 postulantes al cargo. Las votaciones generales serán el 9 de febrero.
-
-En caso de haber **segunda vuelta**, el debate se desarrollará el 23 de marzo. Los comicios están establecidos para el 13 de abril.
-
-Binomios presidenciales
------------------------
-
-* **Unidad Popular** (UP) con Jorge Escala y Pacha Terán
-* **Partido Sociedad Patriótica** (PSP) con Andrea González y Galo Moncayo
-* Alianza Revolución Ciudadana (RC)-Reto con Luisa González-Diego Borja.
-* Acción Democrática Nacional (ADN) con Daniel Noboa y María José Pinto
-* Partido Socialista Ecuatoriano (PSE) con Pedro Granja-Verónica Silva
-* Movimiento CREO con Francesco Tabacchi-Blanca Sacancela
-* Movimiento Construye con Henry Cucalón-Carla Larrea
-* Movimiento Pueblo Igualdad Democracia (PID) con Víctor Araúz-Cristina Carrera
-* Movimiento Acción Movilizadora Independiente Generando Oportunidades (Amigo) con Juan Cueva-Cristina Reyes
-* Movimiento Democracia Sí con Iván Saquicela-Luisa Coello
-* Partido Social Cristiano (PSC) con Henry Kronfle-Dallyana Passailaigue 
-* Partido Avanza con Luis Felipe Tillería-Karla Rosero
-* Movimiento Pachakutik con Leonidas Iza-Katiuska Molina
-* Movimiento Centro Democrático con Jimmy Jairala-Lucía Vallecilla
-* Izquierda Democrática (ID) con Carlos Rabascall y María Alejandra Rivas
-* Sociedad Unida Más Acción (SUMA) con Enrique Gómez e Inés Díaz.
-
-Lluvias se esperan en Quito la tarde de este jueves 28 de noviembre, según Inamhi
-=================================================================================
-
-Las altas temperaturas diurnas podrían registrar hasta 25 °C; la radiación ultravioleta se mantiene en niveles muy altos
-------------------------------------------------------------------------------------------------------------------------
-
-![El Inamhi prevé lluvias en la tarde de este jueves 28 de noviembre.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-2024-11-28T105936.272.jpg)
-
-El Instituto Nacional de Meteorología e Hidrología **(Inamhi)** informó sobre las condiciones del clima previstas para este jueves 28 de noviembre en Quito.
-
-### Más noticias
-
-* [El Inamhi pronosticó lluvias en dos regiones del Ecuador](https://www.elcomercio.com/actualidad/ecuador/inamhi-pronostico-lluvias-dos-regiones-ecuador.html "El Inamhi pronosticó lluvias en dos regiones del Ecuador")
-* [Lluvias en Cuenca la noche de este martes 26 de noviembre](https://www.elcomercio.com/actualidad/ecuador/lluvias-cuenca-noche-martes-26-de-noviembre.html "Lluvias en Cuenca la noche de este martes 26 de noviembre")
-* [Cortes de luz en Quito del viernes 29 de noviembre al domingo 1 de diciembre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-de-viernes-29-de-noviembre-a-domingo-1-de-diciembre.html "Cortes de luz en Quito del viernes 29 de noviembre al domingo 1 de diciembre")
-
-Advertencia Meteorológica
--------------------------
-
-El Inamhi publicó la alerta meteorológica para los días entre el 27 y el 30 de noviembre que pronostica la **presencia de lluvias** en la región Amazónica y en el Callejón Interandino.
-
-Además, se prevé que, en ciertos momentos, estas **precipitaciones** podrían estar acompañadas de **tormentas eléctricas.**
-
-Este jueves 28 de noviembre es el día previsto con **lluvias más intensas.** Por lo que se recomienda tener precauciones:
-
-* Si las autoridades lo indica, **evacúa** lo antes posible
-* Aléjate de los cables de electricidad y **desconecta los aparatos electrónicos**
-* **No camines cerca del agua** ni intentes cruzar cauces de ríos
-* No te refugies debajo de árboles **ni manipules objetos metálicos** durante tormentas eléctricas
-
-> "📢🌧️ [#AlertaMeteorológica](https://twitter.com/hashtag/AlertaMeteorol%C3%B3gica?src=hash&ref_src=twsrc%5Etfw) | Entre el 27 al 30 de noviembre se prevé la presencia de lluvias en la región Amazónica y el Callejón Interandino. En ciertos momentos, estas precipitaciones podrían estar acompañadas de tormentas eléctricas ⚡.  
-> Tenga en cuenta esta información [pic.twitter.com/2Eoykmo5Wy](https://t.co/2Eoykmo5Wy)
-> 
-> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [November 27, 2024](https://twitter.com/inamhi_ec/status/1861810450641363363?ref_src=twsrc%5Etfw)
-
-Clima en Quito será variado
----------------------------
-
-Para este jueves 28 de noviembre, el Inamhi prevé un **cielo poco nuboso a nublado**. Los índices de radiación ultravioleta se mantienen en niveles ‘muy altos’.
-
-Para Quito, se esperan **temperaturas mínimas de 10 grados** y máximas de hasta 24 grados centígrados.
-
-Durante la mañana, habría temperaturas altas y poca nubosidad; sin embargo, en la tarde la nubosidad podría aumentar y **presentarse lluvias aisladas y chubascos.**
-
-Así mismo, durante la noche del jueves y madrugada del viernes 29 de noviembre, pueden presentarse **lluvias aisladas**.
-
-No olvides protegerte del **sol con protector solar y gorra**; así como también llevar paraguas y ropa abrigada.
-
-Durante la tarde y noche del miércoles 27 de noviembre **se registraron lluvias** en el norte, sur de Quito y valle de Los Chillos.
-
-> 🌥️ [#ElClimaQuiteño](https://twitter.com/hashtag/ElClimaQuite%C3%B1o?src=hash&ref_src=twsrc%5Etfw) | Pronóstico para el jueves, 28 de noviembre, según el [@inamhi\_ec](https://twitter.com/inamhi_ec?ref_src=twsrc%5Etfw):  
->   
-> 🌞 Temperaturas entre 20°C y 25°C con cielo parcial nublado por la mañana y lluvias en la tarde.  
->   
-> 🧴No olvides usar protector solar, beber agua🥤y llevar tu paraguas ☂️. [pic.twitter.com/83NdDzierX](https://t.co/83NdDzierX)
-> 
-> — COE Quito (@coequito) [November 28, 2024](https://twitter.com/coequito/status/1862138363119050956?ref_src=twsrc%5Etfw)
-
-Nicolás Maduro desafía al decir ‘Nunca entregaré el bastón de mando’
-====================================================================
-
-Estados Unidos sancionó a un grupo de "eminentes hombres" del país suramericano, entre ellos "líderes militares".
+Silvia Pinal fue una de las más importantes actrices de México. La 'diva del cine de oro' falleció a sus 93 años.
 -----------------------------------------------------------------------------------------------------------------
 
-![Nicolás Maduro en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/11/nicolas-maduro-union-efe.jpg)
+![Silvia Pinal fue una de las actrices del cine de México más importantes](https://www.elcomercio.com/wp-content/uploads/2024/11/silvia-pinal-fallecio.jpg)
 
-El presidente de Venezuela, [Nicolás Maduro](https://www.elcomercio.com/actualidad/mundo/maduro-reune-lideres-turquia-bielorrusia-palestina-cumbre-brics.html "https://www.elcomercio.com/actualidad/mundo/maduro-reune-lideres-turquia-bielorrusia-palestina-cumbre-brics.html"), condecorará a los **21 cargos chavistas** sancionados por Estados Unidos, a quienes Washington acusa de **“represión” y de intentar “robar**” las presidenciales de julio, en las que el mandatario fue proclamado ganador, un resultado que la mayor **coalición opositora** considera fraudulento.
+Silvia Pinal, una de las grandes actrices y considerada la última diva de la época de oro del cine de México, falleció a los 93 años, este jueves 28 de noviembre de 2024.
+
+La actriz, empresaria, productora, presentadora de televisión y, en un momento, política, estuvo internada en un hospital en la última semana por complicaciones médicas.
+
+Trayectoria de Silvia Pinal
+---------------------------
+
+Pinal, nacida en 1931 en Guaymas, en el norteño estado de Sonora, deja un legado de más de 60 años.
+
+Pinal fue una incansable artista que durante su vida trabajó en cine, teatro, televisión y espectáculos de cabaret y palenque.
+
+Su camino a la gloria pasó por películas en donde compartió cartel con otros gigantes del cine de oro como Mario Moreno ‘Cantinflas’ en ‘Puerta joven’ (1949), y Germán Valdés ‘Tin Tan’ en ‘El rey del barrio’ (1950) y ‘Me traes de un ala’ (1952).
+
+Mientras que con Pedro Infante, el “ídolo de México”, compartió pantalla en ‘El inocente’ (1956).
+
+La fama internacional la alcanzó al convertirse en la musa del director español Luis Buñuel, quien la inmortalizó en ‘Viridiana’ (1961).
+
+Con el cineasta español también protagonizó otros clásicos como ‘El ángel exterminador’ (1962) y ‘Simón del desierto’ (1964).
+
+La artista afianzó su carrera con ‘Los cuervos están de luto’ (1965), ‘La soldadera’, (1967), ‘Los cañones de San Sebastián’ (1968), donde comparte cartel con Anthony Quinn, ‘Shark’ (1969), con Burt Reynolds, y en ‘Veinticuatro horas de placer’ (1969), junto a Mauricio Garcés.
+
+Pinal se convirtió en una figura cercana para toda una nueva generación de mexicanos cuando produjo y presentó la serie de antología ‘Mujer, casos de la vida real’ (1986-2007) en la televisión abierta.
+
+El programa, a modo de telenovela, presentaba cada día la historia de una mujer que llegaba a manos de los productores para ser interpretado por actores.
+
+El contenido solía estar centrado en casos de violencia, marginación o discriminación.
+
+‘Mujer, casos de la vida real’, y Pinal como su presentadora, dieron pie a una frase que hasta el día de hoy forma parte de la retranca mexicana: “Acompáñenme a ver esta triste historia”, decía la actriz en su faceta de conductora.
+
+Problemas personales Su vida personal no fue sencilla, estuvo casada con el actor cubano Rafael Banquells (1947-1952), con el empresario Gustavo Alatriste (1961-1967), con el cantante mexicano-venezolano Enrique Guzmán (1967-1976) y con el político Tulio Hernández Gómez (1982-1995).
+
+De esos matrimonios nacieron la actriz Silvia Pasquel, la cantante Alejandra Guzmán y su hermano Luis Enrique, y Viridiana Alatriste, quien falleció en un accidente automovilístico a corta edad.
+
+En abril pasado, la modelo Frida Sofía, hija de Alejandra, acusó públicamente a su abuelo Enrique Guzmán de abusar sexualmente de ella cuando tenía tan solo cinco años y de también golpear a Pinal.
+
+Tras ser acusada por Guzmán de tener problemas psiquiátricos, Pinal salió en defensa de su nieta con una carta.
+
+“No soy indiferente a lo que sucede dentro de mi seno familiar. Frida, tu abuela te ama intensamente. Nos necesitamos ambas”, escribió la actriz.
+
+La violencia de Guzmán queda retratada en la bioserie ‘Silvia Pinal, frente a ti’ (2018), basada en su libro autobiográfico ‘Esta soy yo: Silvia Pinal’, en donde el cantante de rock es interpretado con el nombre de Felipe Román.
+
+El adiós definitivo
+-------------------
+
+Silvia Pinal estuvo en grave riesgo durante la pandemia por covid-19, pero logró reponerse[.](https://es.wikipedia.org/wiki/Silvia_Pinal "https://es.wikipedia.org/wiki/Silvia_Pinal")
+
+Sin embargo, el 21 de noviembre fue hospitalizada otra vez tras por una nueva complicación médica.
+
+Una semana después, a los 93 años de edad, una de las grandes personalidades de la historia de la cultura mexicana falleció, dejando un legado eterno para el cine de este país.
+
+TCE tomó una decisión sobre denuncia de Ana Chóez contra Aquiles Alvarez
+========================================================================
+
+El juez del TCE, Fernando Muñoz, argumentó la sentencia sobre la denuncia de Ana Chóez contra el alcalde de Guayaquil, Aquiles Alvarez.
+---------------------------------------------------------------------------------------------------------------------------------------
+
+![El TCE se pronunció sobre la denuncia contra Aquiles Alvarez.](https://www.elcomercio.com/wp-content/uploads/2024/05/Aquiles-Alvarez.jpg)
+
+El **Tribunal Contencioso Electoral (TCE)** tomó una decisión sobre la denuncia de la concejal socialcristiana **Ana Chóez** contra el alcalde de Guayaquil, **Aquiles Alvarez**, este jueves 28 de noviembre de 2024.
+
+La **sentencia** del TCE es de primera instancia y la denunciante puede apelar.
+
+### Más noticias:
+
+* [Aquiles Alvarez dice que no permitirá que se apague ‘el espíritu de la Navidad’ en Guayaquil](https://www.elcomercio.com/actualidad/ecuador/aquiles-alvarez-dice-que-no-permitira-que-se-apague-espiritu-navidad-guayaquil.html "Aquiles Alvarez dice que no permitirá que se apague ‘el espíritu de la Navidad’ en Guayaquil")
+* [Aquiles Alvarez fue sentenciado; se niega a cumplir parte de la sanción](https://www.elcomercio.com/actualidad/politica/aquiles-alvarez-sentenciado-se-niega-a-cumplir-sancion-tce.html "Aquiles Alvarez fue sentenciado; se niega a cumplir parte de la sanción")
+
+Decisión del TCE sobre denuncia de Ana Chóez contra Aquiles Alvarez
+-------------------------------------------------------------------
+
+El 26 de agosto de 2024, ingresó a Secretaría del Tribunal la denuncia en contra de Aquiles Álvarez por el presunto cometimiento de una **infracción electoral muy grave**.
+
+**Ana Chóez** denunció por infracción electoral muy grave por presuntos actos de violencia política de género al Aquiles Alvarez.
+
+En un documento de 42 páginas, el juez del Tribunal Contencioso Electoral (TCE), **Fernando Muñoz,** argumentó su resolución.
+
+Señaló que, en ninguna de las imputaciones, se logró demostrar que las actuaciones se hayan basado en **condiciones de género de la presunta víctima.**
+
+Además, que la denunciante **no logró probar las imputaciones** en contra del denunciado.
+
+El juez dijo que: “Con las pruebas que practicó el denunciado, las **imputaciones realizadas** en su contra han sido desvirtuadas”.
+
+Por esta razón, no puede resolver en contra de la presunción de inocencia del señor **Aquiles David Álvarez Henriques**, agregó el juez.
+
+En la parte resolutiva, el juez **rechazó** la denuncia presentada por Chóez concejal urbano de la ciudad de Guayaquil.
+
+Con el segundo artículo, se ratificó el **estado de inocencia** del Alcalde de Guayaquil.
+
+En el tercer artículo, se dispone **archivar** la presente causa, una vez que esta sentencia quede en firme  
+por haber causado ejecutoría.
+
+Miles de hinchas brasileños invaden Argentina por la final de la Libertadores
+=============================================================================
+
+La final de la Copa Libertadores tendrá presencia ecuatoriana, ya que Alan Franco milita en el Atletico Mineiro
+---------------------------------------------------------------------------------------------------------------
+
+![Hinchas de Atlético Mineiro y Botafogo llegan a Argentina por la fina de la Copa Libertadores.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-28T193920.636.jpg)
+
+Buenos Aires se llena de blanco y negro porque miles de hinchas de **Atlético Mineiro y Botafogo** han llegado desde este jueves 28 de noviembre a la capital argentina por la gran final de la Copa Libertadores 2024, que se jugará este sábado en el Estadio Monumental.
+
+**Mineiros** y cariocas recorren las calles del centro porteño, se sacan selfis con el Obelisco y recorren tiendas y sitios turísticos, mientras esperan ansiosos al sábado para trasladarse en masa al estadio del **River** **Plate**.
+
+### Más noticias:
+
+* [La Libertadores recibe a Liga de Quito, el único campeón ecuatoriano](https://www.elcomercio.com/deportes/futbol/liga-quito-copa-libertadores2025-redes.html "La Libertadores recibe a Liga de Quito, el único campeón ecuatoriano")
+* [La Copa Libertadores 2025 tiene 27 equipos clasificados](https://www.elcomercio.com/deportes/futbol/copa-libertadores2025-equipos-clasificados-ecuador.html "La Copa Libertadores 2025 tiene 27 equipos clasificados")
+* [Alan Franco y Gonzalo Plata pelearán por un título en Brasil](https://www.elcomercio.com/deportes/futbol/alan-franco-y-gonzalo-plata-pelearan-por-un-titulo-en-brasil.html "Alan Franco y Gonzalo Plata pelearán por un título en Brasil")
+
+Las tradicionales parrillas argentinas han tenido un **flujo imparable de brasileño**s, que no han parado de llegar, tanto por aire como por tierra, y han hecho de sus cánticos la banda sonora de la ciudad.
+
+Brasileños se toman Argentina por la Libertadores
+-------------------------------------------------
+
+“Es hermosa Buenos Aires, pero lo importante es volvernos con la segunda Libertadores a casa”, dijeron a EFE Joao y Paula, una pareja llegada esta mañana en coche desde Belo Horizonte.
+
+Tras recuperar sus energías tras más de 30 horas de viaje, salieron a recorrer la ciudad, aunque su foco se mantiene en el trofeo.
+
+Otros, como Mario y Beto, de Rio de Janeiro, llegaron en avión, aunque debieron realizar una escala en Montevideo.
+
+En diálogo con EFE en el Fan Zone habilitado por Conmebol para los fanáticos, esta pareja de amigos revela que planificaron su viaje juntos apenas Botafogo eliminó a Peñarol y aseguró su pasaje a la final.
+
+Según las estadísticas preliminares de Conmebol, se esperan que más de 60 mil brasileñoslleguen a Buenos Aires para la gran final.
+
+En el reparto de fanáticos se calcula que unos **40.000 llegarán en total desde Río de Janeiro** y unos **20.000 desde Belo Horizonte.**
+
+Cada una de las aficiones eligió distintos puntos de encuentro, principalmente en la exclusiva zona de Puerto Madero o los barrios de Palermo, Recoleta y Núñez, donde se encuentra ubicado el Monumental.
+
+Algunos de los locales escogidos fueron prácticamente tomados por los aficionados, que ondearon sus camisetas negras y blancas y no cesaron de cantar durante toda la tarde de este jueves.
+
+> 🏆❤️🐶 ¡Todo el color del Fan Zone! Los hinchas, la CONMEBOL [#Libertadores](https://twitter.com/hashtag/Libertadores?src=hash&ref_src=twsrc%5Etfw), el amor y invitados especiales… [#GloriaEterna](https://twitter.com/hashtag/GloriaEterna?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/JI8uAmCC3b](https://t.co/JI8uAmCC3b)
+> 
+> — CONMEBOL Libertadores (@Libertadores) [November 28, 2024](https://twitter.com/Libertadores/status/1862265219298296235?ref_src=twsrc%5Etfw)
+
+Diversiones en Buenos Aires
+---------------------------
+
+El punto de encuentro central es, sin embargo, el Fan Zone -zona de aficionados, en inglés- ubicado en la localidad costera de Vicente López, ubicada en la provincia de Buenos Aires, pero a escasos minutos del estadio.
+
+En el sitio, de ingreso libre y gratuito, cuentan, entre otras cosas, con un parque gastronómico, puntos de venta de cerveza, música, un mini estadio de fútbol, juegos para niños, y hasta un “Museo del Hincha”, que repasa la historia de la **Copa Libertadores** mediante momentos históricos, camisetas y balones.
+
+Más allá del entusiasmo previo al encuentro y la oportunidad de conocer y disfrutar de la capital argentina, los aficionados de ambos clubes tienen en claro que el objetivo es otro: gritar campeón y obtener el último boleto al **Mundial de Clubes.** 
+
+Adicciones, amores y tragedias: Los altibajos de los Tanner fuera de ‘Full House’
+=================================================================================
+
+Una mirada íntima a las luchas personales y los momentos triunfales de los protagonistas más queridos.
+------------------------------------------------------------------------------------------------------
+
+![La serie 'Full House' se emitió desde el 22 de septiembre de 1987 hasta el 23 de mayo de 1995, duró 8 temporadas y 192 episodios.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo41.jpg)
+
+Han pasado décadas desde que la **familia Tanner** conquistó los corazones de millones de espectadores alrededor del mundo con sus risas, aventuras y lecciones de vida.
+
+La serie **‘Full House’** dejó una huella imborrable en la cultura popular, y muchos se preguntan qué ha sido de sus queridos personajes. Aunque los volvimos a ver cuando regresaron en la continuación ‘Fuller House’, hay datos que seguro desconoces y aquí te contamos.
+
+John Stamos (Jesse Katsopolis)
+------------------------------
+
+![Está casado con Caitlin McHugh desde 2018. ](https://www.elcomercio.com/wp-content/uploads/2024/11/full-house-El-Comercio-1024x683.jpg)
+
+Está casado con Caitlin McHugh desde 2018. 
+
+El **tío Jesse**, con su melena y su encanto irresistible, [se quedó calvo](https://www.elcomercio.com/afull/tio-jesse-full-house-john-stamos.html "https://www.elcomercio.com/afull/tio-jesse-full-house-john-stamos.html"), pero solo en fotos. En realidad, conserva su negra cabellera, pero como un gesto de apoyo a su amigo Dave Coulier modificó unas fotografías para simular que perdió el cabello y las compartió en Instagram.
+
+Tras el final de la serie, **John Stamos** continuó su carrera en la actuación. Fue parte del elenco de la exitosa serie ‘Grand Hotel’. También brilló en películas como ‘My Big Fat’ y ‘Greek Wedding 2’. Ha estado casado en dos ocasiones. ¡Ten piedad!
+
+### Más noticias
+
+* **[Chill Guy, la nueva sensación viral de Internet. Te contamos su historia](https://www.elcomercio.com/afull/chill-guy-meme-viral-historia.html "https://www.elcomercio.com/afull/chill-guy-meme-viral-historia.html")** 
+* **[El emotivo homenaje al Sr. Miyagi que conmueve a los fans de ‘Cobra Kai’](https://www.elcomercio.com/afull/cobra-kai-sr-miyagi-homenaje-netflix.html "https://www.elcomercio.com/afull/cobra-kai-sr-miyagi-homenaje-netflix.html")** 
+
+Bob Saget (Danny Tanner)
+------------------------
+
+![Bob Saget falleció trágicamente en 2022.](https://www.elcomercio.com/wp-content/uploads/2024/11/full-house-El-Comercio-2-1024x683.jpg)
+
+Bob Saget falleció trágicamente en 2022.
+
+El patriarca de la **familia Tanner**, **Danny**, fue interpretado por **Bob Saget,** quien [falleció trágicamente en 2022](https://www.elcomercio.com/tendencias/bob-saget-hemorragia-cerebral-muerte.html "https://www.elcomercio.com/tendencias/bob-saget-hemorragia-cerebral-muerte.html"). Saget era conocido por su humor irreverente y su gran corazón. Además de su papel en “Full House”, también destacó como presentador del programa “America’s Funniest Home Videos”. Hay episodios en [YouTube](https://www.youtube.com/watch?v=JZWQve9xHhQ "https://www.youtube.com/watch?v=JZWQve9xHhQ"). Estuvo casado en dos ocasiones y tuvo tres hijas (como en la serie).
+
+Dave Coulier (Joey Gladstone)
+-----------------------------
+
+![Dave Coulier, quien posa con su excompañera de la serie, fue diagnosticado con cáncer. ](https://www.elcomercio.com/wp-content/uploads/2024/11/full-house-El-Comercio-1-1024x683.jpg)
+
+Dave Coulier, quien posa con su excompañera de la serie, fue diagnosticado con cáncer.
+
+El divertido y entrañable **tío Joey**, interpretado por **Dave Coulier,** ha seguido activo en el mundo del espectáculo. Tras “Full House”, ha participado en diversos proyectos y ha sido parte del reboot de la serie, “Fuller House”. Recientemente, Coulier enfrentó un desafío de salud tras ser [diagnosticado con cáncer](https://www.elcomercio.com/afull/dave-coulier-cancer-tio-joey-full-house.html "https://www.elcomercio.com/afull/dave-coulier-cancer-tio-joey-full-house.html"), pero ha mantenido una actitud positiva y ha compartido su lucha con sus seguidores. Está casado con Melissa Bring. Tiene un hijo.
+
+Lori Loughlin (Rebecca Donaldson)
+---------------------------------
+
+La elegante y sofisticada **tía Becky**, interpretada por **Lori Loughlin**, enfrentó un momento difícil en su carrera debido a un escándalo universitario. Tras [cumplir su condena](https://www.elcomercio.com/tendencias/entretenimiento/lori-loughlin-culpable-soborno-admisiones.html "https://www.elcomercio.com/tendencias/entretenimiento/lori-loughlin-culpable-soborno-admisiones.html"), ha buscado retomar su vida y carrera de manera discreta. Está casada con Mossimo Giannulli. Tiene dos hijas.
+
+Candace Cameron Bure (D.J. Tanner)
+----------------------------------
+
+![Su esposo es Valeri Bure desde 1996.](https://www.elcomercio.com/wp-content/uploads/2024/11/full-house-El-Comercio-4-1024x683.jpg)
+
+Su esposo es Valeri Bure desde 1996.
+
+**Candace Cameron Bure**, quien interpretó a la hija mayor, D.J., ha seguido activa en la industria del entretenimiento. Después de “Full House”, participó en la secuela “Fuller House” y se convirtió en una popular presentadora de programas de entrevistas. Además, es una devota cristiana y ha publicado varios libros. Su esposo es Valeri Bure desde 1996. Tiene tres hijos.
+
+Jodie Sweetin (Stephanie Tanner)
+--------------------------------
+
+![Está casada con  Mescal Wasilewski.](https://www.elcomercio.com/wp-content/uploads/2024/11/full-house-El-Comercio-3-1024x683.jpg)
+
+Está casada con  Mescal Wasilewski.
+
+**Jodie Sweetin**, quien dio vida a la enérgica Stephanie, ha tenido una carrera más desafiante. Tras el final de la serie, enfrentó problemas de adicción, pero logró superar esta etapa y retomó su carrera. Actualmente, es una activista en temas de adicción y ha participado en diversas producciones televisivas. Está casada con  Mescal Wasilewski. Tiene una hija.
+
+Mary-Kate y Ashley Olsen (Michelle Tanner)
+------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/full-house-El-Comercio-6-1024x683.jpg)
+
+Ashley y Mary-Kate Olsen interpretaban a Michelle Tanner. Foto: IMDB-Pinterest
+
+Las gemelas Olsen, quienes compartieron el papel de la pequeña **Michelle Tanner**, se convirtieron en unas de las actrices infantiles más famosas de su generación. Tras el final de ‘Full House’, se centraron en sus carreras en la moda, creando una exitosa línea de ropa y accesorios. Han mantenido un perfil bajo en cuanto a la actuación. No partiparon en la continuación de la serie.
+
+Andrea Barber (Kimmy Gibbler)
+-----------------------------
+
+![Andrea Barber posa con su excompañera de la serie 'Fuller House'. ](https://www.elcomercio.com/wp-content/uploads/2024/11/full-house-El-Comercio-5-1024x683.jpg)
+
+Andrea Barber posa con su excompañera de la serie ‘Fuller House’.
+
+La actriz que interpretó a la divertida y leal mejor amiga de D.J., **Kimmy Gibbler**, también participó en ‘Fuller House’. Además de su carrera como actriz, se ha dedicado a la comedia y ha trabajado como productora. Estuvo casada con Jeremy Rytky. Tiene dos hijos. 
+
+Blake y Dylan Tuomy-Wilhoit (Nicky y Alex Katsopolis)
+-----------------------------------------------------
+
+![Dylan y Blake Tuomy-Wilhoit eran los hijos de Jessy y Becky. ](https://www.elcomercio.com/wp-content/uploads/2024/11/full-house-El-Comercio-7-1024x683.jpg)
+
+Dylan y Blake Tuomy-Wilhoit eran los hijos de Jesse y Becky.
+
+Los gemelos que interpretaron a los pequeños **Nicky y Alex**, Blake y Dylan Tuomy-Wilhoit, se alejaron del mundo del espectáculo tras el final de “Full House”. Han mantenido un perfil bajo y se han dedicado a otras actividades.
+
+Ecuador recibió primera importación de gas natural desde Perú
+=============================================================
+
+El Ministerio de Energía y Minas autorizó la importación de 7 300 millones de pies cúbicos anuales de gas natural licuado.
+--------------------------------------------------------------------------------------------------------------------------
+
+![Un millón de pies cúbicos de gas natural licuado llegaron a Ecuador desde Perú](https://www.elcomercio.com/wp-content/uploads/2024/11/gas-licuado-importacion.jpg)
+
+Ecuador recibió la **primera importación** terrestre de **gas natural licuado** (GNL). El fluido llegó desde **Perú**, este jueves 28 de noviembre de 2024.
+
+### Más noticias
+
+* [Progen mostró los avances del proyecto de energía térmica El Salitral](https://www.elcomercio.com/actualidad/negocios/progen-mostro-los-avances-del-proyecto-de-energia-termica-el-salitral.html "Progen mostró los avances del proyecto de energía térmica El Salitral")
+* [Intercambio de energía eléctrica entre Colombia y Ecuador empezó hace 26 años](https://www.elcomercio.com/actualidad/negocios/intercambio-de-energia-electrica-entre-colombia-y-ecuador-empezo-hace-26-anos.html "Intercambio de energía eléctrica entre Colombia y Ecuador empezó hace 26 años")
+* [Cortes de luz en Quito del viernes 29 de noviembre al domingo 1 de diciembre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-de-viernes-29-de-noviembre-a-domingo-1-de-diciembre.html "Cortes de luz en Quito del viernes 29 de noviembre al domingo 1 de diciembre")
+
+La negociación forma parte de una autorización dada por el **Ministerio de Energía y Minas** a la empresa **Sycar**, para la importación de **7 300 millones de pies cúbicos anuales**. Este acuerdo fue suscrito por un periodo de **cinco años**.
+
+Según detalló la compañía, la primera importación de un millón de pies cúbicos de GNL llegó al centro binacional de la frontera entre Ecuador y Perú, en un **isotanque de 40 pies**.
+
+La importación de GNL se utilizará en la planta industrial de Tecnova, en **Guayaquil**. La transportación del gas estará controlada por la Agencia de Regulación y Control de Hidrocarburos, entidad que verificará que se cumplan los estándares de **calidad y seguridad**.
+
+Negociación entre Ecuador y Perú
+--------------------------------
+
+Para el gerente general de Sycar, **Nelson Jaramillo Pita**, “esta negociación establece un precedente para las futuras operaciones en la región”[.](https://www.recursosyenergia.gob.ec/ "https://www.recursosyenergia.gob.ec/")
+
+Por su parte, el viceministro de Hidrocarburos, **Guilhermo Ferreira Oliveira**, destacó que la importación del Gas Natural en sus diferentes estados, “es clave para reducir la **dependencia de combustibles fósiles** tradicionales, fomentar la inversión privada y avanzar hacia un modelo energético más eficiente y responsable con el medio ambiente”.
+
+> 📍\[BOLETÍN DE PRENSA\]  
+>   
+> 🔹El Gobierno Nacional, a través de este Ministerio, autorizó a la compañía SYCAR la importación de hasta 7.300 millones de pies cúbicos anuales de Gas Natural Licuado (GNL) para el sector industrial.  
+>   
+> 🔸Más detalles en➡️ [https://t.co/madkxyVKdv](https://t.co/madkxyVKdv) [pic.twitter.com/bwhdhjzBaV](https://t.co/bwhdhjzBaV)
+> 
+> — Ministerio de Energía y Minas Ecuador🇪🇨 (@RecNaturalesEC) [November 28, 2024](https://twitter.com/RecNaturalesEC/status/1862230250370765091?ref_src=twsrc%5Etfw)
+
+Uso de gas natural en Ecuador es del 1,8 %
+------------------------------------------
+
+El GNL es el combustible fósil **más limpio y amigable** con el medio ambiente, a decir por Sycar.
+
+“Y por su alto poder calórico y eficiencia contribuye a los programas de reducción de emisiones y prácticas más sostenibles de empresas e industrias”.
+
+Actualmente, Ecuador registra un uso del gas natural en su **matriz energética** de**l 1,8 %**. Se espera que con las importaciones y el incremento de la producción nacional, Ecuador alcance los estándares regionales, donde el gas natural supera el **30 % de participación**, detalló la compañía.
+
+‘Pibe’ Valderrama incluye a un ecuatoriano en su equipo ideal
+=============================================================
+
+Carlos 'Pibe' Valderrama, una de las leyendas sudamericanas del fútbol, incluyó a un jugador ecuatoriano en su once ideal.
+--------------------------------------------------------------------------------------------------------------------------
+
+![Carlos Valderrama en su etapa como capitán y figura en la Selección de Colombia.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-28T180015.102.jpg)
+
+**Carlos ‘Pibe’ Valderrama** es considerado uno de los mejores futbolistas colombianos de la historia. Con una destacada carrera en clubes y la selección de su país, el exjugador armó un equipo ideal con los mejores rivales que enfrentó, entre los que **destacó a una leyenda del fútbol ecuatoriano**.
+
+Durante la década de los 90, el ‘**Pibe’ brilló como uno de los pilares de la Selección de Colombia**. Su talento lo llevó a medirse con grandes figuras del fútbol sudamericano, y en un ejercicio especial, decidió conformar un once ideal compuesto exclusivamente por jugadores del continente.
+
+### Más noticias:
+
+* [Álex Aguinaga considera absurdo que Ecuador juegue en Guayaquil](https://www.elcomercio.com/deportes/futbol/alex-aguinaga-considera-absurdo-que-ecuador-juegue-en-guayaquil.html "Álex Aguinaga considera absurdo que Ecuador juegue en Guayaquil")
+* [Enner, un nombre que ganó fanáticos en tres años](https://www.elcomercio.com/deportes/futbol/enner-valencia-cantidad-inscritos-nombre.html "Enner, un nombre que ganó fanáticos en tres años")
+* [Periodista colombiano calificó de ‘agrandada’ a su selección](https://www.elcomercio.com/deportes/futbol/carlos-antonio-velez-colombia-ecuador.html "Periodista colombiano calificó de ‘agrandada’ a su selección")
+
+El equipo ideal del ‘Pibe’ Valderrama
+-------------------------------------
+
+Valderrama participó en una dinámica con el periodista mexicano Mauricio Ponce para redes sociales. En ella, el colombiano debía armar el mejor once con jugadores a los que enfrentó durante su carrera.
+
+Sin incluirse a sí mismo, ya que se asignó el rol de director técnico, Valderrama eligió a una constelación de estrellas, entre las cuales destacó al ecuatoriano Álex Aguinaga, un nombre reconocido por su calidad y liderazgo en la cancha.
+
+El ‘Pibe’ resaltó la trayectoria de Aguinaga, quien brilló tanto en México, donde es leyenda del Necaxa, como con la Selección de Ecuador, a pesar de no contar con una generación dorada en su época. Aguinaga fue clave en momentos icónicos como el cuarto lugar en la Copa América 1993 y la clasificación al primer Mundial de Ecuador en 2002.
+
+### **El once del ‘Pibe’**
+
+**Arquero:** José Luis Chilavert (PAR)
+
+**Defensas:** Cafú (BRA), Óscar Ruggeri (ARG), Carlos Gamarra (PAR) y Roberto Carlos (BRA).
+
+**Mediocampistas:** Fernando Redondo (ARG), Marco Etcheverry (BOL), Álex Aguinaga (ECU) y Diego Armando Maradona (ARG).
+
+**Delanteros:** Iván Zamorano (CHI) y Enzo Francescoli (URU).
+
+> Que 11 pibe querido!! [pic.twitter.com/qMvfvXdJ0i](https://t.co/qMvfvXdJ0i)
+> 
+> — PANCHO MOLESTINA (@fmolestinae) [November 28, 2024](https://twitter.com/fmolestinae/status/1862266688604971013?ref_src=twsrc%5Etfw)
+
+Álex Aguinaga y una carrera histórica
+-------------------------------------
+
+**Álex** **Aguinaga** es uno de los pocos futbolistas sudamericanos en **superar los 700 partidos oficiales.** En Ecuador, defendió los colores del **Deportivo Quito y Liga de Quito**, aunque su mejor etapa fue en México, donde se convirtió en leyenda del Necaxa, club al que representó por más de una década. También tuvo un breve paso por Cruz Azul.
+
+En cuanto a títulos, con Necaxa levantó ocho trofeos, incluidos tres de liga y dos internacionales. En Ecuador, alcanzó la gloria con **Liga de Quito en 2005**, logrando su único campeonato nacional.
+
+Con la Selección de Ecuador, **Aguinaga** disputó 109 partidos, siendo el segundo jugador con más presencias en la ‘Tri’. Participó en ocho Copas América y en el Mundial de 2002. En total, marcó 23 goles con la selección y dejó un legado imborrable para el fútbol ecuatoriano.
+
+Termogas Machala incrementará su generación ¿Cuál es el motivo?
+===============================================================
+
+El Ministerio de Energía informó la razón del incremento de energía en Termogas Machala.
+----------------------------------------------------------------------------------------
+
+![Termogas Machala incrementará su generación.](https://www.elcomercio.com/wp-content/uploads/2024/11/termogas-machala.jpg)
+
+La central térmica **Termogas Machala** incrementará su generación a partir de enero de 2025.
+
+El **Ministerio de Energía y Minas** informó sobre la operación de esta central, este jueves 28 de noviembre de 2024.
+
+### Más noticias:
+
+* [Progen mostró los avances del proyecto de energía térmica El Salitral](https://www.elcomercio.com/actualidad/negocios/progen-mostro-los-avances-del-proyecto-de-energia-termica-el-salitral.html "Progen mostró los avances del proyecto de energía térmica El Salitral")
+* [Equipos para nueva central térmica llegan en diciembre ¿Cuándo iniciará operaciones?](https://www.elcomercio.com/actualidad/negocios/equipos-nueva-central-termica-llegan-diciembre-cuando-inicia-operaciones.html "Equipos para nueva central térmica llegan en diciembre ¿Cuándo iniciará operaciones?")
+
+Generación de Termogas Machala
+------------------------------
+
+Esta mañana, en la central térmica Termogas Machala, ubicada en Bajo Alto, provincia de El Oro, se recibió una **turbina** aeroderivativa con capacidad de 20 MW.
+
+Esto permitirá reactivar la unidad de **generación TM-1**, fuera de operación, desde febrero de 2020.
+
+La central, que hasta ahora operaba con una capacidad de 125 MW, incrementará su generación total a 145 MW a partir de **enero de 2025**, por la adquisición de este equipo.
+
+**Celec EP**, a través de la Unidad de Negocio Termogas Machala, adquirió la turbina, transportada desde Houston, Estados Unidos, para iniciar su instalación de inmediato.
+
+La compra se realizó directamente a la **casa fabricante** y “garantiza un equilibrio entre alto desempeño técnico y ahorro económico, optimizando los recursos del Estado”, señaló el Ministerio, en un comunicado.
+
+**Cristhian Terán**, gerente de Termogas Machala, señaló que esta incorporación permitirá generar cerca de 2.400 MWh adicionales por día.
+
+“Un aumento significativo que fortalece la capacidad de generación promedio registrada en los  
+últimos **cinco años**“, agregó.
+
+Esta es una de las adquisiciones del Gobierno de **Daniel Noboa** para superar la crisis energética que aqueja al país en este año.
+
+El Gobierno busca generar más energía a través de la **contratación** de varios proyectos a empresas internacionales.
+
+También, intenta diversificar la matriz energética del país para que la generación no dependa, en su mayoría, de las lluvias que incrementan los **caudales de los ríos** y mejoran el nivel de los embalses de las hidroeléctricas.
+
+Entre otras medidas, el Gobierno también gestionó la reactivación del intercambio de energía entre **Colombia y Ecuador** y otras medidas.
+
+Liga de Quito jugará el último partido de la Liga Pro sin visitantes
+====================================================================
+
+Liga de Quito no contará con público visitante en su duelo ante Deportivo Cuenca, donde definirá si juega la final de la Liga Pro.
+----------------------------------------------------------------------------------------------------------------------------------
+
+![Álex Arce celebra un gol con Liga de Quito en la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/11/20241124138878-fbl-ligapro-catolica-liga-scaled.jpg)
+
+**Liga de Quito** define en la última fecha de la Liga Pro si irá o no a disputar la final frente a **Independiente del Valle**. Su partido de cierre de la segunda etapa del campeonato lo disputará ante Deportivo Cuenca y para ello contará solo con su hinchada.
+
+La tarde de este **jueves 28 de noviembre**, los albos brindaron un anuncio en torno a su futuro compromiso pactado para el 1 de diciembre del 2024 a las 15:30. El cuadro azucena comunicó que no emitirá entradas para los visitantes.
+
+### Más noticias:
+
+* [Liga de Quito e IDV, cara a cara por el liderato en la Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-de-quito-e-idv-cara-a-cara-por-el-liderato-en-la-liga-pro.html "Liga de Quito e IDV, cara a cara por el liderato en la Liga Pro")
+* [Liga de Quito espera por su apelación, ¿qué pasará?](https://www.elcomercio.com/deportes/liga-quito-apelacion-fef-independiente-valle.html "Liga de Quito espera por su apelación, ¿qué pasará?")
+* [Mario Pineida se burla nuevamente de Liga de Quito tras ser campeón](https://www.elcomercio.com/deportes/futbol/mario-pineida-se-burla-nuevamente-de-liga-de-quito-tras-ser-campeon.html "Mario Pineida se burla nuevamente de Liga de Quito tras ser campeón")
+
+“Les recordamos que el día domingo para el partido de **Liga vs. Deportivo Cuenca**, a llevarse a cabo a las 15:30, no está habilitado el ingreso de hinchada visitante o hinchas identificados con camisetas del equipo rival”, expuso el elenco en un documento.
+
+A partir de tal decisión, los albos tendrán solo a su parcialidad en un momento crucial de la temporada. Desde el lado de la visita, el **Deportivo Cuenca** ya no cuenta con mayores aspiraciones, pues no peligra por descender y tampoco tiene posibilidades de ingresar a torneos internacionales.
+
+Liga de Quito, con más posibilidades
+------------------------------------
+
+De cara al compromiso ante el cuadro morlaco, Liga de Quito llega puntero en la segunda etapa y en aquel duelo definirá si la gana. El conjunto azucena tiene **32 puntos y +14 de gol diferencia** en la tabla de la ronda.
+
+**Independiente del Valle**, a su vez, arriba segundo con 29 unidades, pero mejor dentro del factor diferencial. En aquel último aspecto, los rayados suman **+19 goles**, cinco más que los universitarios.
+
+En la última fecha, los albos llegan como favoritos debido a su ventaja en puntaje. En la previa de la fecha, la FEF le restituyó tres puntos al equipo a raíz de una apelación por una sanción y, con ello, superó a la escuadra negriazul.
+
+Independiente del Valle ya es finalista de la Liga Pro
+------------------------------------------------------
+
+**Independiente del Valle** ya tiene un cupo asegurado en la final de la Liga Pro debido a su papel en la primera etapa. En aquella ronda, el elenco que dirige Javier Gandolfi logró finalizar en el máximo puesto, también en la última fecha.
+
+Para ganar el título del torneo ecuatoriano de manera directa, la escuadra de Sangolquí necesita un tropezón de **Liga de Quito**. En caso de que Liga iguale, los rayados deben ganar y, si pierde, les bastará con sumar.
+
+Enner, un nombre con origen muy lejano a Ecuador
+================================================
+
+El origen del nombre de Enner Valencia data de dos países europeos y uno norteamericano.
+----------------------------------------------------------------------------------------
+
+![Enner Valencia con la Selección de Ecuador en el 2021.](https://www.elcomercio.com/wp-content/uploads/2024/11/enner_origen_1.jpg)
+
+Enner Valencia fue **presentado en el Inter de Porto Alegre el 26 de junio de 2023** como refuerzo para el segundo semestre de ese año. Alrededor del ecuatoriano se armó una fiesta a la altura de una estrella sudamericana.
+
+Y no era para menos. Enner Valencia llegó a Brasil como el goleador del **Fenerbahçe en la liga de Turquía con 29 tantos**. Se suman tres más en la UEFA Europa League donde llegaron hasta los octavos de final y quedaron eliminados.
+
+### Más noticias:
+
+* [Enner, un nombre que ganó fanáticos en tres años](https://www.elcomercio.com/deportes/futbol/enner-valencia-cantidad-inscritos-nombre.html "Enner, un nombre que ganó fanáticos en tres años")
+* [Enner Valencia popularizó su nombre con goles en Ecuador](https://www.elcomercio.com/deportes/futbol/enner-valencia-popularizo-nombre-ecuador.html "Enner Valencia popularizó su nombre con goles en Ecuador")
+* [Enner Valencia cerca de ‘arrebatarle’ otro récord a Agustín Delgado](https://www.elcomercio.com/deportes/futbol/enner-valencia-agustin-delgado-goles.html "Enner Valencia cerca de ‘arrebatarle’ otro récord a Agustín Delgado")
+
+En esa instancia **perdieron 2-1 con el Sevilla en el marcador global**. Valencia anotó el único tanto de su equipo y a punto estuvo de empatar la serie para enviarla hasta los lanzamientos penales.
+
+En total, en su segunda aventura por Europa terminó con 59 goles y 17 asistencias en 116 presencias.
+
+Antes de su arribo al fútbol de los pentacampeones, ‘Superman’ defendió las camisetas de Emelec de Ecuador, Pachuca y Tigres de México, **West Ham United y Everton de Inglaterra**, y el ya mencionado club turco.
+
+En **65 partidos con el Inter ya anotó 23 goles y entregó cinco asistencias** en los 16 meses como ‘Colorado’.
+
+En cuanto títulos, el ‘GOAT’ tiene el del campeonato nacional con Emelec en 2013; dos ligas, dos Campeón de Campeones, una Campeones Cup y una Liga de Campeones de la CONCACAF con Tigres, y una Copa de Turquía con el Fenerbahçe en 2023.
+
+Todo ese palmarés, más los **44 goles que marcó con la Selección de Ecuador** que lo mantienen como el máximo goleador histórico de todos los tiempos, marcan el camino de una carrera exitosa que aún no tiene fecha de caducidad.
+
+Uno de los ‘enigmas’ que se manejan alrededor del esmeraldeño es el origen de su nombre, poco común en el país en 1989, **año de su nacimiento, pero que se ha ido incrementando hasta 2024** al punto de, según el Registro Civil, llegar a 1 566.
+
+![Foto: Archivo histórico EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/11/enner_origen_2-1024x683.jpg)
+
+Foto: Archivo histórico EL COMERCIO.
+
+El origen del nombre de Enner
+-----------------------------
+
+**Ana Estrella**, lingüistas de la Universidad Católica del Ecuador, en entrevista con EL COMERCIO, menciona que el origen del nombre se remontan a Alemania y Estados Unidos, pero es “más normal como apellido que como nombre”.
+
+“Por ejemplo, de cada 100 Enner, 80 son como apellido y 20 como nombre”, detalló referente a estos dos países.
+
+**Un tercer origen se traslada a Inglaterra.** En este caso más ligado a una especie de diminutivo de una determinada forma de identificar a una persona.
+
+La catedrática agrega que es ‘difícil’ establecer ‘claramente el momento que el nombre llegó al país’.
+
+Estrella menciona que **existen estudios lingüísticos que establecen que los nombres** son una forma de distinción entre uno u otro grupo social, en donde unos son más creativos y otros más formales a la hora de su elección.
+
+“Cuando una persona es popular o famosa es una de las razones por la que se replica su nombre. En la averiguación que realicé, **Enner Valencia es el más famoso en todo el mundo** y no hay nadie más que esté cerca de ello”, finalizó.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/enner_origen_3-1024x683.jpg)
+
+San viernes
+-----------
+
+Conciertos, cierres viales y ubicación de las chivas durante las fiestas de Quito
+=================================================================================
+
+Las fiestas de Quito tienen una agenda que incluye diversas actividades en toda la ciudad.
+------------------------------------------------------------------------------------------
+
+![Los propietarios de las chivas deben estar autorizadas para circular en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/11/Chivas-Quito.jpg)
+
+Quito conmemora sus 490 años de fundación con una variada programación de actividades **culturales** y **artísticas**[.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito") 
 
 Más noticias
 ------------
 
-* [A Nicolás Maduro tampoco le gustó la canción +57](https://www.elcomercio.com/tendencias/entretenimiento/nicolas-maduro-57-cancion-critica-karol-g-maluma.html "A Nicolás Maduro tampoco le gustó la canción +57")
-* [Nicolás Maduro recibe apoyo de Vladímir Putin, pero Brasil frena su ingreso a BRICS](https://www.elcomercio.com/actualidad/mundo/nicolas-maduro-recibe-apoyo-vladimir-putin-brasil-frena-ingreso-brics.html "Nicolás Maduro recibe apoyo de Vladímir Putin, pero Brasil frena su ingreso a BRICS")
-* [Maduro ve la victoria de Trump como ‘nuevo comienzo’ para Estados Unidos y Venezuela](https://www.elcomercio.com/actualidad/mundo/maduro-ve-la-victoria-de-trump-como-nuevo-comienzo-para-estados-unidos-y-venezuela.html "Maduro ve la victoria de Trump como ‘nuevo comienzo’ para Estados Unidos y Venezuela")
+* [La AMT toma medidas para mejorar la seguridad vial durante las fiestas de Quito](https://www.elcomercio.com/actualidad/quito/control-velocidad-quito-amt-razones.html)
+* [Municipio controlará consumo de alcohol en calles durante fiestas de Quito. ¿Hay sanciones?](https://www.elcomercio.com/actualidad/quito/fiestas-quito-alcohol-calles-operativos.html)
+* [Fiestas de Quito, ¿cuál plato define a la quiteñidad?](https://www.elcomercio.com/actualidad/quito/locro-papa-gastronomia-quito.html)
 
-“He dado la orden de **crear, en los próximos días,** la condecoración, la **alta condecoración de la república**, que llevará el nombre de **Victoria de Ayacucho**. Le voy a colocar la condecoración (…) a cada uno de estos hombres, de estos seres que han sido hoy agredidos”, anunció Maduro en un acto transmitido por el canal estatal VTV.
+En el marco de esta celebración, Quito tendrá conciertos de **artistas nacionales** e **internacionales**, desfiles y eventos tradicionales que se desarrollarán en diversos sectores. 
 
-Asimismo, aseguró que Estados Unidos sancionó a un grupo de **“eminentes hombres”** del país suramericano, entre ellos **“líderes militares”**, a quienes el chavista considera “excelentes profesionales”.
+Controles de la AMT durante las festividades
+--------------------------------------------
 
-“Nos reímos de las sanciones”
------------------------------
+**Como parte de este plan**, la AMT desplegó 1 000 agentes de tránsito para supervisar y gestionar la movilidad durante los eventos programados. 
 
-“Si no fuera tan serio el tema de las agresiones, a través de las **llamadas sanciones**, yo diría que es risible y ridículo lo que han hecho. Me atrevería a decir que **son unos ridículos** y que nos reímos de sus sanciones, pero no lo voy a hacer”, manifestó.
+Entre las medidas principales, se incluyen **cierres viales** temporales en zonas de alta concurrencia, control de estacionamientos para evitar vehículos mal ubicados y gestión del tránsito en puntos estratégicos.
 
-Previamente, el canciller Yván Gil compartió un comunicado del Ejecutivo que rechaza “en los términos más enérgicos” la **“imposición ilegítima de medidas coercitivas unilaterales”** contra lo que llamó un “grupo de patriotas”, y aseguró que el país caribeño “jamás podrá ser doblegado” por el norteamericano.
+Estas acciones buscan mitigar la **congestión vehicular** y facilitar el desplazamiento de los ciudadanos.
 
-Esta nueva ronda de sanciones llega después de que la **Administración de Joe Bide**n, que el próximo 20 de enero pasará el relevo al republicano Donald Trump, reconociera al candidato de la mayor coalición opositora, Edmundo González Urrutia -exiliado en España-, como el “presidente electo” de Venezuela.
+Adicionalmente, las autoridades habilitaron rutas alternas para mantener la fluidez del tráfico en las áreas afectadas por los cierres. Estas medidas complementan el plan de movilidad para garantizar el acceso a los eventos y el orden en las vías.
 
-Dentro de la lista de sancionados está el ministro de **Despacho de la Presidencia**, Aníbal Coronado; el de Comunicación, Freddy Ñáñez, y el de Servicios Penitenciarios, Julio García Zerpa.
+  Agenda de Eventos Fiestas de Quito 2024   
 
-También hay altos mandos de la **Guardia Nacional Bolivariana, la Policía Nacional Bolivariana, el Servicio Bolivariano de Inteligencia Nacional (SEBIN)** y la Dirección General de Contrainteligencia Militar (DGCIM), a los que acusa de “reprimir violentamente las manifestaciones pacíficas” tras las elecciones.
+Agenda de Eventos Fiestas de Quito 2024
+=======================================
 
-Entre ellos está Alexis Rodríguez Cabello, director del SEBIN y primo del ministro de Interior, Diosdado Cabello, y también el jefe de la DGCIM y de la Guardia de Honor Presidencial, Javier Marcana Tabata.
-
-Bastón de mando
----------------
-
-El Clarín de Argentina indica que Nicolás Maduro afirmó que el **bastón de mando** -un símbolo oficial del poder en Venezuela, equivalente a una corona- que esgrimía durante su discurso, **“jamás caerá en manos de un pataruco vendepatria**“.
-
-“Como comandante en jefe, este **bastón de mando jamás caerá,** se los juré en las calles de Venezuela, porque este bastón de mando del poder popular, militar, policial, es para realizar la revolución bolivariana y socialista del siglo XXI”, dijo, de acuerdo con El Clarín.
-
-Sanción para Daniela Cabello
-----------------------------
-
-De la familia del ministro de Interior, también fue sancionada su hija, **Daniella Cabello**, presidenta de la Marca País y de la Agencia de Promoción de Exportaciones.
-
-Bajo esta decisión quedan bloqueadas todas las **propiedades personales de los sancionados** en Estados Unidos y se prohíbe llevar a cabo transacciones financieras con estas personas.
-
-Hasta la fecha, el **Tesoro estadounidense** sancionó a 150 venezolanos y a un centenar de entidades del país caribeño por acometer “acciones antidemocráticas”.
-
-La Selección de Ecuador subió tres puestos en el ranking FIFA
-=============================================================
-
-La Selección de Ecuador escaló tres puestos en la nueva actualización del ranking FIFA.
----------------------------------------------------------------------------------------
-
-![John Yeboah (i), Alan Minda y Gonzalo Plata con la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/ranking_ecu_1.jpg)
-
-Las buenas noticias para la **Selección de Ecuador siguen llegando**. La mañana de este jueves 28 de noviembre de 2024 la Federación Internacional de Fútbol Asociado (FIFA), publicó la actualización del ranking de selecciones.
-
-En esta nueva actualización, **la Selección de Ecuador mejoró sus posición**, algo que no sucedía desde julio, cuando abandonó el puesto 30, escaló a 27 y permaneció ahí hasta la nueva actualización del onceavo mes del año.
-
-### Más noticias:
-
-* [El Nacional ganó la Copa Ecuador 1970 con solo dos partidos](https://www.elcomercio.com/deportes/futbol/el-nacional-campeon-copa-ecuador1970.html "El Nacional ganó la Copa Ecuador 1970 con solo dos partidos")
-* [Enner, un nombre que ganó fanáticos en tres años](https://www.elcomercio.com/deportes/futbol/enner-valencia-cantidad-inscritos-nombre.html "Enner, un nombre que ganó fanáticos en tres años")
-* [Lamine Yamal ganó el Golden Boy con doble récord](https://www.elcomercio.com/deportes/futbol/lamine-yamal-golden-boy-record.html "Lamine Yamal ganó el Golden Boy con doble récord")
-
-Esta mejoría en el ranking de Ecuador obedece a la espectacular fecha de eliminatorias al Mundial 2026.
-
-Los triunfos 4-0 ante Bolivia en el Monumental de Guayaquil (**Gonzalo Plata (2), Enner Valencia y Alan Minda**), y 0-1 frente a Colombia en el Metropolitano de Barranquilla (Valencia) lo hicieron posible.
-
-Además, esos seis puntos posicionaron a la Tri en el tercer ligar de la tabla de posiciones con 19 puntos y un gol diferencia de +7, **solo por detrás de Argentina (25) y Uruguay (20)**; y por delante de Colombia (19), Brasil (18), Paraguay (17) y Bolivia (13).
-
-Para la Copa del Mundo próxima que tiene como anfitriones a Canadá, Estados Unidos y México se clasificarán directamente las seis primeras escuadras, **mientras que el séptimo puesto tendrá que disputar un repechaje** para obtener el boleto.
-
-Con 1560.13 puntos, Ecuador subió a la casilla 24 en el ranking y se confirmó como la quinta mejor selección sudamericana, un status que lo ha mantenido durante todo este año.
-
-Para ingresar en el **top 20 tiene que sumar 65,03 puntos**. Así podrá arrebatarle esa posición a Suiza, Dinamarca, Austria y Corea del Sur, las selecciones que están por delante en este momento.
-
-Argentina sigue liderando el ranking
-------------------------------------
-
-Argentina, campeona del mundo y bicampeona de la Copa América, **sigue liderando el ranking** y terminará una nueva temporada como la mejor selección de fútbol de la FIFA.
-
-Francia (2), España (3), Inglaterra (4) y Brasil (5) conservan sus posiciones, tal como las tenían en la actualización de octubre.
-
-Portugal (6) y Países Bajos (7) ascendieron una posición. **Bélgica (8) cayó dos puestos e Italia se mantuvo inamovible (9)**. Alemania entró en el top 10 al mejorar una posición, con lo que desplazó de ese puesto a Colombia, que ahora está 12.
-
-Níger es la que más escaló en esta tabla con nueve puestos y Camorras avanzó a la casilla 103, en lo que es calificado por la FIFA como la clasificación más alta de este país africano.
-
-Ranking FIFA
-------------
-
-**1\. Argentina**
-
-2\. Francia
-
-**3\. España**
-
-4\. Inglaterra
-
-**5\. Brasil**
-
-6\. Portugal
-
-**7\. Países Bajos**
-
-8\. Bélgica
-
-**9\. Italia**
-
-10\. Alemania
-
-**11\. Uruguay**
-
-12\. Colombia
-
-**24\. Ecuador**
-
-40\. Perú
-
-**47\. Venezuela**
-
-50\. Chile
-
-**53\. Paraguay**
-
-79\. Bolivia
-
-San viernes
------------
-
-El Palacio de Buckingham permanecerá cerrado por 3 años, hasta 2027
-===================================================================
-
-El Palacio de Buckingham cerrará sus puertas al público y a visitas oficiales por un periodo de tres años, desde el 2024 hasta el 2027.
----------------------------------------------------------------------------------------------------------------------------------------
-
-![Palacio de Buckingham, en una imagen de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/11/palacio-inglaterra-efe.jpg)
-
-[Carlos III](https://www.elcomercio.com/actualidad/mundo/rey-carlos-cancer.html "https://www.elcomercio.com/actualidad/mundo/rey-carlos-cancer.html") ordena el **cierre del emblemático palacio** para realizar importantes reformas. La decisión generó controversia por el alto costo de la obra.
-
-### Más noticias
-
-* [Robaron el Castillo de Windsor mientras el príncipe William, Kate Middleton y sus hijos dormían](https://www.elcomercio.com/tendencias/robo-castillo-windsor.html "Robaron el Castillo de Windsor mientras el príncipe William, Kate Middleton y sus hijos dormían")
-* [Estancia del príncipe Harry y Meghan en EE.UU. en duda tras victoria de Trump](https://www.elcomercio.com/afull/principe-harry-meghan-markle-donald-trump.html "Estancia del príncipe Harry y Meghan en EE.UU. en duda tras victoria de Trump ")
-* [La obsesión de Diddy por los príncipes William y Harry](https://www.elcomercio.com/tendencias/la-obsesion-de-diddy-por-los-principes-william-y-harry.html "La obsesión de Diddy por los príncipes William y Harry")
-
-El Palacio de Buckingham, uno de los **edificios más emblemáticos de la monarquía británica**, cerrará sus puertas al público y a las visitas oficiales por un **periodo de tres año**s, desde el 2024 hasta el 2027. Esta decisión, ordenada por el rey Carlos III, causó revuelo debido a la magnitud de la obra y la **cifra millonaria** que implicará la remodelación.
-
-El último mandatario en visitar el palacio será el emir de Catar, quien **llegará al Reino Unido** el próximo 4 de diciembre. A partir de esa fecha, el castillo permanecerá **cerrado para permitir las reparaciones** y renovaciones necesarias, consideradas las más grandes de las que se tenga memoria en los últimos tiempos. Las cenas de gala y **otros actos oficiales** se realizarán en el castillo de Windsor, situado a 45 minutos de Londres, mientras el palacio esté en remodelación.
-
-La familia real, por su parte, anunció que las **audiencias habituales** en el Palacio de Buckingham se trasladarán a la residencia del Palacio de St. James, en el centro de Londres.
-
-Implicaciones de la remodelación
---------------------------------
-
-Este cierre, sin embargo, no está exento de críticas. La **jugosa cantidad de dinero** que se invertirá en el proyecto generó detractores que cuestionan la necesidad de una **reforma de esta envergadura**, especialmente en tiempos de incertidumbre económica. No obstante, el **Palacio de Buckingham,** como sede de la monarquía británica, necesita de **importantes mejoras estructurales** para seguir siendo un lugar seguro y funcional.
-
-Con el **reciente diagnóstico de cáncer** de Carlos III y la recuperación de Kate, la princesa de Gales, la noticia de la **remodelación del palacio** fue una de las que más captó la atención en la agenda de la familia real. La decisión fue anunciada por Vanity Fair y corroborada por el diario El Espectador.
-
-El Nacional sigue festejando el título de la Copa Ecuador
-=========================================================
-
-El Nacional cortó una racha de 18 años sin conseguir un título en su gloriosa historia.
----------------------------------------------------------------------------------------
-
-![Marcos Olmedo, jugador de El Nacional con el trofeo de la Copa Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/nacho_festejos_1.jpg)
-
-El Nacional **sigue festejando el título de la Copa Ecuador** que alcanzó la tarde del miércoles 27 de noviembre de 2024, en el estadio Rodrigo Paz Delgado, propiedad de Liga de Quito.
-
-Ante más de 25 000 personas, **El Nacional le ganó 1-0 a Independiente del Valle**. Gabriel ‘Loco’ Cortez anotó el único tanto del compromiso al cierre del primer tiempo.
-
-### Más noticias:
-
-* [Hincapié brilló, Leverkusen ganó y se acomodó en la tabla](https://www.elcomercio.com/deportes/futbol/hincapie-brillo-leverkusen-gano-y-se-acomodo-en-la-tabla.html "Hincapié brilló, Leverkusen ganó y se acomodó en la tabla")
-* [Liga Pro tomó una tajante decisión sobre Liga de Quito y su sanción](https://www.elcomercio.com/deportes/futbol/liga-pro-tomo-una-tajante-decision-sobre-liga-de-quito-y-su-sancion.html "Liga Pro tomó una tajante decisión sobre Liga de Quito y su sanción")
-* [(Video) Guardiola enfurece y se autolesiona tras el empate del Manchester City](https://www.elcomercio.com/deportes/futbol/guardiola-enfurece-y-se-autolesiona-tras-el-empate-del-manchester-city.html "(Video) Guardiola enfurece y se autolesiona tras el empate del Manchester City")
-
-El ‘Loco’ Cortez fue una de las figuras de los rojos en la Copa Ecuador. Anotó dos goles y se **consolidó como el máximo goleador de la competencia** en todas sus ediciones con 10. Anotó con las camisetas de Emelec, 9 de Octubre y el ‘Nacho’.
-
-Los festejos en el Rodrigo Paz Delgado empezaron en el terreno de juego con los jugadores. Abrazos, agradecimientos, felicitaciones y lágrimas fueron parte del mosaico de emociones que se vivió una vez que el encuentro terminó.
-
-En la gradas el panorama era similar. Muchos de los fanáticos de los ‘Puros criollos’ **vivían por primera vez la adrenalina de festejar un título**, mientras que otros volvieron a recordar las épocas doradas de la institución que suma 13 títulos del campeonato local.
-
-![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/11/nacho_festejos_2-1024x683.jpg)
-
-Foto: API.
-
-Los festejos en redes sociales
-------------------------------
-
-Los festejos por el primer título de los **‘militares’ en 18 años se trasladaron a la virtualidad** y se tomaron las redes sociales. El club se volvió tendencia y un tema de conversación desde que ganó la Copa Ecuador.
-
-Como no podía ser de otra manera, el departamento de prensa de El Nacional lideró los festejos en la virtualidad. Una serie de posteos **alegraron a sus seguidores que no perdieron el tiempo** para comentar y exteriorizar su alegría contenida por años.
-
-Este jueves 28, a menos de 24 horas de la coronación, el CM se levantó con ganas de seguir celebrando.
-
-“**Hermosa mañana, ¿verdad?**“, fue la primera publicación con una foto de Jorge Ordóñez, el goleador del equipo en la actual edición del torneo con cuatro tantos.
-
-> HERMOSA MAÑANA, ¿VERDAD? 🏆⭐️ [pic.twitter.com/51TwDOJik7](https://t.co/51TwDOJik7)
-> 
-> — Club Deportivo El Nacional (@elnacionalec) [November 28, 2024](https://twitter.com/elnacionalec/status/1862116399998464293?ref_src=twsrc%5Etfw)
-
-“Manden videos de sus festejos que yo les doy RT mis panas. A ver…”, fue otras de las publicaciones.
-
-Inmediatamente, tuvo respuestas y empezaron a llegar videos de como los hinchas festejaron el título desde **distintos puntos del Rodrigo Paz, que por una tarde se vistió, casi, en su totalidad, de rojo** con una fanaticada que se reencontró con su equipo.
-
-> [pic.twitter.com/ulchyc9BSJ](https://t.co/ulchyc9BSJ)
-> 
-> — Henry Guerrero Gutiérrez (@HenryGuerrero75) [November 28, 2024](https://twitter.com/HenryGuerrero75/status/1862136389279604772?ref_src=twsrc%5Etfw)
-
-San viernes
------------
-
-En Garabot aprende cómo adoptar la automatización en marketing
-==============================================================
-
-Cristián Játiva, experto en Marketing, detalla las innovaciones en automatización de marketing, marketing predictivo e influencer venture capitales.
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Cristián Játiva, experto en Marketing, es el nuevo invitado de Garabot.](https://www.elcomercio.com/wp-content/uploads/2024/11/1200X800-GARABOT-11.jpg)
-
-La **automatización de marketing** ha revolucionado el mundo empresarial, especialmente en el contexto actual, donde la tecnología y los datos juegan un papel crucial.
-
-Sin embargo, muchas empresas aún desconocen todo su potencial. A través de plataformas innovadoras, es posible r**educir costos, mejorar la personalización y aumentar la eficiencia de las campañas.**
-
-**Cristián Játiva, experto en Marketing**, explica en este pódcast sobre el marketing predictivo y su automatización.
-
-Escucha todos sus consejos en este capítulo de la **segunda temporada del pódcast Garabot.**
-
-* * *
-
-Nueve sugerencias sobre automatización de marketing
+**Chispa y Sal Quiteña Stand Up – 28 de noviembre**
 ---------------------------------------------------
 
-* **Entiende qué es la automatización de marketing**. La automatización de marketing va más allá del envío masivo de correos electrónicos. Se trata de crear flujos de trabajo inteligentes que automatizan procesos de marketing, desde la segmentación de clientes hasta la personalización de campañas.
-* **Usa plataformas especializadas**. Existen diversas herramientas como HubSpot, Mailchimp y ActiveCampaign que permiten gestionar campañas automatizadas. Estas plataformas han evolucionado desde el envío de correos masivos a crear experiencias personalizadas utilizando inteligencia artificial.
-* **Optimiza la segmentación de tu audienci**a. La clave para la personalización es la segmentación efectiva. Utiliza datos sobre el comportamiento de tus clientes, sus intereses y preferencias para crear campañas específicas. Esto mejora la interacción y fidelización del cliente.
-* **Incorpora la inteligencia artificial (IA)**. Las plataformas de automatización actuales emplean IA para analizar datos y crear campañas aún más personalizadas. Con IA, puedes predecir las necesidades de los clientes y mejorar la tasa de conversión de tus campañas.
-* **Capacita a tu equipo en el uso de la tecnología**. La adopción de nuevas herramientas puede ser un reto. Es fundamental que tu equipo esté capacitado en el uso de estas plataformas para aprovechar al máximo sus beneficios y optimizar las campañas de marketing.
-* **Comienza con procesos simples y escala**. Si eres una pyme, no es necesario implementar todas las herramientas de golpe. Comienza con flujos simples como el envío automatizado de correos electrónicos y expande gradualmente a otras funciones como la atención al cliente automatizada.
-* **Aprovecha la personalización para fidelizar clientes**. La automatización permite que envíes mensajes personalizados basados en datos específicos de cada cliente. Por ejemplo, un saludo en su cumpleaños o recomendaciones de productos según su historial de compras pueden hacer que el cliente se sienta valorado y fidelizado.
-* **Monitorea y ajusta continuamente tus campañas**. La automatización no es algo que se implementa y se olvida. Es crucial analizar los resultados y ajustar las campañas en función de lo que funciona y lo que no. La recopilación constante de datos te permitirá optimizar la eficiencia.
-* **Considera los costos y beneficios de la inversión**. Muchas pymes temen a los costos iniciales de la automatización, pero los beneficios a largo plazo, como la reducción de costos operativos y la mejora en las conversiones, justifican la inversión. La clave es elegir un plan adecuado que se ajuste a tus necesidades y presupuesto.
+|     |     |
+| --- | --- |
+| Fecha | 28 de noviembre |
+| Hora | 19:00 |
+| Ubicación | Teatro Capitol ([Ver en Google Maps](https://www.google.com/maps/search/?api=1&query=Teatro+Capitol)) |
+| Cierres Viales | Av. Gran Colombia y calles cercanas desde las 18:00 |
+| Vías Alternativas | Ninguna especificada |
 
-La automatización de marketing es una herramienta poderosa para cualquier empresa que busque ser más eficiente y competitiva.
+**Desfile Mascarada Quiteña – 28 de noviembre**
+-----------------------------------------------
 
-Aunque en Ecuador la adopción de estas tecnologías aún es incipiente, especialmente en las pymes, el camino hacia la innovación ya está trazado. La clave está en aprovechar los recursos disponibles y adaptarse rápidamente a un mercado cada vez más digitalizado.
+|     |     |
+| --- | --- |
+| Fecha | 28 de noviembre |
+| Hora | 18:00 |
+| Ubicación | Av. Amazonas ([Ver en Google Maps](https://www.google.com/maps/search/?api=1&query=Av.+Amazonas)) |
+| Cierres Viales | Intersecciones: Jorge Washington, Colón |
+| Vías Alternativas | Av. 10 de Agosto, Av. 6 de Diciembre |
 
-Controles de exceso de velocidad en Quito este jueves 28 de noviembre
-=====================================================================
+**Cantos del Sur – 29 de noviembre**
+------------------------------------
 
-Estos son los horarios y los puntos donde se realizarán los controles preventivos de velocidad en Quito. Estos no tendrán sanciones
------------------------------------------------------------------------------------------------------------------------------------
+|     |     |
+| --- | --- |
+| Fecha | 29 de noviembre |
+| Hora | 17:00 |
+| Ubicación | Tribuna del Sur ([Ver en Google Maps](https://www.google.com/maps/search/?api=1&query=Tribuna+del+Sur)) |
+| Cierres Viales | Av. Teniente Hugo Ortiz y conexiones: Francisco de Orellana |
+| Vías Alternativas | Av. Alonso de Angulo |
 
-![La AMT aplica controles preventivos de exceso de velocidad en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-2024-11-28T092151.271.jpg)
-
-La **Agencia Metropolitana de Tránsito** (AMT) informó sobre la reanudación de los **controles preventivos** de velocidad que se realizarán en las calles de Quito.
-
-### Más noticias
-
-* [Plaza en El Panecillo tendrá una renovación, en Quito](https://www.elcomercio.com/actualidad/quito/plaza-nubes-quito-renovacion.html "Plaza en El Panecillo tendrá una renovación, en Quito")
-* [Cortes de agua se realizan en 95 barrios de Quito hasta el 2 de diciembre](https://www.elcomercio.com/actualidad/quito/cortes-de-agua-95-barrios-quito-hasta-2-de-diciembre.html "Cortes de agua se realizan en 95 barrios de Quito hasta el 2 de diciembre")
-* [Cortes de luz en Quito del viernes 29 de noviembre al domingo 1 de diciembre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-de-viernes-29-de-noviembre-a-domingo-1-de-diciembre.html "Cortes de luz en Quito del viernes 29 de noviembre al domingo 1 de diciembre")
-
-Operativos se reanudan tras suspensión
---------------------------------------
-
-La Agencia Metropolitana de Tránsito (AMT) realizó **controles de exceso de velocidad en Quito** hasta el mes de septiembre en algunas vías de Quito. Estos operativos de control de exceso de velocidad tienen el objetivo de **reducir los siniestros de tránsito y salvar vidas**.
-
-La AMT ejecutó el último **operativo preventivo de control de velocidad** el martes 24 de septiembre en la av. Simón Bolívar, una de las vías que más [siniestros](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito") registra.
-
-El mismo 24 de septiembre, la **Agencia de Tránsito** informó que, en la coyuntura de los cortes de luz que se realizan en Quito, se decidió **suspender de forma temporal los operativos**. Tanto los controles preventivos como los sancionatorios se detuvieron desde esa última semana de septiembre.
-
-Esta decisión se tomó como un **esfuerzo para realizar una mejor gestión del tránsito** vehicular durante los apagones. De ese modo, **todo el contingente de la AMT** está concentrado en asistir a la ciudadanía en los principales cruces cuando los semáforos se quedan sin luz.
-
-La **AMT además destina** a su personal para la **atención de emergencias** como los incendios que se registraron en Quito los últimos días de septiembre. Así como las complicaciones causadas por las lluvias en el mes de octubre.
-
-Controles de velocidad ya tienen programación
+**Quinde Electro Fest – 5 al 7 de diciembre**
 ---------------------------------------------
 
-La AMT informó que, debido a que las **horas de cortes de luz** se redujeron, se retomará la realización de los **controles preventivos de velocidad.**
+|     |     |
+| --- | --- |
+| Fecha | 5 al 7 de diciembre |
+| Hora | 20:00 |
+| Ubicación | Parque de la Carolina ([Ver en Google Maps](https://www.google.com/maps/search/?api=1&query=Parque+de+la+Carolina)) |
+| Cierres Viales | Av. Amazonas, Av. 6 de Diciembre |
+| Vías Alternativas | Av. 10 de Agosto, Av. Naciones Unidas |
 
-Así mismo, los agentes podrán retomar la ejecución de los **controles de alcotest,** placas y que no circulen dos hombres en moto.
-
-Los **controles preventivos de velocidad** se retomarán nuevamente en Quito y se harán de manera periódica. Los primeros se harán durante todos los días de esta semana.
-
-De ese modo, los controles de velocidad se realizan diariamente desde la mañana del **martes 26 de noviembre**.
-
-Para este jueves 28 de noviembre están previstos dos controles preventivos de exceso velocidad en los siguientes puntos y horas:
-
-* De 10:30 a 11:30, **av. Simón Bolívar**, sector Santa Rosa, sentido sur-norte
-* De 14:00 a 15:00, **av. Velasco Ibarra,** mirador, sentido sur-norte
-
-Estos operativos son preventivos, es decir, loa **agentes de tránsito no impondrán sanciones** a los conductores que excedan los límites [permitidos de velocidad](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
-
-Próximos operativos
--------------------
-
-* **Viernes 29 de noviembre:**
-    * De 10:30 a 11:30, av. Simón Bolívar, sector Santa Rosa, sentido sur-norte
-    * De 14:00 a 15:00, av. Velasco Ibarra, mirador, sentido sur-norte
-* **Lunes 2 de diciembre:**
-    * De 10:30 a 11:30, av. Simón Bolívar, sector Más Gas, sentido sur-norte
-    * De 14:30 a 15:30, av. De los Shyris y Portugal, sentido norte-sur
-* **Martes 3 de diciembre:**
-    * De 07:00 a 08:00, av. Tnt. Hugo Ortiz, sentido sur-norte
-    * De 15:00 a 16:00, av. Simón Bolívar, sector La Pampa, sentido norte-sur
-
-> 🤍 [#CadaVidaCuenta](https://twitter.com/hashtag/CadaVidaCuenta?src=hash&ref_src=twsrc%5Etfw) | ¡Pilas con los controles de velocidad preventivos! Revisa esta información y conduce con precaución.  
->   
-> Con seguridad en las vías, [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/ur1Oflc5x4](https://t.co/ur1Oflc5x4)
-> 
-> — Municipio de Quito (@MunicipioQuito) [November 27, 2024](https://twitter.com/MunicipioQuito/status/1861763433965748607?ref_src=twsrc%5Etfw)
-
-Cortes de luz en Cuenca del lunes 25 al jueves 28 de noviembre
-==============================================================
-
-El cronograma de cortes de luz para Cuenca contempla siete horas de reducción del servicio eléctrico. Este se aplica en dos franjas
------------------------------------------------------------------------------------------------------------------------------------
-
-![La empresa Centrosur compartió los cronogramas de cortes de luz hasta el 1 de diciembre.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-2024-11-28T083716.295.jpg)
-
-El **Ministerio de Energía y Minas** publicó los nuevos **horarios de cortes de luz** programados hasta el domingo 1 de diciembre. Estos contemplan las mismas horas que los días previos.
-
-### Más noticias
-
-* [Cortes de luz en Ecuador del viernes 29 de noviembre al domingo 1 de diciembre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-ecuador-de-viernes-29-de-noviembre-a-domingo-1-de-diciembre.html "Cortes de luz en Ecuador del viernes 29 de noviembre al domingo 1 de diciembre")
-* [Durante estos fines de semana no se podrá volar a Cuenca](https://www.elcomercio.com/actualidad/cuenca/durante-fines-semana-podra-volar-cuenca.html "Durante estos fines de semana no se podrá volar a Cuenca")
-* [El destino de cuatro oseznos es incierto tras los incendios forestales en el cantón Cuenca](https://www.elcomercio.com/tendencias/ambiente/incendios-forestales-cuenca-osos-rastro-fauna-flora.html "El destino de cuatro oseznos es incierto tras los incendios forestales en el cantón Cuenca")
-
-Horarios de cortes de luz se mantienen en Ecuador
+**Quitofest – Sal Quiteña – 5 al 7 de diciembre**
 -------------------------------------------------
 
-La Cartera de Energía informó este jueves 28 de noviembre que se **realizaron diversos análisis técnicos** que buscan de manera prioritaria y responsable **mantener los caudales.**
+|     |     |
+| --- | --- |
+| Fecha | 5 al 7 de diciembre |
+| Hora | 10:00 |
+| Ubicación | Centro de Convenciones Bicentenario ([Ver en Google Maps](https://www.google.com/maps/search/?api=1&query=Centro+de+Convenciones+Bicentenario)) |
+| Cierres Viales | Accesos al Parque Bicentenario |
+| Vías Alternativas | Av. Galo Plaza Lasso, Av. De la Prensa |
 
-Con base en ellos, se elaboraron **los cronogramas de racionamientos** desde el viernes 29 de noviembre hasta el **domingo 1 de diciembre** con las mismas horas de los días previos.
+**Fiesta de Colores – 6 de diciembre**
+--------------------------------------
 
-Esto se hace en conjunto con las **empresas distribuidoras de energía** y en coordinación con el Cenace, por lo que se decidió continuar con **suspensiones de seis y siete horas.**
+|     |     |
+| --- | --- |
+| Fecha | 6 de diciembre |
+| Hora | 15:00 |
+| Ubicación | Plaza de la Independencia ([Ver en Google Maps](https://www.google.com/maps/search/?api=1&query=Plaza+de+Santo+Domingo)) |
+| Cierres Viales | Calles Venezuela y Chile |
+| Vías Alternativas | Av. Mariscal Sucre |
 
-El Ministerio recalcó que **trabaja de manera comprometida e ininterrumpida** para potenciar el Sistema Energético ecuatoriano y mejorar las condiciones técnicas de la infraestructura eléctrica.
+**Solanda Canta a Quito – 6 de diciembre**
+------------------------------------------
 
-Las decisiones están enfocadas en poder suspender los racionamientos de energía para finales de 2024, como ofreció el **presidente Daniel Noboa**.
+|     |     |
+| --- | --- |
+| Fecha | 6 de diciembre |
+| Hora | 18:00 |
+| Ubicación | Estadio de Solanda ([Ver en Google Maps](https://www.google.com/maps/search/?api=1&query=Estadio+de+Solanda)) |
+| Cierres Viales | Av. Solanda y calles adyacentes |
+| Vías Alternativas | Av. Simón Bolívar |
 
-Esto, tras **65 días de que Ecuador afronte cortes de luz** en todas sus provincias de hasta 12 horas.
+Funcionamiento de las chivas durante las festividades
+-----------------------------------------------------
 
-La crisis energética, provocada por un **déficit de 1 080 megavatios** (MW) y una de las peores sequías en la historia del país, afecta todos los aspectos de la vida diaria de los ecuatorianos. Y no tiene una fecha exacta de solución.
+En cuanto al transporte tradicional, la Agencia Metropolitana de Tránsito autorizó, hasta el 28 de noviembre, un total de 80 chivas tradicionales para operar durante las **fiestas de Quito.** 
 
-Cortes de luz en Cuenca
------------------------
+Con este objetivo, la autorización incluye regulaciones específicas para asegurar un servicio ordenado.
 
-La empresa distribuidora de energía **Centrosur** informó también los cronogramas de cortes de luz para las zonas que maneja, como **Cuenca y Paute.**
+Por ejemplo, los propietarios deben registrar sus vehículos y portar el permiso correspondiente. 
 
-Estos horarios contemplan la **suspensión del servicio durante siete horas**, divididas en dos franjas horarias de tres y cuatro horas cada una.
+Adicionalmente, las **chivas** tienen restricciones de circulación y no podrán ingresar a zonas sensibles delimitadas por polígonos específicos en la ciudad.
 
-Aquí puede consultar los [cronogramas de cortes de luz](https://www.centrosur.gob.ec/interrupciones-programadas/ "https://www.centrosur.gob.ec/interrupciones-programadas/") de los tres días en Cuenca.
+Normativas y controles para las chivas
+--------------------------------------
 
-### Horarios para el viernes 29 de noviembre:
+Paralelamente, la **AMT** estableció un plan de control riguroso. Como parte de estas acciones, las autoridades realizarán inspecciones constantes en puntos estratégicos para verificar el cumplimiento de las normativas. 
 
-### Horarios de cortes de luz para el sábado 30 de noviembre:
+En estas revisiones, los agentes comprobarán que las unidades tengan llantas en buen estado, respeten su capacidad máxima de ocupación y dispongan de toda la documentación requerida.
 
-### Cortes de luz en Cuenca el domingo 1 de diciembre:
+Polígonos autorizados para el tránsito de las chivas
+----------------------------------------------------
 
-Cortes de luz en Guayaquil del viernes 29 de noviembre al domingo 1 de diciembre
+Para organizar mejor su circulación, las autoridades definieron tres polígonos donde las **chivas** no podrán ingresar:
+
+* **Polígono 1**: Av. El Inca, Av. 6 de Diciembre, Av. Cristóbal Colón y Av. Río Amazonas.
+* **Polígono 2**: Av. Ernesto Noboa Caamaño, Av. Federico González Suárez, Av. Cristóbal Colón y Av. 12 de Octubre.
+* **Polígono 3**: Centro Histórico, delimitado por calles como Imbabura, Bolívar y José Joaquín de Olmedo.
+
+La FEF restituye sus tres puntos a Liga de Quito
+================================================
+
+Liga de Quito conoció el dictamen de su apelación para recuperar tres puntos en la segunda etapa de la Liga Pro tras una sanción.
+---------------------------------------------------------------------------------------------------------------------------------
+
+![Ezequiel Piovi, capitán de Liga de Quito, en un partido de la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-28T144457.969.jpg)
+
+**Liga de Quito** aumentó sus posibilidades de cara a la última fecha de la segunda etapa de la Liga Pro. Los albos recibieron el dictamen de una apelación, recuperaron tres puntos y en su siguiente duelo definirán si van a la final.
+
+A tan solo un partido de que finalice la campaña regular del campeonato ecuatoriano, la escuadra azucena contaba con **29 puntos** en la tabla de posiciones y +14 de gol diferencia. Aquello lo ubicaba en la segunda posición de la tabla de posiciones debido al último factor.
+
+### Más noticias:
+
+* [Mario Pineida se burla nuevamente de Liga de Quito tras ser campeón](https://www.elcomercio.com/deportes/futbol/mario-pineida-se-burla-nuevamente-de-liga-de-quito-tras-ser-campeon.html "Mario Pineida se burla nuevamente de Liga de Quito tras ser campeón")
+* [Liga de Quito recibió una buena noticia de la Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-de-quito-recibio-una-buena-noticia-de-la-liga-pro.html "Liga de Quito recibió una buena noticia de la Liga Pro")
+* [Liga de Quito y su pelea por los puntos, ¿tienen posibilidad de recuperarlos?](https://www.elcomercio.com/deportes/futbol/liga-de-quito-pelea-por-puntos-tienen-posibilidad-de-recuperarlos.html "Liga de Quito y su pelea por los puntos, ¿tienen posibilidad de recuperarlos?")
+
+La restitución de sus unidades, Liga de Quito queda en la cima con 32 unidades y tres puntos sobre Independiente del Valle. Aquello lo deja como favorito de cara a su siguiente partido y para disputar el título del campeonato.
+
+En la última fecha, los clubes se medirán ante rivales distintos en la última fecha, **Liga de Quito** lo hará ante Deportivo Cuenca e Independiente ante **Orense**. Los albos lo harán como locales en el Estadio Rodrigo Paz Delgado y los rayados como visitantes en el 9 de mayo de Machala.
+
+¿Cuándo se resolvió la apelación de Liga de Quito?
+--------------------------------------------------
+
+Este jueves 28 de noviembre del 2024 a las 17:00, la **Comisión Disciplinaria de la Federación Ecuatoriana de Fútbol (FEF)** se reunió para tratar el tema. Una vez que finalizó su sesión, Liga de Quito recibió la notificación de si se le restituían o no sus tres puntos.
+
+“Se comunica que el día de hoy, 28 de noviembre del 2024 a las 18:00, el Tribunal de Apelación de la Federación Ecuatoriana de Fútbol aceptó el recurso de apelación interpuesto por Liga Deportiva Universitaria, revocó el oficio. C.D. 084-2024, levantó la prohibición de negociar jugadores y restituyó los 3 puntos inicialmente restados al club en todas la categoría”, expuso la ‘U’ en un comunicado.
+
+Dentro de su argumento, **Liga de Quito** señaló que no incumplió con acuerdos de pago para que se lo sancione, sin embargo, no notificó a la FEF de su acción. A partir de ello, los albos esperaban que se revise la situación y se dé vuelta con la sanción previa.
+
+¿Por qué sancionaron a Liga de Quito?
+-------------------------------------
+
+El sábado 16 de noviembre del 2024, con tres fechas aún pendientes en **Liga Pro,** la FEF dio a conocer la sanción expuesta hacia Liga de Quito. Por medio de una notificación, la entidad restó a los albos tres puntos en la segunda etapa y la tabla acumulada.
+
+La razón de la penalización en el documento fue que Liga no cumplió con obligaciones económicas dentro del plazo establecido. Aquello con respecto a deudas que mantenía con **Renato Ibarra y Franklin Guerra.**
+
+Después del suceso, la **FEF** habilitó a la ‘U’ para jugar el campeonato debido a que se llegó a un acuerdo de pago con Ibarra y se solventó la deuda de Guerra. Pese a ello, los puntos no fueron recuperados debido a que se tratan de **sanciones diferentes.**  
+
+Fuerzas Armadas encontraron celulares y otros objetos prohibidos en dos cárceles
 ================================================================================
 
-El cronograma de cortes de luz para Guayaquil contempla cinco y siete horas de reducción del servicio eléctrico. Este se aplica en dos franjas
-----------------------------------------------------------------------------------------------------------------------------------------------
+Las Fuerzas Armadas encontraron los teléfonos escondidos en colchones y paredes de las cárceles.
+------------------------------------------------------------------------------------------------
 
-![La empresa CNEL compartió los cronogramas de cortes de luz hasta el domingo 1 de diciembre.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-2024-11-28T075631.318.jpg)
+![Los militares realizan controles periódicos en las cárceles del país.](https://www.elcomercio.com/wp-content/uploads/2024/11/carceles.jpg)
 
-El **Ministerio de Energía y Minas** publicó los nuevos **horarios de cortes de luz** programados hasta el domingo 1 de diciembre. Estos contemplan las mismas horas que los días previos.
+**Fuerzas Armadas (FF.AA.)** encontraron celulares y otros objetos prohibidos en dos **cárceles**, este miércoles 27 de noviembre de 2024[.](https://es.wikipedia.org/wiki/Fuerzas_Armadas_del_Ecuador)
+
+Los militares mantienen los **controles** en los centros de privación de la libertad del país.
+
+### Más noticias:
+
+* [Tres instituciones firman convenio sobre las telecomunicaciones en cárceles](https://www.elcomercio.com/actualidad/seguridad/tres-instituciones-convenio-telecomunicaciones-carceles.html "Tres instituciones firman convenio sobre las telecomunicaciones en cárceles")
+* [Alerta por fuga de reos en la cárcel Regional Guayas este sábado 23 de noviembre](https://www.elcomercio.com/actualidad/seguridad/fuga-reos-carcel-regional-guayas-sabado-23-noviembre.html "Alerta por fuga de reos en la cárcel Regional Guayas este sábado 23 de noviembre")
+
+Los lugares en los que las Fuerzas Armadas enconotraron los celulares
+---------------------------------------------------------------------
+
+Los militares realizaron operativos en **dos centros de privación de la libertad** del país.
+
+Las Fuerzas Armadas encontraron celulares y otros objetos prohibidos en uno de los pilares del pabellón de mediana seguridad de la cárcel de **Los Ríos**.
+
+Fueron siete teléfonos y **cables** para cargarlos.
+
+Los uniformados hicieron huecos en la **pared** para poder extraer los equipos.
+
+> [#LosRíos](https://twitter.com/hashtag/LosR%C3%ADos?src=hash&ref_src=twsrc%5Etfw) | Fuerzas Armadas del Ecuador mediante una intervención en el Centro de Privación de Libertad Los Ríos, realizaron un registro al pabellón de mediana seguridad, decomisando 7 teléfonos celulares.[#FFAAContigo](https://twitter.com/hashtag/FFAAContigo?src=hash&ref_src=twsrc%5Etfw)[#EcuadorUnaSolaFuerza](https://twitter.com/hashtag/EcuadorUnaSolaFuerza?src=hash&ref_src=twsrc%5Etfw) 🇪🇨 [pic.twitter.com/q5gweOeDEg](https://t.co/q5gweOeDEg)
+> 
+> — Fuerzas Armadas del Ecuador (@FFAAECUADOR) [November 28, 2024](https://twitter.com/FFAAECUADOR/status/1861940830463787170?ref_src=twsrc%5Etfw)
+
+Las Fuerzas Armadas también realizaron otra requisa en la **cárcel de Sucumbíos**.
+
+En este centro de privación de la libertad, los uniformados hallaron teléfonos escondidos en **colchones**.
+
+Mientras se realizaba la inspección, los presos fueron sacados al **patio.**
+
+En esta cárcel también se encontró dinero en efectivo, **objetos cortopunzantes**, canecas con licor, droga y hasta una licuadora.
+
+> [#Sucumbíos](https://twitter.com/hashtag/Sucumb%C3%ADos?src=hash&ref_src=twsrc%5Etfw) | [#BloqueDeseguridad](https://twitter.com/hashtag/BloqueDeseguridad?src=hash&ref_src=twsrc%5Etfw) realizó una nueva intervención en el Centro de Privación de Libertad Nº 1 Sucumbíos, donde se encontró celulares, dinero en efectivo, objetos cortopunzantes, canecas de licor y SCSF [#FFAAContigo](https://twitter.com/hashtag/FFAAContigo?src=hash&ref_src=twsrc%5Etfw)[#EcuadorUnaSolaFuerza](https://twitter.com/hashtag/EcuadorUnaSolaFuerza?src=hash&ref_src=twsrc%5Etfw) 🇪🇨 [pic.twitter.com/jRpzxU6mGX](https://t.co/jRpzxU6mGX)
+> 
+> — Fuerzas Armadas del Ecuador (@FFAAECUADOR) [November 27, 2024](https://twitter.com/FFAAECUADOR/status/1861885081477951958?ref_src=twsrc%5Etfw)
+
+La crisis carcelaria que atraviesa el país quedó en evidencia hace varios años.
+
+**Masacres** entre presos, fugas, objetos prohibidos en el interior, asesinato de funcionarios penitenciarios son algunos de los hechos que evidencian la crisis.
+
+Las masacres se registraron en cárceles como la **Penitenciaría del Litoral, la Regional de Guayas y la cárcel de Latacunga en Cotopaxi.**
+
+Uno de los fugados es **alias ‘Fito’**, líder de Los Choneros; uno de los asesinados fue Leandro Norero, en la cárcel de Cotopaxi.
+
+Daniel Noboa constató avance de la obra de unidad educativa en Otavalo
+======================================================================
+
+El presidente Daniel Noboa recorrió la Unidad Educativa Comunitaria Intercultural Bilingüe Atahualpa, ubicada en Otavalo.
+-------------------------------------------------------------------------------------------------------------------------
+
+![Daniel Noboa durante su recorrido por la unidad educativa Atahualpa](https://www.elcomercio.com/wp-content/uploads/2024/11/unidad-educativa-atahualpa-otavalo.jpg)
+
+El presidente **Daniel Noboa** verificó los avances de la construcción de la **Unidad Educativa Comunitaria Intercultural Bilingüe Atahualpa**, en Otavalo, en Imbabura.
+
+Su visita la hizo acompañado de otros funcionarios del Gobierno, entre ellos, los **ministros de Educación y Obras Públicas**, Alegría Crespo y Roberto Luque.
 
 ### Más noticias
 
-* [Cortes de luz en Ecuador del viernes 29 de noviembre al domingo 1 de diciembre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-ecuador-de-viernes-29-de-noviembre-a-domingo-1-de-diciembre.html "Cortes de luz en Ecuador del viernes 29 de noviembre al domingo 1 de diciembre")
-* [Cortes de luz en Quito del viernes 29 de noviembre al domingo 1 de diciembre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-de-viernes-29-de-noviembre-a-domingo-1-de-diciembre.html "Cortes de luz en Quito del viernes 29 de noviembre al domingo 1 de diciembre")
-* [Cortes de luz en Guayaquil este jueves 28 de noviembre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-guayaquil-jueves-28-noviembre.html "Cortes de luz en Guayaquil este jueves 28 de noviembre")
+* [Ministerio de Educación responde a caso de presunto abuso en plantel en Guayaquil](https://www.elcomercio.com/actualidad/seguridad/ministerio-educacion-responde-caso-abuso-plantel-guayaquil.html "Ministerio de Educación responde a caso de presunto abuso en plantel en Guayaquil")
+* [La educación ciudadana y la cultura de paz](https://www.elcomercio.com/tendencias/educacion-ciudadana-cultura-paz.html "La educación ciudadana y la cultura de paz")
+* [Daniel Noboa asegura que los feminicidios se redujeron en un 35% en Ecuador](https://www.elcomercio.com/actualidad/politica/daniel-noboa-asegura-que-feminicidios-se-redujeron-en-un-35-ecuador.html "Daniel Noboa asegura que los feminicidios se redujeron en un 35% en Ecuador")
 
-Horarios de cortes de luz se mantienen en Ecuador
--------------------------------------------------
+La obra beneficiará a **2 280 niños y niñas del cantón**, quienes estudiarán en la nueva infraestructura que incluirá: bloques para educación inicial y **30 aulas para educación general y bachillerato**.
 
-La Cartera de Energía informó este jueves 28 de noviembre que se **realizaron diversos análisis técnicos** que buscan de manera prioritaria y responsable **mantener los caudales.**
+Además de **otros espacios**, entre ellos: biblioteca, comedor, salón de uso múltiple, laboratorios de química, física y computación, bar, canchas, patio cívico[.](https://educacion.gob.ec/ "https://educacion.gob.ec/")
 
-Con base en ellos, se elaboraron **los cronogramas de racionamientos** desde el viernes 29 de noviembre hasta el **domingo 1 de diciembre** con las mismas horas de los días previos.
+La obra tendrá una inversión de **3,7 millones de dólares**.
 
-Esto se hace en conjunto con las **empresas distribuidoras de energía** y en coordinación con el Cenace, por lo que se decidió continuar con **suspensiones de seis y siete horas.**
+Avances en unidad educativa
+---------------------------
 
-El Ministerio recalcó que **trabaja de manera comprometida e ininterrumpida** para potenciar el Sistema Energético ecuatoriano y mejorar las condiciones técnicas de la infraestructura eléctrica.
+En su recorrido, Noboa revisó los avances en la obra y luego se dirigió a los **estudiantes y moradores** de Otavalo que acudieron al **evento simbólico**.
 
-Las decisiones están enfocadas en poder suspender los racionamientos de energía para finales de 2024, como ofreció el **presidente Daniel Noboa**.
+En su discurso, el primer mandatario señaló: “Aquí, los estudiantes no solo recibirán una **educación de calidad**, sino que aprehenderán a valorar sus raíces y el compromiso con la comunidad”.
 
-Esto, tras **65 días de que Ecuador afronte cortes de luz** en todas sus provincias de hasta 12 horas.
+“No solo vemos aulas, sino que también vemos el compromiso y la esperanza de todos aquellos que aquí **aprenden, crecen y se preparan** para enfrentar los retos del mañana”, añadió Daniel Noboa.
 
-La crisis energética, provocada por un **déficit de 1 080 megavatios** (MW) y una de las peores sequías en la historia del país, afecta todos los aspectos de la vida diaria de los ecuatorianos. Y no tiene una fecha exacta de solución.
+El Presidente finalizó su mensaje dirigiéndose a los futuros estudiantes de esta unidad educativa:
 
-Cortes de luz en Guayaquil
---------------------------
+“Niñas y niños, quiero decirles que están construyendo su propio futuro y, con cada paso que dan, están dejando una huella que contribuirá a su **desarrollo**, al de su familia, al de su comunidad y por supuesto al de todo el Ecuador”, enfatizó el Presidente.
 
-La empresa distribuidora de energía CNEL publicó la **programación de cortes de luz** para el viernes 29 de noviembre, sábado 30 de noviembre y domingo 1 de diciembre de 2024.
+> Más de 2.200 niñas y niños de Otavalo recibirán una educación de calidad en la Unidad Educativa Comunitaria Intercultural Bilingüe Atahualpa. 🇪🇨👏  
+>   
+> Obra que fue abandonada por más de 7 años y que gracias a [#ElNuevoEcuador](https://twitter.com/hashtag/ElNuevoEcuador?src=hash&ref_src=twsrc%5Etfw) y a una inversión de USD 3.7 millones es una realidad.… [pic.twitter.com/UL4WuVtQrS](https://t.co/UL4WuVtQrS)
+> 
+> — Presidencia Ecuador 🇪🇨 (@Presidencia\_Ec) [November 28, 2024](https://twitter.com/Presidencia_Ec/status/1862246354912727490?ref_src=twsrc%5Etfw)
 
-Los horarios en Guayaquil se aplicarán por cinco y siete horas, distribuidas en **dos franjas horarias de cuatro y tres horas** para cada bloque de barrios afectados.
+Obra estuvo paralizada durante siete años
+-----------------------------------------
 
-El sector industrial, en cambio, mantendrá una **suspensión del servicio** de solamente cuatro horas continuas.
+Por otra parte, la ministra de Educación, **Alegría Crespo**, afirmó que la construcción de la unidad educativa “comenzó en el **2015** y estuvo **abandonada por siete años**“.
 
-Los comentarios de los usuarios no se hicieron esperar y se pueden leer **varias quejas** en las redes sociales. La mayoría de personas reclama que **no existe una rotación en los horarios** establecidos a lo largo de las semanas.
+En ese sentido, la funcionaria señaló que mediante el trabajo conjunto de los ministerios de Educación y Obras Públicas, fue posible la recuperación de la unidad educativa y finalmente abrirá sus puertas a miles de niños y jóvenes.
 
-Piden que se haga una **rotación entre los sectores y la aplicación** de los cortes a lo largo del día. Algunos usuarios se quejan de la suspensión de energía en las madrugadas debido a la delincuencia y otros, que no pueden trabajar en sus negocios.
+“Reafirmamos que la **educación intercultural bilingüe** es un derecho fundamental consagrado en la Constitución y es la llave para abrir las puertas de un futuro equitativo y prometedor”, aseguró Crespo.
 
-Aquí puede revisar el [**cronograma completo**](https://es.wikipedia.org/wiki/Guayaquil "https://es.wikipedia.org/wiki/Guayaquil") de los tres días:
+Según el ministro de Transporte y Obras Públicas (MTOP), **Roberto Luque**, ” el establecimiento en Otavalo se encontraba con un avance de apenas **56 %**, debido a problemas administrativos, técnicos y legales”.
 
-Cortes de luz en Quito del viernes 29 de noviembre al domingo 1 de diciembre
+Luque informó que, a fin de garantizar la seguridad de los estudiantes, además de la construcción del centro se habilitará un **paso peatonal** en diciembre de 2025.
+
+“Los trabajos se adelantarán para inicios del siguiente año, con una inversión de **1,2 millones de dólares**“, detalló el Ministro.
+
+Ministerio de Educación recuperó otros cinco centros
+----------------------------------------------------
+
+La Ministra de Educación precisó que la recuperación de este nuevo centro educativo forma parte “de un esfuerzo mayor para recuperar **seis unidades inconclusas** en varias zonas del país”.
+
+Las otras cinco escuelas y colegios recuperadas fueron entregadas en **Paján, Quito, Guayaquil, Mejía y Naranjito**. La inversión total por estos centros de estudios, más el de Otavalo, alcanza los **20 millones de dólares**, a decir por Crespo.
+
+> Desde la provincia de Imbabura, el presidente [@DanielNoboaOk](https://twitter.com/DanielNoboaOk?ref_src=twsrc%5Etfw) realizó un recorrido para constatar el avance de la obra de la Unidad Educativa Comunitaria Intercultural Bilingüe Atahualpa, recuperada tras años de abandono por administraciones pasadas.  
+>   
+> Esta nueva infraestructura… [pic.twitter.com/DIdnyOUHQh](https://t.co/DIdnyOUHQh)
+> 
+> — Presidencia Ecuador 🇪🇨 (@Presidencia\_Ec) [November 28, 2024](https://twitter.com/Presidencia_Ec/status/1862201138323353894?ref_src=twsrc%5Etfw)
+
+Según cifras del Gobierno, en el primer año de gestión de Noboa se destinaron cerca de **87 millones de dólares** para el mejoramiento de la infraestructura de escuelas y colegios.
+
+Así también, “se han entregado raciones alimenticias a 2,8 millones de estudiantes en 12 782 instituciones educativas en todo el país”, aseguró Presidencia.
+
+Municipio de Quito reducirá su presupuesto en 2025
+==================================================
+
+El Concejo Metropolitano de Quito realizará un segundo debate para aprobar el presupuesto para el 2025.
+-------------------------------------------------------------------------------------------------------
+
+![El Concejo Metropolitano debate sobre el presupuesto del Municipio de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/11/Presupuesto-.jpg)
+
+El **Concejo Metropolitano de Quito** discutió este martes 26 de noviembre la proforma presupuestaria para 2025. Esta asciende a 929,8 millones de dólares y la reducción representa 80 millones de dólares en comparación con el **presupuesto aprobado** para 2024[.](https://es.wikipedia.org/wiki/Presupuesto "https://es.wikipedia.org/wiki/Presupuesto")
+
+Más noticias
+------------
+
+* [Reforma del presupuesto del Municipio de Quito reorienta gasto social y otros rubros sensibles](https://www.elcomercio.com/actualidad/quito/reforma-presupuestaria-quito-implicaciones-presupuesto.html "Reforma del presupuesto del Municipio de Quito reorienta gasto social y otros rubros sensibles")
+* [Municipio analiza realizar la Serenata Quiteña](https://www.elcomercio.com/actualidad/quito/serenata-quitena-municipio-presidencia.html "Municipio analiza realizar la Serenata Quiteña")
+* [Municipio de Quito convoca a privados para proyectos ambientales y de movilidad](https://www.elcomercio.com/actualidad/quito/municipio-quito-convocatoria-privados-proyectos-ambientales-movilidad.html "Municipio de Quito convoca a privados para proyectos ambientales y de movilidad")
+
+Según las autoridades, este ajuste responde a la **crisis** **energética** y a una menor asignación de recursos por parte del **Gobierno** **Central**.
+
+Inversión en el sector social con la reducción del presupuesto
+--------------------------------------------------------------
+
+Grace Rivera, secretaria General de **Planificación**, aseguró que esta disminución no afectará la **inversión** **social** ni la ejecución de obras clave.
+
+“El Alcalde prioriza la inversión como motor económico para **generar** **empleo** y estimular el consumo”, explicó.
+
+En este marco, el Municipio incrementará en un 15% el presupuesto destinado al **desarrollo** **productivo**, con 26,6 millones de dólares para proyectos en las administraciones zonales.
+
+Wilson Merino, concejal de **Quito**, afirmó que el **Municipio** transferirá alrededor de 70 millones de dólares del presupuesto de 2024 al de 2025, provenientes en parte de los bonos entregados por el **Gobierno** **Nacional**.
+
+Sin embargo, expresó su preocupación por el impacto de la **reducción presupuestaria**, y advirtió que podría **descuidarse la inversión** en áreas clave como **salud**, **educación** y otros proyectos sociales.
+
+Merino señaló además que el 44% del presupuesto total para 2025 se destinará al sector de **movilidad**, lo que, en su opinión, deja desatendidos otros sectores importantes para el **desarrollo de la ciudad.**
+
+Cambios aprobados en el presupuesto de 2024
+-------------------------------------------
+
+El **Concejo** **Metropolitano** también aprobó recientemente una reforma al presupuesto de 2024 para reorganizar los **ingresos municipales** y cubrir el déficit de liquidez generado por la deuda del **Gobierno** **Central**, que asciende a 78 millones de dólares.
+
+De este total, 70 millones de dólares fueron transferidos en bonos, que podrán liquidarse hasta 2025.
+
+Cristian Cruz, administrador General, destacó que esta redistribución permitió reorganizar proyectos plurianuales y asegurar su continuidad. Según explicó, el **techo presupuestario** para 2024 cerrará en 1 026 millones de dólares, con una variación de 16,3 millones que optimiza el gasto en personal y bienes de consumo.
+
+Prioridades del presupuesto 2025
+--------------------------------
+
+El presupuesto de 2025 prioriza el sector de **movilidad**, que recibirá el 56% del total, equivalente a 267,5 millones de dólares. Las principales asignaciones incluyen:
+
+* **Metro de Quito:** 62,2 millones de dólares.
+* **Obras Públicas y Movilidad:** 98,9 millones de dólares.
+* **Transporte de Pasajeros:** 49,8 millones de dólares.
+
+En el ámbito social, la **Unidad Patronato Municipal San José** y la **Secretaría** de **Inclusión** **Social** contarán con 1,6 millones de dólares adicionales para reforzar programas dirigidos a sectores vulnerables.
+
+Por otro lado, el área educativa ajustará 6 millones de dólares debido a la reclasificación de ciertos rubros hacia gastos corrientes.
+
+La perspectiva de un experto en política pública
+------------------------------------------------
+
+Pablo Romero, experto en **política** **pública**, advirtió que la r**educción presupuestaria** impactará principalmente en **proyectos sociales** relacionados con **educación**, **salud** y **deportes**.
+
+Sin embargo, destacó la importancia de monitorear la **ejecución presupuestaria,** que cerrará 2024 con un 78%, a pesar de las reformas aplicadas durante el año.
+
+Romero explicó que el **Municipio** cuenta con diversas fuentes de ingreso, entre ellas:
+
+* **Impuesto Predial:** Contribución anual de los propietarios de bienes inmuebles en Quito.
+* **Patentes:** Pago anual de personas naturales y jurídicas que realizan actividades comerciales o económicas.
+* **Tasas Municipales:** Recaudación por servicios como recolección de basura y alumbrado público.
+* **Permisos de Construcción:** Recursos obtenidos por autorizaciones para obras civiles.
+
+Estos ingresos, según Romero, deberían mitigar el impacto de los **ajustes presupuestarios** en servicios esenciales como **salud** y **educación**.
+
+Sin embargo, el experto insistió en que el **Municipio** debe asumir un rol más activo frente a la crisis energética.
+
+“Es fundamental que se fomente la **estabilidad económica** mediante el apoyo a sectores como el agrícola, para facilitar la comercialización de sus productos y fortalecer la economía local”, afirmó.
+
+Ejecución presupuestaria y proyecciones económicas
+--------------------------------------------------
+
+El Municipio estima que 2024 cerrará con una ejecución presupuestaria del 78%, esto tras el ajuste presupuestario de octubre.
+
+Para 2025, proyecta un aumento del 2% en los ingresos, impulsado por mayores recaudaciones de impuestos, patentes comerciales e inversiones.
+
+El segundo debate sobre la proforma presupuestaria 2025 será clave para definir las estrategias que permitirán mantener la inversión social, priorizar obras significativas y enfrentar los retos económicos que afectan a la ciudad.
+
+Spotify tiene a la ‘novia’ del Joker en la cima del escalafón del Top Global
 ============================================================================
 
-Los horarios de cortes de luz hasta el 1 de diciembre contemplan seis horas de suspensión. Se espera que terminen a fin de año.
--------------------------------------------------------------------------------------------------------------------------------
+En ese escalafón de Spotify, en segundo lugar, se ubica un tema de Rosé y Bruno Mars.
+-------------------------------------------------------------------------------------
 
-![La Empresa Eléctrica Quito informó los horarios de cortes de luz.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-2024-11-28T074520.180.jpg)
+![El Top Global de Spotify está liderado por dos artistas estadounidenses. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-28T175120.480.jpg)
 
-El **Ministerio de Energía y Minas** publicó los nuevos **horarios de cortes de luz** programados hasta el domingo 1 de diciembre. Estos contemplan las mismas horas que los días previos.
+Con cuatro palabras: **[Die With A Smile](https://www.ladygaga.com/ "https://www.ladygaga.com/")**, la ‘novia’ del **Joker** lidera el Top Canciones Global de **Spotify**. Ese escalafón trata de una actualización semanal de las **canciones** más escuchadas ahora mismo en Global.
+
+### **Más noticias:**
+
+* [¿Qué ofrece Spotify además de música?](https://www.elcomercio.com/tendencias/entretenimiento/spotify-tesoros-poco-explorados-plataforma-streaming.html "https://www.elcomercio.com/tendencias/entretenimiento/spotify-tesoros-poco-explorados-plataforma-streaming.html")
+* [En Spotify, un puertorriqueño endulza el oído del ecuatoriano](https://www.elcomercio.com/tendencias/entretenimiento/spotify-preferidas-ecuador-top-10-puertorriqueno-artistas.html?source=Internal&ref=Latest%20News%20Widget%20-%20Front "https://www.elcomercio.com/tendencias/entretenimiento/spotify-preferidas-ecuador-top-10-puertorriqueno-artistas.html?source=Internal&ref=Latest%20News%20Widget%20-%20Front")
+* [11 bandas internacionales tocarán en el Quitofest 2024](https://www.elcomercio.com/tendencias/entretenimiento/quitofest-2024-cartelera-bandas-internacionales-nacionales-musica.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/quitofest-2024-cartelera-bandas-internacionales-nacionales-musica.html?source=Internal&ref=Single+Content+Link")
+
+  
+**Spotify tiene a la ‘novia’ del Joker en la cima del escalafón del Top Global**
+-----------------------------------------------------------------------------------
+
+En segundo lugar está **APT**., de Rosé y Bruno Mars, con 60 465 463 reproducciones. En el tercer casillero se ubica la canción **Birds of a feather**, de Billie Eilish, con 46 417 128 reproducciones. 
+
+  
+Luego están That’s So True, de **Gracie Abrams** y Who, del coreano Jimin.  
+Recién el sexto casillero se ubica un sencillo interpretado por artistas latinos; se trata de Tu Boda, de Oscar Maydon y Fuerza Rígida. En el puesto 15, en cambo, aparece Si Antes Te Hubiera Conocido, de la colombiana Karol G.
+
+  
+**¿Quién es la ‘novia’ del Joker 2?**
+----------------------------------------
+
+Die With A Smile está interpretada por **Bruno Mars y Lady Gaga**, protagonista, con Joaquin Phoenix, de ‘Joker: Folie à Deu’. Hasta las 17:32 de este 28 de noviembre de 2024, la canción, que dura 4:11 minutos, sumaba 65 902 590 reproducciones.
+
+La canción fue lanzada el 16 de agosto, dos semanas antes del cierre del periodo de elegibilidad para la 67ª entrega anual de los premios Grammy.
+
+Histórica nevada en Corea del Sur impacta en Seúl
+=================================================
+
+Seúl, capital de Corea del Sur, soporta una histórica nevada en pleno noviembre. El fenómeno climático no se registraba desde 1907.
+-----------------------------------------------------------------------------------------------------------------------------------
+
+![Turistas en Seúl se toman fotos en el Palacio Gyeongbokgung, que está cubierto por la nieve de la histórica nevada caída en noviembre.](https://www.elcomercio.com/wp-content/uploads/2024/11/nieve-en-corea.jpg)
+
+**Seúl** sigue golpeada por las intensas nevadas que dejan al menos cinco fallecidos en **Corea del Sur**. La histórica nevada nunca vista en **noviembre** obligó a cancelar más de 100 vuelos.
+
+Además, las autoridades se desplegaron para garantizar la movilidad de sus habitantes y los de la provincia circundante, la más poblada de **Corea del Sur**.
+
+Más noticias
+------------
+
+* [Que el compromiso del G-20 de mitigar el cambio climático no sea solo una declaración](https://www.elcomercio.com/opinion/editorial/compromiso-g-20-de-mitigar-cambio-climatico-no-sea-solo-declaracion.html "Que el compromiso del G-20 de mitigar el cambio climático no sea solo una declaración")
+* [Trump llega a la Casa Blanca dispuesto a demoler la lucha contra el cambio climático](https://www.elcomercio.com/actualidad/mundo/trump-llega-a-la-casa-blanca-dispuesto-a-demoler-la-lucha-contra-el-cambio-climatico.html "Trump llega a la Casa Blanca dispuesto a demoler la lucha contra el cambio climático")
+* [La inteligencia artificial como socia en la batalla contra el cambio climático](https://www.elcomercio.com/tendencias/ambiente/inteligencia-artificial-cambio-climatico-efemeride.html "La inteligencia artificial como socia en la batalla contra el cambio climático ")
+
+Por segundo día consecutivo, el **Gobierno Metropolitano de Seúl** activó advertencias debido a las nevadas, que persistieron durante la noche del miércoles al jueves. Dejaron más de 40 centímetros de nieve acumulada en algunos distritos.
+
+Las alertas fueron retiradas pasado el mediodía de este jueves 28 de noviembre de 2024. La **Administración Meteorológica de Corea (KMA)** prevé que el tiempo dará tregua a la capital surcoreana hasta el lunes. Se espera, en principio, más nieve, aunque en mucha menor cantidad.
+
+El miércoles, la capital surcoreana ya recibió la que ha sido la mayor nevada en un mes de noviembre desde que hay registros (1907), lo que provocó todo tipo de problemas y retrasos en el transporte.
+
+El aeropuerto internacional de **Incheon, al oeste de Seúl** y el principal del país, reportó 111 vuelos cancelados y una treintena de retrasos debido al mal tiempo. El de Gimpo, el otro aeródromo que da servicio a la capital surcoreana, informó de 12 salidas -principalmente domésticas- canceladas.
+
+Las afectaciones por la histórica nevada en Corea del Sur
+---------------------------------------------------------
+
+La gran acumulación de nieve provocó en los últimos dos días el derrumbe de varios tejados, estructuras y árboles que provocaron la muerte de cuatro personas en distintos puntos de la región capitalina.
+
+A su vez, un agente de tráfico falleció tras ser atropellado por un autobús que patinó sobre la nieve en la localidad de **Hwaseong** (45 kilómetros al sur de Seúl)[.](https://es.wikipedia.org/wiki/Corea_del_Sur)
+
+Las autoridades en Seúl y la circundante provincia de Gyeonggi intensificaron este jueves los trabajos para garantizar la movilidad. En Seúl residen más de 9 millones de habitantes y en Gyeonggi vive más de 13 millones.
+
+Aunque algunos distritos tuvieron que activar cortes al tráfico rodado debido a árboles caídos por el peso de la nieve.
+
+El **Gobierno Metropolitano de Seúl** indicó que movilizó más de 11 000 operarios y 20 000 unidades de maquinaria para retirar la nieve de las calles y carreteras.
+
+Los servicios de metro de la región capitalina registraron ligeros retrasos a primera hora, pese a que la frecuencia incrementada de trenes en hora punta se extendió una media hora adicional, informó la agencia Yonhap.
+
+Las nevadas afectaron especialmente también a la vecina provincia de **Gangwon** (este de **Corea del Sur**). La localidad de **Wonju** registró un importante accidente de circulación: 53 coches chocaron en cadena por la falta de visibilidad, que dejó 11 heridos.
+
+En total se reportaron más de 2 000 incidencias de tráfico este jueves 28 de noviembre. , con la provincia de **Gyeonggi** registrando varias colisiones múltiples.
+
+¡Eso, eso, eso! Roberto Gómez Bolaños sigue vivo en las frases de sus personajes
+================================================================================
+
+Expresiones como "Otro gato" y más mantienen vivo el legado de Chespirito
+-------------------------------------------------------------------------
+
+![El Chavo del 8 es uno de los personajes emblemáticos de Chespiriito.](https://www.elcomercio.com/wp-content/uploads/2024/11/Chespirito.jpg)
+
+Este 28 de noviembre de 2024 se cumplen 10 años de la partida de Roberto Gómez Bolaños, el creador de personajes como El Chavo del 8 y El Chapulín Colorado.
+
+A una década de su fallecimiento, su legado sigue vivo, especialmente en las frases que marcaron a generaciones y continúan resonando en la memoria colectiva.
 
 ### Más noticias
 
-* [Cortes de luz en Ecuador del viernes 29 de noviembre al domingo 1 de diciembre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-ecuador-de-viernes-29-de-noviembre-a-domingo-1-de-diciembre.html "Cortes de luz en Ecuador del viernes 29 de noviembre al domingo 1 de diciembre")
-* [Cortes de luz en Quito este jueves 28 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-jueves-28-noviembre.html "Cortes de luz en Quito este jueves 28 de noviembre")
-* [Plaza en El Panecillo tendrá una renovación, en Quito](https://www.elcomercio.com/actualidad/quito/plaza-nubes-quito-renovacion.html "Plaza en El Panecillo tendrá una renovación, en Quito")
+* **[‘Moana 2’ promete una evolución del personaje sin perder su espíritu divertido](https://www.elcomercio.com/tendencias/moana2-estreno.html "https://www.elcomercio.com/tendencias/moana2-estreno.html")**
+* **[Documental del ecuatoriano Sebastián Cordero compite por entrar a los nominados al Oscar](https://www.elcomercio.com/tendencias/documental-ecuador-oscar2025.html "https://www.elcomercio.com/tendencias/documental-ecuador-oscar2025.html")**
 
-Horarios de cortes de luz se mantienen en Ecuador
--------------------------------------------------
+Repasamos algunas para ver si las recuerdas y si las usas.
 
-La Cartera de Energía informó este jueves 28 de noviembre que se **realizaron diversos análisis técnicos** que buscan de manera prioritaria y responsable **mantener los caudales.**
+**Las frases que definieron a El Chavo del 8**
+----------------------------------------------
 
-Con base en ellos, se elaboraron **los cronogramas de racionamientos** desde el viernes 29 de noviembre hasta el **domingo 1 de diciembre** con las mismas horas de los días previos.
+“Fue sin querer queriendo”, quizás la línea más emblemática de El Chavo, resume su inocencia y torpeza, características que lo hicieron entrañable.
 
-Esto se hace en conjunto con las **empresas distribuidoras de energía** y en coordinación con el Cenace, por lo que se decidió continuar con **suspensiones de seis y siete horas.**
+Este personaje, un niño huérfano que vive en un barril, utilizaba sus frases para transmitir emoción y generar risas mientras enfrentaba situaciones cotidianas en la vecindad.
 
-El Ministerio recalcó que **trabaja de manera comprometida e ininterrumpida** para potenciar el Sistema Energético ecuatoriano y mejorar las condiciones técnicas de la infraestructura eléctrica.
+Otra frase icónica, “¡Eso, eso, eso!”, servía para mostrar su entusiasmo o confusión al no poder expresar lo que pensaba.
 
-Las decisiones están enfocadas en poder suspender los racionamientos de energía para finales de 2024, como ofreció el **presidente Daniel Noboa**.
+A través de estas expresiones, Gómez Bolaños logró que el público se conectara con la vulnerabilidad y la alegría de su personaje.
 
-Esto, tras **65 días de que Ecuador afronte cortes de luz** en todas sus provincias de hasta 12 horas.
+**El humor de doble impacto**
+-----------------------------
 
-La crisis energética, provocada por un **déficit de 1 080 megavatios** (MW) y una de las peores sequías en la historia del país, afecta todos los aspectos de la vida diaria de los ecuatorianos. Y no tiene una fecha exacta de solución.
+La vecindad estaba llena de personajes que complementaban el humor de El Chavo. Entre ellos, Don Ramón, quien solía decir: “¿Qué pasó, qué pasó? ¡Vamos, ay!”, mientras intentaba zafarse de los regaños de Doña Florinda.
 
-Horarios de cortes de luz en Quito
+Frases como estas añadían una chispa especial a los diálogos y convertían cada episodio en un despliegue de humor único.
+
+**Un legado que trasciende**
+----------------------------
+
+Más allá de las risas, estas frases y personajes reflejan valores como la amistad, la solidaridad y la resiliencia en contextos de adversidad.
+
+A 10 años de su muerte, Gómez Bolaños sigue siendo un referente del humor latinoamericano.
+
+Según cifras de Televisa, el programa ha sido retransmitido en más de 20 países.
+
+**Frases de la serie**
+----------------------
+
+**El Chavo**
+------------
+
+“Es que no me tienen paciencia”
+
+“Qué bruto, póngale cero”
+
+“Bueno, pero no te enojes”
+
+“¡Pues al cabo que ni quería!”
+
+**Quico**
+---------
+
+“No me simpatizas”
+
+“Anda di que sí, di que sí ¿Síiiii?”
+
+“Cállate, cállate, que me desesperas”
+
+**Don Ramón**
+-------------
+
+“Con permisito, dijo Monchito”
+
+“Tenía que ser el Chavo del 8”
+
+“La venganza nunca es buena, mata el alma y la envenena”
+
+“Lo que tienes de bruto, lo tienes de bruto”
+
+**Ñoño**
+--------
+
+“¡Mírelo, eh! ¡Mírelo, eh!”
+
+**El Sr. Jirafales**
+--------------------
+
+“Vine a traerle este humilde obsequio”
+
+**Popis**
+---------
+
+“Acúsalo con tu mamá, Quico”
+
+**Doña Florinda**
+-----------------
+
+“Vámonos, tesoro. No te juntes con esta chusma”
+
+**El Chapulín Colorado**
+------------------------
+
+**“Que no panda el cúnico”**
+
+**“No contaban con mi astucia”**
+
+**Chaparrón Bonaparte**
+-----------------------
+
+**“No hay de queso, nomás de papa”**
+
+**Dr. Chapatín**
+----------------
+
+Ay, ya me dio cosa
+
+Liga de Quito e IDV, cara a cara por el liderato en la Liga Pro
+===============================================================
+
+La recta final de la segunda etapa de la Liga Pro ha llegado, y dos gigantes del fútbol ecuatoriano se enfrentan por el primer lugar.
+-------------------------------------------------------------------------------------------------------------------------------------
+
+![Liga de Quito e Independiente del Valle son los favoritos para ganar la segunda etapa.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-28T172125.664.jpg)
+
+El **‘Rey de Copas’** recibió un fallo favorable en su recurso de apelación y recuperó los tres puntos que le habían descontado por una sanción. Con esto, **Liga de Quito** retoma el liderato del campeonato ecuatoriano.
+
+Ahora, los albos suman **32 puntos y lideran la tabla de la segunda etapa**. Independiente del Valle, con 29 puntos, ha caído a la segunda posición. A falta de una jornada, los rayados necesitarán un tropiezo de la ‘U’ para buscar el campeonato directo.
+
+### Más noticias:
+
+* [Liga de Quito espera por su apelación, ¿qué pasará?](https://www.elcomercio.com/deportes/liga-quito-apelacion-fef-independiente-valle.html "Liga de Quito espera por su apelación, ¿qué pasará?")
+* [Independiente del Valle perdió cuatro finales en su historia](https://www.elcomercio.com/deportes/futbol/independiente-valle-finales-perdidas-copas.html "Independiente del Valle perdió cuatro finales en su historia")
+* [Independiente del Valle solicita que se anule la sanción a Liga de Quito](https://www.elcomercio.com/deportes/futbol/independiente-del-valle-solicita-que-se-anule-la-sancion-liga-de-quito.html "Independiente del Valle solicita que se anule la sanción a Liga de Quito")
+
+Liga de Quito viene en buena racha
 ----------------------------------
 
-La Empresa Eléctrica Quito publicó la **programación de cortes de luz** para el viernes 29 de noviembre, sábado 30 de noviembre y domingo 1 de diciembre de 2024.
+El equipo de **Liga de Quito** ha mostrado una mejora notable tras superar un bache futbolístico que amenazó su liderato. Actualmente, los universitarios llevan seis partidos consecutivos sin perder, con cinco victorias y un empate.
 
-Estos horarios contemplan seis horas, distribuidas en **dos franjas horarias de tres horas** para cada bloque de barrios afectados.
+En sus tres últimos compromisos, derrotaron a rivales de gran calibre, incluyendo una victoria 0-1 en Guayaquil contra **Emelec**, una remontada ante Independiente del Valle en el Rodrigo Paz Delgado y un triunfo ante Universidad Católica en el Olímpico Atahualpa.
 
-En cambio, el sector industrial, mantendrá una **suspensión del servicio e**n un horario de siete horas continuas.
+Una de las principales fortalezas de la ‘U’ ha sido su delantera. El goleador del campeonato, el paraguayo **Alex Arce**, ha sido fundamental, con 24 goles y cuatro de esos anotados en los últimos tres partidos.
 
-Aquí puede revisar el **[cronograma completo](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")** de los tres días:
+![Alex Arce, delantero de Liga de Quito, es el máximo goleador de la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-25T144224.911-1024x683.jpg)
+
+Independiente del Valle, el equipo más regular
+----------------------------------------------
+
+A lo largo del año, **Independiente del Valle** ha sido el equipo más regular de la competencia. Ganó la primera etapa de forma invicta y ha mantenido una excelente temporada en la segunda etapa, peleando cabeza a cabeza con Liga de Quito por el liderato.
+
+A pesar de perder la final de la **Copa Ecuador** contra El Nacional, el equipo de IDV fue el mejor de la fase y sigue demostrando su solidez.
+
+Aunque su estilo de juego ha sido menos brillante que en temporadas anteriores, la consistencia de su rendimiento ha sido clave. En cuanto a estadísticas, **Independiente del Valle** tiene la segunda mejor ofensiva del campeonato con **56 goles**, solo por detrás de Universidad Católica, y también posee la mejor defensa, con solo 22 goles en contra.
+
+![Kendry Páez se reencontró con el gol en Independiente del Valle.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-72-1024x683.jpg)
+
+Pelea de por en la última fecha
+-------------------------------
+
+Con una jornada aún por jugarse, **Liga de Quito** e Independiente del Valle se preparan para una última batalla por la etapa.
+
+### Ficha de partidos
+
+### Liga de Quito vs. Deportivo Cuenca
+
+**Fecha**: Domingo 1 de diciembre
+
+**Hora**: 15:30
+
+**Estadio**: Rodrigo Paz Delgado
+
+### Orense vs. Independiente del Valle
+
+**Fecha**: Domingo 1 de diciembre
+
+**Hora**: 15:30
+
+**Estadio**: 9 de mayo
+
+Cortes de luz en Quito este viernes 29 de noviembre
+===================================================
+
+Los cortes de luz en Quito este viernes 29 de noviembre son de hasta seis horas.
+--------------------------------------------------------------------------------
+
+![Los cortes de luz en Quito este viernes 29 de noviembre son definidos por la EEQ.](https://www.elcomercio.com/wp-content/uploads/2024/11/cortes-luz-quito-viernes-29-noviembre.jpg)
+
+Los **cortes de luz** en **Quito** este **viernes 29 de noviembre de 2024** se mantienen con seis horas de duración.
+
+La **Empresa Eléctrica Quito (EEQ)** publicó los horarios de suspensión del servicio de energía eléctrica en la capital para este viernes, el sábado 20 y el domingo de noviembre.
+
+### Más noticias:
+
+* [Progen mostró los avances del proyecto de energía térmica El Salitral](https://www.elcomercio.com/actualidad/negocios/progen-mostro-los-avances-del-proyecto-de-energia-termica-el-salitral.html "Progen mostró los avances del proyecto de energía térmica El Salitral")
+* [Intercambio de energía eléctrica entre Colombia y Ecuador empezó hace 26 años](https://www.elcomercio.com/actualidad/negocios/intercambio-de-energia-electrica-entre-colombia-y-ecuador-empezo-hace-26-anos.html "Intercambio de energía eléctrica entre Colombia y Ecuador empezó hace 26 años")
+
+Horarios de cortes de luz en Quito este viernes 29 de noviembre
+---------------------------------------------------------------
+
+Ecuador sigue atravesando una de las peores **crisis energéticas** en las últimas décadas.
+
+La dependencia de las lluvias para el funcionamiento de las **centrales hidroeléctricas** y la falta de proyectos de energías alternativas pusieron la capacidad de producción de energía al límite.
+
+El último ofrecimiento del presidente **Daniel Noboa** sobre los cortes de luz a escala nacional es que no existirán para diciembre.
+
+Sin embargo, también anunció que, en Quito, la suspensión de los cortes de luz el **6 de diciembre**, por las fiestas de fundación de la capital.
+
+La generación de energía, a través de otros **proyectos** contratados actual Gobierno, se concretaría a partir de enero.
+
+En tanto, el Gobierno logró restablecer el intercambio de energía con **Colombia** y las primeras lluvias de intensidad media o alta empiezan a caer en el Austro.
+
+Mientras las condiciones climáticas mejoran de a poco los **caudales de los ríos** de Cuenca y de la Amazonía por el incremento de las lluvias.
+
+Para este jueves, la EEQ decidió mantener los horarios y franjas de cortes de luz que se han aplicado durante toda **esta semana**.
+
+Quito sigue con cortes de luz de hasta seis horas, divididas en **dos franjas horarias**, para el sector residencial.
+
+A continuación, los **cortes de luz en Quito este viernes 29 de noviembre** de 2024:
+
+‘Moana 2’ promete una evolución del personaje sin perder su espíritu divertido
+==============================================================================
+
+'Moana 2' no solo amplía su legado, sino que reafirma su esencia
+----------------------------------------------------------------
+
+![Moana junto a otros personajes de la saga.](https://www.elcomercio.com/wp-content/uploads/2024/11/moana-El-Comercio.jpg)
+
+Tras ocho años de espera, ‘**Moana 2**‘ llega a los cines como la continuación de una historia que cautivó al público en 2016. En **Ecuador**, se estrena el 28 de noviembre de 2024.
+
+Según **USA Today**, la película amplía las capas emocionales de **Moana y Maui** y destaca su desarrollo como líderes y amigos.
+
+### Más noticias
+
+* **[Documental del ecuatoriano Sebastián Cordero compite por entrar a los nominados al Oscar](https://www.elcomercio.com/tendencias/documental-ecuador-oscar2025.html "https://www.elcomercio.com/tendencias/documental-ecuador-oscar2025.html")**
+* [**Lo que costaron los retratos de Felipe y Letizia que hizo Annie Leibovitz**](https://www.elcomercio.com/tendencias/retratos-felipe-letizia-annie-leibovitz.html "https://www.elcomercio.com/tendencias/retratos-felipe-letizia-annie-leibovitz.html")
+
+**Un repaso a Moana de 2016 con posibles _spoilers_**
+-----------------------------------------------------
+
+En 2016, Moana era una joven polinesia que emprendía un viaje para salvar a su pueblo y restaurar el equilibrio de la naturaleza. Su misión principal era devolver el corazón de Te Fiti, robado por el semidiós Maui, lo que ha causado un desorden.
+
+En su travesía, Moana enfrentó peligros en el océano, como el ataque de los piratas Kakamora y el conflicto con el demonio de lava, Te Kā.
+
+Maui, inicialmente egoísta y reacio a ayudarla, se convierte en su aliado. Al descubrir que Te Kā es en realidad Te Fiti despojada de su corazón, Moana resuelve el conflicto con empatía y restaura la paz.
+
+¿**De qué trata ‘Moana 2’**?
+----------------------------
+
+En la entrega de 2024, Moana lidera una expedición hacia una isla legendaria para descifrar un antiguo pergamino que guarda secretos sobre el océano. La historia combina aventuras marítimas con un fuerte vínculo cultural.
+
+En su misión tendrá que enfrentarse a Matangi, una diosa del inframundo que amenaza su objetivo. Según **The Telegraph**, la narrativa “despliega alas frente al tirón de la nostalgia” y destaca el equilibrio entre lo tradicional y lo novedoso.
+
+El semidiós Maui regresa con una actitud más comprometida, mientras que la diosa Matangi añade un giro oscuro a la trama. La relación de Moana con su comunidad también toma protagonismo y muestra una faceta más madura del personaje.
+
+**Recepción crítica y calificaciones**
+--------------------------------------
+
+La película tiene una **aprobación del 67% en el sitio especializado Rotten Tomatoes**, con 135 reseñas. **Metacritic** le otorgó 57 puntos de 100, y **CinemaScore** la calificó con una **A-**.
+
+Según Tim Robey, las canciones de ‘Moana 2’ superan a las de otros estrenos recientes como ‘Wicked’. Además, destaca que es “un gran viaje en miniatura”.
+
+**Moana en _live-action_**
+--------------------------
+
+Moana tendrá una versión en _live-action_ que está actualmente en producción. Imágenes recientes han confirmado el **Dwayne Johnson** quien da la voz a Maui actuará en la cinta de acción real.
+
+![Dwayne Johnson será Maui en 'Moana' live-action.](https://www.elcomercio.com/wp-content/uploads/2024/11/moana-El-Comercio-2-1024x683.jpg)
+
+Dwayne Johnson será Maui en ‘Moana’ live-action.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DCuOx16I4Sh/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DCuOx16I4Sh/?utm_source=ig_embed&utm_campaign=loading)
+
+Mientras que **Catherine Laga’aia**, una actriz polinesia hará de Moana. El rodaje se lleva a cabo en Hawái, lo cual destaca la conexión con las raíces culturales de la historia. Este esperado proyecto tiene como fecha de estreno julio de 2026.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/moana-El-Comercio-1-1024x683.jpg)
+
+**Catherine Laga’aia** será Moana en el _live-action_ de 2026.
