@@ -406,9 +406,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ They always say time changes things, but you actually have to change them yourself”
+“ Somewhere, something incredible is waiting to be known”
 
-[Andy Warhol](https://en.wikipedia.org/wiki/Andy_Warhol)
+[Carl Sagan](http://en.wikipedia.org/wiki/Carl_Sagan)
 
 [](https://www.adafruit.com/about)
 
