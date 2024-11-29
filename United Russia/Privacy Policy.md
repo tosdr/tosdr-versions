@@ -299,53 +299,53 @@
 
 [Все новости](https://er.ru/activity/news)
 
-[![«Единая Россия» и МГЕР организовали поездку для детей из Донбасса на Кубок России по самбо в Краснодар](https://cdn.er.ru/media/news/November2024/yZKet89ov8WemiH8GZjm-small.jpeg)](https://er.ru/activity/news/edinaya-rossiya-i-mger-organizovali-poezdku-dlya-detej-iz-donbassa-na-kubok-rossii-po-sambo-v-krasnodar)
+[![Алексей Говырин: Креативные индустрии помогут перезагрузить туристический маршрут «Золотое кольцо России»](https://cdn.er.ru/media/news/November2024/Xh7v7Vzv177BmY78qGWP-small.jpg)](https://er.ru/activity/news/aleksej-govyrin-kreativnye-industrii-pomogut-perezagruzit-turisticheskij-marshrut-zolotoe-kolco-rossii)
 
-[«Единая Россия» и МГЕР организовали поездку для детей из Донбасса на Кубок России по самбо в Краснодар](https://er.ru/activity/news/edinaya-rossiya-i-mger-organizovali-poezdku-dlya-detej-iz-donbassa-na-kubok-rossii-po-sambo-v-krasnodar)
+[Алексей Говырин: Креативные индустрии помогут перезагрузить туристический маршрут «Золотое кольцо России»](https://er.ru/activity/news/aleksej-govyrin-kreativnye-industrii-pomogut-perezagruzit-turisticheskij-marshrut-zolotoe-kolco-rossii)
 
-[#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#поездка](https://er.ru/activity/news?tags%5B0%5D=134764) [#спортивныйтурнир](https://er.ru/activity/news?tags%5B0%5D=125411) [#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#Zасамбо](https://er.ru/activity/news?tags%5B0%5D=1093194) [#Донецкая Народная Республика](https://er.ru/activity/news?tags%5B0%5D=60937) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
+[#Говырин](https://er.ru/activity/news?tags%5B0%5D=148487) [#туризм](https://er.ru/activity/news?tags%5B0%5D=350) [#креативныеиндустрии](https://er.ru/activity/news?tags%5B0%5D=1092551) [#бизнес](https://er.ru/activity/news?tags%5B0%5D=18) [#форум](https://er.ru/activity/news?tags%5B0%5D=19) [#Владимирская область](https://er.ru/activity/news?tags%5B0%5D=1233)
 
-Сегодня 12:29
+Сегодня 18:25
 
-[![«Единая Россия»: Выставку «Сила V правде - гордость и победа» посетили около 1,4 миллиона человек](https://cdn.er.ru/media/news/November2024/smZb5GnciAXWX7uczkyY-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-vystavku-sila-v-pravde-gordost-i-pobeda-posetili-okolo-1-4-milliona-chelovek)
+[![Университет науки и технологий МИСИС стал новым партнёром проекта «Единой России» «Менделеевская карта»](https://cdn.er.ru/media/news/November2024/Bdh9u5CkKDRzUsokc078-small.jpg)](https://er.ru/activity/news/universitet-nauki-i-tehnologij-misis-stal-novym-partnyorom-proekta-edinoj-rossii-mendeleevskaya-karta)
 
-[«Единая Россия»: Выставку «Сила V правде - гордость и победа» посетили около 1,4 миллиона человек](https://er.ru/activity/news/edinaya-rossiya-vystavku-sila-v-pravde-gordost-i-pobeda-posetili-okolo-1-4-milliona-chelovek)
+[Университет науки и технологий МИСИС стал новым партнёром проекта «Единой России» «Менделеевская карта»](https://er.ru/activity/news/universitet-nauki-i-tehnologij-misis-stal-novym-partnyorom-proekta-edinoj-rossii-mendeleevskaya-karta)
 
-[#Кошаев](https://er.ru/activity/news?tags%5B0%5D=106755) [#Ульяновская область](https://er.ru/activity/news?tags%5B0%5D=2044) [#выставка](https://er.ru/activity/news?tags%5B0%5D=1427) [#техника](https://er.ru/activity/news?tags%5B0%5D=2305) [#Свердловская область](https://er.ru/activity/news?tags%5B0%5D=240) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#СилаVПравде](https://er.ru/activity/news?tags%5B0%5D=1095874)
+[#Мажуга](https://er.ru/activity/news?tags%5B0%5D=1091855) [#Менделеевскаякарта](https://er.ru/activity/news?tags%5B0%5D=1093824) [#наука](https://er.ru/activity/news?tags%5B0%5D=354) [#ученые](https://er.ru/activity/news?tags%5B0%5D=1314) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889) [#студенты](https://er.ru/activity/news?tags%5B0%5D=186)
 
-Сегодня 10:30
+Сегодня 18:10
 
-[![Михаил Киселёв: «Единая Россия» окажет содействие в реализации новых национальных проектов](https://cdn.er.ru/media/news/November2024/WPTESQQLY8MUdqs6lRPd-small.jpg)](https://er.ru/activity/news/mihail-kiselyov-edinaya-rossiya-okazhet-sodejstvie-v-realizacii-novyh-nacionalnyh-proektov)
+[![«Единая Россия» представила на Конгрессе в Сириусе второй рейтинг регионов по мерам поддержки молодых учёных](https://cdn.er.ru/media/news/November2024/VK3ADRGzhZiCFaEgbvvc-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-predstavila-na-kongresse-v-siriuse-vtoroj-rejting-regionov-po-meram-podderzhki-molodyh-uchyonyh)
 
-[Михаил Киселёв: «Единая Россия» окажет содействие в реализации новых национальных проектов](https://er.ru/activity/news/mihail-kiselyov-edinaya-rossiya-okazhet-sodejstvie-v-realizacii-novyh-nacionalnyh-proektov)
+[«Единая Россия» представила на Конгрессе в Сириусе второй рейтинг регионов по мерам поддержки молодых учёных](https://er.ru/activity/news/edinaya-rossiya-predstavila-na-kongresse-v-siriuse-vtoroj-rejting-regionov-po-meram-podderzhki-molodyh-uchyonyh)
 
-[#нацпроекты](https://er.ru/activity/news?tags%5B0%5D=29486) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#кадры](https://er.ru/activity/news?tags%5B0%5D=975) [#Киселев](https://er.ru/activity/news?tags%5B0%5D=974)
+[#Мажуга](https://er.ru/activity/news?tags%5B0%5D=1091855) [#молодыеученые](https://er.ru/activity/news?tags%5B0%5D=127906) [#мерыподдержки](https://er.ru/activity/news?tags%5B0%5D=147555) [#наука](https://er.ru/activity/news?tags%5B0%5D=354) [#рейтинг](https://er.ru/activity/news?tags%5B0%5D=179) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
-28.11.24
+Сегодня 17:50
 
-[![Врио главы Республики Коми Ростислав Гольдштейн избран секретарём реготделения «Единой России»](https://cdn.er.ru/media/news/November2024/Kvd9vUco7RnPn9c4YaPF-small.png)](https://er.ru/activity/news/vrio-glavy-respubliki-komi-rostislav-goldshtejn-izbran-sekretaryom-regotdeleniya-edinoj-rossii)
+[![В Москве при поддержке «Единой России» прошёл ХI Международный фестиваль школьного спорта среди государств – участников Содружества Независимых Государств](https://cdn.er.ru/media/news/November2024/IQQD890ic420a3TEXVJi-small.jpg)](https://er.ru/activity/news/v-moskve-pri-podderzhke-edinoj-rossii-proshyol-hi-mezhdunarodnyj-festival-shkolnogo-sporta-sredi-gosudarstv-uchastnikov-sodruzhestva-nezavisimyh-gosudarstv)
 
-[Врио главы Республики Коми Ростислав Гольдштейн избран секретарём реготделения «Единой России»](https://er.ru/activity/news/vrio-glavy-respubliki-komi-rostislav-goldshtejn-izbran-sekretaryom-regotdeleniya-edinoj-rossii)
+[В Москве при поддержке «Единой России» прошёл ХI Международный фестиваль школьного спорта среди государств – участников Содружества Независимых Государств](https://er.ru/activity/news/v-moskve-pri-podderzhke-edinoj-rossii-proshyol-hi-mezhdunarodnyj-festival-shkolnogo-sporta-sredi-gosudarstv-uchastnikov-sodruzhestva-nezavisimyh-gosudarstv)
 
-[#Республика Коми](https://er.ru/activity/news?tags%5B0%5D=1026) [#Гольдштейн](https://er.ru/activity/news?tags%5B0%5D=1795) [#Кутепов](https://er.ru/activity/news?tags%5B0%5D=115479) [#секретарьреготделения](https://er.ru/activity/news?tags%5B0%5D=147029) [#конференциярегиональногоотделения](https://er.ru/activity/news?tags%5B0%5D=128228) [#избрание](https://er.ru/activity/news?tags%5B0%5D=416)
+[#Роднина](https://er.ru/activity/news?tags%5B0%5D=2239) [#Москва](https://er.ru/activity/news?tags%5B0%5D=255) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#ДетскийСпорт](https://er.ru/activity/news?tags%5B0%5D=1091126) [#соревнования](https://er.ru/activity/news?tags%5B0%5D=1175) [#состязания](https://er.ru/activity/news?tags%5B0%5D=39929) [#фестиваль](https://er.ru/activity/news?tags%5B0%5D=1671) [#СНГ](https://er.ru/activity/news?tags%5B0%5D=747)
 
-28.11.24
+Сегодня 17:42
 
-[![«Молодая Гвардия Единой России» доставила питьевую воду в Горловку (ДНР)](https://cdn.er.ru/media/news/November2024/vIrz4N3y6r27zr1qyxn6-small.jpg)](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-dostavila-pitevuyu-vodu-v-gorlovku-dnr)
+[![«Единая Россия» продлит срок для перерегистрации товарных знаков и фирменных наименований производителей товаров с указанием на органическую продукцию](https://cdn.er.ru/media/news/November2024/dstBQaFLzbd6AYyKIMO1-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-prodlit-srok-dlya-pereregistracii-tovarnyh-znakov-i-firmennyh-naimenovanij-proizvoditelej-tovarov-s-ukazaniem-na-organicheskuyu-produkciyu)
 
-[«Молодая Гвардия Единой России» доставила питьевую воду в Горловку (ДНР)](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-dostavila-pitevuyu-vodu-v-gorlovku-dnr)
+[«Единая Россия» продлит срок для перерегистрации товарных знаков и фирменных наименований производителей товаров с указанием на органическую продукцию](https://er.ru/activity/news/edinaya-rossiya-prodlit-srok-dlya-pereregistracii-tovarnyh-znakov-i-firmennyh-naimenovanij-proizvoditelej-tovarov-s-ukazaniem-na-organicheskuyu-produkciyu)
 
-[#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#МолодаяГвардияЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094676) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#гуманитарнаямиссия](https://er.ru/activity/news?tags%5B0%5D=1092899) [#Донецкая Народная Республика](https://er.ru/activity/news?tags%5B0%5D=60937) [#Пушилин](https://er.ru/activity/news?tags%5B0%5D=1092774) [#Добровольский](https://er.ru/activity/news?tags%5B0%5D=67120)
+[#Оглоблина](https://er.ru/activity/news?tags%5B0%5D=9223) [#предприниматели](https://er.ru/activity/news?tags%5B0%5D=121750) [#производители](https://er.ru/activity/news?tags%5B0%5D=8905) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136)
 
-28.11.24
+Сегодня 17:34
 
-[![Реализацию новых нацпроектов обсудили на расширенном заседании общественного совета партпроекта «Старшее поколение»](https://cdn.er.ru/media/news/November2024/JtzVQcl4203FymKHFDbR-small.JPG)](https://er.ru/activity/news/realizaciyu-novyh-nacproektov-obsudili-na-rasshirennom-zasedanii-obshestvennogo-soveta-partproekta-starshee-pokolenie)
+[![Высшая партийная школа «Единой России» выпустила вторую часть цикла бесед об идеологии и истории партии](https://cdn.er.ru/media/news/November2024/dBPoDhrnI65KqFQoOFrl-small.png)](https://er.ru/activity/news/vysshaya-partijnaya-shkola-edinoj-rossii-vypustila-vtoruyu-chast-cikla-besed-ob-ideologii-i-istorii-partii)
 
-[Реализацию новых нацпроектов обсудили на расширенном заседании общественного совета партпроекта «Старшее поколение»](https://er.ru/activity/news/realizaciyu-novyh-nacproektov-obsudili-na-rasshirennom-zasedanii-obshestvennogo-soveta-partproekta-starshee-pokolenie)
+[Высшая партийная школа «Единой России» выпустила вторую часть цикла бесед об идеологии и истории партии](https://er.ru/activity/news/vysshaya-partijnaya-shkola-edinoj-rossii-vypustila-vtoruyu-chast-cikla-besed-ob-ideologii-i-istorii-partii)
 
-[#Карелова](https://er.ru/activity/news?tags%5B0%5D=682) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#старшеепоколение](https://er.ru/activity/news?tags%5B0%5D=79196) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#нацпроекты](https://er.ru/activity/news?tags%5B0%5D=29486) [#Баталина](https://er.ru/activity/news?tags%5B0%5D=6842) [#Камкин](https://er.ru/activity/news?tags%5B0%5D=132921) [#Минздрав](https://er.ru/activity/news?tags%5B0%5D=1960) [#Минтруда](https://er.ru/activity/news?tags%5B0%5D=17938) [#Правительство](https://er.ru/activity/news?tags%5B0%5D=1090296) [#здравоохранение](https://er.ru/activity/news?tags%5B0%5D=116225)
+[#высшаяпартийнаяшколаЕР](https://er.ru/activity/news?tags%5B0%5D=128453) [#ВПШ](https://er.ru/activity/news?tags%5B0%5D=36818) [#Исаев](https://er.ru/activity/news?tags%5B0%5D=121396) [#Романов](https://er.ru/activity/news?tags%5B0%5D=8320) [#история](https://er.ru/activity/news?tags%5B0%5D=152) [#идеология](https://er.ru/activity/news?tags%5B0%5D=985)
 
-28.11.24
+Сегодня 15:40
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
