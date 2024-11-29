@@ -114,9 +114,9 @@ Noticia
 
 Internacionalización
 
-Abierto hasta el 2 de diciembre el plazo de inscripciones para ser parte del Pabellón de España en eMerge Americas
+Abierto hasta el 5 de diciembre el plazo de inscripciones para ser parte del Pabellón de España en eMerge Americas
 
-[Abierto hasta el 2 de diciembre el plazo de inscripciones para ser parte del Pabellón de España en eMerge Americas](http://red.es/es/actualidad/noticias/abierto-hasta-el-2-de-diciembre-el-plazo-de-inscripciones-para-ser-parte-del "Ir al contenido de: Abierto hasta el 2 de diciembre el plazo de inscripciones para ser parte del Pabellón de España en eMerge Americas")
+[Abierto hasta el 5 de diciembre el plazo de inscripciones para ser parte del Pabellón de España en eMerge Americas](http://red.es/es/actualidad/noticias/abierto-hasta-el-5-de-diciembre-el-plazo-de-inscripciones-para-ser-parte-del "Ir al contenido de: Abierto hasta el 5 de diciembre el plazo de inscripciones para ser parte del Pabellón de España en eMerge Americas")
 
 Noticia
 
