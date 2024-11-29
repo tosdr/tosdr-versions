@@ -20,6 +20,19 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Anthony Marks reportedly died after being attacked near King's Cross St Pancras station. Image: Met Police](https://southwarknews.co.uk/wp-content/uploads/2024/11/f250fc10-ae38-11ef-93a6-9fd2d3586a96.jpg-360x180.webp)](https://southwarknews.co.uk/featured/brixton-girl-16-charged-with-murder-of-homeless-man/)
+    
+    ### [Brixton girl, 16, charged with murder of ‘homeless man’](https://southwarknews.co.uk/featured/brixton-girl-16-charged-with-murder-of-homeless-man/)
+    
+    [![Jesse Lloyd-Smith, 20, was fatally shot outside his home on East Surrey Grove on 10th July.](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG-20241126-WA0002-360x180.jpg)](https://southwarknews.co.uk/area/peckham/sixth-person-charged-in-connection-with-the-murder-of-jesse-lloyd-smith-in-peckham/)
+    
+    ### [Sixth person charged in connection with the murder of Jesse Lloyd-Smith in Peckham](https://southwarknews.co.uk/area/peckham/sixth-person-charged-in-connection-with-the-murder-of-jesse-lloyd-smith-in-peckham/)
+    
+    [![Rishi Sunak addresses the first rally of the general election
+    Photo by  Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/11/Rishi-Sunak-at-first-rally-of-gheneral-election-360x180.jpg)](https://southwarknews.co.uk/area/london/conservatives-fell-thousands-of-homes-short-of-their-promise-of-building-a-million-new-properties-new-data-suggests/)
+    
+    ### [Conservatives fell thousands of homes short of their promise of building a million new properties, new data suggests](https://southwarknews.co.uk/area/london/conservatives-fell-thousands-of-homes-short-of-their-promise-of-building-a-million-new-properties-new-data-suggests/)
+    
     [![Neil Coyle speaking in the House of Commons. Credit: Houses of Parliament](https://southwarknews.co.uk/wp-content/uploads/2024/11/Neil-Coyle-speaking-in-the-House-of-Commons.-Credit-Houses-of-Parliament-360x180.png)](https://southwarknews.co.uk/area/bermondsey/mp-calls-for-respect-orders-pilot-in-southwark-to-tackle-anti-social-behaviour/)
     
     ### [MP calls for ‘respect orders’ pilot in Southwark to tackle anti-social behaviour](https://southwarknews.co.uk/area/bermondsey/mp-calls-for-respect-orders-pilot-in-southwark-to-tackle-anti-social-behaviour/)
@@ -43,18 +56,6 @@
     [![Neil Coyle, MP for Bermondsey and Old Southwark (left) and Miatta Fahnbulleh, MP for Peckham (right)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Neil-Coyle-MP-for-Bermondsey-and-Old-Southwark-left-and-Miatta-Fahnbulleh-MP-for-Peckham-right-360x180.png)](https://southwarknews.co.uk/news/news-plus/two-southwark-mps-reveal-voting-intention-on-assisted-dying-bill/)
     
     ### [Two Southwark MPs reveal voting intention on assisted dying bill](https://southwarknews.co.uk/news/news-plus/two-southwark-mps-reveal-voting-intention-on-assisted-dying-bill/)
-    
-    [![The Flaxyard site, Peckham Town Centre.](https://southwarknews.co.uk/wp-content/uploads/2024/11/SJH_3494-Pano-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/council-celebrates-completion-of-120-affordable-homes-in-peckham-town-centre/)
-    
-    ### [Council celebrates completion of 120 affordable homes in Peckham Town Centre](https://southwarknews.co.uk/area/peckham/council-celebrates-completion-of-120-affordable-homes-in-peckham-town-centre/)
-    
-    [![Monica Ferman passed away in 2012. (Family handout)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Monica-2-1-360x180.jpeg)](https://southwarknews.co.uk/area/dulwich/dulwich-woman-recounts-mums-horrendous-final-days-in-call-for-assisted-dying-law-saying-they-watched-her-starve-to-death/)
-    
-    ### [Dulwich woman recounts mum’s ‘horrendous’ final days in call for assisted dying law, saying they ‘watched her starve to death’](https://southwarknews.co.uk/area/dulwich/dulwich-woman-recounts-mums-horrendous-final-days-in-call-for-assisted-dying-law-saying-they-watched-her-starve-to-death/)
-    
-    [![L: Tooley St HQ of Southwark Council; R: Cllr Kieron Williams](https://southwarknews.co.uk/wp-content/uploads/2024/11/L-Tooley-St-HQ-of-Southwark-Council-R-Cllr-Kieron-Williams-360x180.png)](https://southwarknews.co.uk/area/southwark/southwark-councils-leader-has-apologised-after-the-governments-social-housing-watchdog-found-serious-failings/)
-    
-    ### [Southwark Council’s leader has apologised after the government’s social housing watchdog found ‘serious failings’](https://southwarknews.co.uk/area/southwark/southwark-councils-leader-has-apologised-after-the-governments-social-housing-watchdog-found-serious-failings/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,6 +106,19 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Anthony Marks reportedly died after being attacked near King's Cross St Pancras station. Image: Met Police](https://southwarknews.co.uk/wp-content/uploads/2024/11/f250fc10-ae38-11ef-93a6-9fd2d3586a96.jpg-360x180.webp)](https://southwarknews.co.uk/featured/brixton-girl-16-charged-with-murder-of-homeless-man/)
+    
+    ### [Brixton girl, 16, charged with murder of ‘homeless man’](https://southwarknews.co.uk/featured/brixton-girl-16-charged-with-murder-of-homeless-man/)
+    
+    [![Jesse Lloyd-Smith, 20, was fatally shot outside his home on East Surrey Grove on 10th July.](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG-20241126-WA0002-360x180.jpg)](https://southwarknews.co.uk/area/peckham/sixth-person-charged-in-connection-with-the-murder-of-jesse-lloyd-smith-in-peckham/)
+    
+    ### [Sixth person charged in connection with the murder of Jesse Lloyd-Smith in Peckham](https://southwarknews.co.uk/area/peckham/sixth-person-charged-in-connection-with-the-murder-of-jesse-lloyd-smith-in-peckham/)
+    
+    [![Rishi Sunak addresses the first rally of the general election
+    Photo by  Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/11/Rishi-Sunak-at-first-rally-of-gheneral-election-360x180.jpg)](https://southwarknews.co.uk/area/london/conservatives-fell-thousands-of-homes-short-of-their-promise-of-building-a-million-new-properties-new-data-suggests/)
+    
+    ### [Conservatives fell thousands of homes short of their promise of building a million new properties, new data suggests](https://southwarknews.co.uk/area/london/conservatives-fell-thousands-of-homes-short-of-their-promise-of-building-a-million-new-properties-new-data-suggests/)
+    
     [![Neil Coyle speaking in the House of Commons. Credit: Houses of Parliament](https://southwarknews.co.uk/wp-content/uploads/2024/11/Neil-Coyle-speaking-in-the-House-of-Commons.-Credit-Houses-of-Parliament-360x180.png)](https://southwarknews.co.uk/area/bermondsey/mp-calls-for-respect-orders-pilot-in-southwark-to-tackle-anti-social-behaviour/)
     
     ### [MP calls for ‘respect orders’ pilot in Southwark to tackle anti-social behaviour](https://southwarknews.co.uk/area/bermondsey/mp-calls-for-respect-orders-pilot-in-southwark-to-tackle-anti-social-behaviour/)
@@ -128,18 +142,6 @@ View All Result
     [![Neil Coyle, MP for Bermondsey and Old Southwark (left) and Miatta Fahnbulleh, MP for Peckham (right)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Neil-Coyle-MP-for-Bermondsey-and-Old-Southwark-left-and-Miatta-Fahnbulleh-MP-for-Peckham-right-360x180.png)](https://southwarknews.co.uk/news/news-plus/two-southwark-mps-reveal-voting-intention-on-assisted-dying-bill/)
     
     ### [Two Southwark MPs reveal voting intention on assisted dying bill](https://southwarknews.co.uk/news/news-plus/two-southwark-mps-reveal-voting-intention-on-assisted-dying-bill/)
-    
-    [![The Flaxyard site, Peckham Town Centre.](https://southwarknews.co.uk/wp-content/uploads/2024/11/SJH_3494-Pano-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/council-celebrates-completion-of-120-affordable-homes-in-peckham-town-centre/)
-    
-    ### [Council celebrates completion of 120 affordable homes in Peckham Town Centre](https://southwarknews.co.uk/area/peckham/council-celebrates-completion-of-120-affordable-homes-in-peckham-town-centre/)
-    
-    [![Monica Ferman passed away in 2012. (Family handout)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Monica-2-1-360x180.jpeg)](https://southwarknews.co.uk/area/dulwich/dulwich-woman-recounts-mums-horrendous-final-days-in-call-for-assisted-dying-law-saying-they-watched-her-starve-to-death/)
-    
-    ### [Dulwich woman recounts mum’s ‘horrendous’ final days in call for assisted dying law, saying they ‘watched her starve to death’](https://southwarknews.co.uk/area/dulwich/dulwich-woman-recounts-mums-horrendous-final-days-in-call-for-assisted-dying-law-saying-they-watched-her-starve-to-death/)
-    
-    [![L: Tooley St HQ of Southwark Council; R: Cllr Kieron Williams](https://southwarknews.co.uk/wp-content/uploads/2024/11/L-Tooley-St-HQ-of-Southwark-Council-R-Cllr-Kieron-Williams-360x180.png)](https://southwarknews.co.uk/area/southwark/southwark-councils-leader-has-apologised-after-the-governments-social-housing-watchdog-found-serious-failings/)
-    
-    ### [Southwark Council’s leader has apologised after the government’s social housing watchdog found ‘serious failings’](https://southwarknews.co.uk/area/southwark/southwark-councils-leader-has-apologised-after-the-governments-social-housing-watchdog-found-serious-failings/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -243,17 +245,23 @@ Terms of Use
 
 ### Featured Articles
 
+[![Anthony Marks reportedly died after being attacked near King's Cross St Pancras station. Image: Met Police](https://southwarknews.co.uk/wp-content/uploads/2024/11/f250fc10-ae38-11ef-93a6-9fd2d3586a96.jpg-120x86.webp)](https://southwarknews.co.uk/featured/brixton-girl-16-charged-with-murder-of-homeless-man/)
+
+### [Brixton girl, 16, charged with murder of ‘homeless man’](https://southwarknews.co.uk/featured/brixton-girl-16-charged-with-murder-of-homeless-man/)
+
+[29th November 2024](https://southwarknews.co.uk/featured/brixton-girl-16-charged-with-murder-of-homeless-man/)
+
+[![Jesse Lloyd-Smith, 20, was fatally shot outside his home on East Surrey Grove on 10th July.](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG-20241126-WA0002-120x86.jpg)](https://southwarknews.co.uk/area/peckham/sixth-person-charged-in-connection-with-the-murder-of-jesse-lloyd-smith-in-peckham/)
+
+### [Sixth person charged in connection with the murder of Jesse Lloyd-Smith in Peckham](https://southwarknews.co.uk/area/peckham/sixth-person-charged-in-connection-with-the-murder-of-jesse-lloyd-smith-in-peckham/)
+
+[29th November 2024](https://southwarknews.co.uk/area/peckham/sixth-person-charged-in-connection-with-the-murder-of-jesse-lloyd-smith-in-peckham/)
+
 [![Bakerloo Line extension to Lewisham. Credit - Transport for London](https://southwarknews.co.uk/wp-content/uploads/2024/11/Bakerloo-Line-extension-to-Lewisham.-Credit-Transport-for-London-120x86.jpg)](https://southwarknews.co.uk/area/peckham/planets-are-aligning-for-the-government-to-release-funding-to-extend-the-bakerloo-line/)
 
 ### [“Planets are aligning” for the Government to release funding to extend the Bakerloo line](https://southwarknews.co.uk/area/peckham/planets-are-aligning-for-the-government-to-release-funding-to-extend-the-bakerloo-line/)
 
 [28th November 2024](https://southwarknews.co.uk/area/peckham/planets-are-aligning-for-the-government-to-release-funding-to-extend-the-bakerloo-line/)
-
-[![L: Sam, Jesse's godmother and Chaise, Jesse's sister. R: Jesse Lloyd-Smith, 20 (2004-2024)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-28-11-2024-at-13.04-120x86.jpg)](https://southwarknews.co.uk/area/peckham/we-believe-people-are-sitting-on-the-truth-family-pleads-for-answers-after-jesse-lloyd-smith-was-shot-in-peckham/)
-
-### [‘We believe people are sitting on the truth’: Family pleads for answers after Jesse Lloyd-Smith was shot in Peckham](https://southwarknews.co.uk/area/peckham/we-believe-people-are-sitting-on-the-truth-family-pleads-for-answers-after-jesse-lloyd-smith-was-shot-in-peckham/)
-
-[28th November 2024](https://southwarknews.co.uk/area/peckham/we-believe-people-are-sitting-on-the-truth-family-pleads-for-answers-after-jesse-lloyd-smith-was-shot-in-peckham/)
 
 [![Chatelain House on Walworth Road, South London was built in the 1980s. Image from Southwark Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/Chatelain-House-120x86.jpg)](https://southwarknews.co.uk/area/walworth/fresh-plans-to-redevelop-an-eyesore-office-block-on-the-walworth-road/)
 
@@ -272,12 +280,6 @@ Terms of Use
 ### [Dulwich woman recounts mum’s ‘horrendous’ final days in call for assisted dying law, saying they ‘watched her starve to death’](https://southwarknews.co.uk/area/dulwich/dulwich-woman-recounts-mums-horrendous-final-days-in-call-for-assisted-dying-law-saying-they-watched-her-starve-to-death/)
 
 [27th November 2024](https://southwarknews.co.uk/area/dulwich/dulwich-woman-recounts-mums-horrendous-final-days-in-call-for-assisted-dying-law-saying-they-watched-her-starve-to-death/)
-
-[![L: Tooley St HQ of Southwark Council; R: Cllr Kieron Williams](https://southwarknews.co.uk/wp-content/uploads/2024/11/L-Tooley-St-HQ-of-Southwark-Council-R-Cllr-Kieron-Williams-120x86.png)](https://southwarknews.co.uk/area/southwark/southwark-councils-leader-has-apologised-after-the-governments-social-housing-watchdog-found-serious-failings/)
-
-### [Southwark Council’s leader has apologised after the government’s social housing watchdog found ‘serious failings’](https://southwarknews.co.uk/area/southwark/southwark-councils-leader-has-apologised-after-the-governments-social-housing-watchdog-found-serious-failings/)
-
-[27th November 2024](https://southwarknews.co.uk/area/southwark/southwark-councils-leader-has-apologised-after-the-governments-social-housing-watchdog-found-serious-failings/)
 
 ### USEFUL PAGES
 
