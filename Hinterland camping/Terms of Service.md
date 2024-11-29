@@ -20,9 +20,11 @@ Wann? Camp oder Cabin? Suchen
 * * *
 
 * [Camps & Cabins](https://www.hinterland.camp/locations)
+* [Bildersuche](https://www.hinterland.camp/images)
 * [Tipps & Inspiration](https://www.hinterland.camp/discover)
 * [Stories](https://www.hinterland.camp/stories)
 * [Über uns](https://www.hinterland.camp/team)
+* [Shop](https://shop.hinterland.camp/)
 * [Gutscheine](https://www.hinterland.camp/voucher)
 * [Kontakt](https://www.hinterland.camp/contact)
 
