@@ -295,9 +295,8 @@ Advertise
 
 [![ ](https://static.ffx.io/images/$zoom_0.5968%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_1270%2C$y_1484/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/278c03f1a02720352636e954bb4b553d7209375f)](https://www.afr.com/policy/economy/like-a-gloved-fist-accc-gina-cass-gottlieb-s-supermarket-sweep-20241015-p5kibd)
 
-### [‘Like a gloved fist’: ACCC Gina Cass-Gottlieb’s supermarket sweep](https://www.afr.com/policy/economy/like-a-gloved-fist-accc-gina-cass-gottlieb-s-supermarket-sweep-20241015-p5kibd)
+### [‘Like a gloved fist’: the ACCC chair’s supermarket sweep](https://www.afr.com/policy/economy/like-a-gloved-fist-accc-gina-cass-gottlieb-s-supermarket-sweep-20241015-p5kibd)
 
-* 54 mins ago
 * Ronald Mizen
 
 * ### [Mammoth tusks and jellyfish: how to bring jewellery ‘alive’](https://www.afr.com/life-and-luxury/fashion-and-style/mammoth-tusks-and-jellyfish-how-to-bring-jewellery-alive-20241016-p5kiw0)
@@ -312,7 +311,6 @@ Advertise
 
 ### [How IAG boss Nick Hawkins weathered the perfect storm](https://www.afr.com/companies/financial-services/how-iag-boss-nick-hawkins-weathered-the-perfect-storm-20241118-p5kri3)
 
-* 54 mins ago
 * James Eyers
 
 * ### [Why the backlash from men is threatening gender targets](https://www.afr.com/work-and-careers/workplace/why-the-backlash-from-men-is-threatening-gender-targets-20241125-p5ktbc)
@@ -327,7 +325,6 @@ Advertise
 
 ### [A big electric SUV with sporty intent](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/a-big-electric-suv-with-sporty-intent-20241105-p5knxq)
 
-* 54 mins ago
 * Tony Davis
 
 * ### [What this ballerina eats backstage during The Nutcracker](https://www.afr.com/life-and-luxury/arts-and-culture/what-this-ballerina-eats-backstage-during-the-nutcracker-20241025-p5kla9)
