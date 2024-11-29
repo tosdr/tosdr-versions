@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Thursday, November 28 2024
+Friday, November 29 2024
 
 Latest
 
-* [Researchers sound alarm over hackers exploiting critical ProjectSend vulnerability](https://digitpatrox.com/researchers-sound-alarm-over-hackers-exploiting-critical-projectsend-vulnerability/)
-* [10 steps to smarter Google account security – Computerworld](https://digitpatrox.com/10-steps-to-smarter-google-account-security-computerworld/)
-* [These Black Friday PS5 Bundles Are Perfect For Fortnite and NBA Fans](https://digitpatrox.com/these-black-friday-ps5-bundles-are-perfect-for-fortnite-and-nba-fans/)
-* [Best Massage Guns of 2024](https://digitpatrox.com/best-massage-guns-of-2024/)
-* [Today’s NYT Connections Hints and Answer for November 28 (#536)](https://digitpatrox.com/todays-nyt-connections-hints-and-answer-for-november-28-536/)
-* [Forget expensive, power-hungry LLMs models, 2025 will be the year where small language models hit the mainstream](https://digitpatrox.com/forget-expensive-power-hungry-llms-models-2025-will-be-the-year-where-small-language-models-hit-the-mainstream/)
-* [Microsoft Visio 2024 is 86% Off for a Limited Time](https://digitpatrox.com/microsoft-visio-2024-is-86-off-for-a-limited-time/)
-* [Lions vs Bears — How to watch NFL live stream from anywhere](https://digitpatrox.com/lions-vs-bears-how-to-watch-nfl-live-stream-from-anywhere/)
-* [Hackers exploit ProjectSend flaw to backdoor exposed servers](https://digitpatrox.com/hackers-exploit-projectsend-flaw-to-backdoor-exposed-servers/)
-* [The best deals on the baby gear I recommend to my friends](https://digitpatrox.com/the-best-deals-on-the-baby-gear-i-recommend-to-my-friends/)
+* [Zello asks users to reset passwords after security incident](https://digitpatrox.com/zello-asks-users-to-reset-passwords-after-security-incident/)
+* [Philips Hue’s Festavia string lights are up to $100 off just in time for the holidays](https://digitpatrox.com/philips-hues-festavia-string-lights-are-up-to-100-off-just-in-time-for-the-holidays/)
+* [Grab Your Dream OnePlus Devices With These Black Friday Deals](https://digitpatrox.com/grab-your-dream-oneplus-devices-with-these-black-friday-deals/)
+* [What does a smart campus look like and how far away is it from being a reality?](https://digitpatrox.com/what-does-a-smart-campus-look-like-and-how-far-away-is-it-from-being-a-reality/)
+* [Intel’s $7.9B subsidy deal comes at a high price for the chipmaker – Computerworld](https://digitpatrox.com/intels-7-9b-subsidy-deal-comes-at-a-high-price-for-the-chipmaker-computerworld/)
+* [This Amazon Kindle Paperwhite Is at Its Lowest Price Ever for Black Friday](https://digitpatrox.com/this-amazon-kindle-paperwhite-is-at-its-lowest-price-ever-for-black-friday/)
+* [Ninja Luxe Café Espresso Machine and Coffee Maker Review](https://digitpatrox.com/ninja-luxe-cafe-espresso-machine-and-coffee-maker-review/)
+* [How to Protect Your Data on Black Friday](https://digitpatrox.com/how-to-protect-your-data-on-black-friday/)
+* [Does AI level the playing field for small businesses?](https://digitpatrox.com/does-ai-level-the-playing-field-for-small-businesses/)
+* [How To Insert Em Dash In Word: 4 Easy-to-Follow Steps](https://digitpatrox.com/how-to-insert-em-dash-in-word-4-easy-to-follow-steps/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/Hr8Z3QGRRnSdJ7oqmTW3V6-1200-80.jpg)](https://digitpatrox.com/researchers-sound-alarm-over-hackers-exploiting-critical-projectsend-vulnerability/)
+* [![](https://www.bleepstatic.com/content/hl-images/2020/08/03/zello-header.jpg)](https://digitpatrox.com/zello-asks-users-to-reset-passwords-after-security-incident/)
     
-    [Researchers sound alarm over hackers exploiting critical ProjectSend vulnerability](https://digitpatrox.com/researchers-sound-alarm-over-hackers-exploiting-critical-projectsend-vulnerability/)
+    [Zello asks users to reset passwords after security incident](https://digitpatrox.com/zello-asks-users-to-reset-passwords-after-security-incident/)
     
-    34 minutes ago
+    14 minutes ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/11/1615305-0-14746900-1732790924-google-account-security-100832892-orig.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/10-steps-to-smarter-google-account-security-computerworld/)
+* [![](https://cdn.vox-cdn.com/thumbor/QKM75Kdn0LfTPx0LYPbmu7crCuU=/0x0:3525x2350/1200x628/filters:focal(1763x1175:1764x1176)/cdn.vox-cdn.com/uploads/chorus_asset/file/25762360/Philips_Hue_s_Festavia_string_lights_lifestyle_image.jpg)](https://digitpatrox.com/philips-hues-festavia-string-lights-are-up-to-100-off-just-in-time-for-the-holidays/)
     
-    [10 steps to smarter Google account security – Computerworld](https://digitpatrox.com/10-steps-to-smarter-google-account-security-computerworld/)
+    [Philips Hue’s Festavia string lights are up to $100 off just in time for the holidays](https://digitpatrox.com/philips-hues-festavia-string-lights-are-up-to-100-off-just-in-time-for-the-holidays/)
     
-    55 minutes ago
+    31 minutes ago
     
-* [![](https://lifehacker.com/imagery/articles/01JDQTC6CXPKJ2MYVQWZCD06RH/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/these-black-friday-ps5-bundles-are-perfect-for-fortnite-and-nba-fans/)
+* [![](https://beebom.com/wp-content/uploads/2024/11/OnePlus-Black-Friday-Deals.jpg)](https://digitpatrox.com/grab-your-dream-oneplus-devices-with-these-black-friday-deals/)
     
-    [These Black Friday PS5 Bundles Are Perfect For Fortnite and NBA Fans](https://digitpatrox.com/these-black-friday-ps5-bundles-are-perfect-for-fortnite-and-nba-fans/)
+    [Grab Your Dream OnePlus Devices With These Black Friday Deals](https://digitpatrox.com/grab-your-dream-oneplus-devices-with-these-black-friday-deals/)
     
-    1 hour ago
+    47 minutes ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1706887177/prod/content/dam/CRO-Images-2024/Health/CR-Health-Inlinehero-best-massage-guns-0224)](https://digitpatrox.com/best-massage-guns-of-2024/)
+* [![](https://cdn.mos.cms.futurecdn.net/xNowLsodDbb8km9ZFTgF5N-1200-80.jpg)](https://digitpatrox.com/what-does-a-smart-campus-look-like-and-how-far-away-is-it-from-being-a-reality/)
     
-    [Best Massage Guns of 2024](https://digitpatrox.com/best-massage-guns-of-2024/)
-    
-    2 hours ago
-    
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/nyt-connections-game-icon-on-a-phone-screen-and-several-magnifying-glasses-and-question-marks-around-it.jpg)](https://digitpatrox.com/todays-nyt-connections-hints-and-answer-for-november-28-536/)
-    
-    [Today’s NYT Connections Hints and Answer for November 28 (#536)](https://digitpatrox.com/todays-nyt-connections-hints-and-answer-for-november-28-536/)
+    [What does a smart campus look like and how far away is it from being a reality?](https://digitpatrox.com/what-does-a-smart-campus-look-like-and-how-far-away-is-it-from-being-a-reality/)
     
     2 hours ago
+    
+* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3614437-0-41377300-1732786746-IDG-Germany-Intel-September-News.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/intels-7-9b-subsidy-deal-comes-at-a-high-price-for-the-chipmaker-computerworld/)
+    
+    [Intel’s $7.9B subsidy deal comes at a high price for the chipmaker – Computerworld](https://digitpatrox.com/intels-7-9b-subsidy-deal-comes-at-a-high-price-for-the-chipmaker-computerworld/)
+    
+    3 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,45 +208,45 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [34 minutes ago
+* [14 minutes ago
     
-    ### Researchers sound alarm over hackers exploiting critical ProjectSend vulnerability](https://digitpatrox.com/researchers-sound-alarm-over-hackers-exploiting-critical-projectsend-vulnerability/)
-* [55 minutes ago
+    ### Zello asks users to reset passwords after security incident](https://digitpatrox.com/zello-asks-users-to-reset-passwords-after-security-incident/)
+* [31 minutes ago
     
-    ### 10 steps to smarter Google account security – Computerworld](https://digitpatrox.com/10-steps-to-smarter-google-account-security-computerworld/)
-* [1 hour ago
+    ### Philips Hue’s Festavia string lights are up to $100 off just in time for the holidays](https://digitpatrox.com/philips-hues-festavia-string-lights-are-up-to-100-off-just-in-time-for-the-holidays/)
+* [47 minutes ago
     
-    ### These Black Friday PS5 Bundles Are Perfect For Fortnite and NBA Fans](https://digitpatrox.com/these-black-friday-ps5-bundles-are-perfect-for-fortnite-and-nba-fans/)
+    ### Grab Your Dream OnePlus Devices With These Black Friday Deals](https://digitpatrox.com/grab-your-dream-oneplus-devices-with-these-black-friday-deals/)
 
 Most Popular Topics
 
-* [October 1, 2024
+* [October 23, 2024
     
-    ### you and your business need satellite comms – Computerworld](https://digitpatrox.com/you-and-your-business-need-satellite-comms-computerworld/)
-* [2 weeks ago
+    ### I’ve been testing earbuds for all my life — here’s the 10 best early Black Friday wireless earbuds deals right now](https://digitpatrox.com/ive-been-testing-earbuds-for-all-my-life-heres-the-10-best-early-black-friday-wireless-earbuds-deals-right-now/)
+* [August 26, 2024
     
-    ### NYT Strands today — hints, spangram and answers for game #260 (Monday, November 18 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-260-monday-november-18-2024/)
-* [2 weeks ago
+    ### Dell PowerEdge T360 review | ITPro](https://digitpatrox.com/dell-poweredge-t360-review-itpro/)
+* [October 28, 2024
     
-    ### HIBP notifies 57 million people of Hot Topic data breach](https://digitpatrox.com/hibp-notifies-57-million-people-of-hot-topic-data-breach/)
+    ### How to take the Apple hearing test](https://digitpatrox.com/how-to-take-the-apple-hearing-test/)
 
 Last Modified Topics
 
-* [2 hours ago
+* [3 hours ago
     
-    ### Microsoft Visio 2024 is 86% Off for a Limited Time](https://digitpatrox.com/microsoft-visio-2024-is-86-off-for-a-limited-time/)
-* [2 hours ago
+    ### Ninja Luxe Café Espresso Machine and Coffee Maker Review](https://digitpatrox.com/ninja-luxe-cafe-espresso-machine-and-coffee-maker-review/)
+* [3 hours ago
     
-    ### Lions vs Bears — How to watch NFL live stream from anywhere](https://digitpatrox.com/lions-vs-bears-how-to-watch-nfl-live-stream-from-anywhere/)
+    ### How to Protect Your Data on Black Friday](https://digitpatrox.com/how-to-protect-your-data-on-black-friday/)
 * [4 hours ago
     
-    ### Hackers exploit ProjectSend flaw to backdoor exposed servers](https://digitpatrox.com/hackers-exploit-projectsend-flaw-to-backdoor-exposed-servers/)
+    ### Does AI level the playing field for small businesses?](https://digitpatrox.com/does-ai-level-the-playing-field-for-small-businesses/)
 
 Most Viewed Topics
 
-* [August 11, 2024
+* [August 13, 2024
     
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 * [August 13, 2024
     
     ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
