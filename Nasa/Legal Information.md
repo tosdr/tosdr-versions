@@ -281,7 +281,7 @@ article 6 days ago](https://www.nasa.gov/directorates/esdmd/artemis-campaign-dev
 
 ### Preguntas frecuentes: La verdadera historia del cuidado de la salud de los astronautas en el espacio
 
-article 7 days ago](https://www.nasa.gov/missions/station/preguntas-frecuentes-la-verdadera-historia-del-cuidado-de-la-salud-de-los-astronautas-en-el-espacio/)
+article 1 week ago](https://www.nasa.gov/missions/station/preguntas-frecuentes-la-verdadera-historia-del-cuidado-de-la-salud-de-los-astronautas-en-el-espacio/)
 
 ### Highlights
 
@@ -357,7 +357,7 @@ article 3 days ago](https://science.nasa.gov/mission/excite/)
 
 ### OSDR at AGU 2024
 
-article 22 hours ago](https://www.nasa.gov/osdr-at-agu-2024-2/)[![Amendment 74: A.63 Ecohydrology, a New Opportunity in ROSES-24](https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000002/GSFC_20171208_Archive_e000002~large.jpg)
+article 1 day ago](https://www.nasa.gov/osdr-at-agu-2024-2/)[![Amendment 74: A.63 Ecohydrology, a New Opportunity in ROSES-24](https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000002/GSFC_20171208_Archive_e000002~large.jpg)
 
 1 min read
 
@@ -423,13 +423,13 @@ article 1 week ago](https://www.nasa.gov/centers-and-facilities/ames/what-is-bio
 
 ### Aaron Yazzie: Bridging Indigenous Heritage and Space Exploration
 
-article 20 hours ago](https://www.nasa.gov/learning-resources/bridging-indigenous-heritage-and-space-exploration/)[![NASA Science Activation Opportunities Near You](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/2024/SCIACT_ICON_wTEXT_3-COLOR-01.png)
+article 1 day ago](https://www.nasa.gov/learning-resources/bridging-indigenous-heritage-and-space-exploration/)[![NASA Science Activation Opportunities Near You](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/2024/SCIACT_ICON_wTEXT_3-COLOR-01.png)
 
 1 min read
 
 ### NASA Science Activation Opportunities Near You
 
-article 23 hours ago](https://science.nasa.gov/learn/nasa-science-activation-opportunities-near-you/)[![Students at NASA's Jet Propulsion Laboratory pose for photos around the laboratory wearing their eclipse glasses.](https://www.nasa.gov/wp-content/uploads/2023/03/38540233062-abf67c18dd-o.jpeg?w=985)
+article 1 day ago](https://science.nasa.gov/learn/nasa-science-activation-opportunities-near-you/)[![Students at NASA's Jet Propulsion Laboratory pose for photos around the laboratory wearing their eclipse glasses.](https://www.nasa.gov/wp-content/uploads/2023/03/38540233062-abf67c18dd-o.jpeg?w=985)
 
 2 min read
 
