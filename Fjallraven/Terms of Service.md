@@ -304,7 +304,7 @@ Asia
     
     ### LEARN MORE
     
-* [Sale](https://www.fjallraven.com/de/de-de/past-seasons-favorites/)
+* [Sale](https://www.fjallraven.com/us/en-us/black-friday-collection/)
 
 * * Men
         
@@ -482,7 +482,7 @@ Asia
             * [Fjällräven Polar](https://experience.fjallraven.com/polar/2025)
             
         
-    * [Sale](https://www.fjallraven.com/de/de-de/past-seasons-favorites/)
+    * [Sale](https://www.fjallraven.com/us/en-us/black-friday-collection/)
 * * Customer Service
         
         * [Luminos.Storefront.Web.Features.Blocks.SideNavigationBlock.Presentation.ViewModels.SideNavigationItem](https://www.fjallraven.com/us/en-us/customer-service/)
@@ -738,7 +738,7 @@ Discover
 Discover
 
 * [Fjällräven Experience](https://experience.fjallraven.com/us/en-us)
-* [Fjällräven Polar](https://experience.fjallraven.com/polar/2025?id=b3cdbbd4-5266-4eae-a4a8-ebbff0d699bf)
+* [Fjällräven Polar](https://experience.fjallraven.com/polar/2025?id=1063dc1e-8633-43fc-9362-377842cddd1b)
 * [Fjällräven Classic](https://classic.fjallraven.com/)
 * [Our Community](https://www.fjallraven.com/us/en-us/our-community/)
 * Do Not Sell or Share My Personal Information
