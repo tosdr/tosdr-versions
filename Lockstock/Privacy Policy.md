@@ -28,9 +28,9 @@ Boost your application with PLUS!
 
 Continue to My Account
 
-![Zuku](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%271000%27%20height=%27360%27/%3e)![zuku](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![Zuku](https://d29uiur3lqifhy.cloudfront.net/Production/SmsWebsiteAssets/webp/zuku-ad-banner-mobile.webp)
+![zuku](https://d29uiur3lqifhy.cloudfront.net/Production/SmsWebsiteAssets/webp/zuku-ad-banner-mobile-v1.webp)](https://zukuconnect.com/)
 
 * [FAQs](https://www.lockandstock.app/faqs)
 * [Partner With Us](https://www.lockandstock.app/partner-with-us)
