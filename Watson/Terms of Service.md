@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![en partie ensoleillé](https://www.watson.ch/fr/_watsui/static/img/weather/w-3.svg)1°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![ciel clair](https://www.watson.ch/fr/_watsui/static/img/weather/w-1.svg)3°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -54,25 +54,25 @@
 
 Thèmes du moment
 
-* [Argent](https://www.watson.ch/fr/argent/)
 * [Best of watson](https://www.watson.ch/fr/best-of-watson/)
-* [commerce](https://www.watson.ch/fr/commerce/)
 * [Donald Trump](https://www.watson.ch/fr/donald-trump/)
+* [Argent](https://www.watson.ch/fr/argent/)
+* [CFF](https://www.watson.ch/fr/cff/)
+* [Russie](https://www.watson.ch/fr/russie/)
+* [commerce](https://www.watson.ch/fr/commerce/)
+* [républicain](https://www.watson.ch/fr/republicain/)
+* [présidentielle américaine](https://www.watson.ch/fr/presidentielle-americaine/)
+* [primes maladie](https://www.watson.ch/fr/primes-maladie/)
+* [Animaux](https://www.watson.ch/fr/animaux/)
 * [Santé](https://www.watson.ch/fr/sante/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
-* [Police](https://www.watson.ch/fr/police/)
-* [Famille](https://www.watson.ch/fr/famille/)
 * [Royaume-Uni](https://www.watson.ch/fr/royaume-uni/)
-* [route](https://www.watson.ch/fr/route/)
-* [Noël](https://www.watson.ch/fr/noel/)
-* [Genève](https://www.watson.ch/fr/geneve/)
-* [Australie](https://www.watson.ch/fr/australie/)
-* [Musique](https://www.watson.ch/fr/musique/)
-* [Cinéma](https://www.watson.ch/fr/cinema/)
-* [Réseaux sociaux](https://www.watson.ch/fr/reseaux-sociaux/)
+* [Intelligence artificielle](https://www.watson.ch/fr/intelligence-artificielle/)
 * [Football](https://www.watson.ch/fr/football/)
-* [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
+* [Justice](https://www.watson.ch/fr/justice/)
+* [mort](https://www.watson.ch/fr/mort/)
 * [Politique](https://www.watson.ch/fr/politique/)
+* [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
 * [France](https://www.watson.ch/fr/france/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
