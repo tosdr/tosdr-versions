@@ -209,50 +209,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Kobus Venter
 
-![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=c676355a05445f9f9afad80125834c3a07adc976908b5d3eb45e53c6d9316992&c=16133941)  
-Roamfree Boerdery (PTY) LTD
+![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=80928241)  
+IYD
 
-![valued client One2b](https://www.invoicesonline.co.za/scripts/image.php?bid=4093&file=logo_300_100&type=&fe=c676355a05445f9f9afad80125834c3a07adc976908b5d3eb45e53c6d9316992&c=65099260)  
-One2b
+![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=62076069)  
+Website Café (PTY) LTD
 
-![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=c676355a05445f9f9afad80125834c3a07adc976908b5d3eb45e53c6d9316992&c=164049245)  
-Nogana Events and Decor
+![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=65306549)  
+Electro-Heat
 
-![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=c676355a05445f9f9afad80125834c3a07adc976908b5d3eb45e53c6d9316992&c=18205067)  
-VerdanTech Pty Ltd
+![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=141670009)  
+Tantra Sound and Lightz
 
-![valued client NC Labour Hire](https://www.invoicesonline.co.za/scripts/image.php?bid=8545&file=logo_300_100&type=&fe=c676355a05445f9f9afad80125834c3a07adc976908b5d3eb45e53c6d9316992&c=75573825)  
-NC Labour Hire
+![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=132540838)  
+BEE SURE CONSULTING (PTY) LTD
 
-![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=c676355a05445f9f9afad80125834c3a07adc976908b5d3eb45e53c6d9316992&c=110112100)  
-Digifax (Pty) Ltd trading as Digirent
+![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=51416431)  
+Stories (Pty) Ltd t/a Storietyd
 
-![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=c676355a05445f9f9afad80125834c3a07adc976908b5d3eb45e53c6d9316992&c=20342462)  
-Safe-Train Consulting (PTY) Ltd
+![valued client African Roots](https://www.invoicesonline.co.za/scripts/image.php?bid=1000&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=62312959)  
+African Roots
 
-![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=c676355a05445f9f9afad80125834c3a07adc976908b5d3eb45e53c6d9316992&c=65904480)  
-KTEN PARTS
+![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=90616288)  
+Oukraal Merino's
 
-![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=c676355a05445f9f9afad80125834c3a07adc976908b5d3eb45e53c6d9316992&c=19426259)  
-TIGERDSL
+![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=161144606)  
+ELLIE'S CLEANING CHICKS
 
-![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=c676355a05445f9f9afad80125834c3a07adc976908b5d3eb45e53c6d9316992&c=206535316)  
-Norton Medical & Consult - Namibia
+![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=128218250)  
+Immediate Health (pty)ltd
 
-![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=c676355a05445f9f9afad80125834c3a07adc976908b5d3eb45e53c6d9316992&c=45095819)  
-kidoscabbie
+![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=36862957)  
+Vplay Letsheng Mall
 
-![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=c676355a05445f9f9afad80125834c3a07adc976908b5d3eb45e53c6d9316992&c=113992813)  
-Moremi Kitchens Rustenburg
+![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=97309744)  
+Kinetic Power Solutions (Pty) Ltd.
 
-![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=c676355a05445f9f9afad80125834c3a07adc976908b5d3eb45e53c6d9316992&c=52440069)  
-MONSTER CONNECT (PTY) LTD
+![valued client Sophia's Roses](https://www.invoicesonline.co.za/scripts/image.php?bid=5227&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=67345268)  
+Sophia's Roses
 
-![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=c676355a05445f9f9afad80125834c3a07adc976908b5d3eb45e53c6d9316992&c=64464481)  
-Tracknetics
+![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=68209607)  
+M's Frozen Delights
 
-![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=c676355a05445f9f9afad80125834c3a07adc976908b5d3eb45e53c6d9316992&c=98651997)  
-Repairs In Motion
+![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=120045937)  
+Xpress Designs
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
