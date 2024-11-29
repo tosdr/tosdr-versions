@@ -133,29 +133,29 @@
 
 #### Latest news
 
+[![View of BBC's regional headquarters in Salford ](/siteassets/resources/images/-news-centre/thumbnail-images/tv-and-on-demand/bbc-salford.jpg?width=1920&height=1085&quality=80)
+
+### BBC Annual Report and Local Media Review
+
+29 November 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/bbc/bbc-annual-report-and-local-media-review/)
+
+[![Exterior photo of BBC studios](/siteassets/resources/images/-news-centre/thumbnail-images/tv-and-on-demand/bbc-hq-web.jpg?width=1920&height=1085&quality=80)
+
+### How Ofcom deals with BBC complaints – what you need to know
+
+29 November 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/bbc/how-ofcom-deals-with-bbc-complaints--what-you-need-to-know/)
+
+[![Two children looking at a phone or tablet together.](/siteassets/additional-resources/online-safety.jpg?width=1920&height=1085&quality=80)
+
+### How children will be protected from accessing online pornography
+
+29 November 2024](https://www.ofcom.org.uk/online-safety/protecting-children/how-children-will-be-protected-from-accessing-online-pornography/)
+
 [![People on their phones](/siteassets/resources/images/-news-centre/body-images/2024/online-nations/hero-online-nation-2024.jpg?width=1920&height=1085&quality=80)
 
 ### Digital differences between men and women revealed
 
 28 November 2024](https://www.ofcom.org.uk/media-use-and-attitudes/online-habits/digital-differences-between-men-and-women-revealed/)
-
-[![A person looking at news websites on their mobile phone and laptop](/siteassets/resources/images/-news-centre/thumbnail-images/internet/news-on-phone-and-laptop-screens.jpg?width=1920&height=1085&quality=80)
-
-### Four in 10 UK adults encounter misinformation
-
-27 November 2024](https://www.ofcom.org.uk/media-use-and-attitudes/attitudes-to-news/four-in-10-uk-adults-encounter-misinformation/)
-
-[![Women stressed Hero](/siteassets/resources/images/-news-centre/thumbnail-images/phones/women-stressed-hero.png?width=1920&height=1085&quality=80)
-
-### Seasonal scams to watch out for
-
-27 November 2024](https://www.ofcom.org.uk/phones-and-broadband/scam-calls-and-messages/seasonal-scams-to-watch-out-for/)
-
-[![Complaints-visual-web](/siteassets/resources/images/-news-centre/thumbnail-images/phones/complaints-visual-web.jpg?width=1920&height=1085&quality=80)
-
-### Latest telecoms and pay-TV complaints figures revealed
-
-14 November 2024](https://www.ofcom.org.uk/phones-and-broadband/service-quality/latest-telecoms-and-pay-tv-complaints-figures-revealed2/)
 
  [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/corporate-policies/general-privacy-statement/?language=cy "Switch to Welsh")
 
