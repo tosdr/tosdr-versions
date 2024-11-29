@@ -1405,7 +1405,7 @@ Before a credit is issued, the item must be returned and received by us.
 
 We do not refund shipping costs, or refund the cost of your return shipping.
 
-If your item is received in brand new working condition and has not been used, we will refund 100% of your item cost.
+If your item is received in brand-new working condition and has not been used, we will refund 100% of your item cost.
 
 Items returned in used condition or with packaging that cannot be resealed are subject to a 30% restocking fee. All returned items must be in original packaging and include all components in good working order. Products not meeting these terms are subject to no refund.
 
@@ -1427,6 +1427,8 @@ The following product categories are subject to a 30% restocking fee, **no excep
 * Listening Devices
 
 In the event you are returning one of the items above, in order to qualify for us refunding 70% of your purchase price, the returned product must have its original box and **ALL** components. In the event your item is returned with damaged components, missing components, or does not include the original box, we will not process your refund.
+
+Items marked as Final Sale are **NOT** returnable.
 
 #### My item was damaged by the shipping carrier, how do I get it replaced?
 
