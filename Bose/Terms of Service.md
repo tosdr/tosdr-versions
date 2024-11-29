@@ -2,9 +2,9 @@
 
 BLACK FRIDAY DEALS: Save up to 40% on bestsellers. [Shop](https://www.bose.com/c/black-friday-deals)
 
-LIMITED-TIME OFFER: Get our lowest holiday price on select QuietComfort Ultra Headphones. [Buy now](https://www.bose.com/QCUH-HEADPHONEARN-SDSTN-WW.html?quantity=1)
+LIMITED-TIME OFFER: Get our lowest holiday price on select QuietComfort Ultra Headphones. [Buy now](https://www.bose.com/QCUH-HEADPHONEARN.html?dwvar_QCUH-HEADPHONEARN_color=DIAMOND+60TH+EDITION)
 
-LIMITED-TIME OFFER: Get $200 off Bose Smart Ultra Soundbar. [Buy now](https://www.bose.com/SUSB-SOUNDBAR.html?dwvar_SUSB-SOUNDBAR_color=ARCTIC+WHITE&quantity=1)
+GIFT WITH PURCHASE: Save $50 off Ultra Open Earbuds and get a free Black Silicone Case Cover. [Buy now](https://www.bose.com/ULT-HEADPHONEOPN.html?dwvar_ULT-HEADPHONEOPN_color=SUNSET+IRIDESCENT&quantity=1)
 
 Stress-free shopping | 90-day return policy | Holiday Price Match Promise [Learn how](https://www.bose.com/buy-direct-from-bose)
 
@@ -24,16 +24,16 @@ Back
     
     [![](https://assets.bosecreative.com/m/78dd9abd99af0a8d/webimage-SF_NavFlyout_Holiday_Turkey-6_Cross-cat_Mobile.png)
     
-    ### Black Friday starts now](https://www.bose.com/c/black-friday-deals "Shop")
+    ### Black Friday Deals](https://www.bose.com/c/black-friday-deals "SHOP")
     
      
     
-    Black Friday starts now
-    -----------------------
+    Black Friday Deals
+    ------------------
     
-    Save up to 40% with deals on this season’s best.
+    Get the best deals of the season and save up to 40%.
     
-    [Shop](https://www.bose.com/c/black-friday-deals "Shop")
+    [SHOP](https://www.bose.com/c/black-friday-deals "SHOP")
     
 
 * [Shop](#)
@@ -107,22 +107,22 @@ Back
     * [Gift Sets](https://www.bose.com/c/sets)
     * [Gift Cards](https://www.bose.com/gift-cards)
     
-    [![](https://assets.bosecreative.com/m/30b4365343cced7f/webimage-QCUHLE25-Diamond_SF_NavFlyout_T6_Mobile.png)
+    [![](https://assets.bosecreative.com/m/7c3cc51a789d0936/webimage-UOEB24-White_SiliconeCase-Black_SF_NavFlyout_T6_Mobile_V2.png)
     
-    QuietComfort Ultra Headphones
+    TODAY ONLY
     
-    ### Limited-time offer](https://www.bose.com/QCUH-HEADPHONEARN.html?dwvar_QCUH-HEADPHONEARN_color=DIAMOND+60TH+EDITION&quantity=1 "BUY NOW")
+    ### Gift with purchase](https://www.bose.com/ULT-HEADPHONEOPN.html?dwvar_ULT-HEADPHONEOPN_color=WHITE+SMOKE&quantity=1 "BUY NOW")
     
      
     
-    QUIETCOMFORT ULTRA HEADPHONES
+    TODAY ONLY
     
-    This week only
-    --------------
+    Gift with purchase
+    ------------------
     
-    Snag our lowest price of the season on select colors of QuietComfort Ultra Headphones.
+    Save $50 off Ultra Open Earbuds and get a Black Silicone Case Cover!
     
-    [BUY NOW](https://www.bose.com/QCUH-HEADPHONEARN.html?dwvar_QCUH-HEADPHONEARN_color=DIAMOND+60TH+EDITION&quantity=1 "BUY NOW")
+    [BUY NOW](https://www.bose.com/ULT-HEADPHONEOPN.html?dwvar_ULT-HEADPHONEOPN_color=WHITE+SMOKE&quantity=1 "BUY NOW")
     
 
 * [Explore](#)
@@ -192,7 +192,7 @@ Back
 
 [![](https://assets.bosecreative.com/m/78dd9abd99af0a8d/webimage-SF_NavFlyout_Holiday_Turkey-6_Cross-cat_Mobile.png)
 
-### Black Friday starts now](https://www.bose.com/c/black-friday-deals "Shop")
+### Black Friday Deals](https://www.bose.com/c/black-friday-deals "SHOP")
 
 [![Bose](/on/demandware.static/Sites-Bose_US-Site/-/default/dwaf0ae0f9/images/logo.svg)](https://www.bose.com/home "Bose Home")
 
