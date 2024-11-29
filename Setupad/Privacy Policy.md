@@ -101,7 +101,7 @@ Learn
 
 [Webinars](https://setupad.com/webinars/)
 
-[FAQ](https://setupad.com/faq/)
+[FAQ](https://setupad.com/faqs/)
 
 [Newsletter](https://setupad.com/sign-up-newsletter/)
 
