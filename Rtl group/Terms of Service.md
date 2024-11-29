@@ -308,6 +308,14 @@ Europe's leading entertainment brand
 
  
 
+* [![slide-<i>RTL Spendenmarathon</i> 2024](/.galleries/images/Spendenmarathon-2024_Wolfram-Kons_16-9.jpg?__scale=undefined&description=)
+    
+    _RTL Spendenmarathon_ 2024
+    
+    25.11.2024
+    
+    RTL Deutschland’s _RTL Spendenmarathon_ took place from 21-22 November 2024, raising over €16 million for _Stiftung RTL_ and setting a world record with a 24-hour inclusion challenge.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/RTL-Spendenmarathon-2024/)
+    
 * [![slide-We Are Era acquires Social Match](/.galleries/images/WAE_Social-Match-16-9.png?__scale=undefined&description=)
     
     We Are Era acquires Social Match
@@ -339,22 +347,6 @@ Europe's leading entertainment brand
     11.11.2024
     
     UFA wins ‘Best Series of the Year’ for _Maxton Hall_ at the Bambi Awards, while Holocaust survivor Margot Friedländer receives the Honourary Bambi Award.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/UFA-wins-a-Bambi-Award/)
-    
-* [![slide-TV Key Facts 2024](/.galleries/images/TV-Key-Facts-2024_16-9.png?__scale=undefined&description=)
-    
-    TV Key Facts 2024
-    
-    07.11.2024
-    
-    RTL AdAlliance presented findings from its 2024 TV Key Facts report – which focuses on the convergence of human creativity and technology – during a live event.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/TV-Key-Facts-2024/)
-    
-* [![slide-Covering the US election](/.galleries/images/US-elections_16-9.png?__scale=undefined&description=)
-    
-    Covering the US election
-    
-    07.11.2024
-    
-    Business units across RTL Group reported extensively on the US election with round-the-clock broadcasts, on-the-ground journalists and special formats.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/Covering-the-US-election/)
     
 
 [![image-0](/.galleries/images/rtl-group/Career-at-RTL_Photoshooting.jpg)](https://jobsearch.createyourowncareer.com/RTL/?locale=en_US)
