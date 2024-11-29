@@ -525,9 +525,9 @@ Weitere Informationen zu Umfang und Zweck der Datenverarbeitung durch INFOnline 
 
 ### [NachDenkSeiten im Gespräch](https://www.youtube.com/playlist?list=PLpNi0Wmi7L80YYabA3qOGKP8ZporDTlRA)
 
-[![Michael Hartmann im Gespräch mit Albrecht Müller (Teil 2/3)](https://www.nachdenkseiten.de/wp-content/uploads/2022/09/2022-09-13-Hartmann-Gespraech-Teil2-Cover-rot-YTButton.jpg "Michael Hartmann im Gespräch mit Albrecht Müller (Teil 2/3)")](https://www.nachdenkseiten.de/?p=88135)
+[![Gespräch mit dem Palästinenser George Rashmawi zum aktuellen Konflikt](https://www.nachdenkseiten.de/wp-content/uploads/2023/07/230705-Gespraech-Rashmawi-Mueller-Titelbild_s.jpg "Gespräch mit dem Palästinenser George Rashmawi zum aktuellen Konflikt")](https://www.youtube.com/watch?v=FZnuNzX0NeU)
 
-* [Michael Hartmann im Gespräch mit Albrecht Müller (Teil 2/3)](https://www.nachdenkseiten.de/?p=88135)
+* [Gespräch mit dem Palästinenser George Rashmawi zum aktuellen Konflikt](https://www.youtube.com/watch?v=FZnuNzX0NeU)
 * [Videoangebot der NachDenkSeiten](https://www.nachdenkseiten.de/?page_id=47509)
 
 ![Albrecht Müller: Glaube wenig. Hinterfrage alles. Denke selbst.](https://www.nachdenkseiten.de/wp-content/uploads/2022/05/220510-glaube.jpg "Albrecht Müller: Glaube wenig. Hinterfrage alles. Denke selbst.")
@@ -542,12 +542,12 @@ Weitere Informationen zu Umfang und Zweck der Datenverarbeitung durch INFOnline 
 
 ### Wichtige Artikel
 
-* [Jetzt beginnt die Hochkonjunktur für den Missbrauch von Umfragen zur Meinungsmache](https://www.nachdenkseiten.de/?p=125022)
-* [Ach, das bisschen Atomkriegsrisiko …](https://www.nachdenkseiten.de/?p=125064)
-* [Nach Skandalurteil: Mainzer Justizministerium lässt NATO-Truppenstatut und Zusatzabkommen prüfen – Was sagt Bundesregierung?](https://www.nachdenkseiten.de/?p=125077)
-* [Habecks energiepolitische „Lösung aller Probleme“ … was redet der Mann da?](https://www.nachdenkseiten.de/?p=125025)
-* [Wirtschaftsminister Habeck als Werbegesicht des Abmahn-Start-ups SO DONE, Anzeigen als Geldquelle und die Lüge seines Sprechers](https://www.nachdenkseiten.de/?p=125123)
-* [Ein Kind wird kommen – An der A2, Rasthof Marienborn Süd](https://www.nachdenkseiten.de/?p=125112)
+* [So sieht Krieg aus. Fürchterlich. Persönliche Erinnerungen](https://www.nachdenkseiten.de/?p=125316)
+* [Robert Habeck ist kein Schwachkopf](https://www.nachdenkseiten.de/?p=125329)
+* [Die SPD geht in den Wahlkampf – man kann nicht so viel fressen, wie man kotzen möchte](https://www.nachdenkseiten.de/?p=125309)
+* [Corona: E-Mail zeigt, wie sich „Ethikrat“ an die Politik angebiedert hat](https://www.nachdenkseiten.de/?p=125385)
+* [Denn es darf kein Stellvertreterkrieg sein – doch selbst Boris Johnson nennt nun das Teufelskind beim Namen](https://www.nachdenkseiten.de/?p=125458)
+* [Halt‘ du sie dumm, ich halt‘ sie arm](https://www.nachdenkseiten.de/?p=125236)
 
 ### Audioangebot
 
