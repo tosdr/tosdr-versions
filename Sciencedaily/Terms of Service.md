@@ -229,16 +229,16 @@ this hour
 
 * * *
 
+* [Warming: Coral Adaptation Unlikely to Keep Pace](https://www.sciencedaily.com/releases/2024/11/241128200737.htm)
+* [Twice-Yearly Shot: 96% HIV Prevention](https://www.sciencedaily.com/releases/2024/11/241127191937.htm)
+* [Fossil Footprints: Ancient Hominins as Neighbors](https://www.sciencedaily.com/releases/2024/11/241128200732.htm)
+* [Mass Elephant Die-Off: Climate Change](https://www.sciencedaily.com/releases/2024/11/241129120944.htm)
+* [New Treatment for Asthma Attacks](https://www.sciencedaily.com/releases/2024/11/241127191934.htm)
+* [Early N. Americans Made Needles from Fur-Bearers](https://www.sciencedaily.com/releases/2024/11/241127165731.htm)
+* [VR Goes Inside the ‘Swat Team’](https://www.sciencedaily.com/releases/2024/11/241126135834.htm)
+* [Clues to Dinosaur Success Story: Fossil Dung](https://www.sciencedaily.com/releases/2024/11/241127135506.htm)
 * [Nanorobot Hand Made of DNA Grabs Viruses](https://www.sciencedaily.com/releases/2024/11/241127165721.htm)
 * [Unexplained Heat-Wave 'Hotspots'](https://www.sciencedaily.com/releases/2024/11/241126145331.htm)
-* [Discovering the Traits of Extinct Birds](https://www.sciencedaily.com/releases/2024/11/241127165718.htm)
-* [Moving 'Hotspot' Made Underwater Mountain Belt](https://www.sciencedaily.com/releases/2024/11/241127140243.htm)
-* [Simple Secret to Living a Longer Life](https://www.sciencedaily.com/releases/2024/11/241126215133.htm)
-* [Complex Chimpanzee Cultures](https://www.sciencedaily.com/releases/2024/11/241127135912.htm)
-* [World's Oldest Lizard Wins Fossil Fight](https://www.sciencedaily.com/releases/2024/11/241126191725.htm)
-* [Animal Characters Good for Kids](https://www.sciencedaily.com/releases/2024/11/241122130629.htm)
-* [Brain Test Shows That Crabs Process Pain](https://www.sciencedaily.com/releases/2024/11/241126135832.htm)
-* [One Star System Generating Radio Waves](https://www.sciencedaily.com/releases/2024/11/241126135731.htm)
 
 Trending Topics
 ---------------
@@ -251,25 +251,25 @@ this week
 
 [Chronic Illness](https://www.sciencedaily.com/news/health_medicine/chronic_illness/)
 
-[Brain-Computer Interfaces](https://www.sciencedaily.com/news/mind_brain/brain-computer_interfaces/)
+[COVID and SARS](https://www.sciencedaily.com/news/health_medicine/covid_and_sars/)
 
-[Health Policy](https://www.sciencedaily.com/news/health_medicine/health_policy/)
+[Prostate Cancer](https://www.sciencedaily.com/news/health_medicine/prostate_cancer/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Spintronics](https://www.sciencedaily.com/news/matter_energy/spintronics/)
+[Nanotechnology](https://www.sciencedaily.com/news/matter_energy/nanotechnology/)
+
+[Electronics](https://www.sciencedaily.com/news/matter_energy/electronics/)
 
 [Graphene](https://www.sciencedaily.com/news/matter_energy/graphene/)
-
-[Nanotechnology](https://www.sciencedaily.com/news/matter_energy/nanotechnology/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
 [Birds](https://www.sciencedaily.com/news/plants_animals/birds/)
 
-[Cell Biology](https://www.sciencedaily.com/news/plants_animals/cell_biology/)
+[New Species](https://www.sciencedaily.com/news/plants_animals/new_species/)
 
-[Behavioral Science](https://www.sciencedaily.com/news/plants_animals/behavior/)
+[Genetically Modified](https://www.sciencedaily.com/news/plants_animals/genetically_modified/)
 
   
 
