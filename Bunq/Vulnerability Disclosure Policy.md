@@ -661,7 +661,7 @@ Discover
 
 [Compare Plans](https://www.bunq.com/assets/media/legal/en/plans)
 
-[Pricing](https://www.bunq.com/assets/media/legal/en/)
+[Pricing](https://www.bunq.com/assets/media/legal/en/pricing)
 
 [Mortgages](https://mortgages.bunq.com/)
 
@@ -739,7 +739,7 @@ Discover
 
 [Compare Plans](https://www.bunq.com/assets/media/legal/en/plans)
 
-[Pricing](https://www.bunq.com/assets/media/legal/en/)
+[Pricing](https://www.bunq.com/assets/media/legal/en/pricing)
 
 [Mortgages](https://mortgages.bunq.com/)
 
@@ -817,7 +817,7 @@ Discover
 
 [Compare Plans](https://www.bunq.com/assets/media/legal/en/plans)
 
-[Pricing](https://www.bunq.com/assets/media/legal/en/)
+[Pricing](https://www.bunq.com/assets/media/legal/en/pricing)
 
 [Mortgages](https://mortgages.bunq.com/)
 
