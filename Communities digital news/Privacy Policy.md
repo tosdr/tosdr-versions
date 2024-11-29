@@ -26,41 +26,41 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-palm-beach-murder-1200x630.jpg)](https://americanwirenews.com/florida-golfer-brutally-murdered-by-half-naked-man-in-random-act-of-violence/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-vladimir-putin-1200x630.png)](https://americanwirenews.com/putin-says-a-smart-and-experienced-trump-will-find-a-solution-to-ukraine-conflict/)
 
-[Florida golfer brutally murdered by half-naked man in ‘random act of violence’](https://americanwirenews.com/florida-golfer-brutally-murdered-by-half-naked-man-in-random-act-of-violence/)
+[Putin says a ‘smart and experienced’ Trump will find a ‘solution’ to Ukraine conflict](https://americanwirenews.com/putin-says-a-smart-and-experienced-trump-will-find-a-solution-to-ukraine-conflict/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-trump-maralago-1200x630.jpg)](https://americanwirenews.com/trump-transition-team-puts-hold-on-fbi-background-checks-until-bureau-takeover-report/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-bus-abbott-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/texas-could-start-busing-migrants-directly-to-ice-for-deportation/)
 
-[Trump transition team puts hold on FBI background checks until bureau takeover: report](https://americanwirenews.com/trump-transition-team-puts-hold-on-fbi-background-checks-until-bureau-takeover-report/)
+[Texas could start busing migrants directly to ICE for deportation instead of sanctuary cities](https://americanwirenews.com/texas-could-start-busing-migrants-directly-to-ice-for-deportation/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/08/sg-obama-1200x630.png)](https://americanwirenews.com/the-balls-on-this-guy-obama-touts-pluralism-roll-out-after-thanksgiving-holiday/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/screenshot-2024-11-29-071920-1200x630.jpg)](https://americanwirenews.com/trump-shares-hilarious-christmas-vacation-video-mocking-biden-kamala-other-dems/)
 
-[‘The balls on this guy’: Obama touts ‘pluralism’ roll out after Thanksgiving holiday](https://americanwirenews.com/the-balls-on-this-guy-obama-touts-pluralism-roll-out-after-thanksgiving-holiday/)
+[Trump shares hilarious ‘Christmas Vacation’ video mocking Biden, Kamala, other Dems](https://americanwirenews.com/trump-shares-hilarious-christmas-vacation-video-mocking-biden-kamala-other-dems/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-sunny-hostin-1-1200x630.png)](https://americanwirenews.com/sunny-hostin-fact-checked-into-oblivion-over-claim-trump-never-talked-about-egg-prices/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/trump-mar-a-lago-thanksgiving-1200x630.jpg)](https://americanwirenews.com/thanksgiving-day-with-the-trumps-watch-footage-from-mar-a-lago/)
 
-[Sunny Hostin fact-checked into oblivion over claim Trump ‘never talked about’ egg prices](https://americanwirenews.com/sunny-hostin-fact-checked-into-oblivion-over-claim-trump-never-talked-about-egg-prices/)
+[Thanksgiving Day with the Trump’s: Watch footage from Mar-a-Lago](https://americanwirenews.com/thanksgiving-day-with-the-trumps-watch-footage-from-mar-a-lago/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-msnbc-1200x630.jpg)](https://americanwirenews.com/msnbc-post-election-ratings-collapse-results-in-loss-of-nearly-half-of-viewers/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-liz-krueger-1200x630.jpg)](https://americanwirenews.com/state-senator-wants-to-fight-trump-by-withholding-taxes-proposes-new-york-secede-to-canada/)
 
-[MSNBC post-election ratings collapse results in loss of nearly half of viewers](https://americanwirenews.com/msnbc-post-election-ratings-collapse-results-in-loss-of-nearly-half-of-viewers/)
+[State senator wants to fight Trump by withholding taxes, proposes New York secede to Canada](https://americanwirenews.com/state-senator-wants-to-fight-trump-by-withholding-taxes-proposes-new-york-secede-to-canada/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-rogan-kelly-1200x630.jpg)](https://americanwirenews.com/will-cain-says-joe-rogan-megyn-kelly-earned-seats-in-trump-white-house-briefing-room/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-vindman-sg-musk-1200x630.jpg)](https://americanwirenews.com/treason-musks-response-to-vindman-libelous-rant-against-him-re-triggers-liberal-hero/)
 
-[Will Cain says Joe Rogan, Megyn Kelly ‘earned’ seats in Trump White House briefing room](https://americanwirenews.com/will-cain-says-joe-rogan-megyn-kelly-earned-seats-in-trump-white-house-briefing-room/)
+[‘Treason’: Musk’s response to Vindman libelous rant against him re-triggers liberal hero](https://americanwirenews.com/treason-musks-response-to-vindman-libelous-rant-against-him-re-triggers-liberal-hero/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-uatx-1200x630.jpg)](https://americanwirenews.com/woke-is-waning-university-of-austin-opts-for-merit-based-initiatives-over-dei/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-joe-julianassange-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/bipartisan-duo-of-lawmakers-urge-biden-to-pardon-julian-assange/)
 
-[‘Woke’ is waning: University of Austin opts for merit-based initiatives over DEI](https://americanwirenews.com/woke-is-waning-university-of-austin-opts-for-merit-based-initiatives-over-dei/)
+[Bipartisan duo of lawmakers urge Biden to pardon Julian Assange](https://americanwirenews.com/bipartisan-duo-of-lawmakers-urge-biden-to-pardon-julian-assange/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2023/09/SG-Omar-1200x630.jpg)](https://americanwirenews.com/squad-member-ilhan-omar-calls-kamalas-embrace-of-liz-cheney-a-huge-misstep/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-harris-emhoff-tksgvng-1200x630.jpg)](https://americanwirenews.com/kamala-makes-thanksgiving-day-message-in-same-outfit-as-drunk-sounding-post-loss-video/)
 
-[‘Squad’ member Ilhan Omar calls Kamala’s embrace of Liz Cheney a ‘huge misstep’](https://americanwirenews.com/squad-member-ilhan-omar-calls-kamalas-embrace-of-liz-cheney-a-huge-misstep/)
+[Kamala makes Thanksgiving Day message in same outfit as ‘drunk sounding’ post-loss video](https://americanwirenews.com/kamala-makes-thanksgiving-day-message-in-same-outfit-as-drunk-sounding-post-loss-video/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2023/12/SG-DC-Police-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-reidturkeyday-1200-x-628-1200x630.jpg)
 
-### ‘Un-American’: Trump spox says cabinet nominees targeted with bomb threats, swatting](https://americanwirenews.com/un-american-trump-spox-says-cabinet-nominees-targeted-with-bomb-threats-swatting/)
+### Joy Reid’s venomous Thanksgiving message to Republicans is latest MSNBC disgrace](https://americanwirenews.com/joy-reids-venomous-thanksgiving-message-to-republicans-is-latest-msnbc-disgrace/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -77,6 +77,10 @@ Search for:
 ### [Newsom makes ‘insane’ move against Elon Musk, proposes electric car rebates that exclude Tesla](https://americanwirenews.com/newsom-makes-insane-move-against-elon-musk-proposes-electric-car-rebates-that-exclude-tesla/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-antonio-pierce-220x180.png)](https://americanwirenews.com/nfl-coach-makes-brutal-assessment-of-team-before-black-friday-game/)
+
+[NFL coach makes brutal assessment of team before Black Friday game](https://americanwirenews.com/nfl-coach-makes-brutal-assessment-of-team-before-black-friday-game/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-liz-cheney-220x180.jpg)](https://americanwirenews.com/leave-it-to-juan-williams-to-tout-heroic-liz-cheney-as-politician-of-the-year/)
 
@@ -175,10 +179,6 @@ Search for:
 [DOJ indicts former ABC news anchor and hubby over alleged COVID loan fraud](https://americanwirenews.com/doj-indicts-former-abc-news-anchor-and-hubby-over-alleged-covid-loan-fraud/)
 
 Getty Images
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-newsguard-rating-220x180.jpg)](https://americanwirenews.com/its-nuts-influential-media-watchdog-awards-wapo-a-perfect-score/)
-
-[‘It’s nuts!’ Influential media ‘watchdog’ awards WaPo a perfect score](https://americanwirenews.com/its-nuts-influential-media-watchdog-awards-wapo-a-perfect-score/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
