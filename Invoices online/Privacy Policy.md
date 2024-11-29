@@ -117,57 +117,61 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Fast, Accurate & Easy to Use
-> ----------------------------
+> Wish I started ages ago!
+> ------------------------
 > 
-> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
+> I just want to compliment you and your team for an amazing back office software.
+> 
+> I have been struggling with a proper invoicing solution for six months now (to make time each month)
+> 
+> I just wish I started using Invoices Online ages ago.
 
-Jannie Schutte - myFinance-Online.co.za
+Terri Winfield
 
-![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=04d5c4b1686a569447fcb7d603fa18bbb7ac2c352a6b102ee36102978208a2f3&c=3637684)  
-Myfinance-Online
+![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=b4218c53e6db76ce31660f06653efd9f246ccebb1b507f3ce3a879392834bcfd&c=160959882)  
+CBR Verwe/Paints
 
-![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=04d5c4b1686a569447fcb7d603fa18bbb7ac2c352a6b102ee36102978208a2f3&c=2283296)  
-RADIO TYGERBERG 104FM NPC
+![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=b4218c53e6db76ce31660f06653efd9f246ccebb1b507f3ce3a879392834bcfd&c=105359916)  
+Moremi Kitchens Rustenburg
 
-![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=04d5c4b1686a569447fcb7d603fa18bbb7ac2c352a6b102ee36102978208a2f3&c=116770822)  
-Blue Sky Solar Services
+![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=b4218c53e6db76ce31660f06653efd9f246ccebb1b507f3ce3a879392834bcfd&c=87266888)  
+Lily Fern & Co
 
-![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=04d5c4b1686a569447fcb7d603fa18bbb7ac2c352a6b102ee36102978208a2f3&c=67660127)  
-INVOICES/JOBCARDS ONLINE
+![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=b4218c53e6db76ce31660f06653efd9f246ccebb1b507f3ce3a879392834bcfd&c=120848282)  
+NEW BEGINNINGS DESIGNS
 
-![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=04d5c4b1686a569447fcb7d603fa18bbb7ac2c352a6b102ee36102978208a2f3&c=109425217)  
-Goju-Ryu Pretoria East
+![valued client African Roots](https://www.invoicesonline.co.za/scripts/image.php?bid=1000&file=logo_300_100&type=&fe=b4218c53e6db76ce31660f06653efd9f246ccebb1b507f3ce3a879392834bcfd&c=142962320)  
+African Roots
 
-![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=04d5c4b1686a569447fcb7d603fa18bbb7ac2c352a6b102ee36102978208a2f3&c=125171113)  
-FRAMED BY ANTON (Pty) Ltd.
+![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=b4218c53e6db76ce31660f06653efd9f246ccebb1b507f3ce3a879392834bcfd&c=187583507)  
+Waterfinatics Swim School
 
-![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=04d5c4b1686a569447fcb7d603fa18bbb7ac2c352a6b102ee36102978208a2f3&c=118963431)  
-OptaServ
+![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=b4218c53e6db76ce31660f06653efd9f246ccebb1b507f3ce3a879392834bcfd&c=52586624)  
+MOSELA GROUP Pty(ltd)
 
-![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=04d5c4b1686a569447fcb7d603fa18bbb7ac2c352a6b102ee36102978208a2f3&c=68560090)  
-Highlands Auto Engineering
+![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=b4218c53e6db76ce31660f06653efd9f246ccebb1b507f3ce3a879392834bcfd&c=104752135)  
+Baby Toddles Infant Care
 
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=04d5c4b1686a569447fcb7d603fa18bbb7ac2c352a6b102ee36102978208a2f3&c=33127113)  
-West Coast Horse Trails
+![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=b4218c53e6db76ce31660f06653efd9f246ccebb1b507f3ce3a879392834bcfd&c=39141418)  
+Moving Made Easy (PTY) Ltd
 
-![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=04d5c4b1686a569447fcb7d603fa18bbb7ac2c352a6b102ee36102978208a2f3&c=151883349)  
-Blue Bulls Rugby Coaches Association
+![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=b4218c53e6db76ce31660f06653efd9f246ccebb1b507f3ce3a879392834bcfd&c=96355493)  
+Well Hung Art
 
-![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=04d5c4b1686a569447fcb7d603fa18bbb7ac2c352a6b102ee36102978208a2f3&c=63660065)  
-Dombieterfontein (PTY) LTD
+![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=b4218c53e6db76ce31660f06653efd9f246ccebb1b507f3ce3a879392834bcfd&c=137307544)  
+van Schaik rentals
 
-![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=04d5c4b1686a569447fcb7d603fa18bbb7ac2c352a6b102ee36102978208a2f3&c=152720499)  
-Goju Ryu Karate Centre
+![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=b4218c53e6db76ce31660f06653efd9f246ccebb1b507f3ce3a879392834bcfd&c=118071106)  
+Safe-Train Consulting (PTY) Ltd
 
-![valued client FlipDesign - Renovation Contracting Firm](https://www.invoicesonline.co.za/scripts/image.php?bid=8663&file=logo_300_100&type=&fe=04d5c4b1686a569447fcb7d603fa18bbb7ac2c352a6b102ee36102978208a2f3&c=200379585)  
-FlipDesign - Renovation Contracting Firm
+![valued client Moulded Wax SA - The Candle Store](https://www.invoicesonline.co.za/scripts/image.php?bid=8218&file=logo_300_100&type=&fe=b4218c53e6db76ce31660f06653efd9f246ccebb1b507f3ce3a879392834bcfd&c=169574285)  
+Moulded Wax SA - The Candle Store
 
-![valued client Safe Train Mokgethwa (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8103&file=logo_300_100&type=&fe=04d5c4b1686a569447fcb7d603fa18bbb7ac2c352a6b102ee36102978208a2f3&c=23642507)  
-Safe Train Mokgethwa (PTY) Ltd
+![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=b4218c53e6db76ce31660f06653efd9f246ccebb1b507f3ce3a879392834bcfd&c=51949962)  
+Kaylas Creations
 
-![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=04d5c4b1686a569447fcb7d603fa18bbb7ac2c352a6b102ee36102978208a2f3&c=38052261)  
-SA Security Brokerz (Pty) Ltd
+![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=b4218c53e6db76ce31660f06653efd9f246ccebb1b507f3ce3a879392834bcfd&c=68830420)  
+webb it services
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
