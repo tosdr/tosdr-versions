@@ -9,6 +9,12 @@ Terms of Use
 
 You must read and agree to these terms before submitting your site, server or gaming community.
 
+**🚨 Black Friday Promo: Pay 50% less Credits for all Premium and get 10% MORE CREDITS on ANY Purchase! 🚨**  
+Promo is ending in 2 days, 6 hours, and 45 minutes.. Don't miss out on this exclusive deal—stock up on credits now.  
+👉 [Click here to buy credits](https://topg.org/buy_credits) and claim your bonus before time runs out!
+
+\-
+
 Please take a moment to review these rules detailed below. If you agree with them you may add your site or server to the top list.  
 All websites and gaming servers listed on this top are submitted for free by users registered on this top. Visiting these websites is your own choice of action by clicking the link to those websites, at your own risk. Our company only moderates the content of this top.  
   
