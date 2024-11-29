@@ -480,6 +480,14 @@ Revised June 1, 2022
 
   [![Packages move along a conveyor belt at an Amazon warehouse](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/27/436814.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Packages move along a conveyor belt at an Amazon warehouse")](https://www.japantimes.co.jp/business/2024/11/27/companies/jftc-amazon-japan/ "Japan investigating Amazon for allegedly bullying other businesses")
 
+[Tokyo’s take on that viral chocolate from Dubai](https://www.japantimes.co.jp/life/2024/11/28/food-drink/dubai-chocolate-japan-tokyo/ "Tokyo’s take on that viral chocolate from Dubai")
+
+  [![Cafe N°_5's take on the Dubai chocolate craze that has been circulating on social media over the past few months is a mix of bitter and sweet. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/27/436831.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Cafe N°_5's take on the Dubai chocolate craze that has been circulating on social media over the past few months is a mix of bitter and sweet. ")](https://www.japantimes.co.jp/life/2024/11/28/food-drink/dubai-chocolate-japan-tokyo/ "Tokyo’s take on that viral chocolate from Dubai")
+
+[Japan researchers develop a simple way to spot signs of Alzheimer's disease](https://www.japantimes.co.jp/news/2024/11/28/japan/science-health/keio-university-alzheimers/ "Japan researchers develop a simple way to spot signs of Alzheimer's disease")
+
+  [![In 2022, the number of elderly people with dementia in Japan reached 4.43 million, according to data from the health ministry. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/28/436797.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "In 2022, the number of elderly people with dementia in Japan reached 4.43 million, according to data from the health ministry. ")](https://www.japantimes.co.jp/news/2024/11/28/japan/science-health/keio-university-alzheimers/ "Japan researchers develop a simple way to spot signs of Alzheimer's disease")
+
 [‘What Divides Us’ producer honors grandfather’s Hiroshima reportage](https://www.japantimes.co.jp/culture/2024/11/27/film/what-divides-us-hiroshima/ "‘What Divides Us’ producer honors grandfather’s Hiroshima reportage")
 
   [![“What Divides Us" producer Cannon Hersey says his grandfather, who wrote about the aftermath of nuclear destruction in Hiroshima, never spoke about what he had seen while working with Japanese minister Kiyoshi Tanimoto to preserve the stories of survivors.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/27/436856.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "“What Divides Us" producer Cannon Hersey says his grandfather, who wrote about the aftermath of nuclear destruction in Hiroshima, never spoke about what he had seen while working with Japanese minister Kiyoshi Tanimoto to preserve the stories of survivors.")](https://www.japantimes.co.jp/culture/2024/11/27/film/what-divides-us-hiroshima/ "‘What Divides Us’ producer honors grandfather’s Hiroshima reportage")
@@ -495,10 +503,6 @@ Revised June 1, 2022
 [China defense minister being investigated for corruption, report says](https://www.japantimes.co.jp/news/2024/11/27/asia-pacific/politics/china-defense-minister-corruption-dong-jun/ "China defense minister being investigated for corruption, report says")
 
   [![Chinese Defense Minister Dong Jun attends the opening ceremony of the Xiangshan Forum at the Beijing International Convention Center on Sept. 13. Dong is the third consecutive incumbent or former defense chief to be probed over alleged corruption.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/27/436546.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Chinese Defense Minister Dong Jun attends the opening ceremony of the Xiangshan Forum at the Beijing International Convention Center on Sept. 13. Dong is the third consecutive incumbent or former defense chief to be probed over alleged corruption.")](https://www.japantimes.co.jp/news/2024/11/27/asia-pacific/politics/china-defense-minister-corruption-dong-jun/ "China defense minister being investigated for corruption, report says")
-
-[How Japan can exit the fossil fuel subsidies it can’t seem to quit](https://www.japantimes.co.jp/environment/2024/11/24/energy/fossil-fuel-subsidies-quit/ "How Japan can exit the fossil fuel subsidies it can’t seem to quit")
-
-  [![A man walks past a gasoline station in Tokyo on Thursday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/24/435734.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A man walks past a gasoline station in Tokyo on Thursday.")](https://www.japantimes.co.jp/environment/2024/11/24/energy/fossil-fuel-subsidies-quit/ "How Japan can exit the fossil fuel subsidies it can’t seem to quit")
 
 Podcast
 -------
@@ -561,25 +565,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Consumer inflation speeds up amid BOJ rate hike speculation](https://www.japantimes.co.jp/business/2024/11/29/economy/tokyo-cpi-speeds-up/ "Consumer inflation speeds up amid BOJ rate hike speculation")
+[Tokyo police arrest six Chinese nationals over _yami baito_ scheme](https://www.japantimes.co.jp/news/2024/11/29/japan/crime-legal/chinese-arrest-kidnapping/ "Tokyo police arrest six Chinese nationals over yami baito scheme")
 
-8 mins ago
+2 hours ago
 
-[Japanese food makers to raise prices for 109 items in December](https://www.japantimes.co.jp/business/2024/11/29/economy/japanese-food-price-rise/ "Japanese food makers to raise prices for 109 items in December")
+[Uniqlo risks boycott in China after CEO's Xinjiang comment](https://www.japantimes.co.jp/business/2024/11/29/companies/uniqlo-boycott-risk-china/ "Uniqlo risks boycott in China after CEO's Xinjiang comment")
 
-39 mins ago
+2 hours ago
 
-[U.K. Parliament to hold first vote on assisted dying in nine years](https://www.japantimes.co.jp/news/2024/11/29/world/crime-legal/uk-assisted-dying-vote/ "U.K. Parliament to hold first vote on assisted dying in nine years")
+[Chinese man pleads guilty to role in vandalizing Yasukuni Shrine](https://www.japantimes.co.jp/news/2024/11/29/japan/crime-legal/yasukuni-vandalism-trial/ "Chinese man pleads guilty to role in vandalizing Yasukuni Shrine")
 
-57 mins ago
+3 hours ago
 
-[MUFG considering bid for Japanese robo-adviser WealthNavi](https://www.japantimes.co.jp/business/2024/11/29/companies/mufg-bid-wealthnavi/ "MUFG considering bid for Japanese robo-adviser WealthNavi")
+[Yen breaches key ¥150 level as Tokyo inflation fuels BOJ bets](https://www.japantimes.co.jp/business/2024/11/29/markets/yen-breaches-150-level/ "Yen breaches key ¥150 level as Tokyo inflation fuels BOJ bets")
 
-57 mins ago
+3 hours ago
 
-[Osaka court acquits man of fatally injuring 2-year-old daughter](https://www.japantimes.co.jp/news/2024/11/29/japan/crime-legal/overturned-conviction-father/ "Osaka court acquits man of fatally injuring 2-year-old daughter")
+[Denso and Fuji Electric to get government aid for power chips](https://www.japantimes.co.jp/business/2024/11/29/companies/denso-fuji-electric-power-chip-aid/ "Denso and Fuji Electric to get government aid for power chips")
 
-1 hour ago
+3 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
