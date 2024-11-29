@@ -1,4 +1,4 @@
-[Introducing Prusa CORE One](https://www.prusa3d.com/product/prusa-core-one/): Our new fully-enclosed CoreXY 3D printer with active chamber temperature control!
+[Black Friday & Cyber Monday 2024](https://www.prusa3d.com/category/black-friday/): 3D printer discounts, free shipping, extra gifts and CORE One Conversion Kit vouchers!
 
 Shipping to
 
