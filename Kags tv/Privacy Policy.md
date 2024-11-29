@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.kagstv.com/assets/WCNC/images/e1af1307-1fd0-451d-8628-fcc0a404fba3/e1af1307-1fd0-451d-8628-fcc0a404fba3_16x9.jpg) ![](https://media.kagstv.com/assets/WCNC/images/e1af1307-1fd0-451d-8628-fcc0a404fba3/e1af1307-1fd0-451d-8628-fcc0a404fba3_360x203.jpg)](https://www.kagstv.com/article/news/local/black-friday-losing-popularity/275-9a2301f1-5753-45bb-a7af-5717cde473f2)
+        
+        #### [Why is Black Friday losing popularity?](https://www.kagstv.com/article/news/local/black-friday-losing-popularity/275-9a2301f1-5753-45bb-a7af-5717cde473f2)
+        
     *  [![](https://media.kagstv.com/assets/KCEN/images/fd35d786-d00e-44d2-9fe0-0cfdad9f3799/20241127T212419/fd35d786-d00e-44d2-9fe0-0cfdad9f3799_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/fd35d786-d00e-44d2-9fe0-0cfdad9f3799/20241127T212419/fd35d786-d00e-44d2-9fe0-0cfdad9f3799_360x203.jpg)](https://www.kagstv.com/article/news/local/bryan-police-searching-missing-man/500-fb919004-a70c-45e4-a4dc-ba628faebab8)
         
         #### [Bryan man found safe after being reported missing](https://www.kagstv.com/article/news/local/bryan-police-searching-missing-man/500-fb919004-a70c-45e4-a4dc-ba628faebab8)
-        
-    *  [![](https://media.kagstv.com/assets/KHOU/images/0b2bd420-8e57-4dcb-a350-4a84f25397b2/20241128T041012/0b2bd420-8e57-4dcb-a350-4a84f25397b2_16x9.jpg) ![](https://media.kagstv.com/assets/KHOU/images/0b2bd420-8e57-4dcb-a350-4a84f25397b2/20241128T041012/0b2bd420-8e57-4dcb-a350-4a84f25397b2_360x203.jpg)](https://www.kagstv.com/article/news/local/china-us-prisoner-swap-mark-swidan-kai-li-and-john-leung/285-f4b4a127-4d3c-4d04-92ea-e793d9c197af)
-        
-        #### [Houston man among prisoners released as part of US deal with China, White House says](https://www.kagstv.com/article/news/local/china-us-prisoner-swap-mark-swidan-kai-li-and-john-leung/285-f4b4a127-4d3c-4d04-92ea-e793d9c197af)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-41°
+43°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
