@@ -28,12 +28,12 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250701)
 * [Men's Test
     
-    Day 1
+    Day 2 Session 2
     
     |     |     |
     | --- | --- |
-    | NZL | 8 /319 |
-    | ENG |     |
+    | NZL | 348 |
+    | ENG | 4 /108 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250801)
 * [Women's BBL
@@ -50,12 +50,12 @@ FOX SCORES
     
 * [European Tour
     
-    Round 1
+    Round 2
     
     |     |
     | --- |
     | Australia Open |
-    | L. Herbert leads by 1 |
+    | J. Gumberg leads by 1 |
     
     Match Centre](https://www.foxsports.com.au/golf/match?matchid=ISPS_Handa_Australia20250010013049F)
 * AFL
@@ -86,66 +86,46 @@ FOX SCORES
     
 * [NFL
     
-    3rd Qtr
+    Full Time
     
     |     |     |
     | --- | --- |
-    | DET | 16  |
-    | CHI | 7   |
+    | DET | 23  |
+    | CHI | 20  |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251301)
 * [NFL
     
-    29/11 8:30 AEST
+    1st Qtr
     
     |     |     |
     | --- | --- |
-    | DAL | –   |
-    | NYG | –   |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251302)
-* [NFL
-    
-    29/11 12:20 AEST
-    
-    |     |     |
-    | --- | --- |
-    | GB  | –   |
-    | MIA | –   |
+    | GB  | 7   |
+    | MIA | 0   |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251303)
+* [NFL
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | DAL | 27  |
+    | NYG | 20  |
+    
+    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251302)
 * Basketball
     
-* [NBA
+* [WNBL
     
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | PHO | 117 |
-    | BKN | 127 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010278/box-score)
-* [NBA
-    
-    Full Time
+    29/11 19:30 AEST
     
     |     |     |
     | --- | --- |
-    | GS  | 101 |
-    | OKC | 105 |
+    | ADL | –   |
+    | TWN | –   |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010280/box-score)
-* [NBL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | ILL | 109 |
-    | NZB | 71  |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25100001/play-by-play)
+    Match Centre](https://www.foxsports.com.au/basketball/wnbl/match-centre/WNBL2024-25050002)
 * [NBL
     
     29/11 19:30 AEST
@@ -166,16 +146,6 @@ FOX SCORES
     | BRI | –   |
     
     Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25100003)
-* [WNBL
-    
-    29/11 19:30 AEST
-    
-    |     |     |
-    | --- | --- |
-    | ADL | –   |
-    | TWN | –   |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/wnbl/match-centre/WNBL2024-25050002)
 * Football
     
 * [Women's Int
