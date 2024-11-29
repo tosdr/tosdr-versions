@@ -54,7 +54,7 @@
     * [Governance](https://www.orange.com/en/groups-general-management-committee)
         * Governance
         * [Orange's governance](https://www.orange.com/en/group/governance/oranges-governance)
-        * [Board of Directors](https://www.orange.com/en/board-directors-duties-and-members)
+        * [Board of Directors](https://www.orange.com/en/group/governance/board-of-directors)
         * [Board of Directors' specialised committees](https://www.orange.com/en/board-directors-specialised-committees)
         * [Executive Committee](https://www.orange.com/en/groups-general-management-committee)
         * [Internal Control Framework](https://www.orange.com/en/structure-and-organisation-orange-internal-control-framework-0)
