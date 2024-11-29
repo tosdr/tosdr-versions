@@ -459,4 +459,4 @@ COMPANY
 
 FOLLOW US
 
-[![](https://cdn.prod.website-files.com/66e28da2135dc201d50ee880/671f942a9f6a962e3f716dc7_Clip%20path%20group.png)](https://www.instagram.com/_domyshoot_/)![](https://cdn.prod.website-files.com/66e28da2135dc201d50ee880/671f942bb4bb9a61defdb4db_Vector%20(2).png)![](https://cdn.prod.website-files.com/66e28da2135dc201d50ee880/671f942c366aaba24b8842c5_Vector%20(3).png)![](https://cdn.prod.website-files.com/66e28da2135dc201d50ee880/671f942a4eda5b074ecb01cf_Clip%20path%20group%20(1).png)
+[![](https://cdn.prod.website-files.com/66e28da2135dc201d50ee880/671f942a9f6a962e3f716dc7_Clip%20path%20group.png)](https://www.instagram.com/_domyshoot_/)[![](https://cdn.prod.website-files.com/66e28da2135dc201d50ee880/671f942bb4bb9a61defdb4db_Vector%20(2).png)](https://www.facebook.com/domyshootbydresma/)[![](https://cdn.prod.website-files.com/66e28da2135dc201d50ee880/671f942c366aaba24b8842c5_Vector%20(3).png)](https://www.youtube.com/@domyshootbydresma3203/featured)[![](https://cdn.prod.website-files.com/66e28da2135dc201d50ee880/671f942a4eda5b074ecb01cf_Clip%20path%20group%20(1).png)](https://www.linkedin.com/company/dresma-ai/mycompany/)
