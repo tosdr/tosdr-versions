@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.kagstv.com/assets/WCNC/images/e1af1307-1fd0-451d-8628-fcc0a404fba3/e1af1307-1fd0-451d-8628-fcc0a404fba3_16x9.jpg) ![](https://media.kagstv.com/assets/WCNC/images/e1af1307-1fd0-451d-8628-fcc0a404fba3/e1af1307-1fd0-451d-8628-fcc0a404fba3_360x203.jpg)](https://www.kagstv.com/article/news/local/black-friday-losing-popularity/275-9a2301f1-5753-45bb-a7af-5717cde473f2)
+    *  [![](https://media.kagstv.com/assets/WTHR/images/dc1899fa-c189-4e00-a0d1-e36d47fc7194/20241128T213526/dc1899fa-c189-4e00-a0d1-e36d47fc7194_16x9.jpg) ![](https://media.kagstv.com/assets/WTHR/images/dc1899fa-c189-4e00-a0d1-e36d47fc7194/20241128T213526/dc1899fa-c189-4e00-a0d1-e36d47fc7194_360x203.jpg)](https://www.kagstv.com/article/news/local/security-camera-captures-man-set-car-fire-before-blows-up-east-indy-indianapolis-arson-explosion/531-8dab304b-9aa6-48e1-82be-41e9c07dc340)
         
-        #### [Why is Black Friday losing popularity?](https://www.kagstv.com/article/news/local/black-friday-losing-popularity/275-9a2301f1-5753-45bb-a7af-5717cde473f2)
+        #### ['I just had a baby' | Indiana mother's car set on fire before exploding in her neighborhood](https://www.kagstv.com/article/news/local/security-camera-captures-man-set-car-fire-before-blows-up-east-indy-indianapolis-arson-explosion/531-8dab304b-9aa6-48e1-82be-41e9c07dc340)
         
-    *  [![](https://media.kagstv.com/assets/KCEN/images/fd35d786-d00e-44d2-9fe0-0cfdad9f3799/20241127T212419/fd35d786-d00e-44d2-9fe0-0cfdad9f3799_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/fd35d786-d00e-44d2-9fe0-0cfdad9f3799/20241127T212419/fd35d786-d00e-44d2-9fe0-0cfdad9f3799_360x203.jpg)](https://www.kagstv.com/article/news/local/bryan-police-searching-missing-man/500-fb919004-a70c-45e4-a4dc-ba628faebab8)
+    *  [![](https://media.kagstv.com/assets/WTOL/images/c10ad3a3-1eb9-42c5-89c3-2c9e2bce1e6c/c10ad3a3-1eb9-42c5-89c3-2c9e2bce1e6c_16x9.jpg) ![](https://media.kagstv.com/assets/WTOL/images/c10ad3a3-1eb9-42c5-89c3-2c9e2bce1e6c/c10ad3a3-1eb9-42c5-89c3-2c9e2bce1e6c_360x203.jpg)](https://www.kagstv.com/article/news/local/escaped-juvenile-from-brazos-county-juvenile-detention-center/500-a2a29cb4-0a40-47d6-86c4-858ba7acd244)
         
-        #### [Bryan man found safe after being reported missing](https://www.kagstv.com/article/news/local/bryan-police-searching-missing-man/500-fb919004-a70c-45e4-a4dc-ba628faebab8)
+        #### [Authorities searching for juvenile that escaped from Brazos County Detention Center](https://www.kagstv.com/article/news/local/escaped-juvenile-from-brazos-county-juvenile-detention-center/500-a2a29cb4-0a40-47d6-86c4-858ba7acd244)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -86,7 +86,7 @@ Navigation
 
 Bryan, TX »
 
-43°
+61°
 
 ![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
