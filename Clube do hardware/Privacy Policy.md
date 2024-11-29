@@ -134,104 +134,104 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![Mathefox](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/imported-photo-1250151.thumb.jpeg.a9e689854070177e7f0e98ede656b916.jpeg)](https://www.clubedohardware.com.br/profile/1250151-mathefox/ "Ir ao perfil de Mathefox")
+    * [![theLucasXimenes](https://www.clubedohardware.com.br/uploads/members/monthly_2024_02/imported-photo-1239652.thumb.jpeg.be3c6ababe9c662590a9f81eca7f10db.jpeg)](https://www.clubedohardware.com.br/profile/1239652-thelucasximenes/ "Ir ao perfil de theLucasXimenes")
         
         2
         
-        [Esse processador é o Ryzen 7 5700x ou Ryzen 7 5700x3D](https://www.clubedohardware.com.br/forums/topic/1703909-esse-processador-%C3%A9-o-ryzen-7-5700x-ou-ryzen-7-5700x3d/?do=getNewComment "Esse processador é o Ryzen 7 5700x ou Ryzen 7 5700x3D")
+        [Indicação de fonte para Ryzen 7 5700X e futura Radeon RX 6750 XT](https://www.clubedohardware.com.br/forums/topic/1703956-indica%C3%A7%C3%A3o-de-fonte-para-ryzen-7-5700x-e-futura-radeon-rx-6750-xt/?do=getNewComment "Indicação de fonte para Ryzen 7 5700X e futura Radeon RX 6750 XT")
         
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [Mathefox](https://www.clubedohardware.com.br/profile/1250151-mathefox/ "Ir ao perfil de Mathefox")  
-        7 minutos atrás
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [theLucasXimenes](https://www.clubedohardware.com.br/profile/1239652-thelucasximenes/ "Ir ao perfil de theLucasXimenes")  
+        14 minutos atrás
         
-    * [![henrique andradee](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1257080.thumb.jpeg.00f97016f0e033ef861164ee72d89b7f.jpeg)](https://www.clubedohardware.com.br/profile/1257080-henrique-andradee/ "Ir ao perfil de henrique andradee")
+    * [![NoobZero](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c4b5%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EN%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1145034-noobzero/ "Ir ao perfil de NoobZero")
         
         3
         
-        [Montagem de PC - o que mudariam?](https://www.clubedohardware.com.br/forums/topic/1703907-montagem-de-pc-o-que-mudariam/?do=getNewComment "Montagem de PC - o que mudariam?")
+        [SSDs da Lexar e Gamer Ninja Shuriken são confiáveis?](https://www.clubedohardware.com.br/forums/topic/1703955-ssds-da-lexar-e-gamer-ninja-shuriken-s%C3%A3o-confi%C3%A1veis/?do=getNewComment "SSDs da Lexar e Gamer Ninja Shuriken são confiáveis?")
         
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [henrique andradee](https://www.clubedohardware.com.br/profile/1257080-henrique-andradee/ "Ir ao perfil de henrique andradee")  
-        24 minutos atrás
+        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
+        Por [NoobZero](https://www.clubedohardware.com.br/profile/1145034-noobzero/ "Ir ao perfil de NoobZero")  
+        22 minutos atrás
         
-    * [![grehgrthrhtrhtrhrth](https://www.clubedohardware.com.br/uploads/members/monthly_2024_06/imported-photo-1208740.thumb.jpeg.23d5693f7c48e4efb23f0e3f9ab0144f.jpeg)](https://www.clubedohardware.com.br/profile/1208740-grehgrthrhtrhtrhrth/ "Ir ao perfil de grehgrthrhtrhtrhrth")
+    * [![Jonathan55](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1257109.thumb.jpeg.078bde6fbe5c1a2d6286f5077ee49b2c.jpeg)](https://www.clubedohardware.com.br/profile/1257109-jonathan55/ "Ir ao perfil de Jonathan55")
         
-        2
+        0
         
-        [Goataria de saber se é um bom preço a pagar nesse headset](https://www.clubedohardware.com.br/forums/topic/1703906-goataria-de-saber-se-%C3%A9-um-bom-pre%C3%A7o-a-pagar-nesse-headset/?do=getNewComment "Goataria de saber se é um bom preço a pagar nesse headset")
+        [Headsets Redragon Wireless podem ser conectados via cabo no controle?](https://www.clubedohardware.com.br/forums/topic/1703953-headsets-redragon-wireless-podem-ser-conectados-via-cabo-no-controle/?do=getNewComment "Headsets Redragon Wireless podem ser conectados via cabo no controle?")
         
         [Caixas de som, fones, microfones e headsets](https://www.clubedohardware.com.br/forums/forum/144-caixas-de-som-fones-microfones-e-headsets/ "Caixas de som, fones, microfones e headsets")  
-        Por [grehgrthrhtrhtrhrth](https://www.clubedohardware.com.br/profile/1208740-grehgrthrhtrhtrhrth/ "Ir ao perfil de grehgrthrhtrhtrhrth")  
-        28 minutos atrás
+        Por [Jonathan55](https://www.clubedohardware.com.br/profile/1257109-jonathan55/ "Ir ao perfil de Jonathan55")  
+        33 minutos atrás
         
-    * [![Tocci](https://www.clubedohardware.com.br/uploads/members/monthly_2023_12/imported-photo-1235201.thumb.png.c834fd7ba8b1c1936bec2dd58f98c777.png)](https://www.clubedohardware.com.br/profile/1235201-tocci/ "Ir ao perfil de Tocci")
-        
-        0
-        
-        [Computador All in one HP pavillion 23 não liga.](https://www.clubedohardware.com.br/forums/topic/1703905-computador-all-in-one-hp-pavillion-23-n%C3%A3o-liga/?do=getNewComment "Computador All in one HP pavillion 23 não liga.")
-        
-        [Eletrônica](https://www.clubedohardware.com.br/forums/forum/30-eletr%C3%B4nica/ "Eletrônica")  
-        Por [Tocci](https://www.clubedohardware.com.br/profile/1235201-tocci/ "Ir ao perfil de Tocci")  
-        30 minutos atrás
-        
-    * [![João Samuel](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1257079.thumb.png.b46137de0c991766a4b03bd95a786a59.png)](https://www.clubedohardware.com.br/profile/1257079-jo%C3%A3o-samuel/ "Ir ao perfil de João Samuel")
+    * [![crxlive](https://www.clubedohardware.com.br/uploads/members/monthly_2021_01/imported-photo-1137149.thumb.png.80ef0824562845c60e770996febb38c2.png)](https://www.clubedohardware.com.br/profile/1137149-crxlive/ "Ir ao perfil de crxlive")
         
         0
         
-        [Rx 7800 xt 16gb](https://www.clubedohardware.com.br/forums/topic/1703904-rx-7800-xt-16gb/?do=getNewComment "Rx 7800 xt 16gb")
+        [Quanto vale meu PC: ASUS H510M-e, Core i5-10400, 16GB e Radeon RX 570?](https://www.clubedohardware.com.br/forums/topic/1703951-quanto-vale-meu-pc-asus-h510m-e-core-i5-10400-16gb-e-radeon-rx-570/?do=getNewComment "Quanto vale meu PC: ASUS H510M-e, Core i5-10400, 16GB e Radeon RX 570?")
         
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [João Samuel](https://www.clubedohardware.com.br/profile/1257079-jo%C3%A3o-samuel/ "Ir ao perfil de João Samuel")  
-        36 minutos atrás
+        [Quanto vale meu equipamento usado?](https://www.clubedohardware.com.br/forums/forum/174-quanto-vale-meu-equipamento-usado/ "Quanto vale meu equipamento usado?")  
+        Por [crxlive](https://www.clubedohardware.com.br/profile/1137149-crxlive/ "Ir ao perfil de crxlive")  
+        48 minutos atrás
         
-    * [![Davi Labre](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1249693.thumb.png.0c86ecafb58a24d6f0f05850aeb15dd9.png)](https://www.clubedohardware.com.br/profile/1249693-davi-labre/ "Ir ao perfil de Davi Labre")
-        
-        0
-        
-        [Recomendações de Teclado e Headset com até 700 reais de orçamento](https://www.clubedohardware.com.br/forums/topic/1703903-recomenda%C3%A7%C3%B5es-de-teclado-e-headset-com-at%C3%A9-700-reais-de-or%C3%A7amento/?do=getNewComment "Recomendações de Teclado e Headset com até 700 reais de orçamento")
-        
-        [Periféricos - outros](https://www.clubedohardware.com.br/forums/forum/280-perif%C3%A9ricos-outros/ "Periféricos - outros")  
-        Por [Davi Labre](https://www.clubedohardware.com.br/profile/1249693-davi-labre/ "Ir ao perfil de Davi Labre")  
-        38 minutos atrás
-        
-    * [![emptypage](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2377c462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EE%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/573915-emptypage/ "Ir ao perfil de emptypage")
+    * [![zaki_.is](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1247229.thumb.jpeg.de8690cefbecceeced4c813e161dcae7.jpeg)](https://www.clubedohardware.com.br/profile/1247229-zaki_is/ "Ir ao perfil de zaki_.is")
         
         0
         
-        [PC como servidor de escritório pequeno](https://www.clubedohardware.com.br/forums/topic/1703902-pc-como-servidor-de-escrit%C3%B3rio-pequeno/?do=getNewComment "PC como servidor de escritório pequeno")
+        [Indicação de placa-mãe Ryzen 7 5700G](https://www.clubedohardware.com.br/forums/topic/1703950-indica%C3%A7%C3%A3o-de-placa-m%C3%A3e-ryzen-7-5700g/?do=getNewComment "Indicação de placa-mãe Ryzen 7 5700G")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [zaki\_.is](https://www.clubedohardware.com.br/profile/1247229-zaki_is/ "Ir ao perfil de zaki_.is")  
+        58 minutos atrás
+        
+    * [![Lissah](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1257106.thumb.jpeg.aeef5502590ed99082d02f55d811ca1a.jpeg)](https://www.clubedohardware.com.br/profile/1257106-lissah/ "Ir ao perfil de Lissah")
+        
+        3
+        
+        [Primeira vez montando o sozinha](https://www.clubedohardware.com.br/forums/topic/1703949-primeira-vez-montando-o-sozinha/?do=getNewComment "Primeira vez montando o sozinha")
         
         [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [emptypage](https://www.clubedohardware.com.br/profile/573915-emptypage/ "Ir ao perfil de emptypage")  
-        47 minutos atrás
+        Por [Lissah](https://www.clubedohardware.com.br/profile/1257106-lissah/ "Ir ao perfil de Lissah")  
+        1 hora atrás
         
-    * [![Tiago Figueira Palmeira](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1257077.thumb.jpeg.5ff319d8f1c3debc90aefd09d248e499.jpeg)](https://www.clubedohardware.com.br/profile/1257077-tiago-figueira-palmeira/ "Ir ao perfil de Tiago Figueira Palmeira")
+    * [![Ksc](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1250191.thumb.png.c5ecf0d6477ee092a1c8414005dd6f96.png)](https://www.clubedohardware.com.br/profile/1250191-ksc/ "Ir ao perfil de Ksc")
         
         1
         
-        [Overclock Ryzen 5600 4650 MHz](https://www.clubedohardware.com.br/forums/topic/1703901-overclock-ryzen-5600-4650-mhz/?do=getNewComment "Overclock Ryzen 5600 4650 MHz")
+        [Sistema consumindo muita memória](https://www.clubedohardware.com.br/forums/topic/1703947-sistema-consumindo-muita-mem%C3%B3ria/?do=getNewComment "Sistema consumindo muita memória")
         
-        [Overclock](https://www.clubedohardware.com.br/forums/forum/11-overclock/ "Overclock")  
-        Por [Tiago Figueira Palmeira](https://www.clubedohardware.com.br/profile/1257077-tiago-figueira-palmeira/ "Ir ao perfil de Tiago Figueira Palmeira")  
-        52 minutos atrás
+        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
+        Por [Ksc](https://www.clubedohardware.com.br/profile/1250191-ksc/ "Ir ao perfil de Ksc")  
+        1 hora atrás
         
-    * [![Farofa Dota](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/e99a1e1b48aa2ae68bb471e11ac77c9e555f7b91_hq.thumb.jpg.74c3d5480e0b9b4e18d98fdf3bec8daf.jpg)](https://www.clubedohardware.com.br/profile/1257076-farofa-dota/ "Ir ao perfil de Farofa Dota")
+    * [![Gyston2089](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23629ec4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EG%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1243384-gyston2089/ "Ir ao perfil de Gyston2089")
+        
+        5
+        
+        [Alguma opção mais barata para Ryzen 5 5600GT do que a ASUS A520M Plus II?](https://www.clubedohardware.com.br/forums/topic/1703946-alguma-op%C3%A7%C3%A3o-mais-barata-para-ryzen-5-5600gt-do-que-a-asus-a520m-plus-ii/?do=getNewComment "Alguma opção mais barata para Ryzen 5 5600GT do que a ASUS A520M Plus II?")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [Gyston2089](https://www.clubedohardware.com.br/profile/1243384-gyston2089/ "Ir ao perfil de Gyston2089")  
+        1 hora atrás
+        
+    * [![Doomraio12](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1257105.thumb.png.f6f0e4a6dd01008a8da3fc56f968fed7.png)](https://www.clubedohardware.com.br/profile/1257105-doomraio12/ "Ir ao perfil de Doomraio12")
+        
+        0
+        
+        [Recomendação de fonte para Ryzen 7 5700X3D e Radeon RX 6750 XT](https://www.clubedohardware.com.br/forums/topic/1703945-recomenda%C3%A7%C3%A3o-de-fonte-para-ryzen-7-5700x3d-e-radeon-rx-6750-xt/?do=getNewComment "Recomendação de fonte para Ryzen 7 5700X3D e Radeon RX 6750 XT")
+        
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [Doomraio12](https://www.clubedohardware.com.br/profile/1257105-doomraio12/ "Ir ao perfil de Doomraio12")  
+        1 hora atrás
+        
+    * [![Maririn](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1257094.thumb.png.d3715c4b87587475b23713a4d1e78c91.png)](https://www.clubedohardware.com.br/profile/1257094-maririn/ "Ir ao perfil de Maririn")
         
         4
         
-        [Computador novo para de dar vídeo após tentar atualizar os drivers](https://www.clubedohardware.com.br/forums/topic/1703900-computador-novo-para-de-dar-v%C3%ADdeo-ap%C3%B3s-tentar-atualizar-os-drivers/?do=getNewComment "Computador novo para de dar vídeo após tentar atualizar os drivers")
+        [O que eu compro com 1000 reais?](https://www.clubedohardware.com.br/forums/topic/1703944-o-que-eu-compro-com-1000-reais/?do=getNewComment "O que eu compro com 1000 reais?")
         
-        [Computador não liga ou não dá vídeo](https://www.clubedohardware.com.br/forums/forum/122-computador-n%C3%A3o-liga-ou-n%C3%A3o-d%C3%A1-v%C3%ADdeo/ "Computador não liga ou não dá vídeo")  
-        Por [Farofa Dota](https://www.clubedohardware.com.br/profile/1257076-farofa-dota/ "Ir ao perfil de Farofa Dota")  
-        53 minutos atrás
-        
-    * [![Júnior254](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1257065.thumb.png.e57d2babce5b90dee7015844ae7281ab.png)](https://www.clubedohardware.com.br/profile/1257065-j%C3%BAnior254/ "Ir ao perfil de Júnior254")
-        
-        3
-        
-        [Qual pasta térmica comprar?](https://www.clubedohardware.com.br/forums/topic/1703898-qual-pasta-t%C3%A9rmica-comprar/?do=getNewComment "Qual pasta térmica comprar?")
-        
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [Júnior254](https://www.clubedohardware.com.br/profile/1257065-j%C3%BAnior254/ "Ir ao perfil de Júnior254")  
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [Maririn](https://www.clubedohardware.com.br/profile/1257094-maririn/ "Ir ao perfil de Maririn")  
         1 hora atrás
         
     
