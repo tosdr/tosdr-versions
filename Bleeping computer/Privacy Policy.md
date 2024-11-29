@@ -36,18 +36,18 @@
         
         Chinese hackers breached T-Mobile's routers to scope out network](https://www.bleepingcomputer.com/news/security/chinese-hackers-breached-t-mobiles-routers-to-scope-out-network/)
     
+    * [![Russia arrests cybercriminal Wazawaka for ties with ransomware gangs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Russia arrests cybercriminal Wazawaka for ties with ransomware gangs](https://www.bleepingcomputer.com/news/security/russia-arrests-cybercriminal-wazawaka-for-ties-with-ransomware-gangs/)
+    * [![Bologna FC confirms data breach after RansomHub ransomware attack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Bologna FC confirms data breach after RansomHub ransomware attack](https://www.bleepingcomputer.com/news/security/bologna-fc-confirms-data-breach-after-ransomhub-ransomware-attack/)
+    * [![New Windows Server 2012 zero-day gets free, unofficial patches](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        New Windows Server 2012 zero-day gets free, unofficial patches](https://www.bleepingcomputer.com/news/security/new-windows-server-2012-zero-day-gets-free-unofficial-patches/)
     * [![Replace your cloud storage subscription with this 1TB lifetime option](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Replace your cloud storage subscription with this 1TB lifetime option](https://www.bleepingcomputer.com/offer/deals/replace-your-cloud-storage-subscription-with-this-1tb-lifetime-option/)
-    * [![A 3-year subscription to WindScribe VPN is $137 off for Black Friday](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        A 3-year subscription to WindScribe VPN is $137 off for Black Friday](https://www.bleepingcomputer.com/offer/deals/a-3-year-subscription-to-windscribe-vpn-is-137-off-for-black-friday/)
-    * [![Tor needs 200 new WebTunnel bridges to fight censorship](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Tor needs 200 new WebTunnel bridges to fight censorship](https://www.bleepingcomputer.com/news/security/tor-needs-200-new-webtunnel-bridges-to-fight-censorship/)
-    * [![Early Black Friday deal: Save on Microsoft Office 2024 while you can](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Early Black Friday deal: Save on Microsoft Office 2024 while you can](https://www.bleepingcomputer.com/offer/deals/early-black-friday-deal-save-on-microsoft-office-2024-while-you-can/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
