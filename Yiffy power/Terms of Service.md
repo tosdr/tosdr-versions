@@ -99,7 +99,7 @@ Latest commented posts
 
 [ash and dean (no nut november) created by drako1997](https://yiff-party.com/yiff/ash-and-dean-no-nut-november-created-by-drako1997/)
 
-0 421 1
+0 431 1
 
 November 2, 2024
 
@@ -107,7 +107,7 @@ November 2, 2024
 
 [agatha directed by kotcfacu (director)](https://yiff-party.com/yiff/agatha-directed-by-kotcfacu-director/)
 
-0 446 1
+0 459 1
 
 November 18, 2024
 
@@ -115,15 +115,15 @@ November 18, 2024
 
 [affax created by eihman and fumiko](https://yiff-party.com/yiff/affax-created-by-eihman-and-fumiko/)
 
-0 35 1
+0 46 1
 
 November 27, 2024
 
-[](https://yiff-party.com/yiff-ai-premium/loona-directed-by-furhammer-director/)
+[](https://yiff-party.com/yiff/mangle-five-nights-at-freddys-2-and-etc-created-by-thendyart/)
 
-[loona directed by furhammer (director)](https://yiff-party.com/yiff-ai-premium/loona-directed-by-furhammer-director/)
+[mangle (five nights at freddy’s 2 and etc) created by thendyart](https://yiff-party.com/yiff/mangle-five-nights-at-freddys-2-and-etc-created-by-thendyart/)
 
-0 34 0
+0 158 0
 
 October 30, 2024
 
