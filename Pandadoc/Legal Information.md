@@ -566,7 +566,7 @@ Use cases
 
 Resources
 
-* [Help center](https://support.pandadoc.com/hc/en-us?__hstc=149726313.c068d78ce51fd3577889c56e5ceb8409.1659002682403.1704887309662.1704891792097.102&__hssc=149726313.1.1704891792097&__hsfp=2851389664)
+* [Help center](https://support.pandadoc.com/en/)
 * [Templates](https://www.pandadoc.com/templates/)
 * [Blog](https://www.pandadoc.com/blog/)
 * [Electronic signature law](https://www.pandadoc.com/electronic-signature-law/)
