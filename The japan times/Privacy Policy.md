@@ -20,7 +20,7 @@ privacy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[November 29, 2024](https://www.japantimes.co.jp/archive/2024/11/29/ "archive page")
+[November 30, 2024](https://www.japantimes.co.jp/archive/2024/11/30/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -468,21 +468,25 @@ Revised June 1, 2022
 
   [![In 2022, the number of elderly people with dementia in Japan reached 4.43 million, according to data from the health ministry. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/28/436797.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "In 2022, the number of elderly people with dementia in Japan reached 4.43 million, according to data from the health ministry. ")](https://www.japantimes.co.jp/news/2024/11/28/japan/science-health/keio-university-alzheimers/ "Japan researchers develop a simple way to spot signs of Alzheimer's disease")
 
-[Real estate worth ¥25 trillion puts Japan companies in spotlight](https://www.japantimes.co.jp/business/2024/11/28/companies/japan-undervalued-real-estate/ "Real estate worth ¥25 trillion puts Japan companies in spotlight")
+[Japan to overhaul tax exemption system for foreign visitors](https://www.japantimes.co.jp/news/2024/11/28/japan/tax-exemption-system-overhaul/ "Japan to overhaul tax exemption system for foreign visitors")
 
-  [![Elliott Investment Management's stake in Tokyo Gas is centered around getting the utility to sell off its real estate holdings, including Shinjuku Park Tower, which houses the Park Hyatt Hotel Tokyo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/28/436887.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Elliott Investment Management's stake in Tokyo Gas is centered around getting the utility to sell off its real estate holdings, including Shinjuku Park Tower, which houses the Park Hyatt Hotel Tokyo.")](https://www.japantimes.co.jp/business/2024/11/28/companies/japan-undervalued-real-estate/ "Real estate worth ¥25 trillion puts Japan companies in spotlight")
+  [![The Ginza shopping district in Tokyo in August](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/28/437056.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Ginza shopping district in Tokyo in August")](https://www.japantimes.co.jp/news/2024/11/28/japan/tax-exemption-system-overhaul/ "Japan to overhaul tax exemption system for foreign visitors")
 
 [Two dead after fire at Upper House lawmaker Kuniko Inoguchi’s apartment](https://www.japantimes.co.jp/news/2024/11/28/japan/politics/kuniko-inoguchi-fire/ "Two dead after fire at Upper House lawmaker Kuniko Inoguchi’s apartment")
 
   [![A fire broke out on the sixth floor of an apartment building where Upper House lawmaker Kuniko Inoguchi resides on Wednesday in Tokyo's Bunkyo Ward.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/28/436926.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A fire broke out on the sixth floor of an apartment building where Upper House lawmaker Kuniko Inoguchi resides on Wednesday in Tokyo's Bunkyo Ward.")](https://www.japantimes.co.jp/news/2024/11/28/japan/politics/kuniko-inoguchi-fire/ "Two dead after fire at Upper House lawmaker Kuniko Inoguchi’s apartment")
 
-[Japan investigating Amazon for allegedly bullying other businesses](https://www.japantimes.co.jp/business/2024/11/27/companies/jftc-amazon-japan/ "Japan investigating Amazon for allegedly bullying other businesses")
+[Real-life ‘Tokyo Swindlers’ ordered to pay ¥1 billion in damages](https://www.japantimes.co.jp/news/2024/11/28/japan/crime-legal/tokyo-swindlers-case/ "Real-life ‘Tokyo Swindlers’ ordered to pay ¥1 billion in damages")
 
-  [![Packages move along a conveyor belt at an Amazon warehouse](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/27/436814.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Packages move along a conveyor belt at an Amazon warehouse")](https://www.japantimes.co.jp/business/2024/11/27/companies/jftc-amazon-japan/ "Japan investigating Amazon for allegedly bullying other businesses")
+  [![High-rise buildings in Tokyo. Through faking documents and passports a criminal group conspired to pose as the owner of a real-estate plot and buildings in Tokyo's Shinagawa Ward in 2017, defrauding Sekisui House of ¥5.5 billion.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/28/437015.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "High-rise buildings in Tokyo. Through faking documents and passports a criminal group conspired to pose as the owner of a real-estate plot and buildings in Tokyo's Shinagawa Ward in 2017, defrauding Sekisui House of ¥5.5 billion.")](https://www.japantimes.co.jp/news/2024/11/28/japan/crime-legal/tokyo-swindlers-case/ "Real-life ‘Tokyo Swindlers’ ordered to pay ¥1 billion in damages")
 
-[Tokyo’s take on that viral chocolate from Dubai](https://www.japantimes.co.jp/life/2024/11/28/food-drink/dubai-chocolate-japan-tokyo/ "Tokyo’s take on that viral chocolate from Dubai")
+[Real estate worth ¥25 trillion puts Japan companies in spotlight](https://www.japantimes.co.jp/business/2024/11/28/companies/japan-undervalued-real-estate/ "Real estate worth ¥25 trillion puts Japan companies in spotlight")
 
-  [![Cafe N°_5's take on the Dubai chocolate craze that has been circulating on social media over the past few months is a mix of bitter and sweet. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/27/436831.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Cafe N°_5's take on the Dubai chocolate craze that has been circulating on social media over the past few months is a mix of bitter and sweet. ")](https://www.japantimes.co.jp/life/2024/11/28/food-drink/dubai-chocolate-japan-tokyo/ "Tokyo’s take on that viral chocolate from Dubai")
+  [![Elliott Investment Management's stake in Tokyo Gas is centered around getting the utility to sell off its real estate holdings, including Shinjuku Park Tower, which houses the Park Hyatt Hotel Tokyo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/28/436887.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Elliott Investment Management's stake in Tokyo Gas is centered around getting the utility to sell off its real estate holdings, including Shinjuku Park Tower, which houses the Park Hyatt Hotel Tokyo.")](https://www.japantimes.co.jp/business/2024/11/28/companies/japan-undervalued-real-estate/ "Real estate worth ¥25 trillion puts Japan companies in spotlight")
+
+[Hiroshi Kurosaki looks beyond Japan for heart-wrenching drama](https://www.japantimes.co.jp/culture/2024/11/29/tv-streaming/beyond-goodbye-hiroshi-kurosaki/ "Hiroshi Kurosaki looks beyond Japan for heart-wrenching drama")
+
+  [![Hiroshi Kurosaki’s Netflix series “Beyond Goodbye” centers on a woman (Kasumi Arimura, left) who discovers her dead lover’s heart saved the life of a quiet pianist (Kentaro Sakaguchi).](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/28/436945.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Hiroshi Kurosaki’s Netflix series “Beyond Goodbye” centers on a woman (Kasumi Arimura, left) who discovers her dead lover’s heart saved the life of a quiet pianist (Kentaro Sakaguchi).")](https://www.japantimes.co.jp/culture/2024/11/29/tv-streaming/beyond-goodbye-hiroshi-kurosaki/ "Hiroshi Kurosaki looks beyond Japan for heart-wrenching drama")
 
 [Japan researchers develop a simple way to spot signs of Alzheimer's disease](https://www.japantimes.co.jp/news/2024/11/28/japan/science-health/keio-university-alzheimers/ "Japan researchers develop a simple way to spot signs of Alzheimer's disease")
 
@@ -499,10 +503,6 @@ Revised June 1, 2022
 [Bluesky is booming in Japan — mainly for reasons other than U.S. politics](https://www.japantimes.co.jp/business/2024/11/25/companies/bluesky-social-japan/ "Bluesky is booming in Japan — mainly for reasons other than U.S. politics")
 
   [![According to Similarweb, average monthly user numbers for Bluesky on Android in Japan quintupled in the 12 months to October.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/25/436245.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "According to Similarweb, average monthly user numbers for Bluesky on Android in Japan quintupled in the 12 months to October.")](https://www.japantimes.co.jp/business/2024/11/25/companies/bluesky-social-japan/ "Bluesky is booming in Japan — mainly for reasons other than U.S. politics")
-
-[China defense minister being investigated for corruption, report says](https://www.japantimes.co.jp/news/2024/11/27/asia-pacific/politics/china-defense-minister-corruption-dong-jun/ "China defense minister being investigated for corruption, report says")
-
-  [![Chinese Defense Minister Dong Jun attends the opening ceremony of the Xiangshan Forum at the Beijing International Convention Center on Sept. 13. Dong is the third consecutive incumbent or former defense chief to be probed over alleged corruption.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/27/436546.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Chinese Defense Minister Dong Jun attends the opening ceremony of the Xiangshan Forum at the Beijing International Convention Center on Sept. 13. Dong is the third consecutive incumbent or former defense chief to be probed over alleged corruption.")](https://www.japantimes.co.jp/news/2024/11/27/asia-pacific/politics/china-defense-minister-corruption-dong-jun/ "China defense minister being investigated for corruption, report says")
 
 Podcast
 -------
@@ -523,9 +523,9 @@ By [Greg Dvorak](https://www.japantimes.co.jp/author/6191/greg-dvorak/ "Greg Dvo
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -565,25 +565,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Tokyo police arrest six Chinese nationals over _yami baito_ scheme](https://www.japantimes.co.jp/news/2024/11/29/japan/crime-legal/chinese-arrest-kidnapping/ "Tokyo police arrest six Chinese nationals over yami baito scheme")
-
-2 hours ago
-
-[Uniqlo risks boycott in China after CEO's Xinjiang comment](https://www.japantimes.co.jp/business/2024/11/29/companies/uniqlo-boycott-risk-china/ "Uniqlo risks boycott in China after CEO's Xinjiang comment")
-
-2 hours ago
-
-[Chinese man pleads guilty to role in vandalizing Yasukuni Shrine](https://www.japantimes.co.jp/news/2024/11/29/japan/crime-legal/yasukuni-vandalism-trial/ "Chinese man pleads guilty to role in vandalizing Yasukuni Shrine")
+[Japan panel proposes law to monitor communications for cyber defense](https://www.japantimes.co.jp/news/2024/11/29/japan/politics/panel-cybersecurity-recommendations/ "Japan panel proposes law to monitor communications for cyber defense")
 
 3 hours ago
 
-[Yen breaches key ¥150 level as Tokyo inflation fuels BOJ bets](https://www.japantimes.co.jp/business/2024/11/29/markets/yen-breaches-150-level/ "Yen breaches key ¥150 level as Tokyo inflation fuels BOJ bets")
+[Starbucks serves South Koreans coffee and a glimpse into the North](https://www.japantimes.co.jp/news/2024/11/29/asia-pacific/south-korea-north-korea-view-starbucks/ "Starbucks serves South Koreans coffee and a glimpse into the North")
 
-3 hours ago
+4 hours ago
 
-[Denso and Fuji Electric to get government aid for power chips](https://www.japantimes.co.jp/business/2024/11/29/companies/denso-fuji-electric-power-chip-aid/ "Denso and Fuji Electric to get government aid for power chips")
+[Shiseido profit outlook squeezed by China downturn, president says](https://www.japantimes.co.jp/business/2024/11/29/companies/shiseido-profit-china/ "Shiseido profit outlook squeezed by China downturn, president says")
 
-3 hours ago
+4 hours ago
+
+[Stimulus staved off years of deflation, BOJ study says](https://www.japantimes.co.jp/business/2024/11/29/economy/japan-deflation-stimulus/ "Stimulus staved off years of deflation, BOJ study says")
+
+5 hours ago
+
+[Japan earmarks extra ¥1.5 trillion for chips and AI this year](https://www.japantimes.co.jp/business/2024/11/29/tech/japan-budget-chips-tech/ "Japan earmarks extra ¥1.5 trillion for chips and AI this year")
+
+5 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
