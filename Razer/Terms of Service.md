@@ -469,7 +469,6 @@ Switch to
             * [Razer Kraken V4 Pro](https://www.razer.com/gaming-headsets/razer-kraken-v4-pro)
             * [Razer Kraken V4](https://www.razer.com/gaming-headsets/razer-kraken-v4)
             * [Razer Kraken V4 X](https://www.razer.com/gaming-headsets/razer-kraken-v4-x)
-            * [Razer Kraken V3 Pro](https://www.razer.com/gaming-headsets/razer-kraken-v3-pro)
             * [Razer Kraken V3 HyperSense](https://www.razer.com/gaming-headsets/razer-kraken-v3-hypersense)
             * [Razer Kraken V3](https://www.razer.com/gaming-headsets/razer-kraken-v3)
             * [Razer Kraken V3 X](https://www.razer.com/gaming-headsets/razer-kraken-v3-x)
@@ -519,7 +518,6 @@ Switch to
             * [Razer Kraken V4 Pro](https://www.razer.com/gaming-headsets/razer-kraken-v4-pro)
             * [Razer Kraken V4](https://www.razer.com/gaming-headsets/razer-kraken-v4)
             * [Razer Kraken V4 X](https://www.razer.com/gaming-headsets/razer-kraken-v4-x)
-            * [Razer Kraken V3 Pro](https://www.razer.com/gaming-headsets/razer-kraken-v3-pro)
             * [Razer Kraken V3 HyperSense](https://www.razer.com/gaming-headsets/razer-kraken-v3-hypersense)
             * [Razer Kraken V3](https://www.razer.com/gaming-headsets/razer-kraken-v3)
             * [Razer Kraken V3 X](https://www.razer.com/gaming-headsets/razer-kraken-v3-x)
@@ -981,7 +979,6 @@ Switch to
         -------
         
         * [All Earbuds](https://www.razer.com/mobile/true-wireless-earbuds)
-        * [Razer Hammerhead Pro HyperSpeed](https://www.razer.com/mobile-earphones/razer-hammerhead-pro-hyperspeed)
         * [Razer Hammerhead HyperSpeed for Xbox](https://www.razer.com/console-earphones/razer-hammerhead-hyperspeed-for-xbox)
         * [Razer Hammerhead HyperSpeed for PlayStation](https://www.razer.com/console-earphones/razer-hammerhead-hyperspeed-for-playstation)
         * [Razer Hammerhead HyperSpeed for Meta Quest](https://www.razer.com/console-earphones/razer-hammerhead-hyperspeed-for-meta-quest-3)
