@@ -1,6 +1,6 @@
 [Skip to main content](#main)
 
-Get early access to our Black Friday Sale! [Shop Our Sale](https://www.zappos.com/null/4AEB4gICMByCAwOk8AE.zso?si=5599485%2C5748442%2C6225521%2C6227909%2C6420345%2C5754504%2C6344758%2C6256931%2C5370913%2C6502603&sy=1)
+Black Friday Sale: Up to 60% Off! Shop Our Sale [Shop Our Sale](https://www.zappos.com/null/4AEB4gICMByCAwOk8AE.zso?si=5599485%2C5748442%2C6225521%2C6227909%2C6420345%2C5754504%2C6344758%2C6256931%2C5370913%2C6502603&sy=1)
 
 Daily Deals: Get up to 50% off! [Shop Today's Deals](https://www.zappos.com/c/coupon)
 
