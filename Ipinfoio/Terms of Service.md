@@ -254,7 +254,7 @@ If you have any questions about these Terms, please contact us at: [support@ipin
 * [![Community](https://website-cdn.ipinfo.io/_next/static/media/discourse-light.91b917f1.svg)](https://community.ipinfo.io/)
 * [![LinkedIn](https://website-cdn.ipinfo.io/_next/static/media/linkedin-light.c8869563.svg)](https://www.linkedin.com/company/ipinfo/)
 * [![GitHub](https://website-cdn.ipinfo.io/_next/static/media/github-light.9781e033.svg)](https://github.com/ipinfo)
-* [![Twitter](https://website-cdn.ipinfo.io/_next/static/media/twitter-light.c8dff709.svg)](https://twitter.com/ipinfo)
+* [![X](https://website-cdn.ipinfo.io/_next/static/media/x-light.5e18e52f.svg)](https://x.com/ipinfo)
 * [![YouTube](https://website-cdn.ipinfo.io/_next/static/media/youtube-light.cf5a6d38.svg)](https://www.youtube.com/@ipinfo-io)
 * [![Facebook](https://website-cdn.ipinfo.io/_next/static/media/facebook-light.0be4f2a5.svg)](https://www.facebook.com/ipinfo.io)
 
