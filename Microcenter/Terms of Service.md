@@ -40,11 +40,11 @@ Search for product
     
     Dallas
     
-    Opens 8AM Fri
+    Opens at 8AM
     
     ![get store info](https://60a99bedadae98078522-a9b6cded92292ef3bace063619038eb1.ssl.cf2.rackcdn.com/chevron-downWhite.svg)
     
-* Store closed
+* Open 8am - 10pm today
 * * ![Close Modal](https://60a99bedadae98078522-a9b6cded92292ef3bace063619038eb1.ssl.cf2.rackcdn.com/images_buttons_btn_closeModal.png)Close Your Store Modal
     * Your Store
         
