@@ -294,6 +294,7 @@ Menü
         * [Newsletter](https://homematic-ip.com/de/newsletter)
     * Termine
         * [Events & Seminare](https://homematic-ip.com/de/events-seminare)
+        * [🎅 🤶 Adventskalender](https://homematic-ip.com/de/adventskalender)
         * ["Live erleben" - Roadshow](https://homematic-ip.com/de/roadshow)
         * ["Live erleben" für das Handwerk](https://homematic-ip.com/de/roadshow-handwerk)
     * Service
