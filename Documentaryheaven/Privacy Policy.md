@@ -123,44 +123,44 @@ Advertisement
     The Fog of War
     
     Winner of the Academy Award for Best DocumentaryIt is the story of America as seen through the eyes of the former Secretary of Defense, Robert S. McNamara. One of the most controversial and influe...](https://documentaryheaven.com/the-fog-of-war/ "The Fog of War")
-* [![Louis Theroux: Drinking To Oblivion](/wp-content/thumbnails/16353-100x70.jpg?x53432)
-    
-    Louis Theroux: Drinking To Oblivion
-    
-    Drinking To Oblivion sees Louis Theroux set about spending some time in the world of extreme drinkers, getting to know people who consume alcohol not just to excess but to the point of total oblivio...](https://documentaryheaven.com/louis-theroux-drinking-to-oblivion/ "Louis Theroux: Drinking To Oblivion")
 * [![Why The Industrial Revolution Happened Here](/wp-content/thumbnails/8018-100x70.jpeg?x53432)
     
     Why The Industrial Revolution Happened Here
     
     Professor Jeremy Black examines one of the most extraordinary periods in British history: the Industrial Revolution. He explains the unique economic, social and political conditions that by the 19th c...](https://documentaryheaven.com/why-industrial-revolution-happened-here/ "Why The Industrial Revolution Happened Here")
+* [![Louis Theroux: Drinking To Oblivion](/wp-content/thumbnails/16353-100x70.jpg?x53432)
+    
+    Louis Theroux: Drinking To Oblivion
+    
+    Drinking To Oblivion sees Louis Theroux set about spending some time in the world of extreme drinkers, getting to know people who consume alcohol not just to excess but to the point of total oblivio...](https://documentaryheaven.com/louis-theroux-drinking-to-oblivion/ "Louis Theroux: Drinking To Oblivion")
 
 ###### Throwback Documentaries
 
-* [![The Kim Dynasty](/wp-content/thumbnails/14016-100x70.jpg?x53432)
+* [![WiFi Fraud?](/wp-content/thumbnails/809-100x70.png?x53432)
     
-    The Kim Dynasty
+    WiFi Fraud?
     
-    The demilitarised zone or DMZ divides the Korean peninsula into North and South at the 38th parallel, the armies of both sides face each other along the border. This stand off has continued since the](https://documentaryheaven.com/kim-dynasty/ "The Kim Dynasty")
-* [![HIV = AIDS, Fact or Fraud?](/wp-content/thumbnails/972-100x70.jpg?x53432)
+    Panorama examines concerns about WiFi Technology.](https://documentaryheaven.com/wifi-fraud/ "WiFi Fraud?")
+* [![World’s Scariest Drug](/wp-content/thumbnails/6584-100x70.jpg?x53432)
     
-    HIV = AIDS, Fact or Fraud?
+    World’s Scariest Drug
     
-    "Too many people are making too much money out of it, and money is much stronger than truth. One of the most powerful video documentaries of our time boldly reveals the modern medical-industrial compl](https://documentaryheaven.com/hiv-aids-fact-or-fraud/ "HIV = AIDS, Fact or Fraud?")
-* [![Pink Floyd: The Making of Dark Side of the Moon](/wp-content/thumbnails/6908-100x70.png?x53432)
+    VICE is back! World’s Scaries Drug finds Ryan Duffy taking us to Colombia and to see a mighty drug called Scopalamine, also known as “The Devil’s Breath.” See why!The drug seems like something out of](https://documentaryheaven.com/worlds-scariest-drug/ "World’s Scariest Drug")
+* [![Fort Knox: Secrets Revealed](/wp-content/thumbnails/6882-100x70.png?x53432)
     
-    Pink Floyd: The Making of Dark Side of the Moon
+    Fort Knox: Secrets Revealed
     
-    If there are a handful of albums in the rock universe that deserve a bells-and-whistles DVD treatment, Dark Side of the Moon is clearly among them. In the ’70s and ’80s, the classic 1973 album by Pink](https://documentaryheaven.com/pink-floyd-making-dark-side-of-the-moon/ "Pink Floyd: The Making of Dark Side of the Moon")
-* [![USS Liberty Dead in the Water](/wp-content/thumbnails/2122-100x70.jpg?x53432)
+    The U.S. Bullion Depository, better known as Fort Knox, is home of the United States Army and one of the world’s most top secret fortresses. Hidden deep inside the vault is an estimated $73 billion do](https://documentaryheaven.com/fort-knox-secrets-revealed/ "Fort Knox: Secrets Revealed")
+* [![Preview: Petenera – a Flamenco Drama in Music and Dance](/wp-content/thumbnails/2863-100x70.jpg?x53432)
     
-    USS Liberty Dead in the Water
+    Preview: Petenera – a Flamenco Drama in Music and Dance
     
-    On June 8, 1967, US Navy intelligence ship USS Liberty was suddenly and brutally attacked on the high seas in international waters by the air and naval forces of Israel. The Israeli forces attacked wi](https://documentaryheaven.com/uss-liberty-dead-in-the-water/ "USS Liberty Dead in the Water")
-* [![The Case for Christ](/wp-content/thumbnails/2200-100x70.jpg?x53432)
+    (For Preview Only) In this unique 2-hrs DVD, Petenera – a Flamenco Drama in Music and Dance recreates the legendary femme fatale that has haunted flamenco lore for centuries. It portrays her lonelines](https://documentaryheaven.com/preview-petenera-%e2%80%93-a-flamenco-drama-in-music-and-dance/ "Preview: Petenera – a Flamenco Drama in Music and Dance")
+* [![Cold Turkey](/wp-content/thumbnails/8045-100x70.jpg?x53432)
     
-    The Case for Christ
+    Cold Turkey
     
-    The documentary The Case for Christ follows reporter Lee Strobel as he interviews a number of religious and historical scholars in order to find out if there is any proof of the resurrection, and to d](https://documentaryheaven.com/the-case-for-christ/ "The Case for Christ")
+    Directed by Leo Regan and originally televised in 2001, 'Cold Turkey' tells the story of Lanre Fehintola a photojournalist who experimented with heroin whilst working on a book featuring drug addicts.](https://documentaryheaven.com/cold-turkey/ "Cold Turkey")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
