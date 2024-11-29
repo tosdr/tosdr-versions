@@ -406,9 +406,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ A Certain Darkness Is Needed to See the Stars”
+“ They always say time changes things, but you actually have to change them yourself”
 
-[Osho](https://en.wikipedia.org/wiki/Rajneesh)
+[Andy Warhol](https://en.wikipedia.org/wiki/Andy_Warhol)
 
 [](https://www.adafruit.com/about)
 
