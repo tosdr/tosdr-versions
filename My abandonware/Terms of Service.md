@@ -107,11 +107,11 @@ Top downloads
 
 Latest releases
 
+* [RTL Racing Team Manager](https://www.myabandonware.com/game/rtl-racing-team-manager-tc2)
+* [Sky Sports Football Quiz](https://www.myabandonware.com/game/sky-sports-football-quiz-tc1)
+* [Kellogg's Frosties Football Frenzy](https://www.myabandonware.com/game/kellogg-s-frosties-football-frenzy-tc0)
 * [Links 2001](https://www.myabandonware.com/game/links-2001-tbz)
 * [UEFA Champions League Season 1998/99](https://www.myabandonware.com/game/uefa-champions-league-season-1998-99-tby)
-* [Grand Prix Rally](https://www.myabandonware.com/game/grand-prix-rally-tbx)
-* [Speedy Zone](https://www.myabandonware.com/game/speedy-zone-tbw)
-* [Sven-Göran Eriksson's World Manager](https://www.myabandonware.com/game/sven-goeran-eriksson-s-world-manager-tbu)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
