@@ -20,6 +20,8 @@ Toggle menu
     
     [DesignerbetaEdit templates from your browser](https://www.freepik.com/designer)
     
+    [AI Icon GeneratorbetaCreate icons in seconds with AI](https://www.freepikcompany.com/ai/icon-generator/tool)
+    
     [Background RemoverErase the background from an image](https://www.freepikcompany.com/ai/background-remover)
     
     [UpscaleIncrease resolution and details](https://www.freepikcompany.com/ai/image-upscaler)
