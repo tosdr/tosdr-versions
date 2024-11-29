@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-You are a saint!!! I've spent 3 days looking for this. I'm gonna pay for the upgraded version!
+Service was fine. I'll be using you again if a project calls for that type of thing.
 
-Glenn Patchen, Jr.
+Paul Sweeney
