@@ -196,63 +196,61 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Impossible to run our businesses without IO
-> -------------------------------------------
+> Support even on Sundays!
+> ------------------------
 > 
-> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
->   
-> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
->   
-> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
->   
-> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
+> Thanks Adriaan...
+> 
+> You guys even work on Sundays?
+> 
+> I’m impressed!!
 
-Kobus Venter
+Johan Botha - Brand Xplosion
 
-![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=80928241)  
-IYD
+![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=9513a71ae9104d9eaa1302d128722223516f991894d88c18a5caf9d058759aed&c=146990108)  
+Creative Characters
 
-![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=62076069)  
-Website Café (PTY) LTD
+![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=9513a71ae9104d9eaa1302d128722223516f991894d88c18a5caf9d058759aed&c=114262326)  
+Roamfree Boerdery (PTY) LTD
 
-![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=65306549)  
-Electro-Heat
+![valued client Frameless Fanatix (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=6498&file=logo_300_100&type=&fe=9513a71ae9104d9eaa1302d128722223516f991894d88c18a5caf9d058759aed&c=180973015)  
+Frameless Fanatix (Pty) Ltd.
 
-![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=141670009)  
-Tantra Sound and Lightz
-
-![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=132540838)  
-BEE SURE CONSULTING (PTY) LTD
-
-![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=51416431)  
-Stories (Pty) Ltd t/a Storietyd
-
-![valued client African Roots](https://www.invoicesonline.co.za/scripts/image.php?bid=1000&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=62312959)  
+![valued client African Roots](https://www.invoicesonline.co.za/scripts/image.php?bid=1000&file=logo_300_100&type=&fe=9513a71ae9104d9eaa1302d128722223516f991894d88c18a5caf9d058759aed&c=137220878)  
 African Roots
 
-![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=90616288)  
-Oukraal Merino's
+![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=9513a71ae9104d9eaa1302d128722223516f991894d88c18a5caf9d058759aed&c=4313808)  
+CLEVER STUDENTS
 
-![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=161144606)  
-ELLIE'S CLEANING CHICKS
+![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=9513a71ae9104d9eaa1302d128722223516f991894d88c18a5caf9d058759aed&c=137196157)  
+OXYAIDER (PTY) LTD
 
-![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=128218250)  
-Immediate Health (pty)ltd
+![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=9513a71ae9104d9eaa1302d128722223516f991894d88c18a5caf9d058759aed&c=198558094)  
+Hydroworld T/A Milliqua
 
-![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=36862957)  
-Vplay Letsheng Mall
+![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=9513a71ae9104d9eaa1302d128722223516f991894d88c18a5caf9d058759aed&c=44599179)  
+Sarabi
 
-![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=97309744)  
-Kinetic Power Solutions (Pty) Ltd.
+![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=9513a71ae9104d9eaa1302d128722223516f991894d88c18a5caf9d058759aed&c=77979556)  
+On The Spot Marketing (Pty) Ltd t/a 24hrprinting
 
-![valued client Sophia's Roses](https://www.invoicesonline.co.za/scripts/image.php?bid=5227&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=67345268)  
-Sophia's Roses
+![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=9513a71ae9104d9eaa1302d128722223516f991894d88c18a5caf9d058759aed&c=27602539)  
+Cooper Logistics (Pty) Ltd
 
-![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=68209607)  
-M's Frozen Delights
+![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=9513a71ae9104d9eaa1302d128722223516f991894d88c18a5caf9d058759aed&c=43254567)  
+MR Compressors& Industrial Supplies
 
-![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=120045937)  
-Xpress Designs
+![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=9513a71ae9104d9eaa1302d128722223516f991894d88c18a5caf9d058759aed&c=179533307)  
+Lizzy Pop PTY(Ltd)
+
+![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=9513a71ae9104d9eaa1302d128722223516f991894d88c18a5caf9d058759aed&c=211253082)  
+Blue Bulls Rugby Coaches Association
+
+![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=9513a71ae9104d9eaa1302d128722223516f991894d88c18a5caf9d058759aed&c=5695728)  
+LEONARD
+
+![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=9513a71ae9104d9eaa1302d128722223516f991894d88c18a5caf9d058759aed&c=133265991)  
+Cooper Power Cape Town (Pty) Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
