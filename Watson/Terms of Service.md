@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![ciel clair](https://www.watson.ch/fr/_watsui/static/img/weather/w-1.svg)3°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![dégagé](https://www.watson.ch/fr/_watsui/static/img/weather/w-90.svg)\-1°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -54,24 +54,24 @@
 
 Thèmes du moment
 
-* [Best of watson](https://www.watson.ch/fr/best-of-watson/)
 * [Donald Trump](https://www.watson.ch/fr/donald-trump/)
 * [Argent](https://www.watson.ch/fr/argent/)
 * [CFF](https://www.watson.ch/fr/cff/)
 * [Russie](https://www.watson.ch/fr/russie/)
-* [commerce](https://www.watson.ch/fr/commerce/)
+* [primes maladie](https://www.watson.ch/fr/primes-maladie/)
+* [Santé](https://www.watson.ch/fr/sante/)
 * [républicain](https://www.watson.ch/fr/republicain/)
 * [présidentielle américaine](https://www.watson.ch/fr/presidentielle-americaine/)
-* [primes maladie](https://www.watson.ch/fr/primes-maladie/)
-* [Animaux](https://www.watson.ch/fr/animaux/)
-* [Santé](https://www.watson.ch/fr/sante/)
+* [Valais](https://www.watson.ch/fr/valais/)
+* [Art](https://www.watson.ch/fr/art/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
 * [Royaume-Uni](https://www.watson.ch/fr/royaume-uni/)
+* [En direct](https://www.watson.ch/fr/en-direct/)
 * [Intelligence artificielle](https://www.watson.ch/fr/intelligence-artificielle/)
-* [Football](https://www.watson.ch/fr/football/)
 * [Justice](https://www.watson.ch/fr/justice/)
 * [mort](https://www.watson.ch/fr/mort/)
 * [Politique](https://www.watson.ch/fr/politique/)
+* [Réseaux sociaux](https://www.watson.ch/fr/reseaux-sociaux/)
 * [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
 * [France](https://www.watson.ch/fr/france/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
