@@ -24,7 +24,7 @@ Check out
 
 [Free Salty Pace Sports Bottle with orders over £75](https://puresportcbd.com/en-us/collections)
 
-[Rated average 4.9 stars (6005 reviews)](https://puresportcbd.com/en-us/pages/reviews)
+[NOTE: There is a 5-day dispatch delay on all Electrolytes](https://puresportcbd.com/en-us/collections/all)
 
  Search 
 
