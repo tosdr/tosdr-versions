@@ -13,7 +13,7 @@
     * [ARCHIVE](https://www.msx.org/archive)
 * [FORUM](https://www.msx.org/forum)
     * [MSX TALK](https://www.msx.org/forum/msx-talk)
-    * [DEBATES EN ESPAÑOL](https://www.msx.org/forum/debates-en-espagnol)
+    * [DEBATES EN ESPAÑOL](https://www.msx.org/forum/debates-en-espa-ol)
     * [MULTILINGUAL FORUMS](https://www.msx.org/forum/multilingual-forums-1)
 * [WIKI](http://www.msx.org/wiki/)
     * [INDEX](http://www.msx.org/wiki/)
@@ -137,10 +137,10 @@ MSX Music player
 
 Latest reactions
 
+* [A Lone Wolf](https://www.msx.org/news/en/a-lone-wolf "A Lone Wolf ")
 * [SX-LITE and SX-E by 8bits4ever](https://www.msx.org/news/hardware/en/sx-lite-and-sx-e-by-8bits4ever "SX-LITE and SX-E by 8bits4ever")
 * [DSK Pro light](https://www.msx.org/news/development/en/disk-pro-light "DSK Pro light")
 * [FUSION-C the C library for MSX (SDCC)](https://www.msx.org/news/development/en/fusion-c-is-available "FUSION-C the C library for MSX (SDCC) ")
-* [A Lone Wolf](https://www.msx.org/news/en/a-lone-wolf "A Lone Wolf ")
 * [MSX turbo R upgrade board by Hiroyuki](https://www.msx.org/news/hardware/en/msx-turbo-r-upgrade-board-by-hiroyuki "MSX turbo R upgrade board by Hiroyuki")
 * [SETRIS II](https://www.msx.org/news/en/setris-ii "SETRIS II")
 * [Alley Cat for MSX2 available for sale soon](https://www.msx.org/news/en/alley-cat-for-msx-2-is-close-to-be-released "Alley Cat for MSX2 available for sale soon")
@@ -150,12 +150,12 @@ Latest reactions
 
 Latest forum posts
 
-* [MSXgl – A new C game library for MSX](https://www.msx.org/forum/msx-talk/development/msxgl-%E2%80%93-a-new-c-game-library-for-msx?page=27 "MSXgl – A new C game library for MSX")
+* [MSXgl – A new C game library for MSX](https://www.msx.org/forum/msx-talk/development/msxgl-%E2%80%93-a-new-c-game-library-for-msx?page=28 "MSXgl – A new C game library for MSX")
+* [Wiki editing discussion](https://www.msx.org/forum/msx-talk/msx-resource-center/wiki-editing-discussion?page=224 "Wiki editing discussion")
+* [2MB RAM expansion for Yamaha MSX computers from Caro](https://www.msx.org/forum/msx-talk/hardware/2mb-ram-expansion-for-yamaha-msx-computers-from-caro "2MB RAM expansion for Yamaha MSX computers from Caro")
 * [Dirt-cheap Vaus paddle clone for MSX](https://www.msx.org/forum/msx-talk/hardware/dirt-cheap-vaus-paddle-clone-for-msx?page=4 "Dirt-cheap Vaus paddle clone for MSX")
 * [Screen 2 in MSX2 x in MSX1](https://www.msx.org/forum/msx-talk/software/screen-2-in-msx2-x-in-msx1 "Screen 2 in MSX2 x in MSX1")
-* [2MB RAM expansion for Yamaha MSX computers from Caro](https://www.msx.org/forum/msx-talk/hardware/2mb-ram-expansion-for-yamaha-msx-computers-from-caro "2MB RAM expansion for Yamaha MSX computers from Caro")
 * [Can't play Manbow 2 on MFR SCC+ when flashing with OPFXSD v1.25](https://www.msx.org/forum/msx-talk/software/cant-play-manbow-2-on-mfr-scc-when-flashing-with-opfxsd-v125?page=1 "Can't play Manbow 2 on MFR SCC+ when flashing with OPFXSD v1.25")
-* [Wiki editing discussion](https://www.msx.org/forum/msx-talk/msx-resource-center/wiki-editing-discussion?page=224 "Wiki editing discussion")
 * [The Mexican Runner: Retro Game Gauntlet 2](https://www.msx.org/forum/msx-talk/general-discussion/the-mexican-runner-retro-game-gauntlet-2?page=1 "The Mexican Runner: Retro Game Gauntlet 2")
 * [H.E.R.O. Remake: Stranded Miners in Space](https://www.msx.org/forum/msx-talk/general-discussion/hero-remake-stranded-miners-in-space "H.E.R.O. Remake: Stranded Miners in Space")
 * [Modern joystick and joypad compatibility](https://www.msx.org/forum/msx-talk/hardware/modern-joystick-and-joypad-compatibility "Modern joystick and joypad compatibility")
