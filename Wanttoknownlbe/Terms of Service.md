@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/artsen-ontkennen-nutteloosheid-psa-prostaatonderzoek/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/magus-vuur-aarde-herschep-je-leven/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
