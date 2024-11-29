@@ -29,17 +29,17 @@ Version All 1.21.3 1.21.2 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 
 
 Active Servers
 
-[![CLineNebulousSMP](plugins/MineCraft/icons/25x25xCLineNebulousSMP_1731578297.png.pagespeed.ic.X6ZVRUxALU.jpg)
+[![HorusApl](plugins/MineCraft/icons/25x25xHorusApl_1720169128.png.pagespeed.ic.dbPZXbDd8P.png)
 
-CliveOverflow SMP](https://minecraft-server.net/details/CLineNebulousSMP/ "CliveOverflow SMP")[![axn](plugins/MineCraft/icons/25x25xaxn_1729107605.png.pagespeed.ic.WJSivFsGJ1.jpg)
+ExeosCraft (1.21) | Economy SMP | McMMO | No Resets](https://minecraft-server.net/details/HorusApl/ "ExeosCraft (1.21) | Economy SMP | McMMO | No Resets")[![creativefun](plugins/MineCraft/icons/25x25xcreativefun_1602168002.png.pagespeed.ic.xhW37hCj2R.jpg)
 
-Anarchy Network](https://minecraft-server.net/details/axn/ "Anarchy Network")[![TheosisMC](plugins/MineCraft/icons/25x25xTheosisMC_1723365735.png.pagespeed.ic.rP37hCYpnu.png)
+CreativeFun](https://minecraft-server.net/details/creativefun/ "CreativeFun")[![HardcoreAnarchy](plugins/MineCraft/icons/25x25xHardcoreAnarchy_1723313227.png.pagespeed.ic.BxBvHn1f9s.png)
 
-TheosisMC • Hardcore Survival • 1.21.3](https://minecraft-server.net/details/TheosisMC/ "TheosisMC • Hardcore Survival • 1.21.3")[![StigmaPixelmon](plugins/MineCraft/icons/25x25xStigmaPixelmon_1728244261.png.pagespeed.ic.2NSTyGMxqP.png)
+Hardcore Anarchy](https://minecraft-server.net/details/HardcoreAnarchy/ "Hardcore Anarchy")[![A2rath](plugins/MineCraft/icons/25x25xA2rath_1731694115.png.pagespeed.ic.GN-yKvGqoG.png)
 
-Stigma Pixelmon](https://minecraft-server.net/details/StigmaPixelmon/ "Stigma Pixelmon")[![WinterCrest](plugins/MineCraft/icons/25x25xWinterCrest_1732329661.png.pagespeed.ic.abyuJw4X9V.png)
+Fermium MC - SURVIVAL](https://minecraft-server.net/details/A2rath/ "Fermium MC - SURVIVAL")[![whoocraft](plugins/MineCraft/icons/25x25xwhoocraft_1701651132.png.pagespeed.ic.98LTIjFdN0.png)
 
-WinterCrest Non Grief Survival](https://minecraft-server.net/details/WinterCrest/ "WinterCrest Non Grief Survival ")
+NEW MAP with modded terrain!! - 0 tick farms - better structures - villager leashing - tpa and homes - craftable enchanted apples!! - Gongs Hut!!](https://minecraft-server.net/details/whoocraft/ "NEW MAP with modded terrain!! - 0 tick farms - better structures - villager leashing - tpa and homes - craftable enchanted apples!! - Gongs Hut!!")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Refund
@@ -116,4 +116,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06427 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.0591 - Created by [Debaucus](https://debauc.us/)
