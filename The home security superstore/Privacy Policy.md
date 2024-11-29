@@ -1,6 +1,6 @@
 [Skip to content](#main-content)
 
-[BLACK FRIDAY SALE I 15% OFF SITEWIDE!](https://www.thehomesecuritysuperstore.com/collections/homepage-high-recommended-products?utm_source=website&utm_medium=banner&utm_campaign=BLACK+FRIDAY+SALE+15%25+OFF+SITEWIDE)
+[BLACK FRIDAY SALE I 15% OFF SITEWIDE!](https://www.thehomesecuritysuperstore.com/collections/best-sellers?utm_source=website&utm_medium=banner&utm_campaign=BLACK+FRIDAY+SALE+15%25+OFF+SITEWIDE)
 
 TODAY'S OFFER: :: | BLACK FRIDAY SALE I 15% OFF SITEWIDE!
 
