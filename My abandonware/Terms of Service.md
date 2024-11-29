@@ -5,7 +5,7 @@ Terms of use
 
 [MyAbandonware](https://www.myabandonware.com/)
 
-More than 32400 old games to download for free!
+More than 32500 old games to download for free!
 
  
 
@@ -107,20 +107,20 @@ Top downloads
 
 Latest releases
 
+* [UEFA Champions League Season 1998/99](https://www.myabandonware.com/game/uefa-champions-league-season-1998-99-tby)
 * [Grand Prix Rally](https://www.myabandonware.com/game/grand-prix-rally-tbx)
 * [Speedy Zone](https://www.myabandonware.com/game/speedy-zone-tbw)
 * [Sven-Göran Eriksson's World Manager](https://www.myabandonware.com/game/sven-goeran-eriksson-s-world-manager-tbu)
 * [Bungaru WA](https://www.myabandonware.com/game/bungaru-wa-tbs)
-* [Alhademic Lines](https://www.myabandonware.com/game/alhademic-lines-tbi)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
 
 Screenshots needed
 
-* [Star Wars: Racer Arcade](https://www.myabandonware.com/game/star-wars-racer-arcade-smy)
-* [Yahtzee, Parcheesi & Aggravation Collection](https://www.myabandonware.com/game/yahtzee-parcheesi-aggravation-collection-noj)
-* [Are You Ready & Alert](https://www.myabandonware.com/game/are-you-ready-alert-epv)
+* [Ultra CD-i Soccer](https://www.myabandonware.com/game/ultra-cd-i-soccer-pks)
+* [Yearn2Learn: Master Snoopy's Coloring Book](https://www.myabandonware.com/game/yearn2learn-master-snoopy-s-coloring-book-md1)
+* [Löwenzahn 3: Geschichten aus Natur, Umwelt und Technik - Version 2.0](https://www.myabandonware.com/game/loewenzahn-3-geschichten-aus-natur-umwelt-und-technik-version-2-0-pd6)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
