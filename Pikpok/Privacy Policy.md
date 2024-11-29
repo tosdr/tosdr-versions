@@ -446,7 +446,7 @@ New Zealand
 
 * * *
 
-![](/wp-content/themes/pikpok_version_1.1/r/img/NZoA_RGB_Game Sector Logo_WhiteText.png)
+![](/wp-content/themes/pikpok_version_1.1/r/img/NZoA_RGB_Game Sector Logo.png)
 
 Copyright © 2024 Prodigy Design Limited. PikPok, Sidhe, Stencil, Breakneck, Doomsday Clicker, Dungeon, Inc., Flick Kick, Four Letters, Into the Dead, Rival Stars, Shadow Wars and Shatter are trademarks of Prodigy Design Limited. All rights reserved. All other trademarks are the property of their respective owners. | [Privacy Policy.](https://pikpok.com/privacy-policy) | [Terms of Use.](https://pikpok.com/terms-of-use) | [Official Contest Rules.](https://pikpok.com/official-contest-rules) | [中国条例](https://pikpok.com/loot-rates/) | [Loot Box Chances](https://pikpok.com/loot-rates-2/) | [California digital license terms & conditions](https://pikpok.com/ca-digital-license-terms-conditions/)
 
