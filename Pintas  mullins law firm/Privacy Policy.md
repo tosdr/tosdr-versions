@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Phone
+Name
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Is sexual questioning considered sexual abuse?](https://www.pintas.com/wp-content/uploads/2023/04/stephen-radford-86QxYjwq8LU-unsplash-300x199.jpg "Is Sexual Questioning Considered Sexual Abuse?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/is-sexual-questioning-considered-sexual-abuse/ "Is Sexual Questioning Considered Sexual Abuse?")
+[![What is the life expectancy of someone with asbestosis?](https://www.pintas.com/wp-content/uploads/2020/09/lung-cancer-what-is-the-life-expectancy-of-someone-with-asbestosis-scaled.jpg "What Is the Life Expectancy of Someone with Asbestosis?")](https://www.pintas.com/practice-areas/lung-cancer/asbestosis-survival-rates "What Is the Life Expectancy of Someone with Asbestosis?")
 
-[#### Is Sexual Questioning Considered Sexual Abuse?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/is-sexual-questioning-considered-sexual-abuse/)
+[#### What Is the Life Expectancy of Someone with Asbestosis?](https://www.pintas.com/practice-areas/lung-cancer/asbestosis-survival-rates)
 
-[![How much does it cost to hire a mesothelioma lawyer?](https://www.pintas.com/wp-content/uploads/2020/05/mesothelioma-how-much-does-it-cost-to-hire-a-mesothelioma-lawyer.jpg "How Much Does It Cost to Hire a Mesothelioma Lawyer?")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/how-much-does-it-cost-to-hire-a-mesothelioma-lawyer/ "How Much Does It Cost to Hire a Mesothelioma Lawyer?")
+[![Why do elderly people die after a hip fracture?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-why-do-elderly-people-die-after-a-hip-fracture.jpg "Why Do Elderly People Die After a Hip Fracture?")](https://www.pintas.com/faq/why-do-elderly-people-die-after-a-hip-fracture/ "Why Do Elderly People Die After a Hip Fracture?")
 
-[#### How Much Does It Cost to Hire a Mesothelioma Lawyer?](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/how-much-does-it-cost-to-hire-a-mesothelioma-lawyer/)
+[#### Why Do Elderly People Die After a Hip Fracture?](https://www.pintas.com/faq/why-do-elderly-people-die-after-a-hip-fracture/)
 
-[![Do you need a lung transplant if you have mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/10/lung-cancer-mesothelioma-lawyer-do-you-need-a-lung-transplant-if-you-have-mesothelioma.jpg "Do You Need a Lung Transplant if You Have Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/do-you-need-a-lung-transplant-if-you-have-mesothelioma/ "Do You Need a Lung Transplant if You Have Mesothelioma?")
+[![Lawyers address assisted living abuse cases](https://www.pintas.com/wp-content/uploads/2021/02/practice-areas-personal-injury-assisted-living-accident-lawyer-do-nursing-home-lawyers-handle-assisted-living-abuse-and-neglect-cases-300x131.jpg "Lawyers Address Assisted Living Abuse Cases")](https://www.pintas.com/faq/do-nursing-home-lawyers-handle-assisted-living-abuse-and-neglect-cases/ "Lawyers Address Assisted Living Abuse Cases")
 
-[#### Do You Need a Lung Transplant if You Have Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/do-you-need-a-lung-transplant-if-you-have-mesothelioma/)
+[#### Lawyers Address Assisted Living Abuse Cases](https://www.pintas.com/faq/do-nursing-home-lawyers-handle-assisted-living-abuse-and-neglect-cases/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Phone
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
