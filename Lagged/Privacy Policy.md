@@ -225,9 +225,9 @@ Games you might like
 
 [Blob Opera](https://lagged.com/en/g/blob-opera) ![Blob Opera Game](https://imgs2.dab3games.com/blob-opera-game-ft2.png) top rated
 
-[TikTok Challenges 2025](https://lagged.com/en/g/tiktok-challenges-2025) ![TikTok Challenges 2025 Game](https://imgs2.dab3games.com/tiktok-202531.png)
-
 [Going Balls](https://lagged.com/en/g/going-balls19) ![Going Balls Game](https://imgs2.dab3games.com/going-ballz-game.png)
+
+[TikTok Challenges 2025](https://lagged.com/en/g/tiktok-challenges-2025) ![TikTok Challenges 2025 Game](https://imgs2.dab3games.com/tiktok-202531.png)
 
 [Bikini for Love](https://lagged.com/en/g/bikini-for-love) ![Bikini for Love Game](https://imgs2.dab3games.com/bikiniforlove-ft50.png)
 
