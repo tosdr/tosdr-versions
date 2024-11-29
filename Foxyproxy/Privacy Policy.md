@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Service was fine. I'll be using you again if a project calls for that type of thing.
+I took out a 1 month subscription to give the service a try. Wanted to be able to watch UK tv when out of the country and it works fine.
 
-Paul Sweeney
+Torrens Lyster
