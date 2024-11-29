@@ -133,7 +133,7 @@ English
     * [Allu Arjun](https://www.news18.com/movies/allu-arjun-breaks-silence-on-fahadh-faasils-absence-from-pushpa-2-promotions-i-really-miss-9136715.html)
     * [Taj Mahal](https://www.news18.com/viral/foreigner-visits-taj-mahal-with-elderly-father-shares-frustration-on-social-media-in-viral-video-9135413.html)
     * [Kareena Kapoor Khan](https://www.news18.com/web-stories/celebrities/5-kareena-kapoor-khan-inspired-saree-blouses-for-marriage-season-2642366/)
-    * [New Asteroid](https://www.news18.com/world/nasa-discovers-asteroid-that-can-make-every-person-on-earth-billionaire-9136169.html)
+    * [Maha CM Suspense](https://www.news18.com/politics/maharashtra-government-formation-new-cm-mahayuti-bjp-devendra-fadnavis-amit-shah-ncp-ajit-pawar-shiv-sena-eknath-shinde-delhi-latest-news-liveblog-9138922.html)
     * [Bengaluru Layoff](https://www.news18.com/viral/bengaluru-man-fired-after-2-5-months-over-a-text-message-says-feeling-confused-and-defeated-9138052.html)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
@@ -175,7 +175,7 @@ In Trends:
 * [Allu Arjun](https://www.news18.com/movies/allu-arjun-breaks-silence-on-fahadh-faasils-absence-from-pushpa-2-promotions-i-really-miss-9136715.html)
 * [Taj Mahal](https://www.news18.com/viral/foreigner-visits-taj-mahal-with-elderly-father-shares-frustration-on-social-media-in-viral-video-9135413.html)
 * [Kareena Kapoor Khan](https://www.news18.com/web-stories/celebrities/5-kareena-kapoor-khan-inspired-saree-blouses-for-marriage-season-2642366/)
-* [New Asteroid](https://www.news18.com/world/nasa-discovers-asteroid-that-can-make-every-person-on-earth-billionaire-9136169.html)
+* [Maha CM Suspense](https://www.news18.com/politics/maharashtra-government-formation-new-cm-mahayuti-bjp-devendra-fadnavis-amit-shah-ncp-ajit-pawar-shiv-sena-eknath-shinde-delhi-latest-news-liveblog-9138922.html)
 * [Bengaluru Layoff](https://www.news18.com/viral/bengaluru-man-fired-after-2-5-months-over-a-text-message-says-feeling-confused-and-defeated-9138052.html)
 
 * Follow Us
