@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Kemari-Johnson-326x245.jpg)](https://cwbchicago.com/2024/11/inmate-who-surrendered-gun-inside-cook-county-jail-found-the-weapon-shortly-before-turning-it-in-source-says.html "Inmate who surrendered gun inside Cook County jail found the weapon shortly before turning it in, source says")
+
+Citywide
+
+### [Inmate who surrendered gun inside Cook County jail found the weapon shortly before turning it in, source says](https://cwbchicago.com/2024/11/inmate-who-surrendered-gun-inside-cook-county-jail-found-the-weapon-shortly-before-turning-it-in-source-says.html "Inmate who surrendered gun inside Cook County jail found the weapon shortly before turning it in, source says")
+
+[November 26, 2024 7:42 PM](https://cwbchicago.com/2024/11)
+
+Investigators are still trying to determine how a firearm surrendered by an inmate at the Cook County jail last week was brought into the facility. But a source said he found it shortly before turning it in.[](https://cwbchicago.com/2024/11/inmate-who-surrendered-gun-inside-cook-county-jail-found-the-weapon-shortly-before-turning-it-in-source-says.html "Inmate who surrendered gun inside Cook County jail found the weapon shortly before turning it in, source says")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/35-Ashland-scene-326x245.jpg)](https://cwbchicago.com/2024/11/videos-released-of-fatal-crash-as-chicago-cops-followed-suspects-car.html "Videos released of fatal crash as Chicago cops ‘followed’ suspects’ car")
+
+McKinley Park
+
+### [Videos released of fatal crash as Chicago cops ‘followed’ suspects’ car](https://cwbchicago.com/2024/11/videos-released-of-fatal-crash-as-chicago-cops-followed-suspects-car.html "Videos released of fatal crash as Chicago cops ‘followed’ suspects’ car")
+
+[November 26, 2024 6:31 PM](https://cwbchicago.com/2024/11)
+
+COPA, the agency charged with investigating shootings and major accidents involving Chicago police officers, has released videos and other records from a car crash that left a man dead and two others injured as cops were following a suspect vehicle last month in McKinley Park.[](https://cwbchicago.com/2024/11/videos-released-of-fatal-crash-as-chicago-cops-followed-suspects-car.html "Videos released of fatal crash as Chicago cops ‘followed’ suspects’ car")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/11/bb17-326x245.jpg)](https://cwbchicago.com/2024/11/man-found-shot-unconscious-on-a-street-previously-served-by-shotspotter.html "Man found shot, unconscious on a street previously served by ShotSpotter")
 
 Chicago Lawn
@@ -252,26 +272,6 @@ Chicago Lawn
 [November 26, 2024 1:49 PM](https://cwbchicago.com/2024/11)
 
 CHICAGO — A man is in critical condition after being found unconscious, suffering from gunshot wounds in Chicago Lawn on Monday evening. Nobody called 911 to report gunfire, and, in fact, the person who found the man wasn’t even sure he had been shot. The shooting occurred in an area that used to be served[](https://cwbchicago.com/2024/11/man-found-shot-unconscious-on-a-street-previously-served-by-shotspotter.html "Man found shot, unconscious on a street previously served by ShotSpotter")
-
-[![](https://cwbchicago.com/wp-content/uploads/2018/04/1450LSD-1.jpg)](https://cwbchicago.com/2024/11/14%c2%bd-years-for-cross-town-carjacking-and-shooting-spree-that-ended-in-gold-coast.html "14½ years for cross-town carjacking and shooting spree that ended in Gold Coast")
-
-Gold Coast
-
-### [14½ years for cross-town carjacking and shooting spree that ended in Gold Coast](https://cwbchicago.com/2024/11/14%c2%bd-years-for-cross-town-carjacking-and-shooting-spree-that-ended-in-gold-coast.html "14½ years for cross-town carjacking and shooting spree that ended in Gold Coast")
-
-[November 26, 2024 11:21 AM](https://cwbchicago.com/2024/11)
-
-A federal judge has sentenced a man to 14½ years in prison for a violent 2018 crime spree in the Gold Coast during which he shot two people, stole three cars, and tried to steal two more.[](https://cwbchicago.com/2024/11/14%c2%bd-years-for-cross-town-carjacking-and-shooting-spree-that-ended-in-gold-coast.html "14½ years for cross-town carjacking and shooting spree that ended in Gold Coast")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/MALCOLM-MOFFETT-BROWN--326x245.jpg)](https://cwbchicago.com/2024/11/2-years-for-driver-who-pointed-gun-at-on-duty-cop-because-he-wanted-to-get-chased.html "2 years for driver who pointed gun at on-duty cop because he wanted to get chased")
-
-South Shore
-
-### [2 years for driver who pointed gun at on-duty cop because he wanted to get chased](https://cwbchicago.com/2024/11/2-years-for-driver-who-pointed-gun-at-on-duty-cop-because-he-wanted-to-get-chased.html "2 years for driver who pointed gun at on-duty cop because he wanted to get chased")
-
-[November 26, 2024 8:29 AM](https://cwbchicago.com/2024/11)
-
-A man who repeatedly aimed a gun at an on-duty Chicago police officer because he wanted to be involved in a police pursuit has been given a two-year prison sentence. But Malcolm Moffett-Brown will not spend any time in prison because his sentence will be offset by credits earned by being on electronic monitoring while the case was pending.[](https://cwbchicago.com/2024/11/2-years-for-driver-who-pointed-gun-at-on-duty-cop-because-he-wanted-to-get-chased.html "2 years for driver who pointed gun at on-duty cop because he wanted to get chased")
 
 Search
 
