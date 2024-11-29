@@ -226,11 +226,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Thursday, November 28, 2024**
+**Friday, November 29, 2024**
 
-**Happy Thanksgiving!**
-
-**...Foggy Conditions to Gradually to Lift Throughout Morning Hours Across Suwannee Valley and Western Peninsula...Isolated Showers and Thunderstorms Along Cold Front Across I-10 Corridor Throughout the Day...Possible Strong to Severe Thunderstorms; All Hazards Possible...Dry Conditions Throughout Peninsula...Foggy Conditions Return Throughout Peninsula Early Friday Morning; Dense Fog Possible...Moderate to High Risk for Rip Currents Across Panhandle and Numerous East Coast Beaches...Minor River Flooding for Withlacoochee River at Holder...No Tropical Development Expected Over the Next 7 Days...**
+**...Showers Quickly Moving Across North Florida and Along I-4 Corridor; Possible Thunderstorms Closer to Panhandle Coastline...Showers to Continue Throughout the Day With Drier and Colder Conditions Moving In Behind...Breezy Wind Gusts Developing This Afternoon Statewide...First Freeze of the Season Possible Overnight Along Western Panhandle; Low Temperatures Near or Below Freezing Expected...Feels-Like Conditions Dropping into Upper 20s to Middle 30s Throughout Much of North Florida Saturday Morning...Moderate to High Risk for Rip Currents Throughout North and Central Florida Beaches...No Tropical Development Expected Over the Next 7 Days...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
