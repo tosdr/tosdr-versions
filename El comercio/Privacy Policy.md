@@ -31,6 +31,659 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Avances en el procesamiento de datos 
+=====================================
+
+Los supercomputadores impulsan avances en IA, astrofísica y energía limpia, resolviendo problemas complejos a gran escala.
+--------------------------------------------------------------------------------------------------------------------------
+
+![Kurt Freund Ruf, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Kurt-Freund-Ruf.jpg)
+
+Los **datos** constituyen para el siglo XXI lo que fue el **petróleo** y los **avances** en la **tecnología** de refinación en el **siglo XX**. Por esta razón, tanto los países como las **empresas** están en una **competencia** constante para procesarlos de manera más eficiente, más rápida y con una mejor **interpretación** de los **resultados**. Desde inicios del siglo XXI hemos visto avances exponenciales en todos los **campos** de la **tecnología** de la **información**.
+
+Entre estos avances destaca la **computación cuántica**, que rompe con los **esquemas tradicionales** y abre nuevas fronteras en el **procesamiento** de datos. Sin embargo, en esta ocasión queremos abordar otro tema de igual **relevancia**: “la computación a exaescala, una tecnología que redefine las posibilidades del **procesamiento** de datos gracias a su velocidad casi incomprensible.”
+
+La computación a exaescala que analizan y resuelven 1 000 000 000 000 000 000 de operaciones de coma flotante por segundo (FLOPS)  o sea 1000 trillones de cálculos por segundo. Este nivel de capacidad se posiciona muy por encima de las **tecnologías** existentes hasta ahora.
+
+Un ejemplo destacado es la última **creación tecnológica** de Alphabet-Google, una empresa líder en **desarrollo tecnológico** que, gracias a este avance y al uso de la **inteligencia artificial**, abre nuevas **oportunidades**. Este sistema permite desarrollar **modelos matemáticos avanzados** sobre el cambio climático, acelerar **descubrimientos** en **ciencias médicas** y **farmacológicas**, y personalizar tratamientos médicos basados en la **genética** de los pacientes.
+
+En el **ámbito** de la **medicina**, esta **capacidad transformadora** puede analizar interacciones moleculares complejas, identificar **medicamentos** más efectivos y optimizar **tratamientos** personalizados. Esto significa que los **pacientes** recibirán terapias más precisas, mejorando tanto la **eficacia** como la rapidez en los **tratamientos**. Además, en las ciencias de la vida, la **computación** a exaescala acelera el desarrollo de nuevos fármacos y **terapias revolucionarias**.
+
+El **impacto** de esta **tecnología** no se limita a la **medicina**. Los supercomputadores son modulares, con diversas opciones de procesamiento, con una sola **infraestructura** de **gestión** y desarrollo de las **aplicaciones** y son capaces de responder a las preguntas de **investigación** más complejas del mundo. En el campo de la **inteligencia artificial** (IA), el **procesamiento** de **datos** a esta escala permite trabajar con conjuntos de datos más complejos y reconocer patrones más profundos. Esto es esencial para áreas como la **robótica**, la **movilidad autónoma** y otras aplicaciones que requieren toma de decisiones rápida y precisa.
+
+En la **investigación espacial** y la **astrofísica**, la computación a exaescala abre puertas a avances significativos. “Es posible modelar procesos complejos, como la **formación de estrellas y galaxias**, identificar **planetas** fuera de nuestro **sistema solar** e incluso abordar preguntas fundamentales sobre la formación del **universo**.” Asimismo, en física de partículas, esta **tecnología** permite avanzar hacia la obtención de **energía limpia** a partir de la **fusión nuclear**. En 2022, se alcanzó un hito en esta área al generar más **energía** de la que se inyectó al sistema durante un **experimento**, lo que marca un **progreso** significativo hacia un **futuro energético sostenible**.
+
+Sin embargo, no todo son **ventajas**. Uno de los mayores retos de la computación a exaescala es su consumo energético, que supera por varias **órdenes de magnitud al de tecnologías anteriores**. Este nivel de demanda requiere no solo una infraestructura robusta de **generación renovable**, sino también **sistemas de transmisión y distribución** capaces de sostener estos volúmenes de energía. A medida que estas **tecnologías** avanzan es crucial desarrollar **soluciones sostenibles** que equilibren la **capacidad tecnológica** con el **impacto ambiental**.
+
+El futuro de la computación a exaescala promete transformar profundamente la **sociedad**, en todas las actividades del ser humano. Sin embargo, el verdadero desafío será garantizar que estos avances se implementen de manera sostenible, aprovechando su inmenso potencial sin comprometer los **recursos** del **planeta**.
+
+Cartas a Quito / 29 de noviembre de 2024
+========================================
+
+Estas son las cartas a Quito de este viernes 29 de noviembre de 2024
+--------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+[Réplica al artículo de Opinión de Guido Calderón](https://www.elcomercio.com/opinion/turismo-bancario-guido-calderon-columnista.html?source=Internal&ref=Single+Content+Link)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Quito, 28 de noviembre de 2024
+
+La Asociación de Bancos Privados del Ecuador -ASOBANCA- respeta el derecho a la libre expresión, pilar fundamental de toda democracia. En ejercicio de este mismo derecho y en ejercicio del derecho a la réplica, con el objetivo de aclarar, desmentir y desmitificar las afirmaciones contenidas en la columna de opinión titulada “Turismo bancario”, publicada el 24 de noviembre de 2024 escrita por el Sr. Guido Calderón, cordialmente solicitamos a ustedes publicar el siguiente texto:
+
+**En la columna de opinión de marras se menciona que los bancos no tienen controles para el lavado de dinero**
+
+Las afirmaciones en la columna sobre la participación del sistema bancario en actividades ilícitas son claramente tendenciosas y carecen de fundamento. Los bancos privados cumplen estrictamente con las normativas nacionales e internacionales en materia de prevención de lavado de activos y financiamiento del terrorismo.
+
+El sistema bancario privado es el sector que más antigüedad tiene en el Ecuador en aplicar controles en materia de prevención de lavado de activos, así lo ha venido haciendo desde los años noventa con, la ya derogada ley de sustancias estupefacientes y psicotrópicas, hasta la actualidad.
+
+En ese sentido, el compromiso del sector bancario privado en la lucha contra el lavado de activos es permanente, que se demuestra además con la aplicación de acciones que la normativa nacional e internacional disponen para la prevención de lavado de activos.
+
+Tan es así, que el Informe de Evaluación Mutua de Ecuador, realizado por GAFILAT en 2023, destaca que los bancos privados son el sector que presenta un nivel más alto de comprensión de los riesgos de lavado de activos y ello les permite implementar medidas de mitigación dentro del ámbito de las facultades que les atribuye la ley.
+
+GAFILAT es una organización intergubernamental que agrupa a 18 países de América Latina y forma parte del Grupo de Acción Financiera Internacional (GAFI), entidad especializada específicamente en el combate del lavado de activos, el financiamiento del terrorismo y otras amenazas al sistema financiero internacional.
+
+La evaluación mutua, a la que antes se alude, es un ejercicio de auditoría que califica la solidez de los sistemas de prevención y combate al lavado de activos, financiamiento del terrorismo y financiamiento de la proliferación de armas de destrucción masiva (LA/FT/FPADM) de los países miembros.
+
+Dicha evaluación se lleva a cabo con base en la Metodología de Evaluación elaborada por el GAFI y aprobada por el Pleno de Representantes del GAFILAT y se ejecuta con expertos técnicos de varios países distintos del país evaluado, es decir esta metodología es estándar, se aplica en todo el mundo de la misma forma y se realiza por personas independientes.
+
+Asimismo, vale la pena resaltar que los bancos privados del Ecuador, en cumplimiento de la normativa vigente, reportan oportunamente a la Unidad de Análisis Financiero y Económico (UAFE) aquellas operaciones que superan el umbral establecido y aquellas operaciones inusuales o sospechosas. Además, proporcionan la información requerida por la Superintendencia de Bancos, la Fiscalía General del Estado, el Servicio de Rentas Internas (SRI) y la misma UAFE para las investigaciones correspondientes.
+
+En 2023, se registraron 4.516 Reportes de Operaciones Sospechosas (ROS), equivalentes a un promedio de 12 reportes diarios, por transacciones inusuales o injustificadas que no coinciden con el perfil económico de los involucrados y que, de acuerdo con el mandato legal, son remitidas a la UAFE para que sean evaluadas, investigadas y presentadas luego por esa entidad a la Fiscalía General del Estado.
+
+En este contexto, el sistema financiero privado colabora de manera permanente y activa con la Fiscalía y la Policía, respondiendo de manera oportuna a los requerimientos de información que estas entidades solicitan, apoyando así las labores de inteligencia, investigación y sanción dentro del marco legal establecido.
+
+**Se menciona que los bancos no hacen inclusión financiera**
+
+De acuerdo con información del Buró de Crédito AVAL, entre enero y octubre del año 2024, hubo 41.518 personas que accedieron por primera vez a un crédito en el sistema bancario privado. Esto implica que los bancos privados, en promedio, impulsaron la inclusión financiera, mediante acceso a crédito, de 4.152 personas en promedio cada mes.
+
+En el mismo periodo, estos nuevos clientes, obtuvieron un total de USD 148 millones en créditos. De ese total, el 54% (USD 88 millones) se destinaron a actividades productivas y el 46% (USD 68 millones), a satisfacer distintas necesidades de las familias ecuatorianas.
+
+La inclusión financiera de los bancos privados, también se enfoca en jóvenes menores de 25 años, que buscan impulsar sus emprendimientos y proyectos. En los diez meses de 2024, 93.208 jóvenes accedieron a crédito, y 6 de cada 10 operaciones fueron destinadas a microcréditos.
+
+Entre enero y octubre de 2024, un total de 731.110 personas naturales accedieron a créditos por un monto de USD 7.366 millones, incluyendo tanto a nuevos clientes como a los ya existentes. Del total de clientes, el 49% fueron hombres y el 51% mujeres. En particular, las mujeres optaron principalmente por el microcrédito, representando el 59% de las nuevas operaciones en este segmento, lo que equivale a 222 mil operaciones. Este dato resalta el importante rol que las mujeres están desempeñando en el acceso a financiamiento.
+
+Por otra parte, entre enero y octubre de 2024, 53.525 personas se incorporaron al sistema financiero formal, también por primera vez, a través de una tarjeta de crédito y realizaron operaciones con sus tarjetas por un monto de USD 42 millones.
+
+Hasta octubre de 2024, los bancos privados reportaron 3’151.401 personas naturales y 37.630 empresas con créditos otorgados y vigentes en su cartera de crédito.
+
+La inclusión financiera no solo implica el acceso a productos y servicios bancarios, sino también el apoyo a iniciativas que promuevan el desarrollo sostenible.
+
+En este sentido, la banca apoya diversos sectores a través de productos crediticios, financiando proyectos de construcción sostenible, emprendimientos liderados por mujeres, reciclaje y gestión de residuos, así como la producción más limpia, entre otros. También impulsa iniciativas en agricultura, acuacultura y manufactura sostenible, además de fomentar el transporte sostenible.
+
+A lo largo de los años, el sistema financiero privado ha trabajado continuamente en mejorar el bienestar financiero de sus clientes y la sociedad, implementando iniciativas alineadas con estándares internacionales de sostenibilidad lo que es destacado a nivel internacional por organismos internacionales, quienes miran a los bancos privados del país, como un referente global.
+
+**Se menciona que los bancos cobran intereses altos**
+
+Hace 17 años, el Estado ecuatoriano, mediante diversas reformas legales, intervino en el sistema financiero fijando, a través de normas, un límite o techo a las tasas de interés activas. En ese sentido, las tasas de interés activas son fijadas por entidades estatales.
+
+Es importante mencionar, que si bien poner límites a las tasas de interés activas perseguía el objetivo de ampliar el acceso al financiamiento de más ecuatorianos, los resultados han sido contrarios a los que se buscaba.
+
+Aunque la intención era dinamizar el crédito, en la práctica se ha limitado el acceso, especialmente para emprendedores, generando exclusión financiera, distorsiones en el sistema y concentración del crédito en menos manos.
+
+Es decir, fijar mediante normas o decisiones administrativas los límites o techos a las tasas de interés o bajarlas vía normativa no amplía el financiamiento, lo limita. De hecho, se han conducido diversos estudios locales e internacionales que lo demuestran.
+
+Según datos de Global Findex 2021, un estudio del Banco Mundial que se realiza en más de 150 países, en Ecuador solo 2 de cada 10 personas mayores de 15 años tienen acceso a financiamiento formal, mientras que el resto recurre al “chulco”, enfrentando tasas exorbitantes y riesgos para su integridad. De acuerdo con un estudio de Equifax (agosto de 2021), los prestamistas informales cobran tasas de interés de hasta 1.200% anual.
+
+Esto ha sido el resultado de aplicar una política de techos de tasas de interés activas, que impide que aquellos ecuatorianos que necesitan un crédito, pero que no tienen historial crediticio, no poseen garantías y tienen ingresos variables, puedan acceder al sistema formal y obtener en él un crédito.
+
+El problema en Ecuador no es la tasa de interés activa, como se sugiere en el editorial, sino el acceso al crédito. Es por ello que, cualquier cambio legal debe apuntar a facilitar el acceso a financiamiento formal y como lo han demostrado diversos estudios locales e internacionales, la idea de reducir por ley la tasa de interés no es el camino.
+
+Se deben crear las condiciones para atraer más inversión extranjera, promover más ahorro y más liquidez a la economía, para que esa nueva liquidez genere un espacio de reducción de tasas, tal como ocurre en cualquier otro tipo de mercado cuando hay más oferta.
+
+Según un estudio del Banco Mundial (octubre, 2020) en 108 países, muestra que la imposición de límites a las tasas de interés restringe el acceso al crédito, sobre todo a las personas de escasos recursos y las pequeñas y medianas empresas. Concluye que, cuando se reducen las tasas de interés por normativa, se provoca una represión financiera y hay menos crédito para familias y empresas.
+
+**Se menciona que el sistema bancario es cerrado y no tiene competencia internacional**
+
+En Ecuador no existe ninguna normativa que impida la entrada de nuevos competidores al mercado, ni locales y menos aún internacionales. De hecho, de los 24 bancos privados que tienen operaciones en Ecuador, actualmente 7 tienen capital extranjero.
+
+Lamentablemente, aquellos bancos globales que iniciaron su expansión en la década de los noventa no llegaron al país. De hecho, aquellos bancos latinoamericanos que están en expansión en esta década no han considerado al Ecuador en sus planes y claramente, las razones para esta situación, es la gran cantidad de regulaciones, controles y distorsiones que hacen que el negocio bancario en el país no sea atractivo para ellos.
+
+Un claro ejemplo de esto fue el intento de venta del Banco, cuyo único accionista es el Estado. A pesar de que el Estado consideró la posibilidad de monetizar ese activo a través de su venta, todo el marco jurídico que comentamos anteriormente impidió la llegada de nuevos inversionistas.
+
+En el proceso realizado entre 2021 y 2022, participaron 34 entidades financieras internacionales. Inicialmente, seis mostraron interés, y dos de ellas realizaron un exhaustivo proceso de debida diligencia. Sin embargo, la venta no se concretó.
+
+Además de existir un control absoluto, fijación y reducción por ley a las tasas de interés activas, a la fijación de tarifas por parte del Estado (con costo cero más del 80% de la transaccionalidad de servicios), a la necesidad de contar con autorizaciones para las más cotidianas iniciativas de ampliación del acceso a servicios bancarios, a la particular y excesiva carga tributaria del sector, a los altos riesgos reputacionales derivados de ataques políticos, se suma la inestable y en ocasiones inexiste seguridad jurídica.
+
+**Se afirma que los bancos viven tecnológicamente una década atrás.**
+
+Contrario a la afirmación de que el sistema bancario “vive una década atrás” en términos tecnológicos, las instituciones financieras en Ecuador han realizado inversiones significativas en innovación.
+
+La implementación de plataformas de banca en línea, aplicaciones móviles y sistemas de pago electrónicos ha modernizado la experiencia del cliente, alineándose con estándares internacionales y mejorando la eficiencia operativa.
+
+La tecnología y la digitalización han transformado el sistema financiero ecuatoriano, facilitando el acceso a servicios más rápidos, seguros y accesibles, especialmente a través de aplicaciones móviles y canales digitales.
+
+Con información al 2023, el 59% de las transacciones que se efectúan en el sistema bancario privado se realizan por medio de canales digitales. Este avance, acelerado por la pandemia, ha impulsado un aumento significativo en las transacciones digitales, con un crecimiento anual del 45,6% en 2023. Además, el uso de inteligencia artificial y big data ha mejorado la personalización de servicios, la gestión de riesgos y la prevención de fraudes, todo mientras se promueve la inclusión financiera, acercando los servicios a más personas
+
+Es preocupante que se utilice un medio tan influyente como El Comercio para difundir opiniones cargadas de inexactitudes que desinforman a la ciudadanía y desvirtúan el trabajo de un sector comprometido con el progreso del país.
+
+Las afirmaciones presentadas no solo son erróneas, sino que además ignoran deliberadamente los avances y esfuerzos tangibles realizados por las instituciones bancarias privadas para enfrentar los desafíos económicos y sociales del Ecuador.
+
+Exhortamos a que los editoriales respalden sus opiniones con datos concretos y verificables, y eviten caer en discursos que no tienen, sino por objetivo promover la desinformación, la subjetividad y la polarización.
+
+Atentamente,
+
+**DR. MARCO ANTONIO RODRÍGUEZ P.**
+
+Presidente Ejecutivo
+
+Alcalde de Cuenca dio detalles de cómo la ciudad enfrenta el estiaje
+====================================================================
+
+El alcalde de Cuenca, Cristian Zamora, trató varios temas, entre ellos, el estiaje, los incendios forestales y el plan de reforestación.
+----------------------------------------------------------------------------------------------------------------------------------------
+
+![Cristian Zamora, alcalde de Cuenca](https://www.elcomercio.com/wp-content/uploads/2024/11/cuenca-alcalde-estiaje.jpg)
+
+El alcalde de Cuenca, **Cristian Zamora**, habló con la prensa sobre la **situación hídrica** en la ciudad. El funcionario también se refirió a las medidas que se toman para reducir los daños causados por el estiaje.
+
+### Más noticias
+
+* [Fuertes lluvias en Cuenca se mantendrán hasta el sábado 30 de noviembre](https://www.elcomercio.com/actualidad/cuenca/fuertes-lluvias-cuenca-caudal-rios.html "Fuertes lluvias en Cuenca se mantendrán hasta el sábado 30 de noviembre")
+* [Cortes de luz en Quito este viernes 29 de noviembre](https://www.elcomercio.com/actualidad/quito/corte-luz-quito-viernes-29-noviembre.html "Cortes de luz en Quito este viernes 29 de noviembre")
+* [Cortes de luz en Cuenca del lunes 25 al jueves 28 de noviembre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-cuenca-de-lunes-25-a-jueves-28-de-noviembre.html "Cortes de luz en Cuenca del lunes 25 al jueves 28 de noviembre")
+
+El funcionario trató algunos temas en su entrevista dada este jueves 28 de noviembre a La Voz del Tomebamba, entre ellos, los i**ncendios forestales** y el plan de **reforestación**.
+
+Lluvias y estiaje
+-----------------
+
+Zamora manifestó que las **fuertes lluvias** que cayeron en Cuenca en los **últimos tres días** colaboraron para que los niveles de los caudales en los cuatro **ríos de la ciudad** mejoren.
+
+Sin embargo, aseguró “que no hay que bajar los brazos y mantenerse atentos a la situación”[.](https://www.cuenca.gob.ec/ "https://www.cuenca.gob.ec/")
+
+Según registró la Red Hidrometeorológica de Agua Potable (**Etapa EP**), hasta la mañana de este jueves, **dos ríos alcanzaron sus niveles normales**, mientras que los otros dos restantes mantienen sus niveles bajos:
+
+* **Río Tomebamba**: caudal normal con 7,47 m³/s
+* **Río Machángara**: caudal normal con 4,11 m³/s
+* **Río Yanuncay**: caudal bajo con 2,47 m³/s
+* **Río Tarqui**: caudal bajo con 1,96 m³/s
+
+**María Verónica Polo**, gerente de Etapa explicó que las condiciones de los ríos esta semana “son mejor que los presentados en los últimos días”.
+
+“La anterior semana llegamos a **niveles críticos** en algunos ríos, pero logramos suplir la necesidad gracias a la ayuda de la ciudadanía y a los trabajos técnicos realizados por la empresa”, comentó.
+
+La funcionaria, asimismo, detalló que los bajos caudales en los ríos fueron suplidos con agua de la **planta de Tixán**, que abastece alrededor del **44 % de los cuencanos**.
+
+Interconexión entre Tixán y El Cebollar
+---------------------------------------
+
+Sobre este tema, el Alcalde explicó que ve necesaria interconectar a las plantas de **Tixán** con **El Cebollar**.
+
+“Si logramos interconectar a ambas, esto nos permitirá enfrentar de mejor forma otra emergencia de sequía como la que vivimos, es una solución para el futuro, ya los estudios se están realizando”, señaló Zamora.
+
+Asimismo, dijo que se analiza la creación de **diques** que almacenen agua en la zona del **Parque Cajas**.
+
+Incendios forestales en Cuenca
+------------------------------
+
+Cristian Zamora también se refirió a cómo enfrentó la ciudad los **múltiples incendios forestales** que azotaron a Cuenca durante **20 días** en noviembre.
+
+El Alcalde **agradeció el trabajo** de los Bomberos, personeros de otras instituciones, comuneros y voluntarios en el combate de las llamas.
+
+“Estamos preparando un **homenaje** para nuestros Bomberos y para aquellos que colaboraron en la emergencia”, afirmó.
+
+Según señaló Zamora, por ahora **todos** los incendios forestales se encuentran **liquidados**.
+
+“Ya estaban controlados en su mayoría, pero las últimas lluvias nos ayudarán a que se liquiden”, detalló el alcalde.
+
+Se espera que en los próximos días, **Etapa** EP organice un programa de reforestación que incluya a empresas privadas, públicas, voluntarios y estudiantes.
+
+“La gente nos pregunta que cómo pueden ayudarnos a reforestar, estamos planificando una hoja de ruta, sobre todo para beneficiar al Parque Cajas, que fue gravemente afectado”, dijo en su entrevista.
+
+Críticas a Gobernador de Azuay
+------------------------------
+
+Finalmente, Cristian Zamora criticó a **Santiago Malo**, gobernador de Azuay por las recurrentes inasistencias al COE Cantonal.
+
+“He buscado que todas las autoridades estemos juntas, cuando el Gobernador nos convoca allí estamos, incluso en las ocasiones que no tenemos competencia, pero estamos ahí para estar unidos, no es correcto que no asista a las sesiones”, mencionó el Alcalde.
+
+Alfonso Quirola vuelve a ganar en la Vuelta Automovilística al Ecuador y saca ventaja
+=====================================================================================
+
+Alfonso Quirola y Leo Rojas lideran la Vuelta Automovilística al Ecuador y ganaron la etapa 4 del certamen.
+-----------------------------------------------------------------------------------------------------------
+
+![Alfonso Quirola y Leo Rojas abordo del Wolkswagen con el que lideran la Vuelta Automovilística al Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/Snapinsta.app_468817390_18449690881070040_7576597812494730039_n_1080.jpg)
+
+La cuarta etapa de la **Vuelta Automovilística al Ecuador 2024** se cumplió durante este jueves 28 de noviembre y volvió a dejar como líder a Alfonso Quirola. El piloto mantuvo el máximo puesto en la tabla general y también ganó el circuito.
+
+El corredor salió a la pista con **Leo Rojas** como copiloto en una etapa que se llevó en la provincia de Tungurahua. A diferencia de la fase previa, esta solo se corrió en tales tierras y no tuvo un recorrido interprovincial.
+
+### Más noticias:
+
+* [Alfonso Quirola ganó la tercera etapa de la Vuelta Automovilística al Ecuador](https://www.elcomercio.com/deportes/motor/alfonso-quirola-gano-tercera-etapa-vuelta-automovilistica-al-ecuador.html "Alfonso Quirola ganó la tercera etapa de la Vuelta Automovilística al Ecuador")
+* [¿Cómo será la Vuelta al Ecuador de automovilismo 2024?](https://www.elcomercio.com/deportes/vuelta-ecuador-automovilismo-2024-cronograma.html "¿Cómo será la Vuelta al Ecuador de automovilismo 2024?")
+* [La Fórmula 1 contará con un nuevo equipo en 2026](https://www.elcomercio.com/deportes/formula-1/formula1-nuevo-equipo-mundial-2026-f1.html "La Fórmula 1 contará con un nuevo equipo en 2026")
+
+Para hacerse con el triunfo, los pilotos abordaron el **Volkswagen Polo R5** de categoría RC2 que los ha acompañado durante toda la Vuelta. En esta oportunidad, el equipo que lidera Quirola logró cronometrar un tiempo de 50 minutos con 34 segundos.
+
+Como escoltas dentro la carrera, los pilotos **Martín Navas y Luis Mena** cruzaron la meta a bordo de un Citroën, tal como lo habían hecho en la etapa previa. Estos se quedaron a 18.9 segundos de los líderes de la competencia.
+
+En el tercer puesto, **Byron Giménez** e Israel Andrade arribaron con otro Citroën, pero dentro de la categoría N5 / Pro, la cual lideran. La diferencia frente al equipo de Quirola fue de 4 minutos y 32.5 segundos[.](https://es.wikipedia.org/wiki/Automovilismo "https://es.wikipedia.org/wiki/Automovilismo")
+
+Quirola y Rojas, líderes absolutos
+----------------------------------
+
+Con el triunfo en la cuarta etapa, **Alfonso Quirola** y Leo Rojas estiraron a 5 minutos y 51 segundos la ventaja que mantenían a nivel general ante Navas y Mena. Estos también los suceden dentro de la tabla general.
+
+En la **categoría RC2**, el equipo tampoco cuenta con mayores impedimentos dado que es uno de los dos presentes en ella. La escuadra que le acompaña también es la que lo persigue a nivel general, por lo que no hay mayores diferencias.
+
+¿Cuándo vuelve la Vuelta Automovilística al Ecuador?
+----------------------------------------------------
+
+Con las cuatro etapas de la **Vuelta Automovilística** finalizadas, a esta tan solo le quedan dos para que concluya. El viernes 29 de noviembre, los pilotos tendrán un día de descanso en su itinerario antes de continuar.
+
+Para el sábado 30 de noviembre del 2024 está planificada la última etapa de la Vuelta Automovilística al Ecuador. Esta se correrá entre **Imbabura y Pichincha**. A su vez, en la misma fecha se llevará a cabo la premiación en Quito,
+
+El Black Friday en Ecuador tiene sus propias reglas
+===================================================
+
+El Black Friday en Ecuador impulsa ventas con descuentos extendidos, estrategias digitales y apoyo al comercio local.
+---------------------------------------------------------------------------------------------------------------------
+
+![Local comercial con descuentos por el Black Friday en Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-68-2.jpg)
+
+El **Black Friday**, una tradición importada de **Estados Unidos**, se consolida como un evento clave para el **comercio ecuatoriano**. Esta fecha no solo **impulsa ventas**, sino que también refleja la capacidad de adaptación y las **estrategias innovadoras** de los comerciantes locales.
+
+### Más noticias
+
+* [Xiaomi presenta descuentos especiales por Black Friday](https://www.elcomercio.com/empresariales/xiaomi-presenta-descuentos-especiales-black-friday.html "Xiaomi presenta descuentos especiales por Black Friday")
+* [La seguridad se une a las necesidades del consumidor en este Black Friday](https://www.elcomercio.com/opinion/editorial/seguridad-necesidades-consumidor-black-frida.html "La seguridad se une a las necesidades del consumidor en este Black Friday")
+* [Los comercios y clientes se alistan para el Black Friday en Ecuador](https://www.elcomercio.com/actualidad/negocios/los-comercios-y-clientes-se-alistan-para-el-black-friday-en-ecuador.html "Los comercios y clientes se alistan para el Black Friday en Ecuador")
+
+En el país, esta jornada trasciende el **formato de un solo día**, extendiéndose a semanas completas gracias a la integración del comercio físico y digital.
+
+La extensión del Black Friday en Ecuador
+----------------------------------------
+
+**Gabriela Uquillas**, **directora ejecutiva de la Cámara de Comercio de Guayaquil (CCG)**, explica que, en respuesta a la crisis económica, los comerciantes deciden **alargar las promociones** para aprovechar al máximo las fechas.
+
+Este año, muchos negocios iniciaron sus **descuentos desde principios de noviembre**, destacando la resiliencia del sector comercial. Esta tendencia también permite que las ventas **aumenten gradualmente** a lo largo del mes.
+
+**Leonardo Ottati**, **presidente de la Cámara Ecuatoriana de Comercio Electrónico (CECE**), añade que la extensión responde a la integración de los **canales físicos y digitales**. El concepto de **“semana Black” o incluso “mes Black”** se ha vuelto común en el país, beneficiando tanto a los consumidores como a los comerciantes.
+
+Además, esta estrategia prepara el terreno para las **campañas navideñas** que comienzan inmediatamente **después del evento**.
+
+Estrategias comerciales para un evento prolongado
+-------------------------------------------------
+
+Uquillas señala que los descuentos prolongados, que van desde el **30% al 70%**, generan un incremento del 14% en el volumen de ventas en comparación con días normales.
+
+Para captar más clientes, muchos comerciantes **ofrecen promociones especiales y facilidades de pago**, como meses sin intereses, periodos de **gracia y financiamiento directo**, estrategias que han demostrado ser clave para atraer a un consumidor que busca optimizar sus compras en estas fechas.
+
+Ottati enfatiza que es crucial comprender el **inventario y optimizar aspectos como los tiempos de entrega y el servicio al cliente**. Además, menciona que la experiencia del consumidor, tanto en tiendas físicas como en plataformas digitales, juega un papel decisivo en las **decisiones de compra**.
+
+El comercio electrónico, en particular, requiere estrategias específicas para atraer a un mercado cada vez más exigente.
+
+> La seguridad es tu mejor oferta este Black Friday. 🔐Compra en sitios confiables y protege tus datos.  
+> ¡Evita ser víctima de fraude!" 🚨💸💰 [pic.twitter.com/IyetNNrcFg](https://t.co/IyetNNrcFg)
+> 
+> — CiberPolicía Pue (@CiberPoliciaPue) [November 26, 2024](https://twitter.com/CiberPoliciaPue/status/1861545474236522945?ref_src=twsrc%5Etfw)
+
+Impacto en el comercio local frente a cadenas internacionales
+-------------------------------------------------------------
+
+Para Uquillas, el Black Friday representa una gran oportunidad para que los comercios locales expandan su mercado y compitan con **grandes cadenas internacionales**.
+
+Las marcas ecuatorianas destacan por su capacidad de ofrecer planes de financiamiento, tiempos de entrega más cortos y un servicio al **cliente más accesible**. Estas ventajas les permiten diferenciarse en un mercado competitivo.
+
+Ottati resalta que las marcas internacionales también tienen una fuerte presencia durante esta temporada, pero las locales **cuentan con un catálogo más adaptado** a las necesidades de los consumidores.
+
+> Es el momento perfecto para tus compras. Encuentra ofertas exclusivas en [https://t.co/cLtGkOJaX4](https://t.co/cLtGkOJaX4) este 2 de diciembre. ¡Descuentos para aprovechar en un solo lugar![#CyberMondayCCG](https://twitter.com/hashtag/CyberMondayCCG?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/DBUQFXfZ9t](https://t.co/DBUQFXfZ9t)
+> 
+> — Cámara de Comercio de Guayaquil (@lacamaragye) [November 28, 2024](https://twitter.com/lacamaragye/status/1862154643913977863?ref_src=twsrc%5Etfw)
+
+Además, subraya que los comercios locales ofrecen **productos** de gran demanda, como electrodomésticos, tecnología y artículos para el hogar, con **beneficios adicionales** para sus clientes.
+
+Sectores más beneficiados y el crecimiento del comercio electrónico
+-------------------------------------------------------------------
+
+Según Uquillas, los sectores más beneficiados durante e**l Black Friday** incluyen tecnología, moda, belleza y turismo. Este evento también es clave para adelantar las compras navideñas, aumentando la **demanda** de artículos electrónicos, electrodomésticos y productos deportivos.
+
+Además, iniciativas como el **Cybermonday** complementan las oportunidades de venta en línea.
+
+Ottati menciona que el comercio electrónico representa aproximadamente el **20% de las ventas totales durante esta temporada**.
+
+Uquillas explica que este canal se ha convertido en un pilar para el mercado ecuatoriano, con cifras que alcanzaron los **5 000 millones de dólares en 2023 y se proyecta que lleguen a 5 500 millones de dólares en 2024**.
+
+Venezuela aprueba ley que ordena 30 años de prisión por promover sanciones extranjeras
+======================================================================================
+
+La ley de prisión por promover sanciones, aprobada por la Asamblea de Venezuela, debe ser aceptada por Nicolás Maduro.
+----------------------------------------------------------------------------------------------------------------------
+
+![La Asamblea de Venezuela aprobó ley de prisión por promover sanciones extranjeras al Gobierno.](https://www.elcomercio.com/wp-content/uploads/2024/11/venezuela-ley-sanciones.jpg)
+
+La **Asamblea Nacional de Venezuela** aprobó una ley que ordena **30 años de prisión** para quienes promueven **sanciones extranjeras** impuestas al Gobierno y autoridades estatales, este jueves 28 de noviembre de 2024.
+
+El órgano legislativo es controlado por el **chavismo** y la ley debe ser aprobada por **Nicolás Maduro** para que entre en vigor.
+
+### Más noticias:
+
+* [EE.UU. ‘consideraría’ ayudar a Edmundo González a regresar a Venezuela si él se lo pidiera](https://www.elcomercio.com/actualidad/mundo/ee-uu-consideraria-ayudar-edmundo-gonzalez-a-regresar-a-venezuela-pidiera.html "EE.UU. ‘consideraría’ ayudar a Edmundo González a regresar a Venezuela si él se lo pidiera")
+* [EE.UU. sanciona a 21 altos cargos de Venezuela por intentar ‘robar las elecciones’](https://www.elcomercio.com/actualidad/mundo/ee-uu-sanciona-21-altos-cargos-venezuela-intentar-robar-lelecciones.html "EE.UU. sanciona a 21 altos cargos de Venezuela por intentar ‘robar las elecciones’")
+* [Fiscalía de Venezuela abre investigación contra María Corina Machado](https://www.elcomercio.com/actualidad/mundo/fiscalia-venezuela-maria-corina-machado-investigacion.html "Fiscalía de Venezuela abre investigación contra María Corina Machado")
+
+Venezuela aprueba ley que ordena prisión a quienes promueven sanciones extranjeras
+----------------------------------------------------------------------------------
+
+Este jueves, la Asamblea de Venezuela, aprobó una ley que ordena penas de entre **25 y 30 años de prisión** para las personas que promuevan o estén implicadas, de cualquier manera, en las sanciones extranjeras impuestas al Gobierno y “autoridades” del Estado.
+
+Además, multas de hasta un millón de euros, es decir, **1 055 680 dólares**.
+
+La ‘Ley Orgánica Libertador Simón Bolívar contra el Bloqueo Imperialista y en Defensa de la República Bolivariana de Venezuela’ incluye **inhabilitación política** de 60 años
+
+Esto impedirá a los sancionados optar por cargos públicos o de elección popular.
+
+Asimismo, tampoco podrán competir en elecciones quien haya “promovido, instigado, solicitado, invocado, favorecido, respaldado o participado en la adopción o ejecución” de “**acciones armadas** o de fuerza, así como ataques cibernéticos” contra el país, sus instituciones o autoridades, muchas de ellas sancionadas por otros países.
+
+A las personas señaladas por estas acciones se les impondrá la misma condena e igual **penalización económica**, pagada con moneda local -bolívares- y con la tasa del euro como referencia, al ser más alta que la del dólar, usado de manera regular en el país.
+
+Los medios de comunicación que difundan cualquier tipo de mensajes que promuevan sanciones o medidas que “afecten a la República Bolivariana de Venezuela” también serán multados con la misma cantidad y podrían ser castigados con la salida de **circulación o del espectro radioeléctrico**, dependiendo de la plataforma que sea el caso.
+
+### Otras disposiciones de la ley
+
+La Ley considera **crímenes de lesa humanidad** a las sanciones internacionales.
+
+Esto, luego de que el país recibiera más de **900 medidas** de este tipo en la última década.
+
+Las medidas surgieron, principalmente, por parte de **Estados Unidos**, según los datos del Gobierno.
+
+Este nuevo marco legal también define como “acciones que ponen en **riesgo la soberanía**” el desconocimiento a de los poderes públicos.
+
+También, el reconocimiento de **investiduras** a sujetos que “simulen” representar el poder público.
+
+Además, se crea un **registro nacional** de personas bajo “presunción fundada” de incurrir en todas estas acciones.
+
+Los registrados corren el riesgo de congelamiento de sus **activos** y prohibición de hacer operaciones de compra y venta.
+
+En el caso de **extranjeros**, de ser expulsados y sometidos a una “**extinción de dominio**” para que el Estado le despoje de bienes.
+
+Messi y Cristiano, nominados al mejor del mundo en 2024
+=======================================================
+
+Lionel Messi y Cristiano Ronaldo están nominados al premio The Best en una edición en la que participarán los aficionados.
+--------------------------------------------------------------------------------------------------------------------------
+
+![Lionel Messi ante Cristiano Ronaldo en el partido amistoso del 19 de enero del 2023.](https://www.elcomercio.com/wp-content/uploads/2023/01/messi2.jpg)
+
+La FIFA ha dado a conocer la lista de nominados a los premios **The Best FIFA Football Awards™ 2024**, que reconocerán a las estrellas del año de fútbol masculino y femenino, tanto de clubes como de selecciones. Ya es posible votar en diversas categorías de premios en FIFA.com., según informa la Federación Internacional de Fútbol en una nota.
+
+En esta edición, **los aficionados podrán votar** en la elección de los ganadores del Premio The Best al Jugador de la FIFA de Fútbol, el Premio The Best a la Jugadora de la FIFA, el Premio The Best al Entrenador de la FIFA de Fútbol Masculino, el Premio The Best al Entrenador de la FIFA de Fútbol Femenino.
+
+### Más noticias:
+
+* [Lionel Messi anhela con regresar a Barcelona](https://www.elcomercio.com/deportes/futbol/lionel-messi-anhela-con-regresar-a-barcelona.html "Lionel Messi anhela con regresar a Barcelona")
+* [Cristiano Ronaldo quedó a 87 goles del millar](https://www.elcomercio.com/deportes/futbol/cristiano-ronaldo-doblete-champions-asia.html "Cristiano Ronaldo quedó a 87 goles del millar")
+* [Javier Mascherano será el nuevo DT de Lionel Messi y Campana](https://www.elcomercio.com/deportes/futbol/javier-mascherano-sera-el-nuevo-dt-de-lionel-messi-y-campana.html "Javier Mascherano será el nuevo DT de Lionel Messi y Campana")
+
+También en el Premio The Best al Guardameta de la FIFA y en el Premio The Best a la Guardameta de la FIFA, los votos de los aficionados tendrán el mismo peso que los de los **actuales capitanes y entrenadores** de las selecciones nacionales masculinas y femeninas, así como los de los representantes de medios de comunicación.
+
+En esta ocasión, los aficionados elegirán exclusivamente al ganador del **Premio de la Afición** de la FIFA, mientras que un panel de expertos elegirá el destinatario del **Premio Fair Play** de la FIFA[.](https://en.wikipedia.org/wiki/The_Best_FIFA_Football_Awards "https://en.wikipedia.org/wiki/The_Best_FIFA_Football_Awards")
+
+Los aficionados tendrán la oportunidad de elegir
+------------------------------------------------
+
+Los ganadores del nuevo **Premio Marta** y del **Premio Puskás** de la FIFA serán elegidos entre los aficionados y también por un panel de FIFA Legends, cuyo voto tendrá el mismo peso.
+
+Pero la novedad de la presente edición de The Best FIFA Football Awards™ está en que los aficionados tendrán la oportunidad de participar en la elección del **Premio The Best al once masculino** de la FIFA y el Premio The Best al once femenino de la FIFA.
+
+Así, los seguidores podrán elegir a sus jugadores entre una lista de **77 nominados** (22 defensores, 22 centrocampistas y 22 delanteros, más once guardametas) y colocarlos con el fin de formar su equipo. Los votos de los hinchas valdrán lo mismo que los de un panel de expertos.
+
+El **Premio Puskás de la FIFA** se otorgará al autor del mejor gol del fútbol masculino, con independencia del campeonato o la nacionalidad. Se hará entrega por primera vez del Premio Marta de la FIFA, bautizado en honor a la leyenda brasileña, al mejor gol de cualquier liga femenina del planeta.
+
+El plazo para votar en **FIFA.com** finaliza a las 23:59 h (CET) del próximo martes 10 de diciembre, y las reglas de adjudicación de todos los premios están disponibles en el FIFA Digital Hub.
+
+Nominados al The Best Femenino
+------------------------------
+
+Aitana Bonmatí (España), Barcelona
+
+Barbra Banda (Zambia), Shanghái Shengli/Orlando Pride
+
+Caroline Graham Hansen (Noruega), Barcelona
+
+Keira Walsh (Inglaterra), Barcelona
+
+Khadija Shaw (Jamaica), Manchester City
+
+Lauren Hemp (Inglaterra), Manchester City
+
+Lindsey Horan (Estados Unidos), Olympique de Lyon
+
+Lucy Bronze (Inglaterra), Barcelona/Chelsea
+
+Mallory Swanson (Estados Unidos), Chicago Red Stars
+
+Mariona Caldentey (España), Barcelona/Arsenal
+
+Naomi Girma (Estados Unidos), San Diego Wave
+
+Ona Batlle (España), Barcelona
+
+Salma Paralluelo (España), Barcelona
+
+Sophia Smith (Estados Unidos), Portland Thorns
+
+Tabitha Chawinga (Malaui), París Saint-Germain/Olympique de Lyon
+
+Trinity Rodman (Estados Unidos), Washington Spirit
+
+Lionel Messi y Cristiano Ronaldo, entre los candidatos al The Best
+------------------------------------------------------------------
+
+Dani Carvajal (España), Real Madrid
+
+Erling Haaland (Noruega), Manchester City
+
+Federico Valverde (Uruguay), Real Madrid
+
+Florian Wirtz (Alemania), Bayer Leverkusen
+
+Jude Bellingham (Inglaterra), Real Madrid
+
+Kylian Mbappé (Francia), París Saint-Germain/Real Madrid
+
+Lamine Yamal (España), Barcelona
+
+Lionel Messi (Argentina), Inter Miami
+
+Rodri (España), Manchester City
+
+Toni Kroos (Alemania), Real Madrid (retirado)
+
+Vinícius Jr. (Brasil), Real Madrid
+
+Nominadas a mejor entrenadora
+-----------------------------
+
+Arthur Elias (Brasil), Brasil
+
+Elena Sadiku (Suecia), Celtic
+
+Emma Hayes (Inglaterra), Chelsea/Estados Unidos
+
+Futoshi Ikeda (Japón), Japón
+
+Gareth Taylor (Inglaterra), Manchester City
+
+Jonatan Giráldez (España), Barcelona/Washington Spirit
+
+Sandrine Soubeyrand (Francia), París FC
+
+Sonia Bompastor (Francia), Olympique de Lyon/Chelsea
+
+Nominados a mejor entrenador
+----------------------------
+
+Carlo Ancelotti (Italia), Real Madrid
+
+Lionel Scaloni (Argentina), Argentina
+
+Luis de la Fuente (España), España
+
+Pep Guardiola (España), Manchester City
+
+Xabi Alonso (España), Bayer Leverkusen
+
+Nominadas al Premio The BEST a la Guardameta de la FIFA:
+
+Alyssa Naeher (Estados Unidos), Chicago Red Stars
+
+Ann-Katrin Berger (Alemania), Chelsea/NJ/NY Gotham
+
+Ayaka Yamashita (Japón), INAC Kobe Leonessa/Manchester City
+
+Cata Coll (España), Barcelona
+
+Mary Earps (Inglaterra), Manchester United/París Saint-Germain
+
+Nominados a mejor arquero
+-------------------------
+
+Andriy Lunin (Ucrania), Real Madrid
+
+David Raya (España), Arsenal
+
+Ederson (Brasil), Manchester City
+
+Emiliano Martínez (Argentina), Aston Villa
+
+Gianluigi Donnarumma (Italia), París Saint-Germain
+
+Mike Maignan (Francia), AC Milán
+
+Unai Simón (España), Athletic Club.
+
+También en la **página de la FIFA** se recogen las Nominadas al Premio The Best once femenino de la FIFA, los Nominados al premio The Best al once masculino de la FIFA, Premio Marta de la FIFA, Premio Puskás de la FIFA y Nominados al Premio a la Afición de la FIFA.
+
+Cortes de luz en Guayaquil para este viernes 29 de noviembre
+============================================================
+
+CNEL detalló la programación de cortes de luz en los sectores de Guayaquil para el último viernes de noviembre.
+---------------------------------------------------------------------------------------------------------------
+
+![Guayaquil tendrá cortes de luz de hasta siete horas](https://www.elcomercio.com/wp-content/uploads/2024/11/cortes-luz-viernes-29-guayaquil.jpg)
+
+La Corporación Nacional de Electricidad (**CNEL**) anunció los horarios de **cortes de luz** que tendrá **Guayaquil**, capital de Guayas, este viernes 29 de noviembre de 2024.
+
+### Más noticias
+
+* [Fuertes lluvias en Cuenca se mantendrán hasta el sábado 30 de noviembre](https://www.elcomercio.com/actualidad/cuenca/fuertes-lluvias-cuenca-caudal-rios.html "Fuertes lluvias en Cuenca se mantendrán hasta el sábado 30 de noviembre")
+* [Ecuador recibió primera importación de gas natural desde Perú](https://www.elcomercio.com/actualidad/negocios/ecuador-gas-natural-importacion-peru.html "Ecuador recibió primera importación de gas natural desde Perú")
+* [Cortes de luz en Quito este viernes 29 de noviembre](https://www.elcomercio.com/actualidad/quito/corte-luz-quito-viernes-29-noviembre.html "Cortes de luz en Quito este viernes 29 de noviembre")
+
+El anuncio de los cronogramas de **apagones** se dio, luego que el Ministerio de Energía elaborara la programación desde el viernes 29 de noviembre hasta el **domingo 1 de diciembre**.
+
+La cartera de Estado informó este jueves 28 de noviembre que se **realizaron varios análisis técnicos**, y que la conclusión fue que lo ideal era mantener racionamientos de **seis y siete horas** en Ecuador.
+
+Según el Gobierno, los apagones finalizarán a **finales de 2024**.
+
+Fuertes lluvias en el Austro
+----------------------------
+
+Por **tercer día consecutivo** se registran **fuertes lluvias** en **Cuenca** y otros sectores del sur de Ecuador. Este jueves 28 de noviembre de 2024, las precipitaciones estuvieron acompañadas con **tormentas** en algunos puntos de la ciudad.
+
+En **Cuenca**, como en el resto de ciudades del sur de Ecuador, se prevé que las lluvias considerables continúen hasta al menos el **fin de semana**.
+
+**Madelyn Enríquez**, analista de pronósticos del Instituto Nacional de Meteorología e Hidrología (**Inamhi**), explicó a **EL COMERCIO** que la presencia de lluvias en la región **Amazónica** y el **Callejón Interandino** se mantendrá el jueves 28, viernes 29 y sábado 30 de noviembre.
+
+Estas precipitaciones favorecen el caudal de los ríos, que alimentan las centrales hidroeléctricas del Austro: **Paute, Mazar y Sopladora**.
+
+Cortes de luz en Guayaquil para este viernes 29 de noviembre
+------------------------------------------------------------
+
+Los horarios de cortes de luz en Guayaquil se aplicarán entre seis y siete horas. En algunas zonas puntuales, los apagones durarán cinco horas.
+
+Esta programación está distribuida en **dos franjas horarias de cuatro y tres horas** para cada bloque.
+
+El sector industrial, en cambio, mantendrá una **suspensión del servicio** de cuatro horas continuas.
+
+Aquí puede revisar el [**cronograma completo**](https://es.wikipedia.org/wiki/Guayaquil "https://es.wikipedia.org/wiki/Guayaquil") de cortes de luz para este viernes 29 de noviembre:
+
+Richard Huera, campeón de la Vuelta al Ecuador, permanece en sus raíces
+=======================================================================
+
+Richard Huera ganó la Vuelta al Ecuador 2024 y fue recibido por grandes del ciclismo en su pueblo, donde continúa su entrenamiento.
+-----------------------------------------------------------------------------------------------------------------------------------
+
+![Richard Huera de Team Movistar Best PC en la Vuelta al Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-28T210105.450.jpg)
+
+**Richard Huera** del Team Movistar Best PC es el último ganador de la **Vuelta al Ecuador** de ciclismo y sueña con llegar a la máxima élite. Mientras construye su camino, el ciclista -que se considera un soñador- permanece en su tierra natal y donde empezó ese sueño de rodar.
+
+Parado en dos pedales y con los vítores a su alrededor, Huera ascendió la cuesta de **Cuicocha** (Imbabura) en la penúltima etapa del **certamen**. En la bajada, no escatimó esfuerzos y se potenció para cruzar la meta con los brazos abiertos y la seguridad de que aquello marcaba un punto de inflexión en el certamen.
+
+### Más noticias:
+
+* [Richard Huera ganó la Vuelta al Ecuador 2024](https://www.elcomercio.com/deportes/ciclismo/richard-huera-campeon-vuelta-ecuador.html "Richard Huera ganó la Vuelta al Ecuador 2024")
+* [¿Cómo será la etapa final de la Vuelta al Ecuador?](https://www.elcomercio.com/deportes/ciclismo/trayecto-ultima-etapa-vuelta-ecuador.html "¿Cómo será la etapa final de la Vuelta al Ecuador?")
+* [Bayron Guamá sueña y ve por su equipo en la Vuelta a Ecuador](https://www.elcomercio.com/deportes/bayron-guama-vuelta-ecuador-movistar.html "Bayron Guamá sueña y ve por su equipo en la Vuelta a Ecuador")
+
+En aquella oportunidad, Huera sacó más de un minuto de ventaja sobre quienes habían sido líderes en la tabla general del evento: el español **Óscar Sevilla** y su compañero de equipo **Brayan Obando**. Con eso, el camino quedó allanado para que en la última etapa se consagre y mantenga el jersey amarillo como campeón de la Vuelta al Ecuador.
+
+Ya con el título sobre sí, con su nombre dentro de la historia ciclística del país y tras la vorágine de emociones que le representó ganar, este se mantiene en su cotidiano y con los suyos. Sabe que la familia es el pilar de su éxito y el **Playón de San Francisco** (Sucumbíos), el espacio para vivirlos.
+
+Richard Huera, homenajeado por los mejores
+------------------------------------------
+
+Tras su victoria en la **Vuelta al Ecuador**, Huera retornó al Playón y se mantiene con sus entrenamientos. Pese a ello, se llevó una sorpresa al recibir un homenaje de parte de dos figuras del ciclismo ecuatoriano, relata a EL COMERCIO.
+
+A raíz de su arribo, en aquella localidad de la Amazonía, este fue recibido por **Jonathan Narváez**, ciclista del Emirates UAE y ciclista olímpico con Ecuador, y **Jefferson Cepeda**, del Movistar Team de España. Ambos forman parte de equipos del Word Tour de la UCI y participan en las más grandes competencias ciclísticas.
+
+“**El otro día estuvieron por acá, nos hicieron un bonito recibimiento por todos los resultados que hemos obtenido en la temporada**. Es un pueblo pequeño, pero de donde han salido muchos deportistas”, relata Huera[.](https://en.wikipedia.org/wiki/Vuelta_al_Ecuador "https://en.wikipedia.org/wiki/Vuelta_al_Ecuador")
+
+Salvo por sus traslados a competencias, el Playón es su **residencia habitual** y de lunes a domingo realiza sus actividades. Desde las 8 de la mañana ya está montado en la bicicleta y le dedica entre tres y cuatro horas a sus ejercicios. Pese a ello, si deja la localidad oriental es para dar el salto a lo más alto del ciclismo.
+
+Richard Huera sueña con Europa
+------------------------------
+
+**A los 15 años** y con el impuso de su padre, quien también se dedicó al deporte de dos ruedas, Huera empezó a pedalear en el pueblo que lo acoge y se formó en la escuela de ciclistas de este. El ganar la Vuelta al Ecuador, para él, no cambia mucho frente a sus **relaciones** y cómo se desempeña en su cotidiano, pues cree que su familia y sus amigos, inclusive, son quienes celebran más sus triunfos. En lo que sí cambia es en su proyección.
+
+“**Todos los días me levanto con el pensamiento de que puedo estar en un equipo de más categoría, en un equipo de Europa**“. El ciclismo se basa en resultados. Espero mantenerme en forma, continuar demostrando el talento que tengo y, en cualquier momento, dar el salto”, sostiene.
+
+A sus 25 años no pierde la esperanza y, además de la Vuelta, también cuenta con el **Campeonato Nacional de Ruta de 2022**. La confianza no se pierde y solo pide **tiempo y paciencia** para que su nombre esté entre los grandes ciclistas que representan al Ecuador en el exterior.
+
+Álvaro Noboa fue internado en una clínica de Guayaquil
+======================================================
+
+El empresario Álvaro Noboa ingresó a la clínica desde la tarde de este jueves.
+------------------------------------------------------------------------------
+
+![Álvaro Noboa sufrió un infarto.](https://www.elcomercio.com/wp-content/uploads/2023/05/11-9.jpg)
+
+**Álvaro Noboa Pontón** fue internado en una **clínica de Guayaquil**, este jueves 28 de noviembre de 2024[.](https://es.wikipedia.org/wiki/%C3%81lvaro_Noboa)
+
+Noboa Pontón es padre del presidente **Daniel Noboa**, empresario y fue candidato presidencial por varias ocasiones.
+
+### Más noticias:
+
+* [Daniel Noboa homenajea a su padre, Álvaro Noboa, con importante condecoración](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-homenajealvaro-noboa.html)
+
+Álvaro Noboa, internado en una clínica en Guayaquil
+---------------------------------------------------
+
+El empresario ingresó en una **clínica** de Guayaquil esta tarde.
+
+Existe un fuerte **operativo de seguridad** alrededor de esa casa de salud.
+
+El presidente **Daniel Noboa** no se ha pronunciado aún sobre este hecho.
+
+Fuentes extraoficiales señalaron que el excandidato habría sufrido un **infarto** y se encuentra en la Unidad de Cuidados Intensivos.
+
+El pasado 9 de octubre, Daniel Noboa entregó una **condecoración** a su padre, Álvaro Noboa Pontón.
+
+El homenaje se realizó durante la sesión solemne por la independencia de Guayaquil, realizada en el Salón Simón Bolívar de la Gobernación del Guayas.
+
+Antes que Daniel Noboa logre la Presidencia de Ecuador en su primer intento, su padre la buscó en cinco ocasiones, en: 1998, 2002, 2006, 2009 y 2013.
+
+En 2007, una mayoría de la población le eligió como asambleísta. Noboa es el fundador del Partido Renovador Institucional Acción Nacional (Prian).
+
+Como empresario es propietario del grupo Noboa, que incluye más de 100 empresas en diversas industrias, destacándose en la exportación de banano.
+
+**_Noticia en desarrollo…_**
+
 Silvia Pinal, la última diva del cine de oro de México, falleció
 ================================================================
 
@@ -41,53 +694,58 @@ Silvia Pinal fue una de las más importantes actrices de México. La 'diva del c
 
 Silvia Pinal, una de las grandes actrices y considerada la última diva de la época de oro del cine de México, falleció a los 93 años, este jueves 28 de noviembre de 2024.
 
+### Más noticias
+
+* [Las claves del éxito en los musicales cinematográficos](https://www.elcomercio.com/tendencias/las-claves-del-exito-en-los-musicales-cinematograficos.html "Las claves del éxito en los musicales cinematográficos")
+* [Se prepara una adaptación al cine de la exitosa serie ‘Juego de Tronos’](https://www.elcomercio.com/tendencias/trending/juego-tronos-serie-pelicula.html "Se prepara una adaptación al cine de la exitosa serie ‘Juego de Tronos’ ")
+* [Te contamos la historia de Godzilla, el rey de los monstruos en el cine](https://www.elcomercio.com/tendencias/cine/godzilla-historia-cine-japon.html "Te contamos la historia de Godzilla, el rey de los monstruos en el cine ")
+
 La actriz, empresaria, productora, presentadora de televisión y, en un momento, política, estuvo internada en un hospital en la última semana por complicaciones médicas.
 
 Trayectoria de Silvia Pinal
 ---------------------------
 
-Pinal, nacida en 1931 en Guaymas, en el norteño estado de Sonora, deja un legado de más de 60 años.
+**Pinal**, nacida en **1931** en **Guaymas**, en el norteño estado de **Sonora**, deja un legado de más de **60 años**.
 
-Pinal fue una incansable artista que durante su vida trabajó en cine, teatro, televisión y espectáculos de cabaret y palenque.
+### Cine de oro
 
-Su camino a la gloria pasó por películas en donde compartió cartel con otros gigantes del cine de oro como Mario Moreno ‘Cantinflas’ en ‘Puerta joven’ (1949), y Germán Valdés ‘Tin Tan’ en ‘El rey del barrio’ (1950) y ‘Me traes de un ala’ (1952).
+Pinal trabajó en **cine**, **teatro**, **televisión** y espectáculos de **palenque**.
 
-Mientras que con Pedro Infante, el “ídolo de México”, compartió pantalla en ‘El inocente’ (1956).
+Su camino a la gloria pasó por películas en donde compartió cartel con otros gigantes del **cine de oro** como **Mario Moreno ‘Cantinflas’** en _‘_Puerta joven_’_ (1949), y **Germán Valdés ‘Tin Tan’** en _‘_El rey del barrio_’_ (1950) y _‘_Me traes de un ala_’_ (1952).
 
-La fama internacional la alcanzó al convertirse en la musa del director español Luis Buñuel, quien la inmortalizó en ‘Viridiana’ (1961).
+Mientras que con **Pedro Infante**, el **“ídolo de México”**, compartió pantalla en _‘_El inocente_’_ (1956).
 
-Con el cineasta español también protagonizó otros clásicos como ‘El ángel exterminador’ (1962) y ‘Simón del desierto’ (1964).
+La fama internacional la alcanzó al convertirse en la favorita del director español **Luis Buñuel**, quien la inmortalizó en _‘_Viridiana_’_ (1961).
 
-La artista afianzó su carrera con ‘Los cuervos están de luto’ (1965), ‘La soldadera’, (1967), ‘Los cañones de San Sebastián’ (1968), donde comparte cartel con Anthony Quinn, ‘Shark’ (1969), con Burt Reynolds, y en ‘Veinticuatro horas de placer’ (1969), junto a Mauricio Garcés.
+Con el cineasta español también protagonizó otros clásicos como _‘_El ángel exterminador_’_ (1962) y _‘_Simón del desierto’ (1964).
 
-Pinal se convirtió en una figura cercana para toda una nueva generación de mexicanos cuando produjo y presentó la serie de antología ‘Mujer, casos de la vida real’ (1986-2007) en la televisión abierta.
+La artista afianzó su carrera con _‘_Los cuervos están de luto_’_ (1965), _‘_La soldadera_’_ (1967), _‘_Los cañones de San Sebastián_’_ (1968), donde comparte cartel con **Anthony Quinn**, _‘_Shark_’_ (1969), con **Burt Reynolds**, y en _‘_Veinticuatro horas de placer_’_ (1969), junto a **Mauricio Garcés**.
 
-El programa, a modo de telenovela, presentaba cada día la historia de una mujer que llegaba a manos de los productores para ser interpretado por actores.
+### Mujer, casos de la vida real
 
-El contenido solía estar centrado en casos de violencia, marginación o discriminación.
+Pinal se convirtió en una figura cercana para toda una nueva generación de mexicanos cuando produjo y presentó la serie de antología _‘_Mujer, casos de la vida real_’_ (1986-2007) en la **televisión abierta**.
 
-‘Mujer, casos de la vida real’, y Pinal como su presentadora, dieron pie a una frase que hasta el día de hoy forma parte de la retranca mexicana: “Acompáñenme a ver esta triste historia”, decía la actriz en su faceta de conductora.
+El programa, a modo de **telenovela**, presentaba cada día la historia de una mujer que llegaba a manos de los productores para ser interpretada por actores.
 
-Problemas personales Su vida personal no fue sencilla, estuvo casada con el actor cubano Rafael Banquells (1947-1952), con el empresario Gustavo Alatriste (1961-1967), con el cantante mexicano-venezolano Enrique Guzmán (1967-1976) y con el político Tulio Hernández Gómez (1982-1995).
+El contenido solía estar centrado en casos de **violencia**, **marginación** o **discriminación**.
 
-De esos matrimonios nacieron la actriz Silvia Pasquel, la cantante Alejandra Guzmán y su hermano Luis Enrique, y Viridiana Alatriste, quien falleció en un accidente automovilístico a corta edad.
+Hijos y esposos de Pinal
+------------------------
 
-En abril pasado, la modelo Frida Sofía, hija de Alejandra, acusó públicamente a su abuelo Enrique Guzmán de abusar sexualmente de ella cuando tenía tan solo cinco años y de también golpear a Pinal.
+Pinal estuvo casada con el actor cubano **Rafael Banquells** (1947-1952), con el empresario **Gustavo Alatriste** (1961-1967), con el cantante mexicano-venezolano **Enrique Guzmán** (1967-1976) y con el político **Tulio Hernández Gómez** (1982-1995).
 
-Tras ser acusada por Guzmán de tener problemas psiquiátricos, Pinal salió en defensa de su nieta con una carta.
+De esos matrimonios nacieron la actriz **Silvia Pasquel**, la cantante **Alejandra Guzmán** y su hermano **Luis Enrique**, y **Viridiana Alatriste**, quien falleció en un accidente automovilístico a corta edad.
 
-“No soy indiferente a lo que sucede dentro de mi seno familiar. Frida, tu abuela te ama intensamente. Nos necesitamos ambas”, escribió la actriz.
-
-La violencia de Guzmán queda retratada en la bioserie ‘Silvia Pinal, frente a ti’ (2018), basada en su libro autobiográfico ‘Esta soy yo: Silvia Pinal’, en donde el cantante de rock es interpretado con el nombre de Felipe Román.
+Silvia Pinal también tenía relación con **Luis Miguel**. La actriz y el cantante eran cercanos tras la relación que tuvo ‘El Sol de México’ con Stephanie Salas, hija de Sylvia Pasquel. Stephanie y Luis Miguel tuvieron una **hija juntos**.
 
 El adiós definitivo
 -------------------
 
-Silvia Pinal estuvo en grave riesgo durante la pandemia por covid-19, pero logró reponerse[.](https://es.wikipedia.org/wiki/Silvia_Pinal "https://es.wikipedia.org/wiki/Silvia_Pinal")
+Silvia Pinal estuvo en grave riesgo durante la pandemia por **covid-19**, pero logró reponerse[.](https://es.wikipedia.org/wiki/Silvia_Pinal "https://es.wikipedia.org/wiki/Silvia_Pinal")
 
-Sin embargo, el 21 de noviembre fue hospitalizada otra vez tras por una nueva complicación médica.
+Sin embargo, el 21 de noviembre fue **hospitalizada** otra vez tras por una nueva complicación médica.
 
-Una semana después, a los 93 años de edad, una de las grandes personalidades de la historia de la cultura mexicana falleció, dejando un legado eterno para el cine de este país.
+Una semana después, a los 93 años de edad, una de las **grandes personalidades de la historia** de la cultura mexicana falleció, dejando un legado eterno para el cine de este país.
 
 TCE tomó una decisión sobre denuncia de Ana Chóez contra Aquiles Alvarez
 ========================================================================
@@ -649,616 +1307,3 @@ Para organizar mejor su circulación, las autoridades definieron tres polígonos
 * **Polígono 1**: Av. El Inca, Av. 6 de Diciembre, Av. Cristóbal Colón y Av. Río Amazonas.
 * **Polígono 2**: Av. Ernesto Noboa Caamaño, Av. Federico González Suárez, Av. Cristóbal Colón y Av. 12 de Octubre.
 * **Polígono 3**: Centro Histórico, delimitado por calles como Imbabura, Bolívar y José Joaquín de Olmedo.
-
-La FEF restituye sus tres puntos a Liga de Quito
-================================================
-
-Liga de Quito conoció el dictamen de su apelación para recuperar tres puntos en la segunda etapa de la Liga Pro tras una sanción.
----------------------------------------------------------------------------------------------------------------------------------
-
-![Ezequiel Piovi, capitán de Liga de Quito, en un partido de la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-28T144457.969.jpg)
-
-**Liga de Quito** aumentó sus posibilidades de cara a la última fecha de la segunda etapa de la Liga Pro. Los albos recibieron el dictamen de una apelación, recuperaron tres puntos y en su siguiente duelo definirán si van a la final.
-
-A tan solo un partido de que finalice la campaña regular del campeonato ecuatoriano, la escuadra azucena contaba con **29 puntos** en la tabla de posiciones y +14 de gol diferencia. Aquello lo ubicaba en la segunda posición de la tabla de posiciones debido al último factor.
-
-### Más noticias:
-
-* [Mario Pineida se burla nuevamente de Liga de Quito tras ser campeón](https://www.elcomercio.com/deportes/futbol/mario-pineida-se-burla-nuevamente-de-liga-de-quito-tras-ser-campeon.html "Mario Pineida se burla nuevamente de Liga de Quito tras ser campeón")
-* [Liga de Quito recibió una buena noticia de la Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-de-quito-recibio-una-buena-noticia-de-la-liga-pro.html "Liga de Quito recibió una buena noticia de la Liga Pro")
-* [Liga de Quito y su pelea por los puntos, ¿tienen posibilidad de recuperarlos?](https://www.elcomercio.com/deportes/futbol/liga-de-quito-pelea-por-puntos-tienen-posibilidad-de-recuperarlos.html "Liga de Quito y su pelea por los puntos, ¿tienen posibilidad de recuperarlos?")
-
-La restitución de sus unidades, Liga de Quito queda en la cima con 32 unidades y tres puntos sobre Independiente del Valle. Aquello lo deja como favorito de cara a su siguiente partido y para disputar el título del campeonato.
-
-En la última fecha, los clubes se medirán ante rivales distintos en la última fecha, **Liga de Quito** lo hará ante Deportivo Cuenca e Independiente ante **Orense**. Los albos lo harán como locales en el Estadio Rodrigo Paz Delgado y los rayados como visitantes en el 9 de mayo de Machala.
-
-¿Cuándo se resolvió la apelación de Liga de Quito?
---------------------------------------------------
-
-Este jueves 28 de noviembre del 2024 a las 17:00, la **Comisión Disciplinaria de la Federación Ecuatoriana de Fútbol (FEF)** se reunió para tratar el tema. Una vez que finalizó su sesión, Liga de Quito recibió la notificación de si se le restituían o no sus tres puntos.
-
-“Se comunica que el día de hoy, 28 de noviembre del 2024 a las 18:00, el Tribunal de Apelación de la Federación Ecuatoriana de Fútbol aceptó el recurso de apelación interpuesto por Liga Deportiva Universitaria, revocó el oficio. C.D. 084-2024, levantó la prohibición de negociar jugadores y restituyó los 3 puntos inicialmente restados al club en todas la categoría”, expuso la ‘U’ en un comunicado.
-
-Dentro de su argumento, **Liga de Quito** señaló que no incumplió con acuerdos de pago para que se lo sancione, sin embargo, no notificó a la FEF de su acción. A partir de ello, los albos esperaban que se revise la situación y se dé vuelta con la sanción previa.
-
-¿Por qué sancionaron a Liga de Quito?
--------------------------------------
-
-El sábado 16 de noviembre del 2024, con tres fechas aún pendientes en **Liga Pro,** la FEF dio a conocer la sanción expuesta hacia Liga de Quito. Por medio de una notificación, la entidad restó a los albos tres puntos en la segunda etapa y la tabla acumulada.
-
-La razón de la penalización en el documento fue que Liga no cumplió con obligaciones económicas dentro del plazo establecido. Aquello con respecto a deudas que mantenía con **Renato Ibarra y Franklin Guerra.**
-
-Después del suceso, la **FEF** habilitó a la ‘U’ para jugar el campeonato debido a que se llegó a un acuerdo de pago con Ibarra y se solventó la deuda de Guerra. Pese a ello, los puntos no fueron recuperados debido a que se tratan de **sanciones diferentes.**  
-
-Fuerzas Armadas encontraron celulares y otros objetos prohibidos en dos cárceles
-================================================================================
-
-Las Fuerzas Armadas encontraron los teléfonos escondidos en colchones y paredes de las cárceles.
-------------------------------------------------------------------------------------------------
-
-![Los militares realizan controles periódicos en las cárceles del país.](https://www.elcomercio.com/wp-content/uploads/2024/11/carceles.jpg)
-
-**Fuerzas Armadas (FF.AA.)** encontraron celulares y otros objetos prohibidos en dos **cárceles**, este miércoles 27 de noviembre de 2024[.](https://es.wikipedia.org/wiki/Fuerzas_Armadas_del_Ecuador)
-
-Los militares mantienen los **controles** en los centros de privación de la libertad del país.
-
-### Más noticias:
-
-* [Tres instituciones firman convenio sobre las telecomunicaciones en cárceles](https://www.elcomercio.com/actualidad/seguridad/tres-instituciones-convenio-telecomunicaciones-carceles.html "Tres instituciones firman convenio sobre las telecomunicaciones en cárceles")
-* [Alerta por fuga de reos en la cárcel Regional Guayas este sábado 23 de noviembre](https://www.elcomercio.com/actualidad/seguridad/fuga-reos-carcel-regional-guayas-sabado-23-noviembre.html "Alerta por fuga de reos en la cárcel Regional Guayas este sábado 23 de noviembre")
-
-Los lugares en los que las Fuerzas Armadas enconotraron los celulares
----------------------------------------------------------------------
-
-Los militares realizaron operativos en **dos centros de privación de la libertad** del país.
-
-Las Fuerzas Armadas encontraron celulares y otros objetos prohibidos en uno de los pilares del pabellón de mediana seguridad de la cárcel de **Los Ríos**.
-
-Fueron siete teléfonos y **cables** para cargarlos.
-
-Los uniformados hicieron huecos en la **pared** para poder extraer los equipos.
-
-> [#LosRíos](https://twitter.com/hashtag/LosR%C3%ADos?src=hash&ref_src=twsrc%5Etfw) | Fuerzas Armadas del Ecuador mediante una intervención en el Centro de Privación de Libertad Los Ríos, realizaron un registro al pabellón de mediana seguridad, decomisando 7 teléfonos celulares.[#FFAAContigo](https://twitter.com/hashtag/FFAAContigo?src=hash&ref_src=twsrc%5Etfw)[#EcuadorUnaSolaFuerza](https://twitter.com/hashtag/EcuadorUnaSolaFuerza?src=hash&ref_src=twsrc%5Etfw) 🇪🇨 [pic.twitter.com/q5gweOeDEg](https://t.co/q5gweOeDEg)
-> 
-> — Fuerzas Armadas del Ecuador (@FFAAECUADOR) [November 28, 2024](https://twitter.com/FFAAECUADOR/status/1861940830463787170?ref_src=twsrc%5Etfw)
-
-Las Fuerzas Armadas también realizaron otra requisa en la **cárcel de Sucumbíos**.
-
-En este centro de privación de la libertad, los uniformados hallaron teléfonos escondidos en **colchones**.
-
-Mientras se realizaba la inspección, los presos fueron sacados al **patio.**
-
-En esta cárcel también se encontró dinero en efectivo, **objetos cortopunzantes**, canecas con licor, droga y hasta una licuadora.
-
-> [#Sucumbíos](https://twitter.com/hashtag/Sucumb%C3%ADos?src=hash&ref_src=twsrc%5Etfw) | [#BloqueDeseguridad](https://twitter.com/hashtag/BloqueDeseguridad?src=hash&ref_src=twsrc%5Etfw) realizó una nueva intervención en el Centro de Privación de Libertad Nº 1 Sucumbíos, donde se encontró celulares, dinero en efectivo, objetos cortopunzantes, canecas de licor y SCSF [#FFAAContigo](https://twitter.com/hashtag/FFAAContigo?src=hash&ref_src=twsrc%5Etfw)[#EcuadorUnaSolaFuerza](https://twitter.com/hashtag/EcuadorUnaSolaFuerza?src=hash&ref_src=twsrc%5Etfw) 🇪🇨 [pic.twitter.com/jRpzxU6mGX](https://t.co/jRpzxU6mGX)
-> 
-> — Fuerzas Armadas del Ecuador (@FFAAECUADOR) [November 27, 2024](https://twitter.com/FFAAECUADOR/status/1861885081477951958?ref_src=twsrc%5Etfw)
-
-La crisis carcelaria que atraviesa el país quedó en evidencia hace varios años.
-
-**Masacres** entre presos, fugas, objetos prohibidos en el interior, asesinato de funcionarios penitenciarios son algunos de los hechos que evidencian la crisis.
-
-Las masacres se registraron en cárceles como la **Penitenciaría del Litoral, la Regional de Guayas y la cárcel de Latacunga en Cotopaxi.**
-
-Uno de los fugados es **alias ‘Fito’**, líder de Los Choneros; uno de los asesinados fue Leandro Norero, en la cárcel de Cotopaxi.
-
-Daniel Noboa constató avance de la obra de unidad educativa en Otavalo
-======================================================================
-
-El presidente Daniel Noboa recorrió la Unidad Educativa Comunitaria Intercultural Bilingüe Atahualpa, ubicada en Otavalo.
--------------------------------------------------------------------------------------------------------------------------
-
-![Daniel Noboa durante su recorrido por la unidad educativa Atahualpa](https://www.elcomercio.com/wp-content/uploads/2024/11/unidad-educativa-atahualpa-otavalo.jpg)
-
-El presidente **Daniel Noboa** verificó los avances de la construcción de la **Unidad Educativa Comunitaria Intercultural Bilingüe Atahualpa**, en Otavalo, en Imbabura.
-
-Su visita la hizo acompañado de otros funcionarios del Gobierno, entre ellos, los **ministros de Educación y Obras Públicas**, Alegría Crespo y Roberto Luque.
-
-### Más noticias
-
-* [Ministerio de Educación responde a caso de presunto abuso en plantel en Guayaquil](https://www.elcomercio.com/actualidad/seguridad/ministerio-educacion-responde-caso-abuso-plantel-guayaquil.html "Ministerio de Educación responde a caso de presunto abuso en plantel en Guayaquil")
-* [La educación ciudadana y la cultura de paz](https://www.elcomercio.com/tendencias/educacion-ciudadana-cultura-paz.html "La educación ciudadana y la cultura de paz")
-* [Daniel Noboa asegura que los feminicidios se redujeron en un 35% en Ecuador](https://www.elcomercio.com/actualidad/politica/daniel-noboa-asegura-que-feminicidios-se-redujeron-en-un-35-ecuador.html "Daniel Noboa asegura que los feminicidios se redujeron en un 35% en Ecuador")
-
-La obra beneficiará a **2 280 niños y niñas del cantón**, quienes estudiarán en la nueva infraestructura que incluirá: bloques para educación inicial y **30 aulas para educación general y bachillerato**.
-
-Además de **otros espacios**, entre ellos: biblioteca, comedor, salón de uso múltiple, laboratorios de química, física y computación, bar, canchas, patio cívico[.](https://educacion.gob.ec/ "https://educacion.gob.ec/")
-
-La obra tendrá una inversión de **3,7 millones de dólares**.
-
-Avances en unidad educativa
----------------------------
-
-En su recorrido, Noboa revisó los avances en la obra y luego se dirigió a los **estudiantes y moradores** de Otavalo que acudieron al **evento simbólico**.
-
-En su discurso, el primer mandatario señaló: “Aquí, los estudiantes no solo recibirán una **educación de calidad**, sino que aprehenderán a valorar sus raíces y el compromiso con la comunidad”.
-
-“No solo vemos aulas, sino que también vemos el compromiso y la esperanza de todos aquellos que aquí **aprenden, crecen y se preparan** para enfrentar los retos del mañana”, añadió Daniel Noboa.
-
-El Presidente finalizó su mensaje dirigiéndose a los futuros estudiantes de esta unidad educativa:
-
-“Niñas y niños, quiero decirles que están construyendo su propio futuro y, con cada paso que dan, están dejando una huella que contribuirá a su **desarrollo**, al de su familia, al de su comunidad y por supuesto al de todo el Ecuador”, enfatizó el Presidente.
-
-> Más de 2.200 niñas y niños de Otavalo recibirán una educación de calidad en la Unidad Educativa Comunitaria Intercultural Bilingüe Atahualpa. 🇪🇨👏  
->   
-> Obra que fue abandonada por más de 7 años y que gracias a [#ElNuevoEcuador](https://twitter.com/hashtag/ElNuevoEcuador?src=hash&ref_src=twsrc%5Etfw) y a una inversión de USD 3.7 millones es una realidad.… [pic.twitter.com/UL4WuVtQrS](https://t.co/UL4WuVtQrS)
-> 
-> — Presidencia Ecuador 🇪🇨 (@Presidencia\_Ec) [November 28, 2024](https://twitter.com/Presidencia_Ec/status/1862246354912727490?ref_src=twsrc%5Etfw)
-
-Obra estuvo paralizada durante siete años
------------------------------------------
-
-Por otra parte, la ministra de Educación, **Alegría Crespo**, afirmó que la construcción de la unidad educativa “comenzó en el **2015** y estuvo **abandonada por siete años**“.
-
-En ese sentido, la funcionaria señaló que mediante el trabajo conjunto de los ministerios de Educación y Obras Públicas, fue posible la recuperación de la unidad educativa y finalmente abrirá sus puertas a miles de niños y jóvenes.
-
-“Reafirmamos que la **educación intercultural bilingüe** es un derecho fundamental consagrado en la Constitución y es la llave para abrir las puertas de un futuro equitativo y prometedor”, aseguró Crespo.
-
-Según el ministro de Transporte y Obras Públicas (MTOP), **Roberto Luque**, ” el establecimiento en Otavalo se encontraba con un avance de apenas **56 %**, debido a problemas administrativos, técnicos y legales”.
-
-Luque informó que, a fin de garantizar la seguridad de los estudiantes, además de la construcción del centro se habilitará un **paso peatonal** en diciembre de 2025.
-
-“Los trabajos se adelantarán para inicios del siguiente año, con una inversión de **1,2 millones de dólares**“, detalló el Ministro.
-
-Ministerio de Educación recuperó otros cinco centros
-----------------------------------------------------
-
-La Ministra de Educación precisó que la recuperación de este nuevo centro educativo forma parte “de un esfuerzo mayor para recuperar **seis unidades inconclusas** en varias zonas del país”.
-
-Las otras cinco escuelas y colegios recuperadas fueron entregadas en **Paján, Quito, Guayaquil, Mejía y Naranjito**. La inversión total por estos centros de estudios, más el de Otavalo, alcanza los **20 millones de dólares**, a decir por Crespo.
-
-> Desde la provincia de Imbabura, el presidente [@DanielNoboaOk](https://twitter.com/DanielNoboaOk?ref_src=twsrc%5Etfw) realizó un recorrido para constatar el avance de la obra de la Unidad Educativa Comunitaria Intercultural Bilingüe Atahualpa, recuperada tras años de abandono por administraciones pasadas.  
->   
-> Esta nueva infraestructura… [pic.twitter.com/DIdnyOUHQh](https://t.co/DIdnyOUHQh)
-> 
-> — Presidencia Ecuador 🇪🇨 (@Presidencia\_Ec) [November 28, 2024](https://twitter.com/Presidencia_Ec/status/1862201138323353894?ref_src=twsrc%5Etfw)
-
-Según cifras del Gobierno, en el primer año de gestión de Noboa se destinaron cerca de **87 millones de dólares** para el mejoramiento de la infraestructura de escuelas y colegios.
-
-Así también, “se han entregado raciones alimenticias a 2,8 millones de estudiantes en 12 782 instituciones educativas en todo el país”, aseguró Presidencia.
-
-Municipio de Quito reducirá su presupuesto en 2025
-==================================================
-
-El Concejo Metropolitano de Quito realizará un segundo debate para aprobar el presupuesto para el 2025.
--------------------------------------------------------------------------------------------------------
-
-![El Concejo Metropolitano debate sobre el presupuesto del Municipio de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/11/Presupuesto-.jpg)
-
-El **Concejo Metropolitano de Quito** discutió este martes 26 de noviembre la proforma presupuestaria para 2025. Esta asciende a 929,8 millones de dólares y la reducción representa 80 millones de dólares en comparación con el **presupuesto aprobado** para 2024[.](https://es.wikipedia.org/wiki/Presupuesto "https://es.wikipedia.org/wiki/Presupuesto")
-
-Más noticias
-------------
-
-* [Reforma del presupuesto del Municipio de Quito reorienta gasto social y otros rubros sensibles](https://www.elcomercio.com/actualidad/quito/reforma-presupuestaria-quito-implicaciones-presupuesto.html "Reforma del presupuesto del Municipio de Quito reorienta gasto social y otros rubros sensibles")
-* [Municipio analiza realizar la Serenata Quiteña](https://www.elcomercio.com/actualidad/quito/serenata-quitena-municipio-presidencia.html "Municipio analiza realizar la Serenata Quiteña")
-* [Municipio de Quito convoca a privados para proyectos ambientales y de movilidad](https://www.elcomercio.com/actualidad/quito/municipio-quito-convocatoria-privados-proyectos-ambientales-movilidad.html "Municipio de Quito convoca a privados para proyectos ambientales y de movilidad")
-
-Según las autoridades, este ajuste responde a la **crisis** **energética** y a una menor asignación de recursos por parte del **Gobierno** **Central**.
-
-Inversión en el sector social con la reducción del presupuesto
---------------------------------------------------------------
-
-Grace Rivera, secretaria General de **Planificación**, aseguró que esta disminución no afectará la **inversión** **social** ni la ejecución de obras clave.
-
-“El Alcalde prioriza la inversión como motor económico para **generar** **empleo** y estimular el consumo”, explicó.
-
-En este marco, el Municipio incrementará en un 15% el presupuesto destinado al **desarrollo** **productivo**, con 26,6 millones de dólares para proyectos en las administraciones zonales.
-
-Wilson Merino, concejal de **Quito**, afirmó que el **Municipio** transferirá alrededor de 70 millones de dólares del presupuesto de 2024 al de 2025, provenientes en parte de los bonos entregados por el **Gobierno** **Nacional**.
-
-Sin embargo, expresó su preocupación por el impacto de la **reducción presupuestaria**, y advirtió que podría **descuidarse la inversión** en áreas clave como **salud**, **educación** y otros proyectos sociales.
-
-Merino señaló además que el 44% del presupuesto total para 2025 se destinará al sector de **movilidad**, lo que, en su opinión, deja desatendidos otros sectores importantes para el **desarrollo de la ciudad.**
-
-Cambios aprobados en el presupuesto de 2024
--------------------------------------------
-
-El **Concejo** **Metropolitano** también aprobó recientemente una reforma al presupuesto de 2024 para reorganizar los **ingresos municipales** y cubrir el déficit de liquidez generado por la deuda del **Gobierno** **Central**, que asciende a 78 millones de dólares.
-
-De este total, 70 millones de dólares fueron transferidos en bonos, que podrán liquidarse hasta 2025.
-
-Cristian Cruz, administrador General, destacó que esta redistribución permitió reorganizar proyectos plurianuales y asegurar su continuidad. Según explicó, el **techo presupuestario** para 2024 cerrará en 1 026 millones de dólares, con una variación de 16,3 millones que optimiza el gasto en personal y bienes de consumo.
-
-Prioridades del presupuesto 2025
---------------------------------
-
-El presupuesto de 2025 prioriza el sector de **movilidad**, que recibirá el 56% del total, equivalente a 267,5 millones de dólares. Las principales asignaciones incluyen:
-
-* **Metro de Quito:** 62,2 millones de dólares.
-* **Obras Públicas y Movilidad:** 98,9 millones de dólares.
-* **Transporte de Pasajeros:** 49,8 millones de dólares.
-
-En el ámbito social, la **Unidad Patronato Municipal San José** y la **Secretaría** de **Inclusión** **Social** contarán con 1,6 millones de dólares adicionales para reforzar programas dirigidos a sectores vulnerables.
-
-Por otro lado, el área educativa ajustará 6 millones de dólares debido a la reclasificación de ciertos rubros hacia gastos corrientes.
-
-La perspectiva de un experto en política pública
-------------------------------------------------
-
-Pablo Romero, experto en **política** **pública**, advirtió que la r**educción presupuestaria** impactará principalmente en **proyectos sociales** relacionados con **educación**, **salud** y **deportes**.
-
-Sin embargo, destacó la importancia de monitorear la **ejecución presupuestaria,** que cerrará 2024 con un 78%, a pesar de las reformas aplicadas durante el año.
-
-Romero explicó que el **Municipio** cuenta con diversas fuentes de ingreso, entre ellas:
-
-* **Impuesto Predial:** Contribución anual de los propietarios de bienes inmuebles en Quito.
-* **Patentes:** Pago anual de personas naturales y jurídicas que realizan actividades comerciales o económicas.
-* **Tasas Municipales:** Recaudación por servicios como recolección de basura y alumbrado público.
-* **Permisos de Construcción:** Recursos obtenidos por autorizaciones para obras civiles.
-
-Estos ingresos, según Romero, deberían mitigar el impacto de los **ajustes presupuestarios** en servicios esenciales como **salud** y **educación**.
-
-Sin embargo, el experto insistió en que el **Municipio** debe asumir un rol más activo frente a la crisis energética.
-
-“Es fundamental que se fomente la **estabilidad económica** mediante el apoyo a sectores como el agrícola, para facilitar la comercialización de sus productos y fortalecer la economía local”, afirmó.
-
-Ejecución presupuestaria y proyecciones económicas
---------------------------------------------------
-
-El Municipio estima que 2024 cerrará con una ejecución presupuestaria del 78%, esto tras el ajuste presupuestario de octubre.
-
-Para 2025, proyecta un aumento del 2% en los ingresos, impulsado por mayores recaudaciones de impuestos, patentes comerciales e inversiones.
-
-El segundo debate sobre la proforma presupuestaria 2025 será clave para definir las estrategias que permitirán mantener la inversión social, priorizar obras significativas y enfrentar los retos económicos que afectan a la ciudad.
-
-Spotify tiene a la ‘novia’ del Joker en la cima del escalafón del Top Global
-============================================================================
-
-En ese escalafón de Spotify, en segundo lugar, se ubica un tema de Rosé y Bruno Mars.
--------------------------------------------------------------------------------------
-
-![El Top Global de Spotify está liderado por dos artistas estadounidenses. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-28T175120.480.jpg)
-
-Con cuatro palabras: **[Die With A Smile](https://www.ladygaga.com/ "https://www.ladygaga.com/")**, la ‘novia’ del **Joker** lidera el Top Canciones Global de **Spotify**. Ese escalafón trata de una actualización semanal de las **canciones** más escuchadas ahora mismo en Global.
-
-### **Más noticias:**
-
-* [¿Qué ofrece Spotify además de música?](https://www.elcomercio.com/tendencias/entretenimiento/spotify-tesoros-poco-explorados-plataforma-streaming.html "https://www.elcomercio.com/tendencias/entretenimiento/spotify-tesoros-poco-explorados-plataforma-streaming.html")
-* [En Spotify, un puertorriqueño endulza el oído del ecuatoriano](https://www.elcomercio.com/tendencias/entretenimiento/spotify-preferidas-ecuador-top-10-puertorriqueno-artistas.html?source=Internal&ref=Latest%20News%20Widget%20-%20Front "https://www.elcomercio.com/tendencias/entretenimiento/spotify-preferidas-ecuador-top-10-puertorriqueno-artistas.html?source=Internal&ref=Latest%20News%20Widget%20-%20Front")
-* [11 bandas internacionales tocarán en el Quitofest 2024](https://www.elcomercio.com/tendencias/entretenimiento/quitofest-2024-cartelera-bandas-internacionales-nacionales-musica.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/quitofest-2024-cartelera-bandas-internacionales-nacionales-musica.html?source=Internal&ref=Single+Content+Link")
-
-  
-**Spotify tiene a la ‘novia’ del Joker en la cima del escalafón del Top Global**
------------------------------------------------------------------------------------
-
-En segundo lugar está **APT**., de Rosé y Bruno Mars, con 60 465 463 reproducciones. En el tercer casillero se ubica la canción **Birds of a feather**, de Billie Eilish, con 46 417 128 reproducciones. 
-
-  
-Luego están That’s So True, de **Gracie Abrams** y Who, del coreano Jimin.  
-Recién el sexto casillero se ubica un sencillo interpretado por artistas latinos; se trata de Tu Boda, de Oscar Maydon y Fuerza Rígida. En el puesto 15, en cambo, aparece Si Antes Te Hubiera Conocido, de la colombiana Karol G.
-
-  
-**¿Quién es la ‘novia’ del Joker 2?**
-----------------------------------------
-
-Die With A Smile está interpretada por **Bruno Mars y Lady Gaga**, protagonista, con Joaquin Phoenix, de ‘Joker: Folie à Deu’. Hasta las 17:32 de este 28 de noviembre de 2024, la canción, que dura 4:11 minutos, sumaba 65 902 590 reproducciones.
-
-La canción fue lanzada el 16 de agosto, dos semanas antes del cierre del periodo de elegibilidad para la 67ª entrega anual de los premios Grammy.
-
-Histórica nevada en Corea del Sur impacta en Seúl
-=================================================
-
-Seúl, capital de Corea del Sur, soporta una histórica nevada en pleno noviembre. El fenómeno climático no se registraba desde 1907.
------------------------------------------------------------------------------------------------------------------------------------
-
-![Turistas en Seúl se toman fotos en el Palacio Gyeongbokgung, que está cubierto por la nieve de la histórica nevada caída en noviembre.](https://www.elcomercio.com/wp-content/uploads/2024/11/nieve-en-corea.jpg)
-
-**Seúl** sigue golpeada por las intensas nevadas que dejan al menos cinco fallecidos en **Corea del Sur**. La histórica nevada nunca vista en **noviembre** obligó a cancelar más de 100 vuelos.
-
-Además, las autoridades se desplegaron para garantizar la movilidad de sus habitantes y los de la provincia circundante, la más poblada de **Corea del Sur**.
-
-Más noticias
-------------
-
-* [Que el compromiso del G-20 de mitigar el cambio climático no sea solo una declaración](https://www.elcomercio.com/opinion/editorial/compromiso-g-20-de-mitigar-cambio-climatico-no-sea-solo-declaracion.html "Que el compromiso del G-20 de mitigar el cambio climático no sea solo una declaración")
-* [Trump llega a la Casa Blanca dispuesto a demoler la lucha contra el cambio climático](https://www.elcomercio.com/actualidad/mundo/trump-llega-a-la-casa-blanca-dispuesto-a-demoler-la-lucha-contra-el-cambio-climatico.html "Trump llega a la Casa Blanca dispuesto a demoler la lucha contra el cambio climático")
-* [La inteligencia artificial como socia en la batalla contra el cambio climático](https://www.elcomercio.com/tendencias/ambiente/inteligencia-artificial-cambio-climatico-efemeride.html "La inteligencia artificial como socia en la batalla contra el cambio climático ")
-
-Por segundo día consecutivo, el **Gobierno Metropolitano de Seúl** activó advertencias debido a las nevadas, que persistieron durante la noche del miércoles al jueves. Dejaron más de 40 centímetros de nieve acumulada en algunos distritos.
-
-Las alertas fueron retiradas pasado el mediodía de este jueves 28 de noviembre de 2024. La **Administración Meteorológica de Corea (KMA)** prevé que el tiempo dará tregua a la capital surcoreana hasta el lunes. Se espera, en principio, más nieve, aunque en mucha menor cantidad.
-
-El miércoles, la capital surcoreana ya recibió la que ha sido la mayor nevada en un mes de noviembre desde que hay registros (1907), lo que provocó todo tipo de problemas y retrasos en el transporte.
-
-El aeropuerto internacional de **Incheon, al oeste de Seúl** y el principal del país, reportó 111 vuelos cancelados y una treintena de retrasos debido al mal tiempo. El de Gimpo, el otro aeródromo que da servicio a la capital surcoreana, informó de 12 salidas -principalmente domésticas- canceladas.
-
-Las afectaciones por la histórica nevada en Corea del Sur
----------------------------------------------------------
-
-La gran acumulación de nieve provocó en los últimos dos días el derrumbe de varios tejados, estructuras y árboles que provocaron la muerte de cuatro personas en distintos puntos de la región capitalina.
-
-A su vez, un agente de tráfico falleció tras ser atropellado por un autobús que patinó sobre la nieve en la localidad de **Hwaseong** (45 kilómetros al sur de Seúl)[.](https://es.wikipedia.org/wiki/Corea_del_Sur)
-
-Las autoridades en Seúl y la circundante provincia de Gyeonggi intensificaron este jueves los trabajos para garantizar la movilidad. En Seúl residen más de 9 millones de habitantes y en Gyeonggi vive más de 13 millones.
-
-Aunque algunos distritos tuvieron que activar cortes al tráfico rodado debido a árboles caídos por el peso de la nieve.
-
-El **Gobierno Metropolitano de Seúl** indicó que movilizó más de 11 000 operarios y 20 000 unidades de maquinaria para retirar la nieve de las calles y carreteras.
-
-Los servicios de metro de la región capitalina registraron ligeros retrasos a primera hora, pese a que la frecuencia incrementada de trenes en hora punta se extendió una media hora adicional, informó la agencia Yonhap.
-
-Las nevadas afectaron especialmente también a la vecina provincia de **Gangwon** (este de **Corea del Sur**). La localidad de **Wonju** registró un importante accidente de circulación: 53 coches chocaron en cadena por la falta de visibilidad, que dejó 11 heridos.
-
-En total se reportaron más de 2 000 incidencias de tráfico este jueves 28 de noviembre. , con la provincia de **Gyeonggi** registrando varias colisiones múltiples.
-
-¡Eso, eso, eso! Roberto Gómez Bolaños sigue vivo en las frases de sus personajes
-================================================================================
-
-Expresiones como "Otro gato" y más mantienen vivo el legado de Chespirito
--------------------------------------------------------------------------
-
-![El Chavo del 8 es uno de los personajes emblemáticos de Chespiriito.](https://www.elcomercio.com/wp-content/uploads/2024/11/Chespirito.jpg)
-
-Este 28 de noviembre de 2024 se cumplen 10 años de la partida de Roberto Gómez Bolaños, el creador de personajes como El Chavo del 8 y El Chapulín Colorado.
-
-A una década de su fallecimiento, su legado sigue vivo, especialmente en las frases que marcaron a generaciones y continúan resonando en la memoria colectiva.
-
-### Más noticias
-
-* **[‘Moana 2’ promete una evolución del personaje sin perder su espíritu divertido](https://www.elcomercio.com/tendencias/moana2-estreno.html "https://www.elcomercio.com/tendencias/moana2-estreno.html")**
-* **[Documental del ecuatoriano Sebastián Cordero compite por entrar a los nominados al Oscar](https://www.elcomercio.com/tendencias/documental-ecuador-oscar2025.html "https://www.elcomercio.com/tendencias/documental-ecuador-oscar2025.html")**
-
-Repasamos algunas para ver si las recuerdas y si las usas.
-
-**Las frases que definieron a El Chavo del 8**
-----------------------------------------------
-
-“Fue sin querer queriendo”, quizás la línea más emblemática de El Chavo, resume su inocencia y torpeza, características que lo hicieron entrañable.
-
-Este personaje, un niño huérfano que vive en un barril, utilizaba sus frases para transmitir emoción y generar risas mientras enfrentaba situaciones cotidianas en la vecindad.
-
-Otra frase icónica, “¡Eso, eso, eso!”, servía para mostrar su entusiasmo o confusión al no poder expresar lo que pensaba.
-
-A través de estas expresiones, Gómez Bolaños logró que el público se conectara con la vulnerabilidad y la alegría de su personaje.
-
-**El humor de doble impacto**
------------------------------
-
-La vecindad estaba llena de personajes que complementaban el humor de El Chavo. Entre ellos, Don Ramón, quien solía decir: “¿Qué pasó, qué pasó? ¡Vamos, ay!”, mientras intentaba zafarse de los regaños de Doña Florinda.
-
-Frases como estas añadían una chispa especial a los diálogos y convertían cada episodio en un despliegue de humor único.
-
-**Un legado que trasciende**
-----------------------------
-
-Más allá de las risas, estas frases y personajes reflejan valores como la amistad, la solidaridad y la resiliencia en contextos de adversidad.
-
-A 10 años de su muerte, Gómez Bolaños sigue siendo un referente del humor latinoamericano.
-
-Según cifras de Televisa, el programa ha sido retransmitido en más de 20 países.
-
-**Frases de la serie**
-----------------------
-
-**El Chavo**
-------------
-
-“Es que no me tienen paciencia”
-
-“Qué bruto, póngale cero”
-
-“Bueno, pero no te enojes”
-
-“¡Pues al cabo que ni quería!”
-
-**Quico**
----------
-
-“No me simpatizas”
-
-“Anda di que sí, di que sí ¿Síiiii?”
-
-“Cállate, cállate, que me desesperas”
-
-**Don Ramón**
--------------
-
-“Con permisito, dijo Monchito”
-
-“Tenía que ser el Chavo del 8”
-
-“La venganza nunca es buena, mata el alma y la envenena”
-
-“Lo que tienes de bruto, lo tienes de bruto”
-
-**Ñoño**
---------
-
-“¡Mírelo, eh! ¡Mírelo, eh!”
-
-**El Sr. Jirafales**
---------------------
-
-“Vine a traerle este humilde obsequio”
-
-**Popis**
----------
-
-“Acúsalo con tu mamá, Quico”
-
-**Doña Florinda**
------------------
-
-“Vámonos, tesoro. No te juntes con esta chusma”
-
-**El Chapulín Colorado**
-------------------------
-
-**“Que no panda el cúnico”**
-
-**“No contaban con mi astucia”**
-
-**Chaparrón Bonaparte**
------------------------
-
-**“No hay de queso, nomás de papa”**
-
-**Dr. Chapatín**
-----------------
-
-Ay, ya me dio cosa
-
-Liga de Quito e IDV, cara a cara por el liderato en la Liga Pro
-===============================================================
-
-La recta final de la segunda etapa de la Liga Pro ha llegado, y dos gigantes del fútbol ecuatoriano se enfrentan por el primer lugar.
--------------------------------------------------------------------------------------------------------------------------------------
-
-![Liga de Quito e Independiente del Valle son los favoritos para ganar la segunda etapa.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-28T172125.664.jpg)
-
-El **‘Rey de Copas’** recibió un fallo favorable en su recurso de apelación y recuperó los tres puntos que le habían descontado por una sanción. Con esto, **Liga de Quito** retoma el liderato del campeonato ecuatoriano.
-
-Ahora, los albos suman **32 puntos y lideran la tabla de la segunda etapa**. Independiente del Valle, con 29 puntos, ha caído a la segunda posición. A falta de una jornada, los rayados necesitarán un tropiezo de la ‘U’ para buscar el campeonato directo.
-
-### Más noticias:
-
-* [Liga de Quito espera por su apelación, ¿qué pasará?](https://www.elcomercio.com/deportes/liga-quito-apelacion-fef-independiente-valle.html "Liga de Quito espera por su apelación, ¿qué pasará?")
-* [Independiente del Valle perdió cuatro finales en su historia](https://www.elcomercio.com/deportes/futbol/independiente-valle-finales-perdidas-copas.html "Independiente del Valle perdió cuatro finales en su historia")
-* [Independiente del Valle solicita que se anule la sanción a Liga de Quito](https://www.elcomercio.com/deportes/futbol/independiente-del-valle-solicita-que-se-anule-la-sancion-liga-de-quito.html "Independiente del Valle solicita que se anule la sanción a Liga de Quito")
-
-Liga de Quito viene en buena racha
-----------------------------------
-
-El equipo de **Liga de Quito** ha mostrado una mejora notable tras superar un bache futbolístico que amenazó su liderato. Actualmente, los universitarios llevan seis partidos consecutivos sin perder, con cinco victorias y un empate.
-
-En sus tres últimos compromisos, derrotaron a rivales de gran calibre, incluyendo una victoria 0-1 en Guayaquil contra **Emelec**, una remontada ante Independiente del Valle en el Rodrigo Paz Delgado y un triunfo ante Universidad Católica en el Olímpico Atahualpa.
-
-Una de las principales fortalezas de la ‘U’ ha sido su delantera. El goleador del campeonato, el paraguayo **Alex Arce**, ha sido fundamental, con 24 goles y cuatro de esos anotados en los últimos tres partidos.
-
-![Alex Arce, delantero de Liga de Quito, es el máximo goleador de la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-25T144224.911-1024x683.jpg)
-
-Independiente del Valle, el equipo más regular
-----------------------------------------------
-
-A lo largo del año, **Independiente del Valle** ha sido el equipo más regular de la competencia. Ganó la primera etapa de forma invicta y ha mantenido una excelente temporada en la segunda etapa, peleando cabeza a cabeza con Liga de Quito por el liderato.
-
-A pesar de perder la final de la **Copa Ecuador** contra El Nacional, el equipo de IDV fue el mejor de la fase y sigue demostrando su solidez.
-
-Aunque su estilo de juego ha sido menos brillante que en temporadas anteriores, la consistencia de su rendimiento ha sido clave. En cuanto a estadísticas, **Independiente del Valle** tiene la segunda mejor ofensiva del campeonato con **56 goles**, solo por detrás de Universidad Católica, y también posee la mejor defensa, con solo 22 goles en contra.
-
-![Kendry Páez se reencontró con el gol en Independiente del Valle.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-72-1024x683.jpg)
-
-Pelea de por en la última fecha
--------------------------------
-
-Con una jornada aún por jugarse, **Liga de Quito** e Independiente del Valle se preparan para una última batalla por la etapa.
-
-### Ficha de partidos
-
-### Liga de Quito vs. Deportivo Cuenca
-
-**Fecha**: Domingo 1 de diciembre
-
-**Hora**: 15:30
-
-**Estadio**: Rodrigo Paz Delgado
-
-### Orense vs. Independiente del Valle
-
-**Fecha**: Domingo 1 de diciembre
-
-**Hora**: 15:30
-
-**Estadio**: 9 de mayo
-
-Cortes de luz en Quito este viernes 29 de noviembre
-===================================================
-
-Los cortes de luz en Quito este viernes 29 de noviembre son de hasta seis horas.
---------------------------------------------------------------------------------
-
-![Los cortes de luz en Quito este viernes 29 de noviembre son definidos por la EEQ.](https://www.elcomercio.com/wp-content/uploads/2024/11/cortes-luz-quito-viernes-29-noviembre.jpg)
-
-Los **cortes de luz** en **Quito** este **viernes 29 de noviembre de 2024** se mantienen con seis horas de duración.
-
-La **Empresa Eléctrica Quito (EEQ)** publicó los horarios de suspensión del servicio de energía eléctrica en la capital para este viernes, el sábado 20 y el domingo de noviembre.
-
-### Más noticias:
-
-* [Progen mostró los avances del proyecto de energía térmica El Salitral](https://www.elcomercio.com/actualidad/negocios/progen-mostro-los-avances-del-proyecto-de-energia-termica-el-salitral.html "Progen mostró los avances del proyecto de energía térmica El Salitral")
-* [Intercambio de energía eléctrica entre Colombia y Ecuador empezó hace 26 años](https://www.elcomercio.com/actualidad/negocios/intercambio-de-energia-electrica-entre-colombia-y-ecuador-empezo-hace-26-anos.html "Intercambio de energía eléctrica entre Colombia y Ecuador empezó hace 26 años")
-
-Horarios de cortes de luz en Quito este viernes 29 de noviembre
----------------------------------------------------------------
-
-Ecuador sigue atravesando una de las peores **crisis energéticas** en las últimas décadas.
-
-La dependencia de las lluvias para el funcionamiento de las **centrales hidroeléctricas** y la falta de proyectos de energías alternativas pusieron la capacidad de producción de energía al límite.
-
-El último ofrecimiento del presidente **Daniel Noboa** sobre los cortes de luz a escala nacional es que no existirán para diciembre.
-
-Sin embargo, también anunció que, en Quito, la suspensión de los cortes de luz el **6 de diciembre**, por las fiestas de fundación de la capital.
-
-La generación de energía, a través de otros **proyectos** contratados actual Gobierno, se concretaría a partir de enero.
-
-En tanto, el Gobierno logró restablecer el intercambio de energía con **Colombia** y las primeras lluvias de intensidad media o alta empiezan a caer en el Austro.
-
-Mientras las condiciones climáticas mejoran de a poco los **caudales de los ríos** de Cuenca y de la Amazonía por el incremento de las lluvias.
-
-Para este jueves, la EEQ decidió mantener los horarios y franjas de cortes de luz que se han aplicado durante toda **esta semana**.
-
-Quito sigue con cortes de luz de hasta seis horas, divididas en **dos franjas horarias**, para el sector residencial.
-
-A continuación, los **cortes de luz en Quito este viernes 29 de noviembre** de 2024:
-
-‘Moana 2’ promete una evolución del personaje sin perder su espíritu divertido
-==============================================================================
-
-'Moana 2' no solo amplía su legado, sino que reafirma su esencia
-----------------------------------------------------------------
-
-![Moana junto a otros personajes de la saga.](https://www.elcomercio.com/wp-content/uploads/2024/11/moana-El-Comercio.jpg)
-
-Tras ocho años de espera, ‘**Moana 2**‘ llega a los cines como la continuación de una historia que cautivó al público en 2016. En **Ecuador**, se estrena el 28 de noviembre de 2024.
-
-Según **USA Today**, la película amplía las capas emocionales de **Moana y Maui** y destaca su desarrollo como líderes y amigos.
-
-### Más noticias
-
-* **[Documental del ecuatoriano Sebastián Cordero compite por entrar a los nominados al Oscar](https://www.elcomercio.com/tendencias/documental-ecuador-oscar2025.html "https://www.elcomercio.com/tendencias/documental-ecuador-oscar2025.html")**
-* [**Lo que costaron los retratos de Felipe y Letizia que hizo Annie Leibovitz**](https://www.elcomercio.com/tendencias/retratos-felipe-letizia-annie-leibovitz.html "https://www.elcomercio.com/tendencias/retratos-felipe-letizia-annie-leibovitz.html")
-
-**Un repaso a Moana de 2016 con posibles _spoilers_**
------------------------------------------------------
-
-En 2016, Moana era una joven polinesia que emprendía un viaje para salvar a su pueblo y restaurar el equilibrio de la naturaleza. Su misión principal era devolver el corazón de Te Fiti, robado por el semidiós Maui, lo que ha causado un desorden.
-
-En su travesía, Moana enfrentó peligros en el océano, como el ataque de los piratas Kakamora y el conflicto con el demonio de lava, Te Kā.
-
-Maui, inicialmente egoísta y reacio a ayudarla, se convierte en su aliado. Al descubrir que Te Kā es en realidad Te Fiti despojada de su corazón, Moana resuelve el conflicto con empatía y restaura la paz.
-
-¿**De qué trata ‘Moana 2’**?
-----------------------------
-
-En la entrega de 2024, Moana lidera una expedición hacia una isla legendaria para descifrar un antiguo pergamino que guarda secretos sobre el océano. La historia combina aventuras marítimas con un fuerte vínculo cultural.
-
-En su misión tendrá que enfrentarse a Matangi, una diosa del inframundo que amenaza su objetivo. Según **The Telegraph**, la narrativa “despliega alas frente al tirón de la nostalgia” y destaca el equilibrio entre lo tradicional y lo novedoso.
-
-El semidiós Maui regresa con una actitud más comprometida, mientras que la diosa Matangi añade un giro oscuro a la trama. La relación de Moana con su comunidad también toma protagonismo y muestra una faceta más madura del personaje.
-
-**Recepción crítica y calificaciones**
---------------------------------------
-
-La película tiene una **aprobación del 67% en el sitio especializado Rotten Tomatoes**, con 135 reseñas. **Metacritic** le otorgó 57 puntos de 100, y **CinemaScore** la calificó con una **A-**.
-
-Según Tim Robey, las canciones de ‘Moana 2’ superan a las de otros estrenos recientes como ‘Wicked’. Además, destaca que es “un gran viaje en miniatura”.
-
-**Moana en _live-action_**
---------------------------
-
-Moana tendrá una versión en _live-action_ que está actualmente en producción. Imágenes recientes han confirmado el **Dwayne Johnson** quien da la voz a Maui actuará en la cinta de acción real.
-
-![Dwayne Johnson será Maui en 'Moana' live-action.](https://www.elcomercio.com/wp-content/uploads/2024/11/moana-El-Comercio-2-1024x683.jpg)
-
-Dwayne Johnson será Maui en ‘Moana’ live-action.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DCuOx16I4Sh/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DCuOx16I4Sh/?utm_source=ig_embed&utm_campaign=loading)
-
-Mientras que **Catherine Laga’aia**, una actriz polinesia hará de Moana. El rodaje se lleva a cabo en Hawái, lo cual destaca la conexión con las raíces culturales de la historia. Este esperado proyecto tiene como fecha de estreno julio de 2026.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/moana-El-Comercio-1-1024x683.jpg)
-
-**Catherine Laga’aia** será Moana en el _live-action_ de 2026.
