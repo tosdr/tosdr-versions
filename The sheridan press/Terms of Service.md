@@ -106,7 +106,7 @@ Public Notices
 * [Subscribe](https://www.thesheridanpress.com/subscribe)
 * [Manage Service](https://www.thesheridanpress.com/users/admin/service/)
 
-[![site-logo](https://bloximages.newyork1.vip.townnews.com/thesheridanpress.com/content/tncms/assets/v3/media/0/34/034efc38-8684-11ef-8f8b-0fb42e3dd0c1/6706f31e1aac1.image.png?resize=200%2C34)](https://www.thesheridanpress.com/)
+[![site-logo](https://bloximages.newyork1.vip.townnews.com/thesheridanpress.com/content/tncms/assets/v3/media/0/1c/01cb1276-a924-11ef-8dc8-3f6673dd9057/67410a6e8d8fb.image.png?resize=200%2C33)](https://www.thesheridanpress.com/)
 
 **Your Community, Your News, Your Way!**
 ----------------------------------------
