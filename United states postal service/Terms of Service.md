@@ -1,4 +1,4 @@
-[Severe weather conditions across the U.S. may delay final delivery of your mail and packages. Read more.](https://about.usps.com/newsroom/service-alerts/ "Severe weather conditions across the U.S. may delay final delivery of your mail and packages.")
+[Effective Nov. 29, international mail service to Canada is temporarily suspended, due to the strike of the Canadian Union of Postal Workers. Read more.](https://about.usps.com/newsroom/service-alerts/international/canada-suspension.htm "Effective Nov. 29, international mail service to Canada is temporarily suspended, due to the strike of the Canadian Union of Postal Workers.")
 
 [Jump to page content](#contentwrapper)
 
