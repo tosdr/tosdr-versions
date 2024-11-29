@@ -215,13 +215,13 @@ Call Now for a FREE Quote! [1-877-OXI-FRESH](tel:18776943737) **OR**
     * [Consideration Request](https://www.oxifresh.com/carpet-cleaning-companies/carpet-cleaning-franchise/considerationrequest/)
 * [Franchisee Login](https://www.oxifresh.com/login/index.html)
 
-![Fast 1 Hour Dry Time Carpet Cleaner](https://www.oxifresh.com/wp-content/themes/oxifresh_alt/images/img-zipbox-1.png)
+![The World's Greenest Carpet Cleaner](https://www.oxifresh.com/wp-content/themes/oxifresh_alt/images/img-zipbox-2.png)
 
 Zip Code  QUOTE & SCHEDULE
 
 Enter your zip/postal code above to find carpet cleaning services in your area, get a free quote or book online!
 
-Average 4.7 Stars Based on 305,282 Reviews
+Average 4.7 Stars Based on 305,387 Reviews
 
 * [Home](https://www.oxifresh.com/)
 * \>
@@ -441,19 +441,19 @@ What Customers Are Saying
 
 ### Average 4.7 stars (Out of 5)
 
-Based on 305,282 Carpet Cleaning Services Reviews
+Based on 305,387 Carpet Cleaning Services Reviews
 
-Did a tremendous job cleaning a very dirty carpet. Very friendly, courteous and made sure I was happy with the work. **ET.** - Suffern, NY - 11/27/2024
-
-(5.0 Out of 5 stars)
-
-Good cleaning and Aaron was great to work with!! Sara **SU.** - Plainfield, IN - 11/27/2024
+**SJ.** - Williamsburg, VA - 11/28/2024
 
 (5.0 Out of 5 stars)
 
-**TD.** - Denver, CO - 11/27/2024
+**EM.** - Fullerton, CA - 11/28/2024
 
-(4.0 Out of 5 stars)
+(5.0 Out of 5 stars)
+
+The best service! Always so respectful and on time! We have so many options for carpet cleaning but always come back to Oxi Fresh! **CI.** - Fort Worth, TX - 11/28/2024
+
+(5.0 Out of 5 stars)
 
 [MORE REVIEWS](https://www.oxifresh.com/testimonials)
 
