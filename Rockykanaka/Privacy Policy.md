@@ -1,6 +1,6 @@
                 [Skip to content](#MainContent)
 
-[BLACK FRIDAY EARLY ACCESS \[CLICK HERE TO CHECK IT OUT\]](https://rockykanaka.com/pages/black-friday-early-access-sign-up)
+[BLACK FRIDAY EARLY ACCESS \[CLICK HERE TO CHECK IT OUT\] BLACK FRIDAY EARLY ACCESS \[CHECK IT OUT\]](https://rockykanaka.com/collections/bfcm)
 
 Free Shipping on Orders Over $79 (USA)
 
