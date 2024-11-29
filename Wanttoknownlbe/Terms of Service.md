@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/elementaalwezens-en-scheppend-vermogen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/meelezen/mis-leiding-en-tijdlijnen/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
