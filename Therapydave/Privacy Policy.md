@@ -112,7 +112,7 @@ We may change this Privacy Policy from time to time. If we make changes, we will
 
 _Last updated: November 14, 2024_
 
-_“Dave has a unique ability to create a safe, non-judgmental space where I felt comfortable sharing my deepest fears and vulnerabilities. His guidance and support have been invaluable in helping me navigate a difficult period in my life. I’m grateful for his expertise and compassion.”_
+_“Working with Dave has been just what we needed. He doesn’t sugarcoat things, and that honesty helped us really see our issues and understand each other better. With his guidance, we’ve finally been able to work through some of our long-standing struggles and actually make progress. We couldn’t have done it without his support.”_
 
 [Get Started Now](https://therapydave.com/therapist-appointments/)
 
