@@ -128,8 +128,6 @@ Ok](https://www.emp-online.com/home?forceThisShop=1)
     
 * [Top Marken](https://www.emp.de/markenkleidung/maenner/)
     
-* [Brands by EMP](https://www.emp.de/markenkleidung/brands-by-emp/maenner/?prefn1=gender&prefv1=3%7C1)
-    
 * [Themen](https://www.emp.de/themen/)
     
 * [Young Rebels](https://www.emp.de/next-gen/maenner/)
@@ -491,7 +489,7 @@ Anmelden
 
 Unser Kundenservice ist für dich da
 
-Kundenservice ist am nächsten Tag wieder erreichbar von 08:00 Uhr bis 18:00 Uhr. [Mehr Infos](https://www.emp.de/kontakt)
+Ja, unser Kundenservice ist heute wieder erreichbar von 08:00 Uhr bis 18:00 Uhr. [Mehr Infos](https://www.emp.de/kontakt)
 
 Live-Chat starten
 
