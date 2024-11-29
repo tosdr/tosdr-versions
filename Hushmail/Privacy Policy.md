@@ -169,11 +169,11 @@ Canada
 
 ### From the Blog
 
-#### [VPNs and HIPAA compliance for small healthcare practices](https://blog.hushmail.com/blog/vpn-hipaa/)
+#### [HIPAA technical safeguards explained for your small practice](https://blog.hushmail.com/blog/hipaa-technical-safeguards/)
 
-Published on November 15, 2024
+Published on November 29, 2024
 
-If you access work emails using public Wi-Fi, you could be putting your practice at risk of a privacy breach. Using a VPN can help. Find out how. [Read more.](https://blog.hushmail.com/blog/vpn-hipaa/)
+This guide simplifies HIPAA technical safeguards with easy-to-implement steps for small practices. [Read more.](https://blog.hushmail.com/blog/hipaa-technical-safeguards/)
 
 [Hushmail](https://www.hushmail.com/)[](https://apps.apple.com/app/hushmail/id1008495364)
 
@@ -228,7 +228,7 @@ Copyright © 1999-2024 Hush Communications Canada Inc.
 
 [](#)[](#)[Hide](# "Hide this notice")
 
-![](https://hushforms.com/visitorid?visitorid=F90A6D3A410C83351CAECB376148FD37)
+![](https://hushforms.com/visitorid?visitorid=3DDA0CEB70A11756F206D1F375380782)
 
 We use cookies to deliver the best possible experience on our website. To learn more, visit our [Privacy Policy](https://www.hushmail.com/privacy/). By continuing to use this site, or closing this box, you consent to our use of cookies.
 
