@@ -504,15 +504,25 @@ Table of Contents Table of Contents Toggle navigation
         * [Ratings reporting](https://www.knowledgeowl.com/help/ratings-reporting)
         * [Reset article ratings](https://www.knowledgeowl.com/help/reset-article-ratings)
         * [Disable ratings](https://www.knowledgeowl.com/help/disable-ratings)
-    * [Article Favorites](javascript:void(0);)
+    * [Article favorites](javascript:void(0);)
         
-        * [Overview](https://www.knowledgeowl.com/help/favorites-overview)
-        * [How favorites work](https://www.knowledgeowl.com/help/how-favorites-work)
-        * [Enable favorites](https://www.knowledgeowl.com/help/enable-configure-favorites)
-        * [Display favorites in the table of contents](https://www.knowledgeowl.com/help/display-favorites-table-of-contents)
-        * [Display favorites outside the table of contents](https://www.knowledgeowl.com/help/add-favorites-theme)
-        * [Change the favorites star icon](https://www.knowledgeowl.com/help/change-the-favorites-star-icon)
-        * [Change how many favorites are displayed](https://www.knowledgeowl.com/help/change-how-many-favorites-are-displayed)
+        * [Feature overview](https://www.knowledgeowl.com/help/article-favorites-feature-overview)
+            
+        * [Set up favorites](javascript:void(0);)
+            
+            * [Enable favorites](https://www.knowledgeowl.com/help/enable-favorites)
+            * [Display favorites in the table of contents](https://www.knowledgeowl.com/help/display-favorites-table-of-contents)
+            * [Display favorites outside the table of contents](https://www.knowledgeowl.com/help/add-favorites-theme)Updated
+            * [Change the favorites star icon](https://www.knowledgeowl.com/help/change-the-favorites-star-icon)
+            * [Change how many favorites are displayed in the Current reader's favorites article list](https://www.knowledgeowl.com/help/change-how-many-favorites-are-displayed)Updated
+            * [Add a top navigation link to the Favorite Articles page](https://www.knowledgeowl.com/help/add-a-top-nav-favorite-articles-page)New
+            * [Fix missing favorites icon](https://www.knowledgeowl.com/help/favorites-missing-icon)
+        * [Add and access favorite articles](javascript:void(0);)
+            
+            * [Add an article to your favorites](https://www.knowledgeowl.com/help/add-an-article-to-your-favorites)
+            * [Remove an article from your favorites](https://www.knowledgeowl.com/help/remove-an-article-from-your-favorites)
+            * [Reorder your favorites](https://www.knowledgeowl.com/help/reorder-your-favorites)
+            * [Access your favorite articles](https://www.knowledgeowl.com/help/access-your-favorite-articles)
     * [Comments](javascript:void(0);)
         
         * [Enable and configure comments](https://www.knowledgeowl.com/help/enable-configure-comments)
@@ -564,7 +574,7 @@ Table of Contents Table of Contents Toggle navigation
         * [Section breakdown: Article](https://www.knowledgeowl.com/help/section-breakdown-article)
         * [Section breakdown: Miscellaneous](https://www.knowledgeowl.com/help/section-breakdown-miscellaneous)
         * [Section breakdown: Required Reading](https://www.knowledgeowl.com/help/section-breakdown-required-reading)
-        * [Section breakdown: Article Lists](https://www.knowledgeowl.com/help/section-breakdown-article-lists)
+        * [Section breakdown: Article Lists](https://www.knowledgeowl.com/help/section-breakdown-article-lists)Updated
         * [Section breakdown: Contact Form](https://www.knowledgeowl.com/help/section-breakdown-contact-form)
         * [Update Style Settings with Customize Text merge code](https://www.knowledgeowl.com/help/style-settings-customize-text-merge-code)
         * [Update Homepage with Customize Text merge code](https://www.knowledgeowl.com/help/update-kb-home-with-customize-text-merge-code)
@@ -1411,7 +1421,7 @@ If you do not agree to the new terms and conditions, you may terminate this agre
     
 * [Author team order consistently displayed](https://www.knowledgeowl.com/help/author-team-order-consistently-displayed)
     
-* [Add a new glossary term](https://www.knowledgeowl.com/help/populate-the-glossary)
+* [Conditional content based on tags](https://www.knowledgeowl.com/help/conditional-content-based-on-tags)
     
 
    
