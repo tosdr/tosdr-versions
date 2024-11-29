@@ -1,6 +1,6 @@
-**You Make a Difference!** Our mission and operations are funded entirely by Patriots like you! Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_6&utm_medium=web&utm_source=patriotpost.us) now.
+**Patriots:** For over 26 years, your generosity has made it possible to offer The Patriot Post without a subscription fee to military personnel, students, and those with limited means. Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us) today.
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_6&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -114,26 +114,29 @@ Last Updated: November 15, 2011.
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/112404-why-eat-turkey-2024-11-28)
+     [](https://patriotpost.us/memes/112423-charge-them-2024-11-29)
 
 * [More Memes >](https://patriotpost.us/memes)
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34583)
+     [](https://patriotpost.us/cartoons/34589)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
-*      [Gary Bauer Be Thankful](https://patriotpost.us/opinion/112413-be-thankful-2024-11-28)
-*      [Jeff Jacoby Thank God for the ‘Invisible Hand’](https://patriotpost.us/opinion/112409-thank-god-for-the-invisible-hand-2024-11-28)
-*      [The Washington Stand Walmart’s Retreat on DEI This Thanksgiving Is Just Gravy](https://patriotpost.us/opinion/112397-walmarts-retreat-on-dei-this-thanksgiving-is-just-gravy-2024-11-28)
-*      [Cal Thomas The Evolution of Thanksgiving](https://patriotpost.us/opinion/112351-the-evolution-of-thanksgiving-2024-11-28)
-*      [Guest Commentary On the Importance of Thanksgiving](https://patriotpost.us/opinion/112333-on-the-importance-of-thanksgiving-2024-11-28)
-*      [Betsy McCaughey Disrupting the Health Agencies Will Save American Lives](https://patriotpost.us/opinion/112407-disrupting-the-health-agencies-will-save-american-lives-2024-11-27)
-*      [Mark Alexander The Hand of Providence](https://patriotpost.us/alexander/112358-the-hand-of-providence-2024-11-27)
-*      [Ian Haworth Jewish Voters: Keep Punishing Pro-Hamas Democrats](https://patriotpost.us/opinion/112378-jewish-voters-keep-punishing-pro-hamas-democrats-2024-11-27)
+*      [Rich Lowry The Intellectual Collapse of DEI](https://patriotpost.us/opinion/112446-the-intellectual-collapse-of-dei-2024-11-29)
+*      [Ben Shapiro A World of Leverage](https://patriotpost.us/opinion/112445-a-world-of-leverage-2024-11-29)
+*      [Larry Elder Trump Jokes About Running for Third Term — Dems Freak Out](https://patriotpost.us/opinion/112443-trump-jokes-about-running-for-third-term-dems-freak-out-2024-11-29)
+*      [Laura Hollis We Should Treat the Intellectual Elites Like Royalty](https://patriotpost.us/opinion/112442-we-should-treat-the-intellectual-elites-like-royalty-2024-11-29)
+*      [Tim Graham Journalists Mourn That Jack Smith’s Probes Are Dead](https://patriotpost.us/opinion/112441-journalists-mourn-that-jack-smiths-probes-are-dead-2024-11-29)
+*      [Josh Hammer Gratitude Is Our Defining Ideal](https://patriotpost.us/opinion/112440-gratitude-is-our-defining-ideal-2024-11-29)
+*      [Ann Coulter The Dems’ Thanksgiving Story Deserves to Be Known](https://patriotpost.us/opinion/112439-the-dems-thanksgiving-story-deserves-to-be-known-2024-11-29)
+*      [Michael Barone The Groups and Barista Proletariat of the Democratic Party](https://patriotpost.us/opinion/112437-the-groups-and-barista-proletariat-of-the-democratic-party-2024-11-29)
+*      [Armstrong Williams Thanksgiving in a World That Forgets Gratitude](https://patriotpost.us/opinion/112444-thanksgiving-in-a-world-that-forgets-gratitude-2024-11-29)
+*      [Terence Jeffrey Congress Asked Americans to Give Thanks for the Constitution](https://patriotpost.us/opinion/112438-congress-asked-americans-to-give-thanks-for-the-constitution-2024-11-29) 
+*      [The Washington Stand Study: DEI Training Makes You More Likely to Agree With … Literally Hitler](https://patriotpost.us/opinion/112447-study-dei-training-makes-you-more-likely-to-agree-with-dot-dot-dot-literally-hitler-2024-11-29)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -147,7 +150,9 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[The Web's First and Foremost Conservative News Digest](https://patriotpost.us/alexander/2810)
+[![](https://img.patriotpost.us/01J5RS2YKRTNS1580CS7YVV0SF.jpeg)
+
+![](https://img.patriotpost.us/01J5RSAEYEKZ8DRMMYMBSNCWNH.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
