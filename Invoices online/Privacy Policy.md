@@ -117,61 +117,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Wish I started ages ago!
-> ------------------------
+> Instantaneous, Nicely Designed, Graphical Invoices
+> --------------------------------------------------
 > 
-> I just want to compliment you and your team for an amazing back office software.
-> 
-> I have been struggling with a proper invoicing solution for six months now (to make time each month)
-> 
-> I just wish I started using Invoices Online ages ago.
+> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
 
-Terri Winfield
+Henry Venter
 
-![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=b4218c53e6db76ce31660f06653efd9f246ccebb1b507f3ce3a879392834bcfd&c=160959882)  
-CBR Verwe/Paints
+![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=fb584118c8c092b15f2008b573023af79d895c36a346da1faa1b3a04013f0914&c=61785920)  
+Environment Friendly Toilets (Pty) Ltd
 
-![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=b4218c53e6db76ce31660f06653efd9f246ccebb1b507f3ce3a879392834bcfd&c=105359916)  
-Moremi Kitchens Rustenburg
+![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=fb584118c8c092b15f2008b573023af79d895c36a346da1faa1b3a04013f0914&c=150808006)  
+Laurinda Pretorius Spraak en Drama Ateljee
 
-![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=b4218c53e6db76ce31660f06653efd9f246ccebb1b507f3ce3a879392834bcfd&c=87266888)  
-Lily Fern & Co
-
-![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=b4218c53e6db76ce31660f06653efd9f246ccebb1b507f3ce3a879392834bcfd&c=120848282)  
+![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=fb584118c8c092b15f2008b573023af79d895c36a346da1faa1b3a04013f0914&c=139090751)  
 NEW BEGINNINGS DESIGNS
 
-![valued client African Roots](https://www.invoicesonline.co.za/scripts/image.php?bid=1000&file=logo_300_100&type=&fe=b4218c53e6db76ce31660f06653efd9f246ccebb1b507f3ce3a879392834bcfd&c=142962320)  
-African Roots
+![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=fb584118c8c092b15f2008b573023af79d895c36a346da1faa1b3a04013f0914&c=20145373)  
+Xpress Designs
 
-![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=b4218c53e6db76ce31660f06653efd9f246ccebb1b507f3ce3a879392834bcfd&c=187583507)  
-Waterfinatics Swim School
+![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=fb584118c8c092b15f2008b573023af79d895c36a346da1faa1b3a04013f0914&c=79875991)  
+M's Frozen Delights
 
-![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=b4218c53e6db76ce31660f06653efd9f246ccebb1b507f3ce3a879392834bcfd&c=52586624)  
-MOSELA GROUP Pty(ltd)
+![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=fb584118c8c092b15f2008b573023af79d895c36a346da1faa1b3a04013f0914&c=6407943)  
+AFS Electrical
 
-![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=b4218c53e6db76ce31660f06653efd9f246ccebb1b507f3ce3a879392834bcfd&c=104752135)  
-Baby Toddles Infant Care
+![valued client FLIPS AUTO ELECTRICAL ](https://www.invoicesonline.co.za/scripts/image.php?bid=8725&file=logo_300_100&type=&fe=fb584118c8c092b15f2008b573023af79d895c36a346da1faa1b3a04013f0914&c=47283013)  
+FLIPS AUTO ELECTRICAL
 
-![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=b4218c53e6db76ce31660f06653efd9f246ccebb1b507f3ce3a879392834bcfd&c=39141418)  
-Moving Made Easy (PTY) Ltd
+![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=fb584118c8c092b15f2008b573023af79d895c36a346da1faa1b3a04013f0914&c=138535849)  
+KTEN PARTS
 
-![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=b4218c53e6db76ce31660f06653efd9f246ccebb1b507f3ce3a879392834bcfd&c=96355493)  
-Well Hung Art
+![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=fb584118c8c092b15f2008b573023af79d895c36a346da1faa1b3a04013f0914&c=189484401)  
+VIV'S TRUCKS (Pty) Ltd. (117)
 
-![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=b4218c53e6db76ce31660f06653efd9f246ccebb1b507f3ce3a879392834bcfd&c=137307544)  
-van Schaik rentals
+![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=fb584118c8c092b15f2008b573023af79d895c36a346da1faa1b3a04013f0914&c=2326317)  
+Cape Adventure Zone
 
-![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=b4218c53e6db76ce31660f06653efd9f246ccebb1b507f3ce3a879392834bcfd&c=118071106)  
-Safe-Train Consulting (PTY) Ltd
+![valued client Calonet ](https://www.invoicesonline.co.za/scripts/image.php?bid=3324&file=logo_300_100&type=&fe=fb584118c8c092b15f2008b573023af79d895c36a346da1faa1b3a04013f0914&c=135102275)  
+Calonet
 
-![valued client Moulded Wax SA - The Candle Store](https://www.invoicesonline.co.za/scripts/image.php?bid=8218&file=logo_300_100&type=&fe=b4218c53e6db76ce31660f06653efd9f246ccebb1b507f3ce3a879392834bcfd&c=169574285)  
-Moulded Wax SA - The Candle Store
+![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=fb584118c8c092b15f2008b573023af79d895c36a346da1faa1b3a04013f0914&c=96252837)  
+Enhle Oarabile Kea
 
-![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=b4218c53e6db76ce31660f06653efd9f246ccebb1b507f3ce3a879392834bcfd&c=51949962)  
-Kaylas Creations
+![valued client Stevens Consulting](https://www.invoicesonline.co.za/scripts/image.php?bid=5551&file=logo_300_100&type=&fe=fb584118c8c092b15f2008b573023af79d895c36a346da1faa1b3a04013f0914&c=116749954)  
+Stevens Consulting
 
-![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=b4218c53e6db76ce31660f06653efd9f246ccebb1b507f3ce3a879392834bcfd&c=68830420)  
-webb it services
+![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=fb584118c8c092b15f2008b573023af79d895c36a346da1faa1b3a04013f0914&c=104642679)  
+Norton Medical & Consult - Namibia
+
+![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=fb584118c8c092b15f2008b573023af79d895c36a346da1faa1b3a04013f0914&c=76254354)  
+Abandoned Vehicle and Truck Solutions
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
