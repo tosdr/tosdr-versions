@@ -228,9 +228,9 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Health Policy](https://www.sciencedaily.com/news/health_medicine/health_policy/)
-
 [Chronic Illness](https://www.sciencedaily.com/news/health_medicine/chronic_illness/)
+
+[Health Policy](https://www.sciencedaily.com/news/health_medicine/health_policy/)
 
 [Brain-Computer Interfaces](https://www.sciencedaily.com/news/mind_brain/brain-computer_interfaces/)
 
@@ -246,9 +246,9 @@ this week
 
 [Cell Biology](https://www.sciencedaily.com/news/plants_animals/cell_biology/)
 
-[Birds](https://www.sciencedaily.com/news/plants_animals/birds/)
+[Ice Ages](https://www.sciencedaily.com/news/earth_climate/ice_ages/)
 
-[Animal Learning and Intelligence](https://www.sciencedaily.com/news/plants_animals/animal_learning_and_intelligence/)
+[Weather](https://www.sciencedaily.com/news/earth_climate/weather/)
 
   
 
