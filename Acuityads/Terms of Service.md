@@ -26,9 +26,9 @@
         * [Guides](https://illumin.com/insights/guides/)
         * [Events](https://illumin.com/insights/events/)
         * [Podcasts & Webinars](https://illumin.com/insights/podcasts-webinars/)
-    * ![Roblox adds programmatic in-game advertising in 2024](https://illumin.com/wp-content/uploads/2024/11/roblox-1-263x300.jpg)
+    * ![How AI is shaping digital advertising](https://illumin.com/wp-content/uploads/2023/09/How-AI-is-shaping-digital-advertising-1-263x300.jpg)
         
-        Roblox adds programmatic in-game advertising in 2024[Read More](https://illumin.com/insights/blog/roblox-programmatic-in-game-advertising/)
+        How AI is shaping digital advertising[Read More](https://illumin.com/insights/blog/ai-shaping-digital-advertising/)
         
 * [Company](#)
     * [Company](#)
@@ -496,7 +496,3 @@ Newsletter signup
 * [Data Subject Access Request](https://illumin.com/legal/subject-access-request/)
 * [Privacy Policy](https://illumin.com/legal/privacy/)
 * [Opt Out/Do Not Sell or Share My Info](https://illumin.com/opt-out.html)
-
-![](https://www.facebook.com/tr?id=791746128738564&ev=ViewContent&noscript=1&cd%5Bpage_title%5D=Terms+and+Conditions&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=1682&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=illumin.com%2Flegal%2Fterms-and-conditions%2F)
-
-![](https://www.facebook.com/tr?id=791746128738564&ev=PageView&noscript=1&cd%5Bpage_title%5D=Terms+and+Conditions&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=1682&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=illumin.com%2Flegal%2Fterms-and-conditions%2F)
