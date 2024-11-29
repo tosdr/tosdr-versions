@@ -25,7 +25,7 @@ Suche nach:  Suchen
 Datenschutz
 ===========
 
-Datenschutz ist uns nicht nur ein wichtiges politisches Anliegen, sondern wir setzen den Schutz der personenbezogenen Daten unserer Nutzerinnen auch konkret um. Deshalb versuchen wir zunächst, möglichst wenig Daten zu erheben. Dort, wo wir dies doch tun, könnt ihr von uns erwarten, dass wir mit euren Daten sensibel und sorgfältig umgehen und für eine hohe Datensicherheit sorgen. Wir beachten die Vorschriften der [Datenschutzgrundverordnung](https://dejure.org/gesetze/DSGVO), des [Bundesdatenschutz](https://dejure.org/gesetze/BDSG)– sowie des [Telekommunikation-Telemedien-Datenschutz-Gesetzes](https://www.gesetze-im-internet.de/ttdsg/) und werden personenbezogene Daten der Nutzer nur in dem in dieser Datenschutzerklärung beschriebenen Umfang erheben und verarbeiten.
+Datenschutz ist uns nicht nur ein wichtiges politisches Anliegen, sondern wir setzen den Schutz der personenbezogenen Daten unserer Nutzerinnen auch konkret um. Deshalb versuchen wir zunächst, möglichst wenig Daten zu erheben. Dort, wo wir dies doch tun, könnt ihr von uns erwarten, dass wir mit euren Daten sensibel und sorgfältig umgehen und für eine hohe Datensicherheit sorgen. Wir beachten die Vorschriften der [Datenschutzgrundverordnung](https://dejure.org/gesetze/DSGVO), des [Bundesdatenschutz](https://dejure.org/gesetze/BDSG)– sowie des [Digitale-Dienste-Gesetzes](https://www.gesetze-im-internet.de/ddg/BJNR0950B0024.html) und werden personenbezogene Daten der Nutzer nur in dem in dieser Datenschutzerklärung beschriebenen Umfang erheben und verarbeiten.
 
 Daher hier eine Kurzübersicht unserer Datenschutzhinweise. Falls ihr es ausführlicher wissen wollt, gibt es unten die [Langversion](#datenschutz_lang).
 
@@ -180,7 +180,7 @@ Hierdurch wird ebenfalls ein Widerruf der Einwilligung der Speicherung der währ
 ### VI. Spenden und Spendenbescheinigungen
 
 **1\. Beschreibung und Umfang der Datenverarbeitung**  
-netzpolitik.org finanziert sich durch Spenden. Nach [§147 der Abgabenordnung](https://www.gesetze-im-internet.de/ao_1977/__147.html) sind wir verpflichtet, Buchungsbelege zehn Jahre aufzubewahren. Zu diesem Zweck speichern wir Kontoauszüge, die sowohl Absenderinnen als auch Höhe und Datum von Spendenüberweisungen enthalten.
+netzpolitik.org finanziert sich durch Spenden. Nach [§147 der Abgabenordnung](https://www.gesetze-im-internet.de/ao_1977/__147.html) sind wir verpflichtet, Buchungsbelege zehn Jahre aufzubewahren.
 
 Zu diesem Zweck speichern wir Kontoauszüge, die sowohl Absenderinnen als auch Höhe und Datum von Spendenüberweisungen enthalten. Die digitale Verwaltung der Belege wird mit Produkten der DATEV eG realisiert. Die gespeicherten Belege importieren wir in das System der DATEV eG. Die dabei übermittelten personenbezogenen Daten unserer Spenderinnen verarbeitet die DATEV eG in unserem Auftrag. Wir haben zu diesem Zweck eine Auftragsverarbeitungsvereinbarung mit der DATEV eG nach Art. 28 DS-GVO abgeschlossen. Die dabei übermittelten personenbezogenen Daten unserer Spenderinnen verarbeitet die DATEV eG in unserem Auftrag ausschließlich auf Servern in Deutschland.
 
