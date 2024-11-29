@@ -451,7 +451,7 @@ En cas de litige, les tribunaux de Lausanne (Suisse) sont exclusivement compéte
 * [Contact](https://www.rts.ch/entreprise/contact/)
 * [FAQ](https://www.rts.ch/entreprise/vos-questions/)
 * [Travailler à la RTS](https://jobs.rts.ch/fr/emplois-carriere/)
-* [S'abonner à nos newsletters](https://www.rts.ch/articles/2023/information/decouvrez-les-newsletters-de-la-rts-27427199.html)
+* [S'abonner à nos newsletters](https://www.rts.ch/newsletters/2023/information/decouvrez-les-newsletters-de-la-rts-27427199.html)
 
 * [Assister à nos émissions](https://avecvous.rts.ch/evenements/emissions/)
 * [Visiter nos studios](https://avecvous.rts.ch/evenements/visites/)
