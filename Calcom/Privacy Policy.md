@@ -237,12 +237,12 @@ Analytics
 
 We may use third-party Service Providers to monitor and analyze the use of our Service.
 
-#### Fathom Analytics
+#### Posthod Analytics
 
   
-Privacy-focused website analytics from a sustainable company. A GDPR compliant, Google Analytics alternative.
+The single platform to analyze, test, observe, and deploy new features.
 
-For more information on the privacy practices of Fathom, please visit the Fathom Privacy Terms web page: https://usefathom.com/terms
+For more information on the privacy practices of Posthog, please visit the Posthog Privacy Terms web page: https://posthog.com/terms
 
 #### Twipla Analytics
 
