@@ -205,27 +205,27 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Create Your Own Adventure: Summer Vacation](https://www.somethingawful.com/news/create-adventure/1/)
-* [MormonAds](https://www.somethingawful.com/photoshop-phriday/mormon-posters/1/)
-* [Sponsored Links Sponsored By Recommended Sponsors](https://www.somethingawful.com/news/sponsored-recommended-links/)
-* [Make Fictional Animals Real!](https://www.somethingawful.com/photoshop-phriday/fictional-animals-life/1/)
-* [Monstrous Misprints](https://www.somethingawful.com/photoshop-phriday/monstrous-misprints/1/)
+* [High-Flying Hijinks](https://www.somethingawful.com/comedy-goldmine/highflying-hijinks/1/)
+* [Blue Stripe - The Life and Times of a Harkonnen Florist](https://www.somethingawful.com/news/harkonnen-florist-bluestripe/1/)
+* [Santa With Muscles](https://www.somethingawful.com/movie-reviews/santa-muscles-hogan/1/)
+* [Fallout 76: The Absolute DEFINITIVE Review!](https://www.somethingawful.com/news/fallout76-review/)
+* [Red Carpet Roadkill](https://www.somethingawful.com/photoshop-phriday/red-carpet-roadkill/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/serious.png) [(PREQUEL!!!) What's the GREATEST thing you've done?](http://forums.somethingawful.com/showthread.php?threadid=4076469 "(PREQUEL!!!) What's the GREATEST thing you've done?")
-* ![](https://fi.somethingawful.com/forums/posticons/fyad-sandwich.gif) [Document your Thanksgiving prep!](http://forums.somethingawful.com/showthread.php?threadid=4076432 "Document your Thanksgiving prep!")
-* ![](https://fi.somethingawful.com/forums/posticons/fyad-toucan.gif) [Anyone got any New Years resolutions, to-do (or to-do-not-do) lists or solemn annual oaths percolati](http://forums.somethingawful.com/showthread.php?threadid=4076472 "Anyone got any New Years resolutions, to-do (or to-do-not-do) lists or solemn annual oaths percolati")
+* ![](https://fi.somethingawful.com/images/shitpost.gif) [Made in USA - Supporting our fellow countrypeople](http://forums.somethingawful.com/showthread.php?threadid=4076499 "Made in USA - Supporting our fellow countrypeople")
 * ![](https://fi.somethingawful.com/forums/posticons/hell-fuckthis.gif) [What is your religion and why?](http://forums.somethingawful.com/showthread.php?threadid=4076478 "What is your religion and why?")
+* ![](https://fi.somethingawful.com/forums/posticons/fyad-toucan.gif) [Anyone got any New Years resolutions, to-do (or to-do-not-do) lists or solemn annual oaths percolati](http://forums.somethingawful.com/showthread.php?threadid=4076472 "Anyone got any New Years resolutions, to-do (or to-do-not-do) lists or solemn annual oaths percolati")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/serious.png) [(PREQUEL!!!) What's the GREATEST thing you've done?](http://forums.somethingawful.com/showthread.php?threadid=4076469 "(PREQUEL!!!) What's the GREATEST thing you've done?")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/serious.png) [(SEQUEL) What's the best thing you've done?](http://forums.somethingawful.com/showthread.php?threadid=4076448 "(SEQUEL) What's the best thing you've done?")
 
 ### Random Articles
 
-* [Sock Monster Safari Rides Again](https://www.somethingawful.com/comedy-goldmine/another-sock-monster/1/)
-* [Baby, no! I'm sorry!](https://www.somethingawful.com/news/baby-im-sorry/)
-* [Paranormal Sarah (Thanks, zerz!)](https://www.somethingawful.com/awful-links/paranormal-sarah/)
-* [Sammy the Safety Squirrel vs. The Kraken](https://www.somethingawful.com/news/sammy-safety-squirrel/)
-* [Miss Teri-Baby Lonestar (Thanks, Crass!)](https://www.somethingawful.com/awful-links/miss-teribaby-lonestar/)
+* [Sonic Cartoons](https://www.somethingawful.com/flash-tub/sonic-cartoons/1/)
+* [Mandrake's Tales](https://www.somethingawful.com/awful-links/awful-link-3078/)
+* [Real Super Powers and Universal Psychic Guild](https://www.somethingawful.com/weekend-web/real-superpowers-psychicguild/1/)
+* [Christmas Pole to Pole](https://www.somethingawful.com/news/christmas-pole-pole/)
+* [The Science Of Fiction](https://www.somethingawful.com/news/science-fiction/)
 
 [Random!](https://www.somethingawful.com/random/)
 
