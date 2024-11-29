@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![WiFi Fraud?](/wp-content/thumbnails/809-100x70.png?x53432)
+* [![The Men of the Fifth World](/wp-content/thumbnails/8174-100x70.jpeg?x53432)
     
-    WiFi Fraud?
+    The Men of the Fifth World
     
-    Panorama examines concerns about WiFi Technology.](https://documentaryheaven.com/wifi-fraud/ "WiFi Fraud?")
-* [![World’s Scariest Drug](/wp-content/thumbnails/6584-100x70.jpg?x53432)
+    The aboriginal culture of Australia included a large number of tribes that inhabited the oceanic continent before the arrival of the white man. But is all that rich culture doomed? Are Australian](https://documentaryheaven.com/men-fifth-world/ "The Men of the Fifth World")
+* [![The Hard Man](/wp-content/thumbnails/10763-100x70.jpg?x53432)
     
-    World’s Scariest Drug
+    The Hard Man
     
-    VICE is back! World’s Scaries Drug finds Ryan Duffy taking us to Colombia and to see a mighty drug called Scopalamine, also known as “The Devil’s Breath.” See why!The drug seems like something out of](https://documentaryheaven.com/worlds-scariest-drug/ "World’s Scariest Drug")
-* [![Fort Knox: Secrets Revealed](/wp-content/thumbnails/6882-100x70.png?x53432)
+    The Hard Man is a 52 minute documentary which was made in 1995 about a man called Michael Kelly who is a former criminal from the Southhill area of Limerick City, Ireland. The film examines the social](https://documentaryheaven.com/hard-man/ "The Hard Man")
+* [![Standing Silent Nation](/wp-content/thumbnails/3200-100x70.jpg?x53432)
     
-    Fort Knox: Secrets Revealed
+    Standing Silent Nation
     
-    The U.S. Bullion Depository, better known as Fort Knox, is home of the United States Army and one of the world’s most top secret fortresses. Hidden deep inside the vault is an estimated $73 billion do](https://documentaryheaven.com/fort-knox-secrets-revealed/ "Fort Knox: Secrets Revealed")
-* [![Preview: Petenera – a Flamenco Drama in Music and Dance](/wp-content/thumbnails/2863-100x70.jpg?x53432)
+    What does a family have to endure to create a future for itself? In April 2000, Alex White Plume and his Lakota family planted industrial hemp on the Pine Ridge Reservation in South Dakota after oth](https://documentaryheaven.com/standing-silent-nation/ "Standing Silent Nation")
+* [![Witchcraft and Magic: Witchcraft](/wp-content/thumbnails/2752-100x70.jpg?x53432)
     
-    Preview: Petenera – a Flamenco Drama in Music and Dance
+    Witchcraft and Magic: Witchcraft
     
-    (For Preview Only) In this unique 2-hrs DVD, Petenera – a Flamenco Drama in Music and Dance recreates the legendary femme fatale that has haunted flamenco lore for centuries. It portrays her lonelines](https://documentaryheaven.com/preview-petenera-%e2%80%93-a-flamenco-drama-in-music-and-dance/ "Preview: Petenera – a Flamenco Drama in Music and Dance")
-* [![Cold Turkey](/wp-content/thumbnails/8045-100x70.jpg?x53432)
+    We’ve all heard of the witch, but do witches have a real existence? Yes, they have existed since the dawn of history, and most likely for millenia before. In the Bible, Saul, afraid of the might of th](https://documentaryheaven.com/witchcraft-and-magic-witchcraft/ "Witchcraft and Magic: Witchcraft")
+* [![Hitler Speaks: Hitler’s Private Movies](/wp-content/thumbnails/2805-100x70.jpg?x53432)
     
-    Cold Turkey
+    Hitler Speaks: Hitler’s Private Movies
     
-    Directed by Leo Regan and originally televised in 2001, 'Cold Turkey' tells the story of Lanre Fehintola a photojournalist who experimented with heroin whilst working on a book featuring drug addicts.](https://documentaryheaven.com/cold-turkey/ "Cold Turkey")
+    On May 1st 1945 allied forces overtook Hitler’s private mountain retreat in Bavaria.America’s OSS (office of strategic services) looking for evidence of Nazi war crimes uncovered a large archive o](https://documentaryheaven.com/hitler-speaks-hitlers-private-movies/ "Hitler Speaks: Hitler’s Private Movies")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
