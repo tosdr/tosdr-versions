@@ -18,6 +18,8 @@
     * [Devblog](https://tech.new-work.se/)
     * [Mobile & desktop apps](https://mobile.xing.com/en/)
     * [Baller League](https://ballerleague.xing.com/)
+    * [XING Adventskalender](https://adventskalender.xing.com/)
+    * [XING Adventskalender Recruiting](https://recruiting.xing.com/de/xing-adventskalender/)
 * Memberships
     
     * [Premium](https://www.xing.com/purchase/premium?reagent=uplt_98)
