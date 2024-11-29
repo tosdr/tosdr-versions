@@ -31,6 +31,119 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Seúl despliega aviones cazas por entrada de aviones rusos y chinos en zona aérea
+================================================================================
+
+Cinco aviones militares chinos y seis aviones militares rusos entraron y salieron de las zonas de identificación de defensa aérea de Corea
+------------------------------------------------------------------------------------------------------------------------------------------
+
+![Imagen de archivo de aviones chinos K8 de las Fuerzas Armadas.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-2024-11-29T072917.018.jpg)
+
+La Fuerza Aérea surcoreana ejecutó hoy, viernes 29 de noviembre de 2024, **despegues de emergencia** de cazas de combate. Esto debido a las entradas no notificadas de seis aviones militares rusos y cinco del ejército chino.
+
+Las aeronaves ingresaron en la zona de identificación de defensa aérea (ADIZ por sus siglas en inglés) de Corea del Sur, según informó el **Ministerio de Defensa Nacional.**
+
+### Más noticias
+
+* [Histórica nevada en Corea del Sur impacta en Seúl](https://www.elcomercio.com/actualidad/mundo/historica-nevada-corea-sur-dejan-5-muertos-transporte-clima.html "Histórica nevada en Corea del Sur impacta en Seúl")
+* [Gran Bretaña alerta sobre propagación de tres virus en el mundo; uno incluye a Ecuador](https://www.elcomercio.com/actualidad/mundo/gran-bretana-virus-mundo-ecuador.html "Gran Bretaña alerta sobre propagación de tres virus en el mundo; uno incluye a Ecuador")
+* [Donald Trump promete más aranceles sobre China y México](https://www.elcomercio.com/actualidad/mundo/donald-trump-promete-mas-aranceles-sobre-china-y-mexico.html "Donald Trump promete más aranceles sobre China y México")
+
+La intrusión aérea
+------------------
+
+Según un comunicado del Ministerio de Defensa, “entre las 9:35 y las 13:53 (00:35-4:53 GMT), **cinco aviones militares chinos y seis aviones militares rusos entraron y salieron** de manera secuencial de las zonas de identificación de defensa aérea de Corea (KADIZ).
+
+Esto, en el mar del Este (nombre que recibe el mar de Japón en ambas Coreas) y el mar del Sur (nombre que recibe el estrecho de Corea) sin que se produjeran violaciones del espacio aéreo”.
+
+“El ejército de la República de Corea (nombre oficial de Corea del Sur) identificó los **aviones militares chinos y rusos i**ncluso antes de que ingresaran en la ADIZ. Implementaron medidas tácticas para prepararse para contingencias mediante el despliegue de aviones de combate de las Fuerzas Aéreas”, añadió el Estado Mayor sin dar más detalles.
+
+Las ADIZ requieren que **las aeronaves que accedan a ellas se identifiquen** previamente para prevenir choques u otros contratiempos y garantizar la seguridad nacional.
+
+**La intrusión de los aviones militares chinos y ruso**s se produce el mismo día en que las Fuerzas Armadas de ambos países llevaron a cabo una “patrulla aérea estratégica conjunta” en el mar de Japón, según informó el Ministerio de Defensa chino.
+
+La patrulla aérea forma parte de “**un plan de cooperación anual** entre ambos ejércitos”, según un comunicado del citado ministerio, que no ofreció más detalles sobre [estos ejercicios](https://es.wikipedia.org/wiki/Se%C3%BAl "https://es.wikipedia.org/wiki/Se%C3%BAl").
+
+Quito merece una reflexión sobre su futuro
+==========================================
+
+Las Fiestas de Quito deben ser un espacio de reflexión sobre nuestra identidad y el futuro sostenible de la ciudad.
+-------------------------------------------------------------------------------------------------------------------
+
+![Las Fiestas de Quito son una oportunidad para reflexionar sobre nuestra identidad cultural y el futuro sostenible de la ciudad.](https://www.elcomercio.com/wp-content/uploads/2024/11/Fiestas-de-Quito-1-1.jpg)
+
+En la víspera de las **Fiestas de Quito, que conmemoran la fundación española de la ciudad el 6 de diciembre de 1534,** es crucial detenernos a reflexionar sobre lo que significa ser quiteño en un mundo que cambia rápidamente. Históricamente, estas festividades han sido un momento para celebrar las raíces culturales y tradiciones; sin embargo, en los días que corren, se debe pensar en cómo construir y fortalecer una identidad que no solo respete el pasado, sino que también abrace un futuro sostenible.
+
+Quito, con su rica historia y diversidad cultural, se enfrenta a desafíos contemporáneos significativos. La desprotección del **medio ambiente** ha llevado a problemas como sequías e incendios forestales, que amenazan tanto nuestros recursos naturales como nuestra calidad de vida. En este contexto, es fundamental que los quiteños se vinculen emocionalmente con su entorno natural.
+
+> La construcción de una identidad sólida debe incluir un apego profundo a los recursos naturales que nos rodean, promoviendo una conciencia ecológica que trascienda las festividades.
+
+Las Fiestas de Quito no deben limitarse a ser un mero evento cultural y de entretenimiento. Deben convertirse en una **plataforma para la reflexión** crítica sobre el futuro de nuestra ciudad. En lugar de ser solo un escenario para la propaganda política, estas celebraciones podrían fomentar diálogos sobre sostenibilidad y el papel que cada uno de nosotros juega en la protección del medio ambiente. **Los jóvenes, a menudo considerados desconectados de los debates importantes, están cada vez más preocupados por su futuro.** Es vital que sus voces sean escuchadas y que se les brinde un espacio para articular sus preocupaciones sobre una Quito más integral.
+
+Desafortunadamente, muchos políticos ven a Quito como un simple escenario para sus campañas, ignorando las verdaderas necesidades y preocupaciones de la ciudadanía. Esta desconexión crea un vacío donde las nuevas generaciones quedan atrapadas en debates irrelevantes mientras los problemas ambientales, sociales, económicos, tecnológicos, etc. persisten. Los jóvenes están ansiosos por participar en conversaciones significativas sobre su futuro; lo único que falta es la articulación adecuada para canalizar esa energía hacia una visión compartida. Las nuevas generaciones están interesadas en la conversación sobre la misma política, la economía, educación, ciencia; el tema es que el debate debe ser al mismo nivel y no con la superioridad que caracteriza a muchos sectores.  
+  
+**La historia nos enseña lecciones valiosas.** Las festividades han evolucionado desde sus orígenes españoles hacia una celebración más inclusiva que refleja la diversidad cultural de Quito. Este legado debe ser honrado mientras miramos hacia adelante. La identidad quiteña debe ser una amalgama de nuestras raíces indígenas y mestizas, así como un reconocimiento del papel vital que juegan nuestras tradiciones en la construcción del tejido social actual.  
+  
+La búsqueda de una identidad quiteña renovada debe estar alineada con objetivos sostenibles. Esto implica no solo proteger nuestros ecosistemas locales, sino también promover prácticas culturales que respeten y celebren nuestra relación con la naturaleza. Iniciativas ecoturísticas y programas educativos pueden servir como herramientas poderosas para involucrar a las nuevas generaciones en la conservación del patrimonio cultural y natural.  
+  
+En este inicio de las **Fiestas de Quito**, es importante reflexionar sobre lo que significa ser parte de esta ciudad. No se trata solo de celebrar el pasado; se trata de construir un futuro donde cada ciudadano esté comprometido con su entorno y con una visión colectiva hacia la sostenibilidad. Al fortalecer nuestra identidad cultural y ecológica, podemos asegurar que Quito no solo sea un lugar donde vivir, sino un hogar vibrante y resiliente para las generaciones venideras.
+
+Así funciona el Pico y placa en Quito este viernes 29 de noviembre
+==================================================================
+
+Recuerda que el Pico y placa aplica de lunes a viernes. Fines de semana y feriados no rige esta medida de tránsito
+------------------------------------------------------------------------------------------------------------------
+
+![El Pico y placa rige en Quito de lunes a viernes.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-2024-11-28T135528.737.jpg)
+
+El **Pico y placa** es una restricción vehicular que rige en todo el Distrito Metropolitano de **Quito** como medida para **gestionar el tránsito** de la ciudad en las horas pico.
+
+Esta **restricción excluye** a los autos conducidos por **personas de la tercera edad** o personas con discapacidad.
+
+### Más noticias
+
+* [Cortes de luz en Quito del viernes 29 de noviembre al domingo 1 de diciembre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-de-viernes-29-de-noviembre-a-domingo-1-de-diciembre.html "Cortes de luz en Quito del viernes 29 de noviembre al domingo 1 de diciembre")
+* [Plaza en El Panecillo tendrá una renovación, en Quito](https://www.elcomercio.com/actualidad/quito/plaza-nubes-quito-renovacion.html "Plaza en El Panecillo tendrá una renovación, en Quito")
+* [Cierres viales por las fiestas de Quito del 26 al 30 de noviembre](https://www.elcomercio.com/actualidad/quito/fiestas-quito-cierres-viales-amt.html "Cierres viales por las fiestas de Quito del 26 al 30 de noviembre")
+
+Horarios de Pico y placa
+------------------------
+
+El Pico y placa se aplica en dos horarios de **lunes a viernes**. Los feriados, sábados y domingo no aplica la restricción.
+
+Estos son los horarios de aplicación:
+
+* En la **mañana**: de 06:00 a 09:30
+* En la **tarde**: de 16:00 a 20:00
+
+El **Pico y placa** es una medida que se implementó en **diversas ciudades** alrededor del mundo como respuesta a los desafíos de la **urbanización** y el aumento del tránsito vehicular.
+
+Multas por infringir el Pico y placa
+------------------------------------
+
+La multa por incumplir el **Pico y placa** es del **15% del Salario Básico Unificado, es decir 69 dólares** la primera vez; la segunda vez será el 25%, es decir, **115 dólares**.
+
+Si incumples por tercera vez, la multa asciende al 50% de un salario básico, es decir, **230 dólares**.
+
+Recuerda retirar tu auto de las plazas de parqueo
+-------------------------------------------------
+
+Está vigente la resolución que dispone el proceso de **chatarrización** de los vehículos ingresados en los Centros de Retención Vehicular (CRV) por **más de tres años**, que no hayan sido retirados por sus propietarios.
+
+Con estos vehículos se emite una **declaratoria de abandono** y luego se procede a la chatarrización.
+
+Por esta razón, la Agencia de Tránsito llama a los **legítimos propietarios** a realizar el proceso de [liberación](https://es.wikipedia.org/wiki/Quito) vehicular.
+
+> 🚨[#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Ponte pilas!  
+>   
+> 💁 Recuerda, hoy la medida “Pico y Placa” se mantiene con normalidad.  
+>   
+> Respeta las normas de tránsito y evita sanciones.  
+>   
+> 🚘 Con cultura vial [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/UFguFjnMCB](https://t.co/UFguFjnMCB)
+> 
+> — AMTQuito (@AMT\_Quito) [October 18, 2024](https://twitter.com/AMT_Quito/status/1847210996382740688?ref_src=twsrc%5Etfw)
+
 Avances en el procesamiento de datos 
 =====================================
 
@@ -1074,236 +1187,3 @@ El Gobierno busca generar más energía a través de la **contratación** de var
 También, intenta diversificar la matriz energética del país para que la generación no dependa, en su mayoría, de las lluvias que incrementan los **caudales de los ríos** y mejoran el nivel de los embalses de las hidroeléctricas.
 
 Entre otras medidas, el Gobierno también gestionó la reactivación del intercambio de energía entre **Colombia y Ecuador** y otras medidas.
-
-Liga de Quito jugará el último partido de la Liga Pro sin visitantes
-====================================================================
-
-Liga de Quito no contará con público visitante en su duelo ante Deportivo Cuenca, donde definirá si juega la final de la Liga Pro.
-----------------------------------------------------------------------------------------------------------------------------------
-
-![Álex Arce celebra un gol con Liga de Quito en la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/11/20241124138878-fbl-ligapro-catolica-liga-scaled.jpg)
-
-**Liga de Quito** define en la última fecha de la Liga Pro si irá o no a disputar la final frente a **Independiente del Valle**. Su partido de cierre de la segunda etapa del campeonato lo disputará ante Deportivo Cuenca y para ello contará solo con su hinchada.
-
-La tarde de este **jueves 28 de noviembre**, los albos brindaron un anuncio en torno a su futuro compromiso pactado para el 1 de diciembre del 2024 a las 15:30. El cuadro azucena comunicó que no emitirá entradas para los visitantes.
-
-### Más noticias:
-
-* [Liga de Quito e IDV, cara a cara por el liderato en la Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-de-quito-e-idv-cara-a-cara-por-el-liderato-en-la-liga-pro.html "Liga de Quito e IDV, cara a cara por el liderato en la Liga Pro")
-* [Liga de Quito espera por su apelación, ¿qué pasará?](https://www.elcomercio.com/deportes/liga-quito-apelacion-fef-independiente-valle.html "Liga de Quito espera por su apelación, ¿qué pasará?")
-* [Mario Pineida se burla nuevamente de Liga de Quito tras ser campeón](https://www.elcomercio.com/deportes/futbol/mario-pineida-se-burla-nuevamente-de-liga-de-quito-tras-ser-campeon.html "Mario Pineida se burla nuevamente de Liga de Quito tras ser campeón")
-
-“Les recordamos que el día domingo para el partido de **Liga vs. Deportivo Cuenca**, a llevarse a cabo a las 15:30, no está habilitado el ingreso de hinchada visitante o hinchas identificados con camisetas del equipo rival”, expuso el elenco en un documento.
-
-A partir de tal decisión, los albos tendrán solo a su parcialidad en un momento crucial de la temporada. Desde el lado de la visita, el **Deportivo Cuenca** ya no cuenta con mayores aspiraciones, pues no peligra por descender y tampoco tiene posibilidades de ingresar a torneos internacionales.
-
-Liga de Quito, con más posibilidades
-------------------------------------
-
-De cara al compromiso ante el cuadro morlaco, Liga de Quito llega puntero en la segunda etapa y en aquel duelo definirá si la gana. El conjunto azucena tiene **32 puntos y +14 de gol diferencia** en la tabla de la ronda.
-
-**Independiente del Valle**, a su vez, arriba segundo con 29 unidades, pero mejor dentro del factor diferencial. En aquel último aspecto, los rayados suman **+19 goles**, cinco más que los universitarios.
-
-En la última fecha, los albos llegan como favoritos debido a su ventaja en puntaje. En la previa de la fecha, la FEF le restituyó tres puntos al equipo a raíz de una apelación por una sanción y, con ello, superó a la escuadra negriazul.
-
-Independiente del Valle ya es finalista de la Liga Pro
-------------------------------------------------------
-
-**Independiente del Valle** ya tiene un cupo asegurado en la final de la Liga Pro debido a su papel en la primera etapa. En aquella ronda, el elenco que dirige Javier Gandolfi logró finalizar en el máximo puesto, también en la última fecha.
-
-Para ganar el título del torneo ecuatoriano de manera directa, la escuadra de Sangolquí necesita un tropezón de **Liga de Quito**. En caso de que Liga iguale, los rayados deben ganar y, si pierde, les bastará con sumar.
-
-Enner, un nombre con origen muy lejano a Ecuador
-================================================
-
-El origen del nombre de Enner Valencia data de dos países europeos y uno norteamericano.
-----------------------------------------------------------------------------------------
-
-![Enner Valencia con la Selección de Ecuador en el 2021.](https://www.elcomercio.com/wp-content/uploads/2024/11/enner_origen_1.jpg)
-
-Enner Valencia fue **presentado en el Inter de Porto Alegre el 26 de junio de 2023** como refuerzo para el segundo semestre de ese año. Alrededor del ecuatoriano se armó una fiesta a la altura de una estrella sudamericana.
-
-Y no era para menos. Enner Valencia llegó a Brasil como el goleador del **Fenerbahçe en la liga de Turquía con 29 tantos**. Se suman tres más en la UEFA Europa League donde llegaron hasta los octavos de final y quedaron eliminados.
-
-### Más noticias:
-
-* [Enner, un nombre que ganó fanáticos en tres años](https://www.elcomercio.com/deportes/futbol/enner-valencia-cantidad-inscritos-nombre.html "Enner, un nombre que ganó fanáticos en tres años")
-* [Enner Valencia popularizó su nombre con goles en Ecuador](https://www.elcomercio.com/deportes/futbol/enner-valencia-popularizo-nombre-ecuador.html "Enner Valencia popularizó su nombre con goles en Ecuador")
-* [Enner Valencia cerca de ‘arrebatarle’ otro récord a Agustín Delgado](https://www.elcomercio.com/deportes/futbol/enner-valencia-agustin-delgado-goles.html "Enner Valencia cerca de ‘arrebatarle’ otro récord a Agustín Delgado")
-
-En esa instancia **perdieron 2-1 con el Sevilla en el marcador global**. Valencia anotó el único tanto de su equipo y a punto estuvo de empatar la serie para enviarla hasta los lanzamientos penales.
-
-En total, en su segunda aventura por Europa terminó con 59 goles y 17 asistencias en 116 presencias.
-
-Antes de su arribo al fútbol de los pentacampeones, ‘Superman’ defendió las camisetas de Emelec de Ecuador, Pachuca y Tigres de México, **West Ham United y Everton de Inglaterra**, y el ya mencionado club turco.
-
-En **65 partidos con el Inter ya anotó 23 goles y entregó cinco asistencias** en los 16 meses como ‘Colorado’.
-
-En cuanto títulos, el ‘GOAT’ tiene el del campeonato nacional con Emelec en 2013; dos ligas, dos Campeón de Campeones, una Campeones Cup y una Liga de Campeones de la CONCACAF con Tigres, y una Copa de Turquía con el Fenerbahçe en 2023.
-
-Todo ese palmarés, más los **44 goles que marcó con la Selección de Ecuador** que lo mantienen como el máximo goleador histórico de todos los tiempos, marcan el camino de una carrera exitosa que aún no tiene fecha de caducidad.
-
-Uno de los ‘enigmas’ que se manejan alrededor del esmeraldeño es el origen de su nombre, poco común en el país en 1989, **año de su nacimiento, pero que se ha ido incrementando hasta 2024** al punto de, según el Registro Civil, llegar a 1 566.
-
-![Foto: Archivo histórico EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/11/enner_origen_2-1024x683.jpg)
-
-Foto: Archivo histórico EL COMERCIO.
-
-El origen del nombre de Enner
------------------------------
-
-**Ana Estrella**, lingüistas de la Universidad Católica del Ecuador, en entrevista con EL COMERCIO, menciona que el origen del nombre se remontan a Alemania y Estados Unidos, pero es “más normal como apellido que como nombre”.
-
-“Por ejemplo, de cada 100 Enner, 80 son como apellido y 20 como nombre”, detalló referente a estos dos países.
-
-**Un tercer origen se traslada a Inglaterra.** En este caso más ligado a una especie de diminutivo de una determinada forma de identificar a una persona.
-
-La catedrática agrega que es ‘difícil’ establecer ‘claramente el momento que el nombre llegó al país’.
-
-Estrella menciona que **existen estudios lingüísticos que establecen que los nombres** son una forma de distinción entre uno u otro grupo social, en donde unos son más creativos y otros más formales a la hora de su elección.
-
-“Cuando una persona es popular o famosa es una de las razones por la que se replica su nombre. En la averiguación que realicé, **Enner Valencia es el más famoso en todo el mundo** y no hay nadie más que esté cerca de ello”, finalizó.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/enner_origen_3-1024x683.jpg)
-
-San viernes
------------
-
-Conciertos, cierres viales y ubicación de las chivas durante las fiestas de Quito
-=================================================================================
-
-Las fiestas de Quito tienen una agenda que incluye diversas actividades en toda la ciudad.
-------------------------------------------------------------------------------------------
-
-![Los propietarios de las chivas deben estar autorizadas para circular en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/11/Chivas-Quito.jpg)
-
-Quito conmemora sus 490 años de fundación con una variada programación de actividades **culturales** y **artísticas**[.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito") 
-
-Más noticias
-------------
-
-* [La AMT toma medidas para mejorar la seguridad vial durante las fiestas de Quito](https://www.elcomercio.com/actualidad/quito/control-velocidad-quito-amt-razones.html)
-* [Municipio controlará consumo de alcohol en calles durante fiestas de Quito. ¿Hay sanciones?](https://www.elcomercio.com/actualidad/quito/fiestas-quito-alcohol-calles-operativos.html)
-* [Fiestas de Quito, ¿cuál plato define a la quiteñidad?](https://www.elcomercio.com/actualidad/quito/locro-papa-gastronomia-quito.html)
-
-En el marco de esta celebración, Quito tendrá conciertos de **artistas nacionales** e **internacionales**, desfiles y eventos tradicionales que se desarrollarán en diversos sectores. 
-
-Controles de la AMT durante las festividades
---------------------------------------------
-
-**Como parte de este plan**, la AMT desplegó 1 000 agentes de tránsito para supervisar y gestionar la movilidad durante los eventos programados. 
-
-Entre las medidas principales, se incluyen **cierres viales** temporales en zonas de alta concurrencia, control de estacionamientos para evitar vehículos mal ubicados y gestión del tránsito en puntos estratégicos.
-
-Estas acciones buscan mitigar la **congestión vehicular** y facilitar el desplazamiento de los ciudadanos.
-
-Adicionalmente, las autoridades habilitaron rutas alternas para mantener la fluidez del tráfico en las áreas afectadas por los cierres. Estas medidas complementan el plan de movilidad para garantizar el acceso a los eventos y el orden en las vías.
-
-  Agenda de Eventos Fiestas de Quito 2024   
-
-Agenda de Eventos Fiestas de Quito 2024
-=======================================
-
-**Chispa y Sal Quiteña Stand Up – 28 de noviembre**
----------------------------------------------------
-
-|     |     |
-| --- | --- |
-| Fecha | 28 de noviembre |
-| Hora | 19:00 |
-| Ubicación | Teatro Capitol ([Ver en Google Maps](https://www.google.com/maps/search/?api=1&query=Teatro+Capitol)) |
-| Cierres Viales | Av. Gran Colombia y calles cercanas desde las 18:00 |
-| Vías Alternativas | Ninguna especificada |
-
-**Desfile Mascarada Quiteña – 28 de noviembre**
------------------------------------------------
-
-|     |     |
-| --- | --- |
-| Fecha | 28 de noviembre |
-| Hora | 18:00 |
-| Ubicación | Av. Amazonas ([Ver en Google Maps](https://www.google.com/maps/search/?api=1&query=Av.+Amazonas)) |
-| Cierres Viales | Intersecciones: Jorge Washington, Colón |
-| Vías Alternativas | Av. 10 de Agosto, Av. 6 de Diciembre |
-
-**Cantos del Sur – 29 de noviembre**
-------------------------------------
-
-|     |     |
-| --- | --- |
-| Fecha | 29 de noviembre |
-| Hora | 17:00 |
-| Ubicación | Tribuna del Sur ([Ver en Google Maps](https://www.google.com/maps/search/?api=1&query=Tribuna+del+Sur)) |
-| Cierres Viales | Av. Teniente Hugo Ortiz y conexiones: Francisco de Orellana |
-| Vías Alternativas | Av. Alonso de Angulo |
-
-**Quinde Electro Fest – 5 al 7 de diciembre**
----------------------------------------------
-
-|     |     |
-| --- | --- |
-| Fecha | 5 al 7 de diciembre |
-| Hora | 20:00 |
-| Ubicación | Parque de la Carolina ([Ver en Google Maps](https://www.google.com/maps/search/?api=1&query=Parque+de+la+Carolina)) |
-| Cierres Viales | Av. Amazonas, Av. 6 de Diciembre |
-| Vías Alternativas | Av. 10 de Agosto, Av. Naciones Unidas |
-
-**Quitofest – Sal Quiteña – 5 al 7 de diciembre**
--------------------------------------------------
-
-|     |     |
-| --- | --- |
-| Fecha | 5 al 7 de diciembre |
-| Hora | 10:00 |
-| Ubicación | Centro de Convenciones Bicentenario ([Ver en Google Maps](https://www.google.com/maps/search/?api=1&query=Centro+de+Convenciones+Bicentenario)) |
-| Cierres Viales | Accesos al Parque Bicentenario |
-| Vías Alternativas | Av. Galo Plaza Lasso, Av. De la Prensa |
-
-**Fiesta de Colores – 6 de diciembre**
---------------------------------------
-
-|     |     |
-| --- | --- |
-| Fecha | 6 de diciembre |
-| Hora | 15:00 |
-| Ubicación | Plaza de la Independencia ([Ver en Google Maps](https://www.google.com/maps/search/?api=1&query=Plaza+de+Santo+Domingo)) |
-| Cierres Viales | Calles Venezuela y Chile |
-| Vías Alternativas | Av. Mariscal Sucre |
-
-**Solanda Canta a Quito – 6 de diciembre**
-------------------------------------------
-
-|     |     |
-| --- | --- |
-| Fecha | 6 de diciembre |
-| Hora | 18:00 |
-| Ubicación | Estadio de Solanda ([Ver en Google Maps](https://www.google.com/maps/search/?api=1&query=Estadio+de+Solanda)) |
-| Cierres Viales | Av. Solanda y calles adyacentes |
-| Vías Alternativas | Av. Simón Bolívar |
-
-Funcionamiento de las chivas durante las festividades
------------------------------------------------------
-
-En cuanto al transporte tradicional, la Agencia Metropolitana de Tránsito autorizó, hasta el 28 de noviembre, un total de 80 chivas tradicionales para operar durante las **fiestas de Quito.** 
-
-Con este objetivo, la autorización incluye regulaciones específicas para asegurar un servicio ordenado.
-
-Por ejemplo, los propietarios deben registrar sus vehículos y portar el permiso correspondiente. 
-
-Adicionalmente, las **chivas** tienen restricciones de circulación y no podrán ingresar a zonas sensibles delimitadas por polígonos específicos en la ciudad.
-
-Normativas y controles para las chivas
---------------------------------------
-
-Paralelamente, la **AMT** estableció un plan de control riguroso. Como parte de estas acciones, las autoridades realizarán inspecciones constantes en puntos estratégicos para verificar el cumplimiento de las normativas. 
-
-En estas revisiones, los agentes comprobarán que las unidades tengan llantas en buen estado, respeten su capacidad máxima de ocupación y dispongan de toda la documentación requerida.
-
-Polígonos autorizados para el tránsito de las chivas
-----------------------------------------------------
-
-Para organizar mejor su circulación, las autoridades definieron tres polígonos donde las **chivas** no podrán ingresar:
-
-* **Polígono 1**: Av. El Inca, Av. 6 de Diciembre, Av. Cristóbal Colón y Av. Río Amazonas.
-* **Polígono 2**: Av. Ernesto Noboa Caamaño, Av. Federico González Suárez, Av. Cristóbal Colón y Av. 12 de Octubre.
-* **Polígono 3**: Centro Histórico, delimitado por calles como Imbabura, Bolívar y José Joaquín de Olmedo.
