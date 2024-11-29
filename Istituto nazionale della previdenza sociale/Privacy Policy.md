@@ -254,6 +254,30 @@ it
             * [Coordinamento generale Tecnico edilizio](https://www.inps.it/it/it/l-istituto/struttura-organizzativa/coordinamenti-professionali/coordinamento-generale-tecnico-edilizio.html)
             
         
+    * [Sostenibilità](#)
+        
+        Sostenibilità
+        
+        * [Esplora Sostenibilità](https://www.inps.it/it/it/l-istituto/sostenibilita.html)
+        * [Il nostro impegno](#)
+            
+            Il nostro impegno
+            
+            * [Esplora Il nostro impegno](https://www.inps.it/it/it/l-istituto/sostenibilita/il-nostro-impegno.html)
+            * [Valore per gli stakeholder](https://www.inps.it/it/it/l-istituto/sostenibilita/il-nostro-impegno/valore-per-gli-stakeholders.html)
+            * [Temi materiali per l’Istituto](https://www.inps.it/it/it/l-istituto/sostenibilita/il-nostro-impegno/temi-materiali-per-listituto.html)
+            
+        * [Governance della sostenibilità](https://www.inps.it/it/it/l-istituto/sostenibilita/governance-della-sostenibilita.html)
+        * [Iniziative e risultati](#)
+            
+            Iniziative e risultati
+            
+            * [Esplora Iniziative e risultati](https://www.inps.it/it/it/l-istituto/sostenibilita/iniziative-e-risultati.html)
+            * [Ambiente e clima](https://www.inps.it/it/it/l-istituto/sostenibilita/iniziative-e-risultati/ambiente-e-clima.html)
+            * [Persone e comunità](https://www.inps.it/it/it/l-istituto/sostenibilita/iniziative-e-risultati/persone-e-comunita.html)
+            * [Trasparenza e innovazione](https://www.inps.it/it/it/l-istituto/sostenibilita/iniziative-e-risultati/trasparenza-e-innovazione.html)
+            
+        
     * [Codice disciplinare](https://www.inps.it/it/it/l-istituto/codice-disciplinare.html)
     * [Comitato Unico di Garanzia](#)
         
