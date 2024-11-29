@@ -138,6 +138,8 @@ Provider ID# 317924
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
+[Happy Thanksgiving. The Decisions in Dentistry tea ![Happy Thanksgiving. The Decisions in Dentistry team would like to thank each and every one of you who participate on our page. Thank you for helping us bring dental professionals together!⁠](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DC6nre5MOz2/) 
+
 [As the global population ages, a recent study emph ![As the global population ages, a recent study emphasizes the connection between oral health and overall well-being in older adults. Dental hygienists are essential in promoting integrated care to improve the quality of life for aging populations. Link in bio.⁠
 ⁠
 ⁠
@@ -168,13 +170,6 @@ Visit decisionsindentistry.com/ce or click the link in bio.⁠
 [As the crisp fall air ushers in a new season, the ![As the crisp fall air ushers in a new season, the latest issue of Decisions in Dentistry brings fresh insights into all things dentistry. With an aging population and more patients retaining their natural teeth later in life, you may want to pay particular attention to the article “Preserve Natural Teeth With Biomimetic Dentistry.” It dives into how preserving tooth vitality, natural biomechanics, and long-term function are meeting the demand for a minimally invasive approach. Learn how selective caries removal, maximizing adhesion, and using biomechanically compatible materials are helping clinicians extend the lifespan of teeth while minimizing invasive techniques like full-coverage crowns. Read the latest issue via the link in bio.](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DCrK59cvrJc/) 
 
 [With rising concerns about climate change, dental ![With rising concerns about climate change, dental practices can contribute to sustainability through small, effective actions. From reducing transportation emissions to minimizing single-use plastics, these strategies help make dental care more eco-friendly. Link in bio.](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DCos-6JNLVb/) 
-
-[Surgical treatment strategies for aesthetic crown ![Surgical treatment strategies for aesthetic crown lengthening depend on gingival thickness and crestal bone position. Understanding the variations between cases, such as the need for osseous reduction or flap repositioning, is crucial for achieving optimal functional and aesthetic outcomes. Link in bio.⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DCmPCdfsQHb/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
