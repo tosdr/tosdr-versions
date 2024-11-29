@@ -99,21 +99,21 @@ We welcome feedback from our viewers and readers. If readers/viewers have a conc
 Top of Today
 ------------
 
-1. [![Inset: Deputy Garrison Page (Bibb County Sheriff's Office). Background: Garrison Page accepting a 2019 ](https://am23.mediaite.com/lc/cnt/uploads/2024/11/Garrison-Page-432x243.jpg)](https://lawandcrime.com/crime/former-deputy-of-the-year-charged-with-dui-after-trying-to-direct-traffic-that-didnt-exist-cops/)
+1. [![Inset: Gregory Grant (Escambia County Sheriff's Office). Background: The home where Grant allegedly stabbed his ex's new husband (Google Maps).](https://am21.mediaite.com/lc/cnt/uploads/2024/11/afgsdgd-432x243.jpg)](https://lawandcrime.com/crime/man-told-ex-wifes-new-husband-to-flake-off-before-stabbing-him-in-stomach-on-thanksgiving-morning-sheriff/)
     
-    ### [Former 'Deputy of the Year' charged with DUI after trying to direct traffic that didn't exist: Cops](https://lawandcrime.com/crime/former-deputy-of-the-year-charged-with-dui-after-trying-to-direct-traffic-that-didnt-exist-cops/)
+    ### [Man told ex-wife's new husband to 'flake off' before stabbing him in stomach on Thanksgiving morning: Sheriff](https://lawandcrime.com/crime/man-told-ex-wifes-new-husband-to-flake-off-before-stabbing-him-in-stomach-on-thanksgiving-morning-sheriff/)
     
 2. [![Douglas Harrington (U.S. Attorney's Office)](https://am22.mediaite.com/lc/cnt/uploads/2024/11/j6-3-432x243.jpg)](https://lawandcrime.com/high-profile/these-commies-need-to-pay-jan-6-rioter-who-attacked-cops-with-flagpole-is-going-to-prison/)
     
     ### ['THESE COMMIES NEED TO PAY': Jan. 6 rioter who attacked cops with flagpole is going to prison](https://lawandcrime.com/high-profile/these-commies-need-to-pay-jan-6-rioter-who-attacked-cops-with-flagpole-is-going-to-prison/)
     
-3. [![Bottom inset: John Craiger (Volusia County Jail). Top inset: Ghazi Osta (Lohman Funeral Home Ormond). Background: The jewelry store where Osta was killed (WESH).](https://am21.mediaite.com/lc/cnt/uploads/2024/11/jewelrymurder-432x243.jpg)](https://lawandcrime.com/crime/daddys-been-shot-florida-sentenced-for-shooting-jewelry-store-owner-in-the-head-in-dispute-over-transaction/)
+3. [![Background: Jeffrey Arthur Moynihan Jr. is seen on police body camera footage (Bradenton Police Department). Inset left: Elon Musk arrives for the 2022 Met Gala at the Metropolitan Museum of Art on May 2, 2022, in New York (Photo by Dimitrios Kambouris/Getty Images for The Met Museum/Vogue). Inset right: Jeffrey Arthur Moynihan Jr. (Bradenton Police Department).](https://am24.mediaite.com/lc/cnt/uploads/2024/11/Jeffrey-Arthur-Moynihan-Jr-432x243.jpg)](https://lawandcrime.com/video/bodycam-cops-arrest-man-for-allegedly-posing-as-elon-musk-to-cheat-elderly-woman-out-of-money/)
     
-    ### ['Daddy's been shot': Florida man sentenced for shooting jewelry store owner in the head in dispute over transaction](https://lawandcrime.com/crime/daddys-been-shot-florida-sentenced-for-shooting-jewelry-store-owner-in-the-head-in-dispute-over-transaction/)
+    ### [Bodycam: Cops arrest man for allegedly posing as Elon Musk to cheat elderly woman out of money](https://lawandcrime.com/video/bodycam-cops-arrest-man-for-allegedly-posing-as-elon-musk-to-cheat-elderly-woman-out-of-money/)
     
-4. [![Left inset: Brian Peterson (KOAT). Right inset: Mark Castello (Albuquerque Police Department) Background: The scene of the crash that killed Peterson (KOAT).](https://am22.mediaite.com/lc/cnt/uploads/2024/11/abqcrash-432x243.jpg)](https://lawandcrime.com/crime/my-dad-was-trapped-in-his-recliner-man-high-on-meth-gets-10-years-behind-bars-for-crashing-into-home-killing-a-grandfather-sitting-in-his-favorite-chair-watching-tv/)
+4. [![Left to right: Joshua Druid Bryan and Regan Emily Bryan (Madison County Detention Center).](https://am23.mediaite.com/lc/cnt/uploads/2024/11/murderforhire-432x243.jpg)](https://lawandcrime.com/crime/this-is-f-ing-over-with-siblings-tried-to-hire-hit-man-to-kill-stepfather-for-his-life-insurance-money/)
     
-    ### ['My dad was trapped in his recliner': Man high on meth gets 10 years behind bars for crashing into home, killing a grandfather sitting in his favorite chair watching TV](https://lawandcrime.com/crime/my-dad-was-trapped-in-his-recliner-man-high-on-meth-gets-10-years-behind-bars-for-crashing-into-home-killing-a-grandfather-sitting-in-his-favorite-chair-watching-tv/)
+    ### ['This is f---ing over with': Siblings tried to hire hit man to kill stepfather for his life insurance money](https://lawandcrime.com/crime/this-is-f-ing-over-with-siblings-tried-to-hire-hit-man-to-kill-stepfather-for-his-life-insurance-money/)
     
 5. [![Tiffanie Lucas](https://am21.mediaite.com/lc/cnt/uploads/2024/11/Tiffany-Lucas-432x243.jpg)](https://lawandcrime.com/video/im-a-woman-of-god-mother-who-murdered-her-2-kids-says-sugar-daddy-manipulated-her-mind-into-killing-sons/)
     
