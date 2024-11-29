@@ -266,31 +266,6 @@ Most Popular
 [Emergency services currently at scene of four vehicle in Derry](https://www.derrynow.com/news/local-news/1668064/emergency-services-currently-at-scene-of-four-vehicle-in-derry.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Man pleads not guilty at Derry Crown Court to series of sexual assaults](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man pleads not guilty at Derry Crown Court to series of sexual assaults")](https://www.derrynow.com/news/local-news/1667039/man-pleads-not-guilty-at-derry-crown-court-to-series-of-sexual-assaults.html)
-
-Derry courthouse
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man pleads not guilty at Derry Crown Court to series of sexual assaults](https://www.derrynow.com/news/local-news/1667039/man-pleads-not-guilty-at-derry-crown-court-to-series-of-sexual-assaults.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![McDaid’s  Dungiven](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "McDaid’s  Dungiven")](https://www.derrynow.com/news/county-derry-post/1667212/county-derry-community-pharmacy-sold-to-first-time-buyer-pair.html)
-
-McDaid’s Pharmacy Dungiven
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[County Derry Community Pharmacy sold to first time buyer pair](https://www.derrynow.com/news/county-derry-post/1667212/county-derry-community-pharmacy-sold-to-first-time-buyer-pair.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man charged with criminal damage and theft from number of Derry shops](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man charged with criminal damage and theft from number of Derry shops")](https://www.derrynow.com/news/local-news/1666955/man-charged-with-criminal-damage-and-theft-from-number-of-derry-shops.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man charged with criminal damage and theft from number of Derry shops](https://www.derrynow.com/news/local-news/1666955/man-charged-with-criminal-damage-and-theft-from-number-of-derry-shops.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Nails to die for: Derry nail technician offers her service to deceased loved ones](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Nails to die for: Derry nail technician offers her service to deceased loved ones")](https://www.derrynow.com/news/home/1667350/nails-to-die-for-derry-nail-technician-offers-her-service-to-deceased-loved-ones.html)
 
 To book this service, or schedule an appointment for yourself, you can follow Natasha on Instagram, @nmcnails21\_glamnails.
@@ -300,22 +275,6 @@ To book this service, or schedule an appointment for yourself, you can follow Na
 [Nails to die for: Derry nail technician offers her service to deceased loved ones](https://www.derrynow.com/news/home/1667350/nails-to-die-for-derry-nail-technician-offers-her-service-to-deceased-loved-ones.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Man jailed at Derry Magistrate's Court for spitting in police officer's eye](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man jailed at Derry Magistrate's Court for spitting in police officer's eye")](https://www.derrynow.com/news/local-news/1667067/man-jailed-at-derry-magistrate-s-court-for-spitting-in-police-officer-s-eye.html)
-
-Derry Magistrate's Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man jailed at Derry Magistrate's Court for spitting in police officer's eye](https://www.derrynow.com/news/local-news/1667067/man-jailed-at-derry-magistrate-s-court-for-spitting-in-police-officer-s-eye.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[!['I want it to be special for them' as Derry men organises toy drive for Altnagelvin hospital](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'I want it to be special for them' as Derry men organises toy drive for Altnagelvin hospital")](https://www.derrynow.com/news/derry-news/1667014/i-want-it-to-be-special-for-them-as-derry-men-organises-toy-drive-for-altnagelvin-hospital.html)
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-['I want it to be special for them' as Derry men organises toy drive for Altnagelvin hospital](https://www.derrynow.com/news/derry-news/1667014/i-want-it-to-be-special-for-them-as-derry-men-organises-toy-drive-for-altnagelvin-hospital.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1666535/derry-death-notices-friday-november-29-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
@@ -323,12 +282,14 @@ Derry Magistrate's Court
 [Derry Death Notices - Friday, November 29, 2024](https://www.derrynow.com/news/deaths/1666535/derry-death-notices-friday-november-29-2024.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Who are the guests on this week's RTÉ Late Late Show as line-up revealed for Friday night](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Who are the guests on this week's RTÉ Late Late Show as line-up revealed for Friday night")](https://www.derrynow.com/news/arts---entertainment/1667361/who-are-the-guests-on-this-week-s-rte-late-late-show-as-line-up-revealed-for-friday-night.html)
+[![Police in Derry appealing for witnesses as part of sexual assault investigation](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police in Derry appealing for witnesses as part of sexual assault investigation")](https://www.derrynow.com/news/local-news/1668116/police-in-derry-appealing-for-witnesses-as-part-of-sexual-assault-investigation.html)
 
-[Arts & Entertainment](https://www.derrynow.com/section/997/cookie-policy)
+PSNI
 
-[Who are the guests on this week's RTÉ Late Late Show as line-up revealed for Friday night](https://www.derrynow.com/news/arts---entertainment/1667361/who-are-the-guests-on-this-week-s-rte-late-late-show-as-line-up-revealed-for-friday-night.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Police in Derry appealing for witnesses as part of sexual assault investigation](https://www.derrynow.com/news/local-news/1668116/police-in-derry-appealing-for-witnesses-as-part-of-sexual-assault-investigation.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![County Derry man fined more than £1,000 for supplying magic mushrooms](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry man fined more than £1,000 for supplying magic mushrooms")](https://www.derrynow.com/news/local-news/1668081/county-derry-man-fined-more-than-1-000-for-supplying-magic-mushrooms.html)
 
@@ -336,6 +297,47 @@ Derry Magistrate's Court
 
 [County Derry man fined more than £1,000 for supplying magic mushrooms](https://www.derrynow.com/news/local-news/1668081/county-derry-man-fined-more-than-1-000-for-supplying-magic-mushrooms.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry woman fined for breaching restraining order](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry woman fined for breaching restraining order")](https://www.derrynow.com/news/local-news/1668090/derry-woman-fined-for-breaching-restraining-order.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry woman fined for breaching restraining order](https://www.derrynow.com/news/local-news/1668090/derry-woman-fined-for-breaching-restraining-order.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man remanded at Derry Magistrate's Court for shouting racial slurs](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man remanded at Derry Magistrate's Court for shouting racial slurs")](https://www.derrynow.com/news/local-news/1668168/man-remanded-at-derry-magistrate-s-court-for-shouting-racial-slurs.html)
+
+Derry Magistrate's Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man remanded at Derry Magistrate's Court for shouting racial slurs](https://www.derrynow.com/news/local-news/1668168/man-remanded-at-derry-magistrate-s-court-for-shouting-racial-slurs.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Two men Tyrone appear at Derry Crown Court on series of drug charges](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two men Tyrone appear at Derry Crown Court on series of drug charges")](https://www.derrynow.com/news/local-news/1668098/two-men-tyrone-appear-at-derry-crown-court-on-series-of-drug-charges.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Two men Tyrone appear at Derry Crown Court on series of drug charges](https://www.derrynow.com/news/local-news/1668098/two-men-tyrone-appear-at-derry-crown-court-on-series-of-drug-charges.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![County Derry man charged with assault and possession of pregabalin remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry man charged with assault and possession of pregabalin remanded")](https://www.derrynow.com/news/local-news/1668119/county-derry-man-charged-with-assault-and-possession-of-pregabalin-remanded.html)
+
+Derry Magistrate's Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[County Derry man charged with assault and possession of pregabalin remanded](https://www.derrynow.com/news/local-news/1668119/county-derry-man-charged-with-assault-and-possession-of-pregabalin-remanded.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Two charged with drugs offences to appear before Derry Magistrates Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two charged with drugs offences to appear before Derry Magistrates Court")](https://www.derrynow.com/news/local-news/1667935/two-charged-with-drugs-offences-to-appear-before-derry-magistrates-court.html)
+
+PSNI
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Two charged with drugs offences to appear before Derry Magistrates Court](https://www.derrynow.com/news/local-news/1667935/two-charged-with-drugs-offences-to-appear-before-derry-magistrates-court.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -517,53 +519,57 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![County Derry man charged with assault and possession of pregabalin remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry man charged with assault and possession of pregabalin remanded")](https://www.derrynow.com/news/local-news/1668119/county-derry-man-charged-with-assault-and-possession-of-pregabalin-remanded.html)
+[![Creggan Enterprises’ Lifehack Project – helping young people start a new Journey](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Creggan Enterprises’ Lifehack Project – helping young people start a new Journey")](https://www.derrynow.com/news/local-news/1668423/creggan-enterprises-lifehack-project-helping-young-people-start-a-new-journey.html)
+
+Lifehack participants, project staff and CEL Management Team pictured at the recent programme launch at Ráth Mór.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Creggan Enterprises’ Lifehack Project – helping young people start a new Journey](https://www.derrynow.com/news/local-news/1668423/creggan-enterprises-lifehack-project-helping-young-people-start-a-new-journey.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![All Ireland Pipe Band Championships to return to Derry in 2025](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "All Ireland Pipe Band Championships to return to Derry in 2025")](https://www.derrynow.com/news/local-news/1668355/all-ireland-pipe-band-championships-to-return-to-derry-in-2025.html)
+
+Last hosted during the successful 2013 UK City of Culture celebrations, the championships are expected to draw thousands of visitors to the city
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[All Ireland Pipe Band Championships to return to Derry in 2025](https://www.derrynow.com/news/local-news/1668355/all-ireland-pipe-band-championships-to-return-to-derry-in-2025.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![County Derry man accused of ramming two cars and a bus in Kilrea refused bail](https://www.derrynow.com/resizer/165/93/true/2022_04_08/COLERAINE_MAGS-1649420820959.jpg--.jpg?1649420821013 "County Derry man accused of ramming two cars and a bus in Kilrea refused bail")](https://www.derrynow.com/news/home/1668316/county-derry-man-accused-of-ramming-two-cars-and-a-bus-in-kilrea-refused-bail.html)
+
+Coleraine Magistrates Court.
+
+[Home](https://www.derrynow.com/)
+
+[County Derry man accused of ramming two cars and a bus in Kilrea refused bail](https://www.derrynow.com/news/home/1668316/county-derry-man-accused-of-ramming-two-cars-and-a-bus-in-kilrea-refused-bail.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![A Bloody Sunday victim's family member has spoken on the ‘disgraceful’ comments by Micheál Martin](https://www.derrynow.com/resizer/165/93/true/pa/2022_07_11/1657566304855_0.jpg--.jpg?1657566305277 "A Bloody Sunday victim's family member has spoken on the ‘disgraceful’ comments by Micheál Martin")](https://www.derrynow.com/news/derry-news/1668328/a-bloody-sunday-victim-s-family-member-has-spoken-on-the-disgraceful-comments-by-micheal-martin.html)
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[A Bloody Sunday victim's family member has spoken on the ‘disgraceful’ comments by Micheál Martin](https://www.derrynow.com/news/derry-news/1668328/a-bloody-sunday-victim-s-family-member-has-spoken-on-the-disgraceful-comments-by-micheal-martin.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Free Information session Lettershandoney](https://www.derrynow.com/resizer/165/93/true/2024_11_29/Health_Check-1732884549632.jpg--.jpg?1732884549787 "Free Information session Lettershandoney")](https://www.derrynow.com/news/county-derry-post/1668170/free-information-session-set-for-rural-area-of-lettershandoney.html)
+
+Free Information session Lettershandoney
+
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+[Free Information session set for rural area of Lettershandoney](https://www.derrynow.com/news/county-derry-post/1668170/free-information-session-set-for-rural-area-of-lettershandoney.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man remanded at Derry Magistrate's Court for shouting racial slurs](https://www.derrynow.com/resizer/165/93/true/2024_03_28/derrycourthouse2.jpg--man_remanded_at_derry_magistrate_s_court_on_series_of_driving_charges-1711633542377.jpg--.jpg?1711633542414 "Man remanded at Derry Magistrate's Court for shouting racial slurs")](https://www.derrynow.com/news/local-news/1668168/man-remanded-at-derry-magistrate-s-court-for-shouting-racial-slurs.html)
 
 Derry Magistrate's Court
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[County Derry man charged with assault and possession of pregabalin remanded](https://www.derrynow.com/news/local-news/1668119/county-derry-man-charged-with-assault-and-possession-of-pregabalin-remanded.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Two men Tyrone appear at Derry Crown Court on series of drug charges](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two men Tyrone appear at Derry Crown Court on series of drug charges")](https://www.derrynow.com/news/local-news/1668098/two-men-tyrone-appear-at-derry-crown-court-on-series-of-drug-charges.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Two men Tyrone appear at Derry Crown Court on series of drug charges](https://www.derrynow.com/news/local-news/1668098/two-men-tyrone-appear-at-derry-crown-court-on-series-of-drug-charges.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Letterkenny Road in Derry reopened to motorists following collision](https://www.derrynow.com/resizer/165/93/true/2024_11_29/lk_road-1732884256736.JPG--.JPG?1732884256755 "Letterkenny Road in Derry reopened to motorists following collision")](https://www.derrynow.com/news/local-news/1668167/letterkenny-road-in-derry-reopened-to-motorists-following-collision.html)
-
-Letterkenny road at Nixon's Corner, Derry
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Letterkenny Road in Derry reopened to motorists following collision](https://www.derrynow.com/news/local-news/1668167/letterkenny-road-in-derry-reopened-to-motorists-following-collision.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry woman fined for breaching restraining order](https://www.derrynow.com/resizer/165/93/true/1580370016067.JPG--.JPG?1580370017604 "Derry woman fined for breaching restraining order")](https://www.derrynow.com/news/local-news/1668090/derry-woman-fined-for-breaching-restraining-order.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry woman fined for breaching restraining order](https://www.derrynow.com/news/local-news/1668090/derry-woman-fined-for-breaching-restraining-order.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Police in Derry appealing for witnesses as part of sexual assault investigation](https://www.derrynow.com/resizer/165/93/true/2019/01/02084934/PSNI-logo.jpg--.jpg "Police in Derry appealing for witnesses as part of sexual assault investigation")](https://www.derrynow.com/news/local-news/1668116/police-in-derry-appealing-for-witnesses-as-part-of-sexual-assault-investigation.html)
-
-PSNI
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Police in Derry appealing for witnesses as part of sexual assault investigation](https://www.derrynow.com/news/local-news/1668116/police-in-derry-appealing-for-witnesses-as-part-of-sexual-assault-investigation.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![County Derry man fined more than £1,000 for supplying magic mushrooms](https://www.derrynow.com/resizer/165/93/true/2024_03_28/derrycourthouse2.jpg--man_remanded_at_derry_magistrate_s_court_on_series_of_driving_charges-1711633542377.jpg--.jpg?1711633542414 "County Derry man fined more than £1,000 for supplying magic mushrooms")](https://www.derrynow.com/news/local-news/1668081/county-derry-man-fined-more-than-1-000-for-supplying-magic-mushrooms.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[County Derry man fined more than £1,000 for supplying magic mushrooms](https://www.derrynow.com/news/local-news/1668081/county-derry-man-fined-more-than-1-000-for-supplying-magic-mushrooms.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Man remanded at Derry Magistrate's Court for shouting racial slurs](https://www.derrynow.com/news/local-news/1668168/man-remanded-at-derry-magistrate-s-court-for-shouting-racial-slurs.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
