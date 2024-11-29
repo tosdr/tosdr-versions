@@ -129,12 +129,12 @@ English
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
     * [Sonakshi Sinha](https://www.news18.com/movies/sonakshi-sinhas-mother-poonam-takes-a-dig-at-zaheer-iqbal-usse-shaadi-ki-jisko-9137967.html)
+    * [ICC Champions Trophy](https://www.news18.com/cricket/champions-trophy-2025-icc-meeting-live-updates-pcb-reject-host-hybrid-model-bcci-india-neutral-venue-liveblog-9138932.html)
+    * [Allu Arjun](https://www.news18.com/movies/allu-arjun-calls-rashmika-mandanna-his-home-at-pushpa-2-event-youre-the-only-heroine-9136953.html)
+    * [Maharashtra CM](https://www.news18.com/politics/maharashtra-government-formation-new-cm-mahayuti-bjp-devendra-fadnavis-amit-shah-ncp-ajit-pawar-shiv-sena-eknath-shinde-delhi-latest-news-liveblog-9138922.html)
     * [Aishwarya Rai Bachchan](https://www.news18.com/movies/aishwarya-rais-sister-in-law-makes-rare-comment-on-actors-mom-battling-cancer-she-wasnt-looking-9137946.html)
-    * [Allu Arjun](https://www.news18.com/movies/allu-arjun-breaks-silence-on-fahadh-faasils-absence-from-pushpa-2-promotions-i-really-miss-9136715.html)
+    * [Skin Glow](https://www.news18.com/web-stories/lifestyle/5-hydrating-drinks-to-make-your-skin-glow-naturally-in-winter-2643380/)
     * [Taj Mahal](https://www.news18.com/viral/foreigner-visits-taj-mahal-with-elderly-father-shares-frustration-on-social-media-in-viral-video-9135413.html)
-    * [Kareena Kapoor Khan](https://www.news18.com/web-stories/celebrities/5-kareena-kapoor-khan-inspired-saree-blouses-for-marriage-season-2642366/)
-    * [Maha CM Suspense](https://www.news18.com/politics/maharashtra-government-formation-new-cm-mahayuti-bjp-devendra-fadnavis-amit-shah-ncp-ajit-pawar-shiv-sena-eknath-shinde-delhi-latest-news-liveblog-9138922.html)
-    * [Bengaluru Layoff](https://www.news18.com/viral/bengaluru-man-fired-after-2-5-months-over-a-text-message-says-feeling-confused-and-defeated-9138052.html)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
     * [Check Credit Score](https://www.moneycontrol.com/credit-score?utm_source=News18English&utm_medium=Email&utm_campaign=CBEnglish)
@@ -171,12 +171,12 @@ Follow us on
 In Trends:
 
 * [Sonakshi Sinha](https://www.news18.com/movies/sonakshi-sinhas-mother-poonam-takes-a-dig-at-zaheer-iqbal-usse-shaadi-ki-jisko-9137967.html)
+* [ICC Champions Trophy](https://www.news18.com/cricket/champions-trophy-2025-icc-meeting-live-updates-pcb-reject-host-hybrid-model-bcci-india-neutral-venue-liveblog-9138932.html)
+* [Allu Arjun](https://www.news18.com/movies/allu-arjun-calls-rashmika-mandanna-his-home-at-pushpa-2-event-youre-the-only-heroine-9136953.html)
+* [Maharashtra CM](https://www.news18.com/politics/maharashtra-government-formation-new-cm-mahayuti-bjp-devendra-fadnavis-amit-shah-ncp-ajit-pawar-shiv-sena-eknath-shinde-delhi-latest-news-liveblog-9138922.html)
 * [Aishwarya Rai Bachchan](https://www.news18.com/movies/aishwarya-rais-sister-in-law-makes-rare-comment-on-actors-mom-battling-cancer-she-wasnt-looking-9137946.html)
-* [Allu Arjun](https://www.news18.com/movies/allu-arjun-breaks-silence-on-fahadh-faasils-absence-from-pushpa-2-promotions-i-really-miss-9136715.html)
+* [Skin Glow](https://www.news18.com/web-stories/lifestyle/5-hydrating-drinks-to-make-your-skin-glow-naturally-in-winter-2643380/)
 * [Taj Mahal](https://www.news18.com/viral/foreigner-visits-taj-mahal-with-elderly-father-shares-frustration-on-social-media-in-viral-video-9135413.html)
-* [Kareena Kapoor Khan](https://www.news18.com/web-stories/celebrities/5-kareena-kapoor-khan-inspired-saree-blouses-for-marriage-season-2642366/)
-* [Maha CM Suspense](https://www.news18.com/politics/maharashtra-government-formation-new-cm-mahayuti-bjp-devendra-fadnavis-amit-shah-ncp-ajit-pawar-shiv-sena-eknath-shinde-delhi-latest-news-liveblog-9138922.html)
-* [Bengaluru Layoff](https://www.news18.com/viral/bengaluru-man-fired-after-2-5-months-over-a-text-message-says-feeling-confused-and-defeated-9138052.html)
 
 * Follow Us
 * [](https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J)
