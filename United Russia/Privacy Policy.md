@@ -305,7 +305,7 @@
 
 [#Говырин](https://er.ru/activity/news?tags%5B0%5D=148487) [#туризм](https://er.ru/activity/news?tags%5B0%5D=350) [#креативныеиндустрии](https://er.ru/activity/news?tags%5B0%5D=1092551) [#бизнес](https://er.ru/activity/news?tags%5B0%5D=18) [#форум](https://er.ru/activity/news?tags%5B0%5D=19) [#Владимирская область](https://er.ru/activity/news?tags%5B0%5D=1233)
 
-Сегодня 18:25
+29.11.24
 
 [![Университет науки и технологий МИСИС стал новым партнёром проекта «Единой России» «Менделеевская карта»](https://cdn.er.ru/media/news/November2024/Bdh9u5CkKDRzUsokc078-small.jpg)](https://er.ru/activity/news/universitet-nauki-i-tehnologij-misis-stal-novym-partnyorom-proekta-edinoj-rossii-mendeleevskaya-karta)
 
@@ -313,7 +313,7 @@
 
 [#Мажуга](https://er.ru/activity/news?tags%5B0%5D=1091855) [#Менделеевскаякарта](https://er.ru/activity/news?tags%5B0%5D=1093824) [#наука](https://er.ru/activity/news?tags%5B0%5D=354) [#ученые](https://er.ru/activity/news?tags%5B0%5D=1314) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889) [#студенты](https://er.ru/activity/news?tags%5B0%5D=186)
 
-Сегодня 18:10
+29.11.24
 
 [![«Единая Россия» представила на Конгрессе в Сириусе второй рейтинг регионов по мерам поддержки молодых учёных](https://cdn.er.ru/media/news/November2024/VK3ADRGzhZiCFaEgbvvc-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-predstavila-na-kongresse-v-siriuse-vtoroj-rejting-regionov-po-meram-podderzhki-molodyh-uchyonyh)
 
@@ -321,7 +321,7 @@
 
 [#Мажуга](https://er.ru/activity/news?tags%5B0%5D=1091855) [#молодыеученые](https://er.ru/activity/news?tags%5B0%5D=127906) [#мерыподдержки](https://er.ru/activity/news?tags%5B0%5D=147555) [#наука](https://er.ru/activity/news?tags%5B0%5D=354) [#рейтинг](https://er.ru/activity/news?tags%5B0%5D=179) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
-Сегодня 17:50
+29.11.24
 
 [![В Москве при поддержке «Единой России» прошёл ХI Международный фестиваль школьного спорта среди государств – участников Содружества Независимых Государств](https://cdn.er.ru/media/news/November2024/IQQD890ic420a3TEXVJi-small.jpg)](https://er.ru/activity/news/v-moskve-pri-podderzhke-edinoj-rossii-proshyol-hi-mezhdunarodnyj-festival-shkolnogo-sporta-sredi-gosudarstv-uchastnikov-sodruzhestva-nezavisimyh-gosudarstv)
 
@@ -329,7 +329,7 @@
 
 [#Роднина](https://er.ru/activity/news?tags%5B0%5D=2239) [#Москва](https://er.ru/activity/news?tags%5B0%5D=255) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#ДетскийСпорт](https://er.ru/activity/news?tags%5B0%5D=1091126) [#соревнования](https://er.ru/activity/news?tags%5B0%5D=1175) [#состязания](https://er.ru/activity/news?tags%5B0%5D=39929) [#фестиваль](https://er.ru/activity/news?tags%5B0%5D=1671) [#СНГ](https://er.ru/activity/news?tags%5B0%5D=747)
 
-Сегодня 17:42
+29.11.24
 
 [![«Единая Россия» продлит срок для перерегистрации товарных знаков и фирменных наименований производителей товаров с указанием на органическую продукцию](https://cdn.er.ru/media/news/November2024/dstBQaFLzbd6AYyKIMO1-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-prodlit-srok-dlya-pereregistracii-tovarnyh-znakov-i-firmennyh-naimenovanij-proizvoditelej-tovarov-s-ukazaniem-na-organicheskuyu-produkciyu)
 
@@ -337,7 +337,7 @@
 
 [#Оглоблина](https://er.ru/activity/news?tags%5B0%5D=9223) [#предприниматели](https://er.ru/activity/news?tags%5B0%5D=121750) [#производители](https://er.ru/activity/news?tags%5B0%5D=8905) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136)
 
-Сегодня 17:34
+29.11.24
 
 [![Высшая партийная школа «Единой России» выпустила вторую часть цикла бесед об идеологии и истории партии](https://cdn.er.ru/media/news/November2024/dBPoDhrnI65KqFQoOFrl-small.png)](https://er.ru/activity/news/vysshaya-partijnaya-shkola-edinoj-rossii-vypustila-vtoruyu-chast-cikla-besed-ob-ideologii-i-istorii-partii)
 
@@ -345,7 +345,7 @@
 
 [#высшаяпартийнаяшколаЕР](https://er.ru/activity/news?tags%5B0%5D=128453) [#ВПШ](https://er.ru/activity/news?tags%5B0%5D=36818) [#Исаев](https://er.ru/activity/news?tags%5B0%5D=121396) [#Романов](https://er.ru/activity/news?tags%5B0%5D=8320) [#история](https://er.ru/activity/news?tags%5B0%5D=152) [#идеология](https://er.ru/activity/news?tags%5B0%5D=985)
 
-Сегодня 15:40
+29.11.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
