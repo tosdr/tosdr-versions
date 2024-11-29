@@ -20,6 +20,10 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Neil Coyle speaking in the House of Commons. Credit: Houses of Parliament](https://southwarknews.co.uk/wp-content/uploads/2024/11/Neil-Coyle-speaking-in-the-House-of-Commons.-Credit-Houses-of-Parliament-360x180.png)](https://southwarknews.co.uk/area/bermondsey/mp-calls-for-respect-orders-pilot-in-southwark-to-tackle-anti-social-behaviour/)
+    
+    ### [MP calls for ‘respect orders’ pilot in Southwark to tackle anti-social behaviour](https://southwarknews.co.uk/area/bermondsey/mp-calls-for-respect-orders-pilot-in-southwark-to-tackle-anti-social-behaviour/)
+    
     [![Credit: LFB (X)](https://southwarknews.co.uk/wp-content/uploads/2024/11/GdYrAwQWIAAAq50-e1732797204229-360x180.jpeg)](https://southwarknews.co.uk/area/camberwell/brigade-tackles-fire-at-camberwell-shops-and-homes/)
     
     ### [Brigade tackles fire at Camberwell shops and homes](https://southwarknews.co.uk/area/camberwell/brigade-tackles-fire-at-camberwell-shops-and-homes/)
@@ -51,10 +55,6 @@
     [![L: Tooley St HQ of Southwark Council; R: Cllr Kieron Williams](https://southwarknews.co.uk/wp-content/uploads/2024/11/L-Tooley-St-HQ-of-Southwark-Council-R-Cllr-Kieron-Williams-360x180.png)](https://southwarknews.co.uk/area/southwark/southwark-councils-leader-has-apologised-after-the-governments-social-housing-watchdog-found-serious-failings/)
     
     ### [Southwark Council’s leader has apologised after the government’s social housing watchdog found ‘serious failings’](https://southwarknews.co.uk/area/southwark/southwark-councils-leader-has-apologised-after-the-governments-social-housing-watchdog-found-serious-failings/)
-    
-    [![Cllr Adam Hood on what he referred to as 'Slower Road' (photo: supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/11/92BD81E6-1968-48BA-9F93-C13EB2F001FF-e1732553647710-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/liberal-democrat-councillor-marks-one-year-campaigning-for-lower-road-fixes-amid-ongoing-traffic-chaos/)
-    
-    ### [Liberal Democrat councillor marks one year campaigning for Lower Road fixes amid ongoing traffic chaos](https://southwarknews.co.uk/area/rotherhithe/liberal-democrat-councillor-marks-one-year-campaigning-for-lower-road-fixes-amid-ongoing-traffic-chaos/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,6 +105,10 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Neil Coyle speaking in the House of Commons. Credit: Houses of Parliament](https://southwarknews.co.uk/wp-content/uploads/2024/11/Neil-Coyle-speaking-in-the-House-of-Commons.-Credit-Houses-of-Parliament-360x180.png)](https://southwarknews.co.uk/area/bermondsey/mp-calls-for-respect-orders-pilot-in-southwark-to-tackle-anti-social-behaviour/)
+    
+    ### [MP calls for ‘respect orders’ pilot in Southwark to tackle anti-social behaviour](https://southwarknews.co.uk/area/bermondsey/mp-calls-for-respect-orders-pilot-in-southwark-to-tackle-anti-social-behaviour/)
+    
     [![Credit: LFB (X)](https://southwarknews.co.uk/wp-content/uploads/2024/11/GdYrAwQWIAAAq50-e1732797204229-360x180.jpeg)](https://southwarknews.co.uk/area/camberwell/brigade-tackles-fire-at-camberwell-shops-and-homes/)
     
     ### [Brigade tackles fire at Camberwell shops and homes](https://southwarknews.co.uk/area/camberwell/brigade-tackles-fire-at-camberwell-shops-and-homes/)
@@ -136,10 +140,6 @@ View All Result
     [![L: Tooley St HQ of Southwark Council; R: Cllr Kieron Williams](https://southwarknews.co.uk/wp-content/uploads/2024/11/L-Tooley-St-HQ-of-Southwark-Council-R-Cllr-Kieron-Williams-360x180.png)](https://southwarknews.co.uk/area/southwark/southwark-councils-leader-has-apologised-after-the-governments-social-housing-watchdog-found-serious-failings/)
     
     ### [Southwark Council’s leader has apologised after the government’s social housing watchdog found ‘serious failings’](https://southwarknews.co.uk/area/southwark/southwark-councils-leader-has-apologised-after-the-governments-social-housing-watchdog-found-serious-failings/)
-    
-    [![Cllr Adam Hood on what he referred to as 'Slower Road' (photo: supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/11/92BD81E6-1968-48BA-9F93-C13EB2F001FF-e1732553647710-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/liberal-democrat-councillor-marks-one-year-campaigning-for-lower-road-fixes-amid-ongoing-traffic-chaos/)
-    
-    ### [Liberal Democrat councillor marks one year campaigning for Lower Road fixes amid ongoing traffic chaos](https://southwarknews.co.uk/area/rotherhithe/liberal-democrat-councillor-marks-one-year-campaigning-for-lower-road-fixes-amid-ongoing-traffic-chaos/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -345,17 +345,17 @@ Website
 
 ### Popular Articles
 
-[![From left: Harrun, a biomedical student at KCL; Dennis at the Blue. R: An ambulance outside Guy's Hospital.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-19-11-2024-at-14.37-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/havent-they-got-enough-money-locals-react-as-royals-charge-guys-and-st-thomas-trust-11-4m-to-store-ambulances-on-kings-land-in-bermondsey/)
-
-### [‘Haven’t they got enough money?’: Locals react as royals charge Guy’s and St Thomas’ Trust £11.4m to store ambulances on King’s land in Bermondsey](https://southwarknews.co.uk/area/bermondsey/havent-they-got-enough-money-locals-react-as-royals-charge-guys-and-st-thomas-trust-11-4m-to-store-ambulances-on-kings-land-in-bermondsey/)
-
-[20th November 2024](https://southwarknews.co.uk/area/bermondsey/havent-they-got-enough-money-locals-react-as-royals-charge-guys-and-st-thomas-trust-11-4m-to-store-ambulances-on-kings-land-in-bermondsey/)
-
 [![Anne Davis says a routine bus trip has become a logistical nightmare](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_3311-120x86.jpeg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-92-faces-hour-long-bus-journey-to-reach-high-street-fifteen-minutes-away-and-now-cannot-reach-it-at-all/)
 
 ### [Bermondsey pensioner, 92, faces hour-long bus journey to reach high street fifteen-minutes away – and now cannot reach it at all](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-92-faces-hour-long-bus-journey-to-reach-high-street-fifteen-minutes-away-and-now-cannot-reach-it-at-all/)
 
 [26th November 2024](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-92-faces-hour-long-bus-journey-to-reach-high-street-fifteen-minutes-away-and-now-cannot-reach-it-at-all/)
+
+[![From left: Harrun, a biomedical student at KCL; Dennis at the Blue. R: An ambulance outside Guy's Hospital.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-19-11-2024-at-14.37-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/havent-they-got-enough-money-locals-react-as-royals-charge-guys-and-st-thomas-trust-11-4m-to-store-ambulances-on-kings-land-in-bermondsey/)
+
+### [‘Haven’t they got enough money?’: Locals react as royals charge Guy’s and St Thomas’ Trust £11.4m to store ambulances on King’s land in Bermondsey](https://southwarknews.co.uk/area/bermondsey/havent-they-got-enough-money-locals-react-as-royals-charge-guys-and-st-thomas-trust-11-4m-to-store-ambulances-on-kings-land-in-bermondsey/)
+
+[20th November 2024](https://southwarknews.co.uk/area/bermondsey/havent-they-got-enough-money-locals-react-as-royals-charge-guys-and-st-thomas-trust-11-4m-to-store-ambulances-on-kings-land-in-bermondsey/)
 
 [![L: Residents have their say; R: CGI of Berkeley Homes' proposed Aylesham scheme](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-25-11-2024-at-07.41-120x86.jpg)](https://southwarknews.co.uk/area/peckham/most-people-in-southwark-cant-afford-these-homes-protestors-unite-against-berkeley-homes-unfit-plans-for-peckham/)
 
@@ -363,11 +363,11 @@ Website
 
 [25th November 2024](https://southwarknews.co.uk/area/peckham/most-people-in-southwark-cant-afford-these-homes-protestors-unite-against-berkeley-homes-unfit-plans-for-peckham/)
 
-[![Computer-generated image of the shared industrial unit. Image: Lambeth Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/cgi-of-planned-industrial-unit-120x86.jpg)](https://southwarknews.co.uk/area/camberwell/hundreds-of-co-living-flats-to-be-built-near-south-london-station-despite-zero-affordable-housing/)
+[![L: Tooley St HQ of Southwark Council; R: Cllr Kieron Williams](https://southwarknews.co.uk/wp-content/uploads/2024/11/L-Tooley-St-HQ-of-Southwark-Council-R-Cllr-Kieron-Williams-120x86.png)](https://southwarknews.co.uk/area/southwark/southwark-councils-leader-has-apologised-after-the-governments-social-housing-watchdog-found-serious-failings/)
 
-### [Hundreds of co-living flats to be built near South London station despite zero affordable housing](https://southwarknews.co.uk/area/camberwell/hundreds-of-co-living-flats-to-be-built-near-south-london-station-despite-zero-affordable-housing/)
+### [Southwark Council’s leader has apologised after the government’s social housing watchdog found ‘serious failings’](https://southwarknews.co.uk/area/southwark/southwark-councils-leader-has-apologised-after-the-governments-social-housing-watchdog-found-serious-failings/)
 
-[21st November 2024](https://southwarknews.co.uk/area/camberwell/hundreds-of-co-living-flats-to-be-built-near-south-london-station-despite-zero-affordable-housing/)
+[27th November 2024](https://southwarknews.co.uk/area/southwark/southwark-councils-leader-has-apologised-after-the-governments-social-housing-watchdog-found-serious-failings/)
 
 [![The chairs in Elephant and Castle (credit: Russell Cronin, social media)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-20-11-2024-at-15.14-120x86.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/fancy-a-chat-council-blunder-in-elephant-and-castle-as-misplaced-chairs-spark-confusion/)
 
