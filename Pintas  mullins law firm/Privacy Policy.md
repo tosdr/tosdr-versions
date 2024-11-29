@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What is the average compensation for asbestosis?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-what-is-the-average-compensation-for-asbestosis.jpg "What Is the Average Compensation for Asbestosis?")](https://www.pintas.com/practice-areas/lung-cancer/average-asbestosis-settlement "What Is the Average Compensation for Asbestosis?")
+[![Is mesothelioma always fatal?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-mesothelioma-lawyer-is-mesothelioma-always-fatal-scaled.jpg "Is Mesothelioma Always Fatal?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/is-mesothelioma-always-fatal/ "Is Mesothelioma Always Fatal?")
 
-[#### What Is the Average Compensation for Asbestosis?](https://www.pintas.com/practice-areas/lung-cancer/average-asbestosis-settlement)
+[#### Is Mesothelioma Always Fatal?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/is-mesothelioma-always-fatal/)
 
-[![What is the main cause of mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-mesothelioma-lawyer-what-is-the-main-cause-of-mesothelioma-scaled.jpg "What Is the Main Cause of Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-is-the-main-cause-of-mesothelioma/ "What Is the Main Cause of Mesothelioma?")
+[![Can i file a sex abuse claim against the mormon church anonymously?](https://www.pintas.com/wp-content/uploads/2023/04/general-mormon-2-300x201.jpg "Can I File a Sex Abuse Claim Against the Mormon Church Anonymously?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/can-i-file-a-sexual-abuse-claim-against-the-mormon-church-anonymously/ "Can I File a Sex Abuse Claim Against the Mormon Church Anonymously?")
 
-[#### What Is the Main Cause of Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-is-the-main-cause-of-mesothelioma/)
+[#### Can I File a Sex Abuse Claim Against the Mormon Church Anonymously?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/can-i-file-a-sexual-abuse-claim-against-the-mormon-church-anonymously/)
 
-[![How quickly does mesothelioma spread?](https://www.pintas.com/wp-content/uploads/2020/05/mesothelioma-how-quickly-does-mesothelioma-spread.jpg "How Quickly Does Mesothelioma Spread?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-quickly-does-mesothelioma-spread/ "How Quickly Does Mesothelioma Spread?")
+[![Can you sue for lung cancer?](https://www.pintas.com/wp-content/uploads/2020/06/lung-cancer-can-you-sue-for-lung-cancer-2-scaled.jpg "Can You Sue For Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/can-you-sue-for-lung-cancer/ "Can You Sue For Lung Cancer?")
 
-[#### How Quickly Does Mesothelioma Spread?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-quickly-does-mesothelioma-spread/)
+[#### Can You Sue For Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/can-you-sue-for-lung-cancer/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
