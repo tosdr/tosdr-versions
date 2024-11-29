@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/universum/et/desperate-valse-vlag-operatie-et-aanval/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/hoofdartikelen/de-ontkrachting-van-de-mens-loopt-ten-einde/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
