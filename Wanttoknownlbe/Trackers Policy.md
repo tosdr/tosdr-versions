@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/wetenschap/energie/rode-kaart-shell-om-nigeria/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/media/reagen-aan-de-basis-murdoch-imperium/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
