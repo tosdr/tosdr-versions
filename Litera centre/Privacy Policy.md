@@ -24,7 +24,7 @@
 
 [French](https://www.literacentre.com/ib-myp-french/ "IB MYP French")
 
-[IBDP Tuition](https://www.literacentre.com/ib-exam-prep-myp-and-dp/ "IB DP Tuition")
+[IBDP Tuition](https://www.literacentre.com/ibdp-tuition/ "IB DP Tuition")
 
 [English](https://www.literacentre.com/ibdp-english-tuition/ "IBDP English")
 
@@ -48,7 +48,7 @@
 
 [Pre IB Bridge Bootcamp MYP](https://www.literacentre.com/pre-ib-bridge-bootcamp-myp/ "Pre IB Bridge Bootcamp MYP")
 
-[Exam Retake Tuition](https://www.literacentre.com/ib-retake-tuition/ "IBDP Retake Tuition")
+[Exam Retake Tuition](https://www.literacentre.com/exam-retake-tuition/ "IBDP Retake Tuition")
 
 [IGCSE](https://www.literacentre.com/igcse/ "IGCSE Tuition")
 
@@ -118,7 +118,7 @@
 
 [HeadStart Enrichment Course](https://www.literacentre.com/headstart-enrichment-course/)
 
-[Exam Retake Tuition](https://www.literacentre.com/ib-retake-tuition/ "International Baccalaureate Retake Exam Preparation")
+[Exam Retake Tuition](https://www.literacentre.com/exam-retake-tuition/ "International Baccalaureate Retake Exam Preparation")
 
 [Crash Course/Exam Prep](https://www.literacentre.com/crash-course/)
 
