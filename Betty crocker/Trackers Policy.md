@@ -166,15 +166,7 @@ Menu
     * [Dessert of the Month](https://www.bettycrocker.com/lets-get-making/dessert-of-the-month)
         
     
-* [Wicked x Betty](https://www.bettycrocker.com/wicked)
-    
-    * [Wicked x Betty Exclusives](https://www.bettycrocker.com/wicked)
-        
-    * [Elphaba](https://www.bettycrocker.com/wicked/elphaba)
-        
-    * [Glinda](https://www.bettycrocker.com/wicked/glinda)
-        
-    
+* [24 Days of Cookies](https://www.bettycrocker.com/christmas-cookies)
 * [Gift Guides](https://www.bettycrocker.com/special-occasions/the-best-holiday-gift-ideas)
 
 * Save
