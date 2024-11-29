@@ -221,7 +221,7 @@ Zip Code  QUOTE & SCHEDULE
 
 Enter your zip/postal code above to find carpet cleaning services in your area, get a free quote or book online!
 
-Average 4.7 Stars Based on 305,282 Reviews
+Average 4.7 Stars Based on 305,387 Reviews
 
 * [Home](https://www.oxifresh.com/)
 * \>
@@ -383,17 +383,17 @@ What Customers Are Saying
 
 ### Average 4.7 stars (Out of 5)
 
-Based on 305,282 Carpet Cleaning Services Reviews
+Based on 305,387 Carpet Cleaning Services Reviews
 
-Great customer service. Quick, kind, and got the job done. The spots from my dog’s diaherrea came out and I can’t even tell there was anything there. The carpet looks brand new. **JW.** - Apison, TN - 11/27/2024
-
-(5.0 Out of 5 stars)
-
-Jonathan is efficient and does a good job! **vC.** - Covington, LA - 11/27/2024
+The man that cleaned was very nice and did a great job **SD.** - Weatherford, TX - 11/28/2024
 
 (5.0 Out of 5 stars)
 
-Had this done as a gift to my daughter who has 3 kids ages 3-9 and a dog. Aiden, the tech, was on time, pleasant, and thorough. My daughter says her sectional looks “a billion times better!” **BZ.** - St. Louis, MO - 11/27/2024
+Drying time with 1 hr and no dumping of water into gutters and irritating the neighbors. **RM.** - Cathedral City, CA - 11/28/2024
+
+(5.0 Out of 5 stars)
+
+Personal and through extra touches. **MK.** - San Rafael, CA - 11/28/2024
 
 (5.0 Out of 5 stars)
 
