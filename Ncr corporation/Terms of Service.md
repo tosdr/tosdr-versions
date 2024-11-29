@@ -33,9 +33,9 @@ Aloha Hosted Solutions Terms and Conditions
 
 The following are Terms and Conditions specific to Aloha Hosted Solutions Customers.
 
-[Terms and Conditions for Hosted Solutions (NCR Voyix Hospitality)](https://cdn.prod.website-files.com/65b3ea55ed6b77d8d773168f/65f0b5632e5e4c85bfe42a6c_United%20States%2C%20Terms%20and%20Conditions%20for%20Hosted%20Solutions%20Evaluations%20(10-2023).pdf)
+[Terms and Conditions for Hosted Solutions (NCR Voyix Hospitality)](https://www.ncrvoyix.com/dam/restaurant/docs/Master_Hosted_Solutions_052521.pdf)
 
-[Terms and Conditions for Hosted Solutions Evaluations (NCR Voyix Hospitality)](https://cdn.prod.website-files.com/65b3ea55ed6b77d8d773168f/65f0b5632e5e4c85bfe42a6c_United%20States%2C%20Terms%20and%20Conditions%20for%20Hosted%20Solutions%20Evaluations%20(10-2023).pdf)
+[Terms and Conditions for Hosted Solutions Evaluations (NCR Voyix Hospitality)](https://www.ncrvoyix.com/dam/restaurant/docs/Hosted_Solutions_Evaluation_052521.pdf)
 
 [Hospitality Subscription Program Agreement Schedules-SMB (United States)](https://www.ncrvoyix.com/dam/restaurant/docs/United_States_Hospitality_Subscription_Program_Agreement_-_SMB.pdf)
 
