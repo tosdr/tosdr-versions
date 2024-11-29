@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/magus-vuur-aarde-herschep-je-leven/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/elementaalwezens-en-scheppend-vermogen/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
