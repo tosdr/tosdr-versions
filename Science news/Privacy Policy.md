@@ -94,7 +94,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Footprints offer a rare look at ancient human relatives crossing paths](https://www.sciencenews.org/article/footprints-ancient-human-relatives)
             
-            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")10 hours ago
+            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")21 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
@@ -120,6 +120,12 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
     * Recent posts in Life
         --------------------
         
+        * [Animals](https://www.sciencenews.org/topic/animals)
+            
+            ### [Videos capture orcas’ tricks for taking down the largest fish on Earth](https://www.sciencenews.org/article/videos-orcas-hunt-whale-sharks)
+            
+            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")11 hours ago
+            
         * [Science & Society](https://www.sciencenews.org/topic/science-society)
             
             ### [This ‘hidden figure’ of entomology fought for civil rights](https://www.sciencenews.org/article/maragret-collins-entomology-termite)
@@ -131,12 +137,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [Like brain cells, kidney cells can form memories](https://www.sciencenews.org/article/brain-kidney-cells-memory)
             
             By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")November 26, 2024
-            
-        * [Paleontology](https://www.sciencenews.org/topic/paleontology)
-            
-            ### [China’s famously rich dinosaur fossil beds get a new origins story](https://www.sciencenews.org/article/china-fossil-beds-new-origins-story)
-            
-            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")November 26, 2024
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
@@ -173,6 +173,12 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
     * Recent posts in Physics
         -----------------------
         
+        * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
+            
+            ### [50 years ago, physics underwent a major revolution](https://www.sciencenews.org/article/50-years-particle-physics-revolution)
+            
+            By [Cassie Martin](https://www.sciencenews.org/author/cassie-martin "Posts by Cassie Martin")5 hours ago
+            
         * [Cosmology](https://www.sciencenews.org/topic/cosmology)
             
             ### [Einstein’s gravity endures despite a dark energy puzzle](https://www.sciencenews.org/article/einstein-gravity-dark-energy-desi) 
@@ -184,12 +190,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [Accelerated muons bring next-gen particle colliders closer to reality](https://www.sciencenews.org/article/accelerated-muons-particle-colliders)
             
             By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")November 12, 2024
-            
-        * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
-            
-            ### [Antimatter could travel by truck, a test with protons shows](https://www.sciencenews.org/article/antimatter-protons-travel-truck)
-            
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")November 8, 2024
             
 * [Space](https://www.sciencenews.org/topic/space)
     * [Space](https://www.sciencenews.org/topic/space)
@@ -203,7 +203,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [What will it take to defend the world from an asteroid?](https://www.sciencenews.org/article/robin-andrews-kill-asteroid-review)
             
-            By [Shi En Kim](https://www.sciencenews.org/author/shi-en-kim "Posts by Shi En Kim")16 hours ago
+            By [Shi En Kim](https://www.sciencenews.org/author/shi-en-kim "Posts by Shi En Kim")November 28, 2024
             
         * [Astronomy](https://www.sciencenews.org/topic/astronomy)
             
