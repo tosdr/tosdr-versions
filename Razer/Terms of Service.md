@@ -137,7 +137,6 @@ Switch to
             Explore
             -------
             
-            * [Razer 65W Blade Adapter](https://www.razer.com/gaming-pc-accessories/Razer-65W-Power-Adapter-for-Razer-Blade-Stealth/RC30-02390100-B3U1)
             * [Razer 100W Blade Adapter](https://www.razer.com/gaming-pc-accessories/Razer-100W-Power-Adapter/RC30-03100200-B3U1)
             * [Razer 130W USB-C GaN charger](https://www.razer.com/gaming/pc/accessories/razer-usb-c-gan-charger)
             * [Razer 230W Blade Adapter](https://www.razer.com/gaming-pc-accessories/Razer-230W-Power-Adapter/RC30-02480100-B3U1)
@@ -590,7 +589,6 @@ Switch to
             
             * [View All Webcams](https://www.razer.com/pc/content-creation/kiyo-family)
             * [Razer Kiyo Pro Ultra](https://www.razer.com/streaming-cameras/razer-kiyo-pro-ultra)
-            * [Razer Kiyo Pro](https://www.razer.com/streaming-cameras/razer-kiyo-pro)
             * [Razer Kiyo](https://www.razer.com/streaming-cameras/razer-kiyo)
             * [Razer Kiyo X](https://www.razer.com/streaming-cameras/razer-kiyo-x)
             
@@ -622,7 +620,6 @@ Switch to
             
             * [View All Lighting & Staging](https://www.razer.com/pc/content-creation/lighting)
             * [Razer Key Light Chroma](https://www.razer.com/streaming-accessories/razer-key-light-chroma)
-            * [Razer Ring Light](https://www.razer.com/streaming-accessories/razer-ring-light)
             * [Razer Blue Screen](https://www.razer.com/streaming-accessories/razer-blue-screen)
             
         
@@ -646,7 +643,6 @@ Switch to
             
             * [View All Kiyo](https://www.razer.com/pc/content-creation/kiyo-family)
             * [Razer Kiyo Pro Ultra](https://www.razer.com/streaming-cameras/razer-kiyo-pro-ultra)
-            * [Razer Kiyo Pro](https://www.razer.com/streaming-cameras/razer-kiyo-pro)
             * [Razer Kiyo](https://www.razer.com/streaming-cameras/razer-kiyo)
             * [Razer Kiyo X](https://www.razer.com/streaming-cameras/razer-kiyo-x)
             
@@ -709,7 +705,6 @@ Switch to
             ------------
             
             * [Razer Kiyo Pro Ultra](https://www.razer.com/streaming-cameras/razer-kiyo-pro-ultra)
-            * [Razer Kiyo Pro](https://www.razer.com/streaming-cameras/razer-kiyo-pro)
             
         
         Product Line
@@ -734,7 +729,6 @@ Switch to
             
             * [View All Ergonomic](https://www.razer.com/shop/chairs/gaming-chairs?query=:newest:category:gaming-chairs:chairs-facets-family:Razer%2BIskur)
             * [Razer Iskur V2](https://www.razer.com/gaming-chairs/razer-iskur-v2)
-            * [Razer Iskur XL](https://www.razer.com/gaming-chairs/razer-iskur-xl)
             
         * Breathable
             
@@ -805,7 +799,6 @@ Switch to
             
             * View All Iskur
             * [Razer Iskur V2](https://www.razer.com/gaming-chairs/razer-iskur-v2)
-            * [Razer Iskur XL](https://www.razer.com/gaming-chairs/razer-iskur-xl)
             
         * [Razer Freyja](https://www.razer.com/gaming-chairs-accessories/razer-freyja)
         * [Accessories](https://www.razer.com/shop/chairs/gaming-chairs-accessories)
@@ -1034,7 +1027,6 @@ Switch to
             
             * [View All Ergonomic](https://www.razer.com/shop/chairs/gaming-chairs?query=:newest:category:gaming-chairs:chairs-facets-family:Razer%2BIskur)
             * [Razer Iskur V2](https://www.razer.com/gaming-chairs/razer-iskur-v2)
-            * [Razer Iskur XL](https://www.razer.com/gaming-chairs/razer-iskur-xl)
             
         * Breathable
             
@@ -1105,7 +1097,6 @@ Switch to
             
             * View All Iskur
             * [Razer Iskur V2](https://www.razer.com/gaming-chairs/razer-iskur-v2)
-            * [Razer Iskur XL](https://www.razer.com/gaming-chairs/razer-iskur-xl)
             
         * [Razer Freyja](https://www.razer.com/gaming-chairs-accessories/razer-freyja)
         * [Accessories](https://www.razer.com/shop/chairs/gaming-chairs-accessories)
@@ -1177,7 +1168,6 @@ Switch to
             * [Razer Xanthus Double Pocket Oversized Tee](https://www.razer.com/apparel-shirts/razer-xanthus-double-pocket-oversized-tee)
             * [Razer Xanthus Short Sleeve Shirt](https://www.razer.com/apparel-shirts/razer-xanthus-short-sleeve-shirt)
             * [Razer Xanthus Cargo Shorts](https://www.razer.com/apparel-bottom/razer-xanthus-cargo-shorts)
-            * [Razer Xanthus Bucket Hat](https://www.razer.com/gear-accessories/razer-xanthus-bucket-hat)
             * [Razer Xanthus Crossbody Bag](https://www.razer.com/gear-accessories/razer-xanthus-crossbody-bag)
             * [Razer Xanthus Tote Bag](https://www.razer.com/gear-accessories/razer-xanthus-tote-bag)
             
@@ -1213,10 +1203,8 @@ Switch to
             ------------
             
             * [View All Genesis](https://www.razer.com/gear-and-apparel/genesis)
-            * [Razer Genesis Tee](https://www.razer.com/apparel-shirts/razer-genesis-tee/buy)
             * [Razer Genesis Shorts](https://www.razer.com/apparel-bottoms/razer-genesis-shorts)
             * [Razer Genesis Bomber Jacket](https://www.razer.com/apparel-outerwear/razer-genesis-bomber-jacket)
-            * [Razer Genesis Bucket Hat](https://www.razer.com/gear-accessories/razer-genesis-bucket-hat)
             
         * Unleashed
             
@@ -1249,8 +1237,6 @@ Switch to
         -------
         
         * [View All Accessories](https://www.razer.com/lifestyle/gear)
-        * [Razer Xanthus Bucket Hat](https://www.razer.com/gear-accessories/razer-xanthus-bucket-hat)
-        * [Razer Genesis Bucket Hat](https://www.razer.com/gear-accessories/razer-genesis-bucket-hat)
         * [Razer Unleashed Bucket Hat](https://www.razer.com/gear-accessories/razer-unleashed-bucket-hat)
         * [Razer Sneki Snek Wall Light](https://www.razer.com/gear-accessories/razer-sneki-snek-wall-light)
         * [Razersuperfuture Matte Black Glasses](https://www.razer.com/gear-accessories/razersuperfuture-matte-black-glasses)
