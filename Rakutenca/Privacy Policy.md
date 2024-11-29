@@ -1,4 +1,4 @@
-[TEMU: Save up to 90% ! Make the most of this shopping season + 12% Cash Back
+[TEMU: Save up to 90%! Make the most of this shopping season + 12% Cash Back
 
 Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/temu?store=temu&sourceName=sitewide-sticky-header)
 
@@ -459,13 +459,13 @@ FR
         
         2% Cash Back](https://www.rakuten.ca/lululemon)[Under Armour Canada
         
-        15% Cash Back](https://www.rakuten.ca/under-armour-canada)[tentree
+        15% Cash Back](https://www.rakuten.ca/under-armour-canada)[Bass Pro Shops & Cabela's Canada
         
-        3% Cash Back](https://www.rakuten.ca/ten-tree)[Bass Pro Shops & Cabela's Canada
+        2% Cash Back](https://www.rakuten.ca/bass-pro-shops-cabelas)[Adidas
         
-        2% Cash Back](https://www.rakuten.ca/bass-pro-shops-cabelas)[Puma Canada
+        2% Cash Back](https://www.rakuten.ca/adidas)[tentree
         
-        up to 9% Cash Back](https://www.rakuten.ca/puma-canada)
+        3% Cash Back](https://www.rakuten.ca/ten-tree)
         
         Featured Shops & Deals
         
@@ -527,11 +527,11 @@ FR
         
         4% Cash Back](https://www.rakuten.ca/airalo)[TravelPro
         
-        2.5% Cash Back](https://www.rakuten.ca/travel-pro)[Bikini Village
+        2.5% Cash Back](https://www.rakuten.ca/travel-pro)[Hotels.com
         
-        6% Cash Back](https://www.rakuten.ca/bikini-village)[Flight Centre
+        up to 6% Cash Back](https://www.rakuten.ca/hotels-com)[Bikini Village
         
-        up to 3% Cash Back](https://www.rakuten.ca/flight-centre)
+        6% Cash Back](https://www.rakuten.ca/bikini-village)
         
         Featured Shops & Deals
         
@@ -692,13 +692,13 @@ All rights reserved.
 
  ![](//static.rakuten.ca/static/img/footer_close.svg) ![](//static.rakuten.ca/static/img/footer_open.svg)
 
-[![Earn 15% Cash Back from Rakuten.ca with Under Armour Canada Coupons, Promo Codes](//static.rakuten.ca/img/campaign_entity/303725/en-stickyfooter-1170x60_ua.png "Under Armour Canada Coupons, Promo Codes")
+[![Earn 15% Cash Back from Rakuten.ca with Dyson Coupons, Promo Codes](//static.rakuten.ca/img/campaign_entity/303442/en-stickyfooter-1170x60_dyson.png "Dyson Coupons, Promo Codes")
 
-was 2%, now
+was 2.5%, now
 
 15% Cash Back
 
-Shop Now](https://www.rakuten.ca/ticket/campaign/sticky-footer-base-1/store/under-armour-canada?sourceName=stickyfooter1)
+Shop Now](https://www.rakuten.ca/ticket/campaign/sticky-footer-base-1/store/dyson?sourceName=stickyfooter1)
 
 × ![Rakuten White Logo](//static.rakuten.ca/static/images/logo/logo_Rakuten_white.svg)
 
