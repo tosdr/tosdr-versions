@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/universum/een-universitaire-kijk-op-ufos-ze-bestaan/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/wetenschap/energie/rode-kaart-shell-om-nigeria/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
