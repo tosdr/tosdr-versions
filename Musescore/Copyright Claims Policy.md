@@ -26,6 +26,10 @@ Our products
 
 [Audio.com](https://audio.com/)
 
+Language
+
+[English](https://musescore.com/sheetmusic) [Ελληνικά](https://musescore.com/sheetmusic)
+
 © 2024 MuseScore Ltd
 
 Spyrou Kyprianou 84,  
