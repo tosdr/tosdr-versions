@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/meelezen/mis-leiding-en-tijdlijnen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/a-last-goodbye/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
