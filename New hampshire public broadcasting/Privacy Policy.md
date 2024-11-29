@@ -184,10 +184,10 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
-* [**November 27, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/november-27-2024-pbs-news-hour-full-episode-1732683601?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Food Insecurity** | The State We're In](https://video.nhpbs.org/video/food-insecurity-pzm5qk?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**November 28, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/november-28-2024-pbs-news-hour-full-episode-1732770001?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**November 27, 2024** | Amanpour and Company](https://video.nhpbs.org/video/november-27-2024-aikgqf?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Moana 2** | Flicks](https://video.nhpbs.org/video/moana-2-bmpk9a?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Food Insecurity** | The State We're In](https://video.nhpbs.org/video/food-insecurity-pzm5qk?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**"Breakdown in Maine" - Preview** | FRONTLINE](https://video.nhpbs.org/video/breakdown-in-maine-preview?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Trailer Minted** | Independent Lens](https://video.nhpbs.org/video/trailer-minted-oowqv7?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**5 Facts about Henry Mancini** | Great Performances](https://video.nhpbs.org/video/5-facts-about-henry-mancini-stw4m1?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
