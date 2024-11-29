@@ -159,17 +159,17 @@
     
     11 月 7, 2024 3
     
-* [![Follow 是什么？它不止是 RSS 阅读器，但万物皆可订阅｜2024年11月3日更新：第一轮空投开始 7](https://www.appinn.com/wp-content/uploads/2024/10/Appinn-Feature-images-2024-10-24T155053.119-115x115.jpg "Follow 是什么？它不止是 RSS 阅读器，但万物皆可订阅｜2024年11月3日更新：第一轮空投开始 7")](https://www.appinn.com/what-is-follow/ "Follow 是什么？它不止是 RSS 阅读器，但万物皆可订阅｜2024年11月3日更新：第一轮空投开始")
-    
-    [Follow 是什么？它不止是 RSS 阅读器，但万物皆可订阅｜2024年11月3日更新：第一轮空投开始](https://www.appinn.com/what-is-follow/ "Follow 是什么？它不止是 RSS 阅读器，但万物皆可订阅｜2024年11月3日更新：第一轮空投开始")
-    
-    11 月 3, 2024 2
-    
-* [![双 11 榜单，哪些软件买的人最多 8](https://www.appinn.com/wp-content/uploads/2024/11/Appinn-Feature-images-2024-11-12T142028.247-115x115.jpg "双 11 榜单，哪些软件买的人最多 8")](https://www.appinn.com/241111-lizhi-final/ "双 11 榜单，哪些软件买的人最多")
+* [![双 11 榜单，哪些软件买的人最多 7](https://www.appinn.com/wp-content/uploads/2024/11/Appinn-Feature-images-2024-11-12T142028.247-115x115.jpg "双 11 榜单，哪些软件买的人最多 7")](https://www.appinn.com/241111-lizhi-final/ "双 11 榜单，哪些软件买的人最多")
     
     [双 11 榜单，哪些软件买的人最多](https://www.appinn.com/241111-lizhi-final/ "双 11 榜单，哪些软件买的人最多")
     
     11 月 12, 2024 2
+    
+* [![无需登录！轻松下载 YouTube 视频的最简单方法 8](https://www.appinn.com/wp-content/uploads/2024/11/faq-22-115x115.jpg "无需登录！轻松下载 YouTube 视频的最简单方法 8")](https://www.appinn.com/download-yt-video-use-cobalt/ "无需登录！轻松下载 YouTube 视频的最简单方法")
+    
+    [无需登录！轻松下载 YouTube 视频的最简单方法](https://www.appinn.com/download-yt-video-use-cobalt/ "无需登录！轻松下载 YouTube 视频的最简单方法")
+    
+    11 月 1, 2024 2
     
 * [![开源稍后阅读工具 Omnivore 被收购，并将在本月底关闭 9](https://www.appinn.com/wp-content/uploads/2024/11/Appinn-Feature-images-2024-11-05T142923.773-1-115x115.jpg "开源稍后阅读工具 Omnivore 被收购，并将在本月底关闭 9")](https://www.appinn.com/omnivore-shutting-down/ "开源稍后阅读工具 Omnivore 被收购，并将在本月底关闭")
     
@@ -177,11 +177,11 @@
     
     11 月 5, 2024 2
     
-* [![无需登录！轻松下载 YouTube 视频的最简单方法 10](https://www.appinn.com/wp-content/uploads/2024/11/faq-22-115x115.jpg "无需登录！轻松下载 YouTube 视频的最简单方法 10")](https://www.appinn.com/download-yt-video-use-cobalt/ "无需登录！轻松下载 YouTube 视频的最简单方法")
+* [![Follow 是什么？它不止是 RSS 阅读器，但万物皆可订阅｜2024年11月3日更新：第一轮空投开始 10](https://www.appinn.com/wp-content/uploads/2024/10/Appinn-Feature-images-2024-10-24T155053.119-115x115.jpg "Follow 是什么？它不止是 RSS 阅读器，但万物皆可订阅｜2024年11月3日更新：第一轮空投开始 10")](https://www.appinn.com/what-is-follow/ "Follow 是什么？它不止是 RSS 阅读器，但万物皆可订阅｜2024年11月3日更新：第一轮空投开始")
     
-    [无需登录！轻松下载 YouTube 视频的最简单方法](https://www.appinn.com/download-yt-video-use-cobalt/ "无需登录！轻松下载 YouTube 视频的最简单方法")
+    [Follow 是什么？它不止是 RSS 阅读器，但万物皆可订阅｜2024年11月3日更新：第一轮空投开始](https://www.appinn.com/what-is-follow/ "Follow 是什么？它不止是 RSS 阅读器，但万物皆可订阅｜2024年11月3日更新：第一轮空投开始")
     
-    11 月 1, 2024 2
+    11 月 3, 2024 2
     
 
 ### 分类
