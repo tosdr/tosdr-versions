@@ -419,10 +419,10 @@ Go to site
 
 Button to minimize modal
 
-#### Interested in  
-Black Friday Deals?
+#### New special deals for  
+Cyber Monday!
 
-Join our newsletter and get first access to the best deals of the year.
+Join our newsletter and get first access to our special Cyber Monday deals.
 
      I’M IN!
 
