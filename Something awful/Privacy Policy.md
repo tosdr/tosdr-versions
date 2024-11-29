@@ -205,28 +205,27 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Hypertrophy Genitals Girl](https://www.somethingawful.com/horrors-of-porn/hypertrophy-giant-futa/)
-* [Crazy Animated Ideas!](https://www.somethingawful.com/comedy-goldmine/animate-crazy-ideas/1/)
-* [Let's Draw Defective Pokemon! (Part 1 of 2)](https://www.somethingawful.com/comedy-goldmine/draw-defective-pokemon/1/)
-* [Animal Human Hybrids](https://www.somethingawful.com/comedy-goldmine/animal-human-hybrids/1/)
-* [The Strangest Fan Art!](https://www.somethingawful.com/comedy-goldmine/strangest-fan-art/1/)
+* [Turtles in Trouble](https://www.somethingawful.com/comedy-goldmine/turtles-in-trouble/1/)
+* [Zidane's headbutt photoshop-thread](https://www.somethingawful.com/comedy-goldmine/zidanes-headbutt-photoshopthread/1/)
+* [Variety Pack #4: Chinese Propaganda; "AMD Me"!](https://www.somethingawful.com/photoshop-phriday/variety-pack-4/1/)
+* [Fine Art Meets Awful Forum!](https://www.somethingawful.com/photoshop-phriday/fine-art-goons/1/)
+* [Advanced Dungeons & Dragons: Monster Manual II (part 2)](https://www.somethingawful.com/dungeons-and-dragons/monster-manual-two/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/serious.png) [(SEQUEL) What's the best thing you've done?](http://forums.somethingawful.com/showthread.php?threadid=4076445 "(SEQUEL) What's the best thing you've done?")
-* ![](https://fi.somethingawful.com/forums/posticons/fyad-smallthread.gif) [Adults who skateboard](http://forums.somethingawful.com/showthread.php?threadid=4076416 "Adults who skateboard")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/serious.png) [(SEQUEL) What's the best thing you've done?](http://forums.somethingawful.com/showthread.php?threadid=4076448 "(SEQUEL) What's the best thing you've done?")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/serious.png) [(PREQUEL!!!) What's the GREATEST thing you've done?](http://forums.somethingawful.com/showthread.php?threadid=4076469 "(PREQUEL!!!) What's the GREATEST thing you've done?")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [Awful American Thanksgiving 2024](http://forums.somethingawful.com/showthread.php?threadid=4076419 "Awful American Thanksgiving 2024")
+* ![](https://fi.somethingawful.com/forums/posticons/fyad-smallthread.gif) [Adults who skateboard](http://forums.somethingawful.com/showthread.php?threadid=4076416 "Adults who skateboard")
 * ![](https://fi.somethingawful.com/forums/posticons/fyad-sandwich.gif) [Document your Thanksgiving prep!](http://forums.somethingawful.com/showthread.php?threadid=4076432 "Document your Thanksgiving prep!")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/serious.png) [What is the absolute WORST thing you've ever done?](http://forums.somethingawful.com/showthread.php?threadid=4076413 "What is the absolute WORST thing you've ever done?")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/serious.png) [(SEQUEL) What's the best thing you've done?](http://forums.somethingawful.com/showthread.php?threadid=4076448 "(SEQUEL) What's the best thing you've done?")
 
 ### Random Articles
 
-* [The Art of Warcraft: A Year in Review](https://www.somethingawful.com/art-of-warcraft/art-warcraft-year/1/)
-* [Your Year in Review](https://www.somethingawful.com/news/year-end-facebook/)
-* [Garfield Cooks Up Trouble is the most offensive and dangerous book I've ever read](https://www.somethingawful.com/news/black-witch-sinyard/)
-* [Notes, By P. M - S](https://www.somethingawful.com/awful-links/awful-link-1590/)
-* [Things You Can and Can't Get On Craigslist](https://www.somethingawful.com/news/craigslist-adult-services/)
+* [Philosophy Sunday: Dudes. Are they bad enough?](https://www.somethingawful.com/news/philosophy-sunday-dudes/)
+* [Subj: IT WAS WRONG OF THEM TO FIRE ME](https://www.somethingawful.com/news/roamin-dad-51/)
+* [Comedy Casserole](https://www.somethingawful.com/news/comedy-casserole-bobservo/1/)
+* [U.S. Department of Barrels](https://www.somethingawful.com/news/bureau-barrel-statistics/)
+* [South Side White Pride](https://www.somethingawful.com/awful-links/awful-link-566/)
 
 [Random!](https://www.somethingawful.com/random/)
 
