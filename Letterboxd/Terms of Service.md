@@ -110,7 +110,7 @@ _This policy was last updated in November 2022 (to expand upon and strengthen cl
 * [API](https://letterboxd.com/api-beta/)
 * [Contact](https://letterboxd.com/contact/)
 
-[X](https://twitter.com/letterboxd "Letterboxd on X")
+[X](https://x.com/letterboxd "Letterboxd on X")
 
 [Threads](https://www.threads.net/@letterboxd "Letterboxd on Threads")
 
