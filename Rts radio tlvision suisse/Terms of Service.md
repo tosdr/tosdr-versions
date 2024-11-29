@@ -3,7 +3,6 @@
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
-* [Votations fédérales](https://www.rts.ch/info/dossiers/2024/votations-federales-du-24-novembre/)
 
 * TV & Streaming
 * Audio
@@ -23,7 +22,6 @@ Retour
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
-* [Votations fédérales](https://www.rts.ch/info/dossiers/2024/votations-federales-du-24-novembre/)
 
 #### S'informer
 
@@ -60,7 +58,6 @@ Retour
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
-* [Votations fédérales](https://www.rts.ch/info/dossiers/2024/votations-federales-du-24-novembre/)
 
 * TV & Streaming
 * Audio
@@ -86,7 +83,6 @@ Retour
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
-* [Votations fédérales](https://www.rts.ch/info/dossiers/2024/votations-federales-du-24-novembre/)
 
 #### S'informer
 
