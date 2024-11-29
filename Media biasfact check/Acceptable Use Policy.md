@@ -195,8 +195,8 @@ Last Updated on October 18, 2018 by Media Bias Fact Check
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
 * [New Republic - Bias and Credibility](https://mediabiasfactcheck.com/new-republic/)
-* [BBC - Bias and Credibility](https://mediabiasfactcheck.com/bbc/)
 * [The Guardian - Bias and Credibility](https://mediabiasfactcheck.com/the-guardian/)
+* [BBC - Bias and Credibility](https://mediabiasfactcheck.com/bbc/)
 * [NewsNation - Bias and Credibility](https://mediabiasfactcheck.com/newsnation/)
 * [MBFC's Daily Vetted Fact Checks for 11/27/2024](https://mediabiasfactcheck.com/2024/11/27/mbfcs-daily-vetted-fact-checks-for-11-27-2024/)
 
