@@ -193,6 +193,14 @@ Some of our posts may contain affiliate links to partner brands. We earn a small
 
 ### More articles
 
+![](https://inspgr.id/app/uploads/2024/11/editorial-christmas-fonts-cover.jpg)
+
+[Graphic Design](https://theinspirationgrid.com/category/design/)[Print Design](https://theinspirationgrid.com/category/print/)
+
+[](https://theinspirationgrid.com/editorial/the-best-christmas-fonts-for-your-merry-projects/)
+
+### The Best Christmas Fonts for Your Merry Projects
+
 ![](https://inspgr.id/app/uploads/2024/11/editorial-pentips-fuzzy-review-feature.jpg)
 
 [Art](https://theinspirationgrid.com/category/art/)[Graphic Design](https://theinspirationgrid.com/category/design/)
@@ -216,14 +224,6 @@ Some of our posts may contain affiliate links to partner brands. We earn a small
 [](https://theinspirationgrid.com/editorial/top-eyewear-designs-inspired-by-retro-trends/)
 
 ### Top Eyewear Designs Inspired by Retro Trends
-
-![](https://inspgr.id/app/uploads/2024/11/early-black-friday-2024.jpg)
-
-[Art](https://theinspirationgrid.com/category/art/)[Gaming](https://theinspirationgrid.com/category/gaming/)
-
-[](https://theinspirationgrid.com/editorial/here-are-some-early-black-friday-deals-to-check-out/)
-
-### Here are some early Black Friday deals to check out
 
 #want
 -----
