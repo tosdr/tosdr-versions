@@ -165,6 +165,86 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
+More Noah's Ark and Flood
+
+[![](/i/Main%20Stage%20-%201400x1050/Flood_Amazon_Sea_1400x1050.jpg)](https://www.icr.org/article/flood-solves-mystery-of-amazon-sea)
+
+[Flood Solves Mystery of Amazon Sea](https://www.icr.org/article/flood-solves-mystery-of-amazon-sea/)
+
+In the past 15 years, it’s been determined that a vast ocean once covered the western Amazon drainage basin.1 However, studies of the...
+
+BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
+
+[![](/i/Main%20Stage%20-%201400x1050/Canyon_Greenland_1400x1050.jpg)](https://www.icr.org/article/grand-canyon-of-greenland-formed-by-genesis-flood)
+
+[’Grand Canyon’ of Greenland Formed by Genes.,.](https://www.icr.org/article/grand-canyon-of-greenland-formed-by-genesis-flood/)
+
+A massive canyon rivalling Grand Canyon has been discovered beneath the ice on Greenland, and uniformitarian scientists are explaining it as a consequence...
+
+BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
+
+[![](/i/Main%20Stage%20-%201400x1050/Plants_Fit_Flood_1400x1050.jpg)](https://www.icr.org/article/sudden-appearance-flowering-plants-fit-flood-model)
+
+[Sudden Appearance of Flowering Plants Fit Flood Model](https://www.icr.org/article/sudden-appearance-flowering-plants-fit-flood-model/)
+
+A new study published in Nature Ecology & Evolution has claimed that flowering plants, the most common type of plant on Earth, first appeared in small...
+
+BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
+
+More Creation Q&A
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/does_universe_look_old.jpg)](https://www.icr.org/article/does-the-universe-look-old)
+
+[Does the Universe Look Old?](https://www.icr.org/article/does-the-universe-look-old/)
+
+Since distant galaxies are billions of light-years away, some understandably assume that distant starlight must have taken billions of years to reach...
+
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/do_earth_rocks_look_old.jpg)](https://www.icr.org/article/do-earths-rocks-look-old/)
+
+[Do Earth's Rocks Look Old?](https://www.icr.org/article/do-earths-rocks-look-old//)
+
+Some might argue that Earth’s rocks are obviously ancient even apart from radioisotope dating results. In response to creationist claims, they...
+
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/HowPrepareCreationMInistry.jpg)](https://www.icr.org/article/how-do-i-prepare-for-creation-ministry)
+
+[How Do I Prepare for Creation Ministry?](https://www.icr.org/article/how-do-i-prepare-for-creation-ministry/)
+
+Many of today’s creation researchers can testify that information from the Institute for Creation Research sparked a burning, lifelong passion...
+
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+
+Shop Related Products
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/54360544/file.jpg)
+
+Foundations in Worship](https://store.icr.org/foundations-in-worship.html)
+
+$29.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/32803/file.jpg)
+
+The Young Earth](https://store.icr.org/dr-john-morris-the-young-earth.html)
+
+$19.99
+
+[](https://store.icr.org/.html)
+
+$
+
+[](https://store.icr.org/.html)
+
+$
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/5202651/file.jpg)
+
+The Fossil Record](https://store.icr.org/dr-john-morris-the-fossil-record.html)
+
+$19.99
+
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
