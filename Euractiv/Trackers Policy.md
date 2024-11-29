@@ -111,6 +111,10 @@ Most recent
 
 [29-11-2024
 
+Armenia feels the impact of Georgian election fallout](https://www.euractiv.com/section/global-europe/news/armenia-feels-the-impact-of-georgian-election-fallout/)[29-11-2024
+
+Georgia’s election crisis could be a herald for democratic decline, EU membership](https://www.euractiv.com/section/global-europe/news/georgias-election-crisis-could-be-a-herald-for-democratic-decline-eu-membership/)[29-11-2024
+
 Romania’s top court orders presidential election recount](https://www.euractiv.com/section/politics/news/romanias-top-court-orders-presidential-election-recount/)[29-11-2024
 
 Putin says Russia could hit ‘decision-making centres’ in Kyiv with new missile](https://www.euractiv.com/section/global-europe/news/putin-says-russia-could-hit-decision-making-centres-in-kyiv-with-new-missile/)[29-11-2024
@@ -125,11 +129,7 @@ Iran holds nuclear talks with Europeans as tensions ratchet up](https://www.eura
 
 Vikings at the gate? Iceland’s EU debate ahead of key elections](https://www.euractiv.com/section/politics/news/the-capitals-vikings-at-the-gate-icelands-eu-debate-ahead-of-key-elections-2/)[29-11-2024
 
-EU court rules against Bulgarian biometric data collection](https://www.euractiv.com/section/politics/news/eu-court-rules-against-bulgarian-biometric-data-collection/)[29-11-2024
-
-EU reiterates Russia stance amid Fico’s Moscow plans](https://www.euractiv.com/section/politics/news/eu-reiterates-russia-stance-amid-ficos-moscow-plans/)[29-11-2024
-
-Tusk, Kristersson forge strategic partnership, pledge ‘ironclad’ support for Ukraine](https://www.euractiv.com/section/politics/news/tusk-kristersson-forge-strategic-partnership-pledge-ironclad-support-for-ukraine/)
+EU court rules against Bulgarian biometric data collection](https://www.euractiv.com/section/politics/news/eu-court-rules-against-bulgarian-biometric-data-collection/)
 
 ###### Advertisement
 
