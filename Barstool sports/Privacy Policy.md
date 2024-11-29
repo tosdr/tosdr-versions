@@ -102,8 +102,8 @@
     * [New](https://store.barstoolsports.com/collections/new-arrivals?utm_source=barstoolsports&utm_medium=referral&utm_campaign=referral_barstoolsports_site_placement_trending_topics_hover_newarrivals)
     * [Best Sellers](https://store.barstoolsports.com/collections/best-sellers-page)
     * [Football Season](https://store.barstoolsports.com/collections/football)
-    * [Shady Rays](https://store.barstoolsports.com/collections/shady-rays)
-    * [Barstool x Muck](https://store.barstoolsports.com/products/barstool-sports-x-muckster-lite-clogs?variant=41784961171553)
+    * [Outdoors](https://store.barstoolsports.com/collections/all-brands?sort_by=created-descending&filter.p.vendor=Barstool+Outdoors)
+    * [Gambling](https://store.barstoolsports.com/collections/barstool-gambling)
     * [Miss Peaches](https://store.barstoolsports.com/collections/miss-peaches)
     * [Barstool Golf](https://store.barstoolsports.com/collections/golf)
     * [Stella Blue Coffee](https://stellabluecoffee.com/?utm_source=stellabluecoffee.com&utm_medium=referral&utm_campaign=referral_stellabluecoffee.com_site_placement_trending_topics_hover_stellabluecoffee)
@@ -142,10 +142,10 @@
 [My Feed!My Feed](https://www.barstoolsports.com/favorites)[App](https://www.barstoolsports.com/download)
 
 * Trending Topics
-* [Barstool Sports Advisors](https://www.barstoolsports.com/video/3532525/a-stu-feiner-thanksgiving-masterclass-barstool-sports-advisors-week-13)
-* [The Pro Football Football Show](https://www.barstoolsports.com/video/3532493/thanksgiving-and-black-friday-slate-picks-or-the-pro-football-football-show-special-edition)
+* [Barstool Store NEW ARRIVALS](https://store.barstoolsports.com/collections/new-arrivals)
+* [Barstool Golf Collection](https://store.barstoolsports.com/collections/golf)
+* [Barstool Outdoors Collection](https://store.barstoolsports.com/collections/all-brands?sort_by=created-descending&filter.p.vendor=Barstool+Outdoors)
 * [Barstool Store Best Sellers](https://store.barstoolsports.com/collections/best-sellers-page)
-* [Football Collection](https://store.barstoolsports.com/collections/football)
 * [Stella Blue Coffee](https://stellabluecoffee.com/)
 
 Privacy Policy
