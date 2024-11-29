@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**November 28, 2024**
+**November 29, 2024**
 
 * * *
 
@@ -251,25 +251,25 @@ this week
 
 [Chronic Illness](https://www.sciencedaily.com/news/health_medicine/chronic_illness/)
 
-[Health Policy](https://www.sciencedaily.com/news/health_medicine/health_policy/)
-
 [Brain-Computer Interfaces](https://www.sciencedaily.com/news/mind_brain/brain-computer_interfaces/)
+
+[Health Policy](https://www.sciencedaily.com/news/health_medicine/health_policy/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Medical Technology](https://www.sciencedaily.com/news/matter_energy/medical_technology/)
+[Spintronics](https://www.sciencedaily.com/news/matter_energy/spintronics/)
 
 [Graphene](https://www.sciencedaily.com/news/matter_energy/graphene/)
 
-[Quantum Computing](https://www.sciencedaily.com/news/matter_energy/quantum_computing/)
+[Nanotechnology](https://www.sciencedaily.com/news/matter_energy/nanotechnology/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
+[Birds](https://www.sciencedaily.com/news/plants_animals/birds/)
+
 [Cell Biology](https://www.sciencedaily.com/news/plants_animals/cell_biology/)
 
-[Ice Ages](https://www.sciencedaily.com/news/earth_climate/ice_ages/)
-
-[Weather](https://www.sciencedaily.com/news/earth_climate/weather/)
+[Behavioral Science](https://www.sciencedaily.com/news/plants_animals/behavior/)
 
   
 
