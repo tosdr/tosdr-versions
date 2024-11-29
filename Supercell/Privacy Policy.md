@@ -220,7 +220,7 @@ Try Again
 PRIVACY POLICY
 ==============
 
-Bahasa IndonesiaDeutschEnglishEspañolFrançaisItalianoNederlandsPortuguêsSuomiSvenskaTürkçeРусскийالعربية한국어日本語简体中文繁體中文
+Bahasa IndonesiaDeutschEnglishEspañolFrançaisItalianoNederlandsPolskiPortuguêsSuomiSvenskaTürkçeРусскийالعربية한국어日本語简体中文繁體中文
 
 * [CONTACT US](https://supercell.com/en/privacy-policy/#CONTACT-US)
 * [THE DATA WE COLLECT](https://supercell.com/en/privacy-policy/#THE-DATA-WE-COLLECT)
