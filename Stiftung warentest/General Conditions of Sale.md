@@ -384,7 +384,7 @@ weiter
 
 Suchen
 
-![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v123254121.svg)
+![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v123420388.svg)
 
 1. [Startweiter](https://www.test.de/)
 2. Hilfe
@@ -664,12 +664,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Steueridentifikations­nummer: So bekommen Sie eine Steuer-ID heraus](https://www.test.de/Steuer-ID-beantragen-6122749-0/ "Steueridentifikationsnummer - So bekommen Sie eine Steuer-ID heraus")
-* [Lithium-Investment: Unerlaubte Werbeanrufe für kana­dische Firma](https://www.test.de/Lithium-Investment-Unerlaubte-Werbeanrufe-fuer-kanadische-Firma-6010914-0/ "Lithium-Investment - Unerlaubte Werbeanrufe für kanadische Firma")
-* [Bisphenole: Schad­stoffe in Unter­wäsche](https://www.test.de/Bisphenole-in-Unterwaesche-6163207-0/ "Bisphenole - Schadstoffe in Unterwäsche")
-* [Dax-Kappungs­grenze: Bei Börsenindizes kommt es auf breite Streuung an](https://www.test.de/Dax-Kappungsgrenze-erhoeht-6111224-0/ "Dax-Kappungsgrenze - Bei Börsenindizes kommt es auf breite Streuung an")
-* [Dark Patterns: Sieben fiese Tricks: So werden Sie im Internet manipuliert](https://www.test.de/dark-patterns-manipulation-im-internet-6141853-0/ "Dark Patterns - Sieben fiese Tricks: So werden Sie im Internet manipuliert")
-* [Kreuz­fahrten mit Aida, Costa und MSC: Reedereien setzen auf Diesel statt Gas](https://www.test.de/Kreuzfahrten-mit-Aida-Costa-und-MSC-Reedereien-setzen-auf-Diesel-statt-Gas-5967313-0/ "Kreuzfahrten mit Aida, Costa und MSC - Reedereien setzen auf Diesel statt Gas")
+* [Befestigung Auto­kinder­sitze: Bundes­amt warnt vor Isofix-Adaptern](https://www.test.de/Befestigung-von-Autokindersitzen-Gefaehrliche-Isofix-Adapter-6159718-0/ "Befestigung Autokindersitze - Bundesamt warnt vor Isofix-Adaptern")
+* [Assistent für Digitalwährungs­handel: Achtung, Identitäts­klau!](https://www.test.de/Assistent-fuer-Digitalwaehrungshandel-Achtung-Identitaetsklau-6003423-0/ "Assistent für Digitalwährungshandel - Achtung, Identitätsklau!")
+* [Aktien-ETF Japan: Mit oder ohne Währungs­sicherung?](https://www.test.de/Aktien-ETF-Japan-Mit-oder-ohne-Waehrungssicherung-6132893-0/ "Aktien-ETF Japan - Mit oder ohne Währungssicherung?")
+* [Mobil­funk: Telekom schaltet 2G-Netz ab](https://www.test.de/Mobilfunk-Telekom-schaltet-2G-Netz-ab-6173729-0/ "Mobilfunk - Telekom schaltet 2G-Netz ab")
+* [Test Frisch­halteboxen: Glas schlägt Plastik](https://www.test.de/Test-Frischhalteboxen-Glas-schlaegt-Plastik-6052991-0/ "Test Frischhalteboxen - Glas schlägt Plastik")
+* [Verpackungs­ärger: Nivea Expert Filler Cellular Anti-Age Tages­pflege](https://www.test.de/Verpackungsaerger-Nivea-Expert-Filler-Cellular-Anti-Age-Tagespflege-6084938-0/ "Verpackungsärger - Nivea Expert Filler Cellular Anti-Age Tagespflege")
 
 Weitere Informationen
 
@@ -3082,12 +3082,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Steueridentifikations­nummer: So bekommen Sie eine Steuer-ID heraus](https://www.test.de/Steuer-ID-beantragen-6122749-0/ "Steueridentifikationsnummer - So bekommen Sie eine Steuer-ID heraus")
-* [Lithium-Investment: Unerlaubte Werbeanrufe für kana­dische Firma](https://www.test.de/Lithium-Investment-Unerlaubte-Werbeanrufe-fuer-kanadische-Firma-6010914-0/ "Lithium-Investment - Unerlaubte Werbeanrufe für kanadische Firma")
-* [Bisphenole: Schad­stoffe in Unter­wäsche](https://www.test.de/Bisphenole-in-Unterwaesche-6163207-0/ "Bisphenole - Schadstoffe in Unterwäsche")
-* [Dax-Kappungs­grenze: Bei Börsenindizes kommt es auf breite Streuung an](https://www.test.de/Dax-Kappungsgrenze-erhoeht-6111224-0/ "Dax-Kappungsgrenze - Bei Börsenindizes kommt es auf breite Streuung an")
-* [Dark Patterns: Sieben fiese Tricks: So werden Sie im Internet manipuliert](https://www.test.de/dark-patterns-manipulation-im-internet-6141853-0/ "Dark Patterns - Sieben fiese Tricks: So werden Sie im Internet manipuliert")
-* [Kreuz­fahrten mit Aida, Costa und MSC: Reedereien setzen auf Diesel statt Gas](https://www.test.de/Kreuzfahrten-mit-Aida-Costa-und-MSC-Reedereien-setzen-auf-Diesel-statt-Gas-5967313-0/ "Kreuzfahrten mit Aida, Costa und MSC - Reedereien setzen auf Diesel statt Gas")
+* [Befestigung Auto­kinder­sitze: Bundes­amt warnt vor Isofix-Adaptern](https://www.test.de/Befestigung-von-Autokindersitzen-Gefaehrliche-Isofix-Adapter-6159718-0/ "Befestigung Autokindersitze - Bundesamt warnt vor Isofix-Adaptern")
+* [Assistent für Digitalwährungs­handel: Achtung, Identitäts­klau!](https://www.test.de/Assistent-fuer-Digitalwaehrungshandel-Achtung-Identitaetsklau-6003423-0/ "Assistent für Digitalwährungshandel - Achtung, Identitätsklau!")
+* [Aktien-ETF Japan: Mit oder ohne Währungs­sicherung?](https://www.test.de/Aktien-ETF-Japan-Mit-oder-ohne-Waehrungssicherung-6132893-0/ "Aktien-ETF Japan - Mit oder ohne Währungssicherung?")
+* [Mobil­funk: Telekom schaltet 2G-Netz ab](https://www.test.de/Mobilfunk-Telekom-schaltet-2G-Netz-ab-6173729-0/ "Mobilfunk - Telekom schaltet 2G-Netz ab")
+* [Test Frisch­halteboxen: Glas schlägt Plastik](https://www.test.de/Test-Frischhalteboxen-Glas-schlaegt-Plastik-6052991-0/ "Test Frischhalteboxen - Glas schlägt Plastik")
+* [Verpackungs­ärger: Nivea Expert Filler Cellular Anti-Age Tages­pflege](https://www.test.de/Verpackungsaerger-Nivea-Expert-Filler-Cellular-Anti-Age-Tagespflege-6084938-0/ "Verpackungsärger - Nivea Expert Filler Cellular Anti-Age Tagespflege")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -3138,12 +3138,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Steueridentifikations­nummer: So bekommen Sie eine Steuer-ID heraus](https://www.test.de/Steuer-ID-beantragen-6122749-0/ "Steueridentifikationsnummer - So bekommen Sie eine Steuer-ID heraus")
-* [Lithium-Investment: Unerlaubte Werbeanrufe für kana­dische Firma](https://www.test.de/Lithium-Investment-Unerlaubte-Werbeanrufe-fuer-kanadische-Firma-6010914-0/ "Lithium-Investment - Unerlaubte Werbeanrufe für kanadische Firma")
-* [Bisphenole: Schad­stoffe in Unter­wäsche](https://www.test.de/Bisphenole-in-Unterwaesche-6163207-0/ "Bisphenole - Schadstoffe in Unterwäsche")
-* [Dax-Kappungs­grenze: Bei Börsenindizes kommt es auf breite Streuung an](https://www.test.de/Dax-Kappungsgrenze-erhoeht-6111224-0/ "Dax-Kappungsgrenze - Bei Börsenindizes kommt es auf breite Streuung an")
-* [Dark Patterns: Sieben fiese Tricks: So werden Sie im Internet manipuliert](https://www.test.de/dark-patterns-manipulation-im-internet-6141853-0/ "Dark Patterns - Sieben fiese Tricks: So werden Sie im Internet manipuliert")
-* [Kreuz­fahrten mit Aida, Costa und MSC: Reedereien setzen auf Diesel statt Gas](https://www.test.de/Kreuzfahrten-mit-Aida-Costa-und-MSC-Reedereien-setzen-auf-Diesel-statt-Gas-5967313-0/ "Kreuzfahrten mit Aida, Costa und MSC - Reedereien setzen auf Diesel statt Gas")
+* [Befestigung Auto­kinder­sitze: Bundes­amt warnt vor Isofix-Adaptern](https://www.test.de/Befestigung-von-Autokindersitzen-Gefaehrliche-Isofix-Adapter-6159718-0/ "Befestigung Autokindersitze - Bundesamt warnt vor Isofix-Adaptern")
+* [Assistent für Digitalwährungs­handel: Achtung, Identitäts­klau!](https://www.test.de/Assistent-fuer-Digitalwaehrungshandel-Achtung-Identitaetsklau-6003423-0/ "Assistent für Digitalwährungshandel - Achtung, Identitätsklau!")
+* [Aktien-ETF Japan: Mit oder ohne Währungs­sicherung?](https://www.test.de/Aktien-ETF-Japan-Mit-oder-ohne-Waehrungssicherung-6132893-0/ "Aktien-ETF Japan - Mit oder ohne Währungssicherung?")
+* [Mobil­funk: Telekom schaltet 2G-Netz ab](https://www.test.de/Mobilfunk-Telekom-schaltet-2G-Netz-ab-6173729-0/ "Mobilfunk - Telekom schaltet 2G-Netz ab")
+* [Test Frisch­halteboxen: Glas schlägt Plastik](https://www.test.de/Test-Frischhalteboxen-Glas-schlaegt-Plastik-6052991-0/ "Test Frischhalteboxen - Glas schlägt Plastik")
+* [Verpackungs­ärger: Nivea Expert Filler Cellular Anti-Age Tages­pflege](https://www.test.de/Verpackungsaerger-Nivea-Expert-Filler-Cellular-Anti-Age-Tagespflege-6084938-0/ "Verpackungsärger - Nivea Expert Filler Cellular Anti-Age Tagespflege")
 
 Neueste Tests
 
@@ -3156,12 +3156,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Steueridentifikations­nummer: So bekommen Sie eine Steuer-ID heraus](https://www.test.de/Steuer-ID-beantragen-6122749-0/ "Steueridentifikationsnummer - So bekommen Sie eine Steuer-ID heraus")
-* [Lithium-Investment: Unerlaubte Werbeanrufe für kana­dische Firma](https://www.test.de/Lithium-Investment-Unerlaubte-Werbeanrufe-fuer-kanadische-Firma-6010914-0/ "Lithium-Investment - Unerlaubte Werbeanrufe für kanadische Firma")
-* [Bisphenole: Schad­stoffe in Unter­wäsche](https://www.test.de/Bisphenole-in-Unterwaesche-6163207-0/ "Bisphenole - Schadstoffe in Unterwäsche")
-* [Dax-Kappungs­grenze: Bei Börsenindizes kommt es auf breite Streuung an](https://www.test.de/Dax-Kappungsgrenze-erhoeht-6111224-0/ "Dax-Kappungsgrenze - Bei Börsenindizes kommt es auf breite Streuung an")
-* [Dark Patterns: Sieben fiese Tricks: So werden Sie im Internet manipuliert](https://www.test.de/dark-patterns-manipulation-im-internet-6141853-0/ "Dark Patterns - Sieben fiese Tricks: So werden Sie im Internet manipuliert")
-* [Kreuz­fahrten mit Aida, Costa und MSC: Reedereien setzen auf Diesel statt Gas](https://www.test.de/Kreuzfahrten-mit-Aida-Costa-und-MSC-Reedereien-setzen-auf-Diesel-statt-Gas-5967313-0/ "Kreuzfahrten mit Aida, Costa und MSC - Reedereien setzen auf Diesel statt Gas")
+* [Befestigung Auto­kinder­sitze: Bundes­amt warnt vor Isofix-Adaptern](https://www.test.de/Befestigung-von-Autokindersitzen-Gefaehrliche-Isofix-Adapter-6159718-0/ "Befestigung Autokindersitze - Bundesamt warnt vor Isofix-Adaptern")
+* [Assistent für Digitalwährungs­handel: Achtung, Identitäts­klau!](https://www.test.de/Assistent-fuer-Digitalwaehrungshandel-Achtung-Identitaetsklau-6003423-0/ "Assistent für Digitalwährungshandel - Achtung, Identitätsklau!")
+* [Aktien-ETF Japan: Mit oder ohne Währungs­sicherung?](https://www.test.de/Aktien-ETF-Japan-Mit-oder-ohne-Waehrungssicherung-6132893-0/ "Aktien-ETF Japan - Mit oder ohne Währungssicherung?")
+* [Mobil­funk: Telekom schaltet 2G-Netz ab](https://www.test.de/Mobilfunk-Telekom-schaltet-2G-Netz-ab-6173729-0/ "Mobilfunk - Telekom schaltet 2G-Netz ab")
+* [Test Frisch­halteboxen: Glas schlägt Plastik](https://www.test.de/Test-Frischhalteboxen-Glas-schlaegt-Plastik-6052991-0/ "Test Frischhalteboxen - Glas schlägt Plastik")
+* [Verpackungs­ärger: Nivea Expert Filler Cellular Anti-Age Tages­pflege](https://www.test.de/Verpackungsaerger-Nivea-Expert-Filler-Cellular-Anti-Age-Tagespflege-6084938-0/ "Verpackungsärger - Nivea Expert Filler Cellular Anti-Age Tagespflege")
 
 Stiftung Warentest
 
