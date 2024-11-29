@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/hoofdartikelen/de-zomer-van-de-verduisteringen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/judith-moores-observatie-na-de-collectieve-meditatie/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
