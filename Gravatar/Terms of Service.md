@@ -8,7 +8,7 @@ Menu
 * [Blog](https://wordpress.com/blog/ "Blog")
 * [Support](https://wordpress.com/support/ "Support")
 * [Sign Up](https://wordpress.com/start?ref= "Sign Up")
-* [Log In](https://wordpress.com/wp-login.php?redirect_to=https%3A%2F%2Fwordpress.com%2Ftos%2F "Log In")
+* [Log In](https://wordpress.com/wp-login.php?redirect_to=https%3A%2F%2Fwordpress.com%2Ftos%2F%3Futm_medium%3Dautomattic_referred "Log In")
 
 Index
 
