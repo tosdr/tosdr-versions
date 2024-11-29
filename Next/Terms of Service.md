@@ -1,6 +1,6 @@
 5.39.5
 
-1732869466129
+1732890563857
 
                                              
 
@@ -12,7 +12,7 @@ en
 
 3.16.0
 
-1732868618434
+1732891675412
 
      Next Terms & Conditions | T&C's | Next Official Site                                  
 
@@ -22,7 +22,7 @@ en
 
 cutaway22
 
-1732869108731
+1732892259189
 
 You need to enable JavaScript to run this app.
 
@@ -725,20 +725,21 @@ You also acknowledge that Next may use the content without any obligation to pro
 * This offer is not available to staff.
 * Offer applies while stocks last.
 
-### Love & Roses + English National Ballet - The Nutcracker November 2024 Competition
+### Lipsy 7 Days of Christmas Competition AW24 - Day 1
 
 **Promoter:** The promoter is Lipsy Limited (registered at Company no. 05728110), 200 – 208 Tottenham Court Road, London, W1T 7PL.
 
-**Competition Details:** To enter the competition:
+**Lipsy 7 Days of Christmas Competition AW24 - Day 1**
 
-1. Follow @loveandroses and @englishnationalballet on Instagram
+To enter the competition:
+
+1. Follow @lipsylondon on Instagram
 2. Like and save the post
-3. Tag a friend in the comment section who you would like to take with you
-4. Share to your stories for an extra entry
+3. Tag TWO friends in the comment section with a 🎁 emoji
 
-**Note:** Only the @loveandroses account will contact you if you are successful. Any other account claiming to contact you on behalf of Lipsy London is not legitimate.
+**Note:** Only the @lipsylondon account will contact you if you are successful. Any other account claiming to contact you on behalf of Lipsy London is not legitimate.
 
-This giveaway opens on Tuesday 12th November at 17:00pm and closes on Tuesday 19th November 2024 at 17:00pm. UK or US residents 18+ only. We will only notify the winner here on Instagram, via our official account @loveandroses. This giveaway is in no way endorsed, affiliated with, administered, or sponsored by Instagram.
+This giveaway opens on Sunday 1st December 2024 at 19.00pm and closes on Monday 2nd December 2024 at 19.00pm. UK resident 18+ only. We will only notify the winner here on Instagram, via our official account @lipsylondon. This giveaway is in no way endorsed, affiliated with, administered, or sponsored by Instagram.
 
 **1\. Eligibility:** This Promotion is open to UK or US residents, aged 18 or over, excluding:
 
@@ -748,29 +749,28 @@ This giveaway opens on Tuesday 12th November at 17:00pm and closes on Tuesday 19
 
 **2\. No purchase necessary.** Multiple entries are permitted.
 
-**3\. Start Date/Time:** Tuesday 12th November at 17:00pm
+**3\. Start Date/Time:** Sunday 1st December 2024 at 19.00pm
 
-**4\. Closing date/Time:** Tuesday 19th November 2024 at 17:00pm
+**4\. Closing date/Time:** Monday 2nd December 2024 at 19.00pm
 
-**5\. To enter:** Entrants must do the following on the official @loveandroses Instagram account between 17:00pm on the start date and 17:00pm on the closing date:
+**5\. To enter:** Entrants must do the following on the official @lipsylondon Instagram account between 19:00pm on the start date and 19.00pm on the closing date as well as the below:
 
-1. Follow @loveandroses and @englishnationalballet on Instagram
+1. Follow @lipsylondon on Instagram
 2. Like and save the post
-3. Tag a friend in the comment section who you would like to take with you
-4. Share to their stories for an extra entry
+3. Tag TWO friends in the comment section with a 🎁 emoji
 
-**6\. Late entries:** Entries made after 17:00pm on Tuesday 19th November will not be counted.
+**6\. Late entries:**Entries made after 19:00pm on Sunday 1st December 2024, will not be counted.
 
-**7\. Winner Selection:** One winner will be selected at random by @loveandroses on Wednesday 20th November after 9:00am and contacted directly by @loveandroses Limited via Instagram direct mail before midnight that day.
+**7\. Winner Selection:** One winner will be selected at random by @lipsylondon on Tuesday 3rd December 2024 after 9:00am and contacted directly by @lipsylondon Limited via Instagram direct mail before midnight that day.
 
-**8\. Prize Claim:** The winner must confirm whether they wish to claim the prize within 3 days of receiving a notification. If the winner fails to do so, the winner shall forfeit the prize, and Love & Roses reserves the right to award the prize to a reserve winner selected at the same time as the original winner. Love & Roses does not accept any responsibility if you are not able to claim the prize.
+**8\. Prize Claim:**The winner must confirm whether they wish to claim the prize within 3 days of receiving a notification. If the winner fails to do so, the winner shall forfeit the prize and Lipsy reserves the right to award the prize to a reserve winner selected at the same time as the original winner. Lipsy does not accept any responsibility if you are not able to claim the prize.
 
-**9\. Substitute Prize:** In the event of unforeseen circumstances, Love & Roses reserves the right to substitute the prize for an alternative of equal or greater value. All reasonable efforts will be made to contact the winner before awarding the prize to a reserve.
+**9\. Substitute Prize:** In the event of unforeseen circumstances Lipsy reserves the right to substitute the prize for an alternative of equal or greater value. All reasonable efforts will be made to contact the winner before awarding the prize to a reserve.
 
 **10\. The Prize:** The prize is as follows:
 
-* 2x English National Ballet tickets to see the Nutcracker on the opening night of the 12th December
-* 1x £250 Gift Voucher from Love & Roses
+* 1 x £100 Next voucher
+* GHD Duet Style Limited Edition 2-in-1 Hot Air Styler Gift Set in Icy Blue worth £340
 
 **11\. Prize Terms:** The entirety of this prize is non-transferable and non-refundable. It must be taken as offered and will only be awarded to the Winner as specified in these Terms and Conditions.
 
@@ -778,27 +778,457 @@ This giveaway opens on Tuesday 12th November at 17:00pm and closes on Tuesday 19
 
 **13\. Winner Notification:** Lipsy will contact the prize winner via Instagram direct mail as soon as practicable to verify details for the prize.
 
-**14\. Residency Requirement:** The winner must be a UK or US resident.
+**14\. Residency Requirement:** The winner must be a UK resident.
 
-**15\. Final Decision:** Love & Roses' decision is final, and no correspondence will be entered into.
+**15\. Final Decision:**Lipsy’s decision is final and no correspondence will be entered into.
 
-**16\. Allergy Declaration:** The winner must declare any allergies.
+**16\. Verification:**Lipsy reserves the right to verify all entries and participants’ eligibility, including but not limited to asking for address and identity details and to refuse to award a prize or withdraw prize entitlement and/or refuse further participation in the promotion and disqualify the participant where there are reasonable grounds to believe there has been a breach of these Terms and Conditions or any instructions forming part of this promotions entry requirements or otherwise where a participant has gained unfair advantage in participating in the promotion or won using fraudulent means.
 
-**17\. Verification:** Love & Roses reserves the right to verify all entries and participants’ eligibility, including but not limited to asking for address and identity details and to refuse to award a prize or withdraw prize entitlement and/or refuse further participation in the promotion and disqualify the participant where there are reasonable grounds to believe there has been a breach of these Terms and Conditions or any instructions forming part of this promotion’s entry requirements or otherwise where a participant has gained unfair advantage in participating in the promotion or won using fraudulent means.
+**17\. Marketing Consent:** By entering the competition you agree to being contacted for competition and marketing purposes by email, mail, or telephone, from which you may opt out at any time, and to your personal details being used to administer the competition.
 
-**18\. Marketing Consent:** By entering the competition you agree to being contacted for competition and marketing purposes by email, mail, or telephone, from which you may opt out at any time, and to your personal details being used to administer the competition.
+**18\. Publicity:** The winner agrees to participate in publicity arising from the promotion in the form of use of their name and image in a congratulatory competition social media post.
 
-**19\. Publicity:** The winner agrees to participate in publicity arising from the promotion in the form of use of their name and image in a congratulatory competition social media post.
+**19\. Objections:** If you object to any or all of your details being published or made available, please contact Love & Roses at [lipsymarketing@next.co.uk](mailto:lipsymarketing@next.co.uk).
 
-**20\. Objections:** If you object to any or all of your details being published or made available, please contact Love & Roses at [lipsymarketing@next.co.uk](mailto:lipsymarketing@next.co.uk).
+**20\. Event Changes:** Events may occur that render the competition itself or the awarding of a prize impossible due to reasons beyond the control of Lipsy. Accordingly, Lipsy may at its absolute discretion vary, amend or withdraw the competition and the winner agrees that no liability shall attach to Lipsy as a result thereof.
 
-**21\. Event Changes:** Events may occur that render the competition itself or the awarding of a prize impossible due to reasons beyond the control of Love & Roses. Accordingly, Love & Roses may at its absolute discretion vary, amend or withdraw the competition and the winner agrees that no liability shall attach to Love & Roses as a result thereof.
+**21\. Limitation of Liability:** To the fullest extent permitted by law, Love & Roses excludes all liability for any loss, damage, personal injury, or death suffered by the prize winner and/or their guest as a result of accepting the prize, except where it is caused by the negligence of Love & Roses, its agents, or distributors, or that of their employees. Your statutory rights are not affected.
 
-**22\. Limitation of Liability:** To the fullest extent permitted by law, Love & Roses excludes all liability for any loss, damage, personal injury, or death suffered by the prize winner and/or their guest as a result of accepting the prize, except where it is caused by the negligence of Love & Roses, its agents, or distributors, or that of their employees. Your statutory rights are not affected.
+**22\. Governing Law:** The competition and these Terms and Conditions are governed by English law, and the parties submit to the non-exclusive jurisdiction of the English courts.
 
-**23\. Governing Law:** The competition and these Terms and Conditions are governed by English law, and the parties submit to the non-exclusive jurisdiction of the English courts.
+**23\. Winner Details:** Details of the competition winner will be available for 14 days after the competition ends by writing to Lipsy London Limited Marketing, Glen House, Tottenham Court Road, London, W1T 7PL. Love & Roses will provide the details of the winning entry to the Advertising Standards Authority on request.
 
-**24\. Winner Details:** Details of the competition winner will be available for 14 days after the competition ends by writing to Lipsy London Limited Marketing, Glen House, Tottenham Court Road, London, W1T 7PL. Love & Roses will provide the details of the winning entry to the Advertising Standards Authority on request.
+### Lipsy 7 Days of Christmas Competition AW24 - Day 2
+
+**Promoter:** The promoter is Lipsy Limited (registered at Company no. 05728110), 200 – 208 Tottenham Court Road, London, W1T 7PL.
+
+**Lipsy 7 Days of Christmas Competition AW24 - Day 2**
+
+To enter the competition:
+
+1. Follow @lipsylondon on Instagram
+2. Like and save the post
+3. Tag TWO friends in the comment section with a 🎁 emoji
+
+**Note:** Only the @lipsylondon account will contact you if you are successful. Any other account claiming to contact you on behalf of Lipsy London is not legitimate.
+
+This giveaway opens on Monday 2nd December 2024 at 19.00pm and closes on Tuesday 3rd December 2024 at 19.00pm. UK resident 18+ only. We will only notify the winner here on Instagram, via our official account @lipsylondon. This giveaway is in no way endorsed, affiliated with, administered, or sponsored by Instagram.
+
+**1\. Eligibility:** This Promotion is open to UK or US residents, aged 18 or over, excluding:
+
+* employees of Lipsy Ltd or its holding or subsidiary companies;
+* employees or agents or suppliers of Lipsy Ltd or its holding or subsidiary companies, who are professionally connected with the competition or its administration; or
+* members of the immediate families or households of a) and b) above.
+
+**2\. No purchase necessary.** Multiple entries are permitted.
+
+**3\. Start Date/Time:**Monday 2nd December 2024 at 19.00pm
+
+**4\. Closing date/Time:**Tuesday 3rd December 2024 at 19.00pm
+
+**5\. To enter:** Entrants must do the following on the official @lipsylondon Instagram account between 19:00pm on the start date and 19.00pm on the closing date as well as the below:
+
+1. Follow @lipsylondon on Instagram
+2. Like and save the post
+3. Tag TWO friends in the comment section with a 🎁 emoji
+
+**6\. Late entries:**Entries made after 19:00pm on Monday 2nd December 2024, will not be counted
+
+**7\. Winner Selection:** One winner will be selected at random by @lipsylondon on Wednesday 4th December 2024 after 9:00am and contacted directly by @lipsylondon Limited via Instagram direct mail before midnight that day.
+
+**8\. Prize Claim:**The winner must confirm whether they wish to claim the prize within 3 days of receiving a notification. If the winner fails to do so, the winner shall forfeit the prize and Lipsy reserves the right to award the prize to a reserve winner selected at the same time as the original winner. Lipsy does not accept any responsibility if you are not able to claim the prize.
+
+**9\. Substitute Prize:** In the event of unforeseen circumstances Lipsy reserves the right to substitute the prize for an alternative of equal or greater value. All reasonable efforts will be made to contact the winner before awarding the prize to a reserve.
+
+**10\. The Prize:** The prize is as follows:
+
+* 1 x £100 Next voucher
+
+**11\. Prize Terms:** The entirety of this prize is non-transferable and non-refundable. It must be taken as offered and will only be awarded to the Winner as specified in these Terms and Conditions.
+
+**12\. Prize Delivery:** The prizes will be sent to the winner within 6 months of the competition ending, and the exact date will be advised by the Lipsy marketing team to the winner upon winning.
+
+**13\. Winner Notification:** Lipsy will contact the prize winner via Instagram direct mail as soon as practicable to verify details for the prize.
+
+**14\. Residency Requirement:** The winner must be a UK resident.
+
+**15\. Final Decision:**Lipsy’s decision is final and no correspondence will be entered into.
+
+**16\. Verification:**Lipsy reserves the right to verify all entries and participants’ eligibility, including but not limited to asking for address and identity details and to refuse to award a prize or withdraw prize entitlement and/or refuse further participation in the promotion and disqualify the participant where there are reasonable grounds to believe there has been a breach of these Terms and Conditions or any instructions forming part of this promotions entry requirements or otherwise where a participant has gained unfair advantage in participating in the promotion or won using fraudulent means.
+
+**17\. Marketing Consent:** By entering the competition you agree to being contacted for competition and marketing purposes by email, mail, or telephone, from which you may opt out at any time, and to your personal details being used to administer the competition.
+
+**18\. Publicity:** The winner agrees to participate in publicity arising from the promotion in the form of use of their name and image in a congratulatory competition social media post.
+
+**19\. Objections:** If you object to any or all of your details being published or made available, please contact Love & Roses at [lipsymarketing@next.co.uk](mailto:lipsymarketing@next.co.uk).
+
+**20\. Event Changes:** Events may occur that render the competition itself or the awarding of a prize impossible due to reasons beyond the control of Lipsy. Accordingly, Lipsy may at its absolute discretion vary, amend or withdraw the competition and the winner agrees that no liability shall attach to Lipsy as a result thereof.
+
+**21\. Limitation of Liability:** To the fullest extent permitted by law, Love & Roses excludes all liability for any loss, damage, personal injury, or death suffered by the prize winner and/or their guest as a result of accepting the prize, except where it is caused by the negligence of Love & Roses, its agents, or distributors, or that of their employees. Your statutory rights are not affected.
+
+**22\. Governing Law:** The competition and these Terms and Conditions are governed by English law, and the parties submit to the non-exclusive jurisdiction of the English courts.
+
+**23\. Winner Details:** Details of the competition winner will be available for 14 days after the competition ends by writing to Lipsy London Limited Marketing, Glen House, Tottenham Court Road, London, W1T 7PL. Love & Roses will provide the details of the winning entry to the Advertising Standards Authority on request.
+
+### Lipsy 7 Days of Christmas Competition AW24 - Day 3
+
+**Promoter:** The promoter is Lipsy Limited (registered at Company no. 05728110), 200 – 208 Tottenham Court Road, London, W1T 7PL.
+
+**Lipsy 7 Days of Christmas Competition AW24 - Day 3**
+
+To enter the competition:
+
+1. Follow @lipsylondon on Instagram
+2. Like and save the post
+3. Tag TWO friends in the comment section with a 🎁 emoji
+
+**Note:** Only the @lipsylondon account will contact you if you are successful. Any other account claiming to contact you on behalf of Lipsy London is not legitimate.
+
+This giveaway opens on Tuesday 3rd December 2024 at 19.00pm and closes on Wednesday 4th December 2024 at 19.00pm. UK resident 18+ only. We will only notify the winner here on Instagram, via our official account @lipsylondon. This giveaway is in no way endorsed, affiliated with, administered, or sponsored by Instagram.
+
+**1\. Eligibility:** This Promotion is open to UK or US residents, aged 18 or over, excluding:
+
+* employees of Lipsy Ltd or its holding or subsidiary companies;
+* employees or agents or suppliers of Lipsy Ltd or its holding or subsidiary companies, who are professionally connected with the competition or its administration; or
+* members of the immediate families or households of a) and b) above.
+
+**2\. No purchase necessary.** Multiple entries are permitted.
+
+**3\. Start Date/Time:**Tuesday 3rd December 2024 at 19.00pm
+
+**4\. Closing date/Time:**Wednesday 4th December 2024 at 19.00pm
+
+**5\. To enter:** Entrants must do the following on the official @lipsylondon Instagram account between 19:00pm on the start date and 19.00pm on the closing date as well as the below:
+
+1. Follow @lipsylondon on Instagram
+2. Like and save the post
+3. Tag TWO friends in the comment section with a 🎁 emoji
+
+**6\. Late entries:**Entries made after 19:00pm on Wednesday 4th December 2024, will not be counted.
+
+**7\. Winner Selection:** One winner will be selected at random by @lipsylondon on Thursday 5th December 2024 after 9:00am and contacted directly by @lipsylondon Limited via Instagram direct mail before midnight that day.
+
+**8\. Prize Claim:**The winner must confirm whether they wish to claim the prize within 3 days of receiving a notification. If the winner fails to do so, the winner shall forfeit the prize and Lipsy reserves the right to award the prize to a reserve winner selected at the same time as the original winner. Lipsy does not accept any responsibility if you are not able to claim the prize.
+
+**9\. Substitute Prize:** In the event of unforeseen circumstances Lipsy reserves the right to substitute the prize for an alternative of equal or greater value. All reasonable efforts will be made to contact the winner before awarding the prize to a reserve.
+
+**10\. The Prize:** The prize is as follows:
+
+* 1 x £100 Next voucher
+
+**11\. Prize Terms:** The entirety of this prize is non-transferable and non-refundable. It must be taken as offered and will only be awarded to the Winner as specified in these Terms and Conditions.
+
+**12\. Prize Delivery:** The prizes will be sent to the winner within 6 months of the competition ending, and the exact date will be advised by the Lipsy marketing team to the winner upon winning.
+
+**13\. Winner Notification:** Lipsy will contact the prize winner via Instagram direct mail as soon as practicable to verify details for the prize.
+
+**14\. Residency Requirement:** The winner must be a UK resident.
+
+**15\. Final Decision:**Lipsy’s decision is final and no correspondence will be entered into.
+
+**16\. Verification:**Lipsy reserves the right to verify all entries and participants’ eligibility, including but not limited to asking for address and identity details and to refuse to award a prize or withdraw prize entitlement and/or refuse further participation in the promotion and disqualify the participant where there are reasonable grounds to believe there has been a breach of these Terms and Conditions or any instructions forming part of this promotions entry requirements or otherwise where a participant has gained unfair advantage in participating in the promotion or won using fraudulent means.
+
+**17\. Marketing Consent:** By entering the competition you agree to being contacted for competition and marketing purposes by email, mail, or telephone, from which you may opt out at any time, and to your personal details being used to administer the competition.
+
+**18\. Publicity:** The winner agrees to participate in publicity arising from the promotion in the form of use of their name and image in a congratulatory competition social media post.
+
+**19\. Objections:** If you object to any or all of your details being published or made available, please contact Love & Roses at [lipsymarketing@next.co.uk](mailto:lipsymarketing@next.co.uk).
+
+**20\. Event Changes:** Events may occur that render the competition itself or the awarding of a prize impossible due to reasons beyond the control of Lipsy. Accordingly, Lipsy may at its absolute discretion vary, amend or withdraw the competition and the winner agrees that no liability shall attach to Lipsy as a result thereof.
+
+**21\. Limitation of Liability:** To the fullest extent permitted by law, Love & Roses excludes all liability for any loss, damage, personal injury, or death suffered by the prize winner and/or their guest as a result of accepting the prize, except where it is caused by the negligence of Love & Roses, its agents, or distributors, or that of their employees. Your statutory rights are not affected.
+
+**22\. Governing Law:** The competition and these Terms and Conditions are governed by English law, and the parties submit to the non-exclusive jurisdiction of the English courts.
+
+**23\. Winner Details:** Details of the competition winner will be available for 14 days after the competition ends by writing to Lipsy London Limited Marketing, Glen House, Tottenham Court Road, London, W1T 7PL. Love & Roses will provide the details of the winning entry to the Advertising Standards Authority on request.
+
+### Lipsy 7 Days of Christmas Competition AW24 - Day 4
+
+**Promoter:** The promoter is Lipsy Limited (registered at Company no. 05728110), 200 – 208 Tottenham Court Road, London, W1T 7PL.
+
+**Lipsy 7 Days of Christmas Competition AW24 - Day 4**
+
+To enter the competition:
+
+1. Follow @lipsylondon on Instagram
+2. Like and save the post
+3. Tag TWO friends in the comment section with a 🎁 emoji
+
+**Note:** Only the @lipsylondon account will contact you if you are successful. Any other account claiming to contact you on behalf of Lipsy London is not legitimate.
+
+This giveaway opens on Wednesday 4th December 2024 at 19.00pm and closes on Thursday 5th December 2024 at 19.00pm. UK resident 18+ only. We will only notify the winner here on Instagram, via our official account @lipsylondon. This giveaway is in no way endorsed, affiliated with, administered, or sponsored by Instagram.
+
+**1\. Eligibility:** This Promotion is open to UK or US residents, aged 18 or over, excluding:
+
+* employees of Lipsy Ltd or its holding or subsidiary companies;
+* employees or agents or suppliers of Lipsy Ltd or its holding or subsidiary companies, who are professionally connected with the competition or its administration; or
+* members of the immediate families or households of a) and b) above.
+
+**2\. No purchase necessary.** Multiple entries are permitted.
+
+**3\. Start Date/Time:**Wednesday 4th December 2024 at 19.00pm
+
+**4\. Closing date/Time:**Thursday 5th December 2024 at 19.00pm
+
+**5\. To enter:** Entrants must do the following on the official @lipsylondon Instagram account between 19:00pm on the start date and 19.00pm on the closing date as well as the below:
+
+1. Follow @lipsylondon on Instagram
+2. Like and save the post
+3. Tag TWO friends in the comment section with a 🎁 emoji
+
+**6\. Late entries:**Entries made after 19:00pm on Thursday 5th December 2024, will not be counted.
+
+**7\. Winner Selection:** One winner will be selected at random by @lipsylondon on Friday 6th December 2024 after 9:00am and contacted directly by @lipsylondon Limited via Instagram direct mail before midnight that day.
+
+**8\. Prize Claim:**The winner must confirm whether they wish to claim the prize within 3 days of receiving a notification. If the winner fails to do so, the winner shall forfeit the prize and Lipsy reserves the right to award the prize to a reserve winner selected at the same time as the original winner. Lipsy does not accept any responsibility if you are not able to claim the prize.
+
+**9\. Substitute Prize:** In the event of unforeseen circumstances Lipsy reserves the right to substitute the prize for an alternative of equal or greater value. All reasonable efforts will be made to contact the winner before awarding the prize to a reserve.
+
+**10\. The Prize:** The prize is as follows:
+
+* 1 x £100 Next voucher
+
+**11\. Prize Terms:** The entirety of this prize is non-transferable and non-refundable. It must be taken as offered and will only be awarded to the Winner as specified in these Terms and Conditions.
+
+**12\. Prize Delivery:** The prizes will be sent to the winner within 6 months of the competition ending, and the exact date will be advised by the Lipsy marketing team to the winner upon winning.
+
+**13\. Winner Notification:** Lipsy will contact the prize winner via Instagram direct mail as soon as practicable to verify details for the prize.
+
+**14\. Residency Requirement:** The winner must be a UK resident.
+
+**15\. Final Decision:**Lipsy’s decision is final and no correspondence will be entered into.
+
+**16\. Verification:**Lipsy reserves the right to verify all entries and participants’ eligibility, including but not limited to asking for address and identity details and to refuse to award a prize or withdraw prize entitlement and/or refuse further participation in the promotion and disqualify the participant where there are reasonable grounds to believe there has been a breach of these Terms and Conditions or any instructions forming part of this promotions entry requirements or otherwise where a participant has gained unfair advantage in participating in the promotion or won using fraudulent means.
+
+**17\. Marketing Consent:** By entering the competition you agree to being contacted for competition and marketing purposes by email, mail, or telephone, from which you may opt out at any time, and to your personal details being used to administer the competition.
+
+**18\. Publicity:** The winner agrees to participate in publicity arising from the promotion in the form of use of their name and image in a congratulatory competition social media post.
+
+**19\. Objections:** If you object to any or all of your details being published or made available, please contact Love & Roses at [lipsymarketing@next.co.uk](mailto:lipsymarketing@next.co.uk).
+
+**20\. Event Changes:** Events may occur that render the competition itself or the awarding of a prize impossible due to reasons beyond the control of Lipsy. Accordingly, Lipsy may at its absolute discretion vary, amend or withdraw the competition and the winner agrees that no liability shall attach to Lipsy as a result thereof.
+
+**21\. Limitation of Liability:** To the fullest extent permitted by law, Love & Roses excludes all liability for any loss, damage, personal injury, or death suffered by the prize winner and/or their guest as a result of accepting the prize, except where it is caused by the negligence of Love & Roses, its agents, or distributors, or that of their employees. Your statutory rights are not affected.
+
+**22\. Governing Law:** The competition and these Terms and Conditions are governed by English law, and the parties submit to the non-exclusive jurisdiction of the English courts.
+
+**23\. Winner Details:** Details of the competition winner will be available for 14 days after the competition ends by writing to Lipsy London Limited Marketing, Glen House, Tottenham Court Road, London, W1T 7PL. Love & Roses will provide the details of the winning entry to the Advertising Standards Authority on request.
+
+### Lipsy 7 Days of Christmas Competition AW24 - Day 5
+
+**Promoter:** The promoter is Lipsy Limited (registered at Company no. 05728110), 200 – 208 Tottenham Court Road, London, W1T 7PL.
+
+**Lipsy 7 Days of Christmas Competition AW24 - Day 5**
+
+To enter the competition:
+
+1. Follow @lipsylondon on Instagram
+2. Like and save the post
+3. Tag TWO friends in the comment section with a 🎁 emoji
+
+**Note:** Only the @lipsylondon account will contact you if you are successful. Any other account claiming to contact you on behalf of Lipsy London is not legitimate.
+
+This giveaway opens on Thursday 5th December 2024 at 19.00pm and closes on Friday 6th December 2024 at 19.00pm. UK resident 18+ only. We will only notify the winner here on Instagram, via our official account @lipsylondon. This giveaway is in no way endorsed, affiliated with, administered, or sponsored by Instagram.
+
+**1\. Eligibility:** This Promotion is open to UK or US residents, aged 18 or over, excluding:
+
+* employees of Lipsy Ltd or its holding or subsidiary companies;
+* employees or agents or suppliers of Lipsy Ltd or its holding or subsidiary companies, who are professionally connected with the competition or its administration; or
+* members of the immediate families or households of a) and b) above.
+
+**2\. No purchase necessary.** Multiple entries are permitted.
+
+**3\. Start Date/Time:**Thursday 5th December 2024 at 19.00pm
+
+**4\. Closing date/Time:**Friday 6th December 2024 at 19.00pm
+
+**5\. To enter:** Entrants must do the following on the official @lipsylondon Instagram account between 19:00pm on the start date and 19.00pm on the closing date as well as the below:
+
+1. Follow @lipsylondon on Instagram
+2. Like and save the post
+3. Tag TWO friends in the comment section with a 🎁 emoji
+
+**6\. Late entries:**Entries made after 19:00pm on Friday 6th December 2024, will not be counted.
+
+**7\. Winner Selection:** One winner will be selected at random by @lipsylondon on Monday 9th December 2024 after 9:00am and contacted directly by @lipsylondon Limited via Instagram direct mail before midnight that day.
+
+**8\. Prize Claim:**The winner must confirm whether they wish to claim the prize within 3 days of receiving a notification. If the winner fails to do so, the winner shall forfeit the prize and Lipsy reserves the right to award the prize to a reserve winner selected at the same time as the original winner. Lipsy does not accept any responsibility if you are not able to claim the prize.
+
+**9\. Substitute Prize:** In the event of unforeseen circumstances Lipsy reserves the right to substitute the prize for an alternative of equal or greater value. All reasonable efforts will be made to contact the winner before awarding the prize to a reserve.
+
+**10\. The Prize:** The prize is as follows:
+
+* 1 x £100 Next voucher
+
+**11\. Prize Terms:** The entirety of this prize is non-transferable and non-refundable. It must be taken as offered and will only be awarded to the Winner as specified in these Terms and Conditions.
+
+**12\. Prize Delivery:** The prizes will be sent to the winner within 6 months of the competition ending, and the exact date will be advised by the Lipsy marketing team to the winner upon winning.
+
+**13\. Winner Notification:** Lipsy will contact the prize winner via Instagram direct mail as soon as practicable to verify details for the prize.
+
+**14\. Residency Requirement:** The winner must be a UK resident.
+
+**15\. Final Decision:**Lipsy’s decision is final and no correspondence will be entered into.
+
+**16\. Verification:**Lipsy reserves the right to verify all entries and participants’ eligibility, including but not limited to asking for address and identity details and to refuse to award a prize or withdraw prize entitlement and/or refuse further participation in the promotion and disqualify the participant where there are reasonable grounds to believe there has been a breach of these Terms and Conditions or any instructions forming part of this promotions entry requirements or otherwise where a participant has gained unfair advantage in participating in the promotion or won using fraudulent means.
+
+**17\. Marketing Consent:** By entering the competition you agree to being contacted for competition and marketing purposes by email, mail, or telephone, from which you may opt out at any time, and to your personal details being used to administer the competition.
+
+**18\. Publicity:** The winner agrees to participate in publicity arising from the promotion in the form of use of their name and image in a congratulatory competition social media post.
+
+**19\. Objections:** If you object to any or all of your details being published or made available, please contact Love & Roses at [lipsymarketing@next.co.uk](mailto:lipsymarketing@next.co.uk).
+
+**20\. Event Changes:** Events may occur that render the competition itself or the awarding of a prize impossible due to reasons beyond the control of Lipsy. Accordingly, Lipsy may at its absolute discretion vary, amend or withdraw the competition and the winner agrees that no liability shall attach to Lipsy as a result thereof.
+
+**21\. Limitation of Liability:** To the fullest extent permitted by law, Love & Roses excludes all liability for any loss, damage, personal injury, or death suffered by the prize winner and/or their guest as a result of accepting the prize, except where it is caused by the negligence of Love & Roses, its agents, or distributors, or that of their employees. Your statutory rights are not affected.
+
+**22\. Governing Law:** The competition and these Terms and Conditions are governed by English law, and the parties submit to the non-exclusive jurisdiction of the English courts.
+
+**23\. Winner Details:** Details of the competition winner will be available for 14 days after the competition ends by writing to Lipsy London Limited Marketing, Glen House, Tottenham Court Road, London, W1T 7PL. Love & Roses will provide the details of the winning entry to the Advertising Standards Authority on request.
+
+### Lipsy 7 Days of Christmas Competition AW24 - Day 6
+
+**Promoter:** The promoter is Lipsy Limited (registered at Company no. 05728110), 200 – 208 Tottenham Court Road, London, W1T 7PL.
+
+**Lipsy 7 Days of Christmas Competition AW24 - Day 6**
+
+To enter the competition:
+
+1. Follow @lipsylondon on Instagram
+2. Like and save the post
+3. Tag TWO friends in the comment section with a 🎁 emoji
+
+**Note:** Only the @lipsylondon account will contact you if you are successful. Any other account claiming to contact you on behalf of Lipsy London is not legitimate.
+
+This giveaway opens on Friday 6th December 2024 at 19.00pm and closes on Saturday 7th December 2024 at 19.00pm. UK resident 18+ only. We will only notify the winner here on Instagram, via our official account @lipsylondon. This giveaway is in no way endorsed, affiliated with, administered, or sponsored by Instagram.
+
+**1\. Eligibility:** This Promotion is open to UK or US residents, aged 18 or over, excluding:
+
+* employees of Lipsy Ltd or its holding or subsidiary companies;
+* employees or agents or suppliers of Lipsy Ltd or its holding or subsidiary companies, who are professionally connected with the competition or its administration; or
+* members of the immediate families or households of a) and b) above.
+
+**2\. No purchase necessary.** Multiple entries are permitted.
+
+**3\. Start Date/Time:**Friday 6th December 2024 at 19.00pm
+
+**4\. Closing date/Time:**Saturday 7th December 2024 at 19.00pm
+
+**5\. To enter:** Entrants must do the following on the official @lipsylondon Instagram account between 19:00pm on the start date and 19.00pm on the closing date as well as the below:
+
+1. Follow @lipsylondon on Instagram
+2. Like and save the post
+3. Tag TWO friends in the comment section with a 🎁 emoji
+
+**6\. Late entries:**Entries made after 19:00pm on Saturday 7th December 2024, will not be counted.
+
+**7\. Winner Selection:** One winner will be selected at random by @lipsylondon on Monday 9th December 2024 after 9:00am and contacted directly by @lipsylondon Limited via Instagram direct mail before midnight that day.
+
+**8\. Prize Claim:**The winner must confirm whether they wish to claim the prize within 3 days of receiving a notification. If the winner fails to do so, the winner shall forfeit the prize and Lipsy reserves the right to award the prize to a reserve winner selected at the same time as the original winner. Lipsy does not accept any responsibility if you are not able to claim the prize.
+
+**9\. Substitute Prize:** In the event of unforeseen circumstances Lipsy reserves the right to substitute the prize for an alternative of equal or greater value. All reasonable efforts will be made to contact the winner before awarding the prize to a reserve.
+
+**10\. The Prize:** The prize is as follows:
+
+* 1 x £100 Next voucher
+
+**11\. Prize Terms:** The entirety of this prize is non-transferable and non-refundable. It must be taken as offered and will only be awarded to the Winner as specified in these Terms and Conditions.
+
+**12\. Prize Delivery:** The prizes will be sent to the winner within 6 months of the competition ending, and the exact date will be advised by the Lipsy marketing team to the winner upon winning.
+
+**13\. Winner Notification:** Lipsy will contact the prize winner via Instagram direct mail as soon as practicable to verify details for the prize.
+
+**14\. Residency Requirement:** The winner must be a UK resident.
+
+**15\. Final Decision:**Lipsy’s decision is final and no correspondence will be entered into.
+
+**16\. Verification:**Lipsy reserves the right to verify all entries and participants’ eligibility, including but not limited to asking for address and identity details and to refuse to award a prize or withdraw prize entitlement and/or refuse further participation in the promotion and disqualify the participant where there are reasonable grounds to believe there has been a breach of these Terms and Conditions or any instructions forming part of this promotions entry requirements or otherwise where a participant has gained unfair advantage in participating in the promotion or won using fraudulent means.
+
+**17\. Marketing Consent:** By entering the competition you agree to being contacted for competition and marketing purposes by email, mail, or telephone, from which you may opt out at any time, and to your personal details being used to administer the competition.
+
+**18\. Publicity:** The winner agrees to participate in publicity arising from the promotion in the form of use of their name and image in a congratulatory competition social media post.
+
+**19\. Objections:** If you object to any or all of your details being published or made available, please contact Love & Roses at [lipsymarketing@next.co.uk](mailto:lipsymarketing@next.co.uk).
+
+**20\. Event Changes:** Events may occur that render the competition itself or the awarding of a prize impossible due to reasons beyond the control of Lipsy. Accordingly, Lipsy may at its absolute discretion vary, amend or withdraw the competition and the winner agrees that no liability shall attach to Lipsy as a result thereof.
+
+**21\. Limitation of Liability:** To the fullest extent permitted by law, Love & Roses excludes all liability for any loss, damage, personal injury, or death suffered by the prize winner and/or their guest as a result of accepting the prize, except where it is caused by the negligence of Love & Roses, its agents, or distributors, or that of their employees. Your statutory rights are not affected.
+
+**22\. Governing Law:** The competition and these Terms and Conditions are governed by English law, and the parties submit to the non-exclusive jurisdiction of the English courts.
+
+**23\. Winner Details:** Details of the competition winner will be available for 14 days after the competition ends by writing to Lipsy London Limited Marketing, Glen House, Tottenham Court Road, London, W1T 7PL. Love & Roses will provide the details of the winning entry to the Advertising Standards Authority on request.
+
+### Lipsy 7 Days of Christmas Competition AW24 - Day 7
+
+**Promoter:** The promoter is Lipsy Limited (registered at Company no. 05728110), 200 – 208 Tottenham Court Road, London, W1T 7PL.
+
+**Lipsy 7 Days of Christmas Competition AW24 - Day 7**
+
+To enter the competition:
+
+1. Follow @lipsylondon on Instagram
+2. Like and save the post
+3. Tag TWO friends in the comment section with a 🎁 emoji
+
+**Note:** Only the @lipsylondon account will contact you if you are successful. Any other account claiming to contact you on behalf of Lipsy London is not legitimate.
+
+This giveaway opens on Saturday 7th December 2024 at 19.00pm and closes on Sunday 8th December 2024 at 19.00pm. UK resident 18+ only. We will only notify the winner here on Instagram, via our official account @lipsylondon. This giveaway is in no way endorsed, affiliated with, administered, or sponsored by Instagram.
+
+**1\. Eligibility:** This Promotion is open to UK or US residents, aged 18 or over, excluding:
+
+* employees of Lipsy Ltd or its holding or subsidiary companies;
+* employees or agents or suppliers of Lipsy Ltd or its holding or subsidiary companies, who are professionally connected with the competition or its administration; or
+* members of the immediate families or households of a) and b) above.
+
+**2\. No purchase necessary.** Multiple entries are permitted.
+
+**3\. Start Date/Time:**Saturday 7th December 2024 at 19.00pm
+
+**4\. Closing date/Time:**Sunday 8th December 2024 at 19.00pm
+
+**5\. To enter:** Entrants must do the following on the official @lipsylondon Instagram account between 19:00pm on the start date and 19.00pm on the closing date as well as the below:
+
+1. Follow @lipsylondon on Instagram
+2. Like and save the post
+3. Tag TWO friends in the comment section with a 🎁 emoji
+
+**6\. Late entries:**Entries made after 19:00pm on Sunday 8th December 2024, will not be counted.
+
+**7\. Winner Selection:** One winner will be selected at random by @lipsylondon on Monday 9th December 2024 after 9:00am and contacted directly by @lipsylondon Limited via Instagram direct mail before midnight that day.
+
+**8\. Prize Claim:**The winner must confirm whether they wish to claim the prize within 3 days of receiving a notification. If the winner fails to do so, the winner shall forfeit the prize and Lipsy reserves the right to award the prize to a reserve winner selected at the same time as the original winner. Lipsy does not accept any responsibility if you are not able to claim the prize.
+
+**9\. Substitute Prize:** In the event of unforeseen circumstances Lipsy reserves the right to substitute the prize for an alternative of equal or greater value. All reasonable efforts will be made to contact the winner before awarding the prize to a reserve.
+
+**10\. The Prize:** The prize is as follows:
+
+* 1 x £100 Next voucher
+
+**11\. Prize Terms:** The entirety of this prize is non-transferable and non-refundable. It must be taken as offered and will only be awarded to the Winner as specified in these Terms and Conditions.
+
+**12\. Prize Delivery:** The prizes will be sent to the winner within 6 months of the competition ending, and the exact date will be advised by the Lipsy marketing team to the winner upon winning.
+
+**13\. Winner Notification:** Lipsy will contact the prize winner via Instagram direct mail as soon as practicable to verify details for the prize.
+
+**14\. Residency Requirement:** The winner must be a UK resident.
+
+**15\. Final Decision:**Lipsy’s decision is final and no correspondence will be entered into.
+
+**16\. Verification:**Lipsy reserves the right to verify all entries and participants’ eligibility, including but not limited to asking for address and identity details and to refuse to award a prize or withdraw prize entitlement and/or refuse further participation in the promotion and disqualify the participant where there are reasonable grounds to believe there has been a breach of these Terms and Conditions or any instructions forming part of this promotions entry requirements or otherwise where a participant has gained unfair advantage in participating in the promotion or won using fraudulent means.
+
+**17\. Marketing Consent:** By entering the competition you agree to being contacted for competition and marketing purposes by email, mail, or telephone, from which you may opt out at any time, and to your personal details being used to administer the competition.
+
+**18\. Publicity:** The winner agrees to participate in publicity arising from the promotion in the form of use of their name and image in a congratulatory competition social media post.
+
+**19\. Objections:** If you object to any or all of your details being published or made available, please contact Love & Roses at [lipsymarketing@next.co.uk](mailto:lipsymarketing@next.co.uk).
+
+**20\. Event Changes:** Events may occur that render the competition itself or the awarding of a prize impossible due to reasons beyond the control of Lipsy. Accordingly, Lipsy may at its absolute discretion vary, amend or withdraw the competition and the winner agrees that no liability shall attach to Lipsy as a result thereof.
+
+**21\. Limitation of Liability:** To the fullest extent permitted by law, Love & Roses excludes all liability for any loss, damage, personal injury, or death suffered by the prize winner and/or their guest as a result of accepting the prize, except where it is caused by the negligence of Love & Roses, its agents, or distributors, or that of their employees. Your statutory rights are not affected.
+
+**22\. Governing Law:** The competition and these Terms and Conditions are governed by English law, and the parties submit to the non-exclusive jurisdiction of the English courts.
+
+**23\. Winner Details:** Details of the competition winner will be available for 14 days after the competition ends by writing to Lipsy London Limited Marketing, Glen House, Tottenham Court Road, London, W1T 7PL. Love & Roses will provide the details of the winning entry to the Advertising Standards Authority on request.
 
 ### Bath & Body Works UK Social Media Competition
 
@@ -3050,7 +3480,7 @@ You need to enable JavaScript to run this app.
 
 3.16.0
 
-1732869480698
+1732891394460
 
 ### Our Social Networks
 
