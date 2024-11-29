@@ -148,6 +148,10 @@ Explore what consumers are watching, playing and listening to around the world.
 
 [](#)[](https://www.nielsen.com/portal-login/)
 
+en
+
+[English](https://www.nielsen.com/legal/terms-of-use/?wg-choose-original=true)[ภาษาไทย](https://www.nielsen.com/th/legal/terms-of-use/)
+
 [Contact Us](#)
 
 [](#)
@@ -200,6 +204,10 @@ Search
 [Client Login](https://www.nielsen.com/portal-login/)
 
 [](https://www.nielsen.com/portal-login/)
+
+en
+
+[English](https://www.nielsen.com/legal/terms-of-use/?wg-choose-original=true)[ภาษาไทย](https://www.nielsen.com/th/legal/terms-of-use/)
 
 [Contact Us](#)
 
