@@ -4,6 +4,8 @@
 
 ### 844-492-4247
 
+### NEW DEAL: Up to $625 Off Office Chairs || [Shop Now](https://www.xchair.com/collections/office-chairs "Office Chairs")
+
 [](https://www.xchair.com/)
 
 X-Chair
@@ -22,9 +24,9 @@ Menu
     * [All Office Chairs](https://www.xchair.com/collections/office-chairs)
     * [Office Chairs for Teams](https://www.xchair.com/pages/bulksales)
     
-    *       [![](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1 1'%3E%3C/svg%3E)
+    *       [![Woman in the office working at desk in X-tech ](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1 1'%3E%3C/svg%3E)
         
-        Up to $475 off office chairs.](https://www.xchair.com/collections/office-chairs)
+        Up to $625 Off Chairs with free ELEMAX™ on select models.](https://www.xchair.com/collections/office-chairs)
     *       [![Reef blue X-Tech chair at home office](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1 1'%3E%3C/svg%3E)
         
         Featured: X-Tech Ultimate Executive Office Chair](https://www.xchair.com/products/xtech-ultimate-executive-office-chair)
@@ -72,7 +74,7 @@ Menu
     
     *       [![](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1 1'%3E%3C/svg%3E)
         
-        25% off all accessories.](https://www.xchair.com/collections/accessories)
+        25% off all accessories.](https://www.xchair.com/products/elemax-cooling-heat-and-massage-unit)
     *       [![](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1 1'%3E%3C/svg%3E)
         
         Featured: Monitor Arms](https://www.xchair.com/collections/monitor-arms)
