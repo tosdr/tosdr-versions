@@ -45,6 +45,13 @@ Menu
 
 [Request a demo](https://voxy.com/demo)
 
+Privacy Policy
+==============
+
+* Last Revised: October 2016
+
+Browse
+
 ### Privacy Policy
 
 _Last Revised: September 2022_
