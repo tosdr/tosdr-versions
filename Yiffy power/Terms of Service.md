@@ -99,7 +99,7 @@ Latest commented posts
 
 [ash and dean (no nut november) created by drako1997](https://yiff-party.com/yiff/ash-and-dean-no-nut-november-created-by-drako1997/)
 
-0 414 1
+0 421 1
 
 November 2, 2024
 
@@ -107,25 +107,25 @@ November 2, 2024
 
 [agatha directed by kotcfacu (director)](https://yiff-party.com/yiff/agatha-directed-by-kotcfacu-director/)
 
-0 434 1
+0 446 1
 
 November 18, 2024
 
-[](https://yiff-party.com/yiff/kharauder-european-mythology-and-etc-created-by-dirty-paws-and-fridaflame/)
+[](https://yiff-party.com/yiff/affax-created-by-eihman-and-fumiko/)
 
-[kharauder (european mythology and etc) created by dirty.paws and fridaflame](https://yiff-party.com/yiff/kharauder-european-mythology-and-etc-created-by-dirty-paws-and-fridaflame/)
+[affax created by eihman and fumiko](https://yiff-party.com/yiff/affax-created-by-eihman-and-fumiko/)
 
-0 51 0
+0 35 1
+
+November 27, 2024
+
+[](https://yiff-party.com/yiff-ai-premium/loona-directed-by-furhammer-director/)
+
+[loona directed by furhammer (director)](https://yiff-party.com/yiff-ai-premium/loona-directed-by-furhammer-director/)
+
+0 34 0
 
 October 30, 2024
-
-[](https://yiff-party.com/yiff-ai-premium/toriel-directed-by-director-unholycow-2/)
-
-[toriel directed by director unholycow](https://yiff-party.com/yiff-ai-premium/toriel-directed-by-director-unholycow-2/)
-
-0 2 0
-
-November 29, 2024
 
 [Affiliation](https://yiff-party.com/yiff-party-affiliation/) / [Partner](https://yiff-party.com/website-yiff-partner/) / [DMCA](https://yiff-party.com/dmca-yiff-party-com/) / [Terms](https://yiff-party.com/terms-and-conditions/) / [Sitemap](https://yiff-party.com/sitemap/) / [Contact](https://yiff-party.com/Contact/)
 
