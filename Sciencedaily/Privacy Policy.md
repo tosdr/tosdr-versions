@@ -236,11 +236,11 @@ this week
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Space Telescopes](https://www.sciencedaily.com/news/space_time/space_telescopes/)
+[Medical Technology](https://www.sciencedaily.com/news/matter_energy/medical_technology/)
 
-[NASA](https://www.sciencedaily.com/news/space_time/nasa/)
+[Graphene](https://www.sciencedaily.com/news/matter_energy/graphene/)
 
-[Galaxies](https://www.sciencedaily.com/news/space_time/galaxies/)
+[Quantum Computing](https://www.sciencedaily.com/news/matter_energy/quantum_computing/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
