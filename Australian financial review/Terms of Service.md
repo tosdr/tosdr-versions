@@ -295,7 +295,7 @@ Advertise
 
 [![ ](https://static.ffx.io/images/$zoom_0.5968%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_1270%2C$y_1484/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/278c03f1a02720352636e954bb4b553d7209375f)](https://www.afr.com/policy/economy/like-a-gloved-fist-accc-gina-cass-gottlieb-s-supermarket-sweep-20241015-p5kibd)
 
-### [‘Like a gloved fist’: the ACCC chair’s supermarket sweep](https://www.afr.com/policy/economy/like-a-gloved-fist-accc-gina-cass-gottlieb-s-supermarket-sweep-20241015-p5kibd)
+### [Three sliding-doors moments defined ACCC boss Gina Cass-Gottlieb’s life](https://www.afr.com/policy/economy/like-a-gloved-fist-accc-gina-cass-gottlieb-s-supermarket-sweep-20241015-p5kibd)
 
 * Ronald Mizen
 
@@ -335,15 +335,15 @@ Advertise
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![Australia’s wealthiest women and those leading philanthropic foundations gathered in Canberra on Thursday to boost female giving.](https://static.ffx.io/images/$zoom_1.0369%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_343%2C$y_262/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/fe62a7adc7b192f61667748cffa2d2406d7b0581)](https://www.afr.com/wealth/people/australia-s-wealthiest-women-join-forces-to-supercharge-philanthropy-20241127-p5ktt5)
+[![Declan Sherman has been an investment banker, a fitness studio owner and a labour hire CEO, but Infragreen is where his real passion lies.](https://static.ffx.io/images/$zoom_0.379%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_694%2C$y_282/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/c0e0c94ff9d0f2aa3e8cdf53aad195fed694f8ca)](https://www.afr.com/companies/energy/billionaire-john-van-lieshout-backs-sustainability-investor-infragreen-20241129-p5kukg)
 
-### [Australia’s wealthiest women join forces to supercharge philanthropy](https://www.afr.com/wealth/people/australia-s-wealthiest-women-join-forces-to-supercharge-philanthropy-20241127-p5ktt5)
+### [Billionaire John Van Lieshout backs sustainability investor Infragreen](https://www.afr.com/companies/energy/billionaire-john-van-lieshout-backs-sustainability-investor-infragreen-20241129-p5kukg)
 
 * Yolanda Redrup
 
-* ### [One of the few remaining building groups on the ASX hits the gas](https://www.afr.com/companies/infrastructure/one-of-the-few-remaining-building-groups-on-the-asx-hits-the-gas-20241128-p5ku98)
+* ### [Australia’s wealthiest women join forces to supercharge philanthropy](https://www.afr.com/wealth/people/australia-s-wealthiest-women-join-forces-to-supercharge-philanthropy-20241127-p5ktt5)
     
-* ### [This Rich Lister has a plan to save cinema (and his business)](https://www.afr.com/life-and-luxury/arts-and-culture/this-rich-lister-has-a-plan-to-save-cinema-and-his-business-20241112-p5kq0f)
+* ### [One of the few remaining building groups on the ASX hits the gas](https://www.afr.com/companies/infrastructure/one-of-the-few-remaining-building-groups-on-the-asx-hits-the-gas-20241128-p5ku98)
     
 
 [The Australian Financial Review](https://www.afr.com/)
