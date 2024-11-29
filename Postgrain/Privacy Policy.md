@@ -411,11 +411,11 @@ _A equipe do POSTGRAIN lhe deseja uma excelente navegação!_
 
 ### Última do blog
 
-[![nicho de mercado - a imagem que ilustra o tema tem o fundo de um local público e, em foco, tem uma mulher sentada numa mesa com caneta na mão sobre um papel apoiado na mesa, olhando para a frente e sorrindo.](https://postgrain.com/wp-content/uploads/2024/11/THUMB-BLOG-Como-definir-seu-nicho-de-mercado-580x290.jpg)](https://postgrain.com/?post_type=post&p=12749)
+[![](https://postgrain.com/wp-content/uploads/2024/11/THUMB-BLOG-Aprenda-a-colocar-mensagens-automaticas-na-DM-do-Instagram-580x290.jpg)](https://postgrain.com/?post_type=post&p=12752)
 
-[Como definir seu nicho de mercado: Um guia prático para pequenas empresas alcançarem o sucesso em 2025](https://postgrain.com/?post_type=post&p=12749)
+[Tutorial: Aprenda a colocar mensagens automáticas na DM do Instagram!](https://postgrain.com/?post_type=post&p=12752)
 
-[Leia mais](https://postgrain.com/?post_type=post&p=12749)
+[Leia mais](https://postgrain.com/?post_type=post&p=12752)
 
 Ilustração de um dos personagens do Postgrain
 
