@@ -20,16 +20,16 @@ Friday, November 29 2024
 
 Latest
 
-* [Zello asks users to reset passwords after security incident](https://digitpatrox.com/zello-asks-users-to-reset-passwords-after-security-incident/)
-* [Philips Hue’s Festavia string lights are up to $100 off just in time for the holidays](https://digitpatrox.com/philips-hues-festavia-string-lights-are-up-to-100-off-just-in-time-for-the-holidays/)
-* [Grab Your Dream OnePlus Devices With These Black Friday Deals](https://digitpatrox.com/grab-your-dream-oneplus-devices-with-these-black-friday-deals/)
-* [What does a smart campus look like and how far away is it from being a reality?](https://digitpatrox.com/what-does-a-smart-campus-look-like-and-how-far-away-is-it-from-being-a-reality/)
-* [Intel’s $7.9B subsidy deal comes at a high price for the chipmaker – Computerworld](https://digitpatrox.com/intels-7-9b-subsidy-deal-comes-at-a-high-price-for-the-chipmaker-computerworld/)
-* [This Amazon Kindle Paperwhite Is at Its Lowest Price Ever for Black Friday](https://digitpatrox.com/this-amazon-kindle-paperwhite-is-at-its-lowest-price-ever-for-black-friday/)
-* [Ninja Luxe Café Espresso Machine and Coffee Maker Review](https://digitpatrox.com/ninja-luxe-cafe-espresso-machine-and-coffee-maker-review/)
-* [How to Protect Your Data on Black Friday](https://digitpatrox.com/how-to-protect-your-data-on-black-friday/)
-* [Does AI level the playing field for small businesses?](https://digitpatrox.com/does-ai-level-the-playing-field-for-small-businesses/)
-* [How To Insert Em Dash In Word: 4 Easy-to-Follow Steps](https://digitpatrox.com/how-to-insert-em-dash-in-word-4-easy-to-follow-steps/)
+* [Google Changes Search Features to Appease EU Regulators](https://digitpatrox.com/google-changes-search-features-to-appease-eu-regulators/)
+* [New on Prime Video in December 2024 — all the new shows and movies to watch](https://digitpatrox.com/new-on-prime-video-in-december-2024-all-the-new-shows-and-movies-to-watch/)
+* [Researchers discover first UEFI bootkit malware for Linux](https://digitpatrox.com/researchers-discover-first-uefi-bootkit-malware-for-linux/)
+* [Palworld’s new island will be its ‘largest’ and ‘harshest’](https://digitpatrox.com/palworlds-new-island-will-be-its-largest-and-harshest/)
+* [Spy x Family Chapter 108 Gets New Release Date After a Sudden Hiatus](https://digitpatrox.com/spy-x-family-chapter-108-gets-new-release-date-after-a-sudden-hiatus/)
+* [What role will the cloud play in the AI era?](https://digitpatrox.com/what-role-will-the-cloud-play-in-the-ai-era/)
+* [The Marshall Emberton II Speakers Are $70 Off for Black Friday](https://digitpatrox.com/the-marshall-emberton-ii-speakers-are-70-off-for-black-friday/)
+* [Should You Pack Lunchables for Your Kid’s School Lunch?](https://digitpatrox.com/should-you-pack-lunchables-for-your-kids-school-lunch/)
+* [Why Is My Printer Offline? (and How to Get It Online)](https://digitpatrox.com/why-is-my-printer-offline-and-how-to-get-it-online/)
+* [How AI and digital transformation are game changers for the finance industry](https://digitpatrox.com/how-ai-and-digital-transformation-are-game-changers-for-the-finance-industry/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://www.bleepstatic.com/content/hl-images/2020/08/03/zello-header.jpg)](https://digitpatrox.com/zello-asks-users-to-reset-passwords-after-security-incident/)
+* [![](https://assets.techrepublic.com/uploads/2024/11/tr_20241127-google-changes-search-eu-dma.jpg)](https://digitpatrox.com/google-changes-search-features-to-appease-eu-regulators/)
     
-    [Zello asks users to reset passwords after security incident](https://digitpatrox.com/zello-asks-users-to-reset-passwords-after-security-incident/)
+    [Google Changes Search Features to Appease EU Regulators](https://digitpatrox.com/google-changes-search-features-to-appease-eu-regulators/)
     
-    14 minutes ago
+    14 seconds ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/QKM75Kdn0LfTPx0LYPbmu7crCuU=/0x0:3525x2350/1200x628/filters:focal(1763x1175:1764x1176)/cdn.vox-cdn.com/uploads/chorus_asset/file/25762360/Philips_Hue_s_Festavia_string_lights_lifestyle_image.jpg)](https://digitpatrox.com/philips-hues-festavia-string-lights-are-up-to-100-off-just-in-time-for-the-holidays/)
+* [![](https://cdn.mos.cms.futurecdn.net/uPMbEdDZTHxXtRqvbrAofV-1200-80.jpg)](https://digitpatrox.com/new-on-prime-video-in-december-2024-all-the-new-shows-and-movies-to-watch/)
     
-    [Philips Hue’s Festavia string lights are up to $100 off just in time for the holidays](https://digitpatrox.com/philips-hues-festavia-string-lights-are-up-to-100-off-just-in-time-for-the-holidays/)
+    [New on Prime Video in December 2024 — all the new shows and movies to watch](https://digitpatrox.com/new-on-prime-video-in-december-2024-all-the-new-shows-and-movies-to-watch/)
     
-    31 minutes ago
+    4 minutes ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/11/OnePlus-Black-Friday-Deals.jpg)](https://digitpatrox.com/grab-your-dream-oneplus-devices-with-these-black-friday-deals/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/11/27/Linux-bootkit.jpg)](https://digitpatrox.com/researchers-discover-first-uefi-bootkit-malware-for-linux/)
     
-    [Grab Your Dream OnePlus Devices With These Black Friday Deals](https://digitpatrox.com/grab-your-dream-oneplus-devices-with-these-black-friday-deals/)
+    [Researchers discover first UEFI bootkit malware for Linux](https://digitpatrox.com/researchers-discover-first-uefi-bootkit-malware-for-linux/)
     
-    47 minutes ago
+    1 hour ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/xNowLsodDbb8km9ZFTgF5N-1200-80.jpg)](https://digitpatrox.com/what-does-a-smart-campus-look-like-and-how-far-away-is-it-from-being-a-reality/)
+* [![](https://cdn.vox-cdn.com/thumbor/9EW-dpe2XfQGZzWNnwTEK1HS0lc=/0x0:1920x1080/1200x628/filters:focal(352x616:353x617)/cdn.vox-cdn.com/uploads/chorus_asset/file/25763260/GdXsypzaoAMEPf0.jpg)](https://digitpatrox.com/palworlds-new-island-will-be-its-largest-and-harshest/)
     
-    [What does a smart campus look like and how far away is it from being a reality?](https://digitpatrox.com/what-does-a-smart-campus-look-like-and-how-far-away-is-it-from-being-a-reality/)
+    [Palworld’s new island will be its ‘largest’ and ‘harshest’](https://digitpatrox.com/palworlds-new-island-will-be-its-largest-and-harshest/)
     
     2 hours ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3614437-0-41377300-1732786746-IDG-Germany-Intel-September-News.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/intels-7-9b-subsidy-deal-comes-at-a-high-price-for-the-chipmaker-computerworld/)
+* [![](https://beebom.com/wp-content/uploads/2024/11/spy-x-family-chapter-108-delayed.jpg)](https://digitpatrox.com/spy-x-family-chapter-108-gets-new-release-date-after-a-sudden-hiatus/)
     
-    [Intel’s $7.9B subsidy deal comes at a high price for the chipmaker – Computerworld](https://digitpatrox.com/intels-7-9b-subsidy-deal-comes-at-a-high-price-for-the-chipmaker-computerworld/)
+    [Spy x Family Chapter 108 Gets New Release Date After a Sudden Hiatus](https://digitpatrox.com/spy-x-family-chapter-108-gets-new-release-date-after-a-sudden-hiatus/)
     
-    3 hours ago
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [14 minutes ago
+* [14 seconds ago
     
-    ### Zello asks users to reset passwords after security incident](https://digitpatrox.com/zello-asks-users-to-reset-passwords-after-security-incident/)
-* [31 minutes ago
+    ### Google Changes Search Features to Appease EU Regulators](https://digitpatrox.com/google-changes-search-features-to-appease-eu-regulators/)
+* [4 minutes ago
     
-    ### Philips Hue’s Festavia string lights are up to $100 off just in time for the holidays](https://digitpatrox.com/philips-hues-festavia-string-lights-are-up-to-100-off-just-in-time-for-the-holidays/)
-* [47 minutes ago
+    ### New on Prime Video in December 2024 — all the new shows and movies to watch](https://digitpatrox.com/new-on-prime-video-in-december-2024-all-the-new-shows-and-movies-to-watch/)
+* [1 hour ago
     
-    ### Grab Your Dream OnePlus Devices With These Black Friday Deals](https://digitpatrox.com/grab-your-dream-oneplus-devices-with-these-black-friday-deals/)
+    ### Researchers discover first UEFI bootkit malware for Linux](https://digitpatrox.com/researchers-discover-first-uefi-bootkit-malware-for-linux/)
 
 Most Popular Topics
 
-* [October 23, 2024
+* [August 28, 2024
     
-    ### I’ve been testing earbuds for all my life — here’s the 10 best early Black Friday wireless earbuds deals right now](https://digitpatrox.com/ive-been-testing-earbuds-for-all-my-life-heres-the-10-best-early-black-friday-wireless-earbuds-deals-right-now/)
-* [August 26, 2024
+    ### Walmart Great Value Apple Juice Recalled for High Arsenic Levels](https://digitpatrox.com/walmart-great-value-apple-juice-recalled-for-high-arsenic-levels/)
+* [August 30, 2024
     
-    ### Dell PowerEdge T360 review | ITPro](https://digitpatrox.com/dell-poweredge-t360-review-itpro/)
-* [October 28, 2024
+    ### 4 Things People Get Wrong About Head Lice](https://digitpatrox.com/4-things-people-get-wrong-about-head-lice/)
+* [3 weeks ago
     
-    ### How to take the Apple hearing test](https://digitpatrox.com/how-to-take-the-apple-hearing-test/)
+    ### How to enable Ultimate Performance power mode on Windows 11, 10](https://digitpatrox.com/how-to-enable-ultimate-performance-power-mode-on-windows-11-10/)
 
 Last Modified Topics
 
-* [3 hours ago
-    
-    ### Ninja Luxe Café Espresso Machine and Coffee Maker Review](https://digitpatrox.com/ninja-luxe-cafe-espresso-machine-and-coffee-maker-review/)
-* [3 hours ago
-    
-    ### How to Protect Your Data on Black Friday](https://digitpatrox.com/how-to-protect-your-data-on-black-friday/)
 * [4 hours ago
     
-    ### Does AI level the playing field for small businesses?](https://digitpatrox.com/does-ai-level-the-playing-field-for-small-businesses/)
+    ### The Marshall Emberton II Speakers Are $70 Off for Black Friday](https://digitpatrox.com/the-marshall-emberton-ii-speakers-are-70-off-for-black-friday/)
+* [4 hours ago
+    
+    ### Should You Pack Lunchables for Your Kid’s School Lunch?](https://digitpatrox.com/should-you-pack-lunchables-for-your-kids-school-lunch/)
+* [4 hours ago
+    
+    ### Why Is My Printer Offline? (and How to Get It Online)](https://digitpatrox.com/why-is-my-printer-offline-and-how-to-get-it-online/)
 
 Most Viewed Topics
 
 * [August 13, 2024
     
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
-* [August 13, 2024
-    
     ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
+* [August 12, 2024
+    
+    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
 * [October 2, 2024
     
     ### The best noise-canceling headphones for 2024](https://digitpatrox.com/the-best-noise-canceling-headphones-for-2024/)
