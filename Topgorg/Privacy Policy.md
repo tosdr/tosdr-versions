@@ -9,6 +9,12 @@ Privacy Policy
 
 Please take a moment to read our privacy policy
 
+**🚨 Black Friday Promo: Pay 50% less Credits for all Premium and get 10% MORE CREDITS on ANY Purchase! 🚨**  
+Promo is ending in 2 days, 6 hours, and 45 minutes.. Don't miss out on this exclusive deal—stock up on credits now.  
+👉 [Click here to buy credits](https://topg.org/buy_credits) and claim your bonus before time runs out!
+
+\-
+
 TOPG is owned by SPREADBEYOND LTD and is registered and approved by ANSPDCP (National Supervisory Authority for Personal Data Processing) under no. registration 32985. We have also made all required changes to be in accordance with the EU GDPR Regulations.  
   
 **Information note on personal data protection**  
