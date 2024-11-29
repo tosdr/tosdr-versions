@@ -3,9 +3,7 @@ Our Showrooms
 
 ### Richmond
 
-Open Today:8:00am-5:00pm
-
-Mon - Fri:8:00am-5:00pm  
+Mon - Fri:By Appointment Only  
 Sat / Sun:Closed
 
 Telephone:[1-844-821-0075](tel:1-844-821-0075)  
@@ -19,9 +17,7 @@ Fax:604-821-0049
 
 ### Surrey
 
-Open Today:8:00am-5:00pm
-
-Mon - Fri:8:00am-5:00pm  
+Mon - Fri:By Appointment Only  
 Sat / Sun:Closed
 
 Telephone:[1-844-821-0075](tel:1-844-821-0075)  
@@ -35,9 +31,7 @@ Fax:604-542-0184
 
 ### Victoria
 
-Open Today:8:00am-5:00pm
-
-Mon - Fri:8:00am-5:00pm  
+Mon - Fri:By Appointment Only  
 Sat / Sun:Closed
 
 Telephone:[1-844-821-0075](tel:1-844-821-0075)  
@@ -51,9 +45,7 @@ Fax:250-386-0049
 
 ### Nanaimo
 
-Open Today:8:00am-5:00pm
-
-Mon - Fri:8:00am-5:00pm  
+Mon - Fri:By Appointment Only  
 Sat / Sun:Closed
 
 Telephone:[1-844-821-0075](tel:1-844-821-0075)  
@@ -67,9 +59,7 @@ Fax:250-591-0055
 
 ### Kelowna
 
-Open Today:8:00am-5:00pm
-
-Mon - Fri:8:00am-5:00pm  
+Mon - Fri:By Appointment Only  
 Sat / Sun:Closed
 
 Telephone:[1-844-821-0075](tel:1-844-821-0075)  
@@ -83,9 +73,7 @@ Fax:236-420-6881
 
 ### North Vancouver
 
-Open Today:8:00am-5:00pm
-
-Mon - Fri:8:00am-5:00pm  
+Mon - Fri:By Appointment Only  
 Sat / Sun:Closed
 
 Telephone:[1-844-821-0075](tel:1-844-821-0075)  
