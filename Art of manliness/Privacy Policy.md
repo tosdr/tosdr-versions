@@ -649,6 +649,18 @@ I agree to the [privacy policy](#) terms.
 
 ![podcast](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-2.jpg)
 
+[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/character/etiquette/podcast-1042-flying-hosting-regifting-and-more-all-your-holiday-etiquette-questions-answered/)
+
+[Podcast #1,042
+
+###### Flying, Hosting, Regifting, and More — All Your Holiday Etiquette Questions Answered](https://www.artofmanliness.com/character/etiquette/podcast-1042-flying-hosting-regifting-and-more-all-your-holiday-etiquette-questions-answered/)
+
+[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/career-wealth/wealth/podcast-1041-rich-mind-vs-poor-mind-a-psychologists-guide-to-building-wealth/)
+
+[Podcast #1,041
+
+###### Rich Mind vs. Poor Mind — A Psychologist’s Guide to Building Wealth](https://www.artofmanliness.com/career-wealth/wealth/podcast-1041-rich-mind-vs-poor-mind-a-psychologists-guide-to-building-wealth/)
+
 [![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/health-fitness/fitness/podcast-1040-tribal-runners-weekend-warriors-and-our-changing-relationship-to-endurance-sports/)
 
 [Podcast #1,040
@@ -660,18 +672,6 @@ I agree to the [privacy policy](#) terms.
 [Podcast #1,039
 
 ###### What’s Behind the Rise of Parent-Child Estrangement?](https://www.artofmanliness.com/people/family/podcast-1039-whats-behind-the-rise-of-parent-child-estrangement/)
-
-[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/living/food-drink/podcast-1038-the-art-and-spirituality-of-bread/)
-
-[Podcast #1,038
-
-###### The Art and Spirituality of Bread](https://www.artofmanliness.com/living/food-drink/podcast-1038-the-art-and-spirituality-of-bread/)
-
-[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/character/behavior/podcast-1037-an-undercover-cops-tips-on-how-to-influence-others-and-navigate-life/)
-
-[Podcast #1,037
-
-###### An Undercover Cop’s Tips on How to Influence Others and Navigate Life](https://www.artofmanliness.com/character/behavior/podcast-1037-an-undercover-cops-tips-on-how-to-influence-others-and-navigate-life/)
 
 [View all](https://www.artofmanliness.com/podcast/)
 
