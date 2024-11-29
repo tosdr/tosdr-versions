@@ -40,7 +40,7 @@ Search for product
     
     Dallas
     
-    Opens at 8AM
+    Open until 10PM
     
     ![get store info](https://60a99bedadae98078522-a9b6cded92292ef3bace063619038eb1.ssl.cf2.rackcdn.com/chevron-downWhite.svg)
     
@@ -88,7 +88,7 @@ Search for product
         
         Questions? Text or call
         
-        Closed
+        Open Now
         
         Mon - Tue 9 to 9, Wed 10 to 9, Thu Closed, Fri 8 to 10, Sat 9 to 9, Sun 10 to 7
         
