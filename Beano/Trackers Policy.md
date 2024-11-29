@@ -2,7 +2,7 @@
 
 [Subscribe to Beano Comic
 
-![Beano Comic](https://s3.eu-west-2.amazonaws.com/www.beano.com-assets-test/images/mag-cover.png)](https://www.beano.com/external-link-warning-shop?verify=14b187e229&to=https%3A%2F%2Fshop.beano.com%2Fbeano-comic-subscription%3Futm_source%3Dbeano%26utm_campaign%3DSubscribePushButton%26utm_medium%3Dreferral)
+![Beano Comic](https://s3.eu-west-2.amazonaws.com/www.beano.com-assets-test/images/mag-cover.png)](https://www.beano.com/external-link-warning-shop?verify=680cdb0201&to=https%3A%2F%2Fshop.beano.com%2Fbeano-comic-subscription%3Futm_source%3Dbeano%26utm_campaign%3DSubscribePushButton%26utm_medium%3Dreferral)
 
 Open Search
 
@@ -83,8 +83,8 @@ Open Search
     * [Meet Bananaman](https://www.beano.com/comic/bananaman)
     * [Meet Minnie](https://www.beano.com/comic/minnie)
     * [Meet Roger the Dodger](https://www.beano.com/comic/roger-the-dodger)
-    * [Boomics](https://www.beano.com/comic/boomics)
     * [Sneak Peek](https://www.beano.com/comic/sneak-peek)
+    * [Boomics](https://www.beano.com/comic/boomics)
     
 * [Pranks](https://www.beano.com/pranks)
     
@@ -98,11 +98,11 @@ Open Search
 
 [Subscribe to Beano Comic
 
-![Beano Comic](https://s3.eu-west-2.amazonaws.com/www.beano.com-assets-test/images/mag-cover.png)](https://www.beano.com/external-link-warning-shop?verify=14b187e229&to=https%3A%2F%2Fshop.beano.com%2Fbeano-comic-subscription%3Futm_source%3Dbeano%26utm_campaign%3DSubscribePushButton%26utm_medium%3Dreferral)
+![Beano Comic](https://s3.eu-west-2.amazonaws.com/www.beano.com-assets-test/images/mag-cover.png)](https://www.beano.com/external-link-warning-shop?verify=680cdb0201&to=https%3A%2F%2Fshop.beano.com%2Fbeano-comic-subscription%3Futm_source%3Dbeano%26utm_campaign%3DSubscribePushButton%26utm_medium%3Dreferral)
 
 [Subscribe to our Beano comic! Click Here
 
-![Beano Comic](https://s3.eu-west-2.amazonaws.com/www.beano.com-assets-test/images/mag-cover.png)](https://www.beano.com/external-link-warning-shop?verify=14b187e229&to=https%3A%2F%2Fshop.beano.com%2Fbeano-comic-subscription%3Futm_source%3Dbeano%26utm_campaign%3DSubscribePushButton%26utm_medium%3Dreferral)
+![Beano Comic](https://s3.eu-west-2.amazonaws.com/www.beano.com-assets-test/images/mag-cover.png)](https://www.beano.com/external-link-warning-shop?verify=680cdb0201&to=https%3A%2F%2Fshop.beano.com%2Fbeano-comic-subscription%3Futm_source%3Dbeano%26utm_campaign%3DSubscribePushButton%26utm_medium%3Dreferral)
 
 [![Beano](https://www.beano.com/app/themes/beano/assets/images/logo.svg)](https://www.beano.com/ "Beano")
 
@@ -193,8 +193,8 @@ Open Search
     * [Meet Bananaman](https://www.beano.com/comic/bananaman)
     * [Meet Minnie](https://www.beano.com/comic/minnie)
     * [Meet Roger the Dodger](https://www.beano.com/comic/roger-the-dodger)
-    * [Boomics](https://www.beano.com/comic/boomics)
     * [Sneak Peek](https://www.beano.com/comic/sneak-peek)
+    * [Boomics](https://www.beano.com/comic/boomics)
     
 * [Pranks](https://www.beano.com/pranks)
     
@@ -206,9 +206,7 @@ Open Search
     * [Christmas pranks](https://www.beano.com/pranks/christmas-pranks)
     
 
-[Want more Beano? Subscribe 
-
-![Beano Comic](https://s3.eu-west-2.amazonaws.com/www.beano.com-assets-test/images/mag-cover-2.png)](https://www.beano.com/external-link-warning-shop?verify=14b187e229&to=https%3A%2F%2Fshop.beano.com%2Fbeano-comic-subscription%3Futm_source%3Dbeano%26utm_campaign%3DSubscribePushButton%26utm_medium%3Dreferral) 
+[Want more Beano? Subscribe ![Beano Comic](https://s3.eu-west-2.amazonaws.com/www.beano.com-assets-test/images/mag-cover-2.png)](https://www.beano.com/external-link-warning-shop?verify=680cdb0201&to=https%3A%2F%2Fshop.beano.com%2Fbeano-comic-subscription%3Futm_source%3Dbeano%26utm_campaign%3DSubscribePushButton%26utm_medium%3Dreferral) 
 
 * [Home](https://www.beano.com/)
 * [Quizzes](https://www.beano.com/quiz)
@@ -331,7 +329,7 @@ Most browsers allow you to refuse to accept cookies. For example:
 
 ### Control Google Analytics Cookies
 
-A lot of sites use special types of cookies from Google Analytics to track the traffic on a site and what users do on the site. You can stop being tracked by ALL Google Analytics cookies across ALL sites on your computer or mobile device by visiting [https://tools.google.com/dlpage/gaoptout](https://www.beano.com/external-link-warning?verify=a1f0fc4806&to=https%3A%2F%2Ftools.google.com%2Fdlpage%2Fgaoptout).
+A lot of sites use special types of cookies from Google Analytics to track the traffic on a site and what users do on the site. You can stop being tracked by ALL Google Analytics cookies across ALL sites on your computer or mobile device by visiting [https://tools.google.com/dlpage/gaoptout](https://www.beano.com/external-link-warning?verify=6feda3e6e1&to=https%3A%2F%2Ftools.google.com%2Fdlpage%2Fgaoptout).
 
 ### One last thing…
 
@@ -341,17 +339,37 @@ Whoopee cushion...
 
  
 
-* [Beano Shop](https://www.beano.com/external-link-warning-shop?verify=c16334171e&to=https%3A%2F%2Fshop.beano.com%2F%3Futm_source%3Dbeano%26utm_campaign%3DCP%26utm_medium%3Dreferral)
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+* [Beano Shop](https://www.beano.com/external-link-warning-shop?verify=31b6a70a3c&to=https%3A%2F%2Fshop.beano.com%2F%3Futm_source%3Dbeano%26utm_campaign%3DCP%26utm_medium%3Dreferral)
 * [Subscription Offers](https://www.beano.com/subscribe)
 * [Parent Zone](https://www.beano.com/parent-zone)
 
-[![KidAware Certified](https://www.beano.com/app/themes/beano/assets/images/footer/footer-kidawarelogo.png)](https://www.beano.com/external-link-warning?verify=56e6e5e93c&to=https%3A%2F%2Fwww.superawesome.com%2Fkidaware%2F)
+[![KidAware Certified](https://www.beano.com/app/themes/beano/assets/images/footer/footer-kidawarelogo.png)](https://www.beano.com/external-link-warning?verify=8c00952fb1&to=https%3A%2F%2Fwww.superawesome.com%2Fkidaware%2F)
 
-[![COPPA - Safe Harbor Certification (Kids' Privacy Assured Privo)](https://www.beano.com/app/themes/beano/assets/images/footer/coppa.png)](https://www.beano.com/external-link-warning?verify=7bb68745e2&to=https%3A%2F%2Fcert.privo.com%2F%23%2Fcompanies%2Fbeano_studios)
+[![COPPA - Safe Harbor Certification (Kids' Privacy Assured Privo)](https://www.beano.com/app/themes/beano/assets/images/footer/coppa.png)](https://www.beano.com/external-link-warning?verify=a4f8ed2ea8&to=https%3A%2F%2Fcert.privo.com%2F%23%2Fcompanies%2Fbeano_studios)
 
-[![GDPR - General Data Protection (Kids' Privacy Assured Privo)](https://www.beano.com/app/themes/beano/assets/images/footer/gdpr.png)](https://www.beano.com/external-link-warning?verify=7bb68745e2&to=https%3A%2F%2Fcert.privo.com%2F%23%2Fcompanies%2Fbeano_studios)
+[![GDPR - General Data Protection (Kids' Privacy Assured Privo)](https://www.beano.com/app/themes/beano/assets/images/footer/gdpr.png)](https://www.beano.com/external-link-warning?verify=a4f8ed2ea8&to=https%3A%2F%2Fcert.privo.com%2F%23%2Fcompanies%2Fbeano_studios)
 
-[![Kids' Privacy Assured Privo](https://www.beano.com/app/themes/beano/assets/images/footer/seal.png)](https://www.beano.com/external-link-warning?verify=7bb68745e2&to=https%3A%2F%2Fcert.privo.com%2F%23%2Fcompanies%2Fbeano_studios)
+[![Kids' Privacy Assured Privo](https://www.beano.com/app/themes/beano/assets/images/footer/seal.png)](https://www.beano.com/external-link-warning?verify=a4f8ed2ea8&to=https%3A%2F%2Fcert.privo.com%2F%23%2Fcompanies%2Fbeano_studios)
 
 * [Home](https://www.beano.com/)
 * [Quizzes](https://www.beano.com/quiz)
@@ -366,7 +384,7 @@ Whoopee cushion...
 * [Contact Us](https://www.beano.com/contact-us)
 * [Cookie Policy](https://www.beano.com/cookie-policy)
 * [Terms and Conditions](https://www.beano.com/terms-and-conditions)
-* [Careers](https://www.beano.com/external-link-warning?verify=30b3a4d71a&to=https%3A%2F%2Fwww.beanostudios.com%2Fcareers)
+* [Careers](https://www.beano.com/external-link-warning?verify=9418b4ad91&to=https%3A%2F%2Fwww.beanostudios.com%2Fcareers)
 * [Privacy Policy](https://www.beano.com/privacy-policy)
 * [Update Cookie Preferences](https://www.beano.com/)
 
