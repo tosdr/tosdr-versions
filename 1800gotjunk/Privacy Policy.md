@@ -629,6 +629,14 @@ John Ricci Calgary 22/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Great customer service and speedy removal - highly recommend!
+
+Holly Shaw Calgary 21/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Excellent service
 
 Wade Stewart Calgary 21/11/2024
@@ -640,14 +648,6 @@ Wade Stewart Calgary 21/11/2024
 Great work gave me a good deal.
 
 rens harkema Calgary 21/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Great customer service and speedy removal - highly recommend!
-
-Holly Shaw Calgary 21/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -941,17 +941,17 @@ Ty H Wisconsin 23/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Shoutout to Terrell and Mason. They worked quickly and were very professional.
+Nathan and Donald did a great job - careful and quick.
 
-Nick Badillo Austin 23/11/2024
+Lisa Metzcar Cincinnati 23/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Nathan and Donald did a great job - careful and quick.
+Shoutout to Terrell and Mason. They worked quickly and were very professional.
 
-Lisa Metzcar Cincinnati 23/11/2024
+Nick Badillo Austin 23/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -965,17 +965,17 @@ samantha kuhn Wisconsin 23/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Luiz and David did amazing. Quick & easy from start to finish. Same day service was great
+Zach and Paris were very professional and helped get our junk moved fast!
 
-James Hall Austin 23/11/2024
+Logan Cowdrey Cincinnati 23/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Zach and Paris were very professional and helped get our junk moved fast!
+Luiz and David did amazing. Quick & easy from start to finish. Same day service was great
 
-Logan Cowdrey Cincinnati 23/11/2024
+James Hall Austin 23/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
