@@ -1,4 +1,4 @@
-[The Celestial Cyber Weekend Sale is here! Unlock Cosmic Savings of up to 50% off on all reports!](https://www.horoscope.com/us/store.horoscope.com/?utm_source=direct&utm_medium=ribbon&utm_campaign=horo-celestial-sale-2025) [The Celestial Cyber Weekend Sale is here! Unlock Cosmic Savings of up to 50% off on all reports!](https://www.horoscope.com/us/store.horoscope.com/?utm_source=direct&utm_medium=ribbon&utm_campaign=horo-celestial-sale-2025)
+[The Celestial Cyber Weekend Sale is here! Use code **Cosmic50** to unlock Cosmic Savings of up to 50% off on all reports!](http://store.horoscope.com/?utm_source=direct&utm_medium=ribbon&utm_campaign=horo-celestial-sale-2025) [The Celestial Cyber Weekend Sale is here! Use code **Cosmic50** to unlock Cosmic Savings of up to 50% off on all reports!](http://store.horoscope.com/?utm_source=direct&utm_medium=ribbon&utm_campaign=horo-celestial-sale-2025)
 
 [](javascript:void(0);)[![horoscope.com](/images-US/horoscope-logo.svg)](https://www.horoscope.com/us/index.aspx)
 
