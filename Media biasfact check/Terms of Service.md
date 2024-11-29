@@ -147,6 +147,18 @@ No related posts.
 
 #### Recently Added Sources or Pages
 
+* [Bradford Era – Bias and Credibility](https://mediabiasfactcheck.com/bradford-era-bias/)
+    
+    November 29, 2024
+    
+* [Blue Mountains Gazette – Bias and Credibility](https://mediabiasfactcheck.com/blue-mountains-gazette-bias/)
+    
+    November 29, 2024
+    
+* [Louth Leader – Bias and Credibility](https://mediabiasfactcheck.com/louth-leader-bias/)
+    
+    November 29, 2024
+    
 * [Good Authority – Bias and Credibility](https://mediabiasfactcheck.com/good-authority-bias-and-credibility/)
     
     November 29, 2024
@@ -167,22 +179,18 @@ No related posts.
     
     November 28, 2024
     
-* [The Critic – Bias and Credibility](https://mediabiasfactcheck.com/the-critic-bias-and-credibility/)
-    
-    November 28, 2024
-    
-* [The Defense Post – Bias and Credibility](https://mediabiasfactcheck.com/the-defense-post-bias-and-credibility/)
-    
-    November 28, 2024
-    
-* [Sveriges Television (SVT) – Bias and Credibility](https://mediabiasfactcheck.com/sveriges-television-svt-bias-and-credibility/)
-    
-    November 27, 2024
-    
 
 #### Recently Updated Pages
 
 * [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - November 29, 2024
+    
+* [Bradford Era – Bias and Credibility](https://mediabiasfactcheck.com/bradford-era-bias/ "View Bradford Era – Bias and Credibility") - November 29, 2024
+    
+* [Left-Center Bias](https://mediabiasfactcheck.com/leftcenter/ "View Left-Center Bias") - November 29, 2024
+    
+* [Blue Mountains Gazette – Bias and Credibility](https://mediabiasfactcheck.com/blue-mountains-gazette-bias/ "View Blue Mountains Gazette – Bias and Credibility") - November 29, 2024
+    
+* [Louth Leader – Bias and Credibility](https://mediabiasfactcheck.com/louth-leader-bias/ "View Louth Leader – Bias and Credibility") - November 29, 2024
     
 * [Good Authority – Bias and Credibility](https://mediabiasfactcheck.com/good-authority-bias-and-credibility/ "View Good Authority – Bias and Credibility") - November 29, 2024
     
@@ -194,21 +202,13 @@ No related posts.
     
 * [The Burning Platform – Bias and Credibility](https://mediabiasfactcheck.com/the-burning-platform-bias-and-credibility/ "View The Burning Platform – Bias and Credibility") - November 28, 2024
     
-* [Left-Center Bias](https://mediabiasfactcheck.com/leftcenter/ "View Left-Center Bias") - November 28, 2024
-    
-* [The Cool Down – Bias and Credibility](https://mediabiasfactcheck.com/the-cool-down-bias-and-credibility/ "View The Cool Down – Bias and Credibility") - November 28, 2024
-    
-* [Daily Upside – Bias and Credibility](https://mediabiasfactcheck.com/daily-upside-bias-and-credibility/ "View Daily Upside – Bias and Credibility") - November 28, 2024
-    
-* [Right Bias](https://mediabiasfactcheck.com/right/ "View Right Bias") - November 28, 2024
-    
 
 #### Today’s Top Page Views
 
 * [Media Bias/Fact Check News](https://mediabiasfactcheck.com/)
 * [Least Biased](https://mediabiasfactcheck.com/center/)
-* [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
 * [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
+* [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
 * [MBFC's Daily Vetted Fact Checks for 11/28/2024](https://mediabiasfactcheck.com/2024/11/28/mbfcs-daily-vetted-fact-checks-for-11-28-2024/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
 * [The Guardian - Bias and Credibility](https://mediabiasfactcheck.com/the-guardian/)
