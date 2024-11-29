@@ -9,6 +9,7 @@ Browse by category[* Addons](https://blendermarket.com/categories/addons)[* Mode
 * [View All Products](https://blendermarket.com/products)
 * [Popular Items](https://blendermarket.com/products?sort_sales=desc)
 * [New Arrivals](https://blendermarket.com/products?sort_date=desc)
+* [On Sale!](https://blendermarket.com/products?on_sale=true)
 
 [Blender Market
 
@@ -30,6 +31,7 @@ Browse by category[* Addons](https://blendermarket.com/categories/addons)[* Mode
 * [View All Products](https://blendermarket.com/products)
 * [Popular Items](https://blendermarket.com/products?sort_sales=desc)
 * [New Arrivals](https://blendermarket.com/products?sort_date=desc)
+* [On Sale!](https://blendermarket.com/products?on_sale=true)
 
 X
 
