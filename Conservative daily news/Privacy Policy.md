@@ -130,6 +130,18 @@ Orange = One-Time Donations
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/02/Betsy-McCaughey-feat-220x150.png)](https://www.conservativedailynews.com/2024/11/disrupting-the-health-agencies-will-save-american-lives/)
+    
+    [Disrupting the Health Agencies Will Save American Lives](https://www.conservativedailynews.com/2024/11/disrupting-the-health-agencies-will-save-american-lives/)
+    
+    November 29, 2024
+    
+* [![Kamala's Support republicans](https://www.conservativedailynews.com/wp-content/uploads/2024/11/stg112924dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/kamalas-supporters/)
+    
+    [Kamala’s Supporters](https://www.conservativedailynews.com/2024/11/kamalas-supporters/)
+    
+    November 29, 2024
+    
 * [![Military woke](https://www.conservativedailynews.com/wp-content/uploads/2023/07/mrz071323dAPR.jpg)](https://www.conservativedailynews.com/2024/11/the-inequity-of-the-pursuit-of-equity-in-the-military-over-preparedness-is-at-best-dereliction-of-duty/)
     
     [The Inequity of the Pursuit of Equity in the military over preparedness is at best dereliction of duty](https://www.conservativedailynews.com/2024/11/the-inequity-of-the-pursuit-of-equity-in-the-military-over-preparedness-is-at-best-dereliction-of-duty/)
@@ -163,18 +175,6 @@ Recent Posts
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/04-new-tg-day-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/11/turkey-day-2/)
     
     [Turkey Day](https://www.conservativedailynews.com/2024/11/turkey-day-2/)
-    
-    November 28, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/Ben-Shapiro-feat-220x150-1.jpg)](https://www.conservativedailynews.com/2024/11/a-world-of-leverage/)
-    
-    [A World of Leverage](https://www.conservativedailynews.com/2024/11/a-world-of-leverage/)
-    
-    November 28, 2024
-    
-* [![Thanksgiving eat mor turkee cows](https://www.conservativedailynews.com/wp-content/uploads/2024/11/stg112824dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/turkey-day/)
-    
-    [Turkey Day](https://www.conservativedailynews.com/2024/11/turkey-day/)
     
     November 28, 2024
     
