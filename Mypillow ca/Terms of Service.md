@@ -103,27 +103,27 @@ Apply
 
 [](https://www.mypillow.ca/mystore-general-redirect)
 
-[](https://www.mypillow.com/bath)
-
-[](https://www.mypillow.com/bedding)
-
-[](https://www.mypillow.com/slipper-specials)
-
-[](https://www.mypillow.com/mymattress-topper)
-
 [](https://www.mypillow.com/the-classic-collection)
+
+[](https://www.mypillow.com/all-new-mypillow-2-0-pick-your-size-goanywhere-pillow-medium-loft-1)
+
+[](https://www.mypillow.com/giza-premium-extravaganza)
+
+[](https://www.mypillow.com/accessory-pillows)
+
+[](https://www.mypillow.com/bath)
 
 [](https://www.mypillow.com/bath/kitchen-towels)
 
-[](https://www.mypillow.com/bedding/blankets)
+[](https://www.mypillow.com/bath/mypillow-bath-robes)
+
+[](https://www.mypillow.com/bedding)
+
+[](https://www.mypillow.com/mymattress-topper)
 
 [](https://www.mypillow.com/pet)
 
-[](https://www.mypillow.com/bath/mypillow-bath-robes)
-
-[](https://www.mypillow.com/accessory-pillows)
-
-[](https://www.mypillow.com/accessory-pillows)
+[](https://www.mypillow.com/pet)
 
 [](https://www.mypillow.com/mattresses)
 
@@ -151,25 +151,25 @@ SHOP NOW](https://www.mypillow.com/new-gorka)
 
 SHOP NOW](https://www.mypillow.com/hannity-new)
 
-[](https://www.mypillow.com/clothing/made-in-america-socks-category)
-
-[](https://www.mypillow.ca/mypillow-2-pick-your-size)
-
-[](https://www.mypillow.ca/mikes-products/what-are-the-odds-br-from-crack-addict-to-ceo)
-
-[](https://www.mypillow.ca/mystore-general-redirect)
-
-[](https://www.mypillow.com/gift-cards)
+[](https://www.mypillow.com/what-are-the-odds-br-from-crack-addict-to-ceo)
 
 [](https://www.mypillow.com/couch-and-recliner-pillows)
 
-[](https://www.mypillow.com/bath/beach-towels)
+[](https://www.mypillow.ca/clothing)
 
-[](https://www.mypillow.com/pet)
+[](https://www.mypillow.com/bedding/blankets)
+
+[](https://www.mypillow.com/slipper-specials)
 
 [](https://www.mypillow.com/smoothtoe-socks)
 
-[](https://www.mypillow.com/open-box)
+[](https://www.mypillow.com/gift-cards)
+
+[](https://www.mypillow.ca/mystore-general-redirect)
+
+[](https://www.mypillow.ca/mypillow-2-pick-your-size)
+
+[](https://www.mypillow.com/clothing/made-in-america-socks-category)
 
 [](https://www.mypillow.com/mystore-gummies)
 
