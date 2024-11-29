@@ -2,14 +2,14 @@
 
 * Es noticia:
 * [Barcelona - Real Madrid](https://www.marca.com/baloncesto/euroliga/barcelona-real-madrid/2024/11/28/02_0203_20241128_6216_6210-directo.html)
-* [Mladá Boleslav - Betis](https://www.marca.com/futbol/conference-league/mlada-boleslav-betis/2024/11/28/01_01105_20241128_2060_185-directo.html)
+* [David Broncano](https://www.marca.com/tiramillas/television/2024/11/28/6748dc34ca4741f1228b4578.html)
+* [Cómo va el Betis](https://www.marca.com/futbol/conference-league/mlada-boleslav-betis/2024/11/28/01_01105_20241128_2060_185-directo.html)
 * [Real Sociedad - Ajax](https://www.marca.com/futbol/europa-league/real-sociedad-ajax/2024/11/28/01_0104_20241128_188_215-directo.html)
 * [Athletic - Elfsborg](https://www.marca.com/futbol/europa-league/athletic-elfsborg/2024/11/28/01_0104_20241128_174_375-directo.html)
 * [Autobús Real Madrid](https://www.marca.com/futbol/real-madrid/2024/11/28/autobus-real-madrid-sufre-pequena-colision-viaje-regreso-liverpool.html)
 * [Guerra de Ucrania - Rusia](https://www.marca.com/tiramillas/actualidad/2024/11/28/67482411f49425d14dc66eb2-directo.html)
 * [Horarios Libres F1](https://www.marca.com/motor/formula1/gp-qatar-f1/2024/11/28/6748902c46163ffc0c8b45a7.html)
-* [Bonoloto hoy](https://www.marca.com/loteria/bonoloto/2024/11/28/67489a42e2704e5e278b45ba.html)
-* [Lotería Nacional hoy](https://www.marca.com/loteria/loteria-nacional/2024/11/28/67489f51e2704e5a8e8b45b9.html)
+* [La Primitiva hoy](https://www.marca.com/loteria/primitiva/2024/11/28/6748a118e2704e9d958b456c.html)
 * [Cristina Pedroche](https://www.marca.com/tiramillas/television/2024/11/28/6748a409ca47417f508b459e.html)
 * [Bertín Osborne](https://www.marca.com/tiramillas/television/2024/11/28/6748aaa7ca4741bd688b45a2.html)
 * [Bad Gyal](https://www.marca.com/tiramillas/musica/2024/11/28/6748507446163f2c3f8b457c.html)
