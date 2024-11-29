@@ -299,6 +299,22 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![«Единая Россия» и МГЕР организовали поездку для детей из Донбасса на Кубок России по самбо в Краснодар](https://cdn.er.ru/media/news/November2024/yZKet89ov8WemiH8GZjm-small.jpeg)](https://er.ru/activity/news/edinaya-rossiya-i-mger-organizovali-poezdku-dlya-detej-iz-donbassa-na-kubok-rossii-po-sambo-v-krasnodar)
+
+[«Единая Россия» и МГЕР организовали поездку для детей из Донбасса на Кубок России по самбо в Краснодар](https://er.ru/activity/news/edinaya-rossiya-i-mger-organizovali-poezdku-dlya-detej-iz-donbassa-na-kubok-rossii-po-sambo-v-krasnodar)
+
+[#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#поездка](https://er.ru/activity/news?tags%5B0%5D=134764) [#спортивныйтурнир](https://er.ru/activity/news?tags%5B0%5D=125411) [#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#Zасамбо](https://er.ru/activity/news?tags%5B0%5D=1093194) [#Донецкая Народная Республика](https://er.ru/activity/news?tags%5B0%5D=60937) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
+
+Сегодня 12:29
+
+[![«Единая Россия»: Выставку «Сила V правде - гордость и победа» посетили около 1,4 миллиона человек](https://cdn.er.ru/media/news/November2024/smZb5GnciAXWX7uczkyY-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-vystavku-sila-v-pravde-gordost-i-pobeda-posetili-okolo-1-4-milliona-chelovek)
+
+[«Единая Россия»: Выставку «Сила V правде - гордость и победа» посетили около 1,4 миллиона человек](https://er.ru/activity/news/edinaya-rossiya-vystavku-sila-v-pravde-gordost-i-pobeda-posetili-okolo-1-4-milliona-chelovek)
+
+[#Кошаев](https://er.ru/activity/news?tags%5B0%5D=106755) [#Ульяновская область](https://er.ru/activity/news?tags%5B0%5D=2044) [#выставка](https://er.ru/activity/news?tags%5B0%5D=1427) [#техника](https://er.ru/activity/news?tags%5B0%5D=2305) [#Свердловская область](https://er.ru/activity/news?tags%5B0%5D=240) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#СилаVПравде](https://er.ru/activity/news?tags%5B0%5D=1095874)
+
+Сегодня 10:30
+
 [![Михаил Киселёв: «Единая Россия» окажет содействие в реализации новых национальных проектов](https://cdn.er.ru/media/news/November2024/WPTESQQLY8MUdqs6lRPd-small.jpg)](https://er.ru/activity/news/mihail-kiselyov-edinaya-rossiya-okazhet-sodejstvie-v-realizacii-novyh-nacionalnyh-proektov)
 
 [Михаил Киселёв: «Единая Россия» окажет содействие в реализации новых национальных проектов](https://er.ru/activity/news/mihail-kiselyov-edinaya-rossiya-okazhet-sodejstvie-v-realizacii-novyh-nacionalnyh-proektov)
@@ -328,22 +344,6 @@
 [Реализацию новых нацпроектов обсудили на расширенном заседании общественного совета партпроекта «Старшее поколение»](https://er.ru/activity/news/realizaciyu-novyh-nacproektov-obsudili-na-rasshirennom-zasedanii-obshestvennogo-soveta-partproekta-starshee-pokolenie)
 
 [#Карелова](https://er.ru/activity/news?tags%5B0%5D=682) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#старшеепоколение](https://er.ru/activity/news?tags%5B0%5D=79196) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#нацпроекты](https://er.ru/activity/news?tags%5B0%5D=29486) [#Баталина](https://er.ru/activity/news?tags%5B0%5D=6842) [#Камкин](https://er.ru/activity/news?tags%5B0%5D=132921) [#Минздрав](https://er.ru/activity/news?tags%5B0%5D=1960) [#Минтруда](https://er.ru/activity/news?tags%5B0%5D=17938) [#Правительство](https://er.ru/activity/news?tags%5B0%5D=1090296) [#здравоохранение](https://er.ru/activity/news?tags%5B0%5D=116225)
-
-28.11.24
-
-[![«Единая Россия» организовала экскурсию в музей им. А.С. Пушкина для участников СВО](https://cdn.er.ru/media/news/November2024/KZFxNkm9TXIqabQb06rR-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-organizovala-ekskursiyu-v-muzej-im-a-s-pushkina-dlya-uchastnikov-svo)
-
-[«Единая Россия» организовала экскурсию в музей им. А.С. Пушкина для участников СВО](https://er.ru/activity/news/edinaya-rossiya-organizovala-ekskursiyu-v-muzej-im-a-s-pushkina-dlya-uchastnikov-svo)
-
-[#Стенякина](https://er.ru/activity/news?tags%5B0%5D=26293) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#ЖенскоеДвижениеЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1093396) [#реабилитация](https://er.ru/activity/news?tags%5B0%5D=3765) [#помощьучастникамСВО](https://er.ru/activity/news?tags%5B0%5D=1093584) [#экскурсия](https://er.ru/activity/news?tags%5B0%5D=12368) [#досуг](https://er.ru/activity/news?tags%5B0%5D=4852) [#Москва](https://er.ru/activity/news?tags%5B0%5D=255) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
-
-28.11.24
-
-[![Секретарём регионального отделения «Единой России» в Республике Алтай избран председатель Госсобрания Эжер Ялбаков](https://cdn.er.ru/media/news/November2024/r94v2YUaurRaVBNijuTw-small.JPG)](https://er.ru/activity/news/sekretaryom-regionalnogo-otdeleniya-edinoj-rossii-v-respublike-altaj-izbran-predsedatel-gossobraniya-ezher-yalbakov)
-
-[Секретарём регионального отделения «Единой России» в Республике Алтай избран председатель Госсобрания Эжер Ялбаков](https://er.ru/activity/news/sekretaryom-regionalnogo-otdeleniya-edinoj-rossii-v-respublike-altaj-izbran-predsedatel-gossobraniya-ezher-yalbakov)
-
-[#Республика Алтай](https://er.ru/activity/news?tags%5B0%5D=3973) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#конференция](https://er.ru/activity/news?tags%5B0%5D=17) [#избрание](https://er.ru/activity/news?tags%5B0%5D=416) [#секретарьреготделения](https://er.ru/activity/news?tags%5B0%5D=147029) [#Ялбаков](https://er.ru/activity/news?tags%5B0%5D=1095897)
 
 28.11.24
 
