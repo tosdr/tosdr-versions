@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-FoxyProxy is brilliant and the customer care team are always helpful when I have a problem, thank you!
+Thank you!! Fastest response ever.
 
-Soo Watson
+Amy Xu
