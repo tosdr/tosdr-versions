@@ -66,7 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![2013-2014 Ballot Measure Overview](/assets/Images/teasers/full/2013-14-Giving-to-BM-by-Industry.png)](https://www.followthemoney.org/research/institute-reports/ballot-measures-2013-and-2014/)
+[![Incumbents2010](/assets/logos/IncumbentsGraph04-10.png)](http://www.followthemoney.org/research/institute-research/tea-party-in-the-2010-state-elections-hot-or-tepid)
+
+Look at the power of incumbency.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
