@@ -117,59 +117,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Quick and efficient support
-> ---------------------------
+> Integrated Debit Order Solution
+> -------------------------------
 > 
-> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
-> 
-> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
+> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
 
-Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
+Hugo van Sittert
 
-![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=99c7e95758c14c47306345dbde925e8d547bc4a4b4b5e9223213bcdd2c0e32f6&c=54404030)  
-PROGRAPHIX PTY LTD
+![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=211496990)  
+Goju-Ryu Pretoria East
 
-![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=99c7e95758c14c47306345dbde925e8d547bc4a4b4b5e9223213bcdd2c0e32f6&c=6346735)  
+![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=60966086)  
+Fox Alarms & Security
+
+![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=19926118)  
+Depot Diesel (Pty) Ltd
+
+![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=26324282)  
+Peter Salvage Pty Ltd
+
+![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=39201794)  
+Lily Fern & Co
+
+![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=64161376)  
+VIV'S TRUCKS (Pty) Ltd. (117)
+
+![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=18689755)  
 Itroniq (Pty) Ltd
 
-![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=99c7e95758c14c47306345dbde925e8d547bc4a4b4b5e9223213bcdd2c0e32f6&c=94382928)  
-Vplay Grafix
+![valued client Protech Marketing](https://www.invoicesonline.co.za/scripts/image.php?bid=8712&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=41318157)  
+Protech Marketing
 
-![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=99c7e95758c14c47306345dbde925e8d547bc4a4b4b5e9223213bcdd2c0e32f6&c=182126005)  
-Nogana Events and Decor
+![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=9335735)  
+On The Spot Marketing (Pty) Ltd t/a 24hrprinting
 
-![valued client Sophia's Roses](https://www.invoicesonline.co.za/scripts/image.php?bid=5227&file=logo_300_100&type=&fe=99c7e95758c14c47306345dbde925e8d547bc4a4b4b5e9223213bcdd2c0e32f6&c=202877194)  
-Sophia's Roses
+![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=196436518)  
+Know Informatics
 
-![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=99c7e95758c14c47306345dbde925e8d547bc4a4b4b5e9223213bcdd2c0e32f6&c=175621329)  
-NWET Pty LTD
+![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=122794869)  
+Enhle Oarabile Kea
 
-![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=99c7e95758c14c47306345dbde925e8d547bc4a4b4b5e9223213bcdd2c0e32f6&c=34383232)  
-#DiGi3 Marketing & Design
+![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=82468202)  
+RADIO TYGERBERG 104FM NPC
 
-![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=99c7e95758c14c47306345dbde925e8d547bc4a4b4b5e9223213bcdd2c0e32f6&c=169516858)  
-Chiron Medical Solutions
+![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=113338057)  
+PROGRAPHIX PTY LTD
 
-![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=99c7e95758c14c47306345dbde925e8d547bc4a4b4b5e9223213bcdd2c0e32f6&c=22289397)  
-Baby Toddles Infant Care
+![valued client FlipDesign - Renovation Contracting Firm](https://www.invoicesonline.co.za/scripts/image.php?bid=8663&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=213451511)  
+FlipDesign - Renovation Contracting Firm
 
-![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=99c7e95758c14c47306345dbde925e8d547bc4a4b4b5e9223213bcdd2c0e32f6&c=201905813)  
-Salt & Pepper Guest Accommodation (Pty) Ltd.
-
-![valued client African Roots](https://www.invoicesonline.co.za/scripts/image.php?bid=1000&file=logo_300_100&type=&fe=99c7e95758c14c47306345dbde925e8d547bc4a4b4b5e9223213bcdd2c0e32f6&c=156391031)  
-African Roots
-
-![valued client The Gourmet Artisans Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8737&file=logo_300_100&type=&fe=99c7e95758c14c47306345dbde925e8d547bc4a4b4b5e9223213bcdd2c0e32f6&c=195027330)  
-The Gourmet Artisans Ltd.
-
-![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=99c7e95758c14c47306345dbde925e8d547bc4a4b4b5e9223213bcdd2c0e32f6&c=33595763)  
-Waterfinatics Swim School
-
-![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=99c7e95758c14c47306345dbde925e8d547bc4a4b4b5e9223213bcdd2c0e32f6&c=125894883)  
-Brand's Fountains Deco and Events Coordinatoin
-
-![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=99c7e95758c14c47306345dbde925e8d547bc4a4b4b5e9223213bcdd2c0e32f6&c=89961278)  
-ARCHITEK PTY LTD
+![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=187187516)  
+Beyond Laser CNC Cutting Technology South Africa CC
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
