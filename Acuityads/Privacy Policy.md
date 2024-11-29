@@ -26,9 +26,9 @@
         * [Guides](https://illumin.com/insights/guides/)
         * [Events](https://illumin.com/insights/events/)
         * [Podcasts & Webinars](https://illumin.com/insights/podcasts-webinars/)
-    * ![Understanding Demand-Side Platforms (DSPs): what they are, how they work, and why they matter](https://illumin.com/wp-content/uploads/2024/11/dsp-263x300.jpg)
+    * ![Roblox adds programmatic in-game advertising in 2024](https://illumin.com/wp-content/uploads/2024/11/roblox-1-263x300.jpg)
         
-        Understanding Demand-Side Platforms (DSPs): what they are, how they work, and why they matter[Read More](https://illumin.com/insights/guides/understanding-demand-side-platforms/)
+        Roblox adds programmatic in-game advertising in 2024[Read More](https://illumin.com/insights/blog/roblox-programmatic-in-game-advertising/)
         
 * [Company](#)
     * [Company](#)
