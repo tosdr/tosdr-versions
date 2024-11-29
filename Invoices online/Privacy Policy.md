@@ -117,57 +117,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Integrated Debit Order Solution
-> -------------------------------
+> Fast, Accurate & Easy to Use
+> ----------------------------
 > 
-> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
+> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
 
-Hugo van Sittert
+Jannie Schutte - myFinance-Online.co.za
 
-![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=211496990)  
-Goju-Ryu Pretoria East
+![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=04d5c4b1686a569447fcb7d603fa18bbb7ac2c352a6b102ee36102978208a2f3&c=3637684)  
+Myfinance-Online
 
-![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=60966086)  
-Fox Alarms & Security
-
-![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=19926118)  
-Depot Diesel (Pty) Ltd
-
-![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=26324282)  
-Peter Salvage Pty Ltd
-
-![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=39201794)  
-Lily Fern & Co
-
-![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=64161376)  
-VIV'S TRUCKS (Pty) Ltd. (117)
-
-![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=18689755)  
-Itroniq (Pty) Ltd
-
-![valued client Protech Marketing](https://www.invoicesonline.co.za/scripts/image.php?bid=8712&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=41318157)  
-Protech Marketing
-
-![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=9335735)  
-On The Spot Marketing (Pty) Ltd t/a 24hrprinting
-
-![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=196436518)  
-Know Informatics
-
-![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=122794869)  
-Enhle Oarabile Kea
-
-![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=82468202)  
+![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=04d5c4b1686a569447fcb7d603fa18bbb7ac2c352a6b102ee36102978208a2f3&c=2283296)  
 RADIO TYGERBERG 104FM NPC
 
-![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=113338057)  
-PROGRAPHIX PTY LTD
+![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=04d5c4b1686a569447fcb7d603fa18bbb7ac2c352a6b102ee36102978208a2f3&c=116770822)  
+Blue Sky Solar Services
 
-![valued client FlipDesign - Renovation Contracting Firm](https://www.invoicesonline.co.za/scripts/image.php?bid=8663&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=213451511)  
+![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=04d5c4b1686a569447fcb7d603fa18bbb7ac2c352a6b102ee36102978208a2f3&c=67660127)  
+INVOICES/JOBCARDS ONLINE
+
+![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=04d5c4b1686a569447fcb7d603fa18bbb7ac2c352a6b102ee36102978208a2f3&c=109425217)  
+Goju-Ryu Pretoria East
+
+![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=04d5c4b1686a569447fcb7d603fa18bbb7ac2c352a6b102ee36102978208a2f3&c=125171113)  
+FRAMED BY ANTON (Pty) Ltd.
+
+![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=04d5c4b1686a569447fcb7d603fa18bbb7ac2c352a6b102ee36102978208a2f3&c=118963431)  
+OptaServ
+
+![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=04d5c4b1686a569447fcb7d603fa18bbb7ac2c352a6b102ee36102978208a2f3&c=68560090)  
+Highlands Auto Engineering
+
+![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=04d5c4b1686a569447fcb7d603fa18bbb7ac2c352a6b102ee36102978208a2f3&c=33127113)  
+West Coast Horse Trails
+
+![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=04d5c4b1686a569447fcb7d603fa18bbb7ac2c352a6b102ee36102978208a2f3&c=151883349)  
+Blue Bulls Rugby Coaches Association
+
+![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=04d5c4b1686a569447fcb7d603fa18bbb7ac2c352a6b102ee36102978208a2f3&c=63660065)  
+Dombieterfontein (PTY) LTD
+
+![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=04d5c4b1686a569447fcb7d603fa18bbb7ac2c352a6b102ee36102978208a2f3&c=152720499)  
+Goju Ryu Karate Centre
+
+![valued client FlipDesign - Renovation Contracting Firm](https://www.invoicesonline.co.za/scripts/image.php?bid=8663&file=logo_300_100&type=&fe=04d5c4b1686a569447fcb7d603fa18bbb7ac2c352a6b102ee36102978208a2f3&c=200379585)  
 FlipDesign - Renovation Contracting Firm
 
-![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=a96c11a157495ccd842d2f5bfb7d8bbd8eb8e97585c66789499b7187ca6e7307&c=187187516)  
-Beyond Laser CNC Cutting Technology South Africa CC
+![valued client Safe Train Mokgethwa (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8103&file=logo_300_100&type=&fe=04d5c4b1686a569447fcb7d603fa18bbb7ac2c352a6b102ee36102978208a2f3&c=23642507)  
+Safe Train Mokgethwa (PTY) Ltd
+
+![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=04d5c4b1686a569447fcb7d603fa18bbb7ac2c352a6b102ee36102978208a2f3&c=38052261)  
+SA Security Brokerz (Pty) Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
