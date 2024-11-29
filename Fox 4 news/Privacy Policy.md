@@ -401,6 +401,12 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Overshown’s flashy pick-6 boosts Cowboys in 27-20 Thanksgiving win over Giants](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/gettyimages-2186703751-scaled.jpg?ve=1&tl=1)
+
+ ![Overshown’s flashy pick-6 boosts Cowboys in 27-20 Thanksgiving win over Giants](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/gettyimages-2186703751-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/cowboys-giants-score-thanksgiving-2024)
+
+### [Overshown’s flashy pick-6 boosts Cowboys in 27-20 Thanksgiving win over Giants](https://www.fox4news.com/sports/cowboys-giants-score-thanksgiving-2024)
+
  [![Dallas Cowboys tailgaters thankful for a Thanksgiving Day win](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/11282024-rr-pkg-dionne-thanksgiving-tailgating-att_00.00.41.58.jpg?ve=1&tl=1)
 
  ![Dallas Cowboys tailgaters thankful for a Thanksgiving Day win](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/11282024-rr-pkg-dionne-thanksgiving-tailgating-att_00.00.41.58.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-cowboys-tailgaters-thankful-thanksgiving-day-win)
@@ -424,12 +430,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![Volunteers bus in homeless North Texans for Thanksgiving Day feast](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/p-dial-thanksgiving-feast-for-less-fortunate-9p_00.01.15.10.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/volunteers-bus-homeless-north-texans-thanksgiving-day-feast)
 
 ### [Volunteers bus in homeless North Texans for Thanksgiving Day feast](https://www.fox4news.com/news/volunteers-bus-homeless-north-texans-thanksgiving-day-feast)
-
- [![Meals on Wheels delivers Thanksgiving dinners to 5,000 North Texas homebound seniors](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/meals-on-wheels_2024_11_28t1008ct_6236_mp4_00.05.17.32.jpg?ve=1&tl=1)
-
- ![Meals on Wheels delivers Thanksgiving dinners to 5,000 North Texas homebound seniors](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/meals-on-wheels_2024_11_28t1008ct_6236_mp4_00.05.17.32.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/meals-wheels-delivers-thanksgiving-dinners-5000-north-texas-homebound-seniors)
-
-### [Meals on Wheels delivers Thanksgiving dinners to 5,000 North Texas homebound seniors](https://www.fox4news.com/news/meals-wheels-delivers-thanksgiving-dinners-5000-north-texas-homebound-seniors)
 
 ###### [News](https://www.fox4news.com/news)
 
