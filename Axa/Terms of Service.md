@@ -213,6 +213,7 @@ Menu Close
         * [Café insurance](https://www.axa.co.uk/business-insurance/cafe-coffee-shops/)
         * [Cake maker and decorators insurance](https://www.axa.co.uk/business-insurance/cake-makers-and-decorators-insurance/)
         * [Candlemakers insurance](https://www.axa.co.uk/business-insurance/candlemaker-insurance/)
+        * [Childminder insurance](https://www.axa.co.uk/business-insurance/childminders-insurance/)
         * [Clothes shop insurance](https://www.axa.co.uk/business-insurance/clothes-shop-insurance/)
         * [Commercial property insurance](https://www.axa.co.uk/business-insurance/commercial-property/)
         * [Crafts insurance](https://www.axa.co.uk/business-insurance/craft-insurance/)
