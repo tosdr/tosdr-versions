@@ -12,7 +12,7 @@ Jours
 
 Heures
 
-Jusqu'à -70€ sur les packs permis : votre permis dès 489,99€ \* ! Du 25/11 au 01/12. [J'en profite](https://app.ornikar.com/inscription?redirect=%2Fboutique)
+Jusqu'à -70€ sur les packs permis : votre permis dès 489,99€ \* ! [J'en profite](https://app.ornikar.com/inscription?redirect=%2Fboutique)
 
 [![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/65def2364a136ea2280a63c2_logo-ornikar.svg)](https://www.ornikar.com/)
 
