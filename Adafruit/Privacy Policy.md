@@ -406,9 +406,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Eternal vigilance is not only the price of liberty; eternal vigilance is the price of human decency”
+“ A Certain Darkness Is Needed to See the Stars”
 
-[Aldous Huxley](http://www.thisdayinquotes.com/2011/01/eternal-vigilance-is-price-of-liberty.html)
+[Osho](https://en.wikipedia.org/wiki/Rajneesh)
 
 [](https://www.adafruit.com/about)
 
