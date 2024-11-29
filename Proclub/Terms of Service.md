@@ -46,7 +46,7 @@ club
 
 [services](https://www.proclub.com/club/services)
 
-[auto salon](https://www.proclub.com/club/services/auto-salon)[dining](https://www.proclub.com/club/services/dining-and-cathering)[executive locker rooms](https://www.proclub.com/club/services/executive-locker-rooms)[gift cards](https://www.proclub.com/club/services/gift-cards)[private events](https://www.proclub.com/club/services/private-events)[pro shop](https://www.proclub.com/club/services/pro-shop)[team building](https://www.proclub.com/club/services/team-building)
+[auto salon](https://www.proclub.com/club/services/auto-salon)[dining](https://www.proclub.com/club/services/dining-and-catering)[executive locker rooms](https://www.proclub.com/club/services/executive-locker-rooms)[gift cards](https://www.proclub.com/club/services/gift-cards)[private events](https://www.proclub.com/club/services/private-events)[pro shop](https://www.proclub.com/club/services/pro-shop)[team building](https://www.proclub.com/club/services/team-building)
 
 [membership](https://www.proclub.com/club/join)
 
@@ -94,7 +94,7 @@ for assisstance, call [(425) 885-5566](tel:4258855566)
 
 [services](https://www.proclub.com/club/services)
 
-[auto salon](https://www.proclub.com/club/services/auto-salon)[dining](https://www.proclub.com/club/services/dining-and-cathering)[executive locker rooms](https://www.proclub.com/club/services/executive-locker-rooms)[gift cards](https://www.proclub.com/club/services/gift-cards)[private events](https://www.proclub.com/club/services/private-events)[pro shop](https://www.proclub.com/club/services/pro-shop)[team building](https://www.proclub.com/club/services/team-building)
+[auto salon](https://www.proclub.com/club/services/auto-salon)[dining](https://www.proclub.com/club/services/dining-and-catering)[executive locker rooms](https://www.proclub.com/club/services/executive-locker-rooms)[gift cards](https://www.proclub.com/club/services/gift-cards)[private events](https://www.proclub.com/club/services/private-events)[pro shop](https://www.proclub.com/club/services/pro-shop)[team building](https://www.proclub.com/club/services/team-building)
 
 [membership](https://www.proclub.com/club/join)
 
@@ -324,7 +324,7 @@ call (206) 332-1873
 501 Eastlake Ave E., 2nd Floor  
 Seattle, WA 98109
 
-[open map](https://www.bing.com/maps/?v=2&sty=r&where1=501+Eastlake+Ave+E+2nd+Floor+Seattle%2C+WA+98109&cp=51.252885~22.740071&lvl=10.8)
+[open map](https://www.bing.com/maps/?v=2&sty=r&where1=501+Eastlake+Ave+E+2nd+Floor+Seattle%2C+WA+98109&cp=47.62347%7E-122.329533&lvl=17.2)
 
 Monday - Friday
 
