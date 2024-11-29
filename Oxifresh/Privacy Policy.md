@@ -385,17 +385,17 @@ What Customers Are Saying
 
 Based on 305,387 Carpet Cleaning Services Reviews
 
-The man that cleaned was very nice and did a great job **SD.** - Weatherford, TX - 11/28/2024
+Excellent service, local, prompt and efficient.. **SE.** - Gig Harbor, WA - 11/28/2024
 
 (5.0 Out of 5 stars)
 
-Drying time with 1 hr and no dumping of water into gutters and irritating the neighbors. **RM.** - Cathedral City, CA - 11/28/2024
+It got the job done. The carpets look great. **MB.** - Wake Forest, NC - 11/28/2024
 
 (5.0 Out of 5 stars)
 
-Personal and through extra touches. **MK.** - San Rafael, CA - 11/28/2024
+Quick and good **DS.** - Hesston, KS - 11/27/2024
 
-(5.0 Out of 5 stars)
+(4.5 Out of 5 stars)
 
 [MORE REVIEWS](https://www.oxifresh.com/testimonials)
 
