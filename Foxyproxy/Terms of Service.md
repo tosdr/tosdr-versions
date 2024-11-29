@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-The service I received via Foxy Proxy was very good.
+We tried your proxy as a test to see if it lived up to it's promise, we had tried a free proxy and found it to be not very good at all, it was a nice surprise to find yours was just what we wanted and was unobtrusive and performed up to our needs subsequently we have already joined for the next 6 months if we are still happy with it we will extend again.
 
-Alex Hornsby
+Les and Amberley
