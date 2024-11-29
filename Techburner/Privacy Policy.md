@@ -306,21 +306,21 @@ Top 5 Windows Apps That You Should Try
 
 Microsoft Windows 11 is packed with many new features that make it more fun and productive. To make your work...](https://techburner.in/top-5-windows-apps-that-you-should-try/) [![best fps settings for apex legends mobile, apex legends mobile fps settings, how to get high frame rate in apex legends mobile, high fps in apex legend mobile, apex legends mobile, best fps settings for apex legends](https://techburner.in/wp-content/uploads/2022/05/apex-fps-featured-400x240.jpg) ![best fps settings for apex legends mobile, apex legends mobile fps settings, how to get high frame rate in apex legends mobile, high fps in apex legend mobile, apex legends mobile, best fps settings for apex legends](https://techburner.in/wp-content/uploads/2022/05/apex-fps-featured-80x80.jpg)
 
-Gaming2 years ago
+Gaming3 years ago
 
 Best FPS Settings for Apex Legends Mobile
 -----------------------------------------
 
 When it comes to gaming, a good internet connection and good FPS matter the most. It’s been a few days...](https://techburner.in/best-fps-settings-for-apex-legends-mobile/) [![free fire max rank push, tips to push rank in free fire max, rank push in free fire max clash squad, free fire max rank push in season 13, rank push in free fire max season 13](https://techburner.in/wp-content/uploads/2022/05/free-fire-max-rank-featured--400x240.jpg) ![free fire max rank push, tips to push rank in free fire max, rank push in free fire max clash squad, free fire max rank push in season 13, rank push in free fire max season 13](https://techburner.in/wp-content/uploads/2022/05/free-fire-max-rank-featured--80x80.jpg)
 
-Gaming2 years ago
+Gaming3 years ago
 
 5 Tips to Reach Heroic Rank or Above in Free Fire MAX
 -----------------------------------------------------
 
 In gaming, the one with the highest rank is considered a pro. No matter the game whether it’s BGMI, Free...](https://techburner.in/5-tips-to-reach-heroic-rank-or-above-in-free-fire-max/) [![free fire max and apex legends mobile comparison, apex legends mobile characters, apex legends mobile features, apex legends mobile vs free fire max, free fire max maps, apex legends mobile gameplay](https://techburner.in/wp-content/uploads/2022/05/Untitled-design-5-400x240.jpg) ![free fire max and apex legends mobile comparison, apex legends mobile characters, apex legends mobile features, apex legends mobile vs free fire max, free fire max maps, apex legends mobile gameplay](https://techburner.in/wp-content/uploads/2022/05/Untitled-design-5-80x80.jpg)
 
-Gaming2 years ago
+Gaming3 years ago
 
 Free Fire MAX vs Apex Legends Mobile: Which One is Better?
 ----------------------------------------------------------
