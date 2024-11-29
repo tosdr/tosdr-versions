@@ -185,11 +185,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![1SG Robert Beresford](https://cdn.returningveterans.org/images/honor/1SG_Robert_Beresford.png)  
+![COL Ted Cimral](https://cdn.returningveterans.org/images/honor/1967_CPT_Ted_Cimral_Vietnam.JPG)  
 
-**In Memory of 1SG Robert Beresford**  
+**In Honor of COL Ted Cimral**  
 United States Army  
-Submitted by Anonymous](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+Submitted by John Cimral](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -232,5 +232,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 11/29/24 - 7:31:14  
+Printed 11/29/24 - 1:22:10  
 © 2024 Returning Veterans Project
