@@ -90,7 +90,7 @@ Search for product
         
         Open Now
         
-        Mon - Tue 9 to 9, Wed 10 to 9, Thu Closed, Fri 8 to 10, Sat 9 to 9, Sun 10 to 7
+        Mon - Thu 9 to 9, Fri 8 to 10, Sat 9 to 9, Sun 10 to 7
         
         [Directions
         
