@@ -1,15 +1,15 @@
-Wednesday, November 27 2024
+Thursday, November 28 2024
 
 Breaking News
 
+* [America In The Age Of Stupidity: Democrats Kiss Hitler’s Ass](https://www.conservativedailynews.com/2024/11/america-in-the-age-of-stupidity-democrats-kiss-hitlers-ass/)
+* [Trump Will Redirect Billions In Unspent Funds From Biden’s Climate Law To ‘Real Infrastructure’](https://www.conservativedailynews.com/2024/11/trump-will-redirect-billions-in-unspent-funds-from-bidens-climate-law-to-real-infrastructure/)
+* [A Lame Duck Biden Could Put The World In Peril](https://www.conservativedailynews.com/2024/11/a-lame-duck-biden-could-put-the-world-in-peril/)
+* [Shocker: Liberal Professor Concludes liberals should try to Persuade Voters of their Views](https://www.conservativedailynews.com/2024/11/shocker-liberal-professor-concludes-liberals-should-try-to-persuade-voters-of-their-views/)
+* [Something to be Thankful For](https://www.conservativedailynews.com/2024/11/something-to-be-thankful-for/)
 * [President Joe Biden’s Schedule for Wednesday, November 27, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-wednesday-november-27-2024/)
 * [OOF: Kamala Harris Appears Disheveled In First Appearance Since Election Loss](https://www.conservativedailynews.com/2024/11/oof-kamala-harris-appears-disheveled-in-first-appearance-since-election-loss/)
 * [Trump Deserves To Have His Nominees Confirmed Quickly](https://www.conservativedailynews.com/2024/11/trump-deserves-to-have-his-nominees-confirmed-quickly/)
-* [Lame Duck Biden Admin Cuts Massive Check For Failing EV Manufacturer](https://www.conservativedailynews.com/2024/11/lame-duck-biden-admin-cuts-massive-check-for-failing-ev-manufacturer/)
-* [CNN’s Elie Honig Lays Out Why Trump’s Legal Cases Will Not Return After He Leave Office In 4 Years](https://www.conservativedailynews.com/2024/11/cnns-elie-honig-lays-out-why-trumps-legal-cases-will-not-return-after-he-leave-office-in-4-years/)
-* [Walmart Abandons Trans Products For Kids, DEI Policies](https://www.conservativedailynews.com/2024/11/walmart-abandons-trans-products-for-kids-dei-policies/)
-* [Tom Homan Suggests Denver Mayor Could ‘Go To Jail’ For Obstructing Deportation](https://www.conservativedailynews.com/2024/11/tom-homan-suggests-denver-mayor-could-go-to-jail-for-obstructing-deportation/)
-* [Mr. Cuban, Are Ten Strong Women Enough?](https://www.conservativedailynews.com/2024/11/mr-cuban-are-ten-strong-women-enough/)
 
 * [RSS](https://www.conservativedailynews.com/news-feeds/)
 * [Facebook](https://www.facebook.com/ConservativeDailyNews/)
@@ -115,80 +115,82 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 Red = Recurring Donations  
 Orange = One-Time Donations
 
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/Kamala-Harris-11-26-24-maybe-drunk-220x150.jpg)](https://www.conservativedailynews.com/2024/11/oof-kamala-harris-appears-disheveled-in-first-appearance-since-election-loss/)
-    
-    [OOF: Kamala Harris Appears Disheveled In First Appearance Since Election Loss](https://www.conservativedailynews.com/2024/11/oof-kamala-harris-appears-disheveled-in-first-appearance-since-election-loss/)
-    
-    November 27, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/07/Curious-Shock-questioning-220x150.jpg)](https://www.conservativedailynews.com/2024/11/a-cautionary-note-for-republicans-celebrating-trumps-historic-victory/)
-    
-    [A Cautionary Note for Republicans Celebrating Trump’s Historic Victory](https://www.conservativedailynews.com/2024/11/a-cautionary-note-for-republicans-celebrating-trumps-historic-victory/)
-    
-    November 26, 2024
-    
-
-Recent Posts
-
-* [![Hamas Israel Iran ICC](https://www.conservativedailynews.com/wp-content/uploads/2024/11/mrz112724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/exposed/)
-    
-    [Exposed](https://www.conservativedailynews.com/2024/11/exposed/)
-    
-    November 27, 2024
-    
-* [![Donald Trump witch hunt Fani Willis Jack Smith Letitia James ALvin Bragg](https://www.conservativedailynews.com/wp-content/uploads/2024/11/gv112724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/ding-dong-the-witches-are-dead/)
-    
-    [Ding-Dong the Witches are Dead](https://www.conservativedailynews.com/2024/11/ding-dong-the-witches-are-dead/)
-    
-    November 27, 2024
-    
 * [![Thanksgiving 2024 Donald Trump](https://www.conservativedailynews.com/wp-content/uploads/2024/11/stg112724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/something-to-be-thankful-for/)
     
     [Something to be Thankful For](https://www.conservativedailynews.com/2024/11/something-to-be-thankful-for/)
     
     November 27, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/12/groceries-220x150.png)](https://www.conservativedailynews.com/2024/11/whats-your-grocery-shopping-personality/)
-    
-    [What’s Your Grocery Shopping Personality?](https://www.conservativedailynews.com/2024/11/whats-your-grocery-shopping-personality/)
-    
-    November 27, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/03/Joe-Biden-sleeping-2-220x150.png)](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-wednesday-november-27-2024/)
-    
-    [President Joe Biden’s Schedule for Wednesday, November 27, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-wednesday-november-27-2024/)
-    
-    November 27, 2024
-    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/Kamala-Harris-11-26-24-maybe-drunk-220x150.jpg)](https://www.conservativedailynews.com/2024/11/oof-kamala-harris-appears-disheveled-in-first-appearance-since-election-loss/)
     
     [OOF: Kamala Harris Appears Disheveled In First Appearance Since Election Loss](https://www.conservativedailynews.com/2024/11/oof-kamala-harris-appears-disheveled-in-first-appearance-since-election-loss/)
     
     November 27, 2024
     
-* [Trump Taps Jamieson Greer To Be His Trade Chief](https://www.conservativedailynews.com/2024/11/trump-taps-jamieson-greer-to-be-his-trade-chief/)
+
+Recent Posts
+
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/Morning-Joe-Joe-Scarborough-Trump-220x150.jpg)](https://www.conservativedailynews.com/2024/11/america-in-the-age-of-stupidity-democrats-kiss-hitlers-ass/)
     
-    November 27, 2024
+    [America In The Age Of Stupidity: Democrats Kiss Hitler’s Ass](https://www.conservativedailynews.com/2024/11/america-in-the-age-of-stupidity-democrats-kiss-hitlers-ass/)
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/gavel-justice-220x150.jfif)](https://www.conservativedailynews.com/2024/11/court-of-appeals-ends-trumps-legal-battle-over-classified-documents-in-florida/)
+    November 28, 2024
     
-    [Court Of Appeals Ends Trump’s Legal Battle Over Classified Documents In Florida](https://www.conservativedailynews.com/2024/11/court-of-appeals-ends-trumps-legal-battle-over-classified-documents-in-florida/)
+* [![Donald Trump White House Beware of DOGE](https://www.conservativedailynews.com/wp-content/uploads/2024/11/stg112524dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/trump-will-redirect-billions-in-unspent-funds-from-bidens-climate-law-to-real-infrastructure/)
     
-    November 27, 2024
+    [Trump Will Redirect Billions In Unspent Funds From Biden’s Climate Law To ‘Real Infrastructure’](https://www.conservativedailynews.com/2024/11/trump-will-redirect-billions-in-unspent-funds-from-bidens-climate-law-to-real-infrastructure/)
+    
+    November 28, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/IMG_5833-220x150.jpeg)](https://www.conservativedailynews.com/2024/11/a-lame-duck-biden-could-put-the-world-in-peril/)
+    
+    [A Lame Duck Biden Could Put The World In Peril](https://www.conservativedailynews.com/2024/11/a-lame-duck-biden-could-put-the-world-in-peril/)
+    
+    November 28, 2024
+    
+* [![pro-hamas protest college universities professors](https://www.conservativedailynews.com/wp-content/uploads/2024/05/mrz050524dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/shocker-liberal-professor-concludes-liberals-should-try-to-persuade-voters-of-their-views/)
+    
+    [Shocker: Liberal Professor Concludes liberals should try to Persuade Voters of their Views](https://www.conservativedailynews.com/2024/11/shocker-liberal-professor-concludes-liberals-should-try-to-persuade-voters-of-their-views/)
+    
+    November 28, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/04-new-tg-day-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/11/turkey-day-2/)
+    
+    [Turkey Day](https://www.conservativedailynews.com/2024/11/turkey-day-2/)
+    
+    November 28, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/Ben-Shapiro-feat-220x150-1.jpg)](https://www.conservativedailynews.com/2024/11/a-world-of-leverage/)
+    
+    [A World of Leverage](https://www.conservativedailynews.com/2024/11/a-world-of-leverage/)
+    
+    November 28, 2024
+    
+* [![Thanksgiving eat mor turkee cows](https://www.conservativedailynews.com/wp-content/uploads/2024/11/stg112824dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/turkey-day/)
+    
+    [Turkey Day](https://www.conservativedailynews.com/2024/11/turkey-day/)
+    
+    November 28, 2024
+    
+* [![Thanksgiving politics at dinner table](https://www.conservativedailynews.com/wp-content/uploads/2024/11/mrz112824dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/political-dinner/)
+    
+    [Political Dinner](https://www.conservativedailynews.com/2024/11/political-dinner/)
+    
+    November 28, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
-* [Missouri AG To Sue Jackson County For Violation of Missouri Gun Law](https://www.thegunpage.com/missouri-ag-to-sue-jackson-county-for-violation-of-missouri-gun-law/10612142)
-* [Mosin-Nagant Re-Chambered in .500 S&W Magnum – Ultimate Bubba Rifle](https://www.thegunpage.com/mosin-nagant-re-chambered-in-500-sw-magnum-ultimate-bubba-rifle/10612141)
-* [GOA Warns Of Gun Control Push During Lame-Duck Session](https://www.thegunpage.com/goa-warns-of-gun-control-push-during-lame-duck-session/10612140)
-* [Legendary Pistol Marksman And Olympian Joe Benner](https://www.thegunpage.com/legendary-pistol-marksman-and-olympian-joe-benner/10612139)
-* [TFB Review: Geissele Super Duty MOD1](https://www.thegunpage.com/tfb-review-geissele-super-duty-mod1/10612136)
-* [POTD: FN America LICC IWS](https://www.thegunpage.com/potd-fn-america-licc-iws/10612137)
-* [The 5 Best Home Defense Shotguns](https://www.thegunpage.com/the-5-best-home-defense-shotguns/10612138)
-* [Silencers To Your Door: Griffin Armament and Capitol Armory](https://www.thegunpage.com/silencers-to-your-door-griffin-armament-and-capitol-armory/10612130)
-* [Tennessee Wildlife Resouces Agency Chooses Beretta A300 Ultima Patrol](https://www.thegunpage.com/tennessee-wildlife-resouces-agency-chooses-beretta-a300-ultima-patrol/10612128)
-* [One of the Country’s Possibly Worst Sheriffs and His Department has Hampered Gun Ownership](https://www.thegunpage.com/one-of-the-countrys-possibly-worst-sheriffs-and-his-department-has-hampered-gun-ownership/10612126)
+* [TFB Review: Meprolight MPO-DS Red Dot Sight](https://www.thegunpage.com/tfb-review-meprolight-mpo-ds-red-dot-sight/10612175)
+* [Concealed Carry Corner: A Close Look At Ankle Carry](https://www.thegunpage.com/concealed-carry-corner-a-close-look-at-ankle-carry/10612176)
+* [Black Friday and Cyber Monday: Gear Up with the Best Deals!](https://www.thegunpage.com/black-friday-and-cyber-monday-gear-up-with-the-best-deals/10612173)
+* [TFB Behind the Gun #142: Rob Gearing w/ Spartan Precision Equipment](https://www.thegunpage.com/tfb-behind-the-gun-142-rob-gearing-w-spartan-precision-equipment/10612172)
+* [Happy Thanksgiving](https://www.thegunpage.com/happy-thanksgiving-5/10612168)
+* [TFB Review: Pulsar Merger LRF XT50 – 1280×1024 HD Thermal Binoculars](https://www.thegunpage.com/tfb-review-pulsar-merger-lrf-xt50-1280x1024-hd-thermal-binoculars/10612158)
+* [POTD: Heckler & Koch MK24 Mod 0 Clone](https://www.thegunpage.com/potd-heckler-koch-mk24-mod-0-clone/10612159)
+* [Wheelgun Wednesday: Smith & Wesson Model 640 Engraved Review](https://www.thegunpage.com/wheelgun-wednesday-smith-wesson-model-640-engraved-review/10612160)
+* [Everytown Wants You To Argue About Guns At Thanksgiving Dinner](https://www.thegunpage.com/everytown-wants-you-to-argue-about-guns-at-thanksgiving-dinner/10612156)
+* [Holiday Posting Schedule](https://www.thegunpage.com/holiday-posting-schedule/10612152)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -230,15 +232,15 @@ Contact Us
 
 Recent Comments
 
+* Jeff L. on [Shocker: Liberal Professor Concludes liberals should try to Persuade Voters of their Views](https://www.conservativedailynews.com/2024/11/shocker-liberal-professor-concludes-liberals-should-try-to-persuade-voters-of-their-views/#comment-783431)
+* Catboss on [Lame Duck Biden Admin Cuts Massive Check For Failing EV Manufacturer](https://www.conservativedailynews.com/2024/11/lame-duck-biden-admin-cuts-massive-check-for-failing-ev-manufacturer/#comment-783425)
+* Catboss on [Lame Duck Biden Admin Cuts Massive Check For Failing EV Manufacturer](https://www.conservativedailynews.com/2024/11/lame-duck-biden-admin-cuts-massive-check-for-failing-ev-manufacturer/#comment-783424)
+* Catboss on [Lame Duck Biden Admin Cuts Massive Check For Failing EV Manufacturer](https://www.conservativedailynews.com/2024/11/lame-duck-biden-admin-cuts-massive-check-for-failing-ev-manufacturer/#comment-783423)
 * charles wilkins on [Something to be Thankful For](https://www.conservativedailynews.com/2024/11/something-to-be-thankful-for/#comment-783422)
 * Stanley Warner on [Lame Duck Biden Admin Cuts Massive Check For Failing EV Manufacturer](https://www.conservativedailynews.com/2024/11/lame-duck-biden-admin-cuts-massive-check-for-failing-ev-manufacturer/#comment-783421)
 * Jeff L. on [A Cautionary Note for Republicans Celebrating Trump’s Historic Victory](https://www.conservativedailynews.com/2024/11/a-cautionary-note-for-republicans-celebrating-trumps-historic-victory/#comment-783412)
 * Jeff L. on [A Cautionary Note for Republicans Celebrating Trump’s Historic Victory](https://www.conservativedailynews.com/2024/11/a-cautionary-note-for-republicans-celebrating-trumps-historic-victory/#comment-783411)
 * alan kifer on [Transgender Activist Says Trying To Stop Men From Using Women’s Restrooms Will Be ‘Last Mistake You Ever Make’](https://www.conservativedailynews.com/2024/11/transgender-activist-says-trying-to-stop-men-from-using-womens-restrooms-will-be-last-mistake-you-ever-make/#comment-783396)
-* charles wilkins on [Parting Gift](https://www.conservativedailynews.com/2024/11/parting-gift/#comment-783386)
-* KayCee on [Transgender Activist Says Trying To Stop Men From Using Women’s Restrooms Will Be ‘Last Mistake You Ever Make’](https://www.conservativedailynews.com/2024/11/transgender-activist-says-trying-to-stop-men-from-using-womens-restrooms-will-be-last-mistake-you-ever-make/#comment-783370)
-* Stanley Warner on [It Is A Coming Out Party For Trump Supporters](https://www.conservativedailynews.com/2024/11/it-is-a-coming-out-party-for-trump-supporters/#comment-783368)
-* Stanley Warner on [May The Spirit Of Laken Riley Shed Light On A Broken Judicial System](https://www.conservativedailynews.com/2024/11/may-the-spirit-of-laken-riley-shed-light-on-a-broken-judicial-system/#comment-783367)
 
 [Close](#)
 
