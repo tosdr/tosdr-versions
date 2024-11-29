@@ -315,17 +315,23 @@
 
 This material may not be published, broadcast, rewritten, or redistributed. ©2024 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided by [Factset](https://go.factset.com/legal). Powered and implemented by [FactSet Digital Solutions](https://www.factset.com/solutions/digital-solutions). [Legal Statement](https://www.factset.com/privacy). Mutual Fund and ETF data provided by [Refinitiv Lipper](https://lipperalpha.refinitiv.com/).
 
-     [![State reportedly planning to bus illegal migrants directly to ICE instead of sanctuary cities - Fox News](//a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/11/720/405/217a4e4b-migrants.jpg?tl=1&ve=1)
+     [![Top 5 biggest political turkeys ripped by conservatives this year - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/720/405/c7f48d86da3a51779437df525f574624.jpg?tl=1&ve=1)
+
+'MASSIVE MANDATE'](https://www.foxnews.com/politics/top-5-biggest-political-turkeys-ripped-by-conservatives-in-2024)
+
+### [Top 5 biggest political turkeys ripped by conservatives this year](https://www.foxnews.com/politics/top-5-biggest-political-turkeys-ripped-by-conservatives-in-2024)
+
+     [![State reportedly planning to bus illegal migrants directly to ICE instead of sanctuary cities - Fox News](//a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/11/343/193/217a4e4b-migrants.jpg?tl=1&ve=1)
 
 ONE-WAY TICKET](https://www.foxnews.com/politics/texas-could-bus-migrants-directly-ice-deportation-instead-sanctuary-cities-under-proposed-plan)
 
 ### [State reportedly planning to bus illegal migrants directly to ICE instead of sanctuary cities](https://www.foxnews.com/politics/texas-could-bus-migrants-directly-ice-deportation-instead-sanctuary-cities-under-proposed-plan)
 
-     [![Top 5 biggest political turkeys ripped by conservatives this year - Fox News](//a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/11/343/193/file-77.png?tl=1&ve=1)
+     [![Comedian makes it known how he really feels about people who voted for Trump - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/343/193/af0dfd2f7074c531aecb987f4c89cb2e.png?tl=1&ve=1)
 
-'MASSIVE MANDATE'](https://www.foxnews.com/politics/top-5-biggest-political-turkeys-ripped-by-conservatives-in-2024)
+BUCKLE UP](https://www.foxnews.com/media/crazy-rich-asians-actor-wishes-conservatives-who-arent-f-ing-morons)
 
-### [Top 5 biggest political turkeys ripped by conservatives this year](https://www.foxnews.com/politics/top-5-biggest-political-turkeys-ripped-by-conservatives-in-2024)
+### [Comedian makes it known how he really feels about people who voted for Trump](https://www.foxnews.com/media/crazy-rich-asians-actor-wishes-conservatives-who-arent-f-ing-morons)
 
      [![Workers at online retail giant set to strike on busiest shopping days of the year - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/343/193/b879dc0e7a292e9777f75279656187d0.jpg?tl=1&ve=1)
 
@@ -333,17 +339,13 @@ ONE-WAY TICKET](https://www.foxnews.com/politics/texas-could-bus-migrants-direct
 
 ### [Workers at online retail giant set to strike on busiest shopping days of the year](https://www.foxbusiness.com/retail/amazon-workers-plan-strike-between-black-friday-cyber-monday-several-countries-us)
 
-     [![Trump's message for all Americans, including the 'radical left lunatics' - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/343/193/9e128e8f1d6aba1259ff402c1a776304.png?tl=1&ve=1)
+     [![Women's college volleyball team praised for forfeiting title shot against trans player - Fox News](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/11/343/193/blaire-fleming-1.jpg?ve=1&tl=1&tl=1&ve=1)
 
-HOLIDAY TRADITION](https://www.foxnews.com/politics/trump-delivers-thanksgiving-message-radical-left-lunatics)
+SPIKED](https://www.foxnews.com/sports/boise-state-praised-forfeiting-title-shot-sjsu-trans-player-stood-way-real-champion)sports
 
-### [Trump's message for all Americans, including the 'radical left lunatics'](https://www.foxnews.com/politics/trump-delivers-thanksgiving-message-radical-left-lunatics)
+### [Women's college volleyball team praised for forfeiting title shot against trans player](https://www.foxnews.com/sports/boise-state-praised-forfeiting-title-shot-sjsu-trans-player-stood-way-real-champion)
 
-     [![Comedian makes it known how he really feels about people who voted for Trump - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/343/193/af0dfd2f7074c531aecb987f4c89cb2e.png?tl=1&ve=1)
-
-BUCKLE UP](https://www.foxnews.com/media/crazy-rich-asians-actor-wishes-conservatives-who-arent-f-ing-morons)
-
-### [Comedian makes it known how he really feels about people who voted for Trump](https://www.foxnews.com/media/crazy-rich-asians-actor-wishes-conservatives-who-arent-f-ing-morons)
+* [Social media rips columnist for her take on trans controversy: 'Is you brain really this broken?'](https://www.foxnews.com/sports/sports-columnist-claims-cisgender-women-real-threat-sjsu-trans-controversy)
 
      [![Legendary investor's 'suggestion for all parents' in surprise letter - Fox News](//a57.foxnews.com/hp.foxbusiness.com/images/2024/11/343/193/b5b9961707108260ad955be90deb21ec.jpg?tl=1&ve=1)
 
@@ -357,13 +359,11 @@ FAITH UNDER FIRE](https://www.foxnews.com/media/new-report-shows-70-biden-admini
 
 ### [Explosive report exposes Biden-Harris admin's targeting of Christians](https://www.foxnews.com/media/new-report-shows-70-biden-administrations-education-enforcement-targeted-christian-colleges)
 
-     [![Women's college volleyball team praised for forfeiting title shot against trans player - Fox News](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/11/343/193/blaire-fleming-1.jpg?ve=1&tl=1&tl=1&ve=1)
+[Video
 
-SPIKED](https://www.foxnews.com/sports/boise-state-praised-forfeiting-title-shot-sjsu-trans-player-stood-way-real-champion)sports
+BAD PRESS](https://www.foxnews.com/video/6365308448112)WATCH
 
-### [Women's college volleyball team praised for forfeiting title shot against trans player](https://www.foxnews.com/sports/boise-state-praised-forfeiting-title-shot-sjsu-trans-player-stood-way-real-champion)
-
-* [Sports columnist slammed for her take on controversy](https://www.foxnews.com/sports/sports-columnist-claims-cisgender-women-real-threat-sjsu-trans-controversy)
+### [Biden seems to blames media for poor approval ratings and Harris' massive loss to Trump](https://www.foxnews.com/video/6365308448112)
 
      [![Walmart's Black Friday deals: 25 must-have bargains you won’t want to miss - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/343/193/5ccd679df5051a0cb127d59dbaeb2bb4.png?tl=1&ve=1)
 
@@ -418,19 +418,19 @@ Deals
 
 [](https://www.foxnews.com/video/5614615980001)
 
-### [WATCH LIVE: Today’s top stories on ‘Jesse Watters Primetime’](https://www.foxnews.com/video/5614615980001)
+### [WATCH LIVE: Today’s top stories on ‘Hannity’](https://www.foxnews.com/video/5614615980001)
+
+     [![Woman dies from California county's first human case of rabies in more than 30 years - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/california-woman-dies-from-fresno-countys-first-human-case-rabies-more-than-30-years)
+
+[US](https://www.foxnews.com/category/us)
+
+### [Woman dies from California county's first human case of rabies in more than 30 years](https://www.foxnews.com/us/california-woman-dies-from-fresno-countys-first-human-case-rabies-more-than-30-years)
 
      [![Hundreds of dead cattle could offer clues to ‘longest running murder mystery’ - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/alien-chasers-offer-hints-decades-long-quest-solve-longest-running-murder-mystery)
 
 [UFOS](https://www.foxnews.com/category/science/air-and-space/ufos)
 
 ### [Hundreds of dead cattle could offer clues to ‘longest running murder mystery’](https://www.foxnews.com/us/alien-chasers-offer-hints-decades-long-quest-solve-longest-running-murder-mystery)
-
-     [![Dem urges progressives to stay on Elon Musk's social media platform after Trump win - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/democratic-lawmaker-calls-progressives-stop-leaving-x)
-
-[MEDIA](https://www.foxnews.com/category/media)
-
-### [Dem urges progressives to stay on Elon Musk's social media platform after Trump win](https://www.foxnews.com/media/democratic-lawmaker-calls-progressives-stop-leaving-x)
 
       [![Disney’s game-changing move making waves everywhere, expert says - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxbusiness.com/video/6365260496112) WATCH
 
@@ -442,39 +442,27 @@ Deals
 
 ### [DEMOCRACY '24: Here's how your neighborhood voted in the 2024 election](https://www.foxnews.com/elections)
 
-      [![Bears coach explains decision to not call timeout in final seconds of game - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/bears-coach-matt-eberflus-explains-decision-not-call-timeout-final-seconds-fans-clamor-firing)sports
-
-[CHICAGO BEARS](https://www.foxnews.com/category/sports/nfl/chicago-bears)
-
-### [Bears coach explains decision to not call timeout in final seconds of game](https://www.foxnews.com/sports/bears-coach-matt-eberflus-explains-decision-not-call-timeout-final-seconds-fans-clamor-firing)
-
-     [![Divers make bombshell discovery in missing couple's case 44 years later - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/car-tied-wealthy-ny-couple-missing-44-years-pulled-from-murky-pond)
+     [![Divers make breakthrough in case of wealthy couple who disappeared without a trace - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/car-tied-wealthy-ny-couple-missing-44-years-pulled-from-murky-pond)
 
 [GEORGIA](https://www.foxnews.com/category/us/us-regions/southeast/georgia)
 
-### [Divers make bombshell discovery in missing couple's case 44 years later](https://www.foxnews.com/us/car-tied-wealthy-ny-couple-missing-44-years-pulled-from-murky-pond)
+### [Divers make breakthrough in case of wealthy couple who disappeared without a trace](https://www.foxnews.com/us/car-tied-wealthy-ny-couple-missing-44-years-pulled-from-murky-pond)
+
+     [![Sniper takes out gunman who reportedly fired more than 200 rounds at condo units - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/suspected-gunman-fired-200-rounds-florida-condo-units-killed-snipers-bullet-sheriff)
+
+[CRIME](https://www.foxnews.com/category/us/crime)
+
+### [Sniper takes out gunman who reportedly fired more than 200 rounds at condo units](https://www.foxnews.com/us/suspected-gunman-fired-200-rounds-florida-condo-units-killed-snipers-bullet-sheriff)
 
 [](https://www.foxnews.com/games)
 
 ### [PLAY NOW! Crosswords ♠ Word Search ♦ Crazy Crystals ♣ Stack & Match ♥ 5 Across!](https://www.foxnews.com/games)
 
-      [![Billy Bob Thornton says Robert Redford's life-changing advice led to success - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/billy-bob-thornton-says-robert-redfords-life-changing-career-advice-led-hollywood-success)entertainment
+     [![Trump has a message for all Americans, including the 'radical left lunatics' - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/trump-delivers-thanksgiving-message-radical-left-lunatics)
 
-[ENTERTAINMENT](https://www.foxnews.com/category/entertainment)
+[DONALD TRUMP](https://www.foxnews.com/category/person/donald-trump)
 
-### [Billy Bob Thornton says Robert Redford's life-changing advice led to success](https://www.foxnews.com/entertainment/billy-bob-thornton-says-robert-redfords-life-changing-career-advice-led-hollywood-success)
-
-     [![Dem breaks ranks over Trump’s new border czar in message that defies the narrative - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/texas-democrat-says-he-can-find-common-ground-trumps-incoming-border-czar)
-
-[BORDER SECURITY](https://www.foxnews.com/category/us/immigration/border-security)
-
-### [Dem breaks ranks over Trump’s new border czar in message that defies the narrative](https://www.foxnews.com/media/texas-democrat-says-he-can-find-common-ground-trumps-incoming-border-czar)
-
-     [![2 dead, 2 injured in Thanksgiving shooting, all victims knew each other - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/thanksgiving-morning-texas-shooting-leaves-2-dead-2-wounded-police)
-
-[CRIME](https://www.foxnews.com/category/us/crime)
-
-### [2 dead, 2 injured in Thanksgiving shooting, all victims knew each other](https://www.foxnews.com/us/thanksgiving-morning-texas-shooting-leaves-2-dead-2-wounded-police)
+### [Trump has a message for all Americans, including the 'radical left lunatics'](https://www.foxnews.com/politics/trump-delivers-thanksgiving-message-radical-left-lunatics)
 
                              [![Agitators wreak havoc on cherished American tradition at Macy's Thanksgiving Parade - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)     ![1 - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)      ![2 - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)      ![3 - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)      ![4 - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/anti-israel-protesters-disrupt-macys-thanksgiving-day-parade)
 
@@ -482,71 +470,33 @@ Deals
 
 ### [Agitators wreak havoc on cherished American tradition at Macy's Thanksgiving Parade](https://www.foxnews.com/us/anti-israel-protesters-disrupt-macys-thanksgiving-day-parade)
 
-      [![What to know about music star's rise to fame after NFL halftime show - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/music-star-shaboozey-takes-overnight-fame-after-nfl-halftime-show-what-cant-god-do)sports
-
-[NFL](https://www.foxnews.com/category/sports/nfl)
-
-### [What to know about music star's rise to fame after NFL halftime show](https://www.foxnews.com/sports/music-star-shaboozey-takes-overnight-fame-after-nfl-halftime-show-what-cant-god-do)
-
-     [![US agriculture industry tests artificial intelligence: 'A lot of potential' - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/tech/us-agriculture-industry-tests-artificial-intelligence-potential)
-
-[US](https://www.foxnews.com/category/us)
-
-### [US agriculture industry tests artificial intelligence: 'A lot of potential'](https://www.foxnews.com/tech/us-agriculture-industry-tests-artificial-intelligence-potential)
-
      [![Iranian general killed in Syria amid largest rebel offensive since 2020 - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/world/russia-syria-bomb-syrian-islamist-rebels-after-surprise-incursion)
 
 [RUSSIA](https://www.foxnews.com/category/world/world-regions/russia)
 
 ### [Iranian general killed in Syria amid largest rebel offensive since 2020](https://www.foxnews.com/world/russia-syria-bomb-syrian-islamist-rebels-after-surprise-incursion)
 
-     [![Biden urges Trump to 'rethink' tariff threat against Mexico and Canada - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/biden-thankful-smooth-transition-power-urges-trump-rethink-tariffs-canada-mexico)
+     [![Reporters from liberal outlets reveal they're dreading Trump's return to the White House - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/white-house-reporters-already-exhausted-second-trump-administration)
+
+[THE NEW YORK TIMES](https://www.foxnews.com/category/organization/the-new-york-times)
+
+### [Reporters from liberal outlets reveal they're dreading Trump's return to the White House](https://www.foxnews.com/media/white-house-reporters-already-exhausted-second-trump-administration)
+
+     [![Biden urges Trump to reconsider plans, warns him not to 'screw up' with tariff proposal - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/biden-thankful-smooth-transition-power-urges-trump-rethink-tariffs-canada-mexico)
 
 [JOE BIDEN](https://www.foxnews.com/category/person/joe-biden)
 
-### [Biden urges Trump to 'rethink' tariff threat against Mexico and Canada](https://www.foxnews.com/politics/biden-thankful-smooth-transition-power-urges-trump-rethink-tariffs-canada-mexico)
+### [Biden urges Trump to reconsider plans, warns him not to 'screw up' with tariff proposal](https://www.foxnews.com/politics/biden-thankful-smooth-transition-power-urges-trump-rethink-tariffs-canada-mexico)
 
-      [![Woman drops turkeys from plane to rural families for Thanksgiving - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/lifestyle/alaska-native-delivers-thanksgiving-rural-families-airdrop)lifestyle
+     [![How Biden-Harris policies may have backfired with women and guns - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/biden-harris-policies-behind-surge-republican-women-owning-guns-concealed-carry-advocate-says)
 
-[LIFESTYLE](https://www.foxnews.com/category/lifestyle)
+[SECOND AMENDMENT](https://www.foxnews.com/category/us/personal-freedoms/second-amendment)
 
-### [Woman drops turkeys from plane to rural families for Thanksgiving](https://www.foxnews.com/lifestyle/alaska-native-delivers-thanksgiving-rural-families-airdrop)
+### [How Biden-Harris policies may have backfired with women and guns](https://www.foxnews.com/media/biden-harris-policies-behind-surge-republican-women-owning-guns-concealed-carry-advocate-says)
 
-     [![Thanksgiving dinner blamed for destroying the planet, report claims - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/meat-centric-meals-like-thanksgiving-contribute-climate-crisis-bloomberg)
+[](https://foxnews.com/trumptransition)
 
-[MEDIA](https://www.foxnews.com/category/media)
-
-### [Thanksgiving dinner blamed for destroying the planet, report claims](https://www.foxnews.com/media/meat-centric-meals-like-thanksgiving-contribute-climate-crisis-bloomberg)
-
-[Video](https://www.foxnews.com/video/6365269117112) WATCH
-
-[VIDEO](https://www.foxnews.com/video)
-
-### [Women gather for group screaming event following Trump victory](https://www.foxnews.com/video/6365269117112)
-
-      [![Five-time grand slam winner suspended after testing positive for banned substance - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/tennis-star-iga-swiatek-accepts-1-month-suspension-banned-substance)sports
-
-[TENNIS](https://www.foxnews.com/category/sports/tennis)
-
-### [Five-time grand slam winner suspended after testing positive for banned substance](https://www.foxnews.com/sports/tennis-star-iga-swiatek-accepts-1-month-suspension-banned-substance)
-
-      [![Hot dog brand sparks nostalgia airing 50-year-old ad with iconic jingle - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/oscar-mayer-sparks-nostalgia-airing-50-year-old-ad-iconic-jingle-during-bears-lions-game)sports
-
-[NFL](https://www.foxnews.com/category/sports/nfl)
-
-### [Hot dog brand sparks nostalgia airing 50-year-old ad with iconic jingle](https://www.foxnews.com/sports/oscar-mayer-sparks-nostalgia-airing-50-year-old-ad-iconic-jingle-during-bears-lions-game)
-
-      [![Golfer 'praying' for LPGA rule changes after competing against trans player - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/golfer-who-competed-against-trans-hailey-davidson-praying-lpga-gender-rule-changes)sports
-
-[GOLF](https://www.foxnews.com/category/sports/golf)
-
-### [Golfer 'praying' for LPGA rule changes after competing against trans player](https://www.foxnews.com/sports/golfer-who-competed-against-trans-hailey-davidson-praying-lpga-gender-rule-changes)
-
-     [![American Culture Quiz: Test yourself on turkey pardons, travel and parade personalities - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/lifestyle/american-culture-quiz-test-yourself-turkey-pardons-train-travel-parade-personalities)
-
-[LIFESTYLE](https://www.foxnews.com/category/lifestyle)
-
-### [American Culture Quiz: Test yourself on turkey pardons, travel and parade personalities](https://www.foxnews.com/lifestyle/american-culture-quiz-test-yourself-turkey-pardons-train-travel-parade-personalities)
+### [YOU'RE HIRED: Trump’s picks for key administration roles as the transition takes shape](https://foxnews.com/trumptransition)
 
      [![Political cartoons of the day - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/politics-cartoons-slideshow)
 
@@ -554,21 +504,41 @@ Deals
 
 ### [Political cartoons of the day](https://www.foxnews.com/politics/politics-cartoons-slideshow)
 
-[](https://foxnews.com/trumptransition)
-
-### [YOU'RE HIRED: Trump’s picks for key administration roles as the transition takes shape](https://foxnews.com/trumptransition)
-
      [![FOX News Channel dominates November with largest cable news share ever - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/fox-news-dominates-november-viewership-msnbc-cnn-flounder-post-election)
 
 [MEDIA](https://www.foxnews.com/category/media)
 
 ### [FOX News Channel dominates November with largest cable news share ever](https://www.foxnews.com/media/fox-news-dominates-november-viewership-msnbc-cnn-flounder-post-election)
 
-     [![Reporters from liberal outlets already 'exhausted' as Trump’s second term looms - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/white-house-reporters-already-exhausted-second-trump-administration)
+      [![How to safely store Thanksgiving leftovers — and waste as little food as possible - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/food-drink/thanksgiving-leftovers-can-should-safely-stored-way)food
 
-[THE NEW YORK TIMES](https://www.foxnews.com/category/organization/the-new-york-times)
+[FOOD-DRINK](https://www.foxnews.com/category/food-drink)
 
-### [Reporters from liberal outlets already 'exhausted' as Trump’s second term looms](https://www.foxnews.com/media/white-house-reporters-already-exhausted-second-trump-administration)
+### [How to safely store Thanksgiving leftovers — and waste as little food as possible](https://www.foxnews.com/food-drink/thanksgiving-leftovers-can-should-safely-stored-way)
+
+     [![American Culture Quiz: Test yourself on turkey pardons, travel and parade personalities - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/lifestyle/american-culture-quiz-test-yourself-turkey-pardons-train-travel-parade-personalities)
+
+[LIFESTYLE](https://www.foxnews.com/category/lifestyle)
+
+### [American Culture Quiz: Test yourself on turkey pardons, travel and parade personalities](https://www.foxnews.com/lifestyle/american-culture-quiz-test-yourself-turkey-pardons-train-travel-parade-personalities)
+
+      [![Woman drops turkeys from plane to rural families for Thanksgiving - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/lifestyle/alaska-native-delivers-thanksgiving-rural-families-airdrop)lifestyle
+
+[LIFESTYLE](https://www.foxnews.com/category/lifestyle)
+
+### [Woman drops turkeys from plane to rural families for Thanksgiving](https://www.foxnews.com/lifestyle/alaska-native-delivers-thanksgiving-rural-families-airdrop)
+
+      [![Bears coach explains decision to not call timeout in final seconds of game - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/bears-coach-matt-eberflus-explains-decision-not-call-timeout-final-seconds-fans-clamor-firing)sports
+
+[CHICAGO BEARS](https://www.foxnews.com/category/sports/nfl/chicago-bears)
+
+### [Bears coach explains decision to not call timeout in final seconds of game](https://www.foxnews.com/sports/bears-coach-matt-eberflus-explains-decision-not-call-timeout-final-seconds-fans-clamor-firing)
+
+      [![Billy Bob Thornton credits legendary actor with life-changing advice early in career - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/billy-bob-thornton-says-robert-redfords-life-changing-career-advice-led-hollywood-success)entertainment
+
+[ENTERTAINMENT](https://www.foxnews.com/category/entertainment)
+
+### [Billy Bob Thornton credits legendary actor with life-changing advice early in career](https://www.foxnews.com/entertainment/billy-bob-thornton-says-robert-redfords-life-changing-career-advice-led-hollywood-success)
 
 [](https://www.foxnews.com/sports/nhl-goalie-inexplicably-puts-lead-goal-own-net)sports
 
@@ -576,17 +546,47 @@ Deals
 
 ### [NHL goalie makes all-time blunder by scoring in his own net during game](https://www.foxnews.com/sports/nhl-goalie-inexplicably-puts-lead-goal-own-net)
 
+     [!['Rocky' star is 'finally cancer free' after nearly a decade-long battle with grim diagnosis - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/rocky-star-dolph-lundgren-finally-cancer-free-9-year-journey)
+
+[ENTERTAINMENT](https://www.foxnews.com/category/entertainment)
+
+### ['Rocky' star is 'finally cancer free' after nearly a decade-long battle with grim diagnosis](https://www.foxnews.com/entertainment/rocky-star-dolph-lundgren-finally-cancer-free-9-year-journey)
+
+      [![JD Vance’s family struggles offer lessons on resilience and recovery - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/opinion/caregivers-like-jd-vance-can-hold-families-even-nations-together)OPINION
+
+[OPINION](https://www.foxnews.com/category/opinion)
+
+### [JD Vance’s family struggles offer lessons on resilience and recovery](https://www.foxnews.com/opinion/caregivers-like-jd-vance-can-hold-families-even-nations-together)
+
+     [![2 dead, 2 injured in Thanksgiving shooting, all victims knew each other - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/thanksgiving-morning-texas-shooting-leaves-2-dead-2-wounded-police)
+
+[CRIME](https://www.foxnews.com/category/us/crime)
+
+### [2 dead, 2 injured in Thanksgiving shooting, all victims knew each other](https://www.foxnews.com/us/thanksgiving-morning-texas-shooting-leaves-2-dead-2-wounded-police)
+
+      [![Five-time grand slam winner suspended after testing positive for banned substance - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/tennis-star-iga-swiatek-accepts-1-month-suspension-banned-substance)sports
+
+[TENNIS](https://www.foxnews.com/category/sports/tennis)
+
+### [Five-time grand slam winner suspended after testing positive for banned substance](https://www.foxnews.com/sports/tennis-star-iga-swiatek-accepts-1-month-suspension-banned-substance)
+
+      [![Horror movie star admits new artificial intelligence technology is ‘terrifying’ - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/ai-horror-flick-star-katherine-waterston-admits-new-tech-terrifying)entertainment
+
+[ENTERTAINMENT](https://www.foxnews.com/category/entertainment)
+
+### [Horror movie star admits new artificial intelligence technology is ‘terrifying’](https://www.foxnews.com/entertainment/ai-horror-flick-star-katherine-waterston-admits-new-tech-terrifying)
+
+     [![Leading Democrat defends staying on Elon Musk’s X after Trump win - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/democratic-lawmaker-calls-progressives-stop-leaving-x)
+
+[MEDIA](https://www.foxnews.com/category/media)
+
+### [Leading Democrat defends staying on Elon Musk’s X after Trump win](https://www.foxnews.com/media/democratic-lawmaker-calls-progressives-stop-leaving-x)
+
 [Video](https://www.foxbusiness.com/video/6365056936112) WATCH
 
 [Making Money with Charles Payne](https://video.foxbusiness.com/)
 
 ### [Impending recession is 'boiling up from the bottom,' chief economist warns](https://www.foxbusiness.com/video/6365056936112)
-
-     [!['Rocky' star says he's 'finally cancer free' after doctors said he only had '2 to 3 years' to live - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/rocky-star-dolph-lundgren-finally-cancer-free-9-year-journey)
-
-[ENTERTAINMENT](https://www.foxnews.com/category/entertainment)
-
-### ['Rocky' star says he's 'finally cancer free' after doctors said he only had '2 to 3 years' to live](https://www.foxnews.com/entertainment/rocky-star-dolph-lundgren-finally-cancer-free-9-year-journey)
 
       [![Lincoln gave us Thanksgiving 161 years ago — and we owe it to him to unite - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/opinion/lincoln-gave-thanksgiving-time-unite-owe-him-try)OPINION
 
@@ -702,21 +702,21 @@ Top 'quiet travel' DESTINATIONS](https://www.foxnews.com/travel/quiet-travel-hav
 [OutKick](https://www.outkick.com/)
 -----------------------------------
 
-     [![Tom Brady Slices Up Daniel Jones Like A Turkey For Quitting On Giants - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/tom-brady-slices-up-daniel-jones-like-turkey-quitting-giants)
+     [![Hunter Kills Monster Buck, Photos Are Insane - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/culture/hunting-wisconsin-16-point-buck)
 
-### [Tom Brady Slices Up Daniel Jones Like A Turkey For Quitting On Giants](https://www.outkick.com/sports/tom-brady-slices-up-daniel-jones-like-turkey-quitting-giants)
+### [Hunter Kills Monster Buck, Photos Are Insane](https://www.outkick.com/culture/hunting-wisconsin-16-point-buck)
 
-### [U.S. Sen. Risch Says Mountain West 'Failed' Boise State After SJSU Forfeit](https://www.outkick.com/sports/us-senator-risch-idaho-mountain-west-boise-state-sjsu-forfeit)
+### [Dolphins Decline to Activate Veteran LB Shaq Barrett Following Attempt to Come Out of Retirement](https://www.outkick.com/sports/dolphins-decline-activate-veteran-lb-shaq-barrett-following-attempt-come-out-retirement)
 
-   [![U.S. Sen. Risch Says Mountain West &apos;Failed&apos; Boise State After SJSU Forfeit - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/us-senator-risch-idaho-mountain-west-boise-state-sjsu-forfeit)
+   [![Tampa Bay Buccaneers Linebacker Shaquil Barrett (58) during a regular season game against the Kansas City Chiefs. (Photo by Cliff Welch/Icon Sportswire via Getty Images) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/dolphins-decline-activate-veteran-lb-shaq-barrett-following-attempt-come-out-retirement)
 
-### [Jeff Passan Immediately Shoots Down Juan Soto Contract Report](https://www.outkick.com/sports/jeff-passan-immediately-shoots-down-juan-soto-report)
+### [Giants Eliminated From Playoffs With Thanksgiving Flop Against Cowboys](https://www.outkick.com/sports/giants-eliminated-from-playoffs-thanksgiving-flop-against-cowboys)
 
-   [![Jeff Passan Immediately Shoots Down Juan Soto Contract Report - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/jeff-passan-immediately-shoots-down-juan-soto-report)
+   [![ARLINGTON, TEXAS - NOVEMBER 28: Devin Singletary #26 of the New York Giants is tackled by DeMarvion Overshown #13 of the Dallas Cowboys during the second quarter at AT&amp;amp;T Stadium on November 28, 2024 in Arlington, Texas. (Photo by Sam Hodde/Getty Images) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/giants-eliminated-from-playoffs-thanksgiving-flop-against-cowboys)
 
-### [Matt Eberflus Blows End Of Bears Game And Then Defends His Terrible Decision](https://www.outkick.com/sports/matt-eberflus-blows-end-bears-game-defends-his-terrible-decision)
+### [Dolphins, Tua Tagovailoa Still Can't Win in Cold Weather](https://www.outkick.com/sports/miami-dolphins-tua-tagovailoa-unable-win-cold-weather-again)
 
-   [![Mandatory Credit: Kirby Lee-Imagn Images - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/matt-eberflus-blows-end-bears-game-defends-his-terrible-decision)
+   [![GREEN BAY, WISCONSIN - NOVEMBER 28: Tua Tagovailoa #1 of the Miami Dolphins looks to pass against the Green Bay Packers during the first half of the game at Lambeau Field on November 28, 2024 in Green Bay, Wisconsin. (Photo by John Fisher/Getty Images) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/miami-dolphins-tua-tagovailoa-unable-win-cold-weather-again)
 
 [Digital Originals](https://www.foxnews.com/category/us/digital-originals)
 --------------------------------------------------------------------------
@@ -873,9 +873,13 @@ Top 'quiet travel' DESTINATIONS](https://www.foxnews.com/travel/quiet-travel-hav
 [Crime](https://www.foxnews.com/category/us/crime)
 --------------------------------------------------
 
-     [![Thanksgiving morning Texas shooting leaves 2 dead, 2 wounded: 'Happens all too frequently,' police chief says - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/thanksgiving-morning-texas-shooting-leaves-2-dead-2-wounded-police)
+     [![Suspected gunman who fired more than 200 rounds at Florida condo units killed by sniper's bullet, sheriff says - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/suspected-gunman-fired-200-rounds-florida-condo-units-killed-snipers-bullet-sheriff)
+
+### [Suspected gunman who fired more than 200 rounds at Florida condo units killed by sniper's bullet, sheriff says](https://www.foxnews.com/us/suspected-gunman-fired-200-rounds-florida-condo-units-killed-snipers-bullet-sheriff)
 
 ### [Thanksgiving morning Texas shooting leaves 2 dead, 2 wounded: 'Happens all too frequently,' police chief says](https://www.foxnews.com/us/thanksgiving-morning-texas-shooting-leaves-2-dead-2-wounded-police)
+
+   [![San Antonio police at the scene where two people were killed and two others were injured during a Thanksgiving morning shooting. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/thanksgiving-morning-texas-shooting-leaves-2-dead-2-wounded-police)
 
 ### [Amazon’s VP explains how to protect yourself from holiday impersonation scams](https://www.foxnews.com/tech/amazons-vp-explains-how-protect-yourself-from-holiday-impersonation-scams)
 
@@ -884,10 +888,6 @@ Top 'quiet travel' DESTINATIONS](https://www.foxnews.com/travel/quiet-travel-hav
 ### [Car tied to wealthy NY couple missing for 44 years pulled from murky pond](https://www.foxnews.com/us/car-tied-wealthy-ny-couple-missing-44-years-pulled-from-murky-pond)
 
    [![Charles and Catherine Romer, their purported car, and divers extracting car pie - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/car-tied-wealthy-ny-couple-missing-44-years-pulled-from-murky-pond)
-
-### ['Dating Game Killer' kept 'trophies' that ultimately led to his downfall: detective](https://www.foxnews.com/us/dating-game-killer-kept-trophies-ultimately-led-downfall-detective)
-
-   [![&apos;Dating Game Killer&apos; kept &apos;trophies&apos; that ultimately led to his downfall: detective - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/dating-game-killer-kept-trophies-ultimately-led-downfall-detective)
 
 [America Together](https://www.foxnews.com/category/us/personal-freedoms/america-together)
 ------------------------------------------------------------------------------------------
@@ -930,59 +930,59 @@ Top 'quiet travel' DESTINATIONS](https://www.foxnews.com/travel/quiet-travel-hav
 [Entertainment](https://www.foxnews.com/entertainment)
 ------------------------------------------------------
 
-     [![Kaley Cuoco says she was ‘butt naked’ when man walked into her hotel room - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/kaley-cuoco-says-she-butt-naked-when-man-walked-her-hotel-room)
+     [![AI horror flick star Katherine Waterston admits new tech is ‘terrifying’ - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/ai-horror-flick-star-katherine-waterston-admits-new-tech-terrifying)
+
+### [AI horror flick star Katherine Waterston admits new tech is ‘terrifying’](https://www.foxnews.com/entertainment/ai-horror-flick-star-katherine-waterston-admits-new-tech-terrifying)
+
+### [Taylor Swift receives apology after Billboard uses clip from video that depicted wax figure of her naked](https://www.foxnews.com/entertainment/taylor-swift-receives-apology-billboard-clip-video-depicted-wax-figure-naked)
+
+   [![LONDON, ENGLAND - AUGUST 15: (EDITORIAL USE ONLY. NO STANDALONE PUBLICATION USE (NO SPECIAL INTEREST OR SINGLE ARTIST PUBLICATION USE; NO BOOK USE)) . Taylor Swift performs on stage during the &quot;Taylor Swift | The Eras Tour&quot; at Wembley Stadium on August 15, 2024 in London, England. (Photo by Kate Green/Getty Images) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/taylor-swift-receives-apology-billboard-clip-video-depicted-wax-figure-naked)
 
 ### [Kaley Cuoco says she was ‘butt naked’ when man walked into her hotel room](https://www.foxnews.com/entertainment/kaley-cuoco-says-she-butt-naked-when-man-walked-her-hotel-room)
+
+   [![NEW YORK, NEW YORK - NOVEMBER 25: Kaley Cuoco is seen in Midtown on November 25, 2024 in New York City. (Photo by TheStewartofNY/GC Images) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/kaley-cuoco-says-she-butt-naked-when-man-walked-her-hotel-room)
 
 ### ['Rocky' star Dolph Lundgren is 'finally cancer free' after 9-year journey](https://www.foxnews.com/entertainment/rocky-star-dolph-lundgren-finally-cancer-free-9-year-journey)
 
    [![MADRID, SPAIN - JANUARY 17:  Dolph Lundgren attends &apos;Creed II: La Leyenda De Rocky&apos; premiere at Kinepolis Cinema on January 17, 2019 in Madrid, Spain.  (Photo by Juan Naharro Gimenez/Getty Images) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/rocky-star-dolph-lundgren-finally-cancer-free-9-year-journey)
 
-### [Billy Bob Thornton says Robert Redford's life-changing career advice led to Hollywood success](https://www.foxnews.com/entertainment/billy-bob-thornton-says-robert-redfords-life-changing-career-advice-led-hollywood-success)
-
-   [![c - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/billy-bob-thornton-says-robert-redfords-life-changing-career-advice-led-hollywood-success)
-
-### [Jennifer Garner pens tearful tribute to beloved dog](https://www.foxnews.com/entertainment/jennifer-garner-pens-tearful-tribute-beloved-dog)
-
-   [![Side by side photos of Jennifer Garner walking on New York City street and Jennifer Garner cuddling dog, Birdie - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/jennifer-garner-pens-tearful-tribute-beloved-dog)
-
 [Sports](https://www.foxnews.com/sports)
 ----------------------------------------
 
-     [![Boise State praised for forfeiting title shot as SJSU trans player stood in way: 'Real champion' - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/boise-state-praised-forfeiting-title-shot-sjsu-trans-player-stood-way-real-champion)
+     [![Packers take advantage of frigid home-field elements in win against Dolphins - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/packers-take-advantage-frigid-home-field-elements-win-against-dolphins)
 
-### [Boise State praised for forfeiting title shot as SJSU trans player stood in way: 'Real champion'](https://www.foxnews.com/sports/boise-state-praised-forfeiting-title-shot-sjsu-trans-player-stood-way-real-champion)
+### [Packers take advantage of frigid home-field elements in win against Dolphins](https://www.foxnews.com/sports/packers-take-advantage-frigid-home-field-elements-win-against-dolphins)
 
-### [Music star Shaboozey takes in overnight fame after NFL halftime show: 'What can't God do?'](https://www.foxnews.com/sports/music-star-shaboozey-takes-overnight-fame-after-nfl-halftime-show-what-cant-god-do)
+### [What is Turducken? Tom Brady gets a taste of the delicacy John Madden made famous](https://www.foxnews.com/sports/what-turducken-tom-brady-gets-taste-delicacy-john-madden-made-famous)
 
-   [![Shaboozey performs at halftime between the Chicago Bears and the Detroit Lions at Ford Field on November 28, 2024 in Detroit, Michigan. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/music-star-shaboozey-takes-overnight-fame-after-nfl-halftime-show-what-cant-god-do)
+   [![What is Turducken? Tom Brady gets a taste of the delicacy John Madden made famous - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/what-turducken-tom-brady-gets-taste-delicacy-john-madden-made-famous)
 
-### [Bears coach Matt Eberflus explains decision to not call timeout in final seconds as fans clamor for firing](https://www.foxnews.com/sports/bears-coach-matt-eberflus-explains-decision-not-call-timeout-final-seconds-fans-clamor-firing)
+### [Tom Brady's LFG Player of the Game for Week 13: Cowboys RB Rico Dowdle](https://www.foxnews.com/sports/tom-bradys-lfg-player-of-the-game-week-13)
 
-   [![Chicago Bears head coach Matt Eberflus looks on during a game between the Detroit Lions and the Chicago Bears on Thanksgiving Day in Detroit, Michigan USA, on Thursday, November 28, 2024. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/bears-coach-matt-eberflus-explains-decision-not-call-timeout-final-seconds-fans-clamor-firing)
+   [![Tom Brady&apos;s LFG Player of the Game for Week 13: Cowboys RB Rico Dowdle - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/tom-bradys-lfg-player-of-the-game-week-13)
 
-### [Golfer who competed against trans Hailey Davidson 'praying' for LPGA gender rule changes](https://www.foxnews.com/sports/golfer-who-competed-against-trans-hailey-davidson-praying-lpga-gender-rule-changes)
+### [Cowboys continue to own Giants as battle of backups continues Big Blue's derailed season](https://www.foxnews.com/sports/cowboys-continue-own-giants-battle-backups-continues-big-blues-derailed-season)
 
-   [![LPGA logo during the second round of the North Texas LPGA Shootout played at Las Colinas Country Club in Irving, TX. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/golfer-who-competed-against-trans-hailey-davidson-praying-lpga-gender-rule-changes)
+   [![Rico Dowdle #23 of the Dallas Cowboys celebrates a touchdown with teammates during the third quarter against the New York Giants at AT&amp;amp;T Stadium on November 28, 2024 in Arlington, Texas. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/cowboys-continue-own-giants-battle-backups-continues-big-blues-derailed-season)
 
 [U.S.](https://www.foxnews.com/us)
 ----------------------------------
 
-     [![Fox News ‘Antisemitism Exposed’ Newsletter: Hate and fear in the Windy City - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/fox-news-antisemitism-exposed-newsletter-hate-fear-windy-city)
+     [![California woman dies from Fresno County's first human case of rabies in more than 30 years - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/california-woman-dies-from-fresno-countys-first-human-case-rabies-more-than-30-years)
+
+### [California woman dies from Fresno County's first human case of rabies in more than 30 years](https://www.foxnews.com/us/california-woman-dies-from-fresno-countys-first-human-case-rabies-more-than-30-years)
+
+### [Suspected gunman who fired more than 200 rounds at Florida condo units killed by sniper's bullet, sheriff says](https://www.foxnews.com/us/suspected-gunman-fired-200-rounds-florida-condo-units-killed-snipers-bullet-sheriff)
+
+   [![A wall riddled with bullet holes after a Connecticut man opened fire Thursday at a Florida condominium complex before he was shot and killed by a sheriff&apos;s sniper, authorities said. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/suspected-gunman-fired-200-rounds-florida-condo-units-killed-snipers-bullet-sheriff)
 
 ### [Fox News ‘Antisemitism Exposed’ Newsletter: Hate and fear in the Windy City](https://www.foxnews.com/us/fox-news-antisemitism-exposed-newsletter-hate-fear-windy-city)
+
+   [![Fox News &lsquo;Antisemitism Exposed&rsquo; Newsletter: Hate and fear in the Windy City - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/fox-news-antisemitism-exposed-newsletter-hate-fear-windy-city)
 
 ### [Thanksgiving morning Texas shooting leaves 2 dead, 2 wounded: 'Happens all too frequently,' police chief says](https://www.foxnews.com/us/thanksgiving-morning-texas-shooting-leaves-2-dead-2-wounded-police)
 
    [![San Antonio police at the scene where two people were killed and two others were injured during a Thanksgiving morning shooting. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/thanksgiving-morning-texas-shooting-leaves-2-dead-2-wounded-police)
-
-### [Car tied to wealthy NY couple missing for 44 years pulled from murky pond](https://www.foxnews.com/us/car-tied-wealthy-ny-couple-missing-44-years-pulled-from-murky-pond)
-
-   [![Charles and Catherine Romer, their purported car, and divers extracting car pie - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/car-tied-wealthy-ny-couple-missing-44-years-pulled-from-murky-pond)
-
-### [Anti-Israel protesters disrupt Macy's Thanksgiving Day Parade](https://www.foxnews.com/us/anti-israel-protesters-disrupt-macys-thanksgiving-day-parade)
-
-   [![Police officers clash with protesters during the 98th Macys Thanksgiving Day Parade in New York City, U.S., November 28, 2024. REUTERS/Brendan McDermid - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/anti-israel-protesters-disrupt-macys-thanksgiving-day-parade)
 
 [Family](https://www.foxnews.com/family)
 ----------------------------------------
@@ -1139,9 +1139,13 @@ Top 'quiet travel' DESTINATIONS](https://www.foxnews.com/travel/quiet-travel-hav
 [Music](https://www.foxnews.com/category/entertainment/music)
 -------------------------------------------------------------
 
-     [![Music star Shaboozey takes in overnight fame after NFL halftime show: 'What can't God do?' - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/music-star-shaboozey-takes-overnight-fame-after-nfl-halftime-show-what-cant-god-do)
+     [![Taylor Swift receives apology after Billboard uses clip from video that depicted wax figure of her naked - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/taylor-swift-receives-apology-billboard-clip-video-depicted-wax-figure-naked)
+
+### [Taylor Swift receives apology after Billboard uses clip from video that depicted wax figure of her naked](https://www.foxnews.com/entertainment/taylor-swift-receives-apology-billboard-clip-video-depicted-wax-figure-naked)
 
 ### [Music star Shaboozey takes in overnight fame after NFL halftime show: 'What can't God do?'](https://www.foxnews.com/sports/music-star-shaboozey-takes-overnight-fame-after-nfl-halftime-show-what-cant-god-do)
+
+   [![Shaboozey performs at halftime between the Chicago Bears and the Detroit Lions at Ford Field on November 28, 2024 in Detroit, Michigan. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/music-star-shaboozey-takes-overnight-fame-after-nfl-halftime-show-what-cant-god-do)
 
 ### [Diddy’s Thanksgiving meal options in jail include peanut butter and jelly sandwiches after bail denied](https://www.foxnews.com/entertainment/diddys-thanksgiving-meal-options-jail-include-peanut-butter-jelly-sandwiches-after-bail-denied)
 
@@ -1151,16 +1155,16 @@ Top 'quiet travel' DESTINATIONS](https://www.foxnews.com/travel/quiet-travel-hav
 
    [![Prince&rsquo;s records sold more than 100 million copies. He won seven Grammys and received an Academy Award in 1985 for his music from &quot;Purple Rain,&quot; the movie in which he starred as a young musician. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/prince-made-deliberate-move-escape-temptations-fame-pal)
 
-### [Spotify playlists are being hijacked to promote pirated software and scams](https://www.foxnews.com/tech/spotify-playlists-being-hijacked-promote-pirated-software-scams)
-
-   [![Image of Spotify app on phone - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/tech/spotify-playlists-being-hijacked-promote-pirated-software-scams)
-
 [Food + Drink](https://www.foxnews.com/food-drink)
 --------------------------------------------------
 
-     [![America's favorite and least favorite Thanksgiving dishes: report - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/food-drink/americas-favorite-least-favorite-thanksgiving-dishes-report)
+     [![Thanksgiving leftovers can and should be safely stored this way - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/food-drink/thanksgiving-leftovers-can-should-safely-stored-way)
+
+### [Thanksgiving leftovers can and should be safely stored this way](https://www.foxnews.com/food-drink/thanksgiving-leftovers-can-should-safely-stored-way)
 
 ### [America's favorite and least favorite Thanksgiving dishes: report](https://www.foxnews.com/food-drink/americas-favorite-least-favorite-thanksgiving-dishes-report)
+
+   [![Thanksgiving food options can often be filled with types of food that those with dietary needs cannot eat. Gluten Free Easy shared a gluten-free recipe option for this Thanksgiving holiday. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/food-drink/americas-favorite-least-favorite-thanksgiving-dishes-report)
 
 ### [Dallas Cowboys fans can now enjoy their own star-shaped chicken nuggets](https://www.foxnews.com/food-drink/dallas-cowboys-fans-enjoy-star-shaped-chicken-nuggets)
 
@@ -1170,28 +1174,24 @@ Top 'quiet travel' DESTINATIONS](https://www.foxnews.com/travel/quiet-travel-hav
 
    [![The pillowcase method produces a perfectly golden-brown turkey, said Heiskell. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/food-drink/award-winning-thanksgiving-turkey-recipe-requires-pillowcase)
 
-### ['Best homemade' Thanksgiving turkey gravy: Try the recipe](https://www.foxnews.com/food-drink/best-homemade-thanksgiving-turkey-gravy-try-recipe)
-
-   [![&apos;Best homemade&apos; Thanksgiving turkey gravy: Try the recipe - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/food-drink/best-homemade-thanksgiving-turkey-gravy-try-recipe)
-
 [FOX Weather](https://www.foxweather.com/)
 ------------------------------------------
 
-     [![Snow slams Northeast as Thanksgiving winter storm wreaks havoc for travelers - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxweather.com/weather-news/snow-northeast-thanksgiving-winter-storm-travel-us)
+     [!['Dangerously cold' arctic outbreak impacts millions as wind chills to drop well below zero - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxweather.com/weather-news/arctic-outbreak-lake-effect-snow-after-thanksgiving)
 
-### [Snow slams Northeast as Thanksgiving winter storm wreaks havoc for travelers](https://www.foxweather.com/weather-news/snow-northeast-thanksgiving-winter-storm-travel-us)
+### ['Dangerously cold' arctic outbreak impacts millions as wind chills to drop well below zero](https://www.foxweather.com/weather-news/arctic-outbreak-lake-effect-snow-after-thanksgiving)
 
 ### [Feet of lake-effect snow for Great Lakes as arctic blast looms for days](https://www.foxweather.com/weather-news/lake-effect-snow-buffalo-watertown-cleveland-great-lakes-arctic-blast)
 
    [![Feet of lake-effect snow for Great Lakes as arctic blast looms for days - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxweather.com/weather-news/lake-effect-snow-buffalo-watertown-cleveland-great-lakes-arctic-blast)
 
-### ['Dangerously cold' arctic outbreak impacts millions as wind chills to drop well below zero](https://www.foxweather.com/weather-news/arctic-outbreak-lake-effect-snow-after-thanksgiving)
-
-   [![&apos;Dangerously cold&apos; arctic outbreak impacts millions as wind chills to drop well below zero - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxweather.com/weather-news/arctic-outbreak-lake-effect-snow-after-thanksgiving)
-
 ### [Post-Thanksgiving travel winter storm tracker: Live maps, airport status, flight delays, forecast and more](https://www.foxweather.com/weather-news/thanksgiving-travel-2024-live-maps-weather-flight-delays)
 
    [![Post-Thanksgiving travel winter storm tracker: Live maps, airport status, flight delays, forecast and more - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxweather.com/weather-news/thanksgiving-travel-2024-live-maps-weather-flight-delays)
+
+### [Where to see Northern Lights on Black Friday as Geomagnetic Storm Watch issued](https://www.foxweather.com/earth-space/geomagnetic-storm-watch-issued-thanksgiving-day-black-friday)
+
+   [![Where to see Northern Lights on Black Friday as Geomagnetic Storm Watch issued - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxweather.com/earth-space/geomagnetic-storm-watch-issued-thanksgiving-day-black-friday)
 
 [Full Episodes](https://www.foxnews.com/video/topics/latest-news-video)
 -----------------------------------------------------------------------
@@ -1200,6 +1200,10 @@ Top 'quiet travel' DESTINATIONS](https://www.foxnews.com/travel/quiet-travel-hav
 
 ### [Special Report w/ Bret Baier - Thursday, November 28](https://www.foxnews.com/video/6365309056112)
 
+### [The Five - Thursday, November 28](https://www.foxnews.com/video/6365309552112)
+
+    [![The Five - Thursday, November 28 - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/6365309552112)
+
 ### [Outnumbered - Thursday, November 28](https://www.foxnews.com/video/6365310405112)
 
     [![Outnumbered - Thursday, November 28 - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/6365310405112)
@@ -1207,10 +1211,6 @@ Top 'quiet travel' DESTINATIONS](https://www.foxnews.com/travel/quiet-travel-hav
 ### [The Ingraham Angle - Wednesday, November 27](https://www.foxnews.com/video/6365294738112)
 
     [![The Ingraham Angle - Wednesday, November 27 - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/6365294738112)
-
-### [Gutfeld! - Wednesday, November 27](https://www.foxnews.com/video/6365294730112)
-
-    [![Gutfeld! - Wednesday, November 27 - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/6365294730112)
 
 [Latest Wires](https://www.foxnews.com/category/topic/associated-press)
 -----------------------------------------------------------------------
@@ -1272,9 +1272,9 @@ Top 'quiet travel' DESTINATIONS](https://www.foxnews.com/travel/quiet-travel-hav
 [Immigration](https://www.foxnews.com/category/us/immigration)
 --------------------------------------------------------------
 
-     [![Texas could bus migrants to directly to ICE for deportation instead of sanctuary cities under proposed plan - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/texas-could-bus-migrants-directly-ice-deportation-instead-sanctuary-cities-under-proposed-plan)
+     [![Texas could bus migrants directly to ICE for deportation instead of sanctuary cities under proposed plan - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/texas-could-bus-migrants-directly-ice-deportation-instead-sanctuary-cities-under-proposed-plan)
 
-### [Texas could bus migrants to directly to ICE for deportation instead of sanctuary cities under proposed plan](https://www.foxnews.com/politics/texas-could-bus-migrants-directly-ice-deportation-instead-sanctuary-cities-under-proposed-plan)
+### [Texas could bus migrants directly to ICE for deportation instead of sanctuary cities under proposed plan](https://www.foxnews.com/politics/texas-could-bus-migrants-directly-ice-deportation-instead-sanctuary-cities-under-proposed-plan)
 
 ### [Texas Democrat says he can find 'common ground' with Trump's incoming border czar](https://www.foxnews.com/media/texas-democrat-says-he-can-find-common-ground-trumps-incoming-border-czar)
 
