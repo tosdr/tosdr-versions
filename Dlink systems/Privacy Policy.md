@@ -2,7 +2,7 @@
 
 * For Home
     * [Wi-Fi](https://us.dlink.com/us/en/for-home/wifi)
-    * [4G & 5G](https://us.dlink.com/us/en/for-home/wifi/4g-5g)
+    * [4G/5G](https://us.dlink.com/us/en/for-home/wifi/4g-5g)
     * [Cameras](https://us.dlink.com/us/en/for-home/cameras)
     * [Smart Home](https://us.dlink.com/us/en/for-home/smart-home)
     * [Switches](https://us.dlink.com/us/en/for-home/switches)
@@ -28,7 +28,7 @@ US|EN
  
 
 *  [![](/us/en/-/media/icon-library/navigation/hq/r32_250w.png) Wi-Fi](https://us.dlink.com/us/en/for-home/wifi)
-*  [![](/us/en/-/media/icon-library/navigation/hq/dwr2101250w.png) 4G & 5G](https://us.dlink.com/us/en/for-home/wifi/4g-5g)
+*  [![](/us/en/-/media/icon-library/navigation/hq/g530a1image-lsideright.png) 4G/5G](https://us.dlink.com/us/en/for-home/wifi/4g-5g)
 *  [![](/us/en/-/media/icon-library/navigation/hq/dcs8302lh250w.png) Cameras](https://us.dlink.com/us/en/for-home/cameras)
 *  [![](/us/en/-/media/icon-library/navigation/hq/dspw118250w.png) Smart Home](https://us.dlink.com/us/en/for-home/smart-home)
 *  [![](/us/en/-/media/icon-library/navigation/hq/dms106xt250w.png) Switches](https://us.dlink.com/us/en/for-home/switches)
