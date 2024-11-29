@@ -66,7 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![ Amount Given by Supporters and Opponents of 2013 & 2014 Ballot Measures](/assets/Images/teasers/full/2013-14-Amts-to-Passed-Failed-BMs.png)](https://www.followthemoney.org/research/institute-reports/ballot-measures-2013-and-2014/)
+[![1%=51%](/assets/logos/151-2000-12.png)](http://www.followthemoney.org/assets/ANNUAL-REPORTS/NIMSP-Annual-Report-2013.pdf)
+
+Just 1% of donors gave 51% of the total.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
