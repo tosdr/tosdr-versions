@@ -1,7 +1,8 @@
-Thursday, November 28 2024
+Friday, November 29 2024
 
 Breaking News
 
+* [The Inequity of the Pursuit of Equity in the military over preparedness is at best dereliction of duty](https://www.conservativedailynews.com/2024/11/the-inequity-of-the-pursuit-of-equity-in-the-military-over-preparedness-is-at-best-dereliction-of-duty/)
 * [America In The Age Of Stupidity: Democrats Kiss Hitler’s Ass](https://www.conservativedailynews.com/2024/11/america-in-the-age-of-stupidity-democrats-kiss-hitlers-ass/)
 * [Trump Will Redirect Billions In Unspent Funds From Biden’s Climate Law To ‘Real Infrastructure’](https://www.conservativedailynews.com/2024/11/trump-will-redirect-billions-in-unspent-funds-from-bidens-climate-law-to-real-infrastructure/)
 * [A Lame Duck Biden Could Put The World In Peril](https://www.conservativedailynews.com/2024/11/a-lame-duck-biden-could-put-the-world-in-peril/)
@@ -9,7 +10,6 @@ Breaking News
 * [Something to be Thankful For](https://www.conservativedailynews.com/2024/11/something-to-be-thankful-for/)
 * [President Joe Biden’s Schedule for Wednesday, November 27, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-wednesday-november-27-2024/)
 * [OOF: Kamala Harris Appears Disheveled In First Appearance Since Election Loss](https://www.conservativedailynews.com/2024/11/oof-kamala-harris-appears-disheveled-in-first-appearance-since-election-loss/)
-* [Trump Deserves To Have His Nominees Confirmed Quickly](https://www.conservativedailynews.com/2024/11/trump-deserves-to-have-his-nominees-confirmed-quickly/)
 
 * [RSS](https://www.conservativedailynews.com/news-feeds/)
 * [Facebook](https://www.facebook.com/ConservativeDailyNews/)
@@ -130,6 +130,12 @@ Orange = One-Time Donations
 
 Recent Posts
 
+* [![Military woke](https://www.conservativedailynews.com/wp-content/uploads/2023/07/mrz071323dAPR.jpg)](https://www.conservativedailynews.com/2024/11/the-inequity-of-the-pursuit-of-equity-in-the-military-over-preparedness-is-at-best-dereliction-of-duty/)
+    
+    [The Inequity of the Pursuit of Equity in the military over preparedness is at best dereliction of duty](https://www.conservativedailynews.com/2024/11/the-inequity-of-the-pursuit-of-equity-in-the-military-over-preparedness-is-at-best-dereliction-of-duty/)
+    
+    November 28, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/Morning-Joe-Joe-Scarborough-Trump-220x150.jpg)](https://www.conservativedailynews.com/2024/11/america-in-the-age-of-stupidity-democrats-kiss-hitlers-ass/)
     
     [America In The Age Of Stupidity: Democrats Kiss Hitler’s Ass](https://www.conservativedailynews.com/2024/11/america-in-the-age-of-stupidity-democrats-kiss-hitlers-ass/)
@@ -169,12 +175,6 @@ Recent Posts
 * [![Thanksgiving eat mor turkee cows](https://www.conservativedailynews.com/wp-content/uploads/2024/11/stg112824dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/turkey-day/)
     
     [Turkey Day](https://www.conservativedailynews.com/2024/11/turkey-day/)
-    
-    November 28, 2024
-    
-* [![Thanksgiving politics at dinner table](https://www.conservativedailynews.com/wp-content/uploads/2024/11/mrz112824dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/political-dinner/)
-    
-    [Political Dinner](https://www.conservativedailynews.com/2024/11/political-dinner/)
     
     November 28, 2024
     
@@ -232,15 +232,15 @@ Contact Us
 
 Recent Comments
 
+* KayCee on [A Cautionary Note for Republicans Celebrating Trump’s Historic Victory](https://www.conservativedailynews.com/2024/11/a-cautionary-note-for-republicans-celebrating-trumps-historic-victory/#comment-783440)
+* [cotobuzz](http://www.cotobuzz.com/) on [The Inequity of the Pursuit of Equity in the military over preparedness is at best dereliction of duty](https://www.conservativedailynews.com/2024/11/the-inequity-of-the-pursuit-of-equity-in-the-military-over-preparedness-is-at-best-dereliction-of-duty/#comment-783438)
+* Bill Wallace on [The Inequity of the Pursuit of Equity in the military over preparedness is at best dereliction of duty](https://www.conservativedailynews.com/2024/11/the-inequity-of-the-pursuit-of-equity-in-the-military-over-preparedness-is-at-best-dereliction-of-duty/#comment-783437)
 * Jeff L. on [Shocker: Liberal Professor Concludes liberals should try to Persuade Voters of their Views](https://www.conservativedailynews.com/2024/11/shocker-liberal-professor-concludes-liberals-should-try-to-persuade-voters-of-their-views/#comment-783431)
 * Catboss on [Lame Duck Biden Admin Cuts Massive Check For Failing EV Manufacturer](https://www.conservativedailynews.com/2024/11/lame-duck-biden-admin-cuts-massive-check-for-failing-ev-manufacturer/#comment-783425)
 * Catboss on [Lame Duck Biden Admin Cuts Massive Check For Failing EV Manufacturer](https://www.conservativedailynews.com/2024/11/lame-duck-biden-admin-cuts-massive-check-for-failing-ev-manufacturer/#comment-783424)
 * Catboss on [Lame Duck Biden Admin Cuts Massive Check For Failing EV Manufacturer](https://www.conservativedailynews.com/2024/11/lame-duck-biden-admin-cuts-massive-check-for-failing-ev-manufacturer/#comment-783423)
 * charles wilkins on [Something to be Thankful For](https://www.conservativedailynews.com/2024/11/something-to-be-thankful-for/#comment-783422)
 * Stanley Warner on [Lame Duck Biden Admin Cuts Massive Check For Failing EV Manufacturer](https://www.conservativedailynews.com/2024/11/lame-duck-biden-admin-cuts-massive-check-for-failing-ev-manufacturer/#comment-783421)
-* Jeff L. on [A Cautionary Note for Republicans Celebrating Trump’s Historic Victory](https://www.conservativedailynews.com/2024/11/a-cautionary-note-for-republicans-celebrating-trumps-historic-victory/#comment-783412)
-* Jeff L. on [A Cautionary Note for Republicans Celebrating Trump’s Historic Victory](https://www.conservativedailynews.com/2024/11/a-cautionary-note-for-republicans-celebrating-trumps-historic-victory/#comment-783411)
-* alan kifer on [Transgender Activist Says Trying To Stop Men From Using Women’s Restrooms Will Be ‘Last Mistake You Ever Make’](https://www.conservativedailynews.com/2024/11/transgender-activist-says-trying-to-stop-men-from-using-womens-restrooms-will-be-last-mistake-you-ever-make/#comment-783396)
 
 [Close](#)
 
