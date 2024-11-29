@@ -249,10 +249,10 @@ Email Address
 
 #### Recent Posts
 
+* [Doomscrolling on Social Media: What Teenagers Must Know](https://www.3ptechies.com/doomscrolling-on-social-media.html)
 * [Get Daily NYT Connections Hints with these 7 Tools](https://www.3ptechies.com/get-daily-nyt-connections-hints.html)
 * [6 Key Challenges in Managing Multiple Domains within WordPress](https://www.3ptechies.com/managing-multiple-domains.html)
 * [Mastering Java Development Services: Tips for Your Success](https://www.3ptechies.com/java-development-services.html)
-* [Top 5 Proxy Providers for Developers and Tech Enthusiasts](https://www.3ptechies.com/best-proxy-providers.html)
 
 * [About](https://www.3ptechies.com/about)
     * [All](https://www.3ptechies.com/mobile)[Android](https://www.3ptechies.com/mobile/android)[Blackberry](https://www.3ptechies.com/mobile/blackberry)[iPhone](https://www.3ptechies.com/mobile/iphone)[Nokia](https://www.3ptechies.com/mobile/nokia)[Tablets](https://www.3ptechies.com/mobile/tablets)[Telecommunication](https://www.3ptechies.com/mobile/telecomm)[Wearable Gadgets](https://www.3ptechies.com/mobile/wearable-gadgets)
