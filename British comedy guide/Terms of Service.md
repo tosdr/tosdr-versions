@@ -176,6 +176,10 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 
 ### See also
 
+[![Alfie Brown](https://cdn.comedy.co.uk/images/library/people/300x200/a/alfie_brown_2024_c.jpg "Alfie Brown")](https://www.comedy.co.uk/live/fgwg/alfie-brown/) Live
+
+[First Gig, Worst Gig: Alfie Brown](https://www.comedy.co.uk/live/fgwg/alfie-brown/)
+
 [![The Mighty Boosh. Image shows left to right: Howard Moon (Julian Barratt), Bollo (Dave Brown), Vince Noir (Noel Fielding)](https://cdn.comedy.co.uk/images/library/comedies/300x200/m/mighty_boosh_bollo.jpg "The Mighty Boosh. Image shows left to right: Howard Moon (Julian Barratt), Bollo (Dave Brown), Vince Noir (Noel Fielding)")](https://www.comedy.co.uk/quiz/334/) Quiz
 
 [British Comedy Quiz #334](https://www.comedy.co.uk/quiz/334/)
@@ -187,10 +191,6 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 [![Craig Campbell](https://cdn.comedy.co.uk/images/library/people/300x200/c/craig_campbell_2024.jpg "Craig Campbell")](https://www.comedy.co.uk/live/random8/craig-campbell/) Live
 
 [Random 8: Craig Campbell](https://www.comedy.co.uk/live/random8/craig-campbell/)
-
-[![Jürgen Strack](https://cdn.comedy.co.uk/images/library/people/300x200/j/jurgen_strack_2024_b.jpg "Jürgen Strack")](https://www.comedy.co.uk/live/features/jurgen-of-all-trades-meister-of-none/) Live
-
-[Jürgen of all trades, Meister of none!](https://www.comedy.co.uk/live/features/jurgen-of-all-trades-meister-of-none/)
 
 #### Subscribe to our newsletters
 
