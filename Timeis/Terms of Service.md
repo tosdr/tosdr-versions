@@ -23,16 +23,16 @@ This site is affiliated with Freestar for the purposes of placing advertising on
 
 We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [https://www.networkadvertising.org](https://www.networkadvertising.org/).
 
-10:53:51PM
+04:59:25AM
 
 The clock will update automatically if you turn on JavaScript in your browser.
 ------------------------------------------------------------------------------
 
-Thursday, November 28, 2024
+Friday, November 29, 2024
 
-[Thanksgiving (US)](https://en.wikipedia.org/wiki/Thanksgiving_(United_States)) / [Red Planet Day](https://en.wikipedia.org/wiki/Mars)
+[Black Friday](https://en.wikipedia.org/wiki/Black_Friday_(shopping)) / [International Day of Solidarity with the Palestinian People](https://www.un.org/en/observances/International-day-of-solidarity-with-the-palestinian-people) / [International Jaguar Day](https://www.internationaljaguarday.org/)
 
-Sun: ↑ 06:57AM ↓ 04:31PM (9h 34m) - [More info](https://time.is/North_Bergen#time_zone) - [Make North Bergen time default](https://time.is/h/4dd937) - [Add to favorite locations](https://time.is/)
+Sun: ↑ 06:58AM ↓ 04:31PM (9h 33m) - [More info](https://time.is/North_Bergen#time_zone) - [Make North Bergen time default](https://time.is/h/4dd937) - [Add to favorite locations](https://time.is/)
 
 ×
 
