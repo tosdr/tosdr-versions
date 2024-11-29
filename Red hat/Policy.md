@@ -151,7 +151,6 @@ Featured links
 * [Cloud vs. edge](https://www.redhat.com/en/topics/cloud-computing/cloud-vs-edge)
 * [Red Hat OpenShift vs. Kubernetes](https://www.redhat.com/en/technologies/cloud-computing/openshift/red-hat-openshift-kubernetes-1)
 * [Learning Ansible basics](https://www.redhat.com/en/topics/automation/learning-ansible-tutorial)
-* [What is Linux?](https://www.redhat.com/en/topics/linux/what-is-linux)
 
 ### More to explore
 
