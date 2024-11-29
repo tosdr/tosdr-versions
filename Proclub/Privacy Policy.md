@@ -1,12 +1,10 @@
 [THANKSGIVING CLUB HOURS, Thursday, November 28th](#)
 
-[Enjoy PRO Club for the day on us. Sign up for a 1-Day Pass >>](https://lp.bayclubs.com/1daypass-2/)
+[Enjoy PRO club for the day on us. Schedule a Tour today >>](https://www.proclub.com/club/join/schedule-a-tour)
 
 1
 
 2
-
-[](https://lp.bayclubs.com/1daypass-2/)
 
 [](https://www.proclub.com/club)
 
@@ -14,21 +12,21 @@
 
 call bellevue
 
-[(425) 885-5566](tel:(425)885-5566)
+[(425) 885-5566](tel:4258855566)
 
-text bellevue
+call bellevue
 
-[(425) 364-4500](tel:(425)364-4500)
+[(425) 885-5566](tel:4258855566)
 
-call seattle
+call bellevue
 
-[(206) 332-1873](tel:(206)332-1873)
+[(425) 885-5566](tel:4258855566)
 
-[join pro](https://www.proclub.com/club/join)[Sign in](http://bayclubconnect.com/)
+[join pro](https://www.proclub.com/club/join)[sign in](http://bayclubconnect.com/)
 
-medical
+[](#)
 
-club
+[medical](https://www.proclub.com/medical)[club](https://www.proclub.com/club)
 
 [classes](https://www.bayclubs.com/classes/)
 
@@ -38,7 +36,7 @@ club
 
 [youth](https://www.proclub.com/club/youth)
 
-[after school care](https://www.proclub.com/club/youth/after-school-care)[birthday parties](https://www.proclub.com/club/youth/birthday-parties)[camps](https://www.proclub.com/club/youth/camps)[child care](https://www.proclub.com/club/youth/child-care)[family events](https://www.proclub.com/club/youth/family-events)[kids zone](https://www.proclub.com/club/youth/kids-zone)[preschool](https://www.proclub.com/club/youth/learning-academy)[youth fitness](https://www.proclub.com/club/youth/youth-fitness)[youth sports](https://www.proclub.com/club/youth/youth-sports)
+[after school care](#)[birthday parties](#)[camps](#)[child care](#)[family events](#)[kids zone](#)[preschool](#)[youth fitness](#)[youth sports](#)
 
 [spa & salon](https://www.proclub.com/club/the-spa)
 
@@ -50,7 +48,9 @@ club
 
 [membership](https://www.proclub.com/club/join)
 
-[bellevue](https://www.proclub.com/club/locations/bellevue)[seattle](https://www.proclub.com/club/locations/seattle)[about pro](https://www.proclub.com/club/locations/about-us)[join](https://www.proclub.com/club/join)[about](#)[blog](#)[careers](#)[contact us](#)
+[bellevue](https://www.proclub.com/club/locations/bellevue)[seattle](https://www.proclub.com/club/locations/seattle)[about pro](https://www.proclub.com/club/locations/about-us)[join](https://www.proclub.com/club/join)
+
+[about](#)[blog](#)[carrers](#)
 
 close
 
@@ -73,32 +73,6 @@ _‍_‍**SEATTLE:** Open 7:00 a.m. – 12:00 p.m., _please note that showers cl
 We are so grateful for all of you and wish our members a Happy Thanksgiving.
 
 for assisstance, call [(425) 885-5566](tel:4258855566)
-
-[](https://www.proclub.com/club)
-
-[medical](https://www.proclub.com/medical)[club](https://www.proclub.com/club)
-
-[classes](https://www.bayclubs.com/classes/)
-
-[fitness & sports](https://www.proclub.com/club/fitness-and-sports)
-
-[aquatics](https://www.proclub.com/club/fitness-and-sports/aquatics)[basketball](https://www.proclub.com/club/fitness-and-sports/basketball)[crossfit](https://www.proclub.com/club/fitness-and-sports/crossfit)[group fitness](https://www.proclub.com/club/fitness-and-sports/group-fitness)[personal training](https://www.proclub.com/club/fitness-and-sports/personal-training)[pickleball](https://www.proclub.com/club/fitness-and-sports/pickleball)[pilates](https://www.proclub.com/club/fitness-and-sports/pilates)[racquetball](https://www.proclub.com/club/fitness-and-sports/racquetball)[rec sports](https://www.proclub.com/club/fitness-and-sports/rec-sports)[s&c center](https://www.proclub.com/club/fitness-and-sports/s-and-c-center)[squash](https://www.proclub.com/club/fitness-and-sports/squash)[tennis](https://www.proclub.com/club/fitness-and-sports/tennis)[yoga](https://www.proclub.com/club/fitness-and-sports/yoga)
-
-[youth](https://www.proclub.com/club/youth)
-
-[after school care](https://www.proclub.com/club/youth/after-school-care)[birthday parties](https://www.proclub.com/club/youth/birthday-parties)[camps](https://www.proclub.com/club/youth/camps)[child care](https://www.proclub.com/club/youth/child-care)[family events](https://www.proclub.com/club/youth/family-events)[kids zone](https://www.proclub.com/club/youth/kids-zone)[preschool](https://www.proclub.com/club/youth/learning-academy)[youth fitness](https://www.proclub.com/club/youth/youth-fitness)[youth sports](https://www.proclub.com/club/youth/youth-sports)
-
-[spa & salon](https://www.proclub.com/club/the-spa)
-
-[brows & lashes](https://www.proclub.com/club/the-spa/brows-and-lashes)[cosmetics](https://www.proclub.com/club/the-spa/cosmetics)[hair](https://www.proclub.com/club/the-spa/hair)[massage](https://www.proclub.com/club/the-spa/massage)[nails](https://www.proclub.com/club/the-spa/nails)[skincare](https://www.proclub.com/club/the-spa/skincare)[spa packages](https://www.proclub.com/club/the-spa/spa-packages)[faq](https://www.proclub.com/club/the-spa/faq)
-
-[services](https://www.proclub.com/club/services)
-
-[auto salon](https://www.proclub.com/club/services/auto-salon)[dining](https://www.proclub.com/club/services/dining-and-catering)[executive locker rooms](https://www.proclub.com/club/services/executive-locker-rooms)[gift cards](https://www.proclub.com/club/services/gift-cards)[private events](https://www.proclub.com/club/services/private-events)[pro shop](https://www.proclub.com/club/services/pro-shop)[team building](https://www.proclub.com/club/services/team-building)
-
-[membership](https://www.proclub.com/club/join)
-
-[sign in](https://bayclubconnect.com/)[bellevue](https://www.proclub.com/club/locations/bellevue)[seattle](https://www.proclub.com/club/locations/seattle)[about pro](https://www.proclub.com/club/locations/about-us)[join](https://www.proclub.com/club/join)[blog](https://360degrees.blog/)[careers](https://www.proclub.com/careers)
 
 privacy policy
 
