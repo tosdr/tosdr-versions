@@ -87,13 +87,13 @@ Most Read
     
     1. [NASA awards SpaceX a contract for one of the few things it hasn’t done yet](https://arstechnica.com/space/2024/11/with-dragonfly-contract-nasa-will-certify-spacex-for-nuclear-powered-payloads/)
     
-2. 2. [Found in the wild: The world’s first unkillable UEFI bootkit for Linux](https://arstechnica.com/security/2024/11/found-in-the-wild-the-worlds-first-unkillable-uefi-bootkit-for-linux/)
+2. 2. [Man suffers chemical burn that lasted months after squeezing limes](https://arstechnica.com/health/2024/11/man-suffers-chemical-burn-that-lasted-months-after-squeezing-limes/)
     
-3. 3. [Man suffers chemical burn that lasted months after squeezing limes](https://arstechnica.com/health/2024/11/man-suffers-chemical-burn-that-lasted-months-after-squeezing-limes/)
+3. 3. [Found in the wild: The world’s first unkillable UEFI bootkit for Linux](https://arstechnica.com/security/2024/11/found-in-the-wild-the-worlds-first-unkillable-uefi-bootkit-for-linux/)
     
 4. 4. [FCC approves Starlink plan for cellular phone service, with some limits](https://arstechnica.com/tech-policy/2024/11/fcc-approves-starlink-plan-for-cellular-phone-service-with-some-limits/)
     
-5. 5. [After Russian ship docks to space station, astronauts report a foul smell](https://arstechnica.com/space/2024/11/after-russian-ship-docks-to-space-station-astronauts-report-a-foul-smell/)
+5. 5. [Flour, water, salt, GitHub: The Bread Code is a sourdough baking framework](https://arstechnica.com/culture/2024/11/flour-water-salt-github-the-bread-code-is-a-sourdough-baking-framework/)
     
 
 Customize
