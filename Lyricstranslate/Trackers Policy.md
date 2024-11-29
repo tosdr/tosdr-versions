@@ -137,69 +137,69 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![BlackRyder](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1429942-1641186576.png)](https://lyricstranslate.com/en/translator/blackryder "BlackRyder")
-
-New translation
-
-[Negramaro - Lente](https://lyricstranslate.com/en/negramaro-lente-spanish)
-
-Italian → Spanish
-
-[![Panda love](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1458061-1655828855.jpg)](https://lyricstranslate.com/en/translator/panda-love "Panda love")
+[![robinofsherwood17021981](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1199762-1607435630.jpg)](https://lyricstranslate.com/en/translator/robinofsherwood17021981 "robinofsherwood17021981")
 
 New song
 
-[Moana 2 (OST) - 放手 \[Get Lost\] (China)](https://lyricstranslate.com/en/moana-2-ost-fang-shou-lyrics)
-
-Chinese
-
-[![kerakemas](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1192548-1634473760.jpg)](https://lyricstranslate.com/en/translator/kerakemas "kerakemas")
-
-New translation
-
-[SadSvit - Пам'ятай свій дім (Pam'yatay sviy dim)](https://lyricstranslate.com/en/sadsvit-pamyatay-sviy-dim-transliteration)
-
-Ukrainian → Transliteration
-
-[![Zarina01](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1295512-1667921080.jpg)](https://lyricstranslate.com/en/translator/zarina01 "Zarina01")
-
-New translation
-
-[Ofra Haza - אסאלק (A 'Salk)](https://lyricstranslate.com/en/ofra-haza-slq-salk-transliteration)
-
-Judeo-Yemeni Arabic → Transliteration
-
-[![Joseph Unicornvault](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1600574-1731910325.jpg)](https://lyricstranslate.com/en/translator/joseph3101 "Joseph Unicornvault")
-
-New song
-
-[Schock-headed Peter (Musical) - Shock-headed Peter Ouverture](https://lyricstranslate.com/en/schock-headed-peter-musi-shock-headed-peter-ouvert-lyrics)
-
-English
-
-[![Panda love](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1458061-1655828855.jpg)](https://lyricstranslate.com/en/translator/panda-love "Panda love")
-
-New song
-
-[Moana 2 (OST) - 远航（再现） \[Beyond（Reprise)\] (China)](https://lyricstranslate.com/en/moana-2-ost-yuan-hang-zai-xian-lyrics)
-
-Chinese
-
-[![Joseph Unicornvault](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1600574-1731910325.jpg)](https://lyricstranslate.com/en/translator/joseph3101 "Joseph Unicornvault")
-
-New song
-
-[Schock-headed Peter (Musical) - Ouvertüre \[Shock-headed Peter Ouverture\]](https://lyricstranslate.com/en/schock-headed-peter-musi-ouverture-shock-headed-p-lyrics)
+[Daniela Alfinito - Träume on the Rocks](https://lyricstranslate.com/en/daniela-alfinito-traume-rocks-lyrics)
 
 German
 
-[![Sibaq 2k25](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1638220-1732682429.png)](https://lyricstranslate.com/en/translator/sibaq-2k25 "Sibaq 2k25")
+[![robinofsherwood17021981](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1199762-1607435630.jpg)](https://lyricstranslate.com/en/translator/robinofsherwood17021981 "robinofsherwood17021981")
 
 New song
 
-[AJSAL THRISSUR&AJSAL KOTTAKKALRAZAN KAKKODI - THIRU THWAHA JAGAGURU](https://lyricstranslate.com/en/ajsal-thrissurajsal-kott-thiru-thwaha-jagaguru-lyrics)
+[Daniela Alfinito - Im Dunkel der Nacht](https://lyricstranslate.com/en/daniela-alfinito-im-dunkel-der-nacht-lyrics)
 
-Malay
+German
+
+[![robinofsherwood17021981](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1199762-1607435630.jpg)](https://lyricstranslate.com/en/translator/robinofsherwood17021981 "robinofsherwood17021981")
+
+New song
+
+[Daniela Alfinito - Kein Feuer wär mir heiß genug](https://lyricstranslate.com/en/daniela-alfinito-kein-feuer-war-mir-heiss-lyrics)
+
+German
+
+[![robinofsherwood17021981](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1199762-1607435630.jpg)](https://lyricstranslate.com/en/translator/robinofsherwood17021981 "robinofsherwood17021981")
+
+New song
+
+[Daniela Alfinito - Passagiere der Liebe](https://lyricstranslate.com/en/daniela-alfinito-passagiere-der-liebe-lyrics)
+
+German
+
+[![robinofsherwood17021981](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1199762-1607435630.jpg)](https://lyricstranslate.com/en/translator/robinofsherwood17021981 "robinofsherwood17021981")
+
+New song
+
+[Daniela Alfinito - Warum?](https://lyricstranslate.com/en/daniela-alfinito-warum-lyrics)
+
+German
+
+[![Polonius](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/polonius "Polonius")
+
+New forum topic
+
+[Understanding שייגעצ -- ניו יורק רפיח](https://lyricstranslate.com/en/forum/hebrew-language/understanding-%D7%A9%D7%99%D7%99%D7%92%D7%A2%D7%A6-%D7%A0%D7%99%D7%95-%D7%99%D7%95%D7%A8%D7%A7-%D7%A8%D7%A4%D7%99%D7%97)
+
+Hebrew language
+
+[![Souldiver66](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1638388-1732879174.jpg)](https://lyricstranslate.com/en/translator/souldiver66 "Souldiver66")
+
+New translation
+
+[Patent Ochsner - Niemer im Nüt](https://lyricstranslate.com/en/patent-ochsner-niemer-im-nut-german)
+
+German (Swiss-German/Alemannic) → German
+
+[![robinofsherwood17021981](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1199762-1607435630.jpg)](https://lyricstranslate.com/en/translator/robinofsherwood17021981 "robinofsherwood17021981")
+
+New translation
+
+[Annemarie Eilfeld - Herz aus Metall](https://lyricstranslate.com/en/annemarie-eilfeld-herz-aus-metall-english)
+
+German → English
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
