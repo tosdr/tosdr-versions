@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**November 28, 2024**
+**November 29, 2024**
 
 * * *
 
@@ -228,27 +228,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Chronic Illness](https://www.sciencedaily.com/news/health_medicine/chronic_illness/)
-
 [Health Policy](https://www.sciencedaily.com/news/health_medicine/health_policy/)
+
+[Chronic Illness](https://www.sciencedaily.com/news/health_medicine/chronic_illness/)
 
 [Brain-Computer Interfaces](https://www.sciencedaily.com/news/mind_brain/brain-computer_interfaces/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Medical Technology](https://www.sciencedaily.com/news/matter_energy/medical_technology/)
+[Distributed Computing](https://www.sciencedaily.com/news/computers_math/distributed_computing/)
 
 [Graphene](https://www.sciencedaily.com/news/matter_energy/graphene/)
 
-[Quantum Computing](https://www.sciencedaily.com/news/matter_energy/quantum_computing/)
+[Spintronics](https://www.sciencedaily.com/news/matter_energy/spintronics/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
 [Cell Biology](https://www.sciencedaily.com/news/plants_animals/cell_biology/)
 
-[Ice Ages](https://www.sciencedaily.com/news/earth_climate/ice_ages/)
+[Biotechnology](https://www.sciencedaily.com/news/plants_animals/biotechnology/)
 
-[Weather](https://www.sciencedaily.com/news/earth_climate/weather/)
+[Ice Ages](https://www.sciencedaily.com/news/earth_climate/ice_ages/)
 
   
 
