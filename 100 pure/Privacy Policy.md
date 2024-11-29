@@ -1065,7 +1065,7 @@ ADD TO TOTE
 
 ### [Hydra Drench Cream](https://www.100percentpure.com/products/hydra-drench-cream)
 
-508 reviews (508)
+513 reviews (513)
 
 $48.00
 
@@ -1209,7 +1209,7 @@ ADD TO TOTE
 
 ### [Organic Mint Lip Balm](https://www.100percentpure.com/products/organic-mint-lip-balm)
 
-520 reviews (520)
+521 reviews (521)
 
 $8.00
 
