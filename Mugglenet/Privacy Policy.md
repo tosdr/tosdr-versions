@@ -296,15 +296,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The Hogwarts grounds were mapped out during the writing of Harry Potter and the Sorcerer’s Stone. The map includes instructions to get to Hogsmeade: “To reach the school by stagecoach, go right around lake to front entrance at North.”
+The Hogwarts school motto, Draco Dormiens Nunquam Titillandus, means “Never Tickle a Sleeping Dragon.”
 
 ### Potter History
 
-February 2, 2006 – The actors playing the roles of Luna Lovegood (Evanna Lynch), Nymphadora Tonks (Natalia Tena), Dolores Umbridge (Imelda Staunton), and Bellatrix Lestrange (Helena Bonham Carter) in Harry Potter and the Order of the Phoenix are announced.
+March 22, 2005 – Order of the Phoenix filming rumors begin to stir, beginning with talk of filming in Czech Republic.
 
 ### Potter Quote
 
-“Alas! Ear wax!”
+“The disapproval of cowards is praise to the brave.”
 
 [](#)
 
