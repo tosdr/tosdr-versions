@@ -321,8 +321,6 @@ New to Business Banking?
 
 [Enroll Now](https://www.banking.fnbo.com/CommercialWeb/enroll/enroll-form)
 
-Our branches will be closed on Thursday, November 28, in observance of Thanksgiving.
-
 FNBO Privacy Notice
 ===================
 
