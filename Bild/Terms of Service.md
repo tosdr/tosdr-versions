@@ -209,25 +209,25 @@ Menü
 
 [BreakingNews
 
-Gegenstand mit Drähten: Bomben-Alarm an Berliner Bahnhof
+Exklusives Foto: Hier feiert Bayern-Star Davies vor seiner Promillefahrt
 
-Gegenstand mit Drähten: Bomben-Alarm an Berliner Bahnhof
+Exklusives Foto: Hier feiert Bayern-Star Davies vor seiner Promillefahrt
 
-Gegenstand mit Drähten: Bomben-Alarm an Berliner Bahnhof
+Exklusives Foto: Hier feiert Bayern-Star Davies vor seiner Promillefahrt
 
-Gegenstand mit Drähten: Bomben-Alarm an Berliner Bahnhof
+Exklusives Foto: Hier feiert Bayern-Star Davies vor seiner Promillefahrt
 
-Gegenstand mit Drähten: Bomben-Alarm an Berliner Bahnhof
+Exklusives Foto: Hier feiert Bayern-Star Davies vor seiner Promillefahrt
 
-Gegenstand mit Drähten: Bomben-Alarm an Berliner Bahnhof
+Exklusives Foto: Hier feiert Bayern-Star Davies vor seiner Promillefahrt
 
-Gegenstand mit Drähten: Bomben-Alarm an Berliner Bahnhof
+Exklusives Foto: Hier feiert Bayern-Star Davies vor seiner Promillefahrt
 
-Gegenstand mit Drähten: Bomben-Alarm an Berliner Bahnhof
+Exklusives Foto: Hier feiert Bayern-Star Davies vor seiner Promillefahrt
 
-Gegenstand mit Drähten: Bomben-Alarm an Berliner Bahnhof
+Exklusives Foto: Hier feiert Bayern-Star Davies vor seiner Promillefahrt
 
-Gegenstand mit Drähten: Bomben-Alarm an Berliner Bahnhof](https://www.bild.de/regional/berlin/bomben-alarm-an-berliner-bahnhof-gegenstand-mit-draehten-6749b0c771377d52b91d4ece)
+Exklusives Foto: Hier feiert Bayern-Star Davies vor seiner Promillefahrt](https://www.bild.de/sport/fussball/bayern-muenchen-exklusives-foto-hier-feiert-alphonso-davies-vor-seiner-promillefahrt-6749dfe9f650db29b6aa067a)
 
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
