@@ -401,6 +401,24 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Kids say 88-year-old East Bay reading rock star has super powers](https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2024/11/32/18/tz1_cool-school-barbara-proctor-_00.00.01.30.jpg?ve=1&tl=1)
+
+ ![Kids say 88-year-old East Bay reading rock star has super powers](https://images.foxtv.com/images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2024/11/32/18/592/333/tz1_cool-school-barbara-proctor-_00.00.01.30.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/kids-say-88-year-old-east-bay-reading-rock-star-has-super-powers)
+
+### [Kids say 88-year-old East Bay reading rock star has super powers](https://www.fox4news.com/news/kids-say-88-year-old-east-bay-reading-rock-star-has-super-powers)
+
+ [![Notre Dame Cathedral reveals new interior 5 years after massive fire](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/notre-dame-remodeling.jpg?ve=1&tl=1)
+
+ ![Notre Dame Cathedral reveals new interior 5 years after massive fire](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/notre-dame-remodeling.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/notre-dame-cathedral-new-interior-after-fire)
+
+### [Notre Dame Cathedral reveals new interior 5 years after massive fire](https://www.fox4news.com/news/notre-dame-cathedral-new-interior-after-fire)
+
+ [![Amazon workers to strike between Black Friday, Cyber Monday in US, other countries](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/amazon-strike.jpg?ve=1&tl=1)
+
+ ![Amazon workers to strike between Black Friday, Cyber Monday in US, other countries](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/amazon-strike.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/amazon-workers-planning-strike-black-friday-cyber-monday)
+
+### [Amazon workers to strike between Black Friday, Cyber Monday in US, other countries](https://www.fox4news.com/news/amazon-workers-planning-strike-black-friday-cyber-monday)
+
  [![Overshown’s flashy pick-6 boosts Cowboys in 27-20 Thanksgiving win over Giants](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/gettyimages-2186703751-scaled.jpg?ve=1&tl=1)
 
  ![Overshown’s flashy pick-6 boosts Cowboys in 27-20 Thanksgiving win over Giants](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/gettyimages-2186703751-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/cowboys-giants-score-thanksgiving-2024)
@@ -412,24 +430,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![Dallas Cowboys tailgaters thankful for a Thanksgiving Day win](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/11282024-rr-pkg-dionne-thanksgiving-tailgating-att_00.00.41.58.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-cowboys-tailgaters-thankful-thanksgiving-day-win)
 
 ### [Dallas Cowboys tailgaters thankful for a Thanksgiving Day win](https://www.fox4news.com/news/dallas-cowboys-tailgaters-thankful-thanksgiving-day-win)
-
- [![Rockwall woman survives brain tumor, returns to same hospital as nurse](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/p-alex-rockwall-nurse-brain-tumor-patient-9p_00.01.40.12.jpg?ve=1&tl=1)
-
- ![Rockwall woman survives brain tumor, returns to same hospital as nurse](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/p-alex-rockwall-nurse-brain-tumor-patient-9p_00.01.40.12.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/rockwall-woman-survives-brain-tumor-returns-same-hospital-nurse)
-
-### [Rockwall woman survives brain tumor, returns to same hospital as nurse](https://www.fox4news.com/news/rockwall-woman-survives-brain-tumor-returns-same-hospital-nurse)
-
- [![2 killed, 2 arrested after McKinney shootout, police chase](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/melrose-dr-mugs.png?ve=1&tl=1)
-
- ![2 killed, 2 arrested after McKinney shootout, police chase](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/melrose-dr-mugs.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/2-killed-2-arrested-after-mckinney-shootout-police-chase)
-
-### [2 killed, 2 arrested after McKinney shootout, police chase](https://www.fox4news.com/news/2-killed-2-arrested-after-mckinney-shootout-police-chase)
-
- [![Volunteers bus in homeless North Texans for Thanksgiving Day feast](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/p-dial-thanksgiving-feast-for-less-fortunate-9p_00.01.15.10.jpg?ve=1&tl=1)
-
- ![Volunteers bus in homeless North Texans for Thanksgiving Day feast](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/p-dial-thanksgiving-feast-for-less-fortunate-9p_00.01.15.10.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/volunteers-bus-homeless-north-texans-thanksgiving-day-feast)
-
-### [Volunteers bus in homeless North Texans for Thanksgiving Day feast](https://www.fox4news.com/news/volunteers-bus-homeless-north-texans-thanksgiving-day-feast)
 
 ###### [News](https://www.fox4news.com/news)
 
