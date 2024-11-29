@@ -94,7 +94,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Footprints offer a rare look at ancient human relatives crossing paths](https://www.sciencenews.org/article/footprints-ancient-human-relatives)
             
-            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")2 hours ago
+            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")8 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
@@ -203,7 +203,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [What will it take to defend the world from an asteroid?](https://www.sciencenews.org/article/robin-andrews-kill-asteroid-review)
             
-            By [Shi En Kim](https://www.sciencenews.org/author/shi-en-kim "Posts by Shi En Kim")8 hours ago
+            By [Shi En Kim](https://www.sciencenews.org/author/shi-en-kim "Posts by Shi En Kim")14 hours ago
             
         * [Astronomy](https://www.sciencenews.org/topic/astronomy)
             
