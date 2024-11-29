@@ -1,3 +1,7 @@
+[Our Cyber Sale is going on now, save 30% off thousands of products!  
+
+Shop Now!](https://blendermarket.com/products?on_sale=true)
+
 [Blender Market
 
 The indie market for Blender creators](https://blendermarket.com/)
@@ -588,7 +592,7 @@ This privacy policy relates solely to this Website, if not stated otherwise with
 
 ![bee icon](https://assets.superhivemarket.com/site_assets/images/bee_white.svg) ![trihex icon](https://assets.superhivemarket.com/site_assets/images/trihex_white.svg) ![hexglobe icon](https://assets.superhivemarket.com/site_assets/images/hexglobe_white.svg) ![superbutton icon](https://assets.superhivemarket.com/site_assets/images/superbutton_white.svg) ![wing icon](https://assets.superhivemarket.com/site_assets/images/winghex_white.svg)
 
-v2.9.8
+v2.9.9
 
 #### Follow Us
 
