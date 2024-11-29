@@ -36,6 +36,9 @@
         
         Chinese hackers breached T-Mobile's routers to scope out network](https://www.bleepingcomputer.com/news/security/chinese-hackers-breached-t-mobiles-routers-to-scope-out-network/)
     
+    * [![Replace your cloud storage subscription with this 1TB lifetime option](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Replace your cloud storage subscription with this 1TB lifetime option](https://www.bleepingcomputer.com/offer/deals/replace-your-cloud-storage-subscription-with-this-1tb-lifetime-option/)
     * [![A 3-year subscription to WindScribe VPN is $137 off for Black Friday](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         A 3-year subscription to WindScribe VPN is $137 off for Black Friday](https://www.bleepingcomputer.com/offer/deals/a-3-year-subscription-to-windscribe-vpn-is-137-off-for-black-friday/)
@@ -45,9 +48,6 @@
     * [![Early Black Friday deal: Save on Microsoft Office 2024 while you can](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Early Black Friday deal: Save on Microsoft Office 2024 while you can](https://www.bleepingcomputer.com/offer/deals/early-black-friday-deal-save-on-microsoft-office-2024-while-you-can/)
-    * [![UK hospital network postpones procedures after cyberattack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        UK hospital network postpones procedures after cyberattack](https://www.bleepingcomputer.com/news/security/uk-hospital-network-postpones-procedures-after-cyberattack/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
