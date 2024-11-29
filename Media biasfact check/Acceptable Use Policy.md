@@ -67,11 +67,11 @@
 
 MBFC News
 
+* [November 29, 2024 | MBFC’s Daily Vetted Fact Checks for 11/29/2024](https://mediabiasfactcheck.com/2024/11/29/mbfcs-daily-vetted-fact-checks-for-11-29-2024/ "MBFC’s Daily Vetted Fact Checks for 11/29/2024")
 * [November 28, 2024 | MBFC’s Daily Vetted Fact Checks for 11/28/2024](https://mediabiasfactcheck.com/2024/11/28/mbfcs-daily-vetted-fact-checks-for-11-28-2024/ "MBFC’s Daily Vetted Fact Checks for 11/28/2024")
 * [November 27, 2024 | Media News Daily: Top Stories for 11/27/2024](https://mediabiasfactcheck.com/2024/11/27/media-news-daily-top-stories-for-11-27-2024/ "Media News Daily: Top Stories for 11/27/2024")
 * [November 27, 2024 | MBFC’s Daily Vetted Fact Checks for 11/27/2024](https://mediabiasfactcheck.com/2024/11/27/mbfcs-daily-vetted-fact-checks-for-11-27-2024/ "MBFC’s Daily Vetted Fact Checks for 11/27/2024")
 * [November 26, 2024 | Media News Daily: Top Stories for 11/26/2024](https://mediabiasfactcheck.com/2024/11/26/media-news-daily-top-stories-for-11-26-2024/ "Media News Daily: Top Stories for 11/26/2024")
-* [November 26, 2024 | MBFC’s Daily Vetted Fact Checks for 11/26/2024](https://mediabiasfactcheck.com/2024/11/26/mbfcs-daily-vetted-fact-checks-for-11-26-2024/ "MBFC’s Daily Vetted Fact Checks for 11/26/2024")
 
 Search for:  
 
@@ -191,8 +191,8 @@ Last Updated on October 18, 2018 by Media Bias Fact Check
 
 * [Media Bias/Fact Check News](https://mediabiasfactcheck.com/)
 * [Least Biased](https://mediabiasfactcheck.com/center/)
-* [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
 * [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
+* [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
 * [MBFC's Daily Vetted Fact Checks for 11/28/2024](https://mediabiasfactcheck.com/2024/11/28/mbfcs-daily-vetted-fact-checks-for-11-28-2024/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
 * [The Guardian - Bias and Credibility](https://mediabiasfactcheck.com/the-guardian/)
