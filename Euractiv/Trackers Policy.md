@@ -109,27 +109,27 @@ Languages: [Français](https://www.euractiv.fr/?post_type=page&p=364525)
 Most recent
 -----------
 
-[28-11-2024
+[29-11-2024
 
-Franco-German nuclear fight foils EU competitiveness agreement](https://www.euractiv.com/section/politics/news/franco-german-nuclear-fight-foils-eu-competitiveness-agreement/)[28-11-2024
+Romania’s top court orders presidential election recount](https://www.euractiv.com/section/politics/news/romanias-top-court-orders-presidential-election-recount/)[29-11-2024
 
-French farmers no longer want to be ‘top of the class’ in the fight against pesticides](https://www.euractiv.com/section/agriculture-food/news/french-farmers-no-longer-want-to-be-top-of-the-class-in-the-fight-against-pesticides/)[28-11-2024
+Putin says Russia could hit ‘decision-making centres’ in Kyiv with new missile](https://www.euractiv.com/section/global-europe/news/putin-says-russia-could-hit-decision-making-centres-in-kyiv-with-new-missile/)[29-11-2024
 
-MEPs spring a surprise by rejecting smoke-free environments resolution](https://www.euractiv.com/section/health-consumers/news/meps-spring-a-surprise-by-rejecting-smoke-free-environments-resolution/)[28-11-2024
+Israel and Hezbollah trade accusations of ceasefire violations](https://www.euractiv.com/section/global-europe/news/israel-and-hezbollah-trade-accusations-of-ceasefire-violations/)[29-11-2024
 
-Commission mulling 2025 white paper on electricity market reform](https://www.euractiv.com/section/eet/news/commission-mulling-2025-white-paper-on-electricity-market-reform/)[28-11-2024
+Russia hits Ukrainian energy facilities, Kyiv sees ‘despicable escalation’](https://www.euractiv.com/section/global-europe/news/russia-hits-ukrainian-energy-facilities-kyiv-sees-despicable-escalation/)[29-11-2024
 
-EU’s weakened liberals offer olive branch to (some) conservatives](https://www.euractiv.com/section/politics/news/eus-weakened-liberals-offer-olive-branch-to-some-conservatives/)[28-11-2024
+Costa takes helm as European Council president, eyes internal reforms](https://www.euractiv.com/section/politics/news/costa-takes-helm-as-european-council-president-eyes-internal-reforms/)[29-11-2024
 
-Von der Leyen 2: A thin-stretched majority](https://www.euractiv.com/section/politics/news/von-der-leyen-2-a-thin-stretched-majority/)[28-11-2024
+Iran holds nuclear talks with Europeans as tensions ratchet up](https://www.euractiv.com/section/global-europe/news/iran-holds-nuclear-talks-with-europeans-as-tensions-ratchet-up/)[29-11-2024
 
-EU ‘naivety’ to blame for Northvolt’s collapse, says Sweden](https://www.euractiv.com/section/economy-jobs/news/eu-naivety-to-blame-for-northvolts-collapse-says-sweden/)[28-11-2024
+Vikings at the gate? Iceland’s EU debate ahead of key elections](https://www.euractiv.com/section/politics/news/the-capitals-vikings-at-the-gate-icelands-eu-debate-ahead-of-key-elections-2/)[29-11-2024
 
-TikTok hits back against allegations in Romanian elections](https://www.euractiv.com/section/tech/news/tiktok-hits-back-against-allegations-in-romanian-elections/)[28-11-2024
+EU court rules against Bulgarian biometric data collection](https://www.euractiv.com/section/politics/news/eu-court-rules-against-bulgarian-biometric-data-collection/)[29-11-2024
 
-Biden readies $725 million arms aid package for Ukraine](https://www.euractiv.com/section/global-europe/news/biden-readies-725-million-arms-aid-package-for-ukraine/)[28-11-2024
+EU reiterates Russia stance amid Fico’s Moscow plans](https://www.euractiv.com/section/politics/news/eu-reiterates-russia-stance-amid-ficos-moscow-plans/)[29-11-2024
 
-Russia’s plane shortage holds air travel back](https://www.euractiv.com/section/global-europe/news/russias-plane-shortage-holds-air-travel-back/)
+Tusk, Kristersson forge strategic partnership, pledge ‘ironclad’ support for Ukraine](https://www.euractiv.com/section/politics/news/tusk-kristersson-forge-strategic-partnership-pledge-ironclad-support-for-ukraine/)
 
 ###### Advertisement
 
