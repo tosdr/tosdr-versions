@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/media/reagen-aan-de-basis-murdoch-imperium/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/arend-zeevat/de-grote-misleidende-leugen-identiteit/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
