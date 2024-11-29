@@ -123,44 +123,44 @@ Advertisement
     The Fog of War
     
     Winner of the Academy Award for Best DocumentaryIt is the story of America as seen through the eyes of the former Secretary of Defense, Robert S. McNamara. One of the most controversial and influe...](https://documentaryheaven.com/the-fog-of-war/ "The Fog of War")
-* [![The Dark Side of Porn: Diary of a Porn Virgin](/wp-content/thumbnails/872-100x70.jpg?x53432)
-    
-    The Dark Side of Porn: Diary of a Porn Virgin
-    
-    Pornography in Britain has entered the mainstream. As this documentary reveals, there is now no taboo when it comes to working in the porn industry in the UK.From a 38-year-old wife, mother and su...](https://documentaryheaven.com/the-dark-side-of-porn-diary-of-a-porn-virgin/ "The Dark Side of Porn: Diary of a Porn Virgin")
 * [![Why The Industrial Revolution Happened Here](/wp-content/thumbnails/8018-100x70.jpeg?x53432)
     
     Why The Industrial Revolution Happened Here
     
     Professor Jeremy Black examines one of the most extraordinary periods in British history: the Industrial Revolution. He explains the unique economic, social and political conditions that by the 19th c...](https://documentaryheaven.com/why-industrial-revolution-happened-here/ "Why The Industrial Revolution Happened Here")
+* [![Louis Theroux: Drinking To Oblivion](/wp-content/thumbnails/16353-100x70.jpg?x53432)
+    
+    Louis Theroux: Drinking To Oblivion
+    
+    Drinking To Oblivion sees Louis Theroux set about spending some time in the world of extreme drinkers, getting to know people who consume alcohol not just to excess but to the point of total oblivio...](https://documentaryheaven.com/louis-theroux-drinking-to-oblivion/ "Louis Theroux: Drinking To Oblivion")
 
 ###### Throwback Documentaries
 
-* [![The Doctor, the Depleted Uranium, and the Dying Children](/wp-content/thumbnails/2642-100x70.jpg?x53432)
+* [![Ross Kemp on Gangs: A Kenya Special](/wp-content/thumbnails/10395-100x70.jpg?x53432)
     
-    The Doctor, the Depleted Uranium, and the Dying Children
+    Ross Kemp on Gangs: A Kenya Special
     
-    An award winning documentary film produced for German television by Freider Wagner and Valentin Thurn. The film exposes the use and impact of radioactive weapons during the current war against Iraq.](https://documentaryheaven.com/the-doctor-the-depleted-uranium-and-the-dying-children/ "The Doctor, the Depleted Uranium, and the Dying Children")
-* [![EP4/4 Wonders of the Universe](/wp-content/thumbnails/5692-100x70.jpg?x53432)
+    By now I imagine most of you documentary lovers out there will be familiar with the documentary series known as "Ross Kemp on Gangs", but for those of you that don't it is a British series hosted](https://documentaryheaven.com/ross-kemp-kenya-special/ "Ross Kemp on Gangs: A Kenya Special")
+* [![We Are Legion: The Story of the Hacktivists](/wp-content/thumbnails/6784-100x70.jpg?x53432)
     
-    EP4/4 Wonders of the Universe
+    We Are Legion: The Story of the Hacktivists
     
-    Messengers In the last episode of Professor Brian Cox’s epic journey across the universe, he travels from the fossils of the Burgess Shale to the sands of the oldest desert in the world to show how li](https://documentaryheaven.com/wonders-of-the-universe-4/ "EP4/4 Wonders of the Universe")
-* [![Deep Web](/wp-content/thumbnails/9904-100x70.jpg?x53432)
+    We Are Legion: The Story of the Hacktivists" is a documentary that takes us inside the world of Anonymous, the radical "hacktivist" collective that has redefined civil disobedience for the digital age](https://documentaryheaven.com/we-are-legion-the-story-of-the-hacktivists/ "We Are Legion: The Story of the Hacktivists")
+* [![The Ambien Effect](/wp-content/thumbnails/8019-100x70.jpg?x53432)
     
-    Deep Web
+    The Ambien Effect
     
-    The Deep Web is vast, thousands of times larger than the "Surface Web" i.e. the searchable web that we all know and love. The Deep Web itself is not a place it just simply accounts for all of the](https://documentaryheaven.com/deep-web/ "Deep Web")
-* [![The Nine Months That Made You](/wp-content/thumbnails/6030-100x70.jpg?x53432)
+    Zolpidem tartrate, or Ambien, has been prescribed to millions of insomniacs internationally, yet those who use the drug to ensure a good night's sleep are seldom aware it also possesses the ability to](https://documentaryheaven.com/ambien-effect/ "The Ambien Effect")
+* [![Lindsay the OxyContin Addict](/wp-content/thumbnails/8313-100x70.jpg?x53432)
     
-    The Nine Months That Made You
+    Lindsay the OxyContin Addict
     
-    Horizon explores the secrets of what makes a long, healthy and happy life. It turns out that a time you can’t remember – the nine months you spend in the womb – could have more lasting effects on you](https://documentaryheaven.com/the-nine-months-that-made-you/ "The Nine Months That Made You")
-* [![Daft Punk: Random Access Memories (Behind The Scenes)](/wp-content/thumbnails/7111-100x70.png?x53432)
+    Lindsay, described as fun and outgoing by her friends, has changed her life forever by using the drug oxycontin. Lindsay grew up as a beautiful dancer and was much loved. Now twenty-four, Lindsay disc](https://documentaryheaven.com/lindsay-oxycontin-addict/ "Lindsay the OxyContin Addict")
+* [![Pure Science Specials: Magnetic Storm](/wp-content/thumbnails/8880-100x70.jpg?x53432)
     
-    Daft Punk: Random Access Memories (Behind The Scenes)
+    Pure Science Specials: Magnetic Storm
     
-    After 8 years Daft Punk is back with a new album and the the song “Get Lucky” with vocals from Pharrell Williams has burned up the Internet since its release. A look at the collaborators behind Random](https://documentaryheaven.com/daft-punk-random-access-memories/ "Daft Punk: Random Access Memories (Behind The Scenes)")
+    There is a region of our planet that no human being has ever visited, no one has ever seen this place, yet what happens here effects everyone of us every day of our lives. Its 2000 miles beneath our f](https://documentaryheaven.com/pure-science-specials-magnetic-storm/ "Pure Science Specials: Magnetic Storm")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
