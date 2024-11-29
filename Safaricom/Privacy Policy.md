@@ -144,6 +144,20 @@ out of 5 based on
 
 ![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
+> Nov 29, 2024
+
+> Mel du Toit
+
+> Mel du Toit, gave us excellent service and was so quick to respond to our request!! We are looking to return to Simbavati, because of our previous experience there, and Mel has shown that we may continue to expect this !!! Thank you !!!
+
+JUDITH ANN
+
+,
+
+US
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
 > Nov 28, 2024
 
 > Simple and straightforward to deal with
@@ -153,6 +167,8 @@ out of 5 based on
 5c9ui1bh
 
 ,
+
+GB
 
 ![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
@@ -251,20 +267,6 @@ Neil Buckley
 ,
 
 GB
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Nov 23, 2024
-
-> The preparation for our future Victoria…
-
-> The preparation for our future Victoria Falls excursion was fast, informative, efficient and a fair price. Shann Shaw responded quickly to my inquiry and had a full itinerary and price within a day. Kudos to Safari.com
-
-Gogo and Tiffany.
-
-,
-
-US
 
 VIP service
 
