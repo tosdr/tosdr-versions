@@ -384,7 +384,7 @@ weiter
 
 Suchen
 
-![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v123254121.svg)
+![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v123420388.svg)
 
 1. [Startweiter](https://www.test.de/)
 2. Daten­schutz­erklärung
@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Microsoft Surface mit ARM-Chip im Schnell­test: Neue Surface-Modelle treten gegen MacBook und iPad an](https://www.test.de/Microsoft-Surface-mit-ARM-Chip-im-Schnelltest-Neue-Surface-Modelle-machen-dem-MacBook-Konkurrenz-6165262-0/ "Microsoft Surface mit ARM-Chip im Schnelltest - Neue Surface-Modelle treten gegen MacBook und iPad an")
-* [Leser­aufruf zu Dark Patterns: Melden Sie uns Manipulation im Netz](https://www.test.de/Leseraufruf-zu-Dark-Patterns-Melden-Sie-uns-Manipulation-im-Netz-6047043-0/ "Leseraufruf zu Dark Patterns - Melden Sie uns Manipulation im Netz")
-* [Gewusst wie: Paypal-Konto einrichten](https://www.test.de/Gewusst-wie-Paypal-Konto-einrichten-5986194-0/ "Gewusst wie - Paypal-Konto einrichten")
-* [E-Growing: Firmen von Juicyfields insolvent](https://www.test.de/E-Growing-Firmen-von-Juicyfields-insolvent-5963963-0/ "E-Growing - Firmen von Juicyfields insolvent")
-* [Fonds und ETF: Wie Sie die passende Anteils­klasse Ihres Fonds finden](https://www.test.de/Fonds-und-ETF-Die-passende-Anteilsklasse-Ihres-Fonds-6124427-0/ "Fonds und ETF - Wie Sie die passende Anteilsklasse Ihres Fonds finden")
-* [Rück­ruf Fashy Schwimm­flügel Sima: Späte Reaktion auf unser Test­urteil](https://www.test.de/Rueckruf-Fashy-Schwimmfluegel-Sima-Spaete-Reaktion-auf-unser-Testurteil-6136440-0/ "Rückruf Fashy Schwimmflügel Sima - Späte Reaktion auf unser Testurteil")
+* [Ersatz­teile Wäschetrockner: Kosten und Verfügbarkeit](https://www.test.de/Ersatzteile-Waeschetrockner-Kosten-und-Verfuegbarkeit-6140545-0/ "Ersatzteile Wäschetrockner - Kosten und Verfügbarkeit")
+* [Pantoffel-Portfolio ergänzen: Anlegen mit Kick – zehn Beimischungen im Test](https://www.test.de/Pantoffel-Portfolio-ergaenzen-Anlegen-mit-Kick-zehn-Beimischungen-im-Test-6111636-0/ "Pantoffel-Portfolio ergänzen - Anlegen mit Kick – zehn Beimischungen im Test")
+* [Deutsch­land-ETF: Das sind die Alternativen zum Dax](https://www.test.de/Deutschland-ETF-Das-sind-die-Alternativen-zum-Dax-6012269-0/ "Deutschland-ETF - Das sind die Alternativen zum Dax")
+* [Wärmepumpen­versicherung: Wärmepumpe gegen Umwelt­schäden und Vandalismus absichern](https://www.test.de/Waermepumpenversicherung-6030311-0/ "Wärmepumpenversicherung - Wärmepumpe gegen Umweltschäden und Vandalismus absichern")
+* [Aktien-ETF Japan: Mit oder ohne Währungs­sicherung?](https://www.test.de/Aktien-ETF-Japan-Mit-oder-ohne-Waehrungssicherung-6132893-0/ "Aktien-ETF Japan - Mit oder ohne Währungssicherung?")
+* [Anleger­schutz: Betrug mit Kryptowährungen](https://www.test.de/Anlegerschutz-Betrug-mit-Kryptowaehrungen-5954720-0/ "Anlegerschutz - Betrug mit Kryptowährungen")
 
 Weitere Informationen
 
@@ -3871,12 +3871,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Microsoft Surface mit ARM-Chip im Schnell­test: Neue Surface-Modelle treten gegen MacBook und iPad an](https://www.test.de/Microsoft-Surface-mit-ARM-Chip-im-Schnelltest-Neue-Surface-Modelle-machen-dem-MacBook-Konkurrenz-6165262-0/ "Microsoft Surface mit ARM-Chip im Schnelltest - Neue Surface-Modelle treten gegen MacBook und iPad an")
-* [Leser­aufruf zu Dark Patterns: Melden Sie uns Manipulation im Netz](https://www.test.de/Leseraufruf-zu-Dark-Patterns-Melden-Sie-uns-Manipulation-im-Netz-6047043-0/ "Leseraufruf zu Dark Patterns - Melden Sie uns Manipulation im Netz")
-* [Gewusst wie: Paypal-Konto einrichten](https://www.test.de/Gewusst-wie-Paypal-Konto-einrichten-5986194-0/ "Gewusst wie - Paypal-Konto einrichten")
-* [E-Growing: Firmen von Juicyfields insolvent](https://www.test.de/E-Growing-Firmen-von-Juicyfields-insolvent-5963963-0/ "E-Growing - Firmen von Juicyfields insolvent")
-* [Fonds und ETF: Wie Sie die passende Anteils­klasse Ihres Fonds finden](https://www.test.de/Fonds-und-ETF-Die-passende-Anteilsklasse-Ihres-Fonds-6124427-0/ "Fonds und ETF - Wie Sie die passende Anteilsklasse Ihres Fonds finden")
-* [Rück­ruf Fashy Schwimm­flügel Sima: Späte Reaktion auf unser Test­urteil](https://www.test.de/Rueckruf-Fashy-Schwimmfluegel-Sima-Spaete-Reaktion-auf-unser-Testurteil-6136440-0/ "Rückruf Fashy Schwimmflügel Sima - Späte Reaktion auf unser Testurteil")
+* [Ersatz­teile Wäschetrockner: Kosten und Verfügbarkeit](https://www.test.de/Ersatzteile-Waeschetrockner-Kosten-und-Verfuegbarkeit-6140545-0/ "Ersatzteile Wäschetrockner - Kosten und Verfügbarkeit")
+* [Pantoffel-Portfolio ergänzen: Anlegen mit Kick – zehn Beimischungen im Test](https://www.test.de/Pantoffel-Portfolio-ergaenzen-Anlegen-mit-Kick-zehn-Beimischungen-im-Test-6111636-0/ "Pantoffel-Portfolio ergänzen - Anlegen mit Kick – zehn Beimischungen im Test")
+* [Deutsch­land-ETF: Das sind die Alternativen zum Dax](https://www.test.de/Deutschland-ETF-Das-sind-die-Alternativen-zum-Dax-6012269-0/ "Deutschland-ETF - Das sind die Alternativen zum Dax")
+* [Wärmepumpen­versicherung: Wärmepumpe gegen Umwelt­schäden und Vandalismus absichern](https://www.test.de/Waermepumpenversicherung-6030311-0/ "Wärmepumpenversicherung - Wärmepumpe gegen Umweltschäden und Vandalismus absichern")
+* [Aktien-ETF Japan: Mit oder ohne Währungs­sicherung?](https://www.test.de/Aktien-ETF-Japan-Mit-oder-ohne-Waehrungssicherung-6132893-0/ "Aktien-ETF Japan - Mit oder ohne Währungssicherung?")
+* [Anleger­schutz: Betrug mit Kryptowährungen](https://www.test.de/Anlegerschutz-Betrug-mit-Kryptowaehrungen-5954720-0/ "Anlegerschutz - Betrug mit Kryptowährungen")
 
 Weitere spannende Themen
 
@@ -3891,12 +3891,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Microsoft Surface mit ARM-Chip im Schnell­test: Neue Surface-Modelle treten gegen MacBook und iPad an](https://www.test.de/Microsoft-Surface-mit-ARM-Chip-im-Schnelltest-Neue-Surface-Modelle-machen-dem-MacBook-Konkurrenz-6165262-0/ "Microsoft Surface mit ARM-Chip im Schnelltest - Neue Surface-Modelle treten gegen MacBook und iPad an")
-* [Leser­aufruf zu Dark Patterns: Melden Sie uns Manipulation im Netz](https://www.test.de/Leseraufruf-zu-Dark-Patterns-Melden-Sie-uns-Manipulation-im-Netz-6047043-0/ "Leseraufruf zu Dark Patterns - Melden Sie uns Manipulation im Netz")
-* [Gewusst wie: Paypal-Konto einrichten](https://www.test.de/Gewusst-wie-Paypal-Konto-einrichten-5986194-0/ "Gewusst wie - Paypal-Konto einrichten")
-* [E-Growing: Firmen von Juicyfields insolvent](https://www.test.de/E-Growing-Firmen-von-Juicyfields-insolvent-5963963-0/ "E-Growing - Firmen von Juicyfields insolvent")
-* [Fonds und ETF: Wie Sie die passende Anteils­klasse Ihres Fonds finden](https://www.test.de/Fonds-und-ETF-Die-passende-Anteilsklasse-Ihres-Fonds-6124427-0/ "Fonds und ETF - Wie Sie die passende Anteilsklasse Ihres Fonds finden")
-* [Rück­ruf Fashy Schwimm­flügel Sima: Späte Reaktion auf unser Test­urteil](https://www.test.de/Rueckruf-Fashy-Schwimmfluegel-Sima-Spaete-Reaktion-auf-unser-Testurteil-6136440-0/ "Rückruf Fashy Schwimmflügel Sima - Späte Reaktion auf unser Testurteil")
+* [Ersatz­teile Wäschetrockner: Kosten und Verfügbarkeit](https://www.test.de/Ersatzteile-Waeschetrockner-Kosten-und-Verfuegbarkeit-6140545-0/ "Ersatzteile Wäschetrockner - Kosten und Verfügbarkeit")
+* [Pantoffel-Portfolio ergänzen: Anlegen mit Kick – zehn Beimischungen im Test](https://www.test.de/Pantoffel-Portfolio-ergaenzen-Anlegen-mit-Kick-zehn-Beimischungen-im-Test-6111636-0/ "Pantoffel-Portfolio ergänzen - Anlegen mit Kick – zehn Beimischungen im Test")
+* [Deutsch­land-ETF: Das sind die Alternativen zum Dax](https://www.test.de/Deutschland-ETF-Das-sind-die-Alternativen-zum-Dax-6012269-0/ "Deutschland-ETF - Das sind die Alternativen zum Dax")
+* [Wärmepumpen­versicherung: Wärmepumpe gegen Umwelt­schäden und Vandalismus absichern](https://www.test.de/Waermepumpenversicherung-6030311-0/ "Wärmepumpenversicherung - Wärmepumpe gegen Umweltschäden und Vandalismus absichern")
+* [Aktien-ETF Japan: Mit oder ohne Währungs­sicherung?](https://www.test.de/Aktien-ETF-Japan-Mit-oder-ohne-Waehrungssicherung-6132893-0/ "Aktien-ETF Japan - Mit oder ohne Währungssicherung?")
+* [Anleger­schutz: Betrug mit Kryptowährungen](https://www.test.de/Anlegerschutz-Betrug-mit-Kryptowaehrungen-5954720-0/ "Anlegerschutz - Betrug mit Kryptowährungen")
 
 Neueste Tests
 
@@ -3909,12 +3909,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Microsoft Surface mit ARM-Chip im Schnell­test: Neue Surface-Modelle treten gegen MacBook und iPad an](https://www.test.de/Microsoft-Surface-mit-ARM-Chip-im-Schnelltest-Neue-Surface-Modelle-machen-dem-MacBook-Konkurrenz-6165262-0/ "Microsoft Surface mit ARM-Chip im Schnelltest - Neue Surface-Modelle treten gegen MacBook und iPad an")
-* [Leser­aufruf zu Dark Patterns: Melden Sie uns Manipulation im Netz](https://www.test.de/Leseraufruf-zu-Dark-Patterns-Melden-Sie-uns-Manipulation-im-Netz-6047043-0/ "Leseraufruf zu Dark Patterns - Melden Sie uns Manipulation im Netz")
-* [Gewusst wie: Paypal-Konto einrichten](https://www.test.de/Gewusst-wie-Paypal-Konto-einrichten-5986194-0/ "Gewusst wie - Paypal-Konto einrichten")
-* [E-Growing: Firmen von Juicyfields insolvent](https://www.test.de/E-Growing-Firmen-von-Juicyfields-insolvent-5963963-0/ "E-Growing - Firmen von Juicyfields insolvent")
-* [Fonds und ETF: Wie Sie die passende Anteils­klasse Ihres Fonds finden](https://www.test.de/Fonds-und-ETF-Die-passende-Anteilsklasse-Ihres-Fonds-6124427-0/ "Fonds und ETF - Wie Sie die passende Anteilsklasse Ihres Fonds finden")
-* [Rück­ruf Fashy Schwimm­flügel Sima: Späte Reaktion auf unser Test­urteil](https://www.test.de/Rueckruf-Fashy-Schwimmfluegel-Sima-Spaete-Reaktion-auf-unser-Testurteil-6136440-0/ "Rückruf Fashy Schwimmflügel Sima - Späte Reaktion auf unser Testurteil")
+* [Ersatz­teile Wäschetrockner: Kosten und Verfügbarkeit](https://www.test.de/Ersatzteile-Waeschetrockner-Kosten-und-Verfuegbarkeit-6140545-0/ "Ersatzteile Wäschetrockner - Kosten und Verfügbarkeit")
+* [Pantoffel-Portfolio ergänzen: Anlegen mit Kick – zehn Beimischungen im Test](https://www.test.de/Pantoffel-Portfolio-ergaenzen-Anlegen-mit-Kick-zehn-Beimischungen-im-Test-6111636-0/ "Pantoffel-Portfolio ergänzen - Anlegen mit Kick – zehn Beimischungen im Test")
+* [Deutsch­land-ETF: Das sind die Alternativen zum Dax](https://www.test.de/Deutschland-ETF-Das-sind-die-Alternativen-zum-Dax-6012269-0/ "Deutschland-ETF - Das sind die Alternativen zum Dax")
+* [Wärmepumpen­versicherung: Wärmepumpe gegen Umwelt­schäden und Vandalismus absichern](https://www.test.de/Waermepumpenversicherung-6030311-0/ "Wärmepumpenversicherung - Wärmepumpe gegen Umweltschäden und Vandalismus absichern")
+* [Aktien-ETF Japan: Mit oder ohne Währungs­sicherung?](https://www.test.de/Aktien-ETF-Japan-Mit-oder-ohne-Waehrungssicherung-6132893-0/ "Aktien-ETF Japan - Mit oder ohne Währungssicherung?")
+* [Anleger­schutz: Betrug mit Kryptowährungen](https://www.test.de/Anlegerschutz-Betrug-mit-Kryptowaehrungen-5954720-0/ "Anlegerschutz - Betrug mit Kryptowährungen")
 
 Stiftung Warentest
 
