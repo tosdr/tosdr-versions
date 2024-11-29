@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![35 Facts About Dunchraigaig Cairn ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%221%22 height=%221%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/culture-and-the-arts/35-facts-about-dunchraigaig-cairn/)
+[![19 Facts About Illegal Hunting ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2290%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/human-activities/impact-of-human-activity/19-facts-about-illegal-hunting/)
+
+Impact of Human Activity
+
+29 Nov 2024
+
+[19 Facts About Illegal Hunting](https://facts.net/human-activities/impact-of-human-activity/19-facts-about-illegal-hunting/)
+
+[![35 Facts About Castles ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/culture-and-the-arts/35-facts-about-castles/)
 
 Culture & The Arts
 
-28 Nov 2024
+29 Nov 2024
 
-[35 Facts About Dunchraigaig Cairn](https://facts.net/culture-and-the-arts/35-facts-about-dunchraigaig-cairn/)
-
-[![35 Facts About Incredible Illnesses ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%221%22 height=%221%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/35-facts-about-incredible-illnesses/)
-
-Health Science
-
-28 Nov 2024
-
-[35 Facts About Incredible Illnesses](https://facts.net/fitness-and-wellbeing/health-science/35-facts-about-incredible-illnesses/)
+[35 Facts About Castles](https://facts.net/culture-and-the-arts/35-facts-about-castles/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
