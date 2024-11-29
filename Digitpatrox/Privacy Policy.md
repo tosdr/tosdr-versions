@@ -20,16 +20,16 @@ Friday, November 29 2024
 
 Latest
 
-* [I Love This Versatile Drum Pad, and It's $60 Off for Black Friday](https://digitpatrox.com/i-love-this-versatile-drum-pad-and-its-60-off-for-black-friday/)
-* [Alder Hey Children’s NHS Foundation Trust investigating data breach after ransomware gang claims attack](https://digitpatrox.com/alder-hey-childrens-nhs-foundation-trust-investigating-data-breach-after-ransomware-gang-claims-attack/)
-* [Are Black Friday Deals Really Cheaper? How to Check for Price Inflation](https://digitpatrox.com/are-black-friday-deals-really-cheaper-how-to-check-for-price-inflation/)
-* [A security researcher stumbled upon 600,000 sensitive files left in the open by data broker](https://digitpatrox.com/a-security-researcher-stumbled-upon-600000-sensitive-files-left-in-the-open-by-data-broker/)
-* [ERP vs CRM: Understanding the Key Differences](https://digitpatrox.com/erp-vs-crm-understanding-the-key-differences/)
-* [How to watch ‘Earth Abides’ online — stream the George R. Stewart adaptation from anywhere](https://digitpatrox.com/how-to-watch-earth-abides-online-stream-the-george-r-stewart-adaptation-from-anywhere/)
-* [Chinese hackers breached T-Mobile’s routers to scope out network](https://digitpatrox.com/chinese-hackers-breached-t-mobiles-routers-to-scope-out-network/)
-* [The best Black Friday robot vacuum deals, according to our smart home reviewer](https://digitpatrox.com/the-best-black-friday-robot-vacuum-deals-according-to-our-smart-home-reviewer/)
-* [Upgrade Your Gaming Experience With This JBL Quantum 910 Deal on Black Friday](https://digitpatrox.com/upgrade-your-gaming-experience-with-this-jbl-quantum-910-deal-on-black-friday/)
-* [Microsoft facing FTC antitrust probe over cloud, AI competition concerns](https://digitpatrox.com/microsoft-facing-ftc-antitrust-probe-over-cloud-ai-competition-concerns/)
+* [Avanade names new general manager for the UK and Ireland](https://digitpatrox.com/avanade-names-new-general-manager-for-the-uk-and-ireland/)
+* [the conversation that never ends – Computerworld](https://digitpatrox.com/the-conversation-that-never-ends-computerworld/)
+* [Blackblaze Is 30% Off During Black Friday](https://digitpatrox.com/blackblaze-is-30-off-during-black-friday/)
+* [How to watch the HSBC SVNS 2024/25 live online](https://digitpatrox.com/how-to-watch-the-hsbc-svns-2024-25-live-online/)
+* [Best Compact Vacuums for Small Apartments](https://digitpatrox.com/best-compact-vacuums-for-small-apartments/)
+* [Why I Switched From Grammarly to Microsoft Editor](https://digitpatrox.com/why-i-switched-from-grammarly-to-microsoft-editor/)
+* [Nucleus Security launches revamped partner program](https://digitpatrox.com/nucleus-security-launches-revamped-partner-program/)
+* [I’d cancel my phone service now and get this Mint Mobile deal for a crazy cheap $10 a month](https://digitpatrox.com/id-cancel-my-phone-service-now-and-get-this-mint-mobile-deal-for-a-crazy-cheap-10-a-month/)
+* [Cloudflare says it lost 55% of logs pushed to customers for 3.5 hours](https://digitpatrox.com/cloudflare-says-it-lost-55-of-logs-pushed-to-customers-for-3-5-hours/)
+* [The best Black Friday headphone and earbud deals](https://digitpatrox.com/the-best-black-friday-headphone-and-earbud-deals/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://lifehacker.com/imagery/articles/01JDR2VTP5A2EJQCWS66JN68M0/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/i-love-this-versatile-drum-pad-and-its-60-off-for-black-friday/)
+* [![](https://cdn.mos.cms.futurecdn.net/yDJKgtuBwaxvZ7BZMsMee4-1200-80.jpg)](https://digitpatrox.com/avanade-names-new-general-manager-for-the-uk-and-ireland/)
     
-    [I Love This Versatile Drum Pad, and It's $60 Off for Black Friday](https://digitpatrox.com/i-love-this-versatile-drum-pad-and-its-60-off-for-black-friday/)
+    [Avanade names new general manager for the UK and Ireland](https://digitpatrox.com/avanade-names-new-general-manager-for-the-uk-and-ireland/)
     
-    9 minutes ago
+    4 minutes ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/UK-childrens-hospital-investigating-data-breach-after-ransomware-gang-claims-attack.jpg)](https://digitpatrox.com/alder-hey-childrens-nhs-foundation-trust-investigating-data-breach-after-ransomware-gang-claims-attack/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3615039-0-86834400-1732905272-shutterstock_editorial_2237655785.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/the-conversation-that-never-ends-computerworld/)
     
-    [Alder Hey Children’s NHS Foundation Trust investigating data breach after ransomware gang claims attack](https://digitpatrox.com/alder-hey-childrens-nhs-foundation-trust-investigating-data-breach-after-ransomware-gang-claims-attack/)
+    [the conversation that never ends – Computerworld](https://digitpatrox.com/the-conversation-that-never-ends-computerworld/)
     
-    15 minutes ago
+    26 minutes ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/11/shutterstock_2536516915.png)](https://digitpatrox.com/are-black-friday-deals-really-cheaper-how-to-check-for-price-inflation/)
+* [![](https://lifehacker.com/imagery/articles/01JDWA0CM6VTDSG2AXP5A8PK8Y/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/blackblaze-is-30-off-during-black-friday/)
     
-    [Are Black Friday Deals Really Cheaper? How to Check for Price Inflation](https://digitpatrox.com/are-black-friday-deals-really-cheaper-how-to-check-for-price-inflation/)
+    [Blackblaze Is 30% Off During Black Friday](https://digitpatrox.com/blackblaze-is-30-off-during-black-friday/)
     
-    21 minutes ago
+    54 minutes ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/DjkdAmtYuueF93eLjsAzbQ-1200-80.jpg)](https://digitpatrox.com/a-security-researcher-stumbled-upon-600000-sensitive-files-left-in-the-open-by-data-broker/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/How-to-watch-the-HSBC-SVNS-2024-25-live-online.jpg)](https://digitpatrox.com/how-to-watch-the-hsbc-svns-2024-25-live-online/)
     
-    [A security researcher stumbled upon 600,000 sensitive files left in the open by data broker](https://digitpatrox.com/a-security-researcher-stumbled-upon-600000-sensitive-files-left-in-the-open-by-data-broker/)
+    [How to watch the HSBC SVNS 2024/25 live online](https://digitpatrox.com/how-to-watch-the-hsbc-svns-2024-25-live-online/)
     
-    59 minutes ago
+    60 minutes ago
     
-* [![](https://assets.techrepublic.com/uploads/2024/11/crm-cube-blocks-2023-11-27-04-54-38-utc-pexels-JoPanwatD-1024x683.jpg)](https://digitpatrox.com/erp-vs-crm-understanding-the-key-differences/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1732741007/prod/content/dam/CRO-Images-2024/Home/CR-Home-InlineHero-Best-Compact-Vacuums-for-Small-Apartments-1124-v2)](https://digitpatrox.com/best-compact-vacuums-for-small-apartments/)
     
-    [ERP vs CRM: Understanding the Key Differences](https://digitpatrox.com/erp-vs-crm-understanding-the-key-differences/)
+    [Best Compact Vacuums for Small Apartments](https://digitpatrox.com/best-compact-vacuums-for-small-apartments/)
     
     1 hour ago
     
@@ -208,39 +208,39 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [9 minutes ago
+* [4 minutes ago
     
-    ### I Love This Versatile Drum Pad, and It's $60 Off for Black Friday](https://digitpatrox.com/i-love-this-versatile-drum-pad-and-its-60-off-for-black-friday/)
-* [15 minutes ago
+    ### Avanade names new general manager for the UK and Ireland](https://digitpatrox.com/avanade-names-new-general-manager-for-the-uk-and-ireland/)
+* [26 minutes ago
     
-    ### Alder Hey Children’s NHS Foundation Trust investigating data breach after ransomware gang claims attack](https://digitpatrox.com/alder-hey-childrens-nhs-foundation-trust-investigating-data-breach-after-ransomware-gang-claims-attack/)
-* [21 minutes ago
+    ### the conversation that never ends – Computerworld](https://digitpatrox.com/the-conversation-that-never-ends-computerworld/)
+* [54 minutes ago
     
-    ### Are Black Friday Deals Really Cheaper? How to Check for Price Inflation](https://digitpatrox.com/are-black-friday-deals-really-cheaper-how-to-check-for-price-inflation/)
+    ### Blackblaze Is 30% Off During Black Friday](https://digitpatrox.com/blackblaze-is-30-off-during-black-friday/)
 
 Most Popular Topics
 
-* [October 18, 2024
+* [August 14, 2024
     
-    ### How to remove mugshots from the internet](https://digitpatrox.com/how-to-remove-mugshots-from-the-internet/)
-* [August 22, 2024
+    ### Gemini Live Arrives to Rival ChatGPT Voice; Here’s How to Get It](https://digitpatrox.com/gemini-live-arrives-to-rival-chatgpt-voice-heres-how-to-get-it/)
+* [September 24, 2024
     
-    ### How to use Google Pixel 9 reimagine feature](https://digitpatrox.com/how-to-use-google-pixel-9-reimagine-feature/)
-* [October 1, 2024
+    ### The Delta emulator is getting online multiplayer for Nintendo DS games](https://digitpatrox.com/the-delta-emulator-is-getting-online-multiplayer-for-nintendo-ds-games/)
+* [11 hours ago
     
-    ### Cybersecurity teams are understaffed, overworked, and underfunded – and it’s taking a massive toll on mental health](https://digitpatrox.com/cybersecurity-teams-are-understaffed-overworked-and-underfunded-and-its-taking-a-massive-toll-on-mental-health/)
+    ### This MagSafe-Compatible Power Bank Is 40% Off for Black Friday](https://digitpatrox.com/this-magsafe-compatible-power-bank-is-40-off-for-black-friday/)
 
 Last Modified Topics
 
 * [2 hours ago
     
-    ### Chinese hackers breached T-Mobile’s routers to scope out network](https://digitpatrox.com/chinese-hackers-breached-t-mobiles-routers-to-scope-out-network/)
+    ### Nucleus Security launches revamped partner program](https://digitpatrox.com/nucleus-security-launches-revamped-partner-program/)
+* [2 hours ago
+    
+    ### I’d cancel my phone service now and get this Mint Mobile deal for a crazy cheap $10 a month](https://digitpatrox.com/id-cancel-my-phone-service-now-and-get-this-mint-mobile-deal-for-a-crazy-cheap-10-a-month/)
 * [3 hours ago
     
-    ### The best Black Friday robot vacuum deals, according to our smart home reviewer](https://digitpatrox.com/the-best-black-friday-robot-vacuum-deals-according-to-our-smart-home-reviewer/)
-* [3 hours ago
-    
-    ### Upgrade Your Gaming Experience With This JBL Quantum 910 Deal on Black Friday](https://digitpatrox.com/upgrade-your-gaming-experience-with-this-jbl-quantum-910-deal-on-black-friday/)
+    ### Cloudflare says it lost 55% of logs pushed to customers for 3.5 hours](https://digitpatrox.com/cloudflare-says-it-lost-55-of-logs-pushed-to-customers-for-3-5-hours/)
 
 Most Viewed Topics
 
