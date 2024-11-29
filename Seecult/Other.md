@@ -298,11 +298,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/katarina-radovic/dok-nas-smrt-ne-rastavi/04.jpg?itok=3BHK-x_-)](http://seecult.org/galerija/galerija-umetnika/katarina-radovic/dok-nas-smrt-ne-rastavi)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-ilic/dragan-ilic-20/makavejev.jpg?itok=lzFGNeiu)](http://seecult.org/galerija/galerija-umetnika/dragan-ilic/dragan-ilic-20)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![Arheoloske zbirke, Narodni muzej](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/narodni-muzej-beograd/nova-stalna-postavka/arheoloske-zbirke/stalna-postavka-6.jpg?itok=Bbsd7YDb "Arheoloske zbirke, Narodni muzej")](http://seecult.org/galerija/foto-galerija/narodni-muzej-beograd/nova-stalna-postavka/arheoloske-zbirke)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/vlada-divljan-amp-ljetno-kino-big-band/ljetno-kinojpg-006.?itok=zsqnNFep)](http://seecult.org/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/vlada-divljan-ljetno-kino-big)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
