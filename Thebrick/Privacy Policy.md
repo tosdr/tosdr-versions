@@ -113,11 +113,11 @@ Get Directions
 
 [Back to Menu](#)
 
-[Appliances](https://www.thebrick.com/collections/appliances) [Kitchen](https://www.thebrick.com/collections/appliances-kitchen) [Laundry](https://www.thebrick.com/collections/appliances-laundry) [Small Appliances](https://www.thebrick.com/collections/appliances-small-appliances) [Brands](#) [Overstock](https://www.thebrick.com/collections/overstock-appliances)
+[Appliances](https://www.thebrick.com/collections/appliances) [Kitchen](https://www.thebrick.com/collections/appliances-kitchen-1) [Laundry](https://www.thebrick.com/collections/appliances-laundry) [Small Appliances](https://www.thebrick.com/collections/appliances-small-appliances) [Brands](#) [Overstock](https://www.thebrick.com/collections/overstock-appliances)
 
 [Back to Appliances](#)
 
-[Kitchen](https://www.thebrick.com/collections/appliances-kitchen) [Appliance Packages](https://www.thebrick.com/collections/appliances-kitchen-appliance-packages) [Refrigerators](https://www.thebrick.com/collections/appliances-kitchen-refrigerators) [Ranges](https://www.thebrick.com/collections/appliances-kitchen-ranges) [Dishwashers](https://www.thebrick.com/collections/appliances-kitchen-dishwashers) [Microwaves](https://www.thebrick.com/collections/appliances-kitchen-microwaves) [Cooktops](https://www.thebrick.com/collections/appliances-kitchen-cooktops) [Wall Ovens](https://www.thebrick.com/collections/appliances-kitchen-wall-ovens) [Range Hoods](https://www.thebrick.com/collections/appliances-kitchen-range-hoods) [Freezers](https://www.thebrick.com/collections/appliances-freezers) [Kitchen Parts & Accessories](https://www.thebrick.com/collections/appliances-kitchen-parts-and-accessories) [Sinks](https://www.thebrick.com/collections/sinks-eviers-de-cuisine-online-only)
+[Kitchen](https://www.thebrick.com/collections/appliances-kitchen-1) [Appliance Packages](https://www.thebrick.com/collections/appliances-kitchen-appliance-packages) [Refrigerators](https://www.thebrick.com/collections/appliances-kitchen-refrigerators) [Ranges](https://www.thebrick.com/collections/appliances-kitchen-ranges) [Dishwashers](https://www.thebrick.com/collections/appliances-kitchen-dishwashers) [Microwaves](https://www.thebrick.com/collections/appliances-kitchen-microwaves) [Cooktops](https://www.thebrick.com/collections/appliances-kitchen-cooktops) [Wall Ovens](https://www.thebrick.com/collections/appliances-kitchen-wall-ovens) [Range Hoods](https://www.thebrick.com/collections/appliances-kitchen-range-hoods) [Freezers](https://www.thebrick.com/collections/appliances-freezers) [Kitchen Parts & Accessories](https://www.thebrick.com/collections/appliances-kitchen-parts-and-accessories) [Sinks](https://www.thebrick.com/collections/sinks-eviers-de-cuisine-online-only)
 
 [Back to Appliances](#)
 
@@ -246,8 +246,6 @@ Seller Name
 [Look Book](#)
 
 [Save](#)
-
-Black Friday On Now!
 
 Privacy Policy
 ==============
