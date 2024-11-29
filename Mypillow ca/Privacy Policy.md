@@ -115,6 +115,18 @@ Apply
 
 [](https://www.mypillow.com/bath/kitchen-towels)
 
+[](https://www.mypillow.com/what-are-the-odds-br-from-crack-addict-to-ceo)
+
+[](https://www.mypillow.com/couch-and-recliner-pillows)
+
+[](https://www.mypillow.ca/clothing)
+
+[](https://www.mypillow.com/bedding/blankets)
+
+[](https://www.mypillow.com/slipper-specials)
+
+[](https://www.mypillow.com/smoothtoe-socks)
+
 [](https://www.mypillow.com/bath/mypillow-bath-robes)
 
 [](https://www.mypillow.com/bedding)
@@ -150,18 +162,6 @@ SHOP NOW](https://www.mypillow.com/new-gorka)
 [SAVE up to 80% with promo code
 
 SHOP NOW](https://www.mypillow.com/hannity-new)
-
-[](https://www.mypillow.com/what-are-the-odds-br-from-crack-addict-to-ceo)
-
-[](https://www.mypillow.com/couch-and-recliner-pillows)
-
-[](https://www.mypillow.ca/clothing)
-
-[](https://www.mypillow.com/bedding/blankets)
-
-[](https://www.mypillow.com/slipper-specials)
-
-[](https://www.mypillow.com/smoothtoe-socks)
 
 [](https://www.mypillow.com/gift-cards)
 
