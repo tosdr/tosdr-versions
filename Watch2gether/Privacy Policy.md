@@ -1,4 +1,4 @@
-[![Watch2Gether Logo](/assets/LogoDarkBG.0e94a560.svg)](https://w2g.tv/en)
+[![Watch2Gether Logo](/assets/LogoDarkBG.f97d90d0.svg)](https://w2g.tv/en)
 
 [](https://w2g.tv/en)
 
