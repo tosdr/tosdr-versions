@@ -13,7 +13,7 @@ English
 
 New
 
-Over 4 million portions of free food are shared on Olio every month – [download Olio](https://olioapp.com/en/download-olio/) and pick up your free dinner today!
+Looking for some planet-friendly gifts this Christmas? 🎁 Check out [The Olio Shop](https://olioshop.teemill.com/) for tees, totes and more!
 
 [Olio | At Home](https://olioapp.com/en/)
 
