@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/valse-vlag-operaties/de-nos-dient-voorgekookt-bellincat-hapje-op/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/hoofdartikelen/de-zomer-van-de-verduisteringen/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
