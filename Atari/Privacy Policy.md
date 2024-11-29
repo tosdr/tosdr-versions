@@ -426,7 +426,7 @@ THE HOLIDAYS ARE HERE
 
 [![](files/atari_merch_nov2024-206_1_1.jpg)
 
-### 20% OFF ALL MERCH
+### 20% OFF ATARI GEAR
 
 Our hoodies, hats, tees and more are on sale!
 
@@ -594,7 +594,7 @@ Atari 7800+
 
 The new Atari 7800+ joins the ranks of such timeless design icons as shoulder pads, crop tops, and aviator sunglasses! Inspired by the original ‘80s design, this scaled-down version fits today’s living rooms and connects easily to modern TVs via HDMI.
 
-[Pre-Order Yours Today!](https://www.atari.com/products/black-friday-exclusive-7800-console-w-2-wireless-controllers)
+[Shop Now](https://www.atari.com/products/black-friday-exclusive-7800-console-w-2-wireless-controllers)
 
 ![7800 Home](files/7800_home.png)
 
