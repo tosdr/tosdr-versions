@@ -2,10 +2,51 @@
 
 [![](//blackwolfnation.com/cdn/shop/files/10_384daddb-9c94-4c94-8581-c8a73753a8ff.png?crop=center&height=50&v=1722973225&width=50)
 
-🎄⭐️ 25% OFF HOLIDAY BUNDLES! USE CODE BLACKWOLF25 - SHOP NOW! 🎄⭐️](https://blackwolfnation.com/collections/bundle-gifts)
+40% OFF HAIRCARE - 24 HOURS ONLY
+
+0
+
+9
+
+0
+
+9
+
+d
+
+0
+
+9
+
+0
+
+9
+
+h
+
+0
+
+9
+
+0
+
+9
+
+m
+
+0
+
+9
+
+0
+
+9
+
+s](https://blackwolfnation.com/pages/haircare-flash-sale-24-hr-only)
 
 [](https://blackwolfnation.com/customer_authentication/redirect?locale=en&region_country=US)
 
+* [BLACK FRIDAY SALE!](https://blackwolfnation.com/pages/haircare-flash-sale-24-hr-only)
 * [Shop By Product](https://blackwolfnation.com/collections/shop-all)
     * Back
     * [Shop By Product](https://blackwolfnation.com/collections/shop-all)
@@ -64,12 +105,12 @@
 * [🎄 Holiday Shop 🎄](https://blackwolfnation.com/pages/2024-black-wolf-holiday-gift-guide)
 * [Subscribe + Save](https://blackwolfnation.com/pages/subscriptions)
 * [FSA/HSA Eligible](https://blackwolfnation.com/pages/fsa-hsa-eligible-black-wolf-products)
-* [Shop All](https://blackwolfnation.com/collections/shop-all)
 
 [![](//blackwolfnation.com/cdn/shop/files/logo_6426c5c7-0a15-428d-a28d-52b4be46c40f.webp?v=1671802032&width=334)](https://blackwolfnation.com/ "Black Wolf")
 
 [![](//blackwolfnation.com/cdn/shop/files/BW_logo_w_2x_160x_2x_c6e857dd-2de1-4ae1-8cb7-49eea1094eb0.webp?v=1681132838&width=334)](https://blackwolfnation.com/ "Black Wolf")
 
+* [BLACK FRIDAY SALE!](https://blackwolfnation.com/pages/haircare-flash-sale-24-hr-only)
 * [Shop By Product](https://blackwolfnation.com/collections/shop-all)
     
     [![](//blackwolfnation.com/cdn/shop/files/1_413be24c-0f99-467a-84a0-1b0fea8da99d.png?v=1730137606&width=1350)](https://blackwolfnation.com/products/hydrating-body-wash)
@@ -114,7 +155,6 @@
 * [🎄 Holiday Shop 🎄](https://blackwolfnation.com/pages/2024-black-wolf-holiday-gift-guide)
 * [Subscribe + Save](https://blackwolfnation.com/pages/subscriptions)
 * [FSA/HSA Eligible](https://blackwolfnation.com/pages/fsa-hsa-eligible-black-wolf-products)
-* [Shop All](https://blackwolfnation.com/collections/shop-all)
 
 [](https://blackwolfnation.com/customer_authentication/redirect?locale=en&region_country=US)[](https://blackwolfnation.com/cart)
 
