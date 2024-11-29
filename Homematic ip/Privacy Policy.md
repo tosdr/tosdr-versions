@@ -1,9 +1,5 @@
 [Direkt zum Inhalt](#main-content)
 
-**Automatischer hydraulischer Abgleich – Effizienz für Ihr Heizsystem**
-
-[▶ mehr erfahren](https://homematic-ip.com/de/automatischer-hydraulischer-abgleich-effizienz-fuer-ihr-heizsystem)
-
  [![Home](/themes/custom/hip/logo.svg) ![Home](/themes/custom/hip/logo_color.svg)](https://homematic-ip.com/de)
 
 [![Logo](/themes/custom/hip/logo.svg)](https://homematic-ip.com/de)
