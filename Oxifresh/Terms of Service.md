@@ -443,15 +443,15 @@ What Customers Are Saying
 
 Based on 305,387 Carpet Cleaning Services Reviews
 
-**SJ.** - Williamsburg, VA - 11/28/2024
-
-(5.0 Out of 5 stars)
-
-**EM.** - Fullerton, CA - 11/28/2024
+Quick and efficient, carpet looks great.... **CH.** - Charlotte, NC - 11/28/2024
 
 (5.0 Out of 5 stars)
 
 The best service! Always so respectful and on time! We have so many options for carpet cleaning but always come back to Oxi Fresh! **CI.** - Fort Worth, TX - 11/28/2024
+
+(5.0 Out of 5 stars)
+
+It got the job done. The carpets look great. **MB.** - Wake Forest, NC - 11/28/2024
 
 (5.0 Out of 5 stars)
 
