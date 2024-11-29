@@ -352,6 +352,18 @@ Community News
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2021/11/Amity3-768x576.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/starfleet-reels-as-amity-outpost-renews-and-idrustix-colony-grows/)
+
+### [Starfleet Reels as Amity Outpost Renews and Idrustix Colony Grows](https://www.starbase118.net/2024/starfleet-reels-as-amity-outpost-renews-and-idrustix-colony-grows/)
+
+Federation News Service November 29, 2024
+
+NURIOOTPA SOLAR NEBULA – While Amity Outpost repairs are complete, Starfleet deals with the repercussions of Changeling infiltration at its highest levels and the loss
+
+[Read More »](https://www.starbase118.net/2024/starfleet-reels-as-amity-outpost-renews-and-idrustix-colony-grows/)
+
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2024/11/rouiancetheadshot.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/captains-corner-lia-rouiancet-uss-octavia-e-butler/)
 
 ### [Captain’s Corner: Lia Rouiancet, USS Octavia E. Butler](https://www.starbase118.net/2024/captains-corner-lia-rouiancet-uss-octavia-e-butler/)
@@ -373,14 +385,6 @@ Federation News Service November 27, 2024
 DEEP SPACE NINE – Repairs to the USS Ronin and USS Khitomer following the defense of Deep Space Thirty-Three have taken longer than anticipated, primarily
 
 [Read More »](https://www.starbase118.net/2024/uss-ronin-and-uss-khitomer-repairs-and-extended-shore-leave-continue-at-deep-space-nine/)
-
-### [Award winner – Lt Karen Stendhal, USS Octavia E Butler (Xalor Clan Xifilis Award)](https://www.starbase118.net/2024/award-winner-lt-karen-stendhal-uss-octavia-e-butler-xalor-clan-xifilis-award/)
-
-Lhandon Nilsen November 26, 2024
-
-Award winner – Lt Karen Stendhal, USS Octavia E Butler (Xalor Clan Xifilis Award) Join us for another in a series of interviews with winners
-
-[Read More »](https://www.starbase118.net/2024/award-winner-lt-karen-stendhal-uss-octavia-e-butler-xalor-clan-xifilis-award/)
 
 Ready to get started?
 ---------------------
