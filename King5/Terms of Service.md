@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/b98d833e-e675-46b7-ab91-c59cee8e5da5/20241128T062632/b98d833e-e675-46b7-ab91-c59cee8e5da5_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b98d833e-e675-46b7-ab91-c59cee8e5da5/20241128T062632/b98d833e-e675-46b7-ab91-c59cee8e5da5_360x203.jpg)](https://www.king5.com/article/news/local/stranger-steps-in-after-enumclaw-senior-generator-stolen-power-outage/281-f05da6b0-fc86-4248-aded-966c650d69a5)
+    *  [![](https://media.king5.com/assets/KING/images/fce1a7be-a48a-4612-a2c0-52e73ae2d27f/20241129T002603/fce1a7be-a48a-4612-a2c0-52e73ae2d27f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fce1a7be-a48a-4612-a2c0-52e73ae2d27f/20241129T002603/fce1a7be-a48a-4612-a2c0-52e73ae2d27f_360x203.jpg)](https://www.king5.com/article/news/local/tacoma/family-community-unite-serve-thanksgiving-feast-honoring-nora-lee-walker/281-580908bb-4a5c-425a-b3a7-ab7d3bad0167)
         
-        #### [Stranger steps in after ailing Enumclaw senior's generator was stolen during power outage](https://www.king5.com/article/news/local/stranger-steps-in-after-enumclaw-senior-generator-stolen-power-outage/281-f05da6b0-fc86-4248-aded-966c650d69a5)
+        #### [Family and community unite to serve Thanksgiving Feast honoring Nora Lee Walker](https://www.king5.com/article/news/local/tacoma/family-community-unite-serve-thanksgiving-feast-honoring-nora-lee-walker/281-580908bb-4a5c-425a-b3a7-ab7d3bad0167)
         
-    *  [![](https://media.king5.com/assets/KING/images/f6704c73-6578-4e33-8600-167b56950ea3/f6704c73-6578-4e33-8600-167b56950ea3_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f6704c73-6578-4e33-8600-167b56950ea3/f6704c73-6578-4e33-8600-167b56950ea3_360x203.jpg)](https://www.king5.com/article/traffic/traffic-news/i-90-i-5-thanksgiving-holiday-traffic-wsdot-charts/281-15ea8af7-1992-4355-a394-d0b33c453e8c)
+    *  [![](https://media.king5.com/assets/KING/images/db044f94-abd7-4da1-922e-37e7372dda4f/20241129T001444/db044f94-abd7-4da1-922e-37e7372dda4f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/db044f94-abd7-4da1-922e-37e7372dda4f/20241129T001444/db044f94-abd7-4da1-922e-37e7372dda4f_360x203.jpg)](https://www.king5.com/article/news/local/issaquah-storm-victims-holidays-away-home/281-2760f654-8963-4970-9de1-a85fe0a424cd)
         
-        #### [Best and worst times to hit the road for Thanksgiving travel in western Washington](https://www.king5.com/article/traffic/traffic-news/i-90-i-5-thanksgiving-holiday-traffic-wsdot-charts/281-15ea8af7-1992-4355-a394-d0b33c453e8c)
+        #### ['We're still grateful': Issaquah storm victims forced to spend holidays away from home](https://www.king5.com/article/news/local/issaquah-storm-victims-holidays-away-home/281-2760f654-8963-4970-9de1-a85fe0a424cd)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-40°
+41°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Fair](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
