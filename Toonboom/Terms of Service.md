@@ -67,7 +67,6 @@
         * [Adult Animation White Paper](https://www.toonboom.com/adult-animation-white-paper)
         * [Animation From Every Angle Digital Magazine](https://www.toonboom.com/animation-from-every-angle)
         * [Ambassadors Gallery](https://www.toonboom.com/community/ambassadors-gallery)
-* [Shop Merch](https://theanimationstudy.com/collections/merch)
 
 * [About](https://www.toonboom.com/about)
 * [Careers](https://www.toonboom.com/careers)
@@ -141,7 +140,6 @@ Open Menu
     * [Newsfeeds](https://www.toonboom.com/newsfeeds)
         * [Animation From Every Angle](https://www.toonboom.com/category/animation-from-every-angle)
         * [Press Releases](https://www.toonboom.com/category/press-releases)
-* [Shop Merch](https://theanimationstudy.com/collections/merch)
 
 [Sign in](https://account.toonboom.com/)
 
@@ -319,7 +317,7 @@ Follow us
 * [Services](https://www.toonboom.com/services)
     * [Consulting Services](https://www.toonboom.com/services/consulting-services)
 * [Training](https://www.toonboom.com/training)
-* [Education](#)
+* Education
     * [Courseware](https://www.toonboom.com/courseware)
     * [Authorized Training Centres](https://www.toonboom.com/education/authorized-training-centres)
     * [Centre of Excellence](https://www.toonboom.com/education/centers-of-excellence)
@@ -332,8 +330,7 @@ Follow us
     * [Adult Animation White Paper](https://www.toonboom.com/adult-animation-white-paper)
     * [Animation From Every Angle Digital Magazine](https://www.toonboom.com/animation-from-every-angle)
     * [Ambassadors Gallery](https://www.toonboom.com/community/ambassadors-gallery)
-* [Shop Merch](https://theanimationstudy.com/collections/merch)
-* [Toonboom](#)
+* Toon Boom
     * [About](https://www.toonboom.com/about)
     * [Careers](https://www.toonboom.com/careers)
     * [Newsfeeds](https://www.toonboom.com/newsfeeds)
