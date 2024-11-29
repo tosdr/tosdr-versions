@@ -427,11 +427,11 @@ Missing Letter A daily crossword with a twist
 
 Play](https://www.merriam-webster.com/games/missing-letter)
 
-[![little chihuahua dressing like a turkey for thanksgiving](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+[![sweet smart pug puppy dog sitting in front of blackboard with chalk question marks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-Is That Gratitude or Attitude? A Thanksgiving Quiz Decide which words express gratitude and which gi...
+Commonly Confused Words Quiz Vol. 3 Do you have a (flare/flair) for choosing the righ...
 
-Take the quiz](https://www.merriam-webster.com/games/giving-thanks)
+Take the quiz](https://www.merriam-webster.com/games/confused-words-3)
 
 [Merriam Webster](https://www.merriam-webster.com/)
 
