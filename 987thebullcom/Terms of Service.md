@@ -212,11 +212,11 @@ Recently Played
 
 |     |
 | --- |
-| Heart Like A TruckLainey Wilson<br><br>10:39pm |
-| LiarJelly Roll<br><br>10:35pm |
-| As Good As I Once WasToby Keith<br><br>10:32pm |
-| A Bar Song (Tipsy)Shaboozey<br><br>10:21pm |
-| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>10:18pm |
+| High RoadKoe Wetzel Ft Jess Murph<br><br>10:36am |
+| Single Saturday NightCole Swindell<br><br>10:33am |
+| Thats My Kind Of NightLuke Bryan<br><br>10:30am |
+| Wagon WheelDarius Rucker<br><br>10:26am |
+| You Look Like You Love MeElla Langley Ft Riley Green<br><br>10:23am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -360,21 +360,21 @@ State
 Featured Brands
 ---------------
 
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+
+Sports • Midwest
+
 [![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
 Top 40 • Pacific NW
-
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
-
-News Talk • Eastern
 
 [![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
 Country • Western
 
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
-Sports • Midwest
+Top 40 • Eastern
 
 [](https://www.alphamediausa.com/)
 
