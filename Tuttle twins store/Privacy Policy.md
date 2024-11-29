@@ -33,11 +33,11 @@ Shipping & taxes calculated at checkout
 
 [**Free shipping on orders $70+ (USA Only)**](https://tuttletwins.store/collections/shop-all)
 
-[**Early Black Friday Sale - Save up to 70%**](https://tuttletwins.store/collections/shop-all)
+[**Black Friday Sale - Save up to 70%**](https://tuttletwins.store/collections/shop-all)
 
    
 
-[Black Friday Savings Are Here - Save up to 70%
+[Black Friday Sale - Up to 70% Off
 
 DAYS
 
@@ -899,7 +899,7 @@ Accessibility
 
 [Returns & Exchanges](https://shop.angel.com/policies/refund-policy?ose=false)
 
-[Gift Card Policy](https://tuttletwins.store/pages/gift-card-terms-and-conditions)
+[Gift Card Terms](https://tuttletwins.store/pages/gift-card-terms-and-conditions)
 
 Follow us on
 
