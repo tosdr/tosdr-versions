@@ -20,16 +20,16 @@ Friday, November 29 2024
 
 Latest
 
-* [Google Changes Search Features to Appease EU Regulators](https://digitpatrox.com/google-changes-search-features-to-appease-eu-regulators/)
-* [New on Prime Video in December 2024 — all the new shows and movies to watch](https://digitpatrox.com/new-on-prime-video-in-december-2024-all-the-new-shows-and-movies-to-watch/)
-* [Researchers discover first UEFI bootkit malware for Linux](https://digitpatrox.com/researchers-discover-first-uefi-bootkit-malware-for-linux/)
-* [Palworld’s new island will be its ‘largest’ and ‘harshest’](https://digitpatrox.com/palworlds-new-island-will-be-its-largest-and-harshest/)
-* [Spy x Family Chapter 108 Gets New Release Date After a Sudden Hiatus](https://digitpatrox.com/spy-x-family-chapter-108-gets-new-release-date-after-a-sudden-hiatus/)
-* [What role will the cloud play in the AI era?](https://digitpatrox.com/what-role-will-the-cloud-play-in-the-ai-era/)
-* [The Marshall Emberton II Speakers Are $70 Off for Black Friday](https://digitpatrox.com/the-marshall-emberton-ii-speakers-are-70-off-for-black-friday/)
-* [Should You Pack Lunchables for Your Kid’s School Lunch?](https://digitpatrox.com/should-you-pack-lunchables-for-your-kids-school-lunch/)
-* [Why Is My Printer Offline? (and How to Get It Online)](https://digitpatrox.com/why-is-my-printer-offline-and-how-to-get-it-online/)
-* [How AI and digital transformation are game changers for the finance industry](https://digitpatrox.com/how-ai-and-digital-transformation-are-game-changers-for-the-finance-industry/)
+* [I Love This Versatile Drum Pad, and It's $60 Off for Black Friday](https://digitpatrox.com/i-love-this-versatile-drum-pad-and-its-60-off-for-black-friday/)
+* [Alder Hey Children’s NHS Foundation Trust investigating data breach after ransomware gang claims attack](https://digitpatrox.com/alder-hey-childrens-nhs-foundation-trust-investigating-data-breach-after-ransomware-gang-claims-attack/)
+* [Are Black Friday Deals Really Cheaper? How to Check for Price Inflation](https://digitpatrox.com/are-black-friday-deals-really-cheaper-how-to-check-for-price-inflation/)
+* [A security researcher stumbled upon 600,000 sensitive files left in the open by data broker](https://digitpatrox.com/a-security-researcher-stumbled-upon-600000-sensitive-files-left-in-the-open-by-data-broker/)
+* [ERP vs CRM: Understanding the Key Differences](https://digitpatrox.com/erp-vs-crm-understanding-the-key-differences/)
+* [How to watch ‘Earth Abides’ online — stream the George R. Stewart adaptation from anywhere](https://digitpatrox.com/how-to-watch-earth-abides-online-stream-the-george-r-stewart-adaptation-from-anywhere/)
+* [Chinese hackers breached T-Mobile’s routers to scope out network](https://digitpatrox.com/chinese-hackers-breached-t-mobiles-routers-to-scope-out-network/)
+* [The best Black Friday robot vacuum deals, according to our smart home reviewer](https://digitpatrox.com/the-best-black-friday-robot-vacuum-deals-according-to-our-smart-home-reviewer/)
+* [Upgrade Your Gaming Experience With This JBL Quantum 910 Deal on Black Friday](https://digitpatrox.com/upgrade-your-gaming-experience-with-this-jbl-quantum-910-deal-on-black-friday/)
+* [Microsoft facing FTC antitrust probe over cloud, AI competition concerns](https://digitpatrox.com/microsoft-facing-ftc-antitrust-probe-over-cloud-ai-competition-concerns/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://assets.techrepublic.com/uploads/2024/11/tr_20241127-google-changes-search-eu-dma.jpg)](https://digitpatrox.com/google-changes-search-features-to-appease-eu-regulators/)
+* [![](https://lifehacker.com/imagery/articles/01JDR2VTP5A2EJQCWS66JN68M0/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/i-love-this-versatile-drum-pad-and-its-60-off-for-black-friday/)
     
-    [Google Changes Search Features to Appease EU Regulators](https://digitpatrox.com/google-changes-search-features-to-appease-eu-regulators/)
+    [I Love This Versatile Drum Pad, and It's $60 Off for Black Friday](https://digitpatrox.com/i-love-this-versatile-drum-pad-and-its-60-off-for-black-friday/)
     
-    14 seconds ago
+    9 minutes ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/uPMbEdDZTHxXtRqvbrAofV-1200-80.jpg)](https://digitpatrox.com/new-on-prime-video-in-december-2024-all-the-new-shows-and-movies-to-watch/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/UK-childrens-hospital-investigating-data-breach-after-ransomware-gang-claims-attack.jpg)](https://digitpatrox.com/alder-hey-childrens-nhs-foundation-trust-investigating-data-breach-after-ransomware-gang-claims-attack/)
     
-    [New on Prime Video in December 2024 — all the new shows and movies to watch](https://digitpatrox.com/new-on-prime-video-in-december-2024-all-the-new-shows-and-movies-to-watch/)
+    [Alder Hey Children’s NHS Foundation Trust investigating data breach after ransomware gang claims attack](https://digitpatrox.com/alder-hey-childrens-nhs-foundation-trust-investigating-data-breach-after-ransomware-gang-claims-attack/)
     
-    4 minutes ago
+    15 minutes ago
     
-* [![](https://www.bleepstatic.com/content/hl-images/2024/11/27/Linux-bootkit.jpg)](https://digitpatrox.com/researchers-discover-first-uefi-bootkit-malware-for-linux/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/11/shutterstock_2536516915.png)](https://digitpatrox.com/are-black-friday-deals-really-cheaper-how-to-check-for-price-inflation/)
     
-    [Researchers discover first UEFI bootkit malware for Linux](https://digitpatrox.com/researchers-discover-first-uefi-bootkit-malware-for-linux/)
+    [Are Black Friday Deals Really Cheaper? How to Check for Price Inflation](https://digitpatrox.com/are-black-friday-deals-really-cheaper-how-to-check-for-price-inflation/)
+    
+    21 minutes ago
+    
+* [![](https://cdn.mos.cms.futurecdn.net/DjkdAmtYuueF93eLjsAzbQ-1200-80.jpg)](https://digitpatrox.com/a-security-researcher-stumbled-upon-600000-sensitive-files-left-in-the-open-by-data-broker/)
+    
+    [A security researcher stumbled upon 600,000 sensitive files left in the open by data broker](https://digitpatrox.com/a-security-researcher-stumbled-upon-600000-sensitive-files-left-in-the-open-by-data-broker/)
+    
+    59 minutes ago
+    
+* [![](https://assets.techrepublic.com/uploads/2024/11/crm-cube-blocks-2023-11-27-04-54-38-utc-pexels-JoPanwatD-1024x683.jpg)](https://digitpatrox.com/erp-vs-crm-understanding-the-key-differences/)
+    
+    [ERP vs CRM: Understanding the Key Differences](https://digitpatrox.com/erp-vs-crm-understanding-the-key-differences/)
     
     1 hour ago
-    
-* [![](https://cdn.vox-cdn.com/thumbor/9EW-dpe2XfQGZzWNnwTEK1HS0lc=/0x0:1920x1080/1200x628/filters:focal(352x616:353x617)/cdn.vox-cdn.com/uploads/chorus_asset/file/25763260/GdXsypzaoAMEPf0.jpg)](https://digitpatrox.com/palworlds-new-island-will-be-its-largest-and-harshest/)
-    
-    [Palworld’s new island will be its ‘largest’ and ‘harshest’](https://digitpatrox.com/palworlds-new-island-will-be-its-largest-and-harshest/)
-    
-    2 hours ago
-    
-* [![](https://beebom.com/wp-content/uploads/2024/11/spy-x-family-chapter-108-delayed.jpg)](https://digitpatrox.com/spy-x-family-chapter-108-gets-new-release-date-after-a-sudden-hiatus/)
-    
-    [Spy x Family Chapter 108 Gets New Release Date After a Sudden Hiatus](https://digitpatrox.com/spy-x-family-chapter-108-gets-new-release-date-after-a-sudden-hiatus/)
-    
-    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [14 seconds ago
+* [9 minutes ago
     
-    ### Google Changes Search Features to Appease EU Regulators](https://digitpatrox.com/google-changes-search-features-to-appease-eu-regulators/)
-* [4 minutes ago
+    ### I Love This Versatile Drum Pad, and It's $60 Off for Black Friday](https://digitpatrox.com/i-love-this-versatile-drum-pad-and-its-60-off-for-black-friday/)
+* [15 minutes ago
     
-    ### New on Prime Video in December 2024 — all the new shows and movies to watch](https://digitpatrox.com/new-on-prime-video-in-december-2024-all-the-new-shows-and-movies-to-watch/)
-* [1 hour ago
+    ### Alder Hey Children’s NHS Foundation Trust investigating data breach after ransomware gang claims attack](https://digitpatrox.com/alder-hey-childrens-nhs-foundation-trust-investigating-data-breach-after-ransomware-gang-claims-attack/)
+* [21 minutes ago
     
-    ### Researchers discover first UEFI bootkit malware for Linux](https://digitpatrox.com/researchers-discover-first-uefi-bootkit-malware-for-linux/)
+    ### Are Black Friday Deals Really Cheaper? How to Check for Price Inflation](https://digitpatrox.com/are-black-friday-deals-really-cheaper-how-to-check-for-price-inflation/)
 
 Most Popular Topics
 
-* [August 28, 2024
+* [October 18, 2024
     
-    ### Walmart Great Value Apple Juice Recalled for High Arsenic Levels](https://digitpatrox.com/walmart-great-value-apple-juice-recalled-for-high-arsenic-levels/)
-* [August 30, 2024
+    ### How to remove mugshots from the internet](https://digitpatrox.com/how-to-remove-mugshots-from-the-internet/)
+* [August 22, 2024
     
-    ### 4 Things People Get Wrong About Head Lice](https://digitpatrox.com/4-things-people-get-wrong-about-head-lice/)
-* [3 weeks ago
+    ### How to use Google Pixel 9 reimagine feature](https://digitpatrox.com/how-to-use-google-pixel-9-reimagine-feature/)
+* [October 1, 2024
     
-    ### How to enable Ultimate Performance power mode on Windows 11, 10](https://digitpatrox.com/how-to-enable-ultimate-performance-power-mode-on-windows-11-10/)
+    ### Cybersecurity teams are understaffed, overworked, and underfunded – and it’s taking a massive toll on mental health](https://digitpatrox.com/cybersecurity-teams-are-understaffed-overworked-and-underfunded-and-its-taking-a-massive-toll-on-mental-health/)
 
 Last Modified Topics
 
-* [4 hours ago
+* [2 hours ago
     
-    ### The Marshall Emberton II Speakers Are $70 Off for Black Friday](https://digitpatrox.com/the-marshall-emberton-ii-speakers-are-70-off-for-black-friday/)
-* [4 hours ago
+    ### Chinese hackers breached T-Mobile’s routers to scope out network](https://digitpatrox.com/chinese-hackers-breached-t-mobiles-routers-to-scope-out-network/)
+* [3 hours ago
     
-    ### Should You Pack Lunchables for Your Kid’s School Lunch?](https://digitpatrox.com/should-you-pack-lunchables-for-your-kids-school-lunch/)
-* [4 hours ago
+    ### The best Black Friday robot vacuum deals, according to our smart home reviewer](https://digitpatrox.com/the-best-black-friday-robot-vacuum-deals-according-to-our-smart-home-reviewer/)
+* [3 hours ago
     
-    ### Why Is My Printer Offline? (and How to Get It Online)](https://digitpatrox.com/why-is-my-printer-offline-and-how-to-get-it-online/)
+    ### Upgrade Your Gaming Experience With This JBL Quantum 910 Deal on Black Friday](https://digitpatrox.com/upgrade-your-gaming-experience-with-this-jbl-quantum-910-deal-on-black-friday/)
 
 Most Viewed Topics
 
+* [August 11, 2024
+    
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 13, 2024
     
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
-* [August 12, 2024
-    
-    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 * [October 2, 2024
     
     ### The best noise-canceling headphones for 2024](https://digitpatrox.com/the-best-noise-canceling-headphones-for-2024/)
