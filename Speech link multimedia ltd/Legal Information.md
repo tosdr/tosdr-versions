@@ -191,7 +191,7 @@ Our friendly team will be out and about this month. Come and say hello and find 
 
 ### Co-production
 
-Read about our recent collaborative work with Medway LEA as part of their Children and Family Hubs.
+Read about our recent collaborative work with Medway Council as part of their Children and Family Hubs.
 
 [Find out more](https://speechandlanguage.info/working-with-you/commissioners/4290-2/)
 
