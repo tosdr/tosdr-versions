@@ -26,9 +26,9 @@
         * [Guides](https://illumin.com/insights/guides/)
         * [Events](https://illumin.com/insights/events/)
         * [Podcasts & Webinars](https://illumin.com/insights/podcasts-webinars/)
-    * ![Roblox adds programmatic in-game advertising in 2024](https://illumin.com/wp-content/uploads/2024/11/roblox-1-263x300.jpg)
+    * ![How AI is shaping digital advertising](https://illumin.com/wp-content/uploads/2023/09/How-AI-is-shaping-digital-advertising-1-263x300.jpg)
         
-        Roblox adds programmatic in-game advertising in 2024[Read More](https://illumin.com/insights/blog/roblox-programmatic-in-game-advertising/)
+        How AI is shaping digital advertising[Read More](https://illumin.com/insights/blog/ai-shaping-digital-advertising/)
         
 * [Company](#)
     * [Company](#)
