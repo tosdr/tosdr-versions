@@ -80,13 +80,13 @@ Offers
     
     [BUY NOW](https://www.fandangomovietickets.com/moana2ticket2adventure?cmp=TARS~FANDANGO~Moana2ticket2adventure_Footer)
     
-* [FREE Fandango Screening image link ![FREE Fandango Screening](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/f3a60f20-a932-11ef-a588-3b078e6b3d8a--fan-globalofferunit-homepage-skeletoncrew-292x118.png)](https://fandango.az1.qualtrics.com/jfe/form/SV_0cQGwOnVNbPUK7Y?cmp=TARS~FANDANGO~SkeletonCrewScreening_Footer) 
+* [Popular Poster Pack image link ![Popular Poster Pack](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/a73aa8c0-8dae-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-wicked-292x118.png)](https://www.fandangomovietickets.com/wickedbundle?cmp=TARS~FANDANGO~PopularPosterPack_Footer) 
     
-    ### FREE Fandango Screening
+    ### Popular Poster Pack
     
-    RSVP to the Star Wars: Skeleton Crew Fandango Screening!
+    Get 2 movie tickets to Wicked, a limited edition poster, and more!
     
-    [RSVP NOW](https://fandango.az1.qualtrics.com/jfe/form/SV_0cQGwOnVNbPUK7Y?cmp=TARS~FANDANGO~SkeletonCrewScreening_Footer)
+    [BUY NOW](https://www.fandangomovietickets.com/wickedbundle?cmp=TARS~FANDANGO~PopularPosterPack_Footer)
     
 
 New & Coming soon
