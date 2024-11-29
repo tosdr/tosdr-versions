@@ -41,30 +41,30 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Lindsay Lohan in a cream-colored silk gown and matching coat](https://www.women.com/img/gallery/3-lindsay-lohan-outfits-that-give-hallie-parker-and-3-that-are-so-annie-james/intro-1732207776.jpg)](https://www.women.com/1719538/lindsay-lohan-outfits-hallie-parker-annie-james-the-parent-trap/)
+*  [![Lesbian couple taking an engagement selfie on a boat](https://www.women.com/img/gallery/can-you-break-your-engagement-without-breaking-up/intro-1732131514.jpg)](https://www.women.com/1718643/break-engagement-without-breaking-up/)
     
-    [Fashion](https://www.women.com/category/fashion/)
+    [Exclusives](https://www.women.com/category/exclusives/)
     
-    [Fashion](https://www.women.com/category/fashion/) By Mila Williams
+    [Exclusives](https://www.women.com/category/exclusives/) By Amanda Chatel
     
-    [3 Lindsay Lohan Outfits That Give Hallie Parker (And 3 That Are So Annie James)](https://www.women.com/1719538/lindsay-lohan-outfits-hallie-parker-annie-james-the-parent-trap/)
-    =================================================================================================================================================================================
+    [Can You Break Your Engagement Without Breaking Up?](https://www.women.com/1718643/break-engagement-without-breaking-up/)
+    =========================================================================================================================
     
-    As fabulous as her later projects are, Lindsay Lohan's looks, whether on the red carpet, during media tours, or on social media, channel the Parker twins.
+    As thrilling as being engaged is, it might not feel quite right, and that's ok. Ending an engagement but not the relationship is possible, but it takes work.
     
-    By Mila Williams [Read More](https://www.women.com/1719538/lindsay-lohan-outfits-hallie-parker-annie-james-the-parent-trap/)
+    By Amanda Chatel [Read More](https://www.women.com/1718643/break-engagement-without-breaking-up/)
     
-* *  [![Short Christmas nails in front of a Christmas tree](https://www.women.com/img/gallery/15-stunning-holiday-manicure-ideas-for-short-nails/intro-1731955638.jpg)](https://www.women.com/1716367/stunning-holiday-manicure-ideas-short-nails/)
+* *  [![Lindsay Lohan in a cream-colored silk gown and matching coat](https://www.women.com/img/gallery/3-lindsay-lohan-outfits-that-give-hallie-parker-and-3-that-are-so-annie-james/intro-1732207776.jpg)](https://www.women.com/1719538/lindsay-lohan-outfits-hallie-parker-annie-james-the-parent-trap/)
         
-        [Beauty](https://www.women.com/category/beauty/)
+        [Fashion](https://www.women.com/category/fashion/)
         
-        [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+        [Fashion](https://www.women.com/category/fashion/) By Mila Williams
         
-        ### [15 Stunning Holiday Manicure Ideas For Short Nails](https://www.women.com/1716367/stunning-holiday-manicure-ideas-short-nails/)
+        ### [3 Lindsay Lohan Outfits That Give Hallie Parker (And 3 That Are So Annie James)](https://www.women.com/1719538/lindsay-lohan-outfits-hallie-parker-annie-james-the-parent-trap/)
         
-        Short nails don't have to keep you from a stunning holiday manicure. Try festive colors or add sparkle for the New Year.
+        As fabulous as her later projects are, Lindsay Lohan's looks, whether on the red carpet, during media tours, or on social media, channel the Parker twins.
         
-        By Emily Hutchinson [Read More](https://www.women.com/1716367/stunning-holiday-manicure-ideas-short-nails/)
+        By Mila Williams [Read More](https://www.women.com/1719538/lindsay-lohan-outfits-hallie-parker-annie-james-the-parent-trap/)
         
     *  [![Zoe Kravitz and Channing Tatum in London for the Blink Twice premiere](https://www.women.com/img/gallery/the-red-flags-we-couldnt-ignore-in-channing-tatum-and-zoe-kravitzs-relationship/intro-1732124296.jpg)](https://www.women.com/1718419/red-flags-couldnt-ignore-channing-tatum-zoe-kravitz-relationship/)
         
@@ -153,6 +153,18 @@ More Stories
     Of all of the addictions out there, sex addiction isn't taken as seriously as it should be. But it can impact anyone, for any reason.
     
     By Amanda Chatel [Read More](https://www.women.com/1716187/celebs-open-about-battle-sex-addiction/)
+    
+*  [![Short Christmas nails in front of a Christmas tree](https://www.women.com/img/gallery/15-stunning-holiday-manicure-ideas-for-short-nails/intro-1731955638.jpg)](https://www.women.com/1716367/stunning-holiday-manicure-ideas-short-nails/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+    
+    ### [15 Stunning Holiday Manicure Ideas For Short Nails](https://www.women.com/1716367/stunning-holiday-manicure-ideas-short-nails/)
+    
+    Short nails don't have to keep you from a stunning holiday manicure. Try festive colors or add sparkle for the New Year.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1716367/stunning-holiday-manicure-ideas-short-nails/)
     
 *  [![Jenna Bush Hager at an event wearing red](https://www.women.com/img/gallery/the-best-read-with-jenna-book-club-picks-of-all-time/intro-1731948738.jpg)](https://www.women.com/1716056/best-read-with-jenna-book-club-picks-all-time/)
     
@@ -393,18 +405,6 @@ More Stories
     It might be time to spice things up and lean into the thrill of experimenting with each other. But broach this conversation mindfully.
     
     By Amanda Chatel [Read More](https://www.women.com/1706028/how-to-tell-partner-want-spicier-sex/)
-    
-*  [![Shiloh and Angelina Jolie](https://www.women.com/img/gallery/shiloh-jolies-stunning-style-transformation/intro-1730825127.jpg)](https://www.women.com/1705729/shiloh-jolie-stunning-style-transformation/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
-    
-    ### [Shiloh Jolie's Stunning Style Transformation](https://www.women.com/1705729/shiloh-jolie-stunning-style-transformation/)
-    
-    Shiloh Jolie has undergone a remarkable transformation, from repurposing old garments to freely playing with gender expression.
-    
-    By Bernadette Roe [Read More](https://www.women.com/1705729/shiloh-jolie-stunning-style-transformation/)
     
 
 Back
