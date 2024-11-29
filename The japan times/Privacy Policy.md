@@ -464,25 +464,21 @@ Revised June 1, 2022
 
 * Editors' Picks
 
+[Japan researchers develop a simple way to spot signs of Alzheimer's disease](https://www.japantimes.co.jp/news/2024/11/28/japan/science-health/keio-university-alzheimers/ "Japan researchers develop a simple way to spot signs of Alzheimer's disease")
+
+  [![In 2022, the number of elderly people with dementia in Japan reached 4.43 million, according to data from the health ministry. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/28/436797.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "In 2022, the number of elderly people with dementia in Japan reached 4.43 million, according to data from the health ministry. ")](https://www.japantimes.co.jp/news/2024/11/28/japan/science-health/keio-university-alzheimers/ "Japan researchers develop a simple way to spot signs of Alzheimer's disease")
+
+[Real estate worth ¥25 trillion puts Japan companies in spotlight](https://www.japantimes.co.jp/business/2024/11/28/companies/japan-undervalued-real-estate/ "Real estate worth ¥25 trillion puts Japan companies in spotlight")
+
+  [![Elliott Investment Management's stake in Tokyo Gas is centered around getting the utility to sell off its real estate holdings, including Shinjuku Park Tower, which houses the Park Hyatt Hotel Tokyo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/28/436887.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Elliott Investment Management's stake in Tokyo Gas is centered around getting the utility to sell off its real estate holdings, including Shinjuku Park Tower, which houses the Park Hyatt Hotel Tokyo.")](https://www.japantimes.co.jp/business/2024/11/28/companies/japan-undervalued-real-estate/ "Real estate worth ¥25 trillion puts Japan companies in spotlight")
+
+[Two dead after fire at Upper House lawmaker Kuniko Inoguchi’s apartment](https://www.japantimes.co.jp/news/2024/11/28/japan/politics/kuniko-inoguchi-fire/ "Two dead after fire at Upper House lawmaker Kuniko Inoguchi’s apartment")
+
+  [![A fire broke out on the sixth floor of an apartment building where Upper House lawmaker Kuniko Inoguchi resides on Wednesday in Tokyo's Bunkyo Ward.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/28/436926.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A fire broke out on the sixth floor of an apartment building where Upper House lawmaker Kuniko Inoguchi resides on Wednesday in Tokyo's Bunkyo Ward.")](https://www.japantimes.co.jp/news/2024/11/28/japan/politics/kuniko-inoguchi-fire/ "Two dead after fire at Upper House lawmaker Kuniko Inoguchi’s apartment")
+
 [Japan investigating Amazon for allegedly bullying other businesses](https://www.japantimes.co.jp/business/2024/11/27/companies/jftc-amazon-japan/ "Japan investigating Amazon for allegedly bullying other businesses")
 
   [![Packages move along a conveyor belt at an Amazon warehouse](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/27/436814.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Packages move along a conveyor belt at an Amazon warehouse")](https://www.japantimes.co.jp/business/2024/11/27/companies/jftc-amazon-japan/ "Japan investigating Amazon for allegedly bullying other businesses")
-
-[DPP’s Tamaki leverages new position with energy proposal](https://www.japantimes.co.jp/news/2024/11/27/japan/politics/ishiba-tamaki-nuclear-energy/ "DPP’s Tamaki leverages new position with energy proposal")
-
-  [![DPP leader Yuichiro Tamaki in Tokyo on Tuesday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/27/436830.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "DPP leader Yuichiro Tamaki in Tokyo on Tuesday")](https://www.japantimes.co.jp/news/2024/11/27/japan/politics/ishiba-tamaki-nuclear-energy/ "DPP’s Tamaki leverages new position with energy proposal")
-
-[Japanese man broke into 1,000 homes to 'relieve stress'](https://www.japantimes.co.jp/news/2024/11/27/japan/crime-legal/man-home-invasion/ "Japanese man broke into 1,000 homes to 'relieve stress'")
-
-  [![Fukuoka Prefectural Police Headquarters in Fukuoka. Police took a 37-year-old man into custody on Monday on suspicion of trespassing on a property in Dazaifu City. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/27/436747.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Fukuoka Prefectural Police Headquarters in Fukuoka. Police took a 37-year-old man into custody on Monday on suspicion of trespassing on a property in Dazaifu City. ")](https://www.japantimes.co.jp/news/2024/11/27/japan/crime-legal/man-home-invasion/ "Japanese man broke into 1,000 homes to 'relieve stress'")
-
-[Wild boar injures six at Himeji child care facility](https://www.japantimes.co.jp/news/2024/11/27/japan/crime-legal/wild-boar-attack/ "Wild boar injures six at Himeji child care facility")
-
-  [![Hyogo Prefectural Police headquarters. A wild boar attacked children and staff at a child care facility in the prefecture on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/27/436720.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Hyogo Prefectural Police headquarters. A wild boar attacked children and staff at a child care facility in the prefecture on Tuesday.")](https://www.japantimes.co.jp/news/2024/11/27/japan/crime-legal/wild-boar-attack/ "Wild boar injures six at Himeji child care facility")
-
-[Russia says it will respond if U.S. places missiles in Japan](https://www.japantimes.co.jp/news/2024/11/28/japan/russia-us-missiles-japan/ "Russia says it will respond if U.S. places missiles in Japan")
-
-  [![Russian Foreign Ministry spokesperson Maria Zakharova at a news conference in the city of Nizhny Novgorod, Russia, in June](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/28/436866.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Russian Foreign Ministry spokesperson Maria Zakharova at a news conference in the city of Nizhny Novgorod, Russia, in June")](https://www.japantimes.co.jp/news/2024/11/28/japan/russia-us-missiles-japan/ "Russia says it will respond if U.S. places missiles in Japan")
 
 [‘What Divides Us’ producer honors grandfather’s Hiroshima reportage](https://www.japantimes.co.jp/culture/2024/11/27/film/what-divides-us-hiroshima/ "‘What Divides Us’ producer honors grandfather’s Hiroshima reportage")
 
@@ -523,9 +519,9 @@ By [Greg Dvorak](https://www.japantimes.co.jp/author/6191/greg-dvorak/ "Greg Dvo
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -565,25 +561,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Putin warns Russia may strike Kyiv with new ballistic missiles](https://www.japantimes.co.jp/news/2024/11/28/world/putin-warns-kyiv-strike-new-missiles/ "Putin warns Russia may strike Kyiv with new ballistic missiles")
+[Consumer inflation speeds up amid BOJ rate hike speculation](https://www.japantimes.co.jp/business/2024/11/29/economy/tokyo-cpi-speeds-up/ "Consumer inflation speeds up amid BOJ rate hike speculation")
 
-9 hours ago
+8 mins ago
 
-[Share of female presidents at Japanese firms hits record 8.4%](https://www.japantimes.co.jp/business/2024/11/28/female-president-share-record/ "Share of female presidents at Japanese firms hits record 8.4%")
+[Japanese food makers to raise prices for 109 items in December](https://www.japantimes.co.jp/business/2024/11/29/economy/japanese-food-price-rise/ "Japanese food makers to raise prices for 109 items in December")
 
-10 hours ago
+39 mins ago
 
-[Rights group says Vietnam's imprisonment of Khmer monks violated religious freedom](https://www.japantimes.co.jp/news/2024/11/28/asia-pacific/crime-legal/monks-vietnam-rights/ "Rights group says Vietnam's imprisonment of Khmer monks violated religious freedom")
+[U.K. Parliament to hold first vote on assisted dying in nine years](https://www.japantimes.co.jp/news/2024/11/29/world/crime-legal/uk-assisted-dying-vote/ "U.K. Parliament to hold first vote on assisted dying in nine years")
 
-10 hours ago
+57 mins ago
 
-[Taiwan president's plan to stop over in Hawaii and Guam angers Beijing](https://www.japantimes.co.jp/news/2024/11/28/asia-pacific/taiwan-leader-stop-hawaii-guam/ "Taiwan president's plan to stop over in Hawaii and Guam angers Beijing")
+[MUFG considering bid for Japanese robo-adviser WealthNavi](https://www.japantimes.co.jp/business/2024/11/29/companies/mufg-bid-wealthnavi/ "MUFG considering bid for Japanese robo-adviser WealthNavi")
 
-11 hours ago
+57 mins ago
 
-[Japan to lean heavily on extra tax revenue to cover costs of extra budget](https://www.japantimes.co.jp/news/2024/11/28/japan/extra-budget-tax-revenue/ "Japan to lean heavily on extra tax revenue to cover costs of extra budget")
+[Osaka court acquits man of fatally injuring 2-year-old daughter](https://www.japantimes.co.jp/news/2024/11/29/japan/crime-legal/overturned-conviction-father/ "Osaka court acquits man of fatally injuring 2-year-old daughter")
 
-11 hours ago
+1 hour ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
