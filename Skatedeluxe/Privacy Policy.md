@@ -2,7 +2,7 @@ cookie-whitecookie-white
 
 ×
 
-[Blog](https://www.skatedeluxe.com/blog/en/) [Team](https://www.skatedeluxe.com/en/g/team) [Specials](https://www.skatedeluxe.com/en/i/specials-free-offers) [Premium Club](https://www.skatedeluxe.com/en/i/premiumclub)
+[Vouchers](https://www.skatedeluxe.com/en/i/giftvouchers) [Blog](https://www.skatedeluxe.com/blog/en/) [Team](https://www.skatedeluxe.com/en/g/team) [Specials](https://www.skatedeluxe.com/en/i/specials-free-offers) [Premium Club](https://www.skatedeluxe.com/en/i/premiumclub)
 
 [Customer service](https://www.skatedeluxe.com/en/i/customer-service)
 
