@@ -37,7 +37,7 @@ Shipping & taxes calculated at checkout
 
    
 
-[ENDING SOON Early Black Friday Deals - Save up to 70%
+[Black Friday Savings Are Here - Save up to 70%
 
 DAYS
 
@@ -635,6 +635,8 @@ Accessibility
 [Privacy Policy](https://tuttletwins.store/policies/privacy-policy)
 
 [Returns & Exchanges](https://shop.angel.com/policies/refund-policy?ose=false)
+
+[Gift Card Policy](https://tuttletwins.store/pages/gift-card-terms-and-conditions)
 
 Follow us on
 
