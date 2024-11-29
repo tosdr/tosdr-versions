@@ -14,7 +14,6 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
-* [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-families-divided-by-football/TBCVUF5USFF57PWTLK5N6DGQYE/)
 * [Weekend Things to Do](https://www.ajc.com/things-to-do/things-to-do-in-atlanta-the-weekend-after-thanksgiving-nov-29-dec-1/I4GZQSQAXBDFDE3PFIPFPNRUUA/)
 * [Politically Georgia](https://www.ajc.com/politics/politically-georgia/)
 * [Holiday Guide](https://www.ajc.com/things-to-do/atlanta-winter-guide/)
