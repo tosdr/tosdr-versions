@@ -17,7 +17,7 @@ English Edition
 * [অসমীয়া (Assam)](https://assam.news18.com/)
 * [ଓଡ଼ିଆ (Odia)](https://odia.news18.com/)
 
-Fri, Nov 29, 2024
+Sat, Nov 30, 2024
 
 [Download News18 APP](https://onelink.to/eng-web-other)[Watch LIVE TV](https://www.news18.com/livetv/)
 
@@ -129,9 +129,9 @@ English
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
     * [Sonakshi Sinha](https://www.news18.com/movies/sonakshi-sinhas-mother-poonam-takes-a-dig-at-zaheer-iqbal-usse-shaadi-ki-jisko-9137967.html)
-    * [Champions Trophy](https://www.news18.com/cricket/champions-trophy-2025-icc-meeting-live-updates-pcb-reject-host-hybrid-model-bcci-india-neutral-venue-liveblog-9138932.html)
+    * [Champions Trophy](https://www.news18.com/cricket/pcb-sticks-to-no-hybrid-model-stance-for-champions-trophy-icc-to-reconvene-meeting-on-saturday-9139797.html)
     * [Allu Arjun](https://www.news18.com/movies/allu-arjun-calls-rashmika-mandanna-his-home-at-pushpa-2-event-youre-the-only-heroine-9136953.html)
-    * [Maharashtra CM](https://www.news18.com/politics/maharashtra-government-formation-new-cm-mahayuti-bjp-devendra-fadnavis-amit-shah-ncp-ajit-pawar-shiv-sena-eknath-shinde-delhi-latest-news-liveblog-9138922.html)
+    * [Maharashtra CM](https://www.news18.com/politics/maharashtra-new-cm-govt-formation-latest-news-mahayuti-mumbai-meeting-cancelled-eknath-shinde-heads-village-sitara-shrikant-bjp-suspense-9139580.html)
     * [Aishwarya Rai Bachchan](https://www.news18.com/movies/aishwarya-rais-sister-in-law-makes-rare-comment-on-actors-mom-battling-cancer-she-wasnt-looking-9137946.html)
     * [Skin Glow](https://www.news18.com/web-stories/lifestyle/5-hydrating-drinks-to-make-your-skin-glow-naturally-in-winter-2643380/)
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
@@ -171,9 +171,9 @@ Follow us on
 In Trends:
 
 * [Sonakshi Sinha](https://www.news18.com/movies/sonakshi-sinhas-mother-poonam-takes-a-dig-at-zaheer-iqbal-usse-shaadi-ki-jisko-9137967.html)
-* [Champions Trophy](https://www.news18.com/cricket/champions-trophy-2025-icc-meeting-live-updates-pcb-reject-host-hybrid-model-bcci-india-neutral-venue-liveblog-9138932.html)
+* [Champions Trophy](https://www.news18.com/cricket/pcb-sticks-to-no-hybrid-model-stance-for-champions-trophy-icc-to-reconvene-meeting-on-saturday-9139797.html)
 * [Allu Arjun](https://www.news18.com/movies/allu-arjun-calls-rashmika-mandanna-his-home-at-pushpa-2-event-youre-the-only-heroine-9136953.html)
-* [Maharashtra CM](https://www.news18.com/politics/maharashtra-government-formation-new-cm-mahayuti-bjp-devendra-fadnavis-amit-shah-ncp-ajit-pawar-shiv-sena-eknath-shinde-delhi-latest-news-liveblog-9138922.html)
+* [Maharashtra CM](https://www.news18.com/politics/maharashtra-new-cm-govt-formation-latest-news-mahayuti-mumbai-meeting-cancelled-eknath-shinde-heads-village-sitara-shrikant-bjp-suspense-9139580.html)
 * [Aishwarya Rai Bachchan](https://www.news18.com/movies/aishwarya-rais-sister-in-law-makes-rare-comment-on-actors-mom-battling-cancer-she-wasnt-looking-9137946.html)
 * [Skin Glow](https://www.news18.com/web-stories/lifestyle/5-hydrating-drinks-to-make-your-skin-glow-naturally-in-winter-2643380/)
 * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
@@ -430,7 +430,7 @@ This Policy was last updated as of 14th November 2024.
 
 ![](https://images.news18.com/ibnlive/uploads/2021/07/1627283897_news18_logo-1200x800.jpg)
 
-Nov 29, 2024
+Nov 30, 2024
 
 [View All](https://www.news18.com/short-news/)
 
