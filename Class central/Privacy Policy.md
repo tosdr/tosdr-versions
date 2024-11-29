@@ -412,36 +412,36 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 Most common
 
-1. English
+1. java
     
-2. excel
+2. hacking
     
-3. graphic design
+3. sql
     
 
 Popular subjects
 
 1. [Web Development
     
-    13,798 courses](https://www.classcentral.com/subject/web-development)
-2. [Digital Marketing
+    13,809 courses](https://www.classcentral.com/subject/web-development)
+2. [Computer Networking
     
-    6,286 courses](https://www.classcentral.com/subject/digital-marketing)
-3. [Artificial Intelligence
+    1,892 courses](https://www.classcentral.com/subject/computer-networking)
+3. [Ethical Hacking
     
-    14,101 courses](https://www.classcentral.com/subject/ai)
+    2,240 courses](https://www.classcentral.com/subject/ethical-hacking)
 
 Popular courses
 
-1. [Monitoring Volcanoes and Magma Movements
+1. [Terrorism and Counterterrorism: Comparing Theory and Practice
     
-    University of Iceland](https://www.classcentral.com/course/volcanoes-the-university-of-iceland-monitoring-vo-13227)
-2. [FinTech Ethics and Risks
+    Leiden University](https://www.classcentral.com/course/terrorism-701)
+2. [Product Management Essentials
     
-    The University of Hong Kong](https://www.classcentral.com/course/fintech-university-of-hong-kong-fintech-ethics-an-11392)
-3. [Python and Statistics for Financial Analysis
+    University of Maryland, College Park](https://www.classcentral.com/course/product-management-essentials-46400)
+3. [Biochemistry: Biomolecules, Methods, and Mechanisms
     
-    The Hong Kong University of Science and Technology](https://www.classcentral.com/course/python-statistics-financial-analysis-12648)
+    Massachusetts Institute of Technology](https://www.classcentral.com/course/biochemistry-massachusetts-institute-of-technolog-12585)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
