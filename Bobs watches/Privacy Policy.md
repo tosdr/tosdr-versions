@@ -1,3 +1,5 @@
+Black Friday Sale  -   [**Shop Now**](https://www.bobswatches.com/black-friday-luxury-watches-1.html)
+
 100% Certified Authentic
 
 [](https://www.bobswatches.com/usa)
