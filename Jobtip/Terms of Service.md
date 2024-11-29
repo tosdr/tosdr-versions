@@ -1,6 +1,6 @@
 ![](https://www.facebook.com/tr?id=508527011383773&ev=PageView&noscript=1) 
 
-[![](https://cdn.prod.website-files.com/63332d946a763982404d69fc/6333763d38cc61f4a2280d11_jobtip-logo-header.svg)](https://www.jobtip.com/)
+[![](https://cdn.prod.website-files.com/63332d946a763982404d69fc/6749c9d2902567017be81fb9_1.png)](https://www.jobtip.com/)
 
 [Solution](https://jobtip.com/recruitment-marketing)
 
@@ -161,7 +161,7 @@ Once Jobtip has received your application, your information will be stored in ou
 
 Jobtips system has a searchable register where Jobtip can easily seek out contact information. Only the person responsible for the relationship with the customer you have chosen to apply to and employees at Jobtip with a special technical permission can see your information. All data stored is encrypted to increase security. All information is protected behind a username and password. All data is stored within the EU.
 
-[![](https://cdn.prod.website-files.com/63332d946a763982404d69fc/6333763d38cc61f4a2280d11_jobtip-logo-header.svg)](#)
+[![](https://cdn.prod.website-files.com/63332d946a763982404d69fc/6749c9d2902567017be81fb9_1.png)](#)
 
 Copyright ©2024 Jobtip
 
