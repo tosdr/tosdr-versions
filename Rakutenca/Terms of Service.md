@@ -141,7 +141,7 @@ FR
         
         Dell Technologies
         
-        15% Cash Back](https://www.rakuten.ca/ticket/campaign/4CategoryFeaturedStores/store/dell-consumer?sourceName=nav-menu)
+        up to 20% Cash Back](https://www.rakuten.ca/ticket/campaign/4CategoryFeaturedStores/store/dell-consumer?sourceName=nav-menu)
         
         [![](//static.rakuten.ca//static/images/blank.1.0.0.gif)
         
@@ -848,13 +848,13 @@ All rights reserved.
 
  ![](//static.rakuten.ca/static/img/footer_close.svg) ![](//static.rakuten.ca/static/img/footer_open.svg)
 
-[![Earn 20% Cash Back from Rakuten.ca with HP Canada Coupons, Promo Codes](//static.rakuten.ca/img/campaign_entity/303508/en-stickyfooter-1170x60_hp-offer2.png "HP Canada Coupons, Promo Codes")
+[![Earn 16% Cash Back from Rakuten.ca with Dyson Coupons, Promo Codes](//static.rakuten.ca/img/campaign_entity/303442/en-stickyfooter-1170x60_dyson.png "Dyson Coupons, Promo Codes")
 
-was 2%, now
+was 2.5%, now
 
-20% Cash Back
+16% Cash Back
 
-Shop Now](https://www.rakuten.ca/ticket/campaign/sticky-footer-base-1/store/hp-canada?sourceName=stickyfooter1)
+Shop Now](https://www.rakuten.ca/ticket/campaign/sticky-footer-base-1/store/dyson?sourceName=stickyfooter1)
 
 × ![Rakuten White Logo](//static.rakuten.ca/static/images/logo/logo_Rakuten_white.svg)
 
