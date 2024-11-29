@@ -52,7 +52,7 @@ Radar & Maps
 News & Media
 ------------
 
-[Top Weather Stories](https://weather.com/home-garden/video/some-christmas-tree-farms-struggling-with-drought)[Hurricane Central](https://weather.com/storms/hurricane-central)[Science & Environment](https://weather.com/science/environment)[Space & Skywatching](https://weather.com/science/space)[Safety & Prep](https://weather.com/safety/index)[Videos](https://weather.com/home-garden/video/some-christmas-tree-farms-struggling-with-drought)[Bios](https://weather.com/bios)
+[Top Weather Stories](https://weather.com/science/space/video/northern-lights-might-be-visible-this-week)[Hurricane Central](https://weather.com/storms/hurricane-central)[Science & Environment](https://weather.com/science/environment)[Space & Skywatching](https://weather.com/science/space)[Safety & Prep](https://weather.com/safety/index)[Videos](https://weather.com/science/space/video/northern-lights-might-be-visible-this-week)[Bios](https://weather.com/bios)
 
 Products
 --------
