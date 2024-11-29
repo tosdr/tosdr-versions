@@ -284,6 +284,12 @@ We reserve the right to amend this Privacy Policy at any time. We will notify yo
 
 26. **Contact Us**If you have questions regarding this Privacy Policy or our handling of your personal information, would like to request more information from us, or would like to exercise a data privacy right, please contact us at any of the following: (email) [\[email protected\]](https://zenfolio.com/cdn-cgi/l/email-protection) or (mail) Zenfolio Inc., Attn: Legal Department – Privacy, 303 Twin Dolphin Dr, 6th Flr, Redwood City, CA 94065.
 
+![Zenfolio](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='345'%20height='123'%20viewBox='0%200%20345%20123'%3E%3C/svg%3E)
+
+![Zenfolio](/wp-content/uploads/2024/01/next-zen-logo-500-px@3x.png)
+
+Zenfolio offers a complete solution from enterprise-grade infrastructure and business features to advanced SEO and marketing tools-enabling anyone to create and grow their photography business online.
+
 Company
 
 * [About](https://zenfolio.com/company/about/)
@@ -302,7 +308,7 @@ Resources
 
 * [Video Room](https://zenfolio.com/videos/)
 * [Release Notes](https://zenfolio.com/features/release-notes/)
-* [Book 1:1](https://zenfolio.com/success-call/)
+* [Book a One-On-One](https://zenfolio.com/success-call/)
 * [Blog](https://zenfolio.com/blog/)
 * [Photography Guides](https://zenfolio.com/photography-guides/)
 * [Shipping Calculator](https://zenfolio.com/shipping-calculator-tool/)
@@ -313,20 +319,41 @@ Help
 * [Online Training](https://zenfolio.com/community/events/)
 * [Site Status](https://status.zenfolio.com/)
 
+Subscribe
+
+* [![Follow us on Facebook](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='48'%20height='0'%20viewBox='0%200%2048%200'%3E%3C/svg%3E "Follow us on Facebook")
+    
+    ![Follow us on Facebook](/wp-content/uploads/2024/01/facebook-copy-5@2x.png "Follow us on Facebook")](https://www.facebook.com/zenfolio "Facebook")
+* [![Follow us on Twitter](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='48'%20height='0'%20viewBox='0%200%2048%200'%3E%3C/svg%3E "Follow us on Twitter")
+    
+    ![Follow us on Twitter](/wp-content/uploads/2024/01/twitter-copy-5@2x.png "Follow us on Twitter")](https://twitter.com/zenfolio "Twitter")
+* [![Follow us on YouTube](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='48'%20height='0'%20viewBox='0%200%2048%200'%3E%3C/svg%3E "Follow us on YouTube")
+    
+    ![Follow us on YouTube](/wp-content/uploads/2024/01/you-tube-copy-5@2x.png "Follow us on YouTube")](https://www.youtube.com/zenfolio "YouTube")
+* [![Follow us on Instagram](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='48'%20height='0'%20viewBox='0%200%2048%200'%3E%3C/svg%3E "Follow us on Instagram")
+    
+    ![Follow us on Instagram](/wp-content/uploads/2024/01/instagram-copy-8@2x.png "Follow us on Instagram")](https://instagram.com/zenfolio "Instagram")
+
+* [![Follow us on Facebook](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='48'%20height='0'%20viewBox='0%200%2048%200'%3E%3C/svg%3E "Follow us on Facebook")
+    
+    ![Follow us on Facebook](/wp-content/uploads/2024/01/facebook-copy-5@2x.png "Follow us on Facebook")](https://www.facebook.com/zenfolio "Facebook")
+* [![Follow us on Twitter](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='48'%20height='0'%20viewBox='0%200%2048%200'%3E%3C/svg%3E "Follow us on Twitter")
+    
+    ![Follow us on Twitter](/wp-content/uploads/2024/01/twitter-copy-5@2x.png "Follow us on Twitter")](https://twitter.com/zenfolio "Twitter")
+* [![Follow us on YouTube](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='48'%20height='0'%20viewBox='0%200%2048%200'%3E%3C/svg%3E "Follow us on YouTube")
+    
+    ![Follow us on YouTube](/wp-content/uploads/2024/01/you-tube-copy-5@2x.png "Follow us on YouTube")](https://www.youtube.com/zenfolio "YouTube")
+* [![Follow us on Instagram](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='48'%20height='0'%20viewBox='0%200%2048%200'%3E%3C/svg%3E "Follow us on Instagram")
+    
+    ![Follow us on Instagram](/wp-content/uploads/2024/01/instagram-copy-8@2x.png "Follow us on Instagram")](https://instagram.com/zenfolio "Instagram")
+
 © 2024 Zenfolio, Inc. | [Terms of Service](https://zenfolio.com/termsofuse/) | [Privacy Policy](https://zenfolio.com/privacypolicy)
 
-* [](https://www.facebook.com/zenfolio "Facebook")
-* [](https://twitter.com/zenfolio "Twitter")
-* [](https://www.youtube.com/zenfolio "YouTube")
-* [](https://instagram.com/zenfolio "Instagram")
-* [](https://www.tiktok.com/@zenfolioinc "TikTok")
-* [](https://www.pinterest.com/zenfolio/ "Pinterest")
+[Cyber Monday Sale! **SAVE 70%** off annual plans.\* – View Plans](https://zenfolio.com/plans-pricing/)
 
-[Black Friday Sale! **SAVE 60%** off annual plans.\* – View Plans](https://zenfolio.com/plans-pricing/)
+[Cyber Monday Sale! ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='400'%20height='414'%20viewBox='0%200%20400%20414'%3E%3C/svg%3E)
 
-[Black Friday Sale! ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='400'%20height='414'%20viewBox='0%200%20400%20414'%3E%3C/svg%3E)
-
-![](/wp-content/uploads/2024/11/image-snipe@2x.png)
+![](/wp-content/uploads/2024/11/cyber-monday-70.png)
 
 View Plans](https://zenfolio.com/plans-pricing/)
 
