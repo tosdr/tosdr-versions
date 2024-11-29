@@ -4,6 +4,13 @@
 * [Routenplaner](https://www.komoot.de/de-de/plan)
 * [Features](https://www.komoot.de/de-de/features)
 
+* [Touren](https://www.komoot.de/de-de/discover)
+* [Routenplaner](https://www.komoot.de/de-de/plan)
+* [Features](https://www.komoot.de/de-de/features)
+* [Shop](https://www.komoot.de/de-de/shop)
+
+Deutsch
+
 Datenschutzerklärung
 ====================
 
