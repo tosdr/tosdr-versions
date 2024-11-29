@@ -191,11 +191,11 @@ Popular tutorials
 
 [Featured
 
-How to create vector graphics](https://en.freedownloadmanager.org/tutorials/how-to-create-vector-graphics.html)
+How to clean registry](https://en.freedownloadmanager.org/tutorials/how-to-clean-registry.html)
 
 [Featured
 
-How to clean registry](https://en.freedownloadmanager.org/tutorials/how-to-clean-registry.html)
+How to create vector graphics](https://en.freedownloadmanager.org/tutorials/how-to-create-vector-graphics.html)
 
 [Featured
 
