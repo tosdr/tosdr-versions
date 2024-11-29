@@ -414,13 +414,13 @@ Top
     
     [How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)](https://blog.karlrock.com/how-to-travel-to-kartarpur-sahib-via-kartarpur-corridor/ "How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)")
     
+* [![How to Buy Gold in Dubai & Check It's REAL!](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2023/04/Dubai-Gold-Souk-Entrance.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-to-buy-gold-in-dubai-and-test-it/ "How to Buy Gold in Dubai & Check It's REAL!")
+    
+    [How to Buy Gold in Dubai & Check It's REAL!](https://blog.karlrock.com/how-to-buy-gold-in-dubai-and-test-it/ "How to Buy Gold in Dubai & Check It's REAL!")
+    
 * [![The Real Locations of Shantaram](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2022/10/Shantaram-TV-show-is-filmed-in-thailand-not-india.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/the-real-locations-of-shantaram/ "The Real Locations of Shantaram")
     
     [The Real Locations of Shantaram](https://blog.karlrock.com/the-real-locations-of-shantaram/ "The Real Locations of Shantaram")
-    
-* [![A Glimpse into What Rural Village Life in India is Like](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2017/06/A_traditional_Home_Kaimalasseri_Malappuram_Kerala.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/a-glimpse-into-what-rural-village-life-in-india-is-like/ "A Glimpse into What Rural Village Life in India is Like")
-    
-    [A Glimpse into What Rural Village Life in India is Like](https://blog.karlrock.com/a-glimpse-into-what-rural-village-life-in-india-is-like/ "A Glimpse into What Rural Village Life in India is Like")
     
 
 © 2024 [Karl Rock's Blog](https://blog.karlrock.com/)
