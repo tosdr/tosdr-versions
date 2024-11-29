@@ -523,9 +523,9 @@ By [Greg Dvorak](https://www.japantimes.co.jp/author/6191/greg-dvorak/ "Greg Dvo
 SUSTAINABLE JAPAN
 -----------------
 
-[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
-[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -567,23 +567,23 @@ Latest News
 
 [Japan panel proposes law to monitor communications for cyber defense](https://www.japantimes.co.jp/news/2024/11/29/japan/politics/panel-cybersecurity-recommendations/ "Japan panel proposes law to monitor communications for cyber defense")
 
-3 hours ago
+9 hours ago
 
 [Starbucks serves South Koreans coffee and a glimpse into the North](https://www.japantimes.co.jp/news/2024/11/29/asia-pacific/south-korea-north-korea-view-starbucks/ "Starbucks serves South Koreans coffee and a glimpse into the North")
 
-4 hours ago
+10 hours ago
 
 [Shiseido profit outlook squeezed by China downturn, president says](https://www.japantimes.co.jp/business/2024/11/29/companies/shiseido-profit-china/ "Shiseido profit outlook squeezed by China downturn, president says")
 
-4 hours ago
+10 hours ago
 
 [Stimulus staved off years of deflation, BOJ study says](https://www.japantimes.co.jp/business/2024/11/29/economy/japan-deflation-stimulus/ "Stimulus staved off years of deflation, BOJ study says")
 
-5 hours ago
+11 hours ago
 
 [Japan earmarks extra ¥1.5 trillion for chips and AI this year](https://www.japantimes.co.jp/business/2024/11/29/tech/japan-budget-chips-tech/ "Japan earmarks extra ¥1.5 trillion for chips and AI this year")
 
-5 hours ago
+11 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
