@@ -30,13 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/bd1debf8-bcde-413d-b984-1b1601a33906/20241129T040428/bd1debf8-bcde-413d-b984-1b1601a33906_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/bd1debf8-bcde-413d-b984-1b1601a33906/20241129T040428/bd1debf8-bcde-413d-b984-1b1601a33906_360x203.jpg)](https://www.wqad.com/article/news/local/mr-thanksgiving-holds-first-dinner-in-new-home/526-1f050a8f-1306-490a-b68b-1e9898b11f40)
         
-        #### [Boil orders in the Quad Cities region](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
+        #### [Mr. Thanksgiving holds first dinner in new home](https://www.wqad.com/article/news/local/mr-thanksgiving-holds-first-dinner-in-new-home/526-1f050a8f-1306-490a-b68b-1e9898b11f40) [![](https://media.tegna-media.com/assets/WQAD/images/bd1debf8-bcde-413d-b984-1b1601a33906/20241129T040428/bd1debf8-bcde-413d-b984-1b1601a33906_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/bd1debf8-bcde-413d-b984-1b1601a33906/20241129T040428/bd1debf8-bcde-413d-b984-1b1601a33906_360x203.jpg)](https://www.wqad.com/article/news/local/mr-thanksgiving-holds-first-dinner-in-new-home/526-1f050a8f-1306-490a-b68b-1e9898b11f40)
         
-    *  [![](https://media.tegna-media.com/assets/WTOL/images/e6a46ce0-5c9c-4bfe-b123-4c9c9eb705c6/20241127T155720/e6a46ce0-5c9c-4bfe-b123-4c9c9eb705c6_16x9.jpg) ![](https://media.tegna-media.com/assets/WTOL/images/e6a46ce0-5c9c-4bfe-b123-4c9c9eb705c6/20241127T155720/e6a46ce0-5c9c-4bfe-b123-4c9c9eb705c6_360x203.jpg)](https://www.wqad.com/article/news/local/illinois-hunters-54000-deer-opening-weekend-firearm-hunting-season/526-9955a1ad-b125-4d0a-9b17-5871be77d2f8)
+        #### [Mr. Thanksgiving holds first dinner at Mercado on Fifth](https://www.wqad.com/article/news/local/mr-thanksgiving-holds-first-dinner-in-new-home/526-1f050a8f-1306-490a-b68b-1e9898b11f40)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/e216d630-af95-4c27-bcc4-43d2d00c5142/20241128T230126/e216d630-af95-4c27-bcc4-43d2d00c5142_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e216d630-af95-4c27-bcc4-43d2d00c5142/20241128T230126/e216d630-af95-4c27-bcc4-43d2d00c5142_360x203.jpg)](https://www.wqad.com/article/news/local/livwell-cares-thanksgiving-meal-delivery-to-seniors/526-e94566a1-195a-48aa-9852-371ff0e8de28)
         
-        #### [Illinois hunters bagged more than 54,000 deer during the opening weekend of firearm deer season](https://www.wqad.com/article/news/local/illinois-hunters-54000-deer-opening-weekend-firearm-hunting-season/526-9955a1ad-b125-4d0a-9b17-5871be77d2f8)
+        #### [Nonprofit hand delivers Thanksgiving meals to Scott County seniors](https://www.wqad.com/article/news/local/livwell-cares-thanksgiving-meal-delivery-to-seniors/526-e94566a1-195a-48aa-9852-371ff0e8de28)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,9 +57,9 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/8b3cfe34-598e-4972-ba40-5a78463b2dbf/20241128T132453/8b3cfe34-598e-4972-ba40-5a78463b2dbf_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/8b3cfe34-598e-4972-ba40-5a78463b2dbf/20241128T132453/8b3cfe34-598e-4972-ba40-5a78463b2dbf_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/767a2f27-23b8-42b5-ac9a-71e3c4ea7af9/20241128T235331/767a2f27-23b8-42b5-ac9a-71e3c4ea7af9_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/767a2f27-23b8-42b5-ac9a-71e3c4ea7af9/20241128T235331/767a2f27-23b8-42b5-ac9a-71e3c4ea7af9_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Windy and much colder Thanksgiving and beyond](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Chilly Temperatures and Windy Days Ahead](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/WCNC/images/a11cb4f4-9f11-4770-b48b-af0d48f1ce2c/a11cb4f4-9f11-4770-b48b-af0d48f1ce2c_16x9.jpeg) ![](https://media.tegna-media.com/assets/WCNC/images/a11cb4f4-9f11-4770-b48b-af0d48f1ce2c/a11cb4f4-9f11-4770-b48b-af0d48f1ce2c_360x203.jpeg)](https://www.wqad.com/article/weather/historical-level-cold-iowa-state-cyclones-hawkeyes-football-weather/524-0bf8d5bd-3157-4c2b-837b-698d6104639b)
         
@@ -86,9 +87,9 @@ Navigation
 
 Davenport, IA »
 
-30°
+25°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
