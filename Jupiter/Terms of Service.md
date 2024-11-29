@@ -62,7 +62,7 @@ Jupiter Terms and Conditions
 
 These Terms and Conditions govern the access and use of the Jupiter app and the services provided by Jupiter. Please read these Terms and Conditions carefully before accepting. By accepting the Terms and Conditions you agree that you have read, understood, acknowledged and accepted these Terms and Conditions, Tariff of Schedule to access and use the Jupiter app and Jupiter product and Services.
 
-Last updated on 28 November, 2024
+Last updated on 29 November, 2024
 
 For ease of use, these terms and conditions have been divided into the following sections:
 
@@ -1370,42 +1370,50 @@ These “terms” and "Conditions of Use" (“Terms”) constitute an electronic
 48. You declare that you are not an unregistered dealer of Gold and silver or any other precious metal ornament or any related product.
 49. If found of any misrepresentation then you will be solely responsible for all applicable taxes, interest and penalty due to the government at any given point of time.
 
-Networth
---------
+**NetWorth**
+------------
 
-These Terms and Conditions govern the access and use of the ‘Networth’ Service provided on the Jupiter App (“**Networth Terms**”). Please read these NetWorth Terms carefully before accepting. By using this NetWorth Service, you agree that you have read, understood, acknowledged and accepted these NetWorth Terms. You also acknowledge that you have read, understood, acknowledged and accepted the Jupiter Terms and Conditions and Jupiter Privacy Policy available on Jupiter Platform. (“**Jupiter Terms**”). Networth Terms shall be read in conjunction to the FAQs related to the Networth Service.
+These Terms and Conditions govern the access and use of the personal finance management  Service provided on the Jupiter App (“PFM Terms”). Please read these PFM Terms carefully before accepting. By using this  PFM Service (defined below), you agree that you have read, understood, acknowledged and accepted these PFM Terms. You also acknowledge that you have read, understood, acknowledged and accepted the Jupiter Terms and Conditions and Jupiter Privacy Policy available on Jupiter Platform. (“Jupiter Terms”). PFM Terms shall be read in conjunction to the FAQs related to the PFM Service.
 
 1. ******Definitions******
 
-For the purpose of these NetWorth Terms, wherever the context so requires, the term:
+For the purpose of these PFM Terms, wherever the context so requires, the term:
 
-1. “**Services**” means (a) the Networth feature available on the Jupiter mobile application (**“Jupiter App”**) where you can view consolidated display of all your account balance(s) across different bank accounts on a single platform i.e. the Jupiter App; and  
+1. “PFM Services” means (a) the personal finance management feature available on the Jupiter mobile application (“Jupiter App”) where you can view consolidated display of all your account balance(s) and credit card balance(s) across different bank accounts and credit cards on a single platform i.e. the Jupiter App; and  
     
 2. Any other capitalized terms used but not defined herein shall have the same meaning ascribed to them in the Jupiter Terms.
 
 **2\. ****Undertaking******
 
-By agreeing to these Networth Terms, you agree that you have read and understood, and agree to at all times, be bound by these Networth Terms. These Networth Terms are in addition to the Jupiter Terms and Privacy Policy you have agreed at the time of availing any services as defined under the Jupiter Platform. To the extent the agreed Jupiter Terms and Privacy Policy are inconsistent with these Networth Terms, the Networth Terms shall prevail with respect to the Networth Service only.  
+By agreeing to these PFM Terms, you agree that you have read and understood, and agree to at all times, be bound by these PFM Terms. These PFM Terms are in addition to the Jupiter Terms and Privacy Policy you have agreed at the time of availing any services as defined under the Jupiter Platform. To the extent the agreed Jupiter Terms and Privacy Policy are inconsistent with these PFM Terms, the PFM Terms shall prevail with respect to the PFM Service only.  
   
-3\. ******NetWorth******
+  
+3\. **Terms and Conditions for PFM (Personal Finance Management) Services:**
 
-1. For enabling the Services, we shall partner with financial institutions, RBI licensed account aggregator(s), SEBI licensed investment advisors, third party banks or other entities (“Partner Entities”). By availing this Service, you understand and undertake that you shall abide by the terms and conditions of such Partner Entity and shall provide all information as requested by the Partner Entity in order to provide you the Service.
-2. You understand and expressly consent Jupiter to read all your SMS data excluding the SMS correspondence from personal number to fetch data fields including but not limited to account balance, masked account number, bank name, etc, to provide you the Service.
-3. You understand and accept that Jupiter shall provide the Service on best effort basis and actual bank account balance(s) could differ from the one consolidated in the Service.
-4. To increase the accuracy of the Service, you shall have an option to register with our Partner Entities by way of one time password authentication on the mobile number used to avail this Service.
-5. After successful authentication, a list of the bank accounts that are linked with your mobile number shall be displayed and you shall have the option to choose which bank accounts can Jupiter and the Partner Entities access to provide you this Networth Service.
-6. A onetime password authentication shall be undertaken for account(s) maintained in each bank account you wish to link to the NetWorth Service.
-7. Please note that your express consent will be taken before collecting each of the below mentioned information:
-    1. List of the bank accounts you wish to link to the NetWorth Service.
-    2. Details of the bank accounts that you wish to share with Jupiter, including but not limited to the account balance and the bank statements.
+1. For enabling the PFM Services, we shall partner with financial institutions, RBI licensed account aggregator(s), SEBI licensed investment advisors, third party banks or other entities (“Partner Entities”). By availing this PFM Service, you understand and undertake that you shall abide by the terms and conditions of such Partner Entity and shall provide all information as requested by the Partner Entity in order to provide you the PFM Service.
+2. You understand and expressly consent Jupiter to read all your SMS data excluding personal correspondence, to fetch data fields such as account balance, credit card balance, masked account number, card numbers, bank name, etc, to provide you the PFM Service.
+3. You understand and expressly consent to Jupiter to read all your Email data excluding personal correspondence, to retrieve external credit card information, including but not limited to account balance, card balance, masked account number, & card number, bank name, etc, to provide you the PFM Service.
+4. You understand and accept that Jupiter shall provide the PFM Service on best effort basis and actual bank account balance(s) and credit card details may differ from the one consolidated in the PFM Service.
+5. To increase the accuracy of the PFM Service, you shall have an option to register with our Partner Entities by way of one time password authentication on the mobile number used to avail this PFM Service.
+6. After successful authentication, a list of the bank accounts and/or credit cards that are linked with your mobile number and/or email ID shall be displayed and you shall have the option to choose which bank accounts or credit cards Jupiter and the Partner Entities may access to provide you this PFM Service.
+7. A one-time password authentication or email authentication shall be undertaken for each bank account(s) or credit card you wish to link to the PFM Service.
+8. Please note that your express consent will be taken before collecting each of the below mentioned information:
+    1. List of the bank accounts and/or credit cards you wish to link to the PFM Service.
+    2. Details of the bank accounts and/or credit cards that you wish to share with Jupiter, including but not limited to the account balance and the bank statements.
     3. The duration for which such consent shall be valid.
     4. The frequency at which such information shall be requested from the banks where your bank accounts are maintained.
-8. After providing all the above mentioned information and accepting these terms, Jupiter enables you to get a holistic view of your expenses and income as per the information available from the bank statements fetched from your linked bank accounts on the best effort basis.
-9. You understand that the information displayed shall be updated by Jupiter (balance displayed shall be time stamped) at the time decided in its sole discretion , and any transactions undertaken from the bank accounts after such time shall only be reflected on the next information update. You also understand that Jupiter and Partner Entity only displays the information as received from the banks, and are not liable for any inaccuracy or incompleteness of the information so received.
-10. You understand and acknowledge that upon enabling clause (i) mentioned above, the consolidated bank amount that shall be displayed on the home screen of Jupiter App shall be the latest of the bank amount fetched through the Partner Entities and the transactional SMS.
-11. You understand that the Service provided by Jupiter shall be in accordance with its own internal processes and policies and Jupiter shall have the right at its sole discretion to deny the provision of such Service to you.
+9. Upon providing the aforementioned information and accepting these terms, Jupiter enables you to gain a holistic view of your expenses and income as derived from the bank statements fetched from your linked bank accounts and/or credit cards, on the best effort basis.
+10. You understand that the information displayed shall be updated by Jupiter (balance displayed shall be time stamped) at the time decided in its sole discretion , and any transactions undertaken from the bank accounts after such time shall only be reflected on the next information update. You also understand that Jupiter and Partner Entity only displays the information as received from the banks, and are not liable for any inaccuracy or incompleteness of the information so received.
+11. You understand and acknowledge that upon enabling clause (i) mentioned above, the consolidated bank amount that shall be displayed on the home screen of Jupiter App shall be the latest of the bank amount fetched through the Partner Entities and the transactional SMS and Email data.
+12. You understand that the PFM Service provided by Jupiter shall be in accordance with its own internal processes and policies and Jupiter shall have the right at its sole discretion to deny the provision of such PFM Service to you.
 
-4\.  Jupiter may, to the maximum extent permitted by law and in its sole discretion, change, modify any of the Networth Terms without intimating the user and neither Jupiter, the Partner Entities or its agents, affiliates, employees, directors or representatives, shall be liable for any (a) lost profits, loss of goodwill or opportunity, or special, indirect, incidental, punitive, or consequential damages of any kind whatsoever; (b) matter beyond its or their reasonable control, even if Jupiter or the Partner Entities has been advised of the possibility of any of the aforementioned damages.  
+4\.  Jupiter may, to the maximum extent permitted by law and in its sole discretion, change, modify any of the Networth Terms without intimating the user and neither Jupiter, the Partner Entities or its agents, affiliates, employees, directors or representatives, shall be liable for any (a) lost profits, loss of goodwill or opportunity, or special, indirect, incidental, punitive, or consequential damages of any kind whatsoever; (b) matter beyond its or their reasonable control, even if Jupiter or the Partner Entities has been advised of the possibility of any of the aforementioned damages.
+
+5\. Neither Jupiter, the Partner Entities or its agents, affiliates, employees, directors or representatives, shall be liable for any (a) lost profits, loss of goodwill or opportunity, or special, indirect, incidental, punitive, or consequential damages of any kind whatsoever; (b) matter beyond its or their reasonable control, even if Jupiter or the Partner Entities has been advised of the possibility of any of the aforementioned damages.
+
+6\. By enabling this PFM Service, you authorize Jupiter to access SMS and email data solely for the purpose of tracking and displaying your account balance(s) and credit card balance(s) across different bank accounts and credit cards within the PFM Service. Jupiter will apply industry-standard security measures to protect your data. All data accessed will be handled in compliance with applicable privacy laws and will not be stored or used for any purposes other than those explicitly permitted in these Terms. For further details, please refer to the Jupiter Privacy Policy
+
+  
 
 More from Jupiter
 
