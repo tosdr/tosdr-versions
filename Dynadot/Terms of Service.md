@@ -2,7 +2,7 @@
 
 ![](https://www.facebook.com/tr?id=1013298092648180&ev=PageView&noscript=1)
 
-[The Black Friday deals are rolling in, click to view what’s on sale right now 🛒](https://www.dynadot.com/black-friday-sale?utm_source=Promobar&utm_campaign=BFCM%20Preview%20Promobar%20Nov%202024&utm_medium=BFCM%20Sales&drefid=4646)
+[The Black Friday deals are rolling in, click to view what’s on sale right now 🛒](https://www.dynadot.com/black-friday-sale?utm_source=Promobar&utm_campaign=BFCM%20Preview%20Promobar%20Nov%202024&utm_medium=BFCM%20Sales&drefid=4646)[Join the innovators and register your .XYZ domain for only $1.99 during Black Friday! 🚀](https://www.dynadot.com/domain/xyz?utm_source=Promobar&utm_campaign=XYZ%20Promobar%20Nov%202024&utm_medium=xyz&drefid=4629)
 
 [](https://www.dynadot.com/)
 
