@@ -111,6 +111,10 @@ Most recent
 
 [29-11-2024
 
+Schneider drops ‘no risk’ exemption on deforestation rules, seeks EPP ministers’ support](https://www.euractiv.com/section/agriculture-food/news/schneider-drops-no-risk-exemption-on-deforestation-rules-seeks-epp-ministers-support/)[29-11-2024
+
+A tale of two bonds](https://www.euractiv.com/section/economy-jobs/news/a-tale-of-two-bonds/)[29-11-2024
+
 Armenia feels the impact of Georgian election fallout](https://www.euractiv.com/section/global-europe/news/armenia-feels-the-impact-of-georgian-election-fallout/)[29-11-2024
 
 Georgia’s election crisis could be a herald for democratic decline, EU membership](https://www.euractiv.com/section/global-europe/news/georgias-election-crisis-could-be-a-herald-for-democratic-decline-eu-membership/)[29-11-2024
@@ -125,11 +129,7 @@ Russia hits Ukrainian energy facilities, Kyiv sees ‘despicable escalation’](
 
 Costa takes helm as European Council president, eyes internal reforms](https://www.euractiv.com/section/politics/news/costa-takes-helm-as-european-council-president-eyes-internal-reforms/)[29-11-2024
 
-Iran holds nuclear talks with Europeans as tensions ratchet up](https://www.euractiv.com/section/global-europe/news/iran-holds-nuclear-talks-with-europeans-as-tensions-ratchet-up/)[29-11-2024
-
-Vikings at the gate? Iceland’s EU debate ahead of key elections](https://www.euractiv.com/section/politics/news/the-capitals-vikings-at-the-gate-icelands-eu-debate-ahead-of-key-elections-2/)[29-11-2024
-
-EU court rules against Bulgarian biometric data collection](https://www.euractiv.com/section/politics/news/eu-court-rules-against-bulgarian-biometric-data-collection/)
+Iran holds nuclear talks with Europeans as tensions ratchet up](https://www.euractiv.com/section/global-europe/news/iran-holds-nuclear-talks-with-europeans-as-tensions-ratchet-up/)
 
 ###### Advertisement
 
