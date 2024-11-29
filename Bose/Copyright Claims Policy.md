@@ -2,9 +2,9 @@
 
 BLACK FRIDAY DEALS: Save up to 40% on bestsellers. [Shop](https://www.bose.com/c/black-friday-deals)
 
-LIMITED-TIME OFFER: Get our lowest holiday price on select QuietComfort Ultra Headphones. [Buy now](https://www.bose.com/QCUH-HEADPHONEARN.html?dwvar_QCUH-HEADPHONEARN_color=DIAMOND+60TH+EDITION)
+LIMITED-TIME OFFER: Get our lowest holiday price on select QuietComfort Ultra Headphones. [Buy now](https://www.bose.com/QCUH-HEADPHONEARN.html?dwvar_QCUH-HEADPHONEARN_color=SANDSTONE&quantity=1)
 
-GIFT WITH PURCHASE: Save $50 off Ultra Open Earbuds and get a free Black Silicone Case Cover. [Buy now](https://www.bose.com/ULT-HEADPHONEOPN.html?dwvar_ULT-HEADPHONEOPN_color=SUNSET+IRIDESCENT&quantity=1)
+LIMITED-TIME OFFER: Get QuietComfort Earbuds for just $129! [Buy now](https://www.bose.com/QCEARB24-HEADPHONEIN.html?dwvar_QCEARB24-HEADPHONEIN_color=WHITE%20SMOKE&quantity=1)
 
 Stress-free shopping | 90-day return policy | Holiday Price Match Promise [Learn how](https://www.bose.com/buy-direct-from-bose)
 
@@ -107,22 +107,20 @@ Back
     * [Gift Sets](https://www.bose.com/c/sets)
     * [Gift Cards](https://www.bose.com/gift-cards)
     
-    [![](https://assets.bosecreative.com/m/7c3cc51a789d0936/webimage-UOEB24-White_SiliconeCase-Black_SF_NavFlyout_T6_Mobile_V2.png)
+    [![](https://assets.bosecreative.com/m/30b4365343cced7f/webimage-QCUHLE25-Diamond_SF_NavFlyout_T6_Mobile.png)
     
-    TODAY ONLY
+    QuietComfort Ultra Headphones
     
-    ### Gift with purchase](https://www.bose.com/ULT-HEADPHONEOPN.html?dwvar_ULT-HEADPHONEOPN_color=WHITE+SMOKE&quantity=1 "BUY NOW")
+    ### LIMITED-TIME OFFER](https://www.bose.com/QCUH-HEADPHONEARN.html?dwvar_QCUH-HEADPHONEARN_color=DIAMOND+60TH+EDITION&quantity=1 "BUY NOW")
     
      
     
-    TODAY ONLY
+    This week only
+    --------------
     
-    Gift with purchase
-    ------------------
+    Snag our lowest price of the season on select colors of QuietComfort Ultra Headphones.
     
-    Save $50 off Ultra Open Earbuds and get a Black Silicone Case Cover!
-    
-    [BUY NOW](https://www.bose.com/ULT-HEADPHONEOPN.html?dwvar_ULT-HEADPHONEOPN_color=WHITE+SMOKE&quantity=1 "BUY NOW")
+    [BUY NOW](https://www.bose.com/QCUH-HEADPHONEARN.html?dwvar_QCUH-HEADPHONEARN_color=DIAMOND+60TH+EDITION&quantity=1 "BUY NOW")
     
 
 * [Explore](#)
