@@ -1,6 +1,6 @@
 ![](https://www.facebook.com/tr?id=508527011383773&ev=PageView&noscript=1) 
 
-[![](https://cdn.prod.website-files.com/63332d946a763982404d69fc/6333763d38cc61f4a2280d11_jobtip-logo-header.svg)](https://www.jobtip.com/)
+[![](https://cdn.prod.website-files.com/63332d946a763982404d69fc/6749c9d2902567017be81fb9_1.png)](https://www.jobtip.com/)
 
 [Solution](https://jobtip.com/recruitment-marketing)
 
@@ -198,7 +198,7 @@ Postal address: JOBTIP GROUP OTTERHÄLLEGATAN 1 3TR, 411 18 Gothenburg
 Email: support@jobtip.se  
 Phone: 0313884758
 
-[![](https://cdn.prod.website-files.com/63332d946a763982404d69fc/6333763d38cc61f4a2280d11_jobtip-logo-header.svg)](#)
+[![](https://cdn.prod.website-files.com/63332d946a763982404d69fc/6749c9d2902567017be81fb9_1.png)](#)
 
 Copyright ©2024 Jobtip
 
