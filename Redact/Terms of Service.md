@@ -1,8 +1,10 @@
 ![mobile preview](/images/svgs/exit_banner.svg)[![mobile preview](/images/svgs/clock.svg)
 
-Expires in \-968:-25:-01
+Expires in 68:42:46
 
-Redact for Discord is free for users in Russia and Turkey Click for more info](https://carnelian-society-f72.notion.site/How-to-access-Redact-Premium-in-Russia-T-rkiye-for-deleting-discord-free-11a0acb4639c80aa91fbc7ce251822ed)
+25% OFF
+
+Black Friday Sale. Get the deal](https://redact.dev/blackfriday)
 
 [](https://redact.dev/)
 
@@ -11,7 +13,7 @@ Services 
 [Discord](https://redact.dev/services/discord)[Twitter](https://redact.dev/services/twitter)[Facebook](https://redact.dev/services/facebook)[Reddit](https://redact.dev/services/reddit)[All (30+ more)](https://redact.dev/services)
 
 * [Features](https://redact.dev/features)
-* [Pricing](https://redact.dev/pricing)
+* [Pricing](https://redact.dev/pricing-new)
 * [Business](https://redact.dev/business)
 * [Testimonials](https://redact.dev/testimonials)
 * [Contact](https://redact.dev/contact)
@@ -147,7 +149,7 @@ Join our Discord server and we will directly answer your questions in real time!
 
 [Join Redact Discord](https://redact.dev/discord)
 
-[Home](https://redact.dev/)[Download](https://redact.dev/download)[Services](https://redact.dev/services)[Features](https://redact.dev/features)[Pricing](https://redact.dev/pricing)[Business](https://redact.dev/business)[Testimonials](https://redact.dev/testimonials)[Contact](https://redact.dev/contact)[How it works](https://redact.dev/how-it-works)[Affiliates](https://redact.dev/affiliates)[Press Kit](https://redact.dev/press-kit)[Terms & Conditions](https://redact.dev/terms)[Privacy](https://redact.dev/privacy)
+[Home](https://redact.dev/)[Download](https://redact.dev/download)[Services](https://redact.dev/services)[Features](https://redact.dev/features)[Pricing](https://redact.dev/pricing-new)[Business](https://redact.dev/business)[Testimonials](https://redact.dev/testimonials)[Contact](https://redact.dev/contact)[How it works](https://redact.dev/how-it-works)[Affiliates](https://redact.dev/affiliates)[Press Kit](https://redact.dev/press-kit)[Terms & Conditions](https://redact.dev/terms)[Privacy](https://redact.dev/privacy)
 
 Company
 
