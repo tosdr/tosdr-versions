@@ -152,13 +152,11 @@ Ok](https://www.emp-online.com/home?forceThisShop=1)
 
 Katalog durchsuchen  löschen Packstation suchen
 
-[](https://www.emp.de/sale/?pmid=SAM-896_black_deals_10per_EUR&hidebanner=true "-10% EXTRA")
+[](https://www.emp.de/search?cgid=root&cmid=BLACK_WEEK "Gratis Versand ab 0€")
 
-BLACK DEALS
+Ständig wechselnde Angebote!
 
-Bis zu -70%\*
-
-[\-10% EXTRA](https://www.emp.de/sale/?pmid=SAM-896_black_deals_10per_EUR&hidebanner=true "-10% EXTRA") Code **BLACK10** kopieren
+[Gratis Versand ab 0€](https://www.emp.de/search?cgid=root&cmid=BLACK_WEEK "Gratis Versand ab 0€")
 
 Die Javascript-Funktion Ihres Browsers ist deaktiviert.
 
@@ -493,7 +491,7 @@ Anmelden
 
 Unser Kundenservice ist für dich da
 
-Ja, unser Kundenservice ist heute wieder erreichbar von 08:00 Uhr bis 18:00 Uhr. [Mehr Infos](https://www.emp.de/kontakt)
+Kundenservice ist am nächsten Tag wieder erreichbar von 08:00 Uhr bis 18:00 Uhr. [Mehr Infos](https://www.emp.de/kontakt)
 
 Live-Chat starten
 
