@@ -117,6 +117,10 @@ Main menu
     
     #### [Latest](https://parliament.vic.gov.au/link/c5bd7124b44e42c2929fdf47bfd51f6e.aspx)
     
+    * [Helping rural youth to thrive](https://parliament.vic.gov.au/link/a41bcf29ba864148a60d7c548fd695e1.aspx)
+        
+        29 November 2024
+        
     * [A fairer share for cash-strapped councils](https://parliament.vic.gov.au/link/a956c472bf1943e7a01efecac566fe2c.aspx)
         
         28 November 2024
@@ -124,10 +128,6 @@ Main menu
     * [Better access to boost inclusion](https://parliament.vic.gov.au/link/7dbc04650f7147ea8d37c2a907abeb7a.aspx)
         
         27 November 2024
-        
-    * [Inquiry report is food for thought](https://parliament.vic.gov.au/link/1aefb2eacb064fc697ebf05564386a4c.aspx)
-        
-        26 November 2024
         
     
 * [Visit](https://parliament.vic.gov.au/visit/)Expand Visit
