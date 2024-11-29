@@ -273,7 +273,7 @@ At 9GAG, your privacy is important to us. We want you to have control over the i
     
 * **Removing Permissions.** If you agree to let us use your information, you can change your mind at any time by changing the settings on your device. If you remove permission, certain services may be impacted and may lose functionality.
     
-* **Deletion.** We hope you remain a 9GAG user for life, but if you want to delete your account, please [contact us](#form-contact-privacy). 
+* **Deletion.** We hope you remain a 9GAG user for life, but if you want to [delete](https://about.9gag.com/privacy-contact#content-deletemydata-contactusprivacy) your account, please [contact us](#form-contact-privacy). 
     
 
 Our Policy on Children’s Information
