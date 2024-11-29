@@ -301,15 +301,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to back up data files from ThinkOn using ...](https://www.backup4all.com/how-to-back-up-data-files-from-thinkon-using-backup4all-kb.html)  
+* [How to backup your data to Aruba Cloud](https://www.backup4all.com/how-to-backup-your-data-to-aruba-cloud-kb.html)  
+    
+* [How to backup your data to ThinkOn](https://www.backup4all.com/how-to-backup-your-data-to-thinkon-kb.html)  
+    
+* [How to back up data files from NiftyClouds us ...](https://www.backup4all.com/how-to-back-up-data-files-from-niftyclouds-using-backup4all-kb.html)  
     
 * [How to back up data files from HGST using Bac ...](https://www.backup4all.com/how-to-back-up-data-files-from-hgst-using-backup4all-kb.html)  
     
-* [How to move a backup from a failing hard driv ...](https://www.backup4all.com/how-to-move-a-backup-from-a-failing-hard-drive-to-a-new-one-kb.html)  
-    
-* [Backup strategy: run first backup locally the ...](https://www.backup4all.com/how-to-run-the-first-large-backup-locally-then-continue-the-kb.html)  
-    
-* [How to encrypt the files in Backup4all](https://www.backup4all.com/how-to-encrypt-the-files-in-backup4all-kb.html)  
+* [What are Backup operators?](https://www.backup4all.com/what-are-backup-operators-kb.html)  
     
 
 Choose language:
