@@ -103,7 +103,7 @@ _We welcome your feedback._
 * [API](https://letterboxd.com/api-beta/)
 * [Contact](https://letterboxd.com/contact/)
 
-[X](https://twitter.com/letterboxd "Letterboxd on X")
+[X](https://x.com/letterboxd "Letterboxd on X")
 
 [Threads](https://www.threads.net/@letterboxd "Letterboxd on Threads")
 
