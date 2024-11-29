@@ -20,6 +20,14 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Get into the spirit with these local carol concerts.](https://southwarknews.co.uk/wp-content/uploads/2024/11/046A1512-Enhanced-NR-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/christmas-concerts-in-borough-south-bank-and-peckham/)
+    
+    ### [Christmas concerts in Borough, South Bank and Peckham](https://southwarknews.co.uk/area/peckham/christmas-concerts-in-borough-south-bank-and-peckham/)
+    
+    [![Left to right: Neil Coyle, Florence Eshalomi, Helen Hayes, Miatta Fahnbulleh, Ellie Reeves](https://southwarknews.co.uk/wp-content/uploads/2024/11/Left-to-right-Neil-Coyle-Florence-Eshalomi-Helen-Hayes-Miatta-Fahnbulleh-Ellie-Reeves-360x180.png)](https://southwarknews.co.uk/area/southwark/how-did-southwarks-five-mps-vote-on-the-assisted-dying-bill/)
+    
+    ### [How did Southwark’s five MPs vote on the assisted dying bill?](https://southwarknews.co.uk/area/southwark/how-did-southwarks-five-mps-vote-on-the-assisted-dying-bill/)
+    
     [![Anthony Marks reportedly died after being attacked near King's Cross St Pancras station. Image: Met Police](https://southwarknews.co.uk/wp-content/uploads/2024/11/f250fc10-ae38-11ef-93a6-9fd2d3586a96.jpg-360x180.webp)](https://southwarknews.co.uk/featured/brixton-girl-16-charged-with-murder-of-homeless-man/)
     
     ### [Brixton girl, 16, charged with murder of ‘homeless man’](https://southwarknews.co.uk/featured/brixton-girl-16-charged-with-murder-of-homeless-man/)
@@ -48,14 +56,6 @@
     [![L: Sam, Jesse's godmother and Chaise, Jesse's sister. R: Jesse Lloyd-Smith, 20 (2004-2024)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-28-11-2024-at-13.04-360x180.jpg)](https://southwarknews.co.uk/area/peckham/we-believe-people-are-sitting-on-the-truth-family-pleads-for-answers-after-jesse-lloyd-smith-was-shot-in-peckham/)
     
     ### [‘We believe people are sitting on the truth’: Family pleads for answers after Jesse Lloyd-Smith was shot in Peckham](https://southwarknews.co.uk/area/peckham/we-believe-people-are-sitting-on-the-truth-family-pleads-for-answers-after-jesse-lloyd-smith-was-shot-in-peckham/)
-    
-    [![Chatelain House on Walworth Road, South London was built in the 1980s. Image from Southwark Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/Chatelain-House-360x180.jpg)](https://southwarknews.co.uk/area/walworth/fresh-plans-to-redevelop-an-eyesore-office-block-on-the-walworth-road/)
-    
-    ### [Fresh plans to redevelop an ‘eyesore’ office block on the Walworth Road](https://southwarknews.co.uk/area/walworth/fresh-plans-to-redevelop-an-eyesore-office-block-on-the-walworth-road/)
-    
-    [![Neil Coyle, MP for Bermondsey and Old Southwark (left) and Miatta Fahnbulleh, MP for Peckham (right)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Neil-Coyle-MP-for-Bermondsey-and-Old-Southwark-left-and-Miatta-Fahnbulleh-MP-for-Peckham-right-360x180.png)](https://southwarknews.co.uk/news/news-plus/two-southwark-mps-reveal-voting-intention-on-assisted-dying-bill/)
-    
-    ### [Two Southwark MPs reveal voting intention on assisted dying bill](https://southwarknews.co.uk/news/news-plus/two-southwark-mps-reveal-voting-intention-on-assisted-dying-bill/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -106,6 +106,14 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Get into the spirit with these local carol concerts.](https://southwarknews.co.uk/wp-content/uploads/2024/11/046A1512-Enhanced-NR-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/christmas-concerts-in-borough-south-bank-and-peckham/)
+    
+    ### [Christmas concerts in Borough, South Bank and Peckham](https://southwarknews.co.uk/area/peckham/christmas-concerts-in-borough-south-bank-and-peckham/)
+    
+    [![Left to right: Neil Coyle, Florence Eshalomi, Helen Hayes, Miatta Fahnbulleh, Ellie Reeves](https://southwarknews.co.uk/wp-content/uploads/2024/11/Left-to-right-Neil-Coyle-Florence-Eshalomi-Helen-Hayes-Miatta-Fahnbulleh-Ellie-Reeves-360x180.png)](https://southwarknews.co.uk/area/southwark/how-did-southwarks-five-mps-vote-on-the-assisted-dying-bill/)
+    
+    ### [How did Southwark’s five MPs vote on the assisted dying bill?](https://southwarknews.co.uk/area/southwark/how-did-southwarks-five-mps-vote-on-the-assisted-dying-bill/)
+    
     [![Anthony Marks reportedly died after being attacked near King's Cross St Pancras station. Image: Met Police](https://southwarknews.co.uk/wp-content/uploads/2024/11/f250fc10-ae38-11ef-93a6-9fd2d3586a96.jpg-360x180.webp)](https://southwarknews.co.uk/featured/brixton-girl-16-charged-with-murder-of-homeless-man/)
     
     ### [Brixton girl, 16, charged with murder of ‘homeless man’](https://southwarknews.co.uk/featured/brixton-girl-16-charged-with-murder-of-homeless-man/)
@@ -134,14 +142,6 @@ View All Result
     [![L: Sam, Jesse's godmother and Chaise, Jesse's sister. R: Jesse Lloyd-Smith, 20 (2004-2024)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-28-11-2024-at-13.04-360x180.jpg)](https://southwarknews.co.uk/area/peckham/we-believe-people-are-sitting-on-the-truth-family-pleads-for-answers-after-jesse-lloyd-smith-was-shot-in-peckham/)
     
     ### [‘We believe people are sitting on the truth’: Family pleads for answers after Jesse Lloyd-Smith was shot in Peckham](https://southwarknews.co.uk/area/peckham/we-believe-people-are-sitting-on-the-truth-family-pleads-for-answers-after-jesse-lloyd-smith-was-shot-in-peckham/)
-    
-    [![Chatelain House on Walworth Road, South London was built in the 1980s. Image from Southwark Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/Chatelain-House-360x180.jpg)](https://southwarknews.co.uk/area/walworth/fresh-plans-to-redevelop-an-eyesore-office-block-on-the-walworth-road/)
-    
-    ### [Fresh plans to redevelop an ‘eyesore’ office block on the Walworth Road](https://southwarknews.co.uk/area/walworth/fresh-plans-to-redevelop-an-eyesore-office-block-on-the-walworth-road/)
-    
-    [![Neil Coyle, MP for Bermondsey and Old Southwark (left) and Miatta Fahnbulleh, MP for Peckham (right)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Neil-Coyle-MP-for-Bermondsey-and-Old-Southwark-left-and-Miatta-Fahnbulleh-MP-for-Peckham-right-360x180.png)](https://southwarknews.co.uk/news/news-plus/two-southwark-mps-reveal-voting-intention-on-assisted-dying-bill/)
-    
-    ### [Two Southwark MPs reveal voting intention on assisted dying bill](https://southwarknews.co.uk/news/news-plus/two-southwark-mps-reveal-voting-intention-on-assisted-dying-bill/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -385,6 +385,18 @@ Website
 
 ### Featured Articles
 
+[![Get into the spirit with these local carol concerts.](https://southwarknews.co.uk/wp-content/uploads/2024/11/046A1512-Enhanced-NR-120x86.jpeg)](https://southwarknews.co.uk/area/peckham/christmas-concerts-in-borough-south-bank-and-peckham/)
+
+### [Christmas concerts in Borough, South Bank and Peckham](https://southwarknews.co.uk/area/peckham/christmas-concerts-in-borough-south-bank-and-peckham/)
+
+[29th November 2024](https://southwarknews.co.uk/area/peckham/christmas-concerts-in-borough-south-bank-and-peckham/)
+
+[![Left to right: Neil Coyle, Florence Eshalomi, Helen Hayes, Miatta Fahnbulleh, Ellie Reeves](https://southwarknews.co.uk/wp-content/uploads/2024/11/Left-to-right-Neil-Coyle-Florence-Eshalomi-Helen-Hayes-Miatta-Fahnbulleh-Ellie-Reeves-120x86.png)](https://southwarknews.co.uk/area/southwark/how-did-southwarks-five-mps-vote-on-the-assisted-dying-bill/)
+
+### [How did Southwark’s five MPs vote on the assisted dying bill?](https://southwarknews.co.uk/area/southwark/how-did-southwarks-five-mps-vote-on-the-assisted-dying-bill/)
+
+[29th November 2024](https://southwarknews.co.uk/area/southwark/how-did-southwarks-five-mps-vote-on-the-assisted-dying-bill/)
+
 [![Anthony Marks reportedly died after being attacked near King's Cross St Pancras station. Image: Met Police](https://southwarknews.co.uk/wp-content/uploads/2024/11/f250fc10-ae38-11ef-93a6-9fd2d3586a96.jpg-120x86.webp)](https://southwarknews.co.uk/featured/brixton-girl-16-charged-with-murder-of-homeless-man/)
 
 ### [Brixton girl, 16, charged with murder of ‘homeless man’](https://southwarknews.co.uk/featured/brixton-girl-16-charged-with-murder-of-homeless-man/)
@@ -408,18 +420,6 @@ Website
 ### [Fresh plans to redevelop an ‘eyesore’ office block on the Walworth Road](https://southwarknews.co.uk/area/walworth/fresh-plans-to-redevelop-an-eyesore-office-block-on-the-walworth-road/)
 
 [28th November 2024](https://southwarknews.co.uk/area/walworth/fresh-plans-to-redevelop-an-eyesore-office-block-on-the-walworth-road/)
-
-[![The Flaxyard site, Peckham Town Centre.](https://southwarknews.co.uk/wp-content/uploads/2024/11/SJH_3494-Pano-120x86.jpeg)](https://southwarknews.co.uk/area/peckham/council-celebrates-completion-of-120-affordable-homes-in-peckham-town-centre/)
-
-### [Council celebrates completion of 120 affordable homes in Peckham Town Centre](https://southwarknews.co.uk/area/peckham/council-celebrates-completion-of-120-affordable-homes-in-peckham-town-centre/)
-
-[28th November 2024](https://southwarknews.co.uk/area/peckham/council-celebrates-completion-of-120-affordable-homes-in-peckham-town-centre/)
-
-[![Monica Ferman passed away in 2012. (Family handout)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Monica-2-1-120x86.jpeg)](https://southwarknews.co.uk/area/dulwich/dulwich-woman-recounts-mums-horrendous-final-days-in-call-for-assisted-dying-law-saying-they-watched-her-starve-to-death/)
-
-### [Dulwich woman recounts mum’s ‘horrendous’ final days in call for assisted dying law, saying they ‘watched her starve to death’](https://southwarknews.co.uk/area/dulwich/dulwich-woman-recounts-mums-horrendous-final-days-in-call-for-assisted-dying-law-saying-they-watched-her-starve-to-death/)
-
-[27th November 2024](https://southwarknews.co.uk/area/dulwich/dulwich-woman-recounts-mums-horrendous-final-days-in-call-for-assisted-dying-law-saying-they-watched-her-starve-to-death/)
 
 ### USEFUL PAGES
 
