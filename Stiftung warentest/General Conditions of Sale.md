@@ -664,12 +664,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Befestigung Auto­kinder­sitze: Bundes­amt warnt vor Isofix-Adaptern](https://www.test.de/Befestigung-von-Autokindersitzen-Gefaehrliche-Isofix-Adapter-6159718-0/ "Befestigung Autokindersitze - Bundesamt warnt vor Isofix-Adaptern")
-* [Assistent für Digitalwährungs­handel: Achtung, Identitäts­klau!](https://www.test.de/Assistent-fuer-Digitalwaehrungshandel-Achtung-Identitaetsklau-6003423-0/ "Assistent für Digitalwährungshandel - Achtung, Identitätsklau!")
-* [Aktien-ETF Japan: Mit oder ohne Währungs­sicherung?](https://www.test.de/Aktien-ETF-Japan-Mit-oder-ohne-Waehrungssicherung-6132893-0/ "Aktien-ETF Japan - Mit oder ohne Währungssicherung?")
-* [Mobil­funk: Telekom schaltet 2G-Netz ab](https://www.test.de/Mobilfunk-Telekom-schaltet-2G-Netz-ab-6173729-0/ "Mobilfunk - Telekom schaltet 2G-Netz ab")
-* [Test Frisch­halteboxen: Glas schlägt Plastik](https://www.test.de/Test-Frischhalteboxen-Glas-schlaegt-Plastik-6052991-0/ "Test Frischhalteboxen - Glas schlägt Plastik")
-* [Verpackungs­ärger: Nivea Expert Filler Cellular Anti-Age Tages­pflege](https://www.test.de/Verpackungsaerger-Nivea-Expert-Filler-Cellular-Anti-Age-Tagespflege-6084938-0/ "Verpackungsärger - Nivea Expert Filler Cellular Anti-Age Tagespflege")
+* [Rohgold: Rohe Gold­klumpen als Geld­anlage?](https://www.test.de/Rohgold-Rohe-Goldklumpen-als-Geldanlage-6019655-0/ "Rohgold - Rohe Goldklumpen als Geldanlage?")
+* [Falscher Online-Broker: Vorsicht vor pridefx.org](https://www.test.de/Falscher-Online-Broker-Vorsicht-vor-pridefxorg-6088390-0/ "Falscher Online-Broker - Vorsicht vor pridefx.org")
+* [Online-Shopping: EU-Kommis­sion geht gegen Temu vor](https://www.test.de/Schnaeppchen-Plattform-Bei-Temu-ist-Vorsicht-angesagt-6098821-0/ "Online-Shopping - EU-Kommission geht gegen Temu vor")
+* [Stabile Fonds aus dem Finanztest-Fonds­rating: Empfehlungen für Filial­bank­kunden](https://www.test.de/Stabile-Fonds-aus-dem-Finanztest-Fondsrating-Empfehlungen-fuer-Filialbankkunden-6006555-0/ "Stabile Fonds aus dem Finanztest-Fondsrating - Empfehlungen für Filialbankkunden")
+* [Centerbridge Part­ners: Handel übers Fake-Depot](https://www.test.de/Warnliste-Handel-uebers-Fake-Depot-5991527-0/ "Centerbridge Partners - Handel übers Fake-Depot")
+* [Wanderja­cken im Test: Viele sind nicht ganz dicht](https://www.test.de/Wanderjacken-im-Test-Viele-sind-nicht-ganz-dicht-6160402-0/ "Wanderjacken im Test - Viele sind nicht ganz dicht")
 
 Weitere Informationen
 
@@ -3082,12 +3082,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Befestigung Auto­kinder­sitze: Bundes­amt warnt vor Isofix-Adaptern](https://www.test.de/Befestigung-von-Autokindersitzen-Gefaehrliche-Isofix-Adapter-6159718-0/ "Befestigung Autokindersitze - Bundesamt warnt vor Isofix-Adaptern")
-* [Assistent für Digitalwährungs­handel: Achtung, Identitäts­klau!](https://www.test.de/Assistent-fuer-Digitalwaehrungshandel-Achtung-Identitaetsklau-6003423-0/ "Assistent für Digitalwährungshandel - Achtung, Identitätsklau!")
-* [Aktien-ETF Japan: Mit oder ohne Währungs­sicherung?](https://www.test.de/Aktien-ETF-Japan-Mit-oder-ohne-Waehrungssicherung-6132893-0/ "Aktien-ETF Japan - Mit oder ohne Währungssicherung?")
-* [Mobil­funk: Telekom schaltet 2G-Netz ab](https://www.test.de/Mobilfunk-Telekom-schaltet-2G-Netz-ab-6173729-0/ "Mobilfunk - Telekom schaltet 2G-Netz ab")
-* [Test Frisch­halteboxen: Glas schlägt Plastik](https://www.test.de/Test-Frischhalteboxen-Glas-schlaegt-Plastik-6052991-0/ "Test Frischhalteboxen - Glas schlägt Plastik")
-* [Verpackungs­ärger: Nivea Expert Filler Cellular Anti-Age Tages­pflege](https://www.test.de/Verpackungsaerger-Nivea-Expert-Filler-Cellular-Anti-Age-Tagespflege-6084938-0/ "Verpackungsärger - Nivea Expert Filler Cellular Anti-Age Tagespflege")
+* [Rohgold: Rohe Gold­klumpen als Geld­anlage?](https://www.test.de/Rohgold-Rohe-Goldklumpen-als-Geldanlage-6019655-0/ "Rohgold - Rohe Goldklumpen als Geldanlage?")
+* [Falscher Online-Broker: Vorsicht vor pridefx.org](https://www.test.de/Falscher-Online-Broker-Vorsicht-vor-pridefxorg-6088390-0/ "Falscher Online-Broker - Vorsicht vor pridefx.org")
+* [Online-Shopping: EU-Kommis­sion geht gegen Temu vor](https://www.test.de/Schnaeppchen-Plattform-Bei-Temu-ist-Vorsicht-angesagt-6098821-0/ "Online-Shopping - EU-Kommission geht gegen Temu vor")
+* [Stabile Fonds aus dem Finanztest-Fonds­rating: Empfehlungen für Filial­bank­kunden](https://www.test.de/Stabile-Fonds-aus-dem-Finanztest-Fondsrating-Empfehlungen-fuer-Filialbankkunden-6006555-0/ "Stabile Fonds aus dem Finanztest-Fondsrating - Empfehlungen für Filialbankkunden")
+* [Centerbridge Part­ners: Handel übers Fake-Depot](https://www.test.de/Warnliste-Handel-uebers-Fake-Depot-5991527-0/ "Centerbridge Partners - Handel übers Fake-Depot")
+* [Wanderja­cken im Test: Viele sind nicht ganz dicht](https://www.test.de/Wanderjacken-im-Test-Viele-sind-nicht-ganz-dicht-6160402-0/ "Wanderjacken im Test - Viele sind nicht ganz dicht")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -3138,12 +3138,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Befestigung Auto­kinder­sitze: Bundes­amt warnt vor Isofix-Adaptern](https://www.test.de/Befestigung-von-Autokindersitzen-Gefaehrliche-Isofix-Adapter-6159718-0/ "Befestigung Autokindersitze - Bundesamt warnt vor Isofix-Adaptern")
-* [Assistent für Digitalwährungs­handel: Achtung, Identitäts­klau!](https://www.test.de/Assistent-fuer-Digitalwaehrungshandel-Achtung-Identitaetsklau-6003423-0/ "Assistent für Digitalwährungshandel - Achtung, Identitätsklau!")
-* [Aktien-ETF Japan: Mit oder ohne Währungs­sicherung?](https://www.test.de/Aktien-ETF-Japan-Mit-oder-ohne-Waehrungssicherung-6132893-0/ "Aktien-ETF Japan - Mit oder ohne Währungssicherung?")
-* [Mobil­funk: Telekom schaltet 2G-Netz ab](https://www.test.de/Mobilfunk-Telekom-schaltet-2G-Netz-ab-6173729-0/ "Mobilfunk - Telekom schaltet 2G-Netz ab")
-* [Test Frisch­halteboxen: Glas schlägt Plastik](https://www.test.de/Test-Frischhalteboxen-Glas-schlaegt-Plastik-6052991-0/ "Test Frischhalteboxen - Glas schlägt Plastik")
-* [Verpackungs­ärger: Nivea Expert Filler Cellular Anti-Age Tages­pflege](https://www.test.de/Verpackungsaerger-Nivea-Expert-Filler-Cellular-Anti-Age-Tagespflege-6084938-0/ "Verpackungsärger - Nivea Expert Filler Cellular Anti-Age Tagespflege")
+* [Rohgold: Rohe Gold­klumpen als Geld­anlage?](https://www.test.de/Rohgold-Rohe-Goldklumpen-als-Geldanlage-6019655-0/ "Rohgold - Rohe Goldklumpen als Geldanlage?")
+* [Falscher Online-Broker: Vorsicht vor pridefx.org](https://www.test.de/Falscher-Online-Broker-Vorsicht-vor-pridefxorg-6088390-0/ "Falscher Online-Broker - Vorsicht vor pridefx.org")
+* [Online-Shopping: EU-Kommis­sion geht gegen Temu vor](https://www.test.de/Schnaeppchen-Plattform-Bei-Temu-ist-Vorsicht-angesagt-6098821-0/ "Online-Shopping - EU-Kommission geht gegen Temu vor")
+* [Stabile Fonds aus dem Finanztest-Fonds­rating: Empfehlungen für Filial­bank­kunden](https://www.test.de/Stabile-Fonds-aus-dem-Finanztest-Fondsrating-Empfehlungen-fuer-Filialbankkunden-6006555-0/ "Stabile Fonds aus dem Finanztest-Fondsrating - Empfehlungen für Filialbankkunden")
+* [Centerbridge Part­ners: Handel übers Fake-Depot](https://www.test.de/Warnliste-Handel-uebers-Fake-Depot-5991527-0/ "Centerbridge Partners - Handel übers Fake-Depot")
+* [Wanderja­cken im Test: Viele sind nicht ganz dicht](https://www.test.de/Wanderjacken-im-Test-Viele-sind-nicht-ganz-dicht-6160402-0/ "Wanderjacken im Test - Viele sind nicht ganz dicht")
 
 Neueste Tests
 
@@ -3156,12 +3156,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Befestigung Auto­kinder­sitze: Bundes­amt warnt vor Isofix-Adaptern](https://www.test.de/Befestigung-von-Autokindersitzen-Gefaehrliche-Isofix-Adapter-6159718-0/ "Befestigung Autokindersitze - Bundesamt warnt vor Isofix-Adaptern")
-* [Assistent für Digitalwährungs­handel: Achtung, Identitäts­klau!](https://www.test.de/Assistent-fuer-Digitalwaehrungshandel-Achtung-Identitaetsklau-6003423-0/ "Assistent für Digitalwährungshandel - Achtung, Identitätsklau!")
-* [Aktien-ETF Japan: Mit oder ohne Währungs­sicherung?](https://www.test.de/Aktien-ETF-Japan-Mit-oder-ohne-Waehrungssicherung-6132893-0/ "Aktien-ETF Japan - Mit oder ohne Währungssicherung?")
-* [Mobil­funk: Telekom schaltet 2G-Netz ab](https://www.test.de/Mobilfunk-Telekom-schaltet-2G-Netz-ab-6173729-0/ "Mobilfunk - Telekom schaltet 2G-Netz ab")
-* [Test Frisch­halteboxen: Glas schlägt Plastik](https://www.test.de/Test-Frischhalteboxen-Glas-schlaegt-Plastik-6052991-0/ "Test Frischhalteboxen - Glas schlägt Plastik")
-* [Verpackungs­ärger: Nivea Expert Filler Cellular Anti-Age Tages­pflege](https://www.test.de/Verpackungsaerger-Nivea-Expert-Filler-Cellular-Anti-Age-Tagespflege-6084938-0/ "Verpackungsärger - Nivea Expert Filler Cellular Anti-Age Tagespflege")
+* [Rohgold: Rohe Gold­klumpen als Geld­anlage?](https://www.test.de/Rohgold-Rohe-Goldklumpen-als-Geldanlage-6019655-0/ "Rohgold - Rohe Goldklumpen als Geldanlage?")
+* [Falscher Online-Broker: Vorsicht vor pridefx.org](https://www.test.de/Falscher-Online-Broker-Vorsicht-vor-pridefxorg-6088390-0/ "Falscher Online-Broker - Vorsicht vor pridefx.org")
+* [Online-Shopping: EU-Kommis­sion geht gegen Temu vor](https://www.test.de/Schnaeppchen-Plattform-Bei-Temu-ist-Vorsicht-angesagt-6098821-0/ "Online-Shopping - EU-Kommission geht gegen Temu vor")
+* [Stabile Fonds aus dem Finanztest-Fonds­rating: Empfehlungen für Filial­bank­kunden](https://www.test.de/Stabile-Fonds-aus-dem-Finanztest-Fondsrating-Empfehlungen-fuer-Filialbankkunden-6006555-0/ "Stabile Fonds aus dem Finanztest-Fondsrating - Empfehlungen für Filialbankkunden")
+* [Centerbridge Part­ners: Handel übers Fake-Depot](https://www.test.de/Warnliste-Handel-uebers-Fake-Depot-5991527-0/ "Centerbridge Partners - Handel übers Fake-Depot")
+* [Wanderja­cken im Test: Viele sind nicht ganz dicht](https://www.test.de/Wanderjacken-im-Test-Viele-sind-nicht-ganz-dicht-6160402-0/ "Wanderjacken im Test - Viele sind nicht ganz dicht")
 
 Stiftung Warentest
 
