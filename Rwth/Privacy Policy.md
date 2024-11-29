@@ -107,7 +107,7 @@ _[To Portal Page](https://www.rwth-aachen.de/cms/root/~eeu/studium/lidx/1/ "To P
 * [Doctoral Studies From A to Z](https://www.rwth-aachen.de/cms/root/studium/Nach-dem-Studium/~ejw/Promotion/lidx/1/ "Academics > After Graduation > Doctoral Studies From A to Z")
 * [Career for Graduates](https://www.rwth-aachen.de/cms/root/studium/Nach-dem-Studium/~ejx/Karriere/lidx/1/ "Academics > After Graduation > Career for Graduates")
 * [Alumni Network](https://www.rwth-aachen.de/cms/root/studium/Nach-dem-Studium/~ekj/Alumni/lidx/1/ "Academics > After Graduation > Alumni Network")
-* [Graduation Celebration](https://www.rwth-aachen.de/cms/root/studium/Nach-dem-Studium/~emes/Graduiertenfest/lidx/1/ "Academics > After Graduation > Graduation Celebration")
+* [Graduation Celebration 2025](https://www.rwth-aachen.de/cms/root/studium/Nach-dem-Studium/~emes/Graduiertenfest/lidx/1/ "Academics > After Graduation > Graduation Celebration 2025")
 * [Founding a Start-Up](https://www.rwth-aachen.de/cms/root/studium/Nach-dem-Studium/~iibzo/Start-up-gruenden/lidx/1/ "Academics > After Graduation > Founding a Start-Up")
 
 #### [Teaching](https://www.rwth-aachen.de/cms/root/studium/~hihq/Lehre/lidx/1/ "Academics > Teaching")
@@ -231,7 +231,7 @@ _[To Portal Page](https://www.rwth-aachen.de/cms/root/~eex/Die-RWTH/lidx/1/ "To 
 * [Events](https://www.rwth-aachen.de/cms/root/Die-RWTH/Aktuell/~ulx/Veranstaltungen/lidx/1/ "About RWTH > News > Events")
 * [Spotlight](https://www.rwth-aachen.de/cms/root/Die-RWTH/Aktuell/~bbnqse/Im-Fokus/lidx/1/ "About RWTH > News > Spotlight")
 * [Donation Campaign: RWTH and Uniklinik RWTH Aachen Help Ukraine](https://www.rwth-aachen.de/cms/root/Die-RWTH/Aktuell/~trwsa/Spendenaktion-RWTH-und-UKA-helfen-in-de/lidx/1/ "About RWTH > News > Donation Campaign: RWTH and Uniklinik RWTH Aachen Help Ukraine")
-* [Next Generation University](https://www.rwth-aachen.de/cms/root/Die-RWTH/Aktuell/~wsqil/Next-Generation-University/lidx/1/ "About RWTH > News > Next Generation University")
+* [Next Generation University](https://www.rwth-aachen.de/cms/root/Die-RWTH/Aktuell/~wsqil/Impulsgebende-Veranstaltungen/lidx/1/ "About RWTH > News > Next Generation University")
 * [Publications](https://www.rwth-aachen.de/cms/root/Die-RWTH/Aktuell/~emw/Magazine-Periodika/lidx/1/ "About RWTH > News > Publications")
 * [More ...](https://www.rwth-aachen.de/cms/root/Die-RWTH/~emo/Aktuell/lidx/1/ "About RWTH > News > More ...")
 
