@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Dallas YMCA Turkey Trot welcomes 22,000+ runners for annual event](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/v-dan-dallas-ymca-turkey-trot-9a_00.01.17.50.jpg?ve=1&tl=1)
+ [![Dallas Cowboys tailgaters thankful for a Thanksgiving Day win](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/11282024-rr-pkg-dionne-thanksgiving-tailgating-att_00.00.41.58.jpg?ve=1&tl=1)
 
- ![Dallas YMCA Turkey Trot welcomes 22,000+ runners for annual event](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/v-dan-dallas-ymca-turkey-trot-9a_00.01.17.50.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-ymca-turkey-trot-welcomes-22000-runners-annual-event)
+ ![Dallas Cowboys tailgaters thankful for a Thanksgiving Day win](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/11282024-rr-pkg-dionne-thanksgiving-tailgating-att_00.00.41.58.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-cowboys-tailgaters-thankful-thanksgiving-day-win)
 
-### [Dallas YMCA Turkey Trot welcomes 22,000+ runners for annual event](https://www.fox4news.com/news/dallas-ymca-turkey-trot-welcomes-22000-runners-annual-event)
+### [Dallas Cowboys tailgaters thankful for a Thanksgiving Day win](https://www.fox4news.com/news/dallas-cowboys-tailgaters-thankful-thanksgiving-day-win)
 
- [![Watch: Christmas train creates "magical" scene in England](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gct-00005-copy.jpg?ve=1&tl=1)
+ [![Rockwall woman survives brain tumor, returns to same hospital as nurse](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/p-alex-rockwall-nurse-brain-tumor-patient-9p_00.01.40.12.jpg?ve=1&tl=1)
 
- ![Watch: Christmas train creates "magical" scene in England](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gct-00005-copy.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/christmas-train-of-lights-england)
+ ![Rockwall woman survives brain tumor, returns to same hospital as nurse](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/p-alex-rockwall-nurse-brain-tumor-patient-9p_00.01.40.12.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/rockwall-woman-survives-brain-tumor-returns-same-hospital-nurse)
 
-### [Watch: Christmas train creates "magical" scene in England](https://www.fox4news.com/news/christmas-train-of-lights-england)
+### [Rockwall woman survives brain tumor, returns to same hospital as nurse](https://www.fox4news.com/news/rockwall-woman-survives-brain-tumor-returns-same-hospital-nurse)
 
- [![Colorado police apparently respond to Netflix JonBenet Ramsey documentary](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/jonbenet-ramsay.jpg?ve=1&tl=1)
+ [![2 killed, 2 arrested after McKinney shootout, police chase](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/melrose-dr-mugs.png?ve=1&tl=1)
 
- ![Colorado police apparently respond to Netflix JonBenet Ramsey documentary](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/jonbenet-ramsay.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/colorado-police-netflix-jonbenetramsey-documentary)
+ ![2 killed, 2 arrested after McKinney shootout, police chase](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/melrose-dr-mugs.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/2-killed-2-arrested-after-mckinney-shootout-police-chase)
 
-### [Colorado police apparently respond to Netflix JonBenet Ramsey documentary](https://www.fox4news.com/news/colorado-police-netflix-jonbenetramsey-documentary)
+### [2 killed, 2 arrested after McKinney shootout, police chase](https://www.fox4news.com/news/2-killed-2-arrested-after-mckinney-shootout-police-chase)
 
- [![Astronauts’ Thanksgiving message: "We’re grateful for our nation"](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gct-00001.jpg?ve=1&tl=1)
+ [![Volunteers bus in homeless North Texans for Thanksgiving Day feast](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/p-dial-thanksgiving-feast-for-less-fortunate-9p_00.01.15.10.jpg?ve=1&tl=1)
 
- ![Astronauts’ Thanksgiving message: "We’re grateful for our nation"](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gct-00001.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/astronauts-thanksgiving-message-2024)
+ ![Volunteers bus in homeless North Texans for Thanksgiving Day feast](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/p-dial-thanksgiving-feast-for-less-fortunate-9p_00.01.15.10.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/volunteers-bus-homeless-north-texans-thanksgiving-day-feast)
 
-### [Astronauts’ Thanksgiving message: "We’re grateful for our nation"](https://www.fox4news.com/news/astronauts-thanksgiving-message-2024)
+### [Volunteers bus in homeless North Texans for Thanksgiving Day feast](https://www.fox4news.com/news/volunteers-bus-homeless-north-texans-thanksgiving-day-feast)
 
- [![Arizona grandma and stranger she mistakenly texted in 2016 will celebrate 9th Thanksgiving together](https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2021/11/32/18/thanksgiving-text-SS-THUMB-1.jpg?ve=1&tl=1)
+ [![Meals on Wheels delivers Thanksgiving dinners to 5,000 North Texas homebound seniors](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/meals-on-wheels_2024_11_28t1008ct_6236_mp4_00.05.17.32.jpg?ve=1&tl=1)
 
- ![Arizona grandma and stranger she mistakenly texted in 2016 will celebrate 9th Thanksgiving together](https://images.foxtv.com/images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2021/11/32/18/592/333/thanksgiving-text-SS-THUMB-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/arizona-grandma-stranger-she-mistakenly-texted-2016-will-celebrate-9th-thanksgiving-together)
+ ![Meals on Wheels delivers Thanksgiving dinners to 5,000 North Texas homebound seniors](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/meals-on-wheels_2024_11_28t1008ct_6236_mp4_00.05.17.32.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/meals-wheels-delivers-thanksgiving-dinners-5000-north-texas-homebound-seniors)
 
-### [Grandma, stranger to spend Thanksgiving together](https://www.fox4news.com/news/arizona-grandma-stranger-she-mistakenly-texted-2016-will-celebrate-9th-thanksgiving-together)
+### [Meals on Wheels delivers Thanksgiving dinners to 5,000 North Texas homebound seniors](https://www.fox4news.com/news/meals-wheels-delivers-thanksgiving-dinners-5000-north-texas-homebound-seniors)
 
 ###### [News](https://www.fox4news.com/news)
 
