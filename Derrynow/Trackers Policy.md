@@ -266,29 +266,6 @@ Most Popular
 [Throwback Thursday: Out and about at Bound for Boston 'Battle of the Bands' (2007)](https://www.derrynow.com/story-telling/pictures---videos/1664785/throwback-thursday-out-and-about-at-bound-for-boston-battle-of-the-bands-2007.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Man in late teens shot in the leg in Derry attack](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man in late teens shot in the leg in Derry attack")](https://www.derrynow.com/news/local-news/1666879/man-in-late-teens-shot-in-the-leg-in-derry-attack.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man in late teens shot in the leg in Derry attack](https://www.derrynow.com/news/local-news/1666879/man-in-late-teens-shot-in-the-leg-in-derry-attack.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1666526/derry-death-notices-thursday-november-28-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Thursday, November 28, 2024](https://www.derrynow.com/news/deaths/1666526/derry-death-notices-thursday-november-28-2024.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry judge brands Housing Executive regulations as 'illogical nonsense'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry judge brands Housing Executive regulations as 'illogical nonsense'")](https://www.derrynow.com/news/local-news/1666951/derry-judge-brands-housing-executive-regulations-as-illogical-nonsense.html)
-
-Derry Magistrate's Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry judge brands Housing Executive regulations as 'illogical nonsense'](https://www.derrynow.com/news/local-news/1666951/derry-judge-brands-housing-executive-regulations-as-illogical-nonsense.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Man pleads not guilty at Derry Crown Court to series of sexual assaults](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man pleads not guilty at Derry Crown Court to series of sexual assaults")](https://www.derrynow.com/news/local-news/1667039/man-pleads-not-guilty-at-derry-crown-court-to-series-of-sexual-assaults.html)
 
 Derry courthouse
@@ -298,19 +275,12 @@ Derry courthouse
 [Man pleads not guilty at Derry Crown Court to series of sexual assaults](https://www.derrynow.com/news/local-news/1667039/man-pleads-not-guilty-at-derry-crown-court-to-series-of-sexual-assaults.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Diversions are in place on the Glenshane Road, Maghera at its junction with the Mullagh Road due to a road traffic collision.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Diversions are in place on the Glenshane Road, Maghera at its junction with the Mullagh Road due to a road traffic collision.")](https://www.derrynow.com/news/county-derry-post/1667123/diversions-are-in-place-on-the-glenshane-road-maghera-at-its-junction-with-the-mullagh-road-due-to-a-road-traffic-collision.html)
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[Diversions are in place on the Glenshane Road, Maghera at its junction with the Mullagh Road due to a road traffic collision.](https://www.derrynow.com/news/county-derry-post/1667123/diversions-are-in-place-on-the-glenshane-road-maghera-at-its-junction-with-the-mullagh-road-due-to-a-road-traffic-collision.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man charged with criminal damage and theft from number of Derry shops](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man charged with criminal damage and theft from number of Derry shops")](https://www.derrynow.com/news/local-news/1666955/man-charged-with-criminal-damage-and-theft-from-number-of-derry-shops.html)
+[![Man in late teens shot in the leg in Derry attack](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man in late teens shot in the leg in Derry attack")](https://www.derrynow.com/news/local-news/1666879/man-in-late-teens-shot-in-the-leg-in-derry-attack.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Man charged with criminal damage and theft from number of Derry shops](https://www.derrynow.com/news/local-news/1666955/man-charged-with-criminal-damage-and-theft-from-number-of-derry-shops.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Man in late teens shot in the leg in Derry attack](https://www.derrynow.com/news/local-news/1666879/man-in-late-teens-shot-in-the-leg-in-derry-attack.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![McDaid’s  Dungiven](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "McDaid’s  Dungiven")](https://www.derrynow.com/news/county-derry-post/1667212/county-derry-community-pharmacy-sold-to-first-time-buyer-pair.html)
 
@@ -321,19 +291,53 @@ McDaid’s Pharmacy Dungiven
 [County Derry Community Pharmacy sold to first time buyer pair](https://www.derrynow.com/news/county-derry-post/1667212/county-derry-community-pharmacy-sold-to-first-time-buyer-pair.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Police have arrested two men on suspicion of a number of offences following a vehicle pursuit and related offences in Kilrea.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police have arrested two men on suspicion of a number of offences following a vehicle pursuit and related offences in Kilrea.")](https://www.derrynow.com/news/county-derry-post/1667055/police-have-arrested-two-men-on-suspicion-of-a-number-of-offences-following-a-vehicle-pursuit-and-related-offences-in-kilrea.html)
+[![Derry judge brands Housing Executive regulations as 'illogical nonsense'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry judge brands Housing Executive regulations as 'illogical nonsense'")](https://www.derrynow.com/news/local-news/1666951/derry-judge-brands-housing-executive-regulations-as-illogical-nonsense.html)
+
+Derry Magistrate's Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry judge brands Housing Executive regulations as 'illogical nonsense'](https://www.derrynow.com/news/local-news/1666951/derry-judge-brands-housing-executive-regulations-as-illogical-nonsense.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man charged with criminal damage and theft from number of Derry shops](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man charged with criminal damage and theft from number of Derry shops")](https://www.derrynow.com/news/local-news/1666955/man-charged-with-criminal-damage-and-theft-from-number-of-derry-shops.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man charged with criminal damage and theft from number of Derry shops](https://www.derrynow.com/news/local-news/1666955/man-charged-with-criminal-damage-and-theft-from-number-of-derry-shops.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Diversions are in place on the Glenshane Road, Maghera at its junction with the Mullagh Road due to a road traffic collision.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Diversions are in place on the Glenshane Road, Maghera at its junction with the Mullagh Road due to a road traffic collision.")](https://www.derrynow.com/news/county-derry-post/1667123/diversions-are-in-place-on-the-glenshane-road-maghera-at-its-junction-with-the-mullagh-road-due-to-a-road-traffic-collision.html)
 
 [County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
 
-[Police have arrested two men on suspicion of a number of offences following a vehicle pursuit and related offences in Kilrea.](https://www.derrynow.com/news/county-derry-post/1667055/police-have-arrested-two-men-on-suspicion-of-a-number-of-offences-following-a-vehicle-pursuit-and-related-offences-in-kilrea.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Diversions are in place on the Glenshane Road, Maghera at its junction with the Mullagh Road due to a road traffic collision.](https://www.derrynow.com/news/county-derry-post/1667123/diversions-are-in-place-on-the-glenshane-road-maghera-at-its-junction-with-the-mullagh-road-due-to-a-road-traffic-collision.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Who are the guests on this week's RTÉ Late Late Show as line-up revealed for Friday night](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Who are the guests on this week's RTÉ Late Late Show as line-up revealed for Friday night")](https://www.derrynow.com/news/arts---entertainment/1667361/who-are-the-guests-on-this-week-s-rte-late-late-show-as-line-up-revealed-for-friday-night.html)
+[![Nails to die for: Derry nail technician offers her service to deceased loved ones](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Nails to die for: Derry nail technician offers her service to deceased loved ones")](https://www.derrynow.com/news/home/1667350/nails-to-die-for-derry-nail-technician-offers-her-service-to-deceased-loved-ones.html)
 
-[Arts & Entertainment](https://www.derrynow.com/section/997/cookie-policy)
+To book this service, or schedule an appointment for yourself, you can follow Natasha on Instagram, @nmcnails21\_glamnails.
 
-[Who are the guests on this week's RTÉ Late Late Show as line-up revealed for Friday night](https://www.derrynow.com/news/arts---entertainment/1667361/who-are-the-guests-on-this-week-s-rte-late-late-show-as-line-up-revealed-for-friday-night.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Home](https://www.derrynow.com/)
+
+[Nails to die for: Derry nail technician offers her service to deceased loved ones](https://www.derrynow.com/news/home/1667350/nails-to-die-for-derry-nail-technician-offers-her-service-to-deceased-loved-ones.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[!['I want it to be special for them' as Derry men organises toy drive for Altnagelvin hospital](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'I want it to be special for them' as Derry men organises toy drive for Altnagelvin hospital")](https://www.derrynow.com/news/derry-news/1667014/i-want-it-to-be-special-for-them-as-derry-men-organises-toy-drive-for-altnagelvin-hospital.html)
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+['I want it to be special for them' as Derry men organises toy drive for Altnagelvin hospital](https://www.derrynow.com/news/derry-news/1667014/i-want-it-to-be-special-for-them-as-derry-men-organises-toy-drive-for-altnagelvin-hospital.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man jailed at Derry Magistrate's Court for spitting in police officer's eye](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man jailed at Derry Magistrate's Court for spitting in police officer's eye")](https://www.derrynow.com/news/local-news/1667067/man-jailed-at-derry-magistrate-s-court-for-spitting-in-police-officer-s-eye.html)
+
+Derry Magistrate's Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man jailed at Derry Magistrate's Court for spitting in police officer's eye](https://www.derrynow.com/news/local-news/1667067/man-jailed-at-derry-magistrate-s-court-for-spitting-in-police-officer-s-eye.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -513,6 +517,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1666535/derry-death-notices-friday-november-29-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Friday, November 29, 2024](https://www.derrynow.com/news/deaths/1666535/derry-death-notices-friday-november-29-2024.html)
+------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Nails to die for: Derry nail technician offers her service to deceased loved ones](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Nails to die for: Derry nail technician offers her service to deceased loved ones")](https://www.derrynow.com/news/home/1667350/nails-to-die-for-derry-nail-technician-offers-her-service-to-deceased-loved-ones.html)
 
 To book this service, or schedule an appointment for yourself, you can follow Natasha on Instagram, @nmcnails21\_glamnails.
@@ -522,7 +533,7 @@ To book this service, or schedule an appointment for yourself, you can follow Na
 [Nails to die for: Derry nail technician offers her service to deceased loved ones](https://www.derrynow.com/news/home/1667350/nails-to-die-for-derry-nail-technician-offers-her-service-to-deceased-loved-ones.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Kilrea Christmas Lights will Switch on](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Kilrea Christmas Lights will Switch on")](https://www.derrynow.com/news/county-derry-post/1667280/kilrea-christmas-lights-will-switch-on-this-weekend.html)
+[![Kilrea Christmas Lights will Switch on](https://www.derrynow.com/resizer/165/93/true/2024_11_28/image2-1732805990704.jpeg--.jpeg?1732805991135 "Kilrea Christmas Lights will Switch on")](https://www.derrynow.com/news/county-derry-post/1667280/kilrea-christmas-lights-will-switch-on-this-weekend.html)
 
 Kilrea Christmas Lights will Switch on
 
@@ -555,15 +566,6 @@ Derry Magistrate's Court
 
 [Police investigating a vehicle pursuit, ramming and related offences in Kilrea have made three further arrests](https://www.derrynow.com/news/county-derry-post/1667351/police-investigating-a-vehicle-pursuit-ramming-and-related-offences-in-kilrea-have-made-three-further-arrests.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![UK Culture Secretary Lisa Nandy](https://www.derrynow.com/resizer/165/93/true/pa/2024_07_05/1720211701850_0.jpg--.jpg?1720211702138 "UK Culture Secretary Lisa Nandy")](https://www.derrynow.com/news/derry-news/1667038/culture-secretary-lisa-nandy-agrees-to-visit-northern-ireland-if-she-can-meet-the-stars-of-derry-girls.html)
-
-UK Culture Secretary Lisa Nandy
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Culture Secretary Lisa Nandy agrees to visit Northern Ireland if she can meet the stars of Derry Girls](https://www.derrynow.com/news/derry-news/1667038/culture-secretary-lisa-nandy-agrees-to-visit-northern-ireland-if-she-can-meet-the-stars-of-derry-girls.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
