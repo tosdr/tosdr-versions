@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/hoofdartikelen/de-ontkrachting-van-de-mens-loopt-ten-einde/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/valse-vlag-operaties/de-nos-dient-voorgekookt-bellincat-hapje-op/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
