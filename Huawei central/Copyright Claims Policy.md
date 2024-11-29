@@ -65,6 +65,9 @@ Huawei Central
     
 * [Wearables](https://www.huaweicentral.com/category/wearables/)
     
+    * [![Huawei Watch D2 sale China](https://www.huaweicentral.com/wp-content/uploads/2024/11/Watch-D2-sale-400x240.jpg)
+        
+        Huawei Watch D2 wearable enters first sale in China](https://www.huaweicentral.com/huawei-watch-d2-wearable-enters-first-sale-in-china/)
     * [![Huawei Watch D2 China](https://www.huaweicentral.com/wp-content/uploads/2024/11/Watch-D2-1-400x240.jpg)
         
         Huawei Watch D2 blood pressure wearable launched in China](https://www.huaweicentral.com/huawei-watch-d2-blood-pressure-wearable-launched-in-china/)
@@ -77,9 +80,6 @@ Huawei Central
     * [![Huawei Watch D2 Malaysia](https://www.huaweicentral.com/wp-content/uploads/2024/11/Watch-D2-400x240.jpg)
         
         Huawei Watch D2 will launch in Malaysia on November 19](https://www.huaweicentral.com/huawei-watch-d2-will-launch-in-malaysia-on-november-19/)
-    * [![Huawei Q3 2024 Chinese wearable](https://www.huaweicentral.com/wp-content/uploads/2024/10/WatchGT5-400x240.jpg)
-        
-        Huawei ranks first in Q3 2024 Chinese wearable market, beating Apple](https://www.huaweicentral.com/huawei-ranks-first-in-q3-2024-chinese-wearable-market-beating-apple/)
     
 * [Contact Us](https://www.huaweicentral.com/contact/)
 
