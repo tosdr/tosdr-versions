@@ -223,38 +223,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [http://www.institutfrancais.rs](http://www.institutfrancais.rs/)
     
-    [10:00 Odprti globus, LJ](javascript:void(0);)
-    
-    **12.09.2024 | 10:00**
-    
-    **[Cankarjev dom, Ljubljana](http://seecult.org/institucija/cankarjev-dom-ljubljana)**
-    
-    **ODPRTI GLOBUS / GOING GLOBAL - Umetnost milenijske generacije / Millennial generation art** - razstava (11.9.-28.11.2024.)
-    
-    **Katarina Caserman**
-    
-    **Evgen Čopi Gorišek**
-    
-    **Meta Drčar**
-    
-    **Živa Drvarič**
-    
-    **Katja Felle**
-    
-    **Jure Kastelic**
-    
-    **Gašper Kunšič**
-    
-    **Dino Kužnik**
-    
-    **Nana Wolke**
-    
-    **Jana Zornik**
-    
-    kuratorka: Katarina Hergouth, mag. um. zgod.
-    
-    [https://www.cd-cc.si/kultura/razstave](https://www.cd-cc.si/kultura/razstave)
-    
     [10:00 Stari mojstri iz zbirk Muzeja za umetnost in obrt, Zagreb, LJ](javascript:void(0);)
     
     **19.09.2024 | 10:00**
@@ -311,14 +279,30 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     **MARIE HU****É** (Francuska): **FRAGILITIES** - izložba (24.9.-20.12.2024.)
     
+    [10:00 Vladimir R. Petković, BG](javascript:void(0);)
+    
+    **25.09.2024 | 10:00**
+    
+    **[SANU, Beograd](http://seecult.org/institucija/sanu-beograd)**
+    
+    Galerija SANU, Knez Mihailova 35, Beograd
+    
+    **VLADIMIR R. PETKOVIĆ: UTEMELJITELJ STRUKE I NAUKE** - izložba (24.9-8.12.2024.)
+    
+    autorka: Dubravka Preradović
+    
+    organizacija: Narodni muzej Srbije i Srpska akademija nauka i umetnosti
+    
+    [https://www.sanu.ac.rs](https://www.sanu.ac.rs/)
+    
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zorica-vasic/staro-dvoriste/old-yard/deca-children2.jpg?itok=b671XtPT)](http://seecult.org/galerija/galerija-umetnika/zorica-vasic/staro-dvoriste-old-yard)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/katarina-radovic/dok-nas-smrt-ne-rastavi/04.jpg?itok=3BHK-x_-)](http://seecult.org/galerija/galerija-umetnika/katarina-radovic/dok-nas-smrt-ne-rastavi)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/13-sff-17-25807/buscemi.jpg?itok=GCSHcNpl)](http://seecult.org/galerija/foto-galerija/foto-arhiva/13-sff-17-25807)
+[![Arheoloske zbirke, Narodni muzej](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/narodni-muzej-beograd/nova-stalna-postavka/arheoloske-zbirke/stalna-postavka-6.jpg?itok=Bbsd7YDb "Arheoloske zbirke, Narodni muzej")](http://seecult.org/galerija/foto-galerija/narodni-muzej-beograd/nova-stalna-postavka/arheoloske-zbirke)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -335,6 +319,7 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Nadežda Petrović u Narodnom muzeju](http://seecult.org/vest/nadezda-petrovic-u-narodnom-muzeju)
 
 * [Vladimiru Radovanoviću nagrada Marko Glušac](http://seecult.org/vest/vladimiru-radovanovicu-nagrada-marko-glusac)
+* [Nagrada Igora Zabela Edit Andraš](http://seecult.org/vest/nagrada-igora-zabela-edit-andras)
 * [30\. FAF na BIS](http://seecult.org/vest/30-faf-na-bis)
 * [Nemi film uživo](http://seecult.org/vest/nemi-film-uzivo)
 * [Užičko pozorište pobednik 17. Festivala pobednika festivala](http://seecult.org/vest/uzicko-pozoriste-pobednik-17-festivala-pobednika-festivala)
@@ -343,7 +328,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Prednosti kreativnog mentorstva](http://seecult.org/vest/prednosti-kreativnog-mentorstva)
 * [Nikiti Zdravkoviću nagrada Veruj u sebe](http://seecult.org/vest/nikiti-zdravkovicu-nagrada-veruj-u-sebe)
 * [Univerzalna vrednost u opasnosti](http://seecult.org/vest/univerzalna-vrednost-u-opasnosti)
-* [Škola kao ogledalo društva](http://seecult.org/vest/skola-kao-ogledalo-drustva)
 
 * [Konkursi](#tab1_1)
 
