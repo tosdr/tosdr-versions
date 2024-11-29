@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/JH522830-pine-grove-surf-326x245.jpg)](https://cwbchicago.com/2024/11/man-shot-critically-injured-while-handling-gun-with-girlfriend-in-lakeview.html "Man shot, critically injured while handling gun with girlfriend in Lakeview")
+
+Lakeview
+
+### [Man shot, critically injured while handling gun with girlfriend in Lakeview](https://cwbchicago.com/2024/11/man-shot-critically-injured-while-handling-gun-with-girlfriend-in-lakeview.html "Man shot, critically injured while handling gun with girlfriend in Lakeview")
+
+[November 27, 2024 7:29 AM](https://cwbchicago.com/2024/11)
+
+A woman is being questioned by detectives after a man was shot while handling a gun with her in Lakeview on Wednesday morning.[](https://cwbchicago.com/2024/11/man-shot-critically-injured-while-handling-gun-with-girlfriend-in-lakeview.html "Man shot, critically injured while handling gun with girlfriend in Lakeview")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Bean-Marion-Richardson-326x245.jpg)](https://cwbchicago.com/2024/11/not-guilty-man-aquitted-of-murdering-teen-during-large-group-incident-in-millennium-park.html "Not guilty! Man aquitted of murdering teen during ‘large group’ incident in Millennium Park")
+
+Loop
+
+### [Not guilty! Man aquitted of murdering teen during ‘large group’ incident in Millennium Park](https://cwbchicago.com/2024/11/not-guilty-man-aquitted-of-murdering-teen-during-large-group-incident-in-millennium-park.html "Not guilty! Man aquitted of murdering teen during ‘large group’ incident in Millennium Park")
+
+[November 27, 2024 6:44 AM](https://cwbchicago.com/2024/11)
+
+A judge has found a man not guilty of murdering 16-year-old Seandell Holiday during a “large group” incident in Millennium Park. The shooting prompted Chicago Mayor Lori Lightfoot to largely ban minors from the park, which she encircled with fencing and metal detectors.[](https://cwbchicago.com/2024/11/not-guilty-man-aquitted-of-murdering-teen-during-large-group-incident-in-millennium-park.html "Not guilty! Man aquitted of murdering teen during ‘large group’ incident in Millennium Park")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/11/Kemari-Johnson-326x245.jpg)](https://cwbchicago.com/2024/11/inmate-who-surrendered-gun-inside-cook-county-jail-found-the-weapon-shortly-before-turning-it-in-source-says.html "Inmate who surrendered gun inside Cook County jail found the weapon shortly before turning it in, source says")
 
 Citywide
@@ -252,26 +272,6 @@ Citywide
 [November 26, 2024 7:42 PM](https://cwbchicago.com/2024/11)
 
 Investigators are still trying to determine how a firearm surrendered by an inmate at the Cook County jail last week was brought into the facility. But a source said he found it shortly before turning it in.[](https://cwbchicago.com/2024/11/inmate-who-surrendered-gun-inside-cook-county-jail-found-the-weapon-shortly-before-turning-it-in-source-says.html "Inmate who surrendered gun inside Cook County jail found the weapon shortly before turning it in, source says")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/35-Ashland-scene-326x245.jpg)](https://cwbchicago.com/2024/11/videos-released-of-fatal-crash-as-chicago-cops-followed-suspects-car.html "Videos released of fatal crash as Chicago cops ‘followed’ suspects’ car")
-
-McKinley Park
-
-### [Videos released of fatal crash as Chicago cops ‘followed’ suspects’ car](https://cwbchicago.com/2024/11/videos-released-of-fatal-crash-as-chicago-cops-followed-suspects-car.html "Videos released of fatal crash as Chicago cops ‘followed’ suspects’ car")
-
-[November 26, 2024 6:31 PM](https://cwbchicago.com/2024/11)
-
-COPA, the agency charged with investigating shootings and major accidents involving Chicago police officers, has released videos and other records from a car crash that left a man dead and two others injured as cops were following a suspect vehicle last month in McKinley Park.[](https://cwbchicago.com/2024/11/videos-released-of-fatal-crash-as-chicago-cops-followed-suspects-car.html "Videos released of fatal crash as Chicago cops ‘followed’ suspects’ car")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/bb17-326x245.jpg)](https://cwbchicago.com/2024/11/man-found-shot-unconscious-on-a-street-previously-served-by-shotspotter.html "Man found shot, unconscious on a street previously served by ShotSpotter")
-
-Chicago Lawn
-
-### [Man found shot, unconscious on a street previously served by ShotSpotter](https://cwbchicago.com/2024/11/man-found-shot-unconscious-on-a-street-previously-served-by-shotspotter.html "Man found shot, unconscious on a street previously served by ShotSpotter")
-
-[November 26, 2024 1:49 PM](https://cwbchicago.com/2024/11)
-
-CHICAGO — A man is in critical condition after being found unconscious, suffering from gunshot wounds in Chicago Lawn on Monday evening. Nobody called 911 to report gunfire, and, in fact, the person who found the man wasn’t even sure he had been shot. The shooting occurred in an area that used to be served[](https://cwbchicago.com/2024/11/man-found-shot-unconscious-on-a-street-previously-served-by-shotspotter.html "Man found shot, unconscious on a street previously served by ShotSpotter")
 
 Search
 
