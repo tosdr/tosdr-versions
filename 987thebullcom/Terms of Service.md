@@ -212,11 +212,11 @@ Recently Played
 
 |     |
 | --- |
-| You Should Probably LeaveChris Stapleton<br><br>4:39pm |
-| A Lot More FreeMax Mcnown<br><br>4:34pm |
-| Dancin' In The CountryTyler Hubbard<br><br>4:31pm |
-| Love SomebodyMorgan Wallen<br><br>4:28pm |
-| Shes In Love With The BoyTrisha Yearwood<br><br>4:24pm |
+| Heart Like A TruckLainey Wilson<br><br>10:39pm |
+| LiarJelly Roll<br><br>10:35pm |
+| As Good As I Once WasToby Keith<br><br>10:32pm |
+| A Bar Song (Tipsy)Shaboozey<br><br>10:21pm |
+| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>10:18pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -360,21 +360,21 @@ State
 Featured Brands
 ---------------
 
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+
+Top 40 • Pacific NW
+
 [![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
 News Talk • Eastern
 
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
-
-Sports • Midwest
-
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
 Country • Western
 
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
-Top 40 • Eastern
+Sports • Midwest
 
 [](https://www.alphamediausa.com/)
 
