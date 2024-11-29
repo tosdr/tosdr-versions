@@ -212,11 +212,11 @@ Recently Played
 
 |     |
 | --- |
-| Break Up In A Small TownSam Hunt<br><br>10:40am |
-| Truck BedHardy<br><br>10:38am |
-| Devil You KnowTyler Braden<br><br>10:35am |
-| Hotel KeyOld Dominion<br><br>10:32am |
-| AustinDasha<br><br>10:29am |
+| You Should Probably LeaveChris Stapleton<br><br>4:39pm |
+| A Lot More FreeMax Mcnown<br><br>4:34pm |
+| Dancin' In The CountryTyler Hubbard<br><br>4:31pm |
+| Love SomebodyMorgan Wallen<br><br>4:28pm |
+| Shes In Love With The BoyTrisha Yearwood<br><br>4:24pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -364,17 +364,17 @@ Featured Brands
 
 News Talk • Eastern
 
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
-Spanish • Western
+Sports • Midwest
 
 [![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
 Country • Western
 
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
-Top 40 • Pacific NW
+Top 40 • Eastern
 
 [](https://www.alphamediausa.com/)
 
