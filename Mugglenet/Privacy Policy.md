@@ -246,14 +246,6 @@ MuggleNet Archive Select Month November 2024  (20) October 2024  (27) Septembe
 
 ### November 2024
 
-#### Thu, Nov 28
-
-Alfonso Cuarón's birthday
-
-Recurs yearly
-
-Director (PoA)
-
 #### Fri, Nov 29
 
 Bill Weasley's birthday
@@ -286,6 +278,14 @@ Recurs yearly
 
 2008
 
+#### Thu, Dec 5
+
+Benedict Clarke's birthday
+
+Recurs yearly
+
+Young Severus Snape (DH2)
+
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -296,15 +296,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The Hogwarts school motto, Draco Dormiens Nunquam Titillandus, means “Never Tickle a Sleeping Dragon.”
+If a Muggle spotted Hogwarts, they would just see an old ruin with a sign that says “Keep out, dangerous building.”
 
 ### Potter History
 
-March 22, 2005 – Order of the Phoenix filming rumors begin to stir, beginning with talk of filming in Czech Republic.
+April 5, 2006 – Warner Bros. announces that Harry Potter and the Order of Phoenix will hit theaters on July 13, 2007.
 
 ### Potter Quote
 
-“The disapproval of cowards is praise to the brave.”
+“Dear Mr. Potter, We are pleased to inform you that you have been accepted at Hogwarts School of Witchcraft and Wizardry. Please find enclosed a list of all necessary books and equipment. Term begins on September 1. We await your owl by no later than July 31.”
 
 [](#)
 
