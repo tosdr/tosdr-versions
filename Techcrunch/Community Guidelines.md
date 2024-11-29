@@ -181,11 +181,11 @@ We base the TechCrunch Code of Conduct on the principles of inclusion, equality,
 * [Code of Conduct](https://techcrunch.com/code-of-conduct/)
 * [About Our Ads](https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html)
 
-* [Anthropic](https://techcrunch.com/2024/11/25/anthropic-proposes-a-way-to-connect-data-to-ai-chatbots/)
-* [Bending Spoons Acquisition](https://techcrunch.com/2024/11/25/bending-spoons-is-taking-video-platform-brightcove-private-in-233m-acquisition/)
-* [Bluesky](https://techcrunch.com/2024/11/25/bluesky-falling-foul-of-eu-rules-by-not-reporting-user-numbers-across-the-bloc/)
+* [Meta Subsea Cable](https://techcrunch.com/2024/11/29/meta-plans-to-build-a-10b-subsea-cable-spanning-the-world-sources-say/)
+* [Thanksgiving Spending](https://techcrunch.com/2024/11/29/early-thanksgiving-online-sales-numbers-are-up-7-yoy-to-15-6b-on-par-with-pre-pandemic-trends/)
+* [Apple Intelligence](https://techcrunch.com/2024/11/29/how-to-use-apple-intelligence-image-playground-feature/)
+* [Zomato Raises $1B](https://techcrunch.com/2024/11/28/zomato-raises-1-billion-in-first-major-fundraise-since-2021-listing/)
 * [iPhone App Of The Year](https://techcrunch.com/2024/11/25/apple-again-snubs-ai-in-its-iphone-app-of-the-year-finalists/)
-* [Instagram Location Sharing](https://techcrunch.com/2024/11/25/instagram-takes-on-snapchat-with-new-location-sharing-feature/)
 * [Tech Layoffs](https://techcrunch.com/2024/11/13/tech-layoffs-2024-list/)
 * [ChatGPT](https://techcrunch.com/2024/11/22/chatgpt-everything-to-know-about-the-ai-chatbot/)
 
