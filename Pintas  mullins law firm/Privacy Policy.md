@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Is mesothelioma always fatal?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-mesothelioma-lawyer-is-mesothelioma-always-fatal-scaled.jpg "Is Mesothelioma Always Fatal?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/is-mesothelioma-always-fatal/ "Is Mesothelioma Always Fatal?")
+[![Is sexual questioning considered sexual abuse?](https://www.pintas.com/wp-content/uploads/2023/04/stephen-radford-86QxYjwq8LU-unsplash-300x199.jpg "Is Sexual Questioning Considered Sexual Abuse?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/is-sexual-questioning-considered-sexual-abuse/ "Is Sexual Questioning Considered Sexual Abuse?")
 
-[#### Is Mesothelioma Always Fatal?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/is-mesothelioma-always-fatal/)
+[#### Is Sexual Questioning Considered Sexual Abuse?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/is-sexual-questioning-considered-sexual-abuse/)
 
-[![Can i file a sex abuse claim against the mormon church anonymously?](https://www.pintas.com/wp-content/uploads/2023/04/general-mormon-2-300x201.jpg "Can I File a Sex Abuse Claim Against the Mormon Church Anonymously?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/can-i-file-a-sexual-abuse-claim-against-the-mormon-church-anonymously/ "Can I File a Sex Abuse Claim Against the Mormon Church Anonymously?")
+[![How much does it cost to hire a mesothelioma lawyer?](https://www.pintas.com/wp-content/uploads/2020/05/mesothelioma-how-much-does-it-cost-to-hire-a-mesothelioma-lawyer.jpg "How Much Does It Cost to Hire a Mesothelioma Lawyer?")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/how-much-does-it-cost-to-hire-a-mesothelioma-lawyer/ "How Much Does It Cost to Hire a Mesothelioma Lawyer?")
 
-[#### Can I File a Sex Abuse Claim Against the Mormon Church Anonymously?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/can-i-file-a-sexual-abuse-claim-against-the-mormon-church-anonymously/)
+[#### How Much Does It Cost to Hire a Mesothelioma Lawyer?](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/how-much-does-it-cost-to-hire-a-mesothelioma-lawyer/)
 
-[![Can you sue for lung cancer?](https://www.pintas.com/wp-content/uploads/2020/06/lung-cancer-can-you-sue-for-lung-cancer-2-scaled.jpg "Can You Sue For Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/can-you-sue-for-lung-cancer/ "Can You Sue For Lung Cancer?")
+[![Do you need a lung transplant if you have mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/10/lung-cancer-mesothelioma-lawyer-do-you-need-a-lung-transplant-if-you-have-mesothelioma.jpg "Do You Need a Lung Transplant if You Have Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/do-you-need-a-lung-transplant-if-you-have-mesothelioma/ "Do You Need a Lung Transplant if You Have Mesothelioma?")
 
-[#### Can You Sue For Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/can-you-sue-for-lung-cancer/)
+[#### Do You Need a Lung Transplant if You Have Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/do-you-need-a-lung-transplant-if-you-have-mesothelioma/)
 
 ### Injured?  
 Tell Us What Happened.
