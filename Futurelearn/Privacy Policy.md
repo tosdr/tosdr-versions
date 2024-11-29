@@ -720,6 +720,15 @@ Powered By
 
 ### Other top stories on FutureLearn
 
+* [![student researching master's vs bachelor's degrees](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/GettyImages-1243744124-150x150.jpg.optimal.jpg)](https://www.futurelearn.com/info/blog/masters-degrees-vs-bachelors-degrees)
+    
+    [Master’s Degrees vs Bachelor’s Degrees](https://www.futurelearn.com/info/blog/masters-degrees-vs-bachelors-degrees)
+    --------------------------------------------------------------------------------------------------------------------
+    
+    Discover the key differences between bachelor's and master's degrees, including career prospects, costs, and time …
+    
+    Category: [Degrees](https://www.futurelearn.com/info/faq/degrees)
+    
 * [FutureLearn Wins At The ESG & Sustainability Awards 2024](https://www.futurelearn.com/info/press/futurelearn-wins-at-the-esg-sustainability-awards-2024)
     ---------------------------------------------------------------------------------------------------------------------------------------------------------
     
@@ -738,13 +747,6 @@ Powered By
     ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
     FutureLearn, the leading UK-based online learning platform, has partnered with Uptime, the knowledge-hacking app, to …
-    
-    Category: [Press](https://www.futurelearn.com/info/press), [Press Releases](https://www.futurelearn.com/info/press-releases)
-    
-* [National STEM Day: Empowering Women And Girls in STEM](https://www.futurelearn.com/info/press/national-stem-day-empowering-women-and-girls-in-stem)
-    ----------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    FutureLearn, the online career-based learning platform, joins celebrations for National STEM Day with a focus …
     
     Category: [Press](https://www.futurelearn.com/info/press), [Press Releases](https://www.futurelearn.com/info/press-releases)
     
