@@ -391,23 +391,24 @@ This Agreement was last modified on 4, December 2012.
 
 ### Featured Articles
 
+[![Flirty Jokes to Make Her Laugh](https://www.wikihow.com/images/thumb/2/29/Flirty-Jokes-to-Make-Her-Laugh-Step-9.jpg/-crop-126-120-126px-Flirty-Jokes-to-Make-Her-Laugh-Step-9.jpg)
+
+140 Flirty Jokes & Pick-Up Lines to Make Her Laugh](https://www.wikihow.com/Flirty-Jokes-to-Make-Her-Laugh)
+
+[![Embrace Your Flaws](https://www.wikihow.com/images/thumb/2/29/LR22-D-Alan-Confides-in-His-Dad.png/-crop-126-120-126px-LR22-D-Alan-Confides-in-His-Dad.png)
+
+How to  
+Embrace Your Flaws](https://www.wikihow.com/Embrace-Your-Flaws)
+
+[![Tell if Thanksgiving Turkey Is Done](https://www.wikihow.com/images/thumb/8/81/Tell-if-Thanksgiving-Turkey-Is-Done-Step-8.jpg/-crop-126-120-126px-Tell-if-Thanksgiving-Turkey-Is-Done-Step-8.jpg)
+
+How to  
+Tell if Thanksgiving Turkey Is Done](https://www.wikihow.com/Tell-if-Thanksgiving-Turkey-Is-Done)
+
 [![Talk to a Girl You Like for the First Time](https://www.wikihow.com/images/thumb/f/f6/Talk-to-a-Girl-You-Like-for-the-First-Time-Step-15-Version-2.jpg/-crop-126-120-126px-Talk-to-a-Girl-You-Like-for-the-First-Time-Step-15-Version-2.jpg)
 
 How to  
 Talk to a Girl You Like for the First Time](https://www.wikihow.com/Talk-to-a-Girl-You-Like-for-the-First-Time)
-
-[![Does He Like Me Quiz](https://www.wikihow.com/images/thumb/7/76/Canva-love-me-love-me-not.jpg/-crop-126-120-126px-Canva-love-me-love-me-not.jpg)
-
-Does He Like Me Quiz](https://www.wikihow.com/Relationships/Does-He-Like-Me-Quiz)
-
-[![Make Your House Smell Good](https://www.wikihow.com/images/thumb/1/1a/Make-Your-House-Smell-Good-Step-1.jpg/-crop-126-120-126px-Make-Your-House-Smell-Good-Step-1.jpg)
-
-27 Ways to Make Your House Smell Great](https://www.wikihow.com/Make-Your-House-Smell-Good)
-
-[![Make Money from Your Phone](https://www.wikihow.com/images/thumb/5/5d/Make-Money-from-Your-Phone-Step-18-Version-2.jpg/-crop-126-120-126px-Make-Money-from-Your-Phone-Step-18-Version-2.jpg)
-
-How to  
-Make Money on Your Phone: 18 Apps & Side Hustles](https://www.wikihow.com/Make-Money-from-Your-Phone)
 
   
 
@@ -450,4 +451,4 @@ Follow Us
 
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=8003466&cv=3.9.1&cj=1)
 
-185
+225
