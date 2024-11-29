@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/11/photography-coexistence-feature.jpg)
+
+[](https://theinspirationgrid.com/coexistence-digital-aerochrome-photos-by-pierre-louis-ferrer/)
+
+### Coexistence: Digital Aerochrome Photos by Pierre-Louis Ferrer
+
+![](https://inspgr.id/app/uploads/2024/11/design-type-fashion-feature.jpg)
+
+[](https://theinspirationgrid.com/slanted-magazine-44-type-fashion/)
+
+### Slanted Magazine #44: Type Fashion
+
 ![](https://inspgr.id/app/uploads/2024/11/art-magdiel-lopez-24-feature.jpg)
 
 [](https://theinspirationgrid.com/striking-digital-collages-by-magdiel-lopez/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/beijing-performing-arts-center-architectural-photos-by-kris-provoost/)
 
 ### Beijing Performing Arts Center: Architectural Photos by Kris Provoost
-
-![](https://inspgr.id/app/uploads/2024/11/photography-julia-johnson-feature.jpg)
-
-[](https://theinspirationgrid.com/liquid-light-psychedelic-photos-by-julia-johnson/)
-
-### Liquid Light: Psychedelic Photos by Julia Johnson
-
-![](https://inspgr.id/app/uploads/2024/11/illustration-rafael-nobre-feature.jpg)
-
-[](https://theinspirationgrid.com/awesome-illustrations-by-rafael-nobre/)
-
-### Awesome Illustrations by Rafael Nobre
 
 Awesome products for creatives
 ------------------------------
