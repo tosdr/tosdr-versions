@@ -60,7 +60,7 @@
         Privacy
         
         * [Premium VPN](https://www.bitdefender.com/en-us/consumer/vpn)
-        * [Password Manager](https://www.bitdefender.com/en-us/consumer/password-manager)
+        * [SecurePass](https://www.bitdefender.com/en-us/consumer/password-manager)
         
         Identity Protection
         
