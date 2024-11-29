@@ -123,44 +123,44 @@ Advertisement
     The Fog of War
     
     Winner of the Academy Award for Best DocumentaryIt is the story of America as seen through the eyes of the former Secretary of Defense, Robert S. McNamara. One of the most controversial and influe...](https://documentaryheaven.com/the-fog-of-war/ "The Fog of War")
-* [![Why The Industrial Revolution Happened Here](/wp-content/thumbnails/8018-100x70.jpeg?x53432)
-    
-    Why The Industrial Revolution Happened Here
-    
-    Professor Jeremy Black examines one of the most extraordinary periods in British history: the Industrial Revolution. He explains the unique economic, social and political conditions that by the 19th c...](https://documentaryheaven.com/why-industrial-revolution-happened-here/ "Why The Industrial Revolution Happened Here")
 * [![Louis Theroux: Drinking To Oblivion](/wp-content/thumbnails/16353-100x70.jpg?x53432)
     
     Louis Theroux: Drinking To Oblivion
     
     Drinking To Oblivion sees Louis Theroux set about spending some time in the world of extreme drinkers, getting to know people who consume alcohol not just to excess but to the point of total oblivio...](https://documentaryheaven.com/louis-theroux-drinking-to-oblivion/ "Louis Theroux: Drinking To Oblivion")
+* [![Why The Industrial Revolution Happened Here](/wp-content/thumbnails/8018-100x70.jpeg?x53432)
+    
+    Why The Industrial Revolution Happened Here
+    
+    Professor Jeremy Black examines one of the most extraordinary periods in British history: the Industrial Revolution. He explains the unique economic, social and political conditions that by the 19th c...](https://documentaryheaven.com/why-industrial-revolution-happened-here/ "Why The Industrial Revolution Happened Here")
 
 ###### Throwback Documentaries
 
-* [![Ross Kemp on Gangs: A Kenya Special](/wp-content/thumbnails/10395-100x70.jpg?x53432)
+* [![The Kim Dynasty](/wp-content/thumbnails/14016-100x70.jpg?x53432)
     
-    Ross Kemp on Gangs: A Kenya Special
+    The Kim Dynasty
     
-    By now I imagine most of you documentary lovers out there will be familiar with the documentary series known as "Ross Kemp on Gangs", but for those of you that don't it is a British series hosted](https://documentaryheaven.com/ross-kemp-kenya-special/ "Ross Kemp on Gangs: A Kenya Special")
-* [![We Are Legion: The Story of the Hacktivists](/wp-content/thumbnails/6784-100x70.jpg?x53432)
+    The demilitarised zone or DMZ divides the Korean peninsula into North and South at the 38th parallel, the armies of both sides face each other along the border. This stand off has continued since the](https://documentaryheaven.com/kim-dynasty/ "The Kim Dynasty")
+* [![HIV = AIDS, Fact or Fraud?](/wp-content/thumbnails/972-100x70.jpg?x53432)
     
-    We Are Legion: The Story of the Hacktivists
+    HIV = AIDS, Fact or Fraud?
     
-    We Are Legion: The Story of the Hacktivists" is a documentary that takes us inside the world of Anonymous, the radical "hacktivist" collective that has redefined civil disobedience for the digital age](https://documentaryheaven.com/we-are-legion-the-story-of-the-hacktivists/ "We Are Legion: The Story of the Hacktivists")
-* [![The Ambien Effect](/wp-content/thumbnails/8019-100x70.jpg?x53432)
+    "Too many people are making too much money out of it, and money is much stronger than truth. One of the most powerful video documentaries of our time boldly reveals the modern medical-industrial compl](https://documentaryheaven.com/hiv-aids-fact-or-fraud/ "HIV = AIDS, Fact or Fraud?")
+* [![Pink Floyd: The Making of Dark Side of the Moon](/wp-content/thumbnails/6908-100x70.png?x53432)
     
-    The Ambien Effect
+    Pink Floyd: The Making of Dark Side of the Moon
     
-    Zolpidem tartrate, or Ambien, has been prescribed to millions of insomniacs internationally, yet those who use the drug to ensure a good night's sleep are seldom aware it also possesses the ability to](https://documentaryheaven.com/ambien-effect/ "The Ambien Effect")
-* [![Lindsay the OxyContin Addict](/wp-content/thumbnails/8313-100x70.jpg?x53432)
+    If there are a handful of albums in the rock universe that deserve a bells-and-whistles DVD treatment, Dark Side of the Moon is clearly among them. In the ’70s and ’80s, the classic 1973 album by Pink](https://documentaryheaven.com/pink-floyd-making-dark-side-of-the-moon/ "Pink Floyd: The Making of Dark Side of the Moon")
+* [![USS Liberty Dead in the Water](/wp-content/thumbnails/2122-100x70.jpg?x53432)
     
-    Lindsay the OxyContin Addict
+    USS Liberty Dead in the Water
     
-    Lindsay, described as fun and outgoing by her friends, has changed her life forever by using the drug oxycontin. Lindsay grew up as a beautiful dancer and was much loved. Now twenty-four, Lindsay disc](https://documentaryheaven.com/lindsay-oxycontin-addict/ "Lindsay the OxyContin Addict")
-* [![Pure Science Specials: Magnetic Storm](/wp-content/thumbnails/8880-100x70.jpg?x53432)
+    On June 8, 1967, US Navy intelligence ship USS Liberty was suddenly and brutally attacked on the high seas in international waters by the air and naval forces of Israel. The Israeli forces attacked wi](https://documentaryheaven.com/uss-liberty-dead-in-the-water/ "USS Liberty Dead in the Water")
+* [![The Case for Christ](/wp-content/thumbnails/2200-100x70.jpg?x53432)
     
-    Pure Science Specials: Magnetic Storm
+    The Case for Christ
     
-    There is a region of our planet that no human being has ever visited, no one has ever seen this place, yet what happens here effects everyone of us every day of our lives. Its 2000 miles beneath our f](https://documentaryheaven.com/pure-science-specials-magnetic-storm/ "Pure Science Specials: Magnetic Storm")
+    The documentary The Case for Christ follows reporter Lee Strobel as he interviews a number of religious and historical scholars in order to find out if there is any proof of the resurrection, and to d](https://documentaryheaven.com/the-case-for-christ/ "The Case for Christ")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
