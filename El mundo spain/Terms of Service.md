@@ -1,10 +1,10 @@
-![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Favisolegal%2Ehtml&s=elmundo&d=Z0ka-QoAAakAAABbIDY)
+![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Favisolegal%2Ehtml&s=elmundo&d=Z0lvUwoAAaoAAABbQqc)
 
 Es noticia
 
 * [Lotería Navidad](https://www.elmundo.es/loterias/loteria-navidad/comprobar-loteria.html)
 * [Últimas noticias](https://www.elmundo.es/ultimas-noticias.html)
-* [Guerra Rusia Ucrania](https://www.elmundo.es/internacional/2024/11/28/67480bd8a75cca8941e42e27-directo.html)
+* [Guerra Rusia Ucrania](https://www.elmundo.es/internacional/2024/11/29/67495b05a75cca8941ee7849-directo.html)
 * [Juan Lobato](https://www.elmundo.es/madrid/2024/11/28/6748a4e6e9cf4ab3238b4586.html)
 * [Borrell](https://www.elmundo.es/internacional/2024/11/28/674893c1e85eceff038b457a.html)
 * [Vox](https://www.elmundo.es/espana/2024/11/28/67483a85e85ece186b8b4573.html)
