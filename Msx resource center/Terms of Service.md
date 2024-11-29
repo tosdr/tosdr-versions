@@ -153,19 +153,19 @@ Latest reactions
 
 Latest forum posts
 
-* [MSXgl – A new C game library for MSX](https://www.msx.org/forum/msx-talk/development/msxgl-%E2%80%93-a-new-c-game-library-for-msx?page=28 "MSXgl – A new C game library for MSX")
+* [TRH9000 V9990 & Spiderwave OPL4 don't work in Slotx4?](https://www.msx.org/forum/msx-talk/hardware/trh9000-v9990-spiderwave-opl4-dont-work-in-slotx4?page=1 "TRH9000 V9990 & Spiderwave OPL4 don't work in Slotx4?")
+* [vFM (virtual Full Music) MSX universal audio Cartridge](https://www.msx.org/forum/msx-talk/hardware/vfm-virtual-full-music-msx-universal-audio-cartridge?page=8 "vFM (virtual Full Music) MSX universal audio Cartridge")
 * [Panasonic A1GT circuit diagram, broken pads](https://www.msx.org/forum/msx-talk/hardware/panasonic-a1gt-circuit-diagram-broken-pads "Panasonic A1GT circuit diagram, broken pads")
-* [2MB RAM expansion for Yamaha MSX computers from Caro](https://www.msx.org/forum/msx-talk/hardware/2mb-ram-expansion-for-yamaha-msx-computers-from-caro "2MB RAM expansion for Yamaha MSX computers from Caro")
+* [Screen 2 in MSX2 x in MSX1](https://www.msx.org/forum/msx-talk/software/screen-2-in-msx2-x-in-msx1?page=1 "Screen 2 in MSX2 x in MSX1")
 * [H.E.R.O. Remake: Stranded Miners in Space](https://www.msx.org/forum/msx-talk/general-discussion/hero-remake-stranded-miners-in-space "H.E.R.O. Remake: Stranded Miners in Space")
+* [Can't play Manbow 2 on MFR SCC+ when flashing with OPFXSD v1.25](https://www.msx.org/forum/msx-talk/software/cant-play-manbow-2-on-mfr-scc-when-flashing-with-opfxsd-v125?page=1 "Can't play Manbow 2 on MFR SCC+ when flashing with OPFXSD v1.25")
+* [MSXgl – A new C game library for MSX](https://www.msx.org/forum/msx-talk/development/msxgl-%E2%80%93-a-new-c-game-library-for-msx?page=28 "MSXgl – A new C game library for MSX")
+* [2MB RAM expansion for Yamaha MSX computers from Caro](https://www.msx.org/forum/msx-talk/hardware/2mb-ram-expansion-for-yamaha-msx-computers-from-caro "2MB RAM expansion for Yamaha MSX computers from Caro")
 * [Wiki editing discussion](https://www.msx.org/forum/msx-talk/msx-resource-center/wiki-editing-discussion?page=224 "Wiki editing discussion")
 * [Dirt-cheap Vaus paddle clone for MSX](https://www.msx.org/forum/msx-talk/hardware/dirt-cheap-vaus-paddle-clone-for-msx?page=4 "Dirt-cheap Vaus paddle clone for MSX")
-* [Screen 2 in MSX2 x in MSX1](https://www.msx.org/forum/msx-talk/software/screen-2-in-msx2-x-in-msx1 "Screen 2 in MSX2 x in MSX1")
-* [Can't play Manbow 2 on MFR SCC+ when flashing with OPFXSD v1.25](https://www.msx.org/forum/msx-talk/software/cant-play-manbow-2-on-mfr-scc-when-flashing-with-opfxsd-v125?page=1 "Can't play Manbow 2 on MFR SCC+ when flashing with OPFXSD v1.25")
 * [The Mexican Runner: Retro Game Gauntlet 2](https://www.msx.org/forum/msx-talk/general-discussion/the-mexican-runner-retro-game-gauntlet-2?page=1 "The Mexican Runner: Retro Game Gauntlet 2")
 * [Modern joystick and joypad compatibility](https://www.msx.org/forum/msx-talk/hardware/modern-joystick-and-joypad-compatibility "Modern joystick and joypad compatibility")
-* [TRH9000 V9990 & Spiderwave OPL4 don't work in Slotx4?](https://www.msx.org/forum/msx-talk/hardware/trh9000-v9990-spiderwave-opl4-dont-work-in-slotx4?page=1 "TRH9000 V9990 & Spiderwave OPL4 don't work in Slotx4?")
 * [I need a guide or manual for Sorcerian...](https://www.msx.org/forum/msx-talk/software/i-need-a-guide-or-manual-for-sorcerian "I need a guide or manual for Sorcerian...")
-* [Run Bubble Rain with Sofarun](https://www.msx.org/forum/msx-talk/software/run-bubble-rain-with-sofarun?page=2 "Run Bubble Rain with Sofarun")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
