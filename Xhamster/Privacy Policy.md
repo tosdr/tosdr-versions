@@ -30,7 +30,7 @@ Sign in with Google](https://xhamster.com/login-google?source=base)
 
 [Live Sex
 
-\-50% off](https://xhamsterlive.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=mainMenu-LiveSex&widgetElement=tab&isUserLogged=0&isUserRetargeted=0&p1=cold&exp=%7B%223002%22%3A%7B%22g%22%3A%22k%22%2C%22v%22%3A6%7D%2C%223003%22%3A%7B%22g%22%3A%22b%22%2C%22v%22%3A3%7D%2C%223004%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A3%7D%7D&xhStatsUid=6748eeb7ec78b1.00851579dc1&xhSessionToken=f85f6fa08ba59a34b26bb0adb7774374fdf5d861&xhSessionStartedAt=1732832951)
+\-50% off](https://xhamsterlive.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=mainMenu-LiveSex&widgetElement=tab&isUserLogged=0&isUserRetargeted=0&p1=cold&exp=%7B%223002%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A6%7D%2C%223003%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A3%7D%2C%223004%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A3%7D%7D&xhStatsUid=674942f80f1ff0.08913473a21&xhSessionToken=1a196d8e2048f7b9fea4670363fa153cdc16dd1d&xhSessionStartedAt=1732854520)
 
 [Categories](https://xhamster.com/categories)
 
@@ -48,7 +48,7 @@ Sex Chat](https://xhamster.com/ff/out?utm_source=xhamster&utm_medium=menu&utm_ca
 
 [![Faphouse](//static-nss.xhcdn.com/xh-images/components/header/components/header-nav/faphouse-crown.component.svg)
 
-Premium Videos](https://faphouse.com/?utm_source=xhamster&utm_medium=button&utm_campaign=guest&utm_content=landingpage&exp=%7B%223002%22%3A%7B%22g%22%3A%22k%22%2C%22v%22%3A6%7D%2C%223003%22%3A%7B%22g%22%3A%22b%22%2C%22v%22%3A3%7D%2C%223004%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A3%7D%7D)
+Premium Videos](https://faphouse.com/?utm_source=xhamster&utm_medium=button&utm_campaign=guest&utm_content=landingpage&exp=%7B%223002%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A6%7D%2C%223003%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A3%7D%2C%223004%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A3%7D%7D)
 
 [Dating](https://xhamster.com/dating)
 
@@ -56,12 +56,12 @@ Premium Videos](https://faphouse.com/?utm_source=xhamster&utm_medium=button&utm_
 
 * [Upload](https://xhamster.com/creator-signup?source=uploadHeader)
 
-[Black Friday SPECIAL Get all Ultimate benefits at 50% OFF on xHamster Live! GET OFFER](https://go.dmsik.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=PromoBlock&widgetElement=PromoBlockText&isUserLogged=0&isUserRetargeted=0&p1=cold&campaignId=blackfriday2024_xh&xhStatsUid=6748eeb7ec78b1.00851579dc1&xhSessionToken=f85f6fa08ba59a34b26bb0adb7774374fdf5d861&xhSessionStartedAt=1732832951&path=%2F%3Fchannel%3Dxhamster_xhl&targetDomain=xhamsterlive.com&utm_content=PromoBlock_xh&utm_campaign=blackfriday2024_xh)
+[BLACK FRIDAY SALE 🔥⚡ Don’t miss out—grab it now! JOIN FAPHOUSE 50% OFF](https://faphouse.com/?utm_source=xhamster-headline&utm_campaign=blackfriday-2024&utm_medium=desktop-headline)
 
 Privacy Policy
 ==============
 
-Effective Date: November 28, 2024
+Effective Date: November 29, 2024
 
 Last Modified: January 04, 2024
 
