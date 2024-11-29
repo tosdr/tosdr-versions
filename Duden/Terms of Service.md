@@ -183,6 +183,8 @@
 
 [Über die Duden-Sprachberatung](https://www.duden.de/ueber_duden/sprachberatung)
 
+[Duden-Mentor-Textprüfung: Jetzt 50 % sparen. Zum Angebot](https://angebot.mentor.duden.de/premium_angebot_black_friday_2024_11/?utm_source=duden_de&utm_medium=premium_int&utm_campaign=2024_freitag50prz&utm_content=laufschrift) [Duden-Mentor-Textprüfung: Jetzt 50 % sparen. Zum Angebot](https://angebot.mentor.duden.de/premium_angebot_black_friday_2024_11/?utm_source=duden_de&utm_medium=premium_int&utm_campaign=2024_freitag50prz&utm_content=laufschrift) [Duden-Mentor-Textprüfung: Jetzt 50 % sparen. Zum Angebot](https://angebot.mentor.duden.de/premium_angebot_black_friday_2024_11/?utm_source=duden_de&utm_medium=premium_int&utm_campaign=2024_freitag50prz&utm_content=laufschrift) [Duden-Mentor-Textprüfung: Jetzt 50 % sparen. Zum Angebot](https://angebot.mentor.duden.de/premium_angebot_black_friday_2024_11/?utm_source=duden_de&utm_medium=premium_int&utm_campaign=2024_freitag50prz&utm_content=laufschrift) [Duden-Mentor-Textprüfung: Jetzt 50 % sparen. Zum Angebot](https://angebot.mentor.duden.de/premium_angebot_black_friday_2024_11/?utm_source=duden_de&utm_medium=premium_int&utm_campaign=2024_freitag50prz&utm_content=laufschrift)
+
 Allgemeine Geschäftsbedingungen
 ===============================
 
