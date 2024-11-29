@@ -398,11 +398,11 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 ##### Latest
 
-1. [Learn Something New: 100 Most Popular Courses For December](https://www.classcentral.com/report/most-popular-december-2024/)
-2. [Black Friday 2024: 50+ Online Learning Deals](https://www.classcentral.com/report/online-courses-deals-black-friday-cyber-monday/)
-3. [262K Courses, 833M Enrollments: Breaking Down Udemy’s Massive Catalog](https://www.classcentral.com/report/udemy-by-the-numbers/)
-4. [\[2024\] Massive List of Thousands of Free Certificates and Badges](https://www.classcentral.com/report/free-certificates/)
-5. [AI Prompting with Google: From Beginner to Certified](https://www.classcentral.com/report/review-google-prompting-essentials/)
+1. [Writing as Enchantment: Inside Alan Moore’s BBC Maestro Course](https://www.classcentral.com/report/review-bbc-maestro-alan-moore-course/)
+2. [7 Best Biology Courses for 2024](https://www.classcentral.com/report/best-biology-courses/)
+3. [Learn Something New: 100 Most Popular Courses For December](https://www.classcentral.com/report/most-popular-december-2024/)
+4. [Black Friday 2024: 50+ Online Learning Deals](https://www.classcentral.com/report/online-courses-deals-black-friday-cyber-monday/)
+5. [262K Courses, 833M Enrollments: Breaking Down Udemy’s Massive Catalog](https://www.classcentral.com/report/udemy-by-the-numbers/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -412,11 +412,11 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 Most common
 
-1. psychology
+1. English
     
-2. law
+2. excel
     
-3. French
+3. graphic design
     
 
 Popular subjects
