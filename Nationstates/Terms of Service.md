@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Would you Live in AN'S (4,371)](https://forum.nationstates.net/viewtopic.php?t=546200&f=25&view=unread#unread ""Would you Live in AN'S" (4,371 posts)")
-* [♫ NationStates Playlist Project ♫ (90)](https://forum.nationstates.net/viewtopic.php?t=557515&f=25&view=unread#unread ""♫ NationStates Playlist Project ♫" (90 posts)")
-* [\[Submitted\] The Civil Equality Act (81)](https://forum.nationstates.net/viewtopic.php?t=547441&f=9&view=unread#unread ""[Submitted] The Civil Equality Act" (81 posts)")
-* [Agree or Disagree III (12,265)](https://forum.nationstates.net/viewtopic.php?t=516044&f=25&view=unread#unread ""Agree or Disagree III" (12,265 posts)")
-* [NFL Football Thread 24-25: The Road t… (8,812)](https://forum.nationstates.net/viewtopic.php?t=527922&f=20&view=unread#unread ""NFL Football Thread 24-25: The Road to New Orleans!" (8,812 posts)")
+* [♫ NationStates Playlist Project ♫ (97)](https://forum.nationstates.net/viewtopic.php?t=557515&f=25&view=unread#unread ""♫ NationStates Playlist Project ♫" (97 posts)")
+* [The Collective Security League Assemb… (1,880)](https://forum.nationstates.net/viewtopic.php?t=555699&f=5&view=unread#unread ""The Collective Security League Assembly III [MT|IC]" (1,880 posts)")
+* [Agree or Disagree III (12,267)](https://forum.nationstates.net/viewtopic.php?t=516044&f=25&view=unread#unread ""Agree or Disagree III" (12,267 posts)")
+* [The Cold War \[60s/OOC/Applactions\] (91)](https://forum.nationstates.net/viewtopic.php?t=558940&f=31&view=unread#unread ""The Cold War [60s/OOC/Applactions]" (91 posts)")
+* [The Collective Security League: OOC s… (6,940)](https://forum.nationstates.net/viewtopic.php?t=533133&f=5&view=unread#unread ""The Collective Security League: OOC signup" (6,940 posts)")
 
 Advertisement
 
