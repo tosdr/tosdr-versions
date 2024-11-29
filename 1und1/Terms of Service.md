@@ -4,7 +4,7 @@ GENERAL TERMS AND CONDITIONS OF United Internet AG FOR PROCUREMENTS
 
 
 
-V e r s i o n 4 . 0 0 3 - 2 4 S e i t e / P a g e 1 | 6
+V e r s i o n 4 . 1 1 1 - 2 4 S e i t e / P a g e 1 | 6
 
 
 
@@ -122,7 +122,7 @@ the Contractor, unless the parties expressly agree otherwise in writing.
 
 
 
-2.1. Dem Vertrag zwischen dem AN und 1\&1 liegen ausschließlich diese
+2.1. Dem Vertrag zwischen dem AN und United Internet liegen ausschließlich diese
 
 Einkaufsbedingungen zugrunde.
 
@@ -214,7 +214,7 @@ which is applicable to this assignment, the provisions of such contracts will
 
 prevail over the framework agreement as well as over these General Terms and
 
-Conditions of United Internet for Procurements..
+Conditions of United Internet for Procurements.
 
 2.6. In einer Auftragsbestätigung gegenüber dem Inhalt der Bestellung vorgenommene
 
@@ -264,7 +264,7 @@ Fassung Vorrang.
 
 and English version of these General Terms and Conditions of United Internet
 
-for Procurements, the German version shall prevail.
+AG for Procurements, the German version shall prevail.
 
 
 
@@ -344,7 +344,7 @@ GENERAL TERMS AND CONDITIONS OF United Internet AG FOR PROCUREMENTS
 
 
 
-V e r s i o n 4 . 0 0 3 - 2 4 S e i t e / P a g e 2 | 6
+V e r s i o n 4 . 1 1 1 - 2 4 S e i t e / P a g e 2 | 6
 
 
 
@@ -674,7 +674,7 @@ GENERAL TERMS AND CONDITIONS OF United Internet AG FOR PROCUREMENTS
 
 
 
-V e r s i o n 4 . 0 0 3 - 2 4 S e i t e / P a g e 3 | 6
+V e r s i o n 4 . 1 1 1 - 2 4 S e i t e / P a g e 3 | 6
 
 
 
@@ -1008,7 +1008,7 @@ GENERAL TERMS AND CONDITIONS OF United Internet AG FOR PROCUREMENTS
 
 
 
-V e r s i o n 4 . 0 0 3 - 2 4 S e i t e / P a g e 4 | 6
+V e r s i o n 4 . 1 1 1 - 2 4 S e i t e / P a g e 4 | 6
 
 
 
@@ -1346,7 +1346,7 @@ GENERAL TERMS AND CONDITIONS OF United Internet AG FOR PROCUREMENTS
 
 
 
-V e r s i o n 4 . 0 0 3 - 2 4 S e i t e / P a g e 5 | 6
+V e r s i o n 4 . 1 1 1 - 2 4 S e i t e / P a g e 5 | 6
 
 
 
@@ -1370,7 +1370,7 @@ Terms of Use of VPN access for external agents.
 
 
 
-15\. Gesetzliche Bestimmungen; Hinweispflichten; Import-/Exportbestimmungen 15. Statutory provisions; obligation to inform; import and export
+15. Gesetzliche Bestimmungen; Hinweispflichten; Import-/Exportbestimmungen 15. Statutory provisions; obligation to inform; import and export
 
 provisions
 
@@ -1472,7 +1472,7 @@ available to the contractor upon request.
 
 
 
-17\. Einhaltung menschenrechtlicher und umweltbezogener Sorgfaltspflichten 17\. Compliance With Human Rights and Environmental Due Diligence
+17. Einhaltung menschenrechtlicher und umweltbezogener Sorgfaltspflichten 17\. Compliance with Human Rights and Environmental Due Diligence
 
 Obligations
 
@@ -1494,13 +1494,15 @@ ner_der_United_Internet_AG.pdf
 
 (deutsche Version) bzw.
 
-https://imagepool.1und1.ag/v2/download/Supplier_Code_of_Conduct_1u1.pdf
+https://www.united-
 
-(englische Version) zum Download bereit. Sofern es sich bei dem kontrahierenden
+internet.de/fileadmin/company/verantwortung/Supplier_Code_of_Conduct_United_Int
 
-Konzernunternehmen der United Internet um ein solches der 1\&1 AG handelt, findet
+ernet_AG.pdf (englische Version) zum Download bereit. Sofern es sich bei dem
 
-sich der 1\&1 Supplier Code of Conduct unter
+kontrahierenden Konzernunternehmen der United Internet um ein solches der 1\&1 AG
+
+handelt, findet sich der 1\&1 Supplier Code of Conduct unter
 
 https://imagepool.1und1.ag/v2/download/1u1_Geschaeftspartnerkodex_01_11_2023
 
@@ -1534,19 +1536,23 @@ internet.de/fileadmin/company/verantwortung/Verhaltenskodex_fuer_Geschaef
 
 tspartner_der_United_Internet_AG.pdf
 
-(Germanversion) and
+(German version) and
 
-https://imagepool.1und1.ag/v2/download/Supplier_Code_of_Conduct_1u1.pdf
+https://www.united-
 
-(English version). If the contracting company of the United Internet Group is a
+internet.de/fileadmin/company/verantwortung/Supplier_Code_of_Conduct_Unit
 
-company of 1\&1 AG, the 1\&1 Supplier Code of Conduct can be downloaded at
+ed_Internet_AG.pdf (English version). If the contracting company of the United
+
+Internet Group is a company of 1\&1 AG, the 1\&1 Supplier Code of Conduct
+
+can be downloaded at
 
 https://imagepool.1und1.ag/v2/download/1u1_Geschaeftspartnerkodex_01_11
 
 \_2023.pdf
 
-(Germanversion) or
+(German version) or
 
 https://imagepool.1und1.ag/v2/download/Supplier_Code_of_Conduct_1u1.pdf
 
@@ -1557,8 +1563,6 @@ the Supplier Code of Conduct if United Internet's human rights and
 environmental expectations change and will inform the Contractor as soon as
 
 possible.
-
-
 
 17.2. Der AN gibt die wesentlichen Bestimmungen der Supplier Code of Conducts an
 
@@ -1668,7 +1672,7 @@ GENERAL TERMS AND CONDITIONS OF United Internet AG FOR PROCUREMENTS
 
 
 
-V e r s i o n 4 . 0 0 3 - 2 4 S e i t e / P a g e 6 | 6
+V e r s i o n 4 . 1 1 1 - 2 4 S e i t e / P a g e 6 | 6
 
 
 
