@@ -243,35 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/JH522830-pine-grove-surf-326x245.jpg)](https://cwbchicago.com/2024/11/man-shot-critically-injured-while-handling-gun-with-girlfriend-in-lakeview.html "Man shot, critically injured while handling gun with girlfriend in Lakeview")
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Glenn-Russell-326x245.jpg)](https://cwbchicago.com/2024/11/man-wanted-for-summertime-shooting-is-arrested-during-traffic-stop-in-alabama.html "Man wanted for summertime shooting is arrested during traffic stop in Alabama")
 
-Lakeview
+Austin
 
-### [Man shot, critically injured while handling gun with girlfriend in Lakeview](https://cwbchicago.com/2024/11/man-shot-critically-injured-while-handling-gun-with-girlfriend-in-lakeview.html "Man shot, critically injured while handling gun with girlfriend in Lakeview")
+### [Man wanted for summertime shooting is arrested during traffic stop in Alabama](https://cwbchicago.com/2024/11/man-wanted-for-summertime-shooting-is-arrested-during-traffic-stop-in-alabama.html "Man wanted for summertime shooting is arrested during traffic stop in Alabama")
 
-[November 27, 2024 7:29 AM](https://cwbchicago.com/2024/11)
+[November 27, 2024 8:19 PM](https://cwbchicago.com/2024/11)
 
-A woman is being questioned by detectives after a man was shot while handling a gun with her in Lakeview on Wednesday morning.[](https://cwbchicago.com/2024/11/man-shot-critically-injured-while-handling-gun-with-girlfriend-in-lakeview.html "Man shot, critically injured while handling gun with girlfriend in Lakeview")
+A man wanted for attempted murder on allegations he shot a man outside an Austin convenience store this summer is in custody after being stopped by police for a minor traffic violation in Alabama.[](https://cwbchicago.com/2024/11/man-wanted-for-summertime-shooting-is-arrested-during-traffic-stop-in-alabama.html "Man wanted for summertime shooting is arrested during traffic stop in Alabama")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Bean-Marion-Richardson-326x245.jpg)](https://cwbchicago.com/2024/11/not-guilty-man-aquitted-of-murdering-teen-during-large-group-incident-in-millennium-park.html "Not guilty! Man aquitted of murdering teen during ‘large group’ incident in Millennium Park")
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/JH523475-2400-blk-north-clark-041A-326x245.jpg)](https://cwbchicago.com/2024/11/bystander-shoots-erratic-man-on-clark-street-lincoln-park-alderman-says.html "Bystander shoots ‘erratic’ man on Clark Street, Lincoln Park alderman says")
 
-Loop
+Lincoln Park
 
-### [Not guilty! Man aquitted of murdering teen during ‘large group’ incident in Millennium Park](https://cwbchicago.com/2024/11/not-guilty-man-aquitted-of-murdering-teen-during-large-group-incident-in-millennium-park.html "Not guilty! Man aquitted of murdering teen during ‘large group’ incident in Millennium Park")
+### [Bystander shoots ‘erratic’ man on Clark Street, Lincoln Park alderman says](https://cwbchicago.com/2024/11/bystander-shoots-erratic-man-on-clark-street-lincoln-park-alderman-says.html "Bystander shoots ‘erratic’ man on Clark Street, Lincoln Park alderman says")
 
-[November 27, 2024 6:44 AM](https://cwbchicago.com/2024/11)
+[November 27, 2024 7:34 PM](https://cwbchicago.com/2024/11)
 
-A judge has found a man not guilty of murdering 16-year-old Seandell Holiday during a “large group” incident in Millennium Park. The shooting prompted Chicago Mayor Lori Lightfoot to largely ban minors from the park, which she encircled with fencing and metal detectors.[](https://cwbchicago.com/2024/11/not-guilty-man-aquitted-of-murdering-teen-during-large-group-incident-in-millennium-park.html "Not guilty! Man aquitted of murdering teen during ‘large group’ incident in Millennium Park")
+A man is in critical condition after someone shot him as he was “exhibiting erratic and dangerous behavior” on a busy Lincoln Park street Wednesday afternoon, according to the local alderman.[](https://cwbchicago.com/2024/11/bystander-shoots-erratic-man-on-clark-street-lincoln-park-alderman-says.html "Bystander shoots ‘erratic’ man on Clark Street, Lincoln Park alderman says")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Kemari-Johnson-326x245.jpg)](https://cwbchicago.com/2024/11/inmate-who-surrendered-gun-inside-cook-county-jail-found-the-weapon-shortly-before-turning-it-in-source-says.html "Inmate who surrendered gun inside Cook County jail found the weapon shortly before turning it in, source says")
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/JH510348-susp-326x245.jpg)](https://cwbchicago.com/2024/11/cops-seek-2-men-who-beat-tried-to-rob-red-line-passenger-on-north-side.html "Cops seek 2 men who beat, tried to rob Red Line passenger on North Side")
 
-Citywide
+CTA
 
-### [Inmate who surrendered gun inside Cook County jail found the weapon shortly before turning it in, source says](https://cwbchicago.com/2024/11/inmate-who-surrendered-gun-inside-cook-county-jail-found-the-weapon-shortly-before-turning-it-in-source-says.html "Inmate who surrendered gun inside Cook County jail found the weapon shortly before turning it in, source says")
+### [Cops seek 2 men who beat, tried to rob Red Line passenger on North Side](https://cwbchicago.com/2024/11/cops-seek-2-men-who-beat-tried-to-rob-red-line-passenger-on-north-side.html "Cops seek 2 men who beat, tried to rob Red Line passenger on North Side")
 
-[November 26, 2024 7:42 PM](https://cwbchicago.com/2024/11)
+[November 27, 2024 12:09 PM](https://cwbchicago.com/2024/11)
 
-Investigators are still trying to determine how a firearm surrendered by an inmate at the Cook County jail last week was brought into the facility. But a source said he found it shortly before turning it in.[](https://cwbchicago.com/2024/11/inmate-who-surrendered-gun-inside-cook-county-jail-found-the-weapon-shortly-before-turning-it-in-source-says.html "Inmate who surrendered gun inside Cook County jail found the weapon shortly before turning it in, source says")
+Police are trying to track down two men who attacked and tried to rob Red Line passenger in Rogers Park.[](https://cwbchicago.com/2024/11/cops-seek-2-men-who-beat-tried-to-rob-red-line-passenger-on-north-side.html "Cops seek 2 men who beat, tried to rob Red Line passenger on North Side")
 
 Search
 
