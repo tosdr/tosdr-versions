@@ -47,7 +47,7 @@
         *  [![FAVE Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) FAVE](https://www.songkick.com/artists/10356849-fave)
         *  [![Lecade Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Lecade](https://www.songkick.com/artists/10356816-lecade)
         *  [![Dthang Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Dthang](https://www.songkick.com/artists/10355326-dthang)
-        *  [![Dream state Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Dream state](https://www.songkick.com/artists/10356316-dream-state)
+        *  [![Dream State Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Dream State](https://www.songkick.com/artists/10356316-dream-state)
         
         Get your tour dates seen by one billion fans: [Sign up as an artist](https://tourbox.songkick.com/?utm_medium=referral&utm_source=songkick.com&utm_campaign=visitor)
         
