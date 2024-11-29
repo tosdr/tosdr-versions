@@ -976,9 +976,9 @@ Share on linkedin
 
 #### RECENT NEWS
 
-[![](https://www.gensolve.com/nz/wp-content/uploads/sites/5/2024/10/gpmwebthmb.jpg)](https://www.gensolve.com/nz/2024/10/03/browser-booking-sneak-peek-nz/)
+[![](https://www.gensolve.com/nz/wp-content/uploads/sites/5/2024/11/7.15-nz-4.jpg)](https://www.gensolve.com/nz/2024/11/29/gensolve-7-15-release-new-zealand/)
 
-### [The future of Gensolve has arrived: Introducing our New Practice Manager and Booking Portal.](https://www.gensolve.com/nz/2024/10/03/browser-booking-sneak-peek-nz/)
+### [Gensolve 7.15 Release – New Zealand](https://www.gensolve.com/nz/2024/11/29/gensolve-7-15-release-new-zealand/)
 
 #### SUBSCRIBE
 
