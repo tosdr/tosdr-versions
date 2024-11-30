@@ -275,7 +275,7 @@ article 4 days ago](https://www.nasa.gov/general/nasas-commercial-partners-make-
 
 ### NASA Marshall Thermal Engineering Lab Provides Key Insight to Human Landing System
 
-article 7 days ago](https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-marshall-thermal-engineering-lab-provides-key-insight-to-human-landing-system/)[![NASA astronaut and Expedition 72 Flight Engineer Nick Hague pedals on the Cycle Ergometer with Vibration Isolation and Stabilization (CEVIS), an exercise cycle located aboard the International Space Station's Destiny laboratory module. CEVIS provides aerobic and cardiovascular conditioning through recumbent (leaning back position) or upright cycling activities.](https://images-assets.nasa.gov/image/iss072e034702/iss072e034702~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint)
+article 1 week ago](https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-marshall-thermal-engineering-lab-provides-key-insight-to-human-landing-system/)[![NASA astronaut and Expedition 72 Flight Engineer Nick Hague pedals on the Cycle Ergometer with Vibration Isolation and Stabilization (CEVIS), an exercise cycle located aboard the International Space Station's Destiny laboratory module. CEVIS provides aerobic and cardiovascular conditioning through recumbent (leaning back position) or upright cycling activities.](https://images-assets.nasa.gov/image/iss072e034702/iss072e034702~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint)
 
 8 min read
 
@@ -307,7 +307,13 @@ article 1 week ago](https://science.nasa.gov/researchers/solicitations/roses-202
 
 ### Highlights
 
-[![Amendment 73: D.13 Astrophysics Pioneers Substantial Revisions](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26185/PIA26185.jpg)
+[![December’s Night Sky Notes: Spot the King of Planets](https://images-assets.nasa.gov/image/PIA25019/PIA25019~large.jpg)
+
+4 min read
+
+### December’s Night Sky Notes: Spot the King of Planets
+
+article 15 hours ago](https://science.nasa.gov/solar-system/skywatching/night-sky-network/dec2024-night-sky-notes/)[![Amendment 73: D.13 Astrophysics Pioneers Substantial Revisions](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26185/PIA26185.jpg)
 
 2 min read
 
@@ -319,13 +325,7 @@ article 3 days ago](https://science.nasa.gov/researchers/solicitations/roses-202
 
 ### Amendment 71: F.11 Stand-Alone Landing Site-Agnostic Payloads and Research Investigations on the Surface of the Moon Final Text and Due Dates Released.
 
-article 3 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-71-f-11-stand-alone-landing-site-agnostic-payloads-and-research-investigations-on-the-surface-of-the-moon-final-text-and-due-dates-released/)[![Europa Clipper illustration](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia26443-spacecraft-illustration.jpg?w=1024)
-
-5 min read
-
-### NASA’s Europa Clipper: Millions of Miles Down, Instruments Deploying
-
-article 4 days ago](https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-millions-of-miles-down-instruments-deploying/)
+article 3 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-71-f-11-stand-alone-landing-site-agnostic-payloads-and-research-investigations-on-the-surface-of-the-moon-final-text-and-due-dates-released/)
 
 ### Featured
 
@@ -379,7 +379,7 @@ article 3 days ago](https://science.nasa.gov/researchers/solicitations/roses-202
 
 ### NASA Engineer Carries Indigenous Roots into New Aviation Era
 
-article 1 week ago](https://www.nasa.gov/centers-and-facilities/glenn/nasa-engineer-carries-indigenous-roots-into-new-aviation-era/)[![A white building surrounded by external equipment in front of a blue sky with clouds.](https://www.nasa.gov/wp-content/uploads/2024/11/1-grc-2015-c-07729.jpg?w=1024)
+article 2 weeks ago](https://www.nasa.gov/centers-and-facilities/glenn/nasa-engineer-carries-indigenous-roots-into-new-aviation-era/)[![A white building surrounded by external equipment in front of a blue sky with clouds.](https://www.nasa.gov/wp-content/uploads/2024/11/1-grc-2015-c-07729.jpg?w=1024)
 
 2 min read
 
@@ -435,7 +435,7 @@ article 2 days ago](https://science.nasa.gov/learn/nasa-science-activation-oppor
 
 ### Why NASA Is a Great Place to Launch Your Career 
 
-article 7 days ago](https://www.nasa.gov/learning-resources/launch-your-career/)
+article 1 week ago](https://www.nasa.gov/learning-resources/launch-your-career/)
 
 ### Featured
 
@@ -457,7 +457,7 @@ article 4 days ago](https://www.nasa.gov/general/nasas-commercial-partners-make-
 
 ### Why NASA Is a Great Place to Launch Your Career 
 
-article 7 days ago](https://www.nasa.gov/learning-resources/launch-your-career/)
+article 1 week ago](https://www.nasa.gov/learning-resources/launch-your-career/)
 
 ### Highlights
 
@@ -473,7 +473,7 @@ article 3 weeks ago](https://www.nasa.gov/es/el-x-59-enciende-su-motor-por-prime
 
 ### La NASA lleva un dron y un rover espacial a un espectáculo aéreo
 
-article 4 weeks ago](https://www.nasa.gov/centers-and-facilities/armstrong/la-nasa-lleva-un-dron-y-un-rover-espacial-a-un-espectaculo-aereo/)[![A man wearing a gray NASA shirt posing to the left of a subscale model or an aircraft that is orange and white with the NASA meatball on it. In the background, there are aviation posters located on the wall and another subscale model on display that is yellow and red.](https://www.nasa.gov/wp-content/uploads/2024/10/felipe-valdez-afrc-.jpg?w=1024)
+article 1 month ago](https://www.nasa.gov/centers-and-facilities/armstrong/la-nasa-lleva-un-dron-y-un-rover-espacial-a-un-espectaculo-aereo/)[![A man wearing a gray NASA shirt posing to the left of a subscale model or an aircraft that is orange and white with the NASA meatball on it. In the background, there are aviation posters located on the wall and another subscale model on display that is yellow and red.](https://www.nasa.gov/wp-content/uploads/2024/10/felipe-valdez-afrc-.jpg?w=1024)
 
 4 min read
 
