@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/vaccinaties-gezondheid/ab-osterhaus-de-fles-jongens-de-griep-is-doorgebroken/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/media/goldman-sachs-en-t-vernietigde-griekenland/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
