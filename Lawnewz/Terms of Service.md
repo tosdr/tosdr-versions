@@ -279,23 +279,23 @@ Sponsor may conduct a background check to confirm any potential winner’s eligi
 Top of Today
 ------------
 
-1. [![Inset: Gregory Grant (Escambia County Sheriff's Office). Background: The home where Grant allegedly stabbed his ex's new husband (Google Maps).](https://lawandcrime.com/wp-content/uploads/2024/11/afgsdgd-432x243.jpg)](https://lawandcrime.com/crime/man-told-ex-wifes-new-husband-to-flake-off-before-stabbing-him-in-stomach-on-thanksgiving-morning-sheriff/)
+1. [![Inset: Gregory Grant (Escambia County Sheriff's Office). Background: The home where Grant allegedly stabbed his ex's new husband (Google Maps).](https://am21.mediaite.com/lc/cnt/uploads/2024/11/afgsdgd-432x243.jpg)](https://lawandcrime.com/crime/man-told-ex-wifes-new-husband-to-flake-off-before-stabbing-him-in-stomach-on-thanksgiving-morning-sheriff/)
     
     ### [Man told ex-wife's new husband to 'flake off' before stabbing him in stomach on Thanksgiving morning: Sheriff](https://lawandcrime.com/crime/man-told-ex-wifes-new-husband-to-flake-off-before-stabbing-him-in-stomach-on-thanksgiving-morning-sheriff/)
     
-2. [![Left: Shayla Curts (Ever Loved, Inc.). Right: Emmett C. Williams (Jackson County Detention Center).](https://lawandcrime.com/wp-content/uploads/2024/11/momurder-432x243.jpg)](https://lawandcrime.com/crime/man-shot-pregnant-mother-of-2-because-she-was-always-antagonizing-him/)
+2. [![Left: Shayla Curts (Ever Loved, Inc.). Right: Emmett C. Williams (Jackson County Detention Center).](https://am24.mediaite.com/lc/cnt/uploads/2024/11/momurder-432x243.jpg)](https://lawandcrime.com/crime/man-shot-pregnant-mother-of-2-because-she-was-always-antagonizing-him/)
     
     ### [Man shot pregnant mother of 2 because she was 'always antagonizing' him](https://lawandcrime.com/crime/man-shot-pregnant-mother-of-2-because-she-was-always-antagonizing-him/)
     
-3. [![Background: Jeffrey Arthur Moynihan Jr. is seen on police body camera footage (Bradenton Police Department). Inset left: Elon Musk arrives for the 2022 Met Gala at the Metropolitan Museum of Art on May 2, 2022, in New York (Photo by Dimitrios Kambouris/Getty Images for The Met Museum/Vogue). Inset right: Jeffrey Arthur Moynihan Jr. (Bradenton Police Department).](https://lawandcrime.com/wp-content/uploads/2024/11/Jeffrey-Arthur-Moynihan-Jr-432x243.jpg)](https://lawandcrime.com/video/bodycam-cops-arrest-man-for-allegedly-posing-as-elon-musk-to-cheat-elderly-woman-out-of-money/)
+3. [![Background: Jeffrey Arthur Moynihan Jr. is seen on police body camera footage (Bradenton Police Department). Inset left: Elon Musk arrives for the 2022 Met Gala at the Metropolitan Museum of Art on May 2, 2022, in New York (Photo by Dimitrios Kambouris/Getty Images for The Met Museum/Vogue). Inset right: Jeffrey Arthur Moynihan Jr. (Bradenton Police Department).](https://am24.mediaite.com/lc/cnt/uploads/2024/11/Jeffrey-Arthur-Moynihan-Jr-432x243.jpg)](https://lawandcrime.com/video/bodycam-cops-arrest-man-for-allegedly-posing-as-elon-musk-to-cheat-elderly-woman-out-of-money/)
     
     ### [Bodycam: Cops arrest man for allegedly posing as Elon Musk to cheat elderly woman out of money](https://lawandcrime.com/video/bodycam-cops-arrest-man-for-allegedly-posing-as-elon-musk-to-cheat-elderly-woman-out-of-money/)
     
-4. [![Left to right: Joshua Druid Bryan and Regan Emily Bryan (Madison County Detention Center).](https://lawandcrime.com/wp-content/uploads/2024/11/murderforhire-432x243.jpg)](https://lawandcrime.com/crime/this-is-f-ing-over-with-siblings-tried-to-hire-hit-man-to-kill-stepfather-for-his-life-insurance-money/)
+4. [![Left to right: Joshua Druid Bryan and Regan Emily Bryan (Madison County Detention Center).](https://am23.mediaite.com/lc/cnt/uploads/2024/11/murderforhire-432x243.jpg)](https://lawandcrime.com/crime/this-is-f-ing-over-with-siblings-tried-to-hire-hit-man-to-kill-stepfather-for-his-life-insurance-money/)
     
     ### ['This is f---ing over with': Siblings tried to hire hit man to kill stepfather for his life insurance money](https://lawandcrime.com/crime/this-is-f-ing-over-with-siblings-tried-to-hire-hit-man-to-kill-stepfather-for-his-life-insurance-money/)
     
-5. [![Left: Matthew G. Speck. Right: Caitlin C. Speck and her dog, Bailey Mae (Ninth Circuit Solicitor's Office).](https://lawandcrime.com/wp-content/uploads/2024/11/fghfeiuhgf-432x243.jpg)](https://lawandcrime.com/crime/man-researched-choking-death-and-cyanide-poisoning-before-shooting-sleeping-wife-and-dog-then-staging-break-in/)
+5. [![Left: Matthew G. Speck. Right: Caitlin C. Speck and her dog, Bailey Mae (Ninth Circuit Solicitor's Office).](https://am21.mediaite.com/lc/cnt/uploads/2024/11/fghfeiuhgf-432x243.jpg)](https://lawandcrime.com/crime/man-researched-choking-death-and-cyanide-poisoning-before-shooting-sleeping-wife-and-dog-then-staging-break-in/)
     
     ### [Man researched 'choking death and cyanide poisoning' before shooting sleeping wife and dog then staging break-in](https://lawandcrime.com/crime/man-researched-choking-death-and-cyanide-poisoning-before-shooting-sleeping-wife-and-dog-then-staging-break-in/)
     
