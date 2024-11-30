@@ -21,6 +21,8 @@
 [Terms of Use Agreement](https://www.openculture.com/terms_of_use_agreement "Permanent Link to Terms of Use Agreement")
 =======================================================================================================================
 
+[](https://www.addtoany.com/add_to/bluesky?linkurl=https%3A%2F%2Fwww.openculture.com%2Fterms_of_use_agreement&linkname=Terms%20of%20Use%20Agreement "Bluesky")[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.openculture.com%2Fterms_of_use_agreement&linkname=Terms%20of%20Use%20Agreement "Facebook")[](https://www.addtoany.com/add_to/threads?linkurl=https%3A%2F%2Fwww.openculture.com%2Fterms_of_use_agreement&linkname=Terms%20of%20Use%20Agreement "Threads")[](https://www.addtoany.com/add_to/mastodon?linkurl=https%3A%2F%2Fwww.openculture.com%2Fterms_of_use_agreement&linkname=Terms%20of%20Use%20Agreement "Mastodon")[](https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Fwww.openculture.com%2Fterms_of_use_agreement&linkname=Terms%20of%20Use%20Agreement "Reddit")[](https://www.addtoany.com/add_to/sms?linkurl=https%3A%2F%2Fwww.openculture.com%2Fterms_of_use_agreement&linkname=Terms%20of%20Use%20Agreement "Message")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.openculture.com%2Fterms_of_use_agreement&linkname=Terms%20of%20Use%20Agreement "Email")[](https://www.addtoany.com/share)
+
 This Agree­ment was last revised on July 28, 2024
 
 Wel­come to the online ser­vice of Open Cul­ture, LLC. (“Open Cul­ture,” “we,” or “us”).  This page explains the terms by which you may use Open Culture’s online and/or mobile ser­vices and web sites (col­lec­tive­ly the “Ser­vice”).  By access­ing or using the Ser­vice, you sig­ni­fy that you have read, under­stood, and agree to be bound by this Terms of Use Agree­ment (“Agree­ment”) and to the col­lec­tion and use of your infor­ma­tion as set forth in the [Open Cul­ture Pri­va­cy Pol­i­cy](http://www.openculture.com/privacy_policy) whether or not you are a reg­is­tered user of our Ser­vice.
@@ -179,6 +181,8 @@ Please con­tact us at [ma\*\*@op\*\*\*\*\*\*\*\*\*.com](mailto:op*********@op**
 **Recent Updates**
 
 See sec­tion 15.)
+
+[](https://www.addtoany.com/add_to/bluesky?linkurl=https%3A%2F%2Fwww.openculture.com%2Fterms_of_use_agreement&linkname=Terms%20of%20Use%20Agreement "Bluesky")[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.openculture.com%2Fterms_of_use_agreement&linkname=Terms%20of%20Use%20Agreement "Facebook")[](https://www.addtoany.com/add_to/threads?linkurl=https%3A%2F%2Fwww.openculture.com%2Fterms_of_use_agreement&linkname=Terms%20of%20Use%20Agreement "Threads")[](https://www.addtoany.com/add_to/mastodon?linkurl=https%3A%2F%2Fwww.openculture.com%2Fterms_of_use_agreement&linkname=Terms%20of%20Use%20Agreement "Mastodon")[](https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Fwww.openculture.com%2Fterms_of_use_agreement&linkname=Terms%20of%20Use%20Agreement "Reddit")[](https://www.addtoany.com/add_to/sms?linkurl=https%3A%2F%2Fwww.openculture.com%2Fterms_of_use_agreement&linkname=Terms%20of%20Use%20Agreement "Message")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.openculture.com%2Fterms_of_use_agreement&linkname=Terms%20of%20Use%20Agreement "Email")[](https://www.addtoany.com/share)
 
 **Sup­port Open Cul­ture**
 
@@ -507,7 +511,7 @@ We’re hop­ing to rely on our loy­al read­ers rather than errat­ic ads. To 
     * [Writing](https://www.openculture.com/category/writing)
     * [Yale](https://www.openculture.com/category/yale)
     * [YouTube](https://www.openculture.com/category/youtube)
-* [](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.openculture.com%2Fterms_of_use_agreement&linkname=Terms%20of%20Use%20Agreement "Facebook")[](https://www.addtoany.com/add_to/threads?linkurl=https%3A%2F%2Fwww.openculture.com%2Fterms_of_use_agreement&linkname=Terms%20of%20Use%20Agreement "Threads")[](https://www.addtoany.com/add_to/mastodon?linkurl=https%3A%2F%2Fwww.openculture.com%2Fterms_of_use_agreement&linkname=Terms%20of%20Use%20Agreement "Mastodon")[](https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Fwww.openculture.com%2Fterms_of_use_agreement&linkname=Terms%20of%20Use%20Agreement "Reddit")[](https://www.addtoany.com/add_to/sms?linkurl=https%3A%2F%2Fwww.openculture.com%2Fterms_of_use_agreement&linkname=Terms%20of%20Use%20Agreement "Message")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.openculture.com%2Fterms_of_use_agreement&linkname=Terms%20of%20Use%20Agreement "Email")[](https://www.addtoany.com/share)
+* [](https://www.addtoany.com/add_to/bluesky?linkurl=https%3A%2F%2Fwww.openculture.com%2Fterms_of_use_agreement&linkname=Terms%20of%20Use%20Agreement "Bluesky")[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.openculture.com%2Fterms_of_use_agreement&linkname=Terms%20of%20Use%20Agreement "Facebook")[](https://www.addtoany.com/add_to/threads?linkurl=https%3A%2F%2Fwww.openculture.com%2Fterms_of_use_agreement&linkname=Terms%20of%20Use%20Agreement "Threads")[](https://www.addtoany.com/add_to/mastodon?linkurl=https%3A%2F%2Fwww.openculture.com%2Fterms_of_use_agreement&linkname=Terms%20of%20Use%20Agreement "Mastodon")[](https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Fwww.openculture.com%2Fterms_of_use_agreement&linkname=Terms%20of%20Use%20Agreement "Reddit")[](https://www.addtoany.com/add_to/sms?linkurl=https%3A%2F%2Fwww.openculture.com%2Fterms_of_use_agreement&linkname=Terms%20of%20Use%20Agreement "Message")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.openculture.com%2Fterms_of_use_agreement&linkname=Terms%20of%20Use%20Agreement "Email")[](https://www.addtoany.com/share)
     
 
 * Great Lectures
@@ -546,7 +550,7 @@ We’re hop­ing to rely on our loy­al read­ers rather than errat­ic ads. To 
     
     ![](https://www.openculture.com/wp-content/plugins/native-lazyload/assets/images/placeholder.svg "click to reload")
     
-    ![](https://www.openculture.com/wp-admin/admin-ajax.php?action=mailster_coolcaptcha_img&nocache=1732910590&formid=1 "click to reload")
+    ![](https://www.openculture.com/wp-admin/admin-ajax.php?action=mailster_coolcaptcha_img&nocache=1732930604&formid=1 "click to reload")
     
 * About Us
     --------
@@ -892,5 +896,3 @@ All rights reserved.
   
 
 ![Quantcast](//pixel.quantserve.com/pixel/p-0dRTlf6K0FnoM.gif)
-
-Open Culture was founded by [Dan Colman.](https://www.linkedin.com/in/dancolman "Linkedin")
