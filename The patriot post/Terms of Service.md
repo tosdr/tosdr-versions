@@ -215,9 +215,6 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 *      [Josh Hammer Gratitude Is Our Defining Ideal](https://patriotpost.us/opinion/112440-gratitude-is-our-defining-ideal-2024-11-29)
 *      [Ann Coulter The Dems’ Thanksgiving Story Deserves to Be Known](https://patriotpost.us/opinion/112439-the-dems-thanksgiving-story-deserves-to-be-known-2024-11-29)
 *      [Michael Barone The Groups and Barista Proletariat of the Democratic Party](https://patriotpost.us/opinion/112437-the-groups-and-barista-proletariat-of-the-democratic-party-2024-11-29)
-*      [Armstrong Williams Thanksgiving in a World That Forgets Gratitude](https://patriotpost.us/opinion/112444-thanksgiving-in-a-world-that-forgets-gratitude-2024-11-29)
-*      [Terence Jeffrey Congress Asked Americans to Give Thanks for the Constitution](https://patriotpost.us/opinion/112438-congress-asked-americans-to-give-thanks-for-the-constitution-2024-11-29) 
-*      [The Washington Stand Study: DEI Training Makes You More Likely to Agree With … Literally Hitler](https://patriotpost.us/opinion/112447-study-dei-training-makes-you-more-likely-to-agree-with-dot-dot-dot-literally-hitler-2024-11-29)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -231,7 +228,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J82YASE4QNMY5QGPJZ5PECFM.jpeg)](https://patriotpostshop.com/collections/founders-wisdom-coffee)
+[![](https://img.patriotpost.us/01JAZT6VDT6H9HTK9EJ190K832.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
