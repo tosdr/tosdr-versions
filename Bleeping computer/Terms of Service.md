@@ -36,18 +36,18 @@
         
         Chinese hackers breached T-Mobile's routers to scope out network](https://www.bleepingcomputer.com/news/security/chinese-hackers-breached-t-mobiles-routers-to-scope-out-network/)
     
+    * [![SpyLoan Android malware on Google play installed 8 million times](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        SpyLoan Android malware on Google play installed 8 million times](https://www.bleepingcomputer.com/news/security/spyloan-android-malware-on-google-play-installed-8-million-times/)
+    * [![Study for in-demand Microsoft certifications in this $55 course deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Study for in-demand Microsoft certifications in this $55 course deal](https://www.bleepingcomputer.com/offer/deals/study-for-in-demand-microsoft-certifications-in-this-55-course-deal/)
     * [![Black Friday Sale: this 130-hour ethical hacking course is only $35](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Black Friday Sale: this 130-hour ethical hacking course is only $35](https://www.bleepingcomputer.com/offer/deals/black-friday-sale-this-130-hour-ethical-hacking-course-is-only-35/)
     * [![New Rockstar 2FA phishing service targets Microsoft 365 accounts](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         New Rockstar 2FA phishing service targets Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/new-rockstar-2fa-phishing-service-targets-microsoft-365-accounts/)
-    * [![Russia arrests cybercriminal Wazawaka for ties with ransomware gangs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Russia arrests cybercriminal Wazawaka for ties with ransomware gangs](https://www.bleepingcomputer.com/news/security/russia-arrests-cybercriminal-wazawaka-for-ties-with-ransomware-gangs/)
-    * [![Bologna FC confirms data breach after RansomHub ransomware attack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Bologna FC confirms data breach after RansomHub ransomware attack](https://www.bleepingcomputer.com/news/security/bologna-fc-confirms-data-breach-after-ransomhub-ransomware-attack/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
