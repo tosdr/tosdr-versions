@@ -205,23 +205,25 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [GovTeen, Vampire Freaks, GameFAQs, and IGN](https://www.somethingawful.com/weekend-web/govteen-vampire-freaks/1/)
-* [Rare Bazooka Joe Comics](https://www.somethingawful.com/news/bazooka-joe/1/)
-* [2018 Holiday Gift Guide For People You Love, Hate, and Won't Buy a Gift For](https://www.somethingawful.com/video-game-article/gift-guide-2018/)
-* [My Shameful Gaming Confessions](https://www.somethingawful.com/video-game-article/confession-game-shameful/)
-* [101 SWITCH GAMES ON ONE CART $10 GREAT VALUE cart may be blank](https://www.somethingawful.com/video-game-article/games-deal-101/)
+* [The Best of the Spore Creature Creator](https://www.somethingawful.com/comedy-goldmine/goons-spore-creature/1/)
+* [AwfulVision: I think I'm turning Japanese!](https://www.somethingawful.com/awfulvision/otaku-anime-japan/1/)
+* [December 21, 2010](https://www.somethingawful.com/forum-fridays/ff12-21-10/1/)
+* [September 14, 2010](https://www.somethingawful.com/forum-fridays/ff09-14-10/1/)
+* [Bad Dragon](https://www.somethingawful.com/weekend-web/bad-dragon/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/guns-review.gif) [Made in USA - Supporting our fellow countrypeople](http://forums.somethingawful.com/showthread.php?threadid=4076499 "Made in USA - Supporting our fellow countrypeople")
+* ![](https://fi.somethingawful.com/forums/posticons/dd-9-11.gif) [You have found an abandoned pet bird itt](http://forums.somethingawful.com/showthread.php?threadid=4076559 "You have found an abandoned pet bird itt")
+* ![](https://fi.somethingawful.com/forums/posticons/cd_hype.gif) [does anyone still use tumblr?](http://forums.somethingawful.com/showthread.php?threadid=4076564 "does anyone still use tumblr?")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [This is Ghost. The Christmas alpaca.](http://forums.somethingawful.com/showthread.php?threadid=4076563 "This is Ghost. The Christmas alpaca.")
 
 ### Random Articles
 
-* [The Final Frontiersman](https://www.somethingawful.com/news/space-camp-astronaut/)
-* [Terrible Tie-In Products!](https://www.somethingawful.com/photoshop-phriday/terrible-tiein-products/1/)
-* [Maxcat's Giantess Realm](https://www.somethingawful.com/awful-links/awful-link-2169/)
-* [Garfield Cooks Up Trouble is the most offensive and dangerous book I've ever read](https://www.somethingawful.com/news/black-witch-sinyard/)
-* [The Ki Sanctuary](https://www.somethingawful.com/awful-links/awful-link-2325/)
+* [Musgrave Global Solutions Report: Cake Shows](https://www.somethingawful.com/news/musgrave-cake-shows/)
+* [Fun Christmas Activity Cards!](https://www.somethingawful.com/news/xmas-card-fun/)
+* [The Hangover Part III; Epic](https://www.somethingawful.com/current-movie-reviews/hangover-part-epic/1/)
+* [Photoshopping the Library of Congress](https://www.somethingawful.com/photoshop-phriday/photoshopping-library-congress/1/)
+* [Binary Bodies](https://www.somethingawful.com/awful-links/awful-link-1653/)
 
 [Random!](https://www.somethingawful.com/random/)
 
