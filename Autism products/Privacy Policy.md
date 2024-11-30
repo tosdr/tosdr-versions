@@ -283,7 +283,7 @@ Please SelectABCAbilitationsABILITATIONSABLENETACTION ALPHABETActivity\_SetAdvan
 
 #### Get Social
 
-[](https://www.facebook.com/autismproductscom/ "Facebook")[](https://twitter.com/autism_products "Twitter")[](https://www.pinterest.com/AutismProducts2/pins/ "Pinterest")[](https://www.youtube.com/c/autismproductscom "YouTube")[\[email protected\]](https://www.autism-products.com/cdn-cgi/l/email-protection)
+[](https://www.facebook.com/autismproductscom/ "Facebook")[](https://twitter.com/autism_products "Twitter")[](https://www.pinterest.com/AutismProducts2/pins/ "Pinterest")[](https://www.youtube.com/c/autismproductscom "YouTube")[](https://www.instagram.com/autismproductscom/ "Instagram")[\[email protected\]](https://www.autism-products.com/cdn-cgi/l/email-protection)[](tel:(888)%20890-3288 "Phone")
 
 #### Contact Info
 
