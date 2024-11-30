@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![19 Facts About Illegal Hunting ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2290%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/human-activities/impact-of-human-activity/19-facts-about-illegal-hunting/)
+[![23 Facts About Judiciary Committee ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/society-and-social-sciences/society/23-facts-about-judiciary-committee/)
 
-Impact of Human Activity
+Society
 
-29 Nov 2024
+30 Nov 2024
 
-[19 Facts About Illegal Hunting](https://facts.net/human-activities/impact-of-human-activity/19-facts-about-illegal-hunting/)
+[23 Facts About Judiciary Committee](https://facts.net/society-and-social-sciences/society/23-facts-about-judiciary-committee/)
 
-[![35 Facts About Castles ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/culture-and-the-arts/35-facts-about-castles/)
+[![18 Facts About Indonesia Tourism ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/world/countries/18-facts-about-indonesia-tourism/)
 
-Culture & The Arts
+Countries
 
-29 Nov 2024
+30 Nov 2024
 
-[35 Facts About Castles](https://facts.net/culture-and-the-arts/35-facts-about-castles/)
+[18 Facts About Indonesia Tourism](https://facts.net/world/countries/18-facts-about-indonesia-tourism/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
