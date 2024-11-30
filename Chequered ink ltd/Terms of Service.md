@@ -38,7 +38,7 @@ Search for:
 Terms and Conditions
 ====================
 
-Last updated: 11/11/2024
+Last updated: 30/11/2024
 
 **1\. Definition of terms**
 
@@ -71,6 +71,7 @@ Last updated: 11/11/2024
 * Use the products for illegal or immoral purposes.
 * Remove materials, restrictions or copyright notices from the products.
 * Use the products or parts of the products to endorse your own ventures unless you have expressed written permission from the company.
+* You may not use the Products or graphics containing the products to train generative AI models, Language Learning Models, Machine Learning programs or any other kind of program designed to automatically reproduce content similar to the Products after analyzing the Product. Failure to abide by this clause is subject to a licensing fee of $10,000 USD per infringement. Ignorance of the origin of the Products is not a defence against breaching this agreement.
 
   
 **4\. Liability**
