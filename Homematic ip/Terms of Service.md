@@ -324,6 +324,14 @@ News
 
 Macht jeden Garten smart: Das neue Homematic IP Schalt-Mess-Kabel – außen](https://homematic-ip.com/de/news/schalt-mess-kabel-aussen-smarter-garten)
 
+[Dez.
+
+05-07
+
+Event
+
+BAUHAUS Frechen: Faszination Smart-Home live erleben: im Roadshow-Truck in Ihrer Nähe.](https://homematic-ip.com/de/event/homematic-ip-roadshow-smart-home-live-erleben-2024-12-05-bauhaus-frechen)
+
 [Nov.
 
 28-30
