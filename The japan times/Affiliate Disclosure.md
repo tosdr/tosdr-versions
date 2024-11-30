@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[November 30, 2024](https://www.japantimes.co.jp/archive/2024/11/30/ "archive page")
+[December 01, 2024](https://www.japantimes.co.jp/archive/2024/12/01/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -131,6 +131,10 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
+[Japan to overhaul tax exemption system for foreign visitors](https://www.japantimes.co.jp/news/2024/11/28/japan/tax-exemption-system-overhaul/ "Japan to overhaul tax exemption system for foreign visitors")
+
+  [![The Ginza shopping district in Tokyo in August](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/28/437056.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Ginza shopping district in Tokyo in August")](https://www.japantimes.co.jp/news/2024/11/28/japan/tax-exemption-system-overhaul/ "Japan to overhaul tax exemption system for foreign visitors")
+
 [Japan researchers develop a simple way to spot signs of Alzheimer's disease](https://www.japantimes.co.jp/news/2024/11/28/japan/science-health/keio-university-alzheimers/ "Japan researchers develop a simple way to spot signs of Alzheimer's disease")
 
   [![In 2022, the number of elderly people with dementia in Japan reached 4.43 million, according to data from the health ministry. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/28/436797.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "In 2022, the number of elderly people with dementia in Japan reached 4.43 million, according to data from the health ministry. ")](https://www.japantimes.co.jp/news/2024/11/28/japan/science-health/keio-university-alzheimers/ "Japan researchers develop a simple way to spot signs of Alzheimer's disease")
@@ -139,20 +143,22 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Tokyo police have arrested six Chinese nationals on suspicion of unlawful confinement and attempted extortion involving a 23-year-old exchange student who had become involved in a financial dispute over a yami baito, or a “dark” part-time job.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/29/437203.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tokyo police have arrested six Chinese nationals on suspicion of unlawful confinement and attempted extortion involving a 23-year-old exchange student who had become involved in a financial dispute over a yami baito, or a “dark” part-time job.")](https://www.japantimes.co.jp/news/2024/11/29/japan/crime-legal/chinese-arrest-kidnapping/ "Tokyo police arrest six Chinese nationals over yami baito scheme")
 
-[Japan to overhaul tax exemption system for foreign visitors](https://www.japantimes.co.jp/news/2024/11/28/japan/tax-exemption-system-overhaul/ "Japan to overhaul tax exemption system for foreign visitors")
+[Kumiko Shichijo: ‘Living abroad helped me appreciate Japanese etiquette’](https://www.japantimes.co.jp/community/2024/11/29/our-lives/japanese-etiquette-instagram-kumiko-shichijo/ "Kumiko Shichijo: ‘Living abroad helped me appreciate Japanese etiquette’")
 
-  [![The Ginza shopping district in Tokyo in August](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/28/437056.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Ginza shopping district in Tokyo in August")](https://www.japantimes.co.jp/news/2024/11/28/japan/tax-exemption-system-overhaul/ "Japan to overhaul tax exemption system for foreign visitors")
+  [![Kumiko Shichijo provides tips on Japanese etiquette and manners on Instagram and says videos on gift-giving and hand towels have done particularly well. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/29/435540.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Kumiko Shichijo provides tips on Japanese etiquette and manners on Instagram and says videos on gift-giving and hand towels have done particularly well. ")](https://www.japantimes.co.jp/community/2024/11/29/our-lives/japanese-etiquette-instagram-kumiko-shichijo/ "Kumiko Shichijo: ‘Living abroad helped me appreciate Japanese etiquette’")
 
-[‘God of management’ comes back to life as an AI model](https://www.japantimes.co.jp/business/2024/11/28/companies/panasonic-founder-ai-clone/ "‘God of management’ comes back to life as an AI model")
+[Uniqlo criticized in China after CEO says retailer does not use Xinjiang cotton](https://www.japantimes.co.jp/business/2024/11/29/companies/uniqlo-boycott-risk-china/ "Uniqlo criticized in China after CEO says retailer does not use Xinjiang cotton")
 
-  [![A statue of Konosuke Matsushita in the grounds of the Konosuke Matsushita Museum in Kadoma, Osaka Prefecture](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/28/436997.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A statue of Konosuke Matsushita in the grounds of the Konosuke Matsushita Museum in Kadoma, Osaka Prefecture")](https://www.japantimes.co.jp/business/2024/11/28/companies/panasonic-founder-ai-clone/ "‘God of management’ comes back to life as an AI model")
-
-[Two dead after fire at Upper House lawmaker Kuniko Inoguchi’s apartment](https://www.japantimes.co.jp/news/2024/11/28/japan/politics/kuniko-inoguchi-fire/ "Two dead after fire at Upper House lawmaker Kuniko Inoguchi’s apartment")
-
-  [![A fire broke out on the sixth floor of an apartment building where Upper House lawmaker Kuniko Inoguchi resides on Wednesday in Tokyo's Bunkyo Ward.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/28/436926.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A fire broke out on the sixth floor of an apartment building where Upper House lawmaker Kuniko Inoguchi resides on Wednesday in Tokyo's Bunkyo Ward.")](https://www.japantimes.co.jp/news/2024/11/28/japan/politics/kuniko-inoguchi-fire/ "Two dead after fire at Upper House lawmaker Kuniko Inoguchi’s apartment")
+  [![In an interview in Tokyo with the BBC that was published on Thursday, Fast Retailing CEO Tadashi Yanai said the company does not source cotton from China's Xinjiang region.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/29/437215.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "In an interview in Tokyo with the BBC that was published on Thursday, Fast Retailing CEO Tadashi Yanai said the company does not source cotton from China's Xinjiang region.")](https://www.japantimes.co.jp/business/2024/11/29/companies/uniqlo-boycott-risk-china/ "Uniqlo criticized in China after CEO says retailer does not use Xinjiang cotton")
 
 Editors' Picks
 --------------
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Japan to overhaul tax exemption system for foreign visitors](https://www.japantimes.co.jp/news/2024/11/28/japan/tax-exemption-system-overhaul/ "Japan to overhaul tax exemption system for foreign visitors")
+
+  [![The Ginza shopping district in Tokyo in August](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/28/437056.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Ginza shopping district in Tokyo in August")](https://www.japantimes.co.jp/news/2024/11/28/japan/tax-exemption-system-overhaul/ "Japan to overhaul tax exemption system for foreign visitors")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
@@ -170,27 +176,19 @@ By [Jessica Speed](https://www.japantimes.co.jp/author/5338/jessica-speed/ "Jess
 
   [![Tokyo police have arrested six Chinese nationals on suspicion of unlawful confinement and attempted extortion involving a 23-year-old exchange student who had become involved in a financial dispute over a yami baito, or a “dark” part-time job.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/29/437203.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tokyo police have arrested six Chinese nationals on suspicion of unlawful confinement and attempted extortion involving a 23-year-old exchange student who had become involved in a financial dispute over a yami baito, or a “dark” part-time job.")](https://www.japantimes.co.jp/news/2024/11/29/japan/crime-legal/chinese-arrest-kidnapping/ "Tokyo police arrest six Chinese nationals over yami baito scheme")
 
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+[COMMUNITY](https://www.japantimes.co.jp/community/ "COMMUNITY")
 
-[Japan to overhaul tax exemption system for foreign visitors](https://www.japantimes.co.jp/news/2024/11/28/japan/tax-exemption-system-overhaul/ "Japan to overhaul tax exemption system for foreign visitors")
+[Kumiko Shichijo: ‘Living abroad helped me appreciate Japanese etiquette’](https://www.japantimes.co.jp/community/2024/11/29/our-lives/japanese-etiquette-instagram-kumiko-shichijo/ "Kumiko Shichijo: ‘Living abroad helped me appreciate Japanese etiquette’")
 
-  [![The Ginza shopping district in Tokyo in August](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/28/437056.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Ginza shopping district in Tokyo in August")](https://www.japantimes.co.jp/news/2024/11/28/japan/tax-exemption-system-overhaul/ "Japan to overhaul tax exemption system for foreign visitors")
+By [Ansel Swindells](https://www.japantimes.co.jp/author/3800/ansel-swindells/ "Ansel Swindells")  
+
+  [![Kumiko Shichijo provides tips on Japanese etiquette and manners on Instagram and says videos on gift-giving and hand towels have done particularly well. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/29/435540.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Kumiko Shichijo provides tips on Japanese etiquette and manners on Instagram and says videos on gift-giving and hand towels have done particularly well. ")](https://www.japantimes.co.jp/community/2024/11/29/our-lives/japanese-etiquette-instagram-kumiko-shichijo/ "Kumiko Shichijo: ‘Living abroad helped me appreciate Japanese etiquette’")
 
 [BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
 
-[‘God of management’ comes back to life as an AI model](https://www.japantimes.co.jp/business/2024/11/28/companies/panasonic-founder-ai-clone/ "‘God of management’ comes back to life as an AI model")
+[Uniqlo criticized in China after CEO says retailer does not use Xinjiang cotton](https://www.japantimes.co.jp/business/2024/11/29/companies/uniqlo-boycott-risk-china/ "Uniqlo criticized in China after CEO says retailer does not use Xinjiang cotton")
 
-By [Eddy Duan](https://www.japantimes.co.jp/author/5028/eddy-duan/ "Eddy Duan")  
-
-  [![A statue of Konosuke Matsushita in the grounds of the Konosuke Matsushita Museum in Kadoma, Osaka Prefecture](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/28/436997.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A statue of Konosuke Matsushita in the grounds of the Konosuke Matsushita Museum in Kadoma, Osaka Prefecture")](https://www.japantimes.co.jp/business/2024/11/28/companies/panasonic-founder-ai-clone/ "‘God of management’ comes back to life as an AI model")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Two dead after fire at Upper House lawmaker Kuniko Inoguchi’s apartment](https://www.japantimes.co.jp/news/2024/11/28/japan/politics/kuniko-inoguchi-fire/ "Two dead after fire at Upper House lawmaker Kuniko Inoguchi’s apartment")
-
-By [Himari Semans](https://www.japantimes.co.jp/author/4668/himari-semans/ "Himari Semans")  
-
-  [![A fire broke out on the sixth floor of an apartment building where Upper House lawmaker Kuniko Inoguchi resides on Wednesday in Tokyo's Bunkyo Ward.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/28/436926.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A fire broke out on the sixth floor of an apartment building where Upper House lawmaker Kuniko Inoguchi resides on Wednesday in Tokyo's Bunkyo Ward.")](https://www.japantimes.co.jp/news/2024/11/28/japan/politics/kuniko-inoguchi-fire/ "Two dead after fire at Upper House lawmaker Kuniko Inoguchi’s apartment")
+  [![In an interview in Tokyo with the BBC that was published on Thursday, Fast Retailing CEO Tadashi Yanai said the company does not source cotton from China's Xinjiang region.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/29/437215.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "In an interview in Tokyo with the BBC that was published on Thursday, Fast Retailing CEO Tadashi Yanai said the company does not source cotton from China's Xinjiang region.")](https://www.japantimes.co.jp/business/2024/11/29/companies/uniqlo-boycott-risk-china/ "Uniqlo criticized in China after CEO says retailer does not use Xinjiang cotton")
 
 Podcast
 -------
@@ -211,9 +209,9 @@ By [Greg Dvorak](https://www.japantimes.co.jp/author/6191/greg-dvorak/ "Greg Dvo
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -253,25 +251,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Nissan CFO set to step down as carmaker faces raft of challenges](https://www.japantimes.co.jp/business/2024/11/30/companies/nissan-cfo-steps-down/ "Nissan CFO set to step down as carmaker faces raft of challenges")
-
-2 hours ago
-
-[Rush to ‘value up’ may be Asia stocks best defense against Trump](https://www.japantimes.co.jp/business/2024/11/30/markets/asia-stocks-trump-defense/ "Rush to ‘value up’ may be Asia stocks best defense against Trump")
-
-2 hours ago
-
-[Japan companies boosting benefits for long-term shareholders](https://www.japantimes.co.jp/business/2024/11/30/markets/japan-companies-long-term-shareholders/ "Japan companies boosting benefits for long-term shareholders")
+[China resumes short-term visa waiver for Japanese visitors](https://www.japantimes.co.jp/news/2024/11/30/japan/china-visa-waiver-resume/ "China resumes short-term visa waiver for Japanese visitors")
 
 4 hours ago
 
-[U.S. approves $385 million arms sale to Taiwan](https://www.japantimes.co.jp/news/2024/11/30/asia-pacific/politics/us-taiwan-arms-sales/ "U.S. approves $385 million arms sale to Taiwan")
+[Defeated Japan election candidate held over promising to pay campaign staff](https://www.japantimes.co.jp/news/2024/11/30/japan/politics/candidate-arrested-campaign-staff-payments/ "Defeated Japan election candidate held over promising to pay campaign staff")
 
 5 hours ago
 
-[Canada’s Justin Trudeau holds crucial meeting with Trump in Florida](https://www.japantimes.co.jp/news/2024/11/30/world/politics/canada-trudeu-trump-tariffs/ "Canada’s Justin Trudeau holds crucial meeting with Trump in Florida")
+[Taiwan's Lai departs on Pacific island tour](https://www.japantimes.co.jp/news/2024/11/30/asia-pacific/politics/taiwan-lai-departs-pacific-tour/ "Taiwan's Lai departs on Pacific island tour")
 
-5 hours ago
+6 hours ago
+
+[LDP member reportedly tried to hide membership scandal](https://www.japantimes.co.jp/news/2024/11/30/japan/politics/hiroaki-tabata-ldp-membership-scandal/ "LDP member reportedly tried to hide membership scandal")
+
+7 hours ago
+
+[Nissan CFO set to step down as carmaker faces raft of challenges](https://www.japantimes.co.jp/business/2024/11/30/companies/nissan-cfo-steps-down/ "Nissan CFO set to step down as carmaker faces raft of challenges")
+
+8 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
