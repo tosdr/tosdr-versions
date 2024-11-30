@@ -275,13 +275,6 @@ PSNI
 [Police in Derry appealing for witnesses as part of sexual assault investigation](https://www.derrynow.com/news/local-news/1668116/police-in-derry-appealing-for-witnesses-as-part-of-sexual-assault-investigation.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1666535/derry-death-notices-friday-november-29-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Friday, November 29, 2024](https://www.derrynow.com/news/deaths/1666535/derry-death-notices-friday-november-29-2024.html)
-------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![County Derry man fined more than £1,000 for supplying magic mushrooms](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry man fined more than £1,000 for supplying magic mushrooms")](https://www.derrynow.com/news/local-news/1668081/county-derry-man-fined-more-than-1-000-for-supplying-magic-mushrooms.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -336,6 +329,15 @@ Derry Magistrate's Court
 
 [A Bloody Sunday victim's family member has spoken on the ‘disgraceful’ comments by Micheál Martin](https://www.derrynow.com/news/derry-news/1668328/a-bloody-sunday-victim-s-family-member-has-spoken-on-the-disgraceful-comments-by-micheal-martin.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![County Derry man accused of ramming two cars and a bus in Kilrea refused bail](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry man accused of ramming two cars and a bus in Kilrea refused bail")](https://www.derrynow.com/news/home/1668316/county-derry-man-accused-of-ramming-two-cars-and-a-bus-in-kilrea-refused-bail.html)
+
+Coleraine Magistrates Court.
+
+[Home](https://www.derrynow.com/)
+
+[County Derry man accused of ramming two cars and a bus in Kilrea refused bail](https://www.derrynow.com/news/home/1668316/county-derry-man-accused-of-ramming-two-cars-and-a-bus-in-kilrea-refused-bail.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -517,6 +519,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1666536/derry-death-notices-saturday-november-30-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Saturday, November 30, 2024](https://www.derrynow.com/news/deaths/1666536/derry-death-notices-saturday-november-30-2024.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Heart-warming Derry advert reminds us to reach out at Christmas](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Heart-warming Derry advert reminds us to reach out at Christmas")](https://www.derrynow.com/news/home/1668351/heart-warming-derry-advert-reminds-us-to-reach-out-at-christmas.html)
 
 Still from John Lewis inspired Christmas advert which centres on two grieving men.
@@ -526,7 +535,7 @@ Still from John Lewis inspired Christmas advert which centres on two grieving me
 [Heart-warming Derry advert reminds us to reach out at Christmas](https://www.derrynow.com/news/home/1668351/heart-warming-derry-advert-reminds-us-to-reach-out-at-christmas.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Creggan Enterprises’ Lifehack Project – helping young people start a new Journey](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Creggan Enterprises’ Lifehack Project – helping young people start a new Journey")](https://www.derrynow.com/news/local-news/1668423/creggan-enterprises-lifehack-project-helping-young-people-start-a-new-journey.html)
+[![Creggan Enterprises’ Lifehack Project – helping young people start a new Journey](https://www.derrynow.com/resizer/165/93/true/2024_11_29/IMG_3222%281%29-1732895163800.jpeg--.jpeg?1732895164946 "Creggan Enterprises’ Lifehack Project – helping young people start a new Journey")](https://www.derrynow.com/news/local-news/1668423/creggan-enterprises-lifehack-project-helping-young-people-start-a-new-journey.html)
 
 Lifehack participants, project staff and CEL Management Team pictured at the recent programme launch at Ráth Mór.
 
@@ -559,15 +568,6 @@ Coleraine Magistrates Court.
 
 [A Bloody Sunday victim's family member has spoken on the ‘disgraceful’ comments by Micheál Martin](https://www.derrynow.com/news/derry-news/1668328/a-bloody-sunday-victim-s-family-member-has-spoken-on-the-disgraceful-comments-by-micheal-martin.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Free Information session Lettershandoney](https://www.derrynow.com/resizer/165/93/true/2024_11_29/Health_Check-1732884549632.jpg--.jpg?1732884549787 "Free Information session Lettershandoney")](https://www.derrynow.com/news/county-derry-post/1668170/free-information-session-set-for-rural-area-of-lettershandoney.html)
-
-Free Information session Lettershandoney
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[Free Information session set for rural area of Lettershandoney](https://www.derrynow.com/news/county-derry-post/1668170/free-information-session-set-for-rural-area-of-lettershandoney.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
