@@ -41,20 +41,32 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Lesbian couple taking an engagement selfie on a boat](https://www.women.com/img/gallery/can-you-break-your-engagement-without-breaking-up/intro-1732131514.jpg)](https://www.women.com/1718643/break-engagement-without-breaking-up/)
+*  [![Woman using an epilator on her arm](https://www.women.com/img/gallery/mistakes-you-may-be-making-with-your-epilator/intro-1732631218.jpg)](https://www.women.com/1723124/mistakes-making-epilator/)
     
-    [Exclusives](https://www.women.com/category/exclusives/)
+    [Beauty](https://www.women.com/category/beauty/)
     
-    [Exclusives](https://www.women.com/category/exclusives/) By Amanda Chatel
+    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
     
-    [Can You Break Your Engagement Without Breaking Up?](https://www.women.com/1718643/break-engagement-without-breaking-up/)
-    =========================================================================================================================
+    [Mistakes You May Be Making With Your Epilator](https://www.women.com/1723124/mistakes-making-epilator/)
+    ========================================================================================================
     
-    As thrilling as being engaged is, it might not feel quite right, and that's ok. Ending an engagement but not the relationship is possible, but it takes work.
+    Epilators are a little painful, and using them incorrectly can cause redness, irritation, and breakage. That's why it's important to work on technique.
     
-    By Amanda Chatel [Read More](https://www.women.com/1718643/break-engagement-without-breaking-up/)
+    By Emily Hutchinson [Read More](https://www.women.com/1723124/mistakes-making-epilator/)
     
-* *  [![Lindsay Lohan in a cream-colored silk gown and matching coat](https://www.women.com/img/gallery/3-lindsay-lohan-outfits-that-give-hallie-parker-and-3-that-are-so-annie-james/intro-1732207776.jpg)](https://www.women.com/1719538/lindsay-lohan-outfits-hallie-parker-annie-james-the-parent-trap/)
+* *  [![Lesbian couple taking an engagement selfie on a boat](https://www.women.com/img/gallery/can-you-break-your-engagement-without-breaking-up/intro-1732131514.jpg)](https://www.women.com/1718643/break-engagement-without-breaking-up/)
+        
+        [Exclusives](https://www.women.com/category/exclusives/)
+        
+        [Exclusives](https://www.women.com/category/exclusives/) By Amanda Chatel
+        
+        ### [Can You Break Your Engagement Without Breaking Up?](https://www.women.com/1718643/break-engagement-without-breaking-up/)
+        
+        As thrilling as being engaged is, it might not feel quite right, and that's ok. Ending an engagement but not the relationship is possible, but it takes work.
+        
+        By Amanda Chatel [Read More](https://www.women.com/1718643/break-engagement-without-breaking-up/)
+        
+    *  [![Lindsay Lohan in a cream-colored silk gown and matching coat](https://www.women.com/img/gallery/3-lindsay-lohan-outfits-that-give-hallie-parker-and-3-that-are-so-annie-james/intro-1732207776.jpg)](https://www.women.com/1719538/lindsay-lohan-outfits-hallie-parker-annie-james-the-parent-trap/)
         
         [Fashion](https://www.women.com/category/fashion/)
         
@@ -66,22 +78,34 @@
         
         By Mila Williams [Read More](https://www.women.com/1719538/lindsay-lohan-outfits-hallie-parker-annie-james-the-parent-trap/)
         
-    *  [![Zoe Kravitz and Channing Tatum in London for the Blink Twice premiere](https://www.women.com/img/gallery/the-red-flags-we-couldnt-ignore-in-channing-tatum-and-zoe-kravitzs-relationship/intro-1732124296.jpg)](https://www.women.com/1718419/red-flags-couldnt-ignore-channing-tatum-zoe-kravitz-relationship/)
-        
-        [Exclusives](https://www.women.com/category/exclusives/)
-        
-        [Exclusives](https://www.women.com/category/exclusives/) By Amanda Chatel
-        
-        ### [The Red Flags We Couldn't Ignore In Channing Tatum And Zoe Kravitz's Relationship](https://www.women.com/1718419/red-flags-couldnt-ignore-channing-tatum-zoe-kravitz-relationship/)
-        
-        With every relationship that's not destined to make it, celebrity relationships included, there are red flags along the way that are hard to ignore.
-        
-        By Amanda Chatel [Read More](https://www.women.com/1718419/red-flags-couldnt-ignore-channing-tatum-zoe-kravitz-relationship/)
-        
 
 More Stories
 ------------
 
+*  [![Kaia Gerber at an event posing](https://www.women.com/img/gallery/the-best-picks-from-kaia-gerbers-book-club-so-far/intro-1732293937.jpg)](https://www.women.com/1720621/best-picks-kaia-gerber-book-club/)
+    
+    [Living](https://www.women.com/category/living/)
+    
+    [Living](https://www.women.com/category/living/) By Bernadette Roe
+    
+    ### [The Best Picks From Kaia Gerber's Book Club (So Far)](https://www.women.com/1720621/best-picks-kaia-gerber-book-club/)
+    
+    Kaia Gerber's book club, Library Science, kicked off in March 2024 and offers a totally curated vibe of unique and unusual books.
+    
+    By Bernadette Roe [Read More](https://www.women.com/1720621/best-picks-kaia-gerber-book-club/)
+    
+*  [![Zoe Kravitz and Channing Tatum in London for the Blink Twice premiere](https://www.women.com/img/gallery/the-red-flags-we-couldnt-ignore-in-channing-tatum-and-zoe-kravitzs-relationship/intro-1732124296.jpg)](https://www.women.com/1718419/red-flags-couldnt-ignore-channing-tatum-zoe-kravitz-relationship/)
+    
+    [Exclusives](https://www.women.com/category/exclusives/)
+    
+    [Exclusives](https://www.women.com/category/exclusives/) By Amanda Chatel
+    
+    ### [The Red Flags We Couldn't Ignore In Channing Tatum And Zoe Kravitz's Relationship](https://www.women.com/1718419/red-flags-couldnt-ignore-channing-tatum-zoe-kravitz-relationship/)
+    
+    With every relationship that's not destined to make it, celebrity relationships included, there are red flags along the way that are hard to ignore.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1718419/red-flags-couldnt-ignore-channing-tatum-zoe-kravitz-relationship/)
+    
 *  [![Ariana Grande on the red carpet](https://www.women.com/img/gallery/all-of-ariana-grandes-wicked-tattoos-including-her-matching-ink-with-cynthia-erivo/intro-1732307595.jpg)](https://www.women.com/1721081/ariana-grande-wicked-tattoos-matching-ink-cynthia-erivo/)
     
     [Beauty](https://www.women.com/category/beauty/)
@@ -381,30 +405,6 @@ More Stories
     After a 2016 appearance on "Shark Tank", The Style Club's feminist apparel took off. But the company lost momentum after a legal challenge.
     
     By Emily Hutchinson [Read More](https://www.women.com/1706982/what-went-down-with-the-style-club-after-shark-tank/)
-    
-*  [![Woman wearing silver eyeshadow](https://www.women.com/img/gallery/the-winter-20242025-makeup-trends-youll-be-seeing-everywhere/intro-1731091107.jpg)](https://www.women.com/1709009/winter-2024-2025-makeup-trends-seeing-everywhere/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
-    
-    ### [The Winter 2024/2025 Makeup Trends You'll Be Seeing Everywhere](https://www.women.com/1709009/winter-2024-2025-makeup-trends-seeing-everywhere/)
-    
-    Makeup trends for winter 2024/2025 include classic holiday colors, metallics, and goth girl glam. But the natural, "no-makeup" look is also popular.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1709009/winter-2024-2025-makeup-trends-seeing-everywhere/)
-    
-*  [![Two people embracing](https://www.women.com/img/gallery/how-to-tell-your-partner-you-want-to-have-spicier-sex/intro-1730835547.jpg)](https://www.women.com/1706028/how-to-tell-partner-want-spicier-sex/)
-    
-    [Sex](https://www.women.com/category/sex-life/)
-    
-    [Sex](https://www.women.com/category/sex-life/) By Amanda Chatel
-    
-    ### [How To Tell Your Partner You Want To Have Spicier Sex](https://www.women.com/1706028/how-to-tell-partner-want-spicier-sex/)
-    
-    It might be time to spice things up and lean into the thrill of experimenting with each other. But broach this conversation mindfully.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1706028/how-to-tell-partner-want-spicier-sex/)
     
 
 Back
