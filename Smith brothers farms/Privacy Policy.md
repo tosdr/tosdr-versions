@@ -13,10 +13,10 @@
         
     * [On Sale](https://www.smithbrothersfarms.com/on-special)
         
-    * [Holiday](https://www.smithbrothersfarms.com/holiday)
+    * [Holiday Treats](https://www.smithbrothersfarms.com/holiday-treats)
         
         * BACK
-        * [Holiday Treats](https://www.smithbrothersfarms.com/holiday-treats)
+        * [Holiday](https://www.smithbrothersfarms.com/holiday)
             
         
     * [Milk & Cream](https://www.smithbrothersfarms.com/milk-cream)
@@ -200,10 +200,10 @@ Hi
         
     * [On Sale (70)](https://www.smithbrothersfarms.com/on-special)
         
-    * [Holiday (41)](https://www.smithbrothersfarms.com/holiday)
+    * [Holiday Treats (41)](https://www.smithbrothersfarms.com/holiday-treats)
         
         * BACK
-        * [Holiday Treats (15)](https://www.smithbrothersfarms.com/holiday-treats)
+        * [Holiday (26)](https://www.smithbrothersfarms.com/holiday)
             
         
     * [Milk & Cream (55)](https://www.smithbrothersfarms.com/milk-cream)
