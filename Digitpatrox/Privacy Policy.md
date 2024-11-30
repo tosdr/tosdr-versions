@@ -20,16 +20,16 @@ Saturday, November 30 2024
 
 Latest
 
-* [Bologna FC confirms data breach after RansomHub ransomware attack](https://digitpatrox.com/bologna-fc-confirms-data-breach-after-ransomhub-ransomware-attack/)
-* [The best gaming deals for Black Friday](https://digitpatrox.com/the-best-gaming-deals-for-black-friday/)
-* [This 20W Ultra-Slim MagSafe Power Bank Is Selling for Lowest Price This Black Friday](https://digitpatrox.com/this-20w-ultra-slim-magsafe-power-bank-is-selling-for-lowest-price-this-black-friday/)
-* [What are Zelle scams? (and how to avoid them)](https://digitpatrox.com/what-are-zelle-scams-and-how-to-avoid-them/)
-* [ReMarkable Paper Pro review | ITPro](https://digitpatrox.com/remarkable-paper-pro-review-itpro/)
-* [My spur-of-the-moment Chromebook surprise](https://digitpatrox.com/my-spur-of-the-moment-chromebook-surprise/)
-* [The M2 MacBook Air Has Its Lowest Price Ever for Black Friday](https://digitpatrox.com/the-m2-macbook-air-has-its-lowest-price-ever-for-black-friday/)
-* [Why pay when it’s free?](https://digitpatrox.com/why-pay-when-its-free/)
-* [Proton VPN vs ExpressVPN: Picking a Winner](https://digitpatrox.com/proton-vpn-vs-expressvpn-picking-a-winner/)
-* [Dell, HP post underwhelming returns as PC market remains in a state of flux](https://digitpatrox.com/dell-hp-post-underwhelming-returns-as-pc-market-remains-in-a-state-of-flux/)
+* [I’m a serious audiophile — here’s 5 Cyber Monday headphone deals that I’d buy for myself](https://digitpatrox.com/im-a-serious-audiophile-heres-5-cyber-monday-headphone-deals-that-id-buy-for-myself/)
+* [New Windows Server 2012 zero-day gets free, unofficial patches](https://digitpatrox.com/new-windows-server-2012-zero-day-gets-free-unofficial-patches/)
+* [The 55 best deals we found under $30](https://digitpatrox.com/the-55-best-deals-we-found-under-30/)
+* [This 3D Printer is Going for an Unbelievable Price on Black Friday](https://digitpatrox.com/this-3d-printer-is-going-for-an-unbelievable-price-on-black-friday/)
+* [Canada sues Google over alleged anticompetitive practices in online advertising – Computerworld](https://digitpatrox.com/canada-sues-google-over-alleged-anticompetitive-practices-in-online-advertising-computerworld/)
+* [I’m a Tech Editor, and These Are My Favorite Black Friday Deals for Xbox, PlayStation, Switch, and PC Gamers](https://digitpatrox.com/im-a-tech-editor-and-these-are-my-favorite-black-friday-deals-for-xbox-playstation-switch-and-pc-gamers/)
+* [What Do Wide, Ultra-Wide, and Telephoto Lenses Do?](https://digitpatrox.com/what-do-wide-ultra-wide-and-telephoto-lenses-do/)
+* [Supply chain scares and Google’s AI code](https://digitpatrox.com/supply-chain-scares-and-googles-ai-code/)
+* [How to Delete Spam SMS Messages and Add New Blocked Numbers on Android](https://digitpatrox.com/how-to-delete-spam-sms-messages-and-add-new-blocked-numbers-on-android/)
+* [Runway makes it easy to turn a landscape into a portrait video — what’s next](https://digitpatrox.com/runway-makes-it-easy-to-turn-a-landscape-into-a-portrait-video-whats-next/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://www.bleepstatic.com/content/hl-images/2024/11/29/football.jpg)](https://digitpatrox.com/bologna-fc-confirms-data-breach-after-ransomhub-ransomware-attack/)
+* [![](https://cdn.mos.cms.futurecdn.net/vMgXai9CJL5SnSYgAeceYB-1200-80.jpg)](https://digitpatrox.com/im-a-serious-audiophile-heres-5-cyber-monday-headphone-deals-that-id-buy-for-myself/)
     
-    [Bologna FC confirms data breach after RansomHub ransomware attack](https://digitpatrox.com/bologna-fc-confirms-data-breach-after-ransomhub-ransomware-attack/)
+    [I’m a serious audiophile — here’s 5 Cyber Monday headphone deals that I’d buy for myself](https://digitpatrox.com/im-a-serious-audiophile-heres-5-cyber-monday-headphone-deals-that-id-buy-for-myself/)
     
-    2 minutes ago
+    17 seconds ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/bbClfIki9uHLwsEy4399E9YEg6E=/0x0:2460x1629/1200x628/filters:focal(1230x815:1231x816)/cdn.vox-cdn.com/uploads/chorus_asset/file/25676324/twarren_xboxseriesxwhite__6_.JPG)](https://digitpatrox.com/the-best-gaming-deals-for-black-friday/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/05/01/Windows_Server.jpg)](https://digitpatrox.com/new-windows-server-2012-zero-day-gets-free-unofficial-patches/)
     
-    [The best gaming deals for Black Friday](https://digitpatrox.com/the-best-gaming-deals-for-black-friday/)
+    [New Windows Server 2012 zero-day gets free, unofficial patches](https://digitpatrox.com/new-windows-server-2012-zero-day-gets-free-unofficial-patches/)
     
-    19 minutes ago
+    1 hour ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/11/Sharge-MagSafe-Powerbank-Black-Friday-Deal.jpg)](https://digitpatrox.com/this-20w-ultra-slim-magsafe-power-bank-is-selling-for-lowest-price-this-black-friday/)
+* [![](https://cdn.vox-cdn.com/thumbor/m7pTHB5VA5UIhOLfW-Jxy2cMiaw=/0x0:864x576/1200x628/filters:focal(432x288:433x289)/cdn.vox-cdn.com/uploads/chorus_asset/file/24835383/Amazon_Echo_Dot_Fifth_gen_Lifestyle_Image.jpg)](https://digitpatrox.com/the-55-best-deals-we-found-under-30/)
     
-    [This 20W Ultra-Slim MagSafe Power Bank Is Selling for Lowest Price This Black Friday](https://digitpatrox.com/this-20w-ultra-slim-magsafe-power-bank-is-selling-for-lowest-price-this-black-friday/)
+    [The 55 best deals we found under $30](https://digitpatrox.com/the-55-best-deals-we-found-under-30/)
     
-    35 minutes ago
+    1 hour ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/What-are-Zelle-scams-and-how-to-avoid-them_.jpg)](https://digitpatrox.com/what-are-zelle-scams-and-how-to-avoid-them/)
+* [![](https://beebom.com/wp-content/uploads/2024/11/FlashForge-Adventurer-5M-3D-Printer-Black-Friday-Deal.jpg)](https://digitpatrox.com/this-3d-printer-is-going-for-an-unbelievable-price-on-black-friday/)
     
-    [What are Zelle scams? (and how to avoid them)](https://digitpatrox.com/what-are-zelle-scams-and-how-to-avoid-them/)
-    
-    2 hours ago
-    
-* [![](https://cdn.mos.cms.futurecdn.net/BiPo8YJDnvXUhMUB4HUYw8-1200-80.jpg)](https://digitpatrox.com/remarkable-paper-pro-review-itpro/)
-    
-    [ReMarkable Paper Pro review | ITPro](https://digitpatrox.com/remarkable-paper-pro-review-itpro/)
+    [This 3D Printer is Going for an Unbelievable Price on Black Friday](https://digitpatrox.com/this-3d-printer-is-going-for-an-unbelievable-price-on-black-friday/)
     
     2 hours ago
+    
+* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3614938-0-56502900-1732883457-shutterstock_1875389428.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/canada-sues-google-over-alleged-anticompetitive-practices-in-online-advertising-computerworld/)
+    
+    [Canada sues Google over alleged anticompetitive practices in online advertising – Computerworld](https://digitpatrox.com/canada-sues-google-over-alleged-anticompetitive-practices-in-online-advertising-computerworld/)
+    
+    4 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,45 +208,45 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [2 minutes ago
+* [17 seconds ago
     
-    ### Bologna FC confirms data breach after RansomHub ransomware attack](https://digitpatrox.com/bologna-fc-confirms-data-breach-after-ransomhub-ransomware-attack/)
-* [19 minutes ago
+    ### I’m a serious audiophile — here’s 5 Cyber Monday headphone deals that I’d buy for myself](https://digitpatrox.com/im-a-serious-audiophile-heres-5-cyber-monday-headphone-deals-that-id-buy-for-myself/)
+* [1 hour ago
     
-    ### The best gaming deals for Black Friday](https://digitpatrox.com/the-best-gaming-deals-for-black-friday/)
-* [35 minutes ago
+    ### New Windows Server 2012 zero-day gets free, unofficial patches](https://digitpatrox.com/new-windows-server-2012-zero-day-gets-free-unofficial-patches/)
+* [1 hour ago
     
-    ### This 20W Ultra-Slim MagSafe Power Bank Is Selling for Lowest Price This Black Friday](https://digitpatrox.com/this-20w-ultra-slim-magsafe-power-bank-is-selling-for-lowest-price-this-black-friday/)
+    ### The 55 best deals we found under $30](https://digitpatrox.com/the-55-best-deals-we-found-under-30/)
 
 Most Popular Topics
 
-* [September 8, 2024
+* [August 16, 2024
     
-    ### Disney and DirecTV head into a big sports weekend with no carriage deal](https://digitpatrox.com/disney-and-directv-head-into-a-big-sports-weekend-with-no-carriage-deal/)
-* [2 weeks ago
+    ### Wordle Answer for Today, August 16, 2024](https://digitpatrox.com/wordle-answer-for-today-august-16-2024/)
+* [August 13, 2024
     
-    ### Critical bug in EoL D-Link NAS devices now exploited in attacks](https://digitpatrox.com/critical-bug-in-eol-d-link-nas-devices-now-exploited-in-attacks/)
-* [3 days ago
+    ### NYT Strands Today: Hints, Answers & Spangram for August 13](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-august-13/)
+* [October 26, 2024
     
-    ### Download our Windows Repair Upgrade Cheat Sheet](https://digitpatrox.com/download-our-windows-repair-upgrade-cheat-sheet/)
+    ### Here’s How You Should Approach It](https://digitpatrox.com/heres-how-you-should-approach-it/)
 
 Last Modified Topics
 
-* [3 hours ago
+* [4 hours ago
     
-    ### The M2 MacBook Air Has Its Lowest Price Ever for Black Friday](https://digitpatrox.com/the-m2-macbook-air-has-its-lowest-price-ever-for-black-friday/)
-* [3 hours ago
+    ### What Do Wide, Ultra-Wide, and Telephoto Lenses Do?](https://digitpatrox.com/what-do-wide-ultra-wide-and-telephoto-lenses-do/)
+* [5 hours ago
     
-    ### Why pay when it’s free?](https://digitpatrox.com/why-pay-when-its-free/)
-* [3 hours ago
+    ### Supply chain scares and Google’s AI code](https://digitpatrox.com/supply-chain-scares-and-googles-ai-code/)
+* [5 hours ago
     
-    ### Proton VPN vs ExpressVPN: Picking a Winner](https://digitpatrox.com/proton-vpn-vs-expressvpn-picking-a-winner/)
+    ### How to Delete Spam SMS Messages and Add New Blocked Numbers on Android](https://digitpatrox.com/how-to-delete-spam-sms-messages-and-add-new-blocked-numbers-on-android/)
 
 Most Viewed Topics
 
-* [August 11, 2024
+* [August 13, 2024
     
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 * [August 13, 2024
     
     ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
