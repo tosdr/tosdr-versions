@@ -31,10 +31,6 @@ Search  Search
 1. [Home](https://www.toastmasters.org/)
 2. /Conditions of Use
 
-[×](#)
-
-World Headquarters will be closed November 28-29 in observance of the Thanksgiving holiday
-
 Conditions of Use
 =================
 
