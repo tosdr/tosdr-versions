@@ -349,11 +349,11 @@ Recently Played
 
 |     |
 | --- |
-| High RoadKoe Wetzel Ft Jess Murph<br><br>10:36am |
-| Single Saturday NightCole Swindell<br><br>10:33am |
-| Thats My Kind Of NightLuke Bryan<br><br>10:30am |
-| Wagon WheelDarius Rucker<br><br>10:26am |
-| You Look Like You Love MeElla Langley Ft Riley Green<br><br>10:23am |
+| Lies, Lies, LiesMorgan Wallen<br><br>4:41pm |
+| Half Of MeThomas Rhett Ft Riley Green<br><br>4:38pm |
+| Til You Can'TCody Johnson<br><br>4:34pm |
+| Think I'M In Love With YouChris Stapleton<br><br>4:30pm |
+| Shouldve Been A CowboyToby Keith<br><br>4:27pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -497,21 +497,21 @@ State
 Featured Brands
 ---------------
 
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+
+Top 40 • Pacific NW
+
 [![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
 Top 40 • Eastern
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
 Country • Western
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
-News Talk • Eastern
-
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
-
-Top 40 • Pacific NW
+Sports • Midwest
 
 [](https://www.alphamediausa.com/)
 
