@@ -298,11 +298,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/nina-i-miodrag-stankovic/miodrag-stankovic-strule/rhino2-2006.jpg?itok=hYb6t7Sg)](http://seecult.org/galerija/galerija-umetnika/nina-i-miodrag-stankovic/miodrag-stankovic-strule)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/margareta-jelic/instalacija-s-kadom/texts.gif?itok=HpMa80LP)](http://seecult.org/galerija/galerija-umetnika/margareta-jelic/instalacija-s-kadom)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/bitef/pijananoc2.jpg?itok=UIJMm3JR)](http://seecult.org/galerija/foto-galerija/foto-arhiva/bitef)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/diana-krall/dajana2.jpg?itok=7J43Xtym)](http://seecult.org/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/diana-krall)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
