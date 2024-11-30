@@ -1,6 +1,6 @@
 ![mobile preview](/images/svgs/exit_banner.svg)[![mobile preview](/images/svgs/clock.svg)
 
-Expires in 68:42:46
+Expires in 52:52:38
 
 25% OFF
 
