@@ -214,14 +214,14 @@ If you are located in the EEA, Security Tech OÜ is the entity responsible for t
 
 ###### Downloads
 
-* [VPN for macOS](https://realvpn.io/download_mac)
+* [VPN for macOS](https://realvpn.io/download/mac)
 * [VPN for iOS](https://apps.apple.com/us/app/realvpn/id1367167731?ls=1)
 * [VPN for AppleTV](https://apps.apple.com/us/app/realvpn/id1367167731?ls=1)
-* [VPN for Android](https://realvpn.io/download_android)
-* [VPN for Android TV](https://realvpn.io/download_android_tv)
-* [VPN for Chrome Browser](https://realvpn.io/download_chrome)
-* [VPN for Edge Browser](https://realvpn.io/download_edge)
-* [VPN for Opera Browser](https://realvpn.io/download_opera)
+* [VPN for Android](https://realvpn.io/download/android)
+* [VPN for Android TV](https://realvpn.io/download/android_tv)
+* [VPN for Chrome Browser](https://realvpn.io/download/chrome)
+* [VPN for Edge Browser](https://realvpn.io/download/edge)
+* [VPN for Opera Browser](https://realvpn.io/download/opera)
 
 ###### Help & Support
 
