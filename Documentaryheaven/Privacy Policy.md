@@ -123,44 +123,44 @@ Advertisement
     The Fog of War
     
     Winner of the Academy Award for Best DocumentaryIt is the story of America as seen through the eyes of the former Secretary of Defense, Robert S. McNamara. One of the most controversial and influe...](https://documentaryheaven.com/the-fog-of-war/ "The Fog of War")
-* [![Louis Theroux: Drinking To Oblivion](/wp-content/thumbnails/16353-100x70.jpg?x53432)
-    
-    Louis Theroux: Drinking To Oblivion
-    
-    Drinking To Oblivion sees Louis Theroux set about spending some time in the world of extreme drinkers, getting to know people who consume alcohol not just to excess but to the point of total oblivio...](https://documentaryheaven.com/louis-theroux-drinking-to-oblivion/ "Louis Theroux: Drinking To Oblivion")
 * [![Why The Industrial Revolution Happened Here](/wp-content/thumbnails/8018-100x70.jpeg?x53432)
     
     Why The Industrial Revolution Happened Here
     
     Professor Jeremy Black examines one of the most extraordinary periods in British history: the Industrial Revolution. He explains the unique economic, social and political conditions that by the 19th c...](https://documentaryheaven.com/why-industrial-revolution-happened-here/ "Why The Industrial Revolution Happened Here")
+* [![Louis Theroux: Drinking To Oblivion](/wp-content/thumbnails/16353-100x70.jpg?x53432)
+    
+    Louis Theroux: Drinking To Oblivion
+    
+    Drinking To Oblivion sees Louis Theroux set about spending some time in the world of extreme drinkers, getting to know people who consume alcohol not just to excess but to the point of total oblivio...](https://documentaryheaven.com/louis-theroux-drinking-to-oblivion/ "Louis Theroux: Drinking To Oblivion")
 
 ###### Throwback Documentaries
 
-* [![Britain’s Secret Death Squad](/wp-content/thumbnails/8548-100x70.jpg?x53432)
+* [![Ep 2/2 Martin Luther: Reluctant Revolutionary](/wp-content/thumbnails/2615-100x70.jpg?x53432)
     
-    Britain’s Secret Death Squad
+    Ep 2/2 Martin Luther: Reluctant Revolutionary
     
-    BBC's Panorama set about investigating the story of a secret British army unit set up to deal with any enemies of the state, on the streets of the United Kingdom, primarily Northern Ireland during the](https://documentaryheaven.com/britains-secret-death-squad/ "Britain’s Secret Death Squad")
-* [![Scratch](/wp-content/thumbnails/806-100x70.png?x53432)
+    Few if any men have changed the course of history like Martin Luther. In less than ten years, this fevered German monk plunged a knife into the heart of an empire that had ruled for a thousand years,](https://documentaryheaven.com/ep-22-martin-lutherreluctant-revolutionary/ "Ep 2/2 Martin Luther: Reluctant Revolutionary")
+* [![Pacquiao vs. Marquez HBO 24/7](/wp-content/thumbnails/7225-100x70.jpg?x53432)
     
-    Scratch
+    Pacquiao vs. Marquez HBO 24/7
     
-    A documentary movie examining the birth and evolution of hip-hop DJs, scratching and turntablism. Contains interviews with some of hip-hop’s most famous and respected DJs including Grand Wizard Theodo](https://documentaryheaven.com/scratch/ "Scratch")
-* [![Heavy Metal In Baghdad](/wp-content/thumbnails/4118-100x70.jpg?x53432)
+    The HBO 24/7 series has given an insightful look into the camps and minds of major fighters. One of the biggest beneficiaries of the series has been Manny Pacquiao and he was again thrust into the spo](https://documentaryheaven.com/pacquiao-marquez-hbo/ "Pacquiao vs. Marquez HBO 24/7")
+* [![Archimede’s Secret](/wp-content/thumbnails/7594-100x70.jpg?x53432)
     
-    Heavy Metal In Baghdad
+    Archimede’s Secret
     
-    Heavy Metal in Baghdad is a feature film documentary that follows the Iraqi heavy metal band Acrassicauda from the fall of Saddam Hussein in 2003 to the present day. Playing heavy metal in a Muslim co](https://documentaryheaven.com/heavy-metal-in-baghdad/ "Heavy Metal In Baghdad")
-* [![How to Commit the Perfect Murder](/wp-content/thumbnails/199-100x70.png?x53432)
+    This is the story of a book that could have changed the history of the World. To the untrained eye, it is nothing more than a small and unassuming Byzantine prayer book, yet it sold at Christies for o](https://documentaryheaven.com/archimedes-secret/ "Archimede’s Secret")
+* [![Oil, Smoke and Mirrors](/wp-content/thumbnails/803-100x70.png?x53432)
     
-    How to Commit the Perfect Murder
+    Oil, Smoke and Mirrors
     
-    Modern forensic science should make it impossible to commit murder and get away with it. But how easy would it be to outfox the detectives? With the help of top forensic scientists, and real-life murd](https://documentaryheaven.com/how-to-commit-the-perfect-murder/ "How to Commit the Perfect Murder")
-* [![CIA Secret Experiments](/wp-content/thumbnails/7065-100x70.jpg?x53432)
+    Through a series of interviews, this film argues that the bizarre events surrounding the 9/11 attacks, and the equally bizarre prosecution of the so-called “war on terror”, can be more credibly unders](https://documentaryheaven.com/oil-smoke-and-mirrors/ "Oil, Smoke and Mirrors")
+* [![Cyber War](/wp-content/thumbnails/539-100x70.png?x53432)
     
-    CIA Secret Experiments
+    Cyber War
     
-    It's the height of the Cold War and the United States government is desperate to combat the spread of Communism. The CIA launches a highly classified, top secret research program into the covert use o](https://documentaryheaven.com/cia-secret-experiments/ "CIA Secret Experiments")
+    The cyberwar began after a mid-air collision between a US spyplane and a Chinese fighter aircraft on 1 April. The Chinese plane crashed into the sea killing its pilot while the US plane and its crew o](https://documentaryheaven.com/cyber-war/ "Cyber War")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
