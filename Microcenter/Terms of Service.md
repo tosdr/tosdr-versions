@@ -40,11 +40,11 @@ Search for product
     
     Dallas
     
-    Open until 10PM
+    Opens at 9AM
     
     ![get store info](https://60a99bedadae98078522-a9b6cded92292ef3bace063619038eb1.ssl.cf2.rackcdn.com/chevron-downWhite.svg)
     
-* Open 8am - 10pm today
+* Open 9am - 9pm today
 * * ![Close Modal](https://60a99bedadae98078522-a9b6cded92292ef3bace063619038eb1.ssl.cf2.rackcdn.com/images_buttons_btn_closeModal.png)Close Your Store Modal
     * Your Store
         
@@ -88,7 +88,7 @@ Search for product
         
         Questions? Text or call
         
-        Open Now
+        Closed
         
         Mon - Thu 9 to 9, Fri 8 to 10, Sat 9 to 9, Sun 10 to 7
         
