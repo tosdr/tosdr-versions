@@ -89,11 +89,11 @@ Most Read
     
 2. 2. [It’s Black Friday, and here are the best shopping deals we could find](https://arstechnica.com/shopping/2024/11/its-black-friday-and-here-are-the-best-shopping-deals-we-could-find/)
     
-3. 3. [Vintage digicams aren’t just a fad. They’re an artistic statement.](https://arstechnica.com/gadgets/2024/11/vintage-digicams-arent-just-a-fad-theyre-an-artistic-statement/)
+3. 3. [Code found online exploits LogoFAIL to install Bootkitty Linux backdoor](https://arstechnica.com/security/2024/11/code-found-online-exploits-logofail-to-install-bootkitty-linux-backdoor/)
     
-4. 4. [Flour, water, salt, GitHub: The Bread Code is a sourdough baking framework](https://arstechnica.com/culture/2024/11/flour-water-salt-github-the-bread-code-is-a-sourdough-baking-framework/)
+4. 4. [Vintage digicams aren’t just a fad. They’re an artistic statement.](https://arstechnica.com/gadgets/2024/11/vintage-digicams-arent-just-a-fad-theyre-an-artistic-statement/)
     
-5. 5. [Man suffers chemical burn that lasted months after squeezing limes](https://arstechnica.com/health/2024/11/man-suffers-chemical-burn-that-lasted-months-after-squeezing-limes/)
+5. 5. [How should we treat beings that might be sentient?](https://arstechnica.com/science/2024/11/how-should-we-treat-beings-that-might-be-sentient/)
     
 
 Customize
