@@ -165,69 +165,71 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
-More Days of Praise
+More Technical Papers
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/sound-doctrine)
+[![](https://dummyimage.com/328x116/006ba8/fff&text=ICR+Scientist’s+Technical+Article)](https://www.icr.org/article/some-strengths-weaknesses-polymer-shield)
 
-[Sound Doctrine](https://www.icr.org/article/sound-doctrine/)
+[Some strengths and weaknesses of the polymer shield exp.,.](https://www.icr.org/article/some-strengths-weaknesses-polymer-shield/)
 
-“Hold fast the form of sound words, which thou hast heard of me, in faith and love which is in Christ Jesus.” (2 Timothy 1:13) When...
+AUGUST 01, 2019
 
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+by Brian Thomas, Stephen Taylor, and Kevin Anderson In Journal of Creation 33 (2): 9-12, August 2019 The presence of short-lived soft tissue...
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/kingdom-of-priests)
+BY:  [VARIOUS AUTHORS](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=35)
 
-[Kingdom of Priests](https://www.icr.org/article/kingdom-of-priests/)
+[![](https://dummyimage.com/328x116/006ba8/fff&text=ICR+Scientist’s+Technical+Article)](https://www.icr.org/article/two-possible-mechanisms-linking-cosmic)
 
-“And ye shall be unto me a kingdom of priests, and an holy nation. These are the words which thou shalt speak unto the children of Israel.”...
+[Two possible mechanisms linking cosmic rays to weather .,.](https://www.icr.org/article/two-possible-mechanisms-linking-cosmic/)
 
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+AUGUST 01, 2013
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/him-no-darkness)
+In Journal of Creation 27 (2):91-98, August 2013 Long-age interpretations of earth history have led uniformitarian climate scientists to conclude...
 
-[In Him Is No Darkness](https://www.icr.org/article/him-no-darkness/)
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
 
-“This then is the message which we have heard of him, and declare unto you, that God is light, and in him is no darkness at all.” (1...
+[![](https://dummyimage.com/328x116/006ba8/fff&text=ICR+Scientist’s+Technical+Article)](https://www.icr.org/article/god-floods-earth-yet-preserves-ark)
 
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+[God Floods Earth, yet Preserves Ark-Borne Humans and A.,.](https://www.icr.org/article/god-floods-earth-yet-preserves-ark/)
+
+JUNE 01, 2021
+
+by James J. S. Johnson, J.D., Th.D., and Timothy L. Clarey, Ph.D. In Creation Research Society Quarterly 57 (4): 248-262 This multidisciplinary...
+
+BY:  [VARIOUS AUTHORS](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=35)
 
 Shop Related Products
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/13216743/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/13216390/file.jpg)
 
-Your Origins Matter - eBook](https://store.icr.org/your-origins-matter-ebook.html)
+The Ice Age Real and Recent - Download](https://store.icr.org/dr-jake-hebert-the-ice-age-real-and-recent-downloa.html)
+
+$4.99
+
+$9.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/12967277/file.jpg)
+
+The Climate Change Conflict: Keeping Cool Over Global Warming](https://store.icr.org/the-climate-change-conflict-keeping-cool-over-glob.html)
+
+$7.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/13216437/file.jpg)
+
+The Ice Age and the Flood - eBook](https://store.icr.org/the-ice-age-and-the-flood-ebook.html)
 
 $2.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/57276817/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/32701/file.jpg)
 
-The Book of Beginnings Paperback](https://store.icr.org/the-book-of-beginnings-paperback.html)
+The Ice Age and the Flood](https://store.icr.org/dr-jake-hebert-the-ice-age-and-the-flood.html)
 
-$19.99
+$2.99
 
-$24.99
+[![](https://cdn.shoplightspeed.com/shops/601440/files/37858586/file.jpg)
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/11926199/file.jpg)
+El Conflicto Del Cambio Climáctico (Spanish)](https://store.icr.org/el-conflicto-del-cambio-climactico-spanish.html)
 
-The Book of Beginnings - eBook](https://store.icr.org/the-book-of-beginnings-ebook.html)
-
-$14.99
-
-$49.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/5005668/file.jpg)
-
-Science, Scripture, & Salvation Vol 3, Disc 1](https://store.icr.org/dr-henry-morris-iii-science-scripture-salv-9774957.html)
-
-$1.99
-
-$3.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10892599/file.jpg)
-
-Stand Fast](https://store.icr.org/stand-fast.html)
-
-$4.99
+$7.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
