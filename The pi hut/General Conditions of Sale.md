@@ -2,7 +2,7 @@
 
 [Skip to content](#main)
 
-BLACK FRIDAY - 20% off everything in the store - 10% off Raspberry Pi boards (see homepage banner for exceptions)BLACK FRIDAY - 20% off everything in the store - 10% off Raspberry Pi boards (see homepage banner for exceptions)
+\*\*\* Black Friday catch-up - shipping delays expected (2-3 days) \*\*\*\*\*\* Black Friday catch-up - shipping delays expected (2-3 days) \*\*\*
 
 Navigation
 
