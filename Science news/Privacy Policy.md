@@ -177,7 +177,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [50 years ago, physics underwent a major revolution](https://www.sciencenews.org/article/50-years-particle-physics-revolution)
             
-            By [Cassie Martin](https://www.sciencenews.org/author/cassie-martin "Posts by Cassie Martin")22 hours ago
+            By [Cassie Martin](https://www.sciencenews.org/author/cassie-martin "Posts by Cassie Martin")November 29, 2024
             
         * [Cosmology](https://www.sciencenews.org/topic/cosmology)
             
