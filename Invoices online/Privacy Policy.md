@@ -117,57 +117,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Saving time, saving money
-> -------------------------
+> One of the best decisions I've made for my business
+> ---------------------------------------------------
 > 
-> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
+> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
 
-Cornel Erasmus - TELA Loss Adjusters & Assessors
+Anri van der Linde
 
-![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=6681e9162a1b59e102a119db08ead2bd5066ab5f75d5eac2c514cabc43aa2769&c=160455780)  
-Karino Merinos ( PTY ) LTD
+![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=c87fb6c1dde4cfd0b7e9ceb3de1ed7a868350a2105419b64b311f0b3da28d7a0&c=75238431)  
+Immediate Health (pty)ltd
 
-![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=6681e9162a1b59e102a119db08ead2bd5066ab5f75d5eac2c514cabc43aa2769&c=19199661)  
+![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=c87fb6c1dde4cfd0b7e9ceb3de1ed7a868350a2105419b64b311f0b3da28d7a0&c=169340395)  
+Stories (Pty) Ltd t/a Storietyd
+
+![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=c87fb6c1dde4cfd0b7e9ceb3de1ed7a868350a2105419b64b311f0b3da28d7a0&c=158720213)  
 Nilbet T/A Waterman
 
-![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=6681e9162a1b59e102a119db08ead2bd5066ab5f75d5eac2c514cabc43aa2769&c=67558315)  
-MR Compressors& Industrial Supplies
+![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=c87fb6c1dde4cfd0b7e9ceb3de1ed7a868350a2105419b64b311f0b3da28d7a0&c=1590374)  
+Know Informatics
 
-![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=6681e9162a1b59e102a119db08ead2bd5066ab5f75d5eac2c514cabc43aa2769&c=89943037)  
-Leef in Afrikaans
-
-![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=6681e9162a1b59e102a119db08ead2bd5066ab5f75d5eac2c514cabc43aa2769&c=73022742)  
-Alliance Energy
-
-![valued client VIV'S TRUCKS (Pty) Ltd. (651)](https://www.invoicesonline.co.za/scripts/image.php?bid=6481&file=logo_300_100&type=&fe=6681e9162a1b59e102a119db08ead2bd5066ab5f75d5eac2c514cabc43aa2769&c=185128619)  
-VIV'S TRUCKS (Pty) Ltd. (651)
-
-![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=6681e9162a1b59e102a119db08ead2bd5066ab5f75d5eac2c514cabc43aa2769&c=190688930)  
-Vplay Grafix
-
-![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=6681e9162a1b59e102a119db08ead2bd5066ab5f75d5eac2c514cabc43aa2769&c=54863232)  
-Blue Sky Solar Services
-
-![valued client Sophia's Roses](https://www.invoicesonline.co.za/scripts/image.php?bid=5227&file=logo_300_100&type=&fe=6681e9162a1b59e102a119db08ead2bd5066ab5f75d5eac2c514cabc43aa2769&c=33704123)  
+![valued client Sophia's Roses](https://www.invoicesonline.co.za/scripts/image.php?bid=5227&file=logo_300_100&type=&fe=c87fb6c1dde4cfd0b7e9ceb3de1ed7a868350a2105419b64b311f0b3da28d7a0&c=34321160)  
 Sophia's Roses
 
-![valued client SAUL ATHOL ACRES RENTAL](https://www.invoicesonline.co.za/scripts/image.php?bid=8430&file=logo_300_100&type=&fe=6681e9162a1b59e102a119db08ead2bd5066ab5f75d5eac2c514cabc43aa2769&c=86157746)  
-SAUL ATHOL ACRES RENTAL
-
-![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=6681e9162a1b59e102a119db08ead2bd5066ab5f75d5eac2c514cabc43aa2769&c=158941545)  
-Moremi Kitchens Rustenburg
-
-![valued client African Roots](https://www.invoicesonline.co.za/scripts/image.php?bid=1000&file=logo_300_100&type=&fe=6681e9162a1b59e102a119db08ead2bd5066ab5f75d5eac2c514cabc43aa2769&c=202360234)  
-African Roots
-
-![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=6681e9162a1b59e102a119db08ead2bd5066ab5f75d5eac2c514cabc43aa2769&c=128190816)  
+![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=c87fb6c1dde4cfd0b7e9ceb3de1ed7a868350a2105419b64b311f0b3da28d7a0&c=140702344)  
 Brand's Fountains Deco and Events Coordinatoin
 
-![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=6681e9162a1b59e102a119db08ead2bd5066ab5f75d5eac2c514cabc43aa2769&c=108607574)  
-Mountain Lion Properties
+![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=c87fb6c1dde4cfd0b7e9ceb3de1ed7a868350a2105419b64b311f0b3da28d7a0&c=181883387)  
+Blue Bulls Rugby Coaches Association
 
-![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=6681e9162a1b59e102a119db08ead2bd5066ab5f75d5eac2c514cabc43aa2769&c=30824738)  
-BD Maintenance
+![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=c87fb6c1dde4cfd0b7e9ceb3de1ed7a868350a2105419b64b311f0b3da28d7a0&c=187589331)  
+Dr V Naik Consult
+
+![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=c87fb6c1dde4cfd0b7e9ceb3de1ed7a868350a2105419b64b311f0b3da28d7a0&c=152570652)  
+OPTIMUS ELECTRICAL PTY (LTD)
+
+![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=c87fb6c1dde4cfd0b7e9ceb3de1ed7a868350a2105419b64b311f0b3da28d7a0&c=89063475)  
+NJR ICT Services (Pty) Ltd
+
+![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=c87fb6c1dde4cfd0b7e9ceb3de1ed7a868350a2105419b64b311f0b3da28d7a0&c=82558916)  
+TIGERDSL
+
+![valued client Super Sound Man (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7403&file=logo_300_100&type=&fe=c87fb6c1dde4cfd0b7e9ceb3de1ed7a868350a2105419b64b311f0b3da28d7a0&c=151496343)  
+Super Sound Man (PTY) Ltd
+
+![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=c87fb6c1dde4cfd0b7e9ceb3de1ed7a868350a2105419b64b311f0b3da28d7a0&c=47126950)  
+AquariumSmiths
+
+![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=c87fb6c1dde4cfd0b7e9ceb3de1ed7a868350a2105419b64b311f0b3da28d7a0&c=131896719)  
+Entidee Enterprise PTY (ltd)
+
+![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=c87fb6c1dde4cfd0b7e9ceb3de1ed7a868350a2105419b64b311f0b3da28d7a0&c=40241019)  
+Xpress Designs
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
