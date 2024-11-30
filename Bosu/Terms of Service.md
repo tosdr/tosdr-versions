@@ -145,35 +145,35 @@ United States (USD $)
 * [YouTube](https://www.youtube.com/channel/UCb3qBl6yySVqSVD9HxiMtyQ)
 
 * Free shipping over $100 📦
-* 🎁 24-HOUR BLACK FRIDAY SALE 🎁
+* 🎁 FINAL HOURS: BLACK FRIDAY SALE 🎁
 * OUR BEST SALE EVER: 30% off site wide 🎊
 * Free shipping over $100 📦
-* 🎁 24-HOUR BLACK FRIDAY SALE 🎁
+* 🎁 FINAL HOURS: BLACK FRIDAY SALE 🎁
 * OUR BEST SALE EVER: 30% off site wide 🎊
 * Free shipping over $100 📦
-* 🎁 24-HOUR BLACK FRIDAY SALE 🎁
+* 🎁 FINAL HOURS: BLACK FRIDAY SALE 🎁
 * OUR BEST SALE EVER: 30% off site wide 🎊
 * Free shipping over $100 📦
-* 🎁 24-HOUR BLACK FRIDAY SALE 🎁
+* 🎁 FINAL HOURS: BLACK FRIDAY SALE 🎁
 * OUR BEST SALE EVER: 30% off site wide 🎊
 * Free shipping over $100 📦
-* 🎁 24-HOUR BLACK FRIDAY SALE 🎁
+* 🎁 FINAL HOURS: BLACK FRIDAY SALE 🎁
 * OUR BEST SALE EVER: 30% off site wide 🎊
 
 * Free shipping over $100 📦
-* 🎁 24-HOUR BLACK FRIDAY SALE 🎁
+* 🎁 FINAL HOURS: BLACK FRIDAY SALE 🎁
 * OUR BEST SALE EVER: 30% off site wide 🎊
 * Free shipping over $100 📦
-* 🎁 24-HOUR BLACK FRIDAY SALE 🎁
+* 🎁 FINAL HOURS: BLACK FRIDAY SALE 🎁
 * OUR BEST SALE EVER: 30% off site wide 🎊
 * Free shipping over $100 📦
-* 🎁 24-HOUR BLACK FRIDAY SALE 🎁
+* 🎁 FINAL HOURS: BLACK FRIDAY SALE 🎁
 * OUR BEST SALE EVER: 30% off site wide 🎊
 * Free shipping over $100 📦
-* 🎁 24-HOUR BLACK FRIDAY SALE 🎁
+* 🎁 FINAL HOURS: BLACK FRIDAY SALE 🎁
 * OUR BEST SALE EVER: 30% off site wide 🎊
 * Free shipping over $100 📦
-* 🎁 24-HOUR BLACK FRIDAY SALE 🎁
+* 🎁 FINAL HOURS: BLACK FRIDAY SALE 🎁
 * OUR BEST SALE EVER: 30% off site wide 🎊
 
 Terms of service
