@@ -31,6 +31,640 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+¿Qué es la PrEP y la PEP para prevenir VIH?
+===========================================
+
+Ecuador cuenta con estos medicamentos en los centros de atención primaria de salud del Ministerio de Salud Pública.
+-------------------------------------------------------------------------------------------------------------------
+
+![La PrEP es un método de prevención de la transmisión del VIH.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-63-1.jpg)
+
+La profilaxis preexposición (PrEP) y la profilaxis posexposición (PEP) pueden ayudar a mantener al virus de inmunodeficiencia humana (VIH) negativo. Incluso si su pareja tiene el virus.
+
+Más noticias
+------------
+
+* [Estigma y discriminación, frenos para reducir el VIH y erradicar el sida en Ecuador](https://www.elcomercio.com/opinion/editorial/vih-erradicar-ecuador-cifras-onusida.html "Estigma y discriminación, frenos para reducir el VIH y erradicar el sida en Ecuador")
+* [Ecuador reporta un promedio diario de 14 nuevos casos de VIH](https://www.elcomercio.com/tendencias/salud/ecuador-reporta-un-promedio-diario-de-14-nuevos-casos-de-vih.html "Ecuador reporta un promedio diario de 14 nuevos casos de VIH")
+* [Hablemos de las Infecciones de Transmisión Sexual en Ecuador](https://www.elcomercio.com/opinion/editorial/hablemos-de-las-infecciones-de-transmision-sexual-en-ecuador.html "Hablemos de las Infecciones de Transmisión Sexual en Ecuador")
+
+La PrEP es un medicamento de acceso gratuito en la red de atención primaria de salud pública del Ecuador. Se prescribe para las personas que están en riesgo de contraer VIH para prevenir la transmisión al tener sexo o por el uso de drogas inyectables. Se toma una pastilla al día.
+
+Mañana domingo, 1 de diciembre de 2024, se celebra el Día Mundial contra el sida. En este contexto, la implementación de la estrategia de la PrEP y la PEP marca un antes y un después en el manejo del VIH. Esto debido a que va a contribuir a bajar la mortalidad de pacientes en fase avanzada del VIH, según Rodrigo Tobar, gerente de la Estrategia de Prevención y Control de VIH-sida.
+
+Por este día, la Organización Panamericana de la Salud (OPS) lanzó la campaña [Mejor con PrEP](https://www.paho.org/es/mejor-con-prep "https://www.paho.org/es/mejor-con-prep") para reducir el estigma y promover la prevención en las poblaciones de más riesgo.
+
+En Ecuador, 3 269 personas de grupos de población clave (hombres que se acuestan con hombres, trabajadoras sexuales) accedieron a la PrEP, mientras que otros 2500 recibieron la PEP.
+
+¿Para quiénes es la PrEP?
+-------------------------
+
+Un profesional de salud prescribe la PrEP, siempre y cuando la prueba de VIH dio negativa. También se toma en cuenta estas consideraciones adicionales:
+
+* Una persona ha tenido sexo anal o vaginal en los últimos seis meses.
+* Tiene una pareja sexual con VIH y su carga viral no se conoce o es detectable.
+* No usa preservativos o recibió un diagnóstico de una infección de transmisión sexual (ITS) como la sífilis, en los últimos seis meses.
+* Tiene un comportamiento continuo de riesgo. Por ejemplo ha recibido una receta de PEP (profilaxis posexposición) por emergencia.
+* Está aprobado, incluso, para adolescentes que no tengan VIH y estén en riesgo de contraerlo.
+
+¿En dónde puedo acceder a la PrEP?
+----------------------------------
+
+Desde inicio del 2023, el MSP cuenta con la PrEP y su acceso se ha extendido a los centro de atención primaria de salud pública, de forma gratuita. Adicionalmente, se cuenta con [19 centros de salud inclusivos](https://www.elcomercio.com/tendencias/salud/ecuador-tiene-19-centros-inclusivos-para-tratar-infecciones-de-transmision-sexual-sin-estigma.html) libres de estigma y discriminación en ciudades estratégicas de la Sierra, Costa y Amazonía.
+
+Acuda a un centro de salud de primer nivel si considera que la PrEP es conveniente para usted. Antes de comenzar a tomar debe hacerse una prueba de VIH. Esto es para asegurarse de que sea negativo. Este procedimiento se hace bajo estricta política de reserva y confidencialidad.
+
+Si empieza a tomar PrEP debe tener citas médicas de seguimiento, generalmente, cada tres meses. Se realizan pruebas de VIH y las que sean necesarias. Incluso puede necesitar atención de otros servicios para que se mantenga saludable.
+
+¿La PrEP es segura?
+-------------------
+
+Está comprobado que es un medicamento eficaz y seguro para prevenir la infección por VIH. Esto lo confirman los Centros para el Control y la Prevención de Enfermedades [(CDC)](https://www.cdc.gov/stophivtogether/spanish/index.html "https://www.cdc.gov/stophivtogether/spanish/index.html") de los Estados Unidos.
+
+Según la Organización Mundial de la Salud es una repuesta coherente con los acuerdos internacionales con los que Ecuador se comprometió para poner fin a la epidemia del sida.
+
+Algunos pacientes no presentan efectos secundarios. Otros suelen tener dolores de cabeza o estómago, diarrea o náuseas. Si ese es el caso deben acudir al centro de salud.
+
+Razones por las que dejan de tomar la PrEP
+------------------------------------------
+
+* Consideran que tienen bajo riesgo de contraer el VIH
+* Se olvidan frecuentemente de tomar el medicamente. Esto los pone nuevamente en riesgo.
+* Las pastillas causan efectos secundarios
+
+Hable con su médico sobre todas las formas de prevención para prevenir la infección. Si dejó de tomar y quiere retomar debe saber que no tiene el virus con una nueva prueba.
+
+¿La PrEP sustituye al preservativo?
+-----------------------------------
+
+La PrEP previene la transmisión del VIH, pero no protege contra otras ITS. Los preservativos ayudan a la prevención de infecciones, como la gonorrea, clamidia, entre otras.
+
+Toma en cuenta que los preservativos son menos eficaces para prevenir las ITS que se trasmiten por llagas, como el virus del papiloma humano, el herpes genital y la sífilis.
+
+Your browser does not support the video tag.
+
+¿Qué es la PEP y dónde adquirirla?
+----------------------------------
+
+Se expuso al VIH y no está seguro si la persona con que tuvo la relación sexual es VIH negativo. Si eso le ocurre, el sistema de salud pública cuenta con la PEP (profilaxis posexposición) para evitar la transmisión.
+
+La PEP se toma dentro de las 72 horas después de una posible exposición al VIH. Mientras más rápido se tome es mejor. Pero debe seguir las indicaciones del profesional de salud de los centros de salud de atención primaria del MSP.
+
+Ojo esto solo en casos de emergencia, cuando hay una exposición de riesgo, por ejemplo, si el preservativo se rompió. También compartió jeringuillas y otros implementos para inyectarse drogas. Si fue víctima de un abuso sexual.
+
+La PEP no es sustituto de:
+--------------------------
+
+* La PrEP, que es un tratamiento regular para bajar la probabilidad de contraer la infección por VIH.
+* Los preservativos, que se usan en cada relación sexual.
+* No puede dejar la práctica de usar sus propias jeringas e implementos para inyectarse.
+
+¿Cada vez que tenga sexo sin protección recurro a la PEP?
+---------------------------------------------------------
+
+No es la opción adecuada para las personas que están expuestas de forma frecuente al virus. Para ellos está disponible la PrEP. Tome en cuenta que la PEP se da después de una posible exposición al VIH y se necesitan dosis altas de múltiples medicamentos para bloquear la infección.
+
+Es decir, la PEP solo es para casos de emergencia. Su eficacia comprobada está dentro de las 72 horas después de que tuvo la relación sexual de riesgo.
+
+La violencia de género arrebata vidas, aún hay ‘Esperanza’
+==========================================================
+
+El Comercio lanzó un pódcast que recoge historias de mujeres sobrevivientes de la violencia de género y de madres que luchan por justicia.
+------------------------------------------------------------------------------------------------------------------------------------------
+
+![Esperanza es un pódcast de El Comercio, que se lanzó el lunes, 25 de noviembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-1-5.jpg)
+
+**¡Si silenciamos las historias, perpetuamos la violencia!** Esperanza, un pódcast de **EL COMERCIO**, es el inicio de un camino sostenido, con voces y rostros de esa realidad oculta y, a la par, palpable: la violencia de género y los desenlaces fatales. Pero, a su vez, las redes que apoyan a romper el círculo.
+
+Esperanza surge en medio de un panorama que, en Ecuador, entre el 1 de enero y el 15 de noviembre de 2024, ya cobró, **al menos, 214 vidas. Así lo reporta la Fundación Aldea.**
+
+La vida después del femicidio no vuelve a ser la misma. Una madre encuentra a su hija con **13 puñaladas** o la busca desesperadamente hasta recibir la noticia: su cuerpo, con ocho meses de gestación, estaba en descomposición en medio de los matorrales.
+
+> Entre las víctimas de 2024, **64 eran madres** y **al menos 10 estaban embarazas**, según Aldea.
+
+Más aún cuando el dolor, además, se convierte en un camino cuesta arriba para lograr justicia, con funcionarios que dilatan procesos o dejan en libertad a los implicados en las muertes.
+
+Esa pendiente tampoco deja fuera el incumplimiento de la reparación para los **niños** que quedan en la **orfandad**.
+
+**Esperanza** es un canal para esas voces que se entrelazan con el llanto y, a la par, se arman de fortaleza, se unen con otras para exigir no repetición.
+
+Ese es el caso de las integrantes de la **Fundación Madres Coraje**. La agrupación se formó en 2022 y, en 2023, se consolidaron legalmente.
+
+Eran cinco y, en este noviembre de 2024, llegaron a 35. Aunque suman fuerzas, el ser más no las alegra, pues, repiten, significa que cada vez hay más **casos**.
+
+Desde 2014, cuando se tipificó el femicidio en el **Código Orgánico Integral Penal (COIP)**, Aldea da cuenta de que, al menos, **1 920 mujeres, adolescentes y niñas** han sido asesinadas violentamente en Ecuador a causa de la violencia machista.
+
+Hay mujeres que han logrado romper el círculo de la violencia. **Esperanza también se inspira en ellas**, con una consigna fija: que las historias no se repitan y que el Estado haga su parte.
+
+Solo basta con evidenciar que muchas de las mujeres que perdieron la vida habían alertado sobre el riesgo e, incluso, contaban con **boletas de auxilio**.
+
+De ahí la importancia de la prevención, de los servicios, las redes de apoyo, las casas de acogida, en definitiva, la tarea de todos.
+
+El pódcast de EL COMERCIO, cuyas entregas son quincenales a través de plataformas como Spotify, imprime una postura clara: un sí a la vida y a los derechos.
+
+### Esperanza
+
+Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
+
+Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
+
+[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
+
+El llanero solitario
+====================
+
+Un político desafía las infracciones legales en Ecuador mientras enfrenta un juicio impulsado por intereses correístas.
+-----------------------------------------------------------------------------------------------------------------------
+
+![Lolo Echeverría, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Lolo-Echeverria-1.jpg)
+
+Un **justiciero** que cabalgaba por las llanuras del viejo oeste en busca de la verdad y la justicia, el llanero solitario, nació en radio, se hizo **famoso en libros** y terminó en el cine y la televisión. Ahora tenemos un nuevo llanero solitario que lucha contra los forajidos de la **política ecuatoriana**. Se llama Juan Esteban Guarderas.
+
+Confieso que me defraudó cuando salió en ayuda de Daniel Noboa en su cruzada contra la vicepresidente Abad. Le acusa de haber hecho **campaña anticipada**, hace una década, cuando era candidata a una **alcaldía**. Parecía un embuste esta **justicia histórica** cuando los dos candidatos principales hacen ahora campaña anticipada con total **impunidad**. Pero he cambiado.
+
+Guarderas pretende obtener **sanción**, por primera vez, para **algunas infracciones** que están escritas, pero nadie las lee. Campaña anticipada, control del **gasto electoral**, proselitismo político de funcionarios públicos, **filiación partidista** de funcionarios que por ley deben ser independientes, inauguración de obras como **campaña electoral.** Contra todas estas **infracciones** ha luchado con **éxito**.
+
+Ahora tiene más poder en el CPCCS y el correísmo quieren destituirle con un **juicio político**. Con la censura lograrán la mayoría de ese Consejo porque sería reemplazado por el abogado de Jorge Glas. Le han ofrecido abandonar el juicio si abandona el caso de la vicepresidente.
+
+Esta **propuesta** demuestra que la madre del cordero es la **liberación** de Glas y quieren conseguirla con un posible indulto de Abad o mediante mayoría en el **Consejo de Participación Ciudadana** que designará el nuevo Fiscal, Consejo de la Judicatura, Consejo Nacional Electoral y Tribunal Contencioso Electoral.
+
+Un objetivo no alcanzado por el llanero solitario era la **remoción** de Diana Atamaint, presidenta perennizada en el CNE por **manipulación** de los partidos políticos. Juan Esteban Guarderas ha cometido la **imprudencia política** de tomar en serio las leyes, ojalá que los ecuatorianos cometan la imprudencia política de premiar su gestión.
+
+Cartas a Quito / 30 de noviembre de 2024
+========================================
+
+Estas son las cartas a Quito de este sábado 30 de noviembre de 2024
+-------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Es hora de revelarnos
+---------------------
+
+En la última constitución, los políticos intencionalmente borraron del pénsum estudiantil las materias de ética y cívica; sin embargo, sorprende que cada vez hay más ciudadanos ansiosos de sacrificarse, en beneficio del bien común. Ahora mismo, para las elecciones de febrero 2025 hay 16 binomios que aspiran a la presidencia y vicepresidencia de la república, ¿por qué será? Porque la democracia faculta a todo ecuatoriano, elegir y ser elegido, para el segundo caso, no exige ningún requisito, solo estar afiliado a un partido o movimiento político, escuela donde aprenden y se especializan a levantar falsos testimonios y usurpar los bienes públicos. La historia nos revela que el político, busca servirse y no servir, busca tener autoridad y manejar fondos ajenos, engañar y asegurar su futuro, no hay distinción entre políticos de derecha, izquierda y de centro, entre trans y de tres palos, entre el viejo Ecuador y el nuevo, entre charlatanes y sin lengua, entre cuerdos y locos, entre patojos y sanos, su impronta es la mentira y el robo y, cuando les pillan son perseguidos políticos. Basta ya de creer en este perverso personaje que pertenece a una clase descalificada que ha engañado, engaña y engañará siempre, para ellos somos tontos útiles, (en diciembre volverá la vida normal). Ningún candidato tiene la menor idea de cómo resolver los problemas graves que tiene el Ecuador (seguridad, electrificación, empleo, salud y educación), no tienen planes de trabajo solo declaraciones líricas, no tienen proyectos, actividades, duración, costo, y fuentes de financiamiento, así, no se puede controlar, pero claro, ese es el objetivo, improvisar para camuflar sus fechorías, no seamos ingenuos, rechacemos a la antipatria, que nunca se preocuparon de su mandante, solo en elecciones desesperadas buscan nuestro voto, es hora de revelarnos, el futuro está en nosotros.
+
+Marco A. Zurita Ríos
+
+Reconocimiento para proyectos de inteligencia artificial ecuatorianos
+=====================================================================
+
+Ecuador tiene un gran potencial para ser un importante actor en el desarrollo de la inteligencia artificial a través de proyectos innovadores que compiten a nivel global.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Marco E. Benalcázar, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Marco-E.-Benalcazar.jpg)
+
+¿Sabía que en Ecuador se desarrollan **proyectos innovadores** en Inteligencia Artificial (IA)? Investigadores, laboratorios y empresas locales nos demuestran que, con esfuerzo y conocimiento, es posible afrontar **grandes desafíos**. En esta columna le invito a conocer varios **proyectos de IA** que parecen de _Silicon Valley_, pero que en realidad han sido desarrollados por **talento ecuatoriano** y dentro de nuestra frontera patria. La descripción de cada proyecto está dada por sus propios creadores.
+
+Para poner el tema en contexto, el 21 de noviembre de 2024 el Ministerio de Telecomunicaciones y de la Sociedad de la Información (**MINTEL**) llevó a cabo el evento **SinergIA Reconocimientos**. Aquí se premió a los [proyectos ecuatorianos más innovadores y destacados en IA](https://observatorioecuadordigital.mintel.gob.ec/sfsied/dfte/proyia_ganadores24/) que aportan para el **desarrollo de Ecuador** en 7 categorías: Agroindustria, industria acuícola y pesquera; educación; energía; medio ambiente; salud y bienestar; servicios intensivos; y transporte, movilidad y logística. En esta convocatoria se presentaron más de 35 proyectos, los cuales fueron evaluados por un **jurado internacional** de alto nivel. En este evento confluyeron gobierno, academia, embajadas internacionales, y representantes del **ecosistema digital** nacional e internacional, para demostrar que Ecuador tiene un importante **talento humano en IA**.
+
+En **agroindustria, industria acuícola y pesquera,** el proyecto ganador fue **Soluvia, d**irigido por Luis Guamán. Este proyecto “trabaja con IA y genera **información en tiempo real** para que productores de **tilapias** y **truchas** puedan tomar **decisiones inteligentes**, y puedan administrar de forma más eficiente sus producciones. Actualmente, está en su versión demo y, para el primer trimestre 2025, estará probándose en piscinas de truchas y tilapias. El objetivo es captar el mercado nacional en el 2025 e **internacionalizarse en el 2027**.”
+
+En **educación**, el proyecto ganador fue, [**Edutrackr**](https://www.edutrackrapp.com/)dirigido por Jorge Padilla y Alain Ruales. Este desarrollo “es una p**lataforma educativa** impulsada por IA que busca transformar el **proceso de enseñanza y aprendizaje**. La solución aborda la necesidad de **personalizar la educación** para brindar mayor atención a las necesidades de cada estudiante (…). Edutrackr ofrece un **enfoque adaptativo** que personaliza las lecciones y proporciona **apoyo continuo a estudiantes y docentes**, optimizando así el aprendizaje y el **bienestar emocional**. Con ello, se busca generar un impacto significativo en la formación de los estudiantes y aprovechar la tecnología para **democratizar el acceso a una educación de calidad**.”
+
+En **energía,** el ganador fue [**ÁLTITUM – Geomatic’s Cloud Computing**](https://www.altitum.com/), dirigido por Ángel Morales. Este proyecto “integra y visualiza **datos geoespaciales** de diversas fuentes como LiDAR, fotogrametría y batimetría. Es útil para los sectores inmobiliario, construcción, agrícola, energético, hídrico, minero y petrolero. Optimiza la **toma de decisiones** mediante representaciones detalladas del entorno. Adicionalmente, facilita la **planificación urbana**, gestión de infraestructuras, soluciones de **agricultura de precisión**, y monitoreo ambiental y de recursos naturales.”
+
+En **medio ambiente,** el proyecto que recibió el reconocimiento es **Wildclaut**, desarrollado por Gloria Panchana. Este proyecto tiene como objetivo facilitar la gestión, planificación, mitigación e incluso reforestación de áreas lesionadas a causa de **incendios forestales** que sufrimos a escala nacional. Usa **visión por computador** para la clasificación automática de incendios forestales en **imágenes satelitales** e imágenes adquiridas por **drones**. Esta solución se puede escalar a nivel de servicio para que pueda ser adoptada por otros países de la región, quienes actualmente también sufren de incendios forestales.
+
+En la categoría **servicios intensivos,** el proyecto ganador fue [**Caimán Inmunizador**](https://www.caimaninmunizador.com/), dirigido por Jairo Cano. Esta solución es un software de **ciberseguridad** para Microsoft Windows, que sirve como un inmunizador contra **malware** y **ransomware**. Entre sus ventajas se destacan que no requiere actualizaciones constantes por internet, **aumenta el rendimiento** del computador, realiza el bloqueo de sitios web, **desinfección de dispositivos de almacenamiento USB**, sirve para encriptar documentos, permite la administración local y vía consola web, es de bajo costo, y tiene soporte local.
+
+En **transporte, movilidad y logística,** el proyecto ganador fue[**SafeBus**](https://www.steamlabsec.com/), dirigido por Santiago Solórzano. Este proyecto “busca mejorar la **seguridad y eficiencia del transporte público** al abordar problemas como la falta de control sobre el número de pasajeros y la necesidad de mayor **seguridad para conductores y usuarios**. SafeBus utiliza tecnología avanzada para monitorear en tiempo real el flujo de personas, **identificar conductores**, y recopilar datos útiles para **optimizar rutas y servicios**. En el futuro, el proyecto aspira a integrarse en sistemas de transporte de **ciudades inteligentes**, promoviendo un transporte más seguro, eficiente y sostenible. Este proyecto representa un paso hacia una **movilidad urbana** más moderna y accesible para todos.”
+
+En la categoría **salud y bienestar,** el proyecto ganador fue [**prótesis de mano con inteligencia artificial e impresión 3D**](https://youtu.be/0btMYfIq1TI?si=uB-FOFCR2lcL1-_R). Este proyecto es desarrollado por el [Laboratorio de Investigación en Inteligencia y Visión Artificial “Alan Turing”](https://laboratorio-ia.epn.edu.ec/es/) de la **Escuela Politécnica Nacional**. Su objetivo es desarrollar **prótesis inteligentes**, avanzadas, y de **bajo costo** que permitan que personas con **amputación de mano** puedan desarrollar sus actividades cotidianas de forma regular. Este proyecto combina investigación, innovación, y desarrollo tecnológico para aportar de forma significativa a la inclusión social. Por esta razón, aparte de ganar en la categoría salud y bienestar, este proyecto también fue reconocido como el proyecto más destacado en IA en Ecuador.
+
+Según el MINTEL, “el proyecto SinergIA busca **impulsar la IA en Ecuador**. Esta iniciativa procura unir a todos los sectores del país: gobierno, universidades, empresas, y sociedad para desarrollar y dinamizar un **ecosistema de IA** que beneficie a todos los ciudadanos. En este marco, con charlas, reconocimientos, retos y capacitaciones, el MINTEL promueve un **uso responsable y sostenible de la IA**, asegurando que esta tecnología se desarrolle de manera **ética y transparente**.”
+
+Como nos podemos dar cuenta, en nuestro país se realizan proyectos muy interesantes y de **alto impacto en IA**. ¡Felicitaciones a los ganadores! Sin embargo, es importante recalcar que, aparte de premiar los esfuerzos de **talentosos investigadores, empresas** y **laboratorios de investigación**, en Ecuador también requerimos que se multipliquen los **incentivos** y el **apoyo del gobierno**, la **empresa privada**, y la **sociedad** en su conjunto. Con esto aportaremos de forma significativa para que Ecuador sea parte de la cuarta revolución industrial. Dejaremos atrás una economía basada en la venta de productos de nulo o bajo valor agregado, para avanzar hacia una economía donde el conocimiento sea la materia prima que se transforme en productos o servicios de exportación.
+
+¡El futuro de la IA también lo podemos construir desde Ecuador!
+
+Salteado de carne, sabor en minutos
+===================================
+
+Aprende a preparar un exquisito salteado de carne con vegetales frescos, ideal para una comida rápida y nutritiva. ¡Comparte esta receta con tus amigos!
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Dale sabor a tu día con esta receta jugosa, llena de color y lista en minutos.](https://www.elcomercio.com/wp-content/uploads/2024/11/3-1-1.jpg)
+
+El **salteado de carne** es un plato versátil y nutritivo que combina la **jugosidad** de la **carne** con la frescura de los vegetales. Esta **receta** es perfecta para quienes buscan una **comida rápida**, nutritiva, sabrosa y fácil de preparar. Con esta receta, puedes experimentar con diferentes tipos de carnes y verduras según tus preferencias personales. A continuación, te presentamos una guía completa sobre cómo hacer un **delicioso salteado de carne**, incluyendo consejos útiles y opciones para acompañarlo.
+
+Ingredientes
+------------
+
+500 g de carne (puede ser res, pollo o cerdo)
+
+1 cebolla grande
+
+2 pimientos (uno rojo y uno verde)
+
+2 zanahorias
+
+3 cucharadas de salsa de soja
+
+3 dientes de ajo
+
+2 cucharadas de aceite (puede ser de oliva o sésamo)
+
+Sal y pimienta al gusto
+
+Opcional: ajonjolí para decorar
+
+* * *
+
+> Un colorido salteado de carne, perfecto para disfrutar en cualquier ocasión.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/1-1-1-1024x640.jpg)
+
+Prepara esta deliciosa receta de carne salteada con tus vegetales favoritos.
+
+Preparación del salteado de carne
+---------------------------------
+
+* **Cortar** la carne en tiras finas.
+* **Lavar** y cortar los pimientos en tiras.
+* **Pelar** y cortar las zanahorias en rodajas finas.
+* **Picar** finamente los dientes de ajo.
+* En un bol, **mezclar** la carne con 1 cucharada de salsa de soja, sal y pimienta. Dejar marinar durante al menos 15 minutos para que absorba los sabores.
+* En un sartén grande, **calentar** el aceite a fuego medio-alto.
+* **Añadir** la carne al sartén caliente y cocinar durante 5-7 minutos o hasta que esté dorada. **Retirar** la carne del sartén y reservar.
+* En el mismo sartén, **agrega**r un poco más de aceite si es necesario y **añadir** la cebolla, los pimientos y las zanahorias.
+* **Cocinar** las verduras durante unos 5 minutos, revolver frecuentemente hasta que estén tiernas pero crujientes.
+* **Incorporar** el ajo picado a las verduras y cocinar por 1 minuto más hasta que esté fragante.
+* **Devolver** la carne al sartén junto con las verduras.
+* **Agregar** las dos cucharadas restantes de salsa de soja y **mezclar** bien todos los ingredientes.
+* **Cocinar** por otros 2-3 minutos para que se integren los sabores.
+* **Servir** caliente, decorando con ajonjolí si lo deseas.
+
+Opciones para acompañar el salteado de carne
+--------------------------------------------
+
+* **Arroz blanco**, un clásico que complementa perfectamente el plato.
+* **Fideos salteados, o**tra opción deliciosa que absorbe bien los sabores del salteado.
+* **Ensalada Fresca** ligera puede equilibrar el plato y añadir frescura.
+
+Consejos para elaborar la receta
+--------------------------------
+
+* Asegúrate de cortar todos los **ingredientes** en tamaños similares para que se cocinen uniformemente.
+* Si estás cocinando grandes cantidades, es mejor hacerlo en lotes para evitar que se cocinen al vapor en lugar de saltearse.
+* Puedes añadir otras verduras como brócoli o champiñones, según tu preferencia
+
+¡Buen provecho!
+
+El Metro cumple un año y tiene 15 estaciones para conocer a Quito
+=================================================================
+
+El Metro de Quito es una opción para conocer a la ciudad. Cumple un año de operación.
+-------------------------------------------------------------------------------------
+
+![El Metro de Quito es una opción para cruzar la ciudad.](https://www.elcomercio.com/wp-content/uploads/2024/11/metro-apertura.jpg)
+
+El **Metro de Quito** está de aniversario. Este domingo, 1 de diciembre de 2024, se cumple un año del inicio de la operación.
+
+El sistema de transporte cuenta con **15 estaciones** para conocer de cerca detalles y curiosidades de los sitios donde se encuentran.
+
+### Más notificaciones
+
+* [¿Cuál es el perfil de usuario que más viaja en el Metro de Quito?](https://www.elcomercio.com/actualidad/quito/metro-quito-perfil-usuario-viaje.html "¿Cuál es el perfil de usuario que más viaja en el Metro de Quito?")
+* [Metro de Quito habilita opciones de ingreso para acompañantes](https://www.elcomercio.com/actualidad/quito/metro-de-quito-habilita-opciones-de-ingreso-para-acompanantes.html "Metro de Quito habilita opciones de ingreso para acompañantes")
+* [El Metro de Quito trajo estos cambios al Centro Histórico](https://www.elcomercio.com/actualidad/quito/metro-quito-impulsa-economia-centro-historico.html "El Metro de Quito trajo estos cambios al Centro Histórico")
+
+El Metro y la memoria de Quito en las estaciones
+------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/cartilla-1024x683.jpg)
+
+Estas son las cartillas con la historia entorno a las estaciones del Metro de Quito. Foto: cortesía
+
+Son 22 kilómetros para conocer a la capital ecuatoriana y, con mayor razón, en sus fiestas. El trayecto de corrido toma 34 minutos, entre **Quitumbe y El Labrador**.
+
+Ese proyecto se puede aprovechar para conocer un poco más de: **Quitumbe, Morán Valverde, Solanda, Cardenal, Recreo, Magdalena, San Francisco, Alameda, Ejido, Universidad Central, Pradera, Carolina, Iñaquito, Jipijapa y Labrador**.
+
+El historiador **Javier Gómezjurado** hace un recorrido de norte a sur por la historia y los detalles de los sectores que acogen a las paradas.
+
+De hecho, él fue parte de la iniciativa que recoge datos en **15 cartillas**. El proyecto para que los pasajeros se enteren empezó en octubre de 2023 y terminó en octubre de 2024. Cada cuadernillo incluye **32 páginas**.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/metro-paradas-1024x683.jpg)
+
+La estación de El Labrador es un punto de conexión para el norte de Quito. Foto: archivo El Comercio
+
+Quitumbe
+--------
+
+**Quitumbe**, de sur a norte, es la primera estación del sistema que cuenta con 18 trenes, cada uno con capacidad para **1230 personas**.
+
+El nombre del sector y la parada se remonta al cacique de nombre Tumbe. Él tuvo dos hijos y el mayor, justamente, era **Quitumbe** y el segundo, Otoya.
+
+El sector fue también lugar de **haciendas** y, con los años, en el **siglo XX** se convirtió en polo de crecimiento habitacional y comercial de Quito.
+
+Morán Valverde
+--------------
+
+Del sector **Morán Valverde**, el Historiador da cuenta de viejas haciendas, como la **Solanda**. En la zona se tienen noticias de la ocupación de familias como **Carcelén, Carrión y Valdivieso**.
+
+El nombre responde a quien fue el marino y héroe nacional, **Rafael Morán Valverde**. No se quedan fuera las historias de las quebradas que eran alimentadas por el **Atacazo**. Con el tiempo, se constituyó en una zona de urbanizaciones, mercados y centros comerciales.
+
+Solanda
+-------
+
+**Solanda** o un sector conocido como Ciudad Jardín surgió de la hacienda del mismo nombre, hasta constituirse como uno de los sectores más densamente poblado de **Quito**.
+
+Donde antaño había bosques de arrayanes y otras especies, ahora hay decenas de locales comerciales y, sobre todo, memoria y **manifestaciones culturales**.
+
+**Solanda** es un barrio que se creó en la década de los 80, aunque desde los 70 ya hubo avances, sobre los terrenos donados por **María Augusta Urrutia** a la Fundación Mariana de Jesús.
+
+Cardenal de la Torre
+--------------------
+
+Al igual que los otros sectores, **Cardenal de la Torre** surgió en tierras de antiguas haciendas, donde el Banco de Vivienda impulsó proyectos habitacionales.
+
+El nombre se debe a **Carlos María Javier de la Torre y Nieto**, el primer ecuatoriano en ser admitido en el **Colegio Cardenalicio**.
+
+En los alrededores de la avenida que da nombre a la parada hay barrios emblemáticos de Quito, como **El Calzado y Quito Sur**. Estos empezaron con proyectos de vivienda popular.
+
+El Recreo
+---------
+
+Entre los grandes hitos de El Recreo está la llegada del **Trole**, en 1995. Claro que entre sus antecedentes está que empezó como un barrio para trabajadores de la fábrica La Internacional, con terrenos de 250 metros.
+
+En El Recreo, además, aún se pueden ver los rieles del tren cuya construcción se impulsó en el mandato de **Eloy Alfaro**.
+
+> 🚇[#UnAñoJuntoATi](https://twitter.com/hashtag/UnA%C3%B1oJuntoATi?src=hash&ref_src=twsrc%5Etfw) | En este año hemos realizado más de 50 millones de viajes ágiles y seguros. Gracias por confiar en nosotros y ser parte de este nuevo modelo de transporte.  
+>   
+> Seguimos avanzando hacia un futuro más rápido, sostenible y conectado.[#CulturaMetro](https://twitter.com/hashtag/CulturaMetro?src=hash&ref_src=twsrc%5Etfw)[#MetroEsQuito](https://twitter.com/hashtag/MetroEsQuito?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/RHCiJbmQsi](https://t.co/RHCiJbmQsi)
+> 
+> — Metro de Quito (@MetrodeQuito) [November 29, 2024](https://twitter.com/MetrodeQuito/status/1862550107842916747?ref_src=twsrc%5Etfw)
+
+La Magdalena
+------------
+
+El sector conocido como **La Magdalena** es una simbiosis entre lo ancestral, el comercio y la vecindad. La antigua quebrada de **Los Chochos** es parte de la memoria, donde mujeres desaguaban el producto.
+
+Aun con el paso de los años, se mantiene la memoria, que da cuenta de que el territorio donde se levanta el barrio estuvo habitado por una comunidad aborigen de nombre **Machangarilla**.
+
+Uno de los puntos infaltables es el parque central y la iglesia. La parada del **Metro** se encuentra a unas cuadras, hacia la av. Rodrigo de Chávez.
+
+San Francisco
+-------------
+
+Al avanzar en el **[Metro](https://metrodequito.gob.ec/)** es imposible no hacer una escala en **San Francisco**, en el corazón de **Quito**. Además de la plaza, la iglesia y museo, la casa que acoge la estación tiene una historia propia.
+
+La vivienda fue construida a mediados del siglo **XIX**. Esta fue la vivienda del abuelo del historiador del arte quiteño **José Gabriel Navarro.** Se trató de un predio que experimentó grandes transformaciones, conforme la ciudad creció.
+
+A mediados del **siglo XX**, cuando la zona de **San Francisco** se volvió comercial debido al desarrollo del mercado de Santa Clara, la casa fue intervenida para que funcionaran locales comerciales.
+
+Alameda
+-------
+
+**La Alameda** se encuentra en parte de lo que se conoció como el ejido norte de Quito, constituido como una gran llanura. **Javier Gómezjurado** da cuenta de hechos históricos como la batalla de Iñaquito.
+
+No queda fuera de la historia del sitio la iglesia de **El Belén**, una de las más antiguas de Quito. Esto sin olvidar el Observatorio Astronómico, fundado en 1873, durante la **Presidencia de García Moreno**.
+
+La laguna es, sin duda, uno de los íconos del lugar, así como el reconocido del Churo de la Alameda. En el lado oriental está otra joya patrimonial, el teatro **Capitol**.
+
+El Ejido
+--------
+
+El parque de **El Ejido**, en el centro-norte, es uno de los sitios emblemáticos de Quito. Este surgió como una prolongación del límite norte de la ciudad. Se lo conocía como **Añaquito o Iñaquito**.
+
+Los ejidos, en el norte y en el sur, eran espacios con porciones de tierra de uso público que no podían labrarse. Para inicios del **siglo XX**, se lo denominó Parque el Centenario, en conmemoración de la **Batalla de Pichincha**.
+
+Actualmente, **El Ejido** que acoge a artistas plásticos y tradiciones como el juego de la pelota nacional o los reconocidos cocos.
+
+Universidad Central
+-------------------
+
+La **Universidad Central** es una de las más emblemáticas en el país. Esta tiene su génesis en la Universidad de San Gregorio Magno.
+
+Además de la universidad, en el sector se encuentra el **Mercado Santa Clara**, un destino gastronómico icónico en la capital, fundado en 1951.
+
+Al visitar el **centro de abasto** no puede faltar una parada en los puestos de artesanías, como ollas de barro y canastas.
+
+La Pradera
+----------
+
+Como ocurre con otros sectores de Quito, **La Pradera** se levantó en los terrenos de antiguas haciendas, cruzadas por quebradas.
+
+En el caso de la calle, se extiende desde la avenida República, atraviesa la calle Diego de Almagro y termina en la avenida **6 de Diciembre**.
+
+Tiene su origen el 18 de junio de 1935, cuando se aprobó la construcción de la Ciudadela Universitaria en la hacienda La Pradera. Una de las primeras edificaciones fue el **Colegio Militar Eloy Alfaro**.
+
+La Carolina
+-----------
+
+El parque **La Carolina**, sin duda, es el referente que da nombre a la estación del **Metro de Quito**. Pero, no siempre fue un área verde, sino una laguna.
+
+El lugar formaba parte de la **Hacienda La Carolina** y que María Augusta Urrutia donó una parte al Municipio.
+
+En 1942, el arquitecto uruguayo Jones Odriozola, definió un plan en el que los parques fueron vistos como elementos importantes en una urbe. En este se identificó que en **La Carolina** podía funcionar un centro deportivo. En **1975**, se consolidó oficialmente como parque.
+
+Iñaquito
+--------
+
+**Iñaquito** es el corazón financiero de **Quito**. Además, tiene un atractivo quiteño: el mercado del mismo nombre, donde los platillos tradicionales son las estrellas. Los jugos de frutas están entre las especialidades.
+
+El Estadio Olímpico es uno de los vecinos de la estación. Este se inauguró el 25 de noviembre de 1951, como parte del plan regulador urbano de Quito diseñado por **Odriozola**.
+
+Jipijapa
+--------
+
+La estación **Jipijapa** está en la zona donde, por los años 60, se encontraba una hacienda ganadera. Este era el escenario de la Feria Internacional de Ganado Holstein Srisian del Ecuador.
+
+La **Plaza de Toros** es uno de los hitos de la zona, actualmente, utilizada para eventos artísticos. Por años, esta fue un punto de encuentro en las fiestas de **Quito**. El 5 de marzo de 1960 abrió las puertas.
+
+Actualmente, la zona está rodeada de **locales comerciales**, como restaurantes y, a la par, de tecnología.
+
+El Labrador
+-----------
+
+En el final del recorrido, de sur a norte, es **El Labrador** o la primera si la ruta se inicia en el norte. El parque Bicentenario, antiguo **aeropuerto de Quito**, es el espacio insigne en esta estación.
+
+La construcción del **Parque Bicentenario** se inició en el 2013 con la salida del aeropuerto hacia Tababela. Por varios años permaneció sin mayor inversión.
+
+En el **2019**, se inauguró con 13 áreas. Actualmente, además de ser una zona para las familias y deportistas, es el escenario de festivales artísticos.
+
+Unidad de Toachi-Pilatón inicia pruebas eléctricas
+==================================================
+
+La unidad del proyecto hidroeléctrico Toachi-Pilatón está en la central Alluriquín.
+-----------------------------------------------------------------------------------
+
+![Inician las pruebas mecánicas en una unidad de Toachi-Pilatón.](https://www.elcomercio.com/wp-content/uploads/2024/11/toachi-pilaton-1.jpg)
+
+La Unidad 3 del **proyecto hidroeléctrico Toachi-Pilatón** está lista para iniciar las pruebas eléctricas con el fin de fortalecer el Sistema Interconectado Nacional[.](https://es.wikipedia.org/wiki/R%C3%ADo_Toachi)
+
+El **Ministerio de Energía y Minas** dio los detalles de este proyecto.
+
+### Más noticias:
+
+* [Inician pruebas mecánicas en la central Alluriquín, parte del complejo hidroeléctrico Toachi Pilatón](https://www.elcomercio.com/actualidad/negocios/inician-pruebas-mecanicas-en-la-central-alluriquin-parte-del-complejo-hidroelectrico-toachi-pilaton.html "Inician pruebas mecánicas en la central Alluriquín, parte del complejo hidroeléctrico Toachi Pilatón")
+* [Termogas Machala incrementará su generación ¿Cuál es el motivo?](https://www.elcomercio.com/actualidad/negocios/termogas-machala-incrementara-generacion-motivo.html "Termogas Machala incrementará su generación ¿Cuál es el motivo?")
+
+Pruebas eléctricas en una unidad de Toachi-Pilatón
+--------------------------------------------------
+
+La **central Alluriquín** está conformada por tres unidades de generación de 68 MW cada una, e incorporará 204 MW al **Sistema Nacional Interconectado**.
+
+El proyecto hidroeléctrico Toachi Pilatón, una obra clave para el desarrollo energético del **Ecuador**, avanza hacia su operatividad.
+
+Este 29 de noviembre se completaron las pruebas mecánicas en la **Unidad Nro. 3** de la central hidroeléctrica Alluriquín.
+
+El aporte a la producción de energía eléctrica será de **68 megavatios (MW)**.
+
+Durante estas pruebas, conocidas como “**giro mecánico**“, se verificó que no exista movimientos anormales o roces que puedan comprometer el rendimiento de la unidad o causar daños a futuro.
+
+Con estos resultados satisfactorios, ahora se dará inicio a una nueva etapa de **pruebas eléctricas** que evaluarán la capacidad de la unidad para integrarse al Sistema Nacional Interconectado.
+
+Se prevé que esta unidad comience a aportar 68 MW en **diciembre**.
+
+Mientras, las **dos unidades restantes** de la central Alluriquín se activarán progresivamente, con el objetivo de alcanzar una capacidad de 204 MW en 2025.
+
+En tanto, continúa el proceso de llenado del **embalse en el río Toachi**, el cual ha alcanzado una cota de 948 metros sobre el nivel del mar (msnm).
+
+El **nivel mínimo** de operación del embalse es de 965 msnm.
+
+**Toachi-Pilatón** es uno de los proyectos que impulsa el Gobierno de **Daniel Noboa** para potenciar el Sistema Energético ecuatoriano, en medio de la **crisis energética** que atraviesa el país.
+
+Nicolás Maduro aprueba 30 años de prisión por promover sanciones extranjeras
+============================================================================
+
+La ley que impone 30 años de prisión por promover sanciones extranjeras fue firmada por Nicolás Maduro, luego de la aprobación de la Asamblea.
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+![Nicolás Maduro firmó la ley con 30 años de prisión por promover sanciones extranjeras.](https://www.elcomercio.com/wp-content/uploads/2024/11/nicolas-maduro-30-anos-prision.jpg)
+
+**Nicolás Maduro** aprobó la ley que ordena **30 años de prisión** por promover **sanciones extranjeras** al Gobierno y las “autoridades” estatales de Venezuela, este viernes 29 de noviembre de 2024.
+
+La ley fue promovida por la mayoría “chavista” en la **Asamblea** de ese país.
+
+### Más noticias:
+
+* [Venezuela aprueba ley que ordena 30 años de prisión por promover sanciones extranjeras](https://www.elcomercio.com/actualidad/mundo/venezuela-aprueba-ley-ordena-30-anos-prision-promuevan-extranjeras.html "Venezuela aprueba ley que ordena 30 años de prisión por promover sanciones extranjeras")
+* [Nicolás Maduro desafía al decir ‘Nunca entregaré el bastón de mando’](https://www.elcomercio.com/actualidad/mundo/nicolas-maduro-condecorara-21-venezolanos-sancionados-estados-unidos.html "Nicolás Maduro desafía al decir ‘Nunca entregaré el bastón de mando’")
+
+Nicolás Maduro firmó la ley que ordena 30 años de prisión por promover sanciones a Venezuela
+--------------------------------------------------------------------------------------------
+
+El presidente de Venezuela, **Nicolás Maduro**, firmó este viernes la ley que ordena penas de entre 25 y 30 años de prisión para las personas que promuevan o estén implicadas, de cualquier manera, en las sanciones extranjeras impuestas al Gobierno y “autoridades” del Estado.
+
+“Procedo a firmar la ley orgánica que sí lleva el nombre del libertador Simón Bolívar contra el bloqueo y en defensa del pueblo de Venezuela y su **derecho a la paz y a la felicidad**“, dijo Maduro, en una transmisión televisiva.
+
+Maduro indicó que esta norma nació luego de que la **Cámara de Representantes de Estados Unidos** aprobara un proyecto de ley que complementa las normas que prohíben a instituciones federales de ese país contratar a personas o empresas que tengan lazos comerciales con el Gobierno chavista.
+
+“Con motivo de eso, los diputados de la **Asamblea Nacional** entraron a debatir una ley para hacer justicia”, dijo.
+
+“Una ley para defender a Venezuela y para vencer como estamos venciendo y venceremos todas las amenazas y todos los bloqueos del imperialismo norteamericano y sus países satélites”, añadió.
+
+Otras sanciones de la ley aprobada por Nicolás Maduro que impone 30 años de prisión por promover sanciones extranjeras
+----------------------------------------------------------------------------------------------------------------------
+
+Se trata de la **‘Ley Orgánica Libertador Simón Bolívar contra el Bloqueo Imperialista y en Defensa de la República Bolivariana de Venezuela’.**
+
+Fue aprobada por unanimidad el jueves e incluye multas de **hasta un millón de euros**, es decir, 1 055 680 dólares.
+
+La norma aprobada contempla la **inhabilitación política de 60 años** de duración a quienes incurran en estos “delitos”.
+
+Esto también impide a los sancionados optar por **cargos públicos o de elección popular.**
+
+Tampoco podrán competir en elecciones quien haya “promovido, instigado, solicitado, invocado, favorecido, respaldado o participado en la adopción o ejecución” de **“acciones armadas o de fuerza**, así como ataques cibernéticos” contra el país, sus instituciones o autoridades, muchas de ellas sancionadas por otros países.
+
+### Sanciones a los medios de comunicación
+
+Los **medios de comunicación que** difundan cualquier tipo de mensajes que promuevan sanciones o medidas también serán multados.
+
+La ley señala que la **multa** será la misma que se aplica a personas naturales.
+
+El castigo a los medios incluiría la **salida de circulación o del espectro radioeléctrico.**
+
+La Ley considera **crímenes de lesa humanidad** a las sanciones internacionales.
+
+Esto, luego de que el país recibiese más de **900 medidas** de este tipo en la última década.
+
+**Estados Unidos** fue el principal sancionador, según los datos del Gobierno de Venezuela.
+
+Cortes de luz en Guayaquil este sábado 30 de noviembre
+======================================================
+
+Cortes de luz en Guayaquil este sábado 30 de noviembre son de hasta siete horas no consecutivas en el sector residencial.
+-------------------------------------------------------------------------------------------------------------------------
+
+![Los cortes de luz en Guayaquil este sábado 30 de noviembre son definidos por CNEL.](https://www.elcomercio.com/wp-content/uploads/2024/11/cortes-luz-guayaquil-sabado-30-noviembre.jpg)
+
+Los **cortes de luz** en **Guayaquil** este **sábado 30 de noviembre** de 2024 son de seis horas de duración.
+
+**CNEL** programó la suspensión del servicio de energía eléctrica para mañana.
+
+### Más noticias:
+
+* [Cortes de luz en Guayaquil del lunes 2 al domingo 8 de diciembre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-guayaquil-lunes-2-a-domingo-8-de-diciembre.html "Cortes de luz en Guayaquil del lunes 2 al domingo 8 de diciembre")
+* [Cortes de luz tendrán modificaciones por fiestas de Quito](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-tendran-modificaciones-por-fiestas-de-quito.html "Cortes de luz tendrán modificaciones por fiestas de Quito")
+
+Horarios de los cortes de luz en Guayaquil este sábado 30 de noviembre
+----------------------------------------------------------------------
+
+La **crisis energética** en **Ecuador** continúa, debido a la intermitencia de las lluvias en la época invernal y la dependencia de las mismas.
+
+En las zonas donde se ubican las principales **centrales hidroeléctricas** del país, las lluvias de consideración no se hicieron presentes la mañana y tarde de este viernes.
+
+En **Napo y Sucumbíos**, provincias en las que se ubica **Coca Codo Sinclair**, las fuertes precipitaciones y tormentas de los últimos días no continuaron con el mismo vigor, sino que se evidenció la caída de lloviznas.
+
+Una realidad similar ocurrió en el Austro del país, lugar donde se encuentran las centrales de **Paute, Sopladora y Mazar.**
+
+Los niveles de los embalses en esta última central aún **son críticos**.
+
+Aunque el presidente **Daniel Noboa** ofreció que en **diciembre** terminarán los cortes de luz, el Ministerio de Energía y las empresas eléctricas ya difundieron los horarios de suspensión.
+
+La **primera semana de diciembre** están programados cortes de entre cinco y siete horas. 
+
+Para este sábado 30 de noviembre, el Gobierno mantiene las seis horas de cortes de luz no consecutivas en Guayaquil y todo el país, para el **sector residencial**.
+
+Las siete horas son divididas en **dos franjas horarias**, durante las 24 horas del día, desde la madrugada hasta la noche, dependiendo del sector.
+
+En el caso de Guayaquil, son hasta de seis horas continuas de cortes de luz en el **sector industrial**.
+
+A continuación, **los horarios de los cortes de luz en Guayaquil este sábado 30 de noviembre de 2024:**
+
+Las pesas dieron ocho medallas a Ecuador en los Bolivarianos 2024
+=================================================================
+
+La delegación de Ecuador en los Bolivarianos 2024 ya es destacada. Los pesistas finalizaron con ocho medallas.
+--------------------------------------------------------------------------------------------------------------
+
+![Jenifer Becerra ganó oro en el levantamiento de pesas de los Juegos Bolivarianos del Bicentenario Ayacucho 2024, celebrados en Perú.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-39-1.jpg)
+
+La delegación ecuatoriana de levantamiento de pesas brilló este viernes 29 de noviembre en la jornada de los Juegos Bolivarianos del Bicentenario Ayacucho 2024, en Lima, logrando una destacada cosecha de medallas para Ecuador en los Boliviarianos.
+
+Los pesistas ecuatorianos se adjudicaron un total de ocho medallas: una de oro, una de plata y seis de bronce, en un cierre emocionante para el país.
+
+### Más noticias:
+
+* [La Selección de Ecuador cumple dos años de su última participación en un Mundial](https://www.elcomercio.com/deportes/seleccion-ecuador-mundial-catar-aniversario.html "La Selección de Ecuador cumple dos años de su última participación en un Mundial")
+* [‘Bolillo’ Gómez será nuevo DT de un inusual equipo](https://www.elcomercio.com/deportes/bolillo-gomez-dt-utc-nuevo-equipo.html "‘Bolillo’ Gómez será nuevo DT de un inusual equipo")
+* [Ecuador gana medalla en baloncesto 3×3 de los Juegos Bolivarianos](https://www.elcomercio.com/deportes/otros/ecuador-medallas-juegos-bolivarianos-ayacucho-2024-baloncesto-3x3.html "Ecuador gana medalla en baloncesto 3×3 de los Juegos Bolivarianos")
+
+Medallas para Ecuador en Bolivarianos
+-------------------------------------
+
+La jornada comenzó temprano con el maratonista Segundo Jami, quien consiguió la sexta medalla de bronce para Ecuador al participar en una exigente competencia a 3450 metros de altitud en Pampa de Ayacucho.
+
+Jami completó los 10 km del cross en un tiempo de 36:23, mientras que los primeros lugares fueron ocupados por atletas de Perú.
+
+“A pesar de la dificultad que representa la altura, logré superar el reto y me siento muy contento de haber dado lo mejor de mí para obtener esta medalla de bronce para mi país”, declaró Jami tras la prueba.
+
+Por la tarde, la selección femenina de baloncesto 3×3 se colgó también la medalla de bronce tras derrotar 20-14 a Bolivia en el partido por el tercer puesto, destacando la labor de Ana Mora, Dayanna Salcedo, Heidi Guayaquil y Marjorie Caicedo.
+
+Las pesas de Ecuador en Bolivarianos
+------------------------------------
+
+En el cierre de las competencias de levantamiento de pesas, Ecuador continuó su destacada actuación con medallas en varias categorías.
+
+Jenifer Becerra se coronó campeona en los 59 kg, obteniendo el oro y colocando el himno ecuatoriano en el podio.
+
+Damary Nazareno, abanderada del equipo, subió al segundo lugar en los 71 kg para hacerse con la medalla de plata.
+
+Además, los bronces fueron logrados por Jessica Palacios (64 kg), Germán Palacios (81 kg), Neiser Grefa (89 kg), Luis Díaz (96 kg), Dayana Mina (87 kg) y Dixon Arroyo (+109 kg).
+
+Con este resultado, Ecuador culmina una brillante participación en los Juegos Bolivarianos, en el área de pesas.
+
 Cortes de luz en Quito este sábado 30 de noviembre
 ==================================================
 
@@ -113,8 +747,8 @@ Después de la eliminación del **Mundial de Catar 2022**, Gustavo Alfaro renunc
 
 Sánchez Bas estuvo presente hasta la Copa América de mediados del 2024 y tras ello se produjo su desvinculación. El sucesor de este fue **Sebastián Beccacece**, quien es el vigente entrenador y tiene a la Tri en la tercera posición de las eliminatorias con 19 puntos.
 
-Corte Constitucional tramita solicitud de interpretación relacionada con Verónica Abad
-======================================================================================
+Corte Constitucional admite a trámite solicitud relacionada con Verónica Abad
+=============================================================================
 
 La solicitud a la Corte Constitucional relacionada con Verónica Abad fue realizada hace dos semanas.
 ----------------------------------------------------------------------------------------------------
@@ -485,552 +1119,3 @@ El **Southampton** consiguió el empate en el segundo tiempo a los 59′ gracias
 **Pervis Estupiñán** estuvo en la cancha durante los 90 minutos de juego y fue uno de los mejores futbolistas del compromiso. Este colaboró tanto en defensa como en ataque y tuvo constantes arremetidas desde la banda zurda.
 
 En total realizó **91 toques** en el cotejo y brindó cinco pases clave dentro de los 56 que acertó. A nivel defensivo, este bloqueó un remate, realizó dos entradas y dos rechazos.
-
-EE.UU. inicia su época más activa de compras con un Black Friday
-================================================================
-
-Esta festividad de las compras nació hace ya dos décadas, tras el surgimiento y crecimiento del comercio 'online'.
-------------------------------------------------------------------------------------------------------------------
-
-![Los compradores caminan por el Fashion Center en Pentagon City durante las compras del Viernes Negro en Arlington, Virginia, EE. UU., 29 de noviembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/black-friday-eeuu-noviembre.jpg)
-
-Estados Unidos dio por inaugurada este viernes, 29 de noviembre de 2024, la temporada más activa de compras con la celebración del [Black Friday](https://www.elcomercio.com/actualidad/negocios/black-friday-ecuador-tiene-sus-propias-reglas.html "https://www.elcomercio.com/actualidad/negocios/black-friday-ecuador-tiene-sus-propias-reglas.html"), una **jornada consumista** de descuentos en **tiendas físicas** y online en la que se espera que se batan **récords de ventas**.
-
-### Más noticias
-
-* [El Black Friday es un fenómeno global que va más allá de EE. UU.](https://www.elcomercio.com/actualidad/mundo/black-friday-fenomeno-global-alla-ee-uu.html "El Black Friday es un fenómeno global que va más allá de EE. UU.")
-* [En este Black Friday, mitos y verdades que debes conocer hoy](https://www.elcomercio.com/tendencias/curiosidades/black-friday-mitos-verdades-historia.html "En este Black Friday, mitos y verdades que debes conocer hoy ")
-* [El Black Friday en Ecuador tiene sus propias reglas](https://www.elcomercio.com/actualidad/negocios/black-friday-ecuador-tiene-sus-propias-reglas.html "El Black Friday en Ecuador tiene sus propias reglas")
-
-Tendencias de consumo
----------------------
-
-Aunque en los últimos años las **tendencias de consumo** cambiaron y los periodos de rebajas y ofertas comienzan ya en Halloween (finales de octubre), el día después del **Día de Acción de Gracias** ha sido tradicionalmente el inicio no oficial de la temporada de **compras navideñas** en Estados Unidos.
-
-Según datos de la **Federación Nacional de Minoristas**, este año se espera que se bata un récord de 183 millones de personas comprando en tiendas y online entre el **Día de Acción de Gracias** y el Cyber Monday (ciberlunes).
-
-Una tendencia con dos décadas
------------------------------
-
-Esta festividad de las compras nació hace ya dos décadas, tras el **surgimiento y crecimiento** del comercio online, y ocasiona que las jornadas de descuentos se extiendan hasta el lunes.
-
-Aún así la **Federación Nacional de Minoristas** espera que este Black Friday sea el día más popular para comprar y que dos tercios de los compradores de esta jornada lo hagan en tiendas físicas.
-
-Por ello son varios los **comercios** en los que esta mañana se registraban **colas de clientes** que esperaban a que las tiendas abrieran. Entre ellos los **almacenes de Target**, que hoy además sacaban a la venta en exclusiva el libro de Taylor Swift sobre su exitosa gira, **‘Taylor Swift’s Eras Tour book’.**
-
-Según un informe publicado por Adobe, el pronóstico de **compras en línea** para la temporada navideña de 2024, que abarca el período del **1 de noviembre al 31 de diciembre de 2024**, apunta a que alcancen los 240.800 millones de dólares, lo que representa un crecimiento interanual del 8,4 %.
-
-Basándose en datos de Adobe Analytics, el análisis estudia las **transacciones comerciales en línea**, que abarcan más de 1 billón de visitas a sitios minoristas de EE.UU., 100 millones de referencias de productos y 18 categorías.
-
-En la temporada 2023, los compradores gastaron **221 800 millones de dólares en línea**, con un crecimiento interanual del 4,9 %.
-
-Compras en dispositivos móviles
--------------------------------
-
-Además, este año se espera que las compras en dispositivos móviles alcancen un nuevo hito, aportando un récord de 128 100 millones y **creciendo un 12,8 % interanual.** 
-
-Tres policías fueron liberados de secuestro en Guayas
-=====================================================
-
-Los policías fueron liberados tras permanecer 72 horas en cautiverio. El hecho se registró en Yaguachi, en Guayas.
-------------------------------------------------------------------------------------------------------------------
-
-![Los policías fueron liberados tras un operativo realizado en Yaguachi](https://www.elcomercio.com/wp-content/uploads/2024/11/yaguachi-secuestro-policias.jpg)
-
-**Tres policías activos** fueron **secuestrados** por desconocidos, mientras viajaban de Ambato a Guayaquil, el martes 26 de noviembre de 2024. **72 horas** después **fueron liberados** cerca a la ciudad de Yaguachi, en Guayas.
-
-### Más noticias
-
-* [Policía Nacional pone en marcha el Plan Operativo de Elecciones 2025](https://www.elcomercio.com/actualidad/seguridad/policia-nacional-pone-en-marcha-plan-operativo-de-elecciones-2025.html "Policía Nacional pone en marcha el Plan Operativo de Elecciones 2025")
-* [Policía detiene a exdocente por presunto ciberacoso, en Quito](https://www.elcomercio.com/actualidad/seguridad/policia-detiene-exdocente-presunto-ciberacoso-quito.html "Policía detiene a exdocente por presunto ciberacoso, en Quito")
-* [Dueño de negocio de empanadas fue hallado en Guayaquil](https://www.elcomercio.com/actualidad/seguridad/dueno-negocio-empanadas-hallado-con-vida-guayaquil.html "Dueño de negocio de empanadas fue hallado en Guayaquil")
-
-El grupo de gendarmes se encontró en Tungurahua para viajar en grupo y reincorporarse a sus actividades en un **centro penitenciario de Guayaquil**. Cuando se trasladaban por la carretera, **hombres armados interceptaron** el vehículo donde iban los policías y los obligaron a cambiarse de auto contra su voluntad.
-
-La Policía recibió la alerta y de inmediato comenzó con las investigaciones. Finalmente, este viernes 29 de noviembre, los uniformados fueron encontrados a salvo en una **zona rural** del Yaguachi.
-
-Secuestradores pedían 50 000 dólares por liberación
----------------------------------------------------
-
-Según detalló Henry Herrera, jefe de la Policía Judicial, los secuestrados exigían **50 000 dólares** a cambio de liberar a los tres hombres[.](https://www.policia.gob.ec/ "https://www.policia.gob.ec/")
-
-Se presume que los delincuentes no sospechaban que sus víctimas eran policías, al verlos de civil y movilizándose en un **vehículo particular**.
-
-**Cuatro** presuntos **involucrados** en el delito fueron **detenidos** en el operativo. Los ciudadanos fueron puestos a órdenes de las autoridades competentes.
-
-Trabajador fue secuestrado el mismo día en Yaguachi
----------------------------------------------------
-
-El mismo día de este secuestro, el martes 26 de noviembre, otro hecho similar se registró en **Yaguachi**.
-
-Un trabajador de una **piladora** fue víctima de desconocidos, quienes utilizaron el **mismo modus operandi** mientras viajaba desde Milagro.
-
-El ciudadano fue encontrado luego de unas horas en el recinto Caminito, en el cantón, en medio de la **maleza**. La Policía lo halló con la ayuda de **drones**.
-
-Luego de ser liberado, sus compañeros de trabajo protagonizaron un **emotivo reencuentro**; la víctima fue recibida con aplausos y abrazos.
-
-Policía liberó a otras 7 personas en cuatro días
-------------------------------------------------
-
-Además de estas dos víctimas liberadas en Yaguachi, la Policía detalló que **otras siete personas** lograron su libertad entre el 25 y 28 de noviembre a nivel nacional.
-
-En los múltiples operativos se detuvo a **17 presuntos** involucrados de **extorsión y secuestro**.
-
-Según cifras de la Institución, desde el 17 de marzo de 2024, un total de **120 personas fueron liberadas** y otras **1 711 fueron detenidas** por estos delitos.
-
-Cierres viales en Quito este viernes 29 de noviembre por fiestas
-================================================================
-
-Quito tiene cierres viales en el centro y sur este viernes 29 de noviembre por fiestas.
----------------------------------------------------------------------------------------
-
-![Los cierres viales en Quito este viernes 29 de noviembre son en el centro y sur de la capital.](https://www.elcomercio.com/wp-content/uploads/2024/11/cierres-viales-quito-viernes-29-noviembre-fiestas.jpg)
-
-Hay **cuatro cierres viales** en Quito la tarde y noche de este viernes 29 de noviembre por las fiestas de fundación.
-
-El **ECU-911** informó sobre las restricciones de circulación y las vías alternas.
-
-### Más noticias:
-
-* [Eventos y cierres viales por fiestas de Quito este fin de semana](https://www.elcomercio.com/actualidad/quito/eventos-cierres-viales-fiestas-quito-este-fin-semana.html "Eventos y cierres viales por fiestas de Quito este fin de semana")
-* [Cortes de luz tendrán modificaciones por fiestas de Quito](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-tendran-modificaciones-por-fiestas-de-quito.html "Cortes de luz tendrán modificaciones por fiestas de Quito")
-
-Cierres viales por fiesta este viernes 29 de noviembre
-------------------------------------------------------
-
-El ECU 911 informó sobre el monitoreo que se realiza de los preparativos para el **XV Festival Cantos del Sur.**
-
-Este evento se desarrollará desde las 17:00, a la altura del **Redondel de La Atahualpa**.
-
-En el sur, la **Agencia Metropolitana de Tránsito** informó de cierres viales en: la avenida Teniente Hugo Ortiz con las intersecciones avenida Alonso de Angulo, avenida Antonio Jaramillo, Francisco Ballesteros, Gonzalo Cabezas y Luis Iturralde.
-
-Las rutas alternas son: **avenida Mariscal Sucre, avenida Alonso de Angulo y Galo Molina**. 
-
-De igual forma, en la plaza San Francisco, desde los dispositivos de vigilancia, se efectúa el seguimiento de otro evento con gran afluencia de personas.  
-   
-Según las instituciones de primera respuesta, existen los siguientes cierres viales: **Benalcázar y Mejía, Rocafuerte y Mejía, Imbabura y Bolívar, Imbabura y Mideros, Olmero y Benalcázar**.
-
-Las vías alternas a tomar son: **av. Mariscal Sucre, Av. Pichincha, Guayaquil, Rocafuerte, Mejía e Imbabura**.
-
-Añade ‘El Chulla Quiteño’ a tu perfil de Instagram con esta guía 
-=================================================================
-
-Aprende a añadir música a tu perfil de Instagram y potencia tu presencia en esta red social.
---------------------------------------------------------------------------------------------
-
-![Personaliza tu perfil con El Chulla Quiteño. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/11/Instagram-musica.jpg)
-
-La música se ha convertido en una parte esencial de la **identidad digital** de muchos usuarios de **Instagram**. Con esta **reciente función** que permite **añadir música** al perfil, los usuarios pueden ofrecer una experiencia más rica y personalizada a sus visitantes.  Lleva las **Fiestas de Quito** a tu celular con esta guía.
-
-### Más noticias
-
-* [WhatsApp se parece cada vez más a Instagram. Entérate de la nueva función](https://www.elcomercio.com/tecnologia/whatsapp-instagram-novedades-redes-sociales.html "https://www.elcomercio.com/tecnologia/whatsapp-instagram-novedades-redes-sociales.html") 
-* [Instagram lanza cuenta para adolescentes](https://www.elcomercio.com/tecnologia/instagram-cuenta-adolescente-redes-sociales.html "https://www.elcomercio.com/tecnologia/instagram-cuenta-adolescente-redes-sociales.html") 
-
-**Pasos para añadir música al perfil de Instagram** 
-----------------------------------------------------
-
-![Foto: Captura de pantalla.](https://www.elcomercio.com/wp-content/uploads/2024/11/Instagram-musica-1-1024x683.jpg)
-
-Foto: Captura de pantalla.
-
-Para añadir música al perfil de Instagram, de acuerdo con [Worzero](https://www.worzero.es/anadir-musica-perfil-instagram-potenciar-carrera-musical/ "https://www.worzero.es/anadir-musica-perfil-instagram-potenciar-carrera-musical/"), deben seguirse estos pasos: 
-
-1. Abrir la aplicación de **Instagram** e iniciar sesión en la cuenta. 
-
-2. Dirigirse al perfil al tocar el ícono correspondiente en la esquina inferior derecha. 
-
-3. Editar el perfil al presionar el botón **“Editar perfil”**. 
-
-4. Seleccionar la opción **“Música”** en la sección correspondiente. 
-
-5. Elegir una canción mediante la barra de búsqueda, se puede buscar por nombre, artista o género. Busca: “El Chulla Quiteño”.  
-
-6. Seleccionar un **fragmento de la canción**, con un límite de 30 segundos. 
-
-7. Guardar los cambios para que la música se muestre en el perfil. 
-
-**Beneficios de tener música en tu perfil** 
---------------------------------------------
-
-### **Conexión emocional** 
-
-La música tiene el poder de **evocar emociones**. Al elegir una canción que resuene, se puede crear una **conexión más profunda** con los seguidores. Esto no solo humaniza el perfil, sino que también **atrae a personas** con gustos similares. 
-
-### **Promoción efectiva** 
-
-Para los artistas, esta función resulta crucial. Permite **presentar su última canción** o un tema popular directamente desde su perfil, lo que facilita que nuevos seguidores **escuchen la música** sin necesidad de buscarla. Además, si los seguidores comparten la canción, se puede generar un efecto multiplicador en la promoción. 
-
-### **Personalización del perfil** 
-
-Añadir música permite **personalizar aún más el perfil**, haciéndolo único y atractivo para quienes lo visitan. Esto contribuye a diferenciarse en un entorno digital saturado. 
-
-**Estrategias para maximizar el impacto musical** 
---------------------------------------------------
-
-* **Invitar a los seguidores a interactuar:** Se puede animar a los seguidores a compartir la canción en sus propios perfiles. 
-
-* **Crear contenido relacionado:** Utilizar historias destacadas para resaltar la canción y crear desafíos o concursos. 
-
-* **Colaborar con otros artistas:** Trabajar con otros músicos para ampliar la audiencia y ofrecer nuevas oportunidades de promoción. 
-
-### Te recomendamos:
-
-El FC Barcelona estrenó himno y mascota en su 125 aniversario
-=============================================================
-
-El FC Barcelona cumplió 125 años en medio de una reestructuración deportiva e institucional.
---------------------------------------------------------------------------------------------
-
-![Raphael, jugador brasileño del FC Barcelona de España.](https://www.elcomercio.com/wp-content/uploads/2024/11/barca_himno_1.jpg)
-
-Algunas de las personalidades más destacadas de la historia del FC Barcelona se vistieron de gala este viernes 29 de noviembre de 2024, para celebrar en el **Gran Teatro del Liceo el 125 aniversario** de la entidad azulgrana, en una velada en la que se reivindicaron las esencias del club y se dio a conocer el himno y la mascota de dicha celebración.
-
-Con el actual presidente, **Joan Laporta, como anfitrión de la fiesta**, el club rememoró algunas de sus figuras. Desde su fundador, Hans Gamper, pasando por leyendas como Ladislao Kubala, Johan Cruyff y Lionel Messi, que no acudió al acto.
-
-### Más noticias:
-
-* [‘Pibe’ Valderrama incluye a un ecuatoriano en su equipo ideal](https://www.elcomercio.com/deportes/futbol/pibe-valderrama-incluye-a-un-ecuatoriano-en-su-equipo-ideal.html "‘Pibe’ Valderrama incluye a un ecuatoriano en su equipo ideal")
-* [Miles de hinchas brasileños invaden Argentina por la final de la Libertadores](https://www.elcomercio.com/deportes/futbol/miles-de-hinchas-brasilenos-invaden-argentina-por-la-final-de-la-libertadores.html "Miles de hinchas brasileños invaden Argentina por la final de la Libertadores")
-* [Richard Huera, campeón de la Vuelta al Ecuador, permanece en sus raíces](https://www.elcomercio.com/deportes/richard-huera-vuelta-ecuador-homenaje-origen.html "Richard Huera, campeón de la Vuelta al Ecuador, permanece en sus raíces")
-
-125 años han pasado ya desde aquel 29 de noviembre de 1899, cuando el **suizo Hans Gamper y 11 hombres** más se reunieron en el Gimnasio Solé para fundar una asociación deportiva que llevaría el nombre y el escudo de la ciudad de Barcelona.
-
-Una efeméride que ha reunido unas 2 000 personas entre todos los deportistas de las actuales plantillas del club, directivos, **así como personajes que en algún momento han formado** parte de la historia del Barça, ya sea en los terrenos de juego o en los despachos.
-
-Elegido el himno del 125 aniversario
-------------------------------------
-
-Uno de los momentos más esperados de la gala fue la elección de ‘L’escut al pit’ (‘**El escudo en el pecho**‘) como ‘Cant’ (himno) del 125 aniversario.
-
-El tema, escrito por Xavier González-Costa, con música de Carles Cases y las voces del Orfeón Catalán y el grupo de animación del Palau Blaugrana Dracs 1991, **ha sido el más votado por los socios**. La canción competía con otros dos temas: ‘Del Bressol a l’infinit’ y ‘Un sentiment’.
-
-En paralelo, también se presentó en sociedad a ‘Cat’, la mascota del 125 aniversario, un gato con la cara del escudo del Barça creada por los hermanos Jordi y Carlos Grangel.
-
-El humor también fue protagonista con las intervenciones de los imitadores de **Johan Cruyff y Carles Rexach -Jordi Ríos y Toni Albà**– que se popularizaron hace ya unos años con sus gags en el programa televisivo ‘Crackovia’.
-
-![Foto: Facebook del club.](https://www.elcomercio.com/wp-content/uploads/2024/11/barca_himno_2-1024x683.jpg)
-
-Foto: Facebook del club.
-
-En los compases finales de la gala, el actor Jordi Plaza repasó cronológicamente la historia del club a través de la voz de muchas de sus imitaciones y el cantautor Joan Dausà interpretó con su piano el ‘Cant del Barça’, **creado por el 75 aniversario y que todavía suena** antes de los partidos que los equipos del club disputan como locales. También se estrenó un cortometraje onírico sobre la historia del club.
-
-A las 21:36, pocos minutos antes de que finalizara la gala, los presentadores dieron luz verde a los futbolistas del primer equipo de fútbol para que abandonaran el auditorio, ya que este sábado se miden a la UD Las Palmas.
-
-Como colofón de la gala, que superó las dos horas de duración, el escenario se **llenó de exjugadores y deportistas, llamados todos ellos por Joan Laporta**, maestro de ceremonias improvisado, para soplar las velas de un pastel creado por el maestro pastelero Christian Escribà.
-
-El presidente, micrófono en mano, cerró el acto cantando las notas del himno del club azulgrana.
-
-> 𝐋'𝐞𝐬𝐜𝐮𝐭 𝐚𝐥 𝐩𝐢𝐭, el Cant del 125 aniversario!  
->   
-> 𝑃𝑜𝑟𝑡𝑜 𝑙'𝑒𝑠𝑐𝑢𝑡 𝑎𝑙 𝑝𝑖𝑡,  
-> 𝑒𝑚 𝑝𝑟𝑜𝑡𝑒𝑔𝑒𝑖𝑥 𝑒𝑙 𝑐𝑜𝑟,  
-> 𝑝𝑜𝑟𝑡𝑜 𝑙'𝑒𝑠𝑐𝑢𝑡 𝑎𝑙 𝑝𝑖𝑡,  
-> 𝑒𝑙 𝑚𝑒𝑢 𝑡𝑟𝑒𝑠𝑜𝑟. [pic.twitter.com/RkgHp1iBuU](https://t.co/RkgHp1iBuU)
-> 
-> — FC Barcelona (@FCBarcelona\_es) [November 29, 2024](https://twitter.com/FCBarcelona_es/status/1862587266759008569?ref_src=twsrc%5Etfw)
-
-San viernes
------------
-
-Hezbolá dice que cooperará con Ejército del Líbano
-==================================================
-
-"Gracias a Dios, la cooperación entre el Ejército libanés y la Resistencia será de alto nivel para los compromisos del acuerdo", afirmó Qasem.
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-![Soldados hutíes viajan en un vehículo mientras patrullan durante una manifestación que conmemora el Día Internacional de Solidaridad con el Pueblo Palestino, en Saná, Yemen, el 29 de noviembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/hezbola-29-noviembre.jpg)
-
-El líder del grupo chií libanés Hezbolá, **Naim Qasem**, afirmó este viernes, 29 de noviembre de 2024, en su primera aparición tras el **acuerdo de tregua** con [Israel](https://www.elcomercio.com/actualidad/mundo/israel-advierte-hezbola-cualquier-violacion-tregua-respondida-fuego.html "https://www.elcomercio.com/actualidad/mundo/israel-advierte-hezbola-cualquier-violacion-tregua-respondida-fuego.html"), que la cooperación con el Ejército del Líbano será “de alto nivel”. Busca implementar los puntos de este pacto, que puso fin a algo más de un año de hostilidades entre ambas partes.
-
-### Más noticias
-
-* [Israel advierte a Hezbolá que ‘Cualquier violación de la tregua será respondida con fuego’](https://www.elcomercio.com/actualidad/mundo/israel-advierte-hezbola-cualquier-violacion-tregua-respondida-fuego.html "Israel advierte a Hezbolá que ‘Cualquier violación de la tregua será respondida con fuego’")
-* [Israel acepta un alto el fuego de 60 días con Hezbolá en Líbano](https://www.elcomercio.com/actualidad/mundo/israel-acepta-alto-fuego-60-dias-hezbola-libano.html "Israel acepta un alto el fuego de 60 días con Hezbolá en Líbano")
-* [Israel se ensaña con el sur del Líbano y vuelve a atacar a la ONU](https://www.elcomercio.com/actualidad/mundo/israel-ensana-sur-libano-vuelve-atacar-onu.html "Israel se ensaña con el sur del Líbano y vuelve a atacar a la ONU")
-
-“Gracias a Dios, la cooperación entre el **Ejército libanés y la Resistencia** será de alto nivel para implementar los compromisos del acuerdo”, afirmó Qasem. Además, recordó que el pacto estipula la retirada de las tropas de Israel del sur del Líbano, donde el Estado judío mantiene una invasión desde el 1 de octubre.
-
-El clérigo, nombrado líder de Hezbolá tras el asesinato de su predecesor, Hasán Nasrala, afirmó que el grupo considera al **Ejército libanés** como “patriótico”. Además, que la institución asumirá “la protección de la seguridad del Líbano y la frontera con el **enemigo israelí**“.
-
-Además, recordó que el **acuerdo de tregua,** que entró en vigor la madrugada del miércoles, está “bajo la soberanía libanesa”. En este cotexto aclaró que de ser violada Hezbolá sigue preparado para una **nueva confrontación con Israel.**
-
-“Estamos preparados para la guerra en el caso de que el **enemigo israelí nos obligue**“, dijo Qasem, sin hacer mención a **varios incidentes** que tuvieron lugar a lo largo de la frontera desde la entrada en vigor del alto el fuego, unas acciones que fueron **condenadas por el Gobierno del Líbano.**
-
-Por otra parte, el clérigo recordó que el **acuerdo de tregua “no es nuevo”** ya que está relacionado con la implementación de la resolución 1701 del **Consejo de Seguridad de la ONU**, que en 2006 puso fin a otra guerra librada entre **Israel y Hezbolá.**
-
-En este sentido, hizo hincapié en que “**el eje central**” del pacto es “la zona sureña del río Litani”, cuyo curso alcanza hasta 30 km al **norte de la frontera con Israel** y de donde Hizbulá debe retirarse y dejar paso al despliegue de unos 10 000 soldados del Ejército libanés.
-
-Eso estipula “la **salida del Ejército israelí** de todas las zonas que fueron ocupadas” durante la invasión, recordó Qasem.
-
-Alrededor de 4 000 personas murieron -alrededor de 3 200 desde mediados de septiembre- en un año de hostilidades en el Líbano, donde unas **1,5 millones de personas** se vieron obligadas a abandonar sus hogares por la violencia.
-
-Así fue la defensa de Liga de Quito para recuperar los tres puntos
-==================================================================
-
-Liga de Quito recuperó el liderato de la segunda etapa de la Liga Pro tras la restitución de los tres puntos.
--------------------------------------------------------------------------------------------------------------
-
-![Liga de Quito recuperó los tres puntos que les quitaron de la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-29T162755.192.jpg)
-
-**Liga de Quito** pudo sonreír en los últimos días antes de que termine la segunda etapa de la **Liga Pro.** Los albos, quienes habían sido sancionados con la pérdida de tres puntos, obtuvieron una respuesta favorable en su apelación el jueves 28 de noviembre.
-
-Con esta decisión, la Comisión Disciplinaria de la **Federación Ecuatoriana de Fútbol** (FEF) le restituyó los tres puntos que se les habían descontado el pasado 16 de noviembre. Gracias a este fallo favorable, la **‘U’ recuperó** la punta de la Liga Pro, consolidándose como el favorito para llegar a la final del torneo.
-
-### Más noticias:
-
-* [Liga de Quito está cerca de retener el título de Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-de-quito-esta-cerca-de-retener-el-titulo-de-liga-pro.html "Liga de Quito está cerca de retener el título de Liga Pro")
-* [Liga de Quito jugará el último partido de la Liga Pro sin visitantes](https://www.elcomercio.com/deportes/liga-quito-liga-pro-publico-cuenca.html "Liga de Quito jugará el último partido de la Liga Pro sin visitantes")
-* [La FEF restituye sus tres puntos a Liga de Quito](https://www.elcomercio.com/deportes/liga-quito-apelacion-fef-independiente-valle.html "La FEF restituye sus tres puntos a Liga de Quito")
-
-Así fue la defensa de Liga de Quito
------------------------------------
-
-**Liga** **de** **Quito** recibió la sanción de tres puntos por no haber cumplido con la notificación de las obligaciones económicas dentro del plazo establecido con Franklin Guerra. Sin embargo, el club presentó una **defensa sólida en su apelación.**
-
-“En ninguna parte de la normativa se establece una sanción ni pérdida de puntos por no haber notificado el pago. **La infracción es por no pagar dentro del tiempo estipulado**“, explicó el abogado defensor del club, Juan Francisco Guerrero, en declaraciones a _EL COMERCIO_.
-
-La dirigencia de Liga de Quito aseguró haber cumplido con todos los pagos y presentó pruebas documentales para respaldar su defensa. “Se **presentó el recurso de apelación con los documentos bancarios que acreditaban el pago, los estados de cuenta y las certificaciones correspondientes**“, añadió Guerrero.
-
-Además, Liga de Quito contó con el testimonio de **Franklin Guerra**, el jugador por el cual se originó la sanción. Guerra compareció ante el tribunal a favor del club para reforzar su defensa. “Él fue enfático al señalar que recibió el pago oportunamente, el 14 de noviembre a las 10:32, mediante una transferencia desde la cuenta del club”, señaló Guerrero.
-
-Resolución favorable
---------------------
-
-Tras la audiencia de apelación, el Tribunal falló a favor de Liga de Quito y restituyó los tres puntos, devolviéndoles el liderato de la segunda etapa de la Liga Pro.
-
-“La legislación de la federación decía claramente que la sanción era por la falta de pago. Una vez demostrado el pago realizado, no había infracción, y por lo tanto, **no correspondía la imposición de la sanción**“, concluyó el abogado defensor.
-
-Gobierno impulsa reforma constitucional, ¿qué pasa con el financiamiento ilícito?
-=================================================================================
-
-Gobierno impulsa reforma para eliminar financiamiento público a partidos; CNE y UAFE refuerzan control contra fondos ilícitos.
-------------------------------------------------------------------------------------------------------------------------------
-
-![Imagen referencial de una campaña política.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-75-1.jpg)
-
-El presidente de la República, **Daniel Noboa**[,](https://es.wikipedia.org/wiki/Daniel_Noboa "https://es.wikipedia.org/wiki/Daniel_Noboa") emitió el Decreto Ejecutivo Número 467 el 27 de noviembre de 2024, mediante el cual se remite a la **Asamblea Nacional** un proyecto de reforma parcial de la **Constitución**.
-
-### Más noticias
-
-* [Corte Constitucional habilita trámite de reforma parcial a la Asamblea](https://www.elcomercio.com/actualidad/politica/corte-constitucional-habilita-tramite-reforma-parcial-asamblea-nacional.html "Corte Constitucional habilita trámite de reforma parcial a la Asamblea")
-* [Asamblea Nacional rechazó proyecto de ley económica urgente](https://www.elcomercio.com/actualidad/politica/asamblea-nacional-rechazo-proyecto-ley-economica-urgente.html "Asamblea Nacional rechazó proyecto de ley económica urgente")
-* [Corte Constitucional da paso a propuesta sobre financiamiento público a organizaciones políticas](https://www.elcomercio.com/actualidad/politica/corte-constitucional-paso-propuesta-financiamiento-publico-organizaciones-politicas.html "Corte Constitucional da paso a propuesta sobre  financiamiento público a organizaciones políticas")
-
-La iniciativa busca modificar los artículos 110 y 115 de la Carta Magna con el objetivo de eliminar la asignación de **recursos públicos a partidos y movimientos políticos**, entre otras disposiciones relacionadas con el **financiamiento y la promoción electoral**.
-
-Esta propuesta cuenta con la calificación previa de la Corte Constitucional, que mediante dictamen resolvió que c**umple con los límites y procedimientos** para una reforma parcial establecidos en el artículo 442 de la Constitución.
-
-De aprobarse en la Asamblea Nacional, la reforma será sometida a un **referéndum constitucional**, según lo establece el **procedimiento legal**.
-
-Modificación del artículo 110
------------------------------
-
-El proyecto propone **sustituir el artículo 110 de la Constitución** para eliminar la obligación del Estado de asignar recursos económicos a partidos y movimientos políticos. Con la nueva redacción, estas organizaciones se **financiarán únicamente con aportes de afiliados, adherentes y simpatizantes**.
-
-Además, se establece que los movimientos políticos que obtengan al menos el **5% de los votos válidos a nivel nacional** en dos elecciones pluripersonales consecutivas mantendrán su **registro y derechos**, en igualdad de condiciones con los **partidos políticos**.
-
-Reforma del artículo 115
-------------------------
-
-En cuanto al **artículo 115**, la reforma busca prohibir el uso de recursos e infraestructura estatales, incluyendo la publicidad gubernamental, para la **campaña electoral**. También se dispone que el Estado garantice la **promoción equitativa** de todas las candidaturas a través de los medios de comunicación, fomentando el debate público.
-
-La propuesta incluye sanciones para quienes incumplan las disposiciones establecidas en este artículo. También como mecanismos de **control para garantizar el adecuado uso de los recursos** y evitar la propaganda electoral indebida.
-
-> Les dejo el decreto que da paso para que la Asamblea trate la reforma parcial a la constitución y que el Estado deje de financiar campañas políticas.  
->   
-> Para que se pongan las pilas. [pic.twitter.com/aYPfVVercx](https://t.co/aYPfVVercx)
-> 
-> — Daniel Noboa Azin (@DanielNoboaOk) [November 28, 2024](https://twitter.com/DanielNoboaOk/status/1861924996815176128?ref_src=twsrc%5Etfw)
-
-Procedimiento legislativo y referéndum
---------------------------------------
-
-El **Decreto Ejecutivo** instruye a la Asamblea Nacional a tramitar la propuesta conforme al procedimiento establecido en el a**rtículo 442 de la Constitución**.
-
-Una vez aprobada por el órgano legislativo, deberá ser sometida a un **referéndum constitucional**, en el que la ciudadanía decidirá sobre su implementación.
-
-Este decreto entrará en vigor a partir de su suscripción y lo publicarán en el **Registro Oficial** para conocimiento público y tramitación legislativa.
-
-> La CC da luz verde para que la Asamblea evalúe reformas a los artículos 110 y 115 de la Constitución. Detalles 👇[https://t.co/oTJrF5i9jZ](https://t.co/oTJrF5i9jZ) [pic.twitter.com/tdcVIhFnQN](https://t.co/tdcVIhFnQN)
-> 
-> — El Comercio (@elcomerciocom) [November 28, 2024](https://twitter.com/elcomerciocom/status/1862259010008764668?ref_src=twsrc%5Etfw)
-
-Medidas para combatir el financiamiento ilícito en campañas electorales
------------------------------------------------------------------------
-
-Aunque el Decreto Ejecutivo elimina el financiamiento público a **partidos y movimientos políticos**, no aborda directamente e**l problema del financiamiento ilícito** en las campañas electorales.
-
-Para enfrentar este desafío, el **CNE y la Unidad de Análisis Financiero y Económico (UAFE)** suscribieron, el pasado 19 de noviembre, un convenio interinstitucional. Este acuerdo está destinado a prevenir y erradicar este tipo de prácticas durante las **Elecciones Generales de 2025**.
-
-Este acuerdo permitirá un control más riguroso de las **transacciones financieras** de candidatos y organizaciones políticas.
-
-Según la presidenta del CNE, **Diana Atamaint**, esta colaboración refuerza el compromiso de garantizar elecciones libres de influencias ilícitas.
-
-José Julio Neira, director de la UAFE, destacó que **analizarán con rigurosidad las cuentas bancarias** antes, durante y después de la **campaña.** Esto con la finalidad de **identificar y bloquear** cualquier intento de infiltración de recursos provenientes de actividades ilícitas como el **lavado de activos**.
-
-Eventos y cierres viales por fiestas de Quito este fin de semana
-================================================================
-
-Este sábado 30 de noviembre y domingo 1 de diciembre, la capital será escenario de varios eventos culturales y desfiles.
-------------------------------------------------------------------------------------------------------------------------
-
-![Este fin de semana se realizarán cierres viales por fiestas de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-77-1.jpg)
-
-Este sábado 30 de noviembre y domingo 1 de diciembre, **la capital** será escenario de varios eventos culturales y **desfiles** como parte de la celebración de las **fiestas de Quito** 2024.
-
-### Más noticias
-
-* [Conciertos, cierres viales y ubicación de las chivas durante las fiestas de Quito](https://www.elcomercio.com/actualidad/quito/chivas-conciertos-fiestas-quito-mapas.html "Conciertos, cierres viales y ubicación de las chivas durante las fiestas de Quito")
-* [19 cierres viales este miércoles 27 de noviembre por partido de fútbol](https://www.elcomercio.com/actualidad/quito/19-cierres-viales-miercoles-27-de-noviembre-partido-de-futbol-final-copa-ecuador.html "19 cierres viales este miércoles 27 de noviembre por partido de fútbol")
-* [Cierres viales por las fiestas de Quito del 26 al 30 de noviembre](https://www.elcomercio.com/actualidad/quito/fiestas-quito-cierres-viales-amt.html "Cierres viales por las fiestas de Quito del 26 al 30 de noviembre")
-
-La **Agencia Metropolitana de Tránsito (AMT)** ha planificado un operativo especial para gestionar el tránsito durante estas actividades, lo que incluye cierres viales en **diferentes sectores de la ciudad**.
-
-Eventos destacados y cierres programados
-----------------------------------------
-
-El sábado 30 de noviembre, los ciudadanos deberán considerar los siguientes cierres:
-
-1. **Desfile de la Confraternidad Nacional Sur**
-    * **Horario:** 10:00 a 16:00
-    * **Cierre principal:** Av. Cardenal de la Torre, desde la Av. Ajaví hasta la Av. Teniente Hugo Ortiz.
-    * **Cierres secundarios:** Intersecciones de la Av. Cardenal de la Torre con calles como Andrés de Toledo, Francisco Ballesteros y Gonzalo Cabezas.
-    * **Rutas alternas:** Av. Mariscal Sucre, Av. Alonso de Angulo y Galo Molina.
-2. **VIII Desfile Cultural Ronda Quiteña**
-    * **Horario:** 16:30 a 21:30
-    * **Cierre principal:** Calle Venezuela, desde Julio Matovelle hasta el Bulevar 24 de Mayo.
-    * **Cierres secundarios:** Calles transversales a la calle Venezuela, como Francisco Caldas, Carchi, Galápagos, Oriente y Esmeraldas.
-    * **Rutas alternas:** Calles Olmedo, Esmeraldas y Galápagos.
-
-El domingo 1 de diciembre, otro importante evento marcará la jornada:
-
-1. **Desfile de la Confraternidad Nacional Norte**
-    * **Horario:** 10:00 a 14:00
-    * **Cierre principal:** Av. De los Shyris, desde El Telégrafo hasta la calle Rusia.
-    * **Cierres secundarios:** Intersecciones con calles como Isla Floreana, Gaspar de Villarroel, El Universo y Naciones Unidas.
-    * **Rutas alternas:** Av. República de El Salvador, Japón y Naciones Unidas.
-
-> 🫸🏻[#GestiónAMT](https://twitter.com/hashtag/Gesti%C3%B3nAMT?src=hash&ref_src=twsrc%5Etfw)| ¡Márcale 0 al alcohol! 🥃  
->   
-> 👮🏻 Agentes de Tránsito ejecutaron un operativo de alcotest, en Santa Rita, sur de Quito, donde no se registraron infractores.  
-> 🚙 ¡Si bebes, no conduzcas!  
-> ⚠️ ¡Respeta la norma y salvemos vidas!  
->   
-> ✅ Con tu colaboración ☀️[#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/kQy8wkFjqI](https://t.co/kQy8wkFjqI)
-> 
-> — AMTQuito (@AMT\_Quito) [November 29, 2024](https://twitter.com/AMT_Quito/status/1862521249982767360?ref_src=twsrc%5Etfw)
-
-Recomendaciones de la AMT
--------------------------
-
-La AMT solicita a la ciudadanía utilizar el **transporte público** para facilitar la movilidad y evitar congestiones.
-
-También recomienda estacionar únicamente en lugares permitidos, planificar los desplazamientos con antelación y seguir las indicaciones de los **agentes civiles de tránsito** que estarán desplegados en las zonas de influencia de los eventos.
-
-Movilidad durante las Fiestas de Quito
---------------------------------------
-
-La AMT estima una alta afluencia de asistentes a estos eventos, por lo que el **operativo contempla la presencia permanente de agentes de tránsito** en los perímetros de los desfiles para garantizar la seguridad y fluidez vehicular.
-
-Las **Fiestas de Quito 2024** invitan a disfrutar de una variada agenda cultural que refleja el espíritu festivo de la capital. Con responsabilidad y planificación, los ciudadanos podrán ser parte de estas actividades sin contratiempos.
-
-Pablo ‘Vitamina’ Sánchez vivirá una final adelantada con Liga de Quito
-======================================================================
-
-Pablo 'Vitamina' Sánchez se refirió al último partido que tendrá Liga de Quito en Liga Pro y su trascendencia para buscar llegar a la final.
---------------------------------------------------------------------------------------------------------------------------------------------
-
-![Pablo 'Vitamina' Sánchez, DT de Liga de Quito, en rueda de prensa.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-29T142049.300.jpg)
-
-**Liga de Quito** jugará con Deportivo Cuenca en la última fecha de la Liga Pro 2024 y aquello determinará si va o no a la final del torneo. **Pablo ‘Vitamina’ Sánchez** calificó al cotejo como una final adelantada y reveló cómo abordará el compromiso.
-
-Este domingo 1 de diciembre del 2024, los albos recibirán en el Estadio Rodrigo Paz Delgado de Quito a los morlacos a las 15:30. Aquel duelo se jugará en horario unificado con el de **Independiente del Valle** ante **Orense** debido a que los rayados pueden coronarse campeones directos.
-
-### Más noticias:
-
-* [Liga de Quito está cerca de retener el título de Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-de-quito-esta-cerca-de-retener-el-titulo-de-liga-pro.html "Liga de Quito está cerca de retener el título de Liga Pro")
-* [Liga de Quito jugará el último partido de la Liga Pro sin visitantes](https://www.elcomercio.com/deportes/liga-quito-liga-pro-publico-cuenca.html "Liga de Quito jugará el último partido de la Liga Pro sin visitantes")
-* [La FEF restituye sus tres puntos a Liga de Quito](https://www.elcomercio.com/deportes/liga-quito-apelacion-fef-independiente-valle.html "La FEF restituye sus tres puntos a Liga de Quito")
-
-De cara al compromiso, ‘**Vitamina**‘ conversó con los medios de comunicación en el complejo de Liga de Quito durante este 29 de noviembre. Allí sostuvo que el **Deportivo Cuenca** es un rival impredecible y que, independientemente de su momento, todos buscan ganar a los equipos grandes como la ‘U’.
-
-En virtud de aquella situación, el **entrenador argentino** señaló que no se debe subestimar al rival ni debe haber excesos de confianza. Asimismo, relató que conversó con sus futbolistas en el más reciente entrenamiento sobre el futuro choque.
-
-“**Debemos entender que el partido del fin de semana es una nueva final y hay que tomarla como tal. No nos podemos relajar.** Si queremos jugar la hipotética final ante Independiente del Valle debemos ganar este partido. Sé que los dos puntos alcanzan y podríamos especular y que no gane Independiente, pero eso para mí sería fatídico”, sostuvo el entrenador[.](https://en.wikipedia.org/wiki/Independiente_del_Valle "https://en.wikipedia.org/wiki/Independiente_del_Valle")
-
-Alexander Domínguez y otros bajas en Liga de Quito
---------------------------------------------------
-
-Para el choque, **Liga de Quito** no contará con nombres vitales dentro de su elenco, sin embargo, cuenta con revulsivos. El argentino dio a conocer qué jugadores serán baja o están en duda y cómo llegan sus potenciales reemplazantes.
-
-Uno de los futbolistas que no estará será el capitán y arquero **Alexander Domínguez** debido a una suspensión. Ante ello, la confianza de ‘Vitamina’ recaerá sobre Gonzalo Valle, a quien el DT destacó y ponderó por sus convocatorias a la **Selección de Ecuador**.
-
-**José ‘Choclo’ Quinteros** tampoco estará presente y se buscará que retorne ante una eventual final. **Ezequiel Piovi** deberá ser evaluado por una sobrecarga en los isquiotibiales y Lisandro Alzugaray volverá tras recuperarse.
-
-¿Cómo llega Liga de Quito al partido ante Deportivo Cuenca?
------------------------------------------------------------
-
-**Liga de Quito** arriba al partido ante **Deportivo Cuenca** en la cima de la segunda etapa de la Liga Pro. El equipo azucena suma 32 puntos dentro de la ronda, tres más que Independiente del Valle, que lo supera en gol diferencia.
-
-La ventaja de los albos llegó después de que ganasen una apelación en la **Federación Ecuatoriana de Fútbol (FEF)** luego de haber sido sancionados. Antes, la entidad había descontado tres puntos a la ‘U’ y se los restituyó.
-
-Yaimar Medina elevó sustancialmente su valor de mercado
-=======================================================
-
-Yaimar Medina debutó con la Selección de Ecuador en las eliminatorias al Mundial 2026.
---------------------------------------------------------------------------------------
-
-![Yaimar Medina, jugador de Independiente del Valle en el Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/11/medina_valor_1.jpg)
-
-**Yaimar Medina** se consolidó como uno de los mejores y más sobresalientes juveniles de Independiente del Valle en el 2024. Pasó de ser una emergente promesa a una realidad con una proyección hacia el fútbol del extranjero.
-
-Esta temporada ha sido de consolidación para Yaimar Medina. Se ganó un **puesto en el equipo principal de la mano del argentino Javier Gandolfi** y en la Selección de Ecuador con Sebastián Beccacece, otro argentino.
-
-### Más noticias:
-
-* [Liga de Quito e IDV, cara a cara por el liderato en la Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-de-quito-e-idv-cara-a-cara-por-el-liderato-en-la-liga-pro.html "Liga de Quito e IDV, cara a cara por el liderato en la Liga Pro")
-* [La FEF restituye sus tres puntos a Liga de Quito](https://www.elcomercio.com/deportes/liga-quito-apelacion-fef-independiente-valle.html "La FEF restituye sus tres puntos a Liga de Quito")
-* [Enner, un nombre con origen muy lejano a Ecuador](https://www.elcomercio.com/deportes/futbol/enner-valencia-origen-nombre-delantero.html "Enner, un nombre con origen muy lejano a Ecuador")
-
-El talento de Medina no pasa desapercibido para el fútbol del exterior. En agosto los del Valle decidieron retenerlo en sus filas, **pese al interés desde el fútbol belga**, uno de los mercados futbolísticos de mayor apertura del equipo ecuatoriano.
-
-El debut de ‘Moto Moto’, como se c**onoce al deportista que nación en San Lorenzo**, provincia de Esmeraldas, con la Selección de Ecuador, se produjo en las eliminatorias sudamericanas al Mundial 2026.
-
-Su estreno no estuvo exento de la polémica. Antes de la doble fecha octubre fue **incluido en la lista de convocados por Beccacece**, pero como invitado y no como uno de los 25 para ser tomados en cuenta.
-
-Sin embargo, en la vista a Brasil en Curitiba se lo incluyó entre los convocados y luego tuvo **cinco minutos en cancha en lugar de Pervis Estupiñán**. El marcador fue 1-0 en favor de los locales con un tanto de Rodrygo Goes.
-
-Antes de llegar al primer equipo, **trascendió en el equipo sub-20 y en Independiente Juniors**, el equipo filial de la institución que milita en la Liga Pro Serie B con gran suceso.
-
-![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/11/medina_valor_2-1024x683.jpg)
-
-Foto: API.
-
-Consolidación en el primer equipo
----------------------------------
-
-En el 2024 llega jugados, entre Liga Pro, Copa Ecuador y Libertadores un total de 34 partidos. Anotó cinco goles, entregó cinco asistencias, **recibió tres tarjetas amarillas y acumuló 2 259 minutos**.
-
-Sus golazos fueron ante Universidad Católica, Cumbayá, Técnico Universitario y un doblete a Aucas.
-
-Sus asistencias fueron ante **San Lorenzo (1) y Liverpool en la Copa Libertadores**; y Delfín y Macará (2) en la Liga Pro.
-
-En cuanto a títulos, fue parte de los planteles que ganaron la **Copa Ecuador y la Sudamericana en el 2023**, y Supercopa Ecuador y Recopa Sudamericana en el 2023.
-
-Sus buenos números y actuaciones hicieron que su valor de mercado se incremente sustancialmente y se meta en la parte alta de los **jugadores mejor valorados de la Liga Pro**.
-
-El año lo inició con un valor de mercado de **[634 000 dólares y en noviembre se elevó a los 2,1 millones](https://www.transfermarkt.es/yaimar-medina/profil/spieler/893659)** de dólares, es decir, sufrió un incremento de 1,4 millones de dólares.
-
-En este rubro, Kendry Páez, su compañero en IDV. sigue siendo el mejor valor con 12,7 millones.
-
-Álex Arce, delantero de **Liga de Quito y goleador de la Liga Pro con 24 tantos**, tiene un valor de 4,2 millones.
-
-El podio lo completa **Joao Ortiz, otro jugador de Independiente**, que tiene el mismo valor que Yaimar Medina.
-
-![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/11/medina_valor_3-1024x683.jpg)
-
-Foto: API.
-
-San viernes
------------
