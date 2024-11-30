@@ -90,4 +90,4 @@ The [standards page](https://www.mobygames.com/info/standards) is the first thin
 
 © 1999–2024 MobyGames ™
 
-v20241125
+v20241130
