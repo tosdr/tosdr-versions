@@ -6,7 +6,7 @@
 
 [Doorbuster Deals
 
-Save up to $200!](https://www.horizonhobby.com/horizon-hobby-rc-sale/doorbusters/?cp_source=global&cp_medium=tippy-top)
+Lowest Prices Of The Season Guaranteed](https://www.horizonhobby.com/horizon-hobby-rc-sale/doorbusters/?cp_source=global&cp_medium=tippy-top)
 
 [Clearance Sale
 
@@ -16,7 +16,7 @@ Save Big While Supplies Last](https://www.horizonhobby.com/clearance-sale/?cp_so
 
 [Doorbuster Deals
 
-Save up to $200!](https://www.horizonhobby.com/horizon-hobby-rc-sale/doorbusters/?cp_source=global&cp_medium=tippy-top)
+Lowest Prices Of The Season Guaranteed](https://www.horizonhobby.com/horizon-hobby-rc-sale/doorbusters/?cp_source=global&cp_medium=tippy-top)
 
 [Clearance Sale
 
@@ -108,7 +108,7 @@ My store
 
 [Doorbuster Deals
 
-Save up to $200!](https://www.horizonhobby.com/horizon-hobby-rc-sale/doorbusters/?cp_source=global&cp_medium=tippy-top)
+Lowest Prices Of The Season Guaranteed](https://www.horizonhobby.com/horizon-hobby-rc-sale/doorbusters/?cp_source=global&cp_medium=tippy-top)
 
 [Clearance Sale
 
@@ -118,7 +118,7 @@ Save Big While Supplies Last](https://www.horizonhobby.com/clearance-sale/?cp_so
 
 [Doorbuster Deals
 
-Save up to $200!](https://www.horizonhobby.com/horizon-hobby-rc-sale/doorbusters/?cp_source=global&cp_medium=tippy-top)
+Lowest Prices Of The Season Guaranteed](https://www.horizonhobby.com/horizon-hobby-rc-sale/doorbusters/?cp_source=global&cp_medium=tippy-top)
 
 [Clearance Sale
 
