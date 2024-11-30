@@ -244,14 +244,6 @@ MuggleNet Archive Select Month November 2024  (20) October 2024  (27) Septembe
 
 ### Important Dates
 
-### November 2024
-
-#### Fri, Nov 29
-
-Bill Weasley's birthday
-
-Recurs yearly
-
 ### December 2024
 
 #### Sun, Dec 1
@@ -286,6 +278,24 @@ Recurs yearly
 
 Young Severus Snape (DH2)
 
+#### Fri, Dec 6
+
+Newt Scamander disembarks from a steamship in New York harbor
+
+Recurs yearly
+
+1926
+
+Oliver Masucci's birthday
+
+Recurs yearly
+
+Head of International Confederation of Wizards -FB3
+
+Rubeus Hagrid's birthday
+
+Recurs yearly
+
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -296,15 +306,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Remus Lupin’s condition of lycanthropy is a metaphor for AIDS.
+“Harry Potter and the Chamber of Secrets” was once called “Harry Potter and the Half-Blood Prince”.
 
 ### Potter History
 
-August 8, 2012 – The Harry Potter series is voted the best ever teen fiction book series in a poll on NPR.
+June 2, 1999 – Harry Potter and the Chamber of Secrets is published in the United States.
 
 ### Potter Quote
 
-“I’ve got to do it! He’ll kill me! He’ll kill my whole family!”
+“It’s S-P-E-W. Stands for the Society for the Promotion of Elfish Welfare.”
 
 [](#)
 
