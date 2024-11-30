@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Ukrainian War VII: Everything has a p… (11,496)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Everything has a price" (11,496 posts)")
-* [What do you think of when you see the… (9,810)](https://forum.nationstates.net/viewtopic.php?t=527620&f=25&view=unread#unread ""What do you think of when you see the AN's flag? V" (9,810 posts)")
-* [Grant AN's wish then curse it (1,329)](https://forum.nationstates.net/viewtopic.php?t=555678&f=25&view=unread#unread ""Grant AN's wish then curse it" (1,329 posts)")
-* [Would You Rather Chill with AU or AAU? (525)](https://forum.nationstates.net/viewtopic.php?t=556519&f=25&view=unread#unread ""Would You Rather Chill with AU or AAU?" (525 posts)")
-* [American Politics: Turnabout Trump (7,009)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (7,009 posts)")
+* [Is AN or AAN more well known/Famous? (1,552)](https://forum.nationstates.net/viewtopic.php?t=554643&f=25&view=unread#unread ""Is AN or AAN more well known/Famous?" (1,552 posts)")
+* [A new god \[IC/FT/OPEN\] (6)](https://forum.nationstates.net/viewtopic.php?t=558948&f=5&view=unread#unread ""A new god [IC/FT/OPEN]" (6 posts)")
+* [Trade between Pakania and Freedom Fre… (720)](https://forum.nationstates.net/viewtopic.php?t=558680&f=5&view=unread#unread ""Trade between Pakania and Freedom Freelandia (Invite Only)" (720 posts)")
+* [Say a random sentence (9,581)](https://forum.nationstates.net/viewtopic.php?t=514647&f=25&view=unread#unread ""Say a random sentence" (9,581 posts)")
+* [\[R\] Flaming (9)](https://forum.nationstates.net/viewtopic.php?t=558973&f=16&view=unread#unread ""[R] Flaming" (9 posts)")
 
 Advertisement
 
