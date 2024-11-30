@@ -56,13 +56,13 @@ Offers
 
 [SEE ALL OFFERS](https://www.fandango.com/offers)
 
-* [Discover the new Fandango FanStore image link ![Discover the new Fandango FanStore](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/aef25cc0-a933-11ef-8321-2b978811c524--fan-globalofferunit-homepage-fanstorelaunch-292x118-v2.png)](https://www.fandangofanstore.com/?cmp=TARS~FANDANGO~_Footer) 
+* [Ascend to victory with The Champion's Collection image link ![Ascend to victory with The Champion's Collection](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/117eeb80-9e1f-11ef-a588-3b078e6b3d8a--fan-globalofferunit-homepage-gladiator2bundle-292x118.png)](https://www.fandangomovietickets.com/gladiator2championscollection?cmp=TARS~FANDANGO~Gladiator2TheChampionsCollection_Footer) 
     
-    ### Discover the new Fandango FanStore
+    ### Ascend to victory with The Champion's Collection
     
-    Need a gift for the holidays? Shop Wicked, Gladiator II, Despicable Me, & More!
+    Featuring 1 ticket to Gladiator II at a Regal theatre, an exclusive physical poster, and more!
     
-    [SHOP NOW](https://www.fandangofanstore.com/?cmp=TARS~FANDANGO~_Footer)
+    [LEARN MORE](https://www.fandangomovietickets.com/gladiator2championscollection?cmp=TARS~FANDANGO~Gladiator2TheChampionsCollection_Footer)
     
 * [Chance to win a vacation! image link ![Chance to win a vacation!](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/dc250740-a39a-11ef-a588-3b078e6b3d8a--fan-homepageofferunit-292x118.png)](https://www.fandangomovietickets.com/fandangoscrownofthepridesweepstakes?cmp=TARS~FANDANGO~MufasaSweeps_Footer) 
     
@@ -80,13 +80,13 @@ Offers
     
     [BUY NOW](https://www.fandangomovietickets.com/moana2ticket2adventure?cmp=TARS~FANDANGO~Moana2ticket2adventure_Footer)
     
-* [Popular Poster Pack image link ![Popular Poster Pack](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/a73aa8c0-8dae-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-wicked-292x118.png)](https://www.fandangomovietickets.com/wickedbundle?cmp=TARS~FANDANGO~PopularPosterPack_Footer) 
+* [Gladiator II Prop Auction image link ![Gladiator II Prop Auction](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/9f6f3b60-9899-11ef-8321-2b978811c524--fan-globalofferunit-homepage-gladiator2auction-292x118-v5.png)](https://www.fandango.com/fanstoreauction-gladiator2?cmp=TARS~FANDANGO~Gladiator2PropAuction_Footer) 
     
-    ### Popular Poster Pack
+    ### Gladiator II Prop Auction
     
-    Get 2 movie tickets to Wicked, a limited edition poster, and more!
+    Take a piece of history home with official props straight from the movie set!
     
-    [BUY NOW](https://www.fandangomovietickets.com/wickedbundle?cmp=TARS~FANDANGO~PopularPosterPack_Footer)
+    [LEARN MORE](https://www.fandango.com/fanstoreauction-gladiator2?cmp=TARS~FANDANGO~Gladiator2PropAuction_Footer)
     
 
 New & Coming soon
