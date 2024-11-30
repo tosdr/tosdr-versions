@@ -31,6 +31,91 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+¿A qué hora juega Alan Franco la final de la Copa Libertadores?
+===============================================================
+
+Alan Franco y el Atlético Mineiro disputarán la final de la Copa Libertadores ante Botafogo durante este 30 de noviembre del 2024.
+----------------------------------------------------------------------------------------------------------------------------------
+
+![Alan Franco, volante ecuatoriano del Atlético Mineiro, en la Copa Libertadores.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-29T202639.312.jpg)
+
+**Atlético Mineiro y Botafogo** se juegan este sábado el título de la Copa Libertadores 2024 en el imponente Monumental de Buenos Aires, en una final que se espera tensa tras el último encontronazo entre estos dos grandes equipos brasileños.
+
+Con más de cien años de historia a sus espaldas, **Botafogo** pisa por primera vez la última instancia del torneo de clubes más prestigioso de América.
+
+### Más noticias:
+
+* [Ecuador vuelve a la final de la Copa Libertadores con Alan Franco](https://www.elcomercio.com/deportes/futbol/ecuador-vuelve-a-la-final-de-la-copa-libertadores-con-alan-franco.html "Ecuador vuelve a la final de la Copa Libertadores con Alan Franco")
+* [La Copa Libertadores 2025 tiene 27 equipos clasificados](https://www.elcomercio.com/deportes/futbol/copa-libertadores2025-equipos-clasificados-ecuador.html "La Copa Libertadores 2025 tiene 27 equipos clasificados")
+* [¿Cómo llegan los finalistas de la Copa Libertadores?](https://www.elcomercio.com/deportes/futbol/como-llegan-los-finalistas-de-la-copa-libertadores.html "¿Cómo llegan los finalistas de la Copa Libertadores?")
+
+El equipo de **Río de Janeiro** aterrizó en la capital argentina con la vitola de favorito y recién transformado en una potencia futbolística gracias al talonario de John Textor.
+
+El magnate estadounidense, propietario también del **Olympique Lyon**, compró el club carioca en 2022 y en menos de tres años ha conformado una de las plantillas más valoradas de Sudamérica.
+
+La alegría podría ser doble, pues también están a un paso de proclamarse **campeones de la Liga brasileña**. Y es que desde 1995 la afición albinegra no celebra un gran título.
+
+Botafogo tiene un equipo de estrellas
+-------------------------------------
+
+El extremo **Luiz Henrique**, exjugador del Real Betis; el delantero **Igor Jesús**, inesperado 9 de la ‘Canarinha’; el mediapunta **Thiago Almada**, campeón del mundo con Argentina en 2022; y el venezolano **Jefferson Savarino**, quien se enfrentará precisamente a su anterior equipo lideran la constelación de estrellas del ‘Fogão’.
+
+La única preocupación -no menor- del técnico portugués **Artur Jorge** es la más que posible baja del zaguero angoleño Bastos. El central no participó en el entrenamiento de este viernes y es seria duda por una lesión en la parte posterior del muslo.
+
+Le sustituirá posiblemente Adryelson, quien ocupará el centro de la zaga junto con el argentino **Alexander Barboza.**
+
+Atlético Mineiro y Alan Franco van con presión
+----------------------------------------------
+
+El **Mineiro** va de tapado y ha cargado toda la presión en los hombros del Botafogo, a pesar de contar con más experiencia en este tipo de duelos.
+
+No en vano ya fue campeón de la Libertadores en 2013. El cuadro de Belo Horizonte, liderado por el ‘Bruxo’ **Ronaldinho Gaúcho**, se llevó el título en los penaltis frente al Olimpia paraguayo.
+
+Entonces, la final era a doble partido. Esta vez se definirá en 90 minutos y, en caso de acabar en empate, habrá prórroga y penaltis.
+
+El camino para llegar a la final no fue nada fácil para los ‘Galos’. En los cruces tuvieron que apear a San Lorenzo, Fluminense, campeón en 2023, y **River Plate.**
+
+Todo bajo las órdenes del entrenador argentino **Gabriel Milito**, quien busca su primer gran título desde que empezó su carrera en los banquillos.
+
+El exjugador del Barcelona podrá salir con su once de gala, una vez recuperados los carrileros **Guilherme Arana y Gustavo Scarpa**, quienes arrastraban diversas molestias.
+
+No obstante, no podrá contar como revulsivo con el mediapunta argentino **Matías Zaracho**, de baja por una lesión muscular.
+
+Una final de Copa Libertadores que promete en Argentina
+-------------------------------------------------------
+
+En el **Monumental** se espera una final caliente a tenor del último enfrentamiento entre ambos equipos, que finalizó con tres expulsados y un sinfín de provocaciones. Ese enfrentamiento fue reciente, hace diez días, en la Liga brasileña, y acabó en tangana.
+
+Por el momento, en **Buenos Aires** reina la calma entre ambas aficiones. Desde comienzos de la semana, miles de brasileños han teñido la ciudad de blanco y negro.
+
+Cada una de las **aficiones** eligió distintos puntos de encuentro, principalmente en la exclusiva zona de Puerto Madero o los barrios de Palermo, Recoleta y Núñez, donde se encuentra el Monumental[.](https://es.wikipedia.org/wiki/Copa_Libertadores_de_Am%C3%A9rica "https://es.wikipedia.org/wiki/Copa_Libertadores_de_Am%C3%A9rica")
+
+Aunque hay un denominador común entre ambas hinchadas: la **peregrinación** a las tradicionales parrillas argentinas, muchas de las cuales se han visto desbordadas a pesar de sus elevados precios.
+
+Según datos preliminares de la **Conmebol**, se espera que más de 60.000 brasileños lleguen a Buenos Aires para la gran final: 40.000 del Botafogo y unos 20.000 del Mineiro.
+
+Fecha y hora para Atlético Mineiro vs. Botafogo
+-----------------------------------------------
+
+**Partido**: Atlético Mineiro vs. Botafogo.
+
+**Fecha**: sábado 30 de noviembre del 2024.
+
+**Hora**: 15:00.
+
+**Estadio**: Monumental de River Plate (Buenos Aires).
+
+Posibles alineaciones de la final de Copa Libertadores
+------------------------------------------------------
+
+**Atlético Mineiro**: Everson; Lyanco, Rodrigo Battaglia, Júnior Alonso; Gustavo Scarpa, Fausto Vera, Alan Franco, Guilherme Arana; Paulinho, Hulk y Deyverson.
+
+**Entrenador**: Gabriel Milito.
+
+**Botafogo**: John Victor, Vitinho, Adryelson, Alexander Barboza, Alex Telles; Marlon Freitas, Gregore, Thiago Almada; Jefferson Savarino, Luiz Henrique e Igor Jesus.
+
+**Entrenador**: Artur Jorge.
+
 ¿Qué es la PrEP y la PEP para prevenir VIH?
 ===========================================
 
@@ -170,41 +255,6 @@ Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Ap
 
 [ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
 
-El llanero solitario
-====================
-
-Un político desafía las infracciones legales en Ecuador mientras enfrenta un juicio impulsado por intereses correístas.
------------------------------------------------------------------------------------------------------------------------
-
-![Lolo Echeverría, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Lolo-Echeverria-1.jpg)
-
-Un **justiciero** que cabalgaba por las llanuras del viejo oeste en busca de la verdad y la justicia, el llanero solitario, nació en radio, se hizo **famoso en libros** y terminó en el cine y la televisión. Ahora tenemos un nuevo llanero solitario que lucha contra los forajidos de la **política ecuatoriana**. Se llama Juan Esteban Guarderas.
-
-Confieso que me defraudó cuando salió en ayuda de Daniel Noboa en su cruzada contra la vicepresidente Abad. Le acusa de haber hecho **campaña anticipada**, hace una década, cuando era candidata a una **alcaldía**. Parecía un embuste esta **justicia histórica** cuando los dos candidatos principales hacen ahora campaña anticipada con total **impunidad**. Pero he cambiado.
-
-Guarderas pretende obtener **sanción**, por primera vez, para **algunas infracciones** que están escritas, pero nadie las lee. Campaña anticipada, control del **gasto electoral**, proselitismo político de funcionarios públicos, **filiación partidista** de funcionarios que por ley deben ser independientes, inauguración de obras como **campaña electoral.** Contra todas estas **infracciones** ha luchado con **éxito**.
-
-Ahora tiene más poder en el CPCCS y el correísmo quieren destituirle con un **juicio político**. Con la censura lograrán la mayoría de ese Consejo porque sería reemplazado por el abogado de Jorge Glas. Le han ofrecido abandonar el juicio si abandona el caso de la vicepresidente.
-
-Esta **propuesta** demuestra que la madre del cordero es la **liberación** de Glas y quieren conseguirla con un posible indulto de Abad o mediante mayoría en el **Consejo de Participación Ciudadana** que designará el nuevo Fiscal, Consejo de la Judicatura, Consejo Nacional Electoral y Tribunal Contencioso Electoral.
-
-Un objetivo no alcanzado por el llanero solitario era la **remoción** de Diana Atamaint, presidenta perennizada en el CNE por **manipulación** de los partidos políticos. Juan Esteban Guarderas ha cometido la **imprudencia política** de tomar en serio las leyes, ojalá que los ecuatorianos cometan la imprudencia política de premiar su gestión.
-
-Cartas a Quito / 30 de noviembre de 2024
-========================================
-
-Estas son las cartas a Quito de este sábado 30 de noviembre de 2024
--------------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-Es hora de revelarnos
----------------------
-
-En la última constitución, los políticos intencionalmente borraron del pénsum estudiantil las materias de ética y cívica; sin embargo, sorprende que cada vez hay más ciudadanos ansiosos de sacrificarse, en beneficio del bien común. Ahora mismo, para las elecciones de febrero 2025 hay 16 binomios que aspiran a la presidencia y vicepresidencia de la república, ¿por qué será? Porque la democracia faculta a todo ecuatoriano, elegir y ser elegido, para el segundo caso, no exige ningún requisito, solo estar afiliado a un partido o movimiento político, escuela donde aprenden y se especializan a levantar falsos testimonios y usurpar los bienes públicos. La historia nos revela que el político, busca servirse y no servir, busca tener autoridad y manejar fondos ajenos, engañar y asegurar su futuro, no hay distinción entre políticos de derecha, izquierda y de centro, entre trans y de tres palos, entre el viejo Ecuador y el nuevo, entre charlatanes y sin lengua, entre cuerdos y locos, entre patojos y sanos, su impronta es la mentira y el robo y, cuando les pillan son perseguidos políticos. Basta ya de creer en este perverso personaje que pertenece a una clase descalificada que ha engañado, engaña y engañará siempre, para ellos somos tontos útiles, (en diciembre volverá la vida normal). Ningún candidato tiene la menor idea de cómo resolver los problemas graves que tiene el Ecuador (seguridad, electrificación, empleo, salud y educación), no tienen planes de trabajo solo declaraciones líricas, no tienen proyectos, actividades, duración, costo, y fuentes de financiamiento, así, no se puede controlar, pero claro, ese es el objetivo, improvisar para camuflar sus fechorías, no seamos ingenuos, rechacemos a la antipatria, que nunca se preocuparon de su mandante, solo en elecciones desesperadas buscan nuestro voto, es hora de revelarnos, el futuro está en nosotros.
-
-Marco A. Zurita Ríos
-
 Reconocimiento para proyectos de inteligencia artificial ecuatorianos
 =====================================================================
 
@@ -309,6 +359,41 @@ Consejos para elaborar la receta
 * Puedes añadir otras verduras como brócoli o champiñones, según tu preferencia
 
 ¡Buen provecho!
+
+Cartas a Quito / 30 de noviembre de 2024
+========================================
+
+Estas son las cartas a Quito de este sábado 30 de noviembre de 2024
+-------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Es hora de revelarnos
+---------------------
+
+En la última constitución, los políticos intencionalmente borraron del pénsum estudiantil las materias de ética y cívica; sin embargo, sorprende que cada vez hay más ciudadanos ansiosos de sacrificarse, en beneficio del bien común. Ahora mismo, para las elecciones de febrero 2025 hay 16 binomios que aspiran a la presidencia y vicepresidencia de la república, ¿por qué será? Porque la democracia faculta a todo ecuatoriano, elegir y ser elegido, para el segundo caso, no exige ningún requisito, solo estar afiliado a un partido o movimiento político, escuela donde aprenden y se especializan a levantar falsos testimonios y usurpar los bienes públicos. La historia nos revela que el político, busca servirse y no servir, busca tener autoridad y manejar fondos ajenos, engañar y asegurar su futuro, no hay distinción entre políticos de derecha, izquierda y de centro, entre trans y de tres palos, entre el viejo Ecuador y el nuevo, entre charlatanes y sin lengua, entre cuerdos y locos, entre patojos y sanos, su impronta es la mentira y el robo y, cuando les pillan son perseguidos políticos. Basta ya de creer en este perverso personaje que pertenece a una clase descalificada que ha engañado, engaña y engañará siempre, para ellos somos tontos útiles, (en diciembre volverá la vida normal). Ningún candidato tiene la menor idea de cómo resolver los problemas graves que tiene el Ecuador (seguridad, electrificación, empleo, salud y educación), no tienen planes de trabajo solo declaraciones líricas, no tienen proyectos, actividades, duración, costo, y fuentes de financiamiento, así, no se puede controlar, pero claro, ese es el objetivo, improvisar para camuflar sus fechorías, no seamos ingenuos, rechacemos a la antipatria, que nunca se preocuparon de su mandante, solo en elecciones desesperadas buscan nuestro voto, es hora de revelarnos, el futuro está en nosotros.
+
+Marco A. Zurita Ríos
+
+El llanero solitario
+====================
+
+Un político desafía las infracciones legales en Ecuador mientras enfrenta un juicio impulsado por intereses correístas.
+-----------------------------------------------------------------------------------------------------------------------
+
+![Lolo Echeverría, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Lolo-Echeverria-1.jpg)
+
+Un **justiciero** que cabalgaba por las llanuras del viejo oeste en busca de la verdad y la justicia, el llanero solitario, nació en radio, se hizo **famoso en libros** y terminó en el cine y la televisión. Ahora tenemos un nuevo llanero solitario que lucha contra los forajidos de la **política ecuatoriana**. Se llama Juan Esteban Guarderas.
+
+Confieso que me defraudó cuando salió en ayuda de Daniel Noboa en su cruzada contra la vicepresidente Abad. Le acusa de haber hecho **campaña anticipada**, hace una década, cuando era candidata a una **alcaldía**. Parecía un embuste esta **justicia histórica** cuando los dos candidatos principales hacen ahora campaña anticipada con total **impunidad**. Pero he cambiado.
+
+Guarderas pretende obtener **sanción**, por primera vez, para **algunas infracciones** que están escritas, pero nadie las lee. Campaña anticipada, control del **gasto electoral**, proselitismo político de funcionarios públicos, **filiación partidista** de funcionarios que por ley deben ser independientes, inauguración de obras como **campaña electoral.** Contra todas estas **infracciones** ha luchado con **éxito**.
+
+Ahora tiene más poder en el CPCCS y el correísmo quieren destituirle con un **juicio político**. Con la censura lograrán la mayoría de ese Consejo porque sería reemplazado por el abogado de Jorge Glas. Le han ofrecido abandonar el juicio si abandona el caso de la vicepresidente.
+
+Esta **propuesta** demuestra que la madre del cordero es la **liberación** de Glas y quieren conseguirla con un posible indulto de Abad o mediante mayoría en el **Consejo de Participación Ciudadana** que designará el nuevo Fiscal, Consejo de la Judicatura, Consejo Nacional Electoral y Tribunal Contencioso Electoral.
+
+Un objetivo no alcanzado por el llanero solitario era la **remoción** de Diana Atamaint, presidenta perennizada en el CNE por **manipulación** de los partidos políticos. Juan Esteban Guarderas ha cometido la **imprudencia política** de tomar en serio las leyes, ojalá que los ecuatorianos cometan la imprudencia política de premiar su gestión.
 
 El Metro cumple un año y tiene 15 estaciones para conocer a Quito
 =================================================================
@@ -1081,41 +1166,3 @@ El vicepresidente del CNE, **Enrique Pita**, informó que Daniel Noboa deberá s
 > — El Comercio (@elcomerciocom) [November 29, 2024](https://twitter.com/elcomerciocom/status/1862622654244519944?ref_src=twsrc%5Etfw)
 
 Pita señaló que cualquier dignatario que busque la reelección debe **someterse a esta disposición**. Sin embargo, indicó que corresponderá al T**ribunal Contencioso Electoral (TCE)** determinar los detalles sobre el tiempo y **forma de la licencia**, marcando un precedente en la aplicación de la normativa para estas elecciones.
-
-Pervis Estupiñán y el Brighton igualaron y siguen arriba en la Premier
-======================================================================
-
-El Brighton and Hove Albion empató por 1-1 ante al Southampton en la Premier League con la presencia de Pervis Estupiñán.
--------------------------------------------------------------------------------------------------------------------------
-
-![Pervis Estupiñán durante un partido del Brighton and Hove Albion en la Premier League.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-29T164311.478.jpg)
-
-El **Brighton de Pervis Estupiñán** abrió la fecha 13 de la Premier League ante el **Southampton** y se llevó una sorpresa. La escuadra del ecuatoriano igualó ante el colista de la tabla de posiciones, sin embargo, se mantuvo en los lugares estelares del campeonato.
-
-Para el cotejo, el equipo blanquiazul llegaba como favorito y con un inusitado quinto lugar en la tabla de posiciones, uno de los más altos que ha ocupado en su historia. Aquello a partir de **seis triunfos, cuatro empates y dos derrotas.**
-
-### Más noticias:
-
-* [Joel Ordóñez, la joya ecuatoriana por la que se pelean en la Premier League](https://www.elcomercio.com/deportes/futbol/joel-ordonez-joya-ecuatoriana-pelean-premier-league.html "Joel Ordóñez, la joya ecuatoriana por la que se pelean en la Premier League")
-* [Brighton dejó escapar la victoria, y el Liverpool es el nuevo líder](https://www.elcomercio.com/deportes/futbol/brighton-dejo-escapar-la-victoria-liverpool-nuevo-lider-premier-leauge.html "Brighton dejó escapar la victoria, y el Liverpool es el nuevo líder")
-* [Brighton y Pervis Estupiñán eliminados de la Carabao Cup](https://www.elcomercio.com/deportes/futbol/brighton-pervis-estupinan-carabao-cup.html "Brighton y Pervis Estupiñán eliminados de la Carabao Cup")
-
-A diferencia de las ‘Gaviotas’, el **Southampton** arribaba en el último lugar del escalafón de la máxima división inglesa. Antes de su duelo contra el Brighton, únicamente había conseguido un triunfo y un empate en sus 12 cotejos[.](https://en.wikipedia.org/wiki/Brighton_%26_Hove_Albion_F.C. "https://en.wikipedia.org/wiki/Brighton_%26_Hove_Albion_F.C.")
-
-Para el compromiso, el que el cuadro de **Pervis Estupiñán** jugó como local en el Ammex Stadium. Dentro del cotejo, el lateral zurdo ecuatoriano ocupó su posición inicial y estuvo entre los escogidos por el DT **Fabian Hürzeler** para arrancar como titular.
-
-El Brighton y Pervis Estupiñán no aguantaron el resultado
----------------------------------------------------------
-
-El **Brighton** se mostró mejor que sus adversarios y, aunque se puso por delante en el marcador en un inicio, no consiguió mantener el resultado. Inclusive, en los minutos finales ejerció un asedio permanente, pero no logró penetrar el arco rival.
-
-El primer gol del compromiso llegó a los 29 minutos de juego de la mano del japonés **Kaoru Mitoma**. Un centro desde el costado derecho de **Tariq Lamptey** encontró al volante nipón que deambulaba en el medio del área.
-
-El **Southampton** consiguió el empate en el segundo tiempo a los 59′ gracias a **Flynn Downes**. Tras un rebote que quedó en el área, el volante sacó un remate de primera y logró el 1-1 definitivo en el marcador.
-
-¿Cómo le fue a Pervis Estupiñán?
---------------------------------
-
-**Pervis Estupiñán** estuvo en la cancha durante los 90 minutos de juego y fue uno de los mejores futbolistas del compromiso. Este colaboró tanto en defensa como en ataque y tuvo constantes arremetidas desde la banda zurda.
-
-En total realizó **91 toques** en el cotejo y brindó cinco pases clave dentro de los 56 que acertó. A nivel defensivo, este bloqueó un remate, realizó dos entradas y dos rechazos.
