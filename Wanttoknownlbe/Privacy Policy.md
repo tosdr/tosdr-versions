@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/judith-moores-observatie-na-de-collectieve-meditatie/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/meelezen/mijn-verhaal/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
