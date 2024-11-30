@@ -117,57 +117,63 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Instantaneous, Nicely Designed, Graphical Invoices
-> --------------------------------------------------
+> Impossible to run our businesses without IO
+> -------------------------------------------
 > 
-> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
+> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
+>   
+> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
+>   
+> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
+>   
+> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
 
-Henry Venter
+Kobus Venter
 
-![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=fb584118c8c092b15f2008b573023af79d895c36a346da1faa1b3a04013f0914&c=61785920)  
-Environment Friendly Toilets (Pty) Ltd
+![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=c766ae4246acff4f4191ca0d5a3627945191d4ce9cd106fd953a0a661860cecc&c=78633966)  
+Cooper Power Cape Town (Pty) Ltd
 
-![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=fb584118c8c092b15f2008b573023af79d895c36a346da1faa1b3a04013f0914&c=150808006)  
-Laurinda Pretorius Spraak en Drama Ateljee
+![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=c766ae4246acff4f4191ca0d5a3627945191d4ce9cd106fd953a0a661860cecc&c=176849680)  
+OXYAIDER (PTY) LTD
 
-![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=fb584118c8c092b15f2008b573023af79d895c36a346da1faa1b3a04013f0914&c=139090751)  
-NEW BEGINNINGS DESIGNS
+![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=c766ae4246acff4f4191ca0d5a3627945191d4ce9cd106fd953a0a661860cecc&c=53192069)  
+Digifax (Pty) Ltd trading as Digirent
 
-![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=fb584118c8c092b15f2008b573023af79d895c36a346da1faa1b3a04013f0914&c=20145373)  
-Xpress Designs
+![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=c766ae4246acff4f4191ca0d5a3627945191d4ce9cd106fd953a0a661860cecc&c=48472043)  
+Immediate Health (pty)ltd
 
-![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=fb584118c8c092b15f2008b573023af79d895c36a346da1faa1b3a04013f0914&c=79875991)  
-M's Frozen Delights
+![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=c766ae4246acff4f4191ca0d5a3627945191d4ce9cd106fd953a0a661860cecc&c=161957555)  
+Blue Sky Solar Services
 
-![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=fb584118c8c092b15f2008b573023af79d895c36a346da1faa1b3a04013f0914&c=6407943)  
-AFS Electrical
+![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=c766ae4246acff4f4191ca0d5a3627945191d4ce9cd106fd953a0a661860cecc&c=53088657)  
+Adele Jordaan T/A Joyful Noise Music Room
 
-![valued client FLIPS AUTO ELECTRICAL ](https://www.invoicesonline.co.za/scripts/image.php?bid=8725&file=logo_300_100&type=&fe=fb584118c8c092b15f2008b573023af79d895c36a346da1faa1b3a04013f0914&c=47283013)  
-FLIPS AUTO ELECTRICAL
+![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=c766ae4246acff4f4191ca0d5a3627945191d4ce9cd106fd953a0a661860cecc&c=123016617)  
+Brilliant Roof Products
 
-![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=fb584118c8c092b15f2008b573023af79d895c36a346da1faa1b3a04013f0914&c=138535849)  
-KTEN PARTS
+![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=c766ae4246acff4f4191ca0d5a3627945191d4ce9cd106fd953a0a661860cecc&c=200990072)  
+Durbanville Classifieds (Pty) Ltd
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=fb584118c8c092b15f2008b573023af79d895c36a346da1faa1b3a04013f0914&c=189484401)  
-VIV'S TRUCKS (Pty) Ltd. (117)
+![valued client IEMS (PTY) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7805&file=logo_300_100&type=&fe=c766ae4246acff4f4191ca0d5a3627945191d4ce9cd106fd953a0a661860cecc&c=183039556)  
+IEMS (PTY) ltd
 
-![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=fb584118c8c092b15f2008b573023af79d895c36a346da1faa1b3a04013f0914&c=2326317)  
-Cape Adventure Zone
+![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=c766ae4246acff4f4191ca0d5a3627945191d4ce9cd106fd953a0a661860cecc&c=184505550)  
+#DiGi3 Marketing & Design
 
-![valued client Calonet ](https://www.invoicesonline.co.za/scripts/image.php?bid=3324&file=logo_300_100&type=&fe=fb584118c8c092b15f2008b573023af79d895c36a346da1faa1b3a04013f0914&c=135102275)  
-Calonet
+![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=c766ae4246acff4f4191ca0d5a3627945191d4ce9cd106fd953a0a661860cecc&c=128586402)  
+Wiselink Broadband Dundee
 
-![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=fb584118c8c092b15f2008b573023af79d895c36a346da1faa1b3a04013f0914&c=96252837)  
-Enhle Oarabile Kea
+![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=c766ae4246acff4f4191ca0d5a3627945191d4ce9cd106fd953a0a661860cecc&c=122974289)  
+NIMAWELL
 
-![valued client Stevens Consulting](https://www.invoicesonline.co.za/scripts/image.php?bid=5551&file=logo_300_100&type=&fe=fb584118c8c092b15f2008b573023af79d895c36a346da1faa1b3a04013f0914&c=116749954)  
-Stevens Consulting
+![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=c766ae4246acff4f4191ca0d5a3627945191d4ce9cd106fd953a0a661860cecc&c=138125620)  
+Highlands Auto Engineering
 
-![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=fb584118c8c092b15f2008b573023af79d895c36a346da1faa1b3a04013f0914&c=104642679)  
-Norton Medical & Consult - Namibia
+![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=c766ae4246acff4f4191ca0d5a3627945191d4ce9cd106fd953a0a661860cecc&c=142488662)  
+MR Compressors& Industrial Supplies
 
-![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=fb584118c8c092b15f2008b573023af79d895c36a346da1faa1b3a04013f0914&c=76254354)  
-Abandoned Vehicle and Truck Solutions
+![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=c766ae4246acff4f4191ca0d5a3627945191d4ce9cd106fd953a0a661860cecc&c=154595763)  
+RADIO TYGERBERG 104FM NPC
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
