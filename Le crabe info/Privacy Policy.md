@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 447 utilisateurs actifs
+##### 398 utilisateurs actifs
 
 Chargement en cours
 
@@ -131,9 +131,9 @@ Chargement en cours
 
 ### À la une
 
+* [Impression : changer le format de papier par défaut sur Windows](https://lecrabeinfo.net/impression-changer-le-format-de-papier-par-defaut-sur-windows.html)
 * [Windows 11 : les applications Courrier et Calendrier cesseront de fonctionner après le 31 décembre 2024](https://lecrabeinfo.net/windows-11-les-applications-courrier-et-calendrier-cesseront-de-fonctionner-apres-le-31-decembre-2024.html) 
 * [Microsoft corrige le bug avec Voicemeeter, vous pouvez enfin passer à Windows 11 24H2 !](https://lecrabeinfo.net/microsoft-corrige-le-bug-avec-voicemeeter-vous-pouvez-enfin-passer-a-windows-11-24h2.html)
-* ["Ne tuez pas Android (WSA) !" : le feedback qui monte sur Windows 11, mais Microsoft en tiendra-t-il compte ?](https://lecrabeinfo.net/ne-tuez-pas-android-wsa-le-feedback-qui-monte-sur-windows-11-mais-microsoft-en-tiendra-t-il-compte.html)
 
 ### Tendance
 
