@@ -13,7 +13,7 @@ Search
 
 EN 
 
-[Black Friday saleUp to 70% OFF](https://www.tradingview.com/black-friday/)
+[Cyber Monday saleUp to 70% OFF](https://www.tradingview.com/black-friday/)
 
 Terms of Use, Policies, and Disclaimers
 =======================================
