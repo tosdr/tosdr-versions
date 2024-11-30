@@ -123,44 +123,44 @@ Advertisement
     The Fog of War
     
     Winner of the Academy Award for Best DocumentaryIt is the story of America as seen through the eyes of the former Secretary of Defense, Robert S. McNamara. One of the most controversial and influe...](https://documentaryheaven.com/the-fog-of-war/ "The Fog of War")
-* [![Why The Industrial Revolution Happened Here](/wp-content/thumbnails/8018-100x70.jpeg?x53432)
-    
-    Why The Industrial Revolution Happened Here
-    
-    Professor Jeremy Black examines one of the most extraordinary periods in British history: the Industrial Revolution. He explains the unique economic, social and political conditions that by the 19th c...](https://documentaryheaven.com/why-industrial-revolution-happened-here/ "Why The Industrial Revolution Happened Here")
 * [![Louis Theroux: Drinking To Oblivion](/wp-content/thumbnails/16353-100x70.jpg?x53432)
     
     Louis Theroux: Drinking To Oblivion
     
     Drinking To Oblivion sees Louis Theroux set about spending some time in the world of extreme drinkers, getting to know people who consume alcohol not just to excess but to the point of total oblivio...](https://documentaryheaven.com/louis-theroux-drinking-to-oblivion/ "Louis Theroux: Drinking To Oblivion")
+* [![Why The Industrial Revolution Happened Here](/wp-content/thumbnails/8018-100x70.jpeg?x53432)
+    
+    Why The Industrial Revolution Happened Here
+    
+    Professor Jeremy Black examines one of the most extraordinary periods in British history: the Industrial Revolution. He explains the unique economic, social and political conditions that by the 19th c...](https://documentaryheaven.com/why-industrial-revolution-happened-here/ "Why The Industrial Revolution Happened Here")
 
 ###### Throwback Documentaries
 
-* [![The Men of the Fifth World](/wp-content/thumbnails/8174-100x70.jpeg?x53432)
+* [![Britain’s Secret Death Squad](/wp-content/thumbnails/8548-100x70.jpg?x53432)
     
-    The Men of the Fifth World
+    Britain’s Secret Death Squad
     
-    The aboriginal culture of Australia included a large number of tribes that inhabited the oceanic continent before the arrival of the white man. But is all that rich culture doomed? Are Australian](https://documentaryheaven.com/men-fifth-world/ "The Men of the Fifth World")
-* [![The Hard Man](/wp-content/thumbnails/10763-100x70.jpg?x53432)
+    BBC's Panorama set about investigating the story of a secret British army unit set up to deal with any enemies of the state, on the streets of the United Kingdom, primarily Northern Ireland during the](https://documentaryheaven.com/britains-secret-death-squad/ "Britain’s Secret Death Squad")
+* [![Scratch](/wp-content/thumbnails/806-100x70.png?x53432)
     
-    The Hard Man
+    Scratch
     
-    The Hard Man is a 52 minute documentary which was made in 1995 about a man called Michael Kelly who is a former criminal from the Southhill area of Limerick City, Ireland. The film examines the social](https://documentaryheaven.com/hard-man/ "The Hard Man")
-* [![Standing Silent Nation](/wp-content/thumbnails/3200-100x70.jpg?x53432)
+    A documentary movie examining the birth and evolution of hip-hop DJs, scratching and turntablism. Contains interviews with some of hip-hop’s most famous and respected DJs including Grand Wizard Theodo](https://documentaryheaven.com/scratch/ "Scratch")
+* [![Heavy Metal In Baghdad](/wp-content/thumbnails/4118-100x70.jpg?x53432)
     
-    Standing Silent Nation
+    Heavy Metal In Baghdad
     
-    What does a family have to endure to create a future for itself? In April 2000, Alex White Plume and his Lakota family planted industrial hemp on the Pine Ridge Reservation in South Dakota after oth](https://documentaryheaven.com/standing-silent-nation/ "Standing Silent Nation")
-* [![Witchcraft and Magic: Witchcraft](/wp-content/thumbnails/2752-100x70.jpg?x53432)
+    Heavy Metal in Baghdad is a feature film documentary that follows the Iraqi heavy metal band Acrassicauda from the fall of Saddam Hussein in 2003 to the present day. Playing heavy metal in a Muslim co](https://documentaryheaven.com/heavy-metal-in-baghdad/ "Heavy Metal In Baghdad")
+* [![How to Commit the Perfect Murder](/wp-content/thumbnails/199-100x70.png?x53432)
     
-    Witchcraft and Magic: Witchcraft
+    How to Commit the Perfect Murder
     
-    We’ve all heard of the witch, but do witches have a real existence? Yes, they have existed since the dawn of history, and most likely for millenia before. In the Bible, Saul, afraid of the might of th](https://documentaryheaven.com/witchcraft-and-magic-witchcraft/ "Witchcraft and Magic: Witchcraft")
-* [![Hitler Speaks: Hitler’s Private Movies](/wp-content/thumbnails/2805-100x70.jpg?x53432)
+    Modern forensic science should make it impossible to commit murder and get away with it. But how easy would it be to outfox the detectives? With the help of top forensic scientists, and real-life murd](https://documentaryheaven.com/how-to-commit-the-perfect-murder/ "How to Commit the Perfect Murder")
+* [![CIA Secret Experiments](/wp-content/thumbnails/7065-100x70.jpg?x53432)
     
-    Hitler Speaks: Hitler’s Private Movies
+    CIA Secret Experiments
     
-    On May 1st 1945 allied forces overtook Hitler’s private mountain retreat in Bavaria.America’s OSS (office of strategic services) looking for evidence of Nazi war crimes uncovered a large archive o](https://documentaryheaven.com/hitler-speaks-hitlers-private-movies/ "Hitler Speaks: Hitler’s Private Movies")
+    It's the height of the Cold War and the United States government is desperate to combat the spread of Communism. The CIA launches a highly classified, top secret research program into the covert use o](https://documentaryheaven.com/cia-secret-experiments/ "CIA Secret Experiments")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
