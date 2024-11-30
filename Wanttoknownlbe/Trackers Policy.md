@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/media/goldman-sachs-en-t-vernietigde-griekenland/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/mensen/de-gevreesde-vaccinatiemanie/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
