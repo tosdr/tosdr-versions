@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_2.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_9.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,7 +148,8 @@
 
 Сейчас читают
 
-* [Запечённый картофель, фаршированный сыром и кукурузой](https://www.russianfood.com/recipes/recipe.php?rid=166207)
+* [Закусочные слойки с фаршем и сыром](https://www.russianfood.com/recipes/recipe.php?rid=170917)
+* [Салат с авокадо, огурцами и пекинской капустой](https://www.russianfood.com/recipes/recipe.php?rid=164840)
 
 |     |
 | --- |
@@ -173,6 +174,34 @@
 
 |     |     |
 | --- | --- |
+| Для прессы<br><br>[Сладкая и "хлебосольная". Лучшая ВЫПЕЧКА №24-48](https://www.russianfood.com/reading/?post_id=22941) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/753/sm_752851.jpg)](https://www.russianfood.com/reading/?post_id=22941)
+
+Сливовый тёртый пирог. Яблочный пирог на молоке. Дрожжевая вертута с луком и зеленью. Ленивые манты. Бездрожжевые мини-синнабоны. Творожное печенье "Поросята". Заливной пирог с брынзой, зеленью и яйцами.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22941)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшая выпечка](https://www.russianfood.com/blogs/?id=327534) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22941#comments) | 30.11.24 |     |
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Встретим вкусно Новый год! Лучшие рецепты на Новый год (94)](https://www.russianfood.com/reading/?post_id=22940) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/674/sm_673220.jpg)](https://www.russianfood.com/reading/?post_id=22940)
+
+Рулет из брокколи с крабовыми палочками. Крылышки в панировке из кукурузных хлопьев. Запечённые яблоки с карамелью. Салат с беконом и грибами. Вегетарианская рыба.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22940)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты на Новый год](https://www.russianfood.com/blogs/?id=338420) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22940#comments) | 30.11.24 |     |
+
+|     |     |
+| --- | --- |
 | Рецепты<br><br>[Салат с запечённой тыквой, руколой и брынзой](https://www.russianfood.com/recipes/recipe.php?rid=174973) |     |
 
 [![Фото к рецепту: Салат с запечённой тыквой, руколой и брынзой](//img1.russianfood.com/dycontent/images_upl/756/sm_755880.jpg "Фото к рецепту: Салат с запечённой тыквой, руколой и брынзой")](https://www.russianfood.com/recipes/recipe.php?rid=174973)
@@ -183,7 +212,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [HomeRecipes](https://www.russianfood.com/blogs/?id=300916) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174973#comments) | 30.11.24 |     |
+|     | [HomeRecipes](https://www.russianfood.com/blogs/?id=300916) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174973#comments) | 30.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -253,7 +282,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_9 _![](/images/blank.gif)_0 |     | [1](https://www.russianfood.com/recipes/recipe.php?rid=174872#comments) | 28.11.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_11 _![](/images/blank.gif)_0 |     | [1](https://www.russianfood.com/recipes/recipe.php?rid=174872#comments) | 28.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -267,7 +296,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_9 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174864#comments) | 28.11.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_10 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174864#comments) | 28.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -353,34 +382,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=172626#comments) | 28.11.24 |     |
 
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Чечевичная пицца с грибами, перцем и кукурузой](https://www.russianfood.com/recipes/recipe.php?rid=174551) |     |
-
-[![Фото к рецепту: Чечевичная пицца с грибами, перцем и кукурузой](//img1.russianfood.com/dycontent/images_upl/753/sm_752947.jpg "Фото к рецепту: Чечевичная пицца с грибами, перцем и кукурузой")](https://www.russianfood.com/recipes/recipe.php?rid=174551)
-
-Основу для пиццы можно сделать из чечевичного пюре с пряностями. Она получается хрустящей и прекрасно гармонирует с начинкой из шампиньонов, сладкого перца, красного лука и консервированной кукурузы. Пикантную нотку добавит острый перец.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174551)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174551#comments) | 28.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Суп с грибами, тыквой и булгуром](https://www.russianfood.com/recipes/recipe.php?rid=171675) |     |
-
-[![Фото к рецепту: Суп с грибами, тыквой и булгуром](//img1.russianfood.com/dycontent/images_upl/686/sm_685263.jpg "Фото к рецепту: Суп с грибами, тыквой и булгуром")](https://www.russianfood.com/recipes/recipe.php?rid=171675)
-
-Суп без мяса получается вполне сытным за счёт булгура и шампиньонов. В суп добавляется также кусочек сливочного масла. Варится суп с двумя видами лука - репчатым и зелёным.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=171675)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=171675#comments) | 28.11.24 |     |
-
 |     |
 | --- |
 | ← Предыдущая \| [Следующая →](https://www.russianfood.com/?page=2) |
@@ -452,8 +453,8 @@
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/711/alt1_710152.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=172679) | [![](//img1.russianfood.com/dycontent/images_upl/750/alt1_749952.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174598) | [![](//img1.russianfood.com/dycontent/images_upl/756/alt1_755880.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174973) | [![](//img1.russianfood.com/dycontent/images_upl/753/alt1_752947.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174551) |
-| [Песочные рогалики "Конфетки" с ирисками](https://www.russianfood.com/recipes/recipe.php?rid=172679) | [Булочки с творогом, печёным сельдереем и маринованными огурцами](https://www.russianfood.com/recipes/recipe.php?rid=174598) | [Салат с запечённой тыквой, руколой и брынзой](https://www.russianfood.com/recipes/recipe.php?rid=174973) | [Чечевичная пицца с грибами, перцем и кукурузой](https://www.russianfood.com/recipes/recipe.php?rid=174551) |
+| [![](//img1.russianfood.com/dycontent/images_upl/753/alt1_752947.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174551) | [![](//img1.russianfood.com/dycontent/images_upl/750/alt1_749952.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174598) | [![](//img1.russianfood.com/dycontent/images_upl/711/alt1_710152.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=172679) | [![](//img1.russianfood.com/dycontent/images_upl/756/alt1_755880.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174973) |
+| [Чечевичная пицца с грибами, перцем и кукурузой](https://www.russianfood.com/recipes/recipe.php?rid=174551) | [Булочки с творогом, печёным сельдереем и маринованными огурцами](https://www.russianfood.com/recipes/recipe.php?rid=174598) | [Песочные рогалики "Конфетки" с ирисками](https://www.russianfood.com/recipes/recipe.php?rid=172679) | [Салат с запечённой тыквой, руколой и брынзой](https://www.russianfood.com/recipes/recipe.php?rid=174973) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -469,5 +470,3 @@
 [![Рейтинг@Mail.ru](//top-fwz1.mail.ru/counter?id=1447532;t=452;l=1)](http://top.mail.ru/jump?from=1447532)       
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
-
-(96)
