@@ -89,11 +89,11 @@ Most Read
     
 2. 2. [It’s Black Friday, and here are the best shopping deals we could find](https://arstechnica.com/shopping/2024/11/its-black-friday-and-here-are-the-best-shopping-deals-we-could-find/)
     
-3. 3. [Flour, water, salt, GitHub: The Bread Code is a sourdough baking framework](https://arstechnica.com/culture/2024/11/flour-water-salt-github-the-bread-code-is-a-sourdough-baking-framework/)
+3. 3. [Vintage digicams aren’t just a fad. They’re an artistic statement.](https://arstechnica.com/gadgets/2024/11/vintage-digicams-arent-just-a-fad-theyre-an-artistic-statement/)
     
-4. 4. [Man suffers chemical burn that lasted months after squeezing limes](https://arstechnica.com/health/2024/11/man-suffers-chemical-burn-that-lasted-months-after-squeezing-limes/)
+4. 4. [Flour, water, salt, GitHub: The Bread Code is a sourdough baking framework](https://arstechnica.com/culture/2024/11/flour-water-salt-github-the-bread-code-is-a-sourdough-baking-framework/)
     
-5. 5. [Vintage digicams aren’t just a fad. They’re an artistic statement.](https://arstechnica.com/gadgets/2024/11/vintage-digicams-arent-just-a-fad-theyre-an-artistic-statement/)
+5. 5. [Man suffers chemical burn that lasted months after squeezing limes](https://arstechnica.com/health/2024/11/man-suffers-chemical-burn-that-lasted-months-after-squeezing-limes/)
     
 
 Customize
