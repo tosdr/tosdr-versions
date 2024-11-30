@@ -304,26 +304,25 @@ m. Headings. Headings used in this Agreement and the Additional Policies are sol
 n. Entire Agreement. This Agreement, together with the Additional Policies, constitute the complete and exclusive statement of all mutual understandings between You and Dynu Systems with respect to the subject matter hereof, superseding all prior or contemporaneous proposals, communications and understandings, oral or written.  
   
 
-#### Great Users
+### DNSSEC
 
   
 
-![Partner](/content/images/content/strip/wyatt.house.png)
-
-  
-
-  
-![Partner](/content/images/content/strip/clearviewnetworks.com.png)
+#### Our redundant DNS solution is fully supported with DNSSEC
 
   
 
   
-![Partner](/content/images/content/strip/Skyrim.co.png)
 
+[Learn more about DNSSEC](https://www.dynu.com/Resources/DNS-Records/DNSSEC)  
   
 
   
-![Partner](/content/images/content/strip/coreit.ro.png)
+
+[Enable DNSSEC for your domain](https://www.dynu.com/ControlPanel/DDNS)  
+  
+
+  
 
 ### News
 
