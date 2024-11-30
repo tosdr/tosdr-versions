@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to backup only to a specific removable/ex ...](https://www.backup4all.com/how-to-backup-only-to-a-specific-removable-external-drive-kb.html)  
+* [How to restore a backup to Amazon](https://www.backup4all.com/how-to-restore-a-backup-to-amazon-kb.html)  
     
-* [Backup to Amazon S3 using Backup4all 6 or old ...](https://www.backup4all.com/backup-to-amazon-s3-kb.html)  
+* [How to install Backup4all using the main inte ...](https://www.backup4all.com/how-to-install-backup4all-using-the-main-interface-kb.html)  
     
-* [How to create an automated backup](https://www.backup4all.com/how-to-create-an-automated-backup-kb.html)  
+* [Backup images with Backup4all](https://www.backup4all.com/backup-images-with-backup4all-kb.html)  
     
-* [How to restore a backup to Google Cloud Stora ...](https://www.backup4all.com/how-to-restore-a-backup-to-google-cloud-storage-kb.html)  
+* [How to use "Clean destination folder" feature ...](https://www.backup4all.com/how-to-use-clean-destination-folder-feature-in-backup4all-kb.html)  
     
-* [How to backup your data to Dunkel](https://www.backup4all.com/how-to-backup-your-data-to-dunkel-kb.html)  
+* [How to manage backup tags](https://www.backup4all.com/how-to-manage-backup-groups-kb.html)  
     
 
 Choose language:
