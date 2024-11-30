@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Email
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Can someone be arrested for emotional abuse?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-can-someone-be-arrested-for-emotional-abuse.jpg "Can Someone Be Arrested for Emotional Abuse?")](https://www.pintas.com/faq/can-someone-be-arrested-for-emotional-abuse/ "Can Someone Be Arrested for Emotional Abuse?")
+[![Mormon scandal: male sexual abuse](https://www.pintas.com/wp-content/uploads/2023/04/general-mormon-2-300x201.jpg "Mormon Scandal: Male Sexual Abuse")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/has-the-mormon-church-sexually-abused-men/ "Mormon Scandal: Male Sexual Abuse")
 
-[#### Can Someone Be Arrested for Emotional Abuse?](https://www.pintas.com/faq/can-someone-be-arrested-for-emotional-abuse/)
+[#### Mormon Scandal: Male Sexual Abuse](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/has-the-mormon-church-sexually-abused-men/)
 
-[![Can you survive pleural mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-can-you-survive-pleural-mesothelioma.jpg "Can You Survive Pleural Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-you-survive-pleural-mesothelioma/ "Can You Survive Pleural Mesothelioma?")
+[![Is non-small cell lung cancer the same as mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/05/mesothelioma-is-non-small-cell-lung-cancer-the-same-as-mesothelioma.jpg "Is Non-Small Cell Lung Cancer The Same As Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/is-non-small-cell-lung-cancer-the-same-as-mesothelioma/ "Is Non-Small Cell Lung Cancer The Same As Mesothelioma?")
 
-[#### Can You Survive Pleural Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-you-survive-pleural-mesothelioma/)
+[#### Is Non-Small Cell Lung Cancer The Same As Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/is-non-small-cell-lung-cancer-the-same-as-mesothelioma/)
 
-[![What’s the difference between lung cancer and mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-whats-the-difference-between-lung-cancer-and-mesothelioma.jpg "What’s the Difference Between Lung Cancer and Mesothelioma?")](https://www.pintas.com/lung-cancer/whats-the-difference-between-lung-cancer-and-mesothelioma/ "What’s the Difference Between Lung Cancer and Mesothelioma?")
+[![Can you have lung cancer with no symptoms?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancercan-you-have-lung-cancer-with-no-symptoms-scaled.jpg "Can You Have Lung Cancer With No Symptoms?")](https://www.pintas.com/practice-areas/lung-cancer/can-you-have-lung-cancer-with-no-symptoms/ "Can You Have Lung Cancer With No Symptoms?")
 
-[#### What’s the Difference Between Lung Cancer and Mesothelioma?](https://www.pintas.com/lung-cancer/whats-the-difference-between-lung-cancer-and-mesothelioma/)
+[#### Can You Have Lung Cancer With No Symptoms?](https://www.pintas.com/practice-areas/lung-cancer/can-you-have-lung-cancer-with-no-symptoms/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Email
 
 This field is for validation purposes and should be left unchanged.
 
