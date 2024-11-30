@@ -2,8 +2,6 @@
 
                  
 
-               
-
 [Menu](#)
 
 [![](//www.trendenterprises.com/cdn/shop/files/TREND_logo_Rgb_200x120_2020_49df2183-1c24-4967-9e47-057ae46d5754_200x120.png?v=1614344234)](https://www.trendenterprises.com/)
