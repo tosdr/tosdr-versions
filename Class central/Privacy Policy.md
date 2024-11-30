@@ -412,36 +412,36 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 Most common
 
-1. marketing
+1. psychology
     
-2. c
+2. law
     
-3. sql
+3. trading
     
 
 Popular subjects
 
 1. [Web Development
     
-    13,809 courses](https://www.classcentral.com/subject/web-development)
-2. [Computer Networking
+    13,821 courses](https://www.classcentral.com/subject/web-development)
+2. [Data Analysis
     
-    1,892 courses](https://www.classcentral.com/subject/computer-networking)
-3. [Ethical Hacking
+    8,881 courses](https://www.classcentral.com/subject/data-analysis)
+3. [Cybersecurity
     
-    2,240 courses](https://www.classcentral.com/subject/ethical-hacking)
+    16,944 courses](https://www.classcentral.com/subject/cybersecurity)
 
 Popular courses
 
-1. [Terrorism and Counterterrorism: Comparing Theory and Practice
+1. [Fractals and Scaling
     
-    Leiden University](https://www.classcentral.com/course/terrorism-701)
-2. [Product Management Essentials
+    Santa Fe Institute](https://www.classcentral.com/course/complexity-explorer-fractals-and-scaling-3612)
+2. [Mechanics of Materials I: Fundamentals of Stress & Strain and Axial Loading
     
-    University of Maryland, College Park](https://www.classcentral.com/course/product-management-essentials-46400)
-3. [Biochemistry: Biomolecules, Methods, and Mechanisms
+    Georgia Institute of Technology](https://www.classcentral.com/course/mechanics-1-5031)
+3. [Learn Like a Pro: Science-Based Tools to Become Better at Anything
     
-    Massachusetts Institute of Technology](https://www.classcentral.com/course/biochemistry-massachusetts-institute-of-technolog-12585)
+    edX](https://www.classcentral.com/course/how-to-learn-barbara-oakley-olav-schewe-learn-lik-40292)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
