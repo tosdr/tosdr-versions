@@ -299,6 +299,14 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Артём Метелев: «Единая Россия» активно работает с Молодежным парламентом при Госдуме](https://cdn.er.ru/media/news/November2024/mjfbokbmbNMrG2KgfaPC-small.jpg)](https://er.ru/activity/news/artyom-metelev-edinaya-rossiya-aktivno-rabotaet-s-molodezhnym-parlamentom-pri-gosdume)
+
+[Артём Метелев: «Единая Россия» активно работает с Молодежным парламентом при Госдуме](https://er.ru/activity/news/artyom-metelev-edinaya-rossiya-aktivno-rabotaet-s-molodezhnym-parlamentom-pri-gosdume)
+
+[#Метелев](https://er.ru/activity/news?tags%5B0%5D=133170) [#Аршинова](https://er.ru/activity/news?tags%5B0%5D=3886) [#Николаев](https://er.ru/activity/news?tags%5B0%5D=8768) [#молодежныйпарламент](https://er.ru/activity/news?tags%5B0%5D=110161) [#итогиработы](https://er.ru/activity/news?tags%5B0%5D=111531) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37)
+
+Сегодня 11:43
+
 [![Алексей Говырин: Креативные индустрии помогут перезагрузить туристический маршрут «Золотое кольцо России»](https://cdn.er.ru/media/news/November2024/Xh7v7Vzv177BmY78qGWP-small.jpg)](https://er.ru/activity/news/aleksej-govyrin-kreativnye-industrii-pomogut-perezagruzit-turisticheskij-marshrut-zolotoe-kolco-rossii)
 
 [Алексей Говырин: Креативные индустрии помогут перезагрузить туристический маршрут «Золотое кольцо России»](https://er.ru/activity/news/aleksej-govyrin-kreativnye-industrii-pomogut-perezagruzit-turisticheskij-marshrut-zolotoe-kolco-rossii)
@@ -336,14 +344,6 @@
 [«Единая Россия» продлит срок для перерегистрации товарных знаков и фирменных наименований производителей товаров с указанием на органическую продукцию](https://er.ru/activity/news/edinaya-rossiya-prodlit-srok-dlya-pereregistracii-tovarnyh-znakov-i-firmennyh-naimenovanij-proizvoditelej-tovarov-s-ukazaniem-na-organicheskuyu-produkciyu)
 
 [#Оглоблина](https://er.ru/activity/news?tags%5B0%5D=9223) [#предприниматели](https://er.ru/activity/news?tags%5B0%5D=121750) [#производители](https://er.ru/activity/news?tags%5B0%5D=8905) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136)
-
-29.11.24
-
-[![Высшая партийная школа «Единой России» выпустила вторую часть цикла бесед об идеологии и истории партии](https://cdn.er.ru/media/news/November2024/dBPoDhrnI65KqFQoOFrl-small.png)](https://er.ru/activity/news/vysshaya-partijnaya-shkola-edinoj-rossii-vypustila-vtoruyu-chast-cikla-besed-ob-ideologii-i-istorii-partii)
-
-[Высшая партийная школа «Единой России» выпустила вторую часть цикла бесед об идеологии и истории партии](https://er.ru/activity/news/vysshaya-partijnaya-shkola-edinoj-rossii-vypustila-vtoruyu-chast-cikla-besed-ob-ideologii-i-istorii-partii)
-
-[#высшаяпартийнаяшколаЕР](https://er.ru/activity/news?tags%5B0%5D=128453) [#ВПШ](https://er.ru/activity/news?tags%5B0%5D=36818) [#Исаев](https://er.ru/activity/news?tags%5B0%5D=121396) [#Романов](https://er.ru/activity/news?tags%5B0%5D=8320) [#история](https://er.ru/activity/news?tags%5B0%5D=152) [#идеология](https://er.ru/activity/news?tags%5B0%5D=985)
 
 29.11.24
 
