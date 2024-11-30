@@ -72,8 +72,6 @@ If you think that the way we process your personal data with Google Analytics or
 
 [Climate](https://climate.stripe.com/g3LlrV)
 
-[Blog](https://blog.seatingplan.com/)
-
 [BRaiN Glue](https://brainglue.app/)
 
 [Help](https://help.seatingplan.com/)
