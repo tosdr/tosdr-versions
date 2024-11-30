@@ -109,7 +109,15 @@ Languages: [Français](https://www.euractiv.fr/?post_type=page&p=364525)
 Most recent
 -----------
 
-[29-11-2024
+[30-11-2024
+
+Romanians will learn on Monday if first round of presidential election is annulled](https://www.euractiv.com/section/politics/news/romanians-will-learn-on-monday-if-first-round-of-presidential-election-is-annulled/)[30-11-2024
+
+UK spy chief says Russia behind ‘staggeringly reckless’ sabotage in Europe](https://www.euractiv.com/section/global-europe/news/uk-spy-chief-says-russia-behind-staggeringly-reckless-sabotage-in-europe/)[30-11-2024
+
+In TV interview, Zelenskyy opens the door to ceasefire with Russia](https://www.euractiv.com/section/global-europe/news/in-tv-interview-zelenskyy-opens-the-door-to-ceasefire-with-russia/)[30-11-2024
+
+Explosion damages Kosovo power infrastructure, PM accuses Serbia of terrorism](https://www.euractiv.com/section/global-europe/news/explosion-damages-kosovo-power-infrastructure-pm-accuses-serbia-of-terrorism/)[29-11-2024
 
 Schneider drops ‘no risk’ exemption on deforestation rules, seeks EPP ministers’ support](https://www.euractiv.com/section/agriculture-food/news/schneider-drops-no-risk-exemption-on-deforestation-rules-seeks-epp-ministers-support/)[29-11-2024
 
@@ -121,15 +129,7 @@ Georgia’s election crisis could be a herald for democratic decline, EU members
 
 Romania’s top court orders presidential election recount](https://www.euractiv.com/section/politics/news/romanias-top-court-orders-presidential-election-recount/)[29-11-2024
 
-Putin says Russia could hit ‘decision-making centres’ in Kyiv with new missile](https://www.euractiv.com/section/global-europe/news/putin-says-russia-could-hit-decision-making-centres-in-kyiv-with-new-missile/)[29-11-2024
-
-Israel and Hezbollah trade accusations of ceasefire violations](https://www.euractiv.com/section/global-europe/news/israel-and-hezbollah-trade-accusations-of-ceasefire-violations/)[29-11-2024
-
-Russia hits Ukrainian energy facilities, Kyiv sees ‘despicable escalation’](https://www.euractiv.com/section/global-europe/news/russia-hits-ukrainian-energy-facilities-kyiv-sees-despicable-escalation/)[29-11-2024
-
-Costa takes helm as European Council president, eyes internal reforms](https://www.euractiv.com/section/politics/news/costa-takes-helm-as-european-council-president-eyes-internal-reforms/)[29-11-2024
-
-Iran holds nuclear talks with Europeans as tensions ratchet up](https://www.euractiv.com/section/global-europe/news/iran-holds-nuclear-talks-with-europeans-as-tensions-ratchet-up/)
+Putin says Russia could hit ‘decision-making centres’ in Kyiv with new missile](https://www.euractiv.com/section/global-europe/news/putin-says-russia-could-hit-decision-making-centres-in-kyiv-with-new-missile/)
 
 ###### Advertisement
 
