@@ -30,7 +30,7 @@ Sign in with Google](https://xhamster.com/login-google?source=base)
 
 [Live Sex
 
-\-50% off](https://xhamsterlive.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=mainMenu-LiveSex&widgetElement=tab&isUserLogged=0&isUserRetargeted=0&p1=cold&exp=%7B%223002%22%3A%7B%22g%22%3A%22c%22%2C%22v%22%3A6%7D%2C%223003%22%3A%7B%22g%22%3A%22b%22%2C%22v%22%3A4%7D%7D&xhStatsUid=674b410d8c6e79.57030657d0b&xhSessionToken=200e55288ef42a38c7abde184d3fddf18468f3da&xhSessionStartedAt=1732985101)
+\-50% off](https://xhamsterlive.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=mainMenu-LiveSex&widgetElement=tab&isUserLogged=0&isUserRetargeted=0&p1=cold&exp=%7B%223002%22%3A%7B%22g%22%3A%22c%22%2C%22v%22%3A6%7D%2C%223003%22%3A%7B%22g%22%3A%22b%22%2C%22v%22%3A4%7D%7D&xhStatsUid=674b938e145080.657009839de&xhSessionToken=03ad156bdf304ecda45943d542dc7f5796e4087b&xhSessionStartedAt=1733006222)
 
 [Categories](https://xhamster.com/categories)
 
@@ -56,7 +56,7 @@ Premium Videos](https://faphouse.com/?utm_source=xhamster&utm_medium=button&utm_
 
 * [Upload](https://xhamster.com/creator-signup?source=uploadHeader)
 
-[BORED OF PORN? ❤️‍🔥 Jerk off with REAL GIRLS in 1-on-1 chats TRY FOR FREE](https://xhamsterflirt.com/?utm_source=xhamster&utm_medium=all-pages)
+[Black Friday SPECIAL Get all Ultimate benefits at 50% OFF on xHamster Live! GET OFFER](https://go.dmsik.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=PromoBlock&widgetElement=PromoBlockText&isUserLogged=0&isUserRetargeted=0&p1=cold&campaignId=blackfriday2024_xh&xhStatsUid=674b938e145080.657009839de&xhSessionToken=03ad156bdf304ecda45943d542dc7f5796e4087b&xhSessionStartedAt=1733006222&path=%2F%3Fchannel%3Dxhamster_xhl&targetDomain=xhamsterlive.com&utm_content=PromoBlock_xh&utm_campaign=blackfriday2024_xh)
 
 Privacy Policy
 ==============
@@ -381,7 +381,7 @@ Last Modified: January 04, 2024
 
 ### Start making money with us
 
-* [Camgirls Wanted](https://join.flirtify.com/?utm_source=xhamster-desktop&utm_medium=footer)
+* [Camgirls Wanted](https://join.flirtify.com/?utm_source=xhamster-mobile&utm_medium=footer)
 * [Creator Contest](https://xhamster.com/creators/contest)
 * [Сontent Creators Program](https://xhamster.com/creator?source=footerCcp)
 
