@@ -253,23 +253,17 @@ Latest News
 
 [China resumes short-term visa waiver for Japanese visitors](https://www.japantimes.co.jp/news/2024/11/30/japan/china-visa-waiver-resume/ "China resumes short-term visa waiver for Japanese visitors")
 
-4 hours ago
+10 hours ago
 
 [Defeated Japan election candidate held over promising to pay campaign staff](https://www.japantimes.co.jp/news/2024/11/30/japan/politics/candidate-arrested-campaign-staff-payments/ "Defeated Japan election candidate held over promising to pay campaign staff")
 
-5 hours ago
+11 hours ago
 
 [Taiwan's Lai departs on Pacific island tour](https://www.japantimes.co.jp/news/2024/11/30/asia-pacific/politics/taiwan-lai-departs-pacific-tour/ "Taiwan's Lai departs on Pacific island tour")
 
-6 hours ago
-
 [LDP member reportedly tried to hide membership scandal](https://www.japantimes.co.jp/news/2024/11/30/japan/politics/hiroaki-tabata-ldp-membership-scandal/ "LDP member reportedly tried to hide membership scandal")
 
-7 hours ago
-
 [Nissan CFO set to step down as carmaker faces raft of challenges](https://www.japantimes.co.jp/business/2024/11/30/companies/nissan-cfo-steps-down/ "Nissan CFO set to step down as carmaker faces raft of challenges")
-
-8 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
