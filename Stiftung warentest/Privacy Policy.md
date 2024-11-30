@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Lebens­mittel­preise im Check: Große Preis­unterschiede, riesiges Spar­potential](https://www.test.de/Lebensmittelpreise-im-Check-Sparpotenzial-bis-zu-400-Prozent-6000916-0/ "Lebensmittelpreise im Check - Große Preisunterschiede, riesiges Sparpotential")
-* [Gewusst wie: Patienten­daten anfordern](https://www.test.de/Gewusst-wie-Patientendaten-anfordern-6051265-0/ "Gewusst wie - Patientendaten anfordern")
-* [Finanz­aufsicht: Gefälschte E-Mails](https://www.test.de/Finanzaufsicht-Gefaelschte-E-Mails-6020298-0/ "Finanzaufsicht - Gefälschte E-Mails")
-* [Tarife für Kinder-Smartwatches: Günstig nach Hause telefonieren](https://www.test.de/Tarife-fuer-Kinder-Smartwatches-Guenstig-nach-Hause-telefonieren-6044492-0/ "Tarife für Kinder-Smartwatches - Günstig nach Hause telefonieren")
-* [Bewertung von Fonds und ETF: Risiko­klasse hilft bei der Fonds­wahl](https://www.test.de/Bewertung-von-Fonds-und-ETF-Risikoklasse-hilft-bei-der-Fondswahl-6139024-0/ "Bewertung von Fonds und ETF - Risikoklasse hilft bei der Fondswahl")
-* [Fünf-Punkte-Strategie mit ETF: Mit ETF den Markt schlagen – so gehts](https://www.test.de/Fuenf-Punkte-Strategie-mit-ETF-Mit-ETF-den-Markt-schlagen-so-gehts-6166129-0/ "Fünf-Punkte-Strategie mit ETF - Mit ETF den Markt schlagen – so gehts")
+* [Notebook-Reparatur­dienste im Test: Manchmal gut, selten schnell, mitunter preis­wert](https://www.test.de/notebook-reparaturdienste-im-test-6001209-0/ "Notebook-Reparaturdienste im Test - Manchmal gut, selten schnell, mitunter preiswert")
+* [Gut essen mit der Stiftung Warentest: Kotelett mit Papaya](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Kotelett-mit-Papaya-6064358-0/ "Gut essen mit der Stiftung Warentest - Kotelett mit Papaya")
+* [Authentifizierungs-Apps im Test: Doppelt hält besser](https://www.test.de/zwei-faktor-authentifizierungs-app-test-6160887-0/ "Authentifizierungs-Apps im Test - Doppelt hält besser")
+* [Nahrungs­ergän­zungs­mittel für Männer: Über­flüssig bis riskant](https://www.test.de/Nahrungsergaenzungsmittel-fuer-Maenner-5953318-0/ "Nahrungsergänzungsmittel für Männer - Überflüssig bis riskant")
+* [Herren-Unterhosen im Test: Große Marken enttäuschen](https://www.test.de/Herren-Unterhosen-im-Test-Grosse-Marken-enttaeuschen-5967320-0/ "Herren-Unterhosen im Test - Große Marken enttäuschen")
+* [Krypto-Währungen: In vier Schritten Krypto-Broker einrichten](https://www.test.de/Krypto-Waehrungen-Krypto-Broker-einrichten-in-vier-Schritten-6159811-0/ "Krypto-Währungen - In vier Schritten Krypto-Broker einrichten")
 
 Weitere Informationen
 
@@ -3871,12 +3871,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Lebens­mittel­preise im Check: Große Preis­unterschiede, riesiges Spar­potential](https://www.test.de/Lebensmittelpreise-im-Check-Sparpotenzial-bis-zu-400-Prozent-6000916-0/ "Lebensmittelpreise im Check - Große Preisunterschiede, riesiges Sparpotential")
-* [Gewusst wie: Patienten­daten anfordern](https://www.test.de/Gewusst-wie-Patientendaten-anfordern-6051265-0/ "Gewusst wie - Patientendaten anfordern")
-* [Finanz­aufsicht: Gefälschte E-Mails](https://www.test.de/Finanzaufsicht-Gefaelschte-E-Mails-6020298-0/ "Finanzaufsicht - Gefälschte E-Mails")
-* [Tarife für Kinder-Smartwatches: Günstig nach Hause telefonieren](https://www.test.de/Tarife-fuer-Kinder-Smartwatches-Guenstig-nach-Hause-telefonieren-6044492-0/ "Tarife für Kinder-Smartwatches - Günstig nach Hause telefonieren")
-* [Bewertung von Fonds und ETF: Risiko­klasse hilft bei der Fonds­wahl](https://www.test.de/Bewertung-von-Fonds-und-ETF-Risikoklasse-hilft-bei-der-Fondswahl-6139024-0/ "Bewertung von Fonds und ETF - Risikoklasse hilft bei der Fondswahl")
-* [Fünf-Punkte-Strategie mit ETF: Mit ETF den Markt schlagen – so gehts](https://www.test.de/Fuenf-Punkte-Strategie-mit-ETF-Mit-ETF-den-Markt-schlagen-so-gehts-6166129-0/ "Fünf-Punkte-Strategie mit ETF - Mit ETF den Markt schlagen – so gehts")
+* [Notebook-Reparatur­dienste im Test: Manchmal gut, selten schnell, mitunter preis­wert](https://www.test.de/notebook-reparaturdienste-im-test-6001209-0/ "Notebook-Reparaturdienste im Test - Manchmal gut, selten schnell, mitunter preiswert")
+* [Gut essen mit der Stiftung Warentest: Kotelett mit Papaya](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Kotelett-mit-Papaya-6064358-0/ "Gut essen mit der Stiftung Warentest - Kotelett mit Papaya")
+* [Authentifizierungs-Apps im Test: Doppelt hält besser](https://www.test.de/zwei-faktor-authentifizierungs-app-test-6160887-0/ "Authentifizierungs-Apps im Test - Doppelt hält besser")
+* [Nahrungs­ergän­zungs­mittel für Männer: Über­flüssig bis riskant](https://www.test.de/Nahrungsergaenzungsmittel-fuer-Maenner-5953318-0/ "Nahrungsergänzungsmittel für Männer - Überflüssig bis riskant")
+* [Herren-Unterhosen im Test: Große Marken enttäuschen](https://www.test.de/Herren-Unterhosen-im-Test-Grosse-Marken-enttaeuschen-5967320-0/ "Herren-Unterhosen im Test - Große Marken enttäuschen")
+* [Krypto-Währungen: In vier Schritten Krypto-Broker einrichten](https://www.test.de/Krypto-Waehrungen-Krypto-Broker-einrichten-in-vier-Schritten-6159811-0/ "Krypto-Währungen - In vier Schritten Krypto-Broker einrichten")
 
 Weitere spannende Themen
 
@@ -3891,12 +3891,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Lebens­mittel­preise im Check: Große Preis­unterschiede, riesiges Spar­potential](https://www.test.de/Lebensmittelpreise-im-Check-Sparpotenzial-bis-zu-400-Prozent-6000916-0/ "Lebensmittelpreise im Check - Große Preisunterschiede, riesiges Sparpotential")
-* [Gewusst wie: Patienten­daten anfordern](https://www.test.de/Gewusst-wie-Patientendaten-anfordern-6051265-0/ "Gewusst wie - Patientendaten anfordern")
-* [Finanz­aufsicht: Gefälschte E-Mails](https://www.test.de/Finanzaufsicht-Gefaelschte-E-Mails-6020298-0/ "Finanzaufsicht - Gefälschte E-Mails")
-* [Tarife für Kinder-Smartwatches: Günstig nach Hause telefonieren](https://www.test.de/Tarife-fuer-Kinder-Smartwatches-Guenstig-nach-Hause-telefonieren-6044492-0/ "Tarife für Kinder-Smartwatches - Günstig nach Hause telefonieren")
-* [Bewertung von Fonds und ETF: Risiko­klasse hilft bei der Fonds­wahl](https://www.test.de/Bewertung-von-Fonds-und-ETF-Risikoklasse-hilft-bei-der-Fondswahl-6139024-0/ "Bewertung von Fonds und ETF - Risikoklasse hilft bei der Fondswahl")
-* [Fünf-Punkte-Strategie mit ETF: Mit ETF den Markt schlagen – so gehts](https://www.test.de/Fuenf-Punkte-Strategie-mit-ETF-Mit-ETF-den-Markt-schlagen-so-gehts-6166129-0/ "Fünf-Punkte-Strategie mit ETF - Mit ETF den Markt schlagen – so gehts")
+* [Notebook-Reparatur­dienste im Test: Manchmal gut, selten schnell, mitunter preis­wert](https://www.test.de/notebook-reparaturdienste-im-test-6001209-0/ "Notebook-Reparaturdienste im Test - Manchmal gut, selten schnell, mitunter preiswert")
+* [Gut essen mit der Stiftung Warentest: Kotelett mit Papaya](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Kotelett-mit-Papaya-6064358-0/ "Gut essen mit der Stiftung Warentest - Kotelett mit Papaya")
+* [Authentifizierungs-Apps im Test: Doppelt hält besser](https://www.test.de/zwei-faktor-authentifizierungs-app-test-6160887-0/ "Authentifizierungs-Apps im Test - Doppelt hält besser")
+* [Nahrungs­ergän­zungs­mittel für Männer: Über­flüssig bis riskant](https://www.test.de/Nahrungsergaenzungsmittel-fuer-Maenner-5953318-0/ "Nahrungsergänzungsmittel für Männer - Überflüssig bis riskant")
+* [Herren-Unterhosen im Test: Große Marken enttäuschen](https://www.test.de/Herren-Unterhosen-im-Test-Grosse-Marken-enttaeuschen-5967320-0/ "Herren-Unterhosen im Test - Große Marken enttäuschen")
+* [Krypto-Währungen: In vier Schritten Krypto-Broker einrichten](https://www.test.de/Krypto-Waehrungen-Krypto-Broker-einrichten-in-vier-Schritten-6159811-0/ "Krypto-Währungen - In vier Schritten Krypto-Broker einrichten")
 
 Neueste Tests
 
@@ -3909,12 +3909,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Lebens­mittel­preise im Check: Große Preis­unterschiede, riesiges Spar­potential](https://www.test.de/Lebensmittelpreise-im-Check-Sparpotenzial-bis-zu-400-Prozent-6000916-0/ "Lebensmittelpreise im Check - Große Preisunterschiede, riesiges Sparpotential")
-* [Gewusst wie: Patienten­daten anfordern](https://www.test.de/Gewusst-wie-Patientendaten-anfordern-6051265-0/ "Gewusst wie - Patientendaten anfordern")
-* [Finanz­aufsicht: Gefälschte E-Mails](https://www.test.de/Finanzaufsicht-Gefaelschte-E-Mails-6020298-0/ "Finanzaufsicht - Gefälschte E-Mails")
-* [Tarife für Kinder-Smartwatches: Günstig nach Hause telefonieren](https://www.test.de/Tarife-fuer-Kinder-Smartwatches-Guenstig-nach-Hause-telefonieren-6044492-0/ "Tarife für Kinder-Smartwatches - Günstig nach Hause telefonieren")
-* [Bewertung von Fonds und ETF: Risiko­klasse hilft bei der Fonds­wahl](https://www.test.de/Bewertung-von-Fonds-und-ETF-Risikoklasse-hilft-bei-der-Fondswahl-6139024-0/ "Bewertung von Fonds und ETF - Risikoklasse hilft bei der Fondswahl")
-* [Fünf-Punkte-Strategie mit ETF: Mit ETF den Markt schlagen – so gehts](https://www.test.de/Fuenf-Punkte-Strategie-mit-ETF-Mit-ETF-den-Markt-schlagen-so-gehts-6166129-0/ "Fünf-Punkte-Strategie mit ETF - Mit ETF den Markt schlagen – so gehts")
+* [Notebook-Reparatur­dienste im Test: Manchmal gut, selten schnell, mitunter preis­wert](https://www.test.de/notebook-reparaturdienste-im-test-6001209-0/ "Notebook-Reparaturdienste im Test - Manchmal gut, selten schnell, mitunter preiswert")
+* [Gut essen mit der Stiftung Warentest: Kotelett mit Papaya](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Kotelett-mit-Papaya-6064358-0/ "Gut essen mit der Stiftung Warentest - Kotelett mit Papaya")
+* [Authentifizierungs-Apps im Test: Doppelt hält besser](https://www.test.de/zwei-faktor-authentifizierungs-app-test-6160887-0/ "Authentifizierungs-Apps im Test - Doppelt hält besser")
+* [Nahrungs­ergän­zungs­mittel für Männer: Über­flüssig bis riskant](https://www.test.de/Nahrungsergaenzungsmittel-fuer-Maenner-5953318-0/ "Nahrungsergänzungsmittel für Männer - Überflüssig bis riskant")
+* [Herren-Unterhosen im Test: Große Marken enttäuschen](https://www.test.de/Herren-Unterhosen-im-Test-Grosse-Marken-enttaeuschen-5967320-0/ "Herren-Unterhosen im Test - Große Marken enttäuschen")
+* [Krypto-Währungen: In vier Schritten Krypto-Broker einrichten](https://www.test.de/Krypto-Waehrungen-Krypto-Broker-einrichten-in-vier-Schritten-6159811-0/ "Krypto-Währungen - In vier Schritten Krypto-Broker einrichten")
 
 Stiftung Warentest
 
