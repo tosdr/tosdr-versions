@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/vaccinaties-gezondheid/geen-bewijs-dus-waarom-nog-steeds-n-griepprik/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/filipijnen-helpen-zo-kan-het-eventueel-ook/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
