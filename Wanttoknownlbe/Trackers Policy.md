@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/mensen/de-gevreesde-vaccinatiemanie/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/wetenschap/energie/luiden-rusland-china-en-iran-einde-van-us-in/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
