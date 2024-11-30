@@ -29,7 +29,7 @@ Update
 
 Complete Checkout
 
-[Black Friday Sale! | Additional 25% Off Site! | Save automatically at Cart](https://magicalbutter.com/collections/bundle-deals)
+[Cyber Monday Sale! | Additional 25% Off Site! | Save automatically at Cart](https://magicalbutter.com/collections/bundle-deals)
 
           
 
