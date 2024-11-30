@@ -305,7 +305,7 @@
 
 [#Метелев](https://er.ru/activity/news?tags%5B0%5D=133170) [#Аршинова](https://er.ru/activity/news?tags%5B0%5D=3886) [#Николаев](https://er.ru/activity/news?tags%5B0%5D=8768) [#молодежныйпарламент](https://er.ru/activity/news?tags%5B0%5D=110161) [#итогиработы](https://er.ru/activity/news?tags%5B0%5D=111531) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37)
 
-Сегодня 11:43
+30.11.24
 
 [![Алексей Говырин: Креативные индустрии помогут перезагрузить туристический маршрут «Золотое кольцо России»](https://cdn.er.ru/media/news/November2024/Xh7v7Vzv177BmY78qGWP-small.jpg)](https://er.ru/activity/news/aleksej-govyrin-kreativnye-industrii-pomogut-perezagruzit-turisticheskij-marshrut-zolotoe-kolco-rossii)
 
