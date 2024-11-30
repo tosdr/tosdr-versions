@@ -133,4 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thank you for the help. I love the product.
+Your product and service are excellent.
+
+Jeff Lafferman
