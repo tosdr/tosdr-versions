@@ -443,15 +443,15 @@ What Customers Are Saying
 
 Based on 305,469 Carpet Cleaning Services Reviews
 
-Your product and process produce excellent results. Your service providers are knowledgeable, courteous and pleasant. **MP.** - Rochester, MN - 11/29/2024
+Josh was on time and pleasant to meet. He did an excellent job cleaning my carpets. I would not hesitate to have them return. **PK.** - North Wales, PA - 11/29/2024
 
 (5.0 Out of 5 stars)
 
-From the phone call to make the appointment, to the text from Jake regarding arrival time, his thoughtful attention to detail and the wonderful job he did on cleaning the stairs and chairs, everything about the service was perfect. Yes, I will most defiantly be recommending Oxi Fresh. **LG.** - Oakland, CA - 11/29/2024
+Very friendly and knowledgeable technician **EP.** - Lafayette, CO - 11/29/2024
 
 (5.0 Out of 5 stars)
 
-**EM.** - Fullerton, CA - 11/28/2024
+After being cleaned by Sergeo my 20 yr old carpet in my motorhome looked almost like new again. I highly recommend using Oxiclean Carpet Cleaners. **BZ.** - Yuma, AZ - 11/28/2024
 
 (5.0 Out of 5 stars)
 
