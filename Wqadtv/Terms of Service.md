@@ -56,9 +56,9 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/988a2639-fee5-4695-8435-931b04044127/20241129T131718/988a2639-fee5-4695-8435-931b04044127_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/988a2639-fee5-4695-8435-931b04044127/20241129T131718/988a2639-fee5-4695-8435-931b04044127_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/d0cd2e38-af58-403f-b865-05dd1a1788ba/20241130T003842/d0cd2e38-af58-403f-b865-05dd1a1788ba_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d0cd2e38-af58-403f-b865-05dd1a1788ba/20241130T003842/d0cd2e38-af58-403f-b865-05dd1a1788ba_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Sub-zero wind chills return this weekend](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Sub-zero wind chill potential this weekend](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/WCNC/images/a11cb4f4-9f11-4770-b48b-af0d48f1ce2c/a11cb4f4-9f11-4770-b48b-af0d48f1ce2c_16x9.jpeg) ![](https://media.tegna-media.com/assets/WCNC/images/a11cb4f4-9f11-4770-b48b-af0d48f1ce2c/a11cb4f4-9f11-4770-b48b-af0d48f1ce2c_360x203.jpeg)](https://www.wqad.com/article/weather/historical-level-cold-iowa-state-cyclones-hawkeyes-football-weather/524-0bf8d5bd-3157-4c2b-837b-698d6104639b)
         
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-21°
+15°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
