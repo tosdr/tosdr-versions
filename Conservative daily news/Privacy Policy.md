@@ -2,14 +2,14 @@ Friday, November 29 2024
 
 Breaking News
 
+* [Elon Musk Demands Shutdown Of Consumer Bureau](https://www.conservativedailynews.com/2024/11/elon-musk-demands-shutdown-of-consumer-bureau/)
+* [Biden Was Not Concerned, Trump Will Stop Fentanyl](https://www.conservativedailynews.com/2024/11/biden-was-not-concerned-trump-will-stop-fentanyl/)
 * [The Inequity of the Pursuit of Equity in the military over preparedness is at best dereliction of duty](https://www.conservativedailynews.com/2024/11/the-inequity-of-the-pursuit-of-equity-in-the-military-over-preparedness-is-at-best-dereliction-of-duty/)
 * [America In The Age Of Stupidity: Democrats Kiss Hitler’s Ass](https://www.conservativedailynews.com/2024/11/america-in-the-age-of-stupidity-democrats-kiss-hitlers-ass/)
 * [Trump Will Redirect Billions In Unspent Funds From Biden’s Climate Law To ‘Real Infrastructure’](https://www.conservativedailynews.com/2024/11/trump-will-redirect-billions-in-unspent-funds-from-bidens-climate-law-to-real-infrastructure/)
 * [A Lame Duck Biden Could Put The World In Peril](https://www.conservativedailynews.com/2024/11/a-lame-duck-biden-could-put-the-world-in-peril/)
 * [Shocker: Liberal Professor Concludes liberals should try to Persuade Voters of their Views](https://www.conservativedailynews.com/2024/11/shocker-liberal-professor-concludes-liberals-should-try-to-persuade-voters-of-their-views/)
 * [Something to be Thankful For](https://www.conservativedailynews.com/2024/11/something-to-be-thankful-for/)
-* [President Joe Biden’s Schedule for Wednesday, November 27, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-wednesday-november-27-2024/)
-* [OOF: Kamala Harris Appears Disheveled In First Appearance Since Election Loss](https://www.conservativedailynews.com/2024/11/oof-kamala-harris-appears-disheveled-in-first-appearance-since-election-loss/)
 
 * [RSS](https://www.conservativedailynews.com/news-feeds/)
 * [Facebook](https://www.facebook.com/ConservativeDailyNews/)
@@ -130,6 +130,18 @@ Orange = One-Time Donations
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2018/09/Elon-Musk.jpg)](https://www.conservativedailynews.com/2024/11/elon-musk-demands-shutdown-of-consumer-bureau/)
+    
+    [Elon Musk Demands Shutdown Of Consumer Bureau](https://www.conservativedailynews.com/2024/11/elon-musk-demands-shutdown-of-consumer-bureau/)
+    
+    November 29, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/IMG_5829.webp-220x150.webp)](https://www.conservativedailynews.com/2024/11/biden-was-not-concerned-trump-will-stop-fentanyl/)
+    
+    [Biden Was Not Concerned, Trump Will Stop Fentanyl](https://www.conservativedailynews.com/2024/11/biden-was-not-concerned-trump-will-stop-fentanyl/)
+    
+    November 29, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2022/02/Betsy-McCaughey-feat-220x150.png)](https://www.conservativedailynews.com/2024/11/disrupting-the-health-agencies-will-save-american-lives/)
     
     [Disrupting the Health Agencies Will Save American Lives](https://www.conservativedailynews.com/2024/11/disrupting-the-health-agencies-will-save-american-lives/)
@@ -166,31 +178,19 @@ Recent Posts
     
     November 28, 2024
     
-* [![pro-hamas protest college universities professors](https://www.conservativedailynews.com/wp-content/uploads/2024/05/mrz050524dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/shocker-liberal-professor-concludes-liberals-should-try-to-persuade-voters-of-their-views/)
-    
-    [Shocker: Liberal Professor Concludes liberals should try to Persuade Voters of their Views](https://www.conservativedailynews.com/2024/11/shocker-liberal-professor-concludes-liberals-should-try-to-persuade-voters-of-their-views/)
-    
-    November 28, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/04-new-tg-day-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/11/turkey-day-2/)
-    
-    [Turkey Day](https://www.conservativedailynews.com/2024/11/turkey-day-2/)
-    
-    November 28, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [NY Pols Plan To Require Firearms Seizures At Domestic Calls](https://www.thegunpage.com/ny-pols-plan-to-require-firearms-seizures-at-domestic-calls/10612188)
+* [Oldest Gun Ever Found In U.S. Unearthed In Arizona](https://www.thegunpage.com/oldest-gun-ever-found-in-u-s-unearthed-in-arizona/10612185)
+* [China Builds A Recoilless 7.62 Round… For Drones!](https://www.thegunpage.com/china-builds-a-recoilless-7-62-round-for-drones/10612189)
+* [Missouri Congressman Plans Bill To Abolish The ATF](https://www.thegunpage.com/missouri-congressman-plans-bill-to-abolish-the-atf/10612184)
+* [Election Analysis: It’s the Guns, Stupid!](https://www.thegunpage.com/election-analysis-its-the-guns-stupid/10612183)
 * [TFB Review: Meprolight MPO-DS Red Dot Sight](https://www.thegunpage.com/tfb-review-meprolight-mpo-ds-red-dot-sight/10612175)
 * [Concealed Carry Corner: A Close Look At Ankle Carry](https://www.thegunpage.com/concealed-carry-corner-a-close-look-at-ankle-carry/10612176)
 * [Black Friday and Cyber Monday: Gear Up with the Best Deals!](https://www.thegunpage.com/black-friday-and-cyber-monday-gear-up-with-the-best-deals/10612173)
 * [TFB Behind the Gun #142: Rob Gearing w/ Spartan Precision Equipment](https://www.thegunpage.com/tfb-behind-the-gun-142-rob-gearing-w-spartan-precision-equipment/10612172)
 * [Happy Thanksgiving](https://www.thegunpage.com/happy-thanksgiving-5/10612168)
-* [TFB Review: Pulsar Merger LRF XT50 – 1280×1024 HD Thermal Binoculars](https://www.thegunpage.com/tfb-review-pulsar-merger-lrf-xt50-1280x1024-hd-thermal-binoculars/10612158)
-* [POTD: Heckler & Koch MK24 Mod 0 Clone](https://www.thegunpage.com/potd-heckler-koch-mk24-mod-0-clone/10612159)
-* [Wheelgun Wednesday: Smith & Wesson Model 640 Engraved Review](https://www.thegunpage.com/wheelgun-wednesday-smith-wesson-model-640-engraved-review/10612160)
-* [Everytown Wants You To Argue About Guns At Thanksgiving Dinner](https://www.thegunpage.com/everytown-wants-you-to-argue-about-guns-at-thanksgiving-dinner/10612156)
-* [Holiday Posting Schedule](https://www.thegunpage.com/holiday-posting-schedule/10612152)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
