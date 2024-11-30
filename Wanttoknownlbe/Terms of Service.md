@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/focus-op-het-christusbewustzijn-vergeef-de-illuminatie/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/vaccinaties-gezondheid/geen-bewijs-dus-waarom-nog-steeds-n-griepprik/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
