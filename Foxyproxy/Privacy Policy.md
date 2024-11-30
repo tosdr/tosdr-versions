@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-it was great-- just forgot to renew. Will resubscribe now.
+I've actually found the proxy very good, now that I've figured out how to use it correctly with a Mac and actually watch Hulu. So I'll be signing back up to use it shortly.
 
-Jim Dever
+Allan Barger
