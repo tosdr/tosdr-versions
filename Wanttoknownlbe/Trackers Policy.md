@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/wetenschap/energie/luiden-rusland-china-en-iran-einde-van-us-in/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/pcsk9-remmers-en-de-idiotie-van-cholesterol-statines/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
