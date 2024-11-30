@@ -79,6 +79,7 @@ Terms and Conditions
 
 * [Introduction](#tab-)
 * [Your Use of the GWR Services](#tab-)
+* [](#tab-)
 * [GWR’s Intellectual Property](#tab-)
 * [Your User Content](#tab-)
 * [Your Safety](#tab-)
@@ -91,12 +92,12 @@ Terms and Conditions
 
 ### Introduction
 
-THESE TERMS & CONDITIONS WERE LAST UPDATED ON 27th June 2024
+THESE TERMS & CONDITIONS WERE LAST UPDATED ON 29th November 2024
 
 These terms and conditions (“Terms of Use”) govern your access to and use of 
 
 * guinnessworldrecords.com, gwrstore.com, related sub-domains, counterpart sites in other languages and any other GWR website that links to this Privacy Policy; and
-* the GWR Events app and other GWR digital applications
+* the GWR Verify app and other GWR digital applications
 
 which together are referred to in these Terms of Use as the “GWR Services”
 
