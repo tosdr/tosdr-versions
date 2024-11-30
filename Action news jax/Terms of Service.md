@@ -4,9 +4,9 @@ Sections
 
 [WATCH](https://www.actionnewsjax.com/video/)
 
-[38°
+[56°
 
-![Fair](/pf/resources/images/weather/status-icons/34.png?d=942)](https://www.actionnewsjax.com/weather/)
+![Partly Cloudy](/pf/resources/images/weather/status-icons/30.png?d=942)](https://www.actionnewsjax.com/weather/)
 
 [WATCH](https://www.actionnewsjax.com/video/)
 
