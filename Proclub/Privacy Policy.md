@@ -1,5 +1,3 @@
-[THANKSGIVING CLUB HOURS, Thursday, November 28th](#)
-
 [Enjoy PRO club for the day on us. Schedule a Tour today >>](https://www.proclub.com/club/join/schedule-a-tour)
 
 1
