@@ -446,123 +446,115 @@ Go Ad-Free
 
 ### Featured Channels Featured
 
-[The Jimmy Dore Show
+[Badlands Media
 
-5.07K](https://rumble.com/v5ue7ek-boris-johnson-admits-ukraine-is-a-proxy-war-hillary-and-dems-demagogue-ille.html "The Jimmy Dore Show")
-
-[Nerdrotic
-
-3.43K](https://rumble.com/v5udaen-wicked-cringe-hollywood-infighting-girlboss-rohirrim-friday-night-tights-33.html "Nerdrotic")
+7.73K](https://rumble.com/v5u7378-eye-of-the-storm-193-900-pm-et-.html "Badlands Media")
 
 [NEWSMAX
 
-2.35K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
+1.65K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
 
-[Barry Cunningham
+[Drew Hernandez
 
-677](https://rumble.com/v5ua5eb-trump-daily-briefing-trump-back-to-work-making-america-great-again.html "Barry Cunningham")
-
-[Badlands Media
-
-458](https://rumble.com/v5u6yaz-the-conscious-strength-show-ep-23-400-pm-et-.html "Badlands Media")
+939](https://rumble.com/v5ud78w-dnc-donors-blaming-obama-for-brutal-election-loss.html "Drew Hernandez")
 
 [Lofi Girl
 
-169](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
-
-[barstoolsports
-
-47](https://rumble.com/v5uculw-kms-live-november-29-2024-back-friday-live.html "barstoolsports")
-
-[The Kirk Minihane Show
-
-46](https://rumble.com/v5uculw-kms-live-november-29-2024-back-friday-live.html "The Kirk Minihane Show")
+150](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
 
 [Major League Fishing
 
-2](https://rumble.com/v5pak3w-live-general-tire-team-series-summit-cup-day-6.html "Major League Fishing")
+3](https://rumble.com/v5pak3w-live-general-tire-team-series-summit-cup-day-6.html "Major League Fishing")
 
-[The Chris Cuomo Project](https://rumble.com/c/chriscuomo "The Chris Cuomo Project")
+[Plan Bri Uncut](https://rumble.com/c/PlanBriUncut "Plan Bri Uncut")
 
-[Drew Hernandez](https://rumble.com/c/DrewHernandez "Drew Hernandez")
+[Bitcoin.com](https://rumble.com/c/Bitcoincom "Bitcoin.com")
 
-[Bitcoin Magazine](https://rumble.com/c/BitcoinMagazine "Bitcoin Magazine")
+[Steve-O's Wild Ride! Podcast](https://rumble.com/c/WildRide "Steve-O's Wild Ride! Podcast")
 
-[Vivek Ramaswamy](https://rumble.com/c/VivekRamaswamy "Vivek Ramaswamy")
+[WeAreChange](https://rumble.com/c/WeAreChange "WeAreChange")
 
-[Jerry After Dark](https://rumble.com/c/JerryAfterDark "Jerry After Dark")
+[Ghosts and Grit With Jack Osbourne Podcast](https://rumble.com/c/JackOsbourne "Ghosts and Grit With Jack Osbourne Podcast")
 
-[Medical Medium](https://rumble.com/c/MedicalMedium "Medical Medium")
+[Mike Crispi](https://rumble.com/c/crispi "Mike Crispi")
 
-[Out & About](https://rumble.com/c/OutAndAbout "Out & About")
+[Sean Hannity](https://rumble.com/c/SeanHannity "Sean Hannity")
 
-[Power Slap](https://rumble.com/c/powerslap "Power Slap")
+[Alex Zedra](https://rumble.com/c/AlexZedra "Alex Zedra")
 
-[Michael Franzese](https://rumble.com/c/MichaelFranzese "Michael Franzese")
+[The Dan Bongino Show](https://rumble.com/c/Bongino "The Dan Bongino Show")
+
+[Answer The Internet](https://rumble.com/c/AnswerTheInternet "Answer The Internet")
+
+[Candace Show Podcast](https://rumble.com/c/RealCandaceO "Candace Show Podcast")
+
+[Awaken With JP](https://rumble.com/c/AwakenWithJP "Awaken With JP")
+
+[The Charlie Kirk Show](https://rumble.com/c/CharlieKirk "The Charlie Kirk Show")
+
+[Peter Santenello](https://rumble.com/c/PeterSantenello "Peter Santenello")
 
 [Alexis Wilkins](https://rumble.com/c/alexiswilkins "Alexis Wilkins")
 
-[Only Stans](https://rumble.com/c/OnlyStansshow "Only Stans")
+[Matt Kohrs](https://rumble.com/c/MattKohrs "Matt Kohrs")
 
-[FULL SEND PODCAST](https://rumble.com/c/FULLSENDPODCAST "FULL SEND PODCAST")
-
-[Frank the Tank Fleming](https://rumble.com/c/FrankTheTankFleming "Frank the Tank Fleming")
-
-[Graham Allen](https://rumble.com/c/GrahamAllenOfficial "Graham Allen")
-
-[The Rubin Report](https://rumble.com/c/RubinReport "The Rubin Report")
-
-[ItGirl](https://rumble.com/c/ItGirl "ItGirl")
-
-[Barstool Baseball](https://rumble.com/c/BarstoolBaseball "Barstool Baseball")
-
-[Price of Reason](https://rumble.com/c/PriceOfReason "Price of Reason")
-
-[Donald Trump Jr.](https://rumble.com/c/DonaldJTrumpJr "Donald Trump Jr.")
-
-[Ben Shapiro](https://rumble.com/c/BenShapiro "Ben Shapiro")
-
-[Dr Steve Turley](https://rumble.com/c/DrSteveTurley "Dr Steve Turley")
-
-[Barstool Gambling](https://rumble.com/c/BarstoolGambling "Barstool Gambling")
-
-[VIVA TV](https://rumble.com/c/VivaTV "VIVA TV")
-
-[Healthy Debate](https://rumble.com/c/HealthyDebate "Healthy Debate")
-
-[Son of a Boy Dad](https://rumble.com/c/SonOfABoyDad "Son of a Boy Dad")
-
-[Roseanne Barr](https://rumble.com/c/roseannebarr "Roseanne Barr")
-
-[Wake Up Mintzy](https://rumble.com/c/Barstoolmintzyofficial "Wake Up Mintzy")
-
-[OutdoorChannelTV](https://rumble.com/c/OutdoorChannelTV "OutdoorChannelTV")
-
-[The StoneZONE with Roger Stone](https://rumble.com/c/RogerStone "The StoneZONE with Roger Stone")
-
-[Athlete & Artist Show](https://rumble.com/c/AthleteArtistShow "Athlete & Artist Show")
-
-[Dani Jackel](https://rumble.com/c/DaniJackel "Dani Jackel")
-
-[Jersey Jerry](https://rumble.com/c/jerseyjerry "Jersey Jerry")
-
-[JoBlo Originals](https://rumble.com/c/JoBloOriginals "JoBlo Originals")
+[Chicks in the Office](https://rumble.com/c/ChicksInTheOffice "Chicks in the Office")
 
 [The Rich Dad Channel](https://rumble.com/c/TheRichDadChannel "The Rich Dad Channel")
 
+[My Mom's Basement with Robbie Fox](https://rumble.com/c/MyMomsBasementWithRobbieFox "My Mom's Basement with Robbie Fox")
+
+[Zero Blog Thirty](https://rumble.com/c/ZeroBlogThirty "Zero Blog Thirty")
+
+[Pardon My Take](https://rumble.com/c/PardonMyTake "Pardon My Take")
+
+[SNEAKO](https://rumble.com/c/SNEAKO "SNEAKO")
+
+[The Pat Bev Podcast with Rone](https://rumble.com/c/ThePatBevPodcastWithRone "The Pat Bev Podcast with Rone")
+
+[Eddie Bravo](https://rumble.com/c/eddiebravo "Eddie Bravo")
+
+[Spittin' Chiclets](https://rumble.com/c/SpittinChiclets "Spittin' Chiclets")
+
 [Robert F. Kennedy Jr.](https://rumble.com/c/RFKjr "Robert F. Kennedy Jr.")
 
-[United Fight League](https://rumble.com/c/UnitedFightLeague "United Fight League")
+[Roseanne Barr](https://rumble.com/c/roseannebarr "Roseanne Barr")
 
-[Matt Kim](https://rumble.com/c/FreeMattKim "Matt Kim")
+[Breaking Points](https://rumble.com/c/BreakingPoints "Breaking Points")
 
-[Redacted News](https://rumble.com/c/Redacted "Redacted News")
+[JoBlo Originals](https://rumble.com/c/JoBloOriginals "JoBlo Originals")
 
-[Rebel News](https://rumble.com/c/RebelNews "Rebel News")
+[The Chris Salcedo Show](https://rumble.com/c/TheChrisSalcedoShow "The Chris Salcedo Show")
 
-[Barstool Gametime](https://rumble.com/c/BarstoolGametime "Barstool Gametime")
+[Athlete & Artist Show](https://rumble.com/c/AthleteArtistShow "Athlete & Artist Show")
 
-[Russell Brand](https://rumble.com/c/russellbrand "Russell Brand")
+[Barstool Baseball](https://rumble.com/c/BarstoolBaseball "Barstool Baseball")
+
+[Graham Allen](https://rumble.com/c/GrahamAllenOfficial "Graham Allen")
+
+[Macrodosing w/ PFT & Arian Foster](https://rumble.com/c/MacrodosingWithPFTAndArianFoster "Macrodosing w/ PFT & Arian Foster")
+
+[Dr. John Campbell](https://rumble.com/c/DrJohnCampbell "Dr. John Campbell")
+
+[Mark Titus Show](https://rumble.com/c/marktitusshow "Mark Titus Show")
+
+[Danny Polishchuk](https://rumble.com/c/Dannyjokes "Danny Polishchuk")
+
+[Dr Disrespect](https://rumble.com/c/DrDisrespect "Dr Disrespect")
+
+[Due Dissidence](https://rumble.com/c/DueDissidence "Due Dissidence")
+
+[Dave Portnoy](https://rumble.com/c/DavePortnoy "Dave Portnoy")
+
+[The Kirk Minihane Show](https://rumble.com/c/thekirkminihaneshow "The Kirk Minihane Show")
+
+[The StoneZONE with Roger Stone](https://rumble.com/c/RogerStone "The StoneZONE with Roger Stone")
+
+[Unnecessary Roughness](https://rumble.com/c/UnnecessaryRoughness "Unnecessary Roughness")
+
+[Daily Caller News Foundation](https://rumble.com/c/DailyCallerNewsFoundation "Daily Caller News Foundation")
+
+[Son of a Boy Dad](https://rumble.com/c/SonOfABoyDad "Son of a Boy Dad")
 
 ### Theme
 
