@@ -401,6 +401,18 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Family of 19-year-old killed in Arlington Airbnb shooting speaks out](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/img_4745.jpeg?ve=1&tl=1)
+
+ ![Family of 19-year-old killed in Arlington Airbnb shooting speaks out](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/img_4745.jpeg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/alexis-tyler-airbnb-shooting-arlington)
+
+### [Family of 19-year-old killed in Arlington Airbnb shooting speaks out](https://www.fox4news.com/news/alexis-tyler-airbnb-shooting-arlington)
+
+ [![Amazon workers to strike between Black Friday, Cyber Monday in US, other countries](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/amazon-strike.jpg?ve=1&tl=1)
+
+ ![Amazon workers to strike between Black Friday, Cyber Monday in US, other countries](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/amazon-strike.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/amazon-workers-planning-strike-black-friday-cyber-monday)
+
+### [Amazon workers to strike between Black Friday, Cyber Monday in US, other countries](https://www.fox4news.com/news/amazon-workers-planning-strike-black-friday-cyber-monday)
+
  [![Man stabbed outside Dallas Target on Black Friday morning](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/04/32/18/Target-store.jpg?ve=1&tl=1)
 
  ![Man stabbed outside Dallas Target on Black Friday morning](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/04/32/18/592/333/Target-store.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/man-stabbed-outside-dallas-target-black-friday-morning)
@@ -418,18 +430,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![Man shot and killed in North Richland Hills home: police](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/05/32/18/592/333/Generic-police-tape-2-11.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/man-shot-killed-north-richland-hills-home)
 
 ### [Man shot and killed in North Richland Hills home: police](https://www.fox4news.com/news/man-shot-killed-north-richland-hills-home)
-
- [![Man pays $6.2M for banana art, ends up eating it](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/sun-eats-banana.jpg?ve=1&tl=1)
-
- ![Man pays $6.2M for banana art, ends up eating it](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/sun-eats-banana.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/man-pays-6-2m-banana-art-ends-up-eating-2024)
-
-### [Man pays $6.2M for banana art, ends up eating it](https://www.fox4news.com/news/man-pays-6-2m-banana-art-ends-up-eating-2024)
-
- [![Here's how you can safely store your Thanksgiving leftovers](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/thanksgiving-food.jpg?ve=1&tl=1)
-
- ![Here's how you can safely store your Thanksgiving leftovers](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/thanksgiving-food.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/safely-storing-thanksgiving-leftovers)
-
-### [Here's how you can safely store your Thanksgiving leftovers](https://www.fox4news.com/news/safely-storing-thanksgiving-leftovers)
 
 ###### [News](https://www.fox4news.com/news)
 
