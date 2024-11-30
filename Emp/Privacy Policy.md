@@ -128,6 +128,8 @@ Ok](https://www.emp-online.com/home?forceThisShop=1)
     
 * [Top Marken](https://www.emp.de/markenkleidung/maenner/)
     
+* [Brands by EMP](https://www.emp.de/markenkleidung/brands-by-emp/maenner/?prefn1=gender&prefv1=3%7C1)
+    
 * [Themen](https://www.emp.de/themen/)
     
 * [Young Rebels](https://www.emp.de/next-gen/maenner/)
