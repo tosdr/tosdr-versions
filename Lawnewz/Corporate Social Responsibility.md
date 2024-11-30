@@ -103,9 +103,9 @@ Top of Today
     
     ### [Man told ex-wife's new husband to 'flake off' before stabbing him in stomach on Thanksgiving morning: Sheriff](https://lawandcrime.com/crime/man-told-ex-wifes-new-husband-to-flake-off-before-stabbing-him-in-stomach-on-thanksgiving-morning-sheriff/)
     
-2. [![Douglas Harrington (U.S. Attorney's Office)](https://am22.mediaite.com/lc/cnt/uploads/2024/11/j6-3-432x243.jpg)](https://lawandcrime.com/high-profile/these-commies-need-to-pay-jan-6-rioter-who-attacked-cops-with-flagpole-is-going-to-prison/)
+2. [![Left: Shayla Curts (Ever Loved, Inc.). Right: Emmett C. Williams (Jackson County Detention Center).](https://am24.mediaite.com/lc/cnt/uploads/2024/11/momurder-432x243.jpg)](https://lawandcrime.com/crime/man-shot-pregnant-mother-of-2-because-she-was-always-antagonizing-him/)
     
-    ### ['THESE COMMIES NEED TO PAY': Jan. 6 rioter who attacked cops with flagpole is going to prison](https://lawandcrime.com/high-profile/these-commies-need-to-pay-jan-6-rioter-who-attacked-cops-with-flagpole-is-going-to-prison/)
+    ### [Man shot pregnant mother of 2 because she was 'always antagonizing' him](https://lawandcrime.com/crime/man-shot-pregnant-mother-of-2-because-she-was-always-antagonizing-him/)
     
 3. [![Background: Jeffrey Arthur Moynihan Jr. is seen on police body camera footage (Bradenton Police Department). Inset left: Elon Musk arrives for the 2022 Met Gala at the Metropolitan Museum of Art on May 2, 2022, in New York (Photo by Dimitrios Kambouris/Getty Images for The Met Museum/Vogue). Inset right: Jeffrey Arthur Moynihan Jr. (Bradenton Police Department).](https://am24.mediaite.com/lc/cnt/uploads/2024/11/Jeffrey-Arthur-Moynihan-Jr-432x243.jpg)](https://lawandcrime.com/video/bodycam-cops-arrest-man-for-allegedly-posing-as-elon-musk-to-cheat-elderly-woman-out-of-money/)
     
@@ -115,9 +115,9 @@ Top of Today
     
     ### ['This is f---ing over with': Siblings tried to hire hit man to kill stepfather for his life insurance money](https://lawandcrime.com/crime/this-is-f-ing-over-with-siblings-tried-to-hire-hit-man-to-kill-stepfather-for-his-life-insurance-money/)
     
-5. [![Tiffanie Lucas](https://am21.mediaite.com/lc/cnt/uploads/2024/11/Tiffany-Lucas-432x243.jpg)](https://lawandcrime.com/video/im-a-woman-of-god-mother-who-murdered-her-2-kids-says-sugar-daddy-manipulated-her-mind-into-killing-sons/)
+5. [![Left: Matthew G. Speck. Right: Caitlin C. Speck and her dog, Bailey Mae (Ninth Circuit Solicitor's Office).](https://am21.mediaite.com/lc/cnt/uploads/2024/11/fghfeiuhgf-432x243.jpg)](https://lawandcrime.com/crime/man-researched-choking-death-and-cyanide-poisoning-before-shooting-sleeping-wife-and-dog-then-staging-break-in/)
     
-    ### ['I'm a woman of God': Mother who murdered her 2 kids says 'sugar daddy' manipulated her mind into killing sons](https://lawandcrime.com/video/im-a-woman-of-god-mother-who-murdered-her-2-kids-says-sugar-daddy-manipulated-her-mind-into-killing-sons/)
+    ### [Man researched 'choking death and cyanide poisoning' before shooting sleeping wife and dog then staging break-in](https://lawandcrime.com/crime/man-researched-choking-death-and-cyanide-poisoning-before-shooting-sleeping-wife-and-dog-then-staging-break-in/)
     
 
 [](http://eepurl.com/c89Jdb)
