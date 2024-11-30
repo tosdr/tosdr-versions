@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [♫ NationStates Playlist Project ♫ (97)](https://forum.nationstates.net/viewtopic.php?t=557515&f=25&view=unread#unread ""♫ NationStates Playlist Project ♫" (97 posts)")
-* [The Collective Security League Assemb… (1,880)](https://forum.nationstates.net/viewtopic.php?t=555699&f=5&view=unread#unread ""The Collective Security League Assembly III [MT|IC]" (1,880 posts)")
-* [Agree or Disagree III (12,267)](https://forum.nationstates.net/viewtopic.php?t=516044&f=25&view=unread#unread ""Agree or Disagree III" (12,267 posts)")
-* [The Cold War \[60s/OOC/Applactions\] (91)](https://forum.nationstates.net/viewtopic.php?t=558940&f=31&view=unread#unread ""The Cold War [60s/OOC/Applactions]" (91 posts)")
-* [The Collective Security League: OOC s… (6,940)](https://forum.nationstates.net/viewtopic.php?t=533133&f=5&view=unread#unread ""The Collective Security League: OOC signup" (6,940 posts)")
+* [Ukrainian War VII: Everything has a p… (11,496)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Everything has a price" (11,496 posts)")
+* [What do you think of when you see the… (9,810)](https://forum.nationstates.net/viewtopic.php?t=527620&f=25&view=unread#unread ""What do you think of when you see the AN's flag? V" (9,810 posts)")
+* [Grant AN's wish then curse it (1,329)](https://forum.nationstates.net/viewtopic.php?t=555678&f=25&view=unread#unread ""Grant AN's wish then curse it" (1,329 posts)")
+* [Would You Rather Chill with AU or AAU? (525)](https://forum.nationstates.net/viewtopic.php?t=556519&f=25&view=unread#unread ""Would You Rather Chill with AU or AAU?" (525 posts)")
+* [American Politics: Turnabout Trump (7,009)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (7,009 posts)")
 
 Advertisement
 
