@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Dienst­reisen: Wie Sie Ihre Reise­kosten von der Steuer absetzen](https://www.test.de/reisekosten-steuer-6109917-0/ "Dienstreisen - Wie Sie Ihre Reisekosten von der Steuer absetzen")
-* [Produktrück­ruf: Bissell ruft Akkuwischer zurück](https://www.test.de/Produktrueckruf-Bissell-ruft-Akkuwischer-zurueck-5965308-0/ "Produktrückruf - Bissell ruft Akkuwischer zurück")
-* [Güns­tiger telefonieren: Call­through löst Call by Call ab](https://www.test.de/callthrough-verfahren-6178469-0/ "Günstiger telefonieren - Callthrough löst Call by Call ab")
-* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
-* [Project-Gruppe: Auszahlungen an Anleger gestoppt](https://www.test.de/Project-Gruppe-Auszahlungen-an-Anleger-gestoppt-6044635-0/ "Project-Gruppe - Auszahlungen an Anleger gestoppt")
-* [Microsoft Surface mit ARM-Chip im Schnell­test: Neue Surface-Modelle treten gegen MacBook und iPad an](https://www.test.de/Microsoft-Surface-mit-ARM-Chip-im-Schnelltest-Neue-Surface-Modelle-machen-dem-MacBook-Konkurrenz-6165262-0/ "Microsoft Surface mit ARM-Chip im Schnelltest - Neue Surface-Modelle treten gegen MacBook und iPad an")
+* [Lebens­mittel­preise im Check: Große Preis­unterschiede, riesiges Spar­potential](https://www.test.de/Lebensmittelpreise-im-Check-Sparpotenzial-bis-zu-400-Prozent-6000916-0/ "Lebensmittelpreise im Check - Große Preisunterschiede, riesiges Sparpotential")
+* [Gewusst wie: Patienten­daten anfordern](https://www.test.de/Gewusst-wie-Patientendaten-anfordern-6051265-0/ "Gewusst wie - Patientendaten anfordern")
+* [Finanz­aufsicht: Gefälschte E-Mails](https://www.test.de/Finanzaufsicht-Gefaelschte-E-Mails-6020298-0/ "Finanzaufsicht - Gefälschte E-Mails")
+* [Tarife für Kinder-Smartwatches: Günstig nach Hause telefonieren](https://www.test.de/Tarife-fuer-Kinder-Smartwatches-Guenstig-nach-Hause-telefonieren-6044492-0/ "Tarife für Kinder-Smartwatches - Günstig nach Hause telefonieren")
+* [Bewertung von Fonds und ETF: Risiko­klasse hilft bei der Fonds­wahl](https://www.test.de/Bewertung-von-Fonds-und-ETF-Risikoklasse-hilft-bei-der-Fondswahl-6139024-0/ "Bewertung von Fonds und ETF - Risikoklasse hilft bei der Fondswahl")
+* [Fünf-Punkte-Strategie mit ETF: Mit ETF den Markt schlagen – so gehts](https://www.test.de/Fuenf-Punkte-Strategie-mit-ETF-Mit-ETF-den-Markt-schlagen-so-gehts-6166129-0/ "Fünf-Punkte-Strategie mit ETF - Mit ETF den Markt schlagen – so gehts")
 
 Weitere Informationen
 
@@ -3871,12 +3871,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Dienst­reisen: Wie Sie Ihre Reise­kosten von der Steuer absetzen](https://www.test.de/reisekosten-steuer-6109917-0/ "Dienstreisen - Wie Sie Ihre Reisekosten von der Steuer absetzen")
-* [Produktrück­ruf: Bissell ruft Akkuwischer zurück](https://www.test.de/Produktrueckruf-Bissell-ruft-Akkuwischer-zurueck-5965308-0/ "Produktrückruf - Bissell ruft Akkuwischer zurück")
-* [Güns­tiger telefonieren: Call­through löst Call by Call ab](https://www.test.de/callthrough-verfahren-6178469-0/ "Günstiger telefonieren - Callthrough löst Call by Call ab")
-* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
-* [Project-Gruppe: Auszahlungen an Anleger gestoppt](https://www.test.de/Project-Gruppe-Auszahlungen-an-Anleger-gestoppt-6044635-0/ "Project-Gruppe - Auszahlungen an Anleger gestoppt")
-* [Microsoft Surface mit ARM-Chip im Schnell­test: Neue Surface-Modelle treten gegen MacBook und iPad an](https://www.test.de/Microsoft-Surface-mit-ARM-Chip-im-Schnelltest-Neue-Surface-Modelle-machen-dem-MacBook-Konkurrenz-6165262-0/ "Microsoft Surface mit ARM-Chip im Schnelltest - Neue Surface-Modelle treten gegen MacBook und iPad an")
+* [Lebens­mittel­preise im Check: Große Preis­unterschiede, riesiges Spar­potential](https://www.test.de/Lebensmittelpreise-im-Check-Sparpotenzial-bis-zu-400-Prozent-6000916-0/ "Lebensmittelpreise im Check - Große Preisunterschiede, riesiges Sparpotential")
+* [Gewusst wie: Patienten­daten anfordern](https://www.test.de/Gewusst-wie-Patientendaten-anfordern-6051265-0/ "Gewusst wie - Patientendaten anfordern")
+* [Finanz­aufsicht: Gefälschte E-Mails](https://www.test.de/Finanzaufsicht-Gefaelschte-E-Mails-6020298-0/ "Finanzaufsicht - Gefälschte E-Mails")
+* [Tarife für Kinder-Smartwatches: Günstig nach Hause telefonieren](https://www.test.de/Tarife-fuer-Kinder-Smartwatches-Guenstig-nach-Hause-telefonieren-6044492-0/ "Tarife für Kinder-Smartwatches - Günstig nach Hause telefonieren")
+* [Bewertung von Fonds und ETF: Risiko­klasse hilft bei der Fonds­wahl](https://www.test.de/Bewertung-von-Fonds-und-ETF-Risikoklasse-hilft-bei-der-Fondswahl-6139024-0/ "Bewertung von Fonds und ETF - Risikoklasse hilft bei der Fondswahl")
+* [Fünf-Punkte-Strategie mit ETF: Mit ETF den Markt schlagen – so gehts](https://www.test.de/Fuenf-Punkte-Strategie-mit-ETF-Mit-ETF-den-Markt-schlagen-so-gehts-6166129-0/ "Fünf-Punkte-Strategie mit ETF - Mit ETF den Markt schlagen – so gehts")
 
 Weitere spannende Themen
 
@@ -3891,12 +3891,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Dienst­reisen: Wie Sie Ihre Reise­kosten von der Steuer absetzen](https://www.test.de/reisekosten-steuer-6109917-0/ "Dienstreisen - Wie Sie Ihre Reisekosten von der Steuer absetzen")
-* [Produktrück­ruf: Bissell ruft Akkuwischer zurück](https://www.test.de/Produktrueckruf-Bissell-ruft-Akkuwischer-zurueck-5965308-0/ "Produktrückruf - Bissell ruft Akkuwischer zurück")
-* [Güns­tiger telefonieren: Call­through löst Call by Call ab](https://www.test.de/callthrough-verfahren-6178469-0/ "Günstiger telefonieren - Callthrough löst Call by Call ab")
-* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
-* [Project-Gruppe: Auszahlungen an Anleger gestoppt](https://www.test.de/Project-Gruppe-Auszahlungen-an-Anleger-gestoppt-6044635-0/ "Project-Gruppe - Auszahlungen an Anleger gestoppt")
-* [Microsoft Surface mit ARM-Chip im Schnell­test: Neue Surface-Modelle treten gegen MacBook und iPad an](https://www.test.de/Microsoft-Surface-mit-ARM-Chip-im-Schnelltest-Neue-Surface-Modelle-machen-dem-MacBook-Konkurrenz-6165262-0/ "Microsoft Surface mit ARM-Chip im Schnelltest - Neue Surface-Modelle treten gegen MacBook und iPad an")
+* [Lebens­mittel­preise im Check: Große Preis­unterschiede, riesiges Spar­potential](https://www.test.de/Lebensmittelpreise-im-Check-Sparpotenzial-bis-zu-400-Prozent-6000916-0/ "Lebensmittelpreise im Check - Große Preisunterschiede, riesiges Sparpotential")
+* [Gewusst wie: Patienten­daten anfordern](https://www.test.de/Gewusst-wie-Patientendaten-anfordern-6051265-0/ "Gewusst wie - Patientendaten anfordern")
+* [Finanz­aufsicht: Gefälschte E-Mails](https://www.test.de/Finanzaufsicht-Gefaelschte-E-Mails-6020298-0/ "Finanzaufsicht - Gefälschte E-Mails")
+* [Tarife für Kinder-Smartwatches: Günstig nach Hause telefonieren](https://www.test.de/Tarife-fuer-Kinder-Smartwatches-Guenstig-nach-Hause-telefonieren-6044492-0/ "Tarife für Kinder-Smartwatches - Günstig nach Hause telefonieren")
+* [Bewertung von Fonds und ETF: Risiko­klasse hilft bei der Fonds­wahl](https://www.test.de/Bewertung-von-Fonds-und-ETF-Risikoklasse-hilft-bei-der-Fondswahl-6139024-0/ "Bewertung von Fonds und ETF - Risikoklasse hilft bei der Fondswahl")
+* [Fünf-Punkte-Strategie mit ETF: Mit ETF den Markt schlagen – so gehts](https://www.test.de/Fuenf-Punkte-Strategie-mit-ETF-Mit-ETF-den-Markt-schlagen-so-gehts-6166129-0/ "Fünf-Punkte-Strategie mit ETF - Mit ETF den Markt schlagen – so gehts")
 
 Neueste Tests
 
@@ -3909,12 +3909,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Dienst­reisen: Wie Sie Ihre Reise­kosten von der Steuer absetzen](https://www.test.de/reisekosten-steuer-6109917-0/ "Dienstreisen - Wie Sie Ihre Reisekosten von der Steuer absetzen")
-* [Produktrück­ruf: Bissell ruft Akkuwischer zurück](https://www.test.de/Produktrueckruf-Bissell-ruft-Akkuwischer-zurueck-5965308-0/ "Produktrückruf - Bissell ruft Akkuwischer zurück")
-* [Güns­tiger telefonieren: Call­through löst Call by Call ab](https://www.test.de/callthrough-verfahren-6178469-0/ "Günstiger telefonieren - Callthrough löst Call by Call ab")
-* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
-* [Project-Gruppe: Auszahlungen an Anleger gestoppt](https://www.test.de/Project-Gruppe-Auszahlungen-an-Anleger-gestoppt-6044635-0/ "Project-Gruppe - Auszahlungen an Anleger gestoppt")
-* [Microsoft Surface mit ARM-Chip im Schnell­test: Neue Surface-Modelle treten gegen MacBook und iPad an](https://www.test.de/Microsoft-Surface-mit-ARM-Chip-im-Schnelltest-Neue-Surface-Modelle-machen-dem-MacBook-Konkurrenz-6165262-0/ "Microsoft Surface mit ARM-Chip im Schnelltest - Neue Surface-Modelle treten gegen MacBook und iPad an")
+* [Lebens­mittel­preise im Check: Große Preis­unterschiede, riesiges Spar­potential](https://www.test.de/Lebensmittelpreise-im-Check-Sparpotenzial-bis-zu-400-Prozent-6000916-0/ "Lebensmittelpreise im Check - Große Preisunterschiede, riesiges Sparpotential")
+* [Gewusst wie: Patienten­daten anfordern](https://www.test.de/Gewusst-wie-Patientendaten-anfordern-6051265-0/ "Gewusst wie - Patientendaten anfordern")
+* [Finanz­aufsicht: Gefälschte E-Mails](https://www.test.de/Finanzaufsicht-Gefaelschte-E-Mails-6020298-0/ "Finanzaufsicht - Gefälschte E-Mails")
+* [Tarife für Kinder-Smartwatches: Günstig nach Hause telefonieren](https://www.test.de/Tarife-fuer-Kinder-Smartwatches-Guenstig-nach-Hause-telefonieren-6044492-0/ "Tarife für Kinder-Smartwatches - Günstig nach Hause telefonieren")
+* [Bewertung von Fonds und ETF: Risiko­klasse hilft bei der Fonds­wahl](https://www.test.de/Bewertung-von-Fonds-und-ETF-Risikoklasse-hilft-bei-der-Fondswahl-6139024-0/ "Bewertung von Fonds und ETF - Risikoklasse hilft bei der Fondswahl")
+* [Fünf-Punkte-Strategie mit ETF: Mit ETF den Markt schlagen – so gehts](https://www.test.de/Fuenf-Punkte-Strategie-mit-ETF-Mit-ETF-den-Markt-schlagen-so-gehts-6166129-0/ "Fünf-Punkte-Strategie mit ETF - Mit ETF den Markt schlagen – so gehts")
 
 Stiftung Warentest
 
