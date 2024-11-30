@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Guns, Culture and Crime in the US](/wp-content/thumbnails/7103-100x70.jpg?x53432)
+* [![Man on Mars: Mission to the Red Planet](/wp-content/thumbnails/8610-100x70.jpg?x53432)
     
-    Guns, Culture and Crime in the US
+    Man on Mars: Mission to the Red Planet
     
-    We look at why the debate over gun control is so polarized and travel to West Virginia – a place where shooting guns is a sport that has been passed down over generations – to find out what fuels the](https://documentaryheaven.com/guns-culture-crime-in-us/ "Guns, Culture and Crime in the US")
-* [![America: Destroyed by Design](/wp-content/thumbnails/1467-100x70.jpg?x53432)
+    Mars, the red planet, we have long wondered if it has ever sustained life. Some have dreamt of walking on its surface but more than four decades after they landed on the Moon, NASA are imagining a two](https://documentaryheaven.com/man-on-mars-mission-to-red-planet/ "Man on Mars: Mission to the Red Planet")
+* [![12th and Delaware](/wp-content/thumbnails/5850-100x70.jpg?x53432)
     
-    America: Destroyed by Design
+    12th and Delaware
     
-    The Council on Foreign Relations...is the House of the secret government here in the U.S, the Trilateral Commission is the Senate here in America, and the Bilderbergers are the criminal headquarters o](https://documentaryheaven.com/america-destroyed-by-design/ "America: Destroyed by Design")
-* [![Why I Hate The Sixties](/wp-content/thumbnails/9100-100x70.jpg?x53432)
+    The two sides of the abortion debate in America literally face one another in this documentary from filmmakers Heidi Ewing and Rachel Grady. In Fort Pierce, Florida, a women's heath care center is loc](https://documentaryheaven.com/12th-and-delaware/ "12th and Delaware")
+* [![Passport to Pluto and Beyond](/wp-content/thumbnails/1193-100x70.jpg?x53432)
     
-    Why I Hate The Sixties
+    Passport to Pluto and Beyond
     
-    This BBC film examines the myth behind the sixties, which was itself created before the decade was even out but has since lingered in all of our minds. What we have lived with however is merely a mira](https://documentaryheaven.com/hate-sixties/ "Why I Hate The Sixties")
-* [![Building Green](/wp-content/thumbnails/2688-100x70.jpg?x53432)
+    Passport to Pluto takes you inside this historic NASA endeavor, from Pluto's discovery at Lowell Observatory in 1930 through launch of the New Horizons spacecraft from Cape Canaveral Air Force Station](https://documentaryheaven.com/passport-to-pluto-and-beyond/ "Passport to Pluto and Beyond")
+* [![Ice Age Columbus: Who were the First Americans?](/wp-content/thumbnails/3166-100x70.jpg?x53432)
     
-    Building Green
+    Ice Age Columbus: Who were the First Americans?
     
-    Building Green is pioneering and entertaining television with an eco-friendly twist, on a mission is to inspire viewers to discover just how easy, cost-effective and healthy it can be to go green, and](https://documentaryheaven.com/building-green/ "Building Green")
-* [![No Filter Boxing: Wilder Vs. Fury](/wp-content/thumbnails/14310-100x70.jpg?x53432)
+    Traditional history tells us that European settlers discovered America about the time of the Renaissance. But revolutionary new archaeological data and the latest DNA research reveal that Europeans vi](https://documentaryheaven.com/iceage-columbus-who-were-the-first-americans/ "Ice Age Columbus: Who were the First Americans?")
+* [![Rico: The Legacy](/wp-content/thumbnails/1633-100x70.jpg?x53432)
     
-    No Filter Boxing: Wilder Vs. Fury
+    Rico: The Legacy
     
-    With defending WBC heavyweight champion Deontay Wilder set to face former WBA (Super), WBO, IBF, IBO, The Ring, and lineal heavyweight champion Tyson Fury on December 1st at the Staples Center in](https://documentaryheaven.com/no-filter-boxing-wilder-vs-fury/ "No Filter Boxing: Wilder Vs. Fury")
+    English"This documentary (made by Jep Jorba, Miquel Àngel Arnáiz and Ester Casals) is a very humble documentary, in terms of money and material resources. We know that it has its limitations and c](https://documentaryheaven.com/rico-the-legacy/ "Rico: The Legacy")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
