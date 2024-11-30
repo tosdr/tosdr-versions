@@ -114,7 +114,7 @@ Last Updated: November 15, 2011.
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/112423-charge-them-2024-11-29)
+     [](https://patriotpost.us/memes/112428-darn-climate-change-2024-11-30)
 
 * [More Memes >](https://patriotpost.us/memes)
 
@@ -126,6 +126,7 @@ Last Updated: November 15, 2011.
 
 ### Top Opinion
 
+*      [Imprimis Drain the Swamp](https://patriotpost.us/opinion/112398-drain-the-swamp-2024-11-30)
 *      [Rich Lowry The Intellectual Collapse of DEI](https://patriotpost.us/opinion/112446-the-intellectual-collapse-of-dei-2024-11-29)
 *      [Ben Shapiro A World of Leverage](https://patriotpost.us/opinion/112445-a-world-of-leverage-2024-11-29)
 *      [Larry Elder Trump Jokes About Running for Third Term — Dems Freak Out](https://patriotpost.us/opinion/112443-trump-jokes-about-running-for-third-term-dems-freak-out-2024-11-29)
@@ -133,7 +134,6 @@ Last Updated: November 15, 2011.
 *      [Tim Graham Journalists Mourn That Jack Smith’s Probes Are Dead](https://patriotpost.us/opinion/112441-journalists-mourn-that-jack-smiths-probes-are-dead-2024-11-29)
 *      [Josh Hammer Gratitude Is Our Defining Ideal](https://patriotpost.us/opinion/112440-gratitude-is-our-defining-ideal-2024-11-29)
 *      [Ann Coulter The Dems’ Thanksgiving Story Deserves to Be Known](https://patriotpost.us/opinion/112439-the-dems-thanksgiving-story-deserves-to-be-known-2024-11-29)
-*      [Michael Barone The Groups and Barista Proletariat of the Democratic Party](https://patriotpost.us/opinion/112437-the-groups-and-barista-proletariat-of-the-democratic-party-2024-11-29)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -147,7 +147,11 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01JAZT33BFPWCKHQ8TMC2021Z7.jpeg)](https://patriotpostshop.com/collections/featured-products)
+[Wear Your Patriotism on Your Sleeve
+
+ 
+
+Shop Now](https://patriotpostshop.com/)
 
 ### The Foundation
 
