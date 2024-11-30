@@ -1,6 +1,6 @@
 [Hallo, Pooh, you're just in time for a little smackerel of something](https://www.hebrewpod101.com/honeypot-do-not-follow)
 
-[BLACK FRIDAY SALE! GET 51% OFF + 2 FREE MONTHS
+[BLACK FRIDAY EXTENDED! GET 51% OFF + 2 FREE MONTHS
 
 SALE ENDS IN
 
@@ -14,6 +14,8 @@ SALE ENDS IN
 
 CLICK  
 HERE
+
+BLACK FRIDAY SALE EXTENDED!
 
 TAP HERE!
 
