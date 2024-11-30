@@ -111,25 +111,25 @@ Most recent
 
 [30-11-2024
 
+Democracy’s next great challenge – strengthening institutions to protect journalism](https://www.euractiv.com/section/politics/news/democracys-greatest-challenge-strengthening-institutions-to-safeguard-journalism/)[30-11-2024
+
+Bauhaus projects are maturing, lessons from von der Leyen’s marquee strategy](https://www.euractiv.com/section/politics/news/bauhaus-projects-after-three-creative-years-lessons-from-von-der-leyens-marquee-strategy/)[30-11-2024
+
+Is China striding past Europe, America and Japan on nuclear fusion?](https://www.euractiv.com/section/eet/news/is-china-striding-past-europe-america-and-japan-on-nuclear-fusion/)[30-11-2024
+
+Parliament can bring all stakeholders around the table to work on Alzheimer’s, says MEP Jerković](https://www.euractiv.com/section/health-consumers/news/european-parliament-can-bring-all-stakeholders-around-the-table-to-work-on-alzheimers-says-mep-jerkovic/)[30-11-2024
+
+Combating foreign influences in media, experts call on EU to step up action](https://www.euractiv.com/section/politics/news/combating-foreign-influences-in-media-experts-call-on-eu-to-step-up-action/)[30-11-2024
+
+Undiagnosed HIV cases exceed 5% in Belgium, ‘Figures not good’ says Flemish Minister of Welfare](https://www.euractiv.com/section/health-consumers/news/undiagnosed-hiv-cases-exceed-5-in-belgium-figures-not-good-says-flemish-minister-of-welfare/)[30-11-2024
+
 Romanians will learn on Monday if first round of presidential election is annulled](https://www.euractiv.com/section/politics/news/romanians-will-learn-on-monday-if-first-round-of-presidential-election-is-annulled/)[30-11-2024
 
 UK spy chief says Russia behind ‘staggeringly reckless’ sabotage in Europe](https://www.euractiv.com/section/global-europe/news/uk-spy-chief-says-russia-behind-staggeringly-reckless-sabotage-in-europe/)[30-11-2024
 
 In TV interview, Zelenskyy opens the door to ceasefire with Russia](https://www.euractiv.com/section/global-europe/news/in-tv-interview-zelenskyy-opens-the-door-to-ceasefire-with-russia/)[30-11-2024
 
-Explosion damages Kosovo power infrastructure, PM accuses Serbia of terrorism](https://www.euractiv.com/section/global-europe/news/explosion-damages-kosovo-power-infrastructure-pm-accuses-serbia-of-terrorism/)[29-11-2024
-
-Schneider drops ‘no risk’ exemption on deforestation rules, seeks EPP ministers’ support](https://www.euractiv.com/section/agriculture-food/news/schneider-drops-no-risk-exemption-on-deforestation-rules-seeks-epp-ministers-support/)[29-11-2024
-
-A tale of two bonds](https://www.euractiv.com/section/economy-jobs/news/a-tale-of-two-bonds/)[29-11-2024
-
-Armenia feels the impact of Georgian election fallout](https://www.euractiv.com/section/global-europe/news/armenia-feels-the-impact-of-georgian-election-fallout/)[29-11-2024
-
-Georgia’s election crisis could be a herald for democratic decline, EU membership](https://www.euractiv.com/section/global-europe/news/georgias-election-crisis-could-be-a-herald-for-democratic-decline-eu-membership/)[29-11-2024
-
-Romania’s top court orders presidential election recount](https://www.euractiv.com/section/politics/news/romanias-top-court-orders-presidential-election-recount/)[29-11-2024
-
-Putin says Russia could hit ‘decision-making centres’ in Kyiv with new missile](https://www.euractiv.com/section/global-europe/news/putin-says-russia-could-hit-decision-making-centres-in-kyiv-with-new-missile/)
+Explosion damages Kosovo power infrastructure, PM accuses Serbia of terrorism](https://www.euractiv.com/section/global-europe/news/explosion-damages-kosovo-power-infrastructure-pm-accuses-serbia-of-terrorism/)
 
 ###### Advertisement
 
