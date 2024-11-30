@@ -333,7 +333,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 Contact Us
 ----------
 
-If you have any questions about this Privacy Policy, You can contact us by email: [community@lambdageneration.com](mailto:community@lambdageneration.com)
+If you have any questions about this Privacy Policy, You can contact us by email: [\[email protected\]](https://community.lambdageneration.com/cdn-cgi/l/email-protection)
 
 [![LambdaGeneration](/_nuxt/img/logo-text.5e1ee43.png)](https://community.lambdageneration.com/)
 
