@@ -146,6 +146,13 @@ HuntAndJump.com Rules
 
 ![](/images/coloricons/News-Alerts-2.png)News & Alerts
 
+11/30/2024 1:07 AM EST
+
+Saturday is your very last chance to enter the GE
+-------------------------------------------------
+
+Absolutely no late entries will be accepted. Do not wait until the last moment.
+
 11/15/2024 2:51 AM EST
 
 Gift Exchange sign-ups are now open!
@@ -190,12 +197,6 @@ Link is in the navigation. Have questions, or want a guide? Check the stickied f
 ![](https://www.huntandjump.com/images/grsExamples/phatmn.png)  
 **Rainbow Riot 2 Ink Spot**  
 ![](https://www.huntandjump.com/images/grsExamples/inkspot.png)
-
-10/31/2024 10:25 AM EST
-
-### Check your inboxes it's newsletter day!
-
-Two special creates are yours to collect.
 
 ![](/images/coloricons/Gold-Star-2.png)Bonus Stall Progress
 
