@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/de-kankerwerende-eigenschappen-van-hennep/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/voedsel/voedsel-en-kirlian-fotografie/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
