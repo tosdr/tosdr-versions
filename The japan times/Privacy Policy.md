@@ -500,10 +500,6 @@ Revised June 1, 2022
 
   [![DPP leader Yuichiro Tamaki in Tokyo on Tuesday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/27/436830.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "DPP leader Yuichiro Tamaki in Tokyo on Tuesday")](https://www.japantimes.co.jp/news/2024/11/27/japan/politics/ishiba-tamaki-nuclear-energy/ "DPP’s Tamaki leverages new position with energy proposal")
 
-[Bluesky is booming in Japan — mainly for reasons other than U.S. politics](https://www.japantimes.co.jp/business/2024/11/25/companies/bluesky-social-japan/ "Bluesky is booming in Japan — mainly for reasons other than U.S. politics")
-
-  [![According to Similarweb, average monthly user numbers for Bluesky on Android in Japan quintupled in the 12 months to October.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/25/436245.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "According to Similarweb, average monthly user numbers for Bluesky on Android in Japan quintupled in the 12 months to October.")](https://www.japantimes.co.jp/business/2024/11/25/companies/bluesky-social-japan/ "Bluesky is booming in Japan — mainly for reasons other than U.S. politics")
-
 Podcast
 -------
 
@@ -523,9 +519,9 @@ By [Greg Dvorak](https://www.japantimes.co.jp/author/6191/greg-dvorak/ "Greg Dvo
 SUSTAINABLE JAPAN
 -----------------
 
-[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -565,25 +561,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Japan panel proposes law to monitor communications for cyber defense](https://www.japantimes.co.jp/news/2024/11/29/japan/politics/panel-cybersecurity-recommendations/ "Japan panel proposes law to monitor communications for cyber defense")
+[Jihadis and allies breach Syria's second city in lightning assault](https://www.japantimes.co.jp/news/2024/11/30/world/syria-aleppo-rebels-advance/ "Jihadis and allies breach Syria's second city in lightning assault")
 
-9 hours ago
+1 hour ago
 
-[Starbucks serves South Koreans coffee and a glimpse into the North](https://www.japantimes.co.jp/news/2024/11/29/asia-pacific/south-korea-north-korea-view-starbucks/ "Starbucks serves South Koreans coffee and a glimpse into the North")
+[Pete Hegseth’s mother accused her son of mistreating women for years](https://www.japantimes.co.jp/news/2024/11/30/world/politics/pete-hegseth-mistreating-women-mother/ "Pete Hegseth’s mother accused her son of mistreating women for years")
 
-10 hours ago
+1 hour ago
 
-[Shiseido profit outlook squeezed by China downturn, president says](https://www.japantimes.co.jp/business/2024/11/29/companies/shiseido-profit-china/ "Shiseido profit outlook squeezed by China downturn, president says")
+[France shows off restored Notre Dame after 'impossible' restoration](https://www.japantimes.co.jp/news/2024/11/30/world/france-restored-notre-dame/ "France shows off restored Notre Dame after 'impossible' restoration")
 
-10 hours ago
+2 hours ago
 
-[Stimulus staved off years of deflation, BOJ study says](https://www.japantimes.co.jp/business/2024/11/29/economy/japan-deflation-stimulus/ "Stimulus staved off years of deflation, BOJ study says")
+[Saudi Arabia abandons pursuit of U.S. defense treaty over Israel stalemate](https://www.japantimes.co.jp/news/2024/11/30/world/politics/saudi-arabia-us-defense-treaty-israel/ "Saudi Arabia abandons pursuit of U.S. defense treaty over Israel stalemate")
 
-11 hours ago
+2 hours ago
 
-[Japan earmarks extra ¥1.5 trillion for chips and AI this year](https://www.japantimes.co.jp/business/2024/11/29/tech/japan-budget-chips-tech/ "Japan earmarks extra ¥1.5 trillion for chips and AI this year")
+[Canada’s Justin Trudeau arrives in Florida for meeting with Trump](https://www.japantimes.co.jp/news/2024/11/30/world/politics/canada-trudeu-trump-tariffs/ "Canada’s Justin Trudeau arrives in Florida for meeting with Trump")
 
-11 hours ago
+2 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
