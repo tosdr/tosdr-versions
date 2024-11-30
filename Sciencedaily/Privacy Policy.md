@@ -236,11 +236,11 @@ this week
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Nanotechnology](https://www.sciencedaily.com/news/matter_energy/nanotechnology/)
-
 [Electronics](https://www.sciencedaily.com/news/matter_energy/electronics/)
 
-[Graphene](https://www.sciencedaily.com/news/matter_energy/graphene/)
+[Nanotechnology](https://www.sciencedaily.com/news/matter_energy/nanotechnology/)
+
+[Spintronics](https://www.sciencedaily.com/news/matter_energy/spintronics/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
