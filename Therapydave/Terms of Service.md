@@ -1,7 +1,7 @@
 * [Skip to primary navigation](#genesis-nav-primary)
 * [Skip to main content](#genesis-content)
 
-[![TherapyDave](https://therapydave.com/wp-content/uploads/therapydave-eugene-oregon.png)](https://therapydave.com/)
+ [![TherapyDave](https://therapydave.com/wp-content/uploads/therapydave-lechnyr.png)](https://therapydave.com/)
 
 TherapyDave
 
@@ -21,7 +21,7 @@ Terms of Service
 
 Terms of Service for TherapyDave.com
 
-The following Terms of Services (the “Agreement”) govern your access to and use of this website, [therapydave.com](https://therapydave.com/), and any of its services (collectively referred to as the “Site”). This website is owned and operated by DTSC, LLC d/b/a TherapyDave, a licensed therapy provider in Oregon and Arizona (the “Company”).
+The following Terms of Services (the “Agreement”) govern your access to and use of this website, [therapydave.com](https://therapydave.com/), and any of its services (collectively referred to as the “Site”). This website is owned and operated by TherapyDave™ (the “Company”).
 
 When the terms “we,” “us,” “our,” or similar are used in this Agreement, they refer to the Company.
 
@@ -146,11 +146,13 @@ If you have any questions or concerns about this Agreement, please contact us at
 
 _Last updated: November 14, 2024_
 
-_“Working with Dave has been transformative for us as a couple. He's straightforward and practical, which was exactly what we needed to tackle the day-to-day challenges of moving back in together after two years of long distance. At the same time, he’s been incredibly supportive in helping us slowly unpack and address the deeper issues we’ve both been carrying. It's a relief to finally feel like we’re making real progress, both as individuals and as a couple, with someone who genuinely understands the balance we need.”_
+_“Dave has a unique ability to create a safe, non-judgmental space where I felt comfortable sharing my deepest fears and vulnerabilities. His guidance and support have been invaluable in helping me navigate a difficult period in my life. I’m grateful for his expertise and compassion.”_
 
 [Get Started Now](https://therapydave.com/therapist-appointments/)
 
-Dave Lechnyr, LCSW  
+ [![TherapyDave](https://therapydave.com/wp-content/uploads/therapydave-eugene.png)](https://therapydave.com/)
+
+Dave Lechnyr, LCSW · TherapyDave™  
 Certified Gottman Therapist  
 2440 Willamette Street, Suite 101-C  
 Eugene, OR 97405-3170  
