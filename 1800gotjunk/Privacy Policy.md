@@ -629,6 +629,14 @@ John Ricci Calgary 22/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Great customer service and speedy removal - highly recommend!
+
+Holly Shaw Calgary 21/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Excellent service
 
 Wade Stewart Calgary 21/11/2024
@@ -640,14 +648,6 @@ Wade Stewart Calgary 21/11/2024
 Great work gave me a good deal.
 
 rens harkema Calgary 21/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Great customer service and speedy removal - highly recommend!
-
-Holly Shaw Calgary 21/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -885,22 +885,6 @@ Melanie Carey Monteregie Metro 19/04/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-This duel was awesome! Very friendly. Great customer service. Earlier than expected. Quick and easy!
-
-Sarah Choy Seattle 23/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-John and Marci did a great job. They took all of my junk 10 out of 10.
-
-James Mategko Seattle 23/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Andre and Alex were awesome! Really professional and efficient!
 
 Julie Deming Wisconsin 23/11/2024
@@ -1024,6 +1008,22 @@ Jerry Locke Wisconsin 23/11/2024
 Gio + Kegan were GREAT! Efficient, professional and kind! Got the job done!
 
 Mary Parker Naples 23/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+This duel was awesome! Very friendly. Great customer service. Earlier than expected. Quick and easy!
+
+Sarah Choy Seattle 23/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+John and Marci did a great job. They took all of my junk 10 out of 10.
+
+James Mategko Seattle 23/11/2024
 
 ### 
 
