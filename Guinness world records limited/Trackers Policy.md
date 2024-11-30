@@ -143,6 +143,31 @@ Additionally, GWR also uses software provided by Pardot to track all visitors to
 
 Twitter will also set Google Analytics cookies when you access the site as part of the display of our Twitter feed on the Site for the same purpose as outlined above.
 
+**Naver Corporation Cookies**
+
+Our website uses NAVER Tracker, a web analytics tool provided by NAVER Corporation, to measure and optimize the effectiveness of our Search Engine Marketing (SEM) campaigns conducted on NAVER’s platform.  This tracker places certain cookies on your browser to help us analyse user interactions and improve the overall performance of our website and advertising efforts.   
+
+**Name of Cookie:   NWB**
+
+**Name of Cookie:  NWB\_Legacy**
+
+**Name of Cookie:  NWB\_SAC**
+
+Via Naver, we may collect the following types of information:
+
+* Campaign and advertising interactions: Engagement with advertisements linked to our SEM campaigns on NAVER.
+* Browsing behaviour: Pages visited, session duration, and navigation patterns.
+* Technical information: Device type, operating system, browser type, and IP address (anonymized where required).
+
+The data collected is used for analytics purposes, including:
+
+* Measuring traffic and user behavior originating from our SEM campaigns on NAVER.
+* Assessing the performance and effectiveness of advertisements.
+* Optimizing website functionality and user experience based on campaign results.
+
+The collected information may be shared with NAVER Corporation solely to enhance the delivery and performance of their analytics services.  
+For further information about how NAVER processes your data, please refer to the NAVER Privacy Policy [https://policy.naver.com/policy/privacy\_en.html](https://policy.naver.com/policy/privacy_en.html)
+
 **3\. Functionality Cookies** 
 
 We use these type of cookies to remember your preferences on the Site. The primary example of such usage is to allow us to remember your details where you login to your account, so you don’t have to do this each time you visit the Site. 
@@ -170,6 +195,8 @@ Apart from abovementioned providers, we may also use other third party services 
 We and advertisers we work with use cookies to display advertisements that may be of interest to you. For example, if you have looked at a particular product on a site visited prior to visiting the Site, the provider of the product may think you are interested in the product and display an advertisement for the same product on the Site through a third party ad network. It is important to note that we do not disclose your identity to the advertiser, and such advertisers will only have access to your personal information if you decide to supply it directly to them whether through the advertisement or otherwise.
 
 We use the services of Ezoic Limited (“Ezoic”) to deliver interest-based ads, content and services to you on our site. To enable this service to work, we allow Ezoic to collect certain anonymous information from our website users (e.g., online identifiers and browsing activity) so that Ezoic can serve ads that are more likely to interest you. For more information about what information Ezoic collects and how they store and use it, please see [Ezoic’s privacy policy here.](https://www.ezoic.com/privacy-policy "Ezoic’s privacy policy here")
+
+The Naver Corporation cookies mentioned in the Performance section above, may also be used for advertising purposes.
 
 ### How to find and control your cookies
 
