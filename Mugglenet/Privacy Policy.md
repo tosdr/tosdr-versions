@@ -296,15 +296,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Sycamore wands are known to combust if they grow bored from a lack of excitement.
+Remus Lupin’s condition of lycanthropy is a metaphor for AIDS.
 
 ### Potter History
 
-August 13, 2006 – Daniel Radcliffe said that he “will bare it all” upon assuming the role of Alan Strang in London’s West End play, Equus.
+August 8, 2012 – The Harry Potter series is voted the best ever teen fiction book series in a poll on NPR.
 
 ### Potter Quote
 
-“Give her hell from us, Peeves.”
+“I’ve got to do it! He’ll kill me! He’ll kill my whole family!”
 
 [](#)
 
