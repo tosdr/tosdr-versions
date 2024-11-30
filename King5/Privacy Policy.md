@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/afcf2a83-bc1b-4b99-a8ba-7c55196b88a4/20241130T184527/afcf2a83-bc1b-4b99-a8ba-7c55196b88a4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/afcf2a83-bc1b-4b99-a8ba-7c55196b88a4/20241130T184527/afcf2a83-bc1b-4b99-a8ba-7c55196b88a4_360x203.jpg)](https://www.king5.com/article/news/local/redmond-nonprofit-calls-community-holiday-toy-gift-card-drive/281-e0330d05-d426-46ab-a6ea-3b70119bd82c)
+        
+        #### [Redmond nonprofit calls on community for holiday toy and gift card drive](https://www.king5.com/article/news/local/redmond-nonprofit-calls-community-holiday-toy-gift-card-drive/281-e0330d05-d426-46ab-a6ea-3b70119bd82c)
+        
     *  [![](https://media.king5.com/assets/KING/images/df33c8a8-aa03-4165-b517-41f1b69f2bde/20241130T071856/df33c8a8-aa03-4165-b517-41f1b69f2bde_16x9.jpg) ![](https://media.king5.com/assets/KING/images/df33c8a8-aa03-4165-b517-41f1b69f2bde/20241130T071856/df33c8a8-aa03-4165-b517-41f1b69f2bde_360x203.jpg)](https://www.king5.com/article/news/local/bellevue-police-cracking-down-retail-theft-holiday-shopping-season/281-d119e846-41e6-491f-9096-3ebdd76a200a)
         
         #### [Bellevue police cracking down on retail theft this holiday shopping season](https://www.king5.com/article/news/local/bellevue-police-cracking-down-retail-theft-holiday-shopping-season/281-d119e846-41e6-491f-9096-3ebdd76a200a)
-        
-    *  [![](https://media.king5.com/assets/KING/images/e78f7344-35f5-4430-9df8-44d62fec1645/20241130T030751/e78f7344-35f5-4430-9df8-44d62fec1645_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e78f7344-35f5-4430-9df8-44d62fec1645/20241130T030751/e78f7344-35f5-4430-9df8-44d62fec1645_360x203.jpg)](https://www.king5.com/article/news/local/stevens-pass-opens-skiers-snowboarders-winter-season/281-4e4ea0e6-2706-4102-9b70-cfc6c26dc590)
-        
-        #### [Stevens Pass opens to skiers, snowboarders for the winter season](https://www.king5.com/article/news/local/stevens-pass-opens-skiers-snowboarders-winter-season/281-4e4ea0e6-2706-4102-9b70-cfc6c26dc590)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/73bdab74-8810-4465-8552-01e6f17d9a8f/20241130T063921/73bdab74-8810-4465-8552-01e6f17d9a8f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/73bdab74-8810-4465-8552-01e6f17d9a8f/20241130T063921/73bdab74-8810-4465-8552-01e6f17d9a8f_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/CCT/images/ba7d2016-edeb-449f-901e-b97ec0d6ce44/20241130T192614/ba7d2016-edeb-449f-901e-b97ec0d6ce44_16x9.jpg) ![](https://media.king5.com/assets/CCT/images/ba7d2016-edeb-449f-901e-b97ec0d6ce44/20241130T192614/ba7d2016-edeb-449f-901e-b97ec0d6ce44_360x203.jpg)](https://www.king5.com/article/news/nation-world/heavy-snow-blankets-parts-of-the-us/507-44798a84-f4e7-4d84-bf29-ebe649f73efb)
+        
+        #### [Heavy snow blankets parts of the US during busy holiday travel weekend](https://www.king5.com/article/news/nation-world/heavy-snow-blankets-parts-of-the-us/507-44798a84-f4e7-4d84-bf29-ebe649f73efb)
+        
+    *  [![](https://media.king5.com/assets/KING/images/88ce5451-b423-43de-bdd1-df1d89bf700d/20241130T163126/88ce5451-b423-43de-bdd1-df1d89bf700d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/88ce5451-b423-43de-bdd1-df1d89bf700d/20241130T163126/88ce5451-b423-43de-bdd1-df1d89bf700d_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
-    *  [![](https://media.king5.com/assets/KING/images/df767be0-523a-434f-809f-a9cdb06ea797/20240812T163051/df767be0-523a-434f-809f-a9cdb06ea797_16x9.jpg) ![](https://media.king5.com/assets/KING/images/df767be0-523a-434f-809f-a9cdb06ea797/20240812T163051/df767be0-523a-434f-809f-a9cdb06ea797_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/northern-lights-visible-thursday-friday-weather-washington/281-8bf111b8-a8d4-42a5-b575-19c64b446856)
-        
-        #### [Northern lights may be visible on Thanksgiving - but it will be cloudy in western Washington](https://www.king5.com/article/weather/weather-blog/northern-lights-visible-thursday-friday-weather-washington/281-8bf111b8-a8d4-42a5-b575-19c64b446856)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-38°
+45°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-night_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
