@@ -118,6 +118,8 @@ Ok](https://www.emp-online.com/?forceThisShop=1)
     
 * [Top Brands](https://www.emp-online.com/clothing-brands/men/)
     
+* [Brands by EMP](https://www.emp-online.com/clothing-brands/brands-by-emp/men/?prefn1=gender&prefv1=3%7C1)
+    
 * [Topics](https://www.emp-online.com/topics/)
     
 * [Young Rebels](https://www.emp-online.com/next-gen/men/)
@@ -139,12 +141,6 @@ Ok](https://www.emp-online.com/?forceThisShop=1)
     
 
 Search catalogue  Clear Search
-
-[](https://www.emp-online.com/winter-is-coming/ "Stay warm, look cool!")
-
-Winter Is Coming!
-
-[Stay warm, look cool!](https://www.emp-online.com/winter-is-coming/ "Stay warm, look cool!")
 
 Your browser's Javascript functionality is turned off.
 
@@ -323,7 +319,7 @@ Subscribe
 
 Our customer services are here for you
 
-Today our customer service is available from 9:00 AM am to 5:30 PM pm. [More Info](https://www.emp-online.com/contact)
+Available again: Monday from 9:00 AM to 5:30 PM . [More Info](https://www.emp-online.com/contact)
 
 Start chat
 
