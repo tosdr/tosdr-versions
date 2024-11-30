@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Great support as usual. You guys are doing a first class job.
+Thank you very much for your understanding and co-operation. That's very professional and ethical of you.
 
-Frederic Delaroche
+Paul Kube
