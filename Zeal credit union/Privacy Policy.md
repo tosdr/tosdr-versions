@@ -16,11 +16,7 @@ Routing Number: 272477694
 
 [![Locations](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "location-icon--orange")
 
-![Locations](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "location-icon--orange")
-
 ![Locations](https://www.zealcu.org/wp-content/uploads/2020/02/location-icon-orange.svg "location-icon--orange")
-
-![Locations](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "location-icon--orange")
 
 ![Locations](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "location-icon--orange")
 
@@ -44,11 +40,7 @@ Routing Number: 272477694
 
 [![Locations](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "location-icon--orange")
 
-![Locations](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "location-icon--orange")
-
 ![Locations](https://www.zealcu.org/wp-content/uploads/2020/02/location-icon-orange.svg "location-icon--orange")
-
-![Locations](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "location-icon--orange")
 
 ![Locations](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "location-icon--orange")
 
@@ -181,8 +173,6 @@ Log In
     
     * [![Mortgage](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        ![Mortgage](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
         ![Mortgage](https://www.zealcu.org/wp-content/uploads/2020/03/mortgage_loan_rates_orange_outline.svg)
         
         Mortgage
@@ -190,8 +180,6 @@ Log In
         For current rates, visit MortgageCenter.com/Zeal/rates/purchase](https://mortgagecenter.com/zeal/rates/purchase "Rates")
         
     * [![Auto](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        ![Auto](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         ![Auto](https://www.zealcu.org/wp-content/uploads/2020/03/auto_loan_orange_outline_1.svg)
         
@@ -203,8 +191,6 @@ Log In
         
     * [![CDs & IRAs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        ![CDs & IRAs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
         ![CDs & IRAs](https://www.zealcu.org/wp-content/uploads/2020/03/CDs_IRAs_orange_outline.svg)
         
         CDs & IRAs
@@ -214,8 +200,6 @@ Log In
         APY\*](https://www.zealcu.org/rates/#cds_ira_rates_anchor "Rates")
         
     * [![Ultra Savings](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        ![Ultra Savings](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         ![Ultra Savings](https://www.zealcu.org/wp-content/uploads/2020/03/savings_rates_orange_outline.svg)
         
@@ -363,8 +347,6 @@ Log In
     
     * [![Mortgage](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        ![Mortgage](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
         ![Mortgage](https://www.zealcu.org/wp-content/uploads/2020/03/mortgage_loan_rates_orange_outline.svg)
         
         Mortgage
@@ -372,8 +354,6 @@ Log In
         For current rates, visit MortgageCenter.com/Zeal/rates/purchase](https://mortgagecenter.com/zeal/rates/purchase "Rates")
         
     * [![Auto](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        ![Auto](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         ![Auto](https://www.zealcu.org/wp-content/uploads/2020/03/auto_loan_orange_outline_1.svg)
         
@@ -385,8 +365,6 @@ Log In
         
     * [![CDs & IRAs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        ![CDs & IRAs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
         ![CDs & IRAs](https://www.zealcu.org/wp-content/uploads/2020/03/CDs_IRAs_orange_outline.svg)
         
         CDs & IRAs
@@ -396,8 +374,6 @@ Log In
         APY\*](https://www.zealcu.org/rates/#cds_ira_rates_anchor "Rates")
         
     * [![Ultra Savings](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        ![Ultra Savings](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         ![Ultra Savings](https://www.zealcu.org/wp-content/uploads/2020/03/savings_rates_orange_outline.svg)
         
