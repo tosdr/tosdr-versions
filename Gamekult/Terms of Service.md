@@ -16,7 +16,7 @@ Découvrez tous nos contenus exclusifs (tests, vidéos, podcasts…) en illimit�
 
 En ce moment
 
-[Silent Hill 2](https://www.gamekult.com/jeux/silent-hill-2-remake-3050886267.html) [The Legend of Zelda : Echoes of Wisdom](https://www.gamekult.com/jeux/the-legend-of-zelda-echoes-of-wisdom-3050887733.html) [Astro Bot](https://www.gamekult.com/jeux/astro-bot-3050887652.html) [Star Wars Outlaws](https://www.gamekult.com/jeux/star-wars-outlaws-3050886905.html) [Black Myth : Wukong](https://www.gamekult.com/jeux/black-myth-wu-kong-3050882675.html) [Stellar Blade](https://www.gamekult.com/jeux/project-eve-3050880487.html)
+[Indiana Jones et le Cercle Ancien](https://www.gamekult.com/jeux/indiana-jones-3050883203.html) [Dragon Quest III HD-2D Remake](https://www.gamekult.com/jeux/dragon-quest-iii-hd-2d-3050883829.html) [Dragon Age : The Veilguard](https://www.gamekult.com/jeux/dragon-age-4-3050881109.html) [Silent Hill 2](https://www.gamekult.com/jeux/silent-hill-2-remake-3050886267.html) [The Legend of Zelda : Echoes of Wisdom](https://www.gamekult.com/jeux/the-legend-of-zelda-echoes-of-wisdom-3050887733.html) [Astro Bot](https://www.gamekult.com/jeux/astro-bot-3050887652.html)
 
 * [Émissions](https://www.gamekult.com/emissions.html)
 * [News](https://www.gamekult.com/actualite.html)
