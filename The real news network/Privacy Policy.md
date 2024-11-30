@@ -82,7 +82,7 @@ Trending Posts
 * [What a can of tuna can teach us about international workers' solidarity](https://therealnews.com/what-a-can-of-tuna-can-teach-us-about-international-workers-solidarity)
 * [Why did Democrats lose? Just listen to the voters.](https://therealnews.com/why-did-democrats-lose-just-listen-to-the-voters)
 * ['Ascension Hospital...is making a mockery of the Church doctrine': Baltimore Catholic nurses picket Bishops for fair contract](https://therealnews.com/ascension-hospital-is-making-a-mockery-of-the-church-doctrine-baltimore-catholic-nurses-picket-bishops-for-fair-contract)
-* [Unmarked Sacramento gang unit cops stop, arrest father and child at gunpoint](https://therealnews.com/unmarked-sacramento-gang-unit-cops-stop-arrest-father-and-child-at-gunpoint)
+* [Solidarity or Jewish supremacy? The moral choice facing Judaism](https://therealnews.com/solidarity-or-jewish-supremacy-the-moral-choice-facing-judaism)
 
 Close
 
@@ -146,7 +146,7 @@ Trending Posts
 * [What a can of tuna can teach us about international workers' solidarity](https://therealnews.com/what-a-can-of-tuna-can-teach-us-about-international-workers-solidarity)
 * [Why did Democrats lose? Just listen to the voters.](https://therealnews.com/why-did-democrats-lose-just-listen-to-the-voters)
 * ['Ascension Hospital...is making a mockery of the Church doctrine': Baltimore Catholic nurses picket Bishops for fair contract](https://therealnews.com/ascension-hospital-is-making-a-mockery-of-the-church-doctrine-baltimore-catholic-nurses-picket-bishops-for-fair-contract)
-* [Unmarked Sacramento gang unit cops stop, arrest father and child at gunpoint](https://therealnews.com/unmarked-sacramento-gang-unit-cops-stop-arrest-father-and-child-at-gunpoint)
+* [Solidarity or Jewish supremacy? The moral choice facing Judaism](https://therealnews.com/solidarity-or-jewish-supremacy-the-moral-choice-facing-judaism)
 
 [Skip to content](#main)
 
