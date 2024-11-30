@@ -14,4 +14,4 @@ Opera
 
 Firefox
 
-![](/?act=no_js&hash=7a44077411cece3aea)
+![](/?act=no_js&hash=6e9fbdbd262eb870fa)
