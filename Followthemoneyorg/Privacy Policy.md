@@ -66,9 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![reynolds 2011-12](/assets/logos/ReynoldsAmericanByRecipient2011-12.png)](http://www.followthemoney.org/research/institute-research/big-tobacco-wins-tax-battles)
+[![pro-guncontrol](/assets/logos/NRAGunGIvingProCon201112.png)](http://www.followthemoney.org/research/institute-research/nra-direct-contributions-decline)
 
-Look at this tobacco giant’s giving.
+Pro-gun-control was dramatically outspent, 2011-12.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
