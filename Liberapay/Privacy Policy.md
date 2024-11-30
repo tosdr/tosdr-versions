@@ -11,7 +11,7 @@
     * [Italiano](https://it.liberapay.com/about/privacy)
     * [Magyar](https://hu.liberapay.com/about/privacy)
     * [Melayu](https://ms.liberapay.com/about/privacy)
-    * [Nederlands   (1% machine translated)](https://nl.liberapay.com/about/privacy)
+    * [Nederlands](https://nl.liberapay.com/about/privacy)
     * [Norsk bokmål   (20% machine translated)](https://nb.liberapay.com/about/privacy)
     * [Polski](https://pl.liberapay.com/about/privacy)
     * [Português   (2% machine translated)](https://pt.liberapay.com/about/privacy)
