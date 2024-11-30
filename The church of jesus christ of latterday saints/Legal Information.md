@@ -43,6 +43,8 @@ We may also use your data to comply with applicable laws and exercise legal righ
 
 We may also use your personal data for internal purposes, including auditing, data analysis, system troubleshooting, and research. In these cases, we base our processing on legitimate interests in performing the activities of the Church.
 
+**Text and Messaging**: For messaging in the United States and Canada, please see our [Text and Messaging Terms and Conditions (Updated 2022-10-20)](https://www.churchofjesuschrist.org/legal/textmessaging?lang=eng&country=go).
+
 **4\. With whom do we share personal data?**
 
 We share your personal data with other parties in the following circumstances:
