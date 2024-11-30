@@ -590,7 +590,7 @@ Kopieren
 
 [](#)
 
-[![Exitkey](/fileadmin/_processed_/6/c/csm_exitkey_390x615px_2_a3cd29a02e.png)](https://ref.blocktrainer.de/exitkey/ws/blocktrainer-empfehlungslinks/logo-banner)
+[![Blocktrainer Patenschaft](/fileadmin/_processed_/9/e/csm_blocktrainer_box_17e9184473.png)](https://www.blocktrainer.de/unterstuetze-uns)
 
 **Privatsphäre-Einstellungen**
 
