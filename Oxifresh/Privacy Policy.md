@@ -385,15 +385,15 @@ What Customers Are Saying
 
 Based on 305,469 Carpet Cleaning Services Reviews
 
-I was very very happy with Harsh who came to do the cleaning; he was friendly , polite and very professional. He was completely client-oriented, you couldn't ask for better. In addition to his doing a good job, there was very prompt replies from Oxi Fresh to me about the followup questions I had. **NG.** - Toronto, ON - 11/29/2024
+**NP.** - MANITOWOC, WI - 11/29/2024
 
-(5.0 Out of 5 stars)
+(4.5 Out of 5 stars)
 
-Joey did a fantastic job on my old dirty carpets. I have 4 dogs and 3 cats and have always had several pets so the carpets were pretty stained but he managed to get the stains, even the older ones, completely out. I am really impressed! **JR.** - Valley Center, KS - 11/29/2024
+**CA.** - Conway, SC - 11/29/2024
 
-(5.0 Out of 5 stars)
+(4.5 Out of 5 stars)
 
-Drying time with 1 hr and no dumping of water into gutters and irritating the neighbors. **RM.** - Cathedral City, CA - 11/28/2024
+The customer service representatives are very nice courteous and patient each time I’ve used your services. The technicians are always kind and do a very, very good job. If they’re going to be late, they always communicate and let me know ahead of time. I do recommend your company to a lot of people you guys are awesome. I love that your solutions are not harmful to me or my pet. **VW.** - San Antonio, TX - 11/28/2024
 
 (5.0 Out of 5 stars)
 
