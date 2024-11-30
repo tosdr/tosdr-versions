@@ -31,6 +31,604 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Daniel Noboa devolvió archivo de la ley de lavado de activos a la Asamblea Nacional
+===================================================================================
+
+El presidente Daniel Noboa insiste a la Asamblea Nacional en el tratamiento de la ley de lavado de activos.
+-----------------------------------------------------------------------------------------------------------
+
+![El presidente Daniel Noboa pide el tratamiento de la 'ley antipillos' a la Asamblea Nacional.](https://www.elcomercio.com/wp-content/uploads/2024/11/noboa-va.jpg)
+
+La **Asamblea Nacional** negó y archivó el proyecto de **Ley Orgánica para la Mejora Recaudatoria a través del Combate al Lavado de Activos,** presentado por **Daniel Noboa**, o como la llama el gobierno **‘Ley Antipillos’.**
+
+La decisión de la **Asamblea Nacional** fue publicada en el Registro Oficial el 28 de noviembre de 2024, en el Quinto Suplemento Número 693.
+
+### Más noticias
+
+* [Proyecto archivado y negado por la Asamblea es publicado en el Registro Oficial](https://www.elcomercio.com/actualidad/politica/proyecto-archivado-negado-por-asamblea-publicado-registro-oficial.html "https://www.elcomercio.com/actualidad/politica/proyecto-archivado-negado-por-asamblea-publicado-registro-oficial.html")
+* [Asamblea Nacional aprobó avance del proyecto de alivio financiero a segundo debate](https://www.elcomercio.com/actualidad/politica/asamblea-nacional-aprueba-avance-proyecto-alivio-financiero-segundo-debate.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/actualidad/politica/asamblea-nacional-aprueba-avance-proyecto-alivio-financiero-segundo-debate.html?source=Internal&ref=Single+Content+Link")
+* [Corte Constitucional habilita trámite de reforma parcial a la Asamblea](https://www.elcomercio.com/actualidad/politica/corte-constitucional-habilita-tramite-reforma-parcial-asamblea-nacional.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/actualidad/politica/corte-constitucional-habilita-tramite-reforma-parcial-asamblea-nacional.html?source=Internal&ref=Single+Content+Link")
+
+Sin embargo, el **Ministerio de Gobierno** informó este **sábado 30 de noviembre** que se devolvieron las resoluciones sobre este proyecto de la **‘Ley Antipillos’** a la **Asamblea Nacional.**
+
+En el comunicado se indica que ‘se devolvieron a la Asamblea la Resolución Nro. RL-2023-2025-137 y el oficio Nro. AN-SG-2024-0773-O, emitidos los días 27 y 28 de noviembre’.
+
+La comunicación manifiesta que “la vieja política que actúa en la Asamblea Nacional no solo busca frenar la ‘**Ley Antipillos’,** una herramienta vital para golpear a las mafias, sino que pretende mantener abierta la puerta del financiamiento de los grupos narco-delictivos para que sigan ganando poder”.
+
+Adicionalmente, advierte que esto no es un simple trámite legislativo: es un ataque directo a la seguridad del país.
+
+Ley de lavado de activos o ‘Ley antipillos’ se analizó en primer debate en la Asamblea
+--------------------------------------------------------------------------------------
+
+Según un comunicado del Ministerio de Gobierno, sectores de la política tradicional bloquean la aprobación de la **‘Ley Antipillos’**. Con este proyecto se busca debilitar el financiamiento de grupos narco-delictivos.
+
+Lejos de ser un trámite legislativo ordinario, el Gobierno catalogó este enfrentamiento como un ataque directo a la seguridad nacional.
+
+“El país no puede permitir que las mafias ganen esta batalla”, se lee en el comunicado. Se recalca la importancia de la **‘Ley Antipillos’** como herramienta para enfrentar las redes criminales.
+
+El mensaje también envía una clara advertencia a los asambleístas: cualquier maniobra que intente retrasar o desestimar este proyecto será confrontada por el Gobierno.
+
+Recordó a los asambleístas que los tiempos establecidos para el trámite de la **‘Ley Antipillos’** siguen su curso, por lo que el Gobierno, en su momento, sabrá responder con base en la Constitución.
+
+Las autoridades insistieron en que los plazos establecidos para el análisis del proyecto de la **ley de lavado de activos** se mantienen vigentes y han advertido que responderán conforme a la Constitución.
+
+La resolución en la Asamblea Nacional sobre la ‘Ley Antipillos’
+---------------------------------------------------------------
+
+Según la resolución de la **Asamblea Nacional**, el archivo se realizó de conformidad con los artículos 140 de la Constitución y 60 de la Ley Orgánica de la Función Legislativa.
+
+Con esto, el tratamiento constitucional del proyecto quedó concluido, notificándose al Ejecutivo y enviando el documento al Registro Oficial.
+
+El secretario general de la Asamblea Nacional, Alejandro Muñoz, enfatizó que este proyecto no puede pasar por el Ministerio de la Ley. Hizo énfasis en esto, debido a que el Legislativo se pronunció en el tiempo establecido. Citó el artículo 140 de la Constitución, que regula los plazos para proyectos urgentes en materia económica[.](https://es.wikipedia.org/wiki/Asamblea_Nacional_del_Ecuador "https://es.wikipedia.org/wiki/Asamblea_Nacional_del_Ecuador")
+
+Esta tensión entre el Ejecutivo y la Asamblea Nacional refleja la creciente presión sobre las instituciones para abordar las amenazas del narcotráfico y otros delitos transnacionales que afectan al Ecuador.
+
+La **Ley Orgánica para la Mejora Recaudatoria a través del Combate al Lavado de Activos,** de **Daniel Noboa**, tuvo el tratamiento en primer debate en la Asamblea Nacional. El archivo se realizó en esa instancia, por lo que no llegó a su segundo debate.
+
+Te recomendamos los eventos de las fiestas de Quito este sábado 30 de noviembre
+===============================================================================
+
+Quito celebra su fundación con música y cultura. Este sábado 30 de noviembre se realizarán varios eventos artísticos.
+---------------------------------------------------------------------------------------------------------------------
+
+![Quito festeja su aniversario de fundación con eventos masivos y fiestas de barrio](https://www.elcomercio.com/wp-content/uploads/2024/11/fiestas-quito-celebracion.jpg)
+
+**Quito** celebra sus 490 años de fundación con **música, cultura y arte**. Según la **agenda oficial** de eventos, la capital tendrá **dos desfiles** y varias presentaciones artísticas en algunos sectores, este sábado 30 de noviembre de 2024
+
+### Más noticias
+
+* [Eventos y cierres viales en Quito este sábado 30 de noviembre](https://www.elcomercio.com/actualidad/quito/eventos-cierres-viales-quito-sabado-30-noviembre.html "Eventos y cierres viales en Quito este sábado 30 de noviembre")
+* [El Metro cumple un año y tiene 15 estaciones para conocer a Quito](https://www.elcomercio.com/actualidad/quito/metro-cumple-tiene-15-estaciones-para-conocer-quito.html "El Metro cumple un año y tiene 15 estaciones para conocer a Quito")
+* [Cortes de luz en Quito este sábado 30 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-sabado-30-noviembre.html "Cortes de luz en Quito este sábado 30 de noviembre")
+
+Desfile de la Confraternidad en la Tribuna del Sur
+--------------------------------------------------
+
+Este **tradicional desfile** contará con la participación de más de 50 instituciones educativas y delegaciones artísticas.
+
+El evento comenzó a partir de las **10:00** y finalizará a las **16:00**.
+
+Los cierres viales por el Desfile de la Confraternidad se realizarán en la **Av. Cardenal de la Torre**, desde la Av. Ajaví hasta la Av. Teniente Hugo Ortiz, en el sur[.](https://www.amt.gob.ec/ "https://www.amt.gob.ec/")
+
+Desfile en La Ronda
+-------------------
+
+En el **centro de Quito**, se realizará otro desfile evento, el **VIII Desfile Cultural Ronda Quiteña**.
+
+Los quiteños recorrerán la **Calle Venezuela**, desde la avenida Julio Matovelle hasta el Bulevar 24 de Mayo.
+
+El evento durará cinco horas, desde las **16:30** a las **21:30**.
+
+Mega Feria Metropolitana del Valle
+----------------------------------
+
+La feria navideña y de emprendimientos Mega Feria Metropolitana se realiza en Conocoto, en el Parque Acosta Soberón, desde el 28 de noviembre.
+
+La feria finalizará este domingo 1 de diciembre, sin embargo, este sábado la Secretaría de Cultura desarrolla un **evento artístico cultural**[.](https://quitocultura.com/ "https://quitocultura.com/")
+
+Eventos artísticos en barrios de Quito
+--------------------------------------
+
+Varios eventos artísticos se realizarán en algunos barrios de Quito este sábado, entre ellos:
+
+* **Carcelén Bajo**: Serenata Quiteña en Parque Ecológico, 18:00 a 21:00
+* **San Juan**: San Juan saluda a Quito en el mercado, 18:00 a 21:00
+* **Centro Histórico**: Feria de emprendimientos y ballet folclórico en la Plaza del Teatro, 09:00 a 22:00
+* **Eugenio Espejo**: Viva Quito y sus melodías en parque Bonanza California, de 09:30 a 17:30
+* **Pacto**: Festival de la caña, cultura y patrimonio en el parque central, de 11:00 a 17:00
+* **Quitopía**: Cultura Urbana Fest en la antigua parada del Trolebús, en La Y, de 11:00 a 15:00
+* **Oriente Quiteño**: Fiestas de Quito AZEA, en las canchas de la Liga, de 15:00 a 21:00
+* **La Kennedy**: Alma y Fiesta Quiteña en el mercado, de 12:00 a 15:00
+* **Quitumbe**: Serenatas en los Barrios, distintas horas
+
+El Leverkusen vence a Union Berlin con un destacado Piero Hincapié
+==================================================================
+
+Piero Hincapié y el Bayer Leverkusen se impusieron ante el Union Berlin y se mantienen en pelea en la Bundesliga.
+-----------------------------------------------------------------------------------------------------------------
+
+![Piero Hincapié con el Bayer Leverkusen en su partido ante el Union Berlin.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-40-4.jpg)
+
+El Bayer Leverkusen se impuso con **Piero Hincapié** ante el Union Berlin en la duodécima fecha de la Bundesliga de Alemania. El conjunto del ecuatoriano consiguió vencer por 1-2 y este se destacó en el fondo.
+
+Las ‘aspirinas’ no abandonan la pelea por el liderato de la **Bundesliga** y con su triunfo se mantuvieron en lo lato de la tabla de posiciones. El conjunto farmacéutico se cimentó en el tercer puesto de la tabla y llegó a las 23 unidades.
+
+### Más noticias:
+
+* [Piero Hincapié se redime con victoria en el Bayer Leverkusen](https://www.elcomercio.com/deportes/futbol/piero-hincapie-victoria-bayer-leverkusen-heidenheim.html "Piero Hincapié se redime con victoria en el Bayer Leverkusen")
+* [La Selección de Ecuador cumple dos años de su última participación en un Mundial](https://www.elcomercio.com/deportes/seleccion-ecuador-mundial-catar-aniversario.html "La Selección de Ecuador cumple dos años de su última participación en un Mundial")
+* [La Selección de Ecuador fue top mundial, ¿qué pasó con sus jugadores?](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-top-ranking-fifa.html "La Selección de Ecuador fue top mundial, ¿qué pasó con sus jugadores?")
+
+Pese a su ascenso, el Leverkusen aún está a seis unidades del **Bayern München**, líder de la competición y que tiene un partido menos. Asimismo, iguala en puntaje con el Eintracht Frankfurt, que es segundo, pero posee mejor gol diferencia.
+
+En su compromiso ante Union Berlin, el DT Xabi Alonso decidió contar con **Piero Hincapié** desde el inicio del cotejo. A su vez, este se mantuvo durante los 90 minutos de juego y su actuación fue en ascenso durante el compromiso.
+
+El Leverkusen pegó primero, pero no sostuvo el resultado
+--------------------------------------------------------
+
+Ni bien empezó el partido, el **Bayer Leverkusen** consiguió ponerse por delante en el marcador gracias a Emmanuel Frimpong. A los dos minutos de juego, el lateral derecho apareció para poner el primer tanto del cotejo[.](https://es.wikipedia.org/wiki/Bayer_Leverkusen)
+
+Después de un rechazo desde la zaga, Alejandro Grimaldo apareció y, en una veloz contra, tiró un centro raso en el área. **Frimpong** apareció para cerrar la pinza y envió el balón al fondo de las redes.
+
+Antes de que acabe el primer tiempo, sin embargo, el Union Berlin se las arregló para volver a emparejar las cosas. **Jeon Woo-Yeong** apareció a los 29′ y con un sólido remate, que Hincapié intentó y no logró cerrar, puso tablas en el marcador, sin embargo, aquello no sería permanente.
+
+Un tanto para definir el compromiso del equipo de Piero Hincapié
+----------------------------------------------------------------
+
+El partido entre el **Leverkusen y el Union Berlin** se definió a los 71 minutos gracias al certero funcionamiento de la delantera de los ‘farmacéuticos’. **Patrik Schick** apareció y aseguró la victoria para su escuadra.
+
+Una vez que el plantel de **Hincapié** se puso por delante, el conjunto contrario intentó aumentar su capacidad y virtud ofensiva, pero el desempeño del ecuatoriano frenó cualquier intento de gol. Asimismo, aquello llevó a que existan más espacios y los rojinegros saquen provecho, aunque no consiguieron aumentar su resultado a favor.
+
+¿Karol G y Feid se casaron en secreto?
+======================================
+
+Los 'fans' de los colombianos Karol G y Feid presumen que los artistas se casaron en secreto luego de que se filtrara una foto.
+-------------------------------------------------------------------------------------------------------------------------------
+
+![Feid y Karol G, dos de los artistas más populares del género urbano](https://www.elcomercio.com/wp-content/uploads/2024/11/karol-g-feid-boda-secreta.jpg)
+
+**Karol G y Feid**, la pareja más popular de **Colombia**, han decidido presumir su relación al público en el último año, luego de mantenerla en **secreto** durante un tiempo. Ahora, sus fanáticos presumen que los artistas se casaron tras filtrarse una **foto** en redes sociales.
+
+### Más noticias
+
+* [Karol G entra al mundo de las muñecas Bratz](https://www.elcomercio.com/tendencias/entretenimiento/karol-g-muneca-bratz-fans-felices.html "Karol G entra al mundo de las muñecas Bratz")
+* [Feid comparte video de su borrachera e indigna a los usuarios de Instagram](https://www.elcomercio.com/tendencias/entretenimiento/feid-video-borracho-instagram-criticas-redes-57.html "Feid comparte video de su borrachera e indigna a los usuarios de Instagram")
+* [Karol G pide disculpas ‘de corazón’ por la canción +57](https://www.elcomercio.com/tendencias/entretenimiento/karol-g-musica-criticas-fans-nueva-cancion-57.html "Karol G pide disculpas ‘de corazón’ por la canción +57")
+
+Ferxxo y la ‘bichota’ se han dejado ver juntos en conciertos, entregas de premios y viajes. Aunque comenzaron como **buenos amigos**, unidos por la música, actualmente la pareja no duda en mostrarse juntos cada vez que pueden.
+
+¿Feid y Karol G se casaron en secreto?
+--------------------------------------
+
+La idea de una supuesta **boda secreta** entre los cantantes urbanos creció luego de una **foto filtrada** en X.
+
+Los seguidores de ambos artistas realizaron varios comentarios y observaciones sobre una imagen de una camiseta difundida en la red social.
+
+La prenda tiene estampada una foto de los artistas mientras brindan, acompañados con velas y arreglos florales[.](https://es.wikipedia.org/wiki/Karol_G "https://es.wikipedia.org/wiki/Karol_G")
+
+La camiseta tiene impresas **dos frases**; la primera dice: **“Feliz aniversario, bebé”** en color naranja y letras grandes; mientras que en la segunda se puede leer las siglas de **“Para un tierno amor”.**
+
+Se presume que la prenda la utilizaba una de las personas del equipo de trabajo de Feid, quien también aparece en la foto.
+
+> ¿Karol G y Feid se casaron?💍  
+>   
+> Feid fue captado recientemente usando una camiseta con una imagen que lo muestra junto a Karol G brindando, ambos vestidos como si estuvieran en una boda.  
+>   
+> ¿Tu que opinas la pareja de música urbana de caso? 👀[#feid](https://twitter.com/hashtag/feid?src=hash&ref_src=twsrc%5Etfw) [#ferxxo](https://twitter.com/hashtag/ferxxo?src=hash&ref_src=twsrc%5Etfw) [#karolg](https://twitter.com/hashtag/karolg?src=hash&ref_src=twsrc%5Etfw) [#labichota](https://twitter.com/hashtag/labichota?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/083zKXC0r5](https://t.co/083zKXC0r5)
+> 
+> — Nuevas Canciones | Música Nueva (@nuevascancion3s) [November 26, 2024](https://twitter.com/nuevascancion3s/status/1861456001095942632?ref_src=twsrc%5Etfw)
+
+Para sus fanáticos, la imagen puede ser una pista de que los reguetoneros decidieron dar el siguiente paso en su relación. Los usuarios señalan que el vestuario y la locación de la foto impresa en la prenda podría ser del **día de su boda** o de su **luna de miel**.
+
+Algunos de los internautas comentaron: “**¿Cómo así que Karol G y Feid se casaron?**”, “los novios celebran aniversarios por si no lo sabían”, “para mí que él le hizo un video para mandarle por el aniversario, por eso todos tienen la remera”.
+
+Otros fans manejan una segunda idea, que la fotografía pueda ser parte de algún **nuevo video** que los cantantes estén planificando.
+
+Martín Kohan, entre el asado, el fútbol, el café y el teléfono, en La Sobremesa
+===============================================================================
+
+El escritor Martín Kohan pasó por los estudios de EL COMERCIO, para La sobremesa con el Señor del Sombrero., sobre los asados, el fútbol y el teléfono.
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![El escritor argentino Martin Kohan pasó por los estudios del podcaste de El Señor del Sombrero.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-66-2.jpg)
+
+**Martín Kohan** es uno de los más importantes **escritores** y **críticos** literarios de **Argentina**. Es un apasionado por **Boca Juniors** y los **cafetines** de **Buenos Aires**, no así con la gastronomía. Sin embargo, accedió a hablar en el podcast **La sobremesa con el Señor del Sombrero** sobre estos temas y sobre uno de sus libros más recientes: el teléfono.
+
+### Más noticias
+
+* [Nuema, Clara, Tributo y Quitu, entre los mejores restaurantes de América Latina](https://www.elcomercio.com/sabores/nuema-clara-tributo-quitu-mejores-restaurantes-america-latina.html "Nuema, Clara, Tributo y Quitu, entre los mejores restaurantes de América Latina")
+* [Cafetería Modelo, 74 años de tradición en la gastronomía de Quito](https://www.elcomercio.com/tendencias/gastronomia/cafeteria-modelo-74-anos-tradicion-gastronomia-quito.html "Cafetería Modelo, 74 años de tradición en la gastronomía de Quito")
+* [Fiestas de Quito, ¿cuál plato define a la quiteñidad?](https://www.elcomercio.com/actualidad/quito/locro-papa-gastronomia-quito.html "Fiestas de Quito, ¿cuál plato define a la quiteñidad?")
+
+¿Quién es Martín Kohan?
+-----------------------
+
+Martin Kohan es profesor de la **Universidad de Buenos Aires (UBA)**. Es un muy destacado crítico y una de las personas que siempre está abierta para dialogar con los medios, sean tradicionales o alternativos.
+
+Es un gran **conversador**, como lo podrán notar en este **podcast**. Es un apasionado por Boca Juniors, un nombre recurrente en esta conversación. Sin embargo, se califica como un **pésimo anfitrión.** Prefiere pasar las horas en los **cafés de Buenos Aires**, en donde puede estar horas leyendo o encontrarse con los amigos para esas charlas interminables, “**como una escuela de todas las cosas”**, como dice el tango.
+
+Además, se califica como alguien **básico para comer**. Su aventura gastronómica va de la mano de su esposa, que es la que busca sabores distintos. Tampoco sabe hacer los asados. ¿Por qué, entonces, está en un segmento gastronómico? Pues por eso mismo: todos comemos y todos tenemos algún plato favorito. Y en ese sentido, **el asado nos une**, y también el fútbol, el café y, por qué no, el teléfono.
+
+Gracias a ese acto tan primitivo de encender el fuego y solamente sazona con sal, que es la manera argentina, y echa la carne al fuego y la herencia italiana de las largas sobremesas, con el vino, el mate y el fernet, en Argentina se viven grandes momentos gastronómicos.
+
+La gastronomía en el fútbol
+---------------------------
+
+En **Quito**, el **estadio** es un epicentro de la gastronomía popular, que ahora llaman “street food”. Incluso queda la duda si se va más para comer y tomar una cerveza que para ver los partidos. Las empanadas de morocho, la guatita, las papas con cuero, fritada, caldos y tantas cosas más son parte del menú. Además, la cerveza pulula por todas partes.
+
+En Buenos Aires, en cambio, nada más elemental que la comida en los estadios, que llaman cancha. La oferta se reduce a choripanes, patys (hamburguesas) y panchos (hot dogs). Aunque ahora, dice Martín, hay el sándwich de bondiola, algo que no le agrada. Está prohibida la venta de cerveza dentro del estadio y hasta algunas cuadras a la redonda, por motivos de seguridad[.](https://es.wikipedia.org/wiki/Mart%C3%ADn_Kohan "https://es.wikipedia.org/wiki/Mart%C3%ADn_Kohan")[](https://es.wikipedia.org/wiki/Mart%C3%ADn_Kohan "https://es.wikipedia.org/wiki/Mart%C3%ADn_Kohan")
+
+El asado lo es todo
+-------------------
+
+Si la comida es poca en los estadios, cuando los **amigos se reúnen** para ver algún **partido importante**, los de la **Selección** argentina, por ejemplo, el **asado es el rey de la causa**. Es casi una **cábala**. Al menos, tiene su **ritual**.
+
+Primero está la manera de encender el fuego. ¿Solo con carbón o también con leña? Hay fundamentalistas que no aceptan siquiera el uso de periódicos o secadoras de pelo, menos aún -pecado mortal- algún aceite o combustible. En ese momento, pierdes la reputación como asador.
+
+**El fuego se prende cuando llegan los amigos**. Se acompaña al parrillero durante todo el proceso con una picada: quesos, papas fritas de funda, morcilla sin pasar por el fuego. No se le ocurra dar indicaciones. Sin embargo, siempre habrá algún impertinente que diga: “ah, le echas la sal durante el asado; yo lo pongo antes”; “¿no será de darle vuelta?”, para **furia del parrillero.**
+
+¿Y el teléfono?
+---------------
+
+**Kohan** publicó hace poco un libro sobre el teléfono. El título es **Hola**, que es como contestan en Argentina al teléfono. Y no era un tema que se podía desaprovechar. Desde que apareció el teléfono, dice, hubo una **modificación en la vida** de las personas, que ya lo analizaron filósofos como **Walter Benjamin,** o novelistas como **Marcel Proust.**
+
+Ahora, con los **celulares**, **solo conservan el nombre de teléfono**. Es, incluso, lo que menos se usa del dispositivo. **El teléfono generaba vínculos a cambio de otros**. “Me parece un cambio de época, porque antes se hablaba a alguien que escuchaba, y te podía interrumpir. Ahora, en cambio, no hay diálogos: hay mensajes, que si bien hay un otro, no es un otro que nos escucha en el momento de la enunciación”.
+
+Mejor es escuchar a **Martín Kohan**, en el **podcast La sobremesa con El Señor del Sombrero.**
+
+Multas en el fútbol ecuatoriano, un problema recurrente
+=======================================================
+
+En esta temporada, varios equipos de la Liga Pro han sido sancionados por distintas situaciones que impactaron directamente en sus puntajes en el torneo.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Emelec es uno de los equipos afectados por las sanciones en el campeonato ecuatoriano.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-29T190247.759.jpg)
+
+Desde hace algunos años, los **clubes del fútbol ecuatoriano** enfrentan serias dificultades para cumplir con sus obligaciones económicas, lo que se traduce en multas y sanciones dentro del campeonato nacional.
+
+Aunque no es un problema reciente, en la presente temporada cuatro equipos sufrieron la resta de puntos en la **Liga Pro**. Otros clubes apenas lograron cumplir con sus compromisos económicos en el último minuto para evitar sanciones, una situación que se repite semana a semana.
+
+Más noticias
+------------
+
+* [Así fue la defensa de Liga de Quito para recuperar los tres puntos](https://www.elcomercio.com/deportes/futbol/defensa-de-liga-de-quito-para-recuperar-tres-puntos-sancion.html "Así fue la defensa de Liga de Quito para recuperar los tres puntos")
+* [Barcelona Sporting Club pagó a Damián Díaz y evitó sanción](https://www.elcomercio.com/deportes/futbol/barcelona-deuda-damian-diaz-pago.html "Barcelona Sporting Club pagó a Damián Díaz y evitó sanción")
+* [Emelec anuncia oficialmente la renuncia de José Pileggi](https://www.elcomercio.com/deportes/emelec-jose-pileggi-renuncia-oficial.html "Emelec anuncia oficialmente la renuncia de José Pileggi")
+
+Multas y sanciones, un tema constante
+-------------------------------------
+
+Andrés Holguín, abogado especializado en derecho deportivo, destacó a _EL COMERCIO_ que este año se dieron **numerosas sanciones**, afectando incluso a clubes considerados “grandes” del país.
+
+“En este año sancionaron a**l Deportivo Cuenca, Emelec, El Nacional y, más recientemente, a Liga de Quito** (este último apeló y logró revertir la sanción)”, explicó Holguín.
+
+El jurista también señaló que esta problemática es aún más frecuente en los torneos de ascenso, como la **Segunda Categoría**. En estas competiciones, equipos han sido eliminados de fases decisivas por deudas e incumplimientos económicos. “Allí se sanciona bastante”, acotó.
+
+¿Por qué ocurre esto?
+---------------------
+
+Existen múltiples razones para este incremento en las sanciones, pero para Juan Francisco Guerrero, abogado que defendió recientemente a Liga de Quito y logró recuperar los tres puntos que se le habían restado, todo se origina en un **problema estructural**.
+
+“El fútbol ecuatoriano **arrastra una crisis económica importante desde hace algunos años** (…). Hay un problema estructural porque los ingresos y los gastos de los clubes no están equilibrados; existen desfases”, explicó Guerrero a _EL COMERCIO_.
+
+Este **desbalance económico** provoca que los clubes no puedan cumplir con sus obligaciones contractuales con jugadores o empleados, lo que genera multas que agravan aún más la situación y, en algunos casos, deriva en sanciones deportivas.
+
+**La necesidad de mejores controles**
+-------------------------------------
+
+Para Guerrero, una de las soluciones a esta crisis pasa por implementar **controles financieros más estrictos y eficaces.** En el pasado, los mecanismos de supervisión eran insuficientes, lo que permitía que los clubes sortearan situaciones críticas sin resolver sus problemas de fondo.
+
+“Los **controles** en el pasado **no eran lo suficientemente rigurosos** desde el punto de vista financiero (…). Esperamos que con la actual federación y los nuevos controles, estas situaciones no se sigan presentando”, añadió el abogado.
+
+Alfonso Quirola, el experimentado que va por su tercera Vuelta Automovilística
+==============================================================================
+
+Alfonso Quirola se perfila para ganar su tercera Vuelta Automovilística al Ecuador a sus 49 años y tras un intenso trajín.
+--------------------------------------------------------------------------------------------------------------------------
+
+![Alfonso Quirola (der.) en la Vuelta Automovilística a Ecuador 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-39-3.jpg)
+
+A sus 49 años, el piloto **Alfonso Quirola** aspira a ganar por tercera vez la Vuelta Automovilística al Ecuador. En esta edición de 2024, el corredor oriundo de Guayaquil ha sido el permanente dominador y aguarda por la última etapa para coronarse, aunque prefiere no adelantar resultados.
+
+Desde que inicio el **evento automovilístico**, el conductor se impuso a sus rivales y se solificó en el liderato general. Este llegó a sacar una ventaja de más de cinco minutos con relación a todos los vehículos de la competencia, así como a los de su categoría.
+
+### Más noticias:
+
+* [Alfonso Quirola vuelve a ganar en la Vuelta Automovilística al Ecuador y saca ventaja](https://www.elcomercio.com/deportes/vuelta-automovilistica-alfonso-quirola-ecuador-etapa-4.html "Alfonso Quirola vuelve a ganar en la Vuelta Automovilística al Ecuador y saca ventaja")
+* [Alfonso Quirola ganó la tercera etapa de la Vuelta Automovilística al Ecuador](https://www.elcomercio.com/deportes/motor/alfonso-quirola-gano-tercera-etapa-vuelta-automovilistica-al-ecuador.html "Alfonso Quirola ganó la tercera etapa de la Vuelta Automovilística al Ecuador")
+* [¿Cómo será la Vuelta al Ecuador de automovilismo 2024?](https://www.elcomercio.com/deportes/vuelta-ecuador-automovilismo-2024-cronograma.html "¿Cómo será la Vuelta al Ecuador de automovilismo 2024?")
+
+“**La Vuelta se termina cuando dan el banderazo final y finalice el último enlace. Espero que las cosas se den como lo han hecho. Cuidaremos el auto y trataremos de llegar, que es lo más importante. Sé que tengo bastante ventaja adelante, pero eso no significa nada**“, señala Quirola a EL COMERCIO al analizar su futuro en el certamen, el cual corre junto a Leo Rojas como copiloto[.](https://es.wikipedia.org/wiki/Automovilismo "https://es.wikipedia.org/wiki/Automovilismo")
+
+Este sábado 30 de noviembre, el guayaquileño volverá a subirse a su automotor y repetir lo que ya hizo en el 2021 y el 2022. De tal forma, este cerrará con broche de oro un recorrido que ha sido desgastante, pero que no le ha causado **mayores inconvenientes**.
+
+Una Vuelta Automovilística intensa y que pone en perspectiva a Quirola
+----------------------------------------------------------------------
+
+Dentro de la **Vuelta Automovilística**, Quirola reconoce que, además de su técnica, uno de los factores que le ha facilitado llegar a la punta ha sido las fallas de otros corredores. Para él, la competencia, además de ser la más importante del país, también es la más difícil.
+
+A lo largo del certamen se ha enfrentado y ha tenido que lidiar con **pisos variables y cambios de estaciones**. La modificación entre asfalto, adoquín, piedra y frío o calor han sido una constante durante los días de carrera.
+
+Pese a que la **Vuelta** es prioridad y falta el último esfuerzo, el corredor no solo tiene en cuenta aquel futuro cercano, sino lo que será el 2025. Para la próxima temporada, este tiene contemplado realizar competencias en el extranjero y en el país, aunque aún se las debe planificar.
+
+Un inicio tempranero, un retiro y regreso glorioso para Alonso Quirola
+----------------------------------------------------------------------
+
+Aunque Quirola se inició en el ciclismo a los **14 años**, sus triunfos le llegaron en su etapa de madurez. Desde aquel momento se mantuvo en el deporte tuerca hasta los 30 y luego enfrentó un **retiro** de otros 14 años hasta su regreso en 2019.
+
+Se alejó de las piestas debido a una enfermedad de su padre y para dedicarle su tiempo, pues el también fue mánager de su equipo. Asimismo, llegaron sus hijos y tuvo que pausar, pero una vez que estos se desarrollaron, este tuvo su **renacer automovilístico.**
+
+“**Creo que ese tiempo que tuve, ese lapso me ayudó para tratar de usar un poco más la cabeza. Von cabeza fría y la experiencia que tenía hace muchísimos años, creo que la estoy aplicando y me están dando resultados** (…) Me quedan poco para estar en el automovilismo y, de ahí sí, a disfrutar de nuevo de la familia”, agrega con la convicción de que aún puede dar y ganar más.
+
+Concierto se canceló por caos e incidentes en la plaza de San Francisco
+=======================================================================
+
+Miles de personas asistieron a un concierto gratuito en la plaza de San Francisco este viernes. El evento se canceló antes de lo previsto.
+------------------------------------------------------------------------------------------------------------------------------------------
+
+![El concierto en la plaza de San Francisco tuvo una concurrencia masiva este viernes](https://www.elcomercio.com/wp-content/uploads/2024/11/concierto-san-francisco.jpg)
+
+**Miles de personas** asistieron a un **concierto** de acceso público que se realizó en la **plaza de San Francisco**, en el centro de Quito, la tarde y noche de este viernes 29 de noviembre de 2024.
+
+### Más noticias
+
+* [Eventos y cierres viales en Quito este sábado 30 de noviembre](https://www.elcomercio.com/actualidad/quito/eventos-cierres-viales-quito-sabado-30-noviembre.html "Eventos y cierres viales en Quito este sábado 30 de noviembre")
+* [El Metro cumple un año y tiene 15 estaciones para conocer a Quito](https://www.elcomercio.com/actualidad/quito/metro-cumple-tiene-15-estaciones-para-conocer-quito.html "El Metro cumple un año y tiene 15 estaciones para conocer a Quito")
+* [Eventos y cierres viales por fiestas de Quito este fin de semana](https://www.elcomercio.com/actualidad/quito/eventos-cierres-viales-fiestas-quito-este-fin-semana.html "Eventos y cierres viales por fiestas de Quito este fin de semana")
+
+En el **evento gratuito** denominado ‘Viva Quito’, organizado por una radio de la ciudad, se iban a presentar varios **artistas nacionales** con motivo de las celebraciones de las fiestas de **fundación** de la ciudad.
+
+El espectáculo comenzó a las **16:00**, pero un contingente de policías, agentes de control y uniformados de tránsito cercaron las calles cercanas a la plaza horas antes.
+
+Según la planificación del evento, el concierto debía culminar entre las **23:00 a 00:00**; sin embargo, la **Intendencia de Pichincha** lo suspendió pasadas las 21:00.
+
+Aglomeración en la plaza de San Francisco
+-----------------------------------------
+
+Personas que acudieron al concierto en el **Centro Histórico** mostraron su molestia en redes sociales, por los desmanes producidos y el caos que se vivió en San Francisco. Los asistentes denunciaron “un **mal manejo en la organización**“.
+
+En las imágenes y videos compartidos por los usuarios se observa a niños y adultos empujados en medio de la **aglomeración**.
+
+Las estrechas calles contenían a la multitud, que trataba de hacerse espacio y buscar un mejor lugar.
+
+Ciudadanos reportaron **personas desmayadas** por la **masiva concentración de gente**[.](https://es.wikipedia.org/wiki/Plaza_de_San_Francisco_(Quito) "https://es.wikipedia.org/wiki/Plaza_de_San_Francisco_(Quito)")
+
+Persona fue atendida por asfixia
+--------------------------------
+
+El ECU 911 confirmó que durante el concierto se registraron **desmanes** en la plaza de San Francisco.
+
+La masiva concurrencia de personas y la falta de espacio causó que una persona presentara **síntomas de asfixia**. Personeros de salud atendieron al ciudadano afectado en el lugar.
+
+Radio se pronunció tras cancelación de concierto
+------------------------------------------------
+
+La radio que organizó el evento se pronunció luego que el concierto fue cancelado.
+
+En un comunicado, el medio **ofreció disculpas** a la ciudadanía por la suspensión y “lamentó la decisión, especialmente, considerando que todos los artistas estaban confirmados y listos en camerinos para sus presentaciones.”
+
+Según detalla el documento, la cancelación del concierto se dio “por **motivos ajenos a la organización**, y en cumplimiento de las disposiciones de la Intendencia de Pichincha”.
+
+“Nos vimos obligados a interrumpir la programación prevista (…) para precautelar la **seguridad** de los asistentes”, explicó el medio de comunicación.
+
+Desde el **Municipio de Quito** se hizo un llamado a la ciudadanía para “vivir la fiesta en paz y a ocupar el espacio público con respeto y en buena vecindad”, enfatizando que la organización del espectáculo no estuvo a cargo de ninguna entidad del cabildo.
+
+Medidas del Alcalde de Quito sobre la carga tributaria se analiza
+=================================================================
+
+El alcalde de Quito, Pabel Muñoz, anunció una serie de medidas, en las que se destacan la reducción de tributos y el uso del presupuesto.
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+![La Patente Municipal fue uno de los tributos más cuestionados. La Alcaldía propuso unificar su valor.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-64-3.jpg)
+
+En la mañana de este **29 de noviembre del 2024** entró a la **Comisión de Presupuesto del Concejo Municipal del Distrito Metropolitano de Quito,** el proyecto de **ordenanza** que contiene las “medidas económicas” del alcalde de Quito, Pabel Muñoz. Contiene nueve acciones que, según el burgomaestre, tienen como propósito aliviar la economía de Quito en medio de la crisis energética.
+
+### Más Noticias
+
+* [Ministerio de Ambiente se refirió a los anuncios de Pabel Muñoz sobre el agua para Quito](https://www.elcomercio.com/actualidad/quito/ministerio-ambiente-anuncios-pabel-munoz-agua-quito.html "Ministerio de Ambiente se refirió a los anuncios de Pabel Muñoz sobre el agua para Quito")
+* [Pabel Muñoz anunció medidas que se aplicarán en Quito por los cortes de luz](https://www.elcomercio.com/actualidad/quito/pabel-munoz-medidas-quito-cortes-luz.html "Pabel Muñoz anunció medidas que se aplicarán en Quito por los cortes de luz")
+* [Patente municipal por actividad económica en Quito: pago único y rebaja](https://www.elcomercio.com/actualidad/quito/patente-municipal-actividad-economica-quito-pago-unico-rebaja.html "Patente municipal por actividad económica en Quito: pago único y rebaja")
+* [Cortes de luz tendrán modificaciones por fiestas de Quito](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-tendran-modificaciones-por-fiestas-de-quito.html "Cortes de luz tendrán modificaciones por fiestas de Quito")
+
+Tres alivios tributarios
+------------------------
+
+Los **tributos** siempre serán uno de los aspectos más **conflictivos** en cualquier iniciativa. En **Quito**, hay un tributo que siempre generó malestar: la **patente municipal** a toda actividad económica que se realice en la ciudad, sean personas naturales o jurídicas, obligadas a llevar contabilidad o no.
+
+En el campo de lo impositivo, la **Alcaldía** de **Quito** propone tres modificaciones. La primera reduce y unifica la **patente municipal** para contribuyentes no obligados a llevar contabilidad. Tendrá una tarifa fija de 15 dólares.
+
+La segunda modificación es el descuento del **50% en la patente para emprendimientos** que consten en el Registro nacional de Emprendedores, para **personas con discapacidad** y para las empresas que se encuentren en el **Distrito de Innovación La Mariscal.** Estos beneficios tendrán una vigencia de cinco, diez y tres años, respectivamente.
+
+La tercera será un alivio en el impuesto a la transferencia de dominio (utilidad y plusvalía). No se pagaría la Contribución Especial de Mejora (CEM), según informa la página oficial del Municipio de Quito.
+
+La Patente, cuestionada desde siempre
+-------------------------------------
+
+**Juan Mogrovejo,** profesor de **Derecho Tributario** de la **Universidad Andina Simón Bolívar**, entiende como una **medida positiva** el alivio tributario del Alcalde. Sin embargo, también reconoce que falta más información sobre el modo de implementarlo.
+
+“En teoría estoy de acuerdo. Habría que ver con otros datos más concisos, pero desde la norma me parece saludable un reconocimiento en el pago de impuestos, especialmente a los pequeños emprendimientos”, dice Mogrovejo.
+
+Esta patente municipal -recuerda- está establecida en el Código Orgánico de Ordenamiento Territorial, Autonomía y Descentralización (**Cootad**). Todo Municipio debe cobrar impuestos por la actividad económica en su ciudad en cinco sectores: comercio, industria, actividad financiera, inmobiliaria y profesional. Y tiene un rango de cobro de 10 a 25 000 dólares.
+
+Este tributo no se cobra a personas bajo relación de dependencia, y “eso ha despertado múltiples cuestionamientos porque se entendió como algo que va **en contra de la igualdad formal.** Se preguntan por qué lo pagan los emprendedores, pero no otros”, dice Mogrovejo.
+
+En cambio, cuando se habla de **transferencia de dominio**, los valores pueden ser muy altos y difíciles para quienes tengan que pagarlos.
+
+Un artista en rebeldía contra la patente
+----------------------------------------
+
+Ese es el caso de **Iván** (pide omitir su apellido), que se dedica a la producción de cine, una actividad que difícilmente deja ganancias, **se declara en rebeldía.** “No les pienso pagar hasta cuando se pueda”, dice con humor.
+
+Ya más en serio, sostiene “que es un impuesto sin estudios técnicos serios ni entiende las características del medio (…) A nosotros nos exigen **RUAC**, **RUC**, pero no hay estímulos ni permiten la inversión y creen que ganamos como si estuviéramos en Estados Unidos”.
+
+Mogrovejo dice algo parecido. Recuerda del uso de información de quienes ejercen actividad económica según los registros del **Sistema de Rentas Internas,** pero **sin un procesamiento** más detenido en las actividades específicas de cada contribuyente y su sector.
+
+Más un deseo que una realidad
+-----------------------------
+
+Quien también mira con cierto agrado las medidas que impulsa Pabel Muñoz está **Mauricio Alarcón**. Forma parte de la organización **Quito cómo vamos**, que se dedica a analizar la calidad de vida en la capital.
+
+“La verdad es que a muchos **nos ha sorprendido gratamente** esta noticia en el sentido de **una Alcaldía** que presente varias **alternativas** para **aliviar** la **dura situación que está viviendo nuestro país** y, particularmente, Quito, en cuanto a la crisis económica”, dice Alarcón.
+
+Dice que el **presupuesto** no se puede tomar en cuenta como **“una medida”**, pues el presupuesto es algo que se tiene planificado desde el año anterior. Sin embargo, “en la forma en que esto se ha venido haciendo en nuestro país, **termina siendo positivo que una institución ejecute el presupuesto** y con eso al menos inyecta algo de capital a la economía”.
+
+Alarcón dirá que lo importante será dar un seguimiento, es decir, conocer mejor los términos de las medidas, además de vigilar su cumplimiento. O, quizá, como dice **Fernando Carrión,** un estudioso de las ciudades y especialmente de Quito, **“es más un deseo que la realidad”**, porque el Municipio tiene una baja capacidad de gasto porque hay una “**metrodependencia**” en el presupuesto.
+
+Según Carrión, el **presupuesto** anual del Municipio de Quito es de **1 000 millones** de dólares. Muñoz anunció que la **ejecución presupuestaria** para noviembre y diciembre será de **200 millones** de dólares. Es decir, un 20% que indica, probablemente, que “están manejando cifras de lo que **no han gastado durante el año** porque el Municipio ha tenido una baja capacidad de inversión”[.](https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito "https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito")
+
+Alivio burocrático
+------------------
+
+Otra de las medidas que Alarcón destaca es la **renovación automática de ciertos permisos** para funcionar en la ciudad, como la Licencia Metropolitana Única para el Ejercicio de Actividades Económicas (**LUAE**). Igualmente, se lo aplicará para el Permiso Único de Comercio Autónomo (**PUCA**).
+
+Las cartas de inversión de dos grupos empresariales privados es otro elemento que ayudará a aliviar la economía de ciertos hogares. Entre estas se encuentran **La Favorita**, que generará 984 empleos permanentes; la otra es de **Intercop**, que dará trabajo a 610 personas.
+
+   
+
+Ca7triel y Paco Amoroso redefinen el trap con un estilo audaz
+=============================================================
+
+Ca7triel y Paco Amoroso muestran su versatilidad en cada presentación.
+----------------------------------------------------------------------
+
+![Ca7riel y Paco Amoroso encienden las redes con su talento. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-29T150757.916.jpg)
+
+El éxito de **Ca7riel y Paco Amoroso** alcanzó nuevas alturas tras su reciente presentación en el **Tiny Desk Concerts** de NPR. Su actuación se volvió viral en ese espacio. ¿Adivinan cuántas visualizaciones sumaron?
+
+### **Más noticias:**
+
+* [La coreana que conquista Ecuador con su voz en coreano, inglés y español](https://www.elcomercio.com/tendencias/entretenimiento/yulia-song-coreana-ecuador-musica-artista-emergente.html "https://www.elcomercio.com/tendencias/entretenimiento/yulia-song-coreana-ecuador-musica-artista-emergente.html")
+* [Un joven que creció en una gasolinera es el rostro del reguetón ‘bueno’](https://www.elcomercio.com/tendencias/entretenimiento/cantante-colombiano-gasolinera-kapo-uwaie.html "https://www.elcomercio.com/tendencias/entretenimiento/cantante-colombiano-gasolinera-kapo-uwaie.html")
+* [Una canción de Justin Bieber ‘revive’ tras la polémica de ‘Diddy’](https://www.elcomercio.com/tendencias/entretenimiento/justin-bieber-diddy-lonely-controversia-fans.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/justin-bieber-diddy-lonely-controversia-fans.html?source=Internal&ref=Single+Content+Link")
+
+**Ca7triel y Paco Amoroso redefinen el trap con un estilo audaz**
+-----------------------------------------------------------------
+
+El Tiny Desk Concerts, que se realizó el 4 de octubre de 2024, mostró su versatilidad musical al adaptar canciones de su álbum **‘Baño María’** a un formato más íntimo y personal, incorporando géneros como jazz, funk y samba.
+
+La dupla argentina, compuesta por Catriel Guerreiro (Ca7riel) y Ulises Guerriero (Paco Amoroso), logró consolidarse en la escena del trap latinoamericano.
+
+Desde el lanzamiento de ‘**Baño María’** en abril de 2024, capturaron la atención de un público más amplio, superando los 1,3 millones de oyentes mensuales en Spotify.
+
+Su estilo **poligénero** mezcla R&B, techno y pop latino; eso les permite destacarse entre sus contemporáneos.
+
+Los artistas compartieron que su éxito se debe a una combinación de talento y una estrategia cuidadosa en redes sociales.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DCXFPiGNKj1/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de GQSpain (@gqspain)](https://www.instagram.com/p/DCXFPiGNKj1/?utm_source=ig_embed&utm_campaign=loading)
+
+En una entrevista reciente, mencionaron que “una persona enfadada vale como tres felices” en términos de interacción digital, lo que refleja su enfoque hacia la viralidad.
+
+Eventos y cierres viales en Quito este sábado 30 de noviembre
+=============================================================
+
+Quito celebra sus 490 años de fundación con ferias, conciertos y encuentros culturales. Este sábado se realizarán dos desfiles.
+-------------------------------------------------------------------------------------------------------------------------------
+
+![Dos desfiles culturales se realizarán en las calles de Quito, este sábado 30 de noviembre](https://www.elcomercio.com/wp-content/uploads/2024/11/cierres-viales-eventos-quito-sabado.jpg)
+
+La Agencia Metropolitana de Tránsito (**AMT**) realizará varios **cierres viales** en Quito, este **sábado 30 de noviembre** de 2024. La circulación vehicular estará suspendida de forma temporal debido a la realización de **eventos culturales** por las fiestas de la ciudad.
+
+### Más noticias
+
+* [El Metro cumple un año y tiene 15 estaciones para conocer a Quito](https://www.elcomercio.com/actualidad/quito/metro-cumple-tiene-15-estaciones-para-conocer-quito.html "El Metro cumple un año y tiene 15 estaciones para conocer a Quito")
+* [Cortes de luz en Quito este sábado 30 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-sabado-30-noviembre.html "Cortes de luz en Quito este sábado 30 de noviembre")
+* [Eventos y cierres viales por fiestas de Quito este fin de semana](https://www.elcomercio.com/actualidad/quito/eventos-cierres-viales-fiestas-quito-este-fin-semana.html "Eventos y cierres viales por fiestas de Quito este fin de semana")
+
+Quito celebra sus **490 años de fundación** con desfiles, ferias, conciertos y encuentros culturales. Este sábado, dos de los eventos más importantes se desarrollarán en el **centro y sur** de la ciudad.
+
+Desfile de la Confraternidad en la Tribuna del Sur
+--------------------------------------------------
+
+Este **tradicional desfile** contará con la participación de más de 50 instituciones educativas y delegaciones artísticas.
+
+El evento comenzará a partir de las **10:00** y finalizará a las 16:00.
+
+### Cierres viales
+
+Los cierres viales por el Desfile de la Confraternidad se realizarán en la **Av. Cardenal de la Torre**, desde la Av. Ajaví hasta la Av. Teniente Hugo Ortiz, en el sur[.](https://www.amt.gob.ec/ "https://www.amt.gob.ec/")
+
+Tampoco se podrá circular por las calles cercanas, como las **intersecciones** Andrés de Toledo, Francisco Ballesteros y Gonzalo Cabezas.
+
+Como **rutas alternas** puedes utilizar las calles: Mariscal Sucre, Alonso de Angulo, Serapio Japerabi, Antonio Rodríguez y Galo Molina.
+
+Desfile en La Ronda
+-------------------
+
+En el **centro de Quito**, a partir de las 16:30, se realizará otro desfile evento, el VIII Desfile Cultural Ronda Quiteña
+
+Los quiteños recorrerán la **Calle Venezuela**, desde la avenida Julio Matovelle hasta el Bulevar 24 de Mayo.
+
+Se prevé que el cierre vehicular finalice a las **21:30**.
+
+Puedes movilizarte por **calles transversales** a la calle Venezuela, como Francisco Caldas, Carchi, Galápagos, Oriente y Esmeraldas.
+
+> 🎉 [#FiestasDeQuito2024](https://twitter.com/hashtag/FiestasDeQuito2024?src=hash&ref_src=twsrc%5Etfw) |  
+>   
+> ¡Planifica tu ruta y disfruta de los eventos organizados en la Carita de Dios!  
+>   
+> Este sábado 30 de noviembre se desarrollará el Desfile de la Confraternidad en la Tribuna del Sur.  
+>   
+> ▶️ Conoce los cierres viales.  
+> ▶️ Toma rutas alternas.  
+>   
+> ☀️ [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/mHntmP7aY6](https://t.co/mHntmP7aY6)
+> 
+> — AMTQuito (@AMT\_Quito) [November 29, 2024](https://twitter.com/AMT_Quito/status/1862616393880940886?ref_src=twsrc%5Etfw)
+
+Alberto Spencer, el mejor representante de Ecuador en la Libertadores
+=====================================================================
+
+Ecuador tiene su lugar en la historia de la Copa Libertadores gracias a un jugador que rompió récords y marcó una época con sus goles: Alberto Spencer.
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Alberto Spencer en uno de los partidos con el Peñarol de Uruguay.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-29T181928.751.jpg)
+
+**Alberto** **Spencer** nació el 6 de diciembre de 1937 en Ancón, Santa Elena, pero su legado trasciende fronteras. Se inmortalizó en Uruguay, vistiendo la camiseta de **Peñarol** durante la década de los 60, cuando se consagró campeón y figura indiscutible de la **Copa** **Libertadores** en múltiples ocasiones.
+
+A lo largo de la historia del torneo, cientos de jugadores ecuatorianos han luchado por alcanzar la **‘Gloria Eterna’**. Algunos lograron el título, como los integrantes de Liga de Quito en 2008. Sin embargo, solo uno se grabó en la retina de los aficionados como un ícono eterno de la competición, Alberto Spencer, conocido como ‘_**Cabeza** **Mágica**_‘.
+
+### Más noticias:
+
+* [Ecuatorianos que triunfaron en la Libertadores con clubes extranjeros](https://www.elcomercio.com/deportes/futbol/ecuatorianos-triunfaron-libertadores-con-clubes-extranjeros.html "Ecuatorianos que triunfaron en la Libertadores con clubes extranjeros")
+* [Ecuador vuelve a la final de la Copa Libertadores con Alan Franco](https://www.elcomercio.com/deportes/futbol/ecuador-vuelve-a-la-final-de-la-copa-libertadores-con-alan-franco.html "Ecuador vuelve a la final de la Copa Libertadores con Alan Franco")
+* [Miles de hinchas brasileños invaden Argentina por la final de la Libertadores](https://www.elcomercio.com/deportes/futbol/miles-de-hinchas-brasilenos-invaden-argentina-por-la-final-de-la-libertadores.html "Miles de hinchas brasileños invaden Argentina por la final de la Libertadores")
+
+El legado de Spencer en la Libertadores
+---------------------------------------
+
+Alberto Spencer **disputó 88 partidos en la Copa Libertadores**, ubicándose entre los 20 jugadores con más apariciones en el torneo más prestigioso de Sudamérica.
+
+Además, se convirtió en uno de los delanteros más letales de su tiempo, **anotando 54 goles** que lo consolidaron como el máximo goleador histórico de la Libertadores, con 48 tantos para Peñarol y seis para Barcelona SC.
+
+Spencer jugó **seis finales de Copa Libertadores** (1960, 1961, 1962, 1965, 1966 y 1970), todas con el club uruguayo, y conquistó tres títulos:
+
+* **1960**: Peñarol venció a Olimpia.
+* **1961**: Peñarol derrotó a Palmeiras.
+* **1966**: Peñarol superó a River Plate.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-29T181859.981-1024x683.jpg)
+
+Jugafores de Peñarol. Foto: Archivo / El Comercio.
+
+En estas finales, **Spencer dejó su marca al anotar tres goles** decisivos en los títulos que ganó y seis en total en los partidos finales que disputó.
+
+Con tres trofeos de **Libertadores**, Spencer es el ecuatoriano que más veces ha levantado este título y el que más finales ha jugado.
+
+Récords y hazañas de Spencer
+----------------------------
+
+Desde su debut en la **Copa Libertadores en 1960, Spencer marcó la diferencia**. En su primer partido, anotó cuatro goles en la victoria 7-1 de Peñarol sobre Wilstermann, convirtiéndose en el primer jugador en registrar un “póker” (cuatro goles) en el torneo.
+
+![Alberto Spencer con la camiseta de Peñarol. ](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-29T181942.319-1024x683.jpg)
+
+Alberto Spencer con la camiseta de Peñarol. Foto: Archivo / El Comercio.
+
+Tres años después, en 1963, **Spencer volvió a brillar con cinco goles** en la victoria de Peñarol 9-1 sobre Everest, lo que lo convirtió en el primer futbolista en anotar cinco tantos en un mismo partido de la Libertadores.
+
+Su impacto en la **Copa Libertadores** no solo consolidó su nombre en la historia del torneo, sino que también lo elevó como uno de los mejores futbolistas sudamericanos de todos los tiempos. Alberto Spencer es, sin lugar a dudas, el mejor representante de Ecuador en la historia de la competición.
+
 ¿A qué hora juega Alan Franco la final de la Copa Libertadores?
 ===============================================================
 
@@ -255,38 +853,6 @@ Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Ap
 
 [ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
 
-Reconocimiento para proyectos de inteligencia artificial ecuatorianos
-=====================================================================
-
-Ecuador tiene un gran potencial para ser un importante actor en el desarrollo de la inteligencia artificial a través de proyectos innovadores que compiten a nivel global.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Marco E. Benalcázar, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Marco-E.-Benalcazar.jpg)
-
-¿Sabía que en Ecuador se desarrollan **proyectos innovadores** en Inteligencia Artificial (IA)? Investigadores, laboratorios y empresas locales nos demuestran que, con esfuerzo y conocimiento, es posible afrontar **grandes desafíos**. En esta columna le invito a conocer varios **proyectos de IA** que parecen de _Silicon Valley_, pero que en realidad han sido desarrollados por **talento ecuatoriano** y dentro de nuestra frontera patria. La descripción de cada proyecto está dada por sus propios creadores.
-
-Para poner el tema en contexto, el 21 de noviembre de 2024 el Ministerio de Telecomunicaciones y de la Sociedad de la Información (**MINTEL**) llevó a cabo el evento **SinergIA Reconocimientos**. Aquí se premió a los [proyectos ecuatorianos más innovadores y destacados en IA](https://observatorioecuadordigital.mintel.gob.ec/sfsied/dfte/proyia_ganadores24/) que aportan para el **desarrollo de Ecuador** en 7 categorías: Agroindustria, industria acuícola y pesquera; educación; energía; medio ambiente; salud y bienestar; servicios intensivos; y transporte, movilidad y logística. En esta convocatoria se presentaron más de 35 proyectos, los cuales fueron evaluados por un **jurado internacional** de alto nivel. En este evento confluyeron gobierno, academia, embajadas internacionales, y representantes del **ecosistema digital** nacional e internacional, para demostrar que Ecuador tiene un importante **talento humano en IA**.
-
-En **agroindustria, industria acuícola y pesquera,** el proyecto ganador fue **Soluvia, d**irigido por Luis Guamán. Este proyecto “trabaja con IA y genera **información en tiempo real** para que productores de **tilapias** y **truchas** puedan tomar **decisiones inteligentes**, y puedan administrar de forma más eficiente sus producciones. Actualmente, está en su versión demo y, para el primer trimestre 2025, estará probándose en piscinas de truchas y tilapias. El objetivo es captar el mercado nacional en el 2025 e **internacionalizarse en el 2027**.”
-
-En **educación**, el proyecto ganador fue, [**Edutrackr**](https://www.edutrackrapp.com/)dirigido por Jorge Padilla y Alain Ruales. Este desarrollo “es una p**lataforma educativa** impulsada por IA que busca transformar el **proceso de enseñanza y aprendizaje**. La solución aborda la necesidad de **personalizar la educación** para brindar mayor atención a las necesidades de cada estudiante (…). Edutrackr ofrece un **enfoque adaptativo** que personaliza las lecciones y proporciona **apoyo continuo a estudiantes y docentes**, optimizando así el aprendizaje y el **bienestar emocional**. Con ello, se busca generar un impacto significativo en la formación de los estudiantes y aprovechar la tecnología para **democratizar el acceso a una educación de calidad**.”
-
-En **energía,** el ganador fue [**ÁLTITUM – Geomatic’s Cloud Computing**](https://www.altitum.com/), dirigido por Ángel Morales. Este proyecto “integra y visualiza **datos geoespaciales** de diversas fuentes como LiDAR, fotogrametría y batimetría. Es útil para los sectores inmobiliario, construcción, agrícola, energético, hídrico, minero y petrolero. Optimiza la **toma de decisiones** mediante representaciones detalladas del entorno. Adicionalmente, facilita la **planificación urbana**, gestión de infraestructuras, soluciones de **agricultura de precisión**, y monitoreo ambiental y de recursos naturales.”
-
-En **medio ambiente,** el proyecto que recibió el reconocimiento es **Wildclaut**, desarrollado por Gloria Panchana. Este proyecto tiene como objetivo facilitar la gestión, planificación, mitigación e incluso reforestación de áreas lesionadas a causa de **incendios forestales** que sufrimos a escala nacional. Usa **visión por computador** para la clasificación automática de incendios forestales en **imágenes satelitales** e imágenes adquiridas por **drones**. Esta solución se puede escalar a nivel de servicio para que pueda ser adoptada por otros países de la región, quienes actualmente también sufren de incendios forestales.
-
-En la categoría **servicios intensivos,** el proyecto ganador fue [**Caimán Inmunizador**](https://www.caimaninmunizador.com/), dirigido por Jairo Cano. Esta solución es un software de **ciberseguridad** para Microsoft Windows, que sirve como un inmunizador contra **malware** y **ransomware**. Entre sus ventajas se destacan que no requiere actualizaciones constantes por internet, **aumenta el rendimiento** del computador, realiza el bloqueo de sitios web, **desinfección de dispositivos de almacenamiento USB**, sirve para encriptar documentos, permite la administración local y vía consola web, es de bajo costo, y tiene soporte local.
-
-En **transporte, movilidad y logística,** el proyecto ganador fue[**SafeBus**](https://www.steamlabsec.com/), dirigido por Santiago Solórzano. Este proyecto “busca mejorar la **seguridad y eficiencia del transporte público** al abordar problemas como la falta de control sobre el número de pasajeros y la necesidad de mayor **seguridad para conductores y usuarios**. SafeBus utiliza tecnología avanzada para monitorear en tiempo real el flujo de personas, **identificar conductores**, y recopilar datos útiles para **optimizar rutas y servicios**. En el futuro, el proyecto aspira a integrarse en sistemas de transporte de **ciudades inteligentes**, promoviendo un transporte más seguro, eficiente y sostenible. Este proyecto representa un paso hacia una **movilidad urbana** más moderna y accesible para todos.”
-
-En la categoría **salud y bienestar,** el proyecto ganador fue [**prótesis de mano con inteligencia artificial e impresión 3D**](https://youtu.be/0btMYfIq1TI?si=uB-FOFCR2lcL1-_R). Este proyecto es desarrollado por el [Laboratorio de Investigación en Inteligencia y Visión Artificial “Alan Turing”](https://laboratorio-ia.epn.edu.ec/es/) de la **Escuela Politécnica Nacional**. Su objetivo es desarrollar **prótesis inteligentes**, avanzadas, y de **bajo costo** que permitan que personas con **amputación de mano** puedan desarrollar sus actividades cotidianas de forma regular. Este proyecto combina investigación, innovación, y desarrollo tecnológico para aportar de forma significativa a la inclusión social. Por esta razón, aparte de ganar en la categoría salud y bienestar, este proyecto también fue reconocido como el proyecto más destacado en IA en Ecuador.
-
-Según el MINTEL, “el proyecto SinergIA busca **impulsar la IA en Ecuador**. Esta iniciativa procura unir a todos los sectores del país: gobierno, universidades, empresas, y sociedad para desarrollar y dinamizar un **ecosistema de IA** que beneficie a todos los ciudadanos. En este marco, con charlas, reconocimientos, retos y capacitaciones, el MINTEL promueve un **uso responsable y sostenible de la IA**, asegurando que esta tecnología se desarrolle de manera **ética y transparente**.”
-
-Como nos podemos dar cuenta, en nuestro país se realizan proyectos muy interesantes y de **alto impacto en IA**. ¡Felicitaciones a los ganadores! Sin embargo, es importante recalcar que, aparte de premiar los esfuerzos de **talentosos investigadores, empresas** y **laboratorios de investigación**, en Ecuador también requerimos que se multipliquen los **incentivos** y el **apoyo del gobierno**, la **empresa privada**, y la **sociedad** en su conjunto. Con esto aportaremos de forma significativa para que Ecuador sea parte de la cuarta revolución industrial. Dejaremos atrás una economía basada en la venta de productos de nulo o bajo valor agregado, para avanzar hacia una economía donde el conocimiento sea la materia prima que se transforme en productos o servicios de exportación.
-
-¡El futuro de la IA también lo podemos construir desde Ecuador!
-
 Salteado de carne, sabor en minutos
 ===================================
 
@@ -360,6 +926,38 @@ Consejos para elaborar la receta
 
 ¡Buen provecho!
 
+Reconocimiento para proyectos de inteligencia artificial ecuatorianos
+=====================================================================
+
+Ecuador tiene un gran potencial para ser un importante actor en el desarrollo de la inteligencia artificial a través de proyectos innovadores que compiten a nivel global.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Marco E. Benalcázar, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Marco-E.-Benalcazar.jpg)
+
+¿Sabía que en Ecuador se desarrollan **proyectos innovadores** en Inteligencia Artificial (IA)? Investigadores, laboratorios y empresas locales nos demuestran que, con esfuerzo y conocimiento, es posible afrontar **grandes desafíos**. En esta columna le invito a conocer varios **proyectos de IA** que parecen de _Silicon Valley_, pero que en realidad han sido desarrollados por **talento ecuatoriano** y dentro de nuestra frontera patria. La descripción de cada proyecto está dada por sus propios creadores.
+
+Para poner el tema en contexto, el 21 de noviembre de 2024 el Ministerio de Telecomunicaciones y de la Sociedad de la Información (**MINTEL**) llevó a cabo el evento **SinergIA Reconocimientos**. Aquí se premió a los [proyectos ecuatorianos más innovadores y destacados en IA](https://observatorioecuadordigital.mintel.gob.ec/sfsied/dfte/proyia_ganadores24/) que aportan para el **desarrollo de Ecuador** en 7 categorías: Agroindustria, industria acuícola y pesquera; educación; energía; medio ambiente; salud y bienestar; servicios intensivos; y transporte, movilidad y logística. En esta convocatoria se presentaron más de 35 proyectos, los cuales fueron evaluados por un **jurado internacional** de alto nivel. En este evento confluyeron gobierno, academia, embajadas internacionales, y representantes del **ecosistema digital** nacional e internacional, para demostrar que Ecuador tiene un importante **talento humano en IA**.
+
+En **agroindustria, industria acuícola y pesquera,** el proyecto ganador fue **Soluvia, d**irigido por Luis Guamán. Este proyecto “trabaja con IA y genera **información en tiempo real** para que productores de **tilapias** y **truchas** puedan tomar **decisiones inteligentes**, y puedan administrar de forma más eficiente sus producciones. Actualmente, está en su versión demo y, para el primer trimestre 2025, estará probándose en piscinas de truchas y tilapias. El objetivo es captar el mercado nacional en el 2025 e **internacionalizarse en el 2027**.”
+
+En **educación**, el proyecto ganador fue, [**Edutrackr**](https://www.edutrackrapp.com/)dirigido por Jorge Padilla y Alain Ruales. Este desarrollo “es una p**lataforma educativa** impulsada por IA que busca transformar el **proceso de enseñanza y aprendizaje**. La solución aborda la necesidad de **personalizar la educación** para brindar mayor atención a las necesidades de cada estudiante (…). Edutrackr ofrece un **enfoque adaptativo** que personaliza las lecciones y proporciona **apoyo continuo a estudiantes y docentes**, optimizando así el aprendizaje y el **bienestar emocional**. Con ello, se busca generar un impacto significativo en la formación de los estudiantes y aprovechar la tecnología para **democratizar el acceso a una educación de calidad**.”
+
+En **energía,** el ganador fue [**ÁLTITUM – Geomatic’s Cloud Computing**](https://www.altitum.com/), dirigido por Ángel Morales. Este proyecto “integra y visualiza **datos geoespaciales** de diversas fuentes como LiDAR, fotogrametría y batimetría. Es útil para los sectores inmobiliario, construcción, agrícola, energético, hídrico, minero y petrolero. Optimiza la **toma de decisiones** mediante representaciones detalladas del entorno. Adicionalmente, facilita la **planificación urbana**, gestión de infraestructuras, soluciones de **agricultura de precisión**, y monitoreo ambiental y de recursos naturales.”
+
+En **medio ambiente,** el proyecto que recibió el reconocimiento es **Wildclaut**, desarrollado por Gloria Panchana. Este proyecto tiene como objetivo facilitar la gestión, planificación, mitigación e incluso reforestación de áreas lesionadas a causa de **incendios forestales** que sufrimos a escala nacional. Usa **visión por computador** para la clasificación automática de incendios forestales en **imágenes satelitales** e imágenes adquiridas por **drones**. Esta solución se puede escalar a nivel de servicio para que pueda ser adoptada por otros países de la región, quienes actualmente también sufren de incendios forestales.
+
+En la categoría **servicios intensivos,** el proyecto ganador fue [**Caimán Inmunizador**](https://www.caimaninmunizador.com/), dirigido por Jairo Cano. Esta solución es un software de **ciberseguridad** para Microsoft Windows, que sirve como un inmunizador contra **malware** y **ransomware**. Entre sus ventajas se destacan que no requiere actualizaciones constantes por internet, **aumenta el rendimiento** del computador, realiza el bloqueo de sitios web, **desinfección de dispositivos de almacenamiento USB**, sirve para encriptar documentos, permite la administración local y vía consola web, es de bajo costo, y tiene soporte local.
+
+En **transporte, movilidad y logística,** el proyecto ganador fue[**SafeBus**](https://www.steamlabsec.com/), dirigido por Santiago Solórzano. Este proyecto “busca mejorar la **seguridad y eficiencia del transporte público** al abordar problemas como la falta de control sobre el número de pasajeros y la necesidad de mayor **seguridad para conductores y usuarios**. SafeBus utiliza tecnología avanzada para monitorear en tiempo real el flujo de personas, **identificar conductores**, y recopilar datos útiles para **optimizar rutas y servicios**. En el futuro, el proyecto aspira a integrarse en sistemas de transporte de **ciudades inteligentes**, promoviendo un transporte más seguro, eficiente y sostenible. Este proyecto representa un paso hacia una **movilidad urbana** más moderna y accesible para todos.”
+
+En la categoría **salud y bienestar,** el proyecto ganador fue [**prótesis de mano con inteligencia artificial e impresión 3D**](https://youtu.be/0btMYfIq1TI?si=uB-FOFCR2lcL1-_R). Este proyecto es desarrollado por el [Laboratorio de Investigación en Inteligencia y Visión Artificial “Alan Turing”](https://laboratorio-ia.epn.edu.ec/es/) de la **Escuela Politécnica Nacional**. Su objetivo es desarrollar **prótesis inteligentes**, avanzadas, y de **bajo costo** que permitan que personas con **amputación de mano** puedan desarrollar sus actividades cotidianas de forma regular. Este proyecto combina investigación, innovación, y desarrollo tecnológico para aportar de forma significativa a la inclusión social. Por esta razón, aparte de ganar en la categoría salud y bienestar, este proyecto también fue reconocido como el proyecto más destacado en IA en Ecuador.
+
+Según el MINTEL, “el proyecto SinergIA busca **impulsar la IA en Ecuador**. Esta iniciativa procura unir a todos los sectores del país: gobierno, universidades, empresas, y sociedad para desarrollar y dinamizar un **ecosistema de IA** que beneficie a todos los ciudadanos. En este marco, con charlas, reconocimientos, retos y capacitaciones, el MINTEL promueve un **uso responsable y sostenible de la IA**, asegurando que esta tecnología se desarrolle de manera **ética y transparente**.”
+
+Como nos podemos dar cuenta, en nuestro país se realizan proyectos muy interesantes y de **alto impacto en IA**. ¡Felicitaciones a los ganadores! Sin embargo, es importante recalcar que, aparte de premiar los esfuerzos de **talentosos investigadores, empresas** y **laboratorios de investigación**, en Ecuador también requerimos que se multipliquen los **incentivos** y el **apoyo del gobierno**, la **empresa privada**, y la **sociedad** en su conjunto. Con esto aportaremos de forma significativa para que Ecuador sea parte de la cuarta revolución industrial. Dejaremos atrás una economía basada en la venta de productos de nulo o bajo valor agregado, para avanzar hacia una economía donde el conocimiento sea la materia prima que se transforme en productos o servicios de exportación.
+
+¡El futuro de la IA también lo podemos construir desde Ecuador!
+
 Cartas a Quito / 30 de noviembre de 2024
 ========================================
 
@@ -418,7 +1016,7 @@ El Metro y la memoria de Quito en las estaciones
 
 ![](https://www.elcomercio.com/wp-content/uploads/2024/11/cartilla-1024x683.jpg)
 
-Estas son las cartillas con la historia entorno a las estaciones del Metro de Quito. Foto: cortesía
+Estas son las cartillas que cuentan la historia de las estaciones del Metro de Quito. Foto: cortesía
 
 Son 22 kilómetros para conocer a la capital ecuatoriana y, con mayor razón, en sus fiestas. El trayecto de corrido toma 34 minutos, entre **Quitumbe y El Labrador**.
 
@@ -566,603 +1164,3 @@ En el final del recorrido, de sur a norte, es **El Labrador** o la primera si la
 La construcción del **Parque Bicentenario** se inició en el 2013 con la salida del aeropuerto hacia Tababela. Por varios años permaneció sin mayor inversión.
 
 En el **2019**, se inauguró con 13 áreas. Actualmente, además de ser una zona para las familias y deportistas, es el escenario de festivales artísticos.
-
-Unidad de Toachi-Pilatón inicia pruebas eléctricas
-==================================================
-
-La unidad del proyecto hidroeléctrico Toachi-Pilatón está en la central Alluriquín.
------------------------------------------------------------------------------------
-
-![Inician las pruebas mecánicas en una unidad de Toachi-Pilatón.](https://www.elcomercio.com/wp-content/uploads/2024/11/toachi-pilaton-1.jpg)
-
-La Unidad 3 del **proyecto hidroeléctrico Toachi-Pilatón** está lista para iniciar las pruebas eléctricas con el fin de fortalecer el Sistema Interconectado Nacional[.](https://es.wikipedia.org/wiki/R%C3%ADo_Toachi)
-
-El **Ministerio de Energía y Minas** dio los detalles de este proyecto.
-
-### Más noticias:
-
-* [Inician pruebas mecánicas en la central Alluriquín, parte del complejo hidroeléctrico Toachi Pilatón](https://www.elcomercio.com/actualidad/negocios/inician-pruebas-mecanicas-en-la-central-alluriquin-parte-del-complejo-hidroelectrico-toachi-pilaton.html "Inician pruebas mecánicas en la central Alluriquín, parte del complejo hidroeléctrico Toachi Pilatón")
-* [Termogas Machala incrementará su generación ¿Cuál es el motivo?](https://www.elcomercio.com/actualidad/negocios/termogas-machala-incrementara-generacion-motivo.html "Termogas Machala incrementará su generación ¿Cuál es el motivo?")
-
-Pruebas eléctricas en una unidad de Toachi-Pilatón
---------------------------------------------------
-
-La **central Alluriquín** está conformada por tres unidades de generación de 68 MW cada una, e incorporará 204 MW al **Sistema Nacional Interconectado**.
-
-El proyecto hidroeléctrico Toachi Pilatón, una obra clave para el desarrollo energético del **Ecuador**, avanza hacia su operatividad.
-
-Este 29 de noviembre se completaron las pruebas mecánicas en la **Unidad Nro. 3** de la central hidroeléctrica Alluriquín.
-
-El aporte a la producción de energía eléctrica será de **68 megavatios (MW)**.
-
-Durante estas pruebas, conocidas como “**giro mecánico**“, se verificó que no exista movimientos anormales o roces que puedan comprometer el rendimiento de la unidad o causar daños a futuro.
-
-Con estos resultados satisfactorios, ahora se dará inicio a una nueva etapa de **pruebas eléctricas** que evaluarán la capacidad de la unidad para integrarse al Sistema Nacional Interconectado.
-
-Se prevé que esta unidad comience a aportar 68 MW en **diciembre**.
-
-Mientras, las **dos unidades restantes** de la central Alluriquín se activarán progresivamente, con el objetivo de alcanzar una capacidad de 204 MW en 2025.
-
-En tanto, continúa el proceso de llenado del **embalse en el río Toachi**, el cual ha alcanzado una cota de 948 metros sobre el nivel del mar (msnm).
-
-El **nivel mínimo** de operación del embalse es de 965 msnm.
-
-**Toachi-Pilatón** es uno de los proyectos que impulsa el Gobierno de **Daniel Noboa** para potenciar el Sistema Energético ecuatoriano, en medio de la **crisis energética** que atraviesa el país.
-
-Nicolás Maduro aprueba 30 años de prisión por promover sanciones extranjeras
-============================================================================
-
-La ley que impone 30 años de prisión por promover sanciones extranjeras fue firmada por Nicolás Maduro, luego de la aprobación de la Asamblea.
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-![Nicolás Maduro firmó la ley con 30 años de prisión por promover sanciones extranjeras.](https://www.elcomercio.com/wp-content/uploads/2024/11/nicolas-maduro-30-anos-prision.jpg)
-
-**Nicolás Maduro** aprobó la ley que ordena **30 años de prisión** por promover **sanciones extranjeras** al Gobierno y las “autoridades” estatales de Venezuela, este viernes 29 de noviembre de 2024.
-
-La ley fue promovida por la mayoría “chavista” en la **Asamblea** de ese país.
-
-### Más noticias:
-
-* [Venezuela aprueba ley que ordena 30 años de prisión por promover sanciones extranjeras](https://www.elcomercio.com/actualidad/mundo/venezuela-aprueba-ley-ordena-30-anos-prision-promuevan-extranjeras.html "Venezuela aprueba ley que ordena 30 años de prisión por promover sanciones extranjeras")
-* [Nicolás Maduro desafía al decir ‘Nunca entregaré el bastón de mando’](https://www.elcomercio.com/actualidad/mundo/nicolas-maduro-condecorara-21-venezolanos-sancionados-estados-unidos.html "Nicolás Maduro desafía al decir ‘Nunca entregaré el bastón de mando’")
-
-Nicolás Maduro firmó la ley que ordena 30 años de prisión por promover sanciones a Venezuela
---------------------------------------------------------------------------------------------
-
-El presidente de Venezuela, **Nicolás Maduro**, firmó este viernes la ley que ordena penas de entre 25 y 30 años de prisión para las personas que promuevan o estén implicadas, de cualquier manera, en las sanciones extranjeras impuestas al Gobierno y “autoridades” del Estado.
-
-“Procedo a firmar la ley orgánica que sí lleva el nombre del libertador Simón Bolívar contra el bloqueo y en defensa del pueblo de Venezuela y su **derecho a la paz y a la felicidad**“, dijo Maduro, en una transmisión televisiva.
-
-Maduro indicó que esta norma nació luego de que la **Cámara de Representantes de Estados Unidos** aprobara un proyecto de ley que complementa las normas que prohíben a instituciones federales de ese país contratar a personas o empresas que tengan lazos comerciales con el Gobierno chavista.
-
-“Con motivo de eso, los diputados de la **Asamblea Nacional** entraron a debatir una ley para hacer justicia”, dijo.
-
-“Una ley para defender a Venezuela y para vencer como estamos venciendo y venceremos todas las amenazas y todos los bloqueos del imperialismo norteamericano y sus países satélites”, añadió.
-
-Otras sanciones de la ley aprobada por Nicolás Maduro que impone 30 años de prisión por promover sanciones extranjeras
-----------------------------------------------------------------------------------------------------------------------
-
-Se trata de la **‘Ley Orgánica Libertador Simón Bolívar contra el Bloqueo Imperialista y en Defensa de la República Bolivariana de Venezuela’.**
-
-Fue aprobada por unanimidad el jueves e incluye multas de **hasta un millón de euros**, es decir, 1 055 680 dólares.
-
-La norma aprobada contempla la **inhabilitación política de 60 años** de duración a quienes incurran en estos “delitos”.
-
-Esto también impide a los sancionados optar por **cargos públicos o de elección popular.**
-
-Tampoco podrán competir en elecciones quien haya “promovido, instigado, solicitado, invocado, favorecido, respaldado o participado en la adopción o ejecución” de **“acciones armadas o de fuerza**, así como ataques cibernéticos” contra el país, sus instituciones o autoridades, muchas de ellas sancionadas por otros países.
-
-### Sanciones a los medios de comunicación
-
-Los **medios de comunicación que** difundan cualquier tipo de mensajes que promuevan sanciones o medidas también serán multados.
-
-La ley señala que la **multa** será la misma que se aplica a personas naturales.
-
-El castigo a los medios incluiría la **salida de circulación o del espectro radioeléctrico.**
-
-La Ley considera **crímenes de lesa humanidad** a las sanciones internacionales.
-
-Esto, luego de que el país recibiese más de **900 medidas** de este tipo en la última década.
-
-**Estados Unidos** fue el principal sancionador, según los datos del Gobierno de Venezuela.
-
-Cortes de luz en Guayaquil este sábado 30 de noviembre
-======================================================
-
-Cortes de luz en Guayaquil este sábado 30 de noviembre son de hasta siete horas no consecutivas en el sector residencial.
--------------------------------------------------------------------------------------------------------------------------
-
-![Los cortes de luz en Guayaquil este sábado 30 de noviembre son definidos por CNEL.](https://www.elcomercio.com/wp-content/uploads/2024/11/cortes-luz-guayaquil-sabado-30-noviembre.jpg)
-
-Los **cortes de luz** en **Guayaquil** este **sábado 30 de noviembre** de 2024 son de seis horas de duración.
-
-**CNEL** programó la suspensión del servicio de energía eléctrica para mañana.
-
-### Más noticias:
-
-* [Cortes de luz en Guayaquil del lunes 2 al domingo 8 de diciembre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-guayaquil-lunes-2-a-domingo-8-de-diciembre.html "Cortes de luz en Guayaquil del lunes 2 al domingo 8 de diciembre")
-* [Cortes de luz tendrán modificaciones por fiestas de Quito](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-tendran-modificaciones-por-fiestas-de-quito.html "Cortes de luz tendrán modificaciones por fiestas de Quito")
-
-Horarios de los cortes de luz en Guayaquil este sábado 30 de noviembre
-----------------------------------------------------------------------
-
-La **crisis energética** en **Ecuador** continúa, debido a la intermitencia de las lluvias en la época invernal y la dependencia de las mismas.
-
-En las zonas donde se ubican las principales **centrales hidroeléctricas** del país, las lluvias de consideración no se hicieron presentes la mañana y tarde de este viernes.
-
-En **Napo y Sucumbíos**, provincias en las que se ubica **Coca Codo Sinclair**, las fuertes precipitaciones y tormentas de los últimos días no continuaron con el mismo vigor, sino que se evidenció la caída de lloviznas.
-
-Una realidad similar ocurrió en el Austro del país, lugar donde se encuentran las centrales de **Paute, Sopladora y Mazar.**
-
-Los niveles de los embalses en esta última central aún **son críticos**.
-
-Aunque el presidente **Daniel Noboa** ofreció que en **diciembre** terminarán los cortes de luz, el Ministerio de Energía y las empresas eléctricas ya difundieron los horarios de suspensión.
-
-La **primera semana de diciembre** están programados cortes de entre cinco y siete horas. 
-
-Para este sábado 30 de noviembre, el Gobierno mantiene las seis horas de cortes de luz no consecutivas en Guayaquil y todo el país, para el **sector residencial**.
-
-Las siete horas son divididas en **dos franjas horarias**, durante las 24 horas del día, desde la madrugada hasta la noche, dependiendo del sector.
-
-En el caso de Guayaquil, son hasta de seis horas continuas de cortes de luz en el **sector industrial**.
-
-A continuación, **los horarios de los cortes de luz en Guayaquil este sábado 30 de noviembre de 2024:**
-
-Las pesas dieron ocho medallas a Ecuador en los Bolivarianos 2024
-=================================================================
-
-La delegación de Ecuador en los Bolivarianos 2024 ya es destacada. Los pesistas finalizaron con ocho medallas.
---------------------------------------------------------------------------------------------------------------
-
-![Jenifer Becerra ganó oro en el levantamiento de pesas de los Juegos Bolivarianos del Bicentenario Ayacucho 2024, celebrados en Perú.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-39-1.jpg)
-
-La delegación ecuatoriana de levantamiento de pesas brilló este viernes 29 de noviembre en la jornada de los Juegos Bolivarianos del Bicentenario Ayacucho 2024, en Lima, logrando una destacada cosecha de medallas para Ecuador en los Boliviarianos.
-
-Los pesistas ecuatorianos se adjudicaron un total de ocho medallas: una de oro, una de plata y seis de bronce, en un cierre emocionante para el país.
-
-### Más noticias:
-
-* [La Selección de Ecuador cumple dos años de su última participación en un Mundial](https://www.elcomercio.com/deportes/seleccion-ecuador-mundial-catar-aniversario.html "La Selección de Ecuador cumple dos años de su última participación en un Mundial")
-* [‘Bolillo’ Gómez será nuevo DT de un inusual equipo](https://www.elcomercio.com/deportes/bolillo-gomez-dt-utc-nuevo-equipo.html "‘Bolillo’ Gómez será nuevo DT de un inusual equipo")
-* [Ecuador gana medalla en baloncesto 3×3 de los Juegos Bolivarianos](https://www.elcomercio.com/deportes/otros/ecuador-medallas-juegos-bolivarianos-ayacucho-2024-baloncesto-3x3.html "Ecuador gana medalla en baloncesto 3×3 de los Juegos Bolivarianos")
-
-Medallas para Ecuador en Bolivarianos
--------------------------------------
-
-La jornada comenzó temprano con el maratonista Segundo Jami, quien consiguió la sexta medalla de bronce para Ecuador al participar en una exigente competencia a 3450 metros de altitud en Pampa de Ayacucho.
-
-Jami completó los 10 km del cross en un tiempo de 36:23, mientras que los primeros lugares fueron ocupados por atletas de Perú.
-
-“A pesar de la dificultad que representa la altura, logré superar el reto y me siento muy contento de haber dado lo mejor de mí para obtener esta medalla de bronce para mi país”, declaró Jami tras la prueba.
-
-Por la tarde, la selección femenina de baloncesto 3×3 se colgó también la medalla de bronce tras derrotar 20-14 a Bolivia en el partido por el tercer puesto, destacando la labor de Ana Mora, Dayanna Salcedo, Heidi Guayaquil y Marjorie Caicedo.
-
-Las pesas de Ecuador en Bolivarianos
-------------------------------------
-
-En el cierre de las competencias de levantamiento de pesas, Ecuador continuó su destacada actuación con medallas en varias categorías.
-
-Jenifer Becerra se coronó campeona en los 59 kg, obteniendo el oro y colocando el himno ecuatoriano en el podio.
-
-Damary Nazareno, abanderada del equipo, subió al segundo lugar en los 71 kg para hacerse con la medalla de plata.
-
-Además, los bronces fueron logrados por Jessica Palacios (64 kg), Germán Palacios (81 kg), Neiser Grefa (89 kg), Luis Díaz (96 kg), Dayana Mina (87 kg) y Dixon Arroyo (+109 kg).
-
-Con este resultado, Ecuador culmina una brillante participación en los Juegos Bolivarianos, en el área de pesas.
-
-Cortes de luz en Quito este sábado 30 de noviembre
-==================================================
-
-Los cortes de luz en Quito este sábado 30 de noviembre son de hasta seis horas no consecutivas en el sector residencial.
-------------------------------------------------------------------------------------------------------------------------
-
-![La Empresa Eléctrica Quito programó los cortes de luz en la capital para este sábado 30 de noviembre.](https://www.elcomercio.com/wp-content/uploads/2024/11/cortes-luz-quito-sabado-30-noviembre.jpg)
-
-Los **cortes de luz** en **Quito** este **sábado 30 de noviembre** de 2024 son de seis horas de duración.
-
-La **Empresa Eléctrica Quito (EEQ)** programó la suspensión del servicio de energía eléctrica para mañana.
-
-### Más noticias:
-
-* [Cronograma de cortes de luz en Quito del 2 al 8 de diciembre](https://www.elcomercio.com/actualidad/quito/cronograma-cortes-luz-quito-2-8-diciembre-2024.html "Cronograma de cortes de luz en Quito del 2 al 8 de diciembre")
-* [Cortes de luz tendrán modificaciones por fiestas de Quito](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-tendran-modificaciones-por-fiestas-de-quito.html "Cortes de luz tendrán modificaciones por fiestas de Quito")
-
-Horarios de los cortes de luz en Quito este sábado 30 de noviembre
-------------------------------------------------------------------
-
-La **crisis energética** en **Ecuador** continúa, debido a la intermitencia de las lluvias en la época invernal y la dependencia de las mismas.
-
-En las zonas donde se ubican las principales **centrales hidroeléctricas** del país, las lluvias de consideración no se hicieron presentes la mañana y tarde de este viernes.
-
-En **Napo y Sucumbíos**, provincias en las que se ubica **Coca Codo Sinclair**, las fuertes precipitaciones y tormentas de los últimos días no continuaron con el mismo vigor, sino que se evidenció la caída de lloviznas.
-
-Una realidad similar ocurrió en el Austro del país, lugar donde se encuentran las centrales de **Paute, Sopladora y Mazar.**
-
-Los niveles de los embalses en esta última central aún **son críticos**.
-
-Aunque el presidente **Daniel Noboa** ofreció que en **diciembre** terminarán los cortes de luz, el Ministerio de Energía y las empresas eléctricas ya difundieron los horarios de suspensión.
-
-La **primera semana de diciembre** están programados cortes de entre cinco y siete horas. 
-
-Para este sábado 30 de noviembre, el Gobierno mantiene las seis horas de cortes de luz no consecutivas en Quito y todo el país, para el **sector residencial**.
-
-Las seis horas son divididas en **dos franjas horarias**, durante las 24 horas del día, desde la madrugada hasta la noche, dependiendo del sector.
-
-En el caso de Quito, son siete horas continuas de cortes de luz en el **sector industrial**.
-
-A continuación, **los horarios de los cortes de luz en Quito este sábado 30 de noviembre de 2024:**
-
-La Selección de Ecuador cumple dos años de su última participación en un Mundial
-================================================================================
-
-La Selección de Ecuador quedó fuera del Mundial de Catar durante un 29 de noviembre del 2022 y tuvo su segunda mejor participación.
------------------------------------------------------------------------------------------------------------------------------------
-
-![Jugadores de la Selección de Ecuador celebran un gol en el Mundial de Catar 2022.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-29T184325.709.jpg)
-
-Este 29 de noviembre del 2024 se cumplen dos años de la última participación en un **Mundial** de parte de la **Selección de Ecuador**. En aquella fecha, pero en 2022, el combinado nacional fue eliminado en fase de grupos tras terminar en tercer lugar.
-
-Una derrota frente a **Senegal** en el último partido de la primera ronda del torneo selló el destino para la Tri, que previamente se había ilusionado con igualar su mejor participación en mundiales al llegar a **octavos de final**. Pese a ello, su pinchazo en el último compromiso le arrebató la clasificación de las manos.
-
-### Más noticias:
-
-* [La Selección de Ecuador fue top mundial, ¿qué pasó con sus jugadores?](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-top-ranking-fifa.html "La Selección de Ecuador fue top mundial, ¿qué pasó con sus jugadores?")
-* [La Selección de Ecuador subió tres puestos en el ranking FIFA](https://www.elcomercio.com/deportes/futbol/ranking-fifa-noviembre-seleccion-ecuador.html "La Selección de Ecuador subió tres puestos en el ranking FIFA")
-* [FIFA recordó un momento doloroso de la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/fifa-recordo-un-momento-doloroso-de-la-seleccion-de-ecuador.html "FIFA recordó un momento doloroso de la Selección de Ecuador")
-
-La Selección de Ecuador definió su pase hacia la siguiente fase en el tercer partido de los grupos ante **Senegal**. Para aquel compromiso, el combinado nacional llegó con cuatro puntos y segundo en la tabla. Un empate le bastaba para pasar.
-
-Aunque contaba con la ventaja en torno a puntos a su favor, el objetivo no se dio y cayó por un marcador de 2-1. Los senegaleses se pusieron por delante en el marcador en un inicio gracias a un penal de Ismaila Sarr y el empate lo puso **Moisés Caicedo**. Finalmente, Kalidou Coulibaly se hizo cargo de sellar el marcador.
-
-La Selección de Ecuador y su segunda mejor participación histórica
-------------------------------------------------------------------
-
-A pesar de la eliminación, la **Selección de Ecuador** selló su segundo mejor papel en la historia de las Copas del Mundo. Esta finalizó con sus cuatro unidades y un gol de diferencia a favor.
-
-Antes de medirse ante Senegal, el combinado nacional igualó por 1-1 ante **Países Bajos**. En su debut, venció por un marcador de 2-0 a **Qatar** y se convirtió en el primer elenco en la historia en vencer al anfitrión en su primer partido[.](https://en.wikipedia.org/wiki/Ecuador_national_football_team "https://en.wikipedia.org/wiki/Ecuador_national_football_team")
-
-La actuación general superó a la de **Brasil 2014**, donde la Tri tuvo el mismo puntaje, pero no consiguió una diferencia en torno a goles. A su vez, en **Corea – Japón 2002**, su primer Mundial, obtuvo tres puntos y se quedó en la fase de grupos.
-
-La participación en el **Mundial de Alemania 2006** permanece como la mejor en todos los certámenes. En ella, el elenco tricolor llegó hasta los octavos de final, donde cayó con Inglaterra por un marcador de 1-0 tras un tiro libre de **David Beckham**.
-
-¿Cómo se encuentra la Selección de Ecuador?
--------------------------------------------
-
-Después de la eliminación del **Mundial de Catar 2022**, Gustavo Alfaro renunció como DT de la Selección de Ecuador. A raíz de ello, Félix Sánchez Bas fue el elegido para hacerse cargo de la escuadra en las eliminatorias hacia el torneo de 2026.
-
-Sánchez Bas estuvo presente hasta la Copa América de mediados del 2024 y tras ello se produjo su desvinculación. El sucesor de este fue **Sebastián Beccacece**, quien es el vigente entrenador y tiene a la Tri en la tercera posición de las eliminatorias con 19 puntos.
-
-Corte Constitucional admite a trámite solicitud relacionada con Verónica Abad
-=============================================================================
-
-La solicitud a la Corte Constitucional relacionada con Verónica Abad fue realizada hace dos semanas.
-----------------------------------------------------------------------------------------------------
-
-![El pedido a la Corte Constitucional relacionado con Verónica Abad lo hizo la presidenta de la Asamblea, Viviana Veloz.](https://www.elcomercio.com/wp-content/uploads/2024/11/veronica-abad-corte-constitucional-1.jpg)
-
-La **Corte Constitucional** admitió a trámite la solicitud de **interpretación** de cuatro artículos de la Carta Magna sobre la **Vicepresidencia** de la República, a propósito de la sanción a **Verónica Abad**, este viernes 29 de noviembre de 2024.
-
-La solicitud fue presentada por la presidenta de la **Asamblea**, **Viviana Veloz**, hace dos semanas.
-
-### Más noticias:
-
-* [Verónica Abad acudió a su audiencia este 29 de noviembre](https://www.elcomercio.com/actualidad/politica/audiencia-accion-proteccion-veronica-abad-es-29-noviembre.html "Verónica Abad acudió a su audiencia este 29 de noviembre")
-* [Suspensión de Verónica Abad a consulta de la Corte Constitucional](https://www.elcomercio.com/actualidad/politica/suspension-de-veronica-abad-a-consulta-de-la-corte-constitucional.html "Suspensión de Verónica Abad a consulta de la Corte Constitucional")
-
-Solicitud a la Corte Constitucional relacionada con Verónica Abad
------------------------------------------------------------------
-
-El presidente Daniel Noboa designó a Sarahí Moya, secretaria de Planificación, como vicepresidenta encargada, bajo la figura de que es una circunstancia de **fuerza mayor el sumario administrativo contra Verónica Abad.**
-
-Según el Presidente, la **suspensión de 150 días sin sueldo** impide a Abad el ejercicio de sus funciones por más de tres meses.
-
-Noboa tomó esta decisión en el Decreto Ejecutivo 457, amparado en los **artículos 146 y 150 de la Constitución**, según los cuales puede encargar la Vicepresidencia a un ministro, **si el segundo mandatario está ausente temporalmente.**
-
-El primer inciso del artículo 146 establece las causas para que se configure una **ausencia temporal**: enfermedad, otra circunstancia de fuerza mayor que le impida ejercer su función durante un periodo máximo de tres meses y la licencia concedida por la Asamblea.
-
-**Viviana Veloz** sostuvo la necesidad de **esclarecer** el alcance de esta norma.
-
-Esto, porque se debe conocer si exclusivamente las **tres causas** anteriormente mencionadas pueden confirmar la **ausencia temporal.**
-
-O si se pueden considerar como **válidas** otras causas, no previstas en la Constitución, que generen la ausencia temporal de un mandatario.
-
-Esto dejaría **abierta la posibilidad** de que un funcionario o una autoridad, que no es la competente para actuar o resolver respecto del Primer Mandatario, ejerza actos que desemboquen en la ausencia temporal de su cargo.
-
-“Incluso atentaría **contra la institucionalidad**, el orden constitucional, así como contra los principios y derechos democráticos, de participación y representación”, señala la solicitud.
-
-Veloz también pide interpretar el alcance del segundo inciso del artículo 150 que dice: “(…) **“**serán **causas de ausencia temporal** de quien ejerza la Vicepresidencia de la República las mismas determinadas para la Presidencia de la República”.
-
-### Otros artículos constitucionales a interpretación
-
-También, que la CC determine el **alcance** del inciso primero del artículo 149.
-
-Este texto, señala que: “quien ejerza la **Vicepresidencia** de la República cumplirá los mismos requisitos”, que el Presidente.
-
-Y estará sujeto a las mismas inhabilidades y prohibiciones establecidas para la **Presidenta o Presidente de la República**, y desempeñará sus funciones por igual período”.
-
-Agrega que es indispensable que se determine el alcance del **artículo 149.**
-
-Esto, para determinar si al Vicepresidente/a también le aplican las mismas **causales de cesación** que al Presidente, del artículo 145.
-
-Además, Veloz pidió que se interprete el **artículo 154** de la Constitución.
-
-Este, describe las **atribuciones de las ministras y ministros de Estado**.
-
-Una de esas atribuciones es “ejercer la rectoría de las políticas públicas del área a su cargo y expedir los acuerdos y resoluciones administrativas que requiera su gestión”.
-
-Veloz consulta si esta potestad es ilimitada y si esto faculta expedir los acuerdos y resoluciones administrativas **para someter un régimen disciplinario a un dignatario de elección popular**.
-
-Según el documento, no existe norma alguna que, expresamente, determine las causas por las cuales se produciría la **cesación de las funciones** de quien ejerza la Vicepresidencia.
-
-Ausencia de lluvias en zonas de centrales hidroeléctricas este viernes
-======================================================================
-
-El Inamhi detalló los pronósticos del clima para la noche de este viernes 29 y la madrugada del sábado 30 de noviembre.
------------------------------------------------------------------------------------------------------------------------
-
-![Ecuador enfrenta una crisis hídrica, en gran parte, causada por la falta de lluvias](https://www.elcomercio.com/wp-content/uploads/2024/11/lluvias-centrales-hidroelectricas.jpg)
-
-El Instituto Nacional de Meteorología e Hidrología (**Inamhi**) detalló los **pronósticos del clima** para la noche de este **viernes 29** y madrugada del **sábado 30 de noviembre** de 2024.
-
-### Más noticias
-
-* [Las lluvias en Cuenca, ¿cómo aportaron al embalse de Mazar?](https://www.elcomercio.com/actualidad/negocios/lluvias-cuenca-como-aportaron-embalse-mazar.html "Las lluvias en Cuenca, ¿cómo aportaron al embalse de Mazar?")
-* [Cortes de luz tendrán modificaciones por fiestas de Quito](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-tendran-modificaciones-por-fiestas-de-quito.html "Cortes de luz tendrán modificaciones por fiestas de Quito")
-* [Cronograma de cortes de luz en Quito del 2 al 8 de diciembre](https://www.elcomercio.com/actualidad/quito/cronograma-cortes-luz-quito-2-8-diciembre-2024.html "Cronograma de cortes de luz en Quito del 2 al 8 de diciembre")
-
-Según el reporte diario de la entidad, se espera **cielos nublados** con claros, **lluvias ocasionales** y **tormentas aisladas** en las provincias de la Amazonia.
-
-Mientras que en la **Sierra** y el **Litoral**, las condiciones se mantendrán sin lluvias de consideración.
-
-> INAMHI // Pronóstico para la zona sur del país: [#ElOro](https://twitter.com/hashtag/ElOro?src=hash&ref_src=twsrc%5Etfw), [#Cañar](https://twitter.com/hashtag/Ca%C3%B1ar?src=hash&ref_src=twsrc%5Etfw), [#Azuay](https://twitter.com/hashtag/Azuay?src=hash&ref_src=twsrc%5Etfw), [#Loja](https://twitter.com/hashtag/Loja?src=hash&ref_src=twsrc%5Etfw), [#ZamoraChinchipe](https://twitter.com/hashtag/ZamoraChinchipe?src=hash&ref_src=twsrc%5Etfw), correspondiente al viernes 29 y la madrugada del sábado 01 de noviembre de 2024. SAT ACTIVO [@Riesgos\_Ec](https://twitter.com/Riesgos_Ec?ref_src=twsrc%5Etfw)[@ECU911\_](https://twitter.com/ECU911_?ref_src=twsrc%5Etfw) [pic.twitter.com/tFl03jXsIr](https://t.co/tFl03jXsIr)
-> 
-> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [November 29, 2024](https://twitter.com/inamhi_ec/status/1862517793465188461?ref_src=twsrc%5Etfw)
-
-Escasez de lluvia en zonas de centrales hidroeléctricas
--------------------------------------------------------
-
-En las zonas donde se ubican las principales **centrales hidroeléctricas** del país las lluvias de consideración no se hicieron presentes la mañana y tarde de este viernes.
-
-En **Napo y Sucumbíos**, provincias en las que se ubica **Coca Codo Sinclair**, las fuertes precipitaciones y tormentas de los últimos días no continuaron con el mismo vigor, sino que se evidenció la caída de **lloviznas**.
-
-Una realidad similar ocurrió en el **Austro** del país, lugar donde se encuentran las centrales de **Paute, Sopladora y Mazar**.
-
-Cielo de Cuenca son sol y nubes
--------------------------------
-
-En Cuenca, por ejemplo, este viernes el cielo se mantuvo **nublado** y parcialmente nublado hasta el fin de la tarde[.](https://www.inamhi.gob.ec/ "https://www.inamhi.gob.ec/")
-
-En los tres días anteriores, la capital de Azuay recibió fuertes precipitaciones, que, en algunos sectores, incluso estuvo **acompañada con granizo**.
-
-Según reportó el Inamhi, en **Azuay, Loja, El Oro y Zamora Chinchipe**, las condiciones atmosféricas se mantendrán similares, con lloviznas aisladas en el mejor de los casos.
-
-Para la noche de este viernes y madrugada de este sábado, Azuay tendrá una **temperatura mínima de 13 grados centígrados**.
-
-Pronóstico del clima para el sábado 30 de noviembre
----------------------------------------------------
-
-Para este sábado 30 de noviembre, el Instituto considera probable que en la Sierra caigan lluvias de nivel medio; y para la Amazonía **lluvias fuertes**.
-
-Los niveles de precipitaciones esperados son de hasta **25 milímetros** por día en el Callejón Interandino y de **54 milímetros** por día para la región oriental.
-
-> "📢🌧️ [#AlertaMeteorológica](https://twitter.com/hashtag/AlertaMeteorol%C3%B3gica?src=hash&ref_src=twsrc%5Etfw) | Entre el 27 al 30 de noviembre se prevé la presencia de lluvias en la región Amazónica y el Callejón Interandino. En ciertos momentos, estas precipitaciones podrían estar acompañadas de tormentas eléctricas ⚡.  
-> Tenga en cuenta esta información [pic.twitter.com/2Eoykmo5Wy](https://t.co/2Eoykmo5Wy)
-> 
-> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [November 27, 2024](https://twitter.com/inamhi_ec/status/1861810450641363363?ref_src=twsrc%5Etfw)
-
-‘Bolillo’ Gómez será nuevo DT de un inusual equipo
-==================================================
-
-Hernán Darío 'Bolillo' Gómez, exDT de la Selección de Ecuador, dirigirá a un particular equipó en Perú.
--------------------------------------------------------------------------------------------------------
-
-![Hernán Darío 'Bolillo' Gómez durante su etapa como DT de la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-29T180210.836.jpg)
-
-El experimentado entrenador colombiano **Hernán Darío ‘Bolillo’ Gómez** dirigirá al UTC de la primera división del fútbol peruano durante la Liga 1 del 2025. Así lo informó el equipo de la región norteña de Cajamarca.
-
-“**¡Comienza una nueva historia en UTC! Damos la bienvenida a nuestro nuevo comando técnico para la temporada 2025**“, anunció el ‘Gavilán del Norte’. Lo hizo en su página oficial en Instagram antes de confirmar que su entrenador será el ‘Bolillo’ Gómez.
-
-### Más noticias:
-
-* [La Selección de Ecuador fue top mundial, ¿qué pasó con sus jugadores?](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-top-ranking-fifa.html "La Selección de Ecuador fue top mundial, ¿qué pasó con sus jugadores?")
-* [La Selección de Ecuador subió tres puestos en el ranking FIFA](https://www.elcomercio.com/deportes/futbol/ranking-fifa-noviembre-seleccion-ecuador.html "La Selección de Ecuador subió tres puestos en el ranking FIFA")
-* [FIFA recordó un momento doloroso de la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/fifa-recordo-un-momento-doloroso-de-la-seleccion-de-ecuador.html "FIFA recordó un momento doloroso de la Selección de Ecuador")
-
-Añadió que Gómez será asistido por el colombiano **Edgar Carvajal** y por el peruano **Tomás Mauro Reyes**, mientras que el preparador físico será el colombiano Diego Alonso Barragán.
-
-El equipo de Cajamarca, que tiene su sede a más de 860 kilómetros de Lima, acompañó su mensaje con la imagen del reconocido estratega colombiano. Este reemplazará al uruguayo **Guillermo Sanguinetti**, que también tuvo un paso por el fútbol ecuatoriano.
-
-Con Gómez al frente, el **UTC** buscará dejar en el olvido la irregular campaña que protagonizó este año en la Liga 1. Allí solo aseguró su permanencia en la categoría durante la última jornada del Torneo Clausura, tras empatar 1-1 con el Sport Huancayo[.](https://es.wikipedia.org/wiki/Hern%C3%A1n_Dar%C3%ADo_G%C3%B3mez "https://es.wikipedia.org/wiki/Hern%C3%A1n_Dar%C3%ADo_G%C3%B3mez")
-
-‘Bolillo’ Gómez y una nutrida trayectoria que incluye a la Selección de Ecuador
--------------------------------------------------------------------------------
-
-Medios locales habían anticipado en los últimos días que el UTC tenía conversaciones muy avanzadas para contratar al colombiano, quien se convertirá en uno de los más **reconocidos estrategas** del torneo nacional durante el próximo año.
-
-El ‘Bolillo’ ha dirigido a las selecciones de **Colombia, Ecuador, Guatemala, Panamá y Honduras**, además de a los equipos colombianos Atlético Nacional, Santa Fe, Independiente de Medellín, Junior y Águilas Doradas.
-
-Ha sido **mundialista**, como seleccionador, con Colombia en Francia 98, con Ecuador en Corea-Japón 2002 y con Panamá en Rusia 2018, además de haber sido asistente técnico de Francisco ‘Pacho’ Maturana con Colombia en las citas mundialistas de Italia 90 y Estados Unidos 94
-
-La literatura femenina brilla en los Premios Municipales 2024 
-==============================================================
-
-Este año, 267 obras compitieron en los Premios Municipales 2024.
-----------------------------------------------------------------
-
-![Rocío Soria, Abril Altamirano y Carolina Andrade destacan este año. Foto: Quito Informa.](https://www.elcomercio.com/wp-content/uploads/2024/11/Premios-Municipales-2024.jpg)
-
-La ciudad de Quito celebra las **obras más sobresalientes de Ecuador** a través de los **[Premios Municipales para las Artes y las Ciencias](https://www.quitoinforma.gob.ec/2024/11/29/los-premios-municipales-2024-reconocen-la-excelencia-artistica-y-cientifica/ "https://www.quitoinforma.gob.ec/2024/11/29/los-premios-municipales-2024-reconocen-la-excelencia-artistica-y-cientifica/")**. Este galardón, impulsado por la **Secretaría de Cultura** y el **Centro Cultural Benjamín Carrión La Marisca**l, se enmarca dentro de las actividades del **Día de la Interculturalidad Quiteña**. 
-
-### Más noticias
-
-* [Razones que convirtieron a Silvia Pinal en la última gran diva del cine mexicano](https://www.elcomercio.com/tendencias/cine/silvia-pinal-cine-television-biografia.html "https://www.elcomercio.com/tendencias/cine/silvia-pinal-cine-television-biografia.html") 
-* [En este Black Friday, mitos y verdades que debes conocer hoy](https://www.elcomercio.com/tendencias/curiosidades/black-friday-mitos-verdades-historia.html "https://www.elcomercio.com/tendencias/curiosidades/black-friday-mitos-verdades-historia.html") 
-
-En la **edición 2024**, un total de 267 obras compitieron en distintas categorías, al cumplir con los lineamientos establecidos. Este concurso resalta el aporte de artistas, gestores culturales, académicos e investigadores al **enriquecimiento cultural y académico** del país. 
-
-Los **Premios Municipales** representan un homenaje al esfuerzo y al talento ecuatoriano, y destacan la importancia de las expresiones artísticas e intelectuales en el progreso social. 
-
-Este año, la grata sorpresa en cuanto a la **literatura** ha sido la premiación de **grandes autoras** que, con sus **recientes publicaciones**, demuestran la calidad literaria de la **literatura femenina** en Ecuador. 
-
-**Premios Municipales para las Artes y las Ciencias 2024: Ganadores y Menciones** 
-----------------------------------------------------------------------------------
-
-### **Premio Jorge Carrera Andrade (Poesía)** 
-
-* ‘Casa de mariposas negras’, Rocío Soria R. 
-
-### **Joaquín Gallegos Lara (Cuento)** 
-
-* ‘El impulso femenino de saltar por las ventanas’, Abril Altamirano 
-
-### **Joaquín Gallegos Lara (Novela)** 
-
-* ‘A orillas de un relato’, Carolina Andrade 
-
-### **Darío Guevara Mayorga (Literatura Infantil: Cuento, Novela, Poesía, Ilustración)** 
-
-* Cuento: ‘Aquiles y la Tormenta’, María Alejandra Zambrano 
-
-* Novela: ‘Todo a punto de estallar (en Puerto Betún)’, Liset Lantigua 
-
-* Poesía: ‘Kawsarina’, Samay Cañamar Maldonado 
-
-### **José Peralta (Periodismo, Crónica, Testimonio)** 
-
-* ‘Ocultados: 20 años de muertes en la selva ecuatoriana’, Milagros Aguirre. 
-
-**Menciones de Honor** 
------------------------
-
-### **Premio** **Jorge Carrera Andrade (Poesía)** 
-
-* ‘Asia en el pelo’, Ernesto Carrión 
-
-* ‘Doble filo’, Marialuz Albuja Bayas 
-
-### **Joaquín Gallegos Lara (Novela)** 
-
-* ‘El Dios del árbol’, David Aguirre 
-
-### **Darío Guevara Mayorga (Cuento)** 
-
-* ‘Estas son mis manos’, Liset Lantigua 
-
-* ‘La vuelta del paraguas’, Sandra de la Torre Guarderas 
-
-### **José Peralta (Periodismo, Crónica, Testimonio)** 
-
-* ‘Bouquet’, Óscar Molina V. 
-
-* ‘Ausencias’, Karol E. Noroña 
-
-**Autoras destacadas en los Premios Municipales 2024** 
--------------------------------------------------------
-
-En los **Premios Municipales** de este año, destacan autoras como **Rocío Soria**, con una trayectoria sólida en literatura y comunicación, quien ha publicado obras como ‘El cuerpo del hijo’ (2008) y ‘Deterioro’ (2018).
-
-También resalta **Abril Altamirano**, periodista y escritora, ganadora de la **Beca Mary Wollstonecraft Shelley**, cuya obra figura en importantes antologías como ‘Despertar de la Hydra’ (2017). Finalmente, **Carolina Andrade Freire**, escritora y catedrática, es reconocida por su novela ‘A orillas de un relato’ (2024), galardonada con el **Premio Joaquín Gallegos Lara**.
-
-Estas autoras, con sus distintas perspectivas y estilos, invitan a los lectores a sumergirse en sus obras, reflejo de la **rica literatura ecuatoriana contemporánea**. La ceremonia de premiación se llevará a cabo el domingo 1 de diciembre de 2024, a las 15h30, en el Teatro Capitol. 
-
-### Te recomendamos:
-
-Papeletas de binomios presidenciales para las elecciones 2025 en proceso
-========================================================================
-
-El Instituto Geográfico procederá con la impresión de papeletas de binomios presidenciales en los próximos días, para las elecciones 2025.
-------------------------------------------------------------------------------------------------------------------------------------------
-
-![El proceso para la impresión de papeletas de binomios presidenciales avanza para las elecciones 2025.](https://www.elcomercio.com/wp-content/uploads/2024/11/papeletas-binomios-presidenciales-elecciones-2025.jpg)
-
-El **Consejo Nacional Electoral (CNE)** avanza en el proceso para la impresión de las **papeletas** de **binomios presidenciales** que participarán en las **elecciones 2025**.
-
-El CNE convocó a las organizaciones políticas para la **validación** de las papeletas.
-
-### Más noticias:
-
-* [CNE inicia la impresión de papeletas para las elecciones 2025](https://www.elcomercio.com/actualidad/politica/cne-inicia-impresion-papeletas-elecciones-2025.html "CNE inicia la impresión de papeletas para las elecciones 2025")
-* [Capacitaciones a miembros de las juntas de las elecciones 2025 empiezan, ¿cuánto durarán?](https://www.elcomercio.com/actualidad/politica/capacitaciones-miembros-juntas-elecciones-2025-empiezan-cuanto-duran.html "Capacitaciones a miembros de las juntas de las elecciones 2025 empiezan, ¿cuánto durarán?")
-* [Estos son los binomios presidenciales en firme para las elecciones 2025](https://www.elcomercio.com/actualidad/politica/estos-son-los-binomios-presidenciales-en-firme-para-las-elecciones-2025.html "Estos son los binomios presidenciales en firme para las elecciones 2025")
-
-Papeletas de los binomios presidenciales para elecciones 2025
--------------------------------------------------------------
-
-El Consejo Nacional Electoral (CNE) los **delegados** de las organizaciones políticas realizaron la validación del diseño de la papeleta electoral de binomio presidencial.
-
-Esta papeleta se utilizará en la **Primera Vuelta de las Elecciones Generales 2025**.
-
-El consejero del CNE, **José Cabrera Zurita** indicó que “es necesaria su validación previa  
-a la impresión de las papeletas en el **Instituto Geográfico Militar (IGM)**, para avanzar acorde al calendario  
-electoral”.
-
-Los **representantes y las áreas técnicas** verificaron el diseño, nombres, logotipos y fotografías de los  
-16 binomios calificados en firme.
-
-Los candidatos participarán en los comicios del **domingo 9 de febrero de 2025.**
-
-La papeleta de la dignidad de binomio presidencial de Primera Vuelta será de **color café claro y tamaño A3.**
-
-Los binomios presidenciales para las elecciones 2025
-----------------------------------------------------
-
-Los 16 binomios presidenciales en firme que participarán en las elecciones 2025 son:
-
-* **Unidad Popular (UP)** con Jorge Escala y Pacha Terán
-* **Partido Sociedad Patriótica (PSP)** con Andrea González y Galo Moncayo
-* **Alianza Revolución Ciudadana (RC)-Reto** con Luisa González-Diego Borja.
-* **Acción Democrática Nacional (ADN)** con Daniel Noboa y María José Pinto
-* **Partido Socialista Ecuatoriano (PSE)** con Pedro Granja-Verónica Silva
-* **Movimiento CREO** con Francesco Tabacchi-Blanca Sacancela
-* **Movimiento Construye** con Henry Cucalón-Carla Larrea
-* **Movimiento Pueblo Igualdad Democracia (PID)** con Víctor Araúz-Cristina Carrera
-* **Movimiento Acción Movilizadora Independiente Generando Oportunidades (Amigo)** con Juan Cueva-Cristina Reyes
-* **Movimiento Democracia Sí** con Iván Saquicela-Luisa Coello
-* **Partido Social Cristiano (PSC)** con Henry Kronfle-Dallyana Passailaigue 
-* **Partido Avanza** con Luis Felipe Tillería-Karla Rosero
-* **Movimiento Pachakutik** con Leonidas Iza-Katiuska Molina
-* **Movimiento Centro Democrático** con Jimmy Jairala-Lucía Vallecilla
-* **Izquierda Democrática (ID)** con Carlos Rabascall y María Alejandra Rivas
-* **Sociedad Unida Más Acción (SUMA)** con Enrique Gómez e Inés Díaz.
-
-Daniel Noboa deberá seguir un paso previo a las elecciones de 2025
-==================================================================
-
-Daniel Noboa irá a la campaña electoral siguiendo normas del Código de la Democracia para las elecciones de 2025.
------------------------------------------------------------------------------------------------------------------
-
-![Daniel Noboa buscará nuevamente la Presidencia en las elecciones de 2025.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-78-1.jpg)
-
-Las **elecciones presidenciales de Ecuador para 2025** están programadas para e**l 9 de febrero,** con la **campaña electoral** oficialmente iniciando el 5 de enero y extendiéndose hasta el 6 de febrero.
-
-### Más noticias
-
-* [Daniel Noboa habló sobre las utilidades de la banca](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-hablo-utilidades-banca.html "Daniel Noboa habló sobre las utilidades de la banca")
-* [Daniel Noboa constató avance de la obra de unidad educativa en Otavalo](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-avance-escuela-otavalo.html "Daniel Noboa constató avance de la obra de unidad educativa en Otavalo")
-* [Daniel Noboa enfocó su agenda en el agro, durante su visita a Chimborazo](https://www.elcomercio.com/actualidad/politica/daniel-noboa-agenda-agro-visita-chimborazo.html "Daniel Noboa enfocó su agenda en el agro, durante su visita a Chimborazo")
-
-Este proceso, regulado por el **Código de la Democracia**, involucra a varias figuras políticas de renombre, entre ellas el actual presidente [**Daniel Noboa**](https://es.wikipedia.org/wiki/Daniel_Noboa "https://es.wikipedia.org/wiki/Daniel_Noboa")**,** quien busca la reelección junto a su compañera de fórmula, María José Pinto, bajo el **Movimiento Acción Democrática Nacional (ADN)**.
-
-El Consejo Nacional Electoral (CNE) confirmó el 30 de agosto que únicamente la **Revolución Ciudadana y Reto se presentarán en una alianza electoral para los comicios**.
-
-ADN, por su parte, optó por no conformar alianzas. Esta decisión marca un enfoque directo y sin coaliciones por parte del movimiento oficialista, en un panorama **político diverso y competitivo**.
-
-Reglas claras bajo el Código de la Democracia
----------------------------------------------
-
-El Código de la Democracia establece disposiciones específicas para los candidatos, alineadas con la Constitución. Según la normativa, los dignatarios que busquen reelegirse deben **solicitar licencia sin remuneración al inicio de la campaña**. Esto aplica para el presidente Noboa, quien deberá tomar esta medida para **continuar en la contienda**.
-
-Por otro lado, aquellos que aspiren a una **dignidad distinta deben renunciar** a sus cargos antes de inscribir su candidatura.
-
-Un ejemplo reciente es el del expresidente de la Asamblea Nacional, **Henry Kronfle**, quien dejó su cargo el **2 de octubre de 2024** para postularse a la Presidencia. Estas normativas aseguran la transparencia y la igualdad en el **proceso electoral**.
-
-Daniel Noboa y las implicaciones de su licencia
------------------------------------------------
-
-El vicepresidente del CNE, **Enrique Pita**, informó que Daniel Noboa deberá solicitar licencia durante la campaña electoral. Este procedimiento genera interrogantes sobre cómo afectará la dinámica del Ejecutivo, especialmente en su relación con la **vicepresidenta Verónica Abad**.
-
-> El Gobierno propone cambios constitucionales, mientras el CNE y la UAFE refuerzan controles. Detalles 👇[https://t.co/4bmCfYRVy9](https://t.co/4bmCfYRVy9) [pic.twitter.com/OziEkyV3pT](https://t.co/OziEkyV3pT)
-> 
-> — El Comercio (@elcomerciocom) [November 29, 2024](https://twitter.com/elcomerciocom/status/1862622654244519944?ref_src=twsrc%5Etfw)
-
-Pita señaló que cualquier dignatario que busque la reelección debe **someterse a esta disposición**. Sin embargo, indicó que corresponderá al T**ribunal Contencioso Electoral (TCE)** determinar los detalles sobre el tiempo y **forma de la licencia**, marcando un precedente en la aplicación de la normativa para estas elecciones.
