@@ -793,7 +793,7 @@ ADD TO TOTE
 
 ### [Maracuja Mascara](https://www.100percentpure.com/products/maracuja-mascara)
 
-2414 reviews (2414)
+2417 reviews (2417)
 
 $28.00 $28.00
 
@@ -1225,7 +1225,7 @@ ADD TO TOTE
 
 ### [Bright Eyes Masks](https://www.100percentpure.com/products/bright-eyes-masks)
 
-976 reviews (976)
+977 reviews (977)
 
 $7.00 $30.00
 
