@@ -1,8 +1,8 @@
-![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)              
+![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)     
 
-Terms & Conditions – Omax Health - Omax Health                    
+Terms & Conditions – Omax Health - Omax Health                          
 
-               
+                
 
 FREE U.S. SHIPPING ON ALL ORDERS
 
@@ -303,13 +303,13 @@ Go to product page
 
 ### Let customers speak for us
 
-[3415 reviews](https://omaxhealth.com/pages/reviews)
+[3416 reviews](https://omaxhealth.com/pages/reviews)
 
 [Write a review](#)
 
 91%
 
-(3093)
+(3094)
 
 5%
 
@@ -327,7 +327,17 @@ Go to product page
 
 (54)
 
-2210
+2211
+
+M
+
+[CryoFreeze® Hemp CBD Roll-On | Regular](https://omaxhealth.com/products/omax-cryofreeze-cbd-roll-on#judgeme_product_reviews)
+
+Michael G.
+
+**Great for soft tissue and joint pain**
+
+Being very active by exercising, landscaping, car racing and maintaining a house and shop and plus personal/civic activities. At 79 I can get muscle soreness and joint pain. So I have been using CBD 500mg for about three years. I have several friends that are now using the product.
 
 B
 
@@ -348,13 +358,5 @@ Splitshaft
 **Most Effective Product I have Found**
 
 I have used the regular strength CryoFreeze now for several years. No external pain relief product I have tried has worked as well or been as effective as regular strength CryoFreeze. And I will use it for the rest of my life as long as offered by Omax. As a ten year neck, back, and shoulder pain patient, following multiple nerve root ablations, beyond pain pills, CryoFreeze is the absolute best product for added external pain relief. The best pain relief and comfort comes after two or three applications as needed. Nothing works better for me and allows me to sleep more comfortably at night.
-
-V
-
-[3 Pack CryoFreeze® Hemp CBD Roll-On | Extra Strength](https://omaxhealth.com/products/3-pack-cryofreeze-hemp-cbd-roll-on-extra-strength#judgeme_product_reviews)
-
-Vincent A.
-
-Relief is instantaneous! You can feel the soothing coolness as soon as it’s applied! It’s the go to product I use for long lasting results
 
 Load More
