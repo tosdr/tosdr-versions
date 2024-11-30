@@ -78,6 +78,28 @@ Search for:
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/gw-trump-white-house-photo-trudeau-and-trump-220x180.jpg)](https://americanwirenews.com/amid-tariff-threats-canadas-trudeau-makes-surprise-visit-to-mar-a-lago/)
+
+[Amid tariff threats, Canada’s Trudeau makes surprise visit to Mar-a-Lago](https://americanwirenews.com/amid-tariff-threats-canadas-trudeau-makes-surprise-visit-to-mar-a-lago/)
+
+(Trump White House photo)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-zelenskyy-220x180.jpg)](https://americanwirenews.com/zelenskyy-pushing-for-nato-invite-says-it-will-stop-the-hot-phase-of-the-war/)
+
+[Zelenskyy pushing for NATO invite, says it will ‘stop the hot phase of the war’](https://americanwirenews.com/zelenskyy-pushing-for-nato-invite-says-it-will-stop-the-hot-phase-of-the-war/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-moulton-220x180.jpg)](https://americanwirenews.com/dem-rep-blasts-own-party-for-war-on-free-speech-im-done-with-democratic-purity-tests/)
+
+[Dem Rep. blasts own party for war on free speech: ‘I’m done with Democratic purity tests’](https://americanwirenews.com/dem-rep-blasts-own-party-for-war-on-free-speech-im-done-with-democratic-purity-tests/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-joenantucket-1200-x-628-220x180.jpg)](https://americanwirenews.com/joe-biden-spotted-with-anti-israel-book-while-shopping-on-black-friday/)
+
+[Joe Biden spotted with anti-Israel book while shopping on Black Friday](https://americanwirenews.com/joe-biden-spotted-with-anti-israel-book-while-shopping-on-black-friday/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-joer-joyb-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/joe-rogan-jabs-back-at-joy-behar-over-dragons-rant-youre-worried-about-losing-your-job/)
+
+[Joe Rogan jabs back at Joy Behar over dragons rant: ‘You’re worried about losing your job’](https://americanwirenews.com/joe-rogan-jabs-back-at-joy-behar-over-dragons-rant-youre-worried-about-losing-your-job/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-454816422-1-220x180.jpg)](https://americanwirenews.com/new-york-based-model-husband-and-child-reportedly-kidnapped-and-held-hostage-in-brazil/)
 
 [New York-based model, husband and child reportedly kidnapped and held hostage in Brazil](https://americanwirenews.com/new-york-based-model-husband-and-child-reportedly-kidnapped-and-held-hostage-in-brazil/)
@@ -155,26 +177,6 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-reidturkeyday-1200-x-628-220x180.jpg)](https://americanwirenews.com/joy-reids-venomous-thanksgiving-message-to-republicans-is-latest-msnbc-disgrace/)
 
 [Joy Reid’s venomous Thanksgiving message to Republicans is latest MSNBC disgrace](https://americanwirenews.com/joy-reids-venomous-thanksgiving-message-to-republicans-is-latest-msnbc-disgrace/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-liz-cheney-220x180.jpg)](https://americanwirenews.com/leave-it-to-juan-williams-to-tout-heroic-liz-cheney-as-politician-of-the-year/)
-
-[Leave it to Juan Williams to tout ‘heroic’ Liz Cheney as ‘Politician of the Year’](https://americanwirenews.com/leave-it-to-juan-williams-to-tout-heroic-liz-cheney-as-politician-of-the-year/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-uatx-220x180.jpg)](https://americanwirenews.com/woke-is-waning-university-of-austin-opts-for-merit-based-initiatives-over-dei/)
-
-[‘Woke’ is waning: University of Austin opts for merit-based initiatives over DEI](https://americanwirenews.com/woke-is-waning-university-of-austin-opts-for-merit-based-initiatives-over-dei/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2023/12/SG-DC-Police-220x180.jpg)](https://americanwirenews.com/un-american-trump-spox-says-cabinet-nominees-targeted-with-bomb-threats-swatting/)
-
-[‘Un-American’: Trump spox says cabinet nominees targeted with bomb threats, swatting](https://americanwirenews.com/un-american-trump-spox-says-cabinet-nominees-targeted-with-bomb-threats-swatting/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-msnbc-220x180.jpg)](https://americanwirenews.com/msnbc-post-election-ratings-collapse-results-in-loss-of-nearly-half-of-viewers/)
-
-[MSNBC post-election ratings collapse results in loss of nearly half of viewers](https://americanwirenews.com/msnbc-post-election-ratings-collapse-results-in-loss-of-nearly-half-of-viewers/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-target-220x180.jpg)](https://americanwirenews.com/wsj-levels-target-over-poor-earnings-report-slide-from-cheap-chic-to-dull-chore/)
-
-[WSJ levels Target over poor earnings report: ‘Slide from cheap chic to dull chore’](https://americanwirenews.com/wsj-levels-target-over-poor-earnings-report-slide-from-cheap-chic-to-dull-chore/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
