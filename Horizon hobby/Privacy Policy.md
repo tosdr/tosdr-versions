@@ -2,19 +2,19 @@
 
 [Skip to main content](#maincontent) [Skip to footer content](#footercontent)
 
-[Black Friday Sale Ending Soon](https://www.horizonhobby.com/horizon-hobby-rc-sale/black-friday-sale/?cp_source=global&cp_medium=tippy-top)
+[Black Friday Sale Ends TODAY](https://www.horizonhobby.com/horizon-hobby-rc-sale/black-friday-sale/?cp_source=global&cp_medium=tippy-top)
 
-[Doorbuster Deals Start Now
+[Doorbuster Deals
 
-Lowest Prices Of The Season Guaranteed](https://www.horizonhobby.com/horizon-hobby-rc-sale/doorbusters/?cp_source=global&cp_medium=tippy-top)
+Save up to $200!](https://www.horizonhobby.com/horizon-hobby-rc-sale/doorbusters/?cp_source=global&cp_medium=tippy-top)
 
 [Clearance Sale
 
 Save Big While Supplies Last](https://www.horizonhobby.com/clearance-sale/?cp_source=global&cp_medium=tippy-top)
 
-[Black Friday Sale Ending Soon](https://www.horizonhobby.com/horizon-hobby-rc-sale/black-friday-sale/?cp_source=global&cp_medium=tippy-top)
+[Black Friday Sale Ends TODAY](https://www.horizonhobby.com/horizon-hobby-rc-sale/black-friday-sale/?cp_source=global&cp_medium=tippy-top)
 
-[Doorbuster Deals Start Now
+[Doorbuster Deals
 
 Save up to $200!](https://www.horizonhobby.com/horizon-hobby-rc-sale/doorbusters/?cp_source=global&cp_medium=tippy-top)
 
@@ -104,19 +104,19 @@ My store
 
 [](#)
 
-[Black Friday Sale Ending Soon](https://www.horizonhobby.com/horizon-hobby-rc-sale/black-friday-sale/?cp_source=global&cp_medium=tippy-top)
+[Black Friday Sale Ends TODAY](https://www.horizonhobby.com/horizon-hobby-rc-sale/black-friday-sale/?cp_source=global&cp_medium=tippy-top)
 
-[Doorbuster Deals Start Now
+[Doorbuster Deals
 
-Lowest Prices Of The Season Guaranteed](https://www.horizonhobby.com/horizon-hobby-rc-sale/doorbusters/?cp_source=global&cp_medium=tippy-top)
+Save up to $200!](https://www.horizonhobby.com/horizon-hobby-rc-sale/doorbusters/?cp_source=global&cp_medium=tippy-top)
 
 [Clearance Sale
 
 Save Big While Supplies Last](https://www.horizonhobby.com/clearance-sale/?cp_source=global&cp_medium=tippy-top)
 
-[Black Friday Sale Ending Soon](https://www.horizonhobby.com/horizon-hobby-rc-sale/black-friday-sale/?cp_source=global&cp_medium=tippy-top)
+[Black Friday Sale Ends TODAY](https://www.horizonhobby.com/horizon-hobby-rc-sale/black-friday-sale/?cp_source=global&cp_medium=tippy-top)
 
-[Doorbuster Deals Start Now
+[Doorbuster Deals
 
 Save up to $200!](https://www.horizonhobby.com/horizon-hobby-rc-sale/doorbusters/?cp_source=global&cp_medium=tippy-top)
 
