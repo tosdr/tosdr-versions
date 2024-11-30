@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![larges éclaircies](https://www.watson.ch/fr/_watsui/static/img/weather/w-3.svg)0°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![en partie ensoleillé](https://www.watson.ch/fr/_watsui/static/img/weather/w-3.svg)2°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -54,25 +54,25 @@
 
 Thèmes du moment
 
-* [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
-* [Réseaux sociaux](https://www.watson.ch/fr/reseaux-sociaux/)
-* [Royaume-Uni](https://www.watson.ch/fr/royaume-uni/)
-* [Intelligence artificielle](https://www.watson.ch/fr/intelligence-artificielle/)
-* [mort](https://www.watson.ch/fr/mort/)
 * [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
+* [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
+* [Syrie](https://www.watson.ch/fr/syrie/)
+* [Intelligence artificielle](https://www.watson.ch/fr/intelligence-artificielle/)
+* [Kosovo](https://www.watson.ch/fr/kosovo/)
+* [Suisse alémanique](https://www.watson.ch/fr/suisse-alemanique/)
+* [Ski](https://www.watson.ch/fr/ski/)
+* [mort](https://www.watson.ch/fr/mort/)
 * [Valais](https://www.watson.ch/fr/valais/)
 * [Art](https://www.watson.ch/fr/art/)
-* [Justice](https://www.watson.ch/fr/justice/)
 * [En direct](https://www.watson.ch/fr/en-direct/)
+* [Football](https://www.watson.ch/fr/football/)
+* [Justice](https://www.watson.ch/fr/justice/)
+* [Russie](https://www.watson.ch/fr/russie/)
 * [républicain](https://www.watson.ch/fr/republicain/)
 * [présidentielle américaine](https://www.watson.ch/fr/presidentielle-americaine/)
 * [Politique](https://www.watson.ch/fr/politique/)
-* [Russie](https://www.watson.ch/fr/russie/)
-* [primes maladie](https://www.watson.ch/fr/primes-maladie/)
 * [Santé](https://www.watson.ch/fr/sante/)
 * [Donald Trump](https://www.watson.ch/fr/donald-trump/)
-* [Argent](https://www.watson.ch/fr/argent/)
-* [CFF](https://www.watson.ch/fr/cff/)
 * [France](https://www.watson.ch/fr/france/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
