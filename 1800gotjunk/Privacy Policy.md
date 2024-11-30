@@ -153,6 +153,8 @@ Sub Menu
 
 search
 
+Our call center is busier than usual at the moment. For immediate service, please complete your [booking online](#). If you have any questions, please check our [FAQ page](https://www.1800gotjunk.com/us_en/frequently-asked-questions). 
+
 ![1-800-GOT-JUNK? team with a junk removal customer](/sites/default/files/hero-banner.jpg)
 
 ![Spring Cleaning 2022 Giveaway](/sites/default/files/mobile_tom_0.jpg)
@@ -605,6 +607,14 @@ Tina Furber Calgary 23/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Polite, considerate and efficient.
+
+John Ricci Calgary 22/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Trey and Nich were super awesome. Very professional guys!! I would do business again just cos of them!!!!
 
 Ogonna Idia Calgary 22/11/2024
@@ -621,22 +631,6 @@ Mary kneale Calgary 22/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Polite, considerate and efficient.
-
-John Ricci Calgary 22/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Great customer service and speedy removal - highly recommend!
-
-Holly Shaw Calgary 21/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Excellent service
 
 Wade Stewart Calgary 21/11/2024
@@ -648,6 +642,14 @@ Wade Stewart Calgary 21/11/2024
 Great work gave me a good deal.
 
 rens harkema Calgary 21/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Great customer service and speedy removal - highly recommend!
+
+Holly Shaw Calgary 21/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
