@@ -2,11 +2,11 @@ Shop Now
 
 30% Off Everything\* Ends in..
 
-2DAYS4HRS6MINS
+1DAYS22HRS19MINS
 
 30% Off Everything\* Ends in..
 
-2DAYS4HRS6MINS
+1DAYS22HRS19MINS
 
 Shop Now
 
@@ -691,7 +691,7 @@ If any of the terms or conditions herein shall be deemed invalid, void, or for a
 
 Updated: October 2018
 
-![Logo](/mobify/bundle/912/static/img/logo.svg)
+![Logo](/mobify/bundle/923/static/img/logo.svg)
 
 World's largest selection of art
 
