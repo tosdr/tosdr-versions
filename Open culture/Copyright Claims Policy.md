@@ -21,6 +21,8 @@
 [Copyright Policy](https://www.openculture.com/copyright_policy "Permanent Link to Copyright Policy")
 =====================================================================================================
 
+[](https://www.addtoany.com/add_to/bluesky?linkurl=https%3A%2F%2Fwww.openculture.com%2Fcopyright_policy&linkname=Copyright%20Policy "Bluesky")[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.openculture.com%2Fcopyright_policy&linkname=Copyright%20Policy "Facebook")[](https://www.addtoany.com/add_to/threads?linkurl=https%3A%2F%2Fwww.openculture.com%2Fcopyright_policy&linkname=Copyright%20Policy "Threads")[](https://www.addtoany.com/add_to/mastodon?linkurl=https%3A%2F%2Fwww.openculture.com%2Fcopyright_policy&linkname=Copyright%20Policy "Mastodon")[](https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Fwww.openculture.com%2Fcopyright_policy&linkname=Copyright%20Policy "Reddit")[](https://www.addtoany.com/add_to/sms?linkurl=https%3A%2F%2Fwww.openculture.com%2Fcopyright_policy&linkname=Copyright%20Policy "Message")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.openculture.com%2Fcopyright_policy&linkname=Copyright%20Policy "Email")[](https://www.addtoany.com/share)
+
 Open Cul­ture, LLC (“Open Cul­ture,” “we” or “us” or “our”) respects artist and con­tent own­er rights. It is our pol­i­cy to ful­ly respond and com­ply with all alleged infringe­ment notices that com­ply with the Dig­i­tal Mil­len­ni­um Copy­right Act of 1998 (“DMCA”) by tak­ing such mate­r­i­al down for our site.
 
 Please note that Open Cul­ture does not pro­duce or host any of the audio or video appear­ing on the site. Such mate­r­i­al is pro­duced and host­ed by third par­ty providers, and those providers should be con­tact­ed under the same DMCA pro­vi­sions.
@@ -48,6 +50,8 @@ UNDER FEDERAL LAW, IF YOU KNOWINGLY MISREPRESENT THAT ONLINE MATERIAL IS INFRING
 Please note that this pro­ce­dure is only the noti­fy­ing pro­ce­dure for Open Cul­ture and its affil­i­ates that your copy­right­ed mate­r­i­al has been infringed.  The pre­ced­ing require­ments are intend­ed to com­ply with our oblig­a­tions under the DMCA, includ­ing 17 U.S.C. §512©, but do not con­sti­tute legal advice.  It may be advis­able to con­tact an attor­ney regard­ing your rights and oblig­a­tions under the DMCA and oth­er applic­a­ble laws.
 
 In fur­ther com­pli­ance with the DMCA and oth­er applic­a­ble law, Open Cul­ture reserves the right to ter­mi­nate, in appro­pri­ate cir­cum­stances, Users who are deemed to be repeat infringers. Open Cul­ture may also at its sole dis­cre­tion lim­it access to the Ser­vice and/or ter­mi­nate the accounts of any Users who infringe any intel­lec­tu­al prop­er­ty rights of oth­ers, whether or not there is any repeat infringe­ment.
+
+[](https://www.addtoany.com/add_to/bluesky?linkurl=https%3A%2F%2Fwww.openculture.com%2Fcopyright_policy&linkname=Copyright%20Policy "Bluesky")[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.openculture.com%2Fcopyright_policy&linkname=Copyright%20Policy "Facebook")[](https://www.addtoany.com/add_to/threads?linkurl=https%3A%2F%2Fwww.openculture.com%2Fcopyright_policy&linkname=Copyright%20Policy "Threads")[](https://www.addtoany.com/add_to/mastodon?linkurl=https%3A%2F%2Fwww.openculture.com%2Fcopyright_policy&linkname=Copyright%20Policy "Mastodon")[](https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Fwww.openculture.com%2Fcopyright_policy&linkname=Copyright%20Policy "Reddit")[](https://www.addtoany.com/add_to/sms?linkurl=https%3A%2F%2Fwww.openculture.com%2Fcopyright_policy&linkname=Copyright%20Policy "Message")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.openculture.com%2Fcopyright_policy&linkname=Copyright%20Policy "Email")[](https://www.addtoany.com/share)
 
 **Sup­port Open Cul­ture**
 
@@ -376,7 +380,7 @@ We’re hop­ing to rely on our loy­al read­ers rather than errat­ic ads. To 
     * [Writing](https://www.openculture.com/category/writing)
     * [Yale](https://www.openculture.com/category/yale)
     * [YouTube](https://www.openculture.com/category/youtube)
-* [](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.openculture.com%2Fcopyright_policy&linkname=Copyright%20Policy "Facebook")[](https://www.addtoany.com/add_to/threads?linkurl=https%3A%2F%2Fwww.openculture.com%2Fcopyright_policy&linkname=Copyright%20Policy "Threads")[](https://www.addtoany.com/add_to/mastodon?linkurl=https%3A%2F%2Fwww.openculture.com%2Fcopyright_policy&linkname=Copyright%20Policy "Mastodon")[](https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Fwww.openculture.com%2Fcopyright_policy&linkname=Copyright%20Policy "Reddit")[](https://www.addtoany.com/add_to/sms?linkurl=https%3A%2F%2Fwww.openculture.com%2Fcopyright_policy&linkname=Copyright%20Policy "Message")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.openculture.com%2Fcopyright_policy&linkname=Copyright%20Policy "Email")[](https://www.addtoany.com/share)
+* [](https://www.addtoany.com/add_to/bluesky?linkurl=https%3A%2F%2Fwww.openculture.com%2Fcopyright_policy&linkname=Copyright%20Policy "Bluesky")[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.openculture.com%2Fcopyright_policy&linkname=Copyright%20Policy "Facebook")[](https://www.addtoany.com/add_to/threads?linkurl=https%3A%2F%2Fwww.openculture.com%2Fcopyright_policy&linkname=Copyright%20Policy "Threads")[](https://www.addtoany.com/add_to/mastodon?linkurl=https%3A%2F%2Fwww.openculture.com%2Fcopyright_policy&linkname=Copyright%20Policy "Mastodon")[](https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Fwww.openculture.com%2Fcopyright_policy&linkname=Copyright%20Policy "Reddit")[](https://www.addtoany.com/add_to/sms?linkurl=https%3A%2F%2Fwww.openculture.com%2Fcopyright_policy&linkname=Copyright%20Policy "Message")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.openculture.com%2Fcopyright_policy&linkname=Copyright%20Policy "Email")[](https://www.addtoany.com/share)
     
 
 * Great Lectures
@@ -415,7 +419,7 @@ We’re hop­ing to rely on our loy­al read­ers rather than errat­ic ads. To 
     
     ![](https://www.openculture.com/wp-content/plugins/native-lazyload/assets/images/placeholder.svg "click to reload")
     
-    ![](https://www.openculture.com/wp-admin/admin-ajax.php?action=mailster_coolcaptcha_img&nocache=1732910592&formid=1 "click to reload")
+    ![](https://www.openculture.com/wp-admin/admin-ajax.php?action=mailster_coolcaptcha_img&nocache=1732930601&formid=1 "click to reload")
     
 * About Us
     --------
@@ -761,5 +765,3 @@ All rights reserved.
   
 
 ![Quantcast](//pixel.quantserve.com/pixel/p-0dRTlf6K0FnoM.gif)
-
-Open Culture was founded by [Dan Colman.](https://www.linkedin.com/in/dancolman "Linkedin")
