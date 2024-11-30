@@ -129,6 +129,8 @@ Bright Data may, in its sole discretion, at any time and for any or no reason, s
 [**Miscellaneous**](https://brightdata.com/license#miscellaneous)
 -----------------------------------------------------------------
 
+Bright Data is not responsible or liable for any third-party services, products, or content made available, advertised, or otherwise offered through EarnApp. All interactions, transactions, or agreements entered into between you and any third party are solely between you and the third party. Bright Data makes no warranties or representations regarding the quality, safety, reliability, or legality of such third-party services or products. Any disputes or issues arising from third-party services must be addressed directly with the respective third party.  
+  
 This Agreement constitutes the entire understanding between the parties concerning the matters referred to herein.
 
 All notices or other communications hereunder shall be given by email to the email address provided by the parties as part of the registration to EarnApp.
@@ -139,7 +141,9 @@ If any provision of this Agreement will be held by a court of competent jurisdic
 
 No failure or delay on the part of any party hereto in exercising any right, power, or remedy hereunder shall operate as a waiver thereof.
 
-Bright Data may, at any time, and its sole discretion, modify this Agreement, with or without notice to the Client. Any such modification will be effective immediately upon public posting. Client’s continued use of the Systems and Service following any such modification constitutes acceptance of the modified Agreement.
+Bright Data may, at any time, and at its sole discretion, modify this Agreement, with or without notice to the Client. Any such modification will be effective immediately upon public posting. Client’s continued use of the Systems and Service following any such modification constitutes acceptance of the modified Agreement.  
+  
+  
 
 ##### General
 
