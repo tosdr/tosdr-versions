@@ -22,7 +22,7 @@ Check out
 
 [Shop 3 FOR 2 on all Supplements](https://puresportcbd.com/en-us/collections)
 
-[Free Salty Pace Sports Bottle with orders over £75](https://puresportcbd.com/en-us/collections)
+[Free 7-Day Magnesium Trial Pack with orders over £75](https://puresportcbd.com/en-us/collections)
 
 [NOTE: There is a 5-day dispatch delay on all Electrolytes](https://puresportcbd.com/en-us/collections/all)
 
@@ -62,9 +62,9 @@ Check out
     * [COLLECTIONS](https://puresportcbd.com/en-us#)
         * [PERFORMANCE WEAR](https://puresportcbd.com/en-us/collections/performance-wear)
     
-    [![](//puresport.co/cdn/shop/files/Invest_in_your_wellness_26.jpg?v=1730396139&width=1920)
+    [![](//puresport.co/cdn/shop/files/Invest_in_your_wellness_41.jpg?v=1732986676&width=1920)
     
-    FREE SALTY PACE BOTTLE
+    FREE MAGNESIUM TRIAL PACK
     
     On all orders over £75](https://puresportcbd.com/en-us/collections/all)
     
@@ -170,9 +170,9 @@ Check out
         * [COLLECTIONS](https://puresportcbd.com/en-us#)
             * [PERFORMANCE WEAR](https://puresportcbd.com/en-us/collections/performance-wear)
     
-    [![](//puresport.co/cdn/shop/files/Invest_in_your_wellness_26.jpg?v=1730396139&width=1920)
+    [![](//puresport.co/cdn/shop/files/Invest_in_your_wellness_41.jpg?v=1732986676&width=1920)
     
-    FREE SALTY PACE BOTTLE
+    FREE MAGNESIUM TRIAL PACK
     
     On all orders over £75](https://puresportcbd.com/en-us/collections/all)
     
@@ -234,9 +234,9 @@ Check out
     An unfiltered insight into the brand, people and community.](https://puresportcbd.com/en-us/blogs/puresport-project)
     
 
-[![](//puresport.co/cdn/shop/files/Invest_in_your_wellness_26.jpg?v=1730396139&width=1920)
+[![](//puresport.co/cdn/shop/files/Invest_in_your_wellness_41.jpg?v=1732986676&width=1920)
 
-FREE SALTY PACE BOTTLE
+FREE MAGNESIUM TRIAL PACK
 
 On all orders over £75](https://puresportcbd.com/en-us/collections/all)
 
