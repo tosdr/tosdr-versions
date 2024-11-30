@@ -91,46 +91,46 @@ Authors of the website:
 
 *  [![](/img/collective-logo.svg) The “Neutral Language Council” collective](https://en.pronouns.page/team)  
     We are a queer collective dedicated to assembling, researching, shaping and promoting gender neutral and nonbinary language. We also support actions towards equality and social justice.
+* Claudio Nicoli Pannacci [@kappanneo](https://en.pronouns.page/@kappanneo)  
+    English, Swedish, Italian (work in progress), Upcoming language versions
+* Kory [@kory\_warning](https://en.pronouns.page/@kory_warning)  
+    translation, moderation, administration
+* Torryn June 🌟 [@torrynjune](https://en.pronouns.page/@torrynjune)  
+    German (Deutsch), administration, moderation, terminology, language, support
 * lucjan [@kaslucji](https://en.pronouns.page/@kaslucji)  
     moderation, terminology
+* Szymon Misiek [@szymon](https://en.pronouns.page/@szymon)  
+    language, sources
+* Wren [@wrac4242](https://en.pronouns.page/@wrac4242)  
+    Moderation, Technical
+* Andrea Vos [@andrea](https://en.pronouns.page/@andrea)  
+    code, language, blog, project coordination, user support
+* \- Juniper [@botanicalyhuman](https://en.pronouns.page/@botanicalyhuman)  
+    Moderation, Bans, Terminology
+* Thomas Vos [@T\_Vos](https://en.pronouns.page/@T_Vos)  
+    Project manager, User support, social media, English, Polish
+* Jacob [@Fishmael](https://en.pronouns.page/@Fishmael)  
+    English, Russian, moderation
+* Diego M. [@GreenWithin](https://en.pronouns.page/@GreenWithin)  
+    English, Spanish (Español), Design, Translation, Moderation
 * Kevin [@kevinn](https://en.pronouns.page/@kevinn)  
     moderation, technical
 * Avery (They/Them) [@realAvery](https://en.pronouns.page/@realAvery)  
     Moderation, Technical
+* Paweł Dembowski [@ausir](https://en.pronouns.page/@ausir)  
+    language, sources
+* faera ☆ [@celestialflowers](https://en.pronouns.page/@celestialflowers)  
+    moderation, english
 * Laker T. [@laker](https://en.pronouns.page/@laker)  
     Moderation, Sources
 * tecc [@tecc](https://en.pronouns.page/@tecc)  
     programming, sysadmin, nitpicking
-* アンディ [@and.y](https://en.pronouns.page/@and.y)  
-    Moderation, Sources, Reports
-* Wren [@wrac4242](https://en.pronouns.page/@wrac4242)  
-    Moderation, Technical
-* Kory [@kory\_warning](https://en.pronouns.page/@kory_warning)  
-    translation, moderation, administration
-* faera ☆ [@celestialflowers](https://en.pronouns.page/@celestialflowers)  
-    moderation, english
-* Asher [@jerryv](https://en.pronouns.page/@jerryv)  
-    moderation
-* Szymon Misiek [@szymon](https://en.pronouns.page/@szymon)  
-    language, sources
-* Claudio Nicoli Pannacci [@kappanneo](https://en.pronouns.page/@kappanneo)  
-    English, Swedish, Italian (work in progress), Upcoming language versions
-* Paweł Dembowski [@ausir](https://en.pronouns.page/@ausir)  
-    language, sources
-* Torryn June 🌟 [@torrynjune](https://en.pronouns.page/@torrynjune)  
-    German (Deutsch), administration, moderation, terminology, language, support
-* Jacob [@Fishmael](https://en.pronouns.page/@Fishmael)  
-    English, Russian, moderation
-* \- Juniper [@botanicalyhuman](https://en.pronouns.page/@botanicalyhuman)  
-    Moderation, Bans, Terminology
-* Andrea Vos [@andrea](https://en.pronouns.page/@andrea)  
-    code, language, blog, project coordination, user support
-* Thomas Vos [@T\_Vos](https://en.pronouns.page/@T_Vos)  
-    Project manager, User support, social media, English, Polish
-* Diego M. [@GreenWithin](https://en.pronouns.page/@GreenWithin)  
-    English, Spanish (Español), Design, Translation, Moderation
 * Benjamin [@therealbenpai](https://en.pronouns.page/@therealbenpai)  
     Moderation, Development, Community Programs, Support Services
+* Asher [@jerryv](https://en.pronouns.page/@jerryv)  
+    moderation
+* アンディ [@and.y](https://en.pronouns.page/@and.y)  
+    Moderation, Sources, Reports
 
 Contact & social media:
 
@@ -142,10 +142,10 @@ Contact & social media:
 * [localisation@pronouns.page](mailto:localisation@pronouns.page)
 * [contact@pronouns.page](mailto:contact@pronouns.page)
 * [@PronounsPage@tech.lgbt](https://tech.lgbt/@PronounsPage)
-* [@PronounsPage](https://twitter.com/PronounsPage)
+*   [![](/img/bluesky.svg)  pronouns.page](https://bsky.app/profile/pronouns.page)
 * **Queer Calendar Bot:**
 * [@QueerCalendar@tech.lgbt](https://tech.lgbt/@QueerCalendar)
-* [@CalendarQueer](https://twitter.com/CalendarQueer)
+*   [![](/img/bluesky.svg)  calendar.pronouns.page](https://bsky.app/profile/calendar.pronouns.page)
 * **Merch:**
 * [shop.pronouns.page](https://shop.pronouns.page/)
 
@@ -157,7 +157,7 @@ Contribute:
 
 Light mode Automatic Dark mode
 
-Version: [773b3ba4](https://gitlab.com/PronounsPage/PronounsPage/-/commit/773b3ba42d3a9ac6a34eb408f0ce84e27dd673fc) /
+Version: [bbee9def](https://gitlab.com/PronounsPage/PronounsPage/-/commit/bbee9def6635e1da394b8c858e12ab51a692eb8c) /
 
 Legal:
 
@@ -187,9 +187,9 @@ Stats:
 **all language versions** | [only this version](#)
 
 * Cards: **1.1M**
-* Unique visitors: **148.6k** / month
-* Page views: **889k** / month
-* Currently online: **42**
+* Unique visitors: **149.9k** / month
+* Page views: **896.7k** / month
+* Currently online: **45**
 * Registered users: **1M**
 * [heartbeat](https://heartbeat.pronouns.page/)
 
