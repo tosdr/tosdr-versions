@@ -107,69 +107,67 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![BasilLeaf](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1614673-1712762391.jpg)](https://lyricstranslate.com/en/translator/BasilLeaf "BasilLeaf")
+[![Joseph Unicornvault](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1600574-1731910325.jpg)](https://lyricstranslate.com/en/translator/joseph3101 "Joseph Unicornvault")
 
-New translation
+Transcription request fulfilled
 
-[Zhanar Dughalova - Сен емес (Sen emes)](https://lyricstranslate.com/en/zhanar-dughalova-sen-emes-transliteration)
+[La vuelta al mundo de Willy Fog - (Japanese Intro)](https://lyricstranslate.com/en/la-vuelta-al-mundo-de-wil-la-vuelta-al-mundo-de-wil-lyrics)
 
-Kazakh → Transliteration
+Japanese
 
-[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
+[![Joseph Unicornvault](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1600574-1731910325.jpg)](https://lyricstranslate.com/en/translator/joseph3101 "Joseph Unicornvault")
 
-New translation
+New song
 
-[Litfiba - Oceano](https://lyricstranslate.com/en/litfiba-oceano-latin)
+[La vuelta al mundo de Willy Fog (OST) - La vuelta al mundo de Willy Fog - (Japanese Intro)](https://lyricstranslate.com/en/la-vuelta-al-mundo-de-wil-la-vuelta-al-mundo-de-wil-lyrics)
 
-Italian → Latin
-
-[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
-
-New translation
-
-[Litfiba - Oceano](https://lyricstranslate.com/en/litfiba-oceano-danish)
-
-Italian → Danish
+Japanese
 
 [![Turbonorm](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1620552-1725868199.jpg)](https://lyricstranslate.com/en/translator/turbonorm "Turbonorm")
 
 New song
 
-[Einár (Sweden) - Min Nivå](https://lyricstranslate.com/en/einar-sweden-min-niva-lyrics)
+[Yailin la Mas Viral - Bing Bong](https://lyricstranslate.com/en/yailin-la-mas-viral-bing-bong-lyrics)
 
-Swedish
+Spanish
 
-[![78ip](https://lyricstranslate.com/files/styles/micro/public/avatar-default-w.png)](https://lyricstranslate.com/en/translator/78ip "78ip")
+[![maluca](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1206376-1574120991.gif)](https://lyricstranslate.com/en/translator/maluca "maluca")
 
 New song
 
-[Diva Gray - Magic Carpet Ride](https://lyricstranslate.com/en/diva-gray-magic-carpet-ride-lyrics)
+[Steven Grossman - A Winter Story](https://lyricstranslate.com/en/steven-grossman-winter-story-lyrics)
 
 English
 
+[![Skirlet Hutsen](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1363638-1602964434.jpg)](https://lyricstranslate.com/en/translator/skirlet-hutsen "Skirlet Hutsen")
+
+New comment
+
+А так ли просто не думать?.. :-)  [more](https://lyricstranslate.com/en/comment/1178969#comment-1178969)
+
+[![Thomas222](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1310118-1706205100.jpg)](https://lyricstranslate.com/en/translator/thomas222 "Thomas222")
+
+New translation
+
+[Eifo HaYeled - חדרים שבלב (Chadarim she baLev)](https://lyricstranslate.com/en/eifo-hayeled-chadarim-she-balev-english)
+
+Hebrew → English
+
 [![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
 
 New translation
 
-[Litfiba - Oceano](https://lyricstranslate.com/en/litfiba-oceano-finnish)
+[Dea Garbaccio - Sola in una notte di tormento](https://lyricstranslate.com/en/dea-garbaccio-sola-una-notte-di-torm-english)
 
-Italian → Finnish
-
-[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
-
-New translation
-
-[Litfiba - Oceano](https://lyricstranslate.com/en/litfiba-oceano-swedish)
-
-Italian → Swedish
+Italian → English
 
 [![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
 
-New translation
+New song
 
-[Litfiba - Oceano](https://lyricstranslate.com/en/litfiba-oceano-dutch)
+[Dea Garbaccio - Sola in una notte di tormento](https://lyricstranslate.com/en/dea-garbaccio-sola-una-notte-di-torm-lyrics)
 
-Italian → Dutch
+Italian
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
