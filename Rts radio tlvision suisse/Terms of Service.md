@@ -127,11 +127,11 @@ TV & Streaming
 
 [](https://www.rts.ch/play)
 
-* [En direct](https://www.rts.ch/play/tv/direct)
 * [Replay émissions](https://www.rts.ch/play/tv/emissions)
+* [En direct](https://www.rts.ch/play/tv/direct)
 * [Séries & films](https://www.rts.ch/play/tv/categories/series-et-films)
 * [Documentaires](https://www.rts.ch/play/tv/categories/documentaires)
-* [Humour](https://www.rts.ch/articles/lien/humour-28548438.html)
+* [Humour](https://www.rts.ch/play/tv/categories/humour)
 * [Kids](https://www.rts.ch/play/tv/categories/kids)
 
 [](https://www.rts.ch/play/tv/direct/)
