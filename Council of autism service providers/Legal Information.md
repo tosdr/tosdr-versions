@@ -162,6 +162,7 @@ You can contact CASP with any privacy-related inquiries at info@casproviders.org
 * [2020](https://assets-002.noviams.com/novi-file-uploads/casp/pdfs-and-documents/990s/2020-811254601-202122219349300542-9O-2f443c1c.pdf)
 * [2021](https://assets-002.noviams.com/novi-file-uploads/casp/pdfs-and-documents/990s/2021_CASP_990-3c6de780.pdf)
 * [2022](https://assets-002.noviams.com/novi-file-uploads/casp/pdfs-and-documents/990s/2022_-_AS_FILED_-_Client_Copy_-_Council_of_Autism_Service_Providers_copy-0e0095cb.pdf)
+* [2023](https://assets-002.noviams.com/novi-file-uploads/casp/pdfs-and-documents/990s/2023_Form_990_Public_Disclosure_Copy.pdf)
 
 > [CASP](https://www.facebook.com/CASProviders)
 
