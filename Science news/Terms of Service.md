@@ -124,7 +124,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Videos capture orcas’ tricks for taking down the largest fish on Earth](https://www.sciencenews.org/article/videos-orcas-hunt-whale-sharks)
             
-            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")16 hours ago
+            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")22 hours ago
             
         * [Science & Society](https://www.sciencenews.org/topic/science-society)
             
@@ -177,7 +177,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [50 years ago, physics underwent a major revolution](https://www.sciencenews.org/article/50-years-particle-physics-revolution)
             
-            By [Cassie Martin](https://www.sciencenews.org/author/cassie-martin "Posts by Cassie Martin")10 hours ago
+            By [Cassie Martin](https://www.sciencenews.org/author/cassie-martin "Posts by Cassie Martin")16 hours ago
             
         * [Cosmology](https://www.sciencenews.org/topic/cosmology)
             
