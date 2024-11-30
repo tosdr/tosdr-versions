@@ -23,13 +23,13 @@
 * [Newsletter](http://eepurl.com/b79JR9)
 * [About Us](https://ygorganization.com/about-us/)
 
-[![YGOrganization](http://dev.ygorganization.com/wp-content/uploads/2023/11/YGO-Logo.png)](https://ygorganization.com/ "YGOrganization")
+[![YGOrganization](https://cdn.ygorganization.com/2024/11/YGOrg10thAnniversary-FR1.png)](https://ygorganization.com/ "YGOrganization")
 
 [](# "Search")
 
 [](# "Switch to Dark Design - easier on eyes.")[](# "Switch to Light Design.")
 
-[![YGOrganization](http://dev.ygorganization.com/wp-content/uploads/2023/11/YGO-Logo.png)](https://ygorganization.com/ "YGOrganization")
+[![YGOrganization](https://cdn.ygorganization.com/2024/11/YGOrg10thAnniversary-FR1.png)](https://ygorganization.com/ "YGOrganization")
 
 [](# "Search")
 
@@ -136,35 +136,35 @@ For specific information about Mediavine Partners, the data each collects and th
 
 ##### Recent Posts
 
-[](https://ygorganization.com/cdp_speedroid2k24/ "CDP: Speedroid Clear Wing 2024, post-SUDA")
+[](https://ygorganization.com/master-duel-tryout-duel-time-travel-2014/ "[Master Duel] Tryout Duel – Time Travel 2014")
 
-#### [CDP: Speedroid Clear Wing 2024, post-SUDA](https://ygorganization.com/cdp_speedroid2k24/)
+#### [\[Master Duel\] Tryout Duel – Time Travel 2014](https://ygorganization.com/master-duel-tryout-duel-time-travel-2014/)
 
-November 18, 2024
+November 28, 2024
 
-[](https://ygorganization.com/endymionbattlemode/ "And The Next V Jump Promo Is… [VJMP]")
+[](https://ygorganization.com/irl_fsfk/ "CDP: Flame Swordsman Fire King, IRL Edition")
 
-#### [And The Next V Jump Promo Is… \[VJMP\]](https://ygorganization.com/endymionbattlemode/)
+#### [CDP: Flame Swordsman Fire King, IRL Edition](https://ygorganization.com/irl_fsfk/)
 
-November 18, 2024
+November 28, 2024
 
-[](https://ygorganization.com/reference-art-salamandeus-of-scorching-cards/ "[Reference Art] Salamandeus of Scorching Cards")
+[](https://ygorganization.com/theropodsturningintoasauropodmakesmoresensethanyoudthink/ "[RD/TB02] Bracchio-raidus")
 
-#### [\[Reference Art\] Salamandeus of Scorching Cards](https://ygorganization.com/reference-art-salamandeus-of-scorching-cards/)
+#### [\[RD/TB02\] Bracchio-raidus](https://ygorganization.com/theropodsturningintoasauropodmakesmoresensethanyoudthink/)
 
-November 18, 2024
+November 28, 2024
 
-[](https://ygorganization.com/master-duel-ex-zero-festival-new-accessory/ "[Master Duel] Ex-Zero Festival & New Accessory")
+[](https://ygorganization.com/bewdsddelays/ "Structure Deck: Blue-Eyes White Destiny Delay [TCG]")
 
-#### [\[Master Duel\] Ex-Zero Festival & New Accessory](https://ygorganization.com/master-duel-ex-zero-festival-new-accessory/)
+#### [Structure Deck: Blue-Eyes White Destiny Delay \[TCG\]](https://ygorganization.com/bewdsddelays/)
 
-November 18, 2024
+November 27, 2024
 
-[](https://ygorganization.com/bughemianrhapsody/ "Fall Into An Endless Dream With “Delirium”! [RD/TB02]")
+[](https://ygorganization.com/waittillyouseethealtarts/ "[TCG] Quarter Century Stampede")
 
-#### [Fall Into An Endless Dream With “Delirium”! \[RD/TB02\]](https://ygorganization.com/bughemianrhapsody/)
+#### [\[TCG\] Quarter Century Stampede](https://ygorganization.com/waittillyouseethealtarts/)
 
-November 17, 2024
+November 27, 2024
 
 [Facebook](https://www.facebook.com/ygorganization) [X (Twitter)](https://twitter.com/ygorganization) [YouTube](https://www.youtube.com/@TheOrganization) [Discord](https://discord.gg/theorganization) [RSS](https://ygorganization.com/feed/)
 
