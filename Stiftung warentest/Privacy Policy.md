@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Risiko Psyche: Trotz Therapie gut versichert](https://www.test.de/Gut-versichert-trotz-Psychotherapie-6018021-0/ "Risiko Psyche - Trotz Therapie gut versichert")
-* [Hautleiden Rosazea: Rosazea-Symptome richtig behandeln](https://www.test.de/Rosazea-Symptome-behandeln-6010975-0/ "Hautleiden Rosazea - Rosazea-Symptome richtig behandeln")
-* [PC und Handy fern­steuern: IT-Hilfe für Oma, Opa, Mama, Papa...](https://www.test.de/PC-und-Handy-fernsteuern-IT-Hilfe-fuer-Oma-Opa-Mama-Papa-5949126-0/ "PC und Handy fernsteuern - IT-Hilfe für Oma, Opa, Mama, Papa...")
-* [Zinsen aus dem Ausland: Geld im Ausland angelegt? Was Sie der Bundes­bank melden müssen](https://www.test.de/Zinsen-aus-dem-Ausland-12-500-Euro-im-Ausland-angelegt-Was-Sie-der-Bundesbank-melden-muessen-6159329-0/ "Zinsen aus dem Ausland - Geld im Ausland angelegt? Was Sie der Bundesbank melden müssen")
-* [Verpackungs­ärger: Taxofit Magnesium 400 + Kalium](https://www.test.de/Verpackungsaerger-Taxofit-Magnesium-400-Kalium-6001317-0/ "Verpackungsärger - Taxofit Magnesium 400 + Kalium")
-* [Kosten bei der Geld­anlage: Wenn aus Nach­kommastellen Tausende Euro werden](https://www.test.de/Kosten-bei-der-Geldanlage-Wenn-aus-Nachkommastellen-Tausende-Euro-werden-6086265-0/ "Kosten bei der Geldanlage - Wenn aus Nachkommastellen Tausende Euro werden")
+* [Dienst­reisen: Wie Sie Ihre Reise­kosten von der Steuer absetzen](https://www.test.de/reisekosten-steuer-6109917-0/ "Dienstreisen - Wie Sie Ihre Reisekosten von der Steuer absetzen")
+* [Produktrück­ruf: Bissell ruft Akkuwischer zurück](https://www.test.de/Produktrueckruf-Bissell-ruft-Akkuwischer-zurueck-5965308-0/ "Produktrückruf - Bissell ruft Akkuwischer zurück")
+* [Güns­tiger telefonieren: Call­through löst Call by Call ab](https://www.test.de/callthrough-verfahren-6178469-0/ "Günstiger telefonieren - Callthrough löst Call by Call ab")
+* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
+* [Project-Gruppe: Auszahlungen an Anleger gestoppt](https://www.test.de/Project-Gruppe-Auszahlungen-an-Anleger-gestoppt-6044635-0/ "Project-Gruppe - Auszahlungen an Anleger gestoppt")
+* [Microsoft Surface mit ARM-Chip im Schnell­test: Neue Surface-Modelle treten gegen MacBook und iPad an](https://www.test.de/Microsoft-Surface-mit-ARM-Chip-im-Schnelltest-Neue-Surface-Modelle-machen-dem-MacBook-Konkurrenz-6165262-0/ "Microsoft Surface mit ARM-Chip im Schnelltest - Neue Surface-Modelle treten gegen MacBook und iPad an")
 
 Weitere Informationen
 
@@ -3871,12 +3871,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Risiko Psyche: Trotz Therapie gut versichert](https://www.test.de/Gut-versichert-trotz-Psychotherapie-6018021-0/ "Risiko Psyche - Trotz Therapie gut versichert")
-* [Hautleiden Rosazea: Rosazea-Symptome richtig behandeln](https://www.test.de/Rosazea-Symptome-behandeln-6010975-0/ "Hautleiden Rosazea - Rosazea-Symptome richtig behandeln")
-* [PC und Handy fern­steuern: IT-Hilfe für Oma, Opa, Mama, Papa...](https://www.test.de/PC-und-Handy-fernsteuern-IT-Hilfe-fuer-Oma-Opa-Mama-Papa-5949126-0/ "PC und Handy fernsteuern - IT-Hilfe für Oma, Opa, Mama, Papa...")
-* [Zinsen aus dem Ausland: Geld im Ausland angelegt? Was Sie der Bundes­bank melden müssen](https://www.test.de/Zinsen-aus-dem-Ausland-12-500-Euro-im-Ausland-angelegt-Was-Sie-der-Bundesbank-melden-muessen-6159329-0/ "Zinsen aus dem Ausland - Geld im Ausland angelegt? Was Sie der Bundesbank melden müssen")
-* [Verpackungs­ärger: Taxofit Magnesium 400 + Kalium](https://www.test.de/Verpackungsaerger-Taxofit-Magnesium-400-Kalium-6001317-0/ "Verpackungsärger - Taxofit Magnesium 400 + Kalium")
-* [Kosten bei der Geld­anlage: Wenn aus Nach­kommastellen Tausende Euro werden](https://www.test.de/Kosten-bei-der-Geldanlage-Wenn-aus-Nachkommastellen-Tausende-Euro-werden-6086265-0/ "Kosten bei der Geldanlage - Wenn aus Nachkommastellen Tausende Euro werden")
+* [Dienst­reisen: Wie Sie Ihre Reise­kosten von der Steuer absetzen](https://www.test.de/reisekosten-steuer-6109917-0/ "Dienstreisen - Wie Sie Ihre Reisekosten von der Steuer absetzen")
+* [Produktrück­ruf: Bissell ruft Akkuwischer zurück](https://www.test.de/Produktrueckruf-Bissell-ruft-Akkuwischer-zurueck-5965308-0/ "Produktrückruf - Bissell ruft Akkuwischer zurück")
+* [Güns­tiger telefonieren: Call­through löst Call by Call ab](https://www.test.de/callthrough-verfahren-6178469-0/ "Günstiger telefonieren - Callthrough löst Call by Call ab")
+* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
+* [Project-Gruppe: Auszahlungen an Anleger gestoppt](https://www.test.de/Project-Gruppe-Auszahlungen-an-Anleger-gestoppt-6044635-0/ "Project-Gruppe - Auszahlungen an Anleger gestoppt")
+* [Microsoft Surface mit ARM-Chip im Schnell­test: Neue Surface-Modelle treten gegen MacBook und iPad an](https://www.test.de/Microsoft-Surface-mit-ARM-Chip-im-Schnelltest-Neue-Surface-Modelle-machen-dem-MacBook-Konkurrenz-6165262-0/ "Microsoft Surface mit ARM-Chip im Schnelltest - Neue Surface-Modelle treten gegen MacBook und iPad an")
 
 Weitere spannende Themen
 
@@ -3891,12 +3891,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Risiko Psyche: Trotz Therapie gut versichert](https://www.test.de/Gut-versichert-trotz-Psychotherapie-6018021-0/ "Risiko Psyche - Trotz Therapie gut versichert")
-* [Hautleiden Rosazea: Rosazea-Symptome richtig behandeln](https://www.test.de/Rosazea-Symptome-behandeln-6010975-0/ "Hautleiden Rosazea - Rosazea-Symptome richtig behandeln")
-* [PC und Handy fern­steuern: IT-Hilfe für Oma, Opa, Mama, Papa...](https://www.test.de/PC-und-Handy-fernsteuern-IT-Hilfe-fuer-Oma-Opa-Mama-Papa-5949126-0/ "PC und Handy fernsteuern - IT-Hilfe für Oma, Opa, Mama, Papa...")
-* [Zinsen aus dem Ausland: Geld im Ausland angelegt? Was Sie der Bundes­bank melden müssen](https://www.test.de/Zinsen-aus-dem-Ausland-12-500-Euro-im-Ausland-angelegt-Was-Sie-der-Bundesbank-melden-muessen-6159329-0/ "Zinsen aus dem Ausland - Geld im Ausland angelegt? Was Sie der Bundesbank melden müssen")
-* [Verpackungs­ärger: Taxofit Magnesium 400 + Kalium](https://www.test.de/Verpackungsaerger-Taxofit-Magnesium-400-Kalium-6001317-0/ "Verpackungsärger - Taxofit Magnesium 400 + Kalium")
-* [Kosten bei der Geld­anlage: Wenn aus Nach­kommastellen Tausende Euro werden](https://www.test.de/Kosten-bei-der-Geldanlage-Wenn-aus-Nachkommastellen-Tausende-Euro-werden-6086265-0/ "Kosten bei der Geldanlage - Wenn aus Nachkommastellen Tausende Euro werden")
+* [Dienst­reisen: Wie Sie Ihre Reise­kosten von der Steuer absetzen](https://www.test.de/reisekosten-steuer-6109917-0/ "Dienstreisen - Wie Sie Ihre Reisekosten von der Steuer absetzen")
+* [Produktrück­ruf: Bissell ruft Akkuwischer zurück](https://www.test.de/Produktrueckruf-Bissell-ruft-Akkuwischer-zurueck-5965308-0/ "Produktrückruf - Bissell ruft Akkuwischer zurück")
+* [Güns­tiger telefonieren: Call­through löst Call by Call ab](https://www.test.de/callthrough-verfahren-6178469-0/ "Günstiger telefonieren - Callthrough löst Call by Call ab")
+* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
+* [Project-Gruppe: Auszahlungen an Anleger gestoppt](https://www.test.de/Project-Gruppe-Auszahlungen-an-Anleger-gestoppt-6044635-0/ "Project-Gruppe - Auszahlungen an Anleger gestoppt")
+* [Microsoft Surface mit ARM-Chip im Schnell­test: Neue Surface-Modelle treten gegen MacBook und iPad an](https://www.test.de/Microsoft-Surface-mit-ARM-Chip-im-Schnelltest-Neue-Surface-Modelle-machen-dem-MacBook-Konkurrenz-6165262-0/ "Microsoft Surface mit ARM-Chip im Schnelltest - Neue Surface-Modelle treten gegen MacBook und iPad an")
 
 Neueste Tests
 
@@ -3909,12 +3909,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Risiko Psyche: Trotz Therapie gut versichert](https://www.test.de/Gut-versichert-trotz-Psychotherapie-6018021-0/ "Risiko Psyche - Trotz Therapie gut versichert")
-* [Hautleiden Rosazea: Rosazea-Symptome richtig behandeln](https://www.test.de/Rosazea-Symptome-behandeln-6010975-0/ "Hautleiden Rosazea - Rosazea-Symptome richtig behandeln")
-* [PC und Handy fern­steuern: IT-Hilfe für Oma, Opa, Mama, Papa...](https://www.test.de/PC-und-Handy-fernsteuern-IT-Hilfe-fuer-Oma-Opa-Mama-Papa-5949126-0/ "PC und Handy fernsteuern - IT-Hilfe für Oma, Opa, Mama, Papa...")
-* [Zinsen aus dem Ausland: Geld im Ausland angelegt? Was Sie der Bundes­bank melden müssen](https://www.test.de/Zinsen-aus-dem-Ausland-12-500-Euro-im-Ausland-angelegt-Was-Sie-der-Bundesbank-melden-muessen-6159329-0/ "Zinsen aus dem Ausland - Geld im Ausland angelegt? Was Sie der Bundesbank melden müssen")
-* [Verpackungs­ärger: Taxofit Magnesium 400 + Kalium](https://www.test.de/Verpackungsaerger-Taxofit-Magnesium-400-Kalium-6001317-0/ "Verpackungsärger - Taxofit Magnesium 400 + Kalium")
-* [Kosten bei der Geld­anlage: Wenn aus Nach­kommastellen Tausende Euro werden](https://www.test.de/Kosten-bei-der-Geldanlage-Wenn-aus-Nachkommastellen-Tausende-Euro-werden-6086265-0/ "Kosten bei der Geldanlage - Wenn aus Nachkommastellen Tausende Euro werden")
+* [Dienst­reisen: Wie Sie Ihre Reise­kosten von der Steuer absetzen](https://www.test.de/reisekosten-steuer-6109917-0/ "Dienstreisen - Wie Sie Ihre Reisekosten von der Steuer absetzen")
+* [Produktrück­ruf: Bissell ruft Akkuwischer zurück](https://www.test.de/Produktrueckruf-Bissell-ruft-Akkuwischer-zurueck-5965308-0/ "Produktrückruf - Bissell ruft Akkuwischer zurück")
+* [Güns­tiger telefonieren: Call­through löst Call by Call ab](https://www.test.de/callthrough-verfahren-6178469-0/ "Günstiger telefonieren - Callthrough löst Call by Call ab")
+* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
+* [Project-Gruppe: Auszahlungen an Anleger gestoppt](https://www.test.de/Project-Gruppe-Auszahlungen-an-Anleger-gestoppt-6044635-0/ "Project-Gruppe - Auszahlungen an Anleger gestoppt")
+* [Microsoft Surface mit ARM-Chip im Schnell­test: Neue Surface-Modelle treten gegen MacBook und iPad an](https://www.test.de/Microsoft-Surface-mit-ARM-Chip-im-Schnelltest-Neue-Surface-Modelle-machen-dem-MacBook-Konkurrenz-6165262-0/ "Microsoft Surface mit ARM-Chip im Schnelltest - Neue Surface-Modelle treten gegen MacBook und iPad an")
 
 Stiftung Warentest
 
