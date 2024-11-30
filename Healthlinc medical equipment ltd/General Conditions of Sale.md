@@ -87,9 +87,7 @@ Fax:604-770-0290
 
 ### Sunshine Coast (Formerly Coast Ability)
 
-Open Today:8:30am-4:30pm
-
-Mon - Fri:8:30am-4:30pm  
+Mon - Fri:By Appointment Only  
 Sat / Sun:Closed
 
 Telephone:[1-844-821-0075](tel:1-844-821-0075)  
