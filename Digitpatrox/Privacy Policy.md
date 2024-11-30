@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Friday, November 29 2024
+Saturday, November 30 2024
 
 Latest
 
-* [Avanade names new general manager for the UK and Ireland](https://digitpatrox.com/avanade-names-new-general-manager-for-the-uk-and-ireland/)
-* [the conversation that never ends – Computerworld](https://digitpatrox.com/the-conversation-that-never-ends-computerworld/)
-* [Blackblaze Is 30% Off During Black Friday](https://digitpatrox.com/blackblaze-is-30-off-during-black-friday/)
-* [How to watch the HSBC SVNS 2024/25 live online](https://digitpatrox.com/how-to-watch-the-hsbc-svns-2024-25-live-online/)
-* [Best Compact Vacuums for Small Apartments](https://digitpatrox.com/best-compact-vacuums-for-small-apartments/)
-* [Why I Switched From Grammarly to Microsoft Editor](https://digitpatrox.com/why-i-switched-from-grammarly-to-microsoft-editor/)
-* [Nucleus Security launches revamped partner program](https://digitpatrox.com/nucleus-security-launches-revamped-partner-program/)
-* [I’d cancel my phone service now and get this Mint Mobile deal for a crazy cheap $10 a month](https://digitpatrox.com/id-cancel-my-phone-service-now-and-get-this-mint-mobile-deal-for-a-crazy-cheap-10-a-month/)
-* [Cloudflare says it lost 55% of logs pushed to customers for 3.5 hours](https://digitpatrox.com/cloudflare-says-it-lost-55-of-logs-pushed-to-customers-for-3-5-hours/)
-* [The best Black Friday headphone and earbud deals](https://digitpatrox.com/the-best-black-friday-headphone-and-earbud-deals/)
+* [What is threatware, and how do I avoid it?](https://digitpatrox.com/what-is-threatware-and-how-do-i-avoid-it/)
+* [Are ‘ghost engineers’ stunting productivity in software development? Researchers claim nearly 10% of engineers do “virtually nothing” and are a drain on enterprises](https://digitpatrox.com/are-ghost-engineers-stunting-productivity-in-software-development-researchers-claim-nearly-10-of-engineers-do-virtually-nothing-and-are-a-drain-on-enterprises/)
+* [Can chiplets save the US semiconductor industry? – Computerworld](https://digitpatrox.com/can-chiplets-save-the-us-semiconductor-industry-computerworld/)
+* [‘Sill’ Is the Best Way to Read Bluesky and Mastadon Links](https://digitpatrox.com/sill-is-the-best-way-to-read-bluesky-and-mastadon-links/)
+* [Why is Chrome So Slow? How to Speed Up Your Chrome Browser](https://digitpatrox.com/why-is-chrome-so-slow-how-to-speed-up-your-chrome-browser/)
+* [ChatGPT’s New Canvas Feature Makes It Great Again](https://digitpatrox.com/chatgpts-new-canvas-feature-makes-it-great-again/)
+* [Three things to look out for at AWS re:Invent 2024](https://digitpatrox.com/three-things-to-look-out-for-at-aws-reinvent-2024/)
+* [How to Find Windows 10 Product Key in 3 Ways](https://digitpatrox.com/how-to-find-windows-10-product-key-in-3-ways/)
+* [Since switching to a memory foam mattress I’ve slept better and more deeply — but should you buy one this Black Friday?](https://digitpatrox.com/since-switching-to-a-memory-foam-mattress-ive-slept-better-and-more-deeply-but-should-you-buy-one-this-black-friday/)
+* [New Rockstar 2FA phishing service targets Microsoft 365 accounts](https://digitpatrox.com/new-rockstar-2fa-phishing-service-targets-microsoft-365-accounts/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/yDJKgtuBwaxvZ7BZMsMee4-1200-80.jpg)](https://digitpatrox.com/avanade-names-new-general-manager-for-the-uk-and-ireland/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/09/What-is-Threatware_.jpg)](https://digitpatrox.com/what-is-threatware-and-how-do-i-avoid-it/)
     
-    [Avanade names new general manager for the UK and Ireland](https://digitpatrox.com/avanade-names-new-general-manager-for-the-uk-and-ireland/)
+    [What is threatware, and how do I avoid it?](https://digitpatrox.com/what-is-threatware-and-how-do-i-avoid-it/)
     
-    4 minutes ago
+    16 minutes ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3615039-0-86834400-1732905272-shutterstock_editorial_2237655785.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/the-conversation-that-never-ends-computerworld/)
+* [![](https://cdn.mos.cms.futurecdn.net/Vx9HnTZ3JkKzCjRc6ofwgN-1200-80.jpg)](https://digitpatrox.com/are-ghost-engineers-stunting-productivity-in-software-development-researchers-claim-nearly-10-of-engineers-do-virtually-nothing-and-are-a-drain-on-enterprises/)
     
-    [the conversation that never ends – Computerworld](https://digitpatrox.com/the-conversation-that-never-ends-computerworld/)
+    [Are ‘ghost engineers’ stunting productivity in software development? Researchers claim nearly 10% of engineers do “virtually nothing” and are a drain on enterprises](https://digitpatrox.com/are-ghost-engineers-stunting-productivity-in-software-development-researchers-claim-nearly-10-of-engineers-do-virtually-nothing-and-are-a-drain-on-enterprises/)
     
-    26 minutes ago
+    45 minutes ago
     
-* [![](https://lifehacker.com/imagery/articles/01JDWA0CM6VTDSG2AXP5A8PK8Y/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/blackblaze-is-30-off-during-black-friday/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3613331-0-02915200-1732878214-shutterstock_2344284257.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/can-chiplets-save-the-us-semiconductor-industry-computerworld/)
     
-    [Blackblaze Is 30% Off During Black Friday](https://digitpatrox.com/blackblaze-is-30-off-during-black-friday/)
-    
-    54 minutes ago
-    
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/How-to-watch-the-HSBC-SVNS-2024-25-live-online.jpg)](https://digitpatrox.com/how-to-watch-the-hsbc-svns-2024-25-live-online/)
-    
-    [How to watch the HSBC SVNS 2024/25 live online](https://digitpatrox.com/how-to-watch-the-hsbc-svns-2024-25-live-online/)
-    
-    60 minutes ago
-    
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1732741007/prod/content/dam/CRO-Images-2024/Home/CR-Home-InlineHero-Best-Compact-Vacuums-for-Small-Apartments-1124-v2)](https://digitpatrox.com/best-compact-vacuums-for-small-apartments/)
-    
-    [Best Compact Vacuums for Small Apartments](https://digitpatrox.com/best-compact-vacuums-for-small-apartments/)
+    [Can chiplets save the US semiconductor industry? – Computerworld](https://digitpatrox.com/can-chiplets-save-the-us-semiconductor-industry-computerworld/)
     
     1 hour ago
+    
+* [![](https://lifehacker.com/imagery/articles/01JDWJ6TESNKBHPH6433715EHP/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/sill-is-the-best-way-to-read-bluesky-and-mastadon-links/)
+    
+    [‘Sill’ Is the Best Way to Read Bluesky and Mastadon Links](https://digitpatrox.com/sill-is-the-best-way-to-read-bluesky-and-mastadon-links/)
+    
+    2 hours ago
+    
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/Why-is-Chrome-So-Slow_.jpg)](https://digitpatrox.com/why-is-chrome-so-slow-how-to-speed-up-your-chrome-browser/)
+    
+    [Why is Chrome So Slow? How to Speed Up Your Chrome Browser](https://digitpatrox.com/why-is-chrome-so-slow-how-to-speed-up-your-chrome-browser/)
+    
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,39 +208,39 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [4 minutes ago
+* [16 minutes ago
     
-    ### Avanade names new general manager for the UK and Ireland](https://digitpatrox.com/avanade-names-new-general-manager-for-the-uk-and-ireland/)
-* [26 minutes ago
+    ### What is threatware, and how do I avoid it?](https://digitpatrox.com/what-is-threatware-and-how-do-i-avoid-it/)
+* [45 minutes ago
     
-    ### the conversation that never ends – Computerworld](https://digitpatrox.com/the-conversation-that-never-ends-computerworld/)
-* [54 minutes ago
+    ### Are ‘ghost engineers’ stunting productivity in software development? Researchers claim nearly 10% of engineers do “virtually nothing” and are a drain on enterprises](https://digitpatrox.com/are-ghost-engineers-stunting-productivity-in-software-development-researchers-claim-nearly-10-of-engineers-do-virtually-nothing-and-are-a-drain-on-enterprises/)
+* [1 hour ago
     
-    ### Blackblaze Is 30% Off During Black Friday](https://digitpatrox.com/blackblaze-is-30-off-during-black-friday/)
+    ### Can chiplets save the US semiconductor industry? – Computerworld](https://digitpatrox.com/can-chiplets-save-the-us-semiconductor-industry-computerworld/)
 
 Most Popular Topics
 
 * [August 14, 2024
     
-    ### Gemini Live Arrives to Rival ChatGPT Voice; Here’s How to Get It](https://digitpatrox.com/gemini-live-arrives-to-rival-chatgpt-voice-heres-how-to-get-it/)
-* [September 24, 2024
+    ### AI firms face setback in copyright battle with visual artists – Computerworld](https://digitpatrox.com/ai-firms-face-setback-in-copyright-battle-with-visual-artists-computerworld/)
+* [1 week ago
     
-    ### The Delta emulator is getting online multiplayer for Nintendo DS games](https://digitpatrox.com/the-delta-emulator-is-getting-online-multiplayer-for-nintendo-ds-games/)
-* [11 hours ago
+    ### YouTube Music Is Already Rolling Out Its Version of Spotify Wrapped](https://digitpatrox.com/youtube-music-is-already-rolling-out-its-version-of-spotify-wrapped/)
+* [September 13, 2024
     
-    ### This MagSafe-Compatible Power Bank Is 40% Off for Black Friday](https://digitpatrox.com/this-magsafe-compatible-power-bank-is-40-off-for-black-friday/)
+    ### How to Find People on Snapchat](https://digitpatrox.com/how-to-find-people-on-snapchat/)
 
 Last Modified Topics
 
 * [2 hours ago
     
-    ### Nucleus Security launches revamped partner program](https://digitpatrox.com/nucleus-security-launches-revamped-partner-program/)
+    ### Three things to look out for at AWS re:Invent 2024](https://digitpatrox.com/three-things-to-look-out-for-at-aws-reinvent-2024/)
 * [2 hours ago
     
-    ### I’d cancel my phone service now and get this Mint Mobile deal for a crazy cheap $10 a month](https://digitpatrox.com/id-cancel-my-phone-service-now-and-get-this-mint-mobile-deal-for-a-crazy-cheap-10-a-month/)
+    ### How to Find Windows 10 Product Key in 3 Ways](https://digitpatrox.com/how-to-find-windows-10-product-key-in-3-ways/)
 * [3 hours ago
     
-    ### Cloudflare says it lost 55% of logs pushed to customers for 3.5 hours](https://digitpatrox.com/cloudflare-says-it-lost-55-of-logs-pushed-to-customers-for-3-5-hours/)
+    ### Since switching to a memory foam mattress I’ve slept better and more deeply — but should you buy one this Black Friday?](https://digitpatrox.com/since-switching-to-a-memory-foam-mattress-ive-slept-better-and-more-deeply-but-should-you-buy-one-this-black-friday/)
 
 Most Viewed Topics
 
