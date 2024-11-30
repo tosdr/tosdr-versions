@@ -86,15 +86,15 @@ MENU SEARCH FIND [SUBSCRIBE](https://independentaustralia.net/about-ia/subscribe
 
 * * *
 
-[Trump, Dutton and calling a fascist a Fascist](https://independentaustralia.net/article-display/trump-dutton-and-calling-a-fascist-a-fascist,19175)
+[5 Top enshittification picks for 2024](https://independentaustralia.net/article-display/5-top-enshittification-picks-for-2024,19213)
 
 [IA-is-fighting-for-survival! Please help](https://www.gofundme.com/f/ia-is-fighting-for-survival-its-life-depends-on-you)
 
-[Forty years on, Threads still delivers chilling nuclear message](https://independentaustralia.net/article-display/forty-years-on-threads-still-delivers-chilling-nuclear-message,19198)
+[Bashed in the street: Being Jewish and wearing a keffiyeh](https://independentaustralia.net/article-display/bashed-in-the-street-being-jewish-and-wearing-a-keffiyeh,19217)
 
-[Migrant settler nations at a crossroads on immigration policy](https://independentaustralia.net/article-display/politics-display/migrant-settler-nations-at-a-crossroads-on-immigration-policy,19197)
+[The 3G shutdown: Lessons from Australia and the world](https://independentaustralia.net/article-display/politics-display/the-3g-shutdown-lessons-from-australia-and-the-world,19208)
 
-[Trump's tariffs and their effect on the Australian economy](https://independentaustralia.net/article-display/trumps-tariffs-and-their-effect-on-the-australian-economy,19194)
+[Australia sets impressive trade records which newsrooms refuse to report](https://independentaustralia.net/article-display/australia-sets-impressive-trade-records-which-newsrooms-refuse-to-report,19202)
 
 Comments Policy
 
@@ -135,12 +135,12 @@ Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
 * [5 Top enshittification picks for 2024](https://independentaustralia.net/article-display/5-top-enshittification-picks-for-2024,19213 "Permanent Link : 5 Top enshittification picks for 2024")
+* [Katy Perry sues and Ed Sheeran rues Band Aid involvement](https://independentaustralia.net/article-display/katy-perry-sues-and-ed-sheeran-rues-band-aid-involvement,19219 "Permanent Link : Katy Perry sues and Ed Sheeran rues Band Aid involvement")
 * [James Morrison — He's 'all that jazz' and more](https://independentaustralia.net/article-display/james-morrison-hes-all-that-jazz-and-more,19210 "Permanent Link : James Morrison — He's 'all that jazz' and more")
 * [Bashed in the street: Being Jewish and wearing a keffiyeh](https://independentaustralia.net/article-display/bashed-in-the-street-being-jewish-and-wearing-a-keffiyeh,19217 "Permanent Link : Bashed in the street: Being Jewish and wearing a keffiyeh")
 * [Why are the Greens not initiating the strong case for Proportional Representation?](https://independentaustralia.net/article-display/why-are-the-greens-not-initiating-the-strong-case-for-proportional-representation,19216 "Permanent Link : Why are the Greens not initiating the strong case for Proportional Representation?")
 * [CARTOONS: Mark David is banning things, by golly!](https://independentaustralia.net/article-display/cartoons-mark-david-is-banning-things-by-golly,19214 "Permanent Link : CARTOONS: Mark David is banning things, by golly!")
 * [Australia’s Cyber Security Act 2024: A step forward – but at what cost?](https://independentaustralia.net/article-display/australias-cyber-security-act-2024-a-step-forward-but-at-what-cost,19215 "Permanent Link : Australia’s Cyber Security Act 2024: A step forward – but at what cost?")
-* [EDITORIAL: 5 Top enshittification picks for 2024](https://independentaustralia.net/article-display/editorial-5-top-enshittification-picks-for-2024,19212 "Permanent Link : EDITORIAL: 5 Top enshittification picks for 2024")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
