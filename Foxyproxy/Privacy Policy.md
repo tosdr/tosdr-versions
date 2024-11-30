@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thank you very much for your understanding and co-operation. That's very professional and ethical of you.
+Great service, been using it for years now, everytime I go to Germany, I am signing up.
 
-Paul Kube
+Andreas
