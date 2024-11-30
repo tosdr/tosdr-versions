@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/cfd22326-36d1-4866-b18f-26f8ffd4c469/20241130T012518/cfd22326-36d1-4866-b18f-26f8ffd4c469_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cfd22326-36d1-4866-b18f-26f8ffd4c469/20241130T012518/cfd22326-36d1-4866-b18f-26f8ffd4c469_360x203.jpg)](https://www.king5.com/article/news/local/seattle-business-owners-big-small-business-saturday/281-8f0be656-579d-4bdd-8d2b-c943eeb8158b)
+        
+        #### [Seattle shops leverage personal touch to compete with e-commerce giants ahead of Small Business Saturday](https://www.king5.com/article/news/local/seattle-business-owners-big-small-business-saturday/281-8f0be656-579d-4bdd-8d2b-c943eeb8158b)
+        
     *  [![](https://media.king5.com/assets/KING/images/fce1a7be-a48a-4612-a2c0-52e73ae2d27f/20241129T002603/fce1a7be-a48a-4612-a2c0-52e73ae2d27f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fce1a7be-a48a-4612-a2c0-52e73ae2d27f/20241129T002603/fce1a7be-a48a-4612-a2c0-52e73ae2d27f_360x203.jpg)](https://www.king5.com/article/news/local/tacoma/family-community-unite-serve-thanksgiving-feast-honoring-nora-lee-walker/281-580908bb-4a5c-425a-b3a7-ab7d3bad0167)
         
         #### [Family and community unite to serve Thanksgiving Feast honoring Nora Lee Walker](https://www.king5.com/article/news/local/tacoma/family-community-unite-serve-thanksgiving-feast-honoring-nora-lee-walker/281-580908bb-4a5c-425a-b3a7-ab7d3bad0167)
-        
-    *  [![](https://media.king5.com/assets/KING/images/db044f94-abd7-4da1-922e-37e7372dda4f/20241129T001444/db044f94-abd7-4da1-922e-37e7372dda4f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/db044f94-abd7-4da1-922e-37e7372dda4f/20241129T001444/db044f94-abd7-4da1-922e-37e7372dda4f_360x203.jpg)](https://www.king5.com/article/news/local/issaquah-storm-victims-holidays-away-home/281-2760f654-8963-4970-9de1-a85fe0a424cd)
-        
-        #### ['We're still grateful': Issaquah storm victims forced to spend holidays away from home](https://www.king5.com/article/news/local/issaquah-storm-victims-holidays-away-home/281-2760f654-8963-4970-9de1-a85fe0a424cd)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-44°
+40°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Fair](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
