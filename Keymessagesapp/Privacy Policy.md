@@ -311,7 +311,7 @@ Privacy Policy](https://www.mezo.ai/privacypolicy)
 Similar apps
 ------------
 
-_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGEdkeUtNeVRKRFJJMGdmMnJFVHEyTlE9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljKR6-w)
+_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGGkwMjBaQmpqQnVuTlVCb1V2U0pjcGc9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljKxozM)
 
 [![Thumbnail image](https://play-lh.googleusercontent.com/gnlpo5LYkUtiGNbNRhVFKVtOUnp_B_Sw85SM8QDYT9qA-4_Mq25KBhammMwoZphsjeg=s64)
 
@@ -327,7 +327,7 @@ SimpleLogin | Anti-spam
 
 Simple Login
 
-4.3_star_](https://play.google.com/store/apps/details?id=io.simplelogin.android)
+4.2_star_](https://play.google.com/store/apps/details?id=io.simplelogin.android)
 
 [![Thumbnail image](https://play-lh.googleusercontent.com/Cr59AhT17rgDJIbmKq76kMIa1iTxG7fiepHHOLMdyqXCleCQGvx5OLcE3Tl9p09dBZo=s64)
 
