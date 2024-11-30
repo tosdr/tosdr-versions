@@ -4,7 +4,7 @@
 
 ### 844-492-4247
 
-### NEW DEAL: Up to $625 Off Office Chairs || [Shop Now](https://www.xchair.com/collections/office-chairs "Office Chairs")
+### NEW DEAL: Up to $625 Off Office Chairs || [Shop Now](https://www.xchair.com/pages/xtech-limited-edition "The Limited Edition X-Tech Collection")
 
 [](https://www.xchair.com/)
 
