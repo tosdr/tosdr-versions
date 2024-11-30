@@ -902,4 +902,4 @@ You may like to read -
 * [Refund Policy](https://help.freeads.co.uk/support/solutions/articles/47001128557-refund-policy)
 * [How do I close my account?](https://help.freeads.co.uk/support/solutions/articles/47000872503-how-do-i-close-my-account-)
 * [Terms and conditions](https://help.freeads.co.uk/support/solutions/articles/47000874306-terms-and-conditions)
-* [PetSafe Deposit Scheme Terms and Conditions](https://help.freeads.co.uk/support/solutions/articles/47001195719-petsafe-deposit-scheme-terms-and-conditions)
+* [Cats & Kittens checklist](https://help.freeads.co.uk/support/solutions/articles/47000873196-cats-kittens-checklist)
