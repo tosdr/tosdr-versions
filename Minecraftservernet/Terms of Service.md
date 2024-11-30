@@ -29,17 +29,17 @@ Version All 1.21.3 1.21.2 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 
 
 Active Servers
 
-[![axn](plugins/MineCraft/icons/25x25xaxn_1729107605.png.pagespeed.ic.WJSivFsGJ1.jpg)
+[![HorusApl](plugins/MineCraft/icons/25x25xHorusApl_1720169128.png.pagespeed.ic.dbPZXbDd8P.png)
 
-Anarchy Network](https://minecraft-server.net/details/axn/ "Anarchy Network")[![HardcoreAnarchy](plugins/MineCraft/icons/25x25xHardcoreAnarchy_1723313227.png.pagespeed.ic.BxBvHn1f9s.png)
+ExeosCraft (1.21) | Economy SMP | McMMO | No Resets](https://minecraft-server.net/details/HorusApl/ "ExeosCraft (1.21) | Economy SMP | McMMO | No Resets")[![Folas1337](plugins/MineCraft/icons/Folas1337_1706960544.png)
 
-Hardcore Anarchy](https://minecraft-server.net/details/HardcoreAnarchy/ "Hardcore Anarchy")[![menacecraft](plugins/MineCraft/icons/25x25xmenacecraft_1652138567.png.pagespeed.ic.HfOnkxYpBG.png)
+~~ MetaUnion ~~ \[Friendly Community, No Pay2Win, RPG Survival, Creative\]](https://minecraft-server.net/details/Folas1337/ "~~ MetaUnion ~~ [Friendly Community, No Pay2Win, RPG Survival, Creative]")[![WinterCrest](plugins/MineCraft/icons/25x25xWinterCrest_1732329661.png.pagespeed.ic.abyuJw4X9V.png)
 
-Menacecraft Survival Server \[Java and Bedrock\]](https://minecraft-server.net/details/menacecraft/ "Menacecraft Survival Server [Java and Bedrock]")[![SkyblockAnarchy](plugins/MineCraft/icons/25x25xSkyblockAnarchy_1680402377.png.pagespeed.ic.VilkXiVJ71.jpg)
+WinterCrest Non Grief Survival](https://minecraft-server.net/details/WinterCrest/ "WinterCrest Non Grief Survival ")[![menacecraft](plugins/MineCraft/icons/25x25xmenacecraft_1652138567.png.pagespeed.ic.HfOnkxYpBG.png)
 
-Skyblock Anarchy](https://minecraft-server.net/details/SkyblockAnarchy/ "Skyblock Anarchy")[![mistylands](plugins/MineCraft/icons/25x25xmistylands_1666311278.png.pagespeed.ic.Obda9MLF8d.png)
+Menacecraft Survival Server \[Java and Bedrock\]](https://minecraft-server.net/details/menacecraft/ "Menacecraft Survival Server [Java and Bedrock]")[![mcprison](plugins/MineCraft/icons/25x25xmcprison_1732687836.png.pagespeed.ic.0wYsTOy-Nc.png)
 
-Mistylands Survival Est.2010](https://minecraft-server.net/details/mistylands/ "Mistylands Survival Est.2010")
+STAFF NEEDED - PURPLE PRISON](https://minecraft-server.net/details/mcprison/ "STAFF NEEDED - PURPLE PRISON")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Terms and Conditions of Minecraft-Server.net
@@ -125,4 +125,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.07948 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06376 - Created by [Debaucus](https://debauc.us/)
