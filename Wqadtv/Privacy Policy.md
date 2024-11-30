@@ -34,9 +34,9 @@ Navigation
         
         #### [2 killed in Dubuque County crash on Thanksgiving Day](https://www.wqad.com/article/news/local/2-killed-dubuque-county-crash-thanksgiving-day/526-ac4f428d-16c0-4b4c-aada-3ab7af01cd51)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/bd1debf8-bcde-413d-b984-1b1601a33906/20241129T040428/bd1debf8-bcde-413d-b984-1b1601a33906_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/bd1debf8-bcde-413d-b984-1b1601a33906/20241129T040428/bd1debf8-bcde-413d-b984-1b1601a33906_360x203.jpg)](https://www.wqad.com/article/news/local/mr-thanksgiving-holds-first-dinner-in-new-home/526-1f050a8f-1306-490a-b68b-1e9898b11f40)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/2f114174-889b-4d00-a5ff-95fb97ef3b2a/20241130T051844/2f114174-889b-4d00-a5ff-95fb97ef3b2a_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/2f114174-889b-4d00-a5ff-95fb97ef3b2a/20241130T051844/2f114174-889b-4d00-a5ff-95fb97ef3b2a_360x203.jpg)](https://www.wqad.com/article/news/local/arts-alley-holiday-market-opens-season/526-ebe3c914-a99e-4c31-98ee-66241c7b8f8c)
         
-        #### [Mr. Thanksgiving holds first dinner at Mercado on Fifth](https://www.wqad.com/article/news/local/mr-thanksgiving-holds-first-dinner-in-new-home/526-1f050a8f-1306-490a-b68b-1e9898b11f40)
+        #### [Arts Alley Holiday Market opens for the season](https://www.wqad.com/article/news/local/arts-alley-holiday-market-opens-season/526-ebe3c914-a99e-4c31-98ee-66241c7b8f8c)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -86,7 +86,7 @@ Navigation
 
 Davenport, IA »
 
-15°
+12°
 
 ![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
