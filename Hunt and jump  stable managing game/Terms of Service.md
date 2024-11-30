@@ -146,10 +146,10 @@ HuntAndJump.com Rules
 
 ![](/images/coloricons/News-Alerts-2.png)News & Alerts
 
-11/30/2024 1:07 AM EST
+11/30/2024 4:07 AM EST
 
-Saturday is your very last chance to enter the GE
--------------------------------------------------
+It's newsletter day, and your last chance to enter the GE!
+----------------------------------------------------------
 
 Absolutely no late entries will be accepted. Do not wait until the last moment.
 
