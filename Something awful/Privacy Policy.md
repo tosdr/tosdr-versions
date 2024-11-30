@@ -205,25 +205,25 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [I jerked off my dad!](https://www.somethingawful.com/awfulvision/juggalo-cat-incest/1/)
-* [PregFur and XXX Porn Talk](https://www.somethingawful.com/weekend-web/pregfur-porntalk/1/)
-* [Heroes of the Gaming World Trading Cards](https://www.somethingawful.com/feature-articles/heroes-gaming-world/1/)
-* [Needlessly Censored Images! \[Slightly NSFW!\]](https://www.somethingawful.com/photoshop-phriday/unnecessarily-blurred-pictures/)
-* [Gotcha Babes X-treme](https://www.somethingawful.com/game-reviews/gotcha-babes-xtreme/)
+* [Yahoo Personals Part 2](https://www.somethingawful.com/comedy-goldmine/yahoo-personals-part-2/1/)
+* [Second Life Exchange](https://www.somethingawful.com/weekend-web/second-life-exchange/1/)
+* [Add Pinhead Quotes to NASCAR Photos!](https://www.somethingawful.com/comedy-goldmine/nascar-pinhead-quotes/)
+* [Twitter Tuesday: May 24, 2011](https://www.somethingawful.com/twitter-tuesday/tt5-24-2011/1/)
+* [Video Game Forums](https://www.somethingawful.com/weekend-web/video-game-forums/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/hell-fuckthis.gif) [What is your religion and why?](http://forums.somethingawful.com/showthread.php?threadid=4076478 "What is your religion and why?")
-* ![](https://fi.somethingawful.com/images/shitpost.gif) [Made in USA - Supporting our fellow countrypeople](http://forums.somethingawful.com/showthread.php?threadid=4076499 "Made in USA - Supporting our fellow countrypeople")
+* ![](https://fi.somethingawful.com/forums/posticons/guns-review.gif) [Made in USA - Supporting our fellow countrypeople](http://forums.somethingawful.com/showthread.php?threadid=4076499 "Made in USA - Supporting our fellow countrypeople")
 * ![](https://fi.somethingawful.com/forums/posticons/fyad-toucan.gif) [Anyone got any New Years resolutions, to-do (or to-do-not-do) lists or solemn annual oaths percolati](http://forums.somethingawful.com/showthread.php?threadid=4076472 "Anyone got any New Years resolutions, to-do (or to-do-not-do) lists or solemn annual oaths percolati")
+* ![](https://fi.somethingawful.com/forums/posticons/hell-fuckthis.gif) [What is your religion and why?](http://forums.somethingawful.com/showthread.php?threadid=4076478 "What is your religion and why?")
 
 ### Random Articles
 
-* [Angry White Dude (Thanks, The Blackest Goon!)](https://www.somethingawful.com/awful-links/angry-white-dude/)
-* [Strange Moments in Sports](https://www.somethingawful.com/photoshop-phriday/strange-moments-sports/1/)
-* [Heavy.com Presents: The 5 Most Droolworthy Pieces of Ass on the House Committee on Armed Services](https://www.somethingawful.com/feature-articles/heavy-sexy-list/1/)
-* [Hey, I'm the Mansquito!](https://www.somethingawful.com/news/hey-im-mansquito/)
-* [The Amazing Spider-Man 2; A Spider-Man Retrospective](https://www.somethingawful.com/current-movie-reviews/amazing-spider-man2/1/)
+* [They're Still Making EverQuest Expansions](https://www.somethingawful.com/video-game-article/everquest-expansions/)
+* [Actually My Garden is Supposed to Look Like Shit](https://www.somethingawful.com/comedy-goldmine/intentional-bad-garden/)
+* [Transmissions From Planet Borgnine](https://www.somethingawful.com/news/transmissions-from-planet/)
+* [Turning Twenty-Two and the Quarterlife Crisis](https://www.somethingawful.com/news/quarterlife-crisis/1/)
+* [reCAPTCHA 2!](https://www.somethingawful.com/photoshop-phriday/recaptcha-recaptcha2-paint/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
