@@ -112,7 +112,7 @@ We may change this Privacy Policy from time to time. If we make changes, we will
 
 _Last updated: November 14, 2024_
 
-_“Working with Dave has been transformative for us as a couple. He's straightforward and practical, which was exactly what we needed to tackle the day-to-day challenges of moving back in together after two years of long distance. At the same time, he’s been incredibly supportive in helping us slowly unpack and address the deeper issues we’ve both been carrying. It's a relief to finally feel like we’re making real progress, both as individuals and as a couple, with someone who genuinely understands the balance we need.”_
+_“At first I thought I had to do what everyone else wanted and that I just had to get through the day meeting everyone’s demands. Then I learned that I can state my boundaries and what I will and won’t do and what I do and don’t want to do. And people actually respected that (the majority of people, there’s still people who try to push and get what they want more than anything).”_
 
 [Get Started Now](https://therapydave.com/therapist-appointments/)
 
