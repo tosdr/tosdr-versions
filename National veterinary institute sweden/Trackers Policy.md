@@ -1286,7 +1286,6 @@ Gå direkt till :
             * [Laboratorieingenjör alternativt BMA sökes till molekylär diagnostik](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/laboratorieingenjor-alternativt-bma-sokes-till-molekylar-diagnostik/)
             * [Lagerassistent- intermittent anställning](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/lagerassistent-intermittent-anstallning/)
             * [Receptionist - intermittent anställning](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/receptionist-intermittent-anstallning/)
-            * [Laboratorietekniker - intermittent anställning](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/laboratorietekniker-intermittent-anstallning/)
             * [Lokalvårdare](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/lokalvardare/)
             * [Verkstadstekniker/tekniker](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/verkstadstekniker-tekniker/)
             * [Lagerassistent](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/lagerassistent/)
