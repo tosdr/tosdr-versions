@@ -281,8 +281,6 @@ By email: [\[email protected\]](https://cal.com/cdn-cgi/l/email-protection).
 
 [Cal.com logo](https://cal.com/)®
 
-[Hiring](https://cal.com/jobs)
-
 Cal.com® and Cal® are a registered trademark by Cal.com, Inc. All rights reserved.
 
 [![EU-US Privacy Shield](/home/footer/eu-us.svg)](https://cal.com/security)[![ISO 27001](/home/footer/iso-dark.svg)](https://cal.com/security)[![SOC2](/home/footer/soc2-dark.svg)](https://cal.com/security)[![CCPA](/home/footer/ccpa-dark.svg)](https://cal.com/security)[![GDPR](/home/footer/gdpr-dark.svg)](https://cal.com/security)[![HIPAA](/home/footer/hipaa-dark.svg)](https://cal.com/security)
