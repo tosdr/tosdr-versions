@@ -221,7 +221,7 @@ Zip Code  QUOTE & SCHEDULE
 
 Enter your zip/postal code above to find carpet cleaning services in your area, get a free quote or book online!
 
-Average 4.7 Stars Based on 305,387 Reviews
+Average 4.7 Stars Based on 305,469 Reviews
 
 * [Home](https://www.oxifresh.com/)
 * \>
@@ -383,17 +383,17 @@ What Customers Are Saying
 
 ### Average 4.7 stars (Out of 5)
 
-Based on 305,387 Carpet Cleaning Services Reviews
+Based on 305,469 Carpet Cleaning Services Reviews
 
-**nw.** - Riverview, FL - 11/28/2024
-
-(5.0 Out of 5 stars)
-
-After being cleaned by Sergeo my 20 yr old carpet in my motorhome looked almost like new again. I highly recommend using Oxiclean Carpet Cleaners. **BZ.** - Yuma, AZ - 11/28/2024
+I was very very happy with Harsh who came to do the cleaning; he was friendly , polite and very professional. He was completely client-oriented, you couldn't ask for better. In addition to his doing a good job, there was very prompt replies from Oxi Fresh to me about the followup questions I had. **NG.** - Toronto, ON - 11/29/2024
 
 (5.0 Out of 5 stars)
 
-**TJ.** - Jacksonville, FL - 11/28/2024
+Joey did a fantastic job on my old dirty carpets. I have 4 dogs and 3 cats and have always had several pets so the carpets were pretty stained but he managed to get the stains, even the older ones, completely out. I am really impressed! **JR.** - Valley Center, KS - 11/29/2024
+
+(5.0 Out of 5 stars)
+
+Drying time with 1 hr and no dumping of water into gutters and irritating the neighbors. **RM.** - Cathedral City, CA - 11/28/2024
 
 (5.0 Out of 5 stars)
 
