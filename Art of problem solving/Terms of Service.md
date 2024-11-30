@@ -61,7 +61,7 @@ Middle & High School
 
 [Online Classes: AoPS Online](https://artofproblemsolving.com/) [In-person: AoPS Academy](https://aopsacademy.org/)
 
-Happy Thanksgiving! Please note that AoPS Online is closed November 28th and 29th.
+Happy Thanksgiving! Please note that there are no classes through December 1st.
 
 JavaScript is not enabled. JavaScript is required to fully utilize the site.
 
