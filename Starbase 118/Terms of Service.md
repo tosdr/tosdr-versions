@@ -352,6 +352,18 @@ Community News
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2020/05/24th-century-Constitution-refit-768x434.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/crisis-unfolds-on-the-uss-constitution-b-and-hermes-outpost/)
+
+### [Crisis unfolds on the USS Constitution-B and Hermes Outpost](https://www.starbase118.net/2024/crisis-unfolds-on-the-uss-constitution-b-and-hermes-outpost/)
+
+Federation News Service November 30, 2024
+
+HERMES STATION – Desperation grips the crew of the USS Constitution-B as mutineers strike amid repairs at Hermes Outpost. The crew of the USS Constitution-B
+
+[Read More »](https://www.starbase118.net/2024/crisis-unfolds-on-the-uss-constitution-b-and-hermes-outpost/)
+
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2021/11/Amity3-768x576.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/starfleet-reels-as-amity-outpost-renews-and-idrustix-colony-grows/)
 
 ### [Starfleet Reels as Amity Outpost Renews and Idrustix Colony Grows](https://www.starbase118.net/2024/starfleet-reels-as-amity-outpost-renews-and-idrustix-colony-grows/)
@@ -373,18 +385,6 @@ Alora DeVeau November 28, 2024
 Each month, we interview a captain or first officer of the fleet to gain more insight on what it takes to command a ship and
 
 [Read More »](https://www.starbase118.net/2024/captains-corner-lia-rouiancet-uss-octavia-e-butler/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2023/09/RoninBeauty-full-768x419.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/uss-ronin-and-uss-khitomer-repairs-and-extended-shore-leave-continue-at-deep-space-nine/)
-
-### [USS Ronin and USS Khitomer Repairs and Extended Shore Leave Continue at Deep Space Nine](https://www.starbase118.net/2024/uss-ronin-and-uss-khitomer-repairs-and-extended-shore-leave-continue-at-deep-space-nine/)
-
-Federation News Service November 27, 2024
-
-DEEP SPACE NINE – Repairs to the USS Ronin and USS Khitomer following the defense of Deep Space Thirty-Three have taken longer than anticipated, primarily
-
-[Read More »](https://www.starbase118.net/2024/uss-ronin-and-uss-khitomer-repairs-and-extended-shore-leave-continue-at-deep-space-nine/)
 
 Ready to get started?
 ---------------------
