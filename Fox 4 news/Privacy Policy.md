@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Kids say 88-year-old East Bay reading rock star has super powers](https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2024/11/32/18/tz1_cool-school-barbara-proctor-_00.00.01.30.jpg?ve=1&tl=1)
+ [![Man stabbed outside Dallas Target on Black Friday morning](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/04/32/18/Target-store.jpg?ve=1&tl=1)
 
- ![Kids say 88-year-old East Bay reading rock star has super powers](https://images.foxtv.com/images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2024/11/32/18/592/333/tz1_cool-school-barbara-proctor-_00.00.01.30.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/kids-say-88-year-old-east-bay-reading-rock-star-has-super-powers)
+ ![Man stabbed outside Dallas Target on Black Friday morning](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/04/32/18/592/333/Target-store.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/man-stabbed-outside-dallas-target-black-friday-morning)
 
-### [Kids say 88-year-old East Bay reading rock star has super powers](https://www.fox4news.com/news/kids-say-88-year-old-east-bay-reading-rock-star-has-super-powers)
+### [Man stabbed outside Dallas Target on Black Friday morning](https://www.fox4news.com/news/man-stabbed-outside-dallas-target-black-friday-morning)
 
- [![Notre Dame Cathedral reveals new interior 5 years after massive fire](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/notre-dame-remodeling.jpg?ve=1&tl=1)
+ [![Out-of-town shoppers flood DFW for Black Friday bargains](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/10/32/18/Holiday-shopping-in-New-York.jpg?ve=1&tl=1)
 
- ![Notre Dame Cathedral reveals new interior 5 years after massive fire](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/notre-dame-remodeling.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/notre-dame-cathedral-new-interior-after-fire)
+ ![Out-of-town shoppers flood DFW for Black Friday bargains](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/10/32/18/592/333/Holiday-shopping-in-New-York.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/black-friday-dfw)
 
-### [Notre Dame Cathedral reveals new interior 5 years after massive fire](https://www.fox4news.com/news/notre-dame-cathedral-new-interior-after-fire)
+### [Out-of-town shoppers flood DFW for Black Friday bargains](https://www.fox4news.com/news/black-friday-dfw)
 
- [![Amazon workers to strike between Black Friday, Cyber Monday in US, other countries](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/amazon-strike.jpg?ve=1&tl=1)
+ [![Man shot and killed in North Richland Hills home: police](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/05/32/18/Generic-police-tape-2-11.jpg?ve=1&tl=1)
 
- ![Amazon workers to strike between Black Friday, Cyber Monday in US, other countries](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/amazon-strike.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/amazon-workers-planning-strike-black-friday-cyber-monday)
+ ![Man shot and killed in North Richland Hills home: police](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/05/32/18/592/333/Generic-police-tape-2-11.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/man-shot-killed-north-richland-hills-home)
 
-### [Amazon workers to strike between Black Friday, Cyber Monday in US, other countries](https://www.fox4news.com/news/amazon-workers-planning-strike-black-friday-cyber-monday)
+### [Man shot and killed in North Richland Hills home: police](https://www.fox4news.com/news/man-shot-killed-north-richland-hills-home)
 
- [![Overshown’s flashy pick-6 boosts Cowboys in 27-20 Thanksgiving win over Giants](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/gettyimages-2186703751-scaled.jpg?ve=1&tl=1)
+ [![Man pays $6.2M for banana art, ends up eating it](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/sun-eats-banana.jpg?ve=1&tl=1)
 
- ![Overshown’s flashy pick-6 boosts Cowboys in 27-20 Thanksgiving win over Giants](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/gettyimages-2186703751-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/cowboys-giants-score-thanksgiving-2024)
+ ![Man pays $6.2M for banana art, ends up eating it](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/sun-eats-banana.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/man-pays-6-2m-banana-art-ends-up-eating-2024)
 
-### [Overshown’s flashy pick-6 boosts Cowboys in 27-20 Thanksgiving win over Giants](https://www.fox4news.com/sports/cowboys-giants-score-thanksgiving-2024)
+### [Man pays $6.2M for banana art, ends up eating it](https://www.fox4news.com/news/man-pays-6-2m-banana-art-ends-up-eating-2024)
 
- [![Dallas Cowboys tailgaters thankful for a Thanksgiving Day win](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/11282024-rr-pkg-dionne-thanksgiving-tailgating-att_00.00.41.58.jpg?ve=1&tl=1)
+ [![Here's how you can safely store your Thanksgiving leftovers](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/thanksgiving-food.jpg?ve=1&tl=1)
 
- ![Dallas Cowboys tailgaters thankful for a Thanksgiving Day win](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/11282024-rr-pkg-dionne-thanksgiving-tailgating-att_00.00.41.58.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-cowboys-tailgaters-thankful-thanksgiving-day-win)
+ ![Here's how you can safely store your Thanksgiving leftovers](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/thanksgiving-food.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/safely-storing-thanksgiving-leftovers)
 
-### [Dallas Cowboys tailgaters thankful for a Thanksgiving Day win](https://www.fox4news.com/news/dallas-cowboys-tailgaters-thankful-thanksgiving-day-win)
+### [Here's how you can safely store your Thanksgiving leftovers](https://www.fox4news.com/news/safely-storing-thanksgiving-leftovers)
 
 ###### [News](https://www.fox4news.com/news)
 
