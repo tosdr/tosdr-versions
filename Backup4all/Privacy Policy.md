@@ -301,15 +301,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to backup your data to Aruba Cloud](https://www.backup4all.com/how-to-backup-your-data-to-aruba-cloud-kb.html)  
+* [How the incremental limit works in Backup4all](https://www.backup4all.com/how-the-incremental-limit-works-in-backup4all-kb.html)  
     
-* [How to backup your data to ThinkOn](https://www.backup4all.com/how-to-backup-your-data-to-thinkon-kb.html)  
+* [How to restore a backup from Google Drive](https://www.backup4all.com/how-to-restore-a-backup-from-google-drive-kb.html)  
     
-* [How to back up data files from NiftyClouds us ...](https://www.backup4all.com/how-to-back-up-data-files-from-niftyclouds-using-backup4all-kb.html)  
+* [How to back up files from Cloudflare R2 using ...](https://www.backup4all.com/how-to-back-up-files-from-cloudflare-r2-using-backup4all-kb.html)  
     
-* [How to back up data files from HGST using Bac ...](https://www.backup4all.com/how-to-back-up-data-files-from-hgst-using-backup4all-kb.html)  
+* [How to install Backup4all using the main inte ...](https://www.backup4all.com/how-to-install-backup4all-using-the-main-interface-kb.html)  
     
-* [What are Backup operators?](https://www.backup4all.com/what-are-backup-operators-kb.html)  
+* [How to schedule a backup job or backup tag wi ...](https://www.backup4all.com/how-to-schedule-a-backup-job-or-backup-tag-without-using-backup4ll-kb.html)  
     
 
 Choose language:
