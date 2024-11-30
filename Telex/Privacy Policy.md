@@ -4,7 +4,7 @@ András, Andor
 
 ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNgYAAAAAMAASsJTYQAAAAASUVORK5CYII= "derült")
 
-2°8°
+3°8°
 
 Menü
 
