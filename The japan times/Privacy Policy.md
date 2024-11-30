@@ -468,21 +468,25 @@ Revised June 1, 2022
 
   [![In 2022, the number of elderly people with dementia in Japan reached 4.43 million, according to data from the health ministry. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/28/436797.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "In 2022, the number of elderly people with dementia in Japan reached 4.43 million, according to data from the health ministry. ")](https://www.japantimes.co.jp/news/2024/11/28/japan/science-health/keio-university-alzheimers/ "Japan researchers develop a simple way to spot signs of Alzheimer's disease")
 
+[Tokyo police arrest six Chinese nationals over _yami baito_ scheme](https://www.japantimes.co.jp/news/2024/11/29/japan/crime-legal/chinese-arrest-kidnapping/ "Tokyo police arrest six Chinese nationals over yami baito scheme")
+
+  [![Tokyo police have arrested six Chinese nationals on suspicion of unlawful confinement and attempted extortion involving a 23-year-old exchange student who had become involved in a financial dispute over a yami baito, or a “dark” part-time job.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/29/437203.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tokyo police have arrested six Chinese nationals on suspicion of unlawful confinement and attempted extortion involving a 23-year-old exchange student who had become involved in a financial dispute over a yami baito, or a “dark” part-time job.")](https://www.japantimes.co.jp/news/2024/11/29/japan/crime-legal/chinese-arrest-kidnapping/ "Tokyo police arrest six Chinese nationals over yami baito scheme")
+
 [Japan to overhaul tax exemption system for foreign visitors](https://www.japantimes.co.jp/news/2024/11/28/japan/tax-exemption-system-overhaul/ "Japan to overhaul tax exemption system for foreign visitors")
 
   [![The Ginza shopping district in Tokyo in August](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/28/437056.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Ginza shopping district in Tokyo in August")](https://www.japantimes.co.jp/news/2024/11/28/japan/tax-exemption-system-overhaul/ "Japan to overhaul tax exemption system for foreign visitors")
+
+[‘God of management’ comes back to life as an AI model](https://www.japantimes.co.jp/business/2024/11/28/companies/panasonic-founder-ai-clone/ "‘God of management’ comes back to life as an AI model")
+
+  [![A statue of Konosuke Matsushita in the grounds of the Konosuke Matsushita Museum in Kadoma, Osaka Prefecture](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/28/436997.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A statue of Konosuke Matsushita in the grounds of the Konosuke Matsushita Museum in Kadoma, Osaka Prefecture")](https://www.japantimes.co.jp/business/2024/11/28/companies/panasonic-founder-ai-clone/ "‘God of management’ comes back to life as an AI model")
 
 [Two dead after fire at Upper House lawmaker Kuniko Inoguchi’s apartment](https://www.japantimes.co.jp/news/2024/11/28/japan/politics/kuniko-inoguchi-fire/ "Two dead after fire at Upper House lawmaker Kuniko Inoguchi’s apartment")
 
   [![A fire broke out on the sixth floor of an apartment building where Upper House lawmaker Kuniko Inoguchi resides on Wednesday in Tokyo's Bunkyo Ward.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/28/436926.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A fire broke out on the sixth floor of an apartment building where Upper House lawmaker Kuniko Inoguchi resides on Wednesday in Tokyo's Bunkyo Ward.")](https://www.japantimes.co.jp/news/2024/11/28/japan/politics/kuniko-inoguchi-fire/ "Two dead after fire at Upper House lawmaker Kuniko Inoguchi’s apartment")
 
-[Real-life ‘Tokyo Swindlers’ ordered to pay ¥1 billion in damages](https://www.japantimes.co.jp/news/2024/11/28/japan/crime-legal/tokyo-swindlers-case/ "Real-life ‘Tokyo Swindlers’ ordered to pay ¥1 billion in damages")
+[Ishiba sticks to the basics in second policy speech](https://www.japantimes.co.jp/news/2024/11/29/japan/politics/ishiba-policy-speech/ "Ishiba sticks to the basics in second policy speech")
 
-  [![High-rise buildings in Tokyo. Through faking documents and passports a criminal group conspired to pose as the owner of a real-estate plot and buildings in Tokyo's Shinagawa Ward in 2017, defrauding Sekisui House of ¥5.5 billion.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/28/437015.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "High-rise buildings in Tokyo. Through faking documents and passports a criminal group conspired to pose as the owner of a real-estate plot and buildings in Tokyo's Shinagawa Ward in 2017, defrauding Sekisui House of ¥5.5 billion.")](https://www.japantimes.co.jp/news/2024/11/28/japan/crime-legal/tokyo-swindlers-case/ "Real-life ‘Tokyo Swindlers’ ordered to pay ¥1 billion in damages")
-
-[Real estate worth ¥25 trillion puts Japan companies in spotlight](https://www.japantimes.co.jp/business/2024/11/28/companies/japan-undervalued-real-estate/ "Real estate worth ¥25 trillion puts Japan companies in spotlight")
-
-  [![Elliott Investment Management's stake in Tokyo Gas is centered around getting the utility to sell off its real estate holdings, including Shinjuku Park Tower, which houses the Park Hyatt Hotel Tokyo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/28/436887.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Elliott Investment Management's stake in Tokyo Gas is centered around getting the utility to sell off its real estate holdings, including Shinjuku Park Tower, which houses the Park Hyatt Hotel Tokyo.")](https://www.japantimes.co.jp/business/2024/11/28/companies/japan-undervalued-real-estate/ "Real estate worth ¥25 trillion puts Japan companies in spotlight")
+  [![Prime Minister Shigeru Ishiba delivers his policy speech at the Lower House of parliament in Tokyo on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/29/437234.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba delivers his policy speech at the Lower House of parliament in Tokyo on Friday.")](https://www.japantimes.co.jp/news/2024/11/29/japan/politics/ishiba-policy-speech/ "Ishiba sticks to the basics in second policy speech")
 
 [Hiroshi Kurosaki looks beyond Japan for heart-wrenching drama](https://www.japantimes.co.jp/culture/2024/11/29/tv-streaming/beyond-goodbye-hiroshi-kurosaki/ "Hiroshi Kurosaki looks beyond Japan for heart-wrenching drama")
 
@@ -496,9 +500,9 @@ Revised June 1, 2022
 
   [![“What Divides Us" producer Cannon Hersey says his grandfather, who wrote about the aftermath of nuclear destruction in Hiroshima, never spoke about what he had seen while working with Japanese minister Kiyoshi Tanimoto to preserve the stories of survivors.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/27/436856.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "“What Divides Us" producer Cannon Hersey says his grandfather, who wrote about the aftermath of nuclear destruction in Hiroshima, never spoke about what he had seen while working with Japanese minister Kiyoshi Tanimoto to preserve the stories of survivors.")](https://www.japantimes.co.jp/culture/2024/11/27/film/what-divides-us-hiroshima/ "‘What Divides Us’ producer honors grandfather’s Hiroshima reportage")
 
-[DPP’s Tamaki leverages new position with energy proposal](https://www.japantimes.co.jp/news/2024/11/27/japan/politics/ishiba-tamaki-nuclear-energy/ "DPP’s Tamaki leverages new position with energy proposal")
+[Bluesky is booming in Japan — mainly for reasons other than U.S. politics](https://www.japantimes.co.jp/business/2024/11/25/companies/bluesky-social-japan/ "Bluesky is booming in Japan — mainly for reasons other than U.S. politics")
 
-  [![DPP leader Yuichiro Tamaki in Tokyo on Tuesday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/27/436830.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "DPP leader Yuichiro Tamaki in Tokyo on Tuesday")](https://www.japantimes.co.jp/news/2024/11/27/japan/politics/ishiba-tamaki-nuclear-energy/ "DPP’s Tamaki leverages new position with energy proposal")
+  [![According to Similarweb, average monthly user numbers for Bluesky on Android in Japan quintupled in the 12 months to October.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/25/436245.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "According to Similarweb, average monthly user numbers for Bluesky on Android in Japan quintupled in the 12 months to October.")](https://www.japantimes.co.jp/business/2024/11/25/companies/bluesky-social-japan/ "Bluesky is booming in Japan — mainly for reasons other than U.S. politics")
 
 Podcast
 -------
@@ -561,25 +565,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Jihadis and allies breach Syria's second city in lightning assault](https://www.japantimes.co.jp/news/2024/11/30/world/syria-aleppo-rebels-advance/ "Jihadis and allies breach Syria's second city in lightning assault")
-
-1 hour ago
-
-[Pete Hegseth’s mother accused her son of mistreating women for years](https://www.japantimes.co.jp/news/2024/11/30/world/politics/pete-hegseth-mistreating-women-mother/ "Pete Hegseth’s mother accused her son of mistreating women for years")
-
-1 hour ago
-
-[France shows off restored Notre Dame after 'impossible' restoration](https://www.japantimes.co.jp/news/2024/11/30/world/france-restored-notre-dame/ "France shows off restored Notre Dame after 'impossible' restoration")
+[Nissan CFO set to step down as carmaker faces raft of challenges](https://www.japantimes.co.jp/business/2024/11/30/companies/nissan-cfo-steps-down/ "Nissan CFO set to step down as carmaker faces raft of challenges")
 
 2 hours ago
 
-[Saudi Arabia abandons pursuit of U.S. defense treaty over Israel stalemate](https://www.japantimes.co.jp/news/2024/11/30/world/politics/saudi-arabia-us-defense-treaty-israel/ "Saudi Arabia abandons pursuit of U.S. defense treaty over Israel stalemate")
+[Rush to ‘value up’ may be Asia stocks best defense against Trump](https://www.japantimes.co.jp/business/2024/11/30/markets/asia-stocks-trump-defense/ "Rush to ‘value up’ may be Asia stocks best defense against Trump")
 
 2 hours ago
 
-[Canada’s Justin Trudeau arrives in Florida for meeting with Trump](https://www.japantimes.co.jp/news/2024/11/30/world/politics/canada-trudeu-trump-tariffs/ "Canada’s Justin Trudeau arrives in Florida for meeting with Trump")
+[Japan companies boosting benefits for long-term shareholders](https://www.japantimes.co.jp/business/2024/11/30/markets/japan-companies-long-term-shareholders/ "Japan companies boosting benefits for long-term shareholders")
 
-2 hours ago
+4 hours ago
+
+[U.S. approves $385 million arms sale to Taiwan](https://www.japantimes.co.jp/news/2024/11/30/asia-pacific/politics/us-taiwan-arms-sales/ "U.S. approves $385 million arms sale to Taiwan")
+
+5 hours ago
+
+[Canada’s Justin Trudeau holds crucial meeting with Trump in Florida](https://www.japantimes.co.jp/news/2024/11/30/world/politics/canada-trudeu-trump-tariffs/ "Canada’s Justin Trudeau holds crucial meeting with Trump in Florida")
+
+6 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
