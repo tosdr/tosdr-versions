@@ -87,13 +87,13 @@ Most Read
     
     1. [The upside-down capacitor in mid-‘90s Macs, proven and documented by hobbyists](https://arstechnica.com/gadgets/2024/11/the-upside-down-capacitor-in-mid-90s-macs-proven-and-documented-by-hobbyists/)
     
-2. 2. [Man suffers chemical burn that lasted months after squeezing limes](https://arstechnica.com/health/2024/11/man-suffers-chemical-burn-that-lasted-months-after-squeezing-limes/)
+2. 2. [It’s Black Friday, and here are the best shopping deals we could find](https://arstechnica.com/shopping/2024/11/its-black-friday-and-here-are-the-best-shopping-deals-we-could-find/)
     
 3. 3. [Flour, water, salt, GitHub: The Bread Code is a sourdough baking framework](https://arstechnica.com/culture/2024/11/flour-water-salt-github-the-bread-code-is-a-sourdough-baking-framework/)
     
-4. 4. [NASA awards SpaceX a contract for one of the few things it hasn’t done yet](https://arstechnica.com/space/2024/11/with-dragonfly-contract-nasa-will-certify-spacex-for-nuclear-powered-payloads/)
+4. 4. [Man suffers chemical burn that lasted months after squeezing limes](https://arstechnica.com/health/2024/11/man-suffers-chemical-burn-that-lasted-months-after-squeezing-limes/)
     
-5. 5. [Found on VirusTotal: The world’s first UEFI bootkit for Linux](https://arstechnica.com/security/2024/11/found-in-the-wild-the-worlds-first-unkillable-uefi-bootkit-for-linux/)
+5. 5. [Vintage digicams aren’t just a fad. They’re an artistic statement.](https://arstechnica.com/gadgets/2024/11/vintage-digicams-arent-just-a-fad-theyre-an-artistic-statement/)
     
 
 Customize
