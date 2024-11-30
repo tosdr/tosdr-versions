@@ -21,6 +21,8 @@
 [Privacy Policy](https://www.openculture.com/privacy_policy "Permanent Link to Privacy Policy")
 ===============================================================================================
 
+[](https://www.addtoany.com/add_to/bluesky?linkurl=https%3A%2F%2Fwww.openculture.com%2Fprivacy_policy&linkname=Privacy%20Policy "Bluesky")[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.openculture.com%2Fprivacy_policy&linkname=Privacy%20Policy "Facebook")[](https://www.addtoany.com/add_to/threads?linkurl=https%3A%2F%2Fwww.openculture.com%2Fprivacy_policy&linkname=Privacy%20Policy "Threads")[](https://www.addtoany.com/add_to/mastodon?linkurl=https%3A%2F%2Fwww.openculture.com%2Fprivacy_policy&linkname=Privacy%20Policy "Mastodon")[](https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Fwww.openculture.com%2Fprivacy_policy&linkname=Privacy%20Policy "Reddit")[](https://www.addtoany.com/add_to/sms?linkurl=https%3A%2F%2Fwww.openculture.com%2Fprivacy_policy&linkname=Privacy%20Policy "Message")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.openculture.com%2Fprivacy_policy&linkname=Privacy%20Policy "Email")[](https://www.addtoany.com/share)
+
 Last mod­i­fied: July 27, 2024
 
 Open Cul­ture, LLC (“Open Cul­ture,” “we” or “us”) knows that you care how infor­ma­tion about you is used and shared.  This Pri­va­cy Pol­i­cy explains how Open Cul­ture col­lects and uses infor­ma­tion at its web­site locat­ed at [www.openculture.com](https://www.openculture.com/) and at oth­er web­sites and mobile ser­vices pro­vid­ed by Open Cul­ture (col­lec­tive­ly the “Net­work Web­sites”).  This Pri­va­cy Pol­i­cy also explains how you can con­trol the col­lec­tion, cor­rec­tion and/or dele­tion of cer­tain types of infor­ma­tion that we col­lect.  We will not use or share your infor­ma­tion with any­one except as described in this Pri­va­cy Pol­i­cy.  This Pri­va­cy Pol­i­cy does not apply to infor­ma­tion we col­lect by oth­er means (includ­ing offline) or from oth­er sources.  Fur­ther, this Pri­va­cy Pol­i­cy does not apply to any web­sites, web­pages, blogs, appli­ca­tions, wid­gets or oth­er ser­vices oper­at­ed by any third par­ty, includ­ing our affil­i­ates, adver­tis­ers, providers and part­ners.
@@ -153,6 +155,8 @@ If you have any ques­tions about this Pri­va­cy Pol­i­cy, the prac­tices o
 Under CCPA, Cal­i­forn­ian res­i­dents have the right to declare their pref­er­ences on the sale of data for adver­tis­ing and mar­ket­ing pur­pos­es. If you wish to change your pref­er­ences, click this link to launch our pref­er­ence por­tal:
 
 We use a third-par­ty to pro­vide mon­eti­sa­tion tech­nolo­gies for our site. You can review their pri­va­cy and cook­ie pol­i­cy at https://publift.com/privacy-policy/.
+
+[](https://www.addtoany.com/add_to/bluesky?linkurl=https%3A%2F%2Fwww.openculture.com%2Fprivacy_policy&linkname=Privacy%20Policy "Bluesky")[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.openculture.com%2Fprivacy_policy&linkname=Privacy%20Policy "Facebook")[](https://www.addtoany.com/add_to/threads?linkurl=https%3A%2F%2Fwww.openculture.com%2Fprivacy_policy&linkname=Privacy%20Policy "Threads")[](https://www.addtoany.com/add_to/mastodon?linkurl=https%3A%2F%2Fwww.openculture.com%2Fprivacy_policy&linkname=Privacy%20Policy "Mastodon")[](https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Fwww.openculture.com%2Fprivacy_policy&linkname=Privacy%20Policy "Reddit")[](https://www.addtoany.com/add_to/sms?linkurl=https%3A%2F%2Fwww.openculture.com%2Fprivacy_policy&linkname=Privacy%20Policy "Message")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.openculture.com%2Fprivacy_policy&linkname=Privacy%20Policy "Email")[](https://www.addtoany.com/share)
 
 **Sup­port Open Cul­ture**
 
@@ -481,7 +485,7 @@ We’re hop­ing to rely on our loy­al read­ers rather than errat­ic ads. To 
     * [Writing](https://www.openculture.com/category/writing)
     * [Yale](https://www.openculture.com/category/yale)
     * [YouTube](https://www.openculture.com/category/youtube)
-* [](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.openculture.com%2Fprivacy_policy&linkname=Privacy%20Policy "Facebook")[](https://www.addtoany.com/add_to/threads?linkurl=https%3A%2F%2Fwww.openculture.com%2Fprivacy_policy&linkname=Privacy%20Policy "Threads")[](https://www.addtoany.com/add_to/mastodon?linkurl=https%3A%2F%2Fwww.openculture.com%2Fprivacy_policy&linkname=Privacy%20Policy "Mastodon")[](https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Fwww.openculture.com%2Fprivacy_policy&linkname=Privacy%20Policy "Reddit")[](https://www.addtoany.com/add_to/sms?linkurl=https%3A%2F%2Fwww.openculture.com%2Fprivacy_policy&linkname=Privacy%20Policy "Message")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.openculture.com%2Fprivacy_policy&linkname=Privacy%20Policy "Email")[](https://www.addtoany.com/share)
+* [](https://www.addtoany.com/add_to/bluesky?linkurl=https%3A%2F%2Fwww.openculture.com%2Fprivacy_policy&linkname=Privacy%20Policy "Bluesky")[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.openculture.com%2Fprivacy_policy&linkname=Privacy%20Policy "Facebook")[](https://www.addtoany.com/add_to/threads?linkurl=https%3A%2F%2Fwww.openculture.com%2Fprivacy_policy&linkname=Privacy%20Policy "Threads")[](https://www.addtoany.com/add_to/mastodon?linkurl=https%3A%2F%2Fwww.openculture.com%2Fprivacy_policy&linkname=Privacy%20Policy "Mastodon")[](https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Fwww.openculture.com%2Fprivacy_policy&linkname=Privacy%20Policy "Reddit")[](https://www.addtoany.com/add_to/sms?linkurl=https%3A%2F%2Fwww.openculture.com%2Fprivacy_policy&linkname=Privacy%20Policy "Message")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.openculture.com%2Fprivacy_policy&linkname=Privacy%20Policy "Email")[](https://www.addtoany.com/share)
     
 
 * Great Lectures
@@ -520,7 +524,7 @@ We’re hop­ing to rely on our loy­al read­ers rather than errat­ic ads. To 
     
     ![](https://www.openculture.com/wp-content/plugins/native-lazyload/assets/images/placeholder.svg "click to reload")
     
-    ![](https://www.openculture.com/wp-admin/admin-ajax.php?action=mailster_coolcaptcha_img&nocache=1732910592&formid=1 "click to reload")
+    ![](https://www.openculture.com/wp-admin/admin-ajax.php?action=mailster_coolcaptcha_img&nocache=1732930603&formid=1 "click to reload")
     
 * About Us
     --------
@@ -866,5 +870,3 @@ All rights reserved.
   
 
 ![Quantcast](//pixel.quantserve.com/pixel/p-0dRTlf6K0FnoM.gif)
-
-Open Culture was founded by [Dan Colman.](https://www.linkedin.com/in/dancolman "Linkedin")
