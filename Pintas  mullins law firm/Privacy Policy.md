@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Are certain people most likely to get mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-are-certain-people-most-likely-to-get-mesothelioma.jpg "Are Certain People Most Likely to Get Mesothelioma?")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/are-certain-people-most-likely-to-get-mesothelioma/ "Are Certain People Most Likely to Get Mesothelioma?")
-
-[#### Are Certain People Most Likely to Get Mesothelioma?](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/are-certain-people-most-likely-to-get-mesothelioma/)
-
 [![Can someone be arrested for emotional abuse?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-can-someone-be-arrested-for-emotional-abuse.jpg "Can Someone Be Arrested for Emotional Abuse?")](https://www.pintas.com/faq/can-someone-be-arrested-for-emotional-abuse/ "Can Someone Be Arrested for Emotional Abuse?")
 
 [#### Can Someone Be Arrested for Emotional Abuse?](https://www.pintas.com/faq/can-someone-be-arrested-for-emotional-abuse/)
 
-[![Can you sue for a car accident if you are not hurt?](https://www.pintas.com/wp-content/uploads/2020/07/car-accidents-can-you-sue-for-a-car-accident-if-you-are-not-hurt.jpg "Can You Sue For a Car Accident If You Are Not Hurt?")](https://www.pintas.com/practice-areas/car-accident-lawyer/can-you-sue-for-a-car-accident-if-you-are-not-hurt/ "Can You Sue For a Car Accident If You Are Not Hurt?")
+[![Can you survive pleural mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-can-you-survive-pleural-mesothelioma.jpg "Can You Survive Pleural Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-you-survive-pleural-mesothelioma/ "Can You Survive Pleural Mesothelioma?")
 
-[#### Can You Sue For a Car Accident If You Are Not Hurt?](https://www.pintas.com/practice-areas/car-accident-lawyer/can-you-sue-for-a-car-accident-if-you-are-not-hurt/)
+[#### Can You Survive Pleural Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-you-survive-pleural-mesothelioma/)
+
+[![What’s the difference between lung cancer and mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-whats-the-difference-between-lung-cancer-and-mesothelioma.jpg "What’s the Difference Between Lung Cancer and Mesothelioma?")](https://www.pintas.com/lung-cancer/whats-the-difference-between-lung-cancer-and-mesothelioma/ "What’s the Difference Between Lung Cancer and Mesothelioma?")
+
+[#### What’s the Difference Between Lung Cancer and Mesothelioma?](https://www.pintas.com/lung-cancer/whats-the-difference-between-lung-cancer-and-mesothelioma/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Name
 
 This field is for validation purposes and should be left unchanged.
 
