@@ -1,7 +1,7 @@
 * [Skip to primary navigation](#genesis-nav-primary)
 * [Skip to main content](#genesis-content)
 
-[![TherapyDave](https://therapydave.com/wp-content/uploads/therapydave-eugene-oregon.png)](https://therapydave.com/)
+ [![TherapyDave](https://therapydave.com/wp-content/uploads/therapydave-lechnyr.png)](https://therapydave.com/)
 
 TherapyDave
 
@@ -21,7 +21,7 @@ Privacy Policy
 
 Privacy Policy for TherapyDave.com
 
-This Privacy Policy explains how DTSC, LLC d/b/a TherapyDave collects, uses, and discloses information about you when you use this website. Additional definitions, terms, and conditions are stipulated in the [Terms of Service](https://therapydave.com/terms/) and [Disclaimer](https://therapydave.com/disclaimer/) which are hereby expressly incorporated into this document by reference.
+This Privacy Policy explains how TherapyDave™ collects, uses, and discloses information about you when you use this website. Additional definitions, terms, and conditions are stipulated in the [Terms of Service](https://therapydave.com/terms/) and [Disclaimer](https://therapydave.com/disclaimer/) which are hereby expressly incorporated into this document by reference.
 
 HIPAA Notice of Privacy Practices
 ---------------------------------
@@ -116,7 +116,9 @@ _“Working with Dave has been just what we needed. He doesn’t sugarcoat thing
 
 [Get Started Now](https://therapydave.com/therapist-appointments/)
 
-Dave Lechnyr, LCSW  
+ [![TherapyDave](https://therapydave.com/wp-content/uploads/therapydave-eugene.png)](https://therapydave.com/)
+
+Dave Lechnyr, LCSW · TherapyDave™  
 Certified Gottman Therapist  
 2440 Willamette Street, Suite 101-C  
 Eugene, OR 97405-3170  
