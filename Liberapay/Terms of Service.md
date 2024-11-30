@@ -11,7 +11,7 @@
     * [Italiano](https://it.liberapay.com/about/legal)
     * [Magyar](https://hu.liberapay.com/about/legal)
     * [Melayu](https://ms.liberapay.com/about/legal)
-    * [Nederlands   (1% machine translated)](https://nl.liberapay.com/about/legal)
+    * [Nederlands](https://nl.liberapay.com/about/legal)
     * [Norsk bokmål   (20% machine translated)](https://nb.liberapay.com/about/legal)
     * [Polski](https://pl.liberapay.com/about/legal)
     * [Português   (2% machine translated)](https://pt.liberapay.com/about/legal)
