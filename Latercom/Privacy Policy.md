@@ -479,19 +479,18 @@ Sections
 * [Other Terms and Conditions](#other-terms-and-conditions)
 * [Changes to Later Influence’s Privacy Policy](#changes-to-mavrcks-privacy-policy)
 * [International Users](#international-users)
-* [EU-US Data Privacy Framework](#eu-us-data-privacy-framework)
 * [Contact Us](#mavrck-contact-us)
 
 **Later Influence Influencer Marketing Solution Privacy Policy**
 ----------------------------------------------------------------
 
-Effective date: June 25, 2024
+Effective date: November 29, 2024
 
 * * *
 
 ### **Overview**
 
-Later’s Influencer Marketing Solution is powered by Mavrck LLC (formerly called “Mavrck” and now referred to as “**Later Influence**”, “**we**” “**us**” and/or “**our**”). Later Influence is a part of the Later Group of Companies and owns and operates proprietary web-based influencer marketing platform available at app.mavrck.co (the “**Influencer Marketing Platform**”), and makes available other associated marketing and promotional services, including through various “community” websites affiliated with Brands (as defined below) (collectively, the Web Sites, Influencer Marketing Platform, and such services, including any future features and applications, the “**Later Influence** **Services**”). The Later Influence Services are designed to offer users of the Later Influence Services (collectively, “**Users**,” “**you**,” or “**your**”) the opportunity to connect with each other and the third parties to which Later Influence provides marketing and promotional services (“**Brands**”), share information about and opinions on products and services offered by our Brands, and participate in certain sweepstakes, contests, challenges and other promotions (“**Promotions**”).
+Later’s Influencer Marketing Solution is powered by Mavrck LLC (formerly called “Mavrck” and now referred to as “**Later Influence**”, “**we**” “**us**” and/or “**our**”). Later Influence is a part of the Later Group of Companies and owns and operates proprietary web-based influencer marketing platform available at app.mavrck.co (the “**Influencer Marketing Platform**”), and makes available other associated marketing and promotional services, including through various “community” websites affiliated with Brands (as defined below) (collectively, the Web Sites, Influencer Marketing Platform, and such services, including any future features and applications, the “**Later Influence Services**”). The Later Influence Services are designed to offer users of the Later Influence Services (collectively, “**Users**,” “**you**,” or “**your**”) the opportunity to connect with each other and the third parties to which Later Influence provides marketing and promotional services (“**Brands**”), share information about and opinions on products and services offered by our Brands, and participate in certain sweepstakes, contests, challenges and other promotions (“**Promotions**”).
 
 For clarity, this Privacy Policy does not apply to your use of Later’s Social Media Management Solution (also referred to as Later Social), including your use of the following Later websites, products and services” [http://www.later.com](http://www.later.com/) website, [http://www.latergram.me](http://www.latergram.me/) website, [http://www.lat.gr](http://www.lat.gr/) website, [http://www.linkin.bio](http://www.linkin.bio/) website, [https://app.later.com](https://app.later.com/), [http://www.submit.media](http://www.submit.media/) email, the Later Community (the “Community”) and the Later mobile application (the “**Social Media Management Solution**”). The Social Media Management Solution is owned and operated by Victory Square Media Inc. and subject to a separate Victory Square Media Inc. privacy policy.
 
@@ -556,7 +555,7 @@ Business Transfers: As we develop our business, we might sell or buy businesses 
 
 Brands: Many of the Later Influence Services are offered in connection with a specific Brand.  Later Influence shares the information you provide, including Personal Data, with Brands who provide you content targeted to your interests (including opportunities to participate in community forums and other interactive experiences), in accordance with the following: (i) with your informed consent (when we or our Brands have a direct interaction with you), or (ii) when we do not obtain your Personal Data directly from you (as described above), as necessary for our, our Brands’ and/or our Users’ legitimate interests (described above) and as permitted by applicable law (you may object at any time to such sharing, as described below). A Brand may use and disclose the Personal Data it receives from Later Influence Services according to the Brand’s individual privacy policies.
 
-Agents, Service Providers: Later Influence, like many businesses, sometimes hires other companies to perform certain business-related functions and to help us understand and improve the use of our Services. Such parties providers of database storage and management services, customer support services, email management solutions, Later Influence Services hosting and other information technology providers, processing payments, providers of website analytics and direct marketing campaigns services, providers of artificial intelligence-based and machine learning solutions (such as providers of visual intelligence and visual search applications for pictures and videos). We may share your Personal Data with vendors and service providers retained in connection with providing the Later Influence Services on our behalf and under our instructions. For Personal Data transferred to us from the UK, EU or EEA member countries and Switzerland in accordance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF or the Swiss-U.S. DPF, we will remain liable under the Data Privacy Framework if third-party agents or service providers that we engage to process the personal information on our behalf do so in a manner inconsistent with the Data Privacy Framework (Please see further the “Data Privacy Framework” section below.)
+Agents, Service Providers: Later Influence, like many businesses, sometimes hires other companies to perform certain business-related functions and to help us understand and improve the use of our Services. Such parties providers of database storage and management services, customer support services, email management solutions, Later Influence Services hosting and other information technology providers, processing payments, providers of website analytics and direct marketing campaigns services, providers of artificial intelligence-based and machine learning solutions (such as providers of visual intelligence and visual search applications for pictures and videos). We may share your Personal Data with vendors and service providers retained in connection with providing the Later Influence Services on our behalf and under our instructions.
 
 Legal Requirements: Later Influence may disclose your Personal Data if required to do so by law, in response to lawful requests by public authorities, including to meet national security or law enforcement requirements, or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend the rights or property of Later Influence or our Brands, (iii) act in urgent circumstances to protect the personal safety of Users or the public, (iv) protect against legal liability or suspected fraud, or (v) investigate, prevent, or take action regarding violations of Later Influence’s Terms of Use.
 
@@ -675,7 +674,7 @@ You use Later Influence at your own risk. Later Influence takes reasonable and a
 
 In accordance with the California Consumer Privacy Act (“CCPA”), this section is intended to inform California residents of (1) the Personal Information that we collect and how we disclose that information, and (2) the privacy rights California residents may have relating to their Personal Information and how those rights can be exercised.
 
-#### \[H4\] Personal Information Collection and Disclosure
+#### Personal Information Collection and Disclosure
 
 The following disclosures are intended to provide additional information about (1) the categories of Personal Information we collect, and (2) how and to whom we disclose that Personal Information. Nothing in this section limits our ability to use or disclose information as described elsewhere in this Privacy Policy.
 
@@ -733,25 +732,9 @@ The Later Influence Services and our business may change from time to time. As a
 
 ### **17\. International Users**
 
-If you are using the Later Influence Services from outside of the United States, you expressly acknowledge and agree that your Personal Data and other information will be processed in the United States and in other third countries. Privacy and data security laws may be  less stringent than or otherwise different from the laws in effect in your country of residence.  You expressly agree to the processing of your Personal Data and other information in accordance with this Policy. If you are using the Later Influence Services from the EU or the EEA, your Personal Data will be processed and transferred to the United States in accordance with the Data Privacy Framework Principles as explained below.
+If you are using the Later Influence Services from outside of the United States, you expressly acknowledge and agree that your Personal Data and other information will be processed in the United States and in other third countries. Privacy and data security laws may be  less stringent than or otherwise different from the laws in effect in your country of residence.  You expressly agree to the processing of your Personal Data and other information in accordance with this Policy.
 
-### **18\. EU-US Data Privacy Framework**
-
-General: Later Influence complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. Later Influence has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF. Later Influence has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/).
-
-Later Influence is subject to the investigatory and enforcement powers of the Federal Trade Commission and of other relevant US statutory bodies authorized to verify and ensure compliance with the Data Privacy Framework Principles.
-
-Complaints: In compliance with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF), Later Influence commits to resolve complaints about our collection or use of your personal information transferred to the U.S. pursuant to the EU-U.S. DPF, the UK extension to the EU-U.S. DPF, and the Swiss-U.S. DPF. EU, UK, and Swiss individuals with inquiries or complaints should first contact Later Influence at privacy@mavrck.co. 
-
-Later Influence has further committed to refer unresolved DPF Principles-related complaints to a U.S.-based independent dispute resolution mechanism, BBB NATIONAL PROGRAMS. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit www.bbbprograms.org/dpf-complaints for more information and to file a complaint. This service is provided free of charge to you.
-
-If your DPF complaint cannot be resolved through the above channels, under certain conditions, you may invoke binding arbitration for some residual claims not resolved by other redress mechanisms. See https://www.dataprivacyframework.gov/s/article/ANNEX-I-introduction-dpf 
-
-Your Rights: You have the right to access the Personal Data in our possession that you have previously submitted via the Later Influence Services and to correct, change, update, or delete your Personal Data. You have also the right to object to the disclosure of your information to third parties as described in this Privacy Policy, except for disclosures made to agents and service providers, as well as to the use of your information for a purpose that is materially different from the purposes for which it was originally collected or subsequently authorized by you. You may contact us as specified below to exercise these rights.
-
-  
-
-### 19\. Contact details
+### 18\. Contact details
 
 Please feel free to contact us if you have any questions about this Privacy Policy or the information practices of the Later Influence Services.
 
