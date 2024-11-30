@@ -873,7 +873,7 @@ ADD TO TOTE
 
 $27.00 $27.00
 
-Blackest - $27 Dark Cacao - $27 Gleaming Pewter - $27
+Blackest - $27 Gleaming Pewter - $27 Dark Cacao - $27
 
 Gleaming Pewter
 
@@ -1278,6 +1278,36 @@ ADD TO TOTE
 $48.00
 
 Default Title - $48
+
+ADD TO TOTE
+
+[![ginseng-collagen-boost-mask](https://www.100percentpure.com/cdn/shop/files/1FSGCBB5_Ginseng_Collagen_Boost_5PK_Primary_239x254.jpg?v=1695863857)](https://www.100percentpure.com/products/ginseng-collagen-boost-masks)
+
+![ 1FSGCBB5_Primary](//www.100percentpure.com/cdn/shop/files/1FSGCBB5_Ginseng_Collagen_Boost_5PK_Primary_220x.jpg?v=1695863857)
+
+### [Ginseng Collagen Boost Mask](https://www.100percentpure.com/products/ginseng-collagen-boost-masks)
+
+503 reviews (503)
+
+$8.00
+
+Single - $8
+
+ADD TO TOTE
+
+[![Featured](https://www.100percentpure.com/cdn/shop/files/2023-global-makeup-awards-silver_d427b8ea-ef72-49c7-9de3-e7ddb82c5945.png?crop=center&height=85&v=1697822467&width=85)](https://www.100percentpure.com/products/green-tea-water-bomb-masks)
+
+[![green-tea-water-bomb-mask](https://www.100percentpure.com/cdn/shop/files/1FSGTWB_Green_Tea_Water_Bomb_Primary_239x254.jpg?v=1695942686)](https://www.100percentpure.com/products/green-tea-water-bomb-masks)
+
+![ 1FSGTWB_Primary](//www.100percentpure.com/cdn/shop/files/1FSGTWB_Green_Tea_Water_Bomb_Primary_220x.jpg?v=1695942686)
+
+### [Green Tea Water Bomb Mask](https://www.100percentpure.com/products/green-tea-water-bomb-masks)
+
+464 reviews (464)
+
+$8.00
+
+Single - $8
 
 ADD TO TOTE
 
