@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/cfd22326-36d1-4866-b18f-26f8ffd4c469/20241130T012518/cfd22326-36d1-4866-b18f-26f8ffd4c469_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cfd22326-36d1-4866-b18f-26f8ffd4c469/20241130T012518/cfd22326-36d1-4866-b18f-26f8ffd4c469_360x203.jpg)](https://www.king5.com/article/news/local/seattle-business-owners-big-small-business-saturday/281-8f0be656-579d-4bdd-8d2b-c943eeb8158b)
+    *  [![](https://media.king5.com/assets/KING/images/df33c8a8-aa03-4165-b517-41f1b69f2bde/20241130T071856/df33c8a8-aa03-4165-b517-41f1b69f2bde_16x9.jpg) ![](https://media.king5.com/assets/KING/images/df33c8a8-aa03-4165-b517-41f1b69f2bde/20241130T071856/df33c8a8-aa03-4165-b517-41f1b69f2bde_360x203.jpg)](https://www.king5.com/article/news/local/bellevue-police-cracking-down-retail-theft-holiday-shopping-season/281-d119e846-41e6-491f-9096-3ebdd76a200a)
         
-        #### [Seattle shops leverage personal touch to compete with e-commerce giants ahead of Small Business Saturday](https://www.king5.com/article/news/local/seattle-business-owners-big-small-business-saturday/281-8f0be656-579d-4bdd-8d2b-c943eeb8158b)
+        #### [Bellevue police cracking down on retail theft this holiday shopping season](https://www.king5.com/article/news/local/bellevue-police-cracking-down-retail-theft-holiday-shopping-season/281-d119e846-41e6-491f-9096-3ebdd76a200a)
         
-    *  [![](https://media.king5.com/assets/KING/images/fce1a7be-a48a-4612-a2c0-52e73ae2d27f/20241129T002603/fce1a7be-a48a-4612-a2c0-52e73ae2d27f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fce1a7be-a48a-4612-a2c0-52e73ae2d27f/20241129T002603/fce1a7be-a48a-4612-a2c0-52e73ae2d27f_360x203.jpg)](https://www.king5.com/article/news/local/tacoma/family-community-unite-serve-thanksgiving-feast-honoring-nora-lee-walker/281-580908bb-4a5c-425a-b3a7-ab7d3bad0167)
+    *  [![](https://media.king5.com/assets/KING/images/e78f7344-35f5-4430-9df8-44d62fec1645/20241130T030751/e78f7344-35f5-4430-9df8-44d62fec1645_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e78f7344-35f5-4430-9df8-44d62fec1645/20241130T030751/e78f7344-35f5-4430-9df8-44d62fec1645_360x203.jpg)](https://www.king5.com/article/news/local/stevens-pass-opens-skiers-snowboarders-winter-season/281-4e4ea0e6-2706-4102-9b70-cfc6c26dc590)
         
-        #### [Family and community unite to serve Thanksgiving Feast honoring Nora Lee Walker](https://www.king5.com/article/news/local/tacoma/family-community-unite-serve-thanksgiving-feast-honoring-nora-lee-walker/281-580908bb-4a5c-425a-b3a7-ab7d3bad0167)
+        #### [Stevens Pass opens to skiers, snowboarders for the winter season](https://www.king5.com/article/news/local/stevens-pass-opens-skiers-snowboarders-winter-season/281-4e4ea0e6-2706-4102-9b70-cfc6c26dc590)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/7930aed6-5d03-4862-b0b8-85e523d6c56f/20241129T140624/7930aed6-5d03-4862-b0b8-85e523d6c56f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/7930aed6-5d03-4862-b0b8-85e523d6c56f/20241129T140624/7930aed6-5d03-4862-b0b8-85e523d6c56f_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/73bdab74-8810-4465-8552-01e6f17d9a8f/20241130T063921/73bdab74-8810-4465-8552-01e6f17d9a8f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/73bdab74-8810-4465-8552-01e6f17d9a8f/20241130T063921/73bdab74-8810-4465-8552-01e6f17d9a8f_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-40°
+39°
 
-![Fair](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
