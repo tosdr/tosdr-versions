@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/a-last-goodbye/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/focus-op-het-christusbewustzijn-vergeef-de-illuminatie/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
