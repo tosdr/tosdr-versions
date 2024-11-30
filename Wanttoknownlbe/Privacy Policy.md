@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/voedsel/voedsel-en-kirlian-fotografie/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/corona-kwestie/natuurlijke-immuniteit-verplettert-het-vaccin/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
