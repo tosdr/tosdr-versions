@@ -150,6 +150,7 @@ Latest reactions
 
 Latest forum posts
 
+* [Christmas Quiz 2024](https://www.msx.org/forum/msx-talk/off-topic/christmas-quiz-2024 "Christmas Quiz 2024")
 * [TRH9000 V9990 & Spiderwave OPL4 don't work in Slotx4?](https://www.msx.org/forum/msx-talk/hardware/trh9000-v9990-spiderwave-opl4-dont-work-in-slotx4?page=1 "TRH9000 V9990 & Spiderwave OPL4 don't work in Slotx4?")
 * [vFM (virtual Full Music) MSX universal audio Cartridge](https://www.msx.org/forum/msx-talk/hardware/vfm-virtual-full-music-msx-universal-audio-cartridge?page=8 "vFM (virtual Full Music) MSX universal audio Cartridge")
 * [Panasonic A1GT circuit diagram, broken pads](https://www.msx.org/forum/msx-talk/hardware/panasonic-a1gt-circuit-diagram-broken-pads "Panasonic A1GT circuit diagram, broken pads")
@@ -162,7 +163,6 @@ Latest forum posts
 * [Dirt-cheap Vaus paddle clone for MSX](https://www.msx.org/forum/msx-talk/hardware/dirt-cheap-vaus-paddle-clone-for-msx?page=4 "Dirt-cheap Vaus paddle clone for MSX")
 * [The Mexican Runner: Retro Game Gauntlet 2](https://www.msx.org/forum/msx-talk/general-discussion/the-mexican-runner-retro-game-gauntlet-2?page=1 "The Mexican Runner: Retro Game Gauntlet 2")
 * [Modern joystick and joypad compatibility](https://www.msx.org/forum/msx-talk/hardware/modern-joystick-and-joypad-compatibility "Modern joystick and joypad compatibility")
-* [I need a guide or manual for Sorcerian...](https://www.msx.org/forum/msx-talk/software/i-need-a-guide-or-manual-for-sorcerian "I need a guide or manual for Sorcerian...")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
