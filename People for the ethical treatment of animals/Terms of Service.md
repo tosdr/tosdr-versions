@@ -478,7 +478,7 @@ International Sites
 
 Share Post [Donate](https://headlines.peta.org/donate/ "Donate")
 
-**[Click here](sms:73822?&body=OREO) to text [OREO](sms:73822?&body=OREO) to [73822](sms:73822?&body=OREO) to tell the maker of Oreo cookies to stop paying for experiments on animals, like force-feeding mice human feces then killing them.**
+**[Click here](sms:73822?&body=OREO) [to text](sms:73822?&body=OREO) [OREO](sms:73822?&body=OREO) [to](sms:73822?&body=OREO) [73822](sms:73822?&body=OREO) [to tell the maker of Oreo cookies to stop paying for experiments on animals, like force-feeding mice human feces then killing them.](sms:73822?&body=OREO)**
 
 Terms for automated texts/calls from PETA: [http://peta.vg/txt](https://www.peta.org/about-peta/learn-about-peta/website-policies/texting-terms-and-conditions/). Text STOP to end, HELP for more info. Msg/data rates may apply. U.S. only.
 
