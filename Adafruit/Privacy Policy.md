@@ -406,9 +406,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Life's most persistent and urgent question is, What are you doing for others?”
+“ Life is not easy for any of us. But what of that? We must have perseverance and above all confidence in ourselves. We must believe that we are gifted for something, and that this thing, at whatever cost, must be attained”
 
-[Martin Luther King, Jr.](http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr.)
+[Marie Curie](http://en.wikipedia.org/wiki/Marie_Curie)
 
 [](https://www.adafruit.com/about)
 
