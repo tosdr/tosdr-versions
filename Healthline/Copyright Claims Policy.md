@@ -190,6 +190,19 @@
 
 Subscribe
 
+[#### Type 2 Diabetes](https://www.healthline.com/type-2-diabetes)
+
+* [What to Eat](https://www.healthline.com/type-2-diabetes/what-to-eat)
+* [Medications](https://www.healthline.com/type-2-diabetes/medications)
+* [Essentials](https://www.healthline.com/type-2-diabetes/essentials)
+* [Perspectives](https://www.healthline.com/type-2-diabetes/perspectives)
+* [Mental Health](https://www.healthline.com/type-2-diabetes/mental-health-and-type-2-diabetes)
+* [Life with T2D](https://www.healthline.com/type-2-diabetes/lifestyle)
+* [Newsletter](https://www.healthline.com/newsletter-signup/type-2-diabetes)
+* [Community](https://www.bezzyt2d.com/)
+* [Lessons](https://www.healthline.com/app/type-2-diabetes?utm_source=t2dnav)
+* [Español](https://www.healthline.com/type-2-diabetes/diabetes-tipo-2)
+
 Ad & Sponsorship Policy
 =======================
 
