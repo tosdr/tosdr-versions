@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[NZ vs ENG - Stumps](https://www.cricbuzz.com/live-cricket-scores/92390/nz-vs-eng-1st-test-england-tour-of-new-zealand-2024 "New Zealand v England, 1st Test - Stumps")[AJMB vs NW - NW Won](https://www.cricbuzz.com/live-cricket-scores/109568/ajmb-vs-nw-31st-match-abu-dhabi-t10-league-2024 "Ajman Bolts v Northern Warriors, 31st Match - NW Won")[RSA vs SL - Stumps](https://www.cricbuzz.com/live-cricket-scores/94404/rsa-vs-sl-1st-test-sri-lanka-tour-of-south-africa-2024 "South Africa v Sri Lanka, 1st Test - Stumps")[INDU19 vs PAKU19 - Preview](https://www.cricbuzz.com/live-cricket-scores/110077/indu19-vs-paku19-3rd-match-group-a-acc-u19-asia-cup-2024 "India U19 v Pakistan U19, 3rd Match, Group A - Preview")[WI vs BAN - Preview](https://www.cricbuzz.com/live-cricket-scores/95209/wi-vs-ban-2nd-test-bangladesh-tour-of-west-indies-2024 "West Indies v Bangladesh, 2nd Test - Preview")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[NZ vs ENG - Live](https://www.cricbuzz.com/live-cricket-scores/92390/nz-vs-eng-1st-test-england-tour-of-new-zealand-2024 "New Zealand v England, 1st Test - Live")[GAW vs VIC - Live](https://www.cricbuzz.com/live-cricket-scores/109673/gaw-vs-vic-3rd-match-global-super-league-2024 "Guyana Amazon Warriors v Victoria, 3rd Match - Live")[RSA vs SL - Stumps](https://www.cricbuzz.com/live-cricket-scores/94404/rsa-vs-sl-1st-test-sri-lanka-tour-of-south-africa-2024 "South Africa v Sri Lanka, 1st Test - Stumps")[INDU19 vs PAKU19 - Preview](https://www.cricbuzz.com/live-cricket-scores/110077/indu19-vs-paku19-3rd-match-group-a-acc-u19-asia-cup-2024 "India U19 v Pakistan U19, 3rd Match, Group A - Preview")[WI vs BAN - Preview](https://www.cricbuzz.com/live-cricket-scores/95209/wi-vs-ban-2nd-test-bangladesh-tour-of-west-indies-2024 "West Indies v Bangladesh, 2nd Test - Preview")
 
 AllLive NowToday
 
@@ -62,7 +62,7 @@ AllLive NowToday
     
 * New Zealand v England, 2024
     
-    [New Zealand vs England](https://www.cricbuzz.com/live-cricket-scores/92390/nz-vs-eng-1st-test-new-zealand-v-england-2024 "New Zealand v England, 1st Test - Stumps")
+    [New Zealand vs England  LIVE](https://www.cricbuzz.com/live-cricket-scores/92390/nz-vs-eng-1st-test-new-zealand-v-england-2024 "New Zealand v England, 1st Test - Live")
     
     1st Test
     
@@ -120,11 +120,7 @@ AllLive NowToday
     
     Abu Dhabi T10 League 2024
     
-    [New York Strikers vs UP Nawabs](https://www.cricbuzz.com/live-cricket-scores/109526/nys-vs-upn-24th-match-abu-dhabi-t10-league-2024 "New York Strikers v UP Nawabs, 24th Match - UPN Won")
-    
-    24th Match
-    
-* [Bangla Tigers vs Deccan Gladiators](https://www.cricbuzz.com/live-cricket-scores/109533/bgt-vs-deg-25th-match-abu-dhabi-t10-league-2024 "Bangla Tigers v Deccan Gladiators, 25th Match - DEG Won")
+    [Bangla Tigers vs Deccan Gladiators](https://www.cricbuzz.com/live-cricket-scores/109533/bgt-vs-deg-25th-match-abu-dhabi-t10-league-2024 "Bangla Tigers v Deccan Gladiators, 25th Match - DEG Won")
     
     25th Match
     
@@ -186,7 +182,7 @@ AllLive NowToday
     
     2nd Match
     
-* [Guyana Amazon Warriors vs Victoria](https://www.cricbuzz.com/live-cricket-scores/109673/gaw-vs-vic-3rd-match-gsl-2024 "Guyana Amazon Warriors v Victoria, 3rd Match - Preview")
+* [Guyana Amazon Warriors vs Victoria  LIVE](https://www.cricbuzz.com/live-cricket-scores/109673/gaw-vs-vic-3rd-match-gsl-2024 "Guyana Amazon Warriors v Victoria, 3rd Match - Live")
     
     3rd Match
     
@@ -197,6 +193,10 @@ AllLive NowToday
 * [Rangpur Riders vs Victoria](https://www.cricbuzz.com/live-cricket-scores/109681/rgr-vs-vic-5th-match-gsl-2024 "Rangpur Riders v Victoria, 5th Match - Upcoming")
     
     5th Match
+    
+* [Guyana Amazon Warriors vs Hampshire](https://www.cricbuzz.com/live-cricket-scores/109689/gaw-vs-ham-6th-match-gsl-2024 "Guyana Amazon Warriors v Hampshire, 6th Match - Upcoming")
+    
+    6th Match
     
 * DOMESTIC
     
@@ -404,17 +404,17 @@ AllLive NowToday
     
 * Plunket Shield
     
-    [Wellington vs Central Districts](https://www.cricbuzz.com/live-cricket-scores/107481/wel-vs-cd-9th-match-plunket-shield "Wellington v Central Districts, 9th Match - Stumps")
+    [Auckland vs Canterbury](https://www.cricbuzz.com/live-cricket-scores/107467/akl-vs-cntbry-7th-match-plunket-shield "Auckland v Canterbury, 7th Match - Break")
+    
+    7th Match
+    
+* [Wellington vs Central Districts](https://www.cricbuzz.com/live-cricket-scores/107481/wel-vs-cd-9th-match-plunket-shield "Wellington v Central Districts, 9th Match - Ings Break")
     
     9th Match
     
-* [Otago vs Northern Knights](https://www.cricbuzz.com/live-cricket-scores/107475/otg-vs-nk-8th-match-plunket-shield "Otago v Northern Knights, 8th Match - Stumps")
+* [Otago vs Northern Knights  LIVE](https://www.cricbuzz.com/live-cricket-scores/107475/otg-vs-nk-8th-match-plunket-shield "Otago v Northern Knights, 8th Match - Live")
     
     8th Match
-    
-* [Auckland vs Canterbury](https://www.cricbuzz.com/live-cricket-scores/107467/akl-vs-cntbry-7th-match-plunket-shield "Auckland v Canterbury, 7th Match - Stumps")
-    
-    7th Match
     
 * WOMEN
     
@@ -436,11 +436,7 @@ AllLive NowToday
     
 * South Africa Women v England Women, 2024
     
-    [England Women vs South Africa Women](https://www.cricbuzz.com/live-cricket-scores/94442/engw-vs-rsaw-2nd-t20i-south-africa-women-v-england-women-2024 "England Women v South Africa Women, 2nd T20I - ENGW Won")
-    
-    2nd T20I
-    
-* [South Africa Women vs England Women](https://www.cricbuzz.com/live-cricket-scores/94451/rsaw-vs-engw-3rd-t20i-south-africa-women-v-england-women-2024 "South Africa Women v England Women, 3rd T20I - Preview")
+    [South Africa Women vs England Women](https://www.cricbuzz.com/live-cricket-scores/94451/rsaw-vs-engw-3rd-t20i-south-africa-women-v-england-women-2024 "South Africa Women v England Women, 3rd T20I - Preview")
     
     3rd T20I
     
@@ -751,41 +747,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
+  [](https://www.cricbuzz.com/cricket-news/132593/brathwaite-turns-to-bowlers-to-help-west-indies-end-2024-on-a-high "Brathwaite turns to bowlers to help West Indies end 2024 on a high")
+
+[Brathwaite turns to bowlers to help West Indies end 2024 on a high](https://www.cricbuzz.com/cricket-news/132593/brathwaite-turns-to-bowlers-to-help-west-indies-end-2024-on-a-high "Brathwaite turns to bowlers to help West Indies end 2024 on a high")
+
+13m ago
+
   [](https://www.cricbuzz.com/cricket-news/132592/its-a-long-way-from-bavuma-to-stubbs "It's a long way from Bavuma to Stubbs")
 
 [It's a long way from Bavuma to Stubbs](https://www.cricbuzz.com/cricket-news/132592/its-a-long-way-from-bavuma-to-stubbs "It's a long way from Bavuma to Stubbs")
 
-58m ago
+7h ago
 
   [](https://www.cricbuzz.com/cricket-news/132591/dominant-south-africa-edge-closer-to-big-win "Dominant South Africa edge closer to big win")
 
 [Dominant South Africa edge closer to big win](https://www.cricbuzz.com/cricket-news/132591/dominant-south-africa-edge-closer-to-big-win "Dominant South Africa edge closer to big win")
 
-2h ago
+8h ago
 
   [](https://www.cricbuzz.com/cricket-news/132590/mandla-mashimbyi-named-head-coach-of-south-africa-womens-team "Mandla Mashimbyi named head coach of South Africa women's team")
 
 [Mandla Mashimbyi named head coach of South Africa women's team](https://www.cricbuzz.com/cricket-news/132590/mandla-mashimbyi-named-head-coach-of-south-africa-womens-team "Mandla Mashimbyi named head coach of South Africa women's team")
 
-4h ago
+10h ago
 
   [](https://www.cricbuzz.com/cricket-news/132589/tsotsobe-tsolekile-and-mbhalati-arrested-for-fixing "Tsotsobe, Tsolekile and Mbhalati arrested for fixing")
 
 [Tsotsobe, Tsolekile and Mbhalati arrested for fixing](https://www.cricbuzz.com/cricket-news/132589/tsotsobe-tsolekile-and-mbhalati-arrested-for-fixing "Tsotsobe, Tsolekile and Mbhalati arrested for fixing")
 
-4h ago
+10h ago
 
   [](https://www.cricbuzz.com/cricket-news/132588/twin-tons-help-south-africa-set-a-target-of-516 "Twin tons help South Africa set a target of 516")
 
 [Twin tons help South Africa set a target of 516](https://www.cricbuzz.com/cricket-news/132588/twin-tons-help-south-africa-set-a-target-of-516 "Twin tons help South Africa set a target of 516")
 
-5h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132587/allround-brisbane-heat-coast-to-wbbl-final "Allround Brisbane Heat coast to WBBL final")
-
-[Allround Brisbane Heat coast to WBBL final](https://www.cricbuzz.com/cricket-news/132587/allround-brisbane-heat-coast-to-wbbl-final "Allround Brisbane Heat coast to WBBL final")
-
-6h ago
+11h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
