@@ -107,20 +107,20 @@ Top downloads
 
 Latest releases
 
+* [DC-3](https://www.myabandonware.com/game/dc-3-tc7)
 * [Rapid Glider: The Race to Galamax](https://www.myabandonware.com/game/rapid-glider-the-race-to-galamax-tc6)
 * [F1 Pro 2002](https://www.myabandonware.com/game/f1-pro-2002-tc4)
 * [RTL Racing Team Manager](https://www.myabandonware.com/game/rtl-racing-team-manager-tc2)
 * [Sky Sports Football Quiz](https://www.myabandonware.com/game/sky-sports-football-quiz-tc1)
-* [Kellogg's Frosties Football Frenzy](https://www.myabandonware.com/game/kellogg-s-frosties-football-frenzy-tc0)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
 
 Screenshots needed
 
-* [Ultra CD-i Soccer](https://www.myabandonware.com/game/ultra-cd-i-soccer-pks)
-* [Yearn2Learn: Master Snoopy's Coloring Book](https://www.myabandonware.com/game/yearn2learn-master-snoopy-s-coloring-book-md1)
-* [Löwenzahn 3: Geschichten aus Natur, Umwelt und Technik - Version 2.0](https://www.myabandonware.com/game/loewenzahn-3-geschichten-aus-natur-umwelt-und-technik-version-2-0-pd6)
+* [Vulcanology: The MiniSeries Collection](https://www.myabandonware.com/game/vulcanology-the-miniseries-collection-m54)
+* [The Mystery of the Java Star](https://www.myabandonware.com/game/the-mystery-of-the-java-star-oke)
+* [Bogie's Super Pick: Value Pack 1](https://www.myabandonware.com/game/bogie-s-super-pick-value-pack-1-kmy)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
