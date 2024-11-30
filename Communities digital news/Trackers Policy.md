@@ -26,41 +26,41 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-vladimir-putin-1200x630.png)](https://americanwirenews.com/putin-says-a-smart-and-experienced-trump-will-find-a-solution-to-ukraine-conflict/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-johnson-1-1200x630.jpg)](https://americanwirenews.com/chicago-mayor-brandon-johnson-has-residents-longing-for-the-good-old-days-of-lori-lightfoot/)
 
-[Putin says a ‘smart and experienced’ Trump will find a ‘solution’ to Ukraine conflict](https://americanwirenews.com/putin-says-a-smart-and-experienced-trump-will-find-a-solution-to-ukraine-conflict/)
+[Chicago Mayor Brandon Johnson has residents longing for the good old days of Lori Lightfoot](https://americanwirenews.com/chicago-mayor-brandon-johnson-has-residents-longing-for-the-good-old-days-of-lori-lightfoot/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-bus-abbott-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/texas-could-start-busing-migrants-directly-to-ice-for-deportation/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-mark-hamill-1200x630.png)](https://americanwirenews.com/trump-is-your-daddy-star-wars-mark-hamill-dragged-for-dramatic-reaction-to-trump-reelection/)
 
-[Texas could start busing migrants directly to ICE for deportation instead of sanctuary cities](https://americanwirenews.com/texas-could-start-busing-migrants-directly-to-ice-for-deportation/)
+[‘Trump is your daddy!’ Star Wars’ Mark Hamill dragged for dramatic reaction to Trump reelection](https://americanwirenews.com/trump-is-your-daddy-star-wars-mark-hamill-dragged-for-dramatic-reaction-to-trump-reelection/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/screenshot-2024-11-29-071920-1200x630.jpg)](https://americanwirenews.com/trump-shares-hilarious-christmas-vacation-video-mocking-biden-kamala-other-dems/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-randy-fine-1200x630.jpg)](https://americanwirenews.com/the-hebrew-hammer-gop-house-hopeful-warns-squad-members-that-it-might-be-time-to-get-out-of-dodge/)
 
-[Trump shares hilarious ‘Christmas Vacation’ video mocking Biden, Kamala, other Dems](https://americanwirenews.com/trump-shares-hilarious-christmas-vacation-video-mocking-biden-kamala-other-dems/)
+[‘The Hebrew Hammer’: GOP House hopeful warns ‘Squad’ members that it might be time to get out of Dodge](https://americanwirenews.com/the-hebrew-hammer-gop-house-hopeful-warns-squad-members-that-it-might-be-time-to-get-out-of-dodge/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/trump-mar-a-lago-thanksgiving-1200x630.jpg)](https://americanwirenews.com/thanksgiving-day-with-the-trumps-watch-footage-from-mar-a-lago/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-aoccnn1-1200-x-628-1200-x-628-1200x630.jpg)](https://americanwirenews.com/aoc-on-list-of-potential-dem-presidential-contenders-sends-x-into-a-tailspin-scary-to-even-think-about/)
 
-[Thanksgiving Day with the Trump’s: Watch footage from Mar-a-Lago](https://americanwirenews.com/thanksgiving-day-with-the-trumps-watch-footage-from-mar-a-lago/)
+[AOC on list of potential presidential contenders sends X into a tailspin: ‘Scary to even think about’](https://americanwirenews.com/aoc-on-list-of-potential-dem-presidential-contenders-sends-x-into-a-tailspin-scary-to-even-think-about/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-liz-krueger-1200x630.jpg)](https://americanwirenews.com/state-senator-wants-to-fight-trump-by-withholding-taxes-proposes-new-york-secede-to-canada/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sgmaye-musk-1200x630.png)](https://americanwirenews.com/maye-musk-calls-out-cnn-for-blatant-lie/)
 
-[State senator wants to fight Trump by withholding taxes, proposes New York secede to Canada](https://americanwirenews.com/state-senator-wants-to-fight-trump-by-withholding-taxes-proposes-new-york-secede-to-canada/)
+[Maye Musk calls out CNN for blatant lie](https://americanwirenews.com/maye-musk-calls-out-cnn-for-blatant-lie/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-vindman-sg-musk-1200x630.jpg)](https://americanwirenews.com/treason-musks-response-to-vindman-libelous-rant-against-him-re-triggers-liberal-hero/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-conn-bomb-threat-1200x630.jpg)](https://americanwirenews.com/three-dem-reps-from-the-same-state-targeted-by-bomb-threats/)
 
-[‘Treason’: Musk’s response to Vindman libelous rant against him re-triggers liberal hero](https://americanwirenews.com/treason-musks-response-to-vindman-libelous-rant-against-him-re-triggers-liberal-hero/)
+[Three Dem reps from the same state targeted by bomb threats](https://americanwirenews.com/three-dem-reps-from-the-same-state-targeted-by-bomb-threats/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-joe-julianassange-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/bipartisan-duo-of-lawmakers-urge-biden-to-pardon-julian-assange/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/05/sg-fetterman-1200x630.jpg)](https://americanwirenews.com/fetterman-has-advice-for-dems-hysterical-over-trump-win-just-grab-a-grip/)
 
-[Bipartisan duo of lawmakers urge Biden to pardon Julian Assange](https://americanwirenews.com/bipartisan-duo-of-lawmakers-urge-biden-to-pardon-julian-assange/)
+[Fetterman has advice for Dems hysterical over Trump win: ‘Just grab a grip’](https://americanwirenews.com/fetterman-has-advice-for-dems-hysterical-over-trump-win-just-grab-a-grip/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-harris-emhoff-tksgvng-1200x630.jpg)](https://americanwirenews.com/kamala-makes-thanksgiving-day-message-in-same-outfit-as-drunk-sounding-post-loss-video/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-us-capitol-1200x630.jpg)](https://americanwirenews.com/reflections-or-ufos-mysterious-lights-spotted-over-capitol-hill-ignite-hot-debate/)
 
-[Kamala makes Thanksgiving Day message in same outfit as ‘drunk sounding’ post-loss video](https://americanwirenews.com/kamala-makes-thanksgiving-day-message-in-same-outfit-as-drunk-sounding-post-loss-video/)
+[Reflections or UFOs? Mysterious lights spotted over Capitol Hill ignite hot debate](https://americanwirenews.com/reflections-or-ufos-mysterious-lights-spotted-over-capitol-hill-ignite-hot-debate/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-reidturkeyday-1200-x-628-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-schlossberg-1200x630.png)
 
-### Joy Reid’s venomous Thanksgiving message to Republicans is latest MSNBC disgrace](https://americanwirenews.com/joy-reids-venomous-thanksgiving-message-to-republicans-is-latest-msnbc-disgrace/)
+### JFK’s grandson makes disgusting request of Trump cabinet nominees](https://americanwirenews.com/jfks-grandson-makes-disgusting-request-of-trump-cabinet-nominees/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -78,35 +78,15 @@ Search for:
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-aoccnn1-1200-x-628-1200-x-628-220x180.jpg)](https://americanwirenews.com/aoc-on-list-of-potential-dem-presidential-contenders-sends-x-into-a-tailspin-scary-to-even-think-about/)
-
-[AOC on list of potential presidential contenders sends X into a tailspin: ‘Scary to even think about’](https://americanwirenews.com/aoc-on-list-of-potential-dem-presidential-contenders-sends-x-into-a-tailspin-scary-to-even-think-about/)
-
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-454816422-1-220x180.jpg)](https://americanwirenews.com/new-york-based-model-husband-and-child-reportedly-kidnapped-and-held-hostage-in-brazil/)
 
 [New York-based model, husband and child reportedly kidnapped and held hostage in Brazil](https://americanwirenews.com/new-york-based-model-husband-and-child-reportedly-kidnapped-and-held-hostage-in-brazil/)
 
 (Photo by Paul Zimmerman/WireImage)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sgmaye-musk-220x180.png)](https://americanwirenews.com/maye-musk-calls-out-cnn-for-blatant-lie/)
-
-[Maye Musk calls out CNN for blatant lie](https://americanwirenews.com/maye-musk-calls-out-cnn-for-blatant-lie/)
-
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-burglars-gang-migrant-220x180.jpg)](https://americanwirenews.com/south-american-gangs-use-sophisticated-technology-to-burglarize-homes-of-traveling-pro-athletes-in-us/)
 
 [South American gangs use sophisticated technology to burglarize homes of traveling pro athletes in US](https://americanwirenews.com/south-american-gangs-use-sophisticated-technology-to-burglarize-homes-of-traveling-pro-athletes-in-us/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/05/sg-fetterman-220x180.jpg)](https://americanwirenews.com/fetterman-has-advice-for-dems-hysterical-over-trump-win-just-grab-a-grip/)
-
-[Fetterman has advice for Dems hysterical over Trump win: ‘Just grab a grip’](https://americanwirenews.com/fetterman-has-advice-for-dems-hysterical-over-trump-win-just-grab-a-grip/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-mark-hamill-220x180.png)](https://americanwirenews.com/trump-is-your-daddy-star-wars-mark-hamill-dragged-for-dramatic-reaction-to-trump-reelection/)
-
-[‘Trump is your daddy!’ Star Wars’ Mark Hamill dragged for dramatic reaction to Trump reelection](https://americanwirenews.com/trump-is-your-daddy-star-wars-mark-hamill-dragged-for-dramatic-reaction-to-trump-reelection/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-randy-fine-220x180.jpg)](https://americanwirenews.com/the-hebrew-hammer-gop-house-hopeful-warns-squad-members-that-it-might-be-time-to-get-out-of-dodge/)
-
-[‘The Hebrew Hammer’: GOP House hopeful warns ‘Squad’ members that it might be time to get out of Dodge](https://americanwirenews.com/the-hebrew-hammer-gop-house-hopeful-warns-squad-members-that-it-might-be-time-to-get-out-of-dodge/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-apple-ad-220x180.jpg)](https://americanwirenews.com/apples-emotional-family-oriented-ad-earns-praise-from-viewers-very-well-done-here-more-of-this/)
 
@@ -116,25 +96,9 @@ Search for:
 
 [Out-of-touch elitist Chuck Todd whines that tariffs will be a ‘guacamole tax’](https://americanwirenews.com/out-of-touch-elitist-chuck-todd-whines-that-tariffs-will-be-a-guacamole-tax/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-conn-bomb-threat-220x180.jpg)](https://americanwirenews.com/three-dem-reps-from-the-same-state-targeted-by-bomb-threats/)
-
-[Three Dem reps from the same state targeted by bomb threats](https://americanwirenews.com/three-dem-reps-from-the-same-state-targeted-by-bomb-threats/)
-
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/rf-pexels-banana-220x180.jpg)](https://americanwirenews.com/buyer-of-5-2m-art-banana-attempts-to-do-right-by-elderly-fruit-vendor-who-sold-it-for-35-cents/)
 
 [Buyer of $6.2M ‘art’ banana attempts to do right by elderly fruit vendor who sold it for 35 cents](https://americanwirenews.com/buyer-of-5-2m-art-banana-attempts-to-do-right-by-elderly-fruit-vendor-who-sold-it-for-35-cents/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-us-capitol-220x180.jpg)](https://americanwirenews.com/reflections-or-ufos-mysterious-lights-spotted-over-capitol-hill-ignite-hot-debate/)
-
-[Reflections or UFOs? Mysterious lights spotted over Capitol Hill ignite hot debate](https://americanwirenews.com/reflections-or-ufos-mysterious-lights-spotted-over-capitol-hill-ignite-hot-debate/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-schlossberg-220x180.png)](https://americanwirenews.com/jfks-grandson-makes-disgusting-request-of-trump-cabinet-nominees/)
-
-[JFK’s grandson makes disgusting request of Trump cabinet nominees](https://americanwirenews.com/jfks-grandson-makes-disgusting-request-of-trump-cabinet-nominees/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-johnson-1-220x180.jpg)](https://americanwirenews.com/chicago-mayor-brandon-johnson-has-residents-longing-for-the-good-old-days-of-lori-lightfoot/)
-
-[Chicago Mayor Brandon Johnson has residents longing for the good old days of Lori Lightfoot](https://americanwirenews.com/chicago-mayor-brandon-johnson-has-residents-longing-for-the-good-old-days-of-lori-lightfoot/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-macysprot-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/pro-hamas-miscreants-try-to-wreck-macys-thanksgiving-parade-thankfully-arrests-were-made/)
 
@@ -155,6 +119,42 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-antonio-pierce-220x180.png)](https://americanwirenews.com/nfl-coach-makes-brutal-assessment-of-team-before-black-friday-game/)
 
 [NFL coach makes brutal assessment of team before Black Friday game](https://americanwirenews.com/nfl-coach-makes-brutal-assessment-of-team-before-black-friday-game/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-harris-emhoff-tksgvng-220x180.jpg)](https://americanwirenews.com/kamala-makes-thanksgiving-day-message-in-same-outfit-as-drunk-sounding-post-loss-video/)
+
+[Kamala makes Thanksgiving Day message in same outfit as ‘drunk sounding’ post-loss video](https://americanwirenews.com/kamala-makes-thanksgiving-day-message-in-same-outfit-as-drunk-sounding-post-loss-video/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-joe-julianassange-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/bipartisan-duo-of-lawmakers-urge-biden-to-pardon-julian-assange/)
+
+[Bipartisan duo of lawmakers urge Biden to pardon Julian Assange](https://americanwirenews.com/bipartisan-duo-of-lawmakers-urge-biden-to-pardon-julian-assange/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-vindman-sg-musk-220x180.jpg)](https://americanwirenews.com/treason-musks-response-to-vindman-libelous-rant-against-him-re-triggers-liberal-hero/)
+
+[‘Treason’: Musk’s response to Vindman libelous rant against him re-triggers liberal hero](https://americanwirenews.com/treason-musks-response-to-vindman-libelous-rant-against-him-re-triggers-liberal-hero/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-liz-krueger-220x180.jpg)](https://americanwirenews.com/state-senator-wants-to-fight-trump-by-withholding-taxes-proposes-new-york-secede-to-canada/)
+
+[State senator wants to fight Trump by withholding taxes, proposes New York secede to Canada](https://americanwirenews.com/state-senator-wants-to-fight-trump-by-withholding-taxes-proposes-new-york-secede-to-canada/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/trump-mar-a-lago-thanksgiving-220x180.jpg)](https://americanwirenews.com/thanksgiving-day-with-the-trumps-watch-footage-from-mar-a-lago/)
+
+[Thanksgiving Day with the Trump’s: Watch footage from Mar-a-Lago](https://americanwirenews.com/thanksgiving-day-with-the-trumps-watch-footage-from-mar-a-lago/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/screenshot-2024-11-29-071920-220x180.jpg)](https://americanwirenews.com/trump-shares-hilarious-christmas-vacation-video-mocking-biden-kamala-other-dems/)
+
+[Trump shares hilarious ‘Christmas Vacation’ video mocking Biden, Kamala, other Dems](https://americanwirenews.com/trump-shares-hilarious-christmas-vacation-video-mocking-biden-kamala-other-dems/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-bus-abbott-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/texas-could-start-busing-migrants-directly-to-ice-for-deportation/)
+
+[Texas could start busing migrants directly to ICE for deportation instead of sanctuary cities](https://americanwirenews.com/texas-could-start-busing-migrants-directly-to-ice-for-deportation/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-vladimir-putin-220x180.png)](https://americanwirenews.com/putin-says-a-smart-and-experienced-trump-will-find-a-solution-to-ukraine-conflict/)
+
+[Putin says a ‘smart and experienced’ Trump will find a ‘solution’ to Ukraine conflict](https://americanwirenews.com/putin-says-a-smart-and-experienced-trump-will-find-a-solution-to-ukraine-conflict/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-reidturkeyday-1200-x-628-220x180.jpg)](https://americanwirenews.com/joy-reids-venomous-thanksgiving-message-to-republicans-is-latest-msnbc-disgrace/)
+
+[Joy Reid’s venomous Thanksgiving message to Republicans is latest MSNBC disgrace](https://americanwirenews.com/joy-reids-venomous-thanksgiving-message-to-republicans-is-latest-msnbc-disgrace/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-liz-cheney-220x180.jpg)](https://americanwirenews.com/leave-it-to-juan-williams-to-tout-heroic-liz-cheney-as-politician-of-the-year/)
 
