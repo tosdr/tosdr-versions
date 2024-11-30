@@ -20,16 +20,16 @@ Saturday, November 30 2024
 
 Latest
 
-* [What is threatware, and how do I avoid it?](https://digitpatrox.com/what-is-threatware-and-how-do-i-avoid-it/)
-* [Are ‘ghost engineers’ stunting productivity in software development? Researchers claim nearly 10% of engineers do “virtually nothing” and are a drain on enterprises](https://digitpatrox.com/are-ghost-engineers-stunting-productivity-in-software-development-researchers-claim-nearly-10-of-engineers-do-virtually-nothing-and-are-a-drain-on-enterprises/)
-* [Can chiplets save the US semiconductor industry? – Computerworld](https://digitpatrox.com/can-chiplets-save-the-us-semiconductor-industry-computerworld/)
-* [‘Sill’ Is the Best Way to Read Bluesky and Mastadon Links](https://digitpatrox.com/sill-is-the-best-way-to-read-bluesky-and-mastadon-links/)
-* [Why is Chrome So Slow? How to Speed Up Your Chrome Browser](https://digitpatrox.com/why-is-chrome-so-slow-how-to-speed-up-your-chrome-browser/)
-* [ChatGPT’s New Canvas Feature Makes It Great Again](https://digitpatrox.com/chatgpts-new-canvas-feature-makes-it-great-again/)
-* [Three things to look out for at AWS re:Invent 2024](https://digitpatrox.com/three-things-to-look-out-for-at-aws-reinvent-2024/)
-* [How to Find Windows 10 Product Key in 3 Ways](https://digitpatrox.com/how-to-find-windows-10-product-key-in-3-ways/)
-* [Since switching to a memory foam mattress I’ve slept better and more deeply — but should you buy one this Black Friday?](https://digitpatrox.com/since-switching-to-a-memory-foam-mattress-ive-slept-better-and-more-deeply-but-should-you-buy-one-this-black-friday/)
-* [New Rockstar 2FA phishing service targets Microsoft 365 accounts](https://digitpatrox.com/new-rockstar-2fa-phishing-service-targets-microsoft-365-accounts/)
+* [Bologna FC confirms data breach after RansomHub ransomware attack](https://digitpatrox.com/bologna-fc-confirms-data-breach-after-ransomhub-ransomware-attack/)
+* [The best gaming deals for Black Friday](https://digitpatrox.com/the-best-gaming-deals-for-black-friday/)
+* [This 20W Ultra-Slim MagSafe Power Bank Is Selling for Lowest Price This Black Friday](https://digitpatrox.com/this-20w-ultra-slim-magsafe-power-bank-is-selling-for-lowest-price-this-black-friday/)
+* [What are Zelle scams? (and how to avoid them)](https://digitpatrox.com/what-are-zelle-scams-and-how-to-avoid-them/)
+* [ReMarkable Paper Pro review | ITPro](https://digitpatrox.com/remarkable-paper-pro-review-itpro/)
+* [My spur-of-the-moment Chromebook surprise](https://digitpatrox.com/my-spur-of-the-moment-chromebook-surprise/)
+* [The M2 MacBook Air Has Its Lowest Price Ever for Black Friday](https://digitpatrox.com/the-m2-macbook-air-has-its-lowest-price-ever-for-black-friday/)
+* [Why pay when it’s free?](https://digitpatrox.com/why-pay-when-its-free/)
+* [Proton VPN vs ExpressVPN: Picking a Winner](https://digitpatrox.com/proton-vpn-vs-expressvpn-picking-a-winner/)
+* [Dell, HP post underwhelming returns as PC market remains in a state of flux](https://digitpatrox.com/dell-hp-post-underwhelming-returns-as-pc-market-remains-in-a-state-of-flux/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/09/What-is-Threatware_.jpg)](https://digitpatrox.com/what-is-threatware-and-how-do-i-avoid-it/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/11/29/football.jpg)](https://digitpatrox.com/bologna-fc-confirms-data-breach-after-ransomhub-ransomware-attack/)
     
-    [What is threatware, and how do I avoid it?](https://digitpatrox.com/what-is-threatware-and-how-do-i-avoid-it/)
+    [Bologna FC confirms data breach after RansomHub ransomware attack](https://digitpatrox.com/bologna-fc-confirms-data-breach-after-ransomhub-ransomware-attack/)
     
-    16 minutes ago
+    2 minutes ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/Vx9HnTZ3JkKzCjRc6ofwgN-1200-80.jpg)](https://digitpatrox.com/are-ghost-engineers-stunting-productivity-in-software-development-researchers-claim-nearly-10-of-engineers-do-virtually-nothing-and-are-a-drain-on-enterprises/)
+* [![](https://cdn.vox-cdn.com/thumbor/bbClfIki9uHLwsEy4399E9YEg6E=/0x0:2460x1629/1200x628/filters:focal(1230x815:1231x816)/cdn.vox-cdn.com/uploads/chorus_asset/file/25676324/twarren_xboxseriesxwhite__6_.JPG)](https://digitpatrox.com/the-best-gaming-deals-for-black-friday/)
     
-    [Are ‘ghost engineers’ stunting productivity in software development? Researchers claim nearly 10% of engineers do “virtually nothing” and are a drain on enterprises](https://digitpatrox.com/are-ghost-engineers-stunting-productivity-in-software-development-researchers-claim-nearly-10-of-engineers-do-virtually-nothing-and-are-a-drain-on-enterprises/)
+    [The best gaming deals for Black Friday](https://digitpatrox.com/the-best-gaming-deals-for-black-friday/)
     
-    45 minutes ago
+    19 minutes ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3613331-0-02915200-1732878214-shutterstock_2344284257.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/can-chiplets-save-the-us-semiconductor-industry-computerworld/)
+* [![](https://beebom.com/wp-content/uploads/2024/11/Sharge-MagSafe-Powerbank-Black-Friday-Deal.jpg)](https://digitpatrox.com/this-20w-ultra-slim-magsafe-power-bank-is-selling-for-lowest-price-this-black-friday/)
     
-    [Can chiplets save the US semiconductor industry? – Computerworld](https://digitpatrox.com/can-chiplets-save-the-us-semiconductor-industry-computerworld/)
+    [This 20W Ultra-Slim MagSafe Power Bank Is Selling for Lowest Price This Black Friday](https://digitpatrox.com/this-20w-ultra-slim-magsafe-power-bank-is-selling-for-lowest-price-this-black-friday/)
     
-    1 hour ago
+    35 minutes ago
     
-* [![](https://lifehacker.com/imagery/articles/01JDWJ6TESNKBHPH6433715EHP/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/sill-is-the-best-way-to-read-bluesky-and-mastadon-links/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/What-are-Zelle-scams-and-how-to-avoid-them_.jpg)](https://digitpatrox.com/what-are-zelle-scams-and-how-to-avoid-them/)
     
-    [‘Sill’ Is the Best Way to Read Bluesky and Mastadon Links](https://digitpatrox.com/sill-is-the-best-way-to-read-bluesky-and-mastadon-links/)
+    [What are Zelle scams? (and how to avoid them)](https://digitpatrox.com/what-are-zelle-scams-and-how-to-avoid-them/)
     
     2 hours ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/Why-is-Chrome-So-Slow_.jpg)](https://digitpatrox.com/why-is-chrome-so-slow-how-to-speed-up-your-chrome-browser/)
+* [![](https://cdn.mos.cms.futurecdn.net/BiPo8YJDnvXUhMUB4HUYw8-1200-80.jpg)](https://digitpatrox.com/remarkable-paper-pro-review-itpro/)
     
-    [Why is Chrome So Slow? How to Speed Up Your Chrome Browser](https://digitpatrox.com/why-is-chrome-so-slow-how-to-speed-up-your-chrome-browser/)
+    [ReMarkable Paper Pro review | ITPro](https://digitpatrox.com/remarkable-paper-pro-review-itpro/)
     
     2 hours ago
     
@@ -208,39 +208,39 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [16 minutes ago
+* [2 minutes ago
     
-    ### What is threatware, and how do I avoid it?](https://digitpatrox.com/what-is-threatware-and-how-do-i-avoid-it/)
-* [45 minutes ago
+    ### Bologna FC confirms data breach after RansomHub ransomware attack](https://digitpatrox.com/bologna-fc-confirms-data-breach-after-ransomhub-ransomware-attack/)
+* [19 minutes ago
     
-    ### Are ‘ghost engineers’ stunting productivity in software development? Researchers claim nearly 10% of engineers do “virtually nothing” and are a drain on enterprises](https://digitpatrox.com/are-ghost-engineers-stunting-productivity-in-software-development-researchers-claim-nearly-10-of-engineers-do-virtually-nothing-and-are-a-drain-on-enterprises/)
-* [1 hour ago
+    ### The best gaming deals for Black Friday](https://digitpatrox.com/the-best-gaming-deals-for-black-friday/)
+* [35 minutes ago
     
-    ### Can chiplets save the US semiconductor industry? – Computerworld](https://digitpatrox.com/can-chiplets-save-the-us-semiconductor-industry-computerworld/)
+    ### This 20W Ultra-Slim MagSafe Power Bank Is Selling for Lowest Price This Black Friday](https://digitpatrox.com/this-20w-ultra-slim-magsafe-power-bank-is-selling-for-lowest-price-this-black-friday/)
 
 Most Popular Topics
 
-* [August 14, 2024
+* [September 8, 2024
     
-    ### AI firms face setback in copyright battle with visual artists – Computerworld](https://digitpatrox.com/ai-firms-face-setback-in-copyright-battle-with-visual-artists-computerworld/)
-* [1 week ago
+    ### Disney and DirecTV head into a big sports weekend with no carriage deal](https://digitpatrox.com/disney-and-directv-head-into-a-big-sports-weekend-with-no-carriage-deal/)
+* [2 weeks ago
     
-    ### YouTube Music Is Already Rolling Out Its Version of Spotify Wrapped](https://digitpatrox.com/youtube-music-is-already-rolling-out-its-version-of-spotify-wrapped/)
-* [September 13, 2024
+    ### Critical bug in EoL D-Link NAS devices now exploited in attacks](https://digitpatrox.com/critical-bug-in-eol-d-link-nas-devices-now-exploited-in-attacks/)
+* [3 days ago
     
-    ### How to Find People on Snapchat](https://digitpatrox.com/how-to-find-people-on-snapchat/)
+    ### Download our Windows Repair Upgrade Cheat Sheet](https://digitpatrox.com/download-our-windows-repair-upgrade-cheat-sheet/)
 
 Last Modified Topics
 
-* [2 hours ago
-    
-    ### Three things to look out for at AWS re:Invent 2024](https://digitpatrox.com/three-things-to-look-out-for-at-aws-reinvent-2024/)
-* [2 hours ago
-    
-    ### How to Find Windows 10 Product Key in 3 Ways](https://digitpatrox.com/how-to-find-windows-10-product-key-in-3-ways/)
 * [3 hours ago
     
-    ### Since switching to a memory foam mattress I’ve slept better and more deeply — but should you buy one this Black Friday?](https://digitpatrox.com/since-switching-to-a-memory-foam-mattress-ive-slept-better-and-more-deeply-but-should-you-buy-one-this-black-friday/)
+    ### The M2 MacBook Air Has Its Lowest Price Ever for Black Friday](https://digitpatrox.com/the-m2-macbook-air-has-its-lowest-price-ever-for-black-friday/)
+* [3 hours ago
+    
+    ### Why pay when it’s free?](https://digitpatrox.com/why-pay-when-its-free/)
+* [3 hours ago
+    
+    ### Proton VPN vs ExpressVPN: Picking a Winner](https://digitpatrox.com/proton-vpn-vs-expressvpn-picking-a-winner/)
 
 Most Viewed Topics
 
@@ -249,7 +249,7 @@ Most Viewed Topics
     ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 13, 2024
     
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [October 2, 2024
     
     ### The best noise-canceling headphones for 2024](https://digitpatrox.com/the-best-noise-canceling-headphones-for-2024/)
