@@ -255,13 +255,13 @@ Advertisement
 
 * ### eBaum's Picks
     
-    [![19 Funny Work Memes to Laugh At Before You Clock Out](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/20-funny-work-memes-to-laugh-at-before-you-clock-out/87503041/) [19 Funny Work Memes to Laugh At Before You Clock Out](https://trending.ebaumsworld.com/pictures/20-funny-work-memes-to-laugh-at-before-you-clock-out/87503041/)
+    [![list of cool and fascinating pics | a close up photo of an elephants tail |](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/pictures/32-fascinating-things-you-rarely-get-to-see/85916369/) [32 Fascinating Things You Rarely Get to See](https://www.ebaumsworld.com/pictures/32-fascinating-things-you-rarely-get-to-see/85916369/)
     
-    [![photo caption - About to come home after spending the last 3yrs in the desert. Please no jokes about my $40k truck or my 3 divorces. sdrawkcaBuoYkcuF points 28 days ago 232 & 45 More Why would I make a joke about your wife or your truck? I've enjoyed ridi](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/pictures/26-internet-roasts-that-scorched-people/86452010/) [26 Internet Roasts That Didn't Hold Back](https://www.ebaumsworld.com/pictures/26-internet-roasts-that-scorched-people/86452010/)
+    [![](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/dude-shoots-himself-to-prove-durability-of-bulletproof-jacket/85790638/) [Dude Shoots Himself To Prove the Durability of His Bulletproof Jacket](https://www.ebaumsworld.com/videos/dude-shoots-himself-to-prove-durability-of-bulletproof-jacket/85790638/)
     
-    [![a tiny camera in a bluetooth headset](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/pictures/24-people-who-found-hidden-cameras-in-normal-items/86438450/) [24 People Who Found Hidden Cameras in Normal Items](https://www.ebaumsworld.com/pictures/24-people-who-found-hidden-cameras-in-normal-items/86438450/)
+    [![Hilarious Pic to Sum Up Each State - Redneck in Alabama | Funny pic of a redneck living in a trailer in Alabama](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/pictures/50-funny-photos-that-perfectly-sums-up-each-of-the-american-states/85216290/) [50 Funny Photos that Perfectly Sums Up Each of the American States](https://www.ebaumsworld.com/pictures/50-funny-photos-that-perfectly-sums-up-each-of-the-american-states/85216290/)
     
-    [![21 Savage Insults That Burnt People to a Crisp](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/23-savage-insults-that-burnt-people-to-a-crisp/87504739/) [21 Savage Insults That Burnt People to a Crisp](https://trending.ebaumsworld.com/pictures/23-savage-insults-that-burnt-people-to-a-crisp/87504739/)
+    [![elevangelist Kenneth Copeland defends his lavish lifestyle](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/megachurch-pastor-tries-to-justify-his-lavish-lifestyle/85973301/) [Megachurch Pastor Tries To Justify His Lavish Lifestyle](https://www.ebaumsworld.com/videos/megachurch-pastor-tries-to-justify-his-lavish-lifestyle/85973301/)
     
 
 * Advertisement
