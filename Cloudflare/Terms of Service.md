@@ -10,6 +10,9 @@ Solutions
     By industry
     -----------
     
+    Public interest
+    ---------------
+    
 * [Contact sales](https://www.cloudflare.com/plans/enterprise/contact/)
 
 Products
@@ -38,6 +41,27 @@ Products
     -------------------
     
 * [Latest product news](https://blog.cloudflare.com/tag/product-news/)
+* [Contact sales](https://www.cloudflare.com/plans/enterprise/contact/)
+
+Pricing
+=======
+
+* Our plans & pricing
+    -------------------
+    
+    Enterprise plan
+    ---------------
+    
+    Compare all plans
+    -----------------
+    
+    Register domain
+    ---------------
+    
+    Need help choosing?
+    -------------------
+    
+* [View FAQs](https://www.cloudflare.com/plans/faq/)
 * [Contact sales](https://www.cloudflare.com/plans/enterprise/contact/)
 
 Resources
@@ -77,6 +101,9 @@ Resources
     Trends & insights
     -----------------
     
+    Blog
+    ----
+    
     Cloudflare TV
     -------------
     
@@ -91,7 +118,10 @@ Resources
 Partners
 ========
 
-* Technology partners
+* Partner network
+    ---------------
+    
+    Technology partners
     -------------------
     
     Peering portal
@@ -153,7 +183,7 @@ Support
 
 [Log in](https://dash.cloudflare.com/login/?lang=en-US)
 
-SolutionsProductsResourcesPartnersWhy Cloudflare
+SolutionsProductsPricingResourcesPartnersWhy Cloudflare
 
 Support
 
@@ -165,7 +195,7 @@ Support
 
 [Log in](https://dash.cloudflare.com/login/?lang=en-US)
 
-SolutionsProductsResourcesPartnersWhy Cloudflare
+SolutionsProductsPricingResourcesPartnersWhy Cloudflare
 
 Support
 
