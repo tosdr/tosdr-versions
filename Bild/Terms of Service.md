@@ -207,28 +207,6 @@ Menü
     ===
     
 
-[BreakingNews
-
-Exklusives Foto: Hier feiert Bayern-Star Davies vor seiner Promillefahrt
-
-Exklusives Foto: Hier feiert Bayern-Star Davies vor seiner Promillefahrt
-
-Exklusives Foto: Hier feiert Bayern-Star Davies vor seiner Promillefahrt
-
-Exklusives Foto: Hier feiert Bayern-Star Davies vor seiner Promillefahrt
-
-Exklusives Foto: Hier feiert Bayern-Star Davies vor seiner Promillefahrt
-
-Exklusives Foto: Hier feiert Bayern-Star Davies vor seiner Promillefahrt
-
-Exklusives Foto: Hier feiert Bayern-Star Davies vor seiner Promillefahrt
-
-Exklusives Foto: Hier feiert Bayern-Star Davies vor seiner Promillefahrt
-
-Exklusives Foto: Hier feiert Bayern-Star Davies vor seiner Promillefahrt
-
-Exklusives Foto: Hier feiert Bayern-Star Davies vor seiner Promillefahrt](https://www.bild.de/sport/fussball/bayern-muenchen-exklusives-foto-hier-feiert-alphonso-davies-vor-seiner-promillefahrt-6749dfe9f650db29b6aa067a)
-
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
  AGB: Nutzungsbedingungen für die digitalen Angebote von BILD
