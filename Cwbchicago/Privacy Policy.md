@@ -243,36 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/1700-block-of-west-howard-326x245.jpg)](https://cwbchicago.com/2024/11/man-stabbed-during-fight-outside-howard-cta-station.html "Man stabbed during fight outside Howard CTA station")
+[![](https://cwbchicago.com/wp-content/uploads/2023/12/Joshua-Williams-and-Amarise-Parker-326x245.jpg)](https://cwbchicago.com/2024/11/man-gets-26-years-for-strangling-15-year-old-girlfriend.html "Man gets 26 years for strangling 15-year-old ‘girlfriend’")
 
-CTA
+South Shore
 
-### [Man stabbed during fight outside Howard CTA station](https://cwbchicago.com/2024/11/man-stabbed-during-fight-outside-howard-cta-station.html "Man stabbed during fight outside Howard CTA station")
+### [Man gets 26 years for strangling 15-year-old ‘girlfriend’](https://cwbchicago.com/2024/11/man-gets-26-years-for-strangling-15-year-old-girlfriend.html "Man gets 26 years for strangling 15-year-old ‘girlfriend’")
 
-[November 28, 2024 6:36 AM](https://cwbchicago.com/2024/11)
+[November 29, 2024 6:57 AM](https://cwbchicago.com/2024/11)
 
-A man is recovering this morning after someone stabbed him during a fight near the Howard CTA station in Rogers Park overnight. The assailant remains at large.[](https://cwbchicago.com/2024/11/man-stabbed-during-fight-outside-howard-cta-station.html "Man stabbed during fight outside Howard CTA station")
+A man has been sentenced to 26 years in prison for strangling a 15-year-old girl he was “dating.” Joshua Williams, 25, already had a strangulation case pending in Colorado when first responders found Amarise Parker dead in his closet on December 10, 2023, officials said.[](https://cwbchicago.com/2024/11/man-gets-26-years-for-strangling-15-year-old-girlfriend.html "Man gets 26 years for strangling 15-year-old ‘girlfriend’")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Andre-Simmons-326x245.jpg)](https://cwbchicago.com/2024/11/5-time-felon-gets-4%c2%bd-years-for-brazen-bucktown-robbery-that-quickly-went-viral-video.html "5-time felon gets 4½-years for brazen Bucktown robbery that quickly went viral (video)")
+[![](https://cwbchicago.com/wp-content/uploads/2023/03/Generic34-326x245.jpg)](https://cwbchicago.com/2024/11/armed-robbers-busted-after-targeting-convenience-store-as-tv-news-crew-watched.html "Armed robbers busted after targeting convenience store as TV news crew watched")
 
-Bucktown
+Chicago Lawn
 
-### [5-time felon gets 4½-years for brazen Bucktown robbery that quickly went viral (video)](https://cwbchicago.com/2024/11/5-time-felon-gets-4%c2%bd-years-for-brazen-bucktown-robbery-that-quickly-went-viral-video.html "5-time felon gets 4½-years for brazen Bucktown robbery that quickly went viral (video)")
+### [Armed robbers busted after targeting convenience store as TV news crew watched](https://cwbchicago.com/2024/11/armed-robbers-busted-after-targeting-convenience-store-as-tv-news-crew-watched.html "Armed robbers busted after targeting convenience store as TV news crew watched")
 
-[November 28, 2024 6:18 AM](https://cwbchicago.com/2024/11)
+[November 29, 2024 6:12 AM](https://cwbchicago.com/2024/11)
 
-A five-time convicted felon has pleaded guilty to the brazen daylight robbery of a man in Bucktown last year. Video of the attack went viral almost immediately. He later told police it was only supposed to be “an a\*\* whooping.”  
-[](https://cwbchicago.com/2024/11/5-time-felon-gets-4%c2%bd-years-for-brazen-bucktown-robbery-that-quickly-went-viral-video.html "5-time felon gets 4½-years for brazen Bucktown robbery that quickly went viral (video)")
+Two suspects are in custody after they apparently robbed a Chicago Lawn restaurant on Wednesday morning shortly after they also robbed a south suburban convenience store as a TV news crew watched.[](https://cwbchicago.com/2024/11/armed-robbers-busted-after-targeting-convenience-store-as-tv-news-crew-watched.html "Armed robbers busted after targeting convenience store as TV news crew watched")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Glenn-Russell-326x245.jpg)](https://cwbchicago.com/2024/11/man-wanted-for-summertime-shooting-is-arrested-during-traffic-stop-in-alabama.html "Man wanted for summertime shooting is arrested during traffic stop in Alabama")
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/5400-block-n-kenmore-326x245.jpg)](https://cwbchicago.com/2024/11/gunmen-carjack-driver-in-edgewater-on-thanksgiving-morning.html "Gunmen carjack driver in Edgewater on Thanksgiving morning")
 
-Austin
+Edgewater
 
-### [Man wanted for summertime shooting is arrested during traffic stop in Alabama](https://cwbchicago.com/2024/11/man-wanted-for-summertime-shooting-is-arrested-during-traffic-stop-in-alabama.html "Man wanted for summertime shooting is arrested during traffic stop in Alabama")
+### [Gunmen carjack driver in Edgewater on Thanksgiving morning](https://cwbchicago.com/2024/11/gunmen-carjack-driver-in-edgewater-on-thanksgiving-morning.html "Gunmen carjack driver in Edgewater on Thanksgiving morning")
 
-[November 27, 2024 8:19 PM](https://cwbchicago.com/2024/11)
+[November 28, 2024 7:17 PM](https://cwbchicago.com/2024/11)
 
-A man wanted for attempted murder on allegations he shot a man outside an Austin convenience store this summer is in custody after being stopped by police for a minor traffic violation in Alabama.[](https://cwbchicago.com/2024/11/man-wanted-for-summertime-shooting-is-arrested-during-traffic-stop-in-alabama.html "Man wanted for summertime shooting is arrested during traffic stop in Alabama")
+Two armed men carjacked a woman in Edgewater on Thanksgiving morning. No arrests have been announced so far.[](https://cwbchicago.com/2024/11/gunmen-carjack-driver-in-edgewater-on-thanksgiving-morning.html "Gunmen carjack driver in Edgewater on Thanksgiving morning")
 
 Search
 
@@ -360,6 +359,7 @@ Thank you.
 * [North Lawndale](https://cwbchicago.com/category/north-lawndale)
 * [Norwood park](https://cwbchicago.com/category/norwood-park)
 * [O'Hare](https://cwbchicago.com/category/ohare)
+* [Oakland](https://cwbchicago.com/category/oakland)
 * [Old Town](https://cwbchicago.com/category/old-town)
 * [Pilsen](https://cwbchicago.com/category/pilsen)
 * [Portage Park](https://cwbchicago.com/category/portage-park-2)
