@@ -306,15 +306,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Albus Dumbledore sees his family in the Mirror of Erised, just as Harry Potter does.
+Natalie McDonald, who appeared in Harry Potter and Goblet of Fire, is named after a real girl who was dying of leukemia.
 
 ### Potter History
 
-March 1, 2001 – Two schoolbooks from Harry Potter’s world – Fantastic Beasts and Where to Find Them and Quidditch Through the Ages – are released. All the profits go to Comic Relief, a British charity.
+January 19, 2005 – David Yates is officially named as the director of Harry Potter and the Order of the Phoenix.
 
 ### Potter Quote
 
-“If you want to know what a man’s like, take a good look at how he treats his inferiors, not his equals.”
+“My brothers, my sisters. The clock is ticking faster. We who live for freedom, for truth, and for love. The moment has come to share my vision of the future that awaits if we do not rise up and take our rightful place in the world. Where we wizards are free. Aurors, join me in this circle, pledge to me your eternal allegiance, or die.”
 
 [](#)
 
