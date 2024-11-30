@@ -16,6 +16,24 @@
 
 * [SyrupArcade](https://mobilesyrup.com/categories/gaming/)
     
+    [](https://mobilesyrup.com/2024/11/29/canada-best-selling-games-october-2024-call-of-duty-dragon-ball-mario/)
+    
+    Nov 29, 2024 | 8:00 AM EST
+    
+    ### [These were Canada’s best-selling games in October 2024](https://mobilesyrup.com/2024/11/29/canada-best-selling-games-october-2024-call-of-duty-dragon-ball-mario/)
+    
+    [](https://mobilesyrup.com/2024/11/28/beloved-canadian-indie-game-balatro-mobile-success-the-game-awards-nominations/)
+    
+    Nov 28, 2024 | 7:03 PM EST
+    
+    ### [Beloved Canadian indie Balatro gets mobile boost amid The Game Awards nominations](https://mobilesyrup.com/2024/11/28/beloved-canadian-indie-game-balatro-mobile-success-the-game-awards-nominations/)
+    
+    [](https://mobilesyrup.com/2024/11/28/xbox-mobile-store-android-launch-blocked-by-court/)
+    
+    Nov 28, 2024 | 3:26 PM EST
+    
+    ### [Xbox says its mobile store is ‘ready’ for Android launch, but the court is preventing it](https://mobilesyrup.com/2024/11/28/xbox-mobile-store-android-launch-blocked-by-court/)
+    
     [](https://mobilesyrup.com/2024/11/28/google-releases-ai-generated-pieces-chess-game/)
     
     Nov 28, 2024 | 11:10 AM EST
@@ -34,25 +52,25 @@
     
     ### [Here are the free games hitting PlayStation Plus Essential in December 2024](https://mobilesyrup.com/2024/11/27/playstation-plus-essential-games-december-2024/)
     
-    [](https://mobilesyrup.com/2024/11/27/steam-autumn-sale-2024-highlights/)
-    
-    Nov 27, 2024 | 5:06 PM EST
-    
-    ### [Steam’s big Autumn Sale is now live alongside The Steam Awards](https://mobilesyrup.com/2024/11/27/steam-autumn-sale-2024-highlights/)
-    
-    [](https://mobilesyrup.com/2024/11/27/elon-musk-ai-game-development-anti-woke-tirade/)
-    
-    Nov 27, 2024 | 4:01 PM EST
-    
-    ### [Elon Musk says he’ll use AI to ‘make games great again’ after anti-woke tirade](https://mobilesyrup.com/2024/11/27/elon-musk-ai-game-development-anti-woke-tirade/)
-    
-    [](https://mobilesyrup.com/2024/11/27/canadian-law-firm-video-game-addiction-proposed-lawsuit/)
-    
-    Nov 27, 2024 | 1:52 PM EST
-    
-    ### [Canadian firm wants to sue a bunch of publishers for ‘video game addiction’](https://mobilesyrup.com/2024/11/27/canadian-law-firm-video-game-addiction-proposed-lawsuit/)
-    
     * [Gaming](https://mobilesyrup.com/categories/gaming/)
+        
+        [](https://mobilesyrup.com/2024/11/29/canada-best-selling-games-october-2024-call-of-duty-dragon-ball-mario/)
+        
+        Nov 29, 2024 | 8:00 AM EST
+        
+        ### [These were Canada’s best-selling games in October 2024](https://mobilesyrup.com/2024/11/29/canada-best-selling-games-october-2024-call-of-duty-dragon-ball-mario/)
+        
+        [](https://mobilesyrup.com/2024/11/28/beloved-canadian-indie-game-balatro-mobile-success-the-game-awards-nominations/)
+        
+        Nov 28, 2024 | 7:03 PM EST
+        
+        ### [Beloved Canadian indie Balatro gets mobile boost amid The Game Awards nominations](https://mobilesyrup.com/2024/11/28/beloved-canadian-indie-game-balatro-mobile-success-the-game-awards-nominations/)
+        
+        [](https://mobilesyrup.com/2024/11/28/xbox-mobile-store-android-launch-blocked-by-court/)
+        
+        Nov 28, 2024 | 3:26 PM EST
+        
+        ### [Xbox says its mobile store is ‘ready’ for Android launch, but the court is preventing it](https://mobilesyrup.com/2024/11/28/xbox-mobile-store-android-launch-blocked-by-court/)
         
         [](https://mobilesyrup.com/2024/11/28/google-releases-ai-generated-pieces-chess-game/)
         
@@ -72,102 +90,90 @@
         
         ### [Here are the free games hitting PlayStation Plus Essential in December 2024](https://mobilesyrup.com/2024/11/27/playstation-plus-essential-games-december-2024/)
         
-        [](https://mobilesyrup.com/2024/11/27/steam-autumn-sale-2024-highlights/)
-        
-        Nov 27, 2024 | 5:06 PM EST
-        
-        ### [Steam’s big Autumn Sale is now live alongside The Steam Awards](https://mobilesyrup.com/2024/11/27/steam-autumn-sale-2024-highlights/)
-        
-        [](https://mobilesyrup.com/2024/11/27/elon-musk-ai-game-development-anti-woke-tirade/)
-        
-        Nov 27, 2024 | 4:01 PM EST
-        
-        ### [Elon Musk says he’ll use AI to ‘make games great again’ after anti-woke tirade](https://mobilesyrup.com/2024/11/27/elon-musk-ai-game-development-anti-woke-tirade/)
-        
-        [](https://mobilesyrup.com/2024/11/27/canadian-law-firm-video-game-addiction-proposed-lawsuit/)
-        
-        Nov 27, 2024 | 1:52 PM EST
-        
-        ### [Canadian firm wants to sue a bunch of publishers for ‘video game addiction’](https://mobilesyrup.com/2024/11/27/canadian-law-firm-video-game-addiction-proposed-lawsuit/)
-        
     
 * [News](https://mobilesyrup.com/categories/news/)
     
-    [](https://mobilesyrup.com/2024/11/28/elon-musk-x-account-ownership-alex-jones/)
+    [](https://mobilesyrup.com/2024/11/29/apple-watch-se-2nd-gen-is-100-off-at-walmart/)
     
-    Nov 28, 2024 | 1:55 PM EST
+    Nov 29, 2024 | 5:02 PM EST
     
-    ### [X (Twitter) argues that it owns all user accounts](https://mobilesyrup.com/2024/11/28/elon-musk-x-account-ownership-alex-jones/)
+    ### [Apple Watch SE 2nd-Gen is $100 off at Walmart](https://mobilesyrup.com/2024/11/29/apple-watch-se-2nd-gen-is-100-off-at-walmart/)
     
-    [](https://mobilesyrup.com/2024/11/28/koodo-customers-60-100gb-65-120gb-5g-can-us-plans/)
+    [](https://mobilesyrup.com/2024/11/29/best-amazon-canada-tech-related-black-friday-deals-in-2024/)
     
-    Nov 28, 2024 | 12:45 PM EST
+    Nov 29, 2024 | 4:18 PM EST
     
-    ### [Koodo offering some customers $60/100GB, $65/120GB 5G Canada/U.S. plans](https://mobilesyrup.com/2024/11/28/koodo-customers-60-100gb-65-120gb-5g-can-us-plans/)
+    ### [The best Amazon Canada Black Friday tech deals in 2024](https://mobilesyrup.com/2024/11/29/best-amazon-canada-tech-related-black-friday-deals-in-2024/)
     
-    [](https://mobilesyrup.com/2024/11/28/google-releases-ai-generated-pieces-chess-game/)
+    [](https://mobilesyrup.com/2024/11/29/freedom-mobile-black-friday-2024-pixel-galaxy-motorola/)
     
-    Nov 28, 2024 | 11:10 AM EST
+    Nov 29, 2024 | 3:41 PM EST
     
-    ### [Play chess with AI-generated pieces from Google](https://mobilesyrup.com/2024/11/28/google-releases-ai-generated-pieces-chess-game/)
+    ### [Freedom Mobile Black Friday: save on Pixel, Galaxy, iPhone and more \[Update\]](https://mobilesyrup.com/2024/11/29/freedom-mobile-black-friday-2024-pixel-galaxy-motorola/)
     
-    [](https://mobilesyrup.com/2024/11/27/tesla-hiring-workers-to-remotely-control-its-robo-taxis/)
+    [](https://mobilesyrup.com/2024/11/29/koodo-black-friday-2024/)
     
-    Nov 27, 2024 | 7:05 PM EST
+    Nov 29, 2024 | 2:40 PM EST
     
-    ### [Tesla hiring workers to remotely control its robo-taxis](https://mobilesyrup.com/2024/11/27/tesla-hiring-workers-to-remotely-control-its-robo-taxis/)
+    ### [Koodo Black Friday: free accessory bundle, discounts on iPhone, Galaxy \[Update\]](https://mobilesyrup.com/2024/11/29/koodo-black-friday-2024/)
     
-    [](https://mobilesyrup.com/2024/11/27/best-buy-1tb-iphone-15-pro-black-friday-deal/)
+    [](https://mobilesyrup.com/2024/11/29/the-best-in-store-carrier-plans-are-mostly-20gb-for-29/)
     
-    Nov 27, 2024 | 5:55 PM EST
+    Nov 29, 2024 | 2:35 PM EST
     
-    ### [Best Buy offers 1TB iPhone 15 Pro for $600 off for Black Friday](https://mobilesyrup.com/2024/11/27/best-buy-1tb-iphone-15-pro-black-friday-deal/)
+    ### [The best in-store carrier plans are mostly 20GB for $29](https://mobilesyrup.com/2024/11/29/the-best-in-store-carrier-plans-are-mostly-20gb-for-29/)
     
-    [](https://mobilesyrup.com/2024/11/27/baldurs-gate-3-biggest-update-12-new-subclasses/)
+    [](https://mobilesyrup.com/2024/11/29/news-organization-canada-seek-organization-open-ai/)
     
-    Nov 27, 2024 | 5:43 PM EST
+    Nov 29, 2024 | 2:29 PM EST
     
-    ### [Baldur’s Gate 3 is getting its biggest update yet with 12 new subclasses](https://mobilesyrup.com/2024/11/27/baldurs-gate-3-biggest-update-12-new-subclasses/)
+    ### [Select news organizations in Canada seek compensation from OpenAI](https://mobilesyrup.com/2024/11/29/news-organization-canada-seek-organization-open-ai/)
     
     * [Carriers](https://mobilesyrup.com/categories/news/news-carriers/)
         
-        [](https://mobilesyrup.com/2024/11/28/koodo-customers-60-100gb-65-120gb-5g-can-us-plans/)
+        [](https://mobilesyrup.com/2024/11/29/freedom-mobile-black-friday-2024-pixel-galaxy-motorola/)
         
-        Nov 28, 2024 | 12:45 PM EST
+        Nov 29, 2024 | 3:41 PM EST
         
-        ### [Koodo offering some customers $60/100GB, $65/120GB 5G Canada/U.S. plans](https://mobilesyrup.com/2024/11/28/koodo-customers-60-100gb-65-120gb-5g-can-us-plans/)
+        ### [Freedom Mobile Black Friday: save on Pixel, Galaxy, iPhone and more \[Update\]](https://mobilesyrup.com/2024/11/29/freedom-mobile-black-friday-2024-pixel-galaxy-motorola/)
         
-        [](https://mobilesyrup.com/2024/11/27/telus-buy-one-give-one-black-friday-promotion/)
+        [](https://mobilesyrup.com/2024/11/29/koodo-black-friday-2024/)
         
-        Nov 27, 2024 | 9:47 AM EST
+        Nov 29, 2024 | 2:40 PM EST
         
-        ### [Telus brings back ‘buy one, give one’ Black Friday promotion](https://mobilesyrup.com/2024/11/27/telus-buy-one-give-one-black-friday-promotion/)
+        ### [Koodo Black Friday: free accessory bundle, discounts on iPhone, Galaxy \[Update\]](https://mobilesyrup.com/2024/11/29/koodo-black-friday-2024/)
         
-        [](https://mobilesyrup.com/2024/11/26/telus-petition-internet-competition/)
+        [](https://mobilesyrup.com/2024/11/29/virgin-plus-black-friday-2024-pre-loved-phones-home-internet/)
         
-        Nov 26, 2024 | 4:19 PM EST
+        Nov 29, 2024 | 1:31 PM EST
         
-        ### [Telus wants your help to protect its internet competition at the expense of smaller ISPs](https://mobilesyrup.com/2024/11/26/telus-petition-internet-competition/)
+        ### [Virgin Plus Black Friday: save on pre-loved phones and home internet \[Update\]](https://mobilesyrup.com/2024/11/29/virgin-plus-black-friday-2024-pre-loved-phones-home-internet/)
         
-        [](https://mobilesyrup.com/2024/11/26/koodo-44-80gb-4g-plan/)
+        [](https://mobilesyrup.com/2024/11/29/fido-black-friday-2024/)
         
-        Nov 26, 2024 | 10:13 AM EST
+        Nov 29, 2024 | 12:19 PM EST
         
-        ### [Koodo adds $44/80GB 4G plan to match Fido](https://mobilesyrup.com/2024/11/26/koodo-44-80gb-4g-plan/)
+        ### [Fido Black Friday: iPhone 16 + AirPods bundle, get a free Pixel 8a \[Update\]](https://mobilesyrup.com/2024/11/29/fido-black-friday-2024/)
         
-        [](https://mobilesyrup.com/2024/11/25/crtc-consultations-price-notifications-cancellation-fees-self-serve/)
+        [](https://mobilesyrup.com/2024/11/29/telus-black-friday-2024/)
         
-        Nov 25, 2024 | 2:17 PM EST
+        Nov 29, 2024 | 11:56 AM EST
         
-        ### [CRTC launches three consultations on price notifications, cancellation fees and self-serve](https://mobilesyrup.com/2024/11/25/crtc-consultations-price-notifications-cancellation-fees-self-serve/)
+        ### [Telus Black Friday: iPhone 16 for $10/mo, Galaxy S24 for $5/mo \[Update\]](https://mobilesyrup.com/2024/11/29/telus-black-friday-2024/)
         
-        [](https://mobilesyrup.com/2024/11/25/taylor-swift-record-breaking-data-use-toronto/)
+        [](https://mobilesyrup.com/2024/11/29/bell-black-friday-deals-phones-plans-internet/)
         
-        Nov 25, 2024 | 11:57 AM EST
+        Nov 29, 2024 | 11:42 AM EST
         
-        ### [Taylor Swift fans break records for data usage at Rogers Centre](https://mobilesyrup.com/2024/11/25/taylor-swift-record-breaking-data-use-toronto/)
+        ### [Bell Black Friday: $60/200GB 5G and $1 Pixel 9 \[Update\]](https://mobilesyrup.com/2024/11/29/bell-black-friday-deals-phones-plans-internet/)
         
     * [Smartphones](https://mobilesyrup.com/categories/news/news-smartphones/)
+        
+        [](https://mobilesyrup.com/2024/11/28/earn-up-pc-optimum-points-black-friday-mobile-shop/)
+        
+        Nov 28, 2024 | 4:34 PM EST
+        
+        ### [Earn up to $200 in PC Optimum points this Black Friday with The Mobile Shop](https://mobilesyrup.com/2024/11/28/earn-up-pc-optimum-points-black-friday-mobile-shop/)
         
         [](https://mobilesyrup.com/2024/11/27/best-buy-1tb-iphone-15-pro-black-friday-deal/)
         
@@ -198,12 +204,6 @@
         Nov 20, 2024 | 5:52 PM EST
         
         ### [Samsung Galaxy S25 Ultra live dummy units surface online](https://mobilesyrup.com/2024/11/20/samsung-galaxy-s25-ultra-dummy-units/)
-        
-        [](https://mobilesyrup.com/2024/11/19/android-16-developer-preview-is-out-already/)
-        
-        Nov 19, 2024 | 5:27 PM EST
-        
-        ### [The Android 16 developer preview is out already](https://mobilesyrup.com/2024/11/19/android-16-developer-preview-is-out-already/)
         
     * [Tablets & Computers](https://mobilesyrup.com/categories/news/news-tablets/)
         
@@ -321,6 +321,12 @@
         
     * [Automotive](https://mobilesyrup.com/categories/news/news-automotive/)
         
+        [](https://mobilesyrup.com/2024/11/28/survey-says-canadians-want-new-cars-but-not-evs/)
+        
+        Nov 28, 2024 | 4:12 PM EST
+        
+        ### [Survey says Canadians want new cars, but not EVs](https://mobilesyrup.com/2024/11/28/survey-says-canadians-want-new-cars-but-not-evs/)
+        
         [](https://mobilesyrup.com/2024/11/27/tesla-hiring-workers-to-remotely-control-its-robo-taxis/)
         
         Nov 27, 2024 | 7:05 PM EST
@@ -350,12 +356,6 @@
         Nov 6, 2024 | 3:48 PM EST
         
         ### [GO is adding more services in time for the Taylor Swift Eras Tour](https://mobilesyrup.com/2024/11/06/go-adding-more-services-taylor-swift-eras-tour/)
-        
-        [](https://mobilesyrup.com/2024/10/22/qualcomm-snapdragon-cockpit-elite/)
-        
-        Oct 22, 2024 | 3:12 PM EDT
-        
-        ### [Qualcomm announces Snapdragon Cockpit Elite and Ride Elite for automotive](https://mobilesyrup.com/2024/10/22/qualcomm-snapdragon-cockpit-elite/)
         
     * [Accessories](https://mobilesyrup.com/categories/news/news-accessories/)
         
@@ -435,6 +435,12 @@
         
     * [AI](https://mobilesyrup.com/categories/news/news-ai/)
         
+        [](https://mobilesyrup.com/2024/11/29/news-organization-canada-seek-organization-open-ai/)
+        
+        Nov 29, 2024 | 2:29 PM EST
+        
+        ### [Select news organizations in Canada seek compensation from OpenAI](https://mobilesyrup.com/2024/11/29/news-organization-canada-seek-organization-open-ai/)
+        
         [](https://mobilesyrup.com/2024/11/22/android-16-gemini-in-app-actions/)
         
         Nov 22, 2024 | 3:08 PM EST
@@ -465,52 +471,64 @@
         
         ### [Dedicated Gemini app is now available on iOS](https://mobilesyrup.com/2024/11/14/gemini-app-on-iphone/)
         
-        [](https://mobilesyrup.com/2024/11/13/canadian-tire-launches-ai-tool-to-help-shopperse-with-winter-tires/)
-        
-        Nov 13, 2024 | 5:28 PM EST
-        
-        ### [Canadian Tire launches AI tool to help shoppers with winter tires](https://mobilesyrup.com/2024/11/13/canadian-tire-launches-ai-tool-to-help-shopperse-with-winter-tires/)
-        
     * [Deals](https://mobilesyrup.com/categories/deals/)
         
-        [](https://mobilesyrup.com/2024/11/28/koodo-customers-60-100gb-65-120gb-5g-can-us-plans/)
+        [](https://mobilesyrup.com/2024/11/30/freedom-10-credit-6-months-byop/)
         
-        Nov 28, 2024 | 12:45 PM EST
+        Nov 30, 2024 | 1:35 PM EST
         
-        ### [Koodo offering some customers $60/100GB, $65/120GB 5G Canada/U.S. plans](https://mobilesyrup.com/2024/11/28/koodo-customers-60-100gb-65-120gb-5g-can-us-plans/)
+        ### [Get a $10 monthly credit for 6 months at Freedom when you bring your own device](https://mobilesyrup.com/2024/11/30/freedom-10-credit-6-months-byop/)
         
-        [](https://mobilesyrup.com/2024/11/27/best-buy-1tb-iphone-15-pro-black-friday-deal/)
+        [](https://mobilesyrup.com/2024/11/30/save-500-surface-microsoft-black-friday/)
         
-        Nov 27, 2024 | 5:55 PM EST
+        Nov 30, 2024 | 12:13 PM EST
         
-        ### [Best Buy offers 1TB iPhone 15 Pro for $600 off for Black Friday](https://mobilesyrup.com/2024/11/27/best-buy-1tb-iphone-15-pro-black-friday-deal/)
+        ### [Save up to $500 on select Surface models during Microsoft’s Black Friday sale](https://mobilesyrup.com/2024/11/30/save-500-surface-microsoft-black-friday/)
         
-        [](https://mobilesyrup.com/2024/11/27/steam-autumn-sale-2024-highlights/)
+        [](https://mobilesyrup.com/2024/11/30/6-months-of-cbc-gem-premium-available-for-1-during-black-friday-promotion/)
         
-        Nov 27, 2024 | 5:06 PM EST
+        Nov 30, 2024 | 10:30 AM EST
         
-        ### [Steam’s big Autumn Sale is now live alongside The Steam Awards](https://mobilesyrup.com/2024/11/27/steam-autumn-sale-2024-highlights/)
+        ### [6 months of CBC Gem Premium available for $1 during Black Friday promotion](https://mobilesyrup.com/2024/11/30/6-months-of-cbc-gem-premium-available-for-1-during-black-friday-promotion/)
         
-        [](https://mobilesyrup.com/2024/11/27/costco-adds-iphone-16-to-its-black-friday-deals/)
+        [](https://mobilesyrup.com/2024/11/30/get-an-iphone-16-and-airpods-4th-gen-bundle-with-select-carriers-during-black-friday/)
         
-        Nov 27, 2024 | 3:20 PM EST
+        Nov 30, 2024 | 9:30 AM EST
         
-        ### [Costco adds iPhone 16 to its Black Friday deals](https://mobilesyrup.com/2024/11/27/costco-adds-iphone-16-to-its-black-friday-deals/)
+        ### [Get an iPhone 16 and AirPods (4th Gen) bundle with select carriers during Black Friday](https://mobilesyrup.com/2024/11/30/get-an-iphone-16-and-airpods-4th-gen-bundle-with-select-carriers-during-black-friday/)
         
-        [](https://mobilesyrup.com/2024/11/27/stay-powered-up-this-winter-with-bluettis-black-friday-sale/)
+        [](https://mobilesyrup.com/2024/11/29/apple-watch-se-2nd-gen-is-100-off-at-walmart/)
         
-        Nov 27, 2024 | 12:00 PM EST
+        Nov 29, 2024 | 5:02 PM EST
         
-        ### [Stay powered up this winter with BLUETTI’s Black Friday Sale](https://mobilesyrup.com/2024/11/27/stay-powered-up-this-winter-with-bluettis-black-friday-sale/)
+        ### [Apple Watch SE 2nd-Gen is $100 off at Walmart](https://mobilesyrup.com/2024/11/29/apple-watch-se-2nd-gen-is-100-off-at-walmart/)
         
-        [](https://mobilesyrup.com/2024/11/26/koodo-44-80gb-4g-plan/)
+        [](https://mobilesyrup.com/2024/11/29/best-amazon-canada-tech-related-black-friday-deals-in-2024/)
         
-        Nov 26, 2024 | 10:13 AM EST
+        Nov 29, 2024 | 4:18 PM EST
         
-        ### [Koodo adds $44/80GB 4G plan to match Fido](https://mobilesyrup.com/2024/11/26/koodo-44-80gb-4g-plan/)
+        ### [The best Amazon Canada Black Friday tech deals in 2024](https://mobilesyrup.com/2024/11/29/best-amazon-canada-tech-related-black-friday-deals-in-2024/)
         
     
 * [Reviews](https://mobilesyrup.com/categories/reviews/)
+    
+    [](https://mobilesyrup.com/2024/11/30/razer-kraken-v4-pro-headphone-review/)
+    
+    Nov 30, 2024 | 11:04 AM EST
+    
+    ### [Razer Kraken V4 Pro Review: ear-rocking sound, eye-watering price](https://mobilesyrup.com/2024/11/30/razer-kraken-v4-pro-headphone-review/)
+    
+    [](https://mobilesyrup.com/2024/11/29/sonos-arc-ultra-review-bringing-the-theatre-home/)
+    
+    Nov 29, 2024 | 6:02 PM EST
+    
+    ### [Sonos Arc Ultra Review: Bringing the theatre home](https://mobilesyrup.com/2024/11/29/sonos-arc-ultra-review-bringing-the-theatre-home/)
+    
+    [](https://mobilesyrup.com/2024/11/29/samsung-odyssey-g8-g80sd-stunning-gaming-monitor-smooth-240hz-refresh-rate-2/)
+    
+    Nov 29, 2024 | 9:00 AM EST
+    
+    ### [Samsung Odyssey G8 G80SD is a stunning gaming monitor with a smooth 240Hz refresh rate](https://mobilesyrup.com/2024/11/29/samsung-odyssey-g8-g80sd-stunning-gaming-monitor-smooth-240hz-refresh-rate-2/)
     
     [](https://mobilesyrup.com/2024/11/24/razer-blackwidow-v4-pro-75-keyboard-review/)
     
@@ -529,24 +547,6 @@
     Nov 19, 2024 | 6:20 AM EST
     
     ### [Asus ROG Phone 9: This gaming powerhouse isn’t available in Canada](https://mobilesyrup.com/2024/11/19/asus-rog-phone-9-this-gaming-powerhouse-isnt-available-in-canada/)
-    
-    [](https://mobilesyrup.com/2024/11/18/google-pixel-9-pro-review/)
-    
-    Nov 18, 2024 | 3:34 PM EST
-    
-    ### [Google Pixel 9 Pro Review: Pixel perfect](https://mobilesyrup.com/2024/11/18/google-pixel-9-pro-review/)
-    
-    [](https://mobilesyrup.com/2024/11/17/gm-super-cruise-test-review/)
-    
-    Nov 17, 2024 | 2:52 PM EST
-    
-    ### [I was a self-driving skeptic until I tried GM’s Super Cruise](https://mobilesyrup.com/2024/11/17/gm-super-cruise-test-review/)
-    
-    [](https://mobilesyrup.com/2024/11/17/awaken-astral-blade-review/)
-    
-    Nov 17, 2024 | 11:01 AM EST
-    
-    ### [Awaken – Astral Blade is a fun Metroidvania, but no Hollow Knight](https://mobilesyrup.com/2024/11/17/awaken-astral-blade-review/)
     
     * [Smartphones](https://mobilesyrup.com/categories/reviews/reviews-smartphones/)
         
@@ -626,6 +626,12 @@
         
     * [Smart Home](https://mobilesyrup.com/categories/reviews/reviews-smart-home/)
         
+        [](https://mobilesyrup.com/2024/11/29/sonos-arc-ultra-review-bringing-the-theatre-home/)
+        
+        Nov 29, 2024 | 6:02 PM EST
+        
+        ### [Sonos Arc Ultra Review: Bringing the theatre home](https://mobilesyrup.com/2024/11/29/sonos-arc-ultra-review-bringing-the-theatre-home/)
+        
         [](https://mobilesyrup.com/2024/10/14/the-google-tv-streamer-review-more-power-and-one-cool-trick/)
         
         Oct 14, 2024 | 10:10 AM EDT
@@ -655,12 +661,6 @@
         Aug 30, 2024 | 12:41 PM EDT
         
         ### [The HomePod mini is the key to an Apple smart home](https://mobilesyrup.com/2024/08/30/homepod-mini-replace-sonos-2024-review/)
-        
-        [](https://mobilesyrup.com/2024/08/17/tineco-floor-one-s5-vacuum-mop-2-in-1-review/)
-        
-        Aug 17, 2024 | 2:27 PM EDT
-        
-        ### [The Tineco Floor One S5 makes vacuuming and mopping so much more efficient](https://mobilesyrup.com/2024/08/17/tineco-floor-one-s5-vacuum-mop-2-in-1-review/)
         
     * [Automotive](https://mobilesyrup.com/categories/reviews/reviews-automotive/)
         
@@ -702,6 +702,18 @@
         
     * [Accessories](https://mobilesyrup.com/categories/reviews/reviews-accessories/)
         
+        [](https://mobilesyrup.com/2024/11/30/razer-kraken-v4-pro-headphone-review/)
+        
+        Nov 30, 2024 | 11:04 AM EST
+        
+        ### [Razer Kraken V4 Pro Review: ear-rocking sound, eye-watering price](https://mobilesyrup.com/2024/11/30/razer-kraken-v4-pro-headphone-review/)
+        
+        [](https://mobilesyrup.com/2024/11/29/samsung-odyssey-g8-g80sd-stunning-gaming-monitor-smooth-240hz-refresh-rate-2/)
+        
+        Nov 29, 2024 | 9:00 AM EST
+        
+        ### [Samsung Odyssey G8 G80SD is a stunning gaming monitor with a smooth 240Hz refresh rate](https://mobilesyrup.com/2024/11/29/samsung-odyssey-g8-g80sd-stunning-gaming-monitor-smooth-240hz-refresh-rate-2/)
+        
         [](https://mobilesyrup.com/2024/11/24/razer-blackwidow-v4-pro-75-keyboard-review/)
         
         Nov 24, 2024 | 11:03 AM EST
@@ -725,18 +737,6 @@
         Nov 1, 2024 | 5:05 PM EDT
         
         ### [I’m in love with this iPad Monitor arm](https://mobilesyrup.com/2024/11/01/im-in-love-with-this-ipad-monitor-arm/)
-        
-        [](https://mobilesyrup.com/2024/10/27/peak-design-everyday-clarino-pixel-9-case-review/)
-        
-        Oct 27, 2024 | 2:27 PM EDT
-        
-        ### [Peak Design’s Everyday Clarino case is my new favourite leather case](https://mobilesyrup.com/2024/10/27/peak-design-everyday-clarino-pixel-9-case-review/)
-        
-        [](https://mobilesyrup.com/2024/10/23/shures-mv6-microphone-streaming-podcasting/)
-        
-        Oct 23, 2024 | 12:00 PM EDT
-        
-        ### [Shure’s MV6 is a great premium entry point for streaming and podcasting](https://mobilesyrup.com/2024/10/23/shures-mv6-microphone-streaming-podcasting/)
         
     * [Gaming](https://mobilesyrup.com/categories/reviews/reviews-gaming/)
         
@@ -817,6 +817,12 @@
     
 * [Features](https://mobilesyrup.com/categories/features/)
     
+    [](https://mobilesyrup.com/2024/11/30/star-wars-knights-of-the-old-republic-ii-the-sith-lords-20th-anniversary-editorial/)
+    
+    Nov 30, 2024 | 2:31 PM EST
+    
+    ### [20 years later, Knights of the Old Republic II remains the most fascinating Star Wars story](https://mobilesyrup.com/2024/11/30/star-wars-knights-of-the-old-republic-ii-the-sith-lords-20th-anniversary-editorial/)
+    
     [](https://mobilesyrup.com/2024/11/23/the-game-awards-2024-honourable-mentions-1000xresist-lil-guardsman-mouthwashing/)
     
     Nov 23, 2024 | 2:27 PM EST
@@ -846,12 +852,6 @@
     Nov 21, 2024 | 9:00 AM EST
     
     ### [After playing Obsidian’s Avowed, it’s now one of my most anticipated games](https://mobilesyrup.com/2024/11/21/obsidian-avowed-xbox-pc-preview/)
-    
-    [](https://mobilesyrup.com/2024/11/15/apples-gaming-ambitions-continue-to-march-forward/)
-    
-    Nov 15, 2024 | 4:48 PM EST
-    
-    ### [Apple’s gaming ambitions continue to march forward](https://mobilesyrup.com/2024/11/15/apples-gaming-ambitions-continue-to-march-forward/)
     
     * [Carriers](https://mobilesyrup.com/categories/features/features-carriers/)
         
@@ -969,6 +969,12 @@
         
     * [General](https://mobilesyrup.com/categories/features/features-general/)
         
+        [](https://mobilesyrup.com/2024/11/30/star-wars-knights-of-the-old-republic-ii-the-sith-lords-20th-anniversary-editorial/)
+        
+        Nov 30, 2024 | 2:31 PM EST
+        
+        ### [20 years later, Knights of the Old Republic II remains the most fascinating Star Wars story](https://mobilesyrup.com/2024/11/30/star-wars-knights-of-the-old-republic-ii-the-sith-lords-20th-anniversary-editorial/)
+        
         [](https://mobilesyrup.com/2024/11/23/the-game-awards-2024-honourable-mentions-1000xresist-lil-guardsman-mouthwashing/)
         
         Nov 23, 2024 | 2:27 PM EST
@@ -998,12 +1004,6 @@
         Nov 21, 2024 | 9:00 AM EST
         
         ### [After playing Obsidian’s Avowed, it’s now one of my most anticipated games](https://mobilesyrup.com/2024/11/21/obsidian-avowed-xbox-pc-preview/)
-        
-        [](https://mobilesyrup.com/2024/11/15/apples-gaming-ambitions-continue-to-march-forward/)
-        
-        Nov 15, 2024 | 4:48 PM EST
-        
-        ### [Apple’s gaming ambitions continue to march forward](https://mobilesyrup.com/2024/11/15/apples-gaming-ambitions-continue-to-march-forward/)
         
     
 * [Resources](https://mobilesyrup.com/categories/resources/)
@@ -1062,7 +1062,7 @@
         
         Nov 22, 2024 | 4:13 PM EST
         
-        ### [These are the best Canadian carrier Black Friday 2024 deals so far](https://mobilesyrup.com/2024/11/22/best-carrier-black-friday-deals-roundup/)
+        ### [These are the best Canadian carrier Black Friday 2024 deals](https://mobilesyrup.com/2024/11/22/best-carrier-black-friday-deals-roundup/)
         
         [](https://mobilesyrup.com/2024/11/22/how-to-make-sure-carrier-smartphone-deal-is-worth-it/)
         
@@ -1163,6 +1163,18 @@
     
 * [Business](https://mobilesyrup.com/categories/business/)
     
+    [](https://mobilesyrup.com/2024/11/29/competition-bureau-google-anti-competitive-digital-ads/)
+    
+    Nov 29, 2024 | 9:47 AM EST
+    
+    ### [Competition Bureau sues Google for anti-competitive conduct in digital ads](https://mobilesyrup.com/2024/11/29/competition-bureau-google-anti-competitive-digital-ads/)
+    
+    [](https://mobilesyrup.com/2024/11/28/air-canada-facial-recognition-vancouver-international-airport/)
+    
+    Nov 28, 2024 | 5:34 PM EST
+    
+    ### [Air Canada introduces facial recognition at Vancouver International Airport](https://mobilesyrup.com/2024/11/28/air-canada-facial-recognition-vancouver-international-airport/)
+    
     [](https://mobilesyrup.com/2024/11/28/us-ftc-microsoft-antitrust-investigation/)
     
     Nov 28, 2024 | 10:29 AM EST
@@ -1187,19 +1199,19 @@
     
     ### [U.S. Department of Justice wants Google to sell Chrome](https://mobilesyrup.com/2024/11/19/u-s-department-of-justice-wants-google-to-sell-chrome/)
     
-    [](https://mobilesyrup.com/2024/11/18/ottawa-invests-38-million-high-speed-remote-manitoba/)
-    
-    Nov 18, 2024 | 4:45 PM EST
-    
-    ### [Ottawa invests $38 million to bring high-speed to remote Manitoba](https://mobilesyrup.com/2024/11/18/ottawa-invests-38-million-high-speed-remote-manitoba/)
-    
-    [](https://mobilesyrup.com/2024/11/15/canada-post-strike-deliveries-paused/)
-    
-    Nov 15, 2024 | 2:30 PM EST
-    
-    ### [Canada Post workers go on strike, stopping deliveries](https://mobilesyrup.com/2024/11/15/canada-post-strike-deliveries-paused/)
-    
     * [General](https://mobilesyrup.com/categories/business/general/)
+        
+        [](https://mobilesyrup.com/2024/11/29/competition-bureau-google-anti-competitive-digital-ads/)
+        
+        Nov 29, 2024 | 9:47 AM EST
+        
+        ### [Competition Bureau sues Google for anti-competitive conduct in digital ads](https://mobilesyrup.com/2024/11/29/competition-bureau-google-anti-competitive-digital-ads/)
+        
+        [](https://mobilesyrup.com/2024/11/28/air-canada-facial-recognition-vancouver-international-airport/)
+        
+        Nov 28, 2024 | 5:34 PM EST
+        
+        ### [Air Canada introduces facial recognition at Vancouver International Airport](https://mobilesyrup.com/2024/11/28/air-canada-facial-recognition-vancouver-international-airport/)
         
         [](https://mobilesyrup.com/2024/11/28/us-ftc-microsoft-antitrust-investigation/)
         
@@ -1225,19 +1237,13 @@
         
         ### [CBC News to add up to 25 journalists following Google payout](https://mobilesyrup.com/2024/11/12/cbc-add-journalists-google-payout-online-news-act/)
         
-        [](https://mobilesyrup.com/2024/11/11/if-trump-enacts-tariffs-the-iphone-price-could-go-up/)
-        
-        Nov 11, 2024 | 1:55 PM EST
-        
-        ### [If Trump enacts tariffs, the iPhone price could go up](https://mobilesyrup.com/2024/11/11/if-trump-enacts-tariffs-the-iphone-price-could-go-up/)
-        
-        [](https://mobilesyrup.com/2024/11/05/eastlink-sunwire-home-internet-tv-phone-services/)
-        
-        Nov 5, 2024 | 4:43 PM EST
-        
-        ### [Eastlink purchased Sunwire’s home internet, TV and phone services](https://mobilesyrup.com/2024/11/05/eastlink-sunwire-home-internet-tv-phone-services/)
-        
     * [Government](https://mobilesyrup.com/categories/business/business-general/)
+        
+        [](https://mobilesyrup.com/2024/11/29/competition-bureau-google-anti-competitive-digital-ads/)
+        
+        Nov 29, 2024 | 9:47 AM EST
+        
+        ### [Competition Bureau sues Google for anti-competitive conduct in digital ads](https://mobilesyrup.com/2024/11/29/competition-bureau-google-anti-competitive-digital-ads/)
         
         [](https://mobilesyrup.com/2024/11/21/canada-hst-gst-freeze-food-video-games-clothing-other-goods/)
         
@@ -1268,12 +1274,6 @@
         Oct 29, 2024 | 12:39 PM EDT
         
         ### [Google to pay $100m per year to be exempt from Online News Act](https://mobilesyrup.com/2024/10/29/google-pay-100m-per-year-exempt-online-news-act/)
-        
-        [](https://mobilesyrup.com/2024/10/29/ndp-calls-out-rogers-liberals-over-telco-price-gouging/)
-        
-        Oct 29, 2024 | 10:06 AM EDT
-        
-        ### [NDP calls out Rogers, Liberals over telco price gouging](https://mobilesyrup.com/2024/10/29/ndp-calls-out-rogers-liberals-over-telco-price-gouging/)
         
     * [Security & Privacy](https://mobilesyrup.com/categories/business/business-security/)
         
