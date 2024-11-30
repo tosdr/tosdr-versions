@@ -93,7 +93,7 @@ As a condition of Your use of the Service, and without limiting Your other oblig
 
 The Organization reserves the right, but not the obligation, to, in its sole discretion, determine whether or not any Content is appropriate and complies with this Terms, refuse or remove this Content. The Organization further reserves the right to make formatting and edits and change the manner any Content. The Organization can also limit or revoke the use of the Service if You post such objectionable Content.
 
-The Organization reserves the right to remove and permanently delete Your Content from the Service with or without notice for any reason or no reason. You may notify The Organization of any user content that You believe violates these Terms, or other inappropriate user behavior, by emailing [community@lambdageneration.com](mailto:community@lambdageneration.com).
+The Organization reserves the right to remove and permanently delete Your Content from the Service with or without notice for any reason or no reason. You may notify The Organization of any user content that You believe violates these Terms, or other inappropriate user behavior, by emailing [\[email protected\]](https://community.lambdageneration.com/cdn-cgi/l/email-protection).
 
 As The Organization cannot control all content posted by users and/or third parties on the Service, you agree to use the Service at your own risk. You understand that by using the Service You may be exposed to content that You may find offensive, indecent, incorrect or objectionable, and You agree that under no circumstances will The Organization be liable in any way for any content, including any errors or omissions in any content, or any loss or damage of any kind incurred as a result of your use of any content.
 
@@ -114,7 +114,7 @@ Copyright Policy
 
 We respect the intellectual property rights of others. It is Our policy to respond to any claim that Content posted on the Service infringes a copyright or other intellectual property infringement of any person.
 
-If You are a copyright owner, or authorized on behalf of one, and You believe that the copyrighted work has been copied in a way that constitutes copyright infringement that is taking place through the Service, You must submit Your notice in writing to the attention of our copyright agent via email at [community@lambdageneration.com](mailto:community@lambdageneration.com) and include in Your notice a detailed description of the alleged infringement.
+If You are a copyright owner, or authorized on behalf of one, and You believe that the copyrighted work has been copied in a way that constitutes copyright infringement that is taking place through the Service, You must submit Your notice in writing to the attention of our copyright agent via email at [\[email protected\]](https://community.lambdageneration.com/cdn-cgi/l/email-protection) and include in Your notice a detailed description of the alleged infringement.
 
 You may be held accountable for damages (including costs and attorneys' fees) for misrepresenting that any Content is infringing Your copyright.
 
@@ -129,7 +129,7 @@ You may submit a notification pursuant to the Digital Millennium Copyright Act (
 * A statement by You that You have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law.
 * A statement by You, made under penalty of perjury, that the above information in Your notice is accurate and that You are the copyright owner or authorized to act on the copyright owner's behalf.
 
-You can contact our copyright agent via email at [community@lambdageneration.com](mailto:community@lambdageneration.com).
+You can contact our copyright agent via email at [\[email protected\]](https://community.lambdageneration.com/cdn-cgi/l/email-protection).
 
 Upon receipt of a notification, The Organization will take whatever action, in its sole discretion, it deems appropriate, including removal of the challenged content from the Service.
 
@@ -238,7 +238,7 @@ By continuing to access or use Our Service after those revisions become effectiv
 Contact Us
 ----------
 
-If you have any questions about these Terms, You can contact us by email: [community@lambdageneration.com](mailto:community@lambdageneration.com)
+If you have any questions about these Terms, You can contact us by email: [\[email protected\]](https://community.lambdageneration.com/cdn-cgi/l/email-protection)
 
 [![LambdaGeneration](/_nuxt/img/logo-text.5e1ee43.png)](https://community.lambdageneration.com/)
 
