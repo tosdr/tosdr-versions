@@ -135,21 +135,21 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![In 2022, the number of elderly people with dementia in Japan reached 4.43 million, according to data from the health ministry. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/28/436797.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "In 2022, the number of elderly people with dementia in Japan reached 4.43 million, according to data from the health ministry. ")](https://www.japantimes.co.jp/news/2024/11/28/japan/science-health/keio-university-alzheimers/ "Japan researchers develop a simple way to spot signs of Alzheimer's disease")
 
+[Tokyo police arrest six Chinese nationals over _yami baito_ scheme](https://www.japantimes.co.jp/news/2024/11/29/japan/crime-legal/chinese-arrest-kidnapping/ "Tokyo police arrest six Chinese nationals over yami baito scheme")
+
+  [![Tokyo police have arrested six Chinese nationals on suspicion of unlawful confinement and attempted extortion involving a 23-year-old exchange student who had become involved in a financial dispute over a yami baito, or a “dark” part-time job.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/29/437203.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tokyo police have arrested six Chinese nationals on suspicion of unlawful confinement and attempted extortion involving a 23-year-old exchange student who had become involved in a financial dispute over a yami baito, or a “dark” part-time job.")](https://www.japantimes.co.jp/news/2024/11/29/japan/crime-legal/chinese-arrest-kidnapping/ "Tokyo police arrest six Chinese nationals over yami baito scheme")
+
 [Japan to overhaul tax exemption system for foreign visitors](https://www.japantimes.co.jp/news/2024/11/28/japan/tax-exemption-system-overhaul/ "Japan to overhaul tax exemption system for foreign visitors")
 
   [![The Ginza shopping district in Tokyo in August](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/28/437056.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Ginza shopping district in Tokyo in August")](https://www.japantimes.co.jp/news/2024/11/28/japan/tax-exemption-system-overhaul/ "Japan to overhaul tax exemption system for foreign visitors")
 
+[‘God of management’ comes back to life as an AI model](https://www.japantimes.co.jp/business/2024/11/28/companies/panasonic-founder-ai-clone/ "‘God of management’ comes back to life as an AI model")
+
+  [![A statue of Konosuke Matsushita in the grounds of the Konosuke Matsushita Museum in Kadoma, Osaka Prefecture](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/28/436997.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A statue of Konosuke Matsushita in the grounds of the Konosuke Matsushita Museum in Kadoma, Osaka Prefecture")](https://www.japantimes.co.jp/business/2024/11/28/companies/panasonic-founder-ai-clone/ "‘God of management’ comes back to life as an AI model")
+
 [Two dead after fire at Upper House lawmaker Kuniko Inoguchi’s apartment](https://www.japantimes.co.jp/news/2024/11/28/japan/politics/kuniko-inoguchi-fire/ "Two dead after fire at Upper House lawmaker Kuniko Inoguchi’s apartment")
 
   [![A fire broke out on the sixth floor of an apartment building where Upper House lawmaker Kuniko Inoguchi resides on Wednesday in Tokyo's Bunkyo Ward.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/28/436926.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A fire broke out on the sixth floor of an apartment building where Upper House lawmaker Kuniko Inoguchi resides on Wednesday in Tokyo's Bunkyo Ward.")](https://www.japantimes.co.jp/news/2024/11/28/japan/politics/kuniko-inoguchi-fire/ "Two dead after fire at Upper House lawmaker Kuniko Inoguchi’s apartment")
-
-[Real-life ‘Tokyo Swindlers’ ordered to pay ¥1 billion in damages](https://www.japantimes.co.jp/news/2024/11/28/japan/crime-legal/tokyo-swindlers-case/ "Real-life ‘Tokyo Swindlers’ ordered to pay ¥1 billion in damages")
-
-  [![High-rise buildings in Tokyo. Through faking documents and passports a criminal group conspired to pose as the owner of a real-estate plot and buildings in Tokyo's Shinagawa Ward in 2017, defrauding Sekisui House of ¥5.5 billion.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/28/437015.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "High-rise buildings in Tokyo. Through faking documents and passports a criminal group conspired to pose as the owner of a real-estate plot and buildings in Tokyo's Shinagawa Ward in 2017, defrauding Sekisui House of ¥5.5 billion.")](https://www.japantimes.co.jp/news/2024/11/28/japan/crime-legal/tokyo-swindlers-case/ "Real-life ‘Tokyo Swindlers’ ordered to pay ¥1 billion in damages")
-
-[Real estate worth ¥25 trillion puts Japan companies in spotlight](https://www.japantimes.co.jp/business/2024/11/28/companies/japan-undervalued-real-estate/ "Real estate worth ¥25 trillion puts Japan companies in spotlight")
-
-  [![Elliott Investment Management's stake in Tokyo Gas is centered around getting the utility to sell off its real estate holdings, including Shinjuku Park Tower, which houses the Park Hyatt Hotel Tokyo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/28/436887.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Elliott Investment Management's stake in Tokyo Gas is centered around getting the utility to sell off its real estate holdings, including Shinjuku Park Tower, which houses the Park Hyatt Hotel Tokyo.")](https://www.japantimes.co.jp/business/2024/11/28/companies/japan-undervalued-real-estate/ "Real estate worth ¥25 trillion puts Japan companies in spotlight")
 
 Editors' Picks
 --------------
@@ -164,9 +164,25 @@ By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
+[Tokyo police arrest six Chinese nationals over _yami baito_ scheme](https://www.japantimes.co.jp/news/2024/11/29/japan/crime-legal/chinese-arrest-kidnapping/ "Tokyo police arrest six Chinese nationals over yami baito scheme")
+
+By [Jessica Speed](https://www.japantimes.co.jp/author/5338/jessica-speed/ "Jessica Speed")  
+
+  [![Tokyo police have arrested six Chinese nationals on suspicion of unlawful confinement and attempted extortion involving a 23-year-old exchange student who had become involved in a financial dispute over a yami baito, or a “dark” part-time job.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/29/437203.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tokyo police have arrested six Chinese nationals on suspicion of unlawful confinement and attempted extortion involving a 23-year-old exchange student who had become involved in a financial dispute over a yami baito, or a “dark” part-time job.")](https://www.japantimes.co.jp/news/2024/11/29/japan/crime-legal/chinese-arrest-kidnapping/ "Tokyo police arrest six Chinese nationals over yami baito scheme")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
 [Japan to overhaul tax exemption system for foreign visitors](https://www.japantimes.co.jp/news/2024/11/28/japan/tax-exemption-system-overhaul/ "Japan to overhaul tax exemption system for foreign visitors")
 
   [![The Ginza shopping district in Tokyo in August](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/28/437056.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Ginza shopping district in Tokyo in August")](https://www.japantimes.co.jp/news/2024/11/28/japan/tax-exemption-system-overhaul/ "Japan to overhaul tax exemption system for foreign visitors")
+
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+
+[‘God of management’ comes back to life as an AI model](https://www.japantimes.co.jp/business/2024/11/28/companies/panasonic-founder-ai-clone/ "‘God of management’ comes back to life as an AI model")
+
+By [Eddy Duan](https://www.japantimes.co.jp/author/5028/eddy-duan/ "Eddy Duan")  
+
+  [![A statue of Konosuke Matsushita in the grounds of the Konosuke Matsushita Museum in Kadoma, Osaka Prefecture](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/28/436997.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A statue of Konosuke Matsushita in the grounds of the Konosuke Matsushita Museum in Kadoma, Osaka Prefecture")](https://www.japantimes.co.jp/business/2024/11/28/companies/panasonic-founder-ai-clone/ "‘God of management’ comes back to life as an AI model")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
@@ -175,22 +191,6 @@ By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "
 By [Himari Semans](https://www.japantimes.co.jp/author/4668/himari-semans/ "Himari Semans")  
 
   [![A fire broke out on the sixth floor of an apartment building where Upper House lawmaker Kuniko Inoguchi resides on Wednesday in Tokyo's Bunkyo Ward.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/28/436926.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A fire broke out on the sixth floor of an apartment building where Upper House lawmaker Kuniko Inoguchi resides on Wednesday in Tokyo's Bunkyo Ward.")](https://www.japantimes.co.jp/news/2024/11/28/japan/politics/kuniko-inoguchi-fire/ "Two dead after fire at Upper House lawmaker Kuniko Inoguchi’s apartment")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Real-life ‘Tokyo Swindlers’ ordered to pay ¥1 billion in damages](https://www.japantimes.co.jp/news/2024/11/28/japan/crime-legal/tokyo-swindlers-case/ "Real-life ‘Tokyo Swindlers’ ordered to pay ¥1 billion in damages")
-
-By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
-
-  [![High-rise buildings in Tokyo. Through faking documents and passports a criminal group conspired to pose as the owner of a real-estate plot and buildings in Tokyo's Shinagawa Ward in 2017, defrauding Sekisui House of ¥5.5 billion.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/28/437015.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "High-rise buildings in Tokyo. Through faking documents and passports a criminal group conspired to pose as the owner of a real-estate plot and buildings in Tokyo's Shinagawa Ward in 2017, defrauding Sekisui House of ¥5.5 billion.")](https://www.japantimes.co.jp/news/2024/11/28/japan/crime-legal/tokyo-swindlers-case/ "Real-life ‘Tokyo Swindlers’ ordered to pay ¥1 billion in damages")
-
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
-
-[Real estate worth ¥25 trillion puts Japan companies in spotlight](https://www.japantimes.co.jp/business/2024/11/28/companies/japan-undervalued-real-estate/ "Real estate worth ¥25 trillion puts Japan companies in spotlight")
-
-By [Lisa Du](https://www.japantimes.co.jp/author/441/lisa-du/ "Lisa Du")  
-
-  [![Elliott Investment Management's stake in Tokyo Gas is centered around getting the utility to sell off its real estate holdings, including Shinjuku Park Tower, which houses the Park Hyatt Hotel Tokyo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/28/436887.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Elliott Investment Management's stake in Tokyo Gas is centered around getting the utility to sell off its real estate holdings, including Shinjuku Park Tower, which houses the Park Hyatt Hotel Tokyo.")](https://www.japantimes.co.jp/business/2024/11/28/companies/japan-undervalued-real-estate/ "Real estate worth ¥25 trillion puts Japan companies in spotlight")
 
 Podcast
 -------
@@ -211,9 +211,9 @@ By [Greg Dvorak](https://www.japantimes.co.jp/author/6191/greg-dvorak/ "Greg Dvo
 SUSTAINABLE JAPAN
 -----------------
 
-[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -253,25 +253,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Jihadis and allies breach Syria's second city in lightning assault](https://www.japantimes.co.jp/news/2024/11/30/world/syria-aleppo-rebels-advance/ "Jihadis and allies breach Syria's second city in lightning assault")
-
-1 hour ago
-
-[Pete Hegseth’s mother accused her son of mistreating women for years](https://www.japantimes.co.jp/news/2024/11/30/world/politics/pete-hegseth-mistreating-women-mother/ "Pete Hegseth’s mother accused her son of mistreating women for years")
-
-1 hour ago
-
-[France shows off restored Notre Dame after 'impossible' restoration](https://www.japantimes.co.jp/news/2024/11/30/world/france-restored-notre-dame/ "France shows off restored Notre Dame after 'impossible' restoration")
+[Nissan CFO set to step down as carmaker faces raft of challenges](https://www.japantimes.co.jp/business/2024/11/30/companies/nissan-cfo-steps-down/ "Nissan CFO set to step down as carmaker faces raft of challenges")
 
 2 hours ago
 
-[Saudi Arabia abandons pursuit of U.S. defense treaty over Israel stalemate](https://www.japantimes.co.jp/news/2024/11/30/world/politics/saudi-arabia-us-defense-treaty-israel/ "Saudi Arabia abandons pursuit of U.S. defense treaty over Israel stalemate")
+[Rush to ‘value up’ may be Asia stocks best defense against Trump](https://www.japantimes.co.jp/business/2024/11/30/markets/asia-stocks-trump-defense/ "Rush to ‘value up’ may be Asia stocks best defense against Trump")
 
 2 hours ago
 
-[Canada’s Justin Trudeau arrives in Florida for meeting with Trump](https://www.japantimes.co.jp/news/2024/11/30/world/politics/canada-trudeu-trump-tariffs/ "Canada’s Justin Trudeau arrives in Florida for meeting with Trump")
+[Japan companies boosting benefits for long-term shareholders](https://www.japantimes.co.jp/business/2024/11/30/markets/japan-companies-long-term-shareholders/ "Japan companies boosting benefits for long-term shareholders")
 
-2 hours ago
+4 hours ago
+
+[U.S. approves $385 million arms sale to Taiwan](https://www.japantimes.co.jp/news/2024/11/30/asia-pacific/politics/us-taiwan-arms-sales/ "U.S. approves $385 million arms sale to Taiwan")
+
+5 hours ago
+
+[Canada’s Justin Trudeau holds crucial meeting with Trump in Florida](https://www.japantimes.co.jp/news/2024/11/30/world/politics/canada-trudeu-trump-tariffs/ "Canada’s Justin Trudeau holds crucial meeting with Trump in Florida")
+
+5 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
