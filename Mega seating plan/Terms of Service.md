@@ -61,8 +61,6 @@ If you have any questions about these Terms, please email [rob@seatingplan.com](
 
 [Climate](https://climate.stripe.com/g3LlrV)
 
-[Blog](https://blog.seatingplan.com/)
-
 [BRaiN Glue](https://brainglue.app/)
 
 [Help](https://help.seatingplan.com/)
