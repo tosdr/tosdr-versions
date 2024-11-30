@@ -122,8 +122,6 @@
         
     *  Dark Theme (Default)
         
-    *  159416
-        
 * [Privacy Policy](https://xcreativeclashx.net/privacy-policy/)
 * [Cookies](https://xcreativeclashx.net/cookies/)
 
