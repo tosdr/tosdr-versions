@@ -259,45 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![Emergency services currently at scene of four vehicle in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Emergency services currently at scene of four vehicle in Derry")](https://www.derrynow.com/news/local-news/1668064/emergency-services-currently-at-scene-of-four-vehicle-in-derry.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Emergency services currently at scene of four vehicle in Derry](https://www.derrynow.com/news/local-news/1668064/emergency-services-currently-at-scene-of-four-vehicle-in-derry.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Police in Derry appealing for witnesses as part of sexual assault investigation](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police in Derry appealing for witnesses as part of sexual assault investigation")](https://www.derrynow.com/news/local-news/1668116/police-in-derry-appealing-for-witnesses-as-part-of-sexual-assault-investigation.html)
-
-PSNI
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Police in Derry appealing for witnesses as part of sexual assault investigation](https://www.derrynow.com/news/local-news/1668116/police-in-derry-appealing-for-witnesses-as-part-of-sexual-assault-investigation.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![County Derry man fined more than £1,000 for supplying magic mushrooms](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry man fined more than £1,000 for supplying magic mushrooms")](https://www.derrynow.com/news/local-news/1668081/county-derry-man-fined-more-than-1-000-for-supplying-magic-mushrooms.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[County Derry man fined more than £1,000 for supplying magic mushrooms](https://www.derrynow.com/news/local-news/1668081/county-derry-man-fined-more-than-1-000-for-supplying-magic-mushrooms.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Two men Tyrone appear at Derry Crown Court on series of drug charges](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two men Tyrone appear at Derry Crown Court on series of drug charges")](https://www.derrynow.com/news/local-news/1668098/two-men-tyrone-appear-at-derry-crown-court-on-series-of-drug-charges.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Two men Tyrone appear at Derry Crown Court on series of drug charges](https://www.derrynow.com/news/local-news/1668098/two-men-tyrone-appear-at-derry-crown-court-on-series-of-drug-charges.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![ALERT: Gardaí in crash risk warning as they stop lorry with dangerously worn tyres](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "ALERT: Gardaí in crash risk warning as they stop lorry with dangerously worn tyres")](https://www.derrynow.com/news/national-news/1668075/alert-gardai-in-crash-risk-warning-as-they-stop-lorry-with-dangerously-worn-tyres.html)
-
-ALERT: Gardaí in crash risk warning as they stop lorry with dangerously worn tyres
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[ALERT: Gardaí in crash risk warning as they stop lorry with dangerously worn tyres](https://www.derrynow.com/news/national-news/1668075/alert-gardai-in-crash-risk-warning-as-they-stop-lorry-with-dangerously-worn-tyres.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Man remanded at Derry Magistrate's Court for shouting racial slurs](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man remanded at Derry Magistrate's Court for shouting racial slurs")](https://www.derrynow.com/news/local-news/1668168/man-remanded-at-derry-magistrate-s-court-for-shouting-racial-slurs.html)
 
 Derry Magistrate's Court
@@ -307,21 +268,12 @@ Derry Magistrate's Court
 [Man remanded at Derry Magistrate's Court for shouting racial slurs](https://www.derrynow.com/news/local-news/1668168/man-remanded-at-derry-magistrate-s-court-for-shouting-racial-slurs.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry woman fined for breaching restraining order](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry woman fined for breaching restraining order")](https://www.derrynow.com/news/local-news/1668090/derry-woman-fined-for-breaching-restraining-order.html)
+[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1666536/derry-death-notices-saturday-november-30-2024.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Deaths](https://www.derrynow.com/section/977/deaths)
 
-[Derry woman fined for breaching restraining order](https://www.derrynow.com/news/local-news/1668090/derry-woman-fined-for-breaching-restraining-order.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![County Derry man charged with assault and possession of pregabalin remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry man charged with assault and possession of pregabalin remanded")](https://www.derrynow.com/news/local-news/1668119/county-derry-man-charged-with-assault-and-possession-of-pregabalin-remanded.html)
-
-Derry Magistrate's Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[County Derry man charged with assault and possession of pregabalin remanded](https://www.derrynow.com/news/local-news/1668119/county-derry-man-charged-with-assault-and-possession-of-pregabalin-remanded.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Death Notices - Saturday, November 30, 2024](https://www.derrynow.com/news/deaths/1666536/derry-death-notices-saturday-november-30-2024.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![A Bloody Sunday victim's family member has spoken on the ‘disgraceful’ comments by Micheál Martin](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "A Bloody Sunday victim's family member has spoken on the ‘disgraceful’ comments by Micheál Martin")](https://www.derrynow.com/news/derry-news/1668328/a-bloody-sunday-victim-s-family-member-has-spoken-on-the-disgraceful-comments-by-micheal-martin.html)
 
@@ -338,6 +290,56 @@ Coleraine Magistrates Court.
 
 [County Derry man accused of ramming two cars and a bus in Kilrea refused bail](https://www.derrynow.com/news/home/1668316/county-derry-man-accused-of-ramming-two-cars-and-a-bus-in-kilrea-refused-bail.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Heart-warming Derry advert reminds us to reach out at Christmas](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Heart-warming Derry advert reminds us to reach out at Christmas")](https://www.derrynow.com/news/home/1668351/heart-warming-derry-advert-reminds-us-to-reach-out-at-christmas.html)
+
+Still from John Lewis inspired Christmas advert which centres on two grieving men.
+
+[Home](https://www.derrynow.com/)
+
+[Heart-warming Derry advert reminds us to reach out at Christmas](https://www.derrynow.com/news/home/1668351/heart-warming-derry-advert-reminds-us-to-reach-out-at-christmas.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![All Ireland Pipe Band Championships to return to Derry in 2025](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "All Ireland Pipe Band Championships to return to Derry in 2025")](https://www.derrynow.com/news/local-news/1668355/all-ireland-pipe-band-championships-to-return-to-derry-in-2025.html)
+
+Last hosted during the successful 2013 UK City of Culture celebrations, the championships are expected to draw thousands of visitors to the city
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[All Ireland Pipe Band Championships to return to Derry in 2025](https://www.derrynow.com/news/local-news/1668355/all-ireland-pipe-band-championships-to-return-to-derry-in-2025.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Creggan Enterprises’ Lifehack Project – helping young people start a new Journey](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Creggan Enterprises’ Lifehack Project – helping young people start a new Journey")](https://www.derrynow.com/news/local-news/1668423/creggan-enterprises-lifehack-project-helping-young-people-start-a-new-journey.html)
+
+Lifehack participants, project staff and CEL Management Team pictured at the recent programme launch at Ráth Mór.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Creggan Enterprises’ Lifehack Project – helping young people start a new Journey](https://www.derrynow.com/news/local-news/1668423/creggan-enterprises-lifehack-project-helping-young-people-start-a-new-journey.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Free Information session Lettershandoney](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Free Information session Lettershandoney")](https://www.derrynow.com/news/county-derry-post/1668170/free-information-session-set-for-rural-area-of-lettershandoney.html)
+
+Free Information session Lettershandoney
+
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+[Free Information session set for rural area of Lettershandoney](https://www.derrynow.com/news/county-derry-post/1668170/free-information-session-set-for-rural-area-of-lettershandoney.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Kneecap win discrimination case against Government over block to funding award](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Kneecap win discrimination case against Government over block to funding award")](https://www.derrynow.com/news/northern-ireland/1667943/kneecap-wins-legal-case-against-government-over-block-to-funding-award.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Kneecap wins legal case against Government over block to funding award](https://www.derrynow.com/news/northern-ireland/1667943/kneecap-wins-legal-case-against-government-over-block-to-funding-award.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Small parties must get chance to scrutinise assisted dying proposal, Plaid urges](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Small parties must get chance to scrutinise assisted dying proposal, Plaid urges")](https://www.derrynow.com/news/northern-ireland/1668519/small-parties-must-get-chance-to-scrutinise-assisted-dying-proposal-plaid-urges.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Small parties must get chance to scrutinise assisted dying proposal, Plaid urges](https://www.derrynow.com/news/northern-ireland/1668519/small-parties-must-get-chance-to-scrutinise-assisted-dying-proposal-plaid-urges.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
