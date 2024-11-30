@@ -207,50 +207,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Johan Botha - Brand Xplosion
 
-![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=fb584118c8c092b15f2008b573023af79d895c36a346da1faa1b3a04013f0914&c=171947535)  
-van Schaik rentals
-
-![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=fb584118c8c092b15f2008b573023af79d895c36a346da1faa1b3a04013f0914&c=16185141)  
-APTV Telecoms CC
-
-![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=fb584118c8c092b15f2008b573023af79d895c36a346da1faa1b3a04013f0914&c=89178845)  
-VIV'S TRUCKS (Pty) Ltd. (117)
-
-![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=fb584118c8c092b15f2008b573023af79d895c36a346da1faa1b3a04013f0914&c=175334833)  
-MOSELA GROUP Pty(ltd)
-
-![valued client Wiselink Broadband Vryheid](https://www.invoicesonline.co.za/scripts/image.php?bid=6023&file=logo_300_100&type=&fe=fb584118c8c092b15f2008b573023af79d895c36a346da1faa1b3a04013f0914&c=208852534)  
-Wiselink Broadband Vryheid
-
-![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=fb584118c8c092b15f2008b573023af79d895c36a346da1faa1b3a04013f0914&c=206236012)  
-Testpro Laboratory (Pty) Ltd
-
-![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=fb584118c8c092b15f2008b573023af79d895c36a346da1faa1b3a04013f0914&c=127617631)  
-WIP Digital Solutions
-
-![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=fb584118c8c092b15f2008b573023af79d895c36a346da1faa1b3a04013f0914&c=39400501)  
-Digifax (Pty) Ltd T/A SecurityHyper
-
-![valued client Sophia's Roses](https://www.invoicesonline.co.za/scripts/image.php?bid=5227&file=logo_300_100&type=&fe=fb584118c8c092b15f2008b573023af79d895c36a346da1faa1b3a04013f0914&c=108303874)  
-Sophia's Roses
-
-![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=fb584118c8c092b15f2008b573023af79d895c36a346da1faa1b3a04013f0914&c=183507109)  
-VerdanTech Pty Ltd
-
-![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=fb584118c8c092b15f2008b573023af79d895c36a346da1faa1b3a04013f0914&c=33321035)  
-BEE SURE CONSULTING (PTY) LTD
-
-![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=fb584118c8c092b15f2008b573023af79d895c36a346da1faa1b3a04013f0914&c=145102510)  
-Laurinda Pretorius Spraak en Drama Ateljee
-
-![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=fb584118c8c092b15f2008b573023af79d895c36a346da1faa1b3a04013f0914&c=198218035)  
-Tagline Brands
-
-![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=fb584118c8c092b15f2008b573023af79d895c36a346da1faa1b3a04013f0914&c=7234267)  
+![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=ea76fc760e9209177d459667f690331db9b0b49d9b95dc56c1fde5cef7b240c6&c=48139671)  
 Goju Ryu Karate Centre
 
-![valued client Fox Alarms & Security CC](https://www.invoicesonline.co.za/scripts/image.php?bid=5134&file=logo_300_100&type=&fe=fb584118c8c092b15f2008b573023af79d895c36a346da1faa1b3a04013f0914&c=198556933)  
-Fox Alarms & Security CC
+![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=ea76fc760e9209177d459667f690331db9b0b49d9b95dc56c1fde5cef7b240c6&c=110798487)  
+Kaylas Creations
+
+![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=ea76fc760e9209177d459667f690331db9b0b49d9b95dc56c1fde5cef7b240c6&c=168716953)  
+kidoscabbie
+
+![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=ea76fc760e9209177d459667f690331db9b0b49d9b95dc56c1fde5cef7b240c6&c=142423203)  
+van Schaik rentals
+
+![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=ea76fc760e9209177d459667f690331db9b0b49d9b95dc56c1fde5cef7b240c6&c=49135481)  
+Printo
+
+![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=ea76fc760e9209177d459667f690331db9b0b49d9b95dc56c1fde5cef7b240c6&c=35746362)  
+CBR Verwe/Paints
+
+![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=ea76fc760e9209177d459667f690331db9b0b49d9b95dc56c1fde5cef7b240c6&c=107021539)  
+MONSTER SECURITY SERVICES
+
+![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=ea76fc760e9209177d459667f690331db9b0b49d9b95dc56c1fde5cef7b240c6&c=159014155)  
+MSPCloud (Pty) Ltd
+
+![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=ea76fc760e9209177d459667f690331db9b0b49d9b95dc56c1fde5cef7b240c6&c=34627931)  
+KTEN PARTS
+
+![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=ea76fc760e9209177d459667f690331db9b0b49d9b95dc56c1fde5cef7b240c6&c=153021741)  
+Dr V Naik Consult
+
+![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=ea76fc760e9209177d459667f690331db9b0b49d9b95dc56c1fde5cef7b240c6&c=175616324)  
+BEE SURE CONSULTING (PTY) LTD
+
+![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=ea76fc760e9209177d459667f690331db9b0b49d9b95dc56c1fde5cef7b240c6&c=15055702)  
+Gemini-IT Group
+
+![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=ea76fc760e9209177d459667f690331db9b0b49d9b95dc56c1fde5cef7b240c6&c=135062127)  
+INDUSTRIAL DRUM SERVICES (PTY)LTD
+
+![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=ea76fc760e9209177d459667f690331db9b0b49d9b95dc56c1fde5cef7b240c6&c=179860660)  
+Website Café (PTY) LTD
+
+![valued client Protech Marketing](https://www.invoicesonline.co.za/scripts/image.php?bid=8712&file=logo_300_100&type=&fe=ea76fc760e9209177d459667f690331db9b0b49d9b95dc56c1fde5cef7b240c6&c=59735214)  
+Protech Marketing
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
