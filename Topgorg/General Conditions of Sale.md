@@ -10,7 +10,7 @@ Refund Policy
 You agree with this terms when making a payment to us.
 
 **🚨 Black Friday Promo: Pay 50% less Credits for all Premium and get 10% MORE CREDITS on ANY Purchase! 🚨**  
-Promo is ending in 1 days, 6 hours, and 48 minutes.. Don't miss out on this exclusive deal—stock up on credits now.  
+Promo is ending in 1 days, 0 hours, and 56 minutes.. Don't miss out on this exclusive deal—stock up on credits now.  
 👉 [Click here to buy credits](https://topg.org/buy_credits) and claim your bonus before time runs out!
 
 \-
