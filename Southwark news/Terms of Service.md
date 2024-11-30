@@ -20,6 +20,31 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![It kicks off at Leake Street's tunnel (credit: Stephane Wright)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Niall-KellyCaitlinTommy-highres-360x180.jpg)](https://southwarknews.co.uk/area/waterloo/over-800-bmx-riders-in-santa-outfits-to-cycle-through-waterloo-graffiti-tunnel/)
+    
+    ### [Over 800 BMX riders in Santa outfits to cycle through Waterloo graffiti tunnel](https://southwarknews.co.uk/area/waterloo/over-800-bmx-riders-in-santa-outfits-to-cycle-through-waterloo-graffiti-tunnel/)
+    
+    [![Moses Orekoya, operations director (left) and Peter Sosanya, operative manager (right) outside the blocked fire exit](https://southwarknews.co.uk/wp-content/uploads/2024/11/image00003-9-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/southwarks-largest-employer-of-jobless-says-he-is-being-forced-to-leave-borough-over-parked-car-blocking-fire-exit/)
+    
+    ### [Southwark’s largest employer of jobless says he is being forced to leave borough over parked car blocking fire exit](https://southwarknews.co.uk/area/bermondsey/southwarks-largest-employer-of-jobless-says-he-is-being-forced-to-leave-borough-over-parked-car-blocking-fire-exit/)
+    
+    [![Bellenden Primary School](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-26-11-2024-at-13.57-360x180.jpg)](https://southwarknews.co.uk/area/peckham/peckham-primary-school-featured-on-special-news-show-that-will-be-shown-across-the-uk/)
+    
+    ### [Peckham primary school featured on special news show that will be shown across the UK](https://southwarknews.co.uk/area/peckham/peckham-primary-school-featured-on-special-news-show-that-will-be-shown-across-the-uk/)
+    
+    [![Convicted: Colin Moore](https://southwarknews.co.uk/wp-content/uploads/2024/05/Convicted-Colin-Moore-e1716991564645-360x180.png)](https://southwarknews.co.uk/area/camberwell/camberwell-man-jailed-for-fifteen-years-for-raping-underage-girl-30-years-ago/)
+    
+    ### [Camberwell man jailed for fifteen years for raping underage girl 30 years ago](https://southwarknews.co.uk/area/camberwell/camberwell-man-jailed-for-fifteen-years-for-raping-underage-girl-30-years-ago/)
+    
+    [![A Tube roundel. 
+    Image from Transport for London](https://southwarknews.co.uk/wp-content/uploads/2024/07/A-Tube-roundel.-Image-from-Transport-for-London-360x180.jpg)](https://southwarknews.co.uk/area/london/independent-investigation-into-the-cyber-attack-which-hit-transport-for-london/)
+    
+    ### [Independent investigation into the cyber attack which hit Transport for London](https://southwarknews.co.uk/area/london/independent-investigation-into-the-cyber-attack-which-hit-transport-for-london/)
+    
+    [![Maydew House, Bermondsey, stripped and ready for demolition](https://southwarknews.co.uk/wp-content/uploads/2024/11/image00005-2-1-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/comment-maydew-house-was-always-going-to-be-lose-lose-for-southwark-council/)
+    
+    ### [Comment: Maydew House was always going to be lose-lose for Southwark Council](https://southwarknews.co.uk/area/bermondsey/comment-maydew-house-was-always-going-to-be-lose-lose-for-southwark-council/)
+    
     [![Get into the spirit with these local carol concerts.](https://southwarknews.co.uk/wp-content/uploads/2024/11/046A1512-Enhanced-NR-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/christmas-concerts-in-borough-south-bank-and-peckham/)
     
     ### [Christmas concerts in Borough, South Bank and Peckham](https://southwarknews.co.uk/area/peckham/christmas-concerts-in-borough-south-bank-and-peckham/)
@@ -31,31 +56,6 @@
     [![Anthony Marks reportedly died after being attacked near King's Cross St Pancras station. Image: Met Police](https://southwarknews.co.uk/wp-content/uploads/2024/11/f250fc10-ae38-11ef-93a6-9fd2d3586a96.jpg-360x180.webp)](https://southwarknews.co.uk/featured/brixton-girl-16-charged-with-murder-of-homeless-man/)
     
     ### [Brixton girl, 16, charged with murder of ‘homeless man’](https://southwarknews.co.uk/featured/brixton-girl-16-charged-with-murder-of-homeless-man/)
-    
-    [![Jesse Lloyd-Smith, 20, was fatally shot outside his home on East Surrey Grove on 10th July.](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG-20241126-WA0002-360x180.jpg)](https://southwarknews.co.uk/area/peckham/sixth-person-charged-in-connection-with-the-murder-of-jesse-lloyd-smith-in-peckham/)
-    
-    ### [Sixth person charged in connection with the murder of Jesse Lloyd-Smith in Peckham](https://southwarknews.co.uk/area/peckham/sixth-person-charged-in-connection-with-the-murder-of-jesse-lloyd-smith-in-peckham/)
-    
-    [![Rishi Sunak addresses the first rally of the general election
-    Photo by  Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/11/Rishi-Sunak-at-first-rally-of-gheneral-election-360x180.jpg)](https://southwarknews.co.uk/area/london/conservatives-fell-thousands-of-homes-short-of-their-promise-of-building-a-million-new-properties-new-data-suggests/)
-    
-    ### [Conservatives fell thousands of homes short of their promise of building a million new properties, new data suggests](https://southwarknews.co.uk/area/london/conservatives-fell-thousands-of-homes-short-of-their-promise-of-building-a-million-new-properties-new-data-suggests/)
-    
-    [![Neil Coyle speaking in the House of Commons. Credit: Houses of Parliament](https://southwarknews.co.uk/wp-content/uploads/2024/11/Neil-Coyle-speaking-in-the-House-of-Commons.-Credit-Houses-of-Parliament-360x180.png)](https://southwarknews.co.uk/area/bermondsey/mp-calls-for-respect-orders-pilot-in-southwark-to-tackle-anti-social-behaviour/)
-    
-    ### [MP calls for ‘respect orders’ pilot in Southwark to tackle anti-social behaviour](https://southwarknews.co.uk/area/bermondsey/mp-calls-for-respect-orders-pilot-in-southwark-to-tackle-anti-social-behaviour/)
-    
-    [![Credit: LFB (X)](https://southwarknews.co.uk/wp-content/uploads/2024/11/GdYrAwQWIAAAq50-e1732797204229-360x180.jpeg)](https://southwarknews.co.uk/area/camberwell/brigade-tackles-fire-at-camberwell-shops-and-homes/)
-    
-    ### [Brigade tackles fire at Camberwell shops and homes](https://southwarknews.co.uk/area/camberwell/brigade-tackles-fire-at-camberwell-shops-and-homes/)
-    
-    [![Bakerloo Line extension to Lewisham. Credit - Transport for London](https://southwarknews.co.uk/wp-content/uploads/2024/11/Bakerloo-Line-extension-to-Lewisham.-Credit-Transport-for-London-360x180.jpg)](https://southwarknews.co.uk/area/peckham/planets-are-aligning-for-the-government-to-release-funding-to-extend-the-bakerloo-line/)
-    
-    ### [“Planets are aligning” for the Government to release funding to extend the Bakerloo line](https://southwarknews.co.uk/area/peckham/planets-are-aligning-for-the-government-to-release-funding-to-extend-the-bakerloo-line/)
-    
-    [![L: Sam, Jesse's godmother and Chaise, Jesse's sister. R: Jesse Lloyd-Smith, 20 (2004-2024)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-28-11-2024-at-13.04-360x180.jpg)](https://southwarknews.co.uk/area/peckham/we-believe-people-are-sitting-on-the-truth-family-pleads-for-answers-after-jesse-lloyd-smith-was-shot-in-peckham/)
-    
-    ### [‘We believe people are sitting on the truth’: Family pleads for answers after Jesse Lloyd-Smith was shot in Peckham](https://southwarknews.co.uk/area/peckham/we-believe-people-are-sitting-on-the-truth-family-pleads-for-answers-after-jesse-lloyd-smith-was-shot-in-peckham/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -106,6 +106,31 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![It kicks off at Leake Street's tunnel (credit: Stephane Wright)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Niall-KellyCaitlinTommy-highres-360x180.jpg)](https://southwarknews.co.uk/area/waterloo/over-800-bmx-riders-in-santa-outfits-to-cycle-through-waterloo-graffiti-tunnel/)
+    
+    ### [Over 800 BMX riders in Santa outfits to cycle through Waterloo graffiti tunnel](https://southwarknews.co.uk/area/waterloo/over-800-bmx-riders-in-santa-outfits-to-cycle-through-waterloo-graffiti-tunnel/)
+    
+    [![Moses Orekoya, operations director (left) and Peter Sosanya, operative manager (right) outside the blocked fire exit](https://southwarknews.co.uk/wp-content/uploads/2024/11/image00003-9-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/southwarks-largest-employer-of-jobless-says-he-is-being-forced-to-leave-borough-over-parked-car-blocking-fire-exit/)
+    
+    ### [Southwark’s largest employer of jobless says he is being forced to leave borough over parked car blocking fire exit](https://southwarknews.co.uk/area/bermondsey/southwarks-largest-employer-of-jobless-says-he-is-being-forced-to-leave-borough-over-parked-car-blocking-fire-exit/)
+    
+    [![Bellenden Primary School](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-26-11-2024-at-13.57-360x180.jpg)](https://southwarknews.co.uk/area/peckham/peckham-primary-school-featured-on-special-news-show-that-will-be-shown-across-the-uk/)
+    
+    ### [Peckham primary school featured on special news show that will be shown across the UK](https://southwarknews.co.uk/area/peckham/peckham-primary-school-featured-on-special-news-show-that-will-be-shown-across-the-uk/)
+    
+    [![Convicted: Colin Moore](https://southwarknews.co.uk/wp-content/uploads/2024/05/Convicted-Colin-Moore-e1716991564645-360x180.png)](https://southwarknews.co.uk/area/camberwell/camberwell-man-jailed-for-fifteen-years-for-raping-underage-girl-30-years-ago/)
+    
+    ### [Camberwell man jailed for fifteen years for raping underage girl 30 years ago](https://southwarknews.co.uk/area/camberwell/camberwell-man-jailed-for-fifteen-years-for-raping-underage-girl-30-years-ago/)
+    
+    [![A Tube roundel. 
+    Image from Transport for London](https://southwarknews.co.uk/wp-content/uploads/2024/07/A-Tube-roundel.-Image-from-Transport-for-London-360x180.jpg)](https://southwarknews.co.uk/area/london/independent-investigation-into-the-cyber-attack-which-hit-transport-for-london/)
+    
+    ### [Independent investigation into the cyber attack which hit Transport for London](https://southwarknews.co.uk/area/london/independent-investigation-into-the-cyber-attack-which-hit-transport-for-london/)
+    
+    [![Maydew House, Bermondsey, stripped and ready for demolition](https://southwarknews.co.uk/wp-content/uploads/2024/11/image00005-2-1-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/comment-maydew-house-was-always-going-to-be-lose-lose-for-southwark-council/)
+    
+    ### [Comment: Maydew House was always going to be lose-lose for Southwark Council](https://southwarknews.co.uk/area/bermondsey/comment-maydew-house-was-always-going-to-be-lose-lose-for-southwark-council/)
+    
     [![Get into the spirit with these local carol concerts.](https://southwarknews.co.uk/wp-content/uploads/2024/11/046A1512-Enhanced-NR-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/christmas-concerts-in-borough-south-bank-and-peckham/)
     
     ### [Christmas concerts in Borough, South Bank and Peckham](https://southwarknews.co.uk/area/peckham/christmas-concerts-in-borough-south-bank-and-peckham/)
@@ -117,31 +142,6 @@ View All Result
     [![Anthony Marks reportedly died after being attacked near King's Cross St Pancras station. Image: Met Police](https://southwarknews.co.uk/wp-content/uploads/2024/11/f250fc10-ae38-11ef-93a6-9fd2d3586a96.jpg-360x180.webp)](https://southwarknews.co.uk/featured/brixton-girl-16-charged-with-murder-of-homeless-man/)
     
     ### [Brixton girl, 16, charged with murder of ‘homeless man’](https://southwarknews.co.uk/featured/brixton-girl-16-charged-with-murder-of-homeless-man/)
-    
-    [![Jesse Lloyd-Smith, 20, was fatally shot outside his home on East Surrey Grove on 10th July.](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG-20241126-WA0002-360x180.jpg)](https://southwarknews.co.uk/area/peckham/sixth-person-charged-in-connection-with-the-murder-of-jesse-lloyd-smith-in-peckham/)
-    
-    ### [Sixth person charged in connection with the murder of Jesse Lloyd-Smith in Peckham](https://southwarknews.co.uk/area/peckham/sixth-person-charged-in-connection-with-the-murder-of-jesse-lloyd-smith-in-peckham/)
-    
-    [![Rishi Sunak addresses the first rally of the general election
-    Photo by  Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/11/Rishi-Sunak-at-first-rally-of-gheneral-election-360x180.jpg)](https://southwarknews.co.uk/area/london/conservatives-fell-thousands-of-homes-short-of-their-promise-of-building-a-million-new-properties-new-data-suggests/)
-    
-    ### [Conservatives fell thousands of homes short of their promise of building a million new properties, new data suggests](https://southwarknews.co.uk/area/london/conservatives-fell-thousands-of-homes-short-of-their-promise-of-building-a-million-new-properties-new-data-suggests/)
-    
-    [![Neil Coyle speaking in the House of Commons. Credit: Houses of Parliament](https://southwarknews.co.uk/wp-content/uploads/2024/11/Neil-Coyle-speaking-in-the-House-of-Commons.-Credit-Houses-of-Parliament-360x180.png)](https://southwarknews.co.uk/area/bermondsey/mp-calls-for-respect-orders-pilot-in-southwark-to-tackle-anti-social-behaviour/)
-    
-    ### [MP calls for ‘respect orders’ pilot in Southwark to tackle anti-social behaviour](https://southwarknews.co.uk/area/bermondsey/mp-calls-for-respect-orders-pilot-in-southwark-to-tackle-anti-social-behaviour/)
-    
-    [![Credit: LFB (X)](https://southwarknews.co.uk/wp-content/uploads/2024/11/GdYrAwQWIAAAq50-e1732797204229-360x180.jpeg)](https://southwarknews.co.uk/area/camberwell/brigade-tackles-fire-at-camberwell-shops-and-homes/)
-    
-    ### [Brigade tackles fire at Camberwell shops and homes](https://southwarknews.co.uk/area/camberwell/brigade-tackles-fire-at-camberwell-shops-and-homes/)
-    
-    [![Bakerloo Line extension to Lewisham. Credit - Transport for London](https://southwarknews.co.uk/wp-content/uploads/2024/11/Bakerloo-Line-extension-to-Lewisham.-Credit-Transport-for-London-360x180.jpg)](https://southwarknews.co.uk/area/peckham/planets-are-aligning-for-the-government-to-release-funding-to-extend-the-bakerloo-line/)
-    
-    ### [“Planets are aligning” for the Government to release funding to extend the Bakerloo line](https://southwarknews.co.uk/area/peckham/planets-are-aligning-for-the-government-to-release-funding-to-extend-the-bakerloo-line/)
-    
-    [![L: Sam, Jesse's godmother and Chaise, Jesse's sister. R: Jesse Lloyd-Smith, 20 (2004-2024)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-28-11-2024-at-13.04-360x180.jpg)](https://southwarknews.co.uk/area/peckham/we-believe-people-are-sitting-on-the-truth-family-pleads-for-answers-after-jesse-lloyd-smith-was-shot-in-peckham/)
-    
-    ### [‘We believe people are sitting on the truth’: Family pleads for answers after Jesse Lloyd-Smith was shot in Peckham](https://southwarknews.co.uk/area/peckham/we-believe-people-are-sitting-on-the-truth-family-pleads-for-answers-after-jesse-lloyd-smith-was-shot-in-peckham/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -245,6 +245,30 @@ Terms of Use
 
 ### Featured Articles
 
+[![It kicks off at Leake Street's tunnel (credit: Stephane Wright)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Niall-KellyCaitlinTommy-highres-120x86.jpg)](https://southwarknews.co.uk/area/waterloo/over-800-bmx-riders-in-santa-outfits-to-cycle-through-waterloo-graffiti-tunnel/)
+
+### [Over 800 BMX riders in Santa outfits to cycle through Waterloo graffiti tunnel](https://southwarknews.co.uk/area/waterloo/over-800-bmx-riders-in-santa-outfits-to-cycle-through-waterloo-graffiti-tunnel/)
+
+[30th November 2024](https://southwarknews.co.uk/area/waterloo/over-800-bmx-riders-in-santa-outfits-to-cycle-through-waterloo-graffiti-tunnel/)
+
+[![Moses Orekoya, operations director (left) and Peter Sosanya, operative manager (right) outside the blocked fire exit](https://southwarknews.co.uk/wp-content/uploads/2024/11/image00003-9-120x86.jpeg)](https://southwarknews.co.uk/area/bermondsey/southwarks-largest-employer-of-jobless-says-he-is-being-forced-to-leave-borough-over-parked-car-blocking-fire-exit/)
+
+### [Southwark’s largest employer of jobless says he is being forced to leave borough over parked car blocking fire exit](https://southwarknews.co.uk/area/bermondsey/southwarks-largest-employer-of-jobless-says-he-is-being-forced-to-leave-borough-over-parked-car-blocking-fire-exit/)
+
+[30th November 2024](https://southwarknews.co.uk/area/bermondsey/southwarks-largest-employer-of-jobless-says-he-is-being-forced-to-leave-borough-over-parked-car-blocking-fire-exit/)
+
+[![Bellenden Primary School](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-26-11-2024-at-13.57-120x86.jpg)](https://southwarknews.co.uk/area/peckham/peckham-primary-school-featured-on-special-news-show-that-will-be-shown-across-the-uk/)
+
+### [Peckham primary school featured on special news show that will be shown across the UK](https://southwarknews.co.uk/area/peckham/peckham-primary-school-featured-on-special-news-show-that-will-be-shown-across-the-uk/)
+
+[30th November 2024](https://southwarknews.co.uk/area/peckham/peckham-primary-school-featured-on-special-news-show-that-will-be-shown-across-the-uk/)
+
+[![Convicted: Colin Moore](https://southwarknews.co.uk/wp-content/uploads/2024/05/Convicted-Colin-Moore-e1716991564645-120x86.png)](https://southwarknews.co.uk/area/camberwell/camberwell-man-jailed-for-fifteen-years-for-raping-underage-girl-30-years-ago/)
+
+### [Camberwell man jailed for fifteen years for raping underage girl 30 years ago](https://southwarknews.co.uk/area/camberwell/camberwell-man-jailed-for-fifteen-years-for-raping-underage-girl-30-years-ago/)
+
+[30th November 2024](https://southwarknews.co.uk/area/camberwell/camberwell-man-jailed-for-fifteen-years-for-raping-underage-girl-30-years-ago/)
+
 [![Get into the spirit with these local carol concerts.](https://southwarknews.co.uk/wp-content/uploads/2024/11/046A1512-Enhanced-NR-120x86.jpeg)](https://southwarknews.co.uk/area/peckham/christmas-concerts-in-borough-south-bank-and-peckham/)
 
 ### [Christmas concerts in Borough, South Bank and Peckham](https://southwarknews.co.uk/area/peckham/christmas-concerts-in-borough-south-bank-and-peckham/)
@@ -256,30 +280,6 @@ Terms of Use
 ### [How did Southwark’s five MPs vote on the assisted dying bill?](https://southwarknews.co.uk/area/southwark/how-did-southwarks-five-mps-vote-on-the-assisted-dying-bill/)
 
 [29th November 2024](https://southwarknews.co.uk/area/southwark/how-did-southwarks-five-mps-vote-on-the-assisted-dying-bill/)
-
-[![Anthony Marks reportedly died after being attacked near King's Cross St Pancras station. Image: Met Police](https://southwarknews.co.uk/wp-content/uploads/2024/11/f250fc10-ae38-11ef-93a6-9fd2d3586a96.jpg-120x86.webp)](https://southwarknews.co.uk/featured/brixton-girl-16-charged-with-murder-of-homeless-man/)
-
-### [Brixton girl, 16, charged with murder of ‘homeless man’](https://southwarknews.co.uk/featured/brixton-girl-16-charged-with-murder-of-homeless-man/)
-
-[29th November 2024](https://southwarknews.co.uk/featured/brixton-girl-16-charged-with-murder-of-homeless-man/)
-
-[![Jesse Lloyd-Smith, 20, was fatally shot outside his home on East Surrey Grove on 10th July.](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG-20241126-WA0002-120x86.jpg)](https://southwarknews.co.uk/area/peckham/sixth-person-charged-in-connection-with-the-murder-of-jesse-lloyd-smith-in-peckham/)
-
-### [Sixth person charged in connection with the murder of Jesse Lloyd-Smith in Peckham](https://southwarknews.co.uk/area/peckham/sixth-person-charged-in-connection-with-the-murder-of-jesse-lloyd-smith-in-peckham/)
-
-[29th November 2024](https://southwarknews.co.uk/area/peckham/sixth-person-charged-in-connection-with-the-murder-of-jesse-lloyd-smith-in-peckham/)
-
-[![Bakerloo Line extension to Lewisham. Credit - Transport for London](https://southwarknews.co.uk/wp-content/uploads/2024/11/Bakerloo-Line-extension-to-Lewisham.-Credit-Transport-for-London-120x86.jpg)](https://southwarknews.co.uk/area/peckham/planets-are-aligning-for-the-government-to-release-funding-to-extend-the-bakerloo-line/)
-
-### [“Planets are aligning” for the Government to release funding to extend the Bakerloo line](https://southwarknews.co.uk/area/peckham/planets-are-aligning-for-the-government-to-release-funding-to-extend-the-bakerloo-line/)
-
-[28th November 2024](https://southwarknews.co.uk/area/peckham/planets-are-aligning-for-the-government-to-release-funding-to-extend-the-bakerloo-line/)
-
-[![Chatelain House on Walworth Road, South London was built in the 1980s. Image from Southwark Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/Chatelain-House-120x86.jpg)](https://southwarknews.co.uk/area/walworth/fresh-plans-to-redevelop-an-eyesore-office-block-on-the-walworth-road/)
-
-### [Fresh plans to redevelop an ‘eyesore’ office block on the Walworth Road](https://southwarknews.co.uk/area/walworth/fresh-plans-to-redevelop-an-eyesore-office-block-on-the-walworth-road/)
-
-[28th November 2024](https://southwarknews.co.uk/area/walworth/fresh-plans-to-redevelop-an-eyesore-office-block-on-the-walworth-road/)
 
 ### USEFUL PAGES
 
