@@ -1,4 +1,4 @@
-Friday, November 29 2024
+Saturday, November 30 2024
 
 Breaking News
 
@@ -181,16 +181,16 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Why the First Kalashnikov Machine Gun was a Complete Failure?](https://www.thegunpage.com/why-the-first-kalashnikov-machine-gun-was-a-complete-failure/10612197)
+* [POTD: FN Minimi & FORT-600 In Ukraine](https://www.thegunpage.com/potd-fn-minimi-fort-600-in-ukraine/10612198)
+* [TFB Podcast Roundup 157: The Black Friday 2024 Roundup](https://www.thegunpage.com/tfb-podcast-roundup-157-the-black-friday-2024-roundup/10612199)
+* [Medical Academy Backs Suppressors for Hearing Protection](https://www.thegunpage.com/medical-academy-backs-suppressors-for-hearing-protection/10612192)
+* [Smith & Wesson Gets Booted Off Facebook](https://www.thegunpage.com/smith-wesson-gets-booted-off-facebook/10612194)
 * [NY Pols Plan To Require Firearms Seizures At Domestic Calls](https://www.thegunpage.com/ny-pols-plan-to-require-firearms-seizures-at-domestic-calls/10612188)
 * [Oldest Gun Ever Found In U.S. Unearthed In Arizona](https://www.thegunpage.com/oldest-gun-ever-found-in-u-s-unearthed-in-arizona/10612185)
 * [China Builds A Recoilless 7.62 Round… For Drones!](https://www.thegunpage.com/china-builds-a-recoilless-7-62-round-for-drones/10612189)
 * [Missouri Congressman Plans Bill To Abolish The ATF](https://www.thegunpage.com/missouri-congressman-plans-bill-to-abolish-the-atf/10612184)
 * [Election Analysis: It’s the Guns, Stupid!](https://www.thegunpage.com/election-analysis-its-the-guns-stupid/10612183)
-* [TFB Review: Meprolight MPO-DS Red Dot Sight](https://www.thegunpage.com/tfb-review-meprolight-mpo-ds-red-dot-sight/10612175)
-* [Concealed Carry Corner: A Close Look At Ankle Carry](https://www.thegunpage.com/concealed-carry-corner-a-close-look-at-ankle-carry/10612176)
-* [Black Friday and Cyber Monday: Gear Up with the Best Deals!](https://www.thegunpage.com/black-friday-and-cyber-monday-gear-up-with-the-best-deals/10612173)
-* [TFB Behind the Gun #142: Rob Gearing w/ Spartan Precision Equipment](https://www.thegunpage.com/tfb-behind-the-gun-142-rob-gearing-w-spartan-precision-equipment/10612172)
-* [Happy Thanksgiving](https://www.thegunpage.com/happy-thanksgiving-5/10612168)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
