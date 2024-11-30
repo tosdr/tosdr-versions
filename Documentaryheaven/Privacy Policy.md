@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Ep 2/2 Martin Luther: Reluctant Revolutionary](/wp-content/thumbnails/2615-100x70.jpg?x53432)
+* [![Guns, Culture and Crime in the US](/wp-content/thumbnails/7103-100x70.jpg?x53432)
     
-    Ep 2/2 Martin Luther: Reluctant Revolutionary
+    Guns, Culture and Crime in the US
     
-    Few if any men have changed the course of history like Martin Luther. In less than ten years, this fevered German monk plunged a knife into the heart of an empire that had ruled for a thousand years,](https://documentaryheaven.com/ep-22-martin-lutherreluctant-revolutionary/ "Ep 2/2 Martin Luther: Reluctant Revolutionary")
-* [![Pacquiao vs. Marquez HBO 24/7](/wp-content/thumbnails/7225-100x70.jpg?x53432)
+    We look at why the debate over gun control is so polarized and travel to West Virginia – a place where shooting guns is a sport that has been passed down over generations – to find out what fuels the](https://documentaryheaven.com/guns-culture-crime-in-us/ "Guns, Culture and Crime in the US")
+* [![America: Destroyed by Design](/wp-content/thumbnails/1467-100x70.jpg?x53432)
     
-    Pacquiao vs. Marquez HBO 24/7
+    America: Destroyed by Design
     
-    The HBO 24/7 series has given an insightful look into the camps and minds of major fighters. One of the biggest beneficiaries of the series has been Manny Pacquiao and he was again thrust into the spo](https://documentaryheaven.com/pacquiao-marquez-hbo/ "Pacquiao vs. Marquez HBO 24/7")
-* [![Archimede’s Secret](/wp-content/thumbnails/7594-100x70.jpg?x53432)
+    The Council on Foreign Relations...is the House of the secret government here in the U.S, the Trilateral Commission is the Senate here in America, and the Bilderbergers are the criminal headquarters o](https://documentaryheaven.com/america-destroyed-by-design/ "America: Destroyed by Design")
+* [![Why I Hate The Sixties](/wp-content/thumbnails/9100-100x70.jpg?x53432)
     
-    Archimede’s Secret
+    Why I Hate The Sixties
     
-    This is the story of a book that could have changed the history of the World. To the untrained eye, it is nothing more than a small and unassuming Byzantine prayer book, yet it sold at Christies for o](https://documentaryheaven.com/archimedes-secret/ "Archimede’s Secret")
-* [![Oil, Smoke and Mirrors](/wp-content/thumbnails/803-100x70.png?x53432)
+    This BBC film examines the myth behind the sixties, which was itself created before the decade was even out but has since lingered in all of our minds. What we have lived with however is merely a mira](https://documentaryheaven.com/hate-sixties/ "Why I Hate The Sixties")
+* [![Building Green](/wp-content/thumbnails/2688-100x70.jpg?x53432)
     
-    Oil, Smoke and Mirrors
+    Building Green
     
-    Through a series of interviews, this film argues that the bizarre events surrounding the 9/11 attacks, and the equally bizarre prosecution of the so-called “war on terror”, can be more credibly unders](https://documentaryheaven.com/oil-smoke-and-mirrors/ "Oil, Smoke and Mirrors")
-* [![Cyber War](/wp-content/thumbnails/539-100x70.png?x53432)
+    Building Green is pioneering and entertaining television with an eco-friendly twist, on a mission is to inspire viewers to discover just how easy, cost-effective and healthy it can be to go green, and](https://documentaryheaven.com/building-green/ "Building Green")
+* [![No Filter Boxing: Wilder Vs. Fury](/wp-content/thumbnails/14310-100x70.jpg?x53432)
     
-    Cyber War
+    No Filter Boxing: Wilder Vs. Fury
     
-    The cyberwar began after a mid-air collision between a US spyplane and a Chinese fighter aircraft on 1 April. The Chinese plane crashed into the sea killing its pilot while the US plane and its crew o](https://documentaryheaven.com/cyber-war/ "Cyber War")
+    With defending WBC heavyweight champion Deontay Wilder set to face former WBA (Super), WBO, IBF, IBO, The Ring, and lineal heavyweight champion Tyson Fury on December 1st at the Staples Center in](https://documentaryheaven.com/no-filter-boxing-wilder-vs-fury/ "No Filter Boxing: Wilder Vs. Fury")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
