@@ -205,27 +205,25 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [High-Flying Hijinks](https://www.somethingawful.com/comedy-goldmine/highflying-hijinks/1/)
-* [Blue Stripe - The Life and Times of a Harkonnen Florist](https://www.somethingawful.com/news/harkonnen-florist-bluestripe/1/)
-* [Santa With Muscles](https://www.somethingawful.com/movie-reviews/santa-muscles-hogan/1/)
-* [Fallout 76: The Absolute DEFINITIVE Review!](https://www.somethingawful.com/news/fallout76-review/)
-* [Red Carpet Roadkill](https://www.somethingawful.com/photoshop-phriday/red-carpet-roadkill/1/)
+* [I jerked off my dad!](https://www.somethingawful.com/awfulvision/juggalo-cat-incest/1/)
+* [PregFur and XXX Porn Talk](https://www.somethingawful.com/weekend-web/pregfur-porntalk/1/)
+* [Heroes of the Gaming World Trading Cards](https://www.somethingawful.com/feature-articles/heroes-gaming-world/1/)
+* [Needlessly Censored Images! \[Slightly NSFW!\]](https://www.somethingawful.com/photoshop-phriday/unnecessarily-blurred-pictures/)
+* [Gotcha Babes X-treme](https://www.somethingawful.com/game-reviews/gotcha-babes-xtreme/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/images/shitpost.gif) [Made in USA - Supporting our fellow countrypeople](http://forums.somethingawful.com/showthread.php?threadid=4076499 "Made in USA - Supporting our fellow countrypeople")
 * ![](https://fi.somethingawful.com/forums/posticons/hell-fuckthis.gif) [What is your religion and why?](http://forums.somethingawful.com/showthread.php?threadid=4076478 "What is your religion and why?")
+* ![](https://fi.somethingawful.com/images/shitpost.gif) [Made in USA - Supporting our fellow countrypeople](http://forums.somethingawful.com/showthread.php?threadid=4076499 "Made in USA - Supporting our fellow countrypeople")
 * ![](https://fi.somethingawful.com/forums/posticons/fyad-toucan.gif) [Anyone got any New Years resolutions, to-do (or to-do-not-do) lists or solemn annual oaths percolati](http://forums.somethingawful.com/showthread.php?threadid=4076472 "Anyone got any New Years resolutions, to-do (or to-do-not-do) lists or solemn annual oaths percolati")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/serious.png) [(PREQUEL!!!) What's the GREATEST thing you've done?](http://forums.somethingawful.com/showthread.php?threadid=4076469 "(PREQUEL!!!) What's the GREATEST thing you've done?")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/serious.png) [(SEQUEL) What's the best thing you've done?](http://forums.somethingawful.com/showthread.php?threadid=4076448 "(SEQUEL) What's the best thing you've done?")
 
 ### Random Articles
 
-* [Sonic Cartoons](https://www.somethingawful.com/flash-tub/sonic-cartoons/1/)
-* [Mandrake's Tales](https://www.somethingawful.com/awful-links/awful-link-3078/)
-* [Real Super Powers and Universal Psychic Guild](https://www.somethingawful.com/weekend-web/real-superpowers-psychicguild/1/)
-* [Christmas Pole to Pole](https://www.somethingawful.com/news/christmas-pole-pole/)
-* [The Science Of Fiction](https://www.somethingawful.com/news/science-fiction/)
+* [Angry White Dude (Thanks, The Blackest Goon!)](https://www.somethingawful.com/awful-links/angry-white-dude/)
+* [Strange Moments in Sports](https://www.somethingawful.com/photoshop-phriday/strange-moments-sports/1/)
+* [Heavy.com Presents: The 5 Most Droolworthy Pieces of Ass on the House Committee on Armed Services](https://www.somethingawful.com/feature-articles/heavy-sexy-list/1/)
+* [Hey, I'm the Mansquito!](https://www.somethingawful.com/news/hey-im-mansquito/)
+* [The Amazing Spider-Man 2; A Spider-Man Retrospective](https://www.somethingawful.com/current-movie-reviews/amazing-spider-man2/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
