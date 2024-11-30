@@ -205,25 +205,23 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Yahoo Personals Part 2](https://www.somethingawful.com/comedy-goldmine/yahoo-personals-part-2/1/)
-* [Second Life Exchange](https://www.somethingawful.com/weekend-web/second-life-exchange/1/)
-* [Add Pinhead Quotes to NASCAR Photos!](https://www.somethingawful.com/comedy-goldmine/nascar-pinhead-quotes/)
-* [Twitter Tuesday: May 24, 2011](https://www.somethingawful.com/twitter-tuesday/tt5-24-2011/1/)
-* [Video Game Forums](https://www.somethingawful.com/weekend-web/video-game-forums/1/)
+* [GovTeen, Vampire Freaks, GameFAQs, and IGN](https://www.somethingawful.com/weekend-web/govteen-vampire-freaks/1/)
+* [Rare Bazooka Joe Comics](https://www.somethingawful.com/news/bazooka-joe/1/)
+* [2018 Holiday Gift Guide For People You Love, Hate, and Won't Buy a Gift For](https://www.somethingawful.com/video-game-article/gift-guide-2018/)
+* [My Shameful Gaming Confessions](https://www.somethingawful.com/video-game-article/confession-game-shameful/)
+* [101 SWITCH GAMES ON ONE CART $10 GREAT VALUE cart may be blank](https://www.somethingawful.com/video-game-article/games-deal-101/)
 
 ### Popular Threads
 
 * ![](https://fi.somethingawful.com/forums/posticons/guns-review.gif) [Made in USA - Supporting our fellow countrypeople](http://forums.somethingawful.com/showthread.php?threadid=4076499 "Made in USA - Supporting our fellow countrypeople")
-* ![](https://fi.somethingawful.com/forums/posticons/fyad-toucan.gif) [Anyone got any New Years resolutions, to-do (or to-do-not-do) lists or solemn annual oaths percolati](http://forums.somethingawful.com/showthread.php?threadid=4076472 "Anyone got any New Years resolutions, to-do (or to-do-not-do) lists or solemn annual oaths percolati")
-* ![](https://fi.somethingawful.com/forums/posticons/hell-fuckthis.gif) [What is your religion and why?](http://forums.somethingawful.com/showthread.php?threadid=4076478 "What is your religion and why?")
 
 ### Random Articles
 
-* [They're Still Making EverQuest Expansions](https://www.somethingawful.com/video-game-article/everquest-expansions/)
-* [Actually My Garden is Supposed to Look Like Shit](https://www.somethingawful.com/comedy-goldmine/intentional-bad-garden/)
-* [Transmissions From Planet Borgnine](https://www.somethingawful.com/news/transmissions-from-planet/)
-* [Turning Twenty-Two and the Quarterlife Crisis](https://www.somethingawful.com/news/quarterlife-crisis/1/)
-* [reCAPTCHA 2!](https://www.somethingawful.com/photoshop-phriday/recaptcha-recaptcha2-paint/1/)
+* [The Final Frontiersman](https://www.somethingawful.com/news/space-camp-astronaut/)
+* [Terrible Tie-In Products!](https://www.somethingawful.com/photoshop-phriday/terrible-tiein-products/1/)
+* [Maxcat's Giantess Realm](https://www.somethingawful.com/awful-links/awful-link-2169/)
+* [Garfield Cooks Up Trouble is the most offensive and dangerous book I've ever read](https://www.somethingawful.com/news/black-witch-sinyard/)
+* [The Ki Sanctuary](https://www.somethingawful.com/awful-links/awful-link-2325/)
 
 [Random!](https://www.somethingawful.com/random/)
 
