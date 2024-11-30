@@ -391,11 +391,11 @@ How top brands drive growth with SurveyMonkey.
 
 [Sign up free](https://www.surveymonkey.com/sign-up/?ut_ctatext=Sign+up+free&ut_source=legal&ut_source2=terms-of-use&ut_source3=desktop-header-cta)
 
-![Logo SurveyMonkey](https://prod.smassets.net/assets/website/2.288.0/images/legal_sidebar__badge.png)
+![SurveyMonkey-logo](https://prod.smassets.net/assets/website/2.288.0/images/legal_sidebar__badge.png)
 
-* [Présentation](https://www.surveymonkey.com/mp/legal/)
+* [Oversikt](https://www.surveymonkey.com/mp/legal/)
     
-* [Conditions d’utilisation](https://www.surveymonkey.com/mp/legal/terms-of-use/)
+* [Vilkår for bruk](https://www.surveymonkey.com/mp/legal/terms-of-use/)
     
     [1\. Fees and Payments](#fees-and-payments)
     
@@ -433,32 +433,32 @@ How top brands drive growth with SurveyMonkey.
     
     [18\. Terms for SurveyMonkey Contribute](#terms-for-surveymonkey-contribute)
     
-* [Contrat de services en vigueur](https://www.surveymonkey.com/mp/legal/gsa/)
+* [Gjeldende tjenesteavtale](https://www.surveymonkey.com/mp/legal/gsa/)
     
-* [Conditions spécifiques aux services](https://www.surveymonkey.com/mp/legal/which-terms-apply/)
+* [Tjenestespesifikke vilkår](https://www.surveymonkey.com/mp/legal/which-terms-apply/)
     
-* [Principes de confidentialité](https://www.surveymonkey.com/mp/legal/privacy-basics/)
+* [Grunnleggende om personvern](https://www.surveymonkey.com/mp/legal/privacy-basics/)
     
-* [Avis de confidentialité](https://www.surveymonkey.com/mp/legal/privacy/)
+* [Personvernregler](https://www.surveymonkey.com/mp/legal/privacy/)
     
-* [Cookies](https://www.surveymonkey.com/mp/legal/cookies/)
+* [Informasjonskapsler](https://www.surveymonkey.com/mp/legal/cookies/)
     
-* [Cookies utilisés sur les pages de sondage](https://www.surveymonkey.com/mp/legal/survey-page-cookies/)
+* [Informasjonskapsler som brukes på spørreundersøkelsessider](https://www.surveymonkey.com/mp/legal/survey-page-cookies/)
     
-* [Politique relative à l'usage acceptable](https://www.surveymonkey.com/mp/legal/acceptable-uses-policy/)
+* [Policy for akseptabel bruk](https://www.surveymonkey.com/mp/legal/acceptable-uses-policy/)
     
-* [Sécurité](https://www.surveymonkey.com/mp/legal/security/)
+* [Sikkerhet](https://www.surveymonkey.com/mp/legal/security/)
     
-* [Général](https://www.surveymonkey.com/mp/legal/general/)
+* [Generelt](https://www.surveymonkey.com/mp/legal/general/)
     
 
 ### 
 
-Le saviez-vous ?
+Visste du?
 
-63 % des personnes interrogées consultent l'historique de sécurité et la politique de confidentialité d'une entreprise avant de recourir à ses produits ou services.
+63 % av forbrukere vurderer personvern- og sikkerhetshistorikken til et selskap før de bruker produktene eller tjenestene deres.
 
-![Barre latérale du Centre de ressources juridiques](https://prod.smassets.net/assets/website/2.288.0/images/legal_sidebar__stats-image.png)
+![Statistikk på sidestolpe i juridisk senter](https://prod.smassets.net/assets/website/2.288.0/images/legal_sidebar__stats-image.png)
 
 Print this Page
 
