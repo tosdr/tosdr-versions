@@ -259,15 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![Man remanded at Derry Magistrate's Court for shouting racial slurs](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man remanded at Derry Magistrate's Court for shouting racial slurs")](https://www.derrynow.com/news/local-news/1668168/man-remanded-at-derry-magistrate-s-court-for-shouting-racial-slurs.html)
-
-Derry Magistrate's Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man remanded at Derry Magistrate's Court for shouting racial slurs](https://www.derrynow.com/news/local-news/1668168/man-remanded-at-derry-magistrate-s-court-for-shouting-racial-slurs.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1666536/derry-death-notices-saturday-november-30-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
@@ -275,71 +266,35 @@ Derry Magistrate's Court
 [Derry Death Notices - Saturday, November 30, 2024](https://www.derrynow.com/news/deaths/1666536/derry-death-notices-saturday-november-30-2024.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![A Bloody Sunday victim's family member has spoken on the ‘disgraceful’ comments by Micheál Martin](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "A Bloody Sunday victim's family member has spoken on the ‘disgraceful’ comments by Micheál Martin")](https://www.derrynow.com/news/derry-news/1668328/a-bloody-sunday-victim-s-family-member-has-spoken-on-the-disgraceful-comments-by-micheal-martin.html)
+[![Derry sisters on a mission to raise vital funds for Foyle Hospice in memory of their mum](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry sisters on a mission to raise vital funds for Foyle Hospice in memory of their mum")](https://www.derrynow.com/news/local-news/1664188/derry-sisters-on-a-mission-to-raise-vital-funds-for-foyle-hospice-in-memory-of-their-mum.html)
 
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[A Bloody Sunday victim's family member has spoken on the ‘disgraceful’ comments by Micheál Martin](https://www.derrynow.com/news/derry-news/1668328/a-bloody-sunday-victim-s-family-member-has-spoken-on-the-disgraceful-comments-by-micheal-martin.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![County Derry man accused of ramming two cars and a bus in Kilrea refused bail](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry man accused of ramming two cars and a bus in Kilrea refused bail")](https://www.derrynow.com/news/home/1668316/county-derry-man-accused-of-ramming-two-cars-and-a-bus-in-kilrea-refused-bail.html)
-
-Coleraine Magistrates Court.
-
-[Home](https://www.derrynow.com/)
-
-[County Derry man accused of ramming two cars and a bus in Kilrea refused bail](https://www.derrynow.com/news/home/1668316/county-derry-man-accused-of-ramming-two-cars-and-a-bus-in-kilrea-refused-bail.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Heart-warming Derry advert reminds us to reach out at Christmas](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Heart-warming Derry advert reminds us to reach out at Christmas")](https://www.derrynow.com/news/home/1668351/heart-warming-derry-advert-reminds-us-to-reach-out-at-christmas.html)
-
-Still from John Lewis inspired Christmas advert which centres on two grieving men.
-
-[Home](https://www.derrynow.com/)
-
-[Heart-warming Derry advert reminds us to reach out at Christmas](https://www.derrynow.com/news/home/1668351/heart-warming-derry-advert-reminds-us-to-reach-out-at-christmas.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![All Ireland Pipe Band Championships to return to Derry in 2025](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "All Ireland Pipe Band Championships to return to Derry in 2025")](https://www.derrynow.com/news/local-news/1668355/all-ireland-pipe-band-championships-to-return-to-derry-in-2025.html)
-
-Last hosted during the successful 2013 UK City of Culture celebrations, the championships are expected to draw thousands of visitors to the city
+Mairead and Caoimhe Fox are aiming to raise £108,000 for Foyle Hospice in memory of their mother Ann.
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[All Ireland Pipe Band Championships to return to Derry in 2025](https://www.derrynow.com/news/local-news/1668355/all-ireland-pipe-band-championships-to-return-to-derry-in-2025.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry sisters on a mission to raise vital funds for Foyle Hospice in memory of their mum](https://www.derrynow.com/news/local-news/1664188/derry-sisters-on-a-mission-to-raise-vital-funds-for-foyle-hospice-in-memory-of-their-mum.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Creggan Enterprises’ Lifehack Project – helping young people start a new Journey](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Creggan Enterprises’ Lifehack Project – helping young people start a new Journey")](https://www.derrynow.com/news/local-news/1668423/creggan-enterprises-lifehack-project-helping-young-people-start-a-new-journey.html)
-
-Lifehack participants, project staff and CEL Management Team pictured at the recent programme launch at Ráth Mór.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Creggan Enterprises’ Lifehack Project – helping young people start a new Journey](https://www.derrynow.com/news/local-news/1668423/creggan-enterprises-lifehack-project-helping-young-people-start-a-new-journey.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Free Information session Lettershandoney](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Free Information session Lettershandoney")](https://www.derrynow.com/news/county-derry-post/1668170/free-information-session-set-for-rural-area-of-lettershandoney.html)
-
-Free Information session Lettershandoney
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[Free Information session set for rural area of Lettershandoney](https://www.derrynow.com/news/county-derry-post/1668170/free-information-session-set-for-rural-area-of-lettershandoney.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Kneecap win discrimination case against Government over block to funding award](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Kneecap win discrimination case against Government over block to funding award")](https://www.derrynow.com/news/northern-ireland/1667943/kneecap-wins-legal-case-against-government-over-block-to-funding-award.html)
+[![Police hunt man who held up store at knifepoint](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police hunt man who held up store at knifepoint")](https://www.derrynow.com/news/northern-ireland/1669004/police-hunt-man-who-held-up-store-at-knifepoint.html)
 
 [Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
 
-[Kneecap wins legal case against Government over block to funding award](https://www.derrynow.com/news/northern-ireland/1667943/kneecap-wins-legal-case-against-government-over-block-to-funding-award.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Police hunt man who held up store at knifepoint](https://www.derrynow.com/news/northern-ireland/1669004/police-hunt-man-who-held-up-store-at-knifepoint.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Small parties must get chance to scrutinise assisted dying proposal, Plaid urges](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Small parties must get chance to scrutinise assisted dying proposal, Plaid urges")](https://www.derrynow.com/news/northern-ireland/1668519/small-parties-must-get-chance-to-scrutinise-assisted-dying-proposal-plaid-urges.html)
+[![Two properties damaged after devices thrown](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two properties damaged after devices thrown")](https://www.derrynow.com/news/northern-ireland/1669203/two-properties-damaged-after-devices-thrown.html)
 
 [Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
 
-[Small parties must get chance to scrutinise assisted dying proposal, Plaid urges](https://www.derrynow.com/news/northern-ireland/1668519/small-parties-must-get-chance-to-scrutinise-assisted-dying-proposal-plaid-urges.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Two properties damaged after devices thrown](https://www.derrynow.com/news/northern-ireland/1669203/two-properties-damaged-after-devices-thrown.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Two escape injury in Antrim arson attack](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two escape injury in Antrim arson attack")](https://www.derrynow.com/news/northern-ireland/1669105/two-escape-injury-in-antrim-arson-attack.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Two escape injury in Antrim arson attack](https://www.derrynow.com/news/northern-ireland/1669105/two-escape-injury-in-antrim-arson-attack.html)
+------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -521,6 +476,15 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry sisters on a mission to raise vital funds for Foyle Hospice in memory of their mum](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry sisters on a mission to raise vital funds for Foyle Hospice in memory of their mum")](https://www.derrynow.com/news/local-news/1664188/derry-sisters-on-a-mission-to-raise-vital-funds-for-foyle-hospice-in-memory-of-their-mum.html)
+
+Mairead and Caoimhe Fox are aiming to raise £108,000 for Foyle Hospice in memory of their mother Ann.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry sisters on a mission to raise vital funds for Foyle Hospice in memory of their mum](https://www.derrynow.com/news/local-news/1664188/derry-sisters-on-a-mission-to-raise-vital-funds-for-foyle-hospice-in-memory-of-their-mum.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1666536/derry-death-notices-saturday-november-30-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
@@ -528,7 +492,7 @@ Advertise with Us
 [Derry Death Notices - Saturday, November 30, 2024](https://www.derrynow.com/news/deaths/1666536/derry-death-notices-saturday-november-30-2024.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Heart-warming Derry advert reminds us to reach out at Christmas](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Heart-warming Derry advert reminds us to reach out at Christmas")](https://www.derrynow.com/news/home/1668351/heart-warming-derry-advert-reminds-us-to-reach-out-at-christmas.html)
+[![Heart-warming Derry advert reminds us to reach out at Christmas](https://www.derrynow.com/resizer/165/93/true/2024_11_29/Screenshot_2024-11-29_145939_%281%29_%281%29-1732892601795.jpg--.jpg?1732892602024 "Heart-warming Derry advert reminds us to reach out at Christmas")](https://www.derrynow.com/news/home/1668351/heart-warming-derry-advert-reminds-us-to-reach-out-at-christmas.html)
 
 Still from John Lewis inspired Christmas advert which centres on two grieving men.
 
@@ -563,13 +527,6 @@ Coleraine Magistrates Court.
 
 [County Derry man accused of ramming two cars and a bus in Kilrea refused bail](https://www.derrynow.com/news/home/1668316/county-derry-man-accused-of-ramming-two-cars-and-a-bus-in-kilrea-refused-bail.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![A Bloody Sunday victim's family member has spoken on the ‘disgraceful’ comments by Micheál Martin](https://www.derrynow.com/resizer/165/93/true/pa/2022_07_11/1657566304855_0.jpg--.jpg?1657566305277 "A Bloody Sunday victim's family member has spoken on the ‘disgraceful’ comments by Micheál Martin")](https://www.derrynow.com/news/derry-news/1668328/a-bloody-sunday-victim-s-family-member-has-spoken-on-the-disgraceful-comments-by-micheal-martin.html)
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[A Bloody Sunday victim's family member has spoken on the ‘disgraceful’ comments by Micheál Martin](https://www.derrynow.com/news/derry-news/1668328/a-bloody-sunday-victim-s-family-member-has-spoken-on-the-disgraceful-comments-by-micheal-martin.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
