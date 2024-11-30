@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Family of 19-year-old killed in Arlington Airbnb shooting speaks out](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/img_4745.jpeg?ve=1&tl=1)
+ [![2024 Atlantic Hurricane Season: 'Hyperactive' season with 3 landfalling hurricanes in Florida](https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/11/32/18/2024-hurricane-recap-2.png?ve=1&tl=1)
 
- ![Family of 19-year-old killed in Arlington Airbnb shooting speaks out](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/img_4745.jpeg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/alexis-tyler-airbnb-shooting-arlington)
+ ![2024 Atlantic Hurricane Season: 'Hyperactive' season with 3 landfalling hurricanes in Florida](https://images.foxtv.com/images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/11/32/18/592/333/2024-hurricane-recap-2.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/2024-atlantic-hurricane-season-summary)
 
-### [Family of 19-year-old killed in Arlington Airbnb shooting speaks out](https://www.fox4news.com/news/alexis-tyler-airbnb-shooting-arlington)
+### [2024 Atlantic Hurricane Season: 'Hyperactive' season with 3 landfalling hurricanes in Florida](https://www.fox4news.com/news/2024-atlantic-hurricane-season-summary)
 
- [![Amazon workers to strike between Black Friday, Cyber Monday in US, other countries](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/amazon-strike.jpg?ve=1&tl=1)
+ [![Notre Dame Cathedral revealed: 1st look at restoration ahead reopening](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2186799314.jpg?ve=1&tl=1)
 
- ![Amazon workers to strike between Black Friday, Cyber Monday in US, other countries](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/amazon-strike.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/amazon-workers-planning-strike-black-friday-cyber-monday)
+ ![Notre Dame Cathedral revealed: 1st look at restoration ahead reopening](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2186799314.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/notre-dame-cathedral-open)
 
-### [Amazon workers to strike between Black Friday, Cyber Monday in US, other countries](https://www.fox4news.com/news/amazon-workers-planning-strike-black-friday-cyber-monday)
+### [Notre Dame Cathedral revealed: 1st look at restoration ahead reopening](https://www.fox4news.com/news/notre-dame-cathedral-open)
 
- [![Man stabbed outside Dallas Target on Black Friday morning](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/04/32/18/Target-store.jpg?ve=1&tl=1)
+ [![Israeli airstrike kills 5, including World Central Kitchen workers, amid Gaza conflict](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2186955800.jpg?ve=1&tl=1)
 
- ![Man stabbed outside Dallas Target on Black Friday morning](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/04/32/18/592/333/Target-store.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/man-stabbed-outside-dallas-target-black-friday-morning)
+ ![Israeli airstrike kills 5, including World Central Kitchen workers, amid Gaza conflict](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2186955800.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/israeli-airstrike-world-central-kitchen)
 
-### [Man stabbed outside Dallas Target on Black Friday morning](https://www.fox4news.com/news/man-stabbed-outside-dallas-target-black-friday-morning)
+### [Israeli airstrike kills 5, including World Central Kitchen workers, amid Gaza conflict](https://www.fox4news.com/news/israeli-airstrike-world-central-kitchen)
 
- [![Out-of-town shoppers flood DFW for Black Friday bargains](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/10/32/18/Holiday-shopping-in-New-York.jpg?ve=1&tl=1)
+ [![New CDC report shows what happened to the abortion rate after Roe was overturned](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/pro-life-protesters.jpg?ve=1&tl=1)
 
- ![Out-of-town shoppers flood DFW for Black Friday bargains](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/10/32/18/592/333/Holiday-shopping-in-New-York.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/black-friday-dfw)
+ ![New CDC report shows what happened to the abortion rate after Roe was overturned](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/pro-life-protesters.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/new-cdc-report-shows-what-happened-abortion-rate-after-roe-was-overturned)
 
-### [Out-of-town shoppers flood DFW for Black Friday bargains](https://www.fox4news.com/news/black-friday-dfw)
+### [New CDC report shows what happened to the abortion rate after Roe was overturned](https://www.fox4news.com/news/new-cdc-report-shows-what-happened-abortion-rate-after-roe-was-overturned)
 
- [![Man shot and killed in North Richland Hills home: police](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/05/32/18/Generic-police-tape-2-11.jpg?ve=1&tl=1)
+ [![Texas-Texas A&M rivalry full of big games and moments from Bevo to bonfire tragedy](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/08/32/18/GettyImages-134071717.jpg?ve=1&tl=1)
 
- ![Man shot and killed in North Richland Hills home: police](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/05/32/18/592/333/Generic-police-tape-2-11.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/man-shot-killed-north-richland-hills-home)
+ ![Texas-Texas A&M rivalry full of big games and moments from Bevo to bonfire tragedy](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/08/32/18/592/333/GettyImages-134071717.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/texas-texas-am-rivalry-full-big-games-moments-from-bevo-bonfire-tragedy)
 
-### [Man shot and killed in North Richland Hills home: police](https://www.fox4news.com/news/man-shot-killed-north-richland-hills-home)
+### [Texas-Texas A&M rivalry full of big games and moments from Bevo to bonfire tragedy](https://www.fox4news.com/sports/texas-texas-am-rivalry-full-big-games-moments-from-bevo-bonfire-tragedy)
 
 ###### [News](https://www.fox4news.com/news)
 
