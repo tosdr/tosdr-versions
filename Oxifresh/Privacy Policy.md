@@ -385,15 +385,15 @@ What Customers Are Saying
 
 Based on 305,469 Carpet Cleaning Services Reviews
 
-**NP.** - MANITOWOC, WI - 11/29/2024
+**AJ.** - Elizabethton, TN - 11/29/2024
 
-(4.5 Out of 5 stars)
+(5.0 Out of 5 stars)
 
-**CA.** - Conway, SC - 11/29/2024
+Nate, the technician was very friendly and he did a great job cleaning our carpets, tile floor, and a large rug. **JK.** - Green Bay, WI - 11/28/2024
 
-(4.5 Out of 5 stars)
+(5.0 Out of 5 stars)
 
-The customer service representatives are very nice courteous and patient each time I’ve used your services. The technicians are always kind and do a very, very good job. If they’re going to be late, they always communicate and let me know ahead of time. I do recommend your company to a lot of people you guys are awesome. I love that your solutions are not harmful to me or my pet. **VW.** - San Antonio, TX - 11/28/2024
+Makes rugs look new! **EA.** - Kentfield, CA - 11/28/2024
 
 (5.0 Out of 5 stars)
 
