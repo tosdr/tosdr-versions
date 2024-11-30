@@ -243,6 +243,27 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/1700-block-of-west-howard-326x245.jpg)](https://cwbchicago.com/2024/11/man-stabbed-during-fight-outside-howard-cta-station.html "Man stabbed during fight outside Howard CTA station")
+
+CTA
+
+### [Man stabbed during fight outside Howard CTA station](https://cwbchicago.com/2024/11/man-stabbed-during-fight-outside-howard-cta-station.html "Man stabbed during fight outside Howard CTA station")
+
+[November 28, 2024 6:36 AM](https://cwbchicago.com/2024/11)
+
+A man is recovering this morning after someone stabbed him during a fight near the Howard CTA station in Rogers Park overnight. The assailant remains at large.[](https://cwbchicago.com/2024/11/man-stabbed-during-fight-outside-howard-cta-station.html "Man stabbed during fight outside Howard CTA station")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Andre-Simmons-326x245.jpg)](https://cwbchicago.com/2024/11/5-time-felon-gets-4%c2%bd-years-for-brazen-bucktown-robbery-that-quickly-went-viral-video.html "5-time felon gets 4½-years for brazen Bucktown robbery that quickly went viral (video)")
+
+Bucktown
+
+### [5-time felon gets 4½-years for brazen Bucktown robbery that quickly went viral (video)](https://cwbchicago.com/2024/11/5-time-felon-gets-4%c2%bd-years-for-brazen-bucktown-robbery-that-quickly-went-viral-video.html "5-time felon gets 4½-years for brazen Bucktown robbery that quickly went viral (video)")
+
+[November 28, 2024 6:18 AM](https://cwbchicago.com/2024/11)
+
+A five-time convicted felon has pleaded guilty to the brazen daylight robbery of a man in Bucktown last year. Video of the attack went viral almost immediately. He later told police it was only supposed to be “an a\*\* whooping.”  
+[](https://cwbchicago.com/2024/11/5-time-felon-gets-4%c2%bd-years-for-brazen-bucktown-robbery-that-quickly-went-viral-video.html "5-time felon gets 4½-years for brazen Bucktown robbery that quickly went viral (video)")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/11/Glenn-Russell-326x245.jpg)](https://cwbchicago.com/2024/11/man-wanted-for-summertime-shooting-is-arrested-during-traffic-stop-in-alabama.html "Man wanted for summertime shooting is arrested during traffic stop in Alabama")
 
 Austin
@@ -252,26 +273,6 @@ Austin
 [November 27, 2024 8:19 PM](https://cwbchicago.com/2024/11)
 
 A man wanted for attempted murder on allegations he shot a man outside an Austin convenience store this summer is in custody after being stopped by police for a minor traffic violation in Alabama.[](https://cwbchicago.com/2024/11/man-wanted-for-summertime-shooting-is-arrested-during-traffic-stop-in-alabama.html "Man wanted for summertime shooting is arrested during traffic stop in Alabama")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/JH523475-2400-blk-north-clark-041A-326x245.jpg)](https://cwbchicago.com/2024/11/bystander-shoots-erratic-man-on-clark-street-lincoln-park-alderman-says.html "Bystander shoots ‘erratic’ man on Clark Street, Lincoln Park alderman says")
-
-Lincoln Park
-
-### [Bystander shoots ‘erratic’ man on Clark Street, Lincoln Park alderman says](https://cwbchicago.com/2024/11/bystander-shoots-erratic-man-on-clark-street-lincoln-park-alderman-says.html "Bystander shoots ‘erratic’ man on Clark Street, Lincoln Park alderman says")
-
-[November 27, 2024 7:34 PM](https://cwbchicago.com/2024/11)
-
-A man is in critical condition after someone shot him as he was “exhibiting erratic and dangerous behavior” on a busy Lincoln Park street Wednesday afternoon, according to the local alderman.[](https://cwbchicago.com/2024/11/bystander-shoots-erratic-man-on-clark-street-lincoln-park-alderman-says.html "Bystander shoots ‘erratic’ man on Clark Street, Lincoln Park alderman says")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/JH510348-susp-326x245.jpg)](https://cwbchicago.com/2024/11/cops-seek-2-men-who-beat-tried-to-rob-red-line-passenger-on-north-side.html "Cops seek 2 men who beat, tried to rob Red Line passenger on North Side")
-
-CTA
-
-### [Cops seek 2 men who beat, tried to rob Red Line passenger on North Side](https://cwbchicago.com/2024/11/cops-seek-2-men-who-beat-tried-to-rob-red-line-passenger-on-north-side.html "Cops seek 2 men who beat, tried to rob Red Line passenger on North Side")
-
-[November 27, 2024 12:09 PM](https://cwbchicago.com/2024/11)
-
-Police are trying to track down two men who attacked and tried to rob Red Line passenger in Rogers Park.[](https://cwbchicago.com/2024/11/cops-seek-2-men-who-beat-tried-to-rob-red-line-passenger-on-north-side.html "Cops seek 2 men who beat, tried to rob Red Line passenger on North Side")
 
 Search
 
