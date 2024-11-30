@@ -12,6 +12,7 @@ Menu
 * [Recipes](https://www.bettycrocker.com/recipes)
     
     * Quick Links
+        * [Wicked x Betty](https://www.bettycrocker.com/wicked)
         * [Easy Recipes](https://www.bettycrocker.com/recipes/easy-recipes)
         * [Kids' Favorite Recipes](https://www.bettycrocker.com/special-occasions/kids-recipes)
         * [Recipes for Entertaining](https://www.bettycrocker.com/special-occasions/easy-entertaining)
