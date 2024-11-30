@@ -144,12 +144,6 @@ Global Navigation
 * [About King County](https://www.kingcounty.gov/en/legacy/about)
 * [Departments](https://www.kingcounty.gov/en/legacy/depts)
 
-Thanksgiving is Thursday, November 28, 2024
-
-[Our offices will be closed on Thursday and Friday, and transit and service schedules may be different](https://kingcounty.gov/en/shared-topics/about-king-county/holiday-closures-impacts/thanksgiving).
-
-×
-
 Terms of use
 ============
 
