@@ -398,11 +398,11 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 ##### Latest
 
-1. [Writing as Enchantment: Inside Alan Moore’s BBC Maestro Course](https://www.classcentral.com/report/review-bbc-maestro-alan-moore-course/)
-2. [7 Best Biology Courses for 2024](https://www.classcentral.com/report/best-biology-courses/)
-3. [Learn Something New: 100 Most Popular Courses For December](https://www.classcentral.com/report/most-popular-december-2024/)
-4. [Black Friday 2024: 50+ Online Learning Deals](https://www.classcentral.com/report/online-courses-deals-black-friday-cyber-monday/)
-5. [262K Courses, 833M Enrollments: Breaking Down Udemy’s Massive Catalog](https://www.classcentral.com/report/udemy-by-the-numbers/)
+1. [10 Best Chess Courses for 2024](https://www.classcentral.com/report/best-chess-courses/)
+2. [Writing as Enchantment: Inside Alan Moore’s BBC Maestro Course](https://www.classcentral.com/report/review-bbc-maestro-alan-moore-course/)
+3. [7 Best Biology Courses for 2024](https://www.classcentral.com/report/best-biology-courses/)
+4. [Learn Something New: 100 Most Popular Courses For December](https://www.classcentral.com/report/most-popular-december-2024/)
+5. [Black Friday 2024: 50+ Online Learning Deals](https://www.classcentral.com/report/online-courses-deals-black-friday-cyber-monday/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -412,11 +412,11 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 Most common
 
-1. data science
+1. marketing
     
-2. psychology
+2. c
     
-3. project management
+3. sql
     
 
 Popular subjects
