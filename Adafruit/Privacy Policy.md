@@ -406,9 +406,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Forgive many things in others; nothing in yourself”
+“ I don’t care that they stole my idea — I care that they don’t have any of their own”
 
-[Ausonius](https://en.wikipedia.org/wiki/Ausonius#Saw_mill)
+[Nikola Tesla](https://en.wikipedia.org/wiki/Nikola_Tesla)
 
 [](https://www.adafruit.com/about)
 
