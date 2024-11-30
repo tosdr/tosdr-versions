@@ -76,9 +76,9 @@ Search
 
 Search
 
-#### Live updates
+#### Exclusive
 
-[The 301+ very best Black Friday deals we've found so far](https://nypost.com/shopping/best-black-friday-deals-sales-live-updates-2024-11-29/)
+[NYC staffer paid to promote diversity caught ripping down Israel hostage poster, allegedly assaulting person filming it](https://nypost.com/2024/11/30/us-news/nyc-staffer-paid-to-promote-diversity-caught-ripping-down-israel-hostage-poster-allegedly-assaulting-person-filming-it/)
 
 Terms Of Use
 ============
