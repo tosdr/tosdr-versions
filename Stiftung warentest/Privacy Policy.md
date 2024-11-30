@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Gehör schützen: Laut­stärke des Kopf­hörers begrenzen – so geht‘s](https://www.test.de/Gehoer-schuetzen-Lautstaerke-des-Kopfhoerers-begrenzen-so-gehts-6104614-0/ "Gehör schützen - Lautstärke des Kopfhörers begrenzen – so geht‘s")
-* [Verletzungs­gefahr: Philips ruft Bügel­stationen zurück](https://www.test.de/Verletzungsgefahr-Philips-ruft-Buegelstationen-zurueck-6177922-0/ "Verletzungsgefahr - Philips ruft Bügelstationen zurück")
-* [Rauchmelder im Test: Stiftung Warentest zieht „Mangelhaft“ für Pyrexx-Rauchmelder zurück](https://www.test.de/Rauchmelder-im-Test-Stiftung-Warentest-zieht-Mangelhaft-fuer-Pyrexx-Rauchmelder-zurueck-6098639-0/ "Rauchmelder im Test - Stiftung Warentest zieht „Mangelhaft“ für Pyrexx-Rauchmelder zurück")
-* [Tages­geld: Manche Zinstreppe täuscht](https://www.test.de/Tagesgeld-Manche-Zinstreppe-taeuscht-6063562-0/ "Tagesgeld - Manche Zinstreppe täuscht")
-* [Fonds­gebundene Renten­versicherung von myPension: Günstig, aber unflexibel](https://www.test.de/Fondsgebundene-Rentenversicherung-von-myPension-Guenstig-aber-unflexibel-6035038-0/ "Fondsgebundene Rentenversicherung von myPension - Günstig, aber unflexibel")
-* [Test Lithium-Knopf­zellen: Diese Batterien leben lange](https://www.test.de/Test-Lithium-Knopfzellen-Diese-Batterien-leben-lange-6156398-0/ "Test Lithium-Knopfzellen - Diese Batterien leben lange")
+* [Risiko Psyche: Trotz Therapie gut versichert](https://www.test.de/Gut-versichert-trotz-Psychotherapie-6018021-0/ "Risiko Psyche - Trotz Therapie gut versichert")
+* [Hautleiden Rosazea: Rosazea-Symptome richtig behandeln](https://www.test.de/Rosazea-Symptome-behandeln-6010975-0/ "Hautleiden Rosazea - Rosazea-Symptome richtig behandeln")
+* [PC und Handy fern­steuern: IT-Hilfe für Oma, Opa, Mama, Papa...](https://www.test.de/PC-und-Handy-fernsteuern-IT-Hilfe-fuer-Oma-Opa-Mama-Papa-5949126-0/ "PC und Handy fernsteuern - IT-Hilfe für Oma, Opa, Mama, Papa...")
+* [Zinsen aus dem Ausland: Geld im Ausland angelegt? Was Sie der Bundes­bank melden müssen](https://www.test.de/Zinsen-aus-dem-Ausland-12-500-Euro-im-Ausland-angelegt-Was-Sie-der-Bundesbank-melden-muessen-6159329-0/ "Zinsen aus dem Ausland - Geld im Ausland angelegt? Was Sie der Bundesbank melden müssen")
+* [Verpackungs­ärger: Taxofit Magnesium 400 + Kalium](https://www.test.de/Verpackungsaerger-Taxofit-Magnesium-400-Kalium-6001317-0/ "Verpackungsärger - Taxofit Magnesium 400 + Kalium")
+* [Kosten bei der Geld­anlage: Wenn aus Nach­kommastellen Tausende Euro werden](https://www.test.de/Kosten-bei-der-Geldanlage-Wenn-aus-Nachkommastellen-Tausende-Euro-werden-6086265-0/ "Kosten bei der Geldanlage - Wenn aus Nachkommastellen Tausende Euro werden")
 
 Weitere Informationen
 
@@ -3871,12 +3871,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Gehör schützen: Laut­stärke des Kopf­hörers begrenzen – so geht‘s](https://www.test.de/Gehoer-schuetzen-Lautstaerke-des-Kopfhoerers-begrenzen-so-gehts-6104614-0/ "Gehör schützen - Lautstärke des Kopfhörers begrenzen – so geht‘s")
-* [Verletzungs­gefahr: Philips ruft Bügel­stationen zurück](https://www.test.de/Verletzungsgefahr-Philips-ruft-Buegelstationen-zurueck-6177922-0/ "Verletzungsgefahr - Philips ruft Bügelstationen zurück")
-* [Rauchmelder im Test: Stiftung Warentest zieht „Mangelhaft“ für Pyrexx-Rauchmelder zurück](https://www.test.de/Rauchmelder-im-Test-Stiftung-Warentest-zieht-Mangelhaft-fuer-Pyrexx-Rauchmelder-zurueck-6098639-0/ "Rauchmelder im Test - Stiftung Warentest zieht „Mangelhaft“ für Pyrexx-Rauchmelder zurück")
-* [Tages­geld: Manche Zinstreppe täuscht](https://www.test.de/Tagesgeld-Manche-Zinstreppe-taeuscht-6063562-0/ "Tagesgeld - Manche Zinstreppe täuscht")
-* [Fonds­gebundene Renten­versicherung von myPension: Günstig, aber unflexibel](https://www.test.de/Fondsgebundene-Rentenversicherung-von-myPension-Guenstig-aber-unflexibel-6035038-0/ "Fondsgebundene Rentenversicherung von myPension - Günstig, aber unflexibel")
-* [Test Lithium-Knopf­zellen: Diese Batterien leben lange](https://www.test.de/Test-Lithium-Knopfzellen-Diese-Batterien-leben-lange-6156398-0/ "Test Lithium-Knopfzellen - Diese Batterien leben lange")
+* [Risiko Psyche: Trotz Therapie gut versichert](https://www.test.de/Gut-versichert-trotz-Psychotherapie-6018021-0/ "Risiko Psyche - Trotz Therapie gut versichert")
+* [Hautleiden Rosazea: Rosazea-Symptome richtig behandeln](https://www.test.de/Rosazea-Symptome-behandeln-6010975-0/ "Hautleiden Rosazea - Rosazea-Symptome richtig behandeln")
+* [PC und Handy fern­steuern: IT-Hilfe für Oma, Opa, Mama, Papa...](https://www.test.de/PC-und-Handy-fernsteuern-IT-Hilfe-fuer-Oma-Opa-Mama-Papa-5949126-0/ "PC und Handy fernsteuern - IT-Hilfe für Oma, Opa, Mama, Papa...")
+* [Zinsen aus dem Ausland: Geld im Ausland angelegt? Was Sie der Bundes­bank melden müssen](https://www.test.de/Zinsen-aus-dem-Ausland-12-500-Euro-im-Ausland-angelegt-Was-Sie-der-Bundesbank-melden-muessen-6159329-0/ "Zinsen aus dem Ausland - Geld im Ausland angelegt? Was Sie der Bundesbank melden müssen")
+* [Verpackungs­ärger: Taxofit Magnesium 400 + Kalium](https://www.test.de/Verpackungsaerger-Taxofit-Magnesium-400-Kalium-6001317-0/ "Verpackungsärger - Taxofit Magnesium 400 + Kalium")
+* [Kosten bei der Geld­anlage: Wenn aus Nach­kommastellen Tausende Euro werden](https://www.test.de/Kosten-bei-der-Geldanlage-Wenn-aus-Nachkommastellen-Tausende-Euro-werden-6086265-0/ "Kosten bei der Geldanlage - Wenn aus Nachkommastellen Tausende Euro werden")
 
 Weitere spannende Themen
 
@@ -3891,12 +3891,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Gehör schützen: Laut­stärke des Kopf­hörers begrenzen – so geht‘s](https://www.test.de/Gehoer-schuetzen-Lautstaerke-des-Kopfhoerers-begrenzen-so-gehts-6104614-0/ "Gehör schützen - Lautstärke des Kopfhörers begrenzen – so geht‘s")
-* [Verletzungs­gefahr: Philips ruft Bügel­stationen zurück](https://www.test.de/Verletzungsgefahr-Philips-ruft-Buegelstationen-zurueck-6177922-0/ "Verletzungsgefahr - Philips ruft Bügelstationen zurück")
-* [Rauchmelder im Test: Stiftung Warentest zieht „Mangelhaft“ für Pyrexx-Rauchmelder zurück](https://www.test.de/Rauchmelder-im-Test-Stiftung-Warentest-zieht-Mangelhaft-fuer-Pyrexx-Rauchmelder-zurueck-6098639-0/ "Rauchmelder im Test - Stiftung Warentest zieht „Mangelhaft“ für Pyrexx-Rauchmelder zurück")
-* [Tages­geld: Manche Zinstreppe täuscht](https://www.test.de/Tagesgeld-Manche-Zinstreppe-taeuscht-6063562-0/ "Tagesgeld - Manche Zinstreppe täuscht")
-* [Fonds­gebundene Renten­versicherung von myPension: Günstig, aber unflexibel](https://www.test.de/Fondsgebundene-Rentenversicherung-von-myPension-Guenstig-aber-unflexibel-6035038-0/ "Fondsgebundene Rentenversicherung von myPension - Günstig, aber unflexibel")
-* [Test Lithium-Knopf­zellen: Diese Batterien leben lange](https://www.test.de/Test-Lithium-Knopfzellen-Diese-Batterien-leben-lange-6156398-0/ "Test Lithium-Knopfzellen - Diese Batterien leben lange")
+* [Risiko Psyche: Trotz Therapie gut versichert](https://www.test.de/Gut-versichert-trotz-Psychotherapie-6018021-0/ "Risiko Psyche - Trotz Therapie gut versichert")
+* [Hautleiden Rosazea: Rosazea-Symptome richtig behandeln](https://www.test.de/Rosazea-Symptome-behandeln-6010975-0/ "Hautleiden Rosazea - Rosazea-Symptome richtig behandeln")
+* [PC und Handy fern­steuern: IT-Hilfe für Oma, Opa, Mama, Papa...](https://www.test.de/PC-und-Handy-fernsteuern-IT-Hilfe-fuer-Oma-Opa-Mama-Papa-5949126-0/ "PC und Handy fernsteuern - IT-Hilfe für Oma, Opa, Mama, Papa...")
+* [Zinsen aus dem Ausland: Geld im Ausland angelegt? Was Sie der Bundes­bank melden müssen](https://www.test.de/Zinsen-aus-dem-Ausland-12-500-Euro-im-Ausland-angelegt-Was-Sie-der-Bundesbank-melden-muessen-6159329-0/ "Zinsen aus dem Ausland - Geld im Ausland angelegt? Was Sie der Bundesbank melden müssen")
+* [Verpackungs­ärger: Taxofit Magnesium 400 + Kalium](https://www.test.de/Verpackungsaerger-Taxofit-Magnesium-400-Kalium-6001317-0/ "Verpackungsärger - Taxofit Magnesium 400 + Kalium")
+* [Kosten bei der Geld­anlage: Wenn aus Nach­kommastellen Tausende Euro werden](https://www.test.de/Kosten-bei-der-Geldanlage-Wenn-aus-Nachkommastellen-Tausende-Euro-werden-6086265-0/ "Kosten bei der Geldanlage - Wenn aus Nachkommastellen Tausende Euro werden")
 
 Neueste Tests
 
@@ -3909,12 +3909,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Gehör schützen: Laut­stärke des Kopf­hörers begrenzen – so geht‘s](https://www.test.de/Gehoer-schuetzen-Lautstaerke-des-Kopfhoerers-begrenzen-so-gehts-6104614-0/ "Gehör schützen - Lautstärke des Kopfhörers begrenzen – so geht‘s")
-* [Verletzungs­gefahr: Philips ruft Bügel­stationen zurück](https://www.test.de/Verletzungsgefahr-Philips-ruft-Buegelstationen-zurueck-6177922-0/ "Verletzungsgefahr - Philips ruft Bügelstationen zurück")
-* [Rauchmelder im Test: Stiftung Warentest zieht „Mangelhaft“ für Pyrexx-Rauchmelder zurück](https://www.test.de/Rauchmelder-im-Test-Stiftung-Warentest-zieht-Mangelhaft-fuer-Pyrexx-Rauchmelder-zurueck-6098639-0/ "Rauchmelder im Test - Stiftung Warentest zieht „Mangelhaft“ für Pyrexx-Rauchmelder zurück")
-* [Tages­geld: Manche Zinstreppe täuscht](https://www.test.de/Tagesgeld-Manche-Zinstreppe-taeuscht-6063562-0/ "Tagesgeld - Manche Zinstreppe täuscht")
-* [Fonds­gebundene Renten­versicherung von myPension: Günstig, aber unflexibel](https://www.test.de/Fondsgebundene-Rentenversicherung-von-myPension-Guenstig-aber-unflexibel-6035038-0/ "Fondsgebundene Rentenversicherung von myPension - Günstig, aber unflexibel")
-* [Test Lithium-Knopf­zellen: Diese Batterien leben lange](https://www.test.de/Test-Lithium-Knopfzellen-Diese-Batterien-leben-lange-6156398-0/ "Test Lithium-Knopfzellen - Diese Batterien leben lange")
+* [Risiko Psyche: Trotz Therapie gut versichert](https://www.test.de/Gut-versichert-trotz-Psychotherapie-6018021-0/ "Risiko Psyche - Trotz Therapie gut versichert")
+* [Hautleiden Rosazea: Rosazea-Symptome richtig behandeln](https://www.test.de/Rosazea-Symptome-behandeln-6010975-0/ "Hautleiden Rosazea - Rosazea-Symptome richtig behandeln")
+* [PC und Handy fern­steuern: IT-Hilfe für Oma, Opa, Mama, Papa...](https://www.test.de/PC-und-Handy-fernsteuern-IT-Hilfe-fuer-Oma-Opa-Mama-Papa-5949126-0/ "PC und Handy fernsteuern - IT-Hilfe für Oma, Opa, Mama, Papa...")
+* [Zinsen aus dem Ausland: Geld im Ausland angelegt? Was Sie der Bundes­bank melden müssen](https://www.test.de/Zinsen-aus-dem-Ausland-12-500-Euro-im-Ausland-angelegt-Was-Sie-der-Bundesbank-melden-muessen-6159329-0/ "Zinsen aus dem Ausland - Geld im Ausland angelegt? Was Sie der Bundesbank melden müssen")
+* [Verpackungs­ärger: Taxofit Magnesium 400 + Kalium](https://www.test.de/Verpackungsaerger-Taxofit-Magnesium-400-Kalium-6001317-0/ "Verpackungsärger - Taxofit Magnesium 400 + Kalium")
+* [Kosten bei der Geld­anlage: Wenn aus Nach­kommastellen Tausende Euro werden](https://www.test.de/Kosten-bei-der-Geldanlage-Wenn-aus-Nachkommastellen-Tausende-Euro-werden-6086265-0/ "Kosten bei der Geldanlage - Wenn aus Nachkommastellen Tausende Euro werden")
 
 Stiftung Warentest
 
