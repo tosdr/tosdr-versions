@@ -72,7 +72,7 @@ Lexia https://www.lexialearning.com https://www.lexialearning.com/img/logo.svg 1
     
     Efficacy Overview
     
-    [Setting a higher standard of efficacy](https://www.lexialearning.com/Research/) 
+    [Setting a higher standard of efficacy](https://www.lexialearning.com/research/) 
     
     * [Product Efficacy](https://www.lexialearning.com/research/product-efficacy)
     * [ESSA Evidence: Strong ESSA Ratings](https://www.lexialearning.com/research/essa-evidence)
@@ -401,7 +401,7 @@ A Cambium Learning® Group Brand
     * [Podcasts](https://www.lexialearning.com/resources/?resourcetype=134)
     * [Blog Posts](https://www.lexialearning.com/resources/?resourcetype=124)
     * [Videos](https://www.lexialearning.com/resources/?resourcetype=169)
-* [Company](https://www.lexialearning.com/Company/) Toggle Navigation
+* [Company](https://www.lexialearning.com/company/) Toggle Navigation
     
     * [Overview](https://www.lexialearning.com/company/)
     * [Careers](https://www.lexialearning.com/company/careers)
