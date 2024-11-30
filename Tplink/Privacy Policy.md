@@ -235,11 +235,11 @@ Where to Buy
     
     The smart surveillance solution for small and medium business
     
-    * [What is VIGI?](https://www.vigi.com/us/about-us/)
-    * [Cameras](https://www.vigi.com/us/camera/)
-    * [Video Recorders](https://www.vigi.com/us/video-recorder/)
-    * [Software Service](https://www.tp-link.com/us/business-networking/vigi-software-service/)
-    * [All Products](https://www.vigi.com/us/all-vigi-surveillance/)
+    * [What is VIGI?](https://www.vigi.com/us/vigi/about-vigi/)
+    * [Cameras](https://www.vigi.com/us/business-networking/vigi-network-camera/)
+    * [Video Recorders](https://www.vigi.com/us/business-networking/vigi-network-video-recorder/)
+    * [Software Service](https://www.vigi.com/us/business-networking/vigi-software-service/)
+    * [All Products](https://www.vigi.com/us/business-networking/all-vigi-surveillance/)
     
     [](https://www.tp-link.com/us/business-networking/soho-switch-unmanaged/)
     
@@ -467,15 +467,15 @@ Where to Buy
         
     * VIGI
         
-        * [What is VIGI?](https://www.vigi.com/us/about-us/)
+        * [What is VIGI?](https://www.vigi.com/us/vigi/about-vigi/)
             
-        * [Cameras](https://www.vigi.com/us/camera/)
+        * [Cameras](https://www.vigi.com/us/business-networking/vigi-network-camera/)
             
-        * [Video Recorders](https://www.vigi.com/us/video-recorder/)
+        * [Video Recorders](https://www.vigi.com/us/business-networking/vigi-network-video-recorder/)
             
-        * [Software Service](https://www.tp-link.com/us/business-networking/vigi-software-service/)
+        * [Software Service](https://www.vigi.com/us/business-networking/vigi-software-service/)
             
-        * [All Products](https://www.vigi.com/us/all-vigi-surveillance/)
+        * [All Products](https://www.vigi.com/us/business-networking/all-vigi-surveillance/)
             
         
     * Unmanaged Switches
