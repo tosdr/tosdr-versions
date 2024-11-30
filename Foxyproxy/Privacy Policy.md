@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Great service, been using it for years now, everytime I go to Germany, I am signing up.
+it was great-- just forgot to renew. Will resubscribe now.
 
-Andreas
+Jim Dever
