@@ -34,7 +34,7 @@
     
 * [Logic](https://www.coolmathgames.com/1-logic-games)
     
-    * [![Block Removal Games Icon](/sites/default/files/2024-09/Block-removal.svg)Block Removal](https://www.coolmathgames.com/1-block-removal-games)
+    * [![Block Games Icon](/sites/default/files/2024-09/Block-removal.svg)Block Removal](https://www.coolmathgames.com/1-block-removal-games)
     * [![Building Games Icon](/sites/default/files/2024-09/Building-blocks.svg)Building](https://www.coolmathgames.com/1-building-games)
     * [![Drawing Games Icon](/sites/default/files/2024-09/Drawing.svg)Drawing Games](https://www.coolmathgames.com/1-drawing-games)
     * [![Escape Games Icon](/sites/default/files/2024-09/Escape.svg)Escape](https://www.coolmathgames.com/1-escape-games)
@@ -152,7 +152,7 @@
     
 * [![Logic Games Icon](/sites/default/files/2024-09/Logic.svg)Logic](https://www.coolmathgames.com/1-logic-games)
     
-    * [![Block Removal Games Icon](/sites/default/files/2024-09/Block-removal.svg)Block Removal](https://www.coolmathgames.com/1-block-removal-games)
+    * [![Block Games Icon](/sites/default/files/2024-09/Block-removal.svg)Block Removal](https://www.coolmathgames.com/1-block-removal-games)
     * [![Building Games Icon](/sites/default/files/2024-09/Building-blocks.svg)Building](https://www.coolmathgames.com/1-building-games)
     * [![Drawing Games Icon](/sites/default/files/2024-09/Drawing.svg)Drawing](https://www.coolmathgames.com/1-drawing-games)
     * [![Escape Games Icon](/sites/default/files/2024-09/Escape.svg)Escape](https://www.coolmathgames.com/1-escape-games)
