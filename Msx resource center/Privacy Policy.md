@@ -137,6 +137,7 @@ MSX Music player
 
 Latest reactions
 
+* [MSXdev24 #14 Kitten2 - The Return](https://www.msx.org/news/challenges/en/msxdev24-14-kitten2-the-return "MSXdev24 #14 Kitten2 - The Return")
 * [A Lone Wolf](https://www.msx.org/news/en/a-lone-wolf "A Lone Wolf ")
 * [SX-LITE and SX-E by 8bits4ever](https://www.msx.org/news/hardware/en/sx-lite-and-sx-e-by-8bits4ever "SX-LITE and SX-E by 8bits4ever")
 * [DSK Pro light](https://www.msx.org/news/development/en/disk-pro-light "DSK Pro light")
@@ -146,23 +147,22 @@ Latest reactions
 * [Alley Cat for MSX2 available for sale soon](https://www.msx.org/news/en/alley-cat-for-msx-2-is-close-to-be-released "Alley Cat for MSX2 available for sale soon")
 * [LevelUp! on stage](https://www.msx.org/news/media/en/level-up-on-stage "LevelUp! on stage")
 * [New stuff for sale at the Bitwise booth, including many MSXDev games and the Advanced version of Deep Dungeon. (Let's see how long it takes until ARTRAG comments that it contains an easter egg bonus game!)](https://www.msx.org/photoshoots/nijmegen-2010/new-stuff-sale-bitwise-booth-including-many-msxdev-games-and-advanced-vers "New stuff for sale at the Bitwise booth, including many MSXDev games and the Advanced version of Deep Dungeon. (Let's see how long it takes until ARTRAG comments that it contains an easter egg bonus game!)")
-* [PISA MSX DEVCON 2024](https://www.msx.org/news/en/pisa-event-on-11162024 "PISA MSX DEVCON 2024")
 
 Latest forum posts
 
-* [Christmas Quiz 2024](https://www.msx.org/forum/msx-talk/off-topic/christmas-quiz-2024 "Christmas Quiz 2024")
-* [MSXgl – A new C game library for MSX](https://www.msx.org/forum/msx-talk/development/msxgl-%E2%80%93-a-new-c-game-library-for-msx?page=28 "MSXgl – A new C game library for MSX")
-* [Dirt-cheap Vaus paddle clone for MSX](https://www.msx.org/forum/msx-talk/hardware/dirt-cheap-vaus-paddle-clone-for-msx?page=4 "Dirt-cheap Vaus paddle clone for MSX")
-* [TRH9000 V9990 & Spiderwave OPL4 don't work in Slotx4?](https://www.msx.org/forum/msx-talk/hardware/trh9000-v9990-spiderwave-opl4-dont-work-in-slotx4?page=1 "TRH9000 V9990 & Spiderwave OPL4 don't work in Slotx4?")
 * [vFM (virtual Full Music) MSX universal audio Cartridge](https://www.msx.org/forum/msx-talk/hardware/vfm-virtual-full-music-msx-universal-audio-cartridge?page=8 "vFM (virtual Full Music) MSX universal audio Cartridge")
-* [Panasonic A1GT circuit diagram, broken pads](https://www.msx.org/forum/msx-talk/hardware/panasonic-a1gt-circuit-diagram-broken-pads "Panasonic A1GT circuit diagram, broken pads")
+* [MSXgl – A new C game library for MSX](https://www.msx.org/forum/msx-talk/development/msxgl-%E2%80%93-a-new-c-game-library-for-msx?page=28 "MSXgl – A new C game library for MSX")
+* [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=124 "Please help testing upcoming openMSX release!")
+* [Dirt-cheap Vaus paddle clone for MSX](https://www.msx.org/forum/msx-talk/hardware/dirt-cheap-vaus-paddle-clone-for-msx?page=4 "Dirt-cheap Vaus paddle clone for MSX")
 * [Screen 2 in MSX2 x in MSX1](https://www.msx.org/forum/msx-talk/software/screen-2-in-msx2-x-in-msx1?page=1 "Screen 2 in MSX2 x in MSX1")
+* [Panasonic A1GT circuit diagram, broken pads](https://www.msx.org/forum/msx-talk/hardware/panasonic-a1gt-circuit-diagram-broken-pads "Panasonic A1GT circuit diagram, broken pads")
+* [Christmas Quiz 2024](https://www.msx.org/forum/msx-talk/off-topic/christmas-quiz-2024 "Christmas Quiz 2024")
+* [TRH9000 V9990 & Spiderwave OPL4 don't work in Slotx4?](https://www.msx.org/forum/msx-talk/hardware/trh9000-v9990-spiderwave-opl4-dont-work-in-slotx4?page=1 "TRH9000 V9990 & Spiderwave OPL4 don't work in Slotx4?")
 * [H.E.R.O. Remake: Stranded Miners in Space](https://www.msx.org/forum/msx-talk/general-discussion/hero-remake-stranded-miners-in-space "H.E.R.O. Remake: Stranded Miners in Space")
 * [Can't play Manbow 2 on MFR SCC+ when flashing with OPFXSD v1.25](https://www.msx.org/forum/msx-talk/software/cant-play-manbow-2-on-mfr-scc-when-flashing-with-opfxsd-v125?page=1 "Can't play Manbow 2 on MFR SCC+ when flashing with OPFXSD v1.25")
 * [2MB RAM expansion for Yamaha MSX computers from Caro](https://www.msx.org/forum/msx-talk/hardware/2mb-ram-expansion-for-yamaha-msx-computers-from-caro "2MB RAM expansion for Yamaha MSX computers from Caro")
 * [Wiki editing discussion](https://www.msx.org/forum/msx-talk/msx-resource-center/wiki-editing-discussion?page=224 "Wiki editing discussion")
 * [The Mexican Runner: Retro Game Gauntlet 2](https://www.msx.org/forum/msx-talk/general-discussion/the-mexican-runner-retro-game-gauntlet-2?page=1 "The Mexican Runner: Retro Game Gauntlet 2")
-* [Modern joystick and joypad compatibility](https://www.msx.org/forum/msx-talk/hardware/modern-joystick-and-joypad-compatibility "Modern joystick and joypad compatibility")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
