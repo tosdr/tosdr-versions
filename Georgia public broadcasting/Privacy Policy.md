@@ -275,13 +275,6 @@ Don't Miss:
 
   [![GPB donate icon](/themes/custom/ga_forest/assets/images/icons/donate/donate--blue-bright.svg) ![GPB donate icon](/themes/custom/ga_forest/assets/images/icons/donate/donate--blue-sky.svg)Donate](https://www.gpb.org/give-now "Donate to Georgia Public Broadcasting")
 
-![](/themes/custom/ga_forest/assets/images/icons/alerts/alert-live.svg)
-
-Football Fridays Game of the week | GHSA Quarterfinals - Thomas Co. Central vs Langston Hughes - At 7:30 P.M.
--------------------------------------------------------------------------------------------------------------
-
-[WATCH LIVE!](https://www.gpb.org/sports/football/match/2024/11/29/2024-ghsa-playoffs-quarterfinals-thomas-county-central-at-langston)
-
 Messages
 --------
 
