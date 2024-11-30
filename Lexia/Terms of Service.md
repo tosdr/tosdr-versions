@@ -72,7 +72,7 @@ Lexia https://www.lexialearning.com https://www.lexialearning.com/img/logo.svg 1
     
     Efficacy Overview
     
-    [Setting a higher standard of efficacy](https://www.lexialearning.com/research/) 
+    [Setting a higher standard of efficacy](https://www.lexialearning.com/Research/) 
     
     * [Product Efficacy](https://www.lexialearning.com/research/product-efficacy)
     * [ESSA Evidence: Strong ESSA Ratings](https://www.lexialearning.com/research/essa-evidence)
