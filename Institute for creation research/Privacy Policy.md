@@ -95,71 +95,61 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Technical Papers
+More Days of Praise
 
-[![](https://dummyimage.com/328x116/006ba8/fff&text=ICR+Scientist’s+Technical+Article)](https://www.icr.org/article/some-strengths-weaknesses-polymer-shield)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/the-self-life)
 
-[Some strengths and weaknesses of the polymer shield exp.,.](https://www.icr.org/article/some-strengths-weaknesses-polymer-shield/)
+[The Self Life](https://www.icr.org/article/the-self-life/)
 
-AUGUST 01, 2019
+“O wretched man that I am! who shall deliver me from the body of this death?” (Romans 7:24) This despondent cry follows Paul’s...
 
-by Brian Thomas, Stephen Taylor, and Kevin Anderson In Journal of Creation 33 (2): 9-12, August 2019 The presence of short-lived soft tissue...
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
-BY:  [VARIOUS AUTHORS](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=35)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/lift-up-your-eyes)
 
-[![](https://dummyimage.com/328x116/006ba8/fff&text=ICR+Scientist’s+Technical+Article)](https://www.icr.org/article/two-possible-mechanisms-linking-cosmic)
+[Lift Up Your Eyes](https://www.icr.org/article/lift-up-your-eyes/)
 
-[Two possible mechanisms linking cosmic rays to weather .,.](https://www.icr.org/article/two-possible-mechanisms-linking-cosmic/)
+“Lift up your eyes on high, and behold who hath created these things, that bringeth out their host by number: he calleth them all by names...
 
-AUGUST 01, 2013
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
-In Journal of Creation 27 (2):91-98, August 2013 Long-age interpretations of earth history have led uniformitarian climate scientists to conclude...
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/truth)
 
-BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+[The Truth](https://www.icr.org/article/truth/)
 
-[![](https://dummyimage.com/328x116/006ba8/fff&text=ICR+Scientist’s+Technical+Article)](https://www.icr.org/article/god-floods-earth-yet-preserves-ark)
+“...God our Saviour; Who will have all men to be saved, and to come unto the knowledge of the truth.” (1 Timothy 2:3-4) The verses...
 
-[God Floods Earth, yet Preserves Ark-Borne Humans and A.,.](https://www.icr.org/article/god-floods-earth-yet-preserves-ark/)
-
-JUNE 01, 2021
-
-by James J. S. Johnson, J.D., Th.D., and Timothy L. Clarey, Ph.D. In Creation Research Society Quarterly 57 (4): 248-262 This multidisciplinary...
-
-BY:  [VARIOUS AUTHORS](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=35)
+BY: [JOHN D. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=26)
 
 Shop Related Products
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/13216390/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10475194/file.jpg)
 
-The Ice Age Real and Recent - Download](https://store.icr.org/dr-jake-hebert-the-ice-age-real-and-recent-downloa.html)
+The Genesis Record](https://store.icr.org/dr-henry-morris-the-genesis-record.html)
 
-$4.99
+$47.99
 
-$9.99
+[![](https://cdn.shoplightspeed.com/shops/601440/files/32689/file.jpg)
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/12967277/file.jpg)
+The Henry Morris Study Bible - Imitation Leather](https://store.icr.org/dr-henry-morris-the-henry-morris-study-bible-imita.html)
 
-The Climate Change Conflict: Keeping Cool Over Global Warming](https://store.icr.org/the-climate-change-conflict-keeping-cool-over-glob.html)
+$59.99
 
-$7.99
+$69.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/13216437/file.jpg)
+[](https://store.icr.org/.html)
 
-The Ice Age and the Flood - eBook](https://store.icr.org/the-ice-age-and-the-flood-ebook.html)
+$
 
-$2.99
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10474599/file.jpg)
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/32701/file.jpg)
+The Biblical Basis for Modern Science](https://store.icr.org/dr-henry-morris-the-biblical-basis-for-modern-scie.html)
 
-The Ice Age and the Flood](https://store.icr.org/dr-jake-hebert-the-ice-age-and-the-flood.html)
+$19.99
 
-$2.99
+[](https://store.icr.org/.html)
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/37858586/file.jpg)
-
-El Conflicto Del Cambio Climáctico (Spanish)](https://store.icr.org/el-conflicto-del-cambio-climactico-spanish.html)
-
-$7.99
+$
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
