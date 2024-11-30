@@ -298,11 +298,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/galerija-talenata/godisnja-izlozba-studenata-flu-beograd-20062007/jelena-stojanovic/jelena-stojanovic.jpg?itok=Pzx3GBnl)](http://seecult.org/galerija/galerija-umetnika/galerija-talenata/godisnja-izlozba-studenata-flu-beograd-20062007/jelena)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-film/pretty-good-film-zoran-popovic/marina-abramovic-u-filmu-pretty-good-zorana-popovica-edinburg-i-okolina-1973.jpg?itok=NrOiwULM)](http://seecult.org/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-film/pretty-good-film-zoran-popovic)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/izlozbe-exhibitions/50-oktobarski-salon/zoran-naskovski/zoran-naskovski-ritam.jpg?itok=NIdF3Rnm)](http://seecult.org/galerija/foto-galerija/izlo%C5%BEbe-exhibitions/50-oktobarski-salon/zoran-naskovski)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/transponovanje-srdjan-veljovic/dzr4.jpg?itok=bhtH6r1M)](http://seecult.org/galerija/foto-galerija/foto-arhiva/transponovanje-srdjan-veljovic)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -318,7 +318,8 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 * [Nadežda Petrović u Narodnom muzeju](http://seecult.org/vest/nadezda-petrovic-u-narodnom-muzeju)
 
-* [Dobitnici nagrade Jelena Šantic - Za hrabri iskorak](http://seecult.org/vest/dobitnici-nagrade-jelena-santic-za-hrabri-iskorak)
+* [CERN – univerzum otkrića](http://seecult.org/vest/cern-univerzum-otkrica)
+* [Dobitnici nagrade Jelena Šantić - Za hrabri iskorak](http://seecult.org/vest/dobitnici-nagrade-jelena-santic-za-hrabri-iskorak)
 * [Nova godina koja nije došla pobednik 30. FAF-a](http://seecult.org/vest/nova-godina-koja-nije-dosla-pobednik-30-faf)
 * [Samosvojni Sera o kontroverznom dokumentarcu o koridi](http://seecult.org/vest/samosvojni-sera-o-kontroverznom-dokumentarcu-o-koridi)
 * [Vladimiru Radovanoviću nagrada Marko Glušac](http://seecult.org/vest/vladimiru-radovanovicu-nagrada-marko-glusac)
@@ -327,7 +328,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Nemi film uživo](http://seecult.org/vest/nemi-film-uzivo)
 * [Užičko pozorište pobednik 17. Festivala pobednika festivala](http://seecult.org/vest/uzicko-pozoriste-pobednik-17-festivala-pobednika-festivala)
 * [Uručene specijalne nagrade 30. FAF-a](http://seecult.org/vest/urucene-specijalne-nagrade-30-faf)
-* [Značaj filmskog fonda za debitante](http://seecult.org/vest/znacaj-filmskog-fonda-za-debitante)
 
 * [Konkursi](#tab1_1)
 
