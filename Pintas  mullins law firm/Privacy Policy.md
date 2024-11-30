@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Name
 
 This field is for validation purposes and should be left unchanged.
 
@@ -279,13 +279,13 @@ This field is for validation purposes and should be left unchanged.
 
 [#### How Do You Know if You Have Stage 1 Lung Cancer?](https://www.pintas.com/lung-cancer/how-do-you-know-if-you-have-stage-1-lung-cancer/)
 
-[![Can a ct scan detect cancer in a lung?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-can-a-ct-scan-detect-cancer-in-lung.jpg "Can a CT Scan Detect Cancer in a Lung?")](https://www.pintas.com/practice-areas/lung-cancer/can-a-ct-scan-detect-cancer-in-lungs/ "Can a CT Scan Detect Cancer in a Lung?")
+[![What is the average mesothelioma settlement?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-what-is-the-average-mesothelioma-settlement.jpg "What Is the Average Mesothelioma Settlement?")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/average-settlement "What Is the Average Mesothelioma Settlement?")
 
-[#### Can a CT Scan Detect Cancer in a Lung?](https://www.pintas.com/practice-areas/lung-cancer/can-a-ct-scan-detect-cancer-in-lungs/)
+[#### What Is the Average Mesothelioma Settlement?](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/average-settlement)
 
-[![How do you get malignant mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/10/mesothelioma-lawyer-how-do-you-get-malignant-mesothelioma-scaled.jpg "How Do You Get Malignant Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-do-you-get-malignant-mesothelioma/ "How Do You Get Malignant Mesothelioma?")
+[![What is subdural hematoma?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-is-subdural-hematoma-scaled.jpg "What Is Subdural Hematoma?")](https://www.pintas.com/faq/what-is-subdural-hematoma/ "What Is Subdural Hematoma?")
 
-[#### How Do You Get Malignant Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-do-you-get-malignant-mesothelioma/)
+[#### What Is Subdural Hematoma?](https://www.pintas.com/faq/what-is-subdural-hematoma/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
