@@ -22,7 +22,7 @@ Switch Language
 
 [](https://www.zalando.nl/cart/)
 
-* [Black Friday](https://www.zalando.nl/outlet/)
+* [Cyber Weekend](https://www.zalando.nl/outlet/)
 * [Nieuw](#)
 * [Kleding](https://www.zalando.nl/kleding/)
 * [Schoenen](https://www.zalando.nl/schoenen/)
