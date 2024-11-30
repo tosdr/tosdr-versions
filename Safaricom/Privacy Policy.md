@@ -80,7 +80,7 @@ HOLIDAY TYPES
 
 [Photographic Safaris](https://www.safari.com/holidays/photographic-safaris)
 
-[BLOG](https://www.safari.com/blog)[TESTIMONIALS](#reviews)[CONTACT US](https://www.safari.com/contact)
+[BLOG](https://www.safari.com/blog)[TESTIMONIALS](https://www.safari.com/testimonials)[CONTACT US](https://www.safari.com/contact)
 
 ABOUT US
 
@@ -141,6 +141,30 @@ Customer Testimonials
 out of 5 based on
 
 [782 reviews](https://www.trustpilot.com/review/www.safari.com)
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Nov 29, 2024
+
+> Fast responses and informative answers.
+
+> Fast responses and informative answers.
+
+Zadra Morgan
+
+,
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Nov 29, 2024
+
+> Nicole was amazing and dealt with all…
+
+> Nicole was amazing and dealt with all my requests and changes in a timely manner
+
+MARTY DIAMOND
+
+,
 
 ![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
@@ -235,34 +259,6 @@ US
 > What a great booking experience. Shann was extremely attentive, answered all my questions swifty and provided me with confidence that I was in good hands and my trip would be exactly what I was looking for.
 
 Phillip Marshall
-
-,
-
-GB
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Nov 26, 2024
-
-> Heleen was awesome!
-
-> Heleen was extremely courteous and helpful with my first-time booking with safari.com for Kruger National Park. Having never been to Africa, let alone Kruger, she offered a lot of first-hand advice on what made sense and what didn't. I feel confident that our booking will give us a great chance to experience a broad spectrum of what the park has to offer over our upcoming week-long trip.
-
-TSO
-
-,
-
-US
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Nov 25, 2024
-
-> Lana was incredibly responsive
-
-> Lana was incredibly responsive. When we found our first choice of safari was fully booked she found us a perfect replacement. Many thanks to her - great service.
-
-Neil Buckley
 
 ,
 
