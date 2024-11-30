@@ -245,7 +245,7 @@ Eine Buchung stellt ein eingeschränktes Recht dar, das dem Gast vom Gastgeber z
   
 4.9.
 
-Gäste sind verpflichtet, schwerwiegende Reklamationen innerhalb von 24 Stunden nach ihrer Ankunft, per E-Mail (hallo@hinterland.camp) an HINTERLAND zu melden und genaue Informationen oder Nachweise (z.B. in Form von Fotos oder Videos) über die Umstände der Reklamation zur Verfügung zu stellen. Im Falle einer berechtigten Reklamation kann die Auszahlung des Mietpreises gem. Ziffer 4.10 an den Gastgeber zurückgehalten werden.
+Gäste sind verpflichtet, schwerwiegende Reklamationen innerhalb von 24 Stunden nach ihrer Ankunft, per E-Mail ([\[email protected\]](https://www.hinterland.camp/cdn-cgi/l/email-protection)) an HINTERLAND zu melden und genaue Informationen oder Nachweise (z.B. in Form von Fotos oder Videos) über die Umstände der Reklamation zur Verfügung zu stellen. Im Falle einer berechtigten Reklamation kann die Auszahlung des Mietpreises gem. Ziffer 4.10 an den Gastgeber zurückgehalten werden.
 
   
 4.10.
