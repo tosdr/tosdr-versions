@@ -165,6 +165,70 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
+More Days of Praise
+
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/sound-doctrine)
+
+[Sound Doctrine](https://www.icr.org/article/sound-doctrine/)
+
+“Hold fast the form of sound words, which thou hast heard of me, in faith and love which is in Christ Jesus.” (2 Timothy 1:13) When...
+
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/kingdom-of-priests)
+
+[Kingdom of Priests](https://www.icr.org/article/kingdom-of-priests/)
+
+“And ye shall be unto me a kingdom of priests, and an holy nation. These are the words which thou shalt speak unto the children of Israel.”...
+
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/him-no-darkness)
+
+[In Him Is No Darkness](https://www.icr.org/article/him-no-darkness/)
+
+“This then is the message which we have heard of him, and declare unto you, that God is light, and in him is no darkness at all.” (1...
+
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+
+Shop Related Products
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/13216743/file.jpg)
+
+Your Origins Matter - eBook](https://store.icr.org/your-origins-matter-ebook.html)
+
+$2.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/57276817/file.jpg)
+
+The Book of Beginnings Paperback](https://store.icr.org/the-book-of-beginnings-paperback.html)
+
+$19.99
+
+$24.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/11926199/file.jpg)
+
+The Book of Beginnings - eBook](https://store.icr.org/the-book-of-beginnings-ebook.html)
+
+$14.99
+
+$49.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/5005668/file.jpg)
+
+Science, Scripture, & Salvation Vol 3, Disc 1](https://store.icr.org/dr-henry-morris-iii-science-scripture-salv-9774957.html)
+
+$1.99
+
+$3.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10892599/file.jpg)
+
+Stand Fast](https://store.icr.org/stand-fast.html)
+
+$4.99
+
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
