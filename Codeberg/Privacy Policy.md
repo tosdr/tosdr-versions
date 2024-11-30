@@ -22,7 +22,7 @@ You've already forked org
 
 [29](https://codeberg.org/Codeberg/org/forks)
 
-[Code](https://codeberg.org/Codeberg/org) [Issues 11](https://codeberg.org/Codeberg/org/issues) [Pull requests 14](https://codeberg.org/Codeberg/org/pulls) [Activity](https://codeberg.org/Codeberg/org/activity)
+[Code](https://codeberg.org/Codeberg/org) [Issues 10](https://codeberg.org/Codeberg/org/issues) [Pull requests 14](https://codeberg.org/Codeberg/org/pulls) [Activity](https://codeberg.org/Codeberg/org/activity)
 
 **main**
 
@@ -40,7 +40,7 @@ You've already forked org
 
 [](https://codeberg.org/Codeberg/org/src/branch/main/PrivacyPolicy.md?display=source)[](https://codeberg.org/Codeberg/org/src/branch/main/PrivacyPolicy.md)
 
-[Raw](https://codeberg.org/Codeberg/org/raw/branch/main/PrivacyPolicy.md) [Permalink](https://codeberg.org/Codeberg/org/src/commit/4b2a2c68549b5e62486f4f9195d2ce0044f5ddb8/PrivacyPolicy.md) [Blame](https://codeberg.org/Codeberg/org/blame/branch/main/PrivacyPolicy.md) [History](https://codeberg.org/Codeberg/org/commits/branch/main/PrivacyPolicy.md)
+[Raw](https://codeberg.org/Codeberg/org/raw/branch/main/PrivacyPolicy.md) [Permalink](https://codeberg.org/Codeberg/org/src/commit/172350cbd945af6e5cb062a99444892161c2e5db/PrivacyPolicy.md) [Blame](https://codeberg.org/Codeberg/org/blame/branch/main/PrivacyPolicy.md) [History](https://codeberg.org/Codeberg/org/commits/branch/main/PrivacyPolicy.md)
 
 [](https://codeberg.org/Codeberg/org/raw/branch/main/PrivacyPolicy.md)[](#)[](https://codeberg.org/Codeberg/org/rss/branch/main/PrivacyPolicy.md)
 
