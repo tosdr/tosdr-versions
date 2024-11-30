@@ -1,5 +1,7 @@
 error: no ad slot id exists: undefined
 
+[Breaking: Georgia narrowly outlasts Georgia Tech in thrilling 8-overtime battle](https://www.ajc.com/sports/georgia-bulldogs/georgia-narrowly-outlasts-georgia-tech-in-thrilling-8-overtime-battle/WVU3NPXLQVF5JDTRJG4S42MRIQ/)
+
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1836)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1836)](https://www.ajc.com/)
 
 Log In
