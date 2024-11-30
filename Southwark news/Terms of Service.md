@@ -213,12 +213,6 @@ Terms of Use
 
 [26th November 2024](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-92-faces-hour-long-bus-journey-to-reach-high-street-fifteen-minutes-away-and-now-cannot-reach-it-at-all/)
 
-[![From left: Harrun, a biomedical student at KCL; Dennis at the Blue. R: An ambulance outside Guy's Hospital.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-19-11-2024-at-14.37-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/havent-they-got-enough-money-locals-react-as-royals-charge-guys-and-st-thomas-trust-11-4m-to-store-ambulances-on-kings-land-in-bermondsey/)
-
-### [‘Haven’t they got enough money?’: Locals react as royals charge Guy’s and St Thomas’ Trust £11.4m to store ambulances on King’s land in Bermondsey](https://southwarknews.co.uk/area/bermondsey/havent-they-got-enough-money-locals-react-as-royals-charge-guys-and-st-thomas-trust-11-4m-to-store-ambulances-on-kings-land-in-bermondsey/)
-
-[20th November 2024](https://southwarknews.co.uk/area/bermondsey/havent-they-got-enough-money-locals-react-as-royals-charge-guys-and-st-thomas-trust-11-4m-to-store-ambulances-on-kings-land-in-bermondsey/)
-
 [![L: Residents have their say; R: CGI of Berkeley Homes' proposed Aylesham scheme](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-25-11-2024-at-07.41-120x86.jpg)](https://southwarknews.co.uk/area/peckham/most-people-in-southwark-cant-afford-these-homes-protestors-unite-against-berkeley-homes-unfit-plans-for-peckham/)
 
 ### [‘Most people in Southwark can’t afford these homes’: Protestors unite against Berkeley Homes’ ‘unfit’ plans for Peckham](https://southwarknews.co.uk/area/peckham/most-people-in-southwark-cant-afford-these-homes-protestors-unite-against-berkeley-homes-unfit-plans-for-peckham/)
@@ -237,11 +231,17 @@ Terms of Use
 
 [24th November 2024](https://southwarknews.co.uk/area/elephant-and-castle/fancy-a-chat-council-blunder-in-elephant-and-castle-as-misplaced-chairs-spark-confusion/)
 
-[![Police were called to Lanercost Road following reports of a stabbing. Image: Google Maps](https://southwarknews.co.uk/wp-content/uploads/2024/11/Police-were-called-to-Lanercost-Road-following-reports-of-a-stabbing.-Image-Google-Maps-120x86.png)](https://southwarknews.co.uk/news/crime/boy-14-stabbed-in-south-london/)
+[![Joe Edwards left the Lions with the club sitting one point above the drop zone. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/11/edwards-training-2048x1352-1-120x86.png)](https://southwarknews.co.uk/sport/football/millwall/ex-millwall-boss-lands-role-at-frank-lampards-coventry-city/)
 
-### [Boy, 14, stabbed in South London](https://southwarknews.co.uk/news/crime/boy-14-stabbed-in-south-london/)
+### [Ex-Millwall boss joins Frank Lampard’s backroom staff at Coventry City](https://southwarknews.co.uk/sport/football/millwall/ex-millwall-boss-lands-role-at-frank-lampards-coventry-city/)
 
-[23rd November 2024](https://southwarknews.co.uk/news/crime/boy-14-stabbed-in-south-london/)
+[28th November 2024](https://southwarknews.co.uk/sport/football/millwall/ex-millwall-boss-lands-role-at-frank-lampards-coventry-city/)
+
+[![The Flaxyard site, Peckham Town Centre.](https://southwarknews.co.uk/wp-content/uploads/2024/11/SJH_3494-Pano-120x86.jpeg)](https://southwarknews.co.uk/area/peckham/council-celebrates-completion-of-120-affordable-homes-in-peckham-town-centre/)
+
+### [Council celebrates completion of 120 affordable homes in Peckham Town Centre](https://southwarknews.co.uk/area/peckham/council-celebrates-completion-of-120-affordable-homes-in-peckham-town-centre/)
+
+[28th November 2024](https://southwarknews.co.uk/area/peckham/council-celebrates-completion-of-120-affordable-homes-in-peckham-town-centre/)
 
 ### Featured Articles
 
