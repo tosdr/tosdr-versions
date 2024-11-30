@@ -97,55 +97,59 @@ Return to our [subscription form](https://www.icr.org/subscriptions).
 
 More Days of Praise
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/the-self-life)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/three-worldly-powers)
 
-[The Self Life](https://www.icr.org/article/the-self-life/)
+[Three Worldly Powers](https://www.icr.org/article/three-worldly-powers/)
 
-“O wretched man that I am! who shall deliver me from the body of this death?” (Romans 7:24) This despondent cry follows Paul’s...
+“For all that is in the world, the lust of the flesh, the lust of the eyes, and the pride of life, is not of the Father, but is of the world.”...
+
+BY: [HENRY M. MORRIS III, D.MIN.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=34)
+
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/grace-god-creation)
+
+[The Grace of God in Creation](https://www.icr.org/article/grace-god-creation/)
+
+“He left not himself without witness, in that he did good, and gave us rain from heaven, and fruitful seasons, filling our hearts with food...
 
 BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/lift-up-your-eyes)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/understanding-word-god)
 
-[Lift Up Your Eyes](https://www.icr.org/article/lift-up-your-eyes/)
+[Understanding the Word of God](https://www.icr.org/article/understanding-word-god/)
 
-“Lift up your eyes on high, and behold who hath created these things, that bringeth out their host by number: he calleth them all by names...
+“So they read in the book in the law of God distinctly, and gave the sense, and caused them to understand the reading.” (Nehemiah 8:8) Most...
 
 BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
-
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/truth)
-
-[The Truth](https://www.icr.org/article/truth/)
-
-“...God our Saviour; Who will have all men to be saved, and to come unto the knowledge of the truth.” (1 Timothy 2:3-4) The verses...
-
-BY: [JOHN D. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=26)
 
 Shop Related Products
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10475194/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/13216716/file.jpg)
 
-The Genesis Record](https://store.icr.org/dr-henry-morris-the-genesis-record.html)
+Six Days of Creation - eBook](https://store.icr.org/dr-henry-morris-iii-six-days-of-creation-ebook.html)
 
-$47.99
+$1.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/32689/file.jpg)
+$2.99
 
-The Henry Morris Study Bible - Imitation Leather](https://store.icr.org/dr-henry-morris-the-henry-morris-study-bible-imita.html)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/294001/file.jpg)
 
-$59.99
+Five Reasons to Believe in Recent Creation](https://store.icr.org/dr-henry-morris-iii-five-reasons-to-believe-in-rec.html)
 
-$69.99
+$2.99
 
-[](https://store.icr.org/.html)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/5005672/file.jpg)
 
-$
+Science, Scripture, & Salvation Vol 3, Disc 2](https://store.icr.org/dr-henry-morris-iii-science-scripture-salv-9774964.html)
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10474599/file.jpg)
+$1.99
 
-The Biblical Basis for Modern Science](https://store.icr.org/dr-henry-morris-the-biblical-basis-for-modern-scie.html)
+$3.99
 
-$19.99
+[![](https://cdn.shoplightspeed.com/shops/601440/files/37284337/file.jpg)
+
+Tus Orígenes Importan (Spanish)](https://store.icr.org/tus-origines-importan-spanish.html)
+
+$7.99
 
 [](https://store.icr.org/.html)
 
