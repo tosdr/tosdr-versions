@@ -1,12 +1,12 @@
 [Skip to main content](#maincontent) [Skip to Support Chat](#) [Skip to footer content](#footercontent) [Skip to Accessibility Statement](https://www.bose.com/legal/accessibility)
 
+LOWEST PRICE EVER: $229 for Ultra Open Earbuds. [Buy Now](https://www.bose.com/ULT-HEADPHONEOPN.html?dwvar_ULT-HEADPHONEOPN_color=SUNSET%20IRIDESCENT&quantity=1)
+
 BLACK FRIDAY DEALS: Save up to 40% on bestsellers. [Shop](https://www.bose.com/c/black-friday-deals)
 
-LIMITED-TIME OFFER: Get our lowest holiday price on select QuietComfort Ultra Headphones. [Buy now](https://www.bose.com/QCUH-HEADPHONEARN.html?dwvar_QCUH-HEADPHONEARN_color=SANDSTONE&quantity=1)
+LIMITED-TIME OFFER: Get our lowest holiday price on select QuietComfort Ultra Headphones. [Buy now](https://www.bose.com/QCUH-HEADPHONEARN.html?dwvar_QCUH-HEADPHONEARN_color=DIAMOND+60TH+EDITION&quantity=1)
 
 LIMITED-TIME OFFER: Get QuietComfort Earbuds for just $129! [Buy now](https://www.bose.com/QCEARB24-HEADPHONEIN.html?dwvar_QCEARB24-HEADPHONEIN_color=WHITE%20SMOKE&quantity=1)
-
-Stress-free shopping | 90-day return policy | Holiday Price Match Promise [Learn how](https://www.bose.com/buy-direct-from-bose)
 
 [Cancel](#)
 
@@ -24,14 +24,14 @@ Back
     
     [![](https://assets.bosecreative.com/m/78dd9abd99af0a8d/webimage-SF_NavFlyout_Holiday_Turkey-6_Cross-cat_Mobile.png)
     
-    ### Black Friday Deals](https://www.bose.com/c/black-friday-deals "SHOP")
+    ### Black Friday Extended!](https://www.bose.com/c/black-friday-deals "SHOP")
     
      
     
-    Black Friday Deals
-    ------------------
+    Extended Black Friday Deals!
+    ----------------------------
     
-    Get the best deals of the season and save up to 40%.
+    Act fast to get bestsellers at up to 40% off.
     
     [SHOP](https://www.bose.com/c/black-friday-deals "SHOP")
     
@@ -190,7 +190,7 @@ Back
 
 [![](https://assets.bosecreative.com/m/78dd9abd99af0a8d/webimage-SF_NavFlyout_Holiday_Turkey-6_Cross-cat_Mobile.png)
 
-### Black Friday Deals](https://www.bose.com/c/black-friday-deals "SHOP")
+### Black Friday Extended!](https://www.bose.com/c/black-friday-deals "SHOP")
 
 [![Bose](/on/demandware.static/Sites-Bose_US-Site/-/default/dwaf0ae0f9/images/logo.svg)](https://www.bose.com/home "Bose Home")
 
