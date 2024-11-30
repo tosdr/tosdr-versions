@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/filipijnen-helpen-zo-kan-het-eventueel-ook/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/hoofdartikelen/de-kaarten-worden-geschud/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
