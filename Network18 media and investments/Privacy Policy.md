@@ -128,12 +128,11 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
-    * [Sonakshi Sinha](https://www.news18.com/movies/sonakshi-sinhas-mother-poonam-takes-a-dig-at-zaheer-iqbal-usse-shaadi-ki-jisko-9137967.html)
-    * [Champions Trophy](https://www.news18.com/cricket/pcb-sticks-to-no-hybrid-model-stance-for-champions-trophy-icc-to-reconvene-meeting-on-saturday-9139797.html)
-    * [Allu Arjun](https://www.news18.com/movies/allu-arjun-calls-rashmika-mandanna-his-home-at-pushpa-2-event-youre-the-only-heroine-9136953.html)
-    * [Maharashtra CM](https://www.news18.com/politics/maharashtra-new-cm-govt-formation-latest-news-mahayuti-mumbai-meeting-cancelled-eknath-shinde-heads-village-sitara-shrikant-bjp-suspense-9139580.html)
-    * [Aishwarya Rai Bachchan](https://www.news18.com/movies/aishwarya-rais-sister-in-law-makes-rare-comment-on-actors-mom-battling-cancer-she-wasnt-looking-9137946.html)
-    * [Skin Glow](https://www.news18.com/web-stories/lifestyle/5-hydrating-drinks-to-make-your-skin-glow-naturally-in-winter-2643380/)
+    * [Income Tax Raid](https://www.news18.com/india/cash-counted-with-36-machines-loaded-on-a-truck-heres-where-the-biggest-income-tax-raid-happened-9139773.html)
+    * [Rashmika Mandanna](https://www.news18.com/web-stories/celebrities/4-rashmika-mandannas-simple-yet-elegant-saree-looks-for-wedding-season-2649042/)
+    * [Samantha Ruth Prabhu](https://www.news18.com/movies/samantha-ruth-prabhu-makes-rare-comment-about-her-father-he-told-me-youre-not-smart-9140209.html)
+    * [Pooja Hegde](https://www.news18.com/web-stories/celebrities/5-pooja-hegde-inspired-saree-blouses-for-the-wedding-season-2647205/)
+    * [India vs Pak Live](https://www.news18.com/cricket/india-vs-pakistan-live-cricket-score-u19-asia-cup-today-match-india-cricket-team-vs-pakistan-cricket-team-latest-scorecard-liveblog-9140091.html)
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
@@ -170,12 +169,11 @@ Follow us on
 
 In Trends:
 
-* [Sonakshi Sinha](https://www.news18.com/movies/sonakshi-sinhas-mother-poonam-takes-a-dig-at-zaheer-iqbal-usse-shaadi-ki-jisko-9137967.html)
-* [Champions Trophy](https://www.news18.com/cricket/pcb-sticks-to-no-hybrid-model-stance-for-champions-trophy-icc-to-reconvene-meeting-on-saturday-9139797.html)
-* [Allu Arjun](https://www.news18.com/movies/allu-arjun-calls-rashmika-mandanna-his-home-at-pushpa-2-event-youre-the-only-heroine-9136953.html)
-* [Maharashtra CM](https://www.news18.com/politics/maharashtra-new-cm-govt-formation-latest-news-mahayuti-mumbai-meeting-cancelled-eknath-shinde-heads-village-sitara-shrikant-bjp-suspense-9139580.html)
-* [Aishwarya Rai Bachchan](https://www.news18.com/movies/aishwarya-rais-sister-in-law-makes-rare-comment-on-actors-mom-battling-cancer-she-wasnt-looking-9137946.html)
-* [Skin Glow](https://www.news18.com/web-stories/lifestyle/5-hydrating-drinks-to-make-your-skin-glow-naturally-in-winter-2643380/)
+* [Income Tax Raid](https://www.news18.com/india/cash-counted-with-36-machines-loaded-on-a-truck-heres-where-the-biggest-income-tax-raid-happened-9139773.html)
+* [Rashmika Mandanna](https://www.news18.com/web-stories/celebrities/4-rashmika-mandannas-simple-yet-elegant-saree-looks-for-wedding-season-2649042/)
+* [Samantha Ruth Prabhu](https://www.news18.com/movies/samantha-ruth-prabhu-makes-rare-comment-about-her-father-he-told-me-youre-not-smart-9140209.html)
+* [Pooja Hegde](https://www.news18.com/web-stories/celebrities/5-pooja-hegde-inspired-saree-blouses-for-the-wedding-season-2647205/)
+* [India vs Pak Live](https://www.news18.com/cricket/india-vs-pakistan-live-cricket-score-u19-asia-cup-today-match-india-cricket-team-vs-pakistan-cricket-team-latest-scorecard-liveblog-9140091.html)
 * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 
 * Follow Us
