@@ -20,16 +20,16 @@ Saturday, November 30 2024
 
 Latest
 
+* [What are Robocalls and How Can You Avoid Them?](https://digitpatrox.com/what-are-robocalls-and-how-can-you-avoid-them/)
+* [The Best Portable Power Stations of 2024](https://digitpatrox.com/the-best-portable-power-stations-of-2024/)
+* [A Laptop That’s Perfect for Anyone on Your List](https://digitpatrox.com/a-laptop-thats-perfect-for-anyone-on-your-list/)
+* [Saatva vs Purple mattresses — which Black Friday mattress sale should you shop?](https://digitpatrox.com/saatva-vs-purple-mattresses-which-black-friday-mattress-sale-should-you-shop/)
+* [The 240 best Black Friday deals you can still get today](https://digitpatrox.com/the-240-best-black-friday-deals-you-can-still-get-today/)
+* [Psst Audiophiles! Marshall Willen Bluetooth Speaker Can be Yours at 50% Off This Black Friday](https://digitpatrox.com/psst-audiophiles-marshall-willen-bluetooth-speaker-can-be-yours-at-50-off-this-black-friday/)
+* [The PlayStation VR2 Is Over 40% Off Right Now for Black Friday](https://digitpatrox.com/the-playstation-vr2-is-over-40-off-right-now-for-black-friday/)
+* [I Installed Ubuntu on My Old MacBook Air and I Wish I’d Done it Sooner](https://digitpatrox.com/i-installed-ubuntu-on-my-old-macbook-air-and-i-wish-id-done-it-sooner/)
+* [What It Costs to Hire a Hacker on the Dark Web](https://digitpatrox.com/what-it-costs-to-hire-a-hacker-on-the-dark-web/)
 * [I’m a serious audiophile — here’s 5 Cyber Monday headphone deals that I’d buy for myself](https://digitpatrox.com/im-a-serious-audiophile-heres-5-cyber-monday-headphone-deals-that-id-buy-for-myself/)
-* [New Windows Server 2012 zero-day gets free, unofficial patches](https://digitpatrox.com/new-windows-server-2012-zero-day-gets-free-unofficial-patches/)
-* [The 55 best deals we found under $30](https://digitpatrox.com/the-55-best-deals-we-found-under-30/)
-* [This 3D Printer is Going for an Unbelievable Price on Black Friday](https://digitpatrox.com/this-3d-printer-is-going-for-an-unbelievable-price-on-black-friday/)
-* [Canada sues Google over alleged anticompetitive practices in online advertising – Computerworld](https://digitpatrox.com/canada-sues-google-over-alleged-anticompetitive-practices-in-online-advertising-computerworld/)
-* [I’m a Tech Editor, and These Are My Favorite Black Friday Deals for Xbox, PlayStation, Switch, and PC Gamers](https://digitpatrox.com/im-a-tech-editor-and-these-are-my-favorite-black-friday-deals-for-xbox-playstation-switch-and-pc-gamers/)
-* [What Do Wide, Ultra-Wide, and Telephoto Lenses Do?](https://digitpatrox.com/what-do-wide-ultra-wide-and-telephoto-lenses-do/)
-* [Supply chain scares and Google’s AI code](https://digitpatrox.com/supply-chain-scares-and-googles-ai-code/)
-* [How to Delete Spam SMS Messages and Add New Blocked Numbers on Android](https://digitpatrox.com/how-to-delete-spam-sms-messages-and-add-new-blocked-numbers-on-android/)
-* [Runway makes it easy to turn a landscape into a portrait video — what’s next](https://digitpatrox.com/runway-makes-it-easy-to-turn-a-landscape-into-a-portrait-video-whats-next/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/vMgXai9CJL5SnSYgAeceYB-1200-80.jpg)](https://digitpatrox.com/im-a-serious-audiophile-heres-5-cyber-monday-headphone-deals-that-id-buy-for-myself/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/What-are-robocalls-and-how-can-you-avoid-them_.jpg)](https://digitpatrox.com/what-are-robocalls-and-how-can-you-avoid-them/)
     
-    [I’m a serious audiophile — here’s 5 Cyber Monday headphone deals that I’d buy for myself](https://digitpatrox.com/im-a-serious-audiophile-heres-5-cyber-monday-headphone-deals-that-id-buy-for-myself/)
+    [What are Robocalls and How Can You Avoid Them?](https://digitpatrox.com/what-are-robocalls-and-how-can-you-avoid-them/)
     
-    17 seconds ago
+    6 minutes ago
     
-* [![](https://www.bleepstatic.com/content/hl-images/2024/05/01/Windows_Server.jpg)](https://digitpatrox.com/new-windows-server-2012-zero-day-gets-free-unofficial-patches/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/52817226508_1c606f98a5_o.jpg)](https://digitpatrox.com/the-best-portable-power-stations-of-2024/)
     
-    [New Windows Server 2012 zero-day gets free, unofficial patches](https://digitpatrox.com/new-windows-server-2012-zero-day-gets-free-unofficial-patches/)
+    [The Best Portable Power Stations of 2024](https://digitpatrox.com/the-best-portable-power-stations-of-2024/)
     
-    1 hour ago
+    12 minutes ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/m7pTHB5VA5UIhOLfW-Jxy2cMiaw=/0x0:864x576/1200x628/filters:focal(432x288:433x289)/cdn.vox-cdn.com/uploads/chorus_asset/file/24835383/Amazon_Echo_Dot_Fifth_gen_Lifestyle_Image.jpg)](https://digitpatrox.com/the-55-best-deals-we-found-under-30/)
+* [![](https://assets.techrepublic.com/uploads/2024/11/tra_20241125-dell-inspiron-15-16-5-laptop-2023-16gb-ram-512gb-ssd-win-11-home-refurbished.jpg)](https://digitpatrox.com/a-laptop-thats-perfect-for-anyone-on-your-list/)
     
-    [The 55 best deals we found under $30](https://digitpatrox.com/the-55-best-deals-we-found-under-30/)
+    [A Laptop That’s Perfect for Anyone on Your List](https://digitpatrox.com/a-laptop-thats-perfect-for-anyone-on-your-list/)
     
-    1 hour ago
+    54 minutes ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/11/FlashForge-Adventurer-5M-3D-Printer-Black-Friday-Deal.jpg)](https://digitpatrox.com/this-3d-printer-is-going-for-an-unbelievable-price-on-black-friday/)
+* [![](https://cdn.mos.cms.futurecdn.net/B2UVgJ7S4QyoVEToMZFXTU-1200-80.jpg)](https://digitpatrox.com/saatva-vs-purple-mattresses-which-black-friday-mattress-sale-should-you-shop/)
     
-    [This 3D Printer is Going for an Unbelievable Price on Black Friday](https://digitpatrox.com/this-3d-printer-is-going-for-an-unbelievable-price-on-black-friday/)
+    [Saatva vs Purple mattresses — which Black Friday mattress sale should you shop?](https://digitpatrox.com/saatva-vs-purple-mattresses-which-black-friday-mattress-sale-should-you-shop/)
+    
+    58 minutes ago
+    
+* [![](https://cdn.vox-cdn.com/thumbor/T_ynbpBPpYxkJDjzxEXNmv3abiQ=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25746665/247350_CMBF_2024_EWinataBFDealsYouCanStillGet.png)](https://digitpatrox.com/the-240-best-black-friday-deals-you-can-still-get-today/)
+    
+    [The 240 best Black Friday deals you can still get today](https://digitpatrox.com/the-240-best-black-friday-deals-you-can-still-get-today/)
     
     2 hours ago
-    
-* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3614938-0-56502900-1732883457-shutterstock_1875389428.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/canada-sues-google-over-alleged-anticompetitive-practices-in-online-advertising-computerworld/)
-    
-    [Canada sues Google over alleged anticompetitive practices in online advertising – Computerworld](https://digitpatrox.com/canada-sues-google-over-alleged-anticompetitive-practices-in-online-advertising-computerworld/)
-    
-    4 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [17 seconds ago
+* [6 minutes ago
     
-    ### I’m a serious audiophile — here’s 5 Cyber Monday headphone deals that I’d buy for myself](https://digitpatrox.com/im-a-serious-audiophile-heres-5-cyber-monday-headphone-deals-that-id-buy-for-myself/)
-* [1 hour ago
+    ### What are Robocalls and How Can You Avoid Them?](https://digitpatrox.com/what-are-robocalls-and-how-can-you-avoid-them/)
+* [12 minutes ago
     
-    ### New Windows Server 2012 zero-day gets free, unofficial patches](https://digitpatrox.com/new-windows-server-2012-zero-day-gets-free-unofficial-patches/)
-* [1 hour ago
+    ### The Best Portable Power Stations of 2024](https://digitpatrox.com/the-best-portable-power-stations-of-2024/)
+* [54 minutes ago
     
-    ### The 55 best deals we found under $30](https://digitpatrox.com/the-55-best-deals-we-found-under-30/)
+    ### A Laptop That’s Perfect for Anyone on Your List](https://digitpatrox.com/a-laptop-thats-perfect-for-anyone-on-your-list/)
 
 Most Popular Topics
 
-* [August 16, 2024
+* [September 22, 2024
     
-    ### Wordle Answer for Today, August 16, 2024](https://digitpatrox.com/wordle-answer-for-today-august-16-2024/)
-* [August 13, 2024
-    
-    ### NYT Strands Today: Hints, Answers & Spangram for August 13](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-august-13/)
+    ### Ford Maverick Recalled Because Backup Camera Display Can Freeze](https://digitpatrox.com/ford-maverick-recalled-because-backup-camera-display-can-freeze/)
 * [October 26, 2024
     
-    ### Here’s How You Should Approach It](https://digitpatrox.com/heres-how-you-should-approach-it/)
+    ### New Cisco ASA and FTD features block VPN brute-force password attacks](https://digitpatrox.com/new-cisco-asa-and-ftd-features-block-vpn-brute-force-password-attacks/)
+* [August 20, 2024
+    
+    ### Start a Graphic Design Business Today](https://digitpatrox.com/start-a-graphic-design-business-today/)
 
 Last Modified Topics
 
-* [4 hours ago
-    
-    ### What Do Wide, Ultra-Wide, and Telephoto Lenses Do?](https://digitpatrox.com/what-do-wide-ultra-wide-and-telephoto-lenses-do/)
 * [5 hours ago
     
-    ### Supply chain scares and Google’s AI code](https://digitpatrox.com/supply-chain-scares-and-googles-ai-code/)
+    ### The PlayStation VR2 Is Over 40% Off Right Now for Black Friday](https://digitpatrox.com/the-playstation-vr2-is-over-40-off-right-now-for-black-friday/)
 * [5 hours ago
     
-    ### How to Delete Spam SMS Messages and Add New Blocked Numbers on Android](https://digitpatrox.com/how-to-delete-spam-sms-messages-and-add-new-blocked-numbers-on-android/)
+    ### I Installed Ubuntu on My Old MacBook Air and I Wish I’d Done it Sooner](https://digitpatrox.com/i-installed-ubuntu-on-my-old-macbook-air-and-i-wish-id-done-it-sooner/)
+* [6 hours ago
+    
+    ### What It Costs to Hire a Hacker on the Dark Web](https://digitpatrox.com/what-it-costs-to-hire-a-hacker-on-the-dark-web/)
 
 Most Viewed Topics
 
+* [August 11, 2024
+    
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 13, 2024
     
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
-* [August 13, 2024
-    
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 * [October 2, 2024
     
     ### The best noise-canceling headphones for 2024](https://digitpatrox.com/the-best-noise-canceling-headphones-for-2024/)
