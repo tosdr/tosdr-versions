@@ -385,15 +385,15 @@ What Customers Are Saying
 
 Based on 305,469 Carpet Cleaning Services Reviews
 
-**AJ.** - Elizabethton, TN - 11/29/2024
+**FG.** - Harrisburg, PA - 11/29/2024
 
 (5.0 Out of 5 stars)
 
-Nate, the technician was very friendly and he did a great job cleaning our carpets, tile floor, and a large rug. **JK.** - Green Bay, WI - 11/28/2024
+From the phone call to make the appointment, to the text from Jake regarding arrival time, his thoughtful attention to detail and the wonderful job he did on cleaning the stairs and chairs, everything about the service was perfect. Yes, I will most defiantly be recommending Oxi Fresh. **LG.** - Oakland, CA - 11/29/2024
 
 (5.0 Out of 5 stars)
 
-Makes rugs look new! **EA.** - Kentfield, CA - 11/28/2024
+The prompt service -Corey knew what he was doing- He was very polite and courteous **AJ.** - St. Louis, MO - 11/28/2024
 
 (5.0 Out of 5 stars)
 
