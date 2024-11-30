@@ -47,7 +47,7 @@ Wir freuen uns, dass Sie unsere Website besuchen und bedanken uns für Ihr Inter
   
 1.2
 
-Verantwortlicher für die Datenverarbeitung auf dieser Website im Sinne der Datenschutz-Grundverordnung (DSGVO) ist hinterland camp GmbH, Susannenstr. 21a, 20357 Hamburg, Deutschland, Tel.: +49-40-22862288-2, E-Mail: marcus@hinterland.camp. Der für die Verarbeitung von personenbezogenen Daten Verantwortliche ist diejenige natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten entscheidet.
+Verantwortlicher für die Datenverarbeitung auf dieser Website im Sinne der Datenschutz-Grundverordnung (DSGVO) ist hinterland camp GmbH, Susannenstr. 21a, 20357 Hamburg, Deutschland, Tel.: +49-40-22862288-2, E-Mail: [\[email protected\]](https://www.hinterland.camp/cdn-cgi/l/email-protection). Der für die Verarbeitung von personenbezogenen Daten Verantwortliche ist diejenige natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten entscheidet.
 
   
 1.3
