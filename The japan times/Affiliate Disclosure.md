@@ -253,25 +253,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Japan panel proposes law to monitor communications for cyber defense](https://www.japantimes.co.jp/news/2024/11/29/japan/politics/panel-cybersecurity-recommendations/ "Japan panel proposes law to monitor communications for cyber defense")
+[Jihadis and allies breach Syria's second city in lightning assault](https://www.japantimes.co.jp/news/2024/11/30/world/syria-aleppo-rebels-advance/ "Jihadis and allies breach Syria's second city in lightning assault")
 
-9 hours ago
+1 hour ago
 
-[Starbucks serves South Koreans coffee and a glimpse into the North](https://www.japantimes.co.jp/news/2024/11/29/asia-pacific/south-korea-north-korea-view-starbucks/ "Starbucks serves South Koreans coffee and a glimpse into the North")
+[Pete Hegseth’s mother accused her son of mistreating women for years](https://www.japantimes.co.jp/news/2024/11/30/world/politics/pete-hegseth-mistreating-women-mother/ "Pete Hegseth’s mother accused her son of mistreating women for years")
 
-10 hours ago
+1 hour ago
 
-[Shiseido profit outlook squeezed by China downturn, president says](https://www.japantimes.co.jp/business/2024/11/29/companies/shiseido-profit-china/ "Shiseido profit outlook squeezed by China downturn, president says")
+[France shows off restored Notre Dame after 'impossible' restoration](https://www.japantimes.co.jp/news/2024/11/30/world/france-restored-notre-dame/ "France shows off restored Notre Dame after 'impossible' restoration")
 
-10 hours ago
+2 hours ago
 
-[Stimulus staved off years of deflation, BOJ study says](https://www.japantimes.co.jp/business/2024/11/29/economy/japan-deflation-stimulus/ "Stimulus staved off years of deflation, BOJ study says")
+[Saudi Arabia abandons pursuit of U.S. defense treaty over Israel stalemate](https://www.japantimes.co.jp/news/2024/11/30/world/politics/saudi-arabia-us-defense-treaty-israel/ "Saudi Arabia abandons pursuit of U.S. defense treaty over Israel stalemate")
 
-11 hours ago
+2 hours ago
 
-[Japan earmarks extra ¥1.5 trillion for chips and AI this year](https://www.japantimes.co.jp/business/2024/11/29/tech/japan-budget-chips-tech/ "Japan earmarks extra ¥1.5 trillion for chips and AI this year")
+[Canada’s Justin Trudeau arrives in Florida for meeting with Trump](https://www.japantimes.co.jp/news/2024/11/30/world/politics/canada-trudeu-trump-tariffs/ "Canada’s Justin Trudeau arrives in Florida for meeting with Trump")
 
-11 hours ago
+2 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
