@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![How do you know if you have stage 1 lung cancer?](https://www.pintas.com/wp-content/uploads/2020/11/how-do-you-know-if-you-have-stage-1-lung-cancer.jpg "How Do You Know if You Have Stage 1 Lung Cancer?")](https://www.pintas.com/lung-cancer/how-do-you-know-if-you-have-stage-1-lung-cancer/ "How Do You Know if You Have Stage 1 Lung Cancer?")
+[![Are certain people most likely to get mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-are-certain-people-most-likely-to-get-mesothelioma.jpg "Are Certain People Most Likely to Get Mesothelioma?")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/are-certain-people-most-likely-to-get-mesothelioma/ "Are Certain People Most Likely to Get Mesothelioma?")
 
-[#### How Do You Know if You Have Stage 1 Lung Cancer?](https://www.pintas.com/lung-cancer/how-do-you-know-if-you-have-stage-1-lung-cancer/)
+[#### Are Certain People Most Likely to Get Mesothelioma?](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/are-certain-people-most-likely-to-get-mesothelioma/)
 
-[![What is the average mesothelioma settlement?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-what-is-the-average-mesothelioma-settlement.jpg "What Is the Average Mesothelioma Settlement?")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/average-settlement "What Is the Average Mesothelioma Settlement?")
+[![Can someone be arrested for emotional abuse?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-can-someone-be-arrested-for-emotional-abuse.jpg "Can Someone Be Arrested for Emotional Abuse?")](https://www.pintas.com/faq/can-someone-be-arrested-for-emotional-abuse/ "Can Someone Be Arrested for Emotional Abuse?")
 
-[#### What Is the Average Mesothelioma Settlement?](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/average-settlement)
+[#### Can Someone Be Arrested for Emotional Abuse?](https://www.pintas.com/faq/can-someone-be-arrested-for-emotional-abuse/)
 
-[![What is subdural hematoma?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-is-subdural-hematoma-scaled.jpg "What Is Subdural Hematoma?")](https://www.pintas.com/faq/what-is-subdural-hematoma/ "What Is Subdural Hematoma?")
+[![Can you sue for a car accident if you are not hurt?](https://www.pintas.com/wp-content/uploads/2020/07/car-accidents-can-you-sue-for-a-car-accident-if-you-are-not-hurt.jpg "Can You Sue For a Car Accident If You Are Not Hurt?")](https://www.pintas.com/practice-areas/car-accident-lawyer/can-you-sue-for-a-car-accident-if-you-are-not-hurt/ "Can You Sue For a Car Accident If You Are Not Hurt?")
 
-[#### What Is Subdural Hematoma?](https://www.pintas.com/faq/what-is-subdural-hematoma/)
+[#### Can You Sue For a Car Accident If You Are Not Hurt?](https://www.pintas.com/practice-areas/car-accident-lawyer/can-you-sue-for-a-car-accident-if-you-are-not-hurt/)
 
 ### Injured?  
 Tell Us What Happened.
