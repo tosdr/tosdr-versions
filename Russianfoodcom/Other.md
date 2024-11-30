@@ -146,11 +146,6 @@
 | [Картинки с выставок](https://www.russianfood.com/themes/?theme_id=18) | 4,98 |
 | Репортажи с выставок производителей продуктов питания. Рассказы о продукции известных и еще неизвестных брендов |     |
 
-Сейчас читают
-
-* [Закусочные слойки с фаршем и сыром](https://www.russianfood.com/recipes/recipe.php?rid=170917)
-* [Салат с авокадо, огурцами и пекинской капустой](https://www.russianfood.com/recipes/recipe.php?rid=164840)
-
 |     |
 | --- |
 | Поиск рецептов<br>-------------- |
@@ -171,6 +166,20 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Красная, белая, вкусная. ФАСОЛЬ по-необычному (21)](https://www.russianfood.com/reading/?post_id=22942) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/488/sm_487535.jpg)](https://www.russianfood.com/reading/?post_id=22942)
+
+Индейка с овощами и фасолью. Лобио из консервированной фасоли. Картофель с фасолью и маринованными огурцами. Картофель со свининой и фасолью.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22942)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Обычное по-необычному](https://www.russianfood.com/blogs/?id=325689) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22942#comments) | 30.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -198,7 +207,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты на Новый год](https://www.russianfood.com/blogs/?id=338420) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22940#comments) | 30.11.24 |     |
+|     | [Лучшие рецепты на Новый год](https://www.russianfood.com/blogs/?id=338420) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22940#comments) | 30.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -212,7 +221,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [HomeRecipes](https://www.russianfood.com/blogs/?id=300916) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174973#comments) | 30.11.24 |     |
+|     | [HomeRecipes](https://www.russianfood.com/blogs/?id=300916) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174973#comments) | 30.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -368,20 +377,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=172820#comments) | 28.11.24 |     |
 
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Сливочный суп с грибами и фрикадельками](https://www.russianfood.com/recipes/recipe.php?rid=172626) |     |
-
-[![Фото к рецепту: Сливочный суп с грибами и фрикадельками](//img1.russianfood.com/dycontent/images_upl/726/sm_725953.jpg "Фото к рецепту: Сливочный суп с грибами и фрикадельками")](https://www.russianfood.com/recipes/recipe.php?rid=172626)
-
-Фрикадельки из фарша не нужно формировать - куриный фарш, смешанный с измельчённым луком и яйцом, добавляется в суп с помощью ложки. Шампиньоны перед добавлением в суп обжариваются отдельно, что делает их ароматнее.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=172626)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=172626#comments) | 28.11.24 |     |
-
 |     |
 | --- |
 | ← Предыдущая \| [Следующая →](https://www.russianfood.com/?page=2) |
@@ -453,8 +448,8 @@
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/753/alt1_752947.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174551) | [![](//img1.russianfood.com/dycontent/images_upl/750/alt1_749952.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174598) | [![](//img1.russianfood.com/dycontent/images_upl/711/alt1_710152.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=172679) | [![](//img1.russianfood.com/dycontent/images_upl/756/alt1_755880.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174973) |
-| [Чечевичная пицца с грибами, перцем и кукурузой](https://www.russianfood.com/recipes/recipe.php?rid=174551) | [Булочки с творогом, печёным сельдереем и маринованными огурцами](https://www.russianfood.com/recipes/recipe.php?rid=174598) | [Песочные рогалики "Конфетки" с ирисками](https://www.russianfood.com/recipes/recipe.php?rid=172679) | [Салат с запечённой тыквой, руколой и брынзой](https://www.russianfood.com/recipes/recipe.php?rid=174973) |
+| [![](//img1.russianfood.com/dycontent/images_upl/750/alt1_749952.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174598) | [![](//img1.russianfood.com/dycontent/images_upl/753/alt1_752947.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174551) | [![](//img1.russianfood.com/dycontent/images_upl/756/alt1_755880.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174973) | [![](//img1.russianfood.com/dycontent/images_upl/711/alt1_710152.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=172679) |
+| [Булочки с творогом, печёным сельдереем и маринованными огурцами](https://www.russianfood.com/recipes/recipe.php?rid=174598) | [Чечевичная пицца с грибами, перцем и кукурузой](https://www.russianfood.com/recipes/recipe.php?rid=174551) | [Салат с запечённой тыквой, руколой и брынзой](https://www.russianfood.com/recipes/recipe.php?rid=174973) | [Песочные рогалики "Конфетки" с ирисками](https://www.russianfood.com/recipes/recipe.php?rid=172679) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -470,3 +465,5 @@
 [![Рейтинг@Mail.ru](//top-fwz1.mail.ru/counter?id=1447532;t=452;l=1)](http://top.mail.ru/jump?from=1447532)       
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
+
+(172)
