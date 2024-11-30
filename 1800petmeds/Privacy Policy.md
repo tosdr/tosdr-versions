@@ -4,8 +4,8 @@ We’re sorry, but our website doesn’t work properly without JavaScript enable
 
       
 
-50% off Your First Autoship  
-Use Code: BLACKFRIDAY50 (Up to $90 Max Savings. [Exclusions Apply](https://www.1800petmeds.com/tc.html).)
+New Customers Save 40% With Autoship:  
+Use Code: NEW40 (Up to $30 Max Savings. [Exclusions Apply](https://www.1800petmeds.com/tc.html).)
 
 [![PetMeds](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw79ee4aef/images/petmeds-logo.svg)](https://www.1800petmeds.com/ "PetMeds Home")
 
@@ -160,7 +160,7 @@ Products Education
     
     [![NexGard](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw055bf262/brand-logos/nexgardLogo.png)](https://www.1800petmeds.com/search?prefn1=brand&prefv1=NexGard)
     
-    [![Nutramax](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dwf8a14e2f/brand-logos/logo-nutramax-new-2.png)](https://www.1800petmeds.com/search?q=nutramax)
+    [![Nutramax](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw240f22ce/brand-logos/logo-nutramax-new-2.png)](https://www.1800petmeds.com/search?q=nutramax)
     
     [![Royal Canin](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dwae804a1a/brand-logos/brand-royal-canin.jpg)](https://www.1800petmeds.com/royal-canin.html)
     
@@ -314,7 +314,7 @@ Navigation [×](javascript:void(0))
     
     [![NexGard](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw055bf262/brand-logos/nexgardLogo.png)](https://www.1800petmeds.com/search?prefn1=brand&prefv1=NexGard)
     
-    [![Nutramax](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dwf8a14e2f/brand-logos/logo-nutramax-new-2.png)](https://www.1800petmeds.com/search?q=nutramax)
+    [![Nutramax](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw240f22ce/brand-logos/logo-nutramax-new-2.png)](https://www.1800petmeds.com/search?q=nutramax)
     
     [![Royal Canin](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dwae804a1a/brand-logos/brand-royal-canin.jpg)](https://www.1800petmeds.com/royal-canin.html)
     
