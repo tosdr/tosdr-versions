@@ -147,15 +147,3 @@ Accept Deny View preferences Save preferences [View preferences](#)
 [{title}](#) [{title}](#) [{title}](#)
 
 Manage consent
-
-Happy Thanksgiving
-==================
-
-from American DataBank!
-=======================
-
-### Our office will be closed: November 28th – November 29th.
-
-###  We will resume office hours: Saturday, November 30th.
-
-×
