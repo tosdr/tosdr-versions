@@ -181,6 +181,9 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Savage Arms Announces the New Stance XR Micro Pistol](https://www.thegunpage.com/savage-arms-announces-the-new-stance-xr-micro-pistol/10612215)
+* [Pro-Gun, Anti-Gun Bills Pre-Filed In Lone Star State Legislature](https://www.thegunpage.com/pro-gun-anti-gun-bills-pre-filed-in-lone-star-state-legislature/10612213)
+* [Special Forces Bros Test $650 Glock 19 vs. $4,300 Staccato XC](https://www.thegunpage.com/special-forces-bros-test-650-glock-19-vs-4300-staccato-xc/10612212)
 * [Silencer Saturday #357: Black Friday Suppressor Sales](https://www.thegunpage.com/silencer-saturday-357-black-friday-suppressor-sales/10612207)
 * [The BAD KAK WW III Build](https://www.thegunpage.com/the-bad-kak-ww-iii-build/10612204)
 * [Illegal Alien’s Purchase Of 170 Guns Raises Eyebrows](https://www.thegunpage.com/illegal-aliens-purchase-of-170-guns-raises-eyebrows/10612201)
@@ -188,9 +191,6 @@ Recent Posts
 * [POTD: FN Minimi & FORT-600 In Ukraine](https://www.thegunpage.com/potd-fn-minimi-fort-600-in-ukraine/10612198)
 * [TFB Podcast Roundup 157: The Black Friday 2024 Roundup](https://www.thegunpage.com/tfb-podcast-roundup-157-the-black-friday-2024-roundup/10612199)
 * [Medical Academy Backs Suppressors for Hearing Protection](https://www.thegunpage.com/medical-academy-backs-suppressors-for-hearing-protection/10612192)
-* [Smith & Wesson Gets Booted Off Facebook](https://www.thegunpage.com/smith-wesson-gets-booted-off-facebook/10612194)
-* [NY Pols Plan To Require Firearms Seizures At Domestic Calls](https://www.thegunpage.com/ny-pols-plan-to-require-firearms-seizures-at-domestic-calls/10612188)
-* [Oldest Gun Ever Found In U.S. Unearthed In Arizona](https://www.thegunpage.com/oldest-gun-ever-found-in-u-s-unearthed-in-arizona/10612185)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
