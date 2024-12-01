@@ -140,6 +140,10 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 
 ### See also
 
+[![Kenneth Horne](https://cdn.comedy.co.uk/images/library/people/300x200/k/kenneth_horne.jpg "Kenneth Horne")](https://www.comedy.co.uk/features/comedy_chronicles/kenneth-horne/) Features
+
+[Comedy Chronicles: The incomparable charm of Kenneth Horne](https://www.comedy.co.uk/features/comedy_chronicles/kenneth-horne/)
+
 [![Alfie Brown](https://cdn.comedy.co.uk/images/library/people/300x200/a/alfie_brown_2024_c.jpg "Alfie Brown")](https://www.comedy.co.uk/live/fgwg/alfie-brown/) Live
 
 [First Gig, Worst Gig: Alfie Brown](https://www.comedy.co.uk/live/fgwg/alfie-brown/)
@@ -151,10 +155,6 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 [![Vidya Divakaran](https://cdn.comedy.co.uk/images/library/people/300x200/v/vidya_divakaran.jpg "Vidya Divakaran")](https://www.comedy.co.uk/live/features/djs-and-comedians-are-the-same/) Live
 
 [Why DJs and comedians are basically the same](https://www.comedy.co.uk/live/features/djs-and-comedians-are-the-same/)
-
-[![Craig Campbell](https://cdn.comedy.co.uk/images/library/people/300x200/c/craig_campbell_2024.jpg "Craig Campbell")](https://www.comedy.co.uk/live/random8/craig-campbell/) Live
-
-[Random 8: Craig Campbell](https://www.comedy.co.uk/live/random8/craig-campbell/)
 
 #### Subscribe to our newsletters
 
