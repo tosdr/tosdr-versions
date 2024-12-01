@@ -19,7 +19,7 @@
 search  
 
 * [Repair Service](https://www.thomannmusic.com/helpdesk_repair.html)
-* [30-Days Money-Back](https://www.thomannmusic.com/helpdesk_moneyback.html)
+* [Payment Security](https://www.thomannmusic.com/helpdesk_paymentsecurity.html)
 
 en · $
 
