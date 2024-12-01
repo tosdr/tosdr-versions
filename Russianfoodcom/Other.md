@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_9.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_10.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -444,13 +444,6 @@
 |     |     |
 | [Подписаться письмом](mailto:home.cookery.prostierecepti-sub@subscribe.ru?subj=subscribe) |     |
 
-Новые рецепты:
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/756/alt1_755880.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174973) | [![](//img1.russianfood.com/dycontent/images_upl/750/alt1_749952.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174598) | [![](//img1.russianfood.com/dycontent/images_upl/711/alt1_710152.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=172679) | [![](//img1.russianfood.com/dycontent/images_upl/753/alt1_752947.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174551) |
-| [Салат с запечённой тыквой, руколой и брынзой](https://www.russianfood.com/recipes/recipe.php?rid=174973) | [Булочки с творогом, печёным сельдереем и маринованными огурцами](https://www.russianfood.com/recipes/recipe.php?rid=174598) | [Песочные рогалики "Конфетки" с ирисками](https://www.russianfood.com/recipes/recipe.php?rid=172679) | [Чечевичная пицца с грибами, перцем и кукурузой](https://www.russianfood.com/recipes/recipe.php?rid=174551) |
-
 |     |     |     |
 | --- | --- | --- |
 | ![](//img1.russianfood.com/images/common/bottom_line1.jpg) | ![](//img1.russianfood.com/images/common/bottom_line2.jpg) |     |
@@ -466,4 +459,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(121)
+(113)
