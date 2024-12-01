@@ -302,19 +302,17 @@ BleepingComputer.com has partnered with [StackCommerce](https://stackcommerce.co
 
 If you have any questions or concerns regarding these policies, please free to contact us here: [https://www.bleepingcomputer.com/contact/](https://www.bleepingcomputer.com/contact/)
 
-[![ThreatLocker](https://www.bleepstatic.com/c/t/threatlocker/ThreatLocker_400x500.png)](https://www.threatlocker.com/why-threatlocker?utm_source=bleeping_computer&utm_medium=sponsor&utm_campaign=why-threatlocker_11-1-24&utm_content=why-threatlocker&utm_term=display)
-
 Popular Stories
 
-* [![Cloudflare](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Cloudflare says it lost 55% of logs pushed to customers for 3.5 hours](https://www.bleepingcomputer.com/news/security/cloudflare-says-it-lost-55-percent-of-logs-pushed-to-customers-for-35-hours/)
-* [![Pirate](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Police bust pirate streaming service making €250 million per month](https://www.bleepingcomputer.com/news/technology/police-bust-pirate-streaming-service-making-250-million-per-month/)
 * [![Tor Browsers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Tor needs 200 new WebTunnel bridges to fight censorship](https://www.bleepingcomputer.com/news/security/tor-needs-200-new-webtunnel-bridges-to-fight-censorship/)
+* [![Windows Server](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    New Windows Server 2012 zero-day gets free, unofficial patches](https://www.bleepingcomputer.com/news/security/new-windows-server-2012-zero-day-gets-free-unofficial-patches/)
+* [![Hospital](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    UK hospital network postpones procedures after cyberattack](https://www.bleepingcomputer.com/news/security/uk-hospital-network-postpones-procedures-after-cyberattack/)
 
 ##### Follow us:
 
