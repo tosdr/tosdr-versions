@@ -85,6 +85,8 @@ Terms of Use
 
 Should a court of competent jurisdiction rule this Amendment provision invalid, then this Amendment clause shall be terminated as part of this agreement. All amendments to the Terms shall be forward looking.
 
+### Help Us Stay On-Air
+
 [![](https://adbuzz.website123.live/adserver/www/delivery/avw.php?zoneid=6&n=01bdecc)](https://adbuzz.website123.live/adserver/www/delivery/ck.php?n=01bdecc)
 
 ### AD
@@ -118,9 +120,7 @@ Should a court of competent jurisdiction rule this Amendment provision invalid, 
 
 [![Listen on myTuner radio!](https://static2.mytuner.mobi/static/widgets/mytuner-radio.png)![Listen of myTuner Radio!](https://static2.mytuner.mobi/static/widgets/mytuner-logo-90.png)](https://mytuner-radio.com/?utm_source=widget&utm_medium=button&utm_campaign=64x64 "Listen on myTuner radio!")[![RadioPlug.co.uk](https://radioplug.co.uk/LOGO.png)](https://www.radioplug.co.uk/)
 
-### Support Pumpkin FM
-
-[![3-2-paypal-donate-button-png-image-thumb](https://pumpkinfm.com/wp-content/uploads/2022/06/3-2-paypal-donate-button-png-image-thumb.png)](https://www.paypal.com/donate?campaign_id=F74RPZBEKZWZ6)
+### Help Pumpkin FM Stay On-Air
 
 ### Search Pumpkin FM
 
