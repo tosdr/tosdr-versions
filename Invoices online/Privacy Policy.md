@@ -117,57 +117,61 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> One of the best decisions I've made for my business
-> ---------------------------------------------------
+> Support even on Sundays!
+> ------------------------
 > 
-> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
+> Thanks Adriaan...
+> 
+> You guys even work on Sundays?
+> 
+> I’m impressed!!
 
-Anri van der Linde
+Johan Botha - Brand Xplosion
 
-![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=f71c1e2ca6326a805e7657efbcd54b56930c67b8a17efe5908eef0c1c0b8c01b&c=54856506)  
-Dombieterfontein (PTY) LTD
+![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=3068d48773f57cbd9f17965633357794d5f6f40fea190acbac7b7fa981096e72&c=189375484)  
+Wiselink Broadband Dundee
 
-![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=f71c1e2ca6326a805e7657efbcd54b56930c67b8a17efe5908eef0c1c0b8c01b&c=113531360)  
-Brand's Fountains Deco and Events Coordinatoin
+![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=3068d48773f57cbd9f17965633357794d5f6f40fea190acbac7b7fa981096e72&c=106710141)  
+Nogana Events and Decor
 
-![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=f71c1e2ca6326a805e7657efbcd54b56930c67b8a17efe5908eef0c1c0b8c01b&c=163510529)  
-TRACKFORCE (Pty) Ltd
+![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=3068d48773f57cbd9f17965633357794d5f6f40fea190acbac7b7fa981096e72&c=152930864)  
+#DiGi3 Marketing & Design
 
-![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=f71c1e2ca6326a805e7657efbcd54b56930c67b8a17efe5908eef0c1c0b8c01b&c=143034902)  
-Repairs In Motion
+![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=3068d48773f57cbd9f17965633357794d5f6f40fea190acbac7b7fa981096e72&c=12374700)  
+Kinetic Power Solutions (Pty) Ltd.
 
-![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=f71c1e2ca6326a805e7657efbcd54b56930c67b8a17efe5908eef0c1c0b8c01b&c=175535699)  
-Oak Tree Immigration
-
-![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=f71c1e2ca6326a805e7657efbcd54b56930c67b8a17efe5908eef0c1c0b8c01b&c=7628982)  
-M's Frozen Delights
-
-![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=f71c1e2ca6326a805e7657efbcd54b56930c67b8a17efe5908eef0c1c0b8c01b&c=108857847)  
-Electro-Heat
-
-![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=f71c1e2ca6326a805e7657efbcd54b56930c67b8a17efe5908eef0c1c0b8c01b&c=94857402)  
+![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=3068d48773f57cbd9f17965633357794d5f6f40fea190acbac7b7fa981096e72&c=129734282)  
 Tiny Cuddles Photography
 
-![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=f71c1e2ca6326a805e7657efbcd54b56930c67b8a17efe5908eef0c1c0b8c01b&c=160436033)  
-Abandoned Vehicle and Truck Solutions
+![valued client Safe Train Mokgethwa (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8103&file=logo_300_100&type=&fe=3068d48773f57cbd9f17965633357794d5f6f40fea190acbac7b7fa981096e72&c=48120201)  
+Safe Train Mokgethwa (PTY) Ltd
 
-![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=f71c1e2ca6326a805e7657efbcd54b56930c67b8a17efe5908eef0c1c0b8c01b&c=38469337)  
-Blue Sky Solar Services
+![valued client Roekeloos Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8320&file=logo_300_100&type=&fe=3068d48773f57cbd9f17965633357794d5f6f40fea190acbac7b7fa981096e72&c=162190065)  
+Roekeloos Group
 
-![valued client Meyer Towing & Recovery ](https://www.invoicesonline.co.za/scripts/image.php?bid=7983&file=logo_300_100&type=&fe=f71c1e2ca6326a805e7657efbcd54b56930c67b8a17efe5908eef0c1c0b8c01b&c=63149786)  
-Meyer Towing & Recovery
+![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=3068d48773f57cbd9f17965633357794d5f6f40fea190acbac7b7fa981096e72&c=122123854)  
+TurboFibre
 
-![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=f71c1e2ca6326a805e7657efbcd54b56930c67b8a17efe5908eef0c1c0b8c01b&c=209114351)  
-Imvubu General Trading
+![valued client Cooper Power](https://www.invoicesonline.co.za/scripts/image.php?bid=8689&file=logo_300_100&type=&fe=3068d48773f57cbd9f17965633357794d5f6f40fea190acbac7b7fa981096e72&c=34195456)  
+Cooper Power
 
-![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=f71c1e2ca6326a805e7657efbcd54b56930c67b8a17efe5908eef0c1c0b8c01b&c=15964954)  
-IAS Logistics (Pty) Ltd T/A MULTITRANSIT
+![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=3068d48773f57cbd9f17965633357794d5f6f40fea190acbac7b7fa981096e72&c=72527250)  
+Little Nutty Professors
 
-![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=f71c1e2ca6326a805e7657efbcd54b56930c67b8a17efe5908eef0c1c0b8c01b&c=101656045)  
-VerdanTech Pty Ltd
+![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=3068d48773f57cbd9f17965633357794d5f6f40fea190acbac7b7fa981096e72&c=126870186)  
+CBR Verwe/Paints
 
-![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=f71c1e2ca6326a805e7657efbcd54b56930c67b8a17efe5908eef0c1c0b8c01b&c=95286788)  
-SR Travel Services
+![valued client Shades of Summer Investments 184cc t/a Junker Construction](https://www.invoicesonline.co.za/scripts/image.php?bid=7053&file=logo_300_100&type=&fe=3068d48773f57cbd9f17965633357794d5f6f40fea190acbac7b7fa981096e72&c=53008974)  
+Shades of Summer Investments 184cc t/a Junker Construction
+
+![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=3068d48773f57cbd9f17965633357794d5f6f40fea190acbac7b7fa981096e72&c=46452692)  
+APTV Telecoms CC
+
+![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=3068d48773f57cbd9f17965633357794d5f6f40fea190acbac7b7fa981096e72&c=162847398)  
+MOSELA GROUP Pty(ltd)
+
+![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=3068d48773f57cbd9f17965633357794d5f6f40fea190acbac7b7fa981096e72&c=43411526)  
+FJW Security Cc
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
