@@ -172,10 +172,10 @@ F-Droid is powered by your donations!
 
 ### News
 
+* [Call for Community Council Nominations](https://f-droid.org/en/2024/12/01/call-for-community-council-nominations.html) Dec 01, 2024
 * [Grab your raccoons](https://f-droid.org/en/2024/11/28/twif.html) Nov 28, 2024
 * [Find your way around apps](https://f-droid.org/en/2024/11/21/twif.html) Nov 21, 2024
 * [Heading headwind with FOSS solutions](https://f-droid.org/en/2024/11/14/twif.html) Nov 14, 2024
 * [Upgrade your email client, maybe](https://f-droid.org/en/2024/11/07/twif.html) Nov 07, 2024
-* [Dealing with the heat](https://f-droid.org/en/2024/10/31/twif.html) Oct 31, 2024
 
-© 2010-2024 F-Droid Contributors (F-Droid 2024-11-30, fdroid-website [2.292](https://gitlab.com/fdroid/fdroid-website/tree/c7e8719079)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
+© 2010-2024 F-Droid Contributors (F-Droid 2024-11-30, fdroid-website [2.293](https://gitlab.com/fdroid/fdroid-website/tree/ffde1039ab)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
