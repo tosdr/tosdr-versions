@@ -206,15 +206,15 @@ No related posts.
 #### Today’s Top Page Views
 
 * [Media Bias/Fact Check News](https://mediabiasfactcheck.com/)
-* [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
 * [Least Biased](https://mediabiasfactcheck.com/center/)
+* [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
+* [The Express Tribune - Bias and Credibility](https://mediabiasfactcheck.com/the-express-tribune/)
+* [MBFC's Daily Vetted Fact Checks for 11/30/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/11/30/mbfcs-daily-vetted-fact-checks-for-11-30-2024-weekend-edition/)
+* [Independent Journal Review – Bias and Credibility](https://mediabiasfactcheck.com/independent-journal-review/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
 * [The Guardian - Bias and Credibility](https://mediabiasfactcheck.com/the-guardian/)
-* [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
-* [MBFC's Daily Vetted Fact Checks for 11/29/2024](https://mediabiasfactcheck.com/2024/11/29/mbfcs-daily-vetted-fact-checks-for-11-29-2024/)
-* [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
 * [NewsNation - Bias and Credibility](https://mediabiasfactcheck.com/newsnation/)
-* [BBC - Bias and Credibility](https://mediabiasfactcheck.com/bbc/)
+* [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
 
 #### Subscribe via Email
 
