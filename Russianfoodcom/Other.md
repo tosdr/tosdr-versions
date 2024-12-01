@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_9.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_6.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -169,6 +169,48 @@
 
 |     |     |
 | --- | --- |
+| Для прессы<br><br>[Секреты вкуса и сочности. ОТБИВНЫЕ по-необычному (10)](https://www.russianfood.com/reading/?post_id=22945) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/570/sm_569916.jpg)](https://www.russianfood.com/reading/?post_id=22945)
+
+Свинина с грибами, сыром и сливками. Шницель из свинины с соевым соусом. Филе индейки с грибами и сыром. Куриные отбивные под сырно-яичной шубкой.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22945)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Обычное по-необычному](https://www.russianfood.com/blogs/?id=325689) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22945#comments) | 01.12.24 |     |
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Каждый кусочек в радость. Лучшие СЛАДОСТИ №24-48](https://www.russianfood.com/reading/?post_id=22944) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/743/sm_742714.jpg)](https://www.russianfood.com/reading/?post_id=22944)
+
+Тёртый пирог с яблоками. Морковный торт со сметанным заварным кремом. Ореховый торт со сливочно-сметанным кремом. Шоколадный пирог с кофе и ромом. Шарлотка с грушами и базиликом. Морковные мини-тортики с кокосовым кремом. Десерт из слоёного теста с заварным кремом и орехами.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22944)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие сладости](https://www.russianfood.com/blogs/?id=327533) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22944#comments) | 01.12.24 |     |
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Понятно, просто, интересно. Лучшие видео рецепты (44)](https://www.russianfood.com/reading/?post_id=22943) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/719/sm_718995.jpg)](https://www.russianfood.com/reading/?post_id=22943)
+
+Песочное печенье "Овечки". Пирожки с картошкой и грибами. Индейка с тыквой в сметанном соусе. Пицца с пряным соусом и моцареллой. Стейки из форели на ольховой дощечке.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22943)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие видео рецепты](https://www.russianfood.com/blogs/?id=394188) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22943#comments) | 01.12.24 |     |
+
+|     |     |
+| --- | --- |
 | Для прессы<br><br>[Красная, белая, вкусная. ФАСОЛЬ по-необычному (21)](https://www.russianfood.com/reading/?post_id=22942) |     |
 
 [![](//img1.russianfood.com/dycontent/images_upl/488/sm_487535.jpg)](https://www.russianfood.com/reading/?post_id=22942)
@@ -319,7 +361,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174598#comments) | 28.11.24 |     |
+|     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174598#comments) | 28.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -334,48 +376,6 @@
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173317#comments) | 28.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Кексы "Тёмная ночь" с сырным кремом](https://www.russianfood.com/recipes/recipe.php?rid=174553) |     |
-
-[![Фото к рецепту: Кексы "Тёмная ночь" с сырным кремом](//img1.russianfood.com/dycontent/images_upl/754/sm_753740.jpg "Фото к рецепту: Кексы "Тёмная ночь" с сырным кремом")](https://www.russianfood.com/recipes/recipe.php?rid=174553)
-
-Кексы по этому рецепту получаются рыхлыми, мягкими, едва влажными, с насыщенным тёмно-шоколадным цветом. После выпечки кексы украшаются кремом из творожного сыра и сливок. Вкус этой десертной выпечки во многом зависит от качества выбранного какао-порошка.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174553)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174553#comments) | 28.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Песочные рогалики "Конфетки" с ирисками](https://www.russianfood.com/recipes/recipe.php?rid=172679) |     |
-
-[![Фото к рецепту: Песочные рогалики "Конфетки" с ирисками](//img1.russianfood.com/dycontent/images_upl/711/sm_710152.jpg "Фото к рецепту: Песочные рогалики "Конфетки" с ирисками")](https://www.russianfood.com/recipes/recipe.php?rid=172679)
-
-Эти рогалики готовятся из песочного теста на сливочном масле с добавлением сметаны. Они не только сформированы в виде конфет, но и внутри себя содержат конфеты - ириски.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=172679)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=172679#comments) | 28.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Суп "Чизбургер"](https://www.russianfood.com/recipes/recipe.php?rid=172820) |     |
-
-[![Фото к рецепту: Суп "Чизбургер"](//img1.russianfood.com/dycontent/images_upl/756/sm_755654.jpg "Фото к рецепту: Суп "Чизбургер"")](https://www.russianfood.com/recipes/recipe.php?rid=172820)
-
-Мясной фарш и копчёная грудинка обжариваются вместе с овощами - морковь, корнем сельдерея и луком-пореем. В суп затем добавляется не просто натёртый сыр, а перемешанный с крахмалом. Сливки отлично дополняют этот необычный сырный суп с фаршем.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=172820)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=172820#comments) | 28.11.24 |     |
 
 |     |
 | --- |
@@ -459,4 +459,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(343)
+(205)
