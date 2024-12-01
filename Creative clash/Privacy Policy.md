@@ -41,6 +41,8 @@
 * [Home](https://xcreativeclashx.net/ "Home")
 * [Privacy Policy](https://xcreativeclashx.net/privacy-policy/)
 
+[ReverseClash is GO!](https://xcreativeclashx.net/announcement/28-reverseclash-is-go/) [×](#)
+
 * **Privacy Policy**
     
     CreativeClash is committed to protecting and respecting your privacy. We collect only the personal information that we need from you to operate our website, and we do not divulge your personal information to anyone else unless we are ordered to do so by a court that has jurisdiction over us.
@@ -110,9 +112,9 @@
 
 #### Links
 
-* [Discord](https://discord.gg/H5Yzun86Qp)
-* [Twitter](https://twitter.com/xCreativeClashx)
-* [Aethy](https://aethy.com/@xCreativeClashx)
+* [Discord](https://discord.gg/H5Yzun86Qp/)
+* [Twitter](https://twitter.com/xCreativeClashx/)
+* [Bluesky](https://xcreativeclashx.bsky.social/)
 
 #### You are responsible for your own viewing experience while using this website. We have endeavored to provide as many means as possible for you to curate your experience here.
 
