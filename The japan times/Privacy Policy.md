@@ -523,9 +523,9 @@ By [Greg Dvorak](https://www.japantimes.co.jp/author/6191/greg-dvorak/ "Greg Dvo
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -567,19 +567,13 @@ Latest News
 
 [Nippon Ishin elects Osaka Gov. Yoshimura as leader](https://www.japantimes.co.jp/news/2024/12/01/japan/politics/nippon-ishin-elects-yoshimura-leader/ "Nippon Ishin elects Osaka Gov. Yoshimura as leader")
 
-4 hours ago
+11 hours ago
 
 [New EU chiefs visit Kyiv on first day of mandate](https://www.japantimes.co.jp/news/2024/12/01/world/politics/eu-chiefs-ukraine-visit/ "New EU chiefs visit Kyiv on first day of mandate")
 
-8 hours ago
-
 [Victims of fire at LDP lawmaker's home identified](https://www.japantimes.co.jp/news/2024/12/01/japan/fire-victims-lawmaker-home/ "Victims of fire at LDP lawmaker's home identified")
 
-9 hours ago
-
 [China vows ‘resolute and forceful’ response as Taiwan leader visits Hawaii](https://www.japantimes.co.jp/news/2024/12/01/asia-pacific/politics/taiwan-lai-pacific-hawaii/ "China vows ‘resolute and forceful’ response as Taiwan leader visits Hawaii")
-
-9 hours ago
 
 [Don’t worry, you can still use your Japan health insurance card — for now](https://www.japantimes.co.jp/news/2024/12/01/japan/explainer/my-number-insurance-card-explainer/ "Don’t worry, you can still use your Japan health insurance card — for now")
 
