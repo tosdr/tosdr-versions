@@ -27,13 +27,13 @@ When using our services, you must NOT (knowingly or by any negligent act or omis
 \* Attempt or do anything that interferes with the ability of other members to enjoy using our services in accordance with these terms or conditions;  
 \* Use your account for illegal activity ([Swedish law and jurisdiction](https://support.countermail.com/kb/faq.php?id=74))  
 \* Use our services to send fake emails, where the sender email contains an account or domain that you don't own  
-\* Use our services mainly for [SEO purposes](https://en.wikipedia.org/wiki/Search_engine_optimization) (search engine optimizing or any search engine ranking improvement)  
+\* Use our services for [SEO purposes](https://en.wikipedia.org/wiki/Search_engine_optimization) (search engine optimizing or any search engine ranking improvement)  
 \* Use our services to send spam/unsolicited email or phishing email  
 \* We do not allow mass emails, marketing emails or news letters, [you can read more here](https://support.countermail.com/kb/faq.php?id=31)  
   
 If you use our domain option, you must be the legal owner of the domain, and the MX-record for your domain(s) must point to our server. You can not use domains which can be used for [Phishing](https://en.wikipedia.org/wiki/Phishing). If you try to use a domain for Phishing, we will close your account permanently.  
   
-If you violate our terms, we can cancel your account at any time, without notice.  
+If you violate any of our terms, we can cancel your account at any time, without notice.  
   
 Our Free Trial accounts has several restrictions, [read more here](https://support.countermail.com/kb/faq.php?id=250)  
 We require that you are 18 years old, or older, which is the age of adulthood in most countries, the only reason for this is that you are then responsisble for your own actions.  
