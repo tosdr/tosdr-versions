@@ -54,7 +54,7 @@
 
 [BREITBART](https://www.breitbart.com/ "Breitbart News Network")
 
-* [Thanksgiving](https://www.breitbart.com/tag/thanksgiving/)
+* [Kash Patel](https://www.breitbart.com/tag/kash-patel/)
 * [Trump Tariffs](https://www.breitbart.com/tag/2024-presidential-election/)
 * [Mass Deport Battle](https://www.breitbart.com/tag/deportation/)
 * [WWIII Watch](https://www.breitbart.com/tag/ukraine/)
