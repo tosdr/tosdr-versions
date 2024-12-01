@@ -1,3 +1,5 @@
+[Breaking: UPDATE | Trooper, suspect hurt after gunfire exchanged at Rockdale gas station, GBI says](https://www.ajc.com/news/crime/trooper-injured-after-gunfire-exchanged-with-alleged-racers-in-rockdale-gsp-says/ALEWJ5YWARGMNL6CZHGTWIJQSA/)
+
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1836)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1836)](https://www.ajc.com/)
 
 Log In
