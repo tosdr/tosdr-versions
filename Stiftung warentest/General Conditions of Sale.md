@@ -664,12 +664,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fakten zu H5N1: Was wir über die Vogelgrippe wissen](https://www.test.de/Fakten-zu-H5N1-Was-wir-ueber-die-Vogelgrippe-wissen-6136613-0/ "Fakten zu H5N1 - Was wir über die Vogelgrippe wissen")
-* [Test Lithium-Knopf­zellen: Diese Batterien leben lange](https://www.test.de/Test-Lithium-Knopfzellen-Diese-Batterien-leben-lange-6156398-0/ "Test Lithium-Knopfzellen - Diese Batterien leben lange")
-* [UDI-Gruppe: Insolvenz­verwalter hat Pflichten verletzt](https://www.test.de/UDI-Gruppe-Insolvenzverwalter-hat-Pflichten-verletzt-6092746-0/ "UDI-Gruppe - Insolvenzverwalter hat Pflichten verletzt")
-* [Trock­nerbälle von Wenko und Xavax im Schnell­test: Weder Zeit noch Strom gespart](https://www.test.de/Schnelltest-Trocknerbaelle-von-Wenko-und-Xavax-Weder-Zeit-noch-Strom-gespart-5953351-0/ "Trocknerbälle von Wenko und Xavax im Schnelltest - Weder Zeit noch Strom gespart")
-* [Gut essen mit der Stiftung Warentest: Tom-Kha-Gai-Frikassee](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Tom-Kha-Gai-Frikassee-6070656-0/ "Gut essen mit der Stiftung Warentest - Tom-Kha-Gai-Frikassee")
-* [Verpackungs­ärger: Mentos Pure Fresh Kaugummi](https://www.test.de/Verpackungsaerger-Mentos-Pure-Fresh-Kaugummi-6119690-0/ "Verpackungsärger - Mentos Pure Fresh Kaugummi")
+* [Jugend testet 2023: Drei Mal Gold für den Test-Nach­wuchs](https://www.test.de/Jugend-testet-2023-Drei-Mal-Gold-fuer-den-Test-Nachwuchs-6008280-0/ "Jugend testet 2023 - Drei Mal Gold für den Test-Nachwuchs")
+* [Kiefer­ortho­pädie bei Kindern: Wann die Behand­lung starten sollte](https://www.test.de/Kieferorthopaedie-bei-Kindern-Wann-die-Behandlung-starten-sollte-1783943-0/ "Kieferorthopädie bei Kindern - Wann die Behandlung starten sollte")
+* [Wasser sparen im Garten: Viel säen, wenig gießen](https://www.test.de/Wasser-sparen-Viel-saeen-wenig-giessen-6105569-0/ "Wasser sparen im Garten - Viel säen, wenig gießen")
+* [Unter­nehmens­beteiligung: Riskante Beteiligung auf Raten](https://www.test.de/Unternehmensbeteiligung-Riskante-Beteiligung-auf-Raten-5978862-0/ "Unternehmensbeteiligung - Riskante Beteiligung auf Raten")
+* [Handy selbst reparieren: Samsungs und Apples Reparier-Sets im Selbst­versuch](https://www.test.de/Handy-selbst-reparieren-Samsungs-und-Apples-Reparier-Sets-im-Selbstversuch-6053520-0/ "Handy selbst reparieren - Samsungs und Apples Reparier-Sets im Selbstversuch")
+* [Gut essen mit der Stiftung Warentest: Sommer­rollen mit Dip](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Sommerrollen-mit-Dip-6029819-0/ "Gut essen mit der Stiftung Warentest - Sommerrollen mit Dip")
 
 Weitere Informationen
 
@@ -3082,12 +3082,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fakten zu H5N1: Was wir über die Vogelgrippe wissen](https://www.test.de/Fakten-zu-H5N1-Was-wir-ueber-die-Vogelgrippe-wissen-6136613-0/ "Fakten zu H5N1 - Was wir über die Vogelgrippe wissen")
-* [Test Lithium-Knopf­zellen: Diese Batterien leben lange](https://www.test.de/Test-Lithium-Knopfzellen-Diese-Batterien-leben-lange-6156398-0/ "Test Lithium-Knopfzellen - Diese Batterien leben lange")
-* [UDI-Gruppe: Insolvenz­verwalter hat Pflichten verletzt](https://www.test.de/UDI-Gruppe-Insolvenzverwalter-hat-Pflichten-verletzt-6092746-0/ "UDI-Gruppe - Insolvenzverwalter hat Pflichten verletzt")
-* [Trock­nerbälle von Wenko und Xavax im Schnell­test: Weder Zeit noch Strom gespart](https://www.test.de/Schnelltest-Trocknerbaelle-von-Wenko-und-Xavax-Weder-Zeit-noch-Strom-gespart-5953351-0/ "Trocknerbälle von Wenko und Xavax im Schnelltest - Weder Zeit noch Strom gespart")
-* [Gut essen mit der Stiftung Warentest: Tom-Kha-Gai-Frikassee](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Tom-Kha-Gai-Frikassee-6070656-0/ "Gut essen mit der Stiftung Warentest - Tom-Kha-Gai-Frikassee")
-* [Verpackungs­ärger: Mentos Pure Fresh Kaugummi](https://www.test.de/Verpackungsaerger-Mentos-Pure-Fresh-Kaugummi-6119690-0/ "Verpackungsärger - Mentos Pure Fresh Kaugummi")
+* [Jugend testet 2023: Drei Mal Gold für den Test-Nach­wuchs](https://www.test.de/Jugend-testet-2023-Drei-Mal-Gold-fuer-den-Test-Nachwuchs-6008280-0/ "Jugend testet 2023 - Drei Mal Gold für den Test-Nachwuchs")
+* [Kiefer­ortho­pädie bei Kindern: Wann die Behand­lung starten sollte](https://www.test.de/Kieferorthopaedie-bei-Kindern-Wann-die-Behandlung-starten-sollte-1783943-0/ "Kieferorthopädie bei Kindern - Wann die Behandlung starten sollte")
+* [Wasser sparen im Garten: Viel säen, wenig gießen](https://www.test.de/Wasser-sparen-Viel-saeen-wenig-giessen-6105569-0/ "Wasser sparen im Garten - Viel säen, wenig gießen")
+* [Unter­nehmens­beteiligung: Riskante Beteiligung auf Raten](https://www.test.de/Unternehmensbeteiligung-Riskante-Beteiligung-auf-Raten-5978862-0/ "Unternehmensbeteiligung - Riskante Beteiligung auf Raten")
+* [Handy selbst reparieren: Samsungs und Apples Reparier-Sets im Selbst­versuch](https://www.test.de/Handy-selbst-reparieren-Samsungs-und-Apples-Reparier-Sets-im-Selbstversuch-6053520-0/ "Handy selbst reparieren - Samsungs und Apples Reparier-Sets im Selbstversuch")
+* [Gut essen mit der Stiftung Warentest: Sommer­rollen mit Dip](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Sommerrollen-mit-Dip-6029819-0/ "Gut essen mit der Stiftung Warentest - Sommerrollen mit Dip")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -3138,12 +3138,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fakten zu H5N1: Was wir über die Vogelgrippe wissen](https://www.test.de/Fakten-zu-H5N1-Was-wir-ueber-die-Vogelgrippe-wissen-6136613-0/ "Fakten zu H5N1 - Was wir über die Vogelgrippe wissen")
-* [Test Lithium-Knopf­zellen: Diese Batterien leben lange](https://www.test.de/Test-Lithium-Knopfzellen-Diese-Batterien-leben-lange-6156398-0/ "Test Lithium-Knopfzellen - Diese Batterien leben lange")
-* [UDI-Gruppe: Insolvenz­verwalter hat Pflichten verletzt](https://www.test.de/UDI-Gruppe-Insolvenzverwalter-hat-Pflichten-verletzt-6092746-0/ "UDI-Gruppe - Insolvenzverwalter hat Pflichten verletzt")
-* [Trock­nerbälle von Wenko und Xavax im Schnell­test: Weder Zeit noch Strom gespart](https://www.test.de/Schnelltest-Trocknerbaelle-von-Wenko-und-Xavax-Weder-Zeit-noch-Strom-gespart-5953351-0/ "Trocknerbälle von Wenko und Xavax im Schnelltest - Weder Zeit noch Strom gespart")
-* [Gut essen mit der Stiftung Warentest: Tom-Kha-Gai-Frikassee](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Tom-Kha-Gai-Frikassee-6070656-0/ "Gut essen mit der Stiftung Warentest - Tom-Kha-Gai-Frikassee")
-* [Verpackungs­ärger: Mentos Pure Fresh Kaugummi](https://www.test.de/Verpackungsaerger-Mentos-Pure-Fresh-Kaugummi-6119690-0/ "Verpackungsärger - Mentos Pure Fresh Kaugummi")
+* [Jugend testet 2023: Drei Mal Gold für den Test-Nach­wuchs](https://www.test.de/Jugend-testet-2023-Drei-Mal-Gold-fuer-den-Test-Nachwuchs-6008280-0/ "Jugend testet 2023 - Drei Mal Gold für den Test-Nachwuchs")
+* [Kiefer­ortho­pädie bei Kindern: Wann die Behand­lung starten sollte](https://www.test.de/Kieferorthopaedie-bei-Kindern-Wann-die-Behandlung-starten-sollte-1783943-0/ "Kieferorthopädie bei Kindern - Wann die Behandlung starten sollte")
+* [Wasser sparen im Garten: Viel säen, wenig gießen](https://www.test.de/Wasser-sparen-Viel-saeen-wenig-giessen-6105569-0/ "Wasser sparen im Garten - Viel säen, wenig gießen")
+* [Unter­nehmens­beteiligung: Riskante Beteiligung auf Raten](https://www.test.de/Unternehmensbeteiligung-Riskante-Beteiligung-auf-Raten-5978862-0/ "Unternehmensbeteiligung - Riskante Beteiligung auf Raten")
+* [Handy selbst reparieren: Samsungs und Apples Reparier-Sets im Selbst­versuch](https://www.test.de/Handy-selbst-reparieren-Samsungs-und-Apples-Reparier-Sets-im-Selbstversuch-6053520-0/ "Handy selbst reparieren - Samsungs und Apples Reparier-Sets im Selbstversuch")
+* [Gut essen mit der Stiftung Warentest: Sommer­rollen mit Dip](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Sommerrollen-mit-Dip-6029819-0/ "Gut essen mit der Stiftung Warentest - Sommerrollen mit Dip")
 
 Neueste Tests
 
@@ -3156,12 +3156,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fakten zu H5N1: Was wir über die Vogelgrippe wissen](https://www.test.de/Fakten-zu-H5N1-Was-wir-ueber-die-Vogelgrippe-wissen-6136613-0/ "Fakten zu H5N1 - Was wir über die Vogelgrippe wissen")
-* [Test Lithium-Knopf­zellen: Diese Batterien leben lange](https://www.test.de/Test-Lithium-Knopfzellen-Diese-Batterien-leben-lange-6156398-0/ "Test Lithium-Knopfzellen - Diese Batterien leben lange")
-* [UDI-Gruppe: Insolvenz­verwalter hat Pflichten verletzt](https://www.test.de/UDI-Gruppe-Insolvenzverwalter-hat-Pflichten-verletzt-6092746-0/ "UDI-Gruppe - Insolvenzverwalter hat Pflichten verletzt")
-* [Trock­nerbälle von Wenko und Xavax im Schnell­test: Weder Zeit noch Strom gespart](https://www.test.de/Schnelltest-Trocknerbaelle-von-Wenko-und-Xavax-Weder-Zeit-noch-Strom-gespart-5953351-0/ "Trocknerbälle von Wenko und Xavax im Schnelltest - Weder Zeit noch Strom gespart")
-* [Gut essen mit der Stiftung Warentest: Tom-Kha-Gai-Frikassee](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Tom-Kha-Gai-Frikassee-6070656-0/ "Gut essen mit der Stiftung Warentest - Tom-Kha-Gai-Frikassee")
-* [Verpackungs­ärger: Mentos Pure Fresh Kaugummi](https://www.test.de/Verpackungsaerger-Mentos-Pure-Fresh-Kaugummi-6119690-0/ "Verpackungsärger - Mentos Pure Fresh Kaugummi")
+* [Jugend testet 2023: Drei Mal Gold für den Test-Nach­wuchs](https://www.test.de/Jugend-testet-2023-Drei-Mal-Gold-fuer-den-Test-Nachwuchs-6008280-0/ "Jugend testet 2023 - Drei Mal Gold für den Test-Nachwuchs")
+* [Kiefer­ortho­pädie bei Kindern: Wann die Behand­lung starten sollte](https://www.test.de/Kieferorthopaedie-bei-Kindern-Wann-die-Behandlung-starten-sollte-1783943-0/ "Kieferorthopädie bei Kindern - Wann die Behandlung starten sollte")
+* [Wasser sparen im Garten: Viel säen, wenig gießen](https://www.test.de/Wasser-sparen-Viel-saeen-wenig-giessen-6105569-0/ "Wasser sparen im Garten - Viel säen, wenig gießen")
+* [Unter­nehmens­beteiligung: Riskante Beteiligung auf Raten](https://www.test.de/Unternehmensbeteiligung-Riskante-Beteiligung-auf-Raten-5978862-0/ "Unternehmensbeteiligung - Riskante Beteiligung auf Raten")
+* [Handy selbst reparieren: Samsungs und Apples Reparier-Sets im Selbst­versuch](https://www.test.de/Handy-selbst-reparieren-Samsungs-und-Apples-Reparier-Sets-im-Selbstversuch-6053520-0/ "Handy selbst reparieren - Samsungs und Apples Reparier-Sets im Selbstversuch")
+* [Gut essen mit der Stiftung Warentest: Sommer­rollen mit Dip](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Sommerrollen-mit-Dip-6029819-0/ "Gut essen mit der Stiftung Warentest - Sommerrollen mit Dip")
 
 Stiftung Warentest
 
