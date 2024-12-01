@@ -215,13 +215,13 @@ Call Now for a FREE Quote! [1-877-OXI-FRESH](tel:18776943737) **OR**
     * [Consideration Request](https://www.oxifresh.com/carpet-cleaning-companies/carpet-cleaning-franchise/considerationrequest/)
 * [Franchisee Login](https://www.oxifresh.com/login/index.html)
 
-![The World's Greenest Carpet Cleaner](https://www.oxifresh.com/wp-content/themes/oxifresh_alt/images/img-zipbox-2.png)
+![Fast 1 Hour Dry Time Carpet Cleaner](https://www.oxifresh.com/wp-content/themes/oxifresh_alt/images/img-zipbox-1.png)
 
 Zip Code  QUOTE & SCHEDULE
 
 Enter your zip/postal code above to find carpet cleaning services in your area, get a free quote or book online!
 
-Average 4.7 Stars Based on 305,469 Reviews
+Average 4.7 Stars Based on 305,509 Reviews
 
 * [Home](https://www.oxifresh.com/)
 * \>
@@ -441,17 +441,17 @@ What Customers Are Saying
 
 ### Average 4.7 stars (Out of 5)
 
-Based on 305,469 Carpet Cleaning Services Reviews
+Based on 305,509 Carpet Cleaning Services Reviews
 
-The cleaning technician was on time, very friendly and did an excellent job of cleaning my carpet. **FD.** - Baton Rouge, LA - 11/28/2024
+Great job **SB.** - Greenfield, IN - 11/30/2024
 
 (5.0 Out of 5 stars)
 
-**PW.** - North Little Rock, AR - 11/28/2024
+Always a great job! **MA.** - Columbia, MO - 11/30/2024
 
-(4.0 Out of 5 stars)
+(5.0 Out of 5 stars)
 
-Cody did a fantastic job! **LM.** - Fishers, IN - 11/28/2024
+Reliable and performed a quality, affordable cleaning of our home. **JC.** - Wake Forest, NC - 11/30/2024
 
 (5.0 Out of 5 stars)
 
