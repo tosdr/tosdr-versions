@@ -130,6 +130,12 @@ Orange = One-Time Donations
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/mrz120124dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/the-lies-that-lost/)
+    
+    [The Lies that Lost](https://www.conservativedailynews.com/2024/12/the-lies-that-lost/)
+    
+    December 1, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/stg113024dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/5-stages/)
     
     [5 Stages…](https://www.conservativedailynews.com/2024/11/5-stages/)
@@ -169,12 +175,6 @@ Recent Posts
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/Morning-Joe-Joe-Scarborough-Trump-220x150.jpg)](https://www.conservativedailynews.com/2024/11/america-in-the-age-of-stupidity-democrats-kiss-hitlers-ass/)
     
     [America In The Age Of Stupidity: Democrats Kiss Hitler’s Ass](https://www.conservativedailynews.com/2024/11/america-in-the-age-of-stupidity-democrats-kiss-hitlers-ass/)
-    
-    November 28, 2024
-    
-* [![Donald Trump White House Beware of DOGE](https://www.conservativedailynews.com/wp-content/uploads/2024/11/stg112524dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/trump-will-redirect-billions-in-unspent-funds-from-bidens-climate-law-to-real-infrastructure/)
-    
-    [Trump Will Redirect Billions In Unspent Funds From Biden’s Climate Law To ‘Real Infrastructure’](https://www.conservativedailynews.com/2024/11/trump-will-redirect-billions-in-unspent-funds-from-bidens-climate-law-to-real-infrastructure/)
     
     November 28, 2024
     
