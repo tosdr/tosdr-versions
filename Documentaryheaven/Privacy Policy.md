@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Where Did We Come From](/wp-content/thumbnails/6621-100x70.png?x53432)
+* [![Cry of the Snow Lion](/wp-content/thumbnails/1604-100x70.jpg?x53432)
     
-    Where Did We Come From
+    Cry of the Snow Lion
     
-    Journey back in time to the birth of our solar system to examine whether the key to our planet’s existence might have been the explosive shockwave of an ancient supernova. Meet a chemist who has yield](https://documentaryheaven.com/where-did-we-come-from/ "Where Did We Come From")
-* [![The Voynich Code: The World’s Most Mysterious Manuscript](/wp-content/thumbnails/14251-100x70.jpg?x53432)
+    Ten years in the making, this award-winning feature-length documentary was filmed during nine journeys throughout Tibet, India and Nepal. Cry of the Snow Lion brings audiences to the long-forbidden "r](https://documentaryheaven.com/cry-of-the-snow-lion/ "Cry of the Snow Lion")
+* [![Mein Kampf: The Story of Adolf Hitler](/wp-content/thumbnails/9332-100x70.jpg?x53432)
     
-    The Voynich Code: The World’s Most Mysterious Manuscript
+    Mein Kampf: The Story of Adolf Hitler
     
-    Since the beginning of time people have searched for means to keep certain communication private, over the years this developed into encoding information with cyphers, this is especially true with reg](https://documentaryheaven.com/voynich-code-worlds-most-mysterious-manuscript/ "The Voynich Code: The World’s Most Mysterious Manuscript")
-* [![9/11: THE SENSIBLE DOUBT](/wp-content/thumbnails/6722-100x70.jpeg?x53432)
+    Adolf Hitler wrote Mein Kampf (My Struggle), a book filled with hatred, it's last passage is this fanatical cry "A state that refuses racial contamination will inevitably dominate the world". Thi](https://documentaryheaven.com/mein-kampf-story-adolf-hitler/ "Mein Kampf: The Story of Adolf Hitler")
+* [![Stuck in Traffick](/wp-content/thumbnails/8798-100x70.jpg?x53432)
     
-    9/11: THE SENSIBLE DOUBT
+    Stuck in Traffick
     
-    What happened September 11, 2001? All over the world, people question the official story and explanation about the events that took place in USA more than 10 years ago. In this Danish documentary you](https://documentaryheaven.com/911-the-sensible-doubt/ "9/11: THE SENSIBLE DOUBT")
-* [![Jonestown Cult Suicides](/wp-content/thumbnails/11087-100x70.jpg?x53432)
+    'Stuck in Traffick' is a documentary bringing awareness to the child sex trade in Phoenix. Sex trafficking is the fastest growing criminal industry in the world and at least 100,000 minors are forced](https://documentaryheaven.com/stuck-in-traffick/ "Stuck in Traffick")
+* [![The Bronzer](/wp-content/thumbnails/6988-100x70.jpg?x53432)
     
-    Jonestown Cult Suicides
+    The Bronzer
     
-    In 1977, evangelical preacher Jim Jones fled the United States with nearly a thousand followers of his peoples temple cult. Deep in the South American jungle they set about building a new community an](https://documentaryheaven.com/jonestown-cult-suicides/ "Jonestown Cult Suicides")
-* [![Garavito: The World’s Worst Serial Killer](/wp-content/thumbnails/8437-100x70.jpg?x53432)
+    Stu Larkin is a dying breed: one of the last traveling salesmen left in America. He travels the country taking orders for bronzed baby shoes, which has been a popular American tradition for over 80 ye](https://documentaryheaven.com/the-bronzer/ "The Bronzer")
+* [![In The Valley Of The Pharaoh](/wp-content/thumbnails/12547-100x70.jpg?x53432)
     
-    Garavito: The World’s Worst Serial Killer
+    In The Valley Of The Pharaoh
     
-    20th centuries most prolific serial killer is largely unknown throughout the world, though he brutally murdered at least 140 children, posing as a priest or teacher he lured poor young boys away from](https://documentaryheaven.com/garavito-worlds-worst-serial-killer/ "Garavito: The World’s Worst Serial Killer")
+    In The Valley of The Pharaoh is a short documentary directed by Irish filmmaker Tommy Flavin (www.tommyflavin.ie), the film itself takes us to the edge of a small Irish town known as Arklow. Whilst he](https://documentaryheaven.com/in-valley-of-pharaoh/ "In The Valley Of The Pharaoh")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
