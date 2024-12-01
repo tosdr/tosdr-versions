@@ -11,10 +11,6 @@
 * [WhatsApp](https://wa.me/96892423242 "Muscat Livestock on WhatsApp")
 * [LinkedIn](https://www.linkedin.com/company/muscatlivestock/ "Muscat Livestock on LinkedIn")
 
-Get FREE **4 x Angus Beef burgers 125gm each** with every order during the sale!
-
-[National Day Sale](https://mls.om/pages/54th-national-day-sale "54th National Day Sale") is live now!
-
 **Fresh AUS** [**Angus**](https://mls.om/collections/australian-black-angus-beef "https://mls.om/collections/australian-black-angus-beef") **and AUS** [**Wagyu**](https://mls.om/collections/australian-wagyu-beef "Australian Wagyu Beef") **beef delivered within 2 hours across Muscat.**
 
 **100% free returns & replacements because you deserve only the best!**
@@ -39,7 +35,6 @@ Search Search Reset
 Menu
 
 * [Customer Reviews](https://mls.om/pages/customer-reviews)
-* [National Day Sale](https://mls.om/pages/54th-national-day-sale)
 * [MLS Subscriptions](https://mls.om/pages/build-your-box)
     
     * Back
@@ -637,8 +632,6 @@ Your cart
 ---------
 
 Close
-
-Get FREE **4 x Angus Beef burgers 125gm each** with every order during the sale!
 
 Your cart is empty
 
