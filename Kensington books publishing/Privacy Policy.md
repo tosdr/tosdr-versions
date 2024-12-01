@@ -14,14 +14,6 @@ Recommendations
 
 Audio
 
-* [![Audiobooks for Kids](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/07/18161743/audiobooks-for-kids-readdown-1200x628-1.jpg)
-    
-    Audiobooks for Kids
-    
-    Learn More >](https://www.penguinrandomhouse.com/the-read-down/audiobooks-for-kids/)
-
-* * *
-
 * [![New Releases](https://assets.penguinrandomhouse.com/wp-content/uploads/2022/10/10135341/PRH_Site_1200x628_NOV2024.jpg)
     
     New Releases
@@ -35,6 +27,14 @@ Audio
     A Guide to Colson Whitehead Books
     
     Read More >](https://www.penguinrandomhouse.com/the-read-down/colson-whitehead-books/)
+
+* * *
+
+* [![Join Our Authors for Upcoming Events](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171722/Author-Events-Module_600x314-nav.jpg)
+    
+    Join Our Authors for Upcoming Events
+    
+    Learn More >](https://www.penguinrandomhouse.com/authors/events/)
 
 * <
     
