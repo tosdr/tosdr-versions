@@ -1,3 +1,5 @@
+🎁 33%\* Discount in December on Mobile Apps and Supporter Certificate! [More Info →](https://cryptomator.org/blog/2024/12/01/december-sale/)
+
  [![Logo](/img/logo.svg) CRYPTOMATOR](https://cryptomator.org/)
 
 * [Downloads](https://cryptomator.org/downloads/)
