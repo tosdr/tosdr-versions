@@ -190,14 +190,11 @@
 
 Subscribe
 
-[#### Weight Management](https://www.healthline.com/weight-management)
+[#### COVID-19](#)
 
-* [Nutrition](https://www.healthline.com/weight-management/nutrition)
-* [Fitness](https://www.healthline.com/weight-management/fitness)
-* [Mental Well-Being](https://www.healthline.com/weight-management/well-being)
-* [Healthy Habits](https://www.healthline.com/weight-management/healthy-habits)
-* [Treatment](https://www.healthline.com/weight-management/treatment-medication)
-* [Apps](https://www.healthline.com/weight-management/apps-products)
+* [Vaccines Basics](https://www.healthline.com/health/how-long-does-covid-vaccine-protect-you)
+* [Testing](https://www.healthline.com/health/types-of-covid-tests)
+* [Symptoms](https://www.healthline.com/health/coronavirus-covid-19)
 
 Terms of Use
 ============
