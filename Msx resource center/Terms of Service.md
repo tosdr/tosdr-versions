@@ -153,11 +153,12 @@ Latest reactions
 
 Latest forum posts
 
+* [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=125 "Please help testing upcoming openMSX release!")
+* [Omega MSX 2 Build Quiestions](https://www.msx.org/forum/msx-talk/hardware/omega-msx-2-build-quiestions "Omega MSX 2 Build Quiestions")
 * [H.E.R.O. Remake: Stranded Miners in Space](https://www.msx.org/forum/msx-talk/general-discussion/hero-remake-stranded-miners-in-space "H.E.R.O. Remake: Stranded Miners in Space")
 * [MSXgl – A new C game library for MSX](https://www.msx.org/forum/msx-talk/development/msxgl-%E2%80%93-a-new-c-game-library-for-msx?page=29 "MSXgl – A new C game library for MSX")
 * [DalSoRi R2 on OpenMSX](https://www.msx.org/forum/msx-talk/openmsx/dalsori-r2-on-openmsx?page=1 "DalSoRi R2 on OpenMSX")
 * [Penguin Adventure Remake - pre Alpha](https://www.msx.org/forum/msx-talk/general-discussion/penguin-adventure-remake-pre-alpha?page=1 "Penguin Adventure Remake - pre Alpha")
-* [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=124 "Please help testing upcoming openMSX release!")
 * [Possible VDP issue with Sanyo Wavy 35 (Sanyo PHC-35J)](https://www.msx.org/forum/msx-talk/hardware/possible-vdp-issue-with-sanyo-wavy-35-sanyo-phc-35j?page=1 "Possible VDP issue with Sanyo Wavy 35 (Sanyo PHC-35J)")
 * [TRH9000 V9990 & Spiderwave OPL4 don't work in Slotx4?](https://www.msx.org/forum/msx-talk/hardware/trh9000-v9990-spiderwave-opl4-dont-work-in-slotx4?page=1 "TRH9000 V9990 & Spiderwave OPL4 don't work in Slotx4?")
 * [vFM (virtual Full Music) MSX universal audio Cartridge](https://www.msx.org/forum/msx-talk/hardware/vfm-virtual-full-music-msx-universal-audio-cartridge?page=8 "vFM (virtual Full Music) MSX universal audio Cartridge")
@@ -165,7 +166,6 @@ Latest forum posts
 * [Screen 2 in MSX2 x in MSX1](https://www.msx.org/forum/msx-talk/software/screen-2-in-msx2-x-in-msx1?page=1 "Screen 2 in MSX2 x in MSX1")
 * [Panasonic A1GT circuit diagram, broken pads](https://www.msx.org/forum/msx-talk/hardware/panasonic-a1gt-circuit-diagram-broken-pads "Panasonic A1GT circuit diagram, broken pads")
 * [Christmas Quiz 2024](https://www.msx.org/forum/msx-talk/off-topic/christmas-quiz-2024 "Christmas Quiz 2024")
-* [Can't play Manbow 2 on MFR SCC+ when flashing with OPFXSD v1.25](https://www.msx.org/forum/msx-talk/software/cant-play-manbow-2-on-mfr-scc-when-flashing-with-opfxsd-v125?page=1 "Can't play Manbow 2 on MFR SCC+ when flashing with OPFXSD v1.25")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
