@@ -266,6 +266,13 @@ Most Popular
 [PICTURES: Festivalgoers descend on Dingle for Day 1 of Other Voices 2024](https://www.derrynow.com/news/national-news/1669282/pictures-festivalgoers-descend-on-dingle-for-day-1-of-other-voices-2024.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Teenager killed in fatal early-morning crash in Inishowen](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Teenager killed in fatal early-morning crash in Inishowen")](https://www.derrynow.com/news/local-news/1669894/teenager-killed-in-fatal-early-morning-crash-in-inishowen.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Teenager killed in fatal early-morning crash in Inishowen](https://www.derrynow.com/news/local-news/1669894/teenager-killed-in-fatal-early-morning-crash-in-inishowen.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry sisters on a mission to raise vital funds for Foyle Hospice in memory of their mum](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry sisters on a mission to raise vital funds for Foyle Hospice in memory of their mum")](https://www.derrynow.com/news/local-news/1664188/derry-sisters-on-a-mission-to-raise-vital-funds-for-foyle-hospice-in-memory-of-their-mum.html)
 
 Mairead and Caoimhe Fox are aiming to raise £108,000 for Foyle Hospice in memory of their mother Ann.
@@ -275,12 +282,12 @@ Mairead and Caoimhe Fox are aiming to raise £108,000 for Foyle Hospice in memor
 [Derry sisters on a mission to raise vital funds for Foyle Hospice in memory of their mum](https://www.derrynow.com/news/local-news/1664188/derry-sisters-on-a-mission-to-raise-vital-funds-for-foyle-hospice-in-memory-of-their-mum.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Police hunt man who held up store at knifepoint](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police hunt man who held up store at knifepoint")](https://www.derrynow.com/news/northern-ireland/1669004/police-hunt-man-who-held-up-store-at-knifepoint.html)
+[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1666537/derry-death-notices-sunday-december-1-2024.html)
 
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+[Deaths](https://www.derrynow.com/section/977/deaths)
 
-[Police hunt man who held up store at knifepoint](https://www.derrynow.com/news/northern-ireland/1669004/police-hunt-man-who-held-up-store-at-knifepoint.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Death Notices - Sunday, December 1, 2024](https://www.derrynow.com/news/deaths/1666537/derry-death-notices-sunday-december-1-2024.html)
+----------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Two properties damaged after devices thrown](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two properties damaged after devices thrown")](https://www.derrynow.com/news/northern-ireland/1669203/two-properties-damaged-after-devices-thrown.html)
 
@@ -289,12 +296,19 @@ Mairead and Caoimhe Fox are aiming to raise £108,000 for Foyle Hospice in memor
 [Two properties damaged after devices thrown](https://www.derrynow.com/news/northern-ireland/1669203/two-properties-damaged-after-devices-thrown.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1666537/derry-death-notices-sunday-december-1-2024.html)
+[![Two road safety campaigns to be launched in Northern Ireland](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two road safety campaigns to be launched in Northern Ireland")](https://www.derrynow.com/news/local-news/1669874/two-road-safety-campaigns-to-be-launched-in-northern-ireland.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Derry Death Notices - Sunday, December 1, 2024](https://www.derrynow.com/news/deaths/1666537/derry-death-notices-sunday-december-1-2024.html)
-----------------------------------------------------------------------------------------------------------------------------------------------
+[Two road safety campaigns to be launched in Northern Ireland](https://www.derrynow.com/news/local-news/1669874/two-road-safety-campaigns-to-be-launched-in-northern-ireland.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry PSNI Christmas operation to prioritise safeguarding women and girls and keeping people safe](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry PSNI Christmas operation to prioritise safeguarding women and girls and keeping people safe")](https://www.derrynow.com/news/local-news/1666376/derry-psni-christmasoperation-toprioritise-safeguarding-women-and-girls-and-keeping-people-safe.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry PSNI Christmas operation to prioritise safeguarding women and girls and keeping people safe](https://www.derrynow.com/news/local-news/1666376/derry-psni-christmasoperation-toprioritise-safeguarding-women-and-girls-and-keeping-people-safe.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Two escape injury in Antrim arson attack](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two escape injury in Antrim arson attack")](https://www.derrynow.com/news/northern-ireland/1669105/two-escape-injury-in-antrim-arson-attack.html)
 
@@ -302,6 +316,20 @@ Mairead and Caoimhe Fox are aiming to raise £108,000 for Foyle Hospice in memor
 
 [Two escape injury in Antrim arson attack](https://www.derrynow.com/news/northern-ireland/1669105/two-escape-injury-in-antrim-arson-attack.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Two road safety campaigns to be launched in Northern Ireland](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two road safety campaigns to be launched in Northern Ireland")](https://www.derrynow.com/news/northern-ireland/1669869/two-road-safety-campaigns-to-be-launched-in-northern-ireland.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Two road safety campaigns to be launched in Northern Ireland](https://www.derrynow.com/news/northern-ireland/1669869/two-road-safety-campaigns-to-be-launched-in-northern-ireland.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Five police hurt in ‘melee’ as dozens clash outside Belfast nightclub](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Five police hurt in ‘melee’ as dozens clash outside Belfast nightclub")](https://www.derrynow.com/news/northern-ireland/1670011/five-police-hurt-in-melee-as-dozens-clash-outside-belfast-nightclub.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Five police hurt in ‘melee’ as dozens clash outside Belfast nightclub](https://www.derrynow.com/news/northern-ireland/1670011/five-police-hurt-in-melee-as-dozens-clash-outside-belfast-nightclub.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -483,14 +511,35 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1666537/derry-death-notices-sunday-december-1-2024.html)
+[![Teenager killed in fatal early-morning crash in Inishowen](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Teenager killed in fatal early-morning crash in Inishowen")](https://www.derrynow.com/news/local-news/1669894/teenager-killed-in-fatal-early-morning-crash-in-inishowen.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Teenager killed in fatal early-morning crash in Inishowen](https://www.derrynow.com/news/local-news/1669894/teenager-killed-in-fatal-early-morning-crash-in-inishowen.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Two road safety campaigns to be launched in Northern Ireland](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two road safety campaigns to be launched in Northern Ireland")](https://www.derrynow.com/news/local-news/1669874/two-road-safety-campaigns-to-be-launched-in-northern-ireland.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Two road safety campaigns to be launched in Northern Ireland](https://www.derrynow.com/news/local-news/1669874/two-road-safety-campaigns-to-be-launched-in-northern-ireland.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry PSNI Christmas operation to prioritise safeguarding women and girls and keeping people safe](https://www.derrynow.com/resizer/165/93/true/2024_11_27/DCS_Season_s_Greetings_2024-1732723518222.jpg--.jpg?1732723518846 "Derry PSNI Christmas operation to prioritise safeguarding women and girls and keeping people safe")](https://www.derrynow.com/news/local-news/1666376/derry-psni-christmasoperation-toprioritise-safeguarding-women-and-girls-and-keeping-people-safe.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry PSNI Christmas operation to prioritise safeguarding women and girls and keeping people safe](https://www.derrynow.com/news/local-news/1666376/derry-psni-christmasoperation-toprioritise-safeguarding-women-and-girls-and-keeping-people-safe.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices - Sunday](https://www.derrynow.com/resizer/165/93/true/2023_09_21/Derry_Deaths_%2811%29-1695307374487.jpg--.jpg?1695307374613 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1666537/derry-death-notices-sunday-december-1-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
 
 [Derry Death Notices - Sunday, December 1, 2024](https://www.derrynow.com/news/deaths/1666537/derry-death-notices-sunday-december-1-2024.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry sisters on a mission to raise vital funds for Foyle Hospice in memory of their mum](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry sisters on a mission to raise vital funds for Foyle Hospice in memory of their mum")](https://www.derrynow.com/news/local-news/1664188/derry-sisters-on-a-mission-to-raise-vital-funds-for-foyle-hospice-in-memory-of-their-mum.html)
+[![Derry sisters on a mission to raise vital funds for Foyle Hospice in memory of their mum](https://www.derrynow.com/resizer/165/93/true/2024_11_25/IDNM_25-11-24_Xmas_Swim_30222656-1732540293210_1732540370.jpg--.jpg?1732540370929 "Derry sisters on a mission to raise vital funds for Foyle Hospice in memory of their mum")](https://www.derrynow.com/news/local-news/1664188/derry-sisters-on-a-mission-to-raise-vital-funds-for-foyle-hospice-in-memory-of-their-mum.html)
 
 Mairead and Caoimhe Fox are aiming to raise £108,000 for Foyle Hospice in memory of their mother Ann.
 
@@ -505,33 +554,6 @@ Mairead and Caoimhe Fox are aiming to raise £108,000 for Foyle Hospice in memor
 
 [Derry Death Notices - Saturday, November 30, 2024](https://www.derrynow.com/news/deaths/1666536/derry-death-notices-saturday-november-30-2024.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Heart-warming Derry advert reminds us to reach out at Christmas](https://www.derrynow.com/resizer/165/93/true/2024_11_29/Screenshot_2024-11-29_145939_%281%29_%281%29-1732892601795.jpg--.jpg?1732892602024 "Heart-warming Derry advert reminds us to reach out at Christmas")](https://www.derrynow.com/news/home/1668351/heart-warming-derry-advert-reminds-us-to-reach-out-at-christmas.html)
-
-Still from John Lewis inspired Christmas advert which centres on two grieving men.
-
-[Home](https://www.derrynow.com/)
-
-[Heart-warming Derry advert reminds us to reach out at Christmas](https://www.derrynow.com/news/home/1668351/heart-warming-derry-advert-reminds-us-to-reach-out-at-christmas.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Creggan Enterprises’ Lifehack Project – helping young people start a new Journey](https://www.derrynow.com/resizer/165/93/true/2024_11_29/IMG_3222%281%29-1732895163800.jpeg--.jpeg?1732895164946 "Creggan Enterprises’ Lifehack Project – helping young people start a new Journey")](https://www.derrynow.com/news/local-news/1668423/creggan-enterprises-lifehack-project-helping-young-people-start-a-new-journey.html)
-
-Lifehack participants, project staff and CEL Management Team pictured at the recent programme launch at Ráth Mór.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Creggan Enterprises’ Lifehack Project – helping young people start a new Journey](https://www.derrynow.com/news/local-news/1668423/creggan-enterprises-lifehack-project-helping-young-people-start-a-new-journey.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![All Ireland Pipe Band Championships to return to Derry in 2025](https://www.derrynow.com/resizer/165/93/true/2024_11_29/pipe_bands_15-PR-040723_1000x713-1732893640747.jpg--.jpg?1732893640787 "All Ireland Pipe Band Championships to return to Derry in 2025")](https://www.derrynow.com/news/local-news/1668355/all-ireland-pipe-band-championships-to-return-to-derry-in-2025.html)
-
-Last hosted during the successful 2013 UK City of Culture celebrations, the championships are expected to draw thousands of visitors to the city
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[All Ireland Pipe Band Championships to return to Derry in 2025](https://www.derrynow.com/news/local-news/1668355/all-ireland-pipe-band-championships-to-return-to-derry-in-2025.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
