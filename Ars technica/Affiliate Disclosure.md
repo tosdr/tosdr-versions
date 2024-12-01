@@ -87,13 +87,13 @@ Most Read
     
     1. [The upside-down capacitor in mid-‘90s Macs, proven and documented by hobbyists](https://arstechnica.com/gadgets/2024/11/the-upside-down-capacitor-in-mid-90s-macs-proven-and-documented-by-hobbyists/)
     
-2. 2. [It’s Black Friday, and here are the best shopping deals we could find](https://arstechnica.com/shopping/2024/11/its-black-friday-and-here-are-the-best-shopping-deals-we-could-find/)
+2. 2. [How should we treat beings that might be sentient?](https://arstechnica.com/science/2024/11/how-should-we-treat-beings-that-might-be-sentient/)
     
-3. 3. [Code found online exploits LogoFAIL to install Bootkitty Linux backdoor](https://arstechnica.com/security/2024/11/code-found-online-exploits-logofail-to-install-bootkitty-linux-backdoor/)
+3. 3. [It’s Black Friday, and here are the best shopping deals we could find](https://arstechnica.com/shopping/2024/11/its-black-friday-and-here-are-the-best-shopping-deals-we-could-find/)
     
-4. 4. [Vintage digicams aren’t just a fad. They’re an artistic statement.](https://arstechnica.com/gadgets/2024/11/vintage-digicams-arent-just-a-fad-theyre-an-artistic-statement/)
+4. 4. [Code found online exploits LogoFAIL to install Bootkitty Linux backdoor](https://arstechnica.com/security/2024/11/code-found-online-exploits-logofail-to-install-bootkitty-linux-backdoor/)
     
-5. 5. [How should we treat beings that might be sentient?](https://arstechnica.com/science/2024/11/how-should-we-treat-beings-that-might-be-sentient/)
+5. 5. [Vintage digicams aren’t just a fad. They’re an artistic statement.](https://arstechnica.com/gadgets/2024/11/vintage-digicams-arent-just-a-fad-theyre-an-artistic-statement/)
     
 
 Customize
