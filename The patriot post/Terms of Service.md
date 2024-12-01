@@ -195,7 +195,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/112428-darn-climate-change-2024-11-30)
+     [](https://patriotpost.us/memes/112435-isaiah-12-4-2024-12-01)
 
 * [More Memes >](https://patriotpost.us/memes)
 
@@ -228,7 +228,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01JAZT33BFPWCKHQ8TMC2021Z7.jpeg)](https://patriotpostshop.com/collections/featured-products)
+No MSM Churn No Clickbait Junk No Advertising
 
 ### The Foundation
 
