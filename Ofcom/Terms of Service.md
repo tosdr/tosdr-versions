@@ -143,7 +143,7 @@
 
 ### How Ofcom deals with BBC complaints – what you need to know
 
-29 November 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/bbc/how-ofcom-deals-with-bbc-complaints--what-you-need-to-know/)
+29 November 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/bbc/how-ofcom-deals-with-bbc-complaints--what-you-need-to-know/?language=en)
 
 [![Two children looking at a phone or tablet together.](/siteassets/additional-resources/online-safety.jpg?width=1920&height=1085&quality=80)
 
@@ -217,7 +217,7 @@ Organisations we work with, including the Consumer Forum for Communications and 
 
 [### Register of disclosable interests
 
-Members are required to disclose interests (including shareholdings, directorships and employments) they, their partners or minor children have in companies whose core business activities (and hence share price) could be affected by Ofcom's decisions.](https://www.ofcom.org.uk/about-ofcom/structure-and-leadership/register-disclosable-interests/?language=en)
+Members are required to disclose interests (including shareholdings, directorships and employments) they, their partners or minor children have in companies whose core business activities (and hence share price) could be affected by Ofcom's decisions.](https://www.ofcom.org.uk/about-ofcom/structure-and-leadership/register-disclosable-interests/)
 
 [### Ofcom Board
 
