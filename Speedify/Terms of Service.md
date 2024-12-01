@@ -126,17 +126,6 @@ Speedify is the only app that combines all of your Internet connections to keep 
 
 [Download Speedify](https://speedify.com/download/) 
 
-Upcoming Events
----------------
-
-Dec 4
-
-10:00 am - 11:00 am EST
-
-### [12/4 @ 10am EST – Routers that can BOND Wifi, 5G, Starlink | Ask the CEO your tech questions](https://speedify.com/event/12-4-10am-est-routers-that-can-bond-wifi-5g-starlink-ask-the-ceo-your-tech-questions/ "12/4 @ 10am EST – Routers that can BOND Wifi, 5G, Starlink | Ask the CEO your tech questions")
-
-[View Calendar](https://speedify.com/calendar/ "View more events.")
-
 #### Popular Posts
 
 * [Introducing Speedify 15.1](https://speedify.com/blog/release-notes/introducing-speedify-15-1/)
