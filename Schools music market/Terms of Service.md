@@ -26,7 +26,7 @@ Menu
 
 [](https://schoolsmusicmarket.com/wishlist/)
 
- [](https://schoolsmusicmarket.com/product/music-flashcards-ideas-worksheet/)
+ [](https://schoolsmusicmarket.com/product/lets-learn-about-hip-hop-music/)
 
 [HOME](https://schoolsmusicmarket.com/seller-dashboard)
 
@@ -282,7 +282,7 @@ Results
 
 See all results
 
- [](https://schoolsmusicmarket.com/product/australian-music-a-brief-history-powerpoint/)
+ [](https://schoolsmusicmarket.com/product/lets-learn-about-blues-music/)
 
 ###### Browse By Year/Grade
 
