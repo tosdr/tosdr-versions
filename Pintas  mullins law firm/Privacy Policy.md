@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![How do nursing homes meet nutritional needs?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-how-do-nursing-homes-meet-nutritional-needs-scaled.jpg "How Do Nursing Homes Meet Nutritional Needs?")](https://www.pintas.com/faq/how-do-nursing-homes-meet-nutritional-needs/ "How Do Nursing Homes Meet Nutritional Needs?")
+[![What percentage of workers get lung cancer?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-what-percentage-of-workers-get-lung-cancer.jpg "What Percentage of Workers Get Lung Cancer?")](https://www.pintas.com/lung-cancer/what-percentage-of-workers-get-lung-cancer/ "What Percentage of Workers Get Lung Cancer?")
 
-[#### How Do Nursing Homes Meet Nutritional Needs?](https://www.pintas.com/faq/how-do-nursing-homes-meet-nutritional-needs/)
+[#### What Percentage of Workers Get Lung Cancer?](https://www.pintas.com/lung-cancer/what-percentage-of-workers-get-lung-cancer/)
 
-[![What is elder abuse?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-is-elder-abuse-lawyer-scaled.jpg "What Is Elder Abuse?")](https://www.pintas.com/faq/what-is-elder-abuse-lawyer/ "What Is Elder Abuse?")
+[![How much money is left in the asbestos trust fund?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-lawsuit-lawyer-how-much-money-is-left-in-the-asbestos-trust-fund.jpg "How Much Money Is Left in the Asbestos Trust Fund?")](https://www.pintas.com/practice-areas/lung-cancer/asbestos-trust-fund "How Much Money Is Left in the Asbestos Trust Fund?")
 
-[#### What Is Elder Abuse?](https://www.pintas.com/faq/what-is-elder-abuse-lawyer/)
+[#### How Much Money Is Left in the Asbestos Trust Fund?](https://www.pintas.com/practice-areas/lung-cancer/asbestos-trust-fund)
 
-[![Why is mesothelioma so deadly?](https://www.pintas.com/wp-content/uploads/2020/10/lung-cancer-mesothelioma-lawyer-why-is-mesothelioma-so-deadly.jpg "Why Is Mesothelioma So Deadly?")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/why-is-mesothelioma-so-deadly "Why Is Mesothelioma So Deadly?")
+[![Can mesothelioma go into remission?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-can-mesothelioma-go-into-remission.jpg "Can Mesothelioma Go Into Remission?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-mesothelioma-go-into-remission/ "Can Mesothelioma Go Into Remission?")
 
-[#### Why Is Mesothelioma So Deadly?](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/why-is-mesothelioma-so-deadly)
+[#### Can Mesothelioma Go Into Remission?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-mesothelioma-go-into-remission/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
