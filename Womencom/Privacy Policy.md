@@ -41,47 +41,59 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
+*  [![Asian woman browsing books at a bookstore](https://www.women.com/img/gallery/10-mystery-thriller-books-we-cant-wait-for-in-2025/intro-1732295218.jpg)](https://www.women.com/1720983/mystery-thriller-books-cant-wait-for-2025/)
+    
+    [Living](https://www.women.com/category/living/)
+    
+    [Living](https://www.women.com/category/living/) By Madison Emily Whisenand
+    
+    [10 Mystery & Thriller Books We Can't Wait For In 2025](https://www.women.com/1720983/mystery-thriller-books-cant-wait-for-2025/)
+    =================================================================================================================================
+    
+    A new year means new books, and 2025 will see some great additions to your shelf. Fans of mysteries and thrillers should check out these 10 upcoming releases.
+    
+    By Madison Emily Whisenand [Read More](https://www.women.com/1720983/mystery-thriller-books-cant-wait-for-2025/)
+    
+* *  [![Taylor Swift at the MTV Awards in 2024](https://www.women.com/img/gallery/taylor-swift-outfits-that-totally-missed-the-mark-in-2024/intro-1732210802.jpg)](https://www.women.com/1719639/taylor-swift-outfits-totally-missed-mark-2024/)
+        
+        [Fashion](https://www.women.com/category/fashion/)
+        
+        [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
+        
+        ### [Taylor Swift Outfits That Totally Missed The Mark In 2024](https://www.women.com/1719639/taylor-swift-outfits-totally-missed-mark-2024/)
+        
+        Taylor Swift is all about taking risks, and occasionally, they flop. In 2024, Swift switched things up and started doing things differently.
+        
+        By Bernadette Roe [Read More](https://www.women.com/1719639/taylor-swift-outfits-totally-missed-mark-2024/)
+        
+    *  [![HER with an afro](https://www.women.com/img/gallery/20-celebs-who-look-gorgeous-with-their-natural-hair/intro-1731701805.jpg)](https://www.women.com/1714855/celebs-look-gorgeous-with-their-natural-hair/)
+        
+        [Beauty](https://www.women.com/category/beauty/)
+        
+        [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+        
+        ### [20 Celebs Who Look Gorgeous With Their Natural Hair](https://www.women.com/1714855/celebs-look-gorgeous-with-their-natural-hair/)
+        
+        From Michelle Obama to Taylor Swift, these celebrity women are proudly showing the world that the hair you're born with is worth celebrating.
+        
+        By Emily Hutchinson [Read More](https://www.women.com/1714855/celebs-look-gorgeous-with-their-natural-hair/)
+        
+
+More Stories
+------------
+
 *  [![Woman using an epilator on her arm](https://www.women.com/img/gallery/mistakes-you-may-be-making-with-your-epilator/intro-1732631218.jpg)](https://www.women.com/1723124/mistakes-making-epilator/)
     
     [Beauty](https://www.women.com/category/beauty/)
     
     [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
     
-    [Mistakes You May Be Making With Your Epilator](https://www.women.com/1723124/mistakes-making-epilator/)
-    ========================================================================================================
+    ### [Mistakes You May Be Making With Your Epilator](https://www.women.com/1723124/mistakes-making-epilator/)
     
     Epilators are a little painful, and using them incorrectly can cause redness, irritation, and breakage. That's why it's important to work on technique.
     
     By Emily Hutchinson [Read More](https://www.women.com/1723124/mistakes-making-epilator/)
     
-* *  [![Lesbian couple taking an engagement selfie on a boat](https://www.women.com/img/gallery/can-you-break-your-engagement-without-breaking-up/intro-1732131514.jpg)](https://www.women.com/1718643/break-engagement-without-breaking-up/)
-        
-        [Exclusives](https://www.women.com/category/exclusives/)
-        
-        [Exclusives](https://www.women.com/category/exclusives/) By Amanda Chatel
-        
-        ### [Can You Break Your Engagement Without Breaking Up?](https://www.women.com/1718643/break-engagement-without-breaking-up/)
-        
-        As thrilling as being engaged is, it might not feel quite right, and that's ok. Ending an engagement but not the relationship is possible, but it takes work.
-        
-        By Amanda Chatel [Read More](https://www.women.com/1718643/break-engagement-without-breaking-up/)
-        
-    *  [![Lindsay Lohan in a cream-colored silk gown and matching coat](https://www.women.com/img/gallery/3-lindsay-lohan-outfits-that-give-hallie-parker-and-3-that-are-so-annie-james/intro-1732207776.jpg)](https://www.women.com/1719538/lindsay-lohan-outfits-hallie-parker-annie-james-the-parent-trap/)
-        
-        [Fashion](https://www.women.com/category/fashion/)
-        
-        [Fashion](https://www.women.com/category/fashion/) By Mila Williams
-        
-        ### [3 Lindsay Lohan Outfits That Give Hallie Parker (And 3 That Are So Annie James)](https://www.women.com/1719538/lindsay-lohan-outfits-hallie-parker-annie-james-the-parent-trap/)
-        
-        As fabulous as her later projects are, Lindsay Lohan's looks, whether on the red carpet, during media tours, or on social media, channel the Parker twins.
-        
-        By Mila Williams [Read More](https://www.women.com/1719538/lindsay-lohan-outfits-hallie-parker-annie-james-the-parent-trap/)
-        
-
-More Stories
-------------
-
 *  [![Kaia Gerber at an event posing](https://www.women.com/img/gallery/the-best-picks-from-kaia-gerbers-book-club-so-far/intro-1732293937.jpg)](https://www.women.com/1720621/best-picks-kaia-gerber-book-club/)
     
     [Living](https://www.women.com/category/living/)
@@ -93,6 +105,30 @@ More Stories
     Kaia Gerber's book club, Library Science, kicked off in March 2024 and offers a totally curated vibe of unique and unusual books.
     
     By Bernadette Roe [Read More](https://www.women.com/1720621/best-picks-kaia-gerber-book-club/)
+    
+*  [![Lesbian couple taking an engagement selfie on a boat](https://www.women.com/img/gallery/can-you-break-your-engagement-without-breaking-up/intro-1732131514.jpg)](https://www.women.com/1718643/break-engagement-without-breaking-up/)
+    
+    [Exclusives](https://www.women.com/category/exclusives/)
+    
+    [Exclusives](https://www.women.com/category/exclusives/) By Amanda Chatel
+    
+    ### [Can You Break Your Engagement Without Breaking Up?](https://www.women.com/1718643/break-engagement-without-breaking-up/)
+    
+    As thrilling as being engaged is, it might not feel quite right, and that's ok. Ending an engagement but not the relationship is possible, but it takes work.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1718643/break-engagement-without-breaking-up/)
+    
+*  [![Lindsay Lohan in a cream-colored silk gown and matching coat](https://www.women.com/img/gallery/3-lindsay-lohan-outfits-that-give-hallie-parker-and-3-that-are-so-annie-james/intro-1732207776.jpg)](https://www.women.com/1719538/lindsay-lohan-outfits-hallie-parker-annie-james-the-parent-trap/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Mila Williams
+    
+    ### [3 Lindsay Lohan Outfits That Give Hallie Parker (And 3 That Are So Annie James)](https://www.women.com/1719538/lindsay-lohan-outfits-hallie-parker-annie-james-the-parent-trap/)
+    
+    As fabulous as her later projects are, Lindsay Lohan's looks, whether on the red carpet, during media tours, or on social media, channel the Parker twins.
+    
+    By Mila Williams [Read More](https://www.women.com/1719538/lindsay-lohan-outfits-hallie-parker-annie-james-the-parent-trap/)
     
 *  [![Zoe Kravitz and Channing Tatum in London for the Blink Twice premiere](https://www.women.com/img/gallery/the-red-flags-we-couldnt-ignore-in-channing-tatum-and-zoe-kravitzs-relationship/intro-1732124296.jpg)](https://www.women.com/1718419/red-flags-couldnt-ignore-channing-tatum-zoe-kravitz-relationship/)
     
@@ -369,42 +405,6 @@ More Stories
     No one should have to explain their sexuality, and these celebs have demonstrated the importance of clapping back at invasive speculation.
     
     By Amanda Chatel [Read More](https://www.women.com/1708048/celebs-clapped-back-demands-they-label-sexuality/)
-    
-*  [![Halsey in red polka dot dress and dark pixie cut posing](https://www.women.com/img/gallery/6-celebrities-who-had-abortions-later-had-children-by-choice/intro-1730998152.jpg)](https://www.women.com/1707791/celebrities-had-abortions-late-had-children-by-choice/)
-    
-    [Politics](https://www.women.com/category/politics/)
-    
-    [Politics](https://www.women.com/category/politics/) By Emily Hutchinson
-    
-    ### [6 Celebrities Who Had Abortions & Later Had Children By Choice](https://www.women.com/1707791/celebrities-had-abortions-late-had-children-by-choice/)
-    
-    Abortion is a controversial topic in post Roe America, and pro choice celebrities haven't been afraid to speak out about their experiences.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1707791/celebrities-had-abortions-late-had-children-by-choice/)
-    
-*  [![Woman with arm tattoos smiling and spraying perfume, with hair and body wrapped in a towel](https://www.women.com/img/gallery/5-perfume-mistakes-youre-probably-making/intro-1730993601.jpg)](https://www.women.com/1707678/perfume-mistakes/)
-    
-    [Exclusives](https://www.women.com/category/exclusives/)
-    
-    [Exclusives](https://www.women.com/category/exclusives/) By Bernadette Roe
-    
-    ### [5 Perfume Mistakes You're Probably Making](https://www.women.com/1707678/perfume-mistakes/)
-    
-    Unless you're versed in the art of applying perfume, you're likely making some mistakes. Luckily, Onyi Ifeguni has offered some expert advice.
-    
-    By Bernadette Roe [Read More](https://www.women.com/1707678/perfume-mistakes/)
-    
-*  [![Hilary Novelle Simon sitting on a table](https://www.women.com/img/gallery/heres-what-went-down-with-the-style-club-after-shark-tank/intro-1730917118.jpg)](https://www.women.com/1706982/what-went-down-with-the-style-club-after-shark-tank/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
-    
-    ### [Here's What Went Down With The Style Club After Shark Tank](https://www.women.com/1706982/what-went-down-with-the-style-club-after-shark-tank/)
-    
-    After a 2016 appearance on "Shark Tank", The Style Club's feminist apparel took off. But the company lost momentum after a legal challenge.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1706982/what-went-down-with-the-style-club-after-shark-tank/)
     
 
 Back
