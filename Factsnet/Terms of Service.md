@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![19 Facts About Film Distribution ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/lifestyle/entertainment/19-facts-about-film-distribution/)
+[![30 Facts About Jack Harrison ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/lifestyle/sports/30-facts-about-jack-harrison/)
 
-Entertainment
+Sports
 
-30 Nov 2024
+01 Dec 2024
 
-[19 Facts About Film Distribution](https://facts.net/lifestyle/entertainment/19-facts-about-film-distribution/)
+[30 Facts About Jack Harrison](https://facts.net/lifestyle/sports/30-facts-about-jack-harrison/)
 
-[![22 Facts About Fields Medal ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/general/22-facts-about-fields-medal/)
+[![50 Facts About Gold Coast ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22113%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/general/50-facts-about-gold-coast/)
 
 General
 
-30 Nov 2024
+01 Dec 2024
 
-[22 Facts About Fields Medal](https://facts.net/general/22-facts-about-fields-medal/)
+[50 Facts About Gold Coast](https://facts.net/general/50-facts-about-gold-coast/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
