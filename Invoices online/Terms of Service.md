@@ -196,59 +196,63 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Quick and efficient support
-> ---------------------------
+> Impossible to run our businesses without IO
+> -------------------------------------------
 > 
-> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
-> 
-> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
+> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
+>   
+> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
+>   
+> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
+>   
+> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
 
-Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
+Kobus Venter
 
-![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=30465ebfb4a49e1f198d4bcfbda258948166be6168349792fd64c2d91b92cf25&c=160806904)  
-Kaylas Creations
-
-![valued client IEMS (PTY) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7805&file=logo_300_100&type=&fe=30465ebfb4a49e1f198d4bcfbda258948166be6168349792fd64c2d91b92cf25&c=116141950)  
-IEMS (PTY) ltd
-
-![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=30465ebfb4a49e1f198d4bcfbda258948166be6168349792fd64c2d91b92cf25&c=57020584)  
+![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=38831816c01ea103b79416f8167740f6d24eb197802c332afca370d6ba6c5bd3&c=206821311)  
 Printo
 
-![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=30465ebfb4a49e1f198d4bcfbda258948166be6168349792fd64c2d91b92cf25&c=11021557)  
-Wiselink Broadband Pty Ltd
+![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=38831816c01ea103b79416f8167740f6d24eb197802c332afca370d6ba6c5bd3&c=25037576)  
+Cooper Power Cape Town (Pty) Ltd
 
-![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=30465ebfb4a49e1f198d4bcfbda258948166be6168349792fd64c2d91b92cf25&c=144887804)  
-VerdanTech Pty Ltd
+![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=38831816c01ea103b79416f8167740f6d24eb197802c332afca370d6ba6c5bd3&c=65919129)  
+Stories (Pty) Ltd t/a Storietyd
 
-![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=30465ebfb4a49e1f198d4bcfbda258948166be6168349792fd64c2d91b92cf25&c=144585787)  
-Chiron Medical Solutions
+![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=38831816c01ea103b79416f8167740f6d24eb197802c332afca370d6ba6c5bd3&c=154673173)  
+#DiGi3 Marketing & Design
 
-![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=30465ebfb4a49e1f198d4bcfbda258948166be6168349792fd64c2d91b92cf25&c=69883240)  
-Itroniq (Pty) Ltd
-
-![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=30465ebfb4a49e1f198d4bcfbda258948166be6168349792fd64c2d91b92cf25&c=198139752)  
+![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=38831816c01ea103b79416f8167740f6d24eb197802c332afca370d6ba6c5bd3&c=58515619)  
 INDUSTRIAL DRUM SERVICES (PTY)LTD
 
-![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=30465ebfb4a49e1f198d4bcfbda258948166be6168349792fd64c2d91b92cf25&c=2918084)  
-Myfinance-Online
+![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=38831816c01ea103b79416f8167740f6d24eb197802c332afca370d6ba6c5bd3&c=94940179)  
+All Trucking Solutions
 
-![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=30465ebfb4a49e1f198d4bcfbda258948166be6168349792fd64c2d91b92cf25&c=2809496)  
-VS Auto Spares and Repairs (Pty) LTD
+![valued client Atalie Scented Candles Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7239&file=logo_300_100&type=&fe=38831816c01ea103b79416f8167740f6d24eb197802c332afca370d6ba6c5bd3&c=50688306)  
+Atalie Scented Candles Pty Ltd
 
-![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=30465ebfb4a49e1f198d4bcfbda258948166be6168349792fd64c2d91b92cf25&c=191068986)  
-J.M. HUMAN RESOURCES
+![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=38831816c01ea103b79416f8167740f6d24eb197802c332afca370d6ba6c5bd3&c=187842913)  
+LEO DEVELOPMENT GROUP
 
-![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=30465ebfb4a49e1f198d4bcfbda258948166be6168349792fd64c2d91b92cf25&c=146912779)  
-MONSTER SECURITY GUARDING
+![valued client Protech Marketing](https://www.invoicesonline.co.za/scripts/image.php?bid=8712&file=logo_300_100&type=&fe=38831816c01ea103b79416f8167740f6d24eb197802c332afca370d6ba6c5bd3&c=46452311)  
+Protech Marketing
 
-![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=30465ebfb4a49e1f198d4bcfbda258948166be6168349792fd64c2d91b92cf25&c=150353015)  
-Multi CNC Solutions CC
+![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=38831816c01ea103b79416f8167740f6d24eb197802c332afca370d6ba6c5bd3&c=44406300)  
+VIR Electrical (PTY) LTD
 
-![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=30465ebfb4a49e1f198d4bcfbda258948166be6168349792fd64c2d91b92cf25&c=69760826)  
-Network Grey (Pty) Ltd
+![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=38831816c01ea103b79416f8167740f6d24eb197802c332afca370d6ba6c5bd3&c=112103912)  
+Moving Made Easy (PTY) Ltd
 
-![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=30465ebfb4a49e1f198d4bcfbda258948166be6168349792fd64c2d91b92cf25&c=29956845)  
-CGHK Enterprises (PTY) LTD
+![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=38831816c01ea103b79416f8167740f6d24eb197802c332afca370d6ba6c5bd3&c=72687208)  
+Roamfree Boerdery (PTY) LTD
+
+![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=38831816c01ea103b79416f8167740f6d24eb197802c332afca370d6ba6c5bd3&c=188377973)  
+SR Travel Services
+
+![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=38831816c01ea103b79416f8167740f6d24eb197802c332afca370d6ba6c5bd3&c=107514762)  
+Waterfinatics Swim School
+
+![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=38831816c01ea103b79416f8167740f6d24eb197802c332afca370d6ba6c5bd3&c=20912795)  
+Kaylas Creations
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
