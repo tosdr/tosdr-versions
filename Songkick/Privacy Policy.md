@@ -3,10 +3,10 @@
         
         [Jersey City concerts](https://www.songkick.com/metro-areas/4690-us-jersey-city) [Jersey City concerts](https://www.songkick.com/metro-areas/4690-us-jersey-city "Jersey City concerts")
         
-        *  [![My Chemical Romance Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) My Chemical Romance  
-            MetLife Stadium](https://www.songkick.com/concerts/42271604-my-chemical-romance-at-metlife-stadium)
         *  [![Zach Bryan Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Zach Bryan  
             MetLife Stadium](https://www.songkick.com/concerts/42275668-zach-bryan-at-metlife-stadium)
+        *  [![My Chemical Romance Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) My Chemical Romance  
+            MetLife Stadium](https://www.songkick.com/concerts/42271604-my-chemical-romance-at-metlife-stadium)
         *  [![The Goo Goo Dolls Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) The Goo Goo Dolls  
             PNC Bank Arts Center](https://www.songkick.com/concerts/42279912-goo-goo-dolls-at-pnc-bank-arts-center)
         *  [![The Damned Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) The Damned  
@@ -43,11 +43,11 @@
         *  [![Kanye West Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Kanye West](https://www.songkick.com/artists/552177-kanye-west)
         *  [![Ed Sheeran Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Ed Sheeran](https://www.songkick.com/artists/2083334-ed-sheeran)
         
+        *  [![Real Boston Richey Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Real Boston Richey](https://www.songkick.com/artists/10357617-real-boston-richey)
+        *  [![Max McNown Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Max McNown](https://www.songkick.com/artists/10357429-max-mcnown)
         *  [![Mach-Hommy Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Mach-Hommy](https://www.songkick.com/artists/10357141-machhommy)
+        *  [![Stunna Girl Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Stunna Girl](https://www.songkick.com/artists/10356951-stunna-girl)
         *  [![FAVE Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) FAVE](https://www.songkick.com/artists/10356849-fave)
-        *  [![Lecade Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Lecade](https://www.songkick.com/artists/10356816-lecade)
-        *  [![Dthang Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Dthang](https://www.songkick.com/artists/10355326-dthang)
-        *  [![Dream State Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Dream State](https://www.songkick.com/artists/10356316-dream-state)
         
         Get your tour dates seen by one billion fans: [Sign up as an artist](https://tourbox.songkick.com/?utm_medium=referral&utm_source=songkick.com&utm_campaign=visitor)
         
