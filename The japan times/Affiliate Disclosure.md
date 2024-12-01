@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[December 01, 2024](https://www.japantimes.co.jp/archive/2024/12/01/ "archive page")
+[December 02, 2024](https://www.japantimes.co.jp/archive/2024/12/02/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -131,30 +131,48 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
-[Japan to overhaul tax exemption system for foreign visitors](https://www.japantimes.co.jp/news/2024/11/28/japan/tax-exemption-system-overhaul/ "Japan to overhaul tax exemption system for foreign visitors")
+[Pete Hegseth’s mother accused her son of mistreating women for years](https://www.japantimes.co.jp/news/2024/11/30/world/politics/pete-hegseth-mistreating-women-mother/ "Pete Hegseth’s mother accused her son of mistreating women for years")
 
-  [![The Ginza shopping district in Tokyo in August](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/28/437056.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Ginza shopping district in Tokyo in August")](https://www.japantimes.co.jp/news/2024/11/28/japan/tax-exemption-system-overhaul/ "Japan to overhaul tax exemption system for foreign visitors")
-
-[Japan researchers develop a simple way to spot signs of Alzheimer's disease](https://www.japantimes.co.jp/news/2024/11/28/japan/science-health/keio-university-alzheimers/ "Japan researchers develop a simple way to spot signs of Alzheimer's disease")
-
-  [![In 2022, the number of elderly people with dementia in Japan reached 4.43 million, according to data from the health ministry. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/28/436797.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "In 2022, the number of elderly people with dementia in Japan reached 4.43 million, according to data from the health ministry. ")](https://www.japantimes.co.jp/news/2024/11/28/japan/science-health/keio-university-alzheimers/ "Japan researchers develop a simple way to spot signs of Alzheimer's disease")
-
-[Tokyo police arrest six Chinese nationals over _yami baito_ scheme](https://www.japantimes.co.jp/news/2024/11/29/japan/crime-legal/chinese-arrest-kidnapping/ "Tokyo police arrest six Chinese nationals over yami baito scheme")
-
-  [![Tokyo police have arrested six Chinese nationals on suspicion of unlawful confinement and attempted extortion involving a 23-year-old exchange student who had become involved in a financial dispute over a yami baito, or a “dark” part-time job.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/29/437203.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tokyo police have arrested six Chinese nationals on suspicion of unlawful confinement and attempted extortion involving a 23-year-old exchange student who had become involved in a financial dispute over a yami baito, or a “dark” part-time job.")](https://www.japantimes.co.jp/news/2024/11/29/japan/crime-legal/chinese-arrest-kidnapping/ "Tokyo police arrest six Chinese nationals over yami baito scheme")
+  [![Pete Hegseth, U.S. President-elect Donald Trump's nominee to be secretary of defense, speaks to reporters at the Russell Senate Office Building in Washington on Nov. 21. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/30/437311.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Pete Hegseth, U.S. President-elect Donald Trump's nominee to be secretary of defense, speaks to reporters at the Russell Senate Office Building in Washington on Nov. 21. ")](https://www.japantimes.co.jp/news/2024/11/30/world/politics/pete-hegseth-mistreating-women-mother/ "Pete Hegseth’s mother accused her son of mistreating women for years")
 
 [Japan's wealthy fail to declare ¥65.5 billion in income](https://www.japantimes.co.jp/news/2024/11/30/japan/japan-wealthy-fail-declare/ "Japan's wealthy fail to declare ¥65.5 billion in income")
 
   [![Wealthy people in Japan failed to declare a total of ¥65.5 billion in taxable income in the year through June, down 33.2% from the year before, a National Tax Agency report showed Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/30/437296.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Wealthy people in Japan failed to declare a total of ¥65.5 billion in taxable income in the year through June, down 33.2% from the year before, a National Tax Agency report showed Friday.")](https://www.japantimes.co.jp/news/2024/11/30/japan/japan-wealthy-fail-declare/ "Japan's wealthy fail to declare ¥65.5 billion in income")
 
+[Princess Aiko, only child of emperor, turns 23](https://www.japantimes.co.jp/news/2024/12/01/japan/princess-aiko-turns-23/ "Princess Aiko, only child of emperor, turns 23")
+
+  [![Princess Aiko on Nov. 22 ahead of her 23rd birthday on Sunday at the Imperial Palace](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/01/437345.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Aiko on Nov. 22 ahead of her 23rd birthday on Sunday at the Imperial Palace")](https://www.japantimes.co.jp/news/2024/12/01/japan/princess-aiko-turns-23/ "Princess Aiko, only child of emperor, turns 23")
+
+[Japan researchers develop a simple way to spot signs of Alzheimer's disease](https://www.japantimes.co.jp/news/2024/11/28/japan/science-health/keio-university-alzheimers/ "Japan researchers develop a simple way to spot signs of Alzheimer's disease")
+
+  [![In 2022, the number of elderly people with dementia in Japan reached 4.43 million, according to data from the health ministry. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/28/436797.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "In 2022, the number of elderly people with dementia in Japan reached 4.43 million, according to data from the health ministry. ")](https://www.japantimes.co.jp/news/2024/11/28/japan/science-health/keio-university-alzheimers/ "Japan researchers develop a simple way to spot signs of Alzheimer's disease")
+
+[BOJ's Ueda says rate hike timing 'approaching,' Nikkei reports](https://www.japantimes.co.jp/business/2024/11/30/economy/boj-ueda-rate-hike-timing/ "BOJ's Ueda says rate hike timing 'approaching,' Nikkei reports")
+
+  [![Bank of Japan Gov. Kazuo Ueda attends a news conference after a policy meeting in Tokyo on Oct. 31.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/30/437301.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Bank of Japan Gov. Kazuo Ueda attends a news conference after a policy meeting in Tokyo on Oct. 31.")](https://www.japantimes.co.jp/business/2024/11/30/economy/boj-ueda-rate-hike-timing/ "BOJ's Ueda says rate hike timing 'approaching,' Nikkei reports")
+
 Editors' Picks
 --------------
 
+[WORLD](https://www.japantimes.co.jp/news/world/ "WORLD")
+
+[Pete Hegseth’s mother accused her son of mistreating women for years](https://www.japantimes.co.jp/news/2024/11/30/world/politics/pete-hegseth-mistreating-women-mother/ "Pete Hegseth’s mother accused her son of mistreating women for years")
+
+By [Sharon LaFraniere](https://www.japantimes.co.jp/author/1342/sharon-lafraniere/ "Sharon LaFraniere") and [Julie Tate](https://www.japantimes.co.jp/author/-15947/julie-tate/ "Julie Tate")  
+
+  [![Pete Hegseth, U.S. President-elect Donald Trump's nominee to be secretary of defense, speaks to reporters at the Russell Senate Office Building in Washington on Nov. 21. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/30/437311.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Pete Hegseth, U.S. President-elect Donald Trump's nominee to be secretary of defense, speaks to reporters at the Russell Senate Office Building in Washington on Nov. 21. ")](https://www.japantimes.co.jp/news/2024/11/30/world/politics/pete-hegseth-mistreating-women-mother/ "Pete Hegseth’s mother accused her son of mistreating women for years")
+
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Japan to overhaul tax exemption system for foreign visitors](https://www.japantimes.co.jp/news/2024/11/28/japan/tax-exemption-system-overhaul/ "Japan to overhaul tax exemption system for foreign visitors")
+[Japan's wealthy fail to declare ¥65.5 billion in income](https://www.japantimes.co.jp/news/2024/11/30/japan/japan-wealthy-fail-declare/ "Japan's wealthy fail to declare ¥65.5 billion in income")
 
-  [![The Ginza shopping district in Tokyo in August](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/28/437056.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Ginza shopping district in Tokyo in August")](https://www.japantimes.co.jp/news/2024/11/28/japan/tax-exemption-system-overhaul/ "Japan to overhaul tax exemption system for foreign visitors")
+  [![Wealthy people in Japan failed to declare a total of ¥65.5 billion in taxable income in the year through June, down 33.2% from the year before, a National Tax Agency report showed Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/30/437296.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Wealthy people in Japan failed to declare a total of ¥65.5 billion in taxable income in the year through June, down 33.2% from the year before, a National Tax Agency report showed Friday.")](https://www.japantimes.co.jp/news/2024/11/30/japan/japan-wealthy-fail-declare/ "Japan's wealthy fail to declare ¥65.5 billion in income")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Princess Aiko, only child of emperor, turns 23](https://www.japantimes.co.jp/news/2024/12/01/japan/princess-aiko-turns-23/ "Princess Aiko, only child of emperor, turns 23")
+
+  [![Princess Aiko on Nov. 22 ahead of her 23rd birthday on Sunday at the Imperial Palace](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/01/437345.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Aiko on Nov. 22 ahead of her 23rd birthday on Sunday at the Imperial Palace")](https://www.japantimes.co.jp/news/2024/12/01/japan/princess-aiko-turns-23/ "Princess Aiko, only child of emperor, turns 23")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
@@ -164,19 +182,13 @@ By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "
 
   [![In 2022, the number of elderly people with dementia in Japan reached 4.43 million, according to data from the health ministry. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/28/436797.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "In 2022, the number of elderly people with dementia in Japan reached 4.43 million, according to data from the health ministry. ")](https://www.japantimes.co.jp/news/2024/11/28/japan/science-health/keio-university-alzheimers/ "Japan researchers develop a simple way to spot signs of Alzheimer's disease")
 
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
 
-[Tokyo police arrest six Chinese nationals over _yami baito_ scheme](https://www.japantimes.co.jp/news/2024/11/29/japan/crime-legal/chinese-arrest-kidnapping/ "Tokyo police arrest six Chinese nationals over yami baito scheme")
+[BOJ's Ueda says rate hike timing 'approaching,' Nikkei reports](https://www.japantimes.co.jp/business/2024/11/30/economy/boj-ueda-rate-hike-timing/ "BOJ's Ueda says rate hike timing 'approaching,' Nikkei reports")
 
-By [Jessica Speed](https://www.japantimes.co.jp/author/5338/jessica-speed/ "Jessica Speed")  
+By [Leika Kihara](https://www.japantimes.co.jp/author/373/leika-kihara/ "Leika Kihara") and [Roushni Nair](https://www.japantimes.co.jp/author/6218/roushni-nair/ "Roushni Nair")  
 
-  [![Tokyo police have arrested six Chinese nationals on suspicion of unlawful confinement and attempted extortion involving a 23-year-old exchange student who had become involved in a financial dispute over a yami baito, or a “dark” part-time job.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/29/437203.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tokyo police have arrested six Chinese nationals on suspicion of unlawful confinement and attempted extortion involving a 23-year-old exchange student who had become involved in a financial dispute over a yami baito, or a “dark” part-time job.")](https://www.japantimes.co.jp/news/2024/11/29/japan/crime-legal/chinese-arrest-kidnapping/ "Tokyo police arrest six Chinese nationals over yami baito scheme")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Japan's wealthy fail to declare ¥65.5 billion in income](https://www.japantimes.co.jp/news/2024/11/30/japan/japan-wealthy-fail-declare/ "Japan's wealthy fail to declare ¥65.5 billion in income")
-
-  [![Wealthy people in Japan failed to declare a total of ¥65.5 billion in taxable income in the year through June, down 33.2% from the year before, a National Tax Agency report showed Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/30/437296.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Wealthy people in Japan failed to declare a total of ¥65.5 billion in taxable income in the year through June, down 33.2% from the year before, a National Tax Agency report showed Friday.")](https://www.japantimes.co.jp/news/2024/11/30/japan/japan-wealthy-fail-declare/ "Japan's wealthy fail to declare ¥65.5 billion in income")
+  [![Bank of Japan Gov. Kazuo Ueda attends a news conference after a policy meeting in Tokyo on Oct. 31.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/30/437301.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Bank of Japan Gov. Kazuo Ueda attends a news conference after a policy meeting in Tokyo on Oct. 31.")](https://www.japantimes.co.jp/business/2024/11/30/economy/boj-ueda-rate-hike-timing/ "BOJ's Ueda says rate hike timing 'approaching,' Nikkei reports")
 
 Podcast
 -------
@@ -197,9 +209,9 @@ By [Greg Dvorak](https://www.japantimes.co.jp/author/6191/greg-dvorak/ "Greg Dvo
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -239,25 +251,23 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[Nippon Ishin elects Osaka Gov. Yoshimura as leader](https://www.japantimes.co.jp/news/2024/12/01/japan/politics/nippon-ishin-elects-yoshimura-leader/ "Nippon Ishin elects Osaka Gov. Yoshimura as leader")
+
+4 hours ago
+
 [New EU chiefs visit Kyiv on first day of mandate](https://www.japantimes.co.jp/news/2024/12/01/world/politics/eu-chiefs-ukraine-visit/ "New EU chiefs visit Kyiv on first day of mandate")
 
-2 hours ago
+8 hours ago
+
+[Victims of fire at LDP lawmaker's home identified](https://www.japantimes.co.jp/news/2024/12/01/japan/fire-victims-lawmaker-home/ "Victims of fire at LDP lawmaker's home identified")
+
+9 hours ago
 
 [China vows ‘resolute and forceful’ response as Taiwan leader visits Hawaii](https://www.japantimes.co.jp/news/2024/12/01/asia-pacific/politics/taiwan-lai-pacific-hawaii/ "China vows ‘resolute and forceful’ response as Taiwan leader visits Hawaii")
 
-3 hours ago
+9 hours ago
 
 [Don’t worry, you can still use your Japan health insurance card — for now](https://www.japantimes.co.jp/news/2024/12/01/japan/explainer/my-number-insurance-card-explainer/ "Don’t worry, you can still use your Japan health insurance card — for now")
-
-6 hours ago
-
-[Suspect formally arrested in stabbing of Japanese schoolboy in China](https://www.japantimes.co.jp/news/2024/12/01/japan/crime-legal/china-school-boy-stabbing-arrest/ "Suspect formally arrested in stabbing of Japanese schoolboy in China")
-
-6 hours ago
-
-[Locals uneasy after Hokkaido nuclear waste survey results](https://www.japantimes.co.jp/news/2024/12/01/japan/society/hokkaido-nuclear-waste-survey/ "Locals uneasy after Hokkaido nuclear waste survey results")
-
-6 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
