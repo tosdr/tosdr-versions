@@ -52,8 +52,6 @@ View all results for ${ keyword }
     * [MAL Supporter](https://myanimelist.net/membership?_location=mal_h_m)
 * [![Santa Hat 2024](https://cdn.myanimelist.net/images/event/2016_christmas/MAL-Christmas-Hat.png)](https://myanimelist.net/forum/?topicid=2189767&utm_source=MAL&utm_medium=globalmenu_secretsanta2024)
 
-[](#)[**Gift & receive personalized anime recs:** Last chance to sign-up for Secret Santa 2024](https://myanimelist.net/forum/?topicid=2189767&utm_source=MAL&utm_medium=textribbon_secretsanta2024)
-
 MyAnimeList Privacy Policy
 ==========================
 
