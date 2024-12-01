@@ -83,24 +83,6 @@ Our Privacy Policy may change from time to time. We will post any privacy policy
 
 If you have any questions or concerns regarding our privacy policy please email our team at contact@freesteamkeys.com
 
- [![](https://www.freesteamkeys.com/random.jpg)
-
-![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20200%20150%22%3E%3C/svg%3E) Free Random Steam Key](https://www.freesteamkeys.com/free-random-steam-key-21/)
-
-### [Free Random Steam Key](https://www.freesteamkeys.com/free-random-steam-key-21/)
-
- [![](https://steamcdn-a.akamaihd.net/steam/apps/467090/header.jpg)
-
-![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20200%20150%22%3E%3C/svg%3E) A Game of Changes (Steam level 1+ required)](https://www.freesteamkeys.com/a-game-of-changes-steam-level-1-required/)
-
-### [A Game of Changes (Steam level 1+ required)](https://www.freesteamkeys.com/a-game-of-changes-steam-level-1-required/)
-
- [![](https://steamcdn-a.akamaihd.net/steam/apps/29900/header.jpg)
-
-![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20200%20150%22%3E%3C/svg%3E) Dark Sector](https://www.freesteamkeys.com/dark-sector/)
-
-### [Dark Sector](https://www.freesteamkeys.com/dark-sector/)
-
  [![](https://steamcdn-a.akamaihd.net/steam/apps/3339160/header.jpg)
 
 ![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20200%20150%22%3E%3C/svg%3E) World of Warships – Festive Event Pass Booster...](https://www.freesteamkeys.com/world-of-warships-festive-event-pass-booster-dlc/)
@@ -112,6 +94,24 @@ If you have any questions or concerns regarding our privacy policy please email 
 ![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20200%20150%22%3E%3C/svg%3E) World of Warships — Ning Hai (DLC)](https://www.freesteamkeys.com/world-of-warships-ning-hai-dlc/)
 
 ### [World of Warships — Ning Hai (DLC)](https://www.freesteamkeys.com/world-of-warships-ning-hai-dlc/)
+
+ [![](https://www.freesteamkeys.com/random.jpg)
+
+![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20200%20150%22%3E%3C/svg%3E) Free Random Steam Key](https://www.freesteamkeys.com/free-random-steam-key-21/)
+
+### [Free Random Steam Key](https://www.freesteamkeys.com/free-random-steam-key-21/)
+
+ [![](https://steamcdn-a.akamaihd.net/steam/apps/29900/header.jpg)
+
+![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20200%20150%22%3E%3C/svg%3E) Dark Sector](https://www.freesteamkeys.com/dark-sector/)
+
+### [Dark Sector](https://www.freesteamkeys.com/dark-sector/)
+
+ [![](https://steamcdn-a.akamaihd.net/steam/apps/467090/header.jpg)
+
+![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20200%20150%22%3E%3C/svg%3E) A Game of Changes (Steam level 1+ required)](https://www.freesteamkeys.com/a-game-of-changes-steam-level-1-required/)
+
+### [A Game of Changes (Steam level 1+ required)](https://www.freesteamkeys.com/a-game-of-changes-steam-level-1-required/)
 
  [![](https://www.freesteamkeys.com/random.jpg)
 
