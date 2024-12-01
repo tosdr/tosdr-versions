@@ -6,9 +6,6 @@ The store will not work correctly when cookies are disabled.
 
  [](#)  [](#)
 
-* BLACK FRIDAY: 15% OFF EVERYTHING - Use code BLACK15FRI at checkout  
-    
-
 * Printed & Dispatched Within 24 Hours  
     
 * Next Day Delivery Available  
