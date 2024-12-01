@@ -190,12 +190,6 @@
 
 Subscribe
 
-[#### COVID-19](#)
-
-* [Vaccines Basics](https://www.healthline.com/health/how-long-does-covid-vaccine-protect-you)
-* [Testing](https://www.healthline.com/health/types-of-covid-tests)
-* [Symptoms](https://www.healthline.com/health/coronavirus-covid-19)
-
 Terms of Use
 ============
 
