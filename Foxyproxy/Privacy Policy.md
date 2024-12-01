@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I loved the proxy service, I could watch hulu from france at a good speed, which was great.
+I've been a very happy client since 2007!
 
-Shelley MacDonald
+Shannon Latimer Marchat
