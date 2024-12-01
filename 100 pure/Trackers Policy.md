@@ -105,7 +105,7 @@ SELECT
 
 Beauty Deal - Super Fruit Oil Nourishing Eye Cream
 
-SELECT Buy for $25
+SOLD OUT Buy for $25
 
 ![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD1FSFONECM_Beauty_Deal_2022-Superfruit_Eye_Cream_Primary_2.png?em-origin=cdn.shopify.com)
 
@@ -113,7 +113,7 @@ Beauty Deal - Super Fruit Oil Nourishing Eye Cream
 
 Superfruit oils provide deep moisture, potent vitamins, and protective antioxidants to promote elasticity and lessen the appearance of lines and wrinkles.
 
-SELECT
+SOLD OUT
 
 [![](https://www.100percentpure.com/s/files/1/0648/1955/products/1FMVPMEC_Mulit_Vitamin_Eye_Cream_Primary.jpg?em-origin=cdn.shopify.com)](#product-6918011846734)
 
