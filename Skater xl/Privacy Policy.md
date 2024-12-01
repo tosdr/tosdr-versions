@@ -168,7 +168,7 @@ Experience unparalleled board control and responsiveness while you skate iconic 
 
 Recent Reviews:
 
-Mostly Positive (47) \- 76% of the 47 user reviews in the last 30 days are positive.
+Mostly Positive (48) \- 77% of the 48 user reviews in the last 30 days are positive.
 
 All Reviews:
 
@@ -202,7 +202,7 @@ Very Positive (86% of 18,154) All Time
 
 Recent Reviews:
 
-Mostly Positive (76% of 47) Recent
+Mostly Positive (77% of 48) Recent
 
 ![](https://store.fastly.steamstatic.com/public/images/game/game_highlight_image_spacer.gif)
 
@@ -457,7 +457,7 @@ System Requirements
 What Curators Say
 -----------------
 
-98 Curators have reviewed this product. Click [here](https://store.steampowered.com/curators/curatorsreviewing/?appid=962730&snr=1_5_9__top-curators) to see them.
+103 Curators have reviewed this product. Click [here](https://store.steampowered.com/curators/curatorsreviewing/?appid=962730&snr=1_5_9__top-curators) to see them.
 
 Customer reviews for Skater XL - The Ultimate Skateboarding Game
 ----------------------------------------------------------------
@@ -470,24 +470,24 @@ Very Positive (18,154 reviews) ![](https://store.fastly.steamstatic.com/public/s
 
 Recent Reviews:
 
-Mostly Positive (47 reviews) ![](https://store.fastly.steamstatic.com/public/shared/images/ico/icon_questionmark.png)
+Mostly Positive (48 reviews) ![](https://store.fastly.steamstatic.com/public/shared/images/ico/icon_questionmark.png)
 
 Review Type
 
- All (19,300)  
- Positive (16,607)  
- Negative (2,693)
+ All (19,299)  
+ Positive (16,608)  
+ Negative (2,691)
 
 Purchase Type
 
- All (19,300)  
+ All (19,299)  
  Steam Purchasers (18,154) ![](https://store.fastly.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
- Other (1,146) ![](https://store.fastly.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png) 
+ Other (1,145) ![](https://store.fastly.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png) 
 
 Language
 
- All Languages (19,300)  
- Your Languages (13,332) ![](https://store.fastly.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
+ All Languages (19,299)  
+ Your Languages (13,330) ![](https://store.fastly.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
 
 [Customize](https://store.steampowered.com//account/languagepreferences)
 
