@@ -1,6 +1,6 @@
 ![](https://www.facebook.com/tr?id=1540084302933059&ev=PageView&noscript=1)    
 
-                     
+                       
 
 ![](https://tags.w55c.net/rs?id=d5308c050ef44dc58b06a9f3df60d349&t=marketing)![](//legacybox.com/cdn/shop/t/566/assets/placeholder-pixel.png?v=50439485113009717681726754073)
 
@@ -18,7 +18,7 @@ BEST DEAL OF THE YEAR: 65% OFF LEGACYBOX 65% OFF LEGACYBOX | DEALS START AT $25
 
 DEALS STARTING AT $25
 
-[SHOP BLACK FRIDAY >](https://legacybox.com/products/legacybox-digitizing-kit)
+[SHOP CYBER MONDAY >](https://legacybox.com/products/legacybox-digitizing-kit)
 
  [![Digitize Home Movies, Photos, Slides & More with Legacybox®](https://cdn.shopify.com/s/files/1/1933/0091/files/holiday_logo.svg?v=1698879504)](https://legacybox.com/)Simplest and easiest way to convert your recorded media to digital. Legacybox is the world's largest digitizer of home movies, photos & film.
 =======================================================================================================================================================================================================================================================================================================================
