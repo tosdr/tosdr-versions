@@ -185,11 +185,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Andrew Ricket](https://cdn.returningveterans.org/images/honor/33_Andrew_Ricket_Ar.png)  
+![Phil Gioia](https://cdn.returningveterans.org/images/honor/Phil_Gioia.jpg)  
 
-**In Honor of Andrew Ricket**  
+**In Honor of Phil Gioia**  
 United States Army  
-Submitted by Messiah Lutheran Church, Vancouver Wa](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+Submitted by Anonymous](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -232,5 +232,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 11/30/24 - 7:21:56  
+Printed 12/01/24 - 1:22:05  
 © 2024 Returning Veterans Project
