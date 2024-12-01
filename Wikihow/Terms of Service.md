@@ -391,22 +391,22 @@ This Agreement was last modified on 4, December 2012.
 
 ### Featured Articles
 
+[![What Vibe Do I Give Off](https://www.wikihow.com/images/thumb/1/17/Chill-vibes.png/-crop-126-120-126px-Chill-vibes.png)
+
+What Vibe Do I Give Off Quiz](https://www.wikihow.com/What-Vibe-Do-I-Give-Off)
+
+[![Have a Nice Day at Work Message for Her](https://www.wikihow.com/images/thumb/6/60/Have-a-Nice-Day-at-Work-Message-for-Her-Step-6.jpg/-crop-126-120-126px-Have-a-Nice-Day-at-Work-Message-for-Her-Step-6.jpg)
+
+Cute, Thoughtful & Romantic Messages to Wish Her a Good Day at Work](https://www.wikihow.com/Have-a-Nice-Day-at-Work-Message-for-Her)
+
+[![Monk Mode](https://www.wikihow.com/images/thumb/4/4c/Monk-Mode-Step-21.jpg/-crop-126-120-126px-Monk-Mode-Step-21.jpg)
+
+How to  
+Use Monk Mode to Boost Your Productivity & Accomplish Your Goals](https://www.wikihow.com/Monk-Mode)
+
 [![Tiktok Bio Ideas](https://www.wikihow.com/images/thumb/d/d3/Tiktok-Bio-Ideas-Step-18.jpg/-crop-126-120-126px-Tiktok-Bio-Ideas-Step-18.jpg)
 
 200+ TikTok Bio Ideas & Tips to Grow Your Account](https://www.wikihow.com/Tiktok-Bio-Ideas)
-
-[![Stages of a Breakup](https://www.wikihow.com/images/thumb/1/19/Stages-of-a-Breakup-Step-18.jpg/-crop-126-120-126px-Stages-of-a-Breakup-Step-18.jpg)
-
-What Are the Stages of a Breakup?](https://www.wikihow.com/Stages-of-a-Breakup)
-
-[![Lip Shapes](https://www.wikihow.com/images/thumb/2/20/Lip-Shapes-Step-21.jpg/-crop-126-120-126px-Lip-Shapes-Step-21.jpg)
-
-How to  
-Find Your Lip Shape: 9 Popular Types + Makeup Tips](https://www.wikihow.com/Lip-Shapes)
-
-[![Flirty Jokes to Make Her Laugh](https://www.wikihow.com/images/thumb/2/29/Flirty-Jokes-to-Make-Her-Laugh-Step-9.jpg/-crop-126-120-126px-Flirty-Jokes-to-Make-Her-Laugh-Step-9.jpg)
-
-140 Flirty Jokes & Pick-Up Lines to Make Her Laugh](https://www.wikihow.com/Flirty-Jokes-to-Make-Her-Laugh)
 
   
 
