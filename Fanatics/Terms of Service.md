@@ -407,21 +407,21 @@ Follow Us
 * PayPal
 * Apple Pay
 
-rc: 35dacffabf202fe4
+rc: a2d53030de2e8ba5
 
-vid: d39db9e0-afb7-11ef-bc91-91fc3cac8bde
+vid: 72ea71f0-afea-11ef-bcc7-69c62f02fc32
 
 version: 1.1.0-rc-20241009-15.101420
 
 +
 
-Qualified Experiments #:Namespaces:* 2:875:0
-* 4:606:0
-* 6:1681:0
-* 7:1397:0
-* 10:7670:0
-* 11:7619:0
-* 3:1723:0
-* 5:2759:0
-* 8:3566:0
-* 9:124:0
+Qualified Experiments #:Namespaces:* 5:1270:0
+* 8:2388:0
+* 10:1355:0
+* 11:5872:0
+* 2:2297:0
+* 3:2539:0
+* 4:3344:0
+* 6:1494:0
+* 7:1431:0
+* 9:2761:0
