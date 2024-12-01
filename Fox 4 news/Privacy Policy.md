@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Trump taps loyalist Kash Patel for FBI director, vowing to 'upend' agency](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-1431862330-a.jpg?ve=1&tl=1)
+ [![Fire damages home in The Colony](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/the-colony-house-fire-12012024.png?ve=1&tl=1)
 
- ![Trump taps loyalist Kash Patel for FBI director, vowing to 'upend' agency](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-1431862330-a.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/kash-patel-fbi-director-trump)
+ ![Fire damages home in The Colony](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/the-colony-house-fire-12012024.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fire-damages-home-colony)
 
-### [Trump taps loyalist Kash Patel for FBI director, vowing to 'upend' agency](https://www.fox4news.com/news/kash-patel-fbi-director-trump)
+### [Fire damages home in The Colony](https://www.fox4news.com/news/fire-damages-home-colony)
 
- [![Southwest making a change to cabin service](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2173844231-scaled.jpg?ve=1&tl=1)
+ [![Video: Michigan Ohio State fight erupts on field after game](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/storyful-flag-bkgd.jpg?ve=1&tl=1)
 
- ![Southwest making a change to cabin service](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2173844231-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/southwest-cabin-service-change-seating-open-assigned-flights)
+ ![Video: Michigan Ohio State fight erupts on field after game](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/storyful-flag-bkgd.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/michigan-ohio-state-flag-fight-video)
 
-### [Southwest making a change to cabin service](https://www.fox4news.com/news/southwest-cabin-service-change-seating-open-assigned-flights)
+### [Video: Brawl erupts over Michigan flag celebration at Ohio State](https://www.fox4news.com/news/michigan-ohio-state-flag-fight-video)
 
- [![Costco will stop selling popular item year-round in January in most US stores: reports](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/costco-store.jpg?ve=1&tl=1)
+ [![Suspect identified in fatal Sunday morning West Oak Cliff shooting](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/120124-sh-dpd-shooting-dawes-dr_kdfw721f_186_mp4_00.07.15.38.jpg?ve=1&tl=1)
 
- ![Costco will stop selling popular item year-round in January in most US stores: reports](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/costco-store.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/costco-book-sales)
+ ![Suspect identified in fatal Sunday morning West Oak Cliff shooting](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/120124-sh-dpd-shooting-dawes-dr_kdfw721f_186_mp4_00.07.15.38.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/suspect-identified-fatal-sunday-morning-west-oak-cliff-shooting)
 
-### [Costco will stop selling popular item year-round in January in most US stores: reports](https://www.fox4news.com/news/costco-book-sales)
+### [Suspect identified in fatal Sunday morning West Oak Cliff shooting](https://www.fox4news.com/news/suspect-identified-fatal-sunday-morning-west-oak-cliff-shooting)
 
- [![2024 Atlantic Hurricane Season: 'Hyperactive' season with 3 landfalling hurricanes in Florida](https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/11/32/18/2024-hurricane-recap-2.png?ve=1&tl=1)
+ [![NASA radar accidentally finds secret Cold War 'city under the ice' in Greenland](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/campcentury_aerial_radar_lrg.jpg?ve=1&tl=1)
 
- ![2024 Atlantic Hurricane Season: 'Hyperactive' season with 3 landfalling hurricanes in Florida](https://images.foxtv.com/images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/11/32/18/592/333/2024-hurricane-recap-2.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/2024-atlantic-hurricane-season-summary)
+ ![NASA radar accidentally finds secret Cold War 'city under the ice' in Greenland](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/campcentury_aerial_radar_lrg.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/nasa-radar-accidentally-finds-secret-cold-war-city-under-ice-greenland)
 
-### [2024 Atlantic Hurricane Season: 'Hyperactive' season with 3 landfalling hurricanes in Florida](https://www.fox4news.com/news/2024-atlantic-hurricane-season-summary)
+### [NASA radar accidentally finds secret Cold War 'city under the ice' in Greenland](https://www.fox4news.com/news/nasa-radar-accidentally-finds-secret-cold-war-city-under-ice-greenland)
 
- [![Notre Dame Cathedral revealed: 1st look at restoration ahead reopening](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2186799314.jpg?ve=1&tl=1)
+ [![Can Kash Patel get confirmed by the Senate?](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-1412135183-scaled.jpg?ve=1&tl=1)
 
- ![Notre Dame Cathedral revealed: 1st look at restoration ahead reopening](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2186799314.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/notre-dame-cathedral-open)
+ ![Can Kash Patel get confirmed by the Senate?](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-1412135183-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/can-kash-patel-get-confirmed-senate)
 
-### [Notre Dame Cathedral revealed: 1st look at restoration ahead reopening](https://www.fox4news.com/news/notre-dame-cathedral-open)
+### [Kash Patel, Trump's pick for FBI director, faces skepticism in Senate](https://www.fox4news.com/news/can-kash-patel-get-confirmed-senate)
 
 ###### [News](https://www.fox4news.com/news)
 
