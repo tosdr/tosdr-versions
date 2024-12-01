@@ -124,8 +124,8 @@ Full Menu Menu
         * [Early Childhood Education](https://www.fcps.edu/academics/curriculum/early-childhood-education-0)
         * [Elementary School (K-6)](https://www.fcps.edu/academics/elementary)
         * [Secondary (7-12)](https://www.fcps.edu/academics/curriculum/middle-and-high-school-grades-7-12)
-        * [Special Education](https://www.fcps.edu/special-education-instruction)
         * [Subject Areas](https://www.fcps.edu/curriculum-subject-areas)
+        * [Special Education](https://www.fcps.edu/special-education-instruction)
     * Academic Programs
         * [Academies and Specialized Programs](https://www.fcps.edu/academics/high/career-and-technical-education/academies-and-specialized-programs)
         * [Adult and Community Education (ACE)](https://www.fcps.edu/academics/adult-and-community-education-ace-overview)
