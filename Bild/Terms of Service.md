@@ -209,25 +209,25 @@ Menü
 
 [BreakingNews
 
-Strafe kam in der Nacht: Max Verstappen verliert seine Pole-Position!
+IG Metall kündigt an: Ab Montag Warnstreiks bei VW
 
-Strafe kam in der Nacht: Max Verstappen verliert seine Pole-Position!
+IG Metall kündigt an: Ab Montag Warnstreiks bei VW
 
-Strafe kam in der Nacht: Max Verstappen verliert seine Pole-Position!
+IG Metall kündigt an: Ab Montag Warnstreiks bei VW
 
-Strafe kam in der Nacht: Max Verstappen verliert seine Pole-Position!
+IG Metall kündigt an: Ab Montag Warnstreiks bei VW
 
-Strafe kam in der Nacht: Max Verstappen verliert seine Pole-Position!
+IG Metall kündigt an: Ab Montag Warnstreiks bei VW
 
-Strafe kam in der Nacht: Max Verstappen verliert seine Pole-Position!
+IG Metall kündigt an: Ab Montag Warnstreiks bei VW
 
-Strafe kam in der Nacht: Max Verstappen verliert seine Pole-Position!
+IG Metall kündigt an: Ab Montag Warnstreiks bei VW
 
-Strafe kam in der Nacht: Max Verstappen verliert seine Pole-Position!
+IG Metall kündigt an: Ab Montag Warnstreiks bei VW
 
-Strafe kam in der Nacht: Max Verstappen verliert seine Pole-Position!
+IG Metall kündigt an: Ab Montag Warnstreiks bei VW
 
-Strafe kam in der Nacht: Max Verstappen verliert seine Pole-Position!](https://www.bild.de/sport/mehr-sport/formel-1-max-verstappen-verliert-seine-pole-position-strafe-kam-in-der-nacht-674bfe056ee5aa76f748e7cf)
+IG Metall kündigt an: Ab Montag Warnstreiks bei VW](https://www.bild.de/politik/ig-metall-kuendigt-an-ab-montag-warnstreiks-bei-vw-674c44a718feac6df319ac3d)
 
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
