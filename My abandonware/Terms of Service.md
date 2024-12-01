@@ -107,11 +107,11 @@ Top downloads
 
 Latest releases
 
+* [Grave Spirit](https://www.myabandonware.com/game/grave-spirit-td1)
+* [Urban Uprising: Dark New World](https://www.myabandonware.com/game/urban-uprising-dark-new-world-td0)
+* [Urban Uprising](https://www.myabandonware.com/game/urban-uprising-tcz)
 * [WarMachine Overload](https://www.myabandonware.com/game/warmachine-overload-tcy)
 * [Meeklits](https://www.myabandonware.com/game/meeklits-tcx)
-* [Saru STG](https://www.myabandonware.com/game/saru-stg-tcw)
-* [Vacant Ark](https://www.myabandonware.com/game/vacant-ark-tcv)
-* [Sky Sports Football Quiz: Season 02](https://www.myabandonware.com/game/sky-sports-football-quiz-season-02-tct)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
