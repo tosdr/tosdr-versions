@@ -299,6 +299,14 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Борис Грызлов: «Единая Россия» помогает всем партиям РФ соответствовать требованиям народа](https://cdn.er.ru/media/news/December2024/VaPxSdb487JfdhZPjfA2-small.jpg)](https://er.ru/activity/news/boris-gryzlov-edinaya-rossiya-pomogaet-vsem-partiyam-rf-sootvetstvovat-trebovaniyam-naroda)
+
+[Борис Грызлов: «Единая Россия» помогает всем партиям РФ соответствовать требованиям народа](https://er.ru/activity/news/boris-gryzlov-edinaya-rossiya-pomogaet-vsem-partiyam-rf-sootvetstvovat-trebovaniyam-naroda)
+
+[#Грызлов](https://er.ru/activity/news?tags%5B0%5D=68) [#ДеньРожденияПартииЕР](https://er.ru/activity/news?tags%5B0%5D=125483) [#интервью](https://er.ru/activity/news?tags%5B0%5D=82)
+
+01.12.24
+
 [![Артём Метелев: «Единая Россия» активно работает с Молодежным парламентом при Госдуме](https://cdn.er.ru/media/news/November2024/mjfbokbmbNMrG2KgfaPC-small.jpg)](https://er.ru/activity/news/artyom-metelev-edinaya-rossiya-aktivno-rabotaet-s-molodezhnym-parlamentom-pri-gosdume)
 
 [Артём Метелев: «Единая Россия» активно работает с Молодежным парламентом при Госдуме](https://er.ru/activity/news/artyom-metelev-edinaya-rossiya-aktivno-rabotaet-s-molodezhnym-parlamentom-pri-gosdume)
@@ -336,14 +344,6 @@
 [В Москве при поддержке «Единой России» прошёл ХI Международный фестиваль школьного спорта среди государств – участников Содружества Независимых Государств](https://er.ru/activity/news/v-moskve-pri-podderzhke-edinoj-rossii-proshyol-hi-mezhdunarodnyj-festival-shkolnogo-sporta-sredi-gosudarstv-uchastnikov-sodruzhestva-nezavisimyh-gosudarstv)
 
 [#Роднина](https://er.ru/activity/news?tags%5B0%5D=2239) [#Москва](https://er.ru/activity/news?tags%5B0%5D=255) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#ДетскийСпорт](https://er.ru/activity/news?tags%5B0%5D=1091126) [#соревнования](https://er.ru/activity/news?tags%5B0%5D=1175) [#состязания](https://er.ru/activity/news?tags%5B0%5D=39929) [#фестиваль](https://er.ru/activity/news?tags%5B0%5D=1671) [#СНГ](https://er.ru/activity/news?tags%5B0%5D=747)
-
-29.11.24
-
-[![«Единая Россия» продлит срок для перерегистрации товарных знаков и фирменных наименований производителей товаров с указанием на органическую продукцию](https://cdn.er.ru/media/news/November2024/dstBQaFLzbd6AYyKIMO1-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-prodlit-srok-dlya-pereregistracii-tovarnyh-znakov-i-firmennyh-naimenovanij-proizvoditelej-tovarov-s-ukazaniem-na-organicheskuyu-produkciyu)
-
-[«Единая Россия» продлит срок для перерегистрации товарных знаков и фирменных наименований производителей товаров с указанием на органическую продукцию](https://er.ru/activity/news/edinaya-rossiya-prodlit-srok-dlya-pereregistracii-tovarnyh-znakov-i-firmennyh-naimenovanij-proizvoditelej-tovarov-s-ukazaniem-na-organicheskuyu-produkciyu)
-
-[#Оглоблина](https://er.ru/activity/news?tags%5B0%5D=9223) [#предприниматели](https://er.ru/activity/news?tags%5B0%5D=121750) [#производители](https://er.ru/activity/news?tags%5B0%5D=8905) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136)
 
 29.11.24
 
