@@ -401,6 +401,24 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Trump taps loyalist Kash Patel for FBI director, vowing to 'upend' agency](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-1431862330-a.jpg?ve=1&tl=1)
+
+ ![Trump taps loyalist Kash Patel for FBI director, vowing to 'upend' agency](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-1431862330-a.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/kash-patel-fbi-director-trump)
+
+### [Trump taps loyalist Kash Patel for FBI director, vowing to 'upend' agency](https://www.fox4news.com/news/kash-patel-fbi-director-trump)
+
+ [![Southwest making a change to cabin service](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2173844231-scaled.jpg?ve=1&tl=1)
+
+ ![Southwest making a change to cabin service](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2173844231-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/southwest-cabin-service-change-seating-open-assigned-flights)
+
+### [Southwest making a change to cabin service](https://www.fox4news.com/news/southwest-cabin-service-change-seating-open-assigned-flights)
+
+ [![Costco will stop selling popular item year-round in January in most US stores: reports](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/costco-store.jpg?ve=1&tl=1)
+
+ ![Costco will stop selling popular item year-round in January in most US stores: reports](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/costco-store.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/costco-book-sales)
+
+### [Costco will stop selling popular item year-round in January in most US stores: reports](https://www.fox4news.com/news/costco-book-sales)
+
  [![2024 Atlantic Hurricane Season: 'Hyperactive' season with 3 landfalling hurricanes in Florida](https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/11/32/18/2024-hurricane-recap-2.png?ve=1&tl=1)
 
  ![2024 Atlantic Hurricane Season: 'Hyperactive' season with 3 landfalling hurricanes in Florida](https://images.foxtv.com/images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/11/32/18/592/333/2024-hurricane-recap-2.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/2024-atlantic-hurricane-season-summary)
@@ -412,24 +430,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![Notre Dame Cathedral revealed: 1st look at restoration ahead reopening](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2186799314.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/notre-dame-cathedral-open)
 
 ### [Notre Dame Cathedral revealed: 1st look at restoration ahead reopening](https://www.fox4news.com/news/notre-dame-cathedral-open)
-
- [![Israeli airstrike kills 5, including World Central Kitchen workers, amid Gaza conflict](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2186955800.jpg?ve=1&tl=1)
-
- ![Israeli airstrike kills 5, including World Central Kitchen workers, amid Gaza conflict](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2186955800.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/israeli-airstrike-world-central-kitchen)
-
-### [Israeli airstrike kills 5, including World Central Kitchen workers, amid Gaza conflict](https://www.fox4news.com/news/israeli-airstrike-world-central-kitchen)
-
- [![New CDC report shows what happened to the abortion rate after Roe was overturned](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/pro-life-protesters.jpg?ve=1&tl=1)
-
- ![New CDC report shows what happened to the abortion rate after Roe was overturned](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/pro-life-protesters.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/new-cdc-report-shows-what-happened-abortion-rate-after-roe-was-overturned)
-
-### [New CDC report shows what happened to the abortion rate after Roe was overturned](https://www.fox4news.com/news/new-cdc-report-shows-what-happened-abortion-rate-after-roe-was-overturned)
-
- [![Texas-Texas A&M rivalry full of big games and moments from Bevo to bonfire tragedy](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/08/32/18/GettyImages-134071717.jpg?ve=1&tl=1)
-
- ![Texas-Texas A&M rivalry full of big games and moments from Bevo to bonfire tragedy](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/08/32/18/592/333/GettyImages-134071717.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/texas-texas-am-rivalry-full-big-games-moments-from-bevo-bonfire-tragedy)
-
-### [Texas-Texas A&M rivalry full of big games and moments from Bevo to bonfire tragedy](https://www.fox4news.com/sports/texas-texas-am-rivalry-full-big-games-moments-from-bevo-bonfire-tragedy)
 
 ###### [News](https://www.fox4news.com/news)
 
