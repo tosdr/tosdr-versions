@@ -4,6 +4,8 @@ Black Friday Sale: Up to 60% Off! Shop Our Sale [Shop Our Sale](https://www.zap
 
 Daily Deals: Get up to 50% off! [Shop Today's Deals](https://www.zappos.com/c/coupon)
 
+Zappos VIP: Earn 5x the Points Today!\* [Join VIP](https://www.zappos.com/c/vip-dash)
+
 [![Welcome! Go to the Zappos homepage!](https://m.media-amazon.com/images/G/01/Zappos/25th-birthday-logo/Zappos-25-Years-Logo-Site.svg)](https://www.zappos.com/)
 
 Search for shoes, clothes, etc.Search
