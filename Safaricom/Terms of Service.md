@@ -104,17 +104,18 @@ Terms & Conditions
 GENERAL INFORMATION
 
 1. Safari.com is operated under license by Afritrip Group (Pty) Ltd (Reg. No. 2015/404573/07, VAT No. 4650229505).
-2. Afritrip is a member of SATSA (member #1680) as well as TBCSA.
-3. You can learn more about the Afritrip shareholders [here](https://www.safari.com/travel-with-us#financial-protection).
-4. Safari.com is an authorised reseller of all products listed on this website. In particular it is an authorised reseller of products in which it has a binding tour operator agreement.
-5. Currency and merchant outlet country - transaction Currency is ZAR (South African Rand). The merchant outlet country at the time of presenting payment options to the cardholder is South Africa.
-6. Users may contact Safari.com by sending an email to [\[email protected\]](https://www.safari.com/cdn-cgi/l/email-protection) or by using the ‘Contact Us’ button on the website. Users may also make contact by calling **+27 21 468 7255** or sending a fax to **+27 21 468 7250**.
-7. Safari.com may use all information submitted to further promote it and its partners’ websites and or services.
-8. Safari.com may, in its sole discretion, change this agreement or any part thereof at any time without notice.
-9. Safari.com chooses as its domicilium citandi et executandi for all purposes under this agreement, whether in respect of court process, notice, or other documents or communication of whatsoever nature: Watershed, 17 Dock Road, Victoria & Alfred Waterfront, Cape Town  
+2. Afritrip is a member of SATSA (member #1680)
+3. Afritrip is a member of ATTA (member #206430)
+4. You can learn more about the Afritrip shareholders [here](https://www.safari.com/travel-with-us#financial-protection).
+5. Safari.com is an authorised reseller of all products listed on this website. In particular it is an authorised reseller of products in which it has a binding tour operator agreement.
+6. Currency and merchant outlet country - transaction Currency is ZAR (South African Rand). The merchant outlet country at the time of presenting payment options to the cardholder is South Africa.
+7. Users may contact Safari.com by sending an email to [\[email protected\]](https://www.safari.com/cdn-cgi/l/email-protection) or by using the ‘Contact Us’ button on the website. Users may also make contact by calling **+27 21 468 7255** or sending a fax to **+27 21 468 7250**.
+8. Safari.com may use all information submitted to further promote it and its partners’ websites and or services.
+9. Safari.com may, in its sole discretion, change this agreement or any part thereof at any time without notice.
+10. Safari.com chooses as its domicilium citandi et executandi for all purposes under this agreement, whether in respect of court process, notice, or other documents or communication of whatsoever nature: Watershed, 17 Dock Road, Victoria & Alfred Waterfront, Cape Town  
     
-10. Safari.com operates as a guide to enable users to find, book and pay for, accommodation and packaged tours. Safari.com thus acts as an advertising medium for these services and facilitates payments through the use of a payment gateway. However, the contract is based on an offer by the establishment which is accepted by the guest and therefore exists legally between these two parties. Safari.com's responsibility with regard to any transaction is to assist both parties to agree on a booking, to receive payment from the guest for the required amount, to pass such payment to the establishment/operator after deducting agreed commission and to provide the guest with a reservation reference number, if applicable. The commission is only earned and brought to account once the client's arrangements have been completed.
-11. Safari.com is also responsible for providing support to users of the website by means of the 'Contact Us' button. In the event of a dispute between the guest and the establishment/operator, Safari.com will assist in resolving such dispute. Safari.com does not, however, underwrite or guarantee bookings between the guest and establishment/operator or the accuracy of the information portrayed by the establishment/operator or in its quote. In the event of any dispute between guest and establishment/operator, Safari.com will assist with the resolving of such disputes but is not liable to either party for any claims, damages or refunds of any type.
+11. Safari.com operates as a guide to enable users to find, book and pay for, accommodation and packaged tours. Safari.com thus acts as an advertising medium for these services and facilitates payments through the use of a payment gateway. However, the contract is based on an offer by the establishment which is accepted by the guest and therefore exists legally between these two parties. Safari.com's responsibility with regard to any transaction is to assist both parties to agree on a booking, to receive payment from the guest for the required amount, to pass such payment to the establishment/operator after deducting agreed commission and to provide the guest with a reservation reference number, if applicable. The commission is only earned and brought to account once the client's arrangements have been completed.
+12. Safari.com is also responsible for providing support to users of the website by means of the 'Contact Us' button. In the event of a dispute between the guest and the establishment/operator, Safari.com will assist in resolving such dispute. Safari.com does not, however, underwrite or guarantee bookings between the guest and establishment/operator or the accuracy of the information portrayed by the establishment/operator or in its quote. In the event of any dispute between guest and establishment/operator, Safari.com will assist with the resolving of such disputes but is not liable to either party for any claims, damages or refunds of any type.
 
 ‍
 
@@ -224,7 +225,7 @@ Customer Testimonials
 
 out of 5 based on
 
-[782 reviews](https://www.trustpilot.com/review/www.safari.com)
+[789 reviews](https://www.trustpilot.com/review/www.safari.com)
 
 ![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
@@ -380,7 +381,7 @@ Contact a safari expert now
 
 ### About us
 
-* [Contact us](https://www.safari.com/contact)[Why travel with us](https://www.safari.com/travel-with-us)[Awards](https://www.safari.com/travel-with-us#accreditations-and-awards)[Ethical wildlife policy](https://www.safari.com/travel-with-us#ethical-wildlife-tourism-policy)[FAQ](https://www.safari.com/faq)[Our story](https://www.safari.com/about-us)[Meet the team](https://www.safari.com/meet-the-team)[Careers](https://www.safari.com/careers)[Traveler reviews](https://www.trustpilot.com/review/safari.com)[Africa's Leading Safari Company 2024](https://www.safari.com/blog/safari-com-world-travel-awards-nominee-2024-vote-for-us)
+* [Contact us](https://www.safari.com/contact)[Why travel with us](https://www.safari.com/travel-with-us)[Awards](https://www.safari.com/travel-with-us#accreditations-and-awards)[Ethical wildlife policy](https://www.safari.com/travel-with-us#ethical-wildlife-tourism-policy)[FAQ](https://www.safari.com/faq)[Our story](https://www.safari.com/about-us)[Meet the team](https://www.safari.com/meet-the-team)[Careers](https://www.safari.com/careers)[Traveler reviews](https://www.safari.com/testimonials)[Africa's Leading Safari Company 2024](https://www.safari.com/blog/safari-com-world-travel-awards-nominee-2024-vote-for-us)
 * [Join Our Affiliate Program](https://www.safari.com/affiliates)
 
 ### Blog
@@ -391,7 +392,7 @@ Contact a safari expert now
 
 * [Facebook](https://www.facebook.com/safaridotcomfb)
 * [Instagram](https://www.instagram.com/safaridotcom)
-* [LinkedIn](https://za.linkedin.com/company/safaridotcom)[YouTube](https://www.youtube.com/@Safaricom-iz5ff)
+* [LinkedIn](https://za.linkedin.com/company/safaridotcom)[YouTube](https://www.youtube.com/@safaridotcom)
 
 ![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/67432d918214d84174e76798_black_writing_no_margin.png)
 
@@ -409,7 +410,7 @@ Cape Town
 Southern Africa Tourism Services Association (SATSA) – Member No. #1680  
 African Travel & Tourism Association (ATTA) – Member No. #206430  
 
-[![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/63d1a0ea20cf61c261c3c843_atta-100%20(1).png)](https://www.safari.com/travel-with-us#atta-certified)[![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/63d1a1a7574ba202acd54bab_satsa-100%20(1).png)](https://www.safari.com/travel-with-us#satsa-certified)
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/63d1a0ea20cf61c261c3c843_atta-100%20(1).png)![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/63d1a1a7574ba202acd54bab_satsa-100%20(1).png)
 
 [Terms of use](https://www.safari.com/terms-and-conditions)
 
