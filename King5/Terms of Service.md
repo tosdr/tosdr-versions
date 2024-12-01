@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/1db3f40d-8edf-4c59-ba3e-c2be172c70a6/20241201T040535/1db3f40d-8edf-4c59-ba3e-c2be172c70a6_16x9.jpg) ![](https://media.king5.com/assets/KING/images/1db3f40d-8edf-4c59-ba3e-c2be172c70a6/20241201T040535/1db3f40d-8edf-4c59-ba3e-c2be172c70a6_360x203.jpg)](https://www.king5.com/article/news/local/family-of-hookah-lounge-shooting-victim-honor-birthday-by-giving-back-community/281-ba8c9632-96b9-403e-afc0-52c9430053f8)
+        
+        #### ['We feel the loss every day': Family creates nonprofit to honor woman killed in Seattle shooting](https://www.king5.com/article/news/local/family-of-hookah-lounge-shooting-victim-honor-birthday-by-giving-back-community/281-ba8c9632-96b9-403e-afc0-52c9430053f8)
+        
     *  [![](https://media.king5.com/assets/KING/images/a9fc415c-fd4e-45c7-ab00-85aefc72b075/20241201T000552/a9fc415c-fd4e-45c7-ab00-85aefc72b075_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a9fc415c-fd4e-45c7-ab00-85aefc72b075/20241201T000552/a9fc415c-fd4e-45c7-ab00-85aefc72b075_360x203.jpg)](https://www.king5.com/article/news/local/seattle-marathon-sunday-road-closed-race-route/281-efda1f37-9a19-4c89-acc1-bada93f9029c)
         
         #### [Seattle Marathon is Sunday. See the forecast, road closures here](https://www.king5.com/article/news/local/seattle-marathon-sunday-road-closed-race-route/281-efda1f37-9a19-4c89-acc1-bada93f9029c)
-        
-    *  [![](https://media.king5.com/assets/KING/images/afcf2a83-bc1b-4b99-a8ba-7c55196b88a4/20241130T184527/afcf2a83-bc1b-4b99-a8ba-7c55196b88a4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/afcf2a83-bc1b-4b99-a8ba-7c55196b88a4/20241130T184527/afcf2a83-bc1b-4b99-a8ba-7c55196b88a4_360x203.jpg)](https://www.king5.com/article/news/local/redmond-nonprofit-calls-community-holiday-toy-gift-card-drive/281-e0330d05-d426-46ab-a6ea-3b70119bd82c)
-        
-        #### [Redmond nonprofit calls on community for holiday toy and gift card drive](https://www.king5.com/article/news/local/redmond-nonprofit-calls-community-holiday-toy-gift-card-drive/281-e0330d05-d426-46ab-a6ea-3b70119bd82c)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/88ce5451-b423-43de-bdd1-df1d89bf700d/20241130T163126/88ce5451-b423-43de-bdd1-df1d89bf700d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/88ce5451-b423-43de-bdd1-df1d89bf700d/20241130T163126/88ce5451-b423-43de-bdd1-df1d89bf700d_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/1e7fd39f-a704-45a2-bcdc-29cdc521cb45/20241201T062939/1e7fd39f-a704-45a2-bcdc-29cdc521cb45_16x9.jpg) ![](https://media.king5.com/assets/KING/images/1e7fd39f-a704-45a2-bcdc-29cdc521cb45/20241201T062939/1e7fd39f-a704-45a2-bcdc-29cdc521cb45_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-43°
+40°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
