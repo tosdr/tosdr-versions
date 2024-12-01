@@ -1,4 +1,4 @@
-846961698272f99812c9-d312-49b0-8773-fda1513a1567:1938125fefc19997
+84698469589395f42135-d04c-46be-8957-1cf19a092e75:1938271e60e19997
 
 [Skip to main content](#mainContent)
 
@@ -12,7 +12,7 @@
 * [Brand Outlet](https://www.ebay.com/b/Brand-Outlet/bn_7115532402)
 * [Gift Cards](https://www.ebay.com/giftcards)
 * [Help & Contact](https://www.ebay.com/help/home)
-* [![Find out more](https://ir.ebaystatic.com/cr/v/c01/EB-20562_NA_102824_CC_SMALL_BIZ_SAT_Nov30_RW48_Doodle_150x30_FINAL2.png)](https://pages.ebay.com/small-business-saturday)
+* [![Get the coupon](https://ir.ebaystatic.com/cr/v/c01/EB-20526_NA_102124_Deals_CYBER_5_SFC_Nov25_RW48_V3_Doodle_150x30_FINAL2.jpg)](https://www.ebay.com/e/daily-deals/24-rw48-cyber-week-main)
 
 * [Sell](https://www.ebay.com/sl/sell)
 * [Watchlist](https://www.ebay.com/mye/myebay/watchlist "Watchlist")[Expand Watch List](#gh-wl-click)
