@@ -111,6 +111,10 @@ Most recent
 
 [01-12-2024
 
+EU warns use of force against protestors in Georgia ‘unacceptable’](https://www.euractiv.com/section/global-europe/news/eu-warns-use-of-force-against-protestors-in-georgia-unacceptable/)[01-12-2024
+
+EU’s top diplomat urges Europe to ‘keep all options open’ on Ukraine](https://www.euractiv.com/section/global-europe/news/eus-top-diplomat-urges-europe-to-keep-all-options-open-on-ukraine/)[01-12-2024
+
 Ireland’s centre-right parties close in on re-election, may need new partner](https://www.euractiv.com/section/politics/news/irelands-centre-right-parties-close-in-on-re-election-may-need-new-partner/)[01-12-2024
 
 New EU top officials Costa, Kallas, Kos kick off mandate with support visit to Kyiv](https://www.euractiv.com/section/global-europe/news/new-eu-top-officials-costa-kallas-kos-kick-off-mandate-with-support-visit-to-kyiv/)[01-12-2024
@@ -125,11 +129,7 @@ Democracy’s next great challenge – strengthening institutions to protect jou
 
 Bauhaus projects are maturing, lessons from von der Leyen’s marquee strategy](https://www.euractiv.com/section/politics/news/bauhaus-projects-after-three-creative-years-lessons-from-von-der-leyens-marquee-strategy/)[30-11-2024
 
-Is China striding past Europe, America and Japan on nuclear fusion?](https://www.euractiv.com/section/eet/news/is-china-striding-past-europe-america-and-japan-on-nuclear-fusion/)[30-11-2024
-
-Parliament can bring all stakeholders around the table to work on Alzheimer’s, says MEP Jerković](https://www.euractiv.com/section/health-consumers/news/european-parliament-can-bring-all-stakeholders-around-the-table-to-work-on-alzheimers-says-mep-jerkovic/)[30-11-2024
-
-Combating foreign influences in media, experts call on EU to step up action](https://www.euractiv.com/section/politics/news/combating-foreign-influences-in-media-experts-call-on-eu-to-step-up-action/)
+Is China striding past Europe, America and Japan on nuclear fusion?](https://www.euractiv.com/section/eet/news/is-china-striding-past-europe-america-and-japan-on-nuclear-fusion/)
 
 ###### Advertisement
 
