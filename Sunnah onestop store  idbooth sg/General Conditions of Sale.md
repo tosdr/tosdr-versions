@@ -172,7 +172,7 @@ Search
     
     [![100ml Black Seed Oil - Ethiopian](//sunnahosstore-id.com/cdn/shop/files/NBP01-100ML-BLACK_SEED_OIL_1024x1024.jpg?v=1720875594)
     
-    No reviews
+    1 review
     
     100ml Black Seed Oil - Ethiopian
     
@@ -184,7 +184,7 @@ Search
     
     [![60 Softgel Capsules x 500mg Black Seed Oil](//sunnahosstore-id.com/cdn/shop/files/NBP-60SOFTGELCAP-BLACK_SEED_OIL_1024x1024.jpg?v=1720875635)
     
-    No reviews
+    1 review
     
     60 Softgel Capsules x 500mg Black Seed Oil
     
