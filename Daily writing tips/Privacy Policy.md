@@ -84,7 +84,7 @@ We collect information about visitors who comment on Sites that use our Akismet 
 
 10\. CONTACT INFORMATION
 
-If you have any questions about this Policy or our practices related to this website, please contact us at info@dailywritingtips.com.
+If you have any questions about this Policy or our practices related to this website, please contact us at [\[email protected\]](https://www.dailywritingtips.com/cdn-cgi/l/email-protection).
 
 #### Advertising.
 
