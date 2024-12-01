@@ -575,7 +575,6 @@ Footer Navigation
     * [Identity Theft](https://www.irs.gov/identity-theft-central)
     * [Tax scams](https://www.irs.gov/help/tax-scams)
     * [Tax Fraud](https://www.irs.gov/compliance/criminal-investigation/tax-fraud-alerts)
-    * [Criminal Investigation](https://www.irs.gov/compliance/criminal-investigation)
     * [Whistleblower Office](https://www.irs.gov/compliance/whistleblower-office)
 * Languages
     * [Español](https://www.irs.gov/es)
