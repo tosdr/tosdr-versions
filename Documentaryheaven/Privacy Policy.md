@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Man on Mars: Mission to the Red Planet](/wp-content/thumbnails/8610-100x70.jpg?x53432)
+* [![Where Did We Come From](/wp-content/thumbnails/6621-100x70.png?x53432)
     
-    Man on Mars: Mission to the Red Planet
+    Where Did We Come From
     
-    Mars, the red planet, we have long wondered if it has ever sustained life. Some have dreamt of walking on its surface but more than four decades after they landed on the Moon, NASA are imagining a two](https://documentaryheaven.com/man-on-mars-mission-to-red-planet/ "Man on Mars: Mission to the Red Planet")
-* [![12th and Delaware](/wp-content/thumbnails/5850-100x70.jpg?x53432)
+    Journey back in time to the birth of our solar system to examine whether the key to our planet’s existence might have been the explosive shockwave of an ancient supernova. Meet a chemist who has yield](https://documentaryheaven.com/where-did-we-come-from/ "Where Did We Come From")
+* [![The Voynich Code: The World’s Most Mysterious Manuscript](/wp-content/thumbnails/14251-100x70.jpg?x53432)
     
-    12th and Delaware
+    The Voynich Code: The World’s Most Mysterious Manuscript
     
-    The two sides of the abortion debate in America literally face one another in this documentary from filmmakers Heidi Ewing and Rachel Grady. In Fort Pierce, Florida, a women's heath care center is loc](https://documentaryheaven.com/12th-and-delaware/ "12th and Delaware")
-* [![Passport to Pluto and Beyond](/wp-content/thumbnails/1193-100x70.jpg?x53432)
+    Since the beginning of time people have searched for means to keep certain communication private, over the years this developed into encoding information with cyphers, this is especially true with reg](https://documentaryheaven.com/voynich-code-worlds-most-mysterious-manuscript/ "The Voynich Code: The World’s Most Mysterious Manuscript")
+* [![9/11: THE SENSIBLE DOUBT](/wp-content/thumbnails/6722-100x70.jpeg?x53432)
     
-    Passport to Pluto and Beyond
+    9/11: THE SENSIBLE DOUBT
     
-    Passport to Pluto takes you inside this historic NASA endeavor, from Pluto's discovery at Lowell Observatory in 1930 through launch of the New Horizons spacecraft from Cape Canaveral Air Force Station](https://documentaryheaven.com/passport-to-pluto-and-beyond/ "Passport to Pluto and Beyond")
-* [![Ice Age Columbus: Who were the First Americans?](/wp-content/thumbnails/3166-100x70.jpg?x53432)
+    What happened September 11, 2001? All over the world, people question the official story and explanation about the events that took place in USA more than 10 years ago. In this Danish documentary you](https://documentaryheaven.com/911-the-sensible-doubt/ "9/11: THE SENSIBLE DOUBT")
+* [![Jonestown Cult Suicides](/wp-content/thumbnails/11087-100x70.jpg?x53432)
     
-    Ice Age Columbus: Who were the First Americans?
+    Jonestown Cult Suicides
     
-    Traditional history tells us that European settlers discovered America about the time of the Renaissance. But revolutionary new archaeological data and the latest DNA research reveal that Europeans vi](https://documentaryheaven.com/iceage-columbus-who-were-the-first-americans/ "Ice Age Columbus: Who were the First Americans?")
-* [![Rico: The Legacy](/wp-content/thumbnails/1633-100x70.jpg?x53432)
+    In 1977, evangelical preacher Jim Jones fled the United States with nearly a thousand followers of his peoples temple cult. Deep in the South American jungle they set about building a new community an](https://documentaryheaven.com/jonestown-cult-suicides/ "Jonestown Cult Suicides")
+* [![Garavito: The World’s Worst Serial Killer](/wp-content/thumbnails/8437-100x70.jpg?x53432)
     
-    Rico: The Legacy
+    Garavito: The World’s Worst Serial Killer
     
-    English"This documentary (made by Jep Jorba, Miquel Àngel Arnáiz and Ester Casals) is a very humble documentary, in terms of money and material resources. We know that it has its limitations and c](https://documentaryheaven.com/rico-the-legacy/ "Rico: The Legacy")
+    20th centuries most prolific serial killer is largely unknown throughout the world, though he brutally murdered at least 140 children, posing as a priest or teacher he lured poor young boys away from](https://documentaryheaven.com/garavito-worlds-worst-serial-killer/ "Garavito: The World’s Worst Serial Killer")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
