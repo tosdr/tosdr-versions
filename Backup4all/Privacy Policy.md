@@ -1,6 +1,6 @@
  ![Limited time promo](https://www.backup4all.com/images/promo/blackfriday/badge-black-friday.png?ek79cy)
 
-#### Black Friday sale: 70% Discount for Backup4all Pro to unlock new features (Save US$ 34.99)
+#### Cyber Monday sale: 70% Discount for Backup4all Pro to unlock new features (Save US$ 34.99).
 
 Buy (US$ 15.00)
 
@@ -301,15 +301,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How the incremental limit works in Backup4all](https://www.backup4all.com/how-the-incremental-limit-works-in-backup4all-kb.html)  
+* [How to back up data files from Dropbox using ...](https://www.backup4all.com/how-to-back-up-data-files-from-dropbox-using-backup4all-kb.html)  
     
-* [How to restore a backup from Google Drive](https://www.backup4all.com/how-to-restore-a-backup-from-google-drive-kb.html)  
+* [How to back up data files from ThinkOn using ...](https://www.backup4all.com/how-to-back-up-data-files-from-thinkon-using-backup4all-kb.html)  
     
-* [How to back up files from Cloudflare R2 using ...](https://www.backup4all.com/how-to-back-up-files-from-cloudflare-r2-using-backup4all-kb.html)  
+* [How to restore a backup job created with a Ba ...](https://www.backup4all.com/how-to-restore-a-backup-job-created-with-a-backup4all-plugin-kb.html)  
     
-* [How to install Backup4all using the main inte ...](https://www.backup4all.com/how-to-install-backup4all-using-the-main-interface-kb.html)  
+* [Activation - Frequently Asked Questions](https://www.backup4all.com/activation-faq-kb.html)  
     
-* [How to schedule a backup job or backup tag wi ...](https://www.backup4all.com/how-to-schedule-a-backup-job-or-backup-tag-without-using-backup4ll-kb.html)  
+* [How to schedule a backup job in the New Backu ...](https://www.backup4all.com/how-to-schedule-a-backup-job-in-the-new-backup-wizard-kb.html)  
     
 
 Choose language:
