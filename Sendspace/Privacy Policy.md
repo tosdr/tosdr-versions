@@ -112,7 +112,6 @@ Your browser does not support JavaScript or JavaScript is disabled. You must ena
     * [About Us](https://www.sendspace.com/about.html)
     * [Terms Of Use](https://www.sendspace.com/terms.html)
     * [Privacy Policy](https://www.sendspace.com/privacy_policy.html)
-    * [For Mobile](https://www.sendspace.com/?desktop_version=false)
 * * Tools
     * [Wizard (Win\*, Mac, Linux)](https://www.sendspace.com/download_wizard.html)
     * [SendSpace for Android](https://www.sendspace.com/download_android.html)
@@ -120,7 +119,6 @@ Your browser does not support JavaScript or JavaScript is disabled. You must ena
 * * Help & Support
     * [Contact Us](https://www.sendspace.com/help.html)
     * [FAQ](https://www.sendspace.com/faqs.html "Frequently Asked Questions")
-* [![SendSpace Android Application QR](/img/androidqr.gif)](https://market.android.com/details?id=com.app.sendspace.mobile "SendSpace Android Application")
 
 © 2005-2024 sendspace.com
 
