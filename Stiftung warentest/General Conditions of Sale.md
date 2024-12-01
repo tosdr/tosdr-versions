@@ -664,12 +664,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Jugend testet 2023: Drei Mal Gold für den Test-Nach­wuchs](https://www.test.de/Jugend-testet-2023-Drei-Mal-Gold-fuer-den-Test-Nachwuchs-6008280-0/ "Jugend testet 2023 - Drei Mal Gold für den Test-Nachwuchs")
-* [Kiefer­ortho­pädie bei Kindern: Wann die Behand­lung starten sollte](https://www.test.de/Kieferorthopaedie-bei-Kindern-Wann-die-Behandlung-starten-sollte-1783943-0/ "Kieferorthopädie bei Kindern - Wann die Behandlung starten sollte")
-* [Wasser sparen im Garten: Viel säen, wenig gießen](https://www.test.de/Wasser-sparen-Viel-saeen-wenig-giessen-6105569-0/ "Wasser sparen im Garten - Viel säen, wenig gießen")
-* [Unter­nehmens­beteiligung: Riskante Beteiligung auf Raten](https://www.test.de/Unternehmensbeteiligung-Riskante-Beteiligung-auf-Raten-5978862-0/ "Unternehmensbeteiligung - Riskante Beteiligung auf Raten")
-* [Handy selbst reparieren: Samsungs und Apples Reparier-Sets im Selbst­versuch](https://www.test.de/Handy-selbst-reparieren-Samsungs-und-Apples-Reparier-Sets-im-Selbstversuch-6053520-0/ "Handy selbst reparieren - Samsungs und Apples Reparier-Sets im Selbstversuch")
-* [Gut essen mit der Stiftung Warentest: Sommer­rollen mit Dip](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Sommerrollen-mit-Dip-6029819-0/ "Gut essen mit der Stiftung Warentest - Sommerrollen mit Dip")
+* [Stromspeicher für Photovoltaik-Anlagen: Für wen sich ein Akku lohnt – und für wen nicht](https://www.test.de/Stromspeicher-im-Test-5977464-0/ "Stromspeicher für Photovoltaik-Anlagen - Für wen sich ein Akku lohnt – und für wen nicht")
+* [Dubiose Anbieter: Vorsicht vor Betrug mit Fest­geld](https://www.test.de/Dubiose-Anbieter-Vorsicht-vor-Betrug-mit-Festgeld-6132804-0/ "Dubiose Anbieter - Vorsicht vor Betrug mit Festgeld")
+* [Gut essen mit der Stiftung Warentest: Kotelett mit Papaya](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Kotelett-mit-Papaya-6064358-0/ "Gut essen mit der Stiftung Warentest - Kotelett mit Papaya")
+* [Gewusst wie: Güns­tiges Giro­konto](https://www.test.de/Gewusst-wie-Guenstiges-Girokonto-5977567-0/ "Gewusst wie - Günstiges Girokonto")
+* [Smartwatch-Gesund­heits­funk­tionen im Test: Nicht auf alle Werte ist Verlass](https://www.test.de/smartwatch-gesundheitsfunktionen-im-test-6072292-0/ "Smartwatch-Gesundheitsfunktionen im Test - Nicht auf alle Werte ist Verlass")
+* [Konto­voll­macht: In drei einfachen Schritten zur Bank­voll­macht](https://www.test.de/Gewusst-wie-Bankvollmacht-6118803-0/ "Kontovollmacht - In drei einfachen Schritten zur Bankvollmacht")
 
 Weitere Informationen
 
@@ -3082,12 +3082,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Jugend testet 2023: Drei Mal Gold für den Test-Nach­wuchs](https://www.test.de/Jugend-testet-2023-Drei-Mal-Gold-fuer-den-Test-Nachwuchs-6008280-0/ "Jugend testet 2023 - Drei Mal Gold für den Test-Nachwuchs")
-* [Kiefer­ortho­pädie bei Kindern: Wann die Behand­lung starten sollte](https://www.test.de/Kieferorthopaedie-bei-Kindern-Wann-die-Behandlung-starten-sollte-1783943-0/ "Kieferorthopädie bei Kindern - Wann die Behandlung starten sollte")
-* [Wasser sparen im Garten: Viel säen, wenig gießen](https://www.test.de/Wasser-sparen-Viel-saeen-wenig-giessen-6105569-0/ "Wasser sparen im Garten - Viel säen, wenig gießen")
-* [Unter­nehmens­beteiligung: Riskante Beteiligung auf Raten](https://www.test.de/Unternehmensbeteiligung-Riskante-Beteiligung-auf-Raten-5978862-0/ "Unternehmensbeteiligung - Riskante Beteiligung auf Raten")
-* [Handy selbst reparieren: Samsungs und Apples Reparier-Sets im Selbst­versuch](https://www.test.de/Handy-selbst-reparieren-Samsungs-und-Apples-Reparier-Sets-im-Selbstversuch-6053520-0/ "Handy selbst reparieren - Samsungs und Apples Reparier-Sets im Selbstversuch")
-* [Gut essen mit der Stiftung Warentest: Sommer­rollen mit Dip](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Sommerrollen-mit-Dip-6029819-0/ "Gut essen mit der Stiftung Warentest - Sommerrollen mit Dip")
+* [Stromspeicher für Photovoltaik-Anlagen: Für wen sich ein Akku lohnt – und für wen nicht](https://www.test.de/Stromspeicher-im-Test-5977464-0/ "Stromspeicher für Photovoltaik-Anlagen - Für wen sich ein Akku lohnt – und für wen nicht")
+* [Dubiose Anbieter: Vorsicht vor Betrug mit Fest­geld](https://www.test.de/Dubiose-Anbieter-Vorsicht-vor-Betrug-mit-Festgeld-6132804-0/ "Dubiose Anbieter - Vorsicht vor Betrug mit Festgeld")
+* [Gut essen mit der Stiftung Warentest: Kotelett mit Papaya](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Kotelett-mit-Papaya-6064358-0/ "Gut essen mit der Stiftung Warentest - Kotelett mit Papaya")
+* [Gewusst wie: Güns­tiges Giro­konto](https://www.test.de/Gewusst-wie-Guenstiges-Girokonto-5977567-0/ "Gewusst wie - Günstiges Girokonto")
+* [Smartwatch-Gesund­heits­funk­tionen im Test: Nicht auf alle Werte ist Verlass](https://www.test.de/smartwatch-gesundheitsfunktionen-im-test-6072292-0/ "Smartwatch-Gesundheitsfunktionen im Test - Nicht auf alle Werte ist Verlass")
+* [Konto­voll­macht: In drei einfachen Schritten zur Bank­voll­macht](https://www.test.de/Gewusst-wie-Bankvollmacht-6118803-0/ "Kontovollmacht - In drei einfachen Schritten zur Bankvollmacht")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -3138,12 +3138,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Jugend testet 2023: Drei Mal Gold für den Test-Nach­wuchs](https://www.test.de/Jugend-testet-2023-Drei-Mal-Gold-fuer-den-Test-Nachwuchs-6008280-0/ "Jugend testet 2023 - Drei Mal Gold für den Test-Nachwuchs")
-* [Kiefer­ortho­pädie bei Kindern: Wann die Behand­lung starten sollte](https://www.test.de/Kieferorthopaedie-bei-Kindern-Wann-die-Behandlung-starten-sollte-1783943-0/ "Kieferorthopädie bei Kindern - Wann die Behandlung starten sollte")
-* [Wasser sparen im Garten: Viel säen, wenig gießen](https://www.test.de/Wasser-sparen-Viel-saeen-wenig-giessen-6105569-0/ "Wasser sparen im Garten - Viel säen, wenig gießen")
-* [Unter­nehmens­beteiligung: Riskante Beteiligung auf Raten](https://www.test.de/Unternehmensbeteiligung-Riskante-Beteiligung-auf-Raten-5978862-0/ "Unternehmensbeteiligung - Riskante Beteiligung auf Raten")
-* [Handy selbst reparieren: Samsungs und Apples Reparier-Sets im Selbst­versuch](https://www.test.de/Handy-selbst-reparieren-Samsungs-und-Apples-Reparier-Sets-im-Selbstversuch-6053520-0/ "Handy selbst reparieren - Samsungs und Apples Reparier-Sets im Selbstversuch")
-* [Gut essen mit der Stiftung Warentest: Sommer­rollen mit Dip](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Sommerrollen-mit-Dip-6029819-0/ "Gut essen mit der Stiftung Warentest - Sommerrollen mit Dip")
+* [Stromspeicher für Photovoltaik-Anlagen: Für wen sich ein Akku lohnt – und für wen nicht](https://www.test.de/Stromspeicher-im-Test-5977464-0/ "Stromspeicher für Photovoltaik-Anlagen - Für wen sich ein Akku lohnt – und für wen nicht")
+* [Dubiose Anbieter: Vorsicht vor Betrug mit Fest­geld](https://www.test.de/Dubiose-Anbieter-Vorsicht-vor-Betrug-mit-Festgeld-6132804-0/ "Dubiose Anbieter - Vorsicht vor Betrug mit Festgeld")
+* [Gut essen mit der Stiftung Warentest: Kotelett mit Papaya](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Kotelett-mit-Papaya-6064358-0/ "Gut essen mit der Stiftung Warentest - Kotelett mit Papaya")
+* [Gewusst wie: Güns­tiges Giro­konto](https://www.test.de/Gewusst-wie-Guenstiges-Girokonto-5977567-0/ "Gewusst wie - Günstiges Girokonto")
+* [Smartwatch-Gesund­heits­funk­tionen im Test: Nicht auf alle Werte ist Verlass](https://www.test.de/smartwatch-gesundheitsfunktionen-im-test-6072292-0/ "Smartwatch-Gesundheitsfunktionen im Test - Nicht auf alle Werte ist Verlass")
+* [Konto­voll­macht: In drei einfachen Schritten zur Bank­voll­macht](https://www.test.de/Gewusst-wie-Bankvollmacht-6118803-0/ "Kontovollmacht - In drei einfachen Schritten zur Bankvollmacht")
 
 Neueste Tests
 
@@ -3156,12 +3156,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Jugend testet 2023: Drei Mal Gold für den Test-Nach­wuchs](https://www.test.de/Jugend-testet-2023-Drei-Mal-Gold-fuer-den-Test-Nachwuchs-6008280-0/ "Jugend testet 2023 - Drei Mal Gold für den Test-Nachwuchs")
-* [Kiefer­ortho­pädie bei Kindern: Wann die Behand­lung starten sollte](https://www.test.de/Kieferorthopaedie-bei-Kindern-Wann-die-Behandlung-starten-sollte-1783943-0/ "Kieferorthopädie bei Kindern - Wann die Behandlung starten sollte")
-* [Wasser sparen im Garten: Viel säen, wenig gießen](https://www.test.de/Wasser-sparen-Viel-saeen-wenig-giessen-6105569-0/ "Wasser sparen im Garten - Viel säen, wenig gießen")
-* [Unter­nehmens­beteiligung: Riskante Beteiligung auf Raten](https://www.test.de/Unternehmensbeteiligung-Riskante-Beteiligung-auf-Raten-5978862-0/ "Unternehmensbeteiligung - Riskante Beteiligung auf Raten")
-* [Handy selbst reparieren: Samsungs und Apples Reparier-Sets im Selbst­versuch](https://www.test.de/Handy-selbst-reparieren-Samsungs-und-Apples-Reparier-Sets-im-Selbstversuch-6053520-0/ "Handy selbst reparieren - Samsungs und Apples Reparier-Sets im Selbstversuch")
-* [Gut essen mit der Stiftung Warentest: Sommer­rollen mit Dip](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Sommerrollen-mit-Dip-6029819-0/ "Gut essen mit der Stiftung Warentest - Sommerrollen mit Dip")
+* [Stromspeicher für Photovoltaik-Anlagen: Für wen sich ein Akku lohnt – und für wen nicht](https://www.test.de/Stromspeicher-im-Test-5977464-0/ "Stromspeicher für Photovoltaik-Anlagen - Für wen sich ein Akku lohnt – und für wen nicht")
+* [Dubiose Anbieter: Vorsicht vor Betrug mit Fest­geld](https://www.test.de/Dubiose-Anbieter-Vorsicht-vor-Betrug-mit-Festgeld-6132804-0/ "Dubiose Anbieter - Vorsicht vor Betrug mit Festgeld")
+* [Gut essen mit der Stiftung Warentest: Kotelett mit Papaya](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Kotelett-mit-Papaya-6064358-0/ "Gut essen mit der Stiftung Warentest - Kotelett mit Papaya")
+* [Gewusst wie: Güns­tiges Giro­konto](https://www.test.de/Gewusst-wie-Guenstiges-Girokonto-5977567-0/ "Gewusst wie - Günstiges Girokonto")
+* [Smartwatch-Gesund­heits­funk­tionen im Test: Nicht auf alle Werte ist Verlass](https://www.test.de/smartwatch-gesundheitsfunktionen-im-test-6072292-0/ "Smartwatch-Gesundheitsfunktionen im Test - Nicht auf alle Werte ist Verlass")
+* [Konto­voll­macht: In drei einfachen Schritten zur Bank­voll­macht](https://www.test.de/Gewusst-wie-Bankvollmacht-6118803-0/ "Kontovollmacht - In drei einfachen Schritten zur Bankvollmacht")
 
 Stiftung Warentest
 
