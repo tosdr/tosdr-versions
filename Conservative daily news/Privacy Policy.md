@@ -181,6 +181,8 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [The BAD KAK WW III Build](https://www.thegunpage.com/the-bad-kak-ww-iii-build/10612204)
+* [Illegal Alien’s Purchase Of 170 Guns Raises Eyebrows](https://www.thegunpage.com/illegal-aliens-purchase-of-170-guns-raises-eyebrows/10612201)
 * [Why the First Kalashnikov Machine Gun was a Complete Failure?](https://www.thegunpage.com/why-the-first-kalashnikov-machine-gun-was-a-complete-failure/10612197)
 * [POTD: FN Minimi & FORT-600 In Ukraine](https://www.thegunpage.com/potd-fn-minimi-fort-600-in-ukraine/10612198)
 * [TFB Podcast Roundup 157: The Black Friday 2024 Roundup](https://www.thegunpage.com/tfb-podcast-roundup-157-the-black-friday-2024-roundup/10612199)
@@ -189,8 +191,6 @@ Recent Posts
 * [NY Pols Plan To Require Firearms Seizures At Domestic Calls](https://www.thegunpage.com/ny-pols-plan-to-require-firearms-seizures-at-domestic-calls/10612188)
 * [Oldest Gun Ever Found In U.S. Unearthed In Arizona](https://www.thegunpage.com/oldest-gun-ever-found-in-u-s-unearthed-in-arizona/10612185)
 * [China Builds A Recoilless 7.62 Round… For Drones!](https://www.thegunpage.com/china-builds-a-recoilless-7-62-round-for-drones/10612189)
-* [Missouri Congressman Plans Bill To Abolish The ATF](https://www.thegunpage.com/missouri-congressman-plans-bill-to-abolish-the-atf/10612184)
-* [Election Analysis: It’s the Guns, Stupid!](https://www.thegunpage.com/election-analysis-its-the-guns-stupid/10612183)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -232,15 +232,15 @@ Contact Us
 
 Recent Comments
 
+* Stanley Warner on [A World of Leverage](https://www.conservativedailynews.com/2024/11/a-world-of-leverage/#comment-783463)
+* Stanley Warner on [Trump Will Redirect Billions In Unspent Funds From Biden’s Climate Law To ‘Real Infrastructure’](https://www.conservativedailynews.com/2024/11/trump-will-redirect-billions-in-unspent-funds-from-bidens-climate-law-to-real-infrastructure/#comment-783462)
+* Stanley Warner on [The Inequity of the Pursuit of Equity in the military over preparedness is at best dereliction of duty](https://www.conservativedailynews.com/2024/11/the-inequity-of-the-pursuit-of-equity-in-the-military-over-preparedness-is-at-best-dereliction-of-duty/#comment-783461)
 * KayCee on [A Cautionary Note for Republicans Celebrating Trump’s Historic Victory](https://www.conservativedailynews.com/2024/11/a-cautionary-note-for-republicans-celebrating-trumps-historic-victory/#comment-783440)
 * [cotobuzz](http://www.cotobuzz.com/) on [The Inequity of the Pursuit of Equity in the military over preparedness is at best dereliction of duty](https://www.conservativedailynews.com/2024/11/the-inequity-of-the-pursuit-of-equity-in-the-military-over-preparedness-is-at-best-dereliction-of-duty/#comment-783438)
 * Bill Wallace on [The Inequity of the Pursuit of Equity in the military over preparedness is at best dereliction of duty](https://www.conservativedailynews.com/2024/11/the-inequity-of-the-pursuit-of-equity-in-the-military-over-preparedness-is-at-best-dereliction-of-duty/#comment-783437)
 * Jeff L. on [Shocker: Liberal Professor Concludes liberals should try to Persuade Voters of their Views](https://www.conservativedailynews.com/2024/11/shocker-liberal-professor-concludes-liberals-should-try-to-persuade-voters-of-their-views/#comment-783431)
 * Catboss on [Lame Duck Biden Admin Cuts Massive Check For Failing EV Manufacturer](https://www.conservativedailynews.com/2024/11/lame-duck-biden-admin-cuts-massive-check-for-failing-ev-manufacturer/#comment-783425)
 * Catboss on [Lame Duck Biden Admin Cuts Massive Check For Failing EV Manufacturer](https://www.conservativedailynews.com/2024/11/lame-duck-biden-admin-cuts-massive-check-for-failing-ev-manufacturer/#comment-783424)
-* Catboss on [Lame Duck Biden Admin Cuts Massive Check For Failing EV Manufacturer](https://www.conservativedailynews.com/2024/11/lame-duck-biden-admin-cuts-massive-check-for-failing-ev-manufacturer/#comment-783423)
-* charles wilkins on [Something to be Thankful For](https://www.conservativedailynews.com/2024/11/something-to-be-thankful-for/#comment-783422)
-* Stanley Warner on [Lame Duck Biden Admin Cuts Massive Check For Failing EV Manufacturer](https://www.conservativedailynews.com/2024/11/lame-duck-biden-admin-cuts-massive-check-for-failing-ev-manufacturer/#comment-783421)
 
 [Close](#)
 
