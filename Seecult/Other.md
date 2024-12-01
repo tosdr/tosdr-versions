@@ -298,11 +298,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-papic/6-fotki-iz-foldera-quotsa-buvljakaquot/faces226.jpg?itok=icmLBJsy)](http://seecult.org/galerija/galerija-umetnika/dragan-papic/6-fotki-iz-foldera-sa-buvljaka)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/tatjana-ilic/pticu-nosim-zbog-umetnickog-rada/slika-12.jpg?itok=z4fdnrvh)](http://seecult.org/galerija/galerija-umetnika/tatjana-ilic/pticu-nosim-zbog-umetnickog-rada)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/foto-arhiva-2004/rhonabyrne-irska.jpg?itok=a-ZHdchX)](http://seecult.org/galerija/foto-galerija/foto-arhiva/foto-arhiva-2004)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/im1.jpg?itok=tEiDg3yg)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -318,6 +318,7 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 * [Nadežda Petrović u Narodnom muzeju](http://seecult.org/vest/nadezda-petrovic-u-narodnom-muzeju)
 
+* [Nagrade 60. Oktobarskog salona Karavanu i Sosi](http://seecult.org/vest/nagrade-60-oktobarskog-salona-karavanu-i-sosi)
 * [Ponovni apel Nacionalnog komiteta ICOMOS-a Vladi Srbije](http://seecult.org/vest/ponovni-apel-nacionalnog-komiteta-icomos-vladi-srbije)
 * [Veseli pakao poezije](http://seecult.org/vest/veseli-pakao-poezije)
 * [Sorentinijev Partenopa otvara Dane italijanskog filma](http://seecult.org/vest/sorentinijev-partenopa-otvara-dane-italijanskog-filma)
@@ -327,7 +328,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Samosvojni Sera o kontroverznom dokumentarcu o koridi](http://seecult.org/vest/samosvojni-sera-o-kontroverznom-dokumentarcu-o-koridi)
 * [Vladimiru Radovanoviću nagrada Marko Glušac](http://seecult.org/vest/vladimiru-radovanovicu-nagrada-marko-glusac)
 * [Nagrada Igora Zabela Edit Andraš](http://seecult.org/vest/nagrada-igora-zabela-edit-andras)
-* [30\. FAF na BIS](http://seecult.org/vest/30-faf-na-bis)
 
 * [Konkursi](#tab1_1)
 
