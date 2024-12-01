@@ -664,12 +664,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Crowdfunding-Platt­form Berg­fürst: Chef zuerst, Crowd danach](https://www.test.de/Crowdfunding-Plattform-Bergfuerst-Chef-zuerst-Crowd-danach-6083104-0/ "Crowdfunding-Plattform Bergfürst - Chef zuerst, Crowd danach")
-* [MSCI World ETF: Welt­index zurück nach Schwächephase](https://www.test.de/MSCI-World-ETF-Weltindex-zurueck-nach-Schwaechephase-6064539-0/ "MSCI World ETF - Weltindex zurück nach Schwächephase")
-* [Wasch­trockner im Test: Waschen und trocknen in einem](https://www.test.de/Waschtrockner-im-Test-Waschen-und-trocknen-in-einem-6047701-0/ "Waschtrockner im Test - Waschen und trocknen in einem")
-* [Werbung für Kinder­lebens­mittel: Influencer empfehlen zu häufig Zuckerbomben](https://www.test.de/Werbung-fuer-Kinderlebensmittel-Influencer-empfehlen-zu-haeufig-Zuckerbomben-6129853-0/ "Werbung für Kinderlebensmittel - Influencer empfehlen zu häufig Zuckerbomben")
-* [Erbstreit: Interview: „Um Geld geht es meist nur vordergründig“](https://www.test.de/Erbstreit-Interview-Um-Geld-geht-es-meist-nur-vordergruendig-5988060-0/ "Erbstreit - Interview: „Um Geld geht es meist nur vordergründig“")
-* [Ware bestellen: 7 Online-Fallen meiden – in der Black Week sicher shoppen](https://www.test.de/Ware-bestellen-7-Fallen-beim-Onlineshoppen-6167071-0/ "Ware bestellen - 7 Online-Fallen meiden – in der Black Week sicher shoppen")
+* [Digi­taler Euro: Gefälschte E-Mail mit KfW-Angebot](https://www.test.de/Digitaler-Euro-Gefaelschte-E-Mail-mit-KfW-Angebot-6119446-0/ "Digitaler Euro - Gefälschte E-Mail mit KfW-Angebot")
+* [test warnt: Abzocke an der E-Auto-Ladesäule](https://www.test.de/test-warnt-Abzocke-an-der-E-Auto-Ladesaeule-6157093-0/ "test warnt - Abzocke an der E-Auto-Ladesäule")
+* [Pantoffel-Portfolio ergänzen: Anlegen mit Kick – zehn Beimischungen im Test](https://www.test.de/Pantoffel-Portfolio-ergaenzen-Anlegen-mit-Kick-zehn-Beimischungen-im-Test-6111636-0/ "Pantoffel-Portfolio ergänzen - Anlegen mit Kick – zehn Beimischungen im Test")
+* [Gehör schützen: Laut­stärke des Kopf­hörers begrenzen – so geht‘s](https://www.test.de/Gehoer-schuetzen-Lautstaerke-des-Kopfhoerers-begrenzen-so-gehts-6104614-0/ "Gehör schützen - Lautstärke des Kopfhörers begrenzen – so geht‘s")
+* [Warn­liste: Falsche Firma Fest­geld48](https://www.test.de/Warnliste-Falsche-Firma-Festgeld48-5981748-0/ "Warnliste - Falsche Firma Festgeld48")
+* [Bauspar­rechner: Online-Angebote für Bausparer oft unge­eignet](https://www.test.de/Bausparrechner-Online-Angebote-fuer-Bausparer-oft-ungeeignet-6009987-0/ "Bausparrechner - Online-Angebote für Bausparer oft ungeeignet")
 
 Weitere Informationen
 
@@ -3082,12 +3082,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Crowdfunding-Platt­form Berg­fürst: Chef zuerst, Crowd danach](https://www.test.de/Crowdfunding-Plattform-Bergfuerst-Chef-zuerst-Crowd-danach-6083104-0/ "Crowdfunding-Plattform Bergfürst - Chef zuerst, Crowd danach")
-* [MSCI World ETF: Welt­index zurück nach Schwächephase](https://www.test.de/MSCI-World-ETF-Weltindex-zurueck-nach-Schwaechephase-6064539-0/ "MSCI World ETF - Weltindex zurück nach Schwächephase")
-* [Wasch­trockner im Test: Waschen und trocknen in einem](https://www.test.de/Waschtrockner-im-Test-Waschen-und-trocknen-in-einem-6047701-0/ "Waschtrockner im Test - Waschen und trocknen in einem")
-* [Werbung für Kinder­lebens­mittel: Influencer empfehlen zu häufig Zuckerbomben](https://www.test.de/Werbung-fuer-Kinderlebensmittel-Influencer-empfehlen-zu-haeufig-Zuckerbomben-6129853-0/ "Werbung für Kinderlebensmittel - Influencer empfehlen zu häufig Zuckerbomben")
-* [Erbstreit: Interview: „Um Geld geht es meist nur vordergründig“](https://www.test.de/Erbstreit-Interview-Um-Geld-geht-es-meist-nur-vordergruendig-5988060-0/ "Erbstreit - Interview: „Um Geld geht es meist nur vordergründig“")
-* [Ware bestellen: 7 Online-Fallen meiden – in der Black Week sicher shoppen](https://www.test.de/Ware-bestellen-7-Fallen-beim-Onlineshoppen-6167071-0/ "Ware bestellen - 7 Online-Fallen meiden – in der Black Week sicher shoppen")
+* [Digi­taler Euro: Gefälschte E-Mail mit KfW-Angebot](https://www.test.de/Digitaler-Euro-Gefaelschte-E-Mail-mit-KfW-Angebot-6119446-0/ "Digitaler Euro - Gefälschte E-Mail mit KfW-Angebot")
+* [test warnt: Abzocke an der E-Auto-Ladesäule](https://www.test.de/test-warnt-Abzocke-an-der-E-Auto-Ladesaeule-6157093-0/ "test warnt - Abzocke an der E-Auto-Ladesäule")
+* [Pantoffel-Portfolio ergänzen: Anlegen mit Kick – zehn Beimischungen im Test](https://www.test.de/Pantoffel-Portfolio-ergaenzen-Anlegen-mit-Kick-zehn-Beimischungen-im-Test-6111636-0/ "Pantoffel-Portfolio ergänzen - Anlegen mit Kick – zehn Beimischungen im Test")
+* [Gehör schützen: Laut­stärke des Kopf­hörers begrenzen – so geht‘s](https://www.test.de/Gehoer-schuetzen-Lautstaerke-des-Kopfhoerers-begrenzen-so-gehts-6104614-0/ "Gehör schützen - Lautstärke des Kopfhörers begrenzen – so geht‘s")
+* [Warn­liste: Falsche Firma Fest­geld48](https://www.test.de/Warnliste-Falsche-Firma-Festgeld48-5981748-0/ "Warnliste - Falsche Firma Festgeld48")
+* [Bauspar­rechner: Online-Angebote für Bausparer oft unge­eignet](https://www.test.de/Bausparrechner-Online-Angebote-fuer-Bausparer-oft-ungeeignet-6009987-0/ "Bausparrechner - Online-Angebote für Bausparer oft ungeeignet")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -3138,12 +3138,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Crowdfunding-Platt­form Berg­fürst: Chef zuerst, Crowd danach](https://www.test.de/Crowdfunding-Plattform-Bergfuerst-Chef-zuerst-Crowd-danach-6083104-0/ "Crowdfunding-Plattform Bergfürst - Chef zuerst, Crowd danach")
-* [MSCI World ETF: Welt­index zurück nach Schwächephase](https://www.test.de/MSCI-World-ETF-Weltindex-zurueck-nach-Schwaechephase-6064539-0/ "MSCI World ETF - Weltindex zurück nach Schwächephase")
-* [Wasch­trockner im Test: Waschen und trocknen in einem](https://www.test.de/Waschtrockner-im-Test-Waschen-und-trocknen-in-einem-6047701-0/ "Waschtrockner im Test - Waschen und trocknen in einem")
-* [Werbung für Kinder­lebens­mittel: Influencer empfehlen zu häufig Zuckerbomben](https://www.test.de/Werbung-fuer-Kinderlebensmittel-Influencer-empfehlen-zu-haeufig-Zuckerbomben-6129853-0/ "Werbung für Kinderlebensmittel - Influencer empfehlen zu häufig Zuckerbomben")
-* [Erbstreit: Interview: „Um Geld geht es meist nur vordergründig“](https://www.test.de/Erbstreit-Interview-Um-Geld-geht-es-meist-nur-vordergruendig-5988060-0/ "Erbstreit - Interview: „Um Geld geht es meist nur vordergründig“")
-* [Ware bestellen: 7 Online-Fallen meiden – in der Black Week sicher shoppen](https://www.test.de/Ware-bestellen-7-Fallen-beim-Onlineshoppen-6167071-0/ "Ware bestellen - 7 Online-Fallen meiden – in der Black Week sicher shoppen")
+* [Digi­taler Euro: Gefälschte E-Mail mit KfW-Angebot](https://www.test.de/Digitaler-Euro-Gefaelschte-E-Mail-mit-KfW-Angebot-6119446-0/ "Digitaler Euro - Gefälschte E-Mail mit KfW-Angebot")
+* [test warnt: Abzocke an der E-Auto-Ladesäule](https://www.test.de/test-warnt-Abzocke-an-der-E-Auto-Ladesaeule-6157093-0/ "test warnt - Abzocke an der E-Auto-Ladesäule")
+* [Pantoffel-Portfolio ergänzen: Anlegen mit Kick – zehn Beimischungen im Test](https://www.test.de/Pantoffel-Portfolio-ergaenzen-Anlegen-mit-Kick-zehn-Beimischungen-im-Test-6111636-0/ "Pantoffel-Portfolio ergänzen - Anlegen mit Kick – zehn Beimischungen im Test")
+* [Gehör schützen: Laut­stärke des Kopf­hörers begrenzen – so geht‘s](https://www.test.de/Gehoer-schuetzen-Lautstaerke-des-Kopfhoerers-begrenzen-so-gehts-6104614-0/ "Gehör schützen - Lautstärke des Kopfhörers begrenzen – so geht‘s")
+* [Warn­liste: Falsche Firma Fest­geld48](https://www.test.de/Warnliste-Falsche-Firma-Festgeld48-5981748-0/ "Warnliste - Falsche Firma Festgeld48")
+* [Bauspar­rechner: Online-Angebote für Bausparer oft unge­eignet](https://www.test.de/Bausparrechner-Online-Angebote-fuer-Bausparer-oft-ungeeignet-6009987-0/ "Bausparrechner - Online-Angebote für Bausparer oft ungeeignet")
 
 Neueste Tests
 
@@ -3156,12 +3156,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Crowdfunding-Platt­form Berg­fürst: Chef zuerst, Crowd danach](https://www.test.de/Crowdfunding-Plattform-Bergfuerst-Chef-zuerst-Crowd-danach-6083104-0/ "Crowdfunding-Plattform Bergfürst - Chef zuerst, Crowd danach")
-* [MSCI World ETF: Welt­index zurück nach Schwächephase](https://www.test.de/MSCI-World-ETF-Weltindex-zurueck-nach-Schwaechephase-6064539-0/ "MSCI World ETF - Weltindex zurück nach Schwächephase")
-* [Wasch­trockner im Test: Waschen und trocknen in einem](https://www.test.de/Waschtrockner-im-Test-Waschen-und-trocknen-in-einem-6047701-0/ "Waschtrockner im Test - Waschen und trocknen in einem")
-* [Werbung für Kinder­lebens­mittel: Influencer empfehlen zu häufig Zuckerbomben](https://www.test.de/Werbung-fuer-Kinderlebensmittel-Influencer-empfehlen-zu-haeufig-Zuckerbomben-6129853-0/ "Werbung für Kinderlebensmittel - Influencer empfehlen zu häufig Zuckerbomben")
-* [Erbstreit: Interview: „Um Geld geht es meist nur vordergründig“](https://www.test.de/Erbstreit-Interview-Um-Geld-geht-es-meist-nur-vordergruendig-5988060-0/ "Erbstreit - Interview: „Um Geld geht es meist nur vordergründig“")
-* [Ware bestellen: 7 Online-Fallen meiden – in der Black Week sicher shoppen](https://www.test.de/Ware-bestellen-7-Fallen-beim-Onlineshoppen-6167071-0/ "Ware bestellen - 7 Online-Fallen meiden – in der Black Week sicher shoppen")
+* [Digi­taler Euro: Gefälschte E-Mail mit KfW-Angebot](https://www.test.de/Digitaler-Euro-Gefaelschte-E-Mail-mit-KfW-Angebot-6119446-0/ "Digitaler Euro - Gefälschte E-Mail mit KfW-Angebot")
+* [test warnt: Abzocke an der E-Auto-Ladesäule](https://www.test.de/test-warnt-Abzocke-an-der-E-Auto-Ladesaeule-6157093-0/ "test warnt - Abzocke an der E-Auto-Ladesäule")
+* [Pantoffel-Portfolio ergänzen: Anlegen mit Kick – zehn Beimischungen im Test](https://www.test.de/Pantoffel-Portfolio-ergaenzen-Anlegen-mit-Kick-zehn-Beimischungen-im-Test-6111636-0/ "Pantoffel-Portfolio ergänzen - Anlegen mit Kick – zehn Beimischungen im Test")
+* [Gehör schützen: Laut­stärke des Kopf­hörers begrenzen – so geht‘s](https://www.test.de/Gehoer-schuetzen-Lautstaerke-des-Kopfhoerers-begrenzen-so-gehts-6104614-0/ "Gehör schützen - Lautstärke des Kopfhörers begrenzen – so geht‘s")
+* [Warn­liste: Falsche Firma Fest­geld48](https://www.test.de/Warnliste-Falsche-Firma-Festgeld48-5981748-0/ "Warnliste - Falsche Firma Festgeld48")
+* [Bauspar­rechner: Online-Angebote für Bausparer oft unge­eignet](https://www.test.de/Bausparrechner-Online-Angebote-fuer-Bausparer-oft-ungeeignet-6009987-0/ "Bausparrechner - Online-Angebote für Bausparer oft ungeeignet")
 
 Stiftung Warentest
 
