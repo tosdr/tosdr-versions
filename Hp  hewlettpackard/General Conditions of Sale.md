@@ -116,7 +116,7 @@ Shop
 
 [* Business store](https://www.hp.com/us-en/shop/cat/business-solutions "Business store")
 
-[* Black Friday Sale](https://www.hp.com/us-en/shop/slp/black-friday-sale "Black Friday Sale")
+[* Cyber Monday Sale](https://www.hp.com/us-en/shop/slp/cyber-sale "Cyber Monday Sale")
 
 [* Top Rated Laptops](https://www.hp.com/us-en/shop/vwa/laptops/rating=4-9733-9733-9733-9733-9734-Up,5-9733-9733-9733-9733-9733-;segm=Home "Top Rated Laptops")
 
@@ -301,7 +301,7 @@ https://www.hp.com/webapp/wcs/stores/servlet/HPHeaderServices?storeId=10151&cb=c
 
 * Featured
 
-[* HP.com store](https://www.hp.com/us-en/shop)[* Ink & toner cartridges](https://www.hp.com/us-en/shop/cat/ink--toner---paper)[* Business store](https://www.hp.com/us-en/shop/cat/business-solutions)[* Black Friday Sale](https://www.hp.com/us-en/shop/slp/black-friday-sale)[* Top Rated Laptops](https://www.hp.com/us-en/shop/vwa/laptops/rating=4-9733-9733-9733-9733-9734-Up,5-9733-9733-9733-9733-9733-;segm=Home)[* HP Laptop Subscription](https://hplaptopsubscription.hp.com/)[* HP Financing](https://www.hp.com/us-en/shop/cv/hpfinancing)[* Student discounts](https://www.hp.com/us-en/shop/cv/hp-education)[* HP Business Technology Advisors](https://www.hp.com/us-en/shop/cv/smallbusinessadvisor)[* Copilot+ PCs](https://www.hp.com/us-en/shop/cv/copilot-plus-pcs)
+[* HP.com store](https://www.hp.com/us-en/shop)[* Ink & toner cartridges](https://www.hp.com/us-en/shop/cat/ink--toner---paper)[* Business store](https://www.hp.com/us-en/shop/cat/business-solutions)[* Cyber Monday Sale](https://www.hp.com/us-en/shop/slp/cyber-sale)[* Top Rated Laptops](https://www.hp.com/us-en/shop/vwa/laptops/rating=4-9733-9733-9733-9733-9734-Up,5-9733-9733-9733-9733-9733-;segm=Home)[* HP Laptop Subscription](https://hplaptopsubscription.hp.com/)[* HP Financing](https://www.hp.com/us-en/shop/cv/hpfinancing)[* Student discounts](https://www.hp.com/us-en/shop/cv/hp-education)[* HP Business Technology Advisors](https://www.hp.com/us-en/shop/cv/smallbusinessadvisor)[* Copilot+ PCs](https://www.hp.com/us-en/shop/cv/copilot-plus-pcs)
 
 * Shop PCs
 
