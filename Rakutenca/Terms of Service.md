@@ -1,6 +1,6 @@
-[TEMU: Save up to 90%! Make the most of this shopping season + 12% Cash Back
+[Clearly: Up to 50% off designer brands + Up to 5% Cash Back
 
-Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/temu?store=temu&sourceName=sitewide-sticky-header)
+Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/clearly?store=clearly&sourceName=sitewide-sticky-header)
 
 [](https://www.rakuten.ca/)
 
@@ -125,7 +125,7 @@ FR
         
         3.5% Cash Back](https://www.rakuten.ca/eufy)[HP Canada
         
-        20% Cash Back](https://www.rakuten.ca/hp-canada)[Lenovo Canada
+        15% Cash Back](https://www.rakuten.ca/hp-canada)[Lenovo Canada
         
         10% Cash Back](https://www.rakuten.ca/lenovo-canada)[NordVPN
         
@@ -137,7 +137,7 @@ FR
         
         [![](//static.rakuten.ca//static/images/blank.1.0.0.gif)
         
-        ![](//static.rakuten.ca/img/campaign_entity/303965/en-right-rail_cat_drop_300x250_dell2.jpg)
+        ![](//static.rakuten.ca/img/campaign_entity/304005/en-right-rail_cat_drop_300x250_dell3.jpg)
         
         Dell Technologies
         
@@ -848,13 +848,7 @@ All rights reserved.
 
  ![](//static.rakuten.ca/static/img/footer_close.svg) ![](//static.rakuten.ca/static/img/footer_open.svg)
 
-[![Earn 12% Cash Back from Rakuten.ca with Dyson Coupons, Promo Codes](//static.rakuten.ca/img/campaign_entity/303442/en-stickyfooter-1170x60_dyson.png "Dyson Coupons, Promo Codes")
-
-was 2.5%, now
-
-12% Cash Back
-
-Shop Now](https://www.rakuten.ca/ticket/campaign/sticky-footer-base-1/store/dyson?sourceName=stickyfooter1)
+[![](//static.rakuten.ca/img/campaign_entity/303981/en_stickyfooter-1170x60_gift_card_shop_.png)](https://www.rakuten.ca/giftcardshop)
 
 × ![Rakuten White Logo](//static.rakuten.ca/static/images/logo/logo_Rakuten_white.svg)
 
