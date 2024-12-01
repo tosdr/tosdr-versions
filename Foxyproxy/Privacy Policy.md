@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I've actually found the proxy very good, now that I've figured out how to use it correctly with a Mac and actually watch Hulu. So I'll be signing back up to use it shortly.
+I congratulate you to foxy proxy! It is a great tool and I love to use it :)
 
-Allan Barger
+Sara Kovacs
