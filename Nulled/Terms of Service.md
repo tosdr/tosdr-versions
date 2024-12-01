@@ -30,7 +30,7 @@ ALERT!
 
 [**\[ ORVX.PW \] - $1 SMTP-cPanels-RDPs-Combolists & More!**](https://bit.ly/orvxnulled)
 
-[**Black Friday Sale - 20% Discount All Purchase - Click Here To Understand How Discount Works For Credits And Upgrades |**](https://www.nulled.to/topic/1459588-nulled-sales-guidelines/) [**TELEGRAM CHANNEL**](https://t.me/nulledtoannouncements)
+[**REFUNDING ALLOWED |**](https://www.nulled.to/forum/203-refunding-services/) [**TELEGRAM CHANNEL**](https://t.me/nulledtoannouncements)
 
 **Javascript Disabled Detected**
 
