@@ -329,14 +329,14 @@ Accepted Web-Rings.
 Recent Comments
 ---------------
 
+* [S-Config](https://www.s-config.com/) on [YouTube – FTC – Think of the Children – Censorship – Round 3!](https://www.s-config.com/youtube-ftc-censorship-round-3/comment-page-1/#comment-93327)
+* Hugh on [YouTube – FTC – Think of the Children – Censorship – Round 3!](https://www.s-config.com/youtube-ftc-censorship-round-3/comment-page-1/#comment-93316)
 * [Ren](https://strangedefinition.com/) on [The PINEcil!](https://www.s-config.com/the-pinecil/comment-page-1/#comment-92894)
 * abrahem on [Thinking WITHOUT Google. Welcome Old-Web.](https://www.s-config.com/thinking-without-google-welcome-old-web/comment-page-1/#comment-92678)
 * [Ren](http://strangedefinition.com/) on [OpenNIC](https://www.s-config.com/opennic/comment-page-1/#comment-92542)
 * [S-Config](https://www.s-config.com/) on [Intel Arc A380 – Does it encode?!?](https://www.s-config.com/intel-arc-a380-does-it-encode/comment-page-1/#comment-91177)
 * .Mimic on [Hi Koss.](https://www.s-config.com/hi-koss/comment-page-1/#comment-90674)
 * T on [Rollerblade office caster wheels – buyer beware!](https://www.s-config.com/rollerblade-office-caster-wheels-buyer-beware/comment-page-5/#comment-90612)
-* Jack Meoff on [IntelliMouse lives again.](https://www.s-config.com/intellimouse-lives-again/comment-page-1/#comment-90482)
-* [S-Config](https://www.s-config.com/) on [Intel Arc A380 – Does it encode?!?](https://www.s-config.com/intel-arc-a380-does-it-encode/comment-page-1/#comment-90036)
 
 The only advertisement banner you will see.
 -------------------------------------------
