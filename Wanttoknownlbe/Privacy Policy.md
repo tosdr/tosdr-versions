@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/corona-kwestie/natuurlijke-immuniteit-verplettert-het-vaccin/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/verkiezingen/rfkjr-diens-vader-en-oom-vermoord-door-cia/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
