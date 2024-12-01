@@ -406,9 +406,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Things do not happen. Things are made to happen”
+“ I never am really satisfied that I understand anything; because, understand it well as I may, my comprehension can only be an infinitesimal fraction of all I want to understand”
 
-[John F. Kennedy](http://library.und.edu/digital/john-f-kennedy-archive/delivered.php)
+[Ada Lovelace](http://www.mookychick.co.uk/feminism-politics/feminist-icons/ada-lovelace.php)
 
 [](https://www.adafruit.com/about)
 
