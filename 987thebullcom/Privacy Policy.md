@@ -349,11 +349,11 @@ Recently Played
 
 |     |
 | --- |
-| Sounds Like The RadioZach Top<br><br>4:40pm |
-| SpringsteenEric Church<br><br>4:36pm |
-| I Am Not OkayJelly Roll<br><br>4:33pm |
-| Pink SkiesZach Bryan<br><br>4:30pm |
-| Even Though I'M LeavingLuke Combs<br><br>4:26pm |
+| One Man BandOld Dominion<br><br>6:57pm |
+| Darlin'Chase Matthew<br><br>6:54pm |
+| The Kind Of Love We MakeLuke Combs<br><br>6:50pm |
+| I Never LieZach Top<br><br>6:46pm |
+| Gone CountryAlan Jackson<br><br>6:38pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -497,21 +497,21 @@ State
 Featured Brands
 ---------------
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
-
-News Talk • Eastern
-
 [![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
 Top 40 • Pacific NW
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
-Country • Western
+Spanish • Western
 
 [![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
 Sports • Midwest
+
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+
+News Talk • Eastern
 
 [](https://www.alphamediausa.com/)
 
