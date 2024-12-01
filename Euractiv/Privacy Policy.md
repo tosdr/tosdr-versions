@@ -443,6 +443,8 @@ Most recent
 
 [01-12-2024
 
+First EU term’s train to Ukraine](https://www.euractiv.com/section/global-europe/news/first-eu-terms-train-to-ukraine/)[01-12-2024
+
 EU warns use of force against protestors in Georgia ‘unacceptable’](https://www.euractiv.com/section/global-europe/news/eu-warns-use-of-force-against-protestors-in-georgia-unacceptable/)[01-12-2024
 
 EU’s top diplomat urges Europe to ‘keep all options open’ on Ukraine](https://www.euractiv.com/section/global-europe/news/eus-top-diplomat-urges-europe-to-keep-all-options-open-on-ukraine/)[01-12-2024
@@ -459,9 +461,7 @@ Romania’s far right expected to come first in parliamentary election](https://
 
 Democracy’s next great challenge – strengthening institutions to protect journalism](https://www.euractiv.com/section/politics/news/democracys-greatest-challenge-strengthening-institutions-to-safeguard-journalism/)[30-11-2024
 
-Bauhaus projects are maturing, lessons from von der Leyen’s marquee strategy](https://www.euractiv.com/section/politics/news/bauhaus-projects-after-three-creative-years-lessons-from-von-der-leyens-marquee-strategy/)[30-11-2024
-
-Is China striding past Europe, America and Japan on nuclear fusion?](https://www.euractiv.com/section/eet/news/is-china-striding-past-europe-america-and-japan-on-nuclear-fusion/)
+Bauhaus projects are maturing, lessons from von der Leyen’s marquee strategy](https://www.euractiv.com/section/politics/news/bauhaus-projects-after-three-creative-years-lessons-from-von-der-leyens-marquee-strategy/)
 
 ###### Advertisement
 
