@@ -1,7 +1,7 @@
 ﻿﻿       
   
    
-                                              Ant Download Manager - Our Policy
+                                               Ant Download Manager - Our Policy
 
 ![Ant Download Manager logo](/images/AntDM_designed_by.png.pagespeed.ce.iS5Ewq3Evw.png)
 
