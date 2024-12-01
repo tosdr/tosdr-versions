@@ -205,26 +205,26 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Beast Forum](https://www.somethingawful.com/weekend-web/beastforum/1/)
-* [The Art of WikiHow!](https://www.somethingawful.com/comedy-goldmine/wikihow-art/1/)
-* [Nightmares Fear Factory: It's Back!](https://www.somethingawful.com/photoshop-phriday/nightmares-fearfactory-photoshop/1/)
-* [Barbarian Queen 2](https://www.somethingawful.com/movie-reviews/barbarian-queen-2/)
-* [Post Impact](https://www.somethingawful.com/movie-reviews/post-impact-cain/)
+* [Goose Dies](https://www.somethingawful.com/daily-dirt/goose-dies/)
+* [Transmeta's Crusoe Announcement](https://www.somethingawful.com/news/transmetas-crusoe-announcement/)
+* [Titanic: The Legend Goes On](https://www.somethingawful.com/movie-reviews/titanic-legend-goes/)
+* [Bloodsucking Redneck Vampires](https://www.somethingawful.com/movie-reviews/bloodsucking-redneck-vampires/1/)
+* [Fashion SWAT Jr.: Tea Party SWAT](https://www.somethingawful.com/news/tea-party-swat/1/)
 
 ### Popular Threads
 
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [This is Ghost. The Christmas alpaca.](http://forums.somethingawful.com/showthread.php?threadid=4076563 "This is Ghost. The Christmas alpaca.")
-* ![](https://fi.somethingawful.com/forums/posticons/dd-9-11.gif) [You have found an abandoned pet bird itt](http://forums.somethingawful.com/showthread.php?threadid=4076559 "You have found an abandoned pet bird itt")
 * ![](https://fi.somethingawful.com/forums/posticons/cd_hype.gif) [does anyone still use tumblr?](http://forums.somethingawful.com/showthread.php?threadid=4076564 "does anyone still use tumblr?")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/photoshop.png) [Winterize Movies](http://forums.somethingawful.com/showthread.php?threadid=4076594 "Winterize Movies")
+* ![](https://fi.somethingawful.com/forums/posticons/dd-9-11.gif) [You have found an abandoned pet bird itt](http://forums.somethingawful.com/showthread.php?threadid=4076559 "You have found an abandoned pet bird itt")
 
 ### Random Articles
 
-* [Best Trained Slave Awards](https://www.somethingawful.com/awful-links/awful-link-4181/)
-* [How Your Brain Works](https://www.somethingawful.com/news/how-brain-works/1/)
-* [Internet Guide Presents Tonight's Programming Schedule](https://www.somethingawful.com/news/site-guide-google/)
-* [The National Missile Defense Defense System](https://www.somethingawful.com/news/national-missile-defense/)
-* [Medical Advice](https://www.somethingawful.com/news/medical-advice/)
+* [You're Out of Work, Jerk!](https://www.somethingawful.com/news/youre-out-work/)
+* [Subj: EGGS](https://www.somethingawful.com/news/roamin-dad-32/)
+* [Oleg Is up to No Good](https://www.somethingawful.com/news/oleg-subway-twitter/)
+* [Help Us, Save Us, Take Us Away!](https://www.somethingawful.com/news/help-us-save/)
+* [Alternatives to Letting Your Kid Play Football](https://www.somethingawful.com/news/football-concussion/)
 
 [Random!](https://www.somethingawful.com/random/)
 
