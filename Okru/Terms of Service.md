@@ -12,7 +12,7 @@ Close
 
 ![](data:,)
 
-[](https://ok.ru/dk?st.cmd=anonymMain)
+[![](//i.okcdn.ru/i?r=BDEtjN7Zne-BVzZrRFypJtPdJW2mrT4gsLCdMZf1bSdX3CJF9JVQZJhPpPOIcIDc5ec)![](//i.okcdn.ru/i?r=BDEtjN7Zne-BVzZrRFypJtPdJW2mrT4gsLCdMZf1bSdX3CJF9JVQZJhPpPOIcIDc5ec)](https://ok.ru/dk?st.cmd=anonymMain)
 
 English
 
