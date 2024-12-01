@@ -1,8 +1,6 @@
 [Skip to content](#content)
 
-[![GED match logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20139%2075'%3E%3C/svg%3E)
-
-![GED match logo](https://www.gedmatch.com/wp-content/uploads/2022/05/GED_Match-logo.svg)](https://www.gedmatch.com/)
+[![GED match logo](https://www.gedmatch.com/wp-content/uploads/2022/05/GED_Match-logo.svg)](https://www.gedmatch.com/)
 
 * [Applications](https://www.gedmatch.com/applications/)
 * [Education](https://www.gedmatch.com/education/)
@@ -46,9 +44,7 @@ Menu
 
 [Join For Free](https://app.gedmatch.com/register.php)
 
-[![GED match logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20139%2075'%3E%3C/svg%3E)
-
-![GED match logo](https://www.gedmatch.com/wp-content/uploads/2022/05/GED_Match-logo.svg)](https://www.gedmatch.com/)
+[![GED match logo](https://www.gedmatch.com/wp-content/uploads/2022/05/GED_Match-logo.svg)](https://www.gedmatch.com/)
 
 * [Applications](https://www.gedmatch.com/applications/)
 * [Education](https://www.gedmatch.com/education/)
