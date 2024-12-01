@@ -349,11 +349,11 @@ Recently Played
 
 |     |
 | --- |
-| One Man BandOld Dominion<br><br>6:57pm |
-| Darlin'Chase Matthew<br><br>6:54pm |
-| The Kind Of Love We MakeLuke Combs<br><br>6:50pm |
-| I Never LieZach Top<br><br>6:46pm |
-| Gone CountryAlan Jackson<br><br>6:38pm |
+| Wolves CryBryan Martin<br><br>4:41am |
+| The Kind Of Love We MakeLuke Combs<br><br>4:35am |
+| TexasBlake Shelton<br><br>4:32am |
+| Something Like ThatTim Mcgraw<br><br>4:30am |
+| You Look Like You Love MeElla Langley Ft Riley Green<br><br>4:26am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -497,6 +497,10 @@ State
 Featured Brands
 ---------------
 
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+
+Country • Western
+
 [![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
 Top 40 • Pacific NW
@@ -505,13 +509,9 @@ Top 40 • Pacific NW
 
 Spanish • Western
 
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
-Sports • Midwest
-
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
-
-News Talk • Eastern
+Top 40 • Eastern
 
 [](https://www.alphamediausa.com/)
 
