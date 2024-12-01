@@ -11,7 +11,6 @@
     * [Renaissance](http://disneyspringshotels.com/hotels/renaissance-orlando-resort-spa-disney-springs-resort-area/ "Renaissance Orlando Resort & Spa – Disney Springs® Area")
     * [Wyndham Garden](http://disneyspringshotels.com/hotels/wyndham-lake-buena-vista-disney-springs-resort-area/ "Wyndham Garden Lake Buena Vista Resort at Disney Springs® Area")
 * [Special Offers](https://disneyspringshotels.com/special-offers/ "Special Hotel Offers from Disney Springs Hotels")
-    * [Stay Steps from The Magic](https://disneyspringshotels.com/magic/ "Stay Steps from The Most Magical Place on Earth")
     * [All Offers](http://disneyspringshotels.com/special-offers/ "All Special Hotel Offers from Disney Springs Hotels")
 * [Disney Advantage](https://disneyspringshotels.com/disney-advantage/ "Why Disney Springs Hotels")
     * [Disney Advantage](http://disneyspringshotels.com/disney-advantage/ "Why Disney Springs Hotels")
@@ -85,7 +84,7 @@ Sign Up for Special Offers
 
   
 
-[![](https://disneyspringshotels.com/wp-content/uploads/2024/04/DSRAH-Fall-from-79-night.jpg)](https://disneyspringshotels.com/magic/)
+[![](https://disneyspringshotels.com/wp-content/uploads/2024/09/WDW_FY24-TMMPOE_Web-Banners_300x250.jpg)](https://disneyspringshotels.com/special-offers/)
 
 _Disney Springs®_ Resort Area Hotels
 
@@ -131,13 +130,13 @@ Book your tee-times up to 90 days in advance!
 Insider News
 ============
 
+[![](https://disneyspringshotels.com/wp-content/uploads/2024/11/MK17-HappilyEverAfter-2024.jpg)](https://disneyspringshotels.com/holidays-at-walt-disney-world-resort-2024/ "Permanent Link to Holidays at Walt Disney World Resort")
+
+[Holidays at Walt Disney World Resort](https://disneyspringshotels.com/holidays-at-walt-disney-world-resort-2024/ "Permanent Link to Holidays at Walt Disney World Resort") Magic Kingdom® Park Seasonal Décor Explore holly, jolly trimmings and theming throughout Main Street, U.S.A and the park. Jingle Cruise During the holiday season, the beloved Jungle Cruise undergoes a yuletide transformation. It’s a festive-yet-familiar adventure from stem to stern! Frozen Holiday Surprise For the first time in forever, Guests will be able to join… [View Article »](https://disneyspringshotels.com/holidays-at-walt-disney-world-resort-2024/)
+
 [![](https://disneyspringshotels.com/wp-content/uploads/2022/08/Mickeys-Very-Merry-Christmas.jpg)](https://disneyspringshotels.com/mickeys-very-merry-christmas-party/ "Permanent Link to Mickey’s Very Merry Christmas Party")
 
 [Mickey’s Very Merry Christmas Party](https://disneyspringshotels.com/mickeys-very-merry-christmas-party/ "Permanent Link to Mickey’s Very Merry Christmas Party")   Select Nights from November 8 – December 20, Guests can Experience the Holiday Magic at Magic Kingdom® Park Do you still believe in holiday magic? Discover it again as you step into a Yuletide tale full of warm and wonderful traditions during Mickey’s Very Merry Christmas Party at Magic Kingdom® Park. Join Mickey and… [View Article »](https://disneyspringshotels.com/mickeys-very-merry-christmas-party/)
-
-[![](https://disneyspringshotels.com/wp-content/uploads/2024/08/friends-at-epcot-2.jpg)](https://disneyspringshotels.com/disney-springs-resort-area-hotels-fall-2024/ "Permanent Link to DISNEY SPRINGS® RESORT AREA HOTELS THIS FALL")
-
-[DISNEY SPRINGS® RESORT AREA HOTELS THIS FALL](https://disneyspringshotels.com/disney-springs-resort-area-hotels-fall-2024/ "Permanent Link to DISNEY SPRINGS® RESORT AREA HOTELS THIS FALL") UPDATE RATES START AT $96 AT DISNEY SPRINGS® RESORT AREA HOTELS Stay Steps from the Most Magical Place on Earth this Season LAKE BUENA VISTA, Fla. – (Oct. 21, 2024) – Special rates starting at $96 are available to book at Disney Springs Resort Area Hotels for stays through November 23, 2024. Some blackout dates… [View Article »](https://disneyspringshotels.com/disney-springs-resort-area-hotels-fall-2024/)
 
 [View All News](https://disneyspringshotels.com/whats-new/ "Link to What's New")
 
@@ -157,7 +156,6 @@ Sign Up for Special Offers
     * [Renaissance](http://disneyspringshotels.com/hotels/renaissance-orlando-resort-spa-disney-springs-resort-area/ "Renaissance Orlando Resort & Spa – Disney Springs® Area")
     * [Wyndham Garden](http://disneyspringshotels.com/hotels/wyndham-lake-buena-vista-disney-springs-resort-area/ "Wyndham Garden Lake Buena Vista Resort at Disney Springs® Area")
 * [Special Offers](https://disneyspringshotels.com/special-offers/ "Special Hotel Offers from Disney Springs Hotels")
-    * [Stay Steps from The Magic](https://disneyspringshotels.com/magic/ "Stay Steps from The Most Magical Place on Earth")
     * [All Offers](http://disneyspringshotels.com/special-offers/ "All Special Hotel Offers from Disney Springs Hotels")
 * [Disney Advantage](https://disneyspringshotels.com/disney-advantage/ "Why Disney Springs Hotels")
     * [Disney Advantage](http://disneyspringshotels.com/disney-advantage/ "Why Disney Springs Hotels")
