@@ -5,7 +5,7 @@ Click below to view deal
 
 [View Deal](https://stacksocial.com/sales/oystervpn-lifetime-subscription)
 
-[$60 Chromebooks Going FAST—Don't Miss Out!](https://stacksocial.com/sales/lenovo-11-6-100e-chromebook-2nd-gen-2019-1-1ghz-celeron-4020-4gb-ram-16gb-emmc-refurbished)
+[AdGuard Family Lifetime Plan – Now Only $15.97!](https://stacksocial.com/sales/adguard-family-plan-lifetime-subscription)
 
 [![StackSocial Logo mobile](https://cdnp1.stackassets.com/6e671abaa5d0fe1ecaa134783b0dc291dd778601/store/5028ebcfae8c4e22b8a83fe28feaa0422b45d2aa2bad934961999e4c43f2/StackSocial_2023_Logomark_Black_Knockout.svg)![StackSocial Logo](https://cdnp0.stackassets.com/a3c277997d108b87ef125bea3ae70e8b48766ff1/store/e85890a11ca444bed8792c60bd9ddef9aa34dc9b26f9fabb4714c6a41a0b/StackSocial_2023_Logomark_Black_Knockout.svg)](https://stacksocial.com/)
 
