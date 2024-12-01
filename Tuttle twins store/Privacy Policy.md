@@ -589,19 +589,19 @@ USD $ | United States
 
 [Hi ! You have   PTS](https://shop.angel.com/apps/bubblehouse/rewards/)
 
-![](https://cdn.shopify.com/extensions/b3599435-711f-4146-86b0-fe3fe0b1fc40/gratify-6/assets/free-gift_26x.png)
+![](https://cdn.shopify.com/extensions/7fb35de4-1096-4025-b8e3-0a207f9a9e9b/gratify-11/assets/free-gift_26x.png)
 
 Free Gift ($10 Value)
 
-![](https://cdn.shopify.com/extensions/b3599435-711f-4146-86b0-fe3fe0b1fc40/gratify-6/assets/free-gift_26x.png)
+![](https://cdn.shopify.com/extensions/7fb35de4-1096-4025-b8e3-0a207f9a9e9b/gratify-11/assets/free-gift_26x.png)
 
 Free Gift ($15 Value)
 
-![](https://cdn.shopify.com/extensions/b3599435-711f-4146-86b0-fe3fe0b1fc40/gratify-6/assets/free-gift_26x.png)
+![](https://cdn.shopify.com/extensions/7fb35de4-1096-4025-b8e3-0a207f9a9e9b/gratify-11/assets/free-gift_26x.png)
 
 Free Gift ($80 Value)
 
-![](https://cdn.shopify.com/extensions/b3599435-711f-4146-86b0-fe3fe0b1fc40/gratify-6/assets/free-gift_26x.png)
+![](https://cdn.shopify.com/extensions/7fb35de4-1096-4025-b8e3-0a207f9a9e9b/gratify-11/assets/free-gift_26x.png)
 
 Free Gift ($140 Value)
 
