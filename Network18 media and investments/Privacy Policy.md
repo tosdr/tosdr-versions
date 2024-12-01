@@ -17,7 +17,7 @@ English Edition
 * [অসমীয়া (Assam)](https://assam.news18.com/)
 * [ଓଡ଼ିଆ (Odia)](https://odia.news18.com/)
 
-Sun, Dec 01, 2024
+Mon, Dec 02, 2024
 
 [Download News18 APP](https://onelink.to/eng-web-other)[Watch LIVE TV](https://www.news18.com/livetv/)
 
@@ -128,11 +128,12 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
-    * [Income Tax Raid](https://www.news18.com/india/cash-counted-with-36-machines-loaded-on-a-truck-heres-where-the-biggest-income-tax-raid-happened-9139773.html)
+    * [Russia](https://www.news18.com/world/over-300-insurgents-killed-as-russia-carries-out-strikes-in-syrias-aleppo-9141553.html)
     * [Chunky Panday](https://www.news18.com/movies/chunky-panday-shares-he-was-paid-to-attend-a-funeral-says-family-was-ready-to-pay-more-if-he-cried-9141302.html)
-    * [Aaradhya Bachchan](https://www.news18.com/movies/aishwarya-rai-abhishek-bachchan-have-rare-reunion-amid-divorce-rumours-mark-aaradhyas-birthday-videos-9141447.html)
-    * [Kapil Sharma](https://www.news18.com/movies/kapil-sharma-mimics-amitabh-bachchan-rekha-has-an-epic-reaction-mujhse-puchiye-watch-9141186.html)
-    * [D Gukesh Vs Ding Liren](https://www.news18.com/sports/world-chess-championship-2024-d-gukesh-and-ding-liren-play-out-another-draw-in-game-6-remain-tied-at-3-points-each-9141564.html)
+    * [Sreeleela](https://www.news18.com/web-stories/celebrities/5-south-diva-sreeleelas-elegant-and-vibrant-saree-looks-2649145/)
+    * [Aishwarya Rai](https://www.news18.com/movies/aishwarya-rai-abhishek-bachchan-have-rare-reunion-amid-divorce-rumours-mark-aaradhyas-birthday-videos-9141447.html)
+    * [Rashmika Mandanna](https://www.news18.com/web-stories/celebrities/4-rashmika-mandannas-simple-yet-elegant-saree-looks-for-wedding-season-2649042/)
+    * [Dog Breeds](https://www.news18.com/web-stories/lifestyle/10-dog-breeds-banned-in-india-2636627/)
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
@@ -169,11 +170,12 @@ Follow us on
 
 In Trends:
 
-* [Income Tax Raid](https://www.news18.com/india/cash-counted-with-36-machines-loaded-on-a-truck-heres-where-the-biggest-income-tax-raid-happened-9139773.html)
+* [Russia](https://www.news18.com/world/over-300-insurgents-killed-as-russia-carries-out-strikes-in-syrias-aleppo-9141553.html)
 * [Chunky Panday](https://www.news18.com/movies/chunky-panday-shares-he-was-paid-to-attend-a-funeral-says-family-was-ready-to-pay-more-if-he-cried-9141302.html)
-* [Aaradhya Bachchan](https://www.news18.com/movies/aishwarya-rai-abhishek-bachchan-have-rare-reunion-amid-divorce-rumours-mark-aaradhyas-birthday-videos-9141447.html)
-* [Kapil Sharma](https://www.news18.com/movies/kapil-sharma-mimics-amitabh-bachchan-rekha-has-an-epic-reaction-mujhse-puchiye-watch-9141186.html)
-* [D Gukesh Vs Ding Liren](https://www.news18.com/sports/world-chess-championship-2024-d-gukesh-and-ding-liren-play-out-another-draw-in-game-6-remain-tied-at-3-points-each-9141564.html)
+* [Sreeleela](https://www.news18.com/web-stories/celebrities/5-south-diva-sreeleelas-elegant-and-vibrant-saree-looks-2649145/)
+* [Aishwarya Rai](https://www.news18.com/movies/aishwarya-rai-abhishek-bachchan-have-rare-reunion-amid-divorce-rumours-mark-aaradhyas-birthday-videos-9141447.html)
+* [Rashmika Mandanna](https://www.news18.com/web-stories/celebrities/4-rashmika-mandannas-simple-yet-elegant-saree-looks-for-wedding-season-2649042/)
+* [Dog Breeds](https://www.news18.com/web-stories/lifestyle/10-dog-breeds-banned-in-india-2636627/)
 * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 
 * Follow Us
@@ -428,7 +430,7 @@ This Policy was last updated as of 14th November 2024.
 
 ![](https://images.news18.com/ibnlive/uploads/2021/07/1627283897_news18_logo-1200x800.jpg)
 
-Dec 01, 2024
+Dec 02, 2024
 
 [View All](https://www.news18.com/short-news/)
 
