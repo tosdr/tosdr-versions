@@ -352,6 +352,18 @@ Community News
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2021/05/lower-decks-animated-768x432.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/lower-decks-interview-ensign-leenaya-edrei-uss-chintoka/)
+
+### [Lower Decks interview: Ensign Leenaya Edrei, USS Chin’toka](https://www.starbase118.net/2024/lower-decks-interview-ensign-leenaya-edrei-uss-chintoka/)
+
+docaharford December 1, 2024
+
+We’re here with another interview with a newer member of our community. The title of this column is “Lower Decks,” hearkening back to the Star
+
+[Read More »](https://www.starbase118.net/2024/lower-decks-interview-ensign-leenaya-edrei-uss-chintoka/)
+
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2020/05/24th-century-Constitution-refit-768x434.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/crisis-unfolds-on-the-uss-constitution-b-and-hermes-outpost/)
 
 ### [Crisis unfolds on the USS Constitution-B and Hermes Outpost](https://www.starbase118.net/2024/crisis-unfolds-on-the-uss-constitution-b-and-hermes-outpost/)
@@ -373,18 +385,6 @@ Federation News Service November 29, 2024
 NURIOOTPA SOLAR NEBULA – While Amity Outpost repairs are complete, Starfleet deals with the repercussions of Changeling infiltration at its highest levels and the loss
 
 [Read More »](https://www.starbase118.net/2024/starfleet-reels-as-amity-outpost-renews-and-idrustix-colony-grows/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2024/11/rouiancetheadshot.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/captains-corner-lia-rouiancet-uss-octavia-e-butler/)
-
-### [Captain’s Corner: Lia Rouiancet, USS Octavia E. Butler](https://www.starbase118.net/2024/captains-corner-lia-rouiancet-uss-octavia-e-butler/)
-
-Alora DeVeau November 28, 2024
-
-Each month, we interview a captain or first officer of the fleet to gain more insight on what it takes to command a ship and
-
-[Read More »](https://www.starbase118.net/2024/captains-corner-lia-rouiancet-uss-octavia-e-butler/)
 
 Ready to get started?
 ---------------------
