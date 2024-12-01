@@ -1,5 +1,11 @@
 [Direkt zum Inhalt](#main-content)
 
+**Der Homematic IP Adventskalender öffnet wieder seine Türchen.**
+
+ **-  24 Tage voller smarter Geschenke**
+
+[▶ Türchen öffnen](https://homematic-ip.com/de/adventskalender)
+
  [![Home](/themes/custom/hip/logo.svg) ![Home](/themes/custom/hip/logo_color.svg)](https://homematic-ip.com/de)
 
 [![Logo](/themes/custom/hip/logo.svg)](https://homematic-ip.com/de)
