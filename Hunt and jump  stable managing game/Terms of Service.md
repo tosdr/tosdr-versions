@@ -6,7 +6,7 @@
 
 Welcome! | [Log In](https://hj2.huntandjump.com/)
 
-FOREST SERVER | **Year: 137 Era: 15**  
+FOREST SERVER | **Year: 138 Era: 16**  
 
 * ![](/images/coloricons/icon_nav_home_color.png)My Stable
     
@@ -44,6 +44,8 @@ FOREST SERVER | **Year: 137 Era: 15**
 * ![](/images/coloricons/Snowflake.png)Seasonal
     
     * [Gift Exchange](https://hj2.huntandjump.com/giftexchange.php)
+    
+    * [Random Acts of Giving](https://hj2.huntandjump.com/randomactsofgiving.php)
 * ![](/images/coloricons/icon_nav_resources.png)Resources
     
     * [**FAQ User Guide**](https://hj2.huntandjump.com/faq.php)
@@ -146,6 +148,10 @@ HuntAndJump.com Rules
 
 ![](/images/coloricons/News-Alerts-2.png)News & Alerts
 
+11/30/2024 11:51 PM EST
+
+### The gift exchange has been assigned. Happy gifting!
+
 11/30/2024 4:07 AM EST
 
 It's newsletter day, and your last chance to enter the GE!
@@ -181,22 +187,6 @@ Link is in the navigation. Have questions, or want a guide? Check the stickied f
 ### Just one week until the gift exchange opens for sign-ups!
 
 [Check out our new GE user guide.](https://alt.wiki.huntandjump.com/doku.php?id=all_gift_exchange)
-
-11/1/2024 9:30 AM EST
-
-[SWITCH UP! It's the 1st and Random Gene Sale switch has activated. Until the 15th of the month you can now pick up:](https://hj2.huntandjump.com/upgrade.php#tabs-5)  
-**White 3**  
-![](https://www.huntandjump.com/images/grsExamples/w3.png)  
-**White 8**  
-![](https://www.huntandjump.com/images/grsExamples/w8.png)  
-**Axiom Red**  
-![](https://www.huntandjump.com/images/grsExamples/axR.png)  
-**Tiger Eye 2**  
-![](https://www.huntandjump.com/images/grsExamples/te2.png)  
-**Phantom Autumn**  
-![](https://www.huntandjump.com/images/grsExamples/phatmn.png)  
-**Rainbow Riot 2 Ink Spot**  
-![](https://www.huntandjump.com/images/grsExamples/inkspot.png)
 
 ![](/images/coloricons/Gold-Star-2.png)Bonus Stall Progress
 
