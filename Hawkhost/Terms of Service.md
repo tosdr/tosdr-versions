@@ -84,11 +84,11 @@ This Affiliate program agreement (this "Agreement") is between Hawk Host Inc., a
 12. You hereby represent and warrant to us that this Agreement has been duly and validly executed and delivered by you and constitutes your legal, valid and binding obligation, enforceable against you in accordance with its terms; and that the execution, delivery and performance by you of this Agreement are within your legal capacity and power; have been duly authorized by all requisite action on your part; require the approval or consent of no other persons; and neither violate nor constitute a default under the (i) provision of any law, rule, regulation, order, judgment or decree to which you are subject or which is binding upon you, or (ii) the terms of any other agreement, document or instrument applicable to you or binding upon you. Should any law enforcement agency or internet service provider provide Hawk Host with notice that you have engaged in transmission of unsolicited bulk e-mails or have otherwise engaged in unlawful conduct or conduct in violation of said service provider's terms of service, we reserve the right to cooperate in any investigation relating to your activities including disclosure of your account information in connection therewith.
 13. You hereby agree to indemnify, defend and hold harmless Hawk Host, officers, directors, employees, agents, affiliates, successors and assigns, from and against any and all claims, losses, liabilities, damages or expense (including attorneys' fees and costs) of any nature whatsoever incurred or suffered by us (collectively the "Losses"), in so far as such Losses (or actions in respect thereof) arise out of or are based on (i) any claim or threatened claim that our use of the Affiliate Trademarks infringes on the rights of any third party; (ii) the breach of any promise, covenant, representation or warranty made by you herein; or (iii) or any claim related to your site.
 
-**Don't Miss The** Black Friday **Sale!**
+**Ready to get started?** Build your site from
 
-_$_0.90/mo
+_$_2.24/mo
 
-[GET STARTED NOW](https://my.hawkhost.com/store/shared-hosting/primary?billingcycle=biennially&promocode=bfshared2024)
+[GET STARTED NOW](https://my.hawkhost.com/store/shared-hosting/primary?billingcycle=biennially&promocode=december2024)
 
 [![](/images/icon-contact-support.webp)Contact Support](https://my.hawkhost.com/submitticket.php)
 
