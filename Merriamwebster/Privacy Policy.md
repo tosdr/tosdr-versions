@@ -388,9 +388,9 @@ If you have questions about Merriam-Webster or its products, visit our [Contact 
 
 #### [Word of the Day](https://www.merriam-webster.com/word-of-the-day)
 
-#### [frugal](https://www.merriam-webster.com/word-of-the-day)
+#### [scintilla](https://www.merriam-webster.com/word-of-the-day)
 
-[![Listen to the pronunciation of frugal](/dist-cross-dungarees/2024-11-25--16-12-55-ndopr/images/svg/audio.svg)](javascript:void(0) "Listen to the pronunciation of frugal")
+[![Listen to the pronunciation of scintilla](/dist-cross-dungarees/2024-11-25--16-12-55-ndopr/images/svg/audio.svg)](javascript:void(0) "Listen to the pronunciation of scintilla")
 
 [See Definitions and Examples](https://www.merriam-webster.com/word-of-the-day) »
 
