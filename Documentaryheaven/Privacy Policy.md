@@ -123,44 +123,44 @@ Advertisement
     The Fog of War
     
     Winner of the Academy Award for Best DocumentaryIt is the story of America as seen through the eyes of the former Secretary of Defense, Robert S. McNamara. One of the most controversial and influe...](https://documentaryheaven.com/the-fog-of-war/ "The Fog of War")
-* [![Louis Theroux: Drinking To Oblivion](/wp-content/thumbnails/16353-100x70.jpg?x53432)
-    
-    Louis Theroux: Drinking To Oblivion
-    
-    Drinking To Oblivion sees Louis Theroux set about spending some time in the world of extreme drinkers, getting to know people who consume alcohol not just to excess but to the point of total oblivio...](https://documentaryheaven.com/louis-theroux-drinking-to-oblivion/ "Louis Theroux: Drinking To Oblivion")
 * [![Why The Industrial Revolution Happened Here](/wp-content/thumbnails/8018-100x70.jpeg?x53432)
     
     Why The Industrial Revolution Happened Here
     
     Professor Jeremy Black examines one of the most extraordinary periods in British history: the Industrial Revolution. He explains the unique economic, social and political conditions that by the 19th c...](https://documentaryheaven.com/why-industrial-revolution-happened-here/ "Why The Industrial Revolution Happened Here")
+* [![Louis Theroux: Drinking To Oblivion](/wp-content/thumbnails/16353-100x70.jpg?x53432)
+    
+    Louis Theroux: Drinking To Oblivion
+    
+    Drinking To Oblivion sees Louis Theroux set about spending some time in the world of extreme drinkers, getting to know people who consume alcohol not just to excess but to the point of total oblivio...](https://documentaryheaven.com/louis-theroux-drinking-to-oblivion/ "Louis Theroux: Drinking To Oblivion")
 
 ###### Throwback Documentaries
 
-* [![Chris Benoit: Dark Side of the Ring](/wp-content/thumbnails/16188-100x70.jpg?x53432)
+* [![Can’t Stop Eating](/wp-content/thumbnails/5897-100x70.png?x53432)
     
-    Chris Benoit: Dark Side of the Ring
+    Can’t Stop Eating
     
-    Chris Benoit was a professional wrestler who murdered his wife and 7-year old son, before taking his own life in a murder-suicide at the family home. The incident took place over a three day period f](https://documentaryheaven.com/chris-benoit-dark-side-ring/ "Chris Benoit: Dark Side of the Ring")
-* [![Hitlers Stealth Jet Fighter](/wp-content/thumbnails/6885-100x70.png?x53432)
+    This documentary follows a small number of British people with an incurable genetic disease called Prader-Willi syndrome.Prader–Willi syndrome is a rare genetic disorder in which seven genes (or s](https://documentaryheaven.com/cant-stop-eating/ "Can’t Stop Eating")
+* [![Iran And The Bomb](/wp-content/thumbnails/7646-100x70.jpg?x53432)
     
-    Hitlers Stealth Jet Fighter
+    Iran And The Bomb
     
-    In the final months of World War II, American troops discovered a top-secret facility in Germany with an advanced batwing-shaped jet fighter. If Nazi engineers had had more time, would this jet have u](https://documentaryheaven.com/hitlers-stealth-jet-fighter/ "Hitlers Stealth Jet Fighter")
-* [![The Mystery of Empty Space](/wp-content/thumbnails/3045-100x70.jpg?x53432)
+    The West says Iran is making a nuclear bomb. Tehran says they're treating cancer. This compelling investigation gets right to the heart of the maelstrom, interrogating facts, falsehoods and shocking a](https://documentaryheaven.com/iran-bomb/ "Iran And The Bomb")
+* [![For Neda](/wp-content/thumbnails/7627-100x70.jpg?x53432)
     
-    The Mystery of Empty Space
+    For Neda
     
-    Get ready to re-think your ideas of reality. Join UCSD physicist Kim Griest as he takes you on a fascinating excursion, addressing some of the massive efforts and tantalizing bits of evidence which su](https://documentaryheaven.com/the-mystery-of-empty-space/ "The Mystery of Empty Space")
-* [![Eritrea: Africa’s North Korea](/wp-content/thumbnails/12777-100x70.jpg?x53432)
+    The film reveals the true story of Neda Agha-Soltan, who became another tragic casualty of Iran's violent crackdown on post-election protests on June 20, 2009.Unlike many unknown victims, however,](https://documentaryheaven.com/for-neda/ "For Neda")
+* [![Web 3.0](/wp-content/thumbnails/3475-100x70.jpg?x53432)
     
-    Eritrea: Africa’s North Korea
+    Web 3.0
     
-    Located beside Ethiopia and Sudan, Eritrea is one of the most censored countries in the world, so much so that it is frequently compared to North Korea. Eritrea won it's independence back in](https://documentaryheaven.com/eritrea-africas-north-korea/ "Eritrea: Africa’s North Korea")
-* [![The Story Of Technoviking](/wp-content/thumbnails/10190-100x70.jpg?x53432)
+    A short story about the Semantic Web. Some Internet experts believe the next generation of the Web – Web 3.0 – will make tasks like your search for movies and food faster and easier. Instead of mult](https://documentaryheaven.com/web-3-0/ "Web 3.0")
+* [![Last Days Of George Michael](/wp-content/thumbnails/14154-100x70.jpg?x53432)
     
-    The Story Of Technoviking
+    Last Days Of George Michael
     
-    The "Techno Viking", for those that don't already know was one of the very first internet phenomenon's or meme's, it is a 4-minute video shot by experimental video artist Matthias Fritsch at the 2000](https://documentaryheaven.com/story-of-technoviking/ "The Story Of Technoviking")
+    He was adored around the world yet he died alone, but who was the real George Michael? Was he a superstar simply tormented by the attention that fame brought him or a celebrity obsessed with fighting](https://documentaryheaven.com/last-days-george-michael/ "Last Days Of George Michael")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
