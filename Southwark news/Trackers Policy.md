@@ -20,10 +20,6 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
-    [](https://southwarknews.co.uk/news/millwall-boss-rues-lions-lack-of-killer-instinct/)
-    
-    ### [Millwall boss rues Lions’ lack of ‘killer instinct’](https://southwarknews.co.uk/news/millwall-boss-rues-lions-lack-of-killer-instinct/)
-    
     [![It kicks off at Leake Street's tunnel (credit: Stephane Wright)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Niall-KellyCaitlinTommy-highres-360x180.jpg)](https://southwarknews.co.uk/area/waterloo/over-800-bmx-riders-in-santa-outfits-to-cycle-through-waterloo-graffiti-tunnel/)
     
     ### [Over 800 BMX riders in Santa outfits to cycle through Waterloo graffiti tunnel](https://southwarknews.co.uk/area/waterloo/over-800-bmx-riders-in-santa-outfits-to-cycle-through-waterloo-graffiti-tunnel/)
@@ -56,6 +52,10 @@
     [![Left to right: Neil Coyle, Florence Eshalomi, Helen Hayes, Miatta Fahnbulleh, Ellie Reeves](https://southwarknews.co.uk/wp-content/uploads/2024/11/Left-to-right-Neil-Coyle-Florence-Eshalomi-Helen-Hayes-Miatta-Fahnbulleh-Ellie-Reeves-360x180.png)](https://southwarknews.co.uk/area/southwark/how-did-southwarks-five-mps-vote-on-the-assisted-dying-bill/)
     
     ### [How did Southwark’s five MPs vote on the assisted dying bill?](https://southwarknews.co.uk/area/southwark/how-did-southwarks-five-mps-vote-on-the-assisted-dying-bill/)
+    
+    [![Anthony Marks reportedly died after being attacked near King's Cross St Pancras station. Image: Met Police](https://southwarknews.co.uk/wp-content/uploads/2024/11/f250fc10-ae38-11ef-93a6-9fd2d3586a96.jpg-360x180.webp)](https://southwarknews.co.uk/featured/brixton-girl-16-charged-with-murder-of-homeless-man/)
+    
+    ### [Brixton girl, 16, charged with murder of ‘homeless man’](https://southwarknews.co.uk/featured/brixton-girl-16-charged-with-murder-of-homeless-man/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -106,10 +106,6 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
-    [](https://southwarknews.co.uk/news/millwall-boss-rues-lions-lack-of-killer-instinct/)
-    
-    ### [Millwall boss rues Lions’ lack of ‘killer instinct’](https://southwarknews.co.uk/news/millwall-boss-rues-lions-lack-of-killer-instinct/)
-    
     [![It kicks off at Leake Street's tunnel (credit: Stephane Wright)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Niall-KellyCaitlinTommy-highres-360x180.jpg)](https://southwarknews.co.uk/area/waterloo/over-800-bmx-riders-in-santa-outfits-to-cycle-through-waterloo-graffiti-tunnel/)
     
     ### [Over 800 BMX riders in Santa outfits to cycle through Waterloo graffiti tunnel](https://southwarknews.co.uk/area/waterloo/over-800-bmx-riders-in-santa-outfits-to-cycle-through-waterloo-graffiti-tunnel/)
@@ -142,6 +138,10 @@ View All Result
     [![Left to right: Neil Coyle, Florence Eshalomi, Helen Hayes, Miatta Fahnbulleh, Ellie Reeves](https://southwarknews.co.uk/wp-content/uploads/2024/11/Left-to-right-Neil-Coyle-Florence-Eshalomi-Helen-Hayes-Miatta-Fahnbulleh-Ellie-Reeves-360x180.png)](https://southwarknews.co.uk/area/southwark/how-did-southwarks-five-mps-vote-on-the-assisted-dying-bill/)
     
     ### [How did Southwark’s five MPs vote on the assisted dying bill?](https://southwarknews.co.uk/area/southwark/how-did-southwarks-five-mps-vote-on-the-assisted-dying-bill/)
+    
+    [![Anthony Marks reportedly died after being attacked near King's Cross St Pancras station. Image: Met Police](https://southwarknews.co.uk/wp-content/uploads/2024/11/f250fc10-ae38-11ef-93a6-9fd2d3586a96.jpg-360x180.webp)](https://southwarknews.co.uk/featured/brixton-girl-16-charged-with-murder-of-homeless-man/)
+    
+    ### [Brixton girl, 16, charged with murder of ‘homeless man’](https://southwarknews.co.uk/featured/brixton-girl-16-charged-with-murder-of-homeless-man/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
