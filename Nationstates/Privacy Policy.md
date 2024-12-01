@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Tiami's Endless Tacos (1,560)](https://forum.nationstates.net/viewtopic.php?t=558437&f=20&view=unread#unread ""Tiami's Endless Tacos" (1,560 posts)")
-* [The Problem about \[Radical\] Islam (es… (375)](https://forum.nationstates.net/viewtopic.php?t=557387&f=20&view=unread#unread ""The Problem about [Radical] Islam (especially to Turks)" (375 posts)")
-* [Emboldened 'manosphere' accelerates t… (41)](https://forum.nationstates.net/viewtopic.php?t=559050&f=20&view=unread#unread ""Emboldened 'manosphere' accelerates threats against women" (41 posts)")
-* [VVK - Kanzlian Domestic Football News… (34)](https://forum.nationstates.net/viewtopic.php?t=553648&f=7&view=unread#unread ""VVK - Kanzlian Domestic Football Newswire" (34 posts)")
-* [YOU'RE FIRED! (791)](https://forum.nationstates.net/viewtopic.php?t=555261&f=25&view=unread#unread ""YOU'RE FIRED!" (791 posts)")
+* [SR Hypermarkets|"Discover the best buys" (157)](https://forum.nationstates.net/viewtopic.php?t=386379&f=6&view=unread#unread ""SR Hypermarkets|"Discover the best buys"" (157 posts)")
+* [911, what is your \[not\] emergency? (1,202)](https://forum.nationstates.net/viewtopic.php?t=554757&f=25&view=unread#unread ""911, what is your [not] emergency?" (1,202 posts)")
+* [The War of the 3rd Coalition (Against… (241)](https://forum.nationstates.net/viewtopic.php?t=559018&f=5&view=unread#unread ""The War of the 3rd Coalition (Against Doslonsu)" (241 posts)")
+* [\[AT VOTE\] Liberate Empires Forever Un… (42)](https://forum.nationstates.net/viewtopic.php?t=558949&f=24&view=unread#unread ""[AT VOTE] Liberate Empires Forever United v2" (42 posts)")
+* [The Weather Thread- An Early Winter i… (2,957)](https://forum.nationstates.net/viewtopic.php?t=515489&f=20&view=unread#unread ""The Weather Thread- An Early Winter it Shall Be" (2,957 posts)")
 
 Advertisement
 
