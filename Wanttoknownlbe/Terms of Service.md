@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/gastcolumns/acceptatie-en-loslaten/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/arend-zeevat/de-mensheid-is-volwassen-aan-het-worden/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
@@ -140,9 +140,9 @@ Inschrijven
 
 #### Quote van de week
 
-> Een samenleving wordt totalitair wanneer haar structuur flagrant kunstmatig wordt: dat is wanneer de heersende klasse haar functie heeft verloren, maar erin slaagt zich aan de macht vast te klampen door middel van geweld of fraude.
+> Één van de belangrijkste functies van georganiseerde religie, is het afschermen van de mens van een directe verbinding met god.
 > 
-> George Orwell (1903-1950), journalist-auteur
+> Carl Gustav Jung (1865-1971), psychiater
 
 [![Energetische atlasprofilax](https://www.wanttoknow.nl/wp-content/uploads/Atlas-banner2.jpg)](https://lucardie.eu/de-energetische-atlascorrectieeen-nieuwe-balans/)
 
