@@ -20,16 +20,16 @@ Sunday, December 1 2024
 
 Latest
 
+* [I’m a Shopping Writer, and These Are My Favorite Tech Deals From Target’s Black Friday Sale](https://digitpatrox.com/im-a-shopping-writer-and-these-are-my-favorite-tech-deals-from-targets-black-friday-sale/)
+* [How to Lock or Hide an App on Android](https://digitpatrox.com/how-to-lock-or-hide-an-app-on-android/)
+* [Need an air mattress for holiday guests? Here’s 3 under $65 in the Black Friday sales](https://digitpatrox.com/need-an-air-mattress-for-holiday-guests-heres-3-under-65-in-the-black-friday-sales/)
+* [Elon Musk targets OpenAI’s for-profit transition in a new filing](https://digitpatrox.com/elon-musk-targets-openais-for-profit-transition-in-a-new-filing/)
+* [NYT Strands Today: Hints, Answers & Spangram for December 1](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-december-1/)
 * [The Samsung Bespoke Stick Vacuum Is $300 Off for Black Friday](https://digitpatrox.com/the-samsung-bespoke-stick-vacuum-is-300-off-for-black-friday/)
 * [PowerPoint Isn’t Just for Business Presentations: 4 Other Real-World Uses](https://digitpatrox.com/powerpoint-isnt-just-for-business-presentations-4-other-real-world-uses/)
 * [9 Best Software Development Project Management Tools](https://digitpatrox.com/9-best-software-development-project-management-tools/)
 * [Cancel the sleep divorce! 3 extended Black Friday mattress deals perfect for couples](https://digitpatrox.com/cancel-the-sleep-divorce-3-extended-black-friday-mattress-deals-perfect-for-couples/)
 * [SpyLoan Android malware on Google play installed 8 million times](https://digitpatrox.com/spyloan-android-malware-on-google-play-installed-8-million-times/)
-* [Anker’s high-powered portable power bank is down to just $74 right now](https://digitpatrox.com/ankers-high-powered-portable-power-bank-is-down-to-just-74-right-now/)
-* [Don’t Sleep on Espresso Machine Which is Going for 40% off on Black Friday](https://digitpatrox.com/dont-sleep-on-espresso-machine-which-is-going-for-40-off-on-black-friday/)
-* [How to watch The Holiday online from anywhere](https://digitpatrox.com/how-to-watch-the-holiday-online-from-anywhere/)
-* [Samsung’s ‘The Frame’ TV Has Its Lowest Price Ever for Black Friday](https://digitpatrox.com/samsungs-the-frame-tv-has-its-lowest-price-ever-for-black-friday/)
-* [What are Robocalls and How Can You Avoid Them?](https://digitpatrox.com/what-are-robocalls-and-how-can-you-avoid-them/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://lifehacker.com/imagery/articles/01JDWGRN5NDXC3F7NZC1WQDSVW/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/the-samsung-bespoke-stick-vacuum-is-300-off-for-black-friday/)
+* [![](https://lifehacker.com/imagery/articles/01JDAH68TDCDBWMAT2NF3ECXGR/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/im-a-shopping-writer-and-these-are-my-favorite-tech-deals-from-targets-black-friday-sale/)
     
-    [The Samsung Bespoke Stick Vacuum Is $300 Off for Black Friday](https://digitpatrox.com/the-samsung-bespoke-stick-vacuum-is-300-off-for-black-friday/)
+    [I’m a Shopping Writer, and These Are My Favorite Tech Deals From Target’s Black Friday Sale](https://digitpatrox.com/im-a-shopping-writer-and-these-are-my-favorite-tech-deals-from-targets-black-friday-sale/)
     
-    14 minutes ago
+    11 minutes ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/several-powerpoint-presentations.jpg)](https://digitpatrox.com/powerpoint-isnt-just-for-business-presentations-4-other-real-world-uses/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/11/some-apps-with-a-switch-beside-showing-the-options-lock-or-hide-and-the-android-logo.jpg)](https://digitpatrox.com/how-to-lock-or-hide-an-app-on-android/)
     
-    [PowerPoint Isn’t Just for Business Presentations: 4 Other Real-World Uses](https://digitpatrox.com/powerpoint-isnt-just-for-business-presentations-4-other-real-world-uses/)
+    [How to Lock or Hide an App on Android](https://digitpatrox.com/how-to-lock-or-hide-an-app-on-android/)
     
-    26 minutes ago
+    23 minutes ago
     
-* [![](https://assets.techrepublic.com/uploads/2022/11/team-meeting-for-business.jpg)](https://digitpatrox.com/9-best-software-development-project-management-tools/)
+* [![](https://cdn.mos.cms.futurecdn.net/EBMH4cF8ycUKKSF7iWWd4L-1200-80.jpg)](https://digitpatrox.com/need-an-air-mattress-for-holiday-guests-heres-3-under-65-in-the-black-friday-sales/)
     
-    [9 Best Software Development Project Management Tools](https://digitpatrox.com/9-best-software-development-project-management-tools/)
-    
-    1 hour ago
-    
-* [![](https://cdn.mos.cms.futurecdn.net/WMKWZHVk7aXKzRhdpxhuBf-1200-80.jpg)](https://digitpatrox.com/cancel-the-sleep-divorce-3-extended-black-friday-mattress-deals-perfect-for-couples/)
-    
-    [Cancel the sleep divorce! 3 extended Black Friday mattress deals perfect for couples](https://digitpatrox.com/cancel-the-sleep-divorce-3-extended-black-friday-mattress-deals-perfect-for-couples/)
+    [Need an air mattress for holiday guests? Here’s 3 under $65 in the Black Friday sales](https://digitpatrox.com/need-an-air-mattress-for-holiday-guests-heres-3-under-65-in-the-black-friday-sales/)
     
     1 hour ago
     
-* [![](https://www.bleepstatic.com/content/hl-images/2024/05/03/Android-3.jpg)](https://digitpatrox.com/spyloan-android-malware-on-google-play-installed-8-million-times/)
+* [![](https://cdn.vox-cdn.com/thumbor/HqGF1ArOYz6O0wbJa0_NQgCSVKg=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23906797/VRG_Illo_STK022_K_Radtke_Musk_Scales.jpg)](https://digitpatrox.com/elon-musk-targets-openais-for-profit-transition-in-a-new-filing/)
     
-    [SpyLoan Android malware on Google play installed 8 million times](https://digitpatrox.com/spyloan-android-malware-on-google-play-installed-8-million-times/)
+    [Elon Musk targets OpenAI’s for-profit transition in a new filing](https://digitpatrox.com/elon-musk-targets-openais-for-profit-transition-in-a-new-filing/)
     
-    2 hours ago
+    3 hours ago
+    
+* [![](https://beebom.com/wp-content/uploads/2024/07/strands-today-hints-and-answers.jpg?w=1252&quality=75)](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-december-1/)
+    
+    [NYT Strands Today: Hints, Answers & Spangram for December 1](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-december-1/)
+    
+    3 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [14 minutes ago
+* [11 minutes ago
     
-    ### The Samsung Bespoke Stick Vacuum Is $300 Off for Black Friday](https://digitpatrox.com/the-samsung-bespoke-stick-vacuum-is-300-off-for-black-friday/)
-* [26 minutes ago
+    ### I’m a Shopping Writer, and These Are My Favorite Tech Deals From Target’s Black Friday Sale](https://digitpatrox.com/im-a-shopping-writer-and-these-are-my-favorite-tech-deals-from-targets-black-friday-sale/)
+* [23 minutes ago
     
-    ### PowerPoint Isn’t Just for Business Presentations: 4 Other Real-World Uses](https://digitpatrox.com/powerpoint-isnt-just-for-business-presentations-4-other-real-world-uses/)
+    ### How to Lock or Hide an App on Android](https://digitpatrox.com/how-to-lock-or-hide-an-app-on-android/)
 * [1 hour ago
     
-    ### 9 Best Software Development Project Management Tools](https://digitpatrox.com/9-best-software-development-project-management-tools/)
+    ### Need an air mattress for holiday guests? Here’s 3 under $65 in the Black Friday sales](https://digitpatrox.com/need-an-air-mattress-for-holiday-guests-heres-3-under-65-in-the-black-friday-sales/)
 
 Most Popular Topics
 
-* [October 29, 2024
+* [5 days ago
     
-    ### Today’s Wordle Answer and Hints (October 29, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-october-29-2024/)
-* [3 weeks ago
+    ### What is AT Protocol (Authenticated Transfer Protocol)?](https://digitpatrox.com/what-is-at-protocol-authenticated-transfer-protocol/)
+* [September 23, 2024
     
-    ### I’ve been testing Apple Intelligence — here’s 3 reasons why it’s worth upgrading to a new iPhone](https://digitpatrox.com/ive-been-testing-apple-intelligence-heres-3-reasons-why-its-worth-upgrading-to-a-new-iphone/)
-* [August 22, 2024
+    ### Amazon October Prime Day: how to find the best deals](https://digitpatrox.com/amazon-october-prime-day-how-to-find-the-best-deals/)
+* [September 6, 2024
     
-    ### Qilin ransomware now steals credentials from Chrome browsers](https://digitpatrox.com/qilin-ransomware-now-steals-credentials-from-chrome-browsers/)
+    ### Best free antivirus for Android in 2024](https://digitpatrox.com/best-free-antivirus-for-android-in-2024-2/)
 
 Last Modified Topics
 
-* [3 hours ago
-    
-    ### Don’t Sleep on Espresso Machine Which is Going for 40% off on Black Friday](https://digitpatrox.com/dont-sleep-on-espresso-machine-which-is-going-for-40-off-on-black-friday/)
-* [4 hours ago
-    
-    ### How to watch The Holiday online from anywhere](https://digitpatrox.com/how-to-watch-the-holiday-online-from-anywhere/)
 * [5 hours ago
     
-    ### Samsung’s ‘The Frame’ TV Has Its Lowest Price Ever for Black Friday](https://digitpatrox.com/samsungs-the-frame-tv-has-its-lowest-price-ever-for-black-friday/)
+    ### PowerPoint Isn’t Just for Business Presentations: 4 Other Real-World Uses](https://digitpatrox.com/powerpoint-isnt-just-for-business-presentations-4-other-real-world-uses/)
+* [6 hours ago
+    
+    ### 9 Best Software Development Project Management Tools](https://digitpatrox.com/9-best-software-development-project-management-tools/)
+* [6 hours ago
+    
+    ### Cancel the sleep divorce! 3 extended Black Friday mattress deals perfect for couples](https://digitpatrox.com/cancel-the-sleep-divorce-3-extended-black-friday-mattress-deals-perfect-for-couples/)
 
 Most Viewed Topics
 
+* [August 13, 2024
+    
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 * [August 11, 2024
     
     ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
-* [August 13, 2024
-    
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [October 2, 2024
     
     ### The best noise-canceling headphones for 2024](https://digitpatrox.com/the-best-noise-canceling-headphones-for-2024/)
