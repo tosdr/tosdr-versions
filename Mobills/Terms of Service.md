@@ -39,7 +39,9 @@ Te aconselhamos também a acessar a versão completa dos Termos de Uso, clicando
 Como utilizar ou contratar os serviços da Mobills
 -------------------------------------------------
 
-[![](https://www.mobills.com.br/blog/wp-content/uploads/2022/07/Termos-de-Uso-1-1024x706.jpg)](https://www.mobills.com.br/blog/wp-content/uploads/2022/07/Termos-de-Uso-1.jpg)
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20706'%3E%3C/svg%3E)
+
+![](https://www.mobills.com.br/blog/wp-content/uploads/2022/07/Termos-de-Uso-1-1024x706.jpg)](https://www.mobills.com.br/blog/wp-content/uploads/2022/07/Termos-de-Uso-1.jpg)
 
 Nós temos diversos serviços que, para a sua contratação e utilização, será necessária a realização de um cadastro inicial com a apresentação de alguns dados pessoais _(sobre a utilização de seus dados pessoais, dá uma olhadinha na nossa política de privacidade clicando aqui)_.
 
