@@ -115,7 +115,7 @@ Apply
 
 [](https://www.mypillow.com/bath/kitchen-towels)
 
-[](https://www.mypillow.com/what-are-the-odds-br-from-crack-addict-to-ceo)
+[](https://www.mypillow.com/mymattress-topper)
 
 [](https://www.mypillow.com/couch-and-recliner-pillows)
 
@@ -131,7 +131,7 @@ Apply
 
 [](https://www.mypillow.com/bedding)
 
-[](https://www.mypillow.com/mymattress-topper)
+[](https://www.mypillow.com/what-are-the-odds-br-from-crack-addict-to-ceo)
 
 [](https://www.mypillow.com/pet)
 
