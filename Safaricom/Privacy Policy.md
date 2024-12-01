@@ -144,6 +144,18 @@ out of 5 based on
 
 ![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
+> Nov 30, 2024
+
+> Great advice, responsive and knowledgeable!
+
+> Pascal John at Safari.com guided me on different safari lodges (experience, rating), and most importantly knew about specials (buy 3 nights, get 4th for free) which allowed my family to secure a 5-star location at a more reasonable rate. Great advice, responsive and knowledgeable!
+
+Rebecca Cauffman
+
+,
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
 > Nov 29, 2024
 
 > Fast responses and informative answers.
@@ -249,20 +261,6 @@ Ray
 ,
 
 US
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Nov 26, 2024
-
-> What a great booking experience
-
-> What a great booking experience. Shann was extremely attentive, answered all my questions swifty and provided me with confidence that I was in good hands and my trip would be exactly what I was looking for.
-
-Phillip Marshall
-
-,
-
-GB
 
 VIP service
 
