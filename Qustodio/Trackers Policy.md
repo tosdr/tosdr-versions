@@ -1,4 +1,4 @@
-[**BLACK FRIDAY SALE |** Get 50% off Premium today – **BUY NOW**](https://www.qustodio.com/en/premium/)
+[**CYBER MONDAY |** Get 30% off Premium protection today only – **BUY NOW**](https://www.qustodio.com/en/premium/)
 
 [![Qustodio](https://www.qustodio.com/wp-content/themes/Divi-child/assets/dist/svg/template-parts/header/qustodio-logo.svg?v=4.19.0)](https://www.qustodio.com/en/)
 
@@ -15,7 +15,7 @@
 * [Log in](https://family.qustodio.com/)
 * [Sign up](https://www.qustodio.com/en/free-sign-up/)
 
-[**BLACK FRIDAY SALE |** Get 50% off Premium today – **BUY NOW**](https://www.qustodio.com/en/premium/)
+[**CYBER MONDAY |** Get 30% off Premium protection today only – **BUY NOW**](https://www.qustodio.com/en/premium/)
 
 [![Qustodio](https://www.qustodio.com/wp-content/themes/Divi-child/assets/dist/svg/template-parts/header/qustodio-logo.svg?v=4.19.0)](https://www.qustodio.com/en/)
 
@@ -392,8 +392,8 @@ Follow @qustodio
 
 ![](https://www.qustodio.com/wp-content/themes/Divi-child/assets/src/img/template-parts/footer/badges.png)
 
-### **Black Friday Sale is on now!**
+### **Cyber Monday flash sale!**
 
-Get 50% off Premium Complete protection with code FRIDAY50
+Today only! Get 30% off Premium plans with code CYBER30
 
 [Go Premium](https://www.qustodio.com/en/premium/) [Go Premium](https://www.qustodio.com/en/premium/) [Go Premium](https://www.qustodio.com/en/premium/)
