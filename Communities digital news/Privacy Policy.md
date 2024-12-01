@@ -30,37 +30,37 @@ Search for:
 
 [Deep state despair: Trump announces ‘Kash’ Patel as next FBI Director](https://americanwirenews.com/deep-state-despair-trump-announces-kash-patel-as-next-fbi-director/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-obamabrorogan-1200-x-628-1200x630.jpg)](https://americanwirenews.com/obama-bro-breaks-the-news-to-dems-calling-for-their-own-joe-rogan-he-was-our-joe-rogan/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-george-barry-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/water-boy-clooney-reportedly-furious-after-obama-left-him-holding-the-bag-for-biden-coup/)
 
-[‘Obama bro’ breaks the news to Dems calling for their own Joe Rogan: ‘He WAS our Joe Rogan’](https://americanwirenews.com/obama-bro-breaks-the-news-to-dems-calling-for-their-own-joe-rogan-he-was-our-joe-rogan/)
+[‘Water boy’ Clooney reportedly ‘furious’ after Obama left him ‘holding the bag’ for Biden coup](https://americanwirenews.com/water-boy-clooney-reportedly-furious-after-obama-left-him-holding-the-bag-for-biden-coup/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-seidel-banderas-1200x630.jpg)](https://americanwirenews.com/here-we-go-weatherman-happily-obliges-when-fox-anchor-asks-him-to-make-a-snow-angel/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-trump-xi-1200x630.jpg)](https://americanwirenews.com/find-another-sucker-trump-threatens-100-tariff-on-china-led-bloc-if-they-move-away-from-dollar/)
 
-[‘Here we go!’ Weatherman happily obliges when Fox anchor asks him to make a snow angel](https://americanwirenews.com/here-we-go-weatherman-happily-obliges-when-fox-anchor-asks-him-to-make-a-snow-angel/)
+[‘Find another sucker!’ Trump threatens 100% tariff on China-led bloc if they ‘move away’ from dollar](https://americanwirenews.com/find-another-sucker-trump-threatens-100-tariff-on-china-led-bloc-if-they-move-away-from-dollar/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-kasie-hunt-1200x630.jpg)](https://americanwirenews.com/cnns-kasie-hunt-visibly-stunned-by-homan-no-nonsense-response-to-dem-mayors-threat/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-mccabe-1200x630.jpg)](https://americanwirenews.com/cnn-quick-to-roll-out-former-g-man-andrew-mccabe-to-tarnish-trump-nominee-kash-patel/)
 
-[CNN’s Kasie Hunt visibly stunned by Homan’ no-nonsense response to Dem mayor’s threat](https://americanwirenews.com/cnns-kasie-hunt-visibly-stunned-by-homan-no-nonsense-response-to-dem-mayors-threat/)
+[CNN quick to roll out former G-man Andrew McCabe to tarnish Trump nominee Kash Patel](https://americanwirenews.com/cnn-quick-to-roll-out-former-g-man-andrew-mccabe-to-tarnish-trump-nominee-kash-patel/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-cenku-1200-x-628-1200x630.jpg)](https://americanwirenews.com/even-cenk-uygur-is-optimistic-over-trump-win-as-leftist-finds-common-cause-with-maga/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-fettermancolbert-1200-x-628-1200x630.jpg)](https://americanwirenews.com/fetterman-has-an-idea-why-male-voters-were-turned-off-by-kamala-democrats/)
 
-[Even Cenk Uygur is ‘optimistic’ over Trump win as leftist finds common cause with MAGA](https://americanwirenews.com/even-cenk-uygur-is-optimistic-over-trump-win-as-leftist-finds-common-cause-with-maga/)
+[Fetterman has an idea why male voters were turned off by Kamala, Democrats](https://americanwirenews.com/fetterman-has-an-idea-why-male-voters-were-turned-off-by-kamala-democrats/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-bruce-1200x630.jpg)](https://americanwirenews.com/i-dont-call-many-things-racist-fox-contributor-torches-canadian-officials-reaction-to-mexico-comparison/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-ellenjimmyshow-1200-x-628-1200x630.jpg)](https://americanwirenews.com/ellen-degeneres-brit-home-hit-by-floods-after-fleeing-trump-some-suggest-its-karma/)
 
-[‘I don’t call many things racist…’ Fox contributor torches Canadian official’s reaction to Mexico comparison](https://americanwirenews.com/i-dont-call-many-things-racist-fox-contributor-torches-canadian-officials-reaction-to-mexico-comparison/)
+[Ellen DeGeneres’ Brit home hit by floods after fleeing Trump, some suggest it’s karma](https://americanwirenews.com/ellen-degeneres-brit-home-hit-by-floods-after-fleeing-trump-some-suggest-its-karma/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-scott-jennings-4-1200x630.jpg)](https://americanwirenews.com/la-times-adds-cnns-scott-jennings-to-editorial-board/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-jascrock-1200-x-628-1200x630.jpg)](https://americanwirenews.com/just-dont-really-see-it-jasmine-crockett-questions-trump-on-mass-deportation/)
 
-[LA Times adds CNN’s Scott Jennings to editorial board](https://americanwirenews.com/la-times-adds-cnns-scott-jennings-to-editorial-board/)
+[‘Just don’t really see it’: Jasmine Crockett questions Trump on mass deportation](https://americanwirenews.com/just-dont-really-see-it-jasmine-crockett-questions-trump-on-mass-deportation/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-schwarzenegger-1200x630.jpg)](https://americanwirenews.com/terminator-stars-la-home-targeted-by-bomb-threat-on-thanksgiving-day/)
 
 [‘Terminator’ star’s LA home targeted by bomb threat on Thanksgiving Day](https://americanwirenews.com/terminator-stars-la-home-targeted-by-bomb-threat-on-thanksgiving-day/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-george-barry-split-1200-x-628-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-wray-1200x630.jpg)
 
-### ‘Water boy’ Clooney reportedly ‘furious’ after Obama left him ‘holding the bag’ for Biden coup](https://americanwirenews.com/water-boy-clooney-reportedly-furious-after-obama-left-him-holding-the-bag-for-biden-coup/)
+### Rep. Higgins warns FBI chief Chris Wray to ‘remain close to DC’ as J6 accountability nears](https://americanwirenews.com/rep-higgins-warns-fbi-chief-chris-wray-to-remain-close-to-dc-as-j6-accountability-nears/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -78,17 +78,37 @@ Search for:
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-mccabe-220x180.jpg)](https://americanwirenews.com/cnn-quick-to-roll-out-former-g-man-andrew-mccabe-to-tarnish-trump-nominee-kash-patel/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-alexander-220x180.jpg)](https://americanwirenews.com/hamas-drops-video-of-coerced-hostage-appealing-to-trump-to-help-secure-freedom/)
 
-[CNN quick to roll out former G-man Andrew McCabe to tarnish Trump nominee Kash Patel](https://americanwirenews.com/cnn-quick-to-roll-out-former-g-man-andrew-mccabe-to-tarnish-trump-nominee-kash-patel/)
+[Hamas drops video of coerced hostage appealing to Trump to help secure freedom](https://americanwirenews.com/hamas-drops-video-of-coerced-hostage-appealing-to-trump-to-help-secure-freedom/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-trump-xi-220x180.jpg)](https://americanwirenews.com/find-another-sucker-trump-threatens-100-tariff-on-china-led-bloc-if-they-move-away-from-dollar/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-welker-hagerty-220x180.jpg)](https://americanwirenews.com/sen-hagerty-cheers-kash-patel-for-fbi-says-entire-agency-needs-to-be-cleaned-out/)
 
-[‘Find another sucker!’ Trump threatens 100% tariff on China-led bloc if they ‘move away’ from dollar](https://americanwirenews.com/find-another-sucker-trump-threatens-100-tariff-on-china-led-bloc-if-they-move-away-from-dollar/)
+[Sen. Hagerty cheers Kash Patel for FBI, says ‘entire agency needs to be cleaned out’](https://americanwirenews.com/sen-hagerty-cheers-kash-patel-for-fbi-says-entire-agency-needs-to-be-cleaned-out/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-wray-220x180.jpg)](https://americanwirenews.com/rep-higgins-warns-fbi-chief-chris-wray-to-remain-close-to-dc-as-j6-accountability-nears/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-hegseth-220x180.jpg)](https://americanwirenews.com/hegseths-mother-quick-to-regret-email-sent-in-anger-blasts-ny-times-over-disgusting-piece/)
 
-[Rep. Higgins warns FBI chief Chris Wray to ‘remain close to DC’ as J6 accountability nears](https://americanwirenews.com/rep-higgins-warns-fbi-chief-chris-wray-to-remain-close-to-dc-as-j6-accountability-nears/)
+[Hegseth’s mother quick to regret email sent in ‘anger,’ blasts NY Times over ‘disgusting’ piece](https://americanwirenews.com/hegseths-mother-quick-to-regret-email-sent-in-anger-blasts-ny-times-over-disgusting-piece/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2023/11/SG-Epps-1200-x-628-220x180.jpg)](https://americanwirenews.com/patel-explains-only-two-ways-ray-epps-was-on-fbis-most-wanted-list-one-day-off-the-next/)
+
+[Patel explains ‘only two ways’ Ray Epps was on FBI’s most wanted list one day, off the next](https://americanwirenews.com/patel-explains-only-two-ways-ray-epps-was-on-fbis-most-wanted-list-one-day-off-the-next/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/05/sg-hunter-220x180.jpg)](https://americanwirenews.com/hunter-bidens-lawyers-cite-trump-election-win-as-justification-of-pardon-from-pops/)
+
+[Hunter Biden’s lawyers cite Trump election win as justification of pardon from Pops](https://americanwirenews.com/hunter-bidens-lawyers-cite-trump-election-win-as-justification-of-pardon-from-pops/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-kcrefs-1200-x-628-220x180.jpg)](https://americanwirenews.com/fans-insist-nfl-is-rigged-after-latest-kansas-city-chiefs-miracle/)
+
+[Fans insist NFL is ‘RIGGED’ after latest Kansas City Chiefs miracle](https://americanwirenews.com/fans-insist-nfl-is-rigged-after-latest-kansas-city-chiefs-miracle/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-ramaswamy-220x180.jpg)](https://americanwirenews.com/this-is-nuts-ramaswamy-critical-of-nyc-for-paying-pakistan-millions-to-house-illegal-migrants/)
+
+[‘This is nuts’: Ramaswamy critical of NYC for paying Pakistan millions to house illegal migrants](https://americanwirenews.com/this-is-nuts-ramaswamy-critical-of-nyc-for-paying-pakistan-millions-to-house-illegal-migrants/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-bonta-1200-x-628-220x180.jpg)](https://americanwirenews.com/california-ag-urges-holiday-shoppers-to-rat-out-stores-without-gender-neutral-kids-sections/)
+
+[California AG urges holiday shoppers to rat out stores without gender-neutral kids’ sections](https://americanwirenews.com/california-ag-urges-holiday-shoppers-to-rat-out-stores-without-gender-neutral-kids-sections/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/03/sg-aoc-cnnsotu-1200-x-628-220x180.jpg)](https://americanwirenews.com/social-media-mocks-the-idea-of-aoc-as-president-but-fmr-trump-official-says-its-no-laughing-matter/)
 
@@ -157,26 +177,6 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/05/sg-fetterman-220x180.jpg)](https://americanwirenews.com/fetterman-has-advice-for-dems-hysterical-over-trump-win-just-grab-a-grip/)
 
 [Fetterman has advice for Dems hysterical over Trump win: ‘Just grab a grip’](https://americanwirenews.com/fetterman-has-advice-for-dems-hysterical-over-trump-win-just-grab-a-grip/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-mark-hamill-220x180.png)](https://americanwirenews.com/trump-is-your-daddy-star-wars-mark-hamill-dragged-for-dramatic-reaction-to-trump-reelection/)
-
-[‘Trump is your daddy!’ Star Wars’ Mark Hamill dragged for dramatic reaction to Trump reelection](https://americanwirenews.com/trump-is-your-daddy-star-wars-mark-hamill-dragged-for-dramatic-reaction-to-trump-reelection/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-randy-fine-220x180.jpg)](https://americanwirenews.com/the-hebrew-hammer-gop-house-hopeful-warns-squad-members-that-it-might-be-time-to-get-out-of-dodge/)
-
-[‘The Hebrew Hammer’: GOP House hopeful warns ‘Squad’ members that it might be time to get out of Dodge](https://americanwirenews.com/the-hebrew-hammer-gop-house-hopeful-warns-squad-members-that-it-might-be-time-to-get-out-of-dodge/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-apple-ad-220x180.jpg)](https://americanwirenews.com/apples-emotional-family-oriented-ad-earns-praise-from-viewers-very-well-done-here-more-of-this/)
-
-[Apple’s emotional ‘family oriented’ ad earns praise from viewers: ‘Very well done here. More of this.’](https://americanwirenews.com/apples-emotional-family-oriented-ad-earns-praise-from-viewers-very-well-done-here-more-of-this/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-chcuk-todd-220x180.png)](https://americanwirenews.com/out-of-touch-elitist-chuck-todd-whines-that-tariffs-will-be-a-guacamole-tax/)
-
-[Out-of-touch elitist Chuck Todd whines that tariffs will be a ‘guacamole tax’](https://americanwirenews.com/out-of-touch-elitist-chuck-todd-whines-that-tariffs-will-be-a-guacamole-tax/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-conn-bomb-threat-220x180.jpg)](https://americanwirenews.com/three-dem-reps-from-the-same-state-targeted-by-bomb-threats/)
-
-[Three Dem reps from the same state targeted by bomb threats](https://americanwirenews.com/three-dem-reps-from-the-same-state-targeted-by-bomb-threats/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
