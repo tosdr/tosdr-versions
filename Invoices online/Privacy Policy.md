@@ -117,57 +117,63 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Saving time, saving money
-> -------------------------
+> Impossible to run our businesses without IO
+> -------------------------------------------
 > 
-> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
+> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
+>   
+> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
+>   
+> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
+>   
+> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
 
-Cornel Erasmus - TELA Loss Adjusters & Assessors
+Kobus Venter
 
-![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=b5ac520b785c7c3d16bb5ffbd1dc6bf73af74040fc2c2238bda46f859518335a&c=126659080)  
-FRAMED BY ANTON (Pty) Ltd.
+![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=2be7029687ca1060ab62bb0736fd1a8ef9776f6f599d05946433691945ba9b24&c=134411525)  
+Well Hung Art
 
-![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=b5ac520b785c7c3d16bb5ffbd1dc6bf73af74040fc2c2238bda46f859518335a&c=30120642)  
-Bchange Online CC
+![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=2be7029687ca1060ab62bb0736fd1a8ef9776f6f599d05946433691945ba9b24&c=100172797)  
+Bloem Rugby Academy PTY (Ltd)
 
-![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=b5ac520b785c7c3d16bb5ffbd1dc6bf73af74040fc2c2238bda46f859518335a&c=5638976)  
+![valued client Stevens Consulting](https://www.invoicesonline.co.za/scripts/image.php?bid=5551&file=logo_300_100&type=&fe=2be7029687ca1060ab62bb0736fd1a8ef9776f6f599d05946433691945ba9b24&c=170903371)  
+Stevens Consulting
+
+![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=2be7029687ca1060ab62bb0736fd1a8ef9776f6f599d05946433691945ba9b24&c=17651379)  
 TRACKFORCE (Pty) Ltd
 
-![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=b5ac520b785c7c3d16bb5ffbd1dc6bf73af74040fc2c2238bda46f859518335a&c=35528256)  
-Vplay Letsheng Mall
+![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=2be7029687ca1060ab62bb0736fd1a8ef9776f6f599d05946433691945ba9b24&c=31658148)  
+OXYAIDER (PTY) LTD
 
-![valued client Lindani Protection Services & Projects](https://www.invoicesonline.co.za/scripts/image.php?bid=8265&file=logo_300_100&type=&fe=b5ac520b785c7c3d16bb5ffbd1dc6bf73af74040fc2c2238bda46f859518335a&c=214353090)  
-Lindani Protection Services & Projects
+![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=2be7029687ca1060ab62bb0736fd1a8ef9776f6f599d05946433691945ba9b24&c=94560000)  
+McKaynine Mobility
 
-![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=b5ac520b785c7c3d16bb5ffbd1dc6bf73af74040fc2c2238bda46f859518335a&c=51056104)  
-Environment Friendly Toilets (Pty) Ltd
+![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=2be7029687ca1060ab62bb0736fd1a8ef9776f6f599d05946433691945ba9b24&c=149529440)  
+Nilbet T/A Waterman
 
-![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=b5ac520b785c7c3d16bb5ffbd1dc6bf73af74040fc2c2238bda46f859518335a&c=206718675)  
+![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=2be7029687ca1060ab62bb0736fd1a8ef9776f6f599d05946433691945ba9b24&c=52274358)  
+Baby Toddles Infant Care
+
+![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=2be7029687ca1060ab62bb0736fd1a8ef9776f6f599d05946433691945ba9b24&c=142064581)  
+Fox Alarms & Security
+
+![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=2be7029687ca1060ab62bb0736fd1a8ef9776f6f599d05946433691945ba9b24&c=199610537)  
+Xpress Designs
+
+![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=2be7029687ca1060ab62bb0736fd1a8ef9776f6f599d05946433691945ba9b24&c=14155459)  
 Westside Car Audio CC
 
-![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=b5ac520b785c7c3d16bb5ffbd1dc6bf73af74040fc2c2238bda46f859518335a&c=20269407)  
+![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=2be7029687ca1060ab62bb0736fd1a8ef9776f6f599d05946433691945ba9b24&c=9798668)  
 Dr V Naik Consult
 
-![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=b5ac520b785c7c3d16bb5ffbd1dc6bf73af74040fc2c2238bda46f859518335a&c=87180440)  
-Frequency Fanatics (Pty) Ltd
+![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=2be7029687ca1060ab62bb0736fd1a8ef9776f6f599d05946433691945ba9b24&c=187307932)  
+VIV'S TRUCKS (Pty) Ltd. (29/31/33)
 
-![valued client Safe Train Mokgethwa (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8103&file=logo_300_100&type=&fe=b5ac520b785c7c3d16bb5ffbd1dc6bf73af74040fc2c2238bda46f859518335a&c=199483223)  
-Safe Train Mokgethwa (PTY) Ltd
+![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=2be7029687ca1060ab62bb0736fd1a8ef9776f6f599d05946433691945ba9b24&c=210297306)  
+Digifax (Pty) Ltd trading as Digirent
 
-![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=b5ac520b785c7c3d16bb5ffbd1dc6bf73af74040fc2c2238bda46f859518335a&c=149246003)  
-All Trucking Solutions
-
-![valued client FlipDesign - Renovation Contracting Firm](https://www.invoicesonline.co.za/scripts/image.php?bid=8663&file=logo_300_100&type=&fe=b5ac520b785c7c3d16bb5ffbd1dc6bf73af74040fc2c2238bda46f859518335a&c=29173900)  
-FlipDesign - Renovation Contracting Firm
-
-![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=b5ac520b785c7c3d16bb5ffbd1dc6bf73af74040fc2c2238bda46f859518335a&c=100633674)  
-ARCHITEK PTY LTD
-
-![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=b5ac520b785c7c3d16bb5ffbd1dc6bf73af74040fc2c2238bda46f859518335a&c=143439162)  
-Network Grey (Pty) Ltd
-
-![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=b5ac520b785c7c3d16bb5ffbd1dc6bf73af74040fc2c2238bda46f859518335a&c=109040336)  
-van Schaik rentals
+![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=2be7029687ca1060ab62bb0736fd1a8ef9776f6f599d05946433691945ba9b24&c=109424542)  
+Norton Medical & Consult - Namibia
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
