@@ -140,7 +140,7 @@ Giveaways
 
 [Support](https://www.hrkgame.com/en/support/)
 
-[](https://www.hrkgame.com/en/events/sale/black-friday/)
+[](https://www.hrkgame.com/fr/events/sale/black-friday/)
 
 Privacy Policy
 --------------
