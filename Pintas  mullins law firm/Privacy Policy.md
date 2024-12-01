@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Mormon scandal: male sexual abuse](https://www.pintas.com/wp-content/uploads/2023/04/general-mormon-2-300x201.jpg "Mormon Scandal: Male Sexual Abuse")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/has-the-mormon-church-sexually-abused-men/ "Mormon Scandal: Male Sexual Abuse")
+[![Average lung cancer settlement from asbestos](https://www.pintas.com/wp-content/uploads/2020/01/lung-cancer-what-is-the-average-settlement-for-lung-cancer-caused-by-asbestos-exposure.jpg "Average Lung Cancer Settlement from Asbestos")](https://www.pintas.com/practice-areas/lung-cancer/average-lung-cancer-settlement "Average Lung Cancer Settlement from Asbestos")
 
-[#### Mormon Scandal: Male Sexual Abuse](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/has-the-mormon-church-sexually-abused-men/)
+[#### Average Lung Cancer Settlement from Asbestos](https://www.pintas.com/practice-areas/lung-cancer/average-lung-cancer-settlement)
 
-[![Is non-small cell lung cancer the same as mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/05/mesothelioma-is-non-small-cell-lung-cancer-the-same-as-mesothelioma.jpg "Is Non-Small Cell Lung Cancer The Same As Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/is-non-small-cell-lung-cancer-the-same-as-mesothelioma/ "Is Non-Small Cell Lung Cancer The Same As Mesothelioma?")
+[![Elderly hip fracture recovery time frames](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-how-long-does-it-take-for-an-elderly-person-to-recover-from-a-broken-hip-scaled.jpg "Elderly Hip Fracture Recovery Time Frames")](https://www.pintas.com/faq/how-long-does-it-take-for-an-elderly-person-to-recover-from-a-broken-hip/ "Elderly Hip Fracture Recovery Time Frames")
 
-[#### Is Non-Small Cell Lung Cancer The Same As Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/is-non-small-cell-lung-cancer-the-same-as-mesothelioma/)
+[#### Elderly Hip Fracture Recovery Time Frames](https://www.pintas.com/faq/how-long-does-it-take-for-an-elderly-person-to-recover-from-a-broken-hip/)
 
-[![Can you have lung cancer with no symptoms?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancercan-you-have-lung-cancer-with-no-symptoms-scaled.jpg "Can You Have Lung Cancer With No Symptoms?")](https://www.pintas.com/practice-areas/lung-cancer/can-you-have-lung-cancer-with-no-symptoms/ "Can You Have Lung Cancer With No Symptoms?")
+[![What is white lung cancer?](https://www.pintas.com/wp-content/uploads/2020/02/lung-cancer-what-is-white-lung-cancer.jpg "What Is White Lung Cancer?")](https://www.pintas.com/lung-cancer/what-is-white-lung-cancer/ "What Is White Lung Cancer?")
 
-[#### Can You Have Lung Cancer With No Symptoms?](https://www.pintas.com/practice-areas/lung-cancer/can-you-have-lung-cancer-with-no-symptoms/)
+[#### What Is White Lung Cancer?](https://www.pintas.com/lung-cancer/what-is-white-lung-cancer/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Name
 
 This field is for validation purposes and should be left unchanged.
 
