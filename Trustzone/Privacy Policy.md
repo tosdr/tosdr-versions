@@ -99,11 +99,11 @@ Home[Why Trust.Zone?](https://trust.zone/trustzone-vpn)[VPN Software](https://tr
 
 ### Latest News
 
-#### 29 November, 2024 11:16:58
+#### 1 December, 2024 17:53:07
 
-#### [Black Friday SPECIAL - Get 1 Year FREE. Today ONLY!](https://trust.zone/post/trustzone-vpn-special-deal-2-years-plus-1-year-free-vpn)
+#### [Missed Back Friday? It's Cyber Monday. The Last Chance!](https://trust.zone/post/trustzone-vpn-special-deal-2-years-plus-1-year-free-vpn)
 
-Black Friday Alert: TrustZone VPN keeps your data hidden from unwanted...  
+Missed Back Friday? It's Cyber Monday. The Last Chance to grab the best deal...  
 
 #### 27 November, 2024 18:51:20
 
