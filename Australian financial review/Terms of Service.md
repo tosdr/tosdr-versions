@@ -321,15 +321,16 @@ Advertise
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.1283%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/428f2b075146c742c5b475125f6b6c08a72f5a0c)](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/a-big-electric-suv-with-sporty-intent-20241105-p5knxq)
+[![ ](https://static.ffx.io/images/$zoom_0.2942%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_767/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/d1db4fe6c5002998368e5d6f3826d98e2d134867)](https://www.afr.com/life-and-luxury/fashion-and-style/take-a-shine-to-these-glittery-even-useful-future-treasures-20241105-p5kny6)
 
-### [A big electric SUV with sporty intent](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/a-big-electric-suv-with-sporty-intent-20241105-p5knxq)
+### [Take a shine to these glittery – even useful – future treasures](https://www.afr.com/life-and-luxury/fashion-and-style/take-a-shine-to-these-glittery-even-useful-future-treasures-20241105-p5kny6)
 
-* Tony Davis
+* 56 mins ago
+* Eugenie Kelly
 
-* ### [What this ballerina eats backstage during The Nutcracker](https://www.afr.com/life-and-luxury/arts-and-culture/what-this-ballerina-eats-backstage-during-the-nutcracker-20241025-p5kla9)
+* ### [Crowded House to A Christmas Carol: shows to see in December](https://www.afr.com/life-and-luxury/arts-and-culture/crowded-house-to-a-christmas-carol-shows-to-see-in-december-20241025-p5kle9)
     
-* ### [Money, lifestyle, hair: why this executive was drawn to tennis](https://www.afr.com/life-and-luxury/health-and-wellness/money-lifestyle-hair-why-this-executive-was-drawn-to-tennis-20241119-p5krqc)
+* ### [How Aussie expats celebrate Christmas with foreign flourish](https://www.afr.com/life-and-luxury/arts-and-culture/how-aussie-expats-celebrate-christmas-with-foreign-flourish-20241009-p5kh1d)
     
 
 [Rich List](https://www.afr.com/rich-list)
