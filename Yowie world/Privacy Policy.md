@@ -263,7 +263,3 @@ Password \*Required
  Remember me  Log in
 
 [Lost your password?](https://yowie.com/my-account/lost-password/)
-
-                 
-
-We use cookies to ensure that we give you the best experience on our website. By continuing to use this site you are accepting the [terms and conditions](https://yowie.com/terms-conditions/), [Privacy policy](https://yowie.com/privacy-policy/) and the use of cookies.[Close](#)
