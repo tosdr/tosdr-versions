@@ -10,6 +10,7 @@ Menu
 * [About](https://www.openmediavault.org/about.html)
     * [Features](https://www.openmediavault.org/features.html)
     * [Plugins](https://www.openmediavault.org/?page_id=2014)
+    * [Apps](https://www.openmediavault.org/?page_id=3840)
     * [Screenshots](https://www.openmediavault.org/screenshots.html)
 * [Download](https://www.openmediavault.org/download.html)
 * [Blog](https://www.openmediavault.org/blog.html)
