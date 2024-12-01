@@ -523,9 +523,9 @@ By [Greg Dvorak](https://www.japantimes.co.jp/author/6191/greg-dvorak/ "Greg Dvo
 SUSTAINABLE JAPAN
 -----------------
 
-[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
-[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -565,25 +565,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Don’t worry, you can still use your Japan health insurance card — for now](https://www.japantimes.co.jp/news/2024/12/01/japan/explainer/my-number-insurance-card-explainer/ "Don’t worry, you can still use your Japan health insurance card — for now")
-
-16 mins ago
-
-[Taiwanese leader in Hawaii after calling island a force for global peace](https://www.japantimes.co.jp/news/2024/12/01/asia-pacific/politics/taiwan-lai-pacific-hawaii/ "Taiwanese leader in Hawaii after calling island a force for global peace")
+[New EU chiefs visit Kyiv on first day of mandate](https://www.japantimes.co.jp/news/2024/12/01/world/politics/eu-chiefs-ukraine-visit/ "New EU chiefs visit Kyiv on first day of mandate")
 
 2 hours ago
 
-[Syrian rebels sweep into Aleppo as Russia conducts strikes](https://www.japantimes.co.jp/news/2024/12/01/world/syria-rebels-aleppo-russia/ "Syrian rebels sweep into Aleppo as Russia conducts strikes")
-
-2 hours ago
-
-[Trump picks Kash Patel to head FBI](https://www.japantimes.co.jp/news/2024/12/01/world/politics/kash-patel-trump-fbi/ "Trump picks Kash Patel to head FBI")
-
-2 hours ago
-
-[Trump’s demand that Mexico stop migrants and drugs may never be met](https://www.japantimes.co.jp/news/2024/12/01/world/politics/trump-mexico-migrants-drugs-focus/ "Trump’s demand that Mexico stop migrants and drugs may never be met")
+[China vows ‘resolute and forceful’ response as Taiwan leader visits Hawaii](https://www.japantimes.co.jp/news/2024/12/01/asia-pacific/politics/taiwan-lai-pacific-hawaii/ "China vows ‘resolute and forceful’ response as Taiwan leader visits Hawaii")
 
 3 hours ago
+
+[Don’t worry, you can still use your Japan health insurance card — for now](https://www.japantimes.co.jp/news/2024/12/01/japan/explainer/my-number-insurance-card-explainer/ "Don’t worry, you can still use your Japan health insurance card — for now")
+
+6 hours ago
+
+[Suspect formally arrested in stabbing of Japanese schoolboy in China](https://www.japantimes.co.jp/news/2024/12/01/japan/crime-legal/china-school-boy-stabbing-arrest/ "Suspect formally arrested in stabbing of Japanese schoolboy in China")
+
+6 hours ago
+
+[Locals uneasy after Hokkaido nuclear waste survey results](https://www.japantimes.co.jp/news/2024/12/01/japan/society/hokkaido-nuclear-waste-survey/ "Locals uneasy after Hokkaido nuclear waste survey results")
+
+6 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
