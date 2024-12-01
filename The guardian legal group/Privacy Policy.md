@@ -293,6 +293,3 @@ By visiting this site and/or replying to our advertisements, you agree that guar
                                
 
 [Contact Us](#contact-anchor) [Contact Us](#footer-contact-mobile)
-
-**Cookie & Privacy Policy Consent**  
-This website uses cookies to identify prior users and track usage of the site. We use this information for analytical purposes and to help us improve our site and our business in general. By clicking “Accept”, you agree to our use of cookies and similar technologies. For more information, read our [privacy policy](https://theguardianlegalnetwork.com/privacy-policy/) and [terms of service](https://theguardianlegalnetwork.com/terms-of-use/). [Accept](#)
