@@ -232,23 +232,23 @@ this week
 
 [COVID and SARS](https://www.sciencedaily.com/news/health_medicine/covid_and_sars/)
 
-[Prostate Cancer](https://www.sciencedaily.com/news/health_medicine/prostate_cancer/)
+[Diabetes](https://www.sciencedaily.com/news/health_medicine/diabetes/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Electronics](https://www.sciencedaily.com/news/matter_energy/electronics/)
-
 [Nanotechnology](https://www.sciencedaily.com/news/matter_energy/nanotechnology/)
+
+[Electronics](https://www.sciencedaily.com/news/matter_energy/electronics/)
 
 [Spintronics](https://www.sciencedaily.com/news/matter_energy/spintronics/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Birds](https://www.sciencedaily.com/news/plants_animals/birds/)
-
 [New Species](https://www.sciencedaily.com/news/plants_animals/new_species/)
 
-[Genetically Modified](https://www.sciencedaily.com/news/plants_animals/genetically_modified/)
+[Birds](https://www.sciencedaily.com/news/plants_animals/birds/)
+
+[Behavioral Science](https://www.sciencedaily.com/news/plants_animals/behavior/)
 
   
 
