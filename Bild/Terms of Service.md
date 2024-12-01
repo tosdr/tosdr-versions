@@ -207,6 +207,28 @@ Menü
     ===
     
 
+[BreakingNews
+
+Strafe kam in der Nacht: Max Verstappen verliert seine Pole-Position!
+
+Strafe kam in der Nacht: Max Verstappen verliert seine Pole-Position!
+
+Strafe kam in der Nacht: Max Verstappen verliert seine Pole-Position!
+
+Strafe kam in der Nacht: Max Verstappen verliert seine Pole-Position!
+
+Strafe kam in der Nacht: Max Verstappen verliert seine Pole-Position!
+
+Strafe kam in der Nacht: Max Verstappen verliert seine Pole-Position!
+
+Strafe kam in der Nacht: Max Verstappen verliert seine Pole-Position!
+
+Strafe kam in der Nacht: Max Verstappen verliert seine Pole-Position!
+
+Strafe kam in der Nacht: Max Verstappen verliert seine Pole-Position!
+
+Strafe kam in der Nacht: Max Verstappen verliert seine Pole-Position!](https://www.bild.de/sport/mehr-sport/formel-1-max-verstappen-verliert-seine-pole-position-strafe-kam-in-der-nacht-674bfe056ee5aa76f748e7cf)
+
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
  AGB: Nutzungsbedingungen für die digitalen Angebote von BILD
