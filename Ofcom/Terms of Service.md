@@ -143,7 +143,7 @@
 
 ### How Ofcom deals with BBC complaints – what you need to know
 
-29 November 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/bbc/how-ofcom-deals-with-bbc-complaints--what-you-need-to-know/?language=en)
+29 November 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/bbc/how-ofcom-deals-with-bbc-complaints--what-you-need-to-know/)
 
 [![Two children looking at a phone or tablet together.](/siteassets/additional-resources/online-safety.jpg?width=1920&height=1085&quality=80)
 
