@@ -259,13 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1666536/derry-death-notices-saturday-november-30-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Saturday, November 30, 2024](https://www.derrynow.com/news/deaths/1666536/derry-death-notices-saturday-november-30-2024.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![PICTURES: Festivalgoers descend on Dingle for Day 1 of Other Voices 2024](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Festivalgoers descend on Dingle for Day 1 of Other Voices 2024")](https://www.derrynow.com/news/national-news/1669282/pictures-festivalgoers-descend-on-dingle-for-day-1-of-other-voices-2024.html)
 
 [National News](https://www.derrynow.com/section/997/cookie-policy)
@@ -295,6 +288,13 @@ Mairead and Caoimhe Fox are aiming to raise £108,000 for Foyle Hospice in memor
 
 [Two properties damaged after devices thrown](https://www.derrynow.com/news/northern-ireland/1669203/two-properties-damaged-after-devices-thrown.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1666537/derry-death-notices-sunday-december-1-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Sunday, December 1, 2024](https://www.derrynow.com/news/deaths/1666537/derry-death-notices-sunday-december-1-2024.html)
+----------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Two escape injury in Antrim arson attack](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two escape injury in Antrim arson attack")](https://www.derrynow.com/news/northern-ireland/1669105/two-escape-injury-in-antrim-arson-attack.html)
 
@@ -483,6 +483,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1666537/derry-death-notices-sunday-december-1-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Sunday, December 1, 2024](https://www.derrynow.com/news/deaths/1666537/derry-death-notices-sunday-december-1-2024.html)
+----------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry sisters on a mission to raise vital funds for Foyle Hospice in memory of their mum](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry sisters on a mission to raise vital funds for Foyle Hospice in memory of their mum")](https://www.derrynow.com/news/local-news/1664188/derry-sisters-on-a-mission-to-raise-vital-funds-for-foyle-hospice-in-memory-of-their-mum.html)
 
 Mairead and Caoimhe Fox are aiming to raise £108,000 for Foyle Hospice in memory of their mother Ann.
@@ -492,7 +499,7 @@ Mairead and Caoimhe Fox are aiming to raise £108,000 for Foyle Hospice in memor
 [Derry sisters on a mission to raise vital funds for Foyle Hospice in memory of their mum](https://www.derrynow.com/news/local-news/1664188/derry-sisters-on-a-mission-to-raise-vital-funds-for-foyle-hospice-in-memory-of-their-mum.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1666536/derry-death-notices-saturday-november-30-2024.html)
+[![Derry Death Notices -Saturday](https://www.derrynow.com/resizer/165/93/true/2023_09_21/Derry_Deaths_%285%29-1695307343689.jpg--.jpg?1695307343746 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1666536/derry-death-notices-saturday-november-30-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
 
@@ -525,15 +532,6 @@ Last hosted during the successful 2013 UK City of Culture celebrations, the cham
 
 [All Ireland Pipe Band Championships to return to Derry in 2025](https://www.derrynow.com/news/local-news/1668355/all-ireland-pipe-band-championships-to-return-to-derry-in-2025.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![County Derry man accused of ramming two cars and a bus in Kilrea refused bail](https://www.derrynow.com/resizer/165/93/true/2022_04_08/COLERAINE_MAGS-1649420820959.jpg--.jpg?1649420821013 "County Derry man accused of ramming two cars and a bus in Kilrea refused bail")](https://www.derrynow.com/news/home/1668316/county-derry-man-accused-of-ramming-two-cars-and-a-bus-in-kilrea-refused-bail.html)
-
-Coleraine Magistrates Court.
-
-[Home](https://www.derrynow.com/)
-
-[County Derry man accused of ramming two cars and a bus in Kilrea refused bail](https://www.derrynow.com/news/home/1668316/county-derry-man-accused-of-ramming-two-cars-and-a-bus-in-kilrea-refused-bail.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
