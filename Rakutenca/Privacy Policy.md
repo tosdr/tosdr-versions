@@ -259,9 +259,7 @@ FR
         
         2% Cash Back](https://www.rakuten.ca/worx)[eBay.ca
         
-        1% Cash Back](https://www.rakuten.ca/ebay-canada)[Rona
-        
-        Coupons Only](https://www.rakuten.ca/rona)
+        1% Cash Back](https://www.rakuten.ca/ebay-canada)
         
         Featured Shops & Deals
         
@@ -692,7 +690,13 @@ All rights reserved.
 
  ![](//static.rakuten.ca/static/img/footer_close.svg) ![](//static.rakuten.ca/static/img/footer_open.svg)
 
-[![](//static.rakuten.ca/img/campaign_entity/303981/en_stickyfooter-1170x60_gift_card_shop_.png)](https://www.rakuten.ca/giftcardshop)
+[![Earn 12% Cash Back from Rakuten.ca with Dyson Coupons, Promo Codes](//static.rakuten.ca/img/campaign_entity/303442/en-stickyfooter-1170x60_dyson.png "Dyson Coupons, Promo Codes")
+
+was 2.5%, now
+
+12% Cash Back
+
+Shop Now](https://www.rakuten.ca/ticket/campaign/sticky-footer-base-1/store/dyson?sourceName=stickyfooter1)
 
 × ![Rakuten White Logo](//static.rakuten.ca/static/images/logo/logo_Rakuten_white.svg)
 
