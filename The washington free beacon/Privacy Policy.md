@@ -31,13 +31,13 @@ ADVERTISEMENT
     * [Editorials](https://freebeacon.com/author/washington-free-beacon-editors/)
     * [Men of the Year](https://freebeacon.com/men-of-the-year/)
 
-* [![](https://freebeacon.com/wp-content/uploads/2024/11/NAVCENT_U.S._Fifth_Fleet_CMF_Change_of_Command_210505-N-KZ419-1095-scaled-e1732729887800.jpg)
+* [![](https://s2.freebeacon.com/up/2024/11/NAVCENT_U.S._Fifth_Fleet_CMF_Change_of_Command_210505-N-KZ419-1095-scaled-e1732729887800.jpg)
     
     The Pentagon’s New Mission: Buy More Weapons To Buy More Time](https://freebeacon.com/columns/the-pentagons-new-mission-buy-more-weapons-to-buy-more-time/)
-* [![](https://freebeacon.com/wp-content/uploads/2024/07/israeli-pm-netanyahu-delivers-address-to-joint-meeting-of-us-congress-1-scaled-e1732217731515.jpg)
+* [![](https://s2.freebeacon.com/up/2024/07/israeli-pm-netanyahu-delivers-address-to-joint-meeting-of-us-congress-1-scaled-e1732217731515.jpg)
     
     Resist the Global Intifada](https://freebeacon.com/columns/resist-the-global-intifada/)
-* [![](https://freebeacon.com/wp-content/uploads/2024/11/president-elect-donald-trump-meets-with-biden-congressional-leaders-in-scaled-e1731616736822.jpg)
+* [![](https://s1.freebeacon.com/up/2024/11/president-elect-donald-trump-meets-with-biden-congressional-leaders-in-scaled-e1731616736822.jpg)
     
     Meet the New Boss](https://freebeacon.com/columns/meet-the-new-boss/)
 
