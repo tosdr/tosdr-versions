@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/f5f3d060-8a8a-440d-81ac-444e59a9d0b0/20241201T172040/f5f3d060-8a8a-440d-81ac-444e59a9d0b0_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f5f3d060-8a8a-440d-81ac-444e59a9d0b0/20241201T172040/f5f3d060-8a8a-440d-81ac-444e59a9d0b0_360x203.jpg)](https://www.wqad.com/article/news/crime/cocaine-seized-western-illinois-40-million-dollars-1000-pounds-state-police/526-4997638b-da18-4772-ae5d-00a393d505b8)
+        
+        #### [Over $40M worth of cocaine seized during traffic stop near Geneseo, ISP says](https://www.wqad.com/article/news/crime/cocaine-seized-western-illinois-40-million-dollars-1000-pounds-state-police/526-4997638b-da18-4772-ae5d-00a393d505b8)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/bf1dd9e4-a428-4e65-9124-469fedda17fb/bf1dd9e4-a428-4e65-9124-469fedda17fb_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/bf1dd9e4-a428-4e65-9124-469fedda17fb/bf1dd9e4-a428-4e65-9124-469fedda17fb_360x203.jpg)](https://www.wqad.com/article/news/local/2-killed-dubuque-county-crash-thanksgiving-day/526-ac4f428d-16c0-4b4c-aada-3ab7af01cd51)
         
         #### [2 killed in Dubuque County crash on Thanksgiving Day](https://www.wqad.com/article/news/local/2-killed-dubuque-county-crash-thanksgiving-day/526-ac4f428d-16c0-4b4c-aada-3ab7af01cd51)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/2f114174-889b-4d00-a5ff-95fb97ef3b2a/20241130T051844/2f114174-889b-4d00-a5ff-95fb97ef3b2a_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/2f114174-889b-4d00-a5ff-95fb97ef3b2a/20241130T051844/2f114174-889b-4d00-a5ff-95fb97ef3b2a_360x203.jpg)](https://www.wqad.com/article/news/local/arts-alley-holiday-market-opens-season/526-ebe3c914-a99e-4c31-98ee-66241c7b8f8c)
-        
-        #### [Arts Alley Holiday Market opens for the season](https://www.wqad.com/article/news/local/arts-alley-holiday-market-opens-season/526-ebe3c914-a99e-4c31-98ee-66241c7b8f8c)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-20°
+24°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
