@@ -167,9 +167,9 @@ Atos homepage](https://atos.net/en/)
         ### Latest articles
         
         * [GraphRAG: Transforming business intelligence](https://atos.net/en/blog/graphrag-transforming-business-intelligence-retrieval-augmented-generation)
+        * [Bringing disability inclusion from the margins to mainstream](https://atos.net/en/blog/positively-purple-2024-disability-inclusion)
         * [Reshaping employee experience with a data-driven digital workplace](https://atos.net/en/blog/reshaping-employee-experience-data-driven-digital-workplace)
         * [Modernize without compromise: Why hybrid cloud still matters](https://atos.net/en/blog/modernize-without-compromise-why-hybrid-cloud-still-matters)
-        * [Ensure your virtual infrastructure is sustainable infrastructure](https://atos.net/en/blog/ensure-your-virtual-infrastructure-is-sustainable-infrastructure)
         
         [All articles](https://atos.net/en/blog)
         
