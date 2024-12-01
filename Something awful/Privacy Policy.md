@@ -205,25 +205,25 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [The Best of the Spore Creature Creator](https://www.somethingawful.com/comedy-goldmine/goons-spore-creature/1/)
-* [AwfulVision: I think I'm turning Japanese!](https://www.somethingawful.com/awfulvision/otaku-anime-japan/1/)
-* [December 21, 2010](https://www.somethingawful.com/forum-fridays/ff12-21-10/1/)
-* [September 14, 2010](https://www.somethingawful.com/forum-fridays/ff09-14-10/1/)
-* [Bad Dragon](https://www.somethingawful.com/weekend-web/bad-dragon/1/)
+* [Porn Versions of Classic Films! (Part 1 of 2)](https://www.somethingawful.com/photoshop-phriday/classic-films-porn/1/)
+* [Dragon Spot](https://www.somethingawful.com/weekend-web/dragon-spot/1/)
+* [DEAR FURRIES: WE WERE WRONG](https://www.somethingawful.com/news/bolgy-wolgy/)
+* [Literotica](https://www.somethingawful.com/weekend-web/literotica-forums/1/)
+* [July 20, 2009](https://www.somethingawful.com/forum-fridays/ff07-20-09/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/dd-9-11.gif) [You have found an abandoned pet bird itt](http://forums.somethingawful.com/showthread.php?threadid=4076559 "You have found an abandoned pet bird itt")
-* ![](https://fi.somethingawful.com/forums/posticons/cd_hype.gif) [does anyone still use tumblr?](http://forums.somethingawful.com/showthread.php?threadid=4076564 "does anyone still use tumblr?")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [This is Ghost. The Christmas alpaca.](http://forums.somethingawful.com/showthread.php?threadid=4076563 "This is Ghost. The Christmas alpaca.")
+* ![](https://fi.somethingawful.com/forums/posticons/cd_hype.gif) [does anyone still use tumblr?](http://forums.somethingawful.com/showthread.php?threadid=4076564 "does anyone still use tumblr?")
+* ![](https://fi.somethingawful.com/forums/posticons/dd-9-11.gif) [You have found an abandoned pet bird itt](http://forums.somethingawful.com/showthread.php?threadid=4076559 "You have found an abandoned pet bird itt")
 
 ### Random Articles
 
-* [Musgrave Global Solutions Report: Cake Shows](https://www.somethingawful.com/news/musgrave-cake-shows/)
-* [Fun Christmas Activity Cards!](https://www.somethingawful.com/news/xmas-card-fun/)
-* [The Hangover Part III; Epic](https://www.somethingawful.com/current-movie-reviews/hangover-part-epic/1/)
-* [Photoshopping the Library of Congress](https://www.somethingawful.com/photoshop-phriday/photoshopping-library-congress/1/)
-* [Binary Bodies](https://www.somethingawful.com/awful-links/awful-link-1653/)
+* [Memos from Bear Cave: General Complaints](https://www.somethingawful.com/news/bear-cave-complaints/)
+* [The Day We Finally Got All The Money](https://www.somethingawful.com/news/steve-mnuchin-money/)
+* [What's Cookin'?](https://www.somethingawful.com/email-pranks/email-spam-whats/)
+* [Dumbasses In School](https://www.somethingawful.com/comedy-goldmine/dumbasses-in-school/1/)
+* [Cyborg Steve Mann Redux](https://www.somethingawful.com/comedy-goldmine/cyborg-steve-mann/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
