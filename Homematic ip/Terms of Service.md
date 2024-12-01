@@ -1,6 +1,6 @@
 [Direkt zum Inhalt](#main-content)
 
-**Der Homematic IP Adventskalender öffnet wieder seine Türchen.**
+**Der Homematic IP Adventskalender öffnet wieder seine Türchen**
 
  **-  24 Tage voller smarter Geschenke**
 
