@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/pcsk9-remmers-en-de-idiotie-van-cholesterol-statines/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/van-slachtbank-naar-catwalk/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
