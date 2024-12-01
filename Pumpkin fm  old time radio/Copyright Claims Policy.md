@@ -75,6 +75,8 @@ We take copyright infringement very seriously. Pursuant to the repeat infringer 
 
 We reserve the right to modify the contents of this page and its policy for handling DMCA claims at any time for any reason. You are encouraged to check back to review this policy frequently for any changes.
 
+### Help Us Stay On-Air
+
 [![](https://adbuzz.website123.live/adserver/www/delivery/avw.php?zoneid=6&n=01bdecc)](https://adbuzz.website123.live/adserver/www/delivery/ck.php?n=01bdecc)
 
 ### AD
@@ -108,9 +110,7 @@ We reserve the right to modify the contents of this page and its policy for hand
 
 [![Listen on myTuner radio!](https://static2.mytuner.mobi/static/widgets/mytuner-radio.png)![Listen of myTuner Radio!](https://static2.mytuner.mobi/static/widgets/mytuner-logo-90.png)](https://mytuner-radio.com/?utm_source=widget&utm_medium=button&utm_campaign=64x64 "Listen on myTuner radio!")[![RadioPlug.co.uk](https://radioplug.co.uk/LOGO.png)](https://www.radioplug.co.uk/)
 
-### Support Pumpkin FM
-
-[![3-2-paypal-donate-button-png-image-thumb](https://pumpkinfm.com/wp-content/uploads/2022/06/3-2-paypal-donate-button-png-image-thumb.png)](https://www.paypal.com/donate?campaign_id=F74RPZBEKZWZ6)
+### Help Pumpkin FM Stay On-Air
 
 ### Search Pumpkin FM
 
