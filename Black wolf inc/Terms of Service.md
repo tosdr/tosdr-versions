@@ -2,7 +2,7 @@
 
 [![](//blackwolfnation.com/cdn/shop/files/10_384daddb-9c94-4c94-8581-c8a73753a8ff.png?crop=center&height=50&v=1722973225&width=50)
 
-NEW DEVICE: DE-PUFFING EYE PEN + 25% OFF SKINCARE!
+NEW LIMITED EDITION WHITE WUSH 25% OFF TODAY
 
 0
 
@@ -42,11 +42,11 @@ m
 
 9
 
-s](https://blackwolfnation.com/pages/eye-pen-skincare-flash-sale)
+s](https://blackwolfnation.com/collections/wush-flash-sale)
 
 [](https://blackwolfnation.com/customer_authentication/redirect?locale=en&region_country=US)
 
-* [BLACK FRIDAY SALE!](https://blackwolfnation.com/pages/eye-pen-skincare-flash-sale)
+* [BLACK FRIDAY SALE!](https://blackwolfnation.com/collections/wush-flash-sale)
 * [Shop By Product](https://blackwolfnation.com/collections/shop-all)
     * Back
     * [Shop By Product](https://blackwolfnation.com/collections/shop-all)
@@ -111,7 +111,7 @@ s](https://blackwolfnation.com/pages/eye-pen-skincare-flash-sale)
 
 [![](//blackwolfnation.com/cdn/shop/files/BW_logo_w_2x_160x_2x_c6e857dd-2de1-4ae1-8cb7-49eea1094eb0.webp?v=1681132838&width=334)](https://blackwolfnation.com/ "Black Wolf")
 
-* [BLACK FRIDAY SALE!](https://blackwolfnation.com/pages/eye-pen-skincare-flash-sale)
+* [BLACK FRIDAY SALE!](https://blackwolfnation.com/collections/wush-flash-sale)
 * [Shop By Product](https://blackwolfnation.com/collections/shop-all)
     
     [![](//blackwolfnation.com/cdn/shop/files/1_413be24c-0f99-467a-84a0-1b0fea8da99d.png?v=1730137606&width=1350)](https://blackwolfnation.com/products/hydrating-body-wash)
