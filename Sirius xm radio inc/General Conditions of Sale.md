@@ -41,8 +41,6 @@
     * [Help Center](https://www.siriusxm.com/help)
     * [Do Not Call Policy](https://www.siriusxm.com/do-not-call)
     
-* Search SiriusXM  clear
-    
 
 * [Browse Plans and Pricing](https://www.siriusxm.com/choose-plan)
 * [Subscribe Now](https://www.siriusxm.com/choose-plan)
