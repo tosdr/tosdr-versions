@@ -97,7 +97,7 @@ Lexia https://www.lexialearning.com https://www.lexialearning.com/img/logo.svg 1
     
     Company Overview
     
-    [Lexia is a science of reading leader](https://www.lexialearning.com/company/) 
+    [Lexia is a science of reading leader](https://www.lexialearning.com/Company/) 
     
     * [Careers](https://www.lexialearning.com/company/careers)
     * [History](https://www.lexialearning.com/company/history)
