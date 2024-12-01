@@ -358,32 +358,24 @@ Your cart is empty[Return to Shop](https://mstechglobal.com/shop/)
 
 [Continue Shopping](#)
 
-MG Folder Icon Collection
--------------------------
+Black
+-----
 
-lifetime license + free updates + free support
+FRIDAY
+------
 
-\+ MG Folder Icon v7.0  
-\+ 141 Icon packs  
-\+ Icon merges  
-\+ Folder mockups
+Exclusive Super Sale
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20166'%3E%3C/svg%3E)
+UP TO
 
-![](https://mstechglobal.com/wp-content/uploads/2024/08/Offer_Top-1024x166.png.webp)
+70%
+---
 
-[Buy Now](https://mstechglobal.com/wp-content/plugins/mstech_widget/includes/addToCart.php?product=13303&coupon=fip80yahoo&quantity=1&ref=1&campaign=popup)
+Get the exclusive Discount
 
-MG Folder Icon Pro v7.0
------------------------
+    
 
-lifetime license + free updates + free support
-
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20166'%3E%3C/svg%3E)
-
-![](https://mstechglobal.com/wp-content/uploads/2024/08/Offer_Bottom-1-1024x166.png.webp)
-
-[Buy Now](https://mstechglobal.com/wp-content/plugins/mstech_widget/includes/addToCart.php?product=487&coupon=im23ya51hoo&quantity=1&ref=1&campaign=popup)
+ I agree to the privacy policy and terms. ([Link](https://mstechglobal.com/privacy-policy/))
 
                                                                                          
 
