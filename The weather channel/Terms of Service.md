@@ -52,7 +52,7 @@ Radar & Maps
 News & Media
 ------------
 
-[Top Weather Stories](https://weather.com/news/weather/video/lake-effect-snow-hammers-new-york-and-pennsylvania)[Hurricane Central](https://weather.com/storms/hurricane-central)[Science & Environment](https://weather.com/science/environment)[Space & Skywatching](https://weather.com/science/space)[Safety & Prep](https://weather.com/safety/index)[Videos](https://weather.com/news/weather/video/lake-effect-snow-hammers-new-york-and-pennsylvania)[Bios](https://weather.com/bios)
+[Top Weather Stories](https://weather.com/forecast/national/video/winter-outlook-where-to-go-to-find-your-favorite-weather)[Hurricane Central](https://weather.com/storms/hurricane-central)[Science & Environment](https://weather.com/science/environment)[Space & Skywatching](https://weather.com/science/space)[Safety & Prep](https://weather.com/safety/index)[Videos](https://weather.com/forecast/national/video/winter-outlook-where-to-go-to-find-your-favorite-weather)[Bios](https://weather.com/bios)
 
 Products
 --------
