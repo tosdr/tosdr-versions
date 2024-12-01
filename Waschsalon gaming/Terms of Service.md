@@ -13,7 +13,7 @@
     4. [Benutzerränge](https://gg-community.de/ranks/)
     5. [Meistgestellten Fragen (FAQ)](https://gg-community.de/faq-question-list/)
 6. [GExtension](https://gg-community.de/gextension)
-7. [Streaming-Partner 1](https://gg-community.de/streaming-partner/)
+7. [Streaming-Partner](https://gg-community.de/streaming-partner/)
 
 [](https://gg-community.de/login/?url=https%3A%2F%2Fgg-community.de%2F%3Fsc-terms-of-use "Anmelden oder registrieren")
 
