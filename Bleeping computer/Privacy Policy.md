@@ -36,18 +36,18 @@
         
         Chinese hackers breached T-Mobile's routers to scope out network](https://www.bleepingcomputer.com/news/security/chinese-hackers-breached-t-mobiles-routers-to-scope-out-network/)
     
+    * [![Novel phising campaign uses corrupted Word documents to evade security](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Novel phising campaign uses corrupted Word documents to evade security](https://www.bleepingcomputer.com/news/security/novel-phising-campaign-uses-corrupted-word-documents-to-evade-security/)
+    * [![Start learning a new language with this Babbel deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Start learning a new language with this Babbel deal](https://www.bleepingcomputer.com/offer/deals/start-learning-a-new-language-with-this-babbel-deal/)
     * [![SpyLoan Android malware on Google play installed 8 million times](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         SpyLoan Android malware on Google play installed 8 million times](https://www.bleepingcomputer.com/news/security/spyloan-android-malware-on-google-play-installed-8-million-times/)
     * [![Study for in-demand Microsoft certifications in this $55 course deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Study for in-demand Microsoft certifications in this $55 course deal](https://www.bleepingcomputer.com/offer/deals/study-for-in-demand-microsoft-certifications-in-this-55-course-deal/)
-    * [![Black Friday Sale: this 130-hour ethical hacking course is only $35](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Black Friday Sale: this 130-hour ethical hacking course is only $35](https://www.bleepingcomputer.com/offer/deals/black-friday-sale-this-130-hour-ethical-hacking-course-is-only-35/)
-    * [![New Rockstar 2FA phishing service targets Microsoft 365 accounts](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        New Rockstar 2FA phishing service targets Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/new-rockstar-2fa-phishing-service-targets-microsoft-365-accounts/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -445,9 +445,9 @@ Popular Stories
 * [![Windows Server](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     New Windows Server 2012 zero-day gets free, unofficial patches](https://www.bleepingcomputer.com/news/security/new-windows-server-2012-zero-day-gets-free-unofficial-patches/)
-* [![Hospital](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![Microsoft 365](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    UK hospital network postpones procedures after cyberattack](https://www.bleepingcomputer.com/news/security/uk-hospital-network-postpones-procedures-after-cyberattack/)
+    New Rockstar 2FA phishing service targets Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/new-rockstar-2fa-phishing-service-targets-microsoft-365-accounts/)
 
 ##### Follow us:
 
