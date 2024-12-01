@@ -17,12 +17,12 @@ Login with username, password and session length
 News:
 -----
 
-All forum announcements and updates are posted [here](https://www.thefurryforum.com/forums/index.php?board=17.0)!
+Other smiley sets available - you change the species by going to **Profile > Look and Layout > Smiley Set**!
 
   
   
 
-[![Your ad here](adverts/tff_ad_blank.jpg "Your ad here")](https://www.thefurryforum.com/forums/index.php?topic=18442.0)
+[![Juliet](adverts/juliet.png "Juliet")](https://www.furaffinity.net/user/julietthewhitewitch)
 
   
 
