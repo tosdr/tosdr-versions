@@ -1,9 +1,3 @@
-![Promo Icon](https://www.mobicip.com/assets/content/promo/thanksgiving/left_side_image-ca6382edff775f1aacee0254490132952dbde484950ddb0004c9e4cf34f7b176.svg) ![Promo Icon](https://www.mobicip.com/assets/content/promo/thanksgiving/left_side_image_tablet-34d584eb45b417cf00f8a723c9c666bc61543ceb779ebc8950c3547a72d30f00.svg)[Thanksgiving SALE **10% OFF** on Premium purchase
-
-Start Free Trial
-
-Hurry up! Ends 11/30](https://www.mobicip.com/pricing)![Promo Icon](https://www.mobicip.com/assets/content/promo/thanksgiving/right_side_image-48c6d1b79bd54076dc6474ef95a965ba98e807d5cd652cb237132c8c0b80b79d.svg) ![Promo Icon](https://www.mobicip.com/assets/content/promo/thanksgiving/right_side_image_tablet-8e29481b250cd015509be31866a4223b4bc8640d30300ba2cda3860abe1d7a4f.svg)
-
 [](https://www.mobicip.com/ "Mobicip")
 
 Parental Features
