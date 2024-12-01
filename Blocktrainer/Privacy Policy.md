@@ -590,7 +590,7 @@ Kopieren
 
 [](#)
 
-[![Relai](/fileadmin/_processed_/9/0/csm_RelaiApp_49dbef3ad1.jpg)](https://ref.blocktrainer.de/relai/ws/blocktrainer-empfehlungslinks/logo-banner)
+[![Exitkey](/fileadmin/_processed_/6/c/csm_exitkey_390x615px_2_a3cd29a02e.png)](https://ref.blocktrainer.de/exitkey/ws/blocktrainer-empfehlungslinks/logo-banner)
 
 **Privatsphäre-Einstellungen**
 
