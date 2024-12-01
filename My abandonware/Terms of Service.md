@@ -107,11 +107,11 @@ Top downloads
 
 Latest releases
 
+* [Meeklits](https://www.myabandonware.com/game/meeklits-tcx)
 * [Saru STG](https://www.myabandonware.com/game/saru-stg-tcw)
 * [Vacant Ark](https://www.myabandonware.com/game/vacant-ark-tcv)
 * [Sky Sports Football Quiz: Season 02](https://www.myabandonware.com/game/sky-sports-football-quiz-season-02-tct)
 * [DC-3](https://www.myabandonware.com/game/dc-3-tc7)
-* [Rapid Glider: The Race to Galamax](https://www.myabandonware.com/game/rapid-glider-the-race-to-galamax-tc6)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
