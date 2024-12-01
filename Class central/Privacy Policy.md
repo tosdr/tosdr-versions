@@ -412,36 +412,36 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 Most common
 
-1. English
+1. sql
     
-2. c
+2. finance
     
 3. cyber security
     
 
 Popular subjects
 
-1. [Psychology
+1. [Ethical Hacking
     
-    2,726 courses](https://www.classcentral.com/subject/psychology)
+    2,240 courses](https://www.classcentral.com/subject/ethical-hacking)
 2. [Web Development
     
     13,824 courses](https://www.classcentral.com/subject/web-development)
-3. [Cybersecurity
+3. [Digital Marketing
     
-    16,955 courses](https://www.classcentral.com/subject/cybersecurity)
+    6,293 courses](https://www.classcentral.com/subject/digital-marketing)
 
 Popular courses
 
-1. [Understanding Multiple Sclerosis (MS)
+1. [Teaching Young Learners Online
     
-    University of Tasmania](https://www.classcentral.com/course/independent-understanding-multiple-sclerosis-ms-13338)
-2. [Academic Writing Made Easy
+    British Council](https://www.classcentral.com/course/teaching-young-learners-online-20139)
+2. [Technical Report Writing for Engineers
     
-    Technische Universität München (Technical University of Munich)](https://www.classcentral.com/course/writing-technische-universitat-munchen-academic-w-13157)
-3. [Introducción a la inversión bursátil
+    The University of Sheffield](https://www.classcentral.com/course/technical-report-writing-for-engineers-9087)
+3. [The Emergence of the Modern Middle East - Part I
     
-    Universitat Politècnica de València](https://www.classcentral.com/course/stocks-universitat-politecnica-de-valencia-introd-5316)
+    Tel Aviv University](https://www.classcentral.com/course/modernmiddleeast1-976)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
