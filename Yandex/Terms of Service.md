@@ -182,6 +182,18 @@ General
 
 Yandex Terms of Service
 
+English
+
+Lietuvių
+
+Polski
+
+Latviešu valoda
+
+Eesti keel
+
+English
+
 Yandex Terms of Service
 =======================
 
@@ -315,9 +327,33 @@ _Previous version of the document: [https://yandex.com/legal/termsofservice/1809
 
 Yandex.Maps](https://yandex.com/legal/maps_termsofuse/index.html)
 
+English
+
+Lietuvių
+
+Polski
+
+Latviešu valoda
+
+Eesti keel
+
+English
+
 [Next
 
 Yandex.Maps](https://yandex.com/legal/maps_termsofuse/index.html)
+
+English
+
+Lietuvių
+
+Polski
+
+Latviešu valoda
+
+Eesti keel
+
+English
 
 [Yandex.Support homepage](https://yandex.com/legal)
 
