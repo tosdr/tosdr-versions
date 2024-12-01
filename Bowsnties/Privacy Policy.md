@@ -1,6 +1,6 @@
 ![](https://ct.pinterest.com/v3/?tid=2619239296514&event=init&noscript=1)  
 
-### [BLACK FRIDAY SALE - 40% OFF Sitewide](https://www.bows-n-ties.com/neckties/)
+### [BLACK FRIDAY - 40% OFF - ENDS TODAY](https://www.bows-n-ties.com/neckties/)
 
 __
 
