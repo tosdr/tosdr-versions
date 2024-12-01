@@ -147,10 +147,6 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Wealthy people in Japan failed to declare a total of ¥65.5 billion in taxable income in the year through June, down 33.2% from the year before, a National Tax Agency report showed Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/30/437296.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Wealthy people in Japan failed to declare a total of ¥65.5 billion in taxable income in the year through June, down 33.2% from the year before, a National Tax Agency report showed Friday.")](https://www.japantimes.co.jp/news/2024/11/30/japan/japan-wealthy-fail-declare/ "Japan's wealthy fail to declare ¥65.5 billion in income")
 
-[Kumiko Shichijo: ‘Living abroad helped me appreciate Japanese etiquette’](https://www.japantimes.co.jp/community/2024/11/29/our-lives/japanese-etiquette-instagram-kumiko-shichijo/ "Kumiko Shichijo: ‘Living abroad helped me appreciate Japanese etiquette’")
-
-  [![Kumiko Shichijo provides tips on Japanese etiquette and manners on Instagram and says videos on gift-giving and hand towels have done particularly well. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/29/435540.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Kumiko Shichijo provides tips on Japanese etiquette and manners on Instagram and says videos on gift-giving and hand towels have done particularly well. ")](https://www.japantimes.co.jp/community/2024/11/29/our-lives/japanese-etiquette-instagram-kumiko-shichijo/ "Kumiko Shichijo: ‘Living abroad helped me appreciate Japanese etiquette’")
-
 Editors' Picks
 --------------
 
@@ -182,14 +178,6 @@ By [Jessica Speed](https://www.japantimes.co.jp/author/5338/jessica-speed/ "Jess
 
   [![Wealthy people in Japan failed to declare a total of ¥65.5 billion in taxable income in the year through June, down 33.2% from the year before, a National Tax Agency report showed Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/30/437296.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Wealthy people in Japan failed to declare a total of ¥65.5 billion in taxable income in the year through June, down 33.2% from the year before, a National Tax Agency report showed Friday.")](https://www.japantimes.co.jp/news/2024/11/30/japan/japan-wealthy-fail-declare/ "Japan's wealthy fail to declare ¥65.5 billion in income")
 
-[COMMUNITY](https://www.japantimes.co.jp/community/ "COMMUNITY")
-
-[Kumiko Shichijo: ‘Living abroad helped me appreciate Japanese etiquette’](https://www.japantimes.co.jp/community/2024/11/29/our-lives/japanese-etiquette-instagram-kumiko-shichijo/ "Kumiko Shichijo: ‘Living abroad helped me appreciate Japanese etiquette’")
-
-By [Ansel Swindells](https://www.japantimes.co.jp/author/3800/ansel-swindells/ "Ansel Swindells")  
-
-  [![Kumiko Shichijo provides tips on Japanese etiquette and manners on Instagram and says videos on gift-giving and hand towels have done particularly well. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/29/435540.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Kumiko Shichijo provides tips on Japanese etiquette and manners on Instagram and says videos on gift-giving and hand towels have done particularly well. ")](https://www.japantimes.co.jp/community/2024/11/29/our-lives/japanese-etiquette-instagram-kumiko-shichijo/ "Kumiko Shichijo: ‘Living abroad helped me appreciate Japanese etiquette’")
-
 Podcast
 -------
 
@@ -209,9 +197,9 @@ By [Greg Dvorak](https://www.japantimes.co.jp/author/6191/greg-dvorak/ "Greg Dvo
 SUSTAINABLE JAPAN
 -----------------
 
-[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -251,25 +239,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[New EU chiefs visit Kyiv on first day of mandate](https://www.japantimes.co.jp/news/2024/12/01/world/politics/eu-chiefs-ukraine-visit/ "New EU chiefs visit Kyiv on first day of mandate")
+
+2 hours ago
+
+[China vows ‘resolute and forceful’ response as Taiwan leader visits Hawaii](https://www.japantimes.co.jp/news/2024/12/01/asia-pacific/politics/taiwan-lai-pacific-hawaii/ "China vows ‘resolute and forceful’ response as Taiwan leader visits Hawaii")
+
+3 hours ago
+
 [Don’t worry, you can still use your Japan health insurance card — for now](https://www.japantimes.co.jp/news/2024/12/01/japan/explainer/my-number-insurance-card-explainer/ "Don’t worry, you can still use your Japan health insurance card — for now")
 
-17 mins ago
+6 hours ago
 
-[Taiwanese leader in Hawaii after calling island a force for global peace](https://www.japantimes.co.jp/news/2024/12/01/asia-pacific/politics/taiwan-lai-pacific-hawaii/ "Taiwanese leader in Hawaii after calling island a force for global peace")
+[Suspect formally arrested in stabbing of Japanese schoolboy in China](https://www.japantimes.co.jp/news/2024/12/01/japan/crime-legal/china-school-boy-stabbing-arrest/ "Suspect formally arrested in stabbing of Japanese schoolboy in China")
 
-2 hours ago
+6 hours ago
 
-[Syrian rebels sweep into Aleppo as Russia conducts strikes](https://www.japantimes.co.jp/news/2024/12/01/world/syria-rebels-aleppo-russia/ "Syrian rebels sweep into Aleppo as Russia conducts strikes")
+[Locals uneasy after Hokkaido nuclear waste survey results](https://www.japantimes.co.jp/news/2024/12/01/japan/society/hokkaido-nuclear-waste-survey/ "Locals uneasy after Hokkaido nuclear waste survey results")
 
-2 hours ago
-
-[Trump picks Kash Patel to head FBI](https://www.japantimes.co.jp/news/2024/12/01/world/politics/kash-patel-trump-fbi/ "Trump picks Kash Patel to head FBI")
-
-3 hours ago
-
-[Trump’s demand that Mexico stop migrants and drugs may never be met](https://www.japantimes.co.jp/news/2024/12/01/world/politics/trump-mexico-migrants-drugs-focus/ "Trump’s demand that Mexico stop migrants and drugs may never be met")
-
-3 hours ago
+6 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
