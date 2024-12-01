@@ -205,26 +205,24 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Goose Dies](https://www.somethingawful.com/daily-dirt/goose-dies/)
-* [Transmeta's Crusoe Announcement](https://www.somethingawful.com/news/transmetas-crusoe-announcement/)
-* [Titanic: The Legend Goes On](https://www.somethingawful.com/movie-reviews/titanic-legend-goes/)
-* [Bloodsucking Redneck Vampires](https://www.somethingawful.com/movie-reviews/bloodsucking-redneck-vampires/1/)
-* [Fashion SWAT Jr.: Tea Party SWAT](https://www.somethingawful.com/news/tea-party-swat/1/)
+* [The Secret Lives of SA Goons](https://www.somethingawful.com/weekend-web/secret-lives-sa/1/)
+* [Marvel Super Heroes' Monster Manual: Volume One (Part 1)](https://www.somethingawful.com/dungeons-and-dragons/marvel-gamers-handbook/1/)
+* [Boring Games](https://www.somethingawful.com/photoshop-phriday/boring-games/1/)
+* [Something Awful is Getting Sued, And It's All Thanks to Hitler](https://www.somethingawful.com/news/higbee-hitler/)
+* [Sherlock Holmes: A Game of Shadows; Alvin and the Chipmunks: Chipwrecked; Young Adult](https://www.somethingawful.com/current-movie-reviews/game-shadows-chipwrecked/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [This is Ghost. The Christmas alpaca.](http://forums.somethingawful.com/showthread.php?threadid=4076563 "This is Ghost. The Christmas alpaca.")
-* ![](https://fi.somethingawful.com/forums/posticons/cd_hype.gif) [does anyone still use tumblr?](http://forums.somethingawful.com/showthread.php?threadid=4076564 "does anyone still use tumblr?")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/photoshop.png) [Winterize Movies](http://forums.somethingawful.com/showthread.php?threadid=4076594 "Winterize Movies")
-* ![](https://fi.somethingawful.com/forums/posticons/dd-9-11.gif) [You have found an abandoned pet bird itt](http://forums.somethingawful.com/showthread.php?threadid=4076559 "You have found an abandoned pet bird itt")
+* ![](https://fi.somethingawful.com/forums/posticons/cspamkiddo.gif) [How old were you when you realized Santa wasnt real?](http://forums.somethingawful.com/showthread.php?threadid=4076616 "How old were you when you realized Santa wasnt real?")
 
 ### Random Articles
 
-* [You're Out of Work, Jerk!](https://www.somethingawful.com/news/youre-out-work/)
-* [Subj: EGGS](https://www.somethingawful.com/news/roamin-dad-32/)
-* [Oleg Is up to No Good](https://www.somethingawful.com/news/oleg-subway-twitter/)
-* [Help Us, Save Us, Take Us Away!](https://www.somethingawful.com/news/help-us-save/)
-* [Alternatives to Letting Your Kid Play Football](https://www.somethingawful.com/news/football-concussion/)
+* [Glory to the New Age of Celestial-Mind Protoscience!](https://www.somethingawful.com/news/glory-new-age/)
+* [The Asshole Physics Manifesto](https://www.somethingawful.com/news/asshole-physics-manifesto/1/)
+* [American Legends: George Washington](https://www.somethingawful.com/news/american-legends-george/)
+* [Advertisement: MAY-GO!](https://www.somethingawful.com/flash-tub/mayonnaise-to-go/)
+* [Four Reasons Why The Super Bowl Sucks And I Hate It](https://www.somethingawful.com/pregame-wrapup/four-reasons-why/)
 
 [Random!](https://www.somethingawful.com/random/)
 
