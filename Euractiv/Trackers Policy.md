@@ -109,7 +109,17 @@ Languages: [Français](https://www.euractiv.fr/?post_type=page&p=364525)
 Most recent
 -----------
 
-[30-11-2024
+[01-12-2024
+
+Ireland’s centre-right parties close in on re-election, may need new partner](https://www.euractiv.com/section/politics/news/irelands-centre-right-parties-close-in-on-re-election-may-need-new-partner/)[01-12-2024
+
+New EU top officials Costa, Kallas, Kos kick off mandate with support visit to Kyiv](https://www.euractiv.com/section/global-europe/news/new-eu-top-officials-costa-kallas-kos-kick-off-mandate-with-support-visit-to-kyiv/)[01-12-2024
+
+Syrian rebels sweep into Aleppo, Russia conducts strikes in support of Assad](https://www.euractiv.com/section/global-europe/news/syrian-rebels-sweep-into-aleppo-russia-conducts-strikes-in-support-of-assad/)[01-12-2024
+
+Clashes erupt outside Georgia parliament between pro-EU protesters, police](https://www.euractiv.com/section/global-europe/news/clashes-erupt-outside-georgia-parliament-between-pro-eu-protesters-police/)[01-12-2024
+
+Romania’s far right expected to come first in parliamentary election](https://www.euractiv.com/section/politics/news/romanias-far-right-expected-to-come-first-in-parliamentary-election/)[30-11-2024
 
 Democracy’s next great challenge – strengthening institutions to protect journalism](https://www.euractiv.com/section/politics/news/democracys-greatest-challenge-strengthening-institutions-to-safeguard-journalism/)[30-11-2024
 
@@ -119,17 +129,7 @@ Is China striding past Europe, America and Japan on nuclear fusion?](https://www
 
 Parliament can bring all stakeholders around the table to work on Alzheimer’s, says MEP Jerković](https://www.euractiv.com/section/health-consumers/news/european-parliament-can-bring-all-stakeholders-around-the-table-to-work-on-alzheimers-says-mep-jerkovic/)[30-11-2024
 
-Combating foreign influences in media, experts call on EU to step up action](https://www.euractiv.com/section/politics/news/combating-foreign-influences-in-media-experts-call-on-eu-to-step-up-action/)[30-11-2024
-
-Undiagnosed HIV cases exceed 5% in Belgium, ‘Figures not good’ says Flemish Minister of Welfare](https://www.euractiv.com/section/health-consumers/news/undiagnosed-hiv-cases-exceed-5-in-belgium-figures-not-good-says-flemish-minister-of-welfare/)[30-11-2024
-
-Romanians will learn on Monday if first round of presidential election is annulled](https://www.euractiv.com/section/politics/news/romanians-will-learn-on-monday-if-first-round-of-presidential-election-is-annulled/)[30-11-2024
-
-UK spy chief says Russia behind ‘staggeringly reckless’ sabotage in Europe](https://www.euractiv.com/section/global-europe/news/uk-spy-chief-says-russia-behind-staggeringly-reckless-sabotage-in-europe/)[30-11-2024
-
-In TV interview, Zelenskyy opens the door to ceasefire with Russia](https://www.euractiv.com/section/global-europe/news/in-tv-interview-zelenskyy-opens-the-door-to-ceasefire-with-russia/)[30-11-2024
-
-Explosion damages Kosovo power infrastructure, PM accuses Serbia of terrorism](https://www.euractiv.com/section/global-europe/news/explosion-damages-kosovo-power-infrastructure-pm-accuses-serbia-of-terrorism/)
+Combating foreign influences in media, experts call on EU to step up action](https://www.euractiv.com/section/politics/news/combating-foreign-influences-in-media-experts-call-on-eu-to-step-up-action/)
 
 ###### Advertisement
 
