@@ -223,18 +223,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [http://www.institutfrancais.rs](http://www.institutfrancais.rs/)
     
-    [10:00 Stari mojstri iz zbirk Muzeja za umetnost in obrt, Zagreb, LJ](javascript:void(0);)
-    
-    **19.09.2024 | 10:00**
-    
-    **[Narodna galerija, Ljubljana](http://seecult.org/institucija/narodna-galerija-ljubljana)**
-    
-    **STARI MOJSTRI IZ ZBIRK MUZEJA ZA UMETNOST IN OBRT, ZAGREB - SLIKARSTVO, KIPARSTVO IN GRAFIKA** \- izložba (18.9.2024.-9.2.2025.)
-    
-    Autorice koncepcije i kustosice izložbe: dr. sc. Antonia Došen, viša kustosica i voditeljica Zbirke grafike i Zbirke tiskarstva i knjigoveštva MUO, Marijana Paula Ferenčić kustosica u Zbirci slikarstva MUO i Jasmina Fučkan, muzejska savjetnica i voditeljica Zbirke skulpture i Zbirke bjelokosti MUO
-    
-    [https://www.ng-slo.si/si](https://www.ng-slo.si/si)
-    
     [10:00 Antonio Pichillá Quiacaín, LJ](javascript:void(0);)
     
     **19.09.2024 | 10:00**
@@ -248,6 +236,18 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     Kustosinja razstave: Yasmín Martín Vodopivec
     
     [http://www.mglc-lj.si](http://www.mglc-lj.si/)
+    
+    [10:00 Stari mojstri iz zbirk Muzeja za umetnost in obrt, Zagreb, LJ](javascript:void(0);)
+    
+    **19.09.2024 | 10:00**
+    
+    **[Narodna galerija, Ljubljana](http://seecult.org/institucija/narodna-galerija-ljubljana)**
+    
+    **STARI MOJSTRI IZ ZBIRK MUZEJA ZA UMETNOST IN OBRT, ZAGREB - SLIKARSTVO, KIPARSTVO IN GRAFIKA** \- izložba (18.9.2024.-9.2.2025.)
+    
+    Autorice koncepcije i kustosice izložbe: dr. sc. Antonia Došen, viša kustosica i voditeljica Zbirke grafike i Zbirke tiskarstva i knjigoveštva MUO, Marijana Paula Ferenčić kustosica u Zbirci slikarstva MUO i Jasmina Fučkan, muzejska savjetnica i voditeljica Zbirke skulpture i Zbirke bjelokosti MUO
+    
+    [https://www.ng-slo.si/si](https://www.ng-slo.si/si)
     
     [10:00 Slikarska zbirka Muzeja za umetnost in obrt Zagreb, LJ](javascript:void(0);)
     
@@ -298,11 +298,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-ilic/dragan-ilic-retribution-odmazda/retribution/odmazda-brisel/brussels.jpg?itok=BXpCeq7Z)](http://seecult.org/galerija/galerija-umetnika/dragan-ilic/dragan-ilic-retribution-odmazda/retributionodmazda-brisel)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-papic/6-fotki-iz-foldera-quotsa-buvljakaquot/faces226.jpg?itok=icmLBJsy)](http://seecult.org/galerija/galerija-umetnika/dragan-papic/6-fotki-iz-foldera-sa-buvljaka)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/sff-002.jpg?itok=-extLtKq)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/foto-arhiva-2004/rhonabyrne-irska.jpg?itok=a-ZHdchX)](http://seecult.org/galerija/foto-galerija/foto-arhiva/foto-arhiva-2004)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -318,6 +318,7 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 * [Nadežda Petrović u Narodnom muzeju](http://seecult.org/vest/nadezda-petrovic-u-narodnom-muzeju)
 
+* [Ponovni apel Nacionalnog komiteta ICOMOS-a Vladi Srbije](http://seecult.org/vest/ponovni-apel-nacionalnog-komiteta-icomos-vladi-srbije)
 * [Veseli pakao poezije](http://seecult.org/vest/veseli-pakao-poezije)
 * [Sorentinijev Partenopa otvara Dane italijanskog filma](http://seecult.org/vest/sorentinijev-partenopa-otvara-dane-italijanskog-filma)
 * [CERN – univerzum otkrića](http://seecult.org/vest/cern-univerzum-otkrica)
@@ -327,7 +328,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Vladimiru Radovanoviću nagrada Marko Glušac](http://seecult.org/vest/vladimiru-radovanovicu-nagrada-marko-glusac)
 * [Nagrada Igora Zabela Edit Andraš](http://seecult.org/vest/nagrada-igora-zabela-edit-andras)
 * [30\. FAF na BIS](http://seecult.org/vest/30-faf-na-bis)
-* [Nemi film uživo](http://seecult.org/vest/nemi-film-uzivo)
 
 * [Konkursi](#tab1_1)
 
