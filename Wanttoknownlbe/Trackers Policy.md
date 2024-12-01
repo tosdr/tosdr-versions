@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/brief-aan-staten-generaal-actie/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/welke-bewijzen-hebben-we-nog-nodig/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
