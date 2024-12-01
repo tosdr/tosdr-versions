@@ -126,7 +126,6 @@ Log into Online Banking
     * [Just Be Yourself](https://www.communityfirstfl.org/resources/just-be-yourself)
     * [TruStage Insurance](https://www.communityfirstfl.org/resources/trustage-insurance)
     * [Make a Payment](https://www.communityfirstfl.org/resources/make-a-payment)
-    * [Board of Directors Petition 2024](https://www.communityfirstfl.org/resources/board-of-directors-petition-2024)
     * * [Zelle](https://www.communityfirstfl.org/resources/zelle)
         * [Overview](https://www.communityfirstfl.org/resources/zelle)
         * [How to use Zelle](https://www.communityfirstfl.org/resources/zelle/how-to-use-zelle)
