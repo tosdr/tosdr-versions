@@ -306,15 +306,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Natalie McDonald, who appeared in Harry Potter and Goblet of Fire, is named after a real girl who was dying of leukemia.
+Dementors don’t breed but grow, like fungus, where there is decay.
 
 ### Potter History
 
-January 19, 2005 – David Yates is officially named as the director of Harry Potter and the Order of the Phoenix.
+February 17, 2005 – A visitor of the Goblet of Fire set told MuggleNet that only Sirius’s head would make an appearance during the fireplace scene, making Gary Oldman fans upset at his minor appearance.
 
 ### Potter Quote
 
-“My brothers, my sisters. The clock is ticking faster. We who live for freedom, for truth, and for love. The moment has come to share my vision of the future that awaits if we do not rise up and take our rightful place in the world. Where we wizards are free. Aurors, join me in this circle, pledge to me your eternal allegiance, or die.”
+“What are Fred and I, next-door neighbors?”
 
 [](#)
 
