@@ -76,10 +76,6 @@ Search
 
 Search
 
-#### Exclusive
-
-[NYC staffer paid to promote diversity caught ripping down Israel hostage poster, allegedly assaulting person filming it](https://nypost.com/2024/11/30/us-news/nyc-staffer-paid-to-promote-diversity-caught-ripping-down-israel-hostage-poster-allegedly-assaulting-person-filming-it/)
-
 Terms Of Use
 ============
 
