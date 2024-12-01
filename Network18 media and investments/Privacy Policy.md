@@ -129,10 +129,10 @@ English
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
     * [Income Tax Raid](https://www.news18.com/india/cash-counted-with-36-machines-loaded-on-a-truck-heres-where-the-biggest-income-tax-raid-happened-9139773.html)
-    * [Rashmika Mandanna](https://www.news18.com/web-stories/celebrities/4-rashmika-mandannas-simple-yet-elegant-saree-looks-for-wedding-season-2649042/)
-    * [Samantha Ruth Prabhu](https://www.news18.com/movies/samantha-ruth-prabhu-makes-rare-comment-about-her-father-he-told-me-youre-not-smart-9140209.html)
-    * [Pooja Hegde](https://www.news18.com/web-stories/celebrities/5-pooja-hegde-inspired-saree-blouses-for-the-wedding-season-2647205/)
-    * [WTC Points Table](https://www.news18.com/cricket/updated-wtc-2023-25-points-table-after-south-africa-crush-sri-lanka-by-233-runs-in-1st-test-9140493.html)
+    * [Chunky Panday](https://www.news18.com/movies/chunky-panday-shares-he-was-paid-to-attend-a-funeral-says-family-was-ready-to-pay-more-if-he-cried-9141302.html)
+    * [Aaradhya Bachchan](https://www.news18.com/movies/aishwarya-rai-abhishek-bachchan-have-rare-reunion-amid-divorce-rumours-mark-aaradhyas-birthday-videos-9141447.html)
+    * [Kapil Sharma](https://www.news18.com/movies/kapil-sharma-mimics-amitabh-bachchan-rekha-has-an-epic-reaction-mujhse-puchiye-watch-9141186.html)
+    * [D Gukesh Vs Ding Liren](https://www.news18.com/sports/world-chess-championship-2024-d-gukesh-and-ding-liren-play-out-another-draw-in-game-6-remain-tied-at-3-points-each-9141564.html)
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
@@ -170,10 +170,10 @@ Follow us on
 In Trends:
 
 * [Income Tax Raid](https://www.news18.com/india/cash-counted-with-36-machines-loaded-on-a-truck-heres-where-the-biggest-income-tax-raid-happened-9139773.html)
-* [Rashmika Mandanna](https://www.news18.com/web-stories/celebrities/4-rashmika-mandannas-simple-yet-elegant-saree-looks-for-wedding-season-2649042/)
-* [Samantha Ruth Prabhu](https://www.news18.com/movies/samantha-ruth-prabhu-makes-rare-comment-about-her-father-he-told-me-youre-not-smart-9140209.html)
-* [Pooja Hegde](https://www.news18.com/web-stories/celebrities/5-pooja-hegde-inspired-saree-blouses-for-the-wedding-season-2647205/)
-* [WTC Points Table](https://www.news18.com/cricket/updated-wtc-2023-25-points-table-after-south-africa-crush-sri-lanka-by-233-runs-in-1st-test-9140493.html)
+* [Chunky Panday](https://www.news18.com/movies/chunky-panday-shares-he-was-paid-to-attend-a-funeral-says-family-was-ready-to-pay-more-if-he-cried-9141302.html)
+* [Aaradhya Bachchan](https://www.news18.com/movies/aishwarya-rai-abhishek-bachchan-have-rare-reunion-amid-divorce-rumours-mark-aaradhyas-birthday-videos-9141447.html)
+* [Kapil Sharma](https://www.news18.com/movies/kapil-sharma-mimics-amitabh-bachchan-rekha-has-an-epic-reaction-mujhse-puchiye-watch-9141186.html)
+* [D Gukesh Vs Ding Liren](https://www.news18.com/sports/world-chess-championship-2024-d-gukesh-and-ding-liren-play-out-another-draw-in-game-6-remain-tied-at-3-points-each-9141564.html)
 * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 
 * Follow Us
