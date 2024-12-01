@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-30 Nov 2024
+01 Dec 2024
 
 * [Home
     
@@ -265,6 +265,13 @@ Most Popular
 
 [Derry Death Notices - Saturday, November 30, 2024](https://www.derrynow.com/news/deaths/1666536/derry-death-notices-saturday-november-30-2024.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![PICTURES: Festivalgoers descend on Dingle for Day 1 of Other Voices 2024](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Festivalgoers descend on Dingle for Day 1 of Other Voices 2024")](https://www.derrynow.com/news/national-news/1669282/pictures-festivalgoers-descend-on-dingle-for-day-1-of-other-voices-2024.html)
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[PICTURES: Festivalgoers descend on Dingle for Day 1 of Other Voices 2024](https://www.derrynow.com/news/national-news/1669282/pictures-festivalgoers-descend-on-dingle-for-day-1-of-other-voices-2024.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry sisters on a mission to raise vital funds for Foyle Hospice in memory of their mum](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry sisters on a mission to raise vital funds for Foyle Hospice in memory of their mum")](https://www.derrynow.com/news/local-news/1664188/derry-sisters-on-a-mission-to-raise-vital-funds-for-foyle-hospice-in-memory-of-their-mum.html)
 
