@@ -8,6 +8,8 @@
 
 * [Home](https://xcreativeclashx.net/ "Home")
 
+[ReverseClash is GO!](https://xcreativeclashx.net/announcement/28-reverseclash-is-go/) [×](#)
+
 Registration Terms
 ==================
 
@@ -187,9 +189,9 @@ Registration Terms
 
 #### Links
 
-* [Discord](https://discord.gg/H5Yzun86Qp)
-* [Twitter](https://twitter.com/xCreativeClashx)
-* [Aethy](https://aethy.com/@xCreativeClashx)
+* [Discord](https://discord.gg/H5Yzun86Qp/)
+* [Twitter](https://twitter.com/xCreativeClashx/)
+* [Bluesky](https://xcreativeclashx.bsky.social/)
 
 #### You are responsible for your own viewing experience while using this website. We have endeavored to provide as many means as possible for you to curate your experience here.
 
