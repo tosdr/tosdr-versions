@@ -117,63 +117,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Impossible to run our businesses without IO
-> -------------------------------------------
+> Fast, Accurate & Easy to Use
+> ----------------------------
 > 
-> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
->   
-> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
->   
-> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
->   
-> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
+> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
 
-Kobus Venter
+Jannie Schutte - myFinance-Online.co.za
 
-![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=2be7029687ca1060ab62bb0736fd1a8ef9776f6f599d05946433691945ba9b24&c=134411525)  
-Well Hung Art
+![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=b433fd070940cc63ff8d538dcf99cd6f6143f688b0004ed668f94b31849f35bc&c=51648897)  
+Druce Digital
 
-![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=2be7029687ca1060ab62bb0736fd1a8ef9776f6f599d05946433691945ba9b24&c=100172797)  
-Bloem Rugby Academy PTY (Ltd)
+![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=b433fd070940cc63ff8d538dcf99cd6f6143f688b0004ed668f94b31849f35bc&c=79685288)  
+SLOANE STAR MEAT MARKET
 
-![valued client Stevens Consulting](https://www.invoicesonline.co.za/scripts/image.php?bid=5551&file=logo_300_100&type=&fe=2be7029687ca1060ab62bb0736fd1a8ef9776f6f599d05946433691945ba9b24&c=170903371)  
-Stevens Consulting
+![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=b433fd070940cc63ff8d538dcf99cd6f6143f688b0004ed668f94b31849f35bc&c=124402365)  
+INDUSTRIAL DRUM SERVICES (PTY)LTD
 
-![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=2be7029687ca1060ab62bb0736fd1a8ef9776f6f599d05946433691945ba9b24&c=17651379)  
-TRACKFORCE (Pty) Ltd
+![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=b433fd070940cc63ff8d538dcf99cd6f6143f688b0004ed668f94b31849f35bc&c=39953505)  
+NJR ICT Services (Pty) Ltd
 
-![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=2be7029687ca1060ab62bb0736fd1a8ef9776f6f599d05946433691945ba9b24&c=31658148)  
-OXYAIDER (PTY) LTD
+![valued client FlipDesign - Renovation Contracting Firm](https://www.invoicesonline.co.za/scripts/image.php?bid=8663&file=logo_300_100&type=&fe=b433fd070940cc63ff8d538dcf99cd6f6143f688b0004ed668f94b31849f35bc&c=3872033)  
+FlipDesign - Renovation Contracting Firm
 
-![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=2be7029687ca1060ab62bb0736fd1a8ef9776f6f599d05946433691945ba9b24&c=94560000)  
-McKaynine Mobility
+![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=b433fd070940cc63ff8d538dcf99cd6f6143f688b0004ed668f94b31849f35bc&c=111594394)  
+IAS Logistics (Pty) Ltd T/A MULTITRANSIT
 
-![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=2be7029687ca1060ab62bb0736fd1a8ef9776f6f599d05946433691945ba9b24&c=149529440)  
-Nilbet T/A Waterman
+![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=b433fd070940cc63ff8d538dcf99cd6f6143f688b0004ed668f94b31849f35bc&c=26369255)  
+Kinetic Power Solutions (Pty) Ltd.
 
-![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=2be7029687ca1060ab62bb0736fd1a8ef9776f6f599d05946433691945ba9b24&c=52274358)  
-Baby Toddles Infant Care
+![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=b433fd070940cc63ff8d538dcf99cd6f6143f688b0004ed668f94b31849f35bc&c=23046955)  
+RADIO TYGERBERG 104FM NPC
 
-![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=2be7029687ca1060ab62bb0736fd1a8ef9776f6f599d05946433691945ba9b24&c=142064581)  
-Fox Alarms & Security
+![valued client Sophia's Roses](https://www.invoicesonline.co.za/scripts/image.php?bid=5227&file=logo_300_100&type=&fe=b433fd070940cc63ff8d538dcf99cd6f6143f688b0004ed668f94b31849f35bc&c=91677089)  
+Sophia's Roses
 
-![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=2be7029687ca1060ab62bb0736fd1a8ef9776f6f599d05946433691945ba9b24&c=199610537)  
-Xpress Designs
+![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=b433fd070940cc63ff8d538dcf99cd6f6143f688b0004ed668f94b31849f35bc&c=18177106)  
+Durbanville Classifieds (Pty) Ltd
 
-![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=2be7029687ca1060ab62bb0736fd1a8ef9776f6f599d05946433691945ba9b24&c=14155459)  
-Westside Car Audio CC
-
-![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=2be7029687ca1060ab62bb0736fd1a8ef9776f6f599d05946433691945ba9b24&c=9798668)  
-Dr V Naik Consult
-
-![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=2be7029687ca1060ab62bb0736fd1a8ef9776f6f599d05946433691945ba9b24&c=187307932)  
-VIV'S TRUCKS (Pty) Ltd. (29/31/33)
-
-![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=2be7029687ca1060ab62bb0736fd1a8ef9776f6f599d05946433691945ba9b24&c=210297306)  
-Digifax (Pty) Ltd trading as Digirent
-
-![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=2be7029687ca1060ab62bb0736fd1a8ef9776f6f599d05946433691945ba9b24&c=109424542)  
+![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=b433fd070940cc63ff8d538dcf99cd6f6143f688b0004ed668f94b31849f35bc&c=89403638)  
 Norton Medical & Consult - Namibia
+
+![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=b433fd070940cc63ff8d538dcf99cd6f6143f688b0004ed668f94b31849f35bc&c=187180457)  
+Salvage Genie
+
+![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=b433fd070940cc63ff8d538dcf99cd6f6143f688b0004ed668f94b31849f35bc&c=169252198)  
+Oak Tree Immigration
+
+![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=b433fd070940cc63ff8d538dcf99cd6f6143f688b0004ed668f94b31849f35bc&c=61196193)  
+Printo
+
+![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=b433fd070940cc63ff8d538dcf99cd6f6143f688b0004ed668f94b31849f35bc&c=179199034)  
+TIGERDSL
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
