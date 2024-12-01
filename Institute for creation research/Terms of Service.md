@@ -165,6 +165,68 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
+More Days of Praise
+
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/dead-works)
+
+[Dead Works](https://www.icr.org/article/dead-works/)
+
+“Therefore leaving the principles of the doctrine of Christ, let us go on unto perfection; not laying again the foundation of repentance from...
+
+BY: [JOHN D. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=26)
+
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/throne-grace)
+
+[The Throne of Grace](https://www.icr.org/article/throne-grace/)
+
+“For we have not an high priest which cannot be touched with the feeling of our infirmities; but was in all points tempted like as we are,...
+
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/dividing-light-from-darkness)
+
+[Dividing Light from Darkness](https://www.icr.org/article/dividing-light-from-darkness/)
+
+“And God said, Let there be light: and there was light. And God saw the light, that it was good: and God divided the light from the darkness.”...
+
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+
+Shop Related Products
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/13217016/file.jpg)
+
+Geology and the Great Flood - Download](https://store.icr.org/dr-henry-morris-iii-geology-and-the-great-flood-do.html)
+
+$4.99
+
+$9.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/13216983/file.jpg)
+
+The Book of Beginnings (DVD) - Download](https://store.icr.org/dr-henry-morris-iii-the-book-of-beginnings-dvd-dow.html)
+
+$4.99
+
+$9.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/359222/file.jpg)
+
+Unlocking the Mysteries of Genesis (book)](https://store.icr.org/dr-henry-morris-iii-unlocking-the-mysteries-of-gen.html)
+
+$15.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/32548/file.jpg)
+
+Exploring the Evidence for Creation](https://store.icr.org/dr-henry-morris-iii-exploring-the-evidence-for-cre.html)
+
+$13.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/32359/file.jpg)
+
+Six Days of Creation](https://store.icr.org/dr-henry-morris-iii-six-days-of-creation.html)
+
+$2.99
+
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
