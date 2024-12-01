@@ -190,11 +190,14 @@
 
 Subscribe
 
-[#### COVID-19](#)
+[#### Sexual Health](https://www.healthline.com/sexual-health)
 
-* [Vaccines Basics](https://www.healthline.com/health/how-long-does-covid-vaccine-protect-you)
-* [Testing](https://www.healthline.com/health/types-of-covid-tests)
-* [Symptoms](https://www.healthline.com/health/coronavirus-covid-19)
+* [Birth control](https://www.healthline.com/sexual-health/birth-control)
+* [STIs](https://www.healthline.com/sexual-health/sexually-transmitted-infections)
+* [HIV](https://www.healthline.com/sexual-health/hiv-aids)
+* [HSV](https://www.healthline.com/sexual-health/oral-genital-herpes)
+* [Activity](https://www.healthline.com/sexual-health/sexual-activity)
+* [Relationships](https://www.healthline.com/sexual-health/relationships-intimacy)
 
 Privacy Policy
 ==============
