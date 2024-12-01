@@ -1,6 +1,6 @@
 None
 
-Black Friday is hereEnds 11/30/24.[Shop now](https://www.bestbuy.com/site/electronics/black-friday/pcmcat225600050002.c?id=pcmcat225600050002)
+Save up to 50% with Cyber Monday Savings EventsEnds 12/2[Shop now](https://www.bestbuy.com/site/misc/cyber-monday/pcmcat309500050010.c?id=pcmcat309500050010)
 
 [Skip to content](#headerskip "Skip to content")
 
@@ -16,7 +16,7 @@ Menu
 
 [Cart](https://www.bestbuy.com/cart "Cart")
 
-* [Black Friday Deals](https://www.bestbuy.com/site/electronics/black-friday/pcmcat225600050002.c?id=pcmcat225600050002)
+* [Cyber Deals](https://www.bestbuy.com/site/misc/cyber-monday/pcmcat309500050010.c?id=pcmcat309500050010)
 * [Deal of the Day](https://www.bestbuy.com/site/misc/deal-of-the-day/pcmcat248000050016.c?id=pcmcat248000050016)
 * [Gift Ideas](https://www.bestbuy.com/site/electronics/gift-ideas/abcat0010000.c?id=abcat0010000)
 * [Yes, Best Buy Sells That](https://www.bestbuy.com/site/misc/yes-best-buy-sells-that/pcmcat1621542998180.c?id=pcmcat1621542998180)
