@@ -2,7 +2,7 @@
 
         [Skip to content](#MainContent)
 
-**Free Standard Shipping When You Buy 2 Products! Use Code "BLACKFRIDAY".**
+**Free Standard Shipping When You Spend $50+. Use code “FREESHIP24”.**
 
 [![AreYouGame.com](//areyougame.com/cdn/shop/files/AYG_Logo_Flatlg_900x.png?v=1614326358)](https://areyougame.com/)
 
