@@ -406,9 +406,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ I don’t care that they stole my idea — I care that they don’t have any of their own”
+“ Things do not happen. Things are made to happen”
 
-[Nikola Tesla](https://en.wikipedia.org/wiki/Nikola_Tesla)
+[John F. Kennedy](http://library.und.edu/digital/john-f-kennedy-archive/delivered.php)
 
 [](https://www.adafruit.com/about)
 
