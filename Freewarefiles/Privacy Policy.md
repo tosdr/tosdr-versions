@@ -4,7 +4,7 @@
 
 * [Home](https://www.freewarefiles.com/)
 * [Software](https://www.freewarefiles.com/software/)
-* [Games](https://www.freewarefiles.com/games/)
+* [Gaming](https://www.freewarefiles.com/gaming/)
 * [Apple](https://www.freewarefiles.com/apple/)
 * [Top 5](https://www.freewarefiles.com/top-5/)
 * [How-To’s](https://www.freewarefiles.com/how-tos/)
@@ -30,42 +30,42 @@ As is the case with other electronic appliances, things can go wrong with your R
 
 [Read More Why is My Roku TV Not Working?Continue](https://www.freewarefiles.com/how-tos/why-is-my-roku-tv-not-working/)
 
-[![PS4 and PS5 Play Together](https://www.freewarefiles.com/wp-content/uploads/2024/09/What-Games-Can-PS4-and-PS5-Play-Together-768x343.jpg)](https://www.freewarefiles.com/games/what-games-can-ps4-and-ps5-play-together/)
+[![PS4 and PS5 Play Together](https://www.freewarefiles.com/wp-content/uploads/2024/09/What-Games-Can-PS4-and-PS5-Play-Together-768x343.jpg)](https://www.freewarefiles.com/gaming/what-games-can-ps4-and-ps5-play-together/)
 
-[Games](https://www.freewarefiles.com/games/)
+[Gaming](https://www.freewarefiles.com/gaming/)
 
-[What Games Can PS4 and PS5 Play Together?](https://www.freewarefiles.com/games/what-games-can-ps4-and-ps5-play-together/)
---------------------------------------------------------------------------------------------------------------------------
+[What Games Can PS4 and PS5 Play Together?](https://www.freewarefiles.com/gaming/what-games-can-ps4-and-ps5-play-together/)
+---------------------------------------------------------------------------------------------------------------------------
 
 PS4 and PS5 share some similar features so you can play several games together. If you bought a PS5 recently and are wondering what games can PS4 and PS5 play together, Fortnite, Call of Duty: Warzone, Diablo IV, Apex Legends, and Borderlands 3 are only some examples. Cross-gen gaming has gained a lot of popularity…
 
-[Read More What Games Can PS4 and PS5 Play Together?Continue](https://www.freewarefiles.com/games/what-games-can-ps4-and-ps5-play-together/)
+[Read More What Games Can PS4 and PS5 Play Together?Continue](https://www.freewarefiles.com/gaming/what-games-can-ps4-and-ps5-play-together/)
 
 [![What Games Are Cross Platform?](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20339'%3E%3C/svg%3E)
 
-![What Games Are Cross Platform?](https://www.freewarefiles.com/wp-content/uploads/2024/09/What-Games-Are-Cross-Platform-768x339.jpg)](https://www.freewarefiles.com/games/what-games-are-cross-platform/)
+![What Games Are Cross Platform?](https://www.freewarefiles.com/wp-content/uploads/2024/09/What-Games-Are-Cross-Platform-768x339.jpg)](https://www.freewarefiles.com/gaming/what-games-are-cross-platform/)
 
-[Games](https://www.freewarefiles.com/games/)
+[Gaming](https://www.freewarefiles.com/gaming/)
 
-[What Games Are Cross Platform?](https://www.freewarefiles.com/games/what-games-are-cross-platform/)
-----------------------------------------------------------------------------------------------------
+[What Games Are Cross Platform?](https://www.freewarefiles.com/gaming/what-games-are-cross-platform/)
+-----------------------------------------------------------------------------------------------------
 
 With the rapid development of new technology, many games are now cross-platform. So, if you’re curious about the topic and thinking about what games are cross-platform, you’ll find plenty. But what exactly does cross-platform gaming mean? In simple words, cross-platform gaming is the ability to play games on different systems or platforms. The popularity of…
 
-[Read More What Games Are Cross Platform?Continue](https://www.freewarefiles.com/games/what-games-are-cross-platform/)
+[Read More What Games Are Cross Platform?Continue](https://www.freewarefiles.com/gaming/what-games-are-cross-platform/)
 
 [![How To Watch The Super Bowl For Free?](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20593'%3E%3C/svg%3E)
 
-![How To Watch The Super Bowl For Free?](https://www.freewarefiles.com/wp-content/uploads/2024/09/How-To-Watch-The-Super-Bowl-For-Free-e1725705631126-768x593.jpg)](https://www.freewarefiles.com/games/how-to-watch-the-super-bowl-for-free/)
+![How To Watch The Super Bowl For Free?](https://www.freewarefiles.com/wp-content/uploads/2024/09/How-To-Watch-The-Super-Bowl-For-Free-e1725705631126-768x593.jpg)](https://www.freewarefiles.com/gaming/how-to-watch-the-super-bowl-for-free/)
 
-[Games](https://www.freewarefiles.com/games/)
+[Gaming](https://www.freewarefiles.com/gaming/)
 
-[How To Watch The Super Bowl For Free?](https://www.freewarefiles.com/games/how-to-watch-the-super-bowl-for-free/)
-------------------------------------------------------------------------------------------------------------------
+[How To Watch The Super Bowl For Free?](https://www.freewarefiles.com/gaming/how-to-watch-the-super-bowl-for-free/)
+-------------------------------------------------------------------------------------------------------------------
 
 If you’re an NFL fan and wondering how to watch the Super Bowl Free then there are several ways to do it.  So, if you have any difficulty viewing the event for free in the US or elsewhere, you don’t have to worry too much. This short write-up will provide an answer to all your…
 
-[Read More How To Watch The Super Bowl For Free?Continue](https://www.freewarefiles.com/games/how-to-watch-the-super-bowl-for-free/)
+[Read More How To Watch The Super Bowl For Free?Continue](https://www.freewarefiles.com/gaming/how-to-watch-the-super-bowl-for-free/)
 
 [![How To Check Search History on iPhone in Settings?](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20576'%3E%3C/svg%3E)
 
@@ -82,16 +82,16 @@ The stored search history on an iPhone can be accessed by visiting advanced sett
 
 [![Connect Xbox To MacBook](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20576'%3E%3C/svg%3E)
 
-![Connect Xbox To MacBook](https://www.freewarefiles.com/wp-content/uploads/2024/08/How-To-Connect-Xbox-To-MacBook-768x576.jpg)](https://www.freewarefiles.com/games/how-to-connect-xbox-to-macbook/)
+![Connect Xbox To MacBook](https://www.freewarefiles.com/wp-content/uploads/2024/08/How-To-Connect-Xbox-To-MacBook-768x576.jpg)](https://www.freewarefiles.com/gaming/how-to-connect-xbox-to-macbook/)
 
-[Games](https://www.freewarefiles.com/games/)
+[Gaming](https://www.freewarefiles.com/gaming/)
 
-[A 2024 Guide on How To Connect Xbox To MacBook?](https://www.freewarefiles.com/games/how-to-connect-xbox-to-macbook/)
-----------------------------------------------------------------------------------------------------------------------
+[A 2024 Guide on How To Connect Xbox To MacBook?](https://www.freewarefiles.com/gaming/how-to-connect-xbox-to-macbook/)
+-----------------------------------------------------------------------------------------------------------------------
 
 At one point or another, every player has probably considered linking their Xbox console with the MacBook for gaming purposes. But do you know how to accomplish it? There are two options: either download the Xbox app on your MacBook or utilize an HDMI video capture card that will facilitate the connection between your Xbox…
 
-[Read More A 2024 Guide on How To Connect Xbox To MacBook?Continue](https://www.freewarefiles.com/games/how-to-connect-xbox-to-macbook/)
+[Read More A 2024 Guide on How To Connect Xbox To MacBook?Continue](https://www.freewarefiles.com/gaming/how-to-connect-xbox-to-macbook/)
 
 [![How To Text Someone Who Blocked You on iPhone?](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20460%20466'%3E%3C/svg%3E)
 
@@ -183,15 +183,15 @@ Search
 Recent Posts
 ------------
 
-* [Xbox Game Share Not Working: Step By Step Guide to Fix it](https://www.freewarefiles.com/games/xbox-game-share-not-working/)
+* [Xbox Game Share Not Working: Step By Step Guide to Fix it](https://www.freewarefiles.com/gaming/xbox-game-share-not-working/)
 * [Why is My Roku TV Not Working?](https://www.freewarefiles.com/how-tos/why-is-my-roku-tv-not-working/)
 * [Why Does My WiFi Keep Turning Off?](https://www.freewarefiles.com/how-tos/why-does-my-wifi-keep-turning-off/)
-* [What To Do if PS5 Controller Not Working in Game?](https://www.freewarefiles.com/games/ps5-controller-not-working-in-game/)
+* [What To Do if PS5 Controller Not Working in Game?](https://www.freewarefiles.com/gaming/ps5-controller-not-working-in-game/)
 * [What is The Best Software For Podcast in 2024](https://www.freewarefiles.com/software/best-software-for-podcast/)
 * [What is The Best Free Drawing Software?](https://www.freewarefiles.com/software/best-free-drawing-software/)
 * [What is The Best Accounting Software For Small Business?](https://www.freewarefiles.com/software/what-is-the-best-accounting-software-for-small-business/)
-* [What Games Can PS4 and PS5 Play Together?](https://www.freewarefiles.com/games/what-games-can-ps4-and-ps5-play-together/)
-* [What Games Are Cross Platform?](https://www.freewarefiles.com/games/what-games-are-cross-platform/)
+* [What Games Can PS4 and PS5 Play Together?](https://www.freewarefiles.com/gaming/what-games-can-ps4-and-ps5-play-together/)
+* [What Games Are Cross Platform?](https://www.freewarefiles.com/gaming/what-games-are-cross-platform/)
 * [What are The Best Voiceover Software Tools?](https://www.freewarefiles.com/software/best-voiceover-software/)
 
 * [Home](https://www.freewarefiles.com/)
@@ -204,7 +204,7 @@ Copyright © 2024, All Rights Reserved, [Freeware Files](https://www.freewarefil
 
 * [Home](https://www.freewarefiles.com/)
 * [Software](https://www.freewarefiles.com/software/)
-* [Games](https://www.freewarefiles.com/games/)
+* [Gaming](https://www.freewarefiles.com/gaming/)
 * [Apple](https://www.freewarefiles.com/apple/)
 * [Top 5](https://www.freewarefiles.com/top-5/)
 * [How-To’s](https://www.freewarefiles.com/how-tos/)
