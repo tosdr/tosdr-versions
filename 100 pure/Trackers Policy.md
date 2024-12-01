@@ -483,7 +483,7 @@ SELECT
 
 Beauty Deal - Burdock & Neem Healthy Scalp Conditioner 13 oz
 
-SELECT Buy for $15
+SOLD OUT Buy for $15
 
 ![](https://www.100percentpure.com/s/files/1/0648/1955/products/1HCCBNHS13OZ_Burdock_Neem_Conditioner_13OZ_Primary_690594ce-0cd7-4f24-9c2a-25ca8d4678ec.jpg?em-origin=cdn.shopify.com)
 
@@ -491,7 +491,7 @@ Beauty Deal - Burdock & Neem Healthy Scalp Conditioner 13 oz
 
 Purifies to unclog pores and stimulate circulation in the scalp. Intense hydration helps to alleviate dryness, itching and flaking for healthy, nourished hair.
 
-SELECT
+SOLD OUT
 
 [![](https://www.100percentpure.com/s/files/1/0648/1955/files/1HCSYPG8OZ_Yuzu_Pomelo_Shampoo_Primary_e4c68fde-4e6b-45c1-92fa-efffb56aa65a.jpg?em-origin=cdn.shopify.com)](#product-6928810541134)
 
