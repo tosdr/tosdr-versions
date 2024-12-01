@@ -140,7 +140,7 @@ Customer Testimonials
 
 out of 5 based on
 
-[782 reviews](https://www.trustpilot.com/review/www.safari.com)
+[789 reviews](https://www.trustpilot.com/review/www.safari.com)
 
 ![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
@@ -296,7 +296,7 @@ Contact a safari expert now
 
 ### About us
 
-* [Contact us](https://www.safari.com/contact)[Why travel with us](https://www.safari.com/travel-with-us)[Awards](https://www.safari.com/travel-with-us#accreditations-and-awards)[Ethical wildlife policy](https://www.safari.com/travel-with-us#ethical-wildlife-tourism-policy)[FAQ](https://www.safari.com/faq)[Our story](https://www.safari.com/about-us)[Meet the team](https://www.safari.com/meet-the-team)[Careers](https://www.safari.com/careers)[Traveler reviews](https://www.trustpilot.com/review/safari.com)[Africa's Leading Safari Company 2024](https://www.safari.com/blog/safari-com-world-travel-awards-nominee-2024-vote-for-us)
+* [Contact us](https://www.safari.com/contact)[Why travel with us](https://www.safari.com/travel-with-us)[Awards](https://www.safari.com/travel-with-us#accreditations-and-awards)[Ethical wildlife policy](https://www.safari.com/travel-with-us#ethical-wildlife-tourism-policy)[FAQ](https://www.safari.com/faq)[Our story](https://www.safari.com/about-us)[Meet the team](https://www.safari.com/meet-the-team)[Careers](https://www.safari.com/careers)[Traveler reviews](https://www.safari.com/testimonials)[Africa's Leading Safari Company 2024](https://www.safari.com/blog/safari-com-world-travel-awards-nominee-2024-vote-for-us)
 * [Join Our Affiliate Program](https://www.safari.com/affiliates)
 
 ### Blog
@@ -307,7 +307,7 @@ Contact a safari expert now
 
 * [Facebook](https://www.facebook.com/safaridotcomfb)
 * [Instagram](https://www.instagram.com/safaridotcom)
-* [LinkedIn](https://za.linkedin.com/company/safaridotcom)[YouTube](https://www.youtube.com/@Safaricom-iz5ff)
+* [LinkedIn](https://za.linkedin.com/company/safaridotcom)[YouTube](https://www.youtube.com/@safaridotcom)
 
 ![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/67432d918214d84174e76798_black_writing_no_margin.png)
 
@@ -325,7 +325,7 @@ Cape Town
 Southern Africa Tourism Services Association (SATSA) – Member No. #1680  
 African Travel & Tourism Association (ATTA) – Member No. #206430  
 
-[![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/63d1a0ea20cf61c261c3c843_atta-100%20(1).png)](https://www.safari.com/travel-with-us#atta-certified)[![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/63d1a1a7574ba202acd54bab_satsa-100%20(1).png)](https://www.safari.com/travel-with-us#satsa-certified)
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/63d1a0ea20cf61c261c3c843_atta-100%20(1).png)![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/63d1a1a7574ba202acd54bab_satsa-100%20(1).png)
 
 [Terms of use](https://www.safari.com/terms-and-conditions)
 
