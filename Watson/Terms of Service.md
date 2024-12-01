@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![dégagé](https://www.watson.ch/fr/_watsui/static/img/weather/w-90.svg)3°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![assez dégagé](https://www.watson.ch/fr/_watsui/static/img/weather/w-55.svg)\-2°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -54,25 +54,25 @@
 
 Thèmes du moment
 
+* [Ski de fond](https://www.watson.ch/fr/ski-de-fond/)
+* [Politique](https://www.watson.ch/fr/politique/)
 * [Espagne](https://www.watson.ch/fr/espagne/)
 * [Culture](https://www.watson.ch/fr/culture/)
 * [Best of watson](https://www.watson.ch/fr/best-of-watson/)
-* [ONU](https://www.watson.ch/fr/onu/)
-* [Argent](https://www.watson.ch/fr/argent/)
-* [Politique](https://www.watson.ch/fr/politique/)
+* [Covid-19](https://www.watson.ch/fr/covid-19/)
+* [Irak](https://www.watson.ch/fr/irak/)
+* [Thaïlande](https://www.watson.ch/fr/thailande/)
 * [Santé](https://www.watson.ch/fr/sante/)
 * [Cinéma](https://www.watson.ch/fr/cinema/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
-* [Europe](https://www.watson.ch/fr/europe/)
-* [Films](https://www.watson.ch/fr/films/)
+* [Conseil fédéral](https://www.watson.ch/fr/conseil-federal/)
+* [Berne](https://www.watson.ch/fr/berne/)
 * [Syrie](https://www.watson.ch/fr/syrie/)
-* [maladie](https://www.watson.ch/fr/maladie/)
-* [Mikaela Shiffrin](https://www.watson.ch/fr/mikaela-shiffrin/)
-* [Albert Rösti](https://www.watson.ch/fr/albert-roesti/)
-* [France](https://www.watson.ch/fr/france/)
+* [mariage](https://www.watson.ch/fr/mariage/)
+* [Irlande](https://www.watson.ch/fr/irlande/)
 * [Donald Trump](https://www.watson.ch/fr/donald-trump/)
-* [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
-* [Russie](https://www.watson.ch/fr/russie/)
+* [Animaux](https://www.watson.ch/fr/animaux/)
+* [Ski nordique](https://www.watson.ch/fr/ski-nordique/)
 * [Ski Alpin](https://www.watson.ch/fr/ski-alpin/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
