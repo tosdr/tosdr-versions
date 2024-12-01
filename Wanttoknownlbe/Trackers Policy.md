@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/mh17-oude-pekela-door-nos-en-volkskrant/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/brief-aan-staten-generaal-actie/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
