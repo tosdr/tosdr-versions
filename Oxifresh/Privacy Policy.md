@@ -215,13 +215,13 @@ Call Now for a FREE Quote! [1-877-OXI-FRESH](tel:18776943737) **OR**
     * [Consideration Request](https://www.oxifresh.com/carpet-cleaning-companies/carpet-cleaning-franchise/considerationrequest/)
 * [Franchisee Login](https://www.oxifresh.com/login/index.html)
 
-![The World's Greenest Carpet Cleaner](https://www.oxifresh.com/wp-content/themes/oxifresh_alt/images/img-zipbox-2.png)
+![Fast 1 Hour Dry Time Carpet Cleaner](https://www.oxifresh.com/wp-content/themes/oxifresh_alt/images/img-zipbox-1.png)
 
 Zip Code  QUOTE & SCHEDULE
 
 Enter your zip/postal code above to find carpet cleaning services in your area, get a free quote or book online!
 
-Average 4.7 Stars Based on 305,469 Reviews
+Average 4.7 Stars Based on 305,509 Reviews
 
 * [Home](https://www.oxifresh.com/)
 * \>
@@ -383,17 +383,17 @@ What Customers Are Saying
 
 ### Average 4.7 stars (Out of 5)
 
-Based on 305,469 Carpet Cleaning Services Reviews
+Based on 305,509 Carpet Cleaning Services Reviews
+
+Exceptional results on a very dirty carpet by a polite and conscientious young man! I will be a repeat customer. **SP.** - Princeton, NJ - 11/30/2024
+
+(5.0 Out of 5 stars)
 
 **FG.** - Harrisburg, PA - 11/29/2024
 
 (5.0 Out of 5 stars)
 
-From the phone call to make the appointment, to the text from Jake regarding arrival time, his thoughtful attention to detail and the wonderful job he did on cleaning the stairs and chairs, everything about the service was perfect. Yes, I will most defiantly be recommending Oxi Fresh. **LG.** - Oakland, CA - 11/29/2024
-
-(5.0 Out of 5 stars)
-
-The prompt service -Corey knew what he was doing- He was very polite and courteous **AJ.** - St. Louis, MO - 11/28/2024
+Limited water usage **DG.** - Hilliard, OH - 11/29/2024
 
 (5.0 Out of 5 stars)
 
