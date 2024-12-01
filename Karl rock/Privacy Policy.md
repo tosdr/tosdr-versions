@@ -418,9 +418,9 @@ Top
     
     [How to Rent a Motorcycle in Pakistan (with Prices)](https://blog.karlrock.com/how-to-rent-a-motorcycle-in-pakistan-with-prices/ "How to Rent a Motorcycle in Pakistan (with Prices)")
     
-* [![Authentic Pakistani Chai Recipe from a Chai Master](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/04/BALOCHI-CHAIWALA-Teaches-Me-How-to-Make-REAL-CHAI-Recipe.00_03_20_22.Still001-01_copy_1536x864.jpeg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/authentic-pakistani-chai-recipe-from-a-chai-master/ "Authentic Pakistani Chai Recipe from a Chai Master")
+* [![Can You Take an Indian-Registered or Foreign Vehicle to Pakistan?](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2023/08/img_9105-scaled.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/can-you-take-an-indian-registered-or-foreign-vehicle-to-pakistan/ "Can You Take an Indian-Registered or Foreign Vehicle to Pakistan?")
     
-    [Authentic Pakistani Chai Recipe from a Chai Master](https://blog.karlrock.com/authentic-pakistani-chai-recipe-from-a-chai-master/ "Authentic Pakistani Chai Recipe from a Chai Master")
+    [Can You Take an Indian-Registered or Foreign Vehicle to Pakistan?](https://blog.karlrock.com/can-you-take-an-indian-registered-or-foreign-vehicle-to-pakistan/ "Can You Take an Indian-Registered or Foreign Vehicle to Pakistan?")
     
 
 © 2024 [Karl Rock's Blog](https://blog.karlrock.com/)
