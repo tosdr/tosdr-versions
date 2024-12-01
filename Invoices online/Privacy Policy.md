@@ -117,57 +117,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Fast, Accurate & Easy to Use
-> ----------------------------
+> One of the best decisions I've made for my business
+> ---------------------------------------------------
 > 
-> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
+> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
 
-Jannie Schutte - myFinance-Online.co.za
+Anri van der Linde
 
-![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=b433fd070940cc63ff8d538dcf99cd6f6143f688b0004ed668f94b31849f35bc&c=51648897)  
-Druce Digital
+![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=f71c1e2ca6326a805e7657efbcd54b56930c67b8a17efe5908eef0c1c0b8c01b&c=54856506)  
+Dombieterfontein (PTY) LTD
 
-![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=b433fd070940cc63ff8d538dcf99cd6f6143f688b0004ed668f94b31849f35bc&c=79685288)  
-SLOANE STAR MEAT MARKET
+![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=f71c1e2ca6326a805e7657efbcd54b56930c67b8a17efe5908eef0c1c0b8c01b&c=113531360)  
+Brand's Fountains Deco and Events Coordinatoin
 
-![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=b433fd070940cc63ff8d538dcf99cd6f6143f688b0004ed668f94b31849f35bc&c=124402365)  
-INDUSTRIAL DRUM SERVICES (PTY)LTD
+![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=f71c1e2ca6326a805e7657efbcd54b56930c67b8a17efe5908eef0c1c0b8c01b&c=163510529)  
+TRACKFORCE (Pty) Ltd
 
-![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=b433fd070940cc63ff8d538dcf99cd6f6143f688b0004ed668f94b31849f35bc&c=39953505)  
-NJR ICT Services (Pty) Ltd
+![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=f71c1e2ca6326a805e7657efbcd54b56930c67b8a17efe5908eef0c1c0b8c01b&c=143034902)  
+Repairs In Motion
 
-![valued client FlipDesign - Renovation Contracting Firm](https://www.invoicesonline.co.za/scripts/image.php?bid=8663&file=logo_300_100&type=&fe=b433fd070940cc63ff8d538dcf99cd6f6143f688b0004ed668f94b31849f35bc&c=3872033)  
-FlipDesign - Renovation Contracting Firm
-
-![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=b433fd070940cc63ff8d538dcf99cd6f6143f688b0004ed668f94b31849f35bc&c=111594394)  
-IAS Logistics (Pty) Ltd T/A MULTITRANSIT
-
-![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=b433fd070940cc63ff8d538dcf99cd6f6143f688b0004ed668f94b31849f35bc&c=26369255)  
-Kinetic Power Solutions (Pty) Ltd.
-
-![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=b433fd070940cc63ff8d538dcf99cd6f6143f688b0004ed668f94b31849f35bc&c=23046955)  
-RADIO TYGERBERG 104FM NPC
-
-![valued client Sophia's Roses](https://www.invoicesonline.co.za/scripts/image.php?bid=5227&file=logo_300_100&type=&fe=b433fd070940cc63ff8d538dcf99cd6f6143f688b0004ed668f94b31849f35bc&c=91677089)  
-Sophia's Roses
-
-![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=b433fd070940cc63ff8d538dcf99cd6f6143f688b0004ed668f94b31849f35bc&c=18177106)  
-Durbanville Classifieds (Pty) Ltd
-
-![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=b433fd070940cc63ff8d538dcf99cd6f6143f688b0004ed668f94b31849f35bc&c=89403638)  
-Norton Medical & Consult - Namibia
-
-![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=b433fd070940cc63ff8d538dcf99cd6f6143f688b0004ed668f94b31849f35bc&c=187180457)  
-Salvage Genie
-
-![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=b433fd070940cc63ff8d538dcf99cd6f6143f688b0004ed668f94b31849f35bc&c=169252198)  
+![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=f71c1e2ca6326a805e7657efbcd54b56930c67b8a17efe5908eef0c1c0b8c01b&c=175535699)  
 Oak Tree Immigration
 
-![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=b433fd070940cc63ff8d538dcf99cd6f6143f688b0004ed668f94b31849f35bc&c=61196193)  
-Printo
+![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=f71c1e2ca6326a805e7657efbcd54b56930c67b8a17efe5908eef0c1c0b8c01b&c=7628982)  
+M's Frozen Delights
 
-![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=b433fd070940cc63ff8d538dcf99cd6f6143f688b0004ed668f94b31849f35bc&c=179199034)  
-TIGERDSL
+![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=f71c1e2ca6326a805e7657efbcd54b56930c67b8a17efe5908eef0c1c0b8c01b&c=108857847)  
+Electro-Heat
+
+![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=f71c1e2ca6326a805e7657efbcd54b56930c67b8a17efe5908eef0c1c0b8c01b&c=94857402)  
+Tiny Cuddles Photography
+
+![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=f71c1e2ca6326a805e7657efbcd54b56930c67b8a17efe5908eef0c1c0b8c01b&c=160436033)  
+Abandoned Vehicle and Truck Solutions
+
+![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=f71c1e2ca6326a805e7657efbcd54b56930c67b8a17efe5908eef0c1c0b8c01b&c=38469337)  
+Blue Sky Solar Services
+
+![valued client Meyer Towing & Recovery ](https://www.invoicesonline.co.za/scripts/image.php?bid=7983&file=logo_300_100&type=&fe=f71c1e2ca6326a805e7657efbcd54b56930c67b8a17efe5908eef0c1c0b8c01b&c=63149786)  
+Meyer Towing & Recovery
+
+![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=f71c1e2ca6326a805e7657efbcd54b56930c67b8a17efe5908eef0c1c0b8c01b&c=209114351)  
+Imvubu General Trading
+
+![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=f71c1e2ca6326a805e7657efbcd54b56930c67b8a17efe5908eef0c1c0b8c01b&c=15964954)  
+IAS Logistics (Pty) Ltd T/A MULTITRANSIT
+
+![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=f71c1e2ca6326a805e7657efbcd54b56930c67b8a17efe5908eef0c1c0b8c01b&c=101656045)  
+VerdanTech Pty Ltd
+
+![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=f71c1e2ca6326a805e7657efbcd54b56930c67b8a17efe5908eef0c1c0b8c01b&c=95286788)  
+SR Travel Services
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
