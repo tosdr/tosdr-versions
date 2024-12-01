@@ -1283,7 +1283,6 @@ Gå direkt till :
     * [Arbeta hos oss](https://www.sva.se/om-oss/arbeta-hos-oss/)[](#)
         * [Lediga jobb](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/)[](#)
             * [Laboratorieingenjör, BMA eller Mikrobiolog](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/laboratorieingenjor-bma-eller-mikrobiolog/)
-            * [Laboratorieingenjör alternativt BMA sökes till molekylär diagnostik](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/laboratorieingenjor-alternativt-bma-sokes-till-molekylar-diagnostik/)
             * [Lagerassistent- intermittent anställning](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/lagerassistent-intermittent-anstallning/)
             * [Receptionist - intermittent anställning](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/receptionist-intermittent-anstallning/)
             * [Lokalvårdare](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/lokalvardare/)
