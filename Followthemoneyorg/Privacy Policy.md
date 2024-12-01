@@ -66,9 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![pro-guncontrol](/assets/logos/NRAGunGIvingProCon201112.png)](http://www.followthemoney.org/research/institute-research/nra-direct-contributions-decline)
+[![NRG Energy Giving](/assets/Images/teasers/small/NRG.png)](http://www.followthemoney.org/research/blog/nrg-energy-blue-red-green/)
 
-Pro-gun-control was dramatically outspent, 2011-12.
+NRG Energy Giving, by Party, 2000-13.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
