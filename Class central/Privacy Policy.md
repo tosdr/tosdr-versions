@@ -412,36 +412,36 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 Most common
 
-1. java
+1. c
     
-2. sql
+2. finance
     
-3. harvard
+3. project management
     
 
 Popular subjects
 
-1. [Web Development
+1. [Psychology
     
-    13,821 courses](https://www.classcentral.com/subject/web-development)
-2. [Data Analysis
+    2,725 courses](https://www.classcentral.com/subject/psychology)
+2. [Algorithms and Data Structures
     
-    8,881 courses](https://www.classcentral.com/subject/data-analysis)
+    643 courses](https://www.classcentral.com/subject/algorithms-and-data-structures)
 3. [Cybersecurity
     
     16,944 courses](https://www.classcentral.com/subject/cybersecurity)
 
 Popular courses
 
-1. [Fractals and Scaling
+1. [Viruses & How to Beat Them: Cells, Immunity, Vaccines
     
-    Santa Fe Institute](https://www.classcentral.com/course/complexity-explorer-fractals-and-scaling-3612)
-2. [Mechanics of Materials I: Fundamentals of Stress & Strain and Axial Loading
+    Tel Aviv University](https://www.classcentral.com/course/edx-viruses-how-to-beat-them-cells-immunity-vaccines-9364)
+2. [Introduction to Biology - The Secret of Life
     
-    Georgia Institute of Technology](https://www.classcentral.com/course/mechanics-1-5031)
-3. [Learn Like a Pro: Science-Based Tools to Become Better at Anything
+    Massachusetts Institute of Technology](https://www.classcentral.com/course/biology-massachusetts-institute-of-technology-int-637)
+3. [Making Successful Decisions through the Strategy, Law & Ethics Model
     
-    edX](https://www.classcentral.com/course/how-to-learn-barbara-oakley-olav-schewe-learn-lik-40292)
+    University of Michigan](https://www.classcentral.com/course/strategy-law-ethics-6195)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
