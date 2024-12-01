@@ -99,6 +99,7 @@ Discover CNBCTV18
 * [Latest News](https://www.cnbctv18.com/latest-news/ "Latest News")
 * [LiveMarket Live](https://www.cnbctv18.com/market-live/ "Market Live")
 * [NewCalculators](https://www.cnbctv18.com/calculators/ "Calculators")
+* [NewIBLA 2024](https://www.cnbctv18.com/ibla/ "IBLA 2024")
 
 [Home](https://www.cnbctv18.com/ "Home")
 ----------------------------------------
