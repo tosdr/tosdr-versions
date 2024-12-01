@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/JH522830-pine-grove-surf-326x245.jpg)](https://cwbchicago.com/2024/11/man-shot-in-lakeview-on-wednesday-has-died-officials-say.html "Man shot in Lakeview on Wednesday has died, officials say")
+
+Lakeview
+
+### [Man shot in Lakeview on Wednesday has died, officials say](https://cwbchicago.com/2024/11/man-shot-in-lakeview-on-wednesday-has-died-officials-say.html "Man shot in Lakeview on Wednesday has died, officials say")
+
+[November 29, 2024 10:45 AM](https://cwbchicago.com/2024/11)
+
+The man who was found shot in a car in Lakeview on Wednesday morning has died, according to the Cook County medical examiner’s office. An autopsy will be conducted to determine if the man’s death was an accident, homicide, or suicide.[](https://cwbchicago.com/2024/11/man-shot-in-lakeview-on-wednesday-has-died-officials-say.html "Man shot in Lakeview on Wednesday has died, officials say")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/NAENB-A-MERSHAH-326x245.jpg)](https://cwbchicago.com/2024/11/bank-robber-identified-through-face-tats-and-ankle-monitor-gps-data-fbi-says.html "Bank robber identified through face tats and ankle monitor GPS data, FBI says")
+
+Edgewater
+
+### [Bank robber identified through face tats and ankle monitor GPS data, FBI says](https://cwbchicago.com/2024/11/bank-robber-identified-through-face-tats-and-ankle-monitor-gps-data-fbi-says.html "Bank robber identified through face tats and ankle monitor GPS data, FBI says")
+
+[November 29, 2024 7:57 AM](https://cwbchicago.com/2024/11)
+
+The FBI is charging a Chicago man with bank robbery, saying agents were able to identify him by his face tattoos and records from the court-ordered GPS ankle monitor he wore during the holdup.[](https://cwbchicago.com/2024/11/bank-robber-identified-through-face-tats-and-ankle-monitor-gps-data-fbi-says.html "Bank robber identified through face tats and ankle monitor GPS data, FBI says")
+
 [![](https://cwbchicago.com/wp-content/uploads/2023/12/Joshua-Williams-and-Amarise-Parker-326x245.jpg)](https://cwbchicago.com/2024/11/man-gets-26-years-for-strangling-15-year-old-girlfriend.html "Man gets 26 years for strangling 15-year-old ‘girlfriend’")
 
 South Shore
@@ -252,26 +272,6 @@ South Shore
 [November 29, 2024 6:57 AM](https://cwbchicago.com/2024/11)
 
 A man has been sentenced to 26 years in prison for strangling a 15-year-old girl he was “dating.” Joshua Williams, 25, already had a strangulation case pending in Colorado when first responders found Amarise Parker dead in his closet on December 10, 2023, officials said.[](https://cwbchicago.com/2024/11/man-gets-26-years-for-strangling-15-year-old-girlfriend.html "Man gets 26 years for strangling 15-year-old ‘girlfriend’")
-
-[![](https://cwbchicago.com/wp-content/uploads/2023/03/Generic34-326x245.jpg)](https://cwbchicago.com/2024/11/armed-robbers-busted-after-targeting-convenience-store-as-tv-news-crew-watched.html "Armed robbers busted after targeting convenience store as TV news crew watched")
-
-Chicago Lawn
-
-### [Armed robbers busted after targeting convenience store as TV news crew watched](https://cwbchicago.com/2024/11/armed-robbers-busted-after-targeting-convenience-store-as-tv-news-crew-watched.html "Armed robbers busted after targeting convenience store as TV news crew watched")
-
-[November 29, 2024 6:12 AM](https://cwbchicago.com/2024/11)
-
-Two suspects are in custody after they apparently robbed a Chicago Lawn restaurant on Wednesday morning shortly after they also robbed a south suburban convenience store as a TV news crew watched.[](https://cwbchicago.com/2024/11/armed-robbers-busted-after-targeting-convenience-store-as-tv-news-crew-watched.html "Armed robbers busted after targeting convenience store as TV news crew watched")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/5400-block-n-kenmore-326x245.jpg)](https://cwbchicago.com/2024/11/gunmen-carjack-driver-in-edgewater-on-thanksgiving-morning.html "Gunmen carjack driver in Edgewater on Thanksgiving morning")
-
-Edgewater
-
-### [Gunmen carjack driver in Edgewater on Thanksgiving morning](https://cwbchicago.com/2024/11/gunmen-carjack-driver-in-edgewater-on-thanksgiving-morning.html "Gunmen carjack driver in Edgewater on Thanksgiving morning")
-
-[November 28, 2024 7:17 PM](https://cwbchicago.com/2024/11)
-
-Two armed men carjacked a woman in Edgewater on Thanksgiving morning. No arrests have been announced so far.[](https://cwbchicago.com/2024/11/gunmen-carjack-driver-in-edgewater-on-thanksgiving-morning.html "Gunmen carjack driver in Edgewater on Thanksgiving morning")
 
 Search
 
