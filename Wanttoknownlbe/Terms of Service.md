@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/9-11/911-nog-een-keer-alle-idiotie-op-een-rijtje/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/journalist-te-koop/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
