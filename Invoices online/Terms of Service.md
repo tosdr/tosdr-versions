@@ -196,61 +196,59 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Support even on Sundays!
-> ------------------------
+> Quick and efficient support
+> ---------------------------
 > 
-> Thanks Adriaan...
+> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
 > 
-> You guys even work on Sundays?
-> 
-> I’m impressed!!
+> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
 
-Johan Botha - Brand Xplosion
+Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
 
-![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=0dab73fe596816815a809ea0214d052c4d8227b147c8eb85e430e25917a0a932&c=11673235)  
-CLEVER STUDENTS
+![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=55daf64a973ebc516ee5a5baf886e74dd6f6a98c5b3458fc7da2b05079d7cf48&c=148175340)  
+Goju-Ryu Pretoria East
 
-![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=0dab73fe596816815a809ea0214d052c4d8227b147c8eb85e430e25917a0a932&c=127138569)  
-OptaServ
+![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=55daf64a973ebc516ee5a5baf886e74dd6f6a98c5b3458fc7da2b05079d7cf48&c=45389426)  
+Well Hung Art
 
-![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=0dab73fe596816815a809ea0214d052c4d8227b147c8eb85e430e25917a0a932&c=150987809)  
-Blue Bulls Rugby Coaches Association
+![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=55daf64a973ebc516ee5a5baf886e74dd6f6a98c5b3458fc7da2b05079d7cf48&c=164804034)  
+Lion Software Develepment
 
-![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=0dab73fe596816815a809ea0214d052c4d8227b147c8eb85e430e25917a0a932&c=70851578)  
-Moving Made Easy (PTY) Ltd
+![valued client Sophia's Roses](https://www.invoicesonline.co.za/scripts/image.php?bid=5227&file=logo_300_100&type=&fe=55daf64a973ebc516ee5a5baf886e74dd6f6a98c5b3458fc7da2b05079d7cf48&c=60926691)  
+Sophia's Roses
 
-![valued client SafeTclip](https://www.invoicesonline.co.za/scripts/image.php?bid=8368&file=logo_300_100&type=&fe=0dab73fe596816815a809ea0214d052c4d8227b147c8eb85e430e25917a0a932&c=210789818)  
-SafeTclip
+![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=55daf64a973ebc516ee5a5baf886e74dd6f6a98c5b3458fc7da2b05079d7cf48&c=118863296)  
+Echo Recording Studio cc
 
-![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=0dab73fe596816815a809ea0214d052c4d8227b147c8eb85e430e25917a0a932&c=176311756)  
-Brand's Fountains Deco and Events Coordinatoin
+![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=55daf64a973ebc516ee5a5baf886e74dd6f6a98c5b3458fc7da2b05079d7cf48&c=7381160)  
+Karino Merinos ( PTY ) LTD
 
-![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=0dab73fe596816815a809ea0214d052c4d8227b147c8eb85e430e25917a0a932&c=107622817)  
-CBR Verwe/Paints
+![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=55daf64a973ebc516ee5a5baf886e74dd6f6a98c5b3458fc7da2b05079d7cf48&c=173729656)  
+Tracknetics
 
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=0dab73fe596816815a809ea0214d052c4d8227b147c8eb85e430e25917a0a932&c=65686581)  
-West Coast Horse Trails
+![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=55daf64a973ebc516ee5a5baf886e74dd6f6a98c5b3458fc7da2b05079d7cf48&c=135518232)  
+OXYAIDER (PTY) LTD
 
-![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=0dab73fe596816815a809ea0214d052c4d8227b147c8eb85e430e25917a0a932&c=175512990)  
-Import Maaw
+![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=55daf64a973ebc516ee5a5baf886e74dd6f6a98c5b3458fc7da2b05079d7cf48&c=45792799)  
+Electro-Heat
 
-![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=0dab73fe596816815a809ea0214d052c4d8227b147c8eb85e430e25917a0a932&c=148648725)  
-Baby Toddles Infant Care
+![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=55daf64a973ebc516ee5a5baf886e74dd6f6a98c5b3458fc7da2b05079d7cf48&c=213572440)  
+Itroniq (Pty) Ltd
 
-![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=0dab73fe596816815a809ea0214d052c4d8227b147c8eb85e430e25917a0a932&c=133503654)  
-AFS Electrical
+![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=55daf64a973ebc516ee5a5baf886e74dd6f6a98c5b3458fc7da2b05079d7cf48&c=56306006)  
+Moremi Kitchens Rustenburg
 
-![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=0dab73fe596816815a809ea0214d052c4d8227b147c8eb85e430e25917a0a932&c=118590575)  
-NGB HOLDINGS PTY LTD
+![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=55daf64a973ebc516ee5a5baf886e74dd6f6a98c5b3458fc7da2b05079d7cf48&c=196726027)  
+Vplay Grafix
 
-![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=0dab73fe596816815a809ea0214d052c4d8227b147c8eb85e430e25917a0a932&c=35951069)  
-NIMAWELL
+![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=55daf64a973ebc516ee5a5baf886e74dd6f6a98c5b3458fc7da2b05079d7cf48&c=165085402)  
+Imhoff Equestrian Centre
 
-![valued client Kara Medical (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=3913&file=logo_300_100&type=&fe=0dab73fe596816815a809ea0214d052c4d8227b147c8eb85e430e25917a0a932&c=199446225)  
-Kara Medical (Pty) Ltd
+![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=55daf64a973ebc516ee5a5baf886e74dd6f6a98c5b3458fc7da2b05079d7cf48&c=124793989)  
+Prosper Park
 
-![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=0dab73fe596816815a809ea0214d052c4d8227b147c8eb85e430e25917a0a932&c=190581690)  
-Waterfinatics Swim School
+![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=55daf64a973ebc516ee5a5baf886e74dd6f6a98c5b3458fc7da2b05079d7cf48&c=192494689)  
+MR Compressors& Industrial Supplies
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
