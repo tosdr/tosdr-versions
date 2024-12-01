@@ -313,7 +313,7 @@ article 1 week ago](https://science.nasa.gov/researchers/solicitations/roses-202
 
 ### December’s Night Sky Notes: Spot the King of Planets
 
-article 1 day ago](https://science.nasa.gov/solar-system/skywatching/night-sky-network/dec2024-night-sky-notes/)[![Amendment 73: D.13 Astrophysics Pioneers Substantial Revisions](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26185/PIA26185.jpg)
+article 2 days ago](https://science.nasa.gov/solar-system/skywatching/night-sky-network/dec2024-night-sky-notes/)[![Amendment 73: D.13 Astrophysics Pioneers Substantial Revisions](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26185/PIA26185.jpg)
 
 2 min read
 
