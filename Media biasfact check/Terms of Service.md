@@ -67,11 +67,11 @@
 
 MBFC News
 
+* [December 1, 2024 | Source of the Week: American Debunk](https://mediabiasfactcheck.com/2024/12/01/source-of-the-week-american-debunk/ "Source of the Week: American Debunk")
+* [December 1, 2024 | MBFC’s Daily Vetted Fact Checks for 12/01/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/12/01/mbfcs-daily-vetted-fact-checks-for-12-01-2024-weekend-edition/ "MBFC’s Daily Vetted Fact Checks for 12/01/2024 (Weekend Edition)")
 * [November 30, 2024 | MBFC’s Weekly Media Literacy Quiz Covering the Week of Nov 24th – Nov 30th](https://mediabiasfactcheck.com/2024/11/30/mbfcs-weekly-media-literacy-quiz-covering-the-week-of-nov-24th-nov-30th/ "MBFC’s Weekly Media Literacy Quiz Covering the Week of Nov 24th – Nov 30th")
 * [November 30, 2024 | MBFC’s Daily Vetted Fact Checks for 11/30/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/11/30/mbfcs-daily-vetted-fact-checks-for-11-30-2024-weekend-edition/ "MBFC’s Daily Vetted Fact Checks for 11/30/2024 (Weekend Edition)")
 * [November 29, 2024 | Media News Daily: Top Stories for 11/29/2024](https://mediabiasfactcheck.com/2024/11/29/media-news-daily-top-stories-for-11-29-2024/ "Media News Daily: Top Stories for 11/29/2024")
-* [November 29, 2024 | MBFC’s Daily Vetted Fact Checks for 11/29/2024](https://mediabiasfactcheck.com/2024/11/29/mbfcs-daily-vetted-fact-checks-for-11-29-2024/ "MBFC’s Daily Vetted Fact Checks for 11/29/2024")
-* [November 28, 2024 | MBFC’s Daily Vetted Fact Checks for 11/28/2024](https://mediabiasfactcheck.com/2024/11/28/mbfcs-daily-vetted-fact-checks-for-11-28-2024/ "MBFC’s Daily Vetted Fact Checks for 11/28/2024")
 
 Search for:  
 
@@ -147,6 +147,14 @@ No related posts.
 
 #### Recently Added Sources or Pages
 
+* [The Insider (Latvia) – Bias and Credibility](https://mediabiasfactcheck.com/the-insider-latvia-bias-and-credibility/)
+    
+    December 1, 2024
+    
+* [Harrison Daily Times – Bias and Credibility](https://mediabiasfactcheck.com/harrison-daily-times-bias-and-credibility/)
+    
+    December 1, 2024
+    
 * [First State Update – Bias and Credibility](https://mediabiasfactcheck.com/first-state-update-bias-and-credibility/)
     
     November 30, 2024
@@ -171,17 +179,19 @@ No related posts.
     
     November 29, 2024
     
-* [Blue Mountains Gazette – Bias and Credibility](https://mediabiasfactcheck.com/blue-mountains-gazette-bias/)
-    
-    November 29, 2024
-    
-* [Louth Leader – Bias and Credibility](https://mediabiasfactcheck.com/louth-leader-bias/)
-    
-    November 29, 2024
-    
 
 #### Recently Updated Pages
 
+* [Left-Center Bias](https://mediabiasfactcheck.com/leftcenter/ "View Left-Center Bias") - December 1, 2024
+    
+* [The Insider (Latvia) – Bias and Credibility](https://mediabiasfactcheck.com/the-insider-latvia-bias-and-credibility/ "View The Insider (Latvia) – Bias and Credibility") - December 1, 2024
+    
+* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - December 1, 2024
+    
+* [Harrison Daily Times – Bias and Credibility](https://mediabiasfactcheck.com/harrison-daily-times-bias-and-credibility/ "View Harrison Daily Times – Bias and Credibility") - December 1, 2024
+    
+* [Indonesia Government and Media Profile](https://mediabiasfactcheck.com/indonesia-media-profile/ "View Indonesia Government and Media Profile") - December 1, 2024
+    
 * [Geopolitical Economy Report – Bias and Credibility](https://mediabiasfactcheck.com/geopolitical-economy-report-bias/ "View Geopolitical Economy Report – Bias and Credibility") - November 30, 2024
     
 * [Turning Point USA – Bias and Credibility](https://mediabiasfactcheck.com/turning-point-usa/ "View Turning Point USA – Bias and Credibility") - November 30, 2024
@@ -192,29 +202,19 @@ No related posts.
     
 * [Channel 4 News (UK) – Bias and Credibility](https://mediabiasfactcheck.com/channel-4-news-uk/ "View Channel 4 News (UK) – Bias and Credibility") - November 30, 2024
     
-* [The Irish News – Bias and Credibility](https://mediabiasfactcheck.com/the-irish-news-bias/ "View The Irish News – Bias and Credibility") - November 30, 2024
-    
-* [Punchbowl News – Bias and Credibility](https://mediabiasfactcheck.com/punchbowl-news/ "View Punchbowl News – Bias and Credibility") - November 30, 2024
-    
-* [Poynter Institute – Bias and Credibility](https://mediabiasfactcheck.com/poynter-institute/ "View Poynter Institute – Bias and Credibility") - November 30, 2024
-    
-* [Washington Stand – Bias and Credibility](https://mediabiasfactcheck.com/washington-stand-bias-and-credibility/ "View Washington Stand – Bias and Credibility") - November 30, 2024
-    
-* [Psypost – Bias and Credibility](https://mediabiasfactcheck.com/psypost/ "View Psypost – Bias and Credibility") - November 30, 2024
-    
 
 #### Today’s Top Page Views
 
 * [Media Bias/Fact Check News](https://mediabiasfactcheck.com/)
-* [Least Biased](https://mediabiasfactcheck.com/center/)
 * [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
+* [Least Biased](https://mediabiasfactcheck.com/center/)
 * [The Express Tribune - Bias and Credibility](https://mediabiasfactcheck.com/the-express-tribune/)
-* [MBFC's Daily Vetted Fact Checks for 11/30/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/11/30/mbfcs-daily-vetted-fact-checks-for-11-30-2024-weekend-edition/)
 * [Independent Journal Review – Bias and Credibility](https://mediabiasfactcheck.com/independent-journal-review/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
+* [MBFC's Daily Vetted Fact Checks for 11/30/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/11/30/mbfcs-daily-vetted-fact-checks-for-11-30-2024-weekend-edition/)
 * [The Guardian - Bias and Credibility](https://mediabiasfactcheck.com/the-guardian/)
-* [NewsNation - Bias and Credibility](https://mediabiasfactcheck.com/newsnation/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
+* [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
 
 #### Subscribe via Email
 
