@@ -18,8 +18,6 @@ Your cart
 
 Loading...
 
-Order special instructions Order special instructions
-
 Subtotal
 --------
 
@@ -590,6 +588,24 @@ USD $ | United States
  Search [Hi ! You have  PTS](https://shop.angel.com/apps/bubblehouse/rewards/) [Log in](https://tuttletwins.store/account/login) [Cart](https://tuttletwins.store/cart)
 
 [Hi ! You have   PTS](https://shop.angel.com/apps/bubblehouse/rewards/)
+
+![](https://cdn.shopify.com/extensions/b3599435-711f-4146-86b0-fe3fe0b1fc40/gratify-6/assets/free-gift_26x.png)
+
+Free Gift ($10 Value)
+
+![](https://cdn.shopify.com/extensions/b3599435-711f-4146-86b0-fe3fe0b1fc40/gratify-6/assets/free-gift_26x.png)
+
+Free Gift ($15 Value)
+
+![](https://cdn.shopify.com/extensions/b3599435-711f-4146-86b0-fe3fe0b1fc40/gratify-6/assets/free-gift_26x.png)
+
+Free Gift ($80 Value)
+
+![](https://cdn.shopify.com/extensions/b3599435-711f-4146-86b0-fe3fe0b1fc40/gratify-6/assets/free-gift_26x.png)
+
+Free Gift ($140 Value)
+
+\*EXCLUSIONS: Only PHYSICAL products count towards free gifts.
 
 Refund policy
 =============
