@@ -13,7 +13,7 @@
     * [ARCHIVE](https://www.msx.org/archive)
 * [FORUM](https://www.msx.org/forum)
     * [MSX TALK](https://www.msx.org/forum/msx-talk)
-    * [DEBATES EN ESPAÑOL](https://www.msx.org/forum/debates-en-espa-ol)
+    * [DEBATES EN ESPAÑOL](https://www.msx.org/forum/debates-en-espagnol)
     * [MULTILINGUAL FORUMS](https://www.msx.org/forum/multilingual-forums-1)
 * [WIKI](http://www.msx.org/wiki/)
     * [INDEX](http://www.msx.org/wiki/)
@@ -150,19 +150,19 @@ Latest reactions
 
 Latest forum posts
 
-* [Christmas Quiz 2024](https://www.msx.org/forum/msx-talk/off-topic/christmas-quiz-2024 "Christmas Quiz 2024")
-* [MSX Goa'uld. Turn an MSX into a MSX 2+?](https://www.msx.org/forum/msx-talk/hardware/msx-goauld-turn-an-msx-into-a-msx-2?page=3 "MSX Goa'uld. Turn an MSX into a MSX 2+?")
+* [MSX Goa'uld. Turn an MSX into a MSX 2+?](https://www.msx.org/forum/msx-talk/hardware/msx-goauld-turn-an-msx-into-a-msx-2?page=4 "MSX Goa'uld. Turn an MSX into a MSX 2+?")
+* [CP HL,DE](https://www.msx.org/forum/msx-talk/development/cp-hlde "CP HL,DE")
 * [MSXgl – A new C game library for MSX](https://www.msx.org/forum/msx-talk/development/msxgl-%E2%80%93-a-new-c-game-library-for-msx?page=29 "MSXgl – A new C game library for MSX")
-* [Sony HB-F1XDJ not working](https://www.msx.org/forum/msx-talk/hardware/sony-hb-f1xdj-not-working "Sony HB-F1XDJ not working")
 * [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=125 "Please help testing upcoming openMSX release!")
+* [Outrun MSX2 WIP](https://www.msx.org/forum/msx-talk/development/outrun-msx2-wip?page=13 "Outrun MSX2 WIP")
+* [Panasonic A1GT circuit diagram, broken pads](https://www.msx.org/forum/msx-talk/hardware/panasonic-a1gt-circuit-diagram-broken-pads "Panasonic A1GT circuit diagram, broken pads")
+* [Arkos Tracker 3!](https://www.msx.org/forum/msx-talk/software/arkos-tracker-3?page=2 "Arkos Tracker 3!")
+* [Christmas Quiz 2024](https://www.msx.org/forum/msx-talk/off-topic/christmas-quiz-2024 "Christmas Quiz 2024")
+* [Sony HB-F1XDJ not working](https://www.msx.org/forum/msx-talk/hardware/sony-hb-f1xdj-not-working "Sony HB-F1XDJ not working")
 * [Omega MSX 2 Build Quiestions](https://www.msx.org/forum/msx-talk/hardware/omega-msx-2-build-quiestions "Omega MSX 2 Build Quiestions")
 * [H.E.R.O. Remake: Stranded Miners in Space](https://www.msx.org/forum/msx-talk/general-discussion/hero-remake-stranded-miners-in-space "H.E.R.O. Remake: Stranded Miners in Space")
 * [DalSoRi R2 on OpenMSX](https://www.msx.org/forum/msx-talk/openmsx/dalsori-r2-on-openmsx?page=1 "DalSoRi R2 on OpenMSX")
 * [Penguin Adventure Remake - pre Alpha](https://www.msx.org/forum/msx-talk/general-discussion/penguin-adventure-remake-pre-alpha?page=1 "Penguin Adventure Remake - pre Alpha")
-* [Possible VDP issue with Sanyo Wavy 35 (Sanyo PHC-35J)](https://www.msx.org/forum/msx-talk/hardware/possible-vdp-issue-with-sanyo-wavy-35-sanyo-phc-35j?page=1 "Possible VDP issue with Sanyo Wavy 35 (Sanyo PHC-35J)")
-* [TRH9000 V9990 & Spiderwave OPL4 don't work in Slotx4?](https://www.msx.org/forum/msx-talk/hardware/trh9000-v9990-spiderwave-opl4-dont-work-in-slotx4?page=1 "TRH9000 V9990 & Spiderwave OPL4 don't work in Slotx4?")
-* [vFM (virtual Full Music) MSX universal audio Cartridge](https://www.msx.org/forum/msx-talk/hardware/vfm-virtual-full-music-msx-universal-audio-cartridge?page=8 "vFM (virtual Full Music) MSX universal audio Cartridge")
-* [Dirt-cheap Vaus paddle clone for MSX](https://www.msx.org/forum/msx-talk/hardware/dirt-cheap-vaus-paddle-clone-for-msx?page=4 "Dirt-cheap Vaus paddle clone for MSX")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
