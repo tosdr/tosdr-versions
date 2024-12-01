@@ -1,6 +1,6 @@
 Skip to Header Skip to Main Content Skip to Footer
 
-[Black Friday Deals are live! Shop deals](https://leaseweb.com/en/black-friday-2024?utm_source=website&utm_medium=ribbon&utm_campaign=BlackFriday&utm_content=Global)
+[The holiday cheer is here! Unwrap savings with our Advent Calendar deals today!](https://www.leaseweb.com/en/advent-calendar-2024?utm_source=website&utm_medium=ribbon&utm_campaign=AdventCalendar&utm_content=Global)
 
 [Blog](https://blog.leaseweb.com/)[Knowledge Base](https://kb.leaseweb.com/)[Developer API](http://developer.leaseweb.com/)[Status](https://www.leasewebstatus.com/)[Customer Portal](https://secure.leaseweb.com/)
 
