@@ -314,15 +314,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Jason Isaacs, who portrays Lucius Malfoy, believes that Lucius is cold to Draco because Lucius was raised in a similar way.
+The Sorting Hat took 5 and a half minutes to figure out whether to put Minerva McGonagall in Gryffindor or Ravenclaw.
 
 ### Potter History
 
-November 12, 2013 – Wonderbook: Book of Potions is released for PlayStation 3 in North America.
+August 11, 2012 – StarKid does a reading of A Very Potter Senior Year at LeakyCon in Chicago.
 
 ### Potter Quote
 
-“I think they think I’m a bit odd, you know. Some people call me ‘Loony’ Lovegood, actually.”
+“Grindelwald doesn’t seem to understand the nature of things he considers simple.”
 
 [](#)
 
