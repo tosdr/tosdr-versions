@@ -76,13 +76,13 @@ article4 days ago](https://science.nasa.gov/universe/exoplanets/discovery-alert-
 
 ### NASA Data Reveals Role of Green Spaces in Cooling Cities
 
-article4 days ago](https://science.nasa.gov/earth/climate-change/nasa-data-reveals-role-of-green-spaces-in-cooling-cities/)[![Europa Clipper illustration](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia26443-spacecraft-illustration.jpg?w=1024)
+article5 days ago](https://science.nasa.gov/earth/climate-change/nasa-data-reveals-role-of-green-spaces-in-cooling-cities/)[![Europa Clipper illustration](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia26443-spacecraft-illustration.jpg?w=1024)
 
 5 min read
 
 ### NASA’s Europa Clipper: Millions of Miles Down, Instruments Deploying
 
-article5 days ago](https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-millions-of-miles-down-instruments-deploying/)
+article6 days ago](https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-millions-of-miles-down-instruments-deploying/)
 
 Back
 
@@ -253,13 +253,13 @@ article 5 days ago](https://www.nasa.gov/general/nasas-commercial-partners-make-
 
 ### NASA’s Europa Clipper: Millions of Miles Down, Instruments Deploying
 
-article 5 days ago](https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-millions-of-miles-down-instruments-deploying/)[![NASA, JAXA XRISM Mission Looks Deeply Into ‘Hidden’ Stellar System](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/xrism/News/2024/cygnus-x-3/Cyg_X-3_illustration_AC.jpg)
+article 6 days ago](https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-millions-of-miles-down-instruments-deploying/)[![NASA, JAXA XRISM Mission Looks Deeply Into ‘Hidden’ Stellar System](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/xrism/News/2024/cygnus-x-3/Cyg_X-3_illustration_AC.jpg)
 
 4 min read
 
 ### NASA, JAXA XRISM Mission Looks Deeply Into ‘Hidden’ Stellar System
 
-article 5 days ago](https://science.nasa.gov/missions/xrism/nasa-jaxa-xrism-mission-looks-deeply-into-hidden-stellar-system/)
+article 6 days ago](https://science.nasa.gov/missions/xrism/nasa-jaxa-xrism-mission-looks-deeply-into-hidden-stellar-system/)
 
 ### Highlights
 
@@ -297,7 +297,7 @@ article 4 days ago](https://science.nasa.gov/open-science/artificial-intelligenc
 
 ### NASA Data Reveals Role of Green Spaces in Cooling Cities
 
-article 4 days ago](https://science.nasa.gov/earth/climate-change/nasa-data-reveals-role-of-green-spaces-in-cooling-cities/)[![Amendment 70: New Opportunity: A.62 FarmFlux Science Team](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/content-feature/carboncycle/images/abandoned_farm.jpg)
+article 5 days ago](https://science.nasa.gov/earth/climate-change/nasa-data-reveals-role-of-green-spaces-in-cooling-cities/)[![Amendment 70: New Opportunity: A.62 FarmFlux Science Team](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/content-feature/carboncycle/images/abandoned_farm.jpg)
 
 2 min read
 
@@ -401,7 +401,7 @@ article 2 weeks ago](https://www.nasa.gov/dynamic-spin-rig-publications/)
 
 ### An Electronic Traffic Monitor for Airports 
 
-article 3 days ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/an-electronic-traffic-monitor-for-airports/)[![Amendment 71: F.11 Stand-Alone Landing Site-Agnostic Payloads and Research Investigations on the Surface of the Moon Final Text and Due Dates Released.](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/lunar-science/science-payloads/prospect/Prospect_wide_horizontal.png)
+article 4 days ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/an-electronic-traffic-monitor-for-airports/)[![Amendment 71: F.11 Stand-Alone Landing Site-Agnostic Payloads and Research Investigations on the Surface of the Moon Final Text and Due Dates Released.](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/lunar-science/science-payloads/prospect/Prospect_wide_horizontal.png)
 
 2 min read
 
