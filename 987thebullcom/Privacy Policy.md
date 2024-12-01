@@ -349,11 +349,11 @@ Recently Played
 
 |     |
 | --- |
-| Wolves CryBryan Martin<br><br>4:41am |
-| The Kind Of Love We MakeLuke Combs<br><br>4:35am |
-| TexasBlake Shelton<br><br>4:32am |
-| Something Like ThatTim Mcgraw<br><br>4:30am |
-| You Look Like You Love MeElla Langley Ft Riley Green<br><br>4:26am |
+| I Never LieZach Top<br><br>10:38am |
+| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>10:35am |
+| Where It EndsBailey Zimmerman<br><br>10:32am |
+| Die A Happy ManThomas Rhett<br><br>10:28am |
+| Fancy LikeWalker Hayes<br><br>10:25am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -497,17 +497,17 @@ State
 Featured Brands
 ---------------
 
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
-Country • Western
-
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
-
-Top 40 • Pacific NW
+News Talk • Eastern
 
 [![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
 Spanish • Western
+
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+
+Top 40 • Pacific NW
 
 [![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
