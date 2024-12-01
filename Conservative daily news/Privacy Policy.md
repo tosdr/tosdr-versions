@@ -1,4 +1,4 @@
-Saturday, November 30 2024
+Sunday, December 1 2024
 
 Breaking News
 
@@ -130,6 +130,12 @@ Orange = One-Time Donations
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/stg113024dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/5-stages/)
+    
+    [5 Stages…](https://www.conservativedailynews.com/2024/11/5-stages/)
+    
+    November 30, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2018/09/Elon-Musk.jpg)](https://www.conservativedailynews.com/2024/11/elon-musk-demands-shutdown-of-consumer-bureau/)
     
     [Elon Musk Demands Shutdown Of Consumer Bureau](https://www.conservativedailynews.com/2024/11/elon-musk-demands-shutdown-of-consumer-bureau/)
@@ -172,15 +178,10 @@ Recent Posts
     
     November 28, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/IMG_5833-220x150.jpeg)](https://www.conservativedailynews.com/2024/11/a-lame-duck-biden-could-put-the-world-in-peril/)
-    
-    [A Lame Duck Biden Could Put The World In Peril](https://www.conservativedailynews.com/2024/11/a-lame-duck-biden-could-put-the-world-in-peril/)
-    
-    November 28, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Silencer Saturday #357: Black Friday Suppressor Sales](https://www.thegunpage.com/silencer-saturday-357-black-friday-suppressor-sales/10612207)
 * [The BAD KAK WW III Build](https://www.thegunpage.com/the-bad-kak-ww-iii-build/10612204)
 * [Illegal Alien’s Purchase Of 170 Guns Raises Eyebrows](https://www.thegunpage.com/illegal-aliens-purchase-of-170-guns-raises-eyebrows/10612201)
 * [Why the First Kalashnikov Machine Gun was a Complete Failure?](https://www.thegunpage.com/why-the-first-kalashnikov-machine-gun-was-a-complete-failure/10612197)
@@ -190,7 +191,6 @@ Recent Posts
 * [Smith & Wesson Gets Booted Off Facebook](https://www.thegunpage.com/smith-wesson-gets-booted-off-facebook/10612194)
 * [NY Pols Plan To Require Firearms Seizures At Domestic Calls](https://www.thegunpage.com/ny-pols-plan-to-require-firearms-seizures-at-domestic-calls/10612188)
 * [Oldest Gun Ever Found In U.S. Unearthed In Arizona](https://www.thegunpage.com/oldest-gun-ever-found-in-u-s-unearthed-in-arizona/10612185)
-* [China Builds A Recoilless 7.62 Round… For Drones!](https://www.thegunpage.com/china-builds-a-recoilless-7-62-round-for-drones/10612189)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
