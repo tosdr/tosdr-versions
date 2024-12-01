@@ -64,7 +64,7 @@ Last Updated: July 1, 2024
 
 English
 
-[![Printer Friendly, PDF & Email](//cdn.printfriendly.com/buttons/printfriendly-pdf-button-nobg.png)](https://www.printfriendly.com/print?url=https://www.nbcuniversal.com/taxonomy/term/56 "Printer Friendly, PDF & Email")
+[![Printer Friendly, PDF & Email](//cdn.printfriendly.com/buttons/printfriendly-pdf-button-nobg.png)](https://www.printfriendly.com/print?url=https://www.nbcuniversal.com/taxonomy/term/59?action=m68y5&api=eylwa&c=yrtp3&categoryid=h3lvx&email=cdj8e&emailto=fywv2&jsonp=t4akr&keywords=yfh5y&lang=d6v7i&m=hhymg&name=%22-f3f549-%22&query=f66ik&s=dekdu&search=ob61w&text=pu546&tid=ahsef&token=yjylb&type=nbno7&uid=mbauj&unsubscribe_token=uw5gz "Printer Friendly, PDF & Email")
 
 NBCUniversal Privacy Policy
 ===========================
