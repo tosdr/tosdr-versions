@@ -50,7 +50,7 @@ Main navigation
     
     #### Featured
     
-    [Shop All](https://www.morphe.com/collections/shop-new-arrivals) [Holiday Drama](https://www.morphe.com/pages/holiday-drama) [Mixed Signals Shadow Sticks](https://www.morphe.com/products/mixed-signals-dual-ended-cream-liquid-shadow-stick-flirtatious-faithful) [Brow Tease Mousse](https://www.morphe.com/products/brow-tease-fiber-infused-volumizing-mousse-almond) [Hot Shot Drops](https://www.morphe.com/pages/cheeks) [Morphe X Ariel](https://www.morphe.com/collections/ariel-makeup-artist-makeup-brush-collection) [Lightform Foundation](https://www.morphe.com/products/lightform-extended-hydration-foundation-medium-13n)
+    [Shop All](https://www.morphe.com/collections/shop-new-arrivals) [Holiday Drama](https://www.morphe.com/pages/holiday-drama) [Bi-Liner Dual-Ended Gel Liners](https://www.morphe.com/products/bi-liner-dual-ended-gel-liners-now-or-later-lilac-shimmer-purple) [Mixed Signals Shadow Sticks](https://www.morphe.com/products/mixed-signals-dual-ended-cream-liquid-shadow-stick-flirtatious-faithful) [Brow Tease Mousse](https://www.morphe.com/products/brow-tease-fiber-infused-volumizing-mousse-almond) [Morphe X Ariel](https://www.morphe.com/collections/ariel-makeup-artist-makeup-brush-collection) [Lightform Foundation](https://www.morphe.com/products/lightform-extended-hydration-foundation-medium-13n)
     
     [![Totally Fall For These Morphe Makeup Favorites](//www.morphe.com/cdn/shop/articles/Morphe-2024-October-Blog-FallMakeup-Thumbail-1020x580_600x.jpg?v=1730233553)
     
@@ -210,11 +210,11 @@ Main navigation
     
     [Holiday Drama](https://www.morphe.com/pages/holiday-drama)
     
+    [Bi-Liner Dual-Ended Gel Liners](https://www.morphe.com/products/bi-liner-dual-ended-gel-liners-now-or-later-lilac-shimmer-purple)
+    
     [Mixed Signals Shadow Sticks](https://www.morphe.com/products/mixed-signals-dual-ended-cream-liquid-shadow-stick-flirtatious-faithful)
     
     [Brow Tease Mousse](https://www.morphe.com/products/brow-tease-fiber-infused-volumizing-mousse-almond)
-    
-    [Hot Shot Drops](https://www.morphe.com/pages/cheeks)
     
     [Morphe X Ariel](https://www.morphe.com/collections/ariel-makeup-artist-makeup-brush-collection)
     
