@@ -74,14 +74,14 @@ Trending Posts
 --------------
 
 * [Everything you've heard about this election is wrong. Dr. Richard Wolff explains why.](https://therealnews.com/everything-youve-heard-about-this-election-is-wrong-dr-richard-wolff-explains-why)
-* [10 ways to be prepared and grounded now that Trump has won](https://therealnews.com/10-ways-to-be-prepared-and-grounded-now-that-trump-has-won)
 * [The bad, the worse, and the ugly: Trump's incoming cabinet](https://therealnews.com/the-bad-the-worse-and-the-ugly-trumps-incoming-cabinet)
-* [Union president explains the existential threat Trump poses to organized labor—and how we fight back](https://therealnews.com/union-president-explains-the-existential-threat-trump-poses-to-organized-labor-and-how-we-fight-back)
+* [10 ways to be prepared and grounded now that Trump has won](https://therealnews.com/10-ways-to-be-prepared-and-grounded-now-that-trump-has-won)
 * [Yes, the 'nonprofit killer' bill is that bad—but it's not invincible](https://therealnews.com/yes-the-nonprofit-killer-bill-is-that-bad-but-its-not-invincible)
+* [Union president explains the existential threat Trump poses to organized labor—and how we fight back](https://therealnews.com/union-president-explains-the-existential-threat-trump-poses-to-organized-labor-and-how-we-fight-back)
 * [How Big Tech made Trump 2.0](https://therealnews.com/how-big-tech-made-trump-2-0)
 * [What a can of tuna can teach us about international workers' solidarity](https://therealnews.com/what-a-can-of-tuna-can-teach-us-about-international-workers-solidarity)
-* [Why did Democrats lose? Just listen to the voters.](https://therealnews.com/why-did-democrats-lose-just-listen-to-the-voters)
 * ['Ascension Hospital...is making a mockery of the Church doctrine': Baltimore Catholic nurses picket Bishops for fair contract](https://therealnews.com/ascension-hospital-is-making-a-mockery-of-the-church-doctrine-baltimore-catholic-nurses-picket-bishops-for-fair-contract)
+* [Why did Democrats lose? Just listen to the voters.](https://therealnews.com/why-did-democrats-lose-just-listen-to-the-voters)
 * [Unmarked Sacramento gang unit cops stop, arrest father and child at gunpoint](https://therealnews.com/unmarked-sacramento-gang-unit-cops-stop-arrest-father-and-child-at-gunpoint)
 
 Close
@@ -138,14 +138,14 @@ Trending Posts
 --------------
 
 * [Everything you've heard about this election is wrong. Dr. Richard Wolff explains why.](https://therealnews.com/everything-youve-heard-about-this-election-is-wrong-dr-richard-wolff-explains-why)
-* [10 ways to be prepared and grounded now that Trump has won](https://therealnews.com/10-ways-to-be-prepared-and-grounded-now-that-trump-has-won)
 * [The bad, the worse, and the ugly: Trump's incoming cabinet](https://therealnews.com/the-bad-the-worse-and-the-ugly-trumps-incoming-cabinet)
-* [Union president explains the existential threat Trump poses to organized labor—and how we fight back](https://therealnews.com/union-president-explains-the-existential-threat-trump-poses-to-organized-labor-and-how-we-fight-back)
+* [10 ways to be prepared and grounded now that Trump has won](https://therealnews.com/10-ways-to-be-prepared-and-grounded-now-that-trump-has-won)
 * [Yes, the 'nonprofit killer' bill is that bad—but it's not invincible](https://therealnews.com/yes-the-nonprofit-killer-bill-is-that-bad-but-its-not-invincible)
+* [Union president explains the existential threat Trump poses to organized labor—and how we fight back](https://therealnews.com/union-president-explains-the-existential-threat-trump-poses-to-organized-labor-and-how-we-fight-back)
 * [How Big Tech made Trump 2.0](https://therealnews.com/how-big-tech-made-trump-2-0)
 * [What a can of tuna can teach us about international workers' solidarity](https://therealnews.com/what-a-can-of-tuna-can-teach-us-about-international-workers-solidarity)
-* [Why did Democrats lose? Just listen to the voters.](https://therealnews.com/why-did-democrats-lose-just-listen-to-the-voters)
 * ['Ascension Hospital...is making a mockery of the Church doctrine': Baltimore Catholic nurses picket Bishops for fair contract](https://therealnews.com/ascension-hospital-is-making-a-mockery-of-the-church-doctrine-baltimore-catholic-nurses-picket-bishops-for-fair-contract)
+* [Why did Democrats lose? Just listen to the voters.](https://therealnews.com/why-did-democrats-lose-just-listen-to-the-voters)
 * [Unmarked Sacramento gang unit cops stop, arrest father and child at gunpoint](https://therealnews.com/unmarked-sacramento-gang-unit-cops-stop-arrest-father-and-child-at-gunpoint)
 
 [Skip to content](#main)
