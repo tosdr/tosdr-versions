@@ -76,10 +76,6 @@ Search
 
 Search
 
-#### Breaking News
-
-[Trump picks Kash Patel for FBI director](https://nypost.com/2024/11/30/us-news/trump-taps-longtime-ally-kash-patel-to-lead-fbi/)
-
 Privacy Notice Highlights
 =========================
 
