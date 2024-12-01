@@ -19,6 +19,7 @@
 
 * [Leaderboards](https://emoji.gg/creators)
 * [Emoji Maker](https://emoji.gg/maker)
+* Collection
 
 * * *
 
