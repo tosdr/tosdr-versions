@@ -1,5 +1,3 @@
-[Black Friday Deal is running 🔥Get +3 free months at a LOWER price – claim your discount now 🔥](https://app.zoogvpn.com/checkout)
-
 [![](https://zoogvpn.com/wp-content/uploads/2021/09/zoog-vpn-logo-dark.png)](https://zoogvpn.com/)
 
 * [Products](https://zoogvpn.com/vpn-downloads/)
