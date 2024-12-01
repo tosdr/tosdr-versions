@@ -123,44 +123,44 @@ Advertisement
     The Fog of War
     
     Winner of the Academy Award for Best DocumentaryIt is the story of America as seen through the eyes of the former Secretary of Defense, Robert S. McNamara. One of the most controversial and influe...](https://documentaryheaven.com/the-fog-of-war/ "The Fog of War")
-* [![Why The Industrial Revolution Happened Here](/wp-content/thumbnails/8018-100x70.jpeg?x53432)
-    
-    Why The Industrial Revolution Happened Here
-    
-    Professor Jeremy Black examines one of the most extraordinary periods in British history: the Industrial Revolution. He explains the unique economic, social and political conditions that by the 19th c...](https://documentaryheaven.com/why-industrial-revolution-happened-here/ "Why The Industrial Revolution Happened Here")
 * [![Louis Theroux: Drinking To Oblivion](/wp-content/thumbnails/16353-100x70.jpg?x53432)
     
     Louis Theroux: Drinking To Oblivion
     
     Drinking To Oblivion sees Louis Theroux set about spending some time in the world of extreme drinkers, getting to know people who consume alcohol not just to excess but to the point of total oblivio...](https://documentaryheaven.com/louis-theroux-drinking-to-oblivion/ "Louis Theroux: Drinking To Oblivion")
+* [![Why The Industrial Revolution Happened Here](/wp-content/thumbnails/8018-100x70.jpeg?x53432)
+    
+    Why The Industrial Revolution Happened Here
+    
+    Professor Jeremy Black examines one of the most extraordinary periods in British history: the Industrial Revolution. He explains the unique economic, social and political conditions that by the 19th c...](https://documentaryheaven.com/why-industrial-revolution-happened-here/ "Why The Industrial Revolution Happened Here")
 
 ###### Throwback Documentaries
 
-* [![Cry of the Snow Lion](/wp-content/thumbnails/1604-100x70.jpg?x53432)
+* [![Chris Benoit: Dark Side of the Ring](/wp-content/thumbnails/16188-100x70.jpg?x53432)
     
-    Cry of the Snow Lion
+    Chris Benoit: Dark Side of the Ring
     
-    Ten years in the making, this award-winning feature-length documentary was filmed during nine journeys throughout Tibet, India and Nepal. Cry of the Snow Lion brings audiences to the long-forbidden "r](https://documentaryheaven.com/cry-of-the-snow-lion/ "Cry of the Snow Lion")
-* [![Mein Kampf: The Story of Adolf Hitler](/wp-content/thumbnails/9332-100x70.jpg?x53432)
+    Chris Benoit was a professional wrestler who murdered his wife and 7-year old son, before taking his own life in a murder-suicide at the family home. The incident took place over a three day period f](https://documentaryheaven.com/chris-benoit-dark-side-ring/ "Chris Benoit: Dark Side of the Ring")
+* [![Hitlers Stealth Jet Fighter](/wp-content/thumbnails/6885-100x70.png?x53432)
     
-    Mein Kampf: The Story of Adolf Hitler
+    Hitlers Stealth Jet Fighter
     
-    Adolf Hitler wrote Mein Kampf (My Struggle), a book filled with hatred, it's last passage is this fanatical cry "A state that refuses racial contamination will inevitably dominate the world". Thi](https://documentaryheaven.com/mein-kampf-story-adolf-hitler/ "Mein Kampf: The Story of Adolf Hitler")
-* [![Stuck in Traffick](/wp-content/thumbnails/8798-100x70.jpg?x53432)
+    In the final months of World War II, American troops discovered a top-secret facility in Germany with an advanced batwing-shaped jet fighter. If Nazi engineers had had more time, would this jet have u](https://documentaryheaven.com/hitlers-stealth-jet-fighter/ "Hitlers Stealth Jet Fighter")
+* [![The Mystery of Empty Space](/wp-content/thumbnails/3045-100x70.jpg?x53432)
     
-    Stuck in Traffick
+    The Mystery of Empty Space
     
-    'Stuck in Traffick' is a documentary bringing awareness to the child sex trade in Phoenix. Sex trafficking is the fastest growing criminal industry in the world and at least 100,000 minors are forced](https://documentaryheaven.com/stuck-in-traffick/ "Stuck in Traffick")
-* [![The Bronzer](/wp-content/thumbnails/6988-100x70.jpg?x53432)
+    Get ready to re-think your ideas of reality. Join UCSD physicist Kim Griest as he takes you on a fascinating excursion, addressing some of the massive efforts and tantalizing bits of evidence which su](https://documentaryheaven.com/the-mystery-of-empty-space/ "The Mystery of Empty Space")
+* [![Eritrea: Africa’s North Korea](/wp-content/thumbnails/12777-100x70.jpg?x53432)
     
-    The Bronzer
+    Eritrea: Africa’s North Korea
     
-    Stu Larkin is a dying breed: one of the last traveling salesmen left in America. He travels the country taking orders for bronzed baby shoes, which has been a popular American tradition for over 80 ye](https://documentaryheaven.com/the-bronzer/ "The Bronzer")
-* [![In The Valley Of The Pharaoh](/wp-content/thumbnails/12547-100x70.jpg?x53432)
+    Located beside Ethiopia and Sudan, Eritrea is one of the most censored countries in the world, so much so that it is frequently compared to North Korea. Eritrea won it's independence back in](https://documentaryheaven.com/eritrea-africas-north-korea/ "Eritrea: Africa’s North Korea")
+* [![The Story Of Technoviking](/wp-content/thumbnails/10190-100x70.jpg?x53432)
     
-    In The Valley Of The Pharaoh
+    The Story Of Technoviking
     
-    In The Valley of The Pharaoh is a short documentary directed by Irish filmmaker Tommy Flavin (www.tommyflavin.ie), the film itself takes us to the edge of a small Irish town known as Arklow. Whilst he](https://documentaryheaven.com/in-valley-of-pharaoh/ "In The Valley Of The Pharaoh")
+    The "Techno Viking", for those that don't already know was one of the very first internet phenomenon's or meme's, it is a 4-minute video shot by experimental video artist Matthias Fritsch at the 2000](https://documentaryheaven.com/story-of-technoviking/ "The Story Of Technoviking")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
