@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Compliment the Above Nation III (7,492)](https://forum.nationstates.net/viewtopic.php?t=513965&f=25&view=unread#unread ""Compliment the Above Nation III" (7,492 posts)")
-* [Internal and International Incidents… (4,692)](https://forum.nationstates.net/viewtopic.php?t=525784&f=5&view=unread#unread ""Internal and International Incidents [OOC • OPEN]" (4,692 posts)")
-* [Using the AN's flag, how do they deal… (9,085)](https://forum.nationstates.net/viewtopic.php?t=508055&f=25&view=unread#unread ""Using the AN's flag, how do they deal with traitors? III" (9,085 posts)")
-* [Say a random sentence (9,631)](https://forum.nationstates.net/viewtopic.php?t=514647&f=25&view=unread#unread ""Say a random sentence" (9,631 posts)")
-* [HansAir Under-18 World Championship 2… (9)](https://forum.nationstates.net/viewtopic.php?t=559035&f=7&view=unread#unread ""HansAir Under-18 World Championship 23 SIGNUPS" (9 posts)")
+* [Tiami's Endless Tacos (1,560)](https://forum.nationstates.net/viewtopic.php?t=558437&f=20&view=unread#unread ""Tiami's Endless Tacos" (1,560 posts)")
+* [The Problem about \[Radical\] Islam (es… (375)](https://forum.nationstates.net/viewtopic.php?t=557387&f=20&view=unread#unread ""The Problem about [Radical] Islam (especially to Turks)" (375 posts)")
+* [Emboldened 'manosphere' accelerates t… (41)](https://forum.nationstates.net/viewtopic.php?t=559050&f=20&view=unread#unread ""Emboldened 'manosphere' accelerates threats against women" (41 posts)")
+* [VVK - Kanzlian Domestic Football News… (34)](https://forum.nationstates.net/viewtopic.php?t=553648&f=7&view=unread#unread ""VVK - Kanzlian Domestic Football Newswire" (34 posts)")
+* [YOU'RE FIRED! (791)](https://forum.nationstates.net/viewtopic.php?t=555261&f=25&view=unread#unread ""YOU'RE FIRED!" (791 posts)")
 
 Advertisement
 
