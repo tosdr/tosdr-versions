@@ -76,9 +76,9 @@ Search
 
 Search
 
-#### Exclusive
+#### Breaking News
 
-[NYC staffer paid to promote diversity caught ripping down Israel hostage poster, allegedly assaulting person filming it](https://nypost.com/2024/11/30/us-news/nyc-staffer-paid-to-promote-diversity-caught-ripping-down-israel-hostage-poster-allegedly-assaulting-person-filming-it/)
+[Trump picks Kash Patel for FBI director](https://nypost.com/2024/11/30/us-news/trump-taps-longtime-ally-kash-patel-to-lead-fbi/)
 
 Privacy Notice Highlights
 =========================
