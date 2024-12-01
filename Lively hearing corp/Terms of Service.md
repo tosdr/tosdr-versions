@@ -1,18 +1,16 @@
 You need to enable JavaScript to run Jabra Enhance.
 
-Take $300 off the Enhance Select 500! [Shop](https://www.listenlively.com/product)
+The Enhance Select 500 has arrived! [Shop now](https://www.listenlively.com/product/enhanceselect500)
 
-Take $300 off the Enhance Select 500! [Shop now](https://www.listenlively.com/product)
+The Enhance Select 500 has arrived! [Shop now](https://www.listenlively.com/product/enhanceselect500)
 
-Take $300 off the Enhance Select 500! [Shop now](https://www.listenlively.com/product)
+The Enhance Select 500 has arrived! [Shop now](https://www.listenlively.com/product/enhanceselect500)
 
 100-day risk-free trial, US-based support!
 
 100-day risk-free trial and US-based customer support!
 
 100-day risk-free trial and US-based customer support!
-
-[Last chance to save $300 on the Select 500!Last chance to save $300 on the Select 500!Last chance to save $300 on the Select 500! **Sale ends in 2h : 23m : 37s**](https://www.listenlively.com/product)
 
 [Jabra EnhanceTM](https://www.listenlively.com/)
 
@@ -26,31 +24,14 @@ Schedule call[(800) 854-2772](tel:8008542772)
 
 Previous
 
-![Sale Banner Background Image](https://cdn.jabraenhance.com/cdn-cgi/image/width=3840,quality=80,format=auto/web/sales/black-friday-sale-2024-desktop-background.jpg)![Sale Banner Foreground Image](https://cdn.jabraenhance.com/cdn-cgi/image/width=3840,quality=80,format=auto/web/sales/black-friday-sale-2024-desktop-foreground.png)
+![](/cdn-cgi/image/width=1920,quality=80,format=auto/_next/static/media/es500-hiw-poster.46b3f9b9.jpg)Play video
 
-Take $300 off
-=============
+Latest
 
-the Select 500!
-===============
+It’s your hearing. Let’s make the most of it.
+---------------------------------------------
 
-Let shopping season begin
-
-Take $300 off
--------------
-
-the Select 500!
----------------
-
-Let shopping season begin
-
-Take $300 off
-=============
-
-the Select 500!
-===============
-
-Let shopping season begin
+The Select 500 has the **clearest** sound we offer in the **smallest** hearing aid we make.
 
 [Shop now](https://www.listenlively.com/product)
 
@@ -61,14 +42,10 @@ With our advanced hearing aids and recommended expert care, you'll be hearing be
 
 [Start your 100-day trial](https://www.listenlively.com/survey)[Shop for hearing aids ›](https://www.listenlively.com/product)
 
-![](/cdn-cgi/image/width=1920,quality=80,format=auto/_next/static/media/default-desktop-test1.292815d0.jpg)[##### Save $300!
-
-**Shop now**](https://www.listenlively.com/product)[##### Save $300!
-
-**Shop now**](https://www.listenlively.com/product)[Save $300!
-----------
-
-**Shop now**](https://www.listenlively.com/product)
+![](/cdn-cgi/image/width=1920,quality=80,format=auto/_next/static/media/default-desktop-test1.292815d0.jpg)[Our clearest  
+sound, our most discreet design](https://www.listenlively.com/product)[Our clearest  
+sound, our most discreet design _Shop Now_](https://www.listenlively.com/product)[Our clearest  
+sound, our most discreet design _Shop the Select 500_](https://www.listenlively.com/product)
 
 “Best if you're new to hearing aids”
 
@@ -185,19 +162,9 @@ With our **Premium Package**, our Audiology Team works with you remotely to impr
     
     Our smallest, most advanced hearing aids. Excellent in the most complex listening situations like hearing multiple people at a loud party.
     
-    $1,495 - $1,695
+    $1,795 - $1,995
     
-    ~$1,795 \- $1,995~
-    
-    $300 SAVINGS
-    
-    Limited time offer. Applies only to Enhance Select 500 hearing aids purchased directly from Jabra Enhance.
-    
-    [See offer details](https://www.listenlively.com/faq#sale-details)
-    
-    Close
-    
-    or as low as $49/mo per pair [\*\*](#financing-disclosure)
+    or as low as $58/mo per pair [\*\*](#financing-disclosure)
     
     [](https://www.listenlively.com/product/enhanceselect500)
 * ![](/cdn-cgi/image/width=640,quality=80,format=auto/_next/static/media/es300-home-bundle.e9cd8a33.png)
