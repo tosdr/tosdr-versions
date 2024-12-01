@@ -215,7 +215,7 @@ Call Now for a FREE Quote! [1-877-OXI-FRESH](tel:18776943737) **OR**
     * [Consideration Request](https://www.oxifresh.com/carpet-cleaning-companies/carpet-cleaning-franchise/considerationrequest/)
 * [Franchisee Login](https://www.oxifresh.com/login/index.html)
 
-![The World's Greenest Carpet Cleaner](https://www.oxifresh.com/wp-content/themes/oxifresh_alt/images/img-zipbox-2.png)
+![Fast 1 Hour Dry Time Carpet Cleaner](https://www.oxifresh.com/wp-content/themes/oxifresh_alt/images/img-zipbox-1.png)
 
 Zip Code  QUOTE & SCHEDULE
 
@@ -443,15 +443,15 @@ What Customers Are Saying
 
 Based on 305,509 Carpet Cleaning Services Reviews
 
-Person communicated well and did the job. **RW.** - New Smyrna Beach, FL - 11/30/2024
+**BA.** - Maricopa, AZ - 11/30/2024
 
 (5.0 Out of 5 stars)
 
-Reliable and performed a quality, affordable cleaning of our home. **JC.** - Wake Forest, NC - 11/30/2024
+Robert was very professional, explained everything well and worked hard to get our worn and cat stained carpets thoroughly cleaned. Great experience and will use them again. **RS.** - Saint Augustine, FL - 11/29/2024
 
 (5.0 Out of 5 stars)
 
-**SD.** - East Hampstead, NH - 11/29/2024
+Bar was professional, courteous and efficient. Carpets look great again! **AS.** - Bloomington, IN - 11/29/2024
 
 (5.0 Out of 5 stars)
 
