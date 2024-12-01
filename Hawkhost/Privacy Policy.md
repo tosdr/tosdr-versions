@@ -98,11 +98,11 @@ We store your personally identifiable information and payment information in our
 
 Our service is not available to children under the age of 13, and we will not intentionally maintain information about anyone under the age of 13.
 
-**Don't Miss The** Black Friday **Sale!**
+**Ready to get started?** Build your site from
 
-_$_0.90/mo
+_$_2.24/mo
 
-[GET STARTED NOW](https://my.hawkhost.com/store/shared-hosting/primary?billingcycle=biennially&promocode=bfshared2024)
+[GET STARTED NOW](https://my.hawkhost.com/store/shared-hosting/primary?billingcycle=biennially&promocode=december2024)
 
 [![](/images/icon-contact-support.webp)Contact Support](https://my.hawkhost.com/submitticket.php)
 
