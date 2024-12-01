@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/arend-zeevat/de-mensheid-is-volwassen-aan-het-worden/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/9-11/911-nog-een-keer-alle-idiotie-op-een-rijtje/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
