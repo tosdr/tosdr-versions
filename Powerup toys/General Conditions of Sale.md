@@ -1,4 +1,4 @@
-ENDING SOON | BLACK FRIDAY SALE: 25% OFF EVERYTHING
+ENDS TODAY | BLACK FRIDAY SALE - 25% OFF EVERYTHING
 
 Menu
 
@@ -261,7 +261,7 @@ Menu
 
 [0](https://www.poweruptoys.com/cart "Cart")
 
-ENDING SOON | BLACK FRIDAY SALE: 25% OFF EVERYTHING
+ENDS TODAY | BLACK FRIDAY SALE - 25% OFF EVERYTHING
 
 * [](mailto:support@poweruptoys.com "Email POWERUP®")
 * [](https://www.facebook.com/Poweruptoys "POWERUP® on Facebook")
@@ -358,7 +358,7 @@ SHOP ALL PLANES](https://www.poweruptoys.com/collections/planes)
 
 ![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_30226aa9-aed9-4488-a359-1cb40b150428_2000x.png?v=1732779439)
 
-SALE ENDING SOON: 25% OFF EVERYTHING](https://www.poweruptoys.com/collections/shop-all-products)
+SALE ENDS TODAY: 25% OFF EVERYTHING](https://www.poweruptoys.com/collections/shop-all-products)
 
 * [![POWERUP 4.0 AIRPLANE](//www.poweruptoys.com/cdn/shop/files/POWERUP_Black_Friday_Sale_2024_22_50x.png?v=1732926370)
     
@@ -388,7 +388,7 @@ SALE ENDING SOON: 25% OFF EVERYTHING](https://www.poweruptoys.com/collections/sh
     
     ![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_30226aa9-aed9-4488-a359-1cb40b150428_2000x.png?v=1732779439)
     
-    SALE ENDING SOON: 25% OFF EVERYTHING](https://www.poweruptoys.com/collections/shop-all-products)
+    SALE ENDS TODAY: 25% OFF EVERYTHING](https://www.poweruptoys.com/collections/shop-all-products)
 
 BUNDLES
 
@@ -420,7 +420,7 @@ SHOP ALL BUNDLES](https://www.poweruptoys.com/collections/bundles)
 
 ![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_30226aa9-aed9-4488-a359-1cb40b150428_2000x.png?v=1732779439)
 
-SALE ENDING SOON: 25% OFF EVERYTHING](https://www.poweruptoys.com/collections/shop-all-products)
+SALE ENDS TODAY: 25% OFF EVERYTHING](https://www.poweruptoys.com/collections/shop-all-products)
 
 * [![POWERUP 4.0 FLIGHT MANUAL BUNDLE](//www.poweruptoys.com/cdn/shop/files/POWERUP_Product_Image_with_Stickers_3_50x.png?v=1732928962)
     
@@ -450,7 +450,7 @@ SALE ENDING SOON: 25% OFF EVERYTHING](https://www.poweruptoys.com/collections/sh
     
     ![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_30226aa9-aed9-4488-a359-1cb40b150428_2000x.png?v=1732779439)
     
-    SALE ENDING SOON: 25% OFF EVERYTHING](https://www.poweruptoys.com/collections/shop-all-products)
+    SALE ENDS TODAY: 25% OFF EVERYTHING](https://www.poweruptoys.com/collections/shop-all-products)
 
 ACCESSORIES
 
@@ -482,7 +482,7 @@ SHOP ALL ACCESSORIES](https://www.poweruptoys.com/collections/accessories)
 
 ![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_30226aa9-aed9-4488-a359-1cb40b150428_2000x.png?v=1732779439)
 
-SALE ENDING SOON: 25% OFF EVERYTHING](https://www.poweruptoys.com/collections/shop-all-products)
+SALE ENDS TODAY: 25% OFF EVERYTHING](https://www.poweruptoys.com/collections/shop-all-products)
 
 * [![SPARE PARTS KIT FOR POWERUP 4.0](//www.poweruptoys.com/cdn/shop/files/POWERUP_Product_Image_with_Stickers_c0fc1b13-1231-4b53-9bb2-24ac676a48dd_50x.png?v=1732927931)
     
@@ -512,7 +512,7 @@ SALE ENDING SOON: 25% OFF EVERYTHING](https://www.poweruptoys.com/collections/sh
     
     ![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_30226aa9-aed9-4488-a359-1cb40b150428_2000x.png?v=1732779439)
     
-    SALE ENDING SOON: 25% OFF EVERYTHING](https://www.poweruptoys.com/collections/shop-all-products)
+    SALE ENDS TODAY: 25% OFF EVERYTHING](https://www.poweruptoys.com/collections/shop-all-products)
 
 EDUCATORS
 
@@ -544,7 +544,7 @@ SHOP MORE FOR EDUCATORS](https://www.poweruptoys.com/collections/powerup-for-edu
 
 ![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_30226aa9-aed9-4488-a359-1cb40b150428_2000x.png?v=1732779439)
 
-SALE ENDING SOON: 25% OFF EVERYTHING](https://www.poweruptoys.com/collections/shop-all-products)
+SALE ENDS TODAY: 25% OFF EVERYTHING](https://www.poweruptoys.com/collections/shop-all-products)
 
 * [![](//www.poweruptoys.com/cdn/shop/files/POWERUP_Black_Friday_Sale_2024_23_50x.png?v=1732926443)
     
@@ -574,7 +574,7 @@ SALE ENDING SOON: 25% OFF EVERYTHING](https://www.poweruptoys.com/collections/sh
     
     ![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_30226aa9-aed9-4488-a359-1cb40b150428_2000x.png?v=1732779439)
     
-    SALE ENDING SOON: 25% OFF EVERYTHING](https://www.poweruptoys.com/collections/shop-all-products)
+    SALE ENDS TODAY: 25% OFF EVERYTHING](https://www.poweruptoys.com/collections/shop-all-products)
 
 Warranty and Return Policies
 ============================
