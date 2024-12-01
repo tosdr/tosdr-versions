@@ -63,8 +63,6 @@ Cancel
 * [Sign In](https://www.bhsubookstore.com/account_login.asp?)
 * [Create Account](https://www.bhsubookstore.com/account_create.asp?)
 
-The bookstore will be closed on 11-28 and 11-29. Happy Thanksgiving!
-
 Privacy Policy/Terms of Use
 ===========================
 
@@ -161,7 +159,7 @@ Begin Footer
 | Saturday | CLOSED |
 | Sunday | CLOSED |
 
-Saturday CLOSED CLOSED
+Sunday CLOSED CLOSED
 
 [View All Store Hours](https://www.bhsubookstore.com/site_contact_us.asp?)
 
