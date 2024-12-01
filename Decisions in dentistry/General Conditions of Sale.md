@@ -138,6 +138,13 @@ Provider ID# 317924
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
+[The University of New England’s Dental Hygiene D ![The University of New England’s Dental Hygiene Department has been awarded “Partnership of the Year” for its collaborative efforts with the Opportunity Alliance, bringing essential dental care to low-income families in Portland, Maine. Dental hygiene students provide free prophylaxes, fluoride treatments, and oral health education to underserved children. Link in bio.⁠
+⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DC_-_mFto4V/) 
+
 [First Turkey, Then Great Deals!⁠ ⁠ Through 12/ ![First Turkey, Then Great Deals!⁠
 ⁠
 Through 12/2/2024 enjoy 25% off all individual courses OR save $49 on an annual study club membership with code BF24.⁠
@@ -181,8 +188,6 @@ Visit decisionsindentistry.com/ce or click the link in bio.⁠
 ---⁠
 ⁠
 #dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DCtvsb8PA-j/) 
-
-[As the crisp fall air ushers in a new season, the ![As the crisp fall air ushers in a new season, the latest issue of Decisions in Dentistry brings fresh insights into all things dentistry. With an aging population and more patients retaining their natural teeth later in life, you may want to pay particular attention to the article “Preserve Natural Teeth With Biomimetic Dentistry.” It dives into how preserving tooth vitality, natural biomechanics, and long-term function are meeting the demand for a minimally invasive approach. Learn how selective caries removal, maximizing adhesion, and using biomechanically compatible materials are helping clinicians extend the lifespan of teeth while minimizing invasive techniques like full-coverage crowns. Read the latest issue via the link in bio.](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DCrK59cvrJc/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
