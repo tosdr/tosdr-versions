@@ -1,6 +1,6 @@
  ![Limited time promo](https://www.backup4all.com/images/promo/blackfriday/badge-black-friday.png?ek79cy)
 
-#### Black Friday sale: 70% Discount for Backup4all Pro to unlock new features (Save US$ 34.99)
+#### Cyber Monday sale: 70% Discount for Backup4all Pro to unlock new features (Save US$ 34.99).
 
 Buy (US$ 15.00)
 
@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to restore a backup to Amazon](https://www.backup4all.com/how-to-restore-a-backup-to-amazon-kb.html)  
+* [How to backup your data to Dunkel](https://www.backup4all.com/how-to-backup-your-data-to-dunkel-kb.html)  
     
-* [How to install Backup4all using the main inte ...](https://www.backup4all.com/how-to-install-backup4all-using-the-main-interface-kb.html)  
+* [Downloading - FAQ](https://www.backup4all.com/downloading-faq-kb.html)  
     
-* [Backup images with Backup4all](https://www.backup4all.com/backup-images-with-backup4all-kb.html)  
+* [How to restore a backup from Amazon S3](https://www.backup4all.com/how-to-restore-a-backup-from-amazon-s3-kb.html)  
     
-* [How to use "Clean destination folder" feature ...](https://www.backup4all.com/how-to-use-clean-destination-folder-feature-in-backup4all-kb.html)  
+* [How to configure backups to run sequentially](https://www.backup4all.com/how-to-configure-backups-to-run-sequentially-kb.html)  
     
-* [How to manage backup tags](https://www.backup4all.com/how-to-manage-backup-groups-kb.html)  
+* [Backup the Favorites folder](https://www.backup4all.com/backup-the-favorites-folder-kb.html)  
     
 
 Choose language:
