@@ -279,23 +279,23 @@ Sponsor may conduct a background check to confirm any potential winner’s eligi
 Top of Today
 ------------
 
-1. [![Andrew Sylvester, inset on the left; appears against an image of a Publix store; on the right is an image of a man identified as Sylvester by authorities.](https://lawandcrime.com/wp-content/uploads/2024/11/Andrew-Sylvester-432x243.jpg)](https://lawandcrime.com/crime/florida-man-allegedly-commits-2-felony-thefts-within-15-minutes-at-the-same-publix-supermarket/)
+1. [![Andrew Sylvester, inset on the left; appears against an image of a Publix store; on the right is an image of a man identified as Sylvester by authorities.](https://am24.mediaite.com/lc/cnt/uploads/2024/11/Andrew-Sylvester-432x243.jpg)](https://lawandcrime.com/crime/florida-man-allegedly-commits-2-felony-thefts-within-15-minutes-at-the-same-publix-supermarket/)
     
     ### [Florida man allegedly commits 2 felony thefts within 15 minutes — at the same Publix supermarket](https://lawandcrime.com/crime/florida-man-allegedly-commits-2-felony-thefts-within-15-minutes-at-the-same-publix-supermarket/)
     
-2. [![Left: Ray Epps is seen talking with accused Jan. 6 rioter and Proud Boys member Ryan Samsel near the Peace Circle monument (via FBI court filing). Right: Photo of Tucker Carlson (Chip Somodevilla/Getty Images).](https://lawandcrime.com/wp-content/uploads/2023/03/Ray-Epps-Tucker-Carlson-432x243.jpg)](https://lawandcrime.com/high-profile/fox-news-scores-major-victory-as-judge-dismisses-defamation-lawsuit-by-man-at-the-center-of-jan-6-false-flag-conspiracy-theory/)
+2. [![Left: Ray Epps is seen talking with accused Jan. 6 rioter and Proud Boys member Ryan Samsel near the Peace Circle monument (via FBI court filing). Right: Photo of Tucker Carlson (Chip Somodevilla/Getty Images).](https://am22.mediaite.com/lc/cnt/uploads/2023/03/Ray-Epps-Tucker-Carlson-432x243.jpg)](https://lawandcrime.com/high-profile/fox-news-scores-major-victory-as-judge-dismisses-defamation-lawsuit-by-man-at-the-center-of-jan-6-false-flag-conspiracy-theory/)
     
     ### [Fox News scores major victory as judge dismisses defamation lawsuit by man at the center of Jan. 6 'false flag' conspiracy theory](https://lawandcrime.com/high-profile/fox-news-scores-major-victory-as-judge-dismisses-defamation-lawsuit-by-man-at-the-center-of-jan-6-false-flag-conspiracy-theory/)
     
-3. [![Robert Cummings shot on Thanksgiving outside home](https://lawandcrime.com/wp-content/uploads/2024/11/robert-cummings-shooting-432x243.jpg)](https://lawandcrime.com/crime/this-is-hard-on-my-grandma-family-mourns-after-father-is-shot-and-killed-on-thanksgiving-morning-by-unknown-gunman/)
+3. [![Robert Cummings shot on Thanksgiving outside home](https://am22.mediaite.com/lc/cnt/uploads/2024/11/robert-cummings-shooting-432x243.jpg)](https://lawandcrime.com/crime/this-is-hard-on-my-grandma-family-mourns-after-father-is-shot-and-killed-on-thanksgiving-morning-by-unknown-gunman/)
     
     ### ['This is hard on my grandma': Family mourns after father is shot and killed on Thanksgiving morning by unknown gunman](https://lawandcrime.com/crime/this-is-hard-on-my-grandma-family-mourns-after-father-is-shot-and-killed-on-thanksgiving-morning-by-unknown-gunman/)
     
-4. [![Mugshots of Damien McDaniel and Hatarius Woods](https://lawandcrime.com/wp-content/uploads/2024/11/birmingham-murders-432x243.jpg)](https://lawandcrime.com/crime/police-announce-arrests-of-2-suspects-allegedly-responsible-for-about-30-of-all-city-homicides/)
+4. [![Mugshots of Damien McDaniel and Hatarius Woods](https://am21.mediaite.com/lc/cnt/uploads/2024/11/birmingham-murders-432x243.jpg)](https://lawandcrime.com/crime/police-announce-arrests-of-2-suspects-allegedly-responsible-for-about-30-of-all-city-homicides/)
     
     ### [Police announce arrests of 2 suspects allegedly responsible for 'about 30%' of all city homicides](https://lawandcrime.com/crime/police-announce-arrests-of-2-suspects-allegedly-responsible-for-about-30-of-all-city-homicides/)
     
-5. [![FILE - Violent rioters loyal to President Donald Trump storm the Capitol in Washington on Jan. 6, 2021 (AP Photo/John Minchillo, File). Inset: FILE - In this May 1, 2008 file photo, U.S. District Judge Royce C. Lamberth is seen during a ceremony at the federal courthouse in Washington. (AP Photo/Charles Dharapak, File).](https://lawandcrime.com/wp-content/uploads/2024/01/Jan.-6-Royce-Lamberth-432x243.jpg)](https://lawandcrime.com/high-profile/a-preposterous-mischaracterization-of-our-justice-system-jan-6-judge-slams-accused-rioters-attempt-to-delay-trial-again-ahead-of-trump-inauguration/)
+5. [![FILE - Violent rioters loyal to President Donald Trump storm the Capitol in Washington on Jan. 6, 2021 (AP Photo/John Minchillo, File). Inset: FILE - In this May 1, 2008 file photo, U.S. District Judge Royce C. Lamberth is seen during a ceremony at the federal courthouse in Washington. (AP Photo/Charles Dharapak, File).](https://am21.mediaite.com/lc/cnt/uploads/2024/01/Jan.-6-Royce-Lamberth-432x243.jpg)](https://lawandcrime.com/high-profile/a-preposterous-mischaracterization-of-our-justice-system-jan-6-judge-slams-accused-rioters-attempt-to-delay-trial-again-ahead-of-trump-inauguration/)
     
     ### ['A preposterous mischaracterization of our justice system': Jan. 6 judge slams accused rioters' attempt to delay trial — again — ahead of Trump inauguration](https://lawandcrime.com/high-profile/a-preposterous-mischaracterization-of-our-justice-system-jan-6-judge-slams-accused-rioters-attempt-to-delay-trial-again-ahead-of-trump-inauguration/)
     
