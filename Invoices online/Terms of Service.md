@@ -196,63 +196,61 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Impossible to run our businesses without IO
-> -------------------------------------------
+> Support even on Sundays!
+> ------------------------
 > 
-> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
->   
-> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
->   
-> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
->   
-> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
+> Thanks Adriaan...
+> 
+> You guys even work on Sundays?
+> 
+> I’m impressed!!
 
-Kobus Venter
+Johan Botha - Brand Xplosion
 
-![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=38831816c01ea103b79416f8167740f6d24eb197802c332afca370d6ba6c5bd3&c=206821311)  
-Printo
+![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=0dab73fe596816815a809ea0214d052c4d8227b147c8eb85e430e25917a0a932&c=11673235)  
+CLEVER STUDENTS
 
-![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=38831816c01ea103b79416f8167740f6d24eb197802c332afca370d6ba6c5bd3&c=25037576)  
-Cooper Power Cape Town (Pty) Ltd
+![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=0dab73fe596816815a809ea0214d052c4d8227b147c8eb85e430e25917a0a932&c=127138569)  
+OptaServ
 
-![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=38831816c01ea103b79416f8167740f6d24eb197802c332afca370d6ba6c5bd3&c=65919129)  
-Stories (Pty) Ltd t/a Storietyd
+![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=0dab73fe596816815a809ea0214d052c4d8227b147c8eb85e430e25917a0a932&c=150987809)  
+Blue Bulls Rugby Coaches Association
 
-![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=38831816c01ea103b79416f8167740f6d24eb197802c332afca370d6ba6c5bd3&c=154673173)  
-#DiGi3 Marketing & Design
-
-![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=38831816c01ea103b79416f8167740f6d24eb197802c332afca370d6ba6c5bd3&c=58515619)  
-INDUSTRIAL DRUM SERVICES (PTY)LTD
-
-![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=38831816c01ea103b79416f8167740f6d24eb197802c332afca370d6ba6c5bd3&c=94940179)  
-All Trucking Solutions
-
-![valued client Atalie Scented Candles Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7239&file=logo_300_100&type=&fe=38831816c01ea103b79416f8167740f6d24eb197802c332afca370d6ba6c5bd3&c=50688306)  
-Atalie Scented Candles Pty Ltd
-
-![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=38831816c01ea103b79416f8167740f6d24eb197802c332afca370d6ba6c5bd3&c=187842913)  
-LEO DEVELOPMENT GROUP
-
-![valued client Protech Marketing](https://www.invoicesonline.co.za/scripts/image.php?bid=8712&file=logo_300_100&type=&fe=38831816c01ea103b79416f8167740f6d24eb197802c332afca370d6ba6c5bd3&c=46452311)  
-Protech Marketing
-
-![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=38831816c01ea103b79416f8167740f6d24eb197802c332afca370d6ba6c5bd3&c=44406300)  
-VIR Electrical (PTY) LTD
-
-![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=38831816c01ea103b79416f8167740f6d24eb197802c332afca370d6ba6c5bd3&c=112103912)  
+![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=0dab73fe596816815a809ea0214d052c4d8227b147c8eb85e430e25917a0a932&c=70851578)  
 Moving Made Easy (PTY) Ltd
 
-![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=38831816c01ea103b79416f8167740f6d24eb197802c332afca370d6ba6c5bd3&c=72687208)  
-Roamfree Boerdery (PTY) LTD
+![valued client SafeTclip](https://www.invoicesonline.co.za/scripts/image.php?bid=8368&file=logo_300_100&type=&fe=0dab73fe596816815a809ea0214d052c4d8227b147c8eb85e430e25917a0a932&c=210789818)  
+SafeTclip
 
-![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=38831816c01ea103b79416f8167740f6d24eb197802c332afca370d6ba6c5bd3&c=188377973)  
-SR Travel Services
+![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=0dab73fe596816815a809ea0214d052c4d8227b147c8eb85e430e25917a0a932&c=176311756)  
+Brand's Fountains Deco and Events Coordinatoin
 
-![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=38831816c01ea103b79416f8167740f6d24eb197802c332afca370d6ba6c5bd3&c=107514762)  
+![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=0dab73fe596816815a809ea0214d052c4d8227b147c8eb85e430e25917a0a932&c=107622817)  
+CBR Verwe/Paints
+
+![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=0dab73fe596816815a809ea0214d052c4d8227b147c8eb85e430e25917a0a932&c=65686581)  
+West Coast Horse Trails
+
+![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=0dab73fe596816815a809ea0214d052c4d8227b147c8eb85e430e25917a0a932&c=175512990)  
+Import Maaw
+
+![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=0dab73fe596816815a809ea0214d052c4d8227b147c8eb85e430e25917a0a932&c=148648725)  
+Baby Toddles Infant Care
+
+![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=0dab73fe596816815a809ea0214d052c4d8227b147c8eb85e430e25917a0a932&c=133503654)  
+AFS Electrical
+
+![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=0dab73fe596816815a809ea0214d052c4d8227b147c8eb85e430e25917a0a932&c=118590575)  
+NGB HOLDINGS PTY LTD
+
+![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=0dab73fe596816815a809ea0214d052c4d8227b147c8eb85e430e25917a0a932&c=35951069)  
+NIMAWELL
+
+![valued client Kara Medical (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=3913&file=logo_300_100&type=&fe=0dab73fe596816815a809ea0214d052c4d8227b147c8eb85e430e25917a0a932&c=199446225)  
+Kara Medical (Pty) Ltd
+
+![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=0dab73fe596816815a809ea0214d052c4d8227b147c8eb85e430e25917a0a932&c=190581690)  
 Waterfinatics Swim School
-
-![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=38831816c01ea103b79416f8167740f6d24eb197802c332afca370d6ba6c5bd3&c=20912795)  
-Kaylas Creations
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
