@@ -1,4 +1,4 @@
-[![Rest Less](//media.restless.co.uk/images/rest-less-logo.svg)](https://restless.co.uk/ "Rest Less")
+[![Rest Less](//media.restless.co.uk/images/rest-less-holiday-logo.svg)](https://restless.co.uk/ "Rest Less")
 
 [Close](#site-navigation)
 
