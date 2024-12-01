@@ -1,11 +1,5 @@
 ![](https://www.facebook.com/tr?id=833439704982348&ev=PageView&noscript=1)    
 
-![](https://img.gg.deals/c4/57/5d9934e12a659305d09842d473a44777d239_1224cr120_Q100.jpg)
-
-![](https://img.gg.deals/5c/e3/d32ee8b45f2732add075c7f9ce26f3238d10_2560xt1440_Q100.jpg)
-
-[](https://gg.deals/us/redirect/9dbeae59f1cfeb5fc83d3dde79ea1acbe9adf42a/?utm_campaign=top-banner&utm_source=page%2Fpage)
-
 Default platform: All
 
 * All platforms
@@ -48,11 +42,11 @@ AllAll PlatformsPCXboxPlayStationSwitch
 
 * [Sign in](https://gg.deals/login/)
 
-![](https://img.gg.deals/58/dc/15f1a5e1345429aac048825c63d741b6a904_1272cr200_Q100.jpg)
+![](https://img.gg.deals/f5/7d/49a7c7ba563efa92aad5ff582219e4433f49_1272cr200_Q100.jpg)
 
-![](https://img.gg.deals/36/6a/cbdaa004803d0a0ef230985aebfbc8e95151_2560xt1440_Q100.jpg)
+![](https://img.gg.deals/45/8b/fcd66a8bc631f2095e3e868cfee4ea786108_2560xt1440_Q100.jpg)
 
-[](https://gg.deals/us/redirect/8caea2a38702160f63dc430730ec497e19e5d4d1/?utm_campaign=main-banner&utm_source=page%2Fpage)[](https://gg.deals/us/redirect/8caea2a38702160f63dc430730ec497e19e5d4d1/?utm_campaign=main-left&utm_source=page%2Fpage)[](https://gg.deals/us/redirect/8caea2a38702160f63dc430730ec497e19e5d4d1/?utm_campaign=main-right&utm_source=page%2Fpage)
+[](https://gg.deals/us/redirect/9dbeae59f1cfeb5fc83d3dde79ea1acbe9adf42a/?utm_campaign=main-banner&utm_source=page%2Fpage)[](https://gg.deals/us/redirect/9dbeae59f1cfeb5fc83d3dde79ea1acbe9adf42a/?utm_campaign=main-left&utm_source=page%2Fpage)[](https://gg.deals/us/redirect/9dbeae59f1cfeb5fc83d3dde79ea1acbe9adf42a/?utm_campaign=main-right&utm_source=page%2Fpage)
 
 * [Home](https://gg.deals/) 
 * [Privacy policy](https://gg.deals/privacy/) 
