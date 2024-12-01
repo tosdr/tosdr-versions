@@ -110,6 +110,7 @@ Free standard shipping on orders over $29.00
         * [Business Webcams](https://www.logitech.com/en-us/business/webcams.html)
         * [Docking Stations](https://www.logitech.com/en-us/products/video-conferencing.html#docking-stations)
         * [Accessories](https://www.logitech.com/en-us/products/video-conferencing/accessories.html)
+        * [Mobile + Tablet](https://www.logitech.com/en-us/business/b2b-mobile-solutions.html)
         * [Shop All](https://www.logitech.com/en-us/business/products.html)
         * [Explore All](https://www.logitech.com/en-us/business.html)
         
@@ -152,7 +153,8 @@ Free standard shipping on orders over $29.00
         * [Made for Apple®](https://www.logitech.com/en-us/apple.html)
         * [Made for iPad®](https://www.logitech.com/en-us/apple/for-ipad.html)
         * [Made for Mac®](https://www.logitech.com/en-us/apple/for-mac.html)
-        * [Creative Professionals Shop](https://www.logitech.com/en-us/mx/mx-creatives.html)
+        * [For Coders](https://www.logitech.com/en-us/mx/mx-coders.html)
+        * [For Creatives](https://www.logitech.com/en-us/mx/mx-creatives.html)
         * [On the Go](https://www.logitech.com/en-us/mobility/mobile-solutions.html)
         * [Ultimate Ears Speakers](https://www.logitech.com/en-us/ue/ultimate-ears.html)
         
@@ -294,6 +296,7 @@ Free standard shipping on orders over $29.00
         * [Webcams](https://www.logitech.com/en-us/business/webcams.html)
         * [Docking Stations](https://www.logitech.com/en-us/products/video-conferencing.html#docking-stations)
         * [Accessories](https://www.logitech.com/en-us/products/video-conferencing/accessories.html)
+        * [Mobile + Tablet](https://www.logitech.com/en-us/business/b2b-mobile-solutions.html)
         * [Explore all](https://www.logitech.com/en-us/business/products.html)
         
         [Software & Services](https://www.logitech.com/en-us/business/services-and-software.html)
