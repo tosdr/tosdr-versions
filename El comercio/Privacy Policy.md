@@ -31,6 +31,262 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Tiempos políticos
+=================
+
+El gobierno cumple un año entre aciertos y decisiones controvertidas, con desafíos de madurez y rectificación para fortalecer su rumbo democrático.
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Gerardo Villacreces Carbo, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Gerardo-Villacreces-Carbo.jpg)
+
+Se ha cumplido un año de **gobierno**, en el cual se ha apreciado una determinación e incluso **valentía** para **tomar decisiones**, algunas acertadas y necesarias y, otras desacertadas y discutibles; y, dentro de las discutibles, quizás, algunas no tanto por el fondo pero sí por la forma.
+
+Debemos entender que, es un **presidente joven**, que llegó al poder de una manera repentina, quizás ni él mismo lo suponía, ya que probablemente apuntaba a ganar en el 2025 o en el 2029, pero el azar quiso  que gane antes, en el 2023, lo cual le habría obligado a **organizar y estructurar** apresuradamente tanto el **gabinete** como su plan de **gobierno**. En ese ejercicio y ejecución, se habrían presentado enseñanzas, pero también vacíos que han generado **cuestionamientos** y dudas, como por ejemplo el **plan Fénix**.
+
+En ese orden de **ideas**, daría la **impresión** que, en lo que se refiere a los que incomodan al **régimen**, la determinación del **oficialismo** para sacarlos de encima, el tiempo y el **cálculo político** juegan un rol importante dentro de su **estrategia**; es decir, se habrían dado a sabiendas **forzadas acciones**, pero efectivas en **función** del **resultado práctico** inmediato, decisiones discutibles por ejemplo en el **ámbito jurídico**, pero que, hasta que la parte afectada pueda reclamar en las **instancias** correspondientes, el tiempo habría jugado a favor del **gobierno**, consecuentemente por más que más tarde se dé la razón a la otra parte, para entonces ya sería tarde. Un ejemplo de esto, es lo dado con la **vicepresidenta**, a quien, por cierto, esta columna no pretende defender, sino a la **institucionalidad**. De esta manera, daría la **impresión** que, en la perspectiva **pragmática oficialista**, el tiempo seguirá su rumbo y el nuevo tema forzado contribuirá a olvidar al anterior y así en adelante…
+
+Es prudente reflexionar en el sentido de que, cuando en una misma persona coinciden el **poder económico y el poder político,** dicha potente mezcla, fácilmente puede hacer perder la perspectiva; y, con mayor motivo, si la persona no ha alcanzado la suficiente madurez y/o **sabiduría**  para sortear tal relevante prueba. Así, sin **perjuicio** del natural **desgaste** por el ejercicio del **poder**, marearse pudiera ser fácil y por consiguiente tambalearse también, prueba de lo cual pudiera ser, la caída en las **encuestas**, que nos llevan a pensar que algo no se hizo bien y por ende amerita mejorar sino rectificar. Sin **perjuicio** de aplicar la **prudencia** y **sensibilidad** suficiente, para evitar y/o distanciarse de los **conflictos** de interés, esto es, saber discernir entre los **intereses personales** versus los nacionales, los que evidentemente son prioritarios si se ocupa un **cargo público**; cuanto, abstenerse de utilizar el poder como **plataforma** para atacar a los **adversarios**, ya sea por rencillas políticas y/o personales, sin pararse a reflexionar que el **poder** no es para siempre, que el que **siembra vientos cosecha tempestades** y, que el poder es para servir y no para servirse… 
+
+En cuanto a la **hábil comunicación**, la calidad de la producción es destacada, pero parecería que la **información** y los datos no siempre son precisos ni exactos, lo cual puede inducir a error.
+
+Esas conductas, infortunadamente, favorecen y conducen a dar espacios y/o facilidades al peligroso **socialismo del siglo XXI**, ya que pueden desorientar, confundir  o desilusionar aquel segmento de la población indecisa o confundida.
+
+Cabe indicar que, hasta el momento por lo menos, parecería que el gobierno ha tomado un norte distinto al de trascender en la historia con el sello de Estadista, como en su momento, guardando las distancias, sí lo realizó Clemente Yerovi Indaburu, quien trascendió, entre otros motivos, por nunca aferrarse al **poder**.  Valga la digresión, para reflexionar en el sentido de que, curiosamente, mientras más se pretende aferrarse al poder, este, efímero por naturaleza **democrática**, más esquivo y lejano, se vuelve….
+
+En buena hora, debemos tener presente que, una parte importante de la **población**, tiene claro los **peligros** del **profundo abismo** que implica el **socialismo del siglo XXI**. Siendo así, muy probablemente un destacado **segmento del electorado**, ante las elecciones que se avecinan con prontitud, se enfocará en votar por el que tenga más posibilidades dentro de la **tendencia** que defiende la Libertad, la democracia  y el **desarrollo económico** del país y de la gente, incluido dentro de esa posibilidad, al presidente Noboa, que con sus aciertos que los ha tenido sin duda y pese a  sus errores, está claro que no representa ni regenta el despeñadero de la **revolución socialista**.
+
+De esta manera, el **oficialismo** tendría posibilidades en el sentido de que, rectificando, pueda llegar a buen puerto, que en palabras electorales del momento significa, ganar  – la cuesta arriba –  reelección.
+
+Me atrevería a indicar que, incluso el peor gobierno de centro y/o centro derecha y/o derecha, es cien veces preferible que cualquier **gobierno socialista** auspiciado por el revolucionario correísmo, el cual lo sabemos bien, representa **pobreza, corrupción y destrucción**, ejemplo de aquello sin ir muy lejos es Venezuela, que en su momento decidió por Chávez como alternativa, y cuyas consecuencias ya todos conocemos….
+
+Turismo a la extracción
+=======================
+
+Las recomendaciones de rigor para salir del fracaso son la diversificación económica, reformas y mejoras educativas.
+--------------------------------------------------------------------------------------------------------------------
+
+![Guido Calderón, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Guido-Calderon-1.jpg)
+
+Ha causado conmoción en el **mundo literario** el libro “Por qué fracasan los países: Los **orígenes del poder**, la **prosperidad** y la **pobreza**” de Daron Acemoglu y James A. Robinson, donde ponen muchos ejemplos de porque países sin recursos ni buen clima, alcanzan la **prosperidad** y otros con muchos recursos y excelente clima -como Ecuador- no logran salir de la **pobreza**.
+
+En resumen, los autores, muy cuestionados por los economistas, dice que el **progreso** no se debe a la geografía o a la cultura, sino a las instituciones de cada país y las **políticas** creadas por ellas. Sin las políticas correctas no habrá desarrollo, independientemente de todos los **recursos** o **dinero** que pueda tener acceso un país.
+
+Cuando las **instituciones son extractivas**, como es el caso de Ecuador, donde cada entidad está diseñada para quitarle **dinero** y libertad a cada ciudadano, estas solo sirven para **concentrar poder y riqueza** para unas élites, limitando la **participación económica** y las **oportunidades** a las mayorías, es decir el papel que actualmente tienen los **municipios**, **prefecturas** y **ministerios**: restringir, extraer recursos, desviarlos a **programas sociales** que perpetúan la **pobreza** y socavan la **confianza** en estas instituciones.
+
+Otro elemento en el que se encuadra el **fracaso** de nuestro país, es el depender de **recursos naturales** como el **petróleo**, una **materia prima** inestable que no permite la diversificación de una economía primaria que afecta severamente a las **comunidades locales**, al medio ambiente, degrada los **recursos naturales** y conlleva **conflictos sociales** enervados por la **desigualdad**, por la falta de servicios de salud y por una **educación** que a pesar de ser gratuita, no desarrolla las **habilidades** que necesita el **mercado laboral.**
+
+Otro factor que mencionan los **autores** es la **inestabilidad política**, los frecuentes cambios de gobierno, la falta de **transparencia** y la **corrupción**, que se ha tornado endémica en todos los partidos: “robarán bien”.
+
+La posible solución, son las indispensables reformas, pero si estas se dieran y se convocara una nueva constituyente, se convertiría en una **lucha ideológica** y no en la exploración de una **salida económica** donde todos los **actores** busquen soluciones y no la supremacía sobre los demás, que es lo que hoy vivimos.
+
+Las recomendaciones de rigor para salir del **fracaso** son la **diversificación**, la **agricultura sostenible**, el turismo, las tecnologías de la información, mejorar la calidad de la educación y alinearla con las necesidades del **mercado laboral** para que se dé la tan necesitada **inclusión social.**
+
+‘Mi mundo y mi propósito de vida es el VIH’: Eddy vive con el virus y es activista
+==================================================================================
+
+Hoy es el Día Mundial del Sida. A través de un testimonio se puede ver que hoy una persona con VIH se puede mantener saludable.
+-------------------------------------------------------------------------------------------------------------------------------
+
+![Las personas que viven con VIH pueden llevar una buena calidad de vida con sus tratamientos antirretrovirales. Foto: Freepick](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-64-2.jpg)
+
+**Testimonio.** A propósito del Día Mundial del Sida, Eddy, un hombre de 52 años, comparte cómo se enteró que contrajo el virus de inmunodeficiencia humana (VIH) hace 16 años. En ese entonces, en el Ecuador se diagnosticaba, pero no se entregaba medicación inmediata. A través de su testimonio se puede conocer cómo se ha avanzado en esta materia. Pero sobre todo cómo ahora es posible mantenerse sano con el tratamiento antirretroviral y mantener al virus indetectable e intransferible. Por otra parte, hacemos un repaso de algunas cifras que muestran la situación del VIH en el país.
+
+“Hace 16 años, mi hermano sufrió un accidente de tránsito. Estuvo en coma ocho días y perdió mucha sangre. Llamaron a los familiares para donar sangre y estuve en primera fila. Al día siguiente me llamaron del banco de sangre para conversar conmigo. Fui y ahí me dijeron: Tiene VIH y debe hacerse otras pruebas. No tuve una consejería ni una asesoría como hoy.
+
+Más noticias
+------------
+
+* [Ecuador reporta un promedio diario de 14 nuevos casos de VIH](https://www.elcomercio.com/tendencias/salud/ecuador-reporta-un-promedio-diario-de-14-nuevos-casos-de-vih.html "Ecuador reporta un promedio diario de 14 nuevos casos de VIH")
+* [Estigma y discriminación, frenos para reducir el VIH y erradicar el sida en Ecuador](https://www.elcomercio.com/opinion/editorial/vih-erradicar-ecuador-cifras-onusida.html "Estigma y discriminación, frenos para reducir el VIH y erradicar el sida en Ecuador")
+
+No tenía la sospecha, mi salud estaba bien, aunque a veces tenía sudoraciones nocturnas. Tengo claro que adquirí el virus por una relación sexual sin protección. Soy de la comunidad LGTBIQ+.  La noticia fue como un balde de agua fría; nadie recibe esto con los brazos abiertos ni con el mayor de los agrados. 
+
+### Estuve en una fase de seguimiento
+
+Me hicieron una prueba confirmatoria y busqué información y tratamiento en un dispensario médico del IESS de Cotocollao. No sé cómo habré llegado, pero me brindaron ayuda. En el Hospital Carlos Andrade Marín empecé mi seguimiento porque en ese entonces no se daba tratamiento enseguida.
+
+Se manejaba una guía de práctica clínica que decía que las personas debían de enfermarse primero para empezar su tratamiento. Eso me preocupó. Duré dos años en seguimiento para que me den tratamiento, porque no me enfermaba. Me asesore y empecé a asistir a la Fundación Coalición Ecuatoriana de Personas que viven con VIH, en donde me informaron sobre qué es el VIH, cuáles son mis derechos y cómo se maneja. Me fui empoderando, pero perdí el trabajo y me pasaron al Hospital Eugenio Espejo. 
+
+### Sabía sus derechos y exigió tratamiento 
+
+Sabía que un ítem de la guía clínica decía que era criterio del médico dar tratamiento cuando las defensas estén bordeando los 450 CD4 (un tipo de glóbulos blancos que ayudan a proteger de infecciones). Inicialmente tenía 700, pero cuando llegué a ese nivel pedí que me den tratamiento.
+
+No eran de los mejores como son ahora. Eran tres medicamentos divididos. Uno de ellos (zidovudina) producía lipodistrofia, distribución anormal de la grasa en el cuerpo. Otro fármaco (efavirenz) afectaba al sistema nervioso central, por lo que tomaba en las noches y al otro día estaba mareado. Ventajosamente sabía de los efectos y, a través de la SEPS se incidió en que vinieran nuevos medicamentos.
+
+En 2012 llegó la atripla, pero seguía teniendo el efavirenz que producía mareos, igual tomaba. Hubo un momento de desabastecimiento y dividieron la toma de pastillas. Me dieron tres pastillas para completar los 600 miligramos, pero me produjo rush en la cara y desarrollé fotosensibilidad. Me cambiaron el medicamento y en abril del 2021 se dio la transición de la atripla al TLD, que tomó una diaria en la noche. Es muy bondadoso, no tiene efectos secundarios. 
+
+### El VIH no es una enfermedad
+
+Al principio se siente un bajón fuerte y uno pasa por la etapa de duelo, negación y aceptación. Pero con la autoeducación se supera esto y unos pasamos más rápido. 
+
+> “Me metí en la cabeza de que no estoy enfermo, primeramente. Tengo una condición de salud que es vivir con VIH, que es muy diferente a estar enfermo”. 
+
+Lo acepté cuando me di cuenta que no es una enfermedad sino un virus y, obviamente puede producir una o varias enfermedades si no tomo el tratamiento y mi sistema inmunológico se va a debilitar. Ahí es cuando se llega a la fase sida. Pero el sida no es una enfermedad sino un conjunto de signos y síntomas que la persona presenta, a raíz de no seguir con el tratamiento o no saber que vive con VIH. 
+
+Ahora ya no se usa la palabra sida, es muy estigmatizante, más bien enfermedad avanzada por VIH o VIH, en su fase avanzada. Los términos cambian para eliminar el estigma y la discriminación hacia las personas que vivimos con VIH. Esto es lo que más daño hace. En mi caso no he sentido que una persona me haya discriminado. No digo abiertamente sino a las personas que debo decir.
+
+> Mi familia sabe que trabajo haciendo pruebas de VIH, pero no tengo la necesidad de contarles mi condición de salud. Mis compañeros saben y cuando doy talleres muchas veces lo digo.
+
+Cuando detecto a una persona con VIH doy consejería de pares. 
+
+### **¿Qué es un consejero de pares?** 
+
+Es una persona que superó su diagnóstico o tiene la información clara y precisa para informar a otro que recién está conociendo su diagnóstico.
+
+> “Ahora mi mundo es el VIH. Desayuno, almuerzo, meriendo VIH. Vivo con VIH y me apasiona”. 
+
+Mientras estemos tomando el tratamiento baja la carga viral a un nivel indetectable. Se fortalece el sistema inmunológico y al estar tratados perdemos la capacidad de transmitir el VIH. Por eso que también el tratamiento en las personas con VIH se considera una forma de prevención para la transmisión del virus. 
+
+Al tratar a las personas con VIH ya estamos previniendo que el virus se transmita y se corta la cadena. Quién realmente transmite el virus son las personas que lo tienen y no lo saben, por eso la mayor parte de la población, al menos, debería hacerse una prueba y saber su estado serológico. Si no tiene el VIH hay que seguir cuidándose y si sale positivo ir a una Unidad de Atención Integral de Salud para tomar tratamiento y no transmitir el virus. Cada seis meses, según el protocolo, hay que realizarse una prueba de carga viral y de defensas (CD4). Todo esto va de la mano de un estilo de vida más saludable.
+
+Más casos de VIH nuevos, pero la mortalidad por sida aún es alta
+----------------------------------------------------------------
+
+El actual **ministro de Salud,** **Antonio Naranjo**, reconoció en el Congreso Nacional de VIH 2024, que el Ecuador vive una doble situación epidemiológica. Por un lado se afronta problemas crecientes ocasionados por las enfermedades crónicas no transmisibles. Y, por otra parte, están las crónicas transmisibles, que no han sido superadas. Definitivamente, agregó, el VIH requiere de un esfuerzo redoblado del sistema de salud.
+
+> “No hay buenas noticias, pese a los esfuerzos que se hacen no son suficientes. Todavía hay un largo recorrido y muchas iniciativas que seguir fortaleciéndolas e impulsándolas para lograr un control eficiente. Las estadísticas no son buenas, pero lejos de asustarnos, nos motiva a seguir trabajando en el camino que debemos seguir. Tenemos datos para tomar acciones…”
+
+Naranjo preguntó: ¿No sé si se han puesto a pensar por qué la provincia de Napo tiene la tasa más alta de casos (45 por cada 1000 habitantes)? Cree que la población indígena requiere de un análisis más profundo para tomar las medidas más adecuadas. Resaltó que el equipo de salud es el nervio que motiva las acciones que se realizan y la inversión que se ha hecho supera los 18 millones de dólares, en este año.
+
+Faltan más esfuerzos para bajar la mortalidad
+---------------------------------------------
+
+Entre 1984 y 1996, 1 302 personas murieron por cada 100 mil habitantes; mientras que del 2017 al 2023, esta tasa escaló a 4 858. Estos datos muestran que aún hay un trabajo que realizar.
+
+**Rodrigo Tobar,** líder de la [Estrategia Nacional de VIH/sida-ITS](https://www.salud.gob.ec/programa-nacional-de-prevencion-y-control-de-vihsida-its/ "https://www.salud.gob.ec/programa-nacional-de-prevencion-y-control-de-vihsida-its/"), explicó que en los dos últimos años se ve una ligera disminución en la mortalidad. Pero reconoció que aún mueren por abandono del tratamiento; por su condición económica no llegan a los hospitales; no tienen trabajo y no acuden a servicios de salud.
+
+Hay algunos indicadores que permiten ver que la situación puede mejorar en los próximos dos años. 91% de los nuevos casos se vinculan a las Unidades de Atención Integral e inician tratamiento.
+
+Actualmente se cuenta con antirretrovirales de alta calidad, con una toma diaria, lo que ayuda a que se adhieran más rápido al tratamiento. Los costos también son mejores: 3,5 millones de dólares se invierte en tratamientos, antes costaban ocho millones de dólares. “Esto nos ha permitido bajar costos y atender a más personas”, enfatizó Tobar.
+
+Además, es necesario elevar el 72% de personas que viven con VIH, que reciben tratamientos y que tienen su carga viral suprimida al 95%. Para Tobar hace falta trabajar en esto, pero también con el personal de salud para que ingresen bien los datos de la carga viral en el sistema. Un factor que incide en la estadística es que se atiende a personas en movilidad. Emigran o están moviéndose y abandonan el tratamiento. “Todo eso suma, hay que seguir haciendo esfuerzos y alcanzar el pilar del 95% en dos años”.
+
+A más tamizaje más casos nuevos de VIH
+--------------------------------------
+
+En la última década (2014-2023) hay un acumulado de 41635 casos de VIH, esto es 8 990 más que los 10 años anteriores (2004-2013). Esto se debe, principalmente, a que en los últimos años se incrementó el tamizaje. Hoy se realiza en el primer nivel de atención y se garantiza el acceso a pruebas rápidas, preservativos, lubricantes, medicamentos y métodos de prevención con un stock de dos años.
+
+Pero hay que seguir animando a que la gente se realice la prueba. De los 5 154 nuevos casos de 2023, 21% tuvieron un diagnóstico tardío y ya estaban en fase avanzada de VIH. Otro 16% fueron diagnosticados de coinfección por tuberculosis y VIH. Estos reciben dos tipos de tratamientos.
+
+Tobar destaca que ahora hay una nueva política que representa un antes y un después de la respuesta nacional al VIH. Esto está ligado a la entrega de la [PrEP y la PEP](https://www.elcomercio.com/tendencias/salud/que-es-la-prep-y-la-pep-para-prevenir-vih.html#:~:text=La%20profilaxis%20preexposici%C3%B3n%20(PrEP)%20y,su%20pareja%20tiene%20el%20virus. "https://www.elcomercio.com/tendencias/salud/que-es-la-prep-y-la-pep-para-prevenir-vih.html#:~:text=La%20profilaxis%20preexposici%C3%B3n%20(PrEP)%20y,su%20pareja%20tiene%20el%20virus."), medicamentos profilácticos pre y posexposición al virus. “Esto nos va a permitir atender a la población en riesgo y clave a tomar un medicamento para la prevención. Esto va a tener un impacto fuerte de aquí a dos años”. También destacó la inclusión de 19 servicios libres de estigma y discriminación con equipos multidisciplinarios de salud.
+
+Cartas a Quito / 1 de diciembre de 2024
+=======================================
+
+Estas son las cartas a Quito de este domingo 1 de diciembre de 2024
+-------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Ventajas y desventajas de la inteligencia artificial
+----------------------------------------------------
+
+La inteligencia artificial se ha convertido en una de las mayores interrogantes de la humanidad, pues no sabemos a ciencia cierta cuáles pueden ser sus ventajas y, por otro lado, también sus desventajas, porque su aparecimiento realmente ha desconcertado a la población, dado de que se advierten profundos cambios en la tecnología, la industria, el comercio, las rutinas de trabajo, los estudios, la agricultura y en general en todos las áreas donde podría intervenir. ¿Será realmente un avance beneficioso para la humanidad? O nos quedaremos rezagados en nuestra intelectualidad, en nuestra capacidad de razonamiento o nuestra creatividad.
+
+Los expertos dicen que la inteligencia artificial es una rama de la informática combinada con la lógica y otras ciencias cognitivas que pretende imitar el comportamiento humano. También se puntualiza mencionando que la inteligencia artificial se refiere a un sistema informático que se utiliza para resolver problemas complejos que sobrepasan la capacidad del cerebro humano y en ese sentido aprovecha la potencia de las máquinas para solucionar dichos problemas que la mente humana no puede alcanzar.
+
+Si nos centramos en el sector empresarial, las principales ventajas son:
+
+1\. Automatización de los procesos. 2. Menor intervención humana. 3. Resultados más precisos. 4. Los errores humanos se reducen al máximo. 5. Análisis de datos más rápido y efectivo. 6. Mejora en el mantenimiento industrial. 7. Mejor toma de decisiones. 8. Mayor control en los procesos. 9. Mayor productividad. 10. Realización de tareas complejas.
+
+En ese mismo sector, en cambio, las desventajas son:
+
+1\. Falta de datos. 2. Falta de profesionales. 3. Altos costos. 4. Miedo a la pérdida de empleos. 5. Falta de creatividad. 6. Sesgo y discriminación. 7. Privacidad y seguridad.
+
+Será necesario, por lo tanto, tratar de involucrarnos más en su conocimiento para evitar cometer errores en su uso, o que podamos ser sorprendidos por los expertos. Tomemos, por lo tanto, las debidas precauciones y seamos muy perceptivos en cuanto se refiere a su utilización, siempre procurando conseguir más bien beneficios y no caer en situaciones que a lo mejor podrían en el futuro causarnos problemas.
+
+Hernán Patricio Orcés Salvador
+
+¿El Metro de Quito es seguro para la mujer?
+===========================================
+
+El Metro de Quito cumple un año de funcionamiento el 1 de diciembre de 2024.
+----------------------------------------------------------------------------
+
+![Las mujeres son el perfil que más utiliza el Metro de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/11/Mujeres-metro.jpg)
+
+A punto de cumplir su primer año de funcionamiento, el **Metro de Quito** no solo ha transformado la movilidad urbana, sino que también ha marcado un hito en la seguridad y confianza que ofrece a sus usuarias[.](https://es.wikipedia.org/wiki/Metro_de_Quito "https://es.wikipedia.org/wiki/Metro_de_Quito")
+
+Más noticias
+------------
+
+* [¿Cuál es el perfil de usuario que más viaja en el Metro de Quito?](https://www.elcomercio.com/actualidad/quito/metro-quito-perfil-usuario-viaje.html "¿Cuál es el perfil de usuario que más viaja en el Metro de Quito?")
+* [Metro de Quito habilita opciones de ingreso para acompañantes](https://www.elcomercio.com/actualidad/quito/metro-de-quito-habilita-opciones-de-ingreso-para-acompanantes.html "Metro de Quito habilita opciones de ingreso para acompañantes")
+* [Metro de Quito tiene nuevo contrato de mantenimiento](https://www.elcomercio.com/actualidad/quito/metro-quito-mantenimiento-energia-terminar.html "Metro de Quito tiene nuevo contrato de mantenimiento")
+
+Con más de 50 millones de viajes acumulados desde diciembre de 2023, este sistema subterráneo destaca por su enfoque en la **inclusión** y la lucha contra el **acoso**, que entre el 54% y el 59% de sus pasajeros sean mujeres.
+
+Un entorno confiable para las mujeres
+-------------------------------------
+
+El Metro de Quito se ha convertido en una alternativa **preferida por las mujeres** gracias a su diseño seguro y los protocolos específicos para prevenir y actuar ante casos de violencia.
+
+El **94,3% de las mujeres usuarias** afirma sentirse segura o muy segura dentro del sistema, y el **96,82% no ha presenciado casos de acoso**.
+
+Estas cifras reflejan el impacto positivo de la estrategia **cero acoso** implementada desde el inicio de las operaciones.
+
+Cero acoso: un protocolo efectivo
+---------------------------------
+
+La estrategia cero acoso permite a cualquier persona **denunciar incidentes** de acoso mediante interfonos ubicados en trenes y estaciones.
+
+Al activar la palabra clave “cero”, el sistema alerta al Puesto **Central de Control**, que coordina con el **ECU 911** y la **Policía Nacional** para intervenir de inmediato.
+
+Además, el protocolo incluye asistencia **psicológica** y legal para las **víctimas**, con un equipo especializado en respuesta rápida.
+
+Esta medida forma parte de un plan integral liderado por el **Municipio** de **Quito** y la **Empresa** **Pública** Metropolitana **Metro** de **Quito**, en colaboración con organizaciones como **ONU** **Mujeres**.
+
+**María** **Fernanda**, una joven universitaria de 22 años, relata su experiencia al utilizar el Metro de Quito: “Antes, al viajar en bus, siempre estaba alerta y preocupada por posibles situaciones de acoso. Desde que uso el metro, me siento más tranquila y segura. Las instalaciones están bien iluminadas, y el personal siempre está atento”.
+
+**Ana** **Luisa**, madre de dos hijos, comparte: “Trabajo en el centro y vivo en el sur de Quito. El metro me ha brindado una forma rápida y segura de llegar a casa. Ya no temo por mi integridad al regresar en la noche. Además, saber que existen protocolos como ‘Cero Acoso’ me da mucha confianza”.
+
+Capacitación al personal y enfoque de género
+--------------------------------------------
+
+El Metro de Quito capacitó a su personal con talleres que abordan el marco jurídico ecuatoriano y mejores prácticas internacionales para prevenir el acoso. Estas capacitaciones, realizadas en colaboración con **Ceplaes** y **ONU Mujeres**, garantizan una atención profesional y sensible ante cualquier incidente.
+
+Además, las mujeres no solo lideran en número como usuarias, sino que también desempeñan roles operativos clave. Más del **30% del equipo de operadores de trenes** está compuesto por mujeres, quienes completaron más de 320 horas de formación técnica, según el **Metro de Quito**.
+
+El impacto del Metro en la movilidad de Quito
+---------------------------------------------
+
+En menos de un año, el Metro de Quito movilizó a miles de personas diariamente. Conectó el sur con el centro y el norte de la capital.
+
+Sus estaciones más utilizadas, como Quitumbe, Iñaquito y Universidad Central, reflejan un flujo constante de pasajeros, especialmente en horarios laborales y educativos.
+
+Quito celebra sus fiestas con desfiles, música y mucho color
+============================================================
+
+Las calles del sur de Quito fueron el escenario de desfiles y comparsas.
+------------------------------------------------------------------------
+
+![VIII Desfile Cultural Ronda Quiteña en el Centro Histórico de Quito. Foto: API / Daniel Molineros](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-30T204335.913.jpg)
+
+Este sábado 30 de noviembre de 2024, las calles del sur y centro de **Quito** se convirtieron en un escenario de música, danzas y color, celebrando las fiestas de Fundación de la ciudad.
+
+A partir de las 10:00, el tradicional desfile de la Confraternidad recorrió la avenida Teniente Hugo Ortiz, donde miles de espectadores disfrutaron de la participación de estudiantes.
+
+### **Más noticias:**
+
+* [Te recomendamos los eventos de las fiestas de Quito este sábado 30 de noviembre](https://www.elcomercio.com/actualidad/quito/eventos-recomendados-fiestas-quito-sabado-30-noviembre.html "https://www.elcomercio.com/actualidad/quito/eventos-recomendados-fiestas-quito-sabado-30-noviembre.html")
+* [Conciertos, cierres viales y ubicación de las chivas durante las fiestas de Quito](https://www.elcomercio.com/actualidad/quito/chivas-conciertos-fiestas-quito-mapas.html "https://www.elcomercio.com/actualidad/quito/chivas-conciertos-fiestas-quito-mapas.html")
+* [La AMT toma medidas para mejorar la seguridad vial durante las fiestas de Quito](https://www.elcomercio.com/actualidad/quito/control-velocidad-quito-amt-razones.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/actualidad/quito/control-velocidad-quito-amt-razones.html?source=Internal&ref=Single+Content+Link")
+
+Este año, el desfile conmemoró los 490 años de la fundación española de la ciudad. Durante el evento, los participantes lucieron sus mejores trajes y realizaron coreografías, rindiendo homenaje a la capital.
+
+El acto inaugural estuvo encabezado por el alcalde de Quito, Pabel Muñoz, junto a la reina de Quito, Doménica Jarrín, y diversas autoridades municipales.
+
+En la Tribuna del Sur, las autoridades observaron el colorido espectáculo mientras. Eso, mientras Pabel Muñoz se dirigía al público con un breve mensaje.
+
+En su intervención, hizo un llamado a disfrutar de las festividades de manera responsable y a evitar el consumo excesivo de alcohol.
+
+En el desfile participaron 56 colegios, 16 agrupaciones artísticas. También hubo comparsas.
+
+**Desfiles en La Ronda para celebrar a Quito**
+----------------------------------------------
+
+Este 30 de noviembre se realizó el VIII Desfile Cultural Ronda Quiteña en el Centro Histórico de Quito. Participaron estudiantes de varias instituciones.
+
 Alfonso Quirola ganó la Vuelta Automovilística al Ecuador 2024
 ==============================================================
 
@@ -663,306 +919,3 @@ Descubre las historias de mujeres que rompieron el silencio frente a la violenci
 Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
 
 [ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
-
-Daniel Noboa devolvió archivo de la ley de lavado de activos a la Asamblea Nacional
-===================================================================================
-
-El presidente Daniel Noboa insiste a la Asamblea Nacional en el tratamiento de la ley de lavado de activos.
------------------------------------------------------------------------------------------------------------
-
-![El presidente Daniel Noboa pide el tratamiento de la 'ley antipillos' a la Asamblea Nacional.](https://www.elcomercio.com/wp-content/uploads/2024/11/noboa-va.jpg)
-
-La **Asamblea Nacional** negó y archivó el proyecto de **Ley Orgánica para la Mejora Recaudatoria a través del Combate al Lavado de Activos,** presentado por **Daniel Noboa**, o como la llama el gobierno **‘Ley Antipillos’.**
-
-La decisión de la **Asamblea Nacional** fue publicada en el Registro Oficial el 28 de noviembre de 2024, en el Quinto Suplemento Número 693.
-
-### Más noticias
-
-* [Proyecto archivado y negado por la Asamblea es publicado en el Registro Oficial](https://www.elcomercio.com/actualidad/politica/proyecto-archivado-negado-por-asamblea-publicado-registro-oficial.html "https://www.elcomercio.com/actualidad/politica/proyecto-archivado-negado-por-asamblea-publicado-registro-oficial.html")
-* [Asamblea Nacional aprobó avance del proyecto de alivio financiero a segundo debate](https://www.elcomercio.com/actualidad/politica/asamblea-nacional-aprueba-avance-proyecto-alivio-financiero-segundo-debate.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/actualidad/politica/asamblea-nacional-aprueba-avance-proyecto-alivio-financiero-segundo-debate.html?source=Internal&ref=Single+Content+Link")
-* [Corte Constitucional habilita trámite de reforma parcial a la Asamblea](https://www.elcomercio.com/actualidad/politica/corte-constitucional-habilita-tramite-reforma-parcial-asamblea-nacional.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/actualidad/politica/corte-constitucional-habilita-tramite-reforma-parcial-asamblea-nacional.html?source=Internal&ref=Single+Content+Link")
-
-Sin embargo, el **Ministerio de Gobierno** informó este **sábado 30 de noviembre** que se devolvieron las resoluciones sobre este proyecto de la **‘Ley Antipillos’** a la **Asamblea Nacional.**
-
-En el comunicado se indica que ‘se devolvieron a la Asamblea la Resolución Nro. RL-2023-2025-137 y el oficio Nro. AN-SG-2024-0773-O, emitidos los días 27 y 28 de noviembre’.
-
-La comunicación manifiesta que “la vieja política que actúa en la Asamblea Nacional no solo busca frenar la ‘**Ley Antipillos’,** una herramienta vital para golpear a las mafias, sino que pretende mantener abierta la puerta del financiamiento de los grupos narco-delictivos para que sigan ganando poder”.
-
-Adicionalmente, advierte que esto no es un simple trámite legislativo: es un ataque directo a la seguridad del país.
-
-Ley de lavado de activos o ‘Ley antipillos’ se analizó en primer debate en la Asamblea
---------------------------------------------------------------------------------------
-
-Según un comunicado del Ministerio de Gobierno, sectores de la política tradicional bloquean la aprobación de la **‘Ley Antipillos’**. Con este proyecto se busca debilitar el financiamiento de grupos narco-delictivos.
-
-Lejos de ser un trámite legislativo ordinario, el Gobierno catalogó este enfrentamiento como un ataque directo a la seguridad nacional.
-
-“El país no puede permitir que las mafias ganen esta batalla”, se lee en el comunicado. Se recalca la importancia de la **‘Ley Antipillos’** como herramienta para enfrentar las redes criminales.
-
-El mensaje también envía una clara advertencia a los asambleístas: cualquier maniobra que intente retrasar o desestimar este proyecto será confrontada por el Gobierno.
-
-> 🔵 A la ciudadanía: [pic.twitter.com/sDMIhTcWRz](https://t.co/sDMIhTcWRz)
-> 
-> — Ministerio de Gobierno Ecuador (@MinGobiernoEc) [November 30, 2024](https://twitter.com/MinGobiernoEc/status/1862873756298883262?ref_src=twsrc%5Etfw)
-
-Recordó a los asambleístas que los tiempos establecidos para el trámite de la **‘Ley Antipillos’** siguen su curso, por lo que el Gobierno, en su momento, sabrá responder con base en la Constitución.
-
-Las autoridades insistieron en que los plazos establecidos para el análisis del proyecto de la **ley de lavado de activos** se mantienen vigentes y han advertido que responderán conforme a la Constitución.
-
-La resolución en la Asamblea Nacional sobre la ‘Ley Antipillos’
----------------------------------------------------------------
-
-Según la resolución de la **Asamblea Nacional**, el archivo se realizó de conformidad con los artículos 140 de la Constitución y 60 de la Ley Orgánica de la Función Legislativa.
-
-Con esto, el tratamiento constitucional del proyecto quedó concluido, notificándose al Ejecutivo y enviando el documento al Registro Oficial.
-
-El secretario general de la Asamblea Nacional, Alejandro Muñoz, enfatizó que este proyecto no puede pasar por el Ministerio de la Ley. Hizo énfasis en esto, debido a que el Legislativo se pronunció en el tiempo establecido. Citó el artículo 140 de la Constitución, que regula los plazos para proyectos urgentes en materia económica[.](https://es.wikipedia.org/wiki/Asamblea_Nacional_del_Ecuador "https://es.wikipedia.org/wiki/Asamblea_Nacional_del_Ecuador")
-
-Esta tensión entre el Ejecutivo y la Asamblea Nacional refleja la creciente presión sobre las instituciones para abordar las amenazas del narcotráfico y otros delitos transnacionales que afectan al Ecuador.
-
-La **Ley Orgánica para la Mejora Recaudatoria a través del Combate al Lavado de Activos,** de **Daniel Noboa**, tuvo el tratamiento en primer debate en la Asamblea Nacional. El archivo se realizó en esa instancia, por lo que no llegó a su segundo debate.
-
-* * *
-
-### Esperanza
-
-Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
-
-Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
-
-[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
-
-Te recomendamos los eventos de las fiestas de Quito este sábado 30 de noviembre
-===============================================================================
-
-Quito celebra su fundación con música y cultura. Este sábado 30 de noviembre se realizarán varios eventos artísticos.
----------------------------------------------------------------------------------------------------------------------
-
-![Quito festeja su aniversario de fundación con eventos masivos y fiestas de barrio](https://www.elcomercio.com/wp-content/uploads/2024/11/fiestas-quito-celebracion.jpg)
-
-**Quito** celebra sus 490 años de fundación con **música, cultura y arte**. Según la **agenda oficial** de eventos, la capital tendrá **dos desfiles** y varias presentaciones artísticas en algunos sectores, este sábado 30 de noviembre de 2024
-
-### Más noticias
-
-* [Eventos y cierres viales en Quito este sábado 30 de noviembre](https://www.elcomercio.com/actualidad/quito/eventos-cierres-viales-quito-sabado-30-noviembre.html "Eventos y cierres viales en Quito este sábado 30 de noviembre")
-* [El Metro cumple un año y tiene 15 estaciones para conocer a Quito](https://www.elcomercio.com/actualidad/quito/metro-cumple-tiene-15-estaciones-para-conocer-quito.html "El Metro cumple un año y tiene 15 estaciones para conocer a Quito")
-* [Cortes de luz en Quito este sábado 30 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-sabado-30-noviembre.html "Cortes de luz en Quito este sábado 30 de noviembre")
-
-Desfile de la Confraternidad en la Tribuna del Sur
---------------------------------------------------
-
-Este **tradicional desfile** contará con la participación de más de 50 instituciones educativas y delegaciones artísticas.
-
-El evento comenzó a partir de las **10:00** y finalizará a las **16:00**.
-
-Los cierres viales por el Desfile de la Confraternidad se realizarán en la **Av. Cardenal de la Torre**, desde la Av. Ajaví hasta la Av. Teniente Hugo Ortiz, en el sur[.](https://www.amt.gob.ec/ "https://www.amt.gob.ec/")
-
-Desfile en La Ronda
--------------------
-
-En el **centro de Quito**, se realizará otro desfile evento, el **VIII Desfile Cultural Ronda Quiteña**.
-
-Los quiteños recorrerán la **Calle Venezuela**, desde la avenida Julio Matovelle hasta el Bulevar 24 de Mayo.
-
-El evento durará cinco horas, desde las **16:30** a las **21:30**.
-
-Mega Feria Metropolitana del Valle
-----------------------------------
-
-La feria navideña y de emprendimientos Mega Feria Metropolitana se realiza en Conocoto, en el Parque Acosta Soberón, desde el 28 de noviembre.
-
-La feria finalizará este domingo 1 de diciembre, sin embargo, este sábado la Secretaría de Cultura desarrolla un **evento artístico cultural**[.](https://quitocultura.com/ "https://quitocultura.com/")
-
-Eventos artísticos en barrios de Quito
---------------------------------------
-
-Varios eventos artísticos se realizarán en algunos barrios de Quito este sábado, entre ellos:
-
-* **Carcelén Bajo**: Serenata Quiteña en Parque Ecológico, 18:00 a 21:00
-* **San Juan**: San Juan saluda a Quito en el mercado, 18:00 a 21:00
-* **Centro Histórico**: Feria de emprendimientos y ballet folclórico en la Plaza del Teatro, 09:00 a 22:00
-* **Eugenio Espejo**: Viva Quito y sus melodías en parque Bonanza California, de 09:30 a 17:30
-* **Pacto**: Festival de la caña, cultura y patrimonio en el parque central, de 11:00 a 17:00
-* **Quitopía**: Cultura Urbana Fest en la antigua parada del Trolebús, en La Y, de 11:00 a 15:00
-* **Oriente Quiteño**: Fiestas de Quito AZEA, en las canchas de la Liga, de 15:00 a 21:00
-* **La Kennedy**: Alma y Fiesta Quiteña en el mercado, de 12:00 a 15:00
-* **Quitumbe**: Serenatas en los Barrios, distintas horas
-
-El Leverkusen vence a Union Berlin con un destacado Piero Hincapié
-==================================================================
-
-Piero Hincapié y el Bayer Leverkusen se impusieron ante el Union Berlin y se mantienen en pelea en la Bundesliga.
------------------------------------------------------------------------------------------------------------------
-
-![Piero Hincapié con el Bayer Leverkusen en su partido ante el Union Berlin.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-40-4.jpg)
-
-El Bayer Leverkusen se impuso con **Piero Hincapié** ante el Union Berlin en la duodécima fecha de la Bundesliga de Alemania. El conjunto del ecuatoriano consiguió vencer por 1-2 y este se destacó en el fondo.
-
-Las ‘aspirinas’ no abandonan la pelea por el liderato de la **Bundesliga** y con su triunfo se mantuvieron en lo lato de la tabla de posiciones. El conjunto farmacéutico se cimentó en el tercer puesto de la tabla y llegó a las 23 unidades.
-
-### Más noticias:
-
-* [Piero Hincapié se redime con victoria en el Bayer Leverkusen](https://www.elcomercio.com/deportes/futbol/piero-hincapie-victoria-bayer-leverkusen-heidenheim.html "Piero Hincapié se redime con victoria en el Bayer Leverkusen")
-* [La Selección de Ecuador cumple dos años de su última participación en un Mundial](https://www.elcomercio.com/deportes/seleccion-ecuador-mundial-catar-aniversario.html "La Selección de Ecuador cumple dos años de su última participación en un Mundial")
-* [La Selección de Ecuador fue top mundial, ¿qué pasó con sus jugadores?](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-top-ranking-fifa.html "La Selección de Ecuador fue top mundial, ¿qué pasó con sus jugadores?")
-
-Pese a su ascenso, el Leverkusen aún está a seis unidades del **Bayern München**, líder de la competición y que tiene un partido menos. Asimismo, iguala en puntaje con el Eintracht Frankfurt, que es segundo, pero posee mejor gol diferencia.
-
-En su compromiso ante Union Berlin, el DT Xabi Alonso decidió contar con **Piero Hincapié** desde el inicio del cotejo. A su vez, este se mantuvo durante los 90 minutos de juego y su actuación fue en ascenso durante el compromiso.
-
-El Leverkusen pegó primero, pero no sostuvo el resultado
---------------------------------------------------------
-
-Ni bien empezó el partido, el **Bayer Leverkusen** consiguió ponerse por delante en el marcador gracias a Emmanuel Frimpong. A los dos minutos de juego, el lateral derecho apareció para poner el primer tanto del cotejo[.](https://es.wikipedia.org/wiki/Bayer_Leverkusen)
-
-Después de un rechazo desde la zaga, Alejandro Grimaldo apareció y, en una veloz contra, tiró un centro raso en el área. **Frimpong** apareció para cerrar la pinza y envió el balón al fondo de las redes.
-
-Antes de que acabe el primer tiempo, sin embargo, el Union Berlin se las arregló para volver a emparejar las cosas. **Jeon Woo-Yeong** apareció a los 29′ y con un sólido remate, que Hincapié intentó y no logró cerrar, puso tablas en el marcador, sin embargo, aquello no sería permanente.
-
-Un tanto para definir el compromiso del equipo de Piero Hincapié
-----------------------------------------------------------------
-
-El partido entre el **Leverkusen y el Union Berlin** se definió a los 71 minutos gracias al certero funcionamiento de la delantera de los ‘farmacéuticos’. **Patrik Schick** apareció y aseguró la victoria para su escuadra.
-
-Una vez que el plantel de **Hincapié** se puso por delante, el conjunto contrario intentó aumentar su capacidad y virtud ofensiva, pero el desempeño del ecuatoriano frenó cualquier intento de gol. Asimismo, aquello llevó a que existan más espacios y los rojinegros saquen provecho, aunque no consiguieron aumentar su resultado a favor.
-
-¿Karol G y Feid se casaron en secreto?
-======================================
-
-Los 'fans' de los colombianos Karol G y Feid presumen que los artistas se casaron en secreto luego de que se filtrara una foto.
--------------------------------------------------------------------------------------------------------------------------------
-
-![Feid y Karol G, dos de los artistas más populares del género urbano](https://www.elcomercio.com/wp-content/uploads/2024/11/karol-g-feid-boda-secreta.jpg)
-
-**Karol G y Feid**, la pareja más popular de **Colombia**, han decidido presumir su relación al público en el último año, luego de mantenerla en **secreto** durante un tiempo. Ahora, sus fanáticos presumen que los artistas se casaron tras filtrarse una **foto** en redes sociales.
-
-### Más noticias
-
-* [Karol G entra al mundo de las muñecas Bratz](https://www.elcomercio.com/tendencias/entretenimiento/karol-g-muneca-bratz-fans-felices.html "Karol G entra al mundo de las muñecas Bratz")
-* [Feid comparte video de su borrachera e indigna a los usuarios de Instagram](https://www.elcomercio.com/tendencias/entretenimiento/feid-video-borracho-instagram-criticas-redes-57.html "Feid comparte video de su borrachera e indigna a los usuarios de Instagram")
-* [Karol G pide disculpas ‘de corazón’ por la canción +57](https://www.elcomercio.com/tendencias/entretenimiento/karol-g-musica-criticas-fans-nueva-cancion-57.html "Karol G pide disculpas ‘de corazón’ por la canción +57")
-
-Ferxxo y la ‘bichota’ se han dejado ver juntos en conciertos, entregas de premios y viajes. Aunque comenzaron como **buenos amigos**, unidos por la música, actualmente la pareja no duda en mostrarse juntos cada vez que pueden.
-
-¿Feid y Karol G se casaron en secreto?
---------------------------------------
-
-La idea de una supuesta **boda secreta** entre los cantantes urbanos creció luego de una **foto filtrada** en X.
-
-Los seguidores de ambos artistas realizaron varios comentarios y observaciones sobre una imagen de una camiseta difundida en la red social.
-
-La prenda tiene estampada una foto de los artistas mientras brindan, acompañados con velas y arreglos florales[.](https://es.wikipedia.org/wiki/Karol_G "https://es.wikipedia.org/wiki/Karol_G")
-
-La camiseta tiene impresas **dos frases**; la primera dice: **“Feliz aniversario, bebé”** en color naranja y letras grandes; mientras que en la segunda se puede leer las siglas de **“Para un tierno amor”.**
-
-Se presume que la prenda la utilizaba una de las personas del equipo de trabajo de Feid, quien también aparece en la foto.
-
-> ¿Karol G y Feid se casaron?💍  
->   
-> Feid fue captado recientemente usando una camiseta con una imagen que lo muestra junto a Karol G brindando, ambos vestidos como si estuvieran en una boda.  
->   
-> ¿Tu que opinas la pareja de música urbana de caso? 👀[#feid](https://twitter.com/hashtag/feid?src=hash&ref_src=twsrc%5Etfw) [#ferxxo](https://twitter.com/hashtag/ferxxo?src=hash&ref_src=twsrc%5Etfw) [#karolg](https://twitter.com/hashtag/karolg?src=hash&ref_src=twsrc%5Etfw) [#labichota](https://twitter.com/hashtag/labichota?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/083zKXC0r5](https://t.co/083zKXC0r5)
-> 
-> — Nuevas Canciones | Música Nueva (@nuevascancion3s) [November 26, 2024](https://twitter.com/nuevascancion3s/status/1861456001095942632?ref_src=twsrc%5Etfw)
-
-Para sus fanáticos, la imagen puede ser una pista de que los reguetoneros decidieron dar el siguiente paso en su relación. Los usuarios señalan que el vestuario y la locación de la foto impresa en la prenda podría ser del **día de su boda** o de su **luna de miel**.
-
-Algunos de los internautas comentaron: “**¿Cómo así que Karol G y Feid se casaron?**”, “los novios celebran aniversarios por si no lo sabían”, “para mí que él le hizo un video para mandarle por el aniversario, por eso todos tienen la remera”.
-
-Otros fans manejan una segunda idea, que la fotografía pueda ser parte de algún **nuevo video** que los cantantes estén planificando.
-
-Martín Kohan, entre el asado, el fútbol, el café y el teléfono, en La Sobremesa
-===============================================================================
-
-El escritor Martín Kohan pasó por los estudios de EL COMERCIO, para La sobremesa con el Señor del Sombrero., sobre los asados, el fútbol y el teléfono.
--------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![El escritor argentino Martin Kohan pasó por los estudios del podcaste de El Señor del Sombrero.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-66-2.jpg)
-
-**Martín Kohan** es uno de los más importantes **escritores** y **críticos** literarios de **Argentina**. Es un apasionado por **Boca Juniors** y los **cafetines** de **Buenos Aires**, no así con la gastronomía. Sin embargo, accedió a hablar en el podcast **La sobremesa con el Señor del Sombrero** sobre estos temas y sobre uno de sus libros más recientes: el teléfono.
-
-### Más noticias
-
-* [Nuema, Clara, Tributo y Quitu, entre los mejores restaurantes de América Latina](https://www.elcomercio.com/sabores/nuema-clara-tributo-quitu-mejores-restaurantes-america-latina.html "Nuema, Clara, Tributo y Quitu, entre los mejores restaurantes de América Latina")
-* [Cafetería Modelo, 74 años de tradición en la gastronomía de Quito](https://www.elcomercio.com/tendencias/gastronomia/cafeteria-modelo-74-anos-tradicion-gastronomia-quito.html "Cafetería Modelo, 74 años de tradición en la gastronomía de Quito")
-* [Fiestas de Quito, ¿cuál plato define a la quiteñidad?](https://www.elcomercio.com/actualidad/quito/locro-papa-gastronomia-quito.html "Fiestas de Quito, ¿cuál plato define a la quiteñidad?")
-
-¿Quién es Martín Kohan?
------------------------
-
-Martin Kohan es profesor de la **Universidad de Buenos Aires (UBA)**. Es un muy destacado crítico y una de las personas que siempre está abierta para dialogar con los medios, sean tradicionales o alternativos.
-
-Es un gran **conversador**, como lo podrán notar en este **podcast**. Es un apasionado por Boca Juniors, un nombre recurrente en esta conversación. Sin embargo, se califica como un **pésimo anfitrión.** Prefiere pasar las horas en los **cafés de Buenos Aires**, en donde puede estar horas leyendo o encontrarse con los amigos para esas charlas interminables, “**como una escuela de todas las cosas”**, como dice el tango.
-
-Además, se califica como alguien **básico para comer**. Su aventura gastronómica va de la mano de su esposa, que es la que busca sabores distintos. Tampoco sabe hacer los asados. ¿Por qué, entonces, está en un segmento gastronómico? Pues por eso mismo: todos comemos y todos tenemos algún plato favorito. Y en ese sentido, **el asado nos une**, y también el fútbol, el café y, por qué no, el teléfono.
-
-Gracias a ese acto tan primitivo de encender el fuego y solamente sazona con sal, que es la manera argentina, y echa la carne al fuego y la herencia italiana de las largas sobremesas, con el vino, el mate y el fernet, en Argentina se viven grandes momentos gastronómicos.
-
-La gastronomía en el fútbol
----------------------------
-
-En **Quito**, el **estadio** es un epicentro de la gastronomía popular, que ahora llaman “street food”. Incluso queda la duda si se va más para comer y tomar una cerveza que para ver los partidos. Las empanadas de morocho, la guatita, las papas con cuero, fritada, caldos y tantas cosas más son parte del menú. Además, la cerveza pulula por todas partes.
-
-En Buenos Aires, en cambio, nada más elemental que la comida en los estadios, que llaman cancha. La oferta se reduce a choripanes, patys (hamburguesas) y panchos (hot dogs). Aunque ahora, dice Martín, hay el sándwich de bondiola, algo que no le agrada. Está prohibida la venta de cerveza dentro del estadio y hasta algunas cuadras a la redonda, por motivos de seguridad[.](https://es.wikipedia.org/wiki/Mart%C3%ADn_Kohan "https://es.wikipedia.org/wiki/Mart%C3%ADn_Kohan")[](https://es.wikipedia.org/wiki/Mart%C3%ADn_Kohan "https://es.wikipedia.org/wiki/Mart%C3%ADn_Kohan")
-
-El asado lo es todo
--------------------
-
-Si la comida es poca en los estadios, cuando los **amigos se reúnen** para ver algún **partido importante**, los de la **Selección** argentina, por ejemplo, el **asado es el rey de la causa**. Es casi una **cábala**. Al menos, tiene su **ritual**.
-
-Primero está la manera de encender el fuego. ¿Solo con carbón o también con leña? Hay fundamentalistas que no aceptan siquiera el uso de periódicos o secadoras de pelo, menos aún -pecado mortal- algún aceite o combustible. En ese momento, pierdes la reputación como asador.
-
-**El fuego se prende cuando llegan los amigos**. Se acompaña al parrillero durante todo el proceso con una picada: quesos, papas fritas de funda, morcilla sin pasar por el fuego. No se le ocurra dar indicaciones. Sin embargo, siempre habrá algún impertinente que diga: “ah, le echas la sal durante el asado; yo lo pongo antes”; “¿no será de darle vuelta?”, para **furia del parrillero.**
-
-¿Y el teléfono?
----------------
-
-**Kohan** publicó hace poco un libro sobre el teléfono. El título es **Hola**, que es como contestan en Argentina al teléfono. Y no era un tema que se podía desaprovechar. Desde que apareció el teléfono, dice, hubo una **modificación en la vida** de las personas, que ya lo analizaron filósofos como **Walter Benjamin,** o novelistas como **Marcel Proust.**
-
-Ahora, con los **celulares**, **solo conservan el nombre de teléfono**. Es, incluso, lo que menos se usa del dispositivo. **El teléfono generaba vínculos a cambio de otros**. “Me parece un cambio de época, porque antes se hablaba a alguien que escuchaba, y te podía interrumpir. Ahora, en cambio, no hay diálogos: hay mensajes, que si bien hay un otro, no es un otro que nos escucha en el momento de la enunciación”.
-
-Mejor es escuchar a **Martín Kohan**, en el **podcast La sobremesa con El Señor del Sombrero.**
-
-Multas en el fútbol ecuatoriano, un problema recurrente
-=======================================================
-
-En esta temporada, varios equipos de la Liga Pro han sido sancionados por distintas situaciones que impactaron directamente en sus puntajes en el torneo.
----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Emelec es uno de los equipos afectados por las sanciones en el campeonato ecuatoriano.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-29T190247.759.jpg)
-
-Desde hace algunos años, los **clubes del fútbol ecuatoriano** enfrentan serias dificultades para cumplir con sus obligaciones económicas, lo que se traduce en multas y sanciones dentro del campeonato nacional.
-
-Aunque no es un problema reciente, en la presente temporada cuatro equipos sufrieron la resta de puntos en la **Liga Pro**. Otros clubes apenas lograron cumplir con sus compromisos económicos en el último minuto para evitar sanciones, una situación que se repite semana a semana.
-
-Más noticias
-------------
-
-* [Así fue la defensa de Liga de Quito para recuperar los tres puntos](https://www.elcomercio.com/deportes/futbol/defensa-de-liga-de-quito-para-recuperar-tres-puntos-sancion.html "Así fue la defensa de Liga de Quito para recuperar los tres puntos")
-* [Barcelona Sporting Club pagó a Damián Díaz y evitó sanción](https://www.elcomercio.com/deportes/futbol/barcelona-deuda-damian-diaz-pago.html "Barcelona Sporting Club pagó a Damián Díaz y evitó sanción")
-* [Emelec anuncia oficialmente la renuncia de José Pileggi](https://www.elcomercio.com/deportes/emelec-jose-pileggi-renuncia-oficial.html "Emelec anuncia oficialmente la renuncia de José Pileggi")
-
-Multas y sanciones, un tema constante
--------------------------------------
-
-Andrés Holguín, abogado especializado en derecho deportivo, destacó a _EL COMERCIO_ que este año se dieron **numerosas sanciones**, afectando incluso a clubes considerados “grandes” del país.
-
-“En este año sancionaron a**l Deportivo Cuenca, Emelec, El Nacional y, más recientemente, a Liga de Quito** (este último apeló y logró revertir la sanción)”, explicó Holguín.
-
-El jurista también señaló que esta problemática es aún más frecuente en los torneos de ascenso, como la **Segunda Categoría**. En estas competiciones, equipos han sido eliminados de fases decisivas por deudas e incumplimientos económicos. “Allí se sanciona bastante”, acotó.
-
-¿Por qué ocurre esto?
----------------------
-
-Existen múltiples razones para este incremento en las sanciones, pero para Juan Francisco Guerrero, abogado que defendió recientemente a Liga de Quito y logró recuperar los tres puntos que se le habían restado, todo se origina en un **problema estructural**.
-
-“El fútbol ecuatoriano **arrastra una crisis económica importante desde hace algunos años** (…). Hay un problema estructural porque los ingresos y los gastos de los clubes no están equilibrados; existen desfases”, explicó Guerrero a _EL COMERCIO_.
-
-Este **desbalance económico** provoca que los clubes no puedan cumplir con sus obligaciones contractuales con jugadores o empleados, lo que genera multas que agravan aún más la situación y, en algunos casos, deriva en sanciones deportivas.
-
-**La necesidad de mejores controles**
--------------------------------------
-
-Para Guerrero, una de las soluciones a esta crisis pasa por implementar **controles financieros más estrictos y eficaces.** En el pasado, los mecanismos de supervisión eran insuficientes, lo que permitía que los clubes sortearan situaciones críticas sin resolver sus problemas de fondo.
-
-“Los **controles** en el pasado **no eran lo suficientemente rigurosos** desde el punto de vista financiero (…). Esperamos que con la actual federación y los nuevos controles, estas situaciones no se sigan presentando”, añadió el abogado.
