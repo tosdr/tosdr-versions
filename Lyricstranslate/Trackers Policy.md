@@ -137,69 +137,65 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![robinofsherwood17021981](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1199762-1607435630.jpg)](https://lyricstranslate.com/en/translator/robinofsherwood17021981 "robinofsherwood17021981")
+[![Not noble Jenny](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1614503-1712606329.png)](https://lyricstranslate.com/en/translator/not-noble-jenny "Not noble Jenny")
+
+New annotation
+
+Дворцовый мост - это разводной мост через реку ...  [more](https://lyricstranslate.com/en/node/4883462)
+
+[![Turbonorm](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1620552-1725868199.jpg)](https://lyricstranslate.com/en/translator/turbonorm "Turbonorm")
 
 New song
 
-[Daniela Alfinito - Träume on the Rocks](https://lyricstranslate.com/en/daniela-alfinito-traume-rocks-lyrics)
+[Deejay Télio - Filme](https://lyricstranslate.com/en/deejay-telio-filme-lyrics)
 
-German
+Portuguese
 
-[![robinofsherwood17021981](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1199762-1607435630.jpg)](https://lyricstranslate.com/en/translator/robinofsherwood17021981 "robinofsherwood17021981")
+[![Роман Постовалов](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1609206-1728278937.jpg)](https://lyricstranslate.com/en/translator/%D1%80%D0%BE%D0%BC%D0%B0%D0%BD-%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B0%D0%BB%D0%BE%D0%B2 "Роман Постовалов")
 
-New song
+New request
 
-[Daniela Alfinito - Im Dunkel der Nacht](https://lyricstranslate.com/en/daniela-alfinito-im-dunkel-der-nacht-lyrics)
+[Pantelis Pantelidis - Χτύπα (Chtýpa)](https://lyricstranslate.com/en/request/%CF%87%CF%84%CF%8D%CF%80%CE%B1)
 
-German
+Greek → Albanian
 
-[![robinofsherwood17021981](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1199762-1607435630.jpg)](https://lyricstranslate.com/en/translator/robinofsherwood17021981 "robinofsherwood17021981")
+[![Not noble Jenny](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1614503-1712606329.png)](https://lyricstranslate.com/en/translator/not-noble-jenny "Not noble Jenny")
 
-New song
+New annotation
 
-[Daniela Alfinito - Kein Feuer wär mir heiß genug](https://lyricstranslate.com/en/daniela-alfinito-kein-feuer-war-mir-heiss-lyrics)
+Персы Леонида – воины персидской армии, с которыми...  [more](https://lyricstranslate.com/en/node/4883462)
 
-German
+[![Роман Постовалов](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1609206-1728278937.jpg)](https://lyricstranslate.com/en/translator/%D1%80%D0%BE%D0%BC%D0%B0%D0%BD-%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B0%D0%BB%D0%BE%D0%B2 "Роман Постовалов")
 
-[![robinofsherwood17021981](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1199762-1607435630.jpg)](https://lyricstranslate.com/en/translator/robinofsherwood17021981 "robinofsherwood17021981")
+New request
 
-New song
+[Pantelis Pantelidis - Χειρότερη (Cheiróteri)](https://lyricstranslate.com/en/request/%CF%87%CE%B5%CE%B9%CF%81%CF%8C%CF%84%CE%B5%CF%81%CE%B7)
 
-[Daniela Alfinito - Passagiere der Liebe](https://lyricstranslate.com/en/daniela-alfinito-passagiere-der-liebe-lyrics)
+Greek → Albanian
 
-German
-
-[![robinofsherwood17021981](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1199762-1607435630.jpg)](https://lyricstranslate.com/en/translator/robinofsherwood17021981 "robinofsherwood17021981")
-
-New song
-
-[Daniela Alfinito - Warum?](https://lyricstranslate.com/en/daniela-alfinito-warum-lyrics)
-
-German
-
-[![Polonius](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/polonius "Polonius")
-
-New forum topic
-
-[Understanding שייגעצ -- ניו יורק רפיח](https://lyricstranslate.com/en/forum/hebrew-language/understanding-%D7%A9%D7%99%D7%99%D7%92%D7%A2%D7%A6-%D7%A0%D7%99%D7%95-%D7%99%D7%95%D7%A8%D7%A7-%D7%A8%D7%A4%D7%99%D7%97)
-
-Hebrew language
-
-[![Souldiver66](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1638388-1732879174.jpg)](https://lyricstranslate.com/en/translator/souldiver66 "Souldiver66")
+[![Wēi Fēng](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1637942-1732438208.jpg)](https://lyricstranslate.com/en/translator/w%C4%93i-f%C4%93ng "Wēi Fēng")
 
 New translation
 
-[Patent Ochsner - Niemer im Nüt](https://lyricstranslate.com/en/patent-ochsner-niemer-im-nut-german)
+[Highasakite - Lover, Where Do You Live?](https://lyricstranslate.com/en/highasakite-lover-where-do-you-live-russian)
 
-German (Swiss-German/Alemannic) → German
+English → Russian
 
-[![robinofsherwood17021981](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1199762-1607435630.jpg)](https://lyricstranslate.com/en/translator/robinofsherwood17021981 "robinofsherwood17021981")
+[![JeBo](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1625119-1722251655.jpg)](https://lyricstranslate.com/en/translator/jebo "JeBo")
 
-New translation
+New explanation of idiom
 
-[Annemarie Eilfeld - Herz aus Metall](https://lyricstranslate.com/en/annemarie-eilfeld-herz-aus-metall-english)
+[De toekomst voorspellen...](https://lyricstranslate.com/en/de-toekomst-voorspellen)
 
-German → English
+French → Dutch
+
+[![JeBo](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1625119-1722251655.jpg)](https://lyricstranslate.com/en/translator/jebo "JeBo")
+
+New explanation of idiom
+
+[Predicting the future...](https://lyricstranslate.com/en/predicting-future)
+
+French → English
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
