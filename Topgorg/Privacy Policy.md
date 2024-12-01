@@ -10,7 +10,7 @@ Privacy Policy
 Please take a moment to read our privacy policy
 
 **🚨 Black Friday Promo: Pay 50% less Credits for all Premium and get 10% MORE CREDITS on ANY Purchase! 🚨**  
-Promo is ending in 0 days, 18 hours, and 57 minutes.. Don't miss out on this exclusive deal—stock up on credits now.  
+Promo is ending in 0 days, 12 hours, and 58 minutes.. Don't miss out on this exclusive deal—stock up on credits now.  
 👉 [Click here to buy credits](https://topg.org/buy_credits) and claim your bonus before time runs out!
 
 \-
