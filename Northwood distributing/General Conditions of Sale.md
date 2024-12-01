@@ -1,6 +1,6 @@
 [Skip to content](#MainContent)
 
-[Current Processing Time: 3-5 Business Days + Time in Transit. Free shipping on most orders over $99!Click For Shipping Details](https://northwoodcandlesupply.com/pages/about-us)
+[Extended Processing Time: 4-6 Business Days + Time in Transit. Free shipping on most orders over $99!Click For Shipping Details](https://northwoodcandlesupply.com/pages/about-us)
 
       
 
