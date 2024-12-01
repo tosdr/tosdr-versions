@@ -26,9 +26,9 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-kennedy-hines-1200x630.jpg)](https://americanwirenews.com/cheryl-hines-promotes-maha-branded-candles-in-video-with-showering-rfk-jr/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-kash-patel-1200-x-628-1200x630.jpg)](https://americanwirenews.com/deep-state-despair-trump-announces-kash-patel-as-next-fbi-director/)
 
-[Cheryl Hines promotes MAHA-branded candles in video with showering RFK Jr.](https://americanwirenews.com/cheryl-hines-promotes-maha-branded-candles-in-video-with-showering-rfk-jr/)
+[Deep state despair: Trump announces ‘Kash’ Patel as next FBI Director](https://americanwirenews.com/deep-state-despair-trump-announces-kash-patel-as-next-fbi-director/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-obamabrorogan-1200-x-628-1200x630.jpg)](https://americanwirenews.com/obama-bro-breaks-the-news-to-dems-calling-for-their-own-joe-rogan-he-was-our-joe-rogan/)
 
@@ -58,11 +58,9 @@ Search for:
 
 [‘Terminator’ star’s LA home targeted by bomb threat on Thanksgiving Day](https://americanwirenews.com/terminator-stars-la-home-targeted-by-bomb-threat-on-thanksgiving-day/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/rf-biden-oval-1200x630.jpeg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-george-barry-split-1200-x-628-1200x630.jpg)
 
-(Official White House Photo by Adam Schultz)
-
-### WH staffers fretting over possibility Biden may shirk departure tradition](https://americanwirenews.com/wh-staffers-fretting-over-possibility-biden-may-shirk-departure-tradition/)
+### ‘Water boy’ Clooney reportedly ‘furious’ after Obama left him ‘holding the bag’ for Biden coup](https://americanwirenews.com/water-boy-clooney-reportedly-furious-after-obama-left-him-holding-the-bag-for-biden-coup/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -79,6 +77,18 @@ Search for:
 ### [Trump taps two more head-turning leaders to round out list](https://americanwirenews.com/trump-taps-two-more-head-turning-leaders-to-round-out-list/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-mccabe-220x180.jpg)](https://americanwirenews.com/cnn-quick-to-roll-out-former-g-man-andrew-mccabe-to-tarnish-trump-nominee-kash-patel/)
+
+[CNN quick to roll out former G-man Andrew McCabe to tarnish Trump nominee Kash Patel](https://americanwirenews.com/cnn-quick-to-roll-out-former-g-man-andrew-mccabe-to-tarnish-trump-nominee-kash-patel/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-trump-xi-220x180.jpg)](https://americanwirenews.com/find-another-sucker-trump-threatens-100-tariff-on-china-led-bloc-if-they-move-away-from-dollar/)
+
+[‘Find another sucker!’ Trump threatens 100% tariff on China-led bloc if they ‘move away’ from dollar](https://americanwirenews.com/find-another-sucker-trump-threatens-100-tariff-on-china-led-bloc-if-they-move-away-from-dollar/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-wray-220x180.jpg)](https://americanwirenews.com/rep-higgins-warns-fbi-chief-chris-wray-to-remain-close-to-dc-as-j6-accountability-nears/)
+
+[Rep. Higgins warns FBI chief Chris Wray to ‘remain close to DC’ as J6 accountability nears](https://americanwirenews.com/rep-higgins-warns-fbi-chief-chris-wray-to-remain-close-to-dc-as-j6-accountability-nears/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/03/sg-aoc-cnnsotu-1200-x-628-220x180.jpg)](https://americanwirenews.com/social-media-mocks-the-idea-of-aoc-as-president-but-fmr-trump-official-says-its-no-laughing-matter/)
 
@@ -167,18 +177,6 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-conn-bomb-threat-220x180.jpg)](https://americanwirenews.com/three-dem-reps-from-the-same-state-targeted-by-bomb-threats/)
 
 [Three Dem reps from the same state targeted by bomb threats](https://americanwirenews.com/three-dem-reps-from-the-same-state-targeted-by-bomb-threats/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/rf-pexels-banana-220x180.jpg)](https://americanwirenews.com/buyer-of-5-2m-art-banana-attempts-to-do-right-by-elderly-fruit-vendor-who-sold-it-for-35-cents/)
-
-[Buyer of $6.2M ‘art’ banana attempts to do right by elderly fruit vendor who sold it for 35 cents](https://americanwirenews.com/buyer-of-5-2m-art-banana-attempts-to-do-right-by-elderly-fruit-vendor-who-sold-it-for-35-cents/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-us-capitol-220x180.jpg)](https://americanwirenews.com/reflections-or-ufos-mysterious-lights-spotted-over-capitol-hill-ignite-hot-debate/)
-
-[Reflections or UFOs? Mysterious lights spotted over Capitol Hill ignite hot debate](https://americanwirenews.com/reflections-or-ufos-mysterious-lights-spotted-over-capitol-hill-ignite-hot-debate/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-schlossberg-220x180.png)](https://americanwirenews.com/jfks-grandson-makes-disgusting-request-of-trump-cabinet-nominees/)
-
-[JFK’s grandson makes disgusting request of Trump cabinet nominees](https://americanwirenews.com/jfks-grandson-makes-disgusting-request-of-trump-cabinet-nominees/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
