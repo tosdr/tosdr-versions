@@ -8,7 +8,7 @@
 
 |     |     |
 | --- | --- |
-| **You are 1 of 689 active visitors** | **Sunday, December 01, 2024** |
+| **You are 1 of 751 active visitors** | **Sunday, December 01, 2024** |
 
 **EMAIL NEWS**![](/images/clear.gif)
 
@@ -109,7 +109,7 @@ Should you have questions or concerns relating to this Privacy Statement or comp
 |     |     |
 |     |     |    
 
- **QUOTES TO REMEMBER**Moderation in temper is always a virtue; but moderation in principle is always a vice. � THOMAS PAINE
+ **QUOTES TO REMEMBER**Reporters today are far removed from America's founding values and are alarmed and contemptuous of gun owners as dangerous lower classes. � HENRY ALLEN, WASHINGTON POST
 
 **COPYRIGHT POLICY:** The posting of copyrighted articles and other content, in whole or in part, is not allowed here. We have made an effort to educate our users about this policy and we are extremely serious about this. Users who are caught violating this rule will be warned and/or banned.  
 If you are the owner of content that you believe has been posted on this site without your permission, [please contact our webmaster by following this link](http://keepandbeararms.com/about/contact_us.asp). Please include with your message: (1) the particulars of the infringement, including a description of the content, (2) a link to that content here and (3) information concerning where the content in question was originally posted/published. We will address your complaint as quickly as possible. Thank you.
