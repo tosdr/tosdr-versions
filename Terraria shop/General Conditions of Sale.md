@@ -1,4 +1,4 @@
-[![Terraria Logo](//terraria.shop/cdn/shop/t/77/assets/newpromologo.png?v=98044556741494641381732705290)](https://terraria.shop/)
+[![Terraria Logo](//terraria.shop/cdn/shop/t/78/assets/newpromologo.png?v=98044556741494641381733045783)](https://terraria.shop/)
 
 [products](#Recommended) [Contact](https://terraria.shop/pages/contact)
 
@@ -8,7 +8,7 @@
 
 #### your cart
 
-[![Close Icon](//terraria.shop/cdn/shop/t/77/assets/close-icon.svg?v=7804248413519935481732705290)](#)
+[![Close Icon](//terraria.shop/cdn/shop/t/78/assets/close-icon.svg?v=7804248413519935481733045783)](#)
 
 Subtotal
 
@@ -85,7 +85,7 @@ to use at checkout**
 
 Click here to add sticker](https://terraria.shop/products/2021-biome-sticker-set)
 
-[![Terraria Official Merch Store](//terraria.shop/cdn/shop/t/77/assets/hero-logo_2hero-logo.webp?v=94442218130159122111732705290)](https://terraria.shop/)
+[![Terraria Official Merch Store](//terraria.shop/cdn/shop/t/78/assets/hero-logo_2hero-logo.webp?v=94442218130159122111733045783)](https://terraria.shop/)
 
 Menu
 
