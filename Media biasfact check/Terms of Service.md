@@ -147,6 +147,22 @@ No related posts.
 
 #### Recently Added Sources or Pages
 
+* [JohnStossel.com – Bias and Credibility](https://mediabiasfactcheck.com/johnstossel-com-bias-and-credibility/)
+    
+    December 1, 2024
+    
+* [U.S. Department of Health and Human Services (HHS) – Bias and Credibility](https://mediabiasfactcheck.com/u-s-department-of-health-and-human-services-hhs-bias-and-credibility/)
+    
+    December 1, 2024
+    
+* [Tangle – Bias and Credibility](https://mediabiasfactcheck.com/tangle-bias-and-credibility/)
+    
+    December 1, 2024
+    
+* [Northwest PA News – Bias and Credibility](https://mediabiasfactcheck.com/northwest-pa-news-bias/)
+    
+    December 1, 2024
+    
 * [The Insider (Latvia) – Bias and Credibility](https://mediabiasfactcheck.com/the-insider-latvia-bias-and-credibility/)
     
     December 1, 2024
@@ -163,44 +179,28 @@ No related posts.
     
     November 30, 2024
     
-* [General-Anzeiger Bonn – Bias and Credibility](https://mediabiasfactcheck.com/general-anzeiger-bonn-bias-and-credibility/)
-    
-    November 30, 2024
-    
-* [Frontiers in Industrial Engineering – Bias and Credibility](https://mediabiasfactcheck.com/frontiers-in-industrial-engineering-bias-and-credibility/)
-    
-    November 30, 2024
-    
-* [Victoria Capital Daily – Bias and Credibility](https://mediabiasfactcheck.com/victoria-capital-daily-bias-and-credibility/)
-    
-    November 29, 2024
-    
-* [Bradford Era – Bias and Credibility](https://mediabiasfactcheck.com/bradford-era-bias/)
-    
-    November 29, 2024
-    
 
 #### Recently Updated Pages
 
-* [Left-Center Bias](https://mediabiasfactcheck.com/leftcenter/ "View Left-Center Bias") - December 1, 2024
+* [The Local (Spain) – Bias and Credibility](https://mediabiasfactcheck.com/the-local-spain-bias-and-credibility/ "View The Local (Spain) – Bias and Credibility") - December 1, 2024
     
-* [The Insider (Latvia) – Bias and Credibility](https://mediabiasfactcheck.com/the-insider-latvia-bias-and-credibility/ "View The Insider (Latvia) – Bias and Credibility") - December 1, 2024
+* [Right-Center Bias](https://mediabiasfactcheck.com/right-center/ "View Right-Center Bias") - December 1, 2024
+    
+* [JohnStossel.com – Bias and Credibility](https://mediabiasfactcheck.com/johnstossel-com-bias-and-credibility/ "View JohnStossel.com – Bias and Credibility") - December 1, 2024
+    
+* [Pro-Science](https://mediabiasfactcheck.com/pro-science/ "View Pro-Science") - December 1, 2024
+    
+* [U.S. Department of Health and Human Services (HHS) – Bias and Credibility](https://mediabiasfactcheck.com/u-s-department-of-health-and-human-services-hhs-bias-and-credibility/ "View U.S. Department of Health and Human Services (HHS) – Bias and Credibility") - December 1, 2024
     
 * [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - December 1, 2024
     
-* [Harrison Daily Times – Bias and Credibility](https://mediabiasfactcheck.com/harrison-daily-times-bias-and-credibility/ "View Harrison Daily Times – Bias and Credibility") - December 1, 2024
+* [Tangle – Bias and Credibility](https://mediabiasfactcheck.com/tangle-bias-and-credibility/ "View Tangle – Bias and Credibility") - December 1, 2024
     
-* [Indonesia Government and Media Profile](https://mediabiasfactcheck.com/indonesia-media-profile/ "View Indonesia Government and Media Profile") - December 1, 2024
+* [National Institutes of Health (NIH) – Bias and Credibility](https://mediabiasfactcheck.com/national-institutes-of-health-nih/ "View National Institutes of Health (NIH) – Bias and Credibility") - December 1, 2024
     
-* [Geopolitical Economy Report – Bias and Credibility](https://mediabiasfactcheck.com/geopolitical-economy-report-bias/ "View Geopolitical Economy Report – Bias and Credibility") - November 30, 2024
+* [Questionable Sources](https://mediabiasfactcheck.com/fake-news/ "View Questionable Sources") - December 1, 2024
     
-* [Turning Point USA – Bias and Credibility](https://mediabiasfactcheck.com/turning-point-usa/ "View Turning Point USA – Bias and Credibility") - November 30, 2024
-    
-* [The Diplomat Magazine – Bias and Credibility](https://mediabiasfactcheck.com/the-diplomat-magazine/ "View The Diplomat Magazine – Bias and Credibility") - November 30, 2024
-    
-* [The Canadian Press – Bias and Credibility](https://mediabiasfactcheck.com/the-canadian-press/ "View The Canadian Press – Bias and Credibility") - November 30, 2024
-    
-* [Channel 4 News (UK) – Bias and Credibility](https://mediabiasfactcheck.com/channel-4-news-uk/ "View Channel 4 News (UK) – Bias and Credibility") - November 30, 2024
+* [Northwest PA News – Bias and Credibility](https://mediabiasfactcheck.com/northwest-pa-news-bias/ "View Northwest PA News – Bias and Credibility") - December 1, 2024
     
 
 #### Today’s Top Page Views
@@ -208,12 +208,12 @@ No related posts.
 * [Media Bias/Fact Check News](https://mediabiasfactcheck.com/)
 * [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
 * [Least Biased](https://mediabiasfactcheck.com/center/)
-* [The Express Tribune - Bias and Credibility](https://mediabiasfactcheck.com/the-express-tribune/)
-* [Independent Journal Review – Bias and Credibility](https://mediabiasfactcheck.com/independent-journal-review/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
-* [MBFC's Daily Vetted Fact Checks for 11/30/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/11/30/mbfcs-daily-vetted-fact-checks-for-11-30-2024-weekend-edition/)
-* [The Guardian - Bias and Credibility](https://mediabiasfactcheck.com/the-guardian/)
+* [The Express Tribune - Bias and Credibility](https://mediabiasfactcheck.com/the-express-tribune/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
+* [Independent Journal Review – Bias and Credibility](https://mediabiasfactcheck.com/independent-journal-review/)
+* [The Guardian - Bias and Credibility](https://mediabiasfactcheck.com/the-guardian/)
+* [MBFC's Daily Vetted Fact Checks for 11/30/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/11/30/mbfcs-daily-vetted-fact-checks-for-11-30-2024-weekend-edition/)
 * [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
 
 #### Subscribe via Email
