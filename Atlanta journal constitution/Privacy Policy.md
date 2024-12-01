@@ -1,3 +1,5 @@
+[Breaking: Trump taps Kash Patel for FBI director, a loyalist who would aid effort to upend law enforcement](https://www.ajc.com/news/nation-world/trump-names-loyalist-kash-patel-to-serve-as-fbi-director/HRRYAZ4CHFEH3MGDKJBF57PQGY/)
+
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1836)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1836)](https://www.ajc.com/)
 
 Log In
