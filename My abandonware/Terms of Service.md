@@ -107,20 +107,20 @@ Top downloads
 
 Latest releases
 
+* [WarMachine Overload](https://www.myabandonware.com/game/warmachine-overload-tcy)
 * [Meeklits](https://www.myabandonware.com/game/meeklits-tcx)
 * [Saru STG](https://www.myabandonware.com/game/saru-stg-tcw)
 * [Vacant Ark](https://www.myabandonware.com/game/vacant-ark-tcv)
 * [Sky Sports Football Quiz: Season 02](https://www.myabandonware.com/game/sky-sports-football-quiz-season-02-tct)
-* [DC-3](https://www.myabandonware.com/game/dc-3-tc7)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
 
 Screenshots needed
 
-* [Vulcanology: The MiniSeries Collection](https://www.myabandonware.com/game/vulcanology-the-miniseries-collection-m54)
-* [The Mystery of the Java Star](https://www.myabandonware.com/game/the-mystery-of-the-java-star-oke)
-* [Bogie's Super Pick: Value Pack 1](https://www.myabandonware.com/game/bogie-s-super-pick-value-pack-1-kmy)
+* [Laguna Racer](https://www.myabandonware.com/game/laguna-racer-sfr)
+* [Lunar 2: Eternal Blue - Complete](https://www.myabandonware.com/game/lunar-2-eternal-blue-complete-p8d)
+* [Motor Raid](https://www.myabandonware.com/game/motor-raid-sfi)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
