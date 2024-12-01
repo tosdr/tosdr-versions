@@ -172,7 +172,7 @@ Mostly Positive (46) \- 76% of the 46 user reviews in the last 30 days are posit
 
 All Reviews:
 
-Very Positive (18,153) \- 86% of the 18,153 user reviews for this game are positive.    
+Very Positive (18,154) \- 86% of the 18,154 user reviews for this game are positive.    
 
 Release Date:
 
@@ -198,7 +198,7 @@ Reviews
 
 All Reviews:
 
-Very Positive (86% of 18,153) All Time
+Very Positive (86% of 18,154) All Time
 
 Recent Reviews:
 
@@ -466,7 +466,7 @@ Customer reviews for Skater XL - The Ultimate Skateboarding Game
 
 Overall Reviews:
 
-Very Positive (18,153 reviews) ![](https://store.fastly.steamstatic.com/public/shared/images/ico/icon_questionmark.png)
+Very Positive (18,154 reviews) ![](https://store.fastly.steamstatic.com/public/shared/images/ico/icon_questionmark.png)
 
 Recent Reviews:
 
@@ -474,19 +474,19 @@ Mostly Positive (46 reviews) ![](https://store.fastly.steamstatic.com/public/sha
 
 Review Type
 
- All (19,298)  
- Positive (16,605)  
+ All (19,299)  
+ Positive (16,606)  
  Negative (2,693)
 
 Purchase Type
 
- All (19,298)  
- Steam Purchasers (18,153) ![](https://store.fastly.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
+ All (19,299)  
+ Steam Purchasers (18,154) ![](https://store.fastly.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
  Other (1,145) ![](https://store.fastly.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png) 
 
 Language
 
- All Languages (19,298)  
+ All Languages (19,299)  
  Your Languages (13,332) ![](https://store.fastly.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
 
 [Customize](https://store.steampowered.com//account/languagepreferences)
