@@ -476,13 +476,17 @@ Revised June 1, 2022
 
   [![Tokyo police have arrested six Chinese nationals on suspicion of unlawful confinement and attempted extortion involving a 23-year-old exchange student who had become involved in a financial dispute over a yami baito, or a “dark” part-time job.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/29/437203.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tokyo police have arrested six Chinese nationals on suspicion of unlawful confinement and attempted extortion involving a 23-year-old exchange student who had become involved in a financial dispute over a yami baito, or a “dark” part-time job.")](https://www.japantimes.co.jp/news/2024/11/29/japan/crime-legal/chinese-arrest-kidnapping/ "Tokyo police arrest six Chinese nationals over yami baito scheme")
 
+[Japan's wealthy fail to declare ¥65.5 billion in income](https://www.japantimes.co.jp/news/2024/11/30/japan/japan-wealthy-fail-declare/ "Japan's wealthy fail to declare ¥65.5 billion in income")
+
+  [![Wealthy people in Japan failed to declare a total of ¥65.5 billion in taxable income in the year through June, down 33.2% from the year before, a National Tax Agency report showed Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/30/437296.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Wealthy people in Japan failed to declare a total of ¥65.5 billion in taxable income in the year through June, down 33.2% from the year before, a National Tax Agency report showed Friday.")](https://www.japantimes.co.jp/news/2024/11/30/japan/japan-wealthy-fail-declare/ "Japan's wealthy fail to declare ¥65.5 billion in income")
+
 [Kumiko Shichijo: ‘Living abroad helped me appreciate Japanese etiquette’](https://www.japantimes.co.jp/community/2024/11/29/our-lives/japanese-etiquette-instagram-kumiko-shichijo/ "Kumiko Shichijo: ‘Living abroad helped me appreciate Japanese etiquette’")
 
   [![Kumiko Shichijo provides tips on Japanese etiquette and manners on Instagram and says videos on gift-giving and hand towels have done particularly well. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/29/435540.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Kumiko Shichijo provides tips on Japanese etiquette and manners on Instagram and says videos on gift-giving and hand towels have done particularly well. ")](https://www.japantimes.co.jp/community/2024/11/29/our-lives/japanese-etiquette-instagram-kumiko-shichijo/ "Kumiko Shichijo: ‘Living abroad helped me appreciate Japanese etiquette’")
 
-[Uniqlo criticized in China after CEO says retailer does not use Xinjiang cotton](https://www.japantimes.co.jp/business/2024/11/29/companies/uniqlo-boycott-risk-china/ "Uniqlo criticized in China after CEO says retailer does not use Xinjiang cotton")
+[The Geisha bean is the leading lady of Tokyo's coffee scene](https://www.japantimes.co.jp/life/2024/11/30/food-drink/coffee-geisha-tokyo-cafe/ "The Geisha bean is the leading lady of Tokyo's coffee scene")
 
-  [![In an interview in Tokyo with the BBC that was published on Thursday, Fast Retailing CEO Tadashi Yanai said the company does not source cotton from China's Xinjiang region.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/29/437215.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "In an interview in Tokyo with the BBC that was published on Thursday, Fast Retailing CEO Tadashi Yanai said the company does not source cotton from China's Xinjiang region.")](https://www.japantimes.co.jp/business/2024/11/29/companies/uniqlo-boycott-risk-china/ "Uniqlo criticized in China after CEO says retailer does not use Xinjiang cotton")
+  [![Discovered in the 1930s, the Geisha coffee plant came to worldwide fame in the early 2000s and now represents some of the best coffee on the planet — Tokyo's top cafes included.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/29/436551.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Discovered in the 1930s, the Geisha coffee plant came to worldwide fame in the early 2000s and now represents some of the best coffee on the planet — Tokyo's top cafes included.")](https://www.japantimes.co.jp/life/2024/11/30/food-drink/coffee-geisha-tokyo-cafe/ "The Geisha bean is the leading lady of Tokyo's coffee scene")
 
 [Ishiba sticks to the basics in second policy speech](https://www.japantimes.co.jp/news/2024/11/29/japan/politics/ishiba-policy-speech/ "Ishiba sticks to the basics in second policy speech")
 
@@ -495,10 +499,6 @@ Revised June 1, 2022
 [Japan researchers develop a simple way to spot signs of Alzheimer's disease](https://www.japantimes.co.jp/news/2024/11/28/japan/science-health/keio-university-alzheimers/ "Japan researchers develop a simple way to spot signs of Alzheimer's disease")
 
   [![In 2022, the number of elderly people with dementia in Japan reached 4.43 million, according to data from the health ministry. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/28/436797.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "In 2022, the number of elderly people with dementia in Japan reached 4.43 million, according to data from the health ministry. ")](https://www.japantimes.co.jp/news/2024/11/28/japan/science-health/keio-university-alzheimers/ "Japan researchers develop a simple way to spot signs of Alzheimer's disease")
-
-[‘What Divides Us’ producer honors grandfather’s Hiroshima reportage](https://www.japantimes.co.jp/culture/2024/11/27/film/what-divides-us-hiroshima/ "‘What Divides Us’ producer honors grandfather’s Hiroshima reportage")
-
-  [![“What Divides Us" producer Cannon Hersey says his grandfather, who wrote about the aftermath of nuclear destruction in Hiroshima, never spoke about what he had seen while working with Japanese minister Kiyoshi Tanimoto to preserve the stories of survivors.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/27/436856.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "“What Divides Us" producer Cannon Hersey says his grandfather, who wrote about the aftermath of nuclear destruction in Hiroshima, never spoke about what he had seen while working with Japanese minister Kiyoshi Tanimoto to preserve the stories of survivors.")](https://www.japantimes.co.jp/culture/2024/11/27/film/what-divides-us-hiroshima/ "‘What Divides Us’ producer honors grandfather’s Hiroshima reportage")
 
 [Bluesky is booming in Japan — mainly for reasons other than U.S. politics](https://www.japantimes.co.jp/business/2024/11/25/companies/bluesky-social-japan/ "Bluesky is booming in Japan — mainly for reasons other than U.S. politics")
 
@@ -523,9 +523,9 @@ By [Greg Dvorak](https://www.japantimes.co.jp/author/6191/greg-dvorak/ "Greg Dvo
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -565,19 +565,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[China resumes short-term visa waiver for Japanese visitors](https://www.japantimes.co.jp/news/2024/11/30/japan/china-visa-waiver-resume/ "China resumes short-term visa waiver for Japanese visitors")
+[Don’t worry, you can still use your Japan health insurance card — for now](https://www.japantimes.co.jp/news/2024/12/01/japan/explainer/my-number-insurance-card-explainer/ "Don’t worry, you can still use your Japan health insurance card — for now")
 
-10 hours ago
+16 mins ago
 
-[Defeated Japan election candidate held over promising to pay campaign staff](https://www.japantimes.co.jp/news/2024/11/30/japan/politics/candidate-arrested-campaign-staff-payments/ "Defeated Japan election candidate held over promising to pay campaign staff")
+[Taiwanese leader in Hawaii after calling island a force for global peace](https://www.japantimes.co.jp/news/2024/12/01/asia-pacific/politics/taiwan-lai-pacific-hawaii/ "Taiwanese leader in Hawaii after calling island a force for global peace")
 
-11 hours ago
+2 hours ago
 
-[Taiwan's Lai departs on Pacific island tour](https://www.japantimes.co.jp/news/2024/11/30/asia-pacific/politics/taiwan-lai-departs-pacific-tour/ "Taiwan's Lai departs on Pacific island tour")
+[Syrian rebels sweep into Aleppo as Russia conducts strikes](https://www.japantimes.co.jp/news/2024/12/01/world/syria-rebels-aleppo-russia/ "Syrian rebels sweep into Aleppo as Russia conducts strikes")
 
-[LDP member reportedly tried to hide membership scandal](https://www.japantimes.co.jp/news/2024/11/30/japan/politics/hiroaki-tabata-ldp-membership-scandal/ "LDP member reportedly tried to hide membership scandal")
+2 hours ago
 
-[Nissan CFO set to step down as carmaker faces raft of challenges](https://www.japantimes.co.jp/business/2024/11/30/companies/nissan-cfo-steps-down/ "Nissan CFO set to step down as carmaker faces raft of challenges")
+[Trump picks Kash Patel to head FBI](https://www.japantimes.co.jp/news/2024/12/01/world/politics/kash-patel-trump-fbi/ "Trump picks Kash Patel to head FBI")
+
+2 hours ago
+
+[Trump’s demand that Mexico stop migrants and drugs may never be met](https://www.japantimes.co.jp/news/2024/12/01/world/politics/trump-mexico-migrants-drugs-focus/ "Trump’s demand that Mexico stop migrants and drugs may never be met")
+
+3 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
