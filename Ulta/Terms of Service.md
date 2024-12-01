@@ -275,13 +275,13 @@ Free standard shipping on any $35 purchase
         * [Skinfatuation](https://www.ulta.com/discover/skin/best-face-serums)
             
         
-        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/brand/peach-lily?sort=new_arrivals)
+        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/limited-edition-glass-skin-brilliance-kit-pimprod2046949?sku=2630181)
         
         PEACH & LILY
         
         New & exclusive! Limited Edition Glass Skin Brilliance Kit
         
-        [Shop now](https://www.ulta.com/brand/peach-lily?sort=new_arrivals)
+        [Shop now](https://www.ulta.com/p/limited-edition-glass-skin-brilliance-kit-pimprod2046949?sku=2630181)
         
     * Hair Care
         
@@ -563,13 +563,13 @@ Free standard shipping on any $35 purchase
         * [Black-Owned & Founded](https://www.ulta.com/featured/blackownedbrands?category=body-care)
             
         
-        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/avo-good-time-bath-body-duo-pimprod2048372?sku=2631577)
+        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/12-days-of-beauty-advent-calendar-pimprod2048347?sku=2625109)
         
-        LUSH
+        JoyBright by Ulta Beauty
         
-        New & online only! Avo Good Time Bath And Body Duo
+        New & exclusive! 12 Days of Beauty Advent Calendar
         
-        [Shop now](https://www.ulta.com/p/avo-good-time-bath-body-duo-pimprod2048372?sku=2631577)
+        [Shop now](https://www.ulta.com/p/12-days-of-beauty-advent-calendar-pimprod2048347?sku=2625109)
         
     * Tools & Brushes
         
@@ -1123,7 +1123,7 @@ Free standard shipping on any $35 purchase
     * [Ear Piercing](https://www.ulta.com/beautyservices/ear-piercing)
         
     
-* [Black Friday Deals](https://www.ulta.com/promotion/black-friday)
+* [Cyber Monday Deals](https://www.ulta.com/promotion/cyber-monday)
     
 
 * [](https://www.ulta.com/bag)
