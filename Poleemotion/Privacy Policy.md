@@ -1,10 +1,10 @@
 ![](https://stats.pole-emotion.ch/matomo.php?idsite=2&rec=1)
 
- 
+  
 
 Pour accéder à toutes les fonctionnalités de ce site, vous devez activer JavaScript. Voici les [instructions pour activer JavaScript dans votre navigateur Web](https://www.enable-javascript.com/fr/).
 
-  [![logo blanc de l'école Pole-Emotion](https://app.pole-emotion.ch/img/logo_Blanc_votre_ecole_depuis_2005_ROND-AVEC-TRANSPARENCE_V3_800x302.png)](https://app.pole-emotion.ch/)
+[![logo de Noël de l'école Pole-Emotion](https://app.pole-emotion.ch/img/logo_christmas-hat.png)](https://app.pole-emotion.ch/)
 
 * [Connexion](https://app.pole-emotion.ch/login)
 
@@ -88,7 +88,7 @@ Pour découvrir l'école et t'aider à choisir la ou les disciplines qui te fero
 
 [](https://app.pole-emotion.ch/evjf)
 
-[![image pour Pensez aux Enterrements Vie de Jeunes Filles](/storage/highlights/newsflash/highlight.webp?v=122352)](https://app.pole-emotion.ch/evjf)
+[![image pour Pensez aux Enterrements Vie de Jeunes Filles](/storage/highlights/newsflash/highlight.webp?v=964561)](https://app.pole-emotion.ch/evjf)
 
 [##### Pensez aux Enterrements Vie de Jeunes Filles](https://app.pole-emotion.ch/evjf)
 
