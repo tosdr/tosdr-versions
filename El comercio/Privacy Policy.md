@@ -31,33 +31,641 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Tiempos políticos
-=================
+Murió “la doctora” de ‘Pedro El Escamoso’
+=========================================
 
-El gobierno cumple un año entre aciertos y decisiones controvertidas, con desafíos de madurez y rectificación para fortalecer su rumbo democrático.
----------------------------------------------------------------------------------------------------------------------------------------------------
+La famosa actriz colombiana, "la doctora" de 'Pedro El Escamoso' murió este domingo 1 de diciembre de 2024.
+-----------------------------------------------------------------------------------------------------------
 
-![Gerardo Villacreces Carbo, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Gerardo-Villacreces-Carbo.jpg)
+![La famosa actriz, la "doctora" de 'Pedro El Escamoso' murió este domingo 1 de diciembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/sandra-reyes.jpg)
 
-Se ha cumplido un año de **gobierno**, en el cual se ha apreciado una determinación e incluso **valentía** para **tomar decisiones**, algunas acertadas y necesarias y, otras desacertadas y discutibles; y, dentro de las discutibles, quizás, algunas no tanto por el fondo pero sí por la forma.
+La destacada **actriz** colombiana, **Sandra Reyes,** conocida por su papel como la doctora **Paula Dávila** en ‘Pedro, el escamoso’, **falleció este domingo, 1 de diciembre de 2024.** Era también famosa por su interpretación de la madre de ‘Rigo’, en la novela biográfica del ciclista Rigoberto Urán.
 
-Debemos entender que, es un **presidente joven**, que llegó al poder de una manera repentina, quizás ni él mismo lo suponía, ya que probablemente apuntaba a ganar en el 2025 o en el 2029, pero el azar quiso  que gane antes, en el 2023, lo cual le habría obligado a **organizar y estructurar** apresuradamente tanto el **gabinete** como su plan de **gobierno**. En ese ejercicio y ejecución, se habrían presentado enseñanzas, pero también vacíos que han generado **cuestionamientos** y dudas, como por ejemplo el **plan Fénix**.
+### Más noticias
 
-En ese orden de **ideas**, daría la **impresión** que, en lo que se refiere a los que incomodan al **régimen**, la determinación del **oficialismo** para sacarlos de encima, el tiempo y el **cálculo político** juegan un rol importante dentro de su **estrategia**; es decir, se habrían dado a sabiendas **forzadas acciones**, pero efectivas en **función** del **resultado práctico** inmediato, decisiones discutibles por ejemplo en el **ámbito jurídico**, pero que, hasta que la parte afectada pueda reclamar en las **instancias** correspondientes, el tiempo habría jugado a favor del **gobierno**, consecuentemente por más que más tarde se dé la razón a la otra parte, para entonces ya sería tarde. Un ejemplo de esto, es lo dado con la **vicepresidenta**, a quien, por cierto, esta columna no pretende defender, sino a la **institucionalidad**. De esta manera, daría la **impresión** que, en la perspectiva **pragmática oficialista**, el tiempo seguirá su rumbo y el nuevo tema forzado contribuirá a olvidar al anterior y así en adelante…
+* [Silvia Pinal, la última diva del cine de oro de México, falleció](https://www.elcomercio.com/tendencias/cine/silvia-pinal-fallecio-mexico-cine.html "Silvia Pinal, la última diva del cine de oro de México, falleció")
+* [El exbanquero Fernando Aspiazu falleció este 30 de noviembre](https://www.elcomercio.com/actualidad/ecuador/exbanquero-fernando-aspiazu-fallecio-30-noviembre.html "El exbanquero Fernando Aspiazu falleció este 30 de noviembre")
+* [¿Qué tiene el número 28? El misterio detrás de las muertes de famosos mexicanos](https://www.elcomercio.com/tendencias/curiosidades/28-noviembre-misterio-muerte-famosos-mexicanos.html "¿Qué tiene el número 28? El misterio detrás de las muertes de famosos mexicanos")
 
-Es prudente reflexionar en el sentido de que, cuando en una misma persona coinciden el **poder económico y el poder político,** dicha potente mezcla, fácilmente puede hacer perder la perspectiva; y, con mayor motivo, si la persona no ha alcanzado la suficiente madurez y/o **sabiduría**  para sortear tal relevante prueba. Así, sin **perjuicio** del natural **desgaste** por el ejercicio del **poder**, marearse pudiera ser fácil y por consiguiente tambalearse también, prueba de lo cual pudiera ser, la caída en las **encuestas**, que nos llevan a pensar que algo no se hizo bien y por ende amerita mejorar sino rectificar. Sin **perjuicio** de aplicar la **prudencia** y **sensibilidad** suficiente, para evitar y/o distanciarse de los **conflictos** de interés, esto es, saber discernir entre los **intereses personales** versus los nacionales, los que evidentemente son prioritarios si se ocupa un **cargo público**; cuanto, abstenerse de utilizar el poder como **plataforma** para atacar a los **adversarios**, ya sea por rencillas políticas y/o personales, sin pararse a reflexionar que el **poder** no es para siempre, que el que **siembra vientos cosecha tempestades** y, que el poder es para servir y no para servirse… 
+Así lo confirmó Noticias RCN en su edición del medio día, en donde se agregó que la artista **falleció en su casa acompañada de su familia.** 
 
-En cuanto a la **hábil comunicación**, la calidad de la producción es destacada, pero parecería que la **información** y los datos no siempre son precisos ni exactos, lo cual puede inducir a error.
+EL TIEMPO logró constatar la información de la muerte de la mujer de 49 años, luego de estar vigente durante más de veinte años en la televisión colombiana.
 
-Esas conductas, infortunadamente, favorecen y conducen a dar espacios y/o facilidades al peligroso **socialismo del siglo XXI**, ya que pueden desorientar, confundir  o desilusionar aquel segmento de la población indecisa o confundida.
+**Reyes murió a causa de una larga lucha contra el cáncer de seno,** la cual era de total reserva al público. Su primo, Nicolás Reyes, resaltó en el medio Red+ **el legado artístico y humano que dejó en la industria del entretenimiento.** 
 
-Cabe indicar que, hasta el momento por lo menos, parecería que el gobierno ha tomado un norte distinto al de trascender en la historia con el sello de Estadista, como en su momento, guardando las distancias, sí lo realizó Clemente Yerovi Indaburu, quien trascendió, entre otros motivos, por nunca aferrarse al **poder**.  Valga la digresión, para reflexionar en el sentido de que, curiosamente, mientras más se pretende aferrarse al poder, este, efímero por naturaleza **democrática**, más esquivo y lejano, se vuelve….
+A lo largo de su carrera, **Reyes** se caracterizó por grandes papeles protagonistas en populares telenovelas que lograron darle la vuelta al mundo como ‘Pedro, el escamoso’ en 2001, interpretando a Paula Dávila y Amparo Cadena en la serie ‘El Cartel de los sapos’ en 2008.
 
-En buena hora, debemos tener presente que, una parte importante de la **población**, tiene claro los **peligros** del **profundo abismo** que implica el **socialismo del siglo XXI**. Siendo así, muy probablemente un destacado **segmento del electorado**, ante las elecciones que se avecinan con prontitud, se enfocará en votar por el que tenga más posibilidades dentro de la **tendencia** que defiende la Libertad, la democracia  y el **desarrollo económico** del país y de la gente, incluido dentro de esa posibilidad, al presidente Noboa, que con sus aciertos que los ha tenido sin duda y pese a  sus errores, está claro que no representa ni regenta el despeñadero de la **revolución socialista**.
+Los detalles conocidos acerca de su fallecimiento se enfocaron en que la famosa manejó su enfermedad como un asunto en privado y de completa reserva, evitando que saliera a la luz. **Tras morir, su cuerpo será trasladado a una finca en Ubaté, donde habrá una despedida íntima con sus seres amados.**
 
-De esta manera, el **oficialismo** tendría posibilidades en el sentido de que, rectificando, pueda llegar a buen puerto, que en palabras electorales del momento significa, ganar  – la cuesta arriba –  reelección.
+Las reacciones de ‘Pedro El Escamoso’
+-------------------------------------
 
-Me atrevería a indicar que, incluso el peor gobierno de centro y/o centro derecha y/o derecha, es cien veces preferible que cualquier **gobierno socialista** auspiciado por el revolucionario correísmo, el cual lo sabemos bien, representa **pobreza, corrupción y destrucción**, ejemplo de aquello sin ir muy lejos es Venezuela, que en su momento decidió por Chávez como alternativa, y cuyas consecuencias ya todos conocemos….
+**Miguel Varoni**, actor y director de televisión colombiano, conocido por de forma internacional por actuar como **Pedro Coral Tavera** en la serie ‘Pedro, el Escamoso’, se pronunció sobre la lamentable noticia y dejó un sentido mensaje sobre el hecho en su cuenta en la red social de Instagram. 
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DDC-1JsRoV2/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de Miguel Varoni (@soyvaroni)](https://www.instagram.com/p/DDC-1JsRoV2/?utm_source=ig_embed&utm_campaign=loading)
+
+“Hasta siempre mi Doctora Paula”, comenzó diciendo en una publicación. Con cortas palabras y una fotografía antigua de ambos interpretando a sus personajes, escribió “Sumerce no sabe la falta que me va a hacer. Dios me la Bendiga. Siempre estar en mi corazón…”
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DDDCem7xGEs/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de Miguel Varoni (@soyvaroni)](https://www.instagram.com/reel/DDDCem7xGEs/?utm_source=ig_embed&utm_campaign=loading)
+
+Una mujer es asesinada cada 10 minutos por su pareja o familiar
+===============================================================
+
+140 mujeres mueren cada día por violencia familiar o de pareja, según informe de la ONU.
+----------------------------------------------------------------------------------------
+
+![Imagen referencial sobre violencia de género.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-73.jpg)
+
+Cada día, **140 mujeres y niñas** pierden la vida a manos de sus parejas o familiares cercanos, lo que equivale a un **feminicidio cada 10 minutos**, según un informe presentado por **ONU Mujeres** y la **Oficina de las Naciones Unidas contra la Droga y el Delito (Onudd)**.
+
+### Más noticias
+
+* [Marcha de mujeres recorrió las calles de Quito este lunes 25 de noviembre](https://www.elcomercio.com/actualidad/quito/marcha-mujeres-calles-quito.html "Marcha de mujeres recorrió las calles de Quito este lunes 25 de noviembre")
+* [Pódcast Esperanza se lanza en el Día Internacional de la Eliminación de la Violencia contra las Mujeres](https://www.elcomercio.com/actualidad/seguridad/esperanza-lanza-dia-internacional-eliminacion-violencia-contra-mujeres.html "Pódcast Esperanza se lanza en el Día Internacional de la Eliminación de la Violencia contra las Mujeres")
+* [Día de la Eliminación de la Violencia contra la Mujer en Ecuador muestra cifras alarmantes](https://www.elcomercio.com/actualidad/ecuador/dia-eliminacion-violencia-contra-mujeres-ecuador-muestra-cifras-alarmantes.html "Día de la Eliminación de la Violencia contra la Mujer en Ecuador muestra cifras alarmantes")
+
+Este dato, revelado el 25 de noviembre, marca el **Día Internacional de la Eliminación de la Violencia** contra la Mujer y subraya la persistente amenaza de **violencia de género a nivel global**.
+
+El informe, titulado “Femicidios en 2023: Estimaciones mundiales de los feminicidios cometidos por parejas íntimas o familiares”, detalla que de las **85 000 mujeres y niñas asesinadas** intencionadamente en 2023, el 60 % fueron víctimas de parejas íntimas u otros miembros de la familia.
+
+Las cifras confirman que el feminicidio, la forma más extrema de violencia contra las mujeres, no discrimina por fronteras, estatus **socioeconómicos ni grupos de edad**.
+
+La magnitud del feminicidio en cifras
+-------------------------------------
+
+El documento resalta que **África lideró las tasas de feminicidios** relacionados con la pareja y la familia en 2023, seguida por **América y Oceanía**.
+
+En **Europa y América**, más de la mitad de las mujeres asesinadas en el **ámbito doméstico** fueron víctimas de sus parejas íntimas. Mientras tanto, en otras regiones, los principales agresores fueron familiares.
+
+En América Latina, la **Comisión Económica para América Latina y el Caribe (Cepal)** informó que al menos, 3 897 mujeres fueron víctimas de feminicidio en 2023, es decir, 11 cada día. Estos datos reflejan la continuidad de patrones **patriarcales y violentos**, a pesar de los avances legislativos en la región.
+
+Medidas urgentes y necesarias contra la violencia a la mujer
+------------------------------------------------------------
+
+**Ghada Waly**, directora ejecutiva de la Onudd, señaló la importancia de fortalecer los sistemas de justicia penal para garantizar la **rendición de cuentas y brindar apoyo** adecuado a las víctimas. Además, destacó la necesidad de desmantelar las desigualdades de poder y los prejuicios de género que perpetúan esta violencia.
+
+**Sima Bahous**, de **ONU Mujeres**, subrayó que la violencia de género es prevenible. Para lograrlo, se requieren legislación efectiva, mejor **recopilación de datos**, financiamiento a organizaciones de derechos de las mujeres y un compromiso firme por **parte de los gobiernos**.
+
+Iniciativas para prevenir feminicidios
+--------------------------------------
+
+El informe destacó medidas como un nuevo **protocolo implementado en Colombia** para evaluar el riesgo de feminicidio. Esta herramienta integra información de **autoridades judiciales y forenses** para identificar casos de alto riesgo y establecer planes de seguridad.
+
+El protocolo fue una respuesta a datos preocupantes, entre 2014 y 2017. En ese periodo, **531 mujeres murieron a manos de sus parejas o exparejas en Colombia**, muchas de ellas con antecedentes de violencia registrados por las autoridades. Este esfuerzo busca mitigar el riesgo de feminicidios mediante un enfoque preventivo.
+
+Bomberos combaten dos incendios forestales en Quito
+===================================================
+
+El Cuerpo de Bomberos trabaja en dos incendios forestales registrados en Quito, este domingo 1 de diciembre de 2024.
+--------------------------------------------------------------------------------------------------------------------
+
+![Los bomberos trabajan en el control de los incendios forestales](https://www.elcomercio.com/wp-content/uploads/2024/12/incendios-forestales-quito.jpg)
+
+Dos i**ncendios forestales** se registran en Quito, la tarde de este domingo 1 de diciembre de 2024.
+
+### Más noticias
+
+* [Altas temperaturas y radiación extrema en Quito este domingo 1 de diciembre](https://www.elcomercio.com/actualidad/quito/altas-temperaturas-radiacion-extrema-quito.html "Altas temperaturas y radiación extrema en Quito este domingo 1 de diciembre")
+* [Te recomendamos eventos por fiestas de Quito este domingo 1 de diciembre](https://www.elcomercio.com/actualidad/quito/eventos-fiestas-quito-domingo-1-diciembre.html "Te recomendamos eventos por fiestas de Quito este domingo 1 de diciembre")
+* [Quito celebra sus fiestas con desfiles, música y mucho color](https://www.elcomercio.com/actualidad/quito/quito-fiestas-desfiles-comparsas-color.html "Quito celebra sus fiestas con desfiles, música y mucho color")
+
+El **ECU 911** confirmó que en las emergencias trabajan miembros del **Cuerpo de Bomberos** de la ciudad en labores de **control y extinción del fuego**.
+
+El primer reporte fue recibido la noche del sábado 30 de noviembre, a las 23:59, en el sector de **Atucucho**, en el norte de Quito.
+
+Los uniformados de la ‘Casaca Roja’ se movilizaron al lugar y se mantienen controlando las llamas hasta el cierre de esta nota.
+
+Incendio forestal en las laderas del Pichincha
+----------------------------------------------
+
+El **segundo incendio forestal** se registró este domingo en las **laderas del Pichincha**, a la altura del sector de La Mena del Hierro.
+
+En este punto se encuentran dos **columnas de humo activas**. Los Bomberos trabajan en la emergencia, en la parte alta, media y baja del incendio.
+
+“Con nuestras aeronaves no tripuladas (**drones**) realizamos una nueva evaluación de la zona afectada”, detalló el Cuerpo de Bomberos de Quito en su última actualización[.](https://www.bomberosquito.gob.ec/ "https://www.bomberosquito.gob.ec/")
+
+> 🔄 [#Actualización](https://twitter.com/hashtag/Actualizaci%C3%B3n?src=hash&ref_src=twsrc%5Etfw) | Incendio forestal en las laderas del Pichincha.  
+>   
+> 👩🏻‍🚒 A esta hora, continuamos en el lugar realizando labores de control en la parte alta, media y baja del incendio.  
+>   
+> 🛰️ Con nuestras aeronaves no tripuladas (drones) realizamos una nueva evaluación de la zona… [https://t.co/MmkTzmcn5F](https://t.co/MmkTzmcn5F) [pic.twitter.com/LNWtb1GTOV](https://t.co/LNWtb1GTOV)
+> 
+> — Bomberos Quito (@BomberosQuito) [December 1, 2024](https://twitter.com/BomberosQuito/status/1863274627516293140?ref_src=twsrc%5Etfw)
+
+Toma precauciones
+-----------------
+
+La entidad recomendó a las personas que se encuentran cerca a los incendios tomar **precauciones**:
+
+* Cierra puertas y ventanas
+* Precautela a los más vulnerables: niños, personas de la tercera edad y mascotas
+* Evita el contacto directo con el humo
+* Utiliza mascarillas
+* Mantente hidratado
+
+Altas temperaturas y radiación extrema en Quito
+-----------------------------------------------
+
+El Instituto Nacional de Meteorología e Hidrología (**Inamhi**) detalló las condiciones del **clima** en **Quito**, este domingo 1 de diciembre de 2024.
+
+Según el último reporte meteorológico, el número 65, la capital registra **altas temperaturas** y niveles de radiación ultravioleta **extremadamente altos**.
+
+Quito tuvo una mañana con **cielos despejados**, altas temperaturas y ráfagas de viento ocasionales.
+
+Hasta las **19:00** de este domingo se esperan temperaturas máximas entre los **23 a 27 grados centígrados**. Para la tarde, se prevé un cielo con **nubes parciales**.
+
+En la noche, el Inamhi alertó que el cielo continuará despejado o con **pocas nubes**, sin embargo, lo cambiará drásticamente son las temperaturas[.](https://www.inamhi.gob.ec/ "https://www.inamhi.gob.ec/")
+
+El clima a partir de las 19:00 de este viernes, hasta la madrugada de este lunes 2 de diciembre, podría bajar hasta los **2 a 5 grados centígrados**.
+
+> [#PronosticoPichincha](https://twitter.com/hashtag/PronosticoPichincha?src=hash&ref_src=twsrc%5Etfw) l Domingo, 01 de diciembre 2024: Cielo despejado, ráfagas de viento ocasionales. ☀️🍃  
+>   
+> Índice de radiación UV Extremadamente Alto. 🌡️🥵🧢☂️  
+>   
+> 🟠Advertencia por Alta temperatura y Radiación VIGENTE. Tome Precauciones [pic.twitter.com/SJ0eIZW7SN](https://t.co/SJ0eIZW7SN)
+> 
+> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [December 1, 2024](https://twitter.com/inamhi_ec/status/1863205649737244910?ref_src=twsrc%5Etfw)
+
+Daniel Pintado se ubica entre los mejores del mundo en 2024
+===========================================================
+
+Daniel Pintado estuvo nominado por World Athetics al premio a mejor atleta del año y mejor atleta fuera del estadio.
+--------------------------------------------------------------------------------------------------------------------
+
+![Daniel Pintado con sus dos medallas obtenidas en los Juegos Olímpicos de París 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/1000177966.jpg)
+
+El ecuatoriano **Daniel Pintado**, doble medallista en los Juegos Olímpicos de París 2024, se ubicó dentro de los mejores atletas del mundo de este 2024. Tras su buen año, el marchista fue nominado por World Athletics (Federación Internacional de Atletismo) en **dos categorías**.
+
+Los altos méritos del deportista azuayo no alcanzaron para superar a otros referentes dentro de su disciplina y dentro del atletismo como tal. Durante este domingo 1 de diciembre del 2024, la gala de premiación se llevó a cabo y condecoró a **15 personalidades.**
+
+### Más noticias:
+
+* [Votaciones para Daniel Pintado como mejor atleta del año están por finalizar](https://www.elcomercio.com/deportes/otros/votaciones-daniel-pintado-mejor-atleta.html "Votaciones para Daniel Pintado como mejor atleta del año están por finalizar")
+* [Daniel Pintado está entre los finalistas a mejor atleta del año](https://www.elcomercio.com/deportes/atletismo/daniel-pintado-entre-finalistas-mejor-atleta-del-ano.html "Daniel Pintado está entre los finalistas a mejor atleta del año")
+* [Daniel Pintado busca el premio al atleta del año en el mundo](https://www.elcomercio.com/deportes/atletismo/daniel-pintado-candidato-atleta-masculino-ano-world-athletics.html "Daniel Pintado busca el premio al atleta del año en el mundo")
+
+**Daniel Pintado** compitió dentro de la categoría de mejor deportista de la temporada 2024 y mejor atleta fuera de pista dentro del mismo año. En la primera se enfrentó ante **cinco rivales**, mientras que en la segunda llegó como finalista ante uno más[.](https://es.wikipedia.org/wiki/Daniel_Pintado "https://es.wikipedia.org/wiki/Daniel_Pintado")
+
+Dentro de la nominación al mejor del mundo, Pintado se midió ante **Tamirat Tola**, campeón olímpico de maratón; **Jakob Ingebrigsten**, campeón olímpico de 5 000 metros planos; **Mondo Duplantis**, campeón olímpico de salto con garrocha; **Mitidiadis Tentoglou**, campeón olímpico en salto largo y **Letsile Tebogo**, campeón olímpico de 200 metros planos. Este último fue quien se llevó la condecoración.
+
+Para la categoría de mejor atleta fuera de pista, el rival de Pintado fue **Tamirat Tola**. El deportista de Etiopía fue quien se hizo con tal galardón.
+
+Premios de Word Athletics y sus ganadores
+-----------------------------------------
+
+Mejor atleta masculino del año: Letsile Tebogo.
+
+Mejor atleta femenina del año: Sifan Hassan.
+
+Mejor atleta masculino de pista: Letsile Tebogo.
+
+Mejor atleta femenina de pista: Sydney McLaughlin.
+
+Mejor atleta masculino de campo: Mondo Duplantis.
+
+Mejor atleta femenina de campo: Yaroslava Mahuchikh.
+
+Mejor atleta masculino fuera del estadio: Tamirat Tola.
+
+Mejor atleta femenina fuera del estadio: Sifan Hassan.
+
+Estrella en ascenso masculina: Mattia Furlani.
+
+Estrella en ascenso femenina: Sembo Almayew.
+
+Federación del año: Estados Unidos.
+
+Fotografía del año: Michael Steele.
+
+Mujer del año: Renee Washington.
+
+Reconocimiento a un entrenador: Trevos Painter.
+
+Reconocimiento del presidente: Phil Knight.
+
+¿A qué hora juega Liga de Quito con Deportivo Cuenca?
+=====================================================
+
+Liga de Quito buscará ir a la final de la Liga Pro durante este domingo 1 de diciembre del 2024 al enfrentar al Deportivo Cuenca.
+---------------------------------------------------------------------------------------------------------------------------------
+
+![Ezequiel Piovi y Leonel Quiñónez de Liga de Quito celebran un gol en la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/12/1000177912.jpg)
+
+**Liga de Quito** afrontará su último partido de la segunda etapa del campeonato ante Deportivo Cuenca durante este domingo 1 de diciembre del 2024. El duelo será de máxima importancia dado que los albos se juegan su boleto hacia la final de la Liga Pro.
+
+La fecha de cierre del torneo ecuatoriano se jugará a horario unificado y contará con el partido entre universitarios y morlacos. Para este, el cuadro azucena contará, únicamente, con público local en el **Estadio Rodrigo Paz Delgado** de Quito.
+
+### Más noticias:
+
+* [Así fue la defensa de Liga de Quito para recuperar los tres puntos](https://www.elcomercio.com/deportes/futbol/defensa-de-liga-de-quito-para-recuperar-tres-puntos-sancion.html "Así fue la defensa de Liga de Quito para recuperar los tres puntos")
+* [Pablo ‘Vitamina’ Sánchez vivirá una final adelantada con Liga de Quito](https://www.elcomercio.com/deportes/pablo-vitamina-sanchez-liga-quito-cuenca.html "Pablo ‘Vitamina’ Sánchez vivirá una final adelantada con Liga de Quito")
+* [Liga de Quito está cerca de retener el título de Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-de-quito-esta-cerca-de-retener-el-titulo-de-liga-pro.html "Liga de Quito está cerca de retener el título de Liga Pro")
+
+La razón por la cual el duelo de Liga de Quito se llevará a cabo en simultáneo con otros obedece a sus aspiraciones y a las posibilidades que tienen otros clubes en la tabla de posiciones. En el caso de **Independiente del Valle**, este también cuenta con la oportunidad de ser campeón directo.
+
+El duelo del elenco blanco ante el Deportivo Cuenca se llevará a cabo a las **15:30** de la fecha mencionada, así como el de Orense ante Independiente del Valle. A estos duelos se le sumarán el de El Nacional frente a Técnico Universitario y Mushuc Runa frente a Barcelona.
+
+Hora y dónde ver a Liga de Quito
+--------------------------------
+
+Partido: Liga de Quito vs. Deportivo Cuenca
+
+**Fecha**: domingo 01 de diciembre del 2024.
+
+**Hora**: 15:30.
+
+**Estadio**: Rodrigo Paz Delgado.
+
+**Transmisión**: Streaming.
+
+¿Cuáles son las posibilidades de Liga de Quito?
+-----------------------------------------------
+
+**Liga de Quito** depende de sí misma para llegar a la final de la Liga Pro y tiene más de una posibilidad. El conjunto que dirige Pablo ‘Vitamina’ Sánchez necesita vencer o empatar ante Deportivo Cuenca para asegurar su cupo y no depender de otros resultados.
+
+Con tan solo un punto frente a los morlacos, los albos se volverán inalcanzables para Independiente del Valle aunque este gane. En caso de que la ‘U’ pierda, la única manera de que no vaya a la final es que los rayados triunfen ante Orense.
+
+Altas temperaturas y radiación extrema en Quito este domingo 1 de diciembre
+===========================================================================
+
+El Inamhi detalló las condiciones del clima que registra Quito este domingo 1 de diciembre.
+-------------------------------------------------------------------------------------------
+
+![Quito registra un incremento considerable en las temperaturas y la radiación este domingo](https://www.elcomercio.com/wp-content/uploads/2024/12/altas-temperaturas-quito-clima.jpg)
+
+El Instituto Nacional de Meteorología e Hidrología (**Inamhi**) detalló las condiciones del **clima** en **Quito**, este domingo 1 de diciembre de 2024.
+
+### Más noticias
+
+* [Te recomendamos eventos por fiestas de Quito este domingo 1 de diciembre](https://www.elcomercio.com/actualidad/quito/eventos-fiestas-quito-domingo-1-diciembre.html "Te recomendamos eventos por fiestas de Quito este domingo 1 de diciembre")
+* [Quito celebra sus fiestas con desfiles, música y mucho color](https://www.elcomercio.com/actualidad/quito/quito-fiestas-desfiles-comparsas-color.html "Quito celebra sus fiestas con desfiles, música y mucho color")
+* [Estos son los rituales que fusionan distintas culturas para invocar a la lluvia](https://www.elcomercio.com/actualidad/mundo/rituales-lluvia-diferentes-culturas.html "Estos son los rituales que fusionan distintas culturas para invocar a la lluvia")
+
+Según el último reporte meteorológico, el número 65, la capital registra **altas temperaturas** y niveles de radiación ultravioleta **extremadamente altos**.
+
+Clima en Quito este domingo 1 de diciembre
+------------------------------------------
+
+Quito tuvo una mañana con **cielos despejados**, altas temperaturas y ráfagas de viento ocasionales.
+
+Hasta las **19:00** de este domingo se esperan temperaturas máximas entre los **23 a 27 grados centígrados**. Para la tarde, se prevé un cielo con **nubes parciales**.
+
+En la noche, el Inamhi alertó que el cielo continuará despejado o con **pocas nubes**, sin embargo, lo cambiará drásticamente son las temperaturas[.](https://www.inamhi.gob.ec/ "https://www.inamhi.gob.ec/")
+
+El clima a partir de las 19:00 de este viernes, hasta la madrugada de este lunes 2 de diciembre, podría bajar hasta los **2 a 5 grados centígrados**.
+
+> [#PronosticoPichincha](https://twitter.com/hashtag/PronosticoPichincha?src=hash&ref_src=twsrc%5Etfw) l Domingo, 01 de diciembre 2024: Cielo despejado, ráfagas de viento ocasionales. ☀️🍃  
+>   
+> Índice de radiación UV Extremadamente Alto. 🌡️🥵🧢☂️  
+>   
+> 🟠Advertencia por Alta temperatura y Radiación VIGENTE. Tome Precauciones [pic.twitter.com/SJ0eIZW7SN](https://t.co/SJ0eIZW7SN)
+> 
+> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [December 1, 2024](https://twitter.com/inamhi_ec/status/1863205649737244910?ref_src=twsrc%5Etfw)
+
+Radiación extremadamente alta
+-----------------------------
+
+Quito, y el resto de Pichincha, registra niveles **extremadamente altos** de radiación UV, este viernes.
+
+Los índices de radiación solar alcanzan los **11 puntos**.
+
+Otras provincias afectadas con índices de radiación muy altos son: **Imbabura, Cotopaxi, Tungurahua, Los Ríos, Guayas, Loja y Azuay**.
+
+> [#RadiacionMaximaUVEc](https://twitter.com/hashtag/RadiacionMaximaUVEc?src=hash&ref_src=twsrc%5Etfw) l Pronóstico del Índice Máximo de Radiación Ultravioleta previsto para el domingo, 01 de diciembre de 2024 [pic.twitter.com/xvlPVWdHg9](https://t.co/xvlPVWdHg9)
+> 
+> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [November 30, 2024](https://twitter.com/inamhi_ec/status/1862964970905874598?ref_src=twsrc%5Etfw)
+
+Altas temperaturas en Ecuador hasta el 3 de diciembre
+-----------------------------------------------------
+
+El Inamhi pronosticó que las altas temperaturas en Quito y Ecuador se mantendrán hasta el **martes 3 de diciembre**. Lo mismo ocurrirá con el incremento de los niveles de radiación ultravioleta.
+
+En la **Costa**, habrá una mayor intensidad del clima en Guayas, Manabí y Los Ríos. Mientras que en la **Sierra**, Loja y Azuay son las provincias más afectadas. Con menores, pero significativas temperaturas, también están Imbabura, Pichincha, Tungurahua y Chimborazo.
+
+En la Amazonía las más altas temperaturas se registrarán en **Sucumbíos, Orellana y Pastaza**.
+
+Estas condiciones se dan debido al **bajo contenido de humedad** y ráfagas de viento moderadas que se encuentran en el ambiente.
+
+El elevado clima incrementa las posibilidades de que ocurran **incendios forestales** en ciertas zonas.
+
+Recomendaciones para cuidar tu salud
+------------------------------------
+
+* Modifica tus rutinas diarias y evita realizar ejercicio intenso al aire libre.
+* No te expongas directamente al sol entre las 10:00 y las 15:00.
+* Mantente hidratado.
+* Utiliza protección solar, gorras y parasoles.
+
+Alerta de apagones por la primera ola de calor de la temporada en el este de Australia
+======================================================================================
+
+La ola de calor seco eleva los termómetros a temperaturas que rondan los 30 grados en Sídney, la ciudad más poblada de Australia.
+---------------------------------------------------------------------------------------------------------------------------------
+
+![La gente participa en actividades en Bondi Beach en Sydney, Australia.](https://www.elcomercio.com/wp-content/uploads/2024/11/SYDNEY-australia-efe.jpg)
+
+Las **autoridades australianas** emitieron una alerta ante el riesgo de apagones en los próximos días de noviembre de 2024, a consecuencia de la **ola de calor**, la primera de esta temporada primaveral, que afronta el este de Australia.
+
+### Más noticias
+
+* [La nieve llega a Europa Central y genera caos en carreteras](https://www.elcomercio.com/actualidad/mundo/nieve-llega-europa-central-genera-caos-carreteras.html "La nieve llega a Europa Central y genera caos en carreteras")
+* [Cancillería confirma muerte del diplomático ecuatoriano Edmundo Morales](https://www.elcomercio.com/actualidad/seguridad/cancilleria-confirma-muerte-diplomatico-ecuatoriano-edmundo-morales.html "Cancillería confirma muerte del diplomático ecuatoriano Edmundo Morales")
+* [Líder republicano veta a legisladora trans de usar baño de mujeres en Congreso de Estados Unidos](https://www.elcomercio.com/actualidad/mundo/lider-republicano-veta-legisladora-trans-usar-bano-mujeres-congreso-estados-unidos.html "Líder republicano veta a legisladora trans de usar baño de mujeres en Congreso de Estados Unidos")
+
+Los pronósticos meteorológicos apuntan a que las temperaturas podrían llegar mañana a casi **40 grados centígrados** en los suburbios del oeste de Sídney, lo que supone más de diez grados por encima de la media que se registra en noviembre.
+
+La ola de calor seco eleva los **termómetros a temperaturas que rondan los 30 grados en Sídney,** la ciudad más poblada de Australia y la capital del estado de Nueva Gales del Sur, así como en Camberra, Brisbane y otras localidades del sureste del país oceánico.
+
+Ola de calor significativa de temporada
+---------------------------------------
+
+Si bien se trata de la “primera ola de calor significativa de esta temporada”, los riesgos de incendios son menores debido a la **ausencia de fuertes vientos**, según explicó el inspector del Servicio de Bomberos Rurales de Nueva Gales del Sur, Ben Shepherd, en declaraciones recogidas por la cadena pública australiana ABC.
+
+Riesgos de apagones en Nueva Gales del Sur
+------------------------------------------
+
+Por su lado, el regulador del mercado energético australiano (AEMO, siglas en inglés) informó en un comunicado que existe el **“riesgo” de apagones en el estado de Nueva Gales del Sur** a consecuencia de las condiciones de calor extremo vinculados a un incremento de la demanda, como el uso de aire acondicionado, entre otros factores.
+
+La ola de calor, que afectó la semana pasada a los pobladores de las ciudades de **Melbourne y Adelaida,** en el sur de Australia con temperaturas por encima de los 37 grados, podría amainar con las lluvias que se pronostican a partir de hoy en la zona central y suroriental del país oceánico.
+
+Australia, uno de los mayores contaminantes del planeta si se tiene en cuenta sus exportaciones de combustibles fósiles, es escenario de incendios forestales, ciclones, lluvias torrenciales, tormentas eléctricas e inundaciones con frecuencia, los cuales se han visto agravados en los últimos años por la crisis climática. 
+
+A Ecuador llegan los generadores de electricidad, ¿qué pasa con los cortes luz?
+===============================================================================
+
+Los generadores de electricidad se colocarán en la planta térmica El Salitral, en Guayaquil.
+--------------------------------------------------------------------------------------------
+
+![El Ministerio de Energía y Minas informó sobre la llegada de los equipos para generar electricidad y disminuir los cortes de luz.](https://www.elcomercio.com/wp-content/uploads/2024/12/generadoresfoto.jpg)
+
+El **Ministerio de Energía y Minas** informó sobre la llegada de los equipos generadores de **electricidad** para aumentar la producción y reducir los **cortes de luz.**
+
+### Más noticias
+
+* [Los cortes de luz en Quito de este domingo 1 de diciembre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-domingo-1-diciembre.html "Los cortes de luz en Quito de este domingo 1 de diciembre")
+* [Progen mostró los avances del proyecto de energía térmica El Salitral](https://www.elcomercio.com/actualidad/negocios/progen-mostro-los-avances-del-proyecto-de-energia-termica-el-salitral.html "Progen mostró los avances del proyecto de energía térmica El Salitral")
+* [Ecuador recibió primera importación de gas natural desde Perú](https://www.elcomercio.com/actualidad/negocios/ecuador-gas-natural-importacion-peru.html "Ecuador recibió primera importación de gas natural desde Perú")
+
+Según la información del Ministerio de este domingo 1 de diciembre de 2024, el buque que transporta los **23 generadores estacionarios** arribó al puerto de **Guayaquil.**
+
+Esos generadores producirán 80 megavatios de electricidad al sistema eléctrico nacional. Debido al déficit de 1 080 megavatios de luz, Ecuador tiene cortes de luz desde el 23 de septiembre de 2024.
+
+La ausencia de lluvias en la Amazonía y el Austro impide generar la suficiente electricidad en las centrales hidroeléctricas de Coca Codo Sinclair y el complejo de Mazar y Paute.
+
+La instalación de los generadores de electricidad
+-------------------------------------------------
+
+Los **23 generadores de electricidad** se colocarán en el proyecto de **energía térmica El Salitral,** que se construye en el kilómetro 7,5 de la vía a la Costa, en **Guayaquil**.
+
+Estas primeras unidades corresponden a la fase inicial del proyecto y aportarán 80,5 megavatios (MW) de energía de los 100 anunciados.
+
+Mientras tanto, los trabajos de obra civil, con la construcción de las plataformas necesarias para la instalación de los motores, registran un avance del 90% en **El Salitral**. Eso informó en su momento el **Ministerio de Energía y Minas.**
+
+Esto permitirá el montaje, pruebas y conexión al Sistema Nacional Interconectado (SNI), una vez que los equipos sean instalados. Después del desembarque, los generadores serán movilizados hacia **El** **Salitral,** donde se realizará el equipamiento.
+
+En los próximos días, llegará el equipo auxiliar necesario para proceder con la instalación y las pruebas correspondientes, para iniciar la generación de energía.
+
+Los avances en la nueva planta térmica de El Salitral
+-----------------------------------------------------
+
+La **empresa estadounidense Progen** mostró el jueves 28 de noviembre de 2024 los avances de la construcción de la obra en Guayaquil. Este es uno de los proyectos con los que el Gobierno de Daniel Noboa espera solventar la actual crisis energética.
+
+En el recorrido por **El Salitral**, Claudio Otero, especialista de Control y Aseguramiento de la Calidad de Progen, señaló que lo más importante es la calidad y la tecnología que se utilizan en la obra.
+
+Se informó que en **El Salitral,** la casa de máquinas y la subestación del proyecto están pendientes y están las 58 losas construidas donde se colocarán los generadores.
+
+Los generadores para El Salitral, ¿qué pasa con los cortes de luz?
+------------------------------------------------------------------
+
+La planta térmica El Salitral, el Guayaquil, generará 100 megavatios de electricidad. Los 23 generadores de electricidad producirán 80 megavatios.
+
+Esta producción se sumará al sistema nacional, para reducir el déficit de 1 080 megavatios. Sin embargo, los 80 megavatios aún no son suficientes para reducir drásticamente los cortes de luz. Los racionamientos contemplan apagones de hasta siete horas en todo el país.
+
+Los trabajos para incorporar la energía al Sistema Nacional de Transmisión – SNT también están en ejecución. Estas obras están a cargo de la unidad de **Corporación Eléctrica del Ecuador -Transelectric.**
+
+Esta generación térmica contratada permitirá cubrir una pequeña parte del déficit calculado por el **Operador Nacional de Electricidad  (Cenace)** en 1 080 megavatios[.](https://www.cenace.gob.ec/quienes-somos/ "https://www.cenace.gob.ec/quienes-somos/")
+
+**Progen** firmó dos contratos de la emergencia energética para la compra de 150 megavatios (MW), que se ubicarán en **El Salitral (100 MW) y Quevedo (50 MW).**
+
+Los contratos fueron firmados el 2 de agosto de 2024 por 99,4 millones de dólares en Salitral, y 49,7 millones de dólares, en **Quevedo**.
+
+La empresa tuvo retrasos en la obra. La incorporación de **El Salitral** estaba prevista para el 15 de noviembre.
+
+Paralelamente, continúan los trabajos en la **central térmica de Quevedo (Los Ríos),** donde se instalarán 50 megavatios de capacidad. Actualmente, concluyó la construcción de las plataformas destinadas al montaje de las 20 unidades generadoras, cada una con una capacidad de 2.5 megavatios, agregó el Ministerio.
+
+* * *
+
+### Esperanza
+
+Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
+
+Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
+
+[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
+
+Masacre en El Oro deja 10 personas asesinadas
+=============================================
+
+Moradores de El Guabo, en El Oro, están conmocionados tras una masacre registrada la madrugada de este domingo 1 de diciembre.
+------------------------------------------------------------------------------------------------------------------------------
+
+![Uno de los asesinatos presentaba rastros de tortura. Su cuerpo fue desmembrado y colocado en un saco de yute](https://www.elcomercio.com/wp-content/uploads/2024/12/masacre-el-guabo-el-oro.jpg)
+
+Los moradores de **El Guabo**, en El Oro, se encuentran conmocionados por una **masacre** que se registró en el cantón, la madrugada de este domingo 1 de diciembre de 2024.
+
+### Más noticias
+
+* [Guía penitenciario fue asesinado en Latacunga](https://www.elcomercio.com/actualidad/seguridad/guia-penitenciario-fue-asesinado-en-latacunga.html "Guía penitenciario fue asesinado en Latacunga")
+* [Tres policías fueron liberados de secuestro en Guayas](https://www.elcomercio.com/actualidad/seguridad/tres-policias-liberados-guayas-yaguachi.html "Tres policías fueron liberados de secuestro en Guayas")
+* [Familia de hombre que fingió su propio secuestro en Machala tomó una decisión](https://www.elcomercio.com/actualidad/ecuador/familiares-secuestro-falso-machala.html "Familia de hombre que fingió su propio secuestro en Machala tomó una decisión")
+
+Alrededor de las **05:00**, los ciudadanos del barrio **La Victoria**, en la parroquia Barbones, encontraron los cuerpos de **10 hombres asesinados**.
+
+Según informó la **Policía Nacional**, un grupo de ecuatorianos y colombianos arrendaron una vivienda en el sector días atrás.
+
+Este domingo, desconocidos llegaron al inmueble en varios vehículos y sorprendieron a los hombres **mientras dormían**.
+
+Atacantes dispararon al menos en 100 ocasiones
+----------------------------------------------
+
+Al menos **100 indicios balísticos** quedaron en el sitio, como prueba de la **ráfaga de los tiros** de calibre 9 milímetros y de fusiles 5-56 que ejecutaron los armados.
+
+En su desesperación por huir del ataque, **cuatro de las víctimas** salieron del domicilio, pero fueron alcanzadas por las balas. Sus cuerpos quedaron tendidos sobre la calle[.](https://es.wikipedia.org/wiki/Cant%C3%B3n_El_Guabo "https://es.wikipedia.org/wiki/Cant%C3%B3n_El_Guabo")
+
+Uno de los 10 asesinados fue encontrado a un kilómetro de la escena del crimen. El hombre tenía rastros de **tortura**. Su cuerpo estaba **desmembrado** y colocado dentro de un saco de yute.
+
+Debido a los múltiples cuerpos sin vida que dejó la masacre fue necesaria la colaboración de miembros de la Dirección de Investigación de Delitos Contra la Vida (**Dinased**) de otros cantones.
+
+En las primeras investigaciones de la Policía se comprobó que varias de las víctimas tenían **antecedentes penales**.
+
+Cinco asesinados en Machala
+---------------------------
+
+Este ataque armado se suma a otro hecho registrado en **Machala** el sábado 30 de noviembre, donde **cinco personas fueron asesinadas** por desconocidos.
+
+Las autoridades investigan si los dos crímenes registrados en El Oro están relacionados.
+
+Moisés Caicedo brilla en goleada del Chelsea ante Aston Villa
+=============================================================
+
+El Chelsea goleó por 3-0 al Aston Villa en la Premier League y Moisés Caicedo tuvo una formidable actuación.
+------------------------------------------------------------------------------------------------------------
+
+![Moisés Caicedo con el Chelsea ante el Aston Villa en la Premier League.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-41.jpg)
+
+**Moisés Caicedo y el Chelsea** no se bajan de la pelea en la parte alta de la Premier League y mantuvieron su tercer lugar dentro del torneo gracias a su último triunfo. El cuadro del ecuatoriano se impuso por 2-0 al Aston Villa.
+
+Después de un arranque dubitativo en la temporada, el Chelsea consiguió reposicionarse y obtener la regularidad aspirada por el DT **Enzo Maresca**, que asumió el cargo al inicio de la temporada. Con la victoria ente los ‘villanos’, el plantel de Londres llegó a los siete triunfos, que se complementan con cuatro empates y dos derrotas[.](https://es.wikipedia.org/wiki/Chelsea_Football_Club "https://es.wikipedia.org/wiki/Chelsea_Football_Club")
+
+### Más noticias:
+
+* [Chelsea, sin Moisés Caicedo, ganó y lidera la Conference](https://www.elcomercio.com/deportes/futbol/chelsea-conference-league-moises-caicedo.html "Chelsea, sin Moisés Caicedo, ganó y lidera la Conference")
+* [Moisés Caicedo fue un pilar del Chelsea en victoria ante Leicester](https://www.elcomercio.com/deportes/futbol/moises-caicedo-clave-triunfo-chelsea-leicester.html "Moisés Caicedo fue un pilar del Chelsea en victoria ante Leicester")
+* [El Chelsea festejó la paternidad Moisés Caicedo](https://www.elcomercio.com/deportes/moises-caicedo-chelsea-festejo-nacimiento-hija.html "El Chelsea festejó la paternidad Moisés Caicedo")
+
+De cara al choque, el plantel azul hizo de local y jugó en **Stamford Bridge**. A su vez, el cuadro arribaba tras también haber ganado en la fecha previa y en su inmediato partido previo en la UEFA Conference League.
+
+Para el compromiso, **Moisés Caicedo** también arrancó como titular y fue fundamental en el centro de la cancha. El ecuatoriano estuvo presente durante los 90 minutos y colaboró tanto en aspectos de contención como de transiciones al ataque.
+
+El Chelsea y Moisés Caicedo pegaron desde el principio
+------------------------------------------------------
+
+El primer gol del **Chelsea** llegó de forma tempranera a los 7 minutos de juego gracias a Nico Jackson. El delantero recibió un centro en el área de parte de Marc Cucurella y sacó un remate de primer que venció a **Emiliano ‘Dibu’ Martínez**.
+
+Para el segundo tanto, quien apareció fue **Enzo Fernández** a los 36′. Recibió un pase, controló con zurda y remató con derecha. Para darle mayor libertad al argentino, **Moisés Caicedo** se lanzó a una labor de más auxilio en cuanto al control de la zona central.
+
+El ecuatoriano, además, alternó en un sube y baja con **Wesley Fonfana** para apoyarlo en la cobertura del lateral derecho. Asimismo, también estuvo a punto de dar una asistencia cuando uno de sus pases encontró libre a Jackson, pero este último no pudo definir.
+
+**Cole Palmer**, finalmente, selló la goleada a los 83 minutos. El delantero sacó un remate desde fuera del área y la clavó en el ángulo derecho del arco rival.
+
+¿Qué le espera al Chelsea?
+--------------------------
+
+Con el triunfo, el equipo de Moisés Caicedo aguarda por el resultado entre el **Liverpool y Manchester City.** Si los ‘reds’ vencen, estos seguirán como líderes de la Premier y le sacarán nueve puntos de distancia al Chelsea; si lo hacen los ‘ciudadanos’, los ‘blues’ bajan al cuarto puesto.
+
+En su siguiente partido de la liga inglesa, el cuadro de Londres se medirá ante el **Southampton**. Este duelo se llevará a cabo durante el miércoles 4 de diciembre del 2024.
+
+Te recomendamos eventos por fiestas de Quito este domingo 1 de diciembre
+========================================================================
+
+Quito celebra sus fiestas este domingo 1 de diciembre con desfiles y eventos artísticos en algunos barrios de la ciudad.
+------------------------------------------------------------------------------------------------------------------------
+
+![El tradicional desfile de la Confraternidad Norte se realizará en el parque Bicentenario, este domingo 1 de diciembre](https://www.elcomercio.com/wp-content/uploads/2024/12/quito-desfile-confraternidad-fiestas.jpg)
+
+**Quito** vive sus **fiestas** con eventos culturales, musicales y artísticos. Este domingo 1 de diciembre de 2024, la capital celebra sus **490 años de fundación** con desfiles y serenatas en algunos barrios.
+
+### Más noticias
+
+* [Eventos y cierres viales en Quito este sábado 30 de noviembre](https://www.elcomercio.com/actualidad/quito/eventos-cierres-viales-quito-sabado-30-noviembre.html "Eventos y cierres viales en Quito este sábado 30 de noviembre")
+* [El Metro cumple un año y tiene 15 estaciones para conocer a Quito](https://www.elcomercio.com/actualidad/quito/metro-cumple-tiene-15-estaciones-para-conocer-quito.html "El Metro cumple un año y tiene 15 estaciones para conocer a Quito")
+* [Cortes de luz en Quito este sábado 30 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-sabado-30-noviembre.html "Cortes de luz en Quito este sábado 30 de noviembre")
+
+Desfile de la Confraternidad Norte
+----------------------------------
+
+El tradicional **desfile de la Confraternidad** **Norte** se traslada por primera vez desde av. De los Shyris al **Parque Bicentenario**.
+
+Este evento, al igual que el desfile realizado en el sur de Quito, el sábado 30 de noviembre, contará con la participación de más de **50 instituciones educativas** y delegaciones artísticas[.](https://www.amt.gob.ec/ "https://www.amt.gob.ec/")
+
+El desfile comenzará a partir de las **10:00**. Una tribuna móvil se ubicará al costado de las pistas del antiguo aeropuerto, desde donde las autoridades y asistentes disfrutarán de las **comparsas** y de las **bandas de paz** de las escuelas y colegios.
+
+Las delegaciones se movilizarán por la pista del sentido norte-sur, mientras que los carros alegóricos lo harán de sur a norte, desde la calle **Rafael Aulestia**.
+
+En los exteriores al parque se ejecutará un operativo de **vehículos mal estacionados**. Te recomendamos estacionar en los más de **800 parqueaderos** internos del Bicentenario o movilizarte en Metro.
+
+Dominga en el Parque Metropolitano Guangüiltagua
+------------------------------------------------
+
+En el **Parque Metropolitano Guangüiltagua**, en el norte de Quito, se realizará una jornada de reforestación desde las **08:00**.
+
+Este evento busca recuperar la cobertura vegetal del lugar mediante la siembra de especies nativas.
+
+Cultura Urbana Fest
+-------------------
+
+El festival **Cultura Urbana Fest** tendrá lugar en Quitopía, en la antigua parada del Trolebús, en La Y, de **11:00 a 15:00**.
+
+El evento reúne varias manifestaciones culturales de **artes musicales y plásticas**[.](https://quitocultura.com/ "https://quitocultura.com/")
+
+Eventos artísticos en barrios de Quito
+--------------------------------------
+
+Varios **eventos artísticos y gastronómicos** se realizarán en algunos barrios de Quito este domingo, entre ellos:
+
+* **Beaterio**: Pregón de fiestas de Quito, desde las 09:00.
+* **Alangasí**: feria gastronómica Sabores de mi Quito rural en el parque de La Mujer, 10:00 a 15:00.
+* **La Kennedy**: recorrido de promoción de modos de transporte sostenibles en el parque, de 10:00 a 15:00.
+* **Guápulo**: Feria de emprendimientos en la plazoleta, 09:00 a 16:00.
+* **Puembo**: Serena de fiesta de Quito con banda de pueblo en el parque, de 10:00 a 12:00.
+* **Yaruquí**: Serena de fiesta de Quito con banda de pueblo en el parque, de 14:00 a 16:00.
+* **Pifo**: Serena de fiesta de Quito con banda de pueblo en el parque, de 11:00 a 13:00.
+* **San José**: Serena de fiesta de Quito con banda de pueblo en espacio comunitario, 14:00 a 16:00.
+* **Tumbaco**: Serena de fiesta de Quito con banda de pueblo en el parque, 14:00 a 16:00.
+* **Cumbayá**: Serena de fiesta de Quito con banda de pueblo en el parque, 10:00 a 12:00.
+* **La Mariscal**: Juegos tradicionales en Fulgencio Araujo y N26D, desde las 09:30.
+* **El Batán**: Melodías quiteñas en la casa comunal, 10:00 a 15:00.
+* **Quitumbe**: Serenatas en los Barrios, distintas horas.
+
+Siete películas que fracasaron en taquilla y se convirtieron en obras de culto 
+===============================================================================
+
+Para estas películas de culto, fracasar en taquilla no impidió su impacto cultural.
+-----------------------------------------------------------------------------------
+
+![Películas incomprendidas que hoy son auténticas obras de culto. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/11/Peliculas-de-culto.jpg)
+
+no lograr **éxito comercial** en su estreno, han evolucionado para convertirse en **películas de culto**. Este fenómeno se debe a **diversos factores**, como la innovación en la narrativa, la estética visual o la conexión emocional que logran establecer con el público. A continuación, exploramos siete de estas obras maestras que envejecieron bien. 
+
+### Más noticias
+
+* [Silvia Pinal, la última diva del cine de oro de México, falleció](https://www.elcomercio.com/tendencias/cine/silvia-pinal-fallecio-mexico-cine.html "https://www.elcomercio.com/tendencias/cine/silvia-pinal-fallecio-mexico-cine.html")
+* [‘Lilo y Stitch’ desatan el caos con su primer avance del ‘remake’ en acción real](https://www.elcomercio.com/tendencias/entretenimiento/lilo-stitch-desatan-caos-primer-avance-remake-accion-real.html "https://www.elcomercio.com/tendencias/entretenimiento/lilo-stitch-desatan-caos-primer-avance-remake-accion-real.html")
+
+**1\. ‘Blade Runner’ (1982)** 
+------------------------------
+
+Dirigida por **Ridley Scott** y basada en la novela ‘¿Sueñan los androides con ovejas eléctricas?’ de **Philip K. Dick**, **‘Blade Runner’** es un hito del cine de **ciencia ficción**. A pesar de su **fracaso inicial en taquilla**, ya que recaudó solo 33 millones de dólares frente a un presupuesto de 28 millones, su **estilo visual** y su compleja narrativa han influido en generaciones de cineastas. La película presenta un **futuro distópico** donde los **replicantes**, seres artificiales creados para servir a los humanos, son cazados por **“blade runners”**. Con el tiempo, ‘Blade Runner’ fue revalorizada y hoy es considerada una de las mejores películas de **ciencia ficción** jamás realizadas, según [W Magazín](https://wmagazin.com/relatos/blade-runner-40-anos-de-una-pelicula-de-culto-de-la-ciencia-ficcion-de-ridley-scott-basada-en-un-libro-de-philip-k-dick/ "https://wmagazin.com/relatos/blade-runner-40-anos-de-una-pelicula-de-culto-de-la-ciencia-ficcion-de-ridley-scott-basada-en-un-libro-de-philip-k-dick/"). 
+
+**2\. ‘The Big Lebowski’ (1998)** 
+----------------------------------
+
+Dirigida por los **hermanos Coen**, ‘The Big Lebowski’ no logró impresionar a la crítica ni al público en su estreno. Con un presupuesto de 15 millones de dólares y una recaudación de apenas 46 millones, muchos la consideraron un fracaso. Sin embargo, su **humor absurdo y personajes memorables**, como “El Nota”, han cultivado un ferviente culto de seguidores. Las proyecciones especiales y el **‘merchandising’** han ayudado a cimentar su estatus como **película de culto**. 
+
+**3\. ‘Donnie Darko’ (2001)** 
+------------------------------
+
+Este **thriller psicológico** dirigido por **Richard Kelly** se estrenó con críticas mixtas y una recaudación modesta de 7,5 millones de dólares frente a un presupuesto de 4,5 millones, de acuerdo con la web [Bizarro](https://bizarro.fm/2017/10/7-peliculas-le-deben-blade-runner/ "https://bizarro.fm/2017/10/7-peliculas-le-deben-blade-runner/").  
+
+La historia sigue a un adolescente que tiene visiones de un **misterioso conejo llamado Frank**. Con el tiempo, **Donnie Darko** ganó popularidad a través del mercado del video y festivales de cine, convirtiéndose en un clásico entre los fanáticos del **cine alternativo**. 
+
+**4\. ‘Fight Club’ (1999)** 
+----------------------------
+
+Basada en la novela homónima de **Chuck Palahniuk** y dirigida por **David Fincher**, ‘Fight Club’ tuvo un **estreno decepcionante** con una recaudación de 100 millones de dólares frente a un presupuesto de 63 millones, a decir de [La Nación](https://suscripciones.lanacion.com.ar/suscripcion/V/1/1/?callback=aHR0cHM6Ly93d3cubGFuYWNpb24uY29tLmFyL2xpZmVzdHlsZS9ibGFkZS1ydW5uZXItNDAtYW5vcy1kZS11bi1wZWxpY3VsYS1tYWxkaXRhLXF1ZS1sb3MtY3JpdGljb3MtbWFzYWNyYXJvbi15LWhhcnJpc29uLWZvcmQtb2Rpby1maWxtYXItbmlkMjUwNjIwMjIvP1I9YmI5YzYz "https://suscripciones.lanacion.com.ar/suscripcion/V/1/1/?callback=aHR0cHM6Ly93d3cubGFuYWNpb24uY29tLmFyL2xpZmVzdHlsZS9ibGFkZS1ydW5uZXItNDAtYW5vcy1kZS11bi1wZWxpY3VsYS1tYWxkaXRhLXF1ZS1sb3MtY3JpdGljb3MtbWFzYWNyYXJvbi15LWhhcnJpc29uLWZvcmQtb2Rpby1maWxtYXItbmlkMjUwNjIwMjIvP1I9YmI5YzYz"). 
+
+A pesar de las **críticas negativas iniciales**, la película ha sido reevaluada como una crítica poderosa al consumismo y la **masculinidad moderna**. Su famosa frase “La primera regla del ‘Fight Club’ es: no hablar sobre ‘Fight Club’” se ha convertido en parte del léxico cultural. 
+
+**5\. ‘The Shawshank Redemption’ (1994)** 
+------------------------------------------
+
+A menudo considerada una de las mejores películas de todos los tiempos, **‘The Shawshank Redemption’** tuvo un desempeño pobre en taquilla al recaudar solo 58 millones frente a un presupuesto de 25 millones de dólares, según La Tercera.  
+
+La **historia sobre la amistad y la esperanza** dentro de una prisión ha resonado profundamente con el público a lo largo de los años. Su éxito se consolidó tras ser transmitida por televisión y **lanzada en formato doméstico**. 
+
+**6\. ‘A Clockwork Orange’ (1971)** 
+------------------------------------
+
+Dirigida por **Stanley Kubrick**, esta adaptación de la novela de **Anthony Burgess** fue controvertida desde su estreno. Aunque recaudó alrededor de 26 millones de dólares contra un presupuesto de 2 millones, fue objeto de **críticas severas** debido a su **contenido violento**. Sin embargo, su **estilo visual único** y sus temas provocativos han llevado a que sea considerada una **película de culto** influyente, de acuerdo con [Spinof](https://www.espinof.com/listas/ponemos-orden-caos-blade-runner-guia-diferentes-versiones-pelicula-ciencia-ficcion-ridley-scott-que-necesitas-para-iniciarte-mundo-replicante "https://www.espinof.com/listas/ponemos-orden-caos-blade-runner-guia-diferentes-versiones-pelicula-ciencia-ficcion-ridley-scott-que-necesitas-para-iniciarte-mundo-replicante").  
+
+**7\. ‘The Room’ (2003)** 
+--------------------------
+
+Conocida como **“la peor película jamás hecha”**, ‘The Room’, dirigida por **Tommy Wiseau**, se estrenó con escaso éxito comercial y recibió críticas devastadoras. Sin embargo, se ha convertido en un **fenómeno cultural** gracias a sus proyecciones interactivas donde los espectadores **gritan líneas icónicas** y participan activamente en la experiencia cinematográfica. 
 
 Turismo a la extracción
 =======================
@@ -169,6 +777,34 @@ En la última década (2014-2023) hay un acumulado de 41635 casos de VIH, esto e
 Pero hay que seguir animando a que la gente se realice la prueba. De los 5 154 nuevos casos de 2023, 21% tuvieron un diagnóstico tardío y ya estaban en fase avanzada de VIH. Otro 16% fueron diagnosticados de coinfección por tuberculosis y VIH. Estos reciben dos tipos de tratamientos.
 
 Tobar destaca que ahora hay una nueva política que representa un antes y un después de la respuesta nacional al VIH. Esto está ligado a la entrega de la [PrEP y la PEP](https://www.elcomercio.com/tendencias/salud/que-es-la-prep-y-la-pep-para-prevenir-vih.html#:~:text=La%20profilaxis%20preexposici%C3%B3n%20(PrEP)%20y,su%20pareja%20tiene%20el%20virus. "https://www.elcomercio.com/tendencias/salud/que-es-la-prep-y-la-pep-para-prevenir-vih.html#:~:text=La%20profilaxis%20preexposici%C3%B3n%20(PrEP)%20y,su%20pareja%20tiene%20el%20virus."), medicamentos profilácticos pre y posexposición al virus. “Esto nos va a permitir atender a la población en riesgo y clave a tomar un medicamento para la prevención. Esto va a tener un impacto fuerte de aquí a dos años”. También destacó la inclusión de 19 servicios libres de estigma y discriminación con equipos multidisciplinarios de salud.
+
+Tiempos políticos
+=================
+
+El gobierno cumple un año entre aciertos y decisiones controvertidas, con desafíos de madurez y rectificación para fortalecer su rumbo democrático.
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Gerardo Villacreces Carbo, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Gerardo-Villacreces-Carbo.jpg)
+
+Se ha cumplido un año de **gobierno**, en el cual se ha apreciado una determinación e incluso **valentía** para **tomar decisiones**, algunas acertadas y necesarias y, otras desacertadas y discutibles; y, dentro de las discutibles, quizás, algunas no tanto por el fondo pero sí por la forma.
+
+Debemos entender que, es un **presidente joven**, que llegó al poder de una manera repentina, quizás ni él mismo lo suponía, ya que probablemente apuntaba a ganar en el 2025 o en el 2029, pero el azar quiso  que gane antes, en el 2023, lo cual le habría obligado a **organizar y estructurar** apresuradamente tanto el **gabinete** como su plan de **gobierno**. En ese ejercicio y ejecución, se habrían presentado enseñanzas, pero también vacíos que han generado **cuestionamientos** y dudas, como por ejemplo el **plan Fénix**.
+
+En ese orden de **ideas**, daría la **impresión** que, en lo que se refiere a los que incomodan al **régimen**, la determinación del **oficialismo** para sacarlos de encima, el tiempo y el **cálculo político** juegan un rol importante dentro de su **estrategia**; es decir, se habrían dado a sabiendas **forzadas acciones**, pero efectivas en **función** del **resultado práctico** inmediato, decisiones discutibles por ejemplo en el **ámbito jurídico**, pero que, hasta que la parte afectada pueda reclamar en las **instancias** correspondientes, el tiempo habría jugado a favor del **gobierno**, consecuentemente por más que más tarde se dé la razón a la otra parte, para entonces ya sería tarde. Un ejemplo de esto, es lo dado con la **vicepresidenta**, a quien, por cierto, esta columna no pretende defender, sino a la **institucionalidad**. De esta manera, daría la **impresión** que, en la perspectiva **pragmática oficialista**, el tiempo seguirá su rumbo y el nuevo tema forzado contribuirá a olvidar al anterior y así en adelante…
+
+Es prudente reflexionar en el sentido de que, cuando en una misma persona coinciden el **poder económico y el poder político,** dicha potente mezcla, fácilmente puede hacer perder la perspectiva; y, con mayor motivo, si la persona no ha alcanzado la suficiente madurez y/o **sabiduría**  para sortear tal relevante prueba. Así, sin **perjuicio** del natural **desgaste** por el ejercicio del **poder**, marearse pudiera ser fácil y por consiguiente tambalearse también, prueba de lo cual pudiera ser, la caída en las **encuestas**, que nos llevan a pensar que algo no se hizo bien y por ende amerita mejorar sino rectificar. Sin **perjuicio** de aplicar la **prudencia** y **sensibilidad** suficiente, para evitar y/o distanciarse de los **conflictos** de interés, esto es, saber discernir entre los **intereses personales** versus los nacionales, los que evidentemente son prioritarios si se ocupa un **cargo público**; cuanto, abstenerse de utilizar el poder como **plataforma** para atacar a los **adversarios**, ya sea por rencillas políticas y/o personales, sin pararse a reflexionar que el **poder** no es para siempre, que el que **siembra vientos cosecha tempestades** y, que el poder es para servir y no para servirse… 
+
+En cuanto a la **hábil comunicación**, la calidad de la producción es destacada, pero parecería que la **información** y los datos no siempre son precisos ni exactos, lo cual puede inducir a error.
+
+Esas conductas, infortunadamente, favorecen y conducen a dar espacios y/o facilidades al peligroso **socialismo del siglo XXI**, ya que pueden desorientar, confundir  o desilusionar aquel segmento de la población indecisa o confundida.
+
+Cabe indicar que, hasta el momento por lo menos, parecería que el gobierno ha tomado un norte distinto al de trascender en la historia con el sello de Estadista, como en su momento, guardando las distancias, sí lo realizó Clemente Yerovi Indaburu, quien trascendió, entre otros motivos, por nunca aferrarse al **poder**.  Valga la digresión, para reflexionar en el sentido de que, curiosamente, mientras más se pretende aferrarse al poder, este, efímero por naturaleza **democrática**, más esquivo y lejano, se vuelve….
+
+En buena hora, debemos tener presente que, una parte importante de la **población**, tiene claro los **peligros** del **profundo abismo** que implica el **socialismo del siglo XXI**. Siendo así, muy probablemente un destacado **segmento del electorado**, ante las elecciones que se avecinan con prontitud, se enfocará en votar por el que tenga más posibilidades dentro de la **tendencia** que defiende la Libertad, la democracia  y el **desarrollo económico** del país y de la gente, incluido dentro de esa posibilidad, al presidente Noboa, que con sus aciertos que los ha tenido sin duda y pese a  sus errores, está claro que no representa ni regenta el despeñadero de la **revolución socialista**.
+
+De esta manera, el **oficialismo** tendría posibilidades en el sentido de que, rectificando, pueda llegar a buen puerto, que en palabras electorales del momento significa, ganar  – la cuesta arriba –  reelección.
+
+Me atrevería a indicar que, incluso el peor gobierno de centro y/o centro derecha y/o derecha, es cien veces preferible que cualquier **gobierno socialista** auspiciado por el revolucionario correísmo, el cual lo sabemos bien, representa **pobreza, corrupción y destrucción**, ejemplo de aquello sin ir muy lejos es Venezuela, que en su momento decidió por Chávez como alternativa, y cuyas consecuencias ya todos conocemos….
 
 Cartas a Quito / 1 de diciembre de 2024
 =======================================
@@ -375,547 +1011,3 @@ El evento, además de celebrar la gastronomía, se convirtió en un punto de enc
 > Lo logramos !!! [pic.twitter.com/Z8WiNcmXNp](https://t.co/Z8WiNcmXNp)
 > 
 > — Holbach Muñetón Z. (@HMunetonZ) [November 30, 2024](https://twitter.com/HMunetonZ/status/1862997871701688620?ref_src=twsrc%5Etfw)
-
-La camisa blanca es tu aliada para crear outfits en climas impredecibles como el de Quito
-=========================================================================================
-
-Mira estas ideas de cómo combinar una camisa blanca
----------------------------------------------------
-
-![La camisa blanca básica es una de tus mejores aliadas para crear atuendos versátiles.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo39.jpg)
-
-Cuando el **clima** es tan variable como el de **Quito**, encontrar prendas versátiles que se adapten a diferentes escenarios es una necesidad.
-
-Entre ellas, la camisa blanca destaca como la estrella de cualquier armario.
-
-### Más noticias
-
-* **[Crea ‘outfits’ salvajes con prendas de ‘animal print’](https://www.elcomercio.com/afull/crea-outfits-salvajes-con-prendas-de-animal-print.html "https://www.elcomercio.com/afull/crea-outfits-salvajes-con-prendas-de-animal-print.html")**
-* **[Seis películas que amarás si te gusta la moda](https://www.elcomercio.com/tendencias/peliculas-moda.html "https://www.elcomercio.com/tendencias/peliculas-moda.html")**
-
-Esta pieza básica no solo aporta elegancia y frescura, sino que también permite crear una gran variedad de estilos para distintos climas y ocasiones.
-
-**Un _look_ casual y fresco**
------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo34-1024x683.jpg)
-
-Para un día relajado, la camisa blanca combina perfectamente con _jeans_, logrando un _look_ cómodo pero pulido. Si buscas algo más veraniego, úsala sobre un traje de baño o con shorts de mezclilla, ideal para escapadas a la playa o días soleados.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo35-1024x683.jpg)
-
-**De lo formal a lo creativo**
-------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo36-1024x683.jpg)
-
-La versatilidad de la camisa blanca también se refleja en su capacidad para transformar un atuendo de oficina. Combinada con **pantalones de vestir**, se convierte en la prenda clave para un look formal. Pero si decides usarla debajo de **chalecos abrigados** o con una **falda midi de denim**, tendrás una opción moderna y funcional para esos días fríos que suelen sorprender.
-
-**Un lienzo para cualquier color**
-----------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo37-1024x683.jpg)
-
-Otra ventaja de esta prenda es que combina con casi cualquier tonalidad, lo que te permite experimentar con **faldas de colores vivos** o accesorios llamativos. Desde estilos deportivos con _leggins_ para el fin de semana hasta conjuntos más elegantes con **faldas de tela**, la camisa blanca siempre se ajusta a tus necesidades.
-
-**El imprescindible de tu armario**
------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo38-1024x683.jpg)
-
-En un entorno donde el clima puede cambiar de soleado a lluvioso en cuestión de minutos, tener una prenda tan versátil como la camisa blanca es una inversión segura. Además, su atemporalidad asegura que nunca pasará de moda, convirtiéndola en una aliada infalible para cualquier estación y ocasión.
-
-¿Qué tiene el número 28? El misterio detrás de las muertes de famosos mexicanos
-===============================================================================
-
-Silvia Pinal se sumó a la lista de personalidades mexicanas que fallecieron un 28 de noviembre.
------------------------------------------------------------------------------------------------
-
-![Silvia Pinal, la última diva del cine mexicano, murió el 28 de noviembre, a los 93 años. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-30T190628.609.jpg)
-
-El 28 de noviembre de **2024**, el mundo del espectáculo mexicano se vistió de luto con el fallecimiento de **Silvia Pinal**, una de las figuras más emblemáticas del Cine de Oro.
-
-A sus 93 años, su partida se suma a una serie de muertes notables que han ocurrido en esta misma fecha, generando un misterio que captura la atención del público. ¿Quiénes están en esa lista?
-
-### **Más noticias:**
-
-* [Spotify tiene a la ‘novia’ del Joker en la cima del escalafón del Top Global](https://www.elcomercio.com/tendencias/entretenimiento/joker-novia-spotify-top-global-ranking.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/joker-novia-spotify-top-global-ranking.html?source=Internal&ref=Single+Content+Link")
-* [Ca7triel y Paco Amoroso redefinen el trap con un estilo audaz](https://www.elcomercio.com/tendencias/entretenimiento/ca7riel-amoroso-duo-trap-concierto-tiny.html "https://www.elcomercio.com/tendencias/entretenimiento/ca7riel-amoroso-duo-trap-concierto-tiny.html")
-* [Spotify Wrapped 2024 se acerca y promete sorpresas](https://www.elcomercio.com/tendencias/entretenimiento/spotify-wrapped-resumen-musical-anual.html "https://www.elcomercio.com/tendencias/entretenimiento/spotify-wrapped-resumen-musical-anual.html")
-
-**El misterio detrás de las muertes de famosos mexicanos**
-----------------------------------------------------------
-
-El fenómeno **del ‘Día 28’** es objeto de especulación durante años. Entre las personalidades que han partido en esta fecha se encuentran **Juan Gabriel**, quien falleció el 28 de agosto de 2016, y **José José**, conocido como el ‘Príncipe de la Canción’, que dejó este mundo el 28 de septiembre de 2019.
-
-Otros artistas destacados incluyen a **Armando Manzanero**. Este artista murió el 28 de diciembre de 2020. **Roberto Gómez Bolaños**, famoso por su personaje ‘Chespirito’, falleció el 28 de noviembre de 2014.
-
-> [View this post on Instagram](https://www.instagram.com/p/DC8zyYFoLF7/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [A post shared by Florinda Meza (@florindamezach1)](https://www.instagram.com/p/DC8zyYFoLF7/?utm_source=ig_embed&utm_campaign=loading)
-
-La coincidencia llevó a algunos a referirse a este grupo como el ‘Club del 28’. Aunque muchos consideran que se trata solo de una curiosidad, otros buscan significados más profundos detrás de esta repetición.
-
-La lista incluye a **Talina Fernández**, quien partió el 28 de junio de 2023, y **Manuel ‘El Loco’ Valdés**, fallecido el 28 de agosto de 2020.
-
-Willian Pacho y el PSG tropezaron ante el Nantes
-================================================
-
-Willian Pacho fue titular con el PSG, pero él y su equipo no pudieron vencer al Nantes en la Ligue One de Francia.
-------------------------------------------------------------------------------------------------------------------
-
-![Willian Pacho, defensa ecuatoriano del PSG, marca a un rival del Nantes.](https://www.elcomercio.com/wp-content/uploads/2024/11/e4089635a7a353d486547e9d7063c54585d7446e.jpg)
-
-En una situación límite en la Liga de Campeones, ni siquiera la ‘Ligue 1’ francesa es un consuelo ya para el París Saint Germain (PSG), empatado en el Parque de los Príncipes por el antepenúltimo de la clasificación, el Nantes, para disparar las dudas sobre el equipo dirigido por **Luis Enrique Martínez**, aunque sea más que líder sólido.
-
-El **PSG** tiene un problema capital en su presente. No domina las áreas. Ni la suya ni la contraria. En su ataque, en sus rápidas transiciones, con futbolistas como **Bradley Barcola** (Dembele fue suplente tras su expulsión en Múnich en la Liga de Campeones), surge convincente en torno a la portería contraria, pero sin el tino de su clase de futbolistas.
-
-### Más noticias:
-
-* [PSG de Willian Pacho cae ante Bayern y se complica en Champions](https://www.elcomercio.com/deportes/futbol/psg-willian-pacho-cae-ante-bayern-se-complica-en-champions.html "PSG de Willian Pacho cae ante Bayern y se complica en Champions")
-* [Willian Pacho y el PSG se juegan la permanencia en Champions](https://www.elcomercio.com/deportes/futbol/willian-pacho-psg-champions-league.html "Willian Pacho y el PSG se juegan la permanencia en Champions")
-* [Sin Willian Pacho, PSG goleó y piensa en el Bayern](https://www.elcomercio.com/deportes/futbol/willian-pacho-psg-victoria-toulouse.html "Sin Willian Pacho, PSG goleó y piensa en el Bayern")
-
-Ni siquiera un gol a toda velocidad, en un minuto y 49 segundos, mejoró sus estadísticas en ese sentido a lo largo del primer tiempo. El 1-0 procedente de la irrupción potente por la banda izquierda de _Nuno Mendes_ la tocó **Gonçalo Ramos** (reapareció en el once titular tres meses y medio después de una lesión, tras jugar ya unos minutos el pasado martes en Múnich) y la culminó **Achraf Hakimi** dentro del área. Tan rápido y con tanta autoridad.
-
-Después, dispuso de ocasiones suficientes para haber marcado más goles. Su déficit de efectividad de siempre. No las aprovechó, sobre todo porque enfrente se lució Carlgren, el portero del Nantes, ágil para frustra a **Vitinha**, después con una fenomenal mano izquierdo a Hakimi y más tarde a **Nuno Mendes**. También dio el PSG un poste. Igualmente, Vitinha mandó al limbo un tiro sencillo. Y Joao Neves remató fatal cuando se cantaba ya el gol.
-
-El empate no se destrabó para Pacho y el PSG
---------------------------------------------
-
-Todo en el primer tiempo, interrumpido tanto caudal por el 1-1 de Nantes. La definición de Abline con la izquierda fue solvente frente a **Donnarumma**. Era el minuto 38. Un empate más que inquietante para el **PSG**. Más aún tan negado ante el gol contrario. Y, peor todavía, por la sensación de vulnerabilidad que siente en su defensa, cuando superan su presión.
-
-Porque no le llegan demasiado, pero, cuando lo hacen los rivales, le generan un **peligro impropio** de la diferencia de nivel que se presupone entre su equipo y el resto en la competición francesa, esté en su portería **Safonov**, como suele ser habitual últimamente, o Donnarumma, titular indudable en el pasado, por momentos ahora y de inicio este sábado[.](https://en.wikipedia.org/wiki/Paris_Saint-Germain_FC "https://en.wikipedia.org/wiki/Paris_Saint-Germain_FC")
-
-El 1-1 al descanso era un incordio para el **PSG**. Demasiado habitual en esta campaña, con victorias parciales tan exiguas que muchas veces juega al filo del empate. Este sábado encajó el empate antes, cuando todavía le quedaba muchísimo tiempo para responder con todos los recursos y cualidades que posee, contra un **Nantes** que lo aguardó, se defendió y resistió, incluso con posesiones del conjunto parisino por encima del 80 por ciento. No es suficiente.
-
-Alineaciones del PSG
---------------------
-
-1 – **París Saint Germain**: Donnarumma; Hakimi, Marquinhos, Pacho, Nuno Mendes; Joao Neves (Zaire Emery, m. 61), Vitinha, Fabián Ruiz; Kang in (Dembele, m. 73), Gonçalo Ramos, Barcola (Doue, m. 73).
-
-1 – **Nantes**: Carlgren; Centonze (Amian, m. 46), Castelletto (Duverne, m. 73), Zeze, Pallois, Cozza; Lepenant, Chirivella (Gbamin, m. 89), Douglas Augusto; Abline (Ganago, m. 82), Simon (Guerassy, m. 82).
-
-Spotify Wrapped 2024 y los trucos para conocer tus tendencias antes de su lanzamiento
-=====================================================================================
-
-Spotify Wrapped es un resumen de tus tendencias musicales anuales.
-------------------------------------------------------------------
-
-![Los usuarios de Spotify esperan con ansias el lanzamiento de Spotify Wrapped. Foto: Pexels](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-30T182400.871.jpg)
-
-**Spotify Wrapped**, el evento anual que revela las **canciones**, artistas y géneros más escuchados por cada usuario, se convirtió en uno de los momentos más esperados del año.
-
-Aunque el informe oficial se publica generalmente en diciembre, muchos usuarios desean conocer sus estadísticas antes de que se haga público. ¿Cómo? Te lo contamos.
-
-### **Más noticias:**
-
-* [Spotify Wrapped 2024 se acerca y promete sorpresas](https://www.elcomercio.com/tendencias/entretenimiento/spotify-wrapped-resumen-musical-anual.html "https://www.elcomercio.com/tendencias/entretenimiento/spotify-wrapped-resumen-musical-anual.html")
-* [Spotify tiene a la ‘novia’ del Joker en la cima del escalafón del Top Global](https://www.elcomercio.com/tendencias/entretenimiento/joker-novia-spotify-top-global-ranking.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/joker-novia-spotify-top-global-ranking.html?source=Internal&ref=Single+Content+Link")
-* [De ‘Xuxa’ a ‘Nubeluz’ y la magia que marcó a una generación infantil](https://www.elcomercio.com/tendencias/entretenimiento/xuxa-nubeluz-yuly-programas-infantiles-nostalgia.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/xuxa-nubeluz-yuly-programas-infantiles-nostalgia.html?source=Internal&ref=Single+Content+Link")
-
-**Spotify Wrapped 2024 y los trucos para conocer tus tendencias antes de su lanzamiento**
------------------------------------------------------------------------------------------
-
-Existen diversas herramientas que permiten predecir los hábitos musicales personales incluso antes de la fecha oficial de lanzamiento.
-
-Una opción popular es el uso de aplicaciones externas que ofrecen un análisis detallado del historial de escucha en **Spotify**. Estas herramientas proporcionan un adelanto de lo que podría aparecer en tu Wrapped 2024, basándose en el seguimiento de tus hábitos musicales a lo largo del año.
-
-**Las aplicaciones para descubrir las tendencias musicales en Spotify**
------------------------------------------------------------------------
-
-**Obscurify** es una de las aplicaciones más destacadas. Ofrece un análisis exhaustivo sobre los géneros y artistas más escuchados. Lo interesante es que compara tu perfil musical con el de otros usuarios de la plataforma. Esta herramienta te permite conocer qué tan “popular” o “único” es tu gusto musical en relación con el resto de la comunidad.
-
-**Spotify Pie** presenta una visualización creativa de tus géneros más escuchados mediante un gráfico en forma de pastel. Esta herramienta permite ver de forma rápida y atractiva cómo se distribuyen tus gustos musicales y anticipar lo que podría aparecer en tu **Wrapped**.
-
-**Receiptify** -en cambio- que crea un informe visual parecido a un recibo de compra con tus canciones más reproducidas. Esta herramienta, además de mostrar las canciones, ofrece detalles sobre la duración y las reproducciones totales, proporcionando una forma divertida de visualizar tus hábitos musicales.
-
-Libertad se salva y Cumbayá e Imbabura descienden a la Serie B
-==============================================================
-
-Imbabura y Cumbayá no continuarán en la Serie A de la Liga Pro de 2025 y Libertad consiguió permanecer en la última fecha.
---------------------------------------------------------------------------------------------------------------------------
-
-![Jugadores de Imbabura y Cumbayá, equipos que descendieron en la Liga Pro, en un duelo entre sí.](https://www.elcomercio.com/wp-content/uploads/2024/11/20240902125138-fbl-ligapro-cumbaya-imbabura-scaled.jpg)
-
-La **Liga Pro** empieza a definirse en su última fecha y, aunque resta por fijar si hay un finalista o campeón directo y todos los clasificados a torneos internacionales, los descensos ya se conocen. **Cumbayá e Imbabura** no continuarán en la Serie A y **Libertad** consiguió la permanencia con lo justo.
-
-En horario unificado dentro de la jornada 15 de la segunda etapa, los **tres clubes** disputaron los cotejos que definieron su futuro. El trío de escuadras arribó a la fecha final del campeonato nacional con la misma cantidad de puntos (24) y tan solo separados por gol diferencia.
-
-### Más noticias:
-
-* [Liga de Quito está cerca de retener el título de Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-de-quito-esta-cerca-de-retener-el-titulo-de-liga-pro.html "Liga de Quito está cerca de retener el título de Liga Pro")
-* [La Liga Pro tendrá un campeón o finalistas el domingo](https://www.elcomercio.com/deportes/futbol/liga-independiente-horarios-liga-pro.html "La Liga Pro tendrá un campeón o finalistas el domingo")
-* [Liga de Quito jugará el último partido de la Liga Pro sin visitantes](https://www.elcomercio.com/deportes/liga-quito-liga-pro-publico-cuenca.html "Liga de Quito jugará el último partido de la Liga Pro sin visitantes")
-
-Frente a tal contexto, cada club **no solo dependía de sí mismo**, sino de lo que haga el otro que se encontraba en la misma situación. Los tres debían salir a ganar y esperar que sus dos rivales directos no lo hagan o, si lo hacían, que su triunfo sea tal para superarlos en gol diferencia.
-
-En el caso de los adversarios a los que se enfrentaban los clubes comprometidos en la última fecha, solo aún tenía aspiraciones por las que jugarse. **Cumbayá y Libertad** se enfrentaban a Delfín y Emelec, que ya no contaban con chances para torneos internacionales, mientras que **Imbabura** lo hacía frente a Aucas, que sí esperaba asegurar un cupo en la Copa Sudamericana.
-
-Libertad se salvó ante un flojo Emelec
---------------------------------------
-
-**Libertad** consiguió vencer a Emelec por un marcador de **2-1** y aquello le permitió mantenerse en la máxima categoría del fútbol ecuatoriano. Este fue el único de los tres equipos que se encontraban en el fondo que consiguió ganar[.](https://es.wikipedia.org/wiki/Serie_A_de_Ecuador_2024 "https://es.wikipedia.org/wiki/Serie_A_de_Ecuador_2024")
-
-**Frangoy Zambrano** puso el primer tanto del cotejo a los 4 cuatro minutos y **Carlos Medina** selló el triunfo a los 41′. Aunque Andrés Ricaurte descontó para Emelec en el inicio del segundo tiempo a los 48′, los eléctricos no pudieron impulsarse hacia el empate.
-
-Con el triunfo, Libertad logró sumar **27 puntos** dentro de la tabla acumulada y aseguró su puesto en la Serie A del 2024.
-
-Cumbayá e Imbabura descendieron
--------------------------------
-
-Dentro de sus respectivos compromisos, tanto **Cumbayá** como **Imbabura** fueron derrotados. Ninguno consiguió superar a su rival siquiera en pasajes de los compromisos y el equipo de Pichincha firmó un marcador escandaloso.
-
-Cumbayá cayó como visitante ante el Delfín por un marcador de 6-4. **José ‘Tin’ Angulo** hizo un hat-‘trick’, **Marlon Mejía** un doblete e **Ignacio Gariglio** aportó el gol restante para los manabitas; dentro del cuadro que cayó, **Bruno Vides** anotó otro ‘hat-trick’ y **Ariel Almagro** hizo el tanto restante.
-
-El **Imbabura vs. Aucas**, los gardenios sufrieron una derrota de 1-2. El equipo oriental se impuso con tantos de **Luis Cano Quintana y Cristopher Zambrano**, el descuento para los descendidos locales fue de **Leonardo Pantoja**.
-
-Los cortes de luz en Quito de este domingo 1 de diciembre
-=========================================================
-
-Los cortes de luz en Quito de este domingo 1 de diciembre tienen dos franjas horarias, según la Empresa Eléctrica Quito.
-------------------------------------------------------------------------------------------------------------------------
-
-![Los cortes de luz en Quito tienen este cronograma para el domingo 1 de diciembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/apagondomingo.jpg)
-
-Los **cortes de luz en Quito**, programados para este domingo **1 de diciembre de 2024,** se extenderán por seis horas en el **sector residencial** y hasta siete horas en el **sector industrial**, según informó la **Empresa Eléctrica Quito (EEQ).**
-
-### Más noticias
-
-* [Cortes de luz serán de hasta cinco horas diarias en Ecuador](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-hasta-cinco-horas-diarias-ecuador.html "Cortes de luz serán de hasta cinco horas diarias en Ecuador")
-* [Cortes de luz en Quito este sábado 30 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-sabado-30-noviembre.html "Cortes de luz en Quito este sábado 30 de noviembre")
-* [Cortes de luz tendrán modificaciones por fiestas de Quito](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-tendran-modificaciones-por-fiestas-de-quito.html "Cortes de luz tendrán modificaciones por fiestas de Quito")
-
-La medida responde a la crisis energética que enfrenta el país debido a la irregularidad de las lluvias, clave para el funcionamiento de las centrales hidroeléctricas.
-
-Los factores de los racionamientos de luz en Ecuador
-----------------------------------------------------
-
-En las provincias de **Napo y Sucumbíos**, donde opera la central **Coca Codo Sinclair**, las precipitaciones intensas de días anteriores disminuyeron significativamente, dando paso a lloviznas. Esta situación también se replica en el Austro del país, donde se encuentran las centrales **hidroeléctricas Paute, Sopladora y Mazar,** que siguen reportando niveles críticos en sus embalses.
-
-La falta de lluvias sostenidas en estas áreas afecta la capacidad de generación de energía del sistema hidroeléctrico, que provee la mayor parte de la electricidad en Ecuador.
-
-Los horarios de los cortes de luz en Quito
-------------------------------------------
-
-El plan de racionamiento energético anunciado por el **Ministerio de Energía y empresas eléctricas se mantendrá este domingo 1 de diciembre en Quito.**
-
-Los **cortes de luz** para el sector residencial estarán divididos en dos franjas horarias a lo largo del día, mientras que el sector industrial enfrentará interrupciones continuas de siete horas. A continuación, se detallan los horarios de suspensión para este d**omingo 1 de diciembre de 2024[.](https://es.wikipedia.org/wiki/Empresa_El%C3%A9ctrica_del_Ecuador "https://es.wikipedia.org/wiki/Empresa_El%C3%A9ctrica_del_Ecuador")**
-
-* **Sector residencial:** Dos franjas de tres horas cada una, distribuidas entre la madrugada y la noche, según el área.
-* **Sector industrial:** Siete horas continuas.
-
-Los anuncios de los cortes de luz para diciembre
-------------------------------------------------
-
-El **presidente Daniel Noboa** aseguró que los **cortes de luz** terminarán en diciembre. Sin embargo, la planificación actual incluye suspensiones de entre **cinco y siete horas** durante la primera semana de diciembre de 2024.
-
-Las autoridades advierten que el regreso a la normalidad depende de una mejora en las condiciones climáticas y de ajustes en el sistema eléctrico.
-
-La situación refleja la dependencia estructural de Ecuador hacia la energía hidroeléctrica y la vulnerabilidad que enfrenta a fenómenos climáticos adversos.
-
-* * *
-
-### Esperanza
-
-Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
-
-Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
-
-[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
-
-Una mujer de 94 años se recupera del ataque de un perro en una parroquia de Quito
-=================================================================================
-
-El perro que atacó a la mujer de 94 años será evaluado por especialistas.
--------------------------------------------------------------------------
-
-![El perro que atacó a la adulta mayor tenía cerca de dos años. Foto: Cortesía](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-30T172309.871.jpg)
-
-Un lamentable hecho ocurrió en una **parroquia** ubicada a 11 kilómetros del **centro de Quito**. Un perro de raza similar a pitbull -de aproximadamente dos años- atacó a una adulta mayor de 94 años.
-
-### **Más noticias:**
-
-* [Pitbulls: contradiciendo su mala fama](pitbulls: contradiciendo su mala fama)
-* [Así se denuncia el maltrato animal](https://www.elcomercio.com/narices-frias/maltrato-animal-denuncias-sanciones-quito.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/narices-frias/maltrato-animal-denuncias-sanciones-quito.html?source=Internal&ref=Single+Content+Link")
-* [El abandono de cadáveres es maltrato animal y en Quito se sanciona](https://www.elcomercio.com/narices-frias/maltrato-animal-cadaveres-animales-fauna-quito-multas.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/narices-frias/maltrato-animal-cadaveres-animales-fauna-quito-multas.html?source=Internal&ref=Single+Content+Link")
-
-**El perro tipo pitbull era agresivo**
---------------------------------------
-
-El tutor del **perro** reconoció que el animal mostraba actitudes agresivas y, por ello, era común que lo encadenara.
-
-Los vecinos informaron que el can solía permanecer sin supervisión en el espacio público, lo que incrementó los riesgos de agresiones.
-
-Eso consta en el informe de la Unidad de Bienestar Animal (UBA). Dicha institución inició un procedimiento administrativo por una Infracción Grave de mala tenencia de animales. Eso podría implicar una multa de 4 600 dólares.
-
-**Una mujer de 94 años se recupera del ataque de un perro en una parroquia de Quito**
--------------------------------------------------------------------------------------
-
-Personal de la Unidad de Bienestar Animal (UBA) actuó rápidamente en la parroquia de Conocoto, al suroriente de **Quito**, luego de recibir una alerta de la Unidad de Policía de Protección del Medio Ambiente (UPMA) sobre un ataque de un perro a una mujer de 94 años.
-
-La adulta mayor, quien sufrió graves heridas en sus brazos, fue trasladada de urgencia a una casa de salud. Aunque su estado presenta una leve mejoría, sigue siendo delicado y permanece hospitalizada.
-
-Al llegar al lugar, la UBA, apoyada en testimonios de los vecinos, identificó al perro agresor, que se encontraba dentro de la vivienda de su tutor.
-
-Se trataba de un can de raza similar a **pitbull**, de aproximadamente dos años, con un comportamiento agresivo.
-
-**¿Qué pasó con el perro que atacó a una mujer de 94 años?**
-------------------------------------------------------------
-
-La Unidad de Bienestar Animal retiró al animal y lo trasladó al Centro de Atención Veterinaria, Rescate y Acogida Temporal (CAVRAT) para su evaluación.
-
-Los familiares de la víctima -por su parte- también presentarán una denuncia penal, lo que podría resultar en sanciones más severas para el tutor si se comprueba su responsabilidad.
-
-Durante la intervención, la UBA retiró a otros dos perros que también deambulaban en el sector, para ser evaluados por su comportamiento.
-
-Botafogo es campeón de la Libertadores ante Mineiro de Alan Franco
-==================================================================
-
-El Atlético Mineiro del ecuatoriano Alan Franco se mide ante Botafogo por la final de la Copa Libertadores de América.
-----------------------------------------------------------------------------------------------------------------------
-
-![Luiz Henrique celebra uno de sus goles con Botafogo en la final de la Copa Libertadores.](https://www.elcomercio.com/wp-content/uploads/2024/11/0a565c654d1d62ea40f81a255f01e5951b1fc415.jpg)
-
-**Atlético Mineiro y Botafogo** disputaron el título de la Copa Libertadores 2024 en el Monumental de Buenos Aires (Argentina) durante este 30 de noviembre del 2024. El partido contó con la presencia del ecuatoriano Alan Franco en el ‘Galo’, quien vio al ‘Fogao’ coronarse campeón.
-
-Botafogo, con más de cien años de historia, llegó por primera vez a esta instancia del torneo, fortalecido por la inversión de John Textor, su propietario desde 2022. Asimismo, el equipo también arribó tras un momento dulce en el **Brasileirao**, donde es líder y está por coronarse campeón[.](https://en.wikipedia.org/wiki/Copa_Libertadores "https://en.wikipedia.org/wiki/Copa_Libertadores")
-
-### Más noticias:
-
-* [Alberto Spencer, el mejor representante de Ecuador en la Libertadores](https://www.elcomercio.com/deportes/futbol/alberto-spencer-mejor-representante-ecuador-libertadores.html "Alberto Spencer, el mejor representante de Ecuador en la Libertadores")
-* [¿A qué hora juega Alan Franco la final de la Copa Libertadores?](https://www.elcomercio.com/deportes/final-hora-libertadores-alan-franco-botafogo-mineiro.html "¿A qué hora juega Alan Franco la final de la Copa Libertadores?")
-* [Ecuatorianos que triunfaron en la Libertadores con clubes extranjeros](https://www.elcomercio.com/deportes/futbol/ecuatorianos-triunfaron-libertadores-con-clubes-extranjeros.html "Ecuatorianos que triunfaron en la Libertadores con clubes extranjeros")
-
-Por su parte, **Atlético Mineiro**, campeón de la Copa Libertadores en 2013, contó con menos presión de cara a la final, aunque con la experiencia de haber superado a grandes equipos como River Plate, Fluminense y San Lorenzo en su camino. El equipo de Belo Horizonte, dirigido por Gabriel Milito, no contó con **Matías Zaracho** por lesión.
-
-En el caso de **Alan Franco**, el tricolor llegó como una de las figuras del ‘galo’ y saltó al gramado como titular. Este, a su vez, poseía la chance de convertirse en el segundo futbolista ecuatoriano en ganar una Copa Libertadores en un equipo extranjero, pues antes solo lo hizo Alberto Spencer.
-
-Botafogo se puso por delante con uno menos
-------------------------------------------
-
-En el duelo entre **Botafogo y Atlético Mineiro**, las sorpresas se marcaron desde el principio y, ante un contexto adverso, el ‘Fogao’ supo sacar adelante el partido. Durante la primera mitad sufrió una expulsión, sin embargo, aquello no le impidió ponerse por delante en el marcador.
-
-Al minuto y medio del silbatazo inicial, Gregore fue a disputar una pelota e impactó en el cuello de uno de sus rivales. Tal acción le valió ser expulsado debido a la vehemencia de la jugada y su equipo quedó con 10 durante los 44 minutos restantes.
-
-Pese a la tarjeta roja, el conjunto de Río de Janeiro demostró que con menos, a veces, se puede jugar mejor. A los 35′, **Luiz Henrique** puso el primer tanto. Un rebote le quedó en área y con un remate de primero mandó a guardar la pelota.
-
-En el cierre del primer tiempo, la desventaja en el marcador se acrecentó para el **Atlético Mineiro**. Álex Telles puso el 2-0 desde el punto penal.
-
-Atlético Mineiro descontó, pero no lo logró; el ‘Fogao’ sentenció en el cierre
-------------------------------------------------------------------------------
-
-De cara al segundo tiempo y ya con la ventaja de dos goles en el marcador, **Botafogo** optó por resistir y aguantar el resultado. Durante todos los 45 minutos de complemento, el equipo se dedicó a defender en su cancha y buscar contragolpes que tampoco lo expongan
-
-Pese a que **Gabriel Milito** lanzó una ultraofensiva sobre sus rivales, estos supieron contenerla. El mayor rédito llegó por intermedio de Eduardo Vargas, quien logró una inyección de fe con un tanto los 47 minutos.
-
-El tanto de **Vargas**, sin embargo, no fue suficiente para impulsar a la escuadra a conseguir el empate. En los minutos finales, el cuadro de Belo Horizonte logró fabricar dos jugadas manifiestas de gol, pero no fueron acertadas.
-
-Sus errores de eficiencia le hicieron pagar caro al Atlético Mineiro y las contras a las que se había avocado su rival dieron resultado. En los descuentos, Junior Santos sentenció el partido. Con el 3-1 definitivo en el marcador, el **Botafogo** celebró en Buenos Aires la primera Copa Libertadores de su historia.
-
-Cortes de luz en Guayaquil continuarán este domingo 1 de diciembre de 2024
-==========================================================================
-
-Los cronogramas mantienen desconexiones de entre cinco y siete horas diarias.
------------------------------------------------------------------------------
-
-![Los cortes de luz continuarán en Guayaquil. Foto: Pexels](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-30T162551.428.jpg)
-
-Los **cortes de luz** programados en **Guayaquil** siguen este domingo 1 de diciembre de 2024 debido a la crisis energética que afecta a **Ecuador**.
-
-### **Más noticias:**
-
-* [Cortes de luz en Guayaquil del viernes 29 de noviembre al domingo 1 de diciembre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-guayaquil-de-viernes-29-de-noviembre-a-domingo-1-de-diciembre.html "https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-guayaquil-de-viernes-29-de-noviembre-a-domingo-1-de-diciembre.html")
-* [Cortes de luz en Ecuador del viernes 29 de noviembre al domingo 1 de diciembre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-ecuador-de-viernes-29-de-noviembre-a-domingo-1-de-diciembre.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-ecuador-de-viernes-29-de-noviembre-a-domingo-1-de-diciembre.html?source=Internal&ref=Single+Content+Link")
-* [Cortes de luz en Quito del viernes 29 de noviembre al domingo 1 de diciembre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-de-viernes-29-de-noviembre-a-domingo-1-de-diciembre.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-de-viernes-29-de-noviembre-a-domingo-1-de-diciembre.html?source=Internal&ref=Single+Content+Link")
-
-**Cortes de luz en Guayaquil continuarán este 1 de diciembre de 2024**
-----------------------------------------------------------------------
-
-Aunque el presidente **Daniel Noboa** expresó su expectativa de que los apagones concluyan este mes, los cronogramas de la **Corporación Nacional de Electricidad** (CNEL) mantienen desconexiones de entre [cinco y siete horas diarias](https://drive.google.com/file/d/1mGwq0qpZ2RME4eMPl4PXVll46ILVkFWw/view "https://drive.google.com/file/d/1mGwq0qpZ2RME4eMPl4PXVll46ILVkFWw/view").
-
-El déficit energético que enfrenta el país tiene varias causas. La principal razón es la baja generación eléctrica producto de la disminución de lluvias en las cuencas hidrográficas.
-
-Paute Integral, el mayor complejo hidroeléctrico de Ecuador, experimentó una ligera recuperación en sus niveles gracias a las primeras lluvias en la región Austral. Sin embargo, los caudales aún no alcanzan los niveles normales de producción.
-
-**Crisis energética por la peor sequía de la historia**
--------------------------------------------------------
-
-El Ministerio recalcó que trabaja de manera comprometida e ininterrumpida para potenciar el Sistema Energético ecuatoriano y mejorar las condiciones técnicas de la infraestructura eléctrica.
-
-Las decisiones están enfocadas en poder suspender los racionamientos de energía para finales de 2024, como ofreció el presidente Daniel Noboa.
-
-La crisis energética, provocada por un déficit de 1 080 megavatios (MW) y una de las peores sequías en la historia del país, afecta todos los aspectos de la vida diaria de los ecuatorianos.  
-
-Cortes de luz serán de hasta cinco horas diarias en Ecuador
-===========================================================
-
-El Ministerio de Energía y Minas anunció un nuevo horario de los cortes de luz para Ecuador.
---------------------------------------------------------------------------------------------
-
-![Los cortes de luz en Ecuador cambian de horarios en la primera semana de diciembre.](https://www.elcomercio.com/wp-content/uploads/2024/11/cortescinco.jpg)
-
-El **Ministerio de Energía y Minas** informa una nueva decisión sobre las horas de **los cortes de luz** en **Ecuador** para la siguiente semana.
-
-### Más noticias
-
-* [Cortes de luz en Quito este sábado 30 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-sabado-30-noviembre.html "Cortes de luz en Quito este sábado 30 de noviembre")
-* [Cortes de luz en Guayaquil este sábado 30 de noviembre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-en-guayaquil-este-sabado-30-de-noviembre.html "Cortes de luz en Guayaquil este sábado 30 de noviembre")
-* [Cortes de luz en Guayaquil del lunes 2 al domingo 8 de diciembre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-guayaquil-lunes-2-a-domingo-8-de-diciembre.html "Cortes de luz en Guayaquil del lunes 2 al domingo 8 de diciembre")
-
-El viernes 29 de noviembre de 2024, el **Ministerio de Energía y Minas** indicó que los horarios de **cortes de luz** del 2 hasta el 8 de diciembre serán de entre cinco y siete horas.
-
-La Cartera de Energía informó que se trabaja con el objetivo de preservar los niveles de los embalses. De esta manera, se busca garantizar el suministro eléctrico en **Ecuador**.
-
-Por ello, en un comunicado se anunció que los **cortes de luz** se mantendrán en Ecuador en la primera semana de **diciembre**. Esta suspensión del suministro eléctrico se aplicará en un rango de entre cinco y siete horas diarias, similar a lo que se aplicó durante la semana pasada.
-
-Cortes de luz de hasta cinco horas diarias del 6 al 8 de diciembre
-------------------------------------------------------------------
-
-El **Ministerio de Energía** **y Minas** indica en su post de la red X que hay un cambio en los cortes programados de energía eléctrica que afectarán a todo el territorio ecuatoriano entre el **6 y el 8 de diciembre de 2024.**
-
-La medida contempla interrupciones de cinco horas diarias para garantizar la estabilidad del sistema eléctrico nacional.
-
-> 📍\[COMUNICADO OFICIAL\]  
->   
-> ✅A la ciudadanía⤵️ [pic.twitter.com/jtLiPbKhmu](https://t.co/jtLiPbKhmu)
-> 
-> — Ministerio de Energía y Minas Ecuador🇪🇨 (@RecNaturalesEC) [November 30, 2024](https://twitter.com/RecNaturalesEC/status/1862920863349174524?ref_src=twsrc%5Etfw)
-
-Quito no tendrá cortes de luz el 6 de diciembre de 2024
--------------------------------------------------------
-
-Sin embargo, la capital, Quito, será una excepción **el 6 de diciembre**. En el marco de las celebraciones por la **Fundación de Quito**, la ciudad no experimentará **cortes de energía** durante esta fecha, lo que permitirá que las actividades culturales y cívicas se desarrollen con normalidad.
-
-El cronograma detallado de las suspensiones estará disponible próximamente en los canales oficiales del Gobierno, según confirmó la entidad[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-Este anuncio llega en medio de un contexto de alta demanda energética y busca prevenir fallas mayores en la red eléctrica nacional. Usuarios de diferentes provincias ya se preparan para ajustar sus actividades ante los cortes previstos.
-
-Planificación y precauciones por los cortes de luz
---------------------------------------------------
-
-La medida de los **cortes de luz** afectará a diversos sectores productivos y actividades cotidianas en el resto del país. Por ello, las autoridades hacen un llamado a la ciudadanía para tomar precauciones y organizar sus labores en función de los horarios establecidos.
-
-Mantente informado sobre las actualizaciones y detalles de esta medida a través de las plataformas oficiales del **Ministerio de Energía.**
-
-* * *
-
-### Esperanza
-
-Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
-
-Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
-
-[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
-
-Estos son los rituales que fusionan distintas culturas para invocar a la lluvia
-===============================================================================
-
-Diferentes culturas invocan a la lluvia fusionando elementos espirituales y prácticos.
---------------------------------------------------------------------------------------
-
-![Diferentes culturas realizan prácticas ancestrales para invocar a las lluvias.](https://www.elcomercio.com/wp-content/uploads/2024/11/lluvias-pexels.jpg)
-
-A lo largo de la historia, diferentes culturas han desarrollado **rituales para invocar** la [lluvia](https://www.elcomercio.com/actualidad/mundo/estados-unidos-enfrenta-nevadas-lluvias-intensas-tormentas-electricas.html "https://www.elcomercio.com/actualidad/mundo/estados-unidos-enfrenta-nevadas-lluvias-intensas-tormentas-electricas.html"), un fenómeno natural esencial para la agricultura. Desde **América hasta Europa**, la necesidad de asegurar cosechas abundantes unió a pueblos con **prácticas espirituales y religiosas**, reflejando la profunda conexión entre los seres humanos y los elementos naturales.
-
-### Más noticias
-
-* [Las lluvias en Cuenca, ¿cómo aportaron al embalse de Mazar?](https://www.elcomercio.com/actualidad/negocios/lluvias-cuenca-como-aportaron-embalse-mazar.html "Las lluvias en Cuenca, ¿cómo aportaron al embalse de Mazar?")
-* [Estados Unidos enfrenta nevadas, lluvias intensas y tormentas eléctricas](https://www.elcomercio.com/actualidad/mundo/estados-unidos-enfrenta-nevadas-lluvias-intensas-tormentas-electricas.html "https://www.elcomercio.com/actualidad/mundo/estados-unidos-enfrenta-nevadas-lluvias-intensas-tormentas-electricas.html")
-* [Problemas climáticos que afectan al mundo](https://www.elcomercio.com/actualidad/mundo/problemas-climaticos-afectan-mundo.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/actualidad/mundo/problemas-climaticos-afectan-mundo.html?source=Internal&ref=Single+Content+Link")
-
-Danza de la lluvia
-------------------
-
-En diversas tribus nativas de Estados Unidos, como los Hopi y Zuni se realizan **elaboradas danzas** rituales que simbolizan la **conexión entre la humanidad y la naturaleza**. Estas danzas buscan atraer la atención de los dioses de la lluvia para que bendigan sus tierras áridas.
-
-Culto a Tláloc en Mesoamérica
------------------------------
-
-Los mexicas veneraban a Tláloc, el dios de la lluvia, mediante rituales y ofrendas para asegurar lluvias abundantes. Otros dioses relacionados con el agua en esta región **incluyen a Chaac (maya)** y Pitao Cocijo (zapoteca)
-
-Rituales hindúes a Varuna
--------------------------
-
-En la tradición hindú, Varuna es el dios del agua y del cielo. Los seguidores realizan rituales conocidos como ‘Varuna Japam’, que incluyen recitaciones de **mantras sagrados** y ofrendas de flores y granos para invocar su favor y asegurar lluvias abundantes.
-
-Ofrendas a Chac
----------------
-
-En la antigua civilización maya, **Chaac era el dios de la lluvia.** Se realizaban ceremonias en las que se ofrecían alimentos, joyas y animales en altares ceremoniales, buscando garantizar un suministro constante de agua.
-
-Paparuda en los Balcanes
-------------------------
-
-Este ritual se lleva a cabo en varias regiones de los Balcanes, donde **grupos de mujeres realizan danzas** para invocar a la diosa de la lluvia durante períodos de sequía. La danza simboliza la pureza de la Tierra y busca restaurar la fertilidad del suelo.
-
-Rogativas en España
--------------------
-
-Desde el siglo IV, las rogativas fueron **oraciones públicas dirigidas a Dios** y a los santos para pedir lluvia. Dependiendo del grado de sequía, estas pueden variar desde simples oraciones hasta peregrinaciones a santuarios.
-
-Rituales Torkmen
-----------------
-
-Entre los torkmeni, se organiza un ritual llamado **‘Sui Qāzān’**, donde se **sacrifica una oveja** y se realizan diversas actividades simbólicas para **invocar la lluvia**. Esto incluye colocar piedras en tumbas con la esperanza de que favorezcan las precipitaciones.
-
-Rituales aborígenes australianos
---------------------------------
-
-Las comunidades aborígenes en Australia llevan a cabo **“caminatas de lluvia”,** donde los participantes recorren áreas específicas mientras **danzan y cantan para atraer la lluvia**, reflejando su conexión con la tierra.
-
-Rituales chinos con dragones
-----------------------------
-
-En la antigua China, se creía que los dragones eran responsables de las lluvias. Los rituales incluían desfiles con **figuras de dragones y danzas**, así como ofrendas de incienso para invocar sus bendiciones.
-
-Estos rituales reflejan cómo diferentes culturas buscan conectar con lo **divino o lo espiritual** para influir en un fenómeno natural tan vital como la lluvia.
-
-El exbanquero Fernando Aspiazu falleció este 30 de noviembre
-============================================================
-
-El exbanquero Fernando Aspiazu falleció este 30 de noviembre de 2024 a los 89 años.
------------------------------------------------------------------------------------
-
-![Fernando Aspiazu (cen.) falleció este sábado 30 de noviembre de 204 en Guayaquil.](https://www.elcomercio.com/wp-content/uploads/2024/11/Fernadno-aspia.jpg)
-
-El **exbanquero Fernando Aspiazu** murió este 30 de noviembre de 2024 en **Guayaquil.** **Aspiazu**, quien nació el 10 de enero de 1935 en Quito, fue dueño del desaparecido **Banco del Progreso**, que quebró y las autoridades resolvieron su liquidación.
-
-### Más noticias
-
-* [Silvia Pinal, la última diva del cine de oro de México, falleció](https://www.elcomercio.com/tendencias/cine/silvia-pinal-fallecio-mexico-cine.html "Silvia Pinal, la última diva del cine de oro de México, falleció")
-* [Marco Angulo falleció por ‘una parada cardiorrespiratoria’](https://www.elcomercio.com/deportes/futbol/marco-angulo-causa-muerte-salud.html "Marco Angulo falleció por ‘una parada cardiorrespiratoria’")
-
-Además de **banquero**, fue propietario del canal de televisión desaparecido Sí TV, ejerció cargos públicos y se relacionó con la actividad futbolística como dirigente en Emelec.
-
-En lo público, Aspiazu fue **ministro de Finanzas** entre 1979 y 1980 en la Presidencia del también fallecido Jaime Roldós, mientras que unas décadas atrás ejerció como subsecretario de Educación.
-
-Su etapa de banquero fue la más convulsiva
-------------------------------------------
-
-Sin embargo, su etapa de banquero fue la más convulsiva de su vida empresarial. Su banco cayó con la **crisis financiera y bancaria de 1999** y durante ese proceso un juzgado lo declaró insolvente.
-
-El Juzgado Vigésimo Tercero de lo Civil de Guayaquil dispuso el estado de **insolvencia** de **Aspiazu Seminario.** La insolvencia fue por no cumplir con el pago de **USD 888,6 millones** que adeudaba a la fecha en que fue requerido.
-
-Durante la **crisis financiera**, cuyos efectos lo vivieron miles de los ecuatorianos, el Estado realizó un salvataje financiero por alrededor de USD 2 000 millones. Ese dinero luego se quedó sin poder cobrar porque los bancos empezaron a quebrar.
-
-Fernando Aspiazu estuvo en prisión en la crisis bancaria
---------------------------------------------------------
-
-Aspiazu cumplió una pena de **cárcel** de 7 años y 5 meses por el delito de peculado. Se le aplicó la pena mayor que era de 9 años y se benefició con las rebajas que establecían las leyes.
-
-Cuando salió en libertad, en diciembre del 2006, su abogado Francisco Ycaza Navas explicó que se presentaron 200 denuncias en su contra. De esas, se desecharon 185. De las 15 restantes se acumularon 10 que se encontraban ya ejecutoriadas[.](https://es.wikipedia.org/wiki/Fernando_Aspiazu "https://es.wikipedia.org/wiki/Fernando_Aspiazu")
-
-En junio del 2009, la Unidad de Gestión y Ejecución de Derecho Público presentó una demanda contra Aspiazu para que pagara USD 888,6 millones. Pero como no lo hizo, se lo declaró insolvente en 2012.
-
-Los últimos escritos del proceso, hasta el 2017, señalan que “queda en interdicción”, es decir, que un síndico de quiebras se haría cargo de sus bienes.
-
-* * *
-
-### Esperanza
-
-Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
-
-Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
-
-[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
