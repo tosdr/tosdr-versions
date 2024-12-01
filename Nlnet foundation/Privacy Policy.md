@@ -1,6 +1,6 @@
 [To main content](#main)
 
-**[Send in your ideas. Deadline December 1, 2024](https://nlnet.nl/news/2024/20241001-call.html)**
+**[Send in your ideas. Deadline February 1, 2025](https://nlnet.nl/news/2024/20241201-call.html)**
 
 [![NLnet logo](/logo/banner.svg)](https://nlnet.nl/)
 
@@ -118,6 +118,8 @@ Converstations with people building the Next Generation Internet](https://podcas
 
 ### News
 
+[Apply for funding before February 1st 2025](https://nlnet.nl/news/2024/20241201-call.html) 2024-12-01
+
 [Call for Participation: Devroom on FOSS Funding at FOSDEM](https://nlnet.nl/news/2024/20241121-CfP-Fosdem.html) 2024-11-21
 
 [NGI TALER Grants for Tryton and Interledger Interoperability](https://nlnet.nl/news/2024/20241111-NGI-Taler-grants.html) 2024-11-11
@@ -125,8 +127,6 @@ Converstations with people building the Next Generation Internet](https://podcas
 [NGI Mobifree Grants Awarded for Fair Mobile Software](https://nlnet.nl/news/2024/20241111-NGI-Mobifree-grants.html) 2024-11-11
 
 [Monitoring Plugins wins BlueHats Prize for maintainers](https://nlnet.nl/news/2024/20241015-BlueHatsPrize4.html) 2024-10-15
-
-[NGI0 Commons Fund Supports 32 Projects Building the Public Internet](https://nlnet.nl/news/2024/20241014-announcing-CommonsFund-call.html) 2024-10-14
 
 * [More news](https://nlnet.nl/news)
 
