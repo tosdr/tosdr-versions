@@ -147,6 +147,10 @@ No related posts.
 
 #### Recently Added Sources or Pages
 
+* [First State Update – Bias and Credibility](https://mediabiasfactcheck.com/first-state-update-bias-and-credibility/)
+    
+    November 30, 2024
+    
 * [Dundee Courier – Bias and Credibility](https://mediabiasfactcheck.com/dundee-courier-bias/)
     
     November 30, 2024
@@ -175,32 +179,28 @@ No related posts.
     
     November 29, 2024
     
-* [Good Authority – Bias and Credibility](https://mediabiasfactcheck.com/good-authority-bias-and-credibility/)
-    
-    November 29, 2024
-    
 
 #### Recently Updated Pages
 
-* [Left-Center Bias](https://mediabiasfactcheck.com/leftcenter/ "View Left-Center Bias") - November 30, 2024
+* [Geopolitical Economy Report – Bias and Credibility](https://mediabiasfactcheck.com/geopolitical-economy-report-bias/ "View Geopolitical Economy Report – Bias and Credibility") - November 30, 2024
     
-* [Dundee Courier – Bias and Credibility](https://mediabiasfactcheck.com/dundee-courier-bias/ "View Dundee Courier – Bias and Credibility") - November 30, 2024
+* [Turning Point USA – Bias and Credibility](https://mediabiasfactcheck.com/turning-point-usa/ "View Turning Point USA – Bias and Credibility") - November 30, 2024
     
-* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - November 30, 2024
+* [The Diplomat Magazine – Bias and Credibility](https://mediabiasfactcheck.com/the-diplomat-magazine/ "View The Diplomat Magazine – Bias and Credibility") - November 30, 2024
     
-* [General-Anzeiger Bonn – Bias and Credibility](https://mediabiasfactcheck.com/general-anzeiger-bonn-bias-and-credibility/ "View General-Anzeiger Bonn – Bias and Credibility") - November 30, 2024
+* [The Canadian Press – Bias and Credibility](https://mediabiasfactcheck.com/the-canadian-press/ "View The Canadian Press – Bias and Credibility") - November 30, 2024
     
-* [Pro-Science](https://mediabiasfactcheck.com/pro-science/ "View Pro-Science") - November 30, 2024
+* [Channel 4 News (UK) – Bias and Credibility](https://mediabiasfactcheck.com/channel-4-news-uk/ "View Channel 4 News (UK) – Bias and Credibility") - November 30, 2024
     
-* [Frontiers in Industrial Engineering – Bias and Credibility](https://mediabiasfactcheck.com/frontiers-in-industrial-engineering-bias-and-credibility/ "View Frontiers in Industrial Engineering – Bias and Credibility") - November 30, 2024
+* [The Irish News – Bias and Credibility](https://mediabiasfactcheck.com/the-irish-news-bias/ "View The Irish News – Bias and Credibility") - November 30, 2024
     
-* [Victoria Capital Daily – Bias and Credibility](https://mediabiasfactcheck.com/victoria-capital-daily-bias-and-credibility/ "View Victoria Capital Daily – Bias and Credibility") - November 29, 2024
+* [Punchbowl News – Bias and Credibility](https://mediabiasfactcheck.com/punchbowl-news/ "View Punchbowl News – Bias and Credibility") - November 30, 2024
     
-* [Bradford Era – Bias and Credibility](https://mediabiasfactcheck.com/bradford-era-bias/ "View Bradford Era – Bias and Credibility") - November 29, 2024
+* [Poynter Institute – Bias and Credibility](https://mediabiasfactcheck.com/poynter-institute/ "View Poynter Institute – Bias and Credibility") - November 30, 2024
     
-* [Blue Mountains Gazette – Bias and Credibility](https://mediabiasfactcheck.com/blue-mountains-gazette-bias/ "View Blue Mountains Gazette – Bias and Credibility") - November 29, 2024
+* [Washington Stand – Bias and Credibility](https://mediabiasfactcheck.com/washington-stand-bias-and-credibility/ "View Washington Stand – Bias and Credibility") - November 30, 2024
     
-* [Louth Leader – Bias and Credibility](https://mediabiasfactcheck.com/louth-leader-bias/ "View Louth Leader – Bias and Credibility") - November 29, 2024
+* [Psypost – Bias and Credibility](https://mediabiasfactcheck.com/psypost/ "View Psypost – Bias and Credibility") - November 30, 2024
     
 
 #### Today’s Top Page Views
@@ -210,11 +210,11 @@ No related posts.
 * [Least Biased](https://mediabiasfactcheck.com/center/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
 * [The Guardian - Bias and Credibility](https://mediabiasfactcheck.com/the-guardian/)
-* [MBFC's Daily Vetted Fact Checks for 11/29/2024](https://mediabiasfactcheck.com/2024/11/29/mbfcs-daily-vetted-fact-checks-for-11-29-2024/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
+* [MBFC's Daily Vetted Fact Checks for 11/29/2024](https://mediabiasfactcheck.com/2024/11/29/mbfcs-daily-vetted-fact-checks-for-11-29-2024/)
 * [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
+* [NewsNation - Bias and Credibility](https://mediabiasfactcheck.com/newsnation/)
 * [BBC - Bias and Credibility](https://mediabiasfactcheck.com/bbc/)
-* [Associated Press (AP News) - Bias and Credibility](https://mediabiasfactcheck.com/associated-press/)
 
 #### Subscribe via Email
 
