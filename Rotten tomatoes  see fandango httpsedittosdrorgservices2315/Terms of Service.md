@@ -56,13 +56,13 @@ Offers
 
 [SEE ALL OFFERS](https://www.fandango.com/offers)
 
-* [Ascend to victory with The Champion's Collection image link ![Ascend to victory with The Champion's Collection](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/117eeb80-9e1f-11ef-a588-3b078e6b3d8a--fan-globalofferunit-homepage-gladiator2bundle-292x118.png)](https://www.fandangomovietickets.com/gladiator2championscollection?cmp=TARS~FANDANGO~Gladiator2TheChampionsCollection_Footer) 
+* [Popular Poster Pack image link ![Popular Poster Pack](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/a73aa8c0-8dae-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-wicked-292x118.png)](https://www.fandangomovietickets.com/wickedbundle?cmp=TARS~FANDANGO~PopularPosterPack_Footer) 
     
-    ### Ascend to victory with The Champion's Collection
+    ### Popular Poster Pack
     
-    Featuring 1 ticket to Gladiator II at a Regal theatre, an exclusive physical poster, and more!
+    Get 2 movie tickets to Wicked, a limited edition poster, and more!
     
-    [LEARN MORE](https://www.fandangomovietickets.com/gladiator2championscollection?cmp=TARS~FANDANGO~Gladiator2TheChampionsCollection_Footer)
+    [BUY NOW](https://www.fandangomovietickets.com/wickedbundle?cmp=TARS~FANDANGO~PopularPosterPack_Footer)
     
 * [Chance to win a vacation! image link ![Chance to win a vacation!](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/dc250740-a39a-11ef-a588-3b078e6b3d8a--fan-homepageofferunit-292x118.png)](https://www.fandangomovietickets.com/fandangoscrownofthepridesweepstakes?cmp=TARS~FANDANGO~MufasaSweeps_Footer) 
     
@@ -72,13 +72,13 @@ Offers
     
     [BUY TICKETS](https://www.fandangomovietickets.com/fandangoscrownofthepridesweepstakes?cmp=TARS~FANDANGO~MufasaSweeps_Footer)
     
-* [Set sail with the Moana 2 Ticket 2 Adventure image link ![Set sail with the Moana 2 Ticket 2 Adventure](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/b03cd7c0-9332-11ef-a588-3b078e6b3d8a--fan-globalofferunit-homepage-moanaticket2adventurebundle-292x118.jpg)](https://www.fandangomovietickets.com/moana2ticket2adventure?cmp=TARS~FANDANGO~Moana2ticket2adventure_Footer) 
+* [Jingle All The Way To The Theater image link ![Jingle All The Way To The Theater](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/5140f690-acfd-11ef-a07e-5b03d6159fe4--fan-globalofferunit-holidayexhibitoroffers-holidays-292x118.png)](https://www.fandangomovietickets.com/holiday_theater_deals/?cmp=TARS~FANDANGO~holiday_exhibitor_offers_Footer) 
     
-    ### Set sail with the Moana 2 Ticket 2 Adventure
+    ### Jingle All The Way To The Theater
     
-    Get two tickets to Moana 2, an exclusive limited release Disney pin set, and more for $54.99!
+    Enjoy holiday classics and limited-time specials at a theater near you! Grab your tickets today.
     
-    [BUY NOW](https://www.fandangomovietickets.com/moana2ticket2adventure?cmp=TARS~FANDANGO~Moana2ticket2adventure_Footer)
+    [LEARN MORE](https://www.fandangomovietickets.com/holiday_theater_deals/?cmp=TARS~FANDANGO~holiday_exhibitor_offers_Footer)
     
 * [Gladiator II Prop Auction image link ![Gladiator II Prop Auction](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/9f6f3b60-9899-11ef-8321-2b978811c524--fan-globalofferunit-homepage-gladiator2auction-292x118-v5.png)](https://www.fandango.com/fanstoreauction-gladiator2?cmp=TARS~FANDANGO~Gladiator2PropAuction_Footer) 
     
