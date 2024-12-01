@@ -135,12 +135,12 @@ Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
 * [5 Top enshittification picks for 2024](https://independentaustralia.net/article-display/5-top-enshittification-picks-for-2024,19213 "Permanent Link : 5 Top enshittification picks for 2024")
+* [When your best fiction writing is your daily to-do list](https://independentaustralia.net/article-display/when-your-best-fiction-writing-is-your-daily-to-do-list,19220 "Permanent Link : When your best fiction writing is your daily to-do list")
+* [QUIZ: IA Interrogates!](https://independentaustralia.net/article-display/quiz-ia-interrogates,19218 "Permanent Link : QUIZ: IA Interrogates!")
 * [Katy Perry sues and Ed Sheeran rues Band Aid involvement](https://independentaustralia.net/article-display/katy-perry-sues-and-ed-sheeran-rues-band-aid-involvement,19219 "Permanent Link : Katy Perry sues and Ed Sheeran rues Band Aid involvement")
 * [James Morrison — He's 'all that jazz' and more](https://independentaustralia.net/article-display/james-morrison-hes-all-that-jazz-and-more,19210 "Permanent Link : James Morrison — He's 'all that jazz' and more")
 * [Bashed in the street: Being Jewish and wearing a keffiyeh](https://independentaustralia.net/article-display/bashed-in-the-street-being-jewish-and-wearing-a-keffiyeh,19217 "Permanent Link : Bashed in the street: Being Jewish and wearing a keffiyeh")
 * [Why are the Greens not initiating the strong case for Proportional Representation?](https://independentaustralia.net/article-display/why-are-the-greens-not-initiating-the-strong-case-for-proportional-representation,19216 "Permanent Link : Why are the Greens not initiating the strong case for Proportional Representation?")
-* [CARTOONS: Mark David is banning things, by golly!](https://independentaustralia.net/article-display/cartoons-mark-david-is-banning-things-by-golly,19214 "Permanent Link : CARTOONS: Mark David is banning things, by golly!")
-* [Australia’s Cyber Security Act 2024: A step forward – but at what cost?](https://independentaustralia.net/article-display/australias-cyber-security-act-2024-a-step-forward-but-at-what-cost,19215 "Permanent Link : Australia’s Cyber Security Act 2024: A step forward – but at what cost?")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
