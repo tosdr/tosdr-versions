@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/1db3f40d-8edf-4c59-ba3e-c2be172c70a6/20241201T040535/1db3f40d-8edf-4c59-ba3e-c2be172c70a6_16x9.jpg) ![](https://media.king5.com/assets/KING/images/1db3f40d-8edf-4c59-ba3e-c2be172c70a6/20241201T040535/1db3f40d-8edf-4c59-ba3e-c2be172c70a6_360x203.jpg)](https://www.king5.com/article/news/local/family-of-hookah-lounge-shooting-victim-honor-birthday-by-giving-back-community/281-ba8c9632-96b9-403e-afc0-52c9430053f8)
+    *  [![](https://media.king5.com/assets/KING/images/a181af51-2fff-4840-b7e7-3ff8ec84a8f4/20240505T184202/a181af51-2fff-4840-b7e7-3ff8ec84a8f4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a181af51-2fff-4840-b7e7-3ff8ec84a8f4/20240505T184202/a181af51-2fff-4840-b7e7-3ff8ec84a8f4_360x203.jpg)](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-retiros-de-pepinos-y-huevos-los-sounders-y-una-donacin-de-juguetes/281-998b6e4a-4e27-45e8-aeec-8d5bd355eca1)
         
-        #### ['We feel the loss every day': Family creates nonprofit to honor woman killed in Seattle shooting](https://www.king5.com/article/news/local/family-of-hookah-lounge-shooting-victim-honor-birthday-by-giving-back-community/281-ba8c9632-96b9-403e-afc0-52c9430053f8)
+        #### [Cinco Cosas: Retiros de pepinos y huevos, Los Sounders, y una donación de juguetes](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-retiros-de-pepinos-y-huevos-los-sounders-y-una-donacin-de-juguetes/281-998b6e4a-4e27-45e8-aeec-8d5bd355eca1)
         
-    *  [![](https://media.king5.com/assets/KING/images/a9fc415c-fd4e-45c7-ab00-85aefc72b075/20241201T000552/a9fc415c-fd4e-45c7-ab00-85aefc72b075_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a9fc415c-fd4e-45c7-ab00-85aefc72b075/20241201T000552/a9fc415c-fd4e-45c7-ab00-85aefc72b075_360x203.jpg)](https://www.king5.com/article/news/local/seattle-marathon-sunday-road-closed-race-route/281-efda1f37-9a19-4c89-acc1-bada93f9029c)
+    *  [![](https://media.king5.com/assets/KING/images/75443f90-e261-4af9-8e9f-1c0b1be36ebb/20241201T173825/75443f90-e261-4af9-8e9f-1c0b1be36ebb_16x9.jpg) ![](https://media.king5.com/assets/KING/images/75443f90-e261-4af9-8e9f-1c0b1be36ebb/20241201T173825/75443f90-e261-4af9-8e9f-1c0b1be36ebb_360x203.jpg)](https://www.king5.com/article/news/local/pets-and-animals/monroe-based-animal-rescue-fundraising-help-disabled-dog/281-8afdcc21-333a-4953-b37b-ee3de1c87c8c)
         
-        #### [Seattle Marathon is Sunday. See the forecast, road closures here](https://www.king5.com/article/news/local/seattle-marathon-sunday-road-closed-race-route/281-efda1f37-9a19-4c89-acc1-bada93f9029c)
+        #### [Monroe-based animal rescue fundraising to help disabled dog abandoned in a shopping bag](https://www.king5.com/article/news/local/pets-and-animals/monroe-based-animal-rescue-fundraising-help-disabled-dog/281-8afdcc21-333a-4953-b37b-ee3de1c87c8c)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/1e7fd39f-a704-45a2-bcdc-29cdc521cb45/20241201T062939/1e7fd39f-a704-45a2-bcdc-29cdc521cb45_16x9.jpg) ![](https://media.king5.com/assets/KING/images/1e7fd39f-a704-45a2-bcdc-29cdc521cb45/20241201T062939/1e7fd39f-a704-45a2-bcdc-29cdc521cb45_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/954af5c2-acb4-4757-abc4-8c9b2bcd9061/20241201T160932/954af5c2-acb4-4757-abc4-8c9b2bcd9061_16x9.jpg) ![](https://media.king5.com/assets/KING/images/954af5c2-acb4-4757-abc4-8c9b2bcd9061/20241201T160932/954af5c2-acb4-4757-abc4-8c9b2bcd9061_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-36°
+48°
 
-![Fog](/assets/shared-images/weather-icons/fog-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
