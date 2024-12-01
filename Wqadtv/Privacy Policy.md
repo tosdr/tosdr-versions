@@ -56,9 +56,9 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/d929d425-1958-4d99-b3c7-cfc01468e3fa/20241130T125118/d929d425-1958-4d99-b3c7-cfc01468e3fa_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d929d425-1958-4d99-b3c7-cfc01468e3fa/20241130T125118/d929d425-1958-4d99-b3c7-cfc01468e3fa_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/5780fd25-5b63-44a6-9d6c-719396f1e32c/20241201T130349/5780fd25-5b63-44a6-9d6c-719396f1e32c_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/5780fd25-5b63-44a6-9d6c-719396f1e32c/20241201T130349/5780fd25-5b63-44a6-9d6c-719396f1e32c_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Sub-zero wind chills continue Sunday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Very chilly temperatures to start the month](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/CCT/images/ba7d2016-edeb-449f-901e-b97ec0d6ce44/20241130T192614/ba7d2016-edeb-449f-901e-b97ec0d6ce44_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/ba7d2016-edeb-449f-901e-b97ec0d6ce44/20241130T192614/ba7d2016-edeb-449f-901e-b97ec0d6ce44_360x203.jpg)](https://www.wqad.com/article/news/nation-world/heavy-snow-blankets-parts-of-the-us/507-44798a84-f4e7-4d84-bf29-ebe649f73efb)
         
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-15°
+20°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
