@@ -18,16 +18,6 @@ FOX SCORES
     
 * [Men's Test
     
-    Day 3
-    
-    |     |     |
-    | --- | --- |
-    | NZL | 348 & 6 /155 |
-    | ENG | 499 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250801)
-* [Men's Test
-    
     RSA won by 233 runs
     
     |     |     |
@@ -36,6 +26,16 @@ FOX SCORES
     | SRI | 42 & 282 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250701)
+* [Men's Test
+    
+    ENG won by 8 wkts
+    
+    |     |     |
+    | --- | --- |
+    | NZL | 348 & 254 |
+    | ENG | 499 & 2 /104 |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250801)
 * [Women's T20I
     
     ENG won by 9 wkts
@@ -92,54 +92,34 @@ FOX SCORES
     
 * [NBA
     
-    Full Time
+    3 Qtr Time
     
     |     |     |
     | --- | --- |
-    | POR | 115 |
-    | SAC | 106 |
+    | DET | 68  |
+    | PHI | 89  |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010097/box-score)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010282/box-score)
+* [NBA
+    
+    2nd Qtr
+    
+    |     |     |
+    | --- | --- |
+    | MIL | 40  |
+    | WAS | 41  |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010283/box-score)
 * [NBA
     
     Full Time
     
     |     |     |
     | --- | --- |
-    | LAL | 93  |
-    | OKC | 101 |
+    | CHA | 104 |
+    | ATL | 107 |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010095/box-score)
-* [NBA
-    
-    1/12 10:00 AEST
-    
-    |     |     |
-    | --- | --- |
-    | CHA | –   |
-    | ATL | –   |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010281)
-* [NBA
-    
-    1/12 11:00 AEST
-    
-    |     |     |
-    | --- | --- |
-    | DET | –   |
-    | PHI | –   |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010282)
-* [NBA
-    
-    1/12 12:00 AEST
-    
-    |     |     |
-    | --- | --- |
-    | MIL | –   |
-    | WAS | –   |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010283)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010281/box-score)
 * [NBA
     
     1/12 13:00 AEST
@@ -160,46 +140,6 @@ FOX SCORES
     | DAL | –   |
     
     Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010285)
-* [WNBL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | SYD | 90  |
-    | GEE | 55  |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/wnbl/match-centre/WNBL2024-25050003/play-by-play)
-* [WNBL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | BEN | 98  |
-    | CAN | 78  |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/wnbl/match-centre/WNBL2024-25050004/play-by-play)
-* [WNBL
-    
-    1/12 12:30 AEST
-    
-    |     |     |
-    | --- | --- |
-    | SOU | –   |
-    | PER | –   |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/wnbl/match-centre/WNBL2024-25050005)
-* [NBL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | SEM | 103 |
-    | ILL | 100 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25100004/play-by-play)
 * [NBL
     
     Full Time
@@ -230,9 +170,21 @@ FOX SCORES
     | NZB | –   |
     
     Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25100007)
+* [WNBL
+    
+    1st Qtr
+    
+    |     |     |
+    | --- | --- |
+    | SOU | 12  |
+    | PER | 15  |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/wnbl/match-centre/WNBL2024-25050005/play-by-play)
 * Motorsport
     
 * [Formula 1
+    
+    30/11 0:30 AEST
     
     |     |
     | --- |
@@ -252,46 +204,6 @@ FOX SCORES
     | BRAW | –   |
     
     Match Centre](https://www.foxsports.com.au/football/womens-international/match-centre/W_INT20240107)
-* [A-League W
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | MCY | 2   |
-    | WSW | 0   |
-    
-    Match Centre](https://www.foxsports.com.au/football/w-league/match-centre/ALW2024-250501)
-* [A-League W
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | CCM | 2   |
-    | CAN | 1   |
-    
-    Match Centre](https://www.foxsports.com.au/football/w-league/match-centre/ALW2024-250502)
-* [A-League M
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | AFC | 2   |
-    | NEW | 0   |
-    
-    Match Centre](https://www.foxsports.com.au/football/a-league/match-centre/ALM2024-250602)
-* [A-League M
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | MCY | 0   |
-    | WSW | 2   |
-    
-    Match Centre](https://www.foxsports.com.au/football/a-league/match-centre/ALM2024-250603)
 * [A-League M
     
     Full Time
@@ -362,6 +274,46 @@ FOX SCORES
     | ARS | 5   |
     
     Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-251305)
+* [Premier League
+    
+    2/12 0:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | MUN | –   |
+    | EVE | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-251303)
+* [Premier League
+    
+    2/12 0:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | TOT | –   |
+    | FUL | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-251304)
+* [Premier League
+    
+    2/12 0:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | CHE | –   |
+    | AVL | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-251301)
+* [Premier League
+    
+    2/12 3:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | LIV | –   |
+    | MCI | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-251302)
 * Rugby
     
 * [Men's Test
