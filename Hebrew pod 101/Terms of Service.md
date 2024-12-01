@@ -1,35 +1,8 @@
 [Hallo, Pooh, you're just in time for a little smackerel of something](https://www.hebrewpod101.com/honeypot-do-not-follow)
 
-[BLACK FRIDAY EXTENDED! GET 51% OFF + 2 FREE MONTHS
+[![Get 50% Off With The Cyber Monday Sale. Hurry! Ends Soon!](https://cdn.innovativelanguage.com/sns/em/2024/November/CM/HP%20Banners/homepage_web-banner_hebrew.png)](https://www.hebrewpod101.com/cybermonday-lp?src=banner_hp)
 
-SALE ENDS IN
-
-00 DAYS
-
-00 HR
-
-00 MIN
-
-00 SEC
-
-CLICK  
-HERE
-
-BLACK FRIDAY SALE EXTENDED!
-
-TAP HERE!
-
-GET 51% OFF + 2 FREE MONTHS
-
-ENDS IN
-
-00 DAYS
-
-00 HR
-
-00 MIN
-
-00 SEC](https://www.hebrewpod101.com/blackfriday-lp?src=banner_hp&controlgroup=b4517_d)
+[![Get 50% Off With The Cyber Monday Sale. Hurry! Ends Soon!](https://cdn.innovativelanguage.com/sns/em/2024/November/CM/homepage_mob-banner.gif)](https://www.hebrewpod101.com/cybermonday-lp?src=mbanner_hp)
 
 ![Home](/static/images/hebrewpod101/splash/logo-desktop-transparent.svg)
 
