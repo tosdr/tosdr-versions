@@ -209,25 +209,25 @@ Menü
 
 [BreakingNews
 
-IG Metall kündigt an: Ab Montag Warnstreiks bei VW
+Italien-Star (22) bricht auf Platz zusammen – Top-Spiel abgebrochen!
 
-IG Metall kündigt an: Ab Montag Warnstreiks bei VW
+Italien-Star (22) bricht auf Platz zusammen – Top-Spiel abgebrochen!
 
-IG Metall kündigt an: Ab Montag Warnstreiks bei VW
+Italien-Star (22) bricht auf Platz zusammen – Top-Spiel abgebrochen!
 
-IG Metall kündigt an: Ab Montag Warnstreiks bei VW
+Italien-Star (22) bricht auf Platz zusammen – Top-Spiel abgebrochen!
 
-IG Metall kündigt an: Ab Montag Warnstreiks bei VW
+Italien-Star (22) bricht auf Platz zusammen – Top-Spiel abgebrochen!
 
-IG Metall kündigt an: Ab Montag Warnstreiks bei VW
+Italien-Star (22) bricht auf Platz zusammen – Top-Spiel abgebrochen!
 
-IG Metall kündigt an: Ab Montag Warnstreiks bei VW
+Italien-Star (22) bricht auf Platz zusammen – Top-Spiel abgebrochen!
 
-IG Metall kündigt an: Ab Montag Warnstreiks bei VW
+Italien-Star (22) bricht auf Platz zusammen – Top-Spiel abgebrochen!
 
-IG Metall kündigt an: Ab Montag Warnstreiks bei VW
+Italien-Star (22) bricht auf Platz zusammen – Top-Spiel abgebrochen!
 
-IG Metall kündigt an: Ab Montag Warnstreiks bei VW](https://www.bild.de/politik/ig-metall-kuendigt-an-ab-montag-warnstreiks-bei-vw-674c44a718feac6df319ac3d)
+Italien-Star (22) bricht auf Platz zusammen – Top-Spiel abgebrochen!](https://www.bild.de/sport/fussball/serie-a-italien-star-bricht-auf-platz-zusammen-mitspieler-unter-schock-674c9c8489f5236661140997)
 
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
