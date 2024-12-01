@@ -143,13 +143,13 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Tokyo police have arrested six Chinese nationals on suspicion of unlawful confinement and attempted extortion involving a 23-year-old exchange student who had become involved in a financial dispute over a yami baito, or a “dark” part-time job.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/29/437203.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tokyo police have arrested six Chinese nationals on suspicion of unlawful confinement and attempted extortion involving a 23-year-old exchange student who had become involved in a financial dispute over a yami baito, or a “dark” part-time job.")](https://www.japantimes.co.jp/news/2024/11/29/japan/crime-legal/chinese-arrest-kidnapping/ "Tokyo police arrest six Chinese nationals over yami baito scheme")
 
+[Japan's wealthy fail to declare ¥65.5 billion in income](https://www.japantimes.co.jp/news/2024/11/30/japan/japan-wealthy-fail-declare/ "Japan's wealthy fail to declare ¥65.5 billion in income")
+
+  [![Wealthy people in Japan failed to declare a total of ¥65.5 billion in taxable income in the year through June, down 33.2% from the year before, a National Tax Agency report showed Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/30/437296.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Wealthy people in Japan failed to declare a total of ¥65.5 billion in taxable income in the year through June, down 33.2% from the year before, a National Tax Agency report showed Friday.")](https://www.japantimes.co.jp/news/2024/11/30/japan/japan-wealthy-fail-declare/ "Japan's wealthy fail to declare ¥65.5 billion in income")
+
 [Kumiko Shichijo: ‘Living abroad helped me appreciate Japanese etiquette’](https://www.japantimes.co.jp/community/2024/11/29/our-lives/japanese-etiquette-instagram-kumiko-shichijo/ "Kumiko Shichijo: ‘Living abroad helped me appreciate Japanese etiquette’")
 
   [![Kumiko Shichijo provides tips on Japanese etiquette and manners on Instagram and says videos on gift-giving and hand towels have done particularly well. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/29/435540.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Kumiko Shichijo provides tips on Japanese etiquette and manners on Instagram and says videos on gift-giving and hand towels have done particularly well. ")](https://www.japantimes.co.jp/community/2024/11/29/our-lives/japanese-etiquette-instagram-kumiko-shichijo/ "Kumiko Shichijo: ‘Living abroad helped me appreciate Japanese etiquette’")
-
-[Uniqlo criticized in China after CEO says retailer does not use Xinjiang cotton](https://www.japantimes.co.jp/business/2024/11/29/companies/uniqlo-boycott-risk-china/ "Uniqlo criticized in China after CEO says retailer does not use Xinjiang cotton")
-
-  [![In an interview in Tokyo with the BBC that was published on Thursday, Fast Retailing CEO Tadashi Yanai said the company does not source cotton from China's Xinjiang region.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/29/437215.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "In an interview in Tokyo with the BBC that was published on Thursday, Fast Retailing CEO Tadashi Yanai said the company does not source cotton from China's Xinjiang region.")](https://www.japantimes.co.jp/business/2024/11/29/companies/uniqlo-boycott-risk-china/ "Uniqlo criticized in China after CEO says retailer does not use Xinjiang cotton")
 
 Editors' Picks
 --------------
@@ -176,6 +176,12 @@ By [Jessica Speed](https://www.japantimes.co.jp/author/5338/jessica-speed/ "Jess
 
   [![Tokyo police have arrested six Chinese nationals on suspicion of unlawful confinement and attempted extortion involving a 23-year-old exchange student who had become involved in a financial dispute over a yami baito, or a “dark” part-time job.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/29/437203.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tokyo police have arrested six Chinese nationals on suspicion of unlawful confinement and attempted extortion involving a 23-year-old exchange student who had become involved in a financial dispute over a yami baito, or a “dark” part-time job.")](https://www.japantimes.co.jp/news/2024/11/29/japan/crime-legal/chinese-arrest-kidnapping/ "Tokyo police arrest six Chinese nationals over yami baito scheme")
 
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Japan's wealthy fail to declare ¥65.5 billion in income](https://www.japantimes.co.jp/news/2024/11/30/japan/japan-wealthy-fail-declare/ "Japan's wealthy fail to declare ¥65.5 billion in income")
+
+  [![Wealthy people in Japan failed to declare a total of ¥65.5 billion in taxable income in the year through June, down 33.2% from the year before, a National Tax Agency report showed Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/30/437296.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Wealthy people in Japan failed to declare a total of ¥65.5 billion in taxable income in the year through June, down 33.2% from the year before, a National Tax Agency report showed Friday.")](https://www.japantimes.co.jp/news/2024/11/30/japan/japan-wealthy-fail-declare/ "Japan's wealthy fail to declare ¥65.5 billion in income")
+
 [COMMUNITY](https://www.japantimes.co.jp/community/ "COMMUNITY")
 
 [Kumiko Shichijo: ‘Living abroad helped me appreciate Japanese etiquette’](https://www.japantimes.co.jp/community/2024/11/29/our-lives/japanese-etiquette-instagram-kumiko-shichijo/ "Kumiko Shichijo: ‘Living abroad helped me appreciate Japanese etiquette’")
@@ -183,12 +189,6 @@ By [Jessica Speed](https://www.japantimes.co.jp/author/5338/jessica-speed/ "Jess
 By [Ansel Swindells](https://www.japantimes.co.jp/author/3800/ansel-swindells/ "Ansel Swindells")  
 
   [![Kumiko Shichijo provides tips on Japanese etiquette and manners on Instagram and says videos on gift-giving and hand towels have done particularly well. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/29/435540.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Kumiko Shichijo provides tips on Japanese etiquette and manners on Instagram and says videos on gift-giving and hand towels have done particularly well. ")](https://www.japantimes.co.jp/community/2024/11/29/our-lives/japanese-etiquette-instagram-kumiko-shichijo/ "Kumiko Shichijo: ‘Living abroad helped me appreciate Japanese etiquette’")
-
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
-
-[Uniqlo criticized in China after CEO says retailer does not use Xinjiang cotton](https://www.japantimes.co.jp/business/2024/11/29/companies/uniqlo-boycott-risk-china/ "Uniqlo criticized in China after CEO says retailer does not use Xinjiang cotton")
-
-  [![In an interview in Tokyo with the BBC that was published on Thursday, Fast Retailing CEO Tadashi Yanai said the company does not source cotton from China's Xinjiang region.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/29/437215.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "In an interview in Tokyo with the BBC that was published on Thursday, Fast Retailing CEO Tadashi Yanai said the company does not source cotton from China's Xinjiang region.")](https://www.japantimes.co.jp/business/2024/11/29/companies/uniqlo-boycott-risk-china/ "Uniqlo criticized in China after CEO says retailer does not use Xinjiang cotton")
 
 Podcast
 -------
@@ -251,19 +251,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[China resumes short-term visa waiver for Japanese visitors](https://www.japantimes.co.jp/news/2024/11/30/japan/china-visa-waiver-resume/ "China resumes short-term visa waiver for Japanese visitors")
+[Don’t worry, you can still use your Japan health insurance card — for now](https://www.japantimes.co.jp/news/2024/12/01/japan/explainer/my-number-insurance-card-explainer/ "Don’t worry, you can still use your Japan health insurance card — for now")
 
-10 hours ago
+17 mins ago
 
-[Defeated Japan election candidate held over promising to pay campaign staff](https://www.japantimes.co.jp/news/2024/11/30/japan/politics/candidate-arrested-campaign-staff-payments/ "Defeated Japan election candidate held over promising to pay campaign staff")
+[Taiwanese leader in Hawaii after calling island a force for global peace](https://www.japantimes.co.jp/news/2024/12/01/asia-pacific/politics/taiwan-lai-pacific-hawaii/ "Taiwanese leader in Hawaii after calling island a force for global peace")
 
-11 hours ago
+2 hours ago
 
-[Taiwan's Lai departs on Pacific island tour](https://www.japantimes.co.jp/news/2024/11/30/asia-pacific/politics/taiwan-lai-departs-pacific-tour/ "Taiwan's Lai departs on Pacific island tour")
+[Syrian rebels sweep into Aleppo as Russia conducts strikes](https://www.japantimes.co.jp/news/2024/12/01/world/syria-rebels-aleppo-russia/ "Syrian rebels sweep into Aleppo as Russia conducts strikes")
 
-[LDP member reportedly tried to hide membership scandal](https://www.japantimes.co.jp/news/2024/11/30/japan/politics/hiroaki-tabata-ldp-membership-scandal/ "LDP member reportedly tried to hide membership scandal")
+2 hours ago
 
-[Nissan CFO set to step down as carmaker faces raft of challenges](https://www.japantimes.co.jp/business/2024/11/30/companies/nissan-cfo-steps-down/ "Nissan CFO set to step down as carmaker faces raft of challenges")
+[Trump picks Kash Patel to head FBI](https://www.japantimes.co.jp/news/2024/12/01/world/politics/kash-patel-trump-fbi/ "Trump picks Kash Patel to head FBI")
+
+3 hours ago
+
+[Trump’s demand that Mexico stop migrants and drugs may never be met](https://www.japantimes.co.jp/news/2024/12/01/world/politics/trump-mexico-migrants-drugs-focus/ "Trump’s demand that Mexico stop migrants and drugs may never be met")
+
+3 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
