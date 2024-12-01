@@ -169,7 +169,7 @@ You signed in with another tab or window. Reload to refresh your session. You si
     
 
 * [Code](https://github.com/webcompat/webcompat.com)
-* [Issues 289](https://github.com/webcompat/webcompat.com/issues)
+* [Issues 290](https://github.com/webcompat/webcompat.com/issues)
 * [Pull requests 5](https://github.com/webcompat/webcompat.com/pulls)
 * [Actions](https://github.com/webcompat/webcompat.com/actions)
 * [Projects 0](https://github.com/webcompat/webcompat.com/projects)
