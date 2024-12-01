@@ -143,7 +143,7 @@
 
 ### How Ofcom deals with BBC complaints – what you need to know
 
-29 November 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/bbc/how-ofcom-deals-with-bbc-complaints--what-you-need-to-know/)
+29 November 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/bbc/how-ofcom-deals-with-bbc-complaints--what-you-need-to-know/?language=en)
 
 [![Two children looking at a phone or tablet together.](/siteassets/additional-resources/online-safety.jpg?width=1920&height=1085&quality=80)
 
@@ -157,7 +157,7 @@
 
 28 November 2024](https://www.ofcom.org.uk/media-use-and-attitudes/online-habits/digital-differences-between-men-and-women-revealed/)
 
- [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/cookies-policy/?language=cy "Switch to Welsh")
+ [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/cookies-policy/ "Switch to Welsh")
 
 1. [Home](https://www.ofcom.org.uk/)
 2. [About Ofcom](https://www.ofcom.org.uk/about-ofcom/)
