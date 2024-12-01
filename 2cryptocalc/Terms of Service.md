@@ -1,8 +1,8 @@
-[![Banner mobile](/images/banners/btc-mobile.svg "Get Payouts for ZEC, ETC, RVN, ERG, KAS, NEXA mining in BTC")
+[![Payouts in Bitcoin on 2Miners.com](/images/banners/banner-khajiit-logo.png?_=1732999324 "Payouts in Bitcoin on 2Miners.com")
 
-![Banner](/images/banners/btc.svg "Get Payouts for ZEC, ETC, RVN, ERG, KAS, NEXA mining in BTC")
+![Payouts in Bitcoin on 2Miners.com](/images/banners/banner-khajiit-big.png?_=1732999324 "Payouts in Bitcoin on 2Miners.com")
 
-Get Payouts for ZEC, ETC, RVN, ERG, KAS, NEXA mining in BTC](https://2miners.com/blog/get-paid-in-bitcoin-for-altcoin-mining-btc-payouts-for-gpu-mined-etc-ergo-rvn/ "Get Payouts for ZEC, ETC, RVN, ERG, KAS, NEXA mining in BTC")
+![Payouts in Bitcoin on 2Miners.com](/images/banners/banner-khajiit-mob.png?_=1732999324 "Payouts in Bitcoin on 2Miners.com")](https://2miners.com/#pools "Payouts in Bitcoin on 2Miners.com")
 
 [![](/images/logo.svg "Logo 2CryptoCalc")![](/images/logo_white.svg "Logo 2CryptoCalc")](https://2cryptocalc.com/)
 
