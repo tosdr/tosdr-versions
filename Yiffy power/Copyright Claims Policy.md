@@ -77,7 +77,7 @@ Latest commented posts
 
 [ash and dean (no nut november) created by drako1997](https://yiff-party.com/yiff/ash-and-dean-no-nut-november-created-by-drako1997/)
 
-0 495 1
+0 504 1
 
 November 2, 2024
 
@@ -85,7 +85,7 @@ November 2, 2024
 
 [agatha directed by kotcfacu (director)](https://yiff-party.com/yiff/agatha-directed-by-kotcfacu-director/)
 
-0 565 1
+0 578 1
 
 November 18, 2024
 
@@ -93,15 +93,15 @@ November 18, 2024
 
 [affax created by eihman and fumiko](https://yiff-party.com/yiff/affax-created-by-eihman-and-fumiko/)
 
-0 107 1
+0 113 1
 
 November 27, 2024
 
-[](https://yiff-party.com/yiff/momo-magic-cat-academy-and-etc-created-by-kyurisawa/)
+[](https://yiff-party.com/yiff/muffet-undertale-series-and-etc-created-by-biskydraws/)
 
-[momo (magic cat academy and etc) created by kyurisawa](https://yiff-party.com/yiff/momo-magic-cat-academy-and-etc-created-by-kyurisawa/)
+[muffet (undertale (series) and etc) created by biskydraws](https://yiff-party.com/yiff/muffet-undertale-series-and-etc-created-by-biskydraws/)
 
-0 178 0
+0 122 0
 
 November 1, 2024
 
