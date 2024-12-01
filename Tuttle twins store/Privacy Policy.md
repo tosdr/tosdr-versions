@@ -18,6 +18,8 @@ Your cart
 
 Loading...
 
+Order special instructions Order special instructions
+
 Subtotal
 --------
 
