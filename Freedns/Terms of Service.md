@@ -95,10 +95,10 @@ FreeDNS.afraid.org has the right, at its sole discretion, to modify this Agreeme
 
 |     |     |
 | --- | --- |
-| Members: | 4,313,387 |
+| Members: | 4,313,487 |
 | Premium: | 5,110 |
-| Records: | 12,526,637 |
-| Zones: | 1,234,882 |
+| Records: | 12,526,784 |
+| Zones: | 1,234,885 |
 
   
 
@@ -119,6 +119,6 @@ Just $5 a month!
 
 [![Powered By FreeBSD](/images/powerani.gif)](http://www.freebsd.org/)
 
-© 2001-2024 Joshua Anderson, [Free DNS](http://freedns.afraid.org/) is currently processing 6,053 DNS queries per second. (5 min average).  
+© 2001-2024 Joshua Anderson, [Free DNS](http://freedns.afraid.org/) is currently processing 6,478 DNS queries per second. (5 min average).  
 
-Rendered in 0.001 seconds
+Rendered in 0.000 seconds
