@@ -36,18 +36,18 @@
         
         Tor needs 200 new WebTunnel bridges to fight censorship](https://www.bleepingcomputer.com/news/security/tor-needs-200-new-webtunnel-bridges-to-fight-censorship/)
     
+    * [![It's only $50 to train for these CompTIA exams in this course deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        It's only $50 to train for these CompTIA exams in this course deal](https://www.bleepingcomputer.com/offer/deals/its-only-50-to-train-for-these-comptia-exams-in-this-course-deal/)
+    * [![Google Chrome’s AI feature lets you quickly check website trustworthiness](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Google Chrome’s AI feature lets you quickly check website trustworthiness](https://www.bleepingcomputer.com/news/google/google-chromes-ai-feature-lets-you-quickly-check-website-trustworthiness/)
     * [![Novel phising campaign uses corrupted Word documents to evade security](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Novel phising campaign uses corrupted Word documents to evade security](https://www.bleepingcomputer.com/news/security/novel-phising-campaign-uses-corrupted-word-documents-to-evade-security/)
     * [![Start learning a new language with this Babbel deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Start learning a new language with this Babbel deal](https://www.bleepingcomputer.com/offer/deals/start-learning-a-new-language-with-this-babbel-deal/)
-    * [![SpyLoan Android malware on Google play installed 8 million times](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        SpyLoan Android malware on Google play installed 8 million times](https://www.bleepingcomputer.com/news/security/spyloan-android-malware-on-google-play-installed-8-million-times/)
-    * [![Study for in-demand Microsoft certifications in this $55 course deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Study for in-demand Microsoft certifications in this $55 course deal](https://www.bleepingcomputer.com/offer/deals/study-for-in-demand-microsoft-certifications-in-this-55-course-deal/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
