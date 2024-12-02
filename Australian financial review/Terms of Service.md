@@ -307,9 +307,9 @@ Advertise
 [BOSS Financial Review](https://www.afr.com/boss)
 -------------------------------------------------
 
-[![IAG CEO Nick Hawkins. ](https://static.ffx.io/images/$zoom_0.3148%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_516%2C$y_37/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/c1ca3053a3cd56b421ae905227c227b2b66b4533)](https://www.afr.com/companies/financial-services/how-iag-boss-nick-hawkins-weathered-the-perfect-storm-20241118-p5kri3)
+[![IAG CEO Nick Hawkins. ](https://static.ffx.io/images/$zoom_0.3148%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_516%2C$y_37/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/c1ca3053a3cd56b421ae905227c227b2b66b4533)](https://www.afr.com/work-and-careers/leaders/how-iag-boss-nick-hawkins-weathered-the-perfect-storm-20241118-p5kri3)
 
-### [How IAG boss Nick Hawkins weathered the perfect storm](https://www.afr.com/companies/financial-services/how-iag-boss-nick-hawkins-weathered-the-perfect-storm-20241118-p5kri3)
+### [How IAG boss Nick Hawkins weathered the perfect storm](https://www.afr.com/work-and-careers/leaders/how-iag-boss-nick-hawkins-weathered-the-perfect-storm-20241118-p5kri3)
 
 * James Eyers
 
@@ -325,7 +325,6 @@ Advertise
 
 ### [Take a shine to these glittery – even useful – future treasures](https://www.afr.com/life-and-luxury/fashion-and-style/take-a-shine-to-these-glittery-even-useful-future-treasures-20241105-p5kny6)
 
-* 56 mins ago
 * Eugenie Kelly
 
 * ### [Crowded House to A Christmas Carol: shows to see in December](https://www.afr.com/life-and-luxury/arts-and-culture/crowded-house-to-a-christmas-carol-shows-to-see-in-december-20241025-p5kle9)
