@@ -301,15 +301,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to back up data files from Dropbox using ...](https://www.backup4all.com/how-to-back-up-data-files-from-dropbox-using-backup4all-kb.html)  
+* [Explanation of the backup job icons](https://www.backup4all.com/the-backup-job-icons-meaning-kb.html)  
     
-* [How to back up data files from ThinkOn using ...](https://www.backup4all.com/how-to-back-up-data-files-from-thinkon-using-backup4all-kb.html)  
+* [How to back up data files from Cisco using Ba ...](https://www.backup4all.com/how-to-back-up-data-files-from-cisco-using-backup4all-kb.html)  
     
-* [How to restore a backup job created with a Ba ...](https://www.backup4all.com/how-to-restore-a-backup-job-created-with-a-backup4all-plugin-kb.html)  
+* [How to back up data files from FTP using Back ...](https://www.backup4all.com/how-to-back-up-data-files-from-ftp-using-backup4all-kb.html)  
     
-* [Activation - Frequently Asked Questions](https://www.backup4all.com/activation-faq-kb.html)  
+* [Backup strategy: scheduled daily differential ...](https://www.backup4all.com/backup-strategy-scheduled-daily-differential-backups-and-weekly-full-backups-kb.html)  
     
-* [How to schedule a backup job in the New Backu ...](https://www.backup4all.com/how-to-schedule-a-backup-job-in-the-new-backup-wizard-kb.html)  
+* [Using Backup4all - FAQ 3](https://www.backup4all.com/using-backup4all-faq-kb.html)  
     
 
 Choose language:
