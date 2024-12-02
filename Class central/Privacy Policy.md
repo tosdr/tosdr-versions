@@ -412,36 +412,36 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 Most common
 
-1. data science
+1. computer science
     
-2. project management
+2. trading
     
-3. flutter
+3. html
     
 
 Popular subjects
 
-1. [Ethical Hacking
+1. [Computer Networking
     
-    2,240 courses](https://www.classcentral.com/subject/ethical-hacking)
-2. [Web Development
+    2,014 courses](https://www.classcentral.com/subject/computer-networking)
+2. [Project Management
     
-    13,824 courses](https://www.classcentral.com/subject/web-development)
-3. [Digital Marketing
+    4,268 courses](https://www.classcentral.com/subject/project-management)
+3. [Graphic Design
     
-    6,293 courses](https://www.classcentral.com/subject/digital-marketing)
+    4,369 courses](https://www.classcentral.com/subject/graphic-design)
 
 Popular courses
 
-1. [Teaching Young Learners Online
+1. [Algorithms, Part I
     
-    British Council](https://www.classcentral.com/course/teaching-young-learners-online-20139)
-2. [Technical Report Writing for Engineers
+    Princeton University](https://www.classcentral.com/course/algs4partI-339)
+2. [CS50's Introduction to Computer Science
     
-    The University of Sheffield](https://www.classcentral.com/course/technical-report-writing-for-engineers-9087)
-3. [The Emergence of the Modern Middle East - Part I
+    Harvard University](https://www.classcentral.com/course/computer-science-harvard-university-cs50-s-introd-442)
+3. [Cybersecurity Fundamentals
     
-    Tel Aviv University](https://www.classcentral.com/course/modernmiddleeast1-976)
+    Rochester Institute of Technology](https://www.classcentral.com/course/cybersecurity-rochester-institute-of-technology-c-7844)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
