@@ -110,13 +110,13 @@ _This policy was last updated in November 2022 (to expand upon and strengthen cl
 * [API](https://letterboxd.com/api-beta/)
 * [Contact](https://letterboxd.com/contact/)
 
-[X](https://x.com/letterboxd "Letterboxd on X")
+[Instagram](https://www.instagram.com/letterboxd "Letterboxd on Instagram")
 
 [Threads](https://www.threads.net/@letterboxd "Letterboxd on Threads")
 
-[Facebook](https://www.facebook.com/letterboxd "Letterboxd on Facebook")
+[X](https://x.com/letterboxd "Letterboxd on X")
 
-[Instagram](https://www.instagram.com/letterboxd "Letterboxd on Instagram")
+[Facebook](https://www.facebook.com/letterboxd "Letterboxd on Facebook")
 
 [TikTok](https://www.tiktok.com/@letterboxd "Letterboxd on TikTok")
 
