@@ -1,6 +1,6 @@
 [Skip to content](#content)
 
-**[BLACK FRIDAY SALE: 30% OFF on all Yoast SEO products!](https://yoast.com/shop/)**
+**[Black Friday SALE: 30% OFF on all Yoast SEO products](https://yoast.com/shop/)**. **Sale ends in:**
 
 Search  Search
 
