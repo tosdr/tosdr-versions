@@ -213,7 +213,7 @@ This site is protected by hCaptcha and its [privacy policy](https://hcaptcha.com
     
     [See further information and configure your preferences](#)
     
-    [Accept all cookies](https://xiaomi.eu/community/misc/cookies?update=1&accept=1&t=1733115576%2Cc260e7736ad4452ccd6cbcf439039a77) [Reject optional cookies](https://xiaomi.eu/community/misc/cookies?update=1&reject=1&t=1733115576%2Cc260e7736ad4452ccd6cbcf439039a77)
+    [Accept all cookies](https://xiaomi.eu/community/misc/cookies?update=1&accept=1&t=1733135869%2C31a04dd755c547e1d8c828bd9763c6f4) [Reject optional cookies](https://xiaomi.eu/community/misc/cookies?update=1&reject=1&t=1733135869%2C31a04dd755c547e1d8c828bd9763c6f4)
     
     * Essential cookies
     
