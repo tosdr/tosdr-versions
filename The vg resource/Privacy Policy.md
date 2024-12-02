@@ -118,9 +118,9 @@ This page does not work well in portrait mode on mobile. Please rotate your devi
 
 * Popular Games
 * [Sonic the Hedgehog C...](https://www.spriters-resource.com/custom_edited/sonicthehedgehogcustoms/)
+* [Dragon Quest III HD-...](https://www.spriters-resource.com/pc_computer/dragonquestiiihd2dremake/)
 * [Mario Customs](https://www.spriters-resource.com/custom_edited/mariocustoms/)
 * [Undertale](https://www.spriters-resource.com/pc_computer/undertale/)
-* [The Simpsons: Tapped...](https://www.spriters-resource.com/mobile/thesimpsonstappedout/)
 * [Metal Slug Attack](https://www.spriters-resource.com/mobile/metalslugattack/)
 
 * Affiliates
