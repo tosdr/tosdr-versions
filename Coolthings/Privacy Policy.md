@@ -43,6 +43,11 @@
     
     [See All](https://www.coolthings.com/gear/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/imalent-ld35-1200-lumen-edc-flashlight-wireless-charging-case-triple-battery-life/)
+    
+    [Imalent LD35 EDC Flashlight Comes with a Charging Case to Triple Its Battery Life](https://www.coolthings.com/imalent-ld35-1200-lumen-edc-flashlight-wireless-charging-case-triple-battery-life/)
+    --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-photography-gifts-for-pros-and-enthusiasts-alike/)
     
     [The Best Photography Gifts for Pros and Enthusiasts Alike](https://www.coolthings.com/the-best-photography-gifts-for-pros-and-enthusiasts-alike/)
@@ -52,11 +57,6 @@
     
     [Nike Elite EasyOn Backpack Thoughtfully Redesigns the Backpack with Accessibility in Mind](https://www.coolthings.com/nike-elite-easyon-backpack-paris-2024-paralympic-games-accessibility-features/)
     ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/harlowe-sol-5-magsafe-camera-light-adjustable-lighting-angles-for-iphone/)
-    
-    [Harlowe Sol 5 MagSafe Camera Light Brings Versatile Lighting Angles to Your iPhone](https://www.coolthings.com/harlowe-sol-5-magsafe-camera-light-adjustable-lighting-angles-for-iphone/)
-    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
     * [OUTDOOR GEAR](http://www.coolthings.com/tag/outdoor-gear/)
     * [CAMPING GEAR](http://www.coolthings.com/tag/camping-gear/)
