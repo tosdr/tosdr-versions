@@ -1,10 +1,10 @@
-**You Make a Difference!** Our mission and operations are funded entirely by Patriots like you! Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_6&utm_medium=web&utm_source=patriotpost.us) now.
+**Publisher's Note:** One of the most significant things you can do to promote Liberty is to [support our mission](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us). Please [make your gift to the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us) today. Thank you! —Mark Alexander, Publisher
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_6&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
-[Read The Latest Digest](https://patriotpost.us/digests/112380-mid-day-digest-2024-11-27?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Latest Digest](https://patriotpost.us/digests/112469-mid-day-digest-2024-12-02?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 Subscriber/User Terms and Conditions of Service
 
@@ -189,7 +189,7 @@ These Terms and Conditions, together with the Privacy Policy, represent the enti
 
 All users and subscribers of Web site agree to abide by and comply with these "Subscriber/User Terms and Conditions of Service," as set forth by Publius Press, Inc., publisher of The Patriot Post, as a condition of subscription or use.
 
-[Read The Mid-Day Digest](https://patriotpost.us/digests/112380-mid-day-digest-2024-11-27?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Mid-Day Digest](https://patriotpost.us/digests/112469-mid-day-digest-2024-12-02?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 [Executive News Summary](https://patriotpost.us/categories/74-headlines)
 
@@ -207,6 +207,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Top Opinion
 
+*      [Daniel McCarthy Identity Politics, Not Biden, Cost Democrats the Election](https://patriotpost.us/opinion/112478-identity-politics-not-biden-cost-democrats-the-election-2024-12-02)
 *      [The Babylon Bee America Starting to Think This ‘Joe Biden’ Guy Might Be a Liar](https://patriotpost.us/opinion/112467-america-starting-to-think-this-joe-biden-guy-might-be-a-liar-2024-12-02)
 *      [Imprimis Drain the Swamp](https://patriotpost.us/opinion/112398-drain-the-swamp-2024-11-30)
 *      [Rich Lowry The Intellectual Collapse of DEI](https://patriotpost.us/opinion/112446-the-intellectual-collapse-of-dei-2024-11-29)
@@ -214,7 +215,6 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 *      [Larry Elder Trump Jokes About Running for Third Term — Dems Freak Out](https://patriotpost.us/opinion/112443-trump-jokes-about-running-for-third-term-dems-freak-out-2024-11-29)
 *      [Laura Hollis We Should Treat the Intellectual Elites Like Royalty](https://patriotpost.us/opinion/112442-we-should-treat-the-intellectual-elites-like-royalty-2024-11-29)
 *      [Tim Graham Journalists Mourn That Jack Smith’s Probes Are Dead](https://patriotpost.us/opinion/112441-journalists-mourn-that-jack-smiths-probes-are-dead-2024-11-29)
-*      [Josh Hammer Gratitude Is Our Defining Ideal](https://patriotpost.us/opinion/112440-gratitude-is-our-defining-ideal-2024-11-29)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -228,7 +228,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01JAZT33BFPWCKHQ8TMC2021Z7.jpeg)](https://patriotpostshop.com/collections/featured-products)
+No MSM Churn No Clickbait Junk No Advertising
 
 ### The Foundation
 
