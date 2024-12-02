@@ -1,14 +1,14 @@
-![](./img/notice.png)
+![](./img/notice2.png)
 
 公司全称：北京人人网互动科技有限公司
 
 公司邮箱：kefu@infinities.com.cn
 
+[京网文\[2020\]4677-864号](http://s.xnimg.cn/imgpro/xkz.png) [京ICP证B2-20203269号](http://s.xnimg.cn/imgpro/icp1.png)
+
 京ICP备 20030558号-1号
 
 京公网安备 11010802029038号
-
-[京网文\[2020\]4677-864号](http://s.xnimg.cn/imgpro/xkz.png) [京ICP证B2-20203269号](http://s.xnimg.cn/imgpro/icp1.png)
 
 人人网©2024
 
@@ -38,12 +38,12 @@
 
 kefu@infinities.com.cn
 
-京ICP备 20030558号-1号
-
-京公网安备 11010802029038号
-
 [京网文\[2020\]4677-864号](http://s.xnimg.cn/imgpro/xkz.png)
 
 [京ICP证B2-20203269号](http://s.xnimg.cn/imgpro/icp1.png)
+
+京ICP备20030558号-1号
+
+京公网安备11010802029038号
 
 人人网©2024
