@@ -664,12 +664,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fünf-Punkte-Strategie mit aktiven Fonds: Mit Top-Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiven-Fonds-Mehr-Rendite-mit-Top-Fonds-6156098-0/ "Fünf-Punkte-Strategie mit aktiven Fonds - Mit Top-Fonds den Markt schlagen")
-* [Fonds­gebundene Renten­versicherungen im Vergleich: Finger weg von Policen mit Beitrags­garantie](https://www.test.de/Fondsgebundene-Rentenversicherung-mit-Beitragsgarantie-Vergleich-6062027-0/ "Fondsgebundene Rentenversicherungen im Vergleich - Finger weg von Policen mit Beitragsgarantie")
-* [Immobilie erben: Haus geerbt – was jetzt zu tun ist](https://www.test.de/Haus-geerbt-6092774-0/ "Immobilie erben - Haus geerbt – was jetzt zu tun ist")
-* [Dubiose Onlinebroker: Eternity Business Ltd. fehlt Zulassung](https://www.test.de/Dubiose-Onlinebroker-Eternity-Business-Ltd-fehlt-Zulassung-6031051-0/ "Dubiose Onlinebroker - Eternity Business Ltd. fehlt Zulassung")
-* [Ökodesign-Verordnung: Smartphones müssen bald länger halten](https://www.test.de/Oekodesign-Verordnung-Smartphones-muessen-bald-laenger-halten-6169413-0/ "Ökodesign-Verordnung - Smartphones müssen bald länger halten")
-* [Lebens­mittel mit Rauch­geschmack: Auf Raucharomen besser verzichten](https://www.test.de/Lebensmittel-mit-Rauchgeschmack-Auf-Raucharomen-besser-verzichten-6113528-0/ "Lebensmittel mit Rauchgeschmack - Auf Raucharomen besser verzichten")
+* [Hoch­ver­arbeitete Lebens­mittel: Zu viel vom Band macht krank](https://www.test.de/Hochverarbeitete-Lebensmittel-Zu-viel-vom-Band-macht-krank-6120161-0/ "Hochverarbeitete Lebensmittel - Zu viel vom Band macht krank")
+* [Gold­berg Capital: Unseriöses Angebot für Starlink-Aktien](https://www.test.de/Goldberg-Capital-Unserioeses-Angebot-fuer-Starlink-Aktien-6135792-0/ "Goldberg Capital - Unseriöses Angebot für Starlink-Aktien")
+* [Investieren in Künst­liche Intelligenz: ETF oder Zertifikate – der Check](https://www.test.de/Investieren-in-Kuenstliche-Intelligenz-ETF-oder-Zertifikate-der-Check-5981554-0/ "Investieren in Künstliche Intelligenz - ETF oder Zertifikate – der Check")
+* [Neues Lebens­mittel-Label: Sagt was zur Herkunft, nichts zur Qualität](https://www.test.de/Neues-Lebensmittel-Label-Sagt-was-zur-Herkunft-nichts-zur-Qualitaet-6164828-0/ "Neues Lebensmittel-Label - Sagt was zur Herkunft, nichts zur Qualität")
+* [Warn­liste Zins­anlagen: Portale versprechen unrealistisch hohe Renditen auf Fest­geld](https://www.test.de/Unrealistische-Zinsversprechen-Falsches-Festgeld-6009488-0/ "Warnliste Zinsanlagen - Portale versprechen unrealistisch hohe Renditen auf Festgeld")
+* [Antide­pressiva: Diese Mittel helfen gegen Depression](https://www.test.de/Antidepressiva-im-Test-5943472-0/ "Antidepressiva - Diese Mittel helfen gegen Depression")
 
 Weitere Informationen
 
@@ -3082,12 +3082,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fünf-Punkte-Strategie mit aktiven Fonds: Mit Top-Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiven-Fonds-Mehr-Rendite-mit-Top-Fonds-6156098-0/ "Fünf-Punkte-Strategie mit aktiven Fonds - Mit Top-Fonds den Markt schlagen")
-* [Fonds­gebundene Renten­versicherungen im Vergleich: Finger weg von Policen mit Beitrags­garantie](https://www.test.de/Fondsgebundene-Rentenversicherung-mit-Beitragsgarantie-Vergleich-6062027-0/ "Fondsgebundene Rentenversicherungen im Vergleich - Finger weg von Policen mit Beitragsgarantie")
-* [Immobilie erben: Haus geerbt – was jetzt zu tun ist](https://www.test.de/Haus-geerbt-6092774-0/ "Immobilie erben - Haus geerbt – was jetzt zu tun ist")
-* [Dubiose Onlinebroker: Eternity Business Ltd. fehlt Zulassung](https://www.test.de/Dubiose-Onlinebroker-Eternity-Business-Ltd-fehlt-Zulassung-6031051-0/ "Dubiose Onlinebroker - Eternity Business Ltd. fehlt Zulassung")
-* [Ökodesign-Verordnung: Smartphones müssen bald länger halten](https://www.test.de/Oekodesign-Verordnung-Smartphones-muessen-bald-laenger-halten-6169413-0/ "Ökodesign-Verordnung - Smartphones müssen bald länger halten")
-* [Lebens­mittel mit Rauch­geschmack: Auf Raucharomen besser verzichten](https://www.test.de/Lebensmittel-mit-Rauchgeschmack-Auf-Raucharomen-besser-verzichten-6113528-0/ "Lebensmittel mit Rauchgeschmack - Auf Raucharomen besser verzichten")
+* [Hoch­ver­arbeitete Lebens­mittel: Zu viel vom Band macht krank](https://www.test.de/Hochverarbeitete-Lebensmittel-Zu-viel-vom-Band-macht-krank-6120161-0/ "Hochverarbeitete Lebensmittel - Zu viel vom Band macht krank")
+* [Gold­berg Capital: Unseriöses Angebot für Starlink-Aktien](https://www.test.de/Goldberg-Capital-Unserioeses-Angebot-fuer-Starlink-Aktien-6135792-0/ "Goldberg Capital - Unseriöses Angebot für Starlink-Aktien")
+* [Investieren in Künst­liche Intelligenz: ETF oder Zertifikate – der Check](https://www.test.de/Investieren-in-Kuenstliche-Intelligenz-ETF-oder-Zertifikate-der-Check-5981554-0/ "Investieren in Künstliche Intelligenz - ETF oder Zertifikate – der Check")
+* [Neues Lebens­mittel-Label: Sagt was zur Herkunft, nichts zur Qualität](https://www.test.de/Neues-Lebensmittel-Label-Sagt-was-zur-Herkunft-nichts-zur-Qualitaet-6164828-0/ "Neues Lebensmittel-Label - Sagt was zur Herkunft, nichts zur Qualität")
+* [Warn­liste Zins­anlagen: Portale versprechen unrealistisch hohe Renditen auf Fest­geld](https://www.test.de/Unrealistische-Zinsversprechen-Falsches-Festgeld-6009488-0/ "Warnliste Zinsanlagen - Portale versprechen unrealistisch hohe Renditen auf Festgeld")
+* [Antide­pressiva: Diese Mittel helfen gegen Depression](https://www.test.de/Antidepressiva-im-Test-5943472-0/ "Antidepressiva - Diese Mittel helfen gegen Depression")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -3138,12 +3138,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fünf-Punkte-Strategie mit aktiven Fonds: Mit Top-Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiven-Fonds-Mehr-Rendite-mit-Top-Fonds-6156098-0/ "Fünf-Punkte-Strategie mit aktiven Fonds - Mit Top-Fonds den Markt schlagen")
-* [Fonds­gebundene Renten­versicherungen im Vergleich: Finger weg von Policen mit Beitrags­garantie](https://www.test.de/Fondsgebundene-Rentenversicherung-mit-Beitragsgarantie-Vergleich-6062027-0/ "Fondsgebundene Rentenversicherungen im Vergleich - Finger weg von Policen mit Beitragsgarantie")
-* [Immobilie erben: Haus geerbt – was jetzt zu tun ist](https://www.test.de/Haus-geerbt-6092774-0/ "Immobilie erben - Haus geerbt – was jetzt zu tun ist")
-* [Dubiose Onlinebroker: Eternity Business Ltd. fehlt Zulassung](https://www.test.de/Dubiose-Onlinebroker-Eternity-Business-Ltd-fehlt-Zulassung-6031051-0/ "Dubiose Onlinebroker - Eternity Business Ltd. fehlt Zulassung")
-* [Ökodesign-Verordnung: Smartphones müssen bald länger halten](https://www.test.de/Oekodesign-Verordnung-Smartphones-muessen-bald-laenger-halten-6169413-0/ "Ökodesign-Verordnung - Smartphones müssen bald länger halten")
-* [Lebens­mittel mit Rauch­geschmack: Auf Raucharomen besser verzichten](https://www.test.de/Lebensmittel-mit-Rauchgeschmack-Auf-Raucharomen-besser-verzichten-6113528-0/ "Lebensmittel mit Rauchgeschmack - Auf Raucharomen besser verzichten")
+* [Hoch­ver­arbeitete Lebens­mittel: Zu viel vom Band macht krank](https://www.test.de/Hochverarbeitete-Lebensmittel-Zu-viel-vom-Band-macht-krank-6120161-0/ "Hochverarbeitete Lebensmittel - Zu viel vom Band macht krank")
+* [Gold­berg Capital: Unseriöses Angebot für Starlink-Aktien](https://www.test.de/Goldberg-Capital-Unserioeses-Angebot-fuer-Starlink-Aktien-6135792-0/ "Goldberg Capital - Unseriöses Angebot für Starlink-Aktien")
+* [Investieren in Künst­liche Intelligenz: ETF oder Zertifikate – der Check](https://www.test.de/Investieren-in-Kuenstliche-Intelligenz-ETF-oder-Zertifikate-der-Check-5981554-0/ "Investieren in Künstliche Intelligenz - ETF oder Zertifikate – der Check")
+* [Neues Lebens­mittel-Label: Sagt was zur Herkunft, nichts zur Qualität](https://www.test.de/Neues-Lebensmittel-Label-Sagt-was-zur-Herkunft-nichts-zur-Qualitaet-6164828-0/ "Neues Lebensmittel-Label - Sagt was zur Herkunft, nichts zur Qualität")
+* [Warn­liste Zins­anlagen: Portale versprechen unrealistisch hohe Renditen auf Fest­geld](https://www.test.de/Unrealistische-Zinsversprechen-Falsches-Festgeld-6009488-0/ "Warnliste Zinsanlagen - Portale versprechen unrealistisch hohe Renditen auf Festgeld")
+* [Antide­pressiva: Diese Mittel helfen gegen Depression](https://www.test.de/Antidepressiva-im-Test-5943472-0/ "Antidepressiva - Diese Mittel helfen gegen Depression")
 
 Neueste Tests
 
@@ -3156,12 +3156,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fünf-Punkte-Strategie mit aktiven Fonds: Mit Top-Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiven-Fonds-Mehr-Rendite-mit-Top-Fonds-6156098-0/ "Fünf-Punkte-Strategie mit aktiven Fonds - Mit Top-Fonds den Markt schlagen")
-* [Fonds­gebundene Renten­versicherungen im Vergleich: Finger weg von Policen mit Beitrags­garantie](https://www.test.de/Fondsgebundene-Rentenversicherung-mit-Beitragsgarantie-Vergleich-6062027-0/ "Fondsgebundene Rentenversicherungen im Vergleich - Finger weg von Policen mit Beitragsgarantie")
-* [Immobilie erben: Haus geerbt – was jetzt zu tun ist](https://www.test.de/Haus-geerbt-6092774-0/ "Immobilie erben - Haus geerbt – was jetzt zu tun ist")
-* [Dubiose Onlinebroker: Eternity Business Ltd. fehlt Zulassung](https://www.test.de/Dubiose-Onlinebroker-Eternity-Business-Ltd-fehlt-Zulassung-6031051-0/ "Dubiose Onlinebroker - Eternity Business Ltd. fehlt Zulassung")
-* [Ökodesign-Verordnung: Smartphones müssen bald länger halten](https://www.test.de/Oekodesign-Verordnung-Smartphones-muessen-bald-laenger-halten-6169413-0/ "Ökodesign-Verordnung - Smartphones müssen bald länger halten")
-* [Lebens­mittel mit Rauch­geschmack: Auf Raucharomen besser verzichten](https://www.test.de/Lebensmittel-mit-Rauchgeschmack-Auf-Raucharomen-besser-verzichten-6113528-0/ "Lebensmittel mit Rauchgeschmack - Auf Raucharomen besser verzichten")
+* [Hoch­ver­arbeitete Lebens­mittel: Zu viel vom Band macht krank](https://www.test.de/Hochverarbeitete-Lebensmittel-Zu-viel-vom-Band-macht-krank-6120161-0/ "Hochverarbeitete Lebensmittel - Zu viel vom Band macht krank")
+* [Gold­berg Capital: Unseriöses Angebot für Starlink-Aktien](https://www.test.de/Goldberg-Capital-Unserioeses-Angebot-fuer-Starlink-Aktien-6135792-0/ "Goldberg Capital - Unseriöses Angebot für Starlink-Aktien")
+* [Investieren in Künst­liche Intelligenz: ETF oder Zertifikate – der Check](https://www.test.de/Investieren-in-Kuenstliche-Intelligenz-ETF-oder-Zertifikate-der-Check-5981554-0/ "Investieren in Künstliche Intelligenz - ETF oder Zertifikate – der Check")
+* [Neues Lebens­mittel-Label: Sagt was zur Herkunft, nichts zur Qualität](https://www.test.de/Neues-Lebensmittel-Label-Sagt-was-zur-Herkunft-nichts-zur-Qualitaet-6164828-0/ "Neues Lebensmittel-Label - Sagt was zur Herkunft, nichts zur Qualität")
+* [Warn­liste Zins­anlagen: Portale versprechen unrealistisch hohe Renditen auf Fest­geld](https://www.test.de/Unrealistische-Zinsversprechen-Falsches-Festgeld-6009488-0/ "Warnliste Zinsanlagen - Portale versprechen unrealistisch hohe Renditen auf Festgeld")
+* [Antide­pressiva: Diese Mittel helfen gegen Depression](https://www.test.de/Antidepressiva-im-Test-5943472-0/ "Antidepressiva - Diese Mittel helfen gegen Depression")
 
 Stiftung Warentest
 
