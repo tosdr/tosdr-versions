@@ -15,7 +15,7 @@
     * [Negative Google Result Services](https://brandyourself.com/reputation-management-services)
     * [Personal Branding Services](https://brandyourself.com/personal-branding-services)
     
-    ![image description](//s3.brandyourself.com/themes/default/images/chart-5.png)
+    ![image description](//s2.brandyourself.com/themes/default/images/chart-5.png)
     
     Not sure where to start? [get my free scan](https://brandyourself.com/sign-up)
     
@@ -384,6 +384,6 @@ The following capitalized terms shall have the meanings herein as set forth belo
 **AS FEATURED ON:**
 
 * [![shark tank](//s1.brandyourself.com/themes/default/images/shark-tank.png)](https://brandyourself.com/press)
-* [![wsj](//s3.brandyourself.com/themes/default/images/wsj.svg)](https://brandyourself.com/press)
+* [![wsj](//s2.brandyourself.com/themes/default/images/wsj.svg)](https://brandyourself.com/press)
 * [![forbes](//s1.brandyourself.com/themes/default/images/forbes.svg)](https://brandyourself.com/press)
 * [![npr](//s3.brandyourself.com/themes/default/images/npr.png)](https://brandyourself.com/press)
