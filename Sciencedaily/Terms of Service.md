@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**December 1, 2024**
+**December 2, 2024**
 
 * * *
 
@@ -229,6 +229,9 @@ this hour
 
 * * *
 
+* [Primordial Black Holes May Be Hiding On Earth](https://www.sciencedaily.com/releases/2024/12/241202123658.htm)
+* [Venus Likely Has Never Been Habitable](https://www.sciencedaily.com/releases/2024/12/241202123421.htm)
+* [Smallest Walking Robot](https://www.sciencedaily.com/releases/2024/12/241202122050.htm)
 * [Warming: Coral Adaptation Unlikely to Keep Pace](https://www.sciencedaily.com/releases/2024/11/241128200737.htm)
 * [Twice-Yearly Shot: 96% HIV Prevention](https://www.sciencedaily.com/releases/2024/11/241127191937.htm)
 * [Fossil Footprints: Ancient Hominins as Neighbors](https://www.sciencedaily.com/releases/2024/11/241128200732.htm)
@@ -236,9 +239,6 @@ this hour
 * [New Treatment for Asthma Attacks](https://www.sciencedaily.com/releases/2024/11/241127191934.htm)
 * [Early N. Americans Made Needles from Fur-Bearers](https://www.sciencedaily.com/releases/2024/11/241127165731.htm)
 * [VR Goes Inside the ‘Swat Team’](https://www.sciencedaily.com/releases/2024/11/241126135834.htm)
-* [Clues to Dinosaur Success Story: Fossil Dung](https://www.sciencedaily.com/releases/2024/11/241127135506.htm)
-* [Nanorobot Hand Made of DNA Grabs Viruses](https://www.sciencedaily.com/releases/2024/11/241127165721.htm)
-* [Unexplained Heat-Wave 'Hotspots'](https://www.sciencedaily.com/releases/2024/11/241126145331.htm)
 
 Trending Topics
 ---------------
@@ -249,27 +249,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Chronic Illness](https://www.sciencedaily.com/news/health_medicine/chronic_illness/)
-
-[COVID and SARS](https://www.sciencedaily.com/news/health_medicine/covid_and_sars/)
-
 [Hormone Disorders](https://www.sciencedaily.com/news/health_medicine/hormone_disorders/)
+
+[Epilepsy Research](https://www.sciencedaily.com/news/health_medicine/epilepsy/)
+
+[Caregiving](https://www.sciencedaily.com/news/mind_brain/caregiving/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
+[Robotics Research](https://www.sciencedaily.com/news/matter_energy/robotics/)
+
 [Nanotechnology](https://www.sciencedaily.com/news/matter_energy/nanotechnology/)
 
-[Electronics](https://www.sciencedaily.com/news/matter_energy/electronics/)
-
-[Spintronics](https://www.sciencedaily.com/news/matter_energy/spintronics/)
+[Software](https://www.sciencedaily.com/news/computers_math/software/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[New Species](https://www.sciencedaily.com/news/plants_animals/new_species/)
+[Global Warming](https://www.sciencedaily.com/news/earth_climate/global_warming/)
 
-[Birds](https://www.sciencedaily.com/news/plants_animals/birds/)
+[Oceanography](https://www.sciencedaily.com/news/earth_climate/oceanography/)
 
-[Wildfires](https://www.sciencedaily.com/news/earth_climate/wildfires/)
+[Fish](https://www.sciencedaily.com/news/plants_animals/fish/)
 
   
 
