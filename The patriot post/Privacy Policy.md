@@ -1,10 +1,10 @@
-**Fellow Patriot:** The voluntary financial generosity of supporters like _you_ keeps our hard-hitting analysis coming. Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_0&utm_medium=web&utm_source=patriotpost.us) today. Thank you for your support! —Nate Jackson, Managing Editor
+**Why We Ask:** Our mission and operations are funded 100% by conservatives like _you_. Please help us continue to extend Liberty to the next generation and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_2&utm_medium=web&utm_source=patriotpost.us) today.
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_0&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_2&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
-[Read The Latest Digest](https://patriotpost.us/digests/112380-mid-day-digest-2024-11-27?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Latest Digest](https://patriotpost.us/digests/112469-mid-day-digest-2024-12-02?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 Privacy Policy for _The Patriot Post_
 
@@ -108,7 +108,7 @@ Our website provides a Contact Us section to facilitate feedback from site visit
 
 Last Updated: November 15, 2011.
 
-[Read The Mid-Day Digest](https://patriotpost.us/digests/112380-mid-day-digest-2024-11-27?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Mid-Day Digest](https://patriotpost.us/digests/112469-mid-day-digest-2024-12-02?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 [Executive News Summary](https://patriotpost.us/categories/74-headlines)
 
@@ -126,6 +126,7 @@ Last Updated: November 15, 2011.
 
 ### Top Opinion
 
+*      [Daniel McCarthy Identity Politics, Not Biden, Cost Democrats the Election](https://patriotpost.us/opinion/112478-identity-politics-not-biden-cost-democrats-the-election-2024-12-02)
 *      [The Babylon Bee America Starting to Think This ‘Joe Biden’ Guy Might Be a Liar](https://patriotpost.us/opinion/112467-america-starting-to-think-this-joe-biden-guy-might-be-a-liar-2024-12-02)
 *      [Imprimis Drain the Swamp](https://patriotpost.us/opinion/112398-drain-the-swamp-2024-11-30)
 *      [Rich Lowry The Intellectual Collapse of DEI](https://patriotpost.us/opinion/112446-the-intellectual-collapse-of-dei-2024-11-29)
@@ -133,7 +134,6 @@ Last Updated: November 15, 2011.
 *      [Larry Elder Trump Jokes About Running for Third Term — Dems Freak Out](https://patriotpost.us/opinion/112443-trump-jokes-about-running-for-third-term-dems-freak-out-2024-11-29)
 *      [Laura Hollis We Should Treat the Intellectual Elites Like Royalty](https://patriotpost.us/opinion/112442-we-should-treat-the-intellectual-elites-like-royalty-2024-11-29)
 *      [Tim Graham Journalists Mourn That Jack Smith’s Probes Are Dead](https://patriotpost.us/opinion/112441-journalists-mourn-that-jack-smiths-probes-are-dead-2024-11-29)
-*      [Josh Hammer Gratitude Is Our Defining Ideal](https://patriotpost.us/opinion/112440-gratitude-is-our-defining-ideal-2024-11-29)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -147,7 +147,7 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-No MSM Churn No Clickbait Junk No Advertising
+[![](https://img.patriotpost.us/01JAZT33BFPWCKHQ8TMC2021Z7.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
