@@ -51,45 +51,49 @@ Cookie Policy
 
 Everything you need to know around our cookie policy.
 
+* [Cookie Policy](#otnotice-section-3fb8576b-7f03-4d46-87f5-759227e56fac)
+* [What are cookies?](#otnotice-section-d61fccc8-a335-45ec-bbef-a5cc10e8e69b)
+* [How we use cookies?](#otnotice-section-8fdcf3d7-4f8f-4466-82dc-ed7cdc7d52b8)
+* [How can you control cookies?](#otnotice-section-707dcd1e-d5b8-42ac-85e6-248c453563d7)
+* [How long do cookies last?](#otnotice-section-6e75a2d3-a70b-496f-92ab-e7067605428d)
+* [Changes to our use of cookies](#otnotice-section-47d7b6f2-84bc-46ab-b84c-0d72ef6e33ec)
+* [How to contact us?](#otnotice-section-6dbd8abd-29f1-48d6-80f9-0877059a2447)
+
+* [Cookie Policy](#otnotice-section-3fb8576b-7f03-4d46-87f5-759227e56fac)
+* [What are cookies?](#otnotice-section-d61fccc8-a335-45ec-bbef-a5cc10e8e69b)
+* [How we use cookies?](#otnotice-section-8fdcf3d7-4f8f-4466-82dc-ed7cdc7d52b8)
+* [How can you control cookies?](#otnotice-section-707dcd1e-d5b8-42ac-85e6-248c453563d7)
+* [How long do cookies last?](#otnotice-section-6e75a2d3-a70b-496f-92ab-e7067605428d)
+* [Changes to our use of cookies](#otnotice-section-47d7b6f2-84bc-46ab-b84c-0d72ef6e33ec)
+* [How to contact us?](#otnotice-section-6dbd8abd-29f1-48d6-80f9-0877059a2447)
+
 Cookie Policy
+-------------
 
-We, as a Reckitt Benckiser group company operating this Site, use cookies and other similar technologies to collect certain information about visitors. In this cookie policy we explain to you how we and third-parties use cookies while you browse on our website, mobile app or similar device, including any sub-pages, online shop, or other functionalities (generally referred to as “Site” in this policy).
+We, as a **Reckitt Benckiser** group company operating this Site, use cookies and other similar technologies to collect certain information about visitors. In this cookie policy we explain to you how we and third-parties use cookies while you browse on our website, mobile app or similar device, including any sub-pages, online shop, or other functionalities (generally referred to as “Site” in this policy).
 
-We also have a presence in the form of  branded social media pages on social media networks, like Facebook, Instagram and Twitter. Please visit their websites to learn their privacy policies and the privacy and marketing controls available for their community members, since we have no control over how these social media platforms operate.
+We also have a presence in the form of  branded social media pages on social media networks, like Facebook, Instagram and Twitter. Please visit their websites to learn their privacy policies and the privacy and marketing controls available for their community members, since we have no control over how these social media platforms operate.
 
 Where we use on our Site third party cookies from social media platform or any other third parties for our business purposes, we explain such use in this cookie policy.
 
-You can control the cookies used on this Site either via our Cookie Consent Portal or by adjusting your browser settings. Click the heading “How can you control cookies?” below for more information.
-
-Sections
-
-What are cookies? 
-
-How we use cookies?
-
-How can you control cookies?
-
-How long do cookies last? 
-
-Changes to our use of cookies
-
-How to contact us?
+You can control the cookies used on this Site either via our Cookie Consent Portal or by adjusting your browser settings. Click the heading “How can you control cookies?” below for more information.
 
 What are cookies?
+-----------------
 
 Like most websites you visit, our Site uses cookies and other similar technologies described below (generally referred to as “cookies” in this policy) for the purposes described in the section headed “How we use cookies”.
 
-Cookies
+**Cookies**
 
 Cookies are text files embedded in a web page that contain small amounts of information which are downloaded to your device when you visit a Site or embedded in a web page. Cookies may then be sent back to the originating Site on each subsequent visit, or to another Site that recognises that cookie. Cookies are useful because they allow a Site to recognise a user’s device and to remember your actions and preferences (such as login details, language, font size and other display preferences) over a period of time.
 
 Where possible, security measures are put in place to prevent unauthorised access to our cookies and similar technologies. A unique identifier ensures that only we and/or our authorised service providers have access to cookie data.
 
-Web beacons
+**Web beacons**
 
 Web beacons (also known as internet tags, pixel tags, and clear GIFs) are typically transparent graphic images placed on a site or email. Web beacons are used in combination with cookies to learn about our visitors\` interactions, capture visitor’s journey on our Site, to create segment categories and behaviour patterns, or to serve targeted advertisements. We (or the third parties we use) use beacons to obtain information such as the IP address of the computer that downloaded the page on which the beacon appears, the URL of the page on which the beacon appears, the time the page containing the beacon was viewed, and the type of browser used to view the page.
 
-IP addresses and URLs
+**IP addresses and URLs**
 
 An IP address is a unique identifier that certain electronic devices used to identify and communicate with each other on the internet. When you visit our Site, we (or the third parties we use) may view the IP address of the device that you use to connect to the internet using a web beacon.
 
@@ -97,15 +101,16 @@ We (or the third parties we use) use only the redacted part of the IP address to
 
 A URL (uniform resource locator) is a unique identifier or address for each resource on the internet, in effect it is the address for the web page that you are visiting. We use this information to see which sites and pages are visited and the way that you navigate through our Site.
 
-Device IDs
+**Device IDs**
 
 Device IDs are distinctive numbers associated with a smartphone or similar handheld device from which the internet can be accessed. We use device IDs for the same purposes for which we use cookies, as described in this policy.
 
-Device fingerprinting
+**Device fingerprinting**
 
-Device fingerprinting is a way to combine certain attributes of a device e.g. its operating system, the type and version of browser being used, language settings and IP addresses etc which are used together to identify unique devices. To the extent that fingerprinting is used, we use it for the same purposes for which we use cookies.
+Device fingerprinting is a way to combine certain attributes of a device e.g. its operating system, the type and version of browser being used, language settings and IP addresses etc which are used together to identify unique devices. To the extent that fingerprinting is used, we use it for the same purposes for which we use cookies.
 
 How we use cookies?
+-------------------
 
 We use different types of cookies on our Site for various purposes set out below.
 
@@ -113,11 +118,11 @@ Some of these cookies are placed by us and others by third-parties (e.g. social
 
 You can find more information about the individual cookies used and the third parties which set the cookies on this Site in your browser, as well as in the Cookie Consent Portal.
 
-Required cookies - These cookies are required for the operation of our Site, to enable core Site functions, to ensure the Site is secure and to enable us to manage the network.. They are sometimes referred to as “strictly necessary” or “essential” cookies.,. Without these cookies the Site cannot function properly. They include, for example, cookies that allow us to remember your cookie consent preferences and balance network load, enable you to log into secure areas of our Site and to access user accounts or online forms, use a shopping cart, make use of e-billing services, and download voucher coupons.
+**Required cookies -** These cookies are required for the operation of our Site, to enable core Site functions, to ensure the Site is secure and to enable us to manage the network.. They are sometimes referred to as “strictly necessary” or “essential” cookies.,. Without these cookies the Site cannot function properly. They include, for example, cookies that allow us to remember your cookie consent preferences and balance network load, enable you to log into secure areas of our Site and to access user accounts or online forms, use a shopping cart, make use of e-billing services, and download voucher coupons.
 
-Functional and analytical cookies - These cookies are either functional or analytical. They are used to improve functionality, improve and personalise browsing experience, and to analyse Site traffic and usage. 
+**Functional and analytical cookies -** These cookies are either functional or analytical. They are used to improve functionality, improve and personalise browsing experience, and to analyse Site traffic and usage. 
 
-Analytics cookies allow us to recognise and count the number of visitors and to see how visitors move around our Site. They help us understand and measure how you interact with our Site, allow us to gather statistics about our Site visitors to better understand them and to improve the way our Site works, for example, by ensuring that users are finding what they are looking for easily. Analytics cookies also allow us to test new Site content, features or interactions so we can improve the Site experience and appearance for all. 
+Analytics cookies allow us to recognise and count the number of visitors and to see how visitors move around our Site. They help us understand and measure how you interact with our Site, allow us to gather statistics about our Site visitors to better understand them and to improve the way our Site works, for example, by ensuring that users are finding what they are looking for easily. Analytics cookies also allow us to test new Site content, features or interactions so we can improve the Site experience and appearance for all. 
 
 Functional cookies are used to enhance what you can do on our Site. Examples include to help us to give you better and customized user experience to test and provide the best Site design, layout and content, and to remember choices you have made between sessions This enables us to enhance and personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region).
 
@@ -127,7 +132,7 @@ Examples of how cookies are used in this way include our use of YouTube on the S
 
 Similarly, our Site may include some social media sharing functionalities, such as the Facebook “Like” button, the Twitter “Tweet” button, or the LinkedIn “Share” button to allow you to share pages with social networks and to allow you to post comments and so on. These features may collect your IP address and which page you are visiting on our Site, and set cookies or employ similar technologies to enable the feature to function properly. These third parties can place cookies only if you interact with the relevant functionality on the Site. We have no control over how these social networks collect and use your personal information and their use is subject to the social network’s privacy policy (you can find the relevant privacy policy on the social network’s website or via the links in our Cookie Consent Portal).
 
-Advertising cookies - These cookies are used for advertising our products, brands, or services, for example, to show you advertisements that are more relevant to your interests based on your online activity (also known as personalized or interest-based advertising), or to prevent the same ads from continuously re-appearing.
+**Advertising cookies -** These cookies are used for advertising our products, brands, or services, for example, to show you advertisements that are more relevant to your interests based on your online activity (also known as personalized or interest-based advertising), or to prevent the same ads from continuously re-appearing.
 
 Cookies in this category enables us to collect information across the sites you visit, to record your visit to our Site, the pages you have visited and the links you have followed, our brand emails you view and links you click in the emails, to track your online activities across your computer, mobile phone or other devices you use, including the mobile apps you use.
 
@@ -137,55 +142,58 @@ We also use the cookies in this category to place you into a group of consumers�
 
 By using advertising cookies, we can:
 
-·        learn about trends, habits, or characteristics from a group of consumers who all act similarly;
+·        learn about trends, habits, or characteristics from a group of consumers who all act similarly;
 
-·        show you personalized advertisements on our Site or other sites you visit;
+·        show you personalized advertisements on our Site or other sites you visit;
 
-·        find others who appear to be similar in interests, characteristics or behaviours to those already in the interest group, so we can reach more potential customers by showing relevant advertising to them.
+·        find others who appear to be similar in interests, characteristics or behaviours to those already in the interest group, so we can reach more potential customers by showing relevant advertising to them.
 
 We partner with third-party service providers (e.g. Google, Facebook, Amazon etc.) which may use cookies, web beacons and other storage technologies to collect or receive information from our Site. These third parties use this information to help us with the advertising described above including to target ads and to provide us with measurement services and reports of the success of our advertising campaigns that are run through our Sites or other sites across the internet.
 
 If you turn off these cookies you will see less targeted, interest-based advertising; however, it does not mean you will not see any advertisements. Even if you opt-out receiving interest-based advertisements, you will still be shown advertisements about our products or brands based on the context of the sites you visit (these are called “contextual ads”).
 
-If you want learn more about interest-based advertising and cross-device linking, you may find it useful to visit the [Network Advertising Initiative website](https://thenai.org/about-online-advertising/) at [Understanding Digital Advertising - NAI: Network Advertising Initiative (thenai.org)](https://thenai.org/about-online-advertising/)
+If you want learn more about interest-based advertising and cross-device linking, you may find it useful to visit the [**Network Advertising Initiative website**](https://thenai.org/about-online-advertising/) at [**Understanding Digital Advertising - NAI: Network Advertising Initiative (thenai.org)**](https://thenai.org/about-online-advertising/)
 
 In general, when we share information about your use of our Site with our third parties, we do not pass to them any personally identifiable information obtained through cookies used on our Site. 
 
-You can find information about how we process personal data in our [Privacy Notice.](https://www.finishdishwashing.com/policies/privacy-policy/)
+You can find information about how we process personal data in our [**Privacy Notice.**](https://www.finishdishwashing.com/policies/privacy-policy/)
 
 How can you control cookies?
+----------------------------
 
-v Opt-in model: In the European Economic Area and United Kingdom: except where allowed by applicable law, we place cookies after having received your consent through the cookie banner which you will see when you first use our Site, or via our Cookie Consent Portal which is continually available on the Site, or through your browser settings (see below for more details). Please note that certain functionalities embedded in the Site require the setting of cookies by third parties in order to work. These cookies are set only when you interact with the functionality. At each place on our Site where this applies, you will be told that cookies will be placed on your device by the relevant third party and that by clicking on the given functionality, you are indicating that you consent to the setting of cookies by that third party.
+* **Opt-in model:** In the European Economic Area and United Kingdom: except where allowed by applicable law, we place cookies after having received your consent through the cookie banner which you will see when you first use our Site, or via our Cookie Consent Portal which is continually available on the Site, or through your browser settings (see below for more details). Please note that certain functionalities embedded in the Site require the setting of cookies by third parties in order to work. These cookies are set only when you interact with the functionality. At each place on our Site where this applies, you will be told that cookies will be placed on your device by the relevant third party and that by clicking on the given functionality, you are indicating that you consent to the setting of cookies by that third party.
+* **Opt-out model:** In countries outside of the European Economic Area, or United Kingdom: except where prohibited by applicable law in your country, we place cookies when you visit our Site, however, you can opt-out from cookies any time via either the Cookie Consent Portal, or your browser settings (see below for more details).
 
-v Opt-out model: In countries outside of the European Economic Area, or United Kingdom: except where prohibited by applicable law in your country, we place cookies when you visit our Site, however, you can opt-out from cookies any time via either the Cookie Consent Portal, or your browser settings (see below for more details).
-
-Cookie Consent Portal: We provide a tool on our Site that referred to as the “Cookie Consent Portal”). You can change your cookie preferences (except for strictly necessary cookies, including those are needed for transmission of communications and the proper functioning of the Site) at any time by clicking on the Cookie Consent Portal buttons. You can find the Cookie Consent Portal on the Site whenever you visit it; however, there may be circumstances when it is unavailable (e.g. downtime, error, you don\`t allow Javascript etc.). In this case you can change cookie preferences in your browser, as explained below.
+**Cookie Consent Portal:** We provide a tool on our Site that referred to as the “Cookie Consent Portal”). You can change your cookie preferences (except for strictly necessary cookies, including those are needed for transmission of communications and the proper functioning of the Site) at any time by clicking on the Cookie Consent Portal buttons. You can find the Cookie Consent Portal on the Site whenever you visit it; however, there may be circumstances when it is unavailable (e.g. downtime, error, you don\`t allow Javascript etc.). In this case you can change cookie preferences in your browser, as explained below.
 
 Your browser: You can change your cookie preferences by changing your browser settings. The majority of web browsers accept cookies, but you can usually change the web browser’s settings to refuse new cookies, disable existing ones or simply let you know when new ones are sent to your device. In order to do this, follow the instructions provided by your browser (usually located within the “Help”, “Tools”, “Settings” or “Edit” facility). In addition, certain third parties have additional opt-out browser add-ons that you can enable on your browser, for example see the browser add-on by Google regarding Google Analytics https://tools.google.com/dlpage/gaoptout/.
 
-Your mobile phone: You can change settings to opt-in or opt-out from receiving personalized interest-based advertising within your mobile phone or similar device usually in the “Setting” menu. (For example, in iOS: visit Settings - Privacy - Advertising - Limit Ad Tracking. Similarly, in Android: visit Settings - Google - Ads - Opt out of interest-based ads.)
+**Your mobile phone:** You can change settings to opt-in or opt-out from receiving personalized interest-based advertising within your mobile phone or similar device usually in the “Setting” menu. (For example, in iOS: visit Settings - Privacy - Advertising - Limit Ad Tracking. Similarly, in Android: visit Settings - Google - Ads - Opt out of interest-based ads.)
 
 Please note that the opt-outs described above will apply only to the specific browser or device from which you opt out, and therefore you will need to opt out separately on all of your browsers and devices.
 
-In addition, disabling a cookie or category of cookie does not delete the cookie from your device; you will need to do this yourself within your browser. Please note if you decide to delete all cookies, your “opt-out cookie” will be also deleted, and you will need to opt-out again if you still do not want to receive certain categories of cookies. 
+In addition, disabling a cookie or category of cookie does not delete the cookie from your device; you will need to do this yourself within your browser. Please note if you decide to delete all cookies, your “opt-out cookie” will be also deleted, and you will need to opt-out again if you still do not want to receive certain categories of cookies. 
 
-You can visit [http://www.attacat.co.uk/resources/cookies/how-to-ban](http://www.attacat.co.uk/resources/cookies/how-to-ban), or the NAI\`s website [https://thenai.org/about-online-advertising/faq/?tab=3](https://thenai.org/about-online-advertising/faq/?tab=3) for more information on how to manage cookies.
+You can visit [**http://www.attacat.co.uk/resources/cookies/how-to-ban**](http://www.attacat.co.uk/resources/cookies/how-to-ban), or the NAI\`s website [**https://thenai.org/about-online-advertising/faq/?tab=3**](https://thenai.org/about-online-advertising/faq/?tab=3) for more information on how to manage cookies.
 
-How long do cookies last? 
+How long do cookies last?
+-------------------------
 
 The cookies used on our Site last for maximum of 13 months. Session cookies expire immediately after you finish your browsing session on our Site.
 
 Changes to our use of cookies
+-----------------------------
 
 Any changes to our use of cookies for this Site will be posted on the Cookie Consent Portal.
 
 If necessary, we may also reflect these changes in our cookie policy and update it from time to time. Where those changes to our cookie policy are material, we will take steps to let you know. Please always verify whether you have consulted the latest version of the cookie policy which is available on the Site.
 
 How to contact us?
+------------------
 
 If you have any queries in relation to this notice or our use of cookies, please contact us at: \[PrivacyOffice@rb.com. You may also write to us at: RB Global Privacy Office, Turner House, 103-105 Bath Road Slough, SL1 3UH\].
 
-Last update: 9 April 2020.
+_Last update: 9 April 2020._
 
 About
 
