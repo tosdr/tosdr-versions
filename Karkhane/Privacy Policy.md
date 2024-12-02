@@ -25,12 +25,6 @@ Privacy Policy
 
 #### **پربازدیدها**
 
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://karkhane.org/app/uploads/2024/11/p1-95x65.jpg)](https://karkhane.org/6098/a_critic_of_workerbee/)[نقدی بر فیلم “زنبور کارگر”](https://karkhane.org/6098/a_critic_of_workerbee/)
-* [![inflation and capitalism](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![inflation and capitalism](https://karkhane.org/app/uploads/2024/02/Capit-95x65.jpeg)](https://karkhane.org/5376/nirooyekar-dastmozad/)[نیروی کار، ‌دستمزد و تورم](https://karkhane.org/5376/nirooyekar-dastmozad/)
 * [![چه باید بخوریم؟](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![چه باید بخوریم؟](https://karkhane.org/app/uploads/2024/04/Fat-Capitalist-95x65.jpg)](https://karkhane.org/5433/what-to-eat/)[چه باید بخوریم؟](https://karkhane.org/5433/what-to-eat/)
@@ -49,12 +43,18 @@ Privacy Policy
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![](https://karkhane.org/app/uploads/2024/10/1-95x65.jpg)](https://karkhane.org/5958/is_there_an_accident/)[حادثه‌ای در کار است یا نه؟!](https://karkhane.org/5958/is_there_an_accident/)
-* [![خودکشی و استثمار: بر دوراهیِ مقاومت و تسلیم](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![خودکشی و استثمار: بر دوراهیِ مقاومت و تسلیم](https://karkhane.org/app/uploads/2021/04/xodkosi-o-estesmar-95x65.jpg)](https://karkhane.org/2592/%d8%ae%d9%88%d8%af%da%a9%d8%b4%db%8c-%d9%88-%d8%a7%d8%b3%d8%aa%d8%ab%d9%85%d8%a7%d8%b1/)[خودکشی و استثمار: بر دوراهیِ مقاومت و تسلیم](https://karkhane.org/2592/%d8%ae%d9%88%d8%af%da%a9%d8%b4%db%8c-%d9%88-%d8%a7%d8%b3%d8%aa%d8%ab%d9%85%d8%a7%d8%b1/)
-* [![عدالت‌خواهانِ جوان (۱)؛ مشاورانِ اقتصاد مقاومتی و مبلغانِ تولید](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    ![](https://karkhane.org/app/uploads/2024/11/p1-95x65.jpg)](https://karkhane.org/6098/a_critic_of_workerbee/)[نقدی بر فیلم “زنبور کارگر”](https://karkhane.org/6098/a_critic_of_workerbee/)
+* [![inflation and capitalism](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![عدالت‌خواهانِ جوان (۱)؛ مشاورانِ اقتصاد مقاومتی و مبلغانِ تولید](https://karkhane.org/app/uploads/2023/04/edalatxahan-e-javan-1-95x65.jpg)](https://karkhane.org/4909/edalatxahan-e-javan-1/)[عدالت‌خواهان جوان (۱)؛ مشاورانِ اقتصاد مقاومتی و مبلغانِ تولید](https://karkhane.org/4909/edalatxahan-e-javan-1/)
+    ![inflation and capitalism](https://karkhane.org/app/uploads/2024/02/Capit-95x65.jpeg)](https://karkhane.org/5376/nirooyekar-dastmozad/)[نیروی کار، ‌دستمزد و تورم](https://karkhane.org/5376/nirooyekar-dastmozad/)
+* [![مسکن: نیاز ما، سود آن‌ها](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![مسکن: نیاز ما، سود آن‌ها](https://karkhane.org/app/uploads/2020/08/maskan-nyaz-e-ma-sud-e-anha-95x65.jpg)](https://karkhane.org/2136/%d9%85%d8%b3%da%a9%d9%86-%d9%86%db%8c%d8%a7%d8%b2-%d9%85%d8%a7%d8%8c-%d8%b3%d9%88%d8%af-%d8%a2%d9%86%d9%87%d8%a7/)[مسکن: نیاز ما، سود آن‌ها](https://karkhane.org/2136/%d9%85%d8%b3%da%a9%d9%86-%d9%86%db%8c%d8%a7%d8%b2-%d9%85%d8%a7%d8%8c-%d8%b3%d9%88%d8%af-%d8%a2%d9%86%d9%87%d8%a7/)
+* [![کتابچه‌ی راهنمای قراردادِ کار و مزد 1400](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![کتابچه‌ی راهنمای قراردادِ کار و مزد 1400](https://karkhane.org/app/uploads/2021/06/ketabce-rahnama-e-qarardad-e-kar-o-mozd-1400-95x65.jpg)](https://karkhane.org/2865/%da%a9%d8%aa%d8%a7%d8%a8%da%86%d9%87-%d8%b1%d8%a7%d9%87%d9%86%d9%85%d8%a7%db%8c-%d9%82%d8%b1%d8%a7%d8%b1%d8%af%d8%a7%d8%af-%da%a9%d8%a7%d8%b1-%d9%88-%d9%85%d8%b2%d8%af-1400/)[کتابچه‌ی راهنمای قرارداد کار و مزد ۱۴۰۰](https://karkhane.org/2865/%da%a9%d8%aa%d8%a7%d8%a8%da%86%d9%87-%d8%b1%d8%a7%d9%87%d9%86%d9%85%d8%a7%db%8c-%d9%82%d8%b1%d8%a7%d8%b1%d8%af%d8%a7%d8%af-%da%a9%d8%a7%d8%b1-%d9%88-%d9%85%d8%b2%d8%af-1400/)
 
 * [Facebook](https://www.facebook.com/--107914377686249)
 * [YouTube](https://www.youtube.com/channel/UCnz481dcaM1p7c3oDR5Ot9A)
