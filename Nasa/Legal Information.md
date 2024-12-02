@@ -247,7 +247,7 @@ Back
 
 ### NASA’s Commercial Partners Make Progress on Low Earth Orbit Projects
 
-article 6 days ago](https://www.nasa.gov/general/nasas-commercial-partners-make-progress-on-low-earth-orbit-projects/)[![Europa Clipper illustration](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia26443-spacecraft-illustration.jpg?w=1024)
+article 7 days ago](https://www.nasa.gov/general/nasas-commercial-partners-make-progress-on-low-earth-orbit-projects/)[![Europa Clipper illustration](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia26443-spacecraft-illustration.jpg?w=1024)
 
 5 min read
 
@@ -263,25 +263,25 @@ article 7 days ago](https://science.nasa.gov/missions/xrism/nasa-jaxa-xrism-miss
 
 ### Highlights
 
-[![Sierra Space’s LIFE (Large Integrated Flexible Environment) habitat following a full-scale ultimate burst pressure test at NASA’s Marshall Space Flight Center in Huntsville, Alabama](https://www.nasa.gov/wp-content/uploads/2024/11/sierra-space-image.png?w=1024)
+[![Framed by vegetation in the foreground and against the backdrop of a black night sky, NASA’s SLS (Space Launch System) rocket carrying the Orion spacecraft launches on the Artemis I flight test on Nov. 16, 2022, from Launch Complex 39B at NASA’s Kennedy Space Center in Florida.](https://www.nasa.gov/wp-content/uploads/2024/12/virtual-backgrounds-review-110424-page-03.png?w=1024)
+
+8 min read
+
+### New Artemis Virtual Meeting Backgrounds Released Celebrating Artemis I, Looking to Artemis II and Beyond
+
+article 1 min ago](https://www.nasa.gov/humans-in-space/new-artemis-virtual-meeting-backgrounds-released-celebrating-artemis-i-looking-to-artemis-ii-and-beyond/)[![Sierra Space’s LIFE (Large Integrated Flexible Environment) habitat following a full-scale ultimate burst pressure test at NASA’s Marshall Space Flight Center in Huntsville, Alabama](https://www.nasa.gov/wp-content/uploads/2024/11/sierra-space-image.png?w=1024)
 
 6 min read
 
 ### NASA’s Commercial Partners Make Progress on Low Earth Orbit Projects
 
-article 6 days ago](https://www.nasa.gov/general/nasas-commercial-partners-make-progress-on-low-earth-orbit-projects/)[![A close-up of a conduction chamber for testing the heat conduction properties of materials and equipment to be used in Artemis missions.](https://www.nasa.gov/wp-content/uploads/2024/11/ksh0121.jpg?w=1024)
+article 7 days ago](https://www.nasa.gov/general/nasas-commercial-partners-make-progress-on-low-earth-orbit-projects/)[![A close-up of a conduction chamber for testing the heat conduction properties of materials and equipment to be used in Artemis missions.](https://www.nasa.gov/wp-content/uploads/2024/11/ksh0121.jpg?w=1024)
 
 4 min read
 
 ### NASA Marshall Thermal Engineering Lab Provides Key Insight to Human Landing System
 
-article 1 week ago](https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-marshall-thermal-engineering-lab-provides-key-insight-to-human-landing-system/)[![NASA astronaut and Expedition 72 Flight Engineer Nick Hague pedals on the Cycle Ergometer with Vibration Isolation and Stabilization (CEVIS), an exercise cycle located aboard the International Space Station's Destiny laboratory module. CEVIS provides aerobic and cardiovascular conditioning through recumbent (leaning back position) or upright cycling activities.](https://images-assets.nasa.gov/image/iss072e034702/iss072e034702~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint)
-
-8 min read
-
-### Preguntas frecuentes: La verdadera historia del cuidado de la salud de los astronautas en el espacio
-
-article 1 week ago](https://www.nasa.gov/missions/station/preguntas-frecuentes-la-verdadera-historia-del-cuidado-de-la-salud-de-los-astronautas-en-el-espacio/)
+article 1 week ago](https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-marshall-thermal-engineering-lab-provides-key-insight-to-human-landing-system/)
 
 ### Highlights
 
@@ -291,7 +291,7 @@ article 1 week ago](https://www.nasa.gov/missions/station/preguntas-frecuentes-l
 
 ### NASA AI, Open Science Advance Disaster Research and Recovery
 
-article 5 days ago](https://science.nasa.gov/open-science/artificial-intelligence-hurricane-response/)[![NASA Data Reveals Role of Green Spaces in Cooling Cities](https://science.nasa.gov/wp-content/uploads/2024/11/sanaa-oli-20240608-1440.jpg)
+article 6 days ago](https://science.nasa.gov/open-science/artificial-intelligence-hurricane-response/)[![NASA Data Reveals Role of Green Spaces in Cooling Cities](https://science.nasa.gov/wp-content/uploads/2024/11/sanaa-oli-20240608-1440.jpg)
 
 5 min read
 
@@ -319,7 +319,7 @@ article 3 days ago](https://science.nasa.gov/solar-system/skywatching/night-sky-
 
 ### Amendment 73: D.13 Astrophysics Pioneers Substantial Revisions
 
-article 5 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-73-d-13-astrophysics-pioneers-substantial-revisions/)[![Amendment 71: F.11 Stand-Alone Landing Site-Agnostic Payloads and Research Investigations on the Surface of the Moon Final Text and Due Dates Released.](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/lunar-science/science-payloads/prospect/Prospect_wide_horizontal.png)
+article 6 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-73-d-13-astrophysics-pioneers-substantial-revisions/)[![Amendment 71: F.11 Stand-Alone Landing Site-Agnostic Payloads and Research Investigations on the Surface of the Moon Final Text and Due Dates Released.](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/lunar-science/science-payloads/prospect/Prospect_wide_horizontal.png)
 
 2 min read
 
@@ -347,7 +347,7 @@ article 6 days ago](https://science.nasa.gov/researchers/solicitations/roses-202
 
 ### EXCITE (EXoplanet Climate Infrared TElescope)
 
-article 6 days ago](https://science.nasa.gov/mission/excite/)
+article 7 days ago](https://science.nasa.gov/mission/excite/)
 
 ### Highlights
 
@@ -357,7 +357,7 @@ article 6 days ago](https://science.nasa.gov/mission/excite/)
 
 ### OSDR at AGU 2024
 
-article 4 days ago](https://www.nasa.gov/osdr-at-agu-2024-2/)[![Amendment 74: A.63 Ecohydrology, a New Opportunity in ROSES-24](https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000002/GSFC_20171208_Archive_e000002~large.jpg)
+article 5 days ago](https://www.nasa.gov/osdr-at-agu-2024-2/)[![Amendment 74: A.63 Ecohydrology, a New Opportunity in ROSES-24](https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000002/GSFC_20171208_Archive_e000002~large.jpg)
 
 1 min read
 
@@ -369,7 +369,7 @@ article 5 days ago](https://science.nasa.gov/researchers/solicitations/roses-202
 
 ### Amendment 73: D.13 Astrophysics Pioneers Substantial Revisions
 
-article 5 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-73-d-13-astrophysics-pioneers-substantial-revisions/)
+article 6 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-73-d-13-astrophysics-pioneers-substantial-revisions/)
 
 ### Highlights
 
@@ -423,7 +423,7 @@ article 2 weeks ago](https://www.nasa.gov/centers-and-facilities/ames/what-is-bi
 
 ### Aaron Yazzie: Bridging Indigenous Heritage and Space Exploration
 
-article 4 days ago](https://www.nasa.gov/learning-resources/bridging-indigenous-heritage-and-space-exploration/)[![NASA Science Activation Opportunities Near You](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/2024/SCIACT_ICON_wTEXT_3-COLOR-01.png)
+article 5 days ago](https://www.nasa.gov/learning-resources/bridging-indigenous-heritage-and-space-exploration/)[![NASA Science Activation Opportunities Near You](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/2024/SCIACT_ICON_wTEXT_3-COLOR-01.png)
 
 1 min read
 
@@ -451,7 +451,7 @@ article 6 days ago](https://science.nasa.gov/get-involved/citizen-science/this-t
 
 ### NASA’s Commercial Partners Make Progress on Low Earth Orbit Projects
 
-article 6 days ago](https://www.nasa.gov/general/nasas-commercial-partners-make-progress-on-low-earth-orbit-projects/)[![Students at NASA's Jet Propulsion Laboratory pose for photos around the laboratory wearing their eclipse glasses.](https://www.nasa.gov/wp-content/uploads/2023/03/38540233062-abf67c18dd-o.jpeg?w=985)
+article 7 days ago](https://www.nasa.gov/general/nasas-commercial-partners-make-progress-on-low-earth-orbit-projects/)[![Students at NASA's Jet Propulsion Laboratory pose for photos around the laboratory wearing their eclipse glasses.](https://www.nasa.gov/wp-content/uploads/2023/03/38540233062-abf67c18dd-o.jpeg?w=985)
 
 2 min read
 
