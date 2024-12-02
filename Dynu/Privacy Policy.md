@@ -240,10 +240,10 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-#### Spin up a new instance of Virtual Private Server with your preferred operating system in minutes!
+#### Would cloud based computing and networking resources help your business? Check out more details about cloud computing!
 
   
-[Deploy Instance](https://www.dynu.com/en-US/ControlPanel/AddVPS)  
+[What is cloud computing?](https://www.dynu.com/What-Is-Cloud-Computing)  
   
 
 ### News
