@@ -6,19 +6,15 @@ TunnelBear.com relies on JavaScript to function properly!
 
 Offer ends in
 
-05
-
-days
-
-09
+08
 
 hours
 
-029
+012
 
 mins
 
-012
+011
 
 secs
 
