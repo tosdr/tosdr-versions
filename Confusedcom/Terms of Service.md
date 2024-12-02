@@ -215,8 +215,6 @@ How we make money
 
 Depending on the product or service you choose we'll get a variable or fixed fee from our partners. Whatever you do on our site, it's always free for you to use.
 
-The amount we receive has no bearing on the prices you pay or the order of your results. The companies offering these products or services also don't - and legally can't - inflate prices based on how much they pay us.
-
 If you've got an opinion, we want to hear it
 
 Our customer research community was created to gather your thoughts on Confused.com. It’s packed with forums, quick polls, and focus groups, and by taking part in the research, you could win prizes or even get paid.
