@@ -1,4 +1,4 @@
-**CYBER MONDAY IS LIVE!** Get your gift cards [here.](https://giftcards.townandcountrymarkets.com/)
+**CYBER MONDAY GIFT CARDS ARE SOLD OUT! See you next year!**
 
 * My Store:
     
