@@ -173,6 +173,8 @@ Other legal information
 * Privacy Policy
 * [Payment Methods & Information](https://ifastnet.com/payment-methods.php)
 
+Powered by [WHMCompleteSolution](https://www.whmcs.com/)
+
 Get Your Website Online Today!
 ------------------------------
 
