@@ -3,13 +3,13 @@ Here are the [instructions on how to enable JavaScript in your web browser](http
 
 [Click to view our Accessibility Statement or contact us with accessibility-related questions](https://drop.com/accessibility)
 
-[The Black Friday Bash Is LIVE
+[Cyber Monday Has Arrived
 
-We slash the prices, you crash the party.
+And so have the deals.
 
 SHOP NOW
 
-_keyboard\_arrow\_right_](https://drop.com/featured/black-friday)
+_keyboard\_arrow\_right_](https://drop.com/featured/cyber-monday)
 
 Free Standard Shipping in the US on orders over $99
 
