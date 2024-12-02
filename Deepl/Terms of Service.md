@@ -1,6 +1,6 @@
 [![DeepL Logo](https://static.deepl.com/img/logo/deepl-logo-blue.svg)![DeepL](https://static.deepl.com/img/logo/deepl-logo-text-blue.svg)](https://www.deepl.com/en/translator)
 
-[Home](https://www.deepl.com/en/home)
+Home
 
 [DeepL Translator](https://www.deepl.com/en/translator)[DeepL Write](https://www.deepl.com/en/write)
 
