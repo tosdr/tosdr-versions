@@ -442,10 +442,8 @@ Utility
 
 Menu
 
-Badgr Terms Of Service | Policy
-===============================
-
-**CANVAS BADGES TERMS OF SERVICE**
+Canvas Badges Terms of Service | Policy
+=======================================
 
 **_Last Updated:_** 01 November 2024
 
@@ -453,8 +451,8 @@ Instructure, Inc.’s (and its affiliate(s), collectively “**Instructure**”)
 
 **BY USING OUR SERVICE, YOU ARE AGREEING TO USE CANVAS BADGES IN ACCORDANCE WITH THESE TERMS, AND THE** [**DPA**](https://www.instructure.com/policies/badgr-data-processing-addendum)**, AND TO REVIEW THE APPLICABLE CANVAS BADGES POLICIES. PLEASE REVIEW THE APPLICABLE PRIVACY POLICIES** [**HERE**](https://www.instructure.com/policies/privacy-badgr)**. IF YOU DO NOT AGREE TO BE BOUND BY THESE TERMS OR DISAGREE WITH THE INSTRUCTURE’S PRIVACY PRACTICES, YOU SHOULD AND MAY NOT ACCESS OR USE CANVAS BADGES. PLEASE ALSO NOTE THAT THESE TERMS ARE SUBJECT TO CHANGE.**
 
-**1\.** **The Canvas Badges Service.**
---------------------------------------
+1\. The Canvas Badges Service.
+------------------------------
 
 **1.1 Description.** Canvas Badges is an online platform to create, curate, issue, receive, explore, and share digital badges and micro credentials (collectively “**Badges**”). Users of Canvas Badges can access tools to issue Badges to learners and other persons eligible to receive a Badge (each a “**Badge Recipient**”), as well as associated administrative tools and services. Badge Recipients can utilize Canvas Badges to receive, organize and display Badges. Canvas Badges also includes features that integrate with products and services offered by third parties to facilitate the micro-credentialing process and the sharing of Badges. 
 
@@ -470,8 +468,8 @@ Instructure, Inc.’s (and its affiliate(s), collectively “**Instructure**”)
 
 **1.4** **Prohibited Uses.** Except for access to facilitate Badge sharing under the Badge Connect™ API open standard as described in Section 1.2.b. above or where you have otherwise received express permission from Instructure, you are at all times prohibited from accessing or otherwise using Canvas Badges: (a) to build a competitive product or service or (b) in conjunction with any other services that you sell or otherwise monetize. You are at all times prohibited from circumventing, or attempting to circumvent, any limitations that we impose on your account, User Content, or other services provided through Canvas Badges including without limitation the Canvas Badges APIs.
 
-**2\.** **Account Management.**
--------------------------------
+2\. Account Management.
+-----------------------
 
 **2.1** **Registered Users.** Some Canvas Badges features are only available if you register a user account. Individuals who register an account (each a “**Registered User**”) have access to additional features and functions of Canvas Badges, for example, only Registered Users can create, curate, and issue Badges.
 
@@ -493,8 +491,8 @@ Instructure, Inc.’s (and its affiliate(s), collectively “**Instructure**”)
 
 **2.6** **Eligibility.** Unless otherwise agreed to in writing between Instructure and the Business Account Owner, (a) you may only access and use Canvas Badges if you can form a binding contract with Instructure, and (b) only in compliance with these Terms and all applicable laws, and (c) you must be 13 years old or older to use Canvas Badges.
 
-**3\.** **User Content.**
--------------------------
+3\. User Content.
+-----------------
 
 **3.1** **User Content.** All information, data, text, software, music, sound, photographs, graphics, video, messages, tags and/or other materials shared through Canvas Badges, whether publicly posted or privately transmitted (“**User Content**”), are the responsibility of the Account Owner. You agree to not post any User Content that you did not create or that you do not possess the right, title or interest in and to, including, without limitation, all copyright and rights of publicity contained therein.
 
@@ -502,8 +500,8 @@ Instructure, Inc.’s (and its affiliate(s), collectively “**Instructure**”)
 
 **3.3** **Feedback.** You acknowledge and agree that any suggestions, comments, ideas, improvements or other feedback concerning Canvas Badges (collectively “**Feedback**”), you provide to Instructure is non-confidential and Instructure is hereby granted a non-exclusive, transferable, royalty-free, sublicensable, irrevocable, perpetual, worldwide right and license to use, disclose, reproduce, modify, license, transfer, and otherwise utilize or distribute your Feedback in connection with Canvas Badges or other products and services offered by Instructure, without credit or compensation to you.
 
-**4\.** **Our Rights.**
------------------------
+4\. Our Rights.
+---------------
 
 **4.1** **Ownership and Content License Grant.** Canvas Badges contain content (“**Canvas Badges Content**”) that may be protected by trademark, patent, copyright, trade secret, or other proprietary rights and laws. Instructure grants you a limited license to access and use Canvas Badges and Canvas Badges Content, provided that you keep all copyright or other proprietary notices intact. Using Canvas Badges does not give you ownership of any intellectual property rights in Canvas Badges or the Canvas Badges Content you access. The foregoing license is subject to these Terms and does not permit use of any data mining, robots, scraping or similar data gathering or extraction methods. Any use of Canvas Badges or the Canvas Badges Content other than as specifically authorized herein is strictly prohibited and will terminate your license. The technology and software, including source code, underlying Canvas Badges is the property of Instructure (“**Software**”). Any rights not expressly granted herein are reserved by Instructure.
 
@@ -511,13 +509,13 @@ Instructure, Inc.’s (and its affiliate(s), collectively “**Instructure**”)
 
 **4.3** **Our Trademarks.** The name and logo of Instructure and Canvas Badges, and other names and logos we use in connection with Canvas Badges are trademarks and service marks of Instructure (collectively the “**Marks**”). Other company, product, and service names and logos used and displayed via Canvas Badges may be trademarks or service marks of their respective owners who may or may not endorse or be affiliated with or connected to Instructure. Nothing in these Terms shall be construed as granting, by implication, estoppel, or otherwise, any license or right to use any of Marks, without our prior written permission in each instance. All goodwill generated from the use of Marks will inure to our exclusive benefit.
 
-**5\.** **Third Party Content.**
---------------------------------
+5\. Third Party Content.
+------------------------
 
 Under no circumstances will Instructure be liable in any way for any content posted or otherwise shared in Canvas Badges by third parties or links to websites and services maintained by third parties. We cannot guarantee that any such third-party content will be free from any errors or omissions, or for any loss or damage of any kind incurred as a result of the use of any content posted, emailed or otherwise made available via Canvas Badges. Instructure disclaims any responsibility or liability related to your access or use of such third-party content. You acknowledge that Instructure does not pre-screen content, but that Instructure and its designees shall have the right (but not the obligation) in their sole discretion to refuse or remove any content that is available via Canvas Badges. Without limiting the foregoing, Instructure and its designees shall have the right to remove any content, including User Content, which violates these Terms or is deemed by Instructure, in its sole discretion, to be otherwise objectionable. You agree that you must evaluate, and bear all risks associated with, the use of any content, including any reliance on the accuracy, completeness, or usefulness of such content.
 
-**6\.** **Your Responsibilities.**
-----------------------------------
+6\. Your Responsibilities.
+--------------------------
 
 **6.1** **Legal Compliance.** You represent and warrant that you will comply with all laws and regulations applicable to your use of Canvas Badges.
 
@@ -559,36 +557,37 @@ Under no circumstances will Instructure be liable in any way for any content pos
 
 **(6)** in the sole judgment of Instructure, is objectionable or which restricts or inhibits any other person from using or enjoying Canvas Badges, or which may expose Instructure or its users to any harm or liability of any type.
 
-**7\.** **Indemnification.**
-----------------------------
+7\. Indemnification.
+--------------------
 
 To the extent not prohibited by law, you agree to indemnify, defend and hold harmless, Instructure, its employees, officers, directors, agents, suppliers and licensors from and against any and all damages, losses, liabilities and costs, including without limitation, reasonable attorneys’ fees, arising from your access and use of Canvas Badges, your user account, your violation of these Terms, your User Content, and the account for which you are the Account Owner, including the activities of any Administrator, Editor, or Staff Member affiliated with such account.
 
-**9\.** **Termination.**
-------------------------
+9\. Termination.
+----------------
 
 You agree that Instructure, in its sole discretion, may suspend or terminate your account (or any part thereof) or use of Canvas Badges and remove and discard any content within Canvas Badges, for any reason, including, without limitation, for lack of use or if we believe that you have violated or acted inconsistently with the letter or spirit of these Terms. Cause for such termination shall include, but not be limited to: (a) any violation of these Terms; (b) any request or order issued by a court or a law enforcement or other government official; (c) a request by you (for example, self-initiated account deletions); (d) discontinuance or material modification of Canvas Badges; (e) unexpected technical or security issues or problems; (f) extended periods of inactivity; and (g) your engagement in fraudulent or illegal activities. Instructure shall not be liable to you or any third party for any termination of your account. 
 
 If you are a Business Account Owner, we can, upon request, delete the data in your Business Account; provided that prior to making such request, you have deleted all Badge classes and revoked all issued Badges. Please note, however, that revocation of issued Badges will result in the Badges becoming unverifiable which is contrary to the intended purpose of the Open Badge Specification. As a reminder, issued Badges and their associated meta-data remain viewable in Canvas Badges until such time as the Badge Recipient requests deletion of the Badge or the issuer of the Badge affirmatively deletes the Badge.
 
-**10\.** **DISCLAIMER OF WARRANTIES.**
+10\. DISCLAIMER OF WARRANTIES.
+------------------------------
 
 YOUR USE OF CANVAS BADGES IS AT YOUR SOLE RISK. CANVAS BADGES IS PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS, WITH ALL FAULTS. INSTRUCTURE EXPRESSLY DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT, NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT, AND ANY WARRANTIES ARISING OUT OF COURSE OF DEALING OR USAGE OF TRADE, TO THE MAXIMUM AMOUNT PERMITTED BY LAW. INSTRUCTURE MAKES NO WARRANTY THAT: (A) CANVAS BADGES WILL MEET YOUR REQUIREMENTS; (B) CANVAS BADGES WILL BE UNINTERRUPTED, TIMELY, SECURE OR ERROR-FREE; (C) THE RESULTS THAT MAY BE OBTAINED FROM USE OF CANVAS BADGES WILL BE ACCURATE OR RELIABLE; (D) THE CONTENT AVAILABLE THROUGH CANVAS BADGES IS OF A PARTICULAR QUALITY, IS ACCURATE, CURRENT OR COMPLETE; OR (E) THAT ANY ERRORS IN CANVAS BADGES WILL BE CORRECTED. ANY MATERIAL DOWNLOADED FROM OR OTHERWISE ACCESSED THROUGH CANVAS BADGES IS ACCESSED AT YOUR OWN RISK, AND YOU SHALL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR PROPERTY OR PERSON, INCLUDING, BUT NOT LIMITED TO, YOUR COMPUTER SYSTEM AND ANY DEVICE YOU USE TO ACCESS CANVAS BADGES, OR ANY OTHER LOSS THAT RESULTS FROM ACCESSING SUCH MATERIALS.
 
-**11\.** **LIMITATION OF LIABILITY.**
--------------------------------------
+11\. LIMITATION OF LIABILITY.
+-----------------------------
 
 YOU EXPRESSLY ABSOLVE AND RELEASE INSTRUCTURE FROM ANY CLAIM OF HARM RESULTING FROM A CAUSE BEYOND INSTRUCTURE’S CONTROL. YOU FURTHER AGREE THAT IN NO EVENT SHALL INSTRUCTURE AND ITS SUPPLIERS BE LIABLE FOR ANY DAMAGES OTHER THAN DIRECT DAMAGES, OR ANY LOSS OF USE, DATA BUSINESS, OR PROFITS. THIS WILL BE REGARDLESS OF WHETHER OR NOT INSTRUCTURE OR ANY OF ITS PARTNERS OR SUPPLIERS HAS BEEN WARNED OF THE POSSIBILITY OF SUCH DAMAGES. ADDITIONALLY, INSTRUCTURE AND ITS SUPPLIERS WILL NOT BE LIABLE TO YOU FOR MORE THAN ANY AMOUNTS RECEIVED BY INSTRUCTURE FROM YOU AS A RESULT OF YOUR PERSONAL USE OF CANVAS BADGES IN THE 12 MONTHS PRECEDING YOUR CLAIM. IF YOU HAVE NOT PAID INDIVIDUALLY ANY AMOUNTS IN THE 12 MONTHS PRECEDING YOUR CLAIM, INSTRUCTURE’S SOLE AND EXCLUSIVE LIABILITY SHALL BE NO MORE THAN $50. MOREOVER, INSTRUCTURE SHALL NOT BE LIABLE FOR THE LOSS OR FAILURE TO STORE YOUR CONTENT, AND YOU UNDERSTAND AND AGREE THAT BY USING CANVAS BADGES, YOU AGREE TO WAIVE THE RIGHT TO A TRIAL BY JURY AND THE RIGHT TO PARTICIPATE IN A CLASS ACTION RELATED TO USE OF CANVAS BADGES OR BREACH OF THESE TERMS.
 
-**12\.** **INFRINGEMENT.**
---------------------------
+12\. INFRINGEMENT.
+------------------
 
 We respect the intellectual property of others and ask that you do too. We respond to notices of alleged infringement after receipt of a proper notice that complies with the law and is received by our designated agent. We reserve the right to delete or disable content alleged to be infringing and terminate accounts of repeat infringers. If you believe that any content in Canvas Badges in a way that constitutes infringement, please provide our designated agent with the following information: (a) an electronic or physical signature of the person authorized to act on behalf of the rights owner; (b) a description of the content you claim is being infringed; (c) a description or link to the location of the material claim is infringing; (d) your physical address, telephone number and e-mail address; (e) a statement that you have a good faith belief that the content is not authorized by the rights owner, its agent or the law;and (f) a statement, made under penalty of perjury, that the information in your notice is accurate and that you are the owner or authorized to act on behalf of the owner.
 
 Contact information for our designated agent for notice of claims of infringement is as follows: Instructure, Inc. General Counsel; 6330 South 3000 East, Suite 700, Salt Lake City, UT 84121; legal@instructure.com. Instructure may also take any appropriate action in the event it receives a proper counter-notice under the law.
 
-**13\.** **Miscellaneous.**
----------------------------
+13\. Miscellaneous.
+-------------------
 
 **13.1** **Entire Agreement.** These Terms, including documents incorporated by reference, set forth terms governing your use of Canvas Badges, and supersede and replace any other prior or contemporaneous agreements applicable to the subject matter of these Terms. These Terms create no third-party beneficiary rights. These Terms shall inure to the benefit of Instructure and its respective legal representatives, successors, and assigns.
 
@@ -609,7 +608,7 @@ Breadcrumb
 
 1. [Home](https://info.badgr.com/)
 2. [Product Privacy Notice Cent...](https://info.badgr.com/privacy-center)
-3. Badgr Terms Of Service | Po...
+3. Canvas Badges Terms of Serv...
 
 Global HQ
 
