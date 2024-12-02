@@ -329,7 +329,7 @@ Simplifying work one piece at a time
 * [Updates](https://clockify.me/updates/)
 * [Webinars](https://clockify.me/events/)
 * [Tutorials](https://clockify.me/tutorials)
-* [Request a demo](https://clockify.me/empowered-team/bundle-sales/)
+* [Request a demo](https://cake.com/help/contact/sales/)
 
 ##### Follow us
 
