@@ -196,7 +196,7 @@ No items found.
 
 ‍[**_Voir les versions précédentes_**](https://www.ornikar.com/a-propos/conditions-generales-de-vente#versions-precedentes)
 
-**Dernière mise à jour le 6 novembre 2024**
+**Dernière mise à jour le 28 novembre 2024**
 
 Les présentes conditions générales de vente ont pour objet de définir les modalités et conditions applicables à la vente en ligne des biens et services proposés sur le site internet [**www.ornikar.com**](https://www.ornikar.com/) édité par la société MARIANNE FORMATION, société par actions simplifiée au capital de 25.936,35 euros, dont le siège social se situe au 170 Boulevard de la Villette Paris (75019), immatriculée au RCS de Paris sous le n° 799 351 887, disposant d’un établissement sis 12 rue Charles Brunellière à Nantes (44100) immatriculé au RCS de Nantes sous le numéro 799 351 887 00036, exerçant sous l’enseigne ORNIKAR, inscrite en tant qu’organisme de formation sous le numéro de déclaration d’activité 11 75 60689 75 et autorisée à exploiter, sous le numéro E16 044 0009 0, un établissement d’enseignement, à titre onéreux, de la conduite des véhicules à moteur et de la sécurité routière selon arrêté délivré le 31 mars 2016 et renouvelé le 2 février 2021. MARIANNE FORMATION est légalement représentée par Monsieur Benjamin Gaignault, son Président.
 
@@ -237,6 +237,10 @@ Dans les présentes conditions générales de vente, les termes et expressions i
 
 « Evaluation préalable » ou « Heure découverte » : désigne la première heure que Vous effectuez avec un Enseignant afin de déterminer le nombre prévisionnel d’heures de formation pratique, sous forme de fourchette d’heures.
 
+« Formation Initiale » : désigne la tranche de formation de l’élève avant sa Prise Sous Mandat. Elle est constituée d’un Minimum Fourchette déterminé en fonction du Profil Élève. 
+
+« Minimum Fourchette» : désigne la fourchette minimum d’heures recommandées par l’Enseignant.
+
 « Fourchette d’heures recommandées » : désigne la fourchette minimum et maximum d’heures recommandées par l’Enseignant
 
 « Handicap(s) » : Constitue un handicap, au sens de la loi, toute limitation d'activité ou restriction de participation à la vie en société subie dans son environnement par une personne en raison d'une altération substantielle, durable ou définitive d'une ou plusieurs fonctions physiques, sensorielles, mentales, cognitives ou psychiques, d'un polyhandicap ou d'un trouble de santé invalidant.
@@ -244,6 +248,17 @@ Dans les présentes conditions générales de vente, les termes et expressions i
 « Leçon de conduite » (appelée aussi “heure de conduite” ou “cours de conduite” sur notre Site) : désigne la leçon d’une durée d’une heure en formation pratique individuelle, qui comprend notamment le temps nécessaire à l'accueil, à la détermination de l'objectif, à la conduite de 45 à 50 minutes environ, à l’évaluation et au bilan de la leçon.
 
 « Notre Société » ou « ORNIKAR » : désigne la société MARIANNE FORMATION, telle que décrite en en-tête des présentes.
+
+« Prise Sous Mandat » : désigne l’autorisation donnée à MARIANNE FORMATION par l’élève, dans le but de réserver une place d’examen pratique au permis de conduire.
+
+« Profil Élève » : désigne le cumul des critères suivants : type de formation (complète ou partielle) ; la boîte de vitesse (automatique ou manuelle) ; densité de population de la zone géographique (dense, intermédiaire ou rurale) - servant à définir la Formation Initiale. 
+
+Pour le type de formation, :  
+\- elle est qualifiée de « complète » si : Vous n’avez jamais conduit, ou alors, moins de dix (10) heures dans une autre auto-école et que vous souhaitez passer l’examen pratique avec ORNIKAR. 
+
+\- elle est qualifiée de « partielle » si : Vous avez déjà conduit plus de dix (10) heures dans une autre auto-école durant l’année précédent votre achat ORNIKAR et que vous souhaitez passer l’examen pratique avec ORNIKAR.
+
+Pour la densité de population, les zones se distinguent comme suit : zone urbaine dense (de niveau 1 ou 2), zone rurale et zone rurale de faible densité.
 
 « Produit » : désigne tout produit proposé à la vente sur le Site.
 
@@ -607,133 +622,7 @@ Cette formule est valable pour une durée de vingt-quatre (24) mois à compter d
 
 ‍
 
-#### 4.2.3.8 Formule « Pack Permis renforcé 30h Boîte Manuelle : 30 heures de conduite + Elearn (sans Code de la Route) » : 
-
-Ce pack comprend : 
-
-* trente (30) leçons de conduite, dont une heure d’évaluation, avec un Enseignant titulaire du brevet pour l’exercice de la profession d’Enseignant de la conduite automobile et de la sécurité routière (BEPECASER), permettant d’évaluer votre besoin de formation. Cette évaluation est réalisée avant toute formation pratique, conformément à l’article L. 213-2 du code de la route ;
-* Elearn : contenu d’apprentissage de la conduite en ligne découpé en huit (8) parcours thématiques, à savoir : some text
-    * parcours “NEPH” ;
-    * parcours “Comment se déroule la conduite chez Ornikar” ;
-    * parcours “Comment se déroule la 1ère heure de conduite” ;
-    * parcours “Préparation à l’examen” ; 
-    * quatre (4) parcours relatifs aux compétences du Référentiel pour l’Education à une Mobilité Citoyenne REMC (maîtriser / appréhender / circuler / pratiquer)
-
-Chacun de ces parcours se découpe ensuite en cours, puis en section ;
-
-Le prix de cette formule se trouve en Annexe 1.
-
-‍
-
-#### 4.2.3.9 Formule « Pack Permis renforcé 20h Boîte Automatique : 20 heures de conduite + Elearn (sans Code de la Route) » : 
-
-Ce pack comprend : 
-
-* vingt (20) leçons de conduite, dont une heure d’évaluation, avec un Enseignant titulaire du brevet pour l’exercice de la profession d’Enseignant de la conduite automobile et de la sécurité routière (BEPECASER), permettant d’évaluer votre besoin de formation. Cette évaluation est réalisée avant toute formation pratique, conformément à l’article L. 213-2 du code de la route ;
-* Elearn : contenu d’apprentissage de la conduite en ligne découpé en huit (8) parcours thématiques, à savoir : some text
-    * parcours “NEPH” ;
-    * parcours “Comment se déroule la conduite chez Ornikar” ;
-    * parcours “Comment se déroule la 1ère heure de conduite” ;
-    * parcours “Préparation à l’examen” ; 
-    * quatre (4) parcours relatifs aux compétences du Référentiel pour l’Education à une Mobilité Citoyenne REMC (maîtriser / appréhender / circuler / pratiquer)
-
-Chacun de ces parcours se découpe ensuite en cours, puis en section ;
-
-Le prix de cette formule se trouve en Annexe 1.
-
-‍
-
-#### 4.2.3.10 Formule « Permis renforcé + Code de la route » Boîte Manuelle  :
-
-Ce pack comprend : 
-
-* La formation au « Code de la route » telle que décrite à l’article 4.1
-* des contenus pédagogiques présentés sous la forme de séries de questions (plus de 2000 questions) avec leur correction, réparties en dix (10) thèmes, conformément au code de la route et au Référentiel pour l’Education à une Mobilité Citoyenne (REMC). Trois (3) modes d’évaluation des connaissances sont proposés : le mode entraînement, qui Vous permet de vous entrainer à votre rythme, avec une réponse commentée à chaque fin de question ; le mode examen, qui Vous permet de Vous entrainer dans les mêmes conditions que l’examen officiel, avec un temps limité par question ; et enfin le mode thématique qui Vous permet de vous entrainer par thème officiel du REMC pour les approfondir à votre rythme ;  
-      
-    
-* trente-trois (33) leçons de conduite, dont une heure d’évaluation, avec un Enseignant titulaire du brevet pour l’exercice de la profession d’Enseignant de la conduite automobile et de la sécurité routière (BEPECASER), permettant d’évaluer votre besoin de formation. Cette évaluation est réalisée avant toute formation pratique, conformément à l’article L. 213-2 du code de la route ;
-* Elearn : contenu d’apprentissage de la conduite en ligne découpé en huit (8) parcours thématiques, à savoir : some text
-    * parcours “NEPH” ;
-    * parcours “Comment se déroule la conduite chez Ornikar” ;
-    * parcours “Comment se déroule la 1ère heure de conduite” ;
-    * parcours “Préparation à l’examen” ; 
-    * quatre (4) parcours relatifs aux compétences du Référentiel pour l’Education à une Mobilité Citoyenne REMC (maîtriser / appréhender / circuler / pratiquer)
-
-Chacun de ces parcours se découpe ensuite en cours, puis en section ;
-
-Le prix de cette formule se trouve en Annexe 1.
-
-‍
-
-#### 4.2.3.11 Formule « Permis renforcé + Code de la route » Boîte Automatique  :
-
-Ce pack comprend : 
-
-* La formation au « Code de la route » telle que décrite à l’article 4.1
-* des contenus pédagogiques présentés sous la forme de séries de questions (plus de 2000 questions) avec leur correction, réparties en dix (10) thèmes, conformément au code de la route et au Référentiel pour l’Education à une Mobilité Citoyenne (REMC). Trois (3) modes d’évaluation des connaissances sont proposés : le mode entraînement, qui Vous permet de vous entrainer à votre rythme, avec une réponse commentée à chaque fin de question ; le mode examen, qui Vous permet de Vous entrainer dans les mêmes conditions que l’examen officiel, avec un temps limité par question ; et enfin le mode thématique qui Vous permet de vous entrainer par thème officiel du REMC pour les approfondir à votre rythme ;
-* Vingt-trois (23) leçons de conduite, dont une heure d’évaluation, avec un Enseignant titulaire du brevet pour l’exercice de la profession d’Enseignant de la conduite automobile et de la sécurité routière (BEPECASER), permettant d’évaluer votre besoin de formation. Cette évaluation est réalisée avant toute formation pratique, conformément à l’article L. 213-2 du code de la route ;
-* Elearn : contenu d’apprentissage de la conduite en ligne découpé en huit (8) parcours thématiques, à savoir : some text
-    * parcours “NEPH” ;
-    * parcours “Comment se déroule la conduite chez Ornikar” ;
-    * parcours “Comment se déroule la 1ère heure de conduite” ;
-    * parcours “Préparation à l’examen” ; 
-    * quatre (4) parcours relatifs aux compétences du Référentiel pour l’Education à une Mobilité Citoyenne REMC (maîtriser / appréhender / circuler / pratiquer)
-
-Chacun de ces parcours se découpe ensuite en cours, puis en section.
-
-‍
-
-Le prix de cette formule se trouve en Annexe 1.
-
-‍
-
-#### 4.2.3.12 Formule « Permis renforcé + Code de la route + ETG » Boîte Manuelle  :
-
-Ce pack comprend : 
-
-* La formation au « Code de la route » telle que décrite à l’article 4.1
-* des contenus pédagogiques présentés sous la forme de séries de questions (plus de 2000 questions) avec leur correction, réparties en dix (10) thèmes, conformément au code de la route et au Référentiel pour l’Education à une Mobilité Citoyenne (REMC). Trois (3) modes d’évaluation des connaissances sont proposés : le mode entraînement, qui Vous permet de vous entrainer à votre rythme, avec une réponse commentée à chaque fin de question ; le mode examen, qui Vous permet de Vous entrainer dans les mêmes conditions que l’examen officiel, avec un temps limité par question ; et enfin le mode thématique qui Vous permet de vous entrainer par thème officiel du REMC pour les approfondir à votre rythme ;  
-      
-    
-* trente-trois (33) leçons de conduite, dont une heure d’évaluation, avec un Enseignant titulaire du brevet pour l’exercice de la profession d’Enseignant de la conduite automobile et de la sécurité routière (BEPECASER), permettant d’évaluer votre besoin de formation. Cette évaluation est réalisée avant toute formation pratique, conformément à l’article L. 213-2 du code de la route ;
-* Elearn : contenu d’apprentissage de la conduite en ligne découpé en huit (8) parcours thématiques, à savoir : some text
-    * parcours “NEPH” ;
-    * parcours “Comment se déroule la conduite chez Ornikar” ;
-    * parcours “Comment se déroule la 1ère heure de conduite” ;
-    * parcours “Préparation à l’examen” ; 
-    * quatre (4) parcours relatifs aux compétences du Référentiel pour l’Education à une Mobilité Citoyenne REMC (maîtriser / appréhender / circuler / pratiquer)
-
-Chacun de ces parcours se découpe ensuite en cours, puis en section ;
-
-* Inscription à l’Examen Théorique Général (ETG)
-
-Le prix de cette formule se trouve en Annexe 1.
-
-‍
-
-#### 4.2.3.13 Formule « Permis renforcé + Code de la route + ETG » Boîte Automatique  :
-
-Ce pack comprend : 
-
-* La formation au « Code de la route » telle que décrite à l’article 4.1
-* des contenus pédagogiques présentés sous la forme de séries de questions (plus de 2000 questions) avec leur correction, réparties en dix (10) thèmes, conformément au code de la route et au Référentiel pour l’Education à une Mobilité Citoyenne (REMC). Trois (3) modes d’évaluation des connaissances sont proposés : le mode entraînement, qui Vous permet de vous entrainer à votre rythme, avec une réponse commentée à chaque fin de question ; le mode examen, qui Vous permet de Vous entrainer dans les mêmes conditions que l’examen officiel, avec un temps limité par question ; et enfin le mode thématique qui Vous permet de vous entrainer par thème officiel du REMC pour les approfondir à votre rythme ;
-* Vingt-trois (23) leçons de conduite, dont une heure d’évaluation, avec un Enseignant titulaire du brevet pour l’exercice de la profession d’Enseignant de la conduite automobile et de la sécurité routière (BEPECASER), permettant d’évaluer votre besoin de formation. Cette évaluation est réalisée avant toute formation pratique, conformément à l’article L. 213-2 du code de la route ;
-* Elearn : contenu d’apprentissage de la conduite en ligne découpé en huit (8) parcours thématiques, à savoir : some text
-    * parcours “NEPH” ;
-    * parcours “Comment se déroule la conduite chez Ornikar” ;
-    * parcours “Comment se déroule la 1ère heure de conduite” ;
-    * parcours “Préparation à l’examen” ; 
-    * quatre (4) parcours relatifs aux compétences du Référentiel pour l’Education à une Mobilité Citoyenne REMC (maîtriser / appréhender / circuler / pratiquer)
-
-Chacun de ces parcours se découpe ensuite en cours, puis en section.
-
-* Inscription à l’Examen Théorique Général (ETG)
-
-Le prix de cette formule se trouve en Annexe 1.
-
-‍
-
-#### 4.2.3.14 Pack permis complet + 1 heure - Boîte Manuelle
+#### 4.2.3.18 Pack permis complet + 1 heure - Boîte Manuelle
 
 ‍
 
@@ -755,7 +644,7 @@ Le prix de la formule Pack permis complet boite manuelle « _17h de conduite + E
 
 ‍
 
-#### 4.2.3.15 Pack permis complet + 1 heure - Boîte Automatique
+#### 4.2.3.9 Pack permis complet + 1 heure - Boîte Automatique
 
 ‍
 
@@ -774,8 +663,6 @@ Chacun de ces parcours se découpe ensuite en cours, puis en section.
 * Inscription à l’Examen Théorique Général (ETG)
 
 Le prix de la formule Pack permis complet boite manuelle « _17h de conduite + Elearn_ » se trouve en Annexe 1. 
-
-‍
 
 ‍
 
@@ -1094,9 +981,22 @@ Vous avez la possibilité de vous inscrire pour passer l’ETG dans un centre ag
 
 #### **4.4.2 Inscription à l’examen pratique et accompagnement :**
 
+Pour rappel, afin de pouvoir avancer dans Votre parcours de formation, Vous devrez cumulativement respecter les étapes suivantes : 
+
+1. Dans le cadre de Votre formation initiale : some text
+    1. avoir effectué un minimum quinze (15) heures (boite manuelle) ou douze (12) heures (boite automatique) de conduite afin de pouvoir être pris sous mandat pour être convoqué à l’épreuve pratique ;
+    2. avoir au moins effectué Votre minimum de formation, calculé sur la base de Votre profil, afin de pouvoir être éligible à une demande de place à l’examen pratique (ce minimum ne garantissant pas une éligibilité puisque l’Enseignant reste libre à tout moment de Vous préconiser plus d’heures) ;
+    3. avoir effectué Votre examen blanc (dès lors qu’il aura été mis en place par ORNIKAR). En cas d’échec, l'Enseignant pourra recommander davantage d'heures de formation initiale avant que Vous ne puissiez redevenir éligible à la demande de place d'examen.
+2. Dans le cadre de Votre préparation à l’examen : Vous serez tenu de respecter Votre minimum de formation, calculé selon Votre situation (ce minimum ne garantissant pas la convocation à l'examen puisque l'Enseignant reste libre à tout moment de Vous préconiser plus d'heures).
+3. En cas d’échec à l’examen pratique (si applicable), Vous devrez disposer au minimum de huit (8) crédits conduite afin de pouvoir devenir éligible à une nouvelle demande de place d’examen.
+
+Vous acceptez que ce parcours puisse être adapté en cours de formation et que ces minimums puissent évoluer à la hausse (notamment pour des raisons de sécurité routière et d'équité entre les élèves).
+
+‍
+
 **4.4.2.1 Inscription**
 
-Dans votre espace « _Examen_ », afin de vous aider à réaliser votre demande de place à l’examen pratique du permis de conduire (sous réserve des conditions prévues à l’article 5.2.2.b), Vous aurez accès à un certain nombre de documents/informations. Selon votre département de résidence, Vous pourrez solliciter une place d’examen par courriel, téléphone, courrier ordinaire ou formulaire en ligne.
+Plus spécifiquement, dans votre espace « _Examen_ », afin de vous aider à réaliser votre demande de place à l’examen pratique du permis de conduire (sous réserve des conditions prévues à l’article 5.2.2.b), Vous aurez accès à un certain nombre de documents/informations. Selon votre département de résidence, Vous pourrez solliciter une place d’examen par courriel, téléphone, courrier ordinaire ou formulaire en ligne.
 
 Afin d’être éligible à l’examen pratique du permis de conduire, vous devrez notamment avoir effectué le minimum d’heures de votre Fourchette d’heures recommandées chez Ornikar. Si votre Fourchette d’heures recommandées est modifiée en cours de formation, le minimum de votre nouvelle fourchette s’appliquera. Si cette fourchette devait baisser, Vous ne pourrez-être remboursé des heures restantes, conformément à notre politique de remboursement (article 5.4.1)
 
@@ -1107,6 +1007,14 @@ Hors départements « Rdv Permis », un accompagnement à l’examen pratique du
 Dans les départements « Rdv Permis », si Vous avez donné mandat à Notre Société, Vous serez présenté à l'épreuve pratique par Notre Société, suivant les dates arrêtées et communiquées par l'autorité administrative. Si vous n’avez pas donné mandat à Notre Société, légalement nous ne pourrons pas vous accompagner à l’examen et Vous devrez faire appel à un proche, non professionnel de l'éducation routière.
 
 En cas d'échec, et après accord entre les parties sur vos besoins, Notre Société Vous présentera à une nouvelle épreuve pratique, en fonction du calendrier qui lui est communiqué par l'autorité administrative.
+
+**4.4.2.3 Échec à l'examen pratique**
+
+En cas d’échec à l’examen pratique du permis de conduire, Vous devez disposer de huit (8) crédits d’heure de conduite sur Votre Compte afin que Votre enseignant puisse solliciter une nouvelle place d’examen.
+
+Si Vous effectuez une demande de remboursement desdits crédits postérieurement à la demande de place (et que l’ensemble de vos crédits d’heure de conduite sont inférieurs à huit), Votre demande de place sera annulée.
+
+‍
 
 **ARTICLE 5.     Commande de Produits et Services sur le Site**
 ---------------------------------------------------------------
@@ -1164,13 +1072,17 @@ Au regard de l'arrêté du 22 octobre 2014 fixant la méthode nationale d'attrib
 
 Par ailleurs, aucune stipulation des présentes CGV ne saurait contraindre notre Société d'assister les Clients lors de leur inscription à l'épreuve du permis de conduire et à les assister dans leurs relations avec les Autorités Françaises relativement à leurs démarches, pour lesquelles ils restent seuls responsables.
 
+Pour Vous inscrire à l’examen pratique du permis de conduire Vous devez avoir effectué votre Prise Sous Mandat. Pour réaliser votre Prise Sous Mandat il vous faut avoir au minimum effectué 15 heures de conduite (boîte manuelle) ou 12 heures de conduite (boîte automatique). 
+
+Une fois Votre Prise sous Mandat effectuée, Votre enseignant pourra solliciter une place d’examen pratique, pour autant que les conditions suivantes soient remplies.
+
 CA titre informatif, ci-après les conditions à remplir si vous sollicitez une place d’examen pratique.
 
 i) Si Vous avez commandé les « _Les packs_ » conduite ou les heures de conduite à la carte », Vous devez remplir les conditions suivantes :
 
 * avoir 17 ans révolus,
 * avoir effectué votre première heure d'évaluation,
-* avoir effectué au moins le nombre d’heures minimum de votre Fourchette de d’heures recommandées chez Ornikar ». Si votre Fourchette d’heures recommandées est modifiée en cours de formation, le minimum de votre nouvelle fourchette s’appliquera. 
+* avoir effectué votre Minimum Fourchette d’heures recommandées chez Ornikar dans le cadre de votre Formation Initiale. Si votre Fourchette d’heures recommandées est modifiée en cours de formation, le minimum de votre nouvelle fourchette s’appliquera.
 
 Vous serez invité à vérifier vos informations personnelles (nom, prénom, date de naissance, nom de votre représentant légal si vous êtes mineur adresse postale et numéro de téléphone) et à compléter votre dossier d’inscription en renseignant votre sexe, votre lieu de naissance (pays, ville, département), la date d’obtention de votre code de la route et votre numéro NEPH. Sans ce dernier, vous ne serez pas éligible à l’examen pratique.
 
@@ -1613,8 +1525,6 @@ _(\*) Rayez si mention inutile._
 Versions précédentes
 --------------------
 
-* [**Version en cours applicable depuis le 21 novembre 2024**](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/674d93f49eb0a4312a4d406e_CGV%20-%2021_11_2024.pdf)
-* [**Version applicable du 6 au 20 novembre 2024**](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/674dc11e3cc00dfcf2482d6b_CGV%20Ornikar%20-%206_11_2024.pdf)
 * [**Version applicable du 23 octobre 2024 au 5 novembre 2024**](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/6720f34c743f2e20a3a1a8f3_CGV%20Ornikar%20-%2023_10_2024.pdf)
 * [**Version applicable du 10 octobre au 22 octobre 2024**](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/6720f40778223a5d432acaf7_CGV%20Ornikar%20-%2010_10_2024.pdf)
 * [**Version applicable du 23 septembre 2024 au 09 octobre 2024**](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/670e695892e6dab5db961cfe_Copie%20de%20Renforce%CC%81%20sans%20code%20%2B%20rectifications%20-%2023%20septembre%202024%20-%20clean%20version.pdf)
