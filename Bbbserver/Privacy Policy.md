@@ -1,4 +1,4 @@
-[![bbbserver.de](/assets/website-bbbserver/img/logo.svg "bbbserver.de")](https://bbbserver.de/)
+[![bbbserver Logo](/assets/website-bbbserver/img/logo.svg "bbbserver Logo")](https://bbbserver.de/)
 
 [English](https://bbbserver.com/) [Français](https://bbbserver.com/fr/) [Español](https://bbbserver.com/es/) [Русский](https://bbbserver.com/ru/)
 
