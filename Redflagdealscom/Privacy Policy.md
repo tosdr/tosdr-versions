@@ -31,7 +31,7 @@ Don't have an account? [Sign up now.](https://www.redflagdeals.com/user/signup/?
 
 [![RedFlagDeals.com](https://assets.rfdcontent.com/graphics/rfd/v33.36.346/sprites/responsive_base.png "Find Canadian Deals, Coupons, Sales, Shopping Tools and Freebies with RedFlagDeals.com")](https://www.redflagdeals.com/)
 
-* [Black Friday](https://blackfriday.redflagdeals.com/)
+* [Cyber Monday](https://blackfriday.redflagdeals.com/)
 * [Deals](https://www.redflagdeals.com/deals/)
     
     * Deals
