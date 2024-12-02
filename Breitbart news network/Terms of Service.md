@@ -54,6 +54,7 @@
 
 [BREITBART](https://www.breitbart.com/ "Breitbart News Network")
 
+* [Joe Pardons Hunter](https://www.breitbart.com/tag/hunter-biden/)
 * [Kash Patel](https://www.breitbart.com/tag/kash-patel/)
 * [Trump Tariffs](https://www.breitbart.com/tag/2024-presidential-election/)
 * [Mass Deport Battle](https://www.breitbart.com/tag/deportation/)
