@@ -176,7 +176,6 @@ More from The Telegraph
 * [Help and support](https://www.telegraph.co.uk/contact-us/)
 * [The Chelsea Magazine Company](https://www.chelseamagazines.com/brands/)
 * [Broadband and Mobile Deals](https://www.telegraph.co.uk/compare)
-* [Black Friday](https://www.telegraph.co.uk/recommended/black-friday/)
 * [Voucher codes](https://www.telegraph.co.uk/vouchercodes)
     
     See top shops
@@ -633,6 +632,5 @@ Follow us on:
 * [Advertising terms](https://www.telegraph.co.uk/about-us/advertising-terms-and-conditions/)
 * [Guidelines](https://www.telegraph.co.uk/about-us/editorial-and-commercial-guidelines/)
 * [The Chelsea Magazine Company](https://www.chelseamagazines.com/)
-* [Black Friday 2024](https://www.telegraph.co.uk/recommended/black-friday/)
 
 © Telegraph Media Group Holdings Limited 2024
