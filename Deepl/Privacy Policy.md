@@ -234,6 +234,7 @@ Overview of the cookies and web storage objects used by DeepL:
 | Conversion Tracking | ID  | Description<br><br>Records and evaluates conversions in connection with DeepL's advertising campaigns using B2B Digitalzone services. | TechnologyTracking Pixel | Expiry Ongoing (until consent is revoked) | OwnerDigitalzone, Inc. |
 | Conversion Tracking | ID  | Description<br><br>Records and evaluates conversions in connection with DeepL's advertising campaigns using Plug services. | TechnologyTracking Pixel | ExpiryOngoing (until consent is revoked) | OwnerPlug Media Ltd |
 | Conversion Tracking | ID  | Description<br><br>Records and evaluates conversions in connection with DeepL's advertising campaigns using Fifty services | TechnologyTracking Pixel | ExpiryOngoing (until consent is revoked) | OwnerFifty Technology Ltd |
+| Conversion tracking | ID  | Description<br><br>Records and evaluates conversions in connection with DeepL's advertising campaigns in Yahoo Japan services. | TechnologyServer-to-server tracking | ExpiryOngoing (until consent is revoked) | OwnerLY Corporation |
 
 10\. Speech-to-text function for web
 ------------------------------------
