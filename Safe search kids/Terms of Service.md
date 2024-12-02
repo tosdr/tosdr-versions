@@ -143,17 +143,17 @@ Share This Article
 
 * [Amazon Prime for Students](https://www.safesearchkids.com/amazon-prime-offer-for-young-adults-and-college-students/)
 
-[![Parental Control App Black Friday 50% OFF](https://www.safesearchkids.com/wp-content/uploads/2024/11/Parental-Control-App-Black-Friday-50-OFF.webp)](https://www.awin1.com/cread.php?awinmid=7874&awinaffid=1039603&ued=https%3A%2F%2Fwww.qustodio.com%2Fen%2Fpremium%2F)
+[![Excited Parents Looking at Phone](https://www.safesearchkids.com/wp-content/uploads/2024/10/Excited-Parents.jpg)](https://www.safesearchkids.com/best-parental-control-app/)
 
 ### 
 
-[Black Friday Weekend](https://www.safesearchkids.com/best-parental-control-app/)
+[Cyber Monday 30% OFF Parental Controls!](https://www.safesearchkids.com/best-parental-control-app/)
 
-[![The History of Thanksgiving for Students](https://www.safesearchkids.com/wp-content/uploads/2024/11/Family-Thanksgiving-Dinner.webp)](https://www.safesearchkids.com/the-history-of-thanksgiving/)
+[![Christmas Holiday Activity Ideas](https://www.safesearchkids.com/wp-content/uploads/2024/11/Christmas-Kids-Activities.webp)](https://www.safesearchkids.com/24-days-of-fun-and-cheap-holiday-activities/)
 
 ### 
 
-[The History of Thanksgiving](https://www.safesearchkids.com/the-history-of-thanksgiving/)
+[24 Days of Holiday Activities](https://www.safesearchkids.com/24-days-of-fun-and-cheap-holiday-activities/)
 
 ### Article Categories
 
@@ -169,11 +169,11 @@ Share This Article
 * [Well-Being](https://www.safesearchkids.com/well-being/)
 * [Human Interest](https://www.safesearchkids.com/well-being/human-interest/)
 
-[![Christmas Holiday Activity Ideas](https://www.safesearchkids.com/wp-content/uploads/2024/11/Christmas-Kids-Activities.webp)](https://www.safesearchkids.com/24-days-of-fun-and-cheap-holiday-activities/)
+[![Safe Search Engine](https://www.safesearchkids.com/wp-content/uploads/2023/09/Safe-Kids-Search-Engine.jpg)](https://www.safesearchkids.com/kids-search-engine/)
 
 ### 
 
-[24 Days of Holiday Activities](https://www.safesearchkids.com/24-days-of-fun-and-cheap-holiday-activities/)
+[The Safe Search Engine](https://www.safesearchkids.com/kids-search-engine/)
 
 ### Parenting and Well-Being
 
@@ -389,7 +389,7 @@ Share This Article
 
  
 
-* [Parental Control App 50% OFF](https://www.safesearchkids.com/best-parental-control-app/)
+* [Parental Control App 30% OFF](https://www.safesearchkids.com/best-parental-control-app/)
 * [Roblox Safety](https://www.safesearchkids.com/roblox-parental-controls/)
 * [Is Discord Safe?](https://www.safesearchkids.com/is-discord-safe-for-your-kids-a-complete-parental-guide/)
 * [CyberBullying](https://www.safesearchkids.com/cyber-bullying-for-parents/)
