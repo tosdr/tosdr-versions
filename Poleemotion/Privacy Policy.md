@@ -84,13 +84,19 @@ Pour découvrir l'école et t'aider à choisir la ou les disciplines qui te fero
 À ne pas manquer en ce moment!
 ------------------------------
 
-[![image Initiation Pole Tango](/storage/highlights/62937/highlight.webp?v=924744)
+[![image Jump Style (trampoline)](/storage/highlights/59191/highlight.webp?v=992785)
+
+##### Jump Style (trampoline)
+
+mar. 3 décembre 2024 - **18:15** à Crissier salle 2
+
+Une activité physique ludique qui se pratique sur un mini trampoline individuel. En gros, on fait des exercices...](https://app.pole-emotion.ch/cours/59191)[![image Initiation Pole Tango](/storage/highlights/62937/highlight.webp?v=994623)
 
 ##### Initiation Pole Tango
 
 ven. 6 décembre 2024 - **18:30** à Crissier salle 1
 
-"Envie d'explorer ta féminité avec élégance ?Tu aimes danser en talons avec la pole?Rejoins Jessica véritable passionnée, pour...](https://app.pole-emotion.ch/cours/62937)[![image Rendez-vous dès lundi dans votre nouvelle salle !](/storage/highlights/62956/highlight.webp?v=926626)
+"Envie d'explorer ta féminité avec élégance ?Tu aimes danser en talons avec la pole?Rejoins Jessica véritable passionnée, pour...](https://app.pole-emotion.ch/cours/62937)[![image Rendez-vous dès lundi dans votre nouvelle salle !](/storage/highlights/62956/highlight.webp?v=995767)
 
 ##### Rendez-vous dès lundi dans votre nouvelle salle !
 
@@ -98,7 +104,7 @@ dim. 8 décembre 2024 - **05:00** à Gland
 
 et voilà, on se réjouit 🍀🍀](https://app.pole-emotion.ch/cours/62956)[](https://app.pole-emotion.ch/evjf)
 
-[![image pour Pensez aux Enterrements Vie de Jeunes Filles](/storage/highlights/newsflash/highlight.webp?v=932160)](https://app.pole-emotion.ch/evjf)
+[![image pour Pensez aux Enterrements Vie de Jeunes Filles](/storage/highlights/newsflash/highlight.webp?v=996277)](https://app.pole-emotion.ch/evjf)
 
 [##### Pensez aux Enterrements Vie de Jeunes Filles](https://app.pole-emotion.ch/evjf)
 
