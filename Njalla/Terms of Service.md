@@ -9,7 +9,7 @@
 * [Pricing](https://njal.la/pricing/)
 * [About](https://njal.la/about/)
 
-[Login](https://njal.la/signin/) [Get started](https://njal.la/signup/)
+[Login](https://njal.la/signin/) [Get started](https://njal.la/signup/)
 
 Njalla requires JavaScript to work properly.
 
