@@ -4,7 +4,7 @@
 
 [Toggle menu](#)
 
-[Red Team Tools ![](https://cdn11.bigcommerce.com/s-szziy5bgph/stencil/9d911a80-85b9-013d-4ae6-4e14475343b5/e/b4382370-1605-013d-2256-62b8f9cadea7/img/logo.png) ![](https://cdn11.bigcommerce.com/s-szziy5bgph/stencil/9d911a80-85b9-013d-4ae6-4e14475343b5/e/b4382370-1605-013d-2256-62b8f9cadea7/img/logo.png)](https://www.redteamtools.com/)  
+[Red Team Tools ![](https://cdn11.bigcommerce.com/s-szziy5bgph/stencil/38feac20-9316-013d-b4bc-4ed3cc3f9a3c/e/b4382370-1605-013d-2256-62b8f9cadea7/img/logo.png) ![](https://cdn11.bigcommerce.com/s-szziy5bgph/stencil/38feac20-9316-013d-b4bc-4ed3cc3f9a3c/e/b4382370-1605-013d-2256-62b8f9cadea7/img/logo.png)](https://www.redteamtools.com/)  
 
 Search  Search
 
@@ -65,7 +65,7 @@ Email Address
 Footer Start
 ------------
 
-[Red Team Tools ![](https://cdn11.bigcommerce.com/s-szziy5bgph/stencil/9d911a80-85b9-013d-4ae6-4e14475343b5/e/b4382370-1605-013d-2256-62b8f9cadea7/img/footer-logo.png)](https://www.redteamtools.com/) 
+[Red Team Tools ![](https://cdn11.bigcommerce.com/s-szziy5bgph/stencil/38feac20-9316-013d-b4bc-4ed3cc3f9a3c/e/b4382370-1605-013d-2256-62b8f9cadea7/img/footer-logo.png)](https://www.redteamtools.com/) 
 
 * [Home](https://www.redteamtools.com/)
 * [Shop All Products](https://www.redteamtools.com/shop-all/)
