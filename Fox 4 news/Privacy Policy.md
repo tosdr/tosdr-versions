@@ -401,6 +401,12 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Two dead, one critically injured in Fort Worth shooting; police search for suspect](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/v-fw-broadmoor-dr-shooting-5a_00.00.33.56.jpg?ve=1&tl=1)
+
+ ![Two dead, one critically injured in Fort Worth shooting; police search for suspect](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/v-fw-broadmoor-dr-shooting-5a_00.00.33.56.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/west-fort-worth-shooting)
+
+### [Two dead, one critically injured in Fort Worth shooting; police search for suspect](https://www.fox4news.com/news/west-fort-worth-shooting)
+
  [![President Biden pardons son Hunter Biden](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-2123618752-a.jpg?ve=1&tl=1)
 
  ![President Biden pardons son Hunter Biden](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-2123618752-a.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/president-biden-pardons-hunter-son-gun-tax-sentencing)
@@ -424,12 +430,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![Video: Michigan Ohio State fight erupts on field; both fined $100k](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/storyful-flag-bkgd.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/michigan-ohio-state-flag-fight-video)
 
 ### [Michigan, Ohio State fined $100k each after brawl on field](https://www.fox4news.com/news/michigan-ohio-state-flag-fight-video)
-
- [![Bishop T.D. Jakes gives health update after 'life-threatening calamity'](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/td-jakes-updates-kdfweme003_14_20_13_mpg_00.04.15.44.jpg?ve=1&tl=1)
-
- ![Bishop T.D. Jakes gives health update after 'life-threatening calamity'](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/td-jakes-updates-kdfweme003_14_20_13_mpg_00.04.15.44.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/bishop-td-jakes-health-update-potters-house-dec-1)
-
-### [Bishop T.D. Jakes gives health update after 'life-threatening calamity'](https://www.fox4news.com/news/bishop-td-jakes-health-update-potters-house-dec-1)
 
 ###### [News](https://www.fox4news.com/news)
 
