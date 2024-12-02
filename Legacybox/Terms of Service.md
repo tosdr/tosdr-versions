@@ -157,7 +157,7 @@ Professionally digitized, future-proof, & ready to relive.™ Each Legacybox inc
 
 [Learn More](https://help.legacybox.com/hc/en-us)
 
-[Shop 65% Off](https://legacybox.com/products/legacybox-digitizing-kit)
+[65% Off Legacybox](https://legacybox.com/products/legacybox-digitizing-kit)
 
 [My Orders](https://legacybox.com/pages/order-tracking)
 
