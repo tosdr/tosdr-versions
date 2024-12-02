@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/sprookjes-en-tijdreizen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/de-amerikaan-met-zn-ultra-zacht-toiletpapier-is-een-milieuramp/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
