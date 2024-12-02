@@ -45,28 +45,28 @@
     
     * Overview
         * Overview
-        * [Who are we?](https://www.orange.com/en/orange-group)
-        * [Our history](https://www.orange.com/en/engagements/our-brand/the-story-of-our-brand)
+        * [Who are we?](https://www.orange.com/en/group/overview/orange-group)
+        * [Our history](https://www.orange.com/en/orange-story-commitment-spans-ages)
         * [Our news](https://www.orange.com/en/newsroom/news)
         * [Strategy](https://newsroom.orange.com/lead-the-future-orange-presents-its-new-strategic-plan-which-aims-to-generate-value-from-the-recognized-excellence-of-its-core-business-and-to-grow-sustainably-in-europe-africa-and-the-middle-east-or//?lang=en)
         * [Innovation](https://www.orange.com/en/group/overview/useful-innovation-that-enables-everyone-to-progress)
-        * [Scientific Council](https://www.orange.com/en/scientific-council)
+        * [Scientific Council](https://www.orange.com/en/group/overview/scientific-council)
     * [Governance](https://www.orange.com/en/groups-general-management-committee)
         * Governance
         * [Orange's governance](https://www.orange.com/en/group/governance/oranges-governance)
         * [Board of Directors](https://www.orange.com/en/group/governance/board-of-directors)
-        * [Board of Directors' specialised committees](https://www.orange.com/en/board-directors-specialised-committees)
-        * [Executive Committee](https://www.orange.com/en/groups-general-management-committee)
-        * [Internal Control Framework](https://www.orange.com/en/structure-and-organisation-orange-internal-control-framework-0)
+        * [Board of Directors' specialised committees](https://www.orange.com/en/group/governance/board-directors-specialised-committees)
+        * [Executive Committee](https://www.orange.com/en/group/governance/executive-committee)
+        * [Internal Control Framework](https://www.orange.com/en/group/governance/internal-control-framework)
         * [Documentation related to Governance](https://gallery.orange.com/#lang=en&v=66ec8895-3ebc-41bf-9271-25a13b982fe2)
     * Our activities
         * Our activities
         * [Networks](https://www.orange.com/en/group/our-activities/networks)
         * [Orange Wholesale](https://www.orange.com/en/group/our-activities/orange-wholesale "Wholesale operator services")
-        * [Business services](https://www.orange.com/en/expertise-our-subsidiaries-service-companies)
-        * [Cybersecurity](https://www.orange.com/en/cyberdefense-guardians-network)
-        * [Health](https://www.orange.com/en/how-orange-supporting-shift-e-health)
-        * [Start-ups](https://www.orange.com/en/how-orange-supports-start-ups)
+        * [Business services](https://www.orange.com/en/group/our-activities/our-services-for-businesses)
+        * [Cybersecurity](https://www.orange.com/en/group/our-activities/cybersecurity)
+        * [Health](https://www.orange.com/en/group/our-activities/health)
+        * [Start-ups](https://www.orange.com/en/group/our-activities/start-ups)
     
      [Orange Africa and Middle East](https://www.orange.com/en/africa-and-middle-east)
     
@@ -97,7 +97,7 @@
             * [The value of your investment](https://investisseurs-individuels.orange.com/en/what_to_invest_in)
             * [The individual shareholders' committee](https://www.orange.com/en/finance/individual-shareholders/advisory-committee)
             * [Annual Shareholders' Meeting](https://www.orange.com/en/finance/individual-shareholders/shareholders-meeting)
-            * [Questions & Answers](https://www.orange.com/en/shareholders-meeting/questions-answers?hv=)
+            * [Questions & Answers](https://www.orange.com/en/shareholders-meeting/questions-answers)
     * * Orange share
             * Cotation
             * [](https://www.orange.com/en/orange-share-price)
@@ -229,7 +229,7 @@ About Orange About Orange
 * [Universal registration document](https://gallery.orange.com/finance?od=8c17d13f-2b5b-4258-b56b-3ece19d40141&om=190a5d48-c9cd-457a-a9fc-8faba398cc0a&v=60876c23-f30f-4e71-a91f-d374c89dcd70#lang=en)
 * [Investors' Library](https://gallery.orange.com/finance#lang=en&v=root)
 * [CSR Media library](https://gallery.orange.com/rse#lang=en&v=root)
-* [Non-financial reporting](https://www.orange.com/en/non-financial-reporting)
+* [Non-financial reporting](https://www.orange.com/en/non-financial-information)
 
 Other links Other links
 -----------------------
