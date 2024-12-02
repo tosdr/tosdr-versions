@@ -4,9 +4,9 @@ Changing the site language for you. Please wait ...
 
 Our website is available in your language, would you like to switch to that? Yes No
 
-#### HAPPENING NOW: 25% off a Plex Pass for life
+#### Last chance for 25% off a Plex Pass for life
 
-[Personal media fans: our biggest Plex Pass sale of the year is here. Upgrade Now](https://www.plex.tv/plex-pass/purchase/?plan=lifetime&code=FANSFIRST25)
+[Snag our best deal of the year before it’s gone. Upgrade Now](https://www.plex.tv/plex-pass/purchase/?plan=lifetime&code=FANSFIRST25)
 
 [![Plex](https://www.plex.tv/wp-content/themes/plex/assets/img/plex-logo.svg)](https://www.plex.tv/)
 
