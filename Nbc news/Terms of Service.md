@@ -6,7 +6,7 @@ For the best experience, turn your mobile device portrait mode.
 
 [Skip to main content](#main-content)
 
-[![Home](https://cdn2.nbcuni.com/NBCUniversal/WICKED-X-NBCUNIVERSAL-LOGO-C.png?VersionId=vjESuFs21y.qJqOClPOmAVFTQEZ2wMhe)](https://www.nbcnews.com/ "Home")
+[![Home](https://cdn2.nbcuni.com/NBCUniversal/NBCUniversal_nav_logo.png?VersionId=QTjl3DWXzRwrn3sZuJhgf0LkfPYneybK)](https://www.nbcnews.com/ "Home")
 
  ![Open Menu](/themes/custom/universal/src/img/icons/icon_menu.png)![Close Menu](/themes/custom/universal/src/img/icons/icon_close.png)
 
@@ -105,7 +105,7 @@ These TOS set out the agreement between you and NBCUniversal regarding how you c
     7. Designation of Agent. You hereby appoint us as your agent with full authority to execute any document or take any action we may consider appropriate to confirm the rights granted by you to us in these TOS.
     8. Survival.  The provisions of these TOS which by their nature should survive the termination of these TOS shall survive such termination, including but not limited to the restrictions, disclaimers, limitations, our rights to use content, limitation of liability in Section 6, rules regarding dispute resolution in Section 7, and the general provisions in this Section 8.
 
-[![NBCUniversal](https://cdn2.nbcuni.com/NBCUniversal/WICKED-X-NBCUNIVERSAL-LOGO-C.png?VersionId=vjESuFs21y.qJqOClPOmAVFTQEZ2wMhe)](https://www.nbcnews.com/)
+[![NBCUniversal](https://cdn2.nbcuni.com/NBCUniversal/NBCUniversal_nav_logo.png?VersionId=QTjl3DWXzRwrn3sZuJhgf0LkfPYneybK)](https://www.nbcnews.com/)
 
 [Follow us on LinkedIn](https://www.linkedin.com/company/nbcuniversal-inc-/) [Follow us on Twitter](https://twitter.com/nbcuniversal) [Like us on Facebook](https://www.facebook.com/nbcuniversal/) [instagram](https://www.instagram.com/nbcuniversal/)
 
