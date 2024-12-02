@@ -1,4 +1,4 @@
-[![Wurst Client logo](https://images.wurstclient.net/_media/logo/wurst_253x64_ll.webp)](https://www.wurstclient.net/)
+[![Wurst Client logo with santa hat](https://images.wurstclient.net/_media/logo/wurst_xmas_253x96_ll.webp)](https://www.wurstclient.net/)
 
 * [Download](https://www.wurstclient.net/download/)
 * Resources
