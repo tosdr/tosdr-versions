@@ -1,12 +1,12 @@
 Sections
 
-[![Action News Jax Logo](/pf/resources/images/sites/cmg-tv-10050/station-logo.png?d=942)](https://www.actionnewsjax.com/ "Action News Jax Logo")
+[![Action News Jax Logo](/pf/resources/images/sites/cmg-tv-10050/station-logo.png?d=943)](https://www.actionnewsjax.com/ "Action News Jax Logo")
 
 [WATCH](https://www.actionnewsjax.com/video/)
 
-[40°
+[60°
 
-![Fair](/pf/resources/images/weather/status-icons/34.png?d=942)](https://www.actionnewsjax.com/weather/)
+![Fair](/pf/resources/images/weather/status-icons/34.png?d=943)](https://www.actionnewsjax.com/weather/)
 
 [WATCH](https://www.actionnewsjax.com/video/)
 
