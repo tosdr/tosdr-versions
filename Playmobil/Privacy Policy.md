@@ -1,6 +1,6 @@
-[🎁 Ho-ho-hurry! PLAYMOBIL Exclusives Inside! 50% off $100+ orders 🎁](https://www.playmobil.com/en-us/web-shop/offers/black-friday/)
+[🎁 Don’t let the fun fizzle out! 🥳 Get 50% OFF on orders over $100! 🚨⏰ Ends Tonight! 🔥✨](https://www.playmobil.com/en-us/web-shop/offers/black-friday/)
 
-[🎁 Ho-ho-hurry! PLAYMOBIL Exclusives Inside! 50% off $100+ orders 🎁](https://www.playmobil.com/en-us/web-shop/offers/black-friday/)
+[🎁 Don’t let the fun fizzle out! 🥳 Get 50% OFF on orders over $100! 🚨⏰ Ends Tonight! 🔥✨](https://www.playmobil.com/en-us/web-shop/offers/black-friday/)
 
 [](https://www.playmobil.us/en-us/)
 
