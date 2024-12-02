@@ -30,7 +30,7 @@
     * [High-Speed Internet Packages](https://shop.hellotds.com/internet.html)
     * [TDS Wi-Fi+](https://shop.hellotds.com/internet/tds-wifi-plus.html)
     * [Internet Service Enhancements](https://shop.hellotds.com/internet/enhancements.html)
-    * [Affordable Connectivity Program](https://hellotds.com/information/affordable-connectivity-program.html)
+    * [TDS Connect](https://hellotds.com/information/tds-connect.html)
 * [TV](https://shop.hellotds.com/tv/tdstv-plus.html)
     * [Overview](https://shop.hellotds.com/tv/tdstv-plus.html)
     * [Ways to Watch](https://shop.hellotds.com/tv/tdstv-plus/ways-to-watch.html)
