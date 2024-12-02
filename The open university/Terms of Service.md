@@ -150,17 +150,6 @@ We do not exclude or limit our liability (if any) to you:
 
 You should not send any communication to us through the Site or by email, in particular which contains personal data (including sensitive personal data) and/or confidential information about you or any other person, unless you accept that any such communication would be sent at your own risk and on the understanding that we would not be liable for any loss that you might suffer as a result (except for losses which cannot be excluded or limited at law, as referred to directly above).
 
-[Policies and reports](https://about.open.ac.uk/strategy-and-policies)
-----------------------------------------------------------------------
-
-* [Mission](https://about.open.ac.uk/policies-and-reports/mission)
-* [Policies and statements](https://about.open.ac.uk/policies-and-reports/policies-and-statements)
-* [Facts and figures](https://about.open.ac.uk/strategy-and-policies/facts-and-figures)
-* [OfS Transparency Information Return](https://about.open.ac.uk/strategy-and-policies/ofs-transparency-information-return)
-* [Partnerships](https://about.open.ac.uk/policies-and-reports/partnerships)
-* [The history of The OU](https://about.open.ac.uk/strategy-and-policies/history-ou)
-* [Where do student fees go?](https://about.open.ac.uk/policies-and-reports/where-do-student-fees-go)
-
 [Back to top](#ou-org)
 
 ![The Open University Crest](/ouheaders/gui/OU_Crest_SVG.svg?2.0.0.585 "The Open University Crest")
