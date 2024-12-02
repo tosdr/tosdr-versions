@@ -1,6 +1,6 @@
-**Part of our core mission?** Exposing the Left's blatant hypocrisy. Help us continue the fight and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_5&utm_medium=web&utm_source=patriotpost.us) now.
+**Fellow Patriot:** The voluntary financial generosity of supporters like _you_ keeps our hard-hitting analysis coming. Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_0&utm_medium=web&utm_source=patriotpost.us) today. Thank you for your support! —Nate Jackson, Managing Editor
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_5&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_0&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -114,18 +114,19 @@ Last Updated: November 15, 2011.
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/112436-classic-2024-12-02)
+     [](https://patriotpost.us/memes/112466-from-the-outside-2024-12-02)
 
 * [More Memes >](https://patriotpost.us/memes)
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34590)
+     [](https://patriotpost.us/cartoons/34594)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
+*      [The Babylon Bee America Starting to Think This ‘Joe Biden’ Guy Might Be a Liar](https://patriotpost.us/opinion/112467-america-starting-to-think-this-joe-biden-guy-might-be-a-liar-2024-12-02)
 *      [Imprimis Drain the Swamp](https://patriotpost.us/opinion/112398-drain-the-swamp-2024-11-30)
 *      [Rich Lowry The Intellectual Collapse of DEI](https://patriotpost.us/opinion/112446-the-intellectual-collapse-of-dei-2024-11-29)
 *      [Ben Shapiro A World of Leverage](https://patriotpost.us/opinion/112445-a-world-of-leverage-2024-11-29)
@@ -133,7 +134,6 @@ Last Updated: November 15, 2011.
 *      [Laura Hollis We Should Treat the Intellectual Elites Like Royalty](https://patriotpost.us/opinion/112442-we-should-treat-the-intellectual-elites-like-royalty-2024-11-29)
 *      [Tim Graham Journalists Mourn That Jack Smith’s Probes Are Dead](https://patriotpost.us/opinion/112441-journalists-mourn-that-jack-smiths-probes-are-dead-2024-11-29)
 *      [Josh Hammer Gratitude Is Our Defining Ideal](https://patriotpost.us/opinion/112440-gratitude-is-our-defining-ideal-2024-11-29)
-*      [Ann Coulter The Dems’ Thanksgiving Story Deserves to Be Known](https://patriotpost.us/opinion/112439-the-dems-thanksgiving-story-deserves-to-be-known-2024-11-29)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -147,13 +147,11 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J5RS2YKRTNS1580CS7YVV0SF.jpeg)
-
-![](https://img.patriotpost.us/01J5RSAEYEKZ8DRMMYMBSNCWNH.jpeg)](https://patriotpostshop.com/collections/featured-products)
+No MSM Churn No Clickbait Junk No Advertising
 
 ### The Foundation
 
-“War is not the best engine for us to resort to; nature has given us one in our commerce, which if properly managed, will be a better instrument for obliging the interested nations of Europe to treat us with justice.” —Thomas Jefferson (1797)
+“The most sacred of the duties of a government \[is\] to do equal and impartial justice to all citizens.” —Thomas Jefferson (1816)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
