@@ -49,6 +49,10 @@ Toggle navigation
 Terms and Conditions
 ====================
 
+* [Introduction](#otnotice-section-e3dac801-58d7-48e0-961b-9003cc520e59)
+
+* [Introduction](#otnotice-section-e3dac801-58d7-48e0-961b-9003cc520e59)
+
 **THIS SITE IS ONLY OPEN TO RESIDENTS OF THE UNITED STATES**
 
 This World Wide Web Site is operated by Reckitt Benckiser LLC ("Reckitt Benckiser").
@@ -71,7 +75,7 @@ Reckitt Benckiser only purports to use names, logos or marks appearing in this S
 
 These terms and conditions shall be governed by and construed in accordance with the applicable laws of the United States and the State of New Jersey, without regard to conflict of laws provisions. By accessing and using this Site, you consent to the jurisdiction of the courts of New Jersey as well as legal proceedings in those courts.
 
-If you have questions or concerns, please contact us at [consumercare\_usa@reckitt.com](mailto:consumercare_usa@reckitt.com) or use our [**Contact Us Form**](https://www.finishdishwashing.com/help-and-support/).
+If you have questions or concerns, please contact us at [**consumercare\_usa@reckitt.com**](mailto:consumercare_usa@reckitt.com) or use our [**Contact Us Form**](https://www.finishdishwashing.com/help-and-support/).
 
 About
 
