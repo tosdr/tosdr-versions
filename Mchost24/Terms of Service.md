@@ -1,6 +1,6 @@
-Black Week Angebot: Hol dir jetzt 40 % extra Guthaben zu jeder Aufladung!
+Unser Community Discord ist aktiv. Schau gerne mal vorbei.
 
-[Anmelden](#)
+[Zu Discord](https://discord.com/invite/gSSUc8R)
 
 [](#)
 
