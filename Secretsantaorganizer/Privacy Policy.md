@@ -1,10 +1,10 @@
 ![Chimney on rooftop](/build/images/chimney.f57de569.png)
 
-Deutsch English Español Français Magyar Nederlands Norsk Polskie Português
+Deutsch English Español Français Magyar Italiano Nederlands Norsk Polskie Português
 
 ![Secret santa logo](/build/images/logo.96d73f2e.png)
 
-Deutsch English Español Français Magyar Nederlands Norsk Polskie Português
+Deutsch English Español Français Magyar Italiano Nederlands Norsk Polskie Português
 
   
 
