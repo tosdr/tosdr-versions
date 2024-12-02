@@ -6,7 +6,7 @@ Help children and families this Giving Tuesday
 
 [DONATE](https://secure.projecthope.org/site/SPageNavigator/FY24_12_Giving_Tuesday_Web_LO_12514.html "DONATE") Close
 
-[Donate](https://secure.projecthope.org/site/SPageNavigator/2024_Multistep_Main.html?autologin=true&mfc_pref=T "Donate")
+[Donate](https://secure.projecthope.org/site/SPageNavigator/FY24_12_Giving_Tuesday_Web_LO_12514.html "Donate")
 
 [![Project Hope Logo](/wp-content/themes/projecthope/assets/images/logo.svg)](https://www.projecthope.org/)
 
@@ -63,7 +63,7 @@ Help children and families this Giving Tuesday
         * [Fundraising](https://www.projecthope.org/take-action/fundraising/)
         * [Volunteer](https://www.projecthope.org/take-action/volunteer/)
 
-[Donate](https://secure.projecthope.org/site/SPageNavigator/2024_Multistep_Main.html?autologin=true&mfc_pref=T "Donate")
+[Donate](https://secure.projecthope.org/site/SPageNavigator/FY24_12_Giving_Tuesday_Web_LO_12514.html "Donate")
 
 * Who we are
     * [About Us](https://www.projecthope.org/about/)
@@ -149,7 +149,7 @@ Search for:
 * [Careers](https://www.projecthope.org/careers/)
 * [Ways to Give](https://www.projecthope.org/ways-to-give/)
 
-[Donate](https://secure.projecthope.org/site/SPageNavigator/2024_Multistep_Main.html?autologin=true&mfc_pref=T "Donate")
+[Donate](https://secure.projecthope.org/site/SPageNavigator/FY24_12_Giving_Tuesday_Web_LO_12514.html "Donate")
 
 Privacy Policy
 ==============
