@@ -4,7 +4,7 @@
 
 **50% OFF** Annual Plan
 
-BLACK FRIDAY flash Sale
+Cyber Monday flash Sale
 
 01 HR 12 Min 32 Sec
 
