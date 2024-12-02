@@ -2,12 +2,12 @@
 
 [Gitpod Logo](https://www.gitpod.io/)
 
-* Solutions
-    
-* [Pricing](https://www.gitpod.io/pricing)
-* [Blog](https://www.gitpod.io/blog)
 * Resources
     
+* Solutions
+    
+* [Blog](https://www.gitpod.io/blog)
+* [Pricing](https://www.gitpod.io/pricing)
 * [Docs](https://www.gitpod.io/docs)
 
 * [Login](https://www.gitpod.io/flex-or-classic)
@@ -280,7 +280,7 @@ Date
 * [Customers](https://www.gitpod.io/customers)
 * [Whitepapers](https://www.gitpod.io/whitepapers)
 * [Gartner reports](https://www.gitpod.io/gartner-platform-engineering-hype-cycle-2024)
-* [State of Platform engineering report](https://www.gitpod.io/state-of-platform-engineering-report-vol3-2024)
+* [State of Platform Engineering report](https://www.gitpod.io/state-of-platform-engineering-report-vol3-2024)
 
 * Solutions
 * [Developer onboarding](https://www.gitpod.io/solutions/onboarding)
