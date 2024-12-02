@@ -1029,7 +1029,7 @@ All Product orders placed by customer with Seller are subject to acceptance by S
 Payment
 -------
 
-Micro Center Online® gladly accepts American Express Card, Discover Card, MasterCard, VISA and debit cards. We do not add any surcharges to your credit card. For information about using your credit card safely, please read our [Safe Shopping Promise](https://www.microcenter.com/site/customer-support/security.aspx).
+Micro Center Online® gladly accepts Discover Card, MasterCard, VISA and debit cards. We do not add any surcharges to your credit card. For information about using your credit card safely, please read our [Safe Shopping Promise](https://www.microcenter.com/site/customer-support/security.aspx).
 
 Taxes
 -----
@@ -1092,12 +1092,12 @@ Display of order summary does not signify our acceptance of an order, nor does i
 Payment Methods Accepted
 ------------------------
 
-At Micro Center stores and Micro Center Online, you can shop using your MasterCard, VISA, American Express, Discover® Network Card, Diners Club and debit cards. We accept the Micro Center Credit Card and Revolution card for in-store purchases only. Micro Center and Micro Center Online are based in the state of Ohio, USA. When using a debit card as payment, the card is charged immediately following the authorization. The Issuing Bank determines when to release the hold on the dollar amount when merchandise is not shipped (backorder) or the order is cancelled.
+At Micro Center stores and Micro Center Online, you can shop using your MasterCard, VISA, Discover® Network Card, Diners Club and debit cards. We accept the Micro Center Credit Card and Revolution card for in-store purchases only. Micro Center and Micro Center Online are based in the state of Ohio, USA. When using a debit card as payment, the card is charged immediately following the authorization. The Issuing Bank determines when to release the hold on the dollar amount when merchandise is not shipped (backorder) or the order is cancelled.
 
  Credit Cards Accepted
 ----------------------
 
-[![American Express](https://60a99bedadae98078522-a9b6cded92292ef3bace063619038eb1.ssl.cf2.rackcdn.com/images_Cart_amex.png)](https://www.microcenter.com/site/content/credit-card.aspx) [![Diners Club](https://60a99bedadae98078522-a9b6cded92292ef3bace063619038eb1.ssl.cf2.rackcdn.com/images_Cart_diners_club.png)](https://www.microcenter.com/site/content/credit-card.aspx) [![Discover Card](https://60a99bedadae98078522-a9b6cded92292ef3bace063619038eb1.ssl.cf2.rackcdn.com/images_Cart_discover.png)](https://www.microcenter.com/site/content/credit-card.aspx) [![Mastercard](https://60a99bedadae98078522-a9b6cded92292ef3bace063619038eb1.ssl.cf2.rackcdn.com/images_Cart_mastercard.png)](https://www.microcenter.com/site/content/credit-card.aspx) [![Micro Center Insider Credit Card](https://60a99bedadae98078522-a9b6cded92292ef3bace063619038eb1.ssl.cf2.rackcdn.com/images_Cart_microcenter_card2018.png)](https://www.microcenter.com/site/content/mcinsidercard.aspx?ccPromo=1)[![VISA](https://60a99bedadae98078522-a9b6cded92292ef3bace063619038eb1.ssl.cf2.rackcdn.com/images_Cart_visa.png)](https://www.microcenter.com/site/content/credit-card.aspx) [![Revolution Card](https://60a99bedadae98078522-a9b6cded92292ef3bace063619038eb1.ssl.cf2.rackcdn.com/images_Cart_revolutioncard.gif)](https://www.microcenter.com/site/content/credit-card.aspx)
+[![Diners Club](https://60a99bedadae98078522-a9b6cded92292ef3bace063619038eb1.ssl.cf2.rackcdn.com/images_Cart_diners_club.png)](https://www.microcenter.com/site/content/credit-card.aspx) [![Discover Card](https://60a99bedadae98078522-a9b6cded92292ef3bace063619038eb1.ssl.cf2.rackcdn.com/images_Cart_discover.png)](https://www.microcenter.com/site/content/credit-card.aspx) [![Mastercard](https://60a99bedadae98078522-a9b6cded92292ef3bace063619038eb1.ssl.cf2.rackcdn.com/images_Cart_mastercard.png)](https://www.microcenter.com/site/content/credit-card.aspx) [![Micro Center Insider Credit Card](https://60a99bedadae98078522-a9b6cded92292ef3bace063619038eb1.ssl.cf2.rackcdn.com/images_Cart_microcenter_card2018.png)](https://www.microcenter.com/site/content/mcinsidercard.aspx?ccPromo=1)[![VISA](https://60a99bedadae98078522-a9b6cded92292ef3bace063619038eb1.ssl.cf2.rackcdn.com/images_Cart_visa.png)](https://www.microcenter.com/site/content/credit-card.aspx) [![Revolution Card](https://60a99bedadae98078522-a9b6cded92292ef3bace063619038eb1.ssl.cf2.rackcdn.com/images_Cart_revolutioncard.gif)](https://www.microcenter.com/site/content/credit-card.aspx)
 
 \* Micro Center credit card accepted for in-store purchases only
 
