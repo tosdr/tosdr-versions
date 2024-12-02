@@ -505,15 +505,14 @@ Get Advice[Design Dilemmas](https://www.gardenweb.com/discussions/design-dilemma
 * [Flags & Flagpoles](https://www.houzz.com/products/flags-and-flagpoles/theme_flag--Seasons)
 * [Holiday Storage](https://www.houzz.com/products/holiday-storage)
 
-* [Black Friday Sale](https://www.houzz.com/products/sale-event--black-friday-sale)
-* [Furniture Black Friday Sale](https://www.houzz.com/products/furniture/sale-event--black-friday-sale)
-* [Patio Furniture Black Friday Sale](https://www.houzz.com/products/patio-furniture/sale-event--black-friday-sale)
-* [Sofas & Sectionals Black Friday Sale](https://www.houzz.com/products/sofas-and-sectionals/sale-event--black-friday-sale)
-* [Lighting Black Friday Sale](https://www.houzz.com/products/lighting/sale-event--black-friday-sale)
-* [Kitchen & Dining Black Friday Sale](https://www.houzz.com/products/kitchen-and-dining/sale-event--black-friday-sale)
-* [Home Decor Black Friday Sale](https://www.houzz.com/products/home-decor/sale-event--black-friday-sale)
-* [Rugs Black Friday Sale](https://www.houzz.com/products/rugs/sale-event--black-friday-sale)
-* [Bath Black Friday Sale](https://www.houzz.com/products/bath-products/sale-event--black-friday-sale)
+* [Cyber Monday Sale](https://www.houzz.com/products/sale-event--cyber-monday-sale)
+* [Furniture Cyber Monday Deals](https://www.houzz.com/products/furniture/sale-event--cyber-monday-sale)
+* [Outdoor Furniture Cyber Monday Deals](https://www.houzz.com/products/patio-furniture/sale-event--cyber-monday-sale)
+* [Sofas & Sectionals Cyber Monday Deals](https://www.houzz.com/products/sofas-and-sectionals/sale-event--cyber-monday-sale)
+* [Decor Cyber Monday Deals](https://www.houzz.com/products/home-decor/sale-event--cyber-monday-sale)
+* [Area Rugs Cyber Monday Deals](https://www.houzz.com/products/area-rugs/sale-event--cyber-monday-sale)
+* [Lighting Cyber Monday Deals](https://www.houzz.com/products/lighting/sale-event--cyber-monday-sale)
+* [Christmas Trees Cyber Monday Deals](https://www.houzz.com/products/christmas-trees/sale-event--cyber-monday-sale)
 
 * [Holiday Sale](https://www.houzz.com/products/holiday-decorations/on-sale)
 
@@ -597,7 +596,7 @@ Get Advice[Design Dilemmas](https://www.gardenweb.com/discussions/design-dilemma
 
 * [Shop All Sale](https://www.houzz.com/products/on-sale)
 
-[![Shop Promo Banner](https://st.hzcdn.com/fimgs/f9c11da807442f68_1853-w566-h722-b0-p0--home-design.jpg)](https://www.houzz.com/products/sale-event--black-friday-sale)
+[![Shop Promo Banner](https://st.hzcdn.com/fimgs/af51b860074dfcd5_4250-w566-h722-b0-p0--home-design.jpg)](https://www.houzz.com/products/sale-event--cyber-monday-sale)
 
 [![The Ultimate Lighting Sale Under $199](https://st.hzcdn.com/fimgs/45011887074d0596_0951-w150-h150-b4-p0--home-design.jpg)
 
@@ -645,7 +644,7 @@ UP TO 80% OFF
 
 Cyber Bestsellers Under $299](https://www.houzz.com/ideabooks/178967095) 
 
-[![Shop Promo Banner](https://st.hzcdn.com/fimgs/f9c11da807442f68_1853-w566-h722-b0-p0--home-design.jpg)](https://www.houzz.com/products/sale-event--black-friday-sale) 
+[![Shop Promo Banner](https://st.hzcdn.com/fimgs/af51b860074dfcd5_4250-w566-h722-b0-p0--home-design.jpg)](https://www.houzz.com/products/sale-event--cyber-monday-sale) 
 
 [0](https://www.houzz.com/viewCart)
 
