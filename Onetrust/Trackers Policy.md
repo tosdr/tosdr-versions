@@ -176,9 +176,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
-* [The ROI of consent & preference data: A good, better, best view of how organizations win with personalization](https://www.onetrust.com/resources/the-roi-of-consent-preference-data-a-good-better-best-view-of-how-organizations-win-with-personalization-webinar/)
-* [The PDPL in Saudi Arabia is now in effect: is your business ready?](https://www.onetrust.com/resources/the-pdpl-in-saudi-arabia-is-now-in-effect-is-your-business-ready-webinar/)
-* [Automating metadata capture: Future-proofing data management for AI](https://www.onetrust.com/resources/automating-metadata-capture-future-proofing-data-management-for-ai-webinar/)
+* [Data Discovery Israel: How to create value and demonstrate trust through your data?](https://www.onetrust.com/resources/data-discovery-israel-webinar/)
+* [Understanding the NIS 2 Directive: Compliance insights and best practices](https://www.onetrust.com/resources/understanding-the-nis-2-directive-compliance-insights-and-best-practices-webinar/)
+* [Virtual Lunch & Learn: A deep dive into OneTrust's Third Party Management capabilities](https://www.onetrust.com/resources/virtual-lunch-learn-a-deep-dive-into-onetrusts-third-party-management-capabilities-webinar/)
 
 ### Platform
 
