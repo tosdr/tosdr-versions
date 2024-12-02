@@ -155,17 +155,6 @@ Some of our apps utilise personal information for functionality purposes. As pe
 * [OU Study (pdf 161kb)](https://about.open.ac.uk/sites/about.open.ac.uk/files/files/Privacy/OU-Study-app-privacy-notice.pdf)
 * [Safe space reporting (pdf 76kb)](https://about.open.ac.uk/sites/about.open.ac.uk/files/files/Privacy/Safe-Space-Reporting-Privacy-Notice-2023.pdf) 
 
-[Policies and reports](https://about.open.ac.uk/strategy-and-policies)
-----------------------------------------------------------------------
-
-* [Mission](https://about.open.ac.uk/policies-and-reports/mission)
-* [Policies and statements](https://about.open.ac.uk/policies-and-reports/policies-and-statements)
-* [Facts and figures](https://about.open.ac.uk/strategy-and-policies/facts-and-figures)
-* [OfS Transparency Information Return](https://about.open.ac.uk/strategy-and-policies/ofs-transparency-information-return)
-* [Partnerships](https://about.open.ac.uk/policies-and-reports/partnerships)
-* [The history of The OU](https://about.open.ac.uk/strategy-and-policies/history-ou)
-* [Where do student fees go?](https://about.open.ac.uk/policies-and-reports/where-do-student-fees-go)
-
 Address your request to:
 ------------------------
 
