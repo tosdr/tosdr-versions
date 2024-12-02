@@ -14,6 +14,8 @@ Compare Them All](https://www.wikimatrix.org/)
 * [Search](https://www.wikimatrix.org/search)
 * [About](https://www.wikimatrix.org/static/about)
 
+[![](/display/8/468_60/901ba2a41233fb2dfe616b8d55375fb2)](https://www.ickewiki.de/?utm_source=wikimatrix&utm_medium=banner&utm_content=468&utm_campaign=ickewiki)
+
 Privacy Policy
 ==============
 
