@@ -36,7 +36,7 @@
         * [Consulting & Custom Research](https://javelinstrategy.com/services/consulting-and-custom-research)
         * [Digital Banking Benchmarking](https://javelinstrategy.com/services/digital-banking-benchmarking)
         * [Research Reports & Webinars](https://javelinstrategy.com/thought-leadership)
-        * [Card Bench](https://javelinstrategy.com/node/32416)
+        * [Card Bench](https://javelinstrategy.com/services/card-bench)
     * [PaymentsJournal](https://www.paymentsjournal.com/)
 * Events
     * Industry Events
@@ -297,9 +297,9 @@ the Escalent Group.
 
 ©2024 Escalent and/or its affiliates. All right reserved.
 
-* [![LinkedIn](https://javelinstrategy.com/sites/default/files/footer_contact_block/logo__linkedin_3.png)](https://www.linkedin.com/company/javelin-strategy-&-research/)
-* [![Twitter](https://javelinstrategy.com/sites/default/files/footer_contact_block/X_logo_2023_%28white%29.png)](https://twitter.com/JavelinStrategy)
+* [![LinkedIn](https://www.javelinstrategy.com/sites/default/files/footer_contact_block/logo__linkedin_3.png)](https://www.linkedin.com/company/javelin-strategy-&-research/)
+* [![Twitter](https://www.javelinstrategy.com/sites/default/files/footer_contact_block/X_logo_2023_%28white%29.png)](https://twitter.com/JavelinStrategy)
 
-![PART OF THE ESCALENT GROUP](https://javelinstrategy.com/sites/default/files/footer_contact_block/Escalent%20Group%20White.png)
+![PART OF THE ESCALENT GROUP](https://www.javelinstrategy.com/sites/default/files/footer_contact_block/Escalent%20Group%20White.png)
 
 [](#)
