@@ -83,17 +83,17 @@ We apply the same rigor and standards of objectivity to these articles as we do 
 
 Most Read
 
-1. [![Listing image for first story in Most Read: How should we treat beings that might be sentient?](https://cdn.arstechnica.net/wp-content/uploads/2024/11/GettyImages-1182219843-768x432.jpg)](https://arstechnica.com/science/2024/11/how-should-we-treat-beings-that-might-be-sentient/)
+1. [![Listing image for first story in Most Read: Cyber Monday cybers into view, and we’ve got all the cyber deals](https://cdn.arstechnica.net/wp-content/uploads/2024/11/GettyImages-497407400-768x432.jpg)](https://arstechnica.com/shopping/2024/11/its-black-friday-and-here-are-the-best-shopping-deals-we-could-find/)
     
-    1. [How should we treat beings that might be sentient?](https://arstechnica.com/science/2024/11/how-should-we-treat-beings-that-might-be-sentient/)
+    1. [Cyber Monday cybers into view, and we’ve got all the cyber deals](https://arstechnica.com/shopping/2024/11/its-black-friday-and-here-are-the-best-shopping-deals-we-could-find/)
     
-2. 2. [Supermassive black hole binary emits unexpected flares](https://arstechnica.com/science/2024/12/supermassive-black-hole-binary-emits-unexpected-flares/)
+2. 2. [How should we treat beings that might be sentient?](https://arstechnica.com/science/2024/11/how-should-we-treat-beings-that-might-be-sentient/)
     
-3. 3. [The upside-down capacitor in mid-‘90s Macs, proven and documented by hobbyists](https://arstechnica.com/gadgets/2024/11/the-upside-down-capacitor-in-mid-90s-macs-proven-and-documented-by-hobbyists/)
+3. 3. [Man suffers chemical burn that lasted months after squeezing limes](https://arstechnica.com/health/2024/11/man-suffers-chemical-burn-that-lasted-months-after-squeezing-limes/)
     
-4. 4. [Man suffers chemical burn that lasted months after squeezing limes](https://arstechnica.com/health/2024/11/man-suffers-chemical-burn-that-lasted-months-after-squeezing-limes/)
+4. 4. [The upside-down capacitor in mid-‘90s Macs, proven and documented by hobbyists](https://arstechnica.com/gadgets/2024/11/the-upside-down-capacitor-in-mid-90s-macs-proven-and-documented-by-hobbyists/)
     
-5. 5. [It’s (still) Black Friday, and here are the best shopping deals we could find](https://arstechnica.com/shopping/2024/11/its-black-friday-and-here-are-the-best-shopping-deals-we-could-find/)
+5. 5. [Supermassive black hole binary emits unexpected flares](https://arstechnica.com/science/2024/12/supermassive-black-hole-binary-emits-unexpected-flares/)
     
 
 Customize
