@@ -122,6 +122,12 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         
         * [Animals](https://www.sciencenews.org/topic/animals)
             
+            ### [Giant hornets have been sighted in Europe for the first time](https://www.sciencenews.org/article/giant-hornets-europe-first-sighting)
+            
+            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")2 hours ago
+            
+        * [Animals](https://www.sciencenews.org/topic/animals)
+            
             ### [Videos capture orcas’ tricks for taking down the largest fish on Earth](https://www.sciencenews.org/article/videos-orcas-hunt-whale-sharks)
             
             By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")November 29, 2024
@@ -131,12 +137,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [This ‘hidden figure’ of entomology fought for civil rights](https://www.sciencenews.org/article/maragret-collins-entomology-termite)
             
             By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")November 27, 2024
-            
-        * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
-            
-            ### [Like brain cells, kidney cells can form memories](https://www.sciencenews.org/article/brain-kidney-cells-memory)
-            
-            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")November 26, 2024
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
