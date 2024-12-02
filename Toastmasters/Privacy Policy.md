@@ -31,6 +31,10 @@ Search  Search
 1. [Home](https://www.toastmasters.org/)
 2. /Privacy Policy
 
+[×](#)
+
+Have a year-end supply order? Place orders by 11:59 p.m. Mountain Time December 12 to be shipped by December 23.
+
 Privacy Policy
 ==============
 
