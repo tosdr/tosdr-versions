@@ -1,35 +1,4 @@
-[Skip to content](#MainContent)    
-
-Your cart is empty
-------------------
-
-[Continue shopping](https://tuttletwins.store/collections/all)
-
-Have an account?
-
-[Log in](https://tuttletwins.store/account/login) to check out faster.
-
-Your cart
-
-0 Item(s)
-
-
-----------------------
-
-Loading...
-
-Subtotal
---------
-
-$0.00 USD
-
-Update
-
-[View cart](https://tuttletwins.store/cart)
-
-[Continue shopping](https://tuttletwins.store/collections/all)
-
-Shipping & taxes calculated at checkout
+[Skip to content](#MainContent)
 
 [**Free shipping on orders $70+ (USA Only)**](https://tuttletwins.store/collections/shop-all)
 
@@ -54,8 +23,6 @@ MINS
 SECS](https://tuttletwins.store/collections/black-friday-early-preview)
 
     
-
-     
 
 * Best Deals
     
@@ -587,7 +554,42 @@ USD $ | United States
 
  Search [Hi ! You have  PTS](https://shop.angel.com/apps/bubblehouse/rewards/) [Log in](https://tuttletwins.store/account/login) [Cart](https://tuttletwins.store/cart)
 
+Item added to your cart
+-----------------------
+
+[View cart](https://tuttletwins.store/cart)
+
+Check out
+
+Continue shopping
+
 [Hi ! You have   PTS](https://shop.angel.com/apps/bubblehouse/rewards/)
+
+![](https://cdn.shopify.com/extensions/251f3757-e1c4-4c95-bd90-a897fec0f24b/gratify-26/assets/free-gift_26x.png)
+
+SPEND $50
+
+Free Gift ($10 Value)
+
+![](https://cdn.shopify.com/extensions/251f3757-e1c4-4c95-bd90-a897fec0f24b/gratify-26/assets/free-gift_26x.png)
+
+SPEND $75
+
+Free Gift ($15 Value)
+
+![](https://cdn.shopify.com/extensions/251f3757-e1c4-4c95-bd90-a897fec0f24b/gratify-26/assets/free-gift_26x.png)
+
+SPEND $100
+
+Free Gift ($90 Value)
+
+![](https://cdn.shopify.com/extensions/251f3757-e1c4-4c95-bd90-a897fec0f24b/gratify-26/assets/free-gift_26x.png)
+
+SPEND $250
+
+Free Gift ($140 Value)
+
+\*GIFTS WILL BE SELECTED AT CHECKOUT
 
 Terms of service
 ================
