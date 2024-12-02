@@ -8,23 +8,27 @@
     * [UN and the Nordic countries](https://unric.org/en/un-and-the-nordic-countries/)
     * [Contact](https://unric.org/en/contact/)
 * [UN in Brussels](https://unric.org/en/un-in-brussels/)
-    * [UN-EU Partnership](https://unric.org/en/the-eu-and-the-united-nations-2024/)
     * [UN Brussels Team](https://unric.org/en/un-brussels-team/)
     * [News](https://unric.org/en/category/un-eu-newsfeed/)
     * [Events](https://unric.org/en/category/un-eu-events/)
-* [Multimedia](https://unric.org/en/multimedia-page/)
     * [Ciné-ONU | UN Cinema](https://unric.org/en/un-cinema-cine-onu/)
-    * [Competitions](https://unric.org/en/category/united-nations-digital-engagement-hub/united-nations-competitions-and-contests/)
-    * [Video Games](https://unric.org/en/united-nations-video-games/)
-    * [Podcasts](https://unric.org/en/category/united-nations-digital-engagement-hub/united-nations-podcasts/)
-    * [Awards](https://unric.org/en/category/united-nations-digital-engagement-hub/united-nations-awards-and-prizes/)
-    * [Mobile Apps](https://unric.org/en/category/united-nations-digital-engagement-hub/united-nations-mobile-apps/)
-    * [Fellowships, Scholarships, Grants and Talent programmes](https://unric.org/en/category/united-nations-digital-engagement-hub/fellowships-scholarships-grants-talent/)
-    * [UN Visuals](https://unric.org/en/category/united-nations-digital-engagement-hub/un-visuals/)
+    * [UN-EU Partnership](https://unric.org/en/the-eu-and-the-united-nations-2024/)
 * [UN Careers](https://unric.org/en/united-nations-employment-and-internships/)
     * [Employment and internships](https://unric.org/en/united-nations-employment-and-internships/)
     * [Brussels Vacancies](https://unric.org/en/brussels-vacancies/)
-* [Resources](https://unric.org/en/info-point-library/)
+* [Agenda 2030](https://unric.org/en/united-nations-sustainable-development-goals/)
+    * [17 Goals to transform our world](https://unric.org/en/sdg-1/)
+    * [ACTNOW Campaign](https://unric.org/en/actnow-campaign-mobile-app/)
+    * [‘Go-Goals’ SDG Game](https://go-goals.org/)
+    * [Cycling for the Global Goals](https://unric.org/en/cycling-for-the-global-goals/)
+* [Digital Media](https://unric.org/en/multimedia-page/)
+    * [Video Games](https://unric.org/en/united-nations-video-games/)
+    * [Podcasts](https://unric.org/en/category/united-nations-digital-engagement-hub/united-nations-podcasts/)
+    * [Mobile Apps](https://unric.org/en/category/united-nations-digital-engagement-hub/united-nations-mobile-apps/)
+* [UN Resources](https://unric.org/en/info-point-library/)
+    * [UN Competitions](https://unric.org/en/category/united-nations-digital-engagement-hub/united-nations-competitions-and-contests/)
+    * [UN Awards](https://unric.org/en/category/united-nations-digital-engagement-hub/united-nations-awards-and-prizes/)
+    * [Fellowships, Scholarships, Grants and Talent programmes](https://unric.org/en/category/united-nations-digital-engagement-hub/fellowships-scholarships-grants-talent/)
     * [UN and Me](https://unric.org/en/un-and-me/)
     * [UN e-learning courses](https://unric.org/en/sharpen-your-skills-during-lockdown-with-united-nations-e-learning-courses/)
     * [Newsletter](https://unric.org/en/info-point-library/newsletter/)
@@ -34,12 +38,6 @@
     * [Publication List](https://unric.org/en/info-point-library/publication-list/)
     * [Newsletters, Journals, Bulletins](https://unric.org/en/info-point-library/newsletters-journals-bulletins/)
     * [UN Depository Libraries, UN Sales Publications](https://unric.org/en/info-point-library/united-nations-depository-libraries-united-nations-sales-publications/)
-* [Agenda 2030](https://unric.org/en/united-nations-sustainable-development-goals/)
-    * [17 Goals to transform our world](https://unric.org/en/sdg-1/)
-    * [ACTNOW Campaign](https://unric.org/en/actnow-campaign-mobile-app/)
-    * [‘Go-Goals’ SDG Game](https://go-goals.org/)
-    * [Cycling for the Global Goals](https://unric.org/en/cycling-for-the-global-goals/)
-    * [SDGs – Hub](https://unric.org/en/sdgs-sustainable-development-goals-un-visuals/)
 
 Search 
 
@@ -99,23 +97,27 @@ A-Z Site Index
     * [UN and the Nordic countries](https://unric.org/en/un-and-the-nordic-countries/)
     * [Contact](https://unric.org/en/contact/)
 * [UN in Brussels](https://unric.org/en/un-in-brussels/)
-    * [UN-EU Partnership](https://unric.org/en/the-eu-and-the-united-nations-2024/)
     * [UN Brussels Team](https://unric.org/en/un-brussels-team/)
     * [News](https://unric.org/en/category/un-eu-newsfeed/)
     * [Events](https://unric.org/en/category/un-eu-events/)
-* [Multimedia](https://unric.org/en/multimedia-page/)
     * [Ciné-ONU | UN Cinema](https://unric.org/en/un-cinema-cine-onu/)
-    * [Competitions](https://unric.org/en/category/united-nations-digital-engagement-hub/united-nations-competitions-and-contests/)
-    * [Video Games](https://unric.org/en/united-nations-video-games/)
-    * [Podcasts](https://unric.org/en/category/united-nations-digital-engagement-hub/united-nations-podcasts/)
-    * [Awards](https://unric.org/en/category/united-nations-digital-engagement-hub/united-nations-awards-and-prizes/)
-    * [Mobile Apps](https://unric.org/en/category/united-nations-digital-engagement-hub/united-nations-mobile-apps/)
-    * [Fellowships, Scholarships, Grants and Talent programmes](https://unric.org/en/category/united-nations-digital-engagement-hub/fellowships-scholarships-grants-talent/)
-    * [UN Visuals](https://unric.org/en/category/united-nations-digital-engagement-hub/un-visuals/)
+    * [UN-EU Partnership](https://unric.org/en/the-eu-and-the-united-nations-2024/)
 * [UN Careers](https://unric.org/en/united-nations-employment-and-internships/)
     * [Employment and internships](https://unric.org/en/united-nations-employment-and-internships/)
     * [Brussels Vacancies](https://unric.org/en/brussels-vacancies/)
-* [Resources](https://unric.org/en/info-point-library/)
+* [Agenda 2030](https://unric.org/en/united-nations-sustainable-development-goals/)
+    * [17 Goals to transform our world](https://unric.org/en/sdg-1/)
+    * [ACTNOW Campaign](https://unric.org/en/actnow-campaign-mobile-app/)
+    * [‘Go-Goals’ SDG Game](https://go-goals.org/)
+    * [Cycling for the Global Goals](https://unric.org/en/cycling-for-the-global-goals/)
+* [Digital Media](https://unric.org/en/multimedia-page/)
+    * [Video Games](https://unric.org/en/united-nations-video-games/)
+    * [Podcasts](https://unric.org/en/category/united-nations-digital-engagement-hub/united-nations-podcasts/)
+    * [Mobile Apps](https://unric.org/en/category/united-nations-digital-engagement-hub/united-nations-mobile-apps/)
+* [UN Resources](https://unric.org/en/info-point-library/)
+    * [UN Competitions](https://unric.org/en/category/united-nations-digital-engagement-hub/united-nations-competitions-and-contests/)
+    * [UN Awards](https://unric.org/en/category/united-nations-digital-engagement-hub/united-nations-awards-and-prizes/)
+    * [Fellowships, Scholarships, Grants and Talent programmes](https://unric.org/en/category/united-nations-digital-engagement-hub/fellowships-scholarships-grants-talent/)
     * [UN and Me](https://unric.org/en/un-and-me/)
     * [UN e-learning courses](https://unric.org/en/sharpen-your-skills-during-lockdown-with-united-nations-e-learning-courses/)
     * [Newsletter](https://unric.org/en/info-point-library/newsletter/)
@@ -125,12 +127,6 @@ A-Z Site Index
     * [Publication List](https://unric.org/en/info-point-library/publication-list/)
     * [Newsletters, Journals, Bulletins](https://unric.org/en/info-point-library/newsletters-journals-bulletins/)
     * [UN Depository Libraries, UN Sales Publications](https://unric.org/en/info-point-library/united-nations-depository-libraries-united-nations-sales-publications/)
-* [Agenda 2030](https://unric.org/en/united-nations-sustainable-development-goals/)
-    * [17 Goals to transform our world](https://unric.org/en/sdg-1/)
-    * [ACTNOW Campaign](https://unric.org/en/actnow-campaign-mobile-app/)
-    * [‘Go-Goals’ SDG Game](https://go-goals.org/)
-    * [Cycling for the Global Goals](https://unric.org/en/cycling-for-the-global-goals/)
-    * [SDGs – Hub](https://unric.org/en/sdgs-sustainable-development-goals-un-visuals/)
 
 Privacy Notice
 ==============
@@ -150,6 +146,14 @@ The information will be used internally only for web site traffic analysis. If t
 [UNO](https://unric.org/en/author/zlitch/)
 
 #### Latest News
+
+ [![A man sitting in a wheelchair, holding a laptop.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%2070'%3E%3C/svg%3E)
+
+![A man sitting in a wheelchair, holding a laptop.](https://e4k4c4x9.delivery.rocketcdn.me/en/wp-content/uploads/sites/15/2024/12/AI-and-disabilities-100x70.png)](https://unric.org/en/building-an-accessible-future-for-all-ai-and-the-inclusion-of-persons-with-disabilities/ "Building an accessible future for all: AI and the inclusion of Persons with Disabilities")
+
+### [Building an accessible future for all: AI and the inclusion of...](https://unric.org/en/building-an-accessible-future-for-all-ai-and-the-inclusion-of-persons-with-disabilities/ "Building an accessible future for all: AI and the inclusion of Persons with Disabilities")
+
+02/12/2024
 
  [![Play2Act banner](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%2070'%3E%3C/svg%3E)
 
@@ -177,17 +181,11 @@ The information will be used internally only for web site traffic analysis. If t
 
 10/09/2024
 
- [![UNRIC Library Backgrounder: Sea Level Rise](https://e4k4c4x9.delivery.rocketcdn.me/en/wp-content/uploads/sites/15/2024/08/sea-level-rise-backgrounder-100x70.png)](https://unric.org/en/unric-library-backgrounder-sea-level-rise/ "UNRIC Library Backgrounder: Sea Level Rise – Selected Online Resources")
-
-### [UNRIC Library Backgrounder: Sea Level Rise – Selected Online Resources](https://unric.org/en/unric-library-backgrounder-sea-level-rise/ "UNRIC Library Backgrounder: Sea Level Rise – Selected Online Resources")
-
-29/08/2024
-
 [Load more](#)
 
 #### Publications
 
-* [December 2024](https://unric.org/en/2024/12/) (1)
+* [December 2024](https://unric.org/en/2024/12/) (3)
 * [November 2024](https://unric.org/en/2024/11/) (23)
 * [October 2024](https://unric.org/en/2024/10/) (38)
 * [September 2024](https://unric.org/en/2024/09/) (34)
