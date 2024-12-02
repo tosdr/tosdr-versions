@@ -231,7 +231,7 @@ _[To Portal Page](https://www.rwth-aachen.de/cms/root/~eex/Die-RWTH/lidx/1/ "To 
 * [Events](https://www.rwth-aachen.de/cms/root/Die-RWTH/Aktuell/~ulx/Veranstaltungen/lidx/1/ "About RWTH > News > Events")
 * [Spotlight](https://www.rwth-aachen.de/cms/root/Die-RWTH/Aktuell/~bbnqse/Im-Fokus/lidx/1/ "About RWTH > News > Spotlight")
 * [Donation Campaign: RWTH and Uniklinik RWTH Aachen Help Ukraine](https://www.rwth-aachen.de/cms/root/Die-RWTH/Aktuell/~trwsa/Spendenaktion-RWTH-und-UKA-helfen-in-de/lidx/1/ "About RWTH > News > Donation Campaign: RWTH and Uniklinik RWTH Aachen Help Ukraine")
-* [Next Generation University](https://www.rwth-aachen.de/cms/root/Die-RWTH/Aktuell/~wsqil/Impulsgebende-Veranstaltungen/lidx/1/ "About RWTH > News > Next Generation University")
+* [Thought Leadership Events](https://www.rwth-aachen.de/cms/root/Die-RWTH/Aktuell/~wsqil/Impulsgebende-Veranstaltungen/lidx/1/ "About RWTH > News > Thought Leadership Events")
 * [Publications](https://www.rwth-aachen.de/cms/root/Die-RWTH/Aktuell/~emw/Magazine-Periodika/lidx/1/ "About RWTH > News > Publications")
 * [More ...](https://www.rwth-aachen.de/cms/root/Die-RWTH/~emo/Aktuell/lidx/1/ "About RWTH > News > More ...")
 
