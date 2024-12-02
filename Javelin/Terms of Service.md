@@ -36,7 +36,7 @@
         * [Consulting & Custom Research](https://javelinstrategy.com/services/consulting-and-custom-research)
         * [Digital Banking Benchmarking](https://javelinstrategy.com/services/digital-banking-benchmarking)
         * [Research Reports & Webinars](https://javelinstrategy.com/thought-leadership)
-        * [Card Bench](https://javelinstrategy.com/node/32416)
+        * [Card Bench](https://javelinstrategy.com/services/card-bench)
     * [PaymentsJournal](https://www.paymentsjournal.com/)
 * Events
     * Industry Events
