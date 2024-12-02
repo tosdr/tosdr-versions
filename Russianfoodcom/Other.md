@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_10.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_6.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -146,6 +146,10 @@
 | [Картинки с выставок](https://www.russianfood.com/themes/?theme_id=18) | 4,98 |
 | Репортажи с выставок производителей продуктов питания. Рассказы о продукции известных и еще неизвестных брендов |     |
 
+Сейчас читают
+
+* [Креветки по-тайски](https://www.russianfood.com/recipes/recipe.php?rid=128549)
+
 |     |
 | --- |
 | Поиск рецептов<br>-------------- |
@@ -166,6 +170,20 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Спешите подкрепиться! Лучшие рецепты БЫСТРЕЕ! №24-49](https://www.russianfood.com/reading/?post_id=22946) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/745/sm_744001.jpg)](https://www.russianfood.com/reading/?post_id=22946)
+
+Закусочный пирог из лаваша с колбасой. Свинина с хурмой в томатном соусе. Куриный суп с тыквой и фасолью. Творожные оладьи с грушей. Кексы с рикоттой и черешней.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22946)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты БЫСТРЕЕ!](https://www.russianfood.com/blogs/?id=338614) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22946#comments) | 02.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -363,20 +381,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174598#comments) | 28.11.24 |     |
 
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Зелёный борщ со шпинатом](https://www.russianfood.com/recipes/recipe.php?rid=173317) |     |
-
-[![Фото к рецепту: Зелёный борщ со шпинатом](//img1.russianfood.com/dycontent/images_upl/736/sm_735382.jpg "Фото к рецепту: Зелёный борщ со шпинатом")](https://www.russianfood.com/recipes/recipe.php?rid=173317)
-
-Лёгкий зелёный борщ на овощном бульоне из лука и моркови, - с щавелем, шпинатом, зелёным луком и петрушкой, - традиционно с отварными яйцами.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173317)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173317#comments) | 28.11.24 |     |
-
 |     |
 | --- |
 | ← Предыдущая \| [Следующая →](https://www.russianfood.com/?page=2) |
@@ -458,3 +462,5 @@
 [![Рейтинг@Mail.ru](//top-fwz1.mail.ru/counter?id=1447532;t=452;l=1)](http://top.mail.ru/jump?from=1447532)       
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
+
+(101)
