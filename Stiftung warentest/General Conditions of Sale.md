@@ -655,21 +655,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Kfz-Versicherung im Vergleich: Wechseln und sparen – hier finden Sie eine güns­tige Auto­versicherung](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Wechseln und sparen – hier finden Sie eine günstige Autoversicherung")
 * [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 * [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 * [Anschluss­finanzierung: So sichern Sie sich einen güns­tigen Anschluss­kredit](https://www.test.de/Anschlussfinanzierung-Kredit-Zinsen-Vergleich-4963970-0/ "Anschlussfinanzierung - So sichern Sie sich einen günstigen Anschlusskredit")
 * [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
 * [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
-* [Fest­geld­vergleich: Hier bringt Ihr Spargeld die beste Rendite – und ist sicher](https://www.test.de/Festgeldvergleich-Die-besten-Zinsen-4196084-0/ "Festgeldvergleich - Hier bringt Ihr Spargeld die beste Rendite – und ist sicher")
 
 test.de entdecken
 
-* [Hoch­ver­arbeitete Lebens­mittel: Zu viel vom Band macht krank](https://www.test.de/Hochverarbeitete-Lebensmittel-Zu-viel-vom-Band-macht-krank-6120161-0/ "Hochverarbeitete Lebensmittel - Zu viel vom Band macht krank")
-* [Gold­berg Capital: Unseriöses Angebot für Starlink-Aktien](https://www.test.de/Goldberg-Capital-Unserioeses-Angebot-fuer-Starlink-Aktien-6135792-0/ "Goldberg Capital - Unseriöses Angebot für Starlink-Aktien")
-* [Investieren in Künst­liche Intelligenz: ETF oder Zertifikate – der Check](https://www.test.de/Investieren-in-Kuenstliche-Intelligenz-ETF-oder-Zertifikate-der-Check-5981554-0/ "Investieren in Künstliche Intelligenz - ETF oder Zertifikate – der Check")
-* [Neues Lebens­mittel-Label: Sagt was zur Herkunft, nichts zur Qualität](https://www.test.de/Neues-Lebensmittel-Label-Sagt-was-zur-Herkunft-nichts-zur-Qualitaet-6164828-0/ "Neues Lebensmittel-Label - Sagt was zur Herkunft, nichts zur Qualität")
-* [Warn­liste Zins­anlagen: Portale versprechen unrealistisch hohe Renditen auf Fest­geld](https://www.test.de/Unrealistische-Zinsversprechen-Falsches-Festgeld-6009488-0/ "Warnliste Zinsanlagen - Portale versprechen unrealistisch hohe Renditen auf Festgeld")
-* [Antide­pressiva: Diese Mittel helfen gegen Depression](https://www.test.de/Antidepressiva-im-Test-5943472-0/ "Antidepressiva - Diese Mittel helfen gegen Depression")
+* [EuGH-Urteil: Vertrag darf nicht nur vom Schufa-Score abhängen](https://www.test.de/EuGH-Urteil-Vertrag-darf-nicht-nur-vom-Schufa-Score-abhaengen-6073255-0/ "EuGH-Urteil - Vertrag darf nicht nur vom Schufa-Score abhängen")
+* [Boden­reiniger im Test: Sanft gepflegt mit einem Wisch](https://www.test.de/Bodenreiniger-im-Test-5992245-0/ "Bodenreiniger im Test - Sanft gepflegt mit einem Wisch")
+* [Dubioses Fest­geld: KT Investment ignorieren](https://www.test.de/Dubioses-Festgeld-KT-Investment-ignorieren-6062892-0/ "Dubioses Festgeld - KT Investment ignorieren")
+* [Gesund­heits­daten auf dem Smartphone: Im Notfall leicht zugäng­lich](https://www.test.de/Gesundheitsdaten-auf-dem-Smartphone-Im-Notfall-leicht-zugaenglich-6156109-0/ "Gesundheitsdaten auf dem Smartphone - Im Notfall leicht zugänglich")
+* [Verpackungs­ärger: Vivani-Schokoriegel](https://www.test.de/Verpackungsaerger-Vivani-Schokoriegel-5970152-0/ "Verpackungsärger - Vivani-Schokoriegel")
+* [Ratgeber Hilfe, ich habe geerbt: Formulare zum Download](https://www.test.de/Ratgeber-Hilfe-ich-habe-geerbt-Formulare-zum-Download-6038257-0/ "Ratgeber Hilfe, ich habe geerbt - Formulare zum Download")
 
 Weitere Informationen
 
@@ -3073,21 +3073,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Kfz-Versicherung im Vergleich: Wechseln und sparen – hier finden Sie eine güns­tige Auto­versicherung](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Wechseln und sparen – hier finden Sie eine günstige Autoversicherung")
 * [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 * [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 * [Anschluss­finanzierung: So sichern Sie sich einen güns­tigen Anschluss­kredit](https://www.test.de/Anschlussfinanzierung-Kredit-Zinsen-Vergleich-4963970-0/ "Anschlussfinanzierung - So sichern Sie sich einen günstigen Anschlusskredit")
 * [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
 * [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
-* [Fest­geld­vergleich: Hier bringt Ihr Spargeld die beste Rendite – und ist sicher](https://www.test.de/Festgeldvergleich-Die-besten-Zinsen-4196084-0/ "Festgeldvergleich - Hier bringt Ihr Spargeld die beste Rendite – und ist sicher")
 
 test.de entdecken
 
-* [Hoch­ver­arbeitete Lebens­mittel: Zu viel vom Band macht krank](https://www.test.de/Hochverarbeitete-Lebensmittel-Zu-viel-vom-Band-macht-krank-6120161-0/ "Hochverarbeitete Lebensmittel - Zu viel vom Band macht krank")
-* [Gold­berg Capital: Unseriöses Angebot für Starlink-Aktien](https://www.test.de/Goldberg-Capital-Unserioeses-Angebot-fuer-Starlink-Aktien-6135792-0/ "Goldberg Capital - Unseriöses Angebot für Starlink-Aktien")
-* [Investieren in Künst­liche Intelligenz: ETF oder Zertifikate – der Check](https://www.test.de/Investieren-in-Kuenstliche-Intelligenz-ETF-oder-Zertifikate-der-Check-5981554-0/ "Investieren in Künstliche Intelligenz - ETF oder Zertifikate – der Check")
-* [Neues Lebens­mittel-Label: Sagt was zur Herkunft, nichts zur Qualität](https://www.test.de/Neues-Lebensmittel-Label-Sagt-was-zur-Herkunft-nichts-zur-Qualitaet-6164828-0/ "Neues Lebensmittel-Label - Sagt was zur Herkunft, nichts zur Qualität")
-* [Warn­liste Zins­anlagen: Portale versprechen unrealistisch hohe Renditen auf Fest­geld](https://www.test.de/Unrealistische-Zinsversprechen-Falsches-Festgeld-6009488-0/ "Warnliste Zinsanlagen - Portale versprechen unrealistisch hohe Renditen auf Festgeld")
-* [Antide­pressiva: Diese Mittel helfen gegen Depression](https://www.test.de/Antidepressiva-im-Test-5943472-0/ "Antidepressiva - Diese Mittel helfen gegen Depression")
+* [EuGH-Urteil: Vertrag darf nicht nur vom Schufa-Score abhängen](https://www.test.de/EuGH-Urteil-Vertrag-darf-nicht-nur-vom-Schufa-Score-abhaengen-6073255-0/ "EuGH-Urteil - Vertrag darf nicht nur vom Schufa-Score abhängen")
+* [Boden­reiniger im Test: Sanft gepflegt mit einem Wisch](https://www.test.de/Bodenreiniger-im-Test-5992245-0/ "Bodenreiniger im Test - Sanft gepflegt mit einem Wisch")
+* [Dubioses Fest­geld: KT Investment ignorieren](https://www.test.de/Dubioses-Festgeld-KT-Investment-ignorieren-6062892-0/ "Dubioses Festgeld - KT Investment ignorieren")
+* [Gesund­heits­daten auf dem Smartphone: Im Notfall leicht zugäng­lich](https://www.test.de/Gesundheitsdaten-auf-dem-Smartphone-Im-Notfall-leicht-zugaenglich-6156109-0/ "Gesundheitsdaten auf dem Smartphone - Im Notfall leicht zugänglich")
+* [Verpackungs­ärger: Vivani-Schokoriegel](https://www.test.de/Verpackungsaerger-Vivani-Schokoriegel-5970152-0/ "Verpackungsärger - Vivani-Schokoriegel")
+* [Ratgeber Hilfe, ich habe geerbt: Formulare zum Download](https://www.test.de/Ratgeber-Hilfe-ich-habe-geerbt-Formulare-zum-Download-6038257-0/ "Ratgeber Hilfe, ich habe geerbt - Formulare zum Download")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -3129,39 +3129,39 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Kfz-Versicherung im Vergleich: Wechseln und sparen – hier finden Sie eine güns­tige Auto­versicherung](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Wechseln und sparen – hier finden Sie eine günstige Autoversicherung")
 * [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 * [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 * [Anschluss­finanzierung: So sichern Sie sich einen güns­tigen Anschluss­kredit](https://www.test.de/Anschlussfinanzierung-Kredit-Zinsen-Vergleich-4963970-0/ "Anschlussfinanzierung - So sichern Sie sich einen günstigen Anschlusskredit")
 * [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
 * [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
-* [Fest­geld­vergleich: Hier bringt Ihr Spargeld die beste Rendite – und ist sicher](https://www.test.de/Festgeldvergleich-Die-besten-Zinsen-4196084-0/ "Festgeldvergleich - Hier bringt Ihr Spargeld die beste Rendite – und ist sicher")
 
 test.de entdecken
 
-* [Hoch­ver­arbeitete Lebens­mittel: Zu viel vom Band macht krank](https://www.test.de/Hochverarbeitete-Lebensmittel-Zu-viel-vom-Band-macht-krank-6120161-0/ "Hochverarbeitete Lebensmittel - Zu viel vom Band macht krank")
-* [Gold­berg Capital: Unseriöses Angebot für Starlink-Aktien](https://www.test.de/Goldberg-Capital-Unserioeses-Angebot-fuer-Starlink-Aktien-6135792-0/ "Goldberg Capital - Unseriöses Angebot für Starlink-Aktien")
-* [Investieren in Künst­liche Intelligenz: ETF oder Zertifikate – der Check](https://www.test.de/Investieren-in-Kuenstliche-Intelligenz-ETF-oder-Zertifikate-der-Check-5981554-0/ "Investieren in Künstliche Intelligenz - ETF oder Zertifikate – der Check")
-* [Neues Lebens­mittel-Label: Sagt was zur Herkunft, nichts zur Qualität](https://www.test.de/Neues-Lebensmittel-Label-Sagt-was-zur-Herkunft-nichts-zur-Qualitaet-6164828-0/ "Neues Lebensmittel-Label - Sagt was zur Herkunft, nichts zur Qualität")
-* [Warn­liste Zins­anlagen: Portale versprechen unrealistisch hohe Renditen auf Fest­geld](https://www.test.de/Unrealistische-Zinsversprechen-Falsches-Festgeld-6009488-0/ "Warnliste Zinsanlagen - Portale versprechen unrealistisch hohe Renditen auf Festgeld")
-* [Antide­pressiva: Diese Mittel helfen gegen Depression](https://www.test.de/Antidepressiva-im-Test-5943472-0/ "Antidepressiva - Diese Mittel helfen gegen Depression")
+* [EuGH-Urteil: Vertrag darf nicht nur vom Schufa-Score abhängen](https://www.test.de/EuGH-Urteil-Vertrag-darf-nicht-nur-vom-Schufa-Score-abhaengen-6073255-0/ "EuGH-Urteil - Vertrag darf nicht nur vom Schufa-Score abhängen")
+* [Boden­reiniger im Test: Sanft gepflegt mit einem Wisch](https://www.test.de/Bodenreiniger-im-Test-5992245-0/ "Bodenreiniger im Test - Sanft gepflegt mit einem Wisch")
+* [Dubioses Fest­geld: KT Investment ignorieren](https://www.test.de/Dubioses-Festgeld-KT-Investment-ignorieren-6062892-0/ "Dubioses Festgeld - KT Investment ignorieren")
+* [Gesund­heits­daten auf dem Smartphone: Im Notfall leicht zugäng­lich](https://www.test.de/Gesundheitsdaten-auf-dem-Smartphone-Im-Notfall-leicht-zugaenglich-6156109-0/ "Gesundheitsdaten auf dem Smartphone - Im Notfall leicht zugänglich")
+* [Verpackungs­ärger: Vivani-Schokoriegel](https://www.test.de/Verpackungsaerger-Vivani-Schokoriegel-5970152-0/ "Verpackungsärger - Vivani-Schokoriegel")
+* [Ratgeber Hilfe, ich habe geerbt: Formulare zum Download](https://www.test.de/Ratgeber-Hilfe-ich-habe-geerbt-Formulare-zum-Download-6038257-0/ "Ratgeber Hilfe, ich habe geerbt - Formulare zum Download")
 
 Neueste Tests
 
+* [Kfz-Versicherung im Vergleich: Wechseln und sparen – hier finden Sie eine güns­tige Auto­versicherung](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Wechseln und sparen – hier finden Sie eine günstige Autoversicherung")
 * [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 * [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 * [Anschluss­finanzierung: So sichern Sie sich einen güns­tigen Anschluss­kredit](https://www.test.de/Anschlussfinanzierung-Kredit-Zinsen-Vergleich-4963970-0/ "Anschlussfinanzierung - So sichern Sie sich einen günstigen Anschlusskredit")
 * [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
 * [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
-* [Fest­geld­vergleich: Hier bringt Ihr Spargeld die beste Rendite – und ist sicher](https://www.test.de/Festgeldvergleich-Die-besten-Zinsen-4196084-0/ "Festgeldvergleich - Hier bringt Ihr Spargeld die beste Rendite – und ist sicher")
 
 test.de entdecken
 
-* [Hoch­ver­arbeitete Lebens­mittel: Zu viel vom Band macht krank](https://www.test.de/Hochverarbeitete-Lebensmittel-Zu-viel-vom-Band-macht-krank-6120161-0/ "Hochverarbeitete Lebensmittel - Zu viel vom Band macht krank")
-* [Gold­berg Capital: Unseriöses Angebot für Starlink-Aktien](https://www.test.de/Goldberg-Capital-Unserioeses-Angebot-fuer-Starlink-Aktien-6135792-0/ "Goldberg Capital - Unseriöses Angebot für Starlink-Aktien")
-* [Investieren in Künst­liche Intelligenz: ETF oder Zertifikate – der Check](https://www.test.de/Investieren-in-Kuenstliche-Intelligenz-ETF-oder-Zertifikate-der-Check-5981554-0/ "Investieren in Künstliche Intelligenz - ETF oder Zertifikate – der Check")
-* [Neues Lebens­mittel-Label: Sagt was zur Herkunft, nichts zur Qualität](https://www.test.de/Neues-Lebensmittel-Label-Sagt-was-zur-Herkunft-nichts-zur-Qualitaet-6164828-0/ "Neues Lebensmittel-Label - Sagt was zur Herkunft, nichts zur Qualität")
-* [Warn­liste Zins­anlagen: Portale versprechen unrealistisch hohe Renditen auf Fest­geld](https://www.test.de/Unrealistische-Zinsversprechen-Falsches-Festgeld-6009488-0/ "Warnliste Zinsanlagen - Portale versprechen unrealistisch hohe Renditen auf Festgeld")
-* [Antide­pressiva: Diese Mittel helfen gegen Depression](https://www.test.de/Antidepressiva-im-Test-5943472-0/ "Antidepressiva - Diese Mittel helfen gegen Depression")
+* [EuGH-Urteil: Vertrag darf nicht nur vom Schufa-Score abhängen](https://www.test.de/EuGH-Urteil-Vertrag-darf-nicht-nur-vom-Schufa-Score-abhaengen-6073255-0/ "EuGH-Urteil - Vertrag darf nicht nur vom Schufa-Score abhängen")
+* [Boden­reiniger im Test: Sanft gepflegt mit einem Wisch](https://www.test.de/Bodenreiniger-im-Test-5992245-0/ "Bodenreiniger im Test - Sanft gepflegt mit einem Wisch")
+* [Dubioses Fest­geld: KT Investment ignorieren](https://www.test.de/Dubioses-Festgeld-KT-Investment-ignorieren-6062892-0/ "Dubioses Festgeld - KT Investment ignorieren")
+* [Gesund­heits­daten auf dem Smartphone: Im Notfall leicht zugäng­lich](https://www.test.de/Gesundheitsdaten-auf-dem-Smartphone-Im-Notfall-leicht-zugaenglich-6156109-0/ "Gesundheitsdaten auf dem Smartphone - Im Notfall leicht zugänglich")
+* [Verpackungs­ärger: Vivani-Schokoriegel](https://www.test.de/Verpackungsaerger-Vivani-Schokoriegel-5970152-0/ "Verpackungsärger - Vivani-Schokoriegel")
+* [Ratgeber Hilfe, ich habe geerbt: Formulare zum Download](https://www.test.de/Ratgeber-Hilfe-ich-habe-geerbt-Formulare-zum-Download-6038257-0/ "Ratgeber Hilfe, ich habe geerbt - Formulare zum Download")
 
 Stiftung Warentest
 
