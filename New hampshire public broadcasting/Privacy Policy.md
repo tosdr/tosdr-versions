@@ -184,7 +184,7 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
-* [**Why Black women are more likely to get unneeded C-sections** | PBS News Hour](https://video.nhpbs.org/video/unequal-treatment-1733000185?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**News Wrap: Hamas releases video of Israeli-American hostage** | PBS News Hour](https://video.nhpbs.org/video/news-wrap-1733088200?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**What to expect from Trump's planned federal overhaul** | Washington Week with The Atlantic](https://video.nhpbs.org/video/what-to-expect-from-trumps-planned-federal-overhaul-4c76rq?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Cornel West & Robert George** | Firing Line](https://video.nhpbs.org/video/cornel-west-robert-george-vkwmab?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**November 27, 2024** | Amanpour and Company](https://video.nhpbs.org/video/november-27-2024-aikgqf?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
