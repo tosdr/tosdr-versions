@@ -205,24 +205,25 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Vagrant Story (PSX)](https://www.somethingawful.com/game-reviews/vagrant-story-psx/1/)
-* [The Pedo Files](https://www.somethingawful.com/weekend-web/the-pedo-files/1/)
-* [The World Needs More Nonsensical Games With Music Artists](https://www.somethingawful.com/music-article/music-artist-games/)
-* [ZALGO](https://www.somethingawful.com/flash-tub/zalgo-cartoon/)
-* [Keeping Up With Jack White's Projects](https://www.somethingawful.com/music-article/jack-white-projects/)
+* [Beast Forum](https://www.somethingawful.com/weekend-web/beastforum/1/)
+* [Modernized Art](https://www.somethingawful.com/photoshop-phriday/modernized-art/1/)
+* [A Guide to Gracefully Losing an Internet Argument](https://www.somethingawful.com/news/internet-argument-lose/1/)
+* [The Horrible Saga of SWAP.avi](https://www.somethingawful.com/horrors-of-porn/horrible-saga-swapavi/)
+* [Watch out Joe Walsh. Paranoid Fantasy America is coming after you.](https://www.somethingawful.com/news/walsh-threatens-obama/)
 
 ### Popular Threads
 
 * ![](https://fi.somethingawful.com/forums/posticons/byob-salt.gif) [What cheap stuff do you prefer over more expensive stuff?](http://forums.somethingawful.com/showthread.php?threadid=4076653 "What cheap stuff do you prefer over more expensive stuff?")
 * ![](https://fi.somethingawful.com/forums/posticons/diy-homeimprove.gif) [Fantasy Team the Best/Worst/Funniest Sitcom Cast](http://forums.somethingawful.com/showthread.php?threadid=4076624 "Fantasy Team the Best/Worst/Funniest Sitcom Cast")
+* ![](https://fi.somethingawful.com/forums/posticons/cd_action.gif) [Did Somebody Shoot My Car?](http://forums.somethingawful.com/showthread.php?threadid=4076669 "Did Somebody Shoot My Car?")
 
 ### Random Articles
 
-* [Teddy Babes](https://www.somethingawful.com/awful-links/teddy-babes-doll/)
-* [Ad Campaigns Gone Horribly Wrong](https://www.somethingawful.com/news/ad-campaigns-gone/)
-* [Misspelled Movies II](https://www.somethingawful.com/photoshop-phriday/misspelled-movies-ii/1/)
-* [The Biggest Movie of the Year](https://www.somethingawful.com/photoshop-phriday/biggest-movie-year/1/)
-* [HAPPY HALLOWEEN EVERYBODY, BOO, I'M A GHOST (I DIED)](https://www.somethingawful.com/levi-johnston/levi-dead-halloween/)
+* [Pocket Ninjas: FIRST STRIKE!](https://www.somethingawful.com/news/pocket-ninjas-first/)
+* [Five Years :(](https://www.somethingawful.com/mooflogs/five-years/)
+* [Subj: LITTLE PROBLEMS...](https://www.somethingawful.com/news/roamin-dad-29/)
+* [WhaleRider](https://www.somethingawful.com/awful-links/awful-link-1184/)
+* [MENSA Mission: 2005 AD](https://www.somethingawful.com/news/mensa-mission-2005/)
 
 [Random!](https://www.somethingawful.com/random/)
 
