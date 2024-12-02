@@ -252,6 +252,7 @@ By clicking sign up, I agree to receive emails about ADT offers and I understand
 
 ### [Customer Service](#customerService)
 
+* [Moving](https://www.adt.com/safe-move "Moving")
 * [Support](https://www.adt.com/help "Support")
 * [Contact Us](https://help.adt.com/s/contactsupport "Contact Us")
 * Leave Website Feedback
@@ -284,6 +285,7 @@ By clicking sign up, I agree to receive emails about ADT offers and I understand
 
 ### Customer Service
 
+* [Moving](https://www.adt.com/safe-move "Moving")
 * [Support](https://www.adt.com/help "Support")
 * [Contact Us](https://help.adt.com/s/contactsupport "Contact Us")
 * Leave Website Feedback
