@@ -1,12 +1,12 @@
 [Skip to content](#MainContent)
 
-[**Cyber Monday Sale - Free Gift + Save up to 70%**](https://tuttletwins.store/collections/shop-all)
+[**Cyber Monday: 70% Off + Gifts**](https://tuttletwins.store/collections/shop-all)
 
-[**Free shipping on orders $70+ (USA Only)**](https://tuttletwins.store/collections/shop-all)
+[**Free shipping on orders $70+ (US Only)**](https://tuttletwins.store/collections/shop-all)
 
    
 
-[Cyber Monday Sale - FREE Gifts While Supplies Last
+[Cyber Monday Sale - FREE Gifts
 
 DAYS
 
