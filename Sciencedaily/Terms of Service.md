@@ -253,7 +253,7 @@ this week
 
 [COVID and SARS](https://www.sciencedaily.com/news/health_medicine/covid_and_sars/)
 
-[Diabetes](https://www.sciencedaily.com/news/health_medicine/diabetes/)
+[Hormone Disorders](https://www.sciencedaily.com/news/health_medicine/hormone_disorders/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
@@ -269,7 +269,7 @@ this week
 
 [Birds](https://www.sciencedaily.com/news/plants_animals/birds/)
 
-[Behavioral Science](https://www.sciencedaily.com/news/plants_animals/behavior/)
+[Wildfires](https://www.sciencedaily.com/news/earth_climate/wildfires/)
 
   
 
