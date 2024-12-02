@@ -181,6 +181,7 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [New York City Politicians Attack Guns, Not Crime](https://www.thegunpage.com/new-york-city-politicians-attack-guns-not-crime/10612218)
 * [Savage Arms Announces the New Stance XR Micro Pistol](https://www.thegunpage.com/savage-arms-announces-the-new-stance-xr-micro-pistol/10612215)
 * [Pro-Gun, Anti-Gun Bills Pre-Filed In Lone Star State Legislature](https://www.thegunpage.com/pro-gun-anti-gun-bills-pre-filed-in-lone-star-state-legislature/10612213)
 * [Special Forces Bros Test $650 Glock 19 vs. $4,300 Staccato XC](https://www.thegunpage.com/special-forces-bros-test-650-glock-19-vs-4300-staccato-xc/10612212)
@@ -190,7 +191,6 @@ Recent Posts
 * [Why the First Kalashnikov Machine Gun was a Complete Failure?](https://www.thegunpage.com/why-the-first-kalashnikov-machine-gun-was-a-complete-failure/10612197)
 * [POTD: FN Minimi & FORT-600 In Ukraine](https://www.thegunpage.com/potd-fn-minimi-fort-600-in-ukraine/10612198)
 * [TFB Podcast Roundup 157: The Black Friday 2024 Roundup](https://www.thegunpage.com/tfb-podcast-roundup-157-the-black-friday-2024-roundup/10612199)
-* [Medical Academy Backs Suppressors for Hearing Protection](https://www.thegunpage.com/medical-academy-backs-suppressors-for-hearing-protection/10612192)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
