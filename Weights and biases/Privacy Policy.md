@@ -13,7 +13,7 @@
     
     Close Platform Open Platform
     
-    Models: MLOps solution
+    [Models: MLOps solution](https://wandb.ai/site/models)
     
     * [Experiments  
         Track and visualize your ML experiments](https://wandb.ai/site/experiment-tracking/)
@@ -153,6 +153,7 @@
 
 [Sign up](https://app.wandb.ai/login?signup=true&_gl=1*1njlh40*_ga*MjAzMDY0NTMxOC4xNjg2NzMzODEw*_ga_JH1SJHJQXJ*MTY5MDk5MDgxNS4xMjEuMS4xNjkwOTkxMDExLjYwLjAuMA..)
 
+* [ko](https://wandb.ai/site/ko/privacy/)
 * [ja](https://wandb.ai/site/ja/privacy/)
 * [en](https://wandb.ai/site/privacy)
 * [de](https://wandb.ai/site/de/privacy/)
@@ -502,12 +503,14 @@ Copyright © Weights & Biases. All rights reserved.
 * [Privacy policy](https://wandb.ai/site/privacy)
 * [English](https://wandb.ai/site/privacy "English")
     * [日本語 (Japanese)](https://wandb.ai/site/ja/privacy/ "Japanese")
+    * [한국어 (Korean)](https://wandb.ai/site/ko/privacy/ "Korean")
     * [Deutsch (German)](https://wandb.ai/site/de/privacy/ "German")
 
 * [Website terms of use](https://wandb.ai/site/website-terms-of-use)
 * [Privacy policy](https://wandb.ai/site/privacy)
 * [English](https://wandb.ai/site/privacy "English")
     * [日本語 (Japanese)](https://wandb.ai/site/ja/privacy/ "Japanese")
+    * [한국어 (Korean)](https://wandb.ai/site/ko/privacy/ "Korean")
     * [Deutsch (German)](https://wandb.ai/site/de/privacy/ "German")
 
 * Platform
