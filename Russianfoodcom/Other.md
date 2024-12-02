@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_4.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_10.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,9 +148,10 @@
 
 Сейчас читают
 
-* [Рулетики из жареной пекинской капусты с ветчиной и помидорами](https://www.russianfood.com/recipes/recipe.php?rid=174865)
-* [Салат "Глаз Змеи" с курицей, ананасами и кукурузой](https://www.russianfood.com/recipes/recipe.php?rid=174705)
-* [Креветки по-тайски](https://www.russianfood.com/recipes/recipe.php?rid=128549)
+* [Кокосовое безе с шоколадной глазурью](https://www.russianfood.com/recipes/recipe.php?rid=173191)
+* [Вертуты с тыквой](https://www.russianfood.com/recipes/recipe.php?rid=159395)
+* [Слоёный пирог со шпинатом и фетой](https://www.russianfood.com/recipes/recipe.php?rid=166853)
+* [Шоколадные булочки](https://www.russianfood.com/recipes/recipe.php?rid=172069)
 
 |     |
 | --- |
@@ -175,6 +176,20 @@
 
 |     |     |
 | --- | --- |
+| Рецепты<br><br>[Хумус из фасоли](https://www.russianfood.com/recipes/recipe.php?rid=174576) |     |
+
+[![Фото к рецепту: Хумус из фасоли](//img1.russianfood.com/dycontent/images_upl/749/sm_748664.jpg "Фото к рецепту: Хумус из фасоли")](https://www.russianfood.com/recipes/recipe.php?rid=174576)
+
+Этот хумус готовится не из нута, как по традиционному рецепту, а из фасоли, что значительно дешевле. По вкусу такой хумус не уступает классическому варианту, даже вкуснее и нежнее.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174576)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [ZNAIKA](https://www.russianfood.com/blogs/?id=12414) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174576#comments) | 02.12.24 |     |
+
+|     |     |
+| --- | --- |
 | Для прессы<br><br>[Праздники не за горами! Лучшие САЛАТЫ №24-49](https://www.russianfood.com/reading/?post_id=22948) |     |
 
 [![](//img1.russianfood.com/dycontent/images_upl/749/sm_748318.jpg)](https://www.russianfood.com/reading/?post_id=22948)
@@ -185,7 +200,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие салаты](https://www.russianfood.com/blogs/?id=325071) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22948#comments) | 02.12.24 |     |
+|     | [Лучшие салаты](https://www.russianfood.com/blogs/?id=325071) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [1](https://www.russianfood.com/reading/?post_id=22948#comments) | 02.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -311,7 +326,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [HomeRecipes](https://www.russianfood.com/blogs/?id=300916) | _![](/images/blank.gif)_6 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174973#comments) | 30.11.24 |     |
+|     | [HomeRecipes](https://www.russianfood.com/blogs/?id=300916) | _![](/images/blank.gif)_7 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174973#comments) | 30.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -368,20 +383,6 @@
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Лучшие супы](https://www.russianfood.com/blogs/?id=325357) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22933#comments) | 28.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Жареные пирожки на кефире, с квашеной капустой](https://www.russianfood.com/recipes/recipe.php?rid=174872) |     |
-
-[![Фото к рецепту: Жареные пирожки на кефире, с квашеной капустой](//img1.russianfood.com/dycontent/images_upl/754/sm_753081.jpg "Фото к рецепту: Жареные пирожки на кефире, с квашеной капустой")](https://www.russianfood.com/recipes/recipe.php?rid=174872)
-
-Румяные, очень нежные и вкусные домашние жареные пирожки на кефире с квашеной капустой. Квашеная капуста богата витаминами, а тесто на кефире и сметане делает пирожки мягкими и невероятно воздушными, не отличишь от дрожжевых.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174872)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_11 _![](/images/blank.gif)_0 |     | [1](https://www.russianfood.com/recipes/recipe.php?rid=174872#comments) | 28.11.24 |     |
 
 |     |
 | --- |
@@ -450,6 +451,13 @@
 |     |     |
 | [Подписаться письмом](mailto:home.cookery.prostierecepti-sub@subscribe.ru?subj=subscribe) |     |
 
+Новые рецепты:
+
+|     |
+| --- |
+| [![](//img1.russianfood.com/dycontent/images_upl/749/alt1_748664.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174576) |
+| [Хумус из фасоли](https://www.russianfood.com/recipes/recipe.php?rid=174576) |
+
 |     |     |     |
 | --- | --- | --- |
 | ![](//img1.russianfood.com/images/common/bottom_line1.jpg) | ![](//img1.russianfood.com/images/common/bottom_line2.jpg) |     |
@@ -465,4 +473,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(157)
+(148)
