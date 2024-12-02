@@ -1,4 +1,4 @@
-![analytics](https://ssc.currenttime.tv/b/ss/bbgprod,bbgentityrferl/1/G.4--NS/1911837421?pageName=rfe-voa%3acten%3aw%3asection%20index%3aterms%20of%20use&c6=terms%20of%20use&v36=8.35.0.0.347&v6=D=c6&g=https%3a%2f%2fen.currenttime.tvterms-of-use&c1=D=g&v1=D=g&events=event1&c16=current%20time%20english&v16=D=c16&c5=terms-of-use2&v5=D=c5&ch=terms%20of%20use&c15=english&v15=D=c15&c4=index&v4=D=c4&v20=no&c17=web&v17=D=c17&mcorgid=518abc7455e462b97f000101%40adobeorg&server=en.currenttime.tv&pageType=D=c4&ns=bbg&v29=D=server&v25=rfe&v30=505&v105=D=User-Agent )
+![analytics](https://ssc.currenttime.tv/b/ss/bbgprod,bbgentityrferl/1/G.4--NS/1772267444?pageName=rfe-voa%3acten%3aw%3asection%20index%3aterms%20of%20use&c6=terms%20of%20use&v36=8.36.0.0.348&v6=D=c6&g=https%3a%2f%2fen.currenttime.tvterms-of-use&c1=D=g&v1=D=g&events=event1&c16=current%20time%20english&v16=D=c16&c5=terms-of-use2&v5=D=c5&ch=terms%20of%20use&c15=english&v15=D=c15&c4=index&v4=D=c4&v20=no&c17=web&v17=D=c17&mcorgid=518abc7455e462b97f000101%40adobeorg&server=en.currenttime.tv&pageType=D=c4&ns=bbg&v29=D=server&v25=rfe&v30=505&v105=D=User-Agent )
 
 Accessibility links
 -------------------
@@ -91,8 +91,6 @@ We only use your e-mail address to send you the newsletters to which you have su
 We have an external partner - Goolara, LLC (located in California, USA) helping us with the e-mail newsletters. We have signed appropriate agreements with Goolara, LLC ensuring that they take data protection as seriously as we do.
 
 If you have any questions regarding your data privacy, please do not hesitate to contact us at [dataprotection@rferl.org](mailto:dataprotection@rferl.org?subject=Data%20Privacy)
-
-[Back to top](#page "Back to top")
 
 * FOLLOW US ON RFE/RL
     
