@@ -406,9 +406,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ There is a single light of science, and to brighten it anywhere is to brighten it everywhere”
+“ It's only "work" if you'd rather be doing something else”
 
-[Isaac Asimov](http://en.wikipedia.org/wiki/Isaac_Asimov)
+[Dean Kamen](https://en.wikipedia.org/wiki/Dean_Kamen)
 
 [](https://www.adafruit.com/about)
 
