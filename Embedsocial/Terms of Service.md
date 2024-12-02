@@ -183,7 +183,7 @@ Search
     * [LinkedIn Slider](https://embedsocial.com/p/templates/linkedin-feed-slider-widget "LinkedIn Slider")
     * [All 70+ Feed Templates ↗](https://embedsocial.com/p/templates/feed "All 70+ Feed Templates ↗")
     
-    UGC Widgets Templates
+    [UGC](https://embedsocial.com/blog/what-is-user-generated-content/) Widgets Templates
     
     * [Shop The Look Instagram Widget](https://embedsocial.com/p/templates/shop-the-look-instagram-slider "Shop The Look Instagram Widget")
     * [‘Shop My Feed’ Instagram Widget](https://embedsocial.com/p/templates/shop-my-feed-instagram-widget "'Shop My Feed' Instagram Widget")
