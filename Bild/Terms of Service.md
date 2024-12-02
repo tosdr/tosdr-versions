@@ -207,28 +207,6 @@ Menü
     ===
     
 
-[BreakingNews
-
-Italien-Star (22) bricht auf Platz zusammen – Top-Spiel abgebrochen!
-
-Italien-Star (22) bricht auf Platz zusammen – Top-Spiel abgebrochen!
-
-Italien-Star (22) bricht auf Platz zusammen – Top-Spiel abgebrochen!
-
-Italien-Star (22) bricht auf Platz zusammen – Top-Spiel abgebrochen!
-
-Italien-Star (22) bricht auf Platz zusammen – Top-Spiel abgebrochen!
-
-Italien-Star (22) bricht auf Platz zusammen – Top-Spiel abgebrochen!
-
-Italien-Star (22) bricht auf Platz zusammen – Top-Spiel abgebrochen!
-
-Italien-Star (22) bricht auf Platz zusammen – Top-Spiel abgebrochen!
-
-Italien-Star (22) bricht auf Platz zusammen – Top-Spiel abgebrochen!
-
-Italien-Star (22) bricht auf Platz zusammen – Top-Spiel abgebrochen!](https://www.bild.de/sport/fussball/serie-a-italien-star-bricht-auf-platz-zusammen-mitspieler-unter-schock-674c9c8489f5236661140997)
-
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
  AGB: Nutzungsbedingungen für die digitalen Angebote von BILD
