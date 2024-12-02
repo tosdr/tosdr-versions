@@ -39,6 +39,11 @@ Toggle navigation [ScalaCube](https://scalacube.com/ "ScalaCube - Game Server Ho
     * [Português](https://scalacube.com/pt)
     * [Русский](https://scalacube.com/ru)
     * [українська](https://scalacube.com/uk)
+    * [Български](https://scalacube.com/bg)
+    * [Dansk](https://scalacube.com/da)
+    * [Norsk](https://scalacube.com/no)
+    * [Română](https://scalacube.com/ro)
+    * [Svenska](https://scalacube.com/se)
     
     Asia
     
@@ -49,6 +54,7 @@ Toggle navigation [ScalaCube](https://scalacube.com/ "ScalaCube - Game Server Ho
     * [日本語](https://scalacube.com/ja)
     * [한국인](https://scalacube.com/kr)
     * [Русский](https://scalacube.com/ru)
+    * [اردو](https://scalacube.com/ur)
     
     Africa
     
@@ -70,6 +76,7 @@ Toggle navigation [ScalaCube](https://scalacube.com/ "ScalaCube - Game Server Ho
     * [Español](https://scalacube.com/es)
     * [日本語](https://scalacube.com/ja)
     * [简体中文](https://scalacube.com/zh)
+    * [Melayu](https://scalacube.com/ms)
     
 * [](#)
     * [USD ($)](#)
@@ -121,6 +128,13 @@ Toggle navigation [ScalaCube](https://scalacube.com/ "ScalaCube - Game Server Ho
     * [Português](https://scalacube.com/pt)
     * [Italiano](https://scalacube.com/it)
     * [한국인](https://scalacube.com/kr)
+    * [Български](https://scalacube.com/bg)
+    * [Dansk](https://scalacube.com/da)
+    * [Norsk](https://scalacube.com/no)
+    * [Română](https://scalacube.com/ro)
+    * [Svenska](https://scalacube.com/se)
+    * [اردو](https://scalacube.com/ur)
+    * [Melayu](https://scalacube.com/ms)
 
 * [Minecraft Server Hosting](https://scalacube.com/hosting/server/minecraft)
 * [Game Hosting](javascript:void(0))
@@ -174,6 +188,11 @@ Europe
 * [Português](https://scalacube.com/pt)
 * [Русский](https://scalacube.com/ru)
 * [українська](https://scalacube.com/uk)
+* [Български](https://scalacube.com/bg)
+* [Dansk](https://scalacube.com/da)
+* [Norsk](https://scalacube.com/no)
+* [Română](https://scalacube.com/ro)
+* [Svenska](https://scalacube.com/se)
 
 Asia
 
@@ -184,6 +203,7 @@ Asia
 * [日本語](https://scalacube.com/ja)
 * [한국인](https://scalacube.com/kr)
 * [Русский](https://scalacube.com/ru)
+* [اردو](https://scalacube.com/ur)
 
 Africa
 
@@ -205,6 +225,7 @@ Oceania
 * [Español](https://scalacube.com/es)
 * [日本語](https://scalacube.com/ja)
 * [简体中文](https://scalacube.com/zh)
+* [Melayu](https://scalacube.com/ms)
 
 Privacy Policy
 ==============
@@ -1011,6 +1032,7 @@ Address: Harju maakond, Tallinn, Kesklinna linnaosa, Vesivärava tn 50-201, 1015
 * [Support](https://scalacube.com/help)
 * [Affiliate Program](https://scalacube.com/affiliate-program)
 * [Jobs](https://scalacube.com/jobs)
+* [Our Team](https://scalacube.com/team)
 * [Apply for Sponsorship](https://scalacube.com/help/gameservers/minecraft/how-to-get-a-sponsored-minecraft-server)
 * [Sitemap](https://scalacube.com/sitemap)
 * [Minecraft Server List](https://scalacube.com/server-list/minecraft)
