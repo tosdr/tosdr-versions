@@ -306,15 +306,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-“Harry Potter and the Chamber of Secrets” was once called “Harry Potter and the Half-Blood Prince”.
+Ginny Weasley’s full first name is Ginevra, not Virginia.
 
 ### Potter History
 
-August 2, 2007 – Scholastic announces Harry Potter and the Deathly Hallows sold 11.5 million copies in just 10 days.
+November 7, 2010 – The official Harry Potter website announces that Alexandre Desplat will return to compose the music for Harry Potter and the Deathly Hallows – Part 2.
 
 ### Potter Quote
 
-“Do you know why I admire you, Newt? More, perhaps, than any man I know? You don’t seek power or popularity. You simply ask, is the thing right in itself? If it is, then I must do it, no matter the cost.”
+“You’ve picked the losing side, Potter! I warned you! I told you you ought to choose your company more carefully, remember? When we met on the train, first day at Hogwarts? I told you not to hang around with riffraff like this!”
 
 [](#)
 
