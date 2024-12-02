@@ -443,6 +443,12 @@ Most recent
 
 [02-12-2024
 
+DSA audit score card: How are Big Tech platforms complying with the EU’s landmark legislation?](https://www.euractiv.com/section/tech/news/dsa-audit-score-card-how-are-big-tech-platforms-complying-with-the-eus-landmark-legislation/)[02-12-2024
+
+Steelmakers urge EU to introduce mandatory ‘green’ steel quotas for carmakers](https://www.euractiv.com/section/eet/news/steelmakers-urge-eu-to-introduce-mandatory-green-steel-quotas-for-carmakers/)[02-12-2024
+
+Germany’s Scholz announces Ukraine military aid in visit to Kyiv](http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2024:newsml_L2N3N3055:356738711)[02-12-2024
+
 At least 25 killed as Russian, Syrian jets intensify bombing of Syrian rebel territory](https://www.euractiv.com/section/global-europe/news/at-least-25-killed-as-russian-syrian-jets-intensify-bombing-of-syrian-rebel-territory/)[02-12-2024
 
 Protests in Georgia spread as PM defies US condemnation](https://www.euractiv.com/section/global-europe/news/protests-in-georgia-spread-as-pm-defies-us-condemnation/)[02-12-2024
@@ -455,13 +461,7 @@ Brussels halts EU recovery plan payment for Bulgaria](https://www.euractiv.com/s
 
 Global plastic treaty talks end with no deal](https://www.euractiv.com/section/eet/news/global-plastic-treaty-talks-end-with-no-deal/)[02-12-2024
 
-Seven out of 10 Romanians voted for mainstream parties](https://www.euractiv.com/section/politics/news/seven-out-of-10-romanians-voted-for-mainstream-parties/)[02-12-2024
-
-Slovak opposition leader ready to discuss snap elections](https://www.euractiv.com/section/politics/news/slovak-opposition-leader-ready-to-discuss-snap-elections/)[02-12-2024
-
-Spanish socialists unite behind Sánchez to ‘resist’ right, far-right](https://www.euractiv.com/section/politics/news/spanish-socialists-unite-behind-sanchez-to-resist-right-far-right/)[02-12-2024
-
-Ukraine’s Zelenskyy looks to strengthen position with arms, NATO invite before any Russia talks](https://www.euractiv.com/section/global-europe/news/ukraines-zelenskyy-looks-to-strengthen-position-with-arms-nato-invite-before-any-russia-talks/)
+Seven out of 10 Romanians voted for mainstream parties](https://www.euractiv.com/section/politics/news/seven-out-of-10-romanians-voted-for-mainstream-parties/)
 
 ###### Advertisement
 
