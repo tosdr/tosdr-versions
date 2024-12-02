@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I've been a very happy client since 2007!
+Thanks for the speedy response!
 
-Shannon Latimer Marchat
+Tuck-Weng
