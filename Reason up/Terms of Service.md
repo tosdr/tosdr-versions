@@ -18,7 +18,7 @@ Buy now and get 50% OFF
 
 ![phone](/_next/static/media/phone.91bc53fc.svg)
 
-[+1 (989) 244-1738](tel:+19892441738)
+[+1 (989) 300-0998](tel:+19893000998)
 
 [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2723%27%20height=%2723%27/%3e)![chat](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
@@ -164,7 +164,7 @@ The Software includes third party components to which you can review the license
 
 ![img](/_next/static/media/phone.547a4f91.svg)
 
-+1 (989) 244-1738](tel:+19892441738)[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2722%27%20height=%2723%27/%3e)![img](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
++1 (989) 300-0998](tel:+19893000998)[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2722%27%20height=%2723%27/%3e)![img](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
 ![img](/_next/static/media/message.fef15657.svg)
 
