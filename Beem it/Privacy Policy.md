@@ -37,6 +37,7 @@ Part of
 * [BPAY Terms](https://www.beemit.com.au/bpay-terms)
 * [Beem Rewards Terms](https://www.beemit.com.au/beem-rewards-terms)
 * [Gift Card Terms](https://www.beemit.com.au/gift-card-terms)
+* [Totally Beem Terms](https://www.beemit.com.au/totally-beem-giveaway-terms)
 
 ### General enquiries
 
