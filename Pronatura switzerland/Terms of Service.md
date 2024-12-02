@@ -251,16 +251,23 @@ Bildrechte
 
 Die Kundinnen und Kunden erklären sich bei der Buchung von Veranstaltungen einverstanden, dass sie und allfällige Begleitpersonen ohne ihren ausdrücklichen Einspruch im Rahmen der gebuchten Leistung fotografiert und gefilmt werden können. Pro Natura darf das Bild- und Videomaterial in eigenen Print- und Online-Medien sowie auf von Pro Natura genutzten Social-Media-Kanälen verwenden und es ohne Namensnennung auch Medien zur Berichterstattung über die jeweilige Veranstaltung zur Verfügung stellen. Pro Natura versichert ihren Kundinnen und Kunden einen respektvollen Umgang mit den Fotos und Videos. Die Kundinnen und Kunden sowie allfällige Begleitpersonen haben jederzeit die Möglichkeit, ihre Einwilligung zurückzuziehen (per E-Mail an [@email](#)).
 
+Die implizite Einwilligung gilt nicht für minderjährige Personen.  
+Für die Aufnahme und Verwendung von Bild- und Videomaterial minderjähriger Teilnehmenden ist eine ausdrückliche Zustimmung der Erziehungsberechtigten erforderlich.
+
 Anwendbares Recht und Gerichtsstand
 -----------------------------------
 
 Der Vertrag untersteht schweizerischem Recht. Für alle Streitigkeiten aus dem Vertrag ist der Gerichtsstand Basel.
 
-Stand 22.02.2022
+Stand 02.12.2024
 
 ### Teilen
 
 Auf X teilen Auf Facebook teilen Link kopieren
+
+Hide from Google results
+
+Off
 
 [![Pronatura Logo](/themes/custom/naturally_amazing/logo.svg)](https://www.pronatura.ch/de "Startseite")
 
