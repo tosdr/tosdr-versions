@@ -366,6 +366,12 @@ If you would like to access, correct, amend, delete or more information about an
 
 Black+Blum, \[Re: Privacy Compliance Officer\], 40 Rushworth Street, London SE1 0RB, UK
 
+**PROMOTIONAL TERMS & CONDITIONS**
+
+**Free Gift With Purchase Promotion 2024:**
+
+This promotion is active from 2nd December 2024 - 22nd December 2024. Excludes personalised products. Cannot be combined with product bundles or other discounts and promotions. Whilst stocks last. 
+
     
 
 Learn More
