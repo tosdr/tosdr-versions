@@ -218,7 +218,7 @@ Follow us
 * [LinkedIn](https://www.linkedin.com/company/1110)
 * [Facebook](https://www.facebook.com/Orange/)
 * [Instagram](https://instagram.com/orange)
-* [Twitter](https://www.twitter.com/orange/)
+* [Twitter](https://x.com/orange/)
 * [TikTok](https://www.tiktok.com/@orange)
 
 About Orange About Orange
