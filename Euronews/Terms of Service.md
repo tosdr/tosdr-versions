@@ -15,56 +15,56 @@
     
     Trending
     
-    * [COP29](https://www.euronews.com/tag/cop29)
-    * [European Union](https://www.euronews.com/tag/european-union)
-    * [Josep Borrell](https://www.euronews.com/tag/josep-borrell)
-    * [Lebanon](https://www.euronews.com/tag/lebanon)
-    * [Israel-Hezbollah conflict](https://www.euronews.com/tag/israel-hezbollah-conflict)
-    * [Protest](https://www.euronews.com/tag/protest)
+    * [Protests](https://www.euronews.com/tag/protestas)
+    * [EU Policy](https://www.euronews.com/tag/eu-policy)
+    * [Spain](https://www.euronews.com/tag/spain)
+    * [France](https://www.euronews.com/tag/france)
+    * [climate change](https://www.euronews.com/tag/climate-change)
+    * [Russia's invasion of Ukraine](https://www.euronews.com/tag/russia-ukraine-invasion)
     
     * * *
     
     Latest stories
     
-    [![Political uncertainty in Germany has compounded its economic challenges](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Political uncertainty in Germany has compounded its economic challenges")
+    [![French Prime minister Michel Barnier used the controversial Article 49,3 to force the adoption of the 2025 social security budget plan](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "French Prime minister Michel Barnier used the controversial Article 49,3 to force the adoption of the 2025 social security budget plan")
     
-    ![Political uncertainty in Germany has compounded its economic challenges](https://static.euronews.com/articles/stories/08/87/19/14/368x207_cmsv2_2565f823-d758-549c-add9-6e43a2781b9c-8871914.jpg "Political uncertainty in Germany has compounded its economic challenges")](https://www.euronews.com/business/2024/11/25/germany-business-morale-worsens-further-is-industrial-competitiveness-at-risk)
-    
-    Now playing Next
-    
-    [Economy](https://www.euronews.com/business/economy)
-    
-    ### [German: Business morale worsens – what is at risk for industry?](https://www.euronews.com/business/2024/11/25/germany-business-morale-worsens-further-is-industrial-competitiveness-at-risk)
-    
-    [![Eurovision 2025: Basel referendum validates funding amidst opposition  ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Eurovision 2025: Basel referendum validates funding amidst opposition  ")
-    
-    ![Eurovision 2025: Basel referendum validates funding amidst opposition  ](https://static.euronews.com/articles/stories/08/87/19/44/368x207_cmsv2_0e422807-1871-5cbb-ba63-be43b7ac4b60-8871944.jpg "Eurovision 2025: Basel referendum validates funding amidst opposition  ")](https://www.euronews.com/culture/2024/11/25/eurovision-2025-basel-referendum-validates-funding-amidst-opposition)
-    
-    Now playing Next
-    
-    [Culture news](https://www.euronews.com/culture/culture-news)
-    
-    ### [Eurovision 2025: Basel referendum validates funding amidst opposition](https://www.euronews.com/culture/2024/11/25/eurovision-2025-basel-referendum-validates-funding-amidst-opposition)
-    
-    [![Russian President Vladimir Putin speaks during a meeting at the Kremlin in Moscow in November 2024.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Russian President Vladimir Putin speaks during a meeting at the Kremlin in Moscow in November 2024.")
-    
-    ![Russian President Vladimir Putin speaks during a meeting at the Kremlin in Moscow in November 2024.](https://static.euronews.com/articles/stories/08/86/92/02/368x207_cmsv2_f5bcdad6-6e78-5174-87e3-09c293c35fbe-8869202.jpg "Russian President Vladimir Putin speaks during a meeting at the Kremlin in Moscow in November 2024.")](https://www.euronews.com/health/2024/11/25/russia-bans-child-adoptions-for-citizens-of-countries-that-allow-gender-transition)
-    
-    Now playing Next
-    
-    [Health news](https://www.euronews.com/health/health-news)
-    
-    ### [Russia bans child adoptions to countries that allow gender transition](https://www.euronews.com/health/2024/11/25/russia-bans-child-adoptions-for-citizens-of-countries-that-allow-gender-transition)
-    
-    [![Photo taken from a video released by Russian Defense Ministry press service on Monday, Nov. 25, 2024.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Photo taken from a video released by Russian Defense Ministry press service on Monday, Nov. 25, 2024.")
-    
-    ![Photo taken from a video released by Russian Defense Ministry press service on Monday, Nov. 25, 2024.](https://static.euronews.com/articles/stories/08/87/17/14/368x207_cmsv2_d0da42e3-6c7b-5152-9c35-e4b4481c0a25-8871714.jpg "Photo taken from a video released by Russian Defense Ministry press service on Monday, Nov. 25, 2024.")](https://www.euronews.com/my-europe/2024/11/25/russian-forces-capture-uk-citizen-fighting-for-ukraine-reports-claim)
+    ![French Prime minister Michel Barnier used the controversial Article 49,3 to force the adoption of the 2025 social security budget plan](https://static.euronews.com/articles/stories/08/88/58/52/368x207_cmsv2_a2bf359d-f8a0-5399-9469-276870f2931a-8885852.jpg "French Prime minister Michel Barnier used the controversial Article 49,3 to force the adoption of the 2025 social security budget plan")](https://www.euronews.com/my-europe/2024/12/02/french-government-faces-collapse-after-pm-circumvents-parliament-over-budget-bill)
     
     Now playing Next
     
     [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
     
-    ### [Russian forces capture UK citizen fighting for Ukraine, reports claim](https://www.euronews.com/my-europe/2024/11/25/russian-forces-capture-uk-citizen-fighting-for-ukraine-reports-claim)
+    ### [French government faces collapse after PM pushes through budget bill](https://www.euronews.com/my-europe/2024/12/02/french-government-faces-collapse-after-pm-circumvents-parliament-over-budget-bill)
+    
+    [![Georgia has been rocked by four consecutive nights of protests.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Georgia has been rocked by four consecutive nights of protests.")
+    
+    ![Georgia has been rocked by four consecutive nights of protests.](https://static.euronews.com/articles/stories/08/88/47/68/368x207_cmsv2_1ddbf13d-d61c-5d64-933a-85f93a9c0055-8884768.jpg "Georgia has been rocked by four consecutive nights of protests.")](https://www.euronews.com/my-europe/2024/12/02/baltic-states-slap-sanctions-on-georgian-officials-will-the-eu-follow-suit)
+    
+    Now playing Next
+    
+    [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
+    
+    ### [Baltic state slap sanctions on Georgian officials. Will the EU follow?](https://www.euronews.com/my-europe/2024/12/02/baltic-states-slap-sanctions-on-georgian-officials-will-the-eu-follow-suit)
+    
+    [![Lorem](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Lorem")
+    
+    ![Lorem](https://static.euronews.com/articles/stories/08/88/52/82/368x207_cmsv2_c7f5a25f-1f30-5c10-84fa-1c2ec50ff52a-8885282.jpg "Lorem")](https://www.euronews.com/my-europe/2024/12/02/revealed-the-first-strategic-and-policy-initiatives-of-the-new-commission)
+    
+    Now playing Next
+    
+    [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
+    
+    ### [Revealed: The new Commission's first strategic, policy initiatives](https://www.euronews.com/my-europe/2024/12/02/revealed-the-first-strategic-and-policy-initiatives-of-the-new-commission)
+    
+    [![A woman exercises in Lille, France, in April 2020.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "A woman exercises in Lille, France, in April 2020.")
+    
+    ![A woman exercises in Lille, France, in April 2020.](https://static.euronews.com/articles/stories/08/88/58/84/368x207_cmsv2_79ea9e2e-e548-5cf4-a753-f2adde4f9eef-8885884.jpg "A woman exercises in Lille, France, in April 2020.")](https://www.euronews.com/health/2024/12/02/average-adult-could-live-5-extra-years-with-more-exercise-study-shows)
+    
+    Now playing Next
+    
+    [Health news](https://www.euronews.com/health/health-news)
+    
+    ### [Average adult could live 5 extra years with more exercise](https://www.euronews.com/health/2024/12/02/average-adult-could-live-5-extra-years-with-more-exercise-study-shows)
     
 * [Europe](https://www.euronews.com/my-europe)
     
@@ -346,7 +346,6 @@ Partner content
 Services
 
 * [Weather](https://www.euronews.com/weather)
-* [Job offers from Amply](https://joboffers.euronews.com/)
 * [Bulletin](https://www.euronews.com/bulletin)
 * [Messaging apps](https://www.euronews.com/messaging-apps)
 * [Widgets & Services](https://www.euronews.com/widgets)
@@ -361,62 +360,62 @@ Close menu sidebar
 
 Trending
 
-* [COP29](https://www.euronews.com/tag/cop29)
-* [European Union](https://www.euronews.com/tag/european-union)
-* [Josep Borrell](https://www.euronews.com/tag/josep-borrell)
-* [Lebanon](https://www.euronews.com/tag/lebanon)
-* [Israel-Hezbollah conflict](https://www.euronews.com/tag/israel-hezbollah-conflict)
-* [Protest](https://www.euronews.com/tag/protest)
+* [Protests](https://www.euronews.com/tag/protestas)
+* [EU Policy](https://www.euronews.com/tag/eu-policy)
+* [Spain](https://www.euronews.com/tag/spain)
+* [France](https://www.euronews.com/tag/france)
+* [climate change](https://www.euronews.com/tag/climate-change)
+* [Russia's invasion of Ukraine](https://www.euronews.com/tag/russia-ukraine-invasion)
 
 * * *
 
 Latest stories
 
-[![Political uncertainty in Germany has compounded its economic challenges](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Political uncertainty in Germany has compounded its economic challenges")
+[![French Prime minister Michel Barnier used the controversial Article 49,3 to force the adoption of the 2025 social security budget plan](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "French Prime minister Michel Barnier used the controversial Article 49,3 to force the adoption of the 2025 social security budget plan")
 
-![Political uncertainty in Germany has compounded its economic challenges](https://static.euronews.com/articles/stories/08/87/19/14/368x207_cmsv2_2565f823-d758-549c-add9-6e43a2781b9c-8871914.jpg "Political uncertainty in Germany has compounded its economic challenges")](https://www.euronews.com/business/2024/11/25/germany-business-morale-worsens-further-is-industrial-competitiveness-at-risk)
-
-Now playing Next
-
-[Economy](https://www.euronews.com/business/economy)
-
-### [German: Business morale worsens – what is at risk for industry?](https://www.euronews.com/business/2024/11/25/germany-business-morale-worsens-further-is-industrial-competitiveness-at-risk)
-
-* * *
-
-[![Eurovision 2025: Basel referendum validates funding amidst opposition  ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Eurovision 2025: Basel referendum validates funding amidst opposition  ")
-
-![Eurovision 2025: Basel referendum validates funding amidst opposition  ](https://static.euronews.com/articles/stories/08/87/19/44/368x207_cmsv2_0e422807-1871-5cbb-ba63-be43b7ac4b60-8871944.jpg "Eurovision 2025: Basel referendum validates funding amidst opposition  ")](https://www.euronews.com/culture/2024/11/25/eurovision-2025-basel-referendum-validates-funding-amidst-opposition)
-
-Now playing Next
-
-[Culture news](https://www.euronews.com/culture/culture-news)
-
-### [Eurovision 2025: Basel referendum validates funding amidst opposition](https://www.euronews.com/culture/2024/11/25/eurovision-2025-basel-referendum-validates-funding-amidst-opposition)
-
-* * *
-
-[![Russian President Vladimir Putin speaks during a meeting at the Kremlin in Moscow in November 2024.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Russian President Vladimir Putin speaks during a meeting at the Kremlin in Moscow in November 2024.")
-
-![Russian President Vladimir Putin speaks during a meeting at the Kremlin in Moscow in November 2024.](https://static.euronews.com/articles/stories/08/86/92/02/368x207_cmsv2_f5bcdad6-6e78-5174-87e3-09c293c35fbe-8869202.jpg "Russian President Vladimir Putin speaks during a meeting at the Kremlin in Moscow in November 2024.")](https://www.euronews.com/health/2024/11/25/russia-bans-child-adoptions-for-citizens-of-countries-that-allow-gender-transition)
-
-Now playing Next
-
-[Health news](https://www.euronews.com/health/health-news)
-
-### [Russia bans child adoptions to countries that allow gender transition](https://www.euronews.com/health/2024/11/25/russia-bans-child-adoptions-for-citizens-of-countries-that-allow-gender-transition)
-
-* * *
-
-[![Photo taken from a video released by Russian Defense Ministry press service on Monday, Nov. 25, 2024.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Photo taken from a video released by Russian Defense Ministry press service on Monday, Nov. 25, 2024.")
-
-![Photo taken from a video released by Russian Defense Ministry press service on Monday, Nov. 25, 2024.](https://static.euronews.com/articles/stories/08/87/17/14/368x207_cmsv2_d0da42e3-6c7b-5152-9c35-e4b4481c0a25-8871714.jpg "Photo taken from a video released by Russian Defense Ministry press service on Monday, Nov. 25, 2024.")](https://www.euronews.com/my-europe/2024/11/25/russian-forces-capture-uk-citizen-fighting-for-ukraine-reports-claim)
+![French Prime minister Michel Barnier used the controversial Article 49,3 to force the adoption of the 2025 social security budget plan](https://static.euronews.com/articles/stories/08/88/58/52/368x207_cmsv2_a2bf359d-f8a0-5399-9469-276870f2931a-8885852.jpg "French Prime minister Michel Barnier used the controversial Article 49,3 to force the adoption of the 2025 social security budget plan")](https://www.euronews.com/my-europe/2024/12/02/french-government-faces-collapse-after-pm-circumvents-parliament-over-budget-bill)
 
 Now playing Next
 
 [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
 
-### [Russian forces capture UK citizen fighting for Ukraine, reports claim](https://www.euronews.com/my-europe/2024/11/25/russian-forces-capture-uk-citizen-fighting-for-ukraine-reports-claim)
+### [French government faces collapse after PM pushes through budget bill](https://www.euronews.com/my-europe/2024/12/02/french-government-faces-collapse-after-pm-circumvents-parliament-over-budget-bill)
+
+* * *
+
+[![Georgia has been rocked by four consecutive nights of protests.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Georgia has been rocked by four consecutive nights of protests.")
+
+![Georgia has been rocked by four consecutive nights of protests.](https://static.euronews.com/articles/stories/08/88/47/68/368x207_cmsv2_1ddbf13d-d61c-5d64-933a-85f93a9c0055-8884768.jpg "Georgia has been rocked by four consecutive nights of protests.")](https://www.euronews.com/my-europe/2024/12/02/baltic-states-slap-sanctions-on-georgian-officials-will-the-eu-follow-suit)
+
+Now playing Next
+
+[Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
+
+### [Baltic state slap sanctions on Georgian officials. Will the EU follow?](https://www.euronews.com/my-europe/2024/12/02/baltic-states-slap-sanctions-on-georgian-officials-will-the-eu-follow-suit)
+
+* * *
+
+[![Lorem](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Lorem")
+
+![Lorem](https://static.euronews.com/articles/stories/08/88/52/82/368x207_cmsv2_c7f5a25f-1f30-5c10-84fa-1c2ec50ff52a-8885282.jpg "Lorem")](https://www.euronews.com/my-europe/2024/12/02/revealed-the-first-strategic-and-policy-initiatives-of-the-new-commission)
+
+Now playing Next
+
+[Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
+
+### [Revealed: The new Commission's first strategic, policy initiatives](https://www.euronews.com/my-europe/2024/12/02/revealed-the-first-strategic-and-policy-initiatives-of-the-new-commission)
+
+* * *
+
+[![A woman exercises in Lille, France, in April 2020.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "A woman exercises in Lille, France, in April 2020.")
+
+![A woman exercises in Lille, France, in April 2020.](https://static.euronews.com/articles/stories/08/88/58/84/368x207_cmsv2_79ea9e2e-e548-5cf4-a753-f2adde4f9eef-8885884.jpg "A woman exercises in Lille, France, in April 2020.")](https://www.euronews.com/health/2024/12/02/average-adult-could-live-5-extra-years-with-more-exercise-study-shows)
+
+Now playing Next
+
+[Health news](https://www.euronews.com/health/health-news)
+
+### [Average adult could live 5 extra years with more exercise](https://www.euronews.com/health/2024/12/02/average-adult-could-live-5-extra-years-with-more-exercise-study-shows)
 
 [Europe](https://www.euronews.com/my-europe)
 
@@ -700,7 +699,6 @@ Partner content
 Services
 
 * [Weather](https://www.euronews.com/weather)
-* [Job offers from Amply](https://joboffers.euronews.com/)
 * [Bulletin](https://www.euronews.com/bulletin)
 * [Messaging apps](https://www.euronews.com/messaging-apps)
 * [Widgets & Services](https://www.euronews.com/widgets)
@@ -1124,7 +1122,6 @@ Services
 * [Apps](https://www.euronews.com/apps)
 * [Messaging apps](https://www.euronews.com/messaging-apps)
 * [Widgets & Services](https://www.euronews.com/widgets)
-* [Job offers from Amply](https://joboffers.euronews.com/?source=footer&utm_source=footer&utm_medium=partner_referral)
 * [Africanews](https://www.africanews.com/)
 
 More 
