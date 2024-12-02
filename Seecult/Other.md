@@ -298,11 +298,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/vladimir-peric-talent/radovi-razno/2d-globus.jpg?itok=YiPxReyu)](http://seecult.org/galerija/galerija-umetnika/vladimir-peric-talent/radovi-razno)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/vladimir-peric-talent/radovi-razno/banana-republika.jpg?itok=3oG2Ot24)](http://seecult.org/galerija/galerija-umetnika/vladimir-peric-talent/radovi-razno)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/irfan1.jpg?itok=78z2EY1V)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/odstupanje-savremena-pristinska-umetnost-msuv/odstup16.jpg?itok=qenpICd-)](http://seecult.org/galerija/foto-galerija/foto-arhiva/odstupanje-savremena-pristinska-umetnost-msuv)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
