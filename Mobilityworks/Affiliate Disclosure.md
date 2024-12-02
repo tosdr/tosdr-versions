@@ -50,7 +50,7 @@ Search for:
 
 [Search](#)
 
-[Black Friday Savings Event - Unlock the Savings!](https://mobworksstg.wpengine.com/inmotion)
+[Give the Gift of Mobility - "Be There" for the Holidays and Every Day](https://www.mobilityworks.com/wheelchair-vans-for-sale/)
 
 [![MobilityWorks Logo](https://www.mobilityworks.com/wp-content/uploads/mobility-works-logo-transparent-160x56.png)](https://www.mobilityworks.com/)
 
@@ -191,12 +191,6 @@ Ok Deny View preferences Save preferences [View preferences](#)
 
 Manage consent
 
-[![Black Friday savings event ad featuring Chrysler Pacifica models with accessibility features, priced at $62,995.32 and $64,995.32. Offers include scooter or wheelchair.](https://www.mobilityworks.com/wp-content/uploads/Black-Friday-Savings-Event-62995-1200-X-1200.jpg "Black Friday Savings Event $62,995-1200 X 1200")](https://www.mobilityworks.com/wheelchair-vans-for-sale/?featuredvan=Flex4%20Black%20Friday%20Savings%20Event&resetfilters=on)
-
-[View Available Inventory](https://www.mobilityworks.com/wheelchair-vans-for-sale/?featuredvan=Flex4%20Black%20Friday%20Savings%20Event&resetfilters=on)
-
-X
-
 Disclosures
 
 **Prices**  
@@ -230,8 +224,8 @@ Disclosures
 **Buy Now – 5-Day Money Back Guarantee**  
 (16) The 5-day period begins the day the vehicle is delivered and ends at 5:00 PM Central on the fifth day. Program availability may be subject to credit prequalification and all may not qualify. Additional program limitations, terms and conditions apply.
 
-**Rates Starting at 1.99% APR for up to 72 Months on Accessible Chrysler Pacificas and Toyota Siennas with New BraunAbility or Vantage Mobility Conversions**  
-(17) Financing promotion valid through November 30, 2024. Must take delivery of vehicle by November 30, 2024. Promotion valid on select Chrysler Pacificas and Toyota Siennas with new BraunAbility or Vantage Mobility Conversions and requires a cash or trade-in equity equal to 20% of total price. Rates starting at 1.99% for Up to 72 Months-FICO 740+ or 2.99% for Up to 72 Months – FICO 700+ or 6.99% for Up to 72 Months – FICO 680. Monthly payments are based on the price of the vehicle, down payment, and approved credit. Not all that apply will be approved. Approval based on a credit score of 680 or above with a maximum loan value of $70,000 and minimum loan value of $8,000. Excludes Commercial clients. Can only be combined with All Active-Duty Service Members and Veterans Receive $1,000 in Dealer Savings promotion.
+**Rates Starting at 1.99% APR for up to 72 Months on Accessible Chrysler Pacificas and Toyota Siennas** **with New BraunAbility or Vantage Mobility Conversions**  
+(17) Financing promotion valid through December 31, 2024. Must take delivery of vehicle by December 31, 2024. Promotion valid on select Chrysler Pacificas and Toyota Siennas with new BraunAbility or Vantage Mobility Conversions and requires a cash or trade-in equity equal to 20% of total price. Rates starting at 1.99% for Up to 72 Months-FICO 740+ or 2.99% for Up to 72 Months – FICO 700+ or 6.99% for Up to 72 Months – FICO 680. Monthly payments are based on the price of the vehicle, down payment, and approved credit. Not all that apply will be approved. Approval based on a credit score of 680 or above with a maximum loan value of $70,000 and minimum loan value of $8,000. Excludes Commercial clients.  Cannot be combined with any other offers**.**
 
 **FSA or HSA Eligible**  
 (21) Not all medical equipment expenses at MobilityWorks are FSA or HSA eligible. MobilityWorks does not accept HSA or FSA cards as payment. Customer’s must request reimbursement from their plan administrator. Contact your plan administrator or employer for more information on how to provide the appropriate documentation for reimbursement and what medical care expenses are covered.
@@ -254,35 +248,26 @@ Disclosures
 **Referral Coupon**  
 (30) Must present referral code prior to purchase. Offer valid up to 365 days from receipt of emailed coupon.
 
-**Black Friday Savings Event- Included with Purchase of a a Toyota Sienna Hybrid XLE Plus AWD with Vantage Mobility Northstar Converison or 2023 or Newer Chrysler Pacifica Touring with brand new Flex Series Conversion or 2023 or Newer Chrysler Pacifica Touring L with brand new Flex Series Conversion – Your Choice of a Pride Mobility Go Go Endurance Li Scooter or Pride Mobility Jazzy Carbon Power Wheelchair**  
-(31) Purchase a Toyota Sienna Hybrid XLE Plus AWD with Vantage Mobility Northstar Converison or 2023 or Newer Chrysler Pacifica Touring with brand new Flex Series Conversion or 2023 or Newer Chrysler Pacifica Touring L with brand new Flex Series Conversion between November 1,2024 and November 30,2024 and receive your choice of a Pride Mobility Go Go Endurance Li Scooter ($1,599 Retail Value) or Pride Mobility Jazzy Carbon Power Wheelchair ($2,539 Retail Value). Cannot be combined with any other offers. Terms and restrictions apply. Not applicable to prior sales. Void where prohibited by law. Offer ends November 30, 2024.
+**$62,995 for a 2024 Chrysler Pacifica Touring with Brand New Driverge Flex4 Conversion or $64,995 for a 2024 Chrysler Pacifica Touring L with Brand New Driverge Flex4 Conversion**  
+(32) Limited stock on hand. Prices plus government fees, taxes and any dealer document processing charges. May not be combined with any other rebates or incentives. Offer only applies to 2023 or Newer Chrysler Pacifica Touring with brand new Flex Series Conversion or on the 2023 or Newer Chrysler Pacifica Touring L with brand new Flex Series Conversion. Vehicle pictures shown are for illustration purposes only. Actual vehicles may vary. Void where prohibited by law. Offer ends December 31, 2024.
 
-**Black Friday Savings Event- $62,995 for a 2023 or Newer Chrysler Pacifica Touring with Brand New Driverge Flex4 Conversion or $64,995 for a 2023 or Newer Chrysler Pacifica Touring L with Brand New Driverge Flex4 Conversion**  
-(32) Limited stock on hand. Prices plus government fees, taxes and any dealer document processing charges. May not be combined with any other rebates or incentives. Offer only applies to 2023 or Newer Chrysler Pacifica Touring with brand new Flex Series Conversion or on the 2023 or Newer Chrysler Pacifica Touring L with brand new Flex Series Conversion. Vehicle pictures shown are for illustration purposes only. Actual vehicles may vary. Void where prohibited by law. Offer ends November 30, 2024.
-
-**Black Friday Savings Event- $87,495 for a Toyota Sienna Hybrid XLE Plus AWD with Vantage Mobility Northstar Conversion**  
-(33) Limited stock on hand. Prices plus government fees, taxes and any dealer document processing charges. May not be combined with any other rebates or incentives. Offer applies to the Toyota Sienna Hybrid XLE Plus AWD with Vantage Mobility Northstar Converison. Vehicle pictures shown are for illustration purposes only. Actual vehicles may vary. Void where prohibited by law. Offer ends November 30,2024.
+**Model Year-End Closeout – $87,495 for a Toyota Sienna Hybrid XLE Plus AWD with Vantage Mobility Northstar Conversion**  
+(33) Limited stock on hand. Prices plus government fees, taxes and any dealer document processing charges. May not be combined with any other rebates or incentives. Offer applies to the Toyota Sienna Hybrid XLE Plus AWD with Vantage Mobility Northstar Converison. Vehicle pictures shown are for illustration purposes only. Actual vehicles may vary. Void where prohibited by law. Offer ends December 31,2024.
 
 **The Accessible 2022 Toyota Sienna-Spacious and Fuel Efficient – BraunAbility**  
 (34) EPA-estimated 36 city/36 hwy/36 combined mpg rating for 2023 Sienna FWD models;35 city/36 hwy/35 combined mpg rating for 2023 Sienna AWD models. Use for comparison purposes only. Your mileage will vary for many reasons, including your vehicle’s condition and how/where you drive. See www.fueleconomy.gov.
 
-**FLEX Lease Option on Driverge Quiet Ride- $367 per month**  
-(36) Closed-End Lease on Pre-Owned 2019 or newer Dodge Grand Caravan SXT or GTS with brand new Driverge Quiet Ride Conversion with mileage of 50,000 or more. For well qualified lessees through Banclease Acceptance Corporation. Adding options increases payment. $367 per month for 39 months. $11,793.75 down. First month’s payment, plus fees, taxes, title, NMEDA charge, any emission testing charge, and license fees extra. Security deposit waived. Lessee responsible for maintenance, insurance, payment, delinquency charges, and excess wear and tear. Mileage charge of .45/mile over 5,000 miles/year. Actual net capitalized cost $31,996.25. Net capitalized cost includes $1,295 acquisition fee. Total monthly payments $14,313 plus tax. Residual value is $29,390.50. Disposition fee of $995. No penalty for early termination. Option to purchase at lease end is $29,390.50. May not be combined with other offers. Must take delivery of vehicle by October 31, 2024.
-
 **Driverge Warranty**  
 (37) Factory inspection, powertrain and consumer conversion warranty provided by Driverge Vehicle Innovations.
 
-**$44,995 Driverge Quiet Ride**  
-(39) Limited stock on hand. Prices plus government fees and taxes and any dealer document processing charges (varied by location). May not be combined with any other rebates or incentives. Offer only applies to 2019 or newer Pre-Owned Dodge Grand Caravan with new Driverge Quiet Ride conversion. All vehicles offered with mileage of 50,000 or more. Vehicle pictures shown are for illustration purposes only. Actual vehicles may vary. Void where prohibited by law. Offer ends November 30, 2024.
+**“Buy Now, Pay Over Time” – Starting at 0% APR with Affirm-Home Access and Equipment**  
+(52)Rates from 0–36% APR. Payment options through Affirm are subject to an eligibility check, may not be available everywhere, and are provided by these lending partners: affirm.com/lenders. Options depend on your purchase amount, and a down payment may be required. CA residents: Loans by Affirm Loan Services, LLC are made or arranged pursuant to a California Financing Law License. For licenses and disclosures, see affirm.com/licenses.
 
-**2024 Chrysler Pacifica Touring with Brand New Driverge Patriot Conversion for $59,995 and 2024 Chrysler Pacifica Touring L with Brand New Driverge Patriot Conversion for $64,995**  
-(43)Limited stock on hand. Prices plus government fees, taxes, and any dealer document processing charges. May not be combined with any other rebates or incentives. Offer only applies to 2024 Chrysler Pacifica Touring and Touring L with Brand New Driverge Patriot Conversion. Vehicle pictures shown are for illustration purposes only. Actual vehicles may vary. Void where prohibited by law. Offer ends November 30, 2024. Must take delivery of vehicle by November 30, 2024.
+X
 
-**$6,700 in Dealer Savings on the 2024 Chrysler Pacifica Touring with Brand New Driverge Patriot Conversion or $5,360 in Dealer Savings on the 2024 Chrysler Pacifica Touring L with Brand New Driverge Patriot Conversion**  
-(44) Dealer savings can only be used on the 2024 Chrysler Pacifica Touring or Touring L with Brand New Driverge Patriot Conversion. Cannot be combined with any other offer. Offer valid 8/1/2024 – 11/30/2024. Prior sales excluded.
+[![Advertisement for Chrysler Pacifica with an accessible van and standard minivan, showcasing prices and features. Includes a holiday-themed ribbon with text: Be There for the Holidays and Every Day.](https://www.mobilityworks.com/wp-content/uploads/2-in-1-Flex-Series-62995-64995-640-x-750.jpg "2-in-1 Flex Series $62995-$64995-640 x 750")](https://www.mobilityworks.com/wheelchair-vans-for-sale/?featuredvan=Flex%20Series%20Savings&resetfilters=on)
 
-**All Active-Duty Service Members and Veterans Receive $1,000 in Dealer Savings**  
-(45) Dealer savings can be used on select Chrysler Pacificas and Toyota Siennas with new BraunAbility or Vantage Mobility Conversions and. Offer valid 11/1/2024–11/30/2024. Prior sales excluded. Can only be combined with rates as low as: 1.99% for Up to 72 Months-FICO 740+ or 2.99% for Up to 72 Months – FICO 700+ or 6.99% for Up to 72 Months – FICO 680+ promotion.
+[View Available Inventory](https://www.mobilityworks.com/wheelchair-vans-for-sale/?featuredvan=Flex%20Series%20Savings&resetfilters=on)
 
 X
 
