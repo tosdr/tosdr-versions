@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/journalist-te-koop/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/trump-en-de-verhitte-climate-change-discussie/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
