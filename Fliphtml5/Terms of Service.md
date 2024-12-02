@@ -48,34 +48,6 @@ Enjoying your free trial? Only 9 days left! Upgrade Now
      [![discover features of fliphtml5 online flipbook maker](/images/header/discover-features-of-fliphtml5-online-flipbook-maker.png)](https://fliphtml5.com/features/)
     
 * [Explore](https://fliphtml5.com/exploring/)
-    
-    * [Art & Culture](https://fliphtml5.com/exploring/art-culture/)
-    * [Education](https://fliphtml5.com/exploring/education/)
-    * [Food & Beverage](https://fliphtml5.com/exploring/food-beverage/)
-    * [Lifestyle](https://fliphtml5.com/exploring/lifestyle/)
-    * [Home & Garden](https://fliphtml5.com/exploring/home-garden/)
-    * [Weddings & Bridal](https://fliphtml5.com/exploring/weddings-bridal/)
-    * [Religion & Spirituality](https://fliphtml5.com/exploring/religion-spirituality/)
-    
-    * [Animals & Pets](https://fliphtml5.com/exploring/animals-pets/)
-    * [Celebrity & Entertainment](https://fliphtml5.com/exploring/celebrity-entertainment/)
-    * [Travel](https://fliphtml5.com/exploring/travel/)
-    * [Family & Parenting](https://fliphtml5.com/exploring/family-parenting/)
-    * [Science & Technology](https://fliphtml5.com/exploring/science-technology/)
-    * [Health & Wellness](https://fliphtml5.com/exploring/health-wellness/)
-    * [Real Estate](https://fliphtml5.com/exploring/real-estate/)
-    
-    * [Business & Finance](https://fliphtml5.com/exploring/business-finance/)
-    * [Cars & Automobiles](https://fliphtml5.com/exploring/cars-automobiles/)
-    * [Sports](https://fliphtml5.com/exploring/sports/)
-    * [Fashion & Style](https://fliphtml5.com/exploring/fashion-style/)
-    * [News & Politics](https://fliphtml5.com/exploring/news-politics/)
-    * [Hobbies & Leisure](https://fliphtml5.com/exploring/hobbies-leisure/)
-    
-    [All Categories](https://fliphtml5.com/exploring/)
-    
-     ![1 convert pdf into flipbooks fliphtml5](/images/header/explore-digital-publications-with-fliphtml5.png)
-    
 * [Templates](https://fliphtml5.com/templates/)
     
     * [Magazines](https://fliphtml5.com/templates/magazine/)
@@ -233,31 +205,7 @@ Enjoying your free trial? Only 9 days left! Upgrade Now
     
     [All Features](https://fliphtml5.com/features/)
     
-* Explore
-    
-    * * [Art & Culture](https://fliphtml5.com/exploring/art-culture/)
-        * [Education](https://fliphtml5.com/exploring/education/)
-        * [Food & Beverage](https://fliphtml5.com/exploring/food-beverage/)
-        * [Lifestyle](https://fliphtml5.com/exploring/lifestyle/)
-        * [Home & Garden](https://fliphtml5.com/exploring/home-garden/)
-        * [Weddings & Bridal](https://fliphtml5.com/exploring/weddings-bridal/)
-        * [Religion & Spirituality](https://fliphtml5.com/exploring/religion-spirituality/)
-    * * [Animals & Pets](https://fliphtml5.com/exploring/animals-pets/)
-        * [Celebrity & Entertainment](https://fliphtml5.com/exploring/celebrity-entertainment/)
-        * [Travel](https://fliphtml5.com/exploring/travel/)
-        * [Family & Parenting](https://fliphtml5.com/exploring/family-parenting/)
-        * [Science & Technology](https://fliphtml5.com/exploring/science-technology/)
-        * [Health & Wellness](https://fliphtml5.com/exploring/health-wellness/)
-        * [Real Estate](https://fliphtml5.com/exploring/real-estate/)
-    * * [Business & Finance](https://fliphtml5.com/exploring/business-finance/)
-        * [Cars & Automobiles](https://fliphtml5.com/exploring/cars-automobiles/)
-        * [Sports](https://fliphtml5.com/exploring/sports/)
-        * [Fashion & Style](https://fliphtml5.com/exploring/fashion-style/)
-        * [News & Politics](https://fliphtml5.com/exploring/news-politics/)
-        * [Hobbies & Leisure](https://fliphtml5.com/exploring/hobbies-leisure/)
-    
-    [All Categories](https://fliphtml5.com/exploring/)
-    
+* [Explore](https://fliphtml5.com/exploring/)
 * Templates
     
     * * [Magazines](https://fliphtml5.com/templates/magazine/)
