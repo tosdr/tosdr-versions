@@ -82,9 +82,9 @@ Register now!
     
     WHAT’S NEW
     
-    [New! Check-in on the Subsplash Platform
+    [New! Introducing Pulpit AI
     
-    Our powerful new software for a simple & seamless check-in process](https://www.subsplash.com/pulpit-ai)[Top 10 challenges facing pastors today
+    Our powerful new product to help turn your sermon into discipleship tools and more](https://www.subsplash.com/product/pulpit-ai)[Top 10 challenges facing pastors today
     
     Understanding & navigating the complexities of modern-day ministry](https://www.subsplash.com/blog/pastor-problems)[5 best church donation tracking tools
     
