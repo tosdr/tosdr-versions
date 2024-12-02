@@ -406,9 +406,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ It's only "work" if you'd rather be doing something else”
+“ Every kid starts out as a natural-born scientist, and then we beat it out of them. A few trickle through the system with their wonder and enthusiasm for science intact”
 
-[Dean Kamen](https://en.wikipedia.org/wiki/Dean_Kamen)
+[Carl Sagan](http://en.wikipedia.org/wiki/Carl_Sagan)
 
 [](https://www.adafruit.com/about)
 
