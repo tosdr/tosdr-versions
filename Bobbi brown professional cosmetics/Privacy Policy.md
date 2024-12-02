@@ -4,11 +4,11 @@ Previous
 
 [Enjoy 30% off sitewide. Exclusions apply.\* Shop now.](https://www.bobbibrowncosmetics.com/products/14358/best-sellers)
 
-[40% select beauty favorites. Shop now.](https://www.bobbibrowncosmetics.com/products/16111/Makeup/last-call)
+[Spend $80+ and pick a free full-size beauty favorite.](https://www.bobbibrowncosmetics.com/offers-landing-page)
 
-[Create your own 5-piece mini set on $80+. No code needed.](https://www.bobbibrowncosmetics.com/offers-landing-page)
+[Plus, spend $115+ and pick a 2nd free full-size product.](https://www.bobbibrowncosmetics.com/products/16111/Makeup/last-call)
 
-Enjoy Free Standard Shipping on any $65+ order.
+[Up to 40% select beauty favorites. Shop now.](https://www.bobbibrowncosmetics.com/products/16111/Makeup/last-call)
 
 Next
 
