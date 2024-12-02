@@ -20,7 +20,7 @@ Wesprzyj
 
 [](https://oko.press/)
 
-TematyKategorieMultimedia
+TematyKategorieMultimedia[Audio](https://oko.press/audio)
 
 [Wesprzyj](https://oko.press/wesprzyj)
 
@@ -143,6 +143,7 @@ Na skróty
 
 Informacje
 
+* [Zasady weryfikacji faktów](https://oko.press/jak-sprawdzamy)
 * [Zasady etyki dziennikarskiej](https://oko.press/zasady-etyki-dziennikarskiej)
 * [Regulamin](https://oko.press/regulamin)
 * [Polityka prywatności](https://oko.press/polityka-prywatnosci)
