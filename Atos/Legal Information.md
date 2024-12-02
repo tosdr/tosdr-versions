@@ -141,15 +141,15 @@ Atos homepage](https://atos.net/en/)
         Press releases
         --------------
         
+        * [Annual General Meeting to approve the 2023 financial statements to be held on January 31, 2025 at 10:00am CET at the Company’s headquarters](https://atos.net/en/2024/press-release_2024_12_02/annual-general-meeting-to-approve-the-2023-financial-statements-to-be-held-on-january-31-2025-at-1000am-cet-at-the-companys-headquarters)
         * [Atos completes the sale of Worldgrid to ALTEN for an enterprise value of €270 million](https://atos.net/en/2024/press-release_2024_12_02/atos-completes-the-sale-of-worldgrid-to-alten-for-an-enterprise-value-of-e270-million)
         * [Atos named Official Technology Partner for the Invictus Games 2025](https://atos.net/en/2024/press-release_2024_11_27/atos-named-official-technology-partner-for-the-invictus-games-2025)
-        * [Atos secures €165 million contract extension with EUROCONTROL](https://atos.net/en/2024/press-release_2024_11_26/atos-secures-e165-million-contract-extension-with-eurocontrol)
         
         ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
         Dec 2, 2024
         
-        ### Atos completes the sale of Worldgrid to ALTEN for an enterprise value of €270 million
+        ### Annual General Meeting to approve the 2023 financial statements to be held on January 31, 2025 at 10:00am CET at the Company’s headquarters
         
     * [Atos Research Community](https://atos.net/en/atos-research-community)
         
