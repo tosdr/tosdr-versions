@@ -51,7 +51,7 @@ Our website uses cookies to enhance your online experience by; measuring audienc
     * [Français](https://atos.net/fr/vie-privee)
     * [Deutsch](https://atos.net/de/datenschutz)
 
- [![Atos](/content/assets/global-images/atos-logo-blue-2023.svg) ![Atos](/content/assets/global-images/atos-logo-blue-2023.svg)
+ [![Atos](/content/assets/global-images/atos-logo-blue-2023.svg) ![Atos](/content/assets/global-images/atos-logo-white-2022.svg)
 
 Atos homepage](https://atos.net/en/)
 
@@ -345,8 +345,13 @@ Germany, Austria and Switzerland
 
 [**France**](https://atos.net/fr/vie-privee)
 
-![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)  
-[**Portugal**](https://atos.net/pt-pt/politica-de-privacidade)
+![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)[](https://atos.net/pt-pt/politica-de-privacidade)
+
+**[Portugal](https://atos.net/pt-pt/politica-de-privacidade)**
+
+![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+[**Slovak**](https://atos.net/es/politica-de-privacidad)
 
 ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
