@@ -303,11 +303,11 @@ _By_ [Kelsey Houston-Edwards](https://www.quantamagazine.org/authors/kelsey-hous
 
 _By_ [Anil Ananthaswamy](https://www.quantamagazine.org/authors/anil-ananthaswamy)
 
-[![](https://www.quantamagazine.org/wp-content/uploads/2024/11/Meet-Luca_crRobertNeubeker-Thumbnail.webp)](https://www.quantamagazine.org/all-life-on-earth-today-descended-from-a-single-cell-meet-luca-20241120/)
+[![A man on a motherboard surrounded by computers](https://www.quantamagazine.org/wp-content/uploads/2024/11/Distributed-Computing_crCarlos-Arrojo-Thumbnail.webp)](https://www.quantamagazine.org/what-is-distributed-computing-20241125/)
 
-[#### All Life on Earth Today Descended From a Single Cell. Meet LUCA.](https://www.quantamagazine.org/all-life-on-earth-today-descended-from-a-single-cell-meet-luca-20241120/)
+[#### What Is Distributed Computing?](https://www.quantamagazine.org/what-is-distributed-computing-20241125/)
 
-_By_ [Jonathan Lambert](https://www.quantamagazine.org/authors/jonathan-lambert)
+_By_ [Max G. Levy](https://www.quantamagazine.org/authors/levymax)
 
 The Quanta Newsletter
 
