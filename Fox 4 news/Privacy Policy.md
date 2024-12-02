@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Fire damages home in The Colony](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/the-colony-house-fire-12012024.png?ve=1&tl=1)
+ [![President Biden pardons son Hunter Biden](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-2123618752-a.jpg?ve=1&tl=1)
 
- ![Fire damages home in The Colony](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/the-colony-house-fire-12012024.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fire-damages-home-colony)
+ ![President Biden pardons son Hunter Biden](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-2123618752-a.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/president-biden-pardons-hunter-son-gun-tax-sentencing)
 
-### [Fire damages home in The Colony](https://www.fox4news.com/news/fire-damages-home-colony)
+### [Biden pardons son Hunter’s gun, tax charges](https://www.fox4news.com/news/president-biden-pardons-hunter-son-gun-tax-sentencing)
 
- [![Video: Michigan Ohio State fight erupts on field after game](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/storyful-flag-bkgd.jpg?ve=1&tl=1)
+ [![Video: Michigan Ohio State fight erupts on field; both fined $100k](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/storyful-flag-bkgd.jpg?ve=1&tl=1)
 
- ![Video: Michigan Ohio State fight erupts on field after game](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/storyful-flag-bkgd.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/michigan-ohio-state-flag-fight-video)
+ ![Video: Michigan Ohio State fight erupts on field; both fined $100k](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/storyful-flag-bkgd.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/michigan-ohio-state-flag-fight-video)
 
-### [Video: Brawl erupts over Michigan flag celebration at Ohio State](https://www.fox4news.com/news/michigan-ohio-state-flag-fight-video)
+### [Michigan, Ohio State fined $100k each after brawl on field](https://www.fox4news.com/news/michigan-ohio-state-flag-fight-video)
 
- [![Suspect identified in fatal Sunday morning West Oak Cliff shooting](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/120124-sh-dpd-shooting-dawes-dr_kdfw721f_186_mp4_00.07.15.38.jpg?ve=1&tl=1)
+ [![Bishop T.D. Jakes gives health update after 'life-threatening calamity'](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/td-jakes-updates-kdfweme003_14_20_13_mpg_00.04.15.44.jpg?ve=1&tl=1)
 
- ![Suspect identified in fatal Sunday morning West Oak Cliff shooting](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/120124-sh-dpd-shooting-dawes-dr_kdfw721f_186_mp4_00.07.15.38.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/suspect-identified-fatal-sunday-morning-west-oak-cliff-shooting)
+ ![Bishop T.D. Jakes gives health update after 'life-threatening calamity'](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/td-jakes-updates-kdfweme003_14_20_13_mpg_00.04.15.44.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/bishop-td-jakes-health-update-potters-house-dec-1)
 
-### [Suspect identified in fatal Sunday morning West Oak Cliff shooting](https://www.fox4news.com/news/suspect-identified-fatal-sunday-morning-west-oak-cliff-shooting)
+### [Bishop T.D. Jakes gives health update after 'life-threatening calamity'](https://www.fox4news.com/news/bishop-td-jakes-health-update-potters-house-dec-1)
 
- [![NASA radar accidentally finds secret Cold War 'city under the ice' in Greenland](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/campcentury_aerial_radar_lrg.jpg?ve=1&tl=1)
+ [![Fort Worth shooting: 1 killed in deadly shooting in north Fort Worth](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/Fort-Worth-Police-generic-Fort-Worth-PD-FWPD-logo.png?ve=1&tl=1)
 
- ![NASA radar accidentally finds secret Cold War 'city under the ice' in Greenland](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/campcentury_aerial_radar_lrg.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/nasa-radar-accidentally-finds-secret-cold-war-city-under-ice-greenland)
+ ![Fort Worth shooting: 1 killed in deadly shooting in north Fort Worth](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/Fort-Worth-Police-generic-Fort-Worth-PD-FWPD-logo.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-shooting-1-killed-north-beach-street)
 
-### [NASA radar accidentally finds secret Cold War 'city under the ice' in Greenland](https://www.fox4news.com/news/nasa-radar-accidentally-finds-secret-cold-war-city-under-ice-greenland)
+### [1 killed in deadly shooting in north Fort Worth](https://www.fox4news.com/news/fort-worth-shooting-1-killed-north-beach-street)
 
- [![Can Kash Patel get confirmed by the Senate?](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-1412135183-scaled.jpg?ve=1&tl=1)
+ [![Sunnyvale wrong way crash kills 1](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/120124-sh-sunnyvale-pd-fx-80-lawson_kdfw7251_186_m_00.01.58.56.jpg?ve=1&tl=1)
 
- ![Can Kash Patel get confirmed by the Senate?](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-1412135183-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/can-kash-patel-get-confirmed-senate)
+ ![Sunnyvale wrong way crash kills 1](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/120124-sh-sunnyvale-pd-fx-80-lawson_kdfw7251_186_m_00.01.58.56.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/wrong-way-crash-sunnyvale-kills-1)
 
-### [Kash Patel, Trump's pick for FBI director, faces skepticism in Senate](https://www.fox4news.com/news/can-kash-patel-get-confirmed-senate)
+### [1 killed in Sunnyvale wrong-way crash](https://www.fox4news.com/news/wrong-way-crash-sunnyvale-kills-1)
 
 ###### [News](https://www.fox4news.com/news)
 
