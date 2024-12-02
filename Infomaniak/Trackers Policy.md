@@ -114,6 +114,10 @@ Events & Marketing
     * [![public cloud](/img/common/suite/public-cloud.svg)
         
         Public Cloud (IaaS) Create your projects in a high-end, ultra-competitive Cloud](https://www.infomaniak.com/en/hosting/public-cloud)
+    * ![](/img/common/suite/kaas.svg)
+        
+        Kubernetes service Deployez vos applications conteneurisees a grande echelle.
+        
     * [![Cloud Server](/img/common/suite/unmanaged-cloud.svg)
         
         VPS Cloud Create a Windows / Linux server](https://www.infomaniak.com/en/hosting/vps-cloud)
