@@ -26,7 +26,7 @@ Main menu
 * [Donate](https://portableapps.com/donate "Contribute to PortableApps.com")
 * [Login / Create Account](https://portableapps.com/user/login)
 
-New: [Kanri](https://portableapps.com/news/2024-10-09--kanri-portable-0.7.1-released) (Oct 9, '24), [Platform 29.5.3](https://portableapps.com/news/2024-06-27--portableapps.com-platform-29.5.3-released) (Jun 27, '24)  
+New: [Run-Command](https://portableapps.com/news/2024-12-02--run-command-portable-6.22-released) (Dec 2, 2024), [Platform 29.5.3](https://portableapps.com/news/2024-06-27--portableapps.com-platform-29.5.3-released) (Jun 27, 2024)  
 [1,100+ portable packages](https://portableapps.com/apps), 1.1 billion downloads  
 **[No Ads November](https://portableapps.com/news/2024-11-07--no-ads-november-2024)!**, Please [donate today](https://portableapps.com/donate)
 
@@ -54,7 +54,7 @@ John T. Haller
 
 Offline
 
-Last seen: 10 hours 19 min ago
+Last seen: 2 hours 13 min ago
 
 ![Admin](https://cdn2.portableapps.com/_badge_admin.png "Admin")![Developer](https://cdn2.portableapps.com/_badge_developer.png "Developer")![Moderator](https://cdn2.portableapps.com/_badge_moderator.png "Moderator")![Translator](https://cdn2.portableapps.com/_badge_translator.png "Translator")
 
@@ -133,7 +133,7 @@ John T. Haller
 
 Offline
 
-Last seen: 10 hours 19 min ago
+Last seen: 2 hours 13 min ago
 
 ![Admin](https://cdn2.portableapps.com/_badge_admin.png "Admin")![Developer](https://cdn2.portableapps.com/_badge_developer.png "Developer")![Moderator](https://cdn2.portableapps.com/_badge_moderator.png "Moderator")![Translator](https://cdn2.portableapps.com/_badge_translator.png "Translator")
 
@@ -158,7 +158,7 @@ John T. Haller
 
 Offline
 
-Last seen: 10 hours 19 min ago
+Last seen: 2 hours 13 min ago
 
 ![Admin](https://cdn2.portableapps.com/_badge_admin.png "Admin")![Developer](https://cdn2.portableapps.com/_badge_developer.png "Developer")![Moderator](https://cdn2.portableapps.com/_badge_moderator.png "Moderator")![Translator](https://cdn2.portableapps.com/_badge_translator.png "Translator")
 
@@ -182,7 +182,7 @@ John T. Haller
 
 Offline
 
-Last seen: 10 hours 19 min ago
+Last seen: 2 hours 13 min ago
 
 ![Admin](https://cdn2.portableapps.com/_badge_admin.png "Admin")![Developer](https://cdn2.portableapps.com/_badge_developer.png "Developer")![Moderator](https://cdn2.portableapps.com/_badge_moderator.png "Moderator")![Translator](https://cdn2.portableapps.com/_badge_translator.png "Translator")
 
@@ -206,7 +206,7 @@ John T. Haller
 
 Offline
 
-Last seen: 10 hours 19 min ago
+Last seen: 2 hours 13 min ago
 
 ![Admin](https://cdn2.portableapps.com/_badge_admin.png "Admin")![Developer](https://cdn2.portableapps.com/_badge_developer.png "Developer")![Moderator](https://cdn2.portableapps.com/_badge_moderator.png "Moderator")![Translator](https://cdn2.portableapps.com/_badge_translator.png "Translator")
 
@@ -230,7 +230,7 @@ John T. Haller
 
 Offline
 
-Last seen: 10 hours 19 min ago
+Last seen: 2 hours 13 min ago
 
 ![Admin](https://cdn2.portableapps.com/_badge_admin.png "Admin")![Developer](https://cdn2.portableapps.com/_badge_developer.png "Developer")![Moderator](https://cdn2.portableapps.com/_badge_moderator.png "Moderator")![Translator](https://cdn2.portableapps.com/_badge_translator.png "Translator")
 
@@ -254,7 +254,7 @@ John T. Haller
 
 Offline
 
-Last seen: 10 hours 19 min ago
+Last seen: 2 hours 13 min ago
 
 ![Admin](https://cdn2.portableapps.com/_badge_admin.png "Admin")![Developer](https://cdn2.portableapps.com/_badge_developer.png "Developer")![Moderator](https://cdn2.portableapps.com/_badge_moderator.png "Moderator")![Translator](https://cdn2.portableapps.com/_badge_translator.png "Translator")
 
