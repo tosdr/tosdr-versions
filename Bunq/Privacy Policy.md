@@ -661,7 +661,7 @@ Discover
 
 [Compare Plans](https://www.bunq.com/assets/media/legal/en/plans)
 
-[Pricing](https://www.bunq.com/assets/media/legal/en/pricing)
+[Pricing](https://www.bunq.com/assets/media/legal/en/documents/pricing)
 
 [Mortgages](https://mortgages.bunq.com/)
 
@@ -691,7 +691,9 @@ Help
 
 [Contact](https://www.bunq.com/assets/media/legal/en/contact)
 
-[Report an Issue](https://www.bunq.com/assets/media/legal/en/report)
+[Report an issue](https://www.bunq.com/assets/media/legal/en/report)
+
+[File a complaint](https://www.bunq.com/assets/media/legal/en/report/formal-complaint)
 
 [Knowledge Base](https://together.bunq.com/t/knowledge)
 
@@ -739,7 +741,7 @@ Discover
 
 [Compare Plans](https://www.bunq.com/assets/media/legal/en/plans)
 
-[Pricing](https://www.bunq.com/assets/media/legal/en/pricing)
+[Pricing](https://www.bunq.com/assets/media/legal/en/documents/pricing)
 
 [Mortgages](https://mortgages.bunq.com/)
 
@@ -769,7 +771,9 @@ Help
 
 [Contact](https://www.bunq.com/assets/media/legal/en/contact)
 
-[Report an Issue](https://www.bunq.com/assets/media/legal/en/report)
+[Report an issue](https://www.bunq.com/assets/media/legal/en/report)
+
+[File a complaint](https://www.bunq.com/assets/media/legal/en/report/formal-complaint)
 
 [Knowledge Base](https://together.bunq.com/t/knowledge)
 
@@ -817,7 +821,7 @@ Discover
 
 [Compare Plans](https://www.bunq.com/assets/media/legal/en/plans)
 
-[Pricing](https://www.bunq.com/assets/media/legal/en/pricing)
+[Pricing](https://www.bunq.com/assets/media/legal/en/documents/pricing)
 
 [Mortgages](https://mortgages.bunq.com/)
 
@@ -847,7 +851,9 @@ Help
 
 [Contact](https://www.bunq.com/assets/media/legal/en/contact)
 
-[Report an Issue](https://www.bunq.com/assets/media/legal/en/report)
+[Report an issue](https://www.bunq.com/assets/media/legal/en/report)
+
+[File a complaint](https://www.bunq.com/assets/media/legal/en/report/formal-complaint)
 
 [Knowledge Base](https://together.bunq.com/t/knowledge)
 
