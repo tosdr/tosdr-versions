@@ -207,9 +207,9 @@ By [Tomoko Otake](https://www.japantimes.co.jp/author/3264/tomoko-otake/ "Tomoko
 SUSTAINABLE JAPAN
 -----------------
 
-[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -249,23 +249,23 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Night schools offer alternative route to completing compulsory education](https://www.japantimes.co.jp/news/2024/12/02/japan/society/education-night-schools/ "Night schools offer alternative route to completing compulsory education")
+[Japan to offer ¥5 billion in military aid to four countries](https://www.japantimes.co.jp/news/2024/12/02/japan/japan-osa-philippines-indonesia-mongolia-djibouti/ "Japan to offer ¥5 billion in military aid to four countries")
 
-14 mins ago
+47 mins ago
 
-['We have a lost generation': Lebanon's education crisis](https://www.japantimes.co.jp/news/2024/12/02/world/society/generation-lebanon-education-crisis/ "'We have a lost generation': Lebanon's education crisis")
+[Japan’s 2024 buzzword of the year urges a reevaluation of past norms](https://www.japantimes.co.jp/news/2024/12/02/japan/society/2024-buzzword-of-the-year-announced/ "Japan’s 2024 buzzword of the year urges a reevaluation of past norms")
 
-21 mins ago
+58 mins ago
 
-[Ukraine war reinvigorating Finland’s fighting spirit](https://www.japantimes.co.jp/news/2024/12/02/world/politics/finland-defense-ukraine-russia/ "Ukraine war reinvigorating Finland’s fighting spirit")
+[8.4% of Japanese companies led by women in 2024](https://www.japantimes.co.jp/business/2024/12/02/economy/japan-women-presidents/ "8.4% of Japanese companies led by women in 2024")
 
-50 mins ago
+1 hour ago
 
-[PlayStation at 30: How Sony's gray box conquered gaming](https://www.japantimes.co.jp/business/2024/12/02/tech/sony-playstation-30-years/ "PlayStation at 30: How Sony's gray box conquered gaming")
+[Ishiba questioned on political reform, social issues and the economy](https://www.japantimes.co.jp/news/2024/12/02/japan/politics/ishiba-parliamentary-questioning/ "Ishiba questioned on political reform, social issues and the economy")
 
-53 mins ago
+1 hour ago
 
-[Restaurant committed to animal welfare opens in Sendai](https://www.japantimes.co.jp/news/2024/12/02/japan/society/animal-welfare-restaurant/ "Restaurant committed to animal welfare opens in Sendai")
+[_Osechi ryōri_ prices climb for a third consecutive year](https://www.japantimes.co.jp/news/2024/12/02/japan/society/japan-new-year-dish-prices-rise/ "Osechi ryōri prices climb for a third consecutive year")
 
 1 hour ago
 
