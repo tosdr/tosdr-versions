@@ -226,7 +226,7 @@ The green widget you see below this text is the tawk.to live chat widget, if you
 
 \[language-switcher\]
 
-[Linkedin-in](https://www.linkedin.com/company/tawk-to) [Twitter](https://www.twitter.com/tawktotawk/) [Facebook-f](https://www.facebook.com/tawkto/) [Instagram](https://instagram.com/tawktotawk) [Youtube](https://www.youtube.com/channel/UCmmsTnOAYjv1pZl-ueAMM-A/featured) [Wordpress](https://www.tawk.to/blog)
+[Linkedin-in](https://www.linkedin.com/company/tawk-to) [Twitter](https://x.com/intent/follow?screen_name=tawktotawk) [Facebook-f](https://www.facebook.com/tawkto/) [Instagram](https://instagram.com/tawktotawk) [Youtube](https://www.youtube.com/channel/UCmmsTnOAYjv1pZl-ueAMM-A/featured) [Wordpress](https://www.tawk.to/blog)
 
 © Copyright 2024 tawk.to, inc. All Rights Reserved. Various trademarks held by their respective owners
 
