@@ -385,15 +385,15 @@ What Customers Are Saying
 
 Based on 305,654 Carpet Cleaning Services Reviews
 
-**KS.** - St. Louis, MO - 12/01/2024
-
-(4.0 Out of 5 stars)
-
-Very competent , very convenient price, efficient . Good communication to confirm date and time .. **CS.** - Hollywood, FL - 12/01/2024
+The gentleman who did the cleaning was very thorough and attentive. Thank you! **AT.** - Novi, MI - 12/01/2024
 
 (5.0 Out of 5 stars)
 
-Great service! Does a fabulous job - multiple times on our carpet and upholstery. Highly recommend. **MH.** - Grand Rapids, MI - 11/30/2024
+**SL.** - Aurora, CO - 11/30/2024
+
+(5.0 Out of 5 stars)
+
+**DD.** - Westminster, CO - 11/30/2024
 
 (5.0 Out of 5 stars)
 
