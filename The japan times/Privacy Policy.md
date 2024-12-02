@@ -523,9 +523,9 @@ By [Tomoko Otake](https://www.japantimes.co.jp/author/3264/tomoko-otake/ "Tomoko
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -567,23 +567,21 @@ Latest News
 
 [Nomura’s Japan corporate bond market rank slips after probe](https://www.japantimes.co.jp/business/2024/12/02/markets/nomura-bond-ranking/ "Nomura’s Japan corporate bond market rank slips after probe")
 
-3 hours ago
+9 hours ago
 
 [Lawsuit filed over Hyogo governor's alleged election law violation](https://www.japantimes.co.jp/news/2024/12/02/japan/politics/motohiko-saito-social-media-lawsuit/ "Lawsuit filed over Hyogo governor's alleged election law violation")
 
-4 hours ago
+10 hours ago
 
 [Nearly 90% in Japan and China have negative views of other](https://www.japantimes.co.jp/news/2024/12/02/japan/japan-china-negative-views/ "Nearly 90% in Japan and China have negative views of other")
 
-4 hours ago
+10 hours ago
 
 [Resona says inflation is boosting SME loan demand and pay hikes](https://www.japantimes.co.jp/business/2024/12/02/companies/resona-inflation-effects/ "Resona says inflation is boosting SME loan demand and pay hikes")
 
-4 hours ago
+10 hours ago
 
 [30-strong Nihon Hidankyo delegation to collect Nobel Peace Prize](https://www.japantimes.co.jp/news/2024/12/02/japan/nihon-hidankyo-nobel-delegation/ "30-strong Nihon Hidankyo delegation to collect Nobel Peace Prize")
-
-6 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
