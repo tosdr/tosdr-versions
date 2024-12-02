@@ -50,7 +50,7 @@ Menu
     * [News, Events, and Updates](https://www.nlm.nih.gov/news/newsandevents.html)
 * Grants and Research
     * [NLM Extramural Programs](https://www.nlm.nih.gov/ep/index.html)
-    * [NLM Intramural Research Program](https://www.nlm.nih.gov/research/index.html)
+    * [NLM Division of Intramural Research](https://www.nlm.nih.gov/research/index.html)
     * [National Center for Biotechnology Information](https://www.ncbi.nlm.nih.gov/)
     * [Lister Hill National Center for Biomedical Communications](https://lhncbc.nlm.nih.gov/)
 
@@ -286,7 +286,7 @@ Please use the following language to cite source materials:
 
 Source: National Library of Medicine; National Institutes of Health; U.S. Department of Health and Human Services.
 
-Last Reviewed: June 26, 2024
+Last Reviewed: December 2, 2024
 
 [Connect with NLM](https://www.nlm.nih.gov/socialmedia/index.html)
 
