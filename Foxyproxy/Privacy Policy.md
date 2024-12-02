@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I appreciate all you do for your customers.
+First of all, your service is awesome!!! It is fast and reliable. It works like charm on all of my devices. Frankly, this helps me using my country area restricted applications while I\`m traveling and that is a huge value for me. "I feel like being home...
 
-Ken Lingard
+Robert Tenczer
