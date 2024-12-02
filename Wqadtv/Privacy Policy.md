@@ -30,13 +30,16 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/2b123806-0ea4-4c3a-b84b-666b3a6a55fd/20241202T041413/2b123806-0ea4-4c3a-b84b-666b3a6a55fd_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/2b123806-0ea4-4c3a-b84b-666b3a6a55fd/20241202T041413/2b123806-0ea4-4c3a-b84b-666b3a6a55fd_360x203.jpg)](https://www.wqad.com/article/life/holidays/hauberg-estate-rock-island-winter-in-bloom-open-house/526-a72c5ee2-2523-46cb-838e-dc1727ec9d62)
+        
+        #### [Hauberg Estate in Rock Island hosts annual holiday open house](https://www.wqad.com/article/life/holidays/hauberg-estate-rock-island-winter-in-bloom-open-house/526-a72c5ee2-2523-46cb-838e-dc1727ec9d62) [![](https://media.tegna-media.com/assets/WQAD/images/2b123806-0ea4-4c3a-b84b-666b3a6a55fd/20241202T041413/2b123806-0ea4-4c3a-b84b-666b3a6a55fd_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/2b123806-0ea4-4c3a-b84b-666b3a6a55fd/20241202T041413/2b123806-0ea4-4c3a-b84b-666b3a6a55fd_360x203.jpg)](https://www.wqad.com/article/life/holidays/hauberg-estate-rock-island-winter-in-bloom-open-house/526-a72c5ee2-2523-46cb-838e-dc1727ec9d62)
+        
+        #### ['Winter in Bloom' at the Hauberg Estate: Hundreds attend holiday open house in Rock Island](https://www.wqad.com/article/life/holidays/hauberg-estate-rock-island-winter-in-bloom-open-house/526-a72c5ee2-2523-46cb-838e-dc1727ec9d62) [![](https://media.tegna-media.com/assets/WQAD/images/2b123806-0ea4-4c3a-b84b-666b3a6a55fd/20241202T041413/2b123806-0ea4-4c3a-b84b-666b3a6a55fd_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/2b123806-0ea4-4c3a-b84b-666b3a6a55fd/20241202T041413/2b123806-0ea4-4c3a-b84b-666b3a6a55fd_360x203.jpg)](https://www.wqad.com/article/life/holidays/hauberg-estate-rock-island-winter-in-bloom-open-house/526-a72c5ee2-2523-46cb-838e-dc1727ec9d62)
+        
+        #### [Hauberg Estate hosts hundreds for annual holiday open house 'Winter in Bloom'](https://www.wqad.com/article/life/holidays/hauberg-estate-rock-island-winter-in-bloom-open-house/526-a72c5ee2-2523-46cb-838e-dc1727ec9d62)
     *  [![](https://media.tegna-media.com/assets/WQAD/images/f5f3d060-8a8a-440d-81ac-444e59a9d0b0/20241201T172040/f5f3d060-8a8a-440d-81ac-444e59a9d0b0_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f5f3d060-8a8a-440d-81ac-444e59a9d0b0/20241201T172040/f5f3d060-8a8a-440d-81ac-444e59a9d0b0_360x203.jpg)](https://www.wqad.com/article/news/crime/cocaine-seized-western-illinois-40-million-dollars-1000-pounds-state-police/526-4997638b-da18-4772-ae5d-00a393d505b8)
         
         #### [Over $40M worth of cocaine seized during traffic stop near Geneseo, ISP says](https://www.wqad.com/article/news/crime/cocaine-seized-western-illinois-40-million-dollars-1000-pounds-state-police/526-4997638b-da18-4772-ae5d-00a393d505b8)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/bf1dd9e4-a428-4e65-9124-469fedda17fb/bf1dd9e4-a428-4e65-9124-469fedda17fb_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/bf1dd9e4-a428-4e65-9124-469fedda17fb/bf1dd9e4-a428-4e65-9124-469fedda17fb_360x203.jpg)](https://www.wqad.com/article/news/local/2-killed-dubuque-county-crash-thanksgiving-day/526-ac4f428d-16c0-4b4c-aada-3ab7af01cd51)
-        
-        #### [2 killed in Dubuque County crash on Thanksgiving Day](https://www.wqad.com/article/news/local/2-killed-dubuque-county-crash-thanksgiving-day/526-ac4f428d-16c0-4b4c-aada-3ab7af01cd51)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,9 +59,9 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/5780fd25-5b63-44a6-9d6c-719396f1e32c/20241201T130349/5780fd25-5b63-44a6-9d6c-719396f1e32c_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/5780fd25-5b63-44a6-9d6c-719396f1e32c/20241201T130349/5780fd25-5b63-44a6-9d6c-719396f1e32c_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/00174322-011f-457b-bb0a-739698c8577f/20241202T002354/00174322-011f-457b-bb0a-739698c8577f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/00174322-011f-457b-bb0a-739698c8577f/20241202T002354/00174322-011f-457b-bb0a-739698c8577f_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Very chilly temperatures to start the month](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Cold Start to December](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/CCT/images/ba7d2016-edeb-449f-901e-b97ec0d6ce44/20241130T192614/ba7d2016-edeb-449f-901e-b97ec0d6ce44_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/ba7d2016-edeb-449f-901e-b97ec0d6ce44/20241130T192614/ba7d2016-edeb-449f-901e-b97ec0d6ce44_360x203.jpg)](https://www.wqad.com/article/news/nation-world/heavy-snow-blankets-parts-of-the-us/507-44798a84-f4e7-4d84-bf29-ebe649f73efb)
         
@@ -86,7 +89,7 @@ Navigation
 
 Davenport, IA »
 
-24°
+15°
 
 ![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
