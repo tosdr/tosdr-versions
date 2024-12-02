@@ -112,7 +112,7 @@ Letzte Änderung: 29. Juni 2020, 13:18
     
     Wir behalten uns vor, Beiträge oder Kommentare, die nicht zu einer konstruktiven Diskussion beitragen, zu löschen.
     
-    Eine öffentliche Diskussion über gelöschte Beiträge oder Kommentare findet nicht statt. Nachfragen können per PN an Moderatoren/Administratoren oder per E-Mail an mwt@profil24.de gestellt werden.
+    Eine öffentliche Diskussion über gelöschte Beiträge oder Kommentare findet nicht statt. Nachfragen können per PN an Moderatoren/Administratoren oder per E-Mail an [\[email protected\]](https://www.mietwagen-talk.de/cdn-cgi/l/email-protection) gestellt werden.
     
     Wir nehmen unser Hausrecht wahr. Dazu gehört, einzelnen Nutzern, die gegen die Nutzungsbedingungen und/oder Forenregeln verstoßen, den Zugang zur aktiven Teilnahme am Forum sowie anderen Bereichen des Mietwagen-Talk oder den vollständigen Zugang ohne Vorankündigung zu sperren.
     
