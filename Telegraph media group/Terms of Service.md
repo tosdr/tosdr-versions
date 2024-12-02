@@ -623,7 +623,7 @@ Follow us on:
 * [Fantasy Sport](https://fantasyfootball.telegraph.co.uk/)
 * [UK Voucher Codes](https://www.telegraph.co.uk/vouchercodes)
 * [Betting Offers](https://www.telegraph.co.uk/betting/free-bets/)
-* [Tax Strategy](https://www.telegraph.co.uk/about-us/press-acquisitions-limited-tax-strategy-financial-year-2022/)
+* [Tax Strategy](https://www.telegraph.co.uk/about-us/press-acquisitions-limited-tax-strategy-financial-year-2024/)
 * [Broadband and Mobile Deals](https://www.telegraph.co.uk/compare)
 * [Newsletters](https://telegraph.co.uk/newsletters)
 * [Privacy](https://www.telegraph.co.uk/about-us/privacy-and-cookie-policy/)
