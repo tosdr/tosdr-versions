@@ -149,4 +149,4 @@ Mon-Saturday 8am-5pm MST
 
 [Back to Top](#header)
 
-Black Friday Sale - Happening Now
+Cyber Monday - Save Up to 50%
