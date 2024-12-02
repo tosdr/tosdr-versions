@@ -3,6 +3,8 @@ Terms and Conditions
 
 Global
 
+Select your country to view the applicable Terms and Conditions.
+
 ![](data:image/svg+xml;charset=utf-8,%3Csvg%20height='40'%20width='69'%20xmlns='http://www.w3.org/2000/svg'%20version='1.1'%3E%3C/svg%3E)
 
 ![Bolt logo](https://public-documents.bolt.eu/static/7948e3225da9f3fac496346bffdf391f/cee1f/bolt-logo.webp)
