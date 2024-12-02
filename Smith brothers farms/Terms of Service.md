@@ -196,14 +196,14 @@ Hi
     * BACK
     * [All Products](https://www.smithbrothersfarms.com/all-products)
         
-    * [New! (91)](https://www.smithbrothersfarms.com/featured-products)
+    * [New! (95)](https://www.smithbrothersfarms.com/featured-products)
         
     * [On Sale (70)](https://www.smithbrothersfarms.com/on-special)
         
-    * [Holiday Treats (41)](https://www.smithbrothersfarms.com/holiday-treats)
+    * [Holiday Treats (42)](https://www.smithbrothersfarms.com/holiday-treats)
         
         * BACK
-        * [Holiday (26)](https://www.smithbrothersfarms.com/holiday)
+        * [Holiday (27)](https://www.smithbrothersfarms.com/holiday)
             
         
     * [Milk & Cream (55)](https://www.smithbrothersfarms.com/milk-cream)
@@ -268,12 +268,12 @@ Hi
         * [Cottage Cheese (2)](https://www.smithbrothersfarms.com/cottage-cheese)
             
         
-    * [Produce (87)](https://www.smithbrothersfarms.com/produce-3)
+    * [Produce (89)](https://www.smithbrothersfarms.com/produce-3)
         
         * BACK
         * [Harvest Box (1)](https://www.smithbrothersfarms.com/bulk-boxes)
             
-        * [Fruit (27)](https://www.smithbrothersfarms.com/fruit)
+        * [Fruit (29)](https://www.smithbrothersfarms.com/fruit)
             
         * [Vegetables (29)](https://www.smithbrothersfarms.com/vegetables)
             
@@ -282,14 +282,14 @@ Hi
         * [Prepared Produce (5)](https://www.smithbrothersfarms.com/prepped)
             
         
-    * [Bakery (104)](https://www.smithbrothersfarms.com/bakery)
+    * [Bakery (105)](https://www.smithbrothersfarms.com/bakery)
         
         * BACK
         * [Bread & Buns (35)](https://www.smithbrothersfarms.com/bread)
             
         * [Tortillas & Pizza Crust (6)](https://www.smithbrothersfarms.com/tortillas-and-pizza)
             
-        * [Bagels (15)](https://www.smithbrothersfarms.com/bagels)
+        * [Bagels (16)](https://www.smithbrothersfarms.com/bagels)
             
         * [Breakfast Treats (19)](https://www.smithbrothersfarms.com/breakfast-treats)
             
