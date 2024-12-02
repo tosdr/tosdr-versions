@@ -2,7 +2,7 @@ Privacy Policy
 
 
 
-(Version 10.0., Date 06.11.2024)
+(Version 10.1., Date 02.12.2024)
 
 
 
@@ -702,21 +702,29 @@ When you make a payment with your N26 card by using a digital wallet (such as Ap
 
 Samsung Pay and Garmin Pay via Mastercard Wallet Express) or an online checkout service (such as Mastercard
 
-Click to Pay), N26 needs to transmit transaction data to our processor Mastercard Europe S.A. (“Mastercard
+Click to Pay), N26 engages with Mastercard Processing S.A. , 198/A Chaussée de Tervuren, 1410 Waterloo,
 
-S.A.”), 198/A Chaussée de Tervuren, 1410 Waterloo, Belgium (“Mastercard”). Your transaction data is tokenized
+Belgium (“Mastercard”) which supports us in performing the requested transaction, as our data processor.
 
-at Mastercard before it is transmitted to the provider of the chosen payment method as a separate data
+Specifically, your transaction data is tokenized at Mastercard, and further transmitted on our behalf by
 
-controller. Tokens are used to authorize and to perform transactions with the payment method provider and
+Mastercard to the provider of the chosen payment method, which is a separate data controller. Tokens are
 
-these tokens ensure the confidentiality of your personal data. This way, your card details are not shared with
+used to authorize and to perform transactions with payment method provider and these tokens ensure the
 
-the merchant, nor stored on your device.
+confidentiality of your personal data. This way, your card details are not shared with the merchant, nor stored
 
-Such transmission of data from N26 is based on the execution of the agreement between N26 and you,
+on your device.
 
-according to Art. 6 (1) b) GDPR.
+
+
+The above processing of personal data, namely making available transaction data to and its respective
+
+tokenization by Mastercard, as well as the transmission of that tokenized transaction data to the payment
+
+method provider, are based on the execution of the agreement between N26 and you, according to Art. 6 (1) b)
+
+GDPR.
 
 
 
@@ -737,6 +745,8 @@ applicable legal and regulatory framework to provide an interface for communicat
 service providers of your choice (Art. 6 (1) c) GDPR) and that it is necessary to perform our obligations under the
 
 N26 account contract (Art. 6 (1) b) GDPR).
+
+
 
 12\. Data processing in the framework of N26 Instant Savings
 
@@ -832,6 +842,8 @@ we process the following data points related to you, based on the execution of t
 
 and you, according to Art. 6 (1) b) GDPR:
 
+
+
 ● Data collected when you create N26 Crypto service account: your name, email address, mobile phone
 
 number, date of birth, place of birth, legal address, your tax residence, gender, citizenship, customer
@@ -880,11 +892,11 @@ Upvest will process your personal data.
 
 Upvest is the controller for the processing of your personal data for executing the orders and transactions you
 
-place through the N26 App. The Upvest’s Terms and Conditions and Privacy Policy apply. In this context, N26
+place through the N26 App (including the subscription of managed portfolios). The Upvest’s Terms and
 
-will process the following personal data on behalf of Upvest as a processor (Art. 28 GDPR) for the following
+Conditions and Privacy Policy apply. In this context, N26 will process the following personal data on behalf of
 
-purposes:
+Upvest as a processor (Art. 28 GDPR) for the following purposes:
 
 
 
@@ -924,9 +936,9 @@ you.
 
 related to your orders and transactions, namely the amount, type and frequency (specially in case of
 
-investment plans) of your placed orders and transactions. The required legal basis for this is Art. 6 (1)
+investment plans) of your placed orders and transactions. This also includes any managed portfolios
 
-b) GDPR.
+that you subscribe to. The required legal basis for this is Art. 6 (1) b) GDPR.
 
 ● Compliance with legal obligations: Processing of personal data for compliance with legal obligations
 
@@ -1018,6 +1030,8 @@ the products and services under the contract between you and N26 or any pre-cont
 
 N26 or as requested by you, based on Art. 6 (1) b) GDPR.
 
+
+
 In addition, we process your data within the scope of our legitimate interest in answering your general
 
 questions about our services and products and to help you find information about our new services and
@@ -1062,15 +1076,13 @@ far as necessary to provide such information, based on Art. 6 (1) f) GDPR. For m
 
 legitimate interest as a legal basis for processing data, please see section II. above. You can object to the
 
-processing of your personal data to receive informational in-app messages in the App settings via N26 App \> My
+processing of your personal data to receive informational emails, in-app messages and push notifications in the
 
-Account \> Settings \> App-Settings \> Communication-Settings \> Click on in-app messages toggle. To object to the
+App settings via N26 App \> My Account \> Settings \> App-Settings \> Communications \> Click on respective toggle.
 
-data processing to receive informational emails, please object to the data processing via the unsubscribe link
+For all other communication channels and your right to object to the processing of your data for customer
 
-provided in all informational emails. For all other communication channels and your right to object to the
-
-processing of your data for customer segmentation, please refer to section X. 2. below.
+segmentation, please refer to section X. 2. below.
 
 
 
@@ -1109,6 +1121,8 @@ share these datasets with third parties. This processing is based on N26’s leg
 Art. 6 (1) c) GDPR, or based on N26’s legitimate interest, under Art. 6 (1) f) GDPR. For more information on the
 
 legitimate interest as a legal basis for processing data, please see section II. above.
+
+
 
 The following example gives you an idea how we are using anonymised data sets under our legal obligations:
 
@@ -1191,8 +1205,6 @@ the information that is technically necessary to provide the survey function and
 (metadata). We process your data, as described, for the purpose of displaying surveys to you and obtaining
 
 your feedback, based on our legitimate interests, in accordance with Art. 6 (1) f GDPR.
-
-
 
 Depending on the survey, we may also process the content of your responses and, in particular, the
 
@@ -1287,8 +1299,6 @@ address, the masked IBAN of your selected N26 account (only the first 8 and last
 profile identifier and the timestamp of your iDEAL profile registration. This is done to execute our agreement
 
 with you as per Art. 6 (1) b GDPR.
-
-
 
 We further process your data to detect and prevent fraud and criminal acts, including money laundering and
 
@@ -1388,6 +1398,8 @@ Once you have completed this identification procedure your personal data will be
 
 by our legal obligations, based on Art. 6 (1) c) GDPR.
 
+
+
 V. Social Plugins
 
 On our Website, as well as in our Support Center, we have share buttons linking to Facebook, YouTube,
@@ -1463,8 +1475,6 @@ notifications are messages you receive on your phone without a specific request 
 App is open. We will only send you marketing push notifications if you expressly consent to this as you open an
 
 account or in the settings of your app.
-
-
 
 Processing your data in order for us to send you marketing push notifications is based on your prior consent
 
@@ -1656,6 +1666,8 @@ no access to the personal data that Meta collects to compile these statistics an
 
 data to the profiles of our fans or individual users.
 
+
+
 In addition, Instagram uses cookies, which are stored on your device while visiting our Instagram social media
 
 page. This can apply even if you do not have an Instagram account or are not logged into your account while
@@ -1837,8 +1849,6 @@ against TikTok, can be found in the relevant TikTok inventory privacy notice
 
 
 7. Data processing by N26
-
-
 
 If you use our Social Media Pages to contact us (e.g. by creating your own posts on our Social Media Pages or by
 
@@ -2119,6 +2129,8 @@ direct marketing purposes, your personal data is not processed any longer for th
 your personal data remains justified until the date of your objection. You can exercise your right of objection
 
 through our webform.
+
+
 
 XI. Deletion and retention periods
 
