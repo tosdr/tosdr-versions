@@ -89,13 +89,13 @@ FR
         
         up to 16.5% Cash Back](https://www.rakuten.ca/crocs)[Allbirds
         
-        6% Cash Back](https://www.rakuten.ca/allbirds)[Moores
-        
-        7.5% Cash Back](https://www.rakuten.ca/moores)[Simons
+        6% Cash Back](https://www.rakuten.ca/allbirds)[Simons
         
         2% Cash Back](https://www.rakuten.ca/simons)[Gap Canada
         
-        2% Cash Back](https://www.rakuten.ca/gap-canada)
+        2% Cash Back](https://www.rakuten.ca/gap-canada)[icebreaker
+        
+        4% Cash Back](https://www.rakuten.ca/icebreaker)
         
         Featured Shops & Deals
         
@@ -323,11 +323,11 @@ FR
         
         5% Cash Back](https://www.rakuten.ca/home-hardware)[Dyson
         
-        12% Cash Back](https://www.rakuten.ca/dyson)[Simba Sleep Canada
+        12% Cash Back](https://www.rakuten.ca/dyson)[TEMU
         
-        15% Cash Back](https://www.rakuten.ca/simba-sleep-canada)[Wayfair
+        12% Cash Back](https://www.rakuten.ca/temu)[Simba Sleep Canada
         
-        6% Cash Back](https://www.rakuten.ca/wayfair)
+        15% Cash Back](https://www.rakuten.ca/simba-sleep-canada)
         
         Featured Shops & Deals
         
@@ -690,13 +690,7 @@ All rights reserved.
 
  ![](//static.rakuten.ca/static/img/footer_close.svg) ![](//static.rakuten.ca/static/img/footer_open.svg)
 
-[![Earn 12% Cash Back from Rakuten.ca with Dyson Coupons, Promo Codes](//static.rakuten.ca/img/campaign_entity/303442/en-stickyfooter-1170x60_dyson.png "Dyson Coupons, Promo Codes")
-
-was 2.5%, now
-
-12% Cash Back
-
-Shop Now](https://www.rakuten.ca/ticket/campaign/sticky-footer-base-1/store/dyson?sourceName=stickyfooter1)
+[![](//static.rakuten.ca/img/campaign_entity/303981/en_stickyfooter-1170x60_gift_card_shop_.png)](https://www.rakuten.ca/giftcardshop)
 
 × ![Rakuten White Logo](//static.rakuten.ca/static/images/logo/logo_Rakuten_white.svg)
 
