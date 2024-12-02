@@ -270,7 +270,7 @@ Washington, DC 20036
 
 [Facebook-official](https://www.facebook.com/InsideNatGeo/) [Twitter](https://twitter.com/InsideNatGeo/) [Instagram](https://www.instagram.com/insidenatgeo/) [Youtube](https://www.youtube.com/insidenatgeo/) [Linkedin](https://www.linkedin.com/company/national-geographic-society/)
 
-[Careers](https://www.nationalgeographic.org/society/careers/)  |  [Newsroom](https://blog.nationalgeographic.org/)  |  [Ethics](https://www.nationalgeographic.org/ethics/)  |  [Privacy Notice](https://www.nationalgeographic.org/society/privacy-notice/)  |  [Terms of Service](https://www.nationalgeographic.org/terms-of-service/) | [Your Privacy Choices](#)
+[Careers](https://www.nationalgeographic.org/society/careers/)  |  [Newsroom](https://blog.nationalgeographic.org/)  |  [Ethics](https://www.nationalgeographic.org/ethics/)  |  [State Disclosures](https://www.nationalgeographic.org/society/state-disclosures/)  |  [Terms of Service](https://www.nationalgeographic.org/terms-of-service/) |   [Privacy Notice](https://www.nationalgeographic.org/society/privacy-notice/)  | [Your Privacy Choices](#)
 
 © 1996 – 2024 National Geographic Society. All rights reserved.
 
