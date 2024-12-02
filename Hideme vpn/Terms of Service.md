@@ -208,7 +208,7 @@ trademark of Jason A. Donenfeld.
 
 [![VTI Member](https://hide.me/resources/299/images/logo/vti-large.svg)](https://vpntrust.net/)
 
-Black Friday Sale
+Christmas Sale
 
 Includes 3 months extra
 
@@ -220,7 +220,7 @@ Min
 
 Sec
 
-[Get the offer](https://member.hide.me/en/checkout?plan=summer2023&coupon=RER-BFR-7R4&duration=27&theme=blackfriday&utm_campaign=blackfriday24&utm_medium=homepage&utm_source=internal "Get the offer")
+[Get the offer](https://member.hide.me/en/checkout?plan=twenty7twelve&coupon=7YB-2ZA-WED&duration=27&utm_campaign=xmas24&utm_medium=homepage&utm_source=internal "Get the offer")
 
 Let's Talk!
 
