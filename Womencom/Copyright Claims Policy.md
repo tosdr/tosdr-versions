@@ -41,20 +41,32 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Asian woman browsing books at a bookstore](https://www.women.com/img/gallery/10-mystery-thriller-books-we-cant-wait-for-in-2025/intro-1732295218.jpg)](https://www.women.com/1720983/mystery-thriller-books-cant-wait-for-2025/)
+*  [![Woman looking at her phone in the bath](https://www.women.com/img/gallery/sex-in-a-long-distance-relationship-what-to-know-and-how-to-make-it-work/intro-1732636315.jpg)](https://www.women.com/1723224/sex-long-distance-relationship-what-know-how-make-work/)
     
-    [Living](https://www.women.com/category/living/)
+    [Exclusives](https://www.women.com/category/exclusives/)
     
-    [Living](https://www.women.com/category/living/) By Madison Emily Whisenand
+    [Exclusives](https://www.women.com/category/exclusives/) By Amanda Chatel
     
-    [10 Mystery & Thriller Books We Can't Wait For In 2025](https://www.women.com/1720983/mystery-thriller-books-cant-wait-for-2025/)
-    =================================================================================================================================
+    [Sex In A Long-Distance Relationship: What To Know And How To Make It Work](https://www.women.com/1723224/sex-long-distance-relationship-what-know-how-make-work/)
+    ==================================================================================================================================================================
     
-    A new year means new books, and 2025 will see some great additions to your shelf. Fans of mysteries and thrillers should check out these 10 upcoming releases.
+    Even when you're not physically together, keeping your mind and body sexually engaged with each other is important for consistently maintaining that intimacy.
     
-    By Madison Emily Whisenand [Read More](https://www.women.com/1720983/mystery-thriller-books-cant-wait-for-2025/)
+    By Amanda Chatel [Read More](https://www.women.com/1723224/sex-long-distance-relationship-what-know-how-make-work/)
     
-* *  [![Taylor Swift at the MTV Awards in 2024](https://www.women.com/img/gallery/taylor-swift-outfits-that-totally-missed-the-mark-in-2024/intro-1732210802.jpg)](https://www.women.com/1719639/taylor-swift-outfits-totally-missed-mark-2024/)
+* *  [![Asian woman browsing books at a bookstore](https://www.women.com/img/gallery/10-mystery-thriller-books-we-cant-wait-for-in-2025/intro-1732295218.jpg)](https://www.women.com/1720983/mystery-thriller-books-cant-wait-for-2025/)
+        
+        [Living](https://www.women.com/category/living/)
+        
+        [Living](https://www.women.com/category/living/) By Madison Emily Whisenand
+        
+        ### [10 Mystery & Thriller Books We Can't Wait For In 2025](https://www.women.com/1720983/mystery-thriller-books-cant-wait-for-2025/)
+        
+        A new year means new books, and 2025 will see some great additions to your shelf. Fans of mysteries and thrillers should check out these 10 upcoming releases.
+        
+        By Madison Emily Whisenand [Read More](https://www.women.com/1720983/mystery-thriller-books-cant-wait-for-2025/)
+        
+    *  [![Taylor Swift at the MTV Awards in 2024](https://www.women.com/img/gallery/taylor-swift-outfits-that-totally-missed-the-mark-in-2024/intro-1732210802.jpg)](https://www.women.com/1719639/taylor-swift-outfits-totally-missed-mark-2024/)
         
         [Fashion](https://www.women.com/category/fashion/)
         
@@ -65,18 +77,6 @@
         Taylor Swift is all about taking risks, and occasionally, they flop. In 2024, Swift switched things up and started doing things differently.
         
         By Bernadette Roe [Read More](https://www.women.com/1719639/taylor-swift-outfits-totally-missed-mark-2024/)
-        
-    *  [![HER with an afro](https://www.women.com/img/gallery/20-celebs-who-look-gorgeous-with-their-natural-hair/intro-1731701805.jpg)](https://www.women.com/1714855/celebs-look-gorgeous-with-their-natural-hair/)
-        
-        [Beauty](https://www.women.com/category/beauty/)
-        
-        [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
-        
-        ### [20 Celebs Who Look Gorgeous With Their Natural Hair](https://www.women.com/1714855/celebs-look-gorgeous-with-their-natural-hair/)
-        
-        From Michelle Obama to Taylor Swift, these celebrity women are proudly showing the world that the hair you're born with is worth celebrating.
-        
-        By Emily Hutchinson [Read More](https://www.women.com/1714855/celebs-look-gorgeous-with-their-natural-hair/)
         
 
 More Stories
@@ -93,6 +93,18 @@ More Stories
     The slicked-back bun seems to be everywhere in 2024, seen on the red carpet as well as on the street. Here are five celebrities who have perfected the look.
     
     By Madison Emily Whisenand [Read More](https://www.women.com/1719912/celebs-who-mastered-art-slicked-back-bun/)
+    
+*  [![HER with an afro](https://www.women.com/img/gallery/20-celebs-who-look-gorgeous-with-their-natural-hair/intro-1731701805.jpg)](https://www.women.com/1714855/celebs-look-gorgeous-with-their-natural-hair/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+    
+    ### [20 Celebs Who Look Gorgeous With Their Natural Hair](https://www.women.com/1714855/celebs-look-gorgeous-with-their-natural-hair/)
+    
+    From Michelle Obama to Taylor Swift, these celebrity women are proudly showing the world that the hair you're born with is worth celebrating.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1714855/celebs-look-gorgeous-with-their-natural-hair/)
     
 *  [![Woman using an epilator on her arm](https://www.women.com/img/gallery/mistakes-you-may-be-making-with-your-epilator/intro-1732631218.jpg)](https://www.women.com/1723124/mistakes-making-epilator/)
     
@@ -393,18 +405,6 @@ More Stories
     If you're trying to find the right time to share your bisexuality, know that there is no right time. It's all about when it feels right for you.
     
     By Amanda Chatel [Read More](https://www.women.com/1710102/celebs-who-came-out-bisexual-later-life/)
-    
-*  [![Lindsay Lohan with blonde hair and grey jacket posing](https://www.women.com/img/gallery/lindsay-lohans-hair-transformation-throughout-the-years/intro-1731086336.jpg)](https://www.women.com/1708825/lindsay-lohan-hair-transformation-throughout-years/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
-    
-    ### [Lindsay Lohan's Hair Transformation Throughout The Years](https://www.women.com/1708825/lindsay-lohan-hair-transformation-throughout-years/)
-    
-    Though Lindsay Lohan is famous for her gorgeous red mane, she's changed up her tresses more than you might remember over the decades.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1708825/lindsay-lohan-hair-transformation-throughout-years/)
     
 
 Back
