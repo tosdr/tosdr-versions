@@ -107,11 +107,11 @@ Top downloads
 
 Latest releases
 
+* [Mavis Beacon Teaches Typing: Version 17](https://www.myabandonware.com/game/mavis-beacon-teaches-typing-version-17-td3)
+* [Mavis Beacon Teaches Typing: Version 16](https://www.myabandonware.com/game/mavis-beacon-teaches-typing-version-16-td2)
 * [Grave Spirit](https://www.myabandonware.com/game/grave-spirit-td1)
 * [Urban Uprising: Dark New World](https://www.myabandonware.com/game/urban-uprising-dark-new-world-td0)
 * [Urban Uprising](https://www.myabandonware.com/game/urban-uprising-tcz)
-* [WarMachine Overload](https://www.myabandonware.com/game/warmachine-overload-tcy)
-* [Meeklits](https://www.myabandonware.com/game/meeklits-tcx)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
