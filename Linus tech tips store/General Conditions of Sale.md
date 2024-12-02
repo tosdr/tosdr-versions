@@ -28,7 +28,7 @@ NO MORE EXCUSES - Tidy up your desk and try out Magnetic Cable Management with t
 
 [Skip to content](#MainContent)
 
-[BFCM 9000 is ON! Save on some of our most popular items during Black Friday Week- click here.](https://www.lttstore.com/collections/bfcm-landing)
+[CYBER MONDAY! New flash deals up to 50% off are LIVE- click here.](https://www.lttstore.com/collections/bfcm-landing)
 
 New orders are expected to ship by
 
