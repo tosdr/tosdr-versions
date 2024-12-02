@@ -89,9 +89,9 @@ This page does not work well in portrait mode on mobile. Please rotate your devi
 * Popular Games
 * [Sonic the Hedgehog C...](https://www.spriters-resource.com/custom_edited/sonicthehedgehogcustoms/)
 * [Mario Customs](https://www.spriters-resource.com/custom_edited/mariocustoms/)
-* [Dragon Quest III HD-...](https://www.spriters-resource.com/pc_computer/dragonquestiiihd2dremake/)
-* [Undertale](https://www.spriters-resource.com/pc_computer/undertale/)
 * [SD Gundam G Generati...](https://www.spriters-resource.com/playstation_2/sdgundamggenerationwars/)
+* [Fire Emblem: Heroes](https://www.spriters-resource.com/mobile/fireemblemheroes/)
+* [Dragon Quest III HD-...](https://www.spriters-resource.com/pc_computer/dragonquestiiihd2dremake/)
 
 * Affiliates
 * [Sprite Database](https://spritedatabase.net/)
