@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/0f4003a8-5735-443a-b20e-591ab52fd157/20241128T130908/0f4003a8-5735-443a-b20e-591ab52fd157_16x9.jpg) ![](https://media.king5.com/assets/KING/images/0f4003a8-5735-443a-b20e-591ab52fd157/20241128T130908/0f4003a8-5735-443a-b20e-591ab52fd157_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/low-visibility-dense-fog-advisory-driving-seattle-tacoma-western-washington/281-ea539072-3f25-4d02-b21b-b112ae951182)
+        
+        #### [1/4 mile visibility amid Dense Fog Advisory in western Washington](https://www.king5.com/article/weather/weather-blog/low-visibility-dense-fog-advisory-driving-seattle-tacoma-western-washington/281-ea539072-3f25-4d02-b21b-b112ae951182)
+        
     *  [![](https://media.king5.com/assets/KING/images/aaf16b69-91fe-4779-9426-be35ad7206a0/20241202T061801/aaf16b69-91fe-4779-9426-be35ad7206a0_16x9.jpg) ![](https://media.king5.com/assets/KING/images/aaf16b69-91fe-4779-9426-be35ad7206a0/20241202T061801/aaf16b69-91fe-4779-9426-be35ad7206a0_360x203.jpg)](https://www.king5.com/article/news/local/aids-chicken-soup-brigade-meal-delivery-service/281-e887823c-23b3-4cf3-a9ed-ffa7d304722e)
         
         #### ['Chicken Soup Brigade' says demand has grown for service supporting those with chronic illness](https://www.king5.com/article/news/local/aids-chicken-soup-brigade-meal-delivery-service/281-e887823c-23b3-4cf3-a9ed-ffa7d304722e)
-        
-    *  [![](https://media.king5.com/assets/KING/images/aa835f00-040e-4147-b736-785f4f2b0a70/20241202T061030/aa835f00-040e-4147-b736-785f4f2b0a70_16x9.jpg) ![](https://media.king5.com/assets/KING/images/aa835f00-040e-4147-b736-785f4f2b0a70/20241202T061030/aa835f00-040e-4147-b736-785f4f2b0a70_360x203.jpg)](https://www.king5.com/article/news/education/north-beach-elementary-families/281-3396e546-69f8-4d10-8ef5-493cd6e2aee0)
-        
-        #### [North Beach Elementary families relieved school will not be closed](https://www.king5.com/article/news/education/north-beach-elementary-families/281-3396e546-69f8-4d10-8ef5-493cd6e2aee0)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/cf0277c0-7b9c-4a2b-b328-e21c0e48bd7a/20241202T062725/cf0277c0-7b9c-4a2b-b328-e21c0e48bd7a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cf0277c0-7b9c-4a2b-b328-e21c0e48bd7a/20241202T062725/cf0277c0-7b9c-4a2b-b328-e21c0e48bd7a_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/0f4003a8-5735-443a-b20e-591ab52fd157/20241128T130908/0f4003a8-5735-443a-b20e-591ab52fd157_16x9.jpg) ![](https://media.king5.com/assets/KING/images/0f4003a8-5735-443a-b20e-591ab52fd157/20241128T130908/0f4003a8-5735-443a-b20e-591ab52fd157_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/low-visibility-dense-fog-advisory-driving-seattle-tacoma-western-washington/281-ea539072-3f25-4d02-b21b-b112ae951182)
+        
+        #### [1/4 mile visibility amid Dense Fog Advisory in western Washington](https://www.king5.com/article/weather/weather-blog/low-visibility-dense-fog-advisory-driving-seattle-tacoma-western-washington/281-ea539072-3f25-4d02-b21b-b112ae951182)
+        
+    *  [![](https://media.king5.com/assets/KING/images/5a4205a7-94d0-4876-a794-dff667b057bb/20241202T125906/5a4205a7-94d0-4876-a794-dff667b057bb_16x9.jpg) ![](https://media.king5.com/assets/KING/images/5a4205a7-94d0-4876-a794-dff667b057bb/20241202T125906/5a4205a7-94d0-4876-a794-dff667b057bb_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
-    *  [![](https://media.king5.com/assets/CCT/images/ba7d2016-edeb-449f-901e-b97ec0d6ce44/20241130T192614/ba7d2016-edeb-449f-901e-b97ec0d6ce44_16x9.jpg) ![](https://media.king5.com/assets/CCT/images/ba7d2016-edeb-449f-901e-b97ec0d6ce44/20241130T192614/ba7d2016-edeb-449f-901e-b97ec0d6ce44_360x203.jpg)](https://www.king5.com/article/news/nation-world/heavy-snow-blankets-parts-of-the-us/507-44798a84-f4e7-4d84-bf29-ebe649f73efb)
-        
-        #### [Heavy snow blankets parts of the US during busy holiday travel weekend](https://www.king5.com/article/news/nation-world/heavy-snow-blankets-parts-of-the-us/507-44798a84-f4e7-4d84-bf29-ebe649f73efb)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-37°
+36°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Fog](/assets/shared-images/weather-icons/fog-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
