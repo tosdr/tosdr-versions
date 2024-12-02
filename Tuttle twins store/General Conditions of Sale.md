@@ -1,35 +1,4 @@
-[Skip to content](#MainContent)    
-
-Your cart is empty
-------------------
-
-[Continue shopping](https://tuttletwins.store/collections/all)
-
-Have an account?
-
-[Log in](https://tuttletwins.store/account/login) to check out faster.
-
-Your cart
-
-0 Item(s)
-
-
-----------------------
-
-Loading...
-
-Subtotal
---------
-
-$0.00 USD
-
-Update
-
-[View cart](https://tuttletwins.store/cart)
-
-[Continue shopping](https://tuttletwins.store/collections/all)
-
-Shipping & taxes calculated at checkout
+[Skip to content](#MainContent)
 
 [**Free shipping on orders $70+ (USA Only)**](https://tuttletwins.store/collections/shop-all)
 
@@ -54,8 +23,6 @@ MINS
 SECS](https://tuttletwins.store/collections/black-friday-early-preview)
 
     
-
-     
 
 * Best Deals
     
