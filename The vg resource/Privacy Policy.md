@@ -121,7 +121,7 @@ This page does not work well in portrait mode on mobile. Please rotate your devi
 * [Mario Customs](https://www.spriters-resource.com/custom_edited/mariocustoms/)
 * [Dragon Quest III HD-...](https://www.spriters-resource.com/pc_computer/dragonquestiiihd2dremake/)
 * [Undertale](https://www.spriters-resource.com/pc_computer/undertale/)
-* [Deltarune](https://www.spriters-resource.com/pc_computer/deltarune/)
+* [SD Gundam G Generati...](https://www.spriters-resource.com/playstation_2/sdgundamggenerationwars/)
 
 * Affiliates
 * [Sprite Database](https://spritedatabase.net/)
