@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/arend-zeevat/ga-de-hele-weg-of-begin-er-niet-aan/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/ignatius-het-judaisme-en-de-wereldorde/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
@@ -131,6 +131,14 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 * [Last 8](#first)
 * [9 - 16](#second)
 * [17 - 24](#third)
+
+![inhetmeer](https://secure.gravatar.com/avatar/e59606caac6119e46905799cf0c15cc3?s=50&d=identicon&r=g)
+
+##### **inhetmeer** reacts on:
+
+##### Ontwikkelingen Aachboun vs. Rutte: HET GAAT DÓÓR!!
+
+[De invloed van die Deep State wederom? Kan er niks anders va…](https://www.wanttoknow.nl/nieuws/ontwikkelingen-aachboun-vs-rutte-het-gaat-door/comment-page-1/#comment-626376)
 
 ![Adriaan W](https://secure.gravatar.com/avatar/f607d7c1535fae5fdb42d6065fb8e1f5?s=50&d=identicon&r=g)
 
@@ -379,14 +387,6 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 ##### De ‘gruwelijke’, volgende mRNA-ontwikkelingen!!
 
 [Bill Gates mag voor een Nederlandse rechter verschijnen om z…](https://www.wanttoknow.nl/hoofdartikelen/de-gruwelijke-volgende-mrna-ontwikkelingen/comment-page-1/#comment-626344)
-
-![inhetmeer](https://secure.gravatar.com/avatar/e59606caac6119e46905799cf0c15cc3?s=50&d=identicon&r=g)
-
-##### **inhetmeer** reacts on:
-
-##### Gesponsord medicijn-research: bétere resultaten..???
-
-[Wonderlijk fenomeen, dat mensdom. Ik was nog maar een ventje…](https://www.wanttoknow.nl/gezondheid/big-pharma/gesponsord-medicijn-research-betere-resultaten/comment-page-1/#comment-626343)
 
 [![VaccinVrij banner](https://www.wanttoknow.nl/wp-content/uploads/stichting-vaccin-vrij-banner.jpg)](https://stichtingvaccinvrij.nl/)
 
