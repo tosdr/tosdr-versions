@@ -226,11 +226,11 @@ Categories
     
     * [Kits For Kids](https://www.spicebox.ca/kits-for-kids-1/)
     * [Style Me Up](https://www.spicebox.ca/style-me-up-1/)
-    * [Sketch Plus](https://www.spicebox.ca/sketch-plus/)
     * [Imagine It](https://www.spicebox.ca/imagine-it-1/)
     * [Let’s Make](https://www.spicebox.ca/lets-make-3/)
     * [Petit Picasso](https://www.spicebox.ca/petit-picasso-1/)
     * [Fun With](https://www.spicebox.ca/fun-with-1/)
+    * [Sketch Plus](https://www.spicebox.ca/sketch-plus/)
     * [Make and Play](https://www.spicebox.ca/make-play/)
     * [Gift Set](https://www.spicebox.ca/gift-set/)
     * [Children's Books](https://www.spicebox.ca/childrens-books-1/)
