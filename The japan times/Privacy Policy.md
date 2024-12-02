@@ -484,6 +484,18 @@ Revised June 1, 2022
 
   [![Princess Aiko on Nov. 22 ahead of her 23rd birthday on Sunday at the Imperial Palace](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/01/437345.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Aiko on Nov. 22 ahead of her 23rd birthday on Sunday at the Imperial Palace")](https://www.japantimes.co.jp/news/2024/12/01/japan/princess-aiko-turns-23/ "Princess Aiko, only child of emperor, turns 23")
 
+[Seven strangers and an algorithm: Can this new dinner app help you make friends?](https://www.japantimes.co.jp/community/2024/12/02/issues/timeleft-app-japan-loneliness/ "Seven strangers and an algorithm: Can this new dinner app help you make friends?")
+
+  [![Timeleft uses an algorithm to match its users with five or six strangers in an effort to prompt “human connection” over dinner at a restaurant. It determines the attendees with the help of a simple personality quiz available when you sign up for the service. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/01/437261.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Timeleft uses an algorithm to match its users with five or six strangers in an effort to prompt “human connection” over dinner at a restaurant. It determines the attendees with the help of a simple personality quiz available when you sign up for the service. ")](https://www.japantimes.co.jp/community/2024/12/02/issues/timeleft-app-japan-loneliness/ "Seven strangers and an algorithm: Can this new dinner app help you make friends?")
+
+[Don’t worry, you can still use your Japan health insurance card — for now](https://www.japantimes.co.jp/news/2024/12/01/japan/explainer/my-number-insurance-card-explainer/ "Don’t worry, you can still use your Japan health insurance card — for now")
+
+  [![A My Number card reader at a pediatric clinic in Tokyo. While the government will stop issuing new health insurance cards on Monday, most people will remain unaffected by the move in the short term as existing health insurance cards can still be used for another year.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/01/437264.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A My Number card reader at a pediatric clinic in Tokyo. While the government will stop issuing new health insurance cards on Monday, most people will remain unaffected by the move in the short term as existing health insurance cards can still be used for another year.")](https://www.japantimes.co.jp/news/2024/12/01/japan/explainer/my-number-insurance-card-explainer/ "Don’t worry, you can still use your Japan health insurance card — for now")
+
+[Ukraine war reinvigorating Finland’s fighting spirit](https://www.japantimes.co.jp/news/2024/12/02/world/politics/finland-defense-ukraine-russia/ "Ukraine war reinvigorating Finland’s fighting spirit")
+
+  [![A Finnish soldier operates a towed 155 mm field gun during the Northern Forest land force exercise in Rovajarvi, Finland, in May 2023.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/02/437509.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A Finnish soldier operates a towed 155 mm field gun during the Northern Forest land force exercise in Rovajarvi, Finland, in May 2023.")](https://www.japantimes.co.jp/news/2024/12/02/world/politics/finland-defense-ukraine-russia/ "Ukraine war reinvigorating Finland’s fighting spirit")
+
 [The Geisha bean is the leading lady of Tokyo's coffee scene](https://www.japantimes.co.jp/life/2024/11/30/food-drink/coffee-geisha-tokyo-cafe/ "The Geisha bean is the leading lady of Tokyo's coffee scene")
 
   [![Discovered in the 1930s, the Geisha coffee plant came to worldwide fame in the early 2000s and now represents some of the best coffee on the planet — Tokyo's top cafes included.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/29/436551.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Discovered in the 1930s, the Geisha coffee plant came to worldwide fame in the early 2000s and now represents some of the best coffee on the planet — Tokyo's top cafes included.")](https://www.japantimes.co.jp/life/2024/11/30/food-drink/coffee-geisha-tokyo-cafe/ "The Geisha bean is the leading lady of Tokyo's coffee scene")
@@ -491,18 +503,6 @@ Revised June 1, 2022
 [Ishiba sticks to the basics in second policy speech](https://www.japantimes.co.jp/news/2024/11/29/japan/politics/ishiba-policy-speech/ "Ishiba sticks to the basics in second policy speech")
 
   [![Prime Minister Shigeru Ishiba delivers his policy speech at the Lower House of parliament in Tokyo on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/29/437234.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba delivers his policy speech at the Lower House of parliament in Tokyo on Friday.")](https://www.japantimes.co.jp/news/2024/11/29/japan/politics/ishiba-policy-speech/ "Ishiba sticks to the basics in second policy speech")
-
-[Hiroshi Kurosaki looks beyond Japan for heart-wrenching drama](https://www.japantimes.co.jp/culture/2024/11/29/tv-streaming/beyond-goodbye-hiroshi-kurosaki/ "Hiroshi Kurosaki looks beyond Japan for heart-wrenching drama")
-
-  [![Hiroshi Kurosaki’s Netflix series “Beyond Goodbye” centers on a woman (Kasumi Arimura, left) who discovers her dead lover’s heart saved the life of a quiet pianist (Kentaro Sakaguchi).](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/28/436945.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Hiroshi Kurosaki’s Netflix series “Beyond Goodbye” centers on a woman (Kasumi Arimura, left) who discovers her dead lover’s heart saved the life of a quiet pianist (Kentaro Sakaguchi).")](https://www.japantimes.co.jp/culture/2024/11/29/tv-streaming/beyond-goodbye-hiroshi-kurosaki/ "Hiroshi Kurosaki looks beyond Japan for heart-wrenching drama")
-
-[Japan researchers develop a simple way to spot signs of Alzheimer's disease](https://www.japantimes.co.jp/news/2024/11/28/japan/science-health/keio-university-alzheimers/ "Japan researchers develop a simple way to spot signs of Alzheimer's disease")
-
-  [![In 2022, the number of elderly people with dementia in Japan reached 4.43 million, according to data from the health ministry. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/28/436797.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "In 2022, the number of elderly people with dementia in Japan reached 4.43 million, according to data from the health ministry. ")](https://www.japantimes.co.jp/news/2024/11/28/japan/science-health/keio-university-alzheimers/ "Japan researchers develop a simple way to spot signs of Alzheimer's disease")
-
-[Bluesky is booming in Japan — mainly for reasons other than U.S. politics](https://www.japantimes.co.jp/business/2024/11/25/companies/bluesky-social-japan/ "Bluesky is booming in Japan — mainly for reasons other than U.S. politics")
-
-  [![According to Similarweb, average monthly user numbers for Bluesky on Android in Japan quintupled in the 12 months to October.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/25/436245.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "According to Similarweb, average monthly user numbers for Bluesky on Android in Japan quintupled in the 12 months to October.")](https://www.japantimes.co.jp/business/2024/11/25/companies/bluesky-social-japan/ "Bluesky is booming in Japan — mainly for reasons other than U.S. politics")
 
 Podcast
 -------
@@ -523,9 +523,9 @@ By [Tomoko Otake](https://www.japantimes.co.jp/author/3264/tomoko-otake/ "Tomoko
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -565,23 +565,23 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Night schools offer alternative route to completing compulsory education](https://www.japantimes.co.jp/news/2024/12/02/japan/society/education-night-schools/ "Night schools offer alternative route to completing compulsory education")
+[Japan to offer ¥5 billion in military aid to four countries](https://www.japantimes.co.jp/news/2024/12/02/japan/japan-osa-philippines-indonesia-mongolia-djibouti/ "Japan to offer ¥5 billion in military aid to four countries")
 
-14 mins ago
+47 mins ago
 
-['We have a lost generation': Lebanon's education crisis](https://www.japantimes.co.jp/news/2024/12/02/world/society/generation-lebanon-education-crisis/ "'We have a lost generation': Lebanon's education crisis")
+[Japan’s 2024 buzzword of the year urges a reevaluation of past norms](https://www.japantimes.co.jp/news/2024/12/02/japan/society/2024-buzzword-of-the-year-announced/ "Japan’s 2024 buzzword of the year urges a reevaluation of past norms")
 
-21 mins ago
+58 mins ago
 
-[Ukraine war reinvigorating Finland’s fighting spirit](https://www.japantimes.co.jp/news/2024/12/02/world/politics/finland-defense-ukraine-russia/ "Ukraine war reinvigorating Finland’s fighting spirit")
+[8.4% of Japanese companies led by women in 2024](https://www.japantimes.co.jp/business/2024/12/02/economy/japan-women-presidents/ "8.4% of Japanese companies led by women in 2024")
 
-50 mins ago
+1 hour ago
 
-[PlayStation at 30: How Sony's gray box conquered gaming](https://www.japantimes.co.jp/business/2024/12/02/tech/sony-playstation-30-years/ "PlayStation at 30: How Sony's gray box conquered gaming")
+[Ishiba questioned on political reform, social issues and the economy](https://www.japantimes.co.jp/news/2024/12/02/japan/politics/ishiba-parliamentary-questioning/ "Ishiba questioned on political reform, social issues and the economy")
 
-53 mins ago
+1 hour ago
 
-[Restaurant committed to animal welfare opens in Sendai](https://www.japantimes.co.jp/news/2024/12/02/japan/society/animal-welfare-restaurant/ "Restaurant committed to animal welfare opens in Sendai")
+[_Osechi ryōri_ prices climb for a third consecutive year](https://www.japantimes.co.jp/news/2024/12/02/japan/society/japan-new-year-dish-prices-rise/ "Osechi ryōri prices climb for a third consecutive year")
 
 1 hour ago
 
