@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I just wanted to say thanks for foxyproxy...After a quick install of foxyproxy, tweaks, and the following of simple directions this thing works like a charm and is AMAZING. The speed, the simplicity, everything. Thanks so much.
+No problem with service (very good), back in UK, will not hesitate to use again and recommend.
 
-Josh Jacobs
+Kevin Osborne
