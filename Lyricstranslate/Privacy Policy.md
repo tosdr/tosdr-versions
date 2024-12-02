@@ -107,67 +107,67 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Joseph Unicornvault](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1600574-1731910325.jpg)](https://lyricstranslate.com/en/translator/joseph3101 "Joseph Unicornvault")
+[![Ivan Luden](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1408270-1553443086.jpg)](https://lyricstranslate.com/en/translator/ivan-luden "Ivan Luden")
 
-Transcription request fulfilled
+New request
 
-[La vuelta al mundo de Willy Fog - (Japanese Intro)](https://lyricstranslate.com/en/la-vuelta-al-mundo-de-wil-la-vuelta-al-mundo-de-wil-lyrics)
+[Almaz Kuba - Хай живе Україна!](https://lyricstranslate.com/en/request/%D1%85%D0%B0%D0%B9-%D0%B6%D0%B8%D0%B2%D0%B5-%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0)
 
-Japanese
+Ukrainian → English
 
-[![Joseph Unicornvault](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1600574-1731910325.jpg)](https://lyricstranslate.com/en/translator/joseph3101 "Joseph Unicornvault")
+[![Алексей Чиванков](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1531373-1676917530.jpg)](https://lyricstranslate.com/en/translator/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2 "Алексей Чиванков")
+
+New translation
+
+[Jorge Luis Borges - Mi vida entera](https://lyricstranslate.com/en/jorge-luis-borges-mi-vida-entera-russian)
+
+Spanish → Russian
+
+[![Алексей Чиванков](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1531373-1676917530.jpg)](https://lyricstranslate.com/en/translator/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2 "Алексей Чиванков")
 
 New song
 
-[La vuelta al mundo de Willy Fog (OST) - La vuelta al mundo de Willy Fog - (Japanese Intro)](https://lyricstranslate.com/en/la-vuelta-al-mundo-de-wil-la-vuelta-al-mundo-de-wil-lyrics)
-
-Japanese
-
-[![Turbonorm](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1620552-1725868199.jpg)](https://lyricstranslate.com/en/translator/turbonorm "Turbonorm")
-
-New song
-
-[Yailin la Mas Viral - Bing Bong](https://lyricstranslate.com/en/yailin-la-mas-viral-bing-bong-lyrics)
+[Jorge Luis Borges - Mi vida entera](https://lyricstranslate.com/en/jorge-luis-borges-mi-vida-entera-lyrics)
 
 Spanish
 
-[![maluca](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1206376-1574120991.gif)](https://lyricstranslate.com/en/translator/maluca "maluca")
+[![DBMD99](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1619930-1733029398.png)](https://lyricstranslate.com/en/translator/dbmd99 "DBMD99")
 
 New song
 
-[Steven Grossman - A Winter Story](https://lyricstranslate.com/en/steven-grossman-winter-story-lyrics)
+[Aimi - 夢](https://lyricstranslate.com/en/aimi-yume-lyrics)
+
+Japanese
+
+[![ulissescoroa](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1237591-1556486523.jpg)](https://lyricstranslate.com/en/translator/ulissescoroa "ulissescoroa")
+
+New song
+
+[Leuz Diwane G - Murook Lem](https://lyricstranslate.com/en/leuz-diwane-g-murook-lem-lyrics)
+
+Wolof
+
+[![Ivan Luden](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1408270-1553443086.jpg)](https://lyricstranslate.com/en/translator/ivan-luden "Ivan Luden")
+
+New song
+
+[Almaz Kuba - Хай живе Україна!](https://lyricstranslate.com/en/almaz-kuba-hay-zhive-ukrayina-lyrics)
+
+Ukrainian
+
+[![julietarab](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1050123-1706250255.jpg)](https://lyricstranslate.com/en/translator/julietarab "julietarab")
+
+New song
+
+[The Dubliners - Fiddler’s Green](https://lyricstranslate.com/en/dubliners-fiddlers-green-lyrics)
 
 English
 
-[![Skirlet Hutsen](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1363638-1602964434.jpg)](https://lyricstranslate.com/en/translator/skirlet-hutsen "Skirlet Hutsen")
+[![Anhurmes](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/anhurmes "Anhurmes")
 
 New comment
 
-А так ли просто не думать?.. :-)  [more](https://lyricstranslate.com/en/comment/1178969#comment-1178969)
-
-[![Thomas222](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1310118-1706205100.jpg)](https://lyricstranslate.com/en/translator/thomas222 "Thomas222")
-
-New translation
-
-[Eifo HaYeled - חדרים שבלב (Chadarim she baLev)](https://lyricstranslate.com/en/eifo-hayeled-chadarim-she-balev-english)
-
-Hebrew → English
-
-[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
-
-New translation
-
-[Dea Garbaccio - Sola in una notte di tormento](https://lyricstranslate.com/en/dea-garbaccio-sola-una-notte-di-torm-english)
-
-Italian → English
-
-[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
-
-New song
-
-[Dea Garbaccio - Sola in una notte di tormento](https://lyricstranslate.com/en/dea-garbaccio-sola-una-notte-di-torm-lyrics)
-
-Italian
+https://lyricstranslate.com/en/add/request  [more](https://lyricstranslate.com/en/comment/1179277#comment-1179277)
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
