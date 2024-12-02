@@ -2,18 +2,7 @@ top of page
 
 ![](https://static.wixstatic.com/media/ac61b9_b65c59860d44454080ffe7c5c9201acf~mv2.png/v1/fill/w_49,h_1,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/spider%20pattren.png)
 
-[V A LE V P N](https://www.valevpn.com/)
-
-* [DOWNLOAD](https://www.valevpn.com/downloads)
-* [PRICING](https://www.valevpn.com/plans)
-* [ABOUT US](https://www.valevpn.com/about)
-* [LOGIN](https://account.valevpn.com/my-account)
-* More
-    
-
-Use tab to navigate through the menu items.
-
-[![](https://static.wixstatic.com/media/ac61b9_c5f60be3a9b64b8ab5f88b0f191d3eba~mv2.gif/v1/fill/w_200,h_100,al_c,blur_3,pstr/ezgif_com-gif-maker%20(2)_gif.gif)](https://www.valevpn.com/)
+[V A LE V P N](https://www.valevpn.com/valevpn-fast-easy-secure-instant-vpn)
 
 Last Updated: May 2022
 
@@ -203,13 +192,6 @@ HELP
 
 [Login](http://account.valevpn.com/help/)
 
-Download Our Mobile Apps
-------------------------
-
-[![](https://static.wixstatic.com/media/ac61b9_2761cd8d9e1d45e1a2aaffc220993658~mv2.png/v1/fill/w_91,h_28,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/image%202.png)](https://apps.apple.com/us/app/valevpn-dedicated-vpn-security/id1507398362?_ga=2.195270700.1213431649.1680423833-1463902094.1680222772)
-
-[![](https://static.wixstatic.com/media/ac61b9_12c6ff7c241a40f5945277097eb447af~mv2.png/v1/fill/w_91,h_28,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/image%201.png)](https://play.google.com/store/apps/details?id=com.valevpn.valevpn4&_ga=2.195270700.1213431649.1680423833-1463902094.1680222772)
-
 [](https://www.facebook.com/valevpnapp/?_ga=2.56873258.1213431649.1680423833-1463902094.1680222772)
 
 [](https://twitter.com/valevpn?_ga=2.256954379.1213431649.1680423833-1463902094.1680222772)
@@ -222,7 +204,7 @@ Download Our Mobile Apps
 
 [](https://discord.gg/CGv2XptR)
 
-Copyright © 2023 Vale Inc.
+Copyright © 2024 Vale Inc.
 
 * [DOWNLOAD](https://www.valevpn.com/downloads)
     
