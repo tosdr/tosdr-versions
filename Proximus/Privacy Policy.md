@@ -204,7 +204,7 @@ Conditions générales
 
 [Conditions Générales pour les Clients Professionnels](#)
 
-* Contrats conclus à partir du 01/01/2023: [Conditions Générales pour les Clients Professionnels(PDF, 255Kb)](https://www.proximus.be/dam/jcr:505e0737-1088-466d-9f15-6e90ee4c591b/cdn/sites/iportal/documents/pdfs/common/PDFS-of-Terms-and-conditions/GTC_ONE_20230101_FR~2023-01-02-06-38-21~cache.pdf)
+* Contrats conclus à partir du 01/01/2023: [Conditions Générales pour les Clients Professionnels(PDF, 255Kb)](https://www.proximus.be/dam/jcr:505e0737-1088-466d-9f15-6e90ee4c591b/cdn/sites/iportal/documents/pdfs/common/PDFS-of-Terms-and-conditions/GTC_ONE_20230101_FR~2024-11-26-12-43-08~cache.pdf)
 * Versions précédentes applicable aux:
     
     * Contrats conclus à partir du 10/01/2022 au 31/12/2022: [Conditions Générales pour les Clients Professionnels(PDF, 264Kb)](https://www.proximus.be/dam/jcr:58b7f02d-b525-47bc-a0a8-8442be596d58/cdn/sites/iportal/documents/pdfs/common/GTC_ONE_10012022_FR~2022-03-15-10-43-40~cache.pdf)
