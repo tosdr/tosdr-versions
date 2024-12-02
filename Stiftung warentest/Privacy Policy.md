@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Prepaid-Jahres­pakete: Einmal zahlen, ein Jahr nutzen](https://www.test.de/Prepaid-Jahrespakete-Einmal-zahlen-ein-Jahr-nutzen-6157558-0/ "Prepaid-Jahrespakete - Einmal zahlen, ein Jahr nutzen")
-* [Pizza­öfen im Test: Zu Hause italienisch genießen](https://www.test.de/Pizzaoefen-im-Test-Zu-Hause-italienisch-geniessen-6024589-0/ "Pizzaöfen im Test - Zu Hause italienisch genießen")
-* [Private Zusatz­rente: So funk­tioniert der Pleite-Schutz für Ihre Alters­vorsorge](https://www.test.de/Zusatzrenten-Wie-sicher-sind-Ihre-privaten-Renten-6017304-0/ "Private Zusatzrente - So funktioniert der Pleite-Schutz für Ihre Altersvorsorge")
+* [Mikrobiom-Selbst­tests: Teure Analysen ohne Aussagekraft](https://www.test.de/Mikrobiom-Selbstests-Teure-Analysen-ohne-Aussagekraft-6115898-0/ "Mikrobiom-Selbsttests - Teure Analysen ohne Aussagekraft")
+* [Gesetzliche Krankenkassen: Beitrag immer höher – teuerste Kasse jetzt bei 18,5 Prozent](https://www.test.de/Gesetzliche-Krankenkassen-2024-Beitrag-Beitragssatz-steigt-5898858-0/ "Gesetzliche Krankenkassen - Beitrag immer höher – teuerste Kasse jetzt bei 18,5 Prozent")
+* [Gut essen mit der Stiftung Warentest: Curry-Hirse mit Fenchel](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Curry-Hirse-mit-Fenchel-5954052-0/ "Gut essen mit der Stiftung Warentest - Curry-Hirse mit Fenchel")
+* [](https://www.test.de/faq-abo-6108407-0/)
+* [Immobilien­kredite: Diese Bedingungen bieten die Baufinanzierer](https://www.test.de/Immobilienkredite-Diese-Bedingungen-bieten-die-Baufinanzierer-6096433-0/ "Immobilienkredite - Diese Bedingungen bieten die Baufinanzierer")
 * [Dubiose Zinsportale: maxisparen.de maximal miss­trauen](https://www.test.de/Dubiose-Zinsportale-maxisparende-maximal-misstrauen-6111879-0/ "Dubiose Zinsportale - maxisparen.de maximal misstrauen")
-* [Fonds und ETF: Wie Sie die passende Anteils­klasse Ihres Fonds finden](https://www.test.de/Fonds-und-ETF-Die-passende-Anteilsklasse-Ihres-Fonds-6124427-0/ "Fonds und ETF - Wie Sie die passende Anteilsklasse Ihres Fonds finden")
-* [Fest­geld: Augen auf beim Zinseszins](https://www.test.de/Festgeld-Augen-auf-beim-Zinseszins-6045287-0/ "Festgeld - Augen auf beim Zinseszins")
 
 Weitere Informationen
 
@@ -3871,12 +3871,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Prepaid-Jahres­pakete: Einmal zahlen, ein Jahr nutzen](https://www.test.de/Prepaid-Jahrespakete-Einmal-zahlen-ein-Jahr-nutzen-6157558-0/ "Prepaid-Jahrespakete - Einmal zahlen, ein Jahr nutzen")
-* [Pizza­öfen im Test: Zu Hause italienisch genießen](https://www.test.de/Pizzaoefen-im-Test-Zu-Hause-italienisch-geniessen-6024589-0/ "Pizzaöfen im Test - Zu Hause italienisch genießen")
-* [Private Zusatz­rente: So funk­tioniert der Pleite-Schutz für Ihre Alters­vorsorge](https://www.test.de/Zusatzrenten-Wie-sicher-sind-Ihre-privaten-Renten-6017304-0/ "Private Zusatzrente - So funktioniert der Pleite-Schutz für Ihre Altersvorsorge")
+* [Mikrobiom-Selbst­tests: Teure Analysen ohne Aussagekraft](https://www.test.de/Mikrobiom-Selbstests-Teure-Analysen-ohne-Aussagekraft-6115898-0/ "Mikrobiom-Selbsttests - Teure Analysen ohne Aussagekraft")
+* [Gesetzliche Krankenkassen: Beitrag immer höher – teuerste Kasse jetzt bei 18,5 Prozent](https://www.test.de/Gesetzliche-Krankenkassen-2024-Beitrag-Beitragssatz-steigt-5898858-0/ "Gesetzliche Krankenkassen - Beitrag immer höher – teuerste Kasse jetzt bei 18,5 Prozent")
+* [Gut essen mit der Stiftung Warentest: Curry-Hirse mit Fenchel](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Curry-Hirse-mit-Fenchel-5954052-0/ "Gut essen mit der Stiftung Warentest - Curry-Hirse mit Fenchel")
+* [](https://www.test.de/faq-abo-6108407-0/)
+* [Immobilien­kredite: Diese Bedingungen bieten die Baufinanzierer](https://www.test.de/Immobilienkredite-Diese-Bedingungen-bieten-die-Baufinanzierer-6096433-0/ "Immobilienkredite - Diese Bedingungen bieten die Baufinanzierer")
 * [Dubiose Zinsportale: maxisparen.de maximal miss­trauen](https://www.test.de/Dubiose-Zinsportale-maxisparende-maximal-misstrauen-6111879-0/ "Dubiose Zinsportale - maxisparen.de maximal misstrauen")
-* [Fonds und ETF: Wie Sie die passende Anteils­klasse Ihres Fonds finden](https://www.test.de/Fonds-und-ETF-Die-passende-Anteilsklasse-Ihres-Fonds-6124427-0/ "Fonds und ETF - Wie Sie die passende Anteilsklasse Ihres Fonds finden")
-* [Fest­geld: Augen auf beim Zinseszins](https://www.test.de/Festgeld-Augen-auf-beim-Zinseszins-6045287-0/ "Festgeld - Augen auf beim Zinseszins")
 
 Weitere spannende Themen
 
@@ -3891,12 +3891,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Prepaid-Jahres­pakete: Einmal zahlen, ein Jahr nutzen](https://www.test.de/Prepaid-Jahrespakete-Einmal-zahlen-ein-Jahr-nutzen-6157558-0/ "Prepaid-Jahrespakete - Einmal zahlen, ein Jahr nutzen")
-* [Pizza­öfen im Test: Zu Hause italienisch genießen](https://www.test.de/Pizzaoefen-im-Test-Zu-Hause-italienisch-geniessen-6024589-0/ "Pizzaöfen im Test - Zu Hause italienisch genießen")
-* [Private Zusatz­rente: So funk­tioniert der Pleite-Schutz für Ihre Alters­vorsorge](https://www.test.de/Zusatzrenten-Wie-sicher-sind-Ihre-privaten-Renten-6017304-0/ "Private Zusatzrente - So funktioniert der Pleite-Schutz für Ihre Altersvorsorge")
+* [Mikrobiom-Selbst­tests: Teure Analysen ohne Aussagekraft](https://www.test.de/Mikrobiom-Selbstests-Teure-Analysen-ohne-Aussagekraft-6115898-0/ "Mikrobiom-Selbsttests - Teure Analysen ohne Aussagekraft")
+* [Gesetzliche Krankenkassen: Beitrag immer höher – teuerste Kasse jetzt bei 18,5 Prozent](https://www.test.de/Gesetzliche-Krankenkassen-2024-Beitrag-Beitragssatz-steigt-5898858-0/ "Gesetzliche Krankenkassen - Beitrag immer höher – teuerste Kasse jetzt bei 18,5 Prozent")
+* [Gut essen mit der Stiftung Warentest: Curry-Hirse mit Fenchel](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Curry-Hirse-mit-Fenchel-5954052-0/ "Gut essen mit der Stiftung Warentest - Curry-Hirse mit Fenchel")
+* [](https://www.test.de/faq-abo-6108407-0/)
+* [Immobilien­kredite: Diese Bedingungen bieten die Baufinanzierer](https://www.test.de/Immobilienkredite-Diese-Bedingungen-bieten-die-Baufinanzierer-6096433-0/ "Immobilienkredite - Diese Bedingungen bieten die Baufinanzierer")
 * [Dubiose Zinsportale: maxisparen.de maximal miss­trauen](https://www.test.de/Dubiose-Zinsportale-maxisparende-maximal-misstrauen-6111879-0/ "Dubiose Zinsportale - maxisparen.de maximal misstrauen")
-* [Fonds und ETF: Wie Sie die passende Anteils­klasse Ihres Fonds finden](https://www.test.de/Fonds-und-ETF-Die-passende-Anteilsklasse-Ihres-Fonds-6124427-0/ "Fonds und ETF - Wie Sie die passende Anteilsklasse Ihres Fonds finden")
-* [Fest­geld: Augen auf beim Zinseszins](https://www.test.de/Festgeld-Augen-auf-beim-Zinseszins-6045287-0/ "Festgeld - Augen auf beim Zinseszins")
 
 Neueste Tests
 
@@ -3909,12 +3909,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Prepaid-Jahres­pakete: Einmal zahlen, ein Jahr nutzen](https://www.test.de/Prepaid-Jahrespakete-Einmal-zahlen-ein-Jahr-nutzen-6157558-0/ "Prepaid-Jahrespakete - Einmal zahlen, ein Jahr nutzen")
-* [Pizza­öfen im Test: Zu Hause italienisch genießen](https://www.test.de/Pizzaoefen-im-Test-Zu-Hause-italienisch-geniessen-6024589-0/ "Pizzaöfen im Test - Zu Hause italienisch genießen")
-* [Private Zusatz­rente: So funk­tioniert der Pleite-Schutz für Ihre Alters­vorsorge](https://www.test.de/Zusatzrenten-Wie-sicher-sind-Ihre-privaten-Renten-6017304-0/ "Private Zusatzrente - So funktioniert der Pleite-Schutz für Ihre Altersvorsorge")
+* [Mikrobiom-Selbst­tests: Teure Analysen ohne Aussagekraft](https://www.test.de/Mikrobiom-Selbstests-Teure-Analysen-ohne-Aussagekraft-6115898-0/ "Mikrobiom-Selbsttests - Teure Analysen ohne Aussagekraft")
+* [Gesetzliche Krankenkassen: Beitrag immer höher – teuerste Kasse jetzt bei 18,5 Prozent](https://www.test.de/Gesetzliche-Krankenkassen-2024-Beitrag-Beitragssatz-steigt-5898858-0/ "Gesetzliche Krankenkassen - Beitrag immer höher – teuerste Kasse jetzt bei 18,5 Prozent")
+* [Gut essen mit der Stiftung Warentest: Curry-Hirse mit Fenchel](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Curry-Hirse-mit-Fenchel-5954052-0/ "Gut essen mit der Stiftung Warentest - Curry-Hirse mit Fenchel")
+* [](https://www.test.de/faq-abo-6108407-0/)
+* [Immobilien­kredite: Diese Bedingungen bieten die Baufinanzierer](https://www.test.de/Immobilienkredite-Diese-Bedingungen-bieten-die-Baufinanzierer-6096433-0/ "Immobilienkredite - Diese Bedingungen bieten die Baufinanzierer")
 * [Dubiose Zinsportale: maxisparen.de maximal miss­trauen](https://www.test.de/Dubiose-Zinsportale-maxisparende-maximal-misstrauen-6111879-0/ "Dubiose Zinsportale - maxisparen.de maximal misstrauen")
-* [Fonds und ETF: Wie Sie die passende Anteils­klasse Ihres Fonds finden](https://www.test.de/Fonds-und-ETF-Die-passende-Anteilsklasse-Ihres-Fonds-6124427-0/ "Fonds und ETF - Wie Sie die passende Anteilsklasse Ihres Fonds finden")
-* [Fest­geld: Augen auf beim Zinseszins](https://www.test.de/Festgeld-Augen-auf-beim-Zinseszins-6045287-0/ "Festgeld - Augen auf beim Zinseszins")
 
 Stiftung Warentest
 
