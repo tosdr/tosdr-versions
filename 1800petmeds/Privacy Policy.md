@@ -600,6 +600,9 @@ Please provide a valid email Id
 
 [![](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw6557c4c8/28yearsanniversarylogo.png)](https://www.1800petmeds.com/company.html)
 
+[![](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw0941a0ec/banners/Applebadge.png)](https://apps.apple.com/us/app/petmeds/id1195712445?utm_medium=website&utm_source=petmeds&utm_campaign=footer)  
+[![](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dwd10dc11c/banners/Googlebadge.png)](https://play.google.com/store/apps/details?id=com.petmeds1800&utm_medium=website&utm_source=petmeds&utm_campaign=footer)
+
 ![](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw1668a2dd/brand-logos/PetMeds-logo.svg) [![](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw5f7eb1a2/brand-logos/PCRX-logo.svg)](http://www.petcarerx.com/)
 
 ![](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dwd2a64a38/brand-logos/PetMeds-logo-mobile.png) [![](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dwf9726fc2/brand-logos/PCRX-logo-mobile.png)](http://www.petcarerx.com/)
