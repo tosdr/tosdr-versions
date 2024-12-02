@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![30 Facts About Jack Harrison ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/lifestyle/sports/30-facts-about-jack-harrison/)
+[![23 Facts About Hydrogen Bonding ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2298%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/science/chemistry/23-facts-about-hydrogen-bonding/)
 
-Sports
+Chemistry
 
-01 Dec 2024
+02 Dec 2024
 
-[30 Facts About Jack Harrison](https://facts.net/lifestyle/sports/30-facts-about-jack-harrison/)
+[23 Facts About Hydrogen Bonding](https://facts.net/science/chemistry/23-facts-about-hydrogen-bonding/)
 
-[![50 Facts About Gold Coast ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22113%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/general/50-facts-about-gold-coast/)
+[![20 Facts About Dataiku ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2263%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/tech-and-sciences/20-facts-about-dataiku/)
 
-General
+Tech & Sciences
 
-01 Dec 2024
+02 Dec 2024
 
-[50 Facts About Gold Coast](https://facts.net/general/50-facts-about-gold-coast/)
+[20 Facts About Dataiku](https://facts.net/tech-and-sciences/20-facts-about-dataiku/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
