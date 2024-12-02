@@ -62,7 +62,7 @@ Vous avez désactivé JavaScript dans votre navigateur. Veuillez activer JavaScr
 Recherche de succursale
 -----------------------
 
-![Direction de la succursale](/medien/id/marketing/filialleiter/8577.jpg)
+![Direction de la succursale](/medien/id/marketing/filialleiter/6143.jpg)
 
 Nous vous conseillons volontiers.
 
@@ -84,7 +84,7 @@ Découvrez toutes les offres ici – jusqu'au 08.12.2024 seulement!](https://www
 
 TV SpecialDécouvrez toutes les offres TV de la Cyber Week ici!](https://www.microspot.ch/fr/cms/actions-tv)
 
-[![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0604-CM2-Promos-KW36.jpg%3Fcontext%3DbWFzdGVyfGNtc3w4MDEzMHxpbWFnZS9qcGVnfGFEazRMMmd4Tmk4NE5qQjRORGcwWDBreU5GOHdOakEwWDBOTk1sOVFjbTl0YjNOZlMxY3pObk11YW5CblUzUmhaMlZrYjNCMGFXMXBlbVZrTHpnMk1IZzBPRFJmU1RJMFh6QTJNRFJmUTAweVgxQnliMjF2YzE5TFZ6TTJjeTVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F8Y2JhNjI3MTI0MTM3ODE5ZDVmMzRlYjBlZGQxYWE1ZTU0ZmRlYmE1MDg5YTRlOGIwNjY5MGViZGJjNDUwNTZhMw&w=2360&q=75)
+[![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-SpP-CyberWeek-19-CM2-Logitech.jpg%3Fcontext%3DbWFzdGVyfGNtc3wyMzU3MDh8aW1hZ2UvanBlZ3xhR0V6TDJoa1pTODROakI0TkRnMFgwa3lORjlUY0ZCZlEzbGlaWEpYWldWclh6RTVYME5OTWw5TWIyZHBkR1ZqYUM1cWNHZFRkR0ZuWldSdmNIUnBiV2w2WldRdk9EWXdlRFE0TkY5Sk1qUmZVM0JRWDBONVltVnlWMlZsYTE4eE9WOURUVEpmVEc5bmFYUmxZMmd1YW5CblUzUmhaMlZrYjNCMGFXMXBlbVZrfDJkN2Q5MTZhZDEwMzEyYmVhMzNkYmU1MDIyMDUyODMzYzZmYTAxMWMwYmJiZWIzOWM3NDNiNzJmYzgwZTlkMmE&w=2360&q=75)
 
 20%de rabais sur LOGITECH et ASTRO GAMING](https://www.microspot.ch/fr/brand/logitech)
 
@@ -117,7 +117,9 @@ Se lever. Bouger. Faire de l’exercice.](https://www.microspot.ch/fr/cms/fitnes
 
 [![MicrosoftTeams-image.png](/medias/MicrosoftTeams-image.png?context=bWFzdGVyfGNtc3wyMjc2fGltYWdlL3BuZ3xhREEwTDJnd1l5OURUVEpmVkdWemRHbHVaMTlEYjI1MGNtOXNiR1Z5VTNSaFoyVmtiM0IwYVcxcGVtVmtMME5OTWw5VVpYTjBhVzVuWDBOdmJuUnliMnhzWlhKVGRHRm5aV1J2Y0hScGJXbDZaV1F8NzNjY2VhMDE2ZTBlOGMxNmM0ZjBhNmViNjNjZjg3MGIyNTdhZmVmMzRiY2Q0Y2QxZDU5MzI1YjJiYmVkMGRhYg)
 
-Gaming](https://www.microspot.ch/fr/cms/gaming)
+Gaming
+
+Le meilleur du monde du jeu](https://www.microspot.ch/fr/cms/gaming)
 
 [![80x80_I24_Icons_018_Season_Restposten4.png](/medias/80x80-I24-Icons-018-Season-Restposten4.png?context=bWFzdGVyfGNtc3w0NzF8aW1hZ2UvcG5nfGFHWTFMMmc1Tmk4NE1IZzRNRjlKTWpSZlNXTnZibk5mTURFNFgxTmxZWE52Ymw5U1pYTjBjRzl6ZEdWdU5DNXdibWRUZEdGblpXUnZjSFJwYldsNlpXUXZPREI0T0RCZlNUSTBYMGxqYjI1elh6QXhPRjlUWldGemIyNWZVbVZ6ZEhCdmMzUmxialF1Y0c1blUzUmhaMlZrYjNCMGFXMXBlbVZrfDgwZGU3OTMwNDM1NzA0NzBkMDQ1ZjM3ZDE5NzNiM2ZjMDQ1YjBlOTM5ZDgxNGU1MTgwNmUyNWIzOTYyMTNmY2Y)
 
@@ -217,13 +219,13 @@ Inscrivez-vous à notre newsletter et soyez parmi les premiers à être informé
 Achetez comme vous aimez
 ------------------------
 
-[Commandé aujourd'hui avant 20h
-
-livré le lendemain](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
-
 [Frais de port gratuits pour livraison
 
 à domicile dès CHF 49.-](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
+
+[Commandé aujourd'hui avant 20h
+
+livré le lendemain](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
 [Retrait gratuit
 
