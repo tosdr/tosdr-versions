@@ -299,6 +299,14 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![«Единая Россия» открыла в Калининграде шахматный клуб Сергея Карякина](https://cdn.er.ru/media/news/December2024/Gz6TpeI2E6wLvfQqE4Zj-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-otkryla-v-kaliningrade-shahmatnyj-klub-sergeya-karyakina)
+
+[«Единая Россия» открыла в Калининграде шахматный клуб Сергея Карякина](https://er.ru/activity/news/edinaya-rossiya-otkryla-v-kaliningrade-shahmatnyj-klub-sergeya-karyakina)
+
+[#Калининградская область](https://er.ru/activity/news?tags%5B0%5D=780) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#шахматныйклуб](https://er.ru/activity/news?tags%5B0%5D=1095821) [#Карякин](https://er.ru/activity/news?tags%5B0%5D=18764) [#шахматы](https://er.ru/activity/news?tags%5B0%5D=3005) [#штабобщественнойподдержки](https://er.ru/activity/news?tags%5B0%5D=1092101) [#Говырин](https://er.ru/activity/news?tags%5B0%5D=148487) [#Оргеева](https://er.ru/activity/news?tags%5B0%5D=62709)
+
+Сегодня 17:10
+
 [![На выборах в прошедшее воскресенье кандидаты от «Единой России» получили 88% мандатов](https://cdn.er.ru/media/news/December2024/mbTIt4TVmAgaWzxVN2lD-small.jpg)](https://er.ru/activity/news/na-vyborah-v-proshedshee-voskresene-kandidaty-ot-edinoj-rossii-poluchili-88-mandatov)
 
 [На выборах в прошедшее воскресенье кандидаты от «Единой России» получили 88% мандатов](https://er.ru/activity/news/na-vyborah-v-proshedshee-voskresene-kandidaty-ot-edinoj-rossii-poluchili-88-mandatov)
@@ -323,6 +331,14 @@
 
 01.12.24
 
+[![В Московской области «Молодая Гвардия Единой России» наградила 16 детей-Героев медалью «Юный Герой»](https://cdn.er.ru/media/news/November2024/M8fNkAbL91j5ucLXKZk9-small.JPG)](https://er.ru/activity/news/v-moskovskoj-oblasti-molodaya-gvardiya-edinoj-rossii-nagradila-16-detej-geroev-medalyu-yunyj-geroj)
+
+[В Московской области «Молодая Гвардия Единой России» наградила 16 детей-Героев медалью «Юный Герой»](https://er.ru/activity/news/v-moskovskoj-oblasti-molodaya-gvardiya-edinoj-rossii-nagradila-16-detej-geroev-medalyu-yunyj-geroj)
+
+[#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#Московская область](https://er.ru/activity/news?tags%5B0%5D=765) [#награждение](https://er.ru/activity/news?tags%5B0%5D=2365) [#дети](https://er.ru/activity/news?tags%5B0%5D=368) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
+
+30.11.24
+
 [![Артём Метелев: «Единая Россия» активно работает с Молодежным парламентом при Госдуме](https://cdn.er.ru/media/news/November2024/mjfbokbmbNMrG2KgfaPC-small.jpg)](https://er.ru/activity/news/artyom-metelev-edinaya-rossiya-aktivno-rabotaet-s-molodezhnym-parlamentom-pri-gosdume)
 
 [Артём Метелев: «Единая Россия» активно работает с Молодежным парламентом при Госдуме](https://er.ru/activity/news/artyom-metelev-edinaya-rossiya-aktivno-rabotaet-s-molodezhnym-parlamentom-pri-gosdume)
@@ -330,22 +346,6 @@
 [#Метелев](https://er.ru/activity/news?tags%5B0%5D=133170) [#Аршинова](https://er.ru/activity/news?tags%5B0%5D=3886) [#Николаев](https://er.ru/activity/news?tags%5B0%5D=8768) [#молодежныйпарламент](https://er.ru/activity/news?tags%5B0%5D=110161) [#итогиработы](https://er.ru/activity/news?tags%5B0%5D=111531) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37)
 
 30.11.24
-
-[![Алексей Говырин: Креативные индустрии помогут перезагрузить туристический маршрут «Золотое кольцо России»](https://cdn.er.ru/media/news/November2024/Xh7v7Vzv177BmY78qGWP-small.jpg)](https://er.ru/activity/news/aleksej-govyrin-kreativnye-industrii-pomogut-perezagruzit-turisticheskij-marshrut-zolotoe-kolco-rossii)
-
-[Алексей Говырин: Креативные индустрии помогут перезагрузить туристический маршрут «Золотое кольцо России»](https://er.ru/activity/news/aleksej-govyrin-kreativnye-industrii-pomogut-perezagruzit-turisticheskij-marshrut-zolotoe-kolco-rossii)
-
-[#Говырин](https://er.ru/activity/news?tags%5B0%5D=148487) [#туризм](https://er.ru/activity/news?tags%5B0%5D=350) [#креативныеиндустрии](https://er.ru/activity/news?tags%5B0%5D=1092551) [#бизнес](https://er.ru/activity/news?tags%5B0%5D=18) [#форум](https://er.ru/activity/news?tags%5B0%5D=19) [#Владимирская область](https://er.ru/activity/news?tags%5B0%5D=1233)
-
-29.11.24
-
-[![Университет науки и технологий МИСИС стал новым партнёром проекта «Единой России» «Менделеевская карта»](https://cdn.er.ru/media/news/November2024/Bdh9u5CkKDRzUsokc078-small.jpg)](https://er.ru/activity/news/universitet-nauki-i-tehnologij-misis-stal-novym-partnyorom-proekta-edinoj-rossii-mendeleevskaya-karta)
-
-[Университет науки и технологий МИСИС стал новым партнёром проекта «Единой России» «Менделеевская карта»](https://er.ru/activity/news/universitet-nauki-i-tehnologij-misis-stal-novym-partnyorom-proekta-edinoj-rossii-mendeleevskaya-karta)
-
-[#Мажуга](https://er.ru/activity/news?tags%5B0%5D=1091855) [#Менделеевскаякарта](https://er.ru/activity/news?tags%5B0%5D=1093824) [#наука](https://er.ru/activity/news?tags%5B0%5D=354) [#ученые](https://er.ru/activity/news?tags%5B0%5D=1314) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889) [#студенты](https://er.ru/activity/news?tags%5B0%5D=186)
-
-29.11.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
