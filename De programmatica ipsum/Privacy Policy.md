@@ -2,7 +2,7 @@
 
 [![De Programmatica Ipsum](/img/logo.png)](https://deprogrammaticaipsum.com/)
 
-A magazine about programmers, code, and society. Written by humans since 2018.
+A magazine about programmers, code, and society. Written by and for humans since 2018.
 
 Privacy Policy
 ==============
