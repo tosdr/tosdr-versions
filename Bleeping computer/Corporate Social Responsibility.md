@@ -302,17 +302,19 @@ BleepingComputer.com has partnered with [StackCommerce](https://stackcommerce.co
 
 If you have any questions or concerns regarding these policies, please free to contact us here: [https://www.bleepingcomputer.com/contact/](https://www.bleepingcomputer.com/contact/)
 
+[![ThreatLocker](https://www.bleepstatic.com/c/t/threatlocker/ThreatLocker_400x500.png)](https://www.threatlocker.com/why-threatlocker?utm_source=bleeping_computer&utm_medium=sponsor&utm_campaign=why-threatlocker_11-1-24&utm_content=why-threatlocker&utm_term=display)
+
 Popular Stories
 
 * [![Microsoft 365](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     New Rockstar 2FA phishing service targets Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/new-rockstar-2fa-phishing-service-targets-microsoft-365-accounts/)
-* [![Hospital](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    UK hospital network postpones procedures after cyberattack](https://www.bleepingcomputer.com/news/security/uk-hospital-network-postpones-procedures-after-cyberattack/)
 * [![Police arrest](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Russia arrests cybercriminal Wazawaka for ties with ransomware gangs](https://www.bleepingcomputer.com/news/security/russia-arrests-cybercriminal-wazawaka-for-ties-with-ransomware-gangs/)
+* [![Football](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    Bologna FC confirms data breach after RansomHub ransomware attack](https://www.bleepingcomputer.com/news/security/bologna-fc-confirms-data-breach-after-ransomhub-ransomware-attack/)
 
 ##### Follow us:
 
