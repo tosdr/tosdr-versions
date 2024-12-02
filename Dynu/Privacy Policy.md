@@ -240,11 +240,11 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-#### New to domain names and dynamic DNS?
+#### Spin up a new instance of Virtual Private Server with your preferred operating system in minutes!
 
-We can walk you through purchasing and managing your domain names in real-time on the page!  
   
-[View Available Guides](https://www.dynu.com/Resources/Tutorials)  
+[Deploy Instance](https://www.dynu.com/en-US/ControlPanel/AddVPS)  
+  
 
 ### News
 
