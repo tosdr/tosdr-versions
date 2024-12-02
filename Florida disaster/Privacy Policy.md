@@ -128,9 +128,6 @@ Search
 * [Events](https://www.floridadisaster.org/events/)
     * [EM Day 2025](https://www.floridadisaster.org/events/em-day-2025/)
     * [HURRIGAINS 5K](https://www.floridadisaster.org/events/hurrigains-5k/)
-    * [Florida's Training for Emergency Management (FTEM)](https://www.floridadisaster.org/events/floridas-training-for-emergency-management-ftem/)
-        * [Leadership Talks](https://www.floridadisaster.org/events/floridas-training-for-emergency-management-ftem/leadership-talks/)
-        * [Sponsorship Opportunities](https://www.floridadisaster.org/events/floridas-training-for-emergency-management-ftem/sponsorship-opportunities/)
     * [2023 Local News & Meteorology Communications Summit](https://www.floridadisaster.org/events/summit/)
     * [2024 Local News & Meteorology Summit](https://www.floridadisaster.org/events/2024-local-news--meteorology-summit/)
     * [POSTPONED Human Services Summit 2024](https://www.floridadisaster.org/events/human-services-summit-2024/)
@@ -226,9 +223,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Friday, November 29, 2024**
+**Monday, December 2, 2024**
 
-**...Showers Quickly Moving Across North Florida and Along I-4 Corridor; Possible Thunderstorms Closer to Panhandle Coastline...Showers to Continue Throughout the Day With Drier and Colder Conditions Moving In Behind...Breezy Wind Gusts Developing This Afternoon Statewide...First Freeze of the Season Possible Overnight Along Western Panhandle; Low Temperatures Near or Below Freezing Expected...Feels-Like Conditions Dropping into Upper 20s to Middle 30s Throughout Much of North Florida Saturday Morning...Moderate to High Risk for Rip Currents Throughout North and Central Florida Beaches...No Tropical Development Expected Over the Next 7 Days...**
+**...Sunny and Dry Conditions Statewide...Senstive to Locally Elevated Wildfire Conditions Nearly Statewide; Critical Relative Humidity Values Throughout Suwannee Valley...Breezy Wind Gusts at Times Throughout the Afternoon...Another Round of Near or Below Freezing Temperatures Throughout North Florida Overnight...Freeze Warnings Throughout Suwannee Valley and Interior Northeast Florida...Feels-Like Temperatures Falling Into 20s and 30s Throughout North and Central Florida By Tuesday Morning...Patchy to Widespread Frost Possible Throughout North Florida, Nature Coast and Northern Peninsula...Moderate Risk for Rip Currents Nearly Statewide; Locally High Risk Along Portions of South Florida...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
