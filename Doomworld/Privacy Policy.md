@@ -50,7 +50,7 @@ We have put in place appropriate physical, electronic, and managerial procedures
 
 If you have any questions, comments or concerns regarding our privacy policy and/or practices, please contact us at the following e-mail address:
 
-E-mail: privacy@doomworld.com
+E-mail: [\[email protected\]](https://www.doomworld.com/cdn-cgi/l/email-protection)
 
 ### TERMS OF USE
 
