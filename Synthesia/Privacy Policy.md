@@ -90,167 +90,260 @@ Company
 
 [Get started](https://www.synthesia.io/pricing)
 
-Synthesia Privacy Policy
-========================
+[Back to top](#)
 
-_Effective as of 20th of July 2022_
+Privacy Policy
+==============
 
-#### **1.     Introduction**
+![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/66194aa48d2943b401e98862_Legal-Hero-BG.webp)
 
-This Privacy Policy uses the same terminology and abbreviations as used in our [Terms of Service](https://www.synthesia.io/terms/terms-of-service) document. This Privacy Policy governs and explains how we collect, use, and store your personal information.
+[Synthesia Legal Hub](https://www.synthesia.io/legal)
 
-The information about you can be divided into personally identifiable and non-personally identifiable information depending on whether information can identify you as a specific person. Personally identifiable information shall be referred to as "personal data."
+Policies
 
-We are Synthesia Limited, a company located at Kent House, 14/17Market Place, London W1W 8AJ, United Kingdom, and we are responsible for compliance with the principles relating to the processing of personal data. If you have any questions or concerns regarding your privacy, you can contact us at support@synthesia.io.
+Privacy Policy
 
-In addition to the definitions provided for in the Terms, the following words and abbreviations shall have the meaning provided herein:
+Effective: June 26, 2024
 
-"**personal data**" means any information relating to an identified or identifiable natural person ("**User**"); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person. 
+**Scope of this Privacy Policy**
+--------------------------------
 
-"**processing**" means any operation or set of operations which is performed on personal data or on sets of personal data, whether or not by automated means, such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction.
+This Privacy Policy governs and explains how we collect and process your personal information when you (“**you**” or “**User**”) use our website, located at synthesia.io (“**Site**”), services and products accessible through the Site (“**Services**”), and the associated web-based software provided by Synthesia (“**Software**”). The Site, the Services, and the Software are jointly referred to as the “**Platform**”. If you are a purchaser of our Services, you are a "**Customer**". If you are authorized by a Customer to use our Services, or you are a Site visitor you are an "**Authorized User**".
 
-"**processor**" means a natural or legal person, public authority, agency, or other body which processes personal data on behalf of Synthesia.
+We are **Synthesia Limited**, a company located at Kent House, 14/17 Market Place, London W1W 8AJ, United Kingdom, and we are the controller of your personal data processed in connection with this Privacy Policy. If you have any questions or concerns regarding your privacy, you can contact us at [support@synthesia.io](mailto:support@synthesia.io). Our Data Protection Officer can be contacted at [dpo@synthesia.io](mailto:dpo@synthesia.io). We have designated **Synthesia ApS**, Vesterbrogade 149, bygning 4, 1.tv, 1620 København V. Denmark as our EU GDPR representative to act on our behalf and serve as a direct contact for supervisory authorities and individuals in the European Union, and they can be contacted at [gdpr.representative@synthesia.io](mailto:gdpr.representative@synthesia.io). 
 
-"**personal data breach**" means a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to, personal data transmitted, stored, or otherwise processed.
+A separate agreement may govern the provision, access and use of the Services ("**Agreement**"), including the processing of (a) any content or information that an Authorized User submits to the Services, such as text and scripts used to prompt Avatars to speak and perform, and image and audio files uploaded to the Services; and (b) any videos created by Authorized Users using the Services (collectively, "**Customer Data**"). Customer Data excludes the Services, any content that Synthesia makes generally available to Customers through the Services (“**Synthesia Content**”) and Non-Synthesia Products. The Customer (e.g., your employer or another entity or person) that entered into the Agreement with Synthesia for the purchase of Services controls its instance of the Services and any associated Customer Data. If you have any questions about specific settings and privacy practices, please contact the Customer whose Service you use.   
 
-#### **2.     Personal data that we process**
+**Identifying the Data Controller and Data Processor**
 
-During your interaction with the Services or with us directly, we may process the following personal data: 
+Certain jurisdictions distinguish between a "controller" or "processor" of personal data. A controller is the decision-maker and exercises overall control over how and why personal data is collected and used. In general, the Customer is the controller of Customer Data. A processor acts on behalf of, and only on the instructions of, the relevant controller. In general, Synthesia is the processor of Customer Data and the controller of Other Information (which is described in the ‘Personal data that we process’ section below).
 
-* **Identity data** (such as first name, last name, username, or similar identifier)
-* **Contact data** (such as billing address, email address, and telephone numbers)
-* **Financial data** (such as bank account and payment card details)
-* **Transaction data** (such as details of payments and services purchased)
-* **Commercial data** (such as company name, business purpose, and requirements for video generation)
-* **Profile data** (such as username and password, preferences, feedback, and survey responses)
-* **Usage data** (such as information about how our website, products, and services are used)
-* **Marketing data** (such as marketing and communication preferences)
-* **Audio/Video data** (such as content uploaded as a data source for video generation)
-* **Technical data** (such as internet protocol (IP) address, login data, browser, time zone setting and location, and operating system used for access)
-* **Other information you choose to provide**.
+Synthesia is the controller of Other Information and a processor of Customer Data.
 
-We may collect personal data when you interact with the Services, when you register and customise an account, or when you contact us. 
+In addition to the definitions provided for in the Agreement, the following words and abbreviations have the meaning provided below:
 
-#### **3.     Purposes for the processing of personal data**
+"**personal data**" means any information relating to an identified or identifiable natural person; an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person. 
 
-We process your personal data for the following purposes:
+**"processing"** means any operation or set of operations which is performed on personal data or on sets of personal data, whether or not by automated means, such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction.
 
-* to provide you with access to our Services, 
-* to provide you with the Services you requested,
-* to create and manage your account, 
-* to process payment for the paid Services,
-* to provide you with customer support, 
-* to send you information about the Services,
-* to send you advertising emails,
-* to analyse and develop technical improvements to the Services,
-* to comply with our legal obligations.
+**"processor"** means a natural or legal person, public authority, agency, or other body which processes personal data on behalf of Synthesia.
 
-#### **4.     Legal basis for data processing**
+**Personal data that we process**
+---------------------------------
 
-Depending on the type of personal data and the purpose for which it is processed, we process the personal data on the following legal basis:
+Synthesia collects and receives the following information through the Platform and your other interactions with Synthesia. 
 
-* You have given us consent for data processing for a specific purpose,
-* Processing is necessary for the performance of our obligations under the Agreements,
-* Processing is necessary for compliance with legal obligations,
-* Processing is necessary for the purpose of our legitimate interest.
+* **Customer Data**. Customers or Authorized Users submit Customer Data to Synthesia when they use the Platform.
+* **Other Information**. Synthesia also collects, generates and/or receives the following categories of personal data ("**Other Information**"):
 
-We may process your email address to send you information about changes to the Services, introduce you to new Services, or provide general news about our Services. We have a legitimate interest in keeping you informed about the Services and promoting our new Services, which we believe might be interesting to you. You can unsubscribe from these emails at any time by following the unsubscribe link in the email. We will not use legitimate interest to send you advertising emails for any third-party services. 
+1. **Contact information:** When you contact us or otherwise communicate with us, we will process your name, email address, phone number, and any additional information which you may provide such as your title and employer.
+2. **Financial data:** When you purchase our Services, we will collect the following transaction information: payment card details if payment is done using a payment card, bank account details is payment is done using a wire transfer or ACH, details of the amounts paid or refunded, dates of payments and the services purchased. 
+3. **Account information:** When you create an account on our services or Customer creates an account for you, we will process your email address, first and last name and depending on the log-in method, your password. You may also customize your user profile by adding a profile picture and changing the account settings.
+4. **Usage information:** During your interactions with the Platform, we will collect and process information about how Users use or interact with the Site and features and functionality of the Services and Software. For example, we will collect information about the most frequently visited pages, used functionalities, preferred voices and avatars, preferred voice performances and similar information relating to use and interaction, and performance and quality of the Platform.
+5. **Technical data:**  As with most websites and technology services delivered over the internet, our servers automatically collect information when you access or use our Platform and record it in log files. This log data may include your internet protocol (IP) address, the address of the web page you visited before using the Platform, browser type and settings, the date and time the Platform was used, information about browser configuration and plugins, and your language preferences. We also receive information from you, our Customers, and other third-parties that helps us approximate your location. We may, for example, use a business address submitted by your employer (who is our Customer) or an IP address received from your browser or device to determine approximate location to assist with localization or for security purposes.
+6. **Cookie information**: We use a variety of cookies and similar technologies in our Websites and Services to help us collect Other Information. For more details about how we use these technologies, and your opt-out controls and other options, please visit our [Cookie Policy](https://www.synthesia.io/legal/cookie-policy).
+7. **Other information you choose to provide**. We also receive Other Information when submitted to our Platform or in other ways, such as responses or opinions you provide if you participate in a focus group, contest, activity or event, feedback you provide about our products or services, information you provide if you apply for a job with Synthesia, enrol in a certification program or other educational program hosted by Synthesia or a vendor, request support, interact with our social media accounts or otherwise communicate with Synthesia.
 
-We may process your IP address and other technical data automatically when you access the Services. This is because we have a legitimate interest in ensuring the safety and integrity of our Services, and by collecting technical data, we can scan it and prevent malicious signs such as too many password failures, seeking exploits, and similar. 
+Generally, no one is under a statutory or contractual obligation to provide any Customer Data or Other Information (collectively, “**Information**”). However, certain Information is collected automatically and, if some Information, such as Account information, is not provided, we may be unable to provide the Services. 
 
-We may process information about how you use the Services and how you interact with the website through third-party analytics tools. We process this data under our legitimate interest in analysing the performance of the Services and updating our Services. We aim to minimise the amount of personal data included in such information and to anonymise the data wherever possible. Session information is anonymised and used only for research purposes in order to improve and adapt our Services. Third-Party tools cannot connect the data about the session to a specific User. 
+**Purposes and legal basis for the processing of personal data**
+----------------------------------------------------------------
 
-We may process the content you provided to generate a video through Services for our internal research or to improve our Services or other Synthesia technologies. We rely on our legitimate interest of improving the Services and developing new technologies. Such processing of your content is typically expected with Services that depend on constant research and development through the use. 
+Customer Data will be processed by Synthesia in accordance with Customer's instructions, including any applicable terms in the Agreement, and as required by applicable law. As explained above, in general, Synthesia is a processor of Customer Data and the Customer is the controller.
 
-#### **5.     General provisions**
+Synthesia uses Other Information to operate our Platform and business. More specifically, Synthesia uses Other Information for the following purposes and under the following legal bases:
 
-Some Services will not be available to you if you do not provide requested personal data; for example, you cannot register for an account if you do not provide your name and email. In addition, different Services may require additional information that will be requested when requesting the specific Service. 
+**Legal bases for processing**
+------------------------------
 
-We may keep records of any questions, complaints, or compliments made by you and the response, if any. Whenever you contact us, we shall collect any information which you choose to provide. We shall store and use this information only to respond to your inquiries. 
+We rely on different legal bases to process your personal data for the purposes described in this Privacy Policy. For each legal basis below, we describe the purposes of our processing (why we process your personal data) and our processing operations (how we process your personal data to achieve each purpose). We also list the categories of your personal data that we process for each purpose.
 
-We do not sell or rent personal information to any third-party. We use collected information for our internal and marketing purposes, as necessary by the nature of the Services, and only in accordance with this Privacy Policy. In some instances, we are obliged to comply with court orders and government requests and provide information or parts of it to authorised bodies. 
+**Performing our contract with you**
 
-We have implemented security procedures and measures to ensure appropriate protection of the personal data we process against any misuse, unauthorised access, disclosure, or modification. 
+We process personal data as necessary to conclude and perform our contract with you or the Customer. The categories of personal data used and why and how they are processed are set out below:
 
-We acknowledge that the safety of your personal data is one of the highest priorities, and therefore only authorised processors have access to your information. Although we take all appropriate measures in respect to keeping your personal data secure, you understand that no data security measures in the world can offer 100% protection. If we ever find or suspect a personal data breach, we will, without delay, within seventy-two (72) hours after becoming aware of it, notify the appropriate supervisory authority about the breach and Users where necessary. 
+| Why and how we process your personal data | Category of data processed |
+| --- | --- |
+| To provide you with access to our Platform in accordance with the Agreement we process your personal data to:<br><br>* allow you to access and use the Platform, including allowing you to create videos. | * Contact information<br>* Financial data<br>* Account information<br>* Technical data |
+| To provide you with the Platform you request from us in accordance with the Agreement we process your personal data to:<br><br>* provide you with products and services you purchase. | * Contact information<br>* Financial data<br>* Account information<br>* Technical data |
+| To create and manage your account, we<br><br>* check the browser type and version and other features of your device to provide the Platform via your device.<br>* record your choices, including the terms you accepted, and your privacy settings.<br>* change the email associated with your Synthesia account when you update it.<br>* delete your Synthesia account, at your request or in accordance with the Agreement. We may take steps to ban your account if there is a breach of the Agreement.<br>* enable you to re-register your Synthesia account when it has been deactivated or locked. | * Contact information<br>* Financial data<br>* Account information<br>* Technical data |
+| To process payments when you purchase any product or service made available through the Platform. | * Contact information<br>* Financial data<br>* Technical data |
+| To provide you with customer support we:<br><br>* process requests for support.<br>* respond when you request our help such as assisting with your account login or investigating and resolving any issues you are experiencing.<br><br>We will also contact you via email in relation to Platform-related issues, or to let you know about our terms and policies. | * Contact information<br>* Financial data<br>* Account information<br>* Technical data<br>* Usage information<br>* Other information you choose to provide |
+| To protect the integrity and security of our systems and Platform we process your personal data to:<br><br>* Verify accounts and activity.<br>* Find and address violations of the Agreement or our policies.<br>* Investigate suspicious activity.<br>* Detect, prevent and combat unlawful behavior. | * Contact information<br>* Financial data<br>* Account information<br>* Technical data<br>* Usage information<br>* Other information you choose to provide |
 
-#### **6.     Children's privacy**
+**Legitimate interests** 
 
-Our Services are intended for a general audience and are not targeted at children under the age of 16 (“**minors**”). We do not knowingly collect or ask for information from minors and do not knowingly allow minors to use the Service.
+We rely on our legitimate interests or the legitimate interests of a third party, where they are not outweighed by your interests or fundamental rights and freedoms. 
 
-#### **7.     Cookies and third-party services**
+| Why and how we process your personal data | Category of data processed | Legitimate Interests Relied On |
+| --- | --- | --- |
+| To analyse and develop technical improvements to the Platform we:<br><br>* Collect information about your use of the Platform (for example, when and how often you use the Platform and visit our Sites.<br>* Collect and process any User feedback provided to us.<br>* Collect information to monitor the performance and reliability of our Platform.<br>* Collect information to resolve issues with the Platform or outages, technical User issues, to troubleshoot, run diagnostics and debug the Platform. | * Account information<br>* Technical data<br>* Usage information | It is in our interest and the interest of our Users to evaluate the use of the Platform to inform the development of improvements to ensure the Platform are continuously available and functioning optimally. |
+| To improve our Platform and underlying technologies and for our internal research, we:<br><br>* process the information relating to your use and interaction with the Services, and the performance and quality of the Services resulting from such use | * Usage information | It is in our interest to continuously improve our Platform for Users and enhance our models’ capabilities and safety. |
+| To send you marketing communications, depending on your preferences, to introduce you to new Services, or provide general news about our Platform. We will obtain your consent to send you marketing communications where required by law. | * Contact information<br>* Account information<br>* Technical data | It is in our interests to keep you informed about the Platform and promote our new Services, which we believe might be interesting to you. |
+| To promote safety, integrity and security in limited circumstances outside of the performance of our contract with you. Our Platform is delivered to ensure the safety, integrity and security of the Platform and those Users who use it. We apply automated processing to Technical data so we can scan it and prevent malicious signs such as too many password failures, seeking exploits, and similar, to maintain the integrity of our Platform and to promote safety, integrity and security. | * Technical data | It is in our interest to ensure the safety and integrity of our Platform. |
+| To share personal data with others, including law enforcement and to respond to legal requests, where we are not under a legal obligation to do so. The categories of personal data that we access, preserve, use and share depend on the specific circumstances. For example, responses to legal requests where not compelled by law, will typically include limited personal data (such as contact details and login information). | * Contact information<br>* Financial data<br>* Account information<br>* Technical data<br>* Usage information<br>* Other information you choose to provide | It is in our interest and in the interest of Synthesia Users to prevent and address fraud, unauthorised use of Synthesia, violations of our Terms and policies, or other harmful or illegal activity. It is in our interest to protect ourselves (including our rights, personnel, property or products), our Users or others, including as part of investigations or regulatory inquiries; or to prevent death or imminent bodily harm. |
 
-A cookie is a small piece of text used to store information on web browsers. It remembers information about your visit to our website, like your preferred settings, and helps us optimize and improve the website's user experience. Cookies make it possible to provide a more accessible and more rewarding Service to you by enabling crucial functionalities.
+**Compliance with a legal obligation** 
 
-The cookies we use (and other types of technologies we operate with a similar purpose as cookies, referred hereto as cookies) may vary over time as we continuously update and improve our Services. We will use necessary cookies immediately upon your access to our website, but to use analytics cookies, we need your consent. 
+We process personal data to comply with a legal obligation including, for example, to access, preserve, or disclose certain personal data if there is a valid legal request.
 
-Information about the use of the Services and marketing effectiveness is processed through Third-Party cookies provided by Google. Any data collected will be used in accordance with our Privacy Policy and Google's privacy policy, respectively. Users may opt out of Google's use of Google Analytics by installing a browser add-on available here [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout). Additionally, Users may opt out of third-party vendor use of cookies by visiting the Network Advertising Initiative Opt-out Page [https://optout.networkadvertising.org/?c=1](https://optout.networkadvertising.org/?c=1). More information on how Google Analytics works and how you can opt out of its use can be found on: [https://policies.google.com/technologies/partner-sites](https://policies.google.com/technologies/partner-sites).
+| Why and how we process your personal data | Category of data processed |
+| --- | --- |
+| Where we are under an obligation to disclose personal data such as, for example, if we receive a valid legal request for certain personal data (such as a search warrant), we will access, preserve and/or share your personal data with regulators, law enforcement or others. The way in which the personal data will be processed depends on the specific circumstances. | * Contact information<br>* Financial data<br>* Account information<br>* Technical data<br>* Usage information<br>* Other information you choose to provide |
 
-We may use other third-party services such as Pixel and Analytics services by Facebook to help us target our ads more effectively. The collected data remains anonymous, meaning that we cannot see the personal data of any individual user. However, the collected data is saved and processed by Facebook. We are informing you on this matter according to our information at this time. Facebook can connect the data with your Facebook account and use the data for their own advertising purposes, according to Facebook's Data Use Policy found under [https://www.facebook.com/about/privacy](https://www.facebook.com/about/privacy). You may opt-out of the Facebook tracking option by visiting the following link [https://www.facebook.com/ads/website\_custom\_audiences/](https://www.facebook.com/ads/website_custom_audiences/).
+**Consent**
 
-We may use third-party performance and analytics cookies provided by HubSpot. Any data collected will be used in accordance with our Privacy Policy and HubSpot's privacy policy, respectively. More information about how HubSpot handles information from cookies is available here [https://legal.hubspot.com/privacy-policy](https://legal.hubspot.com/privacy-policy).
+We process personal data as described below when you have given us your consent to do so, which we may ask through in-product experiences, to enable particular features or to enable device-based settings.
 
-All payments on the website are conducted through third-party service provider Stripe Inc. You hereby understand that by purchasing through our website, your personal information is being processed and handled in accordance with Stripe's privacy policy available here [https://stripe.com/privacy](https://stripe.com/privacy).
+| Why and how we process your personal data | Category of data processed |
+| --- | --- |
+| To deliver you marketing materials and marketing communication where such communication requires your consent. | * Contact information |
+| To deliver the particular product or feature. More detailed description will be provided at the point of data collection. | * Other information you choose to provide |
 
-You can manage your cookies preferences at any time in your browser or device settings. Depending on which browser and device you use, you may control which cookies you allow, which cookies you want to block in the future, and delete cookies. For more information about these settings, visit your browser or device's help page. Note that some of the Services might not work as intended if you choose to disable cookies.
+**Security**
+------------
 
-#### **8.     Storage and transfer of personal data**
+We have implemented security procedures and measures to ensure appropriate protection of the personal data we process against any misuse, unauthorised access, disclosure, or modification. More detailed information about our security is available on the [Security Practices](https://www.synthesia.io/legal/security-practices) page on our Site. 
 
-Personal data will be stored on secure servers controlled and maintained in accordance with sufficient privacy safeguards. We may store or transfer information on Users to processors located outside of the United Kingdom and European Union, provided that such processors implement appropriate and suitable safeguards regarding the security of personal information.
+**Children's privacy**
+----------------------
 
-If you register an account with us, we will store your personal data for as long as you have an active account. We may keep your personal data for up to a year after you deactivate the account in our backup to maintain our backup storage data integrity and address any appeals or requests pursuant to your purchases. We may store some personal data for more extended periods if required to do so by applicable law or under our prevailing legitimate interest.
+Our Services are intended for a general audience and are not targeted at children under the age of 16 (“minors”). We do not knowingly collect or ask for information from minors and do not knowingly allow minors to use the Platform.
 
-#### **9.     User's Rights**
+**Sharing/Disclosure of personal data**
+---------------------------------------
 
-We will process all personal data in accordance with the principles of GDPR and especially having in mind Users' rights, in particular their right, in certain circumstances, to:
+The policies and practices for sharing and/or disclosure of Customer Data to third parties is determined by the Customer. Synthesia has no control over the Customer's or any other third parties' choice to share and/or disclose Customer Data. Synthesia may share and disclose Customer Data in accordance with a Customer's instructions, including any applicable terms in the Master Subscription Agreement and Data Processing Addendum. 
 
-* Request access to any data held about them by Synthesia in a commonly used and machine-readable format.
-* Transmit their personal data to another data controller (free of charge), where such personal data is processed on the basis of consent or contractual performance unless in doing so, it would adversely affect the rights or freedoms of other Users or others, e.g., including trade secrets or intellectual property.
-* Prevent the processing of their personal data or withdraw their consent at any time in certain circumstances.
-* Ask to have inaccurate personal data amended.
-* Erasure of their personal data where data is no longer required for the original purpose or where the User has withdrawn their consent, and no other lawful processing grounds apply.
-* Object to the processing of their personal data in certain circumstances.
-* Be notified where their personal data is subject to automated decision-making, i.e., profiling, including the logic involved, the significance and the envisaged consequence of such processing for the data subject, and object to such profiling in certain circumstances.
+In certain circumstances we may share and/or disclose the personal data described in this Privacy Policy. 
 
-You may exercise these rights by contacting us at support@synthesia.io.
+* Our affiliated companies - we will share your information with our affiliated companies in order to facilitate company business and as part of our regular reporting activities.
+* Our service providers - we will share your information with affiliated and unaffiliated service providers which assist us in carrying out the processing activities described in this Privacy Policy. Our service providers include payment processing providers, IT service providers, our auditors, and our legal, accounting and other professional advisors. 
+* Regulators, law enforcement, public or government authorities, or courts - we will share your information if and to the extent we are required or permitted to do so by law or where disclosure is reasonably necessary to (i) comply with applicable law; (ii) comply with a valid legal request or respond to claims against Synthesia; (iii) respond to a valid legal request relating to a criminal investigation to address alleged or suspected illegal activity, or to respond to or address any other activity that may expose us, you, or any other of our Users to legal or regulatory liability; (iv) enforce and administer our Terms of Service; (v) respond to requests for or in connection with current or prospective legal claims or legal proceedings concerning Synthesia and/or third parties; or (vi) protect the rights, property or personal safety of Synthesia, our employees, our Users, or members of the public. 
+* Other entities as part of a business transfer - if Synthesia undertakes or is involved in any merger, acquisition, reorganisation, sale of assets, bankruptcy, or insolvency event, then we may sell, transfer, or share some or all of our assets, including your personal data, in connection with such transaction or in contemplation of such transaction, such as due diligence. 
 
-Where we are required to provide a copy of personal data, this will be free of charge; however, any further copies requested may be subject to a reasonable fee based on administration costs.
+**International Data Transfers**
 
-Where we stop processing personal data or delete the User's personal data, it will possibly mean that that particular User is unable to continue using or contributing to the provision of some of our Services, and they shall be notified accordingly.
+We may transfer your personal data to recipients located outside of the United Kingdom (“**UK**”) and European Economic Area (“EEA”).
 
-Where you request us to rectify or erase (except data required by any legal obligations) your personal data or restrict any processing of such personal data, we may be required to notify certain third-parties to whom such personal data has been disclosed of such request.
+When we transfer your personal data outside of the UK or EEA, we ensure it benefits from an adequate level of data protection by relying on:
 
-If you consider that the processing of personal data relating to you infringes the UK Data Protection Act or GDPR, you may, without prejudice to any other administrative or judicial remedy, lodge a complaint with the Information Commissioner's Office at 0303 123 1113 or via live chat at [ico.org.uk/livechat](#).
+* Adequacy decisions. These are decisions from the European Commission under Article 45 GDPR (or equivalent decisions under other laws) which recognise that a country outside of the EEA offers an adequate level of data protection. 
+* Standard contractual clauses. The European Commission has approved contractual clauses under Article 46 GDPR that allow companies in the EEA to transfer data outside the EEA. These (and their approved equivalent for the UK and Switzerland) are called standard contractual clauses. We rely on standard contractual clauses to transfer personal data as described in this Privacy Policy to countries without an adequacy decision.
 
-#### **10.     Changes to the Privacy Policy**
+In certain situations, we rely on exceptions provided for under applicable law to transfer personal data to a third country.
 
-We reserve the right to change our Privacy Policy at any time. The current version of the Privacy Policy is available on the website, indicating the effective date in the heading. You are encouraged to check our Privacy Policy periodically.
+You may obtain a copy of these adequacy decisions or standard contractual clauses by contacting us at [support@synthesia.io](mailto:support@synthesia.io).
+
+**Retention of personal data** 
+-------------------------------
+
+We will retain Customer Data in accordance with Customer’s instructions (including to perform any applicable terms in the Agreement and through Customer’s use of Platform functionality) and as required by applicable law. The deletion of Customer Data and other use of the Services by the Customer may result in the deletion and/or de-identification of certain associated Other Information. 
+
+We may retain Other Information pertaining to you for as long as necessary for the purposes described in this Privacy Policy (such as to provide the Services, including any optional features you use, and to provide customer support). This may include keeping your Other Information after you have deleted your account for the period of time needed for us to pursue legitimate business interests, conduct audits, comply with (and demonstrate compliance with) legal obligations, resolve disputes, and enforce our agreements.
+
+**User's Rights**
+-----------------
+
+We process all personal data in accordance with the principles of GDPR and especially having in mind your data protection rights, in particular your right, in certain circumstances, to:
+
+* Request access to any data held about you by Synthesia and information relating to how and why it is processed.
+* Receive the personal data which you have provided to us in a structured, commonly used and machine-readable format and transmit this personal data to another controller, where such personal data is processed on the basis of consent or contractual necessity and the processing is carried out by automated means. 
+* Request the restriction of processing of your personal data in certain circumstances.
+* Withdraw your consent at any time, where processing is based on your consent, without affecting the lawfulness of processing based on such consent before the consent is withdrawn.
+* Ask to have inaccurate personal data rectified, or completed if it is incomplete.
+* Request the erasure of your personal data where data is no longer required for the original purpose or where you have withdrawn your consent, and no other lawful processing grounds apply.
+* Object to the processing of your personal data in certain circumstances.
+* Not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning you or similarly significantly affects you. You may exercise these rights by contacting us at [support@synthesia.io](mailto:support@synthesia.io).
+
+Where we are required to provide a copy of your personal data, this will be free of charge; however, any further copies requested may be subject to a reasonable fee based on administration costs.
+
+Where we stop processing personal data or delete your personal data, it will possibly mean that you are unable to continue using or contributing to the provision of some of our Services, and you will be notified accordingly.
+
+Where we rectify or erase your personal data or restrict any processing of such personal data, we may be required to notify certain third-parties to whom such personal data has been disclosed.
+
+You have the right to lodge a complaint with the Information Commissioner's Office at 0303 123 1113 or via live chat at ico.org.uk/livechat or with [your local supervisory authority](https://edpb.europa.eu/about-edpb/about-edpb/members_en).
+
+We do not sell or rent personal information to any third-party.
+
+**Changes to the Privacy Policy**
+---------------------------------
+
+We reserve the right to change our Privacy Policy at any time. The current version of the Privacy Policy is available on the Website, indicating the effective date in the heading. We will notify you of any material changes, as appropriate, and update the effective date in the heading of this Privacy Policy. You are encouraged to check our Privacy Policy periodically.
+
+‍
+
+‍
+-
+
+HIGHLIGHTED VIDEO
+
+HIGHLIGHTED VIDEO
+
+HIGHLIGHTED VIDEO
+
+HIGHLIGHTED VIDEO
+
+HIGHLIGHTED VIDEO
+
+HIGHLIGHTED VIDEO
+
+HIGHLIGHTED VIDEO
+
+HIGHLIGHTED VIDEO
+
+HIGHLIGHTED VIDEO
+
+HIGHLIGHTED VIDEO
+
+Recommended videos
+
+![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/66179f005533df0b976958c3_Headset-White.svg)
+
+Need more help?
+
+If you need assistance with Synthesia or have a question about our products or services, please contact our customer support team.
+
+[Get in touch](mailto:support@synthesia.io?subject=Need%20more%20help?&body=If%20you%20need%20assistance%20with%20Synthesia%20or%20have%20a%20question%20about%20our%20products%20or%20services,%20please%20contact%20our%20customer%20support%20team.)
+
+Ready to try our AI video platform?
+-----------------------------------
+
+Join over 1M+ users today and start making AI videos with 230+ avatars in 140+ languages.
+
+[Get started](https://www.synthesia.io/pricing)[Book demo](https://www.synthesia.io/book-a-demo)
+
+![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/66e29871dd292f4642e087fd_Prefooter-poster.webp)![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/66e29871dd292f4642e087fd_Prefooter-poster.webp "Your browser does not support the <video> tag")
+
+![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/66e2aaafbb07871299aa26c1_Pre-footer-img-230.webp)
+
+![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/6616a999987b13e0a37360a4_pre-footer-dark.webp)
 
 [![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/65eae6894e82dff052cd139f_Logo-white.svg)](https://www.synthesia.io/?r=0)
 
-[en](https://www.synthesia.io/terms/privacy-policy)
+[en](https://www.synthesia.io/legal/privacy-policy)
 
-[fr](https://www.synthesia.io/fr/terms/privacy-policy)
+[fr](https://www.synthesia.io/fr/legal/privacy-policy)
 
-[de](https://www.synthesia.io/de/terms/privacy-policy)
+[de](https://www.synthesia.io/de/legal/privacy-policy)
 
-[es](https://www.synthesia.io/es/terms/privacy-policy)
+[es](https://www.synthesia.io/es/legal/privacy-policy)
 
 [en
 
-English](https://www.synthesia.io/terms/privacy-policy)
+English](https://www.synthesia.io/legal/privacy-policy)
 
 [fr
 
-Français](https://www.synthesia.io/fr/terms/privacy-policy)
+Français](https://www.synthesia.io/fr/legal/privacy-policy)
 
 [de
 
-Deutsch](https://www.synthesia.io/de/terms/privacy-policy)
+Deutsch](https://www.synthesia.io/de/legal/privacy-policy)
 
 [es
 
-Español](https://www.synthesia.io/es/terms/privacy-policy)
+Español](https://www.synthesia.io/es/legal/privacy-policy)
 
 Synthesia is the #1 AI Video Communications Platform. Our [AI Video Generator](https://www.synthesia.io/?r=0) enables everyone to create professional videos without mics, cameras, actors or studios.  
   
