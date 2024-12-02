@@ -32,11 +32,11 @@ Navigation
     
     *  [![](https://media.king5.com/assets/KING/images/0f4003a8-5735-443a-b20e-591ab52fd157/20241128T130908/0f4003a8-5735-443a-b20e-591ab52fd157_16x9.jpg) ![](https://media.king5.com/assets/KING/images/0f4003a8-5735-443a-b20e-591ab52fd157/20241128T130908/0f4003a8-5735-443a-b20e-591ab52fd157_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/low-visibility-dense-fog-advisory-driving-seattle-tacoma-western-washington/281-ea539072-3f25-4d02-b21b-b112ae951182)
         
-        #### [1/4 mile visibility amid Dense Fog Advisory in western Washington](https://www.king5.com/article/weather/weather-blog/low-visibility-dense-fog-advisory-driving-seattle-tacoma-western-washington/281-ea539072-3f25-4d02-b21b-b112ae951182)
+        #### [Dense Fog Advisory expires in western Washington](https://www.king5.com/article/weather/weather-blog/low-visibility-dense-fog-advisory-driving-seattle-tacoma-western-washington/281-ea539072-3f25-4d02-b21b-b112ae951182)
         
-    *  [![](https://media.king5.com/assets/KING/images/aaf16b69-91fe-4779-9426-be35ad7206a0/20241202T061801/aaf16b69-91fe-4779-9426-be35ad7206a0_16x9.jpg) ![](https://media.king5.com/assets/KING/images/aaf16b69-91fe-4779-9426-be35ad7206a0/20241202T061801/aaf16b69-91fe-4779-9426-be35ad7206a0_360x203.jpg)](https://www.king5.com/article/news/local/aids-chicken-soup-brigade-meal-delivery-service/281-e887823c-23b3-4cf3-a9ed-ffa7d304722e)
+    *  [![](https://media.king5.com/assets/KING/images/b11e4c3d-3791-4b7a-bec9-d247a77e83d8/b11e4c3d-3791-4b7a-bec9-d247a77e83d8_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b11e4c3d-3791-4b7a-bec9-d247a77e83d8/b11e4c3d-3791-4b7a-bec9-d247a77e83d8_360x203.jpg)](https://www.king5.com/article/news/local/seattle/bus-only-lane-violations-king-county-metro/281-b30fe84b-2ef3-4791-b896-0bbe4d4502f7)
         
-        #### ['Chicken Soup Brigade' says demand has grown for service supporting those with chronic illness](https://www.king5.com/article/news/local/aids-chicken-soup-brigade-meal-delivery-service/281-e887823c-23b3-4cf3-a9ed-ffa7d304722e)
+        #### [Are you camping in the bus-only lane? King County Metro is using cameras to count violations](https://www.king5.com/article/news/local/seattle/bus-only-lane-violations-king-county-metro/281-b30fe84b-2ef3-4791-b896-0bbe4d4502f7)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/0f4003a8-5735-443a-b20e-591ab52fd157/20241128T130908/0f4003a8-5735-443a-b20e-591ab52fd157_16x9.jpg) ![](https://media.king5.com/assets/KING/images/0f4003a8-5735-443a-b20e-591ab52fd157/20241128T130908/0f4003a8-5735-443a-b20e-591ab52fd157_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/low-visibility-dense-fog-advisory-driving-seattle-tacoma-western-washington/281-ea539072-3f25-4d02-b21b-b112ae951182)
-        
-        #### [1/4 mile visibility amid Dense Fog Advisory in western Washington](https://www.king5.com/article/weather/weather-blog/low-visibility-dense-fog-advisory-driving-seattle-tacoma-western-washington/281-ea539072-3f25-4d02-b21b-b112ae951182)
-        
     *  [![](https://media.king5.com/assets/KING/images/5a4205a7-94d0-4876-a794-dff667b057bb/20241202T125906/5a4205a7-94d0-4876-a794-dff667b057bb_16x9.jpg) ![](https://media.king5.com/assets/KING/images/5a4205a7-94d0-4876-a794-dff667b057bb/20241202T125906/5a4205a7-94d0-4876-a794-dff667b057bb_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
+    *  [![](https://media.king5.com/assets/KING/images/0f4003a8-5735-443a-b20e-591ab52fd157/20241128T130908/0f4003a8-5735-443a-b20e-591ab52fd157_16x9.jpg) ![](https://media.king5.com/assets/KING/images/0f4003a8-5735-443a-b20e-591ab52fd157/20241128T130908/0f4003a8-5735-443a-b20e-591ab52fd157_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/low-visibility-dense-fog-advisory-driving-seattle-tacoma-western-washington/281-ea539072-3f25-4d02-b21b-b112ae951182)
+        
+        #### [Dense Fog Advisory expires in western Washington](https://www.king5.com/article/weather/weather-blog/low-visibility-dense-fog-advisory-driving-seattle-tacoma-western-washington/281-ea539072-3f25-4d02-b21b-b112ae951182)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-36°
+40°
 
-![Fog](/assets/shared-images/weather-icons/fog-night_210x210.png)
+![Mist](/assets/shared-images/weather-icons/fog-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
