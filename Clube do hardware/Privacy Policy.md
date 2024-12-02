@@ -134,105 +134,105 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![peakles](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23b4c462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EP%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/572545-peakles/ "Ir ao perfil de peakles")
-        
-        2
-        
-        [Galaxy Book 2 Core i5 1235U ou Acer Aspire 5 Ryzen 7 5700U?](https://www.clubedohardware.com.br/forums/topic/1704223-galaxy-book-2-core-i5-1235u-ou-acer-aspire-5-ryzen-7-5700u/?do=getNewComment "Galaxy Book 2 Core i5 1235U ou Acer Aspire 5 Ryzen 7 5700U?")
-        
-        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
-        Por [peakles](https://www.clubedohardware.com.br/profile/572545-peakles/ "Ir ao perfil de peakles")  
-        7 minutos atrás
-        
-    * [![Guilherme Fernandes Dias](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1253964.thumb.jpeg.4526e27ee6e94518cffc2e28205a4e2b.jpeg)](https://www.clubedohardware.com.br/profile/1253964-guilherme-fernandes-dias/ "Ir ao perfil de Guilherme Fernandes Dias")
-        
-        1
-        
-        [gabinete e a placa de vídeo não fica alinha para parafusar!](https://www.clubedohardware.com.br/forums/topic/1704222-gabinete-e-a-placa-de-v%C3%ADdeo-n%C3%A3o-fica-alinha-para-parafusar/?do=getNewComment "gabinete e a placa de vídeo não fica alinha para parafusar!")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Guilherme Fernandes Dias](https://www.clubedohardware.com.br/profile/1253964-guilherme-fernandes-dias/ "Ir ao perfil de Guilherme Fernandes Dias")  
-        14 minutos atrás
-        
-    * [![nilson54](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257253.thumb.jpeg.f39d00364fcee17012e27c152286356b.jpeg)](https://www.clubedohardware.com.br/profile/1257253-nilson54/ "Ir ao perfil de nilson54")
+    * [![Fabricio santiago](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/imported-photo-1250550.thumb.png.80551c31e31e32ac8aeac822136e5e19.png)](https://www.clubedohardware.com.br/profile/1250550-fabricio-santiago/ "Ir ao perfil de Fabricio santiago")
         
         0
         
-        [olt vsol com rb1009](https://www.clubedohardware.com.br/forums/topic/1704221-olt-vsol-com-rb1009/?do=getNewComment "olt vsol com rb1009")
+        [Qual RAM DDR5 ±6000Mhz entre CL32 até CL36 2X16GB me recomendam?](https://www.clubedohardware.com.br/forums/topic/1704286-qual-ram-ddr5-%C2%B16000mhz-entre-cl32-at%C3%A9-cl36-2x16gb-me-recomendam/?do=getNewComment "Qual RAM DDR5 ±6000Mhz entre CL32 até CL36 2X16GB me recomendam?")
         
-        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
-        Por [nilson54](https://www.clubedohardware.com.br/profile/1257253-nilson54/ "Ir ao perfil de nilson54")  
+        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
+        Por [Fabricio santiago](https://www.clubedohardware.com.br/profile/1250550-fabricio-santiago/ "Ir ao perfil de Fabricio santiago")  
         15 minutos atrás
         
-    * [![Phelipe Le.](https://www.clubedohardware.com.br/uploads/members/monthly_2020_11/imported-photo-1127714.thumb.jpeg.e0b077a61d9a2ddcbace3c2fa925cb6f.jpeg)](https://www.clubedohardware.com.br/profile/1127714-phelipe-le/ "Ir ao perfil de Phelipe Le.")
+    * [![GENECIOFICIAL](https://www.clubedohardware.com.br/uploads/members/monthly_2020_12/imported-photo-1136161.thumb.jpeg.5a8d47befa51aba06ec398dcd92fdadf.jpeg)](https://www.clubedohardware.com.br/profile/1136161-genecioficial/ "Ir ao perfil de GENECIOFICIAL")
         
         0
         
-        [Quero fazer um Upgrade, o que me recomendam?](https://www.clubedohardware.com.br/forums/topic/1704220-quero-fazer-um-upgrade-o-que-me-recomendam/?do=getNewComment "Quero fazer um Upgrade, o que me recomendam?")
+        Bat [Arquivo executável .exe excluir todos arquivos do diretório exceto os 2 recentes](https://www.clubedohardware.com.br/forums/topic/1704285-arquivo-execut%C3%A1vel-exe-excluir-todos-arquivos-do-diret%C3%B3rio-exceto-os-2-recentes/?do=getNewComment "Arquivo executável .exe excluir todos arquivos do diretório exceto os 2 recentes")
         
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Phelipe Le.](https://www.clubedohardware.com.br/profile/1127714-phelipe-le/ "Ir ao perfil de Phelipe Le.")  
-        15 minutos atrás
-        
-    * [![maikon leardine](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257251.thumb.jpeg.85eee9abbcd85358eecf9e7c9bf9e17a.jpeg)](https://www.clubedohardware.com.br/profile/1257251-maikon-leardine/ "Ir ao perfil de maikon leardine")
-        
-        3
-        
-        [Placa de Vídeo fake](https://www.clubedohardware.com.br/forums/topic/1704219-placa-de-v%C3%ADdeo-fake/?do=getNewComment "Placa de Vídeo fake")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [maikon leardine](https://www.clubedohardware.com.br/profile/1257251-maikon-leardine/ "Ir ao perfil de maikon leardine")  
+        [Programação - outros](https://www.clubedohardware.com.br/forums/forum/182-programa%C3%A7%C3%A3o-outros/ "Programação - outros")  
+        Por [GENECIOFICIAL](https://www.clubedohardware.com.br/profile/1136161-genecioficial/ "Ir ao perfil de GENECIOFICIAL")  
         19 minutos atrás
         
-    * [![Lioni](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/full.thumb.jpg.ddfc40aa353ad7a815cc9f50b22d6c82.jpg)](https://www.clubedohardware.com.br/profile/1253369-lioni/ "Ir ao perfil de Lioni")
+    * [![Fabricio santiago](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/imported-photo-1250550.thumb.png.80551c31e31e32ac8aeac822136e5e19.png)](https://www.clubedohardware.com.br/profile/1250550-fabricio-santiago/ "Ir ao perfil de Fabricio santiago")
         
         0
         
-        [Alternativas de gabinete ao Montech Air 903](https://www.clubedohardware.com.br/forums/topic/1704218-alternativas-de-gabinete-ao-montech-air-903/?do=getNewComment "Alternativas de gabinete ao Montech Air 903")
+        [Qual Controladora necessária para NZXT H9 FLOW, e onde acho as outras fãn?](https://www.clubedohardware.com.br/forums/topic/1704284-qual-controladora-necess%C3%A1ria-para-nzxt-h9-flow-e-onde-acho-as-outras-f%C3%A3n/?do=getNewComment "Qual Controladora necessária para NZXT H9 FLOW, e onde acho as outras fãn?")
         
         [Gabinetes e casemod](https://www.clubedohardware.com.br/forums/forum/81-gabinetes-e-casemod/ "Gabinetes e casemod")  
-        Por [Lioni](https://www.clubedohardware.com.br/profile/1253369-lioni/ "Ir ao perfil de Lioni")  
-        24 minutos atrás
+        Por [Fabricio santiago](https://www.clubedohardware.com.br/profile/1250550-fabricio-santiago/ "Ir ao perfil de Fabricio santiago")  
+        22 minutos atrás
         
-    * [![DaviPc_Dream](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257250.thumb.png.6754222f857fb6eae7ede5e54e23af99.png)](https://www.clubedohardware.com.br/profile/1257250-davipc_dream/ "Ir ao perfil de DaviPc_Dream")
+    * [![Leob1](https://www.clubedohardware.com.br/uploads/members/monthly_2024_05/imported-photo-1246114.thumb.png.297a8173aaec954f1bfbdc25aa48bb5d.png)](https://www.clubedohardware.com.br/profile/1246114-leob1/ "Ir ao perfil de Leob1")
         
-        1
+        0
         
-        [Vocês poderiam me dizer se essa é uma boa combinação?](https://www.clubedohardware.com.br/forums/topic/1704217-voc%C3%AAs-poderiam-me-dizer-se-essa-%C3%A9-uma-boa-combina%C3%A7%C3%A3o/?do=getNewComment "Vocês poderiam me dizer se essa é uma boa combinação?")
+        [Deitei meu pc e o watercooler parece q parou de funcionar](https://www.clubedohardware.com.br/forums/topic/1704283-deitei-meu-pc-e-o-watercooler-parece-q-parou-de-funcionar/?do=getNewComment "Deitei meu pc e o watercooler parece q parou de funcionar")
         
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [DaviPc\_Dream](https://www.clubedohardware.com.br/profile/1257250-davipc_dream/ "Ir ao perfil de DaviPc_Dream")  
-        26 minutos atrás
+        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
+        Por [Leob1](https://www.clubedohardware.com.br/profile/1246114-leob1/ "Ir ao perfil de Leob1")  
+        25 minutos atrás
         
-    * [![Pery125](https://www.clubedohardware.com.br/uploads/members/monthly_2022_10/imported-photo-1205070.thumb.png.e92ebd475bf1e5034722132c3daee804.png)](https://www.clubedohardware.com.br/profile/1205070-pery125/ "Ir ao perfil de Pery125")
+    * [![Giovanni_rodrigues](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/Victor_von_Doom_(Terra-616).thumb.jpg.f0cf6fd770e6bc7fe44c66c1cac877da.jpg)](https://www.clubedohardware.com.br/profile/1248596-giovanni_rodrigues/ "Ir ao perfil de Giovanni_rodrigues")
         
         2
         
-        [Dicas de como melhorar o setup](https://www.clubedohardware.com.br/forums/topic/1704215-dicas-de-como-melhorar-o-setup/?do=getNewComment "Dicas de como melhorar o setup")
+        [Qual o melhor mouse gamer na minha situação](https://www.clubedohardware.com.br/forums/topic/1704282-qual-o-melhor-mouse-gamer-na-minha-situa%C3%A7%C3%A3o/?do=getNewComment "Qual o melhor mouse gamer na minha situação")
         
-        [Recomendações de lojas e serviços](https://www.clubedohardware.com.br/forums/forum/12-recomenda%C3%A7%C3%B5es-de-lojas-e-servi%C3%A7os/ "Recomendações de lojas e serviços")  
-        Por [Pery125](https://www.clubedohardware.com.br/profile/1205070-pery125/ "Ir ao perfil de Pery125")  
+        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
+        Por [Giovanni\_rodrigues](https://www.clubedohardware.com.br/profile/1248596-giovanni_rodrigues/ "Ir ao perfil de Giovanni_rodrigues")  
+        35 minutos atrás
+        
+    * [![Anderson Sufiati](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255933.thumb.png.c16a61f727bccb2cdb20f1fb3b732308.png)](https://www.clubedohardware.com.br/profile/1255933-anderson-sufiati/ "Ir ao perfil de Anderson Sufiati")
+        
+        6
+        
+        [Recomendação de fonte 850W Modular até 550 reais](https://www.clubedohardware.com.br/forums/topic/1704281-recomenda%C3%A7%C3%A3o-de-fonte-850w-modular-at%C3%A9-550-reais/?do=getNewComment "Recomendação de fonte 850W Modular até 550 reais")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [Anderson Sufiati](https://www.clubedohardware.com.br/profile/1255933-anderson-sufiati/ "Ir ao perfil de Anderson Sufiati")  
+        36 minutos atrás
+        
+    * [![ViictorD](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/images.thumb.jpg.f59d20e3fda8f3475cacb337a0a729ed.jpg)](https://www.clubedohardware.com.br/profile/1257270-viictord/ "Ir ao perfil de ViictorD")
+        
+        8
+        
+        [Sugestão Placa de Vídeo](https://www.clubedohardware.com.br/forums/topic/1704280-sugest%C3%A3o-placa-de-v%C3%ADdeo/?do=getNewComment "Sugestão Placa de Vídeo")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [ViictorD](https://www.clubedohardware.com.br/profile/1257270-viictord/ "Ir ao perfil de ViictorD")  
         41 minutos atrás
         
-    * [![henrique andradee](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1257080.thumb.jpeg.00f97016f0e033ef861164ee72d89b7f.jpeg)](https://www.clubedohardware.com.br/profile/1257080-henrique-andradee/ "Ir ao perfil de henrique andradee")
+    * [![Nocts](https://www.clubedohardware.com.br/uploads/members/monthly_2021_08/25909796_caraicuzaum.thumb.jpg.00b8ba75f90344b8ae7e5ef735a6242d.jpg)](https://www.clubedohardware.com.br/profile/873526-nocts/ "Ir ao perfil de Nocts")
         
-        3
+        0
         
-        [Indicação de water cooler - Ryzen 5 7600 e RTX 4060](https://www.clubedohardware.com.br/forums/topic/1704212-indica%C3%A7%C3%A3o-de-water-cooler-ryzen-5-7600-e-rtx-4060/?do=getNewComment "Indicação de water cooler - Ryzen 5 7600 e RTX 4060")
-        
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [henrique andradee](https://www.clubedohardware.com.br/profile/1257080-henrique-andradee/ "Ir ao perfil de henrique andradee")  
-        1 hora atrás
-        
-    * [![BRS_LOC](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1257026.thumb.jpeg.364d431fa25425f2eb4c4e419b0a511d.jpeg)](https://www.clubedohardware.com.br/profile/1257026-brs_loc/ "Ir ao perfil de BRS_LOC")
-        
-        5
-        
-        [Tem como usar a placa-mãe do dell optiplex 7010 em outro gabinete?](https://www.clubedohardware.com.br/forums/topic/1704210-tem-como-usar-a-placa-m%C3%A3e-do-dell-optiplex-7010-em-outro-gabinete/?do=getNewComment "Tem como usar a placa-mãe do dell optiplex 7010 em outro gabinete?")
+        [BIOS para szmz x99-s3](https://www.clubedohardware.com.br/forums/topic/1704279-bios-para-szmz-x99-s3/?do=getNewComment "BIOS para szmz x99-s3")
         
         [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [BRS\_LOC](https://www.clubedohardware.com.br/profile/1257026-brs_loc/ "Ir ao perfil de BRS_LOC")  
-        1 hora atrás
+        Por [Nocts](https://www.clubedohardware.com.br/profile/873526-nocts/ "Ir ao perfil de Nocts")  
+        43 minutos atrás
+        
+    * [![kablle](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254682.thumb.png.59af4e2b4c89c86582d0706207cb925d.png)](https://www.clubedohardware.com.br/profile/1254682-kablle/ "Ir ao perfil de kablle")
+        
+        0
+        
+        [Computador reiniciando sozinho em jogos](https://www.clubedohardware.com.br/forums/topic/1704278-computador-reiniciando-sozinho-em-jogos/?do=getNewComment "Computador reiniciando sozinho em jogos")
+        
+        [Computador reiniciando](https://www.clubedohardware.com.br/forums/forum/121-computador-reiniciando/ "Computador reiniciando")  
+        Por [kablle](https://www.clubedohardware.com.br/profile/1254682-kablle/ "Ir ao perfil de kablle")  
+        44 minutos atrás
+        
+    * [![Matheus G Lima](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1150186.thumb.png.331f9a460a25f8a468f456a20f2df2e7.png)](https://www.clubedohardware.com.br/profile/1150186-matheus-g-lima/ "Ir ao perfil de Matheus G Lima")
+        
+        1
+        
+        [Mapa de pinos do socket Lga1200](https://www.clubedohardware.com.br/forums/topic/1704277-mapa-de-pinos-do-socket-lga1200/?do=getNewComment "Mapa de pinos do socket Lga1200")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [Matheus G Lima](https://www.clubedohardware.com.br/profile/1150186-matheus-g-lima/ "Ir ao perfil de Matheus G Lima")  
+        59 minutos atrás
         
     
 
