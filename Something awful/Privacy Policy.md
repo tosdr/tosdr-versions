@@ -205,25 +205,28 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Beast Forum](https://www.somethingawful.com/weekend-web/beastforum/1/)
-* [Modernized Art](https://www.somethingawful.com/photoshop-phriday/modernized-art/1/)
-* [A Guide to Gracefully Losing an Internet Argument](https://www.somethingawful.com/news/internet-argument-lose/1/)
-* [The Horrible Saga of SWAP.avi](https://www.somethingawful.com/horrors-of-porn/horrible-saga-swapavi/)
-* [Watch out Joe Walsh. Paranoid Fantasy America is coming after you.](https://www.somethingawful.com/news/walsh-threatens-obama/)
+* [Literotica](https://www.somethingawful.com/weekend-web/literotica-forums/1/)
+* [If Life Were More Like Cartoons](https://www.somethingawful.com/comedy-goldmine/life-were-more/1/)
+* [Dungeons & Dragons: Dungeon Module S2 "White Plume Mountain"](https://www.somethingawful.com/dungeons-and-dragons/white-plume-kelpie/1/)
+* [Amusement Park Madness](https://www.somethingawful.com/photoshop-phriday/amusement-park-madness/1/)
+* [Variety Pack #20: More Bully Bitstrips, Bald Celebrities and Bumper Stickers!](https://www.somethingawful.com/photoshop-phriday/bitstrips-bumperstickers-balds/1/)
 
 ### Popular Threads
 
 * ![](https://fi.somethingawful.com/forums/posticons/byob-salt.gif) [What cheap stuff do you prefer over more expensive stuff?](http://forums.somethingawful.com/showthread.php?threadid=4076653 "What cheap stuff do you prefer over more expensive stuff?")
-* ![](https://fi.somethingawful.com/forums/posticons/diy-homeimprove.gif) [Fantasy Team the Best/Worst/Funniest Sitcom Cast](http://forums.somethingawful.com/showthread.php?threadid=4076624 "Fantasy Team the Best/Worst/Funniest Sitcom Cast")
 * ![](https://fi.somethingawful.com/forums/posticons/cd_action.gif) [Did Somebody Shoot My Car?](http://forums.somethingawful.com/showthread.php?threadid=4076669 "Did Somebody Shoot My Car?")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-grumpy.gif) [What do I get my teenage kids for Christmas?](http://forums.somethingawful.com/showthread.php?threadid=4076684 "What do I get my teenage kids for Christmas?")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/unfunny.png) [I made up some terrible jokes!](http://forums.somethingawful.com/showthread.php?threadid=4076679 "I made up some terrible jokes!")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-shocking.gif) [There's this weird little forum advertising here](http://forums.somethingawful.com/showthread.php?threadid=4076689 "There's this weird little forum advertising here")
+* ![](https://fi.somethingawful.com/forums/posticons/tfr-box.gif) [Which emojis should they add (or remove)?](http://forums.somethingawful.com/showthread.php?threadid=4076694 "Which emojis should they add (or remove)?")
 
 ### Random Articles
 
-* [Pocket Ninjas: FIRST STRIKE!](https://www.somethingawful.com/news/pocket-ninjas-first/)
-* [Five Years :(](https://www.somethingawful.com/mooflogs/five-years/)
-* [Subj: LITTLE PROBLEMS...](https://www.somethingawful.com/news/roamin-dad-29/)
-* [WhaleRider](https://www.somethingawful.com/awful-links/awful-link-1184/)
-* [MENSA Mission: 2005 AD](https://www.somethingawful.com/news/mensa-mission-2005/)
+* [Maxssession](https://www.somethingawful.com/awful-links/awful-link-1752/)
+* [Obamarama!](https://www.somethingawful.com/weekend-web/obama-rama/1/)
+* [Pitfall!: The Movie Part II](https://www.somethingawful.com/news/pitfall-movie-part/)
+* [K. Hawk - Survival Instinct](https://www.somethingawful.com/game-reviews/hawk-survival-instinct/1/)
+* [E3 2007 News Roundup!](https://www.somethingawful.com/news/e3-2007-sucks/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
