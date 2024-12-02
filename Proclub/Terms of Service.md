@@ -12,13 +12,13 @@ call bellevue
 
 [(425) 885-5566](tel:4258855566)
 
-call bellevue
+text bellevue
 
-[(425) 885-5566](tel:4258855566)
+[(425) 364-4500](tel:4253644500)
 
-call bellevue
+call seattle
 
-[(425) 885-5566](tel:4258855566)
+[(206) 332-1873](tel:2063321873)
 
 [join pro](https://www.proclub.com/club/join)[sign in](http://bayclubconnect.com/)
 
@@ -34,7 +34,7 @@ call bellevue
 
 [youth](https://www.proclub.com/club/youth)
 
-[after school care](#)[birthday parties](#)[camps](#)[child care](#)[family events](#)[kids zone](#)[preschool](#)[youth fitness](#)[youth sports](#)
+[after school care](https://www.proclub.com/club/youth/after-school-care)[birthday parties](https://www.proclub.com/club/youth/birthday-parties)[camps](https://www.proclub.com/club/youth/camps)[child care](https://www.proclub.com/club/youth/child-care)[family events](https://www.proclub.com/club/youth/family-events)[kids zone](https://www.proclub.com/club/youth/kids-zone)[preschool](https://www.proclub.com/club/youth/learning-academy)[youth fitness](https://www.proclub.com/club/youth/youth-fitness)[youth sports](https://www.proclub.com/club/youth/youth-sports)
 
 [spa & salon](https://www.proclub.com/club/the-spa)
 
