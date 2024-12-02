@@ -49,10 +49,10 @@
         * [Blog](https://www.watermarkinsights.com/resources/blog)
         * [On-demand demos](https://www.watermarkinsights.com/resources/watermark-solution-tours)
         * [Webinars](https://www.watermarkinsights.com/resources/webinars)
-        * [Case studies](https://resources.watermarkinsights.com/share/D1C0C4BB-8B56-44FA-AB6006B3F6EDB87D/?viewType=grid)
-        * [eBooks & guides](https://resources.watermarkinsights.com/share/2233DA0D-0E7F-4A2F-8B04CC564A961F3D/?viewType=grid)
-        * [Reports](https://resources.watermarkinsights.com/share/377FE2EA-D921-4CF7-85687B0B6DFC6885/?viewType=grid)
-        * [Videos](https://resources.watermarkinsights.com/share/22FCF7C3-069E-4A06-929232E072980D01/?viewType=grid)
+        * [Case studies](https://www.watermarkinsights.com/resources/case-studies/)
+        * [eBooks & guides](https://www.watermarkinsights.com/resources/ebooks-guides/)
+        * [Reports](https://www.watermarkinsights.com/resources/reports/)
+        * [Videos](https://www.watermarkinsights.com/resources/videos/)
     * * ### Watermark Demo Week: Dec 10-12
             
             [Register now](https://event.on24.com/wcc/r/4778730/8F65A6CA0DF8F6763C63BEDFBF342BF4/5828487 "Read now")
@@ -136,10 +136,10 @@
         * [Blog](https://www.watermarkinsights.com/resources/blog)
         * [On-demand demos](https://www.watermarkinsights.com/resources/watermark-solution-tours)
         * [Webinars](https://www.watermarkinsights.com/resources/webinars)
-        * [Case studies](https://resources.watermarkinsights.com/share/D1C0C4BB-8B56-44FA-AB6006B3F6EDB87D/?viewType=grid)
-        * [eBooks & guides](https://resources.watermarkinsights.com/share/2233DA0D-0E7F-4A2F-8B04CC564A961F3D/?viewType=grid)
-        * [Reports](https://resources.watermarkinsights.com/share/377FE2EA-D921-4CF7-85687B0B6DFC6885/?viewType=grid)
-        * [Videos](https://resources.watermarkinsights.com/share/22FCF7C3-069E-4A06-929232E072980D01/?viewType=grid)
+        * [Case studies](https://www.watermarkinsights.com/resources/case-studies/)
+        * [eBooks & guides](https://www.watermarkinsights.com/resources/ebooks-guides/)
+        * [Reports](https://www.watermarkinsights.com/resources/reports/)
+        * [Videos](https://www.watermarkinsights.com/resources/videos/)
     * * ### Watermark Demo Week: Dec 10-12
             
             [Register now](https://event.on24.com/wcc/r/4778730/8F65A6CA0DF8F6763C63BEDFBF342BF4/5828487 "Read now")
