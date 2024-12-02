@@ -299,6 +299,22 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![На выборах в прошедшее воскресенье кандидаты от «Единой России» получили 88% мандатов](https://cdn.er.ru/media/news/December2024/mbTIt4TVmAgaWzxVN2lD-small.jpg)](https://er.ru/activity/news/na-vyborah-v-proshedshee-voskresene-kandidaty-ot-edinoj-rossii-poluchili-88-mandatov)
+
+[На выборах в прошедшее воскресенье кандидаты от «Единой России» получили 88% мандатов](https://er.ru/activity/news/na-vyborah-v-proshedshee-voskresene-kandidaty-ot-edinoj-rossii-poluchili-88-mandatov)
+
+[#выборы в ОМСУ](https://er.ru/activity/news?tags%5B0%5D=29588) [#Алтайский край](https://er.ru/activity/news?tags%5B0%5D=514) [#Пермский край](https://er.ru/activity/news?tags%5B0%5D=1082) [#Республика Саха (Якутия)](https://er.ru/activity/news?tags%5B0%5D=6911) [#Республика Татарстан](https://er.ru/activity/news?tags%5B0%5D=2434) [#Пензенская область](https://er.ru/activity/news?tags%5B0%5D=806)
+
+Сегодня 11:18
+
+[![«Единая Россия» проведёт декаду приёмов граждан в честь Дня рождения партии](https://cdn.er.ru/media/news/December2024/HXIgvVxut5KzX3CmVD5Q-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-provedyot-dekadu-priyomov-grazhdan-v-chest-dnya-rozhdeniya-partii)
+
+[«Единая Россия» проведёт декаду приёмов граждан в честь Дня рождения партии](https://er.ru/activity/news/edinaya-rossiya-provedyot-dekadu-priyomov-grazhdan-v-chest-dnya-rozhdeniya-partii)
+
+[#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#декадаприемовграждан](https://er.ru/activity/news?tags%5B0%5D=141562) [#приемграждан](https://er.ru/activity/news?tags%5B0%5D=103849) [#ДеньРожденияПартииЕдинаяРоссия](https://er.ru/activity/news?tags%5B0%5D=141944) [#ДеньрожденияПартии](https://er.ru/activity/news?tags%5B0%5D=1090865) [#обращенияграждан](https://er.ru/activity/news?tags%5B0%5D=111482) [#приемная](https://er.ru/activity/news?tags%5B0%5D=640) [#штабобщественнойподдержки](https://er.ru/activity/news?tags%5B0%5D=1092101)
+
+Сегодня 09:00
+
 [![Борис Грызлов: «Единая Россия» помогает всем партиям РФ соответствовать требованиям народа](https://cdn.er.ru/media/news/December2024/VaPxSdb487JfdhZPjfA2-small.jpg)](https://er.ru/activity/news/boris-gryzlov-edinaya-rossiya-pomogaet-vsem-partiyam-rf-sootvetstvovat-trebovaniyam-naroda)
 
 [Борис Грызлов: «Единая Россия» помогает всем партиям РФ соответствовать требованиям народа](https://er.ru/activity/news/boris-gryzlov-edinaya-rossiya-pomogaet-vsem-partiyam-rf-sootvetstvovat-trebovaniyam-naroda)
@@ -328,22 +344,6 @@
 [Университет науки и технологий МИСИС стал новым партнёром проекта «Единой России» «Менделеевская карта»](https://er.ru/activity/news/universitet-nauki-i-tehnologij-misis-stal-novym-partnyorom-proekta-edinoj-rossii-mendeleevskaya-karta)
 
 [#Мажуга](https://er.ru/activity/news?tags%5B0%5D=1091855) [#Менделеевскаякарта](https://er.ru/activity/news?tags%5B0%5D=1093824) [#наука](https://er.ru/activity/news?tags%5B0%5D=354) [#ученые](https://er.ru/activity/news?tags%5B0%5D=1314) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889) [#студенты](https://er.ru/activity/news?tags%5B0%5D=186)
-
-29.11.24
-
-[![«Единая Россия» представила на Конгрессе в Сириусе второй рейтинг регионов по мерам поддержки молодых учёных](https://cdn.er.ru/media/news/November2024/VK3ADRGzhZiCFaEgbvvc-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-predstavila-na-kongresse-v-siriuse-vtoroj-rejting-regionov-po-meram-podderzhki-molodyh-uchyonyh)
-
-[«Единая Россия» представила на Конгрессе в Сириусе второй рейтинг регионов по мерам поддержки молодых учёных](https://er.ru/activity/news/edinaya-rossiya-predstavila-na-kongresse-v-siriuse-vtoroj-rejting-regionov-po-meram-podderzhki-molodyh-uchyonyh)
-
-[#Мажуга](https://er.ru/activity/news?tags%5B0%5D=1091855) [#молодыеученые](https://er.ru/activity/news?tags%5B0%5D=127906) [#мерыподдержки](https://er.ru/activity/news?tags%5B0%5D=147555) [#наука](https://er.ru/activity/news?tags%5B0%5D=354) [#рейтинг](https://er.ru/activity/news?tags%5B0%5D=179) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
-
-29.11.24
-
-[![В Москве при поддержке «Единой России» прошёл ХI Международный фестиваль школьного спорта среди государств – участников Содружества Независимых Государств](https://cdn.er.ru/media/news/November2024/IQQD890ic420a3TEXVJi-small.jpg)](https://er.ru/activity/news/v-moskve-pri-podderzhke-edinoj-rossii-proshyol-hi-mezhdunarodnyj-festival-shkolnogo-sporta-sredi-gosudarstv-uchastnikov-sodruzhestva-nezavisimyh-gosudarstv)
-
-[В Москве при поддержке «Единой России» прошёл ХI Международный фестиваль школьного спорта среди государств – участников Содружества Независимых Государств](https://er.ru/activity/news/v-moskve-pri-podderzhke-edinoj-rossii-proshyol-hi-mezhdunarodnyj-festival-shkolnogo-sporta-sredi-gosudarstv-uchastnikov-sodruzhestva-nezavisimyh-gosudarstv)
-
-[#Роднина](https://er.ru/activity/news?tags%5B0%5D=2239) [#Москва](https://er.ru/activity/news?tags%5B0%5D=255) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#ДетскийСпорт](https://er.ru/activity/news?tags%5B0%5D=1091126) [#соревнования](https://er.ru/activity/news?tags%5B0%5D=1175) [#состязания](https://er.ru/activity/news?tags%5B0%5D=39929) [#фестиваль](https://er.ru/activity/news?tags%5B0%5D=1671) [#СНГ](https://er.ru/activity/news?tags%5B0%5D=747)
 
 29.11.24
 
