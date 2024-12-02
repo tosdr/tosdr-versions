@@ -20,17 +20,14 @@
     
     [Mass Customization](https://craftbot.com/mass-customization) [Slicer Customization](https://craftbot.com/slicer-customization)
     
-* [articles](#)
-    
-    [Case studies](https://craftbot.com/casestudies) [News](https://craftbot.com/articles)
-    
+* [case studies](https://craftbot.com/casestudies)
 * [support](#)
     
     [knowledge base](https://help.craftbot.com/) [open a ticket](https://support.craftbot.com/support/tickets/new) [forum](https://help.craftbot.com/forum) [firmware](https://craftbot.com/firmware) [craftprint](https://craftbot.com/firmware/craftprint)
     
 * [about us](https://craftbot.com/About/OurTeam)
     
-    [Career](https://craftbot.com/career) [Our Team](https://craftbot.com/About/OurTeam) [Our Company](https://craftbot.com/About/OurCompany) [Our Impact](https://craftbot.com/About/OurImpact) [Our Partners](https://craftbot.com/partners)
+    [Our Team](https://craftbot.com/About/OurTeam) [Our Company](https://craftbot.com/About/OurCompany) [Our Impact](https://craftbot.com/About/OurImpact) [Our Partners](https://craftbot.com/partners)
     
 * [account](https://craftbot.com/Me)
 
@@ -1398,7 +1395,6 @@ The Customer has the right to approve data management by the Data Controller onl
 * [support](https://support.craftbot.com/)
 * [about](https://craftbot.com/about)
 
-* [career](https://craftbot.com/career)
 * [our team](https://craftbot.com/About/OurTeam)
 * [our company](https://craftbot.com/About/OurCompany)
 * [our impact](https://craftbot.com/About/OurImpact)
