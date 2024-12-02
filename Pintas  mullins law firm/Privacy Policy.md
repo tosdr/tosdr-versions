@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Name
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Can mesothelioma be benign?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-can-mesothelioma-be-benign-scaled.jpg "Can Mesothelioma Be Benign?")](https://www.pintas.com/lung-cancer/can-mesothelioma-be-benign/ "Can Mesothelioma Be Benign?")
+[![Can mesothelioma go into remission?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-can-mesothelioma-go-into-remission.jpg "Can Mesothelioma Go Into Remission?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-mesothelioma-go-into-remission/ "Can Mesothelioma Go Into Remission?")
 
-[#### Can Mesothelioma Be Benign?](https://www.pintas.com/lung-cancer/can-mesothelioma-be-benign/)
+[#### Can Mesothelioma Go Into Remission?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-mesothelioma-go-into-remission/)
 
-[![What evidence do you need to sue a nursing home?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-evidence-do-you-need-to-sue-a-nursing-home-scaled.jpg "What Evidence Do You Need to Sue a Nursing Home?")](https://www.pintas.com/faq/what-evidence-do-you-need-to-sue-a-nursing-home/ "What Evidence Do You Need to Sue a Nursing Home?")
+[![Can you sue an insurance company without a lawyer?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-can-you-sue-an-insurance-company-without-a-lawyer-scaled.jpg "Can You Sue an Insurance Company Without a Lawyer?")](https://www.pintas.com/faq/can-you-sue-an-insurance-company-without-a-lawyer/ "Can You Sue an Insurance Company Without a Lawyer?")
 
-[#### What Evidence Do You Need to Sue a Nursing Home?](https://www.pintas.com/faq/what-evidence-do-you-need-to-sue-a-nursing-home/)
+[#### Can You Sue an Insurance Company Without a Lawyer?](https://www.pintas.com/faq/can-you-sue-an-insurance-company-without-a-lawyer/)
 
-[![How do doctors check for mesothelioma lung cancer?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-how-do-doctors-check-for-mesothelioma-lung-cancer-scaled.jpg "How Do Doctors Check for Mesothelioma Lung Cancer?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-do-doctors-check-for-mesothelioma-lung-cancer/ "How Do Doctors Check for Mesothelioma Lung Cancer?")
+[![What does mesothelioma do to the lungs?](https://www.pintas.com/wp-content/uploads/2020/05/mesothelioma-what-does-mesothelioma-do-to-the-lungs.jpg "What Does Mesothelioma Do to the Lungs?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-does-mesothelioma-do-to-the-lungs/ "What Does Mesothelioma Do to the Lungs?")
 
-[#### How Do Doctors Check for Mesothelioma Lung Cancer?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-do-doctors-check-for-mesothelioma-lung-cancer/)
+[#### What Does Mesothelioma Do to the Lungs?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-does-mesothelioma-do-to-the-lungs/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
