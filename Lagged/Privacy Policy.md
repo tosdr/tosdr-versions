@@ -209,13 +209,13 @@ Popular game categories
 
 *  [![Animal Games](https://imgs2.dab3games.com/two-cats-duet-ft44.png) Animal Games431 games](https://lagged.com/en/animal "Animal Games")
 *  [![Arcade Games](https://imgs2.dab3games.com/tiktok-202531.png) Arcade Games1,642 games](https://lagged.com/en/arcade "Arcade Games")
-*  [![Car Games](https://imgs2.dab3games.com/shapeshiftrace-ft34.png) Car Games426 games](https://lagged.com/en/car "Car Games")
+*  [![Car Games](https://imgs2.dab3games.com/shapeshiftrace-ft34.png) Car Games427 games](https://lagged.com/en/car "Car Games")
 *  [![Football Games](https://imgs2.dab3games.com/super-bowl-test-ft1084.png) Football Games67 games](https://lagged.com/en/football "Football Games")
 *  [![Funny Games](https://imgs2.dab3games.com/blob-opera-game.png) Funny Games808 games](https://lagged.com/en/funny "Funny Games")
 *  [![Girl Games](https://imgs2.dab3games.com/bikiniforlove-ft50.png) Girl Games796 games](https://lagged.com/en/girl "Girl Games")
-*  [![Puzzle Games](https://imgs2.dab3games.com/ragdollbreak-ft1135.png) Puzzle Games2,366 games](https://lagged.com/en/puzzle "Puzzle Games")
+*  [![Puzzle Games](https://imgs2.dab3games.com/ragdollbreak-ft1135.png) Puzzle Games2,378 games](https://lagged.com/en/puzzle "Puzzle Games")
 *  [![Solitaire Games](https://imgs2.dab3games.com/klondike-solitair-game969.png) Solitaire Games59 games](https://lagged.com/en/solitaire "Solitaire Games")
-*  [![Two Player Games](https://imgs2.dab3games.com/backrooms-escape-1-ft121.png) Two Player Games321 games](https://lagged.com/en/two-player "Two Player Games")
+*  [![Two Player Games](https://imgs2.dab3games.com/backrooms-escape-1-ft121.png) Two Player Games322 games](https://lagged.com/en/two-player "Two Player Games")
 *  [![Weird Games](https://imgs2.dab3games.com/choir-game.png) Weird Games66 games](https://lagged.com/en/weird "Weird Games")
 
 Games you might like
@@ -235,9 +235,9 @@ Games you might like
 
 [Ragdoll Playground](https://lagged.com/en/g/ragdoll-playground) ![Ragdoll Playground Game](https://imgs2.dab3games.com/ragdollbreak-ft1135.png)
 
-[Ice Cream Stack Run](https://lagged.com/en/g/ice-cream-stack-run) ![Ice Cream Stack Run Game](https://imgs2.dab3games.com/ice-cream-stack-run29.png) top rated
-
 [Magic Piano Tiles](https://lagged.com/en/g/magic-piano-tiles) ![Magic Piano Tiles Game](https://imgs2.dab3games.com/magic-piano-tiles-ft17.png)
+
+[Ice Cream Stack Run](https://lagged.com/en/g/ice-cream-stack-run) ![Ice Cream Stack Run Game](https://imgs2.dab3games.com/ice-cream-stack-run29.png) top rated
 
 [Toilet Race](https://lagged.com/en/g/toilet-race) ![Toilet Race Game](https://imgs2.dab3games.com/toilet-race-game-big.png)
 
@@ -249,9 +249,9 @@ Games you might like
 
 [Lemon Opera](https://lagged.com/en/g/lemon-opera) ![Lemon Opera Game](https://imgs2.dab3games.com/lemon-opera-ft.png)
 
-[Sandwich Runner](https://lagged.com/en/g/sandwich-runner) ![Sandwich Runner Game](https://imgs2.dab3games.com/sandwhich-runner-game-ft.png)
-
 [Cat Disco](https://lagged.com/en/g/cat-disco) ![Cat Disco Game](https://imgs2.dab3games.com/dancing-cats-ft2.png)
+
+[Sandwich Runner](https://lagged.com/en/g/sandwich-runner) ![Sandwich Runner Game](https://imgs2.dab3games.com/sandwhich-runner-game-ft.png)
 
 [Lagged.com](https://lagged.com/ "Lagged.com")
 
