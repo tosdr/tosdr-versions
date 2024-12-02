@@ -247,8 +247,6 @@ Seller Name
 
 [Save](#)
 
-BLACK FRIDAY ON NOW!
-
 Privacy Policy
 ==============
 
