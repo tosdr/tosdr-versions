@@ -265,7 +265,7 @@ If for some reason you believe this site has not adhered to these principles, pl
 [UV Alerts](https://www.cpc.ncep.noaa.gov/products/stratosphere/uv_index/uv_alert.shtml)  
 [Drought](https://www.drought.gov/)  
 [Space Weather](https://www.swpc.noaa.gov/products/alerts-watches-and-warnings)  
-[NOAA Weather Radio](https://www.weather.gov/nwr)  
+[NOAA Weather Radio](https://www.weather.gov/nwr/)  
 [NWS CAP Feeds](https://alerts.weather.gov/)  
 
 [PAST WEATHER](https://www.weather.gov/wrh/climate)  
@@ -305,7 +305,7 @@ If for some reason you believe this site has not adhered to these principles, pl
 [Aviation Weather](https://aviationweather.gov/)  
 [Climatic Outlook](https://www.cpc.ncep.noaa.gov/products/OUTLOOKS_index.shtml)  
 
-[INFORMATION CENTER](https://www.weather.gov/informationcenter)  
+[INFORMATION CENTER](https://www.weather.gov/informationcenter/)  
 [Space Weather](https://www.spaceweather.gov/)  
 [Daily Briefing](https://www.weather.gov/briefing/)  
 [Marine](https://www.weather.gov/marine/)  
@@ -323,7 +323,7 @@ If for some reason you believe this site has not adhered to these principles, pl
 
 [WEATHER SAFETY](https://weather.gov/safety)  
 [NOAA Weather Radio](https://www.weather.gov/nwr/)  
-[StormReady](https://www.weather.gov/stormready)  
+[StormReady](https://www.weather.gov/stormready/)  
 [Heat](https://www.weather.gov/safety/heat)  
 [Lightning](https://www.weather.gov/safety/lightning)  
 [Hurricanes](https://www.nhc.noaa.gov/prepare/)  
@@ -336,14 +336,14 @@ If for some reason you believe this site has not adhered to these principles, pl
 [Winter Weather](https://www.weather.gov/safety/winter)  
 [Ultra Violet Radiation](https://www.weather.gov/safety/heat-uv)  
 [Air Quality](https://airquality.weather.gov/)  
-[Damage/Fatality/Injury Statistics](https://www.weather.gov/hazstat)  
+[Damage/Fatality/Injury Statistics](https://www.weather.gov/hazstat/)  
 [Red Cross](http://www.redcross.org/)  
 [Federal Emergency Management Agency (FEMA)](http://www.fema.gov/)  
 [Brochures](https://www.weather.gov/owlie/publication_brochures)  
 [Safe Boating](https://www.weather.gov/safety/safeboating)  
 
 [NEWS](https://weather.gov/news)  
-[Newsroom](https://weather.gov/news)  
+[Newsroom](https://weather.gov/news/)  
 [Events](https://www.weather.gov/wrn/calendar)  
 [Pubs/Brochures/Booklets](https://www.weather.gov/owlie/publication_brochures)  
 
@@ -359,7 +359,7 @@ If for some reason you believe this site has not adhered to these principles, pl
 [Brochures](http://www.weather.gov/owlie/publication_brochures)  
 
 [ABOUT](https://www.weather.gov/about/)  
-[Organization](https://www.weather.gov/organization)  
+[Organization](https://www.weather.gov/organization/)  
 [NWS Transformation](https://www.noaa.gov/NWStransformation)  
 [Strategic Plan](https://www.weather.gov/media/wrn/NWS-2023-Strategic-Plan.pdf)  
 [For NWS Employees](https://www.weather.gov/insider)  
