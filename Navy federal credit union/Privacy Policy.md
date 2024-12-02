@@ -45,7 +45,7 @@ Please enter a search term
             * [Freeze/Unfreeze Card](https://www.navyfederal.org/services/mobile-online-banking/card-management/freeze-unfreeze-card.html)
             * [Make Payment](https://www.navyfederal.org/loans-cards/credit-cards/cardholder-resources/making-credit-card-payments.html)
             * [Redeem Rewards](https://www.navyfederal.org/loans-cards/credit-cards/cardholder-resources/redeem-rewards.html)
-        * [Cardholder Resources](https://www.navyfederal.org/loans-cards/credit-cards/credit-card-basics.html)
+        * [Cardholder Resources](https://www.navyfederal.org/loans-cards/credit-cards/cardholder-resources.html)
             * [Credit Card Learning Center](https://www.navyfederal.org/loans-cards/credit-cards/credit-card-basics.html)
             * [Credit Card FAQs](https://www.navyfederal.org/loans-cards/credit-cards/faqs.html)
         
@@ -156,13 +156,13 @@ Please enter a search term
             * [Manage Digital Investor Account](https://digitalinvestor.navyfederal.org/#/login)
         * * [Find an Advisor](https://www.navyfederal.org/investment-services/contact.html)
         
-        [![A mother and daughter are lying on their tummies on the floor reading a book together, while dad and their son are watching a digital screen in the background](https://dm-assets.navyfederal.org/is/image/nfcu/gettyimages-1527900211?qlt=80&ts=1732202862285&dpr=off "1527900211")
+        [![A mother and daughter are lying on their tummies on the floor reading a book together, while dad and their son are watching a digital screen in the background](https://dm-assets.navyfederal.org/is/image/nfcu/gettyimages-1527900211?qlt=80&ts=1733158161836&dpr=off "1527900211")
         
         ### Simplifying Investing—for Beginners to Pros
         
         In as little as 10 minutes, you could be investing with Digital Investor’s automated or self-directed tools. Want personalized guidance? Our financial advisors can help you create an investing strategy that matches your needs and preferences.](https://www.navyfederal.org/investment-services/investments.html?intcmp=nfo|nav||nfis|invst|menu|02242024||investments|)
         
-        [![Smiling young couple using laptop while having coffee at table in cottage](https://dm-assets.navyfederal.org/is/image/nfcu/gettyimages-4995505311?qlt=80&ts=1732202862285&dpr=off "499550531")
+        [![Smiling young couple using laptop while having coffee at table in cottage](https://dm-assets.navyfederal.org/is/image/nfcu/gettyimages-4995505311?qlt=80&ts=1733158161836&dpr=off "499550531")
         
         ### 7 Investing Strategies to Multiply Your Earnings
         
