@@ -464,6 +464,10 @@ Revised June 1, 2022
 
 * Editors' Picks
 
+[Don’t worry, you can still use your Japan health insurance card — for now](https://www.japantimes.co.jp/news/2024/12/01/japan/explainer/my-number-insurance-card-explainer/ "Don’t worry, you can still use your Japan health insurance card — for now")
+
+  [![A My Number card reader at a pediatric clinic in Tokyo. While the government will stop issuing new health insurance cards on Monday, most people will remain unaffected by the move in the short term as existing health insurance cards can still be used for another year.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/01/437264.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A My Number card reader at a pediatric clinic in Tokyo. While the government will stop issuing new health insurance cards on Monday, most people will remain unaffected by the move in the short term as existing health insurance cards can still be used for another year.")](https://www.japantimes.co.jp/news/2024/12/01/japan/explainer/my-number-insurance-card-explainer/ "Don’t worry, you can still use your Japan health insurance card — for now")
+
 [Pete Hegseth’s mother accused her son of mistreating women for years](https://www.japantimes.co.jp/news/2024/11/30/world/politics/pete-hegseth-mistreating-women-mother/ "Pete Hegseth’s mother accused her son of mistreating women for years")
 
   [![Pete Hegseth, U.S. President-elect Donald Trump's nominee to be secretary of defense, speaks to reporters at the Russell Senate Office Building in Washington on Nov. 21. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/30/437311.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Pete Hegseth, U.S. President-elect Donald Trump's nominee to be secretary of defense, speaks to reporters at the Russell Senate Office Building in Washington on Nov. 21. ")](https://www.japantimes.co.jp/news/2024/11/30/world/politics/pete-hegseth-mistreating-women-mother/ "Pete Hegseth’s mother accused her son of mistreating women for years")
@@ -472,17 +476,13 @@ Revised June 1, 2022
 
   [![Wealthy people in Japan failed to declare a total of ¥65.5 billion in taxable income in the year through June, down 33.2% from the year before, a National Tax Agency report showed Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/30/437296.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Wealthy people in Japan failed to declare a total of ¥65.5 billion in taxable income in the year through June, down 33.2% from the year before, a National Tax Agency report showed Friday.")](https://www.japantimes.co.jp/news/2024/11/30/japan/japan-wealthy-fail-declare/ "Japan's wealthy fail to declare ¥65.5 billion in income")
 
+[Trump demands ‘commitment’ from BRICS nations on using dollar](https://www.japantimes.co.jp/business/2024/12/01/trump-bricsdollar/ "Trump demands ‘commitment’ from BRICS nations on using dollar")
+
+  [![U.S. President-elect Donald Trump on the campaign trail pledged that he would make it costly for countries to move away from the U.S. dollar. And he’s threatened to use tariffs to ensure they complied.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/01/437352.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "U.S. President-elect Donald Trump on the campaign trail pledged that he would make it costly for countries to move away from the U.S. dollar. And he’s threatened to use tariffs to ensure they complied.")](https://www.japantimes.co.jp/business/2024/12/01/trump-bricsdollar/ "Trump demands ‘commitment’ from BRICS nations on using dollar")
+
 [Princess Aiko, only child of emperor, turns 23](https://www.japantimes.co.jp/news/2024/12/01/japan/princess-aiko-turns-23/ "Princess Aiko, only child of emperor, turns 23")
 
   [![Princess Aiko on Nov. 22 ahead of her 23rd birthday on Sunday at the Imperial Palace](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/01/437345.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Aiko on Nov. 22 ahead of her 23rd birthday on Sunday at the Imperial Palace")](https://www.japantimes.co.jp/news/2024/12/01/japan/princess-aiko-turns-23/ "Princess Aiko, only child of emperor, turns 23")
-
-[Japan researchers develop a simple way to spot signs of Alzheimer's disease](https://www.japantimes.co.jp/news/2024/11/28/japan/science-health/keio-university-alzheimers/ "Japan researchers develop a simple way to spot signs of Alzheimer's disease")
-
-  [![In 2022, the number of elderly people with dementia in Japan reached 4.43 million, according to data from the health ministry. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/28/436797.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "In 2022, the number of elderly people with dementia in Japan reached 4.43 million, according to data from the health ministry. ")](https://www.japantimes.co.jp/news/2024/11/28/japan/science-health/keio-university-alzheimers/ "Japan researchers develop a simple way to spot signs of Alzheimer's disease")
-
-[BOJ's Ueda says rate hike timing 'approaching,' Nikkei reports](https://www.japantimes.co.jp/business/2024/11/30/economy/boj-ueda-rate-hike-timing/ "BOJ's Ueda says rate hike timing 'approaching,' Nikkei reports")
-
-  [![Bank of Japan Gov. Kazuo Ueda attends a news conference after a policy meeting in Tokyo on Oct. 31.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/30/437301.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Bank of Japan Gov. Kazuo Ueda attends a news conference after a policy meeting in Tokyo on Oct. 31.")](https://www.japantimes.co.jp/business/2024/11/30/economy/boj-ueda-rate-hike-timing/ "BOJ's Ueda says rate hike timing 'approaching,' Nikkei reports")
 
 [The Geisha bean is the leading lady of Tokyo's coffee scene](https://www.japantimes.co.jp/life/2024/11/30/food-drink/coffee-geisha-tokyo-cafe/ "The Geisha bean is the leading lady of Tokyo's coffee scene")
 
@@ -514,18 +514,18 @@ Podcast
 Longform
 --------
 
-  [![Totopa in Tokyo’s Shinjuku Ward was picked by consultants TTNE as the best sauna of the year. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/25/435137.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Totopa in Tokyo’s Shinjuku Ward was picked by consultants TTNE as the best sauna of the year. ")](https://www.japantimes.co.jp/life/2024/11/25/lifestyle/sauna-culture-japan/ "Japan’s sauna movement: Relax, refresh, repeat")
+  [![The National Museum of Emerging Science and Innovation in Tokyo is a popular place to foster curiosity in the natural sciences.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/01/436635.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The National Museum of Emerging Science and Innovation in Tokyo is a popular place to foster curiosity in the natural sciences.")](https://www.japantimes.co.jp/news/2024/12/02/japan/science-health/japan-science-nobel-prize/ "Can Japan's scientific community rebound from a Nobel nosedive?")
 
-[Japan’s sauna movement: Relax, refresh, repeat](https://www.japantimes.co.jp/life/2024/11/25/lifestyle/sauna-culture-japan/ "Japan’s sauna movement: Relax, refresh, repeat")
+[Can Japan's scientific community rebound from a Nobel nosedive?](https://www.japantimes.co.jp/news/2024/12/02/japan/science-health/japan-science-nobel-prize/ "Can Japan's scientific community rebound from a Nobel nosedive?")
 
-By [Greg Dvorak](https://www.japantimes.co.jp/author/6191/greg-dvorak/ "Greg Dvorak")  
+By [Tomoko Otake](https://www.japantimes.co.jp/author/3264/tomoko-otake/ "Tomoko Otake")  
 
 SUSTAINABLE JAPAN
 -----------------
 
-[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
-[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -565,17 +565,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Nippon Ishin elects Osaka Gov. Yoshimura as leader](https://www.japantimes.co.jp/news/2024/12/01/japan/politics/nippon-ishin-elects-yoshimura-leader/ "Nippon Ishin elects Osaka Gov. Yoshimura as leader")
+[Night schools offer alternative route to completing compulsory education](https://www.japantimes.co.jp/news/2024/12/02/japan/society/education-night-schools/ "Night schools offer alternative route to completing compulsory education")
 
-11 hours ago
+14 mins ago
 
-[New EU chiefs visit Kyiv on first day of mandate](https://www.japantimes.co.jp/news/2024/12/01/world/politics/eu-chiefs-ukraine-visit/ "New EU chiefs visit Kyiv on first day of mandate")
+['We have a lost generation': Lebanon's education crisis](https://www.japantimes.co.jp/news/2024/12/02/world/society/generation-lebanon-education-crisis/ "'We have a lost generation': Lebanon's education crisis")
 
-[Victims of fire at LDP lawmaker's home identified](https://www.japantimes.co.jp/news/2024/12/01/japan/fire-victims-lawmaker-home/ "Victims of fire at LDP lawmaker's home identified")
+21 mins ago
 
-[China vows ‘resolute and forceful’ response as Taiwan leader visits Hawaii](https://www.japantimes.co.jp/news/2024/12/01/asia-pacific/politics/taiwan-lai-pacific-hawaii/ "China vows ‘resolute and forceful’ response as Taiwan leader visits Hawaii")
+[Ukraine war reinvigorating Finland’s fighting spirit](https://www.japantimes.co.jp/news/2024/12/02/world/politics/finland-defense-ukraine-russia/ "Ukraine war reinvigorating Finland’s fighting spirit")
 
-[Don’t worry, you can still use your Japan health insurance card — for now](https://www.japantimes.co.jp/news/2024/12/01/japan/explainer/my-number-insurance-card-explainer/ "Don’t worry, you can still use your Japan health insurance card — for now")
+50 mins ago
+
+[PlayStation at 30: How Sony's gray box conquered gaming](https://www.japantimes.co.jp/business/2024/12/02/tech/sony-playstation-30-years/ "PlayStation at 30: How Sony's gray box conquered gaming")
+
+53 mins ago
+
+[Restaurant committed to animal welfare opens in Sendai](https://www.japantimes.co.jp/news/2024/12/02/japan/society/animal-welfare-restaurant/ "Restaurant committed to animal welfare opens in Sendai")
+
+1 hour ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
