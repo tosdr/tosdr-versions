@@ -201,17 +201,17 @@ This site uses cookies – small text files that are placed on your machine to h
 
 ### Popular Articles
 
+[![Moses Orekoya, operations director (left) and Peter Sosanya, operative manager (right) outside the blocked fire exit](https://southwarknews.co.uk/wp-content/uploads/2024/11/image00003-9-120x86.jpeg)](https://southwarknews.co.uk/area/bermondsey/southwarks-largest-employer-of-jobless-says-he-is-being-forced-to-leave-borough-over-parked-car-blocking-fire-exit/)
+
+### [Southwark’s largest employer of jobless says he is being forced to leave borough over parked car blocking fire exit](https://southwarknews.co.uk/area/bermondsey/southwarks-largest-employer-of-jobless-says-he-is-being-forced-to-leave-borough-over-parked-car-blocking-fire-exit/)
+
+[30th November 2024](https://southwarknews.co.uk/area/bermondsey/southwarks-largest-employer-of-jobless-says-he-is-being-forced-to-leave-borough-over-parked-car-blocking-fire-exit/)
+
 [![Anne Davis says a routine bus trip has become a logistical nightmare](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_3311-120x86.jpeg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-92-faces-hour-long-bus-journey-to-reach-high-street-fifteen-minutes-away-and-now-cannot-reach-it-at-all/)
 
 ### [Bermondsey pensioner, 92, faces hour-long bus journey to reach high street fifteen-minutes away – and now cannot reach it at all](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-92-faces-hour-long-bus-journey-to-reach-high-street-fifteen-minutes-away-and-now-cannot-reach-it-at-all/)
 
 [26th November 2024](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-92-faces-hour-long-bus-journey-to-reach-high-street-fifteen-minutes-away-and-now-cannot-reach-it-at-all/)
-
-[![L: Residents have their say; R: CGI of Berkeley Homes' proposed Aylesham scheme](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-25-11-2024-at-07.41-120x86.jpg)](https://southwarknews.co.uk/area/peckham/most-people-in-southwark-cant-afford-these-homes-protestors-unite-against-berkeley-homes-unfit-plans-for-peckham/)
-
-### [‘Most people in Southwark can’t afford these homes’: Protestors unite against Berkeley Homes’ ‘unfit’ plans for Peckham](https://southwarknews.co.uk/area/peckham/most-people-in-southwark-cant-afford-these-homes-protestors-unite-against-berkeley-homes-unfit-plans-for-peckham/)
-
-[25th November 2024](https://southwarknews.co.uk/area/peckham/most-people-in-southwark-cant-afford-these-homes-protestors-unite-against-berkeley-homes-unfit-plans-for-peckham/)
 
 [![L: Tooley St HQ of Southwark Council; R: Cllr Kieron Williams](https://southwarknews.co.uk/wp-content/uploads/2024/11/L-Tooley-St-HQ-of-Southwark-Council-R-Cllr-Kieron-Williams-120x86.png)](https://southwarknews.co.uk/area/southwark/southwark-councils-leader-has-apologised-after-the-governments-social-housing-watchdog-found-serious-failings/)
 
@@ -219,23 +219,23 @@ This site uses cookies – small text files that are placed on your machine to h
 
 [27th November 2024](https://southwarknews.co.uk/area/southwark/southwark-councils-leader-has-apologised-after-the-governments-social-housing-watchdog-found-serious-failings/)
 
-[![Moses Orekoya, operations director (left) and Peter Sosanya, operative manager (right) outside the blocked fire exit](https://southwarknews.co.uk/wp-content/uploads/2024/11/image00003-9-120x86.jpeg)](https://southwarknews.co.uk/area/bermondsey/southwarks-largest-employer-of-jobless-says-he-is-being-forced-to-leave-borough-over-parked-car-blocking-fire-exit/)
-
-### [Southwark’s largest employer of jobless says he is being forced to leave borough over parked car blocking fire exit](https://southwarknews.co.uk/area/bermondsey/southwarks-largest-employer-of-jobless-says-he-is-being-forced-to-leave-borough-over-parked-car-blocking-fire-exit/)
-
-[30th November 2024](https://southwarknews.co.uk/area/bermondsey/southwarks-largest-employer-of-jobless-says-he-is-being-forced-to-leave-borough-over-parked-car-blocking-fire-exit/)
-
-[![The chairs in Elephant and Castle (credit: Russell Cronin, social media)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-20-11-2024-at-15.14-120x86.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/fancy-a-chat-council-blunder-in-elephant-and-castle-as-misplaced-chairs-spark-confusion/)
-
-### [‘Fancy a chat?’: Council blunder in Elephant and Castle as misplaced chairs spark confusion](https://southwarknews.co.uk/area/elephant-and-castle/fancy-a-chat-council-blunder-in-elephant-and-castle-as-misplaced-chairs-spark-confusion/)
-
-[24th November 2024](https://southwarknews.co.uk/area/elephant-and-castle/fancy-a-chat-council-blunder-in-elephant-and-castle-as-misplaced-chairs-spark-confusion/)
-
 [![Joe Edwards left the Lions with the club sitting one point above the drop zone. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/11/edwards-training-2048x1352-1-120x86.png)](https://southwarknews.co.uk/sport/football/millwall/ex-millwall-boss-lands-role-at-frank-lampards-coventry-city/)
 
 ### [Ex-Millwall boss joins Frank Lampard’s backroom staff at Coventry City](https://southwarknews.co.uk/sport/football/millwall/ex-millwall-boss-lands-role-at-frank-lampards-coventry-city/)
 
 [28th November 2024](https://southwarknews.co.uk/sport/football/millwall/ex-millwall-boss-lands-role-at-frank-lampards-coventry-city/)
+
+[![The Flaxyard site, Peckham Town Centre.](https://southwarknews.co.uk/wp-content/uploads/2024/11/SJH_3494-Pano-120x86.jpeg)](https://southwarknews.co.uk/area/peckham/council-celebrates-completion-of-120-affordable-homes-in-peckham-town-centre/)
+
+### [Council celebrates completion of 120 affordable homes in Peckham Town Centre](https://southwarknews.co.uk/area/peckham/council-celebrates-completion-of-120-affordable-homes-in-peckham-town-centre/)
+
+[28th November 2024](https://southwarknews.co.uk/area/peckham/council-celebrates-completion-of-120-affordable-homes-in-peckham-town-centre/)
+
+[![L: Residents have their say; R: CGI of Berkeley Homes' proposed Aylesham scheme](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-25-11-2024-at-07.41-120x86.jpg)](https://southwarknews.co.uk/area/peckham/most-people-in-southwark-cant-afford-these-homes-protestors-unite-against-berkeley-homes-unfit-plans-for-peckham/)
+
+### [‘Most people in Southwark can’t afford these homes’: Protestors unite against Berkeley Homes’ ‘unfit’ plans for Peckham](https://southwarknews.co.uk/area/peckham/most-people-in-southwark-cant-afford-these-homes-protestors-unite-against-berkeley-homes-unfit-plans-for-peckham/)
+
+[25th November 2024](https://southwarknews.co.uk/area/peckham/most-people-in-southwark-cant-afford-these-homes-protestors-unite-against-berkeley-homes-unfit-plans-for-peckham/)
 
 ### Featured Articles
 
