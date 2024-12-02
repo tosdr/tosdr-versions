@@ -500,21 +500,21 @@ Regular price $40
 
 Unit price /  per](https://www.atari.com/products/oversized-fuji-hoodie)         
 
-[![VCS All-In Bundle](products/Atari_VCS_Black_Walnut_Product_Group.jpg)
+[![VCS All-In Bundle (Onyx)](products/Atari_VCS_Onyx_Product_Group.jpg)
 
-![VCS All-In Bundle](files/Atari_VCS_Black_Walnut_02.jpg)
+![VCS All-In Bundle (Onyx)](files/1_95fe8086-5652-4c4b-80ed-a02e32396e01.jpg)
 
 Add to cart
 
 50% OFF
 
-##### VCS All-In Bundle
+##### VCS All-In Bundle (Onyx)
 
 Regular price $200 Sale price $99.99
 
 Regular price $99.99
 
-Unit price /  per](https://www.atari.com/products/atari-vcs-onyx-all-in)     
+Unit price /  per](https://www.atari.com/products/atari-vcs-onyx-all-in) 
 
 [![Classic Katakana Tee](files/AtariKatakanaLogoTee-2.jpg)
 
