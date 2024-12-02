@@ -95,79 +95,65 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Human Body
+More Contrasting Worldviews
 
-[![](/i/Main%20Stage%20-%201400x1050/Young_Adults_Covid_1400x1050.jpg)](https://www.icr.org/article/young-adults-are-half-of-nyc-covid-19-cases)
+[![](/i/Main%20Stage%20-%201400x1050/First_Stars_Missing_1400x1050.jpg)](https://www.icr.org/article/universe-first-stars-are-missing)
 
-[Young Adults Are Half of NYC's COVID-19 Cases](https://www.icr.org/article/young-adults-are-half-of-nyc-covid-19-cases/)
+[Universe’s "First" Stars Are Missing?](https://www.icr.org/article/universe-first-stars-are-missing/)
 
-As of March 23, 2020, New York City remains the epicenter for both the total number of COVID-19 cases and the number of new cases. The Daily Case Data...
+A recent attempt by European astronomers to use the Hubble Space Telescope to find evidence for the first stars expected by secular theory has failed....
 
-BY: [RANDY J. GULIUZZA, P.E., M.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=203)
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
 
-[![](/i/Main%20Stage%20-%201400x1050/Blunder_Junk_DNA_1400x1050.jpg)](https://www.icr.org/article/embarrassment-evolutionary-blunder-junk-dna)
+[![](/i/Main%20Stage%20-%201400x1050/Hot_Neptune_1400x1050.jpg)](https://www.icr.org/article/hot-neptune-atmosphere-shouldnt-exist)
 
-[Embarrassment Continues over Evolutionary Blunder about.,.](https://www.icr.org/article/embarrassment-evolutionary-blunder-junk-dna/)
+[Hot Neptune Atmosphere "Shouldn't Exist"](https://www.icr.org/article/hot-neptune-atmosphere-shouldnt-exist/)
 
-Recent research from the Okinawa Institute of Science and Technology Graduate University (OIST) continues to highlight how evolutionary theory influenced...
+An exoplanet 260 light-years away is being described as the first of its kind ever detected.1,2 This exoplanet, catalogued as LTT 9779b, is...
 
-BY: [RANDY J. GULIUZZA, P.E., M.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=203)
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
 
-[![](/i/Main%20Stage%20-%201400x1050/Control_Loops_Humans_Nature_1400x1050.jpg)](https://www.icr.org/article/control-loops-in-humans-and-nature)
+[![](/i/Main%20Stage%20-%201400x1050/Faith_Facemasks_1400x1050.jpg)](https://www.icr.org/article/faith-and-facemasks)
 
-[Control Loops in Humans and Nature](https://www.icr.org/article/control-loops-in-humans-and-nature/)
+[Faith and Facemasks](https://www.icr.org/article/faith-and-facemasks/)
 
-Ever had a blood test? Along with a value measured, there are also the normal max/min limits for that value. This implies that the body normally controls...
+The coronavirus is producing a large spectrum of reactions from people around the globe. On one end, some people are extremely careful. They follow...
 
-BY: [EDWARD SIEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=247)
+BY: [LAUREN PENNINGTON](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=232)
 
 More Creation Q&A
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/palo_duro_deep_time.jpg)](https://www.icr.org/article/does-palo-duro-canyon-show-deep-time)
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/HowPrepareCreationMInistry.jpg)](https://www.icr.org/article/how-do-i-prepare-for-creation-ministry)
 
-[Does Palo Duro Canyon Show Deep Time?](https://www.icr.org/article/does-palo-duro-canyon-show-deep-time/)
+[How Do I Prepare for Creation Ministry?](https://www.icr.org/article/how-do-i-prepare-for-creation-ministry/)
 
-Some friends and I recently hiked into Texas’ Palo Duro Canyon, where sedimentary rock layers span the horizon. Eighteenth-century naturalists...
+Many of today’s creation researchers can testify that information from the Institute for Creation Research sparked a burning, lifelong passion...
+
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/why_God_made_monsters.jpg)](https://www.icr.org/article/why-would-God-make-monsters)
+
+[Why Would God Make Monsters?](https://www.icr.org/article/why-would-God-make-monsters/)
+
+After one of my dinosaur presentations in the Dallas area, a mother told me a question her son had asked. She didn’t know the answer. If God is...
 
 BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/does_radioisotope_dating.jpg)](https://www.icr.org/article/does-radioisotope-dating-prove-an-old-earth)
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/one_flood_many_rock_layers.jpg)](https://www.icr.org/article/could-one-flood-form-many-rock-layers)
 
-[Does Radioisotope Dating Prove an Old Earth?](https://www.icr.org/article/does-radioisotope-dating-prove-an-old-earth/)
+[Could One Flood Form Many Rock Layers?](https://www.icr.org/article/could-one-flood-form-many-rock-layers/)
 
-Tim Clarey, Ph.D., and Vernon R. Cupps, Ph.D.\* When most people think about radioisotope dating, they think of carbon-14 (C-14), or radiocarbon...
-
-BY:  [VARIOUS AUTHORS](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=35)
-
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/q%26a_where_did_faces_come_from.jpg)](https://www.icr.org/article/where-did-faces-come-from)
-
-[Where Did Faces Come From?](https://www.icr.org/article/where-did-faces-come-from/)
-
-Animals don’t laugh, smirk, roll their eyes, or give subtle squints like humans do. Hundreds of different tiny facial expressions can convey our...
+The Grand Canyon exposes layer after layer of sedimentary rock stacked one atop the other like vast, multicolored pancakes in the earth. Other cliff...
 
 BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
 
 Shop Related Products
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10027359/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/5202651/file.jpg)
 
-The Global Flood](https://store.icr.org/dr-john-morris-the-global-flood.html)
-
-$14.99
+The Fossil Record](https://store.icr.org/dr-john-morris-the-fossil-record.html)
 
 $19.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10027370/file.jpg)
-
-The Global Flood - eBook](https://store.icr.org/dr-john-morris-the-global-flood-ebook.html)
-
-$9.99
-
-$19.99
-
-[](https://store.icr.org/.html)
-
-$
 
 [![](https://cdn.shoplightspeed.com/shops/601440/files/15818899/file.jpg)
 
@@ -180,6 +166,20 @@ $19.99
 [](https://store.icr.org/.html)
 
 $
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/54360544/file.jpg)
+
+Foundations in Worship](https://store.icr.org/foundations-in-worship.html)
+
+$29.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10027370/file.jpg)
+
+The Global Flood - eBook](https://store.icr.org/dr-john-morris-the-global-flood-ebook.html)
+
+$9.99
+
+$19.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
