@@ -31,6 +31,198 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Controles de velocidad en Quito este lunes 2 de diciembre
+=========================================================
+
+Estos son los horarios y los puntos donde se realizarán los controles preventivos de velocidad en Quito. Estos no tendrán sanciones
+-----------------------------------------------------------------------------------------------------------------------------------
+
+![Controles de velocidad se realizan en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-02T081456.538.jpg)
+
+La **Agencia Metropolitana de Tránsito** (AMT) informó sobre la reanudación de los **controles preventivos** de velocidad que se realizarán en las calles de Quito.
+
+### Más noticias
+
+* [Usuarios del Metro equiparan a Quito con las grandes ciudades](https://www.elcomercio.com/actualidad/quito/usuarios-metro-quito-equiparan-grandes-ciudades.html "Usuarios del Metro equiparan a Quito con las grandes ciudades")
+* [Incendio forestal en Quito fue controlado luego de nueve horas de labores](https://www.elcomercio.com/actualidad/quito/incendio-forestal-quito-sofocado-bomberos.html "Incendio forestal en Quito fue controlado luego de nueve horas de labores")
+* [Cortes de luz en Quito continuarán este lunes 2 de diciembre de 2024](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-en-quito-continuaran-este-lunes-2-de-diciembre-de-2024.html "Cortes de luz en Quito continuarán este lunes 2 de diciembre de 2024")
+
+Operativos se reanudan tras suspensión
+--------------------------------------
+
+La Agencia Metropolitana de Tránsito (AMT) realizó **controles de exceso de velocidad en Quito** hasta el mes de septiembre en algunas vías de Quito. Estos operativos de control de exceso de velocidad tienen el objetivo de **reducir los siniestros de tránsito y salvar vidas**.
+
+La AMT ejecutó el último **operativo preventivo de control de velocidad** el martes 24 de septiembre en la av. Simón Bolívar, una de las vías que más [siniestros](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito") registra.
+
+El mismo 24 de septiembre, la **Agencia de Tránsito** informó que, en la coyuntura de los cortes de luz que se realizan en Quito, se decidió **suspender de forma temporal los operativos**. Tanto los controles preventivos como los sancionatorios se detuvieron desde esa última semana de septiembre.
+
+Esta decisión se tomó como un **esfuerzo para realizar una mejor gestión del tránsito** vehicular durante los apagones. De ese modo, **todo el contingente de la AMT** está concentrado en asistir a la ciudadanía en los principales cruces cuando los semáforos se quedan sin luz.
+
+La **AMT además destina** a su personal para la **atención de emergencias**, como los incendios que se registraron en Quito los últimos días de septiembre. Así como las complicaciones causadas por las lluvias en el mes de octubre.
+
+Controles de velocidad ya tienen programación
+---------------------------------------------
+
+La AMT informó que, debido a que las **horas de cortes de luz** se redujeron, se retomará la realización de los **controles preventivos de velocidad.**
+
+Así mismo, los agentes podrán retomar la ejecución de los **controles de alcotest,** placas y que no circulen dos hombres en moto.
+
+Los **controles preventivos de velocidad** se retomarán nuevamente en Quito y se harán de manera periódica. Los primeros se harán durante todos los días de esta semana.
+
+De ese modo, los controles de velocidad se realizan diariamente desde la mañana del **martes 26 de noviembre**.
+
+Para este lunes 2 de diciembre están previstos dos controles preventivos de exceso velocidad en los siguientes puntos y horas:
+
+* De 10:30 a 11:30, **av. Simón Bolívar,** sector Santa Rosa, sentido sur-norte
+* De 14:00 a 15:00, **av. Velasco Ibarra,** mirador, sentido sur-norte
+
+Estos operativos son preventivos, es decir, los **agentes de tránsito no impondrán sanciones** a los conductores que excedan los límites [permitidos de velocidad](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
+
+Próximos operativos
+-------------------
+
+* **Martes 3 de diciembre:**
+    * De 07:00 a 08:00, av. Tnt. Hugo Ortiz, sentido sur-norte
+    * De 15:00 a 16:00, av. Simón Bolívar, sector La Pampa, sentido norte-sur
+
+Irán acusa a EE.UU. e Israel de respaldar a ‘terroristas’ para desestabilizar Siria
+===================================================================================
+
+Irán denuncia el apoyo a grupos armados de la oposición, a los que acusó de 'terroristas', en la ofensiva contra el régimen de Bachar Al Asad.
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+![Un tanque en Alepo después de que las fuerzas rebeldes tomaran el control de la ciudad, en Alepo, Siria, el 2 de diciembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-02T074433.979.jpg)
+
+El ministro de Exteriores iraní, Abás Araqchí, acusó este lunes 2 de diciembre Estados Unidos e Israel de querer “desestabilizar” Siria. Esto mediante el apoyo a grupos armados de la oposición, a los que acusó de “terroristas”, en la actual ofensiva contra el régimen de Bachar Al Asad.
+
+Más noticias
+------------
+
+* [Joe Biden indultó a su hijo Hunter alegando ataques políticos](https://www.elcomercio.com/actualidad/mundo/biden-indulta-hijo-hunter-posesion-armas.html "Joe Biden indultó a su hijo Hunter alegando ataques políticos")
+* [Francia descubre al mundo una Notre Dame deslumbrante antes de su reapertura](https://www.elcomercio.com/actualidad/mundo/francia-descubre-mundo-notre-dame-deslumbrante-antes-reapertura.html "Francia descubre al mundo una Notre Dame deslumbrante antes de su reapertura")
+* [Claudia Sheinbaum habló con Donald Trump sobre migración y aranceles](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-hablo-con-donald-trump-sobre-migracion-y-aranceles.html "Claudia Sheinbaum habló con Donald Trump sobre migración y aranceles")
+
+Terrorismo
+----------
+
+“Según nuestras informaciones, los sucesos en Siria se deben a **grupos terroristas** respaldados por Estados Unidos e Israel”, dijo Araqchí en una rueda de prensa en Ankara. Hasta donde llegó hoy en visita oficial tras pasar el domingo por Damasco.
+
+“El régimen sionista juega un papel en esta tensión y no ver esto **sería un gran error** para los Gobiernos de la región**. Desestabilizar Siria es un proyecto sionista** para nosotros y tendría consecuencias para todos nosotros”, aseguró el diplomático iraní.
+
+Su anfitrión, el ministro de Exteriores turco, Hakan Fidan, defendió la visión contraria, asegurando que los **sucesos en Siria** no tienen su causa en una intervención exterior.
+
+“Intentar explicar con **intervenciones foráneas** lo que sucede allí es erróneo. No resolver los problemas internos en los últimos años fue un error”, dijo Fidan tras la reunión con Araqchí en Ankara.
+
+El fin del conflicto es un anhelo
+---------------------------------
+
+“El régimen (de Bachar al Asad) cometió un error. L**os últimos sucesos** muestran de nuevo que Damasco debe **reconciliarse con su pueblo** y la oposición. Ofrecemos todo nuestro apoyo a esto”, insistió Fidan.
+
+Ambos ministros coincidieron en la **importancia del proceso de Astaná,** en el que participan Rusia, Turquía e Irán, para poner fin a la guerra civil siria, y prometieron reactivar las reuniones “pronto”.
+
+“El alto el fuego (acordado en Astaná) fue un gran éxito, pero en los años de calma no se ha aprovechado esta oportunidad. Nuestro **presidente ofreció una mano tendida (**a Damasco) para resolver el problema mediante el diálogo. La falta de diálogo entre Gobierno y oposición ha causado la situación actual”, dijo Fidan.
+
+“**No queremos que la guerra civil escale.** No queremos que se destruyan ciudades y se desplace a la población. Para nosotros es extremamente importante frenar y revertir el flujo de refugiados”, agregó el ministro turco.
+
+Ankara ha reiterado en los últimos meses su disposición a **restablecer plenas relaciones con Damasco**, lo que implicaría una retirada de los territorios que las tropas turcas ocupan en el norte de Siria. Pero esta retirada, según Ankara, solo puede darse tras una reconciliación de Gobierno y oposición para evitar una nueva **huida de millones de sirios** a [Turquía](https://es.wikipedia.org/wiki/Siria "https://es.wikipedia.org/wiki/Siria").
+
+La violencia de género arrebata vidas, aún hay ‘Esperanza’
+==========================================================
+
+El Comercio lanzó un pódcast que recoge historias de mujeres sobrevivientes de la violencia de género y de madres que luchan por justicia.
+------------------------------------------------------------------------------------------------------------------------------------------
+
+![Esperanza es un pódcast de El Comercio, que se lanzó el lunes, 25 de noviembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-1-5.jpg)
+
+**¡Si silenciamos las historias, perpetuamos la violencia!** Esperanza, un pódcast de **EL COMERCIO**, es el inicio de un camino sostenido, con voces y rostros de esa realidad oculta y, a la par, palpable: la violencia de género y los desenlaces fatales. Pero, a su vez, las redes que apoyan a romper el círculo.
+
+Esperanza surge en medio de un panorama que, en Ecuador, entre el 1 de enero y el 15 de noviembre de 2024, ya cobró, **al menos, 214 vidas. Así lo reporta la Fundación Aldea.**
+
+La vida después del femicidio no vuelve a ser la misma. Una madre encuentra a su hija con **13 puñaladas** o la busca desesperadamente hasta recibir la noticia: su cuerpo, con ocho meses de gestación, estaba en descomposición en medio de los matorrales.
+
+> Entre las víctimas de 2024, **64 eran madres** y **al menos 10 estaban embarazas**, según Aldea.
+
+Más aún cuando el dolor, además, se convierte en un camino cuesta arriba para lograr justicia, con funcionarios que dilatan procesos o dejan en libertad a los implicados en las muertes.
+
+Esa pendiente tampoco deja fuera el incumplimiento de la reparación para los **niños** que quedan en la **orfandad**.
+
+**Esperanza** es un canal para esas voces que se entrelazan con el llanto y, a la par, se arman de fortaleza, se unen con otras para exigir no repetición.
+
+Ese es el caso de las integrantes de la **Fundación Madres Coraje**. La agrupación se formó en 2022 y, en 2023, se consolidaron legalmente.
+
+Eran cinco y, en este noviembre de 2024, llegaron a 35. Aunque suman fuerzas, el ser más no las alegra, pues, repiten, significa que cada vez hay más **casos**.
+
+Desde 2014, cuando se tipificó el femicidio en el **Código Orgánico Integral Penal (COIP)**, Aldea da cuenta de que, al menos, **1 920 mujeres, adolescentes y niñas** han sido asesinadas violentamente en Ecuador a causa de la violencia machista.
+
+Hay mujeres que han logrado romper el círculo de la violencia. **Esperanza también se inspira en ellas**, con una consigna fija: que las historias no se repitan y que el Estado haga su parte.
+
+Solo basta con evidenciar que muchas de las mujeres que perdieron la vida habían alertado sobre el riesgo e, incluso, contaban con **boletas de auxilio**.
+
+De ahí la importancia de la prevención, de los servicios, las redes de apoyo, las casas de acogida, en definitiva, la tarea de todos.
+
+El pódcast de EL COMERCIO, cuyas entregas son quincenales a través de plataformas como Spotify, imprime una postura clara: un sí a la vida y a los derechos.
+
+### Esperanza
+
+Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
+
+Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
+
+[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
+
+Así funciona el Pico y placa este lunes 2 de diciembre
+======================================================
+
+Revisa los límites del Pico y placa y evita ser sancionado con multas. Recuerda que los estacionamientos de borde son gratuitos.
+--------------------------------------------------------------------------------------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-2024-11-29T153720.035.jpg)
+
+El **Pico y placa continúa vigente en Quito** para autos y motos; esta medida se implementa para mejorar el flujo vehicular en las horas de mayor tránsito.
+
+Además, se debe recordar que **durante los feriados y los fines de semana** la medida no aplica.
+
+### Más noticias
+
+* [Cortes de luz tendrán modificaciones por fiestas de Quito](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-tendran-modificaciones-por-fiestas-de-quito.html "Cortes de luz tendrán modificaciones por fiestas de Quito")
+* [Cronograma de cortes de luz en Quito del 2 al 8 de diciembre](https://www.elcomercio.com/actualidad/quito/cronograma-cortes-luz-quito-2-8-diciembre-2024.html "Cronograma de cortes de luz en Quito del 2 al 8 de diciembre")
+* [Se acaba el tiempo para revisión y matriculación vehicular en Quito](https://www.elcomercio.com/actualidad/quito/se-acaba-el-tiempo-para-revision-y-matriculacion-vehicular-en-quito.html "Se acaba el tiempo para revisión y matriculación vehicular en Quito")
+
+Así como hay excepciones, **los vehículos que pertenecen a adultos mayores**, personas con discapacidad, vehículos eléctricos y los oficiales pueden circular con normalidad a cualquier hora.
+
+La restricción depende del **último dígito de la placa del vehículo**. Este lunes no circulan las placas terminadas en 1 y 2.
+
+Horarios del Pico y placa
+-------------------------
+
+En la mañana la medida se aplica de **06:00 a 09:30 y en la tarde, de 16:00 a 20:00.**
+
+Las autoridades locales hacen un llamado a la **colaboración ciudadana** y al respeto de estas normativas, en aras de garantizar una mejor movilidad urbana.
+
+Multas por infringir la medida
+------------------------------
+
+La multa por incumplirla es del 15% del **Salario Básico Unificado**, es decir, 69 dólares la primera vez.
+
+Si la incumples una segunda vez, la sanción será del **25%, es decir, 115 dólares.**
+
+Y si infringes una tercera vez, **la multa asciende al 50%** de un salario básico, es decir, 230 dólares.
+
+Límites en Quito para Pico y placa
+----------------------------------
+
+Esta medida se aplica en el **Distrito Metropolitano.** En el norte la restricción está presente en la avenida de Los Narcisos y teniendo como puntos de referencia la **Escuela Superior de la Policía** y Puente Villorita.
+
+Desde los puntos anteriores esta medida se extiende hasta la avenida **Morán Valverde**. Es decir, todas las vías entre Los Narcisos y Morán Valverde tiene restricción de lunes a viernes.
+
+El otro límite vehicular es la **avenida Simón Bolívar**, donde se acaba la restricción vehicular y sus puntos de referencia son Intercambiador de La Granados e Intercambiador de Carapungo.
+
+Al oeste, la [av. Mariscal Sucre](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito") hasta la intersección de la av. **Manuel Córdova Galarza** (redondel El Condado).
+
+> ⚠️ ¡No caigas en multas! Conoce por dónde puedes circular en [#Quito](https://twitter.com/hashtag/Quito?src=hash&ref_src=twsrc%5Etfw) [https://t.co/VAySmVN9kd](https://t.co/VAySmVN9kd) [pic.twitter.com/Gyso7gkL1O](https://t.co/Gyso7gkL1O)
+> 
+> — El Comercio (@elcomerciocom) [June 9, 2024](https://twitter.com/elcomerciocom/status/1799837694727434657?ref_src=twsrc%5Etfw)
+
 Usuarios del Metro equiparan a Quito con las grandes ciudades
 =============================================================
 
@@ -741,207 +933,3 @@ El clima a partir de las 19:00 de este viernes, hasta la madrugada de este lunes
 > 🟠Advertencia por Alta temperatura y Radiación VIGENTE. Tome Precauciones [pic.twitter.com/SJ0eIZW7SN](https://t.co/SJ0eIZW7SN)
 > 
 > — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [December 1, 2024](https://twitter.com/inamhi_ec/status/1863205649737244910?ref_src=twsrc%5Etfw)
-
-Daniel Pintado se ubica entre los mejores del mundo en 2024
-===========================================================
-
-Daniel Pintado estuvo nominado por World Athetics al premio a mejor atleta del año y mejor atleta fuera del estadio.
---------------------------------------------------------------------------------------------------------------------
-
-![Daniel Pintado con sus dos medallas obtenidas en los Juegos Olímpicos de París 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/1000177966.jpg)
-
-El ecuatoriano **Daniel Pintado**, doble medallista en los Juegos Olímpicos de París 2024, se ubicó dentro de los mejores atletas del mundo de este 2024. Tras su buen año, el marchista fue nominado por World Athletics (Federación Internacional de Atletismo) en **dos categorías**.
-
-Los altos méritos del deportista azuayo no alcanzaron para superar a otros referentes dentro de su disciplina y dentro del atletismo como tal. Durante este domingo 1 de diciembre del 2024, la gala de premiación se llevó a cabo y condecoró a **15 personalidades.**
-
-### Más noticias:
-
-* [Votaciones para Daniel Pintado como mejor atleta del año están por finalizar](https://www.elcomercio.com/deportes/otros/votaciones-daniel-pintado-mejor-atleta.html "Votaciones para Daniel Pintado como mejor atleta del año están por finalizar")
-* [Daniel Pintado está entre los finalistas a mejor atleta del año](https://www.elcomercio.com/deportes/atletismo/daniel-pintado-entre-finalistas-mejor-atleta-del-ano.html "Daniel Pintado está entre los finalistas a mejor atleta del año")
-* [Daniel Pintado busca el premio al atleta del año en el mundo](https://www.elcomercio.com/deportes/atletismo/daniel-pintado-candidato-atleta-masculino-ano-world-athletics.html "Daniel Pintado busca el premio al atleta del año en el mundo")
-
-**Daniel Pintado** compitió dentro de la categoría de mejor deportista de la temporada 2024 y mejor atleta fuera de pista dentro del mismo año. En la primera se enfrentó ante **cinco rivales**, mientras que en la segunda llegó como finalista ante uno más[.](https://es.wikipedia.org/wiki/Daniel_Pintado "https://es.wikipedia.org/wiki/Daniel_Pintado")
-
-Dentro de la nominación al mejor del mundo, Pintado se midió ante **Tamirat Tola**, campeón olímpico de maratón; **Jakob Ingebrigsten**, campeón olímpico de 5 000 metros planos; **Mondo Duplantis**, campeón olímpico de salto con garrocha; **Mitidiadis Tentoglou**, campeón olímpico en salto largo y **Letsile Tebogo**, campeón olímpico de 200 metros planos. Este último fue quien se llevó la condecoración.
-
-Para la categoría de mejor atleta fuera de pista, el rival de Pintado fue **Tamirat Tola**. El deportista de Etiopía fue quien se hizo con tal galardón.
-
-Premios de Word Athletics y sus ganadores
------------------------------------------
-
-Mejor atleta masculino del año: Letsile Tebogo.
-
-Mejor atleta femenina del año: Sifan Hassan.
-
-Mejor atleta masculino de pista: Letsile Tebogo.
-
-Mejor atleta femenina de pista: Sydney McLaughlin.
-
-Mejor atleta masculino de campo: Mondo Duplantis.
-
-Mejor atleta femenina de campo: Yaroslava Mahuchikh.
-
-Mejor atleta masculino fuera del estadio: Tamirat Tola.
-
-Mejor atleta femenina fuera del estadio: Sifan Hassan.
-
-Estrella en ascenso masculina: Mattia Furlani.
-
-Estrella en ascenso femenina: Sembo Almayew.
-
-Federación del año: Estados Unidos.
-
-Fotografía del año: Michael Steele.
-
-Mujer del año: Renee Washington.
-
-Reconocimiento a un entrenador: Trevos Painter.
-
-Reconocimiento del presidente: Phil Knight.
-
-¿A qué hora juega Liga de Quito con Deportivo Cuenca?
-=====================================================
-
-Liga de Quito buscará ir a la final de la Liga Pro durante este domingo 1 de diciembre del 2024 al enfrentar al Deportivo Cuenca.
----------------------------------------------------------------------------------------------------------------------------------
-
-![Ezequiel Piovi y Leonel Quiñónez de Liga de Quito celebran un gol en la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/12/1000177912.jpg)
-
-**Liga de Quito** afrontará su último partido de la segunda etapa del campeonato ante Deportivo Cuenca durante este domingo 1 de diciembre del 2024. El duelo será de máxima importancia dado que los albos se juegan su boleto hacia la final de la Liga Pro.
-
-La fecha de cierre del torneo ecuatoriano se jugará a horario unificado y contará con el partido entre universitarios y morlacos. Para este, el cuadro azucena contará, únicamente, con público local en el **Estadio Rodrigo Paz Delgado** de Quito.
-
-### Más noticias:
-
-* [Así fue la defensa de Liga de Quito para recuperar los tres puntos](https://www.elcomercio.com/deportes/futbol/defensa-de-liga-de-quito-para-recuperar-tres-puntos-sancion.html "Así fue la defensa de Liga de Quito para recuperar los tres puntos")
-* [Pablo ‘Vitamina’ Sánchez vivirá una final adelantada con Liga de Quito](https://www.elcomercio.com/deportes/pablo-vitamina-sanchez-liga-quito-cuenca.html "Pablo ‘Vitamina’ Sánchez vivirá una final adelantada con Liga de Quito")
-* [Liga de Quito está cerca de retener el título de Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-de-quito-esta-cerca-de-retener-el-titulo-de-liga-pro.html "Liga de Quito está cerca de retener el título de Liga Pro")
-
-La razón por la cual el duelo de Liga de Quito se llevará a cabo en simultáneo con otros obedece a sus aspiraciones y a las posibilidades que tienen otros clubes en la tabla de posiciones. En el caso de **Independiente del Valle**, este también cuenta con la oportunidad de ser campeón directo.
-
-El duelo del elenco blanco ante el Deportivo Cuenca se llevará a cabo a las **15:30** de la fecha mencionada, así como el de Orense ante Independiente del Valle. A estos duelos se le sumarán el de El Nacional frente a Técnico Universitario y Mushuc Runa frente a Barcelona.
-
-Hora y dónde ver a Liga de Quito
---------------------------------
-
-Partido: Liga de Quito vs. Deportivo Cuenca
-
-**Fecha**: domingo 01 de diciembre del 2024.
-
-**Hora**: 15:30.
-
-**Estadio**: Rodrigo Paz Delgado.
-
-**Transmisión**: Streaming.
-
-¿Cuáles son las posibilidades de Liga de Quito?
------------------------------------------------
-
-**Liga de Quito** depende de sí misma para llegar a la final de la Liga Pro y tiene más de una posibilidad. El conjunto que dirige Pablo ‘Vitamina’ Sánchez necesita vencer o empatar ante Deportivo Cuenca para asegurar su cupo y no depender de otros resultados.
-
-Con tan solo un punto frente a los morlacos, los albos se volverán inalcanzables para Independiente del Valle aunque este gane. En caso de que la ‘U’ pierda, la única manera de que no vaya a la final es que los rayados triunfen ante Orense.
-
-Altas temperaturas y radiación extrema en Quito este domingo 1 de diciembre
-===========================================================================
-
-El Inamhi detalló las condiciones del clima que registra Quito este domingo 1 de diciembre.
--------------------------------------------------------------------------------------------
-
-![Quito registra un incremento considerable en las temperaturas y la radiación este domingo](https://www.elcomercio.com/wp-content/uploads/2024/12/altas-temperaturas-quito-clima.jpg)
-
-El Instituto Nacional de Meteorología e Hidrología (**Inamhi**) detalló las condiciones del **clima** en **Quito**, este domingo 1 de diciembre de 2024.
-
-### Más noticias
-
-* [Te recomendamos eventos por fiestas de Quito este domingo 1 de diciembre](https://www.elcomercio.com/actualidad/quito/eventos-fiestas-quito-domingo-1-diciembre.html "Te recomendamos eventos por fiestas de Quito este domingo 1 de diciembre")
-* [Quito celebra sus fiestas con desfiles, música y mucho color](https://www.elcomercio.com/actualidad/quito/quito-fiestas-desfiles-comparsas-color.html "Quito celebra sus fiestas con desfiles, música y mucho color")
-* [Estos son los rituales que fusionan distintas culturas para invocar a la lluvia](https://www.elcomercio.com/actualidad/mundo/rituales-lluvia-diferentes-culturas.html "Estos son los rituales que fusionan distintas culturas para invocar a la lluvia")
-
-Según el último reporte meteorológico, el número 65, la capital registra **altas temperaturas** y niveles de radiación ultravioleta **extremadamente altos**.
-
-Clima en Quito este domingo 1 de diciembre
-------------------------------------------
-
-Quito tuvo una mañana con **cielos despejados**, altas temperaturas y ráfagas de viento ocasionales.
-
-Hasta las **19:00** de este domingo se esperan temperaturas máximas entre los **23 a 27 grados centígrados**. Para la tarde, se prevé un cielo con **nubes parciales**.
-
-En la noche, el Inamhi alertó que el cielo continuará despejado o con **pocas nubes**, sin embargo, lo cambiará drásticamente son las temperaturas[.](https://www.inamhi.gob.ec/ "https://www.inamhi.gob.ec/")
-
-El clima a partir de las 19:00 de este viernes, hasta la madrugada de este lunes 2 de diciembre, podría bajar hasta los **2 a 5 grados centígrados**.
-
-> [#PronosticoPichincha](https://twitter.com/hashtag/PronosticoPichincha?src=hash&ref_src=twsrc%5Etfw) l Domingo, 01 de diciembre 2024: Cielo despejado, ráfagas de viento ocasionales. ☀️🍃  
->   
-> Índice de radiación UV Extremadamente Alto. 🌡️🥵🧢☂️  
->   
-> 🟠Advertencia por Alta temperatura y Radiación VIGENTE. Tome Precauciones [pic.twitter.com/SJ0eIZW7SN](https://t.co/SJ0eIZW7SN)
-> 
-> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [December 1, 2024](https://twitter.com/inamhi_ec/status/1863205649737244910?ref_src=twsrc%5Etfw)
-
-Radiación extremadamente alta
------------------------------
-
-Quito, y el resto de Pichincha, registra niveles **extremadamente altos** de radiación UV, este viernes.
-
-Los índices de radiación solar alcanzan los **11 puntos**.
-
-Otras provincias afectadas con índices de radiación muy altos son: **Imbabura, Cotopaxi, Tungurahua, Los Ríos, Guayas, Loja y Azuay**.
-
-> [#RadiacionMaximaUVEc](https://twitter.com/hashtag/RadiacionMaximaUVEc?src=hash&ref_src=twsrc%5Etfw) l Pronóstico del Índice Máximo de Radiación Ultravioleta previsto para el domingo, 01 de diciembre de 2024 [pic.twitter.com/xvlPVWdHg9](https://t.co/xvlPVWdHg9)
-> 
-> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [November 30, 2024](https://twitter.com/inamhi_ec/status/1862964970905874598?ref_src=twsrc%5Etfw)
-
-Altas temperaturas en Ecuador hasta el 3 de diciembre
------------------------------------------------------
-
-El Inamhi pronosticó que las altas temperaturas en Quito y Ecuador se mantendrán hasta el **martes 3 de diciembre**. Lo mismo ocurrirá con el incremento de los niveles de radiación ultravioleta.
-
-En la **Costa**, habrá una mayor intensidad del clima en Guayas, Manabí y Los Ríos. Mientras que en la **Sierra**, Loja y Azuay son las provincias más afectadas. Con menores, pero significativas temperaturas, también están Imbabura, Pichincha, Tungurahua y Chimborazo.
-
-En la Amazonía las más altas temperaturas se registrarán en **Sucumbíos, Orellana y Pastaza**.
-
-Estas condiciones se dan debido al **bajo contenido de humedad** y ráfagas de viento moderadas que se encuentran en el ambiente.
-
-El elevado clima incrementa las posibilidades de que ocurran **incendios forestales** en ciertas zonas.
-
-Recomendaciones para cuidar tu salud
-------------------------------------
-
-* Modifica tus rutinas diarias y evita realizar ejercicio intenso al aire libre.
-* No te expongas directamente al sol entre las 10:00 y las 15:00.
-* Mantente hidratado.
-* Utiliza protección solar, gorras y parasoles.
-
-Alerta de apagones por la primera ola de calor de la temporada en el este de Australia
-======================================================================================
-
-La ola de calor seco eleva los termómetros a temperaturas que rondan los 30 grados en Sídney, la ciudad más poblada de Australia.
----------------------------------------------------------------------------------------------------------------------------------
-
-![La gente participa en actividades en Bondi Beach en Sydney, Australia.](https://www.elcomercio.com/wp-content/uploads/2024/11/SYDNEY-australia-efe.jpg)
-
-Las **autoridades australianas** emitieron una alerta ante el riesgo de apagones en los próximos días de noviembre de 2024, a consecuencia de la **ola de calor**, la primera de esta temporada primaveral, que afronta el este de Australia.
-
-### Más noticias
-
-* [La nieve llega a Europa Central y genera caos en carreteras](https://www.elcomercio.com/actualidad/mundo/nieve-llega-europa-central-genera-caos-carreteras.html "La nieve llega a Europa Central y genera caos en carreteras")
-* [Cancillería confirma muerte del diplomático ecuatoriano Edmundo Morales](https://www.elcomercio.com/actualidad/seguridad/cancilleria-confirma-muerte-diplomatico-ecuatoriano-edmundo-morales.html "Cancillería confirma muerte del diplomático ecuatoriano Edmundo Morales")
-* [Líder republicano veta a legisladora trans de usar baño de mujeres en Congreso de Estados Unidos](https://www.elcomercio.com/actualidad/mundo/lider-republicano-veta-legisladora-trans-usar-bano-mujeres-congreso-estados-unidos.html "Líder republicano veta a legisladora trans de usar baño de mujeres en Congreso de Estados Unidos")
-
-Los pronósticos meteorológicos apuntan a que las temperaturas podrían llegar mañana a casi **40 grados centígrados** en los suburbios del oeste de Sídney, lo que supone más de diez grados por encima de la media que se registra en noviembre.
-
-La ola de calor seco eleva los **termómetros a temperaturas que rondan los 30 grados en Sídney,** la ciudad más poblada de Australia y la capital del estado de Nueva Gales del Sur, así como en Camberra, Brisbane y otras localidades del sureste del país oceánico.
-
-Ola de calor significativa de temporada
----------------------------------------
-
-Si bien se trata de la “primera ola de calor significativa de esta temporada”, los riesgos de incendios son menores debido a la **ausencia de fuertes vientos**, según explicó el inspector del Servicio de Bomberos Rurales de Nueva Gales del Sur, Ben Shepherd, en declaraciones recogidas por la cadena pública australiana ABC.
-
-Riesgos de apagones en Nueva Gales del Sur
-------------------------------------------
-
-Por su lado, el regulador del mercado energético australiano (AEMO, siglas en inglés) informó en un comunicado que existe el **“riesgo” de apagones en el estado de Nueva Gales del Sur** a consecuencia de las condiciones de calor extremo vinculados a un incremento de la demanda, como el uso de aire acondicionado, entre otros factores.
-
-La ola de calor, que afectó la semana pasada a los pobladores de las ciudades de **Melbourne y Adelaida,** en el sur de Australia con temperaturas por encima de los 37 grados, podría amainar con las lluvias que se pronostican a partir de hoy en la zona central y suroriental del país oceánico.
-
-Australia, uno de los mayores contaminantes del planeta si se tiene en cuenta sus exportaciones de combustibles fósiles, es escenario de incendios forestales, ciclones, lluvias torrenciales, tormentas eléctricas e inundaciones con frecuencia, los cuales se han visto agravados en los últimos años por la crisis climática.
