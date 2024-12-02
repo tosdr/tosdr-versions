@@ -299,13 +299,21 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![«Единая Россия» и Минтруда РФ представили в Вологде лучшие форматы по поддержке участников СВО](https://cdn.er.ru/media/news/December2024/osfcLnqtf8WOLAI3J8VV-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-i-mintruda-rf-predstavili-v-vologde-luchshie-formaty-po-podderzhke-uchastnikov-svo)
+
+[«Единая Россия» и Минтруда РФ представили в Вологде лучшие форматы по поддержке участников СВО](https://er.ru/activity/news/edinaya-rossiya-i-mintruda-rf-predstavili-v-vologde-luchshie-formaty-po-podderzhke-uchastnikov-svo)
+
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#СЗФО](https://er.ru/activity/news?tags%5B0%5D=2829) [#Лантратова](https://er.ru/activity/news?tags%5B0%5D=1607) [#Полуянова](https://er.ru/activity/news?tags%5B0%5D=11309) [#участникиСВО](https://er.ru/activity/news?tags%5B0%5D=1094633) [#Минтруда](https://er.ru/activity/news?tags%5B0%5D=17938) [#трудоустройство](https://er.ru/activity/news?tags%5B0%5D=1642) [#реабилитация](https://er.ru/activity/news?tags%5B0%5D=3765) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#женскоедвижениеединойроссии](https://er.ru/activity/news?tags%5B0%5D=1093285)
+
+02.12.24
+
 [![«Единая Россия» открыла в Калининграде шахматный клуб Сергея Карякина](https://cdn.er.ru/media/news/December2024/Gz6TpeI2E6wLvfQqE4Zj-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-otkryla-v-kaliningrade-shahmatnyj-klub-sergeya-karyakina)
 
 [«Единая Россия» открыла в Калининграде шахматный клуб Сергея Карякина](https://er.ru/activity/news/edinaya-rossiya-otkryla-v-kaliningrade-shahmatnyj-klub-sergeya-karyakina)
 
 [#Калининградская область](https://er.ru/activity/news?tags%5B0%5D=780) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#шахматныйклуб](https://er.ru/activity/news?tags%5B0%5D=1095821) [#Карякин](https://er.ru/activity/news?tags%5B0%5D=18764) [#шахматы](https://er.ru/activity/news?tags%5B0%5D=3005) [#штабобщественнойподдержки](https://er.ru/activity/news?tags%5B0%5D=1092101) [#Говырин](https://er.ru/activity/news?tags%5B0%5D=148487) [#Оргеева](https://er.ru/activity/news?tags%5B0%5D=62709)
 
-Сегодня 17:10
+02.12.24
 
 [![На выборах в прошедшее воскресенье кандидаты от «Единой России» получили 88% мандатов](https://cdn.er.ru/media/news/December2024/mbTIt4TVmAgaWzxVN2lD-small.jpg)](https://er.ru/activity/news/na-vyborah-v-proshedshee-voskresene-kandidaty-ot-edinoj-rossii-poluchili-88-mandatov)
 
@@ -313,7 +321,7 @@
 
 [#выборы в ОМСУ](https://er.ru/activity/news?tags%5B0%5D=29588) [#Алтайский край](https://er.ru/activity/news?tags%5B0%5D=514) [#Пермский край](https://er.ru/activity/news?tags%5B0%5D=1082) [#Республика Саха (Якутия)](https://er.ru/activity/news?tags%5B0%5D=6911) [#Республика Татарстан](https://er.ru/activity/news?tags%5B0%5D=2434) [#Пензенская область](https://er.ru/activity/news?tags%5B0%5D=806)
 
-Сегодня 11:18
+02.12.24
 
 [![«Единая Россия» проведёт декаду приёмов граждан в честь Дня рождения партии](https://cdn.er.ru/media/news/December2024/HXIgvVxut5KzX3CmVD5Q-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-provedyot-dekadu-priyomov-grazhdan-v-chest-dnya-rozhdeniya-partii)
 
@@ -321,7 +329,7 @@
 
 [#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#декадаприемовграждан](https://er.ru/activity/news?tags%5B0%5D=141562) [#приемграждан](https://er.ru/activity/news?tags%5B0%5D=103849) [#ДеньРожденияПартииЕдинаяРоссия](https://er.ru/activity/news?tags%5B0%5D=141944) [#ДеньрожденияПартии](https://er.ru/activity/news?tags%5B0%5D=1090865) [#обращенияграждан](https://er.ru/activity/news?tags%5B0%5D=111482) [#приемная](https://er.ru/activity/news?tags%5B0%5D=640) [#штабобщественнойподдержки](https://er.ru/activity/news?tags%5B0%5D=1092101)
 
-Сегодня 09:00
+02.12.24
 
 [![Борис Грызлов: «Единая Россия» помогает всем партиям РФ соответствовать требованиям народа](https://cdn.er.ru/media/news/December2024/VaPxSdb487JfdhZPjfA2-small.jpg)](https://er.ru/activity/news/boris-gryzlov-edinaya-rossiya-pomogaet-vsem-partiyam-rf-sootvetstvovat-trebovaniyam-naroda)
 
@@ -336,14 +344,6 @@
 [В Московской области «Молодая Гвардия Единой России» наградила 16 детей-Героев медалью «Юный Герой»](https://er.ru/activity/news/v-moskovskoj-oblasti-molodaya-gvardiya-edinoj-rossii-nagradila-16-detej-geroev-medalyu-yunyj-geroj)
 
 [#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#Московская область](https://er.ru/activity/news?tags%5B0%5D=765) [#награждение](https://er.ru/activity/news?tags%5B0%5D=2365) [#дети](https://er.ru/activity/news?tags%5B0%5D=368) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
-
-30.11.24
-
-[![Артём Метелев: «Единая Россия» активно работает с Молодежным парламентом при Госдуме](https://cdn.er.ru/media/news/November2024/mjfbokbmbNMrG2KgfaPC-small.jpg)](https://er.ru/activity/news/artyom-metelev-edinaya-rossiya-aktivno-rabotaet-s-molodezhnym-parlamentom-pri-gosdume)
-
-[Артём Метелев: «Единая Россия» активно работает с Молодежным парламентом при Госдуме](https://er.ru/activity/news/artyom-metelev-edinaya-rossiya-aktivno-rabotaet-s-molodezhnym-parlamentom-pri-gosdume)
-
-[#Метелев](https://er.ru/activity/news?tags%5B0%5D=133170) [#Аршинова](https://er.ru/activity/news?tags%5B0%5D=3886) [#Николаев](https://er.ru/activity/news?tags%5B0%5D=8768) [#молодежныйпарламент](https://er.ru/activity/news?tags%5B0%5D=110161) [#итогиработы](https://er.ru/activity/news?tags%5B0%5D=111531) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37)
 
 30.11.24
 
