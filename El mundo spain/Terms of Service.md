@@ -1,8 +1,8 @@
-![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Favisolegal%2Ehtml&s=elmundo&d=Z0y8OwoAAakAAABb5Lg)
+![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Favisolegal%2Ehtml&s=elmundo&d=Z00Q3goAAakAAABb2cI)
 
 Es noticia
 
-* [Accidente autocar español Pirineos](https://www.elmundo.es/espana/2024/12/01/674cb6c021efa0744d8b4680.html)
+* [Accidente autocar Hospitalet Pirineos](https://www.elmundo.es/espana/2024/12/01/674cb6c021efa0744d8b4680.html)
 * [Lotería Navidad](https://www.elmundo.es/loterias/loteria-navidad/comprobar-loteria.html)
 * [Últimas noticias](https://www.elmundo.es/ultimas-noticias.html)
 * [Congreso PSOE](https://www.elmundo.es/espana/2024/12/01/674c5497fc6c83d87b8b45f4.html)
