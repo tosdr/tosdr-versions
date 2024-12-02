@@ -198,7 +198,7 @@ Breadcrumb
 2. [About Us](https://www2.ed.gov/about)
 3. [An Overview of The Department of Education](https://www2.ed.gov/about/ed-overview)
 4. [Required Notices](https://www2.ed.gov/about/ed-overview/required-notices)
-5. [Privacy Program](https://www2.ed.gov/about/ed-overview/required-notices/privacy)
+5. [Privacy Program](https://www2.ed.gov/about/ed-overview/required-notices/privacy-program)
 
 Privacy Policy
 ==============
