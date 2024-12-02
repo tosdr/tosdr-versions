@@ -4,7 +4,7 @@ Zurück
 
 BLACK FRIDAY 2024 --> Spare bis zu 35% auf deine Poster und/oder Leinwandbildbestellung
 
-ab 100€ : +20% Rabatt mit Code: Black20 +++ ab 250€ : +25% Rabatt mit Code: Black25 +++ ab 500€: +30% Rabatt mit Code: Black30
+ab 100€ : +20% Rabatt mit Code: Black20 +++ ab 250€ : +25% Rabatt mit Code: Black25 +++ ab 500€: +30% Rabatt mit Code: Black30 +KOSTENLOSER VERSAND
 
 Weiter
 
