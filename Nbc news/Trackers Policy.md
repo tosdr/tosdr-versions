@@ -6,7 +6,7 @@ For the best experience, turn your mobile device portrait mode.
 
 [Skip to main content](#main-content)
 
-[![Home](https://cdn2.nbcuni.com/NBCUniversal/WICKED-X-NBCUNIVERSAL-LOGO-C.png?VersionId=vjESuFs21y.qJqOClPOmAVFTQEZ2wMhe)](https://www.nbcuniversal.com/ "Home")
+[![Home](https://cdn2.nbcuni.com/NBCUniversal/NBCUniversal_nav_logo.png?VersionId=QTjl3DWXzRwrn3sZuJhgf0LkfPYneybK)](https://www.nbcuniversal.com/ "Home")
 
  ![Open Menu](/themes/custom/universal/src/img/icons/icon_menu.png)![Close Menu](/themes/custom/universal/src/img/icons/icon_close.png)
 
@@ -173,7 +173,7 @@ CHANGES TO THIS NOTICE
 
 This Notice may be revised occasionally and in accordance with legal requirements. Please revisit this Cookie Notice regularly to stay informed about our and our analytic and advertising partners’ use of Cookies.
 
-[![NBCUniversal](https://cdn2.nbcuni.com/NBCUniversal/WICKED-X-NBCUNIVERSAL-LOGO-C.png?VersionId=vjESuFs21y.qJqOClPOmAVFTQEZ2wMhe)](https://www.nbcuniversal.com/)
+[![NBCUniversal](https://cdn2.nbcuni.com/NBCUniversal/NBCUniversal_nav_logo.png?VersionId=QTjl3DWXzRwrn3sZuJhgf0LkfPYneybK)](https://www.nbcuniversal.com/)
 
 [Follow us on LinkedIn](https://www.linkedin.com/company/nbcuniversal-inc-/) [Follow us on Twitter](https://twitter.com/nbcuniversal) [Like us on Facebook](https://www.facebook.com/nbcuniversal/) [instagram](https://www.instagram.com/nbcuniversal/)
 
