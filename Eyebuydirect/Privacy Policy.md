@@ -34,7 +34,7 @@
     
     Cyber Monday Sale](https://www.eyebuydirect.com/offers "Cyber Monday Sale")[![Designer Sale](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Designer Sale](https://img.ebdcdn.com/cms/designer_sale_8d14f341a3.jpg?q=85&seo=designer-sale)
+    ![Designer Sale](https://img.ebdcdn.com/cms/Top_Nav_320_424_EN_3cc9edbaf0.jpg?q=85&seo=designer-sale)
     
     Designer Sale](https://www.eyebuydirect.com/campaign/brands-promo?coupon=hauliday "Designer Sale")[![Best Sellers](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
