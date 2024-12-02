@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**December 1, 2024**
+**December 2, 2024**
 
 * * *
 
@@ -228,25 +228,25 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
+[Hormone Disorders](https://www.sciencedaily.com/news/health_medicine/hormone_disorders/)
+
 [Chronic Illness](https://www.sciencedaily.com/news/health_medicine/chronic_illness/)
 
-[COVID and SARS](https://www.sciencedaily.com/news/health_medicine/covid_and_sars/)
-
-[Hormone Disorders](https://www.sciencedaily.com/news/health_medicine/hormone_disorders/)
+[Caregiving](https://www.sciencedaily.com/news/mind_brain/caregiving/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Nanotechnology](https://www.sciencedaily.com/news/matter_energy/nanotechnology/)
 
-[Electronics](https://www.sciencedaily.com/news/matter_energy/electronics/)
+[Extrasolar Planets](https://www.sciencedaily.com/news/space_time/extrasolar_planets/)
 
-[Spintronics](https://www.sciencedaily.com/news/matter_energy/spintronics/)
+[Robotics](https://www.sciencedaily.com/news/computers_math/robotics/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[New Species](https://www.sciencedaily.com/news/plants_animals/new_species/)
+[Global Warming](https://www.sciencedaily.com/news/earth_climate/global_warming/)
 
-[Birds](https://www.sciencedaily.com/news/plants_animals/birds/)
+[Ice Ages](https://www.sciencedaily.com/news/earth_climate/ice_ages/)
 
 [Wildfires](https://www.sciencedaily.com/news/earth_climate/wildfires/)
 
