@@ -621,14 +621,6 @@ D FM Calgary 30/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Charles and trey were amazing always taking garbage i need great service thank you definitely will use again.
-
-Hailey Lynn Calgary 29/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Great service
 
 Ivana Creates Calgary 29/11/2024
@@ -640,6 +632,22 @@ Ivana Creates Calgary 29/11/2024
 Great service, thanks
 
 alanna dehaan Calgary 29/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Charles and trey were amazing always taking garbage i need great service thank you definitely will use again.
+
+Hailey Lynn Calgary 29/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Great service fromTyler and his colleague very quick and efficient. Very reasonable rates.
+
+ZENA MITCHELL Calgary 28/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -677,14 +685,6 @@ Wiley Wang Calgary 28/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Great service fromTyler and his colleague very quick and efficient. Very reasonable rates.
-
-ZENA MITCHELL Calgary 28/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Tyler and Alex were helpful in removing furniture quickly and safely.
 
 GJ Francis Calgary 27/11/2024
@@ -709,6 +709,14 @@ Michael Mraz Calgary 26/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Great job and super timing! Awesome service and very efficient! Well done!!
+
+Greg Calgary 25/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Super awesome people, who make quick work of the worst renovation messes. Highly recommend, and will definitely use again for future needs.
 
 Tara Ryan Calgary 25/11/2024
@@ -720,14 +728,6 @@ Tara Ryan Calgary 25/11/2024
 Excellent service, they arrived at the agreed time and took the couch.
 
 Rayane Mira Calgary 25/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Great job and super timing! Awesome service and very efficient! Well done!!
-
-Greg Calgary 25/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -885,46 +885,6 @@ Melanie Carey Monteregie Metro 19/04/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Jordan and Alex did a fantastic job!!Highly recommend.
-
-Angela Moore Naples 30/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Trevor, Lucas & Gabe were awesome, went above and beyond. Very personable. Definitely recommend!
-
-Hugh Glore Cincinnati 30/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Alex and Jordan did a GREAT JOB!!! Friendly and helpful!!
-
-Keith Cooper Naples 30/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Justin and Paris were great! Super quick and easy process!
-
-Susan Conroy Cincinnati 30/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Logan and Junior were very courteous and helpful.
-
-Mark Denny Naples 30/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Bobby & Noe did a fabulous job clearing out junk at the end of our move! Fair, polite & quick :)
 
 K J Austin 30/11/2024
@@ -1005,25 +965,65 @@ Jeff Card Seattle 30/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Antwone & Dylan were awesome!! Thank you so much. The pick up was quick and easy! And guys were so nice
+Jordan and Alex did a fantastic job!!Highly recommend.
 
-Grace DeLisi Seattle 29/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Joshua and gio were so helpful and polite they were very professional I will guarantee use you guys services again thank you
-
-Jason Luther Naples 29/11/2024
+Angela Moore Naples 30/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Tyler and Antwon were quick and professional! They arrived on time and easily removed a treadmill for me.
+Trevor, Lucas & Gabe were awesome, went above and beyond. Very personable. Definitely recommend!
 
-Lindsay Seattle 29/11/2024
+Hugh Glore Cincinnati 30/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Both were fast and efficient. Very friendly. Great experience all around
+
+john thomas Columbus 30/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Alex and Jordan did a GREAT JOB!!! Friendly and helpful!!
+
+Keith Cooper Naples 30/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Justin and Paris were great! Super quick and easy process!
+
+Susan Conroy Cincinnati 30/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Logan and Junior were very courteous and helpful.
+
+Mark Denny Naples 30/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Friendly service, fair price for 3 items
+
+K cey Cincinnati 29/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Nice job of quickly and safely removing furniture- courtesy and polite
+
+Jake Lunsford Cincinnati 29/11/2024
 
 ### 
 
