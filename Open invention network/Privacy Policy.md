@@ -210,45 +210,45 @@ Welcome to our Newest Members!
 
 Testimonials
 
-> Tencent is committed to offering high-quality, Internet-based services from social, games and digital content to mobile payment, cloud services, Internet financial services and smart retail solutions, among many others. Linux and open source are critical elements in the technologies that we are developing to provide these services. By joining the Open Invention Network, we are demonstrating our continued commitment to innovation, and supporting it with patent non-aggression in Linux.  
+> Our stated mission is “Enabling Leading-Edge Technologies” and continuously improving ourselves so that we can offer products and services that satisfy our customers worldwide and contribute to the development of our society through the development of the most advanced technologies. In order to further promote this effort, we believe that the utilization of open source software will be essential. Open source platforms enable the rapid deployment of advanced computing and testing solutions. W… [Read more](https://www.openinventionnetwork.com/testimonial/advantest/ "Complete testimonial by Koichi Tsukui")
 
-Xu YanSenior Account ManagerTencent Holdings Limited
+Koichi TsukuiChief Technology Officer, Advantest
 
-> We look forward to participating in the Open Invention Network. Many of the services and apps that our customers depend on every day have been developed using open source software and we look forward to helping safeguard its future.  
+> OIN is an organization which helps protect the Linux ecosystem by building a variety of defenses against patent attacks. By joining, Mozilla receives cross-licenses from other OIN licensees, but more importantly, for the long term, it affords us a chance to work with OIN in reducing IP threats to open source development and innovation.  
 
-Luke IbbetsonHead of Group R&DVodaphone
-
-> The Mercari Group’s systems are supported by a variety of open source software. As a beneficiary of the enormous contributions made by the open source software community, we believe making a contribution to innovation in the world by publishing technology accumulated through the development and operation of our services, such as Mercari and Merpay, as open source is the right choice. Hence, the Mercari Group endorses the activities of OIN which protects innovations with open source from patent… [Read more](https://www.openinventionnetwork.com/testimonial/mercari/ "Complete testimonial by Mercari")
-
-Mercari
-
-> The OIN membership supports Kontron on many levels. With our focus on building out our IoT framework, it makes perfect sense to be a part of an open source community that protects the rights of all members within the community, especially to reduce our patent risk around Linux related technology.  
-
-Jens WiegandCTO / EVP Software & ElectronicsKontron
-
-> Yandex likes Linux. We use it, commit to it. We advocate the creation of a secure zone around the Linux kernel, free from patent wars. The same goals are pursued by the Open Invention Network, which unites thousands of companies around the world.  
-
-Yandex
-
-> Linux is the largest undertaking of shared innovation in our planet’s history. The OSS community has written and shared billions of lines of code that have transformed the way businesses operate and consumers live. We congratulate OIN for its 15 years, during which it has provided a protective shield against patent aggression. We encourage all open source contributors and users to join OIN and demonstrate their commitment to a safe environment for continued growth in Linux and other OSS proje… [Read more](https://www.openinventionnetwork.com/testimonial/jim-zemlin-the-linux-foundation/ "Complete testimonial by Jim Zemlin")
-
-Jim ZemlinExecutive DirectorThe Linux Foundation
-
-> _We have an unrelenting focus to put customers at the center of what we do. Incorporating Open Source software is one of the ways we implement the best technologies in our systems to deliver services and experiences that our customers value and trust. At U.S. Bank, we are committed to technology innovation, and we are proud to join the Open Invention Network and support its role in protecting Open Source software._
-
-Don RelyeaChief Innovation Officer, U.S. Bank
+Harvey AndersonVP & General CounselMozilla
 
 > Spurious claims from Patent Assertion Entities divert resources and investment away from true innovation and collaboration. We also recognize that a modern approach to technology development and innovation requires a level playing field around use of open source software. With membership of LOT and OIN, we are pleased to contribute to and extend the growing global community working together to reduce the PAE threat and lower barriers to use of open source technologies.  
 
 Lee BraineManaging Director, Chief Technology OfficeBarclays
 
-> By joining the Open Invention Network, we are demonstrating our continued commitment to innovation, and supporting it with patent non-aggression in core Linux and adjacent open source software.  
+> The OpenChain Project is part of a broad global community engaging with all aspects of intellectual property around open source.  
 
-Donny ZhangVPInspur
+Shane CoughlanProgram ManagerOpenChain Project
 
-> Embecosm has joined OIN, an industry consortium with an ever-growing patent pool that facilitates cross-licensing, for mutual defense against those who would use patents against the Linux ecosystem. All members are protected, even companies like Embecosm which bring no patents to the table. I don’t like the world we are in, but at least Embecosm is now in a stronger position to protect free software.  
+> Global adoption of Linux and other open source technologies is an irreversible trend. For the last 15 years, they have transformed almost every industry. By sharing innovation, Linux and open source capabilities have soared, application interoperability is unprecedented, connectivity is virtually everywhere, while business and consumer productivity are at all-time highs. By blocking patent aggression in open source, OIN has enabled safer investments in product development and helped to enable th… [Read more](https://www.openinventionnetwork.com/testimonial/nec-and-necam/ "Complete testimonial by Hirotake Konda - GM, IP Management Division & Department Manager, NEC // Jackson Chen - Senior Associate General Counsel, NCAM")
 
-Jeremy BennettFounder and Chief ExecutiveEmbecosm
+Hirotake Konda - GM, IP Management Division & Department Manager, NEC // Jackson Chen - Senior Associate General Counsel, NCAM
+
+> _As we build a better experience for our clients, open source can be a significant innovation enabler for the platforms and applications we build and integrate. We’re proud to join the Open Invention Network and support its role in protecting open source software from patent risk._
+
+Michael SpringsChief Intellectual Property Counsel, Truist
+
+> We strive to be the top short video social platform and community for all users to record and share their lives. Linux and open source are critical elements in technologies we develop and integrate into our platform. By joining the Open Invention Network, we are demonstrating our continued commitment to innovation, and supporting it with patent non-aggression in core Linux and adjacent open source software.  
+
+Hongyi JiaGeneral CounselKuaishou Group
+
+> _We have an unrelenting focus to put customers at the center of what we do. Incorporating Open Source software is one of the ways we implement the best technologies in our systems to deliver services and experiences that our customers value and trust. At U.S. Bank, we are committed to technology innovation, and we are proud to join the Open Invention Network and support its role in protecting Open Source software._
+
+Don RelyeaChief Innovation Officer, U.S. Bank
+
+> Consistent with OIN’s mission to provide freedom of action in Linux, we believe it is important to reinforce the principle that Intellectual Property (IP) enforcement should be conducted in a manner that is rational and in consonance with the collaborative process that occurs in Open Source Software (OSS). We encourage all of our members to provide their unequivocal support for the GPL Cooperation Commitment.  
+
+Keith BergeltCEOOpen Invention Network
+
+> Open Source technologies, especially Embedded Linux, have enabled the rapid development of intelligent products that can be found throughout the infrastructure of homes. LIXIL’s participation in the OIN community shows our consistent commitment to open source innovation.  
+
+Yugo KanazawaChief Digital OfficerLIXIL
 
 [![Open Invention Network](https://openinventionnetwork.com/wp-content/uploads/2024/01/oin-website-logo.png)](https://openinventionnetwork.com/)
 
@@ -262,7 +262,7 @@ Your Name\*
 
 Email\*
 
-Name
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
