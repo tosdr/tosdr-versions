@@ -418,9 +418,9 @@ Top
     
     [How to Rent a Motorcycle in Pakistan (with Prices)](https://blog.karlrock.com/how-to-rent-a-motorcycle-in-pakistan-with-prices/ "How to Rent a Motorcycle in Pakistan (with Prices)")
     
-* [![Can You Take an Indian-Registered or Foreign Vehicle to Pakistan?](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2023/08/img_9105-scaled.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/can-you-take-an-indian-registered-or-foreign-vehicle-to-pakistan/ "Can You Take an Indian-Registered or Foreign Vehicle to Pakistan?")
+* [![The Real Locations of Shantaram](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2022/10/Shantaram-TV-show-is-filmed-in-thailand-not-india.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/the-real-locations-of-shantaram/ "The Real Locations of Shantaram")
     
-    [Can You Take an Indian-Registered or Foreign Vehicle to Pakistan?](https://blog.karlrock.com/can-you-take-an-indian-registered-or-foreign-vehicle-to-pakistan/ "Can You Take an Indian-Registered or Foreign Vehicle to Pakistan?")
+    [The Real Locations of Shantaram](https://blog.karlrock.com/the-real-locations-of-shantaram/ "The Real Locations of Shantaram")
     
 
 © 2024 [Karl Rock's Blog](https://blog.karlrock.com/)
