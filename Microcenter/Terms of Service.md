@@ -40,11 +40,11 @@ Search for product
     
     Dallas
     
-    Opens 9AM Mon
+    Opens at 9AM
     
     ![get store info](https://60a99bedadae98078522-a9b6cded92292ef3bace063619038eb1.ssl.cf2.rackcdn.com/chevron-downWhite.svg)
     
-* Open 10am - 7pm today
+* Open 9am - 9pm today
 * * ![Close Modal](https://60a99bedadae98078522-a9b6cded92292ef3bace063619038eb1.ssl.cf2.rackcdn.com/images_buttons_btn_closeModal.png)Close Your Store Modal
     * Your Store
         
@@ -939,7 +939,7 @@ Product category, brand navigation and general site naviation
         
     * [Account Sign in](https://account.microcenter.com/members/account.aspx)
 * [Top Deals](https://www.microcenter.com/search/search_results.aspx?Ntt=5206&Ntk=Adv)
-    * [BLACK FRIDAY DEALS](https://www.microcenter.com/search/search_results.aspx?Ntt=5126&Ntk=Adv)
+    * [CYBER MONDAY DEALS](https://www.microcenter.com/search/search_results.aspx?Ntt=5126&Ntk=Adv)
     * [PC Parts](https://www.microcenter.com/search/search_results.aspx?Ntt=5206&Ntk=Adv&N=4294966998)
     * [Processors](https://www.microcenter.com/search/search_results.aspx?Ntt=5206&Ntk=Adv&N=4294966995)
     * [SSDs](https://www.microcenter.com/search/search_results.aspx?Ntt=5206&Ntk=Adv&N=4294945779)
