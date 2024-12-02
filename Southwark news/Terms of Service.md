@@ -20,6 +20,14 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Greenland Quay, Surrey Quays. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/12/Greenland-Quay-Surrey-Quays.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/rotherhithe/man-charged-with-murder-after-woman-fatally-stabbed-in-surrey-quays/)
+    
+    ### [Man charged with murder after woman fatally stabbed in Surrey Quays](https://southwarknews.co.uk/area/rotherhithe/man-charged-with-murder-after-woman-fatally-stabbed-in-surrey-quays/)
+    
+    [![](https://southwarknews.co.uk/wp-content/uploads/2018/12/new-years.jpg)](https://southwarknews.co.uk/area/london/warning-over-fake-tickets-for-londons-new-years-eve-fireworks-display/)
+    
+    ### [Warning over fake tickets for London’s New Year’s Eve fireworks display](https://southwarknews.co.uk/area/london/warning-over-fake-tickets-for-londons-new-years-eve-fireworks-display/)
+    
     [![](https://southwarknews.co.uk/wp-content/uploads/2024/11/26_11_2024_Southwark-Council_100000th-Tree_IWM_0086-1-360x180.jpg)](https://southwarknews.co.uk/news/community/southwark-becomes-first-inner-london-borough-with-100000-trees/)
     
     ### [Southwark becomes first inner London borough with 100,000 trees](https://southwarknews.co.uk/news/community/southwark-becomes-first-inner-london-borough-with-100000-trees/)
@@ -47,14 +55,6 @@
     [![It kicks off at Leake Street's tunnel (credit: Stephane Wright)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Niall-KellyCaitlinTommy-highres-360x180.jpg)](https://southwarknews.co.uk/area/waterloo/over-800-bmx-riders-in-santa-outfits-to-cycle-through-waterloo-graffiti-tunnel/)
     
     ### [Over 800 BMX riders in Santa outfits to cycle through Waterloo graffiti tunnel](https://southwarknews.co.uk/area/waterloo/over-800-bmx-riders-in-santa-outfits-to-cycle-through-waterloo-graffiti-tunnel/)
-    
-    [![Moses Orekoya, operations director (left) and Peter Sosanya, operative manager (right) outside the blocked fire exit](https://southwarknews.co.uk/wp-content/uploads/2024/11/image00003-9-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/southwarks-largest-employer-of-jobless-says-he-is-being-forced-to-leave-borough-over-parked-car-blocking-fire-exit/)
-    
-    ### [Southwark’s largest employer of jobless says he is being forced to leave borough over parked car blocking fire exit](https://southwarknews.co.uk/area/bermondsey/southwarks-largest-employer-of-jobless-says-he-is-being-forced-to-leave-borough-over-parked-car-blocking-fire-exit/)
-    
-    [![Bellenden Primary School](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-26-11-2024-at-13.57-360x180.jpg)](https://southwarknews.co.uk/area/peckham/peckham-primary-school-featured-on-special-news-show-that-will-be-shown-across-the-uk/)
-    
-    ### [Peckham primary school featured on special news show that will be shown across the UK](https://southwarknews.co.uk/area/peckham/peckham-primary-school-featured-on-special-news-show-that-will-be-shown-across-the-uk/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,6 +105,14 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Greenland Quay, Surrey Quays. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/12/Greenland-Quay-Surrey-Quays.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/rotherhithe/man-charged-with-murder-after-woman-fatally-stabbed-in-surrey-quays/)
+    
+    ### [Man charged with murder after woman fatally stabbed in Surrey Quays](https://southwarknews.co.uk/area/rotherhithe/man-charged-with-murder-after-woman-fatally-stabbed-in-surrey-quays/)
+    
+    [![](https://southwarknews.co.uk/wp-content/uploads/2018/12/new-years.jpg)](https://southwarknews.co.uk/area/london/warning-over-fake-tickets-for-londons-new-years-eve-fireworks-display/)
+    
+    ### [Warning over fake tickets for London’s New Year’s Eve fireworks display](https://southwarknews.co.uk/area/london/warning-over-fake-tickets-for-londons-new-years-eve-fireworks-display/)
+    
     [![](https://southwarknews.co.uk/wp-content/uploads/2024/11/26_11_2024_Southwark-Council_100000th-Tree_IWM_0086-1-360x180.jpg)](https://southwarknews.co.uk/news/community/southwark-becomes-first-inner-london-borough-with-100000-trees/)
     
     ### [Southwark becomes first inner London borough with 100,000 trees](https://southwarknews.co.uk/news/community/southwark-becomes-first-inner-london-borough-with-100000-trees/)
@@ -132,14 +140,6 @@ View All Result
     [![It kicks off at Leake Street's tunnel (credit: Stephane Wright)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Niall-KellyCaitlinTommy-highres-360x180.jpg)](https://southwarknews.co.uk/area/waterloo/over-800-bmx-riders-in-santa-outfits-to-cycle-through-waterloo-graffiti-tunnel/)
     
     ### [Over 800 BMX riders in Santa outfits to cycle through Waterloo graffiti tunnel](https://southwarknews.co.uk/area/waterloo/over-800-bmx-riders-in-santa-outfits-to-cycle-through-waterloo-graffiti-tunnel/)
-    
-    [![Moses Orekoya, operations director (left) and Peter Sosanya, operative manager (right) outside the blocked fire exit](https://southwarknews.co.uk/wp-content/uploads/2024/11/image00003-9-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/southwarks-largest-employer-of-jobless-says-he-is-being-forced-to-leave-borough-over-parked-car-blocking-fire-exit/)
-    
-    ### [Southwark’s largest employer of jobless says he is being forced to leave borough over parked car blocking fire exit](https://southwarknews.co.uk/area/bermondsey/southwarks-largest-employer-of-jobless-says-he-is-being-forced-to-leave-borough-over-parked-car-blocking-fire-exit/)
-    
-    [![Bellenden Primary School](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-26-11-2024-at-13.57-360x180.jpg)](https://southwarknews.co.uk/area/peckham/peckham-primary-school-featured-on-special-news-show-that-will-be-shown-across-the-uk/)
-    
-    ### [Peckham primary school featured on special news show that will be shown across the UK](https://southwarknews.co.uk/area/peckham/peckham-primary-school-featured-on-special-news-show-that-will-be-shown-across-the-uk/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -243,6 +243,12 @@ Terms of Use
 
 ### Featured Articles
 
+[![Greenland Quay, Surrey Quays. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/12/Greenland-Quay-Surrey-Quays.-Image-Google-120x86.png)](https://southwarknews.co.uk/area/rotherhithe/man-charged-with-murder-after-woman-fatally-stabbed-in-surrey-quays/)
+
+### [Man charged with murder after woman fatally stabbed in Surrey Quays](https://southwarknews.co.uk/area/rotherhithe/man-charged-with-murder-after-woman-fatally-stabbed-in-surrey-quays/)
+
+[2nd December 2024](https://southwarknews.co.uk/area/rotherhithe/man-charged-with-murder-after-woman-fatally-stabbed-in-surrey-quays/)
+
 [![](https://southwarknews.co.uk/wp-content/uploads/2024/11/26_11_2024_Southwark-Council_100000th-Tree_IWM_0086-1-120x86.jpg)](https://southwarknews.co.uk/news/community/southwark-becomes-first-inner-london-borough-with-100000-trees/)
 
 ### [Southwark becomes first inner London borough with 100,000 trees](https://southwarknews.co.uk/news/community/southwark-becomes-first-inner-london-borough-with-100000-trees/)
@@ -272,12 +278,6 @@ Terms of Use
 ### [Over 800 BMX riders in Santa outfits to cycle through Waterloo graffiti tunnel](https://southwarknews.co.uk/area/waterloo/over-800-bmx-riders-in-santa-outfits-to-cycle-through-waterloo-graffiti-tunnel/)
 
 [30th November 2024](https://southwarknews.co.uk/area/waterloo/over-800-bmx-riders-in-santa-outfits-to-cycle-through-waterloo-graffiti-tunnel/)
-
-[![Moses Orekoya, operations director (left) and Peter Sosanya, operative manager (right) outside the blocked fire exit](https://southwarknews.co.uk/wp-content/uploads/2024/11/image00003-9-120x86.jpeg)](https://southwarknews.co.uk/area/bermondsey/southwarks-largest-employer-of-jobless-says-he-is-being-forced-to-leave-borough-over-parked-car-blocking-fire-exit/)
-
-### [Southwark’s largest employer of jobless says he is being forced to leave borough over parked car blocking fire exit](https://southwarknews.co.uk/area/bermondsey/southwarks-largest-employer-of-jobless-says-he-is-being-forced-to-leave-borough-over-parked-car-blocking-fire-exit/)
-
-[30th November 2024](https://southwarknews.co.uk/area/bermondsey/southwarks-largest-employer-of-jobless-says-he-is-being-forced-to-leave-borough-over-parked-car-blocking-fire-exit/)
 
 ### USEFUL PAGES
 
