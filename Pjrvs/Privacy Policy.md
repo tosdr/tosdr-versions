@@ -19,7 +19,7 @@ Paul Jarvis
 
 ![Paul Jarvis](/assets/src/avatars/paul.png)
 
-Paul Jarvis is the co-founder of Fathom Analytics, handling the design, content and brand of the business.
+Paul Jarvis was the co-founder of Fathom Analytics (now retired), and handled the design, content and brand of the business.
 
 He is also the author of [Company of One](https://amzn.to/3weCswM) (which has been published in 20+ languages worldwide). His writing and ideas have appeared in Bloomberg, The Financial Times, Inc., Forbes, CNBC, The Next Web, Fast Company, USA Today and more.
 
