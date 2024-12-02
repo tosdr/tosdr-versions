@@ -214,10 +214,11 @@ The following are third-party cookies.
 | third party | intercom-id-<id>  <br>intercom-session-<id> | 1 year  <br>Session | Intercom ID to connect website and Intercom account, and distinguish users (Intercom) | [Intercom Cookie Policy](https://www.intercom.com/terms-and-policies#cookie-policy) |
 | third party | product\_store\_identifier | 1 year | Intercom ID to identify the account (Intercom) | [Intercom Cookie Policy](https://www.intercom.com/terms-and-policies#cookie-policy) |
 | third party | bcookie  <br>li\_gc  <br>lidc  <br>li\_sugr  <br>UserMatchHistory  <br>AnalyticSyncHistory | 1 year  <br>6 months  <br>24 hours  <br>90 days  <br>30 days  <br>30 days | Delivers tailored offers, links your website visit to the originating advertisements, and provides insights into the performance of our advertising campaigns (LinkedIn) | [LinkedIn Cookie Policy](https://www.linkedin.com/legal/cookie-policy) |
+| third party | guest\_id  <br>guest\_id\_ads  <br>guest\_id\_marketing  <br>personalization\_id | 30 days  <br>1 year  <br>1 year  <br>1 year | Used for authentication, personalized experiences, marketing purposes, and to track activities off Twitter to enhance advertising campaigns and their performance. | [Twitter Cookie Policy](https://twitter.com/en/privacy) |
 
 If you have any questions regarding the use of cookies at Fibery, please feel free to contact us at support@fibery.io or gdpr@fibery.io.
 
-Last update date: November 19th, 2024.
+Last update date: December 2nd, 2024.
 
 Try for free till you 🖤 it, or till trial expires 🤷
 
