@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Cage Fighting In The USA](/wp-content/thumbnails/7617-100x70.jpg?x53432)
+* [![The War Business](/wp-content/thumbnails/13771-100x70.jpg?x53432)
     
-    Cage Fighting In The USA
+    The War Business
     
-    We explore the fastest growing sport in America – Mixed Martial Arts (MMA). MMA is now a billion-dollar industry, watched by millions on national TV. But increasingly, amateurs are stepping onto the m](https://documentaryheaven.com/cage-fighting-usa/ "Cage Fighting In The USA")
-* [![War Machines: Tank](/wp-content/thumbnails/5825-100x70.jpg?x53432)
+    The War Business is a film by Mark Stucke which deals with the practice of private armies or mercenaries hired by governments and multinational companies. These are typically companies](https://documentaryheaven.com/war-business/ "The War Business")
+* [![Jaguars Born Free](/wp-content/thumbnails/7436-100x70.jpeg?x53432)
     
-    War Machines: Tank
+    Jaguars Born Free
     
-    The tank is every general’s dream: firepower combined with mobility. Tank historians and war veterans spotlight the major advances that make up the evolutionary timeline of the tank’s development.](https://documentaryheaven.com/war-machines-tank/ "War Machines: Tank")
-* [![Thalidomide: A Wonder Drug](/wp-content/thumbnails/7944-100x70.jpg?x53432)
+    In this Natural World special, three tiny orphaned jaguar cubs are discovered in a Brazilian forest. A family decide to take the place of their mother and train them to become wild again. Over two yea](https://documentaryheaven.com/jaguars-born-free/ "Jaguars Born Free")
+* [![Cops Behaving Badly](/wp-content/thumbnails/7048-100x70.png?x53432)
     
-    Thalidomide: A Wonder Drug
+    Cops Behaving Badly
     
-    It is 50 years since thalidomide was first introduced on to the UK market as a cure for morning sickness. Those affected by the drug are still fighting for compensation - while others are fighting to](https://documentaryheaven.com/thalidomide-wonder-drug/ "Thalidomide: A Wonder Drug")
-* [![Jim Morrison: His Final Hours](/wp-content/thumbnails/6838-100x70.jpg?x53432)
+    What happens when the police fail in their sworn duty to protect life, when they get it wrong or when police officers themselves break the law?BBC’s Richard Bilton investigates cops who behave bad](https://documentaryheaven.com/cops-behaving-badly/ "Cops Behaving Badly")
+* [![Do You Know What Time It Is?](/wp-content/thumbnails/295-100x70.png?x53432)
     
-    Jim Morrison: His Final Hours
+    Do You Know What Time It Is?
     
-    Jim Morrison was one of the most famous rock singers in the world. He was also the ultimate sex symbol, but Morrison was at war with his own dark demons. Using archive footage, dramatic reenactment an](https://documentaryheaven.com/jim-morrison-his-final-hours/ "Jim Morrison: His Final Hours")
-* [![Amy](/wp-content/thumbnails/10742-100x70.jpg?x53432)
+    Particle physicist Professor Brian Cox asks, 'What time is it?' It's a simple question and it sounds like it has a simple answer. But do we really know what it is that we're asking?Brian visits th](https://documentaryheaven.com/do-you-know-what-time-it-is/ "Do You Know What Time It Is?")
+* [![A Competent Democracy](/wp-content/thumbnails/6634-100x70.jpg?x53432)
     
-    Amy
+    A Competent Democracy
     
-    A close and personal depiction of the life and death of the late British musician Amy Winehouse, directed by Asif Kapadia. Using archival footage and home videos we get a real sense for who](https://documentaryheaven.com/amy/ "Amy")
+    A Competent Democracy presents a detailed analysis of our political systems today and asks the question throughout: Do our political systems today offer any technical approach to governing society and](https://documentaryheaven.com/a-competent-democracy/ "A Competent Democracy")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
