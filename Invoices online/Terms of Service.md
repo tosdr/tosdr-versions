@@ -196,61 +196,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Wish I started ages ago!
-> ------------------------
+> One of the best decisions I've made for my business
+> ---------------------------------------------------
 > 
-> I just want to compliment you and your team for an amazing back office software.
-> 
-> I have been struggling with a proper invoicing solution for six months now (to make time each month)
-> 
-> I just wish I started using Invoices Online ages ago.
+> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
 
-Terri Winfield
+Anri van der Linde
 
-![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=941e785abe50ede58c0f6d0820dc1ff1198532a4a62f02278fb3721e86d74089&c=39815335)  
-LEONARD
+![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=8be50f0c6fa052bc9a1be306eb445492b061fa8379a065b1f6bd3b9487d57056&c=140813046)  
+Adele Jordaan T/A Joyful Noise Music Room
 
-![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=941e785abe50ede58c0f6d0820dc1ff1198532a4a62f02278fb3721e86d74089&c=134953782)  
-Entidee Enterprise PTY (ltd)
+![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=8be50f0c6fa052bc9a1be306eb445492b061fa8379a065b1f6bd3b9487d57056&c=164639552)  
+Wiselink Broadband Pty Ltd
 
-![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=941e785abe50ede58c0f6d0820dc1ff1198532a4a62f02278fb3721e86d74089&c=6725354)  
-OPTIMUS ELECTRICAL PTY (LTD)
+![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=8be50f0c6fa052bc9a1be306eb445492b061fa8379a065b1f6bd3b9487d57056&c=123454965)  
+Kinetic Power Solutions (Pty) Ltd.
 
-![valued client SAUL ATHOL ACRES RENTAL](https://www.invoicesonline.co.za/scripts/image.php?bid=8430&file=logo_300_100&type=&fe=941e785abe50ede58c0f6d0820dc1ff1198532a4a62f02278fb3721e86d74089&c=72427216)  
-SAUL ATHOL ACRES RENTAL
-
-![valued client MONSTER SECURITY SERVICES (NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=941e785abe50ede58c0f6d0820dc1ff1198532a4a62f02278fb3721e86d74089&c=11352879)  
-MONSTER SECURITY SERVICES (NORTHAM)
-
-![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=941e785abe50ede58c0f6d0820dc1ff1198532a4a62f02278fb3721e86d74089&c=142506505)  
-Kaylas Creations
-
-![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=941e785abe50ede58c0f6d0820dc1ff1198532a4a62f02278fb3721e86d74089&c=113607594)  
-Well Hung Art
-
-![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=941e785abe50ede58c0f6d0820dc1ff1198532a4a62f02278fb3721e86d74089&c=54685354)  
-Safe-Train Consulting (PTY) Ltd
-
-![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=941e785abe50ede58c0f6d0820dc1ff1198532a4a62f02278fb3721e86d74089&c=136594777)  
-Imhoff Equestrian Centre
-
-![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=941e785abe50ede58c0f6d0820dc1ff1198532a4a62f02278fb3721e86d74089&c=16013116)  
-van Schaik rentals
-
-![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=941e785abe50ede58c0f6d0820dc1ff1198532a4a62f02278fb3721e86d74089&c=163280704)  
-Camp 4 Africa (Pty) Ltd
-
-![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=941e785abe50ede58c0f6d0820dc1ff1198532a4a62f02278fb3721e86d74089&c=165082613)  
+![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=8be50f0c6fa052bc9a1be306eb445492b061fa8379a065b1f6bd3b9487d57056&c=210012402)  
 Lizzy Pop PTY(Ltd)
 
-![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=941e785abe50ede58c0f6d0820dc1ff1198532a4a62f02278fb3721e86d74089&c=82860471)  
-Peter Salvage Pty Ltd
+![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=8be50f0c6fa052bc9a1be306eb445492b061fa8379a065b1f6bd3b9487d57056&c=73988811)  
+Cpower Projects t/a Pro Pure Water
 
-![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=941e785abe50ede58c0f6d0820dc1ff1198532a4a62f02278fb3721e86d74089&c=92385059)  
-UMVIKELI PRIVATE SECURITY
+![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=8be50f0c6fa052bc9a1be306eb445492b061fa8379a065b1f6bd3b9487d57056&c=140286013)  
+VerdanTech Pty Ltd
 
-![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=941e785abe50ede58c0f6d0820dc1ff1198532a4a62f02278fb3721e86d74089&c=207407513)  
-Imvubu General Trading
+![valued client MONSTER SECURITY SERVICES (NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=8be50f0c6fa052bc9a1be306eb445492b061fa8379a065b1f6bd3b9487d57056&c=109593276)  
+MONSTER SECURITY SERVICES (NORTHAM)
+
+![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=8be50f0c6fa052bc9a1be306eb445492b061fa8379a065b1f6bd3b9487d57056&c=143331856)  
+TIGERDSL
+
+![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=8be50f0c6fa052bc9a1be306eb445492b061fa8379a065b1f6bd3b9487d57056&c=126747651)  
+Frequency Fanatics (Pty) Ltd
+
+![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=8be50f0c6fa052bc9a1be306eb445492b061fa8379a065b1f6bd3b9487d57056&c=214222139)  
+kidoscabbie
+
+![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=8be50f0c6fa052bc9a1be306eb445492b061fa8379a065b1f6bd3b9487d57056&c=90483272)  
+Lion Software Develepment
+
+![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=8be50f0c6fa052bc9a1be306eb445492b061fa8379a065b1f6bd3b9487d57056&c=173229940)  
+LEONARD
+
+![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=8be50f0c6fa052bc9a1be306eb445492b061fa8379a065b1f6bd3b9487d57056&c=50444561)  
+Laurinda Pretorius Spraak en Drama Ateljee
+
+![valued client Atalie Scented Candles Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7239&file=logo_300_100&type=&fe=8be50f0c6fa052bc9a1be306eb445492b061fa8379a065b1f6bd3b9487d57056&c=9584279)  
+Atalie Scented Candles Pty Ltd
+
+![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=8be50f0c6fa052bc9a1be306eb445492b061fa8379a065b1f6bd3b9487d57056&c=85033022)  
+Iurus Inc
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
