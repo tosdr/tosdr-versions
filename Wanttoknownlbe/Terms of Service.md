@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/20-21-mei-unieke-kosmische-constellatie/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/sprookjes-en-tijdreizen/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
