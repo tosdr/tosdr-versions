@@ -298,11 +298,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-colakovic-silja/skulptura/silja18.jpg?itok=Tqm1OFdN)](http://seecult.org/galerija/galerija-umetnika/dragan-colakovic-silja/skulptura)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/ras-todosijevic/radovi/works/clinic-van-gogh-1998.jpg?itok=sLiJNtaN)](http://seecult.org/galerija/galerija-umetnika/rasa-todosijevic/radovi-works)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/nick-cave_0.jpg?itok=2bOPP2GQ)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/dama-iz-maksima.jpg?itok=v9otsEmY)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -318,6 +318,7 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 * [Nadežda Petrović u Narodnom muzeju](http://seecult.org/vest/nadezda-petrovic-u-narodnom-muzeju)
 
+* [Autonomija zajednice - pazi lomljivo](http://seecult.org/vest/autonomija-zajednice-pazi-lomljivo)
 * [Nominalno više, procentualno manje para za kulturu](http://seecult.org/vest/nominalno-vise-procentualno-manje-para-za-kulturu)
 * [RUTA peti put u BDP-u](http://seecult.org/vest/ruta-peti-put-u-bdp-u)
 * [Društvo bez zajednice](http://seecult.org/vest/drustvo-bez-zajednice)
@@ -327,7 +328,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Veseli pakao poezije](http://seecult.org/vest/veseli-pakao-poezije)
 * [Sorentinijev Partenopa otvara Dane italijanskog filma](http://seecult.org/vest/sorentinijev-partenopa-otvara-dane-italijanskog-filma)
 * [CERN – univerzum otkrića](http://seecult.org/vest/cern-univerzum-otkrica)
-* [Dobitnici nagrade Jelena Šantić - Za hrabri iskorak](http://seecult.org/vest/dobitnici-nagrade-jelena-santic-za-hrabri-iskorak)
 
 * [Konkursi](#tab1_1)
 
