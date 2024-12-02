@@ -108,6 +108,8 @@
         Português](https://ftmo.com/pt/terms-conditions/)
 * [Client Area](https://trader.ftmo.com/?lang=en)
 
+Cyber Monday has arrived, and we offer 10% off on all undiscounted [FTMO Challenges](https://trader.ftmo.com/start-challenge/)!
+
 Terms and Conditions
 ====================
 
