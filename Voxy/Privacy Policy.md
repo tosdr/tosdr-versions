@@ -54,7 +54,7 @@ Browse
 
 ### Privacy Policy
 
-_Last Revised: September 2022_
+_Last Updated: Mar 1, 2023_
 
 ### 1              Who we are
 
@@ -602,13 +602,7 @@ Voxy may be required to disclose Personal Data to the extent required to meet a 
 
 “Sensitive Personal Data” means Personal Data regarding any of the following:
 
-● Racial or ethnic origin;  
-● Political opinions;  
-● Religious or philosophical beliefs;  
-● Trade union membership;  
-● Genetic data, biometric data processed for the purpose of uniquely identifying a natural person;  
-● Health or medical condition; or  
-● Sex life or sexual orientation.  
+● Racial or ethnic origin; ● Political opinions; ● Religious or philosophical beliefs; ● Trade union membership; ● Genetic data, biometric data processed for the purpose of uniquely identifying a natural person; ● Health or medical condition; or ● Sex life or sexual orientation.
 
 Voxy does not collect any Sensitive Personal Data.
 
@@ -656,11 +650,7 @@ Inquiries and complaints relating to Voxy ’s treatment of Personal Data and it
 
 or
 
-Voxy, Inc  
-64 Bleecker St. #241  
-New York, NY 10012-2410  
-(212) 529-7600  
-Attention: Chief Technical Officer
+Voxy, Inc 64 Bleecker St. #241 New York, NY 10012-2410 (212) 529-7600 Attention: Chief Technical Officer
 
 Voxy will respond to any such inquiries or complaints within forty-five (45) days. In the event that Voxy fails to respond or its response is insufficient or does not address the concern, Voxy has registered with American Arbitration Association/International Centre for Dispute Resolution (AAA/ICDP) to provide independent third party dispute resolution at no cost to the complaining party. To contact AAA/ICDP and/or learn more about the company’s dispute resolution services, including instructions for submitting a complaint, please visit: [https://go.adr.org/dpf\_irm.html](https://go.adr.org/dpf_irm.html)
 
