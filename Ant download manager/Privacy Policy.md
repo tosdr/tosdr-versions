@@ -6,7 +6,9 @@
 ![Ant Download Manager logo](/images/AntDM_designed_by.png.pagespeed.ce.iS5Ewq3Evw.png)
 
 * [Home](https://antdownloadmanager.com/index)
-* [Download](https://antdownloadmanager.com/download)
+* [Download
+    
+    Beta](https://antdownloadmanager.com/download)
 * [Buy
     
     PRO](https://antdownloadmanager.com/buy)
@@ -18,7 +20,9 @@
     * [User Guide](https://antdownloadmanager.com/user_guide)
 
 * [Home](https://antdownloadmanager.com/index)
-* [Download](https://antdownloadmanager.com/download)
+* [Download
+    
+    Beta](https://antdownloadmanager.com/download)
 * [Buy
     
     PRO](https://antdownloadmanager.com/buy)
