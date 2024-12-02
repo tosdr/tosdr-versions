@@ -1,4 +1,6 @@
-Prev 1/2 Next
+Prev 1/3 Next
+
+Dec 2, 2024 [iDEAL Payment Method is Now Available on Paybis](https://paybis.com/news/ideal-is-now-available-on-paybis/)
 
 Nov 14, 2024 [The Blik Payment Method is Now Available on Paybis](https://paybis.com/news/blik-payment-method-is-available-on-paybis/)
 
