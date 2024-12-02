@@ -1,3 +1,5 @@
+[💸 CYBERMONDAY SALE — 65% OFF! 💸](https://notesnook.com/pricing/)
+
 [![](/logo.svg)](https://notesnook.com/)
 
 ##### Notesnook
