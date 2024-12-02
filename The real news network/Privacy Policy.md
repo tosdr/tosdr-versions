@@ -80,8 +80,8 @@ Trending Posts
 * [What a can of tuna can teach us about international workers' solidarity](https://therealnews.com/what-a-can-of-tuna-can-teach-us-about-international-workers-solidarity)
 * [Union president explains the existential threat Trump poses to organized labor—and how we fight back](https://therealnews.com/union-president-explains-the-existential-threat-trump-poses-to-organized-labor-and-how-we-fight-back)
 * [How Big Tech made Trump 2.0](https://therealnews.com/how-big-tech-made-trump-2-0)
-* [Unmarked Sacramento gang unit cops stop, arrest father and child at gunpoint](https://therealnews.com/unmarked-sacramento-gang-unit-cops-stop-arrest-father-and-child-at-gunpoint)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
+* [Unmarked Sacramento gang unit cops stop, arrest father and child at gunpoint](https://therealnews.com/unmarked-sacramento-gang-unit-cops-stop-arrest-father-and-child-at-gunpoint)
 * [Israel cannot be a colonial power and a democracy](https://therealnews.com/israel-cannot-be-a-colonial-power-and-a-democracy)
 
 Close
@@ -144,8 +144,8 @@ Trending Posts
 * [What a can of tuna can teach us about international workers' solidarity](https://therealnews.com/what-a-can-of-tuna-can-teach-us-about-international-workers-solidarity)
 * [Union president explains the existential threat Trump poses to organized labor—and how we fight back](https://therealnews.com/union-president-explains-the-existential-threat-trump-poses-to-organized-labor-and-how-we-fight-back)
 * [How Big Tech made Trump 2.0](https://therealnews.com/how-big-tech-made-trump-2-0)
-* [Unmarked Sacramento gang unit cops stop, arrest father and child at gunpoint](https://therealnews.com/unmarked-sacramento-gang-unit-cops-stop-arrest-father-and-child-at-gunpoint)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
+* [Unmarked Sacramento gang unit cops stop, arrest father and child at gunpoint](https://therealnews.com/unmarked-sacramento-gang-unit-cops-stop-arrest-father-and-child-at-gunpoint)
 * [Israel cannot be a colonial power and a democracy](https://therealnews.com/israel-cannot-be-a-colonial-power-and-a-democracy)
 
 [Skip to content](#main)
