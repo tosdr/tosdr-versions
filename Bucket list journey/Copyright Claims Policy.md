@@ -243,6 +243,16 @@ Jump right in and you will get your printable ideas by email:
 
 ![](https://forms.aweber.com/form/displays.htm?id=TBxsTCxsnAzM)
 
+[![Come with me on the Napa Valley @winetrain 🚂 🍷 and this isn’t just any train ride—it was a 3-hour culinary journey through the heart of the Napa Valley vineyards.
+We started our experience with welcome bubbles and then dived into a four-course meal with yummy dishes like roasted delicata squash with burrata and a citrusy salmon with capers, Oh, and let’s not forget about chocolate lava cake 😋 
+But this train wasn’t just about food and wine, it’s also about the wine country vibe—slow, scenic, and oh-so-relaxing. The route winds from Downtown Napa to St. Helena and back, with plenty of pretty vineyard views along the way 🍇 
+All aboard!!](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
+
+![Come with me on the Napa Valley @winetrain 🚂 🍷 and this isn’t just any train ride—it was a 3-hour culinary journey through the heart of the Napa Valley vineyards.
+We started our experience with welcome bubbles and then dived into a four-course meal with yummy dishes like roasted delicata squash with burrata and a citrusy salmon with capers, Oh, and let’s not forget about chocolate lava cake 😋 
+But this train wasn’t just about food and wine, it’s also about the wine country vibe—slow, scenic, and oh-so-relaxing. The route winds from Downtown Napa to St. Helena and back, with plenty of pretty vineyard views along the way 🍇 
+All aboard!!](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DDCoSkvv2n9/)
+
 [California’s Yountville is right in the heart of ![California’s Yountville is right in the heart of Napa Valley, and is a food lover’s dream! With its wine country charm, the bar for great food is set high—and it doesn’t disappoint. I happily ate my way through the town to find the best spots. While you can’t really go wrong, these are my favs: 
 👉 Save for your trip to the Napa Valley!
 🍳 @bardessonoyountville’s Lucy: Perfect spot for brunch. The chilaquiles are delish & the avocado toast is the prettiest ever!
@@ -300,18 +310,6 @@ Oh, and did I mention the bocce ball court? Because a little friendly competitio
 The grounds alone are dreamy, with their relaxing fountains trickling in the background, fire pits crackling under the stars, a sparkling pool calling your name, and plenty of cozy spots to lounge with a glass of wine (or two 😉). 
 Oh, and did I mention the bocce ball court? Because a little friendly competition pairs perfectly with a day of wine tasting 🍷 
 @yountvilleca @visitnapavalley](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DCjq-XyPMhi/) 
-
-[I’m no artist, but I do LOVE trying something ne ![I’m no artist, but I do LOVE trying something new—how about you?
-When my friend @inspiringoptimism invited me to her dreamy vacation rental @hummingwayranch for a paint night, I was SO in! #bucketlist 
-The mission? Four of us, armed with paintbrushes, a YouTube tutorial, and lots of wine, took on the challenge of painting (or at least attempting to paint 😂) a colorful peacock 🦚 Let’s just say, some of our peacocks had very unique personalities!
-Did I mention that there were delicious tacos too? 😋 
-#bucketlistidea #paintnight #paintandsip #peacock  #bucketlist✔️ #bucketlist✅ #bucketlistadventures #bucketlisters](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
-
-![I’m no artist, but I do LOVE trying something new—how about you?
-When my friend @inspiringoptimism invited me to her dreamy vacation rental @hummingwayranch for a paint night, I was SO in! #bucketlist 
-The mission? Four of us, armed with paintbrushes, a YouTube tutorial, and lots of wine, took on the challenge of painting (or at least attempting to paint 😂) a colorful peacock 🦚 Let’s just say, some of our peacocks had very unique personalities!
-Did I mention that there were delicious tacos too? 😋 
-#bucketlistidea #paintnight #paintandsip #peacock  #bucketlist✔️ #bucketlist✅ #bucketlistadventures #bucketlisters](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DCZZ88Mvt-J/) 
 
 [Follow on Instagram](https://www.instagram.com/bucketlistjourney/)
 
