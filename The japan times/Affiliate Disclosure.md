@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[December 02, 2024](https://www.japantimes.co.jp/archive/2024/12/02/ "archive page")
+[December 03, 2024](https://www.japantimes.co.jp/archive/2024/12/03/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -131,28 +131,34 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
-[Don’t worry, you can still use your Japan health insurance card — for now](https://www.japantimes.co.jp/news/2024/12/01/japan/explainer/my-number-insurance-card-explainer/ "Don’t worry, you can still use your Japan health insurance card — for now")
-
-  [![A My Number card reader at a pediatric clinic in Tokyo. While the government will stop issuing new health insurance cards on Monday, most people will remain unaffected by the move in the short term as existing health insurance cards can still be used for another year.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/01/437264.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A My Number card reader at a pediatric clinic in Tokyo. While the government will stop issuing new health insurance cards on Monday, most people will remain unaffected by the move in the short term as existing health insurance cards can still be used for another year.")](https://www.japantimes.co.jp/news/2024/12/01/japan/explainer/my-number-insurance-card-explainer/ "Don’t worry, you can still use your Japan health insurance card — for now")
-
-[Pete Hegseth’s mother accused her son of mistreating women for years](https://www.japantimes.co.jp/news/2024/11/30/world/politics/pete-hegseth-mistreating-women-mother/ "Pete Hegseth’s mother accused her son of mistreating women for years")
-
-  [![Pete Hegseth, U.S. President-elect Donald Trump's nominee to be secretary of defense, speaks to reporters at the Russell Senate Office Building in Washington on Nov. 21. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/30/437311.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Pete Hegseth, U.S. President-elect Donald Trump's nominee to be secretary of defense, speaks to reporters at the Russell Senate Office Building in Washington on Nov. 21. ")](https://www.japantimes.co.jp/news/2024/11/30/world/politics/pete-hegseth-mistreating-women-mother/ "Pete Hegseth’s mother accused her son of mistreating women for years")
-
-[Japan's wealthy fail to declare ¥65.5 billion in income](https://www.japantimes.co.jp/news/2024/11/30/japan/japan-wealthy-fail-declare/ "Japan's wealthy fail to declare ¥65.5 billion in income")
-
-  [![Wealthy people in Japan failed to declare a total of ¥65.5 billion in taxable income in the year through June, down 33.2% from the year before, a National Tax Agency report showed Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/30/437296.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Wealthy people in Japan failed to declare a total of ¥65.5 billion in taxable income in the year through June, down 33.2% from the year before, a National Tax Agency report showed Friday.")](https://www.japantimes.co.jp/news/2024/11/30/japan/japan-wealthy-fail-declare/ "Japan's wealthy fail to declare ¥65.5 billion in income")
-
-[Trump demands ‘commitment’ from BRICS nations on using dollar](https://www.japantimes.co.jp/business/2024/12/01/trump-bricsdollar/ "Trump demands ‘commitment’ from BRICS nations on using dollar")
-
-  [![U.S. President-elect Donald Trump on the campaign trail pledged that he would make it costly for countries to move away from the U.S. dollar. And he’s threatened to use tariffs to ensure they complied.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/01/437352.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "U.S. President-elect Donald Trump on the campaign trail pledged that he would make it costly for countries to move away from the U.S. dollar. And he’s threatened to use tariffs to ensure they complied.")](https://www.japantimes.co.jp/business/2024/12/01/trump-bricsdollar/ "Trump demands ‘commitment’ from BRICS nations on using dollar")
-
 [Princess Aiko, only child of emperor, turns 23](https://www.japantimes.co.jp/news/2024/12/01/japan/princess-aiko-turns-23/ "Princess Aiko, only child of emperor, turns 23")
 
   [![Princess Aiko on Nov. 22 ahead of her 23rd birthday on Sunday at the Imperial Palace](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/01/437345.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Aiko on Nov. 22 ahead of her 23rd birthday on Sunday at the Imperial Palace")](https://www.japantimes.co.jp/news/2024/12/01/japan/princess-aiko-turns-23/ "Princess Aiko, only child of emperor, turns 23")
 
+[Don’t worry, you can still use your Japan health insurance card — for now](https://www.japantimes.co.jp/news/2024/12/01/japan/explainer/my-number-insurance-card-explainer/ "Don’t worry, you can still use your Japan health insurance card — for now")
+
+  [![A My Number card reader at a pediatric clinic in Tokyo. While the government will stop issuing new health insurance cards on Monday, most people will remain unaffected by the move in the short term as existing health insurance cards can still be used for another year.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/01/437264.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A My Number card reader at a pediatric clinic in Tokyo. While the government will stop issuing new health insurance cards on Monday, most people will remain unaffected by the move in the short term as existing health insurance cards can still be used for another year.")](https://www.japantimes.co.jp/news/2024/12/01/japan/explainer/my-number-insurance-card-explainer/ "Don’t worry, you can still use your Japan health insurance card — for now")
+
+[Ukraine war reinvigorating Finland’s fighting spirit](https://www.japantimes.co.jp/news/2024/12/02/world/politics/finland-defense-ukraine-russia/ "Ukraine war reinvigorating Finland’s fighting spirit")
+
+  [![A Finnish soldier operates a towed 155 mm field gun during the Northern Forest land force exercise in Rovajarvi, Finland, in May 2023.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/02/437509.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A Finnish soldier operates a towed 155 mm field gun during the Northern Forest land force exercise in Rovajarvi, Finland, in May 2023.")](https://www.japantimes.co.jp/news/2024/12/02/world/politics/finland-defense-ukraine-russia/ "Ukraine war reinvigorating Finland’s fighting spirit")
+
+[Nissan shares up after news that chief financial officer will step down](https://www.japantimes.co.jp/business/2024/12/02/companies/nissan-share-rise/ "Nissan shares up after news that chief financial officer will step down")
+
+  [![Although years have passed since the dramatic arrest and ouster of former Chairman Carlos Ghosn, Nissan remains mired in management upheaval.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/02/437524.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Although years have passed since the dramatic arrest and ouster of former Chairman Carlos Ghosn, Nissan remains mired in management upheaval.")](https://www.japantimes.co.jp/business/2024/12/02/companies/nissan-share-rise/ "Nissan shares up after news that chief financial officer will step down")
+
+[Can Japan's scientific community rebound from a Nobel nosedive?](https://www.japantimes.co.jp/news/2024/12/02/japan/science-health/japan-science-nobel-prize/ "Can Japan's scientific community rebound from a Nobel nosedive?")
+
+  [![The National Museum of Emerging Science and Innovation in Tokyo is a popular place to foster curiosity in the natural sciences.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/01/436635.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The National Museum of Emerging Science and Innovation in Tokyo is a popular place to foster curiosity in the natural sciences.")](https://www.japantimes.co.jp/news/2024/12/02/japan/science-health/japan-science-nobel-prize/ "Can Japan's scientific community rebound from a Nobel nosedive?")
+
 Editors' Picks
 --------------
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Princess Aiko, only child of emperor, turns 23](https://www.japantimes.co.jp/news/2024/12/01/japan/princess-aiko-turns-23/ "Princess Aiko, only child of emperor, turns 23")
+
+  [![Princess Aiko on Nov. 22 ahead of her 23rd birthday on Sunday at the Imperial Palace](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/01/437345.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Aiko on Nov. 22 ahead of her 23rd birthday on Sunday at the Imperial Palace")](https://www.japantimes.co.jp/news/2024/12/01/japan/princess-aiko-turns-23/ "Princess Aiko, only child of emperor, turns 23")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
@@ -164,29 +170,27 @@ By [Tomoko Otake](https://www.japantimes.co.jp/author/3264/tomoko-otake/ "Tomoko
 
 [WORLD](https://www.japantimes.co.jp/news/world/ "WORLD")
 
-[Pete Hegseth’s mother accused her son of mistreating women for years](https://www.japantimes.co.jp/news/2024/11/30/world/politics/pete-hegseth-mistreating-women-mother/ "Pete Hegseth’s mother accused her son of mistreating women for years")
+[Ukraine war reinvigorating Finland’s fighting spirit](https://www.japantimes.co.jp/news/2024/12/02/world/politics/finland-defense-ukraine-russia/ "Ukraine war reinvigorating Finland’s fighting spirit")
 
-By [Sharon LaFraniere](https://www.japantimes.co.jp/author/1342/sharon-lafraniere/ "Sharon LaFraniere") and [Julie Tate](https://www.japantimes.co.jp/author/-15947/julie-tate/ "Julie Tate")  
+By [Gabriel Dominguez](https://www.japantimes.co.jp/author/3151/gabriel-dominguez/ "Gabriel Dominguez")  
 
-  [![Pete Hegseth, U.S. President-elect Donald Trump's nominee to be secretary of defense, speaks to reporters at the Russell Senate Office Building in Washington on Nov. 21. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/30/437311.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Pete Hegseth, U.S. President-elect Donald Trump's nominee to be secretary of defense, speaks to reporters at the Russell Senate Office Building in Washington on Nov. 21. ")](https://www.japantimes.co.jp/news/2024/11/30/world/politics/pete-hegseth-mistreating-women-mother/ "Pete Hegseth’s mother accused her son of mistreating women for years")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Japan's wealthy fail to declare ¥65.5 billion in income](https://www.japantimes.co.jp/news/2024/11/30/japan/japan-wealthy-fail-declare/ "Japan's wealthy fail to declare ¥65.5 billion in income")
-
-  [![Wealthy people in Japan failed to declare a total of ¥65.5 billion in taxable income in the year through June, down 33.2% from the year before, a National Tax Agency report showed Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/30/437296.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Wealthy people in Japan failed to declare a total of ¥65.5 billion in taxable income in the year through June, down 33.2% from the year before, a National Tax Agency report showed Friday.")](https://www.japantimes.co.jp/news/2024/11/30/japan/japan-wealthy-fail-declare/ "Japan's wealthy fail to declare ¥65.5 billion in income")
+  [![A Finnish soldier operates a towed 155 mm field gun during the Northern Forest land force exercise in Rovajarvi, Finland, in May 2023.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/02/437509.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A Finnish soldier operates a towed 155 mm field gun during the Northern Forest land force exercise in Rovajarvi, Finland, in May 2023.")](https://www.japantimes.co.jp/news/2024/12/02/world/politics/finland-defense-ukraine-russia/ "Ukraine war reinvigorating Finland’s fighting spirit")
 
 [BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
 
-[Trump demands ‘commitment’ from BRICS nations on using dollar](https://www.japantimes.co.jp/business/2024/12/01/trump-bricsdollar/ "Trump demands ‘commitment’ from BRICS nations on using dollar")
+[Nissan shares up after news that chief financial officer will step down](https://www.japantimes.co.jp/business/2024/12/02/companies/nissan-share-rise/ "Nissan shares up after news that chief financial officer will step down")
 
-  [![U.S. President-elect Donald Trump on the campaign trail pledged that he would make it costly for countries to move away from the U.S. dollar. And he’s threatened to use tariffs to ensure they complied.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/01/437352.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "U.S. President-elect Donald Trump on the campaign trail pledged that he would make it costly for countries to move away from the U.S. dollar. And he’s threatened to use tariffs to ensure they complied.")](https://www.japantimes.co.jp/business/2024/12/01/trump-bricsdollar/ "Trump demands ‘commitment’ from BRICS nations on using dollar")
+By [Masatsugu Horie](https://www.japantimes.co.jp/author/1363/masatsugu-horie/ "Masatsugu Horie") and [Reed Stevenson](https://www.japantimes.co.jp/author/630/reed-stevenson/ "Reed Stevenson")  
+
+  [![Although years have passed since the dramatic arrest and ouster of former Chairman Carlos Ghosn, Nissan remains mired in management upheaval.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/02/437524.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Although years have passed since the dramatic arrest and ouster of former Chairman Carlos Ghosn, Nissan remains mired in management upheaval.")](https://www.japantimes.co.jp/business/2024/12/02/companies/nissan-share-rise/ "Nissan shares up after news that chief financial officer will step down")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Princess Aiko, only child of emperor, turns 23](https://www.japantimes.co.jp/news/2024/12/01/japan/princess-aiko-turns-23/ "Princess Aiko, only child of emperor, turns 23")
+[Can Japan's scientific community rebound from a Nobel nosedive?](https://www.japantimes.co.jp/news/2024/12/02/japan/science-health/japan-science-nobel-prize/ "Can Japan's scientific community rebound from a Nobel nosedive?")
 
-  [![Princess Aiko on Nov. 22 ahead of her 23rd birthday on Sunday at the Imperial Palace](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/01/437345.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Aiko on Nov. 22 ahead of her 23rd birthday on Sunday at the Imperial Palace")](https://www.japantimes.co.jp/news/2024/12/01/japan/princess-aiko-turns-23/ "Princess Aiko, only child of emperor, turns 23")
+By [Tomoko Otake](https://www.japantimes.co.jp/author/3264/tomoko-otake/ "Tomoko Otake")  
+
+  [![The National Museum of Emerging Science and Innovation in Tokyo is a popular place to foster curiosity in the natural sciences.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/01/436635.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The National Museum of Emerging Science and Innovation in Tokyo is a popular place to foster curiosity in the natural sciences.")](https://www.japantimes.co.jp/news/2024/12/02/japan/science-health/japan-science-nobel-prize/ "Can Japan's scientific community rebound from a Nobel nosedive?")
 
 Podcast
 -------
@@ -249,25 +253,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Japan to offer ¥5 billion in military aid to four countries](https://www.japantimes.co.jp/news/2024/12/02/japan/japan-osa-philippines-indonesia-mongolia-djibouti/ "Japan to offer ¥5 billion in military aid to four countries")
+[Nomura’s Japan corporate bond market rank slips after probe](https://www.japantimes.co.jp/business/2024/12/02/markets/nomura-bond-ranking/ "Nomura’s Japan corporate bond market rank slips after probe")
 
-47 mins ago
+3 hours ago
 
-[Japan’s 2024 buzzword of the year urges a reevaluation of past norms](https://www.japantimes.co.jp/news/2024/12/02/japan/society/2024-buzzword-of-the-year-announced/ "Japan’s 2024 buzzword of the year urges a reevaluation of past norms")
+[Lawsuit filed over Hyogo governor's alleged election law violation](https://www.japantimes.co.jp/news/2024/12/02/japan/politics/motohiko-saito-social-media-lawsuit/ "Lawsuit filed over Hyogo governor's alleged election law violation")
 
-58 mins ago
+4 hours ago
 
-[8.4% of Japanese companies led by women in 2024](https://www.japantimes.co.jp/business/2024/12/02/economy/japan-women-presidents/ "8.4% of Japanese companies led by women in 2024")
+[Nearly 90% in Japan and China have negative views of other](https://www.japantimes.co.jp/news/2024/12/02/japan/japan-china-negative-views/ "Nearly 90% in Japan and China have negative views of other")
 
-1 hour ago
+4 hours ago
 
-[Ishiba questioned on political reform, social issues and the economy](https://www.japantimes.co.jp/news/2024/12/02/japan/politics/ishiba-parliamentary-questioning/ "Ishiba questioned on political reform, social issues and the economy")
+[Resona says inflation is boosting SME loan demand and pay hikes](https://www.japantimes.co.jp/business/2024/12/02/companies/resona-inflation-effects/ "Resona says inflation is boosting SME loan demand and pay hikes")
 
-1 hour ago
+4 hours ago
 
-[_Osechi ryōri_ prices climb for a third consecutive year](https://www.japantimes.co.jp/news/2024/12/02/japan/society/japan-new-year-dish-prices-rise/ "Osechi ryōri prices climb for a third consecutive year")
+[30-strong Nihon Hidankyo delegation to collect Nobel Peace Prize](https://www.japantimes.co.jp/news/2024/12/02/japan/nihon-hidankyo-nobel-delegation/ "30-strong Nihon Hidankyo delegation to collect Nobel Peace Prize")
 
-1 hour ago
+6 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
