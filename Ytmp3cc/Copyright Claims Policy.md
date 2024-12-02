@@ -1,6 +1,6 @@
-[![YTMP3](/logo.svg)](https://ytmp3.cc/en-GhYT/)
+[![YTMP3](/logo.svg)](https://ytmp3.cc/en-hZB7/)
 
-[Home](https://ytmp3.cc/en-GhYT/)[Add-on](https://ytmp3.cc/add-on-1/)[FAQ](https://ytmp3.cc/faq-1/)
+[Home](https://ytmp3.cc/en-hZB7/)[Add-on](https://ytmp3.cc/add-on-1/)[FAQ](https://ytmp3.cc/faq-1/)
 
 Copyright Claims
 ================
