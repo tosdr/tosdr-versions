@@ -34,6 +34,7 @@
 * [Accessories](https://nightowlsp.com/collections/accessories)
 * [Sale](https://nightowlsp.com/collections/cyber-monday)
 * [Refurbished](https://nightowlsp.com/collections/refurbished)
+* [Protect Cloud](https://protectcloud.nightowlsp.com/)
 * [Support](https://support.nightowlsp.com/hc/en-us)
 
 [Log in](https://nightowlsp.com/account/login)
@@ -67,6 +68,7 @@
 * [Accessories](https://nightowlsp.com/collections/accessories)
 * [Sale](https://nightowlsp.com/collections/cyber-monday)
 * [Refurbished](https://nightowlsp.com/collections/refurbished)
+* [Protect Cloud](https://protectcloud.nightowlsp.com/)
 * [Support](https://support.nightowlsp.com/hc/en-us)
 
  Search [Log in](https://nightowlsp.com/account/login) [Cart](https://nightowlsp.com/cart)
