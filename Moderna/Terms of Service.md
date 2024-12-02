@@ -2,7 +2,7 @@
 
 * [mRNA pipeline](https://www.modernatx.com/en-US/research/product-pipeline)
 * [Careers](https://www.modernatx.com/en-US/careers/life-at-moderna)
-* [Newsroom](https://www.modernatx.com/en-US/newsroom/news-and-media-2023)
+* [Newsroom](https://www.modernatx.com/en-US/newsroom/news-and-media)
 * [Blogs](https://www.modernatx.com/en-US/media-center/all-media/blogs)
 * [Moderna Supplier Page](https://www.modernatx.com/en-US/supplier/moderna-supplier-page)
 * |
@@ -193,7 +193,7 @@ These terms will inure to the benefit of our successors, assigns, licensees, and
 
 ### Newsroom
 
-* [News and media 2023](https://www.modernatx.com/en-US/newsroom/news-and-media-2023)
+* [News and media](https://www.modernatx.com/en-US/newsroom/news-and-media)
 * [Media kit](https://www.modernatx.com/en-US/newsroom/news-and-media/media-kit)
 
 ### Patents
@@ -207,20 +207,12 @@ These terms will inure to the benefit of our successors, assigns, licensees, and
 * [Videos](https://www.modernatx.com/en-US/media-center/all-media/videos)
 * [Podcasts](https://www.modernatx.com/en-US/media-center/all-media/podcasts)
 
-### Partnerships
-
-* [Strategic collaborators](https://www.modernatx.com/en-US/partnerships/strategic-collaborators)
-
 ### Careers
 
 * [Life at Moderna](https://www.modernatx.com/en-US/careers/life-at-moderna)
 * [Meet our changemakers](https://www.modernatx.com/en-US/careers/meet-our-changemakers)
 * [Awards](https://www.modernatx.com/en-US/careers/awards)
 * [Join our team](https://modernatx.eightfold.ai/careers/)
-
-### Innovation Incubator
-
-* [New Venture Labs](https://www.modernatx.com/en-US/innovation-incubator/new-venture-labs)
 
 [](https://www.instagram.com/moderna_tx/)[](https://facebook.com/modernatx)[](https://twitter.com/moderna_tx)[](https://linkedin.com/company/modernatx)
 
