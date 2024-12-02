@@ -432,7 +432,6 @@ FOR ALL OF OUR US USERS: PLEASE BE AWARE THAT SECTION 17 CONTAINS PROVISIONS GOV
     * [Culture](https://wetransfer.com/explore/culture)
     * [Locations](https://wetransfer.com/explore/locations)
     * [How to apply](https://wetransfer.com/explore/how-to-apply)
-    * [B Corp](https://wetransfer.com/explore/csr)
     * [Newsroom](https://wetransfer.com/blog/newsroom)
     * [Leadership](https://wetransfer.com/explore/corporate/leadership)
     
