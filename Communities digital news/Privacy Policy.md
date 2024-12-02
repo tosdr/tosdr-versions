@@ -26,17 +26,17 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-kash-patel-1200-x-628-1200x630.jpg)](https://americanwirenews.com/deep-state-despair-trump-announces-kash-patel-as-next-fbi-director/)
+[![](https://americanwirenews.com/wp-content/uploads/2023/11/SG-Epps-1200-x-628-1200x630.jpg)](https://americanwirenews.com/patel-explains-only-two-ways-ray-epps-was-on-fbis-most-wanted-list-one-day-off-the-next/)
 
-[Deep state despair: Trump announces ‘Kash’ Patel as next FBI Director](https://americanwirenews.com/deep-state-despair-trump-announces-kash-patel-as-next-fbi-director/)
+[Patel explains ‘only two ways’ Ray Epps was on FBI’s most wanted list one day, off the next](https://americanwirenews.com/patel-explains-only-two-ways-ray-epps-was-on-fbis-most-wanted-list-one-day-off-the-next/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-george-barry-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/water-boy-clooney-reportedly-furious-after-obama-left-him-holding-the-bag-for-biden-coup/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-hegseth-1200x630.jpg)](https://americanwirenews.com/hegseths-mother-quick-to-regret-email-sent-in-anger-blasts-ny-times-over-disgusting-piece/)
 
-[‘Water boy’ Clooney reportedly ‘furious’ after Obama left him ‘holding the bag’ for Biden coup](https://americanwirenews.com/water-boy-clooney-reportedly-furious-after-obama-left-him-holding-the-bag-for-biden-coup/)
+[Hegseth’s mother quick to regret email sent in ‘anger,’ blasts NY Times over ‘disgusting’ piece](https://americanwirenews.com/hegseths-mother-quick-to-regret-email-sent-in-anger-blasts-ny-times-over-disgusting-piece/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-trump-xi-1200x630.jpg)](https://americanwirenews.com/find-another-sucker-trump-threatens-100-tariff-on-china-led-bloc-if-they-move-away-from-dollar/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-kcrefs-1200-x-628-1200x630.jpg)](https://americanwirenews.com/fans-insist-nfl-is-rigged-after-latest-kansas-city-chiefs-miracle/)
 
-[‘Find another sucker!’ Trump threatens 100% tariff on China-led bloc if they ‘move away’ from dollar](https://americanwirenews.com/find-another-sucker-trump-threatens-100-tariff-on-china-led-bloc-if-they-move-away-from-dollar/)
+[Fans insist NFL is ‘RIGGED’ after latest Kansas City Chiefs miracle](https://americanwirenews.com/fans-insist-nfl-is-rigged-after-latest-kansas-city-chiefs-miracle/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-mccabe-1200x630.jpg)](https://americanwirenews.com/cnn-quick-to-roll-out-former-g-man-andrew-mccabe-to-tarnish-trump-nominee-kash-patel/)
 
@@ -54,27 +54,27 @@ Search for:
 
 [‘Just don’t really see it’: Jasmine Crockett questions Trump on mass deportation](https://americanwirenews.com/just-dont-really-see-it-jasmine-crockett-questions-trump-on-mass-deportation/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-schwarzenegger-1200x630.jpg)](https://americanwirenews.com/terminator-stars-la-home-targeted-by-bomb-threat-on-thanksgiving-day/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-ramaswamy-1200x630.jpg)](https://americanwirenews.com/this-is-nuts-ramaswamy-critical-of-nyc-for-paying-pakistan-millions-to-house-illegal-migrants/)
 
-[‘Terminator’ star’s LA home targeted by bomb threat on Thanksgiving Day](https://americanwirenews.com/terminator-stars-la-home-targeted-by-bomb-threat-on-thanksgiving-day/)
+[‘This is nuts’: Ramaswamy critical of NYC for paying Pakistan millions to house illegal migrants](https://americanwirenews.com/this-is-nuts-ramaswamy-critical-of-nyc-for-paying-pakistan-millions-to-house-illegal-migrants/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-wray-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-welker-hagerty-1200x630.jpg)
 
-### Rep. Higgins warns FBI chief Chris Wray to ‘remain close to DC’ as J6 accountability nears](https://americanwirenews.com/rep-higgins-warns-fbi-chief-chris-wray-to-remain-close-to-dc-as-j6-accountability-nears/)
+### Sen. Hagerty cheers Kash Patel for FBI, says ‘entire agency needs to be cleaned out’](https://americanwirenews.com/sen-hagerty-cheers-kash-patel-for-fbi-says-entire-agency-needs-to-be-cleaned-out/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
+### [WH staffers fretting over possibility Biden may shirk departure tradition](https://americanwirenews.com/wh-staffers-fretting-over-possibility-biden-may-shirk-departure-tradition/)
+
+### [‘Here we go!’ Weatherman happily obliges when Fox anchor asks him to make a snow angel](https://americanwirenews.com/here-we-go-weatherman-happily-obliges-when-fox-anchor-asks-him-to-make-a-snow-angel/)
+
+### [‘Obama bro’ breaks the news to Dems calling for their own Joe Rogan: ‘He WAS our Joe Rogan’](https://americanwirenews.com/obama-bro-breaks-the-news-to-dems-calling-for-their-own-joe-rogan-he-was-our-joe-rogan/)
+
+### [CNN’s Kasie Hunt visibly stunned by Homan’ no-nonsense response to Dem mayor’s threat](https://americanwirenews.com/cnns-kasie-hunt-visibly-stunned-by-homan-no-nonsense-response-to-dem-mayors-threat/)
+
+### [Cheryl Hines promotes MAHA-branded candles in video with showering RFK Jr.](https://americanwirenews.com/cheryl-hines-promotes-maha-branded-candles-in-video-with-showering-rfk-jr/)
+
 ### [Gibson fires off cease-and-desist over Trump’s limited edition guitars](https://americanwirenews.com/gibson-fires-off-cease-and-desist-over-trumps-limited-edition-guitars/)
-
-### [Hollywood actress goes abroad, tees off on ‘uneducated,’ untraveled Americans who voted for Trump](https://americanwirenews.com/hollywood-actress-goes-abroad-tees-off-on-uneducated-untraveled-americans-who-voted-for-trump/)
-
-### [Kamala aides blame TRUMP for her missing out on interview with Joe Rogan](https://americanwirenews.com/kamala-aides-blame-trump-for-her-missing-out-on-interview-with-joe-rogan/)
-
-### [Frank Luntz ROASTED over touting this year’s cheaper Turkey Day dinner](https://americanwirenews.com/frank-luntz-roasted-over-touting-this-years-cheaper-turkey-day-dinner/)
-
-### [Fmr. RNC boss with TDS says Trump’s return is like opening a ‘Pandora’s box of hell’](https://americanwirenews.com/fmr-rnc-boss-with-tds-says-trumps-return-is-like-opening-a-pandoras-box-of-hell/)
-
-### [Trump taps two more head-turning leaders to round out list](https://americanwirenews.com/trump-taps-two-more-head-turning-leaders-to-round-out-list/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
@@ -82,33 +82,21 @@ Search for:
 
 [Hamas drops video of coerced hostage appealing to Trump to help secure freedom](https://americanwirenews.com/hamas-drops-video-of-coerced-hostage-appealing-to-trump-to-help-secure-freedom/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-welker-hagerty-220x180.jpg)](https://americanwirenews.com/sen-hagerty-cheers-kash-patel-for-fbi-says-entire-agency-needs-to-be-cleaned-out/)
-
-[Sen. Hagerty cheers Kash Patel for FBI, says ‘entire agency needs to be cleaned out’](https://americanwirenews.com/sen-hagerty-cheers-kash-patel-for-fbi-says-entire-agency-needs-to-be-cleaned-out/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-hegseth-220x180.jpg)](https://americanwirenews.com/hegseths-mother-quick-to-regret-email-sent-in-anger-blasts-ny-times-over-disgusting-piece/)
-
-[Hegseth’s mother quick to regret email sent in ‘anger,’ blasts NY Times over ‘disgusting’ piece](https://americanwirenews.com/hegseths-mother-quick-to-regret-email-sent-in-anger-blasts-ny-times-over-disgusting-piece/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2023/11/SG-Epps-1200-x-628-220x180.jpg)](https://americanwirenews.com/patel-explains-only-two-ways-ray-epps-was-on-fbis-most-wanted-list-one-day-off-the-next/)
-
-[Patel explains ‘only two ways’ Ray Epps was on FBI’s most wanted list one day, off the next](https://americanwirenews.com/patel-explains-only-two-ways-ray-epps-was-on-fbis-most-wanted-list-one-day-off-the-next/)
-
 [![](https://americanwirenews.com/wp-content/uploads/2024/05/sg-hunter-220x180.jpg)](https://americanwirenews.com/hunter-bidens-lawyers-cite-trump-election-win-as-justification-of-pardon-from-pops/)
 
 [Hunter Biden’s lawyers cite Trump election win as justification of pardon from Pops](https://americanwirenews.com/hunter-bidens-lawyers-cite-trump-election-win-as-justification-of-pardon-from-pops/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-kcrefs-1200-x-628-220x180.jpg)](https://americanwirenews.com/fans-insist-nfl-is-rigged-after-latest-kansas-city-chiefs-miracle/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-trump-xi-220x180.jpg)](https://americanwirenews.com/find-another-sucker-trump-threatens-100-tariff-on-china-led-bloc-if-they-move-away-from-dollar/)
 
-[Fans insist NFL is ‘RIGGED’ after latest Kansas City Chiefs miracle](https://americanwirenews.com/fans-insist-nfl-is-rigged-after-latest-kansas-city-chiefs-miracle/)
+[‘Find another sucker!’ Trump threatens 100% tariff on China-led bloc if they ‘move away’ from dollar](https://americanwirenews.com/find-another-sucker-trump-threatens-100-tariff-on-china-led-bloc-if-they-move-away-from-dollar/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-ramaswamy-220x180.jpg)](https://americanwirenews.com/this-is-nuts-ramaswamy-critical-of-nyc-for-paying-pakistan-millions-to-house-illegal-migrants/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-scott-jennings-4-220x180.jpg)](https://americanwirenews.com/la-times-adds-cnns-scott-jennings-to-editorial-board/)
 
-[‘This is nuts’: Ramaswamy critical of NYC for paying Pakistan millions to house illegal migrants](https://americanwirenews.com/this-is-nuts-ramaswamy-critical-of-nyc-for-paying-pakistan-millions-to-house-illegal-migrants/)
+[LA Times adds CNN’s Scott Jennings to editorial board](https://americanwirenews.com/la-times-adds-cnns-scott-jennings-to-editorial-board/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-bonta-1200-x-628-220x180.jpg)](https://americanwirenews.com/california-ag-urges-holiday-shoppers-to-rat-out-stores-without-gender-neutral-kids-sections/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-cenku-1200-x-628-220x180.jpg)](https://americanwirenews.com/even-cenk-uygur-is-optimistic-over-trump-win-as-leftist-finds-common-cause-with-maga/)
 
-[California AG urges holiday shoppers to rat out stores without gender-neutral kids’ sections](https://americanwirenews.com/california-ag-urges-holiday-shoppers-to-rat-out-stores-without-gender-neutral-kids-sections/)
+[Even Cenk Uygur is ‘optimistic’ over Trump win as leftist finds common cause with MAGA](https://americanwirenews.com/even-cenk-uygur-is-optimistic-over-trump-win-as-leftist-finds-common-cause-with-maga/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/03/sg-aoc-cnnsotu-1200-x-628-220x180.jpg)](https://americanwirenews.com/social-media-mocks-the-idea-of-aoc-as-president-but-fmr-trump-official-says-its-no-laughing-matter/)
 
@@ -178,6 +166,18 @@ Search for:
 
 [Fetterman has advice for Dems hysterical over Trump win: ‘Just grab a grip’](https://americanwirenews.com/fetterman-has-advice-for-dems-hysterical-over-trump-win-just-grab-a-grip/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-mark-hamill-220x180.png)](https://americanwirenews.com/trump-is-your-daddy-star-wars-mark-hamill-dragged-for-dramatic-reaction-to-trump-reelection/)
+
+[‘Trump is your daddy!’ Star Wars’ Mark Hamill dragged for dramatic reaction to Trump reelection](https://americanwirenews.com/trump-is-your-daddy-star-wars-mark-hamill-dragged-for-dramatic-reaction-to-trump-reelection/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-randy-fine-220x180.jpg)](https://americanwirenews.com/the-hebrew-hammer-gop-house-hopeful-warns-squad-members-that-it-might-be-time-to-get-out-of-dodge/)
+
+[‘The Hebrew Hammer’: GOP House hopeful warns ‘Squad’ members that it might be time to get out of Dodge](https://americanwirenews.com/the-hebrew-hammer-gop-house-hopeful-warns-squad-members-that-it-might-be-time-to-get-out-of-dodge/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-apple-ad-220x180.jpg)](https://americanwirenews.com/apples-emotional-family-oriented-ad-earns-praise-from-viewers-very-well-done-here-more-of-this/)
+
+[Apple’s emotional ‘family oriented’ ad earns praise from viewers: ‘Very well done here. More of this.’](https://americanwirenews.com/apples-emotional-family-oriented-ad-earns-praise-from-viewers-very-well-done-here-more-of-this/)
+
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
     SIGN ME UP!
@@ -238,9 +238,13 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 ### [BUSINESS](https://www.commdiginews.com/category/featured-business/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-walmartfront-1200-x-628-1200x630.jpg)](https://americanwirenews.com/walmart-to-roll-back-dei-policies/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-bonta-1200-x-628-1200x630.jpg)](https://americanwirenews.com/california-ag-urges-holiday-shoppers-to-rat-out-stores-without-gender-neutral-kids-sections/)
 
-[Walmart to roll back DEI policies](https://americanwirenews.com/walmart-to-roll-back-dei-policies/)
+[California AG urges holiday shoppers to rat out stores without gender-neutral kids’ sections](https://americanwirenews.com/california-ag-urges-holiday-shoppers-to-rat-out-stores-without-gender-neutral-kids-sections/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-bonta-1200-x-628-220x180.jpg)](https://americanwirenews.com/california-ag-urges-holiday-shoppers-to-rat-out-stores-without-gender-neutral-kids-sections/)
+
+[California AG urges holiday shoppers to rat out stores without gender-neutral kids’ sections](https://americanwirenews.com/california-ag-urges-holiday-shoppers-to-rat-out-stores-without-gender-neutral-kids-sections/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-walmartfront-1200-x-628-220x180.jpg)](https://americanwirenews.com/walmart-to-roll-back-dei-policies/)
 
@@ -258,15 +262,19 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 [Musk teases he could scoop up MSNBC: ‘How much does it cost?’](https://americanwirenews.com/musk-teases-he-could-scoop-up-msnbc-how-much-does-it-cost/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-gillis-budlight-220x180.jpg)](https://americanwirenews.com/bud-light-teams-up-with-superstar-comedian-to-claw-back-customers/)
-
-[Bud Light teams up with superstar comedian to claw back customers](https://americanwirenews.com/bud-light-teams-up-with-superstar-comedian-to-claw-back-customers/)
-
 ### [POLITICS](https://www.commdiginews.com/category/featured-politics/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-james-carville-1200x630.png)](https://americanwirenews.com/carville-goes-off-on-kamalas-23-year-old-snot-nosed-brat-staffers-in-f-bomb-laden-rant/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-wray-1200x630.jpg)](https://americanwirenews.com/rep-higgins-warns-fbi-chief-chris-wray-to-remain-close-to-dc-as-j6-accountability-nears/)
 
-[Carville goes off on Kamala’s 23-year-old snot-nosed brat staffers in F-bomb laden rant](https://americanwirenews.com/carville-goes-off-on-kamalas-23-year-old-snot-nosed-brat-staffers-in-f-bomb-laden-rant/)
+[Rep. Higgins warns FBI chief Chris Wray to ‘remain close to DC’ as J6 accountability nears](https://americanwirenews.com/rep-higgins-warns-fbi-chief-chris-wray-to-remain-close-to-dc-as-j6-accountability-nears/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-wray-220x180.jpg)](https://americanwirenews.com/rep-higgins-warns-fbi-chief-chris-wray-to-remain-close-to-dc-as-j6-accountability-nears/)
+
+[Rep. Higgins warns FBI chief Chris Wray to ‘remain close to DC’ as J6 accountability nears](https://americanwirenews.com/rep-higgins-warns-fbi-chief-chris-wray-to-remain-close-to-dc-as-j6-accountability-nears/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-kash-patel-1200-x-628-220x180.jpg)](https://americanwirenews.com/deep-state-despair-trump-announces-kash-patel-as-next-fbi-director/)
+
+[Deep state despair: Trump announces ‘Kash’ Patel as next FBI Director](https://americanwirenews.com/deep-state-despair-trump-announces-kash-patel-as-next-fbi-director/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-james-carville-220x180.png)](https://americanwirenews.com/carville-goes-off-on-kamalas-23-year-old-snot-nosed-brat-staffers-in-f-bomb-laden-rant/)
 
@@ -279,14 +287,6 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-jones-vs-gw-jones-470x260-1200-x-628-220x180.jpg)](https://americanwirenews.com/trump-team-shoots-down-claim-hell-purge-transgenders-from-military/)
 
 [Trump team shoots down claim he’ll purge transgenders from military](https://americanwirenews.com/trump-team-shoots-down-claim-hell-purge-transgenders-from-military/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-derricknaacp-1200-x-628-220x180.jpg)](https://americanwirenews.com/naacp-boss-already-whining-about-trumps-cabinet/)
-
-[NAACP boss already whining about Trump’s Cabinet](https://americanwirenews.com/naacp-boss-already-whining-about-trumps-cabinet/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/screenshot-2024-11-27-071639-220x180.jpg)](https://americanwirenews.com/msnbc-claims-it-was-unaware-that-al-sharpton-got-paid-by-kamala/)
-
-[MSNBC claims it was ‘unaware’ that Al Sharpton got paid by Kamala](https://americanwirenews.com/msnbc-claims-it-was-unaware-that-al-sharpton-got-paid-by-kamala/)
 
 ### [HUMOR](https://www.commdiginews.com/category/featured-humor/)
 
@@ -316,11 +316,21 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 ### [CULTURE & SOCIETY](https://www.commdiginews.com/category/featured-culture-society/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2022/08/GettyImages-1194237314-1200x630.jpg)](https://americanwirenews.com/doj-indicts-former-abc-news-anchor-and-hubby-over-alleged-covid-loan-fraud/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-george-barry-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/water-boy-clooney-reportedly-furious-after-obama-left-him-holding-the-bag-for-biden-coup/)
 
-Getty Images
+[‘Water boy’ Clooney reportedly ‘furious’ after Obama left him ‘holding the bag’ for Biden coup](https://americanwirenews.com/water-boy-clooney-reportedly-furious-after-obama-left-him-holding-the-bag-for-biden-coup/)
 
-[DOJ indicts former ABC news anchor and hubby over alleged COVID loan fraud](https://americanwirenews.com/doj-indicts-former-abc-news-anchor-and-hubby-over-alleged-covid-loan-fraud/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-george-barry-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/water-boy-clooney-reportedly-furious-after-obama-left-him-holding-the-bag-for-biden-coup/)
+
+[‘Water boy’ Clooney reportedly ‘furious’ after Obama left him ‘holding the bag’ for Biden coup](https://americanwirenews.com/water-boy-clooney-reportedly-furious-after-obama-left-him-holding-the-bag-for-biden-coup/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-schwarzenegger-220x180.jpg)](https://americanwirenews.com/terminator-stars-la-home-targeted-by-bomb-threat-on-thanksgiving-day/)
+
+[‘Terminator’ star’s LA home targeted by bomb threat on Thanksgiving Day](https://americanwirenews.com/terminator-stars-la-home-targeted-by-bomb-threat-on-thanksgiving-day/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-bruce-220x180.jpg)](https://americanwirenews.com/i-dont-call-many-things-racist-fox-contributor-torches-canadian-officials-reaction-to-mexico-comparison/)
+
+[‘I don’t call many things racist…’ Fox contributor torches Canadian official’s reaction to Mexico comparison](https://americanwirenews.com/i-dont-call-many-things-racist-fox-contributor-torches-canadian-officials-reaction-to-mexico-comparison/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2022/08/GettyImages-1194237314-220x180.jpg)](https://americanwirenews.com/doj-indicts-former-abc-news-anchor-and-hubby-over-alleged-covid-loan-fraud/)
 
@@ -333,17 +343,5 @@ Getty Images](https://americanwirenews.com/doj-indicts-former-abc-news-anchor-an
 [Must watch Billy Bob Thorton clip taking on environmental extremists goes viral
 
 Getty Images](https://americanwirenews.com/must-watch-billy-bob-thorton-clip-taking-on-environmental-extremists-goes-viral/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-defund-the-police-sign-220x180.jpg)](https://americanwirenews.com/anti-police-activist-accused-of-using-charitable-donations-to-fund-lavish-lifestyle/)
-
-[Anti-police activist accused of using charitable donations to fund lavish lifestyle](https://americanwirenews.com/anti-police-activist-accused-of-using-charitable-donations-to-fund-lavish-lifestyle/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-kendis-gibson-220x180.jpg)](https://americanwirenews.com/former-abc-anchor-claims-degrading-and-racist-workplace-led-to-depression-suicide-attempt/)
-
-[Former ABC anchor claims degrading and racist workplace led to depression, suicide attempt](https://americanwirenews.com/former-abc-anchor-claims-degrading-and-racist-workplace-led-to-depression-suicide-attempt/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-trump-hair-220x180.jpg)](https://americanwirenews.com/trump-makes-young-girl-million-dollar-offer-during-playful-outing-on-golf-course/)
-
-[Trump makes little girl million-dollar offer during playful outing on golf course](https://americanwirenews.com/trump-makes-young-girl-million-dollar-offer-during-playful-outing-on-golf-course/)
 
 © 2024. All Rights Reserved. American Wire News
