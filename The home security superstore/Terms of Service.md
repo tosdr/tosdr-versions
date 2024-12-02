@@ -1,12 +1,12 @@
 [Skip to content](#main-content)
 
-[BLACK FRIDAY SALE I 15% OFF SITEWIDE!](https://www.thehomesecuritysuperstore.com/collections/best-sellers?utm_source=website&utm_medium=banner&utm_campaign=BLACK+FRIDAY+SALE+15%25+OFF+SITEWIDE)
+[CYBER MONDAY SALE I 15% OFF SITEWIDE!](https://www.thehomesecuritysuperstore.com/collections/best-sellers?utm_source=website&utm_medium=banner&utm_campaign=CYBER+MONDAY+SALE+15%25+OFF+SITEWIDE%21)
 
-TODAY'S OFFER: :: | BLACK FRIDAY SALE I 15% OFF SITEWIDE!
+TODAY'S OFFER: :: | CYBER MONDAY SALE I 15% OFF SITEWIDE!
 
 TODAY'S OFFER: : :
 
- BLACK FRIDAY SALE I 15% OFF SITEWIDE!
+ CYBER MONDAY SALE I 15% OFF SITEWIDE!
 
 [![The Home Security Superstore](//www.thehomesecuritysuperstore.com/cdn/shop/files/thss-main-logo-jpg.jpg?v=1729157895&width=300)](https://www.thehomesecuritysuperstore.com/)
 
