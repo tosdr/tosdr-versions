@@ -248,7 +248,7 @@ We want you to know a few things:  
 
 **Who Provides What Service?**
 
-Investment Advice: Advisory services for traditional investments (e.g., ETFs) and digital assets are provided by Betterment LLC, an SEC-registered investment adviser. Betterment LLC also offers the Betterment Cash Reserve product. Betterment LLC does not require clients to maintain a minimum investment account balance. However, accounts below a certain balance may have certain restrictions. For more information, please see [additional disclosure](https://www.betterment.com/legal/portfolio-minimum).
+Investment Advice: Advisory services for traditional investments (e.g., ETFs) are provided by Betterment LLC, an SEC-registered investment adviser. Betterment LLC also offers the Betterment Cash Reserve product. Betterment LLC does not require clients to maintain a minimum investment account balance. However, accounts below a certain balance may have certain restrictions. For more information, please see [additional disclosure](https://www.betterment.com/legal/portfolio-minimum).
 
 Traditional Investment Brokerage Services & Custody: Brokerage services are provided to clients of Betterment LLC by Betterment Securities, an SEC-registered broker-dealer and member of [FINRA](https://www.finra.org/) /[SIPC](https://www.sipc.org/), and Apex Clearing Corporation, a third-party SEC registered broker-dealer and member FINRA/SIPC.
 
@@ -256,11 +256,9 @@ Betterment Checking: Betterment Checking is made available through Betterment Fi
 
 **Let’s Talk About Risk:**
 
-Investing involves risk and there is the potential of losing money when you invest in securities and digital assets. Past performance does not guarantee future results and the likelihood of investment outcomes are hypothetical in nature.
+Investing involves risk and there is the potential of losing money when you invest in securities. Past performance does not guarantee future results and the likelihood of investment outcomes are hypothetical in nature.
 
-Investments in securities and digital assets are: Not FDIC Insured • Not Bank Guaranteed • May Lose Value. 
-
-Furthermore, investing in digital assets is highly speculative and volatile, and only suitable for investors who are able to bear the risk of potential loss and experience sharp drawdowns. Digital assets are not legal tender and are not backed by the U.S. government. Digital assets are not subject to SIPC protections.
+Investments in securities are: Not FDIC Insured • Not Bank Guaranteed • May Lose Value. 
 
 Before investing, consider your investment objectives and Betterment LLC's fees and expenses. Betterment LLC's internet-based advisory services are designed to assist clients in achieving discrete financial goals. They are not intended to provide comprehensive tax advice or financial planning with respect to every aspect of a client's financial situation and do not incorporate specific investments that clients hold elsewhere. For more details, see Betterment’s [Form CRS](https://www.betterment.com/legal/form-crs), [Form ADV Part II](https://www.betterment.com/adv) and [other disclosures](https://www.betterment.com/legal).
 
