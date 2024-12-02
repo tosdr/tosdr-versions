@@ -109,9 +109,9 @@ Weston, MA 02493
 Primary Sidebar
 ---------------
 
-[![Fastweb's $1,000 National Scholarship Month Sweepstakes](https://finaid.org/wp-content/uploads/2024/11/fastweb-1k-nsm-sweeps-600x500@2x.jpg)
+[![Fastweb](https://www.fastweb.com/nfs/fastweb/static/2024/house-ads/300x250-scholarships.jpg)
 
-![Fastweb's $1,000 National Scholarship Month Sweepstakes](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20300%20200%22%3E%3C/svg%3E)](https://www.fastweb.com/college-scholarships/scholarships/189962-fastweb-s-1-000-national-scholarship-month-sweepstakes)
+![Fastweb](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20300%20200%22%3E%3C/svg%3E)](https://www.fastweb.com/?utm_source=finaid&Utm_medium=referral&campaign=FWhouse)
 
 ### Helpful Links
 
