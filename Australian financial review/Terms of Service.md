@@ -321,15 +321,16 @@ Advertise
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.2942%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_767/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/d1db4fe6c5002998368e5d6f3826d98e2d134867)](https://www.afr.com/life-and-luxury/fashion-and-style/take-a-shine-to-these-glittery-even-useful-future-treasures-20241105-p5kny6)
+[![Becker Minty Linear tumblers.](https://static.ffx.io/images/$zoom_0.2122%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_188/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/63111b728cce454bce2e2a780b418f39fb42bee8)](https://www.afr.com/life-and-luxury/design/stuck-for-ideas-two-top-australian-designers-share-their-wish-lists-20241112-p5kq2t)
 
-### [Take a shine to these glittery – even useful – future treasures](https://www.afr.com/life-and-luxury/fashion-and-style/take-a-shine-to-these-glittery-even-useful-future-treasures-20241105-p5kny6)
+### [Stuck for ideas? Two top Australian designers share their wish lists](https://www.afr.com/life-and-luxury/design/stuck-for-ideas-two-top-australian-designers-share-their-wish-lists-20241112-p5kq2t)
 
-* Eugenie Kelly
+* 55 mins ago
+* Stephen Todd
 
-* ### [Crowded House to A Christmas Carol: shows to see in December](https://www.afr.com/life-and-luxury/arts-and-culture/crowded-house-to-a-christmas-carol-shows-to-see-in-december-20241025-p5kle9)
+* ### [Ideas for the perfect festive setting (for hosts and guests)](https://www.afr.com/life-and-luxury/fashion-and-style/ideas-for-the-perfect-festive-setting-for-hosts-and-guests-20241105-p5kny0)
     
-* ### [How Aussie expats celebrate Christmas with foreign flourish](https://www.afr.com/life-and-luxury/arts-and-culture/how-aussie-expats-celebrate-christmas-with-foreign-flourish-20241009-p5kh1d)
+* ### [Six getaways to pop under the tree, no wrapping required](https://www.afr.com/life-and-luxury/travel/six-getaways-to-pop-under-the-tree-no-wrapping-required-20241104-p5knra)
     
 
 [Rich List](https://www.afr.com/rich-list)
