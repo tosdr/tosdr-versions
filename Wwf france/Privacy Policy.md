@@ -26,6 +26,14 @@
 * [Espèces prioritaires](https://www.wwf.fr/especes-prioritaires)
 * [Espaces prioritaires](https://www.wwf.fr/espaces-prioritaires)
 
+Fermer
+
+En quête d'idées cadeaux
+
+Des produits respecteux de l'environnement dont l'achat finance les actions de WWF
+
+[Je découvre la boutique](https://boutique.wwf.fr/ "Je découvre la boutique")
+
 1. [Accueil](https://www.wwf.fr/) 
 2. Politique de confidentialité 
 
