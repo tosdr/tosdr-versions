@@ -174,7 +174,7 @@ Contact us: [HealthsToday.com@gmail.com](mailto:HealthsToday.com@gmail.com)
 #### POPULAR CATEGORY
 
 * [Diet78](https://healthstoday.com/category/diet/)
-* [Exercise64](https://healthstoday.com/category/exercise/)
+* [Exercise65](https://healthstoday.com/category/exercise/)
 * [General Health51](https://healthstoday.com/category/general-health/)
 * [Family43](https://healthstoday.com/category/family/)
 * [Human Body28](https://healthstoday.com/category/human-body/)
