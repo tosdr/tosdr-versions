@@ -214,6 +214,8 @@ Menu Close
     
     [Microsoft SharePoint](https://www.acronis.com/en-us/solutions/backup/application/sharepoint/) |
     
+    [Oracle Database](https://www.acronis.com/en-us/solutions/backup/application/oracle-db/) |
+    
     [Cloud](https://www.acronis.com/en-us/solutions/backup/cloud/) |
     
     [Microsoft 365](https://www.acronis.com/en-us/solutions/backup/cloud/m365/) |
