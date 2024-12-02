@@ -1,13 +1,14 @@
 Toggle navigation [WinningPrizeSearch.com](http://www.winningprizesearch.com/)
 
 * [Software](https://pro.winningprizesearch.com/)
+* [Winners List](http://www.winningprizesearch.com/winnerslist.php)
 *  [Resources](http://www.winningprizesearch.com/resources.php)
 * [Guide](http://www.winningprizesearch.com/strategy-guide.php)
 * [Contact](http://www.winningprizesearch.com/contact-us.php)
 * [Register](http://www.winningprizesearch.com/registration_page.php)
 * [Sign In](http://www.winningprizesearch.com/sign-in.php)
 
-December 1st, 2024
+December 2nd, 2024
 
 [Submit Sweepstakes / Contest](http://www.winningprizesearch.com/submit/submitSweepstakes.php)
 
