@@ -286,3 +286,20 @@ The ASPCA is a 501(c)(3) non-for-profit organization. [Privacy Policy](https://w
 * [ASPCA Pet Health Insurance](https://www.aspca.org/about-us/strategic-cause-partnerships/aspca-pet-health-insurance)
     
     Underwritten by Independence American Insurance Company
+    
+
+ ![Cat with arm casts and cone](https://www.aspca.org/sites/default/files/modal-mobile/gtmobileearlybird.jpg)
+
+[Help vulnerable animals.](https://secure.aspca.org/donate/2024-eap-GT1-web-NL-P1?ms=wb_con_lightbox-gt1-20241202&initialms=wb_con_lightbox-gt1-20241202&pcode=WEBMEMBER)
+
+[**Make a GivingTuesday gift today!**](https://secure.aspca.org/donate/2024-eap-GT1-web-NL-P1?ms=wb_con_lightbox-gt1-20241202&initialms=wb_con_lightbox-gt1-20241202&pcode=WEBMEMBER)
+
+With a $60 donation, you can get a limited-edition ASPCA GivingTuesday long-sleeved shirt while supplies last!
+
+[Help vulnerable animals.](https://secure.aspca.org/donate/2024-eap-GT1-web-NL-P1?ms=wb_con_lightbox-gt1-20241202&initialms=wb_con_lightbox-gt1-20241202&pcode=WEBMEMBER)
+
+[**Make a GivingTuesday gift today!**](https://secure.aspca.org/donate/2024-eap-GT1-web-NL-P1?ms=wb_con_lightbox-gt1-20241202&initialms=wb_con_lightbox-gt1-20241202&pcode=WEBMEMBER)
+
+With a $60 donation, you can get a limited-edition ASPCA GivingTuesday long-sleeved shirt while supplies last!
+
+[DONATE](https://secure.aspca.org/donate/2024-eap-GT1-web-NL-P1?ms=wb_con_lightbox-gt1-20241202&initialms=wb_con_lightbox-gt1-20241202&pcode=WEBMEMBER&ms=wb_con_lightbox-gt1-20241202&initialms=wb_con_lightbox-gt1-20241202&pcode=WEBMEMBER)
