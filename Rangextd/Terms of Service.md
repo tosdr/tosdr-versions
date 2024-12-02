@@ -39,23 +39,23 @@ Search results
 
 * [Customer service](https://www.rangextd.com/pages/about-us)
 
- ![](//savvysmartdeals.com/cdn/shop/files/image_4_e44d9c7d-b185-4b52-be4d-7859438a8d56.png?crop=center&height=530&v=1730340191&width=700)![](//savvysmartdeals.com/cdn/shop/files/BF_Banner_13ffa942-792d-49a3-b800-225ac057bdfc.png?crop=center&height=1108&v=1730340117&width=700)
+ ![](//savvysmartdeals.com/cdn/shop/files/image_3.png?crop=center&height=530&v=1730346861&width=700)![](//savvysmartdeals.com/cdn/shop/files/Cyber_Monday.gif?crop=center&height=554&v=1730347650&width=700)
 
 [](https://www.rangextd.com/collections/all)
 
-* ![Collection image for: $20 OFF](//savvysmartdeals.com/cdn/shop/collections/20_Off.png?crop=center&height=300&v=1730789147&width=240)
+* ![Collection image for: $20 OFF](//savvysmartdeals.com/cdn/shop/collections/20_Off.png?crop=center&height=300&v=1733136649&width=240)
     
     [$20 OFF](https://www.rangextd.com/collections/20-off) 
     
-* ![Collection image for: 40% OFF](//savvysmartdeals.com/cdn/shop/collections/40_off.png?crop=center&height=300&v=1730198673&width=240)
+* ![Collection image for: 40% OFF](//savvysmartdeals.com/cdn/shop/collections/40_off.png?crop=center&height=300&v=1733136635&width=240)
     
     [40% OFF](https://www.rangextd.com/collections/40-off) 
     
-* ![Collection image for: 50% OFF](//savvysmartdeals.com/cdn/shop/collections/50_Off.png?crop=center&height=300&v=1730198068&width=240)
+* ![Collection image for: 50% OFF](//savvysmartdeals.com/cdn/shop/collections/50_Off.png?crop=center&height=300&v=1733136625&width=240)
     
     [50% OFF](https://www.rangextd.com/collections/50-off) 
     
-* ![Collection image for: 62% OFF](//savvysmartdeals.com/cdn/shop/collections/62_Off.png?crop=center&height=300&v=1730198490&width=240)
+* ![Collection image for: 62% OFF](//savvysmartdeals.com/cdn/shop/collections/62_Off.png?crop=center&height=300&v=1733136643&width=240)
     
     [62% OFF](https://www.rangextd.com/collections/62-off) 
     
@@ -190,14 +190,6 @@ Discover the hottest items flying off the shelves.
     
     $119.99 $49.99
     
-* Sale -47% [![Neckrelax Neck Massager Magic - Pain-Free Neck](//savvysmartdeals.com/cdn/shop/files/1496ba9fa9c9e9f2e068c281cb03c16c.png?v=1721296666&width=465)![Neckrelax Neck Massager Magic - Pain-Free Neck](//savvysmartdeals.com/cdn/shop/files/d05703396174fd2cb9ece40149f4c6fc_6b5a306e-9c48-4d3d-814f-509cffbde30d.png?v=1721296666&width=465)](https://www.rangextd.com/products/neckrelax-neck-massager-g2)
-    
-    ### [Neckrelax Neck Massager Magic - Pain-Free Neck](https://www.rangextd.com/products/neckrelax-neck-massager-g2)
-    
-    Next day delivery
-    
-    $188.99 $99.98
-    
 * Sale -50% [![Snapshot Action Cam - Adventure Ready, Capture the Moment](//savvysmartdeals.com/cdn/shop/files/stack.jpg?v=1727161028&width=465)![Snapshot Action Cam - Adventure Ready, Capture the Moment](//savvysmartdeals.com/cdn/shop/files/Stack4.jpg?v=1727161028&width=465)](https://www.rangextd.com/products/snapshot-camera)
     
     ### [Snapshot Action Cam - Adventure Ready, Capture the Moment](https://www.rangextd.com/products/snapshot-camera)
@@ -222,6 +214,12 @@ Trending Now
 
 Don't Miss Out on Must-Have Devices & Unique Items!
 
+* Sale -24% [![A Reliable Solution for Fire Emergencies 2 Packs](//savvysmartdeals.com/cdn/shop/files/efb-2x.webp?v=1732792569&width=465)![A Reliable Solution for Fire Emergencies 2 Packs](//savvysmartdeals.com/cdn/shop/files/Main4.webp?v=1732792569&width=465)](https://www.rangextd.com/products/solution-for-fire-emergencies)
+    
+    ### [A Reliable Solution for Fire Emergencies 2 Packs](https://www.rangextd.com/products/solution-for-fire-emergencies)
+    
+    $75.00 $56.96
+    
 * Sale -34% [![ChargeCard - Your Ultimate Portable Charger](//savvysmartdeals.com/cdn/shop/files/81U60BpbryL._AC_UF894_1000_QL80.jpg?v=1730364730&width=465)![ChargeCard - Your Ultimate Portable Charger](//savvysmartdeals.com/cdn/shop/files/mid2_jpg.webp?v=1730364730&width=465)](https://www.rangextd.com/products/chargecard-ultimate-portable)
     
     ### [ChargeCard - Your Ultimate Portable Charger](https://www.rangextd.com/products/chargecard-ultimate-portable)
@@ -239,12 +237,6 @@ Don't Miss Out on Must-Have Devices & Unique Items!
     ### [Horse Power Scrubby - The Game-Changer for Effortless Cleaning](https://www.rangextd.com/products/horse-power-scrubby)
     
     $110.99 $55.99
-    
-* Sale -55% [![PocketHose - The Ultimate Expandable Garden Hose](//savvysmartdeals.com/cdn/shop/files/thumb-drive-op_jpg.webp?v=1730284391&width=465)![PocketHose - The Ultimate Expandable Garden Hose](//savvysmartdeals.com/cdn/shop/files/index-hose-01-s.gif?v=1730284401&width=465)](https://www.rangextd.com/products/pockethose-expandable-hose)
-    
-    ### [PocketHose - The Ultimate Expandable Garden Hose](https://www.rangextd.com/products/pockethose-expandable-hose)
-    
-    $122.20 $54.99
     
 
 * ![](//savvysmartdeals.com/cdn/shop/files/logo-fox.png?v=1720582128&width=150)
