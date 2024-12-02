@@ -16,6 +16,18 @@
 
 * [SyrupArcade](https://mobilesyrup.com/categories/gaming/)
     
+    [](https://mobilesyrup.com/2024/12/02/playstation-big-30th-anniversary-sale-retro-console-themes/)
+    
+    Dec 2, 2024 | 2:54 PM EST
+    
+    ### [PlayStation drops big 30th anniversary sale, retro console themes](https://mobilesyrup.com/2024/12/02/playstation-big-30th-anniversary-sale-retro-console-themes/)
+    
+    [](https://mobilesyrup.com/2024/12/01/mandragora-playtest-preview/)
+    
+    Dec 1, 2024 | 11:09 AM EST
+    
+    ### [Mandragora is a beautiful ‘Soulsvania’ and I can’t for the official release](https://mobilesyrup.com/2024/12/01/mandragora-playtest-preview/)
+    
     [](https://mobilesyrup.com/2024/11/29/canada-best-selling-games-october-2024-call-of-duty-dragon-ball-mario/)
     
     Nov 29, 2024 | 8:00 AM EST
@@ -40,19 +52,19 @@
     
     ### [Play chess with AI-generated pieces from Google](https://mobilesyrup.com/2024/11/28/google-releases-ai-generated-pieces-chess-game/)
     
-    [](https://mobilesyrup.com/2024/11/27/baldurs-gate-3-biggest-update-12-new-subclasses/)
-    
-    Nov 27, 2024 | 5:43 PM EST
-    
-    ### [Baldur’s Gate 3 is getting its biggest update yet with 12 new subclasses](https://mobilesyrup.com/2024/11/27/baldurs-gate-3-biggest-update-12-new-subclasses/)
-    
-    [](https://mobilesyrup.com/2024/11/27/playstation-plus-essential-games-december-2024/)
-    
-    Nov 27, 2024 | 5:23 PM EST
-    
-    ### [Here are the free games hitting PlayStation Plus Essential in December 2024](https://mobilesyrup.com/2024/11/27/playstation-plus-essential-games-december-2024/)
-    
     * [Gaming](https://mobilesyrup.com/categories/gaming/)
+        
+        [](https://mobilesyrup.com/2024/12/02/playstation-big-30th-anniversary-sale-retro-console-themes/)
+        
+        Dec 2, 2024 | 2:54 PM EST
+        
+        ### [PlayStation drops big 30th anniversary sale, retro console themes](https://mobilesyrup.com/2024/12/02/playstation-big-30th-anniversary-sale-retro-console-themes/)
+        
+        [](https://mobilesyrup.com/2024/12/01/mandragora-playtest-preview/)
+        
+        Dec 1, 2024 | 11:09 AM EST
+        
+        ### [Mandragora is a beautiful ‘Soulsvania’ and I can’t for the official release](https://mobilesyrup.com/2024/12/01/mandragora-playtest-preview/)
         
         [](https://mobilesyrup.com/2024/11/29/canada-best-selling-games-october-2024-call-of-duty-dragon-ball-mario/)
         
@@ -78,20 +90,38 @@
         
         ### [Play chess with AI-generated pieces from Google](https://mobilesyrup.com/2024/11/28/google-releases-ai-generated-pieces-chess-game/)
         
-        [](https://mobilesyrup.com/2024/11/27/baldurs-gate-3-biggest-update-12-new-subclasses/)
-        
-        Nov 27, 2024 | 5:43 PM EST
-        
-        ### [Baldur’s Gate 3 is getting its biggest update yet with 12 new subclasses](https://mobilesyrup.com/2024/11/27/baldurs-gate-3-biggest-update-12-new-subclasses/)
-        
-        [](https://mobilesyrup.com/2024/11/27/playstation-plus-essential-games-december-2024/)
-        
-        Nov 27, 2024 | 5:23 PM EST
-        
-        ### [Here are the free games hitting PlayStation Plus Essential in December 2024](https://mobilesyrup.com/2024/11/27/playstation-plus-essential-games-december-2024/)
-        
     
 * [News](https://mobilesyrup.com/categories/news/)
+    
+    [](https://mobilesyrup.com/2024/12/02/playstation-big-30th-anniversary-sale-retro-console-themes/)
+    
+    Dec 2, 2024 | 2:54 PM EST
+    
+    ### [PlayStation drops big 30th anniversary sale, retro console themes](https://mobilesyrup.com/2024/12/02/playstation-big-30th-anniversary-sale-retro-console-themes/)
+    
+    [](https://mobilesyrup.com/2024/12/02/walmart-canada-cyber-week-2024-deals-apple-watch-beats-games/)
+    
+    Dec 2, 2024 | 1:25 PM EST
+    
+    ### [Walmart’s Cyber Week deals include big savings on Apple Watch, Beats and games](https://mobilesyrup.com/2024/12/02/walmart-canada-cyber-week-2024-deals-apple-watch-beats-games/)
+    
+    [](https://mobilesyrup.com/2024/12/02/canadian-carrier-wireless-black-friday-deals-end-december-2/)
+    
+    Dec 2, 2024 | 11:44 AM EST
+    
+    ### [Several wireless providers list December 2 as final day for Black Friday deals](https://mobilesyrup.com/2024/12/02/canadian-carrier-wireless-black-friday-deals-end-december-2/)
+    
+    [](https://mobilesyrup.com/2024/12/02/psa-watch-out-for-scams-related-to-the-canada-post-strike/)
+    
+    Dec 2, 2024 | 9:47 AM EST
+    
+    ### [PSA: Watch out for scams related to the Canada Post strike](https://mobilesyrup.com/2024/12/02/psa-watch-out-for-scams-related-to-the-canada-post-strike/)
+    
+    [](https://mobilesyrup.com/2024/12/01/my-favourite-magsafe-charger-has-gotten-better/)
+    
+    Dec 1, 2024 | 2:28 PM EST
+    
+    ### [My favourite MagSafe charger has gotten better](https://mobilesyrup.com/2024/12/01/my-favourite-magsafe-charger-has-gotten-better/)
     
     [](https://mobilesyrup.com/2024/11/29/apple-watch-se-2nd-gen-is-100-off-at-walmart/)
     
@@ -99,37 +129,13 @@
     
     ### [Apple Watch SE 2nd-Gen is $100 off at Walmart](https://mobilesyrup.com/2024/11/29/apple-watch-se-2nd-gen-is-100-off-at-walmart/)
     
-    [](https://mobilesyrup.com/2024/11/29/best-amazon-canada-tech-related-black-friday-deals-in-2024/)
-    
-    Nov 29, 2024 | 4:18 PM EST
-    
-    ### [The best Amazon Canada Black Friday tech deals in 2024](https://mobilesyrup.com/2024/11/29/best-amazon-canada-tech-related-black-friday-deals-in-2024/)
-    
-    [](https://mobilesyrup.com/2024/11/29/freedom-mobile-black-friday-2024-pixel-galaxy-motorola/)
-    
-    Nov 29, 2024 | 3:41 PM EST
-    
-    ### [Freedom Mobile Black Friday: save on Pixel, Galaxy, iPhone and more \[Update\]](https://mobilesyrup.com/2024/11/29/freedom-mobile-black-friday-2024-pixel-galaxy-motorola/)
-    
-    [](https://mobilesyrup.com/2024/11/29/koodo-black-friday-2024/)
-    
-    Nov 29, 2024 | 2:40 PM EST
-    
-    ### [Koodo Black Friday: free accessory bundle, discounts on iPhone, Galaxy \[Update\]](https://mobilesyrup.com/2024/11/29/koodo-black-friday-2024/)
-    
-    [](https://mobilesyrup.com/2024/11/29/the-best-in-store-carrier-plans-are-mostly-20gb-for-29/)
-    
-    Nov 29, 2024 | 2:35 PM EST
-    
-    ### [The best in-store carrier plans are mostly 20GB for $29](https://mobilesyrup.com/2024/11/29/the-best-in-store-carrier-plans-are-mostly-20gb-for-29/)
-    
-    [](https://mobilesyrup.com/2024/11/29/news-organization-canada-seek-organization-open-ai/)
-    
-    Nov 29, 2024 | 2:29 PM EST
-    
-    ### [Select news organizations in Canada seek compensation from OpenAI](https://mobilesyrup.com/2024/11/29/news-organization-canada-seek-organization-open-ai/)
-    
     * [Carriers](https://mobilesyrup.com/categories/news/news-carriers/)
+        
+        [](https://mobilesyrup.com/2024/12/02/canadian-carrier-wireless-black-friday-deals-end-december-2/)
+        
+        Dec 2, 2024 | 11:44 AM EST
+        
+        ### [Several wireless providers list December 2 as final day for Black Friday deals](https://mobilesyrup.com/2024/12/02/canadian-carrier-wireless-black-friday-deals-end-december-2/)
         
         [](https://mobilesyrup.com/2024/11/29/freedom-mobile-black-friday-2024-pixel-galaxy-motorola/)
         
@@ -160,12 +166,6 @@
         Nov 29, 2024 | 11:56 AM EST
         
         ### [Telus Black Friday: iPhone 16 for $10/mo, Galaxy S24 for $5/mo \[Update\]](https://mobilesyrup.com/2024/11/29/telus-black-friday-2024/)
-        
-        [](https://mobilesyrup.com/2024/11/29/bell-black-friday-deals-phones-plans-internet/)
-        
-        Nov 29, 2024 | 11:42 AM EST
-        
-        ### [Bell Black Friday: $60/200GB 5G and $1 Pixel 9 \[Update\]](https://mobilesyrup.com/2024/11/29/bell-black-friday-deals-phones-plans-internet/)
         
     * [Smartphones](https://mobilesyrup.com/categories/news/news-smartphones/)
         
@@ -245,6 +245,12 @@
         
     * [Apps & Software](https://mobilesyrup.com/categories/news/news-apps-software/)
         
+        [](https://mobilesyrup.com/2024/12/02/psa-watch-out-for-scams-related-to-the-canada-post-strike/)
+        
+        Dec 2, 2024 | 9:47 AM EST
+        
+        ### [PSA: Watch out for scams related to the Canada Post strike](https://mobilesyrup.com/2024/12/02/psa-watch-out-for-scams-related-to-the-canada-post-strike/)
+        
         [](https://mobilesyrup.com/2024/11/28/elon-musk-x-account-ownership-alex-jones/)
         
         Nov 28, 2024 | 1:55 PM EST
@@ -274,12 +280,6 @@
         Nov 18, 2024 | 2:26 PM EST
         
         ### [Bluesky won’t use your data to train AI](https://mobilesyrup.com/2024/11/18/bluesky-social-media-app-wont-use-data-to-train-ai/)
-        
-        [](https://mobilesyrup.com/2024/11/15/google-creating-new-shielded-email-feature-to-hide-your-email-online/)
-        
-        Nov 15, 2024 | 10:46 AM EST
-        
-        ### [Google creating new ‘Shielded Email’ feature to hide your email online](https://mobilesyrup.com/2024/11/15/google-creating-new-shielded-email-feature-to-hide-your-email-online/)
         
     * [Smart Home](https://mobilesyrup.com/categories/news/news-smart-home/)
         
@@ -359,6 +359,12 @@
         
     * [Accessories](https://mobilesyrup.com/categories/news/news-accessories/)
         
+        [](https://mobilesyrup.com/2024/12/01/my-favourite-magsafe-charger-has-gotten-better/)
+        
+        Dec 1, 2024 | 2:28 PM EST
+        
+        ### [My favourite MagSafe charger has gotten better](https://mobilesyrup.com/2024/12/01/my-favourite-magsafe-charger-has-gotten-better/)
+        
         [](https://mobilesyrup.com/2024/11/26/new-dji-mic-mini-super-tiny-great-price/)
         
         Nov 26, 2024 | 8:03 PM EST
@@ -388,12 +394,6 @@
         Nov 11, 2024 | 4:50 PM EST
         
         ### [Barbie tie-in for ‘Wicked’ movie includes porn URL](https://mobilesyrup.com/2024/11/11/barbie-tie-in-for-wicked-movie-includes-porn-url/)
-        
-        [](https://mobilesyrup.com/2024/11/04/latest-ios-18-2-dev-beta-share-airtags-location-with-anyone/)
-        
-        Nov 4, 2024 | 4:37 PM EST
-        
-        ### [Latest iOS 18.2 dev beta lets you share AirTags location with anyone](https://mobilesyrup.com/2024/11/04/latest-ios-18-2-dev-beta-share-airtags-location-with-anyone/)
         
     * [Streaming](https://mobilesyrup.com/categories/news/news-streaming/)
         
@@ -473,6 +473,24 @@
         
     * [Deals](https://mobilesyrup.com/categories/deals/)
         
+        [](https://mobilesyrup.com/2024/12/02/playstation-big-30th-anniversary-sale-retro-console-themes/)
+        
+        Dec 2, 2024 | 2:54 PM EST
+        
+        ### [PlayStation drops big 30th anniversary sale, retro console themes](https://mobilesyrup.com/2024/12/02/playstation-big-30th-anniversary-sale-retro-console-themes/)
+        
+        [](https://mobilesyrup.com/2024/12/02/walmart-canada-cyber-week-2024-deals-apple-watch-beats-games/)
+        
+        Dec 2, 2024 | 1:25 PM EST
+        
+        ### [Walmart’s Cyber Week deals include big savings on Apple Watch, Beats and games](https://mobilesyrup.com/2024/12/02/walmart-canada-cyber-week-2024-deals-apple-watch-beats-games/)
+        
+        [](https://mobilesyrup.com/2024/11/30/telus-offering-200gb-5g-bonus-plan-for-60-during-black-friday/)
+        
+        Nov 30, 2024 | 3:36 PM EST
+        
+        ### [Telus offering 200GB 5G bonus plan for $60 during Black Friday](https://mobilesyrup.com/2024/11/30/telus-offering-200gb-5g-bonus-plan-for-60-during-black-friday/)
+        
         [](https://mobilesyrup.com/2024/11/30/freedom-10-credit-6-months-byop/)
         
         Nov 30, 2024 | 1:35 PM EST
@@ -491,26 +509,14 @@
         
         ### [6 months of CBC Gem Premium available for $1 during Black Friday promotion](https://mobilesyrup.com/2024/11/30/6-months-of-cbc-gem-premium-available-for-1-during-black-friday-promotion/)
         
-        [](https://mobilesyrup.com/2024/11/30/get-an-iphone-16-and-airpods-4th-gen-bundle-with-select-carriers-during-black-friday/)
-        
-        Nov 30, 2024 | 9:30 AM EST
-        
-        ### [Get an iPhone 16 and AirPods (4th Gen) bundle with select carriers during Black Friday](https://mobilesyrup.com/2024/11/30/get-an-iphone-16-and-airpods-4th-gen-bundle-with-select-carriers-during-black-friday/)
-        
-        [](https://mobilesyrup.com/2024/11/29/apple-watch-se-2nd-gen-is-100-off-at-walmart/)
-        
-        Nov 29, 2024 | 5:02 PM EST
-        
-        ### [Apple Watch SE 2nd-Gen is $100 off at Walmart](https://mobilesyrup.com/2024/11/29/apple-watch-se-2nd-gen-is-100-off-at-walmart/)
-        
-        [](https://mobilesyrup.com/2024/11/29/best-amazon-canada-tech-related-black-friday-deals-in-2024/)
-        
-        Nov 29, 2024 | 4:18 PM EST
-        
-        ### [The best Amazon Canada Black Friday tech deals in 2024](https://mobilesyrup.com/2024/11/29/best-amazon-canada-tech-related-black-friday-deals-in-2024/)
-        
     
 * [Reviews](https://mobilesyrup.com/categories/reviews/)
+    
+    [](https://mobilesyrup.com/2024/12/01/mandragora-playtest-preview/)
+    
+    Dec 1, 2024 | 11:09 AM EST
+    
+    ### [Mandragora is a beautiful ‘Soulsvania’ and I can’t for the official release](https://mobilesyrup.com/2024/12/01/mandragora-playtest-preview/)
     
     [](https://mobilesyrup.com/2024/11/30/razer-kraken-v4-pro-headphone-review/)
     
@@ -541,12 +547,6 @@
     Nov 23, 2024 | 10:58 AM EST
     
     ### [The Boox Go 6 finally made me an e-reader fan](https://mobilesyrup.com/2024/11/23/boox-go-6-e-reader-review/)
-    
-    [](https://mobilesyrup.com/2024/11/19/asus-rog-phone-9-this-gaming-powerhouse-isnt-available-in-canada/)
-    
-    Nov 19, 2024 | 6:20 AM EST
-    
-    ### [Asus ROG Phone 9: This gaming powerhouse isn’t available in Canada](https://mobilesyrup.com/2024/11/19/asus-rog-phone-9-this-gaming-powerhouse-isnt-available-in-canada/)
     
     * [Smartphones](https://mobilesyrup.com/categories/reviews/reviews-smartphones/)
         
@@ -740,6 +740,12 @@
         
     * [Gaming](https://mobilesyrup.com/categories/reviews/reviews-gaming/)
         
+        [](https://mobilesyrup.com/2024/12/01/mandragora-playtest-preview/)
+        
+        Dec 1, 2024 | 11:09 AM EST
+        
+        ### [Mandragora is a beautiful ‘Soulsvania’ and I can’t for the official release](https://mobilesyrup.com/2024/12/01/mandragora-playtest-preview/)
+        
         [](https://mobilesyrup.com/2024/11/24/razer-blackwidow-v4-pro-75-keyboard-review/)
         
         Nov 24, 2024 | 11:03 AM EST
@@ -769,12 +775,6 @@
         Nov 10, 2024 | 2:07 PM EST
         
         ### [Xbox Series X All-Digital Review: A small discount, same Xbox](https://mobilesyrup.com/2024/11/10/xbox-series-x-all-digital-review-a-small-discount-same-xbox/)
-        
-        [](https://mobilesyrup.com/2024/11/04/mario-and-luigi-brothership-nintendo-switch-review/)
-        
-        Nov 4, 2024 | 7:00 AM EST
-        
-        ### [Mario & Luigi: Brothership is one of the most charming games I’ve played in ages](https://mobilesyrup.com/2024/11/04/mario-and-luigi-brothership-nintendo-switch-review/)
         
     * [Apps & Software](https://mobilesyrup.com/categories/reviews/reviews-apps-software/)
         
