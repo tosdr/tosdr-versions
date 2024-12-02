@@ -1,3 +1,5 @@
+Loading
+
 [Skip to content](#maincontent)
 
 [](https://www.understood.org/en "Understood homepage")
