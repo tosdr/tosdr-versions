@@ -17,7 +17,7 @@ English Edition
 * [অসমীয়া (Assam)](https://assam.news18.com/)
 * [ଓଡ଼ିଆ (Odia)](https://odia.news18.com/)
 
-Mon, Dec 02, 2024
+Tue, Dec 03, 2024
 
 [Download News18 APP](https://onelink.to/eng-web-other)[Watch LIVE TV](https://www.news18.com/livetv/)
 
@@ -128,12 +128,12 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
-    * [Vikrant Massey](https://www.news18.com/movies/vikrant-massey-announces-retirement-from-acting-in-shocking-post-i-realise-its-time-to-9141780.html)
+    * [IPS Officer](https://www.news18.com/india/karnataka-ips-officer-harsh-bardhan-dies-road-accident-on-his-way-to-first-posting-hassan-latest-updates-9142069.html)
+    * [Sreeleela](https://www.news18.com/web-stories/celebrities/south-star-sreeleela-inspired-5-lehenga-blouses-for-marriage-season-2653106/)
     * [Chunky Panday](https://www.news18.com/movies/chunky-panday-shares-he-was-paid-to-attend-a-funeral-says-family-was-ready-to-pay-more-if-he-cried-9141302.html)
-    * [Sreeleela](https://www.news18.com/web-stories/celebrities/5-south-diva-sreeleelas-elegant-and-vibrant-saree-looks-2649145/)
-    * [Rashmika Mandanna](https://www.news18.com/web-stories/celebrities/4-rashmika-mandannas-simple-yet-elegant-saree-looks-for-wedding-season-2649042/)
     * [Skin Glow](https://www.news18.com/web-stories/lifestyle/5-hydrating-drinks-to-make-your-skin-glow-naturally-in-winter-2643380/)
-    * [Sonu Nigam](https://www.news18.com/movies/sonu-nigam-says-mohd-rafi-underwent-dharam-parivartan-while-singing-devotional-bhajans-a-namazi-9140976.html)
+    * [Maryam Faisal](https://www.news18.com/viral/pakistani-tiktoker-maryam-faisals-mms-leaked-after-kanwal-aftab-minahil-malik-imsha-rehman-9142666.html)
+    * [Adelaide Test](https://www.news18.com/cricket/no-r-ashwin-ravindra-jadeja-for-adelaide-test-as-india-contemporary-asks-rohit-sharma-to-stick-with-washington-sundar-9142337.html)
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
@@ -170,12 +170,12 @@ Follow us on
 
 In Trends:
 
-* [Vikrant Massey](https://www.news18.com/movies/vikrant-massey-announces-retirement-from-acting-in-shocking-post-i-realise-its-time-to-9141780.html)
+* [IPS Officer](https://www.news18.com/india/karnataka-ips-officer-harsh-bardhan-dies-road-accident-on-his-way-to-first-posting-hassan-latest-updates-9142069.html)
+* [Sreeleela](https://www.news18.com/web-stories/celebrities/south-star-sreeleela-inspired-5-lehenga-blouses-for-marriage-season-2653106/)
 * [Chunky Panday](https://www.news18.com/movies/chunky-panday-shares-he-was-paid-to-attend-a-funeral-says-family-was-ready-to-pay-more-if-he-cried-9141302.html)
-* [Sreeleela](https://www.news18.com/web-stories/celebrities/5-south-diva-sreeleelas-elegant-and-vibrant-saree-looks-2649145/)
-* [Rashmika Mandanna](https://www.news18.com/web-stories/celebrities/4-rashmika-mandannas-simple-yet-elegant-saree-looks-for-wedding-season-2649042/)
 * [Skin Glow](https://www.news18.com/web-stories/lifestyle/5-hydrating-drinks-to-make-your-skin-glow-naturally-in-winter-2643380/)
-* [Sonu Nigam](https://www.news18.com/movies/sonu-nigam-says-mohd-rafi-underwent-dharam-parivartan-while-singing-devotional-bhajans-a-namazi-9140976.html)
+* [Maryam Faisal](https://www.news18.com/viral/pakistani-tiktoker-maryam-faisals-mms-leaked-after-kanwal-aftab-minahil-malik-imsha-rehman-9142666.html)
+* [Adelaide Test](https://www.news18.com/cricket/no-r-ashwin-ravindra-jadeja-for-adelaide-test-as-india-contemporary-asks-rohit-sharma-to-stick-with-washington-sundar-9142337.html)
 * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 
 * Follow Us
@@ -430,7 +430,7 @@ This Policy was last updated as of 14th November 2024.
 
 ![](https://images.news18.com/ibnlive/uploads/2021/07/1627283897_news18_logo-1200x800.jpg)
 
-Dec 02, 2024
+Dec 03, 2024
 
 [View All](https://www.news18.com/short-news/)
 
