@@ -71,7 +71,6 @@
 * [Community](https://www.ksd.org/community)
     
     * [Community Education(opens in new window/tab)](https://www.ksd.org/departments/communications-public-relations/community-education)
-    * [Community News](https://www.ksd.org/community/community-news)
     * [Community Resources](https://www.ksd.org/community/community-resources)
     * [E-Flyer Requests (Peachjar)](https://www.ksd.org/community/e-flyers)
     * [Facility Rental](https://www.ksd.org/community/facility-rental)
@@ -196,7 +195,6 @@ toggle mobile menu
 * [Community](https://www.ksd.org/community)
     
     * [Community Education(opens in new window/tab)](https://www.ksd.org/departments/communications-public-relations/community-education)
-    * [Community News](https://www.ksd.org/community/community-news)
     * [Community Resources](https://www.ksd.org/community/community-resources)
     * [E-Flyer Requests (Peachjar)](https://www.ksd.org/community/e-flyers)
     * [Facility Rental](https://www.ksd.org/community/facility-rental)
