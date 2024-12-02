@@ -349,11 +349,11 @@ Recently Played
 
 |     |
 | --- |
-| Break Up In A Small TownSam Hunt<br><br>10:38pm |
-| Where The Wild Things AreLuke Combs<br><br>10:34pm |
-| You Look Like You Love MeElla Langley Ft Riley Green<br><br>10:31pm |
-| Beer In MexicoKenny Chesney<br><br>10:27pm |
-| Love SomebodyMorgan Wallen<br><br>10:24pm |
+| Bottoms UpBrantley Gilbert<br><br>4:39am |
+| Better Than YouJoe Nichols Ft Annie Bosko<br><br>4:35am |
+| Singles You UpJordan Davis<br><br>4:32am |
+| You Look Like You Love MeElla Langley Ft Riley Green<br><br>4:29am |
+| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>4:26am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -497,11 +497,11 @@ State
 Featured Brands
 ---------------
 
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
-Spanish • Western
+Top 40 • Pacific NW
 
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
 Country • Western
 
@@ -509,9 +509,9 @@ Country • Western
 
 Top 40 • Eastern
 
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
-Sports • Midwest
+Spanish • Western
 
 [](https://www.alphamediausa.com/)
 
