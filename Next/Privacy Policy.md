@@ -1,6 +1,6 @@
 6.0.11
 
-1733108865438
+1733128847524
 
                                    
 
@@ -12,17 +12,17 @@ en
 
 4.0.1
 
-1733108508777
+1733129846091
 
      Next Cookies & Privacy Policy | Next Official Site                                  
 
-                  [Click here to use our accessible website](https://accessible.next.co.uk/)
+                 [Click here to use our accessible website](https://accessible.next.co.uk/)
 
 6.0.11
 
 cutaway22
 
-1733108509405
+1733129976050
 
 You need to enable JavaScript to run this app.
 
@@ -43,8 +43,6 @@ Search product or brand
 [![Sign in to view account details](/static-content/icons/header/next/v2/vision/next_my-account.svg)](https://www.next.co.uk/secure/accounts/transfer)
 
 [![Sign in to view account details](/static-content/icons/header/next/v2/vision/next_my-account_desktop.svg)](https://www.next.co.uk/secure/accounts/transfer)
-
-[![Favourites icon](/static-content/icons/header/next/v2/vision/favourites-inactive-large.svg)](https://www.next.co.uk/favourites "Favourites")
 
 [![Shopping bag icon](/static-content/icons/header/next/v2/vision/shopping-bag-small.svg)](https://www.next.co.uk/shoppingbag "Shopping bag")
 
@@ -467,32 +465,6 @@ D02 ED70
 
 Ireland
 
-Max Limit Reached
-
-You have reached your limit of 0 items. Please review your Favourites List to keep this item.
-
-[Manage Favourites](https://www.next.co.uk/favourites)
-
-Continue Shopping
-
-Favourites
-
-[Sign in](https://www.next.co.uk/secure/accounts/transfer) or [Register](https://www.next.co.uk/secure/account/Register) an account to save these items permanently.
-
-Please try again
-
-Favourites currently unavailable
-
-Add to Favourites
-
-Remove from Favourites
-
-[Close](#)
-
-This item has been added/removed from a user's Favourites List.  
-  
-Not already logged in? [Sign Out](https://www.next.co.uk/secure/account/MyAccount/AccountSummary/ForgetMe)
-
 Confirm Country Change
 
 Are you sure you want to navigate away from this site?
@@ -524,7 +496,7 @@ You need to enable JavaScript to run this app.
 
 4.0.1
 
-1733108496403
+1733129309975
 
 ##### Our Social Networks
 
