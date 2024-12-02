@@ -1,6 +1,6 @@
 6.0.11
 
-1733128847524
+1733151102482
 
                                       
 
@@ -12,7 +12,7 @@ en
 
 4.0.1
 
-1733129846091
+1733151083049
 
      Next Terms & Conditions | T&C's | Next Official Site                                  
 
@@ -22,7 +22,7 @@ en
 
 cutaway22
 
-1733129976050
+1733151041330
 
 You need to enable JavaScript to run this app.
 
@@ -2793,15 +2793,17 @@ Next reserves the right to amend these terms and conditions and/or discontinue t
 12. The following items are not included in the sale unless otherwise stated: flowers, gift cards, personalised items or items made to your order, photos, domestic appliances, gift experiences, wall stickers, garden and plants, Hammonds bedrooms, Beaverbrooks products & Laura Ashley.
 13. Unfulfilled day 1 slots may be offered to non nextpay credit account holders.
 
-### New nextpay Customers - Priority VIP Sale Access
+### Priority access to VIP Sale
 
-Day One Sale access also known as VIP Sale is an exclusive benefit to nextpay customers. Exclusions apply.  
-To be allocated a VIP Sale invite for the upcoming Sale you will need to:
+Priority access also known as VIP Sale is an exclusive benefit to nextpay and pay in 3 customers. Exclusions apply. To be allocated a VIP Sale invite for the upcoming Sale you will need to:
 
 * Be opted in to receive marketing emails. Manage your marketing preferences [here](https://www.next.co.uk/secure/account/MyAccount/Communications). You can opt out at any time.
-* Have successfully created your nextpay account ahead of any promoted deadline (communicated on & offsite in the lead up to Sale). If you sign up after the cut-off date you will be included in a subsequent Sale Invite.
-
-If you do not book a slot, you will be invited to shop the sale later on subsequent days.
+* Have successfully created your nextpay or pay in 3 account by 11.59pm on Tuesday 17th December 2024.
+* If you sign up after the cut-off date you will be included in a subsequent Sale Invite.
+* You will receive your Priority Access invite from Wednesday 18th December 2024.
+* Priority access gives you the first choice of available time slots for Day 1 sale access.
+* **If you do not book a slot, you will be invited to shop the sale later on subsequent days.**
+* For more information on our VIP Sale, see above.
 
 ### Main Sale & Clearance Events
 
@@ -3452,7 +3454,7 @@ You need to enable JavaScript to run this app.
 
 4.0.1
 
-1733129309975
+1733150307362
 
 ##### Our Social Networks
 
