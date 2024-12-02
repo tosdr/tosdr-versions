@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-01 Dec 2024
+02 Dec 2024
 
 * [Home
     
@@ -266,13 +266,6 @@ Most Popular
 [Teenager killed in fatal early-morning crash in Inishowen](https://www.derrynow.com/news/local-news/1669894/teenager-killed-in-fatal-early-morning-crash-in-inishowen.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![PICTURES: Festivalgoers descend on Dingle for Day 1 of Other Voices 2024](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Festivalgoers descend on Dingle for Day 1 of Other Voices 2024")](https://www.derrynow.com/news/national-news/1669282/pictures-festivalgoers-descend-on-dingle-for-day-1-of-other-voices-2024.html)
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[PICTURES: Festivalgoers descend on Dingle for Day 1 of Other Voices 2024](https://www.derrynow.com/news/national-news/1669282/pictures-festivalgoers-descend-on-dingle-for-day-1-of-other-voices-2024.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![47-year-old man arrested following assault in Derry city centre](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "47-year-old man arrested following assault in Derry city centre")](https://www.derrynow.com/news/local-news/1670142/47-year-old-man-arrested-following-assault-in-derry-city-centre.html)
 
 The incident took place in the Sackville Street area of the city
@@ -288,6 +281,13 @@ The incident took place in the Sackville Street area of the city
 
 [Derry Death Notices - Sunday, December 1, 2024](https://www.derrynow.com/news/deaths/1666537/derry-death-notices-sunday-december-1-2024.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Local-born author Pat Mullan to launch debut book in Limavady](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Local-born author Pat Mullan to launch debut book in Limavady")](https://www.derrynow.com/news/home/1670413/local-born-author-pat-mullan-to-launch-debut-book-in-limavady.html)
+
+[Home](https://www.derrynow.com/)
+
+[Local-born author Pat Mullan to launch debut book in Limavady](https://www.derrynow.com/news/home/1670413/local-born-author-pat-mullan-to-launch-debut-book-in-limavady.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry PSNI Christmas operation to prioritise safeguarding women and girls and keeping people safe](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry PSNI Christmas operation to prioritise safeguarding women and girls and keeping people safe")](https://www.derrynow.com/news/local-news/1666376/derry-psni-christmasoperation-toprioritise-safeguarding-women-and-girls-and-keeping-people-safe.html)
 
@@ -317,19 +317,19 @@ The incident took place in the Sackville Street area of the city
 [Five police hurt in ‘melee’ as dozens clash outside Belfast nightclub](https://www.derrynow.com/news/northern-ireland/1670011/five-police-hurt-in-melee-as-dozens-clash-outside-belfast-nightclub.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Dean McCullough is second contestant to leave I’m A Celebrity after public vote](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Dean McCullough is second contestant to leave I’m A Celebrity after public vote")](https://www.derrynow.com/news/national-news/1670541/dean-mccullough-is-second-contestant-to-leave-im-a-celebrity-after-public-vote.html)
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[Dean McCullough is second contestant to leave I’m A Celebrity after public vote](https://www.derrynow.com/news/national-news/1670541/dean-mccullough-is-second-contestant-to-leave-im-a-celebrity-after-public-vote.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Criminal solicitors warn minister on prospect of escalation in legal aid dispute](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Criminal solicitors warn minister on prospect of escalation in legal aid dispute")](https://www.derrynow.com/news/northern-ireland/1670013/criminal-solicitors-warn-minister-on-prospect-of-escalation-in-legal-aid-dispute.html)
 
 [Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
 
 [Criminal solicitors warn minister on prospect of escalation in legal aid dispute](https://www.derrynow.com/news/northern-ireland/1670013/criminal-solicitors-warn-minister-on-prospect-of-escalation-in-legal-aid-dispute.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Two road safety campaigns to be launched in Northern Ireland](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two road safety campaigns to be launched in Northern Ireland")](https://www.derrynow.com/news/northern-ireland/1669869/two-road-safety-campaigns-to-be-launched-in-northern-ireland.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Two road safety campaigns to be launched in Northern Ireland](https://www.derrynow.com/news/northern-ireland/1669869/two-road-safety-campaigns-to-be-launched-in-northern-ireland.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -511,6 +511,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Local-born author Pat Mullan to launch debut book in Limavady](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Local-born author Pat Mullan to launch debut book in Limavady")](https://www.derrynow.com/news/home/1670413/local-born-author-pat-mullan-to-launch-debut-book-in-limavady.html)
+
+[Home](https://www.derrynow.com/)
+
+[Local-born author Pat Mullan to launch debut book in Limavady](https://www.derrynow.com/news/home/1670413/local-born-author-pat-mullan-to-launch-debut-book-in-limavady.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![47-year-old man arrested following assault in Derry city centre](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "47-year-old man arrested following assault in Derry city centre")](https://www.derrynow.com/news/local-news/1670142/47-year-old-man-arrested-following-assault-in-derry-city-centre.html)
 
 The incident took place in the Sackville Street area of the city
@@ -520,7 +527,7 @@ The incident took place in the Sackville Street area of the city
 [47-year-old man arrested following assault in Derry city centre](https://www.derrynow.com/news/local-news/1670142/47-year-old-man-arrested-following-assault-in-derry-city-centre.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Teenager killed in fatal early-morning crash in Inishowen](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Teenager killed in fatal early-morning crash in Inishowen")](https://www.derrynow.com/news/local-news/1669894/teenager-killed-in-fatal-early-morning-crash-in-inishowen.html)
+[![Teenager killed in fatal early-morning crash in Inishowen](https://www.derrynow.com/resizer/165/93/true/2024_12_01/2024-08-15_08_30_18_1522572313578-jpg_Cropped-1723707064203.jpg--death_notices_for_donegal___monday_morning__august_12-1733048121660.jpg--.jpg?1733048121703 "Teenager killed in fatal early-morning crash in Inishowen")](https://www.derrynow.com/news/local-news/1669894/teenager-killed-in-fatal-early-morning-crash-in-inishowen.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
@@ -547,15 +554,6 @@ The incident took place in the Sackville Street area of the city
 
 [Derry Death Notices - Sunday, December 1, 2024](https://www.derrynow.com/news/deaths/1666537/derry-death-notices-sunday-december-1-2024.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry sisters on a mission to raise vital funds for Foyle Hospice in memory of their mum](https://www.derrynow.com/resizer/165/93/true/2024_11_25/IDNM_25-11-24_Xmas_Swim_30222656-1732540293210_1732540370.jpg--.jpg?1732540370929 "Derry sisters on a mission to raise vital funds for Foyle Hospice in memory of their mum")](https://www.derrynow.com/news/local-news/1664188/derry-sisters-on-a-mission-to-raise-vital-funds-for-foyle-hospice-in-memory-of-their-mum.html)
-
-Mairead and Caoimhe Fox are aiming to raise £108,000 for Foyle Hospice in memory of their mother Ann.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry sisters on a mission to raise vital funds for Foyle Hospice in memory of their mum](https://www.derrynow.com/news/local-news/1664188/derry-sisters-on-a-mission-to-raise-vital-funds-for-foyle-hospice-in-memory-of-their-mum.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
