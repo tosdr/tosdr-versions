@@ -269,7 +269,7 @@ If you have any questions or comments about the Agreement or your dealings with 
 2nd Floor  
 Framingham, MA 01701
 
-© 2024 Rave Mobile Safety. All Rights Reserved. [Privacy Policy](https://www.ravemobilesafety.com/privacy-policy/) | [Terms of Use](https://www.ravemobilesafety.com/terms-of-use/) | [Anonymous Reporting/COI Policy](https://www.ravemobilesafety.com/wp-content/uploads/2022/07/anonymously-reporting-conflict-interest.pdf) | [Your California Privacy Choices](https://submit-irm.trustarc.com/services/validation/3c186b09-1def-4f30-8e91-9d4e75047e7b) |
+© 2024 Rave Mobile Safety. All Rights Reserved. [Privacy Policy](https://www.ravemobilesafety.com/privacy-policy/) | [Terms of Use](https://www.ravemobilesafety.com/terms-of-use/) | [Anonymous Reporting/COI Policy](https://www.ravemobilesafety.com/wp-content/uploads/2022/07/anonymously-reporting-conflict-interest.pdf) | [Your California Privacy Choices](https://submit-irm.trustarc.com/services/validation/b00cccf6-c71c-4dd4-ad03-a581b65f808d) |
 
   
   
