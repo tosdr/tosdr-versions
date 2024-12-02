@@ -2,8 +2,8 @@
 
 Please enable JavaScript. If you don't know how, you can find instructions[here](https://enable-javascript.com/).Once you've done that, refresh this page to start using Wolfram|Alpha.
 
-[](https://www.wolframalpha.com/)
-=================================
+[](https://www6.wolframalpha.com/)
+==================================
 
 General Terms of Use
 ====================
