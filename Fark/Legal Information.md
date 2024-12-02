@@ -228,11 +228,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-If you like these links, you'll love
+Can't get enough Fark in your life? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-All the submissions, none of the calories.
+More threads. More community. More Farking.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [For that matter, why would anybody?](https://www.fark.com/goto/13480198) ( [bbc.com](https://www.fark.com/goto/13480198) ) » [(10 comments)](https://www.fark.com/comments/13480198/For-that-matter-why-would-anybody) |
-| [Discussion](https://www.fark.com/discussion/) | [Today's eclectic jazz journey has Bop, beautiful voices, some funky basslines, and a tribute to cats. Featured artists include Laura Anglade, Leon Bridges, Jazz Sabbath, Nina Simone, Brooklyn Funk Essentials & more. Fuse 'n Flow, 1:00PM ET](https://www.fark.com/goto/13480292) ( [bigeradio.com](https://www.fark.com/goto/13480292) ) » [(15 comments)](https://www.fark.com/comments/13480292/Todays-eclectic-jazz-journey-has-Bop-beautiful-voices-some-funky-basslines-a-tribute-to-cats-Featured-artists-include-Laura-Anglade-Leon-Bridges-Jazz-Sabbath-Nina-Simone-Brooklyn-Funk-Essentials-more-Fuse-n-Flow-100PM-ET) |
-| [Sports](https://www.fark.com/sports/) | [Can the Falcons fly high against the Chargers? Can the Vikings cruise to a victory against the Cardinals? Who will the Battle of the Birds between the Eagles and the Ravens? Week 13 of the NFL season starts at 1:00 PM ET on CBS and FOX](https://www.fark.com/goto/13479864) ( [espn.com](https://www.fark.com/goto/13479864) ) » [(359 comments)](https://www.fark.com/comments/13479864/Can-Falcons-fly-high-against-Chargers-Can-Vikings-cruise-to-a-victory-against-Cardinals-Who-will-Battle-of-Birds-between-Eagles-the-Ravens-Week-13-of-NFL-season-starts-at-100-PM-ET-on-CBS-FOX) |
-| [Business](https://www.fark.com/business/) | [Nissan months from imploding much like their transmissions](https://www.fark.com/goto/13480170) ( [forbes.com](https://www.fark.com/goto/13480170) ) » [(10 comments)](https://www.fark.com/comments/13480170/Nissan-months-from-imploding-much-like-their-transmissions) |
-| [STEM](https://www.fark.com/stem/) | [Yes](https://www.fark.com/goto/13480128) ( [bbc.com](https://www.fark.com/goto/13480128) ) » [(5 comments)](https://www.fark.com/comments/13480128/Yes) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Make way for Moana 2, Queen of Thanksgiving with $140 million. Wicked flies in at #2 with $118 million, Gladiator 2 a distant #3 with $31, Red One seeing green at #4 with $13 million, Best Christmas Pageant Ever bowing out at #5 with $3 million](https://www.fark.com/goto/13480154) ( [deadline.com](https://www.fark.com/goto/13480154) ) » [(24 comments)](https://www.fark.com/comments/13480154/Make-way-for-Moana-2-Queen-of-Thanksgiving-with-$140-million-Wicked-flies-in-at-2-with-$118-million-Gladiator-2-a-distant-3-with-$31-Red-One-seeing-green-at-4-with-$13-million-Best-Christmas-Pageant-Ever-bowing-out-at-5-with-$3-million) |
-| [Fandom](https://www.fark.com/fandom/) | [We almost got a "Naked Gun" video game until O.J. killed it](https://www.fark.com/goto/13479982) ( [cracked.com](https://www.fark.com/goto/13479982) ) » [(10 comments)](https://www.fark.com/comments/13479982/We-almost-got-a-Naked-Gun-video-game-until-OJ-killed-it) |
-| [D'awww](https://www.fark.com/dawww/) | [What does a nurse do when her 14 yo patient has triplets and is practically homeless?](https://www.fark.com/goto/13479920) ( [upworthy.com](https://www.fark.com/goto/13479920) ) » [(14 comments)](https://www.fark.com/comments/13479920/What-does-a-nurse-do-when-her-14-yo-patient-has-triplets-is-practically-homeless) |
-| [Food](https://www.fark.com/food/) | [Bolognese. You've been doing it wrong](https://www.fark.com/goto/13480124) ( [dailymail.co.uk](https://www.fark.com/goto/13480124) ) » [(21 comments)](https://www.fark.com/comments/13480124/Bolognese-Youve-been-doing-it-wrong) |
-| [Politics](https://www.fark.com/politics/) | [Oh, wait. Moving federal agencies out of Washington D.C. is "wildly disruptive" to said agencies? Golly, I'm really glad you're bringing this up. No way Trump will do it now](https://www.fark.com/goto/13480200) ( [wtop.com](https://www.fark.com/goto/13480200) ) » [(13 comments)](https://www.fark.com/comments/13480200/Oh-wait-Moving-federal-agencies-out-of-Washington-DC-is-wildly-disruptive-to-said-agencies-Golly-Im-really-glad-youre-bringing-this-up-No-way-Trump-will-do-it-now) |
+| [Main](https://www.fark.com/) | [Looks like Hunter was the Thanksgiving turkey all along](https://www.fark.com/goto/13480528) ( [nbcnews.com](https://www.fark.com/goto/13480528) ) » [(251 comments)](https://www.fark.com/comments/13480528/Looks-like-Hunter-was-Thanksgiving-turkey-all-along) |
+| [Discussion](https://www.fark.com/discussion/) | [Can Brock Purdy and the 49ers go into cold Buffalo and win the game versus the Bills? Or will Josh Allen and the Bills send them back to San Francisco with a loss? Sunday Night Football kicks off at 8:20 PM ET on NBC/Peacock](https://www.fark.com/goto/13479866) ( [espn.com](https://www.fark.com/goto/13479866) ) » [(140 comments)](https://www.fark.com/comments/13479866/Can-Brock-Purdy-the-49ers-go-into-cold-Buffalo-win-game-versus-Bills-Or-will-Josh-Allen-the-Bills-send-them-back-to-San-Francisco-with-a-loss-Sunday-Night-Football-kicks-off-at-820-PM-ET-on-NBCPeacock) |
+| [Sports](https://www.fark.com/sports/) | [Can Brock Purdy and the 49ers go into cold Buffalo and win the game versus the Bills? Or will Josh Allen and the Bills send them back to San Francisco with a loss? Sunday Night Football kicks off at 8:20 PM ET on NBC/Peacock](https://www.fark.com/goto/13479866) ( [espn.com](https://www.fark.com/goto/13479866) ) » [(140 comments)](https://www.fark.com/comments/13479866/Can-Brock-Purdy-the-49ers-go-into-cold-Buffalo-win-game-versus-Bills-Or-will-Josh-Allen-the-Bills-send-them-back-to-San-Francisco-with-a-loss-Sunday-Night-Football-kicks-off-at-820-PM-ET-on-NBCPeacock) |
+| [Business](https://www.fark.com/business/) | [Nissan months from imploding much like their transmissions](https://www.fark.com/goto/13480170) ( [forbes.com](https://www.fark.com/goto/13480170) ) » [(40 comments)](https://www.fark.com/comments/13480170/Nissan-months-from-imploding-much-like-their-transmissions) |
+| [STEM](https://www.fark.com/stem/) | [No. Obviously not. Duh](https://www.fark.com/goto/13480364) ( [apnews.com](https://www.fark.com/goto/13480364) ) » [(8 comments)](https://www.fark.com/comments/13480364/No-Obviously-not-Duh) |
+| [Entertainment](https://www.fark.com/entertainment/) | [I think 23 or 24 of these songs are good, but there are far too many clunkers in this bunch](https://www.fark.com/goto/13480334) ( [pastemagazine.com](https://www.fark.com/goto/13480334) ) » [(37 comments)](https://www.fark.com/comments/13480334/I-think-23-24-of-these-songs-are-good-but-there-are-far-too-many-clunkers-in-this-bunch) |
+| [Fandom](https://www.fark.com/fandom/) | [We almost got a "Naked Gun" video game until O.J. killed it](https://www.fark.com/goto/13479982) ( [cracked.com](https://www.fark.com/goto/13479982) ) » [(15 comments)](https://www.fark.com/comments/13479982/We-almost-got-a-Naked-Gun-video-game-until-OJ-killed-it) |
+| [D'awww](https://www.fark.com/dawww/) | [Pooches in Pullovers. On parade](https://www.fark.com/goto/13480336) ( [apnews.com](https://www.fark.com/goto/13480336) ) » [(2 comments)](https://www.fark.com/comments/13480336/Pooches-in-Pullovers-On-parade) |
+| [Food](https://www.fark.com/food/) | [Balance a junk food meal with a green tea, for your heart and soul](https://www.fark.com/goto/13480374) ( [indy100.com](https://www.fark.com/goto/13480374) ) » [(0 comments)](https://www.fark.com/comments/13480374/Balance-a-junk-food-meal-with-a-green-tea-for-your-heart-soul) |
+| [Politics](https://www.fark.com/politics/) | [Looks like Hunter was the Thanksgiving turkey all along](https://www.fark.com/goto/13480528) ( [nbcnews.com](https://www.fark.com/goto/13480528) ) » [(251 comments)](https://www.fark.com/comments/13480528/Looks-like-Hunter-was-Thanksgiving-turkey-all-along) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Dec 01 2024 14:42:37  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Dec 01 2024 20:42:08  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
