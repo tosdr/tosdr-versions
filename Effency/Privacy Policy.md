@@ -53,9 +53,6 @@ La présente Politique de Confidentialité a pour objet de vous informer sur les
 
 Nous nous conformons, dans la collecte et la gestion de ces données, à la réglementation applicable en matière de données personnelles et notamment la loi n°78-17 du 6 janvier 1978 dite « Informatique et Libertés », au Règlement UE 2016/679 du 27 avril 2016 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données faisant l’objet du décret n°2019-536 du 29 mai 2019. 
 
-  
-**Notice**: Undefined index: title\_display in **/home/effency-user/applications/wordpress/wp-prod.new/wp-content/plugins/premium-addons-for-elementor/widgets/premium-counter.php** on line **1377**  
-
 1
 
 ### Identité du responsable de la collecte de données :
@@ -63,9 +60,6 @@ Nous nous conformons, dans la collecte et la gestion de ces données, à la rég
 Le responsable de la collecte de vos données à caractère personnel est la société SAS EFFENCY, immatriculée au Registre du Commerce et des Sociétés de Paris sous le n° 822 320 172 ayant son siège social au 78 avenue de Flandre – 75019 Paris (« EFFENCY» ou « Nous »). 
 
 Email de contact : team@effency.fr  
-
-  
-**Notice**: Undefined index: title\_display in **/home/effency-user/applications/wordpress/wp-prod.new/wp-content/plugins/premium-addons-for-elementor/widgets/premium-counter.php** on line **1377**  
 
 2
 
@@ -81,12 +75,11 @@ EFFENCY veille scrupuleusement au principe de minimisation des données collect�
 *  **Données techniques** (adresses IP, logs de connexion) : ces données sont récoltées au cours de vos navigations. 
 *  **Données de navigation** (recherches, nombre de visites, date de la dernière visite) : ces données sont utiles pour proposer des services personnalisés mais aussi effectuer des mesures d’audience de nos produits et services. 
 
-  
-**Notice**: Undefined index: title\_display in **/home/effency-user/applications/wordpress/wp-prod.new/wp-content/plugins/premium-addons-for-elementor/widgets/premium-counter.php** on line **1377**  
+Email de contact : team@effency.fr  
 
 3
 
-### Finalités des traitements :
+### Finalités des traitements : ​
 
 Vos données sont collectées et traitées pour des finalités explicites, légitimes et déterminées afin de nous permettre : 
 
@@ -97,9 +90,6 @@ Vos données sont collectées et traitées pour des finalités explicites, légi
 * D’élaborer des statistiques commerciales et de fréquentation de nos Services. 
 
 Nous vous informons, lors de la collecte de vos données personnelles, si certaines données doivent être obligatoirement renseignées ou si elles sont facultatives. Nous vous indiquons également quelles sont les conséquences éventuelles d’un défaut de réponse. 
-
-  
-**Notice**: Undefined index: title\_display in **/home/effency-user/applications/wordpress/wp-prod.new/wp-content/plugins/premium-addons-for-elementor/widgets/premium-counter.php** on line **1377**  
 
 4
 
@@ -131,9 +121,6 @@ Peuvent également être destinataires de vos données à caractère personnel l
 
 Les données à caractère personnel collectées sont susceptibles d’être utilisées à des fins de recherche ainsi qu’aux fins de réalisation de statistiques (voir article 10 de nos CGU). Dans ce cadre, elles sont susceptibles d’être transmises à des tiers, chercheurs, avec lesquels nous collaborons. Elles sont toutefois anonymisées avant toute transmission à ces tiers, de manière à ne plus constituer des données à caractère personnel lors cette leur transmission. 
 
-  
-**Notice**: Undefined index: title\_display in **/home/effency-user/applications/wordpress/wp-prod.new/wp-content/plugins/premium-addons-for-elementor/widgets/premium-counter.php** on line **1377**  
-
 5
 
 ### Bases juridiques des traitements  :
@@ -147,9 +134,6 @@ EFFENCY traite vos données personnelles sur les fondements juridiques suivants 
 **Consentement :** EFFENCY réalise des traitements à la suite de votre consentement exprès, qui peut être retiré à tout moment. Tel est le cas pour l’envoi de nos tests, analyses, programmes de coaching, parcours digitaux ou communications commerciales portant sur les offres spéciales. 
 
 **Respect des obligations légales :** EFFENCY peut réaliser des traitements dans le cadre du respect de ses obligations légales. Tel est le cas dans le cadre encore du traitement comptable de vos commandes. 
-
-  
-**Notice**: Undefined index: title\_display in **/home/effency-user/applications/wordpress/wp-prod.new/wp-content/plugins/premium-addons-for-elementor/widgets/premium-counter.php** on line **1377**  
 
 6
 
@@ -167,9 +151,6 @@ Les données à caractère personnel relatives à un **prospect, non utilisateur
 
 Pour la **gestion des demandes de droit sur vos données personnelles**, les données seront conservées pendant un an. 
 
-  
-**Notice**: Undefined index: title\_display in **/home/effency-user/applications/wordpress/wp-prod.new/wp-content/plugins/premium-addons-for-elementor/widgets/premium-counter.php** on line **1377**  
-
 7
 
 ### Transferts des données hors Espace Economique Européen  :
@@ -177,9 +158,6 @@ Pour la **gestion des demandes de droit sur vos données personnelles**, les don
 La politique de EFFENCY est de ne pas transférer de données hors de l’Espace Economique Européen.  
 
 Dans une telle hypothèse, EFFENCY s’engage à ce qu’ils soient effectués moyennant des garanties appropriées, notamment contractuelles et techniques, en conformité avec la réglementation applicable en matière de protection des données personnelles. 
-
-  
-**Notice**: Undefined index: title\_display in **/home/effency-user/applications/wordpress/wp-prod.new/wp-content/plugins/premium-addons-for-elementor/widgets/premium-counter.php** on line **1377**  
 
 8
 
@@ -207,9 +185,6 @@ Les cookies à des fins statistiques d’audience ne sont pas conservées au-del
 
 Nous n’utilisons pas de cookies publicitaires. Toutefois, si nous devions en utiliser à l’avenir, nous vous en informerions au préalable et vous auriez la possibilité le cas échéant de désactiver ces cookies. 
 
-  
-**Notice**: Undefined index: title\_display in **/home/effency-user/applications/wordpress/wp-prod.new/wp-content/plugins/premium-addons-for-elementor/widgets/premium-counter.php** on line **1377**  
-
 9
 
 ### Quels sont vos droits et comment les exercer  :
@@ -230,9 +205,6 @@ En cas de communication d’une pièce d’identité pour justifier de votre ide
 
 En cas de litige, vous pouvez contacter la CNIL, sur le site web www.cnil.fr ou par courrier : CNIL 3 place de Fontenoy, TSA 80715, 75334 Paris Cedex 7.  
 
-  
-**Notice**: Undefined index: title\_display in **/home/effency-user/applications/wordpress/wp-prod.new/wp-content/plugins/premium-addons-for-elementor/widgets/premium-counter.php** on line **1377**  
-
 10
 
 ### Sécurité des données collectées :
@@ -249,14 +221,11 @@ Les principes suivants président les développements de notre Site et de notre 
 
 Nous traitons les données personnelles au sein d’infrastructures sécurisées localisées dans l’Espace Economique Européen ; notre Site et notre Application font l’objet d’audits réguliers permettant de garantir un haut niveau de sécurité. 
 
-  
-**Notice**: Undefined index: title\_display in **/home/effency-user/applications/wordpress/wp-prod.new/wp-content/plugins/premium-addons-for-elementor/widgets/premium-counter.php** on line **1377**  
-
 11
 
 ### Entrée en vigueur
 
-La présente politique de confidentialité est entrée en vigueur en mars 2021 
+La présente politique de confidentialité est entrée en vigueur en mars 2021 
 
 ![soleil blanc](https://www.effency.fr/wp-content/uploads/elementor/thumbs/soleil-blanc-poesfkh6t421zkz5kfoueozlwbww514gcg73pjmn1g.png "soleil blanc")
 
