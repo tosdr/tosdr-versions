@@ -20,7 +20,7 @@ Toggle navigation
     * [Careers](https://careers.exoclick.com/)
     * [Associations](https://www.exoclick.com/associations/)
 * [Help](https://docs.exoclick.com/)
-    * [ExoClick Academy](https://e2z.me/Bso08)
+    * [ExoClick Academy](https://academy.exoclick.com/)
     * [API](https://www.exoclick.com/api/)
     * [Documentation](https://docs.exoclick.com/)
     * [Compliance](https://www.exoclick.com/compliance/)
@@ -149,7 +149,7 @@ Target double opt-in users with our high converting Email Clicks ad format.
 
 #### [Help](http://docs.exoclick.com/)
 
-* [ExoClick Academy](https://e2z.me/Bso08)
+* [ExoClick Academy](https://academy.exoclick.com/)
 * [API](https://www.exoclick.com/api/)
 * [Documentation](http://docs.exoclick.com/)
 * [Trust and Safety](https://www.exoclick.com/trust-and-safety/)
