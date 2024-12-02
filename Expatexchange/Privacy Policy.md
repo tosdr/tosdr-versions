@@ -20,20 +20,6 @@ Interested in our Partner Program for businesses or our Local Guide Program for 
 
        Privacy Policy | Expat Exchange                                   
 
- 
-
-* [Home](https://www.expatexchange.com/ "Expat Exchange Home")
-* [](javascript:void(0); "Partners and Local Guides")[Partners & Local Guides](javascript:void(0); "Partners and Local Guides")
-* [Explore Countries](https://www.expatexchange.com/countries "Countries")
-* [Community](https://www.expatexchange.com/feed/popular/260/Living-International "Living Overseas Forum")
-* [Newsletter](https://www.expatexchange.com/membersubscription/159 "Newsletter")
-* [Plan Your Move](https://www.expatexchange.com/partnerconnect "Plan Your Move")
-* [Health Insurance](https://www.expatexchange.com/expat-health-insurance.html "International Health Insurance")
-* [Real Estate](https://www.expatexchange.com/realestate "International Real Estate")
-* [Other Services](https://www.expatexchange.com/expatresources "Resources")
-* [Account](https://www.expatexchange.com/mypreferences "Resources")
-* [Sign Out](https://www.expatexchange.com/signout "Resources")
-
 [Expat Exchange](https://www.expatexchange.com/ "Expat Exchange Home")
 
 Choose Your Destination: Algeria Antigua & Barbuda Argentina Australia Austria Bahamas Barbados Belgium Belize Bermuda Brazil Brit. Virgin Isl. Bulgaria Canada Chile China Colombia Costa Rica Croatia Cyprus Czech Rep Denmark Dominican Rep Ecuador Egypt El Salvador Estonia Fiji Finland France Georgia Rep Germany Greece Grenada Guatemala Haiti Honduras Hong Kong Hungary Iceland India Indonesia Ireland Israel Italy Ivory Coast Jamaica Japan Jordan Kenya Korea Laos Latvia Lithuania Luxembourg Malaysia Martinique Mexico Monaco Morocco Nepal Netherlands New Zealand Nicaragua Norway Pakistan Panama Paraguay Peru Philippines Poland Portugal Qatar Romania Russia Saint Lucia Saudi Arabia Scotland Singapore Slovenia South Africa Spain Sri Lanka Sweden Switzerland Taiwan Thailand Trinidad & Tobago Turkey UAE UK Ukraine United States Uruguay Vietnam MORE COUNTRIES
@@ -61,20 +47,6 @@ Choose Your Destination: Algeria Antigua & Barbuda Argentina Australia Austria B
 
 [Home](https://www.expatexchange.com/ "Expat Exchange Home") ![Destination Countries](/imagesnew/destinations-icon-000000.png)[Explore Countries](https://www.expatexchange.com/countries "Destination Countries") [](https://www.expatexchange.com/feed/popular/260/living-international "Living Internationally Community")[Community](https://www.expatexchange.com/feed/popular/260/living-international "Living Internationally Community") [](https://www.expatexchange.com/membersubscription/159 "Subscribe")[Newsletter](https://www.expatexchange.com/membersubscription "Subscribe") [](https://www.expatexchange.com/partnerconnect "Plan Your Move")[Plan Your Move](https://www.expatexchange.com/partnerconnect "Plan Your Move") [](https://www.expatexchange.com/expat-health-insurance.html "Health Insurance")[Insurance](https://www.expatexchange.com/expat-health-insurance.html "Health Insurance")
 
- 
-
-* [Home](https://www.expatexchange.com/ "Expat Exchange Home")
-* [](javascript:void(0); "Partners and Local Guides")[Partners & Local Guides](javascript:void(0); "Partners and Local Guides")
-* [Explore Countries](https://www.expatexchange.com/countries "Countries")
-* [Community](https://www.expatexchange.com/feed/popular/260/Living-International "Living Overseas Forum")
-* [Newsletter](https://www.expatexchange.com/membersubscription/159 "Newsletter")
-* [Plan Your Move](https://www.expatexchange.com/partnerconnect "Plan Your Move")
-* [Health Insurance](https://www.expatexchange.com/expat-health-insurance.html "International Health Insurance")
-* [Real Estate](https://www.expatexchange.com/realestate "International Real Estate")
-* [Other Services](https://www.expatexchange.com/expatresources "Resources")
-* [Account](https://www.expatexchange.com/mypreferences "Resources")
-* [Sign Out](https://www.expatexchange.com/signout "Resources")
-
 [![Expat Exchange](https://www.expatexchange.com/imagesnew/expatexchange-blackbg2-450-68.jpg)](https://www.expatexchange.com/ "Expat Exchange Home")
 
 ![Destination Countries](/imagesnew/destinations-icon-000000.png)[Countries](https://www.expatexchange.com/countries "Destination Countries") [](https://www.expatexchange.com/feed/popular/260/living-international "Global Forum")[Community](https://www.expatexchange.com/feed/popular/260/living-international "Global Forum") [](https://www.expatexchange.com/membersubscription/159 "Subscribe")[Newsletter](https://www.expatexchange.com/membersubscription "Subscribe")
@@ -96,9 +68,9 @@ Choose Your Destination: Algeria Antigua & Barbuda Argentina Australia Austria B
 * [Real Estate Listings](https://www.expatexchange.com/realestate "Real Estate International")
 * [More Resources](https://www.expatexchange.com/expatresources "More Resources")
 
-[![Universal Tax Professionals](https://www.expatexchange.com/banner/UTP-Leaderboard_Brown.png)](https://www.expatexchange.com/partnerdirect/100/85020-DESKTOP-leader-leaderad-vrs-B-Global-leader)
+[![Cigna Global Health](https://www.expatexchange.com/banner/Cigna_Global_Happy_728_90.png)](https://cignaglobal.7eer.net/em76Z?sharedid=98654-DESKTOP-leader-leaderad-vrs-B-Global-leader)
 
-[![Universal Tax Professionals](https://www.expatexchange.com/banner/UTP_MPU_Brown.png)](https://www.expatexchange.com/partnerdirect/100/85020-MOBILE-leader-leaderad-vrs-B-Global-leader)
+[![Cigna Global Health](https://www.expatexchange.com/banner/Cigna_Global_Chapter_300_250.jpg)](https://cignaglobal.7eer.net/em76Z?sharedid=98654-MOBILE-leader-leaderad-vrs-B-Global-leader)
 
 Privacy Policy
 ==============
@@ -439,17 +411,17 @@ Based on the applicable laws of your country, you may have the right to request 
 
 This privacy policy was created using Termly's [Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/).
 
-[![Cigna Global Health](https://www.expatexchange.com/images/living_in_london_fb.jpg)](https://cignaglobal.7eer.net/em76Z?sharedid=52200-DESKTOP-cbar-vrs-B-hicontent-Global-62)
+[![GeoBlue](https://www.expatexchange.com/images/GeoBlueCouple200-200.jpg)](https://www.expatexchange.com/partnerdirect/76/40120-DESKTOP-cbar-vrs-B-hicontent-Global-62)
 
-[Cigna Global Health](https://cignaglobal.7eer.net/em76Z?sharedid=52200-DESKTOP-cbar-vrs-B-hicontent-Global-62)
+[GeoBlue](https://www.expatexchange.com/partnerdirect/76/40120-DESKTOP-cbar-vrs-B-hicontent-Global-62)
 
-Get a quote in 2 minutes from our partner, Cigna Global Health.  
-[Get Quote](https://cignaglobal.7eer.net/em76Z?sharedid=52200-DESKTOP-cbar-vrs-B-hicontent-Global-62 "Get Quote")
+Top-quality coverage for people who live, work, study and travel internationally.  
+[Get Quote](https://www.expatexchange.com/partnerdirect/76/40120-DESKTOP-cbar-vrs-B-hicontent-Global-62 "Get Quote")
 
-[![Cigna Global Health](https://www.expatexchange.com/images/living_in_london_fb.jpg)](https://cignaglobal.7eer.net/em76Z?sharedid=52200-MOBILE-cbar-vrs-B-hicontent-Global-62)[Cigna Global Health](https://cignaglobal.7eer.net/em76Z?sharedid=52200-MOBILE-cbar-vrs-B-hicontent-Global-62)
+[![GeoBlue](https://www.expatexchange.com/images/GeoBlueCouple200-200.jpg)](https://www.expatexchange.com/partnerdirect/76/40120-MOBILE-cbar-vrs-B-hicontent-Global-62)[GeoBlue](https://www.expatexchange.com/partnerdirect/76/40120-MOBILE-cbar-vrs-B-hicontent-Global-62)
 
-Get a quote in 2 minutes from our partner, Cigna Global Health.  
-[Get Quote](https://cignaglobal.7eer.net/em76Z?sharedid=52200-MOBILE-cbar-vrs-B-hicontent-Global-62 "Get Quote")
+Top-quality coverage for people who live, work, study and travel internationally.  
+[Get Quote](https://www.expatexchange.com/partnerdirect/76/40120-MOBILE-cbar-vrs-B-hicontent-Global-62 "Get Quote")
 
 How do I use Expat Exchange?  
 You'll gain access to the best information and features when you [join our site](https://www.expatexchange.com/jointhecommunity "Join Expat Exchange") (it's free). Then, choose your destination and you'll find many of these features for your country:  
