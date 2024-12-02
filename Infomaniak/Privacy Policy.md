@@ -114,6 +114,10 @@ Events & Marketing
     * [![public cloud](/img/common/suite/public-cloud.svg)
         
         Public Cloud (IaaS) Create your projects in a high-end, ultra-competitive Cloud](https://www.infomaniak.com/en/hosting/public-cloud)
+    * ![](/img/common/suite/kaas.svg)
+        
+        Kubernetes service Deployez vos applications conteneurisees a grande echelle.
+        
     * [![Cloud Server](/img/common/suite/unmanaged-cloud.svg)
         
         VPS Cloud Create a Windows / Linux server](https://www.infomaniak.com/en/hosting/vps-cloud)
@@ -330,7 +334,7 @@ We are committed to ensuring the safety of our infrastructure, including a secur
 Frequently asked questions about the GDPR and Infomaniak
 --------------------------------------------------------
 
-#### [Am I in compliance with the GDPR when using Infomaniak services?](#collapse674d1acf381aa)
+#### [Am I in compliance with the GDPR when using Infomaniak services?](#collapse674d6d8e66e81)
 
 Yes. Nevertheless, we remind you that it is your responsibility to make the content (CMS, plugins, forms, etc.) that you host through our services compatible with the GDPR.  
   
@@ -338,7 +342,7 @@ It is important to distinguish between the security of the infrastructures on wh
   
 If needed, you can easily find a professional or Internet guides to help you in this compliance process.
 
-#### [What is Infomaniak's responsibility concerning the GDPR?](#collapse674d1acf381eb)
+#### [What is Infomaniak's responsibility concerning the GDPR?](#collapse674d6d8e66efd)
 
 Like companies that work with European citizens, Infomaniak must comply with the General Data Protection Regulation:  
   
@@ -346,7 +350,7 @@ Like companies that work with European citizens, Infomaniak must comply with the
 * [Our data confidentiality policy](https://www.infomaniak.com/en/legal/confidentiality-policy) details the data which we keep in order to provide and run our services.
 * [Our policy regarding personal data protection](https://www.infomaniak.com/en/legal/confidentiality-policy) describes Infomaniak's commitments as a processor that hosts all of your data, including data of a personal nature.
 
-#### [Does Infomaniak have a delegate for data protection?](#collapse674d1acf38229)
+#### [Does Infomaniak have a delegate for data protection?](#collapse674d6d8e66f43)
 
 Yes. The Infomaniak officer for everything relating to using, managing, and protecting personal data is Johann Laqua. As the data protection officer, he is responsible for informing and advising processing managers, all company employees and any subcontractors.  
   
