@@ -2,14 +2,14 @@ Monday, December 2 2024
 
 Breaking News
 
+* [Conservatives Come Out Against Trump’s DEA Pick Over What He Did During COVID](https://www.conservativedailynews.com/2024/12/conservatives-come-out-against-trumps-dea-pick-over-what-he-did-during-covid/)
+* [Trump Working His Magic With Tariff Diplomacy](https://www.conservativedailynews.com/2024/12/trump-working-his-magic-with-tariff-diplomacy/)
+* [Medal of Honor Monday: Marine Corps Sgt. James E. Johnson](https://www.conservativedailynews.com/2024/12/medal-of-honor-monday-marine-corps-sgt-james-e-johnson/)
+* [Joe Biden Confirms his “Contempt” for the American People with his Hunter Biden Pardon](https://www.conservativedailynews.com/2024/12/joe-biden-confirms-his-contempt-for-the-american-people-with-his-hunter-biden-pardon/)
+* [The Sins Of The Biden Administration Are Being Visited On The American People](https://www.conservativedailynews.com/2024/12/the-sins-of-the-biden-administration-are-being-visited-on-the-american-people/)
 * [Abortion, Reproduction…What’s In A Word](https://www.conservativedailynews.com/2024/12/abortion-reproductionwhats-in-a-word/)
 * [Jack Smith Could Face ‘Severe Consequences’ For Year-Long Legal Crusade Against Trump](https://www.conservativedailynews.com/2024/12/jack-smith-could-face-severe-consequences-for-year-long-legal-crusade-against-trump/)
 * [President Joe Biden’s Schedule for Monday, December 2, 2024](https://www.conservativedailynews.com/2024/12/president-joe-bidens-schedule-for-monday-december-2-2024/)
-* [Elon Musk Demands Shutdown Of Consumer Bureau](https://www.conservativedailynews.com/2024/11/elon-musk-demands-shutdown-of-consumer-bureau/)
-* [Biden Was Not Concerned, Trump Will Stop Fentanyl](https://www.conservativedailynews.com/2024/11/biden-was-not-concerned-trump-will-stop-fentanyl/)
-* [The Inequity of the Pursuit of Equity in the military over preparedness is at best dereliction of duty](https://www.conservativedailynews.com/2024/11/the-inequity-of-the-pursuit-of-equity-in-the-military-over-preparedness-is-at-best-dereliction-of-duty/)
-* [America In The Age Of Stupidity: Democrats Kiss Hitler’s Ass](https://www.conservativedailynews.com/2024/11/america-in-the-age-of-stupidity-democrats-kiss-hitlers-ass/)
-* [Trump Will Redirect Billions In Unspent Funds From Biden’s Climate Law To ‘Real Infrastructure’](https://www.conservativedailynews.com/2024/11/trump-will-redirect-billions-in-unspent-funds-from-bidens-climate-law-to-real-infrastructure/)
 
 * [RSS](https://www.conservativedailynews.com/news-feeds/)
 * [Facebook](https://www.facebook.com/ConservativeDailyNews/)
@@ -130,67 +130,67 @@ Orange = One-Time Donations
 
 Recent Posts
 
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/IMG_5861-220x150.jpeg)](https://www.conservativedailynews.com/2024/12/abortion-reproductionwhats-in-a-word/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/05/jail.jpg)](https://www.conservativedailynews.com/2024/12/conservatives-come-out-against-trumps-dea-pick-over-what-he-did-during-covid/)
     
-    [Abortion, Reproduction…What’s In A Word](https://www.conservativedailynews.com/2024/12/abortion-reproductionwhats-in-a-word/)
-    
-    December 2, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/12/jack-Smith-220x150.jpg)](https://www.conservativedailynews.com/2024/12/jack-smith-could-face-severe-consequences-for-year-long-legal-crusade-against-trump/)
-    
-    [Jack Smith Could Face ‘Severe Consequences’ For Year-Long Legal Crusade Against Trump](https://www.conservativedailynews.com/2024/12/jack-smith-could-face-severe-consequences-for-year-long-legal-crusade-against-trump/)
+    [Conservatives Come Out Against Trump’s DEA Pick Over What He Did During COVID](https://www.conservativedailynews.com/2024/12/conservatives-come-out-against-trumps-dea-pick-over-what-he-did-during-covid/)
     
     December 2, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/06/Joe-Biden-air-force-one-220x150.jpg)](https://www.conservativedailynews.com/2024/12/president-joe-bidens-schedule-for-monday-december-2-2024/)
+* [![Donald Trump success](https://www.conservativedailynews.com/wp-content/uploads/2017/01/Donald-Trump-2.jpg)](https://www.conservativedailynews.com/2024/12/trump-working-his-magic-with-tariff-diplomacy/)
     
-    [President Joe Biden’s Schedule for Monday, December 2, 2024](https://www.conservativedailynews.com/2024/12/president-joe-bidens-schedule-for-monday-december-2-2024/)
+    [Trump Working His Magic With Tariff Diplomacy](https://www.conservativedailynews.com/2024/12/trump-working-his-magic-with-tariff-diplomacy/)
     
     December 2, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/mrz120124dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/the-lies-that-lost/)
+* [![Joe Biden Hunter Biden pardon](https://www.conservativedailynews.com/wp-content/uploads/2024/12/gv120224dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/first-kids-immunity/)
     
-    [The Lies that Lost](https://www.conservativedailynews.com/2024/12/the-lies-that-lost/)
+    [First Kid’s Immunity](https://www.conservativedailynews.com/2024/12/first-kids-immunity/)
     
-    December 1, 2024
+    December 2, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/stg113024dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/5-stages/)
+* [![Joe Biden Pardon Hunter Biden](https://www.conservativedailynews.com/wp-content/uploads/2024/12/stg120224dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/another-broken-promise-2/)
     
-    [5 Stages…](https://www.conservativedailynews.com/2024/11/5-stages/)
+    [Another Broken Promise…](https://www.conservativedailynews.com/2024/12/another-broken-promise-2/)
     
-    November 30, 2024
+    December 2, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2018/09/Elon-Musk.jpg)](https://www.conservativedailynews.com/2024/11/elon-musk-demands-shutdown-of-consumer-bureau/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/02/Woman-in-bath-220x150.png)](https://www.conservativedailynews.com/2024/12/epsom-salt-the-frugal-fix-all-you-didnt-know-you-needed/)
     
-    [Elon Musk Demands Shutdown Of Consumer Bureau](https://www.conservativedailynews.com/2024/11/elon-musk-demands-shutdown-of-consumer-bureau/)
+    [Epsom Salt: The Frugal Fix-All You Didn’t Know You Needed](https://www.conservativedailynews.com/2024/12/epsom-salt-the-frugal-fix-all-you-didnt-know-you-needed/)
     
-    November 29, 2024
+    December 2, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/IMG_5829.webp-220x150.webp)](https://www.conservativedailynews.com/2024/11/biden-was-not-concerned-trump-will-stop-fentanyl/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/241125-M-D0439-0086M-220x150.jpg)](https://www.conservativedailynews.com/2024/12/medal-of-honor-monday-marine-corps-sgt-james-e-johnson/)
     
-    [Biden Was Not Concerned, Trump Will Stop Fentanyl](https://www.conservativedailynews.com/2024/11/biden-was-not-concerned-trump-will-stop-fentanyl/)
+    [Medal of Honor Monday: Marine Corps Sgt. James E. Johnson](https://www.conservativedailynews.com/2024/12/medal-of-honor-monday-marine-corps-sgt-james-e-johnson/)
     
-    November 29, 2024
+    December 2, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/02/Betsy-McCaughey-feat-220x150.png)](https://www.conservativedailynews.com/2024/11/disrupting-the-health-agencies-will-save-american-lives/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/10/Hunter-Biden-Joe-Biden.jpg)](https://www.conservativedailynews.com/2024/12/joe-biden-confirms-his-contempt-for-the-american-people-with-his-hunter-biden-pardon/)
     
-    [Disrupting the Health Agencies Will Save American Lives](https://www.conservativedailynews.com/2024/11/disrupting-the-health-agencies-will-save-american-lives/)
+    [Joe Biden Confirms his “Contempt” for the American People with his Hunter Biden Pardon](https://www.conservativedailynews.com/2024/12/joe-biden-confirms-his-contempt-for-the-american-people-with-his-hunter-biden-pardon/)
     
-    November 29, 2024
+    December 2, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/IMG_5833-220x150.jpeg)](https://www.conservativedailynews.com/2024/12/the-sins-of-the-biden-administration-are-being-visited-on-the-american-people/)
+    
+    [The Sins Of The Biden Administration Are Being Visited On The American People](https://www.conservativedailynews.com/2024/12/the-sins-of-the-biden-administration-are-being-visited-on-the-american-people/)
+    
+    December 2, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [President Biden Pardons Hunter on Gun, Tax & Any Future Charges](https://www.thegunpage.com/president-biden-pardons-hunter-on-gun-tax-any-future-charges/10612232)
+* [New Russian Submachine Gun Patent: AK-Based, P90-Inspired](https://www.thegunpage.com/new-russian-submachine-gun-patent-ak-based-p90-inspired/10612229)
+* [GOA Applauds Nomination of “Fiercely Pro-Gun” Kash Patel for FBI Director](https://www.thegunpage.com/goa-applauds-nomination-of-fiercely-pro-gun-kash-patel-for-fbi-director/10612228)
+* [FPC Files Opening Brief In New Jersey AWB Appeal](https://www.thegunpage.com/fpc-files-opening-brief-in-new-jersey-awb-appeal/10612226)
+* [TFB Weekly Web Deals 116: Cyber Monday Ammo Deals](https://www.thegunpage.com/tfb-weekly-web-deals-116-cyber-monday-ammo-deals/10612225)
+* [Collegiate Rifle: Western Trip Yields Big Results For Akron](https://www.thegunpage.com/collegiate-rifle-western-trip-yields-big-results-for-akron/10612233)
+* [Review: Vortex Venom 1-6X 24 mm Optic And Pro Extended Cantilever Mount](https://www.thegunpage.com/review-vortex-venom-1-6x-24-mm-optic-and-pro-extended-cantilever-mount/10612223)
 * [NRA Argues Against Washington Mag Ban In State Supreme Court Filing](https://www.thegunpage.com/nra-argues-against-washington-mag-ban-in-state-supreme-court-filing/10612221)
+* [Competitors’ Corner: December 2024](https://www.thegunpage.com/competitors-corner-december-2024/10612224)
 * [New York City Politicians Attack Guns, Not Crime](https://www.thegunpage.com/new-york-city-politicians-attack-guns-not-crime/10612218)
-* [Savage Arms Announces the New Stance XR Micro Pistol](https://www.thegunpage.com/savage-arms-announces-the-new-stance-xr-micro-pistol/10612215)
-* [Pro-Gun, Anti-Gun Bills Pre-Filed In Lone Star State Legislature](https://www.thegunpage.com/pro-gun-anti-gun-bills-pre-filed-in-lone-star-state-legislature/10612213)
-* [Special Forces Bros Test $650 Glock 19 vs. $4,300 Staccato XC](https://www.thegunpage.com/special-forces-bros-test-650-glock-19-vs-4300-staccato-xc/10612212)
-* [Silencer Saturday #357: Black Friday Suppressor Sales](https://www.thegunpage.com/silencer-saturday-357-black-friday-suppressor-sales/10612207)
-* [The BAD KAK WW III Build](https://www.thegunpage.com/the-bad-kak-ww-iii-build/10612204)
-* [Illegal Alien’s Purchase Of 170 Guns Raises Eyebrows](https://www.thegunpage.com/illegal-aliens-purchase-of-170-guns-raises-eyebrows/10612201)
-* [Why the First Kalashnikov Machine Gun was a Complete Failure?](https://www.thegunpage.com/why-the-first-kalashnikov-machine-gun-was-a-complete-failure/10612197)
-* [POTD: FN Minimi & FORT-600 In Ukraine](https://www.thegunpage.com/potd-fn-minimi-fort-600-in-ukraine/10612198)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -232,6 +232,7 @@ Contact Us
 
 Recent Comments
 
+* charles wilkins on [Turkey Day](https://www.conservativedailynews.com/2024/11/turkey-day-2/#comment-783510)
 * Stanley Warner on [A World of Leverage](https://www.conservativedailynews.com/2024/11/a-world-of-leverage/#comment-783463)
 * Stanley Warner on [Trump Will Redirect Billions In Unspent Funds From Biden’s Climate Law To ‘Real Infrastructure’](https://www.conservativedailynews.com/2024/11/trump-will-redirect-billions-in-unspent-funds-from-bidens-climate-law-to-real-infrastructure/#comment-783462)
 * Stanley Warner on [The Inequity of the Pursuit of Equity in the military over preparedness is at best dereliction of duty](https://www.conservativedailynews.com/2024/11/the-inequity-of-the-pursuit-of-equity-in-the-military-over-preparedness-is-at-best-dereliction-of-duty/#comment-783461)
@@ -240,7 +241,6 @@ Recent Comments
 * Bill Wallace on [The Inequity of the Pursuit of Equity in the military over preparedness is at best dereliction of duty](https://www.conservativedailynews.com/2024/11/the-inequity-of-the-pursuit-of-equity-in-the-military-over-preparedness-is-at-best-dereliction-of-duty/#comment-783437)
 * Jeff L. on [Shocker: Liberal Professor Concludes liberals should try to Persuade Voters of their Views](https://www.conservativedailynews.com/2024/11/shocker-liberal-professor-concludes-liberals-should-try-to-persuade-voters-of-their-views/#comment-783431)
 * Catboss on [Lame Duck Biden Admin Cuts Massive Check For Failing EV Manufacturer](https://www.conservativedailynews.com/2024/11/lame-duck-biden-admin-cuts-massive-check-for-failing-ev-manufacturer/#comment-783425)
-* Catboss on [Lame Duck Biden Admin Cuts Massive Check For Failing EV Manufacturer](https://www.conservativedailynews.com/2024/11/lame-duck-biden-admin-cuts-massive-check-for-failing-ev-manufacturer/#comment-783424)
 
 [Close](#)
 
