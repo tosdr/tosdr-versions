@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_6.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_4.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,6 +148,8 @@
 
 Сейчас читают
 
+* [Рулетики из жареной пекинской капусты с ветчиной и помидорами](https://www.russianfood.com/recipes/recipe.php?rid=174865)
+* [Салат "Глаз Змеи" с курицей, ананасами и кукурузой](https://www.russianfood.com/recipes/recipe.php?rid=174705)
 * [Креветки по-тайски](https://www.russianfood.com/recipes/recipe.php?rid=128549)
 
 |     |
@@ -170,6 +172,34 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Праздники не за горами! Лучшие САЛАТЫ №24-49](https://www.russianfood.com/reading/?post_id=22948) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/749/sm_748318.jpg)](https://www.russianfood.com/reading/?post_id=22948)
+
+Салат оливье на год Змеи. Салат из капусты с зелёным горошком. Винегрет с курицей. Салат с кальмарами и крабовыми палочками. Крабовый салат с ананасами. Печень под шубой. Салат с креветками и кукурузой.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22948)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие салаты](https://www.russianfood.com/blogs/?id=325071) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22948#comments) | 02.12.24 |     |
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Змея и гости будут довольны!) Лучшие рецепты на Новый год (95)](https://www.russianfood.com/reading/?post_id=22947) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/751/sm_750029.jpg)](https://www.russianfood.com/reading/?post_id=22947)
+
+Судак в наряде новогодней Змеи. Мясной салат с морковью по-корейски. Котлеты из цветной капусты с сыром. Курица с картофелем и имбирём. Пирог с творогом, маком и персиками.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22947)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты на Новый год](https://www.russianfood.com/blogs/?id=338420) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22947#comments) | 02.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -353,34 +383,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_11 _![](/images/blank.gif)_0 |     | [1](https://www.russianfood.com/recipes/recipe.php?rid=174872#comments) | 28.11.24 |     |
 
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Горячие бутерброды с крабовыми палочками и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174864) |     |
-
-[![Фото к рецепту: Горячие бутерброды с крабовыми палочками и сыром](//img1.russianfood.com/dycontent/images_upl/755/sm_754772.jpg "Фото к рецепту: Горячие бутерброды с крабовыми палочками и сыром")](https://www.russianfood.com/recipes/recipe.php?rid=174864)
-
-Очень вкусные и быстрые в приготовлении горячие бутерброды с крабовыми палочками и сыром идеально подходят как для уютного ужина дома, так и для угощения гостей. Хрустящий хлеб, аппетитная нежная начинка из крабовых палочек и золотистая корочка из расплавленного сыра – эти бутерброды станут украшением любого стола.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174864)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_10 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174864#comments) | 28.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Булочки с творогом, печёным сельдереем и маринованными огурцами](https://www.russianfood.com/recipes/recipe.php?rid=174598) |     |
-
-[![Фото к рецепту: Булочки с творогом, печёным сельдереем и маринованными огурцами](//img1.russianfood.com/dycontent/images_upl/750/sm_749952.jpg "Фото к рецепту: Булочки с творогом, печёным сельдереем и маринованными огурцами")](https://www.russianfood.com/recipes/recipe.php?rid=174598)
-
-Внутри этих несладких хлебных булочек - интересная начинка из творога с предварительно подпечённым сельдереем, кусочками маринованного огурца, зеленью и пряными сухими травами. Перед выпечкой булочки смазываются сметаной и посыпаются тыквенным семечками.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174598)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174598#comments) | 28.11.24 |     |
-
 |     |
 | --- |
 | ← Предыдущая \| [Следующая →](https://www.russianfood.com/?page=2) |
@@ -463,4 +465,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(101)
+(157)
