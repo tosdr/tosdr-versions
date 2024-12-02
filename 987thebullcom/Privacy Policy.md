@@ -349,11 +349,11 @@ Recently Played
 
 |     |
 | --- |
-| Lies, Lies, LiesMorgan Wallen<br><br>4:38pm |
-| A Lot More FreeMax Mcnown<br><br>4:35pm |
-| Pour Me A DrinkPost Malone Ft Blake Shelton<br><br>4:31pm |
-| Heartache MedicationJon Pardi<br><br>4:28pm |
-| Thats My Kind Of NightLuke Bryan<br><br>4:25pm |
+| Break Up In A Small TownSam Hunt<br><br>10:38pm |
+| Where The Wild Things AreLuke Combs<br><br>10:34pm |
+| You Look Like You Love MeElla Langley Ft Riley Green<br><br>10:31pm |
+| Beer In MexicoKenny Chesney<br><br>10:27pm |
+| Love SomebodyMorgan Wallen<br><br>10:24pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -497,13 +497,13 @@ State
 Featured Brands
 ---------------
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+
+Spanish • Western
+
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
 Country • Western
-
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
-
-News Talk • Eastern
 
 [![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
