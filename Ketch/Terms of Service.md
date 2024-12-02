@@ -103,11 +103,11 @@ Privacy insights
 
 [Blog
 
-Trend watching, best practices, case studies, and more](https://www.ketch.com/blog)[The Privacy Huddle
+Trend watching, best practices and more](https://www.ketch.com/blog)[The Privacy Huddle
 
-Weekly data privacy news video series with experts from Ketch and Kelley Drye](https://www.ketch.com/privacy-huddle)[Content library
+Weekly data privacy news video series with experts from Ketch and Kelley Drye](https://www.ketch.com/privacy-huddle)[Case studies
 
-Media hub for videos, guides, downloadable content and more](https://www.ketch.com/thought-leadership)
+Real customer stories about brands and businesses using Ketch](https://www.ketch.com/blog/tags/case-study)
 
 Regulatory compliance hub
 
@@ -256,7 +256,7 @@ Resources
 
 [The Privacy Huddle](https://www.ketch.com/privacy-huddle)
 
-[Content library](https://www.ketch.com/thought-leadership)
+[Case studies](https://www.ketch.com/blog/tags/case-study)
 
 [Regulatory compliance hub](#)
 
