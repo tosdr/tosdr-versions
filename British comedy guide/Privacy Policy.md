@@ -140,6 +140,10 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 
 ### See also
 
+[![A Christmas Carol (ish). Image shows left to right: David Elms, Nick Mohammed, Kieran Hodgson, Martha Howe-Douglas. Credit: Matt Crockett](https://cdn.comedy.co.uk/images/library/misc/300x200/c/christmas_carol_ish_mr_swallow_2024_cast.jpg "A Christmas Carol (ish). Image shows left to right: David Elms, Nick Mohammed, Kieran Hodgson, Martha Howe-Douglas. Credit: Matt Crockett")](https://www.comedy.co.uk/live/features/mark-muldoon-comedy-diary-61/) Live
+
+[A Christmas Carol (ish), Grace Campbell, Zainab Johnson - Mark Muldoon's Comedy Diary](https://www.comedy.co.uk/live/features/mark-muldoon-comedy-diary-61/)
+
 [![Kenneth Horne](https://cdn.comedy.co.uk/images/library/people/300x200/k/kenneth_horne.jpg "Kenneth Horne")](https://www.comedy.co.uk/features/comedy_chronicles/kenneth-horne/) Features
 
 [Comedy Chronicles: The incomparable charm of Kenneth Horne](https://www.comedy.co.uk/features/comedy_chronicles/kenneth-horne/)
@@ -151,10 +155,6 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 [![The Mighty Boosh. Image shows left to right: Howard Moon (Julian Barratt), Bollo (Dave Brown), Vince Noir (Noel Fielding)](https://cdn.comedy.co.uk/images/library/comedies/300x200/m/mighty_boosh_bollo.jpg "The Mighty Boosh. Image shows left to right: Howard Moon (Julian Barratt), Bollo (Dave Brown), Vince Noir (Noel Fielding)")](https://www.comedy.co.uk/quiz/334/) Quiz
 
 [British Comedy Quiz #334](https://www.comedy.co.uk/quiz/334/)
-
-[![Vidya Divakaran](https://cdn.comedy.co.uk/images/library/people/300x200/v/vidya_divakaran.jpg "Vidya Divakaran")](https://www.comedy.co.uk/live/features/djs-and-comedians-are-the-same/) Live
-
-[Why DJs and comedians are basically the same](https://www.comedy.co.uk/live/features/djs-and-comedians-are-the-same/)
 
 #### Subscribe to our newsletters
 
