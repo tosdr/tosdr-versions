@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 561 utilisateurs actifs
+##### 807 utilisateurs actifs
 
 Chargement en cours
 
@@ -131,9 +131,9 @@ Chargement en cours
 
 ### À la une
 
+* [PlayStation 2 : lire des jeux PS2 depuis une carte SD avec MX4SIO](https://lecrabeinfo.net/playstation-2-lire-des-jeux-ps2-depuis-une-carte-sd-avec-mx4sio.html)
 * [Microsoft envisage de renommer l'IA de Windows en "Windows Intelligence", à la manière d'Apple](https://lecrabeinfo.net/microsoft-envisage-de-renommer-lia-de-windows-en-windows-intelligence-a-la-maniere-dapple.html) 
 * [Impression : changer le format de papier par défaut sur Windows](https://lecrabeinfo.net/impression-changer-le-format-de-papier-par-defaut-sur-windows.html)
-* [Windows 11 : les applications Courrier et Calendrier cesseront de fonctionner après le 31 décembre 2024](https://lecrabeinfo.net/windows-11-les-applications-courrier-et-calendrier-cesseront-de-fonctionner-apres-le-31-decembre-2024.html) 
 
 ### Tendance
 
@@ -157,7 +157,7 @@ Chargement en cours
 * 27 012 commentaires
 * [2 674 abonnés Facebook](https://www.facebook.com/lecrabeinfo)
 * [873 abonnés X](https://x.com/lecrabeinfo)
-* [67 509 abonnés à la newsletter](https://lecrabeinfo.net/newsletter)
+* [67 510 abonnés à la newsletter](https://lecrabeinfo.net/newsletter)
 
 * [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr "CC BY-NC-SA")
 * 2013-2024
