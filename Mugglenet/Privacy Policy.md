@@ -246,14 +246,6 @@ MuggleNet Archive Select Month November 2024  (23) October 2024  (27) Septembe
 
 ### December 2024
 
-#### Sun, Dec 1
-
-Zoë Kravitz's birthday
-
-Recurs yearly
-
-Leta Lestrange
-
 #### Mon, Dec 2
 
 Alfred Enoch's birthday
@@ -314,15 +306,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The Sorting Hat took 5 and a half minutes to figure out whether to put Minerva McGonagall in Gryffindor or Ravenclaw.
+The Scholastic editor, Arthur Levine, suggested changing the title from “Harry Potter and the Philosopher’s Stone” to “Harry Potter and the School of Magic” so as not to confuse American readers.
 
 ### Potter History
 
-August 11, 2012 – StarKid does a reading of A Very Potter Senior Year at LeakyCon in Chicago.
+July 16, 2007 – Harry Potter and the Order of the Phoenix film grosses $330 million worldwide.
 
 ### Potter Quote
 
-“Grindelwald doesn’t seem to understand the nature of things he considers simple.”
+“His eyes are as green as a fresh pickled toad, His hair is as dark as a blackboard. I wish he was mine, he’s really divine, The hero who conquered the Dark Lord.”
 
 [](#)
 
