@@ -280,8 +280,6 @@ If you have questions or concerns about this privacy policy, or about your deali
 > Woodinville, WA, 98072-4572  
 > [customer.service@paizo.com](https://support.paizo.com/)
 
-Paizo will be closed on Thursday, November 28th and Friday, November 29th in observation of the Thanksgiving holiday.
-
 ![Paizo](https://cdn.paizo.com/image/navigation/Nav-Logo-Global.png)
 
 * [About Paizo](https://paizo.com/paizo/about)
