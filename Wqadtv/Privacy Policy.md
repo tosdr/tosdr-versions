@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_16x9.jpg) ![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_360x203.jpg)](https://www.wqad.com/article/news/local/fatal-crashes-thanksgiving-weekend-lasalle-county-illinois-sheriffs-office/526-a253f1aa-dfa2-4cf4-8b6d-b15eb3871358)
+        
+        #### [Multiple fatalities, injuries reported after 3 separate crashes take place in LaSalle County over Thanksgiving weekend](https://www.wqad.com/article/news/local/fatal-crashes-thanksgiving-weekend-lasalle-county-illinois-sheriffs-office/526-a253f1aa-dfa2-4cf4-8b6d-b15eb3871358)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/2b123806-0ea4-4c3a-b84b-666b3a6a55fd/20241202T041413/2b123806-0ea4-4c3a-b84b-666b3a6a55fd_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/2b123806-0ea4-4c3a-b84b-666b3a6a55fd/20241202T041413/2b123806-0ea4-4c3a-b84b-666b3a6a55fd_360x203.jpg)](https://www.wqad.com/article/life/holidays/hauberg-estate-rock-island-winter-in-bloom-open-house/526-a72c5ee2-2523-46cb-838e-dc1727ec9d62)
         
         #### ['Winter in Bloom' at the Hauberg Estate: Hundreds attend holiday open house in Rock Island](https://www.wqad.com/article/life/holidays/hauberg-estate-rock-island-winter-in-bloom-open-house/526-a72c5ee2-2523-46cb-838e-dc1727ec9d62)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/f5f3d060-8a8a-440d-81ac-444e59a9d0b0/20241201T172040/f5f3d060-8a8a-440d-81ac-444e59a9d0b0_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f5f3d060-8a8a-440d-81ac-444e59a9d0b0/20241201T172040/f5f3d060-8a8a-440d-81ac-444e59a9d0b0_360x203.jpg)](https://www.wqad.com/article/news/crime/cocaine-seized-western-illinois-40-million-dollars-1000-pounds-state-police/526-4997638b-da18-4772-ae5d-00a393d505b8)
-        
-        #### [Over $40M worth of cocaine seized during traffic stop near Geneseo, ISP says](https://www.wqad.com/article/news/crime/cocaine-seized-western-illinois-40-million-dollars-1000-pounds-state-police/526-4997638b-da18-4772-ae5d-00a393d505b8)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,9 +56,9 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/00174322-011f-457b-bb0a-739698c8577f/20241202T002354/00174322-011f-457b-bb0a-739698c8577f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/00174322-011f-457b-bb0a-739698c8577f/20241202T002354/00174322-011f-457b-bb0a-739698c8577f_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/dba4c286-1a71-4980-a0d7-847dea4d0727/20241202T131229/dba4c286-1a71-4980-a0d7-847dea4d0727_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/dba4c286-1a71-4980-a0d7-847dea4d0727/20241202T131229/dba4c286-1a71-4980-a0d7-847dea4d0727_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Cold Start to December](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Light snow and another cold day Monday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/CCT/images/ba7d2016-edeb-449f-901e-b97ec0d6ce44/20241130T192614/ba7d2016-edeb-449f-901e-b97ec0d6ce44_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/ba7d2016-edeb-449f-901e-b97ec0d6ce44/20241130T192614/ba7d2016-edeb-449f-901e-b97ec0d6ce44_360x203.jpg)](https://www.wqad.com/article/news/nation-world/heavy-snow-blankets-parts-of-the-us/507-44798a84-f4e7-4d84-bf29-ebe649f73efb)
         
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-16°
+20°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Snow Shower](/assets/shared-images/weather-icons/snow-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
