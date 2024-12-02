@@ -64,76 +64,6 @@ FOX SCORES
     
     |     |     |
     | --- | --- |
-    | ATL | 13  |
-    | LAC | 17  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251305)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | NE  | 24  |
-    | IND | 25  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251308)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | MIN | 23  |
-    | ARI | 22  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251307)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | NYJ | 21  |
-    | SEA | 26  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251309)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | WAS | 42  |
-    | TEN | 19  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251310)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | JAX | 20  |
-    | HOU | 23  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251311)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | CIN | 38  |
-    | PIT | 44  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251306)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
     | NO  | 14  |
     | LAR | 21  |
     
@@ -282,18 +212,6 @@ FOX SCORES
     |     |
     
     Race Centre](https://www.foxsports.com.au/motorsport/formula-one/race-centre?meetingid=597)
-* Football
-    
-* [Premier League
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | LIV | 2   |
-    | MCI | 0   |
-    
-    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-251302)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
