@@ -4,7 +4,7 @@
 
         [Skip to content](#MainContent)
 
-**Free Standard Shipping When You Spend $50+. Use code “FREESHIP24”.**
+**Free Standard Shipping When You Spend $50+. Use code “CYBERMONDAY”.**
 
 [![AreYouGame.com](//areyougame.com/cdn/shop/files/AYG_Logo_Flatlg_900x.png?v=1614326358)](https://areyougame.com/)
 
