@@ -664,12 +664,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [EuGH-Urteil: Vertrag darf nicht nur vom Schufa-Score abhängen](https://www.test.de/EuGH-Urteil-Vertrag-darf-nicht-nur-vom-Schufa-Score-abhaengen-6073255-0/ "EuGH-Urteil - Vertrag darf nicht nur vom Schufa-Score abhängen")
-* [Boden­reiniger im Test: Sanft gepflegt mit einem Wisch](https://www.test.de/Bodenreiniger-im-Test-5992245-0/ "Bodenreiniger im Test - Sanft gepflegt mit einem Wisch")
-* [Dubioses Fest­geld: KT Investment ignorieren](https://www.test.de/Dubioses-Festgeld-KT-Investment-ignorieren-6062892-0/ "Dubioses Festgeld - KT Investment ignorieren")
-* [Gesund­heits­daten auf dem Smartphone: Im Notfall leicht zugäng­lich](https://www.test.de/Gesundheitsdaten-auf-dem-Smartphone-Im-Notfall-leicht-zugaenglich-6156109-0/ "Gesundheitsdaten auf dem Smartphone - Im Notfall leicht zugänglich")
-* [Verpackungs­ärger: Vivani-Schokoriegel](https://www.test.de/Verpackungsaerger-Vivani-Schokoriegel-5970152-0/ "Verpackungsärger - Vivani-Schokoriegel")
-* [Ratgeber Hilfe, ich habe geerbt: Formulare zum Download](https://www.test.de/Ratgeber-Hilfe-ich-habe-geerbt-Formulare-zum-Download-6038257-0/ "Ratgeber Hilfe, ich habe geerbt - Formulare zum Download")
+* [Beim Arzt­besuch: Zuzahlung nicht vorschnell akzeptieren](https://www.test.de/Beim-Arztbesuch-Zuzahlung-nicht-vorschnell-akzeptieren-6176444-0/ "Beim Arztbesuch - Zuzahlung nicht vorschnell akzeptieren")
+* [Überge­wicht bei Kindern: Kampf den Corona-Pfunden](https://www.test.de/Uebergewicht-bei-Kindern-Kampf-den-Corona-Pfunden-5979072-0/ "Übergewicht bei Kindern - Kampf den Corona-Pfunden")
+* [Veganer Butter­ersatz: Es muss nicht immer Butter sein](https://www.test.de/Veganer-Butterersatz-Es-muss-nicht-immer-Butter-sein-6157799-0/ "Veganer Butterersatz - Es muss nicht immer Butter sein")
+* [Geschäfts­konto-Vergleich: Auf Extra­kosten achten, sonst wird das Gratis­konto teuer](https://www.test.de/Geschaeftskonto-Vergleich-6010850-0/ "Geschäftskonto-Vergleich - Auf Extrakosten achten, sonst wird das Gratiskonto teuer")
+* [Verpackungs­ärger: Barilla Penne Rigate Senza Glutine](https://www.test.de/Verpackungsaerger-Barilla-Penne-Rigate-Senza-Glutine-6112820-0/ "Verpackungsärger - Barilla Penne Rigate Senza Glutine")
+* [Stand-up-Paddle-Boards im Test: Das Boarding klappt](https://www.test.de/Stand-up-Paddle-Boards-im-Test-Das-Boarding-klappt-6024484-0/ "Stand-up-Paddle-Boards im Test - Das Boarding klappt")
 
 Weitere Informationen
 
@@ -3082,12 +3082,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [EuGH-Urteil: Vertrag darf nicht nur vom Schufa-Score abhängen](https://www.test.de/EuGH-Urteil-Vertrag-darf-nicht-nur-vom-Schufa-Score-abhaengen-6073255-0/ "EuGH-Urteil - Vertrag darf nicht nur vom Schufa-Score abhängen")
-* [Boden­reiniger im Test: Sanft gepflegt mit einem Wisch](https://www.test.de/Bodenreiniger-im-Test-5992245-0/ "Bodenreiniger im Test - Sanft gepflegt mit einem Wisch")
-* [Dubioses Fest­geld: KT Investment ignorieren](https://www.test.de/Dubioses-Festgeld-KT-Investment-ignorieren-6062892-0/ "Dubioses Festgeld - KT Investment ignorieren")
-* [Gesund­heits­daten auf dem Smartphone: Im Notfall leicht zugäng­lich](https://www.test.de/Gesundheitsdaten-auf-dem-Smartphone-Im-Notfall-leicht-zugaenglich-6156109-0/ "Gesundheitsdaten auf dem Smartphone - Im Notfall leicht zugänglich")
-* [Verpackungs­ärger: Vivani-Schokoriegel](https://www.test.de/Verpackungsaerger-Vivani-Schokoriegel-5970152-0/ "Verpackungsärger - Vivani-Schokoriegel")
-* [Ratgeber Hilfe, ich habe geerbt: Formulare zum Download](https://www.test.de/Ratgeber-Hilfe-ich-habe-geerbt-Formulare-zum-Download-6038257-0/ "Ratgeber Hilfe, ich habe geerbt - Formulare zum Download")
+* [Beim Arzt­besuch: Zuzahlung nicht vorschnell akzeptieren](https://www.test.de/Beim-Arztbesuch-Zuzahlung-nicht-vorschnell-akzeptieren-6176444-0/ "Beim Arztbesuch - Zuzahlung nicht vorschnell akzeptieren")
+* [Überge­wicht bei Kindern: Kampf den Corona-Pfunden](https://www.test.de/Uebergewicht-bei-Kindern-Kampf-den-Corona-Pfunden-5979072-0/ "Übergewicht bei Kindern - Kampf den Corona-Pfunden")
+* [Veganer Butter­ersatz: Es muss nicht immer Butter sein](https://www.test.de/Veganer-Butterersatz-Es-muss-nicht-immer-Butter-sein-6157799-0/ "Veganer Butterersatz - Es muss nicht immer Butter sein")
+* [Geschäfts­konto-Vergleich: Auf Extra­kosten achten, sonst wird das Gratis­konto teuer](https://www.test.de/Geschaeftskonto-Vergleich-6010850-0/ "Geschäftskonto-Vergleich - Auf Extrakosten achten, sonst wird das Gratiskonto teuer")
+* [Verpackungs­ärger: Barilla Penne Rigate Senza Glutine](https://www.test.de/Verpackungsaerger-Barilla-Penne-Rigate-Senza-Glutine-6112820-0/ "Verpackungsärger - Barilla Penne Rigate Senza Glutine")
+* [Stand-up-Paddle-Boards im Test: Das Boarding klappt](https://www.test.de/Stand-up-Paddle-Boards-im-Test-Das-Boarding-klappt-6024484-0/ "Stand-up-Paddle-Boards im Test - Das Boarding klappt")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -3138,12 +3138,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [EuGH-Urteil: Vertrag darf nicht nur vom Schufa-Score abhängen](https://www.test.de/EuGH-Urteil-Vertrag-darf-nicht-nur-vom-Schufa-Score-abhaengen-6073255-0/ "EuGH-Urteil - Vertrag darf nicht nur vom Schufa-Score abhängen")
-* [Boden­reiniger im Test: Sanft gepflegt mit einem Wisch](https://www.test.de/Bodenreiniger-im-Test-5992245-0/ "Bodenreiniger im Test - Sanft gepflegt mit einem Wisch")
-* [Dubioses Fest­geld: KT Investment ignorieren](https://www.test.de/Dubioses-Festgeld-KT-Investment-ignorieren-6062892-0/ "Dubioses Festgeld - KT Investment ignorieren")
-* [Gesund­heits­daten auf dem Smartphone: Im Notfall leicht zugäng­lich](https://www.test.de/Gesundheitsdaten-auf-dem-Smartphone-Im-Notfall-leicht-zugaenglich-6156109-0/ "Gesundheitsdaten auf dem Smartphone - Im Notfall leicht zugänglich")
-* [Verpackungs­ärger: Vivani-Schokoriegel](https://www.test.de/Verpackungsaerger-Vivani-Schokoriegel-5970152-0/ "Verpackungsärger - Vivani-Schokoriegel")
-* [Ratgeber Hilfe, ich habe geerbt: Formulare zum Download](https://www.test.de/Ratgeber-Hilfe-ich-habe-geerbt-Formulare-zum-Download-6038257-0/ "Ratgeber Hilfe, ich habe geerbt - Formulare zum Download")
+* [Beim Arzt­besuch: Zuzahlung nicht vorschnell akzeptieren](https://www.test.de/Beim-Arztbesuch-Zuzahlung-nicht-vorschnell-akzeptieren-6176444-0/ "Beim Arztbesuch - Zuzahlung nicht vorschnell akzeptieren")
+* [Überge­wicht bei Kindern: Kampf den Corona-Pfunden](https://www.test.de/Uebergewicht-bei-Kindern-Kampf-den-Corona-Pfunden-5979072-0/ "Übergewicht bei Kindern - Kampf den Corona-Pfunden")
+* [Veganer Butter­ersatz: Es muss nicht immer Butter sein](https://www.test.de/Veganer-Butterersatz-Es-muss-nicht-immer-Butter-sein-6157799-0/ "Veganer Butterersatz - Es muss nicht immer Butter sein")
+* [Geschäfts­konto-Vergleich: Auf Extra­kosten achten, sonst wird das Gratis­konto teuer](https://www.test.de/Geschaeftskonto-Vergleich-6010850-0/ "Geschäftskonto-Vergleich - Auf Extrakosten achten, sonst wird das Gratiskonto teuer")
+* [Verpackungs­ärger: Barilla Penne Rigate Senza Glutine](https://www.test.de/Verpackungsaerger-Barilla-Penne-Rigate-Senza-Glutine-6112820-0/ "Verpackungsärger - Barilla Penne Rigate Senza Glutine")
+* [Stand-up-Paddle-Boards im Test: Das Boarding klappt](https://www.test.de/Stand-up-Paddle-Boards-im-Test-Das-Boarding-klappt-6024484-0/ "Stand-up-Paddle-Boards im Test - Das Boarding klappt")
 
 Neueste Tests
 
@@ -3156,12 +3156,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [EuGH-Urteil: Vertrag darf nicht nur vom Schufa-Score abhängen](https://www.test.de/EuGH-Urteil-Vertrag-darf-nicht-nur-vom-Schufa-Score-abhaengen-6073255-0/ "EuGH-Urteil - Vertrag darf nicht nur vom Schufa-Score abhängen")
-* [Boden­reiniger im Test: Sanft gepflegt mit einem Wisch](https://www.test.de/Bodenreiniger-im-Test-5992245-0/ "Bodenreiniger im Test - Sanft gepflegt mit einem Wisch")
-* [Dubioses Fest­geld: KT Investment ignorieren](https://www.test.de/Dubioses-Festgeld-KT-Investment-ignorieren-6062892-0/ "Dubioses Festgeld - KT Investment ignorieren")
-* [Gesund­heits­daten auf dem Smartphone: Im Notfall leicht zugäng­lich](https://www.test.de/Gesundheitsdaten-auf-dem-Smartphone-Im-Notfall-leicht-zugaenglich-6156109-0/ "Gesundheitsdaten auf dem Smartphone - Im Notfall leicht zugänglich")
-* [Verpackungs­ärger: Vivani-Schokoriegel](https://www.test.de/Verpackungsaerger-Vivani-Schokoriegel-5970152-0/ "Verpackungsärger - Vivani-Schokoriegel")
-* [Ratgeber Hilfe, ich habe geerbt: Formulare zum Download](https://www.test.de/Ratgeber-Hilfe-ich-habe-geerbt-Formulare-zum-Download-6038257-0/ "Ratgeber Hilfe, ich habe geerbt - Formulare zum Download")
+* [Beim Arzt­besuch: Zuzahlung nicht vorschnell akzeptieren](https://www.test.de/Beim-Arztbesuch-Zuzahlung-nicht-vorschnell-akzeptieren-6176444-0/ "Beim Arztbesuch - Zuzahlung nicht vorschnell akzeptieren")
+* [Überge­wicht bei Kindern: Kampf den Corona-Pfunden](https://www.test.de/Uebergewicht-bei-Kindern-Kampf-den-Corona-Pfunden-5979072-0/ "Übergewicht bei Kindern - Kampf den Corona-Pfunden")
+* [Veganer Butter­ersatz: Es muss nicht immer Butter sein](https://www.test.de/Veganer-Butterersatz-Es-muss-nicht-immer-Butter-sein-6157799-0/ "Veganer Butterersatz - Es muss nicht immer Butter sein")
+* [Geschäfts­konto-Vergleich: Auf Extra­kosten achten, sonst wird das Gratis­konto teuer](https://www.test.de/Geschaeftskonto-Vergleich-6010850-0/ "Geschäftskonto-Vergleich - Auf Extrakosten achten, sonst wird das Gratiskonto teuer")
+* [Verpackungs­ärger: Barilla Penne Rigate Senza Glutine](https://www.test.de/Verpackungsaerger-Barilla-Penne-Rigate-Senza-Glutine-6112820-0/ "Verpackungsärger - Barilla Penne Rigate Senza Glutine")
+* [Stand-up-Paddle-Boards im Test: Das Boarding klappt](https://www.test.de/Stand-up-Paddle-Boards-im-Test-Das-Boarding-klappt-6024484-0/ "Stand-up-Paddle-Boards im Test - Das Boarding klappt")
 
 Stiftung Warentest
 
