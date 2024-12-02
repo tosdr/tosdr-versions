@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/de-aids-fraude-een-vervolg/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/whole-foods-verplicht-gmo-etiketering/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
