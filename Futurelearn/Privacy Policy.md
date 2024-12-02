@@ -501,7 +501,7 @@ Please read these Terms carefully. These Terms are not negotiable. If you do not
 
 6.11. Any Learner Content that is published on the public discussion areas of the Website (for example, the forums or areas where posts are made) will be subject to a Creative Commons Licence (Attribution-Non Commercial-NoDerivs; BY-NC-ND). We will not make available any Learner Content related to your assignments or assessments.
 
-6.12 Moderation policies apply to any Content you upload and we may restrict the Content available to you if any of it breaches our [Code of Conduct](https://www.futurelearn.com/info/_wp_link_placeholder) or any applicable laws. Our Code of Conduct can be found here.
+6.12 Moderation policies apply to any Content you upload and we may restrict the Content available to you if any of it breaches our Code of Conduct or any applicable laws. Our Code of Conduct can be found [here](https://www.futurelearn.com/info/terms/code-of-conduct).
 
 7. Upgrades, Unlimited and Subscription Access
 
