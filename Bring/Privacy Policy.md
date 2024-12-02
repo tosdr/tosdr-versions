@@ -141,7 +141,7 @@ We use the personal data mentioned above for the following purposes:
 * to allow you to use certain services in our app and on our website
 * for purposes of analysis and performance in order to improve your experience with our app continuously
 * if available to you - to inform you as registered user of our app by email about new recipes and trends and to keep you up to date on news about our app. You may withdraw your consent to receive such information at any time by sending us an email at feedback@getbring.com or by clicking on the link in the respective email
-* to notify you of suitable recipes, offers and promotions that might interest you or to point out to you shopping opportunities in your proximity
+* to notify you of suitable offers and promotions that might interest you or to point out to you shopping opportunities in your proximity
 * to provide you with interesting insights into your shopping behaviour on a regular basis (once a month at the most) in the app or via email (for example: your most frequently purchased items or your use of shopping lists compared to other list recipients)
 * to provide you with relevant advertising and retargeting on our app and website
 * to answer your inquiries
