@@ -443,7 +443,11 @@ Most recent
 
 [02-12-2024
 
-DSA audit score card: How are Big Tech platforms complying with the EU’s landmark legislation?](https://www.euractiv.com/section/tech/news/dsa-audit-score-card-how-are-big-tech-platforms-complying-with-the-eus-landmark-legislation/)[02-12-2024
+French government on the verge of collapse ahead of no-confidence vote](https://www.euractiv.com/section/politics/news/french-government-on-the-verge-of-collapse-ahead-of-no-confidence-vote/)[02-12-2024
+
+German centrist parties add support for early revision of CO2 car rules](https://www.euractiv.com/section/eet/news/german-centrist-parties-add-support-for-early-revision-of-co2-car-rules/)[02-12-2024
+
+DSA audit scorecard: How are Big Tech platforms complying with the EU’s landmark legislation?](https://www.euractiv.com/section/tech/news/dsa-audit-score-card-how-are-big-tech-platforms-complying-with-the-eus-landmark-legislation/)[02-12-2024
 
 Steelmakers urge EU to introduce mandatory ‘green’ steel quotas for carmakers](https://www.euractiv.com/section/eet/news/steelmakers-urge-eu-to-introduce-mandatory-green-steel-quotas-for-carmakers/)[02-12-2024
 
@@ -457,11 +461,7 @@ Poland’s PiS protests new school subject, claims it will pervert children](htt
 
 Biden signs presidential pardon for his son Hunter](https://www.euractiv.com/section/global-europe/news/biden-signs-presidential-pardon-for-his-son-hunter/)[02-12-2024
 
-Brussels halts EU recovery plan payment for Bulgaria](https://www.euractiv.com/section/politics/news/brussels-halts-eu-recovery-plan-payment-for-bulgaria/)[02-12-2024
-
-Global plastic treaty talks end with no deal](https://www.euractiv.com/section/eet/news/global-plastic-treaty-talks-end-with-no-deal/)[02-12-2024
-
-Seven out of 10 Romanians voted for mainstream parties](https://www.euractiv.com/section/politics/news/seven-out-of-10-romanians-voted-for-mainstream-parties/)
+Brussels halts EU recovery plan payment for Bulgaria](https://www.euractiv.com/section/politics/news/brussels-halts-eu-recovery-plan-payment-for-bulgaria/)
 
 ###### Advertisement
 
