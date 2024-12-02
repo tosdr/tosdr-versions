@@ -66,7 +66,7 @@ IINTRODUCTION
 
 Welcome to the Notonthehighstreet Enterprises Ltd (“notonthehighstreet”) Privacy Policy (also referred to as, “we”, “us” or “our” in this Privacy Policy).
 
-Notonthehighstreet respects your privacy and is committed to protecting your personal data. This Privacy Policy will tell you how we look after your personal data when you visit our website and/or use our iOS or Android app, (together referred to as the “website” or “site”) and inform you of your privacy rights and how the law protects you.
+Notonthehighstreet respects your privacy and is committed to protecting your personal data. This Privacy Policy will tell you how we look after your personal data when you visit our website and/or use our iOS or Android app, (together referred to as the “website” or “site”) or engage with a Seller and inform you of your privacy rights and how the law protects you.
 
 Please use the Glossary at the end of this Privacy Policy to understand the meaning of some of the terms used in it.
 
@@ -171,6 +171,7 @@ We use different methods to collect data from and about you including through:
 We also collect from and share data with the following providers:
 
 * Sellers: we will share your personal data (name, address, gender, billing address, email, telephone and mobile  phone number as well as any personalisation details you've provided as part of your order) with a Seller with whom you have placed an order so that they can fulfil and manage your order as part of the sales process we provide under our _**CustomerTerms and Conditions**_. Any order placed is deemed to be an instruction from you to share your personal data in this way. The Seller will act as an independent data controller, on a stand-alone basis, and process your personal data in accordance with their own policies and security measures. We are not responsible for protecting your information when it is under their control, but you may exercise against such Seller all of the rights which you would otherwise be able to exercise against us as set out in this Privacy Policy.
+* Sellers may use delivery and fulfilment services made available by us to fulfil orders received from customers on this website or from customers on other websites or platforms . Sellers may share such personal data (including names, home and/or email addresses, contact numbers of customers and/or recipients ) with us and/or third party delivery and fulfilment suppliers to help fulfil such orders - see [List of Third Party Providers](https://www.notonthehighstreet.com/about/third-parties) for more details. We may use such personal data for our legitimate business purposes, as set out in this Privacy Policy and the Seller’s own policies.
 
 When we share your personal data with a Seller, you should be aware of the following:
 
@@ -212,7 +213,7 @@ We have set out below, in a table format, a description of all the ways we may u
 | To carry out fraud assessments | (a) Identity<br><br>(b) Contact<br><br>(c) Financial<br><br>(d) Transaction<br><br>(e) Technical | Necessary for our legitimate interests of ensuring payments are not fraudulent. |
 | To process your purchase of a gift voucher from us | (a) Identity<br><br>(b) Contact<br><br>(c) Financial<br><br>(d) Transaction | Performance of a contract with you. |
 | To notify you in relation to our legal obligations and documents, including changes to our terms or Privacy Policy | (a) Identity<br><br>(b) Contact<br><br>(c) Profile | Necessary for our legitimate interests of ensuring our customers are updated on these changes. |
-| To help us improve our offering to our customers, including asking you to leave a review or take a survey, or provide customer insights | (a) Identity<br><br>(b) Contact<br><br>(c) Profile<br><br>(d) Marketing and Communications | Necessary for our legitimate interests (to study how customers use our products/services, to improve our offering to our customers, to develop and grow our business). |
+| To help us improve our offering to our customers, including delivery and fulfilment asking you to leave a review or take a survey, or provide customer insights | (a) Identity<br><br>(b) Contact<br><br>(c) Profile<br><br>(d) Marketing and Communications | Necessary for our legitimate interests (to study how customers use our products/services, to improve our offering to our customers, to develop and grow our business). |
 | To help us improve our offering to our customers, including asking you to provide feedback, insights and user research | (a) Identity  <br>  <br>(b) Contact  <br>  <br>(c) Profile | Where you consent to providing this information. |
 | To enable you to partake in a prize draw or competition | (a) Identity<br><br>(b) Contact<br><br>(c) Profile<br><br>(d) Usage<br><br>(e) Marketing and Communications | Performance of a contract with you to fulfil the promotion and run the competition/prize draw. We may also subsequently use your entries for the legitimate interests of understanding our customer base more effectively. |
 | To administer and protect our business and this website (including troubleshooting, data analysis, testing, system maintenance, support, reporting and hosting of data) | (a) Identity<br><br>(b) Contact<br><br>(c) Profile<br><br>(d) Technical | Necessary for our legitimate interests (for running our business, provision of administration and IT services, network security, to prevent fraud and in the context of a business reorganisation or group restructuring exercise). |
@@ -285,8 +286,8 @@ Some Sellers, and third parties that we use, are based outside the United Kingdo
 Whenever we transfer your personal data out of the United Kingdom, we ensure a similar degree of protection is afforded to it by ensuring at least one of the following safeguards is implemented:
 
 * We will only transfer your personal data to EU member states and EEA countries on the basis that, on a transitional basis, the United Kingdom deems EU member states and EEA countries to be adequate to allow for data flows from the United Kingdom. 
-* We will only transfer your personal data to countries that have been deemed to provide an adequate level of protection for personal data by the European Commission or the Information Commissioners Office. For further details, see [European Commission: Adequacy of the protection of personal data in non-EU countries](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en) or  [https://ico.org.uk/for-organis...](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/international-transfers-after-uk-exit/sccs-after-transition-period/)
-* Where we use certain service providers, we may use specific contracts approved by the European Commission which give personal data the same protection it has in Europe or the UK. For further details, see [European Commission: Model contracts for the transfer of personal data to third countries](https://ec.europa.eu/info/strategy/justice-and-fundamental-rights/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en).
+* We will only transfer your personal data to countries that have been deemed to provide an adequate level of protection for personal data by the UK Government or European Commission.
+* Where we use certain service providers, we may use either specific contracts approved by the UK Government or European Commission which give personal data the same protection it has in the UK or Europe (respectively) or where available, we may use the Data Privacy Framework Program to enable transfers on the basis of the UK Parliament or the European Commission’s assessment of that programme as being adequate for lawful data transfer purposes.
 
 8\. DATA SECURITY
 
@@ -350,7 +351,7 @@ A more detailed explanation on what some references mean in this policy is as fo
 
 “comply with a legal or regulatory obligation” means processing your personal data where it is necessary for compliance with a legal or regulatory obligation that we are subject to.
 
-**Last updated: 15 December 2023**
+**Last updated: December 2024**
 
 ### Get first dibs
 
