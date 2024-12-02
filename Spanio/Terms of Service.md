@@ -8,7 +8,7 @@ Products
 
 Smarter electrical panel
 
-![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66c62a37cdf63f75fcbd50b0_Open%20Panel%20breaker%20unedited%200%20deg%20(for%20close%20crop).png)](https://www.span.io/panel)[Drive
+![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66c62a37cdf63f75fcbd50b0_Open%20Panel%20breaker%20unedited%200%20deg%20(for%20close%20crop).avif)](https://www.span.io/panel)[Drive
 
 Level 2+ EV charging
 
@@ -40,7 +40,7 @@ Professionals
 
 ![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66cd02deab639b6b8061cd66_builders.avif)](https://www.span.io/builders)[Utilities
 
-![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66cd02ff0b14003949aa237b_utilities.png)](https://www.span.io/utilities)
+![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66cd02ff0b14003949aa237b_utilities.avif)](https://www.span.io/utilities)
 
 [Tech Portal
 
@@ -88,7 +88,7 @@ Products
 
 Smarter electrical panel
 
-![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66c62a37cdf63f75fcbd50b0_Open%20Panel%20breaker%20unedited%200%20deg%20(for%20close%20crop).png)](https://www.span.io/panel)[Drive
+![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66c62a37cdf63f75fcbd50b0_Open%20Panel%20breaker%20unedited%200%20deg%20(for%20close%20crop).avif)](https://www.span.io/panel)[Drive
 
 Level 2+ EV charging
 
@@ -120,7 +120,7 @@ Professionals
 
 ![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66cd02deab639b6b8061cd66_builders.avif)](https://www.span.io/builders)[Utilities
 
-![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66cd02ff0b14003949aa237b_utilities.png)](https://www.span.io/utilities)
+![](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/66cd02ff0b14003949aa237b_utilities.avif)](https://www.span.io/utilities)
 
 [Tech Portal
 
