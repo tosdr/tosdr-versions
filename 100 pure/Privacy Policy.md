@@ -343,7 +343,7 @@ SELECT
 
 Beauty Deal - Retinol Restorative Overnight Balm
 
-SELECT Buy for $20
+SOLD OUT Buy for $20
 
 ![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD1FMRROBM_Beauty_Deal_2022-Retinol_Restorative_Overnight_Balm_Primary.jpg?em-origin=cdn.shopify.com)
 
@@ -351,7 +351,7 @@ Beauty Deal - Retinol Restorative Overnight Balm
 
 Nourishing PM balm enhances firmness, tone, and elasticity while you sleep. Made with vegan retinol, avocado butter, and plant oils to moisturize and restore.
 
-SELECT
+SOLD OUT
 
 [![](https://www.100percentpure.com/s/files/1/0648/1955/files/1FEGCGCC_Green_Tea_EGCG_Concentrate_Cream_Primary_1600x_2ab6d41d-43e8-4ff0-ba43-5061bdf0f562.webp?em-origin=cdn.shopify.com)](#product-6838962257998)
 
