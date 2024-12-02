@@ -2,6 +2,10 @@
 
 [Sign in](https://my.roommates.com/users/sign_in) [Sign up](https://my.roommates.com/users/sign_up)
 
+[![](https://static.roommates.com/assets/cm2024-7aa52a9a372ce5ab4f0fe12d7b2913da8511464dc6db999fa2ba76015f58f8ea.png)](https://my.roommates.com/membership)
+
+[Get a **1-year** membership for **$40** with code **CM2024**](https://my.roommates.com/membership)
+
 Roommates.com Terms of Service
 ==============================
 
