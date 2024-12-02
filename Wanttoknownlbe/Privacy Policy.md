@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/valse-vlag-operaties/hoe-erdogan-zn-eigen-coup-organiseerde-reconstructie/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/mensen/lezers-spreken-al-gore-wij-geloven-niet-meer-in-sprookjesverhalen/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
