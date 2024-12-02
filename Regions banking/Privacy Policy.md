@@ -334,15 +334,15 @@ Related Insights
     
     Video
     
+* [4 tips for choosing a checking account](https://www.regions.com/insights/personal/personal-finances/creating-a-financial-plan/opening-a-checking-account)
+    
+    Article
+    
 * [4 Factors to Opening a Checking Account for Teens](https://www.regions.com/insights/personal/personal-finances/budgeting-and-saving/should-your-teen-have-a-student-checking-account)
     
     Article
     
 * [5 checking account mistakes to avoid](https://www.regions.com/insights/personal/personal-finances/creating-a-financial-plan/checking-account-mistakes)
-    
-    Article
-    
-* [Easy Money Management](https://www.regions.com/insights/personal/personal-finances/budgeting-and-saving/easy-money-management-with-or-without-a-checking-account)
     
     Article
     
@@ -429,5 +429,3 @@ You’re leaving Regions.com to visit an external website or app.
 Regions provides links to other websites or apps for your convenience and does not control the content, services or products provided on the linked website or app, whose Privacy and security policies or procedures may differ. Consult the policies or disclosures on their website.
 
 [Continue](#) Cancel
-
- [![](-/media/Images/Icon/icon-calendar/icon-calendar.svg) Make an Appointment (Opens in a new window)](https://timetrade.com/app/regions/workflows/REGPHONE/schedule/?campaignId=website&view=embed "make-an-appointment")
