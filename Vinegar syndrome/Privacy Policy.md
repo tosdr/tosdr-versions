@@ -771,7 +771,7 @@ Sign up for our mailing list to stay up to date on new releases, sales & events 
 
 Copyright © 2024 [Vinegar Syndrome](https://vinegarsyndrome.com/).  [Powered by Shopify](https://www.shopify.com/?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore)
 
-American Express Apple Pay Diners Club Discover Meta Pay Google Pay Mastercard PayPal Shop Pay Visa
+American Express Apple Pay Diners Club Discover Google Pay Mastercard PayPal Shop Pay Visa
 
 [](#)
 
