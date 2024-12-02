@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/f13db5e4-2c8c-44c6-b9e3-d92a96100fbf/20241201T221848/f13db5e4-2c8c-44c6-b9e3-d92a96100fbf_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f13db5e4-2c8c-44c6-b9e3-d92a96100fbf/20241201T221848/f13db5e4-2c8c-44c6-b9e3-d92a96100fbf_360x203.jpg)](https://www.king5.com/article/sports/nfl/seahawks/three-takeaways-seahawks-comeback-win-jets/281-3e6404dc-793d-4c51-99b9-658a8a223ccf)
+    *  [![](https://media.king5.com/assets/KING/images/aaf16b69-91fe-4779-9426-be35ad7206a0/20241202T061801/aaf16b69-91fe-4779-9426-be35ad7206a0_16x9.jpg) ![](https://media.king5.com/assets/KING/images/aaf16b69-91fe-4779-9426-be35ad7206a0/20241202T061801/aaf16b69-91fe-4779-9426-be35ad7206a0_360x203.jpg)](https://www.king5.com/article/news/local/aids-chicken-soup-brigade-meal-delivery-service/281-e887823c-23b3-4cf3-a9ed-ffa7d304722e)
         
-        #### [Three takeaways from Seahawks' comeback win over the Jets](https://www.king5.com/article/sports/nfl/seahawks/three-takeaways-seahawks-comeback-win-jets/281-3e6404dc-793d-4c51-99b9-658a8a223ccf)
+        #### ['Chicken Soup Brigade' says demand has grown for service supporting those with chronic illness](https://www.king5.com/article/news/local/aids-chicken-soup-brigade-meal-delivery-service/281-e887823c-23b3-4cf3-a9ed-ffa7d304722e)
         
-    *  [![](https://media.king5.com/assets/KING/images/a181af51-2fff-4840-b7e7-3ff8ec84a8f4/20240505T184202/a181af51-2fff-4840-b7e7-3ff8ec84a8f4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a181af51-2fff-4840-b7e7-3ff8ec84a8f4/20240505T184202/a181af51-2fff-4840-b7e7-3ff8ec84a8f4_360x203.jpg)](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-retiros-de-pepinos-y-huevos-los-sounders-y-una-donacin-de-juguetes/281-998b6e4a-4e27-45e8-aeec-8d5bd355eca1)
+    *  [![](https://media.king5.com/assets/KING/images/aa835f00-040e-4147-b736-785f4f2b0a70/20241202T061030/aa835f00-040e-4147-b736-785f4f2b0a70_16x9.jpg) ![](https://media.king5.com/assets/KING/images/aa835f00-040e-4147-b736-785f4f2b0a70/20241202T061030/aa835f00-040e-4147-b736-785f4f2b0a70_360x203.jpg)](https://www.king5.com/article/news/education/north-beach-elementary-families/281-3396e546-69f8-4d10-8ef5-493cd6e2aee0)
         
-        #### [Cinco Cosas: Retiros de pepinos y huevos, Los Sounders, y una donación de juguetes](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-retiros-de-pepinos-y-huevos-los-sounders-y-una-donacin-de-juguetes/281-998b6e4a-4e27-45e8-aeec-8d5bd355eca1)
+        #### [North Beach Elementary families relieved school will not be closed](https://www.king5.com/article/news/education/north-beach-elementary-families/281-3396e546-69f8-4d10-8ef5-493cd6e2aee0)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/954af5c2-acb4-4757-abc4-8c9b2bcd9061/20241201T160932/954af5c2-acb4-4757-abc4-8c9b2bcd9061_16x9.jpg) ![](https://media.king5.com/assets/KING/images/954af5c2-acb4-4757-abc4-8c9b2bcd9061/20241201T160932/954af5c2-acb4-4757-abc4-8c9b2bcd9061_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/cf0277c0-7b9c-4a2b-b328-e21c0e48bd7a/20241202T062725/cf0277c0-7b9c-4a2b-b328-e21c0e48bd7a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cf0277c0-7b9c-4a2b-b328-e21c0e48bd7a/20241202T062725/cf0277c0-7b9c-4a2b-b328-e21c0e48bd7a_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-42°
+37°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
