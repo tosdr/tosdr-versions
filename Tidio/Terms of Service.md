@@ -30,9 +30,11 @@ Case studies
 
 Resources
 
-[AI Chatbot Battles](https://www.tidio.com/blog/category/ai-battles/)
+[Playground - See Lyro in Action](https://www.tidio.com/chatbot-ai/playground/)
 
-[Tidio Academy course](https://academy.tidio.com/course/ai-customer-service)
+[Connect Lyro to your platform](https://www.tidio.com/chatbot-ai/#connect-platforms)
+
+[Lyro AI Savings Calculator](https://www.tidio.com/chatbot-ai/#lyro-calculator)
 
 Live Chat
 
@@ -128,9 +130,11 @@ Case studies
 
 Resources
 
-[AI Chatbot Battles](https://www.tidio.com/blog/category/ai-battles/)
+[Playground - See Lyro in Action](https://www.tidio.com/chatbot-ai/playground/)
 
-[Tidio Academy course](https://academy.tidio.com/course/ai-customer-service)
+[Connect Lyro to your platform](https://www.tidio.com/chatbot-ai/#connect-platforms)
+
+[Lyro AI Savings Calculator](https://www.tidio.com/chatbot-ai/#lyro-calculator)
 
 Live Chat
 
