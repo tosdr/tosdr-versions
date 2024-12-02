@@ -207,6 +207,28 @@ Menü
     ===
     
 
+[BreakingNews
+
+Erster Besuch seit zweieinhalb Jahren: Scholz überraschend in Kiew eingetroffen
+
+Erster Besuch seit zweieinhalb Jahren: Scholz überraschend in Kiew eingetroffen
+
+Erster Besuch seit zweieinhalb Jahren: Scholz überraschend in Kiew eingetroffen
+
+Erster Besuch seit zweieinhalb Jahren: Scholz überraschend in Kiew eingetroffen
+
+Erster Besuch seit zweieinhalb Jahren: Scholz überraschend in Kiew eingetroffen
+
+Erster Besuch seit zweieinhalb Jahren: Scholz überraschend in Kiew eingetroffen
+
+Erster Besuch seit zweieinhalb Jahren: Scholz überraschend in Kiew eingetroffen
+
+Erster Besuch seit zweieinhalb Jahren: Scholz überraschend in Kiew eingetroffen
+
+Erster Besuch seit zweieinhalb Jahren: Scholz überraschend in Kiew eingetroffen
+
+Erster Besuch seit zweieinhalb Jahren: Scholz überraschend in Kiew eingetroffen](https://www.bild.de/politik/erster-besuch-seit-zweieinhalb-jahren-scholz-ueberraschend-in-kiew-eingetroffen-674d532f8505b91bc0c8846c)
+
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
  AGB: Nutzungsbedingungen für die digitalen Angebote von BILD
