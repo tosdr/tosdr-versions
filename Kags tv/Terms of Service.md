@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.kagstv.com/assets/KCEN/images/ab671724-4454-43c4-bff1-ca1ee7ca74dd/20241130T004614/ab671724-4454-43c4-bff1-ca1ee7ca74dd_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/ab671724-4454-43c4-bff1-ca1ee7ca74dd/20241130T004614/ab671724-4454-43c4-bff1-ca1ee7ca74dd_360x203.jpg)](https://www.kagstv.com/article/news/local/escaped-juvenile-from-brazos-county-juvenile-detention-center/500-a2a29cb4-0a40-47d6-86c4-858ba7acd244)
+    *  [![](https://media.kagstv.com/assets/WFAA/images/a3adbda4-f4d7-41f4-9934-025e0ce966fa/20241201T034205/a3adbda4-f4d7-41f4-9934-025e0ce966fa_16x9.jpg) ![](https://media.kagstv.com/assets/WFAA/images/a3adbda4-f4d7-41f4-9934-025e0ce966fa/20241201T034205/a3adbda4-f4d7-41f4-9934-025e0ce966fa_360x203.jpg)](https://www.kagstv.com/article/news/local/is-texas-am-a-military-school-heres-why-you-see-hundreds-in-uniform/287-17b3b4d2-6af6-47ce-af45-aa4cf8073394)
         
-        #### [Authorities searching for juvenile that escaped from Brazos County Detention Center](https://www.kagstv.com/article/news/local/escaped-juvenile-from-brazos-county-juvenile-detention-center/500-a2a29cb4-0a40-47d6-86c4-858ba7acd244)
+        #### [Is Texas A&M a military school? Here's why you see hundreds dressed in uniform](https://www.kagstv.com/article/news/local/is-texas-am-a-military-school-heres-why-you-see-hundreds-in-uniform/287-17b3b4d2-6af6-47ce-af45-aa4cf8073394)
         
-    *  [![](https://media.kagstv.com/assets/WTHR/images/dc1899fa-c189-4e00-a0d1-e36d47fc7194/20241128T213526/dc1899fa-c189-4e00-a0d1-e36d47fc7194_16x9.jpg) ![](https://media.kagstv.com/assets/WTHR/images/dc1899fa-c189-4e00-a0d1-e36d47fc7194/20241128T213526/dc1899fa-c189-4e00-a0d1-e36d47fc7194_360x203.jpg)](https://www.kagstv.com/article/news/local/security-camera-captures-man-set-car-fire-before-blows-up-east-indy-indianapolis-arson-explosion/531-8dab304b-9aa6-48e1-82be-41e9c07dc340)
+    *  [![](https://media.kagstv.com/assets/KHOU/images/ece66740-a30a-4a92-b861-1b0a2a9a48e0/20241201T143626/ece66740-a30a-4a92-b861-1b0a2a9a48e0_16x9.jpg) ![](https://media.kagstv.com/assets/KHOU/images/ece66740-a30a-4a92-b861-1b0a2a9a48e0/20241201T143626/ece66740-a30a-4a92-b861-1b0a2a9a48e0_360x203.jpg)](https://www.kagstv.com/article/news/local/texas-longhorns-aggies-updates-highlghts/285-20750c46-b479-4859-b478-1e0dbbbda180)
         
-        #### ['I just had a baby' | Indiana mother's car set on fire before exploding in her neighborhood](https://www.kagstv.com/article/news/local/security-camera-captures-man-set-car-fire-before-blows-up-east-indy-indianapolis-arson-explosion/531-8dab304b-9aa6-48e1-82be-41e9c07dc340)
+        #### [Texas tops Texas A&M 17-7, will play in SEC title game against Georgia](https://www.kagstv.com/article/news/local/texas-longhorns-aggies-updates-highlghts/285-20750c46-b479-4859-b478-1e0dbbbda180)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-45°
+44°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
