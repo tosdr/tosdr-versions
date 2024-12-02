@@ -210,45 +210,45 @@ Welcome to our Newest Members!
 
 Testimonials
 
+> Open source platforms enable the rapid deployment of advanced computing, storage and communications solutions. We recognize the value in shared innovation, a fundamental characteristic of open source communities. OIN membership is strategically important for YADRO in terms of patents management, R&D, marketing, and overall company reputation. Our participation in the OIN community demonstrates our commitment to support collaborative technology development and the ongoing success of the open sour… [Read more](https://www.openinventionnetwork.com/testimonial/yadro/ "Complete testimonial by Anna Egorova")
+
+Anna EgorovaChief Delivery Officer, YADRO
+
+> This move (regarding Huawei’s OIN membership demonstrates that joining OIN has become a no-brainer for any product company. Setting aside the patent trolls, who would never have an incentive to join, no one is asserting patents against Linux anymore. Waging a patent war against a popular open-source project like Linux is bad for business. Of course, the OIN definition of Linux is far broader than the kernel. Even so, the OIN pool protects the basic infrastructure of the web, and no serious pro… [Read more](https://www.openinventionnetwork.com/testimonial/omelveny-myers/ "Complete testimonial by Heather Meeker")
+
+Heather MeekerPartnerO'Melveny & Myers
+
 > Our stated mission is “Enabling Leading-Edge Technologies” and continuously improving ourselves so that we can offer products and services that satisfy our customers worldwide and contribute to the development of our society through the development of the most advanced technologies. In order to further promote this effort, we believe that the utilization of open source software will be essential. Open source platforms enable the rapid deployment of advanced computing and testing solutions. W… [Read more](https://www.openinventionnetwork.com/testimonial/advantest/ "Complete testimonial by Koichi Tsukui")
 
 Koichi TsukuiChief Technology Officer, Advantest
-
-> OIN is an organization which helps protect the Linux ecosystem by building a variety of defenses against patent attacks. By joining, Mozilla receives cross-licenses from other OIN licensees, but more importantly, for the long term, it affords us a chance to work with OIN in reducing IP threats to open source development and innovation.  
-
-Harvey AndersonVP & General CounselMozilla
-
-> Spurious claims from Patent Assertion Entities divert resources and investment away from true innovation and collaboration. We also recognize that a modern approach to technology development and innovation requires a level playing field around use of open source software. With membership of LOT and OIN, we are pleased to contribute to and extend the growing global community working together to reduce the PAE threat and lower barriers to use of open source technologies.  
-
-Lee BraineManaging Director, Chief Technology OfficeBarclays
-
-> The OpenChain Project is part of a broad global community engaging with all aspects of intellectual property around open source.  
-
-Shane CoughlanProgram ManagerOpenChain Project
-
-> Global adoption of Linux and other open source technologies is an irreversible trend. For the last 15 years, they have transformed almost every industry. By sharing innovation, Linux and open source capabilities have soared, application interoperability is unprecedented, connectivity is virtually everywhere, while business and consumer productivity are at all-time highs. By blocking patent aggression in open source, OIN has enabled safer investments in product development and helped to enable th… [Read more](https://www.openinventionnetwork.com/testimonial/nec-and-necam/ "Complete testimonial by Hirotake Konda - GM, IP Management Division & Department Manager, NEC // Jackson Chen - Senior Associate General Counsel, NCAM")
-
-Hirotake Konda - GM, IP Management Division & Department Manager, NEC // Jackson Chen - Senior Associate General Counsel, NCAM
-
-> _As we build a better experience for our clients, open source can be a significant innovation enabler for the platforms and applications we build and integrate. We’re proud to join the Open Invention Network and support its role in protecting open source software from patent risk._
-
-Michael SpringsChief Intellectual Property Counsel, Truist
 
 > We strive to be the top short video social platform and community for all users to record and share their lives. Linux and open source are critical elements in technologies we develop and integrate into our platform. By joining the Open Invention Network, we are demonstrating our continued commitment to innovation, and supporting it with patent non-aggression in core Linux and adjacent open source software.  
 
 Hongyi JiaGeneral CounselKuaishou Group
 
-> _We have an unrelenting focus to put customers at the center of what we do. Incorporating Open Source software is one of the ways we implement the best technologies in our systems to deliver services and experiences that our customers value and trust. At U.S. Bank, we are committed to technology innovation, and we are proud to join the Open Invention Network and support its role in protecting Open Source software._
+> _Demonstrating its commitment to open innovation, NatWest is a Gold member in FINOS, the main global organization aiming to move the entire financial services industry toward collaboration through Open Source and FDC3 standards. NatWest is also building on its foundations of open banking by creating the ‘Bank of APIs’ – an API ecosystem that brings an increasingly wide variety of our services to customers and partners in new and innovative ways. Open is important to us. As such we are proud… [Read more](https://www.openinventionnetwork.com/testimonial/natwest-group/ "Complete testimonial by Declan O’Gorman")_
 
-Don RelyeaChief Innovation Officer, U.S. Bank
+Declan O’GormanHead of Enterprise Engineering, NatWest Group
 
-> Consistent with OIN’s mission to provide freedom of action in Linux, we believe it is important to reinforce the principle that Intellectual Property (IP) enforcement should be conducted in a manner that is rational and in consonance with the collaborative process that occurs in Open Source Software (OSS). We encourage all of our members to provide their unequivocal support for the GPL Cooperation Commitment.  
+> OIN protects the open-source community through a patent cross-license for Linux and related open-source technologies. The license is free and available to companies, organizations, and individual developers if they agree not to assert their own patents against Linux.  
+
+Chris DiBonaDirector of Open SourceGoogle
+
+> Freedom to participate in open source projects and adopt Linux and other open source code has been enabled through broad based participation in the OIN cross-license, which has become a litmus test for authenticity in the open source community. Joining the OIN community demonstrates an explicit recognition among signatories of a commitment to open source technologies and the set of norms required around the appropriate use of patents in an increasingly open source-centric world. Companies that … [Read more](https://www.openinventionnetwork.com/testimonial/keith-bergelt-open-invention-network/ "Complete testimonial by Keith Bergelt")
 
 Keith BergeltCEOOpen Invention Network
 
-> Open Source technologies, especially Embedded Linux, have enabled the rapid development of intelligent products that can be found throughout the infrastructure of homes. LIXIL’s participation in the OIN community shows our consistent commitment to open source innovation.  
+> Linux Defenders is dedicated to protecting the Linux and the broader open-source community from poor-quality patents, through prior art activities and patent claim scope reduction.  
 
-Yugo KanazawaChief Digital OfficerLIXIL
+Keith BergeltCEOOpen Invention Network
+
+> The Electric Vehicle Charging Industry is booming and has benefited greatly from the freedom to use open source software such as Linux in our systems. The Open Charge Alliance stands for open collaboration, open standards and is a strong supporter of OIN. We can’t have patent aggression slowing down innovation and market growth in this exciting new industry.  
+
+Lonneke DriessenDirectorOpen Charge Alliance
+
+> Openness and sharing are the sources of innovation. Alibaba is excited to join Open Invention Network and share our cutting edge innovations with industry leaders.  
+
+Jiangwei JiangAlgorithm EngineerAlibaba Cloud Computing
 
 [![Open Invention Network](https://openinventionnetwork.com/wp-content/uploads/2024/01/oin-website-logo.png)](https://openinventionnetwork.com/)
 
