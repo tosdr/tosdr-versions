@@ -128,12 +128,12 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
-    * [Russia](https://www.news18.com/world/over-300-insurgents-killed-as-russia-carries-out-strikes-in-syrias-aleppo-9141553.html)
+    * [Vikrant Massey](https://www.news18.com/movies/vikrant-massey-announces-retirement-from-acting-in-shocking-post-i-realise-its-time-to-9141780.html)
     * [Chunky Panday](https://www.news18.com/movies/chunky-panday-shares-he-was-paid-to-attend-a-funeral-says-family-was-ready-to-pay-more-if-he-cried-9141302.html)
     * [Sreeleela](https://www.news18.com/web-stories/celebrities/5-south-diva-sreeleelas-elegant-and-vibrant-saree-looks-2649145/)
-    * [Aishwarya Rai](https://www.news18.com/movies/aishwarya-rai-abhishek-bachchan-have-rare-reunion-amid-divorce-rumours-mark-aaradhyas-birthday-videos-9141447.html)
     * [Rashmika Mandanna](https://www.news18.com/web-stories/celebrities/4-rashmika-mandannas-simple-yet-elegant-saree-looks-for-wedding-season-2649042/)
-    * [Dog Breeds](https://www.news18.com/web-stories/lifestyle/10-dog-breeds-banned-in-india-2636627/)
+    * [Skin Glow](https://www.news18.com/web-stories/lifestyle/5-hydrating-drinks-to-make-your-skin-glow-naturally-in-winter-2643380/)
+    * [Sonu Nigam](https://www.news18.com/movies/sonu-nigam-says-mohd-rafi-underwent-dharam-parivartan-while-singing-devotional-bhajans-a-namazi-9140976.html)
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
@@ -170,12 +170,12 @@ Follow us on
 
 In Trends:
 
-* [Russia](https://www.news18.com/world/over-300-insurgents-killed-as-russia-carries-out-strikes-in-syrias-aleppo-9141553.html)
+* [Vikrant Massey](https://www.news18.com/movies/vikrant-massey-announces-retirement-from-acting-in-shocking-post-i-realise-its-time-to-9141780.html)
 * [Chunky Panday](https://www.news18.com/movies/chunky-panday-shares-he-was-paid-to-attend-a-funeral-says-family-was-ready-to-pay-more-if-he-cried-9141302.html)
 * [Sreeleela](https://www.news18.com/web-stories/celebrities/5-south-diva-sreeleelas-elegant-and-vibrant-saree-looks-2649145/)
-* [Aishwarya Rai](https://www.news18.com/movies/aishwarya-rai-abhishek-bachchan-have-rare-reunion-amid-divorce-rumours-mark-aaradhyas-birthday-videos-9141447.html)
 * [Rashmika Mandanna](https://www.news18.com/web-stories/celebrities/4-rashmika-mandannas-simple-yet-elegant-saree-looks-for-wedding-season-2649042/)
-* [Dog Breeds](https://www.news18.com/web-stories/lifestyle/10-dog-breeds-banned-in-india-2636627/)
+* [Skin Glow](https://www.news18.com/web-stories/lifestyle/5-hydrating-drinks-to-make-your-skin-glow-naturally-in-winter-2643380/)
+* [Sonu Nigam](https://www.news18.com/movies/sonu-nigam-says-mohd-rafi-underwent-dharam-parivartan-while-singing-devotional-bhajans-a-namazi-9140976.html)
 * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 
 * Follow Us
