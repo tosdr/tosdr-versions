@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/welke-bewijzen-hebben-we-nog-nodig/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/arend-zeevat/ga-de-hele-weg-of-begin-er-niet-aan/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
