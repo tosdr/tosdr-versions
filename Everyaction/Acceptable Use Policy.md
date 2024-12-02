@@ -99,7 +99,7 @@
     * [Fundraising + Engagement](https://www.bonterratech.com/pricing/fundraising-and-engagement)
     * [Case Management](https://www.bonterratech.com/pricing/case-management)
 * [Resources](https://www.everyaction.com/resource-hub)
-    * * * ![play webinar](https://www.bonterratech.com/wp-content/themes/bonterra/_images/webinar-play-button.png)
+    * * * ![Watch now](https://www.bonterratech.com/wp-content/uploads/2024/12/webinar-play-button1.png)
                 
                 ON-DEMAND WEBINAR
                 
@@ -203,8 +203,7 @@ Annual giving supported
 
 ### Nonprofit organizations  
 
-Amplify your impact, expand your base, and boost efficiency with software built specifically for nonprofits.  
-[![arrow](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+Amplify your impact, expand your base, and boost efficiency with software built specifically for nonprofits. [![arrow](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![arrow](https://www.bonterratech.com/wp-content/themes/bonterra/_images/arrow.svg)
 
@@ -267,7 +266,7 @@ Years in service
 
 Dipika Shrestha
 
-Director of Impact and Evaluation, AAFSC
+Director of Impact and Evaluation, Arab-American Family Support Center
 
 PRODUCTS
 
