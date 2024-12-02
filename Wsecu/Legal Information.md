@@ -1,4 +1,4 @@
-Reasons we can share your personal information Does WSECU share? Can you limit this sharing?
+Reasons we can share your personal information Does WSECU and/or OWF share? Can you limit this sharing?
 
 
 
@@ -16,7 +16,7 @@ to offer our products and services to you Yes Yes
 
 
 
-For joint marketing with other financial compa-nies Yes Yes
+For joint marketing with other financial companies Yes Yes
 
 
 
@@ -32,7 +32,7 @@ information about your creditworthiness No We don’t share
 
 
 
-For our affiliates to market to you Yes Yes
+For our affiliates to market to you No We don’t share
 
 
 
@@ -58,11 +58,11 @@ The types of personal information we collect and share depend on the product or 
 
 How?
 
-All financial companies need to share members’ personal information to run their everyday business.In the section below, we list the reasons financial companies can share their members’ personalinformation; the reasons WSECU chooses to share; and whether you can limit this sharing.
+All financial companies need to share members’ personal information to run their everyday business.In the section below, we list the reasons financial companies can share their members’ personalinformation; the reasons WSECU and OWF choose to share; and whether you can limit this sharing.
 
 
 
-FACTS WHAT DOES WASHINGTON STATE EMPLOYEES CREDIT UNION (WSECU) ANDWSECU SERVICE COMPANY, LLC, DO WITH YOUR PERSONAL INFORMATION?
+FACTS WHAT DOES WASHINGTON STATE EMPLOYEES CREDIT UNION (WSECU) ANDONE WASHINGTON FINANCIAL, LLC (OWF), DO WITH YOUR PERSONAL INFORMATION?
 
 To limitoursharing
 
@@ -72,21 +72,21 @@ To limitoursharing
 
 Please note:
 
-• If you are a new member, we can begin sharing your information with our affiliates so they can marketto you 30 days from the date we send this notice.• When you are no longer a member, we will continue to share your information as described in this notice.• You can contact us at any time to limit our sharing.
+• If you are a new member, we can begin sharing your information 30 days from the date we send
+
+this notice.• When you are no longer a member, we will continue to share your information as described in this notice.• You can contact us at any time to limit our sharing.
 
 
 
 Questions? Call toll-free 800.562.0999 or go to wsecu.org.
 
-
-
-MKT-852 10.23REVISED 10/2023
+MKT-852 10.24 REVISED 10/2024
 
 Who We Are
 
 
 
-Who is providing this notice? Washington State Employees Credit Union (WSECU) and WSECU Service Company, LLC.
+Who is providing this notice? Washington State Employees Credit Union (WSECU)
 
 
 
@@ -126,7 +126,9 @@ Definitions
 
 Affiliates
 
-Companies related by common ownership or control. They can be financial andnon-financial companies.Our affiliates include:• WSECU Service Company, LLC
+
+
+Companies related by common ownership or control. They can be financial andnon-financial companies.Our affiliates include:• One Washington Financial, LLC (OWF)• Compliance Services Group, LLC
 
 
 
