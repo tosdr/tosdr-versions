@@ -275,6 +275,7 @@ Arrow
     
 * [Prices](https://www.gemini.com/prices)
 * [Price Converter](https://www.gemini.com/converter/btc/usd)
+* [Gemini Asset Listing Hub](https://www.gemini.com/asset-listing)
 * [Gemini Blog](https://www.gemini.com/blog)
 * [Trust Center](https://www.gemini.com/trust-center)
 * [About](https://www.gemini.com/about)
