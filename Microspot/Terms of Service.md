@@ -62,7 +62,7 @@ Vous avez désactivé JavaScript dans votre navigateur. Veuillez activer JavaScr
 Recherche de succursale
 -----------------------
 
-![Direction de la succursale](/medien/id/marketing/filialleiter/5443.jpg)
+![Direction de la succursale](/medien/id/marketing/filialleiter/8433.jpg)
 
 Nous vous conseillons volontiers.
 
@@ -72,29 +72,29 @@ Visitez l'une de nos quelques environ
 
 [Filiales](https://www.microspot.ch/fr/storefinder)
 
-[![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-SpP-BlackFriday-Generic2.jpg%3Fcontext%3DbWFzdGVyfGNtc3wxMzEwNzF8aW1hZ2UvanBlZ3xhRGN4TDJobU1DODROakI0TkRnMFgwa3lORjlUY0ZCZlFteGhZMnRHY21sa1lYbGZSMlZ1WlhKcFkzTXlMbXB3WjFOMFlXZGxaRzl3ZEdsdGFYcGxaQzg0TmpCNE5EZzBYMGt5TkY5VGNGQmZRbXhoWTJ0R2NtbGtZWGxmUjJWdVpYSnBZM015TG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkF8ZWY2ZWFiNjc5OWM0YmRmNjU3MmY0NmFmNDExNzk5NzYxYTgxMmViMjUzYTliNDQ4NTI1M2YzOTk4ZjViNjRiNQ&w=2360&q=75)
+[![Actions et réductions Cyber Week 2024](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-SpP-14-P11-CyberWeek-Generic2.jpg%3Fcontext%3DbWFzdGVyfGNtc3wyMzgxNjh8aW1hZ2UvanBlZ3xhRFpsTDJobU1pODROakI0TkRnMFgwa3lORjlUY0ZCZk1UUmZVREV4WDBONVltVnlWMlZsYTE5SFpXNWxjbWxqTWk1cWNHZFRkR0ZuWldSdmNIUnBiV2w2WldRdk9EWXdlRFE0TkY5Sk1qUmZVM0JRWHpFMFgxQXhNVjlEZVdKbGNsZGxaV3RmUjJWdVpYSnBZekl1YW5CblUzUmhaMlZrYjNCMGFXMXBlbVZrfDAzNTFjMmExODNmYjljYjMwZjVkNzMyZmJmY2YxY2JjODU1ODkzMWZhMmUwMzBlNTlmZWFhZDg0Mzk1NzFhODM&w=2360&q=75)
 
-Toutes les offres en un coup d'œil](https://www.microspot.ch/fr/cms/black-friday)
-
-[![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-ID-Weekend-Deals-KW48-2.jpg%3Fcontext%3DbWFzdGVyfGNtc3w2Mjk0MXxpbWFnZS9qcGVnfGFHUXdMMmhrWmk4NE5qQjRORGcwWDBreU5GOUpSRjlYWldWclpXNWtYMFJsWVd4elgwdFhORGhmTWk1cWNHZFRkR0ZuWldSdmNIUnBiV2w2WldRdk9EWXdlRFE0TkY5Sk1qUmZTVVJmVjJWbGEyVnVaRjlFWldGc2MxOUxWelE0WHpJdWFuQm5VM1JoWjJWa2IzQjBhVzFwZW1Wa3xhNmM5MWZhYTZiNDQ2NGRhNDBhNGE3ZTM2ZTlmN2E3NTVmNDk3Yjc0NzJkNDJlMmFmMmRlYjgzZjJjOGM0MTQ3&w=2360&q=75)
-
-10%de rabais sur une sélection de MacBook et iMac](https://www.microspot.ch/fr/cms/id-weekend-deal)
-
-[![Action TV](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-SpP-BlackFriday-15-CM1-TV-Special-KW48.jpg%3Fcontext%3DbWFzdGVyfGNtc3wxNzM5Mzh8aW1hZ2UvanBlZ3xhR1V6TDJnME1pODROakI0TkRnMFgwa3lORjlUY0ZCZlFteGhZMnRHY21sa1lYbGZNVFZmUTAweFgxUldYMU53WldOcFlXeGZTMWMwT0Y5Mk1pNXFjR2RUZEdGblpXUnZjSFJwYldsNlpXUXZPRFl3ZURRNE5GOUpNalJmVTNCUVgwSnNZV05yUm5KcFpHRjVYekUxWDBOTk1WOVVWbDlUY0dWamFXRnNYMHRYTkRoZmRqSXVhbkJuVTNSaFoyVmtiM0IwYVcxcGVtVmt8Y2U5MDViOTc2ZjAzODcyNjQ2ZDI1OGUxNGMxN2ZiNThhOGE4OWUyYzc1OGQ5YTIwNTI1MDNjNzRhYWIwMzdkYQ&w=2360&q=75)
-
-TV SpecialDécouvrez toutes les offres TV du Black Friday ici!](https://www.microspot.ch/fr/cms/actions-tv)
+Découvrez toutes les offres ici – jusqu'au 08.12.2024 seulement!](https://www.microspot.ch/fr/cms/cyber-week)
 
 [![Notebook](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2FKachel-860x484-Intel-FR.png%3Fcontext%3DbWFzdGVyfGNtc3wxMDg4Njh8aW1hZ2UvcG5nfGFERXdMMmd4TUM5TFlXTm9aV3hmT0RZd2VEUTRORjlKYm5SbGJGOUdVbDlXTlRVdWNHNW5VM1JoWjJWa2IzQjBhVzFwZW1Wa0wwdGhZMmhsYkY4NE5qQjRORGcwWDBsdWRHVnNYMFpTWDFZMU5TNXdibWRUZEdGblpXUnZjSFJwYldsNlpXUXw0NGM2NWRjNzA2Yzk3MjdiZGQxM2U0ZWFiYTYyNGY1MGE5YjQwMjMxODkyYjM3NGMyZjkyM2E0YjFhMTUzOTMw&w=2360&q=75)
 
 25%de rabais sur les produits ACER](https://www.microspot.ch/fr/brand/acer)
 
-[![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-SpP-BlackFriday-01-CM2-Gaming-KW48-2-2-.jpg%3Fcontext%3DbWFzdGVyfGNtc3wxMzE3OTN8aW1hZ2UvanBlZ3xhRGRoTDJnME55ODROakI0TkRnMFgwa3lORjlUY0ZCZlFteGhZMnRHY21sa1lYbGZNREZmUTAweVgwZGhiV2x1WjE5TFZ6UTRYeklnS0RJcExtcHdaMU4wWVdkbFpHOXdkR2x0YVhwbFpDODROakI0TkRnMFgwa3lORjlUY0ZCZlFteGhZMnRHY21sa1lYbGZNREZmUTAweVgwZGhiV2x1WjE5TFZ6UTRYeklnS0RJcExtcHdaMU4wWVdkbFpHOXdkR2x0YVhwbFpBfDcwMWI4NTdlOWJlMmQ2ODc4NzRhMjYzNGZkNDcyNmE3ODNiNjc5MTI5ZGM5MGJjNzQxZjlkMzUzMmQ4NzEzOTA&w=2360&q=75)
+[![Action TV](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-SpP-CyberWeek-12-CM1-TV-Special-KW49-.jpg%3Fcontext%3DbWFzdGVyfGNtc3wyNDYzMTR8aW1hZ2UvanBlZ3xhRGs0TDJnM05TODROakI0TkRnMFgwa3lORjlUY0ZCZlEzbGlaWEpYWldWclh6RXlYME5OTVY5VVZsOVRjR1ZqYVdGc1gwdFhORGxmZGpJdWFuQm5VM1JoWjJWa2IzQjBhVzFwZW1Wa0x6ZzJNSGcwT0RSZlNUSTBYMU53VUY5RGVXSmxjbGRsWld0Zk1USmZRMDB4WDFSV1gxTndaV05wWVd4ZlMxYzBPVjkyTWk1cWNHZFRkR0ZuWldSdmNIUnBiV2w2WldRfGY3OGMxMzUyN2Y5NGNjN2ExZGExMzZiOWM4YWI5YWRlYjRkOGI2ZDBlZDIzMzM3NWEwM2VjNzFiOWQ2NDRkYTQ&w=2360&q=75)
+
+TV SpecialDécouvrez toutes les offres TV de la Cyber Week ici!](https://www.microspot.ch/fr/cms/actions-tv)
+
+[![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0604-CM2-Promos-KW36.jpg%3Fcontext%3DbWFzdGVyfGNtc3w4MDEzMHxpbWFnZS9qcGVnfGFEazRMMmd4Tmk4NE5qQjRORGcwWDBreU5GOHdOakEwWDBOTk1sOVFjbTl0YjNOZlMxY3pObk11YW5CblUzUmhaMlZrYjNCMGFXMXBlbVZrTHpnMk1IZzBPRFJmU1RJMFh6QTJNRFJmUTAweVgxQnliMjF2YzE5TFZ6TTJjeTVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F8Y2JhNjI3MTI0MTM3ODE5ZDVmMzRlYjBlZGQxYWE1ZTU0ZmRlYmE1MDg5YTRlOGIwNjY5MGViZGJjNDUwNTZhMw&w=2360&q=75)
 
 20%de rabais sur LOGITECH et ASTRO GAMING](https://www.microspot.ch/fr/brand/logitech)
 
-[![iPhone & Apple Watch action](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-SpP-BlackFriday-20-CM1-iPhone-AppleWatch2.jpg%3Fcontext%3DbWFzdGVyfGNtc3wxMTk2MTh8aW1hZ2UvanBlZ3xhREkxTDJoa1l5ODROakI0TkRnMFgwa3lORjlUY0ZCZlFteGhZMnRHY21sa1lYbGZNakJmUTAweFgybFFhRzl1WlY5QmNIQnNaVmRoZEdOb01pNXFjR2RUZEdGblpXUnZjSFJwYldsNlpXUXZPRFl3ZURRNE5GOUpNalJmVTNCUVgwSnNZV05yUm5KcFpHRjVYekl3WDBOTk1WOXBVR2h2Ym1WZlFYQndiR1ZYWVhSamFESXVhbkJuVTNSaFoyVmtiM0IwYVcxcGVtVmt8YTAzODdjNmRlNzMyYTgxMTUyMmExYTU5ZjE5MTQ1YmE1ZTQ3OGViMzBjYTVkMGRkZjU4ZjA1ZDhhOTVlMDUzZA&w=2360&q=75)
+[![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-SpP-CyberWeek-10-CM3-Promos-KW49-2.jpg%3Fcontext%3DbWFzdGVyfGNtc3wyNzcwODZ8aW1hZ2UvanBlZ3xhR0pqTDJoak5TODROakI0TkRnMFgwa3lORjlUY0ZCZlEzbGlaWEpYWldWclh6RXdYME5OTTE5UWNtOXRiM05mUzFjME9WOHlMbXB3WjFOMFlXZGxaRzl3ZEdsdGFYcGxaQzg0TmpCNE5EZzBYMGt5TkY5VGNGQmZRM2xpWlhKWFpXVnJYekV3WDBOTk0xOVFjbTl0YjNOZlMxYzBPVjh5TG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkF8Y2Y0NTI2NDRiNmI4NWU3MGY1ZjE1ZmU3YmVhOGIyYzg1ODdhYTUzYzU3YzFjMWE0MzQ0OTZkZWI2NjI0YjU1Zg&w=2360&q=75)
 
-ACTIONBlack Friday Deals pour iPhone et Apple Watch](https://www.microspot.ch/fr/cms/apple-iphone)
+ACTIONBest of DYSON](https://www.microspot.ch/fr/brand/dyson)
+
+[![Samsung Smartphone Action](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-SpP-CyberWeek-04-WoKn-KW4911.jpg%3Fcontext%3DbWFzdGVyfGNtc3wxNTQ1MTl8aW1hZ2UvanBlZ3xhR1V6TDJnMVlTODROakI0TkRnMFgwa3lORjlUY0ZCZlEzbGlaWEpYWldWclh6QTBYMWR2UzI1ZlMxYzBPVEV4TG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkM4NE5qQjRORGcwWDBreU5GOVRjRkJmUTNsaVpYSlhaV1ZyWHpBMFgxZHZTMjVmUzFjME9URXhMbXB3WjFOMFlXZGxaRzl3ZEdsdGFYcGxaQXw5NWRlN2M2NDQ5NmI5MzUyNGZhZTZjZjQwYTYwOGQ2ZDMyNTRkMzZhN2M3MDNjN2JjMDc5ZDk4Y2E2NGRjY2Zk&w=2360&q=75)
+
+299.95au lieu de 349.95SAMSUNG Galaxy A55 5G 128 GB](https://www.microspot.ch/fr/product/samsung-galaxy-a55-5g-128-gb-awesome-navy-6-6-50-mp-5g-0014103191)
 
 Autres actions ici
 
@@ -103,19 +103,43 @@ Autres actions ici
 Nos univers thématiques
 -----------------------
 
-[![80x80_Icon_Gaming.png](/medias/80x80-Icon-Gaming.png?context=bWFzdGVyfGNtc3w0OTB8aW1hZ2UvcG5nfGFEbGpMMmhtTWk4NE1IZzRNRjlKWTI5dVgwZGhiV2x1Wnk1d2JtZFRkR0ZuWldSdmNIUnBiV2w2WldRdk9EQjRPREJmU1dOdmJsOUhZVzFwYm1jdWNHNW5VM1JoWjJWa2IzQjBhVzFwZW1Wa3w4M2UyNjM4ZjE5NjgzYjI2MDA0MTJhY2NhNDRkN2YwNWQ2YjM0M2Q3MTYwYzVkNzU2NzhjNWRhNjE2Y2YzYjMz)
+[![80x80_Icon_AI-chip.png](/medias/80x80-Icon-AI-chip.png?context=bWFzdGVyfGNtc3w2NTZ8aW1hZ2UvcG5nfGFHTTJMMmd5T1M4NE1IZzRNRjlKWTI5dVgwRkpMV05vYVhBdWNHNW5VM1JoWjJWa2IzQjBhVzFwZW1Wa0x6Z3dlRGd3WDBsamIyNWZRVWt0WTJocGNDNXdibWRUZEdGblpXUnZjSFJwYldsNlpXUXxhOTQwNjVjY2VmNWFjMDkwYzFhM2MyODc3MDEzMjM2NTYxYzQ0ZTZjZDgxMDA4MzMzZjMyNWY3ZDZkYzViMzQ0)
 
-Gaming
+NPU
 
-Le meilleur du monde du jeu](https://www.microspot.ch/fr/cms/gaming)
+Le moteur de l'IA expliqué](https://www.microspot.ch/fr/cms/npu-explique)
 
-[![80x80_I24_Icons_018_Season_schmal2.png](/medias/80x80-I24-Icons-018-Season-schmal2.png?context=bWFzdGVyfGNtc3w0NzJ8aW1hZ2UvcG5nfGFHSmhMMmcyWkM4NE1IZzRNRjlKTWpSZlNXTnZibk5mTURFNFgxTmxZWE52Ymw5elkyaHRZV3d5TG5CdVoxTjBZV2RsWkc5d2RHbHRhWHBsWkM4NE1IZzRNRjlKTWpSZlNXTnZibk5mTURFNFgxTmxZWE52Ymw5elkyaHRZV3d5TG5CdVoxTjBZV2RsWkc5d2RHbHRhWHBsWkF8ZTg5NzI5YTg5NDk4MDg3YWI3ZjFjNTgxNWFhNmFhNzBlZmViZjJiOGE3ZmYzMTg1YmMyZDY3NWQ5YjZhMjFiZg)
+[![80x80_I24_Icons_018_Season_Restposten3.png](/medias/80x80-I24-Icons-018-Season-Restposten3.png?context=bWFzdGVyfGNtc3w0MTR8aW1hZ2UvcG5nfGFHSXhMMmhqTnk4NE1IZzRNRjlKTWpSZlNXTnZibk5mTURFNFgxTmxZWE52Ymw5U1pYTjBjRzl6ZEdWdU15NXdibWRUZEdGblpXUnZjSFJwYldsNlpXUXZPREI0T0RCZlNUSTBYMGxqYjI1elh6QXhPRjlUWldGemIyNWZVbVZ6ZEhCdmMzUmxiak11Y0c1blUzUmhaMlZrYjNCMGFXMXBlbVZrfGZhODQ2ZTliNjM4ZjQ1ZTMxNDc0NjZmMjc2ZTE5NDYxNTBkYzQ0NzFlMzMwMjA2MTQxYjRiZmI5YWQ1NGYyNDY)
 
-Season Deals
+Bouger
 
-Offres spéciales saisonnières](https://www.microspot.ch/de/cms/season-deals)
+Se lever. Bouger. Faire de l’exercice.](https://www.microspot.ch/fr/cms/fitness)
+
+[![MicrosoftTeams-image.png](/medias/MicrosoftTeams-image.png?context=bWFzdGVyfGNtc3wyMjc2fGltYWdlL3BuZ3xhREEwTDJnd1l5OURUVEpmVkdWemRHbHVaMTlEYjI1MGNtOXNiR1Z5VTNSaFoyVmtiM0IwYVcxcGVtVmtMME5OTWw5VVpYTjBhVzVuWDBOdmJuUnliMnhzWlhKVGRHRm5aV1J2Y0hScGJXbDZaV1F8NzNjY2VhMDE2ZTBlOGMxNmM0ZjBhNmViNjNjZjg3MGIyNTdhZmVmMzRiY2Q0Y2QxZDU5MzI1YjJiYmVkMGRhYg)
+
+Gaming](https://www.microspot.ch/fr/cms/gaming)
+
+[![80x80_I24_Icons_018_Season_Restposten4.png](/medias/80x80-I24-Icons-018-Season-Restposten4.png?context=bWFzdGVyfGNtc3w0NzF8aW1hZ2UvcG5nfGFHWTFMMmc1Tmk4NE1IZzRNRjlKTWpSZlNXTnZibk5mTURFNFgxTmxZWE52Ymw5U1pYTjBjRzl6ZEdWdU5DNXdibWRUZEdGblpXUnZjSFJwYldsNlpXUXZPREI0T0RCZlNUSTBYMGxqYjI1elh6QXhPRjlUWldGemIyNWZVbVZ6ZEhCdmMzUmxialF1Y0c1blUzUmhaMlZrYjNCMGFXMXBlbVZrfDgwZGU3OTMwNDM1NzA0NzBkMDQ1ZjM3ZDE5NzNiM2ZjMDQ1YjBlOTM5ZDgxNGU1MTgwNmUyNWIzOTYyMTNmY2Y)
+
+les produits E-Mobility
+
+Bon à savoir et offres spéciales](https://www.microspot.ch/fr/cms/mobilite)
+
+[![300x150_M23_Logos_016_Lego_v2.png](/medias/300x150-M23-Logos-016-Lego-v2.png?context=bWFzdGVyfGNtc3wyMjE2fGltYWdlL3BuZ3xhRGN5TDJnNE55OHpNREI0TVRVd1gwMHlNMTlNYjJkdmMxOHdNVFpmVEdWbmIxOTJNaTV3Ym1kVGRHRm5aV1J2Y0hScGJXbDZaV1F2TXpBd2VERTFNRjlOTWpOZlRHOW5iM05mTURFMlgweGxaMjlmZGpJdWNHNW5VM1JoWjJWa2IzQjBhVzFwZW1Wa3xlNjkxOGVkYWQ1MGYzNWY3YTUyYTczMmNiYTY0YjRmMTRhOTdmOTE0ZTdmOTFmZTE1YjhlZjcxMTQ2ODA0MTBk)
+
+Une sélection de produits LEGO
+
+Bon à savoir et offres spéciales](https://www.microspot.ch/fr/brand/lego)
+
+[![80x80_I24_Icons_016_Baby.png](/medias/80x80-I24-Icons-016-Baby.png?context=bWFzdGVyfGNtc3wxMTYyfGltYWdlL3BuZ3xhRGN4TDJnMFlpODRNSGc0TUY5Sk1qUmZTV052Ym5OZk1ERTJYMEpoWW5rdWNHNW5VM1JoWjJWa2IzQjBhVzFwZW1Wa0x6Z3dlRGd3WDBreU5GOUpZMjl1YzE4d01UWmZRbUZpZVM1d2JtZFRkR0ZuWldSdmNIUnBiV2w2WldRfDRkY2YxMjIzZDE2ZmQ0OWI2ZDA5Zjk1YzIyNjU2ODAwNTkwMjUxYTAzM2M4Njk4ZWExYzkwMGNlMWMzMDA3ZTY)
+
+Bébé & Famille
+
+sécurité, confort et soins dès le début](https://www.microspot.ch/fr/cms/tout-pour-la-famille-bebe)
 
 [![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F1180x350-I24-SpP-12-P11-SBB-Halbtax5.jpg%3Fcontext%3DbWFzdGVyfGNtc3wyMzYwMTd8aW1hZ2UvanBlZ3xhRGcxTDJnd015OHhNVGd3ZURNMU1GOUpNalJmVTNCUVh6RXlYMUF4TVY5VFFrSmZTR0ZzWW5SaGVEVnpMbXB3WjFOMFlXZGxaRzl3ZEdsdGFYcGxaQzh4TVRnd2VETTFNRjlKTWpSZlUzQlFYekV5WDFBeE1WOVRRa0pmU0dGc1luUmhlRFZ6TG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkF8NDExMzRiZTQ2MDEwYTA2Mjc1NzJmYTZmODY5MjlhYmQxZDE4YzBlYjNiYzIyNDdiYjIxYzk2YzE5N2M5OWM3Yw&w=2360&q=75)![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F828x350-I24-SpP-12-P11-SBB-Halbtax5.jpg%3Fcontext%3DbWFzdGVyfGNtc3wxNTgwOTJ8aW1hZ2UvanBlZ3xhR0ZrTDJobE5DODRNamg0TXpVd1gwa3lORjlUY0ZCZk1USmZVREV4WDFOQ1FsOUlZV3hpZEdGNE5TNXFjR2RUZEdGblpXUnZjSFJwYldsNlpXUXZPREk0ZURNMU1GOUpNalJmVTNCUVh6RXlYMUF4TVY5VFFrSmZTR0ZzWW5SaGVEVXVhbkJuVTNSaFoyVmtiM0IwYVcxcGVtVmt8YTllMDA2MjM5ZmRkYTQwMjYxYTU1Y2JlMzU4ODhjN2Q3ZmYwZTU0MTRhY2Y3YWNiM2I4MmQwNjE2ZWI3ODg5MA&w=2360&q=75)](https://www.microspot.ch/fr/cms/offre-speciale)
+
+[![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F1180x350-I24-0743-CM1-DAB11.jpg%3Fcontext%3DbWFzdGVyfGNtc3w4NDAwM3xpbWFnZS9qcGVnfGFETmpMMmhoTUM4eE1UZ3dlRE0xTUY5Sk1qUmZNRGMwTTE5RFRURmZSRUZDTVRFdWFuQm5VM1JoWjJWa2IzQjBhVzFwZW1Wa0x6RXhPREI0TXpVd1gwa3lORjh3TnpRelgwTk5NVjlFUVVJeE1TNXFjR2RUZEdGblpXUnZjSFJwYldsNlpXUXxmN2RmZjg1ODI4Yzc5MTQzODNlMmRiOWM0YTM2MzRmMWFjN2I0NTU4MGI2MmNmMTRkMjhlYzZjYWU4YjUwMmIw&w=2360&q=75)![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F828x350-I24-0743-CM1-DAB5.jpg%3Fcontext%3DbWFzdGVyfGNtc3w3NzQ5NHxpbWFnZS9qcGVnfGFEbGxMMmd4TlM4NE1qaDRNelV3WDBreU5GOHdOelF6WDBOTk1WOUVRVUkxTG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkM4NE1qaDRNelV3WDBreU5GOHdOelF6WDBOTk1WOUVRVUkxTG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkF8OGRkODQwY2JkMjU2NThiYWQ2Mzg2NzM0YTViODE0NmQ5ODNjM2Y4NTM5MjA2MWJhNDhjZDA2NmM1OTViMWIyNQ&w=2360&q=75)](https://www.microspot.ch/fr/cms/dab)
 
 Testé pour vous
 ---------------
@@ -193,17 +217,17 @@ Inscrivez-vous à notre newsletter et soyez parmi les premiers à être informé
 Achetez comme vous aimez
 ------------------------
 
+[Retrait gratuit
+
+dans tous les magasins](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
+
 [Frais de port gratuits pour livraison
 
 à domicile dès CHF 49.-](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
-[Commandé aujourd'hui avant 20h
+[Garantie Plus
 
-livré le lendemain](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
-
-[Retrait gratuit
-
-dans tous les magasins](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
+prolongation de 24 mois de la garantie du fabricant](https://www.microspot.ch/fr/cms/service/garantie-plus)
 
 interdiscount.ch
 
