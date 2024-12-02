@@ -182,7 +182,7 @@ View →](https://seesaw.com/international-privacy-policy/)
 
 View →](https://seesaw.com/website-privacy-policy/)
 
-[![Seesaw](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201208%20303'%3E%3C/svg%3E)
+[![Seesaw](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%201024'%3E%3C/svg%3E)
 
 ![Seesaw](https://seesaw.com/wp-content/uploads/2024/01/seesaw-logo-white.svg)](https://seesaw.com/)
 
