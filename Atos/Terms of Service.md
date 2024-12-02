@@ -141,15 +141,15 @@ Atos homepage](https://atos.net/en/)
         Press releases
         --------------
         
+        * [Atos completes the sale of Worldgrid to ALTEN for an enterprise value of €270 million](https://atos.net/en/2024/press-release_2024_12_02/atos-completes-the-sale-of-worldgrid-to-alten-for-an-enterprise-value-of-e270-million)
         * [Atos named Official Technology Partner for the Invictus Games 2025](https://atos.net/en/2024/press-release_2024_11_27/atos-named-official-technology-partner-for-the-invictus-games-2025)
         * [Atos secures €165 million contract extension with EUROCONTROL](https://atos.net/en/2024/press-release_2024_11_26/atos-secures-e165-million-contract-extension-with-eurocontrol)
-        * [Atos receives non-binding offer from the French State to acquire its Advanced Computing activities for an enterprise value of €500 million and up to €625 million including earn-outs](https://atos.net/en/2024/press-release_2024_11_25/atos-receives-non-binding-offer-from-the-french-state-to-acquire-its-advanced-computing-activities-for-an-enterprise-value-of-e500-million-and-up-to-e625-million-including-earn-outs)
         
         ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
-        Nov 27, 2024
+        Dec 2, 2024
         
-        ### Atos named Official Technology Partner for the Invictus Games 2025
+        ### Atos completes the sale of Worldgrid to ALTEN for an enterprise value of €270 million
         
     * [Atos Research Community](https://atos.net/en/atos-research-community)
         
