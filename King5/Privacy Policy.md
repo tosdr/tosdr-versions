@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/f13db5e4-2c8c-44c6-b9e3-d92a96100fbf/20241201T221848/f13db5e4-2c8c-44c6-b9e3-d92a96100fbf_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f13db5e4-2c8c-44c6-b9e3-d92a96100fbf/20241201T221848/f13db5e4-2c8c-44c6-b9e3-d92a96100fbf_360x203.jpg)](https://www.king5.com/article/sports/nfl/seahawks/three-takeaways-seahawks-comeback-win-jets/281-3e6404dc-793d-4c51-99b9-658a8a223ccf)
+        
+        #### [Three takeaways from Seahawks' comeback win over the Jets](https://www.king5.com/article/sports/nfl/seahawks/three-takeaways-seahawks-comeback-win-jets/281-3e6404dc-793d-4c51-99b9-658a8a223ccf)
+        
     *  [![](https://media.king5.com/assets/KING/images/a181af51-2fff-4840-b7e7-3ff8ec84a8f4/20240505T184202/a181af51-2fff-4840-b7e7-3ff8ec84a8f4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a181af51-2fff-4840-b7e7-3ff8ec84a8f4/20240505T184202/a181af51-2fff-4840-b7e7-3ff8ec84a8f4_360x203.jpg)](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-retiros-de-pepinos-y-huevos-los-sounders-y-una-donacin-de-juguetes/281-998b6e4a-4e27-45e8-aeec-8d5bd355eca1)
         
         #### [Cinco Cosas: Retiros de pepinos y huevos, Los Sounders, y una donación de juguetes](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-retiros-de-pepinos-y-huevos-los-sounders-y-una-donacin-de-juguetes/281-998b6e4a-4e27-45e8-aeec-8d5bd355eca1)
-        
-    *  [![](https://media.king5.com/assets/KING/images/75443f90-e261-4af9-8e9f-1c0b1be36ebb/20241201T173825/75443f90-e261-4af9-8e9f-1c0b1be36ebb_16x9.jpg) ![](https://media.king5.com/assets/KING/images/75443f90-e261-4af9-8e9f-1c0b1be36ebb/20241201T173825/75443f90-e261-4af9-8e9f-1c0b1be36ebb_360x203.jpg)](https://www.king5.com/article/news/local/pets-and-animals/monroe-based-animal-rescue-fundraising-help-disabled-dog/281-8afdcc21-333a-4953-b37b-ee3de1c87c8c)
-        
-        #### [Monroe-based animal rescue fundraising to help disabled dog abandoned in a shopping bag](https://www.king5.com/article/news/local/pets-and-animals/monroe-based-animal-rescue-fundraising-help-disabled-dog/281-8afdcc21-333a-4953-b37b-ee3de1c87c8c)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-48°
+42°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
