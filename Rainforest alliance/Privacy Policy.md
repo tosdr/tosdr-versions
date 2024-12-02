@@ -292,7 +292,7 @@ general or business(Required)
 
  Send me business updates
 
-Name
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
@@ -327,6 +327,14 @@ The Rainforest Alliance is a 501(c)(3) Nonprofit registered in the US under EIN:
 
 [Privacy Policy](https://www.rainforest-alliance.org/privacy-policy) | [Cookie Policy](https://www.rainforest-alliance.org/privacy-policy/cookie-policy) |[](https://www.facebook.com/RainforestAlliance)[](https://www.instagram.com/rainforestalliance)[](https://www.linkedin.com/company/rainforest-alliance)[](https://www.tiktok.com/@rainforestalliance)[](https://www.youtube.com/user/rainforestalliance)
 
+Save Forests Today!
+
+Your gift helps protect tropical forests!
+
+[Give Today](#)
+
+X
+
 People & Forests
 
 Support nature’s guardians.  
@@ -351,14 +359,6 @@ Habitats Matter.
 Your gift helps protect vital forest habitats for wildlife.
 
 [Donate Today](#)
-
-X
-
-Save Forests Today!
-
-Your gift helps protect tropical forests!
-
-[Give Today](#)
 
 X
 
