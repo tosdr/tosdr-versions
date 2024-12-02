@@ -221,7 +221,7 @@ Zip Code  QUOTE & SCHEDULE
 
 Enter your zip/postal code above to find carpet cleaning services in your area, get a free quote or book online!
 
-Average 4.7 Stars Based on 305,509 Reviews
+Average 4.7 Stars Based on 305,654 Reviews
 
 * [Home](https://www.oxifresh.com/)
 * \>
@@ -383,19 +383,19 @@ What Customers Are Saying
 
 ### Average 4.7 stars (Out of 5)
 
-Based on 305,509 Carpet Cleaning Services Reviews
+Based on 305,654 Carpet Cleaning Services Reviews
 
-Listens to customer requests. **WR.** - Frisco, CO - 11/29/2024
+**KS.** - St. Louis, MO - 12/01/2024
 
-(4.5 Out of 5 stars)
+(4.0 Out of 5 stars)
 
-Availability **CS.** - Atlantic Beach, FL - 11/29/2024
+Very competent , very convenient price, efficient . Good communication to confirm date and time .. **CS.** - Hollywood, FL - 12/01/2024
 
-(4.5 Out of 5 stars)
+(5.0 Out of 5 stars)
 
-**NP.** - MANITOWOC, WI - 11/29/2024
+Great service! Does a fabulous job - multiple times on our carpet and upholstery. Highly recommend. **MH.** - Grand Rapids, MI - 11/30/2024
 
-(4.5 Out of 5 stars)
+(5.0 Out of 5 stars)
 
 [MORE REVIEWS](https://www.oxifresh.com/testimonials)
 
