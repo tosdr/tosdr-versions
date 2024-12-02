@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/William-Hall-326x245.jpg)](https://cwbchicago.com/2024/11/double-shooting-solved-after-records-show-he-rented-gunmans-get-away-scooter-officials-say.html "Double-shooting solved after records show he rented gunman’s get-away scooter, officials say")
+
+West Garfield Park
+
+### [Double-shooting solved after records show he rented gunman’s get-away scooter, officials say](https://cwbchicago.com/2024/11/double-shooting-solved-after-records-show-he-rented-gunmans-get-away-scooter-officials-say.html "Double-shooting solved after records show he rented gunman’s get-away scooter, officials say")
+
+[November 29, 2024 7:09 PM](https://cwbchicago.com/2024/11)
+
+A man required to register as a gun offender is facing new charges after Chicago police used scooter rental records to link him to a double shooting this summer.[](https://cwbchicago.com/2024/11/double-shooting-solved-after-records-show-he-rented-gunmans-get-away-scooter-officials-say.html "Double-shooting solved after records show he rented gunman’s get-away scooter, officials say")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/BB18-326x245.jpg)](https://cwbchicago.com/2024/11/15-year-old-shot-in-englewood-says-it-happened-on-a-block-previously-served-by-shotspotter.html "15-year-old shot in Englewood says it happened on a block previously served by ShotSpotter")
+
+Englewood
+
+### [15-year-old shot in Englewood says it happened on a block previously served by ShotSpotter](https://cwbchicago.com/2024/11/15-year-old-shot-in-englewood-says-it-happened-on-a-block-previously-served-by-shotspotter.html "15-year-old shot in Englewood says it happened on a block previously served by ShotSpotter")
+
+[November 29, 2024 6:16 PM](https://cwbchicago.com/2024/11)
+
+A 15-year-old boy was shot in the chest while standing near a sidewalk in Englewood on Friday afternoon, Chicago police said.[](https://cwbchicago.com/2024/11/15-year-old-shot-in-englewood-says-it-happened-on-a-block-previously-served-by-shotspotter.html "15-year-old shot in Englewood says it happened on a block previously served by ShotSpotter")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/01/Elijah-Manning-326x245.jpg)](https://cwbchicago.com/2024/11/carjacker-who-posted-video-bragging-about-the-crime-has-been-given-a-9-year-sentence.html "Carjacker who posted video bragging about the crime has been given a 9-year sentence")
 
 West Englewood
@@ -252,26 +272,6 @@ West Englewood
 [November 29, 2024 11:39 AM](https://cwbchicago.com/2024/11)
 
 A man accused of carjacking two men and then jumping on social media to stream a brag video about getting the “keys to this b\*\*ch” has been handed a nine-year sentence. Elijah Manning, 20, received another nine years for a suburban robbery, too. The sentences will be served concurrently.[](https://cwbchicago.com/2024/11/carjacker-who-posted-video-bragging-about-the-crime-has-been-given-a-9-year-sentence.html "Carjacker who posted video bragging about the crime has been given a 9-year sentence")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Argyle-CTA--326x245.jpg)](https://cwbchicago.com/2024/11/up-to-7-robbers-are-robbing-passengers-aboard-red-line-trains-on-the-north-side-cops-say.html "Up to 7 people are robbing passengers aboard Red Line trains on the North Side, cops say")
-
-Citywide
-
-### [Up to 7 people are robbing passengers aboard Red Line trains on the North Side, cops say](https://cwbchicago.com/2024/11/up-to-7-robbers-are-robbing-passengers-aboard-red-line-trains-on-the-north-side-cops-say.html "Up to 7 people are robbing passengers aboard Red Line trains on the North Side, cops say")
-
-[November 29, 2024 11:26 AM](https://cwbchicago.com/2024/11)
-
-Nighttime Red Line riders will want to be extra careful on the North Side while Chicago cops try to track down up to seven people who’ve been robbing passengers between Argyle and Granville this month.[](https://cwbchicago.com/2024/11/up-to-7-robbers-are-robbing-passengers-aboard-red-line-trains-on-the-north-side-cops-say.html "Up to 7 people are robbing passengers aboard Red Line trains on the North Side, cops say")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/JH522830-pine-grove-surf-326x245.jpg)](https://cwbchicago.com/2024/11/man-shot-in-lakeview-on-wednesday-has-died-officials-say.html "Man shot in Lakeview on Wednesday has died, officials say")
-
-Lakeview
-
-### [Man shot in Lakeview on Wednesday has died, officials say](https://cwbchicago.com/2024/11/man-shot-in-lakeview-on-wednesday-has-died-officials-say.html "Man shot in Lakeview on Wednesday has died, officials say")
-
-[November 29, 2024 10:45 AM](https://cwbchicago.com/2024/11)
-
-The man who was found shot in a car in Lakeview on Wednesday morning has died, according to the Cook County medical examiner’s office. An autopsy will be conducted to determine if the man’s death was an accident, homicide, or suicide.[](https://cwbchicago.com/2024/11/man-shot-in-lakeview-on-wednesday-has-died-officials-say.html "Man shot in Lakeview on Wednesday has died, officials say")
 
 Search
 
