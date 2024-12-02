@@ -12,11 +12,11 @@ Last Updated: \[01/11/2024\] This Privacy Policy governs the use of the services
 
 Download App
 
-[](https://eatigo.smart.link/sx9wameg4?destination=https%3A%2F%2Featigo.com%2Fen%2Fprivacy-policy&country_code=ph&site_id=)[](https://eatigo.smart.link/n9tshcrge?destination=https%3A%2F%2Featigo.com%2Fen%2Fprivacy-policy&country_code=ph&site_id=)
+[](https://eatigo.smart.link/sx9wameg4?destination=https%3A%2F%2Featigo.com%2Fen%2Fprivacy-policy&country_code=sg&site_id=)[](https://eatigo.smart.link/n9tshcrge?destination=https%3A%2F%2Featigo.com%2Fen%2Fprivacy-policy&country_code=sg&site_id=)
 
 About Eatigo
 
-[About us](https://eatigo.com/en/about-us)[Blog](https://blog.eatigo.com/philippines)[Careers](https://eatigo.zohorecruit.com/jobs/Careers)
+[About us](https://eatigo.com/en/about-us)[Blog](https://blog.eatigo.com/singapore)[Careers](https://eatigo.zohorecruit.com/jobs/Careers)
 
 Policies
 
@@ -32,4 +32,4 @@ Partner with Eatigo
 
 ![Eatigo Logo](https://cdn.myfunnow.com/eatigo-web/prod/images/logo-red.png)© 2024 Zoek. All rights reserved.
 
-[](https://www.instagram.com/eatigo_ph)[](https://www.facebook.com/eatigo.ph)[](https://www.youtube.com/eatigo)
+[](https://www.instagram.com/eatigo_sg)[](https://www.facebook.com/eatigo.singapore)[](https://www.youtube.com/eatigo)
