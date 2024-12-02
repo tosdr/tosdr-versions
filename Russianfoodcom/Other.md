@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_10.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_2.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -149,9 +149,6 @@
 Сейчас читают
 
 * [Кокосовое безе с шоколадной глазурью](https://www.russianfood.com/recipes/recipe.php?rid=173191)
-* [Вертуты с тыквой](https://www.russianfood.com/recipes/recipe.php?rid=159395)
-* [Слоёный пирог со шпинатом и фетой](https://www.russianfood.com/recipes/recipe.php?rid=166853)
-* [Шоколадные булочки](https://www.russianfood.com/recipes/recipe.php?rid=172069)
 
 |     |
 | --- |
@@ -173,6 +170,62 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Рецепты › [Новогодние рецепты на новогодний стол 2025 - год Змеи](https://www.russianfood.com/themes/?theme_id=30)<br><br>[Бутерброды "Змейки" с намазкой из шпината и сыра](https://www.russianfood.com/recipes/recipe.php?rid=174625) |     |
+
+[![Фото к рецепту: Бутерброды "Змейки" с намазкой из шпината и сыра](//img1.russianfood.com/dycontent/images_upl/757/sm_756154.jpg "Фото к рецепту: Бутерброды "Змейки" с намазкой из шпината и сыра")](https://www.russianfood.com/recipes/recipe.php?rid=174625)
+
+Изысканное сочетание припущенного с луком и чесноком шпината и творожного сыра. Измельчённые блендером ингредиенты выкладываются на хлеб в виде змеек, маслины и морковь придают образу завершённость. Такие закусочные бутерброды – отличная идея для встречи Нового года.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174625)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174625#comments) | 02.12.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты › [Новогодние рецепты на новогодний стол 2025 - год Змеи](https://www.russianfood.com/themes/?theme_id=30)<br><br>[Салат "Змея" с курицей, плавленым сыром и яблоками](https://www.russianfood.com/recipes/recipe.php?rid=174588) |     |
+
+[![Фото к рецепту: Салат "Змея" с курицей, плавленым сыром и яблоками](//img1.russianfood.com/dycontent/images_upl/756/sm_755699.jpg "Фото к рецепту: Салат "Змея" с курицей, плавленым сыром и яблоками")](https://www.russianfood.com/recipes/recipe.php?rid=174588)
+
+Идеальное сочетание куриного филе с плавленым сыром, яйцами, орехами и яблоками. Продукты измельчаются, сдабриваются соком лимона и майонезом. Сам салат выкладывается на блюдо в форме символа Нового года – Змеи. Маслины и маринованные огурцы выступают не только декором, но и гармонично дополняют общую вкусовую гамму.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174588)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174588#comments) | 02.12.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Рулетики из сельди, с плавленым сыром и солёными огурцами](https://www.russianfood.com/recipes/recipe.php?rid=174565) |     |
+
+[![Фото к рецепту: Рулетики из сельди, с плавленым сыром и солёными огурцами](//img1.russianfood.com/dycontent/images_upl/749/sm_748703.jpg "Фото к рецепту: Рулетики из сельди, с плавленым сыром и солёными огурцами")](https://www.russianfood.com/recipes/recipe.php?rid=174565)
+
+Если обычную сельдь завернуть рулетом с начинкой из огурцов, сыра и сладкого перца, то получится изысканная закуска. Такие рулетики из сельди станут необычным акцентом на праздничном столе.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174565)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [ZNAIKA](https://www.russianfood.com/blogs/?id=12414) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174565#comments) | 02.12.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Грушевый пирог с заварным кремом](https://www.russianfood.com/recipes/recipe.php?rid=174611) |     |
+
+[![Фото к рецепту: Грушевый пирог с заварным кремом](//img1.russianfood.com/dycontent/images_upl/747/sm_746516.jpg "Фото к рецепту: Грушевый пирог с заварным кремом")](https://www.russianfood.com/recipes/recipe.php?rid=174611)
+
+Ароматный и вкусный пирог с сочными сладкими грушами и нежным заварным кремом. Тесто замешивается на молоке и растительном масле, с добавлением кусочков груш. Крем выкладывается поверх теста и аппетитно румянится в духовке. Такой пирог с лёгкостью заменит торт на праздничном столе.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174611)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [ZNAIKA](https://www.russianfood.com/blogs/?id=12414) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174611#comments) | 02.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -328,62 +381,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [HomeRecipes](https://www.russianfood.com/blogs/?id=300916) | _![](/images/blank.gif)_7 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174973#comments) | 30.11.24 |     |
 
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Домашнее меню станет богаче. Лучшие рецепты НА ВЫХОДНЫЕ №24-48](https://www.russianfood.com/reading/?post_id=22939) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/741/sm_740689.jpg)](https://www.russianfood.com/reading/?post_id=22939)
-
-Капустные котлеты с грибами. Ризотто с печенью. Голубцы с пшеном. Картофельная запеканка с чечевицей и грибами. Красная капуста с яблоком и грибами. Тефтели в апельсиновом соусе. Мясные тефтели с бататом.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22939)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты на выходные](https://www.russianfood.com/blogs/?id=325002) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22939#comments) | 29.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Аппетитные идеи к празднику. Лучшие рецепты на Новый год (93)](https://www.russianfood.com/reading/?post_id=22938) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/557/sm_556175.jpg)](https://www.russianfood.com/reading/?post_id=22938)
-
-Салат с курицей, ананасами и грибами. Тефтели из грибов, овощей и риса. Рыбный рулет с яйцами и луком. Пирожные с бананом и заварным кремом. Картофельные зразы с маринованными огурцами.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22938)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты на Новый год](https://www.russianfood.com/blogs/?id=338420) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22938#comments) | 29.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Для уютного настроения. Лучшие рецепты ПИРОГОВ (70)](https://www.russianfood.com/reading/?post_id=22935) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/722/sm_721649.jpg)](https://www.russianfood.com/reading/?post_id=22935)
-
-Индийские лепёшки наан с сыром. Творожный пирог с грушами. Пирог с виноградом и цедрой грейпфрута. Яблочно-луковый песочный пирог. Масляно-заварной бисквит.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22935)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22935#comments) | 29.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Согревают с настроением.) Лучшие СУПЫ №24-48](https://www.russianfood.com/reading/?post_id=22933) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/707/sm_706753.jpg)](https://www.russianfood.com/reading/?post_id=22933)
-
-Суп с говядиной, колбасками и грибами. Сливочный суп с фаршем и солёными огурцами. Зелёный борщ со шпинатом. Суп "Чизбургер". Сливочный суп с грибами и фрикадельками. Суп с грибами, тыквой и булгуром. Крем-суп из маринованных огурцов.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22933)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие супы](https://www.russianfood.com/blogs/?id=325357) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22933#comments) | 28.11.24 |     |
-
 |     |
 | --- |
 | ← Предыдущая \| [Следующая →](https://www.russianfood.com/?page=2) |
@@ -453,10 +450,10 @@
 
 Новые рецепты:
 
-|     |
-| --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/749/alt1_748664.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174576) |
-| [Хумус из фасоли](https://www.russianfood.com/recipes/recipe.php?rid=174576) |
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| [![](//img1.russianfood.com/dycontent/images_upl/749/alt1_748664.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174576) | [![](//img1.russianfood.com/dycontent/images_upl/747/alt1_746516.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174611) | [![](//img1.russianfood.com/dycontent/images_upl/749/alt1_748703.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174565) | [![](//img1.russianfood.com/dycontent/images_upl/756/alt1_755699.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174588) | [![](//img1.russianfood.com/dycontent/images_upl/757/alt1_756154.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174625) |
+| [Хумус из фасоли](https://www.russianfood.com/recipes/recipe.php?rid=174576) | [Грушевый пирог с заварным кремом](https://www.russianfood.com/recipes/recipe.php?rid=174611) | [Рулетики из сельди, с плавленым сыром и солёными огурцами](https://www.russianfood.com/recipes/recipe.php?rid=174565) | [Салат "Змея" с курицей, плавленым сыром и яблоками](https://www.russianfood.com/recipes/recipe.php?rid=174588) | [Бутерброды "Змейки" с намазкой из шпината и сыра](https://www.russianfood.com/recipes/recipe.php?rid=174625) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -473,4 +470,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(148)
+(97)
