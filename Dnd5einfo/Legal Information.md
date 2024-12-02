@@ -231,7 +231,7 @@
 
 Search for:  
 
-[![DriveThruRPG](https://dnd5e.info/wp-content/uploads/2019/10/affiliatebanner3.png)](https://www.drivethrurpg.com/browse.php?affiliate_id=32567)
+[![DriveThruRPG](https://dnd5e.info/wp-content/uploads/2019/10/OldSchoolRPGs-Banner.gif)](https://www.drivethrurpg.com/browse.php?filters=0_0_1300_0_0&affiliate_id=32567)
 
 [![DnD5e](https://dnd5e.info/wp-content/uploads/2019/06/DnD5e-Banner.jpg)](https://dnd5e.info/)
 
