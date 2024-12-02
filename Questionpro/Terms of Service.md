@@ -357,6 +357,8 @@
 * [Data Quality Terminates](https://www.questionpro.com/help/data-quality-terminates.html)
 * [Matrix Heatmap Chart](https://www.questionpro.com/help/matrix-heatmap-chart.html)
 * [Column proportions test](https://www.questionpro.com/help/column-proportions-test.html)
+* [Response Identifier](https://www.questionpro.com/help/response-identifier.html)
+* [TURF Reach Analysis](https://www.questionpro.com/help/TURF-Reach.html)
 
 #### [Text analysis _arrow\_right_](#collapse6285)
 
@@ -414,6 +416,7 @@
 * [Integrate QuestionPro with SONA credit management](https://www.questionpro.com/help/SONA.html)
 * [Copper CRM Integration](https://www.questionpro.com/help/copper-crm-integration.html)
 * [Freshsales CRM Integration](https://www.questionpro.com/help/freshsales-crm-integration.html)
+* [Integrations](https://www.questionpro.com/help/account-integrations.html)
 
 #### [Marketing _arrow\_right_](#collapse6389)
 
@@ -426,7 +429,7 @@
 * [Google Analytics integration](https://www.questionpro.com/help/google-analytics-integration.html)
 * [Google Sheets integration](https://www.questionpro.com/help/google-sheets-integration.html)
 * [IVR integration](https://www.questionpro.com/help/dialogtech-integration-ivr.html)
-* [Qualtrics data import](https://www.questionpro.com/help/qualtrics-data-import.html)
+* [Qualtrics data import - QSF](https://www.questionpro.com/help/qualtrics-data-import.html)
 * [Prolific Integration](https://www.questionpro.com/help/Prolific-Integration.html)
 * [Nvivo Integration](https://www.questionpro.com/help/Nvivo.html)
 
