@@ -67,6 +67,7 @@ Account
 * [Settings](https://www.splitwise.com/account/settings)
 * [Splitwise Pro](https://www.splitwise.com/subscriptions/new)
 * [Splitwise Pay](https://www.splitwise.com/pay)
+* [Splitwise Card](https://www.splitwise.com/card)
 
 More
 
