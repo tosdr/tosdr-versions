@@ -117,63 +117,61 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Impossible to run our businesses without IO
-> -------------------------------------------
+> Wish I started ages ago!
+> ------------------------
 > 
-> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
->   
-> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
->   
-> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
->   
-> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
+> I just want to compliment you and your team for an amazing back office software.
+> 
+> I have been struggling with a proper invoicing solution for six months now (to make time each month)
+> 
+> I just wish I started using Invoices Online ages ago.
 
-Kobus Venter
+Terri Winfield
 
-![valued client Lindani Protection Services & Projects](https://www.invoicesonline.co.za/scripts/image.php?bid=8265&file=logo_300_100&type=&fe=bc2d0d37fd98c0a867b7d67e4fb9db763efbde82cd20b96d0b80bee1be46468a&c=156363561)  
-Lindani Protection Services & Projects
+![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=4d860163fa46f4b37d316e6c812e0ad5c6ffcffa29a6fffe5ba2d68adccf72e3&c=26209344)  
+webb it services
 
-![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=bc2d0d37fd98c0a867b7d67e4fb9db763efbde82cd20b96d0b80bee1be46468a&c=123277371)  
-Import Maaw
+![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=4d860163fa46f4b37d316e6c812e0ad5c6ffcffa29a6fffe5ba2d68adccf72e3&c=91078731)  
+Goju-Ryu Pretoria East
 
-![valued client One2b](https://www.invoicesonline.co.za/scripts/image.php?bid=4093&file=logo_300_100&type=&fe=bc2d0d37fd98c0a867b7d67e4fb9db763efbde82cd20b96d0b80bee1be46468a&c=88976559)  
-One2b
+![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=4d860163fa46f4b37d316e6c812e0ad5c6ffcffa29a6fffe5ba2d68adccf72e3&c=112717036)  
+Enhle Oarabile Kea
 
-![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=bc2d0d37fd98c0a867b7d67e4fb9db763efbde82cd20b96d0b80bee1be46468a&c=57133672)  
-Bloem Rugby Academy PTY (Ltd)
+![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=4d860163fa46f4b37d316e6c812e0ad5c6ffcffa29a6fffe5ba2d68adccf72e3&c=67929553)  
+Laurinda Pretorius Spraak en Drama Ateljee
 
-![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=bc2d0d37fd98c0a867b7d67e4fb9db763efbde82cd20b96d0b80bee1be46468a&c=213566941)  
-Imhoff Equestrian Centre
+![valued client Calonet ](https://www.invoicesonline.co.za/scripts/image.php?bid=3324&file=logo_300_100&type=&fe=4d860163fa46f4b37d316e6c812e0ad5c6ffcffa29a6fffe5ba2d68adccf72e3&c=135847744)  
+Calonet
 
-![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=bc2d0d37fd98c0a867b7d67e4fb9db763efbde82cd20b96d0b80bee1be46468a&c=10721671)  
-CLEVER STUDENTS
+![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=4d860163fa46f4b37d316e6c812e0ad5c6ffcffa29a6fffe5ba2d68adccf72e3&c=168684715)  
+RADIO TYGERBERG 104FM NPC
 
-![valued client Moulded Wax SA - The Candle Store](https://www.invoicesonline.co.za/scripts/image.php?bid=8218&file=logo_300_100&type=&fe=bc2d0d37fd98c0a867b7d67e4fb9db763efbde82cd20b96d0b80bee1be46468a&c=54172263)  
-Moulded Wax SA - The Candle Store
+![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=4d860163fa46f4b37d316e6c812e0ad5c6ffcffa29a6fffe5ba2d68adccf72e3&c=164511537)  
+On The Spot Marketing (Pty) Ltd t/a 24hrprinting
 
-![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=bc2d0d37fd98c0a867b7d67e4fb9db763efbde82cd20b96d0b80bee1be46468a&c=179150780)  
-Repairs In Motion
+![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=4d860163fa46f4b37d316e6c812e0ad5c6ffcffa29a6fffe5ba2d68adccf72e3&c=19627282)  
+Kainos (Pty) Ltd
 
-![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=bc2d0d37fd98c0a867b7d67e4fb9db763efbde82cd20b96d0b80bee1be46468a&c=102145751)  
-Camp 4 Africa (Pty) Ltd
+![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=4d860163fa46f4b37d316e6c812e0ad5c6ffcffa29a6fffe5ba2d68adccf72e3&c=111930638)  
+Fox Alarms & Security
 
-![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=bc2d0d37fd98c0a867b7d67e4fb9db763efbde82cd20b96d0b80bee1be46468a&c=130094790)  
-NJR ICT Services (Pty) Ltd
+![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=4d860163fa46f4b37d316e6c812e0ad5c6ffcffa29a6fffe5ba2d68adccf72e3&c=163538899)  
+Entidee Enterprise PTY (ltd)
 
-![valued client FLIPS AUTO ELECTRICAL ](https://www.invoicesonline.co.za/scripts/image.php?bid=8725&file=logo_300_100&type=&fe=bc2d0d37fd98c0a867b7d67e4fb9db763efbde82cd20b96d0b80bee1be46468a&c=8551951)  
-FLIPS AUTO ELECTRICAL
+![valued client Atalie Scented Candles Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7239&file=logo_300_100&type=&fe=4d860163fa46f4b37d316e6c812e0ad5c6ffcffa29a6fffe5ba2d68adccf72e3&c=150303651)  
+Atalie Scented Candles Pty Ltd
 
-![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=bc2d0d37fd98c0a867b7d67e4fb9db763efbde82cd20b96d0b80bee1be46468a&c=96748876)  
-Oukraal Merino's
-
-![valued client Cooper Power](https://www.invoicesonline.co.za/scripts/image.php?bid=8689&file=logo_300_100&type=&fe=bc2d0d37fd98c0a867b7d67e4fb9db763efbde82cd20b96d0b80bee1be46468a&c=11030539)  
+![valued client Cooper Power](https://www.invoicesonline.co.za/scripts/image.php?bid=8689&file=logo_300_100&type=&fe=4d860163fa46f4b37d316e6c812e0ad5c6ffcffa29a6fffe5ba2d68adccf72e3&c=180634810)  
 Cooper Power
 
-![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=bc2d0d37fd98c0a867b7d67e4fb9db763efbde82cd20b96d0b80bee1be46468a&c=96440016)  
-NGB HOLDINGS PTY LTD
+![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=4d860163fa46f4b37d316e6c812e0ad5c6ffcffa29a6fffe5ba2d68adccf72e3&c=46339827)  
+BD Maintenance
 
-![valued client African Roots](https://www.invoicesonline.co.za/scripts/image.php?bid=1000&file=logo_300_100&type=&fe=bc2d0d37fd98c0a867b7d67e4fb9db763efbde82cd20b96d0b80bee1be46468a&c=142448117)  
-African Roots
+![valued client NC Labour Hire](https://www.invoicesonline.co.za/scripts/image.php?bid=8545&file=logo_300_100&type=&fe=4d860163fa46f4b37d316e6c812e0ad5c6ffcffa29a6fffe5ba2d68adccf72e3&c=35290185)  
+NC Labour Hire
+
+![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=4d860163fa46f4b37d316e6c812e0ad5c6ffcffa29a6fffe5ba2d68adccf72e3&c=168494433)  
+Know Informatics
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
