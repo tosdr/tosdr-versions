@@ -144,6 +144,9 @@ KFH Auto
 
 ### _![](/dam/jcr:7b0767f0-8c43-492d-8cb8-c39388f61df9/menu-icon6.png)_ [Investment](https://www.kfh.com/en/home/Personal/Investments.html)
 
+* [Investment Deposits](https://www.kfh.com/en/home/Personal/Investments/Short-Term.html)
+* [Long Term Investment Plans](https://www.kfh.com/en/home/Personal/Investments/Long-Term-Investment-Plans.html)
+
 ### _![](/dam/jcr:905bf91f-53ad-47b9-adcf-41588b6fae68/new%20card%20pic%20icon.png)_ [Cards](https://www.kfh.com/en/home/Personal/Cards.html)
 
 * [Credit Cards](https://www.kfh.com/en/home/Personal/Cards/credit-cards.html)
@@ -185,7 +188,7 @@ _![](/dam/jcr:1205b642-1de8-4ede-a150-721c5882a2a7/user-top.png)_ Customer Login
 * [A](javascript:void(0))
 * [A](javascript:void(0))
 * [](javascript:void(0))
-* [Listen](https://app-as.readspeaker.com/cgi-bin/rsent?customerid=9156&lang=en_uk&readid=mainContent&url=https%3A%2F%2Fwww.kfh.com%2Fen%2Fhome%2FPersonal%2FCookies-and-Data-Privacy-Notice.html%3Bjsessionid%3DdGGFJu7AKOKEkjuG5Ka_bKNgU9LKDpRwEwOHgJp-sR5OyJVl55sT!-1868320580 "Listen to this page using ReadSpeaker")
+* [Listen](https://app-as.readspeaker.com/cgi-bin/rsent?customerid=9156&lang=en_uk&readid=mainContent&url=https%3A%2F%2Fwww.kfh.com%2Fen%2Fhome%2FPersonal%2FCookies-and-Data-Privacy-Notice.html%3Bjsessionid%3DYIWGYi5U-iiodOe5_NxCUwcDKp8W-DIN1WpkXHMDsvd5TX4TZV7x!1651881605 "Listen to this page using ReadSpeaker")
     
 
 Cookie Notice
