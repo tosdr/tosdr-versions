@@ -34,8 +34,8 @@ If you have several workflows or branches, you can adapt the URL by hand in a pr
 
 Link to a particular artifact
 
-If GitHub gave you a link such as [https://github.com/crystal-lang/crystal/suites/31389282978/artifacts/2243667737](https://github.com/crystal-lang/crystal/suites/31389282978/artifacts/2243667737),  
-you can just change the prefix to [https://nightly.link/crystal-lang/crystal/suites/31389282978/artifacts/2243667737](https://nightly.link/crystal-lang/crystal/suites/31389282978/artifacts/2243667737),  
+If GitHub gave you a link such as [https://github.com/crystal-lang/crystal/suites/31528846369/artifacts/2258880432](https://github.com/crystal-lang/crystal/suites/31528846369/artifacts/2258880432),  
+you can just change the prefix to [https://nightly.link/crystal-lang/crystal/suites/31528846369/artifacts/2258880432](https://nightly.link/crystal-lang/crystal/suites/31528846369/artifacts/2258880432),  
 and you get a download URL that works the same but doesn't give a "404" error to users who aren't logged into GitHub.
 
 Or, paste it into the field above.
@@ -44,9 +44,9 @@ Extra links for a particular run
 
 A _run_ is basically a collection of _jobs_. Even though it's the job that produces artifacts, they get associated with the parent run.
 
-Example run: [https://github.com/crystal-lang/crystal/actions/runs/12047853315](https://github.com/crystal-lang/crystal/actions/runs/12047853315).  
+Example run: [https://github.com/crystal-lang/crystal/actions/runs/12109236953](https://github.com/crystal-lang/crystal/actions/runs/12109236953).  
 You _have to_ provide the _run_ to nightly.link if you want to find the artifacts.  
-Again, you can just change the prefix like [https://nightly.link/crystal-lang/crystal/actions/runs/12047853315](https://nightly.link/crystal-lang/crystal/actions/runs/12047853315) to get there.  
+Again, you can just change the prefix like [https://nightly.link/crystal-lang/crystal/actions/runs/12109236953](https://nightly.link/crystal-lang/crystal/actions/runs/12109236953) to get there.  
 
 If, instead, you click into a _job_, you can access its logs.  
 Example job: [https://github.com/oprypin/nightly.link/runs/1849327325?check\_suite\_focus=true](https://github.com/oprypin/nightly.link/runs/1849327325?check_suite_focus=true)  
