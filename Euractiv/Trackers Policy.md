@@ -109,27 +109,27 @@ Languages: [Français](https://www.euractiv.fr/?post_type=page&p=364525)
 Most recent
 -----------
 
-[01-12-2024
+[02-12-2024
 
-First EU term’s train to Ukraine](https://www.euractiv.com/section/global-europe/news/first-eu-terms-train-to-ukraine/)[01-12-2024
+At least 25 killed as Russian, Syrian jets intensify bombing of Syrian rebel territory](https://www.euractiv.com/section/global-europe/news/at-least-25-killed-as-russian-syrian-jets-intensify-bombing-of-syrian-rebel-territory/)[02-12-2024
 
-EU warns use of force against protestors in Georgia ‘unacceptable’](https://www.euractiv.com/section/global-europe/news/eu-warns-use-of-force-against-protestors-in-georgia-unacceptable/)[01-12-2024
+Protests in Georgia spread as PM defies US condemnation](https://www.euractiv.com/section/global-europe/news/protests-in-georgia-spread-as-pm-defies-us-condemnation/)[02-12-2024
 
-EU’s top diplomat urges Europe to ‘keep all options open’ on Ukraine](https://www.euractiv.com/section/global-europe/news/eus-top-diplomat-urges-europe-to-keep-all-options-open-on-ukraine/)[01-12-2024
+Poland’s PiS protests new school subject, claims it will pervert children](https://www.euractiv.com/section/politics/news/the-capitals-polands-pis-protests-new-school-subject-claims-it-will-pervert-children/)[02-12-2024
 
-Ireland’s centre-right parties close in on re-election, may need new partner](https://www.euractiv.com/section/politics/news/irelands-centre-right-parties-close-in-on-re-election-may-need-new-partner/)[01-12-2024
+Biden signs presidential pardon for his son Hunter](https://www.euractiv.com/section/global-europe/news/biden-signs-presidential-pardon-for-his-son-hunter/)[02-12-2024
 
-New EU top officials Costa, Kallas, Kos kick off mandate with support visit to Kyiv](https://www.euractiv.com/section/global-europe/news/new-eu-top-officials-costa-kallas-kos-kick-off-mandate-with-support-visit-to-kyiv/)[01-12-2024
+Brussels halts EU recovery plan payment for Bulgaria](https://www.euractiv.com/section/politics/news/brussels-halts-eu-recovery-plan-payment-for-bulgaria/)[02-12-2024
 
-Syrian rebels sweep into Aleppo, Russia conducts strikes in support of Assad](https://www.euractiv.com/section/global-europe/news/syrian-rebels-sweep-into-aleppo-russia-conducts-strikes-in-support-of-assad/)[01-12-2024
+Global plastic treaty talks end with no deal](https://www.euractiv.com/section/eet/news/global-plastic-treaty-talks-end-with-no-deal/)[02-12-2024
 
-Clashes erupt outside Georgia parliament between pro-EU protesters, police](https://www.euractiv.com/section/global-europe/news/clashes-erupt-outside-georgia-parliament-between-pro-eu-protesters-police/)[01-12-2024
+Seven out of 10 Romanians voted for mainstream parties](https://www.euractiv.com/section/politics/news/seven-out-of-10-romanians-voted-for-mainstream-parties/)[02-12-2024
 
-Romania’s far right expected to come first in parliamentary election](https://www.euractiv.com/section/politics/news/romanias-far-right-expected-to-come-first-in-parliamentary-election/)[30-11-2024
+Slovak opposition leader ready to discuss snap elections](https://www.euractiv.com/section/politics/news/slovak-opposition-leader-ready-to-discuss-snap-elections/)[02-12-2024
 
-Democracy’s next great challenge – strengthening institutions to protect journalism](https://www.euractiv.com/section/politics/news/democracys-greatest-challenge-strengthening-institutions-to-safeguard-journalism/)[30-11-2024
+Spanish socialists unite behind Sánchez to ‘resist’ right, far-right](https://www.euractiv.com/section/politics/news/spanish-socialists-unite-behind-sanchez-to-resist-right-far-right/)[02-12-2024
 
-Bauhaus projects are maturing, lessons from von der Leyen’s marquee strategy](https://www.euractiv.com/section/politics/news/bauhaus-projects-after-three-creative-years-lessons-from-von-der-leyens-marquee-strategy/)
+Ukraine’s Zelenskyy looks to strengthen position with arms, NATO invite before any Russia talks](https://www.euractiv.com/section/global-europe/news/ukraines-zelenskyy-looks-to-strengthen-position-with-arms-nato-invite-before-any-russia-talks/)
 
 ###### Advertisement
 
