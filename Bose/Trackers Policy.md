@@ -1,12 +1,12 @@
 [Skip to main content](#maincontent) [Skip to Support Chat](#) [Skip to footer content](#footercontent) [Skip to Accessibility Statement](https://www.bose.com/legal/accessibility)
 
-LOWEST PRICE EVER: $229 for Ultra Open Earbuds. [Buy Now](https://www.bose.com/ULT-HEADPHONEOPN.html?dwvar_ULT-HEADPHONEOPN_color=SUNSET%20IRIDESCENT&quantity=1)
+DEAL OF THE DAY: Get the Orange SoundLink Micro for $69 today only. [Buy now](https://www.bose.com/SLMC-SPEAKERWIRELESS.html?dwvar_SLMC-SPEAKERWIRELESS_color=BRIGHT+ORANGE&quantity=1)
 
-BLACK FRIDAY DEALS: Save up to 40% on bestsellers. [Shop](https://www.bose.com/c/black-friday-deals)
+LOWEST PRICE EVER: $229 for Ultra Open Earbuds. [Buy now](https://www.bose.com/ULT-HEADPHONEOPN.html?dwvar_ULT-HEADPHONEOPN_color=SUNSET+IRIDESCENT&quantity=1)
 
-LIMITED-TIME OFFER: Get our lowest holiday price on select QuietComfort Ultra Headphones. [Buy now](https://www.bose.com/QCUH-HEADPHONEARN.html?dwvar_QCUH-HEADPHONEARN_color=DIAMOND+60TH+EDITION&quantity=1)
+CYBER MONDAY DEALS: Save up to 40% on bestsellers. [Shop](https://www.bose.com/c/cyber-monday-deals)
 
-LIMITED-TIME OFFER: Get QuietComfort Earbuds for just $129! [Buy now](https://www.bose.com/QCEARB24-HEADPHONEIN.html?dwvar_QCEARB24-HEADPHONEIN_color=WHITE%20SMOKE&quantity=1)
+LAST CHANCE OFFER: Get our lowest holiday price on select QuietComfort Ultra Headphones. [Buy now](https://www.bose.com/QCUH-HEADPHONEARN.html?dwvar_QCUH-HEADPHONEARN_color=DIAMOND+60TH+EDITION)
 
 [Cancel](#)
 
@@ -14,7 +14,7 @@ Back
 
 * [Holiday](#)
     
-    * [New! Black Friday Deals](https://www.bose.com/c/black-friday-deals)
+    * [New! Cyber Monday Deals](https://www.bose.com/c/cyber-monday-deals)
     * [Gift Guide](https://www.bose.com/holiday-gift-guide)
     * [Exclusive Drops](https://www.bose.com/c/exclusives)
     * [Gift Sets](https://www.bose.com/c/sets)
@@ -24,21 +24,21 @@ Back
     
     [![](https://assets.bosecreative.com/m/78dd9abd99af0a8d/webimage-SF_NavFlyout_Holiday_Turkey-6_Cross-cat_Mobile.png)
     
-    ### Black Friday Extended!](https://www.bose.com/c/black-friday-deals "SHOP")
+    ### Cyber Monday Deals](https://www.bose.com/c/cyber-monday-deals "SHOP")
     
      
     
-    Extended Black Friday Deals!
-    ----------------------------
+    Cyber Monday Deals
+    ------------------
     
-    Act fast to get bestsellers at up to 40% off.
+    Save up to 40% on our best holiday deals.
     
-    [SHOP](https://www.bose.com/c/black-friday-deals "SHOP")
+    [SHOP](https://www.bose.com/c/cyber-monday-deals "SHOP")
     
 
 * [Shop](#)
     
-    * [New! Black Friday Deals](https://www.bose.com/c/black-friday-deals)
+    * [New! Cyber Monday Deals](https://www.bose.com/c/cyber-monday-deals)
     * [New & Exclusive](https://www.bose.com/c/new-arrivals)
     * [Headphones](https://www.bose.com/c/headphones)
     * [Earbuds](https://www.bose.com/c/earbuds)
@@ -107,20 +107,18 @@ Back
     * [Gift Sets](https://www.bose.com/c/sets)
     * [Gift Cards](https://www.bose.com/gift-cards)
     
-    [![](https://assets.bosecreative.com/m/30b4365343cced7f/webimage-QCUHLE25-Diamond_SF_NavFlyout_T6_Mobile.png)
+    [![](https://assets.bosecreative.com/m/3b7883aa55bd220d/webimage-SF_NavFlyout_Holiday_Turkey-6_Orange-Micro_Mobile.png)
     
-    QuietComfort Ultra Headphones
-    
-    ### LIMITED-TIME OFFER](https://www.bose.com/QCUH-HEADPHONEARN.html?dwvar_QCUH-HEADPHONEARN_color=DIAMOND+60TH+EDITION&quantity=1 "BUY NOW")
+    ### Cyber Monday Deals](https://www.bose.com/c/cyber-monday-deals "BUY NOW")
     
      
     
-    This week only
-    --------------
+    Cyber Monday Deals
+    ------------------
     
-    Snag our lowest price of the season on select colors of QuietComfort Ultra Headphones.
+    Get the Orange SoundLink Micro for $69 & save up to 40% on our holiday deals.
     
-    [BUY NOW](https://www.bose.com/QCUH-HEADPHONEARN.html?dwvar_QCUH-HEADPHONEARN_color=DIAMOND+60TH+EDITION&quantity=1 "BUY NOW")
+    [BUY NOW](https://www.bose.com/SLMC-SPEAKERWIRELESS.html?dwvar_SLMC-SPEAKERWIRELESS_color=BRIGHT+ORANGE&quantity=1 "BUY NOW")
     
 
 * [Explore](#)
@@ -190,7 +188,7 @@ Back
 
 [![](https://assets.bosecreative.com/m/78dd9abd99af0a8d/webimage-SF_NavFlyout_Holiday_Turkey-6_Cross-cat_Mobile.png)
 
-### Black Friday Extended!](https://www.bose.com/c/black-friday-deals "SHOP")
+### Cyber Monday Deals](https://www.bose.com/c/cyber-monday-deals "SHOP")
 
 [![Bose](/on/demandware.static/Sites-Bose_US-Site/-/default/dwaf0ae0f9/images/logo.svg)](https://www.bose.com/home "Bose Home")
 
