@@ -20,16 +20,16 @@ Monday, December 2 2024
 
 Latest
 
+* [How To Use Tabs in Google Docs](https://digitpatrox.com/how-to-use-tabs-in-google-docs/)
+* [Why I Use a Privacy Screen When Working in Public](https://digitpatrox.com/why-i-use-a-privacy-screen-when-working-in-public/)
+* [New on Netflix: 5 movies and shows to watch this week (Dec. 2-8)](https://digitpatrox.com/new-on-netflix-5-movies-and-shows-to-watch-this-week-dec-2-8/)
+* [The 100 best Cyber Monday deals under $100](https://digitpatrox.com/the-100-best-cyber-monday-deals-under-100/)
+* [Anime Realms Codes (December 2024)](https://digitpatrox.com/anime-realms-codes-december-2024/)
+* [I Spent a Year Testing Smart Home Devices, and This Is What I’d Buy Today for Black Friday](https://digitpatrox.com/i-spent-a-year-testing-smart-home-devices-and-this-is-what-id-buy-today-for-black-friday/)
 * [Can Using Gas With 15 Percent Ethanol Damage Your Car?](https://digitpatrox.com/can-using-gas-with-15-percent-ethanol-damage-your-car/)
 * [What Happened to the Android One Program?](https://digitpatrox.com/what-happened-to-the-android-one-program/)
 * [NYT Strands today — hints, spangram and answers for game #274 (Monday, December 2 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-274-monday-december-2-2024/)
 * [The Google Pixel 8A is a killer deal for $399](https://digitpatrox.com/the-google-pixel-8a-is-a-killer-deal-for-399/)
-* [How to Catch the Turkey in Fisch Roblox](https://digitpatrox.com/how-to-catch-the-turkey-in-fisch-roblox/)
-* [The Mammotion Yuka 1500 Robot Mower Is $400 Off for Black Friday](https://digitpatrox.com/the-mammotion-yuka-1500-robot-mower-is-400-off-for-black-friday/)
-* [Why Tires Lose Pressure and Appear to Go Flat in Cold Weather](https://digitpatrox.com/why-tires-lose-pressure-and-appear-to-go-flat-in-cold-weather/)
-* [The 7 Settings I Tweaked First When Moving to Bluesky From X](https://digitpatrox.com/the-7-settings-i-tweaked-first-when-moving-to-bluesky-from-x/)
-* [Act fast! Roborock is taking $700 off its top-rated robot vacuums](https://digitpatrox.com/act-fast-roborock-is-taking-700-off-its-top-rated-robot-vacuums/)
-* [Here are some Verge favorites that are on sale for Cyber Monday](https://digitpatrox.com/here-are-some-verge-favorites-that-are-on-sale-for-cyber-monday/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1665668929/prod/content/dam/CRO-Images-2022/Cars/10October/CR-Cars-InlineHero-Can-Using-Gas-With-15-Percent-Ethanol-Damage-Your-Car-1022)](https://digitpatrox.com/can-using-gas-with-15-percent-ethanol-damage-your-car/)
+* [![](https://lifehacker.com/imagery/articles/01JDVYV1P6Y86J0KD0CC3JV9KA/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/how-to-use-tabs-in-google-docs/)
     
-    [Can Using Gas With 15 Percent Ethanol Damage Your Car?](https://digitpatrox.com/can-using-gas-with-15-percent-ethanol-damage-your-car/)
+    [How To Use Tabs in Google Docs](https://digitpatrox.com/how-to-use-tabs-in-google-docs/)
     
-    9 minutes ago
+    15 minutes ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/11/android-one-logo-with-question-marks-around.jpg)](https://digitpatrox.com/what-happened-to-the-android-one-program/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/a-hooded-person-hacking-data-on-a-laptop-with-several-warning-signs-around.jpg)](https://digitpatrox.com/why-i-use-a-privacy-screen-when-working-in-public/)
     
-    [What Happened to the Android One Program?](https://digitpatrox.com/what-happened-to-the-android-one-program/)
+    [Why I Use a Privacy Screen When Working in Public](https://digitpatrox.com/why-i-use-a-privacy-screen-when-working-in-public/)
     
-    10 minutes ago
+    26 minutes ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/TPjnbnuxSnR2Hxho3tzVYJ-1200-80.jpg)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-274-monday-december-2-2024/)
+* [![](https://cdn.mos.cms.futurecdn.net/aPKbLrAFXDms9FNYpnU594-1200-80.jpg)](https://digitpatrox.com/new-on-netflix-5-movies-and-shows-to-watch-this-week-dec-2-8/)
     
-    [NYT Strands today — hints, spangram and answers for game #274 (Monday, December 2 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-274-monday-december-2-2024/)
+    [New on Netflix: 5 movies and shows to watch this week (Dec. 2-8)](https://digitpatrox.com/new-on-netflix-5-movies-and-shows-to-watch-this-week-dec-2-8/)
     
-    56 minutes ago
+    1 hour ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/EMEIp3jRc4KUoEplE4Xw_X_7W4c=/0x0:2000x1333/1200x628/filters:focal(1000x667:1001x668)/cdn.vox-cdn.com/uploads/chorus_asset/file/25451801/DSC07458_processed.jpg)](https://digitpatrox.com/the-google-pixel-8a-is-a-killer-deal-for-399/)
+* [![](https://cdn.vox-cdn.com/thumbor/lMa9cL7Lmr8RuXBpM9l2Bt9JGsA=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25406199/DSCF6920.jpg)](https://digitpatrox.com/the-100-best-cyber-monday-deals-under-100/)
     
-    [The Google Pixel 8A is a killer deal for $399](https://digitpatrox.com/the-google-pixel-8a-is-a-killer-deal-for-399/)
+    [The 100 best Cyber Monday deals under $100](https://digitpatrox.com/the-100-best-cyber-monday-deals-under-100/)
     
-    2 hours ago
+    3 hours ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/12/Roblox-Fisch-Turkey-Featured.jpg)](https://digitpatrox.com/how-to-catch-the-turkey-in-fisch-roblox/)
+* [![](https://beebom.com/wp-content/uploads/2024/11/Anime-Realms-Roblox-cover.jpg)](https://digitpatrox.com/anime-realms-codes-december-2024/)
     
-    [How to Catch the Turkey in Fisch Roblox](https://digitpatrox.com/how-to-catch-the-turkey-in-fisch-roblox/)
+    [Anime Realms Codes (December 2024)](https://digitpatrox.com/anime-realms-codes-december-2024/)
     
     3 hours ago
     
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [9 minutes ago
+* [15 minutes ago
     
-    ### Can Using Gas With 15 Percent Ethanol Damage Your Car?](https://digitpatrox.com/can-using-gas-with-15-percent-ethanol-damage-your-car/)
-* [10 minutes ago
+    ### How To Use Tabs in Google Docs](https://digitpatrox.com/how-to-use-tabs-in-google-docs/)
+* [26 minutes ago
     
-    ### What Happened to the Android One Program?](https://digitpatrox.com/what-happened-to-the-android-one-program/)
-* [56 minutes ago
+    ### Why I Use a Privacy Screen When Working in Public](https://digitpatrox.com/why-i-use-a-privacy-screen-when-working-in-public/)
+* [1 hour ago
     
-    ### NYT Strands today — hints, spangram and answers for game #274 (Monday, December 2 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-274-monday-december-2-2024/)
+    ### New on Netflix: 5 movies and shows to watch this week (Dec. 2-8)](https://digitpatrox.com/new-on-netflix-5-movies-and-shows-to-watch-this-week-dec-2-8/)
 
 Most Popular Topics
 
-* [5 days ago
+* [October 19, 2024
     
-    ### New on Netflix in December 2024 — all the new shows and movies you need to watch](https://digitpatrox.com/new-on-netflix-in-december-2024-all-the-new-shows-and-movies-you-need-to-watch/)
+    ### Penguin Random House books now explicitly say ‘no’ to AI training](https://digitpatrox.com/penguin-random-house-books-now-explicitly-say-no-to-ai-training/)
+* [September 24, 2024
+    
+    ### Seasonic Just Released a Chungus 2,200W PSU](https://digitpatrox.com/seasonic-just-released-a-chungus-2200w-psu/)
 * [2 weeks ago
     
-    ### How to cancel an ExpressVPN subscription (and get a refund)](https://digitpatrox.com/how-to-cancel-an-expressvpn-subscription-and-get-a-refund/)
-* [September 13, 2024
-    
-    ### How to Find People on Snapchat](https://digitpatrox.com/how-to-find-people-on-snapchat/)
+    ### O2 unleashes AI grandma on scammers – Computerworld](https://digitpatrox.com/o2-unleashes-ai-grandma-on-scammers-computerworld/)
 
 Last Modified Topics
 
 * [5 hours ago
     
-    ### Why Tires Lose Pressure and Appear to Go Flat in Cold Weather](https://digitpatrox.com/why-tires-lose-pressure-and-appear-to-go-flat-in-cold-weather/)
+    ### Can Using Gas With 15 Percent Ethanol Damage Your Car?](https://digitpatrox.com/can-using-gas-with-15-percent-ethanol-damage-your-car/)
 * [5 hours ago
     
-    ### The 7 Settings I Tweaked First When Moving to Bluesky From X](https://digitpatrox.com/the-7-settings-i-tweaked-first-when-moving-to-bluesky-from-x/)
+    ### What Happened to the Android One Program?](https://digitpatrox.com/what-happened-to-the-android-one-program/)
 * [6 hours ago
     
-    ### Act fast! Roborock is taking $700 off its top-rated robot vacuums](https://digitpatrox.com/act-fast-roborock-is-taking-700-off-its-top-rated-robot-vacuums/)
+    ### NYT Strands today — hints, spangram and answers for game #274 (Monday, December 2 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-274-monday-december-2-2024/)
 
 Most Viewed Topics
 
+* [August 12, 2024
+    
+    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
 * [August 11, 2024
     
     ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
-* [August 13, 2024
-    
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 * [October 2, 2024
     
     ### The best noise-canceling headphones for 2024](https://digitpatrox.com/the-best-noise-canceling-headphones-for-2024/)
