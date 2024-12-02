@@ -196,63 +196,61 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Impossible to run our businesses without IO
-> -------------------------------------------
+> Wish I started ages ago!
+> ------------------------
 > 
-> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
->   
-> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
->   
-> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
->   
-> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
+> I just want to compliment you and your team for an amazing back office software.
+> 
+> I have been struggling with a proper invoicing solution for six months now (to make time each month)
+> 
+> I just wish I started using Invoices Online ages ago.
 
-Kobus Venter
+Terri Winfield
 
-![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=b1f1203a5447bd9d2d99e255013c7740a89cc031c77700cd127296398b84a259&c=112427124)  
-Oukraal Merino's
+![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=bef88e2e473ea324ec49fb4d2893964b46277c1ba2921cc98e5a4557c8d2f8bf&c=185004036)  
+Kainos (Pty) Ltd
 
-![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=b1f1203a5447bd9d2d99e255013c7740a89cc031c77700cd127296398b84a259&c=107223010)  
-Imhoff Equestrian Centre
+![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=bef88e2e473ea324ec49fb4d2893964b46277c1ba2921cc98e5a4557c8d2f8bf&c=80029942)  
+Sonic Electrical Services PTY Ltd
 
-![valued client Safe Train Mokgethwa (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8103&file=logo_300_100&type=&fe=b1f1203a5447bd9d2d99e255013c7740a89cc031c77700cd127296398b84a259&c=178536094)  
-Safe Train Mokgethwa (PTY) Ltd
+![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=bef88e2e473ea324ec49fb4d2893964b46277c1ba2921cc98e5a4557c8d2f8bf&c=88976557)  
+Sarabi
 
-![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=b1f1203a5447bd9d2d99e255013c7740a89cc031c77700cd127296398b84a259&c=30959500)  
-CBR Verwe/Paints
+![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=bef88e2e473ea324ec49fb4d2893964b46277c1ba2921cc98e5a4557c8d2f8bf&c=111591887)  
+Multi CNC Solutions CC
 
-![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=b1f1203a5447bd9d2d99e255013c7740a89cc031c77700cd127296398b84a259&c=83910654)  
+![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=bef88e2e473ea324ec49fb4d2893964b46277c1ba2921cc98e5a4557c8d2f8bf&c=67920349)  
+Import Maaw
+
+![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=bef88e2e473ea324ec49fb4d2893964b46277c1ba2921cc98e5a4557c8d2f8bf&c=151185160)  
+Goju Ryu Karate Centre
+
+![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=bef88e2e473ea324ec49fb4d2893964b46277c1ba2921cc98e5a4557c8d2f8bf&c=190047624)  
+McKaynine Mobility
+
+![valued client Calonet ](https://www.invoicesonline.co.za/scripts/image.php?bid=3324&file=logo_300_100&type=&fe=bef88e2e473ea324ec49fb4d2893964b46277c1ba2921cc98e5a4557c8d2f8bf&c=190582988)  
+Calonet
+
+![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=bef88e2e473ea324ec49fb4d2893964b46277c1ba2921cc98e5a4557c8d2f8bf&c=20641408)  
+M's Frozen Delights
+
+![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=bef88e2e473ea324ec49fb4d2893964b46277c1ba2921cc98e5a4557c8d2f8bf&c=167005355)  
+Highlands Auto Engineering
+
+![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=bef88e2e473ea324ec49fb4d2893964b46277c1ba2921cc98e5a4557c8d2f8bf&c=177375258)  
+SA Security Brokerz (Pty) Ltd
+
+![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=bef88e2e473ea324ec49fb4d2893964b46277c1ba2921cc98e5a4557c8d2f8bf&c=152958305)  
+Laurinda Pretorius Spraak en Drama Ateljee
+
+![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=bef88e2e473ea324ec49fb4d2893964b46277c1ba2921cc98e5a4557c8d2f8bf&c=149956726)  
 Gemini-IT Group
 
-![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=b1f1203a5447bd9d2d99e255013c7740a89cc031c77700cd127296398b84a259&c=149233623)  
-NWET Pty LTD
+![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=bef88e2e473ea324ec49fb4d2893964b46277c1ba2921cc98e5a4557c8d2f8bf&c=37252079)  
+Wiselink Broadband Pty Ltd
 
-![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=b1f1203a5447bd9d2d99e255013c7740a89cc031c77700cd127296398b84a259&c=37858124)  
-NEW BEGINNINGS DESIGNS
-
-![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=b1f1203a5447bd9d2d99e255013c7740a89cc031c77700cd127296398b84a259&c=213403712)  
-ARCHITEK PTY LTD
-
-![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=b1f1203a5447bd9d2d99e255013c7740a89cc031c77700cd127296398b84a259&c=203318861)  
-WIP Digital Solutions
-
-![valued client Roekeloos Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8320&file=logo_300_100&type=&fe=b1f1203a5447bd9d2d99e255013c7740a89cc031c77700cd127296398b84a259&c=7697804)  
-Roekeloos Group
-
-![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=b1f1203a5447bd9d2d99e255013c7740a89cc031c77700cd127296398b84a259&c=183563648)  
-FRAMED BY ANTON (Pty) Ltd.
-
-![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=b1f1203a5447bd9d2d99e255013c7740a89cc031c77700cd127296398b84a259&c=87364799)  
-Lizzy Pop PTY(Ltd)
-
-![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=b1f1203a5447bd9d2d99e255013c7740a89cc031c77700cd127296398b84a259&c=6502112)  
-Kinetic Power Solutions (Pty) Ltd.
-
-![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=b1f1203a5447bd9d2d99e255013c7740a89cc031c77700cd127296398b84a259&c=54217237)  
-CLEVER STUDENTS
-
-![valued client Super Sound Man (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7403&file=logo_300_100&type=&fe=b1f1203a5447bd9d2d99e255013c7740a89cc031c77700cd127296398b84a259&c=65400798)  
-Super Sound Man (PTY) Ltd
+![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=bef88e2e473ea324ec49fb4d2893964b46277c1ba2921cc98e5a4557c8d2f8bf&c=141410054)  
+PROGRAPHIX PTY LTD
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
