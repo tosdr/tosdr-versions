@@ -26,7 +26,7 @@ Hi. My name is Niklas Pivic. I read and review books that have somehow intereste
 
 14 min read Dec 2, 2024
 
-#### [Noam Chomsky - A Livable Future is Possible'](https://niklas.reviews/noam-chomsky-a-livable-future-is-possible)
+#### [Noam Chomsky - 'A Livable Future is Possible'](https://niklas.reviews/noam-chomsky-a-livable-future-is-possible)
 
 [](https://niklas.reviews/about/)
 
