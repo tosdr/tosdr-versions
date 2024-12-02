@@ -109,6 +109,6 @@ Show your love for KDE! Purchase books, mugs, apparel, and more to support KDE.
 
 [](https://go.kde.org/matrix/#/#kde:kde.org)[](https://www.facebook.com/kde/)[](https://floss.social/@kde)[](https://www.linkedin.com/company/29561/)[](https://www.reddit.com/r/kde/)[](https://www.youtube.com/channel/UCF3I1gf7GcbmAb0mR6vxkZQ)[](https://tube.kockatoo.org/a/kde_community/video-channels)[](https://vk.com/kde_ru)[](https://www.instagram.com/kdecommunity/)
 
-Maintained by [KDE Webmasters](mailto:kde-www@kde.org) (public mailing list). Generated from [2ff62a5](https://invent.kde.org/websites/kde-org/-/commit/2ff62a54dc47b9e42a74e1be15993c3a2f7ffc64). KDE® and [the K Desktop Environment® logo](https://kde.org/media/images/trademark_kde_gear_black_logo.png) are registered trademarks of [KDE e.V.](https://ev.kde.org/ "Homepage of the KDE non-profit Organization") | [Legal](https://kde.org/community/whatiskde/impressum)
+Maintained by [KDE Webmasters](mailto:kde-www@kde.org) (public mailing list). Generated from [30b9455](https://invent.kde.org/websites/kde-org/-/commit/30b9455f5861ea407b33e3fbc57273721df1c87d). KDE® and [the K Desktop Environment® logo](https://kde.org/media/images/trademark_kde_gear_black_logo.png) are registered trademarks of [KDE e.V.](https://ev.kde.org/ "Homepage of the KDE non-profit Organization") | [Legal](https://kde.org/community/whatiskde/impressum)
 
 ![](https://stats.kde.org/matomo.php?idsite=1&rec=1)
