@@ -14,7 +14,7 @@ Welcome to the
 
 [](https://account.samsung.com/membership/contents/profile/profile-gate)
 
-* Black Friday
+* Cyber Deals
 * Shop
 * AI
 * Mobile
