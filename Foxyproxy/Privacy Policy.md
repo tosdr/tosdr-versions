@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thanks for the speedy response!
+I appreciate all you do for your customers.
 
-Tuck-Weng
+Ken Lingard
