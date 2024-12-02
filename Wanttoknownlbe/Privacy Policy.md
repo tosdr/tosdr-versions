@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/overeenkomst-mh17-onderzoek-blijft-geheim/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/de-aids-fraude-een-vervolg/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
