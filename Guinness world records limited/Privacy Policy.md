@@ -89,14 +89,14 @@ Privacy Policy
 
 ### Introduction
 
-THESE TERMS & CONDITIONS WERE LAST UPDATED ON 27 June 2024
+THESE TERMS & CONDITIONS WERE LAST UPDATED ON 2nd December 2024
 
 Are you under 18? [See our kids friendly Privacy summary here >](https://kids.guinnessworldrecords.com/using-this-website/privacy-policy)
 
 Guinness World Records Limited (**“GWR”** or **“us”** or **“we”** or **“our”**) respects the privacy of individuals and is committed to providing and maintaining a safe, secure and transparent environment to protect the personal data you supply to us. This Privacy Policy relates to our use of any personal data we collect from you via the following means:
 
 * guinnessworldrecords.com, gwrstore.com, related sub-domains, counterpart sites in other languages and any other GWR website that links to this Privacy Policy (the/ this “Site”);
-* the GWR Events app and other GWR digital applications (the “Apps”);
+* the GWR Event app and other GWR digital applications (the “Apps”);
 * telephone and written correspondence including email, text and letters; and
 * directly from you in person, for example at a GWR event, challenge fair or third party event in which GWR participates (the “Events”), whether collected via the GWR Events app or by other means.
 
