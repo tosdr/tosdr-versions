@@ -5,7 +5,7 @@
 Main navigation
 ---------------
 
-* [Cyber monday](https://www.lelo.com/black-friday)
+* [cyber monday](https://www.lelo.com/black-friday)
 * [Holiday sex toy gifts](https://www.lelo.com/sex-toy-gifts "Holiday gift sex toy selection")
 * [Best Selling Sex Toys](https://www.lelo.com/bestsellers)
 * [Sex Toys for Women](https://www.lelo.com/sex-toys-for-women)
