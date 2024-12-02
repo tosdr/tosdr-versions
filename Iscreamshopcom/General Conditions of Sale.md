@@ -153,9 +153,9 @@ You may send all approved return packages to the following address:
 
 ---
 
- ![](/web/image/website/2/app_image_512/50x50)
+ ![App Image](/web/image/website/2/app_image_512/50x50)
 
-To install this Web App in your iPhone/iPad press ![](/emipro_theme_base/static/src/img/icon.png) and then Add to Home Screen.
+To install this Web App in your iPhone/iPad press ![Install as App](/emipro_theme_base/static/src/img/icon.png) and then Add to Home Screen.
 
 ![App offline](/emipro_theme_base/static/src/img/offline_app.png)
 
