@@ -92,6 +92,10 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Balance
+
+### One gavel, two hands in Minnesota](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1202/One-gavel-two-hands-in-Minnesota "One gavel, two hands in Minnesota")
+
 [Peace
 
 ### Trump’s Mideast team: A familiar look for a transformed region](https://www.csmonitor.com/World/Middle-East/2024/1127/trump-middle-east-policy-team-israel "Trump’s Mideast team: A familiar look for a transformed region")
@@ -99,10 +103,6 @@ Recent Stories
 [Joy
 
 ### How century-old fashion is helping Ukrainians escape the grind of war](https://www.csmonitor.com/World/Europe/2024/1127/ukraine-war-russia-sumy-fashion-history-museum "How century-old fashion is helping Ukrainians escape the grind of war")
-
-[Creativity
-
-### Five-star ‘Flow’ and chatty ‘Moana 2’ offer eye-widening animated delights](https://www.csmonitor.com/The-Culture/Movies/2024/1127/moana-2-flow-animated-films "Five-star ‘Flow’ and chatty ‘Moana 2’ offer eye-widening animated delights")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
-[### Newsom vs. Trump: When big states take on the White House](https://www.csmonitor.com/USA/2024/1202/trump-newsom-california-litigation "Newsom vs. Trump: When big states take on the White House")
+[### Supreme Court will hear largest transgender rights case in US history](https://www.csmonitor.com/USA/Justice/2024/1202/supreme-court-transgender-rights-us-v-skrmetti "Supreme Court will hear largest transgender rights case in US history")
 
-[### Trump’s Mideast team: A familiar look for a transformed region](https://www.csmonitor.com/World/Middle-East/2024/1127/trump-middle-east-policy-team-israel "Trump’s Mideast team: A familiar look for a transformed region")
+[### President Biden pardons Hunter Biden, sparing him a possible prison sentence](https://www.csmonitor.com/USA/2024/1202/Hunter-Biden-presidential-pardon-tax-evasion-guns-drugs "President Biden pardons Hunter Biden, sparing him a possible prison sentence")
 
-[### How century-old fashion is helping Ukrainians escape the grind of war](https://www.csmonitor.com/World/Europe/2024/1127/ukraine-war-russia-sumy-fashion-history-museum "How century-old fashion is helping Ukrainians escape the grind of war")
+[### A disputed election and pause on EU accession has led Georgian citizens to the brink](https://www.csmonitor.com/USA/2024/1202/Georgia-Protests-EU-Accession-Election-Russia-Far-right "A disputed election and pause on EU accession has led Georgian citizens to the brink")
 
 * * *
 
