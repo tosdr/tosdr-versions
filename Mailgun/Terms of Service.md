@@ -374,11 +374,11 @@ This app works best with JavaScript enabled.
         Building a dynamic email ecosystem: SparkToro's story
         
         Read More](https://www.mailgun.com/resources/case-studies/sparktoro/)
-    * [![Email and the customer experience title card](https://images.ctfassets.net/y6oq7udscnj8/79dpwRuQUtlb6msRBQz1Ft/b67cbe0915f20a060eb3b11d7b2c4267/MG-RR-Customer-Experience.png?w=1440&h=896&q=50&fm=png)
+    * [![Illustration of an email with deliverability advice from Sinch Mailgun](https://images.ctfassets.net/y6oq7udscnj8/1PQe8pvbkLjuamgbBOQrcS/928b8d03d9e9ceac83dba52c3ee5f401/-SEDR_24_Hero_1_Intro-Home-_-_Blog.png?w=2592&h=1600&q=50&fm=png)
         
-        Email and the customer experience
+        State of email deliverability 2025
         
-        Read More](https://www.mailgun.com/resources/research/email-customer-experience/)
+        Read More](https://www.mailgun.com/resources/research/state-of-email-deliverability/)
     
     Resources
     
@@ -411,11 +411,11 @@ This app works best with JavaScript enabled.
         Building a dynamic email ecosystem: SparkToro's story
         
         Read More](https://www.mailgun.com/resources/case-studies/sparktoro/)
-    * [![Email and the customer experience title card](https://images.ctfassets.net/y6oq7udscnj8/79dpwRuQUtlb6msRBQz1Ft/b67cbe0915f20a060eb3b11d7b2c4267/MG-RR-Customer-Experience.png?w=1440&h=896&q=50&fm=png)
+    * [![Illustration of an email with deliverability advice from Sinch Mailgun](https://images.ctfassets.net/y6oq7udscnj8/1PQe8pvbkLjuamgbBOQrcS/928b8d03d9e9ceac83dba52c3ee5f401/-SEDR_24_Hero_1_Intro-Home-_-_Blog.png?w=2592&h=1600&q=50&fm=png)
         
-        Email and the customer experience
+        State of email deliverability 2025
         
-        Read More](https://www.mailgun.com/resources/research/email-customer-experience/)
+        Read More](https://www.mailgun.com/resources/research/state-of-email-deliverability/)
     
 * Contact
     
@@ -767,11 +767,11 @@ Back to main menu
         Building a dynamic email ecosystem: SparkToro's story
         
         Read More](https://www.mailgun.com/resources/case-studies/sparktoro/)
-    * [![Email and the customer experience title card](https://images.ctfassets.net/y6oq7udscnj8/79dpwRuQUtlb6msRBQz1Ft/b67cbe0915f20a060eb3b11d7b2c4267/MG-RR-Customer-Experience.png?w=1440&h=896&q=50&fm=png)
+    * [![Illustration of an email with deliverability advice from Sinch Mailgun](https://images.ctfassets.net/y6oq7udscnj8/1PQe8pvbkLjuamgbBOQrcS/928b8d03d9e9ceac83dba52c3ee5f401/-SEDR_24_Hero_1_Intro-Home-_-_Blog.png?w=2592&h=1600&q=50&fm=png)
         
-        Email and the customer experience
+        State of email deliverability 2025
         
-        Read More](https://www.mailgun.com/resources/research/email-customer-experience/)
+        Read More](https://www.mailgun.com/resources/research/state-of-email-deliverability/)
     
     Resources
     
@@ -804,11 +804,11 @@ Back to main menu
         Building a dynamic email ecosystem: SparkToro's story
         
         Read More](https://www.mailgun.com/resources/case-studies/sparktoro/)
-    * [![Email and the customer experience title card](https://images.ctfassets.net/y6oq7udscnj8/79dpwRuQUtlb6msRBQz1Ft/b67cbe0915f20a060eb3b11d7b2c4267/MG-RR-Customer-Experience.png?w=1440&h=896&q=50&fm=png)
+    * [![Illustration of an email with deliverability advice from Sinch Mailgun](https://images.ctfassets.net/y6oq7udscnj8/1PQe8pvbkLjuamgbBOQrcS/928b8d03d9e9ceac83dba52c3ee5f401/-SEDR_24_Hero_1_Intro-Home-_-_Blog.png?w=2592&h=1600&q=50&fm=png)
         
-        Email and the customer experience
+        State of email deliverability 2025
         
-        Read More](https://www.mailgun.com/resources/research/email-customer-experience/)
+        Read More](https://www.mailgun.com/resources/research/state-of-email-deliverability/)
     
 * Contact
     
@@ -1046,11 +1046,11 @@ Back to main menu
     Building a dynamic email ecosystem: SparkToro's story
     
     Read More](https://www.mailgun.com/resources/case-studies/sparktoro/)
-* [![Email and the customer experience title card](https://images.ctfassets.net/y6oq7udscnj8/79dpwRuQUtlb6msRBQz1Ft/b67cbe0915f20a060eb3b11d7b2c4267/MG-RR-Customer-Experience.png?w=1440&h=896&q=50&fm=png)
+* [![Illustration of an email with deliverability advice from Sinch Mailgun](https://images.ctfassets.net/y6oq7udscnj8/1PQe8pvbkLjuamgbBOQrcS/928b8d03d9e9ceac83dba52c3ee5f401/-SEDR_24_Hero_1_Intro-Home-_-_Blog.png?w=2592&h=1600&q=50&fm=png)
     
-    Email and the customer experience
+    State of email deliverability 2025
     
-    Read More](https://www.mailgun.com/resources/research/email-customer-experience/)
+    Read More](https://www.mailgun.com/resources/research/state-of-email-deliverability/)
 
 * [Handshake icon
     
@@ -1289,12 +1289,6 @@ Last revised 01/16/2023. To see the previous terms, please [click here](https://
 * timduncan@mailgun.top
 
 [](https://www.mailgun.com/)
-
-Subscribe to the Mailgun newsletter
-
-Send me the Mailgun newsletter. I expressly agree to receive the newsletter and know that I can easily unsubscribe at any time.  
-  
-This site is protected by reCAPTCHA and the Google [Privacy Policy](https://policies.google.com/privacy) and [Terms of Service](https://policies.google.com/terms) apply.
 
 Follow us
 
