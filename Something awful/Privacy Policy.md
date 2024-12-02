@@ -205,24 +205,24 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [The Questionable Art of BattleTechnology Magazine](https://www.somethingawful.com/dungeons-and-dragons/battletech-mechwarrior-magazine/1/)
-* [A Guide to Gracefully Losing an Internet Argument](https://www.somethingawful.com/news/internet-argument-lose/1/)
-* [Palladium's Nightbane (1995)](https://www.somethingawful.com/dungeons-and-dragons/nightbane-palladium-siembieda/1/)
-* [The Macabre Fantasy Artwork of Ray O'Bannon (Part 1)](https://www.somethingawful.com/dungeons-and-dragons/ray-obannon-art/1/)
-* [Banker.Bmp!](https://www.somethingawful.com/photoshop-phriday/banker-comics/)
+* [Vagrant Story (PSX)](https://www.somethingawful.com/game-reviews/vagrant-story-psx/1/)
+* [The Pedo Files](https://www.somethingawful.com/weekend-web/the-pedo-files/1/)
+* [The World Needs More Nonsensical Games With Music Artists](https://www.somethingawful.com/music-article/music-artist-games/)
+* [ZALGO](https://www.somethingawful.com/flash-tub/zalgo-cartoon/)
+* [Keeping Up With Jack White's Projects](https://www.somethingawful.com/music-article/jack-white-projects/)
 
 ### Popular Threads
 
+* ![](https://fi.somethingawful.com/forums/posticons/byob-salt.gif) [What cheap stuff do you prefer over more expensive stuff?](http://forums.somethingawful.com/showthread.php?threadid=4076653 "What cheap stuff do you prefer over more expensive stuff?")
 * ![](https://fi.somethingawful.com/forums/posticons/diy-homeimprove.gif) [Fantasy Team the Best/Worst/Funniest Sitcom Cast](http://forums.somethingawful.com/showthread.php?threadid=4076624 "Fantasy Team the Best/Worst/Funniest Sitcom Cast")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/photoshop.png) [Winterize Movies](http://forums.somethingawful.com/showthread.php?threadid=4076594 "Winterize Movies")
 
 ### Random Articles
 
-* [Families.com and Cartoon Doll Emporium](https://www.somethingawful.com/weekend-web/families-dollz/1/)
-* [Heinz Bergen’s Beweggrundmannschaft](https://www.somethingawful.com/news/heinz-bergens-beweggrundmannscha/)
-* [Derek Smart is NOT Happy! Oh no!](https://www.somethingawful.com/news/derek-smart-not/)
-* [Understanding Healthcare FOR KIDS!](https://www.somethingawful.com/news/kid-healthcare/1/)
-* [Where's Waldo?](https://www.somethingawful.com/rom-pit/waldo-pictures/)
+* [Teddy Babes](https://www.somethingawful.com/awful-links/teddy-babes-doll/)
+* [Ad Campaigns Gone Horribly Wrong](https://www.somethingawful.com/news/ad-campaigns-gone/)
+* [Misspelled Movies II](https://www.somethingawful.com/photoshop-phriday/misspelled-movies-ii/1/)
+* [The Biggest Movie of the Year](https://www.somethingawful.com/photoshop-phriday/biggest-movie-year/1/)
+* [HAPPY HALLOWEEN EVERYBODY, BOO, I'M A GHOST (I DIED)](https://www.somethingawful.com/levi-johnston/levi-dead-halloween/)
 
 [Random!](https://www.somethingawful.com/random/)
 
