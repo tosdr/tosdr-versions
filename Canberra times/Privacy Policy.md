@@ -26,21 +26,29 @@ SectionsMy Region
 
 [Live](https://www.canberratimes.com.au/sport/live/)[AFL Canberra](https://www.canberratimes.com.au/sport/local-afl/first-grade/)[Local Sport](https://www.canberratimes.com.au/sport/local-sport/)[Raiders](https://www.canberratimes.com.au/sport/raiders/)[Brumbies](https://www.canberratimes.com.au/sport/brumbies/)[NRL](https://www.canberratimes.com.au/sport/nrl/)[AFL](https://www.canberratimes.com.au/sport/afl/)[Rugby](https://www.canberratimes.com.au/sport/rugby/)[Soccer](https://www.canberratimes.com.au/sport/soccer/)[Cricket](https://www.canberratimes.com.au/sport/cricket/)[Capitals](https://www.canberratimes.com.au/sport/capitals/)[United](https://www.canberratimes.com.au/sport/united/)[Racing](https://www.canberratimes.com.au/sport/racing/)[Tennis](https://www.canberratimes.com.au/sport/tennis/)[Scores and Draws](https://www.canberratimes.com.au/scores-and-draws/)[A-League](https://www.canberratimes.com.au/sport/a-league/)[World Sport](https://www.canberratimes.com.au/sport/world/)
 
+[Community](https://www.canberratimes.com.au/community/)
+
+[Things to do](https://www.canberratimes.com.au/whats-on/things-to-do/)[Food & Wine](https://www.canberratimes.com.au/whats-on/food-wine/)[Competitions](https://www.canberratimes.com.au/whats-on/competitions/)[Social photos](https://www.canberratimes.com.au/community/photos/)
+
+[Entertainment](https://www.canberratimes.com.au/entertainment/)
+
+[TV & Streaming](https://www.canberratimes.com.au/entertainment/tv-and-streaming/)[Movies](https://www.canberratimes.com.au/entertainment/movies/)[Books](https://www.canberratimes.com.au/entertainment/books/)[Arts & Theatre](https://www.canberratimes.com.au/entertainment/arts-and-theatre/)[Visual art](https://www.canberratimes.com.au/entertainment/visual-arts/)[Gaming](https://www.canberratimes.com.au/entertainment/gaming/)[Music](https://www.canberratimes.com.au/entertainment/music/)[Technology](https://www.canberratimes.com.au/entertainment/technology/)
+
+[Lifestyle](https://www.canberratimes.com.au/lifestyle/)
+
+[Food & Drink](https://www.canberratimes.com.au/lifestyle/food-drink/)[Celebrity](https://www.canberratimes.com.au/lifestyle/celebrity/)[Home & Garden](https://www.canberratimes.com.au/lifestyle/home-garden/)[Money](https://www.canberratimes.com.au/lifestyle/money/)[Parenting](https://www.canberratimes.com.au/lifestyle/parenting/)[Relationships](https://www.canberratimes.com.au/lifestyle/relationships/)[Travel](https://www.canberratimes.com.au/lifestyle/travel/)[Fashion](https://www.canberratimes.com.au/lifestyle/fashion/)[Shopping](https://www.canberratimes.com.au/lifestyle/shopping/)[Pets & Animals](https://www.canberratimes.com.au/lifestyle/pets-animals/)[Health & Wellbeing](https://www.canberratimes.com.au/lifestyle/health-wellbeing/)[Beauty](https://www.canberratimes.com.au/lifestyle/beauty/)
+
 [Video](https://www.canberratimes.com.au/video/)
 
 [Breaking](https://www.canberratimes.com.au/video/breaking/)[Local](https://www.canberratimes.com.au/video/local/)[National](https://www.canberratimes.com.au/video/national/)[Viral](https://www.canberratimes.com.au/video/viral/)[World](https://www.canberratimes.com.au/video/world/)[Animal](https://www.canberratimes.com.au/video/animal/)[Politics](https://www.canberratimes.com.au/video/politics/)[Crime](https://www.canberratimes.com.au/video/crime/)[Entertainment](https://www.canberratimes.com.au/video/entertainment/)[Sport](https://www.canberratimes.com.au/video/sport/)[Automotive](https://www.canberratimes.com.au/video/automotive/)
-
-[What's On](https://www.canberratimes.com.au/whats-on/)
-
-[Things to do](https://www.canberratimes.com.au/whats-on/things-to-do/)[Food & Wine](https://www.canberratimes.com.au/whats-on/food-wine/)[Restaurant reviews](https://www.canberratimes.com.au/whats-on/restaurant-reviews/)[TV Guide](https://www.canberratimes.com.au/whats-on/tv-guide/)[Movies](https://www.canberratimes.com.au/whats-on/movies/)[Stage and theatre](https://www.canberratimes.com.au/whats-on/theatre-arts/)[Visual art](https://www.canberratimes.com.au/whats-on/visual-arts/)[Music](https://www.canberratimes.com.au/whats-on/music/)[Competitions](https://www.canberratimes.com.au/whats-on/competitions/)
 
 [Comment](https://www.canberratimes.com.au/comment/)
 
 [Letters to the Editor](https://www.canberratimes.com.au/comment/letters-to-the-editor/)[Editorial](https://www.canberratimes.com.au/comment/editorial/)[Opinion](https://www.canberratimes.com.au/comment/opinion/)[Cartoons](https://www.canberratimes.com.au/comment/cartoons/)
 
-[Life & Style](https://www.canberratimes.com.au/life-style/)
+[Puzzles](https://www.canberratimes.com.au/puzzles/)
 
-[Life](https://www.canberratimes.com.au/life-style/life/)[Money](https://www.canberratimes.com.au/life-style/money/)[Puzzles](https://www.canberratimes.com.au/life-style/puzzles/)[Books](https://www.canberratimes.com.au/life-style/books/)[Recipes](https://www.canberratimes.com.au/life-style/recipes/)[Celebrity](https://www.canberratimes.com.au/life-style/celebrity/)[Social photos](https://www.canberratimes.com.au/life-style/photos/)
+[Crossword](https://www.canberratimes.com.au/puzzles/crossword/)[Sudoku](https://www.canberratimes.com.au/puzzles/sudoku/)[Ultimate Trivia](https://www.canberratimes.com.au/puzzles/ultimate-trivia/)[Cryptic Crossword](https://www.canberratimes.com.au/puzzles/cryptic-crossword/)[Word Search](https://www.canberratimes.com.au/puzzles/word-search/)[Code Cracker](https://www.canberratimes.com.au/puzzles/code-cracker/)
 
 [Jobs](https://www.canberratimes.com.au/jobs/)
 
