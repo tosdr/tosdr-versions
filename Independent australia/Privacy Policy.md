@@ -179,7 +179,7 @@ Join the **I_A_** newsletter for regular updates on our latest news stories.
 Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
-* [5 Top enshittification picks for 2024](https://independentaustralia.net/article-display/5-top-enshittification-picks-for-2024,19213 "Permanent Link : 5 Top enshittification picks for 2024")
+* [ABC News misleads on the economy and risks pushing more Australians into poverty](https://independentaustralia.net/article-display/abc-news-misleads-on-the-economy-and-risks-pushing-more-australians-into-poverty,19221 "Permanent Link : ABC News misleads on the economy and risks pushing more Australians into poverty")
 * [When your best fiction writing is your daily to-do list](https://independentaustralia.net/article-display/when-your-best-fiction-writing-is-your-daily-to-do-list,19220 "Permanent Link : When your best fiction writing is your daily to-do list")
 * [QUIZ: IA Interrogates!](https://independentaustralia.net/article-display/quiz-ia-interrogates,19218 "Permanent Link : QUIZ: IA Interrogates!")
 * [Katy Perry sues and Ed Sheeran rues Band Aid involvement](https://independentaustralia.net/article-display/katy-perry-sues-and-ed-sheeran-rues-band-aid-involvement,19219 "Permanent Link : Katy Perry sues and Ed Sheeran rues Band Aid involvement")
