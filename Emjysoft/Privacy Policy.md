@@ -86,7 +86,7 @@ Reconnu par la presse informatique
 
 Des logiciels rapides et faciles d'utilisation
 
-© 2004-2024 Emjysoft est une marque déposée
+© 2004-2025 Emjysoft est une marque déposée
 
 Toute reproduction est interdite. [Politique de confidentialité](javascript:clWDUtil.pfGetTraitement('M24',0,void 0)();) |  [Mentions légales](javascript:clWDUtil.pfGetTraitement('M23',0,void 0)();)
 
