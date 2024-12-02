@@ -1,8 +1,8 @@
-                                  [Skip to content](#MainContent)
+            [Skip to content](#MainContent)
 
-[](https://www.perfectsleepchair.com/collections/black-friday-deals)
+[](https://www.perfectsleepchair.com/collections/cyber-monday-deals)
 
-Black Friday Deals Start Now! Learn More
+Cyber Monday Deals End Soon! Learn More
 
 [888-404-1724](tel:888-404-1724)
 
@@ -222,13 +222,13 @@ Sat 12pm to 4pm EST
 Perfect Sleep Chair & Lift Chair
 ================================
 
-~$1,899.00~ $1,699.00
-
 4.8
 
 Rated 4.8 out of 5 stars
 
 59 Reviews
+
+~$1,899.00~ $1,699.00
 
  Petite Plus 2 Zone (w/ Blanket & USB) / Microlux BluePetite Plus 2 Zone (w/ Blanket & USB) / Microlux BurgundyPetite Plus 2 Zone (w/ Blanket & USB) / Microlux ChocolatePetite Plus 2 Zone (w/ Blanket & USB) / Microlux TanPetite Plus 2 Zone (w/ Blanket & USB) / Duralux ChocolatePetite Plus 2 Zone (w/ Blanket & USB) / Duralux TanDeluxe Plus 2 Zone (w/ Blanket & USB) / Microlux BurgundyDeluxe Plus 2 Zone (w/ Blanket & USB) / Microlux Dark MossDeluxe Plus 2 Zone (w/ Blanket & USB) / Microlux BlueDeluxe Plus 2 Zone (w/ Blanket & USB) / Microlux TanDeluxe Plus 2 Zone (w/ Blanket & USB) / Duralux ChocolateDeluxe Plus 2 Zone (w/ Blanket & USB) / Duralux TanDeluxe Plus 2 Zone (w/ Blanket & USB) / Leather ChestnutDeluxe Plus 2 Zone (w/ Blanket & USB) / Miralux Chocolate SpectraDeluxe Plus 2 Zone (w/ Blanket & USB) / Miralux Light Gray SpectraDeluxe Plus 2 Zone (w/ Blanket & USB) / Miralux SaddleDeluxe 5 Zone / Miralux Light Gray SpectraDeluxe 5 Zone / Miralux Saddle
 
@@ -518,7 +518,7 @@ Sort Most RecentOldestMost HelpfulPhotos & VideosHighest RatingLowest RatingLeas
     
     Was this helpful?
     
-    Yes, this review was helpful 32 people voted yesNo, this review was not helpful 18 people voted no
+    Yes, this review was helpful 33 people voted yesNo, this review was not helpful 18 people voted no
     
 * **Dale E. W.**
     
@@ -548,7 +548,7 @@ Sort Most RecentOldestMost HelpfulPhotos & VideosHighest RatingLowest RatingLeas
     
     Was this helpful?
     
-    Yes, this review was helpful 48 people voted yesNo, this review was not helpful 8 people voted no
+    Yes, this review was helpful 49 people voted yesNo, this review was not helpful 8 people voted no
     
     **JH** 
     
