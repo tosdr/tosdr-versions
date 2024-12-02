@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/ignatius-het-judaisme-en-de-wereldorde/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/meelezen/schuldig-bevonden-door-te-bestaan/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
