@@ -64,25 +64,25 @@ Suggested Searches
 
 ### Featured
 
-[![Discovery Alert: a ‘Hot Neptune’ in a Tight Orbit](https://science.nasa.gov/wp-content/uploads/2024/11/hotneptune-1280c.jpeg)
+[![The crew members of NASA’s SpaceX Crew-10 mission (from left) mission specialist Kirill Peskov of Roscosmos, NASA astronauts Nichole Ayers, pilot, and Anne McClain, commander, along with Mission Specialist Takuya Onishi of JAXA (Japan Aerospace Exploration Agency), pose for a picture during training at SpaceX in Hawthorne, California. Credit: SpaceX](https://images-assets.nasa.gov/image/jsc2024e064444/jsc2024e064444~orig.jpg?w=868&h=628&fit=clip&crop=faces%2Cfocalpoint)
+
+5 min read
+
+### Experience the Launch of NASA’s SpaceX Crew-10 Mission  
+
+article4 hours ago](https://www.nasa.gov/general/experience-the-launch-of-nasas-spacex-crew-10-mission/)[![NASA AI, Open Science Advance Disaster Research and Recovery](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/science-enabling-technology/technology-highlights/2024/NGRx_Image_2.jpg)
 
 4 min read
 
-### Discovery Alert: a ‘Hot Neptune’ in a Tight Orbit
+### NASA AI, Open Science Advance Disaster Research and Recovery
 
-article6 days ago](https://science.nasa.gov/universe/exoplanets/discovery-alert-a-hot-neptune-in-a-tight-orbit/)[![NASA Data Reveals Role of Green Spaces in Cooling Cities](https://science.nasa.gov/wp-content/uploads/2024/11/sanaa-oli-20240608-1440.jpg)
+article6 days ago](https://science.nasa.gov/open-science/artificial-intelligence-hurricane-response/)[![NASA Data Reveals Role of Green Spaces in Cooling Cities](https://science.nasa.gov/wp-content/uploads/2024/11/sanaa-oli-20240608-1440.jpg)
 
 5 min read
 
 ### NASA Data Reveals Role of Green Spaces in Cooling Cities
 
-article6 days ago](https://science.nasa.gov/earth/climate-change/nasa-data-reveals-role-of-green-spaces-in-cooling-cities/)[![Europa Clipper illustration](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia26443-spacecraft-illustration.jpg?w=1024)
-
-5 min read
-
-### NASA’s Europa Clipper: Millions of Miles Down, Instruments Deploying
-
-article7 days ago](https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-millions-of-miles-down-instruments-deploying/)
+article6 days ago](https://science.nasa.gov/earth/climate-change/nasa-data-reveals-role-of-green-spaces-in-cooling-cities/)
 
 Back
 
@@ -241,47 +241,47 @@ Back
 
 ### Featured
 
-[![Sierra Space’s LIFE (Large Integrated Flexible Environment) habitat following a full-scale ultimate burst pressure test at NASA’s Marshall Space Flight Center in Huntsville, Alabama](https://www.nasa.gov/wp-content/uploads/2024/11/sierra-space-image.png?w=1024)
-
-6 min read
-
-### NASA’s Commercial Partners Make Progress on Low Earth Orbit Projects
-
-article 7 days ago](https://www.nasa.gov/general/nasas-commercial-partners-make-progress-on-low-earth-orbit-projects/)[![Europa Clipper illustration](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia26443-spacecraft-illustration.jpg?w=1024)
+[![The crew members of NASA’s SpaceX Crew-10 mission (from left) mission specialist Kirill Peskov of Roscosmos, NASA astronauts Nichole Ayers, pilot, and Anne McClain, commander, along with Mission Specialist Takuya Onishi of JAXA (Japan Aerospace Exploration Agency), pose for a picture during training at SpaceX in Hawthorne, California. Credit: SpaceX](https://images-assets.nasa.gov/image/jsc2024e064444/jsc2024e064444~orig.jpg?w=868&h=628&fit=clip&crop=faces%2Cfocalpoint)
 
 5 min read
 
-### NASA’s Europa Clipper: Millions of Miles Down, Instruments Deploying
+### Experience the Launch of NASA’s SpaceX Crew-10 Mission  
 
-article 7 days ago](https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-millions-of-miles-down-instruments-deploying/)[![NASA, JAXA XRISM Mission Looks Deeply Into ‘Hidden’ Stellar System](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/xrism/News/2024/cygnus-x-3/Cyg_X-3_illustration_AC.jpg)
-
-4 min read
-
-### NASA, JAXA XRISM Mission Looks Deeply Into ‘Hidden’ Stellar System
-
-article 7 days ago](https://science.nasa.gov/missions/xrism/nasa-jaxa-xrism-mission-looks-deeply-into-hidden-stellar-system/)
-
-### Highlights
-
-[![Framed by vegetation in the foreground and against the backdrop of a black night sky, NASA’s SLS (Space Launch System) rocket carrying the Orion spacecraft launches on the Artemis I flight test on Nov. 16, 2022, from Launch Complex 39B at NASA’s Kennedy Space Center in Florida.](https://www.nasa.gov/wp-content/uploads/2024/12/virtual-backgrounds-review-110424-page-03.png?w=1024)
+article 4 hours ago](https://www.nasa.gov/general/experience-the-launch-of-nasas-spacex-crew-10-mission/)[![Framed by vegetation in the foreground and against the backdrop of a black night sky, NASA’s SLS (Space Launch System) rocket carrying the Orion spacecraft launches on the Artemis I flight test on Nov. 16, 2022, from Launch Complex 39B at NASA’s Kennedy Space Center in Florida.](https://www.nasa.gov/wp-content/uploads/2024/12/virtual-backgrounds-review-110424-page-03.png?w=1024)
 
 8 min read
 
 ### New Artemis Virtual Meeting Backgrounds Released Celebrating Artemis I, Looking to Artemis II and Beyond
 
-article 1 min ago](https://www.nasa.gov/humans-in-space/new-artemis-virtual-meeting-backgrounds-released-celebrating-artemis-i-looking-to-artemis-ii-and-beyond/)[![Sierra Space’s LIFE (Large Integrated Flexible Environment) habitat following a full-scale ultimate burst pressure test at NASA’s Marshall Space Flight Center in Huntsville, Alabama](https://www.nasa.gov/wp-content/uploads/2024/11/sierra-space-image.png?w=1024)
+article 4 hours ago](https://www.nasa.gov/humans-in-space/new-artemis-virtual-meeting-backgrounds-released-celebrating-artemis-i-looking-to-artemis-ii-and-beyond/)[![Europa Clipper illustration](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia26443-spacecraft-illustration.jpg?w=1024)
+
+5 min read
+
+### NASA’s Europa Clipper: Millions of Miles Down, Instruments Deploying
+
+article 1 week ago](https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-millions-of-miles-down-instruments-deploying/)
+
+### Highlights
+
+[![The crew members of NASA’s SpaceX Crew-10 mission (from left) mission specialist Kirill Peskov of Roscosmos, NASA astronauts Nichole Ayers, pilot, and Anne McClain, commander, along with Mission Specialist Takuya Onishi of JAXA (Japan Aerospace Exploration Agency), pose for a picture during training at SpaceX in Hawthorne, California. Credit: SpaceX](https://images-assets.nasa.gov/image/jsc2024e064444/jsc2024e064444~orig.jpg?w=868&h=628&fit=clip&crop=faces%2Cfocalpoint)
+
+5 min read
+
+### Experience the Launch of NASA’s SpaceX Crew-10 Mission  
+
+article 4 hours ago](https://www.nasa.gov/general/experience-the-launch-of-nasas-spacex-crew-10-mission/)[![Framed by vegetation in the foreground and against the backdrop of a black night sky, NASA’s SLS (Space Launch System) rocket carrying the Orion spacecraft launches on the Artemis I flight test on Nov. 16, 2022, from Launch Complex 39B at NASA’s Kennedy Space Center in Florida.](https://www.nasa.gov/wp-content/uploads/2024/12/virtual-backgrounds-review-110424-page-03.png?w=1024)
+
+8 min read
+
+### New Artemis Virtual Meeting Backgrounds Released Celebrating Artemis I, Looking to Artemis II and Beyond
+
+article 4 hours ago](https://www.nasa.gov/humans-in-space/new-artemis-virtual-meeting-backgrounds-released-celebrating-artemis-i-looking-to-artemis-ii-and-beyond/)[![Sierra Space’s LIFE (Large Integrated Flexible Environment) habitat following a full-scale ultimate burst pressure test at NASA’s Marshall Space Flight Center in Huntsville, Alabama](https://www.nasa.gov/wp-content/uploads/2024/11/sierra-space-image.png?w=1024)
 
 6 min read
 
 ### NASA’s Commercial Partners Make Progress on Low Earth Orbit Projects
 
-article 7 days ago](https://www.nasa.gov/general/nasas-commercial-partners-make-progress-on-low-earth-orbit-projects/)[![A close-up of a conduction chamber for testing the heat conduction properties of materials and equipment to be used in Artemis missions.](https://www.nasa.gov/wp-content/uploads/2024/11/ksh0121.jpg?w=1024)
-
-4 min read
-
-### NASA Marshall Thermal Engineering Lab Provides Key Insight to Human Landing System
-
-article 1 week ago](https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-marshall-thermal-engineering-lab-provides-key-insight-to-human-landing-system/)
+article 7 days ago](https://www.nasa.gov/general/nasas-commercial-partners-make-progress-on-low-earth-orbit-projects/)
 
 ### Highlights
 
@@ -307,7 +307,13 @@ article 2 weeks ago](https://science.nasa.gov/researchers/solicitations/roses-20
 
 ### Highlights
 
-[![December’s Night Sky Notes: Spot the King of Planets](https://images-assets.nasa.gov/image/PIA25019/PIA25019~large.jpg)
+[![What’s Up: December 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/parkcityutmeteor-credit-nasa-bill-dunford-jpg.webp)
+
+5 min read
+
+### What’s Up: December 2024 Skywatching Tips from NASA
+
+article 58 mins ago](https://science.nasa.gov/solar-system/skywatching/whats-up-december-2024-skywatching-tips-from-nasa/)[![December’s Night Sky Notes: Spot the King of Planets](https://images-assets.nasa.gov/image/PIA25019/PIA25019~large.jpg)
 
 4 min read
 
@@ -319,13 +325,7 @@ article 3 days ago](https://science.nasa.gov/solar-system/skywatching/night-sky-
 
 ### Amendment 73: D.13 Astrophysics Pioneers Substantial Revisions
 
-article 6 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-73-d-13-astrophysics-pioneers-substantial-revisions/)[![Amendment 71: F.11 Stand-Alone Landing Site-Agnostic Payloads and Research Investigations on the Surface of the Moon Final Text and Due Dates Released.](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/lunar-science/science-payloads/prospect/Prospect_wide_horizontal.png)
-
-2 min read
-
-### Amendment 71: F.11 Stand-Alone Landing Site-Agnostic Payloads and Research Investigations on the Surface of the Moon Final Text and Due Dates Released.
-
-article 6 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-71-f-11-stand-alone-landing-site-agnostic-payloads-and-research-investigations-on-the-surface-of-the-moon-final-text-and-due-dates-released/)
+article 6 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-73-d-13-astrophysics-pioneers-substantial-revisions/)
 
 ### Featured
 
@@ -417,7 +417,7 @@ article 2 weeks ago](https://www.nasa.gov/centers-and-facilities/ames/what-is-bi
 
 ### Featured
 
-[![Photo of Aaron Yazzie](https://www.nasa.gov/wp-content/uploads/2024/11/aaron-yazzie-crop.jpg?w=658)
+[![Aaron Yazzie, a Navajo man with black hair and glasses, stands with his arms crossed. He wears business professional attire with a navy blue jacket and beaded Indigenous tie making the NASA meatball logo. Behind him a large model of NASA's Mars Perseverance rover is visible.](https://www.nasa.gov/wp-content/uploads/2024/11/dct-jpl-yazzie-01-2023-09-29-1-crop.jpg?w=1024)
 
 4 min read
 
@@ -439,25 +439,25 @@ article 1 week ago](https://www.nasa.gov/learning-resources/launch-your-career/)
 
 ### Featured
 
-[![This Thanksgiving, We’re Grateful for NASA’s Volunteer Scientists!](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2024/fjordPhyto_group_participants.jpg)
+[![The crew members of NASA’s SpaceX Crew-10 mission (from left) mission specialist Kirill Peskov of Roscosmos, NASA astronauts Nichole Ayers, pilot, and Anne McClain, commander, along with Mission Specialist Takuya Onishi of JAXA (Japan Aerospace Exploration Agency), pose for a picture during training at SpaceX in Hawthorne, California. Credit: SpaceX](https://images-assets.nasa.gov/image/jsc2024e064444/jsc2024e064444~orig.jpg?w=868&h=628&fit=clip&crop=faces%2Cfocalpoint)
 
-2 min read
+5 min read
 
-### This Thanksgiving, We’re Grateful for NASA’s Volunteer Scientists!
+### Experience the Launch of NASA’s SpaceX Crew-10 Mission  
 
-article 6 days ago](https://science.nasa.gov/get-involved/citizen-science/this-thanksgiving-were-grateful-for-nasas-amateur-scientists/)[![Sierra Space’s LIFE (Large Integrated Flexible Environment) habitat following a full-scale ultimate burst pressure test at NASA’s Marshall Space Flight Center in Huntsville, Alabama](https://www.nasa.gov/wp-content/uploads/2024/11/sierra-space-image.png?w=1024)
+article 4 hours ago](https://www.nasa.gov/general/experience-the-launch-of-nasas-spacex-crew-10-mission/)[![A person in a green flight suit watches as blue fluid floats out of a bottle during a microgravity flight.](https://www.nasa.gov/wp-content/uploads/2024/11/grc-1997-c-02184-e1732721530755.jpg?w=1024)
+
+4 min read
+
+### NASA Plane Supported Innovative Microgravity Research in ‘90s
+
+article 5 days ago](https://www.nasa.gov/general/nasa-plane-supported-innovative-microgravity-research-in-90s/)[![Sierra Space’s LIFE (Large Integrated Flexible Environment) habitat following a full-scale ultimate burst pressure test at NASA’s Marshall Space Flight Center in Huntsville, Alabama](https://www.nasa.gov/wp-content/uploads/2024/11/sierra-space-image.png?w=1024)
 
 6 min read
 
 ### NASA’s Commercial Partners Make Progress on Low Earth Orbit Projects
 
-article 7 days ago](https://www.nasa.gov/general/nasas-commercial-partners-make-progress-on-low-earth-orbit-projects/)[![Students at NASA's Jet Propulsion Laboratory pose for photos around the laboratory wearing their eclipse glasses.](https://www.nasa.gov/wp-content/uploads/2023/03/38540233062-abf67c18dd-o.jpeg?w=985)
-
-2 min read
-
-### Why NASA Is a Great Place to Launch Your Career 
-
-article 1 week ago](https://www.nasa.gov/learning-resources/launch-your-career/)
+article 7 days ago](https://www.nasa.gov/general/nasas-commercial-partners-make-progress-on-low-earth-orbit-projects/)
 
 ### Highlights
 
