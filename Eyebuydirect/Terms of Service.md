@@ -28,17 +28,17 @@
     
     [Eco Friendly![Eco Friendly](https://img.ebdcdn.com/cms/eco_frindly_icon_update_66c789cf2e.gif)](https://www.eyebuydirect.com/collections/sustainability "Eco Friendly")
     
-    [![Black Friday Sale](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    [![Cyber Monday Sale](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Black Friday Sale](https://img.ebdcdn.com/cms/BF_2d20869d15.jpg?q=85&seo=black-friday-sale)
+    ![Cyber Monday Sale](https://img.ebdcdn.com/cms/cyber_monday_sale_updated_1718e7ecea.jpg?q=85&seo=cyber-monday-sale)
     
-    Black Friday Sale](https://www.eyebuydirect.com/offers "Black Friday Sale")[![Designer Sale](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    Cyber Monday Sale](https://www.eyebuydirect.com/offers "Cyber Monday Sale")[![Designer Sale](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Designer Sale](https://img.ebdcdn.com/cms/Top_Nav_EN_d90931d125.jpg?q=85&seo=designer-sale)
+    ![Designer Sale](https://img.ebdcdn.com/cms/designer_sale_8d14f341a3.jpg?q=85&seo=designer-sale)
     
     Designer Sale](https://www.eyebuydirect.com/campaign/brands-promo?coupon=hauliday "Designer Sale")[![Best Sellers](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Best Sellers](https://img.ebdcdn.com/cms/BEST_2_5364e84f7d.jpg?q=85&seo=best-sellers)
+    ![Best Sellers](https://img.ebdcdn.com/cms/best_sellers_1a600058cb.jpg?q=85&seo=best-sellers)
     
     Best Sellers](https://www.eyebuydirect.com/collections/best-sellers "Best Sellers")
     
@@ -66,15 +66,15 @@
     
     [![Ray-Ban Sunglasses](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Ray-Ban Sunglasses](https://img.ebdcdn.com/cms/ray_ban_609e3d660c.jpg?q=85&seo=ray-ban-sunglasses)
+    ![Ray-Ban Sunglasses](https://img.ebdcdn.com/cms/ray_ban_updated_5a9ab94738.jpg?q=85&seo=ray-ban-sunglasses)
     
     Ray-Ban Sunglasses](https://www.eyebuydirect.com/brands/ray-ban/sunglasses "Ray-Ban Sunglasses")[![Oakley Sunglasses](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Oakley Sunglasses](https://img.ebdcdn.com/cms/oakely_f11f678bf1.jpg?q=85&seo=oakley-sunglasses)
+    ![Oakley Sunglasses](https://img.ebdcdn.com/cms/oakely_783e075bfa.jpg?q=85&seo=oakley-sunglasses)
     
     Oakley Sunglasses](https://www.eyebuydirect.com/brands/oakley/sunglasses "Oakley Sunglasses")[![Best Sellers](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Best Sellers](https://img.ebdcdn.com/cms/best_sellers_aadee1e012.jpg?q=85&seo=best-sellers)
+    ![Best Sellers](https://img.ebdcdn.com/cms/best_sellers_0eb15a07a3.jpg?q=85&seo=best-sellers)
     
     Best Sellers](https://www.eyebuydirect.com/collections/best-sellers "Best Sellers")
     
