@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### Newsom vs. Trump: When big states take on the White House](https://www.csmonitor.com/USA/2024/1202/trump-newsom-california-litigation "Newsom vs. Trump: When big states take on the White House")
+
 [### Trump’s Mideast team: A familiar look for a transformed region](https://www.csmonitor.com/World/Middle-East/2024/1127/trump-middle-east-policy-team-israel "Trump’s Mideast team: A familiar look for a transformed region")
 
 [### How century-old fashion is helping Ukrainians escape the grind of war](https://www.csmonitor.com/World/Europe/2024/1127/ukraine-war-russia-sumy-fashion-history-museum "How century-old fashion is helping Ukrainians escape the grind of war")
-
-[### Israel enjoys upper hand as ceasefire signals Hezbollah’s limits](https://www.csmonitor.com/World/Middle-East/2024/1127/lebanon-hezbollah-israel-ceasefire-gaza "Israel enjoys upper hand as ceasefire signals Hezbollah’s limits")
 
 * * *
 
