@@ -228,11 +228,13 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-Can't get enough Fark in your life? Try
+If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-More threads. More community. More Farking.
+Total access  
+Total knowledge  
+Total Fark
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +334,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Looks like Hunter was the Thanksgiving turkey all along](https://www.fark.com/goto/13480528) ( [nbcnews.com](https://www.fark.com/goto/13480528) ) » [(251 comments)](https://www.fark.com/comments/13480528/Looks-like-Hunter-was-Thanksgiving-turkey-all-along) |
-| [Discussion](https://www.fark.com/discussion/) | [Can Brock Purdy and the 49ers go into cold Buffalo and win the game versus the Bills? Or will Josh Allen and the Bills send them back to San Francisco with a loss? Sunday Night Football kicks off at 8:20 PM ET on NBC/Peacock](https://www.fark.com/goto/13479866) ( [espn.com](https://www.fark.com/goto/13479866) ) » [(140 comments)](https://www.fark.com/comments/13479866/Can-Brock-Purdy-the-49ers-go-into-cold-Buffalo-win-game-versus-Bills-Or-will-Josh-Allen-the-Bills-send-them-back-to-San-Francisco-with-a-loss-Sunday-Night-Football-kicks-off-at-820-PM-ET-on-NBCPeacock) |
-| [Sports](https://www.fark.com/sports/) | [Can Brock Purdy and the 49ers go into cold Buffalo and win the game versus the Bills? Or will Josh Allen and the Bills send them back to San Francisco with a loss? Sunday Night Football kicks off at 8:20 PM ET on NBC/Peacock](https://www.fark.com/goto/13479866) ( [espn.com](https://www.fark.com/goto/13479866) ) » [(140 comments)](https://www.fark.com/comments/13479866/Can-Brock-Purdy-the-49ers-go-into-cold-Buffalo-win-game-versus-Bills-Or-will-Josh-Allen-the-Bills-send-them-back-to-San-Francisco-with-a-loss-Sunday-Night-Football-kicks-off-at-820-PM-ET-on-NBCPeacock) |
-| [Business](https://www.fark.com/business/) | [Nissan months from imploding much like their transmissions](https://www.fark.com/goto/13480170) ( [forbes.com](https://www.fark.com/goto/13480170) ) » [(40 comments)](https://www.fark.com/comments/13480170/Nissan-months-from-imploding-much-like-their-transmissions) |
-| [STEM](https://www.fark.com/stem/) | [No. Obviously not. Duh](https://www.fark.com/goto/13480364) ( [apnews.com](https://www.fark.com/goto/13480364) ) » [(8 comments)](https://www.fark.com/comments/13480364/No-Obviously-not-Duh) |
-| [Entertainment](https://www.fark.com/entertainment/) | [I think 23 or 24 of these songs are good, but there are far too many clunkers in this bunch](https://www.fark.com/goto/13480334) ( [pastemagazine.com](https://www.fark.com/goto/13480334) ) » [(37 comments)](https://www.fark.com/comments/13480334/I-think-23-24-of-these-songs-are-good-but-there-are-far-too-many-clunkers-in-this-bunch) |
-| [Fandom](https://www.fark.com/fandom/) | [We almost got a "Naked Gun" video game until O.J. killed it](https://www.fark.com/goto/13479982) ( [cracked.com](https://www.fark.com/goto/13479982) ) » [(15 comments)](https://www.fark.com/comments/13479982/We-almost-got-a-Naked-Gun-video-game-until-OJ-killed-it) |
-| [D'awww](https://www.fark.com/dawww/) | [Pooches in Pullovers. On parade](https://www.fark.com/goto/13480336) ( [apnews.com](https://www.fark.com/goto/13480336) ) » [(2 comments)](https://www.fark.com/comments/13480336/Pooches-in-Pullovers-On-parade) |
-| [Food](https://www.fark.com/food/) | [Balance a junk food meal with a green tea, for your heart and soul](https://www.fark.com/goto/13480374) ( [indy100.com](https://www.fark.com/goto/13480374) ) » [(0 comments)](https://www.fark.com/comments/13480374/Balance-a-junk-food-meal-with-a-green-tea-for-your-heart-soul) |
-| [Politics](https://www.fark.com/politics/) | [Looks like Hunter was the Thanksgiving turkey all along](https://www.fark.com/goto/13480528) ( [nbcnews.com](https://www.fark.com/goto/13480528) ) » [(251 comments)](https://www.fark.com/comments/13480528/Looks-like-Hunter-was-Thanksgiving-turkey-all-along) |
+| [Main](https://www.fark.com/) | [Driver takes "Fording Place Rd." sign literally](https://www.fark.com/goto/13480458) ( [midhudsonnews.com](https://www.fark.com/goto/13480458) ) » [(0 comments)](https://www.fark.com/comments/13480458/Driver-takes-Fording-Place-Rd-sign-literally) |
+| [Discussion](https://www.fark.com/discussion/) | [Things have ALWAYS been going to hell in a handbasket](https://www.fark.com/goto/13480524) ( [nesslabs.com](https://www.fark.com/goto/13480524) ) » [(1 comment)](https://www.fark.com/comments/13480524/Things-have-ALWAYS-been-going-to-hell-in-a-handbasket) |
+| [Sports](https://www.fark.com/sports/) | [Just End The wait for the NFL draft](https://www.fark.com/goto/13480472) ( [si.com](https://www.fark.com/goto/13480472) ) » [(4 comments)](https://www.fark.com/comments/13480472/Just-End-The-wait-for-NFL-draft) |
+| [Business](https://www.fark.com/business/) | [If you feel cheated by deceptive packaging, you can always top up your purchase before you buy. Probably don't make a video of doing it, though](https://www.fark.com/goto/13480590) ( [dailydot.com](https://www.fark.com/goto/13480590) ) » [(3 comments)](https://www.fark.com/comments/13480590/If-you-feel-cheated-by-deceptive-packaging-you-can-always-top-up-your-purchase-before-you-buy-Probably-dont-make-a-video-of-doing-it-though) |
+| [STEM](https://www.fark.com/stem/) | [Mercedez-Benz is developing a paint that will power your EV](https://www.fark.com/goto/13480406) ( [repairerdrivennews.com](https://www.fark.com/goto/13480406) ) » [(5 comments)](https://www.fark.com/comments/13480406/Mercedez-Benz-is-developing-a-paint-that-will-power-your-EV) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Adele's new album drops. For you, only $350](https://www.fark.com/goto/13480400) ( [indy100.com](https://www.fark.com/goto/13480400) ) » [(5 comments)](https://www.fark.com/comments/13480400/Adeles-new-album-drops-For-you-only-$350) |
+| [Fandom](https://www.fark.com/fandom/) | [Gallagher was a dark, complex man who surely resents humanity for only remembering him as the guy who smashed watermelons](https://www.fark.com/goto/13480598) ( [indiewire.com](https://www.fark.com/goto/13480598) ) » [(15 comments)](https://www.fark.com/comments/13480598/Gallagher-was-a-dark-complex-man-who-surely-resents-humanity-for-only-remembering-him-as-guy-who-smashed-watermelons) |
+| [D'awww](https://www.fark.com/dawww/) | [Pooches in Pullovers. On parade](https://www.fark.com/goto/13480336) ( [apnews.com](https://www.fark.com/goto/13480336) ) » [(3 comments)](https://www.fark.com/comments/13480336/Pooches-in-Pullovers-On-parade) |
+| [Food](https://www.fark.com/food/) | [Want to lose weight? A diet of Kimchi is best, mainly because it's so disgusting you can't eat much](https://www.fark.com/goto/13480510) ( [scitechdaily.com](https://www.fark.com/goto/13480510) ) » [(17 comments)](https://www.fark.com/comments/13480510/Want-to-lose-weight-A-diet-of-Kimchi-is-best-mainly-because-its-so-disgusting-you-cant-eat-much) |
+| [Politics](https://www.fark.com/politics/) | [Qash Patel](https://www.fark.com/goto/13480408) ( [motherjones.com](https://www.fark.com/goto/13480408) ) » [(2 comments)](https://www.fark.com/comments/13480408/Qash-Patel) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +353,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Dec 01 2024 20:42:08  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Dec 02 2024 02:43:15  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
