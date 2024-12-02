@@ -298,11 +298,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/tatjana-ilic/pticu-nosim-zbog-umetnickog-rada/slika-12.jpg?itok=z4fdnrvh)](http://seecult.org/galerija/galerija-umetnika/tatjana-ilic/pticu-nosim-zbog-umetnickog-rada)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/vladimir-peric-talent/radovi-razno/2d-globus.jpg?itok=YiPxReyu)](http://seecult.org/galerija/galerija-umetnika/vladimir-peric-talent/radovi-razno)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/im1.jpg?itok=tEiDg3yg)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/irfan1.jpg?itok=78z2EY1V)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -318,16 +318,16 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 * [Nadežda Petrović u Narodnom muzeju](http://seecult.org/vest/nadezda-petrovic-u-narodnom-muzeju)
 
+* [Nominalno više, procentualno manje para za kulturu](http://seecult.org/vest/nominalno-vise-procentualno-manje-para-za-kulturu)
+* [RUTA peti put u BDP-u](http://seecult.org/vest/ruta-peti-put-u-bdp-u)
+* [Društvo bez zajednice](http://seecult.org/vest/drustvo-bez-zajednice)
+* [Fragmentacije: Raslojavanje vremena i prostora](http://seecult.org/vest/fragmentacije-raslojavanje-vremena-i-prostora)
 * [Nagrade 60. Oktobarskog salona Karavanu i Sosi](http://seecult.org/vest/nagrade-60-oktobarskog-salona-karavanu-i-sosi)
 * [Ponovni apel Nacionalnog komiteta ICOMOS-a Vladi Srbije](http://seecult.org/vest/ponovni-apel-nacionalnog-komiteta-icomos-vladi-srbije)
 * [Veseli pakao poezije](http://seecult.org/vest/veseli-pakao-poezije)
 * [Sorentinijev Partenopa otvara Dane italijanskog filma](http://seecult.org/vest/sorentinijev-partenopa-otvara-dane-italijanskog-filma)
 * [CERN – univerzum otkrića](http://seecult.org/vest/cern-univerzum-otkrica)
 * [Dobitnici nagrade Jelena Šantić - Za hrabri iskorak](http://seecult.org/vest/dobitnici-nagrade-jelena-santic-za-hrabri-iskorak)
-* [Nova godina koja nije došla pobednik 30. FAF-a](http://seecult.org/vest/nova-godina-koja-nije-dosla-pobednik-30-faf)
-* [Samosvojni Sera o kontroverznom dokumentarcu o koridi](http://seecult.org/vest/samosvojni-sera-o-kontroverznom-dokumentarcu-o-koridi)
-* [Vladimiru Radovanoviću nagrada Marko Glušac](http://seecult.org/vest/vladimiru-radovanovicu-nagrada-marko-glusac)
-* [Nagrada Igora Zabela Edit Andraš](http://seecult.org/vest/nagrada-igora-zabela-edit-andras)
 
 * [Konkursi](#tab1_1)
 
