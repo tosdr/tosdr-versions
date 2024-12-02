@@ -258,4 +258,4 @@ Discussions
 
 [Privacy](https://discuss.techlore.tech/privacy) [Posting Guidelines](https://discuss.techlore.tech/guidelines) [Matrix Feed](https://archive.matrix.org/r/techlore-discussions:matrix.org) [RSS](https://discuss.techlore.tech/latest.rss)
 
-[](https://www.youtube.com/@Techlore/featured "Check out our latest videos on Youtube")[](https://social.lol/@techlore "Follow our latest posts on Mastodon")[](https://www.patreon.com/techlore "Support the channel on Patreon")[](https://github.com/techlore "Read our resources on GitHub")[](https://www.linkedin.com/company/techloreyt "Follow the company on LinkedIn")
+[](https://www.youtube.com/@Techlore/featured "Check out our latest videos on Youtube")[](https://social.lol/@techlore "Follow our latest posts on Mastodon")[](https://bsky.app/profile/techlore.tech "Follow our latest posts on Bluesky")[](https://www.patreon.com/techlore "Support the channel on Patreon")[](https://github.com/techlore "Read our resources on GitHub")[](https://www.linkedin.com/company/techloreyt "Follow the company on LinkedIn")
