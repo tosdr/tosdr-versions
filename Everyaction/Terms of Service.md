@@ -99,7 +99,7 @@
     * [Fundraising + Engagement](https://www.bonterratech.com/pricing/fundraising-and-engagement)
     * [Case Management](https://www.bonterratech.com/pricing/case-management)
 * [Resources](https://www.everyaction.com/resource-hub)
-    * * * ![play webinar](https://www.bonterratech.com/wp-content/themes/bonterra/_images/webinar-play-button.png)
+    * * * ![Watch now](https://www.bonterratech.com/wp-content/uploads/2024/12/webinar-play-button1.png)
                 
                 ON-DEMAND WEBINAR
                 
