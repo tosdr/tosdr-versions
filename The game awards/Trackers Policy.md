@@ -2,6 +2,7 @@
 
 * [News](https://thegameawards.com/news)
 * [Nominees](https://thegameawards.com/nominees)
+* [Players' Voice](https://thegameawards.com/brackets/players-voice)
 * [About](https://thegameawards.com/about)
 * [Rewind](https://thegameawards.com/rewind)
 * [FAQ](https://thegameawards.com/faq)
@@ -13,6 +14,7 @@ Sign In
 
 * [News](https://thegameawards.com/news)
 * [Nominees](https://thegameawards.com/nominees)
+* [Players' Voice](https://thegameawards.com/brackets/players-voice)
 * [About](https://thegameawards.com/about)
 * [Rewind](https://thegameawards.com/rewind)
 * [FAQ](https://thegameawards.com/faq)
