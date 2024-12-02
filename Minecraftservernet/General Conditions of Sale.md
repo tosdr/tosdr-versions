@@ -29,15 +29,17 @@ Version All 1.21.3 1.21.2 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 
 
 Active Servers
 
-[![menacecraft](plugins/MineCraft/icons/25x25xmenacecraft_1652138567.png.pagespeed.ic.HfOnkxYpBG.png)
+[![LapsNetwork](plugins/MineCraft/icons/25x25xLapsNetwork_1733081406.png.pagespeed.ic.2yzyl-G9Ju.jpg)
 
-Menacecraft Survival Server \[Java and Bedrock\]](https://minecraft-server.net/details/menacecraft/ "Menacecraft Survival Server [Java and Bedrock]")[![MCVerseCity](plugins/MineCraft/icons/25x25xMCVerseCity_1700330564.png.pagespeed.ic.k89VlBgKKa.jpg)
+Laps Network - Exlusive Games](https://minecraft-server.net/details/LapsNetwork/ "Laps Network - Exlusive Games")[![SkyXNetwork](plugins/MineCraft/icons/25x25xSkyXNetwork_1733129780.png.pagespeed.ic.PFS-nW2_IQ.png)
 
-1.21.1 Vanilla+ NoGrief](https://minecraft-server.net/details/MCVerseCity/ "1.21.1 Vanilla+ NoGrief")[![axn](plugins/MineCraft/icons/25x25xaxn_1729107605.png.pagespeed.ic.WJSivFsGJ1.jpg)
+Sky X Network](https://minecraft-server.net/details/SkyXNetwork/ "Sky X Network ")[![HorusApl](plugins/MineCraft/icons/25x25xHorusApl_1720169128.png.pagespeed.ic.dbPZXbDd8P.png)
 
-Anarchy Network](https://minecraft-server.net/details/axn/ "Anarchy Network") [BuildixMC](https://minecraft-server.net/details/Buildix1/ "BuildixMC")[![StarlightVanilla](plugins/MineCraft/icons/25x25xStarlightVanilla_1733084759.png.pagespeed.ic.zTzQIgMQzH.jpg)
+ExeosCraft (1.21) | Economy SMP | McMMO | No Resets](https://minecraft-server.net/details/HorusApl/ "ExeosCraft (1.21) | Economy SMP | McMMO | No Resets")[![chillzonesmp](plugins/MineCraft/icons/25x25xchillzonesmp_1720845017.png.pagespeed.ic.cfh9_HKrci.png)
 
-VPG | Modern Anarchy](https://minecraft-server.net/details/StarlightVanilla/ "VPG | Modern Anarchy")
+ChillZone SMP {Whitelisted}](https://minecraft-server.net/details/chillzonesmp/ "ChillZone SMP {Whitelisted}")[![CraftedSurvival](plugins/MineCraft/icons/25x25xCraftedSurvival_1724663271.png.pagespeed.ic.7xXnoJyxX-.png)
+
+Crafted Survival SMP](https://minecraft-server.net/details/CraftedSurvival/ "Crafted Survival SMP")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Refund
@@ -114,4 +116,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06489 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.05897 - Created by [Debaucus](https://debauc.us/)
