@@ -2,157 +2,148 @@
 
 * Health Conditions
     
-    ### Featured
-    
-    [All](https://www.healthline.com/conditions)
-    
-    * [Breast Cancer](https://www.healthline.com/breast-cancer)
-    * [IBD](https://www.healthline.com/inflammatory-bowel-disease)
-    * [Migraine](https://www.healthline.com/migraine)
-    * [Multiple Sclerosis (MS)](https://www.healthline.com/multiple-sclerosis)
-    * [Rheumatoid Arthritis](https://www.healthline.com/rheumatoid-arthritis)
-    * [Type 2 Diabetes](https://www.healthline.com/type-2-diabetes)
-    * [Sponsored Topics](https://www.healthline.com/sponsored-topics)
-    
-    ### Articles
+    ### Health Conditions
     
     [All](https://www.healthline.com/directory/topics)
     
-    * [Acid Reflux](https://www.healthline.com/health/gerd)
-    * [ADHD](https://www.healthline.com/health/adhd)
-    * [Allergies](https://www.healthline.com/health/allergies)
-    * [Alzheimer's & Dementia](https://www.healthline.com/health/alzheimers-disease)
-    * [Bipolar Disorder](https://www.healthline.com/health/bipolar-disorder)
-    * [Cancer](https://www.healthline.com/health/cancer)
-    * [Crohn's Disease](https://www.healthline.com/health/crohns-disease)
-    * [Chronic Pain](https://www.healthline.com/health/chronic-pain)
-    * [Cold & Flu](https://www.healthline.com/health/cold-flu)
-    * [COPD](https://www.healthline.com/health/copd)
-    * [Depression](https://www.healthline.com/health/depression)
-    * [Fibromyalgia](https://www.healthline.com/health/fibromyalgia)
-    * [Heart Disease](https://www.healthline.com/health/heart-disease)
-    * [High Cholesterol](https://www.healthline.com/health/high-cholesterol)
-    * [HIV](https://www.healthline.com/health/hiv-aids)
-    * [Hypertension](https://www.healthline.com/health/high-blood-pressure-hypertension)
-    * [IPF](https://www.healthline.com/health/managing-idiopathic-pulmonary-fibrosis)
-    * [Osteoarthritis](https://www.healthline.com/health/osteoarthritis)
-    * [Psoriasis](https://www.healthline.com/health/psoriasis)
-    * [Skin Disorders and Care](https://www.healthline.com/health/skin-disorders)
-    * [STDs](https://www.healthline.com/health/sexually-transmitted-diseases)
+    * [Anxiety and Depression](https://www.healthline.com/mental-health)
+    * [Breast Cancer](https://www.healthline.com/breast-cancer)
+    * [Cancer Care](https://www.healthline.com/cancer-care)
+    * [Caregiving for Alzheimer's Disease](https://www.healthline.com/alzheimers-disease)
+    * [Chronic Kidney Disease](https://www.healthline.com/ckd)
+    * [Chronic Obstructive Pulmonary Disease (COPD)](https://www.healthline.com/copd)
+    * [Digestive Health](https://www.healthline.com/digestive-health)
+    * [Eye Health](https://www.healthline.com/eye-health)
+    * [Heart Health](https://www.healthline.com/heart-health)
+    * [Menopause](https://www.healthline.com/menopause)
+    * [Migraine](https://www.healthline.com/migraine)
+    * [Multiple Sclerosis (MS)](https://www.healthline.com/multiple-sclerosis)
+    * [Psoriasis](https://www.healthline.com/psoriasis)
+    * [Rheumatoid Arthritis (RA)](https://www.healthline.com/rheumatoid-arthritis)
+    * [Sleep Health](https://www.healthline.com/sleep)
+    * [Type 2 Diabetes](https://www.healthline.com/type-2-diabetes)
+    * [Weight Management](https://www.healthline.com/weight-management)
     
-* Discover
+    ### Condition Spotlight
+    
+    [All](https://www.healthline.com/sponsored-topics)
+    
+    * [![](https://media.post.rvohealth.io/wp-content/uploads/2024/12/navigation-icons-_controlling-ulcerative-colitis-236x236_360.png)
+        
+        Controlling Ulcerative Colitis
+        
+        Take back your life](https://www.healthline.com/program/controlling-uc)
+    * [![](https://media.post.rvohealth.io/wp-content/uploads/2024/12/navigation-icons_navigating-life-with-biopolar-236x236-1.png)
+        
+        Navigating Life with Bipolar Disorder
+        
+        You’re not alone](https://www.healthline.com/program/navigating-life-with-bipolar-disorder)
+    * [![](https://media.post.rvohealth.io/wp-content/uploads/2024/12/navigation-icons-_mastering-your-geographic-atrophy-236x236_360.png)
+        
+        Mastering Your Geographic Atrophy (GA) Care
+        
+        Managing advanced macular degeneration](https://www.healthline.com/program/mastering-your-geographic-atrophy-care)
+    * [![](https://media.post.rvohealth.io/wp-content/uploads/2024/12/navigation-icons_managing-type-2-diabetes-236x236-1.png)
+        
+        Managing Type 2 Diabetes
+        
+        Food, fitness, and glucose management](https://www.healthline.com/program/managing-type-2-diabetes-with-food-and-fitness)
+    
+* Wellness
     
     ### Wellness Topics
     
     [All](https://www.healthline.com/wellness)
     
-    * [Nutrition](https://www.healthline.com/nutrition)
+    * [CBD](https://www.healthline.com/cbd)
     * [Fitness](https://www.healthline.com/fitness)
-    * [Skin Care](https://www.healthline.com/skincare)
-    * [Sexual Health](https://www.healthline.com/sexual-health)
-    * [Women's Health](https://www.healthline.com/program/wellness)
+    * [Hearing Health](https://www.healthline.com/hearing-health)
     * [Mental Well-Being](https://www.healthline.com/mental-health)
-    * [Sleep](https://www.healthline.com/sleep)
+    * [Nutrition](https://www.healthline.com/nutrition)
+    * [Parenthood](https://www.healthline.com/parenthood)
+    * [Recipes](https://www.healthline.com/recipes)
+    * [Sexual Health](https://www.healthline.com/sexual-health)
+    * [Skin Care](https://www.healthline.com/skincare)
+    * [Sleep Health](https://www.healthline.com/sleep)
+    * [Vitamins and Supplements](https://www.healthline.com/vitamins-supplements)
+    * [Women's Wellness](https://www.healthline.com/program/womens-wellness)
     
     ### Product Reviews
     
     [All](https://www.healthline.com/reviews)
     
-    * [Vitamins & Supplements](https://www.healthline.com/reviews/vitamin-and-supplement-products)
-    * [Sleep](https://www.healthline.com/reviews/sleep-products)
+    * [At-Home Testing](https://www.healthline.com/reviews/at-home-tests)
+    * [Men's Health](https://www.healthline.com/reviews/mens-health-products)
     * [Mental Health](https://www.healthline.com/reviews/mental-health-services-and-products)
     * [Nutrition](https://www.healthline.com/reviews/nutrition-products)
-    * [At-Home Testing](https://www.healthline.com/reviews/at-home-testing-products)
-    * [CBD](https://www.healthline.com/reviews/cbd-products)
-    * [Men’s Health](https://www.healthline.com/reviews/mens-health-products)
+    * [Sleep](https://www.healthline.com/reviews/sleep-products)
+    * [Vitamins and Supplements](https://www.healthline.com/reviews/vitamin-and-supplement-products)
+    * [Women's Health](https://www.healthline.com/reviews/womens-health-products)
     
-    ### Original Series
+    ### Featured Programs
     
-    [All](https://www.healthline.com/series)
+    [All](https://www.healthline.com/sponsored-topics)
     
-    * [![](https://media.post.rvohealth.io/wp-content/uploads/2021/07/FFF_lead-logo4-23.png?w=240&h=240)
+    * [![](https://media.post.rvohealth.io/wp-content/uploads/2024/12/navigation-icons-_your-eczema-skincare-roadmap-236x236_360.png)
         
-        Fresh Food Fast
+        Your Eczema Skin Care Roadmap
         
-        Food hacks to make eating healthier, easier.](https://www.healthline.com/content-series/fresh-food-fast)
-    * [![](https://media.post.rvohealth.io/wp-content/uploads/2022/07/HL-icon-diagnosis-diaries-1.png)
+        Resources for symptom prevention and relief](https://www.healthline.com/program/your-eczema-skin-care-roadmap)
+    * [![](https://media.post.rvohealth.io/wp-content/uploads/2024/12/navigation-icons-_understanding-inflammation-and-aging-236x236_360.png)
         
-        Diagnosis Diaries
+        Understanding Inflammation and Aging
         
-        Real diagnosis stories from people who get it.](https://www.healthline.com/content-series/diagnosis-diaries)
-    * [![](https://media.post.rvohealth.io/wp-content/uploads/2022/07/HL-icon-youre-not-alone-1.png)
+        Your healthy aging guide](https://www.healthline.com/program/understanding-inflammation-and-aging)
+    * [![](https://media.post.rvohealth.io/wp-content/uploads/2024/12/navigation-icons-_cold-and-flu-236x236_360.png)
         
-        You’re Not Alone
+        Cold & Flu Season Survival Guide
         
-        Stories from real people that destigmatize mental health conditions.](https://www.healthline.com/content-series/youre-not-alone)
-    * [![](https://media.post.rvohealth.io/wp-content/uploads/2021/05/HL-Content_Series-Present_Tense-Series_Logo-500x500-Series_Logo.png)
+        A roadmap for you to beat the cold and flu](https://www.healthline.com/program/cold-flu-survival-guide)
+    * [![](https://media.post.rvohealth.io/wp-content/uploads/2024/12/navigation-icons_shes-good-for-real-236x236-1.png)
         
-        Present Tense
+        She’s Good for Real
         
-        Real-world mindfulness for busy people.](https://www.healthline.com/content-series/present-tense)
+        Meaningful holistic health care for Black women](https://www.healthline.com/program/shes-good-for-real)
     
-    ### Video Series
+* Tools
     
-    [All](https://www.healthline.com/video)
+    ### Featured
     
-    * [![](https://media.post.rvohealth.io/wp-content/uploads/2022/07/240x240-Youth-in-Focus.png)
-        
-        Youth in Focus
-        
-        Mental health challenges facing our youth.](https://www.healthline.com/health/video/youth-in-focus)
-    * [![](https://media.post.rvohealth.io/wp-content/uploads/2022/09/Healthy_harvest_icon_Artboard-4-transformed.png)
-        
-        Healthy Harvest
-        
-        Meet your food, from farm to table.](https://www.healthline.com/health/nutrition/video/healthy-harvest)
-    * [![](https://media.post.rvohealth.io/wp-content/uploads/2023/10/Through_an_artists_eye-07.png)
-        
-        Through An Artist's Eye
-        
-        A breast cancer story told through art.](https://www.healthline.com/health/breast-cancer/metastatic-breast-cancer-artist-eye)
-    * [![](https://media.post.rvohealth.io/wp-content/uploads/2022/07/HL-icon-future-of-health-1.png)
-        
-        Future of Health
-        
-        Innovations shaping the future of health.](https://www.healthline.com/health/video/future-of-health)
+    * [Video Series](https://www.healthline.com/video)
+    * [Pill Identifier](https://www.healthline.com/pill-identifier)
+    * [FindCare](https://www.healthline.com/find-care)
+    * [Drugs A-Z](https://www.healthline.com/drugs)
     
-* Plan
+    ### Healthline Lessons
     
-    ### Health Challenges
+    [All](https://learn.healthline.com/)
     
-    * [Mindful Eating](https://www.healthline.com/newsletter-signup/mindfulness-challenge)
-    * [Sugar Savvy](https://www.healthline.com/newsletter-signup/sugar-challenge)
-    * [Move Your Body](https://www.healthline.com/newsletter-signup/move-your-body-challenge)
-    * [Gut Health](https://www.healthline.com/newsletter-signup/gut-check-challenge)
-    * [Mood Foods](https://www.healthline.com/newsletter-signup/mood-foods-challenge)
-    * [Align Your Spine](https://www.healthline.com/newsletter-signup/align-your-spine-challenge)
+    * [Crohn’s and Ulcerative Colitis Essentials](https://www.healthline.com/app/inflammatory-bowel-disease?utm_source=lessonshome)
+    * [Diabetes Nutrition](https://www.healthline.com/app/type-2-diabetes?utm_source=lessonshome)
+    * [High Cholesterol](https://www.healthline.com/app/high-cholesterol?utm_source=lessonshome)
+    * [Taming Inflammation in Psoriasis](https://www.healthline.com/app/pso-inflammation?utm_source=lessonshome)
+    * [Taming Inflammation in Psoriatic Arthritis](https://www.healthline.com/app/psa-inflammation?utm_source=lessonshome)
+    * [Taming Inflammation in Rheumatoid Arthritis](https://www.healthline.com/app/ra-inflammation?utm_source=lessonshome)
     
-    ### Find Care
+    ### Newsletters
     
-    [All](https://care.healthline.com/find-care/specialty)
+    [All](https://www.healthline.com/newsletter-signup)
     
-    * [Primary Care](https://care.healthline.com/find-care/specialty/primary-care-doctors?ref=global)
-    * [Mental Health](https://care.healthline.com/find-care/specialty/mental-health-professional?ref=global)
-    * [OB-GYN](https://care.healthline.com/find-care/specialty/obstetrics-gynecology?ref=global)
-    * [Dermatologists](https://care.healthline.com/find-care/specialty/dermatology?ref=global)
-    * [Neurologists](https://care.healthline.com/find-care/specialty/neurology?ref=global)
-    * [Cardiologists](https://care.healthline.com/find-care/specialty/cardiology?ref=global)
-    * [Orthopedists](https://care.healthline.com/find-care/specialty/orthopedic-surgery?ref=global)
+    * [Anxiety and Depression](https://www.healthline.com/newsletter-anxiety-depression-personalization)
+    * [Digestive Health](https://www.healthline.com/newsletter-signup/ibd)
+    * [Heart Health](https://www.healthline.com/newsletter-signup/heart-health)
+    * [Migraine](https://www.healthline.com/newsletter-signup/migraine)
+    * [Nutrition Edition](https://www.healthline.com/newsletter-signup/nutrition)
+    * [Type 2 Diabetes](https://www.healthline.com/newsletter-signup/type-2-diabetes)
+    * [Wellness Wire](https://www.healthline.com/newsletter-signup/wellness-wire)
     
     ### Lifestyle Quizzes
     
-    * [Weight Management](https://www.healthline.com/nutrition/weight-management-quiz)
-    * [Am I Depressed? A Quiz for Teens](https://www.healthline.com/health/depression/teenage-quiz)
-    * [Are You a Workaholic?](https://www.healthline.com/health/mental-health/quiz-are-you-a-workaholic#quiz-are-you-a-workaholic)
-    * [How Well Do You Sleep?](https://www.healthline.com/health/healthy-sleep/quiz-how-well-do-you-sleep)
-    
-    ### Tools & Resources
-    
-    * [Health News](https://www.healthline.com/health-news)
     * [Find a Diet](https://activation.healthline.com/assessment/assessment/diets/prompt/1?v=1&tc=120226&subid=hl_dietfinder_1_)
     * [Find Healthy Snacks](https://activation.healthline.com/assessment/assessment/pregnancy-snacks/prompt/1?v=1)
-    * [Drugs A-Z](https://www.healthline.com/drugs)
-    * [Health A-Z](https://www.healthline.com/directory/topics)
+    * [Weight Management](https://www.healthline.com/nutrition/weight-management-quiz)
+    * [How Well Do You Sleep?](https://www.healthline.com/health/healthy-sleep/quiz-how-well-do-you-sleep#1)
+    * [Are You a Workaholic?](https://www.healthline.com/health/mental-health/quiz-are-you-a-workaholic#quiz-are-you-a-workaholic)
     
 * Connect
     
@@ -165,18 +156,18 @@
     * [![](https://media.post.rvohealth.io/wp-content/uploads/2022/01/Bezzy-Breast-Cancer.png)
         
         Breast Cancer](https://www.bezzybc.com/lp/2/?verzenio&utm_source=healthline&utm_medium=nav-bar-connections)
-    * [![](https://media.post.rvohealth.io/wp-content/uploads/2022/01/Bezzy-Inflammatory-Bowel-Disease.png)
-        
-        Inflammatory Bowel Disease](https://www.bezzyibd.com/?utm_source=healthline&utm_medium=nav-bar-connections)
-    * [![](https://media.post.rvohealth.io/wp-content/uploads/2024/11/Bezzy-DEP-Icon-Circle.png)
-        
-        Depression](https://www.bezzydepression.com/?auvelity&utm_source=healthline&utm_medium=nav-bar-connections)
-    * [![](https://media.post.rvohealth.io/wp-content/uploads/2022/01/Bezzy-Migraine.png)
-        
-        Migraine](https://www.bezzymigraine.com/?utm_source=healthline&utm_medium=nav-bar-connections)
     * [![](https://media.post.rvohealth.io/wp-content/uploads/2022/01/Bezzy-Multiple-Sclerosis.png)
         
         Multiple Sclerosis](https://www.bezzyms.com/?utm_source=healthline&utm_medium=nav-bar-connections)
+    * [![](https://media.post.rvohealth.io/wp-content/uploads/2024/11/Bezzy-DEP-Icon-Circle.png)
+        
+        Depression](https://www.bezzydepression.com/?auvelity&utm_source=healthline&utm_medium=nav-bar-connections)
+    * [![](https://media.post.rvohealth.io/wp-content/uploads/2022/01/Bezzy-Inflammatory-Bowel-Disease.png)
+        
+        Inflammatory Bowel Disease](https://www.bezzyibd.com/?utm_source=healthline&utm_medium=nav-bar-connections)
+    * [![](https://media.post.rvohealth.io/wp-content/uploads/2024/12/Bezzy-T2D-Icon-Circle.png)
+        
+        Type 2 Diabetes](https://www.bezzyt2d.com/?utm_source=healthline&utm_medium=nav-bar-connections)
     * [![](https://media.post.rvohealth.io/wp-content/uploads/2022/04/Bezzy-PsO.png)
         
         Psoriasis](https://www.bezzypsoriasis.com/?utm_source=healthline&utm_medium=nav-bar-connections)
@@ -189,28 +180,6 @@
     
 
 Subscribe
-
-[#### Sleep](https://www.healthline.com/sleep)
-
-* Disorders
-    
-    * [Sleep Disorders](https://www.healthline.com/sleep/disorders)
-    * [Insomnia](https://www.healthline.com/sleep/disorders/insomnia)
-    * [Sleep Apnea](https://www.healthline.com/sleep/disorders/sleep-apnea)
-    * [Restless Leg Syndrome](https://www.healthline.com/sleep/disorders/restless-leg-syndrome)
-    * [Narcolepsy](https://www.healthline.com/sleep/disorders/narcolepsy)
-    
-* [Better Sleep](https://www.healthline.com/sleep/better-sleep)
-* [Tools](https://www.healthline.com/sleep/sleep-tools)
-* [Holistic Health](https://www.healthline.com/sleep/holistic-health)
-* [Mental Well-Being](https://www.healthline.com/sleep/mental-well-being)
-* [Snoring Management](https://www.healthline.com/sleep/snoring)
-* [Medication and Treatments](https://www.healthline.com/sleep/treatment)
-* [Dreams](https://www.healthline.com/sleep/dreams)
-* [Types of Sleepers](https://www.healthline.com/sleep/types)
-* [Science](https://www.healthline.com/sleep/science)
-* [Product Reviews](https://www.healthline.com/reviews/sleep-products)
-* [News](https://www.healthline.com/sleep/news)
 
 Privacy Policy
 ==============
