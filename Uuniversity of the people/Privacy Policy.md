@@ -40,7 +40,7 @@
     * [UoPeople Quality](https://www.uopeople.edu/student-experience/quality/)
         
         * [Accreditation](https://www.uopeople.edu/student-experience/quality/accreditation/)
-        * [Academic Leadership](https://www.uopeople.edu/?page_id=1354)
+        * [Academic Leadership](https://www.uopeople.edu/about/leadership/department/academic-leadership/)
         * [Academic Experience](https://www.uopeople.edu/student-experience/quality/academic-experience/)
     * [UoPeople Difference](https://www.uopeople.edu/student-experience/uopeople-difference/)
         
