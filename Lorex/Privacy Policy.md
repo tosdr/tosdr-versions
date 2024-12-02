@@ -441,11 +441,11 @@ Your cart is empty
     Accessories](https://www.lorex.com/collections/accessories-security-system)
     
     * [Hard Drives](https://www.lorex.com/collections/hard-drives)
-    * [Cables](https://www.lorex.com/collections/cables)
+    * [Ethernet Cables (IP Camera)](https://www.lorex.com/collections/ethernet-cables)
+    * [BNC Cables (Analog Cameras)](https://www.lorex.com/collections/bnc-cables)
     * [Junction Boxes](https://www.lorex.com/collections/junction-boxes)
     * [Mounts and Brackets](https://www.lorex.com/collections/mounts-and-brackets)
     * [PoE Switches and Converters](https://www.lorex.com/collections/poe-switches)
-    * [Power Adapters](https://www.lorex.com/collections/power-adapters)
     
     [**Shop All >**](https://www.lorex.com/collections/accessories-security-system)
     
@@ -613,6 +613,8 @@ Your cart is empty
 * [Deals arrow bottom](https://www.lorex.com/pages/promotions)
     
     [Cyber Monday is Here!](https://www.lorex.com/pages/promotions)
+    
+    [Cyber Monday Cloud Storage Deals](https://www.lorex.com/collections/cloud-storage-cameras)
     
     [Lorex Clearance Outlet](https://www.lorex.com/pages/outlet)
     
