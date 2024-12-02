@@ -207,50 +207,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Terri Winfield
 
-![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=bef88e2e473ea324ec49fb4d2893964b46277c1ba2921cc98e5a4557c8d2f8bf&c=185004036)  
-Kainos (Pty) Ltd
+![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=941e785abe50ede58c0f6d0820dc1ff1198532a4a62f02278fb3721e86d74089&c=39815335)  
+LEONARD
 
-![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=bef88e2e473ea324ec49fb4d2893964b46277c1ba2921cc98e5a4557c8d2f8bf&c=80029942)  
-Sonic Electrical Services PTY Ltd
+![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=941e785abe50ede58c0f6d0820dc1ff1198532a4a62f02278fb3721e86d74089&c=134953782)  
+Entidee Enterprise PTY (ltd)
 
-![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=bef88e2e473ea324ec49fb4d2893964b46277c1ba2921cc98e5a4557c8d2f8bf&c=88976557)  
-Sarabi
+![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=941e785abe50ede58c0f6d0820dc1ff1198532a4a62f02278fb3721e86d74089&c=6725354)  
+OPTIMUS ELECTRICAL PTY (LTD)
 
-![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=bef88e2e473ea324ec49fb4d2893964b46277c1ba2921cc98e5a4557c8d2f8bf&c=111591887)  
-Multi CNC Solutions CC
+![valued client SAUL ATHOL ACRES RENTAL](https://www.invoicesonline.co.za/scripts/image.php?bid=8430&file=logo_300_100&type=&fe=941e785abe50ede58c0f6d0820dc1ff1198532a4a62f02278fb3721e86d74089&c=72427216)  
+SAUL ATHOL ACRES RENTAL
 
-![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=bef88e2e473ea324ec49fb4d2893964b46277c1ba2921cc98e5a4557c8d2f8bf&c=67920349)  
-Import Maaw
+![valued client MONSTER SECURITY SERVICES (NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=941e785abe50ede58c0f6d0820dc1ff1198532a4a62f02278fb3721e86d74089&c=11352879)  
+MONSTER SECURITY SERVICES (NORTHAM)
 
-![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=bef88e2e473ea324ec49fb4d2893964b46277c1ba2921cc98e5a4557c8d2f8bf&c=151185160)  
-Goju Ryu Karate Centre
+![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=941e785abe50ede58c0f6d0820dc1ff1198532a4a62f02278fb3721e86d74089&c=142506505)  
+Kaylas Creations
 
-![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=bef88e2e473ea324ec49fb4d2893964b46277c1ba2921cc98e5a4557c8d2f8bf&c=190047624)  
-McKaynine Mobility
+![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=941e785abe50ede58c0f6d0820dc1ff1198532a4a62f02278fb3721e86d74089&c=113607594)  
+Well Hung Art
 
-![valued client Calonet ](https://www.invoicesonline.co.za/scripts/image.php?bid=3324&file=logo_300_100&type=&fe=bef88e2e473ea324ec49fb4d2893964b46277c1ba2921cc98e5a4557c8d2f8bf&c=190582988)  
-Calonet
+![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=941e785abe50ede58c0f6d0820dc1ff1198532a4a62f02278fb3721e86d74089&c=54685354)  
+Safe-Train Consulting (PTY) Ltd
 
-![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=bef88e2e473ea324ec49fb4d2893964b46277c1ba2921cc98e5a4557c8d2f8bf&c=20641408)  
-M's Frozen Delights
+![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=941e785abe50ede58c0f6d0820dc1ff1198532a4a62f02278fb3721e86d74089&c=136594777)  
+Imhoff Equestrian Centre
 
-![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=bef88e2e473ea324ec49fb4d2893964b46277c1ba2921cc98e5a4557c8d2f8bf&c=167005355)  
-Highlands Auto Engineering
+![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=941e785abe50ede58c0f6d0820dc1ff1198532a4a62f02278fb3721e86d74089&c=16013116)  
+van Schaik rentals
 
-![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=bef88e2e473ea324ec49fb4d2893964b46277c1ba2921cc98e5a4557c8d2f8bf&c=177375258)  
-SA Security Brokerz (Pty) Ltd
+![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=941e785abe50ede58c0f6d0820dc1ff1198532a4a62f02278fb3721e86d74089&c=163280704)  
+Camp 4 Africa (Pty) Ltd
 
-![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=bef88e2e473ea324ec49fb4d2893964b46277c1ba2921cc98e5a4557c8d2f8bf&c=152958305)  
-Laurinda Pretorius Spraak en Drama Ateljee
+![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=941e785abe50ede58c0f6d0820dc1ff1198532a4a62f02278fb3721e86d74089&c=165082613)  
+Lizzy Pop PTY(Ltd)
 
-![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=bef88e2e473ea324ec49fb4d2893964b46277c1ba2921cc98e5a4557c8d2f8bf&c=149956726)  
-Gemini-IT Group
+![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=941e785abe50ede58c0f6d0820dc1ff1198532a4a62f02278fb3721e86d74089&c=82860471)  
+Peter Salvage Pty Ltd
 
-![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=bef88e2e473ea324ec49fb4d2893964b46277c1ba2921cc98e5a4557c8d2f8bf&c=37252079)  
-Wiselink Broadband Pty Ltd
+![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=941e785abe50ede58c0f6d0820dc1ff1198532a4a62f02278fb3721e86d74089&c=92385059)  
+UMVIKELI PRIVATE SECURITY
 
-![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=bef88e2e473ea324ec49fb4d2893964b46277c1ba2921cc98e5a4557c8d2f8bf&c=141410054)  
-PROGRAPHIX PTY LTD
+![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=941e785abe50ede58c0f6d0820dc1ff1198532a4a62f02278fb3721e86d74089&c=207407513)  
+Imvubu General Trading
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
