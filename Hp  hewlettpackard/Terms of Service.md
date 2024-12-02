@@ -303,7 +303,7 @@ Unauthorized Use of This Website, Acceptable Use Policy
 
 We authorize Your limited use of This Website. Any other use of This Website beyond the Permitted Uses is prohibited and, therefore, constitutes unauthorized use of This Website. This is because all rights in This Website remain the property of HP.
 
-Unauthorized use of This Website may result in violation of various United States and international copyright laws. We do not want that to happen and, therefore, We have given You examples of things to avoid in Our Acceptable Use Policy found here [HP Acceptable Use Policy](https://www.hp.com/uk-en/acceptable-use-policy.html) . You must follow HP’s Acceptable Use Policy whenever you use This Website or any services offered from This Website.
+Unauthorized use of This Website may result in violation of various United States and international copyright laws. We do not want that to happen and, therefore, We have given You examples of things to avoid in Our Acceptable Use Policy found here [HP Acceptable Use Policy](https://www.hp.com/us-en/acceptable-use-policy.html) . You must follow HP’s Acceptable Use Policy whenever you use This Website or any services offered from This Website.
 
 Terminating Your Use of This Website
 ------------------------------------
@@ -385,7 +385,7 @@ HP may, but is not obligated to, pre-screen User Submissions or monitor any area
 Intellectual Property Rights
 ----------------------------
 
-HP respects the intellectual property rights of others, and We ask You to do the same. HP may, in appropriate circumstances and at our discretion, terminate service and/or access to This Webite for users who infringe the intellectual property rights of others. If You believe that your work is the subject of copyright infringement and/or trademark infringement and appears on this Website, please let Us know by following the procedures found here [Claims of Infringement on HP Websites](https://www.hp.com/uk-en/infringement.html).
+HP respects the intellectual property rights of others, and We ask You to do the same. HP may, in appropriate circumstances and at our discretion, terminate service and/or access to This Webite for users who infringe the intellectual property rights of others. If You believe that your work is the subject of copyright infringement and/or trademark infringement and appears on this Website, please let Us know by following the procedures found here [Claims of Infringement on HP Websites](https://www.hp.com/us-en/infringement.html).
 
 Links To Third-Party Websites
 -----------------------------
