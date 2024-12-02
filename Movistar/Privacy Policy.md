@@ -24,7 +24,7 @@ Hola, 
 
 Mi cuenta 
 
-[Ofertas Black Friday](https://www.movistar.es/black-friday "Enlace a Ofertas Black Friday") [miMovistar: Fibra, móvil y TV](https://www.movistar.es/fibra-y-movil/ "Enlace a fibra y movil") [Fibra](https://www.movistar.es/fibra-optica/ "Enlace a Fibra Óptica") [Tarifas móviles](https://www.movistar.es/tarifas-moviles/ "Enlace a Tarifas móviles") [Televisión](https://www.movistar.es/tv/ "Enlace a Televisión") [Móviles y dispositivos](https://www.movistar.es/moviles/ "Enlace a Móviles y dispositivos") [Más servicios](https://www.movistar.es/mas-servicios/ "Enlace a Más servicios")
+[Ofertas Cyber Monday](https://www.movistar.es/black-friday "Enlace a Ofertas Black Friday") [miMovistar: Fibra, móvil y TV](https://www.movistar.es/fibra-y-movil/ "Enlace a fibra y movil") [Fibra](https://www.movistar.es/fibra-optica/ "Enlace a Fibra Óptica") [Tarifas móviles](https://www.movistar.es/tarifas-moviles/ "Enlace a Tarifas móviles") [Televisión](https://www.movistar.es/tv/ "Enlace a Televisión") [Móviles y dispositivos](https://www.movistar.es/moviles/ "Enlace a Móviles y dispositivos") [Más servicios](https://www.movistar.es/mas-servicios/ "Enlace a Más servicios")
 
 [Autónomos](https://www.movistar.es/autonomos "Enlace a Autónomos")
 
@@ -41,7 +41,7 @@ Ofertas para
 
 [](https://www.movistar.es/black-friday "Ofertas Black Friday")
 
-Ofertas Black Friday
+Ofertas Cyber Monday
 
 [](https://www.movistar.es/fibra-y-movil "Fibra, móvil y TV")
 
