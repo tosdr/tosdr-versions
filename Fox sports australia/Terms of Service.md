@@ -60,136 +60,16 @@ FOX SCORES
     
 * [NFL
     
-    Full Time
+    3/12 12:15 AEST
     
     |     |     |
     | --- | --- |
-    | NO  | 14  |
-    | LAR | 21  |
+    | DEN | –   |
+    | CLE | –   |
     
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251312)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | BAL | 19  |
-    | PHI | 24  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251314)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | CAR | 23  |
-    | TB  | 26  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251313)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | BUF | 35  |
-    | SF  | 10  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251315)
+    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251316)
 * Basketball
     
-* [NBA
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | MEM | 136 |
-    | IND | 121 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010287/box-score)
-* [NBA
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | BKN | 92  |
-    | ORL | 100 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010286/box-score)
-* [NBA
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | NY  | 118 |
-    | NO  | 85  |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25011055/box-score)
-* [NBA
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | CLE | 115 |
-    | BOS | 111 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010288/box-score)
-* [NBA
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | TOR | 119 |
-    | MIA | 116 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010289/box-score)
-* [NBA
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | HOU | 119 |
-    | OKC | 116 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010290/box-score)
-* [NBA
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | UTA | 104 |
-    | LAL | 105 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010291/box-score)
-* [NBA
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | POR | 131 |
-    | DAL | 137 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010292/box-score)
-* [NBA
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | SAC | 125 |
-    | SA  | 127 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010293/box-score)
 * [NBA
     
     Full Time
@@ -200,6 +80,46 @@ FOX SCORES
     | DEN | 122 |
     
     Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010294/box-score)
+* [NBA
+    
+    3/12 11:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | ATL | –   |
+    | NO  | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25011207)
+* [NBA
+    
+    3/12 11:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | BOS | –   |
+    | MIA | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010296)
+* [NBA
+    
+    3/12 12:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | CHI | –   |
+    | BKN | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010297)
+* [NBA
+    
+    3/12 12:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | MIN | –   |
+    | LAL | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25011056)
 * Motorsport
     
 * [Formula 1
@@ -945,7 +865,7 @@ FOX SCORES
 
 [Fox sports](https://www.foxsports.com.au/)
 
-[Scores](https://www.foxsports.com.au/score-centre)
+[Scores](https://www.foxsports.com.au/score-centre/live-now)
 
 * [Video](https://www.foxsports.com.au/video)
 * [NRL](https://www.foxsports.com.au/nrl)
