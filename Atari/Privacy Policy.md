@@ -370,12 +370,12 @@ Atari 7800+](https://www.atari.com/collections/7800)
 
  
 
-BLACK FRIDAY DEALS
-==================
+CYBER MONDAY BUNDLES
+====================
 
-Save up to 50% on consoles, games, merch, and more!
+Bundle and SAVE on consoles, games, merch, and more!
 
-[Shop Now](https://www.atari.com/collections/black-friday-sale)
+[Shop Now](https://www.atari.com/collections/cyber-monday-bundles)
 
  
 
@@ -438,17 +438,17 @@ We have something for everyone - Give the gift of Atari.
 
 SHOP NOW](https://www.atari.com/pages/holiday-gift-guides)
 
-### BLACK FRIDAY DEALS
+### Holiday Best Sellers
 
-[![Black Friday Exclusive: 7800+ Console w/ 2 Wireless Controllers](files/7800_ControllerBundle_ac00091b-dc0f-4116-9738-d7ed57de3ea7.jpg)
+[![Cyber Monday Exclusive: 7800+ Console w/ 2 Wireless Controllers](files/7800_ControllerBundle_ac00091b-dc0f-4116-9738-d7ed57de3ea7.jpg)
 
-![Black Friday Exclusive: 7800+ Console w/ 2 Wireless Controllers](files/Atari_10102024_257_d6a2d153-b144-4fde-8c48-240d70c7d610.jpg)
+![Cyber Monday Exclusive: 7800+ Console w/ 2 Wireless Controllers](files/Atari_10102024_257_d6a2d153-b144-4fde-8c48-240d70c7d610.jpg)
 
 Add to cart
 
-Black Friday Deal
+Cyber Monday Bundle
 
-##### Black Friday Exclusive: 7800+ Console w/ 2 Wireless Controllers
+##### Cyber Monday Exclusive: 7800+ Console w/ 2 Wireless Controllers
 
 Regular price $164.98 Sale price $131.98
 
@@ -456,15 +456,15 @@ Regular price $131.98
 
 Unit price /  per](https://www.atari.com/products/black-friday-exclusive-7800-console-w-2-wireless-controllers) 
 
-[![Black Friday Exclusive: 2600+ Console w/ 2 Joysticks](files/2600_ControllerBundle_5a12bb88-f403-4181-a3d1-220adf1ca0da.jpg)
+[![Cyber Monday Exclusive: 2600+ Console w/ 2 Joysticks](files/2600_ControllerBundle_5a12bb88-f403-4181-a3d1-220adf1ca0da.jpg)
 
-![Black Friday Exclusive: 2600+ Console w/ 2 Joysticks](files/Atari_10102024_485_f09442dd-823f-4a04-9e97-7c36a888cd5a.jpg)
+![Cyber Monday Exclusive: 2600+ Console w/ 2 Joysticks](files/Atari_10102024_485_f09442dd-823f-4a04-9e97-7c36a888cd5a.jpg)
 
 Add to cart
 
-Black Friday Deal
+Cyber Monday Bundle
 
-##### Black Friday Exclusive: 2600+ Console w/ 2 Joysticks
+##### Cyber Monday Exclusive: 2600+ Console w/ 2 Joysticks
 
 Regular price $154.98 Sale price $131.73
 
@@ -500,15 +500,15 @@ Regular price $40
 
 Unit price /  per](https://www.atari.com/products/oversized-fuji-hoodie)         
 
-[![VCS All-In Bundle (Onyx)](products/Atari_VCS_Onyx_Product_Group.jpg)
+[![VCS All-In Bundle](products/Atari_VCS_Onyx_Product_Group.jpg)
 
-![VCS All-In Bundle (Onyx)](files/1_95fe8086-5652-4c4b-80ed-a02e32396e01.jpg)
+![VCS All-In Bundle](files/1_95fe8086-5652-4c4b-80ed-a02e32396e01.jpg)
 
 Add to cart
 
 50% OFF
 
-##### VCS All-In Bundle (Onyx)
+##### VCS All-In Bundle
 
 Regular price $200 Sale price $99.99
 
