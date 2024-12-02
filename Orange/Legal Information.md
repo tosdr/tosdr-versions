@@ -18,10 +18,10 @@
     
     * Orange's commitment
         * Orange's commitment
-        * [To the environment](https://www.orange.com/en/commitments/oranges-commitment/to-the-environment)
-        * [To digital equality](https://www.orange.com/en/oranges-commitment-digital-equality)
-        * [To building a safer digital world](https://www.orange.com/en/commitments/oranges-commitment/to-building-a-society-based-on-trust)
-        * [To supporting a responsible economy](https://www.orange.com/en/oranges-commitment-responsible-business)
+        * [To the environment](https://www.orange.com/en/commitments/to-the-environment/net-zero-carbon-by-2040)
+        * [To digital equality](https://www.orange.com/en/digital-equality)
+        * [To building a safer digital world](https://www.orange.com/en/safer-digital-world)
+        * [To supporting a responsible economy](https://www.orange.com/en/responsible-economy)
         * [Our purpose](https://www.orange.com/en/commitments/our-purpose-the-compass-that-guides-our-actions)
     * Social responsibility
         * Social responsibility
