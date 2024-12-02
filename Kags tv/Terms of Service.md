@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.kagstv.com/assets/KCEN/images/b82f95a3-570c-4461-8e7a-897e6f449fbc/20241202T151641/b82f95a3-570c-4461-8e7a-897e6f449fbc_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/b82f95a3-570c-4461-8e7a-897e6f449fbc/20241202T151641/b82f95a3-570c-4461-8e7a-897e6f449fbc_360x203.jpg)](https://www.kagstv.com/article/news/local/college-station-large-fraternity-party-break-up-one-arrested-nov-30-2024/500-ff22faae-bf98-4cc6-ba85-3329d0990228)
+        
+        #### [Over 600-person fraternity party shut down in College Station, organizer arrested](https://www.kagstv.com/article/news/local/college-station-large-fraternity-party-break-up-one-arrested-nov-30-2024/500-ff22faae-bf98-4cc6-ba85-3329d0990228)
+        
     *  [![](https://media.kagstv.com/assets/WFAA/images/a3adbda4-f4d7-41f4-9934-025e0ce966fa/20241201T034205/a3adbda4-f4d7-41f4-9934-025e0ce966fa_16x9.jpg) ![](https://media.kagstv.com/assets/WFAA/images/a3adbda4-f4d7-41f4-9934-025e0ce966fa/20241201T034205/a3adbda4-f4d7-41f4-9934-025e0ce966fa_360x203.jpg)](https://www.kagstv.com/article/news/local/is-texas-am-a-military-school-heres-why-you-see-hundreds-in-uniform/287-17b3b4d2-6af6-47ce-af45-aa4cf8073394)
         
         #### [Is Texas A&M a military school? Here's why you see hundreds dressed in uniform](https://www.kagstv.com/article/news/local/is-texas-am-a-military-school-heres-why-you-see-hundreds-in-uniform/287-17b3b4d2-6af6-47ce-af45-aa4cf8073394)
-        
-    *  [![](https://media.kagstv.com/assets/KHOU/images/ece66740-a30a-4a92-b861-1b0a2a9a48e0/20241201T143626/ece66740-a30a-4a92-b861-1b0a2a9a48e0_16x9.jpg) ![](https://media.kagstv.com/assets/KHOU/images/ece66740-a30a-4a92-b861-1b0a2a9a48e0/20241201T143626/ece66740-a30a-4a92-b861-1b0a2a9a48e0_360x203.jpg)](https://www.kagstv.com/article/news/local/texas-longhorns-aggies-updates-highlghts/285-20750c46-b479-4859-b478-1e0dbbbda180)
-        
-        #### [Texas tops Texas A&M 17-7, will play in SEC title game against Georgia](https://www.kagstv.com/article/news/local/texas-longhorns-aggies-updates-highlghts/285-20750c46-b479-4859-b478-1e0dbbbda180)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -86,7 +86,7 @@ Navigation
 
 Bryan, TX »
 
-44°
+69°
 
 ![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
