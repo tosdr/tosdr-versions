@@ -1,4 +1,4 @@
-[Our Cyber Sale is going on now, save 30% off thousands of products!  
+[Our Cyber Sale is ending soon!  Save 30% until 7am Central Time, US.  
 
 Shop Now!](https://blendermarket.com/products?on_sale=true)
 
