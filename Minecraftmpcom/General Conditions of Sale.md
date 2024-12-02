@@ -1,5 +1,3 @@
-**A new month has begun, all votes have been reset.**
-
 General Terms And Conditions of Sale
 ====================================
 
