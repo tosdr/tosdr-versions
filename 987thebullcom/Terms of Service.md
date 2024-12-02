@@ -212,11 +212,11 @@ Recently Played
 
 |     |
 | --- |
-| I Never LieZach Top<br><br>10:38am |
-| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>10:35am |
-| Where It EndsBailey Zimmerman<br><br>10:32am |
-| Die A Happy ManThomas Rhett<br><br>10:28am |
-| Fancy LikeWalker Hayes<br><br>10:25am |
+| Lies, Lies, LiesMorgan Wallen<br><br>4:38pm |
+| A Lot More FreeMax Mcnown<br><br>4:35pm |
+| Pour Me A DrinkPost Malone Ft Blake Shelton<br><br>4:31pm |
+| Heartache MedicationJon Pardi<br><br>4:28pm |
+| Thats My Kind Of NightLuke Bryan<br><br>4:25pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -368,13 +368,13 @@ Sports • Midwest
 
 News Talk • Eastern
 
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
-Spanish • Western
+Top 40 • Eastern
 
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
-Top 40 • Pacific NW
+Country • Western
 
 [](https://www.alphamediausa.com/)
 
