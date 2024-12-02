@@ -590,7 +590,7 @@ Kopieren
 
 [](#)
 
-[![Blocktrainer Black Week](/fileadmin/_processed_/d/3/csm_Black_Friday_Ad_Banner_390x615px_aca6dbec8d.jpg)](https://shop.blocktrainer.de/)
+[![Relai](/fileadmin/_processed_/9/0/csm_RelaiApp_49dbef3ad1.jpg)](https://ref.blocktrainer.de/relai/ws/blocktrainer-empfehlungslinks/logo-banner)
 
 **Privatsphäre-Einstellungen**
 
