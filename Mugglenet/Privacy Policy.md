@@ -306,15 +306,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The Scholastic editor, Arthur Levine, suggested changing the title from “Harry Potter and the Philosopher’s Stone” to “Harry Potter and the School of Magic” so as not to confuse American readers.
+“Harry Potter and the Chamber of Secrets” was once called “Harry Potter and the Half-Blood Prince”.
 
 ### Potter History
 
-July 16, 2007 – Harry Potter and the Order of the Phoenix film grosses $330 million worldwide.
+August 2, 2007 – Scholastic announces Harry Potter and the Deathly Hallows sold 11.5 million copies in just 10 days.
 
 ### Potter Quote
 
-“His eyes are as green as a fresh pickled toad, His hair is as dark as a blackboard. I wish he was mine, he’s really divine, The hero who conquered the Dark Lord.”
+“Do you know why I admire you, Newt? More, perhaps, than any man I know? You don’t seek power or popularity. You simply ask, is the thing right in itself? If it is, then I must do it, no matter the cost.”
 
 [](#)
 
