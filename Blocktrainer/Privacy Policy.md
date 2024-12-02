@@ -590,7 +590,7 @@ Kopieren
 
 [](#)
 
-[![Blocktrainer Patenschaft](/fileadmin/_processed_/9/e/csm_blocktrainer_box_17e9184473.png)](https://www.blocktrainer.de/unterstuetze-uns)
+[![Blocktrainer Black Week](/fileadmin/_processed_/d/3/csm_Black_Friday_Ad_Banner_390x615px_aca6dbec8d.jpg)](https://shop.blocktrainer.de/)
 
 **Privatsphäre-Einstellungen**
 
