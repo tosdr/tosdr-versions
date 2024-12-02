@@ -315,65 +315,66 @@
 
 This material may not be published, broadcast, rewritten, or redistributed. ©2024 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided by [Factset](https://go.factset.com/legal). Powered and implemented by [FactSet Digital Solutions](https://www.factset.com/solutions/digital-solutions). [Legal Statement](https://www.factset.com/privacy). Mutual Fund and ETF data provided by [Refinitiv Lipper](https://lipperalpha.refinitiv.com/).
 
-     [![One person Bill Clinton wishes he’d never met highlighted in new memoir - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/12/720/405/11d0ed3b801fe00c13e0a1dd402283e8.png?tl=1&ve=1)
+                                               [![President Biden pardons son Hunter, reversing course after pledging that he wouldn’t - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/12/720/405/fb978ad7c653d205227753947d962b50.jpg?tl=1&ve=1)     ![1 - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/12/720/405/416612178df380b46c03b7c85a3b9147.jpg?tl=1&ve=1)      ![2 - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/12/720/405/7170e655678b83adf8ae219567caf0e9.jpg?tl=1&ve=1)      ![3 - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/12/720/405/b92bf37611186e3db70da9df93849738.jpg?tl=1&ve=1)      ![4 - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/12/720/405/f49f26c6e48ba6276542ca0254585499.jpg?tl=1&ve=1)      ![5 - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/12/720/405/ffdc95599e821c46dfe35766115a1fad.jpg?tl=1&ve=1)      ![6 - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/12/720/405/f336e13fa09e576703fef6a7135283d3.jpg?tl=1&ve=1)      ![7 - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/12/720/405/e5eb27733b6700f3beee716bcebb77b9.jpg?tl=1&ve=1)
 
-ISLAND TIME](https://www.foxnews.com/us/bill-clinton-denies-visiting-epstein-island-new-memoir-wishes-he-had-never-met-him)
+FIRST SON’S FREEDOM](https://www.foxnews.com/politics/biden-pardons-son-hunter-biden-ahead-exit-from-oval-office)Breaking News
 
-### [One person Bill Clinton wishes he’d never met highlighted in new memoir](https://www.foxnews.com/us/bill-clinton-denies-visiting-epstein-island-new-memoir-wishes-he-had-never-met-him)
+### [President Biden pardons son Hunter, reversing course after pledging that he wouldn’t](https://www.foxnews.com/politics/biden-pardons-son-hunter-biden-ahead-exit-from-oval-office)
 
-     [![Small town fined for refusing to fly rainbow flag, celebrate Pride Month, leaders punished - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/12/343/193/ed24b0e45df64e565d4f605ad285d4c7.jpg?tl=1&ve=1)
+* [Shannon Bream analyzes Biden's 'broad' pardon for son Hunter](https://www.foxnews.com/video/6365397417112)
+* ['The Big Weekend Show' co-hosts react to Biden pardoning his son Hunter](https://www.foxnews.com/video/6365397847112)
 
-‘HUMAN RIGHTS 101’](https://www.foxnews.com/politics/canadian-town-fined-refusing-celebrate-pride-month-fly-rainbow-flag)
+[](https://www.foxnews.com/video/5614615980001)
 
-### [Small town fined for refusing to fly rainbow flag, celebrate Pride Month, leaders punished](https://www.foxnews.com/politics/canadian-town-fined-refusing-celebrate-pride-month-fly-rainbow-flag)
+### [LIVE COVERAGE: President Biden signs pardon for son Hunter](https://www.foxnews.com/video/5614615980001)
 
-     [![President-elect Trump names daughter's in-law as senior adviser to his Cabinet - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/12/343/193/bab8b878c074f8250fa0939a0342e9c3.png?tl=1&ve=1)
+     [![Senator Sanders makes big admission when it comes to DOGE goal: 'Elon Musk is right' - Fox News](//a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/12/343/193/bernie-sanders-elon-musk.jpg?tl=1&ve=1)
 
-ALL IN THE FAMILY](https://www.foxnews.com/politics/trump-taps-daughter-tiffanys-father-law-massad-boulos-senior-adviser-arab-middle-eastern-affairs)
+'BERN' NOTICE](https://www.foxnews.com/politics/bernie-sanders-admits-elon-musk-right-slash-pentagon-doge-lost-track-billions)
 
-### [President-elect Trump names daughter's in-law as senior adviser to his Cabinet](https://www.foxnews.com/politics/trump-taps-daughter-tiffanys-father-law-massad-boulos-senior-adviser-arab-middle-eastern-affairs)
+### [Senator Sanders makes big admission when it comes to DOGE goal: 'Elon Musk is right'](https://www.foxnews.com/politics/bernie-sanders-admits-elon-musk-right-slash-pentagon-doge-lost-track-billions)
 
-     [![Trump’s new pick to crush the 'censorship cartel' delivers a stark warning - Fox News](//a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/12/343/193/carr-scaled.jpg?tl=1&ve=1)
+     [![MSNBC internal drama appears to spill out in the open, analyst says he's going to get 'in trouble' - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/12/343/193/a582a4bf19af4babde8f3a3e7f0432dd.jpg?tl=1&ve=1)
 
-OFF AIR](https://www.foxnews.com/media/trump-fcc-pick-says-bringing-censorship-cartel-heel-top-priority-its-got-end)
+'YOU CAN'T DO THAT'](https://www.foxnews.com/media/former-lawmaker-takes-shot-msnbc-hosts-meeting-trump-mar-a-lago-you-cant-do-that)
 
-### [Trump’s new pick to crush the 'censorship cartel' delivers a stark warning](https://www.foxnews.com/media/trump-fcc-pick-says-bringing-censorship-cartel-heel-top-priority-its-got-end)
+### [MSNBC internal drama appears to spill out in the open, analyst says he's going to get 'in trouble'](https://www.foxnews.com/media/former-lawmaker-takes-shot-msnbc-hosts-meeting-trump-mar-a-lago-you-cant-do-that)
 
-     [![Fauci scorched over new 'scientific' paper riddled with 'false claims' - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/12/343/193/ab0e942c368912cc47d6b0fc0c1d9786.png?tl=1&ve=1)
+[FOOTBRAWL](https://www.foxnews.com/sports/jaguars-trevor-lawrence-takes-huge-hit-from-texans-azeez-al-shaair-sparking-brawl)sports
 
-DOC DEBUNKED](https://www.foxnews.com/politics/fauci-ripped-over-new-paper-criticizing-trump-on-coronavirus-promoting-natural-origin-theory-embarrassment)
+### [Fight erupts on NFL field after huge hit, star QB carted away, another player ejected](https://www.foxnews.com/sports/jaguars-trevor-lawrence-takes-huge-hit-from-texans-azeez-al-shaair-sparking-brawl)
 
-### [Fauci scorched over new 'scientific' paper riddled with 'false claims'](https://www.foxnews.com/politics/fauci-ripped-over-new-paper-criticizing-trump-on-coronavirus-promoting-natural-origin-theory-embarrassment)
+* [Texans player facing scrutiny for hit and controversial cleats](https://www.foxnews.com/sports/texans-azeez-al-shaair-comes-under-scrutiny-over-trevor-lawrence-hit-pro-palestinian-cleats)
 
-     [![Renowned psychologist Dr Jordan Peterson shreds leader’s '14-year-old mentality' - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/12/343/193/04a5f169325d64feb3fe47c3cdbb8a73.jpg?tl=1&ve=1)
+     [![World's largest gold-producing nation finds deposit worth $83 billion, breaking record - Fox News](//a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/12/343/193/gold-pellets-1.jpg?tl=1&ve=1)
 
-EH, EH?](https://www.foxnews.com/media/jordan-peterson-shreds-justin-trudeau-changing-tone-after-demolishing-canadas-immigration-system)
+DEEP POCKETS](https://www.foxnews.com/world/largest-gold-deposit-world-worth-83-billion-found-china)
 
-### [Renowned psychologist Dr Jordan Peterson shreds leader’s '14-year-old mentality'](https://www.foxnews.com/media/jordan-peterson-shreds-justin-trudeau-changing-tone-after-demolishing-canadas-immigration-system)
+### [World's largest gold-producing nation finds deposit worth $83 billion, breaking record](https://www.foxnews.com/world/largest-gold-deposit-world-worth-83-billion-found-china)
 
-     [![NFL legend Randy Moss reveals he's battling health issue, asks public for prayers - Fox News](//a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/12/343/193/randy-moss2.jpg?tl=1&ve=1)
+     [![US seeing surge in migrants from one country crossing at border with Canada - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/12/343/193/fcd383cf06afa4bd93d9268ff88fd8c1.jpg?tl=1&ve=1)
 
-'GOD BLESS YOU ALL'](https://www.foxnews.com/sports/nfl-legend-randy-moss-reveals-hes-battling-health-issue)sports
+NORTHERN EXPOSURE](https://www.foxnews.com/politics/us-sees-surge-indian-immigrants-border-canada)
 
-### [NFL legend Randy Moss reveals he's battling health issue, asks public for prayers](https://www.foxnews.com/sports/nfl-legend-randy-moss-reveals-hes-battling-health-issue)
+### [US seeing surge in migrants from one country crossing at border with Canada](https://www.foxnews.com/politics/us-sees-surge-indian-immigrants-border-canada)
 
-     [![Coach of team that dashed trans volleyball player’s dreams comments on victory - Fox News](//a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/12/343/193/emily-kohan.jpg?tl=1&ve=1)
+     [![John Bolton lashes out at Trump pick, invokes murderous dictator's right-hand man - Fox News](//a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/12/343/193/bolton-patel.jpg?tl=1&ve=1)
 
-KILL SHOT](https://www.foxnews.com/sports/colorado-state-womens-volleyball-coach-praises-team-after-win-over-squad-trans-player)sports
+ICED OUT](https://www.foxnews.com/politics/john-bolton-compares-kash-patel-stalins-right-hand-man-after-trumps-fbi-nomination)
 
-### [Coach of team that dashed trans volleyball player’s dreams comments on victory](https://www.foxnews.com/sports/colorado-state-womens-volleyball-coach-praises-team-after-win-over-squad-trans-player)
+### [John Bolton lashes out at Trump pick, invokes murderous dictator's right-hand man](https://www.foxnews.com/politics/john-bolton-compares-kash-patel-stalins-right-hand-man-after-trumps-fbi-nomination)
 
-     [![25 must-have bargains you won’t want to miss - Fox News](//a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/11/343/193/istock-1176066808.jpg?tl=1&ve=1)
+     [![Luxury deals that are worth indulging in as Black Friday weekend price-drops continue - Fox News](//a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/11/343/193/commerce-black-friday-luxury-sale-istock-2183772169.png?tl=1&ve=1)
 
-WOW-MART](https://www.foxnews.com/lifestyle/walmart-black-friday-early-deals)
+TREAT YOURSELF](https://www.foxnews.com/lifestyle/amazon-black-friday-luxury-deals)
 
-### [25 must-have bargains you won’t want to miss](https://www.foxnews.com/lifestyle/walmart-black-friday-early-deals)
+### [Luxury deals that are worth indulging in as Black Friday weekend price-drops continue](https://www.foxnews.com/lifestyle/amazon-black-friday-luxury-deals)
 
 [Video
 
-GOING OFFLINE](https://www.foxbusiness.com/video/6365381938112)WATCH
+'NOT A SURPRISE'](https://www.foxnews.com/video/6365397409112)WATCH
 
-### [Government bans kids from using social media until the age of 16](https://www.foxbusiness.com/video/6365381938112)
+### [Bret Baier reacts to Biden's 'sweeping' pardon for his son Hunter](https://www.foxnews.com/video/6365397409112)
 
 * [Fox News Channel  
     Pay TV Login Required](https://www.foxnews.com/video/5614615980001)
@@ -390,11 +391,11 @@ GOING OFFLINE](https://www.foxbusiness.com/video/6365381938112)WATCH
 
 Sponsored by
 
-    [![Is auto insurance from Progressive the right choice for you? - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/12/208/117/95084153749655283bcfd1e8b85cb717.jpg?tl=1&ve=1)
+    [![Ellen DeGeneres dealt brutal dose of karma after fleeing US over Trump win - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/208/117/6d09c1f2a3c1dd1cf84d4559df56dc0a.jpg?tl=1&ve=1)
 
-Credible Sponsor Content
+OUTKICK
 
-### Is auto insurance from Progressive the right choice for you?](https://www.foxbusiness.com/fox-money/auto-insurance/progressive-car-insurance-reviews?src=693761&var1=foxnews_snackbar)
+### Ellen DeGeneres dealt brutal dose of karma after fleeing US over Trump win](https://www.outkick.com/culture/awful-human-ellen-degeneres-dealt-brutal-dose-karma-after-fleeing-country-because-donald-trump-won)
 
     [![Watch ‘Martin Scorsese Presents The Saints’ now on Fox Nation! - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/208/117/2c464dc67d0639edebce755353f11157.jpg?tl=1&ve=1)
 
@@ -408,39 +409,85 @@ Black Friday
 
 ### Amazon Black Friday: 20 fitness essential deals too good to pass up](https://www.foxnews.com/lifestyle/fitness-essentials-amazon-black-friday)
 
-     [![18 Amazon Cyber Monday deals you can grab for less than $100 - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/lifestyle/amazon-cyber-monday-deals-under-100)
+     [![20 electronic deals you won't want to miss on Amazon this Black Friday weekend - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/lifestyle/electronic-deals-amazon-black-friday)
 
 [DEALS](https://www.foxnews.com/category/deals)
 
-### [18 Amazon Cyber Monday deals you can grab for less than $100](https://www.foxnews.com/lifestyle/amazon-cyber-monday-deals-under-100)
+### [20 electronic deals you won't want to miss on Amazon this Black Friday weekend](https://www.foxnews.com/lifestyle/electronic-deals-amazon-black-friday)
 
-[](https://www.foxnews.com/video/5614615980001)
+     [![Big Ten dishes out hefty fines to Michigan, Ohio State after postgame melee - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/big-ten-dishes-out-hefty-fines-michigan-ohio-state-after-postgame-melee)
 
-### [WATCH LIVE: Today’s top stories on ‘Fox News Sunday’](https://www.foxnews.com/video/5614615980001)
+[COLLEGE FOOTBALL](https://www.foxnews.com/category/sports/ncaa-fb)
 
-      [![Expert dismantles claims that Trump’s tariff plan will spike prices - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/6365384286112) WATCH
+### [Big Ten dishes out hefty fines to Michigan, Ohio State after postgame melee](https://www.foxnews.com/sports/big-ten-dishes-out-hefty-fines-michigan-ohio-state-after-postgame-melee)
 
-[VIDEO](https://www.foxnews.com/video)
+     [![NFL legend Randy Moss reveals he's battling health issue, asks public for prayers - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/nfl-legend-randy-moss-reveals-hes-battling-health-issue)
 
-### [Expert dismantles claims that Trump’s tariff plan will spike prices](https://www.foxnews.com/video/6365384286112)
+[NFL](https://www.foxnews.com/category/sports/nfl)
 
-     [![New York Times column blames lonely, resentful males for Trump's election - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/nyt-op-ed-argues-resentful-men-manosphere-overall-anger-loneliness-led-trumps-victory)
+### [NFL legend Randy Moss reveals he's battling health issue, asks public for prayers](https://www.foxnews.com/sports/nfl-legend-randy-moss-reveals-hes-battling-health-issue)
 
-[MEDIA](https://www.foxnews.com/category/media)
+      [![Kacey Musgraves calls out and curses at woman who 'kind of ruined' the show for everybody - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/kacey-musgraves-curses-fan-who-kind-ruined-concert-after-grabbing-her-during-tampa-show)entertainment
 
-### [New York Times column blames lonely, resentful males for Trump's election](https://www.foxnews.com/media/nyt-op-ed-argues-resentful-men-manosphere-overall-anger-loneliness-led-trumps-victory)
+[ENTERTAINMENT](https://www.foxnews.com/category/entertainment)
 
-[Video](https://www.foxnews.com/video/6365369393112) WATCH
+### [Kacey Musgraves calls out and curses at woman who 'kind of ruined' the show for everybody](https://www.foxnews.com/entertainment/kacey-musgraves-curses-fan-who-kind-ruined-concert-after-grabbing-her-during-tampa-show)
 
-[VIDEO](https://www.foxnews.com/video)
+[Video](https://www.foxbusiness.com/video/6365381938112) WATCH
 
-### [GOP rep gives game-changing prediction about the future of sanctuary cities under Trump](https://www.foxnews.com/video/6365369393112)
+[fox news live](https://video.foxbusiness.com/)
 
-     [!['Full House' star hints at what the election’s red wave signals is making a comeback - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/candace-cameron-bure-says-shocking-red-sweep-proof-faith-making-comeback-let-gods-done)
+### [Government bans kids from using social media until the age of 16](https://www.foxbusiness.com/video/6365381938112)
 
-[FAITH](https://www.foxnews.com/category/faith-values/faith)
+     [![Here's how your neighborhood voted in the 2024 election - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/elections)
 
-### ['Full House' star hints at what the election’s red wave signals is making a comeback](https://www.foxnews.com/media/candace-cameron-bure-says-shocking-red-sweep-proof-faith-making-comeback-let-gods-done)
+### [DEMOCRACY '24: Here's how your neighborhood voted in the 2024 election](https://www.foxnews.com/elections)
+
+      [![Pop star Meghan Trainor explains why she 'cannot smile anymore' - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/meghan-trainor-cannot-smile-anymore-from-too-much-botox)entertainment
+
+[ENTERTAINMENT](https://www.foxnews.com/category/entertainment)
+
+### [Pop star Meghan Trainor explains why she 'cannot smile anymore'](https://www.foxnews.com/entertainment/meghan-trainor-cannot-smile-anymore-from-too-much-botox)
+
+     [![Trump's pick for FBI director sparks strong reactions from pundits and lawmakers - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/kash-patel-fbi-director-nominee-causes-uproar-sunday-shows-he-enforcer-trumps-revenge)
+
+[FBI](https://www.foxnews.com/category/tech/topics/fbi)
+
+### [Trump's pick for FBI director sparks strong reactions from pundits and lawmakers](https://www.foxnews.com/media/kash-patel-fbi-director-nominee-causes-uproar-sunday-shows-he-enforcer-trumps-revenge)
+
+[](https://www.foxnews.com/games)
+
+### [PLAY NOW! Crosswords ♠ Word Search ♦ Crazy Crystals ♣ Stack & Match ♥ 5 Across!](https://www.foxnews.com/games)
+
+     [![The Rock says 'freedom is our greatest privilege' while visiting troops in Hawaii - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/rock-says-freedom-our-greatest-privilege-while-visiting-troops-hawaii)
+
+[DWAYNE 'THE ROCK' JOHNSON](https://www.foxnews.com/category/person/dwayne-the-rock-johnson)
+
+### [The Rock says 'freedom is our greatest privilege' while visiting troops in Hawaii](https://www.foxnews.com/entertainment/rock-says-freedom-our-greatest-privilege-while-visiting-troops-hawaii)
+
+     [![GOP lawmaker makes bold prediction for illegal immigration under Trump - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/ted-cruz-predicts-illegal-immigration-plummet-immediately-after-trumps-inauguration)
+
+[TED CRUZ](https://www.foxnews.com/category/person/ted-cruz)
+
+### [GOP lawmaker makes bold prediction for illegal immigration under Trump](https://www.foxnews.com/politics/ted-cruz-predicts-illegal-immigration-plummet-immediately-after-trumps-inauguration)
+
+     [![President-elect Trump names daughter's in-law as senior adviser to his Cabinet - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/trump-taps-daughter-tiffanys-father-law-massad-boulos-senior-adviser-arab-middle-eastern-affairs)
+
+[TRUMP TRANSITION](https://www.foxnews.com/category/politics/elections/presidential/trump-transition)
+
+### [President-elect Trump names daughter's in-law as senior adviser to his Cabinet](https://www.foxnews.com/politics/trump-taps-daughter-tiffanys-father-law-massad-boulos-senior-adviser-arab-middle-eastern-affairs)
+
+      [![Andrew Luck returns to football more than 5 years after abrupt retirement - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/andrew-luck-returns-football-more-than-5-years-after-abrupt-retirement)sports
+
+[STANFORD CARDINAL](https://www.foxnews.com/category/sports/ncaa/stanford-cardinal)
+
+### [Andrew Luck returns to football more than 5 years after abrupt retirement](https://www.foxnews.com/sports/andrew-luck-returns-football-more-than-5-years-after-abrupt-retirement)
+
+     [![High school hockey star dead at 17 after 'sudden medical event' during game - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/new-york-high-school-hockey-player-dead-17-after-sudden-medical-event)
+
+[SPORTS](https://www.foxnews.com/category/sports)
+
+### [High school hockey star dead at 17 after 'sudden medical event' during game](https://www.foxnews.com/sports/new-york-high-school-hockey-player-dead-17-after-sudden-medical-event)
 
      [![Costco set to remove entire section from most US stores within weeks - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/retail/costco-stop-selling-popular-item-year-round-january-most-us-stores-reports)
 
@@ -448,55 +495,11 @@ Black Friday
 
 ### [Costco set to remove entire section from most US stores within weeks](https://www.foxbusiness.com/retail/costco-stop-selling-popular-item-year-round-january-most-us-stores-reports)
 
-     [![Here's how your neighborhood voted in the 2024 election - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/elections)
+      [![Saquon Barkley's crucial touchdown keeps Eagles ahead in win over Ravens - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/saquon-barkleys-crucial-touchdown-keeps-eagles-ahead-win-over-ravens)sports
 
-### [DEMOCRACY '24: Here's how your neighborhood voted in the 2024 election](https://www.foxnews.com/elections)
+[PHILADELPHIA EAGLES](https://www.foxnews.com/category/sports/nfl/philadelphia-eagles)
 
-[](https://www.foxnews.com/games)
-
-### [PLAY NOW! Crosswords ♠ Word Search ♦ Crazy Crystals ♣ Stack & Match ♥ 5 Across!](https://www.foxnews.com/games)
-
-     [![Model who worked with Beyoncé kidnapped with husband and young son - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/us-based-model-husband-child-kidnapped-held-12-hours-after-leaving-restaurant-brazil-reports)
-
-[US REGIONS](https://www.foxnews.com/category/us/us-regions)
-
-### [Model who worked with Beyoncé kidnapped with husband and young son](https://www.foxnews.com/us/us-based-model-husband-child-kidnapped-held-12-hours-after-leaving-restaurant-brazil-reports)
-
-     [![Elon Musk makes move to flex US muscle in the global tech race - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/technology/elon-musks-spacex-launches-fifth-mission-bolstering-us-reconnaissance-satellite-architecture)
-
-[SPACEX](https://www.foxbusiness.com/tag/spacex)
-
-### [Elon Musk makes move to flex US muscle in the global tech race](https://www.foxbusiness.com/technology/elon-musks-spacex-launches-fifth-mission-bolstering-us-reconnaissance-satellite-architecture)
-
-     [![Biden WH adviser dodges whether he's concerned Trump FBI pick labeled him 'deep state' - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/biden-wh-adviser-dodges-whether-hes-concerned-trump-fbi-pick-labeled-him-deep-state-member)
-
-[DONALD TRUMP](https://www.foxnews.com/category/person/donald-trump)
-
-### [Biden WH adviser dodges whether he's concerned Trump FBI pick labeled him 'deep state'](https://www.foxnews.com/politics/biden-wh-adviser-dodges-whether-hes-concerned-trump-fbi-pick-labeled-him-deep-state-member)
-
-     [![Sen. Ted Cruz predicts illegal immigration will drop as soon as Trump is inaugurated - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/ted-cruz-predicts-illegal-immigration-plummet-immediately-after-trumps-inauguration)
-
-[TED CRUZ](https://www.foxnews.com/category/person/ted-cruz)
-
-### [Sen. Ted Cruz predicts illegal immigration will drop as soon as Trump is inaugurated](https://www.foxnews.com/politics/ted-cruz-predicts-illegal-immigration-plummet-immediately-after-trumps-inauguration)
-
-      [![Major airline cracking down on rules affecting when you can get up - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/lifestyle/southwest-airlines-makes-change-reducing-passenger-movement-effort-lower-injury-risk)lifestyle
-
-[SOUTHWEST AIRLINES](https://www.foxbusiness.com/tag/southwest-airlines)
-
-### [Major airline cracking down on rules affecting when you can get up](https://www.foxbusiness.com/lifestyle/southwest-airlines-makes-change-reducing-passenger-movement-effort-lower-injury-risk)
-
-      [![Concert-goers aren’t letting up on alarming trend that’s sending artists into frenzy - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/zach-bryan-morgan-wallen-latest-stars-fall-victim-concert-fans-throwing-objects)entertainment
-
-[ENTERTAINMENT](https://www.foxnews.com/category/entertainment)
-
-### [Concert-goers aren’t letting up on alarming trend that’s sending artists into frenzy](https://www.foxnews.com/entertainment/zach-bryan-morgan-wallen-latest-stars-fall-victim-concert-fans-throwing-objects)
-
-      [![Experts put debate to bed on whether women need more sleep than men - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/health/do-women-need-more-sleep-men-heres-what-experts-think)health
-
-[SLEEP DISORDERS](https://www.foxnews.com/category/health/sleep-disorders)
-
-### [Experts put debate to bed on whether women need more sleep than men](https://www.foxnews.com/health/do-women-need-more-sleep-men-heres-what-experts-think)
+### [Saquon Barkley's crucial touchdown keeps Eagles ahead in win over Ravens](https://www.foxnews.com/sports/saquon-barkleys-crucial-touchdown-keeps-eagles-ahead-win-over-ravens)
 
 [](https://foxnews.com/trumptransition)
 
@@ -520,29 +523,59 @@ Black Friday
 
 ### [American Culture Quiz: Test yourself on holiday tunes, festive flora and plane pioneers](https://www.foxnews.com/lifestyle/american-culture-quiz-test-yourself-holiday-tunes-festive-flora-plane-pioneers)
 
-      [![Holiday gift guide for the painters, artists in your life looking to expand a skill set - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/lifestyle/holiday-gift-guide-painter-artist)lifestyle
+      [![Experts put debate to bed on whether women need more sleep than men - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/health/do-women-need-more-sleep-men-heres-what-experts-think)health
 
-[HOLIDAY](https://www.foxnews.com/category/lifestyle/occasions/holiday)
+[SLEEP DISORDERS](https://www.foxnews.com/category/health/sleep-disorders)
 
-### [Holiday gift guide for the painters, artists in your life looking to expand a skill set](https://www.foxnews.com/lifestyle/holiday-gift-guide-painter-artist)
+### [Experts put debate to bed on whether women need more sleep than men](https://www.foxnews.com/health/do-women-need-more-sleep-men-heres-what-experts-think)
 
-      [![Real-life Christmas movie locations that will make you feel like you’re one of the stars - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/travel/home-alone-house-popular-christmas-movie-locations-visit-america)travel
+      [!['Home Alone' house and other popular Christmas movie locations to visit in America - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/travel/home-alone-house-popular-christmas-movie-locations-visit-america)travel
 
 [TRAVEL](https://www.foxnews.com/category/travel)
 
-### [Real-life Christmas movie locations that will make you feel like you’re one of the stars](https://www.foxnews.com/travel/home-alone-house-popular-christmas-movie-locations-visit-america)
+### ['Home Alone' house and other popular Christmas movie locations to visit in America](https://www.foxnews.com/travel/home-alone-house-popular-christmas-movie-locations-visit-america)
 
-     [![Largest gold deposit in the world worth $83 billion found in China - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/world/largest-gold-deposit-world-worth-83-billion-found-china)
+     [![Small town fined for refusing to fly rainbow flag, celebrate Pride Month, leaders punished - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/canadian-town-fined-refusing-celebrate-pride-month-fly-rainbow-flag)
 
-[CHINA](https://www.foxnews.com/category/world/world-regions/china)
+[CANADA](https://www.foxnews.com/category/world/world-regions/canada)
 
-### [Largest gold deposit in the world worth $83 billion found in China](https://www.foxnews.com/world/largest-gold-deposit-world-worth-83-billion-found-china)
+### [Small town fined for refusing to fly rainbow flag, celebrate Pride Month, leaders punished](https://www.foxnews.com/politics/canadian-town-fined-refusing-celebrate-pride-month-fly-rainbow-flag)
 
-[](https://www.foxnews.com/sports/commanders-titans-players-get-heated-kerfuffle-amid-early-domination)sports
+      [![High-profile NFL engagement puts pressure on Travis Kelce to propose to Taylor Swift - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/taylor-swifts-boyfriend-travis-kelce-pressured-propose-after-josh-allen-gets-engaged-hailee-steinfeld)entertainment
 
-[WASHINGTON COMMANDERS](https://www.foxnews.com/category/sports/nfl/washington-commanders)
+[COUPLES](https://www.foxnews.com/category/entertainment/events/couples)
 
-### [Commanders, Titans players get into heated kerfuffle amid early domination](https://www.foxnews.com/sports/commanders-titans-players-get-heated-kerfuffle-amid-early-domination)
+### [High-profile NFL engagement puts pressure on Travis Kelce to propose to Taylor Swift](https://www.foxnews.com/entertainment/taylor-swifts-boyfriend-travis-kelce-pressured-propose-after-josh-allen-gets-engaged-hailee-steinfeld)
+
+      [![Jets' DJ Reed blasts NFL officials in explicit social media post - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/jets-dj-reed-blasts-nfl-officials-explicit-social-media-post)sports
+
+[NEW YORK JETS](https://www.foxnews.com/category/sports/nfl/new-york-jets)
+
+### [Jets' DJ Reed blasts NFL officials in explicit social media post](https://www.foxnews.com/sports/jets-dj-reed-blasts-nfl-officials-explicit-social-media-post)
+
+      [![American Airlines flight forced to return to airport amid post-Thanksgiving travel rush - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/lifestyle/american-airlines-flight-returns-chicago-airport-after-possible-maintenance-issue-mid-flight)lifestyle
+
+[AMERICAN AIRLINES](https://www.foxbusiness.com/tag/american-airlines)
+
+### [American Airlines flight forced to return to airport amid post-Thanksgiving travel rush](https://www.foxbusiness.com/lifestyle/american-airlines-flight-returns-chicago-airport-after-possible-maintenance-issue-mid-flight)
+
+     [![Interstellar spacecraft resumes operations with NASA after brief pause - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/science/interstellar-voyager-1-resumes-operations-after-pause-communications-nasa)
+
+[NASA](https://www.foxnews.com/category/science/air-and-space/nasa)
+
+### [Interstellar spacecraft resumes operations with NASA after brief pause](https://www.foxnews.com/science/interstellar-voyager-1-resumes-operations-after-pause-communications-nasa)
+
+     [![‘Days of Our Lives’ star, actor-turned-rancher Wayne Northrop dead at 77 - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/days-our-lives-star-wayne-northrop-dead-77)
+
+[ENTERTAINMENT](https://www.foxnews.com/category/entertainment)
+
+### [‘Days of Our Lives’ star, actor-turned-rancher Wayne Northrop dead at 77](https://www.foxnews.com/entertainment/days-our-lives-star-wayne-northrop-dead-77)
+
+      [![Seahawks stars Geno Smith, Leonard Williams burn former team - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/seahawks-stars-geno-smith-leonard-williams-burn-former-team-seattle-extends-winning-streak)sports
+
+[SEATTLE SEAHAWKS](https://www.foxnews.com/category/sports/nfl/seattle-seahawks)
+
+### [Seahawks stars Geno Smith, Leonard Williams burn former team](https://www.foxnews.com/sports/seahawks-stars-geno-smith-leonard-williams-burn-former-team-seattle-extends-winning-streak)
 
       [![Family turns its back on actor linked to cannibalism allegations - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/armie-hammer-got-zero-money-from-rich-family-lives-small-apartment-after-cannibal-allegations-report)entertainment
 
@@ -550,41 +583,11 @@ Black Friday
 
 ### [Family turns its back on actor linked to cannibalism allegations](https://www.foxnews.com/entertainment/armie-hammer-got-zero-money-from-rich-family-lives-small-apartment-after-cannibal-allegations-report)
 
-      [![Andrew Luck returns to football more than 5 years after abrupt retirement - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/andrew-luck-returns-football-more-than-5-years-after-abrupt-retirement)sports
+      [![Holiday gift guide for the painters, artists in your life looking to expand a skill set - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/lifestyle/holiday-gift-guide-painter-artist)lifestyle
 
-[STANFORD CARDINAL](https://www.foxnews.com/category/sports/ncaa/stanford-cardinal)
+[HOLIDAY](https://www.foxnews.com/category/lifestyle/occasions/holiday)
 
-### [Andrew Luck returns to football more than 5 years after abrupt retirement](https://www.foxnews.com/sports/andrew-luck-returns-football-more-than-5-years-after-abrupt-retirement)
-
-     [![Dreaming of the Dutton life? The ranch known as 'Little Yellowstone' is up for grabs - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/real-estate/wyoming-little-yellowstone-ranch-up-sale-85-million)
-
-[REAL ESTATE](https://www.foxbusiness.com/tag/real-estate)
-
-### [Dreaming of the Dutton life? The ranch known as 'Little Yellowstone' is up for grabs](https://www.foxbusiness.com/real-estate/wyoming-little-yellowstone-ranch-up-sale-85-million)
-
-      [![Prince Harry, Meghan Markle reportedly shunned as Christmas invites go out - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/prince-harry-meghan-markle-royal-christmas-invite-kate-middleton-posts-holiday-message)entertainment
-
-[ENTERTAINMENT](https://www.foxnews.com/category/entertainment)
-
-### [Prince Harry, Meghan Markle reportedly shunned as Christmas invites go out](https://www.foxnews.com/entertainment/prince-harry-meghan-markle-royal-christmas-invite-kate-middleton-posts-holiday-message)
-
-     [![Former Democrat reveals the simple 'bread and butter' fix for the party’s struggles - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/former-lawmaker-calls-complete-rebrand-toxic-democratic-party)
-
-[MEDIA](https://www.foxnews.com/category/media)
-
-### [Former Democrat reveals the simple 'bread and butter' fix for the party’s struggles](https://www.foxnews.com/media/former-lawmaker-calls-complete-rebrand-toxic-democratic-party)
-
-      [![James Van Der Beek selling movie merchandise to combat 'financial burden' of cancer - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/james-van-der-beek-selling-varsity-blues-merchandise-combat-financial-burden-cancer)entertainment
-
-[ILLNESS](https://www.foxnews.com/category/entertainment/events/illness)
-
-### [James Van Der Beek selling movie merchandise to combat 'financial burden' of cancer](https://www.foxnews.com/entertainment/james-van-der-beek-selling-varsity-blues-merchandise-combat-financial-burden-cancer)
-
-     [![Trump’s reform-minded FBI pick vows to dismantle key operations on day one - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/trump-nominates-kash-patel-serve-fbi-director-advocate-truth)
-
-[POLITICS](https://www.foxnews.com/category/politics)
-
-### [Trump’s reform-minded FBI pick vows to dismantle key operations on day one](https://www.foxnews.com/politics/trump-nominates-kash-patel-serve-fbi-director-advocate-truth)
+### [Holiday gift guide for the painters, artists in your life looking to expand a skill set](https://www.foxnews.com/lifestyle/holiday-gift-guide-painter-artist)
 
      [![FOX News Channel dominates November with largest cable news share ever - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/fox-news-dominates-november-viewership-msnbc-cnn-flounder-post-election)
 
@@ -598,9 +601,9 @@ Black Friday
 
 ### [WATCH LIVE: The 'All-American Christmas Tree' brings holiday cheer to FOX Square](https://www.foxnews.com/video/6364910912112)
 
-      [![Biden seen holding anti-Israel book during Black Friday shopping excursion - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/category/topic/anti-semitism)ANTISEMITISM EXPOSED
+      [![Hamas will face 'more pressure' after Hezbollah ceasefire deal, expert says - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/category/topic/anti-semitism)ANTISEMITISM EXPOSED
 
-### [Biden seen holding anti-Israel book during Black Friday shopping excursion](https://www.foxnews.com/category/topic/anti-semitism)
+### [Hamas will face 'more pressure' after Hezbollah ceasefire deal, expert says](https://www.foxnews.com/category/topic/anti-semitism)
 
      [![Martin Scorsese brings St Sebastian’s story of steadfast faith, martyrdom, to FOX Nation - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/lifestyle/martin-scorsese-brings-st-sebastians-story-steadfast-faith-martyrdom-fox-nation)
 
@@ -628,9 +631,9 @@ Black Friday
 
 ### [Joe Biden criticized for White House’s tone-deaf Christmas tree](https://www.outkick.com/culture/joe-biden-getting-absolutely-crushed-white-houses-tone-deaf-christmas-tree)
 
-     [![Condoleezza Rice urges US to win ‘most important technological arms race’ - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/category/tech/artificial-intelligence)
+     [![OpenAI chief urges US to maintain 'lead' in AI developments - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/category/tech/artificial-intelligence)
 
-### [Condoleezza Rice urges US to win ‘most important technological arms race’](https://www.foxnews.com/category/tech/artificial-intelligence)
+### [OpenAI chief urges US to maintain 'lead' in AI developments](https://www.foxnews.com/category/tech/artificial-intelligence)
 
      [![Delicious recipes, surprising power foods & juicy secrets to eating better - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/food-drink)
 
@@ -700,21 +703,21 @@ Top 'quiet travel' DESTINATIONS](https://www.foxnews.com/travel/quiet-travel-hav
 [OutKick](https://www.outkick.com/)
 -----------------------------------
 
-     [![Trevor Lawrence Carted Off Field After Taking Horrifying Hit During Slide Attempt Against Texans: Video - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/trevor-lawrence-hit-azeez-al-shaair-video-carted-off-field-concussion)
+     [![Rams Receiver Demarcus Robinson Scores TD Days After Arrest - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/rams-receiver-demarcus-robinson-scores-td-days-after-arrest)
 
-### [Trevor Lawrence Carted Off Field After Taking Horrifying Hit During Slide Attempt Against Texans: Video](https://www.outkick.com/sports/trevor-lawrence-hit-azeez-al-shaair-video-carted-off-field-concussion)
+### [Rams Receiver Demarcus Robinson Scores TD Days After Arrest](https://www.outkick.com/sports/rams-receiver-demarcus-robinson-scores-td-days-after-arrest)
 
-### [Seattle's Leonard Williams Leaves Everyone In Dust On Way To A Glorious, 91-Yard Big-Man Pick-6](https://www.outkick.com/sports/leonard-williams-leaves-everyone-dust-his-way-glorious-91-yard-big-man-pick-six)
+### [I Can't Believe I'm Saying This: Justin Tucker Is Now A Liability For The Ravens](https://www.outkick.com/sports/i-cant-believe-im-saying-this-justin-tucker-now-liability-ravens)
 
-   [![EAST RUTHERFORD, NEW JERSEY - DECEMBER 01: Leonard Williams #99 of the Seattle Seahawks returns an interception for a touchdown in the second quarter of a game against the New York Jets at MetLife Stadium on December 01, 2024 in East Rutherford, New Jersey. (Photo by Elsa/Getty Images) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/leonard-williams-leaves-everyone-dust-his-way-glorious-91-yard-big-man-pick-six)
+   [![BALTIMORE, MARYLAND - DECEMBER 01: Justin Tucker #9 of the Baltimore Ravens reacts during the third quarter after missing his third kick of the night against the Philadelphia Eagles at M&amp;amp;T Bank Stadium on December 01, 2024 in Baltimore, Maryland. Philadelphia defeated Baltimore 24-19. (Photo by Greg Fiume/Getty Images) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/i-cant-believe-im-saying-this-justin-tucker-now-liability-ravens)
 
-### [Miami Hurricanes Mascot Hit On Reporter During Loss To Syracuse](https://www.outkick.com/culture/miami-hurricanes-mascot-hit-reporter-during-loss-syracuse)
+### [Azeez Al-Shaair Incurring Online Wrath For His 'Free Palestine' Cleats Following Ejection](https://www.outkick.com/sports/azeez-al-shaair-incurring-online-wrath-his-free-palestine-cleats-following-ejection)
 
-   [![Miami Hurricanes Mascot Hit On Reporter During Loss To Syracuse - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/culture/miami-hurricanes-mascot-hit-reporter-during-loss-syracuse)
+   [![Dec 1, 2024; Jacksonville, Florida, USA; Jacksonville Jaguars quarterback Trevor Lawrence (16) slides down in front of Houston Texans linebacker Azeez Al-Shaair (0) in the second quarter in the second quarter at EverBank Stadium. Mandatory Credit: Nathan Ray Seebeck-Imagn Images - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/azeez-al-shaair-incurring-online-wrath-his-free-palestine-cleats-following-ejection)
 
-### [Group Of Players Kneel To Pray Together During Michigan-Ohio State Postgame Melee](https://www.outkick.com/sports/michigan-ohio-state-players-pray-during-fight-video)
+### [Big Ten Hands Down Soft Punishment To Ohio State, Michigan For Postgame Brawl That Included Pepper-Spray](https://www.outkick.com/sports/michigan-ohio-state-fined-postgame-brawl-big-ten)
 
-   [![Barbara J. Perenic-USA TODAY Network via Imagn Images - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/michigan-ohio-state-players-pray-during-fight-video)
+   [![COLUMBUS, OHIO - NOVEMBER 30: Davison Igbinosun #1 of the Ohio State Buckeyes grabs a Michigan flag following his team&apos;s defeat against the Michigan Wolverines at Ohio Stadium on November 30, 2024 in Columbus, Ohio. (Photo by Jason Mowry/Getty Images) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/michigan-ohio-state-fined-postgame-brawl-big-ten)
 
 [Digital Originals](https://www.foxnews.com/category/us/digital-originals)
 --------------------------------------------------------------------------
@@ -776,21 +779,21 @@ Top 'quiet travel' DESTINATIONS](https://www.foxnews.com/travel/quiet-travel-hav
 [Elections](https://www.foxnews.com/elections)
 ----------------------------------------------
 
-     [![Trump taps daughter Tiffany's father-in-law Massad Boulos as senior adviser on Arab and Middle Eastern affairs - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/trump-taps-daughter-tiffanys-father-law-massad-boulos-senior-adviser-arab-middle-eastern-affairs)
+     [![Kash Patel FBI director nominee causes uproar on Sunday shows: 'He will be the enforcer' of Trump's revenge - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/kash-patel-fbi-director-nominee-causes-uproar-sunday-shows-he-enforcer-trumps-revenge)
 
-### [Trump taps daughter Tiffany's father-in-law Massad Boulos as senior adviser on Arab and Middle Eastern affairs](https://www.foxnews.com/politics/trump-taps-daughter-tiffanys-father-law-massad-boulos-senior-adviser-arab-middle-eastern-affairs)
+### [Kash Patel FBI director nominee causes uproar on Sunday shows: 'He will be the enforcer' of Trump's revenge](https://www.foxnews.com/media/kash-patel-fbi-director-nominee-causes-uproar-sunday-shows-he-enforcer-trumps-revenge)
 
-### [Biden WH adviser dodges whether he's concerned Trump FBI pick labeled him 'deep state' member](https://www.foxnews.com/politics/biden-wh-adviser-dodges-whether-hes-concerned-trump-fbi-pick-labeled-him-deep-state-member)
+### [John Bolton compares Kash Patel to Stalin's right-hand man after Trump's FBI nomination](https://www.foxnews.com/politics/john-bolton-compares-kash-patel-stalins-right-hand-man-after-trumps-fbi-nomination)
 
-   [![KYIV, UKRAINE - MARCH 20: Jake Sullivan, US National Security Advisor, during a joint press conference with Andrii Yermak, Head of the Office of the President of Ukraine, on March 20, 2024 in Kyiv, Ukraine. During his visit to Ukraine, US National Security Advisor Jake Sullivan has stated that Washington believes in Ukraine&rsquo;s victory in the war against Russia. He reassures that the American side will continue to provide defense assistance. The US Congress has been unable to approve new funding for aid to Ukraine for several months to continue arms shipments. This is due to the position of some Republican congressmen who refuse to vote on and approve the document. (Photo by Viktor Kovalchuk/Global Images Ukraine via Getty Images) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/biden-wh-adviser-dodges-whether-hes-concerned-trump-fbi-pick-labeled-him-deep-state-member)
+   [![Former national security adviser John Bolton compared Kash Patel to Lavrentiy Beria in a statement to NBC News. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/john-bolton-compares-kash-patel-stalins-right-hand-man-after-trumps-fbi-nomination)
 
-### [Candace Cameron Bure says 'shocking red sweep' is proof faith is making a comeback: ‘Let God’s will be done'](https://www.foxnews.com/media/candace-cameron-bure-says-shocking-red-sweep-proof-faith-making-comeback-let-gods-done)
+### [Former lawmaker takes shot at MSNBC hosts for meeting with Trump at Mar-a-Lago: 'You can't do that'](https://www.foxnews.com/media/former-lawmaker-takes-shot-msnbc-hosts-meeting-trump-mar-a-lago-you-cant-do-that)
 
-   [![&quot;Full House&quot; actress Candace Cameron Bure gets candid about her faith and how the election results could be a sign that religion is experiencing a resurgence in America. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/candace-cameron-bure-says-shocking-red-sweep-proof-faith-making-comeback-let-gods-done)
+   [![MSNBC political analyst David Jolly appeared to take a shot at Mika Brzezinski and Joe Scarborough on Friday for visiting Trump at Mar-a-Lago. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/former-lawmaker-takes-shot-msnbc-hosts-meeting-trump-mar-a-lago-you-cant-do-that)
 
-### [Democratic Party’s path forward: Lessons from the other side](https://www.foxnews.com/opinion/democratic-partys-path-forward-lessons-from-the-other-side)
+### [Who is Kash Patel? Trump's pick to lead the FBI has long history vowing to bust up 'deep state'](https://www.foxnews.com/politics/who-kash-patel-trumps-pick-lead-fbi-has-long-history-vowing-bust-up-deep-state)
 
-   [![GLENDALE, ARIZONA - AUGUST 23: Republican presidential nominee, former U.S. President Donald Trump takes the stage during a campaign rally at Desert Diamond Arena on August 23, 2024 in Glendale, Arizona. The rally, held in partnership with Turning Point PAC and Turning Point Action, comes come two weeks after Democratic presidential nominee U.S. Vice President Harris held a rally at the same location. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/opinion/democratic-partys-path-forward-lessons-from-the-other-side)
+   [![A side-by-side of Kash Patel and President-elect Donald Trump. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/who-kash-patel-trumps-pick-lead-fbi-has-long-history-vowing-bust-up-deep-state)
 
 [Personal Freedoms](https://www.foxnews.com/category/us/personal-freedoms)
 --------------------------------------------------------------------------
@@ -871,9 +874,13 @@ Top 'quiet travel' DESTINATIONS](https://www.foxnews.com/travel/quiet-travel-hav
 [Crime](https://www.foxnews.com/category/us/crime)
 --------------------------------------------------
 
-     [![9 ways scammers can use your phone number to try to trick you - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/tech/9-ways-scammers-can-use-your-phone-number-try-trick-you)
+     [![Biden pardons son Hunter Biden ahead of exit from Oval Office - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/biden-pardons-son-hunter-biden-ahead-exit-from-oval-office)
+
+### [Biden pardons son Hunter Biden ahead of exit from Oval Office](https://www.foxnews.com/politics/biden-pardons-son-hunter-biden-ahead-exit-from-oval-office)
 
 ### [9 ways scammers can use your phone number to try to trick you](https://www.foxnews.com/tech/9-ways-scammers-can-use-your-phone-number-try-trick-you)
+
+   [![Illustration of a scammer with cash in his hand - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/tech/9-ways-scammers-can-use-your-phone-number-try-trick-you)
 
 ### [‘Home Improvement’ star speculates child stardom led to Zachery Ty Bryan's DUI arrests](https://www.foxnews.com/entertainment/home-improvement-star-speculates-child-stardom-led-zachery-ty-bryan-dui-arrests)
 
@@ -882,10 +889,6 @@ Top 'quiet travel' DESTINATIONS](https://www.foxnews.com/travel/quiet-travel-hav
 ### [Massachusetts man allegedly killed roommate, 80, after being ‘too close’ to Thanksgiving food](https://www.foxnews.com/us/massachusetts-man-allegedly-killed-roommate-80-after-being-too-close-thanksgiving-food)
 
    [![Police did not say what charges the suspects will face if they are caught. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/massachusetts-man-allegedly-killed-roommate-80-after-being-too-close-thanksgiving-food)
-
-### [Texas daycare worker allegedly kicked toddlers more than 100 times, stood on their hands as punishment](https://www.foxnews.com/us/texas-daycare-worker-allegedly-kicked-toddlers-more-than-100-times-stood-hands-punishment)
-
-   [![Catherine Guziejka - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/texas-daycare-worker-allegedly-kicked-toddlers-more-than-100-times-stood-hands-punishment)
 
 [America Together](https://www.foxnews.com/category/us/personal-freedoms/america-together)
 ------------------------------------------------------------------------------------------
@@ -928,40 +931,40 @@ Top 'quiet travel' DESTINATIONS](https://www.foxnews.com/travel/quiet-travel-hav
 [Entertainment](https://www.foxnews.com/entertainment)
 ------------------------------------------------------
 
-     [![James Van Der Beek selling 'Varsity Blues' merchandise to combat 'financial burden' of cancer - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/james-van-der-beek-selling-varsity-blues-merchandise-combat-financial-burden-cancer)
+     [![The Rock says 'freedom is our greatest privilege' while visiting troops in Hawaii - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/rock-says-freedom-our-greatest-privilege-while-visiting-troops-hawaii)
 
-### [James Van Der Beek selling 'Varsity Blues' merchandise to combat 'financial burden' of cancer](https://www.foxnews.com/entertainment/james-van-der-beek-selling-varsity-blues-merchandise-combat-financial-burden-cancer)
+### [The Rock says 'freedom is our greatest privilege' while visiting troops in Hawaii](https://www.foxnews.com/entertainment/rock-says-freedom-our-greatest-privilege-while-visiting-troops-hawaii)
 
-### [Zach Bryan, Morgan Wallen latest stars to fall victim to concert fans throwing objects](https://www.foxnews.com/entertainment/zach-bryan-morgan-wallen-latest-stars-fall-victim-concert-fans-throwing-objects)
+### [Meghan Trainor ‘cannot smile anymore’ from ‘too much Botox’](https://www.foxnews.com/entertainment/meghan-trainor-cannot-smile-anymore-from-too-much-botox)
 
-   [![v - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/zach-bryan-morgan-wallen-latest-stars-fall-victim-concert-fans-throwing-objects)
+   [![LOS ANGELES, CALIFORNIA - NOVEMBER 13: Meghan Trainor attends the &quot;Now Playing&quot; Creator Day hosted by Spotify at its Los Angeles Campus on November 13, 2024 in Los Angeles, California. (Photo by Presley Ann/Getty Images for Spotify) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/meghan-trainor-cannot-smile-anymore-from-too-much-botox)
 
-### [Armie Hammer 'got zero money' from rich family, lives in small apartment after cannibal allegations: report](https://www.foxnews.com/entertainment/armie-hammer-got-zero-money-from-rich-family-lives-small-apartment-after-cannibal-allegations-report)
+### [Taylor Swift's boyfriend Travis Kelce pressured to propose after Josh Allen gets engaged to Hailee Steinfeld](https://www.foxnews.com/entertainment/taylor-swifts-boyfriend-travis-kelce-pressured-propose-after-josh-allen-gets-engaged-hailee-steinfeld)
 
-   [![SANTA MONICA, CALIFORNIA - NOVEMBER 15: 2020 E! PEOPLE&apos;S CHOICE AWARDS -- In this image released on November 15, Armie Hammer speaks onstage for the 2020 E! People&apos;s Choice Awards held at the Barker Hangar in Santa Monica, California and on broadcast on Sunday, November 15, 2020. (Photo by Christopher Polk/E! Entertainment/NBCU Photo Bank via Getty Images) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/armie-hammer-got-zero-money-from-rich-family-lives-small-apartment-after-cannibal-allegations-report)
+   [![Taylor Swift and Travis Kelce - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/taylor-swifts-boyfriend-travis-kelce-pressured-propose-after-josh-allen-gets-engaged-hailee-steinfeld)
 
-### [‘Home Improvement’ star speculates child stardom led to Zachery Ty Bryan's DUI arrests](https://www.foxnews.com/entertainment/home-improvement-star-speculates-child-stardom-led-zachery-ty-bryan-dui-arrests)
+### [Kacey Musgraves curses at fan who ‘kind of ruined’ concert after grabbing her during Tampa show](https://www.foxnews.com/entertainment/kacey-musgraves-curses-fan-who-kind-ruined-concert-after-grabbing-her-during-tampa-show)
 
-   [![HOME IMPROVEMENT - Richard KarnGallery shot: 7/23/1993 / HOME IMPROVEMENT - &quot;I Was a Teenage Taylor&quot; - Airdate: October 29, 1996. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/home-improvement-star-speculates-child-stardom-led-zachery-ty-bryan-dui-arrests)
+   [![NEWARK, NEW JERSEY - SEPTEMBER 09: Kacey Musgraves performs during the &quot;Deeper Well&quot; tour at Prudential Center on September 09, 2024 in Newark, New Jersey. (Photo by Taylor Hill/Getty Images for ABA) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/kacey-musgraves-curses-fan-who-kind-ruined-concert-after-grabbing-her-during-tampa-show)
 
 [Sports](https://www.foxnews.com/sports)
 ----------------------------------------
 
-     [![Jaguars' Trevor Lawrence takes huge hit from Texans' Azeez Al-Shaair, sparking brawl - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/jaguars-trevor-lawrence-takes-huge-hit-from-texans-azeez-al-shaair-sparking-brawl)
+     [![Steelers tie NFL record with 21 consecutive non-losing seasons after win over Bengals - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/steelers-tie-nfl-record-21-consecutive-non-losing-seasons-after-win-over-bengals)
 
-### [Jaguars' Trevor Lawrence takes huge hit from Texans' Azeez Al-Shaair, sparking brawl](https://www.foxnews.com/sports/jaguars-trevor-lawrence-takes-huge-hit-from-texans-azeez-al-shaair-sparking-brawl)
+### [Steelers tie NFL record with 21 consecutive non-losing seasons after win over Bengals](https://www.foxnews.com/sports/steelers-tie-nfl-record-21-consecutive-non-losing-seasons-after-win-over-bengals)
 
-### [Purdue reportedly fires coach Ryan Walters after two seasons, 5-19 record](https://www.foxnews.com/sports/purdue-reportedly-fires-coach-ryan-walters-after-two-seasons-5-19-record)
+### [Saquon Barkley's crucial touchdown keeps Eagles ahead in win over Ravens](https://www.foxnews.com/sports/saquon-barkleys-crucial-touchdown-keeps-eagles-ahead-win-over-ravens)
 
-   [![Purdue reportedly fires coach Ryan Walters after two seasons, 5-19 record - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/purdue-reportedly-fires-coach-ryan-walters-after-two-seasons-5-19-record)
+   [![Philadelphia Eagles running back Saquon Barkley (26) runs with the ball against the Baltimore Ravens during the second half of an NFL football game, Sunday, Dec. 1, 2024, in Baltimore. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/saquon-barkleys-crucial-touchdown-keeps-eagles-ahead-win-over-ravens)
 
-### [Commanders, Titans players get into heated kerfuffle amid early domination](https://www.foxnews.com/sports/commanders-titans-players-get-heated-kerfuffle-amid-early-domination)
+### [NFL fans help clear snow from Bills' stadium ahead of game vs 49ers: 'Ready for football'](https://www.foxnews.com/sports/nfl-fans-help-clear-snow-from-bills-stadium-ahead-game-vs-49ers-ready-football)
 
-   [![Washington Commanders guard Sam Cosmi (76) and Tennessee Titans defensive tackle Jeffery Simmons, right, are separated as they shove each other during the first half of an NFL football game Sunday, Dec. 1, 2024, in Landover, Md. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/commanders-titans-players-get-heated-kerfuffle-amid-early-domination)
+   [![Workers clear snow from the seats in Highmark Stadium in preparation for a Sunday Night Football game between the Buffalo Bills and the San Francisco 49ers in Orchard Park, N.Y., Sunday, Dec. 1, 2024. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/nfl-fans-help-clear-snow-from-bills-stadium-ahead-game-vs-49ers-ready-football)
 
-### [NFL legend Randy Moss reveals he's battling health issue](https://www.foxnews.com/sports/nfl-legend-randy-moss-reveals-hes-battling-health-issue)
+### [New York high school hockey player dead at 17 after 'sudden medical event'](https://www.foxnews.com/sports/new-york-high-school-hockey-player-dead-17-after-sudden-medical-event)
 
-   [![Jan 17, 2022; Inglewood, California, USA; Randy Moss on the ESPN Monday Night Countdown set before a NFC Wild Card playoff football game between the Los Angeles Rams and the Arizona Cardinals at SoFi Stadium. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/nfl-legend-randy-moss-reveals-hes-battling-health-issue)
+   [![Oct 27, 2022; Dallas, Texas, USA; A general view of the NHL puck and the red face-off circle during the game between the Dallas Stars and the Washington Capitals at the American Airlines Center. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/new-york-high-school-hockey-player-dead-17-after-sudden-medical-event)
 
 [U.S.](https://www.foxnews.com/us)
 ----------------------------------
@@ -1042,9 +1045,13 @@ Top 'quiet travel' DESTINATIONS](https://www.foxnews.com/travel/quiet-travel-hav
 [Movies](https://www.foxnews.com/category/entertainment/movies)
 ---------------------------------------------------------------
 
-     [!['Home Alone' house and other popular Christmas movie locations to visit in America - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/travel/home-alone-house-popular-christmas-movie-locations-visit-america)
+     [![The Rock says 'freedom is our greatest privilege' while visiting troops in Hawaii - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/rock-says-freedom-our-greatest-privilege-while-visiting-troops-hawaii)
+
+### [The Rock says 'freedom is our greatest privilege' while visiting troops in Hawaii](https://www.foxnews.com/entertainment/rock-says-freedom-our-greatest-privilege-while-visiting-troops-hawaii)
 
 ### ['Home Alone' house and other popular Christmas movie locations to visit in America](https://www.foxnews.com/travel/home-alone-house-popular-christmas-movie-locations-visit-america)
+
+   [![&apos;Home Alone&apos; house and other popular Christmas movie locations to visit in America - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/travel/home-alone-house-popular-christmas-movie-locations-visit-america)
 
 ### [Justin Timberlake cancels another concert on world tour after injuring back: 'Y'all know I hate doing this'](https://www.foxnews.com/entertainment/justin-timberlake-cancels-another-concert-suffering-back-injury-hate-doing-this)
 
@@ -1053,10 +1060,6 @@ Top 'quiet travel' DESTINATIONS](https://www.foxnews.com/travel/quiet-travel-hav
 ### [Cheryl Hines shares video of RFK Jr. naked in shower to promote self-care product company: 'Oh Bobby'](https://www.foxnews.com/entertainment/cheryl-hines-shares-video-rfk-jr-naked-shower-promote-self-care-product-company-oh-bobby)
 
    [![c - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/cheryl-hines-shares-video-rfk-jr-naked-shower-promote-self-care-product-company-oh-bobby)
-
-### [Sydney Sweeney looks unrecognizable in latest role: Actress' best looks over the years](https://www.foxnews.com/entertainment/sydney-sweeney-looks-unrecognizable-latest-role-actress-best-looks-over-years)
-
-   [![Sydney Sweeney looks unrecognizable in upcoming movie role. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/sydney-sweeney-looks-unrecognizable-latest-role-actress-best-looks-over-years)
 
 [Business](https://www.foxbusiness.com/)
 ----------------------------------------
@@ -1137,9 +1140,13 @@ Top 'quiet travel' DESTINATIONS](https://www.foxnews.com/travel/quiet-travel-hav
 [Music](https://www.foxnews.com/category/entertainment/music)
 -------------------------------------------------------------
 
-     [![Zach Bryan, Morgan Wallen latest stars to fall victim to concert fans throwing objects - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/zach-bryan-morgan-wallen-latest-stars-fall-victim-concert-fans-throwing-objects)
+     [![Meghan Trainor ‘cannot smile anymore’ from ‘too much Botox’ - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/meghan-trainor-cannot-smile-anymore-from-too-much-botox)
+
+### [Meghan Trainor ‘cannot smile anymore’ from ‘too much Botox’](https://www.foxnews.com/entertainment/meghan-trainor-cannot-smile-anymore-from-too-much-botox)
 
 ### [Zach Bryan, Morgan Wallen latest stars to fall victim to concert fans throwing objects](https://www.foxnews.com/entertainment/zach-bryan-morgan-wallen-latest-stars-fall-victim-concert-fans-throwing-objects)
+
+   [![v - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/zach-bryan-morgan-wallen-latest-stars-fall-victim-concert-fans-throwing-objects)
 
 ### [American Culture Quiz: Test yourself on holiday tunes, festive flora and plane pioneers](https://www.foxnews.com/lifestyle/american-culture-quiz-test-yourself-holiday-tunes-festive-flora-plane-pioneers)
 
@@ -1148,10 +1155,6 @@ Top 'quiet travel' DESTINATIONS](https://www.foxnews.com/travel/quiet-travel-hav
 ### [Justin Timberlake cancels another concert on world tour after injuring back: 'Y'all know I hate doing this'](https://www.foxnews.com/entertainment/justin-timberlake-cancels-another-concert-suffering-back-injury-hate-doing-this)
 
    [![NEW YORK, NEW YORK - OCTOBER 07: Justin Timberlake performs on stage during the Forget Tomorrow World Tour at Barclays Center on October 07, 2024 in New York City. (Photo by Kevin Mazur/Getty Images for Live Nation) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/justin-timberlake-cancels-another-concert-suffering-back-injury-hate-doing-this)
-
-### [Kelly Clarkson’s kids 'constantly' tell her not ‘to be with anybody else’ after divorce from their dad](https://www.foxnews.com/entertainment/kelly-clarksons-kids-constantly-tell-her-not-to-anybody-else-after-divorce-from-dad)
-
-   [![Brandon Blackstock (left) has denied claims made by his estranged wife Kelly Clarkson (right) that he defrauded her out of money. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/kelly-clarksons-kids-constantly-tell-her-not-to-anybody-else-after-divorce-from-dad)
 
 [Food + Drink](https://www.foxnews.com/food-drink)
 --------------------------------------------------
@@ -1187,16 +1190,20 @@ Top 'quiet travel' DESTINATIONS](https://www.foxnews.com/travel/quiet-travel-hav
 
    [![Paralyzing Great Lakes snowstorm produces rare thundersnow, waterspouts - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxweather.com/weather-news/lake-effect-snow-watch-new-york)
 
-### [Buffalo Bills dig out 20-plus inches of snow at Highmark Stadium ahead of 49ers Sunday night matchup](https://www.foxweather.com/lifestyle/bills-49ers-snow-buffalo-nfl-sunday-night-football)
+### [Alberta Clipper to bring snow to over a dozen states from Dakotas to Northeast later this week](https://www.foxweather.com/weather-news/december-alberta-clipper-snow-northeast)
 
-   [![Buffalo Bills dig out 20-plus inches of snow at Highmark Stadium ahead of 49ers Sunday night matchup - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxweather.com/lifestyle/bills-49ers-snow-buffalo-nfl-sunday-night-football)
+   [![Alberta Clipper to bring snow to over a dozen states from Dakotas to Northeast later this week - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxweather.com/weather-news/december-alberta-clipper-snow-northeast)
 
 [Full Episodes](https://www.foxnews.com/video/topics/latest-news-video)
 -----------------------------------------------------------------------
 
-      [![One Nation with Brian Kilmeade - Saturday, November 30 - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/6365374472112)
+      [![Sunday Morning Futures w/ Maria Bartiromo - Sunday, December 1 - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/6365393933112)
+
+### [Sunday Morning Futures w/ Maria Bartiromo - Sunday, December 1](https://www.foxnews.com/video/6365393933112)
 
 ### [One Nation with Brian Kilmeade - Saturday, November 30](https://www.foxnews.com/video/6365374472112)
+
+    [![One Nation with Brian Kilmeade - Saturday, November 30 - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/6365374472112)
 
 ### [Life, Liberty & Levin - Saturday, November 30](https://www.foxnews.com/video/6365373077112)
 
@@ -1205,10 +1212,6 @@ Top 'quiet travel' DESTINATIONS](https://www.foxnews.com/travel/quiet-travel-hav
 ### [The Big Weekend Show - Saturday, November 30](https://www.foxnews.com/video/6365373843112)
 
     [![The Big Weekend Show - Saturday, November 30 - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/6365373843112)
-
-### [The Journal Editorial Report - Saturday, November 30](https://www.foxnews.com/video/6365374234112)
-
-    [![The Journal Editorial Report - Saturday, November 30 - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/6365374234112)
 
 [Latest Wires](https://www.foxnews.com/category/topic/associated-press)
 -----------------------------------------------------------------------
@@ -1232,22 +1235,22 @@ Top 'quiet travel' DESTINATIONS](https://www.foxnews.com/travel/quiet-travel-hav
 [Media](https://www.foxnews.com/media)
 --------------------------------------
 
-     [![NYT op-ed argues 'resentful' men, 'manosphere' and overall anger and loneliness led to Trump's victory - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/nyt-op-ed-argues-resentful-men-manosphere-overall-anger-loneliness-led-trumps-victory)
+     [![Kash Patel FBI director nominee causes uproar on Sunday shows: 'He will be the enforcer' of Trump's revenge - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/kash-patel-fbi-director-nominee-causes-uproar-sunday-shows-he-enforcer-trumps-revenge)
+
+### [Kash Patel FBI director nominee causes uproar on Sunday shows: 'He will be the enforcer' of Trump's revenge](https://www.foxnews.com/media/kash-patel-fbi-director-nominee-causes-uproar-sunday-shows-he-enforcer-trumps-revenge)
+
+### [Former lawmaker takes shot at MSNBC hosts for meeting with Trump at Mar-a-Lago: 'You can't do that'](https://www.foxnews.com/media/former-lawmaker-takes-shot-msnbc-hosts-meeting-trump-mar-a-lago-you-cant-do-that)
+
+   [![MSNBC political analyst David Jolly appeared to take a shot at Mika Brzezinski and Joe Scarborough on Friday for visiting Trump at Mar-a-Lago. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/former-lawmaker-takes-shot-msnbc-hosts-meeting-trump-mar-a-lago-you-cant-do-that)
 
 ### [NYT op-ed argues 'resentful' men, 'manosphere' and overall anger and loneliness led to Trump's victory](https://www.foxnews.com/media/nyt-op-ed-argues-resentful-men-manosphere-overall-anger-loneliness-led-trumps-victory)
+
+   [![GLENDALE, ARIZONA - AUGUST 23: Republican presidential nominee, former U.S. President Donald Trump takes the stage during a campaign rally at Desert Diamond Arena on August 23, 2024 in Glendale, Arizona. The rally, held in partnership with Turning Point PAC and Turning Point Action, comes come two weeks after Democratic presidential nominee U.S. Vice President Harris held a rally at the same location. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/nyt-op-ed-argues-resentful-men-manosphere-overall-anger-loneliness-led-trumps-victory)
 
 ### [Trump FCC pick says bringing 'censorship cartel' to heel will be a 'top' priority: 'It's got to end'](https://www.foxnews.com/media/trump-fcc-pick-says-bringing-censorship-cartel-heel-top-priority-its-got-end)
 
    [![Connecting America: Oversight of the FCC
 UNITED STATES - MARCH 31: Federal Communications Commission Commissioner Brendan Carr testifies during the House Energy and Commerce Subcommittee on Communications and Technology hearing titled Connecting America: Oversight of the FCC, in Rayburn Building on Thursday, March 31, 2022. (Tom Williams/CQ-Roll Call, Inc via Getty Images) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/trump-fcc-pick-says-bringing-censorship-cartel-heel-top-priority-its-got-end)
-
-### [Candace Cameron Bure says 'shocking red sweep' is proof faith is making a comeback: ‘Let God’s will be done'](https://www.foxnews.com/media/candace-cameron-bure-says-shocking-red-sweep-proof-faith-making-comeback-let-gods-done)
-
-   [![&quot;Full House&quot; actress Candace Cameron Bure gets candid about her faith and how the election results could be a sign that religion is experiencing a resurgence in America. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/candace-cameron-bure-says-shocking-red-sweep-proof-faith-making-comeback-let-gods-done)
-
-### [Former lawmaker calls for complete 'rebrand' of 'toxic' Democratic Party](https://www.foxnews.com/media/former-lawmaker-calls-complete-rebrand-toxic-democratic-party)
-
-   [![Former Democratic lawmaker Tim Ryan said Saturday that the Democratic Party needed a complete rebrand. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/former-lawmaker-calls-complete-rebrand-toxic-democratic-party)
 
 [Antisemitism Exposed](https://www.foxnews.com/category/topic/anti-semitism)
 ----------------------------------------------------------------------------
@@ -1271,9 +1274,13 @@ UNITED STATES - MARCH 31: Federal Communications Commission Commissioner Brendan
 [Immigration](https://www.foxnews.com/category/us/immigration)
 --------------------------------------------------------------
 
-     [![Ted Cruz predicts illegal immigration will 'plummet' immediately after Trump's inauguration - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/ted-cruz-predicts-illegal-immigration-plummet-immediately-after-trumps-inauguration)
+     [![US sees surge in Indian immigrants at border with Canada - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/us-sees-surge-indian-immigrants-border-canada)
+
+### [US sees surge in Indian immigrants at border with Canada](https://www.foxnews.com/politics/us-sees-surge-indian-immigrants-border-canada)
 
 ### [Ted Cruz predicts illegal immigration will 'plummet' immediately after Trump's inauguration](https://www.foxnews.com/politics/ted-cruz-predicts-illegal-immigration-plummet-immediately-after-trumps-inauguration)
+
+   [![Sen. Ted Cruz, R-Texas, on Capitol Hill, Tuesday, March 12, 2024, in Washington. (AP Photo/Manuel Balce Ceneta) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/ted-cruz-predicts-illegal-immigration-plummet-immediately-after-trumps-inauguration)
 
 ### [Sanctuary city Denver spending a whopping $356 million on migrants: study](https://www.foxnews.com/politics/sanctuary-city-denver-spending-whopping-356-million-migrants-study)
 
@@ -1283,28 +1290,24 @@ UNITED STATES - MARCH 31: Federal Communications Commission Commissioner Brendan
 
    [![Denver Mayor Mike Johnston and former President Donald Trump - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/opinion/david-marcus-democrat-mayors-fighting-trumps-deportations-playing-electoral-fire)
 
-### [Tom Homan wants all government officials to listen to Laken Riley tapes: 'Shame on you'](https://www.foxnews.com/media/tom-homan-wants-all-government-officials-listen-laken-riley-tapes-shame-you)
-
-   [![Tom Homan speaks to &quot;The Ingraham Angle&quot; about stopping illegal immigration. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/tom-homan-wants-all-government-officials-listen-laken-riley-tapes-shame-you)
-
 [Fox News Podcasts](https://radio.foxnews.com/podcast/)
 -------------------------------------------------------
 
-     [![‘Tis The Season For Changing The World - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://radio.foxnews.com/2024/12/01/tis-the-season-for-changing-the-world/)
+     [![Fox Sports Update – NFL Week 13 Preview - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://radio.foxnews.com/2024/12/01/fox-sports-update-nfl-week-13-preview/)
 
-### [‘Tis The Season For Changing The World](https://radio.foxnews.com/2024/12/01/tis-the-season-for-changing-the-world/)
+### [Fox Sports Update – NFL Week 13 Preview](https://radio.foxnews.com/2024/12/01/fox-sports-update-nfl-week-13-preview/)
 
-### [Operation Thanksgiving Blessings](https://radio.foxnews.com/2024/12/01/operation-thanksgiving-blessings/)
+### [Extra: The Inspiration Behind ‘Martin Scorsese’s Presents: The Saints’](https://radio.foxnews.com/2024/12/01/extra-the-inspiration-behind-martin-scorseses-presents-the-saints/)
 
-   [![Operation Thanksgiving Blessings - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://radio.foxnews.com/2024/12/01/operation-thanksgiving-blessings/)
+   [![Extra: The Inspiration Behind &lsquo;Martin Scorsese&rsquo;s Presents: The Saints&rsquo; - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://radio.foxnews.com/2024/12/01/extra-the-inspiration-behind-martin-scorseses-presents-the-saints/)
 
-### [Martha Stewart is Not Ignoring Your DMs](https://radio.foxnews.com/2024/12/01/martha-stewart-is-not-ignoring-your-dms/)
+### [Francesca Eastwood’s Case Dropped For Insufficient Evidence](https://radio.foxnews.com/2024/12/01/francesca-eastwoods-case-dropped-for-insufficient-evidence/)
 
-   [![Martha Stewart is Not Ignoring Your DMs - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://radio.foxnews.com/2024/12/01/martha-stewart-is-not-ignoring-your-dms/)
+   [![Francesca Eastwood&rsquo;s Case Dropped For Insufficient Evidence - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://radio.foxnews.com/2024/12/01/francesca-eastwoods-case-dropped-for-insufficient-evidence/)
 
-### [Advent: Anne Graham Lotz and Tim Mahoney Discuss the Old Testament Prophecies Predicting the Birth of Jesus](https://radio.foxnews.com/2024/12/01/advent-anne-graham-lotz-and-tim-mahoney-discuss-the-old-testament-prophecies-predicting-the-birth-of-jesus/)
+### [Meghan Trainor “Cannot Smile Anymore”](https://radio.foxnews.com/2024/12/01/meghan-trainor-cannot-smile-anymore/)
 
-   [![Advent: Anne Graham Lotz and&nbsp;Tim Mahoney Discuss the Old Testament Prophecies Predicting the Birth of Jesus - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://radio.foxnews.com/2024/12/01/advent-anne-graham-lotz-and-tim-mahoney-discuss-the-old-testament-prophecies-predicting-the-birth-of-jesus/)
+   [![Meghan Trainor &ldquo;Cannot Smile Anymore&rdquo; - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://radio.foxnews.com/2024/12/01/meghan-trainor-cannot-smile-anymore/)
 
 ##### [U.S.](https://www.foxnews.com/us)
 
