@@ -1,7 +1,7 @@
 ![Fb](https://www.facebook.com/tr?id=3074015879559753&ev=PageView
                     &noscript=1) 
 
-**Save 30% on 1 item of your choice\* for Black Friday!** [Learn More](https://www.zurinstitute.com/sales/)
+**Save 30% on 1 item of your choice\* for Cyber Monday!** [Learn More](https://www.zurinstitute.com/sales/)
 
 [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%271500%27%20height=%27702%27/%3e)![logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
