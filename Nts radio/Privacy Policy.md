@@ -305,7 +305,7 @@ Play
 
 [Events](https://www.nts.live/events)[Podcasts](https://www.nts.live/podcasts)[Videos](https://www.nts.live/videos)[News](https://www.nts.live/incoming)[About](https://www.nts.live/about)[NTS Supporters](https://www.nts.live/supporters)[Help and Feedback](https://ntslive.freshdesk.com/support/home)
 
-[iOS App](https://apps.apple.com/us/app/nts-radio/id1204567739?platform=iphone&ct=website_desktop_header)[Android App](https://play.google.com/store/apps/details?id=com.ntslive.ntsradio&referrer=install_source%3Dnotifications_website_desktop_header)[Join the Chat](https://discord.gg/nts-chat)[Newsletter](https://www.nts.live/newsletter)
+[iOS App](https://apps.apple.com/us/app/nts-radio/id1204567739?platform=iphone&ct=website_desktop_header)[Android App](https://play.google.com/store/apps/details?id=com.ntslive.ntsradio&referrer=website_desktop_header)[Join the Chat](https://discord.gg/nts-chat)[Newsletter](https://www.nts.live/newsletter)
 
 [](https://www.instagram.com/nts_radio/)[](https://www.facebook.com/NTSRadio)[](https://twitter.com/ntslive)[](https://www.youtube.com/user/NTSLIVEUK)
 
