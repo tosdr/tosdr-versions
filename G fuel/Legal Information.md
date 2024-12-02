@@ -1,5 +1,5 @@
   
-Terms of service – G FUEL                                                                                                
+Terms of service – G FUEL                                                                                        
 
 [Skip to content](#MainContent)  
 
@@ -119,7 +119,9 @@ Close menu
 
  [![Miami Nights](//gfuel.com/cdn/shop/files/miami-nights-tub-g-fuel-gamer-drink-183550_medium.png?v=1710297383) Miami Nights](https://gfuel.com/products/miami-nights-tub)
 
- [![The Ultimate Murdercorn Sour Rainbow Candy](//gfuel.com/cdn/shop/products/murdercorn-candy-tub-g-fuel-gamer-drink-620974_medium.png?v=1689025657) The Ultimate Murdercorn Sour Rainbow Candy](https://gfuel.com/products/murdercorn-candy)
+ [![Bahama Mama](//gfuel.com/cdn/shop/files/bahama-mama-tub-g-fuel-gamer-drink-784981_medium.png?v=1732163320) Bahama Mama](https://gfuel.com/products/bahama-mama-tub-40-servings)
+
+ [![G FUEL Energy + Protein Bundle](//gfuel.com/cdn/shop/files/energy-protein-bundle-bundle-g-fuel-gamer-drink-495379_medium.png?v=1712710220) G FUEL Energy + Protein Bundle](https://gfuel.com/products/energy-protein-bundle)
 
  [![HYPE SAUCE Hydration](//gfuel.com/cdn/shop/products/hype-sauce-hydration-hydration-tub-g-fuel-gamer-drink-381042_medium.png?v=1687799391) HYPE SAUCE Hydration](https://gfuel.com/products/hype-sauce-hydration-tub)
 
@@ -128,8 +130,6 @@ Close menu
  [![Dragon Fruit Cans](//gfuel.com/cdn/shop/products/spyro-dragonfruit-cans-retail-rtd-g-fuel-gamer-drink-469412_medium.png?v=1667259506) Dragon Fruit Cans](https://gfuel.com/products/spyro-dragonfruit-cans)
 
  [![Berry Bomb Cans](//gfuel.com/cdn/shop/products/berry-bomb-cans-rtd-g-fuel-gamer-drink-435046_medium.png?v=1668618798) Berry Bomb Cans](https://gfuel.com/products/berry-bomb-cans)
-
- [![G FUEL Energy + Protein Bundle](//gfuel.com/cdn/shop/files/energy-protein-bundle-bundle-g-fuel-gamer-drink-495379_medium.png?v=1712710220) G FUEL Energy + Protein Bundle](https://gfuel.com/products/energy-protein-bundle)
 
 View more
 
@@ -210,7 +210,7 @@ View more
 
 Pause slideshow Play slideshow
 
-[Celebrate Black FridayShop the BOGO Tub-a-Thon!](https://gfuel.com/pages/bogo)
+[Celebrate Cyber MondayShop the BOGO Tub-a-Thon!](https://gfuel.com/pages/bogo)
 
 ![](https://cdn.shopify.com/s/files/1/0223/3113/files/check-cart.svg?v=1689600224) ITEM ADDED TO YOUR CART! [View Cart](https://gfuel.com/cart)
 
@@ -591,7 +591,7 @@ DOWNLOAD THE APP
 
 EASY NAVIGATION - EXCLUSIVE DROPS - COOL ASF
 
- [![](//gfuel.com/cdn/shop/t/632/assets/app-store-badge.svg?v=123926581890561309811732744893)](https://apps.apple.com/app/g-fuel/id1205219305 "Download on the App Store")[![](//gfuel.com/cdn/shop/t/632/assets/google-play-badge.png?v=132395384020293405351732744893)](https://play.google.com/store/apps/details?id=com.aeron.shopifycore.gfuel "Get it on Google Play")
+ [![](//gfuel.com/cdn/shop/t/633/assets/app-store-badge.svg?v=123926581890561309811732935451)](https://apps.apple.com/app/g-fuel/id1205219305 "Download on the App Store")[![](//gfuel.com/cdn/shop/t/633/assets/google-play-badge.png?v=132395384020293405351732935451)](https://play.google.com/store/apps/details?id=com.aeron.shopifycore.gfuel "Get it on Google Play")
 
 The statements contained in this website have not been evaluated by the Food and Drug Administration (FDA). No statements shall be construed as a claim or representation of a diagnosis, treatment, cure, or prevention of any disease. No product listed in this website is intended to diagnose, treat, cure, or prevent any disease. Products are not intended for those with a medical condition, pregnant or nursing.
 
@@ -611,13 +611,13 @@ The statements contained in this website have not been evaluated by the Food and
 
 Rated 5.0 out of 5 stars
 
-16 Reviews
+17 Reviews
 
 4.9
 
 Rated 4.9 out of 5 stars
 
-8 Reviews
+9 Reviews
 
 4.7
 
@@ -635,7 +635,7 @@ Rated 4.4 out of 5 stars
 
 Rated 4.7 out of 5 stars
 
-2,894 Reviews
+2,895 Reviews
 
 4.5
 
