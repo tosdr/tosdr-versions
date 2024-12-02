@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Can’t Stop Eating](/wp-content/thumbnails/5897-100x70.png?x53432)
+* [![Cage Fighting In The USA](/wp-content/thumbnails/7617-100x70.jpg?x53432)
     
-    Can’t Stop Eating
+    Cage Fighting In The USA
     
-    This documentary follows a small number of British people with an incurable genetic disease called Prader-Willi syndrome.Prader–Willi syndrome is a rare genetic disorder in which seven genes (or s](https://documentaryheaven.com/cant-stop-eating/ "Can’t Stop Eating")
-* [![Iran And The Bomb](/wp-content/thumbnails/7646-100x70.jpg?x53432)
+    We explore the fastest growing sport in America – Mixed Martial Arts (MMA). MMA is now a billion-dollar industry, watched by millions on national TV. But increasingly, amateurs are stepping onto the m](https://documentaryheaven.com/cage-fighting-usa/ "Cage Fighting In The USA")
+* [![War Machines: Tank](/wp-content/thumbnails/5825-100x70.jpg?x53432)
     
-    Iran And The Bomb
+    War Machines: Tank
     
-    The West says Iran is making a nuclear bomb. Tehran says they're treating cancer. This compelling investigation gets right to the heart of the maelstrom, interrogating facts, falsehoods and shocking a](https://documentaryheaven.com/iran-bomb/ "Iran And The Bomb")
-* [![For Neda](/wp-content/thumbnails/7627-100x70.jpg?x53432)
+    The tank is every general’s dream: firepower combined with mobility. Tank historians and war veterans spotlight the major advances that make up the evolutionary timeline of the tank’s development.](https://documentaryheaven.com/war-machines-tank/ "War Machines: Tank")
+* [![Thalidomide: A Wonder Drug](/wp-content/thumbnails/7944-100x70.jpg?x53432)
     
-    For Neda
+    Thalidomide: A Wonder Drug
     
-    The film reveals the true story of Neda Agha-Soltan, who became another tragic casualty of Iran's violent crackdown on post-election protests on June 20, 2009.Unlike many unknown victims, however,](https://documentaryheaven.com/for-neda/ "For Neda")
-* [![Web 3.0](/wp-content/thumbnails/3475-100x70.jpg?x53432)
+    It is 50 years since thalidomide was first introduced on to the UK market as a cure for morning sickness. Those affected by the drug are still fighting for compensation - while others are fighting to](https://documentaryheaven.com/thalidomide-wonder-drug/ "Thalidomide: A Wonder Drug")
+* [![Jim Morrison: His Final Hours](/wp-content/thumbnails/6838-100x70.jpg?x53432)
     
-    Web 3.0
+    Jim Morrison: His Final Hours
     
-    A short story about the Semantic Web. Some Internet experts believe the next generation of the Web – Web 3.0 – will make tasks like your search for movies and food faster and easier. Instead of mult](https://documentaryheaven.com/web-3-0/ "Web 3.0")
-* [![Last Days Of George Michael](/wp-content/thumbnails/14154-100x70.jpg?x53432)
+    Jim Morrison was one of the most famous rock singers in the world. He was also the ultimate sex symbol, but Morrison was at war with his own dark demons. Using archive footage, dramatic reenactment an](https://documentaryheaven.com/jim-morrison-his-final-hours/ "Jim Morrison: His Final Hours")
+* [![Amy](/wp-content/thumbnails/10742-100x70.jpg?x53432)
     
-    Last Days Of George Michael
+    Amy
     
-    He was adored around the world yet he died alone, but who was the real George Michael? Was he a superstar simply tormented by the attention that fame brought him or a celebrity obsessed with fighting](https://documentaryheaven.com/last-days-george-michael/ "Last Days Of George Michael")
+    A close and personal depiction of the life and death of the late British musician Amy Winehouse, directed by Asif Kapadia. Using archival footage and home videos we get a real sense for who](https://documentaryheaven.com/amy/ "Amy")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
