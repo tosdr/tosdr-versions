@@ -1,4 +1,4 @@
-Shop the [Black Friday Blowout](https://www.arlo.com/en-us/black-friday-blowout "Black Friday Blowout") & get up to 50% off!
+Shop the [Cyber Monday Sale](https://www.arlo.com/en-us/cyber-monday-sale "Cyber Monday Sale") & get up to 50% off!
 
 [](# "Menu")
 
