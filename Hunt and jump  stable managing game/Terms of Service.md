@@ -148,6 +148,10 @@ HuntAndJump.com Rules
 
 ![](/images/coloricons/News-Alerts-2.png)News & Alerts
 
+12/2/2024 7:04 AM EST
+
+### The updated image generation is now live, and opening the page of any horse will force update its image to the new generation.
+
 11/30/2024 11:51 PM EST
 
 ### The gift exchange has been assigned. Happy gifting!
@@ -181,12 +185,6 @@ Link is in the navigation. Have questions, or want a guide? Check the stickied f
 ![](https://www.huntandjump.com/images/grsExamples/asr1.png)  
 **Gray Reduction**  
 ![](https://www.huntandjump.com/images/grsExamples/grayredu.png)
-
-11/8/2024 2:06 AM EST
-
-### Just one week until the gift exchange opens for sign-ups!
-
-[Check out our new GE user guide.](https://alt.wiki.huntandjump.com/doku.php?id=all_gift_exchange)
 
 ![](/images/coloricons/Gold-Star-2.png)Bonus Stall Progress
 
