@@ -8,6 +8,7 @@
     * [Simulated Phishing](https://www.hutsix.io/simulated-phishing)
     * [Pricing](https://www.hutsix.io/pricing)
     * [Partners](https://www.hutsix.io/partners)
+    * [Curriculum](https://www.hutsix.io/curriculum)
     * [Case Studies](https://www.hutsix.io/case-studies)
     * [Knowledge Base](https://www.hutsix.io/support)
     * [Public Sector](https://www.hutsix.io/public-sector-cyber-security)
