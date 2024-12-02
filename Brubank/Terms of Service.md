@@ -291,19 +291,19 @@ Términos y condiciones
 
 #### **Términos y condiciones**
 
-‍[Descargar PDF](https://cdn.prod.website-files.com/63091bbd808ef433808b70cd/66fbefaea7243d28af0dcc3b_Te%CC%81rminos%20y%20Condiciones.pdf)**‍**
+‍[Descargar PDF](https://cdn.prod.website-files.com/63091bbd808ef433808b70cd/674dac99070e854f47f887a1_T%C3%A9rminos%20y%20Condiciones.pdf)**‍**
 
 #### [**Términos y condiciones - Patear**](https://www.brubank.com/terms-patear)
 
-[Descargar PDF](https://cdn.prod.website-files.com/63091bbd808ef433808b70cd/66fbf08c521c27b9a3840e1a_Te%CC%81rminos%20y%20Condiciones%20-%20Patear.pdf)
+[Descargar PDF](https://cdn.prod.website-files.com/63091bbd808ef433808b70cd/674daca0544714cea7971ddc_T%C3%A9rminos%20y%20Condiciones%20-%20Patear.pdf)
 
 #### [**Términos y condiciones - BruPlus**](#)
 
-[Descargar PDF](https://cdn.prod.website-files.com/63091bbd808ef433808b70cd/66fbf09753a0442ab007773f_Te%CC%81rminos%20y%20Condiciones%20-%20BruPlus.pdf)
+[Descargar PDF](https://cdn.prod.website-files.com/63091bbd808ef433808b70cd/674daca75611d65e0da0c6fd_T%C3%A9rminos%20y%20Condiciones%20-%20BruPlus.pdf)
 
 #### [**Términos y condiciones - Tarjeta de crédito**](#)
 
-[Descargar PDF](https://cdn.prod.website-files.com/63091bbd808ef433808b70cd/66fbf0a2a595317d71d516ab_Te%CC%81rminos%20y%20Condiciones%20-%20Tarjeta%20de%20cre%CC%81dito.pdf)**‍**
+[Descargar PDF](https://cdn.prod.website-files.com/63091bbd808ef433808b70cd/674dacaedf9944403979b5a8_T%C3%A9rminos%20y%20Condiciones%20-%20Tarjeta%20de%20cr%C3%A9dito.pdf)**‍**
 
 #### [**Resumen informativo del contrato**](#)
 
