@@ -20,16 +20,16 @@ Monday, December 2 2024
 
 Latest
 
-* [Your office is now absolutely riddled with surveillance equipment](https://digitpatrox.com/your-office-is-now-absolutely-riddled-with-surveillance-equipment/)
-* [2025 will be a bad year for remote work – Computerworld](https://digitpatrox.com/2025-will-be-a-bad-year-for-remote-work-computerworld/)
-* [These Ecoflow Home Power Stations Are 60% Off for Black Friday](https://digitpatrox.com/these-ecoflow-home-power-stations-are-60-off-for-black-friday/)
-* [ExpressVPN Review: A Great, But Pricey, VPN](https://digitpatrox.com/expressvpn-review-a-great-but-pricey-vpn/)
-* [AWS adds new generative AI capabilities for Amazon Connect](https://digitpatrox.com/aws-adds-new-generative-ai-capabilities-for-amazon-connect/)
-* [Amazon Cyber Monday deals are now LIVE: Amazing discounts on TVs, laptops, Switch and more](https://digitpatrox.com/amazon-cyber-monday-deals-are-now-live-amazing-discounts-on-tvs-laptops-switch-and-more/)
-* [The best Cyber Monday phone deals I’d actually recommend to real people](https://digitpatrox.com/the-best-cyber-monday-phone-deals-id-actually-recommend-to-real-people/)
-* [75+ Best Target Cyber Monday Deals You Should Check Out Right Now!](https://digitpatrox.com/75-best-target-cyber-monday-deals-you-should-check-out-right-now/)
-* [How To Use Tabs in Google Docs](https://digitpatrox.com/how-to-use-tabs-in-google-docs/)
-* [Why I Use a Privacy Screen When Working in Public](https://digitpatrox.com/why-i-use-a-privacy-screen-when-working-in-public/)
+* [Leaks reveal a new DJI drone with a compact folding design](https://digitpatrox.com/leaks-reveal-a-new-dji-drone-with-a-compact-folding-design/)
+* [Pick Up This Anker 5000mAh MagGo Charger For Just $30 on Cyber Monday](https://digitpatrox.com/pick-up-this-anker-5000mah-maggo-charger-for-just-30-on-cyber-monday/)
+* [Westcon-Comstor bags major European distribution deal with AWS](https://digitpatrox.com/westcon-comstor-bags-major-european-distribution-deal-with-aws/)
+* [Panasonic revives its late founder as AI – Computerworld](https://digitpatrox.com/panasonic-revives-its-late-founder-as-ai-computerworld/)
+* [Adobe’s Creative Cloud Is 50% Off for Cyber Monday](https://digitpatrox.com/adobes-creative-cloud-is-50-off-for-cyber-monday/)
+* [How to remove File Explorer Home page on Windows 11](https://digitpatrox.com/how-to-remove-file-explorer-home-page-on-windows-11/)
+* [How to Schedule Automatic Shutdown on Windows 11](https://digitpatrox.com/how-to-schedule-automatic-shutdown-on-windows-11/)
+* [Intel CEO Pat Gelsinger announces retirement](https://digitpatrox.com/intel-ceo-pat-gelsinger-announces-retirement/)
+* [Live Stream: AWS Partners LIVE!](https://digitpatrox.com/live-stream-aws-partners-live/)
+* [The $199 DJI Neo is the best drone for beginners and I’m buying it for full price on Cyber Monday](https://digitpatrox.com/the-199-dji-neo-is-the-best-drone-for-beginners-and-im-buying-it-for-full-price-on-cyber-monday/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/oTUSyyqsAmvPoYy7uLn7w8-1200-80.jpg)](https://digitpatrox.com/your-office-is-now-absolutely-riddled-with-surveillance-equipment/)
+* [![](https://cdn.vox-cdn.com/thumbor/1nPWQNeByTRaR276rBERq20jXdk=/0x0:1628x1085/1200x628/filters:focal(814x543:815x544)/cdn.vox-cdn.com/uploads/chorus_asset/file/25769442/DJI_flip1.jpg)](https://digitpatrox.com/leaks-reveal-a-new-dji-drone-with-a-compact-folding-design/)
     
-    [Your office is now absolutely riddled with surveillance equipment](https://digitpatrox.com/your-office-is-now-absolutely-riddled-with-surveillance-equipment/)
+    [Leaks reveal a new DJI drone with a compact folding design](https://digitpatrox.com/leaks-reveal-a-new-dji-drone-with-a-compact-folding-design/)
     
-    26 minutes ago
+    15 minutes ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3613161-0-37498100-1733137394-shutterstock-jirsak-back-to-office-image-100944169-orig.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/2025-will-be-a-bad-year-for-remote-work-computerworld/)
+* [![](https://beebom.com/wp-content/uploads/2024/12/Cyber-Monday-Anker-622-5000mAh-MagGo-deal.jpg)](https://digitpatrox.com/pick-up-this-anker-5000mah-maggo-charger-for-just-30-on-cyber-monday/)
     
-    [2025 will be a bad year for remote work – Computerworld](https://digitpatrox.com/2025-will-be-a-bad-year-for-remote-work-computerworld/)
+    [Pick Up This Anker 5000mAh MagGo Charger For Just $30 on Cyber Monday](https://digitpatrox.com/pick-up-this-anker-5000mah-maggo-charger-for-just-30-on-cyber-monday/)
     
-    48 minutes ago
+    31 minutes ago
     
-* [![](https://lifehacker.com/imagery/articles/01JDBK9AN5Y6GH3X2WJPC05783/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/these-ecoflow-home-power-stations-are-60-off-for-black-friday/)
+* [![](https://cdn.mos.cms.futurecdn.net/U4SvuVdaMvknf9AM4b5VtK-1200-80.jpg)](https://digitpatrox.com/westcon-comstor-bags-major-european-distribution-deal-with-aws/)
     
-    [These Ecoflow Home Power Stations Are 60% Off for Black Friday](https://digitpatrox.com/these-ecoflow-home-power-stations-are-60-off-for-black-friday/)
-    
-    1 hour ago
-    
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/11/expressvpn-running-on-a-windows-11-powered-gaming-pc.jpg)](https://digitpatrox.com/expressvpn-review-a-great-but-pricey-vpn/)
-    
-    [ExpressVPN Review: A Great, But Pricey, VPN](https://digitpatrox.com/expressvpn-review-a-great-but-pricey-vpn/)
-    
-    1 hour ago
-    
-* [![](https://cdn.mos.cms.futurecdn.net/RZppirBwfBTTpLneqfdJCV-1200-80.jpg)](https://digitpatrox.com/aws-adds-new-generative-ai-capabilities-for-amazon-connect/)
-    
-    [AWS adds new generative AI capabilities for Amazon Connect](https://digitpatrox.com/aws-adds-new-generative-ai-capabilities-for-amazon-connect/)
+    [Westcon-Comstor bags major European distribution deal with AWS](https://digitpatrox.com/westcon-comstor-bags-major-european-distribution-deal-with-aws/)
     
     2 hours ago
+    
+* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3615587-0-64375700-1733158779-l-jn24-11127-1.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/panasonic-revives-its-late-founder-as-ai-computerworld/)
+    
+    [Panasonic revives its late founder as AI – Computerworld](https://digitpatrox.com/panasonic-revives-its-late-founder-as-ai-computerworld/)
+    
+    2 hours ago
+    
+* [![](https://lifehacker.com/imagery/articles/01JDMVH3YTFH3BVC7WC5VNF2GX/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/adobes-creative-cloud-is-50-off-for-cyber-monday/)
+    
+    [Adobe’s Creative Cloud Is 50% Off for Cyber Monday](https://digitpatrox.com/adobes-creative-cloud-is-50-off-for-cyber-monday/)
+    
+    3 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [26 minutes ago
+* [15 minutes ago
     
-    ### Your office is now absolutely riddled with surveillance equipment](https://digitpatrox.com/your-office-is-now-absolutely-riddled-with-surveillance-equipment/)
-* [48 minutes ago
+    ### Leaks reveal a new DJI drone with a compact folding design](https://digitpatrox.com/leaks-reveal-a-new-dji-drone-with-a-compact-folding-design/)
+* [31 minutes ago
     
-    ### 2025 will be a bad year for remote work – Computerworld](https://digitpatrox.com/2025-will-be-a-bad-year-for-remote-work-computerworld/)
-* [1 hour ago
+    ### Pick Up This Anker 5000mAh MagGo Charger For Just $30 on Cyber Monday](https://digitpatrox.com/pick-up-this-anker-5000mah-maggo-charger-for-just-30-on-cyber-monday/)
+* [2 hours ago
     
-    ### These Ecoflow Home Power Stations Are 60% Off for Black Friday](https://digitpatrox.com/these-ecoflow-home-power-stations-are-60-off-for-black-friday/)
+    ### Westcon-Comstor bags major European distribution deal with AWS](https://digitpatrox.com/westcon-comstor-bags-major-european-distribution-deal-with-aws/)
 
 Most Popular Topics
 
-* [October 8, 2024
+* [September 11, 2024
     
-    ### Think data leaks are bad now? Wait until genAI supersizes them – Computerworld](https://digitpatrox.com/think-data-leaks-are-bad-now-wait-until-genai-supersizes-them-computerworld/)
-* [September 25, 2024
+    ### Taylor Swift endorses Kamala Harris in response to fake AI Trump endorsement](https://digitpatrox.com/taylor-swift-endorses-kamala-harris-in-response-to-fake-ai-trump-endorsement/)
+* [3 weeks ago
     
-    ### Master Java & Spring for Just $39.99 with This Bundle](https://digitpatrox.com/master-java-spring-for-just-39-99-with-this-bundle/)
-* [October 22, 2024
+    ### Play These Wordle Alternatives While the NYT Tech Guild Is on Strike](https://digitpatrox.com/play-these-wordle-alternatives-while-the-nyt-tech-guild-is-on-strike/)
+* [October 15, 2024
     
-    ### Amazon knocks up to 40% off Dyson ahead of Black Friday — 7 deals I’d shop now](https://digitpatrox.com/amazon-knocks-up-to-40-off-dyson-ahead-of-black-friday-7-deals-id-shop-now/)
+    ### It’s Finally Easy to Change Your Apple Account Email](https://digitpatrox.com/its-finally-easy-to-change-your-apple-account-email/)
 
 Last Modified Topics
 
+* [3 hours ago
+    
+    ### How to Schedule Automatic Shutdown on Windows 11](https://digitpatrox.com/how-to-schedule-automatic-shutdown-on-windows-11/)
 * [4 hours ago
     
-    ### The best Cyber Monday phone deals I’d actually recommend to real people](https://digitpatrox.com/the-best-cyber-monday-phone-deals-id-actually-recommend-to-real-people/)
+    ### Intel CEO Pat Gelsinger announces retirement](https://digitpatrox.com/intel-ceo-pat-gelsinger-announces-retirement/)
 * [4 hours ago
     
-    ### 75+ Best Target Cyber Monday Deals You Should Check Out Right Now!](https://digitpatrox.com/75-best-target-cyber-monday-deals-you-should-check-out-right-now/)
-* [6 hours ago
-    
-    ### How To Use Tabs in Google Docs](https://digitpatrox.com/how-to-use-tabs-in-google-docs/)
+    ### Live Stream: AWS Partners LIVE!](https://digitpatrox.com/live-stream-aws-partners-live/)
 
 Most Viewed Topics
 
+* [August 11, 2024
+    
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 13, 2024
     
     ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
-* [August 13, 2024
-    
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [October 2, 2024
     
     ### The best noise-canceling headphones for 2024](https://digitpatrox.com/the-best-noise-canceling-headphones-for-2024/)
