@@ -20,6 +20,15 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Liz Sanya, 21, surrounded by her fluffy creations.](https://southwarknews.co.uk/wp-content/uploads/2024/12/IMG_0635-3-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/walworth-girls-viral-fluffy-clogs-catch-the-attention-of-retail-giant-asos/)
+    
+    ### [Walworth girl’s viral fluffy clogs catch the attention of retail giant ASOS](https://southwarknews.co.uk/area/walworth/walworth-girls-viral-fluffy-clogs-catch-the-attention-of-retail-giant-asos/)
+    
+    [![Housing campaigner, Aysen Dennis brought the high court case against Southwark Council. 
+    CREDIT: Public Interest Law Centre](https://southwarknews.co.uk/wp-content/uploads/2024/12/Housing-campaigner-Aysen-Dennis-360x180.jpg)](https://southwarknews.co.uk/area/walworth/developer-rejigs-aylesbury-estate-plans-after-legal-challenge/)
+    
+    ### [Developer rejigs Aylesbury Estate plans after legal challenge](https://southwarknews.co.uk/area/walworth/developer-rejigs-aylesbury-estate-plans-after-legal-challenge/)
+    
     [![A bus shelter in Peckham. Credit: TfL](https://southwarknews.co.uk/wp-content/uploads/2024/12/9ef42d8aa23644438fa22851473ecfd6-360x180.jpg)](https://southwarknews.co.uk/area/south-london/bus-stops-fitted-with-cctv-cameras-as-tfl-takes-a-stand-on-violence-against-women-and-girls/)
     
     ### [Bus stops fitted with CCTV cameras as TfL ‘takes a stand’ on violence against women and girls](https://southwarknews.co.uk/area/south-london/bus-stops-fitted-with-cctv-cameras-as-tfl-takes-a-stand-on-violence-against-women-and-girls/)
@@ -47,14 +56,6 @@
     [![Mr and Mrs Santa and Theatre Peckham cast](https://southwarknews.co.uk/wp-content/uploads/2024/11/Photoshoot-Mr-Mrs-Santa-and-Theatre-Peckham-cast-1-1-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/community-christmas-event-to-be-held-on-camberwell-green/)
     
     ### [Community Christmas event to be held on Camberwell Green](https://southwarknews.co.uk/area/camberwell/community-christmas-event-to-be-held-on-camberwell-green/)
-    
-    [![Rita Keegan's artwork for the Tube map](https://southwarknews.co.uk/wp-content/uploads/2024/11/Rita-Keegan-cover-pocket-tube-map-1-360x180.jpg)](https://southwarknews.co.uk/area/south-london/new-artwork-for-40th-tube-map-designed-by-brixton-woman/)
-    
-    ### [New artwork for 40th Tube map designed by Brixton woman](https://southwarknews.co.uk/area/south-london/new-artwork-for-40th-tube-map-designed-by-brixton-woman/)
-    
-    [![Dreaon McDonald Simms](https://southwarknews.co.uk/wp-content/uploads/2024/11/image002-1-1-318x180.jpg)](https://southwarknews.co.uk/news/community/university-scholarships-awarded-to-southwark-students/)
-    
-    ### [University scholarships awarded to Southwark students](https://southwarknews.co.uk/news/community/university-scholarships-awarded-to-southwark-students/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,6 +106,15 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Liz Sanya, 21, surrounded by her fluffy creations.](https://southwarknews.co.uk/wp-content/uploads/2024/12/IMG_0635-3-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/walworth-girls-viral-fluffy-clogs-catch-the-attention-of-retail-giant-asos/)
+    
+    ### [Walworth girl’s viral fluffy clogs catch the attention of retail giant ASOS](https://southwarknews.co.uk/area/walworth/walworth-girls-viral-fluffy-clogs-catch-the-attention-of-retail-giant-asos/)
+    
+    [![Housing campaigner, Aysen Dennis brought the high court case against Southwark Council. 
+    CREDIT: Public Interest Law Centre](https://southwarknews.co.uk/wp-content/uploads/2024/12/Housing-campaigner-Aysen-Dennis-360x180.jpg)](https://southwarknews.co.uk/area/walworth/developer-rejigs-aylesbury-estate-plans-after-legal-challenge/)
+    
+    ### [Developer rejigs Aylesbury Estate plans after legal challenge](https://southwarknews.co.uk/area/walworth/developer-rejigs-aylesbury-estate-plans-after-legal-challenge/)
+    
     [![A bus shelter in Peckham. Credit: TfL](https://southwarknews.co.uk/wp-content/uploads/2024/12/9ef42d8aa23644438fa22851473ecfd6-360x180.jpg)](https://southwarknews.co.uk/area/south-london/bus-stops-fitted-with-cctv-cameras-as-tfl-takes-a-stand-on-violence-against-women-and-girls/)
     
     ### [Bus stops fitted with CCTV cameras as TfL ‘takes a stand’ on violence against women and girls](https://southwarknews.co.uk/area/south-london/bus-stops-fitted-with-cctv-cameras-as-tfl-takes-a-stand-on-violence-against-women-and-girls/)
@@ -132,14 +142,6 @@ View All Result
     [![Mr and Mrs Santa and Theatre Peckham cast](https://southwarknews.co.uk/wp-content/uploads/2024/11/Photoshoot-Mr-Mrs-Santa-and-Theatre-Peckham-cast-1-1-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/community-christmas-event-to-be-held-on-camberwell-green/)
     
     ### [Community Christmas event to be held on Camberwell Green](https://southwarknews.co.uk/area/camberwell/community-christmas-event-to-be-held-on-camberwell-green/)
-    
-    [![Rita Keegan's artwork for the Tube map](https://southwarknews.co.uk/wp-content/uploads/2024/11/Rita-Keegan-cover-pocket-tube-map-1-360x180.jpg)](https://southwarknews.co.uk/area/south-london/new-artwork-for-40th-tube-map-designed-by-brixton-woman/)
-    
-    ### [New artwork for 40th Tube map designed by Brixton woman](https://southwarknews.co.uk/area/south-london/new-artwork-for-40th-tube-map-designed-by-brixton-woman/)
-    
-    [![Dreaon McDonald Simms](https://southwarknews.co.uk/wp-content/uploads/2024/11/image002-1-1-318x180.jpg)](https://southwarknews.co.uk/news/community/university-scholarships-awarded-to-southwark-students/)
-    
-    ### [University scholarships awarded to Southwark students](https://southwarknews.co.uk/news/community/university-scholarships-awarded-to-southwark-students/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -243,6 +245,19 @@ Terms of Use
 
 ### Featured Articles
 
+[![Liz Sanya, 21, surrounded by her fluffy creations.](https://southwarknews.co.uk/wp-content/uploads/2024/12/IMG_0635-3-120x86.jpeg)](https://southwarknews.co.uk/area/walworth/walworth-girls-viral-fluffy-clogs-catch-the-attention-of-retail-giant-asos/)
+
+### [Walworth girl’s viral fluffy clogs catch the attention of retail giant ASOS](https://southwarknews.co.uk/area/walworth/walworth-girls-viral-fluffy-clogs-catch-the-attention-of-retail-giant-asos/)
+
+[2nd December 2024](https://southwarknews.co.uk/area/walworth/walworth-girls-viral-fluffy-clogs-catch-the-attention-of-retail-giant-asos/)
+
+[![Housing campaigner, Aysen Dennis brought the high court case against Southwark Council. 
+CREDIT: Public Interest Law Centre](https://southwarknews.co.uk/wp-content/uploads/2024/12/Housing-campaigner-Aysen-Dennis-120x86.jpg)](https://southwarknews.co.uk/area/walworth/developer-rejigs-aylesbury-estate-plans-after-legal-challenge/)
+
+### [Developer rejigs Aylesbury Estate plans after legal challenge](https://southwarknews.co.uk/area/walworth/developer-rejigs-aylesbury-estate-plans-after-legal-challenge/)
+
+[2nd December 2024](https://southwarknews.co.uk/area/walworth/developer-rejigs-aylesbury-estate-plans-after-legal-challenge/)
+
 [![A bus shelter in Peckham. Credit: TfL](https://southwarknews.co.uk/wp-content/uploads/2024/12/9ef42d8aa23644438fa22851473ecfd6-120x86.jpg)](https://southwarknews.co.uk/area/south-london/bus-stops-fitted-with-cctv-cameras-as-tfl-takes-a-stand-on-violence-against-women-and-girls/)
 
 ### [Bus stops fitted with CCTV cameras as TfL ‘takes a stand’ on violence against women and girls](https://southwarknews.co.uk/area/south-london/bus-stops-fitted-with-cctv-cameras-as-tfl-takes-a-stand-on-violence-against-women-and-girls/)
@@ -266,18 +281,6 @@ Terms of Use
 ### [Teenage entrepreneur from Dulwich hopes business success will motivate schoolchildren uninspired by the education system](https://southwarknews.co.uk/area/dulwich/teenage-entrepreneur-from-dulwich-hopes-business-success-will-motivate-schoolchildren-uninspired-by-the-education-system/)
 
 [1st December 2024](https://southwarknews.co.uk/area/dulwich/teenage-entrepreneur-from-dulwich-hopes-business-success-will-motivate-schoolchildren-uninspired-by-the-education-system/)
-
-[![Mr and Mrs Santa and Theatre Peckham cast](https://southwarknews.co.uk/wp-content/uploads/2024/11/Photoshoot-Mr-Mrs-Santa-and-Theatre-Peckham-cast-1-1-120x86.jpg)](https://southwarknews.co.uk/area/camberwell/community-christmas-event-to-be-held-on-camberwell-green/)
-
-### [Community Christmas event to be held on Camberwell Green](https://southwarknews.co.uk/area/camberwell/community-christmas-event-to-be-held-on-camberwell-green/)
-
-[1st December 2024](https://southwarknews.co.uk/area/camberwell/community-christmas-event-to-be-held-on-camberwell-green/)
-
-[![Dreaon McDonald Simms](https://southwarknews.co.uk/wp-content/uploads/2024/11/image002-1-1-120x86.jpg)](https://southwarknews.co.uk/news/community/university-scholarships-awarded-to-southwark-students/)
-
-### [University scholarships awarded to Southwark students](https://southwarknews.co.uk/news/community/university-scholarships-awarded-to-southwark-students/)
-
-[1st December 2024](https://southwarknews.co.uk/news/community/university-scholarships-awarded-to-southwark-students/)
 
 ### USEFUL PAGES
 
