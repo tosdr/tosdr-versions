@@ -182,11 +182,10 @@ NAS- Network Attached Storage
 * ###### Resources
     
     * [Guideline for Choosing and Upgrading NAS](https://www.qnap.com/go/solution/nas-choose-and-upgrade/)
-    * [How to choose a 4-bay NAS](https://www.qnap.com/go/solution/how-to-choose-a-4-bay-nas/)
-    * [Product Comparison](https://www.qnap.com/go/product/)
+    * [NAS Selector](https://www.qnap.com/go/selector/nas-selector)
+    * [RAID Calculator](https://www.qnap.com/go/selector/raid-selector)
     * [Compatibility for NAS Migration](https://www.qnap.com/go/nas-migration/)
     * [NAS Performance](https://www.qnap.com/go/product_x_performance/)
-    * [RAID Calculator & NAS Selector](https://www.qnap.com/go/nas-selector/)
     * [QNAP Blog](https://blog.qnap.com/)
     * [Virtualization Certification](https://www.qnap.com/go/solution/virtualization/#vt-5f)
     * [Customer Stories](https://www.qnap.com/go/case-studies/)
@@ -1028,7 +1027,8 @@ Support
 * ###### Resources
     
     * [Operating System Release Notes](https://www.qnap.com/go/release-notes/)
-    * [RAID Calculator](https://www.qnap.com/go/nas-selector)
+    * [NAS Selector](https://www.qnap.com/go/selector/nas-selector)
+    * [RAID Calculator](https://www.qnap.com/go/selector/raid-selector)
     * [Customer Stories](https://www.qnap.com/go/customer-stories)
     * [White Papers](https://www.qnap.com/go/white-paper)
     * [Become QNAP Developer Partners](https://www.qnap.com/go/developer/)
