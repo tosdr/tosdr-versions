@@ -121,9 +121,7 @@
         * [Share repurchases](https://www.sanofi.com/en/investors/sanofi-share-and-adrs/share-repurchases)
     * [Bonds](https://www.sanofi.com/en/investors/bonds)
     * [Contacts](https://www.sanofi.com/en/investors/contacts)
-* Careers
-    * [Careers](https://www.sanofi.com/en/careers)
-    * [Global Terms and Conditions](https://www.sanofi.com/en/careers/global-terms-and-conditions)
+* [Careers](https://jobs.sanofi.com/)
 * Paris 2024
     * [Paris 2024](https://www.sanofi.com/en/paris-2024-partnership)
     * [Meet Team Sanofi](https://www.sanofi.com/en/paris-2024-partnership/team-sanofi-igniting-potential-inspiring-change)
