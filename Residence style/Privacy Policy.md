@@ -140,6 +140,12 @@ Privacy Policy was last modified: June 4th, 2018 by Admin
 
 #### **most recent**
 
+[![Web](https://www.residencestyle.com/wp-content/uploads/2024/12/Encaustic-Tiles-1-150x150.jpg)](https://www.residencestyle.com/the-history-and-revival-of-encaustic-tiles-from-ancient-art-to-modern-design/)
+
+###### Home Improvement
+
+### [The History and Revival of Encaustic Tiles: From Ancient Art to Modern Design](https://www.residencestyle.com/the-history-and-revival-of-encaustic-tiles-from-ancient-art-to-modern-design/)
+
 [![Itzhak Ezratti](https://www.residencestyle.com/wp-content/uploads/2024/11/Itzhak-Ezratti-150x150.png)](https://www.residencestyle.com/itzhak-ezratti-and-the-ezratti-family-the-builders-behind-gl-homes/)
 
 ###### Lifestyle
@@ -170,17 +176,11 @@ Privacy Policy was last modified: June 4th, 2018 by Admin
 
 ### [Home Maintenance Tips To Keep In Mind for Winter](https://www.residencestyle.com/home-maintenance-tips-to-keep-in-mind-for-winter/)
 
-[![Design Trends](https://www.residencestyle.com/wp-content/uploads/2024/11/Design-Trends-150x150.jpg)](https://www.residencestyle.com/philadelphia-design-trends/)
-
-###### Home Decor Tips
-
-### [Philadelphia Design Trends](https://www.residencestyle.com/philadelphia-design-trends/)
-
+* [The History and Revival of Encaustic Tiles: From Ancient Art to Modern Design](https://www.residencestyle.com/the-history-and-revival-of-encaustic-tiles-from-ancient-art-to-modern-design/)
 * [Itzhak Ezratti and the Ezratti Family: The Builders Behind GL Homes](https://www.residencestyle.com/itzhak-ezratti-and-the-ezratti-family-the-builders-behind-gl-homes/)
 * [Why Selling to a Cash Home Buyer is Faster Than the Traditional Market (and Is It Right for You?)](https://www.residencestyle.com/why-selling-to-a-cash-home-buyer-is-faster-than-the-traditional-market-and-is-it-right-for-you/)
 * [Timeless Lighting Solutions](https://www.residencestyle.com/timeless-lighting-solutions/)
 * [Useful Exterior Maintenance Tips For Your Home](https://www.residencestyle.com/useful-exterior-maintenance-tips-for-your-home/)
-* [Home Maintenance Tips To Keep In Mind for Winter](https://www.residencestyle.com/home-maintenance-tips-to-keep-in-mind-for-winter/)
 
 [](https://www.instagram.com/residencestyle)[](https://www.facebook.com/ResidenceStyle/)
 
