@@ -1613,6 +1613,8 @@ _(\*) Rayez si mention inutile._
 Versions précédentes
 --------------------
 
+* [**Version en cours applicable depuis le 21 novembre 2024**](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/674d93f49eb0a4312a4d406e_CGV%20-%2021_11_2024.pdf)
+* [**Version applicable du 6 au 20 novembre 2024**](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/674dc11e3cc00dfcf2482d6b_CGV%20Ornikar%20-%206_11_2024.pdf)
 * [**Version applicable du 23 octobre 2024 au 5 novembre 2024**](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/6720f34c743f2e20a3a1a8f3_CGV%20Ornikar%20-%2023_10_2024.pdf)
 * [**Version applicable du 10 octobre au 22 octobre 2024**](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/6720f40778223a5d432acaf7_CGV%20Ornikar%20-%2010_10_2024.pdf)
 * [**Version applicable du 23 septembre 2024 au 09 octobre 2024**](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/670e695892e6dab5db961cfe_Copie%20de%20Renforce%CC%81%20sans%20code%20%2B%20rectifications%20-%2023%20septembre%202024%20-%20clean%20version.pdf)
