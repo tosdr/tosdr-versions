@@ -424,7 +424,7 @@ Any section of the Agreement that, by its terms or its nature, should survive th
 
 Please also feel free to contact us if you have any questions about the Terms or any other part of the Agreement. You may contact us at [here](https://help.seesaw.me/hc/en-us/requests/new).
 
-[![Seesaw](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201208%20303'%3E%3C/svg%3E)
+[![Seesaw](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%201024'%3E%3C/svg%3E)
 
 ![Seesaw](https://seesaw.com/wp-content/uploads/2024/01/seesaw-logo-white.svg)](https://seesaw.com/)
 
