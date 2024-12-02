@@ -49,9 +49,16 @@ Toggle navigation
 Terms and Conditions of Sales
 =============================
 
-TERMS AND CONDITIONS OF SALE
+* [TERMS AND CONDITIONS OF SALE](#otnotice-section-dcb9c734-8087-4f72-8f5d-4f1e03ccf8d3)
+* [SUBSCRIPTION SERVICE ADDENDUM](#otnotice-section-0ade7196-93d9-4365-acb1-474ef50bf817)
 
-These terms and conditions (the “Terms”) govern the sale of products by Universal Meridian Ecommerce Limited a company registered in England and Wales under registration number 12306116 and our registered address is 11 – 12 St. James's Square, London, SW1Y 4LB, United Kingdom (“Meridian”) to you (“you”/”your”) on this website  (the “Website”).
+* [TERMS AND CONDITIONS OF SALE](#otnotice-section-dcb9c734-8087-4f72-8f5d-4f1e03ccf8d3)
+* [SUBSCRIPTION SERVICE ADDENDUM](#otnotice-section-0ade7196-93d9-4365-acb1-474ef50bf817)
+
+TERMS AND CONDITIONS OF SALE
+----------------------------
+
+These terms and conditions (the “Terms”) govern the sale of products by Universal Meridian Ecommerce Limited a company registered in England and Wales under registration number 12306116 and our registered address is 11 – 12 St. James's Square, London, SW1Y 4LB, United Kingdom (“Meridian”) to you (“you”/”your”) on this website  (the “Website”).
 
 We offer a wide range of products, and sometimes additional terms may apply to specific portions or features of the Website, including , promotions or other similar features, all of which terms are made a part of these Terms by this reference. We will direct you to the additional terms and conditions at the time that you interact with us and/or the brands for sale on this Website in relation to the relevant product or feature. Please read such additional applicable terms and conditions carefully.
 
@@ -61,11 +68,11 @@ We offer a wide range of products, and sometimes additional terms may apply to s
 
 1. Questions or Complaints
 
-* If you have any questions, complaints or comments on these Terms and Conditions of Sale or your orders for the products, please [**contact us here**](https://www.finishdishwashing.com/help-and-support/). If you have any questions, complaints or comments on the products please contact RB utilising the contact details provided on the relevant product packaging
+* If you have any questions, complaints or comments on these Terms and Conditions of Sale or your orders for the products, please [**contact us here**](https://www.finishdishwashing.com/help-and-support/). If you have any questions, complaints or comments on the products please contact RB utilising the contact details provided on the relevant product packaging
 
 1. Applicability
 
-* These Terms apply to any contract entered into by us and you and to all offers, sales and purchases of products which are sold through the Website. Our [**Terms of Use**](https://www.finishdishwashing.com/policies/terms-and-conditions/), govern all other aspects of Your use of the Website.
+* These Terms apply to any contract entered into by us and you and to all offers, sales and purchases of products which are sold through the Website. Our [**Terms of Use**](https://www.finishdishwashing.com/policies/terms-and-conditions/), govern all other aspects of Your use of the Website.
 
 1. Our products
 
@@ -87,13 +94,12 @@ We offer a wide range of products, and sometimes additional terms may apply to s
     * the information you have provided in respect of your order is corrupted, unsupported technically or inadequate for any reason;
     * your order breaches any of these Terms; or
     * we have reasonable grounds to believe your order is fraudulent.
-
-* If we cannot accept or cancel your order,  we will contact you to explain this and any sums paid will be refunded in accordance with these Terms.
+* If we cannot accept or cancel your order,  we will contact you to explain this and any sums paid will be refunded in accordance with these Terms.
 
 1. Delivery OR Collection
 
 * The costs of delivery will be as displayed to you on our Website. These will be made available prior to you finalising your order and may depend on different options you have chosen for delivery.
-* During the order process you may be able to choose a delivery method and timeframe. If not specified we will deliver them to you as soon as reasonably possible. We will do our best to keep you updated and ensure you can track your delivery’s progress and latest estimated delivery date. If you have any questions about delivery of your order, please [**contact us here**](https://www.finishdishwashing.com/help-and-support/).
+* During the order process you may be able to choose a delivery method and timeframe. If not specified we will deliver them to you as soon as reasonably possible. We will do our best to keep you updated and ensure you can track your delivery’s progress and latest estimated delivery date. If you have any questions about delivery of your order, please [**contact us here**](https://www.finishdishwashing.com/help-and-support/).
 * The Website is solely for the promotion and sale of our products in the UK (including Northern Ireland). Unfortunately, we do not accept orders from addresses outside the UK (we only deliver to UK Mainland).
 * We are not responsible for delays outside our control. If our supply of the products is delayed by an event outside our control then we will contact you as soon as possible to let you know and we will take steps to minimise the effect of the delay. Provided we do this, we will not be liable for delays caused by the event, but if there is a risk of substantial delay, you may contact us to receive a refund for any products that have been paid for but not received.
 * If, despite our reasonable efforts, we are unable to contact you or re-arrange delivery or collection we may cancel your order and you may have to compensate us and/or our selling agent for the costs we will have incurred as a result.
@@ -104,7 +110,7 @@ We offer a wide range of products, and sometimes additional terms may apply to s
 * The price due and payable by you for the products you are intending to purchase shall be as stated on this Website at the time you place your order except in the case of obvious or manifest error. Prices may change at any time but price changes will not affect confirmed and accepted orders placed prior to the date of any such change. If the price of a product is obviously wrong, we will not be obliged to provide the relevant product to you at that price and will give you the option of confirming your order at the correct price or cancelling your order, in which case we will refund any incorrect payments collected in respect of such order in accordance with these Terms.
 * Prices shown on the Website are inclusive of VAT at the applicable rate.
 * When making your payment, it is imperative that you provide the information that the Website specifies is required. Your bank or credit card will be debited immediately upon placing your order. During the checkout process, you will be asked to enter your payment details. By completing your payment details you confirm that the credit or debit card being used is yours and/or you have authority to use it. All fields indicated as compulsory must be completed. We do not sell products for purchase by children.
-* If you think an invoice is wrong, please [**contact us here**](https://www.finishdishwashing.com/help-and-support/) promptly to let us know. You will not have to pay any interest until the dispute is resolved. Once the dispute is resolved we will charge you interest on correctly invoiced sums from the original due date.
+* If you think an invoice is wrong, please [**contact us here**](https://www.finishdishwashing.com/help-and-support/) promptly to let us know. You will not have to pay any interest until the dispute is resolved. Once the dispute is resolved we will charge you interest on correctly invoiced sums from the original due date.
 
 1. When the Products become your responsibility
 
@@ -119,13 +125,12 @@ We offer a wide range of products, and sometimes additional terms may apply to s
     * we have suspended supply of the products for technical reasons, or notify you we are going to suspend them for technical reasons,; or
     * you have a legal right to cancel your order because of something we have done wrong.
 * Exercising your right to change your mind. If you are a consumer then for most products bought online you have a legal right to change your mind within 14 days of receipt of the product(s) and receive a refund without undue delay including the initial delivery costs (except for the supplementary costs arising if you chose a type of delivery other than the least expensive type of standard delivery offered by us). This is subject to exception in section 9.4 below and certain deductions may be applicable (for example to reflect any reduction in the value of the goods, if this has been caused by your handling them).
-* To exercise the right to change your mind and to cancel, you must inform us of your decision by a clear statement (e.g. a letter sent by post, fax or e-mail), please [**contact us here**](https://www.finishdishwashing.com/help-and-support/). To meet the cancellation deadline, it is sufficient for you to send your communication concerning your exercise of the right to cancel before the cancellation period has expired.
+* To exercise the right to change your mind and to cancel, you must inform us of your decision by a clear statement (e.g. a letter sent by post, fax or e-mail), please [**contact us here**](https://www.finishdishwashing.com/help-and-support/). To meet the cancellation deadline, it is sufficient for you to send your communication concerning your exercise of the right to cancel before the cancellation period has expired.
 * Your right as a consumer to change your mind does not apply in respect of a number of specific types of products including (but not limited to):
     * products that are sealed for health protection or hygiene purposes, once these have been unsealed after you receive them;
     * products that are supplied by a health care professional under a prescription;
     * goods that are made to your specifications or are clearly personalised; and
     * any products which become mixed inseparably with other items after their delivery.
-
 * Ending the contract where we are not at fault and there is no right to change your mind. Even if we are not at fault and you do not have a right to change your mind, you can still end the contract before the product is delivered and paid for, but you may have to pay us compensation. Just contact us here to let us know. The contract will end immediately and we will refund any sums paid for products not provided but we may deduct from that refund (or, if you have not made an advance payment, charge you) reasonable compensation for the net costs we will incur as a result of your ending the contract.
 * We will pay the costs of return:
     * if the products are faulty or misdescribed;
@@ -136,7 +141,7 @@ In all other circumstances you must pay the costs of return including if we are 
 
 * How we will refund you. If you are eligible for a refund, we will reimburse the price paid for the relevant product onto the credit or debit card that it was paid with. 
 
-1.       Your rights in respect of defective products
+1.       Your rights in respect of defective products
 
 * If you are a consumer, we are under a legal duty to supply products that are in conformity with the contract between you and us.See section 10.3 below for a summary of your key legal rights in respect of defective products. Nothing in these Terms will affect your legal rights.
 * This is a summary of your key legal rights. These are subject to certain exceptions. For detailed information please visit the Citizens Advice website www.adviceguide.org.uk or call 03454 04 05 06. If your product is goods (for example a beauty product or another object), the Consumer Rights Act 2015 says that goods must be as described, fit for purpose and of satisfactory quality. During the expected lifespan of your product your legal rights entitle you to the following:
@@ -144,7 +149,8 @@ In all other circumstances you must pay the costs of return including if we are 
     * Up to six months: if your goods cannot be repaired or replaced, then you are entitled to a full refund, in most cases.
     * Up to six years: if your goods do not last a reasonable length of time you may be entitled to some money back.
 
-**SUBSCRIPTION SERVICE ADDENDUM**
+SUBSCRIPTION SERVICE ADDENDUM
+-----------------------------
 
 1\. Subscription Service
 
@@ -195,7 +201,7 @@ In all other circumstances you must pay the costs of return including if we are 
 1. How we may use your personal information
 
 * We are committed to protecting your privacy and only uses any personal data that we collect from you, or that you provide to us, in accordance with applicable data protection laws and regulations.
-* Please read our [**Privacy Notice**](https://www.finishdishwashing.com/policies/privacy-policy/) and our [**Cookie Policy**](https://www.finishdishwashing.com/policies/cookie-policy/) to understand our practices in relation to personal data.
+* Please read our [**Privacy Notice**](https://www.finishdishwashing.com/policies/privacy-policy/) and our [**Cookie Policy**](https://www.finishdishwashing.com/policies/cookie-policy/) to understand our practices in relation to personal data.
 
 1. Our LIABILITY
 
