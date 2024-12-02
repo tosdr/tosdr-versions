@@ -8,7 +8,7 @@ or [![Dreamstime generic avatar](https://thumbs.dreamstime.com/images2012/dt-ava
 
 Sign in
 
-[Black Friday Sale: 50% OFF](https://www.dreamstime.com/credits)
+[Cyber Monday Sale: 50% OFF](https://www.dreamstime.com/credits)
 
 [Stock Photos](https://www.dreamstime.com/stock-photos "Stock Photos") [Editorial](https://www.dreamstime.com/editorial-stock-photos-images "Editorial") [Illustrations](https://www.dreamstime.com/stock-vector-illustrations-clipart "Illustrations") [Videos](https://www.dreamstime.com/stock-video-footage "Videos") [Audio](https://www.dreamstime.com/royalty-free-stock-audio-music "Audio") [Free Photos](https://www.dreamstime.com/free-photos "Free Photos") [Blog](https://www.dreamstime.com/blog "Blog")
 
