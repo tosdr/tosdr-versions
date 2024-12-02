@@ -20,16 +20,16 @@ Monday, December 2 2024
 
 Latest
 
+* [Your office is now absolutely riddled with surveillance equipment](https://digitpatrox.com/your-office-is-now-absolutely-riddled-with-surveillance-equipment/)
+* [2025 will be a bad year for remote work – Computerworld](https://digitpatrox.com/2025-will-be-a-bad-year-for-remote-work-computerworld/)
+* [These Ecoflow Home Power Stations Are 60% Off for Black Friday](https://digitpatrox.com/these-ecoflow-home-power-stations-are-60-off-for-black-friday/)
+* [ExpressVPN Review: A Great, But Pricey, VPN](https://digitpatrox.com/expressvpn-review-a-great-but-pricey-vpn/)
+* [AWS adds new generative AI capabilities for Amazon Connect](https://digitpatrox.com/aws-adds-new-generative-ai-capabilities-for-amazon-connect/)
+* [Amazon Cyber Monday deals are now LIVE: Amazing discounts on TVs, laptops, Switch and more](https://digitpatrox.com/amazon-cyber-monday-deals-are-now-live-amazing-discounts-on-tvs-laptops-switch-and-more/)
+* [The best Cyber Monday phone deals I’d actually recommend to real people](https://digitpatrox.com/the-best-cyber-monday-phone-deals-id-actually-recommend-to-real-people/)
+* [75+ Best Target Cyber Monday Deals You Should Check Out Right Now!](https://digitpatrox.com/75-best-target-cyber-monday-deals-you-should-check-out-right-now/)
 * [How To Use Tabs in Google Docs](https://digitpatrox.com/how-to-use-tabs-in-google-docs/)
 * [Why I Use a Privacy Screen When Working in Public](https://digitpatrox.com/why-i-use-a-privacy-screen-when-working-in-public/)
-* [New on Netflix: 5 movies and shows to watch this week (Dec. 2-8)](https://digitpatrox.com/new-on-netflix-5-movies-and-shows-to-watch-this-week-dec-2-8/)
-* [The 100 best Cyber Monday deals under $100](https://digitpatrox.com/the-100-best-cyber-monday-deals-under-100/)
-* [Anime Realms Codes (December 2024)](https://digitpatrox.com/anime-realms-codes-december-2024/)
-* [I Spent a Year Testing Smart Home Devices, and This Is What I’d Buy Today for Black Friday](https://digitpatrox.com/i-spent-a-year-testing-smart-home-devices-and-this-is-what-id-buy-today-for-black-friday/)
-* [Can Using Gas With 15 Percent Ethanol Damage Your Car?](https://digitpatrox.com/can-using-gas-with-15-percent-ethanol-damage-your-car/)
-* [What Happened to the Android One Program?](https://digitpatrox.com/what-happened-to-the-android-one-program/)
-* [NYT Strands today — hints, spangram and answers for game #274 (Monday, December 2 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-274-monday-december-2-2024/)
-* [The Google Pixel 8A is a killer deal for $399](https://digitpatrox.com/the-google-pixel-8a-is-a-killer-deal-for-399/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://lifehacker.com/imagery/articles/01JDVYV1P6Y86J0KD0CC3JV9KA/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/how-to-use-tabs-in-google-docs/)
+* [![](https://cdn.mos.cms.futurecdn.net/oTUSyyqsAmvPoYy7uLn7w8-1200-80.jpg)](https://digitpatrox.com/your-office-is-now-absolutely-riddled-with-surveillance-equipment/)
     
-    [How To Use Tabs in Google Docs](https://digitpatrox.com/how-to-use-tabs-in-google-docs/)
-    
-    15 minutes ago
-    
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/a-hooded-person-hacking-data-on-a-laptop-with-several-warning-signs-around.jpg)](https://digitpatrox.com/why-i-use-a-privacy-screen-when-working-in-public/)
-    
-    [Why I Use a Privacy Screen When Working in Public](https://digitpatrox.com/why-i-use-a-privacy-screen-when-working-in-public/)
+    [Your office is now absolutely riddled with surveillance equipment](https://digitpatrox.com/your-office-is-now-absolutely-riddled-with-surveillance-equipment/)
     
     26 minutes ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/aPKbLrAFXDms9FNYpnU594-1200-80.jpg)](https://digitpatrox.com/new-on-netflix-5-movies-and-shows-to-watch-this-week-dec-2-8/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3613161-0-37498100-1733137394-shutterstock-jirsak-back-to-office-image-100944169-orig.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/2025-will-be-a-bad-year-for-remote-work-computerworld/)
     
-    [New on Netflix: 5 movies and shows to watch this week (Dec. 2-8)](https://digitpatrox.com/new-on-netflix-5-movies-and-shows-to-watch-this-week-dec-2-8/)
+    [2025 will be a bad year for remote work – Computerworld](https://digitpatrox.com/2025-will-be-a-bad-year-for-remote-work-computerworld/)
+    
+    48 minutes ago
+    
+* [![](https://lifehacker.com/imagery/articles/01JDBK9AN5Y6GH3X2WJPC05783/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/these-ecoflow-home-power-stations-are-60-off-for-black-friday/)
+    
+    [These Ecoflow Home Power Stations Are 60% Off for Black Friday](https://digitpatrox.com/these-ecoflow-home-power-stations-are-60-off-for-black-friday/)
     
     1 hour ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/lMa9cL7Lmr8RuXBpM9l2Bt9JGsA=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25406199/DSCF6920.jpg)](https://digitpatrox.com/the-100-best-cyber-monday-deals-under-100/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/11/expressvpn-running-on-a-windows-11-powered-gaming-pc.jpg)](https://digitpatrox.com/expressvpn-review-a-great-but-pricey-vpn/)
     
-    [The 100 best Cyber Monday deals under $100](https://digitpatrox.com/the-100-best-cyber-monday-deals-under-100/)
+    [ExpressVPN Review: A Great, But Pricey, VPN](https://digitpatrox.com/expressvpn-review-a-great-but-pricey-vpn/)
     
-    3 hours ago
+    1 hour ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/11/Anime-Realms-Roblox-cover.jpg)](https://digitpatrox.com/anime-realms-codes-december-2024/)
+* [![](https://cdn.mos.cms.futurecdn.net/RZppirBwfBTTpLneqfdJCV-1200-80.jpg)](https://digitpatrox.com/aws-adds-new-generative-ai-capabilities-for-amazon-connect/)
     
-    [Anime Realms Codes (December 2024)](https://digitpatrox.com/anime-realms-codes-december-2024/)
+    [AWS adds new generative AI capabilities for Amazon Connect](https://digitpatrox.com/aws-adds-new-generative-ai-capabilities-for-amazon-connect/)
     
-    3 hours ago
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [15 minutes ago
-    
-    ### How To Use Tabs in Google Docs](https://digitpatrox.com/how-to-use-tabs-in-google-docs/)
 * [26 minutes ago
     
-    ### Why I Use a Privacy Screen When Working in Public](https://digitpatrox.com/why-i-use-a-privacy-screen-when-working-in-public/)
+    ### Your office is now absolutely riddled with surveillance equipment](https://digitpatrox.com/your-office-is-now-absolutely-riddled-with-surveillance-equipment/)
+* [48 minutes ago
+    
+    ### 2025 will be a bad year for remote work – Computerworld](https://digitpatrox.com/2025-will-be-a-bad-year-for-remote-work-computerworld/)
 * [1 hour ago
     
-    ### New on Netflix: 5 movies and shows to watch this week (Dec. 2-8)](https://digitpatrox.com/new-on-netflix-5-movies-and-shows-to-watch-this-week-dec-2-8/)
+    ### These Ecoflow Home Power Stations Are 60% Off for Black Friday](https://digitpatrox.com/these-ecoflow-home-power-stations-are-60-off-for-black-friday/)
 
 Most Popular Topics
 
-* [October 19, 2024
+* [October 8, 2024
     
-    ### Penguin Random House books now explicitly say ‘no’ to AI training](https://digitpatrox.com/penguin-random-house-books-now-explicitly-say-no-to-ai-training/)
-* [September 24, 2024
+    ### Think data leaks are bad now? Wait until genAI supersizes them – Computerworld](https://digitpatrox.com/think-data-leaks-are-bad-now-wait-until-genai-supersizes-them-computerworld/)
+* [September 25, 2024
     
-    ### Seasonic Just Released a Chungus 2,200W PSU](https://digitpatrox.com/seasonic-just-released-a-chungus-2200w-psu/)
-* [2 weeks ago
+    ### Master Java & Spring for Just $39.99 with This Bundle](https://digitpatrox.com/master-java-spring-for-just-39-99-with-this-bundle/)
+* [October 22, 2024
     
-    ### O2 unleashes AI grandma on scammers – Computerworld](https://digitpatrox.com/o2-unleashes-ai-grandma-on-scammers-computerworld/)
+    ### Amazon knocks up to 40% off Dyson ahead of Black Friday — 7 deals I’d shop now](https://digitpatrox.com/amazon-knocks-up-to-40-off-dyson-ahead-of-black-friday-7-deals-id-shop-now/)
 
 Last Modified Topics
 
-* [5 hours ago
+* [4 hours ago
     
-    ### Can Using Gas With 15 Percent Ethanol Damage Your Car?](https://digitpatrox.com/can-using-gas-with-15-percent-ethanol-damage-your-car/)
-* [5 hours ago
+    ### The best Cyber Monday phone deals I’d actually recommend to real people](https://digitpatrox.com/the-best-cyber-monday-phone-deals-id-actually-recommend-to-real-people/)
+* [4 hours ago
     
-    ### What Happened to the Android One Program?](https://digitpatrox.com/what-happened-to-the-android-one-program/)
+    ### 75+ Best Target Cyber Monday Deals You Should Check Out Right Now!](https://digitpatrox.com/75-best-target-cyber-monday-deals-you-should-check-out-right-now/)
 * [6 hours ago
     
-    ### NYT Strands today — hints, spangram and answers for game #274 (Monday, December 2 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-274-monday-december-2-2024/)
+    ### How To Use Tabs in Google Docs](https://digitpatrox.com/how-to-use-tabs-in-google-docs/)
 
 Most Viewed Topics
 
-* [August 12, 2024
+* [August 13, 2024
     
-    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
-* [August 11, 2024
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
+* [August 13, 2024
     
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [October 2, 2024
     
     ### The best noise-canceling headphones for 2024](https://digitpatrox.com/the-best-noise-canceling-headphones-for-2024/)
