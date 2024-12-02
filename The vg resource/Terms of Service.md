@@ -88,10 +88,10 @@ This page does not work well in portrait mode on mobile. Please rotate your devi
 
 * Popular Games
 * [Sonic the Hedgehog C...](https://www.spriters-resource.com/custom_edited/sonicthehedgehogcustoms/)
-* [Dragon Quest III HD-...](https://www.spriters-resource.com/pc_computer/dragonquestiiihd2dremake/)
 * [Mario Customs](https://www.spriters-resource.com/custom_edited/mariocustoms/)
+* [Dragon Quest III HD-...](https://www.spriters-resource.com/pc_computer/dragonquestiiihd2dremake/)
 * [Undertale](https://www.spriters-resource.com/pc_computer/undertale/)
-* [Metal Slug Attack](https://www.spriters-resource.com/mobile/metalslugattack/)
+* [Deltarune](https://www.spriters-resource.com/pc_computer/deltarune/)
 
 * Affiliates
 * [Sprite Database](https://spritedatabase.net/)
