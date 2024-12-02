@@ -26,9 +26,9 @@
     * [![Microsoft re-releases Exchange updates after fixing mail delivery](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Microsoft re-releases Exchange updates after fixing mail delivery](https://www.bleepingcomputer.com/news/security/microsoft-re-releases-exchange-updates-after-fixing-mail-delivery/)
-    * [![SpyLoan Android malware on Google play installed 8 million times](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![SpyLoan Android malware on Google Play installed 8 million times](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        SpyLoan Android malware on Google play installed 8 million times](https://www.bleepingcomputer.com/news/security/spyloan-android-malware-on-google-play-installed-8-million-times/)
+        SpyLoan Android malware on Google Play installed 8 million times](https://www.bleepingcomputer.com/news/security/spyloan-android-malware-on-google-play-installed-8-million-times/)
     * [![New Windows Server 2012 zero-day gets free, unofficial patches](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         New Windows Server 2012 zero-day gets free, unofficial patches](https://www.bleepingcomputer.com/news/security/new-windows-server-2012-zero-day-gets-free-unofficial-patches/)
@@ -36,18 +36,18 @@
         
         Tor needs 200 new WebTunnel bridges to fight censorship](https://www.bleepingcomputer.com/news/security/tor-needs-200-new-webtunnel-bridges-to-fight-censorship/)
     
+    * [![BootKitty UEFI malware exploits LogoFAIL to infect Linux systems](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        BootKitty UEFI malware exploits LogoFAIL to infect Linux systems](https://www.bleepingcomputer.com/news/security/bootkitty-uefi-malware-exploits-logofail-to-infect-linux-systems/)
+    * [![Mozilla really wants you to easily set Firefox as default Windows browser](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Mozilla really wants you to easily set Firefox as default Windows browser](https://www.bleepingcomputer.com/news/software/mozilla-really-wants-you-to-easily-set-firefox-as-default-windows-browser/)
     * [![It's only $50 to train for these CompTIA exams in this course deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         It's only $50 to train for these CompTIA exams in this course deal](https://www.bleepingcomputer.com/offer/deals/its-only-50-to-train-for-these-comptia-exams-in-this-course-deal/)
     * [![Google Chrome’s AI feature lets you quickly check website trustworthiness](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Google Chrome’s AI feature lets you quickly check website trustworthiness](https://www.bleepingcomputer.com/news/google/google-chromes-ai-feature-lets-you-quickly-check-website-trustworthiness/)
-    * [![Novel phising campaign uses corrupted Word documents to evade security](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Novel phising campaign uses corrupted Word documents to evade security](https://www.bleepingcomputer.com/news/security/novel-phising-campaign-uses-corrupted-word-documents-to-evade-security/)
-    * [![Start learning a new language with this Babbel deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Start learning a new language with this Babbel deal](https://www.bleepingcomputer.com/offer/deals/start-learning-a-new-language-with-this-babbel-deal/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -302,8 +302,6 @@ BleepingComputer.com has partnered with [StackCommerce](https://stackcommerce.co
 
 If you have any questions or concerns regarding these policies, please free to contact us here: [https://www.bleepingcomputer.com/contact/](https://www.bleepingcomputer.com/contact/)
 
-[![ThreatLocker](https://www.bleepstatic.com/c/t/threatlocker/ThreatLocker_400x500.png)](https://www.threatlocker.com/why-threatlocker?utm_source=bleeping_computer&utm_medium=sponsor&utm_campaign=why-threatlocker_11-1-24&utm_content=why-threatlocker&utm_term=display)
-
 Popular Stories
 
 * [![Microsoft 365](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -312,9 +310,9 @@ Popular Stories
 * [![Police arrest](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Russia arrests cybercriminal Wazawaka for ties with ransomware gangs](https://www.bleepingcomputer.com/news/security/russia-arrests-cybercriminal-wazawaka-for-ties-with-ransomware-gangs/)
-* [![Football](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![Phishing](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Bologna FC confirms data breach after RansomHub ransomware attack](https://www.bleepingcomputer.com/news/security/bologna-fc-confirms-data-breach-after-ransomhub-ransomware-attack/)
+    Novel phishing campaign uses corrupted Word documents to evade security](https://www.bleepingcomputer.com/news/security/novel-phishing-campaign-uses-corrupted-word-documents-to-evade-security/)
 
 ##### Follow us:
 
