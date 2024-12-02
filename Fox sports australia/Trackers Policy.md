@@ -56,28 +56,6 @@ FOX SCORES
     | QLD | –   |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODD2024-250114)
-* [Men's Tour
-    
-    IND won by 6 wkts
-    
-    |     |     |
-    | --- | --- |
-    | PM  | 240 |
-    | IND | 5 /257 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/TM2024-250103)
-* Golf
-    
-* [European Tour
-    
-    Complete
-    
-    |     |
-    | --- |
-    | Australia Open |
-    | R. Johnston won by 3 |
-    
-    Match Centre](https://www.foxsports.com.au/golf/match?matchid=ISPS_Handa_Australia20250010013049F)
 * NFL
     
 * [NFL
@@ -182,12 +160,12 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251313)
 * [NFL
     
-    2nd Qtr
+    Full Time
     
     |     |     |
     | --- | --- |
-    | BUF | 7   |
-    | SF  | 3   |
+    | BUF | 35  |
+    | SF  | 10  |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251315)
 * Basketball
@@ -212,26 +190,6 @@ FOX SCORES
     | ORL | 100 |
     
     Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010286/box-score)
-* [NBA
-    
-    3 Qtr Time
-    
-    |     |     |
-    | --- | --- |
-    | HOU | 91  |
-    | OKC | 96  |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010290/box-score)
-* [NBA
-    
-    2nd Qtr
-    
-    |     |     |
-    | --- | --- |
-    | UTA | 51  |
-    | LAL | 46  |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010291/box-score)
 * [NBA
     
     Full Time
@@ -261,37 +219,57 @@ FOX SCORES
     | TOR | 119 |
     | MIA | 116 |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010289)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010289/box-score)
 * [NBA
     
-    2/12 13:00 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | SAC | –   |
-    | SA  | –   |
+    | HOU | 119 |
+    | OKC | 116 |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010293)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010290/box-score)
 * [NBA
     
-    2/12 13:00 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | POR | –   |
-    | DAL | –   |
+    | UTA | 104 |
+    | LAL | 105 |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010292)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010291/box-score)
 * [NBA
     
-    2/12 14:00 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | LAC | –   |
-    | DEN | –   |
+    | POR | 131 |
+    | DAL | 137 |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010294)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010292/box-score)
+* [NBA
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | SAC | 125 |
+    | SA  | 127 |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010293/box-score)
+* [NBA
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | LAC | 126 |
+    | DEN | 122 |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010294/box-score)
 * Motorsport
     
 * [Formula 1
@@ -306,46 +284,6 @@ FOX SCORES
     Race Centre](https://www.foxsports.com.au/motorsport/formula-one/race-centre?meetingid=597)
 * Football
     
-* [Women's Int
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | AUSW | 1   |
-    | BRAW | 2   |
-    
-    Match Centre](https://www.foxsports.com.au/football/womens-international/match-centre/W_INT20240107)
-* [Premier League
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | MUN | 4   |
-    | EVE | 0   |
-    
-    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-251303)
-* [Premier League
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | TOT | 1   |
-    | FUL | 1   |
-    
-    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-251304)
-* [Premier League
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | CHE | 3   |
-    | AVL | 0   |
-    
-    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-251301)
 * [Premier League
     
     Full Time
@@ -1089,7 +1027,7 @@ FOX SCORES
 
 [Fox sports](https://www.foxsports.com.au/)
 
-[Scores](https://www.foxsports.com.au/score-centre/live-now)
+[Scores](https://www.foxsports.com.au/score-centre)
 
 * [Video](https://www.foxsports.com.au/video)
 * [NRL](https://www.foxsports.com.au/nrl)
