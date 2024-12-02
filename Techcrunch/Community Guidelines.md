@@ -181,11 +181,11 @@ We base the TechCrunch Code of Conduct on the principles of inclusion, equality,
 * [Code of Conduct](https://techcrunch.com/code-of-conduct/)
 * [About Our Ads](https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html)
 
+* [Intel CEO Retires](https://techcrunch.com/2024/12/02/intel-ceo-pat-gelsinger-retires/)
+* [Swiggy](https://techcrunch.com/2024/12/02/swiggy-scales-10-minute-food-delivery-to-400-cities-in-quick-commerce-push/)
+* [The Browser Company](https://techcrunch.com/2024/12/02/the-browser-company-teases-dia-its-new-ai-browser/)
+* [Amazon Web Services](https://techcrunch.com/2024/12/01/aws-launches-an-incident-response-service-to-combat-cybersecurity-threats/)
 * [Meta Subsea Cable](https://techcrunch.com/2024/11/29/meta-plans-to-build-a-10b-subsea-cable-spanning-the-world-sources-say/)
-* [Thanksgiving Spending](https://techcrunch.com/2024/11/29/early-thanksgiving-online-sales-numbers-are-up-7-yoy-to-15-6b-on-par-with-pre-pandemic-trends/)
-* [Apple Intelligence](https://techcrunch.com/2024/11/29/how-to-use-apple-intelligence-image-playground-feature/)
-* [Zomato Raises $1B](https://techcrunch.com/2024/11/28/zomato-raises-1-billion-in-first-major-fundraise-since-2021-listing/)
-* [iPhone App Of The Year](https://techcrunch.com/2024/11/25/apple-again-snubs-ai-in-its-iphone-app-of-the-year-finalists/)
 * [Tech Layoffs](https://techcrunch.com/2024/11/13/tech-layoffs-2024-list/)
 * [ChatGPT](https://techcrunch.com/2024/11/22/chatgpt-everything-to-know-about-the-ai-chatbot/)
 
