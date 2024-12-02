@@ -31,8 +31,116 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Biden indultó a su hijo Hunter alegando ataques políticos
-=========================================================
+Usuarios del Metro equiparan a Quito con las grandes ciudades
+=============================================================
+
+El Metro de Quito cambió la imagen que tenían los habitantes de esta ciudad. Del escepticismo inicial, sienten orgullo por este medio de transporte.
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+![El sentimiento general de los usuarios frecuentes del Metro es de orgullo y modernidad.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-69-2.jpg)
+
+Los **usuarios** del **Metro de Quito** pasaron de un escepticismo inicial a sentir orgullo. Al cabo de un año de su funcionamiento, se ha **modificado** la **manera como los quiteños se perciben a sí mismos**. En su **imaginario**, mayormente esta mega obra les permite **compararse con las grandes ciudades del mundo** que cuentan con su propio sistema subterráneo de transporte.
+
+### Más noticias
+
+* [El Metro cumple un año y tiene 15 estaciones para conocer a Quito](https://www.elcomercio.com/actualidad/quito/metro-cumple-tiene-15-estaciones-para-conocer-quito.html "El Metro cumple un año y tiene 15 estaciones para conocer a Quito")
+* [¿Cuál es el perfil de usuario que más viaja en el Metro de Quito?](https://www.elcomercio.com/actualidad/quito/metro-quito-perfil-usuario-viaje.html "¿Cuál es el perfil de usuario que más viaja en el Metro de Quito?")
+* [Metro de Quito habilita opciones de ingreso para acompañantes](https://www.elcomercio.com/actualidad/quito/metro-de-quito-habilita-opciones-de-ingreso-para-acompanantes.html "Metro de Quito habilita opciones de ingreso para acompañantes")
+
+El escepticismo inicial
+-----------------------
+
+Pasaron **cuatro alcaldías** de Quito en que el Metro ocupaba la centralidad de toda discusión y de toda planificación. Augusto Barrera, Mauricio Rodas, Jorge Yunda y Santiago Guarderas administraron la ciudad desde su planificación, la construcción y la llegada de los vagones.
+
+Estaban todos los elementos materiales para que comenzara a funcionar. Pero **demoraba**. Se deshicieron de algunos **contratos** para la **operación** del **Metro de Quito**. Y eso marcó un gran **escepticismo** entre los quiteños, que veían inconformes el caos de la administración pública.
+
+Ese malestar duró hasta el **1 de diciembre del 2023**, cuando comenzó a funcionar este sistema de transporte. Quienes le dan un **uso cotidiano** reconocieron de inmediato su primera ventaja: l**a reducción del tiempo** en el tránsito de uno a otro punto de la ciudad. Sin embargo, no se imaginaban que iba a ser así.
+
+Alison Alarcón, por ejemplo, no creía que le iba a servir. “Escuchaba todas las cosas que decían y no creí que esto funcionara”. En cambio, **Judith Moreira** decía, como muchos, que jamás usaría el **Metro de Quito**. “Pero ya ve, la necesidad nos obliga a tomarlo porque a veces uno está de apuro y sirve mucho para acortar tiempo”, dice.
+
+“Yo, en cambio, no pensaba que fuera a funcionar tan pronto”, responde **Bryan Loza**, quien usa el Metro una o dos veces por semana.
+
+Por su parte, **María Dolores Hinojosa, de 80 años,** toma el metro tres veces por semana. Regularmente, va desde El Labrador hasta El Recreo. “Yo ya conocía cómo funciona el metro en Estados Unidos, así que sí creía que iba a ser bueno. Pero **esta es una obra fantástica**“.
+
+Reducción de tiempo en desplazamientos
+--------------------------------------
+
+No hay una sola persona de las consultadas en el Metro que no destaque la reducción del tiempo en los desplazamientos. **Arcos** va desde su casa, que queda en **Guamaní**, **hasta** la parada de **La Carolina.** Antes, cuando tenía que usar buses, se demoraba entre dos y dos horas y media; a veces más, según las eventualidades del tránsito en Quito. **Ahora solamente le toma 30 minutos.**
+
+**Luis Eduardo Arciniegas**, de 21 años, disfruta ahora porque **no tiene que madrugar** tanto como antes. Toma el Metro dos o tres veces por día. Generalmente, viaja de Quitumbe a San Francisco. “Antes era más de una hora y ahora son **15 minutos**. Esto me ha cambiado mucho la vida”, sostiene.
+
+**Estefanía Escaleras,** de 33 años, incluso encuentra una virtud de la que no muchos hablan: **debe caminar más**. Y eso es un distintivo de las ciudades que cuentan con un sistema de transportación subterránea: las largas caminatas hasta la parada.
+
+Modernidad y orgullo
+--------------------
+
+Si algo destacan los usuarios del transporte es la **modernización** que representa esta obra de movilidad para la ciudad. Por lo tanto, sienten un **orgullo** y hasta **equiparan a Quito con grandes ciudades** como **Buenos Aires** o **México**, en general con las grandes urbes contemporáneas.
+
+“Yo no soy de aquí, sino de **Loja**“, dice Escaleras. “Sin embargo, s**iento un orgullo por vivir en Quito** y saber que es una **ciudad que está evolucionando”.**
+
+“Es **una evolución hacia una ciudad más moderna**, que se pone a la altura de las grandes ciudades. Y lo más interesante es que la gente lo cuida porque siente que es su patrimonio”, dice **Juan Tenorio.**  
+
+Con Tenorio está de acuerdo Verónica Unda, quien espera la formación en la parada San Francisco con su hija Nataly, de ocho años. “Es que con el Metro veo a Quito como una ciudad supermoderna y **lo que es superchévere es que la gente lo está respetando**. Hay mucha cultura, algo que no pasa en el transporte público”.
+
+La seguridad ante todo
+----------------------
+
+Si alguna duda inicial tuvo **Escaleras**, era el tema de la seguridad. La idea de bajar a un subsuelo no le era del todo agradable, sobre todo en su condición de mujer. “**Ahora sé que desde el momento en que se entra a la estación las mujeres podemos estar seguras”**, dice.
+
+Con ella concuerda **Arcos**: “Me da mucha más tranquilidad y seguridad porque **han implementado muchas cosas para las mujeres, sobre todo por el acoso que se sufre a diario en los buses”**, dice.
+
+Tampoco todo es positivo
+------------------------
+
+Algunos usuarios reconocen que hay algunos problemas que se debería resolver. **Moreira**, por ejemplo, sostiene que la **falta de ventilación** en los vagones en las **horas pico** es el mayor problema[.](https://es.wikipedia.org/wiki/Metro_de_Quito "https://es.wikipedia.org/wiki/Metro_de_Quito")
+
+**Henry Moscoso** vive en **Riobamba** y calcula que ha usado unas 10 veces el Metro. Dice conocer el metro de Madrid, que abarca más distancia y tiene más líneas. “**Esos vagones que tenemos ahora son del 2006**, pero no está mal. Las paradas son iguales a las de Madrid. Sin embargo, **el problema acá es que hay demasiado personal,** que usan hasta ‘walkie talkies’. Es **demasiada burocracia**“.
+
+Finalmente, **Janeth Hinostroza**, dice que unas cuantas veces se **suspendió el servicio** sin que se reportara alguna razón y tampoco les devolvieron el valor del pasaje. “Pero descontando eso, creo que esta es una gran obra para la ciudad de Quito”.
+
+Rebeldía estéril y acomodadiza
+==============================
+
+Existe un rechazo generalizado al desorden y a la violencia, repudio que se hará evidente en el próximo proceso electoral.
+--------------------------------------------------------------------------------------------------------------------------
+
+![Reinaldo Páez Z., columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Reinaldo-Paez-Z.jpg)
+
+Al contemplar las **noticias televisivas** reconocemos, ubicados en primeras líneas, **rostros desencajados**, maquillados con deformante furia, acompañada de inentendibles rugidos, que marchan con agigantados pasos y soberbios pisotones, de muchos de los infaltables **dirigentes** de las manifestaciones en todos los gobiernos. Hoy emiten **diatribas**, **insultos**, **arengas** con una feroz exigencia de renuncia del actual presidente de la república. Están firmemente convencidos que, conseguido ese objetivo, brotarán de inmediato las **soluciones** a los **acuciantes problemas** que atormentan a nuestra nación: cesará el mayor **estiaje** y sequía que han castigado a nuestro país; desaparecerán las bandas criminales del territorio nacional; retomará el accionar correcto de la justicia, liberada del influjo de cárteles, prófugos y sentenciados; relucirán nuevamente el patriotismo y el **proceder ético** y digno de las, tristemente contaminadas, **fuerzas del orden** y se restablecerá la **seguridad**, hoy ausente, por haberse convertido en fruto del **sangriento enfrentamiento** de bandas narco político **delincuenciales**, nacionales y extranjeras; se expulsará  a esa enorme cantidad de **extranjeros** prontuariados y descalificados que fueron irresponsablemente invitados, al abrir las **fronteras** patrias y otorgar la **ciudadanía universal**, que han terminado con la paz que hacía de nuestro país una **isla de tranquilidad** y ensueño. La dura experiencia histórica nos advierte que es imposible que esos conocidos dirigentes (que no han permitido racionalizar el antiquísimo **código de trabajo**, ni hacer las indispensables reformas que enrumbarían a un IESS que está al borde del **precipicio**, ni tampoco armar consensos que permitan fortalecer la frágil **economía** nacional, a través de **inversiones privadas y extranjeras**), sean los líderes progresistas que salven al país.
+
+Al constatar su presencia en repetidas protestas, recordamos que, en el **gobierno de la revolución ciudadana**, salían en marchas con sus brazos enlazados a los de los **líderes** de ese perjudicial gobierno, especialmente a los del expresidente prófugo. En esa aciaga época, esos dirigentes, enceguecieron y aplacaron su **rebeldía**, para acomodarse al abuso, al trato dictatorial, para contemplar, impávidos, negociados, **construcciones sobrevaloradas**, **coimas** múltiples, gigantescas obras cobradas y no realizadas. Fueron testigos del horrendo ataque a la ciudad capital por las hordas salvajes dirigidas por el indígena que se ufana de haber dirigido “los estallidos” y que ahora trata de disfrazar su salvaje proceder, que fue respaldado o disimulado por los “**valientes protestantes**” que calientan las calles y añaden descontrol, angustia y caos a la **crisis** que agobia al país.
+
+Existe un **rechazo** generalizado al desorden y a la **violencia**, repudio que se hará evidente en el próximo **proceso electoral**, en el que se ha incluido la **candidatura** del ya citado dirigente indígena que proclamó, contradictoriamente, que la manera más efectiva de llegar al poder eran el terrorismo y las acciones vandálicas. Convencido, erróneamente, de poseer un **poder ilimitado**, hace planteamientos inconcebibles, no cumple acuerdos, ni **convenios**, ni se esfuerza por mejorar las condiciones de vida de los campesinos, a los que dice representar; pues subsisten en medio de la **desnutrición infantil**, de la falta de adecuados **servicios de salud**, de instituciones educativas y en paupérrimas **condiciones de higiene y control ambiental.**
+
+Que falta hacen en estos momentos difíciles **la sensatez, la madurez, el amor a la patria**. No son las imposiciones irracionales, ni las protestas estériles e inquietantes, los factores que permitirán superar el caos que envuelve al país. Es importante que los **numerosos candidatos** expongan programas que proyecten soluciones reales y abandonen los **discursos** vacíos, llenos de **reproches** y de **ataques improductivos** de unos a otros. Luchemos todos por unir **esfuerzos** y acciones para vencer los aciagos sucesos en que está inmersa la **patria**.
+
+Cartas a Quito / 2 de diciembre de 2024
+=======================================
+
+Estas son las cartas a Quito de este lunes 2 de diciembre de 2024
+-----------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Alimentación escolar, clave contra el hambre y la malnutrición
+--------------------------------------------------------------
+
+En América Latina y el Caribe, los gobiernos están impulsando un movimiento decisivo hacia la erradicación del hambre y la lucha contra todas las formas de malnutrición a través de esfuerzos conjuntos para fortalecer la alimentación escolar, una política de impacto generacional.
+
+En los últimos meses, en un hito de cooperación, 16 países de la región ya formalizaron la adhesión a la Red de Alimentación Escolar Sostenible (RAES), una iniciativa de la cooperación Sur-Sur impulsada por la Agencia Brasileña de Cooperación (ABC) y el Fondo Nacional de Desarrollo de la Educación (FNDE) con el apoyo de la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO) como entidad que facilita este espacio bajo el rol de secretaría ejecutiva. Para el próximo año, la expectativa es el ingreso de más países de la región.
+
+De esta manera, la RAES emerge como un movimiento regional sólido para fortalecer los programas de alimentación escolar en cada uno de sus países miembros. Al firmar esta declaración, los países se comprometen a trabajar colectivamente en una serie de objetivos fundamentales a mediano y largo plazo: expandir la cobertura de estudiantes, mejorar la infraestructura escolar, desarrollar marcos normativos específicos para la alimentación escolar, promover la compra de productos de la agricultura familiar, implementar acciones de educación alimentaria y nutricional, y aumentar los recursos destinados a estos programas.
+
+Es crucial recordar que, de acuerdo con cifras de 2023, 733 millones de personas en el mundo sufren hambre, y en América Latina y el Caribe, 41 millones aún enfrentan esta situación, según el informe Estado de la Seguridad Alimentaria y Nutrición en el Mundo 2024 (FAO, FIDA, OMS, PMA, UNICEF, 2024). A partir de este escenario, los programas de alimentación escolar representan una acción clave para garantizar la seguridad alimentaria, mejorar la nutrición de millones de estudiantes y apoyar el derecho humano a una alimentación adecuada.
+
+Actualmente, los programas de alimentación escolar en la región benefician a aproximadamente 85 millones de estudiantes, convirtiéndose en una acción potente en la lucha contra el hambre. Es una política pública de doble vía: Por un lado, garantiza el acceso a alimentos saludables y fomenta hábitos alimentarios que contribuyen a la formación de ciudadanos más conscientes del impacto de la alimentación en su salud y  por otro, fortalece los vínculos con la agricultura familiar, que provee productos frescos, adecuados y saludables a los estudiantes, promoviendo así el desarrollo territorial local con la generación de ingresos a miles de familias que destinan sus productos a estos programas.
+
+Desde la FAO valoramos este avance y el papel que la RAES desempeña en la promoción del diálogo y el intercambio de experiencias entre países, orientado a fortalecer los programas de alimentación escolar en toda la región. La Red RAES actúa como un vocero clave de las necesidades de la alimentación escolar de América Latina y el Caribe en importantes foros regionales y globales, como la Comunidad del Caribe (CARICOM), la Comunidad de Estados Latinoamericanos y Caribeños (CELAC), la Alianza Contra el Hambre y la Pobreza del G20, y la Coalición Global de Comidas Escolares. Es esencial seguir trabajando unidos y en red para avanzar hacia una mejor producción, una mejor nutrición, un mejor ambiente y una vida mejor, sin dejar a nadie atrás.
+
+_**Najla Veloso, coordinadora del proyecto Agenda Regional para Alimentación Escolar Sostenible en América Latina y el Caribe – Programa de Cooperación Internacional Brasil-FAO**_
+
+Joe Biden indultó a su hijo Hunter alegando ataques políticos
+=============================================================
 
 Hunter Biden fue hallado culpable de tres delitos relacionados con posesión de armas.
 -------------------------------------------------------------------------------------
@@ -46,8 +154,8 @@ El presidente de Estados Unidos, **Joe Biden**, anunció este 1 de diciembre que
 * [Donald Trump promete más aranceles sobre China y México](https://www.elcomercio.com/actualidad/mundo/donald-trump-promete-mas-aranceles-sobre-china-y-mexico.html "https://www.elcomercio.com/actualidad/mundo/donald-trump-promete-mas-aranceles-sobre-china-y-mexico.html")
 * [Trump amenazó con aplicar aranceles a México, China y Canadá](https://www.elcomercio.com/actualidad/mundo/trump-amenazo-aranceles-mexico-china-canada.html "https://www.elcomercio.com/actualidad/mundo/trump-amenazo-aranceles-mexico-china-canada.html")
 
-**Biden indultó a su hijo Hunter alegando ataques políticos**
--------------------------------------------------------------
+**Joe Biden indultó a su hijo Hunter alegando ataques políticos**
+-----------------------------------------------------------------
 
 Hunter había sido condenado por mentir en un formulario de compra de armas, ocultando su adicción a las drogas.
 
@@ -836,167 +944,4 @@ Por su lado, el regulador del mercado energético australiano (AEMO, siglas en i
 
 La ola de calor, que afectó la semana pasada a los pobladores de las ciudades de **Melbourne y Adelaida,** en el sur de Australia con temperaturas por encima de los 37 grados, podría amainar con las lluvias que se pronostican a partir de hoy en la zona central y suroriental del país oceánico.
 
-Australia, uno de los mayores contaminantes del planeta si se tiene en cuenta sus exportaciones de combustibles fósiles, es escenario de incendios forestales, ciclones, lluvias torrenciales, tormentas eléctricas e inundaciones con frecuencia, los cuales se han visto agravados en los últimos años por la crisis climática. 
-
-A Ecuador llegan los generadores de electricidad, ¿qué pasa con los cortes luz?
-===============================================================================
-
-Los generadores de electricidad se colocarán en la planta térmica El Salitral, en Guayaquil.
---------------------------------------------------------------------------------------------
-
-![El Ministerio de Energía y Minas informó sobre la llegada de los equipos para generar electricidad y disminuir los cortes de luz.](https://www.elcomercio.com/wp-content/uploads/2024/12/generadoresfoto.jpg)
-
-El **Ministerio de Energía y Minas** informó sobre la llegada de los equipos generadores de **electricidad** para aumentar la producción y reducir los **cortes de luz.**
-
-### Más noticias
-
-* [Los cortes de luz en Quito de este domingo 1 de diciembre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-domingo-1-diciembre.html "Los cortes de luz en Quito de este domingo 1 de diciembre")
-* [Progen mostró los avances del proyecto de energía térmica El Salitral](https://www.elcomercio.com/actualidad/negocios/progen-mostro-los-avances-del-proyecto-de-energia-termica-el-salitral.html "Progen mostró los avances del proyecto de energía térmica El Salitral")
-* [Ecuador recibió primera importación de gas natural desde Perú](https://www.elcomercio.com/actualidad/negocios/ecuador-gas-natural-importacion-peru.html "Ecuador recibió primera importación de gas natural desde Perú")
-
-Según la información del Ministerio de este domingo 1 de diciembre de 2024, el buque que transporta los **23 generadores estacionarios** arribó al puerto de **Guayaquil.**
-
-Esos generadores producirán 80 megavatios de electricidad al sistema eléctrico nacional. Debido al déficit de 1 080 megavatios de luz, Ecuador tiene cortes de luz desde el 23 de septiembre de 2024.
-
-La ausencia de lluvias en la Amazonía y el Austro impide generar la suficiente electricidad en las centrales hidroeléctricas de Coca Codo Sinclair y el complejo de Mazar y Paute.
-
-La instalación de los generadores de electricidad
--------------------------------------------------
-
-Los **23 generadores de electricidad** se colocarán en el proyecto de **energía térmica El Salitral,** que se construye en el kilómetro 7,5 de la vía a la Costa, en **Guayaquil**.
-
-Estas primeras unidades corresponden a la fase inicial del proyecto y aportarán 80,5 megavatios (MW) de energía de los 100 anunciados.
-
-Mientras tanto, los trabajos de obra civil, con la construcción de las plataformas necesarias para la instalación de los motores, registran un avance del 90% en **El Salitral**. Eso informó en su momento el **Ministerio de Energía y Minas.**
-
-Esto permitirá el montaje, pruebas y conexión al Sistema Nacional Interconectado (SNI), una vez que los equipos sean instalados. Después del desembarque, los generadores serán movilizados hacia **El** **Salitral,** donde se realizará el equipamiento.
-
-En los próximos días, llegará el equipo auxiliar necesario para proceder con la instalación y las pruebas correspondientes, para iniciar la generación de energía.
-
-Los avances en la nueva planta térmica de El Salitral
------------------------------------------------------
-
-La **empresa estadounidense Progen** mostró el jueves 28 de noviembre de 2024 los avances de la construcción de la obra en Guayaquil. Este es uno de los proyectos con los que el Gobierno de Daniel Noboa espera solventar la actual crisis energética.
-
-En el recorrido por **El Salitral**, Claudio Otero, especialista de Control y Aseguramiento de la Calidad de Progen, señaló que lo más importante es la calidad y la tecnología que se utilizan en la obra.
-
-Se informó que en **El Salitral,** la casa de máquinas y la subestación del proyecto están pendientes y están las 58 losas construidas donde se colocarán los generadores.
-
-> 📍¡IMPORTANTE!  
->   
-> 🔶El buque que transporta los 23 generadores estacionarios arribó al puerto de Guayaquil.  
->   
-> ⏩Estas unidades añadirán 80 megavatios al sistema eléctrico nacional, contribuyendo a garantizar un suministro confiable y sostenible para el desarrollo del país. [pic.twitter.com/Yky2gELMmg](https://t.co/Yky2gELMmg)
-> 
-> — Ministerio de Energía y Minas Ecuador🇪🇨 (@RecNaturalesEC) [December 1, 2024](https://twitter.com/RecNaturalesEC/status/1863235667800502569?ref_src=twsrc%5Etfw)
-
-Los generadores para El Salitral, ¿qué pasa con los cortes de luz?
-------------------------------------------------------------------
-
-La planta térmica El Salitral, el Guayaquil, generará 100 megavatios de electricidad. Los 23 generadores de electricidad producirán 80 megavatios.
-
-Esta producción se sumará al sistema nacional, para reducir el déficit de 1 080 megavatios. Sin embargo, los 80 megavatios aún no son suficientes para reducir drásticamente los cortes de luz. Los racionamientos contemplan apagones de hasta siete horas en todo el país.
-
-Los trabajos para incorporar la energía al Sistema Nacional de Transmisión – SNT también están en ejecución. Estas obras están a cargo de la unidad de **Corporación Eléctrica del Ecuador -Transelectric.**
-
-Esta generación térmica contratada permitirá cubrir una pequeña parte del déficit calculado por el **Operador Nacional de Electricidad  (Cenace)** en 1 080 megavatios[.](https://www.cenace.gob.ec/quienes-somos/ "https://www.cenace.gob.ec/quienes-somos/")
-
-**Progen** firmó dos contratos de la emergencia energética para la compra de 150 megavatios (MW), que se ubicarán en **El Salitral (100 MW) y Quevedo (50 MW).**
-
-Los contratos fueron firmados el 2 de agosto de 2024 por 99,4 millones de dólares en Salitral, y 49,7 millones de dólares, en **Quevedo**.
-
-La empresa tuvo retrasos en la obra. La incorporación de **El Salitral** estaba prevista para el 15 de noviembre.
-
-Paralelamente, continúan los trabajos en la **central térmica de Quevedo (Los Ríos),** donde se instalarán 50 megavatios de capacidad. Actualmente, concluyó la construcción de las plataformas destinadas al montaje de las 20 unidades generadoras, cada una con una capacidad de 2.5 megavatios, agregó el Ministerio.
-
-* * *
-
-### Esperanza
-
-Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
-
-Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
-
-[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
-
-Masacre en El Oro deja 10 personas asesinadas
-=============================================
-
-Moradores de El Guabo, en El Oro, están conmocionados tras una masacre registrada la madrugada de este domingo 1 de diciembre.
-------------------------------------------------------------------------------------------------------------------------------
-
-![Uno de los asesinatos presentaba rastros de tortura. Su cuerpo fue desmembrado y colocado en un saco de yute](https://www.elcomercio.com/wp-content/uploads/2024/12/masacre-el-guabo-el-oro.jpg)
-
-Los moradores de **El Guabo**, en El Oro, se encuentran conmocionados por una **masacre** que se registró en el cantón, la madrugada de este domingo 1 de diciembre de 2024.
-
-### Más noticias
-
-* [Guía penitenciario fue asesinado en Latacunga](https://www.elcomercio.com/actualidad/seguridad/guia-penitenciario-fue-asesinado-en-latacunga.html "Guía penitenciario fue asesinado en Latacunga")
-* [Tres policías fueron liberados de secuestro en Guayas](https://www.elcomercio.com/actualidad/seguridad/tres-policias-liberados-guayas-yaguachi.html "Tres policías fueron liberados de secuestro en Guayas")
-* [Familia de hombre que fingió su propio secuestro en Machala tomó una decisión](https://www.elcomercio.com/actualidad/ecuador/familiares-secuestro-falso-machala.html "Familia de hombre que fingió su propio secuestro en Machala tomó una decisión")
-
-Alrededor de las **05:00**, los ciudadanos del barrio **La Victoria**, en la parroquia Barbones, encontraron los cuerpos de **10 hombres asesinados**.
-
-Según informó la **Policía Nacional**, un grupo de ecuatorianos y colombianos arrendaron una vivienda en el sector días atrás.
-
-Este domingo, desconocidos llegaron al inmueble en varios vehículos y sorprendieron a los hombres **mientras dormían**.
-
-Atacantes dispararon al menos en 100 ocasiones
-----------------------------------------------
-
-Al menos **100 indicios balísticos** quedaron en el sitio, como prueba de la **ráfaga de los tiros** de calibre 9 milímetros y de fusiles 5-56 que ejecutaron los armados.
-
-En su desesperación por huir del ataque, **cuatro de las víctimas** salieron del domicilio, pero fueron alcanzadas por las balas. Sus cuerpos quedaron tendidos sobre la calle[.](https://es.wikipedia.org/wiki/Cant%C3%B3n_El_Guabo "https://es.wikipedia.org/wiki/Cant%C3%B3n_El_Guabo")
-
-Uno de los 10 asesinados fue encontrado a un kilómetro de la escena del crimen. El hombre tenía rastros de **tortura**. Su cuerpo estaba **desmembrado** y colocado dentro de un saco de yute.
-
-Debido a los múltiples cuerpos sin vida que dejó la masacre fue necesaria la colaboración de miembros de la Dirección de Investigación de Delitos Contra la Vida (**Dinased**) de otros cantones.
-
-En las primeras investigaciones de la Policía se comprobó que varias de las víctimas tenían **antecedentes penales**.
-
-Cinco asesinados en Machala
----------------------------
-
-Este ataque armado se suma a otro hecho registrado en **Machala** el sábado 30 de noviembre, donde **cinco personas fueron asesinadas** por desconocidos.
-
-Las autoridades investigan si los dos crímenes registrados en El Oro están relacionados.
-
-Moisés Caicedo brilla en goleada del Chelsea ante Aston Villa
-=============================================================
-
-El Chelsea goleó por 3-0 al Aston Villa en la Premier League y Moisés Caicedo tuvo una formidable actuación.
-------------------------------------------------------------------------------------------------------------
-
-![Moisés Caicedo con el Chelsea ante el Aston Villa en la Premier League.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-41.jpg)
-
-**Moisés Caicedo y el Chelsea** no se bajan de la pelea en la parte alta de la Premier League y mantuvieron su tercer lugar dentro del torneo gracias a su último triunfo. El cuadro del ecuatoriano se impuso por 2-0 al Aston Villa.
-
-Después de un arranque dubitativo en la temporada, el Chelsea consiguió reposicionarse y obtener la regularidad aspirada por el DT **Enzo Maresca**, que asumió el cargo al inicio de la temporada. Con la victoria ente los ‘villanos’, el plantel de Londres llegó a los siete triunfos, que se complementan con cuatro empates y dos derrotas[.](https://es.wikipedia.org/wiki/Chelsea_Football_Club "https://es.wikipedia.org/wiki/Chelsea_Football_Club")
-
-### Más noticias:
-
-* [Chelsea, sin Moisés Caicedo, ganó y lidera la Conference](https://www.elcomercio.com/deportes/futbol/chelsea-conference-league-moises-caicedo.html "Chelsea, sin Moisés Caicedo, ganó y lidera la Conference")
-* [Moisés Caicedo fue un pilar del Chelsea en victoria ante Leicester](https://www.elcomercio.com/deportes/futbol/moises-caicedo-clave-triunfo-chelsea-leicester.html "Moisés Caicedo fue un pilar del Chelsea en victoria ante Leicester")
-* [El Chelsea festejó la paternidad Moisés Caicedo](https://www.elcomercio.com/deportes/moises-caicedo-chelsea-festejo-nacimiento-hija.html "El Chelsea festejó la paternidad Moisés Caicedo")
-
-De cara al choque, el plantel azul hizo de local y jugó en **Stamford Bridge**. A su vez, el cuadro arribaba tras también haber ganado en la fecha previa y en su inmediato partido previo en la UEFA Conference League.
-
-Para el compromiso, **Moisés Caicedo** también arrancó como titular y fue fundamental en el centro de la cancha. El ecuatoriano estuvo presente durante los 90 minutos y colaboró tanto en aspectos de contención como de transiciones al ataque.
-
-El Chelsea y Moisés Caicedo pegaron desde el principio
-------------------------------------------------------
-
-El primer gol del **Chelsea** llegó de forma tempranera a los 7 minutos de juego gracias a Nico Jackson. El delantero recibió un centro en el área de parte de Marc Cucurella y sacó un remate de primer que venció a **Emiliano ‘Dibu’ Martínez**.
-
-Para el segundo tanto, quien apareció fue **Enzo Fernández** a los 36′. Recibió un pase, controló con zurda y remató con derecha. Para darle mayor libertad al argentino, **Moisés Caicedo** se lanzó a una labor de más auxilio en cuanto al control de la zona central.
-
-El ecuatoriano, además, alternó en un sube y baja con **Wesley Fonfana** para apoyarlo en la cobertura del lateral derecho. Asimismo, también estuvo a punto de dar una asistencia cuando uno de sus pases encontró libre a Jackson, pero este último no pudo definir.
-
-**Cole Palmer**, finalmente, selló la goleada a los 83 minutos. El delantero sacó un remate desde fuera del área y la clavó en el ángulo derecho del arco rival.
-
-¿Qué le espera al Chelsea?
---------------------------
-
-Con el triunfo, el equipo de Moisés Caicedo aguarda por el resultado entre el **Liverpool y Manchester City.** Si los ‘reds’ vencen, estos seguirán como líderes de la Premier y le sacarán nueve puntos de distancia al Chelsea; si lo hacen los ‘ciudadanos’, los ‘blues’ bajan al cuarto puesto.
-
-En su siguiente partido de la liga inglesa, el cuadro de Londres se medirá ante el **Southampton**. Este duelo se llevará a cabo durante el miércoles 4 de diciembre del 2024.
+Australia, uno de los mayores contaminantes del planeta si se tiene en cuenta sus exportaciones de combustibles fósiles, es escenario de incendios forestales, ciclones, lluvias torrenciales, tormentas eléctricas e inundaciones con frecuencia, los cuales se han visto agravados en los últimos años por la crisis climática.
