@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [SR Hypermarkets|"Discover the best buys" (157)](https://forum.nationstates.net/viewtopic.php?t=386379&f=6&view=unread#unread ""SR Hypermarkets|"Discover the best buys"" (157 posts)")
-* [911, what is your \[not\] emergency? (1,202)](https://forum.nationstates.net/viewtopic.php?t=554757&f=25&view=unread#unread ""911, what is your [not] emergency?" (1,202 posts)")
-* [The War of the 3rd Coalition (Against… (241)](https://forum.nationstates.net/viewtopic.php?t=559018&f=5&view=unread#unread ""The War of the 3rd Coalition (Against Doslonsu)" (241 posts)")
-* [\[AT VOTE\] Liberate Empires Forever Un… (42)](https://forum.nationstates.net/viewtopic.php?t=558949&f=24&view=unread#unread ""[AT VOTE] Liberate Empires Forever United v2" (42 posts)")
-* [The Weather Thread- An Early Winter i… (2,957)](https://forum.nationstates.net/viewtopic.php?t=515489&f=20&view=unread#unread ""The Weather Thread- An Early Winter it Shall Be" (2,957 posts)")
+* [American Politics: Turnabout Trump (7,173)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (7,173 posts)")
+* [Out of the 2 AN’s: Which one has the… (4,888)](https://forum.nationstates.net/viewtopic.php?t=552240&f=25&view=unread#unread ""Out of the 2 AN’s: Which one has the better flag? VIII" (4,888 posts)")
+* [What's AN's Millenium Dawn HOI4 Ideology (55)](https://forum.nationstates.net/viewtopic.php?t=557962&f=25&view=unread#unread ""What's AN's Millenium Dawn HOI4 Ideology" (55 posts)")
+* [Guess Who BN Is! (7,938)](https://forum.nationstates.net/viewtopic.php?t=553505&f=25&view=unread#unread ""Guess Who BN Is!" (7,938 posts)")
+* [The Relationships and Lovers Discussi… (389)](https://forum.nationstates.net/viewtopic.php?t=558521&f=20&view=unread#unread ""The Relationships and Lovers Discussion Thread" (389 posts)")
 
 Advertisement
 
