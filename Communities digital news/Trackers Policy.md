@@ -26,29 +26,31 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2023/11/SG-Epps-1200-x-628-1200x630.jpg)](https://americanwirenews.com/patel-explains-only-two-ways-ray-epps-was-on-fbis-most-wanted-list-one-day-off-the-next/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-vance-bolton-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/jd-vance-steps-up-after-john-bolton-likens-kash-patel-to-notorious-commie-thug/)
 
-[Patel explains ‘only two ways’ Ray Epps was on FBI’s most wanted list one day, off the next](https://americanwirenews.com/patel-explains-only-two-ways-ray-epps-was-on-fbis-most-wanted-list-one-day-off-the-next/)
+[JD Vance steps up after John Bolton likens Kash Patel to notorious commie thug](https://americanwirenews.com/jd-vance-steps-up-after-john-bolton-likens-kash-patel-to-notorious-commie-thug/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-hegseth-1200x630.jpg)](https://americanwirenews.com/hegseths-mother-quick-to-regret-email-sent-in-anger-blasts-ny-times-over-disgusting-piece/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-don-joe-hunter-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/trumps-reaction-to-bidens-outrageously-worded-pardon-of-hunter-bodes-well-for-jan-6-prisoners/)
 
-[Hegseth’s mother quick to regret email sent in ‘anger,’ blasts NY Times over ‘disgusting’ piece](https://americanwirenews.com/hegseths-mother-quick-to-regret-email-sent-in-anger-blasts-ny-times-over-disgusting-piece/)
+[Trump’s reaction to Biden’s outrageously-worded pardon of Hunter bodes well for Jan 6 prisoners](https://americanwirenews.com/trumps-reaction-to-bidens-outrageously-worded-pardon-of-hunter-bodes-well-for-jan-6-prisoners/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-kcrefs-1200-x-628-1200x630.jpg)](https://americanwirenews.com/fans-insist-nfl-is-rigged-after-latest-kansas-city-chiefs-miracle/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-edison-nj-1200x630.png)](https://americanwirenews.com/nj-town-bans-american-flag-from-council-meetings/)
 
-[Fans insist NFL is ‘RIGGED’ after latest Kansas City Chiefs miracle](https://americanwirenews.com/fans-insist-nfl-is-rigged-after-latest-kansas-city-chiefs-miracle/)
+[NJ town bans American flag from council meetings](https://americanwirenews.com/nj-town-bans-american-flag-from-council-meetings/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-mccabe-1200x630.jpg)](https://americanwirenews.com/cnn-quick-to-roll-out-former-g-man-andrew-mccabe-to-tarnish-trump-nominee-kash-patel/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/rf-biden-fauci-1200x630.jpeg)](https://americanwirenews.com/biden-salutes-dr-fauci-as-a-true-hero/)
 
-[CNN quick to roll out former G-man Andrew McCabe to tarnish Trump nominee Kash Patel](https://americanwirenews.com/cnn-quick-to-roll-out-former-g-man-andrew-mccabe-to-tarnish-trump-nominee-kash-patel/)
+(Official White House Photo by Adam Schultz)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-fettermancolbert-1200-x-628-1200x630.jpg)](https://americanwirenews.com/fetterman-has-an-idea-why-male-voters-were-turned-off-by-kamala-democrats/)
+[Biden salutes Dr. Fauci as a ‘true hero’](https://americanwirenews.com/biden-salutes-dr-fauci-as-a-true-hero/)
 
-[Fetterman has an idea why male voters were turned off by Kamala, Democrats](https://americanwirenews.com/fetterman-has-an-idea-why-male-voters-were-turned-off-by-kamala-democrats/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-hegseth-1-1200x630.jpg)](https://americanwirenews.com/left-wing-rag-set-to-publish-hit-piece-on-hegseth-as-dems-try-to-gaetz-him/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-ellenjimmyshow-1200-x-628-1200x630.jpg)](https://americanwirenews.com/ellen-degeneres-brit-home-hit-by-floods-after-fleeing-trump-some-suggest-its-karma/)
+[Left-wing rag set to publish hit piece on Hegseth as Dems try to ‘Gaetz’ him](https://americanwirenews.com/left-wing-rag-set-to-publish-hit-piece-on-hegseth-as-dems-try-to-gaetz-him/)
 
-[Ellen DeGeneres’ Brit home hit by floods after fleeing Trump, some suggest it’s karma](https://americanwirenews.com/ellen-degeneres-brit-home-hit-by-floods-after-fleeing-trump-some-suggest-its-karma/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-shot-1200-x-628-1200x630.jpg)](https://americanwirenews.com/artist-creates-two-story-bronze-statue-of-iconic-trump-fight-fight-fight-moment/)
+
+[Artist creates two-story bronze statue of iconic Trump “Fight, Fight, Fight’ moment](https://americanwirenews.com/artist-creates-two-story-bronze-statue-of-iconic-trump-fight-fight-fight-moment/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-jascrock-1200-x-628-1200x630.jpg)](https://americanwirenews.com/just-dont-really-see-it-jasmine-crockett-questions-trump-on-mass-deportation/)
 
@@ -58,25 +60,29 @@ Search for:
 
 [‘This is nuts’: Ramaswamy critical of NYC for paying Pakistan millions to house illegal migrants](https://americanwirenews.com/this-is-nuts-ramaswamy-critical-of-nyc-for-paying-pakistan-millions-to-house-illegal-migrants/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-welker-hagerty-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/pxbay_prideflag-1200-x-628-1200x630.jpg)
 
-### Sen. Hagerty cheers Kash Patel for FBI, says ‘entire agency needs to be cleaned out’](https://americanwirenews.com/sen-hagerty-cheers-kash-patel-for-fbi-says-entire-agency-needs-to-be-cleaned-out/)
+### Small town fined for not flying ‘Pride’ flag](https://americanwirenews.com/small-town-fined-for-not-flying-pride-flag/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
-### [WH staffers fretting over possibility Biden may shirk departure tradition](https://americanwirenews.com/wh-staffers-fretting-over-possibility-biden-may-shirk-departure-tradition/)
+### [South American gangs use sophisticated technology to burglarize homes of traveling pro athletes in US](https://americanwirenews.com/south-american-gangs-use-sophisticated-technology-to-burglarize-homes-of-traveling-pro-athletes-in-us/)
 
-### [‘Here we go!’ Weatherman happily obliges when Fox anchor asks him to make a snow angel](https://americanwirenews.com/here-we-go-weatherman-happily-obliges-when-fox-anchor-asks-him-to-make-a-snow-angel/)
+### [Fetterman has advice for Dems hysterical over Trump win: ‘Just grab a grip’](https://americanwirenews.com/fetterman-has-advice-for-dems-hysterical-over-trump-win-just-grab-a-grip/)
 
-### [‘Obama bro’ breaks the news to Dems calling for their own Joe Rogan: ‘He WAS our Joe Rogan’](https://americanwirenews.com/obama-bro-breaks-the-news-to-dems-calling-for-their-own-joe-rogan-he-was-our-joe-rogan/)
+### [‘Trump is your daddy!’ Star Wars’ Mark Hamill dragged for dramatic reaction to Trump reelection](https://americanwirenews.com/trump-is-your-daddy-star-wars-mark-hamill-dragged-for-dramatic-reaction-to-trump-reelection/)
 
-### [CNN’s Kasie Hunt visibly stunned by Homan’ no-nonsense response to Dem mayor’s threat](https://americanwirenews.com/cnns-kasie-hunt-visibly-stunned-by-homan-no-nonsense-response-to-dem-mayors-threat/)
+### [‘The Hebrew Hammer’: GOP House hopeful warns ‘Squad’ members that it might be time to get out of Dodge](https://americanwirenews.com/the-hebrew-hammer-gop-house-hopeful-warns-squad-members-that-it-might-be-time-to-get-out-of-dodge/)
 
-### [Cheryl Hines promotes MAHA-branded candles in video with showering RFK Jr.](https://americanwirenews.com/cheryl-hines-promotes-maha-branded-candles-in-video-with-showering-rfk-jr/)
+### [Apple’s emotional ‘family oriented’ ad earns praise from viewers: ‘Very well done here. More of this.’](https://americanwirenews.com/apples-emotional-family-oriented-ad-earns-praise-from-viewers-very-well-done-here-more-of-this/)
 
-### [Gibson fires off cease-and-desist over Trump’s limited edition guitars](https://americanwirenews.com/gibson-fires-off-cease-and-desist-over-trumps-limited-edition-guitars/)
+### [Out-of-touch elitist Chuck Todd whines that tariffs will be a ‘guacamole tax’](https://americanwirenews.com/out-of-touch-elitist-chuck-todd-whines-that-tariffs-will-be-a-guacamole-tax/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-apadilla-1200-x-628-220x180.jpg)](https://americanwirenews.com/calif-dem-says-state-taxpayers-will-pay-legal-fees-for-deportation-fights-its-the-california-way/)
+
+[Calif. Dem says state taxpayers will pay legal fees for deportation fights: ‘It’s the California way…’](https://americanwirenews.com/calif-dem-says-state-taxpayers-will-pay-legal-fees-for-deportation-fights-its-the-california-way/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-alexander-220x180.jpg)](https://americanwirenews.com/hamas-drops-video-of-coerced-hostage-appealing-to-trump-to-help-secure-freedom/)
 
@@ -90,13 +96,35 @@ Search for:
 
 [‘Find another sucker!’ Trump threatens 100% tariff on China-led bloc if they ‘move away’ from dollar](https://americanwirenews.com/find-another-sucker-trump-threatens-100-tariff-on-china-led-bloc-if-they-move-away-from-dollar/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/rf-biden-oval-220x180.jpeg)](https://americanwirenews.com/wh-staffers-fretting-over-possibility-biden-may-shirk-departure-tradition/)
+
+[WH staffers fretting over possibility Biden may shirk departure tradition](https://americanwirenews.com/wh-staffers-fretting-over-possibility-biden-may-shirk-departure-tradition/)
+
+(Official White House Photo by Adam Schultz)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-seidel-banderas-220x180.jpg)](https://americanwirenews.com/here-we-go-weatherman-happily-obliges-when-fox-anchor-asks-him-to-make-a-snow-angel/)
+
+[‘Here we go!’ Weatherman happily obliges when Fox anchor asks him to make a snow angel](https://americanwirenews.com/here-we-go-weatherman-happily-obliges-when-fox-anchor-asks-him-to-make-a-snow-angel/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-scott-jennings-4-220x180.jpg)](https://americanwirenews.com/la-times-adds-cnns-scott-jennings-to-editorial-board/)
 
 [LA Times adds CNN’s Scott Jennings to editorial board](https://americanwirenews.com/la-times-adds-cnns-scott-jennings-to-editorial-board/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-obamabrorogan-1200-x-628-220x180.jpg)](https://americanwirenews.com/obama-bro-breaks-the-news-to-dems-calling-for-their-own-joe-rogan-he-was-our-joe-rogan/)
+
+[‘Obama bro’ breaks the news to Dems calling for their own Joe Rogan: ‘He WAS our Joe Rogan’](https://americanwirenews.com/obama-bro-breaks-the-news-to-dems-calling-for-their-own-joe-rogan-he-was-our-joe-rogan/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-kasie-hunt-220x180.jpg)](https://americanwirenews.com/cnns-kasie-hunt-visibly-stunned-by-homan-no-nonsense-response-to-dem-mayors-threat/)
+
+[CNN’s Kasie Hunt visibly stunned by Homan’ no-nonsense response to Dem mayor’s threat](https://americanwirenews.com/cnns-kasie-hunt-visibly-stunned-by-homan-no-nonsense-response-to-dem-mayors-threat/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-cenku-1200-x-628-220x180.jpg)](https://americanwirenews.com/even-cenk-uygur-is-optimistic-over-trump-win-as-leftist-finds-common-cause-with-maga/)
 
 [Even Cenk Uygur is ‘optimistic’ over Trump win as leftist finds common cause with MAGA](https://americanwirenews.com/even-cenk-uygur-is-optimistic-over-trump-win-as-leftist-finds-common-cause-with-maga/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-kennedy-hines-220x180.jpg)](https://americanwirenews.com/cheryl-hines-promotes-maha-branded-candles-in-video-with-showering-rfk-jr/)
+
+[Cheryl Hines promotes MAHA-branded candles in video with showering RFK Jr.](https://americanwirenews.com/cheryl-hines-promotes-maha-branded-candles-in-video-with-showering-rfk-jr/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/03/sg-aoc-cnnsotu-1200-x-628-220x180.jpg)](https://americanwirenews.com/social-media-mocks-the-idea-of-aoc-as-president-but-fmr-trump-official-says-its-no-laughing-matter/)
 
@@ -153,30 +181,6 @@ Search for:
 [New York-based model, husband and child reportedly kidnapped and held hostage in Brazil](https://americanwirenews.com/new-york-based-model-husband-and-child-reportedly-kidnapped-and-held-hostage-in-brazil/)
 
 (Photo by Paul Zimmerman/WireImage)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sgmaye-musk-220x180.png)](https://americanwirenews.com/maye-musk-calls-out-cnn-for-blatant-lie/)
-
-[Maye Musk calls out CNN for blatant lie](https://americanwirenews.com/maye-musk-calls-out-cnn-for-blatant-lie/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-burglars-gang-migrant-220x180.jpg)](https://americanwirenews.com/south-american-gangs-use-sophisticated-technology-to-burglarize-homes-of-traveling-pro-athletes-in-us/)
-
-[South American gangs use sophisticated technology to burglarize homes of traveling pro athletes in US](https://americanwirenews.com/south-american-gangs-use-sophisticated-technology-to-burglarize-homes-of-traveling-pro-athletes-in-us/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/05/sg-fetterman-220x180.jpg)](https://americanwirenews.com/fetterman-has-advice-for-dems-hysterical-over-trump-win-just-grab-a-grip/)
-
-[Fetterman has advice for Dems hysterical over Trump win: ‘Just grab a grip’](https://americanwirenews.com/fetterman-has-advice-for-dems-hysterical-over-trump-win-just-grab-a-grip/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-mark-hamill-220x180.png)](https://americanwirenews.com/trump-is-your-daddy-star-wars-mark-hamill-dragged-for-dramatic-reaction-to-trump-reelection/)
-
-[‘Trump is your daddy!’ Star Wars’ Mark Hamill dragged for dramatic reaction to Trump reelection](https://americanwirenews.com/trump-is-your-daddy-star-wars-mark-hamill-dragged-for-dramatic-reaction-to-trump-reelection/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-randy-fine-220x180.jpg)](https://americanwirenews.com/the-hebrew-hammer-gop-house-hopeful-warns-squad-members-that-it-might-be-time-to-get-out-of-dodge/)
-
-[‘The Hebrew Hammer’: GOP House hopeful warns ‘Squad’ members that it might be time to get out of Dodge](https://americanwirenews.com/the-hebrew-hammer-gop-house-hopeful-warns-squad-members-that-it-might-be-time-to-get-out-of-dodge/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-apple-ad-220x180.jpg)](https://americanwirenews.com/apples-emotional-family-oriented-ad-earns-praise-from-viewers-very-well-done-here-more-of-this/)
-
-[Apple’s emotional ‘family oriented’ ad earns praise from viewers: ‘Very well done here. More of this.’](https://americanwirenews.com/apples-emotional-family-oriented-ad-earns-praise-from-viewers-very-well-done-here-more-of-this/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
@@ -246,6 +250,10 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 [California AG urges holiday shoppers to rat out stores without gender-neutral kids’ sections](https://americanwirenews.com/california-ag-urges-holiday-shoppers-to-rat-out-stores-without-gender-neutral-kids-sections/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-target-220x180.jpg)](https://americanwirenews.com/wsj-levels-target-over-poor-earnings-report-slide-from-cheap-chic-to-dull-chore/)
+
+[WSJ levels Target over poor earnings report: ‘Slide from cheap chic to dull chore’](https://americanwirenews.com/wsj-levels-target-over-poor-earnings-report-slide-from-cheap-chic-to-dull-chore/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-walmartfront-1200-x-628-220x180.jpg)](https://americanwirenews.com/walmart-to-roll-back-dei-policies/)
 
 [Walmart to roll back DEI policies](https://americanwirenews.com/walmart-to-roll-back-dei-policies/)
@@ -257,10 +265,6 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-targettrustjesus-1200-x-628-220x180.jpg)](https://americanwirenews.com/retail-giant-hit-with-backlash-after-firing-woman-for-trust-in-jesus-message/)
 
 [Retail giant hit with backlash after firing woman for ‘Trust in Jesus’ message](https://americanwirenews.com/retail-giant-hit-with-backlash-after-firing-woman-for-trust-in-jesus-message/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-elon-rachel-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/musk-teases-he-could-scoop-up-msnbc-how-much-does-it-cost/)
-
-[Musk teases he could scoop up MSNBC: ‘How much does it cost?’](https://americanwirenews.com/musk-teases-he-could-scoop-up-msnbc-how-much-does-it-cost/)
 
 ### [POLITICS](https://www.commdiginews.com/category/featured-politics/)
 
@@ -276,23 +280,27 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 [Deep state despair: Trump announces ‘Kash’ Patel as next FBI Director](https://americanwirenews.com/deep-state-despair-trump-announces-kash-patel-as-next-fbi-director/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-james-carville-220x180.png)](https://americanwirenews.com/carville-goes-off-on-kamalas-23-year-old-snot-nosed-brat-staffers-in-f-bomb-laden-rant/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-conn-bomb-threat-220x180.jpg)](https://americanwirenews.com/three-dem-reps-from-the-same-state-targeted-by-bomb-threats/)
 
-[Carville goes off on Kamala’s 23-year-old snot-nosed brat staffers in F-bomb laden rant](https://americanwirenews.com/carville-goes-off-on-kamalas-23-year-old-snot-nosed-brat-staffers-in-f-bomb-laden-rant/)
+[Three Dem reps from the same state targeted by bomb threats](https://americanwirenews.com/three-dem-reps-from-the-same-state-targeted-by-bomb-threats/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-michelle-obama-220x180.png)](https://americanwirenews.com/michelle-obama-pimping-new-book-overcoming-just-in-time-for-christmas/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-schlossberg-220x180.png)](https://americanwirenews.com/jfks-grandson-makes-disgusting-request-of-trump-cabinet-nominees/)
 
-[Michelle Obama pimping new book ‘Overcoming’ just in time for Christmas](https://americanwirenews.com/michelle-obama-pimping-new-book-overcoming-just-in-time-for-christmas/)
+[JFK’s grandson makes disgusting request of Trump cabinet nominees](https://americanwirenews.com/jfks-grandson-makes-disgusting-request-of-trump-cabinet-nominees/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-jones-vs-gw-jones-470x260-1200-x-628-220x180.jpg)](https://americanwirenews.com/trump-team-shoots-down-claim-hell-purge-transgenders-from-military/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-johnson-1-220x180.jpg)](https://americanwirenews.com/chicago-mayor-brandon-johnson-has-residents-longing-for-the-good-old-days-of-lori-lightfoot/)
 
-[Trump team shoots down claim he’ll purge transgenders from military](https://americanwirenews.com/trump-team-shoots-down-claim-hell-purge-transgenders-from-military/)
+[Chicago Mayor Brandon Johnson has residents longing for the good old days of Lori Lightfoot](https://americanwirenews.com/chicago-mayor-brandon-johnson-has-residents-longing-for-the-good-old-days-of-lori-lightfoot/)
 
 ### [HUMOR](https://www.commdiginews.com/category/featured-humor/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-spoof-1-1200x630.jpg)](https://americanwirenews.com/well-why-dont-you-ask-good-old-donny-kamala-impersonator-wins-x-with-hilarious-interview-spoof/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/screenshot-2024-11-29-071920-1200x630.jpg)](https://americanwirenews.com/trump-shares-hilarious-christmas-vacation-video-mocking-biden-kamala-other-dems/)
 
-[‘Well, why don’t you ask good old Donny?’ Kamala impersonator wins X with HILARIOUS interview spoof](https://americanwirenews.com/well-why-dont-you-ask-good-old-donny-kamala-impersonator-wins-x-with-hilarious-interview-spoof/)
+[Trump shares hilarious ‘Christmas Vacation’ video mocking Biden, Kamala, other Dems](https://americanwirenews.com/trump-shares-hilarious-christmas-vacation-video-mocking-biden-kamala-other-dems/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/screenshot-2024-11-29-071920-220x180.jpg)](https://americanwirenews.com/trump-shares-hilarious-christmas-vacation-video-mocking-biden-kamala-other-dems/)
+
+[Trump shares hilarious ‘Christmas Vacation’ video mocking Biden, Kamala, other Dems](https://americanwirenews.com/trump-shares-hilarious-christmas-vacation-video-mocking-biden-kamala-other-dems/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-spoof-1-220x180.jpg)](https://americanwirenews.com/well-why-dont-you-ask-good-old-donny-kamala-impersonator-wins-x-with-hilarious-interview-spoof/)
 
@@ -309,10 +317,6 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 [![](https://americanwirenews.com/wp-content/uploads/2024/07/san-fran-brawl-220x180.png)](https://americanwirenews.com/nudists-saving-brazilian-tourist-from-a-blowtorch-wielding-pirate-couldnt-be-more-san-francisco/)
 
 [Nudists saving Brazilian tourist from a blowtorch wielding ‘pirate’ couldn’t be more San Francisco](https://americanwirenews.com/nudists-saving-brazilian-tourist-from-a-blowtorch-wielding-pirate-couldnt-be-more-san-francisco/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-maxine-waters-220x180.jpg)](https://americanwirenews.com/maxine-waters-wrestles-her-wig-on-live-tv-and-its-just-the-20-seconds-of-video-you-were-looking-for/)
-
-[Maxine Waters wrestles her wig on live tv and it’s just the 20 seconds of video you were looking for](https://americanwirenews.com/maxine-waters-wrestles-her-wig-on-live-tv-and-its-just-the-20-seconds-of-video-you-were-looking-for/)
 
 ### [CULTURE & SOCIETY](https://www.commdiginews.com/category/featured-culture-society/)
 
@@ -332,16 +336,12 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 [‘I don’t call many things racist…’ Fox contributor torches Canadian official’s reaction to Mexico comparison](https://americanwirenews.com/i-dont-call-many-things-racist-fox-contributor-torches-canadian-officials-reaction-to-mexico-comparison/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2022/08/GettyImages-1194237314-220x180.jpg)](https://americanwirenews.com/doj-indicts-former-abc-news-anchor-and-hubby-over-alleged-covid-loan-fraud/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/rf-pexels-banana-220x180.jpg)](https://americanwirenews.com/buyer-of-5-2m-art-banana-attempts-to-do-right-by-elderly-fruit-vendor-who-sold-it-for-35-cents/)
 
-[DOJ indicts former ABC news anchor and hubby over alleged COVID loan fraud
+[Buyer of $6.2M ‘art’ banana attempts to do right by elderly fruit vendor who sold it for 35 cents](https://americanwirenews.com/buyer-of-5-2m-art-banana-attempts-to-do-right-by-elderly-fruit-vendor-who-sold-it-for-35-cents/)
 
-Getty Images](https://americanwirenews.com/doj-indicts-former-abc-news-anchor-and-hubby-over-alleged-covid-loan-fraud/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-us-capitol-220x180.jpg)](https://americanwirenews.com/reflections-or-ufos-mysterious-lights-spotted-over-capitol-hill-ignite-hot-debate/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2022/08/RF-Getty-Fossil-Fuel-220x180.jpg)](https://americanwirenews.com/must-watch-billy-bob-thorton-clip-taking-on-environmental-extremists-goes-viral/)
-
-[Must watch Billy Bob Thorton clip taking on environmental extremists goes viral
-
-Getty Images](https://americanwirenews.com/must-watch-billy-bob-thorton-clip-taking-on-environmental-extremists-goes-viral/)
+[Reflections or UFOs? Mysterious lights spotted over Capitol Hill ignite hot debate](https://americanwirenews.com/reflections-or-ufos-mysterious-lights-spotted-over-capitol-hill-ignite-hot-debate/)
 
 © 2024. All Rights Reserved. American Wire News
