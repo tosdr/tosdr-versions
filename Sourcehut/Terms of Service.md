@@ -106,11 +106,11 @@ We may make changes to these terms with no less than 2 weeks notice. Notice of c
 
 ### About this wiki
 
-commit [42908ef074137468536bb04d7efafe888f3567d2](https://git.sr.ht/~sircmpwn/sr.ht-docs/commit/42908ef074137468536bb04d7efafe888f3567d2)
-Author: Drew DeVault <sir@cmpwn.com>
-Date:   2024-11-24T10:38:53+01:00
+commit [23592fd3f703a0d04a7ab6cf5b00ccaf027bf577](https://git.sr.ht/~sircmpwn/sr.ht-docs/commit/23592fd3f703a0d04a7ab6cf5b00ccaf027bf577)
+Author: Gary Kim <gary@garykim.dev>
+Date:   2024-11-30T00:14:06-05:00
 
-builds.sr.ht: update details on secret leaks
+builds.sr.ht: fedora: remove EOL versions
 
 **Clone this wiki**
 
