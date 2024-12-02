@@ -259,12 +259,14 @@ Advertise with Us
 
 Most Popular
 
-[![Teenager killed in fatal early-morning crash in Inishowen](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Teenager killed in fatal early-morning crash in Inishowen")](https://www.derrynow.com/news/local-news/1669894/teenager-killed-in-fatal-early-morning-crash-in-inishowen.html)
+[![Gardai launch investigation after young girl dies following fatal assault at private home](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Gardai launch investigation after young girl dies following fatal assault at private home")](https://www.derrynow.com/news/national-news/1670737/gardai-launch-investigation-after-young-girl-dies-following-fatal-assault-at-private-home.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+A post-mortem examination will be scheduled.
 
-[Teenager killed in fatal early-morning crash in Inishowen](https://www.derrynow.com/news/local-news/1669894/teenager-killed-in-fatal-early-morning-crash-in-inishowen.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[Gardai launch investigation after young girl dies following fatal assault at private home](https://www.derrynow.com/news/national-news/1670737/gardai-launch-investigation-after-young-girl-dies-following-fatal-assault-at-private-home.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![47-year-old man arrested following assault in Derry city centre](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "47-year-old man arrested following assault in Derry city centre")](https://www.derrynow.com/news/local-news/1670142/47-year-old-man-arrested-following-assault-in-derry-city-centre.html)
 
@@ -275,26 +277,42 @@ The incident took place in the Sackville Street area of the city
 [47-year-old man arrested following assault in Derry city centre](https://www.derrynow.com/news/local-news/1670142/47-year-old-man-arrested-following-assault-in-derry-city-centre.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1666538/derry-death-notices-monday-december-2-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Monday, December 2, 2024](https://www.derrynow.com/news/deaths/1666538/derry-death-notices-monday-december-2-2024.html)
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+[![You can't park there! Lorry driver's boozy shortcut comes to sudden halt](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "You can't park there! Lorry driver's boozy shortcut comes to sudden halt")](https://www.derrynow.com/news/national-news/1670803/you-can-t-park-there-lorry-driver-s-boozy-shortcut-comes-to-sudden-end.html)
+
+Pictured: The small lorry which was apprehended on Grafton Street. Image by An Garda Síochána on X.
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[You can't park there! Lorry driver's boozy shortcut comes to sudden end](https://www.derrynow.com/news/national-news/1670803/you-can-t-park-there-lorry-driver-s-boozy-shortcut-comes-to-sudden-end.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry man remanded for breach of bail conditions](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man remanded for breach of bail conditions")](https://www.derrynow.com/news/local-news/1670810/derry-man-remanded-for-breach-of-bail-conditions.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man remanded for breach of bail conditions](https://www.derrynow.com/news/local-news/1670810/derry-man-remanded-for-breach-of-bail-conditions.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Donegal man remanded in custody at Derry Court charged with rape](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Donegal man remanded in custody at Derry Court charged with rape")](https://www.derrynow.com/news/local-news/1670861/donegal-man-remanded-in-custody-at-derry-court-charged-with-rape.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Donegal man remanded in custody at Derry Court charged with rape](https://www.derrynow.com/news/local-news/1670861/donegal-man-remanded-in-custody-at-derry-court-charged-with-rape.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Local-born author Pat Mullan to launch debut book in Limavady](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Local-born author Pat Mullan to launch debut book in Limavady")](https://www.derrynow.com/news/home/1670413/local-born-author-pat-mullan-to-launch-debut-book-in-limavady.html)
 
 [Home](https://www.derrynow.com/)
 
 [Local-born author Pat Mullan to launch debut book in Limavady](https://www.derrynow.com/news/home/1670413/local-born-author-pat-mullan-to-launch-debut-book-in-limavady.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry PSNI Christmas operation to prioritise safeguarding women and girls and keeping people safe](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry PSNI Christmas operation to prioritise safeguarding women and girls and keeping people safe")](https://www.derrynow.com/news/local-news/1666376/derry-psni-christmasoperation-toprioritise-safeguarding-women-and-girls-and-keeping-people-safe.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry PSNI Christmas operation to prioritise safeguarding women and girls and keeping people safe](https://www.derrynow.com/news/local-news/1666376/derry-psni-christmasoperation-toprioritise-safeguarding-women-and-girls-and-keeping-people-safe.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Two road safety campaigns to be launched in Northern Ireland](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two road safety campaigns to be launched in Northern Ireland")](https://www.derrynow.com/news/local-news/1669874/two-road-safety-campaigns-to-be-launched-in-northern-ireland.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Two road safety campaigns to be launched in Northern Ireland](https://www.derrynow.com/news/local-news/1669874/two-road-safety-campaigns-to-be-launched-in-northern-ireland.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Dean McCullough is second contestant to leave I’m A Celebrity after public vote](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Dean McCullough is second contestant to leave I’m A Celebrity after public vote")](https://www.derrynow.com/news/national-news/1670541/dean-mccullough-is-second-contestant-to-leave-im-a-celebrity-after-public-vote.html)
 
@@ -310,26 +328,12 @@ The incident took place in the Sackville Street area of the city
 [Police probe sudden death of woman at Belfast nightclub](https://www.derrynow.com/news/northern-ireland/1670051/police-probe-sudden-death-of-woman-at-belfast-nightclub.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Five police hurt in ‘melee’ as dozens clash outside Belfast nightclub](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Five police hurt in ‘melee’ as dozens clash outside Belfast nightclub")](https://www.derrynow.com/news/northern-ireland/1670011/five-police-hurt-in-melee-as-dozens-clash-outside-belfast-nightclub.html)
+[![Police conduct searches in Derry as part of dissident republican investigation](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police conduct searches in Derry as part of dissident republican investigation")](https://www.derrynow.com/news/local-news/1670912/police-conduct-searches-in-derry-as-part-of-dissident-republican-investigation.html)
 
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Five police hurt in ‘melee’ as dozens clash outside Belfast nightclub](https://www.derrynow.com/news/northern-ireland/1670011/five-police-hurt-in-melee-as-dozens-clash-outside-belfast-nightclub.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Criminal solicitors warn minister on prospect of escalation in legal aid dispute](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Criminal solicitors warn minister on prospect of escalation in legal aid dispute")](https://www.derrynow.com/news/northern-ireland/1670013/criminal-solicitors-warn-minister-on-prospect-of-escalation-in-legal-aid-dispute.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Criminal solicitors warn minister on prospect of escalation in legal aid dispute](https://www.derrynow.com/news/northern-ireland/1670013/criminal-solicitors-warn-minister-on-prospect-of-escalation-in-legal-aid-dispute.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Two road safety campaigns to be launched in Northern Ireland](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two road safety campaigns to be launched in Northern Ireland")](https://www.derrynow.com/news/northern-ireland/1669869/two-road-safety-campaigns-to-be-launched-in-northern-ireland.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Two road safety campaigns to be launched in Northern Ireland](https://www.derrynow.com/news/northern-ireland/1669869/two-road-safety-campaigns-to-be-launched-in-northern-ireland.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Police conduct searches in Derry as part of dissident republican investigation](https://www.derrynow.com/news/local-news/1670912/police-conduct-searches-in-derry-as-part-of-dissident-republican-investigation.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -511,49 +515,51 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1666538/derry-death-notices-monday-december-2-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Monday, December 2, 2024](https://www.derrynow.com/news/deaths/1666538/derry-death-notices-monday-december-2-2024.html)
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Local-born author Pat Mullan to launch debut book in Limavady](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Local-born author Pat Mullan to launch debut book in Limavady")](https://www.derrynow.com/news/home/1670413/local-born-author-pat-mullan-to-launch-debut-book-in-limavady.html)
-
-[Home](https://www.derrynow.com/)
-
-[Local-born author Pat Mullan to launch debut book in Limavady](https://www.derrynow.com/news/home/1670413/local-born-author-pat-mullan-to-launch-debut-book-in-limavady.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![47-year-old man arrested following assault in Derry city centre](https://www.derrynow.com/resizer/165/93/true/2024_09_10/4602297_3efd7e54-1725956317925.jpg--.jpg?1725956317948 "47-year-old man arrested following assault in Derry city centre")](https://www.derrynow.com/news/local-news/1670142/47-year-old-man-arrested-following-assault-in-derry-city-centre.html)
-
-The incident took place in the Sackville Street area of the city
+[![Man with 119 previous convictions granted bail at Derry Magistrate's Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man with 119 previous convictions granted bail at Derry Magistrate's Court")](https://www.derrynow.com/news/local-news/1670907/man-with-119-previous-convictions-granted-bail-at-derry-magistrate-s-court.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[47-year-old man arrested following assault in Derry city centre](https://www.derrynow.com/news/local-news/1670142/47-year-old-man-arrested-following-assault-in-derry-city-centre.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Man with 119 previous convictions granted bail at Derry Magistrate's Court](https://www.derrynow.com/news/local-news/1670907/man-with-119-previous-convictions-granted-bail-at-derry-magistrate-s-court.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Teenager killed in fatal early-morning crash in Inishowen](https://www.derrynow.com/resizer/165/93/true/2024_12_01/2024-08-15_08_30_18_1522572313578-jpg_Cropped-1723707064203.jpg--death_notices_for_donegal___monday_morning__august_12-1733048121660.jpg--.jpg?1733048121703 "Teenager killed in fatal early-morning crash in Inishowen")](https://www.derrynow.com/news/local-news/1669894/teenager-killed-in-fatal-early-morning-crash-in-inishowen.html)
+[![Public consultation on Derry's Pilots Row Youth and Community Centre opens today](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Public consultation on Derry's Pilots Row Youth and Community Centre opens today")](https://www.derrynow.com/news/local-news/1670899/public-consultation-on-derry-s-pilots-row-youth-and-community-centre-opens-today.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Teenager killed in fatal early-morning crash in Inishowen](https://www.derrynow.com/news/local-news/1669894/teenager-killed-in-fatal-early-morning-crash-in-inishowen.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Two road safety campaigns to be launched in Northern Ireland](https://www.derrynow.com/resizer/165/93/true/pa/2024_12_01/1733049301982_0.jpg--.jpg?1733049302203 "Two road safety campaigns to be launched in Northern Ireland")](https://www.derrynow.com/news/local-news/1669874/two-road-safety-campaigns-to-be-launched-in-northern-ireland.html)
+Pilots' Row Centre
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Two road safety campaigns to be launched in Northern Ireland](https://www.derrynow.com/news/local-news/1669874/two-road-safety-campaigns-to-be-launched-in-northern-ireland.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Public consultation on Derry's Pilots Row Youth and Community Centre opens today](https://www.derrynow.com/news/local-news/1670899/public-consultation-on-derry-s-pilots-row-youth-and-community-centre-opens-today.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry PSNI Christmas operation to prioritise safeguarding women and girls and keeping people safe](https://www.derrynow.com/resizer/165/93/true/2024_11_27/DCS_Season_s_Greetings_2024-1732723518222.jpg--.jpg?1732723518846 "Derry PSNI Christmas operation to prioritise safeguarding women and girls and keeping people safe")](https://www.derrynow.com/news/local-news/1666376/derry-psni-christmasoperation-toprioritise-safeguarding-women-and-girls-and-keeping-people-safe.html)
+[![Police conduct searches in Derry as part of dissident republican investigation](https://www.derrynow.com/resizer/165/93/true/2024_02_26/75d09668-969e-11ed-a6c5-0210609a3fe2-1685351040715.jpg---1708952493894.jpg--.jpg?1708952493928 "Police conduct searches in Derry as part of dissident republican investigation")](https://www.derrynow.com/news/local-news/1670912/police-conduct-searches-in-derry-as-part-of-dissident-republican-investigation.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Derry PSNI Christmas operation to prioritise safeguarding women and girls and keeping people safe](https://www.derrynow.com/news/local-news/1666376/derry-psni-christmasoperation-toprioritise-safeguarding-women-and-girls-and-keeping-people-safe.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Police conduct searches in Derry as part of dissident republican investigation](https://www.derrynow.com/news/local-news/1670912/police-conduct-searches-in-derry-as-part-of-dissident-republican-investigation.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Donegal man remanded in custody at Derry Court charged with rape](https://www.derrynow.com/resizer/165/93/true/2024_04_04/Derry-courthouse.jpg--derry_courthouse-1712223605087.jpg--.jpg?1712223605116 "Donegal man remanded in custody at Derry Court charged with rape")](https://www.derrynow.com/news/local-news/1670861/donegal-man-remanded-in-custody-at-derry-court-charged-with-rape.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Donegal man remanded in custody at Derry Court charged with rape](https://www.derrynow.com/news/local-news/1670861/donegal-man-remanded-in-custody-at-derry-court-charged-with-rape.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Colin Spence, Technical Commercial Director at FAST Technologies.](https://www.derrynow.com/resizer/165/93/true/2024_12_02/image001-1733137898164.png--.png?1733137898295 "Colin Spence, Technical Commercial Director at FAST Technologies.")](https://www.derrynow.com/news/county-derry-post/1670821/fast-technologies-dreamaker-drives-efficiencies-in-u-s-production.html)
+
+Colin Spence, Technical Commercial Director at FAST Technologies.
+
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+[FAST Technologies' Dreamaker Drives Efficiencies in U.S. Production](https://www.derrynow.com/news/county-derry-post/1670821/fast-technologies-dreamaker-drives-efficiencies-in-u-s-production.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry man remanded for breach of bail conditions](https://www.derrynow.com/resizer/165/93/true/1580370016067.JPG--.JPG?1580370017604 "Derry man remanded for breach of bail conditions")](https://www.derrynow.com/news/local-news/1670810/derry-man-remanded-for-breach-of-bail-conditions.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man remanded for breach of bail conditions](https://www.derrynow.com/news/local-news/1670810/derry-man-remanded-for-breach-of-bail-conditions.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
