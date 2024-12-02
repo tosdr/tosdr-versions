@@ -32,7 +32,6 @@
             
             [ALL BEVERAGES](https://cowbellbrewing.com/pages/craft-beer-and-beverages)
             
-        * [BLACK FRIDAY](https://cowbellbrewing.com/collections/black-friday-sale)
         * [NEW RELEASES](https://cowbellbrewing.com/pages/new-releases)
         * [CRAFT BEER](https://cowbellbrewing.com/pages/craft-beer)
         * [HARD CIDERS](https://cowbellbrewing.com/pages/ciders)
@@ -70,7 +69,6 @@ Menu [🛒 CART](https://cowbellbrewing.com/cart) $0.00 Check out
 * [BOOK A GROUP](https://cowbellbrewing.com/pages/book-a-group)
 * [SHOP](https://cowbellbrewing.com/pages/landing-page)
     * [ALL BEVERAGES](https://cowbellbrewing.com/pages/craft-beer-and-beverages)
-        * [BLACK FRIDAY](https://cowbellbrewing.com/collections/black-friday-sale)
         * [NEW RELEASES](https://cowbellbrewing.com/pages/new-releases)
         * [CRAFT BEER](https://cowbellbrewing.com/pages/craft-beer)
         * [HARD CIDERS](https://cowbellbrewing.com/pages/ciders)
