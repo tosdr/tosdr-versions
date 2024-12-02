@@ -96,9 +96,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/traditional) [See All](https://classiccountrymusic.com/genre/traditional)
 
+* [Kris Kristofferson Sent His Friends &...](https://classiccountrymusic.com/kris-kristofferson-sent-his-friends-family-a-sign-over-thanksgiving/)
 * [Ned LeDoux To Release An Unheard...](https://classiccountrymusic.com/ned-ledoux-to-release-an-unheard-duet-with-his-late-dad-chris-ledoux/)
 * [Tracy Lawrence Helps Fry 1,600 Turkeys...](https://classiccountrymusic.com/tracy-lawrence-helps-fry-1600-turkeys-to-serve-25000-thanksgiving-meals-to-people-in-need/)
-* [Wynonna Judd Gives Breathtaking Performance of...](https://classiccountrymusic.com/wynonna-judd-gives-breathtaking-performance-of-patsy-clines-crazy/)
 
 ![bluegrass](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
@@ -120,9 +120,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/outlaw) [See All](https://classiccountrymusic.com/genre/outlaw)
 
+* [Kris Kristofferson Sent His Friends &...](https://classiccountrymusic.com/kris-kristofferson-sent-his-friends-family-a-sign-over-thanksgiving/)
 * [Willie Nelson Opens Up About Dealing...](https://classiccountrymusic.com/willie-nelson-opens-up-about-dealing-with-loss-in-his-new-album-last-leaf-on-the-tree-im-not-afraid-of-dying/)
 * [LIST: All Past Recipients Of The...](https://classiccountrymusic.com/list-all-past-recipients-of-the-cmas-willie-nelson-lifetime-achievement-award/)
-* [Willie Nelson & Wife Annie Release...](https://classiccountrymusic.com/willie-nelson-wife-annie-release-their-cannabis-cookbook/)
 
 Terms of Use
 ============
