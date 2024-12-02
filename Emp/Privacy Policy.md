@@ -154,9 +154,9 @@ Katalog durchsuchen  löschen Packstation suchen
 
 [](https://www.emp.de/sale/?pmid=SAM-896_black_deals_20per_EUR&hidebanner=true)
 
-BLACK DEALS
+Nur heute!
 
-\-20%\*
+20% EXTRA auf (fast) ALLES\*
 
 [Jetzt sparen!](https://www.emp.de/sale/?pmid=SAM-896_black_deals_20per_EUR&hidebanner=true "Jetzt sparen!") Code **BLACK20** kopieren
 
