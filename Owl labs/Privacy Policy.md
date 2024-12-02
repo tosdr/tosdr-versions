@@ -78,11 +78,11 @@ Featured Bundles
 
 [#### The essential accessories kit
 
-![Bundle | MO3 PP | Side by Side | Transparent Background](//images.ctfassets.net/hc4og0i2padt/4pCwNi8uFAuTOCqqH8HUoC/9598d671e5dba8612ee38f222fe22641/1-1_MO3_PP_transparent.png?w=3840&fm=webp 3840w)
+![Bundle | MO3 PP w Stand | Side by Side | Transparent Background](//images.ctfassets.net/hc4og0i2padt/11wnKBrNozfsN3PjuXo1T2/6bfcc8d269b4ca93ef30f47b608b3796/MO3-PPK_Retail-Image_3000x3000_Key-1_Comp.jpg?w=3840&fm=webp 3840w)
 
 Meeting Owl 3 Premium Pack
 
-$1,199$959](https://owllabs.com/products/meeting-owl-3-premium-pack-bundle)
+$1,276$959](https://owllabs.com/products/meeting-owl-3-premium-pack-bundle)
 
 [#### See and hear it all
 
