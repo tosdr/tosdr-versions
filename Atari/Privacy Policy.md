@@ -70,7 +70,7 @@ Hardware
 
 #### COLLECTIONS
 
-* [Alan-1](https://atari.com/products/atari-asteroids-recharged-arcademachine)
+* [Ultimate Asteroids Bundle](https://www.atari.com/products/ultimate-asteroids-bundle)
     
     [My Arcade](https://www.atari.com/collections/myarcade)
     
@@ -112,7 +112,7 @@ Hardware
 
 COLLECTIONS
 
-* [Alan-1](https://atari.com/products/atari-asteroids-recharged-arcademachine)
+* [Ultimate Asteroids Bundle](https://www.atari.com/products/ultimate-asteroids-bundle)
     
     [My Arcade](https://www.atari.com/collections/myarcade)
     
@@ -504,15 +504,13 @@ Unit price /  per](https://www.atari.com/products/oversized-fuji-hoodie)    �
 
 ![VCS All-In Bundle](files/1_95fe8086-5652-4c4b-80ed-a02e32396e01.jpg)
 
-Add to cart
-
-50% OFF
+Sold out
 
 ##### VCS All-In Bundle
 
-Regular price $200 Sale price $99.99
+Regular price $199.99 Sale price $199.99
 
-Regular price $99.99
+Regular price $199.99
 
 Unit price /  per](https://www.atari.com/products/atari-vcs-onyx-all-in) 
 
