@@ -17,7 +17,7 @@
         
         [SPECIALS](https://www.teamrar.com/collections/all-products)
         
-    * [RAR SALE](https://www.teamrar.com/collections/sale)
+    * [2024 CYBER WEEK SALE](https://www.teamrar.com/collections/sale)
     * [NEW RELEASES](https://www.teamrar.com/collections/new-releases)
     * [RAR ADVENTURES](https://www.teamrar.com/collections/rar-adventures)
 * ABOUT Expand submenu
@@ -42,7 +42,7 @@
   [![TEAM RAR Official Website](//www.teamrar.com/cdn/shop/files/Asset_3_150x.png?v=1613540341) ![TEAM RAR Official Website](//www.teamrar.com/cdn/shop/files/Asset_3_120x.png?v=1613540341)](https://www.teamrar.com/)[![TEAM RAR Official Website](//www.teamrar.com/cdn/shop/files/Asset_2_150x.png?v=1613540341) ![TEAM RAR Official Website](//www.teamrar.com/cdn/shop/files/Asset_2_120x.png?v=1613540341)](https://www.teamrar.com/)
 
 * [SPECIALS](https://www.teamrar.com/collections/all-products)
-    * [RAR SALE](https://www.teamrar.com/collections/sale)
+    * [2024 CYBER WEEK SALE](https://www.teamrar.com/collections/sale)
     * [NEW RELEASES](https://www.teamrar.com/collections/new-releases)
     * [RAR ADVENTURES](https://www.teamrar.com/collections/rar-adventures)
 * [ABOUT](https://www.teamrar.com/pages/the-team)
