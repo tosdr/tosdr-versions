@@ -395,7 +395,7 @@ Connect with us
 
 ×
 
-BLACK FRIDAY MEGA SALE
+CYBER MONDAY MEGA SALE
 
 OFF
 ---
@@ -405,4 +405,4 @@ You don’t want to miss this sale:
 
 Get It Now | /mo
 
-45-Day Money-Back Guarantee
+![undefined](https://assets.cyberghostvpn.com/photos/cg/Custom-Checked-Shield.svg)45-Day Money-Back Guarantee
