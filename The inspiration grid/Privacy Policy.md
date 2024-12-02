@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/12/art-rita-quattrocchi-feature.jpg)
+
+[](https://theinspirationgrid.com/mixed-media-paintings-by-rita-quattrocchi/)
+
+### Mixed Media Paintings by Rita Quattrocchi
+
+![](https://inspgr.id/app/uploads/2024/12/photography-agustsson-24-feature.jpg)
+
+[](https://theinspirationgrid.com/icelandic-paintings-aerial-photos-by-brynjar-agustsson/)
+
+### Icelandic Paintings: Aerial Photos by Brynjar Agustsson
+
 ![](https://inspgr.id/app/uploads/2024/11/photography-coexistence-feature.jpg)
 
 [](https://theinspirationgrid.com/coexistence-digital-aerochrome-photos-by-pierre-louis-ferrer/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/biophilia-ethereal-animal-portraits-by-jim-naughten/)
 
 ### Biophilia: Ethereal Animal Portraits by Jim Naughten
-
-![](https://inspgr.id/app/uploads/2024/11/art-pontier-artbrick-feature.jpg)
-
-[](https://theinspirationgrid.com/incredible-lego-creations-by-gerardo-pontierr/)
-
-### Incredible LEGO Creations by Gerardo Pontiérr
-
-![](https://inspgr.id/app/uploads/2024/11/architecture-bpac-feature.jpg)
-
-[](https://theinspirationgrid.com/beijing-performing-arts-center-architectural-photos-by-kris-provoost/)
-
-### Beijing Performing Arts Center: Architectural Photos by Kris Provoost
 
 Awesome products for creatives
 ------------------------------
