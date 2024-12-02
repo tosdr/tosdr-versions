@@ -82,6 +82,18 @@
 More Stories
 ------------
 
+*  [![Selena Gomez smiling at the SAG Awards with her hair in a slicked back bun](https://www.women.com/img/gallery/5-celebs-who-have-mastered-the-art-of-the-slicked-back-bun/intro-1732217500.jpg)](https://www.women.com/1719912/celebs-who-mastered-art-slicked-back-bun/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Madison Emily Whisenand
+    
+    ### [5 Celebs Who Have Mastered The Art Of The Slicked Back Bun](https://www.women.com/1719912/celebs-who-mastered-art-slicked-back-bun/)
+    
+    The slicked-back bun seems to be everywhere in 2024, seen on the red carpet as well as on the street. Here are five celebrities who have perfected the look.
+    
+    By Madison Emily Whisenand [Read More](https://www.women.com/1719912/celebs-who-mastered-art-slicked-back-bun/)
+    
 *  [![Woman using an epilator on her arm](https://www.women.com/img/gallery/mistakes-you-may-be-making-with-your-epilator/intro-1732631218.jpg)](https://www.women.com/1723124/mistakes-making-epilator/)
     
     [Beauty](https://www.women.com/category/beauty/)
@@ -393,18 +405,6 @@ More Stories
     Though Lindsay Lohan is famous for her gorgeous red mane, she's changed up her tresses more than you might remember over the decades.
     
     By Emily Hutchinson [Read More](https://www.women.com/1708825/lindsay-lohan-hair-transformation-throughout-years/)
-    
-*  [![Demi Lovato with short hair and bold eye makeup looking fierce](https://www.women.com/img/gallery/5-celebs-who-clapped-back-at-demands-they-label-their-sexuality/intro-1731006397.jpg)](https://www.women.com/1708048/celebs-clapped-back-demands-they-label-sexuality/)
-    
-    [Politics](https://www.women.com/category/politics/)
-    
-    [Politics](https://www.women.com/category/politics/) By Amanda Chatel
-    
-    ### [5 Celebs Who Clapped Back At Demands They Label Their Sexuality](https://www.women.com/1708048/celebs-clapped-back-demands-they-label-sexuality/)
-    
-    No one should have to explain their sexuality, and these celebs have demonstrated the importance of clapping back at invasive speculation.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1708048/celebs-clapped-back-demands-they-label-sexuality/)
     
 
 Back
