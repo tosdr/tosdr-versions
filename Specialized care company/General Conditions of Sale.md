@@ -2,7 +2,7 @@ Home
 
 [![Specialized Care Co Inc Logo](//specializedcare.com/cdn/shop/files/final_one_line_logo_400x.png?v=1613511505)](https://specializedcare.com/)
 
-Please note: We will be closed Thursday and Friday (11/28 & 29). Have a safe and happy Thanksgiving!
+Welcome! Please sign in to see codes and pricing appropriate for your account type.
 
 [Sign in](https://specializedcare.com/account/login) or [Create an Account](https://specializedcare.com/account/register)
 
