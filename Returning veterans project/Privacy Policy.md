@@ -185,11 +185,10 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Butch Ross](https://cdn.returningveterans.org/images/honor/flag_generic_wall_of_honor.jpg)  
+![The Unknowns](https://cdn.returningveterans.org/images/honor/The_Unknowns.jpg)  
 
-**In Honor of Butch Ross**  
-United States Army  
-Submitted by Buffy Rider](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Honor of The Unknowns**  
+Submitted by Anonymous](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -232,5 +231,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 12/01/24 - 7:41:47  
+Printed 12/02/24 - 1:31:07  
 © 2024 Returning Veterans Project
