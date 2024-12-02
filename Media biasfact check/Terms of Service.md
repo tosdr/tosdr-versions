@@ -67,11 +67,11 @@
 
 MBFC News
 
+* [December 2, 2024 | Leveraging MBFC’s Unique Database for In-Depth International Reporting](https://mediabiasfactcheck.com/2024/12/02/leveraging-mbfcs-unique-database-for-in-depth-international-reporting/ "Leveraging MBFC’s Unique Database for In-Depth International Reporting")
 * [December 2, 2024 | Media News Daily: Top Stories for 12/02/2024](https://mediabiasfactcheck.com/2024/12/02/media-news-daily-top-stories-for-12-02-2024/ "Media News Daily: Top Stories for 12/02/2024")
 * [December 2, 2024 | MBFC’s Daily Vetted Fact Checks for 12/02/2024](https://mediabiasfactcheck.com/2024/12/02/mbfcs-daily-vetted-fact-checks-for-12-02-2024/ "MBFC’s Daily Vetted Fact Checks for 12/02/2024")
 * [December 1, 2024 | Source of the Week: American Debunk](https://mediabiasfactcheck.com/2024/12/01/source-of-the-week-american-debunk/ "Source of the Week: American Debunk")
 * [December 1, 2024 | MBFC’s Daily Vetted Fact Checks for 12/01/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/12/01/mbfcs-daily-vetted-fact-checks-for-12-01-2024-weekend-edition/ "MBFC’s Daily Vetted Fact Checks for 12/01/2024 (Weekend Edition)")
-* [November 30, 2024 | MBFC’s Weekly Media Literacy Quiz Covering the Week of Nov 24th – Nov 30th](https://mediabiasfactcheck.com/2024/11/30/mbfcs-weekly-media-literacy-quiz-covering-the-week-of-nov-24th-nov-30th/ "MBFC’s Weekly Media Literacy Quiz Covering the Week of Nov 24th – Nov 30th")
 
 Search for:  
 
@@ -147,6 +147,18 @@ No related posts.
 
 #### Recently Added Sources or Pages
 
+* [EconoTimes – Bias and Credibility](https://mediabiasfactcheck.com/econotimes-bias-and-credibility/)
+    
+    December 2, 2024
+    
+* [Planet: Critical – Bias and Credibility](https://mediabiasfactcheck.com/planet-critical-bias-and-credibility/)
+    
+    December 2, 2024
+    
+* [Telex.hu – Bias and Credibility](https://mediabiasfactcheck.com/telex-hu-bias-and-credibility/)
+    
+    December 2, 2024
+    
 * [Ecoticias – Bias and Credibility](https://mediabiasfactcheck.com/ecoticias-bias-and-credibility/)
     
     December 2, 2024
@@ -167,40 +179,28 @@ No related posts.
     
     December 1, 2024
     
-* [Northwest PA News – Bias and Credibility](https://mediabiasfactcheck.com/northwest-pa-news-bias/)
-    
-    December 1, 2024
-    
-* [The Insider (Latvia) – Bias and Credibility](https://mediabiasfactcheck.com/the-insider-latvia-bias-and-credibility/)
-    
-    December 1, 2024
-    
-* [Harrison Daily Times – Bias and Credibility](https://mediabiasfactcheck.com/harrison-daily-times-bias-and-credibility/)
-    
-    December 1, 2024
-    
 
 #### Recently Updated Pages
 
+* [Newsweek – Bias and Credibility](https://mediabiasfactcheck.com/newsweek/ "View Newsweek – Bias and Credibility") - December 2, 2024
+    
+* [The Hill – Bias and Credibility](https://mediabiasfactcheck.com/the-hill/ "View The Hill – Bias and Credibility") - December 2, 2024
+    
+* [Daily Mail – Bias and Credibility](https://mediabiasfactcheck.com/daily-mail/ "View Daily Mail – Bias and Credibility") - December 2, 2024
+    
+* [New York Times – Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/ "View New York Times – Bias and Credibility") - December 2, 2024
+    
+* [Fox News (foxnews.com) – Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/ "View Fox News (foxnews.com) – Bias and Credibility") - December 2, 2024
+    
+* [AtlasIntel Polling – Bias and Credibility](https://mediabiasfactcheck.com/atlasintel-polling-bias-and-credibility/ "View AtlasIntel Polling – Bias and Credibility") - December 2, 2024
+    
+* [CNN – Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/ "View CNN – Bias and Credibility") - December 2, 2024
+    
+* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - December 2, 2024
+    
+* [EconoTimes – Bias and Credibility](https://mediabiasfactcheck.com/econotimes-bias-and-credibility/ "View EconoTimes – Bias and Credibility") - December 2, 2024
+    
 * [Left Bias](https://mediabiasfactcheck.com/left/ "View Left Bias") - December 2, 2024
-    
-* [Ecoticias – Bias and Credibility](https://mediabiasfactcheck.com/ecoticias-bias-and-credibility/ "View Ecoticias – Bias and Credibility") - December 2, 2024
-    
-* [Right-Center Bias](https://mediabiasfactcheck.com/right-center/ "View Right-Center Bias") - December 2, 2024
-    
-* [Military Honest News – Bias and Credibility](https://mediabiasfactcheck.com/military-honest-news-bias-and-credibility/ "View Military Honest News – Bias and Credibility") - December 2, 2024
-    
-* [The Local (Spain) – Bias and Credibility](https://mediabiasfactcheck.com/the-local-spain-bias-and-credibility/ "View The Local (Spain) – Bias and Credibility") - December 1, 2024
-    
-* [JohnStossel.com – Bias and Credibility](https://mediabiasfactcheck.com/johnstossel-com-bias-and-credibility/ "View JohnStossel.com – Bias and Credibility") - December 1, 2024
-    
-* [Pro-Science](https://mediabiasfactcheck.com/pro-science/ "View Pro-Science") - December 1, 2024
-    
-* [U.S. Department of Health and Human Services (HHS) – Bias and Credibility](https://mediabiasfactcheck.com/u-s-department-of-health-and-human-services-hhs-bias-and-credibility/ "View U.S. Department of Health and Human Services (HHS) – Bias and Credibility") - December 1, 2024
-    
-* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - December 1, 2024
-    
-* [Tangle – Bias and Credibility](https://mediabiasfactcheck.com/tangle-bias-and-credibility/ "View Tangle – Bias and Credibility") - December 1, 2024
     
 
 #### Today’s Top Page Views
@@ -210,11 +210,11 @@ No related posts.
 * [Least Biased](https://mediabiasfactcheck.com/center/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
-* [The Guardian - Bias and Credibility](https://mediabiasfactcheck.com/the-guardian/)
 * [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
+* [The Guardian - Bias and Credibility](https://mediabiasfactcheck.com/the-guardian/)
 * [BBC - Bias and Credibility](https://mediabiasfactcheck.com/bbc/)
 * [Search](https://mediabiasfactcheck.com/search/)
-* [MBFC's Daily Vetted Fact Checks for 12/01/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/12/01/mbfcs-daily-vetted-fact-checks-for-12-01-2024-weekend-edition/)
+* [Associated Press (AP News) - Bias and Credibility](https://mediabiasfactcheck.com/associated-press/)
 
 #### Subscribe via Email
 
