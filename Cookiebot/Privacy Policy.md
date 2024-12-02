@@ -1,11 +1,3 @@
-Limited time offer:
-
-10% off for 6 months
-
-Promotion ends soon
-
-[Get the deal](https://www.cookiebot.com/en/limited-offer-2024/)
-
 [Log In](https://www.cookiebot.com/en/cmp-login/) [About Us](https://www.cookiebot.com/en/about/) [Help](https://support.cookiebot.com/hc/en-us/) [Newsletter](javascript:void(0))
 
 English
@@ -560,4 +552,4 @@ Follow us
 
 [![Capterra](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E)
 
-![Capterra](/wp-content/uploads/img/AnVkVKtyGYKAcI3E.svg?t=3baa037a)](https://www.capterra.com/p/240030/Cookiebot/reviews/)
+![Capterra](/wp-content/uploads/img/AnVkVKtyGYKAcI3E.svg?t=129ba9cd)](https://www.capterra.com/p/240030/Cookiebot/reviews/)
