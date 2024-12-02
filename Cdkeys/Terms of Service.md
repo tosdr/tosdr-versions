@@ -460,17 +460,7 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-2.    [![Microsoft Flight Simulator 2024 - Premium Deluxe Edition Xbox Series X|S/PC (WW)](https://cdn.cdkeys.com/245x340/media/catalog/product/m/i/microsoft_flight_simulator_2024_-_premium_deluxe_edition_1_1.png)   No 2. \-43%](https://www.cdkeys.com/xbox-live/microsoft-flight-simulator-2024-premium-deluxe-edition-xbox-series-x-s-pc-ww)
-    
-    **[Microsoft Flight Simulator 2024 - Premium Deluxe Edition Xbox Series X|S/PC (WW)](https://www.cdkeys.com/xbox-live/microsoft-flight-simulator-2024-premium-deluxe-edition-xbox-series-x-s-pc-ww "Microsoft Flight Simulator 2024 - Premium Deluxe Edition Xbox Series X|S/PC (WW)")**
-    
-    Special Price $94.29 RRP $165.69
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-3.    [![Farming Simulator 25 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/f/a/farming_simulator_25.jpg)   No 3. \-39%](https://www.cdkeys.com/black-friday-sale/farming-simulator-25-pc-steam)
+2.    [![Farming Simulator 25 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/f/a/farming_simulator_25.jpg)   No 2. \-39%](https://www.cdkeys.com/black-friday-sale/farming-simulator-25-pc-steam)
     
     **[Farming Simulator 25 PC](https://www.cdkeys.com/black-friday-sale/farming-simulator-25-pc-steam "Farming Simulator 25 PC")**
     
@@ -480,7 +470,7 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-4.    [![TEKKEN 8 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-08-28t100027.863.jpg)   No 4. \-62%](https://www.cdkeys.com/black-friday-sale/tekken-8-pc-steam)
+3.    [![TEKKEN 8 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-08-28t100027.863.jpg)   No 3. \-62%](https://www.cdkeys.com/black-friday-sale/tekken-8-pc-steam)
     
     **[TEKKEN 8 PC](https://www.cdkeys.com/black-friday-sale/tekken-8-pc-steam "TEKKEN 8 PC")**
     
@@ -490,19 +480,19 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-5.    [![Destiny 2: The Final Shape + Annual Pass PC - DLC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-08-23t133417.724.jpg)   No 5. \-61%
+4.    [![Destiny 2: The Final Shape + Annual Pass PC - DLC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-08-23t133417.724.jpg)   No 4. \-61%
     
     DLC](https://www.cdkeys.com/black-friday-sale/destiny-2-the-final-shape-annual-pass-pc-dlc-steam)
     
     **[Destiny 2: The Final Shape + Annual Pass PC - DLC](https://www.cdkeys.com/black-friday-sale/destiny-2-the-final-shape-annual-pass-pc-dlc-steam "Destiny 2: The Final Shape + Annual Pass PC - DLC")**
     
-    Special Price $38.99 RRP $99.99
+    Special Price $39.49 RRP $99.99
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-6.    [![The Plucky Squire PC](https://cdn.cdkeys.com/245x340/media/catalog/product/p/l/plckysqr-steam.jpg)   No 6. \-42%](https://www.cdkeys.com/pc/the-plucky-squire-pc-steam)
+5.    [![The Plucky Squire PC](https://cdn.cdkeys.com/245x340/media/catalog/product/p/l/plckysqr-steam.jpg)   No 5. \-42%](https://www.cdkeys.com/pc/the-plucky-squire-pc-steam)
     
     **[The Plucky Squire PC](https://www.cdkeys.com/pc/the-plucky-squire-pc-steam "The Plucky Squire PC")**
     
@@ -512,7 +502,7 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-7.    [![Cult of the Lamb PC](https://cdn.cdkeys.com/245x340/media/catalog/product/t/h/th-box-heist_2_.jpg)   No 7. \-67%](https://www.cdkeys.com/black-friday-sale/cult-of-the-lamb-pc-steam)
+6.    [![Cult of the Lamb PC](https://cdn.cdkeys.com/245x340/media/catalog/product/t/h/th-box-heist_2_.jpg)   No 6. \-67%](https://www.cdkeys.com/black-friday-sale/cult-of-the-lamb-pc-steam)
     
     **[Cult of the Lamb PC](https://www.cdkeys.com/black-friday-sale/cult-of-the-lamb-pc-steam "Cult of the Lamb PC")**
     
@@ -522,7 +512,7 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-8.    [![S.T.A.L.K.E.R. 2: Heart of Chornobyl - Ultimate Edition PC (EU & North America)](https://cdn.cdkeys.com/245x340/media/catalog/product/s/_/s.t.a.l.k.e.r._2__heart_of_chernobyl_-_ultimate_edition_pc.jpg)   No 8. \-40%](https://www.cdkeys.com/black-friday-sale/s-t-a-l-k-e-r-2-heart-of-chernobyl-ultimate-edition-pc-steam)
+7.    [![S.T.A.L.K.E.R. 2: Heart of Chornobyl - Ultimate Edition PC (EU & North America)](https://cdn.cdkeys.com/245x340/media/catalog/product/s/_/s.t.a.l.k.e.r._2__heart_of_chernobyl_-_ultimate_edition_pc.jpg)   No 7. \-40%](https://www.cdkeys.com/black-friday-sale/s-t-a-l-k-e-r-2-heart-of-chernobyl-ultimate-edition-pc-steam)
     
     **[S.T.A.L.K.E.R. 2: Heart of Chornobyl - Ultimate Edition PC (EU & North America)](https://www.cdkeys.com/black-friday-sale/s-t-a-l-k-e-r-2-heart-of-chernobyl-ultimate-edition-pc-steam "S.T.A.L.K.E.R. 2: Heart of Chornobyl - Ultimate Edition PC (EU & North America)")**
     
@@ -532,7 +522,7 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-9.    [![S.T.A.L.K.E.R. 2: Heart of Chornobyl PC (EU & North America)](https://cdn.cdkeys.com/245x340/media/catalog/product/h/e/heart_of_chornobyl.jpg)   No 9. \-38%](https://www.cdkeys.com/black-friday-sale/s-t-a-l-k-e-r-2-heart-of-chernobyl-pc-steam)
+8.    [![S.T.A.L.K.E.R. 2: Heart of Chornobyl PC (EU & North America)](https://cdn.cdkeys.com/245x340/media/catalog/product/h/e/heart_of_chornobyl.jpg)   No 8. \-38%](https://www.cdkeys.com/black-friday-sale/s-t-a-l-k-e-r-2-heart-of-chernobyl-pc-steam)
     
     **[S.T.A.L.K.E.R. 2: Heart of Chornobyl PC (EU & North America)](https://www.cdkeys.com/black-friday-sale/s-t-a-l-k-e-r-2-heart-of-chernobyl-pc-steam "S.T.A.L.K.E.R. 2: Heart of Chornobyl PC (EU & North America)")**
     
