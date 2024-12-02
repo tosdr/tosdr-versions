@@ -107,11 +107,11 @@ Top downloads
 
 Latest releases
 
-* [Save The Meeklits!](https://www.myabandonware.com/game/save-the-meeklits-td4)
-* [Mavis Beacon Teaches Typing: Version 17](https://www.myabandonware.com/game/mavis-beacon-teaches-typing-version-17-td3)
-* [Mavis Beacon Teaches Typing: Version 16](https://www.myabandonware.com/game/mavis-beacon-teaches-typing-version-16-td2)
-* [Grave Spirit](https://www.myabandonware.com/game/grave-spirit-td1)
-* [Urban Uprising: Dark New World](https://www.myabandonware.com/game/urban-uprising-dark-new-world-td0)
+* [Color Spreading](https://www.myabandonware.com/game/color-spreading-td9)
+* [Bust-A-Move Again](https://www.myabandonware.com/game/bust-a-move-again-97x)
+* [Princess Maker](https://www.myabandonware.com/game/princess-maker-ej4)
+* [Professor McLogic Saves the Day](https://www.myabandonware.com/game/professor-mclogic-saves-the-day-td8)
+* [Hello Kitty: Dream Carnival](https://www.myabandonware.com/game/hello-kitty-dream-carnival-u2v)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
