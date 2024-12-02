@@ -196,57 +196,63 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Instantaneous, Nicely Designed, Graphical Invoices
-> --------------------------------------------------
+> Impossible to run our businesses without IO
+> -------------------------------------------
 > 
-> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
+> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
+>   
+> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
+>   
+> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
+>   
+> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
 
-Henry Venter
+Kobus Venter
 
-![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=09ef70b47f8f2122ea3296a99b3561ff78bbd55186b2a811fb82ff928294e76a&c=54867782)  
-Little Nutty Professors
+![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=b1f1203a5447bd9d2d99e255013c7740a89cc031c77700cd127296398b84a259&c=112427124)  
+Oukraal Merino's
 
-![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=09ef70b47f8f2122ea3296a99b3561ff78bbd55186b2a811fb82ff928294e76a&c=193886191)  
-McKaynine Mobility
+![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=b1f1203a5447bd9d2d99e255013c7740a89cc031c77700cd127296398b84a259&c=107223010)  
+Imhoff Equestrian Centre
 
-![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=09ef70b47f8f2122ea3296a99b3561ff78bbd55186b2a811fb82ff928294e76a&c=95942724)  
+![valued client Safe Train Mokgethwa (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8103&file=logo_300_100&type=&fe=b1f1203a5447bd9d2d99e255013c7740a89cc031c77700cd127296398b84a259&c=178536094)  
+Safe Train Mokgethwa (PTY) Ltd
+
+![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=b1f1203a5447bd9d2d99e255013c7740a89cc031c77700cd127296398b84a259&c=30959500)  
+CBR Verwe/Paints
+
+![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=b1f1203a5447bd9d2d99e255013c7740a89cc031c77700cd127296398b84a259&c=83910654)  
+Gemini-IT Group
+
+![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=b1f1203a5447bd9d2d99e255013c7740a89cc031c77700cd127296398b84a259&c=149233623)  
+NWET Pty LTD
+
+![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=b1f1203a5447bd9d2d99e255013c7740a89cc031c77700cd127296398b84a259&c=37858124)  
+NEW BEGINNINGS DESIGNS
+
+![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=b1f1203a5447bd9d2d99e255013c7740a89cc031c77700cd127296398b84a259&c=213403712)  
+ARCHITEK PTY LTD
+
+![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=b1f1203a5447bd9d2d99e255013c7740a89cc031c77700cd127296398b84a259&c=203318861)  
+WIP Digital Solutions
+
+![valued client Roekeloos Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8320&file=logo_300_100&type=&fe=b1f1203a5447bd9d2d99e255013c7740a89cc031c77700cd127296398b84a259&c=7697804)  
+Roekeloos Group
+
+![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=b1f1203a5447bd9d2d99e255013c7740a89cc031c77700cd127296398b84a259&c=183563648)  
+FRAMED BY ANTON (Pty) Ltd.
+
+![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=b1f1203a5447bd9d2d99e255013c7740a89cc031c77700cd127296398b84a259&c=87364799)  
+Lizzy Pop PTY(Ltd)
+
+![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=b1f1203a5447bd9d2d99e255013c7740a89cc031c77700cd127296398b84a259&c=6502112)  
 Kinetic Power Solutions (Pty) Ltd.
 
-![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=09ef70b47f8f2122ea3296a99b3561ff78bbd55186b2a811fb82ff928294e76a&c=188992512)  
-Wiselink Broadband Dundee
+![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=b1f1203a5447bd9d2d99e255013c7740a89cc031c77700cd127296398b84a259&c=54217237)  
+CLEVER STUDENTS
 
-![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=09ef70b47f8f2122ea3296a99b3561ff78bbd55186b2a811fb82ff928294e76a&c=201705851)  
-NIMAWELL
-
-![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=09ef70b47f8f2122ea3296a99b3561ff78bbd55186b2a811fb82ff928294e76a&c=173190790)  
-SLOANE STAR MEAT MARKET
-
-![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=09ef70b47f8f2122ea3296a99b3561ff78bbd55186b2a811fb82ff928294e76a&c=65336620)  
-Forgotten Goods (Pty) Ltd
-
-![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=09ef70b47f8f2122ea3296a99b3561ff78bbd55186b2a811fb82ff928294e76a&c=116087725)  
-Well Hung Art
-
-![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=09ef70b47f8f2122ea3296a99b3561ff78bbd55186b2a811fb82ff928294e76a&c=172043560)  
-PROGRAPHIX PTY LTD
-
-![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=09ef70b47f8f2122ea3296a99b3561ff78bbd55186b2a811fb82ff928294e76a&c=7828879)  
-kidoscabbie
-
-![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=09ef70b47f8f2122ea3296a99b3561ff78bbd55186b2a811fb82ff928294e76a&c=196256551)  
-GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
-
-![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=09ef70b47f8f2122ea3296a99b3561ff78bbd55186b2a811fb82ff928294e76a&c=11838154)  
-J.M. HUMAN RESOURCES
-
-![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=09ef70b47f8f2122ea3296a99b3561ff78bbd55186b2a811fb82ff928294e76a&c=122461395)  
-Dr V Naik Consult
-
-![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=09ef70b47f8f2122ea3296a99b3561ff78bbd55186b2a811fb82ff928294e76a&c=145318859)  
-TRACKFORCE (Pty) Ltd
-
-![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=09ef70b47f8f2122ea3296a99b3561ff78bbd55186b2a811fb82ff928294e76a&c=143255200)  
-SMART GUY PCS (PTY) LTD
+![valued client Super Sound Man (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7403&file=logo_300_100&type=&fe=b1f1203a5447bd9d2d99e255013c7740a89cc031c77700cd127296398b84a259&c=65400798)  
+Super Sound Man (PTY) Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
