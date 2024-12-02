@@ -1,5 +1,3 @@
-UP TO 50% OFF SITEWIDE, ENDS IN00:00:00
-
 [](#)[](# "Search")
 
 [Cool Shirtz](https://shirtz.cool/)
@@ -271,11 +269,11 @@ AUD $
     * [Prints](https://shirtz.cool/collections/cool-printz)
     
 * [NEW IN](https://shirtz.cool/collections/new)
-* [SHOP ALL SALE](https://shirtz.cool/collections/bfcm24)
+* [SALE](https://shirtz.cool/collections/clearance-outlet)
 
 Close Menu
 
-[![Cool Shirtz](//shirtz.cool/cdn/shop/files/sUntitled-9_copy_160x.png?v=1629277498)](https://shirtz.cool/)
+[![Cool Shirtz](//shirtz.cool/cdn/shop/files/2133_160x.png?v=1728700603)](https://shirtz.cool/)
 
 * [Tops](https://shirtz.cool/collections/tops)
     * [Tees](https://shirtz.cool/collections/t-shirts)
@@ -302,7 +300,7 @@ Close Menu
     * [Art Toys](https://shirtz.cool/collections/art-toys)
     * [Prints](https://shirtz.cool/collections/cool-printz)
 * [NEW IN](https://shirtz.cool/collections/new)
-* [SHOP ALL SALE](https://shirtz.cool/collections/bfcm24)
+* [SALE](https://shirtz.cool/collections/clearance-outlet)
 
 * [LOGIN](https://shirtz.cool/account/login)
 * [Register Now](https://shirtz.cool/account/register)
