@@ -407,6 +407,18 @@ Please note that, in some instances, we may decline to honor your request where,
 
 ### [Biden pardons son Hunter’s gun, tax charges](https://www.fox4news.com/news/president-biden-pardons-hunter-son-gun-tax-sentencing)
 
+ [![Wreaths Across America seeking donations ahead of Monday deadline](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/v-wreaths-across-america-dfw-cemetery-7a_kdfw72e7__00.01.02.10.jpg?ve=1&tl=1)
+
+ ![Wreaths Across America seeking donations ahead of Monday deadline](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/v-wreaths-across-america-dfw-cemetery-7a_kdfw72e7__00.01.02.10.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/wreaths-across-america-dallas-fort-worth)
+
+### [Wreaths Across America seeking donations ahead of Monday deadline](https://www.fox4news.com/news/wreaths-across-america-dallas-fort-worth)
+
+ [![Deadly North Richland Hills drive-by shooting targeted wrong house, police say](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/v-amelia-nrh-stonybrooke-dr-shooting_kdfw72ef_146__00.00.12.38.jpg?ve=1&tl=1)
+
+ ![Deadly North Richland Hills drive-by shooting targeted wrong house, police say](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/v-amelia-nrh-stonybrooke-dr-shooting_kdfw72ef_146__00.00.12.38.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/north-richland-hills-shooting-brian-pence)
+
+### [Deadly North Richland Hills drive-by shooting targeted wrong house, police say](https://www.fox4news.com/news/north-richland-hills-shooting-brian-pence)
+
  [![Video: Michigan Ohio State fight erupts on field; both fined $100k](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/storyful-flag-bkgd.jpg?ve=1&tl=1)
 
  ![Video: Michigan Ohio State fight erupts on field; both fined $100k](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/storyful-flag-bkgd.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/michigan-ohio-state-flag-fight-video)
@@ -418,18 +430,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![Bishop T.D. Jakes gives health update after 'life-threatening calamity'](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/td-jakes-updates-kdfweme003_14_20_13_mpg_00.04.15.44.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/bishop-td-jakes-health-update-potters-house-dec-1)
 
 ### [Bishop T.D. Jakes gives health update after 'life-threatening calamity'](https://www.fox4news.com/news/bishop-td-jakes-health-update-potters-house-dec-1)
-
- [![Fort Worth shooting: 1 killed in deadly shooting in north Fort Worth](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/Fort-Worth-Police-generic-Fort-Worth-PD-FWPD-logo.png?ve=1&tl=1)
-
- ![Fort Worth shooting: 1 killed in deadly shooting in north Fort Worth](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/Fort-Worth-Police-generic-Fort-Worth-PD-FWPD-logo.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-shooting-1-killed-north-beach-street)
-
-### [1 killed in deadly shooting in north Fort Worth](https://www.fox4news.com/news/fort-worth-shooting-1-killed-north-beach-street)
-
- [![Sunnyvale wrong way crash kills 1](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/120124-sh-sunnyvale-pd-fx-80-lawson_kdfw7251_186_m_00.01.58.56.jpg?ve=1&tl=1)
-
- ![Sunnyvale wrong way crash kills 1](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/120124-sh-sunnyvale-pd-fx-80-lawson_kdfw7251_186_m_00.01.58.56.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/wrong-way-crash-sunnyvale-kills-1)
-
-### [1 killed in Sunnyvale wrong-way crash](https://www.fox4news.com/news/wrong-way-crash-sunnyvale-kills-1)
 
 ###### [News](https://www.fox4news.com/news)
 
