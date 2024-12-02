@@ -1,4 +1,4 @@
-![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/6740519e1ef85737d089037b_mobil.png)
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/674988ce89c36feadba10771_Miniature%20bandeau%20promo.png)
 
 0
 
@@ -12,7 +12,7 @@ Jours
 
 Heures
 
-Jusqu'à -70€ sur les packs permis : votre permis dès 489,99€ \* ! [J'en profite](https://app.ornikar.com/inscription?redirect=%2Fboutique)
+Jusqu'à -70€ sur les packs permis : votre permis dès 489,99€ \* ! Du 02 au 09/12. [J'en profite](https://app.ornikar.com/inscription?redirect=%2Fboutique)
 
 [![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/65def2364a136ea2280a63c2_logo-ornikar.svg)](https://www.ornikar.com/)
 
@@ -22,7 +22,7 @@ Permis de conduire
 
 [Permis B
 
-![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/6740519e1ef85737d089037b_mobil.png)](https://www.ornikar.com/permis)[Conduite accompagnée](https://www.ornikar.com/conduite-accompagnee)[Conduite à la carte](https://www.ornikar.com/conduite)[Financement CPF](https://www.ornikar.com/permis/demarches/financer-permis/cpf)[Contacter un conseiller](https://app.ornikar.com/contacter-un-conseiller?origin=menu)
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/674988ce89c36feadba10771_Miniature%20bandeau%20promo.png)](https://www.ornikar.com/permis)[Conduite accompagnée](https://www.ornikar.com/conduite-accompagnee)[Conduite à la carte](https://www.ornikar.com/conduite)[Financement CPF](https://www.ornikar.com/permis/demarches/financer-permis/cpf)[Contacter un conseiller](https://app.ornikar.com/contacter-un-conseiller?origin=menu)
 
 [Code de la route](https://www.ornikar.com/code)
 
@@ -1642,7 +1642,7 @@ Versions précédentes
 
 Le contenu dans cet article présente uniquement un caractère informatif et n’engage pas contractuellement Ornikar (à savoir les entités Marianne Formation SAS et Ornikar Assurances). Cette dernière décline toute responsabilité sur les décisions et conséquences qui pourraient en découler.
 
-[BLACK FRIDAY
+[CYBER WEEK
 
 Jusqu'à -70€ sur les packs permis !
 
@@ -1650,7 +1650,7 @@ Jusqu'à -70€ sur les packs permis !
 
 ![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66cf30cfc2183091589f6b9e_parents-hero.webp)
 
-Je découvre](https://www.ornikar.com/)[BLACK FRIDAY
+Je découvre](https://www.ornikar.com/)[CYBER WEEK
 
 Jusqu'à -70€ sur les packs permis !
 
@@ -1732,7 +1732,7 @@ adaptée à votre profil de conducteur.
 
 ![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66cf30cfc2183091589f6b9e_parents-hero.webp)
 
-J'obtiens mon tarif](https://www.ornikar.com/assurance-auto-jeune-conducteur)[Ornikar
+J'obtiens mon tarif](https://www.ornikar.com/assurance-auto-jeune-conducteur)[CYBER WEEK
 
 Jusqu'à -70€ sur les packs permis !
 
@@ -1824,4 +1824,4 @@ n° 20005380
 
 [Gérer mes cookies](javascript:openAxeptioCookies())
 
-[\*Détail des conditions de l'offre Black Friday](https://www.ornikar.com/a-propos/promo-black-friday-2024)
+[\*Détail des conditions de l'offre Cyber Week](https://www.ornikar.com/a-propos/promo-black-friday-2024)
