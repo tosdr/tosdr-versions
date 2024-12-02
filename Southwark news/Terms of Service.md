@@ -20,6 +20,14 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![A bus shelter in Peckham. Credit: TfL](https://southwarknews.co.uk/wp-content/uploads/2024/12/9ef42d8aa23644438fa22851473ecfd6-360x180.jpg)](https://southwarknews.co.uk/area/south-london/bus-stops-fitted-with-cctv-cameras-as-tfl-takes-a-stand-on-violence-against-women-and-girls/)
+    
+    ### [Bus stops fitted with CCTV cameras as TfL ‘takes a stand’ on violence against women and girls](https://southwarknews.co.uk/area/south-london/bus-stops-fitted-with-cctv-cameras-as-tfl-takes-a-stand-on-violence-against-women-and-girls/)
+    
+    [![Yellow hard hat. Studio photography. Credit: ???? (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/12/Yellow_hard_hat-e1733129833681-360x180.jpeg)](https://southwarknews.co.uk/area/southwark/man-arrested-after-suspected-rogue-trading-in-southwark-and-kent/)
+    
+    ### [Man arrested after suspected rogue trading in Southwark and Kent](https://southwarknews.co.uk/area/southwark/man-arrested-after-suspected-rogue-trading-in-southwark-and-kent/)
+    
     [![Greenland Quay, Surrey Quays. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/12/Greenland-Quay-Surrey-Quays.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/rotherhithe/man-charged-with-murder-after-woman-fatally-stabbed-in-surrey-quays/)
     
     ### [Man charged with murder after woman fatally stabbed in Surrey Quays](https://southwarknews.co.uk/area/rotherhithe/man-charged-with-murder-after-woman-fatally-stabbed-in-surrey-quays/)
@@ -47,14 +55,6 @@
     [![Dreaon McDonald Simms](https://southwarknews.co.uk/wp-content/uploads/2024/11/image002-1-1-318x180.jpg)](https://southwarknews.co.uk/news/community/university-scholarships-awarded-to-southwark-students/)
     
     ### [University scholarships awarded to Southwark students](https://southwarknews.co.uk/news/community/university-scholarships-awarded-to-southwark-students/)
-    
-    [![King Charles (credit: Fergus Burnett)(fergusburnett.com)](https://southwarknews.co.uk/wp-content/uploads/2024/11/52369739475_d75c2247fe_o-e1731580430154-1-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/comment-royal-question-divides-southwark-news-office/)
-    
-    ### [Comment: Royal question divides Southwark News office](https://southwarknews.co.uk/area/bermondsey/comment-royal-question-divides-southwark-news-office/)
-    
-    [![It kicks off at Leake Street's tunnel (credit: Stephane Wright)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Niall-KellyCaitlinTommy-highres-360x180.jpg)](https://southwarknews.co.uk/area/waterloo/over-800-bmx-riders-in-santa-outfits-to-cycle-through-waterloo-graffiti-tunnel/)
-    
-    ### [Over 800 BMX riders in Santa outfits to cycle through Waterloo graffiti tunnel](https://southwarknews.co.uk/area/waterloo/over-800-bmx-riders-in-santa-outfits-to-cycle-through-waterloo-graffiti-tunnel/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,6 +105,14 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![A bus shelter in Peckham. Credit: TfL](https://southwarknews.co.uk/wp-content/uploads/2024/12/9ef42d8aa23644438fa22851473ecfd6-360x180.jpg)](https://southwarknews.co.uk/area/south-london/bus-stops-fitted-with-cctv-cameras-as-tfl-takes-a-stand-on-violence-against-women-and-girls/)
+    
+    ### [Bus stops fitted with CCTV cameras as TfL ‘takes a stand’ on violence against women and girls](https://southwarknews.co.uk/area/south-london/bus-stops-fitted-with-cctv-cameras-as-tfl-takes-a-stand-on-violence-against-women-and-girls/)
+    
+    [![Yellow hard hat. Studio photography. Credit: ???? (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/12/Yellow_hard_hat-e1733129833681-360x180.jpeg)](https://southwarknews.co.uk/area/southwark/man-arrested-after-suspected-rogue-trading-in-southwark-and-kent/)
+    
+    ### [Man arrested after suspected rogue trading in Southwark and Kent](https://southwarknews.co.uk/area/southwark/man-arrested-after-suspected-rogue-trading-in-southwark-and-kent/)
+    
     [![Greenland Quay, Surrey Quays. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/12/Greenland-Quay-Surrey-Quays.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/rotherhithe/man-charged-with-murder-after-woman-fatally-stabbed-in-surrey-quays/)
     
     ### [Man charged with murder after woman fatally stabbed in Surrey Quays](https://southwarknews.co.uk/area/rotherhithe/man-charged-with-murder-after-woman-fatally-stabbed-in-surrey-quays/)
@@ -132,14 +140,6 @@ View All Result
     [![Dreaon McDonald Simms](https://southwarknews.co.uk/wp-content/uploads/2024/11/image002-1-1-318x180.jpg)](https://southwarknews.co.uk/news/community/university-scholarships-awarded-to-southwark-students/)
     
     ### [University scholarships awarded to Southwark students](https://southwarknews.co.uk/news/community/university-scholarships-awarded-to-southwark-students/)
-    
-    [![King Charles (credit: Fergus Burnett)(fergusburnett.com)](https://southwarknews.co.uk/wp-content/uploads/2024/11/52369739475_d75c2247fe_o-e1731580430154-1-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/comment-royal-question-divides-southwark-news-office/)
-    
-    ### [Comment: Royal question divides Southwark News office](https://southwarknews.co.uk/area/bermondsey/comment-royal-question-divides-southwark-news-office/)
-    
-    [![It kicks off at Leake Street's tunnel (credit: Stephane Wright)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Niall-KellyCaitlinTommy-highres-360x180.jpg)](https://southwarknews.co.uk/area/waterloo/over-800-bmx-riders-in-santa-outfits-to-cycle-through-waterloo-graffiti-tunnel/)
-    
-    ### [Over 800 BMX riders in Santa outfits to cycle through Waterloo graffiti tunnel](https://southwarknews.co.uk/area/waterloo/over-800-bmx-riders-in-santa-outfits-to-cycle-through-waterloo-graffiti-tunnel/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -243,6 +243,12 @@ Terms of Use
 
 ### Featured Articles
 
+[![A bus shelter in Peckham. Credit: TfL](https://southwarknews.co.uk/wp-content/uploads/2024/12/9ef42d8aa23644438fa22851473ecfd6-120x86.jpg)](https://southwarknews.co.uk/area/south-london/bus-stops-fitted-with-cctv-cameras-as-tfl-takes-a-stand-on-violence-against-women-and-girls/)
+
+### [Bus stops fitted with CCTV cameras as TfL ‘takes a stand’ on violence against women and girls](https://southwarknews.co.uk/area/south-london/bus-stops-fitted-with-cctv-cameras-as-tfl-takes-a-stand-on-violence-against-women-and-girls/)
+
+[2nd December 2024](https://southwarknews.co.uk/area/south-london/bus-stops-fitted-with-cctv-cameras-as-tfl-takes-a-stand-on-violence-against-women-and-girls/)
+
 [![Greenland Quay, Surrey Quays. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/12/Greenland-Quay-Surrey-Quays.-Image-Google-120x86.png)](https://southwarknews.co.uk/area/rotherhithe/man-charged-with-murder-after-woman-fatally-stabbed-in-surrey-quays/)
 
 ### [Man charged with murder after woman fatally stabbed in Surrey Quays](https://southwarknews.co.uk/area/rotherhithe/man-charged-with-murder-after-woman-fatally-stabbed-in-surrey-quays/)
@@ -272,12 +278,6 @@ Terms of Use
 ### [University scholarships awarded to Southwark students](https://southwarknews.co.uk/news/community/university-scholarships-awarded-to-southwark-students/)
 
 [1st December 2024](https://southwarknews.co.uk/news/community/university-scholarships-awarded-to-southwark-students/)
-
-[![It kicks off at Leake Street's tunnel (credit: Stephane Wright)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Niall-KellyCaitlinTommy-highres-120x86.jpg)](https://southwarknews.co.uk/area/waterloo/over-800-bmx-riders-in-santa-outfits-to-cycle-through-waterloo-graffiti-tunnel/)
-
-### [Over 800 BMX riders in Santa outfits to cycle through Waterloo graffiti tunnel](https://southwarknews.co.uk/area/waterloo/over-800-bmx-riders-in-santa-outfits-to-cycle-through-waterloo-graffiti-tunnel/)
-
-[30th November 2024](https://southwarknews.co.uk/area/waterloo/over-800-bmx-riders-in-santa-outfits-to-cycle-through-waterloo-graffiti-tunnel/)
 
 ### USEFUL PAGES
 
