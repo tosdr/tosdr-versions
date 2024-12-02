@@ -5,14 +5,26 @@
         
         * * *
         
-        * * [![an icon of a man pointing at a white board](https://www.watermarkinsights.com/wp-content/uploads/2024/01/icon-_faculity-success-orange.svg)Accreditation](https://www.watermarkinsights.com/explore/accreditation/)
-            * [![an icon of a certificate with a blue ribbon](https://www.watermarkinsights.com/wp-content/uploads/2024/01/icon-_award-bright-blue.svg)Assessment](https://www.watermarkinsights.com/explore/assessment/)
+        * * [![an icon of a man pointing at a white board](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20800'%3E%3C/svg%3E)
+                
+                ![an icon of a man pointing at a white board](https://www.watermarkinsights.com/wp-content/uploads/2024/01/icon-_faculity-success-orange.svg)
+                
+                Accreditation](https://www.watermarkinsights.com/explore/accreditation/)
+            * [![an icon of a certificate with a blue ribbon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20800'%3E%3C/svg%3E)
+                
+                ![an icon of a certificate with a blue ribbon](https://www.watermarkinsights.com/wp-content/uploads/2024/01/icon-_award-bright-blue.svg)
+                
+                Assessment](https://www.watermarkinsights.com/explore/assessment/)
             * [![a line drawing of a person climbing a graph with a flag on top](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20800'%3E%3C/svg%3E)
                 
                 ![a line drawing of a person climbing a graph with a flag on top](https://www.watermarkinsights.com/wp-content/uploads/2024/01/icon-_outcomes-assessment-projects-orange.svg)
                 
                 Curriculum management](https://www.watermarkinsights.com/solutions/curriculum-strategy/)
-        * * [![an icon of a man giving a speech to a group of people](https://www.watermarkinsights.com/wp-content/uploads/2024/01/icon-_lecture-teal.svg)Faculty activity](https://www.watermarkinsights.com/solutions/faculty-success/)
+        * * [![an icon of a man giving a speech to a group of people](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20800'%3E%3C/svg%3E)
+                
+                ![an icon of a man giving a speech to a group of people](https://www.watermarkinsights.com/wp-content/uploads/2024/01/icon-_lecture-teal.svg)
+                
+                Faculty activity](https://www.watermarkinsights.com/solutions/faculty-success/)
             * [![two hands holding a blue trophy with a star on it](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20800'%3E%3C/svg%3E)
                 
                 ![two hands holding a blue trophy with a star on it](https://www.watermarkinsights.com/wp-content/uploads/2024/01/icon-_student-success-engagement-bright-blue.svg)
@@ -41,6 +53,8 @@
             
             [Hear their story](https://www.watermarkinsights.com/resources/videos/how-southeast-technical-college-streamlines-assessment "Hear their story")
             
+            ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20214%20210'%3E%3C/svg%3E)
+            
             ![](https://www.watermarkinsights.com/wp-content/uploads/2024/10/Nav-Menu-Ad.png)
             
 * [Resources](https://www.watermarkinsights.com/resources)
@@ -49,13 +63,15 @@
         * [Blog](https://www.watermarkinsights.com/resources/blog)
         * [On-demand demos](https://www.watermarkinsights.com/resources/watermark-solution-tours)
         * [Webinars](https://www.watermarkinsights.com/resources/webinars)
-        * [Case studies](https://resources.watermarkinsights.com/share/D1C0C4BB-8B56-44FA-AB6006B3F6EDB87D/?viewType=grid)
-        * [eBooks & guides](https://resources.watermarkinsights.com/share/2233DA0D-0E7F-4A2F-8B04CC564A961F3D/?viewType=grid)
-        * [Reports](https://resources.watermarkinsights.com/share/377FE2EA-D921-4CF7-85687B0B6DFC6885/?viewType=grid)
-        * [Videos](https://resources.watermarkinsights.com/share/22FCF7C3-069E-4A06-929232E072980D01/?viewType=grid)
+        * [Case studies](https://www.watermarkinsights.com/resources/case-studies/)
+        * [eBooks & guides](https://www.watermarkinsights.com/resources/ebooks-guides/)
+        * [Reports](https://www.watermarkinsights.com/resources/reports/)
+        * [Videos](https://www.watermarkinsights.com/resources/videos/)
     * * ### Watermark Demo Week: Dec 10-12
             
             [Register now](https://event.on24.com/wcc/r/4778730/8F65A6CA0DF8F6763C63BEDFBF342BF4/5828487 "Read now")
+            
+            ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20200'%3E%3C/svg%3E)
             
             ![](https://www.watermarkinsights.com/wp-content/uploads/2024/11/Demo-Week-Nav-Ad.png)
             
@@ -70,6 +86,8 @@
             
             [Read about it](https://www.watermarkinsights.com/press/watermarks-educational-impact-suite-finds-success-during-2024-award-season/ "Read about it")
             
+            ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20214%20210'%3E%3C/svg%3E)
+            
             ![](https://www.watermarkinsights.com/wp-content/uploads/2024/06/Regular-Promo.png)
             
 * [For our clients](https://www.watermarkinsights.com/client-resources/)
@@ -81,9 +99,13 @@
             
             [Request Demo](https://www.watermarkinsights.com/request-demo "Request Demo")
             
+            ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20213%20209'%3E%3C/svg%3E)
+            
             ![](/wp-content/uploads/2024/01/Group-21334.png)
             
 * [Sign in](https://www.watermarkinsights.com/client-resources/signon/)
+* [Schedule a Demo](https://www.watermarkinsights.com/request-demo/ "Schedule a Demo")
+    
 
 [Book a meeting](https://www.watermarkinsights.com/request-demo/)
 
@@ -92,14 +114,26 @@
         
         * * *
         
-        * * [![an icon of a man pointing at a white board](https://www.watermarkinsights.com/wp-content/uploads/2024/01/icon-_faculity-success-orange.svg)Accreditation](https://www.watermarkinsights.com/explore/accreditation/)
-            * [![an icon of a certificate with a blue ribbon](https://www.watermarkinsights.com/wp-content/uploads/2024/01/icon-_award-bright-blue.svg)Assessment](https://www.watermarkinsights.com/explore/assessment/)
+        * * [![an icon of a man pointing at a white board](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20800'%3E%3C/svg%3E)
+                
+                ![an icon of a man pointing at a white board](https://www.watermarkinsights.com/wp-content/uploads/2024/01/icon-_faculity-success-orange.svg)
+                
+                Accreditation](https://www.watermarkinsights.com/explore/accreditation/)
+            * [![an icon of a certificate with a blue ribbon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20800'%3E%3C/svg%3E)
+                
+                ![an icon of a certificate with a blue ribbon](https://www.watermarkinsights.com/wp-content/uploads/2024/01/icon-_award-bright-blue.svg)
+                
+                Assessment](https://www.watermarkinsights.com/explore/assessment/)
             * [![a line drawing of a person climbing a graph with a flag on top](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20800'%3E%3C/svg%3E)
                 
                 ![a line drawing of a person climbing a graph with a flag on top](https://www.watermarkinsights.com/wp-content/uploads/2024/01/icon-_outcomes-assessment-projects-orange.svg)
                 
                 Curriculum management](https://www.watermarkinsights.com/solutions/curriculum-strategy/)
-        * * [![an icon of a man giving a speech to a group of people](https://www.watermarkinsights.com/wp-content/uploads/2024/01/icon-_lecture-teal.svg)Faculty activity](https://www.watermarkinsights.com/solutions/faculty-success/)
+        * * [![an icon of a man giving a speech to a group of people](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20800'%3E%3C/svg%3E)
+                
+                ![an icon of a man giving a speech to a group of people](https://www.watermarkinsights.com/wp-content/uploads/2024/01/icon-_lecture-teal.svg)
+                
+                Faculty activity](https://www.watermarkinsights.com/solutions/faculty-success/)
             * [![two hands holding a blue trophy with a star on it](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20800'%3E%3C/svg%3E)
                 
                 ![two hands holding a blue trophy with a star on it](https://www.watermarkinsights.com/wp-content/uploads/2024/01/icon-_student-success-engagement-bright-blue.svg)
@@ -128,6 +162,8 @@
             
             [Hear their story](https://www.watermarkinsights.com/resources/videos/how-southeast-technical-college-streamlines-assessment "Hear their story")
             
+            ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20214%20210'%3E%3C/svg%3E)
+            
             ![](https://www.watermarkinsights.com/wp-content/uploads/2024/10/Nav-Menu-Ad.png)
             
 * [Resources](https://www.watermarkinsights.com/resources)
@@ -136,13 +172,15 @@
         * [Blog](https://www.watermarkinsights.com/resources/blog)
         * [On-demand demos](https://www.watermarkinsights.com/resources/watermark-solution-tours)
         * [Webinars](https://www.watermarkinsights.com/resources/webinars)
-        * [Case studies](https://resources.watermarkinsights.com/share/D1C0C4BB-8B56-44FA-AB6006B3F6EDB87D/?viewType=grid)
-        * [eBooks & guides](https://resources.watermarkinsights.com/share/2233DA0D-0E7F-4A2F-8B04CC564A961F3D/?viewType=grid)
-        * [Reports](https://resources.watermarkinsights.com/share/377FE2EA-D921-4CF7-85687B0B6DFC6885/?viewType=grid)
-        * [Videos](https://resources.watermarkinsights.com/share/22FCF7C3-069E-4A06-929232E072980D01/?viewType=grid)
+        * [Case studies](https://www.watermarkinsights.com/resources/case-studies/)
+        * [eBooks & guides](https://www.watermarkinsights.com/resources/ebooks-guides/)
+        * [Reports](https://www.watermarkinsights.com/resources/reports/)
+        * [Videos](https://www.watermarkinsights.com/resources/videos/)
     * * ### Watermark Demo Week: Dec 10-12
             
             [Register now](https://event.on24.com/wcc/r/4778730/8F65A6CA0DF8F6763C63BEDFBF342BF4/5828487 "Read now")
+            
+            ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20200'%3E%3C/svg%3E)
             
             ![](https://www.watermarkinsights.com/wp-content/uploads/2024/11/Demo-Week-Nav-Ad.png)
             
@@ -157,6 +195,8 @@
             
             [Read about it](https://www.watermarkinsights.com/press/watermarks-educational-impact-suite-finds-success-during-2024-award-season/ "Read about it")
             
+            ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20214%20210'%3E%3C/svg%3E)
+            
             ![](https://www.watermarkinsights.com/wp-content/uploads/2024/06/Regular-Promo.png)
             
 * [For our clients](https://www.watermarkinsights.com/client-resources/)
@@ -168,9 +208,13 @@
             
             [Request Demo](https://www.watermarkinsights.com/request-demo "Request Demo")
             
+            ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20213%20209'%3E%3C/svg%3E)
+            
             ![](/wp-content/uploads/2024/01/Group-21334.png)
             
 * [Sign in](https://www.watermarkinsights.com/client-resources/signon/)
+* [Schedule a Demo](https://www.watermarkinsights.com/request-demo/ "Schedule a Demo")
+    
 
 * [Our Solutions](https://www.watermarkinsights.com/solutions/)
 * [Book a meeting](https://www.watermarkinsights.com/request-demo/)
