@@ -575,17 +575,17 @@ MENU MENU
     [Press Releases](https://home.treasury.gov/news/press-releases)
     ---------------------------------------------------------------
     
+    December 2, 2024
+    
+    [Treasury Sanctions Former Government of Uzbekistan Officials for Serious Human Rights Abuse](https://home.treasury.gov/news/press-releases/jy2732)
+    
+    December 2, 2024
+    
+    [Joint Statement by the Department of State and the Department of the Treasury on the United States Government’s Response to Israel’s Cabinet Decision on Extending the Indemnification for Correspondent Banking between Israel and the West Bank](https://home.treasury.gov/news/press-releases/jy2733)
+    
     November 27, 2024
     
     [Treasury Targets Maduro-aligned Officials Leading Post-Election Crackdown in Venezuela](https://home.treasury.gov/news/press-releases/jy2730)
-    
-    November 26, 2024
-    
-    [Treasury Targets Cartel-Enabled Illegal, Unreported, and Unregulated Fishing Operations](https://home.treasury.gov/news/press-releases/jy2729)
-    
-    November 25, 2024
-    
-    [U.S. Department of the Treasury Releases New Report Showing State Small Business Credit Initiative Has Supported $3.1 Billion in New Financing for Small Businesses](https://home.treasury.gov/news/press-releases/jy2728)
     
     [View All Press Releases](https://home.treasury.gov/news/press-releases "View all Press Releases")
     
