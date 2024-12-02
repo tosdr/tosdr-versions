@@ -344,7 +344,7 @@ Do Not Track signals are a web browser setting or mechanism used to indicate to 
     * [Privacy Policy](https://www.dwolla.com/legal/privacy)
     * [Terms of Service](https://www.dwolla.com/legal/dwolla-account-terms-of-service)
     * [Do Not Sell or Share My Personal Information](https://www.dwolla.com/legal/subject-rights-request/)
-    * [Privacy Options](javascript:Osano.cm.showDrawer('osano-cm-dom-info-dialog-open');)
+    * Privacy Options
 
 All Rights Reserved © 2024 Dwolla, Inc.
 
