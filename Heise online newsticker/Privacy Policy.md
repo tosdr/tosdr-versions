@@ -500,7 +500,8 @@ Zweck der Verarbeitung der personenbezogenen Daten ist die Erstellung von Statis
 
 Die INFOnline GmbH erhebt die folgenden Daten, welche nach der DSGVO einen Personenbezug aufweisen:
 
-* IP-Adresse: Im Internet benötigt jedes Gerät zur Übertragung von Daten eine eindeutige Adresse, die sogenannte IP-Adresse. Die zumindest kurzzeitige Speicherung der IP-Adresse ist aufgrund der Funktionsweise des Internets technisch erforderlich. Die IP-Adressen werden vor jeglicher Verarbeitung um 1 Byte gekürzt und nur anonymisiert weiterverarbeitet. Es erfolgt keine Speicherung oder weitere Verarbeitung der ungekürzten IP-Adressen.
+* IP-Adresse: Im Internet benötigt jedes Gerät zur Übertragung von Daten eine eindeutige Adresse, die sogenannte IP-Adresse. Die zumindest kurzzeitige Speicherung der IP-Adresse ist aufgrund der Funktionsweise des Internets technisch erforderlich. Die IP-Adressen werden ungekürzt weiterverarbeitet.  
+    
 * Einen zufällig erzeugten Client-Identifier: Die Reichweitenverarbeitung verwendet zur Wiedererkennung von Computersystemen alternativ entweder ein Cookie mit der Kennung „ioam.de", ein „Local Storage Object“ oder eine Signatur, die aus verschiedenen automatisch übertragenen Informationen Ihres Browsers erstellt wird. Diese Kennung ist für einen Browser eindeutig, solange das Cookie oder Local Storage Object nicht gelöscht wird. Eine Messung der Daten und anschließende Zuordnung zu dem jeweiligen Client-Identifier ist daher auch dann möglich, wenn Sie andere Webseiten aufrufen, die ebenfalls das Messverfahren („SZMnG“) der INFOnline GmbH nutzen. Die Gültigkeit des Cookies ist auf maximal 1 Jahr beschränkt.
 * Bei der Nutzung von Apps einen Geräte-Identifier: Die Reichweitenmessung verwendet zur Wiedererkennung von Geräten eindeutige Kennungen des Endgerätes oder eine Signatur, die aus verschiedenen automatisch übertragenen Informationen Ihres Gerätes erstellt wird. Eine Messung der Daten und anschließende Zuordnung zu dem jeweiligen Identifier ist unter Umständen auch dann möglich, wenn Sie andere Applikationen aufrufen, die ebenfalls das Messverfahren („SZMnG“) der INFOnline GmbH nutzen. Folgende eindeutige Geräte-Kennungen können als Hash an die INFOnline GmbH übermittelt werden:  
       
@@ -512,11 +513,11 @@ Die INFOnline GmbH erhebt die folgenden Daten, welche nach der DSGVO einen Perso
 
 Das Messverfahren der INFOnline GmbH, welches auf dieser Webseite eingesetzt wird, ermittelt Nutzungsdaten. Dies geschieht, um die Leistungswerte Page Impressions, Visits und Clients zu erheben und weitere Kennzahlen daraus zu bilden (z. B. qualifizierte Clients). Darüber hinaus werden die gemessenen Daten wie folgt genutzt:
 
-* Eine sogenannte Geolokalisierung, also die Zuordnung eines Webseitenaufrufs zum Ort des Aufrufs, erfolgt ausschließlich auf der Grundlage der anonymisierten IP-Adresse und nur bis zur geografischen Ebene der Bundesländer / Regionen. Aus den so gewonnenen geografischen Informationen kann in keinem Fall ein Rückschluss auf den konkreten Aufenthaltsort eines Nutzers gezogen werden.
+* Eine sogenannte Geolokalisierung, also die Zuordnung eines Webseitenaufrufs zum Ort des Aufrufs, erfolgt ausschließlich auf der Grundlage der IP-Adresse und nur bis zur geografischen Ebene der Bundesländer / Regionen. Aus den so gewonnenen geografischen Informationen kann in keinem Fall ein Rückschluss auf den konkreten Aufenthaltsort eines Nutzers gezogen werden.
 * Die Nutzungsdaten eines technischen Clients (bspw. eines Browsers auf einem Gerät) werden webseitenübergreifend zusammengeführt und in einer Datenbank gespeichert. Diese Informationen werden zur technischen Abschätzung der Sozioinformation Alter und Geschlecht verwendet und an die Dienstleister der AGOF zur weiteren Reichweitenverarbeitung übergeben. Im Rahmen der AGOF-Studie werden auf Basis einer zufälligen Stichprobe Soziomerkmale technisch abgeschätzt, welche sich den folgenden Kategorien zuordnen lassen: Alter, Geschlecht, Nationalität, Berufliche Tätigkeit, Familienstand, Allgemeine Angaben zum Haushalt, Haushalts-Einkommen, Wohnort, Internetnutzung, Online-Interessen, Nutzungsort, Nutzertyp.
 
-Die vollständige IP-Adresse wird von der INFOnline GmbH nicht gespeichert. Die gekürzte IP-Adresse wird maximal 60 Tage gespeichert. Die Nutzungsdaten in Verbindung mit dem eindeutigen Identifier werden maximal 6 Monate gespeichert.  
-Die IP-Adresse wie auch die gekürzte IP-Adresse werden nicht weitergegeben. Für die Erstellung der AGOF-Studie werden Daten mit Client-Identifiern an die folgenden Dienstleister der AGOF weitergegeben:
+Die IP-Adresse wird maximal 60 Tage gespeichert. Die Nutzungsdaten in Verbindung mit dem eindeutigen Identifier werden maximal 6 Monate gespeichert.  
+Die IP-Adresse werden nicht weitergegeben. Für die Erstellung der AGOF-Studie werden Daten mit Client-Identifiern an die folgenden Dienstleister der AGOF weitergegeben:
 
 * Kantar Deutschland GmbH ([https://www.tns-infratest.com/](https://www.tns-infratest.com/))
 * Ankordata GmbH & Co. KG ([https://www.ankordata.de/](https://www.ankordata.de/))
@@ -772,6 +773,8 @@ Die rasante Entwicklung des Internets macht von Zeit zu Zeit Anpassungen in unse
 * 01.07.2024: Die [individuellen Datenschutzinformationen für die Pro-Services](https://www.heise.de/Individuelle-Datenschutzinformationen-fuer-Pro-Services-der-Heise-Medien-GmbH-Co-KG-9784579.html) wurden in die Liste der Online-Angebote aufgenommen und dort verlinkt
 * 23.08.2024: Änderung von Punkt 1 der [individuellen Datenschutzinformationen für heise online und Telepolis](https://www.heise.de/Individuelle-Datenschutzinformationen-fuer-heise-online-und-Telepolis-4058147.html), "Google Ad Manager / Google Ad Exchange / Google Advertising Products (Google Ads)" (3. Absatz)
 * 29.08.2024: Erweiterung der [individuellen Datenschutzinformationen für heise online und Telepolis](https://www.heise.de/Individuelle-Datenschutzinformationen-fuer-heise-online-und-Telepolis-4058147.html) um Punkt 22, "Datawrapper"
+* 02.12.2024: Änderung Punkt 8.1.2. hinsichtlich der Änderung zur Verarbeitung von IP-Adressen durch die INFOnline  
+    
 
 Hannover, den 12. Juni 2018
 
