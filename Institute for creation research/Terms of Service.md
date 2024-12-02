@@ -165,6 +165,92 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
+More Human Body
+
+[![](/i/Main%20Stage%20-%201400x1050/Young_Adults_Covid_1400x1050.jpg)](https://www.icr.org/article/young-adults-are-half-of-nyc-covid-19-cases)
+
+[Young Adults Are Half of NYC's COVID-19 Cases](https://www.icr.org/article/young-adults-are-half-of-nyc-covid-19-cases/)
+
+As of March 23, 2020, New York City remains the epicenter for both the total number of COVID-19 cases and the number of new cases. The Daily Case Data...
+
+BY: [RANDY J. GULIUZZA, P.E., M.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=203)
+
+[![](/i/Main%20Stage%20-%201400x1050/Blunder_Junk_DNA_1400x1050.jpg)](https://www.icr.org/article/embarrassment-evolutionary-blunder-junk-dna)
+
+[Embarrassment Continues over Evolutionary Blunder about.,.](https://www.icr.org/article/embarrassment-evolutionary-blunder-junk-dna/)
+
+Recent research from the Okinawa Institute of Science and Technology Graduate University (OIST) continues to highlight how evolutionary theory influenced...
+
+BY: [RANDY J. GULIUZZA, P.E., M.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=203)
+
+[![](/i/Main%20Stage%20-%201400x1050/Control_Loops_Humans_Nature_1400x1050.jpg)](https://www.icr.org/article/control-loops-in-humans-and-nature)
+
+[Control Loops in Humans and Nature](https://www.icr.org/article/control-loops-in-humans-and-nature/)
+
+Ever had a blood test? Along with a value measured, there are also the normal max/min limits for that value. This implies that the body normally controls...
+
+BY: [EDWARD SIEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=247)
+
+More Creation Q&A
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/palo_duro_deep_time.jpg)](https://www.icr.org/article/does-palo-duro-canyon-show-deep-time)
+
+[Does Palo Duro Canyon Show Deep Time?](https://www.icr.org/article/does-palo-duro-canyon-show-deep-time/)
+
+Some friends and I recently hiked into Texas’ Palo Duro Canyon, where sedimentary rock layers span the horizon. Eighteenth-century naturalists...
+
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/does_radioisotope_dating.jpg)](https://www.icr.org/article/does-radioisotope-dating-prove-an-old-earth)
+
+[Does Radioisotope Dating Prove an Old Earth?](https://www.icr.org/article/does-radioisotope-dating-prove-an-old-earth/)
+
+Tim Clarey, Ph.D., and Vernon R. Cupps, Ph.D.\* When most people think about radioisotope dating, they think of carbon-14 (C-14), or radiocarbon...
+
+BY:  [VARIOUS AUTHORS](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=35)
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/q%26a_where_did_faces_come_from.jpg)](https://www.icr.org/article/where-did-faces-come-from)
+
+[Where Did Faces Come From?](https://www.icr.org/article/where-did-faces-come-from/)
+
+Animals don’t laugh, smirk, roll their eyes, or give subtle squints like humans do. Hundreds of different tiny facial expressions can convey our...
+
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+
+Shop Related Products
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10027359/file.jpg)
+
+The Global Flood](https://store.icr.org/dr-john-morris-the-global-flood.html)
+
+$14.99
+
+$19.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10027370/file.jpg)
+
+The Global Flood - eBook](https://store.icr.org/dr-john-morris-the-global-flood-ebook.html)
+
+$9.99
+
+$19.99
+
+[](https://store.icr.org/.html)
+
+$
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/15818899/file.jpg)
+
+The Fossil Record - eBook](https://store.icr.org/the-fossil-record-ebook.html)
+
+$9.99
+
+$19.99
+
+[](https://store.icr.org/.html)
+
+$
+
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
