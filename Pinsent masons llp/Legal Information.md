@@ -683,7 +683,7 @@ See our [Terms and Conditions](https://www.pinsentmasons.com/legal-notices/term
     
     We operate in Luxembourg through our affiliated entity Pinsent Masons Luxembourg LLP.
     
-    Pinsent Masons Luxembourg LLP is a limited liability partnership registered in England and Wales (registered number: OC442676) authorised and regulated by the Solicitors Regulation Authority (SRA Number 8005622), with its place of business at 69 Boulevard de la Pétrusse L-2320.
+    Pinsent Masons Luxembourg LLP (acting through its Luxembourg branch) is a limited liability partnership registered in England and Wales (registered number: OC442676) and in Luxembourg (RCS Luxembourg B286543) authorised and regulated by the Solicitors Regulation Authority (SRA Number 8005622) and by the Barreau de Luxembourg (Luxembourg Bar) (list V), with its place of business at 69 Boulevard de la Pétrusse L-2320.
     
     Our Luxembourg office comprises lawyers (Avocats) who are regulated by the Barreau de Luxembourg (Luxembourg Bar) and may also have a number of lawyers from other jurisdictions who are members of foreign Bars. Further information on our people and their professional qualifications [can be found on our site](https://www.pinsentmasons.com/locations/europe/luxembourg/luxembourg).
     
