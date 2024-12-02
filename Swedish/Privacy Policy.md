@@ -77,10 +77,6 @@ We'll use your location to find clinics, hospitals and doctors closest to you.
 
 [](javascript:void(0) "Close")
 
-Inclement Weather Updates
-
-[Learn more about potential closures and impacts on Swedish Hospitals and Clinics.](https://blog.swedish.org/swedish-blog/inclement-weather-information)
-
 Terms of Use & Privacy Policy
 =============================
 
