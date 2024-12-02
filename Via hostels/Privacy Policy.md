@@ -68,20 +68,20 @@ travel • live • work • interact • share • repeat • 
 [fun from day one!](#)
 ----------------------
 
-* [fun from day one!](#tab_674d8a6b8f7b7)
+* [fun from day one!](#tab_674de27f19f52)
     ---------------------------------------
     
-    [We are here to offer more than just accommodation. We are committed to provide you a home away from home, where you can instantly feel like a part of a community of likeminded people. We have events running at the hostel every day of the week, so that you can meet other travellers and have fun from day one!](#tab_674d8a6b8f7b7)
+    [We are here to offer more than just accommodation. We are committed to provide you a home away from home, where you can instantly feel like a part of a community of likeminded people. We have events running at the hostel every day of the week, so that you can meet other travellers and have fun from day one!](#tab_674de27f19f52)
     
-* [fomo no more!](#tab_674d8a6b8f7c7)
+* [fomo no more!](#tab_674de27f19f66)
     -----------------------------------
     
-    [We want you to experience Amsterdam in the best way possible, with no room for fomo. We’re here to give you the coolest tips and recommendations for your visit, from our many local perspectives. Our staff is an amazing mix of true Amsterdammers and international locals who are there for you 24/7.](#tab_674d8a6b8f7c7)
+    [We want you to experience Amsterdam in the best way possible, with no room for fomo. We’re here to give you the coolest tips and recommendations for your visit, from our many local perspectives. Our staff is an amazing mix of true Amsterdammers and international locals who are there for you 24/7.](#tab_674de27f19f66)
     
-* [we’ve got you covered, dude](#tab_674d8a6b8f7d2)
+* [we’ve got you covered, dude](#tab_674de27f19fab)
     -------------------------------------------------
     
-    [You are part of the international and unique Via family as you check in. Our spaces just boost creativity and they are designed for all kinds of needs; make connections, have fun, eat & drink, join activities, sleep, connect online and offline, make memories, take cool photos… We come from all around the world just like our guests, so we really get you, dude.](#tab_674d8a6b8f7d2)
+    [You are part of the international and unique Via family as you check in. Our spaces just boost creativity and they are designed for all kinds of needs; make connections, have fun, eat & drink, join activities, sleep, connect online and offline, make memories, take cool photos… We come from all around the world just like our guests, so we really get you, dude.](#tab_674de27f19fab)
     
 
 ##### [view facilities](https://www.viahostels.com/facilities/)
@@ -117,6 +117,9 @@ follow us on social
 
 [](https://www.instagram.com/viaamsterdam/)
 
+[Happy Monday! We are excited for a new week of buz ![Happy Monday! We are excited for a new week of buzzing experiences🥳
+#viaamsterdam #hostellife #solotravel #receptiondecor #checkitout](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DDEfaV3su_N/) 
+
 [A week at Via! 😍 Unwind and enjoy nightly even ![A week at Via! 😍
 Unwind and enjoy nightly events crafted just for that holiday bliss! 🎉
 #hostellife #hostelevents #solotrip #traveladdict](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DDATpAfsfiy/) 
@@ -151,9 +154,6 @@ Check out this guide for the best ways to experience it, and book your stay with
 #viaamsterdam #christmasdecor #christmastree #hostelchristmas #winterwonderland](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DCcJoaQt-2I/) 
 
 [Did you know that you can borrow a bunch of games ![Did you know that you can borrow a bunch of games for free when you're staying with us?🎲🎯 We have a big selection for you and your travel buddies to connect over, just ask at the bar when the competition urge kicks in!😅🙌](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DCZXGQqM63B/) 
-
-[We’re simply huge Via fans!!🤭🤞🏼 #viaam ![We’re simply huge Via fans!!🤭🤞🏼
-#viaamsterdam #hospitality #service #trend](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DCWslNutoOW/) 
 
 current & upcoming events
 -------------------------
