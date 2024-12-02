@@ -123,44 +123,44 @@ Advertisement
     The Fog of War
     
     Winner of the Academy Award for Best DocumentaryIt is the story of America as seen through the eyes of the former Secretary of Defense, Robert S. McNamara. One of the most controversial and influe...](https://documentaryheaven.com/the-fog-of-war/ "The Fog of War")
+* [![Pedigree Dogs Exposed](/wp-content/thumbnails/2539-100x70.jpg?x53432)
+    
+    Pedigree Dogs Exposed
+    
+    Pedigree dogs are suffering from genetic diseases following years of inbreeding, an investigation has found.A BBC documentary says they are suffering acute problems because looks are emphasised ov...](https://documentaryheaven.com/bbc-pedigree-dogs-exposed/ "Pedigree Dogs Exposed")
 * [![Why The Industrial Revolution Happened Here](/wp-content/thumbnails/8018-100x70.jpeg?x53432)
     
     Why The Industrial Revolution Happened Here
     
     Professor Jeremy Black examines one of the most extraordinary periods in British history: the Industrial Revolution. He explains the unique economic, social and political conditions that by the 19th c...](https://documentaryheaven.com/why-industrial-revolution-happened-here/ "Why The Industrial Revolution Happened Here")
-* [![Louis Theroux: Drinking To Oblivion](/wp-content/thumbnails/16353-100x70.jpg?x53432)
-    
-    Louis Theroux: Drinking To Oblivion
-    
-    Drinking To Oblivion sees Louis Theroux set about spending some time in the world of extreme drinkers, getting to know people who consume alcohol not just to excess but to the point of total oblivio...](https://documentaryheaven.com/louis-theroux-drinking-to-oblivion/ "Louis Theroux: Drinking To Oblivion")
 
 ###### Throwback Documentaries
 
-* [![The War Business](/wp-content/thumbnails/13771-100x70.jpg?x53432)
+* [![Dogfighting Undercover](/wp-content/thumbnails/339-100x70.png?x53432)
     
-    The War Business
+    Dogfighting Undercover
     
-    The War Business is a film by Mark Stucke which deals with the practice of private armies or mercenaries hired by governments and multinational companies. These are typically companies](https://documentaryheaven.com/war-business/ "The War Business")
-* [![Jaguars Born Free](/wp-content/thumbnails/7436-100x70.jpeg?x53432)
+    Dogfighting is a blood sport utilized for entertainment and may also create a revenue stream from stud fees, admission fees, and gambling.This BBC Documentary shows an Undercover Investigation into](https://documentaryheaven.com/dogfighting-undercover/ "Dogfighting Undercover")
+* [![Wheel of Time](/wp-content/thumbnails/7481-100x70.jpg?x53432)
     
-    Jaguars Born Free
+    Wheel of Time
     
-    In this Natural World special, three tiny orphaned jaguar cubs are discovered in a Brazilian forest. A family decide to take the place of their mother and train them to become wild again. Over two yea](https://documentaryheaven.com/jaguars-born-free/ "Jaguars Born Free")
-* [![Cops Behaving Badly](/wp-content/thumbnails/7048-100x70.png?x53432)
+    Wheel of Time is a 2003 documentary film by German director Werner Herzog about Tibetan Buddhism. The title refers to the Kalachakra sand mandala that provides a recurring image for the film.The f](https://documentaryheaven.com/wheel-of-time/ "Wheel of Time")
+* [![Into The Inferno](/wp-content/thumbnails/13678-100x70.jpg?x53432)
     
-    Cops Behaving Badly
+    Into The Inferno
     
-    What happens when the police fail in their sworn duty to protect life, when they get it wrong or when police officers themselves break the law?BBC’s Richard Bilton investigates cops who behave bad](https://documentaryheaven.com/cops-behaving-badly/ "Cops Behaving Badly")
-* [![Do You Know What Time It Is?](/wp-content/thumbnails/295-100x70.png?x53432)
+    Into The Inferno is filmmaker Werner Herzog's latest documentary and it sees himself and volcanologist Clive Oppenheimer set out on a surreal journey which takes them all around th](https://documentaryheaven.com/into-inferno/ "Into The Inferno")
+* [![Who Wants A Ride?](/wp-content/thumbnails/3920-100x70.jpg?x53432)
     
-    Do You Know What Time It Is?
+    Who Wants A Ride?
     
-    Particle physicist Professor Brian Cox asks, 'What time is it?' It's a simple question and it sounds like it has a simple answer. But do we really know what it is that we're asking?Brian visits th](https://documentaryheaven.com/do-you-know-what-time-it-is/ "Do You Know What Time It Is?")
-* [![A Competent Democracy](/wp-content/thumbnails/6634-100x70.jpg?x53432)
+    Who Wants A Ride? is about the Austin Texas pedicab scene. Pedicab drivers tell stories from the streets where they work. The candid tales are funny , sometimes lurid , anthropological lore.](https://documentaryheaven.com/who-wants-a-ride/ "Who Wants A Ride?")
+* [![Dream/Killer](/wp-content/thumbnails/12525-100x70.jpg?x53432)
     
-    A Competent Democracy
+    Dream/Killer
     
-    A Competent Democracy presents a detailed analysis of our political systems today and asks the question throughout: Do our political systems today offer any technical approach to governing society and](https://documentaryheaven.com/a-competent-democracy/ "A Competent Democracy")
+    Dream/Killer is a hard hitting film which documents the story of Ryan Ferguson, a young man who was wrongfully convicted of a brutal murder all because his best friend dreamt it up. We witness th](https://documentaryheaven.com/dream-killer/ "Dream/Killer")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
