@@ -268,7 +268,7 @@ Tasks & Projects
 
  [![kpi-company-efficiency](/upload/optimizer/converted/images/content_en/icons/menu/kpi-company-efficiency.png.webp?1733079787440)KPI – Company Efficiency](https://www.bitrix24.com/apps/app/apikit.ikpi/)
 
-[See 500+ apps & integrations](https://www.bitrix24.com/apps/)
+[See 550+ apps & integrations](https://www.bitrix24.com/apps/)
 
 Partners
 
