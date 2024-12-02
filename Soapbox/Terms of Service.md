@@ -333,7 +333,6 @@ Copyright © 2024 Soapbox.
 * Apple Pay
 * Diners Club
 * Discover
-* Meta Pay
 * JCB
 * Mastercard
 * PayPal
