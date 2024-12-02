@@ -288,9 +288,14 @@ Please reference the Directed Funding Policy: [http://openid.net/wordpress-conte
 
 No fee is required for certifications to conformance profiles in the pilot phase, since for those we are still “testing the tests”. Payment will be required for new certifications to those profiles once the pilot phase has been completed and the profiles reach general availability.
 
-#### Global Assured Identity Network (GAIN) POC Participation Agreement
+#### Community Group Participation and Guidelines
 
-The Global Assured Identity Network (GAIN) POC is open to the public including organizations and individuals. To become a participant, [complete the Registration Form and sign the Participation Agreement](https://openid.net/intellectual-property/community-group-participation-agreements/).
+Community Groups (CGs) are open to the public, including organizations and individuals. 
+
+* [Generic Participation Agreement](https://openid.net/wp-content/uploads/2024/11/OIDF_CG-Participation-Agreement_Final_2024-11-12.pdf) (PA)
+* [Community Group Operating Rules](https://openid.net/wp-content/uploads/2024/11/OIDF_CG-Operating-Rules_Final_2024-11-12.pdf)
+* Death and the Digital Estate Community Group [Participation Agreement](https://openid.net/cg/death-and-the-digital-estate/dade-participation-agreements/)
+* Global Assured Identity Network (GAIN) POC [Participation Agreement](https://openid.net/cg/gain-poc/participation-agreements/)
 
 #### Intellectual Property Rights Policy
 
