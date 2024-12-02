@@ -1,4 +1,4 @@
-Black Friday Sale up to 50% OFF See all deals
+Cyber Monday Deals Up To 50% OFF See all deals
 
 Point finders for Google's Find My Device app Order now
 
@@ -32,9 +32,9 @@ Compare products [Store](https://chipolo.net/en-us/pages/chipolo-collection) [Lo
 
 Compare products
 
-Black Friday sale
+Cyber Monday Sale
 
-[Link to the promotion](https://chipolo.net/en-us/pages/black-friday-sale)
+[Link to the promotion](https://chipolo.net/en-us/pages/cyber-monday-sale)
 
 Privacy Policy
 ==============
@@ -416,17 +416,6 @@ It seems like you are on the wrong store compared to your location. Please selec
 Go to site
 
 [Close button Stay on current site](javascript:)
-
-Button to minimize modal
-
-#### New special deals for  
-Cyber Monday!
-
-Join our newsletter and get first access to our special Cyber Monday deals.
-
-     I’M IN!
-
-**Thank you for subscribing!**
 
 Button to close size-chart
 
