@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_16x9.jpg) ![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_360x203.jpg)](https://www.wqad.com/article/news/local/fatal-crashes-thanksgiving-weekend-lasalle-county-illinois-sheriffs-office/526-a253f1aa-dfa2-4cf4-8b6d-b15eb3871358)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/e3c94769-1d2a-411e-bc95-92b21b08bfe3/20241202T195551/e3c94769-1d2a-411e-bc95-92b21b08bfe3_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e3c94769-1d2a-411e-bc95-92b21b08bfe3/20241202T195551/e3c94769-1d2a-411e-bc95-92b21b08bfe3_360x203.jpg)](https://www.wqad.com/article/news/local/contests/register-for-the-chance-for-your-child-to-be-a-ball-kid-at-the-harlem-globetrotters-game-this-january/526-8e8881ff-3368-4072-9076-40b09a0b71fe)
         
-        #### [Multiple fatalities, injuries reported after 3 separate crashes take place in LaSalle County over Thanksgiving weekend](https://www.wqad.com/article/news/local/fatal-crashes-thanksgiving-weekend-lasalle-county-illinois-sheriffs-office/526-a253f1aa-dfa2-4cf4-8b6d-b15eb3871358)
+        #### [Register for the chance for your child to be a ball kid at the Harlem Globetrotters game this January.](https://www.wqad.com/article/news/local/contests/register-for-the-chance-for-your-child-to-be-a-ball-kid-at-the-harlem-globetrotters-game-this-january/526-8e8881ff-3368-4072-9076-40b09a0b71fe)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/2b123806-0ea4-4c3a-b84b-666b3a6a55fd/20241202T041413/2b123806-0ea4-4c3a-b84b-666b3a6a55fd_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/2b123806-0ea4-4c3a-b84b-666b3a6a55fd/20241202T041413/2b123806-0ea4-4c3a-b84b-666b3a6a55fd_360x203.jpg)](https://www.wqad.com/article/life/holidays/hauberg-estate-rock-island-winter-in-bloom-open-house/526-a72c5ee2-2523-46cb-838e-dc1727ec9d62)
+    *  [![](https://media.tegna-media.com/assets/KTVB/images/fd70e72d-818f-4a1d-a69a-94ff0f1ebdd3/20241201T224445/fd70e72d-818f-4a1d-a69a-94ff0f1ebdd3_16x9.jpg) ![](https://media.tegna-media.com/assets/KTVB/images/fd70e72d-818f-4a1d-a69a-94ff0f1ebdd3/20241201T224445/fd70e72d-818f-4a1d-a69a-94ff0f1ebdd3_360x203.jpg)](https://www.wqad.com/article/news/local/1-dead-2-injured-car-crashes-lands-top-nampa-home-police/277-f5089a44-555a-45f6-b7ce-3d890e3e18d2)
         
-        #### ['Winter in Bloom' at the Hauberg Estate: Hundreds attend holiday open house in Rock Island](https://www.wqad.com/article/life/holidays/hauberg-estate-rock-island-winter-in-bloom-open-house/526-a72c5ee2-2523-46cb-838e-dc1727ec9d62)
+        #### [1 dead, 2 injured after car crashes and lands on top of Idaho home, police say](https://www.wqad.com/article/news/local/1-dead-2-injured-car-crashes-lands-top-nampa-home-police/277-f5089a44-555a-45f6-b7ce-3d890e3e18d2)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/dba4c286-1a71-4980-a0d7-847dea4d0727/20241202T131229/dba4c286-1a71-4980-a0d7-847dea4d0727_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/dba4c286-1a71-4980-a0d7-847dea4d0727/20241202T131229/dba4c286-1a71-4980-a0d7-847dea4d0727_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/3cad179d-5c30-466c-b292-3ff7cabd0a83/3cad179d-5c30-466c-b292-3ff7cabd0a83_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/3cad179d-5c30-466c-b292-3ff7cabd0a83/3cad179d-5c30-466c-b292-3ff7cabd0a83_360x203.jpg)](https://www.wqad.com/article/weather/three-degree-guarantee/the-center-for-youth-and-family-solutions-has-been-selected-as-the-three-degree-recipient-for-december-2024/526-e12ca204-8012-4d52-915b-5ce56cfe326b)
         
-        #### [Light snow and another cold day Monday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [The Center for Youth and Family Solutions has been selected as the Three Degree recipient for December 2024](https://www.wqad.com/article/weather/three-degree-guarantee/the-center-for-youth-and-family-solutions-has-been-selected-as-the-three-degree-recipient-for-december-2024/526-e12ca204-8012-4d52-915b-5ce56cfe326b)
         
-    *  [![](https://media.tegna-media.com/assets/CCT/images/ba7d2016-edeb-449f-901e-b97ec0d6ce44/20241130T192614/ba7d2016-edeb-449f-901e-b97ec0d6ce44_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/ba7d2016-edeb-449f-901e-b97ec0d6ce44/20241130T192614/ba7d2016-edeb-449f-901e-b97ec0d6ce44_360x203.jpg)](https://www.wqad.com/article/news/nation-world/heavy-snow-blankets-parts-of-the-us/507-44798a84-f4e7-4d84-bf29-ebe649f73efb)
+    *  [![](https://media.tegna-media.com/assets/WOI/images/c7bec1c2-4444-4c79-bf27-b0659d0da8be/20241202T135303/c7bec1c2-4444-4c79-bf27-b0659d0da8be_16x9.jpg) ![](https://media.tegna-media.com/assets/WOI/images/c7bec1c2-4444-4c79-bf27-b0659d0da8be/20241202T135303/c7bec1c2-4444-4c79-bf27-b0659d0da8be_360x203.jpg)](https://www.wqad.com/article/traffic/des-moines-traffic-interstate-80-35-235-crashes-updates-delays-forecast-snow-weather/524-9093e9f9-5e18-4a8d-97e4-a3a2ea53a3fc)
         
-        #### [Heavy snow blankets parts of the US during busy holiday travel weekend](https://www.wqad.com/article/news/nation-world/heavy-snow-blankets-parts-of-the-us/507-44798a84-f4e7-4d84-bf29-ebe649f73efb)
+        #### [Snowy roads cause accidents, delays Monday morning](https://www.wqad.com/article/traffic/des-moines-traffic-interstate-80-35-235-crashes-updates-delays-forecast-snow-weather/524-9093e9f9-5e18-4a8d-97e4-a3a2ea53a3fc)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-20°
+21°
 
-![Snow Shower](/assets/shared-images/weather-icons/snow-day_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
