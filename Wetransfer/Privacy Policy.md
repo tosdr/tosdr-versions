@@ -330,7 +330,6 @@ If you have any questions, or complaints, or if you want to exercise your privac
     * [Culture](https://wetransfer.com/explore/culture)
     * [Locations](https://wetransfer.com/explore/locations)
     * [How to apply](https://wetransfer.com/explore/how-to-apply)
-    * [B Corp](https://wetransfer.com/explore/csr)
     * [Newsroom](https://wetransfer.com/blog/newsroom)
     * [Leadership](https://wetransfer.com/explore/corporate/leadership)
     
