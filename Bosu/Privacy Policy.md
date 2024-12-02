@@ -145,35 +145,35 @@ United States (USD $)
 * [YouTube](https://www.youtube.com/channel/UCb3qBl6yySVqSVD9HxiMtyQ)
 
 * Free shipping over $100 📦
-* 🎁 BLACK FRDIAY WEEKEND SALE 🎁
+* 🎁 CYBER mONDAY SALE 🎁
 * TAKE 20% off site wide 🎊
 * Free shipping over $100 📦
-* 🎁 BLACK FRDIAY WEEKEND SALE 🎁
+* 🎁 CYBER mONDAY SALE 🎁
 * TAKE 20% off site wide 🎊
 * Free shipping over $100 📦
-* 🎁 BLACK FRDIAY WEEKEND SALE 🎁
+* 🎁 CYBER mONDAY SALE 🎁
 * TAKE 20% off site wide 🎊
 * Free shipping over $100 📦
-* 🎁 BLACK FRDIAY WEEKEND SALE 🎁
+* 🎁 CYBER mONDAY SALE 🎁
 * TAKE 20% off site wide 🎊
 * Free shipping over $100 📦
-* 🎁 BLACK FRDIAY WEEKEND SALE 🎁
+* 🎁 CYBER mONDAY SALE 🎁
 * TAKE 20% off site wide 🎊
 
 * Free shipping over $100 📦
-* 🎁 BLACK FRDIAY WEEKEND SALE 🎁
+* 🎁 CYBER mONDAY SALE 🎁
 * TAKE 20% off site wide 🎊
 * Free shipping over $100 📦
-* 🎁 BLACK FRDIAY WEEKEND SALE 🎁
+* 🎁 CYBER mONDAY SALE 🎁
 * TAKE 20% off site wide 🎊
 * Free shipping over $100 📦
-* 🎁 BLACK FRDIAY WEEKEND SALE 🎁
+* 🎁 CYBER mONDAY SALE 🎁
 * TAKE 20% off site wide 🎊
 * Free shipping over $100 📦
-* 🎁 BLACK FRDIAY WEEKEND SALE 🎁
+* 🎁 CYBER mONDAY SALE 🎁
 * TAKE 20% off site wide 🎊
 * Free shipping over $100 📦
-* 🎁 BLACK FRDIAY WEEKEND SALE 🎁
+* 🎁 CYBER mONDAY SALE 🎁
 * TAKE 20% off site wide 🎊
 
 Privacy policy
