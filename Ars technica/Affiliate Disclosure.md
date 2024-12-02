@@ -83,17 +83,17 @@ We apply the same rigor and standards of objectivity to these articles as we do 
 
 Most Read
 
-1. [![Listing image for first story in Most Read: The upside-down capacitor in mid-‘90s Macs, proven and documented by hobbyists](https://cdn.arstechnica.net/wp-content/uploads/2024/11/capacitors-768x432.jpg)](https://arstechnica.com/gadgets/2024/11/the-upside-down-capacitor-in-mid-90s-macs-proven-and-documented-by-hobbyists/)
+1. [![Listing image for first story in Most Read: How should we treat beings that might be sentient?](https://cdn.arstechnica.net/wp-content/uploads/2024/11/GettyImages-1182219843-768x432.jpg)](https://arstechnica.com/science/2024/11/how-should-we-treat-beings-that-might-be-sentient/)
     
-    1. [The upside-down capacitor in mid-‘90s Macs, proven and documented by hobbyists](https://arstechnica.com/gadgets/2024/11/the-upside-down-capacitor-in-mid-90s-macs-proven-and-documented-by-hobbyists/)
+    1. [How should we treat beings that might be sentient?](https://arstechnica.com/science/2024/11/how-should-we-treat-beings-that-might-be-sentient/)
     
-2. 2. [How should we treat beings that might be sentient?](https://arstechnica.com/science/2024/11/how-should-we-treat-beings-that-might-be-sentient/)
+2. 2. [The upside-down capacitor in mid-‘90s Macs, proven and documented by hobbyists](https://arstechnica.com/gadgets/2024/11/the-upside-down-capacitor-in-mid-90s-macs-proven-and-documented-by-hobbyists/)
     
-3. 3. [It’s Black Friday, and here are the best shopping deals we could find](https://arstechnica.com/shopping/2024/11/its-black-friday-and-here-are-the-best-shopping-deals-we-could-find/)
+3. 3. [Supermassive black hole binary emits unexpected flares](https://arstechnica.com/science/2024/12/supermassive-black-hole-binary-emits-unexpected-flares/)
     
-4. 4. [Vintage digicams aren’t just a fad. They’re an artistic statement.](https://arstechnica.com/gadgets/2024/11/vintage-digicams-arent-just-a-fad-theyre-an-artistic-statement/)
+4. 4. [It’s (still) Black Friday, and here are the best shopping deals we could find](https://arstechnica.com/shopping/2024/11/its-black-friday-and-here-are-the-best-shopping-deals-we-could-find/)
     
-5. 5. [Code found online exploits LogoFAIL to install Bootkitty Linux backdoor](https://arstechnica.com/security/2024/11/code-found-online-exploits-logofail-to-install-bootkitty-linux-backdoor/)
+5. 5. [Vintage digicams aren’t just a fad. They’re an artistic statement.](https://arstechnica.com/gadgets/2024/11/vintage-digicams-arent-just-a-fad-theyre-an-artistic-statement/)
     
 
 Customize
