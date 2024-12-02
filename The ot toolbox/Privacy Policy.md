@@ -70,11 +70,11 @@ MENUMENU
                 * [Activities to Improve Smooth Visual Pursuits](https://www.theottoolbox.com/activities-smooth-pursuits/)
                 * [What is Visual Scanning](https://www.theottoolbox.com/what-is-visual-scanning/)
                 * [Classroom Accommodations for Visual Impairments](https://www.theottoolbox.com/visual-impairment-accommodations/)
-        * * [![Thanksgiving therapy activities](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        * * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
                 
-                ![Thanksgiving therapy activities](https://www.theottoolbox.com/wp-content/uploads/2023/10/thanksgiving-therapy-activities.png)](https://www.theottoolbox.com/thanksgiving-activities-for-kids/)
+                ![](https://www.theottoolbox.com/wp-content/uploads/2023/11/fine-motor-toy-giveaway.jpg)](https://www.theottoolbox.com/fine-motor-toys/)
                 
-                #### [Thanksgiving Activities for Kids](https://www.theottoolbox.com/thanksgiving-activities-for-kids/)
+                #### [Fine Motor Toys](https://www.theottoolbox.com/fine-motor-toys/)
                 
 * [Free Resources](https://www.theottoolbox.com/category/free-resources/)
 * [The Shop](https://www.theottoolbox.com/shop/)
