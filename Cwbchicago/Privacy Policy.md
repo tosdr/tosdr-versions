@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/STANISLAV-ZHURAVEL-326x245.jpg)](https://cwbchicago.com/2024/11/man-gets-6-years-for-stabbing-69-year-old-aboard-cta-bus-in-the-south-loop.html "Man gets 6 years for stabbing 69-year-old aboard CTA bus in the South Loop")
+
+CTA
+
+### [Man gets 6 years for stabbing 69-year-old aboard CTA bus in the South Loop](https://cwbchicago.com/2024/11/man-gets-6-years-for-stabbing-69-year-old-aboard-cta-bus-in-the-south-loop.html "Man gets 6 years for stabbing 69-year-old aboard CTA bus in the South Loop")
+
+[November 30, 2024 7:54 AM](https://cwbchicago.com/2024/11)
+
+A Libertyville man has been given a six-year prison sentence for stabbing a 69-year-old man aboard a CTA bus in the South Loop. Stanislav Zhuravel, 33, was on pretrial release for three misdemeanor cases at the time of the January 15, 2024, attack.[](https://cwbchicago.com/2024/11/man-gets-6-years-for-stabbing-69-year-old-aboard-cta-bus-in-the-south-loop.html "Man gets 6 years for stabbing 69-year-old aboard CTA bus in the South Loop")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/BRAYAN-CORNIEL-GUTIERREZ-326x245.jpg)](https://cwbchicago.com/2024/11/migrant-tells-chicago-cops-he-carries-a-gun-because-his-son-got-murdered-and-they-didnt-do-anything-about-it-report.html "Migrant tells Chicago cops he carries a gun because his son got murdered and they didn’t do anything about it: report")
+
+Englewood
+
+### [Migrant tells Chicago cops he carries a gun because his son got murdered and they didn’t do anything about it: report](https://cwbchicago.com/2024/11/migrant-tells-chicago-cops-he-carries-a-gun-because-his-son-got-murdered-and-they-didnt-do-anything-about-it-report.html "Migrant tells Chicago cops he carries a gun because his son got murdered and they didn’t do anything about it: report")
+
+[November 30, 2024 7:22 AM](https://cwbchicago.com/2024/11)
+
+A migrant accused of possessing a loaded firearm during a traffic stop told Chicago cops that he carried the gun because somebody murdered his son and the police haven’t done anything about it, according to a CPD report. According to court records, this marks Brayan Corniel-Guitierrez’s seventh arrest in Cook County.[](https://cwbchicago.com/2024/11/migrant-tells-chicago-cops-he-carries-a-gun-because-his-son-got-murdered-and-they-didnt-do-anything-about-it-report.html "Migrant tells Chicago cops he carries a gun because his son got murdered and they didn’t do anything about it: report")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/11/William-Hall-326x245.jpg)](https://cwbchicago.com/2024/11/double-shooting-solved-after-records-show-he-rented-gunmans-get-away-scooter-officials-say.html "Double-shooting solved after records show he rented gunman’s get-away scooter, officials say")
 
 West Garfield Park
@@ -252,26 +272,6 @@ West Garfield Park
 [November 29, 2024 7:09 PM](https://cwbchicago.com/2024/11)
 
 A man required to register as a gun offender is facing new charges after Chicago police used scooter rental records to link him to a double shooting this summer.[](https://cwbchicago.com/2024/11/double-shooting-solved-after-records-show-he-rented-gunmans-get-away-scooter-officials-say.html "Double-shooting solved after records show he rented gunman’s get-away scooter, officials say")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/BB18-326x245.jpg)](https://cwbchicago.com/2024/11/15-year-old-shot-in-englewood-says-it-happened-on-a-block-previously-served-by-shotspotter.html "15-year-old shot in Englewood says it happened on a block previously served by ShotSpotter")
-
-Englewood
-
-### [15-year-old shot in Englewood says it happened on a block previously served by ShotSpotter](https://cwbchicago.com/2024/11/15-year-old-shot-in-englewood-says-it-happened-on-a-block-previously-served-by-shotspotter.html "15-year-old shot in Englewood says it happened on a block previously served by ShotSpotter")
-
-[November 29, 2024 6:16 PM](https://cwbchicago.com/2024/11)
-
-A 15-year-old boy was shot in the chest while standing near a sidewalk in Englewood on Friday afternoon, Chicago police said.[](https://cwbchicago.com/2024/11/15-year-old-shot-in-englewood-says-it-happened-on-a-block-previously-served-by-shotspotter.html "15-year-old shot in Englewood says it happened on a block previously served by ShotSpotter")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/01/Elijah-Manning-326x245.jpg)](https://cwbchicago.com/2024/11/carjacker-who-posted-video-bragging-about-the-crime-has-been-given-a-9-year-sentence.html "Carjacker who posted video bragging about the crime has been given a 9-year sentence")
-
-West Englewood
-
-### [Carjacker who posted video bragging about the crime has been given a 9-year sentence](https://cwbchicago.com/2024/11/carjacker-who-posted-video-bragging-about-the-crime-has-been-given-a-9-year-sentence.html "Carjacker who posted video bragging about the crime has been given a 9-year sentence")
-
-[November 29, 2024 11:39 AM](https://cwbchicago.com/2024/11)
-
-A man accused of carjacking two men and then jumping on social media to stream a brag video about getting the “keys to this b\*\*ch” has been handed a nine-year sentence. Elijah Manning, 20, received another nine years for a suburban robbery, too. The sentences will be served concurrently.[](https://cwbchicago.com/2024/11/carjacker-who-posted-video-bragging-about-the-crime-has-been-given-a-9-year-sentence.html "Carjacker who posted video bragging about the crime has been given a 9-year sentence")
 
 Search
 
