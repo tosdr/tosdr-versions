@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-No problem with service (very good), back in UK, will not hesitate to use again and recommend.
+Thank you so, so, so much for this service!!! It was a godsend!!!! You saved me from having to suffer through NBC's horrid Olympics coverage. Thanks a million! You'll be hearing from me again in 2014 when its time for the Winter Olympics.
 
-Kevin Osborne
+Kristin and Mike Platson
