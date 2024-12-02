@@ -70,7 +70,7 @@ Hardware
 
 #### COLLECTIONS
 
-* [Alan-1](https://atari.com/products/atari-asteroids-recharged-arcademachine)
+* [Ultimate Asteroids Bundle](https://www.atari.com/products/ultimate-asteroids-bundle)
     
     [My Arcade](https://www.atari.com/collections/myarcade)
     
@@ -112,7 +112,7 @@ Hardware
 
 COLLECTIONS
 
-* [Alan-1](https://atari.com/products/atari-asteroids-recharged-arcademachine)
+* [Ultimate Asteroids Bundle](https://www.atari.com/products/ultimate-asteroids-bundle)
     
     [My Arcade](https://www.atari.com/collections/myarcade)
     
