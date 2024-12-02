@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What percentage of workers get lung cancer?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-what-percentage-of-workers-get-lung-cancer.jpg "What Percentage of Workers Get Lung Cancer?")](https://www.pintas.com/lung-cancer/what-percentage-of-workers-get-lung-cancer/ "What Percentage of Workers Get Lung Cancer?")
+[![What can a sexual abuse attorney do for victims of the mormon church?](https://www.pintas.com/wp-content/uploads/2023/04/general-law3-300x200.jpg "What Can a Sexual Abuse Attorney Do for Victims of the Mormon Church?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/what-can-a-sexual-abuse-lawyer-do-for-victims-of-the-mormon-church/ "What Can a Sexual Abuse Attorney Do for Victims of the Mormon Church?")
 
-[#### What Percentage of Workers Get Lung Cancer?](https://www.pintas.com/lung-cancer/what-percentage-of-workers-get-lung-cancer/)
+[#### What Can a Sexual Abuse Attorney Do for Victims of the Mormon Church?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/what-can-a-sexual-abuse-lawyer-do-for-victims-of-the-mormon-church/)
 
-[![How much money is left in the asbestos trust fund?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-lawsuit-lawyer-how-much-money-is-left-in-the-asbestos-trust-fund.jpg "How Much Money Is Left in the Asbestos Trust Fund?")](https://www.pintas.com/practice-areas/lung-cancer/asbestos-trust-fund "How Much Money Is Left in the Asbestos Trust Fund?")
+[![Who can report nursing home abuse?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-who-can-report-nursing-home-abuse-lawyer-scaled.jpg "Who Can Report Nursing Home Abuse?")](https://www.pintas.com/faq/who-can-report-nursing-home-abuse-lawyer/ "Who Can Report Nursing Home Abuse?")
 
-[#### How Much Money Is Left in the Asbestos Trust Fund?](https://www.pintas.com/practice-areas/lung-cancer/asbestos-trust-fund)
+[#### Who Can Report Nursing Home Abuse?](https://www.pintas.com/faq/who-can-report-nursing-home-abuse-lawyer/)
 
-[![Can mesothelioma go into remission?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-can-mesothelioma-go-into-remission.jpg "Can Mesothelioma Go Into Remission?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-mesothelioma-go-into-remission/ "Can Mesothelioma Go Into Remission?")
+[![Do i need a lawyer for my memory care facility abuse claim?](https://www.pintas.com/wp-content/uploads/2021/02/practice-areas-personal-injury-assisted-living-accident-lawyer-do-i-need-a-lawyer-for-my-memory-care-facility-abuse-claim-300x200.jpg "Do I Need a Lawyer for My Memory Care Facility Abuse Claim?")](https://www.pintas.com/faq/do-i-need-a-lawyer-for-my-memory-care-facility-abuse-claim/ "Do I Need a Lawyer for My Memory Care Facility Abuse Claim?")
 
-[#### Can Mesothelioma Go Into Remission?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-mesothelioma-go-into-remission/)
+[#### Do I Need a Lawyer for My Memory Care Facility Abuse Claim?](https://www.pintas.com/faq/do-i-need-a-lawyer-for-my-memory-care-facility-abuse-claim/)
 
 ### Injured?  
 Tell Us What Happened.
