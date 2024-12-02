@@ -1,42 +1,49 @@
-**We're sorry but test doesn't work properly without JavaScript enabled. Please enable it to continue.**
+![](./img/notice.png)
 
-![](/static/img/login_logo.ee85f45e.png)
+公司全称：北京人人网互动科技有限公司
 
-记录·精彩·校园
+公司邮箱：kefu@infinities.com.cn
 
-正在登录…
+京ICP备 20030558号-1号
 
-![](/static/img/refresh.93d8846d.png)
+京公网安备 11010802029038号
 
-二维码已失效，点击重新加载
+[京网文\[2020\]4677-864号](http://s.xnimg.cn/imgpro/xkz.png) [京ICP证B2-20203269号](http://s.xnimg.cn/imgpro/icp1.png)
 
-userCreated with Sketch.
+人人网©2024
 
-passwordCreated with Sketch.
+![人人网](./img/header.png)
 
-imgCodeCreated with Sketch.
+人人网服务升级公告
 
-![](data:image/jpg;base64,)
+亲爱的人人网用户们，
 
-登录
+感谢您一直以来的陪伴与支持!我们想告诉您，人人网正在进行一次“换车”升级--就像您的燃油车开了多年，也想试试新能源车一样。
 
-[下载APP](https://u.renren.com/)
+在这期间，您在人人网上的所有数据都得到了严格的保护，确保您的个人信息和隐私安全不受任何威胁。您的数据安全，对我们来说至关重要。
 
-[![](/static/img/logo@3x.b97be8f1.png)](http://renren.com/)
+请耐心等待我们的“新车”上路，届时您将享受到更加稳定安全、丰富的社交体验，让我们共同期待人人网的全新启程!
 
-* [我的主页](http://renren.com/personal/0)
-* [我的日志](http://renren.com/personal/0/blogs)
-* [我的相册](http://renren.com/personal/0/albums)
-* [我的留言板](http://renren.com/personal/0/Mboard)
-* [好友](http://renren.com/personal/0/friends)
-* [关注](http://renren.com/personal/0/follow)
+此致!
 
-[](http://renren.com/personal/0/details)
+人人网团队
 
-问题反馈退出登录
+2024年12月2日
 
-![](/static/img/404.295e0d25.png)
+公司全称:
 
-您查看的页面不存在
+北京人人网互动科技有限公司
 
-这可能是因为您输入的地址有误您没有足够的权限查看该内容该内容已被删除
+公司邮箱:
+
+kefu@infinities.com.cn
+
+京ICP备 20030558号-1号
+
+京公网安备 11010802029038号
+
+[京网文\[2020\]4677-864号](http://s.xnimg.cn/imgpro/xkz.png)
+
+[京ICP证B2-20203269号](http://s.xnimg.cn/imgpro/icp1.png)
+
+人人网©2024
