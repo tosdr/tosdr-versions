@@ -116,7 +116,7 @@ Whether you’re a beginner or an experienced user, FOSS Linux has something for
 ### MORE FROM US
 
 * [Ubuntu (312)](https://www.fosslinux.com/category/ubuntu)
-* [Downloads (259)](https://www.fosslinux.com/category/downloads)
+* [Downloads (260)](https://www.fosslinux.com/category/downloads)
 * [Learn Linux (259)](https://www.fosslinux.com/category/learn-linux)
 * [News (186)](https://www.fosslinux.com/category/news)
 * [Beginner's Guide (183)](https://www.fosslinux.com/category/beginners-guide)
@@ -124,7 +124,7 @@ Whether you’re a beginner or an experienced user, FOSS Linux has something for
 * [Featured (125)](https://www.fosslinux.com/category/featured)
 * [Server (101)](https://www.fosslinux.com/category/server)
 * [Linux Mint (98)](https://www.fosslinux.com/category/linux-mint)
-* [Fedora (93)](https://www.fosslinux.com/category/fedora)
+* [Fedora (94)](https://www.fosslinux.com/category/fedora)
 
 * [POLICIES](#)
     * [About Us](https://www.fosslinux.com/about-us)
