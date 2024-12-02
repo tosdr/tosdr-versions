@@ -240,13 +240,11 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-#### Ready to get started?
+#### New to domain names and dynamic DNS?
 
+We can walk you through purchasing and managing your domain names in real-time on the page!  
   
-Sign up for a free dynamic DNS account, no credit card needed  
-  
-[Sign Up for Free](https://www.dynu.com/ControlPanel/CreateAccount)  
-  
+[View Available Guides](https://www.dynu.com/Resources/Tutorials)  
 
 ### News
 
