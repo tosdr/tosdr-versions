@@ -1,6 +1,6 @@
 [Skip to main content](#main)
 
-Black Friday Sale: Up to 60% Off! Shop Our Sale [Shop Our Sale](https://www.zappos.com/null/4AEB4gICMByCAwOk8AE.zso?si=5599485%2C5748442%2C6225521%2C6227909%2C6420345%2C5754504%2C6344758%2C6256931%2C5370913%2C6502603&sy=1)
+Cyber Monday Sale: Up to 70% off! [Shop Our Sale](https://www.zappos.com/null/4AEB4gICMByCAwOl8AE.zso?s=isNew%2Fdesc%2FgoLiveDate%2Fdesc%2FrecentSalesStyle%2Fdesc%2F&si=6445897%2C6445886%2C6281111%2C6362668%2C6222199%2C6225514%2C6446963%2C6222191%2C6311950&sy=1)
 
 Daily Deals: Get up to 50% off! [Shop Today's Deals](https://www.zappos.com/c/coupon)
 
