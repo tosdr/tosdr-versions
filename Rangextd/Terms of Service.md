@@ -342,7 +342,6 @@ We're here to help anytime.
 * Apple Pay
 * Diners Club
 * Discover
-* Meta Pay
 * Google Pay
 * Mastercard
 * PayPal
