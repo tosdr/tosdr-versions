@@ -1,20 +1,26 @@
 [Skip to main content](#main_content)
 
-![Black Friday](/wp-content/themes/cookieyes-new/assets/images/black-friday-deal.svg)
-
-This Black Friday, get up to 50% off on CookieYes!
-
-Claim deal
+![Cyber Monday](/wp-content/themes/cookieyes-new/assets/images/cyber-monday.svg)
 
 Deal expires in
 
 \- Days
 
+:
+
 \- Hours
+
+:
 
 \- Minutes
 
+:
+
 \- Seconds
+
+Get up to 50% off on CookieYes!
+
+Claim deal
 
 Show popup
 
@@ -344,7 +350,7 @@ For support, [contact us here](https://www.cookieyes.com/support/)
 
 Any information, whether oral or written, obtained from the CookieYes website, services, tools, or comments does not constitute any form of legal and/or regulatory advice. If any kind of legal assistance is required, users should consult with an attorney, a lawyer, or a law firm.
 
-Black Friday Exclusive
+Cyber Monday Exclusive
 ----------------------
 
 Ends in:\--d\--h\--m\--s
@@ -448,4 +454,4 @@ Exclusive Features
 
 \* Requires verification of agency application
 
-[Apply for Agency Program](https://www.cookieyes.com/agency/?ref=cy-BF#agency-form)
+[Apply for Agency Program](https://www.cookieyes.com/agency/?ref=cy-CM#agency-form)
