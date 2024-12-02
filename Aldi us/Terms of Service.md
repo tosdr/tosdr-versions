@@ -217,8 +217,6 @@ Shopping List
         
     * [Advent & Holiday Calendars](https://www.aldi.us/products/advent-holiday-calendars/ "Explore our amazing selection of upcoming Holiday & Advent Calendars. Save money this holiday season when you shop at ALDI.")
         
-    * [Thanksgiving](https://www.aldi.us/products/thanksgiving/ "From turkey to delicious sides & desserts, we’ve got everything you need to get ready for Thanksgiving. Save on Thanksgiving essentials when you shop at ALDI.  ")
-        
     * [Holiday](https://www.aldi.us/products/holiday/ "Get holly and jolly for the Holiday season. View recipe ideas and assemble your Holiday grocery list and find dinner, side dishes, desserts and more at your local ALDI.  ")
         
     * [ALDI Gear](https://www.aldi.us/products/aldi-gear/ "Explore our latest ALDI Gear collection. Shop ALDI holiday sweaters, slippers, tumblers, pajamas & more at your local ALDI.")
