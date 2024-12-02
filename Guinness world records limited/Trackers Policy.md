@@ -85,7 +85,7 @@ Cookie Policy
 
 ### Introduction
 
-THIS COOKIE POLICY WAS LAST UPDATED ON 27th JUNE 2024
+THIS COOKIE POLICY WAS LAST UPDATED ON 2nd December 2024
 
 During the course of visiting guinnessworldrecords.com, gwrstore.com, related sub-domains, counterpart sites in other languages, the GWR Events app and any other GWR website or application owned or operated by Guinness World Records Limited (the "GWR Services"), Guinness World Records Limited (“GWR” or "us" or "we" or "our"), and certain third parties, may set cookies on your computer, tablet or mobile ‘phone (each a “device”). 
 
@@ -141,21 +141,21 @@ You can also opt-out of Google Analytics monitoring at this link:
 
 Additionally, GWR also uses software provided by Pardot to track all visitors to the Site. For further information on the names of these cookies, how long they last for and what types of information are stored, see [https://help.salesforce.com/articleView?id=pardot\_basics\_cookies.htm&type=5](https://help.salesforce.com/articleView?id=pardot_basics_cookies.htm&type=5)
 
-Twitter will also set Google Analytics cookies when you access the site as part of the display of our Twitter feed on the Site for the same purpose as outlined above.
+Twitter will also set Google Analytics cookies when you access the site as part of the display of our Twitter feed on the Site for the same purpose
 
 **Naver Corporation Cookies**
 
-Our website uses NAVER Tracker, a web analytics tool provided by NAVER Corporation, to measure and optimize the effectiveness of our Search Engine Marketing (SEM) campaigns conducted on NAVER’s platform.  This tracker places certain cookies on your browser to help us analyse user interactions and improve the overall performance of our website and advertising efforts.   
+Our website uses NAVER Tracker, a web analytics tool provided by NAVER Corporation, to measure and optimize the effectiveness of our Search Engine Marketing (SEM) campaigns conducted on NAVER’s platform.  This tracker places certain cookies on your browser to help us analyse user interactions and improve the overall performance of our website and advertising efforts.   
 
-**Name of Cookie:   NWB**
+Name of Cookie:   NWB
 
-**Name of Cookie:  NWB\_Legacy**
+Name of Cookie:  NWB\_Legacy
 
-**Name of Cookie:  NWB\_SAC**
+Name of Cookie:  NWB\_SAC
 
 Via Naver, we may collect the following types of information:
 
-* Campaign and advertising interactions: Engagement with advertisements linked to our SEM campaigns on NAVER.
+* Campaign and advertising interactions: Engagement with advertisements linked to our SEM campaigns on NAVER.
 * Browsing behaviour: Pages visited, session duration, and navigation patterns.
 * Technical information: Device type, operating system, browser type, and IP address (anonymized where required).
 
@@ -165,8 +165,9 @@ The data collected is used for analytics purposes, including:
 * Assessing the performance and effectiveness of advertisements.
 * Optimizing website functionality and user experience based on campaign results.
 
-The collected information may be shared with NAVER Corporation solely to enhance the delivery and performance of their analytics services.  
-For further information about how NAVER processes your data, please refer to the NAVER Privacy Policy [https://policy.naver.com/policy/privacy\_en.html](https://policy.naver.com/policy/privacy_en.html)
+The collected information may be shared with NAVER Corporation solely to enhance the delivery and performance of their analytics services.
+
+For further information about how NAVER processes your data, please refer to the NAVER Privacy Policy [https://policy.naver.com/policy/privacy\_en.html](https://policy.naver.com/policy/privacy_en.html)
 
 **3\. Functionality Cookies** 
 
