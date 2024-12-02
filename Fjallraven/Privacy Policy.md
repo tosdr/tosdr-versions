@@ -304,7 +304,7 @@ Asia
     
     ### LEARN MORE
     
-* [Sale](https://www.fjallraven.com/uk/en-us/black-friday-collection/)
+* [Sale](https://www.fjallraven.com/us/en-us/black-friday-collection/)
 
 * * Men
         
@@ -482,7 +482,7 @@ Asia
             * [Fjällräven Polar](https://experience.fjallraven.com/polar/2025)
             
         
-    * [Sale](https://www.fjallraven.com/uk/en-us/black-friday-collection/)
+    * [Sale](https://www.fjallraven.com/us/en-us/black-friday-collection/)
 * * Customer Service
         
         * [Luminos.Storefront.Web.Features.Blocks.SideNavigationBlock.Presentation.ViewModels.SideNavigationItem](https://www.fjallraven.com/us/en-us/customer-service/)
@@ -539,7 +539,7 @@ Asia
     * [Store Locator](https://www.fjallraven.com/us/en-us/store-locator/)
     * [My account](https://www.fjallraven.com/us/en-us/my-account/login/)
 
-[**Up To 30% Off Select Styles | Black Friday Sale**](https://www.fjallraven.com/us/en-us/black-friday-collection/)
+[**Last Chance! | Up To 30% Off Select Styles**](https://www.fjallraven.com/us/en-us/black-friday-collection/)
 
 [](javascript:void(0))[Our Heritage](javascript:void(0)) ![Man with backpack](/4a5a97/contentassets/f6bd9e7070854e8e8bc7466993bb994a/men_with_backpack.jpg)
 
@@ -849,7 +849,7 @@ Discover
 Discover
 
 * [Fjällräven Experience](https://experience.fjallraven.com/us/en-us)
-* [Fjällräven Polar](https://experience.fjallraven.com/polar/2025?id=4e3564ea-1423-4c98-8e42-86e0b62db5e7)
+* [Fjällräven Polar](https://experience.fjallraven.com/polar/2025?id=0b1bb274-1fb2-4d46-9ff8-8563957231b1)
 * [Fjällräven Classic](https://classic.fjallraven.com/)
 * [Our Community](https://www.fjallraven.com/us/en-us/our-community/)
 * Do Not Sell or Share My Personal Information
