@@ -117,57 +117,63 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Integrated Debit Order Solution
-> -------------------------------
+> Impossible to run our businesses without IO
+> -------------------------------------------
 > 
-> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
+> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
+>   
+> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
+>   
+> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
+>   
+> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
 
-Hugo van Sittert
+Kobus Venter
 
-![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=1b4e6924328561fb964482a2992ee96ab67a754660d95b94c869657d4f6888e7&c=179943339)  
-OrgChart Hosting Pty Ltd
+![valued client Lindani Protection Services & Projects](https://www.invoicesonline.co.za/scripts/image.php?bid=8265&file=logo_300_100&type=&fe=bc2d0d37fd98c0a867b7d67e4fb9db763efbde82cd20b96d0b80bee1be46468a&c=156363561)  
+Lindani Protection Services & Projects
 
-![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=1b4e6924328561fb964482a2992ee96ab67a754660d95b94c869657d4f6888e7&c=188300704)  
-Desygn
+![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=bc2d0d37fd98c0a867b7d67e4fb9db763efbde82cd20b96d0b80bee1be46468a&c=123277371)  
+Import Maaw
 
-![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=1b4e6924328561fb964482a2992ee96ab67a754660d95b94c869657d4f6888e7&c=166571814)  
-Goju-Ryu Pretoria East
+![valued client One2b](https://www.invoicesonline.co.za/scripts/image.php?bid=4093&file=logo_300_100&type=&fe=bc2d0d37fd98c0a867b7d67e4fb9db763efbde82cd20b96d0b80bee1be46468a&c=88976559)  
+One2b
 
-![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=1b4e6924328561fb964482a2992ee96ab67a754660d95b94c869657d4f6888e7&c=191161687)  
-MR Compressors& Industrial Supplies
+![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=bc2d0d37fd98c0a867b7d67e4fb9db763efbde82cd20b96d0b80bee1be46468a&c=57133672)  
+Bloem Rugby Academy PTY (Ltd)
 
-![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=1b4e6924328561fb964482a2992ee96ab67a754660d95b94c869657d4f6888e7&c=206514550)  
-Tiny Cuddles Photography
+![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=bc2d0d37fd98c0a867b7d67e4fb9db763efbde82cd20b96d0b80bee1be46468a&c=213566941)  
+Imhoff Equestrian Centre
 
-![valued client SafeTclip](https://www.invoicesonline.co.za/scripts/image.php?bid=8368&file=logo_300_100&type=&fe=1b4e6924328561fb964482a2992ee96ab67a754660d95b94c869657d4f6888e7&c=205478011)  
-SafeTclip
-
-![valued client Moulded Wax SA - The Candle Store](https://www.invoicesonline.co.za/scripts/image.php?bid=8218&file=logo_300_100&type=&fe=1b4e6924328561fb964482a2992ee96ab67a754660d95b94c869657d4f6888e7&c=210203502)  
-Moulded Wax SA - The Candle Store
-
-![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=1b4e6924328561fb964482a2992ee96ab67a754660d95b94c869657d4f6888e7&c=1740809)  
-Frequency Fanatics (Pty) Ltd
-
-![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=1b4e6924328561fb964482a2992ee96ab67a754660d95b94c869657d4f6888e7&c=146480312)  
-Tagline Brands
-
-![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=1b4e6924328561fb964482a2992ee96ab67a754660d95b94c869657d4f6888e7&c=143343145)  
-VIV'S TRUCKS (Pty) Ltd. (117)
-
-![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=1b4e6924328561fb964482a2992ee96ab67a754660d95b94c869657d4f6888e7&c=16061952)  
-RADIO TYGERBERG 104FM NPC
-
-![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=1b4e6924328561fb964482a2992ee96ab67a754660d95b94c869657d4f6888e7&c=116297323)  
+![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=bc2d0d37fd98c0a867b7d67e4fb9db763efbde82cd20b96d0b80bee1be46468a&c=10721671)  
 CLEVER STUDENTS
 
-![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=1b4e6924328561fb964482a2992ee96ab67a754660d95b94c869657d4f6888e7&c=18045159)  
-NWET Pty LTD
+![valued client Moulded Wax SA - The Candle Store](https://www.invoicesonline.co.za/scripts/image.php?bid=8218&file=logo_300_100&type=&fe=bc2d0d37fd98c0a867b7d67e4fb9db763efbde82cd20b96d0b80bee1be46468a&c=54172263)  
+Moulded Wax SA - The Candle Store
 
-![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=1b4e6924328561fb964482a2992ee96ab67a754660d95b94c869657d4f6888e7&c=23344439)  
-Testpro Laboratory (Pty) Ltd
+![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=bc2d0d37fd98c0a867b7d67e4fb9db763efbde82cd20b96d0b80bee1be46468a&c=179150780)  
+Repairs In Motion
 
-![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=1b4e6924328561fb964482a2992ee96ab67a754660d95b94c869657d4f6888e7&c=139785400)  
-Beyond Laser CNC Cutting Technology South Africa CC
+![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=bc2d0d37fd98c0a867b7d67e4fb9db763efbde82cd20b96d0b80bee1be46468a&c=102145751)  
+Camp 4 Africa (Pty) Ltd
+
+![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=bc2d0d37fd98c0a867b7d67e4fb9db763efbde82cd20b96d0b80bee1be46468a&c=130094790)  
+NJR ICT Services (Pty) Ltd
+
+![valued client FLIPS AUTO ELECTRICAL ](https://www.invoicesonline.co.za/scripts/image.php?bid=8725&file=logo_300_100&type=&fe=bc2d0d37fd98c0a867b7d67e4fb9db763efbde82cd20b96d0b80bee1be46468a&c=8551951)  
+FLIPS AUTO ELECTRICAL
+
+![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=bc2d0d37fd98c0a867b7d67e4fb9db763efbde82cd20b96d0b80bee1be46468a&c=96748876)  
+Oukraal Merino's
+
+![valued client Cooper Power](https://www.invoicesonline.co.za/scripts/image.php?bid=8689&file=logo_300_100&type=&fe=bc2d0d37fd98c0a867b7d67e4fb9db763efbde82cd20b96d0b80bee1be46468a&c=11030539)  
+Cooper Power
+
+![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=bc2d0d37fd98c0a867b7d67e4fb9db763efbde82cd20b96d0b80bee1be46468a&c=96440016)  
+NGB HOLDINGS PTY LTD
+
+![valued client African Roots](https://www.invoicesonline.co.za/scripts/image.php?bid=1000&file=logo_300_100&type=&fe=bc2d0d37fd98c0a867b7d67e4fb9db763efbde82cd20b96d0b80bee1be46468a&c=142448117)  
+African Roots
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
