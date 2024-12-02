@@ -164,7 +164,7 @@
 Type your search and hit enter
 
 * Hot Topics
-* [Black Friday](https://www.pcworld.com/black-friday)
+* [Cyber Monday](https://www.pcworld.com/black-friday)
 * [PCWorld Awards](https://www.pcworld.com/best-consumer-tech-2024-2025)
 * [Best laptops](https://www.pcworld.com/article/436674/the-best-pc-laptops-of-the-year.html)
 * [Best VPN](https://www.pcworld.com/article/406870/best-vpn-services-apps-reviews-buying-advice.html)
