@@ -4,8 +4,8 @@ We’re sorry, but our website doesn’t work properly without JavaScript enable
 
       
 
-New Customers Save 40% With Autoship:  
-Use Code: NEW40 (Up to $30 Max Savings. [Exclusions Apply](https://www.1800petmeds.com/tc.html).)
+50% off Your First Autoship  
+Use Code: CYBER50 (Up to $90 Max Savings. [Exclusions Apply](https://www.1800petmeds.com/tc.html).)
 
 [![PetMeds](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw79ee4aef/images/petmeds-logo.svg)](https://www.1800petmeds.com/ "PetMeds Home")
 
