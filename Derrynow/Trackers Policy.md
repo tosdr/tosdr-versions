@@ -268,21 +268,12 @@ A post-mortem examination will be scheduled.
 [Gardai launch investigation after young girl dies following fatal assault at private home](https://www.derrynow.com/news/national-news/1670737/gardai-launch-investigation-after-young-girl-dies-following-fatal-assault-at-private-home.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![47-year-old man arrested following assault in Derry city centre](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "47-year-old man arrested following assault in Derry city centre")](https://www.derrynow.com/news/local-news/1670142/47-year-old-man-arrested-following-assault-in-derry-city-centre.html)
+[![IN PICTURES: Derry's Resource Centre celebrates 50th Anniversary Service and Information Day](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry's Resource Centre celebrates 50th Anniversary Service and Information Day")](https://www.derrynow.com/story-telling/pictures---videos/1671006/in-pictures-derry-s-resource-centre-celebrates-50th-anniversary-service-and-information-day.html)
 
-The incident took place in the Sackville Street area of the city
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[Local News](https://www.derrynow.com/section/975/news)
-
-[47-year-old man arrested following assault in Derry city centre](https://www.derrynow.com/news/local-news/1670142/47-year-old-man-arrested-following-assault-in-derry-city-centre.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1666538/derry-death-notices-monday-december-2-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Monday, December 2, 2024](https://www.derrynow.com/news/deaths/1666538/derry-death-notices-monday-december-2-2024.html)
-----------------------------------------------------------------------------------------------------------------------------------------------
+[IN PICTURES: Derry's Resource Centre celebrates 50th Anniversary Service and Information Day](https://www.derrynow.com/story-telling/pictures---videos/1671006/in-pictures-derry-s-resource-centre-celebrates-50th-anniversary-service-and-information-day.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![You can't park there! Lorry driver's boozy shortcut comes to sudden halt](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "You can't park there! Lorry driver's boozy shortcut comes to sudden halt")](https://www.derrynow.com/news/national-news/1670803/you-can-t-park-there-lorry-driver-s-boozy-shortcut-comes-to-sudden-end.html)
 
@@ -292,6 +283,20 @@ Pictured: The small lorry which was apprehended on Grafton Street. Image by An G
 
 [You can't park there! Lorry driver's boozy shortcut comes to sudden end](https://www.derrynow.com/news/national-news/1670803/you-can-t-park-there-lorry-driver-s-boozy-shortcut-comes-to-sudden-end.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Well known area of Derry features in new hit Netflix series](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Well known area of Derry features in new hit Netflix series")](https://www.derrynow.com/news/local-news/1670900/well-known-area-of-derry-features-in-new-hit-netflix-series.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Well known area of Derry features in new hit Netflix series](https://www.derrynow.com/news/local-news/1670900/well-known-area-of-derry-features-in-new-hit-netflix-series.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1666538/derry-death-notices-monday-december-2-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Monday, December 2, 2024](https://www.derrynow.com/news/deaths/1666538/derry-death-notices-monday-december-2-2024.html)
+----------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry man remanded for breach of bail conditions](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man remanded for breach of bail conditions")](https://www.derrynow.com/news/local-news/1670810/derry-man-remanded-for-breach-of-bail-conditions.html)
 
@@ -307,26 +312,19 @@ Pictured: The small lorry which was apprehended on Grafton Street. Image by An G
 [Donegal man remanded in custody at Derry Court charged with rape](https://www.derrynow.com/news/local-news/1670861/donegal-man-remanded-in-custody-at-derry-court-charged-with-rape.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Local-born author Pat Mullan to launch debut book in Limavady](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Local-born author Pat Mullan to launch debut book in Limavady")](https://www.derrynow.com/news/home/1670413/local-born-author-pat-mullan-to-launch-debut-book-in-limavady.html)
+[![Man with 119 previous convictions granted bail at Derry Magistrate's Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man with 119 previous convictions granted bail at Derry Magistrate's Court")](https://www.derrynow.com/news/local-news/1670907/man-with-119-previous-convictions-granted-bail-at-derry-magistrate-s-court.html)
 
-[Home](https://www.derrynow.com/)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Local-born author Pat Mullan to launch debut book in Limavady](https://www.derrynow.com/news/home/1670413/local-born-author-pat-mullan-to-launch-debut-book-in-limavady.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Man with 119 previous convictions granted bail at Derry Magistrate's Court](https://www.derrynow.com/news/local-news/1670907/man-with-119-previous-convictions-granted-bail-at-derry-magistrate-s-court.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Dean McCullough is second contestant to leave I’m A Celebrity after public vote](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Dean McCullough is second contestant to leave I’m A Celebrity after public vote")](https://www.derrynow.com/news/national-news/1670541/dean-mccullough-is-second-contestant-to-leave-im-a-celebrity-after-public-vote.html)
+[![High ranking Chinese drugs gang member refused bail at Derry Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "High ranking Chinese drugs gang member refused bail at Derry Court")](https://www.derrynow.com/news/local-news/1670947/high-ranking-chinese-drugs-gang-member-refused-bail-at-derry-court.html)
 
-[National News](https://www.derrynow.com/section/997/cookie-policy)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Dean McCullough is second contestant to leave I’m A Celebrity after public vote](https://www.derrynow.com/news/national-news/1670541/dean-mccullough-is-second-contestant-to-leave-im-a-celebrity-after-public-vote.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Police probe sudden death of woman at Belfast nightclub](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police probe sudden death of woman at Belfast nightclub")](https://www.derrynow.com/news/northern-ireland/1670051/police-probe-sudden-death-of-woman-at-belfast-nightclub.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Police probe sudden death of woman at Belfast nightclub](https://www.derrynow.com/news/northern-ireland/1670051/police-probe-sudden-death-of-woman-at-belfast-nightclub.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[High ranking Chinese drugs gang member refused bail at Derry Court](https://www.derrynow.com/news/local-news/1670947/high-ranking-chinese-drugs-gang-member-refused-bail-at-derry-court.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Police conduct searches in Derry as part of dissident republican investigation](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police conduct searches in Derry as part of dissident republican investigation")](https://www.derrynow.com/news/local-news/1670912/police-conduct-searches-in-derry-as-part-of-dissident-republican-investigation.html)
 
@@ -340,6 +338,48 @@ ADVERTISEMENT - CONTINUE READING BELOW
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: George Brolly's 80th birthday celebrations in McCourt's Bar](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: George Brolly's 80th birthday celebrations in McCourt's Bar")](https://www.derrynow.com/story-telling/pictures---videos/1671005/in-pictures-george-brolly-s-80th-birthday-celebrations-in-mccourt-s-bar.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: George Brolly's 80th birthday celebrations in McCourt's Bar](https://www.derrynow.com/story-telling/pictures---videos/1671005/in-pictures-george-brolly-s-80th-birthday-celebrations-in-mccourt-s-bar.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: St. Cecilia's College Annual Christmas Fayre and Rickety Wheel](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: St. Cecilia's College Annual Christmas Fayre and Rickety Wheel")](https://www.derrynow.com/story-telling/pictures---videos/1671004/in-pictures-st-cecilia-s-college-annual-christmas-fayre-and-rickety-wheel.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: St. Cecilia's College Annual Christmas Fayre and Rickety Wheel](https://www.derrynow.com/story-telling/pictures---videos/1671004/in-pictures-st-cecilia-s-college-annual-christmas-fayre-and-rickety-wheel.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Maghera lights up for Christmas](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Maghera lights up for Christmas")](https://www.derrynow.com/story-telling/pictures---videos/1671007/in-pictures-maghera-lights-up-for-christmas.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Maghera lights up for Christmas](https://www.derrynow.com/story-telling/pictures---videos/1671007/in-pictures-maghera-lights-up-for-christmas.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: North West hosts Disability Cricket Blitz](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: North West hosts Disability Cricket Blitz")](https://www.derrynow.com/story-telling/pictures---videos/1671093/in-pictures-north-west-hosts-disability-cricket-blitz.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: North West hosts Disability Cricket Blitz](https://www.derrynow.com/story-telling/pictures---videos/1671093/in-pictures-north-west-hosts-disability-cricket-blitz.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![WATCH: Apex and Children in Crossfire - a lasting impact in Africa](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "WATCH: Apex and Children in Crossfire - a lasting impact in Africa")](https://www.derrynow.com/video/pictures---videos/1670995/watch-apex-and-children-in-crossfire-a-lasting-impact-in-africa.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[WATCH: Apex and Children in Crossfire - a lasting impact in Africa](https://www.derrynow.com/video/pictures---videos/1670995/watch-apex-and-children-in-crossfire-a-lasting-impact-in-africa.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Derry's Resource Centre celebrates 50th Anniversary Service and Information Day](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry's Resource Centre celebrates 50th Anniversary Service and Information Day")](https://www.derrynow.com/story-telling/pictures---videos/1671006/in-pictures-derry-s-resource-centre-celebrates-50th-anniversary-service-and-information-day.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Derry's Resource Centre celebrates 50th Anniversary Service and Information Day](https://www.derrynow.com/story-telling/pictures---videos/1671006/in-pictures-derry-s-resource-centre-celebrates-50th-anniversary-service-and-information-day.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: John Mitchel's Claudy GAC Youth Presentation Night](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: John Mitchel's Claudy GAC Youth Presentation Night")](https://www.derrynow.com/story-telling/pictures---videos/1664783/in-pictures-john-mitchel-s-claudy-gac-youth-presentation-night.html)
 
@@ -369,48 +409,6 @@ PICTURES: Mayor holds reception to recognise work of Western Trust Respiratory T
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
 [PICTURES: Mayor holds reception to recognise work of Western Trust Respiratory Team](https://www.derrynow.com/story-telling/pictures---videos/1665901/pictures-mayor-holds-reception-to-recognise-work-of-western-trust-respiratory-team.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PROPERTY: Ideal Derry home for first time buyers hits the market](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PROPERTY: Ideal Derry home for first time buyers hits the market")](https://www.derrynow.com/news/property/1665235/property-ideal-derry-home-for-first-time-buyers-hits-the-market.html)
-
-[Property](https://www.derrynow.com/section/1232/property)
-
-[PROPERTY: Ideal Derry home for first time buyers hits the market](https://www.derrynow.com/news/property/1665235/property-ideal-derry-home-for-first-time-buyers-hits-the-market.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: Crowds Enjoy Magherafelt Christmas Lights Switch On!](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Crowds Enjoy Magherafelt Christmas Lights Switch On!")](https://www.derrynow.com/news/home/1664963/pictures-crowds-enjoy-magherafelt-christmas-lights-switch-on.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[PICTURES: Crowds Enjoy Magherafelt Christmas Lights Switch On!](https://www.derrynow.com/news/home/1664963/pictures-crowds-enjoy-magherafelt-christmas-lights-switch-on.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Annual Slaughmanus GAA Dinner Dance](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Annual Slaughmanus GAA Dinner Dance")](https://www.derrynow.com/story-telling/pictures---videos/1664118/in-pictures-annual-slaughmanus-gaa-dinner-dance.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Annual Slaughmanus GAA Dinner Dance](https://www.derrynow.com/story-telling/pictures---videos/1664118/in-pictures-annual-slaughmanus-gaa-dinner-dance.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Throwback Tuesday: Out and About at Derek Ryan concert in Foreglen GAC (2013)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Out and About at Derek Ryan concert in Foreglen GAC (2013)")](https://www.derrynow.com/story-telling/pictures---videos/1664294/throwback-tuesday-out-and-about-at-derek-ryan-concert-in-foreglen-gac-2013.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[Throwback Tuesday: Out and About at Derek Ryan concert in Foreglen GAC (2013)](https://www.derrynow.com/story-telling/pictures---videos/1664294/throwback-tuesday-out-and-about-at-derek-ryan-concert-in-foreglen-gac-2013.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: White Ribbon Day marked in Derry's Guildhall](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: White Ribbon Day marked in Derry's Guildhall")](https://www.derrynow.com/story-telling/pictures---videos/1664397/in-pictures-white-ribbon-day-marked-in-derry-s-guildhall.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: White Ribbon Day marked in Derry's Guildhall](https://www.derrynow.com/story-telling/pictures---videos/1664397/in-pictures-white-ribbon-day-marked-in-derry-s-guildhall.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Nostalgic book celebrates memories of residents at Longfield Care Home](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Nostalgic book celebrates memories of residents at Longfield Care Home")](https://www.derrynow.com/story-telling/pictures---videos/1664295/in-pictures-nostalgic-book-celebrates-memories-of-residents-at-longfield-care-home.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Nostalgic book celebrates memories of residents at Longfield Care Home](https://www.derrynow.com/story-telling/pictures---videos/1664295/in-pictures-nostalgic-book-celebrates-memories-of-residents-at-longfield-care-home.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
@@ -515,51 +513,49 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Man with 119 previous convictions granted bail at Derry Magistrate's Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man with 119 previous convictions granted bail at Derry Magistrate's Court")](https://www.derrynow.com/news/local-news/1670907/man-with-119-previous-convictions-granted-bail-at-derry-magistrate-s-court.html)
+[![Derry retailer raise over £12,000 for local children’s cancer charity](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry retailer raise over £12,000 for local children’s cancer charity")](https://www.derrynow.com/news/local-news/1670987/derry-retailer-raise-over-12-000-for-local-childrens-cancer-charity.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Man with 119 previous convictions granted bail at Derry Magistrate's Court](https://www.derrynow.com/news/local-news/1670907/man-with-119-previous-convictions-granted-bail-at-derry-magistrate-s-court.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry retailer raise over £12,000 for local children’s cancer charity](https://www.derrynow.com/news/local-news/1670987/derry-retailer-raise-over-12-000-for-local-childrens-cancer-charity.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Public consultation on Derry's Pilots Row Youth and Community Centre opens today](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Public consultation on Derry's Pilots Row Youth and Community Centre opens today")](https://www.derrynow.com/news/local-news/1670899/public-consultation-on-derry-s-pilots-row-youth-and-community-centre-opens-today.html)
-
-Pilots' Row Centre
+[![Budding Derry entrepreneurs invited to access support through Succeed in Enterprise Programme](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Budding Derry entrepreneurs invited to access support through Succeed in Enterprise Programme")](https://www.derrynow.com/news/local-news/1670968/budding-derry-entrepreneurs-invited-to-access-support-through-succeed-in-enterprise-programme.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Public consultation on Derry's Pilots Row Youth and Community Centre opens today](https://www.derrynow.com/news/local-news/1670899/public-consultation-on-derry-s-pilots-row-youth-and-community-centre-opens-today.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Budding Derry entrepreneurs invited to access support through Succeed in Enterprise Programme](https://www.derrynow.com/news/local-news/1670968/budding-derry-entrepreneurs-invited-to-access-support-through-succeed-in-enterprise-programme.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Police conduct searches in Derry as part of dissident republican investigation](https://www.derrynow.com/resizer/165/93/true/2024_02_26/75d09668-969e-11ed-a6c5-0210609a3fe2-1685351040715.jpg---1708952493894.jpg--.jpg?1708952493928 "Police conduct searches in Derry as part of dissident republican investigation")](https://www.derrynow.com/news/local-news/1670912/police-conduct-searches-in-derry-as-part-of-dissident-republican-investigation.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Police conduct searches in Derry as part of dissident republican investigation](https://www.derrynow.com/news/local-news/1670912/police-conduct-searches-in-derry-as-part-of-dissident-republican-investigation.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Donegal man remanded in custody at Derry Court charged with rape](https://www.derrynow.com/resizer/165/93/true/2024_04_04/Derry-courthouse.jpg--derry_courthouse-1712223605087.jpg--.jpg?1712223605116 "Donegal man remanded in custody at Derry Court charged with rape")](https://www.derrynow.com/news/local-news/1670861/donegal-man-remanded-in-custody-at-derry-court-charged-with-rape.html)
+[![Significant breakthrough made in early diagnosis of Chronic Kidney Disease and COVID-19](https://www.derrynow.com/resizer/165/93/true/2024_12_02/Test_tube_PMC_research-1733150933631.jpg--.jpg?1733150941087 "Significant breakthrough made in early diagnosis of Chronic Kidney Disease and COVID-19")](https://www.derrynow.com/news/local-news/1671002/derry-researchers-make-significant-breakthrough-in-early-diagnosis-of-chronic-kidney-disease.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Donegal man remanded in custody at Derry Court charged with rape](https://www.derrynow.com/news/local-news/1670861/donegal-man-remanded-in-custody-at-derry-court-charged-with-rape.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry researchers make 'significant breakthrough' in early diagnosis of Chronic Kidney Disease](https://www.derrynow.com/news/local-news/1671002/derry-researchers-make-significant-breakthrough-in-early-diagnosis-of-chronic-kidney-disease.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Colin Spence, Technical Commercial Director at FAST Technologies.](https://www.derrynow.com/resizer/165/93/true/2024_12_02/image001-1733137898164.png--.png?1733137898295 "Colin Spence, Technical Commercial Director at FAST Technologies.")](https://www.derrynow.com/news/county-derry-post/1670821/fast-technologies-dreamaker-drives-efficiencies-in-u-s-production.html)
+[![MacD on Music: Whataboutisms](https://www.derrynow.com/resizer/165/93/true/2024_12_02/Press_Photo_2_%281%29-1733147124925_1733147139.jpg--.jpg?1733147139391 "MacD on Music: Whataboutisms")](https://www.derrynow.com/news/local-news/1670949/macd-on-music-whataboutisms.html)
 
-Colin Spence, Technical Commercial Director at FAST Technologies.
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[FAST Technologies' Dreamaker Drives Efficiencies in U.S. Production](https://www.derrynow.com/news/county-derry-post/1670821/fast-technologies-dreamaker-drives-efficiencies-in-u-s-production.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man remanded for breach of bail conditions](https://www.derrynow.com/resizer/165/93/true/1580370016067.JPG--.JPG?1580370017604 "Derry man remanded for breach of bail conditions")](https://www.derrynow.com/news/local-news/1670810/derry-man-remanded-for-breach-of-bail-conditions.html)
+Belfast group AOA, Caolan Fitzsimons (Lead Singer), Owen Crummey (Lead Guitarist), Jake Fox (Bassist) and Adam Din (Drummer)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Derry man remanded for breach of bail conditions](https://www.derrynow.com/news/local-news/1670810/derry-man-remanded-for-breach-of-bail-conditions.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------
+[MacD on Music: Whataboutisms](https://www.derrynow.com/news/local-news/1670949/macd-on-music-whataboutisms.html)
+-----------------------------------------------------------------------------------------------------------------
+
+[![Well known area of Derry features in new hit Netflix series](https://www.derrynow.com/resizer/165/93/true/2024_12_02/Waterside-1733142672908.jpg--.jpg?1733142673483 "Well known area of Derry features in new hit Netflix series")](https://www.derrynow.com/news/local-news/1670900/well-known-area-of-derry-features-in-new-hit-netflix-series.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Well known area of Derry features in new hit Netflix series](https://www.derrynow.com/news/local-news/1670900/well-known-area-of-derry-features-in-new-hit-netflix-series.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![High ranking Chinese drugs gang member refused bail at Derry Court](https://www.derrynow.com/resizer/165/93/true/2017/07/14154134/husband-and-wife-charged-at-derry-magistrates-court-with-drugs-and-money-laundering-offences-following-organised-crime-investigation-by-the-psni.jpg--.jpg "High ranking Chinese drugs gang member refused bail at Derry Court")](https://www.derrynow.com/news/local-news/1670947/high-ranking-chinese-drugs-gang-member-refused-bail-at-derry-court.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[High ranking Chinese drugs gang member refused bail at Derry Court](https://www.derrynow.com/news/local-news/1670947/high-ranking-chinese-drugs-gang-member-refused-bail-at-derry-court.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
