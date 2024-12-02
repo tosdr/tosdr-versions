@@ -294,12 +294,15 @@ Help
 For support  
 [Support center](https://support.bendingspoons.com/)
 
-For media inquiries  
+For career inquiries   
+[careers@bendingspoons.com](mailto:careers@bendingspoons.com)
+
+For partnership inquiries   
+[partnerships@bendingspoons.com](mailto:partnerships@bendingspoons.com)
+
+For press inquiries  
 [press@bendingspoons.com](mailto:press@bendingspoons.com)  
 [Download media kit](https://bendingspoons.com/documents/Bending%20Spoons%E2%80%94Media%20Kit.zip)
-
-To get in touch  
-[hello@bendingspoons.com](mailto:hello@bendingspoons.com)
 
 Bending Spoons S.p.A.
 
