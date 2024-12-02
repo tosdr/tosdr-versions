@@ -1,6 +1,6 @@
 [Skip to content](#main)
 
-[Grab Black Friday deal here
+[Grab Cyber Monday deal here
 
 Deal expires in
 
