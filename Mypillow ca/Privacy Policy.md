@@ -95,7 +95,7 @@ Apply
 
 ![](https://www.mypillow.com/media/wysiwyg/promotions/free-shipping-75-exclude.jpg)
 
-[](https://www.mypillow.com/black-friday-specials)
+[](https://www.mypillow.ca/super-sale)
 
 [](https://www.mypillow.com/the-classic-collection)
 
