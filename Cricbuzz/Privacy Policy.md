@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[INDU19 vs JPNU19 - Live](https://www.cricbuzz.com/live-cricket-scores/110113/indu19-vs-jpnu19-8th-match-group-a-acc-u19-asia-cup-2024 "India U19 v Japan U19, 8th Match, Group A - Live")[BAN vs WI - Stumps](https://www.cricbuzz.com/live-cricket-scores/95209/ban-vs-wi-2nd-test-bangladesh-tour-of-west-indies-2024 "Bangladesh v West Indies, 2nd Test - Stumps")[IREW vs BANW - Ings Break](https://www.cricbuzz.com/live-cricket-scores/109635/irew-vs-banw-3rd-odi-icc-championship-match-ireland-women-tour-of-bangladesh-2024 "Ireland Women v Bangladesh Women, 3rd ODI (ICC Championship Match) - Ings Break")[PAKU19 vs UAEU19 - Live](https://www.cricbuzz.com/live-cricket-scores/110105/paku19-vs-uaeu19-7th-match-group-a-acc-u19-asia-cup-2024 "Pakistan U19 v United Arab Emirates U19, 7th Match, Group A - Live")[MSA vs DBL - Preview](https://www.cricbuzz.com/live-cricket-scores/109614/msa-vs-dbl-qualifier-2-runners-up-q1-v-winner-of-e2-abu-dhabi-t10-league-2024 "Morrisville Samp Army v Delhi Bulls, Qualifier 2 (Runners-up Q1 v Winner of E2) - Preview")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[BAN vs WI - Stumps](https://www.cricbuzz.com/live-cricket-scores/95209/ban-vs-wi-2nd-test-bangladesh-tour-of-west-indies-2024 "Bangladesh v West Indies, 2nd Test - Stumps")[DBL vs MSA - Live](https://www.cricbuzz.com/live-cricket-scores/109614/dbl-vs-msa-qualifier-2-runners-up-q1-v-winner-of-e2-abu-dhabi-t10-league-2024 "Delhi Bulls v Morrisville Samp Army, Qualifier 2 (Runners-up Q1 v Winner of E2) - Live")[INDU19 vs JPNU19 - Complete](https://www.cricbuzz.com/live-cricket-scores/110113/indu19-vs-jpnu19-8th-match-group-a-acc-u19-asia-cup-2024 "India U19 v Japan U19, 8th Match, Group A - Complete")[IREW vs BANW - BANW Won](https://www.cricbuzz.com/live-cricket-scores/109635/irew-vs-banw-3rd-odi-icc-championship-match-ireland-women-tour-of-bangladesh-2024 "Ireland Women v Bangladesh Women, 3rd ODI (ICC Championship Match) - BANW Won")[PAKU19 vs UAEU19 - PAKU19 Won](https://www.cricbuzz.com/live-cricket-scores/110105/paku19-vs-uaeu19-7th-match-group-a-acc-u19-asia-cup-2024 "Pakistan U19 v United Arab Emirates U19, 7th Match, Group A - PAKU19 Won")
 
 AllLive NowToday
 
@@ -88,6 +88,10 @@ AllLive NowToday
     
     1st Match
     
+* [Kenya vs Nigeria](https://www.cricbuzz.com/live-cricket-scores/112085/ken-vs-nga-2nd-match-africa-continental-cup "Kenya v Nigeria, 2nd Match - Upcoming")
+    
+    2nd Match
+    
 * West Indies v Bangladesh, 2024
     
     [Bangladesh vs West Indies](https://www.cricbuzz.com/live-cricket-scores/95209/ban-vs-wi-2nd-test-west-indies-v-bangladesh-2024 "Bangladesh v West Indies, 2nd Test - Stumps")
@@ -98,11 +102,7 @@ AllLive NowToday
     
     Abu Dhabi T10 League 2024
     
-    [Bangla Tigers vs UP Nawabs](https://www.cricbuzz.com/live-cricket-scores/109575/bgt-vs-upn-32nd-match-abu-dhabi-t10-league-2024 "Bangla Tigers v UP Nawabs, 32nd Match - UPN Won")
-    
-    32nd Match
-    
-* [Northern Warriors vs Team Abu Dhabi](https://www.cricbuzz.com/live-cricket-scores/109582/nw-vs-ad-33rd-match-abu-dhabi-t10-league-2024 "Northern Warriors v Team Abu Dhabi, 33rd Match - AD Won")
+    [Northern Warriors vs Team Abu Dhabi](https://www.cricbuzz.com/live-cricket-scores/109582/nw-vs-ad-33rd-match-abu-dhabi-t10-league-2024 "Northern Warriors v Team Abu Dhabi, 33rd Match - AD Won")
     
     33rd Match
     
@@ -126,7 +126,7 @@ AllLive NowToday
     
     Eliminator 2 (3 v Winner of E1)
     
-* [Morrisville Samp Army vs Delhi Bulls](https://www.cricbuzz.com/live-cricket-scores/109614/msa-vs-dbl-qualifier-2-runners-up-q1-v-winner-of-e2-abu-dhabi-t10-league-2024 "Morrisville Samp Army v Delhi Bulls, Qualifier 2 (Runners-up Q1 v Winner of E2) - Preview")
+* [Delhi Bulls vs Morrisville Samp Army  LIVE](https://www.cricbuzz.com/live-cricket-scores/109614/dbl-vs-msa-qualifier-2-runners-up-q1-v-winner-of-e2-abu-dhabi-t10-league-2024 "Delhi Bulls v Morrisville Samp Army, Qualifier 2 (Runners-up Q1 v Winner of E2) - Live")
     
     Qualifier 2 (Runners-up Q1 v Winner of E2)
     
@@ -168,10 +168,6 @@ AllLive NowToday
     
     Group A
     
-* [Puducherry vs Assam](https://www.cricbuzz.com/live-cricket-scores/98735/pdc-vs-asm-group-d-sma-trophy-2024 "Puducherry v Assam, Group D - ASM Won")
-    
-    Group D
-    
 * [Chhattisgarh vs Odisha](https://www.cricbuzz.com/live-cricket-scores/98728/cg-vs-odsa-group-d-sma-trophy-2024 "Chhattisgarh v Odisha, Group D - Abandon")
     
     Group D
@@ -196,9 +192,9 @@ AllLive NowToday
     
     Group E
     
-* [Himachal Pradesh vs Delhi](https://www.cricbuzz.com/live-cricket-scores/98789/hp-vs-del-group-c-sma-trophy-2024 "Himachal Pradesh v Delhi, Group C - DEL Won")
+* [Puducherry vs Assam](https://www.cricbuzz.com/live-cricket-scores/98735/pdc-vs-asm-group-d-sma-trophy-2024 "Puducherry v Assam, Group D - ASM Won")
     
-    Group C
+    Group D
     
 * [Saurashtra vs Baroda](https://www.cricbuzz.com/live-cricket-scores/98773/saur-vs-brd-group-b-sma-trophy-2024 "Saurashtra v Baroda, Group B - SAUR Won")
     
@@ -207,6 +203,10 @@ AllLive NowToday
 * [Punjab vs Hyderabad](https://www.cricbuzz.com/live-cricket-scores/98762/pun-vs-hyd-group-a-sma-trophy-2024 "Punjab v Hyderabad, Group A - PUN Won")
     
     Group A
+    
+* [Himachal Pradesh vs Delhi](https://www.cricbuzz.com/live-cricket-scores/98789/hp-vs-del-group-c-sma-trophy-2024 "Himachal Pradesh v Delhi, Group C - DEL Won")
+    
+    Group C
     
 * [Manipur vs Jammu and Kashmir](https://www.cricbuzz.com/live-cricket-scores/98782/mnp-vs-jk-group-c-sma-trophy-2024 "Manipur v Jammu and Kashmir, Group C - JK Won")
     
@@ -228,10 +228,6 @@ AllLive NowToday
     
     Group D
     
-* [Jammu and Kashmir vs Uttar Pradesh](https://www.cricbuzz.com/live-cricket-scores/98845/jk-vs-up-group-c-sma-trophy-2024 "Jammu and Kashmir v Uttar Pradesh, Group C - Preview")
-    
-    Group C
-    
 * [Gujarat vs Uttarakhand](https://www.cricbuzz.com/live-cricket-scores/98827/guj-vs-utk-group-b-sma-trophy-2024 "Gujarat v Uttarakhand, Group B - Preview")
     
     Group B
@@ -239,6 +235,10 @@ AllLive NowToday
 * [Bengal vs Bihar](https://www.cricbuzz.com/live-cricket-scores/98818/ben-vs-bih-group-a-sma-trophy-2024 "Bengal v Bihar, Group A - Preview")
     
     Group A
+    
+* [Jammu and Kashmir vs Uttar Pradesh](https://www.cricbuzz.com/live-cricket-scores/98845/jk-vs-up-group-c-sma-trophy-2024 "Jammu and Kashmir v Uttar Pradesh, Group C - Preview")
+    
+    Group C
     
 * [Haryana vs Himachal Pradesh](https://www.cricbuzz.com/live-cricket-scores/98836/har-vs-hp-group-c-sma-trophy-2024 "Haryana v Himachal Pradesh, Group C - Preview")
     
@@ -268,17 +268,17 @@ AllLive NowToday
     
     Group D
     
-* [Baroda vs Karnataka](https://www.cricbuzz.com/live-cricket-scores/98890/brd-vs-kar-group-b-sma-trophy-2024 "Baroda v Karnataka, Group B - Upcoming")
-    
-    Group B
-    
-* [Punjab vs Rajasthan](https://www.cricbuzz.com/live-cricket-scores/98879/pun-vs-raj-group-a-sma-trophy-2024 "Punjab v Rajasthan, Group A - Upcoming")
+* [Punjab vs Rajasthan](https://www.cricbuzz.com/live-cricket-scores/98879/pun-vs-raj-group-a-sma-trophy-2024 "Punjab v Rajasthan, Group A - Preview")
     
     Group A
     
-* [Delhi vs Jharkhand](https://www.cricbuzz.com/live-cricket-scores/98904/del-vs-jhkd-group-c-sma-trophy-2024 "Delhi v Jharkhand, Group C - Upcoming")
+* [Delhi vs Jharkhand](https://www.cricbuzz.com/live-cricket-scores/98904/del-vs-jhkd-group-c-sma-trophy-2024 "Delhi v Jharkhand, Group C - Preview")
     
     Group C
+    
+* [Baroda vs Karnataka](https://www.cricbuzz.com/live-cricket-scores/98890/brd-vs-kar-group-b-sma-trophy-2024 "Baroda v Karnataka, Group B - Preview")
+    
+    Group B
     
 * [Sikkim vs Tripura](https://www.cricbuzz.com/live-cricket-scores/98881/skm-vs-tri-group-b-sma-trophy-2024 "Sikkim v Tripura, Group B - Upcoming")
     
@@ -302,17 +302,17 @@ AllLive NowToday
     
 * CSA Four-Day Series Division One 2024-25
     
-    [Lions vs Warriors](https://www.cricbuzz.com/live-cricket-scores/104802/lions-vs-war-13th-match-csa-four-day-series-division-one-2024-25 "Lions v Warriors, 13th Match - LIONS Won")
+    [Boland vs North West](https://www.cricbuzz.com/live-cricket-scores/104810/bol-vs-nwest-14th-match-csa-four-day-series-division-one-2024-25 "Boland v North West, 14th Match - Match drawn")
+    
+    14th Match
+    
+* [Lions vs Warriors](https://www.cricbuzz.com/live-cricket-scores/104802/lions-vs-war-13th-match-csa-four-day-series-division-one-2024-25 "Lions v Warriors, 13th Match - LIONS Won")
     
     13th Match
     
 * [Dolphins vs Knights](https://www.cricbuzz.com/live-cricket-scores/104796/dol-vs-kng-12th-match-csa-four-day-series-division-one-2024-25 "Dolphins v Knights, 12th Match - DOL Won")
     
     12th Match
-    
-* [Boland vs North West](https://www.cricbuzz.com/live-cricket-scores/104810/bol-vs-nwest-14th-match-csa-four-day-series-division-one-2024-25 "Boland v North West, 14th Match - Match drawn")
-    
-    14th Match
     
 * Australia Domestic One-Day Cup 2024-25
     
@@ -322,25 +322,17 @@ AllLive NowToday
     
 * CSA Four-Day Series Division Two 2024-25
     
-    [Border vs Mpumalanga Rhinos](https://www.cricbuzz.com/live-cricket-scores/104364/bor-vs-mpr-8th-match-csa-four-day-series-division-two-2024-25 "Border v Mpumalanga Rhinos, 8th Match - Match drawn")
-    
-    8th Match
-    
-* [Northern Cape vs KwaZulu-Natal Inland](https://www.cricbuzz.com/live-cricket-scores/104356/ncape-vs-kznin-7th-match-csa-four-day-series-division-two-2024-25 "Northern Cape v KwaZulu-Natal Inland, 7th Match - NCAPE Won")
+    [Northern Cape vs KwaZulu-Natal Inland](https://www.cricbuzz.com/live-cricket-scores/104356/ncape-vs-kznin-7th-match-csa-four-day-series-division-two-2024-25 "Northern Cape v KwaZulu-Natal Inland, 7th Match - NCAPE Won")
     
     7th Match
     
+* [Border vs Mpumalanga Rhinos](https://www.cricbuzz.com/live-cricket-scores/104364/bor-vs-mpr-8th-match-csa-four-day-series-division-two-2024-25 "Border v Mpumalanga Rhinos, 8th Match - Match drawn")
+    
+    8th Match
+    
 * ACC U19 Asia Cup, 2024
     
-    [United Arab Emirates U19 vs Japan U19](https://www.cricbuzz.com/live-cricket-scores/110085/uaeu19-vs-jpnu19-4th-match-group-a-acc-u19-asia-cup-2024 "United Arab Emirates U19 v Japan U19, 4th Match, Group A - UAEU19 Won")
-    
-    4th Match, Group A
-    
-* [Pakistan U19 vs India U19](https://www.cricbuzz.com/live-cricket-scores/110077/paku19-vs-indu19-3rd-match-group-a-acc-u19-asia-cup-2024 "Pakistan U19 v India U19, 3rd Match, Group A - PAKU19 Won")
-    
-    3rd Match, Group A
-    
-* [Sri Lanka U19 vs Afghanistan U19](https://www.cricbuzz.com/live-cricket-scores/110101/slu19-vs-afgu19-6th-match-group-b-acc-u19-asia-cup-2024 "Sri Lanka U19 v Afghanistan U19, 6th Match, Group B - SLU19 Won")
+    [Sri Lanka U19 vs Afghanistan U19](https://www.cricbuzz.com/live-cricket-scores/110101/slu19-vs-afgu19-6th-match-group-b-acc-u19-asia-cup-2024 "Sri Lanka U19 v Afghanistan U19, 6th Match, Group B - SLU19 Won")
     
     6th Match, Group B
     
@@ -348,19 +340,19 @@ AllLive NowToday
     
     5th Match, Group B
     
-* [India U19 vs Japan U19  LIVE](https://www.cricbuzz.com/live-cricket-scores/110113/indu19-vs-jpnu19-8th-match-group-a-acc-u19-asia-cup-2024 "India U19 v Japan U19, 8th Match, Group A - Live")
+* [India U19 vs Japan U19](https://www.cricbuzz.com/live-cricket-scores/110113/indu19-vs-jpnu19-8th-match-group-a-acc-u19-asia-cup-2024 "India U19 v Japan U19, 8th Match, Group A - Complete")
     
     8th Match, Group A
     
-* [Pakistan U19 vs United Arab Emirates U19  LIVE](https://www.cricbuzz.com/live-cricket-scores/110105/paku19-vs-uaeu19-7th-match-group-a-acc-u19-asia-cup-2024 "Pakistan U19 v United Arab Emirates U19, 7th Match, Group A - Live")
+* [Pakistan U19 vs United Arab Emirates U19](https://www.cricbuzz.com/live-cricket-scores/110105/paku19-vs-uaeu19-7th-match-group-a-acc-u19-asia-cup-2024 "Pakistan U19 v United Arab Emirates U19, 7th Match, Group A - PAKU19 Won")
     
     7th Match, Group A
     
-* [Afghanistan U19 vs Nepal U19](https://www.cricbuzz.com/live-cricket-scores/110125/afgu19-vs-nplu19-10th-match-group-b-acc-u19-asia-cup-2024 "Afghanistan U19 v Nepal U19, 10th Match, Group B - Upcoming")
+* [Afghanistan U19 vs Nepal U19](https://www.cricbuzz.com/live-cricket-scores/110125/afgu19-vs-nplu19-10th-match-group-b-acc-u19-asia-cup-2024 "Afghanistan U19 v Nepal U19, 10th Match, Group B - Preview")
     
     10th Match, Group B
     
-* [Bangladesh U19 vs Sri Lanka U19](https://www.cricbuzz.com/live-cricket-scores/110121/banu19-vs-slu19-9th-match-group-b-acc-u19-asia-cup-2024 "Bangladesh U19 v Sri Lanka U19, 9th Match, Group B - Upcoming")
+* [Bangladesh U19 vs Sri Lanka U19](https://www.cricbuzz.com/live-cricket-scores/110121/banu19-vs-slu19-9th-match-group-b-acc-u19-asia-cup-2024 "Bangladesh U19 v Sri Lanka U19, 9th Match, Group B - Preview")
     
     9th Match, Group B
     
@@ -396,11 +388,7 @@ AllLive NowToday
     
 * Ireland women tour of Bangladesh, 2024
     
-    [Ireland Women vs Bangladesh Women](https://www.cricbuzz.com/live-cricket-scores/109628/irew-vs-banw-2nd-odi-icc-championship-match-ireland-women-tour-of-bangladesh-2024 "Ireland Women v Bangladesh Women, 2nd ODI (ICC Championship Match) - BANW Won")
-    
-    2nd ODI (ICC Championship Match)
-    
-* [Ireland Women vs Bangladesh Women](https://www.cricbuzz.com/live-cricket-scores/109635/irew-vs-banw-3rd-odi-icc-championship-match-ireland-women-tour-of-bangladesh-2024 "Ireland Women v Bangladesh Women, 3rd ODI (ICC Championship Match) - Ings Break")
+    [Ireland Women vs Bangladesh Women](https://www.cricbuzz.com/live-cricket-scores/109635/irew-vs-banw-3rd-odi-icc-championship-match-ireland-women-tour-of-bangladesh-2024 "Ireland Women v Bangladesh Women, 3rd ODI (ICC Championship Match) - BANW Won")
     
     3rd ODI (ICC Championship Match)
     
@@ -420,11 +408,19 @@ AllLive NowToday
     
     3rd T20I
     
+* [South Africa Women vs England Women](https://www.cricbuzz.com/live-cricket-scores/94458/rsaw-vs-engw-1st-odi-icc-championship-match-south-africa-women-v-england-women-2024 "South Africa Women v England Women, 1st ODI (ICC Championship Match) - Upcoming")
+    
+    1st ODI (ICC Championship Match)
+    
 * Bahrain Women tour of Qatar 2024
     
     [Qatar Women vs Bahrain Women](https://www.cricbuzz.com/live-cricket-scores/112045/qatw-vs-bhrw-1st-match-bahrain-women-tour-of-qatar-2024 "Qatar Women v Bahrain Women, 1st Match - Upcoming")
     
     1st Match
+    
+* [Qatar Women vs Bahrain Women](https://www.cricbuzz.com/live-cricket-scores/112053/qatw-vs-bhrw-2nd-match-bahrain-women-tour-of-qatar-2024 "Qatar Women v Bahrain Women, 2nd Match - Upcoming")
+    
+    2nd Match
     
 
 Privacy Policy
@@ -733,41 +729,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
+  [](https://www.cricbuzz.com/cricket-news/132621/crickets-exponential-growth-a-bubble-ready-to-burst "Cricket's exponential growth - a bubble ready to burst?")
+
+[Cricket's exponential growth - a bubble ready to burst?](https://www.cricbuzz.com/cricket-news/132621/crickets-exponential-growth-a-bubble-ready-to-burst "Cricket's exponential growth - a bubble ready to burst?")
+
+2h ago
+
+  [](https://www.cricbuzz.com/cricket-news/132620/sri-lanka-have-four-days-to-fix-a-shaky-campaign "Sri Lanka have four days to fix a shaky campaign")
+
+[Sri Lanka have four days to fix a shaky campaign](https://www.cricbuzz.com/cricket-news/132620/sri-lanka-have-four-days-to-fix-a-shaky-campaign "Sri Lanka have four days to fix a shaky campaign")
+
+2h ago
+
+  [](https://www.cricbuzz.com/cricket-news/132619/mehidy-to-lead-in-west-indies-odis-in-najmuls-absence "Mehidy to lead in West Indies ODIs in Najmul's absence")
+
+[Mehidy to lead in West Indies ODIs in Najmul's absence](https://www.cricbuzz.com/cricket-news/132619/mehidy-to-lead-in-west-indies-odis-in-najmuls-absence "Mehidy to lead in West Indies ODIs in Najmul's absence")
+
+3h ago
+
+  [](https://www.cricbuzz.com/cricket-news/132618/tried-to-bowl-in-good-areas-and-build-pressure-for-the-other-bowlers-jayden-seales "Tried to bowl in good areas and build pressure for the other bowlers: Seales")
+
+[Tried to bowl in good areas and build pressure for the other bowlers: Seales](https://www.cricbuzz.com/cricket-news/132618/tried-to-bowl-in-good-areas-and-build-pressure-for-the-other-bowlers-jayden-seales "Tried to bowl in good areas and build pressure for the other bowlers: Seales")
+
+4h ago
+
+  [](https://www.cricbuzz.com/cricket-news/132617/jasprit-bumrah-going-to-go-down-as-one-of-the-greatest-travis-head-border-gavaskar-trophy-2024-25 "Jasprit going to go down as one of the greatest: Head")
+
+[Jasprit going to go down as one of the greatest: Head](https://www.cricbuzz.com/cricket-news/132617/jasprit-bumrah-going-to-go-down-as-one-of-the-greatest-travis-head-border-gavaskar-trophy-2024-25 "Jasprit going to go down as one of the greatest: Head")
+
+5h ago
+
   [](https://www.cricbuzz.com/cricket-news/132616/jayden-seales-takes-4-for-5-as-west-indies-take-control-in-jamaica "Seales' 4 for 5 helps West Indies take control in Jamaica")
 
 [Seales' 4 for 5 helps West Indies take control in Jamaica](https://www.cricbuzz.com/cricket-news/132616/jayden-seales-takes-4-for-5-as-west-indies-take-control-in-jamaica "Seales' 4 for 5 helps West Indies take control in Jamaica")
 
-5h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132615/zimbabwe-collapse-to-concede-series-lead-to-pakistan "Zimbabwe collapse to concede series lead to Pakistan")
-
-[Zimbabwe collapse to concede series lead to Pakistan](https://www.cricbuzz.com/cricket-news/132615/zimbabwe-collapse-to-concede-series-lead-to-pakistan "Zimbabwe collapse to concede series lead to Pakistan")
-
-15h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132614/mujeeb-returns-to-afghanistan-squad-for-zimbabwe-tour "Mujeeb returns to Afghanistan squad for Zimbabwe tour")
-
-[Mujeeb returns to Afghanistan squad for Zimbabwe tour](https://www.cricbuzz.com/cricket-news/132614/mujeeb-returns-to-afghanistan-squad-for-zimbabwe-tour "Mujeeb returns to Afghanistan squad for Zimbabwe tour")
-
-17h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132613/coetzee-out-of-second-sri-lanka-test-and-series-against-pakistan "Coetzee out of second SL Test and series against Pakistan")
-
-[Coetzee out of second SL Test and series against Pakistan](https://www.cricbuzz.com/cricket-news/132613/coetzee-out-of-second-sri-lanka-test-and-series-against-pakistan "Coetzee out of second SL Test and series against Pakistan")
-
-18h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132612/rana-gill-shine-in-indias-pink-ball-practice-match "Rana, Gill shine in India's pink-ball practice match")
-
-[Rana, Gill shine in India's pink-ball practice match](https://www.cricbuzz.com/cricket-news/132612/rana-gill-shine-in-indias-pink-ball-practice-match "Rana, Gill shine in India's pink-ball practice match")
-
-19h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132611/smat-karnataka-trounce-tamil-nadu-gujarat-pick-up-fourth-straight-win "SMAT: Karnataka trounce TN; Gujarat pick up fourth straight win")
-
-[SMAT: Karnataka trounce TN; Gujarat pick up fourth straight win](https://www.cricbuzz.com/cricket-news/132611/smat-karnataka-trounce-tamil-nadu-gujarat-pick-up-fourth-straight-win "SMAT: Karnataka trounce TN; Gujarat pick up fourth straight win")
-
-20h ago
+11h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
