@@ -20,7 +20,6 @@ View all results for ${ keyword }
 * [Manga](#)
     * [Manga Search](https://myanimelist.net/manga.php?_location=mal_h_m)
     * [Top Manga](https://myanimelist.net/topmanga.php?_location=mal_h_m)
-    * [Adapted to Anime](https://myanimelist.net/manga/adapted?_location=mal_h_m)
     * [Manga Store](https://myanimelist.net/store?_location=mal_h_m)
     * [Reviews](https://myanimelist.net/reviews.php?t=manga&_location=mal_h_m)
     * [Recommendations](https://myanimelist.net/recommendations.php?s=recentrecs&t=manga&_location=mal_h_m)
@@ -51,6 +50,7 @@ View all results for ${ keyword }
     * [Report](https://myanimelist.net/modules.php?go=report&_location=mal_h_m)
     * [Staff](https://myanimelist.net/staff?_location=mal_h_m)
     * [MAL Supporter](https://myanimelist.net/membership?_location=mal_h_m)
+* [![Santa Hat 2024](https://cdn.myanimelist.net/images/event/2016_christmas/MAL-Christmas-Hat.png)](https://myanimelist.net/forum/?topicid=2189767&utm_source=MAL&utm_medium=globalmenu_secretsanta2024)
 
 MyAnimeList Privacy Policy
 ==========================
