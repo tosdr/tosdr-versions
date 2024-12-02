@@ -27,7 +27,7 @@ EN
 **WALLAPOP PRIVACY POLICY**
 ===========================
 
-**Last review:** 25 October 2023
+**Last review:** 2 December 2024
 
 Wallapop is committed to respecting the privacy of users and the protection and security of your personal data. Therefore, it is very important for us to inform you about the way we collect, treat and protect the personal data provided to us through our website, social networks and application.
 
@@ -58,7 +58,7 @@ Additionally, if you give us your consent, Wallapop will also process the locati
 **What kind of personal data do we collect?**
 ---------------------------------------------
 
-The categories of Data we collect depend on your activity and interaction with Wallapop through the website, app and social media. Also, Wallapop will only collect personal data that is necessary for the purposes we carry out. For this reason, it is important that we explain how and what kind of data we collect:     :
+The categories of Data we collect depend on your activity and interaction with Wallapop through the website, app and social media. Also, Wallapop will only collect personal data that is necessary for the purposes we carry out. For this reason, it is important that we explain how and what kind of data we collect:
 
 * **Categories of data: Basic data**
 * **Collected data:** Name and surname, e-mail, telephone number, password.
@@ -85,10 +85,6 @@ In the event that you have not registered on our website and/or in our applicati
 * **PURPOSE:**Identify the origin of the download of our application in order to improve the commercial offer.
 * **STORAGE PERIOD:**Only at the time of such downloading shall it be carried out.
 
-* **BASIS OF LEGITIMACY:** Processing that we will carry out under the protection of our legitimate interest, in order to prevent fraud or unlawful acts
-* **PURPOSE:** To collect and analyze the content of the chats in which you interact with other users, in order to verify you are making lawful use of our services.
-* **STORAGE PERIOD:** The storage period for this processing is 5 years.
-
 * **BASIS OF LEGITIMACY:** Express consent by accepting the cookies policy.
 * **PURPOSE:** Access your location while browsing our website or using our application to show you the products nearest you.
 * **STORAGE PERIOD:** Wallapop will treat and keep the location of your device for the purposes indicated previously, as long as you do not disable the geolocation of your device.
@@ -114,6 +110,10 @@ In the event that you have registered on our website and/or in our application, 
 * **BASIS OF LEGITIMACY:** Express consent to participate in the contests we promote
 * **PURPOSE:** Manage your participation in the contests we organize in accordance with our legal bases
 * **STORAGE PERIOD:** The data collected to send you commercial communications about our own services will be kept until you unsubscribe as a registered user or object to such processing.
+
+* **BASIS OF LEGITIMACY:** Processing that we will carry out under the protection of our legitimate interest, in order to prevent fraud or unlawful acts
+* **PURPOSE:** To collect and analyze the content of the chats in which you interact with other users, in order to verify you are making lawful use of our services.
+* **STORAGE PERIOD:** The storage period for this processing is 5 years.
 
 * **BASIS OF LEGITIMACY:** Wallapop carries out such processing as a consequence of your acceptance of the general terms and conditions of the contract made at the time of requesting the delivery service of the item or services requested.
 * **PURPOSE:** To monitor delivery of the items and/or services purchased through our website and/or application.
@@ -161,16 +161,19 @@ For reasons of availability or efficiency of the service, some of our suppliers 
 **Know your data protection rights.** 
 --------------------------------------
 
-You may exercise your rights of access, rectification, deletion, opposition, limitation to the processing and portability of your data, as well as the revocation, at any time, of the consents, if any, provided to Wallapop, S.L., with address at Avenida Meridiana 89, 6th floor, C.P. 08026, Barcelona (Spain), with NIF B-66049057, attaching a photocopy of your ID card or equivalent valid identification document. For your convenience, and without prejudice to certain formal requirements established by Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of individuals with regard to the processing of personal data and on the free movement of such data (RGPD), Wallapop, S.L. offers you the possibility of exercising the aforementioned rights via email: [privacidad@wallapop.com](mailto:privacidad@wallapop.com).
+You may exercise your rights of access, rectification, deletion, opposition, limitation to the processing and portability of your data, as well as the revocation, at any time, of the consents, if any, provided to Wallapop, S.L., with address at Avenida Meridiana 89, 6th floor, C.P. 08026, Barcelona (Spain), with NIF B-66049057. For your convenience, and without prejudice to certain formal requirements established by Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of individuals with regard to the processing of personal data and on the free movement of such data (RGPD), Wallapop, S.L. offers you the possibility of exercising the aforementioned rights via email: [privacidad@wallapop.com](mailto:privacidad@wallapop.com).
 
 Likewise, we remind you of the possibility of making a complaint to the Spanish Data Protection Agency, especially when you consider that Wallapop has not duly satisfied the exercise of your rights. This claim may be submitted to the aforementioned authority through the different options that the electronic headquarters of the Spanish Data Protection Agency offers ([https://www.aepd.es/reglamento/derechos/index.html](https://www.aepd.es/reglamento/derechos/index.html)).
 
 **How to contact Wallapop for privacy requests**
 ------------------------------------------------
 
-For any questions or comments regarding this Privacy Policy or how Wallapop collects and uses your Data, you may also contact our office, and email: privacidad@wallapop.com
+For any questions or comments regarding this Privacy Policy or how Wallapop collects and uses your Data, you may also contact our office, and email: [privacidad@wallapop.com](mailto:privacidad@wallapop.com).
 
-This Privacy Policy was last updated in October 2023. We will inform you of any material changes to this Privacy Policy.
+**Data Protection Officer’s contact details**
+---------------------------------------------
+
+You can contact our Data Protection Officer by sending a postal mail to our office or by sending an email to [dpo@wallapop.com](mailto:dpo@wallapop.com).
 
 **Changes to the Privacy Policy**
 ---------------------------------
