@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Dogfighting Undercover](/wp-content/thumbnails/339-100x70.png?x53432)
+* [![Devil’s Bible](/wp-content/thumbnails/1096-100x70.jpg?x53432)
     
-    Dogfighting Undercover
+    Devil’s Bible
     
-    Dogfighting is a blood sport utilized for entertainment and may also create a revenue stream from stud fees, admission fees, and gambling.This BBC Documentary shows an Undercover Investigation into](https://documentaryheaven.com/dogfighting-undercover/ "Dogfighting Undercover")
-* [![Wheel of Time](/wp-content/thumbnails/7481-100x70.jpg?x53432)
+    A documentary about a mysterious medieval manuscript. Unlock the secrets of a medieval mystery, as science and investigation uncover the fabled and feared Devil's Bible. The 'Codex Gigas', latin for b](https://documentaryheaven.com/devils-bible/ "Devil’s Bible")
+* [![EP2/6 Surviving the Cut: US Air Force Pararescue](/wp-content/thumbnails/5114-100x70.jpg?x53432)
     
-    Wheel of Time
+    EP2/6 Surviving the Cut: US Air Force Pararescue
     
-    Wheel of Time is a 2003 documentary film by German director Werner Herzog about Tibetan Buddhism. The title refers to the Kalachakra sand mandala that provides a recurring image for the film.The f](https://documentaryheaven.com/wheel-of-time/ "Wheel of Time")
-* [![Into The Inferno](/wp-content/thumbnails/13678-100x70.jpg?x53432)
+    US Air Force Pararescue Air Force Pararescuemen are the most highly trained combat search and rescue experts in US Special Operations. When a pilot goes down behind enemy lines, these are the experts](https://documentaryheaven.com/surviving-the-cut-us-air-force-pararescue/ "EP2/6 Surviving the Cut: US Air Force Pararescue")
+* [![Julian Assange In Conversation With John Pilger](/wp-content/thumbnails/6032-100x70.jpg?x53432)
     
-    Into The Inferno
+    Julian Assange In Conversation With John Pilger
     
-    Into The Inferno is filmmaker Werner Herzog's latest documentary and it sees himself and volcanologist Clive Oppenheimer set out on a surreal journey which takes them all around th](https://documentaryheaven.com/into-inferno/ "Into The Inferno")
-* [![Who Wants A Ride?](/wp-content/thumbnails/3920-100x70.jpg?x53432)
+    The attacks on WikiLeaks and its founder, Julian Assange, are a response to an information revolution that threatens old power orders, in politics and journalism.The incitement to murder trumpeted](https://documentaryheaven.com/julian-assange-in-conversation-with-john-pilger/ "Julian Assange In Conversation With John Pilger")
+* [![Journalists: Killed in the Line of Duty](/wp-content/thumbnails/486-100x70.png?x53432)
     
-    Who Wants A Ride?
+    Journalists: Killed in the Line of Duty
     
-    Who Wants A Ride? is about the Austin Texas pedicab scene. Pedicab drivers tell stories from the streets where they work. The candid tales are funny , sometimes lurid , anthropological lore.](https://documentaryheaven.com/who-wants-a-ride/ "Who Wants A Ride?")
-* [![Dream/Killer](/wp-content/thumbnails/12525-100x70.jpg?x53432)
+    Around the world, journalists are increasingly being killed. They die in the crossfire. They die at the hand of criminals and corupt goverments. They die in tragic accidents. In the case of targeted d](https://documentaryheaven.com/journalists-killed-in-the-line-of-duty/ "Journalists: Killed in the Line of Duty")
+* [![Thatcher: Ireland And The Iron Lady](/wp-content/thumbnails/11858-100x70.jpg?x53432)
     
-    Dream/Killer
+    Thatcher: Ireland And The Iron Lady
     
-    Dream/Killer is a hard hitting film which documents the story of Ryan Ferguson, a young man who was wrongfully convicted of a brutal murder all because his best friend dreamt it up. We witness th](https://documentaryheaven.com/dream-killer/ "Dream/Killer")
+    During 11 years in power Margaret Thatcher polarised and inspired in equal measure, not only in Britain but also around the world. She helped end the Cold War and was victorious in the Falklands,](https://documentaryheaven.com/thatcher-ireland-iron-lady/ "Thatcher: Ireland And The Iron Lady")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
