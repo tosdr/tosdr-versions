@@ -276,9 +276,9 @@ Cameo does not currently sell your covered information as defined under applicab
 **12\. Notice to UK And EEA Users**
 -----------------------------------
 
-The Site is not intended for use by individuals or businesses in the European Economic Area ("EEA"). If you are in the EEA and nonetheless access the Site or use our services, or if you are in the United Kingdom ("UK"), the following privacy-related information applies:
+If you are in the European Economic Area ("EEA") and access the Site or use our services, or if you are in the United Kingdom ("UK"), the following privacy-related information applies:
 
-Cameo is the data controller for the purposes of the General Data Protection Regulation (EU) 2016/679 and the UK GDPR; and "personal information" as used in this Privacy Policy is "personal data," as defined in Article 4(1) of the GDPR and UK GDPR.
+Cameo is the data controller for the purposes of the General Data Protection Regulation (EU) 2016/679 and the UK GDPR; and "personal information" as used in this Privacy Policy is "personal data," as defined in Article 4(1) of the GDPR and UK GDPR. Cameo's European representative is Lionheart Squared (Europe) Ltd (FAO Cameo), 2 Pembroke House, Upper Pembroke Street 28-32, Dublin, D02 EK84, Republic of Ireland; Cameo's UK representative is Lionheart Squared Limited, (FAO Cameo), 17 Glasshouse Studios, Fryern Court Road, Fordingbridge, Hampshire, SP6 1QX UK.
 
 If you have any questions about how we use your personal data, or to exercise your data protection rights please [Contact Us](#contact-us).
 
@@ -350,7 +350,7 @@ No matter where the information is located, Cameo takes commercially reasonable 
 
 1. ‍**To contact us about this Privacy Policy only:**
 
-1. send an email to [dataprotection@cameo.com](mailto:dataprotection@cameo.com);
+1. send an email to [dataprotection@cameo.com](mailto:dataprotection@cameo.com) - users in the UK may also write to Cameo@LionheartSquared.co.uk and European Union users may write to Cameo@LionheartSquared.eu;
 2. call us toll-free at [1-800-243-1739](tel:1-800-243-1739); or
 3. write to us at:  
     ‍  
