@@ -350,6 +350,18 @@ Read More
 Community News
 --------------
 
+[![Addison Mackenzie](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![Addison Mackenzie](https://b108297.smushcdn.com/108297/wp-content/uploads/2021/05/AddisonMackenzie.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/award-winner-addison-mackenzie-artemis-christopher-pike-pendant/)
+
+### [Award winner – Addison MacKenzie, Artemis (Christopher Pike Pendant)](https://www.starbase118.net/2024/award-winner-addison-mackenzie-artemis-christopher-pike-pendant/)
+
+srichardsciencenerd118 December 2, 2024
+
+Join us for another in a series of interviews with winners of awards from our 2024 Awards Ceremony. Our goal is to give you insight
+
+[Read More »](https://www.starbase118.net/2024/award-winner-addison-mackenzie-artemis-christopher-pike-pendant/)
+
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2021/05/lower-decks-animated-768x432.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/lower-decks-interview-ensign-leenaya-edrei-uss-chintoka/)
@@ -373,18 +385,6 @@ Federation News Service November 30, 2024
 HERMES STATION – Desperation grips the crew of the USS Constitution-B as mutineers strike amid repairs at Hermes Outpost. The crew of the USS Constitution-B
 
 [Read More »](https://www.starbase118.net/2024/crisis-unfolds-on-the-uss-constitution-b-and-hermes-outpost/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2021/11/Amity3-768x576.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/starfleet-reels-as-amity-outpost-renews-and-idrustix-colony-grows/)
-
-### [Starfleet Reels as Amity Outpost Renews and Idrustix Colony Grows](https://www.starbase118.net/2024/starfleet-reels-as-amity-outpost-renews-and-idrustix-colony-grows/)
-
-Federation News Service November 29, 2024
-
-NURIOOTPA SOLAR NEBULA – While Amity Outpost repairs are complete, Starfleet deals with the repercussions of Changeling infiltration at its highest levels and the loss
-
-[Read More »](https://www.starbase118.net/2024/starfleet-reels-as-amity-outpost-renews-and-idrustix-colony-grows/)
 
 Ready to get started?
 ---------------------
