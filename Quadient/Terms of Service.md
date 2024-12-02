@@ -19,19 +19,6 @@ Other solutions [Quadient Software](https://www.quadient.com/en/) [Parcel locker
 
 Choose your country [Austria](https://www.quadient.com/de-at) [Belgium - NL](https://www.quadient.com/nl-be) [Belgium - FR](https://www.quadient.com/fr-be) [Canada - EN](https://www.quadient.com/en-ca) [Canada - FR](https://www.quadient.com/fr-ca) [Denmark](https://www.quadient.com/da) [Finland](https://www.quadient.com/fi) [France](https://www.quadient.com/fr) [Germany](https://www.quadient.com/de) [India](https://www.quadient.com/in) [Italy](https://www.quadient.com/it) [Japan](https://www.quadient.com/ja) [Netherlands](https://www.quadient.com/nl) [Norway](https://www.quadient.com/no) [Sweden](https://www.quadient.com/sv) [Switzerland - DE](https://www.quadient.com/de-ch) [Switzerland - FR](https://www.quadient.com/fr-ch) [United Kingdom & Ireland](https://www.quadient.com/en-gb) [United States](https://www.quadient.com/en)
 
-* Mailing and shipping solutions
-    
-    How we help
-    
-    Resources
-    
-    Support
-    
-    Contact us
-    
-    Languages
-    
-
 [View all results](https://www.quadient.com/en/search)
 
 * It seems that there's no more results to display.
@@ -40,26 +27,8 @@ Choose your country [Austria](https://www.quadient.com/de-at) [Belgium - NL](htt
     
 * [](https://www.quadient.com/en "Home")
     
-* Mailing and shipping solutions How we help Resources Support Contact us Languages
+
 * [](https://www.myquadient.com/US/en_US/Shop)
-
-Intelligent mailing [Postage meters & mailing systems](https://www.quadient.com/en/postage-meters-mailing-systems) [Folder inserters](https://www.quadient.com/en/folder-inserters) [Mail openers](https://www.quadient.com/en/mail-openers) [Digital printers & addressing](https://www.quadient.com/en/digital-printers-addressing) [Parcel shipping & tracking solutions](https://www.quadient.com/en/package-shipping-solutions) [Smart mailing software](https://www.quadient.com/en/mailroom-software) [Ink & supplies](https://www.quadient.com/en/postage-meter-ink)
-
-Solutions for your business [Small business mailing & shipping](https://www.quadient.com/en/small-business-solutions) [Advanced mailing & shipping](https://www.quadient.com/en/innovative-mail-solutions) [Production mail](https://www.quadient.com/en/production-mail)
-
-How we help [Weigh, seal & stamp mail](https://www.quadient.com/en/how-we-help/weigh-seal-meter-mail) [Automate outbound mail](https://www.quadient.com/en/mailroom-software/document-automation) [Track mail and packages](https://www.quadient.com/en/how-we-help/track-mail-and-packages) [Send certified mail](https://www.quadient.com/en/package-shipping-solutions/connectsuite-e-certify) [Manage print & digital delivery](https://www.quadient.com/en/how-we-help/e-delivery) [Have us mail it for you](https://www.quadient.com/en/how-we-help/have-us-mail-it-you) [Send omnichannel communications](https://www.quadient.com/en/how-we-help/customer-communications-management)
-
-Learning hub [Resource library](https://www.quadient.com/en/resources) [Customer success stories](https://www.quadient.com/en/customer-success) [Postage rates](https://www.quadient.com/en/resources/postal-rate-information) [IMI/Decertification](https://www.quadient.com/en/comprehensive-guide-usps-intelligent-mail-indicia-imi-and-postage-meter-decertification-qa) [Learn about mail solutions](https://www.quadient.com/en/learn-about-mail-related-solutions)
-
-Communications [Quadient newsletter](https://www.quadient.com/en/quadient-connections-mailing-shipping-newsletter) [Blog](https://www.quadient.com/en/blog) [Events](https://www.quadient.com/en/events) [Preference center](https://www.quadient.com/en/preferences)
-
-Other Resources [Tax information](https://www.quadient.com/en/resources/tax-information) [Terms of use](https://www.quadient.com/en/terms-and-conditions) [Government accounts](https://www.quadient.com/en/government-accounts) [Healthcare group purchasing](https://www.quadient.com/en/healthcare-group-purchasing/premier-gpo) [Quadient financial services](https://www.quadient.com/en/resources/financial-services)
-
-Help & support [Help & support](https://www.quadient.com/en/support) [Myquadient](https://www.myquadient.com/) [Knowledge base](https://kb.quadient.com/?sc_Lang=en-US) [FAQ](https://www.quadient.com/en/faq)
-
-[Contact us](https://www.quadient.com/en/contact-us)
-
-Choose your country [Netherlands](https://www.quadient.com/nl) [Belgium - NL](https://www.quadient.com/nl-be) [France](https://www.quadient.com/fr) [Belgium - FR](https://www.quadient.com/fr-be) [Canada - FR](https://www.quadient.com/fr-ca) [Switzerland - FR](https://www.quadient.com/fr-ch) [Austria - DE](https://www.quadient.com/de-at) [Germany](https://www.quadient.com/de) [Switzerland - DE](https://www.quadient.com/de-ch) [India](https://www.quadient.com/in) [Italy](https://www.quadient.com/it) [Japan](https://www.quadient.com/ja) [Sweden](https://www.quadient.com/sv) [Finland](https://www.quadient.com/fi) [Norway](https://www.quadient.com/no) [Denmark](https://www.quadient.com/da) [UK & Ireland](https://www.quadient.com/en-gb) [Canada - EN](https://www.quadient.com/en-ca) [US](https://www.quadient.com/en)
 
 Terms of use
 ============
