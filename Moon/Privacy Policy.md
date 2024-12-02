@@ -1,4 +1,4 @@
-[![Moon Logo](https://cdn.prod.website-files.com/6604526310f4c7f24d8e3435/6738e571eec8342a658aac13_Group%2048097661.svg)](https://paywithmoon.com/)
+[](https://paywithmoon.com/)
 
 [Home](https://paywithmoon.com/)[FAQ](https://paywithmoon.com/faqs)[Careers](https://wellfound.com/company/moon-13/jobs)[For Business](https://paywithmoon.com/business)[About Us](https://paywithmoon.com/about)
 
