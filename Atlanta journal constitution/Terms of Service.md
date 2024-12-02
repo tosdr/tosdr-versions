@@ -1,6 +1,8 @@
 error: no ad slot id exists: undefined
 
-[![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1836)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1836)](https://www.ajc.com/)
+[Breaking: 17 killed on Georgia roads over Thanksgiving weekend, a decrease from 2023](https://www.ajc.com/news/crime/17-killed-on-georgia-roads-over-thanksgiving-weekend-a-decrease-from-2023/SC2M7KMGSRC2BEZLWXMPALW73E/)
+
+[![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1842)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1842)](https://www.ajc.com/)
 
 Log In
 
@@ -23,7 +25,7 @@ Log In
 * [High School Sports](https://www.ajc.com/sports/high-school/)
 * [Falcons](https://www.ajc.com/sports/atlanta-falcons/)
 
-![Search icon](/pf/resources/icons/search-burger.svg?d=1836)
+![Search icon](/pf/resources/icons/search-burger.svg?d=1842)
 
 * Quick Links
     
@@ -147,7 +149,7 @@ Log In
     * [Videos](https://www.ajc.com/news/video/)
     
 
-[![ajc logo in background](/pf/resources/logos/AJC/logo-white.svg?d=1836)](https://www.ajc.com/)
+[![ajc logo in background](/pf/resources/logos/AJC/logo-white.svg?d=1842)](https://www.ajc.com/)
 
 * [About](https://www.ajc.com/about-AJC/)
     * [Help Center](https://ajc.zendesk.com/hc/en-us)
