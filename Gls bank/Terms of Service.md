@@ -389,7 +389,7 @@ Wenn Sie allerdings eine Buchung für ein GLS Sparkonto einsenden, kostet das ni
 Es gibt übrigens noch formlose Überweisungen als Freitextbriefe, die einen SEPA-Überweisungsauftrag enthalten. Ihre Bearbeitung kostet 5 Euro.    
     
 **Noch kein GLS Onlinebanking?**  
-[Hier können Sie sich kostenlos fürs sichere Onlinebanking freischalten.](https://www.gls.de/privatkunden/konto-karten/onlinebanking/onlinebanking-freischalten/) 
+[Hier können Sie sich kostenlos fürs sichere Onlinebanking freischalten.](https://www.gls.de/konten-karten/banking/onlinebanking-freischalten/) 
 
 ![](/media/Bilder/Angebote/Zahlungsverkehr/SEPA/SEPAueberweisungsvorlage.jpg)
 
