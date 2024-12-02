@@ -77,6 +77,14 @@ Search
     
     New Products[view all](https://www.adafruit.com/new)
     
+    ![Angled shot of round panel mount cable with USB micro-b connector.](https://cdn-shop.adafruit.com/230x173/6068-02.jpg)[USB Micro B Small Round Panel Mount Extension USB Cable
+    
+    $1.95](https://www.adafruit.com/product/6068)
+    
+    ![Angled shot of round panel mount cable with USB-c connector.](https://cdn-shop.adafruit.com/230x173/6069-02.jpg)[USB C Small Round Panel Mount Extension Cable
+    
+    $1.95](https://www.adafruit.com/product/6069)
+    
     ![Angled Shot of the Adafruit bq25185 USB / DC / Solar Charger with 5V Boost Board.](https://cdn-shop.adafruit.com/230x173/6106-00.jpg)[Adafruit bq25185 USB / DC / Solar Charger with 5V Boost Board
     
     $8.95](https://www.adafruit.com/product/6106)
@@ -84,14 +92,6 @@ Search
     ![Demo Vid of the microcontroller to the RGBW Pixel LED Patio lamp string DC12V 0.72W/bulb ,20bulbs/string](https://cdn-shop.adafruit.com/product-videos/320x240/6059-04.jpg)[Cafe / Patio Light Bulb Strand with TM1814 RGBW LED - 20 Bulbs
     
     $64.95](https://www.adafruit.com/product/6059)
-    
-    ![Demo Vid of the RGB Pixel LED Patio lamp string DC12V 0.72W/bulb ,20bulbs/string](https://cdn-shop.adafruit.com/product-videos/320x240/6058-03.jpg)[Cafe / Patio Light Bulb Strand with NeoPixel RGB LED - 20 Bulbs
-    
-    $64.95](https://www.adafruit.com/product/6058)
-    
-    ![Demo Shot of the SD to MicroSD Extender.](https://cdn-shop.adafruit.com/230x173/6060-01.jpg)[SD to MicroSD Extender
-    
-    $6.95](https://www.adafruit.com/product/6060)
     
     Featured Products[view all](https://www.adafruit.com/featured)
     
@@ -406,9 +406,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Every kid starts out as a natural-born scientist, and then we beat it out of them. A few trickle through the system with their wonder and enthusiasm for science intact”
+“ We are what we amplify”
 
-[Carl Sagan](http://en.wikipedia.org/wiki/Carl_Sagan)
+[Unknown](https://www.adafruit.com/blacklivesmatter)
 
 [](https://www.adafruit.com/about)
 
