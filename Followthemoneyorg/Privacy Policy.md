@@ -66,9 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Incumbents2010](/assets/logos/IncumbentsGraph04-10.png)](http://www.followthemoney.org/research/institute-research/tea-party-in-the-2010-state-elections-hot-or-tepid)
-
-Look at the power of incumbency.
+[![Dark Money Pushes Into State Elections](/assets/Images/teasers/small/DarkMoneyStates.JPG)](https://www.followthemoney.org/research/blog/darkness-on-the-edge-of-town-national-dark-money-targets-states)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
