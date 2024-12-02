@@ -1,6 +1,6 @@
 [×](javascript:void(0)) [MENU](#)
 
-[START TEST](#) [HISTORY](#) [VPN](https://go.nordvpn.net/aff_i?offer_id=427&aff_id=54483&url_id=15401&aff_sub=mobile&aff_sub2=menu) ![](https://go.nordvpn.net/aff_i?offer_id=427&aff_id=54483&url_id=15401&aff_sub=unknown&aff_sub2=static_page_menu) [API](#) [About](#) [How It Works](#) [Privacy](#) [Terms](#) [Help Center](#) [View Desktop Version](https://speedof.me/#fullsite)
+[START TEST](#) [HISTORY](#) [VPN](https://go.getnord.net/aff_c?offer_id=427&aff_id=54483&url_id=15401&aff_sub=unknown&aff_sub2=static_page_menu) ![](https://go.getnord.net/aff_i?offer_id=427&aff_id=54483&url_id=15401&aff_sub=unknown&aff_sub2=static_page_menu) [API](#) [About](#) [How It Works](#) [Privacy](#) [Terms](#) [Help Center](#) [View Desktop Version](https://speedof.me/#fullsite)
 
 Use of Data
 ===========
