@@ -30,7 +30,7 @@ Ga direct naar
 * [Pricewatch](https://tweakers.net/pricewatch/)
 * [Vraag & Aanbod](https://tweakers.net/aanbod/)
 * [Forum](https://gathering.tweakers.net/)
-* [Black Friday](https://tweakers.net/deals/black-friday/echte-techdeals)
+* [Cyber Monday](https://tweakers.net/deals/black-friday/echte-techdeals)
 * [Deals](https://tweakers.net/pricewatch/deals/)
 * [Meer](#)
     
