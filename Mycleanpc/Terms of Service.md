@@ -2,7 +2,7 @@
 
 As seen on TV
 
-![](images/phone-icon-29x29.png)
+![](/pagespeed_static/1.JiBnMqyl6S.gif)
 
 24/7
 
