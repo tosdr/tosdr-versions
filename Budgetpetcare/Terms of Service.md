@@ -1,10 +1,10 @@
-BLACK FRIDAY BLOWOUT!
+CYBER MONDAY SALE!
 
-25% Off + 10% **Cashback**
+30% Off + 10% **Cashback**
 
 on all orders -
 
-Use Code : BFRIDAY
+Use Code : CMONDAY
 
 * [![Free Shipping](/images/truck.png)FREE SHIPPING\* | Guaranteed Delivery](https://www.budgetpetcare.com/ship_returns.aspx)
     
