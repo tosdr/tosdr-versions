@@ -76,9 +76,9 @@ Search
 
 Search
 
-#### Exclusive
+#### Live updates
 
-[Colorado cops are 'optimistic' they can solve the JonBenét Ramsey case in 2025: 'This is our year'](https://nypost.com/2024/12/01/us-news/cops-optimistic-they-can-solve-the-jonbenet-ramsey-case-in-2025/)
+[The 321+ best Cyber Monday deals of 2024, so far](https://nypost.com/shopping/best-cyber-monday-deals-sales-live-updates-2024-12-02/)
 
 Privacy Notice Highlights
 =========================
