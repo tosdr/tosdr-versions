@@ -1,6 +1,4 @@
-[![Circles logo](/sg/assets/navbar/circles-logo-dark.svg)](https://pages.circles.life/sg/)Circles.Life
-
-Plans![arrow icon](/sg/assets/navbar/header-arrow.svg)Travel![arrow icon](/sg/assets/navbar/header-arrow.svg)Corporate![arrow icon](/sg/assets/navbar/header-arrow.svg)Devices![arrow icon](/sg/assets/navbar/header-arrow.svg)Why Us![arrow icon](/sg/assets/navbar/header-arrow.svg)Help![arrow icon](/sg/assets/navbar/header-arrow.svg)
+[![Circles logo](/sg/assets/navbar/circles-logo-dark.svg)](https://pages.circles.life/sg/sg/)Circles.Life
 
 Get Started
 
