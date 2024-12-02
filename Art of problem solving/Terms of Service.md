@@ -61,7 +61,7 @@ Middle & High School
 
 [Online Classes: AoPS Online](https://artofproblemsolving.com/) [In-person: AoPS Academy](https://aopsacademy.org/)
 
-Happy Thanksgiving! Please note that there are no classes through December 1st.
+Spring is around the corner! Get ahead by [enrolling in our math, science, or contest classes today](https://artofproblemsolving.com/school/schedule)!
 
 JavaScript is not enabled. JavaScript is required to fully utilize the site.
 
