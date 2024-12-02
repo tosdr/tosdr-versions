@@ -1,4 +1,4 @@
-ENDS TODAY | BLACK FRIDAY SALE - 25% OFF EVERYTHING
+CYBER WEEK SALE | 25% OFF EVERYTHING
 
 Menu
 
@@ -261,7 +261,7 @@ Menu
 
 [0](https://www.poweruptoys.com/cart "Cart")
 
-ENDS TODAY | BLACK FRIDAY SALE - 25% OFF EVERYTHING
+CYBER WEEK SALE | 25% OFF EVERYTHING
 
 * [](mailto:support@poweruptoys.com "Email POWERUP®")
 * [](https://www.facebook.com/Poweruptoys "POWERUP® on Facebook")
@@ -354,11 +354,11 @@ TORNADO UPDRAFT WITH POWERUP 4.0 AIRPLANE](https://www.poweruptoys.com/products/
 
 SHOP ALL PLANES](https://www.poweruptoys.com/collections/planes)
 
-[![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_30226aa9-aed9-4488-a359-1cb40b150428_50x.png?v=1732779439)
+[![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_3_50x.png?v=1733132586)
 
-![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_30226aa9-aed9-4488-a359-1cb40b150428_2000x.png?v=1732779439)
+![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_3_2000x.png?v=1733132586)
 
-SALE ENDS TODAY: 25% OFF EVERYTHING](https://www.poweruptoys.com/collections/shop-all-products)
+CYBER WEEK SALE: 25% OFF EVERYTHING](https://www.poweruptoys.com/collections/shop-all-products)
 
 * [![POWERUP 4.0 AIRPLANE](//www.poweruptoys.com/cdn/shop/files/POWERUP_Black_Friday_Sale_2024_22_50x.png?v=1732926370)
     
@@ -384,11 +384,11 @@ SALE ENDS TODAY: 25% OFF EVERYTHING](https://www.poweruptoys.com/collections/sho
     
     SHOP ALL PLANES](https://www.poweruptoys.com/collections/planes)
 
-* [![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_30226aa9-aed9-4488-a359-1cb40b150428_50x.png?v=1732779439)
+* [![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_3_50x.png?v=1733132586)
     
-    ![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_30226aa9-aed9-4488-a359-1cb40b150428_2000x.png?v=1732779439)
+    ![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_3_2000x.png?v=1733132586)
     
-    SALE ENDS TODAY: 25% OFF EVERYTHING](https://www.poweruptoys.com/collections/shop-all-products)
+    CYBER WEEK SALE: 25% OFF EVERYTHING](https://www.poweruptoys.com/collections/shop-all-products)
 
 BUNDLES
 
@@ -416,11 +416,11 @@ POWERUP 4.0 ULTIMATE BUNDLE](https://www.poweruptoys.com/products/powerup-4-0-ul
 
 SHOP ALL BUNDLES](https://www.poweruptoys.com/collections/bundles)
 
-[![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_30226aa9-aed9-4488-a359-1cb40b150428_50x.png?v=1732779439)
+[![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_3_50x.png?v=1733132586)
 
-![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_30226aa9-aed9-4488-a359-1cb40b150428_2000x.png?v=1732779439)
+![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_3_2000x.png?v=1733132586)
 
-SALE ENDS TODAY: 25% OFF EVERYTHING](https://www.poweruptoys.com/collections/shop-all-products)
+CYBER WEEK SALE: 25% OFF EVERYTHING](https://www.poweruptoys.com/collections/shop-all-products)
 
 * [![POWERUP 4.0 FLIGHT MANUAL BUNDLE](//www.poweruptoys.com/cdn/shop/files/POWERUP_Product_Image_with_Stickers_3_50x.png?v=1732928962)
     
@@ -446,11 +446,11 @@ SALE ENDS TODAY: 25% OFF EVERYTHING](https://www.poweruptoys.com/collections/sho
     
     SHOP ALL BUNDLES](https://www.poweruptoys.com/collections/bundles)
 
-* [![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_30226aa9-aed9-4488-a359-1cb40b150428_50x.png?v=1732779439)
+* [![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_3_50x.png?v=1733132586)
     
-    ![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_30226aa9-aed9-4488-a359-1cb40b150428_2000x.png?v=1732779439)
+    ![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_3_2000x.png?v=1733132586)
     
-    SALE ENDS TODAY: 25% OFF EVERYTHING](https://www.poweruptoys.com/collections/shop-all-products)
+    CYBER WEEK SALE: 25% OFF EVERYTHING](https://www.poweruptoys.com/collections/shop-all-products)
 
 ACCESSORIES
 
@@ -478,11 +478,11 @@ ADD-ON INSTALLATION + SPARE PARTS KIT FOR POWERUP 4.0](https://www.poweruptoys.c
 
 SHOP ALL ACCESSORIES](https://www.poweruptoys.com/collections/accessories)
 
-[![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_30226aa9-aed9-4488-a359-1cb40b150428_50x.png?v=1732779439)
+[![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_3_50x.png?v=1733132586)
 
-![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_30226aa9-aed9-4488-a359-1cb40b150428_2000x.png?v=1732779439)
+![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_3_2000x.png?v=1733132586)
 
-SALE ENDS TODAY: 25% OFF EVERYTHING](https://www.poweruptoys.com/collections/shop-all-products)
+CYBER WEEK SALE: 25% OFF EVERYTHING](https://www.poweruptoys.com/collections/shop-all-products)
 
 * [![SPARE PARTS KIT FOR POWERUP 4.0](//www.poweruptoys.com/cdn/shop/files/POWERUP_Product_Image_with_Stickers_c0fc1b13-1231-4b53-9bb2-24ac676a48dd_50x.png?v=1732927931)
     
@@ -508,11 +508,11 @@ SALE ENDS TODAY: 25% OFF EVERYTHING](https://www.poweruptoys.com/collections/sho
     
     SHOP ALL ACCESSORIES](https://www.poweruptoys.com/collections/accessories)
 
-* [![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_30226aa9-aed9-4488-a359-1cb40b150428_50x.png?v=1732779439)
+* [![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_3_50x.png?v=1733132586)
     
-    ![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_30226aa9-aed9-4488-a359-1cb40b150428_2000x.png?v=1732779439)
+    ![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_3_2000x.png?v=1733132586)
     
-    SALE ENDS TODAY: 25% OFF EVERYTHING](https://www.poweruptoys.com/collections/shop-all-products)
+    CYBER WEEK SALE: 25% OFF EVERYTHING](https://www.poweruptoys.com/collections/shop-all-products)
 
 EDUCATORS
 
@@ -540,11 +540,11 @@ THE PAPER AIRPLANE BOOK (12 COUNT)](https://www.poweruptoys.com/products/powerup
 
 SHOP MORE FOR EDUCATORS](https://www.poweruptoys.com/collections/powerup-for-educators)
 
-[![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_30226aa9-aed9-4488-a359-1cb40b150428_50x.png?v=1732779439)
+[![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_3_50x.png?v=1733132586)
 
-![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_30226aa9-aed9-4488-a359-1cb40b150428_2000x.png?v=1732779439)
+![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_3_2000x.png?v=1733132586)
 
-SALE ENDS TODAY: 25% OFF EVERYTHING](https://www.poweruptoys.com/collections/shop-all-products)
+CYBER WEEK SALE: 25% OFF EVERYTHING](https://www.poweruptoys.com/collections/shop-all-products)
 
 * [![](//www.poweruptoys.com/cdn/shop/files/POWERUP_Black_Friday_Sale_2024_23_50x.png?v=1732926443)
     
@@ -570,11 +570,11 @@ SALE ENDS TODAY: 25% OFF EVERYTHING](https://www.poweruptoys.com/collections/sho
     
     SHOP MORE FOR EDUCATORS](https://www.poweruptoys.com/collections/powerup-for-educators)
 
-* [![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_30226aa9-aed9-4488-a359-1cb40b150428_50x.png?v=1732779439)
+* [![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_3_50x.png?v=1733132586)
     
-    ![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_30226aa9-aed9-4488-a359-1cb40b150428_2000x.png?v=1732779439)
+    ![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_3_2000x.png?v=1733132586)
     
-    SALE ENDS TODAY: 25% OFF EVERYTHING](https://www.poweruptoys.com/collections/shop-all-products)
+    CYBER WEEK SALE: 25% OFF EVERYTHING](https://www.poweruptoys.com/collections/shop-all-products)
 
 Terms of Use
 ============
@@ -726,4 +726,4 @@ USD $
 
 © 2024 [POWERUP®](https://www.poweruptoys.com/). [Designed by Out of the Sandbox](https://outofthesandbox.com/ "Turbo Shopify Theme by Out of the Sandbox"). [Ecommerce Software by Shopify](https://www.shopify.com/?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore)
 
-Amazon American Express Apple Pay Diners Club Discover Meta Pay Google Pay Mastercard PayPal Shop Pay Venmo Visa
+Amazon American Express Apple Pay Diners Club Discover Google Pay Mastercard PayPal Shop Pay Venmo Visa
