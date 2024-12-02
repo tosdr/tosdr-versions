@@ -8,7 +8,7 @@
 * Student Success
 * More
 
-[Request Info](https://www.wgu.edu/admissions/get-info.html) [Apply Now](https://inquiryv4.wgu.edu/?step=letsGetStarted) ![](/etc.clientlibs/wgu/clientlibs/clientlib-site/resources/images/search-icon.png)
+[Request Info](https://www.wgu.edu/admissions/get-info.html) [Apply Now](https://apply.wgu.edu/register) ![](/etc.clientlibs/wgu/clientlibs/clientlib-site/resources/images/search-icon.png)
 
 [![](/etc.clientlibs/wgu/clientlibs/clientlib-site/resources/images/phone-icon.svg)](tel:866.225.5948)
 
@@ -147,9 +147,8 @@
 ##### Certificates
 
 * [Full Stack Engineering](https://www.wgu.edu/online-it-degrees/certificates/full-stack-engineering.html)
-* [Web Application Deployment and Support](https://www.wgu.edu/online-it-degrees/certificates/web-application-deployment-support.html)
-* [Front End Web Development](https://www.wgu.edu/online-it-degrees/certificates/front-end-web-development.html)
-* [Back End Web Development](https://www.wgu.edu/online-it-degrees/certificates/back-end-web-development.html)
+* [Front End Web Developer with CodeSignal](https://www.wgu.edu/online-it-degrees/certificates/front-end-web-development.html)
+* [Java Developer with CodeSignal](https://www.wgu.edu/online-it-degrees/certificates/java-developer.html)
 * [ServiceNow Application Developer](https://wgu.edu/online-it-degrees/certificates/service-now-application-developer.html)
 
 ##### 3rd Party Certifications
@@ -202,9 +201,8 @@
 * [Supply Chain (with the School of Business)](https://wgu.edu/online-business-degrees/certificates/supply-chain.html)
 * [Accounting Fundamentals (with the School of Business)](https://www.wgu.edu/online-business-degrees/certificates/accounting-fundamentals.html)
 * [Digital Marketing and E-Commerce (with the School of Business)](https://www.wgu.edu/online-business-degrees/certificates/digital-marketing-ecommerce.html)
-* [Back End Web Development (with the School of Technology)](https://www.wgu.edu/online-it-degrees/certificates/back-end-web-development.html)
-* [Front End Web Development (with the School of Technology)](https://www.wgu.edu/online-it-degrees/certificates/front-end-web-development.html)
-* [Web Application Deployment and Support (with the School of Technology)](https://www.wgu.edu/online-it-degrees/certificates/web-application-deployment-support.html)
+* [Java Developer (with CodeSignal and the School of Technology)](https://www.wgu.edu/online-it-degrees/certificates/java-developer.html)
+* [Front End Web Developer (with CodeSignal and the School of Technology)](https://www.wgu.edu/online-it-degrees/certificates/front-end-web-development.html)
 * [Full Stack Engineering (with the School of Technology)](https://www.wgu.edu/online-it-degrees/certificates/full-stack-engineering.html)
 * [ServiceNow Application Developer (with the School of Technology)](https://www.wgu.edu/online-it-degrees/certificates/service-now-application-developer.html)
 
@@ -222,7 +220,7 @@
 
 ##### Apply for Admission
 
-* [New Students](https://inquiryv4.wgu.edu/?step=letsGetStarted)
+* [New Students](https://apply.wgu.edu/register)
 * [WGU Returning Graduates](https://www.wgu.edu/lp/programs/return-grad.html)
 * [WGU Readmission](https://www.wgu.edu/admissions/restart.html)
 
@@ -492,9 +490,8 @@ Online Degrees
     * Certificates
         
         * [Full Stack Engineering](https://www.wgu.edu/online-it-degrees/certificates/full-stack-engineering.html)
-        * [Web Application Deployment and Support](https://www.wgu.edu/online-it-degrees/certificates/web-application-deployment-support.html)
-        * [Front End Web Development](https://www.wgu.edu/online-it-degrees/certificates/front-end-web-development.html)
-        * [Back End Web Development](https://www.wgu.edu/online-it-degrees/certificates/back-end-web-development.html)
+        * [Front End Web Developer with CodeSignal](https://www.wgu.edu/online-it-degrees/certificates/front-end-web-development.html)
+        * [Java Developer with CodeSignal](https://www.wgu.edu/online-it-degrees/certificates/java-developer.html)
         * [ServiceNow Application Developer](https://wgu.edu/online-it-degrees/certificates/service-now-application-developer.html)
         
     * 3rd Party Certifications
@@ -555,9 +552,8 @@ Online Degrees
         * [Supply Chain (with the School of Business)](https://wgu.edu/online-business-degrees/certificates/supply-chain.html)
         * [Accounting Fundamentals (with the School of Business)](https://www.wgu.edu/online-business-degrees/certificates/accounting-fundamentals.html)
         * [Digital Marketing and E-Commerce (with the School of Business)](https://www.wgu.edu/online-business-degrees/certificates/digital-marketing-ecommerce.html)
-        * [Back End Web Development (with the School of Technology)](https://www.wgu.edu/online-it-degrees/certificates/back-end-web-development.html)
-        * [Front End Web Development (with the School of Technology)](https://www.wgu.edu/online-it-degrees/certificates/front-end-web-development.html)
-        * [Web Application Deployment and Support (with the School of Technology)](https://www.wgu.edu/online-it-degrees/certificates/web-application-deployment-support.html)
+        * [Java Developer (with CodeSignal and the School of Technology)](https://www.wgu.edu/online-it-degrees/certificates/java-developer.html)
+        * [Front End Web Developer (with CodeSignal and the School of Technology)](https://www.wgu.edu/online-it-degrees/certificates/front-end-web-development.html)
         * [Full Stack Engineering (with the School of Technology)](https://www.wgu.edu/online-it-degrees/certificates/full-stack-engineering.html)
         * [ServiceNow Application Developer (with the School of Technology)](https://www.wgu.edu/online-it-degrees/certificates/service-now-application-developer.html)
         
@@ -579,7 +575,7 @@ Admissions & Transfers
     
     * Apply for Admission
         
-        * [New Students](https://inquiryv4.wgu.edu/?step=letsGetStarted)
+        * [New Students](https://apply.wgu.edu/register)
         * [WGU Returning Graduates](https://www.wgu.edu/lp/programs/return-grad.html)
         * [WGU Readmission](https://www.wgu.edu/admissions/restart.html)
         
@@ -755,7 +751,7 @@ Student Success
 
  [866.225.5948](tel:866.225.5948)
 
-[Apply Now](https://inquiryv4.wgu.edu/?step=letsGetStarted) [Request Info](https://www.wgu.edu/admissions/get-info.html)
+[Apply Now](https://apply.wgu.edu/register) [Request Info](https://www.wgu.edu/admissions/get-info.html)
 
 WGU Privacy Policy
 ==================
