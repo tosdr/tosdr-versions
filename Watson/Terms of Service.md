@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![ciel couvert](https://www.watson.ch/fr/_watsui/static/img/weather/w-6.svg)6°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![pluie modérée](https://www.watson.ch/fr/_watsui/static/img/weather/w-17.svg)7°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -54,22 +54,22 @@
 
 Thèmes du moment
 
-* [Parlement](https://www.watson.ch/fr/parlement/)
 * [France](https://www.watson.ch/fr/france/)
-* [National League](https://www.watson.ch/fr/national-league/)
+* [Commentaire](https://www.watson.ch/fr/commentaire/)
+* [Conseil national](https://www.watson.ch/fr/conseil-national/)
+* [Parlement](https://www.watson.ch/fr/parlement/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
 * [Police](https://www.watson.ch/fr/police/)
 * [Séries](https://www.watson.ch/fr/series/)
-* [Promotion](https://www.watson.ch/fr/promotion/)
 * [Joe Biden](https://www.watson.ch/fr/joe-biden/)
 * [Animaux](https://www.watson.ch/fr/animaux/)
-* [Conseil fédéral](https://www.watson.ch/fr/conseil-federal/)
+* [Conseil des Etats](https://www.watson.ch/fr/conseil-des-etats/)
 * [Justice](https://www.watson.ch/fr/justice/)
 * [Netflix](https://www.watson.ch/fr/netflix/)
+* [Berne](https://www.watson.ch/fr/berne/)
 * [Fribourg](https://www.watson.ch/fr/fribourg/)
+* [Armée](https://www.watson.ch/fr/armee/)
 * [ukraine](https://www.watson.ch/fr/ukraine/)
-* [classement](https://www.watson.ch/fr/classement/)
-* [Prix](https://www.watson.ch/fr/prix/)
 * [Football](https://www.watson.ch/fr/football/)
 * [Argent](https://www.watson.ch/fr/argent/)
 * [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
