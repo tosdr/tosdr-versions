@@ -107,20 +107,20 @@ Top downloads
 
 Latest releases
 
+* [Save The Meeklits!](https://www.myabandonware.com/game/save-the-meeklits-td4)
 * [Mavis Beacon Teaches Typing: Version 17](https://www.myabandonware.com/game/mavis-beacon-teaches-typing-version-17-td3)
 * [Mavis Beacon Teaches Typing: Version 16](https://www.myabandonware.com/game/mavis-beacon-teaches-typing-version-16-td2)
 * [Grave Spirit](https://www.myabandonware.com/game/grave-spirit-td1)
 * [Urban Uprising: Dark New World](https://www.myabandonware.com/game/urban-uprising-dark-new-world-td0)
-* [Urban Uprising](https://www.myabandonware.com/game/urban-uprising-tcz)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
 
 Screenshots needed
 
-* [Laguna Racer](https://www.myabandonware.com/game/laguna-racer-sfr)
-* [Lunar 2: Eternal Blue - Complete](https://www.myabandonware.com/game/lunar-2-eternal-blue-complete-p8d)
-* [Motor Raid](https://www.myabandonware.com/game/motor-raid-sfi)
+* [Dora the Explorer: Wildlife Rescue](https://www.myabandonware.com/game/dora-the-explorer-wildlife-rescue-msm)
+* [Primeval Hunt](https://www.myabandonware.com/game/primeval-hunt-t7l)
+* [The Legend of Heroes III: Shiroki Majo](https://www.myabandonware.com/game/the-legend-of-heroes-iii-shiroki-majo-q72)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
