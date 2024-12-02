@@ -32,11 +32,8 @@ Navigation
     
     *  [![](https://media.tegna-media.com/assets/WQAD/images/2b123806-0ea4-4c3a-b84b-666b3a6a55fd/20241202T041413/2b123806-0ea4-4c3a-b84b-666b3a6a55fd_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/2b123806-0ea4-4c3a-b84b-666b3a6a55fd/20241202T041413/2b123806-0ea4-4c3a-b84b-666b3a6a55fd_360x203.jpg)](https://www.wqad.com/article/life/holidays/hauberg-estate-rock-island-winter-in-bloom-open-house/526-a72c5ee2-2523-46cb-838e-dc1727ec9d62)
         
-        #### [Hauberg Estate in Rock Island hosts annual holiday open house](https://www.wqad.com/article/life/holidays/hauberg-estate-rock-island-winter-in-bloom-open-house/526-a72c5ee2-2523-46cb-838e-dc1727ec9d62) [![](https://media.tegna-media.com/assets/WQAD/images/2b123806-0ea4-4c3a-b84b-666b3a6a55fd/20241202T041413/2b123806-0ea4-4c3a-b84b-666b3a6a55fd_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/2b123806-0ea4-4c3a-b84b-666b3a6a55fd/20241202T041413/2b123806-0ea4-4c3a-b84b-666b3a6a55fd_360x203.jpg)](https://www.wqad.com/article/life/holidays/hauberg-estate-rock-island-winter-in-bloom-open-house/526-a72c5ee2-2523-46cb-838e-dc1727ec9d62)
+        #### ['Winter in Bloom' at the Hauberg Estate: Hundreds attend holiday open house in Rock Island](https://www.wqad.com/article/life/holidays/hauberg-estate-rock-island-winter-in-bloom-open-house/526-a72c5ee2-2523-46cb-838e-dc1727ec9d62)
         
-        #### ['Winter in Bloom' at the Hauberg Estate: Hundreds attend holiday open house in Rock Island](https://www.wqad.com/article/life/holidays/hauberg-estate-rock-island-winter-in-bloom-open-house/526-a72c5ee2-2523-46cb-838e-dc1727ec9d62) [![](https://media.tegna-media.com/assets/WQAD/images/2b123806-0ea4-4c3a-b84b-666b3a6a55fd/20241202T041413/2b123806-0ea4-4c3a-b84b-666b3a6a55fd_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/2b123806-0ea4-4c3a-b84b-666b3a6a55fd/20241202T041413/2b123806-0ea4-4c3a-b84b-666b3a6a55fd_360x203.jpg)](https://www.wqad.com/article/life/holidays/hauberg-estate-rock-island-winter-in-bloom-open-house/526-a72c5ee2-2523-46cb-838e-dc1727ec9d62)
-        
-        #### [Hauberg Estate hosts hundreds for annual holiday open house 'Winter in Bloom'](https://www.wqad.com/article/life/holidays/hauberg-estate-rock-island-winter-in-bloom-open-house/526-a72c5ee2-2523-46cb-838e-dc1727ec9d62)
     *  [![](https://media.tegna-media.com/assets/WQAD/images/f5f3d060-8a8a-440d-81ac-444e59a9d0b0/20241201T172040/f5f3d060-8a8a-440d-81ac-444e59a9d0b0_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f5f3d060-8a8a-440d-81ac-444e59a9d0b0/20241201T172040/f5f3d060-8a8a-440d-81ac-444e59a9d0b0_360x203.jpg)](https://www.wqad.com/article/news/crime/cocaine-seized-western-illinois-40-million-dollars-1000-pounds-state-police/526-4997638b-da18-4772-ae5d-00a393d505b8)
         
         #### [Over $40M worth of cocaine seized during traffic stop near Geneseo, ISP says](https://www.wqad.com/article/news/crime/cocaine-seized-western-illinois-40-million-dollars-1000-pounds-state-police/526-4997638b-da18-4772-ae5d-00a393d505b8)
@@ -89,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-15°
+16°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
