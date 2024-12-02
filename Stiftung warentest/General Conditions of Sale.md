@@ -664,12 +664,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Digi­taler Euro: Gefälschte E-Mail mit KfW-Angebot](https://www.test.de/Digitaler-Euro-Gefaelschte-E-Mail-mit-KfW-Angebot-6119446-0/ "Digitaler Euro - Gefälschte E-Mail mit KfW-Angebot")
-* [test warnt: Abzocke an der E-Auto-Ladesäule](https://www.test.de/test-warnt-Abzocke-an-der-E-Auto-Ladesaeule-6157093-0/ "test warnt - Abzocke an der E-Auto-Ladesäule")
-* [Pantoffel-Portfolio ergänzen: Anlegen mit Kick – zehn Beimischungen im Test](https://www.test.de/Pantoffel-Portfolio-ergaenzen-Anlegen-mit-Kick-zehn-Beimischungen-im-Test-6111636-0/ "Pantoffel-Portfolio ergänzen - Anlegen mit Kick – zehn Beimischungen im Test")
-* [Gehör schützen: Laut­stärke des Kopf­hörers begrenzen – so geht‘s](https://www.test.de/Gehoer-schuetzen-Lautstaerke-des-Kopfhoerers-begrenzen-so-gehts-6104614-0/ "Gehör schützen - Lautstärke des Kopfhörers begrenzen – so geht‘s")
-* [Warn­liste: Falsche Firma Fest­geld48](https://www.test.de/Warnliste-Falsche-Firma-Festgeld48-5981748-0/ "Warnliste - Falsche Firma Festgeld48")
-* [Bauspar­rechner: Online-Angebote für Bausparer oft unge­eignet](https://www.test.de/Bausparrechner-Online-Angebote-fuer-Bausparer-oft-ungeeignet-6009987-0/ "Bausparrechner - Online-Angebote für Bausparer oft ungeeignet")
+* [Fünf-Punkte-Strategie mit aktiven Fonds: Mit Top-Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiven-Fonds-Mehr-Rendite-mit-Top-Fonds-6156098-0/ "Fünf-Punkte-Strategie mit aktiven Fonds - Mit Top-Fonds den Markt schlagen")
+* [Fonds­gebundene Renten­versicherungen im Vergleich: Finger weg von Policen mit Beitrags­garantie](https://www.test.de/Fondsgebundene-Rentenversicherung-mit-Beitragsgarantie-Vergleich-6062027-0/ "Fondsgebundene Rentenversicherungen im Vergleich - Finger weg von Policen mit Beitragsgarantie")
+* [Immobilie erben: Haus geerbt – was jetzt zu tun ist](https://www.test.de/Haus-geerbt-6092774-0/ "Immobilie erben - Haus geerbt – was jetzt zu tun ist")
+* [Dubiose Onlinebroker: Eternity Business Ltd. fehlt Zulassung](https://www.test.de/Dubiose-Onlinebroker-Eternity-Business-Ltd-fehlt-Zulassung-6031051-0/ "Dubiose Onlinebroker - Eternity Business Ltd. fehlt Zulassung")
+* [Ökodesign-Verordnung: Smartphones müssen bald länger halten](https://www.test.de/Oekodesign-Verordnung-Smartphones-muessen-bald-laenger-halten-6169413-0/ "Ökodesign-Verordnung - Smartphones müssen bald länger halten")
+* [Lebens­mittel mit Rauch­geschmack: Auf Raucharomen besser verzichten](https://www.test.de/Lebensmittel-mit-Rauchgeschmack-Auf-Raucharomen-besser-verzichten-6113528-0/ "Lebensmittel mit Rauchgeschmack - Auf Raucharomen besser verzichten")
 
 Weitere Informationen
 
@@ -3082,12 +3082,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Digi­taler Euro: Gefälschte E-Mail mit KfW-Angebot](https://www.test.de/Digitaler-Euro-Gefaelschte-E-Mail-mit-KfW-Angebot-6119446-0/ "Digitaler Euro - Gefälschte E-Mail mit KfW-Angebot")
-* [test warnt: Abzocke an der E-Auto-Ladesäule](https://www.test.de/test-warnt-Abzocke-an-der-E-Auto-Ladesaeule-6157093-0/ "test warnt - Abzocke an der E-Auto-Ladesäule")
-* [Pantoffel-Portfolio ergänzen: Anlegen mit Kick – zehn Beimischungen im Test](https://www.test.de/Pantoffel-Portfolio-ergaenzen-Anlegen-mit-Kick-zehn-Beimischungen-im-Test-6111636-0/ "Pantoffel-Portfolio ergänzen - Anlegen mit Kick – zehn Beimischungen im Test")
-* [Gehör schützen: Laut­stärke des Kopf­hörers begrenzen – so geht‘s](https://www.test.de/Gehoer-schuetzen-Lautstaerke-des-Kopfhoerers-begrenzen-so-gehts-6104614-0/ "Gehör schützen - Lautstärke des Kopfhörers begrenzen – so geht‘s")
-* [Warn­liste: Falsche Firma Fest­geld48](https://www.test.de/Warnliste-Falsche-Firma-Festgeld48-5981748-0/ "Warnliste - Falsche Firma Festgeld48")
-* [Bauspar­rechner: Online-Angebote für Bausparer oft unge­eignet](https://www.test.de/Bausparrechner-Online-Angebote-fuer-Bausparer-oft-ungeeignet-6009987-0/ "Bausparrechner - Online-Angebote für Bausparer oft ungeeignet")
+* [Fünf-Punkte-Strategie mit aktiven Fonds: Mit Top-Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiven-Fonds-Mehr-Rendite-mit-Top-Fonds-6156098-0/ "Fünf-Punkte-Strategie mit aktiven Fonds - Mit Top-Fonds den Markt schlagen")
+* [Fonds­gebundene Renten­versicherungen im Vergleich: Finger weg von Policen mit Beitrags­garantie](https://www.test.de/Fondsgebundene-Rentenversicherung-mit-Beitragsgarantie-Vergleich-6062027-0/ "Fondsgebundene Rentenversicherungen im Vergleich - Finger weg von Policen mit Beitragsgarantie")
+* [Immobilie erben: Haus geerbt – was jetzt zu tun ist](https://www.test.de/Haus-geerbt-6092774-0/ "Immobilie erben - Haus geerbt – was jetzt zu tun ist")
+* [Dubiose Onlinebroker: Eternity Business Ltd. fehlt Zulassung](https://www.test.de/Dubiose-Onlinebroker-Eternity-Business-Ltd-fehlt-Zulassung-6031051-0/ "Dubiose Onlinebroker - Eternity Business Ltd. fehlt Zulassung")
+* [Ökodesign-Verordnung: Smartphones müssen bald länger halten](https://www.test.de/Oekodesign-Verordnung-Smartphones-muessen-bald-laenger-halten-6169413-0/ "Ökodesign-Verordnung - Smartphones müssen bald länger halten")
+* [Lebens­mittel mit Rauch­geschmack: Auf Raucharomen besser verzichten](https://www.test.de/Lebensmittel-mit-Rauchgeschmack-Auf-Raucharomen-besser-verzichten-6113528-0/ "Lebensmittel mit Rauchgeschmack - Auf Raucharomen besser verzichten")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -3138,12 +3138,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Digi­taler Euro: Gefälschte E-Mail mit KfW-Angebot](https://www.test.de/Digitaler-Euro-Gefaelschte-E-Mail-mit-KfW-Angebot-6119446-0/ "Digitaler Euro - Gefälschte E-Mail mit KfW-Angebot")
-* [test warnt: Abzocke an der E-Auto-Ladesäule](https://www.test.de/test-warnt-Abzocke-an-der-E-Auto-Ladesaeule-6157093-0/ "test warnt - Abzocke an der E-Auto-Ladesäule")
-* [Pantoffel-Portfolio ergänzen: Anlegen mit Kick – zehn Beimischungen im Test](https://www.test.de/Pantoffel-Portfolio-ergaenzen-Anlegen-mit-Kick-zehn-Beimischungen-im-Test-6111636-0/ "Pantoffel-Portfolio ergänzen - Anlegen mit Kick – zehn Beimischungen im Test")
-* [Gehör schützen: Laut­stärke des Kopf­hörers begrenzen – so geht‘s](https://www.test.de/Gehoer-schuetzen-Lautstaerke-des-Kopfhoerers-begrenzen-so-gehts-6104614-0/ "Gehör schützen - Lautstärke des Kopfhörers begrenzen – so geht‘s")
-* [Warn­liste: Falsche Firma Fest­geld48](https://www.test.de/Warnliste-Falsche-Firma-Festgeld48-5981748-0/ "Warnliste - Falsche Firma Festgeld48")
-* [Bauspar­rechner: Online-Angebote für Bausparer oft unge­eignet](https://www.test.de/Bausparrechner-Online-Angebote-fuer-Bausparer-oft-ungeeignet-6009987-0/ "Bausparrechner - Online-Angebote für Bausparer oft ungeeignet")
+* [Fünf-Punkte-Strategie mit aktiven Fonds: Mit Top-Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiven-Fonds-Mehr-Rendite-mit-Top-Fonds-6156098-0/ "Fünf-Punkte-Strategie mit aktiven Fonds - Mit Top-Fonds den Markt schlagen")
+* [Fonds­gebundene Renten­versicherungen im Vergleich: Finger weg von Policen mit Beitrags­garantie](https://www.test.de/Fondsgebundene-Rentenversicherung-mit-Beitragsgarantie-Vergleich-6062027-0/ "Fondsgebundene Rentenversicherungen im Vergleich - Finger weg von Policen mit Beitragsgarantie")
+* [Immobilie erben: Haus geerbt – was jetzt zu tun ist](https://www.test.de/Haus-geerbt-6092774-0/ "Immobilie erben - Haus geerbt – was jetzt zu tun ist")
+* [Dubiose Onlinebroker: Eternity Business Ltd. fehlt Zulassung](https://www.test.de/Dubiose-Onlinebroker-Eternity-Business-Ltd-fehlt-Zulassung-6031051-0/ "Dubiose Onlinebroker - Eternity Business Ltd. fehlt Zulassung")
+* [Ökodesign-Verordnung: Smartphones müssen bald länger halten](https://www.test.de/Oekodesign-Verordnung-Smartphones-muessen-bald-laenger-halten-6169413-0/ "Ökodesign-Verordnung - Smartphones müssen bald länger halten")
+* [Lebens­mittel mit Rauch­geschmack: Auf Raucharomen besser verzichten](https://www.test.de/Lebensmittel-mit-Rauchgeschmack-Auf-Raucharomen-besser-verzichten-6113528-0/ "Lebensmittel mit Rauchgeschmack - Auf Raucharomen besser verzichten")
 
 Neueste Tests
 
@@ -3156,12 +3156,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Digi­taler Euro: Gefälschte E-Mail mit KfW-Angebot](https://www.test.de/Digitaler-Euro-Gefaelschte-E-Mail-mit-KfW-Angebot-6119446-0/ "Digitaler Euro - Gefälschte E-Mail mit KfW-Angebot")
-* [test warnt: Abzocke an der E-Auto-Ladesäule](https://www.test.de/test-warnt-Abzocke-an-der-E-Auto-Ladesaeule-6157093-0/ "test warnt - Abzocke an der E-Auto-Ladesäule")
-* [Pantoffel-Portfolio ergänzen: Anlegen mit Kick – zehn Beimischungen im Test](https://www.test.de/Pantoffel-Portfolio-ergaenzen-Anlegen-mit-Kick-zehn-Beimischungen-im-Test-6111636-0/ "Pantoffel-Portfolio ergänzen - Anlegen mit Kick – zehn Beimischungen im Test")
-* [Gehör schützen: Laut­stärke des Kopf­hörers begrenzen – so geht‘s](https://www.test.de/Gehoer-schuetzen-Lautstaerke-des-Kopfhoerers-begrenzen-so-gehts-6104614-0/ "Gehör schützen - Lautstärke des Kopfhörers begrenzen – so geht‘s")
-* [Warn­liste: Falsche Firma Fest­geld48](https://www.test.de/Warnliste-Falsche-Firma-Festgeld48-5981748-0/ "Warnliste - Falsche Firma Festgeld48")
-* [Bauspar­rechner: Online-Angebote für Bausparer oft unge­eignet](https://www.test.de/Bausparrechner-Online-Angebote-fuer-Bausparer-oft-ungeeignet-6009987-0/ "Bausparrechner - Online-Angebote für Bausparer oft ungeeignet")
+* [Fünf-Punkte-Strategie mit aktiven Fonds: Mit Top-Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiven-Fonds-Mehr-Rendite-mit-Top-Fonds-6156098-0/ "Fünf-Punkte-Strategie mit aktiven Fonds - Mit Top-Fonds den Markt schlagen")
+* [Fonds­gebundene Renten­versicherungen im Vergleich: Finger weg von Policen mit Beitrags­garantie](https://www.test.de/Fondsgebundene-Rentenversicherung-mit-Beitragsgarantie-Vergleich-6062027-0/ "Fondsgebundene Rentenversicherungen im Vergleich - Finger weg von Policen mit Beitragsgarantie")
+* [Immobilie erben: Haus geerbt – was jetzt zu tun ist](https://www.test.de/Haus-geerbt-6092774-0/ "Immobilie erben - Haus geerbt – was jetzt zu tun ist")
+* [Dubiose Onlinebroker: Eternity Business Ltd. fehlt Zulassung](https://www.test.de/Dubiose-Onlinebroker-Eternity-Business-Ltd-fehlt-Zulassung-6031051-0/ "Dubiose Onlinebroker - Eternity Business Ltd. fehlt Zulassung")
+* [Ökodesign-Verordnung: Smartphones müssen bald länger halten](https://www.test.de/Oekodesign-Verordnung-Smartphones-muessen-bald-laenger-halten-6169413-0/ "Ökodesign-Verordnung - Smartphones müssen bald länger halten")
+* [Lebens­mittel mit Rauch­geschmack: Auf Raucharomen besser verzichten](https://www.test.de/Lebensmittel-mit-Rauchgeschmack-Auf-Raucharomen-besser-verzichten-6113528-0/ "Lebensmittel mit Rauchgeschmack - Auf Raucharomen besser verzichten")
 
 Stiftung Warentest
 
