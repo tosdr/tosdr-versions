@@ -4,7 +4,7 @@ Save 50% Sitewide! DETAILS
 
 \+ Free Gift With Purchase! DETAILS
 
-THE BLACK FRIDAY SALE
+THE CYBER MONDAY SALE
 
 Close the Modal
 
@@ -12,7 +12,7 @@ Close the Modal
 
 [SHOP MEN](https://www.tommiecopper.com/men/)    [SHOP WOMEN](https://www.tommiecopper.com/women)
 
-Offer valid 11/28/2024 8AM ET - 12/2/2024 6AM ET.
+Offer valid 12/1/2024 8AM ET - 12/3/2024 6AM ET.
 
 Sitewide discounts priced as marked. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
 
@@ -24,7 +24,7 @@ Close the Modal
 
 [SHOP MEN](https://www.tommiecopper.com/men/)    [SHOP WOMEN](https://www.tommiecopper.com/women/)
 
-Offer valid 11/28/2024 8AM ET - 12/2/2024 6AM ET.
+Offer valid 12/1/2024 8AM ET - 12/3/2024 6AM ET.
 
 Free gift automatically applied in cart on all orders $150+. Order subtotal must reach $150 before taxes and shipping. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
 
