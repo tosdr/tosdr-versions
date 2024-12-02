@@ -166,17 +166,6 @@ To find out more, consult your browser’s help function. We’ve provided links
 * [Safari](https://support.apple.com/en-us/HT201265)
 * [Samsung Browser](https://www.samsung.com/uk/support/mobile-devices/using-the-samsung-internet-app/)
 
-[Policies and reports](https://about.open.ac.uk/strategy-and-policies)
-----------------------------------------------------------------------
-
-* [Mission](https://about.open.ac.uk/policies-and-reports/mission)
-* [Policies and statements](https://about.open.ac.uk/policies-and-reports/policies-and-statements)
-* [Facts and figures](https://about.open.ac.uk/strategy-and-policies/facts-and-figures)
-* [OfS Transparency Information Return](https://about.open.ac.uk/strategy-and-policies/ofs-transparency-information-return)
-* [Partnerships](https://about.open.ac.uk/policies-and-reports/partnerships)
-* [The history of The OU](https://about.open.ac.uk/strategy-and-policies/history-ou)
-* [Where do student fees go?](https://about.open.ac.uk/policies-and-reports/where-do-student-fees-go)
-
 Further reading
 ---------------
 
