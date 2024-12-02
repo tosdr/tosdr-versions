@@ -1,4 +1,4 @@
-[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/67322158d15ff011d016b5fc_Own-Logo-Horz-Black-RGB.png)](https://www.ownbackup.com/)
+[![own now from salesforce horizontal ](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/67322158d15ff011d016b5fc_Own-Logo-Horz-Black-RGB.png)](https://www.ownbackup.com/)
 
 Thank you! Your submission has been received!
 
@@ -40,7 +40,7 @@ Accelerate insights and AI training with time-series data from your backups](htt
 
 featured
 
-[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/66f9f2ce083adfa7f807b840_Group%20226176.png)
+[![financial building circle icon](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/66f9f2ce083adfa7f807b840_Group%20226176.png)
 
 PUBLIC SECTOR
 
@@ -132,13 +132,13 @@ On The Blog
 
 How Salesforce Admins Can Use Historical Data to Drive Agentforce Success](https://www.ownbackup.com/blog/how-salesforce-admins-can-use-historical-data-to-drive-agentforce-success)
 
-[Own Secure
+[Compliance
 
-Streamline Salesforce Security to Accelerate Your Next Innovation](https://www.ownbackup.com/blog/streamline-salesforce-security-to-accelerate-your-next-innovation)
+Top 2025 Data Compliance Pitfalls](https://www.ownbackup.com/blog/top-2025-data-compliance-pitfalls)
 
-[DORA
+[Salesforce
 
-The Countdown to DORA is On. How Are You Doing?](https://www.ownbackup.com/blog/the-countdown-to-dora-is-on-how-are-you-doing)
+Tackling Salesforce Data Overload: Practical Tips from a Senior Salesforce Admin](https://www.ownbackup.com/blog/tackling-salesforce-data-overload-practical-tips-from-a-senior-salesforce-admin)
 
 Company
 
@@ -222,7 +222,7 @@ Hyderabad, Telangana 500081
 
 [](https://www.ownbackup.com/search)[Support](https://support.owndata.com/s/)[Get a Demo](https://www.ownbackup.com/request-demo)
 
-[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/67322158da1e42078beaf1c6_Own-Logo-Horz-White-RGB.png)![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/67322158d15ff011d016b5fc_Own-Logo-Horz-Black-RGB.png)](https://www.ownbackup.com/)
+[![own now from salesforce white horizontal](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/67322158da1e42078beaf1c6_Own-Logo-Horz-White-RGB.png)![own now from salesforce horizontal ](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/67322158d15ff011d016b5fc_Own-Logo-Horz-Black-RGB.png)](https://www.ownbackup.com/)
 
 Thank you! Your submission has been received!
 
@@ -264,7 +264,7 @@ Accelerate insights and AI training with time-series data from your backups](htt
 
 featured
 
-[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/66f9f2ce083adfa7f807b840_Group%20226176.png)
+[![financial building circle icon](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/66f9f2ce083adfa7f807b840_Group%20226176.png)
 
 PUBLIC SECTOR
 
@@ -356,13 +356,13 @@ On The Blog
 
 How Salesforce Admins Can Use Historical Data to Drive Agentforce Success](https://www.ownbackup.com/blog/how-salesforce-admins-can-use-historical-data-to-drive-agentforce-success)
 
-[Own Secure
+[Compliance
 
-Streamline Salesforce Security to Accelerate Your Next Innovation](https://www.ownbackup.com/blog/streamline-salesforce-security-to-accelerate-your-next-innovation)
+Top 2025 Data Compliance Pitfalls](https://www.ownbackup.com/blog/top-2025-data-compliance-pitfalls)
 
-[DORA
+[Salesforce
 
-The Countdown to DORA is On. How Are You Doing?](https://www.ownbackup.com/blog/the-countdown-to-dora-is-on-how-are-you-doing)
+Tackling Salesforce Data Overload: Practical Tips from a Senior Salesforce Admin](https://www.ownbackup.com/blog/tackling-salesforce-data-overload-practical-tips-from-a-senior-salesforce-admin)
 
 Company
 
@@ -608,7 +608,7 @@ Share your details and we’ll contact you shortly to schedule a custom 25-minut
 
 ![](https://cdn.prod.website-files.com/placeholder.svg)
 
-[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/673221582d07245ba1772054_Own-Logo-Vert-White-RGB%20(1).png)](https://www.ownbackup.com/)
+[![own now from salesforce](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/673221582d07245ba1772054_Own-Logo-Vert-White-RGB%20(1).png)](https://www.ownbackup.com/)
 
 [Office: 646.503.5100](tel:6465035100)[info@owndata.com](mailto:info@owndata.com)[Contact Us](https://www.ownbackup.com/contact-us)
 
@@ -697,7 +697,7 @@ Legal
 
 [![linkedin](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d39d804ec083617d226fbe_linken.svg)](https://www.linkedin.com/company/owndata/)[![YouTube](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/651654964df69a09d4296c75_youtube.svg)](https://youtube.com/@Own.Company)
 
-[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/673221582d07245ba1772054_Own-Logo-Vert-White-RGB%20(1).png)](https://www.ownbackup.com/)
+[![own now from salesforce](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/673221582d07245ba1772054_Own-Logo-Vert-White-RGB%20(1).png)](https://www.ownbackup.com/)
 
 [Office: 646.503.5100](tel:6465035100)[info@owndata.com](mailto:info@owndata.com)[Contact Us](https://www.ownbackup.com/contact-us)
 
