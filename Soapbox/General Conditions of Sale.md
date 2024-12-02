@@ -2,9 +2,9 @@
 
 [](https://www.soapboxsoaps.com/pages/soapbox-gift-guide)
 
-BLACK FRIDAY DEALS: SAVE UP TO 30%
+BFCM DEALS: SAVE UP TO 30%
 
-BLACK FRIDAY DEALS: SAVE UP TO 30%
+BFCM DEALS: SAVE UP TO 30%
 
 Menu icon Menu
 
