@@ -23,9 +23,6 @@ Translation Menu
 
 * [Español](https://www.ftc.gov/es)
 
-Secondary Menu
---------------
-
 * [Report Fraud](https://reportfraud.ftc.gov/)
 * [Get Consumer Alerts](https://public.govdelivery.com/accounts/USFTCCONSUMER/subscriber/new?topic_id=USFTCCONSUMER_8)
 * [Search the Legal Library](https://www.ftc.gov/legal-library)
@@ -226,9 +223,9 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC Takes Aim at Top Fraud Driving Losses Among Older Americans](https://www.ftc.gov/news-events/news/press-releases/2024/11/ftc-takes-aim-top-fraud-driving-losses-among-older-americans)
+    ### [FTC Order Requires Online Retailer GOAT to Pay More than $2 Million to Consumers for Mail Order Rule Violations and to Honor Its Buyer Protection Policies](https://www.ftc.gov/news-events/news/press-releases/2024/12/ftc-order-requires-online-retailer-goat-pay-more-2-million-consumers-mail-order-rule-violations)
     
-    November 27, 2024
+    December 2, 2024
     
     [View News and Events](https://www.ftc.gov/news-events)
     
@@ -332,9 +329,6 @@ Translation Menu
 ----------------
 
 * [Español](https://www.ftc.gov/es)
-
-Secondary Menu
---------------
 
 * [Report Fraud](https://reportfraud.ftc.gov/)
 * [Get Consumer Alerts](https://public.govdelivery.com/accounts/USFTCCONSUMER/subscriber/new?topic_id=USFTCCONSUMER_8)
