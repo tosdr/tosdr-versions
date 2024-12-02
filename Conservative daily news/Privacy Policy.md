@@ -1,15 +1,15 @@
-Sunday, December 1 2024
+Monday, December 2 2024
 
 Breaking News
 
+* [Abortion, Reproduction…What’s In A Word](https://www.conservativedailynews.com/2024/12/abortion-reproductionwhats-in-a-word/)
+* [Jack Smith Could Face ‘Severe Consequences’ For Year-Long Legal Crusade Against Trump](https://www.conservativedailynews.com/2024/12/jack-smith-could-face-severe-consequences-for-year-long-legal-crusade-against-trump/)
+* [President Joe Biden’s Schedule for Monday, December 2, 2024](https://www.conservativedailynews.com/2024/12/president-joe-bidens-schedule-for-monday-december-2-2024/)
 * [Elon Musk Demands Shutdown Of Consumer Bureau](https://www.conservativedailynews.com/2024/11/elon-musk-demands-shutdown-of-consumer-bureau/)
 * [Biden Was Not Concerned, Trump Will Stop Fentanyl](https://www.conservativedailynews.com/2024/11/biden-was-not-concerned-trump-will-stop-fentanyl/)
 * [The Inequity of the Pursuit of Equity in the military over preparedness is at best dereliction of duty](https://www.conservativedailynews.com/2024/11/the-inequity-of-the-pursuit-of-equity-in-the-military-over-preparedness-is-at-best-dereliction-of-duty/)
 * [America In The Age Of Stupidity: Democrats Kiss Hitler’s Ass](https://www.conservativedailynews.com/2024/11/america-in-the-age-of-stupidity-democrats-kiss-hitlers-ass/)
 * [Trump Will Redirect Billions In Unspent Funds From Biden’s Climate Law To ‘Real Infrastructure’](https://www.conservativedailynews.com/2024/11/trump-will-redirect-billions-in-unspent-funds-from-bidens-climate-law-to-real-infrastructure/)
-* [A Lame Duck Biden Could Put The World In Peril](https://www.conservativedailynews.com/2024/11/a-lame-duck-biden-could-put-the-world-in-peril/)
-* [Shocker: Liberal Professor Concludes liberals should try to Persuade Voters of their Views](https://www.conservativedailynews.com/2024/11/shocker-liberal-professor-concludes-liberals-should-try-to-persuade-voters-of-their-views/)
-* [Something to be Thankful For](https://www.conservativedailynews.com/2024/11/something-to-be-thankful-for/)
 
 * [RSS](https://www.conservativedailynews.com/news-feeds/)
 * [Facebook](https://www.facebook.com/ConservativeDailyNews/)
@@ -130,6 +130,24 @@ Orange = One-Time Donations
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/IMG_5861-220x150.jpeg)](https://www.conservativedailynews.com/2024/12/abortion-reproductionwhats-in-a-word/)
+    
+    [Abortion, Reproduction…What’s In A Word](https://www.conservativedailynews.com/2024/12/abortion-reproductionwhats-in-a-word/)
+    
+    December 2, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/12/jack-Smith-220x150.jpg)](https://www.conservativedailynews.com/2024/12/jack-smith-could-face-severe-consequences-for-year-long-legal-crusade-against-trump/)
+    
+    [Jack Smith Could Face ‘Severe Consequences’ For Year-Long Legal Crusade Against Trump](https://www.conservativedailynews.com/2024/12/jack-smith-could-face-severe-consequences-for-year-long-legal-crusade-against-trump/)
+    
+    December 2, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/06/Joe-Biden-air-force-one-220x150.jpg)](https://www.conservativedailynews.com/2024/12/president-joe-bidens-schedule-for-monday-december-2-2024/)
+    
+    [President Joe Biden’s Schedule for Monday, December 2, 2024](https://www.conservativedailynews.com/2024/12/president-joe-bidens-schedule-for-monday-december-2-2024/)
+    
+    December 2, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/mrz120124dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/the-lies-that-lost/)
     
     [The Lies that Lost](https://www.conservativedailynews.com/2024/12/the-lies-that-lost/)
@@ -160,27 +178,10 @@ Recent Posts
     
     November 29, 2024
     
-* [![Kamala's Support republicans](https://www.conservativedailynews.com/wp-content/uploads/2024/11/stg112924dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/kamalas-supporters/)
-    
-    [Kamala’s Supporters](https://www.conservativedailynews.com/2024/11/kamalas-supporters/)
-    
-    November 29, 2024
-    
-* [![Military woke](https://www.conservativedailynews.com/wp-content/uploads/2023/07/mrz071323dAPR.jpg)](https://www.conservativedailynews.com/2024/11/the-inequity-of-the-pursuit-of-equity-in-the-military-over-preparedness-is-at-best-dereliction-of-duty/)
-    
-    [The Inequity of the Pursuit of Equity in the military over preparedness is at best dereliction of duty](https://www.conservativedailynews.com/2024/11/the-inequity-of-the-pursuit-of-equity-in-the-military-over-preparedness-is-at-best-dereliction-of-duty/)
-    
-    November 28, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/Morning-Joe-Joe-Scarborough-Trump-220x150.jpg)](https://www.conservativedailynews.com/2024/11/america-in-the-age-of-stupidity-democrats-kiss-hitlers-ass/)
-    
-    [America In The Age Of Stupidity: Democrats Kiss Hitler’s Ass](https://www.conservativedailynews.com/2024/11/america-in-the-age-of-stupidity-democrats-kiss-hitlers-ass/)
-    
-    November 28, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [NRA Argues Against Washington Mag Ban In State Supreme Court Filing](https://www.thegunpage.com/nra-argues-against-washington-mag-ban-in-state-supreme-court-filing/10612221)
 * [New York City Politicians Attack Guns, Not Crime](https://www.thegunpage.com/new-york-city-politicians-attack-guns-not-crime/10612218)
 * [Savage Arms Announces the New Stance XR Micro Pistol](https://www.thegunpage.com/savage-arms-announces-the-new-stance-xr-micro-pistol/10612215)
 * [Pro-Gun, Anti-Gun Bills Pre-Filed In Lone Star State Legislature](https://www.thegunpage.com/pro-gun-anti-gun-bills-pre-filed-in-lone-star-state-legislature/10612213)
@@ -190,7 +191,6 @@ Recent Posts
 * [Illegal Alien’s Purchase Of 170 Guns Raises Eyebrows](https://www.thegunpage.com/illegal-aliens-purchase-of-170-guns-raises-eyebrows/10612201)
 * [Why the First Kalashnikov Machine Gun was a Complete Failure?](https://www.thegunpage.com/why-the-first-kalashnikov-machine-gun-was-a-complete-failure/10612197)
 * [POTD: FN Minimi & FORT-600 In Ukraine](https://www.thegunpage.com/potd-fn-minimi-fort-600-in-ukraine/10612198)
-* [TFB Podcast Roundup 157: The Black Friday 2024 Roundup](https://www.thegunpage.com/tfb-podcast-roundup-157-the-black-friday-2024-roundup/10612199)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
