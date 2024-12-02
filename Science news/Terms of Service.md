@@ -124,7 +124,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Giant hornets have been sighted in Europe for the first time](https://www.sciencenews.org/article/giant-hornets-europe-first-sighting)
             
-            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")3 hours ago
+            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")17 mins ago
             
         * [Animals](https://www.sciencenews.org/topic/animals)
             
