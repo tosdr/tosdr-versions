@@ -138,6 +138,8 @@ WSECU Routing Number: **325181028**
     
     * [Business Credit Card](https://wsecu.org/business/credit-card)
     * [Business Insurance](https://wsecu.org/business/insurance)
+    * [Merchant Services](https://wsecu.org/business/small-business-merchant-services)
+    * [Payroll](https://wsecu.org/business/small-business-payroll-services)
     
      [![A woman and man leaning on the counter of a food truck, smiling](/Images/Mega%20Menu/business.jpg) Specialty vehicle loans for your small business Get rolling](https://wsecu.org/business/term-loan)
     
@@ -390,6 +392,8 @@ Go back to the search field
     
     * [Business Credit Card](https://wsecu.org/business/credit-card)
     * [Business Insurance](https://wsecu.org/business/insurance)
+    * [Merchant Services](https://wsecu.org/business/small-business-merchant-services)
+    * [Payroll](https://wsecu.org/business/small-business-payroll-services)
     
      [![A woman and man leaning on the counter of a food truck, smiling](/Images/Mega%20Menu/business.jpg) Specialty vehicle loans for your small business Get rolling](https://wsecu.org/business/term-loan)
     
