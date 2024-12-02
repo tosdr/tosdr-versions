@@ -46,7 +46,7 @@ You heard it here first – all the latest AMP news, updates, and announcements]
 
 Employee Spotlight
 
-Honoring the talent, attributes, and wins of the incredible individuals that make up Team AMP](https://www.admarketplace.com/employee-spotlight)[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/673cff40a6ce76848660f9bb_Event.svg)
+Honoring the talent, attributes, and wins of the incredible individuals that make up Team AMP](https://www.admarketplace.com/employee-spotlight)[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/674de8de55d3a13845435451_Event-2px.svg)
 
 IMPACT
 
