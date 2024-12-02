@@ -311,7 +311,7 @@ Privacy Policy](https://www.mezo.ai/privacypolicy)
 Similar apps
 ------------
 
-_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGGVybDh0ZkdEQzhzTGpiNVdCUnRTenc9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljK00ac)
+_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGHpOTHB4U25tVVp4MmNXbk9udUJlanc9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljLn6jk)
 
 [![Thumbnail image](https://play-lh.googleusercontent.com/gnlpo5LYkUtiGNbNRhVFKVtOUnp_B_Sw85SM8QDYT9qA-4_Mq25KBhammMwoZphsjeg=s64)
 
@@ -328,14 +328,6 @@ SimpleLogin | Anti-spam
 Simple Login
 
 4.3_star_](https://play.google.com/store/apps/details?id=io.simplelogin.android)
-
-[![Thumbnail image](https://play-lh.googleusercontent.com/qw_MVfLwKrZduwQyyU9qx1246GCpOGNIgnoqUezlcfpfAFKmZ0aH1iBqLA7bsYLa6hs=s64)
-
-Sugar Mail email app
-
-Kostya Vasilyev US
-
-3.6_star_](https://play.google.com/store/apps/details?id=org.kman.email2)
 
 [![Thumbnail image](https://play-lh.googleusercontent.com/Cr59AhT17rgDJIbmKq76kMIa1iTxG7fiepHHOLMdyqXCleCQGvx5OLcE3Tl9p09dBZo=s64)
 
@@ -360,6 +352,14 @@ Pushbullet: SMS on PC and more
 Pushbullet
 
 4.3_star_](https://play.google.com/store/apps/details?id=com.pushbullet.android)
+
+[![Thumbnail image](https://play-lh.googleusercontent.com/mg7fg0oHkqa-8djwpLrxt-qn978IW9qYLo6miSZfLD-lJYYgxv0rpG-gRifXDmgh_z0Z=s64)
+
+MailTime: Secure Email Inbox
+
+MailTime
+
+4.1_star_](https://play.google.com/store/apps/details?id=com.mailtime.android)
 
 [_flag_Flag as inappropriate](https://support.google.com/googleplay/?p=report_content)
 
