@@ -264,7 +264,7 @@ Select language English Español Filipino 中文（简体中文） 中文（繁�
 
 * * *
 
-* [](https://twitter.com/waymo/ "Waymo on Twitter")
+* [](https://twitter.com/waymo/ "Waymo on X")
 * [](https://www.linkedin.com/company/waymo "Waymo on LinkedIn")
 * [](https://www.instagram.com/waymo/?hl=en "Waymo on Instagram")
 * [](https://facebook.com/waymo/ "Waymo on Facebook")
