@@ -117,61 +117,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Support even on Sundays!
-> ------------------------
+> Integrated Debit Order Solution
+> -------------------------------
 > 
-> Thanks Adriaan...
-> 
-> You guys even work on Sundays?
-> 
-> I’m impressed!!
+> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
 
-Johan Botha - Brand Xplosion
+Hugo van Sittert
 
-![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=3068d48773f57cbd9f17965633357794d5f6f40fea190acbac7b7fa981096e72&c=189375484)  
-Wiselink Broadband Dundee
+![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=1b4e6924328561fb964482a2992ee96ab67a754660d95b94c869657d4f6888e7&c=179943339)  
+OrgChart Hosting Pty Ltd
 
-![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=3068d48773f57cbd9f17965633357794d5f6f40fea190acbac7b7fa981096e72&c=106710141)  
-Nogana Events and Decor
+![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=1b4e6924328561fb964482a2992ee96ab67a754660d95b94c869657d4f6888e7&c=188300704)  
+Desygn
 
-![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=3068d48773f57cbd9f17965633357794d5f6f40fea190acbac7b7fa981096e72&c=152930864)  
-#DiGi3 Marketing & Design
+![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=1b4e6924328561fb964482a2992ee96ab67a754660d95b94c869657d4f6888e7&c=166571814)  
+Goju-Ryu Pretoria East
 
-![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=3068d48773f57cbd9f17965633357794d5f6f40fea190acbac7b7fa981096e72&c=12374700)  
-Kinetic Power Solutions (Pty) Ltd.
+![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=1b4e6924328561fb964482a2992ee96ab67a754660d95b94c869657d4f6888e7&c=191161687)  
+MR Compressors& Industrial Supplies
 
-![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=3068d48773f57cbd9f17965633357794d5f6f40fea190acbac7b7fa981096e72&c=129734282)  
+![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=1b4e6924328561fb964482a2992ee96ab67a754660d95b94c869657d4f6888e7&c=206514550)  
 Tiny Cuddles Photography
 
-![valued client Safe Train Mokgethwa (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8103&file=logo_300_100&type=&fe=3068d48773f57cbd9f17965633357794d5f6f40fea190acbac7b7fa981096e72&c=48120201)  
-Safe Train Mokgethwa (PTY) Ltd
+![valued client SafeTclip](https://www.invoicesonline.co.za/scripts/image.php?bid=8368&file=logo_300_100&type=&fe=1b4e6924328561fb964482a2992ee96ab67a754660d95b94c869657d4f6888e7&c=205478011)  
+SafeTclip
 
-![valued client Roekeloos Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8320&file=logo_300_100&type=&fe=3068d48773f57cbd9f17965633357794d5f6f40fea190acbac7b7fa981096e72&c=162190065)  
-Roekeloos Group
+![valued client Moulded Wax SA - The Candle Store](https://www.invoicesonline.co.za/scripts/image.php?bid=8218&file=logo_300_100&type=&fe=1b4e6924328561fb964482a2992ee96ab67a754660d95b94c869657d4f6888e7&c=210203502)  
+Moulded Wax SA - The Candle Store
 
-![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=3068d48773f57cbd9f17965633357794d5f6f40fea190acbac7b7fa981096e72&c=122123854)  
-TurboFibre
+![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=1b4e6924328561fb964482a2992ee96ab67a754660d95b94c869657d4f6888e7&c=1740809)  
+Frequency Fanatics (Pty) Ltd
 
-![valued client Cooper Power](https://www.invoicesonline.co.za/scripts/image.php?bid=8689&file=logo_300_100&type=&fe=3068d48773f57cbd9f17965633357794d5f6f40fea190acbac7b7fa981096e72&c=34195456)  
-Cooper Power
+![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=1b4e6924328561fb964482a2992ee96ab67a754660d95b94c869657d4f6888e7&c=146480312)  
+Tagline Brands
 
-![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=3068d48773f57cbd9f17965633357794d5f6f40fea190acbac7b7fa981096e72&c=72527250)  
-Little Nutty Professors
+![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=1b4e6924328561fb964482a2992ee96ab67a754660d95b94c869657d4f6888e7&c=143343145)  
+VIV'S TRUCKS (Pty) Ltd. (117)
 
-![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=3068d48773f57cbd9f17965633357794d5f6f40fea190acbac7b7fa981096e72&c=126870186)  
-CBR Verwe/Paints
+![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=1b4e6924328561fb964482a2992ee96ab67a754660d95b94c869657d4f6888e7&c=16061952)  
+RADIO TYGERBERG 104FM NPC
 
-![valued client Shades of Summer Investments 184cc t/a Junker Construction](https://www.invoicesonline.co.za/scripts/image.php?bid=7053&file=logo_300_100&type=&fe=3068d48773f57cbd9f17965633357794d5f6f40fea190acbac7b7fa981096e72&c=53008974)  
-Shades of Summer Investments 184cc t/a Junker Construction
+![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=1b4e6924328561fb964482a2992ee96ab67a754660d95b94c869657d4f6888e7&c=116297323)  
+CLEVER STUDENTS
 
-![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=3068d48773f57cbd9f17965633357794d5f6f40fea190acbac7b7fa981096e72&c=46452692)  
-APTV Telecoms CC
+![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=1b4e6924328561fb964482a2992ee96ab67a754660d95b94c869657d4f6888e7&c=18045159)  
+NWET Pty LTD
 
-![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=3068d48773f57cbd9f17965633357794d5f6f40fea190acbac7b7fa981096e72&c=162847398)  
-MOSELA GROUP Pty(ltd)
+![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=1b4e6924328561fb964482a2992ee96ab67a754660d95b94c869657d4f6888e7&c=23344439)  
+Testpro Laboratory (Pty) Ltd
 
-![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=3068d48773f57cbd9f17965633357794d5f6f40fea190acbac7b7fa981096e72&c=43411526)  
-FJW Security Cc
+![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=1b4e6924328561fb964482a2992ee96ab67a754660d95b94c869657d4f6888e7&c=139785400)  
+Beyond Laser CNC Cutting Technology South Africa CC
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
