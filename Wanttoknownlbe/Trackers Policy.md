@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/meelezen/schuldig-bevonden-door-te-bestaan/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/economie/duurzaam/n-wervelende-stroom-van-energie/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
