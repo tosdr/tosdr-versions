@@ -6,28 +6,6 @@
 
 ![](https://cdn.prod.website-files.com/659fa592476e081fbd5a3312/65b09d0184930ca7e937916c_mysterium-burger-black.svg)![](https://cdn.prod.website-files.com/659fa592476e081fbd5a3312/65b09d01a89d3561e0cdab1d_mysterium-burger-purple.svg)
 
-[Limited Time Only
-
-CODE:CYBER](https://www.mysteriumvpn.com/black-friday)[Limited Time Only
-
-CODE:CYBER](https://www.mysteriumvpn.com/black-friday)[Limited Time Only
-
-CODE:CYBER](https://www.mysteriumvpn.com/black-friday)[Limited Time Only
-
-CODE:CYBER](https://www.mysteriumvpn.com/black-friday)[Limited Time Only
-
-CODE:CYBER](https://www.mysteriumvpn.com/black-friday)[Limited Time Only
-
-CODE:CYBER](https://www.mysteriumvpn.com/black-friday)[Limited Time Only
-
-CODE:CYBER](https://www.mysteriumvpn.com/black-friday)[Limited Time Only
-
-CODE:CYBER](https://www.mysteriumvpn.com/black-friday)[Limited Time Only
-
-CODE:CYBER](https://www.mysteriumvpn.com/black-friday)[Limited Time Only
-
-CODE:CYBER](https://www.mysteriumvpn.com/black-friday)
-
 ![](https://cdn.prod.website-files.com/659fa592476e081fbd5a3312/65b5cadbc3edfa5897846881_mysteriumd-legal-background-image-blur.svg)
 
 ![](https://cdn.prod.website-files.com/659fa592476e081fbd5a3312/65b5ca64f3f867dcba96a40a_mysteriumd-legal-background-image.svg)
