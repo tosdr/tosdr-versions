@@ -78,7 +78,7 @@ Order now! Sale ends in
     
     [All Bestsellers](https://www.womanizer.com/eu/bestseller)
     
-* [Black Friday Sale](https://www.womanizer.com/eu/sale)
+* [CYBER MONDAY](https://www.womanizer.com/eu/sale)
     
     * [NEW
         
