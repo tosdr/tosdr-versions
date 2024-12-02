@@ -155,4 +155,4 @@ Resistbot is a product _of_ the Resistbot Action Fund, a 501(c)(4) social welfar
 
 [![Telegram](/_next/static/media/telegram.ed7803e8.svg)](https://t.me/resistbot?start=)[![Messenger](/_next/static/media/messenger.b180bfc6.svg)](https://www.messenger.com/t/1224106861035505?text=)[![Bluesky](/_next/static/media/bluesky.8558f240.svg)](https://bsky.app/profile/resist.bot)[![Instagram](/_next/static/media/instagram.9f660aed.svg)](https://www.instagram.com/direct/t/107534807309194/?text=)[![Threads](/_next/static/media/threads.72851eb3.svg)](https://www.threads.net/@resistbot)[![Discord](/_next/static/media/discord.aa52e8ed.svg)](https://rs.bot/discord)
 
-Version `main/8f1bdf` built with ❤️ on Mon, November 25, 2024 at 2:45 PM by robots without emotions.
+Version `main/d2e343` built with ❤️ on Mon, December 2, 2024 at 11:11 AM by robots without emotions.
