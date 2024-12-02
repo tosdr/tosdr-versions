@@ -1,6 +1,6 @@
 **Terms & Conditions**
 
-Last updated: June 15, 2023
+Last updated: August 2nd, 2024
 
 Welcome to the website of surveysoda.com (“Website”). The Website is operated by Rex Direct Net, Inc. (“we” or “us”). By accessing, browsing or using this Website, through any direct or indirect means or by using the goods, facilities or services offered in, or through these Services through any communications including but not limited to telephone, mail, text, email or facsimile, you accept and agree to be bound by these terms and conditions of use (“Terms”). Use of Personal information collected and submitted in connection with this Service is also subject to our [Privacy Policy](https://surveysoda.com/privacy.php).
 
