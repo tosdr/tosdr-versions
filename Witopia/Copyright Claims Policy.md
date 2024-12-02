@@ -143,14 +143,14 @@ Please send only DMCA notices to our Designated Copyright Agent via dmca@witopia
 
 Copyright © 2024 [Witopia](https://www.witopia.com/ "Witopia") All rights reserved.
 
+CYBER MONDAY DEALS Premium VPN as low as $1.74/mo | Email Encryption + VPN as low as $3.49/mo. [Grab the Cyber Monday offer](#)
+
+X
+
 Enter code **witopia2534** during checkout for 30% OFF all services.
 
 [Let’s Do It](https://www.witopia.com/pricing)
 
 CLOSE
-
-BLACK FRIDAY DEALS Premium VPN as low as $1.74/mo | Email Encryption + VPN as low as $3.49/mo. [Grab the Black Friday offer](#)
-
-X
 
 We use cookies to ensure that we give you the best experience on our website and to observe traffic trends. If you continue to use our site we will assume that you're cool with all that. [Ok](#)
