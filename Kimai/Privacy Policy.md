@@ -216,7 +216,7 @@ Kimai
 
 #1 Open-Source Time-Tracking
 
-Free and easy to use time tracking for freelancers, agencies and companies. Kimai is open source software available for self-hosting and as SaaS.
+Time tracking made easy. An open-source solution for teams of all sizes - self-hosted or SaaS.
 
 English
 
