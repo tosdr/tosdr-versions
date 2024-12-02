@@ -229,6 +229,18 @@ out of 5 based on
 
 ![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
+> Dec 2, 2024
+
+> Kim Abrahams is as great to work with
+
+> Kim Abrahams is as great to work with. Very responsive and helpful for setting up my trip to Africa
+
+Nicholas Nelson
+
+,
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
 > Nov 30, 2024
 
 > Great advice, responsive and knowledgeable!
@@ -332,20 +344,6 @@ Sumari von Kunow
 ,
 
 SE
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Nov 27, 2024
-
-> We are exprienced world travellers
-
-> We are exprienced world travellers, but when it came to booking a safari, after a bit of research we realized we were out of our league with the logistics. Shaan Shaw at Safari.com listened closely to our needs and intrests, and quickly responded to all of our questions, efficietly putting together the package for a fly-in safari of our dreams at nearly half the price of other luxury groups! Her strong communicatioin skills, creative problem solving, experience and attentiveness have are refreshing attributes and it has been a delight to work with her.
-
-Ray
-
-,
-
-US
 
 VIP service
 
