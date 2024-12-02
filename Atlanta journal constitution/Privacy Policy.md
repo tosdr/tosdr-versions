@@ -1,5 +1,3 @@
-[Breaking: UPDATE | Trooper, suspect hurt after gunfire exchanged at Rockdale gas station, GBI says](https://www.ajc.com/news/crime/trooper-injured-after-gunfire-exchanged-with-alleged-racers-in-rockdale-gsp-says/ALEWJ5YWARGMNL6CZHGTWIJQSA/)
-
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1836)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1836)](https://www.ajc.com/)
 
 Log In
@@ -16,7 +14,6 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
-* [Weekend Things to Do](https://www.ajc.com/things-to-do/things-to-do-in-atlanta-the-weekend-after-thanksgiving-nov-29-dec-1/I4GZQSQAXBDFDE3PFIPFPNRUUA/)
 * [Politically Georgia](https://www.ajc.com/politics/politically-georgia/)
 * [Holiday Guide](https://www.ajc.com/things-to-do/atlanta-winter-guide/)
 * [UATL](https://www.ajc.com/uatl/)
