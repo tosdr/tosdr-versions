@@ -406,9 +406,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Somewhere, something incredible is waiting to be known”
+“ There is a single light of science, and to brighten it anywhere is to brighten it everywhere”
 
-[Carl Sagan](http://en.wikipedia.org/wiki/Carl_Sagan)
+[Isaac Asimov](http://en.wikipedia.org/wiki/Isaac_Asimov)
 
 [](https://www.adafruit.com/about)
 
