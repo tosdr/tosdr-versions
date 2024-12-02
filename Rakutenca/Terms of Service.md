@@ -359,7 +359,7 @@ FR
         
         2% Cash Back](https://www.rakuten.ca/mejuri)[Shoppers Drug Mart Beauty
         
-        2% Cash Back](https://www.rakuten.ca/shoppers-drug-mart-beauty)[Banana Republic
+        7% Cash Back](https://www.rakuten.ca/shoppers-drug-mart-beauty)[Banana Republic
         
         2% Cash Back](https://www.rakuten.ca/banana-republic-ca)
         
