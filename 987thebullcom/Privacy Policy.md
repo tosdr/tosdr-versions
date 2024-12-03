@@ -349,11 +349,11 @@ Recently Played
 
 |     |
 | --- |
-| This Town'S Been Too Good To UsDylan Scott<br><br>4:40am |
-| CowgirlsMorgan Wallen Ft Ernest<br><br>4:37am |
-| Life With YouKelsey Hart<br><br>4:34am |
-| Pour Me A DrinkPost Malone Ft Blake Shelton<br><br>4:31am |
-| Messed Up As MeKeith Urban<br><br>4:28am |
+| Heart Like A TruckLainey Wilson<br><br>10:05am |
+| I Never LieZach Top<br><br>10:01am |
+| Night ShiftJon Pardi<br><br>9:53am |
+| Ain'T No Love In OklahomaLuke Combs<br><br>9:50am |
+| Love SomebodyMorgan Wallen<br><br>9:46am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -501,17 +501,17 @@ Featured Brands
 
 News Talk • Eastern
 
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+
+Country • Western
+
 [![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
 Country • Western
 
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
-Sports • Midwest
-
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
-
-Top 40 • Eastern
+Top 40 • Pacific NW
 
 [](https://www.alphamediausa.com/)
 
