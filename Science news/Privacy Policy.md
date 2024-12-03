@@ -94,7 +94,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Neandertals may have built a hearth specifically to make tar](https://www.sciencenews.org/article/neandertals-hearth-used-to-make-tar)
             
-            By [Richard Kemeny](https://www.sciencenews.org/author/richard-kemeny "Posts by Richard Kemeny")15 hours ago
+            By [Richard Kemeny](https://www.sciencenews.org/author/richard-kemeny "Posts by Richard Kemeny")21 hours ago
             
         * [Anthropology](https://www.sciencenews.org/topic/anthropology)
             
@@ -120,23 +120,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
     * Recent posts in Life
         --------------------
         
+        * [Animals](https://www.sciencenews.org/topic/animals)
+            
+            ### [Ethiopian wolves are the first large carnivores found to slurp nectar](https://www.sciencenews.org/article/ethiopia-wolves-carnivore-nectar-pollen)
+            
+            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")1 hour ago
+            
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
             
             ### [Electronic ‘tattoos’ offer an alternative to electrodes for brain monitoring](https://www.sciencenews.org/article/electronic-tattoos-brain-monitoring)
             
-            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")17 hours ago
+            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")23 hours ago
             
         * [Animals](https://www.sciencenews.org/topic/animals)
             
             ### [Giant hornets have been sighted in Europe for the first time](https://www.sciencenews.org/article/giant-hornets-europe-first-sighting)
             
-            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")20 hours ago
-            
-        * [Animals](https://www.sciencenews.org/topic/animals)
-            
-            ### [Videos capture orcas’ tricks for taking down the largest fish on Earth](https://www.sciencenews.org/article/videos-orcas-hunt-whale-sharks)
-            
-            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")November 29, 2024
+            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")December 2, 2024
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
@@ -149,6 +149,12 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         
         * [Climate](https://www.sciencenews.org/topic/climate)
             
+            ### [An unexpected ice collapse hints at worrying changes on the Antarctic coast](https://www.sciencenews.org/article/unexpected-ice-collapse-antarctic-coast)
+            
+            By [Douglas Fox](https://www.sciencenews.org/author/douglas-fox "Posts by Douglas Fox")5 hours ago
+            
+        * [Climate](https://www.sciencenews.org/topic/climate)
+            
             ### [From electric cars to wildfires, how Trump may affect climate actions](https://www.sciencenews.org/article/trump-affect-climate-actions-research)
             
             By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")November 25, 2024
@@ -158,12 +164,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [Satellite space junk might wreak havoc on the stratosphere](https://www.sciencenews.org/article/satellite-space-junk-havoc-stratosphere)
             
             By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")November 22, 2024
-            
-        * [Climate](https://www.sciencenews.org/topic/climate)
-            
-            ### [Climate change has amped up hurricane wind speeds by 29 kph on average](https://www.sciencenews.org/article/climate-change-hurricane-wind-speeds)
-            
-            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")November 20, 2024
             
 * [Physics](https://www.sciencenews.org/topic/physics)
     * [Physics](https://www.sciencenews.org/topic/physics)
