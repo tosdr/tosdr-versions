@@ -1,26 +1,26 @@
 * [Бързи връзки](#)
     
-    * [Виж темите без отговор](https://grysti.com/community/search.php?search_id=unanswered&sid=c1ac05432ccd30006ff24f4ac76fd3c9)
-    * [Виж активните теми](https://grysti.com/community/search.php?search_id=active_topics&sid=c1ac05432ccd30006ff24f4ac76fd3c9)
+    * [Виж темите без отговор](https://grysti.com/community/search.php?search_id=unanswered&sid=f36b5fd444c292e6981e08433c0e28bb)
+    * [Виж активните теми](https://grysti.com/community/search.php?search_id=active_topics&sid=f36b5fd444c292e6981e08433c0e28bb)
     
-    * [Търсене](https://grysti.com/community/search.php?sid=c1ac05432ccd30006ff24f4ac76fd3c9)
+    * [Търсене](https://grysti.com/community/search.php?sid=f36b5fd444c292e6981e08433c0e28bb)
     
-* [ЧЗВ](https://grysti.com/community/app.php/help/faq?sid=c1ac05432ccd30006ff24f4ac76fd3c9 "Често задавани въпроси")
-* [Правила](https://grysti.com/community/app.php/rules?sid=c1ac05432ccd30006ff24f4ac76fd3c9 "Виж Правилата на този форум")
-* [Влез](https://grysti.com/community/ucp.php?mode=login&redirect=app.php%2Frules&sid=c1ac05432ccd30006ff24f4ac76fd3c9 "Влез")
-* [Регистрация](https://grysti.com/community/ucp.php?mode=register&sid=c1ac05432ccd30006ff24f4ac76fd3c9)
+* [ЧЗВ](https://grysti.com/community/app.php/help/faq?sid=f36b5fd444c292e6981e08433c0e28bb "Често задавани въпроси")
+* [Правила](https://grysti.com/community/app.php/rules?sid=f36b5fd444c292e6981e08433c0e28bb "Виж Правилата на този форум")
+* [Влез](https://grysti.com/community/ucp.php?mode=login&redirect=app.php%2Frules&sid=f36b5fd444c292e6981e08433c0e28bb "Влез")
+* [Регистрация](https://grysti.com/community/ucp.php?mode=register&sid=f36b5fd444c292e6981e08433c0e28bb)
 * [](#)
 
-[![](https://grysti.com/community/ext/planetstyles/flightdeck/store/bulgarian cannabis community (2).png)](https://grysti.com/community/index.php?sid=c1ac05432ccd30006ff24f4ac76fd3c9 "#БГКоноп Българският форум за отглеждане на канабис")
+[![](https://grysti.com/community/ext/planetstyles/flightdeck/store/bulgarian cannabis community (2).png)](https://grysti.com/community/index.php?sid=f36b5fd444c292e6981e08433c0e28bb "#БГКоноп Българският форум за отглеждане на канабис")
 
-* [#БГКоноп Българският форум за отглеждане на канабис](https://grysti.com/community/index.php?sid=c1ac05432ccd30006ff24f4ac76fd3c9) [Правила](https://grysti.com/community/app.php/rules?sid=c1ac05432ccd30006ff24f4ac76fd3c9)
-* [Търсене](https://grysti.com/community/search.php?sid=c1ac05432ccd30006ff24f4ac76fd3c9 "Виж разширено търсене")
+* [#БГКоноп Българският форум за отглеждане на канабис](https://grysti.com/community/index.php?sid=f36b5fd444c292e6981e08433c0e28bb) [Правила](https://grysti.com/community/app.php/rules?sid=f36b5fd444c292e6981e08433c0e28bb)
+* [Търсене](https://grysti.com/community/search.php?sid=f36b5fd444c292e6981e08433c0e28bb "Виж разширено търсене")
 
 [![](https://grysti.com/community/mars-hydro.gif)](http://bit.ly/3akg4pC)
 
 **Ad blocker detected:** Our website is made possible by displaying online advertisements to our visitors. Please consider supporting us by disabling your ad blocker on our website.
 
-[](https://grysti.com/community/app.php/boardannouncements/close?hash=436bcd7b&sid=c1ac05432ccd30006ff24f4ac76fd3c9 "Close announcement")
+[](https://grysti.com/community/app.php/boardannouncements/close?hash=436bcd7b&sid=f36b5fd444c292e6981e08433c0e28bb "Close announcement")
 
 **Добре дошли! Моля запознайте се с нашите [ПОЛИТИКА ЗА ПОВЕРИТЕЛНОСТ](https://grysti.com/community/viewtopic.php?f=2&t=309) и [УСЛОВИЯ ЗА ПОЛЗВАНЕ](https://grysti.com/community/viewtopic.php?f=2&t=310)  
 **преди да продължите!  
@@ -609,11 +609,11 @@
 
 [](https://facebook.com/grysticom/)[](https://www.instagram.com/bulgariancannabis)[](https://www.youtube.com/channel/UCApyxIGyKsO0HFMTqu8COeg)
 
-* [#БГКоноп Българският форум за отглеждане на канабис](https://grysti.com/community/index.php?sid=c1ac05432ccd30006ff24f4ac76fd3c9)
+* [#БГКоноп Българският форум за отглеждане на канабис](https://grysti.com/community/index.php?sid=f36b5fd444c292e6981e08433c0e28bb)
 * Часовете са според зоната UTC+02:00 Europe/Sofia
-* [Изтрий всички бисквитки](https://grysti.com/community/ucp.php?mode=delete_cookies&sid=c1ac05432ccd30006ff24f4ac76fd3c9)
-* [Поверителност](https://grysti.com/community/ucp.php?mode=privacy&sid=c1ac05432ccd30006ff24f4ac76fd3c9 "Поверителност")
-* [Условия](https://grysti.com/community/ucp.php?mode=terms&sid=c1ac05432ccd30006ff24f4ac76fd3c9 "Условия")
+* [Изтрий всички бисквитки](https://grysti.com/community/ucp.php?mode=delete_cookies&sid=f36b5fd444c292e6981e08433c0e28bb)
+* [Поверителност](https://grysti.com/community/ucp.php?mode=privacy&sid=f36b5fd444c292e6981e08433c0e28bb "Поверителност")
+* [Условия](https://grysti.com/community/ucp.php?mode=terms&sid=f36b5fd444c292e6981e08433c0e28bb "Условия")
 
 [](#)
 
