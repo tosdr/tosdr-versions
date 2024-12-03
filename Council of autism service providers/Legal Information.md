@@ -1,6 +1,10 @@
 [Skip to content](#content)
 
-[50 State Applied Behavior Analysis Medicaid benefit comparison is now available!](https://assets-002.noviams.com/novi-file-uploads/casp/Medicaid_Data_for_Distribution_FINAL-7db94214.pdf)
+[50-state Applied Behavior Analysis Medicaid benefit comparison is now available!](https://assets-002.noviams.com/novi-file-uploads/casp/Medicaid_Data_for_Distribution_FINAL-7db94214.pdf)
+
+[![](https://assets-002.noviams.com/novi-file-uploads/casp/conference_graphic2_TIMERUNNINGOUT_websitepopup.png)](https://behaviorlive.com/conferences/casp/call-for-papers)
+
+ACKNOWLEDGE
 
 [in your cart View Cart](https://www.casproviders.org/products/checkout)
 
