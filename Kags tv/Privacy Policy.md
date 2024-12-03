@@ -50,7 +50,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.kagstv.com/assets/KCEN/images/e3895fa0-b912-4bcb-9335-1b1a14fd8d6d/20241129T235041/e3895fa0-b912-4bcb-9335-1b1a14fd8d6d_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/e3895fa0-b912-4bcb-9335-1b1a14fd8d6d/20241129T235041/e3895fa0-b912-4bcb-9335-1b1a14fd8d6d_360x203.jpg)](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
+    *  [![](https://media.kagstv.com/assets/KCEN/images/9eadfa67-1a7d-40e4-9650-4ae542955dd5/20240719T232258/9eadfa67-1a7d-40e4-9650-4ae542955dd5_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/9eadfa67-1a7d-40e4-9650-4ae542955dd5/20240719T232258/9eadfa67-1a7d-40e4-9650-4ae542955dd5_360x203.jpg)](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
         
         #### [Near Normal Temperatures & Rain Chances Highlight this Week | Central Texas Forecast](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
         
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-42°
+67°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Fair](/assets/shared-images/weather-icons/mostly-sunny-day_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
