@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/oorlog/us-afgevaardigde-ron-paul-in-opstand-wie-volgt/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/marcel-en-martijn-in-samenspraak/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
