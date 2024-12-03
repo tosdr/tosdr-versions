@@ -1,6 +1,6 @@
 [Skip to main content](#main)
 
-Cyber Monday Sale: Up to 70% off! [Shop Our Sale](https://www.zappos.com/null/4AEB4gICMByCAwOl8AE.zso?s=isNew%2Fdesc%2FgoLiveDate%2Fdesc%2FrecentSalesStyle%2Fdesc%2F&si=6445897%2C6445886%2C6281111%2C6362668%2C6222199%2C6225514%2C6446963%2C6222191%2C6311950&sy=1)
+Cyber Week Sale: Up to 70% off! [Shop Our Sale](https://www.zappos.com/null/4AEB4gICMByCAwOl8AE.zso?si=6428276%2C6225354%2C6471821%2C5083584%2C6421243%2C5759369%2C6420643%2C3625764%2C6246643%2C5112930%2C6189846%2C5370913%2C6420420%2C6527013%2C4073810&sy=1&s=relevance%2Fdesc)
 
 Daily Deals: Get up to 50% off! [Shop Today's Deals](https://www.zappos.com/c/coupon)
 
