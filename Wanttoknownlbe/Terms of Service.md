@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/hoofdartikelen/mh17-oekraiense-slager-keurt-eigen-vlees/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/egoloos-me/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
