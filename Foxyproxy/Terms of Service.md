@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-You and your team ROCK my world!! Thanks for such a quick turn around. I L.O.V.E it.
+Thanks for the excellent service and speed of response.
 
-Simon Taig
+Graham Parkinson
