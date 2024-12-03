@@ -39,11 +39,11 @@
 * [![Polski](data:image/svg+xml;utf8,%3Csvg width='21' height='15' xmlns='http://www.w3.org/2000/svg'%3E%3Cdefs%3E%3ClinearGradient x1='50%' y1='0%' x2='50%' y2='100%' id='a'%3E%3Cstop stop-color='%23FFF' offset='0%'/%3E%3Cstop stop-color='%23F0F0F0' offset='100%'/%3E%3C/linearGradient%3E%3ClinearGradient x1='50%' y1='0%' x2='50%' y2='100%' id='b'%3E%3Cstop stop-color='%23EB2A50' offset='0%'/%3E%3Cstop stop-color='%23DA1B40' offset='100%'/%3E%3C/linearGradient%3E%3C/defs%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cpath fill='url(%23a)' d='M0 0h21v15H0z'/%3E%3Cpath fill='url(%23b)' d='M0 7h21v8H0z'/%3E%3Cpath fill='url(%23a)' d='M0 0h21v7H0z'/%3E%3C/g%3E%3C/svg%3E)](https://www.optidigital.com/pl/)
 * [![Italiano](data:image/svg+xml;utf8,%3Csvg width='21' height='15' xmlns='http://www.w3.org/2000/svg'%3E%3Cdefs%3E%3ClinearGradient x1='50%' y1='0%' x2='50%' y2='100%' id='a'%3E%3Cstop stop-color='%23FFF' offset='0%'/%3E%3Cstop stop-color='%23F0F0F0' offset='100%'/%3E%3C/linearGradient%3E%3ClinearGradient x1='50%' y1='0%' x2='50%' y2='100%' id='b'%3E%3Cstop stop-color='%23E43D4C' offset='0%'/%3E%3Cstop stop-color='%23CC2E3C' offset='100%'/%3E%3C/linearGradient%3E%3ClinearGradient x1='50%' y1='0%' x2='50%' y2='100%' id='c'%3E%3Cstop stop-color='%231BB65D' offset='0%'/%3E%3Cstop stop-color='%23139149' offset='100%'/%3E%3C/linearGradient%3E%3C/defs%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cpath fill='url(%23a)' d='M0 0h21v15H0z'/%3E%3Cpath fill='url(%23b)' d='M10 0h11v15H10z'/%3E%3Cpath fill='url(%23c)' d='M0 0h7v15H0z'/%3E%3Cpath fill='url(%23a)' d='M7 0h7v15H7z'/%3E%3C/g%3E%3C/svg%3E)](https://www.optidigital.com/it/)
 
-Privacy Policy
-==============
+Politique de confidentialité
+============================
 
 1. [Home](https://www.optidigital.com/)
-2. Privacy Policy
+2. Politique de confidentialité
 
 _Dernière mise à jour : Février 2024._
 
@@ -169,7 +169,7 @@ OPTI DIGITAL peut mettre à jour sa politique de confidentialité de temps à au
 
 Pour toute question concernant cette Politique de protection des données, l’Utilisateur peut contacter à l’adresse dpo@optidigital.com.
 
-[Facebook](https://facebook.com/sharer/sharer.php?u=https://www.optidigital.com/privacy-policy/)[Twitter](https://twitter.com/intent/tweet/?text=Privacy%20Policy&url=https://www.optidigital.com/privacy-policy/)[LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https://www.optidigital.com/privacy-policy/&title=Privacy%20Policy&summary=Privacy%20Policy&source=https://www.optidigital.com/privacy-policy/)
+[Facebook](https://facebook.com/sharer/sharer.php?u=https://www.optidigital.com/privacy-policy/)[Twitter](https://twitter.com/intent/tweet/?text=Politique%20de%20confidentialit%C3%A9&url=https://www.optidigital.com/privacy-policy/)[LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https://www.optidigital.com/privacy-policy/&title=Politique%20de%20confidentialit%C3%A9&summary=Politique%20de%20confidentialit%C3%A9&source=https://www.optidigital.com/privacy-policy/)
 
 [![Opti Digital](https://www.optidigital.com/wp-content/uploads/2020/04/negative-blue2-1.svg)](https://www.optidigital.com/)
 
