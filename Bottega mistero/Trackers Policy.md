@@ -18,7 +18,7 @@ Alza il velo della realtà per portare alla luce curiosità, misteri, eventi gro
 * [Shop](https://www.bottegamistero.com/shop/)
 * [Donazioni](https://www.bottegamistero.com/donazioni/)
 
-[](https://www.bottegamistero.com/distruggiamo-la-luna/ "Mostra un articolo casuale")
+[](https://www.bottegamistero.com/alle-volte-uno-si-crede-incompleto-ed-e-soltanto-giovane/ "Mostra un articolo casuale")
 
 [](https://www.bottegamistero.com/privacy-policy/ "Privacy policy")
 
