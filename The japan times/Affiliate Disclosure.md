@@ -143,13 +143,13 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![A Finnish soldier operates a towed 155 mm field gun during the Northern Forest land force exercise in Rovajarvi, Finland, in May 2023.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/02/437509.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A Finnish soldier operates a towed 155 mm field gun during the Northern Forest land force exercise in Rovajarvi, Finland, in May 2023.")](https://www.japantimes.co.jp/news/2024/12/02/world/politics/finland-defense-ukraine-russia/ "Ukraine war reinvigorating Finland’s fighting spirit")
 
-[Nissan shares up after news that chief financial officer will step down](https://www.japantimes.co.jp/business/2024/12/02/companies/nissan-share-rise/ "Nissan shares up after news that chief financial officer will step down")
+[Europe eyes 'boots on the ground' in Ukraine as possible peace deal option](https://www.japantimes.co.jp/news/2024/12/02/world/politics/ukraine-europe-baltics-nordics-troops/ "Europe eyes 'boots on the ground' in Ukraine as possible peace deal option")
 
-  [![Although years have passed since the dramatic arrest and ouster of former Chairman Carlos Ghosn, Nissan remains mired in management upheaval.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/02/437524.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Although years have passed since the dramatic arrest and ouster of former Chairman Carlos Ghosn, Nissan remains mired in management upheaval.")](https://www.japantimes.co.jp/business/2024/12/02/companies/nissan-share-rise/ "Nissan shares up after news that chief financial officer will step down")
+  [![A serviceman with the Ukrainian Army's 24th mechanized brigade fires a machine gun during an exercise, amid Russia's attack on Ukraine, in the country's Donetsk region on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/02/437555.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "A serviceman with the Ukrainian Army's 24th mechanized brigade fires a machine gun during an exercise, amid Russia's attack on Ukraine, in the country's Donetsk region on Friday.")](https://www.japantimes.co.jp/news/2024/12/02/world/politics/ukraine-europe-baltics-nordics-troops/ "Europe eyes 'boots on the ground' in Ukraine as possible peace deal option")
 
-[Can Japan's scientific community rebound from a Nobel nosedive?](https://www.japantimes.co.jp/news/2024/12/02/japan/science-health/japan-science-nobel-prize/ "Can Japan's scientific community rebound from a Nobel nosedive?")
+[Japan’s 2024 buzzword of the year urges a reevaluation of past norms](https://www.japantimes.co.jp/news/2024/12/02/japan/society/2024-buzzword-of-the-year-announced/ "Japan’s 2024 buzzword of the year urges a reevaluation of past norms")
 
-  [![The National Museum of Emerging Science and Innovation in Tokyo is a popular place to foster curiosity in the natural sciences.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/01/436635.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The National Museum of Emerging Science and Innovation in Tokyo is a popular place to foster curiosity in the natural sciences.")](https://www.japantimes.co.jp/news/2024/12/02/japan/science-health/japan-science-nobel-prize/ "Can Japan's scientific community rebound from a Nobel nosedive?")
+  [![Sadao Abe, who played the role of a time-traveling Showa Era teacher transported to present day in a popular TV drama, receives the 2024 buzzword of the year award for the word "futehodo," the nickname of the series.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/02/437645.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Sadao Abe, who played the role of a time-traveling Showa Era teacher transported to present day in a popular TV drama, receives the 2024 buzzword of the year award for the word "futehodo," the nickname of the series.")](https://www.japantimes.co.jp/news/2024/12/02/japan/society/2024-buzzword-of-the-year-announced/ "Japan’s 2024 buzzword of the year urges a reevaluation of past norms")
 
 Editors' Picks
 --------------
@@ -176,21 +176,21 @@ By [Gabriel Dominguez](https://www.japantimes.co.jp/author/3151/gabriel-domingue
 
   [![A Finnish soldier operates a towed 155 mm field gun during the Northern Forest land force exercise in Rovajarvi, Finland, in May 2023.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/02/437509.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A Finnish soldier operates a towed 155 mm field gun during the Northern Forest land force exercise in Rovajarvi, Finland, in May 2023.")](https://www.japantimes.co.jp/news/2024/12/02/world/politics/finland-defense-ukraine-russia/ "Ukraine war reinvigorating Finland’s fighting spirit")
 
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+[WORLD](https://www.japantimes.co.jp/news/world/ "WORLD")
 
-[Nissan shares up after news that chief financial officer will step down](https://www.japantimes.co.jp/business/2024/12/02/companies/nissan-share-rise/ "Nissan shares up after news that chief financial officer will step down")
+[Europe eyes 'boots on the ground' in Ukraine as possible peace deal option](https://www.japantimes.co.jp/news/2024/12/02/world/politics/ukraine-europe-baltics-nordics-troops/ "Europe eyes 'boots on the ground' in Ukraine as possible peace deal option")
 
-By [Masatsugu Horie](https://www.japantimes.co.jp/author/1363/masatsugu-horie/ "Masatsugu Horie") and [Reed Stevenson](https://www.japantimes.co.jp/author/630/reed-stevenson/ "Reed Stevenson")  
+By [Gabriel Dominguez](https://www.japantimes.co.jp/author/3151/gabriel-dominguez/ "Gabriel Dominguez")  
 
-  [![Although years have passed since the dramatic arrest and ouster of former Chairman Carlos Ghosn, Nissan remains mired in management upheaval.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/02/437524.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Although years have passed since the dramatic arrest and ouster of former Chairman Carlos Ghosn, Nissan remains mired in management upheaval.")](https://www.japantimes.co.jp/business/2024/12/02/companies/nissan-share-rise/ "Nissan shares up after news that chief financial officer will step down")
+  [![A serviceman with the Ukrainian Army's 24th mechanized brigade fires a machine gun during an exercise, amid Russia's attack on Ukraine, in the country's Donetsk region on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/02/437555.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "A serviceman with the Ukrainian Army's 24th mechanized brigade fires a machine gun during an exercise, amid Russia's attack on Ukraine, in the country's Donetsk region on Friday.")](https://www.japantimes.co.jp/news/2024/12/02/world/politics/ukraine-europe-baltics-nordics-troops/ "Europe eyes 'boots on the ground' in Ukraine as possible peace deal option")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Can Japan's scientific community rebound from a Nobel nosedive?](https://www.japantimes.co.jp/news/2024/12/02/japan/science-health/japan-science-nobel-prize/ "Can Japan's scientific community rebound from a Nobel nosedive?")
+[Japan’s 2024 buzzword of the year urges a reevaluation of past norms](https://www.japantimes.co.jp/news/2024/12/02/japan/society/2024-buzzword-of-the-year-announced/ "Japan’s 2024 buzzword of the year urges a reevaluation of past norms")
 
-By [Tomoko Otake](https://www.japantimes.co.jp/author/3264/tomoko-otake/ "Tomoko Otake")  
+By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
 
-  [![The National Museum of Emerging Science and Innovation in Tokyo is a popular place to foster curiosity in the natural sciences.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/01/436635.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The National Museum of Emerging Science and Innovation in Tokyo is a popular place to foster curiosity in the natural sciences.")](https://www.japantimes.co.jp/news/2024/12/02/japan/science-health/japan-science-nobel-prize/ "Can Japan's scientific community rebound from a Nobel nosedive?")
+  [![Sadao Abe, who played the role of a time-traveling Showa Era teacher transported to present day in a popular TV drama, receives the 2024 buzzword of the year award for the word "futehodo," the nickname of the series.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/02/437645.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Sadao Abe, who played the role of a time-traveling Showa Era teacher transported to present day in a popular TV drama, receives the 2024 buzzword of the year award for the word "futehodo," the nickname of the series.")](https://www.japantimes.co.jp/news/2024/12/02/japan/society/2024-buzzword-of-the-year-announced/ "Japan’s 2024 buzzword of the year urges a reevaluation of past norms")
 
 Podcast
 -------
@@ -253,23 +253,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Nomura’s Japan corporate bond market rank slips after probe](https://www.japantimes.co.jp/business/2024/12/02/markets/nomura-bond-ranking/ "Nomura’s Japan corporate bond market rank slips after probe")
+[Nearly 90% in Japan and China have negative views of other](https://www.japantimes.co.jp/news/2024/12/03/japan/society/japan-china-negative-views/ "Nearly 90% in Japan and China have negative views of other")
 
-9 hours ago
+29 mins ago
 
-[Lawsuit filed over Hyogo governor's alleged election law violation](https://www.japantimes.co.jp/news/2024/12/02/japan/politics/motohiko-saito-social-media-lawsuit/ "Lawsuit filed over Hyogo governor's alleged election law violation")
+[Taiwan's Lai kicks off Marshall Islands visit as China fumes](https://www.japantimes.co.jp/news/2024/12/03/asia-pacific/politics/taiwan-lai-marshall-islands-china/ "Taiwan's Lai kicks off Marshall Islands visit as China fumes")
 
-10 hours ago
+36 mins ago
 
-[Nearly 90% in Japan and China have negative views of other](https://www.japantimes.co.jp/news/2024/12/02/japan/japan-china-negative-views/ "Nearly 90% in Japan and China have negative views of other")
+[Yen carry trade that rattled markets shows signs of a comeback](https://www.japantimes.co.jp/business/2024/12/03/markets/yen-carry-trade-comeback/ "Yen carry trade that rattled markets shows signs of a comeback")
 
-10 hours ago
+46 mins ago
 
-[Resona says inflation is boosting SME loan demand and pay hikes](https://www.japantimes.co.jp/business/2024/12/02/companies/resona-inflation-effects/ "Resona says inflation is boosting SME loan demand and pay hikes")
+[Japanese firms begin adopting generative AI for information searches](https://www.japantimes.co.jp/business/2024/12/03/tech/japan-firms-ai/ "Japanese firms begin adopting generative AI for information searches")
 
-10 hours ago
+1 hour ago
 
-[30-strong Nihon Hidankyo delegation to collect Nobel Peace Prize](https://www.japantimes.co.jp/news/2024/12/02/japan/nihon-hidankyo-nobel-delegation/ "30-strong Nihon Hidankyo delegation to collect Nobel Peace Prize")
+[BOJ weighs case for first triple hike since Japan’s bubble burst](https://www.japantimes.co.jp/business/2024/12/03/economy/boj-december-rate-hike-likely/ "BOJ weighs case for first triple hike since Japan’s bubble burst")
+
+1 hour ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
