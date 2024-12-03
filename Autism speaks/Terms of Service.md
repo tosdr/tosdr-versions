@@ -192,10 +192,13 @@ Please enter your location to help us display the correct information for your a
 
   
 
-Enhancing lives today and accelerating a spectrum of solutions for tomorrow.
-============================================================================
+Triple your impact today
+========================
 
-![Tonya and Tyler](/sites/default/files/styles/wysiwyg_fullscreen_width/public/Tonya-and-Tyler_hero_widecropv2%20copy.png?itok=sSMXWbDJ "Tonya and Tyler hero no background")
+In honor of Giving Tuesday, [your gift is matched 3 to 1](https://donate.autismspeaks.org/-/XPYEQAGV). 
+-------------------------------------------------------------------------------------------------------
+
+[![Giving Tuesday 3X match](/sites/default/files/styles/wysiwyg_fullscreen_width/public/24_GivingTuesday_Hero_3X.png?itok=ZtWBSYdx "2024 Giving Tuesday 3X match hero")](https://donate.autismspeaks.org/-/XPYEQAGV)
 
 Autism information and support
 
