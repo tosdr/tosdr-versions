@@ -1,4 +1,4 @@
-[BLACK FRIDAY: Save on Ledger Flex, select Ledger Nano wallets and accessories.
+[LAST CHANCE BLACK FRIDAY: Save now on Ledger hardware wallets and accessories.
 
 Shop now](https://shop.ledger.com/pages/black-friday)
 
