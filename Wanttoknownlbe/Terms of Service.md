@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/gastcolumns/jarenlang-heb-je-met-n-keelklem-rondgelopen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/mind-control/the-message/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
