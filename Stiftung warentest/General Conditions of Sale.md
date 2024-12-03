@@ -664,12 +664,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Mariniertes Schweine­fleisch im Test: Gutes für den Grill](https://www.test.de/grillfleisch-im-test-6019853-0/ "Mariniertes Schweinefleisch im Test - Gutes für den Grill")
-* [PC und Handy fern­steuern: IT-Hilfe für Oma, Opa, Mama, Papa...](https://www.test.de/PC-und-Handy-fernsteuern-IT-Hilfe-fuer-Oma-Opa-Mama-Papa-5949126-0/ "PC und Handy fernsteuern - IT-Hilfe für Oma, Opa, Mama, Papa...")
-* [Renten­splitting für Ehepaare: Manchmal ist es vorteilhaft, die Rente aufzuteilen](https://www.test.de/rentensplitting-6062329-0/ "Rentensplitting für Ehepaare - Manchmal ist es vorteilhaft, die Rente aufzuteilen")
-* [Dubioses Fest­geld: Vorsicht bei Spar-Global](https://www.test.de/Dubioses-Festgeld-Vorsicht-bei-Spar-Global-6149600-0/ "Dubioses Festgeld - Vorsicht bei Spar-Global")
-* [Bitcoin Apex: Bericht über Peter Maffay gefälscht](https://www.test.de/Bitcoin-Apex-Bericht-ueber-Peter-Maffay-gefaelscht-6111514-0/ "Bitcoin Apex - Bericht über Peter Maffay gefälscht")
-* [Aktien-ETF Japan: Mit oder ohne Währungs­sicherung?](https://www.test.de/Aktien-ETF-Japan-Mit-oder-ohne-Waehrungssicherung-6132893-0/ "Aktien-ETF Japan - Mit oder ohne Währungssicherung?")
+* [Dyna­mische Strom­tarife im Vergleich: Strom verbrauchen, wenn er günstig ist](https://www.test.de/Dynamische-Stromtarife-6071801-0/ "Dynamische Stromtarife im Vergleich - Strom verbrauchen, wenn er günstig ist")
+* [Kinder­kopf­hörer Technifant Hörchen BT: Nach unserem Test: Rück­ruf wegen Schad­stoffen](https://www.test.de/Kinderkopfhoerer-Technifant-Hoerchen-BT-Nach-unserem-Test-Rueckruf-wegen-Schadstoffen-6104607-0/ "Kinderkopfhörer Technifant Hörchen BT - Nach unserem Test: Rückruf wegen Schadstoffen")
+* [Verpackungs­ärger: Gutbio Fencheltee von Aldi Nord](https://www.test.de/Verpackungsaerger-Gutbio-Fencheltee-von-Aldi-Nord-6046018-0/ "Verpackungsärger - Gutbio Fencheltee von Aldi Nord")
+* [Docking­stationen im Test: Viele sind ein Gewinn fürs Home­office](https://www.test.de/USB-C-Dockingstationen-im-Test-5979272-0/ "Dockingstationen im Test - Viele sind ein Gewinn fürs Homeoffice")
+* [Wasser­dichte Hand­yhüllen im Test: Abtauchen mit dem Smartphone](https://www.test.de/wasserdichte-handyhuelle-test-6123197-0/ "Wasserdichte Handyhüllen im Test - Abtauchen mit dem Smartphone")
+* [Voll­korn­reis im Schad­stoff-Check: Oft voll gut](https://www.test.de/Vollkornreis-im-Schadstoff-Check-Oft-voll-gut-6122435-0/ "Vollkornreis im Schadstoff-Check - Oft voll gut")
 
 Weitere Informationen
 
@@ -3082,12 +3082,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Mariniertes Schweine­fleisch im Test: Gutes für den Grill](https://www.test.de/grillfleisch-im-test-6019853-0/ "Mariniertes Schweinefleisch im Test - Gutes für den Grill")
-* [PC und Handy fern­steuern: IT-Hilfe für Oma, Opa, Mama, Papa...](https://www.test.de/PC-und-Handy-fernsteuern-IT-Hilfe-fuer-Oma-Opa-Mama-Papa-5949126-0/ "PC und Handy fernsteuern - IT-Hilfe für Oma, Opa, Mama, Papa...")
-* [Renten­splitting für Ehepaare: Manchmal ist es vorteilhaft, die Rente aufzuteilen](https://www.test.de/rentensplitting-6062329-0/ "Rentensplitting für Ehepaare - Manchmal ist es vorteilhaft, die Rente aufzuteilen")
-* [Dubioses Fest­geld: Vorsicht bei Spar-Global](https://www.test.de/Dubioses-Festgeld-Vorsicht-bei-Spar-Global-6149600-0/ "Dubioses Festgeld - Vorsicht bei Spar-Global")
-* [Bitcoin Apex: Bericht über Peter Maffay gefälscht](https://www.test.de/Bitcoin-Apex-Bericht-ueber-Peter-Maffay-gefaelscht-6111514-0/ "Bitcoin Apex - Bericht über Peter Maffay gefälscht")
-* [Aktien-ETF Japan: Mit oder ohne Währungs­sicherung?](https://www.test.de/Aktien-ETF-Japan-Mit-oder-ohne-Waehrungssicherung-6132893-0/ "Aktien-ETF Japan - Mit oder ohne Währungssicherung?")
+* [Dyna­mische Strom­tarife im Vergleich: Strom verbrauchen, wenn er günstig ist](https://www.test.de/Dynamische-Stromtarife-6071801-0/ "Dynamische Stromtarife im Vergleich - Strom verbrauchen, wenn er günstig ist")
+* [Kinder­kopf­hörer Technifant Hörchen BT: Nach unserem Test: Rück­ruf wegen Schad­stoffen](https://www.test.de/Kinderkopfhoerer-Technifant-Hoerchen-BT-Nach-unserem-Test-Rueckruf-wegen-Schadstoffen-6104607-0/ "Kinderkopfhörer Technifant Hörchen BT - Nach unserem Test: Rückruf wegen Schadstoffen")
+* [Verpackungs­ärger: Gutbio Fencheltee von Aldi Nord](https://www.test.de/Verpackungsaerger-Gutbio-Fencheltee-von-Aldi-Nord-6046018-0/ "Verpackungsärger - Gutbio Fencheltee von Aldi Nord")
+* [Docking­stationen im Test: Viele sind ein Gewinn fürs Home­office](https://www.test.de/USB-C-Dockingstationen-im-Test-5979272-0/ "Dockingstationen im Test - Viele sind ein Gewinn fürs Homeoffice")
+* [Wasser­dichte Hand­yhüllen im Test: Abtauchen mit dem Smartphone](https://www.test.de/wasserdichte-handyhuelle-test-6123197-0/ "Wasserdichte Handyhüllen im Test - Abtauchen mit dem Smartphone")
+* [Voll­korn­reis im Schad­stoff-Check: Oft voll gut](https://www.test.de/Vollkornreis-im-Schadstoff-Check-Oft-voll-gut-6122435-0/ "Vollkornreis im Schadstoff-Check - Oft voll gut")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -3138,12 +3138,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Mariniertes Schweine­fleisch im Test: Gutes für den Grill](https://www.test.de/grillfleisch-im-test-6019853-0/ "Mariniertes Schweinefleisch im Test - Gutes für den Grill")
-* [PC und Handy fern­steuern: IT-Hilfe für Oma, Opa, Mama, Papa...](https://www.test.de/PC-und-Handy-fernsteuern-IT-Hilfe-fuer-Oma-Opa-Mama-Papa-5949126-0/ "PC und Handy fernsteuern - IT-Hilfe für Oma, Opa, Mama, Papa...")
-* [Renten­splitting für Ehepaare: Manchmal ist es vorteilhaft, die Rente aufzuteilen](https://www.test.de/rentensplitting-6062329-0/ "Rentensplitting für Ehepaare - Manchmal ist es vorteilhaft, die Rente aufzuteilen")
-* [Dubioses Fest­geld: Vorsicht bei Spar-Global](https://www.test.de/Dubioses-Festgeld-Vorsicht-bei-Spar-Global-6149600-0/ "Dubioses Festgeld - Vorsicht bei Spar-Global")
-* [Bitcoin Apex: Bericht über Peter Maffay gefälscht](https://www.test.de/Bitcoin-Apex-Bericht-ueber-Peter-Maffay-gefaelscht-6111514-0/ "Bitcoin Apex - Bericht über Peter Maffay gefälscht")
-* [Aktien-ETF Japan: Mit oder ohne Währungs­sicherung?](https://www.test.de/Aktien-ETF-Japan-Mit-oder-ohne-Waehrungssicherung-6132893-0/ "Aktien-ETF Japan - Mit oder ohne Währungssicherung?")
+* [Dyna­mische Strom­tarife im Vergleich: Strom verbrauchen, wenn er günstig ist](https://www.test.de/Dynamische-Stromtarife-6071801-0/ "Dynamische Stromtarife im Vergleich - Strom verbrauchen, wenn er günstig ist")
+* [Kinder­kopf­hörer Technifant Hörchen BT: Nach unserem Test: Rück­ruf wegen Schad­stoffen](https://www.test.de/Kinderkopfhoerer-Technifant-Hoerchen-BT-Nach-unserem-Test-Rueckruf-wegen-Schadstoffen-6104607-0/ "Kinderkopfhörer Technifant Hörchen BT - Nach unserem Test: Rückruf wegen Schadstoffen")
+* [Verpackungs­ärger: Gutbio Fencheltee von Aldi Nord](https://www.test.de/Verpackungsaerger-Gutbio-Fencheltee-von-Aldi-Nord-6046018-0/ "Verpackungsärger - Gutbio Fencheltee von Aldi Nord")
+* [Docking­stationen im Test: Viele sind ein Gewinn fürs Home­office](https://www.test.de/USB-C-Dockingstationen-im-Test-5979272-0/ "Dockingstationen im Test - Viele sind ein Gewinn fürs Homeoffice")
+* [Wasser­dichte Hand­yhüllen im Test: Abtauchen mit dem Smartphone](https://www.test.de/wasserdichte-handyhuelle-test-6123197-0/ "Wasserdichte Handyhüllen im Test - Abtauchen mit dem Smartphone")
+* [Voll­korn­reis im Schad­stoff-Check: Oft voll gut](https://www.test.de/Vollkornreis-im-Schadstoff-Check-Oft-voll-gut-6122435-0/ "Vollkornreis im Schadstoff-Check - Oft voll gut")
 
 Neueste Tests
 
@@ -3156,12 +3156,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Mariniertes Schweine­fleisch im Test: Gutes für den Grill](https://www.test.de/grillfleisch-im-test-6019853-0/ "Mariniertes Schweinefleisch im Test - Gutes für den Grill")
-* [PC und Handy fern­steuern: IT-Hilfe für Oma, Opa, Mama, Papa...](https://www.test.de/PC-und-Handy-fernsteuern-IT-Hilfe-fuer-Oma-Opa-Mama-Papa-5949126-0/ "PC und Handy fernsteuern - IT-Hilfe für Oma, Opa, Mama, Papa...")
-* [Renten­splitting für Ehepaare: Manchmal ist es vorteilhaft, die Rente aufzuteilen](https://www.test.de/rentensplitting-6062329-0/ "Rentensplitting für Ehepaare - Manchmal ist es vorteilhaft, die Rente aufzuteilen")
-* [Dubioses Fest­geld: Vorsicht bei Spar-Global](https://www.test.de/Dubioses-Festgeld-Vorsicht-bei-Spar-Global-6149600-0/ "Dubioses Festgeld - Vorsicht bei Spar-Global")
-* [Bitcoin Apex: Bericht über Peter Maffay gefälscht](https://www.test.de/Bitcoin-Apex-Bericht-ueber-Peter-Maffay-gefaelscht-6111514-0/ "Bitcoin Apex - Bericht über Peter Maffay gefälscht")
-* [Aktien-ETF Japan: Mit oder ohne Währungs­sicherung?](https://www.test.de/Aktien-ETF-Japan-Mit-oder-ohne-Waehrungssicherung-6132893-0/ "Aktien-ETF Japan - Mit oder ohne Währungssicherung?")
+* [Dyna­mische Strom­tarife im Vergleich: Strom verbrauchen, wenn er günstig ist](https://www.test.de/Dynamische-Stromtarife-6071801-0/ "Dynamische Stromtarife im Vergleich - Strom verbrauchen, wenn er günstig ist")
+* [Kinder­kopf­hörer Technifant Hörchen BT: Nach unserem Test: Rück­ruf wegen Schad­stoffen](https://www.test.de/Kinderkopfhoerer-Technifant-Hoerchen-BT-Nach-unserem-Test-Rueckruf-wegen-Schadstoffen-6104607-0/ "Kinderkopfhörer Technifant Hörchen BT - Nach unserem Test: Rückruf wegen Schadstoffen")
+* [Verpackungs­ärger: Gutbio Fencheltee von Aldi Nord](https://www.test.de/Verpackungsaerger-Gutbio-Fencheltee-von-Aldi-Nord-6046018-0/ "Verpackungsärger - Gutbio Fencheltee von Aldi Nord")
+* [Docking­stationen im Test: Viele sind ein Gewinn fürs Home­office](https://www.test.de/USB-C-Dockingstationen-im-Test-5979272-0/ "Dockingstationen im Test - Viele sind ein Gewinn fürs Homeoffice")
+* [Wasser­dichte Hand­yhüllen im Test: Abtauchen mit dem Smartphone](https://www.test.de/wasserdichte-handyhuelle-test-6123197-0/ "Wasserdichte Handyhüllen im Test - Abtauchen mit dem Smartphone")
+* [Voll­korn­reis im Schad­stoff-Check: Oft voll gut](https://www.test.de/Vollkornreis-im-Schadstoff-Check-Oft-voll-gut-6122435-0/ "Vollkornreis im Schadstoff-Check - Oft voll gut")
 
 Stiftung Warentest
 
