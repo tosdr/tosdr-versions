@@ -57,15 +57,15 @@ Smart, Fearless Journalism
 membership ticker
 -----------------
 
-[Donate Now](https://secure.motherjones.com/flex/mj/key/7LIGHTS/src/7AHPR63%7CPAHPR63/)
+[Donate Now](https://secure.motherjones.com/flex/mj/key/7LIGHTS/src/7AHPR64%7CPAHPR64/)
 
-Autocratic forces are ascendant.
+Please don’t miss this chance.
 
-Truth-telling independent media is one remaining bulwark against an autocrat’s unrestrained exercise of power. At a time when billionaire owners of corporate media are making accommodations to political leaders, our nonprofit newsroom cannot be bought, bent, or broken. **Depend on it, and please stand with us**.
+A generous board member has given us a $50,000 digital matching gift for Giving Tuesday, and we need your help to get every dollar of it. **All online donations today will be matched dollar-for-dollar**. Please stand with truth-telling independent media and chip in right now if YOU can.
 
-Autocratic forces are ascendant in America. But truth-telling independent media is one remaining bulwark against the unrestrained exercise of power. At a time when billionaire owners of corporate media are making accommodations to political leaders, our nonprofit newsroom cannot be bought or broken. **Please stand with us**.
+A generous board member has given us a $50,000 digital matching gift for Giving Tuesday, and we need your help to get every dollar of it. **All online donations today will be matched dollar-for-dollar**. Please stand with truth-telling independent media and chip in right now if YOU can.
 
-[Donate Now](https://secure.motherjones.com/flex/mj/key/7LIGHTS/src/7AHPMRY%7CPAHPMRY/)
+[Donate Now](https://secure.motherjones.com/flex/mj/key/7LIGHTS/src/7AHPMRZ%7CPAHPMRZ/)
 
 Privacy Policy
 ==============
