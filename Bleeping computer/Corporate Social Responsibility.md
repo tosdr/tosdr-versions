@@ -36,18 +36,18 @@
         
         Tor needs 200 new WebTunnel bridges to fight censorship](https://www.bleepingcomputer.com/news/security/tor-needs-200-new-webtunnel-bridges-to-fight-censorship/)
     
+    * [![Korea arrests CEO for adding DDoS feature to satellite receivers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Korea arrests CEO for adding DDoS feature to satellite receivers](https://www.bleepingcomputer.com/news/security/korea-arrests-ceo-for-adding-ddos-feature-to-satellite-receivers/)
+    * [![Russia sentences Hydra dark web market leader to life in prison](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Russia sentences Hydra dark web market leader to life in prison](https://www.bleepingcomputer.com/news/security/russia-sentences-hydra-dark-web-market-leader-to-life-in-prison/)
+    * [![Protect all your devices for 3 years with this low-cost VPN](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Protect all your devices for 3 years with this low-cost VPN](https://www.bleepingcomputer.com/offer/deals/protect-all-your-devices-for-3-years-with-this-low-cost-vpn/)
     * [![BootKitty UEFI malware exploits LogoFAIL to infect Linux systems](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         BootKitty UEFI malware exploits LogoFAIL to infect Linux systems](https://www.bleepingcomputer.com/news/security/bootkitty-uefi-malware-exploits-logofail-to-infect-linux-systems/)
-    * [![Mozilla really wants you to easily set Firefox as default Windows browser](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Mozilla really wants you to easily set Firefox as default Windows browser](https://www.bleepingcomputer.com/news/software/mozilla-really-wants-you-to-easily-set-firefox-as-default-windows-browser/)
-    * [![It's only $50 to train for these CompTIA exams in this course deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        It's only $50 to train for these CompTIA exams in this course deal](https://www.bleepingcomputer.com/offer/deals/its-only-50-to-train-for-these-comptia-exams-in-this-course-deal/)
-    * [![Google Chrome’s AI feature lets you quickly check website trustworthiness](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Google Chrome’s AI feature lets you quickly check website trustworthiness](https://www.bleepingcomputer.com/news/google/google-chromes-ai-feature-lets-you-quickly-check-website-trustworthiness/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -307,12 +307,12 @@ Popular Stories
 * [![Microsoft 365](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     New Rockstar 2FA phishing service targets Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/new-rockstar-2fa-phishing-service-targets-microsoft-365-accounts/)
-* [![Police arrest](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Russia arrests cybercriminal Wazawaka for ties with ransomware gangs](https://www.bleepingcomputer.com/news/security/russia-arrests-cybercriminal-wazawaka-for-ties-with-ransomware-gangs/)
 * [![Phishing](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Novel phishing campaign uses corrupted Word documents to evade security](https://www.bleepingcomputer.com/news/security/novel-phishing-campaign-uses-corrupted-word-documents-to-evade-security/)
+* [![Police arrest](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    Russia arrests cybercriminal Wazawaka for ties with ransomware gangs](https://www.bleepingcomputer.com/news/security/russia-arrests-cybercriminal-wazawaka-for-ties-with-ransomware-gangs/)
 
 ##### Follow us:
 
