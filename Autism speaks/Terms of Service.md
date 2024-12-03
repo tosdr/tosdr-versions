@@ -195,8 +195,8 @@ Please enter your location to help us display the correct information for your a
 Triple your impact today
 ========================
 
-In honor of Giving Tuesday, [your gift is matched 3 to 1](https://donate.autismspeaks.org/-/XPYEQAGV). 
--------------------------------------------------------------------------------------------------------
+In honor of Giving Tuesday, [your gift is matched 3 to 1](https://donate.autismspeaks.org/-/XPYEQAGV).
+------------------------------------------------------------------------------------------------------
 
 [![Giving Tuesday 3X match](/sites/default/files/styles/wysiwyg_fullscreen_width/public/24_GivingTuesday_Hero_3X.png?itok=ZtWBSYdx "2024 Giving Tuesday 3X match hero")](https://donate.autismspeaks.org/-/XPYEQAGV)
 
