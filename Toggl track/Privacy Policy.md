@@ -109,7 +109,7 @@ Third-party cookies can usually be managed by the tools provided by those partie
 
 [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout) (Google Analytics opt-out);  
 [https://www.facebook.com/policies/cookies](https://www.facebook.com/policies/cookies) (Facebook cookie policy and opt-out);  
-[http://optout.networkadvertising.org](http://optout.networkadvertising.org/) (Network Advertising Initiative opt-out page);  
+[https://optout.networkadvertising.org/?c=1](https://optout.networkadvertising.org/?c=1) (Network Advertising Initiative opt-out page);  
 [http://optout.aboutads.info](http://optout.aboutads.info/) (Digital Advertising Alliance opt-out page).  
 
 We cannot give you an exhaustive list of the means for opting out of third-party cookies as the service providers who may set such cookies in connection with the Service and Websites change from time to time. Contact us, using the details at the end of this Policy, to learn which third-party cookies may currently be in use on a particular Website or Service application or use your browser tools to get an overview about cookies we use.
@@ -376,7 +376,7 @@ OTHER
 
 * [Toggl Cookie Declaration](https://toggl.com/legal/cookie-declaration/)
 * [Toggl Careers Privacy Statement](https://toggl.com/legal/candidate-privacy/)
-* [Toggl Affiliate Terms & Conditions](https://toggl.com/legal/affiliate/)
+* [Toggl Affiliate Terms & Conditions](https://toggl.com/legal/affiliates/)
 
 ##### Can't find what you're looking for?
 
@@ -388,7 +388,7 @@ OTHER
 * [About us](https://toggl.com/about/)
 * [Working at Toggl
     
-    8](https://toggl.com/jobs/)
+    7](https://toggl.com/jobs/)
 
 Discover our tools:
 
