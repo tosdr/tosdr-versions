@@ -1,12 +1,12 @@
 [Skip to main content](#maincontent) [Skip to Support Chat](#) [Skip to footer content](#footercontent) [Skip to Accessibility Statement](https://www.bose.com/legal/accessibility)
 
-DEAL OF THE DAY: Get the Orange SoundLink Micro for $69 today only. [Buy now](https://www.bose.com/SLMC-SPEAKERWIRELESS.html?dwvar_SLMC-SPEAKERWIRELESS_color=BRIGHT+ORANGE&quantity=1)
+EXTENDED CYBER MONDAY DEALS: Save up to 40% on bestsellers. [Shop](https://www.bose.com/c/cyber-monday-deals)
 
-LOWEST PRICE EVER: $229 for Ultra Open Earbuds. [Buy now](https://www.bose.com/ULT-HEADPHONEOPN.html?dwvar_ULT-HEADPHONEOPN_color=SUNSET+IRIDESCENT&quantity=1)
+GIFT WITH PURCHASE: Save $100 off SoundLink Max and get a free Rope Carrying Strap. [Buy now](https://www.bose.com/SLMAX-SPEAKERWIRELESS.html?dwvar_SLMAX-SPEAKERWIRELESS_color=BLUE+DUSK&quantity=1)
 
-CYBER MONDAY DEALS: Save up to 40% on bestsellers. [Shop](https://www.bose.com/c/cyber-monday-deals)
+EXCLUSIVE COLOR DROP: Ultra Open Earbuds are now available in Sandstone. [Shop](https://www.bose.com/c/exclusives)
 
-LAST CHANCE OFFER: Get our lowest holiday price on select QuietComfort Ultra Headphones. [Buy now](https://www.bose.com/QCUH-HEADPHONEARN.html?dwvar_QCUH-HEADPHONEARN_color=DIAMOND+60TH+EDITION)
+Stress-free shopping | 90-day return policy | Holiday Price Match Promise [Learn how](https://www.bose.com/buy-direct-from-bose)
 
 [Cancel](#)
 
@@ -24,14 +24,14 @@ Back
     
     [![](https://assets.bosecreative.com/m/78dd9abd99af0a8d/webimage-SF_NavFlyout_Holiday_Turkey-6_Cross-cat_Mobile.png)
     
-    ### Cyber Monday Deals](https://www.bose.com/c/cyber-monday-deals "SHOP")
+    ### Cyber Monday extended](https://www.bose.com/c/cyber-monday-deals "SHOP")
     
      
     
-    Cyber Monday Deals
-    ------------------
+    Cyber Monday Deals extended
+    ---------------------------
     
-    Save up to 40% on our best holiday deals.
+    Hurry and get up to 40% off holiday favorites before the sale ends.
     
     [SHOP](https://www.bose.com/c/cyber-monday-deals "SHOP")
     
@@ -107,18 +107,20 @@ Back
     * [Gift Sets](https://www.bose.com/c/sets)
     * [Gift Cards](https://www.bose.com/gift-cards)
     
-    [![](https://assets.bosecreative.com/m/3b7883aa55bd220d/webimage-SF_NavFlyout_Holiday_Turkey-6_Orange-Micro_Mobile.png)
+    [![](https://assets.bosecreative.com/m/4199bd75035100f/webimage-SF_NavFlyout_Holiday_Turkey-6_UOE-Sandstone_Mobile.png)
     
-    ### Cyber Monday Deals](https://www.bose.com/c/cyber-monday-deals "BUY NOW")
+    Exclusive Color Drop
+    
+    ### Get it in Sandstone](https://www.bose.com/ULT-HEADPHONEOPN.html?dwvar_ULT-HEADPHONEOPN_color=SANDSTONE&quantity=1 "BUY NOW")
     
      
     
-    Cyber Monday Deals
-    ------------------
+    Extended Cyber Monday Deal
+    --------------------------
     
-    Get the Orange SoundLink Micro for $69 & save up to 40% on our holiday deals.
+    Save $50 off Sandstone Ultra Open Earbuds.
     
-    [BUY NOW](https://www.bose.com/SLMC-SPEAKERWIRELESS.html?dwvar_SLMC-SPEAKERWIRELESS_color=BRIGHT+ORANGE&quantity=1 "BUY NOW")
+    [BUY NOW](https://www.bose.com/ULT-HEADPHONEOPN.html?dwvar_ULT-HEADPHONEOPN_color=SANDSTONE&quantity=1 "BUY NOW")
     
 
 * [Explore](#)
@@ -188,7 +190,7 @@ Back
 
 [![](https://assets.bosecreative.com/m/78dd9abd99af0a8d/webimage-SF_NavFlyout_Holiday_Turkey-6_Cross-cat_Mobile.png)
 
-### Cyber Monday Deals](https://www.bose.com/c/cyber-monday-deals "SHOP")
+### Cyber Monday extended](https://www.bose.com/c/cyber-monday-deals "SHOP")
 
 [![Bose](/on/demandware.static/Sites-Bose_US-Site/-/default/dwaf0ae0f9/images/logo.svg)](https://www.bose.com/home "Bose Home")
 
