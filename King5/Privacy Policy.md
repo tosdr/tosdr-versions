@@ -30,13 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/0f4003a8-5735-443a-b20e-591ab52fd157/20241128T130908/0f4003a8-5735-443a-b20e-591ab52fd157_16x9.jpg) ![](https://media.king5.com/assets/KING/images/0f4003a8-5735-443a-b20e-591ab52fd157/20241128T130908/0f4003a8-5735-443a-b20e-591ab52fd157_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/low-visibility-dense-fog-advisory-driving-seattle-tacoma-western-washington/281-ea539072-3f25-4d02-b21b-b112ae951182)
+    *  [![](https://media.king5.com/assets/KING/images/82fda16a-3f10-4f87-b5d6-6b999306263a/20241203T015930/82fda16a-3f10-4f87-b5d6-6b999306263a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/82fda16a-3f10-4f87-b5d6-6b999306263a/20241203T015930/82fda16a-3f10-4f87-b5d6-6b999306263a_360x203.jpg)](https://www.king5.com/article/news/education/judge-rules-no-recall-petition-sps-board-president/281-039f9019-590b-4bf0-b311-743d13b7b210)
         
-        #### [Dense Fog Advisory expires in western Washington](https://www.king5.com/article/weather/weather-blog/low-visibility-dense-fog-advisory-driving-seattle-tacoma-western-washington/281-ea539072-3f25-4d02-b21b-b112ae951182)
+        #### [Judge rules no recall petition for SPS board president](https://www.king5.com/article/news/education/judge-rules-no-recall-petition-sps-board-president/281-039f9019-590b-4bf0-b311-743d13b7b210) [![](https://media.king5.com/assets/KING/images/82fda16a-3f10-4f87-b5d6-6b999306263a/20241203T015930/82fda16a-3f10-4f87-b5d6-6b999306263a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/82fda16a-3f10-4f87-b5d6-6b999306263a/20241203T015930/82fda16a-3f10-4f87-b5d6-6b999306263a_360x203.jpg)](https://www.king5.com/article/news/education/judge-rules-no-recall-petition-sps-board-president/281-039f9019-590b-4bf0-b311-743d13b7b210)
         
-    *  [![](https://media.king5.com/assets/KING/images/b11e4c3d-3791-4b7a-bec9-d247a77e83d8/b11e4c3d-3791-4b7a-bec9-d247a77e83d8_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b11e4c3d-3791-4b7a-bec9-d247a77e83d8/b11e4c3d-3791-4b7a-bec9-d247a77e83d8_360x203.jpg)](https://www.king5.com/article/news/local/seattle/bus-only-lane-violations-king-county-metro/281-b30fe84b-2ef3-4791-b896-0bbe4d4502f7)
+        #### [King County judge rules against recall petition for Seattle School Board President Liza Rankin](https://www.king5.com/article/news/education/judge-rules-no-recall-petition-sps-board-president/281-039f9019-590b-4bf0-b311-743d13b7b210)
+    *  [![](https://media.king5.com/assets/KING/images/bf726c23-957f-469d-99a9-e3eb9bb25388/20241203T014333/bf726c23-957f-469d-99a9-e3eb9bb25388_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bf726c23-957f-469d-99a9-e3eb9bb25388/20241203T014333/bf726c23-957f-469d-99a9-e3eb9bb25388_360x203.jpg)](https://www.king5.com/article/news/local/three-years-later-community-keeps-looking-leads-in-oakley-carlson-case/281-cb25efdf-b63d-4cfb-afde-db6cd134aedb)
         
-        #### [Are you camping in the bus-only lane? King County Metro is using cameras to count violations](https://www.king5.com/article/news/local/seattle/bus-only-lane-violations-king-county-metro/281-b30fe84b-2ef3-4791-b896-0bbe4d4502f7)
+        #### [Search continues three years after Oakley Carlson's disappearance](https://www.king5.com/article/news/local/three-years-later-community-keeps-looking-leads-in-oakley-carlson-case/281-cb25efdf-b63d-4cfb-afde-db6cd134aedb)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +57,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/5a4205a7-94d0-4876-a794-dff667b057bb/20241202T125906/5a4205a7-94d0-4876-a794-dff667b057bb_16x9.jpg) ![](https://media.king5.com/assets/KING/images/5a4205a7-94d0-4876-a794-dff667b057bb/20241202T125906/5a4205a7-94d0-4876-a794-dff667b057bb_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/7d1c065d-0c2e-43b6-b39a-c6e5ddbc2ae0/20241203T012854/7d1c065d-0c2e-43b6-b39a-c6e5ddbc2ae0_16x9.jpg) ![](https://media.king5.com/assets/KING/images/7d1c065d-0c2e-43b6-b39a-c6e5ddbc2ae0/20241203T012854/7d1c065d-0c2e-43b6-b39a-c6e5ddbc2ae0_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -94,9 +95,9 @@ Navigation
 
 Seattle, WA »
 
-40°
+39°
 
-![Mist](/assets/shared-images/weather-icons/fog-day_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
