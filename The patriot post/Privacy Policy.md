@@ -1,6 +1,6 @@
-**You Make a Difference!** Our mission and operations are funded entirely by Patriots like you! Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_6&utm_medium=web&utm_source=patriotpost.us) now.
+**Publisher's Note:** One of the most significant things you can do to promote Liberty is to [support our mission](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us). Please [make your gift to the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us) today. Thank you! —Mark Alexander, Publisher
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_6&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -126,6 +126,7 @@ Last Updated: November 15, 2011.
 
 ### Top Opinion
 
+*      [Cal Thomas Institutions vs. We the people](https://patriotpost.us/opinion/112471-institutions-vs-we-the-people-2024-12-03)
 *      [Daniel McCarthy Identity Politics, Not Biden, Cost Democrats the Election](https://patriotpost.us/opinion/112478-identity-politics-not-biden-cost-democrats-the-election-2024-12-02)
 *      [The Babylon Bee America Starting to Think This ‘Joe Biden’ Guy Might Be a Liar](https://patriotpost.us/opinion/112467-america-starting-to-think-this-joe-biden-guy-might-be-a-liar-2024-12-02)
 *      [Imprimis Drain the Swamp](https://patriotpost.us/opinion/112398-drain-the-swamp-2024-11-30)
@@ -133,7 +134,6 @@ Last Updated: November 15, 2011.
 *      [Ben Shapiro A World of Leverage](https://patriotpost.us/opinion/112445-a-world-of-leverage-2024-11-29)
 *      [Larry Elder Trump Jokes About Running for Third Term — Dems Freak Out](https://patriotpost.us/opinion/112443-trump-jokes-about-running-for-third-term-dems-freak-out-2024-11-29)
 *      [Laura Hollis We Should Treat the Intellectual Elites Like Royalty](https://patriotpost.us/opinion/112442-we-should-treat-the-intellectual-elites-like-royalty-2024-11-29)
-*      [Tim Graham Journalists Mourn That Jack Smith’s Probes Are Dead](https://patriotpost.us/opinion/112441-journalists-mourn-that-jack-smiths-probes-are-dead-2024-11-29)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -147,7 +147,7 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J82YASE4QNMY5QGPJZ5PECFM.jpeg)](https://patriotpostshop.com/collections/founders-wisdom-coffee)
+No MSM Churn No Clickbait Junk No Advertising
 
 ### The Foundation
 
