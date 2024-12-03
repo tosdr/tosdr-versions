@@ -107,11 +107,11 @@ Top downloads
 
 Latest releases
 
+* [Space](https://www.myabandonware.com/game/space-tdb)
+* [Ancipital](https://www.myabandonware.com/game/ancipital-4hq)
 * [Color Spreading](https://www.myabandonware.com/game/color-spreading-td9)
 * [Bust-A-Move Again](https://www.myabandonware.com/game/bust-a-move-again-97x)
 * [Princess Maker](https://www.myabandonware.com/game/princess-maker-ej4)
-* [Professor McLogic Saves the Day](https://www.myabandonware.com/game/professor-mclogic-saves-the-day-td8)
-* [Hello Kitty: Dream Carnival](https://www.myabandonware.com/game/hello-kitty-dream-carnival-u2v)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
