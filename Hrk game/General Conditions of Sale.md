@@ -140,7 +140,7 @@ Giveaways
 
 [Support](https://www.hrkgame.com/en/support/)
 
-[](https://www.hrkgame.com/fr/events/sale/black-friday/)
+[](https://www.hrkgame.com/en/games/product/microsoft-office-2024-professional-plus)
 
 Refund Policy
 -------------
