@@ -69,11 +69,11 @@ Get 10% off on all Salesmate annual plans. Enter this code: **"BLACKFRIDAY24"** 
     
     **What’s New**
     
-    ![November 2024 Release Notes ](https://www.salesmate.io/wp-content/uploads/2024/11/November-2024-Release-Notes.jpg)
+    ![December 2024 Release Notes ](https://www.salesmate.io/wp-content/uploads/2024/12/December-2024-Release-Notes.webp)
     
-    November 2024 Release Notes
+    December 2024 Release Notes
     
-    [Read More](https://www.salesmate.io/blog/november-2024-release-notes/)
+    [Read More](https://www.salesmate.io/blog/december-2024-release-notes/)
     
 * [pricing](https://www.salesmate.io/pricing/)
 
