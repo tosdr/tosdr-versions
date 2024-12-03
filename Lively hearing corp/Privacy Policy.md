@@ -12,13 +12,15 @@ Save $200 on the Enhance Select 500! [Shop now](https://www.listenlively.com/pro
 
 100-day risk-free trial and US-based customer support!
 
-[Cyber week won't last forever!Cyber week won't last forever!Cyber week won't last forever! **Sale ends in 4d : 8h : 18m**](https://www.listenlively.com/product)
+[Cyber week won't last forever!Cyber week won't last forever!Cyber week won't last forever! **Sale ends in 4d : 2h : 22m**](https://www.listenlively.com/product)
 
 [Jabra EnhanceTM](https://www.listenlively.com/)
 
 [Hearing aids](https://www.listenlively.com/product)[Remote care](https://www.listenlively.com/hearing-care)[Hearing resources](https://www.listenlively.com/hearing-aid-guide)
 
-[(800) 854-2772We're open! Call now](tel:8008542772)[](tel:8008542772 "Call us")
+Schedule call[(800) 854-2772](tel:8008542772)
+
+[](tel:8008542772 "Call us")
 
 [](https://www.listenlively.com/survey)
 
@@ -98,7 +100,7 @@ Everything you need for better hearing — all for as low as $995 per pair. Fina
 Try Enhance Select hearing aids for 100 days. If you're not fully satisfied, we'll refund your entire order.
 
 * Up to 3-year warranty
-* US-based support, 7 days a week
+* Customer support 7 days a week
     
 * Free shipping and returns
 
@@ -226,27 +228,6 @@ With our **Premium Package**, our Audiology Team works with you remotely to impr
 ### Buy now, pay later
 
 As low as 0% APR and $0 down\* with See if you prequalify
-
-Hear your whole SoundScape™
----------------------------
-
-Select 500s employ 3 key features of proprietary speech-clarity technology
-
-Previous
-
-**Date night?** Hear more conversations, fewer clattering dishes.
-
-**Did you hear that music?** This is how you find your new favorite jazz club.
-
-**Going to the show?** Follow the action onstage — and in the seat beside you.
-
-Next
-
-* Hearing in noise
-* True depth of sound
-* Advanced acoustics
-
-[Shop now](https://www.listenlively.com/product/enhanceselect500)
 
 Get personalized care with our Premium Package
 ----------------------------------------------
