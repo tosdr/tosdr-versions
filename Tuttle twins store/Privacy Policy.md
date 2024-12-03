@@ -1,6 +1,6 @@
 [Skip to content](#MainContent)
 
-[**Cyber Monday: 70% Off + Gifts**](https://tuttletwins.store/collections/shop-all)
+[**Cyber Week: 70% Off + Gifts**](https://tuttletwins.store/collections/shop-all)
 
 [**Free shipping on orders $70+ (US Only)**](https://tuttletwins.store/collections/shop-all)
 
