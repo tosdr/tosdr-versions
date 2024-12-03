@@ -17,7 +17,7 @@ English Edition
 * [অসমীয়া (Assam)](https://assam.news18.com/)
 * [ଓଡ଼ିଆ (Odia)](https://odia.news18.com/)
 
-Tue, Dec 03, 2024
+Wed, Dec 04, 2024
 
 [Download News18 APP](https://onelink.to/eng-web-other)[Watch LIVE TV](https://www.news18.com/livetv/)
 
@@ -128,12 +128,12 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
-    * [Janhvi Kapoor](https://www.news18.com/web-stories/celebrities/6-of-janhvi-kapoors-iconic-fashionable-looks-in-2024-2654309/)
     * [Sabarmati Report](https://www.news18.com/movies/pm-modi-watches-sabarmati-report-hours-after-vikrant-massey-announces-retirement-shares-his-review-9142881.html)
-    * [Park Min Jae](https://www.news18.com/movies/south-korean-actor-park-min-jae-dies-at-32-cause-of-death-revealed-9143231.html)
+    * [Kareena Kapoor](https://www.news18.com/movies/kareena-kapoor-rolls-her-eyes-at-abhishek-bachchan-fans-notice-her-reaction-in-viral-video-watch-9143163.html)
+    * [Janhvi Kapoor](https://www.news18.com/web-stories/celebrities/6-of-janhvi-kapoors-iconic-fashionable-looks-in-2024-2654309/)
+    * [Vikrant Massey](https://www.news18.com/lifestyle/inside-vikrant-masseys-luxurious-sea-facing-mumbai-apartment-sprawling-balcony-boho-decor-and-more-9143643.html)
     * [IPS Officer Death](https://www.news18.com/india/karnataka-ips-officer-harsh-bardhan-dies-road-accident-on-his-way-to-first-posting-hassan-latest-updates-9142069.html)
-    * [Ravi Kishan](https://www.news18.com/movies/ravi-kishan-on-karan-veer-chum-darangs-romance-on-bigg-boss-18-hes-a-flirt-but-exclusive-9142988.html)
-    * [Donald Trump](https://www.news18.com/world/donald-trump-justin-trudeau-dinner-florida-canada-should-become-51st-state-of-usa-tariff-9143131.html)
+    * [Gaurav Khanna](https://www.news18.com/movies/gaurav-khanna-quits-anupamaa-reacts-to-fallout-with-rupali-ganguly-what-happens-beyond-action-and-cut-9143148.html)
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
@@ -170,12 +170,12 @@ Follow us on
 
 In Trends:
 
-* [Janhvi Kapoor](https://www.news18.com/web-stories/celebrities/6-of-janhvi-kapoors-iconic-fashionable-looks-in-2024-2654309/)
 * [Sabarmati Report](https://www.news18.com/movies/pm-modi-watches-sabarmati-report-hours-after-vikrant-massey-announces-retirement-shares-his-review-9142881.html)
-* [Park Min Jae](https://www.news18.com/movies/south-korean-actor-park-min-jae-dies-at-32-cause-of-death-revealed-9143231.html)
+* [Kareena Kapoor](https://www.news18.com/movies/kareena-kapoor-rolls-her-eyes-at-abhishek-bachchan-fans-notice-her-reaction-in-viral-video-watch-9143163.html)
+* [Janhvi Kapoor](https://www.news18.com/web-stories/celebrities/6-of-janhvi-kapoors-iconic-fashionable-looks-in-2024-2654309/)
+* [Vikrant Massey](https://www.news18.com/lifestyle/inside-vikrant-masseys-luxurious-sea-facing-mumbai-apartment-sprawling-balcony-boho-decor-and-more-9143643.html)
 * [IPS Officer Death](https://www.news18.com/india/karnataka-ips-officer-harsh-bardhan-dies-road-accident-on-his-way-to-first-posting-hassan-latest-updates-9142069.html)
-* [Ravi Kishan](https://www.news18.com/movies/ravi-kishan-on-karan-veer-chum-darangs-romance-on-bigg-boss-18-hes-a-flirt-but-exclusive-9142988.html)
-* [Donald Trump](https://www.news18.com/world/donald-trump-justin-trudeau-dinner-florida-canada-should-become-51st-state-of-usa-tariff-9143131.html)
+* [Gaurav Khanna](https://www.news18.com/movies/gaurav-khanna-quits-anupamaa-reacts-to-fallout-with-rupali-ganguly-what-happens-beyond-action-and-cut-9143148.html)
 * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 
 * Follow Us
@@ -430,7 +430,7 @@ This Policy was last updated as of 14th November 2024.
 
 ![](https://images.news18.com/ibnlive/uploads/2021/07/1627283897_news18_logo-1200x800.jpg)
 
-Dec 03, 2024
+Dec 04, 2024
 
 [View All](https://www.news18.com/short-news/)
 
