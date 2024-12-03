@@ -125,7 +125,7 @@ Certain web browsers may allow you to enable a “do not track” option that se
 
 For more information, please read our [Privacy PolicyOpens a new window](https://www.ziffdavis.com/privacy-policy "Opens a new window") .
 
-We hope that this policy helps you understand our use of cookies. If you have any further queries, please contact us at [privacy@ziffdavis.com](mailto:privacy@ziffdavis.com "Opens a new window") **and be sure to include _Cookie Policy_ in the subject line**.
+We hope that this policy helps you understand our use of cookies. If you have any further queries, please contact us at [\[email protected\]](https://www.spiceworks.com/cdn-cgi/l/email-protection) **and be sure to include _Cookie Policy_ in the subject line**.
 
 [spiceworks.](https://www.spiceworks.com/)
 
