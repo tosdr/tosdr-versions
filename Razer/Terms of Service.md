@@ -1225,7 +1225,6 @@ Switch to
         * [Razer Scout 15" Backpack](https://www.razer.com/gear-backpacks/razer-scout-15-backpack)
         * [Razer Recon 15" Rolltop Backpack](https://www.razer.com/gear-backpacks/razer-recon-15-rolltop-backpack)
         * [Razer Concourse Pro 17.3" Backpack](https://www.razer.com/gear-backpacks/razer-concourse-pro-17-backpack)
-        * [Razer Concourse Pro 17.3" Backpack V2](https://www.razer.com/gaming-accessories/razer-tactical-backpack-17-v2)
         * [Razer Neoprene Sleeve V2 - For 13.3" Notebooks](https://www.razer.com/laptop-sleeves/razer-neoprene-sleeve-v2)
         
     * Accessories
