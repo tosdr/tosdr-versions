@@ -414,34 +414,34 @@ Most common
 
 1. python
     
-2. excel
+2. hacking
     
-3. harvard
+3. sql
     
 
 Popular subjects
 
-1. [Artificial Intelligence
+1. [Web Development
     
-    14,343 courses](https://www.classcentral.com/subject/ai)
-2. [Computer Networking
+    13,841 courses](https://www.classcentral.com/subject/web-development)
+2. [Information Technology
     
-    2,014 courses](https://www.classcentral.com/subject/computer-networking)
-3. [Ethical Hacking
+    5,069 courses](https://www.classcentral.com/subject/information-technology)
+3. [Digital Marketing
     
-    2,241 courses](https://www.classcentral.com/subject/ethical-hacking)
+    6,294 courses](https://www.classcentral.com/subject/digital-marketing)
 
 Popular courses
 
-1. [Incarceration: Are Prisons a Suitable Punishment?
+1. [Six Sigma Part 1: Define and Measure
     
-    University of Leeds](https://www.classcentral.com/course/incarceration-prisons-suitable-punishment-17036)
-2. [Quantum Mechanics for Everyone
+    Technische Universität München (Technical University of Munich)](https://www.classcentral.com/course/six-sigma-technische-universitat-munchen-six-sigm-8450)
+2. [Know Thyself - The Value and Limits of Self-Knowledge: The Examined Life
     
-    Georgetown University](https://www.classcentral.com/course/quantum-physics-mechanics-georgetown-university-q-8284)
-3. [Programming for Everybody (Getting Started with Python)
+    University of Edinburgh](https://www.classcentral.com/course/know-thyself-the-examined-life-432)
+3. [Moralities of Everyday Life
     
-    University of Michigan](https://www.classcentral.com/course/python-4319)
+    Yale University](https://www.classcentral.com/course/moralities-911)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
