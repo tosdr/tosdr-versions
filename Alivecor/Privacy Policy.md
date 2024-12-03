@@ -1,6 +1,4 @@
-[](https://store.kardia.com/products/kardiamobile6l)
-
-[](https://store.kardia.com/products/kardiamobile6l)[](https://store.kardia.com/products/kardiamobile6l)Cyber Monday Sale: Get $30 OFF KardiaMobile 6L | Shop Sale[](https://store.kardia.com/products/kardiamobile6l)[](https://store.kardia.com/products/kardiamobile6l)
+[Cyber Monday Sale: Get $30 OFF KardiaMobile 6L | Shop Sale](https://store.kardia.com/products/kardiamobile6l)
 
 [](https://kardia.com/)
 
