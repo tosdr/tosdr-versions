@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
-[Balance
+[Justice
 
-### One gavel, two hands in Minnesota](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1202/One-gavel-two-hands-in-Minnesota "One gavel, two hands in Minnesota")
+### A questionable pardon’s deeper resonance](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1203/A-questionable-pardon-s-deeper-resonance "A questionable pardon’s deeper resonance")
 
-[Peace
+[Community
 
-### Trump’s Mideast team: A familiar look for a transformed region](https://www.csmonitor.com/World/Middle-East/2024/1127/trump-middle-east-policy-team-israel "Trump’s Mideast team: A familiar look for a transformed region")
+### French women flock to Gisèle Pelicot rape trial, ‘to show her that she’s not alone’](https://www.csmonitor.com/World/Europe/2024/1203/gisele-pelicot-rape-trial-courtroom "French women flock to Gisèle Pelicot rape trial, ‘to show her that she’s not alone’")
 
-[Joy
+[Trust
 
-### How century-old fashion is helping Ukrainians escape the grind of war](https://www.csmonitor.com/World/Europe/2024/1127/ukraine-war-russia-sumy-fashion-history-museum "How century-old fashion is helping Ukrainians escape the grind of war")
+### High-profile scandals lead to high-profile local reforms in California](https://www.csmonitor.com/USA/Politics/2024/1203/los-angeles-county-mayor-reform "High-profile scandals lead to high-profile local reforms in California")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
-[### Syrian civil war: What rebels’ lightning gains say about Assad regime](https://www.csmonitor.com/World/Middle-East/2024/1202/syria-rebels-assad-aleppo-hezbollah-russia "Syrian civil war: What rebels’ lightning gains say about Assad regime")
+[### French women flock to Gisèle Pelicot rape trial, ‘to show her that she’s not alone’](https://www.csmonitor.com/World/Europe/2024/1203/gisele-pelicot-rape-trial-courtroom "French women flock to Gisèle Pelicot rape trial, ‘to show her that she’s not alone’")
 
-[### Supreme Court will hear largest transgender rights case in US history](https://www.csmonitor.com/USA/Justice/2024/1202/supreme-court-transgender-rights-us-v-skrmetti "Supreme Court will hear largest transgender rights case in US history")
+[### New turtle moms hit the beach in Greece, and the school buses making electricity](https://www.csmonitor.com/World/Points-of-Progress/2024/1203/school-bus-beach-turtles-moms "New turtle moms hit the beach in Greece, and the school buses making electricity")
 
-[### President Biden pardons Hunter Biden, sparing him a possible prison sentence](https://www.csmonitor.com/USA/2024/1202/Hunter-Biden-presidential-pardon-tax-evasion-guns-drugs "President Biden pardons Hunter Biden, sparing him a possible prison sentence")
+[### In Oklahoma, purpose and care from teachers coax Indigenous students back to school](https://www.csmonitor.com/USA/2024/1203/Native-American-School-Programs-Chronic-Absenteeism-Oklahoma "In Oklahoma, purpose and care from teachers coax Indigenous students back to school")
 
 * * *
 
