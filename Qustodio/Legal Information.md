@@ -1,5 +1,3 @@
-[**CYBER MONDAY |** Get 30% off Premium protection today only – **BUY NOW**](https://www.qustodio.com/en/premium/)
-
 [![Qustodio](https://www.qustodio.com/wp-content/themes/Divi-child/assets/dist/svg/template-parts/header/qustodio-logo.svg?v=4.19.0)](https://www.qustodio.com/en/)
 
 * [Home](https://www.qustodio.com/en/)
@@ -14,8 +12,6 @@
 
 * [Log in](https://family.qustodio.com/)
 * [Sign up](https://www.qustodio.com/en/free-sign-up/)
-
-[**CYBER MONDAY |** Get 30% off Premium protection today only – **BUY NOW**](https://www.qustodio.com/en/premium/)
 
 [![Qustodio](https://www.qustodio.com/wp-content/themes/Divi-child/assets/dist/svg/template-parts/header/qustodio-logo.svg?v=4.19.0)](https://www.qustodio.com/en/)
 
@@ -193,9 +189,3 @@ Follow @qustodio
 ![](https://www.qustodio.com/wp-content/themes/Divi-child/assets/src/img/template-parts/footer/copyright-logo.png) © 2024 Qustodio is a registered trademark of Qustodio LLC. All rights reserved.
 
 ![](https://www.qustodio.com/wp-content/themes/Divi-child/assets/src/img/template-parts/footer/badges.png)
-
-### **Cyber Monday flash sale!**
-
-Today only! Get 30% off Premium plans with code CYBER30
-
-[Go Premium](https://www.qustodio.com/en/premium/) [Go Premium](https://www.qustodio.com/en/premium/) [Go Premium](https://www.qustodio.com/en/premium/)
