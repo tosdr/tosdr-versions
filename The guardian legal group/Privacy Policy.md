@@ -175,9 +175,9 @@ We may also use vendors to provide these services which means these vendors may 
 
 We respect your privacy. We will not share or use your mobile number for any purpose other than to send you notifications and reminders as described above. We will only use your mobile number to transmit your text message. However, we may always disclose any information as necessary to satisfy any law, regulation or governmental request, to avoid liability, or to protect our rights or property. When you complete forms online or otherwise provide us information in connection with this text-messaging service, you agree to provide accurate, complete and true information. You agree not to use a false or misleading name or a name that you are not authorized to use. If we, in our sole discretion, believe that any such information is untrue, inaccurate, or incomplete, we may refuse you access to this service and pursue any appropriate legal remedies.
 
-**You may review our full terms & conditions here:** [https://guardianlegal.wpengine.com/privacy-policy/](https://guardianlegal.wpengine.com/privacy-policy/)
+**You may review our full terms & conditions here:** [https://theguardianlegalnetwork.com/privacy-policy/](https://theguardianlegalnetwork.com/privacy-policy/)
 
-**You may read our full privacy policy here:** [https://guardianlegal.wpengine.com/terms-of-use/](https://guardianlegal.wpengine.com/terms-of-use/)
+**You may read our full privacy policy here:** [https://theguardianlegalnetwork.com/terms-of-use/](https://theguardianlegalnetwork.com/terms-of-use/)
 
 **Carriers Supported**
 
@@ -186,7 +186,7 @@ Minor carriers: Advantage Cellular (DTC Wireless), Aio Wireless, Alaska Communic
 
 **How To Get Help**
 
-For more information, you can call us at: (855) 734-0374 or sms@guardianlegal.com. From your mobile phone, you can also get help information at any time by sending the text “HELP” to (912) 356-4400, (912) 325-9200, (912) 299-8600, (912) 214-5400, & (912) 351-8800. You will receive a standard rate message from our service with information on the program you have subscribed to.
+For more information, you can call us at: (855) 734-0374 or sms@getguardianlegal.com. From your mobile phone, you can also get help information at any time by sending the text “HELP” to (912) 356-4400, (912) 325-9200, (912) 299-8600, (912) 214-5400, & (912) 351-8800. You will receive a standard rate message from our service with information on the program you have subscribed to.
 
 **How To Opt-Out**
 
