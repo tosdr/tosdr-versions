@@ -407,11 +407,11 @@ Please note that, in some instances, we may decline to honor your request where,
 
 ### [Hannah Kobayashi: Missing Hawaii woman intentionally missed flight at LAX, police say](https://www.fox4news.com/news/hannah-kobayashi-missing-hawaii-woman-intentionally-missed-flight-lax-lapd)
 
- [![Wylie woman run over by high school teen looking to fight her younger brother: police](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/wylie-woman-run-over.png?ve=1&tl=1)
+ [![Wiley woman run over by teens looking to confront her younger brother: police](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/wylie-woman-run-over.png?ve=1&tl=1)
 
- ![Wylie woman run over by high school teen looking to fight her younger brother: police](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/wylie-woman-run-over.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/wylie-woman-run-over-high-school-teen-looking-her-younger-brother-police)
+ ![Wiley woman run over by teens looking to confront her younger brother: police](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/wylie-woman-run-over.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/wylie-woman-run-over-high-school-teen-looking-her-younger-brother-police)
 
-### [Wylie woman run over by high school teen looking to fight her younger brother: police](https://www.fox4news.com/news/wylie-woman-run-over-high-school-teen-looking-her-younger-brother-police)
+### [Wiley woman run over by teens looking to confront her younger brother: police](https://www.fox4news.com/news/wylie-woman-run-over-high-school-teen-looking-her-younger-brother-police)
 
  [![Is Enron making a comeback? Here's what we know](https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2019/09/32/18/enron_1464208673401_1348830_ver1.0.jpg?ve=1&tl=1)
 
