@@ -83,6 +83,7 @@ Follow Us
 Trending Topics:
 ----------------
 
+* [2024 Changemakers](https://www.thewrap.com/changemakers-pws-2024/)
 * [Holding On in Hollywood](https://www.thewrap.com/tag/holding-on-in-hollywood/)
 
 Cyber Week Sale: 50% OFF WrapPRO Subscription
