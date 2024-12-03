@@ -117,61 +117,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Wish I started ages ago!
-> ------------------------
+> Integrated Debit Order Solution
+> -------------------------------
 > 
-> I just want to compliment you and your team for an amazing back office software.
-> 
-> I have been struggling with a proper invoicing solution for six months now (to make time each month)
-> 
-> I just wish I started using Invoices Online ages ago.
+> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
 
-Terri Winfield
+Hugo van Sittert
 
-![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=215126bc8ddcc20892704a3829efb07749de8a78d47dceacfe85a9ee9e96fb29&c=147138356)  
-FJW Security Cc
+![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=2a90430550ffc61c652e26497d83f65105cb0b8f10a838824b88ce114223f550&c=164444940)  
+Alliance Energy
 
-![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=215126bc8ddcc20892704a3829efb07749de8a78d47dceacfe85a9ee9e96fb29&c=190103077)  
-VerdanTech Pty Ltd
+![valued client Hydroworld PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=2a90430550ffc61c652e26497d83f65105cb0b8f10a838824b88ce114223f550&c=36838322)  
+Hydroworld PTY LTD
 
-![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=215126bc8ddcc20892704a3829efb07749de8a78d47dceacfe85a9ee9e96fb29&c=208354554)  
-Leef in Afrikaans
+![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=2a90430550ffc61c652e26497d83f65105cb0b8f10a838824b88ce114223f550&c=130134455)  
+M's Frozen Delights
 
-![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=215126bc8ddcc20892704a3829efb07749de8a78d47dceacfe85a9ee9e96fb29&c=135272118)  
-kidoscabbie
+![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=2a90430550ffc61c652e26497d83f65105cb0b8f10a838824b88ce114223f550&c=6979094)  
+Goju Ryu Karate Centre
 
-![valued client Kara Medical (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=3913&file=logo_300_100&type=&fe=215126bc8ddcc20892704a3829efb07749de8a78d47dceacfe85a9ee9e96fb29&c=66387331)  
-Kara Medical (Pty) Ltd
+![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=2a90430550ffc61c652e26497d83f65105cb0b8f10a838824b88ce114223f550&c=27829458)  
+CBR Verwe/Paints
 
-![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=215126bc8ddcc20892704a3829efb07749de8a78d47dceacfe85a9ee9e96fb29&c=180051209)  
-KTEN PARTS
+![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=2a90430550ffc61c652e26497d83f65105cb0b8f10a838824b88ce114223f550&c=200604735)  
+webb it services
 
-![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=215126bc8ddcc20892704a3829efb07749de8a78d47dceacfe85a9ee9e96fb29&c=63553026)  
-Norton Medical & Consult - Namibia
-
-![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=215126bc8ddcc20892704a3829efb07749de8a78d47dceacfe85a9ee9e96fb29&c=62538937)  
-Nilbet T/A Waterman
-
-![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=215126bc8ddcc20892704a3829efb07749de8a78d47dceacfe85a9ee9e96fb29&c=40592760)  
-Sonic Electrical Services PTY Ltd
-
-![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=215126bc8ddcc20892704a3829efb07749de8a78d47dceacfe85a9ee9e96fb29&c=77931150)  
-Beyond Laser CNC Cutting Technology South Africa CC
-
-![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=215126bc8ddcc20892704a3829efb07749de8a78d47dceacfe85a9ee9e96fb29&c=119587536)  
-NJR ICT Services (Pty) Ltd
-
-![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=215126bc8ddcc20892704a3829efb07749de8a78d47dceacfe85a9ee9e96fb29&c=52781473)  
+![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=2a90430550ffc61c652e26497d83f65105cb0b8f10a838824b88ce114223f550&c=82738233)  
 Roamfree Boerdery (PTY) LTD
 
-![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=215126bc8ddcc20892704a3829efb07749de8a78d47dceacfe85a9ee9e96fb29&c=206241421)  
-RADIO TYGERBERG 104FM NPC
+![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=2a90430550ffc61c652e26497d83f65105cb0b8f10a838824b88ce114223f550&c=126557046)  
+OXYAIDER (PTY) LTD
 
-![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=215126bc8ddcc20892704a3829efb07749de8a78d47dceacfe85a9ee9e96fb29&c=25368099)  
-Gemini-IT Group
+![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=2a90430550ffc61c652e26497d83f65105cb0b8f10a838824b88ce114223f550&c=6225777)  
+ARCHITEK PTY LTD
 
-![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=215126bc8ddcc20892704a3829efb07749de8a78d47dceacfe85a9ee9e96fb29&c=66657101)  
-MSPCloud (Pty) Ltd
+![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=2a90430550ffc61c652e26497d83f65105cb0b8f10a838824b88ce114223f550&c=20221027)  
+Peter Salvage Pty Ltd
+
+![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=2a90430550ffc61c652e26497d83f65105cb0b8f10a838824b88ce114223f550&c=165916256)  
+UMVIKELI PRIVATE SECURITY
+
+![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=2a90430550ffc61c652e26497d83f65105cb0b8f10a838824b88ce114223f550&c=39316236)  
+Leef in Afrikaans
+
+![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=2a90430550ffc61c652e26497d83f65105cb0b8f10a838824b88ce114223f550&c=128403010)  
+VS Auto Spares and Repairs (Pty) LTD
+
+![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=2a90430550ffc61c652e26497d83f65105cb0b8f10a838824b88ce114223f550&c=136271361)  
+Oak Tree Immigration
+
+![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=2a90430550ffc61c652e26497d83f65105cb0b8f10a838824b88ce114223f550&c=191134275)  
+TIGERDSL
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
