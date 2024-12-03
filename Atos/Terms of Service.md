@@ -203,7 +203,6 @@ Atos homepage](https://atos.net/en/)
         ---------------
         
         * [AWS re:Invent 2024](https://atos.net/en/events/aws-reivent-2024)
-        * [Innovation in Disability Inclusion event 2024](https://atos.net/en/events/innovation-in-disability-inclusion-event-2024)
         
         ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
