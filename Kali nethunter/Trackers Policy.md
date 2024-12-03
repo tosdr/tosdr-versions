@@ -98,7 +98,7 @@
     
     Ready yourself for the next step in your cybersecurity career](https://www.offsec.com/products)
     
-    [Buy now](https://portal.offsec.com/registration/?utm_source=offsec)
+    [Buy now](https://www.offsec.com/register/)
     
     [New course
     
@@ -159,7 +159,7 @@
     
     OffSec-curated private labs to practice and perfect your pentesting skills](https://www.offsec.com/labs/individual)
     
-    [Buy now](https://portal.offsec.com/registration/?utm_source=offsec)
+    [Buy now](https://www.offsec.com/register/)
     
     Get 20% off
     
@@ -170,7 +170,7 @@
     
     Get 20% off annual access to a single course, hands-on labs, and two exam attempts with Learn One. Balance life and learning while reducing stress and time pressure.
     
-    [Start your quest](https://portal.offsec.com/registration?preselect=67)
+    [Start your quest](https://www.offensive-security.com/register?preselect=67)
     
     ![](/_astro/nav-column.D8ZbmYxS_Z2v3ob5.svg)
     
@@ -347,7 +347,7 @@
     
     Ready yourself for the next step in your cybersecurity career](https://www.offsec.com/products)
     
-    [Buy now](https://portal.offsec.com/registration/?utm_source=offsec)
+    [Buy now](https://www.offsec.com/register/)
     
     [New course
     
@@ -408,7 +408,7 @@
     
     OffSec-curated private labs to practice and perfect your pentesting skills](https://www.offsec.com/labs/individual)
     
-    [Buy now](https://portal.offsec.com/registration/?utm_source=offsec)
+    [Buy now](https://www.offsec.com/register/)
     
     Get 20% off
     
@@ -419,7 +419,7 @@
     
     Get 20% off annual access to a single course, hands-on labs, and two exam attempts with Learn One. Balance life and learning while reducing stress and time pressure.
     
-    [Start your quest](https://portal.offsec.com/registration?preselect=67)
+    [Start your quest](https://www.offensive-security.com/register?preselect=67)
     
     ![](/_astro/nav-column.D8ZbmYxS_Z2v3ob5.svg)
     
