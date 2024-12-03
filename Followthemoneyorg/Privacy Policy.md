@@ -66,7 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Dark Money Pushes Into State Elections](/assets/Images/teasers/small/DarkMoneyStates.JPG)](https://www.followthemoney.org/research/blog/darkness-on-the-edge-of-town-national-dark-money-targets-states)
+[![WarrenBuffet](/assets/logos/WarrenBuffetGivingGraph.png)](https://www.followthemoney.org/research/institute-research/forbes-magazines-richest-americans-influence-state-politics)
+
+Warren Buffet's preference for Republican candidates, 2005-2008.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
