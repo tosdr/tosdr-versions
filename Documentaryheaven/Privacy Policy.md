@@ -123,44 +123,44 @@ Advertisement
     The Fog of War
     
     Winner of the Academy Award for Best DocumentaryIt is the story of America as seen through the eyes of the former Secretary of Defense, Robert S. McNamara. One of the most controversial and influe...](https://documentaryheaven.com/the-fog-of-war/ "The Fog of War")
+* [![The Nature of Ayahuasca](/wp-content/thumbnails/16205-100x70.jpg?x53432)
+    
+    The Nature of Ayahuasca
+    
+    Ayahuasca is a plant-based psychedelic brew that originated from the South American rainforests. It is made from boiling the Banisteriopsis caapi vine, the Psychotria viridis shrub together, although...](https://documentaryheaven.com/nature-of-ayahuasca/ "The Nature of Ayahuasca")
 * [![Pedigree Dogs Exposed](/wp-content/thumbnails/2539-100x70.jpg?x53432)
     
     Pedigree Dogs Exposed
     
     Pedigree dogs are suffering from genetic diseases following years of inbreeding, an investigation has found.A BBC documentary says they are suffering acute problems because looks are emphasised ov...](https://documentaryheaven.com/bbc-pedigree-dogs-exposed/ "Pedigree Dogs Exposed")
-* [![Why The Industrial Revolution Happened Here](/wp-content/thumbnails/8018-100x70.jpeg?x53432)
-    
-    Why The Industrial Revolution Happened Here
-    
-    Professor Jeremy Black examines one of the most extraordinary periods in British history: the Industrial Revolution. He explains the unique economic, social and political conditions that by the 19th c...](https://documentaryheaven.com/why-industrial-revolution-happened-here/ "Why The Industrial Revolution Happened Here")
 
 ###### Throwback Documentaries
 
-* [![Cleveland Captives: What Really Happened?](/wp-content/thumbnails/7169-100x70.jpg?x53432)
+* [![Teens Hooked on Porn](/wp-content/thumbnails/3299-100x70.jpg?x53432)
     
-    Cleveland Captives: What Really Happened?
+    Teens Hooked on Porn
     
-    For 10 years Amanda Berry, Georgina DeJesus, and Michelle Knight were presumed dead when they were kidnapped on the same stretch of road in Cleveland, Ohio. But in May, 2013, the trio were miraculousl](https://documentaryheaven.com/cleveland-captives-what-really-happened/ "Cleveland Captives: What Really Happened?")
-* [![Sri Lanka’s Killing Fields](/wp-content/thumbnails/6167-100x70.jpg?x53432)
+    Documentary looking at how British teenagers are increasingly being tempted by the limitless porn available on the Internet, with some becoming addicts. Three of them tell their stories of differing u](https://documentaryheaven.com/teens-hooked-on-porn/ "Teens Hooked on Porn")
+* [![The Power of the Placebo](/wp-content/thumbnails/10315-100x70.jpg?x53432)
     
-    Sri Lanka’s Killing Fields
+    The Power of the Placebo
     
-    Jon Snow presents a forensic investigation into the final weeks of the quarter-century-long civil war between the government of Sri Lanka and the secessionist rebels, the Tamil Tigers.With disturb](https://documentaryheaven.com/sri-lanka%e2%80%99s-killing-fields/ "Sri Lanka’s Killing Fields")
-* [![Nas’ Story](/wp-content/thumbnails/3925-100x70.jpg?x53432)
+    Are they miracle pills? in theory they should't have any affect on us what so ever. Placebos can come in any shape or size and they contain no active ingredient but rather are a medically ineffectual](https://documentaryheaven.com/power-of-the-placebo/ "The Power of the Placebo")
+* [![The Truth about Payday Loans](/wp-content/thumbnails/8450-100x70.jpg?x53432)
     
-    Nas’ Story
+    The Truth about Payday Loans
     
-    A very good documentary about the hip-hop artist Nas, giving  good insight into his life and upbringing.](https://documentaryheaven.com/nas-story/ "Nas’ Story")
-* [![Is it Real? Extreme Sleepwalking](/wp-content/thumbnails/1201-100x70.jpg?x53432)
+    Miquita Oliver used to be a famous television presenter and radio personality in the UK until she filed for bankruptcy in 2011. As someone who is very familiar with the burdens of having huge debts lo](https://documentaryheaven.com/truth-about-payday-loans/ "The Truth about Payday Loans")
+* [![50 Shades of Sasha Grey](/wp-content/thumbnails/7810-100x70.jpg?x53432)
     
-    Is it Real? Extreme Sleepwalking
+    50 Shades of Sasha Grey
     
-    Is it possible that people can commit complex crimes - even murder - while they are sleepwalking? With only a dead victim and a zoned-out sleepwalker at the scene of the crime, it is hard to know for](https://documentaryheaven.com/is-it-real-extreme-sleepwalking/ "Is it Real? Extreme Sleepwalking")
-* [![The Truth About Online Anorexia](/wp-content/thumbnails/5961-100x70.jpg?x53432)
+    Sasha Grey is an American actress, model, author, musician, and former adult actress. Throughout her adult film career, she was profiled by several pop culture magazines and television programs. She h](https://documentaryheaven.com/50-shades-sasha-grey/ "50 Shades of Sasha Grey")
+* [![Scientific Verification of Vedic Knowledge](/wp-content/thumbnails/2325-100x70.jpg?x53432)
     
-    The Truth About Online Anorexia
+    Scientific Verification of Vedic Knowledge
     
-    Fearne Cotton examines the ongoing trend for super-slim women and immerses herself in the worrying world of pro-ana websites who encourage anorexia and starvation as a life choice.As Fearne expl](https://documentaryheaven.com/the-truth-about-online-anorexia/ "The Truth About Online Anorexia")
+    A vast number of statements and materials presented in the ancient Vedic literatures can be shown to agree with modern scientific findings and they also reveal a highly developed scientific content in](https://documentaryheaven.com/scientific-verification-of-vedic-knowledge/ "Scientific Verification of Vedic Knowledge")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
