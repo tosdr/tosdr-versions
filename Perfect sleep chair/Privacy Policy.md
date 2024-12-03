@@ -1,8 +1,4 @@
-                                   [Skip to content](#MainContent)
-
-[](https://www.perfectsleepchair.com/collections/cyber-monday-deals)
-
-Cyber Monday Deals End Soon! Learn More
+             [Skip to content](#MainContent)
 
 [888-404-1724](tel:888-404-1724)
 
@@ -228,7 +224,7 @@ Rated 4.8 out of 5 stars
 
 59 Reviews
 
-~$1,899.00~ $1,699.00
+$1,899.00
 
  Petite Plus 2 Zone (w/ Blanket & USB) / Microlux BluePetite Plus 2 Zone (w/ Blanket & USB) / Microlux BurgundyPetite Plus 2 Zone (w/ Blanket & USB) / Microlux ChocolatePetite Plus 2 Zone (w/ Blanket & USB) / Microlux TanPetite Plus 2 Zone (w/ Blanket & USB) / Duralux ChocolatePetite Plus 2 Zone (w/ Blanket & USB) / Duralux TanDeluxe Plus 2 Zone (w/ Blanket & USB) / Microlux BurgundyDeluxe Plus 2 Zone (w/ Blanket & USB) / Microlux Dark MossDeluxe Plus 2 Zone (w/ Blanket & USB) / Microlux BlueDeluxe Plus 2 Zone (w/ Blanket & USB) / Microlux TanDeluxe Plus 2 Zone (w/ Blanket & USB) / Duralux ChocolateDeluxe Plus 2 Zone (w/ Blanket & USB) / Duralux TanDeluxe Plus 2 Zone (w/ Blanket & USB) / Leather ChestnutDeluxe Plus 2 Zone (w/ Blanket & USB) / Miralux Chocolate SpectraDeluxe Plus 2 Zone (w/ Blanket & USB) / Miralux Light Gray SpectraDeluxe Plus 2 Zone (w/ Blanket & USB) / Miralux SaddleDeluxe 5 Zone / Miralux Light Gray SpectraDeluxe 5 Zone / Miralux Saddle
 
