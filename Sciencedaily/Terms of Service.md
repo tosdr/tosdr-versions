@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**December 2, 2024**
+**December 3, 2024**
 
 * * *
 
@@ -251,17 +251,17 @@ this week
 
 [Hormone Disorders](https://www.sciencedaily.com/news/health_medicine/hormone_disorders/)
 
-[Personalized Medicine](https://www.sciencedaily.com/news/health_medicine/personalized_medicine/)
+[Brain Injury](https://www.sciencedaily.com/news/mind_brain/brain_injury/)
 
 [Caregiving](https://www.sciencedaily.com/news/mind_brain/caregiving/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
+[Quantum Physics](https://www.sciencedaily.com/news/matter_energy/quantum_physics/)
+
 [Spintronics](https://www.sciencedaily.com/news/matter_energy/spintronics/)
 
-[Graphene](https://www.sciencedaily.com/news/matter_energy/graphene/)
-
-[Quantum Physics](https://www.sciencedaily.com/news/matter_energy/quantum_physics/)
+[Robotics Research](https://www.sciencedaily.com/news/matter_energy/robotics/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
