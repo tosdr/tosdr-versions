@@ -26,41 +26,43 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-blumenthal-warren-1200x630.jpg)](https://americanwirenews.com/dem-senators-urge-lame-duck-biden-to-limit-trumps-authority-over-us-military/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/canton-pd-ferrell-1200x630.jpg)](https://americanwirenews.com/ohio-woman-sentenced-to-prison-for-killing-and-eating-a-cat/)
 
-[Dem senators urge lame-duck Biden to limit Trump’s authority over US military](https://americanwirenews.com/dem-senators-urge-lame-duck-biden-to-limit-trumps-authority-over-us-military/)
+[Ohio woman sentenced to prison after savage video of her killing and eating a cat](https://americanwirenews.com/ohio-woman-sentenced-to-prison-for-killing-and-eating-a-cat/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-musk-sanders-1200x630.jpg)](https://americanwirenews.com/bernie-agrees-with-elon-musk-on-govt-waste-and-no-hell-did-not-freeze-over/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-huntercbs1-1200-x-628-1200x630.jpg)](https://americanwirenews.com/special-counsel-balks-at-dropping-hunter-biden-indictments-after-joes-pardon/)
 
-[Bernie agrees with Elon Musk on gov’t waste – and no, hell did not freeze over](https://americanwirenews.com/bernie-agrees-with-elon-musk-on-govt-waste-and-no-hell-did-not-freeze-over/)
+[Special counsel balks at dropping Hunter Biden indictments after Joe’s pardon](https://americanwirenews.com/special-counsel-balks-at-dropping-hunter-biden-indictments-after-joes-pardon/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2023/01/SG-Adam-Schiff-1200x630.jpg)](https://americanwirenews.com/adam-schiff-wants-to-boss-around-senate-on-patel-and-hes-not-even-sworn-in-yet/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/rf-trudeau-trump-1200x630.jpeg)](https://americanwirenews.com/trump-tells-trudeau-canada-could-become-51st-state-after-the-pm-complained-about-his-tariffs/)
 
-[Adam Schiff wants to boss around Senate on Patel and he’s not even sworn in yet](https://americanwirenews.com/adam-schiff-wants-to-boss-around-senate-on-patel-and-hes-not-even-sworn-in-yet/)
+(Official White House Photo by Shealah Craighead)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-jeanpierre-1200x630.jpg)](https://americanwirenews.com/kjp-peppered-with-questions-about-reasons-behind-hunter-bidens-blanket-pardon/)
+[Trump tells Trudeau Canada could become 51st state after the PM complained about his tariffs](https://americanwirenews.com/trump-tells-trudeau-canada-could-become-51st-state-after-the-pm-complained-about-his-tariffs/)
 
-[KJP peppered with questions about reasons behind Hunter Biden’s blanket pardon](https://americanwirenews.com/kjp-peppered-with-questions-about-reasons-behind-hunter-bidens-blanket-pardon/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-brzezinski-maddow-scarborugh-1200x630.jpg)](https://americanwirenews.com/civil-war-reportedly-erupts-at-msnbc-after-joe-and-mikas-visit-to-mar-a-lago/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-alshaair-lawrence-1200x630.jpg)](https://americanwirenews.com/nfls-azeez-al-shaair-ejected-over-dirty-hit-players-free-palestine-politics-spill-onto-field/)
+[Civil war reportedly erupts at MSNBC after Joe and Mika’s visit to Mar-a-Lago](https://americanwirenews.com/civil-war-reportedly-erupts-at-msnbc-after-joe-and-mikas-visit-to-mar-a-lago/)
 
-[NFL’s Azeez Al-Shaair ejected over dirty hit – player’s ‘Free Palestine’ politics spill onto field](https://americanwirenews.com/nfls-azeez-al-shaair-ejected-over-dirty-hit-players-free-palestine-politics-spill-onto-field/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-bill-maher-1200x630.png)](https://americanwirenews.com/trump-broke-him-bill-maher-says-he-may-quit-his-show/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/05/sg-hunter-1200x630.jpg)](https://americanwirenews.com/absolute-sht-bag-hunter-biden-allegedly-owes-ca-family-300k-in-back-rent/)
+[Trump broke him: Bill Maher says he may ‘quit’ his show](https://americanwirenews.com/trump-broke-him-bill-maher-says-he-may-quit-his-show/)
 
-[‘Absolute sh\*t bag’: Hunter Biden allegedly owes CA family $300K in back rent](https://americanwirenews.com/absolute-sht-bag-hunter-biden-allegedly-owes-ca-family-300k-in-back-rent/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-ctu-1200-x-628-1200x630.jpg)](https://americanwirenews.com/chicago-teachers-union-triggered-when-paper-slams-them-for-not-showing-up-to-class/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/05/sg-michelle-wu-1-1200x630.jpg)](https://americanwirenews.com/city-of-boston-announces-its-quitting-x-migrating-to-bluesky-as-leftists-protest-musk/)
+[Chicago teachers union triggered when paper slams them for not showing up to class](https://americanwirenews.com/chicago-teachers-union-triggered-when-paper-slams-them-for-not-showing-up-to-class/)
 
-[City of Boston announces it’s quitting X, migrating to Bluesky as leftists protest Musk](https://americanwirenews.com/city-of-boston-announces-its-quitting-x-migrating-to-bluesky-as-leftists-protest-musk/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-jenifer-lewis-1200x630.jpg)](https://americanwirenews.com/black-ish-star-unleashes-angry-tirade-against-black-latino-men-for-voting-trump/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-pbs-news-hour-1200x630.jpg)](https://americanwirenews.com/pbs-seems-determined-to-be-early-candidate-for-doge-chopping-block/)
+[‘Black-ish’ star unleashes angry tirade against black, Latino men for voting Trump](https://americanwirenews.com/black-ish-star-unleashes-angry-tirade-against-black-latino-men-for-voting-trump/)
 
-[PBS seems determined to be early candidate for DOGE chopping block](https://americanwirenews.com/pbs-seems-determined-to-be-early-candidate-for-doge-chopping-block/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-ingraham-pardon-1200x630.jpg)](https://americanwirenews.com/would-trump-accept-a-hunter-like-everything-pardon-from-biden-can-joe-pardon-himself/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-patel-1200x630.jpg)
+[Would Trump accept a Hunter-like ‘everything’ pardon from Biden? Can Joe pardon himself?](https://americanwirenews.com/would-trump-accept-a-hunter-like-everything-pardon-from-biden-can-joe-pardon-himself/)
 
-### Kash Patel joins X for first time ever; Elon Musk leads rousing welcome](https://americanwirenews.com/kash-patel-joins-x-for-first-time-ever-elon-musk-leads-rousing-welcome/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-jill-whxmas-1200-x-628-1200x630.jpg)
+
+### Jill Biden unveils White House ‘clown show’ Christmas decor and the reviews are savage](https://americanwirenews.com/jill-biden-unveils-white-house-clown-show-christmas-decor-and-the-reviews-are-savage/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -77,6 +79,20 @@ Search for:
 ### [Social media mocks the idea of AOC as president, but fmr. Trump official says it’s no laughing matter](https://americanwirenews.com/social-media-mocks-the-idea-of-aoc-as-president-but-fmr-trump-official-says-its-no-laughing-matter/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/rf-trump-wave-220x180.jpg)](https://americanwirenews.com/trump-to-visit-paris-for-grand-re-opening-of-notre-dame-cathedral/)
+
+[Trump to visit Paris for grand re-opening of Notre Dame Cathedral](https://americanwirenews.com/trump-to-visit-paris-for-grand-re-opening-of-notre-dame-cathedral/)
+
+(Official White House Photo by Shealah Craighead)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-ramaswamy-2-220x180.jpg)](https://americanwirenews.com/this-is-nuts-ramaswamy-exposes-taxpayer-funded-hotel-for-migrants-is-owned-by-pakistani-government/)
+
+[‘This is nuts’: Ramaswamy exposes taxpayer-funded hotel for migrants is owned by Pakistani government](https://americanwirenews.com/this-is-nuts-ramaswamy-exposes-taxpayer-funded-hotel-for-migrants-is-owned-by-pakistani-government/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-qr-code-shirt-220x180.jpg)](https://americanwirenews.com/mans-qr-code-shirt-delights-x-users-the-new-rick-roll/)
+
+[Man’s QR code shirt delights X users: ‘The new Rick Roll!’](https://americanwirenews.com/mans-qr-code-shirt-delights-x-users-the-new-rick-roll/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-jill-biden-220x180.png)](https://americanwirenews.com/jill-biden-eviscerated-over-white-house-christmas-tree-choice/)
 
@@ -163,20 +179,6 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-fettermancolbert-1200-x-628-220x180.jpg)](https://americanwirenews.com/fetterman-has-an-idea-why-male-voters-were-turned-off-by-kamala-democrats/)
 
 [Fetterman has an idea why male voters were turned off by Kamala, Democrats](https://americanwirenews.com/fetterman-has-an-idea-why-male-voters-were-turned-off-by-kamala-democrats/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-mccabe-220x180.jpg)](https://americanwirenews.com/cnn-quick-to-roll-out-former-g-man-andrew-mccabe-to-tarnish-trump-nominee-kash-patel/)
-
-[CNN quick to roll out former G-man Andrew McCabe to tarnish Trump nominee Kash Patel](https://americanwirenews.com/cnn-quick-to-roll-out-former-g-man-andrew-mccabe-to-tarnish-trump-nominee-kash-patel/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-trump-xi-220x180.jpg)](https://americanwirenews.com/find-another-sucker-trump-threatens-100-tariff-on-china-led-bloc-if-they-move-away-from-dollar/)
-
-[‘Find another sucker!’ Trump threatens 100% tariff on China-led bloc if they ‘move away’ from dollar](https://americanwirenews.com/find-another-sucker-trump-threatens-100-tariff-on-china-led-bloc-if-they-move-away-from-dollar/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/rf-biden-oval-220x180.jpeg)](https://americanwirenews.com/wh-staffers-fretting-over-possibility-biden-may-shirk-departure-tradition/)
-
-[WH staffers fretting over possibility Biden may shirk departure tradition](https://americanwirenews.com/wh-staffers-fretting-over-possibility-biden-may-shirk-departure-tradition/)
-
-(Official White House Photo by Adam Schultz)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
