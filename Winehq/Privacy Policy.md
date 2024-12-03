@@ -4,7 +4,7 @@
 * [Wiki](https://wiki.winehq.org/)
 * [AppDB](https://appdb.winehq.org/)
 * [Bugzilla](https://bugs.winehq.org/)
-* [Forums](https://forum.winehq.org/index.php?sid=bdff4b37a4110f5f7c49e626653ce192)
+* [Forums](https://forum.winehq.org/index.php?sid=e32d612446520d8012210f65a3cd9c0e)
 
 [![](https://dl.winehq.org/share/images/winehq_logo_glass.png)](https://www.winehq.org/)
 
@@ -14,31 +14,31 @@
 
 * WineHQ Forums
     
-* [Home](https://forum.winehq.org/index.php?sid=bdff4b37a4110f5f7c49e626653ce192)
+* [Home](https://forum.winehq.org/index.php?sid=e32d612446520d8012210f65a3cd9c0e)
     
-* [Search](https://forum.winehq.org/search.php?sid=bdff4b37a4110f5f7c49e626653ce192 "View the advanced search options")
+* [Search](https://forum.winehq.org/search.php?sid=e32d612446520d8012210f65a3cd9c0e "View the advanced search options")
     
 
 * User Menu
     
-* [Register](https://forum.winehq.org/ucp.php?mode=register&sid=bdff4b37a4110f5f7c49e626653ce192)
+* [Register](https://forum.winehq.org/ucp.php?mode=register&sid=e32d612446520d8012210f65a3cd9c0e)
     
-* [Login](https://forum.winehq.org/ucp.php?mode=login&redirect=ucp.php%3Fmode%3Dprivacy&sid=bdff4b37a4110f5f7c49e626653ce192 "Login")
+* [Login](https://forum.winehq.org/ucp.php?mode=login&redirect=ucp.php%3Fmode%3Dprivacy&sid=e32d612446520d8012210f65a3cd9c0e "Login")
     
 
 * [Quick links](#)
     
-    * [Unanswered topics](https://forum.winehq.org/search.php?search_id=unanswered&sid=bdff4b37a4110f5f7c49e626653ce192)
-    * [Active topics](https://forum.winehq.org/search.php?search_id=active_topics&sid=bdff4b37a4110f5f7c49e626653ce192)
+    * [Unanswered topics](https://forum.winehq.org/search.php?search_id=unanswered&sid=e32d612446520d8012210f65a3cd9c0e)
+    * [Active topics](https://forum.winehq.org/search.php?search_id=active_topics&sid=e32d612446520d8012210f65a3cd9c0e)
     
-    * [Search](https://forum.winehq.org/search.php?sid=bdff4b37a4110f5f7c49e626653ce192)
+    * [Search](https://forum.winehq.org/search.php?sid=e32d612446520d8012210f65a3cd9c0e)
     
-* [FAQ](https://forum.winehq.org/app.php/help/faq?sid=bdff4b37a4110f5f7c49e626653ce192 "Frequently Asked Questions")
-* [Login](https://forum.winehq.org/ucp.php?mode=login&redirect=ucp.php%3Fmode%3Dprivacy&sid=bdff4b37a4110f5f7c49e626653ce192 "Login")
-* [Register](https://forum.winehq.org/ucp.php?mode=register&sid=bdff4b37a4110f5f7c49e626653ce192)
+* [FAQ](https://forum.winehq.org/app.php/help/faq?sid=e32d612446520d8012210f65a3cd9c0e "Frequently Asked Questions")
+* [Login](https://forum.winehq.org/ucp.php?mode=login&redirect=ucp.php%3Fmode%3Dprivacy&sid=e32d612446520d8012210f65a3cd9c0e "Login")
+* [Register](https://forum.winehq.org/ucp.php?mode=register&sid=e32d612446520d8012210f65a3cd9c0e)
 
-* [Home](https://forum.winehq.org/) [Board index](https://forum.winehq.org/index.php?sid=bdff4b37a4110f5f7c49e626653ce192)
-* [Search](https://forum.winehq.org/search.php?sid=bdff4b37a4110f5f7c49e626653ce192 "View the advanced search options")
+* [Home](https://forum.winehq.org/) [Board index](https://forum.winehq.org/index.php?sid=e32d612446520d8012210f65a3cd9c0e)
+* [Search](https://forum.winehq.org/search.php?sid=e32d612446520d8012210f65a3cd9c0e "View the advanced search options")
 
 WineHQ Forums - Privacy policy
 ------------------------------
@@ -53,12 +53,12 @@ Your account will at a bare minimum contain a uniquely identifiable name (herein
   
 Your password is ciphered (a one-way hash) so that it is secure. However, it is recommended that you do not reuse the same password across a number of different websites. Your password is the means of accessing your account at “WineHQ Forums”, so please guard it carefully and under no circumstance will anyone affiliated with “WineHQ Forums”, phpBB or another 3rd party, legitimately ask you for your password. Should you forget your password for your account, you can use the “I forgot my password” feature provided by the phpBB software. This process will ask you to submit your user name and your email, then the phpBB software will generate a new password to reclaim your account.
 
-* [Home](https://forum.winehq.org/) [Board index](https://forum.winehq.org/index.php?sid=bdff4b37a4110f5f7c49e626653ce192)
+* [Home](https://forum.winehq.org/) [Board index](https://forum.winehq.org/index.php?sid=e32d612446520d8012210f65a3cd9c0e)
 * All times are UTC-05:00
 
 Powered by [phpBB](https://www.phpbb.com/)® Forum Software © phpBB Limited
 
-[Privacy](https://forum.winehq.org/ucp.php?mode=privacy&sid=bdff4b37a4110f5f7c49e626653ce192 "Privacy") | [Terms](https://forum.winehq.org/ucp.php?mode=terms&sid=bdff4b37a4110f5f7c49e626653ce192 "Terms")
+[Privacy](https://forum.winehq.org/ucp.php?mode=privacy&sid=e32d612446520d8012210f65a3cd9c0e "Privacy") | [Terms](https://forum.winehq.org/ucp.php?mode=terms&sid=e32d612446520d8012210f65a3cd9c0e "Terms")
 
 [](#)
 
