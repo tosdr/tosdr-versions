@@ -24,7 +24,7 @@ Send date
 
 Save Cancel
 
-**Free Shipping On Orders Over $75**
+**Free Economy Shipping On All Orders**
 
 Back to
 
@@ -845,7 +845,7 @@ Discover
 Discover
 
 * [Fjällräven Experience](https://experience.fjallraven.com/us/en-us)
-* [Fjällräven Polar](https://experience.fjallraven.com/polar/2025?id=0ae9a69f-85d8-445e-980d-e9ac7411227a)
+* [Fjällräven Polar](https://experience.fjallraven.com/polar/2025?id=34d7ef5f-347d-4de2-bcd2-3dfb0cb1703e)
 * [Fjällräven Classic](https://classic.fjallraven.com/)
 * [Our Community](https://www.fjallraven.com/us/en-us/our-community/)
 * Do Not Sell or Share My Personal Information
