@@ -388,9 +388,9 @@ If you have questions about Merriam-Webster or its products, visit our [Contact 
 
 #### [Word of the Day](https://www.merriam-webster.com/word-of-the-day)
 
-#### [complaisant](https://www.merriam-webster.com/word-of-the-day)
+#### [eschew](https://www.merriam-webster.com/word-of-the-day)
 
-[![Listen to the pronunciation of complaisant](/dist-cross-dungarees/2024-12-02--21-22-19-pobsu/images/svg/audio.svg)](javascript:void(0) "Listen to the pronunciation of complaisant")
+[![Listen to the pronunciation of eschew](/dist-cross-dungarees/2024-12-02--21-22-19-pobsu/images/svg/audio.svg)](javascript:void(0) "Listen to the pronunciation of eschew")
 
 [See Definitions and Examples](https://www.merriam-webster.com/word-of-the-day) »
 
