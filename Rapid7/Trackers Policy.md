@@ -887,50 +887,12 @@ CONNECT WITH US
 
 Contact Us
 
-#### Success! Thank you for submission. We will be in touch shortly.
-
-#### Oops! There was a problem in submission. Please try again.
-
 Submit your information and we will get in touch with you.
 ----------------------------------------------------------
 
-All fields are mandatory
+#### Thank you for contacting us.
 
-First Name 
-
-Last Name 
-
-Job Title 
-
-Job Level Job Level Analyst System/Security Admin Manager Director VP CxO Student Other
-
-Company 
-
-Email 
-
-Phone
-
-Country
-
-State
-
-Reason for Contact \- Select - I'd like to learn more about vulnerability management I'd like to learn more about application security I'd like to learn more about incident detection and response I'd like to learn more about cloud security I'd like to learn more about Rapid7 professional or managed services I'd like to learn more about visibility, analytics, and automation I'd like to learn more about building a comprehensive security program I'd like to learn more about threat intelligence.
-
-\- Select - \- Select -
-
-How did you hear about us? 
-
- I am a consultant, partner, or reseller.
-
- I do not want to receive emails regarding Rapid7's products and services.
-
-Issues with this page? Please email [info@rapid7.com](mailto:info@rapid7.com). Please see updated [Privacy Policy](https://www.rapid7.com/privacy-policy/)
-
-This site is protected by reCAPTCHA and the Google [Privacy Policy](https://policies.google.com/privacy) and [Terms of Service](https://policies.google.com/terms) apply.
-
-Submit
-
-  
+##### We will be in touch shortly.
 
 ![Rapid7 logo](/includes/img/logo-black.png)
 
