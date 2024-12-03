@@ -113,7 +113,7 @@ Regras do Clube do Hardware
 **Por [Gabriel Torres](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/ "Ir ao perfil de Gabriel Torres")**  
 10 de novembro de 2021 em [Avisos da administração](https://www.clubedohardware.com.br/forums/forum/9-avisos-da-administra%C3%A7%C3%A3o/)
 
- [Compartilhar](#elShareItem_16397498_menu)
+ [Compartilhar](#elShareItem_1111128852_menu)
 
 [https://www.clubedohardware.com.br/forums/topic/690576-regras-do-clube-do-hardware/](https://www.clubedohardware.com.br/forums/topic/690576-regras-do-clube-do-hardware/ "Copiar link para a área de transferência")
 
@@ -149,7 +149,7 @@ Posts recomendados
     
 * Administrador
 * ![](https://www.clubedohardware.com.br/uploads/themes/team_admin.png)
-* * [11k](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/content/ "10.988 posts")
+* * [11k](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/content/ "10.989 posts")
 * 13.113
 * 16/01/2002
 *  Offline
@@ -311,7 +311,7 @@ As regras do Clube do Hardware poderão ser atualizadas periodicamente, sem avis
 
 Este tópico está impedido de receber novas respostas.
 
- [Compartilhar](#elShareItem_1347622877_menu)
+ [Compartilhar](#elShareItem_1816668825_menu)
 
 [https://www.clubedohardware.com.br/forums/topic/690576-regras-do-clube-do-hardware/](https://www.clubedohardware.com.br/forums/topic/690576-regras-do-clube-do-hardware/ "Copiar link para a área de transferência")
 
@@ -354,105 +354,105 @@ Mais opções...
 
 * ### Últimos tópicos
     
-    * [![Mr chop](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257295.thumb.png.05e300dc9997053347903862e603809d.png)](https://www.clubedohardware.com.br/profile/1257295-mr-chop/ "Ir ao perfil de Mr chop")
+    * [![Vinicius Moraes Antonio](https://www.clubedohardware.com.br/uploads/members/monthly_2021_04/foto.thumb.jpg.50602045a55565dad7793ed826f32315.jpg)](https://www.clubedohardware.com.br/profile/1127170-vinicius-moraes-antonio/ "Ir ao perfil de Vinicius Moraes Antonio")
         
         0
         
-        [placa-mãe modelo Hp 2209](https://www.clubedohardware.com.br/forums/topic/1704337-placa-m%C3%A3e-modelo-hp-2209/?do=getNewComment "placa-mãe modelo Hp 2209")
+        [Televisão LG 39lb5600 não liga.Led do stand-by fica piscando.](https://www.clubedohardware.com.br/forums/topic/1704349-televis%C3%A3o-lg-39lb5600-n%C3%A3o-ligaled-do-stand-by-fica-piscando/?do=getNewComment "Televisão LG 39lb5600 não liga.Led do stand-by fica piscando.")
         
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [Mr chop](https://www.clubedohardware.com.br/profile/1257295-mr-chop/ "Ir ao perfil de Mr chop")  
-        6 minutos atrás
+        [Televisores e projetores](https://www.clubedohardware.com.br/forums/forum/193-televisores-e-projetores/ "Televisores e projetores")  
+        Por [Vinicius Moraes Antonio](https://www.clubedohardware.com.br/profile/1127170-vinicius-moraes-antonio/ "Ir ao perfil de Vinicius Moraes Antonio")  
+        5 minutos atrás
         
-    * [![Francisco Zimmer](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23be62c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EFZ%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1250944-francisco-zimmer/ "Ir ao perfil de Francisco Zimmer")
+    * [![cursificer13](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imagem_2024-11-27_134743761.thumb.png.5908b53484fa55b5a8c1100a5bd7d43c.png)](https://www.clubedohardware.com.br/profile/1256950-cursificer13/ "Ir ao perfil de cursificer13")
         
-        0
+        2
         
-        [Como usar 2 monitores se a placa de vídeo só tem 1 porta HDMI](https://www.clubedohardware.com.br/forums/topic/1704336-como-usar-2-monitores-se-a-placa-de-v%C3%ADdeo-s%C3%B3-tem-1-porta-hdmi/?do=getNewComment "Como usar 2 monitores se a placa de vídeo só tem 1 porta HDMI")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Francisco Zimmer](https://www.clubedohardware.com.br/profile/1250944-francisco-zimmer/ "Ir ao perfil de Francisco Zimmer")  
-        45 minutos atrás
-        
-    * [![Caduhh_21](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1250965.thumb.png.4a3edcb96f1346af0c1b650e21164232.png)](https://www.clubedohardware.com.br/profile/1250965-caduhh_21/ "Ir ao perfil de Caduhh_21")
-        
-        0
-        
-        [quanto vale meu pc usado ?](https://www.clubedohardware.com.br/forums/topic/1704335-quanto-vale-meu-pc-usado/?do=getNewComment "quanto vale meu pc usado ?")
-        
-        [Quanto vale meu equipamento usado?](https://www.clubedohardware.com.br/forums/forum/174-quanto-vale-meu-equipamento-usado/ "Quanto vale meu equipamento usado?")  
-        Por [Caduhh\_21](https://www.clubedohardware.com.br/profile/1250965-caduhh_21/ "Ir ao perfil de Caduhh_21")  
-        3 horas atrás
-        
-    * [![Milenakks](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257294.thumb.jpeg.506ede0049408dc0ed58adf52a915682.jpeg)](https://www.clubedohardware.com.br/profile/1257294-milenakks/ "Ir ao perfil de Milenakks")
-        
-        1
-        
-        [compatibilidade e desempenho processador](https://www.clubedohardware.com.br/forums/topic/1704334-compatibilidade-e-desempenho-processador/?do=getNewComment "compatibilidade e desempenho processador")
-        
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [Milenakks](https://www.clubedohardware.com.br/profile/1257294-milenakks/ "Ir ao perfil de Milenakks")  
-        3 horas atrás
-        
-    * [![Zyas](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257283.thumb.png.5ce5b67a7ba121ede3d3133584dee8b5.png)](https://www.clubedohardware.com.br/profile/1257283-zyas/ "Ir ao perfil de Zyas")
-        
-        1
-        
-        [configuração para rtx 4060 até 4k](https://www.clubedohardware.com.br/forums/topic/1704333-configura%C3%A7%C3%A3o-para-rtx-4060-at%C3%A9-4k/?do=getNewComment "configuração para rtx 4060 até 4k")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Zyas](https://www.clubedohardware.com.br/profile/1257283-zyas/ "Ir ao perfil de Zyas")  
-        3 horas atrás
-        
-    * [![Breno da Silva Santos](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1246229.thumb.jpeg.d760277bbae9ac7ec117c333bb5856d1.jpeg)](https://www.clubedohardware.com.br/profile/1246229-breno-da-silva-santos/ "Ir ao perfil de Breno da Silva Santos")
-        
-        0
-        
-        [Posso conectar até quantos dispositivos RGB em uma entrada 3p 5V ?](https://www.clubedohardware.com.br/forums/topic/1704332-posso-conectar-at%C3%A9-quantos-dispositivos-rgb-em-uma-entrada-3p-5v/?do=getNewComment "Posso conectar até quantos dispositivos RGB em uma entrada 3p 5V ?")
+        [Recomendação de fonte para Xeon E5-2670v3 e Radeon RX 580 2048 SP](https://www.clubedohardware.com.br/forums/topic/1704348-recomenda%C3%A7%C3%A3o-de-fonte-para-xeon-e5-2670v3-e-radeon-rx-580-2048-sp/?do=getNewComment "Recomendação de fonte para Xeon E5-2670v3 e Radeon RX 580 2048 SP")
         
         [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [Breno da Silva Santos](https://www.clubedohardware.com.br/profile/1246229-breno-da-silva-santos/ "Ir ao perfil de Breno da Silva Santos")  
-        4 horas atrás
+        Por [cursificer13](https://www.clubedohardware.com.br/profile/1256950-cursificer13/ "Ir ao perfil de cursificer13")  
+        36 minutos atrás
         
-    * [![JonJSLima](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1242715.thumb.jpeg.2849398ca021747f784af85d0ae51347.jpeg)](https://www.clubedohardware.com.br/profile/1242715-jonjslima/ "Ir ao perfil de JonJSLima")
-        
-        7
-        
-        [Tela azul da morte depois de instalar Ryzen 4600g numa GA a320m-s2h](https://www.clubedohardware.com.br/forums/topic/1704331-tela-azul-da-morte-depois-de-instalar-ryzen-4600g-numa-ga-a320m-s2h/?do=getNewComment "Tela azul da morte depois de instalar Ryzen 4600g numa GA a320m-s2h")
-        
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [JonJSLima](https://www.clubedohardware.com.br/profile/1242715-jonjslima/ "Ir ao perfil de JonJSLima")  
-        4 horas atrás
-        
-    * [![arthur_pe2](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1217010.thumb.jpeg.057e56582d5060a5a756158b33124b2f.jpeg)](https://www.clubedohardware.com.br/profile/1217010-arthur_pe2/ "Ir ao perfil de arthur_pe2")
+    * [![Marciano220w](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c492%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EM%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1257152-marciano220w/ "Ir ao perfil de Marciano220w")
         
         0
         
-        [Auxilio na Montagem de PC+Perifericos com 6000 reais](https://www.clubedohardware.com.br/forums/topic/1704330-auxilio-na-montagem-de-pcperifericos-com-6000-reais/?do=getNewComment "Auxilio na Montagem de PC+Perifericos com 6000 reais")
+        [Configuração de PC AM5 iniciante ou Ryzen 5700G](https://www.clubedohardware.com.br/forums/topic/1704347-configura%C3%A7%C3%A3o-de-pc-am5-iniciante-ou-ryzen-5700g/?do=getNewComment "Configuração de PC AM5 iniciante ou Ryzen 5700G")
         
         [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [arthur\_pe2](https://www.clubedohardware.com.br/profile/1217010-arthur_pe2/ "Ir ao perfil de arthur_pe2")  
-        4 horas atrás
+        Por [Marciano220w](https://www.clubedohardware.com.br/profile/1257152-marciano220w/ "Ir ao perfil de Marciano220w")  
+        39 minutos atrás
         
-    * [![Barba do Posto](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362afc4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EBP%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1257279-barba-do-posto/ "Ir ao perfil de Barba do Posto")
+    * [![felzeed](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1244769.thumb.jpeg.aa622e84ddde4a68ff956f25bce45a75.jpeg)](https://www.clubedohardware.com.br/profile/1244769-felzeed/ "Ir ao perfil de felzeed")
+        
+        3
+        
+        [memória RAM DDR5 6000mhz no Aliexpress](https://www.clubedohardware.com.br/forums/topic/1704346-mem%C3%B3ria-ram-ddr5-6000mhz-no-aliexpress/?do=getNewComment "memória RAM DDR5 6000mhz no Aliexpress")
+        
+        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
+        Por [felzeed](https://www.clubedohardware.com.br/profile/1244769-felzeed/ "Ir ao perfil de felzeed")  
+        1 hora atrás
+        
+    * [![Pinguim_](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/imported-photo-1248834.thumb.png.a8769e078cdec73e8f4e06e5e750ecc5.png)](https://www.clubedohardware.com.br/profile/1248834-pinguim_/ "Ir ao perfil de Pinguim_")
+        
+        1
+        
+        [Quanto vale esse kit usado? H81G, Xeon E3 1270 V3, 2x8 Gb RAM Casper.](https://www.clubedohardware.com.br/forums/topic/1704345-quanto-vale-esse-kit-usado-h81g-xeon-e3-1270-v3-2x8-gb-ram-casper/?do=getNewComment "Quanto vale esse kit usado? H81G, Xeon E3 1270 V3, 2x8 Gb RAM Casper.")
+        
+        [Quanto vale meu equipamento usado?](https://www.clubedohardware.com.br/forums/forum/174-quanto-vale-meu-equipamento-usado/ "Quanto vale meu equipamento usado?")  
+        Por [Pinguim\_](https://www.clubedohardware.com.br/profile/1248834-pinguim_/ "Ir ao perfil de Pinguim_")  
+        1 hora atrás
+        
+    * [![Kanexx](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257299.thumb.jpeg.cc1d0ac68befc826a7fc42f2ce708490.jpeg)](https://www.clubedohardware.com.br/profile/1257299-kanexx/ "Ir ao perfil de Kanexx")
+        
+        1
+        
+        [memória RAM XPG Gammix D35 é compatível com ASUS TUF GAMING A520M-PLUS II?](https://www.clubedohardware.com.br/forums/topic/1704343-mem%C3%B3ria-ram-xpg-gammix-d35-%C3%A9-compat%C3%ADvel-com-asus-tuf-gaming-a520m-plus-ii/?do=getNewComment "memória RAM XPG Gammix D35 é compatível com ASUS TUF GAMING A520M-PLUS II?")
+        
+        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
+        Por [Kanexx](https://www.clubedohardware.com.br/profile/1257299-kanexx/ "Ir ao perfil de Kanexx")  
+        1 hora atrás
+        
+    * [![Assunçãokk](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257298.thumb.png.31c86f038a36ef751a7228a2c208a1e5.png)](https://www.clubedohardware.com.br/profile/1257298-assun%C3%A7%C3%A3okk/ "Ir ao perfil de Assunçãokk")
+        
+        3
+        
+        [Comprei um pc montado e quero por um kit xeon](https://www.clubedohardware.com.br/forums/topic/1704342-comprei-um-pc-montado-e-quero-por-um-kit-xeon/?do=getNewComment "Comprei um pc montado e quero por um kit xeon")
+        
+        [Gabinetes e casemod](https://www.clubedohardware.com.br/forums/forum/81-gabinetes-e-casemod/ "Gabinetes e casemod")  
+        Por [Assunçãokk](https://www.clubedohardware.com.br/profile/1257298-assun%C3%A7%C3%A3okk/ "Ir ao perfil de Assunçãokk")  
+        1 hora atrás
+        
+    * [![diogomancha](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23b162c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ED%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/365685-diogomancha/ "Ir ao perfil de diogomancha")
+        
+        9
+        
+        [Alimentação de conjunto com modo DEX Samsung](https://www.clubedohardware.com.br/forums/topic/1704340-alimenta%C3%A7%C3%A3o-de-conjunto-com-modo-dex-samsung/?do=getNewComment "Alimentação de conjunto com modo DEX Samsung")
+        
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [diogomancha](https://www.clubedohardware.com.br/profile/365685-diogomancha/ "Ir ao perfil de diogomancha")  
+        2 horas atrás
+        
+    * [![Davi Antunes d. Silveira](https://www.clubedohardware.com.br/uploads/members/monthly_2024_03/imported-photo-1241394.thumb.png.f67e92594010012e237961f03253307e.png)](https://www.clubedohardware.com.br/profile/1241394-davi-antunes-d-silveira/ "Ir ao perfil de Davi Antunes d. Silveira")
         
         0
         
-        [Duas faixas de IP em único Mikrotik](https://www.clubedohardware.com.br/forums/topic/1704329-duas-faixas-de-ip-em-%C3%BAnico-mikrotik/?do=getNewComment "Duas faixas de IP em único Mikrotik")
+        [Tela branca para o Visitante no remote play together da Steam](https://www.clubedohardware.com.br/forums/topic/1704339-tela-branca-para-o-visitante-no-remote-play-together-da-steam/?do=getNewComment "Tela branca para o Visitante no remote play together da Steam")
         
-        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
-        Por [Barba do Posto](https://www.clubedohardware.com.br/profile/1257279-barba-do-posto/ "Ir ao perfil de Barba do Posto")  
-        4 horas atrás
+        [Jogo não roda ou dá erro](https://www.clubedohardware.com.br/forums/forum/278-jogo-n%C3%A3o-roda-ou-d%C3%A1-erro/ "Jogo não roda ou dá erro")  
+        Por [Davi Antunes d. Silveira](https://www.clubedohardware.com.br/profile/1241394-davi-antunes-d-silveira/ "Ir ao perfil de Davi Antunes d. Silveira")  
+        2 horas atrás
         
-    * [![Luke7rlkk](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23939393%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EL%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1257293-luke7rlkk/ "Ir ao perfil de Luke7rlkk")
+    * [![Gabriel Doyle](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362a1c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EGD%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1256827-gabriel-doyle/ "Ir ao perfil de Gabriel Doyle")
         
-        8
+        1
         
-        [rx 580 ou GTX 1660 super](https://www.clubedohardware.com.br/forums/topic/1704328-rx-580-ou-gtx-1660-super/?do=getNewComment "rx 580 ou GTX 1660 super")
+        [Qual cooler melhor se adequa a um r7 5700x3d?](https://www.clubedohardware.com.br/forums/topic/1704338-qual-cooler-melhor-se-adequa-a-um-r7-5700x3d/?do=getNewComment "Qual cooler melhor se adequa a um r7 5700x3d?")
         
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Luke7rlkk](https://www.clubedohardware.com.br/profile/1257293-luke7rlkk/ "Ir ao perfil de Luke7rlkk")  
-        4 horas atrás
+        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
+        Por [Gabriel Doyle](https://www.clubedohardware.com.br/profile/1256827-gabriel-doyle/ "Ir ao perfil de Gabriel Doyle")  
+        5 horas atrás
         
     
 
@@ -613,10 +613,10 @@ Clube do Hardware [Powered by Invision Community](https://www.invisioncommunity.
 
 * Criar novo...
 
-[![GRÁTIS: ebook Redes Wi-Fi – 2ª Edição](https://www.clubedohardware.com.br/uploads/attachments/monthly_2023_04/redes-wifi2-capa-popup.jpg.808b72677a2bc3ea7b77c0c66fe6308b.jpg)](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
+[![Ebook grátis: Aprenda a ler resistores e capacitores!](https://www.clubedohardware.com.br/uploads/attachments/monthly_2021_01/Aprenda_a_Ler_Resistores_e_Capacitores-capa-3d-newsletter.thumb.jpg.8e89ae55e5231cd11f4fddb26b4d3aeb.jpg)](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
 
 **EBOOK GRÁTIS!**
 
-[**CLIQUE AQUI E BAIXE AGORA MESMO!**](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
+[**CLIQUE AQUI E BAIXE AGORA MESMO!**](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
 
 ![](https://www.facebook.com/tr?id=1945334499261173&ev=PageView&cd%5Bitem_id%5D=690576&cd%5Bitem_name%5D=Regras+do+Clube+do+Hardware&cd%5Bitem_type%5D=topic&cd%5Bcategory_name%5D=Avisos da administração)
