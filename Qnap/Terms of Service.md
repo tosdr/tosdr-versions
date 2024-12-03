@@ -404,6 +404,9 @@ Accessories
 * ###### Wake on Lan Device
     
     * [QWU-100](https://www.qnap.com/go/product/qwu-100)
+* ###### Resources
+    
+    * [Choose Accessories](https://www.qnap.com/go/product/compare-accessory)
 
 Expansion Cards/ Interface Cards
 
