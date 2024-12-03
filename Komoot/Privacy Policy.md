@@ -604,72 +604,32 @@ Die aktuelle Fassung dieser Datenschutzerklärung ist stets unter [https://www.k
 
 Stand: 2024-06-11
 
-Unser Angebot
+###### Unser Angebot
 
-[Entdecken](https://www.komoot.de/de-de/discover)
+[Entdecken](https://www.komoot.de/de-de/discover)[Routenplaner](https://www.komoot.de/de-de/plan)[Features](https://www.komoot.de/de-de/features)[Black Friday](https://www.komoot.de/de-de/black-friday)
 
-[Routenplaner](https://www.komoot.de/de-de/plan)
+###### Über uns
 
-[Features](https://www.komoot.de/de-de/features)
+[Über komoot](https://www.komoot.de/de-de/about)[Presse](https://newsroom.komoot.com/de)[Jobs](https://www.komoot.de/de-de/jobs)
 
-[Black Friday](https://www.komoot.de/de-de/black-friday)
+###### Erfahr mehr
 
-Über uns
+[Handbücher](https://www.komoot.de/de-de/help)[Support](https://support.komoot.com/hc/de)[What’s New](https://www.komoot.de/de-de/whats-new)[Adventure Hub](https://www.komoot.de/de-de/adventure-hub)[Pioneers](https://www.komoot.de/de-de/pioneers)[Ambassadors](https://www.komoot.de/de-de/ambassadors)
 
-[Über komoot](https://www.komoot.de/de-de/about)
+###### Integrationen
 
-[Presse](https://newsroom.komoot.com/de)
+[GPS-Geräte](https://www.komoot.de/de-de/gps-devices)[Smartwatches](https://www.komoot.de/de-de/smartwatches)[E-Bikes](https://www.komoot.de/de-de/ebikes)
 
-[Jobs](https://www.komoot.de/de-de/jobs)
+###### B2B
 
-Erfahr mehr
+[Partner](https://komoot.business/de)[Connect](https://www.komoot.de/de-de/connect)[Touren einbetten](https://www.komoot.de/de-de/b2b/embed)
 
-[Handbücher](https://www.komoot.de/de-de/help)
+###### Touren entdecken
 
-[Support](https://support.komoot.com/hc/de)
-
-[What’s New](https://www.komoot.de/de-de/whats-new)
-
-[Adventure Hub](https://www.komoot.de/de-de/adventure-hub)
-
-[Pioneers](https://www.komoot.de/de-de/pioneers)
-
-[Ambassadors](https://www.komoot.de/de-de/ambassadors)
-
-Integrationen
-
-[GPS-Geräte](https://www.komoot.de/de-de/gps-devices)
-
-[Smartwatches](https://www.komoot.de/de-de/smartwatches)
-
-[E-Bikes](https://www.komoot.de/de-de/ebikes)
-
-B2B
-
-[Partner](https://komoot.business/de)
-
-[Connect](https://www.komoot.de/de-de/connect)
-
-[Touren einbetten](https://www.komoot.de/de-de/b2b/embed)
-
-Touren entdecken
-
-[Wandern](https://www.komoot.de/de-de/discover/wandern)
-
-[MTB-Touren](https://www.komoot.de/de-de/discover/mountainbike-touren)
-
-[Rennradtouren](https://www.komoot.de/de-de/discover/rennradtouren)
-
-[Radtouren](https://www.komoot.de/de-de/discover/radtouren)
-
-[Bikepacking](https://www.komoot.de/de-de/discover/bikepacking)
+[Wandern](https://www.komoot.de/de-de/discover/wandern)[MTB-Touren](https://www.komoot.de/de-de/discover/mountainbike-touren)[Rennradtouren](https://www.komoot.de/de-de/discover/rennradtouren)[Radtouren](https://www.komoot.de/de-de/discover/radtouren)[Bikepacking](https://www.komoot.de/de-de/discover/bikepacking)
 
 [![](/assets/94d740ee2382503c0717.svg)](https://app.adjust.com/qgth52?adgroup=footer&fallback=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dde.komoot.android%26hl%3Dde&redirect_macos=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dde.komoot.android%26hl%3Dde)[![](/assets/d8b03fb32e1dfd8ddda0.svg)](https://app.adjust.com/qgth52?adgroup=footer&fallback=https%3A%2F%2Fitunes.apple.com%2Fapp%2Fkomoot%2Fid447374873)
 
-[](https://www.facebook.com/komoot)
-
-[](https://www.instagram.com/komoot)
-
-[](https://www.twitter.com/komoot)
+[](https://www.facebook.com/komoot)[](https://www.instagram.com/komoot)[](https://www.twitter.com/komoot)
 
 [Nutzungsbedingungen](https://www.komoot.de/de-de/terms-of-service)[Datenschutz](https://www.komoot.de/de-de/privacy)[Datenschutzeinstellungen](#)[Community-Richtlinien](https://www.komoot.de/de-de/community/guidelines)[Prämienprogramm für Sicherheitslücken](https://www.komoot.de/de-de/security/bug-bounty)[Impressum](https://www.komoot.de/de-de/imprint)
