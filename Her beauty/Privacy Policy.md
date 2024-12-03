@@ -111,11 +111,11 @@ If you have any questions or suggestions regarding this privacy policy, please f
 
 Advertisements
 
+[14 Cinematic Breakups That Deserve a Standing Ovation ![](https://img-cdn.herbeauty.co/wp-content/uploads/2024/12/cover-option-1.webp)](https://herbeauty.co/entertainment/14-cinematic-breakups-that-deserve-a-standing-ovation/) 
+
 [When J.Lo’s Iconic Style Took a Questionable Detour ![](https://img-cdn.herbeauty.co/wp-content/uploads/2024/12/6.jpg)](https://herbeauty.co/fashion/when-j-lo-s-iconic-style-took-a-questionable-detour/) 
 
 [The Inspiring and Tragic Story of Obama’s Mother ![](https://img-cdn.herbeauty.co/wp-content/uploads/2024/11/2-5.jpeg)](https://herbeauty.co/entertainment/the-inspiring-and-tragic-story-of-obama-s-mother/) 
-
-[Kate Middleton’s Comeback Has Everyone Saying the Same Thing ![](https://img-cdn.herbeauty.co/wp-content/uploads/2024/11/1-2-scaled.jpeg)](https://herbeauty.co/entertainment/kate-middleton-s-comeback-has-everyone-saying-the-same-thing/) 
 
 Advertisements
 
