@@ -63,9 +63,10 @@ All defined terms in this Privacy Policy shall have the meaning as assigned to t
 
 2.1. The data controller responsible for the processing of your personal data is:
 
-* UizardApp Aps
-* Rosenørns Allé 31, 2
-* 1970 Frederiksberg C
+* Uizard
+* c/o Miro, Republikken
+* Vesterbrogade 26
+* 1620 Copenhagen
 * Denmark
 * **tel.:** +45 5033 3445
 * **email:** [support@uizard.io](mailto:support@uizard.io)
