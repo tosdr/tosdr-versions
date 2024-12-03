@@ -20,6 +20,14 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Steven Weems in the doorway of his Borough council flat](https://southwarknews.co.uk/wp-content/uploads/2024/11/image00006-9-360x180.jpeg)](https://southwarknews.co.uk/area/borough/disabled-man-denied-right-to-buy-council-flat-because-of-homes-disabled-adaptations/)
+    
+    ### [Disabled man ‘denied Right to Buy’ council flat because of home’s disabled adaptations](https://southwarknews.co.uk/area/borough/disabled-man-denied-right-to-buy-council-flat-because-of-homes-disabled-adaptations/)
+    
+    [![Cars are still causing havoc outside Homewood Group's business on The Blue. Credit: Daniele Lucia](https://southwarknews.co.uk/wp-content/uploads/2024/12/9c4b1019-6f72-4eb6-895f-64d4a8c17078-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/hazardous-vehicles-blocking-bermondsey-business-fire-exit-continue-to-threaten-future/)
+    
+    ### [‘Hazardous’ vehicles blocking Bermondsey business’ fire exit continue to threaten future](https://southwarknews.co.uk/area/bermondsey/hazardous-vehicles-blocking-bermondsey-business-fire-exit-continue-to-threaten-future/)
+    
     [![The BID allows businesses to collaborate to make the area better. (Mickey Lee)](https://southwarknews.co.uk/wp-content/uploads/2024/12/2023-10-12-1439-Mickey-LF-Lee-MX506225-360x180.jpeg)](https://southwarknews.co.uk/area/borough/bankside-businesses-secure-14m-boost-as-bid-renewed-for-five-years/)
     
     ### [Bankside businesses secure £14m boost as BID renewed for five years](https://southwarknews.co.uk/area/borough/bankside-businesses-secure-14m-boost-as-bid-renewed-for-five-years/)
@@ -48,14 +56,6 @@
     [![A bus shelter in Peckham. Credit: TfL](https://southwarknews.co.uk/wp-content/uploads/2024/12/9ef42d8aa23644438fa22851473ecfd6-360x180.jpg)](https://southwarknews.co.uk/area/south-london/bus-stops-fitted-with-cctv-cameras-as-tfl-takes-a-stand-on-violence-against-women-and-girls/)
     
     ### [Bus stops fitted with CCTV cameras as TfL ‘takes a stand’ on violence against women and girls](https://southwarknews.co.uk/area/south-london/bus-stops-fitted-with-cctv-cameras-as-tfl-takes-a-stand-on-violence-against-women-and-girls/)
-    
-    [![Yellow hard hat. Studio photography. Credit: ???? (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/12/Yellow_hard_hat-e1733129833681-360x180.jpeg)](https://southwarknews.co.uk/area/southwark/man-arrested-after-suspected-rogue-trading-in-southwark-and-kent/)
-    
-    ### [Man arrested after suspected rogue trading in Southwark and Kent](https://southwarknews.co.uk/area/southwark/man-arrested-after-suspected-rogue-trading-in-southwark-and-kent/)
-    
-    [![Greenland Quay, Surrey Quays. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/12/Greenland-Quay-Surrey-Quays.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/rotherhithe/man-charged-with-murder-after-woman-fatally-stabbed-in-surrey-quays/)
-    
-    ### [Man charged with murder after woman fatally stabbed in Surrey Quays](https://southwarknews.co.uk/area/rotherhithe/man-charged-with-murder-after-woman-fatally-stabbed-in-surrey-quays/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -106,6 +106,14 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Steven Weems in the doorway of his Borough council flat](https://southwarknews.co.uk/wp-content/uploads/2024/11/image00006-9-360x180.jpeg)](https://southwarknews.co.uk/area/borough/disabled-man-denied-right-to-buy-council-flat-because-of-homes-disabled-adaptations/)
+    
+    ### [Disabled man ‘denied Right to Buy’ council flat because of home’s disabled adaptations](https://southwarknews.co.uk/area/borough/disabled-man-denied-right-to-buy-council-flat-because-of-homes-disabled-adaptations/)
+    
+    [![Cars are still causing havoc outside Homewood Group's business on The Blue. Credit: Daniele Lucia](https://southwarknews.co.uk/wp-content/uploads/2024/12/9c4b1019-6f72-4eb6-895f-64d4a8c17078-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/hazardous-vehicles-blocking-bermondsey-business-fire-exit-continue-to-threaten-future/)
+    
+    ### [‘Hazardous’ vehicles blocking Bermondsey business’ fire exit continue to threaten future](https://southwarknews.co.uk/area/bermondsey/hazardous-vehicles-blocking-bermondsey-business-fire-exit-continue-to-threaten-future/)
+    
     [![The BID allows businesses to collaborate to make the area better. (Mickey Lee)](https://southwarknews.co.uk/wp-content/uploads/2024/12/2023-10-12-1439-Mickey-LF-Lee-MX506225-360x180.jpeg)](https://southwarknews.co.uk/area/borough/bankside-businesses-secure-14m-boost-as-bid-renewed-for-five-years/)
     
     ### [Bankside businesses secure £14m boost as BID renewed for five years](https://southwarknews.co.uk/area/borough/bankside-businesses-secure-14m-boost-as-bid-renewed-for-five-years/)
@@ -134,14 +142,6 @@ View All Result
     [![A bus shelter in Peckham. Credit: TfL](https://southwarknews.co.uk/wp-content/uploads/2024/12/9ef42d8aa23644438fa22851473ecfd6-360x180.jpg)](https://southwarknews.co.uk/area/south-london/bus-stops-fitted-with-cctv-cameras-as-tfl-takes-a-stand-on-violence-against-women-and-girls/)
     
     ### [Bus stops fitted with CCTV cameras as TfL ‘takes a stand’ on violence against women and girls](https://southwarknews.co.uk/area/south-london/bus-stops-fitted-with-cctv-cameras-as-tfl-takes-a-stand-on-violence-against-women-and-girls/)
-    
-    [![Yellow hard hat. Studio photography. Credit: ???? (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/12/Yellow_hard_hat-e1733129833681-360x180.jpeg)](https://southwarknews.co.uk/area/southwark/man-arrested-after-suspected-rogue-trading-in-southwark-and-kent/)
-    
-    ### [Man arrested after suspected rogue trading in Southwark and Kent](https://southwarknews.co.uk/area/southwark/man-arrested-after-suspected-rogue-trading-in-southwark-and-kent/)
-    
-    [![Greenland Quay, Surrey Quays. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/12/Greenland-Quay-Surrey-Quays.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/rotherhithe/man-charged-with-murder-after-woman-fatally-stabbed-in-surrey-quays/)
-    
-    ### [Man charged with murder after woman fatally stabbed in Surrey Quays](https://southwarknews.co.uk/area/rotherhithe/man-charged-with-murder-after-woman-fatally-stabbed-in-surrey-quays/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -241,6 +241,18 @@ This site uses cookies – small text files that are placed on your machine to h
 
 ### Featured Articles
 
+[![The Albin and Sons Memorial Service](https://southwarknews.co.uk/wp-content/uploads/2024/12/Albin-and-Sons-memorial-service-2023-120x86.jpeg)](https://southwarknews.co.uk/area/rotherhithe/acclaimed-funeral-directors-to-host-heartwarming-annual-christmas-service-tomorrow/)
+
+### [Acclaimed funeral directors to host heartwarming annual Christmas service tomorrow](https://southwarknews.co.uk/area/rotherhithe/acclaimed-funeral-directors-to-host-heartwarming-annual-christmas-service-tomorrow/)
+
+[3rd December 2024](https://southwarknews.co.uk/area/rotherhithe/acclaimed-funeral-directors-to-host-heartwarming-annual-christmas-service-tomorrow/)
+
+[![Steven Weems in the doorway of his Borough council flat](https://southwarknews.co.uk/wp-content/uploads/2024/11/image00006-9-120x86.jpeg)](https://southwarknews.co.uk/area/borough/disabled-man-denied-right-to-buy-council-flat-because-of-homes-disabled-adaptations/)
+
+### [Disabled man ‘denied Right to Buy’ council flat because of home’s disabled adaptations](https://southwarknews.co.uk/area/borough/disabled-man-denied-right-to-buy-council-flat-because-of-homes-disabled-adaptations/)
+
+[3rd December 2024](https://southwarknews.co.uk/area/borough/disabled-man-denied-right-to-buy-council-flat-because-of-homes-disabled-adaptations/)
+
 [![The Disused flats on Newcomen Street.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-03-12-2024-at-10.48-120x86.jpg)](https://southwarknews.co.uk/area/borough/five-people-taken-to-hospital-after-fire-destroys-flats-in-borough/)
 
 ### [Five people taken to hospital after fire ‘destroys’ flats in Borough](https://southwarknews.co.uk/area/borough/five-people-taken-to-hospital-after-fire-destroys-flats-in-borough/)
@@ -265,18 +277,6 @@ CREDIT: Public Interest Law Centre](https://southwarknews.co.uk/wp-content/uploa
 ### [Bus stops fitted with CCTV cameras as TfL ‘takes a stand’ on violence against women and girls](https://southwarknews.co.uk/area/south-london/bus-stops-fitted-with-cctv-cameras-as-tfl-takes-a-stand-on-violence-against-women-and-girls/)
 
 [2nd December 2024](https://southwarknews.co.uk/area/south-london/bus-stops-fitted-with-cctv-cameras-as-tfl-takes-a-stand-on-violence-against-women-and-girls/)
-
-[![Greenland Quay, Surrey Quays. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/12/Greenland-Quay-Surrey-Quays.-Image-Google-120x86.png)](https://southwarknews.co.uk/area/rotherhithe/man-charged-with-murder-after-woman-fatally-stabbed-in-surrey-quays/)
-
-### [Man charged with murder after woman fatally stabbed in Surrey Quays](https://southwarknews.co.uk/area/rotherhithe/man-charged-with-murder-after-woman-fatally-stabbed-in-surrey-quays/)
-
-[2nd December 2024](https://southwarknews.co.uk/area/rotherhithe/man-charged-with-murder-after-woman-fatally-stabbed-in-surrey-quays/)
-
-[![](https://southwarknews.co.uk/wp-content/uploads/2024/11/26_11_2024_Southwark-Council_100000th-Tree_IWM_0086-1-120x86.jpg)](https://southwarknews.co.uk/news/community/southwark-becomes-first-inner-london-borough-with-100000-trees/)
-
-### [Southwark becomes first inner London borough with 100,000 trees](https://southwarknews.co.uk/news/community/southwark-becomes-first-inner-london-borough-with-100000-trees/)
-
-[1st December 2024](https://southwarknews.co.uk/news/community/southwark-becomes-first-inner-london-borough-with-100000-trees/)
 
 ### USEFUL PAGES
 
