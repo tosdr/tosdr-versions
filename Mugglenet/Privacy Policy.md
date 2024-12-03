@@ -298,15 +298,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The giant squid is a peaceful creature. It can be seen coming up to the surface to be tickled or fed toast; it has even been known to rescue students who have fallen in.
+Demelza Robins, the Gryffindor Chaser in Harry Potter and the Half-Blood Prince, is named after Daniel Radcliffe’s favorite charity: the Demelza House Children’s Hospice, which cares for terminally ill youngsters in Kent, East Sussex, and South London.
 
 ### Potter History
 
-January 18, 2004 – Harry Potter and the Goblet of Fire is predicted to be the most expensive film ever made.
+April 30, 2009 – Harry Potter: The Exhibition opens at Chicago’s Museum of Science and Industry.
 
 ### Potter Quote
 
-“When we come face-to-face with one down a dark alley, we’re going to be having a look to see if its solid, aren’t we, we’re not going to be asking, ‘Excuse me, are you the imprint of a departed soul?’”
+“I am alive, but I am an alchemist, and therefore immortal.”
 
 [](#)
 
