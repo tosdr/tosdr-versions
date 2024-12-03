@@ -391,24 +391,23 @@ This Agreement was last modified on 4, December 2012.
 
 ### Featured Articles
 
+[![Retain Knowledge](https://www.wikihow.com/images/thumb/e/e3/Retain-Knowledge-Step-15-Version-2.jpg/-crop-126-120-126px-Retain-Knowledge-Step-15-Version-2.jpg)
+
+How to  
+Retain Knowledge](https://www.wikihow.com/Retain-Knowledge)
+
+[![Brainrot Quiz](https://www.wikihow.com/images/thumb/0/06/Brain_rot_2.png/-crop-126-120-126px-Brain_rot_2.png)
+
+Do I Have Brainrot Quiz](https://www.wikihow.com/Brainrot-Quiz)
+
+[![Make Your Heart Feel Happy](https://www.wikihow.com/images/thumb/4/46/Make-Your-Heart-Feel-Happy-Step-22.jpg/-crop-126-120-126px-Make-Your-Heart-Feel-Happy-Step-22.jpg)
+
+24 Little Things You Can Do to Make Your Heart Feel Happy](https://www.wikihow.com/Make-Your-Heart-Feel-Happy)
+
 [![Knit](https://www.wikihow.com/images/thumb/8/8e/Knit-Step-20-Version-7.jpg/-crop-126-120-126px-Knit-Step-20-Version-7.jpg)
 
 How to  
 Start Knitting (with Advice from the Experts)](https://www.wikihow.com/Knit)
-
-[![Be a World Citizen](https://www.wikihow.com/images/thumb/0/04/Convince-Your-Parents-to-Let-You-Travel-with-Friends-Step-8-Version-2.jpg/-crop-126-120-126px-Convince-Your-Parents-to-Let-You-Travel-with-Friends-Step-8-Version-2.jpg)
-
-How to  
-Become a Global Citizen](https://www.wikihow.com/Be-a-World-Citizen)
-
-[![Floss](https://www.wikihow.com/images/thumb/3/30/Floss-Step-13-Version-2.jpg/-crop-126-120-126px-Floss-Step-13-Version-2.jpg)
-
-How to  
-Use Floss on Your Teeth](https://www.wikihow.com/Floss)
-
-[![What Vibe Do I Give Off](https://www.wikihow.com/images/thumb/1/17/Chill-vibes.png/-crop-126-120-126px-Chill-vibes.png)
-
-What Vibe Do I Give Off Quiz](https://www.wikihow.com/What-Vibe-Do-I-Give-Off)
 
   
 
@@ -451,4 +450,4 @@ Follow Us
 
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=8003466&cv=3.9.1&cj=1)
 
-197
+224
