@@ -11,7 +11,7 @@
 * [About](https://sanesolution.com/about/)
 * [Get Help](https://sanesolution.com/customersupport/)
 
-[GLP-1 Resistant? Discover **Your GLP-1 Type** to _See Exactly_ When **You** Will Reach Your Goal Weight. **Take the quiz here** and get personalized answers in 2 minutes. No email required!](https://sanesolution.com/lp/quiz/weight-loss/glp-1/?el=jonathanbailor-com)
+[GLP-1 Resistant? Discover **Your GLP-1 Type** to _See Exactly_ When **You** Will Reach Your Goal Weight. **Take the quiz here** and get personalized answers in 2 minutes. No email required!](https://sanesolution.com/lp/quiz/weight-loss/glp-1/?el=sanesolution-com)
 
 Speak with a real person weekdays 9 - 3 EST [(347) 979-1735![new-icon](https://sanesolution.com/wp-content/themes/enfold-child/includes/small-phone-icon.png)](tel:3479791735)
 
@@ -41,7 +41,7 @@ Speak with a real person weekdays 9 - 3 EST [(347) 979-1735![new-icon](https://s
     * [Brain Fog](https://sanesolution.com/citicoline/brain-fog/)
 * [Contact](https://sanesolution.com/customersupport/)
 
-[GLP-1 Resistant? Discover **Your GLP-1 Type** to _See Exactly_ When **You** Will Reach Your Goal Weight. **Take the quiz here** and get personalized answers in 2 minutes. No email required!](https://sanesolution.com/lp/quiz/weight-loss/glp-1/?el=jonathanbailor-com)
+[GLP-1 Resistant? Discover **Your GLP-1 Type** to _See Exactly_ When **You** Will Reach Your Goal Weight. **Take the quiz here** and get personalized answers in 2 minutes. No email required!](https://sanesolution.com/lp/quiz/weight-loss/glp-1/?el=sanesolution-com)
 
 Toggle navigation
 
@@ -73,7 +73,7 @@ Toggle navigation
 * [Contact](https://sanesolution.com/customersupport/)
 * [Log In](https://program.sanesolution.com/login/)
 
-[GLP-1 Resistant? Discover **Your GLP-1 Type** to _See Exactly_ When **You** Will Reach Your Goal Weight. **Take the quiz here** and get personalized answers in 2 minutes. No email required!](https://sanesolution.com/lp/quiz/weight-loss/glp-1/?el=jonathanbailor-com)
+[GLP-1 Resistant? Discover **Your GLP-1 Type** to _See Exactly_ When **You** Will Reach Your Goal Weight. **Take the quiz here** and get personalized answers in 2 minutes. No email required!](https://sanesolution.com/lp/quiz/weight-loss/glp-1/?el=sanesolution-com)
 
 [![SANE-Logo](https://sanesolution.com/wp-content/uploads/2021/03/mobile-sane-logo.png)](https://sanesolution.com/) [Start Now For Free](javascript:void(0);) Toggle navigation
 
