@@ -1,4 +1,4 @@
-Don't Miss Out! Save up to 42% during our Black Friday Sale | [Shop Today](#)
+Spread the Cheer! Up to 40% Off Christmas Sales | [Shop Now](#)
 
 [![GL.iNet logo](/logo.svg)](https://www.gl-inet.com/)
 
