@@ -75,20 +75,21 @@ Menu
     Solutions for individual applications
     
     * [Backup _for Microsoft 365_](https://www.veeam.com/products/saas/backup-microsoft-office-365.html?ad=menu-products-portfolio)
+    * [Backup _for Microsoft Entra ID_](https://www.veeam.com/products/saas/microsoft-entra-id-backup-software.html?ad=menu-products-portfolio)
     * [Backup _for Salesforce_](https://www.veeam.com/products/saas/salesforce-backup.html?ad=menu-products-portfolio)
     * [Backup _for Kubernetes_](https://www.veeam.com/products/cloud/kubernetes-data-protection.html?ad=menu-products-portfolio)
     * [Backup _for AWS_](https://www.veeam.com/products/cloud/aws-backup.html?ad=menu-products-portfolio)
     * [Backup _for Microsoft Azure_](https://www.veeam.com/products/cloud/azure-backup.html?ad=menu-products-portfolio)
     * [Backup _for Google Cloud_](https://www.veeam.com/products/cloud/google-cloud-backup.html?ad=menu-products-portfolio)
     
-           ![Banner vdp illustration](https://cdn.veeam.com/content/dam/veeam/en/public/images/illustration_announcement_vdc_vault_v2.png.web.1920.1920.webp?ck=1730921225605)
+           ![Banner vdp illustration](https://cdn.veeam.com/content/dam/veeam/global/icons/vdp_banner_icon.png.web.1920.1920.webp?ck=1732787929136)
     
-    ### **Hello Veeam Vault. So long bill shock.**
+    ##### **NEW 12.3 RELEASE**
     
-    Secure cloud storage that’s just a few clicks away.    
-    Predictable, all-inclusive pricing now starting at $14 per TB
+    **Evolve with GenAI & Microsoft Entra ID backup**   
+    Veeam Data Platform - Powerful Data Resilience to keep your business running
     
-    [Start saving now](https://www.veeam.com/products/veeam-data-cloud/cloud-storage-vault.html?ad=menu-products-vdp)
+    [SEE WHAT’S NEW](https://www.veeam.com/products/veeam-data-platform/latest-release.html?ad=menu-products-portfolio)
     
     Data Resilience By Veeam
     
@@ -140,9 +141,6 @@ Menu
     
     [Packaging & Enterprise Editions](https://www.veeam.com/products/veeam-data-platform/enterprise-packaging-pricing-options.html?ad=menu-products-portfolio-htb)
     
-    * [Licensing](https://www.veeam.com/products/buy/universal-license.html?ad=menu-products-portfolio-htb)
-    * [Enterprise Licensing](https://www.veeam.com/veeam-elp-simplified-license-management.html?ad=menu-products-portfolio-htb)
-    
     **Veeam Data Cloud**
     
     Veeam-hosted backup and storage services​
@@ -154,12 +152,6 @@ Menu
     [Find a Reseller](https://www.veeam.com/partners/find-a-partner.html?ad=menu-products-portfolio-htb)
     
     [Buy Online](https://store.veeam.com/1620/purl-store?ad=menu-products-portfolio-htb)
-    
-    Managed Services
-    
-    Fully managed BaaS & DRaaS from Veeam Cloud & Service Provider partners​​
-    
-    * [Managed Backup & DR Services](https://www.veeam.com/solutions/managed-services/managed-backup-dr-services.html?ad=menu-products-portfolio-htb)
     
 * [Solutions](javascript:void(0);)
     
@@ -188,17 +180,9 @@ Menu
     * [Incident Response by Coveware](https://www.veeam.com/solutions/services/incident-response.html?ad=menu-solutions)
     * [Cyber Secure Program](https://www.veeam.com/products/veeam-data-platform/cyber-secure.html?ad=menu-solutions)
     
-    Managed Services
-    
-    * [BaaS & DRaaS](https://www.veeam.com/solutions/managed-services/managed-backup-dr-services.html?ad=menu-solutions)
-    * [Disaster Recovery-as-a-Service​](https://www.veeam.com/solutions/managed-services/disaster-recovery-as-a-service-draas.html?ad=menu-solutions)
-    * [BaaS for Microsoft 365](https://www.veeam.com/solutions/managed-services/backup-as-a-service-baas-microsoft-365.html?ad=menu-solutions)
-    * [BaaS for Public Cloud](https://www.veeam.com/public-cloud-backup-as-a-service.html?ad=menu-solutions)
-    * [Managed & Offsite Backup](https://www.veeam.com/managed-backup-as-a-service.html?ad=menu-solutions)
-    
     Environment
     
-    **Cloud**  [AWS](https://www.veeam.com/products/cloud/aws-backup.html?ad=menu-solutions) | [Azure](https://www.veeam.com/products/cloud/azure-backup.html?ad=menu-solutions) | [Google](https://www.veeam.com/products/cloud/google-cloud-backup.html?ad=menu-solutions) | [Kubernetes](https://www.veeam.com/kubernetes-native-backup-and-restore.html?ad=menu-solutions)
+    **Cloud**  [AWS](https://www.veeam.com/products/cloud/aws-backup.html?ad=menu-solutions) | [Azure](https://www.veeam.com/products/cloud/azure-backup.html?ad=menu-solutions) | [Google](https://www.veeam.com/products/cloud/google-cloud-backup.html?ad=menu-solutions) | [Kubernetes](https://www.veeam.com/products/cloud/kubernetes-data-protection.html?ad=menu-solutions)
     
     **Virtual**  [VMware](https://www.veeam.com/products/virtual/vmware-backup-recovery.html?ad=menu-solutions) | [Hyper-V](https://www.veeam.com/products/virtual/hyper-v-backup-recovery.html?ad=menu-solutions) | [Nutanix AHV](https://www.veeam.com/products/virtual/nutanix-backup-recovery.html?ad=menu-solutions) | [Oracle Linux VM](https://www.veeam.com/products/virtual/kvm-backup-recovery.html?ad=menu-solutions) | [RHV](https://www.veeam.com/products/virtual/kvm-backup-recovery.html?ad=menu-solutions) | [Proxmox](https://www.veeam.com/products/virtual/proxmox-backup-recovery.html?ad=menu-solutions)
     
@@ -206,7 +190,7 @@ Menu
     
     **Apps**  [Microsoft](https://www.veeam.com/products/applications/explorers-microsoft-backup-recovery.html?ad=menu-solutions) | [Oracle](https://www.veeam.com/products/applications/oracle-backup-recovery.html?ad=menu-solutions) | [SAP Hana](https://www.veeam.com/products/applications/sap-hana-backup-recovery.html?ad=menu-solutions) | [PostgreSQL](https://www.veeam.com/products/physical/linux-backup-recovery.html?ad=menu-solutions) | [MongoDB](https://www.veeam.com/products/applications/mongodb-backup-recovery.html?ad=menu-solutions)
     
-    **SaaS**  [Microsoft 365](https://www.veeam.com/products/saas/backup-microsoft-office-365.html?ad=menu-solutions) | [Salesforce](https://www.veeam.com/products/saas/salesforce-backup.html?ad=menu-solutions)
+    **SaaS**  [Microsoft 365](https://www.veeam.com/products/saas/backup-microsoft-office-365.html?ad=menu-solutions) | [Microsoft Entra ID](https://www.veeam.com/products/saas/microsoft-entra-id-backup-software.html?ad=menu-solutions) | [Salesforce](https://www.veeam.com/products/saas/salesforce-backup.html?ad=menu-solutions)
     
     Alliance Technologies
     
