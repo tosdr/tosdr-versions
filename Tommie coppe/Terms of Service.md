@@ -1,20 +1,20 @@
 [Skip to main content](#main-content)
 
-Save 50% Sitewide! DETAILS
+BOGO Free Sitewide! DETAILS
 
-\+ Free Gift With Purchase! DETAILS
-
-THE CYBER MONDAY SALE
+CYBER WEEK SAVINGS
 
 Close the Modal
 
-#### Huge Sale Going on Now!
+#### Buy 1 Get 1 Free Sitewide!
+
+Mix & match or double up. Just add 2 items to cart and 1 will be free.
 
 [SHOP MEN](https://www.tommiecopper.com/men/)    [SHOP WOMEN](https://www.tommiecopper.com/women)
 
-Offer valid 12/1/2024 8AM ET - 12/3/2024 6AM ET.
+Offer valid 12/3/2024 8AM ET - 12/6/2024 6AM ET.
 
-Sitewide discounts priced as marked. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
+To receive Buy 1 Get 1 Free discount, must add two (2) qualifying products to your cart. Discount automatically applied on lowest priced item. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
 
 FREE GIFT WITH PURCHASE
 
@@ -24,7 +24,7 @@ Close the Modal
 
 [SHOP MEN](https://www.tommiecopper.com/men/)    [SHOP WOMEN](https://www.tommiecopper.com/women/)
 
-Offer valid 12/1/2024 8AM ET - 12/3/2024 6AM ET.
+Offer valid 12/3/2024 8AM ET - 12/6/2024 6AM ET.
 
 Free gift automatically applied in cart on all orders $150+. Order subtotal must reach $150 before taxes and shipping. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
 
