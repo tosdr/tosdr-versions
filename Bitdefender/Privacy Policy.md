@@ -480,6 +480,8 @@ Follow Bitdefender
 * [Twitter](https://twitter.com/bitdefender)
 * [Linkedin](https://www.linkedin.com/company/bitdefender)
 * [Youtube](https://www.youtube.com/c/Bitdefender)
+* Instagram
+* TikTok
 
 Quick Links
 
@@ -564,6 +566,8 @@ Follow Bitdefender
 * [Twitter](https://twitter.com/bitdefender)
 * [Linkedin](https://www.linkedin.com/company/bitdefender)
 * [Youtube](https://www.youtube.com/c/Bitdefender)
+* Instagram
+* TikTok
 
 Trusted. Always.
 
