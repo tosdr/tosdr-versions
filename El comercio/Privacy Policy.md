@@ -31,6 +31,469 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Cartas a Quito / 3 de diciembre de 2024
+=======================================
+
+Estas son las cartas a Quito de este martes 3 de diciembre de 2024
+------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+¡Visita intrascendente! 
+------------------------
+
+El miércoles, 27 de noviembre del año en curso, nuevamente recibimos la visita del señor Candidato-Presidente de la República, Daniel Noboa, pero como siempre sucede, para insatisfacción de los chimboracenses, su presencia fue intrascendente, sin ningún anuncio relevante, ni el compromiso para iniciar la ejecución de obras y proyectos trascendentales.
+
+Pero algo que llama la atención, es que ninguna autoridad de elección popular en Chimborazo, Prefecto, Alcaldes, presidentes de Gobiernos Parroquiales y Concejales, y mucho menos el Gobernador, solicitan dialogar con el jefe de Estado, para informarle que, en nuestra provincia estamos totalmente abandonados y desatendidos del Poder Central, porque solo vivimos de ofrecimientos y compromisos incumplidos.
+
+A las pruebas me remito: carreteras estatales intransitables y en pésimas condiciones, inclusive, soportamos una vergüenza a nivel nacional, con la carrera ciclística al Ecuador, porque el recorrido no se cumplió como estaba previsto, debido a la calamitosa situación de las vías que le corresponde rehabilitar al Estado.
+
+Debido a la sequía y estiaje, los agricultores se encuentran desamparados de los Ministerios competentes; los hospitales públicos, siguen padeciendo con la escasez de medicamentos y de especialidades médicas, y algunos con su infraestructura destruida; los guardias pertenecientes a empresas de seguridad y las educadoras de los Centros de Desarrollo Infantil que regenta el MIES, no reciben sus sueldos desde hace varios meses; los casos de desnutrición crónica infantil en las comunidades rurales de Chimborazo, no han merecido una primordial atención; y las unidades educativas fiscales, requieren mejorar sus edificaciones.
+
+Son algunos de los ejemplos que, demuestran, el quemeimportismo, la desidia e inoperancia de nuestras autoridades que nos gobiernan.**.**
+
+Arturo Lara Noriega
+
+Sergio Mejía Aguirre, fotógrafo y trovador
+==========================================
+
+Quito, con su esencia bohemia, era escenario de personajes carismáticos que destacaban por su elegancia y pasión artística.
+---------------------------------------------------------------------------------------------------------------------------
+
+![Marco Antonio Rodríguez, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Marco-Antonio-Rodriguez-1.jpg)
+
+Quito era un solo barrio. De El Tejar a La Tola, de San Sebastián a San Blas –sus puntos cardinales–; las noticias volaban de boca en boca y se deslizaban por las rendijas de las **antiguas y talladas** puertas de calle. Empezaba el siglo XX. Aún estaba viva la memoria de don Eloy, patriarca curtido en combates, amable y apenas sonreído, paseando por donde iban a incinerarlo, con su perilla blanca, levita marinera, gorra militar y bastón con empuñadura de oro. La Ronda era una callecita desdeñada por aristócratas y adinerados y, como tal, no merecía ninguna **deferencia pública**. Ese lugar se convirtió en centro de encuentro de escritores, poetas, músicos, artistas…
+
+Por ese viejo Quito caminaba, con su acicalada melena y su paso suelto y brioso, luciendo trajes con chaleco, en el cual brillaba una leontina de oro, zapatos de hule reluciente y sombrero de fieltro, Sergio Mejía Aguirre (1890-1972). El rostro moreno algo ancho donde brillaban como luciérnagas sus ojos que esparcían picardía y desvelaban a un hombre enamoradizo y conquistador. Llevaba con singular donaire su cámara fotográfica.
+
+Sergio Mejía Aguirre, un don Juan afable y ceremonioso
+------------------------------------------------------
+
+Se trataba de un **personaje señorial y refinado**, conocido por sus atributos de don Juan y bohemio empedernido. Maestro de capilla, fotógrafo, músico, poeta y teatrero popular, él mismo se describió como “libertino y mundano”. Murió pobre de **solemnidad**, pero soberbio e impasible. Su vida fue una parábola de amores y quebrantos. Llama y torbellino juntos, abismados debajo del recuerdo y el olvido. Amaba su oficio de fotógrafo, pero más su fisgoneo en los intersticios del amor y la **aventura**. Los últimos años vivió solo, era todo lo que le quedaba.
+
+Varios episodios dan cuenta de su **espíritu trashumante** y osado. Una noche, junto a tres amigos, fue de serenata. Subieron un piano a un muro desde el cual podía exponer mejor sus canciones. Mejía Aguirre inició su intervención. Sus **cómplices** dejaron de sostenerlo, entre risas, y él quedó inmóvil para evitar la caída. Al amanecer, parecía un pajarraco de los avernos y tuvo que soportar, congelado y estoico, el desfile de las beatas que se santiguaban ante su presencia.
+
+Un gnomo bailaba en su alma. Desde muy niño, en Cayambe, sus padres tuvieron que pasar vicisitudes tratando de aplacar sus travesuras. A los 15 años Eloy Alfaro lo nombró teniente de reserva. Nadie sabe cómo después una empresaria y fotógrafa, Zoila Alen Castro, apasionada por este oficio, se convirtió en su maestra. La fotografía promueve la nostalgia, es un arte melancólico, crepuscular, coincidente con el temperamento sensible de Mejía Aguirre, quien, ya en Quito, se convirtió en un preciado fotógrafo.
+
+Viudo y divorciado –decían las buenas lenguas que varias veces en distintas provincias–, fundó amistad con los intelectuales de la época, quienes celebraban sus **interpretaciones** con su voz privilegiada y el instrumento que pusieran en sus manos. Por las tardes, salía presuroso de su estudio y se dirigía al Murcielagario, situado en una casa esquinera de La Ronda.
+
+La casona olía a árboles y jardines, y –rezagos de su tiempo de apogeo– exhibía sillones frailunos con chispas de pan de oro, mesas esculpidas y butacones forrados de damasco; gobelinos vaporosos exornaban las ventanas. La casa fue heredada por Ana Luisa Muñoz, gestora de tertulias y recitales de poesía y música.
+
+¿Quién creó el ecuatorianismo _murcielagario_? Según reseñistas de la época fue el comandante Antonio Alomía, quien fungía de cantinero. Hombretón calvo de grises mostachos entorchados, fastidiado de escuchar elogios al poema _El viejo de la esquina_ de Alfonso Moscoso, apostó canelazos gratuitos durante una semana con adeptos del poeta que en ese lapso él escribiría algo mejor que el poema de Moscoso. Llegado el momento, el comandante pronunció la palabra _murcielagario_, seguido de estentóreas carcajadas. La palabreja sugería “cantina de mala muerte”.
+
+Sergio Mejía Aguirre, figura emblemática del Murcielagario, autor de dos pasillos: le ganó de mano a la historia con uno, su memorable _Negra mala_. Música y letra de este pasillo trascendió fronteras y estuvo a punto de servir de banda sonora en una película italiana, triunfos que no alteraron en nada el orgullo y la bonhomía que signaron su existencia.
+
+Y en la vieja casona del Murcielagario, siguen cantando viejos y jóvenes, los más a capela: “Ni siquiera tu recuerdo/ Viene ahora a consolarme/ Porque creo que se ha muerto/ Con el frío de las tardes/ En que pienso que ya es vana/ Mi locura de esperarte”…
+
+¿Existe la ciencia andina?
+==========================
+
+La ciencia andina se inscribe en una cultura primigenia que defiende la vida como patrimonio universal, y se fundamenta en la chakana.
+--------------------------------------------------------------------------------------------------------------------------------------
+
+![La Chakana, también llamada Cruz Escalonada es un símbolo sagrado en el que se pueden leer muchos significados de la cosmovisión andina.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-9.jpg)
+
+**La chakana tiene una antigüedad de 4000 años** y corresponde a **la Cruz del Sur o cruz cuadrada, que rige la crianza de la chacra en los pueblos andinos.** La chakana marca el pensamiento de la cultura andina, que **se expresa en el principio de reciprocidad del aprendizaje**, que dice: **‘todos aprendemos y todos enseñamos en la vida y para la vida’.**
+
+**La cruz cuadrada comprende: ‘Aty’ = organización; ‘Yachay’ = educación; ‘Ruray’ = producción; y ‘Munay’ = espiritualidad, energía.**
+
+Su nombre proviene del aimara **“Jach’a Qhana”** que significa **“gran luz resplandeciente”;** por eso en muchas regiones de los Andes se pronuncia **achakana,** en lugar de **chakana.**
+
+Los quechuas sostienen que chakana significa **“escalera”** u **“objeto a modo de puente”,** que constituye un símbolo aborigen de los pueblos indígenas de los Andes centrales en los territorios de Colombia, Ecuador, Perú, Bolivia, Chile y Argentina.
+
+Características de la ciencia andina
+------------------------------------
+
+Toda cultura tiene su propia filosofía porque cuenta con un conjunto de paradigmas, los cuales, a su vez, tienen una lógica para identificar y aplicar sus conocimientos. **La cultura andina, por milenios, creó un ethos basado en cuatro fundamentos: seminal, reciprocidad, holográfico y comunitario.**
+
+**La ciencia andina –según una tendencia- pertenece al indigenado**; mientras que **otra afirma que incluye al mundo mestizo**. Pero algo destacable en todas las miradas es su **férrea posición anti euro centrista y anti occidental**, para lo cual han reconstruido una cosmología andina conocida como **Pachasofía**, basada en las siguientes características: la urgencia del **diálogo intercultural**; los **saberes no racionalistas** y sus principios básicos: la **relacionalidad**, la **correspondencia**, la **complementariedad** y la **reciprocidad**; la **chakana celebrativa**; el **yachay o saberes ancestrales**; la **salud y la enfermedad**; y, **la defensa de la vida (Pachamama).**
+
+**Visión cósmica del mundo andino**
+-----------------------------------
+
+En el centro de la **visión cósmica del mundo andino** se hallan **los saberes, las percepciones y las energías** que potencian las relaciones entre los seres humanos y la naturaleza. Es andina porque comprende una de las regiones más extensas del planeta Tierra, **desde el Caribe, en el norte hasta el estrello de Magallanes, en el sur.**
+
+Una guía permanente de la vida en esta región es **la Cruz del Sur o chakana**, constelación que es rectora del hemisferio austral, igual que sucede con la estrella polar, en el hemisferio boreal. De acuerdo con esta perspectiva, los ciclos agrícolas del hemisferio sur, se celebran el 21 de junio, mientras en el hemisferio norte el 21 de diciembre.
+
+**Prácticas milenarias**
+------------------------
+
+La **Pachamama es la esencia del universo andino, que alimenta, nutre y da cobijo al ser humano andino,** en su **faz visible**, y en su **faz invisible** es la matriz tutelar que protege, guía y dirige.
+
+En **la Pachamama interactúan lo femenino y lo masculino, que convergen las energías de la Luna y el Sol.** Bajo este concepto, las prácticas milenarias del mundo andino tienden a lograr un **razonable equilibrio en la naturaleza**, de manera especial entre los seres vivos, las diferentes energías, las fuerzas, las fisiologías y las diferentes identidades.
+
+**Ecuador multicultural**
+-------------------------
+
+**La ciencia andina no es estudiada en el sistema educativo del Ecuador.** La norma constitucional vigente alude al carácter de la nación ecuatoriana, caracterizada por la interculturalidad y el reconocimiento de las culturas ancestrales. **Y poco se ha avanzado en la dirección de una verdadera educación intercultural -con la enseñanza-aprendizaje del quichua, por ejemplo, para todos los ciudadanos-**, y de otras prácticas asociadas a nuestra identidad y diversidad: la medicina y la justicia indígena.
+
+**Las manifestaciones de la cultura indígena se han diversificado.** El calendario está lleno de celebraciones híbridas, que **combinan lo religioso con lo pagano y folclórico**, pero falta mucho para el diseño de un proyecto nacional que privilegie el **mestizaje y su cultura**, y entre ellas lo más importante: **los saberes ancestrales.**
+
+El sector exportador de Ecuador avanza en igualdad de género
+============================================================
+
+El 52,7% de los cargos gerenciales en las empresas exportadoras están liderados por mujeres, según un estudio respaldado por el BID.
+------------------------------------------------------------------------------------------------------------------------------------
+
+![La brecha salarial y laboral entre mujeres y hombres se reduce en empresas exportadoras de Ecuador. Cortesía: Freepik](https://www.elcomercio.com/wp-content/uploads/2024/12/PHOTO-2024-12-02-15-24-14.jpg)
+
+Las **brechas laboral y salarial** entre **hombres y mujer**es son una constante no solo en **Ecuador**. La buena noticia es que se está acortando en un **sector empresarial.**
+
+La **Federación Ecuatoriana de Exportadores y la Organización Internacional de Mujeres en Negocios (OWIT)** presentaron el estudio denominado Equidad de Género en Empresas Exportadoras de Ecuador: superando barreras hacia el liderazgo femenino.
+
+> Dos resultados generan optimismo en esta investigación respaldada por el Banco Interamericano de Desarrollo (BID). El 52 52,7% de los cargos gerenciales en las empresas exportadoras están liderados por mujeres.
+
+El segundo es que el **76,3 %** de los departamentos de comercio exterior en estas empresas están a cargo de mujeres. Las cualidades que se destacan son la capacidad para transformar y su fortaleza en la gestión internacional y estratégica.
+
+Pero, persisten obstáculos relacionados con estereotipos de género y sectores específicos como la **agricultura y manufactura.**
+
+Y si de sueldos hablamos, las mujeres que laboran en el sector exportador ganaron en promedio el 97,2 % del salario de los hombres en 2022. Se trata de una mejora significativa respecto a años anteriores. Este avance se atribuye a políticas inclusivas y programas de capacitación empresarial.
+
+**Ecuador** y la región; sin embargo, falta mucho por avanzar. Según el informe de empleo de octubre de 2024 publicado por el Instituto Nacional de Estadística y Censos (INEC), la brecha salarial de género en Ecuador persiste como un desafío fundamental en el mercado laboral. 
+
+Los **hombres** percibieron un salario promedio mensual de 465,9 dólares al mes, mientras que para las **mujeres** fueron 388,5. 
+
+Esta disparidad salarial refleja no solo diferencias en las horas trabajadas, sino también profundas desigualdades de género en el ámbito laboral.
+
+Factores como la carga desproporcionada de responsabilidades domésticas y de cuidado, que tradicionalmente recaen sobre las mujeres, limitan su participación plena en el mercado laboral y afectan sus ingresos. 
+
+Además, la segregación ocupacional contribuye a esta brecha. Las mujeres suelen estar sobrerrepresentadas en sectores como la salud y la educación, que históricamente han sido menos remunerados, a pesar de la alta responsabilidad y formación académica que requieren. 
+
+Estados Unidos alcanza el límite de solicitudes de visas H-1B para 2025
+=======================================================================
+
+Las visas H-1B de Estados Unidos son utilizadas para emplear a trabajadores en ocupaciones especializadas.
+----------------------------------------------------------------------------------------------------------
+
+![Estados Unidos informó sobre las visas H-1B.](https://www.elcomercio.com/wp-content/uploads/2024/12/estados-unidos-visas.jpg)
+
+El **Servicio de Inmigración y Ciudadanía de Estados Unidos** (USCIS por sus siglas en inglés) informó que alcanzó el **límite** de solicitudes de **visas H-1B** para 2025, este 2 de diciembre de 2024.
+
+Las empresas estadounidenses utilizan el programa H-1B  para emplear a **trabajadores extranjeros** en **ocupaciones especializadas**.
+
+### Más noticias:
+
+* [Lotería de visas de Estados Unidos extiende plazo para participar](https://www.elcomercio.com/actualidad/mundo/loteria-visas-extiende-plazo-inscripcion.html "Lotería de visas de Estados Unidos extiende plazo para participar")
+* [Estados Unidos hizo nueva donación a Ecuador, ¿cuál es su fin?](https://www.elcomercio.com/actualidad/politica/estados-unidos-hizo-nueva-donacion-a-ecuador-cual-es-el-fin.html "Estados Unidos hizo nueva donación a Ecuador, ¿cuál es su fin?")
+
+Estados Unidos alcanza el límite de visas H-1B para 2025
+--------------------------------------------------------
+
+El USCIS dijo que ha recibido suficientes peticiones para alcanzar el **límite regular de 65 000 visas** H-1B exigido por el **Congreso**.
+
+Y el límite de **20 000 visas H-1B para títulos avanzados de grado**, conocido como el límite de maestría.
+
+“Enviaremos **avisos de no selección** a los solicitantes registrados a través de sus cuentas en línea durante los próximos días”, señaló.
+
+El USCIS agregó que, cuando terminen de enviar estas notificaciones de no selección, el **estado de los registros** presentados correctamente que no seleccionaron para las asignaciones numéricas H-1B del año fiscal 2025 se mostrará:
+
+* No seleccionado: **No seleccionado** – no es elegible para presentar una petición de límite H-1B basada en este registro.
+
+“Seguiremos aceptando y procesando peticiones que de otra manera estarían **exentas del límite**“, añadió.
+
+El Servicio aclaró que las peticiones presentadas para los trabajadores actuales con visa H-1B que hayan sido contabilizados previamente para el límite y que aún conserven su número de límite están **exentas del límite** de visas H-1B del año fiscal 2025.
+
+Peticiones de visas que seguirá aceptando Estados Unidos
+--------------------------------------------------------
+
+El USCIS seguirá aceptando y procesando **peticione**s presentadas para:
+
+* **Ampliar el tiempo** que un trabajador H-1B actual puede permanecer en los Estados Unidos;
+
+* **Cambiar las condiciones** de empleo para los trabajadores H-1B actuales;
+
+* Permitir que los trabajadores actuales con visa H-1B **cambien de empleador**; y
+
+* Permitir que los trabajadores H-1B actuales **trabajen simultáneamente** en puestos H-1B adicionales.
+
+“Animamos a los solicitantes de visas H-1B a suscribirse para recibir actualizaciones por correo electrónico sobre la **temporada de límite de visas H-1B** visitando la  página de [temporada de límite de visas H-1B](https://www.uscis.gov/working-in-the-united-states/temporary-workers/h-1b-specialty-occupations-and-fashion-models/h-1b-cap-season)“, concluyó el Servicio. 
+
+> We have received a sufficient number of petitions needed to reach the congressionally mandated 65,000 H-1B visa regular cap and the 20,000 H-1B visa master’s cap for FY 2025. We will be sending non-selection notices over the next few days.
+> 
+> — USCIS (@USCIS) [December 2, 2024](https://twitter.com/USCIS/status/1863667886482489703?ref_src=twsrc%5Etfw)
+
+Caso Metástasis, evidencias que revelaron la red criminal liderada desde prisión
+================================================================================
+
+Fiscalía reveló las evidencias con la carga probatoria que se presentaron en el caso Metástasis.
+------------------------------------------------------------------------------------------------
+
+![Audiencia del caso Metástasis en la Corte Nacional de Justicia.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-79.jpg)
+
+Durante la audiencia de juicio del **caso Metástasis,** que duró 29 días, la **Fiscalía** presentó pruebas periciales obtenidas de dispositivos electrónicos pertenecientes a **Leandro Norero**.
+
+### Más noticias
+
+* [¿Tribunal de la CNJ puede pedir nuevas investigaciones a Fiscalía sobre caso Metástasis?](https://www.elcomercio.com/actualidad/politica/tribunal-cnj-puede-pedir-nuevas-investigaciones-fiscalia-caso-metastasis.html "¿Tribunal de la CNJ puede pedir nuevas investigaciones a Fiscalía sobre caso Metástasis?")
+* [Fiscalía pidió extradición de Ronny A., Xavier J. y otro vinculado al caso Metástasis](https://www.elcomercio.com/actualidad/seguridad/fiscalia-extradicion-ronny-aleaga-xavier-jordan-caso-metastasis.html "Fiscalía pidió extradición de Ronny A., Xavier J. y otro vinculado al caso Metástasis")
+* [Caso Metástasis, estas son las razones de los jueces para sentenciar a 20 vinculados](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-estas-son-las-razones-de-los-jueces-para-sentenciar-a-20-vinculados.html "Caso Metástasis, estas son las razones de los jueces para sentenciar a 20 vinculados")
+
+Entre estas se incluyeron registros de llamadas, conversaciones de **WhatsApp y Threema**, además de **videos y fotografías** que documentan la planificación de **actividades delictivas**.
+
+Los peritos informáticos señalaron que el material extraído suma **76 videos y más de 1 400 imágenes**, además de mensajes que exponen **transacciones y coordinaciones logísticas**.
+
+Entre las evidencias más relevantes se identificaron **videollamadas** que muestran interacciones entre Norero y otros miembros de la red criminal.
+
+En estas grabaciones, se discutían temas como la entrega de dinero, la organización de movimientos logísticos y la gestión de trámites legales. Estas comunicaciones, según la Fiscalía, fortalecieron la **tesis de que la estructura** operaba bajo la dirección de Norero incluso desde prisión.
+
+Conexiones entre Leandro Norero y funcionarios públicos salen a la luz
+----------------------------------------------------------------------
+
+Las pruebas también revelaron nexos entre Norero y varios actores institucionales, incluidos policías, abogados y funcionarios del Consejo de la Judicatura y Fiscalía.
+
+Según el fiscal **Wilson Toainga**, estas relaciones supuestamente facilitaron la operación de la **red al garantizar beneficios** dentro de **prisión y frenar investigaciones en su contra**. Los registros muestran conversaciones relacionadas con pagos, solicitudes de ayuda judicial y coordinación de actividades ilícitas.
+
+El análisis de los dispositivos incluyó **registros de transferencias de dinero y conversaciones** en las que se discutían procesos judiciales y el manejo de trámites legales.
+
+Además, se documentaron intercambios que reflejan presiones a **miembros del sistema judicial** para obtener **resoluciones favorables a los intereses** de la organización criminal.
+
+Impacto del caso en la institucionalidad judicial
+-------------------------------------------------
+
+El fiscal Toainga destacó que el caso Metástasis representa un punto de inflexión para frenar la corrupción en las **instituciones democráticas del Ecuador.**
+
+Según las autoridades, el **esquema delictivo** buscaba no solo garantizar la impunidad de sus líderes, sino también influir en decisiones judiciales y administrativas mediante la cooptación de funcionarios.
+
+> [@elcomerciocom](https://www.tiktok.com/@elcomerciocom?refer=embed "@elcomerciocom") [#Ecuador](https://www.tiktok.com/tag/ecuador?refer=embed "ecuador") | Después de casi un año, un Tribunal de la Corte Nacional de Justicia emitió sentencias a 20 vinculados en el [#CasoMetástasis](https://www.tiktok.com/tag/casomet%C3%A1stasis?refer=embed "casometástasis") Reporta: Orlando Silva Edición: Pia Andrade [#caso](https://www.tiktok.com/tag/caso?refer=embed "caso") [#juicio](https://www.tiktok.com/tag/juicio?refer=embed "juicio") [#noticias](https://www.tiktok.com/tag/noticias?refer=embed "noticias") [#ELCOMERCIO](https://www.tiktok.com/tag/elcomercio?refer=embed "elcomercio") [#fyi](https://www.tiktok.com/tag/fyi?refer=embed "fyi") [#noticiasEcuador](https://www.tiktok.com/tag/noticiasecuador?refer=embed "noticiasecuador") [#corrupcion](https://www.tiktok.com/tag/corrupcion?refer=embed "corrupcion") [#fyp](https://www.tiktok.com/tag/fyp?refer=embed "fyp") [♬ sonido original – elcomerciocom](https://www.tiktok.com/music/sonido-original-7441717007932083000?refer=embed "♬ sonido original - elcomerciocom")
+
+Con esta investigación, la Fiscalía buscó demostrar cómo el **crimen organizado** se insertó las estructuras del **sistema judicial y administrativo**. En el juicio, las pruebas presentadas apuntaron a la **reconstrucción de una red jerarquizada**, con roles definidos para garantizar su operatividad y proteger a sus miembros de las sanciones legales.
+
+Alegatos de cierre, Fiscalía solicita máximas penas para los responsables
+-------------------------------------------------------------------------
+
+Durante los alegatos de cierre del **caso Metástasis**, el fiscal general subrogante, Wilson Toainga, presentó un resumen detallado de las pruebas recabadas a lo **largo del proceso**. El fiscal señaló que el origen del caso se remonta al **25 de mayo de 2022**, cuando **Leandro Norero** y su entorno familiar fueron detenidos bajo sospecha de lavado de activos.
+
+Posterior a su fallecimiento, la investigación continuó con el **análisis de dispositivos electrónicos** encontrados en el centro penitenciario, donde se **revelaron actividades ilícitas** lideradas desde prisión.
+
+El fiscal enfatizó que las pruebas permiten **identificar roles específicos** dentro de la organización. Xavier N., líder del grupo, dirigía una **red de influencias** que involucraba a abogados, funcionarios judiciales y otros colaboradores.
+
+> [#ATENCIÓN](https://twitter.com/hashtag/ATENCI%C3%93N?src=hash&ref_src=twsrc%5Etfw) | [#CasoMetástasis](https://twitter.com/hashtag/CasoMet%C3%A1stasis?src=hash&ref_src=twsrc%5Etfw): con base en la contundente carga probatoria presentada por [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw) durante los 29 días de audiencia de juicio, 20 procesados son sentenciados por su responsabilidad en el delito de [#DelincuenciaOrganizada](https://twitter.com/hashtag/DelincuenciaOrganizada?src=hash&ref_src=twsrc%5Etfw).  
+>   
+> Detalles ⬇️[https://t.co/kyv6feKQ6B](https://t.co/kyv6feKQ6B) [pic.twitter.com/DBNntWFxJ3](https://t.co/DBNntWFxJ3)
+> 
+> — Fiscalía Ecuador (@FiscaliaEcuador) [November 26, 2024](https://twitter.com/FiscaliaEcuador/status/1861449982303187200?ref_src=twsrc%5Etfw)
+
+Según las evidencias presentadas, esta red coordinaba actividades para **garantizar la impunidad y** **beneficios económicos** a los integrantes de la organización. Además, Toainga destacó la participación de varios colaboradores clave que facilitaron **resoluciones judiciales favorables**, sobornos y otros actos ilícitos.
+
+El fiscal subrayó la gravedad de los hechos, argumentando que las acciones de los involucrados afectaron no solo el sistema penitenciario, sino también la **institucionalidad del sistema judicial**.
+
+Sobre esta base, solicitó al tribunal imponer **penas proporcionales a la gravedad de los delitos**, reflejando la responsabilidad de cada acusado.
+
+Sentencias para los líderes y colaboradores del caso Metástasis
+---------------------------------------------------------------
+
+Tras evaluar las pruebas y argumentos presentados durante el juicio, el Tribunal emitió sentencias condenatorias para los **procesados en el caso Metástasis**.
+
+Xavier N., identificado como el líder de la organización. Por esta razón, recibió una **pena de 10 años de privación de libertad por su rol principal** en la estructura delictiva.
+
+Por su parte, otros miembros clave, incluidos Wilman T., Ronald G., Johann M., María José A., y Carlos Z., entre otros, fueron condenados a **9 años y 4 meses de prisión** por su participación como colaboradores del delito.
+
+Estos procesados, en su calidad de **funcionarios públicos o representantes legales**, facilitaron las actividades ilícitas mediante sobornos y gestiones que beneficiaban a la organización.
+
+Finalmente, los colaboradores externos, como **Claudia G., Kevin P., y Braulio M.**, recibieron penas de 7 años de prisión.
+
+* * *
+
+### Esperanza
+
+Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
+
+Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
+
+[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
+
+15 miembros de banda criminal, sentenciados por terrorismo en Ambato
+====================================================================
+
+Los delincuentes planeaban atacar la cárcel de Ambato y la Policía Judicial de Tungurahua con explosivos.
+---------------------------------------------------------------------------------------------------------
+
+![Los delincuentes fueron detenidos junto a armas, explosivos, cartuchos y dinero](https://www.elcomercio.com/wp-content/uploads/2024/12/ambato-terrorismo-los-lobos.jpg)
+
+Un Tribunal Penal de Ambato dictó sentencia contra **15 miembros** del grupo delincuencial Los Lobos por **terrorismo**. La audiencia se realizó este lunes 2 de diciembre de 2024.
+
+### Más noticias
+
+* [Tres policías fueron liberados de secuestro en Guayas](https://www.elcomercio.com/actualidad/seguridad/tres-policias-liberados-guayas-yaguachi.html "Tres policías fueron liberados de secuestro en Guayas")
+* [En centro comercial de Quito, armados con uniformes de la Policía asaltan una joyería](https://www.elcomercio.com/actualidad/quito/en-centro-comercial-de-quito-armados-con-uniformes-de-la-policia-asaltan-una-joyeria.html "En centro comercial de Quito, armados con uniformes de la Policía asaltan una joyería")
+* [Policía detiene a exdocente por presunto ciberacoso, en Quito](https://www.elcomercio.com/actualidad/seguridad/policia-detiene-exdocente-presunto-ciberacoso-quito.html "Policía detiene a exdocente por presunto ciberacoso, en Quito")
+
+Luego de las pruebas presentadas por la **Fiscalía General del Estado**, el **Tribunal** declaró culpable a los individuos por el delito. La pena fue de **10 años de prisión**.
+
+Detención de los individuos
+---------------------------
+
+La **Policía** capturó a los procesados el **9 de enero**, en el marco del **estado de excepción** decretado por el **Ejecutivo**.
+
+Un día antes, en la tarde y noche del **8 de enero**, los desconocidos planificaron un ataque contra **servidores policiales** y **guías penitenciarios** que custodiaban el **centro de reclusión de Ambato**.
+
+Los delincuentes buscaban liberar a varios miembros de la **banda criminal**, quienes se encontraban detenidos allí[.](https://www.fiscalia.gob.ec/15-personas-son-sentenciadas-a-10-anos-de-carcel-por-terrorismo/ "https://www.fiscalia.gob.ec/15-personas-son-sentenciadas-a-10-anos-de-carcel-por-terrorismo/")
+
+La investigación determinó que entre los implicados se encontraban tres ciudadanos que se habían fugado del **centro de rehabilitación de Riobamba**.
+
+El día de la detención, durante un **control de seguridad** que se realizaba en las avenidas **Galo Vela** y **Punín**, en Ambato, se observaron tres vehículos con personas que se mostraban sospechosas. Al intentar abordarlos, los ahora sentenciados huyeron hacia un **inmueble**.
+
+Al allanar la vivienda, los uniformados se encontraron:
+
+* **Seis armas de fuego**
+* 134 cartuchos, calibre 9 mm
+* Tres vehículos
+* 14 teléfonos celulares
+* Una motocicleta
+* Un inhibidor de señal
+* Un taco de dinamita (explogel)
+* Dinero en efectivo
+
+Delincuentes planeaban dos ataques con explosivos
+-------------------------------------------------
+
+En los teléfonos móviles de los individuos se halló la información sobre la planificación que tenían para ejecutar varios ataques con explosivos.
+
+Uno de los ataques se iba a realizar en el centro de detención de Ambato y otro en la Unidad de la Policía Judicial de Tungurahua.
+
+En la audiencia, la Unidad Nacional Especializada de Investigación contra la Delincuencia Organizada Transnacional (Unidot) demostró la materialidad del delito y la responsabilidad de los procesados.
+
+Pruebas del caso
+----------------
+
+Algunas de las pruebas que evidenciaron el delito fueron: testimonios, pericias técnicas y documentos. Así como el informe de reconocimiento del lugar de los hechos.
+
+El terrorismo está tipificado en el artículo 366, numeral 9, del Código Orgánico Integral Penal (**COIP**).
+
+Trabajadoras sexuales de Bélgica accederán a seguro médico y pensiones
+======================================================================
+
+Bélgica aprobó una nueva ley con la que las trabajadoras sexuales podrán firmar contratos laborales y rechazar clientes no deseados.
+------------------------------------------------------------------------------------------------------------------------------------
+
+![La ley de protección a las trabajadoras sexuales fue aprobada este 1 de diciembre de 2024](https://www.elcomercio.com/wp-content/uploads/2024/12/trabajadoras-sexuales-belgica.jpg)
+
+**Bélgica** votó a favor de la **regulación del trabajo sexual** e implementó una nueva ley que reconoce formalmente los **derechos de las mujeres** que se dedican a esta actividad.
+
+### Más noticias
+
+* [Sexo programado para contrarrestar la rutina diaria](https://www.elcomercio.com/tendencias/bienestar/sexo-programado-parejas-hombres-mujeres-relaciones-sexuales.html "Sexo programado para contrarrestar la rutina diaria ")
+* [Violencia sexual en transporte municipal de Quito, ¿cuáles son los protocolos?](https://www.elcomercio.com/actualidad/quito/violencia-sexual-transporte-municipal-protocolos.html "Violencia sexual en transporte municipal de Quito, ¿cuáles son los protocolos?")
+* [¿Quieres un juguete sexual? Una experta te ayuda a elegir al compañero ideal](https://www.elcomercio.com/tendencias/bienestar/juguete-sexual-companero-ideal-seleccion-pareja.html "¿Quieres un juguete sexual? Una experta te ayuda a elegir al compañero ideal")
+
+Esta legislación, que entró en vigor el 1 de diciembre de 2024, permite a las **trabajadoras sexuales** firmar contratos de trabajo, con lo que podrán acceder a una serie de derechos laborales **iguales a los de otros sectores.**
+
+Firma de contratos y derecho a la negativa
+------------------------------------------
+
+Algunos de los **beneficios** que esta ley trae consigo son: **seguro médico**, licencias por enfermedad y maternidad, seguro por desempleo y **pensiones**.
+
+Una particularidad de esta nueva norma es el **derecho a la negativa**. Con ello, las mujeres tienen la libertad de **rechazar clientes** y elegir las prácticas sexuales que desean realizar, así como interrumpirlas en cualquier momento.
+
+Empleadores tendrán requisitos que cumplir
+------------------------------------------
+
+Por otra parte, los **empleadores** desde ahora deben cumplir con **algunos requisitos** para seguir operando.
+
+Deberán obtener una **licencia gubernamental** de las actividades y cumplir con estrictos requisitos de **seguridad**, incluyendo la provisión de preservativos, ropa de cama limpia y botones de pánico dentro de las habitaciones[.](https://es.wikipedia.org/wiki/B%C3%A9lgica "https://es.wikipedia.org/wiki/B%C3%A9lgica")
+
+Reciente despenalización del trabajo sexual
+-------------------------------------------
+
+Esta ley continúa la despenalización que firmó Bélgica al trabajo sexual en **2022**. Esta ley eliminó **sanciones penales** para compradores y vendedores de sexo.
+
+Sin embargo, la nueva legislación es considerada un avance importante, porque es la primera en otorgar un marco legal completo que protege a las trabajadoras sexuales.
+
+Otros países de Europa también legalizaron el trabajo sexual, como **Alemania y Países Bajos**, pero las protecciones legales de Bélgica son más amplias por el momento.
+
+Reacciones y críticas a la nueva ley
+------------------------------------
+
+La ley fue recibida con **entusiasmo** por las trabajadoras sexuales, quienes ven la medida como un gran paso hacia la protección del trabajo sexual. Sin embargo, también ha generado críticas.
+
+Algunos detractores de la normativa argumentan que se está **normalizando una profesión** que consideran inherentemente violenta. Además, hay preocupaciones sobre las trabajadoras sexuales **migrantes** que no tienen acceso a estos derechos debido a su estatus ilegal.
+
+Daddy Yankee confirmó divorcio de Mireddys González
+===================================================
+
+El divorcio de Daddy Yankee y Mireddys González se da luego de 29 años de matrimonio.
+-------------------------------------------------------------------------------------
+
+![Daddy Yankee confirmó el divorcio con Mireddys González.](https://www.elcomercio.com/wp-content/uploads/2024/12/daddy-yankee.jpg)
+
+El cantante puertorriqueño **Daddy Yankee** confirmó **divorcio** de **Mireddys González**, este lunes 2 de diciembre de 2024.
+
+El cantante de **reggaetón** tiene dos hijos con González.
+
+### Más noticias:
+
+* [Los exintegrantes de One Direction se reúnen en el funeral de Liam Payne](https://www.elcomercio.com/tendencias/entretenimiento/integrantes-de-one-direction-se-reunen-funeral-liam-payne.html "Los exintegrantes de One Direction se reúnen en el funeral de Liam Payne")
+* [Latin Grammy 2024: esta es la lista completa de los ganadores](https://www.elcomercio.com/tendencias/entretenimiento/latin-grammy-ganadores-2024-premios.html "Latin Grammy 2024: esta es la lista completa de los ganadores")
+
+Divorcio de Daddy Yankee y Mireddys González
+--------------------------------------------
+
+Daddy Yankee confirmó su divorcio de Mireddys González a través de un **mensaje en sus redes sociales**.
+
+Yankee señaló que respeta la decisión de González, quien tomó esta decisión al año siguiente de que su entonces esposo anunciara **el retiro de la música**.
+
+“Después de más de dos décadas de matrimonio y luego de muchos meses de intentar salvar mi matrimonio, el cual compartimos mi esposa y yo, hoy **mis abogados** responden a la petición de divorcio recibida por parte de Mireddys”, escribió en un mensaje en sus redes sociales.
+
+“**Mi fe en Cristo** ha sido mi refugio en todo momento, y fue una guía constante mientras intentamos superar nuestras diferencias”, agregó el artista, quien se retiró el año pasado de la música para dedicarse de lleno a profesar su fe cristiana.
+
+La confirmación de la separación llega después de meses de rumores, que se acrecentaron cuando ambos dejaron de seguirse en **redes sociales**.
+
+Además, en las últimas semanas, se ha relacionado a **Ramón Ayala**, nombre de pila del artista, con la presentadora colombiana **Jessica Cediel,** aunque ninguno de los dos ha confirmado que exista una relación sentimental.
+
+### Los hijos
+
+“Este no es un momento fácil, pero entiendo que es parte de **mi proceso de vida**. Corresponde aceptar y continuar. Proteger mi estabilidad, mis hijos y todo lo construido a lo largo de tantos años”, afirmó.
+
+El matrimonio tiene en común dos hijos: **Jeremy Ayala y Jeseaelys Ayala**.
+
+“**Respeto la decisión de Mireddys** y agradezco el tiempo que compartimos, lleno de bendiciones y valores, de amor y con una hermosa familia que seguirá siendo nuestra prioridad”, añadió el cantante de éxitos como ‘Gasolina’.
+
+Famoso actor de K-dramas falleció a los 32 años
+===============================================
+
+Park Min Jae era un reconocido actor de Corea del Sur, que destacó por su participación en k-dramas.
+----------------------------------------------------------------------------------------------------
+
+![Park Min Jae se ganó el reconocimiento en Corea del Sur por su trabajo en varios K-dramas](https://www.elcomercio.com/wp-content/uploads/2024/12/muerte-park-miin-jae.jpg)
+
+El conocido actor surcoreano **Park Min Jae** falleció a sus 32 años. Así lo confirmaron sus familiares y su agencia representante **Bit Title** este lunes 2 de diciembre de 2024.
+
+### Más noticias
+
+* [El cuerpo de la actriz de ‘Pedro el Escamoso’ será trasladado a una finca lejos de la ciudad](https://www.elcomercio.com/afull/funeral-actriz-pedroelescamoso-finca.html "El cuerpo de la actriz de ‘Pedro el Escamoso’ será trasladado a una finca lejos de la ciudad")
+* [La actriz de ‘Pedro el Escamoso’ decidió no combatir el cáncer cuando conoció el diagnóstico](https://www.elcomercio.com/tendencias/actriz-de-pedro-el-escamoso-cancer.html "La actriz de ‘Pedro el Escamoso’ decidió no combatir el cáncer cuando conoció el diagnóstico")
+* [Murió “la doctora Paula” de ‘Pedro El Escamoso’](https://www.elcomercio.com/tendencias/entretenimiento/murio-doctora-pedro-el-escamoso.html "Murió “la doctora Paula” de ‘Pedro El Escamoso’")
+
+Park Min Jae nació en **1992**. Desde joven se mostró como un **prometedor actor**. Ganó reconocimiento por sus papeles en diversas **series de K-drama**.
+
+Su participación en ‘Tomorrow’, ‘Little Women’, ‘Call It Love’ y ‘The Korea-Khitan War’ le convirtieron en una **figura querida** en su país.
+
+En los últimos años, fue uno de los actores que **mayor impacto** tuvo en la **industria** del entretenimiento surcoreana.
+
+A lo largo de su carrera, Park Min Jae mostró su talento, tanto en papeles protagónicos como secundarios, **ganando elogios** por su capacidad para interpretar personajes complejos.
+
+Sus trabajos más destacados incluyeron apariciones en dramas como ‘**Mr. LEE**‘ y ‘**Goryeo Khitan War**‘, que contribuyeron a su creciente fama y popularidad entre el público[.](https://drama.fandom.com/es/wiki/Park_Jae_Min "https://drama.fandom.com/es/wiki/Park_Jae_Min")
+
+Causas del fallecimiento de Park Min Jae
+----------------------------------------
+
+Park Min Jae falleció el **29 de noviembre de 2024**, sin embargo, la noticia fue informada este lunes.
+
+Los informes indican que **sufrió un paro cardíaco** mientras viajaba en China. No se han dado mayores detalles de su deceso.
+
+Su agencia, Big Title, anunció su fallecimiento, expresando su **tristeza y gratitud** por el apoyo que recibió de sus fans.
+
+Fanáticos y cercanos se despidieron del actor
+---------------------------------------------
+
+La agencia lo describió como un actor dedicado que **amaba su trabajo** y siempre se esforzaba por ofrecer sus mejores actuaciones.
+
+“El actor Park Min Jae, un hermoso actor al que le encantaba actuar y siempre hacía lo mejor para sí mismo, se ha ido al cielo. Muchas gracias por el amor y el interés que le han mostrado al actor Park Min Jae. Que descanse en paz”, fue el **mensaje** compartido por la agencia.
+
+Tras su fallecimiento, sus fanáticos y colegas le **dedicaron tributos**. Su hermano menor compartió mensajes conmovedores en las redes sociales, pidiendo a los fans que recordaran a Park con cariño.
+
+La prematura muerte de Park Min Jae deja un **impacto significativo** en la comunidad del K-drama.
+
 ¿Liga de Quito corre el riesgo de perder a Alex Arce para 2025?
 ===============================================================
 
@@ -537,664 +1000,3 @@ Inter Miami
 
 San viernes
 -----------
-
-La Rolling Stone puso a siete latinos en la lista de los 100 Mejores Álbumes de 2024
-====================================================================================
-
-La Rolling Stone incluyó a siete latinos en su famosa lista.
-------------------------------------------------------------
-
-![La puertorriqueña Young Miko se consolida en la escena urbana. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-02T175330.263.jpg)
-
-La revista **Rolling Stone** publicó este 2 de **diciembre** de 2024 su lista de los **100 Mejores Álbumes de 2024**. En ese ‘**ranking**‘ se destacan siete artistas latinos.
-
-En el listado hay una cubana, una **colombiana**, un mexicano y un puertorriqueño.
-
-### **Más noticias:**
-
-* [Karol G entra al mundo de las muñecas Bratz](https://www.elcomercio.com/tendencias/entretenimiento/karol-g-muneca-bratz-fans-felices.html "https://www.elcomercio.com/tendencias/entretenimiento/karol-g-muneca-bratz-fans-felices.html")
-* [Karol G arrasa en el Santiago Bernabéu de Madrid con un concierto épico](https://www.elcomercio.com/tendencias/entretenimiento/karol-g-arrasa-en-el-santiago-bernabeu-de-madrid-con-un-concierto-epico.html "https://www.elcomercio.com/tendencias/entretenimiento/karol-g-arrasa-en-el-santiago-bernabeu-de-madrid-con-un-concierto-epico.html")
-* [Karol G alista un sencillo con toque iraní](https://www.elcomercio.com/tendencias/entretenimiento/karol-g-estreno-nueva-cancion-toque-irani.html "https://www.elcomercio.com/tendencias/entretenimiento/karol-g-estreno-nueva-cancion-toque-irani.html")
-
-**Charlie XCX domina la lista de los 100 Mejores Álbumes de 2024**
-------------------------------------------------------------------
-
-La lista de l**os 100 Mejores Álbumes de 2024** de la Rolling Stone está liderada por Charli XCX, con su disco ‘**Brat**‘, estrenada en junio de 2024.
-
-Su nombre real es **Charlotte Emma Aitchison** y es conocida por hacer pop experimental, con influencias **electrónicas** y punk. 
-
-**La Rolling Stone puso a siete latinos en la lista de los 100 Mejores Álbumes de 2024**
-----------------------------------------------------------------------------------------
-
-**Camila Cabello** es una de las artistas latinas que -con su disco ‘C,XOXO’- integra la lista de los **100 Mejores Álbumes de 2024** de la **Rolling Stone**. De acuerdo con la publicación, la cantante ostenta el puesto 85.
-
-Ese trabajo marca una evolución en su sonido, fusionando elementos de pop, R&B y música latina, con letras introspectivas y vulnerables que exploran temas como el amor, el autodescubrimiento y las relaciones personales.
-
-En **‘C, XOXO**‘, **Camila Cabello** muestra una **madurez artística**, con una mezcla de melodías pegajosas y arreglos sofisticados, mientras mantiene su esencia **latina** a través de ritmos y sonidos que conectan con sus raíces.
-
-**Dos mexicanos en la lista de la Rolling Stone**
--------------------------------------------------
-
-**Rodrigo Torres De la Garza** -más conocido como **Nsqk**– es un músico y compositor mexicano. Su carrera está marcada por su capacidad para fusionar diversos géneros y explorar nuevas sonoridades.
-
-Con una trayectoria que abarca varios años de trabajo constante, **Nsqk** logra destacarse en la escena musical por su estilo único y su habilidad para conectar con una audiencia diversa.
-
-Su más reciente trabajo, ‘**ATP**_‘_ (2024), refleja su evolución como artista y su deseo de experimentar con la música electrónica y el pop alternativo.
-
-A través de ese disco, Torres De la Garza presenta un sonido introspectivo y vibrante, combinando influencias del synth-pop, el chillwave y la música experimental. En el listado de la Rolling Stone está en el puesto 82.
-
-**Peso Pluma seduce con ‘Éxodo’**
----------------------------------
-
-**Peso Pluma**, uno de los artistas más prominentes de la música mexicana contemporánea, revolucionó el género del corrido tumbado, fusionando elementos de la música regional mexicana con el trap y el rap.
-
-Originario de Jalisco, **Peso Pluma** logró una impresionante carrera a una edad temprana, convirtiéndose en un fenómeno global con su estilo único y su capacidad para conectar con audiencias de diversas culturas.
-
-Su disco ‘**Éxodo**_‘_ (2024) es una muestra de su madurez artística y su constante evolución musical. Con este álbum, Peso Pluma se afianza en la escena del corrido tumbado y expande su alcance hacia nuevas sonoridades. En el listado **de los 100 Mejores Álbumes de 2024** ocupa el puesto 74.
-
-**Puerto Rico dice presente**
------------------------------
-
-RaiNao, puesto 51, es una de las voces más innovadoras y prometedoras de la música urbana en América Latina, destacándose por su estilo fresco y experimental que fusiona géneros como el trap, el reguetón y el R&B con un enfoque único y vanguardista.
-
-Originaria de **Puerto Rico**, **RaiNao** captó la atención del público con su propuesta sonora auténtica, caracterizada por una mezcla de ritmos sensuales y líricas profundas que reflejan sus vivencias y emociones.
-
-Su disco ‘**Capicú**_‘_ (2024) marca un hito en su carrera, mostrando una evolución artística notable. Con este álbum, **RaiNao** continúa desafiando las convenciones del género urbano, incorporando sonidos más complejos.
-
-**Young Miko se consolida en la escena urbana**
------------------------------------------------
-
-**Young Miko** (puesto 41) es una de las artistas más destacadas de la escena **urbana latina**, conocida por su estilo fresco, **audaz** y su capacidad para fusionar géneros como el reguetón, el trap y la música alternativa.
-
-Nacida en **Puerto Rico,** logró hacerse un nombre rápidamente gracias a su voz única y su enfoque vanguardista que desafía las normas tradicionales de la música urbana.
-
-Su álbum ‘_Att.’_ (2024) es una clara muestra de su talento y creatividad, consolidándola como una de las promesas más fuertes del género.
-
-En este disco, **Young Miko** ofrece una propuesta sonora fresca y experimental, combinando beats innovadores con letras que abordan temas de amor, empoderamiento y su propia visión del mundo.
-
-**Álvaro Díaz es el mejor ubicado en el ‘ranking’ de la Rolling Stone**
------------------------------------------------------------------------
-
-Álvaro Díaz es un destacado cantante y compositor puertorriqueño que logró posicionarse como una de las figuras más relevantes del trap y el rap en español.
-
-Con una trayectoria que va en constante ascenso, ganó el reconocimiento por su estilo único, sus letras profundas y su capacidad para fusionar géneros urbanos con influencias del pop y la música alternativa.
-
-Su álbum ‘_Sayonara_‘ (2024) refleja su madurez artística, ofreciendo una mezcla de sonidos innovadores y líricas cargadas de introspección, donde aborda temas como el desamor, la superación personal y la búsqueda de identidad.
-
-**Shakira triunfa con ‘Las Mujeres Ya No Lloran’**
---------------------------------------------------
-
-**‘Las Mujeres Ya No Lloran’** es el esperado álbum de Shakira, lanzado en 2024, que marca un giro en su carrera hacia un sonido más maduro y empoderado.
-
-> [View this post on Instagram](https://www.instagram.com/reel/DB4AWBjRIYH/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [A post shared by Shakira (@shakira)](https://www.instagram.com/reel/DB4AWBjRIYH/?utm_source=ig_embed&utm_campaign=loading)
-
-Con este disco, la cantante colombiana refleja su evolución tanto a nivel personal como profesional, fusionando pop, reguetón, rock y música latina con letras que abordan temas de empoderamiento femenino, superación personal y amor propio. En la lista de la Rolling Stone llegó al puesto 27.
-
-Levantan pavimento nuevo del carril exclusivo de la Ecovía
-==========================================================
-
-Los videos que muestran el levantamiento del pavimento fueron difundidos en redes sociales.
--------------------------------------------------------------------------------------------
-
-![Imagen referencial. El carril exclusive de la Ecovía es intervenida.](https://www.elcomercio.com/wp-content/uploads/2024/12/Ecovia-carril.jpg)
-
-En redes sociales circula un video que muestra maquinaria pesada levantando el pavimento rígido recién colocado en el carril exclusivo de la **Ecovía**, en **Quito**[.](https://es.wikipedia.org/wiki/Ecov%C3%ADa_(Quito) "https://es.wikipedia.org/wiki/Ecov%C3%ADa_(Quito)")
-
-Más noticias
-------------
-
-* [Obras en el carril exclusivo de la Ecovía llegan a La Marín, en Quito](https://www.elcomercio.com/actualidad/quito/obras-carril-exclusivo-ecovia-llegan-a-la-marin-quito.html "Obras en el carril exclusivo de la Ecovía llegan a La Marín, en Quito")
-* [En Quito se realizan obras de renovación de espacios públicos](https://www.elcomercio.com/actualidad/en-quito-se-realizan-obras-de-renovacion-de-espacios-publicos.html "En Quito se realizan obras de renovación de espacios públicos")
-* [El tránsito se complica en la Orellana y Colón por obras en la Ecovía de Quito](https://www.elcomercio.com/actualidad/transito-avenidas-orellana-colon-obras-en-ecovia.html "El tránsito se complica en la Orellana y Colón por obras en la Ecovía de Quito")
-
-Los ciudadanos comenzaron a difundir los videos el 29 de noviembre de 2024, lo que generó preocupación.
-
-¿Por qué levantaron el pavimento del carril exclusivo?
-------------------------------------------------------
-
-Los trabajos en el carril exclusivo de la **Ecovía** comenzaron en agosto de 2024 e incluyeron tramos entre la avenida **Cristóbal Colón,** avenida **Patria**, **Eloy Alfaro**, **Río Coca** y otras vías. Sin embargo, el tramo de la avenida **6 de Diciembre** presentó fallas, a pesar de considerarse terminado.
-
-La **Epmmop** no detalló cuáles son las fallas encontradas en la fiscalización. 
-
-Ciudadanos grabaron cómo el pavimento rígido fue removido mientras colocaban los escombros a un costado con maquinaria pesada para realizar las reparaciones.
-
-La Empresa Pública Metropolitana de Movilidad y Obras Públicas (**Epmmop**) atribuyó el levantamiento del pavimento a la falta de cumplimiento con los **estándares** requeridos en el proceso de **fiscalización**.
-
-Responsabilidad del contratista
--------------------------------
-
-La **Epmmop** señaló a la empresa contratista como responsable de los trabajos y de cubrir los costos para **rehacer el pavimento** en el tramo afectado, sin que esto genere gastos adicionales al **Municipio** de **Quito**.
-
-> [#ElNuevoEcuador](https://twitter.com/hashtag/ElNuevoEcuador?src=hash&ref_src=twsrc%5Etfw)  
-> Recién hechito pero lo vuelven a romper. Los trabajos de la Ecovía siguen causando molestias y más porque lo que recién pavimentaron lo rompen nuevamente, debido a que algo hicieron mal. [#Quito](https://twitter.com/hashtag/Quito?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/IQQTqNzHUb](https://t.co/IQQTqNzHUb)
-> 
-> — 🇪🇨El Nuevo Ecuador 🇪🇨 (@Noticiasgranda6) [November 30, 2024](https://twitter.com/Noticiasgranda6/status/1862910084223017387?ref_src=twsrc%5Etfw)
-
-Trabajos en el carril exclusivo de la Ecovía
---------------------------------------------
-
-El hormigonado llega una nueva etapa en la que se ha previsto el cambio de la estructura de **hormigón** del carril sur-norte desde **El Playón de La Marín**, **San Blas y La Alameda**. La obra en el carril norte-sur está programado para diciembre de 2024.
-
-Esta fase se inició desde el viernes 15 de noviembre y se desarrollará durante 30 días. Para ello, la **Epmmop** previó una intervención progresiva en el carril en sentido sur-norte. Esto no afectará la circulación normal de la **av. Vencedores de Pichincha y Gran Colombia** mientras se hacen los trabajos.
-
-La intervención que comenzó desde la salida del **Playón de La Marín** avanzará hasta la Estación Marín Central. El siguiente tramo será desde la calle **Manabí hasta la Esmeraldas,** en el sector del **Mercado Central.**
-
-Continúa al tramo a la altura de la **calle El Vergel** hasta el adoquinado de la **Plaza San Blas** y conectará con la **av. Gran Colombia** desde la **calle Caldas** hasta la estación **Simón Bolívar**, en **La Alameda**.
-
-La inversión destinada a la rehabilitación de 9 kilómetros del carril exclusivo de la **Ecovía**, desde la avenida **Río Coca** hasta el **Playón de La Marín**, asciende a 3 955 973,07 dólares más IVA.
-
-* * *
-
-### Esperanza
-
-Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
-
-Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
-
-[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
-
-‘La Guerra de los Rohirrim’ llega a la gran pantalla con un estilo anime épico 
-===============================================================================
-
-La nueva película ‘La Guerra de los Rohirrim’ explora el legado de Rohan.
--------------------------------------------------------------------------
-
-![‘La Guerra de los Rohirrim’ revive la historia de Rohan. Foto: Instagram @wbpictureslatam.](https://www.elcomercio.com/wp-content/uploads/2024/12/La-Guerra-de-los-Rohirrim.jpg)
-
-El universo de **J.R.R. Tolkien** sigue expandiéndose con la próxima película animada **‘La Guerra de los Rohirrim’**. Este nuevo capítulo se centra en la **historia de Rohan**, un reino emblemático de la Tierra Media.  
-
-### Más noticias
-
-* [Descubren en Ecuador una rana y la nombran en honor al escritor J.R.R. Tolkien](https://www.elcomercio.com/tendencias/ciencia/descubren-ecuador-rana-nombran-honor-escritor-jrr-tolkien.html "https://www.elcomercio.com/tendencias/ciencia/descubren-ecuador-rana-nombran-honor-escritor-jrr-tolkien.html")
-* [‘El señor de los anillos: los anillos de poder’ tendrá segunda temporada](https://www.elcomercio.com/tendencias/entretenimiento/los-anillos-poder-segunda-temporada.html "https://www.elcomercio.com/tendencias/entretenimiento/los-anillos-poder-segunda-temporada.html")
-
-La película, programada para estrenarse el 5 de diciembre de 2024, ha generado gran expectativa entre los aficionados a la saga, sobre todo por su formato de **dibujos animados**. El tráiler reciente ha despertado el interés por su enfoque en personajes menos conocidos, como **Helm Hammerhand y su hija Hèra**. 
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/C--v5iIMtGJ/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de Warner Bros. Pictures Latam (@wbpictureslatam)](https://www.instagram.com/reel/C--v5iIMtGJ/?utm_source=ig_embed&utm_campaign=loading)
-
-**Contexto de ‘La Guerra de los Rohirrim’** 
---------------------------------------------
-
-La relevancia de **‘La Guerra de los Rohirrim’** radica en el resurgimiento del interés por las obras de Tolkien, especialmente tras el éxito de **‘Los Anillos de Poder’**. Este contexto ha permitido que la **historia de Rohan** cobre vida nuevamente. La película se sitúa 183 años antes de los eventos de **‘Las Dos Torres’**, y ofrece una nueva perspectiva sobre eventos históricos significativos en el **legendarium de Tolkien**, de acuerdo con [Esquire](https://www.esquire.com/es/actualidad/cine/a42651708/la-guerra-de-los-rohirrim-historia-argumento-epoca/ "https://www.esquire.com/es/actualidad/cine/a42651708/la-guerra-de-los-rohirrim-historia-argumento-epoca/").  
-
-**Novedades en la narrativa** 
-------------------------------
-
-Una de las características más notables es la **elección de un enfoque animado**. Este estilo, que recuerda a la película de 1978 dirigida por **Ralph Bakshi**, permite explorar visualmente el **mundo de Rohan**, mediante batallas épicas y paisajes majestuosos con un toque de animé propio de su director **Kenji Kamiyama**. La historia se centra en **Helm Hammerhand**, conocido como “Mano de Hierro”, quien lideró a su pueblo en una defensa crucial contra los dunlendinos, de acuerdo con [3DJuegos](https://www.3djuegos.com/tv-series/noticias/todo-senor-anillos-guerra-rohirrim-fecha-estreno-historia-detalles-esta-pelicula-animacion-fantasia "https://www.3djuegos.com/tv-series/noticias/todo-senor-anillos-guerra-rohirrim-fecha-estreno-historia-detalles-esta-pelicula-animacion-fantasia").  
-
-Además, se introduce a **Hèra**, un personaje creado específicamente para esta película, quien aporta una nueva dimensión a la narrativa. 
-
-**Personajes principales** 
----------------------------
-
-### **Helm Hammerhand:** 
-
-**Helm** es el **noveno rey de Rohan** y un guerrero legendario. Su historia se narra a través del **conflicto con los dunlendinos**, quienes buscan venganza tras la muerte del padre de su líder, Wulf. La trama revela cómo **Helm** se convierte en un símbolo de resistencia y honor. 
-
-### **Hèra:** 
-
-Hèra es presentada como una **joven valiente** que desafía las expectativas sociales impuestas sobre ella. Aunque no aparece en las **obras originales de Tolkien**, su inclusión permite explorar temas como **el sacrificio y el liderazgo** desde una perspectiva femenina. 
-
-Su relación con Helm será fundamental para entender las dinámicas familiares y heroicas en tiempos de guerra. 
-
-**Comparación con obras anteriores** 
--------------------------------------
-
-**‘La Guerra de los Rohirrim’** se aleja del **enfoque tradicional** que han tenido las adaptaciones anteriores al **centrarse en personajes menos conocidos**. A diferencia de **‘El Señor de los Anillos’**, donde personajes como **Aragorn y Frodo** dominan la narrativa, esta película ofrece una mirada fresca al **legado rohirrim**. La decisión creativa de incluir a Hèra como protagonista permite abordar nuevas temáticas relevantes para el público actual, siguiendo con 3DJuegos.  
-
-Javier Burrai se tomará un descanso de Barcelona SC
-===================================================
-
-Javier Burrai tiene todavía contrato con Barcelona SC, pero la crítica de una parte de la hinchada se ha hecho sentir en redes sociales,
-----------------------------------------------------------------------------------------------------------------------------------------
-
-![Javier Burrai es arquero de Barcelona SC.](https://www.elcomercio.com/wp-content/uploads/2024/12/burrai.jpg)
-
-El arquero argentino nacionalizado ecuatoriano, **Javier Burrai**, cerró su participación en la temporada 2024 con **Barcelona SC**, jugando en el último partido contra **Mushuc Runa** en el Estadio Monumental.
-
-Burrai, quien fue titular en los últimos seis encuentros de la campaña, expresó su deseo de descansar y reunirse con su familia luego de un año complicado tanto a nivel personal como colectivo. ¿Se quedará para el 2025?
-
-### Más noticias:
-
-* [Moisés Caicedo y su dúo con Enzo Fernández destaca en Chelsea](https://www.elcomercio.com/deportes/moises-caicedo-chelsea-enzo-fernandez-maresca.html "Moisés Caicedo y su dúo con Enzo Fernández destaca en Chelsea")
-* [F1: campeonato de constructores en vilo y Verstappen campeón](https://www.elcomercio.com/deportes/formula-1-expectativa-campeonato-constructores.html "F1: campeonato de constructores en vilo y Verstappen campeón")
-* [Barcelona SC cierra la temporada con empate y sin títulos](https://www.elcomercio.com/deportes/barcelona-sc-mushuc-runa-liga-pro-titulos.html "Barcelona SC cierra la temporada con empate y sin títulos")
-
-¿Qué dijo Javier Burrai?
-------------------------
-
-“Lo único que te puedo decir es que tengo contrato. Ahora quiero irme a ver a mi familia, que hace mucho tiempo que no veo, y a descansar. Sabiendo que no fue un año bueno en líneas generales, en lo personal tampoco fue a la altura de lo que fueron los anteriores”, comentó el golero al finalizar el encuentro.
-
-**Burrai** tiene contrato con **Barcelona SC** hasta el 31 de diciembre de 2027, pero la crítica de los hinchas se ha hecho sentir en redes sociales, especialmente tras el empate 2-2 contra **Mushuc Runa**, en el que varios seguidores lo responsabilizaron de la jugada que derivó en el gol del empate transitorio del equipo visitante.
-
-El golero llegó a **Barcelona SC** en 2020, luego de destacarse en Macará, y antes jugó en varios equipos de Argentina, como Gimnasia y Esgrima de La Plata, Sarmiento y **Guillermo Brown.**
-
-En la actualidad, su valor de mercado es de **472 mil dólares**, según el portal especializado **Transfermarkt.**
-
-A pesar de las críticas, **Burrai** se mostró optimista sobre el futuro del equipo y aseguró que su principal objetivo en 2025 será conseguir un título, especialmente en el año en que **Barcelona SC** celebrará su centenario.
-
-**Un cierre sin títulos**
--------------------------
-
-**Barcelona SC** finalizó su temporada 2024 con un empate ante **Mushuc Runa,** sin disputar finales y sin títulos.
-
-El equipo de **Guayaquil** cerró el año con la certeza de que participará en la Copa Libertadores de 2025, pero quedó fuera de la lucha por el campeonato nacional. Mientras tanto, **Mushuc Runa** logró clasificar a la **Copa Sudamericana.**
-
-El cuerpo de la actriz de ‘Pedro el Escamoso’ será trasladado a una finca lejos de la ciudad
-============================================================================================
-
-Su papel más recordado es como la doctora Paula Dávila en la telenovela y la secuela de Pedro el Escamoso
----------------------------------------------------------------------------------------------------------
-
-![La actriz Sandra Reyes falleció a los 49 años.](https://www.elcomercio.com/wp-content/uploads/2024/12/actriz-el-escamoso-El-Comercio.jpg)
-
-**Sandra Reye**s, actriz de **‘Pedro el Escamoso’**, será despedida lejos del bullicio de la ciudad.
-
-Según información compartida por su primo Nicolás Reyes y confirmada por medios como **Noticias Caracol**, las exequias tendrán lugar en una finca en Ubaté, un municipio cercano a Bogotá.
-
-### Más noticias
-
-* **[La segunda parte de ‘Wicked’ ya tiene fecha de estreno](https://www.elcomercio.com/tendencias/la-segunda-parte-de-wicked-ya-tiene-fecha-de-estreno.html "https://www.elcomercio.com/tendencias/la-segunda-parte-de-wicked-ya-tiene-fecha-de-estreno.html")**
-* **[Razones que convirtieron a Silvia Pinal en la última gran diva del cine mexicano](https://www.elcomercio.com/tendencias/cine/silvia-pinal-cine-television-biografia.html "https://www.elcomercio.com/tendencias/cine/silvia-pinal-cine-television-biografia.html")** 
-
-Este lugar, rodeado de naturaleza, fue su refugio durante los últimos años y el espacio que eligió para vivir en paz junto a su hijo Gerónimo.
-
-**Una ceremonia íntima y significativa**
-----------------------------------------
-
-La familia de la actriz decidió organizar una ceremonia privada en este entorno, donde Sandra había encontrado conexión con la tierra y tranquilidad espiritual.
-
-La finca, significativa para ella, fue el sitio que le brindó consuelo durante su lucha contra el cáncer de mama. “Es un lugar que representa su esencia”, comentó un familiar cercano en diálogo con Semana.
-
-**Un legado discreto y poderoso**
----------------------------------
-
-Sandra Reyes manejó su enfermedad con absoluta privacidad. Durante este tiempo, continuó trabajando en producciones como ‘[Rigo](https://www.primevideo.com/detail/Rigo/0IF6THPEJ8F4WFZM9OABLCJJ8H "https://www.primevideo.com/detail/Rigo/0IF6THPEJ8F4WFZM9OABLCJJ8H")‘ y la [secuela de ‘Pedro el Escamoso](https://www.disneyplus.com/es-co/series/pedro-el-escamoso-mas-escamoso-que-nunca/17A3n3u6jNhh "https://www.disneyplus.com/es-co/series/pedro-el-escamoso-mas-escamoso-que-nunca/17A3n3u6jNhh")‘.
-
-De esa forma demostró su profesionalismo y fortaleza. Sus compañeros del medio artístico, como Miguel Varoni, han destacado su valentía y autenticidad.
-
-Según **El Tiempo**, varios actores calificaron su partida como “lamentable” y “triste”, pero coinciden en que su legado será imborrable.
-
-**Adiós lejos del ruido mediático**
------------------------------------
-
-La decisión de realizar una despedida íntima, alejada de la atención pública, refleja la filosofía de vida de Sandra.
-
-Una fuente cercana confirmó a Noticias Caracol que ella optó por no someterse a quimioterapia por decisión propia por una razón personal.
-
-Sandra Reyes deja una huella profunda no solo en la televisión colombiana, sino en la vida de quienes compartieron su camino.
-
-La final de la Liga Pro y otros partidos imperdibles de diciembre
-=================================================================
-
-El campeón de la Liga Pro se definirá en partidos de ida y vuelta entre Independiente y Liga.
----------------------------------------------------------------------------------------------
-
-![Cristian Zabala (i) y Alexander Domínguez en el Rodrigo Paz Delgado en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/partidazos_diciembre_1.jpg)
-
-Las finales de la Liga Pro entre **Independiente del Valle y Liga de Quito** son dos de los partidos más atractivos para el mes de diciembre, el último de la temporada 2024 que a punto está de cerrarse.
-
-La Liga Pro decidió que las finales se j**ueguen el sábado 7 y 14 de diciembre, desde las 15:30.** La ida será en el Rodrigo Paz Delgado, y la revancha en la casa de Independiente del Valle en Chillo-Jijón.
-
-### Más noticias:
-
-* [Alberto Spencer, el mejor representante de Ecuador en la Libertadores](https://www.elcomercio.com/deportes/futbol/alberto-spencer-mejor-representante-ecuador-libertadores.html "Alberto Spencer, el mejor representante de Ecuador en la Libertadores")
-* [Alfonso Quirola, el experimentado que va por su tercera Vuelta Automovilística](https://www.elcomercio.com/deportes/alfonso-quirola-vuelta-automovilistica-ecuador-2024.html "Alfonso Quirola, el experimentado que va por su tercera Vuelta Automovilística")
-* [Multas en el fútbol ecuatoriano, un problema recurrente](https://www.elcomercio.com/deportes/futbol/multas-en-el-futbol-nacional-un-problema-recurrente.html "Multas en el fútbol ecuatoriano, un problema recurrente")
-
-Tanto Liga de Quito como Independiente del Valle representará a Ecuador en la fase de grupos de la Copa Libertadores 2025, mientras que **Barcelona Sporting Club y El Nacional competirán** desde las segunda y primera fase de eliminación, respectivamente.
-
-El ganador de la final de la Liga Pro se convertirá en el primer bicampeón de la Liga Pro. Delfín se quedó con la corona en 2019, **Barcelona SC en el 2020, Independiente en el 2021**, Aucas en el 2022 y Liga de Quito en el 2023.
-
-Por primera vez en la historia de la Liga Pro se repetirá una final y será a año seguido y nuevamente entre dos equipos de la misma provincia. **Antes siempre se enfrentaron equipos de distintas regiones**.
-
-Delfín vs. Liga en 2019, Barcelona vs. Liga en el 2020, Independiente vs. Emelec en el 2021, Aucas vs. Barcelona en el 2022, y Liga e IDV en el 2023 y en el 2024 definirán al mejor equipo de todo el año.
-
-Sin embargo, no solo en Ecuador habrá grandes partidos. En **Inglaterra, Alemania, Italia, Brasil y Argentina**, solo por tomar como referencia a los ecuatorianos, tendrán participación para definir títulos o para cerrar el primer semestre en lo más alto de sus respectivas ligas.
-
-![Moisés Caicedo, jugador del Independiente del Valle.](https://www.elcomercio.com/wp-content/uploads/2024/12/partidazos_diciembre_2-1024x683.jpg)
-
-Moisés Caicedo, jugador del Independiente del Valle.
-
-Agenda de diciembre
--------------------
-
-Chelsea
--------
-
-### Domingo 8/12
-
-11:30 vs. Tottenham
-
-### Jueves 12/12
-
-vs. Astana (CL)
-
-### Domingo 15/12
-
-14:00 vs. Brentford
-
-### Jueves 19/12
-
-vs. Shamrock Rovers (CL)
-
-### Domingo 22/12
-
-09:00 vs. Everton
-
-### Jueves 26/12
-
-vs. Fulham
-
-### Lunes 30/12
-
-14:45 vs. Ipswich
-
-Brighton
---------
-
-### Jueves 5/12
-
-14:30 vs. Fulham
-
-### Domingo 8/12
-
-09:00 vs. Leicester
-
-### Domingo 15/12
-
-09:00 vs. Crystal Palace
-
-### Sábado 21/12
-
-10:00 vs. West Ham United
-
-### Viernes 27/12
-
-14:30 vs. Brentford
-
-### Lunes 30/12
-
-14:45 vs. Aston Villa
-
-Leverkusen
-----------
-
-### Martes 3/12
-
-14:45 vs. Bayern (CA)
-
-### Sábado 7/12
-
-09:30 vs. St. Pauli
-
-### Martes 10/12
-
-15:00 vs. Inter (CL)
-
-### Sábado 14/12
-
-09:30 vs. Augsburgo
-
-### Sábado 21/12
-
-12:30 vs. Friburgo
-
-Venezia
--------
-
-### Sábado 14/12
-
-14:45 vs. Juventus
-
-### Domingo 29/12
-
-09:00 vs. Napoli
-
-Huracán
--------
-
-### Lunes 9/12
-
-19:30 vs. Platense
-
-### Domingo 15/12
-
-vs. Vélez Sársfield
-
-### Brasileirao
-
-### Miércoles 4/12
-
-16:00 Criciúma vs. Flamengo
-
-19:30 Internacional vs. Botafogo
-
-### Domingo 8/12
-
-14:00 Fortaleza vs. Internacional
-
-14:00 Flamengo vs. Vitoria
-
-San viernes
------------
-
-Moisés Caicedo y su dúo con Enzo Fernández destaca en Chelsea
-=============================================================
-
-Moisés Caicedo fue destacado por su DT y el Chelsea junto a Enzo Fernández, su dupla en el mediocampo de la escuadra.
----------------------------------------------------------------------------------------------------------------------
-
-![Enzo Fernández y Moisés Caicedo en un partido de la Premier League.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-02T160659.803.jpg)
-
-**Moisés Caicedo** es una de las figuras del Chelsea y durante la temporada 2024, el ecuatoriano ha conseguido entenderse a la perfección con Enzo Fernández, quien es su dúo en el mediocampo. El rendimiento de los dos futbolistas ha llevado a que los blues los destaquen.
-
-Fernández llegó a inicios del 2023 al conjunto de Londres después de haber brillado en el Mundial de Catar 2022 y como una de las apuestas del club ante una figura emergente. A mediados del mismo año, el equipo rompió el mercado al pagar **146 millones de dólares** al Brighton por fichar al ecuatoriano en el traspaso más alto en la historia de la Premier.
-
-### Más noticias:
-
-* [Moisés Caicedo brilla en goleada del Chelsea ante Aston Villa](https://www.elcomercio.com/deportes/partido-moises-caicedo-chelsea-goleada-aston-villa.html "Moisés Caicedo brilla en goleada del Chelsea ante Aston Villa")
-* [Chelsea, sin Moisés Caicedo, ganó y lidera la Conference](https://www.elcomercio.com/deportes/futbol/chelsea-conference-league-moises-caicedo.html "Chelsea, sin Moisés Caicedo, ganó y lidera la Conference")
-* [Moisés Caicedo fue un pilar del Chelsea en victoria ante Leicester](https://www.elcomercio.com/deportes/futbol/moises-caicedo-clave-triunfo-chelsea-leicester.html "Moisés Caicedo fue un pilar del Chelsea en victoria ante Leicester")
-
-Ambos futbolistas arrancaron juntos la **temporada 2023-2024** y, pese a que brillaron, la realidad del conjunto azul no fue la misma. En su segunda temporada juntos, ambos se han constituido como pilares de la media cancha en el conjunto y han sido un complemento para el otro, pues ocupan r**oles distintos.**
-
-Después de su último compromiso, que tuvo una elevada actuación de ambos y terminó en triunfo sobre el Aston Villa, el **Chelsea** se mostró orgullos de los jugadores en sus redes. “**Estos dos**“, escribió el equipo, junto a un emoticón de un rostro con corazones, en la descripción de una postal de ambos jugadores.
-
-Moisés Caicedo y su rendimiento con el Chelsea
-----------------------------------------------
-
-A partir de su arribo y la unión entre sí, ambos futbolistas han crecido a nivel individual y, con ello, han aportado a la cuestión colectiva en el Chelsea. Después de su primera temporada, Fernández se convirtió en el **primer capitán** y Caicedo en el **segundo** de la escuadra.
-
-En lo que corresponde a Moisés Caicedo, este ha sido inamovible durante la temporada y solo se ha perdido partidos en los cuales el **DT Enzo Maresca** ha optado por jugadores menos habituales. En total y desde su arribo, el tricolor suma 63 partidos, entre los cuales ha anotado en dos ocasiones y brindado seis asistencias.
-
-Dentro de la vigente temporada, él ha disputado con su escuadra un total de 15 partidos, entre **Premier League y Conference League**, y ha anotado en una ocasión y asistido en dos. El Chelsea, además, está presente en la EFL Cup y la FA Cup, locales.
-
-Enzo Maresca, DT del Chelsea, encantado con Moisés Caicedo
-----------------------------------------------------------
-
-Después del último triunfo del Chelsea ante el Aston Villa, que dejó a los de Londres en el tercer puesto de la Premier League, el DT **Enzo Maresca** se deshizo en elogios para Moisés Caicedo. En diálogo con los medios de comunicación, este resaltó sus virtudes y capacidad en la cancha.
-
-“**Moisés Caicedo lo está haciendo fantástico. Estamos felices especialmente porque, ante que nada, es un chico fantástico y muy humilde. Todo lo que se le pide, él lo hace**“, señaló Maresca.
-
-Hailee Steinfeld, actriz de ‘Hawkeye’, da el “sí”
-=================================================
-
-Hailee Steinfeld está lista para comenzar un nuevo capítulo en su vida.
------------------------------------------------------------------------
-
-![Hailee Steinfeld es una actriz y cantante estadounidense de 27 años.](https://www.elcomercio.com/wp-content/uploads/2024/12/hailee-El-Comercio.jpg)
-
-La **actriz de Haweye**, **Hailee Steinfeld,** sorprendió a sus fans al anunciar su compromiso con **el _quarterback_ de la NFL, Josh Allen**.
-
-La actriz, de 27 años, aceptó la propuesta de la estrella de la NFL, de 28 años, el viernes 22 de noviembre, en una propuesta frente al agua.
-
-### Más noticias
-
-* **[La actriz de ‘Pedro el Escamoso’ decidió no combatir el cáncer cuando conoció el diagnóstico](https://www.elcomercio.com/tendencias/actriz-de-pedro-el-escamoso-cancer.html "https://www.elcomercio.com/tendencias/actriz-de-pedro-el-escamoso-cancer.html")**
-* **[Siete películas que fracasaron en taquilla y se convirtieron en obras de culto](https://www.elcomercio.com/tendencias/cine/peliculas-de-culto-cine-curiosidades.html "https://www.elcomercio.com/tendencias/cine/peliculas-de-culto-cine-curiosidades.html")** 
-
-La pareja reveló la noticia el viernes 29 de noviembre con una [publicación en Instagram](https://www.instagram.com/p/DC-FITTRHu4/?hl=en) mostrando el momento en que se comprometieron.
-
-Aunque la pareja ha mantenido su relación en un perfil bajo, su amor ha sido evidente en las pocas apariciones públicas que han hecho juntos.
-
-**Más de un año de romance entre Hailee Steinfeld y Josh Allen**
-----------------------------------------------------------------
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DC-FITTRHu4/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por Josh Allen (@joshallenqb)](https://www.instagram.com/p/DC-FITTRHu4/?utm_source=ig_embed&utm_campaign=loading)
-
-La primera vez que se los vio juntos fue en mayo de 2023. Allen confirmó su estado sentimental en agosto de 2023.
-
-Hailee Steinfeld compartió la emocionante noticia a través de sus redes sociales, donde publicó una fotografía en la que luce un deslumbrante anillo de compromiso.
-
-En la imagen, se puede ver a la feliz pareja disfrutando de un romántico momento. Junto a la fotografía, la actriz escribió un emotivo mensaje donde expresó su felicidad y agradecimiento por este nuevo comienzo.
-
-![Josh Allen, quarterback de la NFL, es la pareja de Hailee. ](https://www.elcomercio.com/wp-content/uploads/2024/12/allen-El-Comercio-1024x683.jpg)
-
-Josh Allen, quarterback de la NFL, es la pareja de Hailee.
-
-“Estoy muy emocionada de comenzar este nuevo capítulo de mi vida junto a la persona que más amo”, escribió Hailey. “No puedo esperar a construir un futuro juntos”.
-
-Por su parte, **Josh Allen** también compartió su alegría en redes sociales y le dedicó un mensaje lleno de amor a su futura esposa. “Eres todo lo que siempre he querido y más”, escribió el _quarterback_.
-
-La noticia del compromiso de Hailee Steinfeld generó revuelo en el mundo del espectáculo y el deporte. Fans de ambos han expresado sus felicitaciones y buenos deseos a la pareja.
-
-Cortes de luz en Quito este martes 3 de diciembre
-=================================================
-
-Los cortes de luz en Quito este martes 3 de diciembre van de cinco a siete horas de duración.
----------------------------------------------------------------------------------------------
-
-![Los cortes de luz en Quito este martes 3 de diciembre son definidos por la Empresa Eléctrica Quito.](https://www.elcomercio.com/wp-content/uploads/2024/12/cortes-luz-quito-martes-3-diciembre.jpg)
-
-Los **cortes de luz** en **Quito** para este **martes 3 de diciembre** de 2024 son de cinco horas para el sector residencial y hasta siete para el sector industrial.
-
-La **Empresa Eléctrica Quito (EEQ)** informó sobre la suspensión del servicio de energía eléctrica en la capital para mañana.
-
-### Más noticias:
-
-* [Ausencia de lluvias en zonas de centrales hidroeléctricas este viernes](https://www.elcomercio.com/actualidad/ecuador/ausencia-lluvias-centrales-hidroelectricas-viernes-29-noviembre.html "Ausencia de lluvias en zonas de centrales hidroeléctricas este viernes")
-* [Las lluvias en Cuenca, ¿cómo aportaron al embalse de Mazar?](https://www.elcomercio.com/actualidad/negocios/lluvias-cuenca-como-aportaron-embalse-mazar.html "Las lluvias en Cuenca, ¿cómo aportaron al embalse de Mazar?")
-
-Horarios de cortes de luz en Quito este martes 3 de diciembre
--------------------------------------------------------------
-
-La situación energética en **Ecuador** sigue siendo crítica al inicio del último mes del año.
-
-La escasez de lluvias hace que los niveles de las **centrales hidroeléctricas** sean bajos.
-
-Esto afecta la **generación eléctrica** de todo el país.
-
-La falta de diversificación de la **matriz energética** hace que la generación dependan, en su gran mayoría, de las lluvias.
-
-Mientras estas son las condiciones hidrológicas e hidroeléctricas del país, el Gobierno de **Daniel Noboa** anuncia la activación o reactivación de otros proyectos.
-
-Una unidad de la centra**l Alluriquín**, en el proyecto hidroeléctrico **Toachi-Pilatón**, inició las pruebas eléctricas, luego de pasar las mecánicas.
-
-Esto aportará con 68 MW al **Sistema Nacional Interconectado**.
-
-Además, este fin de semana llegaron los 23 motores de **generación termoeléctrica** que se instalarán en **El Salitral, Guayaquil.**
-
-Las autoridades estiman que estas unidades añadirán **80 MW** “contribuyendo a garantizar un suministro confiable y sostenible para el desarrollo del país”.
-
-Para esta semana, en **Quito**, los cortes de luz tendrán **diferentes horarios**.
-
-La mayor parte de la capital tendrá el servicio de energía eléctrica los días **jueves 5 y viernes 6 de diciembre** por las fiestas de fundación.
-
-Sin embargo, en algunos sectores **sí existirán cortes de luz** en esas fechas.
-
-Este martes, los cortes de luz en Quito son de hasta cinco horas no consecutivas para el **sector residencial**, divididas en dos franjas horarias.
-
-En el **sector industrial**, son de hasta siete horas consecutivas.
-
-A continuación, los horarios de los **cortes de luz en Quito para este martes 3 de diciembre** de 2024:
-
-* * *
-
-### Esperanza
-
-Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
-
-Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
-
-[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
-
-Bomberos atienden voraz incendio forestal en Guayaquil
-======================================================
-
-Más de 50 bomberos y 13 unidades fueron desplegadas para la atención de este incendio. El Gobierno Nacional activó recursos aéreos.
------------------------------------------------------------------------------------------------------------------------------------
-
-![El Cuerpo de Bomberos Guayaquil combate los puntos activos del incendio.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-02T141058.797.jpg)
-
-El **Cuerpo de Bomberos i**nformó sobre las acciones que se ejecutan en un **incendio forestal** registrado este lunes 2 de diciembre en **Guayaquil.**
-
-### Más noticias
-
-* [Inamhi advierte altas temperaturas y riesgo de incendios forestales](https://www.elcomercio.com/actualidad/ecuador/inamhi-advierte-altas-temperaturas-y-riesgo-de-incendios-forestales.html "Inamhi advierte altas temperaturas y riesgo de incendios forestales")
-* [Incendio forestal en Quito fue controlado luego de nueve horas de labores](https://www.elcomercio.com/actualidad/quito/incendio-forestal-quito-sofocado-bomberos.html "Incendio forestal en Quito fue controlado luego de nueve horas de labores")
-* [Incendio forestal es incontrolable en Quito](https://www.elcomercio.com/actualidad/quito/incendio-forestal-quito-bomberos-incontrolable.html "Incendio forestal es incontrolable en Quito")
-
-Incendio en la vía Perimetral
------------------------------
-
-Una alerta se activó por un **incendio** forestal de **alarma 3** en el kilómetro 33 de la **vía Perimetral**, en Guayaquil, en el sentido hacia la Costa.
-
-Para atender esta emergencia, en las primeras horas, se desplegaron **ocho unidades de combate** de los Bomberos, tres tanqueros, un camión cisterna y una ambulancia. Además, se asignó un vehículo comando de accidentes.
-
-Sin embargo, la voracidad de las llamas obligó a las autoridades a trasladar más recursos humanos y materiales, entre ellos **120 uniformados**, 36 vehículos contraincendios y **el helicóptero Arpia 1 de las Fuerzas Armadas**.
-
-> [#Guayaquil](https://twitter.com/hashtag/Guayaquil?src=hash&ref_src=twsrc%5Etfw)  
-> El Gobierno Nacional a través de [@Riesgos\_Ec](https://twitter.com/Riesgos_Ec?ref_src=twsrc%5Etfw) ha realizado la activación del recurso aéreo para apoyar en la liquidación del incendio que se encuentra activo. [pic.twitter.com/GKBT07BAPS](https://t.co/GKBT07BAPS)
-> 
-> — Riesgos Ecuador (@Riesgos\_Ec) [December 2, 2024](https://twitter.com/Riesgos_Ec/status/1863641107436802485?ref_src=twsrc%5Etfw)
-
-39 hectáreas de vegetación fueron consumidas
---------------------------------------------
-
-Hasta las 16:30 de este lunes, se han realizado 12 descargas con un total de 12 000 litros de agua en la zona.
-
-La Secretaría de Riesgos confirmó que el fuego en la vía Perimetral consumió al menos **39 hectáreas de vegetación** seca.
-
-Sobre la **posible causa**, la entidad indicó que las primeras investigaciones presumen que el incendio forestal comenzó tras un **cortocircuito** en los cables de energía eléctrica que alimentan las repetidoras en la zona.
-
-Los bomberos se encuentran en el sitio realizando labores de **contención del fuego** para evitar la propagación de las llamas a otras áreas del sitio.
-
-En el combate de este **incendio forestal** trabajan el Cuerpo de Bomberos Guayaquil, el GAD cantonal, Directora Zonal y técnicos de la [Secretaría de Riesgos](https://es.wikipedia.org/wiki/Guayaquil "https://es.wikipedia.org/wiki/Guayaquil").
-
-El Grupo Técnico de Operaciones con RPAS, junto a una **Unidad del Comando de Incidentes** evalúa el sector y realiza sobrevuelos para identificar focos activos.
-
-El ministro de Transporte, **Roberto Luque**, y la ministra de Ambiente, **Inés Manzano**, se encuentran en el Puesto de Mando Unificado para coordinar las acciones que permitan controlar este incendio.
-
-> Informamos: [pic.twitter.com/tQcdGoqI7i](https://t.co/tQcdGoqI7i)
-> 
-> — Segura EP (@segura\_ep) [December 2, 2024](https://twitter.com/segura_ep/status/1863683583761678646?ref_src=twsrc%5Etfw)
-
-Inamhi advierte condiciones favorables a incendios forestales
--------------------------------------------------------------
-
-El Inamhi emitió la **advertencia meteorológica N° 65** que alerta sobre el **incremento de temperatura** y radiación ultravioleta, con mayor énfasis el 2 y 3 de diciembre.
-
-Las altas temperaturas, vientos y vegetación seca constituyen **condiciones favorables** para la formación y propagación de **incendios forestales.** Ten precaución y no enciendas chispas ni realices quemas de ningún tipo.
-
-> [#AdvertenciaMeteorologicaNº65](https://twitter.com/hashtag/AdvertenciaMeteorologicaN%C2%BA65?src=hash&ref_src=twsrc%5Etfw)|Entre el 30 de noviembre y el 03 de diciembre incrementará la Temperaturas y Radiación Ultravioleta durante el día en gran parte del país, mayor énfasis del 1 al 3 de diciembre. [pic.twitter.com/zbQQjNwph6](https://t.co/zbQQjNwph6)
-> 
-> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [November 30, 2024](https://twitter.com/inamhi_ec/status/1862852995873976761?ref_src=twsrc%5Etfw)
-
-Las **altas temperaturas** afectarán con más intensidad el Litoral y la Amazonía, así como algunas provincias del Callejón Interandino, sobre todo en horas de la mañana.
-
-* * *
-
-### Esperanza
-
-Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
-
-Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
-
-[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
