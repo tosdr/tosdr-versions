@@ -295,9 +295,9 @@ Download the FREE Loop app now.
 
 [My Account](https://www.loophome.app/)
 
-[\[email protected\]](https://loop.homes/cdn-cgi/l/email-protection)
-
 [**Sign Up for FREE**](https://www.loophome.app/signup/)
+
+[Contact us](#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjMxOSIsInRvZ2dsZSI6ZmFsc2V9)
 
 ### Follow us
 
@@ -347,9 +347,9 @@ Subscribe to our solar newsletter for expert guidance on all things solar power.
 
 [My Account](https://www.loophome.app/)
 
-[\[email protected\]](https://loop.homes/cdn-cgi/l/email-protection)
-
 [**Sign Up for FREE**](https://www.loophome.app/signup/)
+
+[Contact us](#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjMxOSIsInRvZ2dsZSI6ZmFsc2V9)
 
 ### Follow us
 
