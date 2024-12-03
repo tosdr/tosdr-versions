@@ -147,6 +147,10 @@ No related posts.
 
 #### Recently Added Sources or Pages
 
+* [WTIP – NPR – Grand Marais – Bias and Credibility](https://mediabiasfactcheck.com/wtip-npr-grand-marais-bias/)
+    
+    December 3, 2024
+    
 * [Voz Media – Bias and Credibility](https://mediabiasfactcheck.com/voz-media-bias-and-credibility/)
     
     December 3, 2024
@@ -175,13 +179,13 @@ No related posts.
     
     December 2, 2024
     
-* [JohnStossel.com – Bias and Credibility](https://mediabiasfactcheck.com/johnstossel-com-bias-and-credibility/)
-    
-    December 1, 2024
-    
 
 #### Recently Updated Pages
 
+* [Left-Center Bias](https://mediabiasfactcheck.com/leftcenter/ "View Left-Center Bias") - December 3, 2024
+    
+* [WTIP – NPR – Grand Marais – Bias and Credibility](https://mediabiasfactcheck.com/wtip-npr-grand-marais-bias/ "View WTIP – NPR – Grand Marais – Bias and Credibility") - December 3, 2024
+    
 * [Minnesota Public Radio (MPR) – Bias and Credibility](https://mediabiasfactcheck.com/minnesota-public-radio-mpr/ "View Minnesota Public Radio (MPR) – Bias and Credibility") - December 3, 2024
     
 * [Right Bias](https://mediabiasfactcheck.com/right/ "View Right Bias") - December 3, 2024
@@ -198,23 +202,19 @@ No related posts.
     
 * [The Hill – Bias and Credibility](https://mediabiasfactcheck.com/the-hill/ "View The Hill – Bias and Credibility") - December 2, 2024
     
-* [Daily Mail – Bias and Credibility](https://mediabiasfactcheck.com/daily-mail/ "View Daily Mail – Bias and Credibility") - December 2, 2024
-    
-* [New York Times – Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/ "View New York Times – Bias and Credibility") - December 2, 2024
-    
 
 #### Today’s Top Page Views
 
 * [Media Bias/Fact Check News](https://mediabiasfactcheck.com/)
-* [Least Biased](https://mediabiasfactcheck.com/center/)
 * [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
+* [Least Biased](https://mediabiasfactcheck.com/center/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
 * [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
 * [BBC - Bias and Credibility](https://mediabiasfactcheck.com/bbc/)
 * [The Guardian - Bias and Credibility](https://mediabiasfactcheck.com/the-guardian/)
-* [MBFC's Daily Vetted Fact Checks for 12/02/2024](https://mediabiasfactcheck.com/2024/12/02/mbfcs-daily-vetted-fact-checks-for-12-02-2024/)
 * [Search](https://mediabiasfactcheck.com/search/)
+* [Associated Press (AP News) - Bias and Credibility](https://mediabiasfactcheck.com/associated-press/)
 
 #### Subscribe via Email
 
