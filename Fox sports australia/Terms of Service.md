@@ -48,9 +48,11 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250502)
 * [One-Day Cup
     
+    QLD won by 56 runs (DLS)
+    
     |     |     |
     | --- | --- |
-    | TAS | 1 /44 |
+    | TAS | 281 |
     | QLD | 6 /319 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODD2024-250114)
