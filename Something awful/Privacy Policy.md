@@ -205,29 +205,28 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Nintendo Forums, Mad Philosophers, and Snafu](https://www.somethingawful.com/weekend-web/nintendo-forums-mad/1/)
-* [A Video Collage of the Absurdity of Life](https://www.somethingawful.com/comedy-goldmine/veda-2012-youtube/1/)
-* [25 Other Incorrect Assumptions from Americans](https://www.somethingawful.com/news/mistaken-american-assumptions/)
-* [CONEX Convict Connections: "Approaching Storm"](https://www.somethingawful.com/news/conex-approaching-storm/1/)
-* [Historical Inaccuracies](https://www.somethingawful.com/photoshop-phriday/historical-inaccuracies/1/)
+* [The 10 Reasons We Will Never Review F.A.T.A.L.](https://www.somethingawful.com/dungeons-and-dragons/fatal-worst-rpg/1/)
+* [Belle's Quest](https://www.somethingawful.com/rom-pit/belles-quest/)
+* [Help me get to work, Part 2](https://www.somethingawful.com/comedy-goldmine/help-me-get-2/1/)
+* [Muppets Most Wanted; Divergent; Nymphomaniac: Volume II](https://www.somethingawful.com/current-movie-reviews/muppets-wanted-divergent/1/)
+* [Blue Stripe - The Life and Times of a Dalek Slave](https://www.somethingawful.com/news/dalek-doctor-who/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/cd_action.gif) [Did Somebody Shoot My Car?](http://forums.somethingawful.com/showthread.php?threadid=4076669 "Did Somebody Shoot My Car?")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/unfunny.png) [I made up some terrible jokes!](http://forums.somethingawful.com/showthread.php?threadid=4076679 "I made up some terrible jokes!")
-* ![](https://fi.somethingawful.com/forums/posticons/byob-grumpy.gif) [What do I get my teenage kids for Christmas?](http://forums.somethingawful.com/showthread.php?threadid=4076684 "What do I get my teenage kids for Christmas?")
 * ![](https://fi.somethingawful.com/forums/posticons/tfr-box.gif) [2025 Celebrity Deadpool](http://forums.somethingawful.com/showthread.php?threadid=4076710 "2025 Celebrity Deadpool")
 * ![](https://fi.somethingawful.com/forums/posticons/tfr-box.gif) [Which emojis should they add (or remove)?](http://forums.somethingawful.com/showthread.php?threadid=4076694 "Which emojis should they add (or remove)?")
 * ![](https://fi.somethingawful.com/forums/posticons/byob-shocking.gif) [There's this weird little forum advertising here](http://forums.somethingawful.com/showthread.php?threadid=4076689 "There's this weird little forum advertising here")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/unfunny.png) [Can we please have a moment of silence for](http://forums.somethingawful.com/showthread.php?threadid=4076739 "Can we please have a moment of silence for")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-grumpy.gif) [What do I get my teenage kids for Christmas?](http://forums.somethingawful.com/showthread.php?threadid=4076684 "What do I get my teenage kids for Christmas?")
 
 ### Random Articles
 
-* [Welcome to HolLee Co.](https://www.somethingawful.com/awful-links/awful-link-540/)
-* [The Internet Discount Barn: Winter SALE!](https://www.somethingawful.com/news/internet-discount-barn4/1/)
-* [Hot Furs](https://www.somethingawful.com/awful-links/awful-link-2020/)
-* [The State of The Internet Article](https://www.somethingawful.com/news/state-internet-article/)
-* [Conjoined Dreams](https://www.somethingawful.com/awful-links/awful-link-1933/)
+* [Randomly Generated Video Games! (Part Two of Two)](https://www.somethingawful.com/photoshop-phriday/randomly-generated-games2/1/)
+* [Water, Water, Everywhere](https://www.somethingawful.com/news/water-water-everywhere/)
+* [The Christian Gallery - Baby Butcher Cams](https://www.somethingawful.com/awful-links/awful-link-982/)
+* [The Irate Ghost Hunter](https://www.somethingawful.com/webcam-ward/irateghosts/)
+* [Oldboy; Homefront; Frozen; Philomena](https://www.somethingawful.com/current-movie-reviews/oldboy-homefront-frozen/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
