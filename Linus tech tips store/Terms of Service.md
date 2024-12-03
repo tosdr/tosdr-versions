@@ -1,9 +1,3 @@
-Our site uses cookies to ensure you get the best experience. By continuing to use our site or by clicking 'Accept & Dismiss', you accept our use of cookies. View our [Privacy Policy](https://www.lttstore.com/pages/privacy-policy) for more information.
-
-By clicking 'Accept' you agree to our use of [cookies](https://www.lttstore.com/pages/privacy-policy)
-
-Accept & Dismiss
-
 SPECIAL HOLIDAY OFFER
 
 ### We have a special deal for you this BFCM
@@ -133,6 +127,10 @@ Sign in through
  [* ![](//www.lttstore.com/cdn/shop/t/130/assets/shopify-logo.svg?v=182554083611724108241732308947) Shopify](https://www.lttstore.com/account/login) [* ![](//www.lttstore.com/cdn/shop/t/130/assets/floatplane-logo-notext.svg?v=135174765184720699891732308947) Floatplane](https://floatplane.com/channel/linustechtips/shopify/login?redirect=https://www.lttstore.com)
 
 [Cart](https://www.lttstore.com/cart)
+
+![](//www.lttstore.com/cdn/shop/t/130/assets/gradient-ellipse3.svg?v=137914502626707376751732308947) ![](//www.lttstore.com/cdn/shop/t/130/assets/gradient-ellipse1.svg?v=132588333988297876451732308947) ![](//www.lttstore.com/cdn/shop/t/130/assets/gradient-ellipse2.svg?v=80077939204478836651732308947) ![](//www.lttstore.com/cdn/shop/t/130/assets/gradient-rectangle1.svg?v=165680246736933959031732308947)
+
+Ride a bike
 
  
 
