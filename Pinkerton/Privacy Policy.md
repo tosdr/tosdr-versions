@@ -114,15 +114,15 @@ Read our privacy policy to better understand our information sharing practices a
 Privacy Policy
 --------------
 
-Last updated: January 19, 2024
+Last updated: November 20, 2024
 
-[Click here](#california) to go directly to California Investigative Consumer Reports Privacy Notice.
+_[Click here](https://www.pinkerton.com/privacy-policy#california) to go directly to California Investigative Consumer Reports Privacy Notice_
 
 **IMPORTANT NOTE:** Pinkerton complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. Pinkerton has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF. Pinkerton has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) Program, and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.dataprivacyframework.gov%2F&data=05%7C02%7Cchristina.boone%40pinkerton.com%7C78d2714b65ad45fa387908dbfcbe2fa9%7Cfb0af7d18a8348bc8d2dcd92034c79d4%7C0%7C0%7C638381666077505836%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=37WNwVbbjQ%2FCJxSA3%2BC77toLXWv%2BikIS70ynlaFSAF0%3D&reserved=0)
 
 ### Scope of this Policy
 
-Pinkerton Consulting and Investigations, Inc. (“Pinkerton”) has created this privacy policy in order to describe how we collect, use, maintain, share and protect your personal information when you use our website,  [www.pinkerton.com](https://www.pinkerton.com/) (hereinafter “Website” or “Site”) in connection with our employment screening services, security risk management services, investigations, protective security, response services and intelligence services. This privacy policy applies solely to information collected when you visit our Website, except where stated otherwise.
+Pinkerton Consulting and Investigations, Inc. (“Pinkerton”) has created this privacy policy in order to describe how we collect, use, maintain, share and protect your personal information when you use our website, [www.pinkerton.com](https://www.pinkerton.com/) (hereinafter “Website” or “Site”) in connection with our employment screening services, security risk management services, investigations, protective security, response services and intelligence services. This privacy policy applies solely to information collected when you visit our Website, except where stated otherwise.
 
 This policy will describe the following:
 
@@ -153,7 +153,7 @@ Personally identifiable information (PII or “personal data”) is any informat
 * **Online Questions or Requests** (which may be collected through our Site or offline).  When you are requesting materials or information from Pinkerton, we may collect your name, job title, address, email address, phone number, IP address, company name, country/state of residence, photocopy of your ID and other PII, as well as professional interests and the reasons why you are requesting the Pinkerton services or products.
 * **Job Applicants**. When you apply for employment with Pinkerton, we will collect your name, email address, country of residence, physical address, cell phone number and any information you include in your resume which you upload through the Site.
 * **Employment Screening Client Login**. When you use the client log-in portal for background checks, drug testing, or electronic I-9 completion, you will be sent to our vendors’ system and webpage where they will collect login information such as account, username and/or password in order to access your account and perform the requested services.
-* **Background Screening Services** (which may be collected through our Site or offline). When your employer or landlord requests a background check, Pinkerton may collect your PII both online and offline to process the request. 
+* **Background Screening Services** (which may be collected through our Site or offline). When your employer or landlord requests a background check, Pinkerton may collect your PII both online and offline to process the request.
 * **Blog, Insights, Newsletters, Case Studies, and White Papers**. When you subscribe to our communications, we will collect your email address.
 * **Global Alliance Membership**. When you sign up to become a Pinkerton contractor, we will collect your email address and IP address. If you apply to become a Pinkerton contractor, we will also need to collect your name, company name, job title, address, email address, phone number, IP address, country/state of residence, and other PII.
 * **Billing Information** (which may be collected through our Site or offline). If you purchase our services you may need to provide Pinkerton with payment and billing information, such as your credit card details and billing address.
@@ -224,8 +224,10 @@ Pinkerton retains personal information as needed to provide you services or prod
 
 ### Security and Confidentiality
 
-Pinkerton strives to protect personal information that we collect, maintain and disclose through the use of appropriate and reasonable administrative, physical and technical safeguards. For instance, our products and/or services online are transmitted through a secure sockets layer (SSL) transmission, which is a protocol for establishing a secure connection for transmission of your personal information. Further, we have security protocols and measures in place to ensure confidentiality of PII and to protect the PII we maintain about you from unauthorized access or alteration as well as unlawful disclosure. These measures include internal and external firewalls, physical security and technological security measures, as well as encryption of certain information and password protection for account information. Our security program is designed to: (1) ensure the security and confidentiality of personal information; (2) protect against any anticipated threats or hazards to the security or integrity of the information; and (3) protect against unauthorized access, use, alteration, or unlawful disclosure of the information that could result in substantial harm or inconvenience to any individual. In the course of business, Pinkerton may collect or ask that you disclose your Social Security Number. To the extent practicable, Pinkerton protects the confidentiality of all information we collect, including Social Security Numbers. Accordingly, we prohibit the unlawful disclosure of personal information, including Social Security Numbers, and limit access to same. We dispose of such information by taking reasonable measures to protect against unauthorized access to or use of the information.  
-  
+Pinkerton strives to protect personal information that we collect, maintain and disclose through the use of appropriate and reasonable administrative, physical and technical safeguards. For instance, our products and/or services online are transmitted through a secure sockets layer (SSL) transmission, which is a protocol for establishing a secure connection for transmission of your personal information. Further, we have security protocols and measures in place to ensure confidentiality of PII and to protect the PII we maintain about you from unauthorized access or alteration as well as unlawful disclosure. These measures include internal and external firewalls, physical security and technological security measures, as well as encryption of certain information and password protection for account information.
+
+Our security program is designed to: (1) ensure the security and confidentiality of personal information; (2) protect against any anticipated threats or hazards to the security or integrity of the information; and (3) protect against unauthorized access, use, alteration, or unlawful disclosure of the information that could result in substantial harm or inconvenience to any individual. In the course of business, Pinkerton may collect or ask that you disclose your Social Security Number. To the extent practicable, Pinkerton protects the confidentiality of all information we collect, including Social Security Numbers. Accordingly, we prohibit the unlawful disclosure of personal information, including Social Security Numbers, and limit access to same. We dispose of such information by taking reasonable measures to protect against unauthorized access to or use of the information.
+
  **Onward Third Party Transfer Liability:**  Pinkerton retains the responsibility for the processing of personal information it receives under the DPF Principles and any subsequent transfers to a third party acting as an agent on our behalf. Pinkerton remains liable under the DPF Principles if its agent processes such personal information in a manner inconsistent with the DPF Principles, unless the organization proves that it is not responsible for the event giving rise to the damage.
 
 ### Point of Contact
@@ -242,11 +244,13 @@ If you have any questions or comments about Pinkerton’s privacy policy or our 
 
 **European Union (“EU”) Data Subjects** — to assert [Your Rights](https://www.pinkerton.com/privacy-policy#yourrights) (as described in the Your Rights section) under the General Data Protection Regulation (GDPR) contact: [GDPRSubjectAccessRequest@pinkerton.com](mailto:GDPRSubjectAccessRequest@pinkerton.com)
 
+In compliance with the EU-U.S. DPF, Pinkerton commits to cooperate and comply respectively with the advice of the panel established by the EU data protection authorities (DPAs) with regard to unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF.
+
 or
 
-Your EU Contact: Kyle Dukes, Global Director, Information Systems & Technology — by sending an email to: [GDPR.EU@pinkerton.com](mailto:GDPR.EU@pinkerton.com).
+Your EU Contact: Kyle Dukes, Global Director, Information Systems & Technology – by sending an email to: [GDPR.EU@pinkerton.com](mailto:GDPR.EU@pinkerton.com).
 
-**U.S. Consumers** — to assert your rights under the Fair Credit Reporting Act (15 U.S.C. § 1681 et seq.) (“FCRA”) and U.S.-based state consumer reporting laws contact: Legal.Department@pinkerton.com
+**U.S. Consumers** — to assert your rights under the Fair Credit Reporting Act (15 U.S.C. § 1681 et seq.) (“FCRA”) and U.S.-based state consumer reporting laws contact: [Legal.Department@pinkerton.com](mailto:Legal.Department@pinkerton.com)
 
 Additional Remedies: You may have a right to arbitrate certain claims as set forth in Annex I of the DPF Principles, provided that you have invoked binding arbitration by delivering notice to Pinkerton and following the procedures and subject to conditions set forth in Annex I of Principles
 
@@ -274,13 +278,13 @@ To obtain additional information about Pinkerton’s privacy practices and polic
 
 You have certain rights if you reside in California under the California Consumer Privacy Act and California Privacy Rights Act with respect to Personally Identifiable Information Pinkerton collects about you. Specifically, you have the:
 
-* Right to Know
-* Right to Request Deletion
-* Right to Correct Inaccurate Personal Information
-* Right to Request More Information About the Personal Information Collected About You
-* Right to Request More Information About the Sale and Disclosure of Your Personal Information
-* Right to Opt Out of the Sale or Sharing of Your Personal Information
-* Right to Limit Use and Disclosure of Sensitive Personal Information
+* **Right to Know**
+* **Right to Request Deletion**
+* **Right to Correct Inaccurate Personal Information**
+* **Right to Request More Information About the Personal Information Collected About You**
+* **Right to Request More Information About the Sale and Disclosure of Your Personal Information**
+* **Right to Opt Out of the Sale or Sharing of Your Personal Information**
+* **Right to Limit Use and Disclosure of Sensitive Personal Information**
 
 Both the California Consumer Privacy Act and the California Privacy Rights Act prohibit discriminating against you for exercising your rights listed above.
 
@@ -316,7 +320,7 @@ We use personal data for a number of legitimate interests, including to provide 
 * **Administering the Relationship with our Clients and Prospective Clients.** Pinkerton processes personal data to administer our relationship with our customers and prospective customers and to provide employment screening services, security risk management services, investigations, protective security, response services and intelligence services. This routinely includes contacting you to discuss matters for which you have engaged us or those for which you may engage us to handle on your behalf. This also includes due diligence, fraud prevention, tracking of mobile device location, service processing payments, accounting, auditing, billing and collection, and support services. Depending upon the specific legal or other services we reengaged to provide, this processing is undertaken to carry out our contract with you or in anticipation of entering into such a contract. 
 * **Administering the Relationship with our Professional Contacts and Business Partners.** Pinkerton processes personal data to maintain professional relationships and to establish, administer and maintain relationships with our business partners. This includes communicating with you and administering our relationships and, in the case of our business partners, administering our business relationships including due diligence, fraud prevention, processing payments, accounting, auditing, billing and collection, and support services. Depending on the circumstances, this processing is done on the basis of our legitimate interests or, in the case of contractual business partners, this processing is undertaken to carry out our contract with you or in anticipation of entering into such a contract. Processing of personal data about our professional contacts is done pursuant to our legitimate business interest.
 * **Compliance with Legal Obligations.** We also process your personal data in order to comply with our legal and regulatory obligations. We also process personal data to establish, exercise and defend our legal rights and any legal proceedings which may arise; and to prevent, detect and respond to actual or potential fraud or other illegal activities.
-* **Visits to our Website.** If you visit our Site, we collect data about your visit as well as personal data that you choose to provide through our Website pursuant to our legitimate interests. We may use your personal data to provide you with marketing as permitted by law.
+* **Visits to our Website.** If you visit our Site, we collect data about your visit as well as personal data that you choose to provide through our Website pursuant to our legitimate interests. We may use your personal data to provide you with [marketing](https://www.pinkerton.com/privacy-policy#choice) as permitted by law.
 * **Newsletters, Blogs, White Papers and Similar Communications.** Pinkerton also may process personal data to send you information about new developments or Pinkerton activities in the form of newsletters, event invitations, alerts, blog postings, or other similar communications. Depending upon the nature of the communication, these messages may be sent to you with your consent or pursuant to our legitimate interests. If you do not wish to receive such communications, you can opt-out of receiving future messages by email by opting out using the link in the message or by contacting the Point of Contact provided in this policy.
 
 ### Your Rights — EU and UK Data Subjects
@@ -345,6 +349,12 @@ In compliance with the EU-U.S. DPF and the Swiss-U.S. DPF, Pinkerton commits to 
 In compliance with the EU-U.S. DPF and the Swiss-U.S. DPF, Pinkerton commits to cooperate and comply respectively with the advice of the panel established by the EU data protection authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the Swiss-U.S. DPF.
 
 Pinkerton utilizes BBB National Programs for dispute resolutions.
+
+Pinkerton has further committed to refer unresolved DPF Principles-related complaints to a U.S.-based independent dispute resolution mechanism, BBB NATIONAL PROGRAMS. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by us, please visit [www.bbbprograms.org/dpf-complaints](https://eur01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.bbbprograms.org%2Fdpf-complaints&data=05%7C02%7Cadam.bloomenstein%40pinkerton.com%7C9cac4765d755471b03d408dd099cf49f%7Cfb0af7d18a8348bc8d2dcd92034c79d4%7C0%7C0%7C638677292009891674%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=CioiHlsl9vHE3sVCweDpWFTkoC5RJpuvQsd0Wl%2BHR6s%3D&reserved=0) for more information and to file a complaint. This service is provided free of charge to you. 
+
+If your DPF complaint cannot be resolved through the above channels, under certain conditions, you may invoke binding arbitration for some residual claims not resolved by other redress mechanisms.
+
+See [https://www.dataprivacyframework.gov/framework-article/ANNEX-I-introduction](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.dataprivacyframework.gov%2Fframework-article%2FANNEX-I-introduction&data=05%7C02%7Cadam.bloomenstein%40pinkerton.com%7C9cac4765d755471b03d408dd099cf49f%7Cfb0af7d18a8348bc8d2dcd92034c79d4%7C0%7C0%7C638677292009912515%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=7QjvYylr7%2FzEMn%2FPQSgh1w52bZd0OH7Jqz80HQW%2FTtM%3D&reserved=0) for more information on this process.
 
 * Offerings
     
