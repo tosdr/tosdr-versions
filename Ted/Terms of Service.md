@@ -48,7 +48,9 @@
     
     Recommend speakers, TED Prize recipients, Fellows and more](https://www.ted.com/participate/nominate)[Organize a local TEDx Event
     
-    Rules and resources to help you plan a local TEDx event](https://www.ted.com/participate/organize-a-local-tedx-event)[Translate
+    Rules and resources to help you plan a local TEDx event](https://www.ted.com/participate/organize-a-local-tedx-event)[TED-Ed
+    
+    Award-winning educational content and programs](https://www.ted.com/about/programs/ted-ed)[Translate
     
     Bring TED to the non-English speaking world](https://www.ted.com/participate/translate)[TED Fellows
     
@@ -230,7 +232,7 @@ Explore
     
 * [TED Fellows](https://fellows.ted.com/)
     
-* [TED Ed](https://www.ted.com/about/programs-initiatives/ted-ed)
+* [TED Ed](https://www.ted.com/about/programs/ted-ed)
     
 * [TED Translators](https://www.ted.com/about/programs-initiatives/ted-translators)
     
