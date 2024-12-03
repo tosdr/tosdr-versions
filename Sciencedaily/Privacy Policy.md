@@ -208,16 +208,16 @@ this hour
 
 * * *
 
+* [AI Could Automate Genomics Research](https://www.sciencedaily.com/releases/2024/12/241202123918.htm)
+* [Self-Assembling Electronics](https://www.sciencedaily.com/releases/2024/12/241202123718.htm)
+* [Measuring Brainwaves: Temporary Tattoo On Scalp](https://www.sciencedaily.com/releases/2024/12/241202123531.htm)
+* [Primordial Black Holes May Be Hiding On Earth](https://www.sciencedaily.com/releases/2024/12/241202123658.htm)
+* [Venus Likely Has Never Been Habitable](https://www.sciencedaily.com/releases/2024/12/241202123421.htm)
+* [Smallest Walking Robot](https://www.sciencedaily.com/releases/2024/12/241202122050.htm)
 * [Warming: Coral Adaptation Unlikely to Keep Pace](https://www.sciencedaily.com/releases/2024/11/241128200737.htm)
 * [Twice-Yearly Shot: 96% HIV Prevention](https://www.sciencedaily.com/releases/2024/11/241127191937.htm)
 * [Fossil Footprints: Ancient Hominins as Neighbors](https://www.sciencedaily.com/releases/2024/11/241128200732.htm)
 * [Mass Elephant Die-Off: Climate Change](https://www.sciencedaily.com/releases/2024/11/241129120944.htm)
-* [New Treatment for Asthma Attacks](https://www.sciencedaily.com/releases/2024/11/241127191934.htm)
-* [Early N. Americans Made Needles from Fur-Bearers](https://www.sciencedaily.com/releases/2024/11/241127165731.htm)
-* [VR Goes Inside the ‘Swat Team’](https://www.sciencedaily.com/releases/2024/11/241126135834.htm)
-* [Clues to Dinosaur Success Story: Fossil Dung](https://www.sciencedaily.com/releases/2024/11/241127135506.htm)
-* [Nanorobot Hand Made of DNA Grabs Viruses](https://www.sciencedaily.com/releases/2024/11/241127165721.htm)
-* [Unexplained Heat-Wave 'Hotspots'](https://www.sciencedaily.com/releases/2024/11/241126145331.htm)
 
 Trending Topics
 ---------------
@@ -228,25 +228,25 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Chronic Illness](https://www.sciencedaily.com/news/health_medicine/chronic_illness/)
-
 [Hormone Disorders](https://www.sciencedaily.com/news/health_medicine/hormone_disorders/)
 
-[Kidney Disease](https://www.sciencedaily.com/news/health_medicine/kidney_disease/)
+[Caregiving](https://www.sciencedaily.com/news/mind_brain/caregiving/)
+
+[Brain Injury](https://www.sciencedaily.com/news/mind_brain/brain_injury/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
+[Quantum Physics](https://www.sciencedaily.com/news/matter_energy/quantum_physics/)
+
+[Graphene](https://www.sciencedaily.com/news/matter_energy/graphene/)
+
 [Nanotechnology](https://www.sciencedaily.com/news/matter_energy/nanotechnology/)
-
-[Software](https://www.sciencedaily.com/news/computers_math/software/)
-
-[Dark Matter](https://www.sciencedaily.com/news/space_time/dark_matter/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
 [Global Warming](https://www.sciencedaily.com/news/earth_climate/global_warming/)
 
-[Fish](https://www.sciencedaily.com/news/plants_animals/fish/)
+[Climate](https://www.sciencedaily.com/news/earth_climate/climate/)
 
 [Ice Ages](https://www.sciencedaily.com/news/earth_climate/ice_ages/)
 
