@@ -945,7 +945,6 @@ Payment methods
 * American Express
 * Diners Club
 * Discover
-* Meta Pay
 * Google Pay
 * Mastercard
 * PayPal
