@@ -185,14 +185,14 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 ###### LATEST VIDEO
 
 * [**Trailer Without Arrows** | Independent Lens](https://video.nhpbs.org/video/trailer-without-arrows-70vamb?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**December 2, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/december-2-2024-pbs-news-hour-full-episode-1733115601?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**The precedent Biden's pardon of his son could set** | PBS News Hour](https://video.nhpbs.org/video/presidential-pardon-1733175876?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**2025 Honda Pilot Black Edition & 2024 Chevrolet Corvette E-Ray** | MotorWeek](https://video.nhpbs.org/video/2025-honda-pilot-black-edition-2024-chevrolet-corvette-e-ray-2deebx?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**What to expect from Trump's planned federal overhaul** | Washington Week with The Atlantic](https://video.nhpbs.org/video/what-to-expect-from-trumps-planned-federal-overhaul-4c76rq?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Cornel West & Robert George** | Firing Line](https://video.nhpbs.org/video/cornel-west-robert-george-vkwmab?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**November 27, 2024** | Amanpour and Company](https://video.nhpbs.org/video/november-27-2024-aikgqf?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Food Insecurity** | The State We're In](https://video.nhpbs.org/video/food-insecurity-pzm5qk?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Moana 2** | Flicks](https://video.nhpbs.org/video/moana-2-bmpk9a?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Holiday Stress: How Men and Women Differ** | To The Contrary](https://video.nhpbs.org/video/holiday-stress-how-men-and-women-differ-vxck4x?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**"Breakdown in Maine" - Preview** | FRONTLINE](https://video.nhpbs.org/video/breakdown-in-maine-preview?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
