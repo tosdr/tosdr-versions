@@ -273,7 +273,7 @@ SELECT
 
 Beauty Deal - Burdock and Neem Healthy Scalp Shampoo - 32oz
 
-SELECT Buy for $25
+SOLD OUT Buy for $25
 
 ![](https://www.100percentpure.com/s/files/1/0648/1955/files/1HCSBNHS32OZ_Burdock_Neem_Healthy_Scalp_Shampoo_32oz_Primary_1600x_0b1a9371-d99e-4357-992f-6c657e4c2de4.webp?em-origin=cdn.shopify.com)
 
@@ -281,7 +281,7 @@ Beauty Deal - Burdock and Neem Healthy Scalp Shampoo - 32oz
 
 Purifying formula unclogs pores, stimulates circulation, and alleviates dryness, itching, and flaking. With added hydration for healthier scalp and hair.
 
-SELECT
+SOLD OUT
 
 [![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD1FMVCSER_Beauty_Deal_2022-Vitamin_C_Serum_Primary.jpg?em-origin=cdn.shopify.com)](#product-6838963011662)
 
@@ -737,9 +737,9 @@ SELECT
 
 4630 reviews (4630)
 
-$16.00 $29.00
+$23.00 $42.00
 
-1 oz - $29 0.3 oz - $16
+1 oz - $42 0.3 oz - $23
 
 1 oz
 
@@ -763,9 +763,9 @@ CHOOSE Size
 
 1049 reviews (1049)
 
-$64.00
+$92.00
 
-Default Title - $64
+Default Title - $92
 
 ADD TO TOTE
 
@@ -781,9 +781,9 @@ ADD TO TOTE
 
 101 reviews (101)
 
-$72.00
+$104.00
 
-1 oz - $72
+1 oz - $104
 
 ADD TO TOTE
 
@@ -795,9 +795,9 @@ ADD TO TOTE
 
 2417 reviews (2417)
 
-$28.00 $28.00
+$41.00 $41.00
 
-Dark Chocolate - $28 Blackberry - $28 Black Tea - $28
+Dark Chocolate - $41 Blackberry - $41 Black Tea - $41
 
 Black Tea
 
@@ -817,9 +817,9 @@ CHOOSE Color
 
 763 reviews (763)
 
-$12.00 $26.00
+$18.00 $38.00
 
-1.7 oz - $12 8 oz - $26
+1.7 oz - $18 8 oz - $38
 
 8 oz
 
@@ -837,9 +837,9 @@ CHOOSE Size
 
 39 reviews (39)
 
-$7.00 $28.00
+$11.00 $41.00
 
-Single - $7 5 Pack - $28
+Single - $11 5 Pack - $41
 
 Single
 
@@ -857,9 +857,9 @@ CHOOSE Size
 
 375 reviews (375)
 
-$7.00
+$11.00
 
-Single - $7
+Single - $11
 
 ADD TO TOTE
 
@@ -871,9 +871,9 @@ ADD TO TOTE
 
 2029 reviews (2029)
 
-$27.00 $27.00
+$39.00 $39.00
 
-Blackest - $27 Gleaming Pewter - $27 Dark Cacao - $27
+Blackest - $39 Gleaming Pewter - $39 Dark Cacao - $39
 
 Gleaming Pewter
 
@@ -893,9 +893,9 @@ CHOOSE Color
 
 46 reviews (46)
 
-$25.00
+$36.00
 
-Default Title - $25
+Default Title - $36
 
 ADD TO TOTE
 
@@ -907,9 +907,9 @@ ADD TO TOTE
 
 370 reviews (370)
 
-$7.00 $32.00
+$11.00 $46.00
 
-Single - $7 5 Pack - $32
+Single - $11 5 Pack - $46
 
 5 Pack
 
@@ -927,9 +927,9 @@ CHOOSE Size
 
 846 reviews (846)
 
-$38.00
+$55.00
 
-Default Title - $38
+Default Title - $55
 
 ADD TO TOTE
 
@@ -943,9 +943,9 @@ ADD TO TOTE
 
 197 reviews (197)
 
-$58.00
+$84.00
 
-Default Title - $58
+Default Title - $84
 
 ADD TO TOTE
 
@@ -957,9 +957,9 @@ ADD TO TOTE
 
 297 reviews (297)
 
-$26.00
+$38.00
 
-Default Title - $26
+Default Title - $38
 
 ADD TO TOTE
 
@@ -971,9 +971,9 @@ ADD TO TOTE
 
 350 reviews (350)
 
-$26.00
+$38.00
 
-Default Title - $26
+Default Title - $38
 
 ADD TO TOTE
 
@@ -985,9 +985,9 @@ ADD TO TOTE
 
 387 reviews (387)
 
-$26.00
+$38.00
 
-Default Title - $26
+Default Title - $38
 
 ADD TO TOTE
 
@@ -999,9 +999,9 @@ ADD TO TOTE
 
 120 reviews (120)
 
-$30.00
+$44.00
 
-Default Title - $30
+Default Title - $44
 
 ADD TO TOTE
 
@@ -1013,9 +1013,9 @@ ADD TO TOTE
 
 880 reviews (880)
 
-$38.00
+$55.00
 
-Default Title - $38
+Default Title - $55
 
 ADD TO TOTE
 
@@ -1029,9 +1029,9 @@ ADD TO TOTE
 
 1574 reviews (1574)
 
-$30.00 $30.00
+$44.00 $44.00
 
-Blackberry - $30 Black Tea - $30 Dark Chocolate - $30
+Blackberry - $44 Black Tea - $44 Dark Chocolate - $44
 
 Black Tea
 
@@ -1051,9 +1051,9 @@ CHOOSE Color
 
 1136 reviews (1136)
 
-$45.00
+$65.00
 
-Default Title - $45
+Default Title - $65
 
 ADD TO TOTE
 
@@ -1067,9 +1067,9 @@ ADD TO TOTE
 
 513 reviews (513)
 
-$48.00
+$69.00
 
-Default Title - $48
+Default Title - $69
 
 ADD TO TOTE
 
@@ -1081,9 +1081,9 @@ ADD TO TOTE
 
 545 reviews (545)
 
-$52.00
+$75.00
 
-Default Title - $52
+Default Title - $75
 
 ADD TO TOTE
 
@@ -1095,9 +1095,9 @@ ADD TO TOTE
 
 59 reviews (59)
 
-$48.00
+$69.00
 
-Default Title - $48
+Default Title - $69
 
 ADD TO TOTE
 
@@ -1111,9 +1111,9 @@ ADD TO TOTE
 
 1422 reviews (1422)
 
-$58.00
+$84.00
 
-Default Title - $58
+Default Title - $84
 
 ADD TO TOTE
 
@@ -1125,9 +1125,9 @@ ADD TO TOTE
 
 189 reviews (189)
 
-$58.00
+$84.00
 
-Default Title - $58
+Default Title - $84
 
 ADD TO TOTE
 
@@ -1139,9 +1139,9 @@ ADD TO TOTE
 
 5301 reviews (5301)
 
-$28.00 $28.00
+$41.00 $41.00
 
-Blackberry - $28 Blueberry - $28 Black Tea - $28 Dark Chocolate - $28
+Blackberry - $41 Blueberry - $41 Black Tea - $41 Dark Chocolate - $41
 
 Blueberry
 
@@ -1165,9 +1165,9 @@ CHOOSE Color
 
 127 reviews (127)
 
-$55.00
+$80.00
 
-Default Title - $55
+Default Title - $80
 
 ADD TO TOTE
 
@@ -1181,9 +1181,9 @@ ADD TO TOTE
 
 84 reviews (84)
 
-$48.00
+$69.00
 
-Default Title - $48
+Default Title - $69
 
 ADD TO TOTE
 
@@ -1197,9 +1197,9 @@ ADD TO TOTE
 
 83 reviews (83)
 
-$32.00
+$46.00
 
-Default Title - $32
+Default Title - $46
 
 ADD TO TOTE
 
@@ -1211,9 +1211,9 @@ ADD TO TOTE
 
 521 reviews (521)
 
-$8.00
+$12.00
 
-Default Title - $8
+Default Title - $12
 
 ADD TO TOTE
 
@@ -1227,9 +1227,9 @@ ADD TO TOTE
 
 977 reviews (977)
 
-$7.00 $30.00
+$11.00 $44.00
 
-5 Pack - $30 Single - $7
+5 Pack - $44 Single - $11
 
 Single
 
@@ -1247,9 +1247,9 @@ CHOOSE Size
 
 759 reviews (759)
 
-$8.00
+$12.00
 
-Default Title - $8
+Default Title - $12
 
 ADD TO TOTE
 
@@ -1261,9 +1261,9 @@ ADD TO TOTE
 
 103 reviews (103)
 
-$55.00
+$80.00
 
-Default Title - $55
+Default Title - $80
 
 ADD TO TOTE
 
@@ -1275,9 +1275,9 @@ ADD TO TOTE
 
 697 reviews (697)
 
-$48.00
+$69.00
 
-Default Title - $48
+Default Title - $69
 
 ADD TO TOTE
 
@@ -1289,9 +1289,9 @@ ADD TO TOTE
 
 503 reviews (503)
 
-$8.00
+$12.00
 
-Single - $8
+Single - $12
 
 ADD TO TOTE
 
@@ -1305,9 +1305,9 @@ ADD TO TOTE
 
 464 reviews (464)
 
-$8.00
+$12.00
 
-Single - $8
+Single - $12
 
 ADD TO TOTE
 
@@ -1934,7 +1934,7 @@ Albania (ALL L) Andorra (EUR €) Austria (EUR €) Belgium (EUR €) Bosnia & H
 
 Update country/region
 
-(USD $)
+(CAD $)
 
 * [Albania (ALL L)](#)
 * [Andorra (EUR €)](#)
