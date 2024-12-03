@@ -90,6 +90,12 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
     * Recent posts in Humans
         ----------------------
         
+        * [Archaeology](https://www.sciencenews.org/topic/archaeology)
+            
+            ### [Neandertals may have built a hearth specifically to make tar](https://www.sciencenews.org/article/neandertals-hearth-used-to-make-tar)
+            
+            By [Richard Kemeny](https://www.sciencenews.org/author/richard-kemeny "Posts by Richard Kemeny")9 hours ago
+            
         * [Anthropology](https://www.sciencenews.org/topic/anthropology)
             
             ### [Footprints offer a rare look at ancient human relatives crossing paths](https://www.sciencenews.org/article/footprints-ancient-human-relatives)
@@ -101,12 +107,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [Cervical cancer deaths are plummeting among young U.S. women](https://www.sciencenews.org/article/cervical-cancer-deaths-fall-young-women)
             
             By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")November 27, 2024
-            
-        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
-            
-            ### [Sluggish proteins may underpin aging and chronic disease](https://www.sciencenews.org/article/sluggish-proteins-aging-chronic-disease)
-            
-            By [Elie Dolgin](https://www.sciencenews.org/author/elie-doglin "Posts by Elie Dolgin")November 27, 2024
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
@@ -120,23 +120,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
     * Recent posts in Life
         --------------------
         
+        * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
+            
+            ### [Electronic ‘tattoos’ offer an alternative to electrodes for brain monitoring](https://www.sciencenews.org/article/electronic-tattoos-brain-monitoring)
+            
+            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")11 hours ago
+            
         * [Animals](https://www.sciencenews.org/topic/animals)
             
             ### [Giant hornets have been sighted in Europe for the first time](https://www.sciencenews.org/article/giant-hornets-europe-first-sighting)
             
-            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")17 mins ago
+            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")14 hours ago
             
         * [Animals](https://www.sciencenews.org/topic/animals)
             
             ### [Videos capture orcas’ tricks for taking down the largest fish on Earth](https://www.sciencenews.org/article/videos-orcas-hunt-whale-sharks)
             
             By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")November 29, 2024
-            
-        * [Science & Society](https://www.sciencenews.org/topic/science-society)
-            
-            ### [This ‘hidden figure’ of entomology fought for civil rights](https://www.sciencenews.org/article/maragret-collins-entomology-termite)
-            
-            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")November 27, 2024
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
