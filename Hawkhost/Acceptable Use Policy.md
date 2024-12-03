@@ -115,11 +115,11 @@ The following are considered violations of Hawk Host AUP (acceptable use policy)
 26. Tor exit nodes are not allowed to be operated on any of our services.
 27. Accounts may not be used as file mirrors, file repositories, download hosts, or any other site/service offering file sharing which leads to excessive bandwidth usage.
 
-**Don't Miss The** Black Friday **Sale!**
+**Ready to get started?** Build your site from
 
-_$_0.90/mo
+_$_2.24/mo
 
-[GET STARTED NOW](https://my.hawkhost.com/store/shared-hosting/primary?billingcycle=biennially&promocode=bfshared2024)
+[GET STARTED NOW](https://my.hawkhost.com/store/shared-hosting/primary?billingcycle=biennially&promocode=december2024)
 
 [![](/images/icon-contact-support.webp)Contact Support](https://my.hawkhost.com/submitticket.php)
 
