@@ -8,7 +8,7 @@ Schließen
 
    
 
-![](https://i.otto.de/i/otto/BF_24_CircleFull_yellow?w=200&h=200&upscale=true)Alle Angebote![](https://i.otto.de/i/otto/BF_24_CircleFull_yellow?w=200&h=200&upscale=true)Mode![](https://i.otto.de/i/otto/BF_24_CircleFull_yellow?w=200&h=200&upscale=true)Technik![](https://i.otto.de/i/otto/BF_24_CircleFull_yellow?w=200&h=200&upscale=true)Wohnen![](https://i.otto.de/i/otto/BF_24_CircleFull_yellow?w=200&h=200&upscale=true)Baumarkt![](https://i.otto.de/i/otto/BF_24_CircleFull_yellow?w=200&h=200&upscale=true)Sport![](https://i.otto.de/i/otto/BF_24_CircleFull_yellow?w=200&h=200&upscale=true)Spielzeug![](https://i.otto.de/i/otto/BF_24_CircleFull_yellow?w=200&h=200&upscale=true)Drogerie
+![](https://i.otto.de/i/otto/BF_24_CircleFull_yellow?w=200&h=200&upscale=true)Alle Angebote![](https://i.otto.de/i/otto/BF_24_CircleFull_yellow?w=200&h=200&upscale=true)Mode![](https://i.otto.de/i/otto/BF_24_CircleFull_yellow?w=200&h=200&upscale=true)Sport
 
   
 
@@ -62,27 +62,7 @@ Mode
 
 ![](https://i.otto.de/i/otto/BF_24_CircleFull_yellow)
 
-Technik
-
-![](https://i.otto.de/i/otto/BF_24_CircleFull_yellow)
-
-Wohnen
-
-![](https://i.otto.de/i/otto/BF_24_CircleFull_yellow)
-
-Baumarkt
-
-![](https://i.otto.de/i/otto/BF_24_CircleFull_yellow)
-
 Sport
-
-![](https://i.otto.de/i/otto/BF_24_CircleFull_yellow)
-
-Spielzeug
-
-![](https://i.otto.de/i/otto/BF_24_CircleFull_yellow)
-
-Drogerie
 
 Damen-Mode![](https://i.otto.de/i/otto/cd05c6c6-8692-5b95-95c3-c221f3e2a99c/?h=200&upscale=true&w=200)
 
