@@ -1,4 +1,4 @@
-[![logo](https://ftmo.com/wp-content/uploads/2022/01/ftmo_logo.svg)](https://ftmo.com/en/)
+[![logo](https://ftmo.com/wp-content/uploads/2022/12/xmas-logo.svg)](https://ftmo.com/en/)
 
 * [How it works](#)
     * [Evaluation Process](https://ftmo.com/en/#evaluation-process)
@@ -265,7 +265,7 @@ Except where processing is necessary for entering into, or performance of, a con
 
 If you believe that we are processing your data in violation of the relevant legal regulations, you can lodge a complaint with the relevant supervisory authority. Based on our registered office, our relevant supervisory authority is The Office for Personal Data Protection with its address at Pplk. Sochora 27, Prague 7, postcode 170 00, Czech Republic, or email [\[email protected\]](https://ftmo.com/cdn-cgi/l/email-protection). More information about the Office can be found on the following website: [https://www.uoou.cz/en/](https://www.uoou.cz/en/).
 
-![logo](https://ftmo.com/wp-content/uploads/2022/01/ftmo_logo.svg)
+![logo](https://ftmo.com/wp-content/uploads/2022/12/xmas-logo.svg)
 
 Quadrio offices  
 Purkynova 2121/3, 110 00, Prague  
