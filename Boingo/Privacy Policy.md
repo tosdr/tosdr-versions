@@ -16,7 +16,6 @@
     * [Wi-Fi](https://www.boingo.com/wifi/)
 * Products
     * [Passpoint & Roaming](https://www.boingo.com/passpoint-roaming/)
-    * [Loyalty Programs](https://www.boingo.com/loyalty-solutions/)
     * [Managed Services](https://www.boingo.com/managed-services/)
     * [Tenant Services](https://www.boingo.com/tenant-services/)
     * [Edge & Cloud Computing](https://www.boingo.com/edge-cloud-computing/)
