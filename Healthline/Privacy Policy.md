@@ -38,11 +38,6 @@
         Navigating Life with Bipolar Disorder
         
         You’re not alone](https://www.healthline.com/program/navigating-life-with-bipolar-disorder)
-    * [![](https://media.post.rvohealth.io/wp-content/uploads/2024/12/navigation-icons-_mastering-your-geographic-atrophy-236x236_360.png)
-        
-        Mastering Your Geographic Atrophy (GA) Care
-        
-        Managing advanced macular degeneration](https://www.healthline.com/program/mastering-your-geographic-atrophy-care)
     * [![](https://media.post.rvohealth.io/wp-content/uploads/2024/12/navigation-icons_managing-type-2-diabetes-236x236-1.png)
         
         Managing Type 2 Diabetes
@@ -111,7 +106,7 @@
     
     * [Video Series](https://www.healthline.com/video)
     * [Pill Identifier](https://www.healthline.com/pill-identifier)
-    * [FindCare](https://www.healthline.com/find-care)
+    * [FindCare](https://care.healthline.com/find-care)
     * [Drugs A-Z](https://www.healthline.com/drugs)
     
     ### Healthline Lessons
@@ -180,6 +175,27 @@
     
 
 Subscribe
+
+[#### Nutrition](https://www.healthline.com/nutrition)
+
+* Meal Kits
+    
+    * [Overview](https://www.healthline.com/nutrition/meal-kits)
+    * [Diets](https://www.healthline.com/nutrition/meal-kits/diets)
+    * [Meal Kits](https://www.healthline.com/nutrition/meal-kits/meal-kit-reviews)
+    * [Prepared Meals](https://www.healthline.com/nutrition/meal-kits/prepared-meal-reviews)
+    * [Comparisons](https://www.healthline.com/nutrition/meal-kits/comparisons)
+    * [Grocery Delivery](https://www.healthline.com/nutrition/meal-kits/grocery-delivery)
+    
+* [Special Diets](https://www.healthline.com/nutrition/diets)
+* [Healthy Eating](https://www.healthline.com/nutrition/food-and-nutrients)
+* [Food Freedom](https://www.healthline.com/nutrition/food-freedom)
+* [Conditions](https://www.healthline.com/nutrition/nutrition-for-conditions)
+* [Feel Good Food](https://www.healthline.com/nutrition/feel-good-food)
+* [Products](https://www.healthline.com/reviews/nutrition-products)
+* [Vitamins & Supplements](https://www.healthline.com/nutrition/vitamins-and-supplements)
+* [Sustainability](https://www.healthline.com/program/the-sustainable-table)
+* [Weight Management](https://www.healthline.com/nutrition/weight-management)
 
 Privacy Policy
 ==============
