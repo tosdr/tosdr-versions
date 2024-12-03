@@ -737,9 +737,9 @@ SELECT
 
 4630 reviews (4630)
 
-$23.00 $42.00
+$16.00 $29.00
 
-1 oz - $42 0.3 oz - $23
+1 oz - $29 0.3 oz - $16
 
 1 oz
 
@@ -763,9 +763,9 @@ CHOOSE Size
 
 1049 reviews (1049)
 
-$92.00
+$64.00
 
-Default Title - $92
+Default Title - $64
 
 ADD TO TOTE
 
@@ -781,9 +781,9 @@ ADD TO TOTE
 
 101 reviews (101)
 
-$104.00
+$72.00
 
-1 oz - $104
+1 oz - $72
 
 ADD TO TOTE
 
@@ -795,9 +795,9 @@ ADD TO TOTE
 
 2417 reviews (2417)
 
-$41.00 $41.00
+$28.00 $28.00
 
-Dark Chocolate - $41 Blackberry - $41 Black Tea - $41
+Dark Chocolate - $28 Blackberry - $28 Black Tea - $28
 
 Black Tea
 
@@ -817,9 +817,9 @@ CHOOSE Color
 
 763 reviews (763)
 
-$18.00 $38.00
+$12.00 $26.00
 
-1.7 oz - $18 8 oz - $38
+1.7 oz - $12 8 oz - $26
 
 8 oz
 
@@ -837,9 +837,9 @@ CHOOSE Size
 
 39 reviews (39)
 
-$11.00 $41.00
+$7.00 $28.00
 
-Single - $11 5 Pack - $41
+Single - $7 5 Pack - $28
 
 Single
 
@@ -857,9 +857,9 @@ CHOOSE Size
 
 375 reviews (375)
 
-$11.00
+$7.00
 
-Single - $11
+Single - $7
 
 ADD TO TOTE
 
@@ -871,9 +871,9 @@ ADD TO TOTE
 
 2029 reviews (2029)
 
-$39.00 $39.00
+$27.00 $27.00
 
-Blackest - $39 Gleaming Pewter - $39 Dark Cacao - $39
+Blackest - $27 Gleaming Pewter - $27 Dark Cacao - $27
 
 Gleaming Pewter
 
@@ -893,9 +893,9 @@ CHOOSE Color
 
 46 reviews (46)
 
-$36.00
+$25.00
 
-Default Title - $36
+Default Title - $25
 
 ADD TO TOTE
 
@@ -907,9 +907,9 @@ ADD TO TOTE
 
 370 reviews (370)
 
-$11.00 $46.00
+$7.00 $32.00
 
-Single - $11 5 Pack - $46
+Single - $7 5 Pack - $32
 
 5 Pack
 
@@ -927,9 +927,9 @@ CHOOSE Size
 
 846 reviews (846)
 
-$55.00
+$38.00
 
-Default Title - $55
+Default Title - $38
 
 ADD TO TOTE
 
@@ -943,9 +943,9 @@ ADD TO TOTE
 
 197 reviews (197)
 
-$84.00
+$58.00
 
-Default Title - $84
+Default Title - $58
 
 ADD TO TOTE
 
@@ -957,9 +957,9 @@ ADD TO TOTE
 
 297 reviews (297)
 
-$38.00
+$26.00
 
-Default Title - $38
+Default Title - $26
 
 ADD TO TOTE
 
@@ -971,9 +971,9 @@ ADD TO TOTE
 
 350 reviews (350)
 
-$38.00
+$26.00
 
-Default Title - $38
+Default Title - $26
 
 ADD TO TOTE
 
@@ -985,9 +985,9 @@ ADD TO TOTE
 
 387 reviews (387)
 
-$38.00
+$26.00
 
-Default Title - $38
+Default Title - $26
 
 ADD TO TOTE
 
@@ -999,9 +999,9 @@ ADD TO TOTE
 
 120 reviews (120)
 
-$44.00
+$30.00
 
-Default Title - $44
+Default Title - $30
 
 ADD TO TOTE
 
@@ -1013,9 +1013,9 @@ ADD TO TOTE
 
 880 reviews (880)
 
-$55.00
+$38.00
 
-Default Title - $55
+Default Title - $38
 
 ADD TO TOTE
 
@@ -1029,9 +1029,9 @@ ADD TO TOTE
 
 1574 reviews (1574)
 
-$44.00 $44.00
+$30.00 $30.00
 
-Blackberry - $44 Black Tea - $44 Dark Chocolate - $44
+Blackberry - $30 Black Tea - $30 Dark Chocolate - $30
 
 Black Tea
 
@@ -1051,9 +1051,9 @@ CHOOSE Color
 
 1136 reviews (1136)
 
-$65.00
+$45.00
 
-Default Title - $65
+Default Title - $45
 
 ADD TO TOTE
 
@@ -1067,9 +1067,9 @@ ADD TO TOTE
 
 513 reviews (513)
 
-$69.00
+$48.00
 
-Default Title - $69
+Default Title - $48
 
 ADD TO TOTE
 
@@ -1081,9 +1081,9 @@ ADD TO TOTE
 
 545 reviews (545)
 
-$75.00
+$52.00
 
-Default Title - $75
+Default Title - $52
 
 ADD TO TOTE
 
@@ -1095,9 +1095,9 @@ ADD TO TOTE
 
 59 reviews (59)
 
-$69.00
+$48.00
 
-Default Title - $69
+Default Title - $48
 
 ADD TO TOTE
 
@@ -1111,9 +1111,9 @@ ADD TO TOTE
 
 1422 reviews (1422)
 
-$84.00
+$58.00
 
-Default Title - $84
+Default Title - $58
 
 ADD TO TOTE
 
@@ -1125,9 +1125,9 @@ ADD TO TOTE
 
 189 reviews (189)
 
-$84.00
+$58.00
 
-Default Title - $84
+Default Title - $58
 
 ADD TO TOTE
 
@@ -1139,9 +1139,9 @@ ADD TO TOTE
 
 5301 reviews (5301)
 
-$41.00 $41.00
+$28.00 $28.00
 
-Blackberry - $41 Blueberry - $41 Black Tea - $41 Dark Chocolate - $41
+Blackberry - $28 Blueberry - $28 Black Tea - $28 Dark Chocolate - $28
 
 Blueberry
 
@@ -1165,9 +1165,9 @@ CHOOSE Color
 
 127 reviews (127)
 
-$80.00
+$55.00
 
-Default Title - $80
+Default Title - $55
 
 ADD TO TOTE
 
@@ -1181,9 +1181,9 @@ ADD TO TOTE
 
 84 reviews (84)
 
-$69.00
+$48.00
 
-Default Title - $69
+Default Title - $48
 
 ADD TO TOTE
 
@@ -1197,9 +1197,9 @@ ADD TO TOTE
 
 83 reviews (83)
 
-$46.00
+$32.00
 
-Default Title - $46
+Default Title - $32
 
 ADD TO TOTE
 
@@ -1211,9 +1211,9 @@ ADD TO TOTE
 
 521 reviews (521)
 
-$12.00
+$8.00
 
-Default Title - $12
+Default Title - $8
 
 ADD TO TOTE
 
@@ -1227,9 +1227,9 @@ ADD TO TOTE
 
 977 reviews (977)
 
-$11.00 $44.00
+$7.00 $30.00
 
-5 Pack - $44 Single - $11
+5 Pack - $30 Single - $7
 
 Single
 
@@ -1247,9 +1247,9 @@ CHOOSE Size
 
 759 reviews (759)
 
-$12.00
+$8.00
 
-Default Title - $12
+Default Title - $8
 
 ADD TO TOTE
 
@@ -1261,9 +1261,9 @@ ADD TO TOTE
 
 103 reviews (103)
 
-$80.00
+$55.00
 
-Default Title - $80
+Default Title - $55
 
 ADD TO TOTE
 
@@ -1275,9 +1275,9 @@ ADD TO TOTE
 
 697 reviews (697)
 
-$69.00
+$48.00
 
-Default Title - $69
+Default Title - $48
 
 ADD TO TOTE
 
@@ -1289,9 +1289,9 @@ ADD TO TOTE
 
 503 reviews (503)
 
-$12.00
+$8.00
 
-Single - $12
+Single - $8
 
 ADD TO TOTE
 
@@ -1305,9 +1305,9 @@ ADD TO TOTE
 
 464 reviews (464)
 
-$12.00
+$8.00
 
-Single - $12
+Single - $8
 
 ADD TO TOTE
 
@@ -2169,7 +2169,7 @@ Albania (ALL L) Andorra (EUR €) Austria (EUR €) Belgium (EUR €) Bosnia & H
 
 Update country/region
 
-(CAD $)
+(USD $)
 
 * [Albania (ALL L)](#)
 * [Andorra (EUR €)](#)
