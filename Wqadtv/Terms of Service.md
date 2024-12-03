@@ -30,13 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/e3c94769-1d2a-411e-bc95-92b21b08bfe3/20241202T195551/e3c94769-1d2a-411e-bc95-92b21b08bfe3_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e3c94769-1d2a-411e-bc95-92b21b08bfe3/20241202T195551/e3c94769-1d2a-411e-bc95-92b21b08bfe3_360x203.jpg)](https://www.wqad.com/article/news/local/contests/register-for-the-chance-for-your-child-to-be-a-ball-kid-at-the-harlem-globetrotters-game-this-january/526-8e8881ff-3368-4072-9076-40b09a0b71fe)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/f49b724a-6f74-4395-adf8-d1fb6198c65f/20241203T040605/f49b724a-6f74-4395-adf8-d1fb6198c65f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f49b724a-6f74-4395-adf8-d1fb6198c65f/20241203T040605/f49b724a-6f74-4395-adf8-d1fb6198c65f_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/autistic-and-loved-argrows-house-sensory-playground-gym/526-5eec65c4-52c3-4b63-aed6-e820dd2e4393)
         
-        #### [Register for the chance for your child to be a ball kid at the Harlem Globetrotters game this January.](https://www.wqad.com/article/news/local/contests/register-for-the-chance-for-your-child-to-be-a-ball-kid-at-the-harlem-globetrotters-game-this-january/526-8e8881ff-3368-4072-9076-40b09a0b71fe)
+        #### [Autistic & Loved is opening sensory-friendly playground, facility in Davenport](https://www.wqad.com/article/news/local/the-current/autistic-and-loved-argrows-house-sensory-playground-gym/526-5eec65c4-52c3-4b63-aed6-e820dd2e4393) [![](https://media.tegna-media.com/assets/WQAD/images/f49b724a-6f74-4395-adf8-d1fb6198c65f/20241203T040605/f49b724a-6f74-4395-adf8-d1fb6198c65f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f49b724a-6f74-4395-adf8-d1fb6198c65f/20241203T040605/f49b724a-6f74-4395-adf8-d1fb6198c65f_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/autistic-and-loved-argrows-house-sensory-playground-gym/526-5eec65c4-52c3-4b63-aed6-e820dd2e4393)
         
-    *  [![](https://media.tegna-media.com/assets/KTVB/images/fd70e72d-818f-4a1d-a69a-94ff0f1ebdd3/20241201T224445/fd70e72d-818f-4a1d-a69a-94ff0f1ebdd3_16x9.jpg) ![](https://media.tegna-media.com/assets/KTVB/images/fd70e72d-818f-4a1d-a69a-94ff0f1ebdd3/20241201T224445/fd70e72d-818f-4a1d-a69a-94ff0f1ebdd3_360x203.jpg)](https://www.wqad.com/article/news/local/1-dead-2-injured-car-crashes-lands-top-nampa-home-police/277-f5089a44-555a-45f6-b7ce-3d890e3e18d2)
+        #### [Autistic & Loved to host grand opening of its sensory-friendly playground](https://www.wqad.com/article/news/local/the-current/autistic-and-loved-argrows-house-sensory-playground-gym/526-5eec65c4-52c3-4b63-aed6-e820dd2e4393)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/b6ca89e8-38c7-4fb2-a69b-799d8db2afe5/20241203T011627/b6ca89e8-38c7-4fb2-a69b-799d8db2afe5_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b6ca89e8-38c7-4fb2-a69b-799d8db2afe5/20241203T011627/b6ca89e8-38c7-4fb2-a69b-799d8db2afe5_360x203.jpg)](https://www.wqad.com/article/news/local/toys-for-tots-wqad-collection-drive/526-2ec5a673-1845-4840-bac0-48d6104ed014)
         
-        #### [1 dead, 2 injured after car crashes and lands on top of Idaho home, police say](https://www.wqad.com/article/news/local/1-dead-2-injured-car-crashes-lands-top-nampa-home-police/277-f5089a44-555a-45f6-b7ce-3d890e3e18d2)
+        #### [Catching up with Toys for Tots ahead of WQAD's collection drive on Dec. 3](https://www.wqad.com/article/news/local/toys-for-tots-wqad-collection-drive/526-2ec5a673-1845-4840-bac0-48d6104ed014)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +57,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/7185984f-671a-42a3-a3ab-a5b4b8d7f21c/20241202T233842/7185984f-671a-42a3-a3ab-a5b4b8d7f21c_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/7185984f-671a-42a3-a3ab-a5b4b8d7f21c/20241202T233842/7185984f-671a-42a3-a3ab-a5b4b8d7f21c_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        
+        #### [Cold temperatures will continue on Tuesday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/3cad179d-5c30-466c-b292-3ff7cabd0a83/3cad179d-5c30-466c-b292-3ff7cabd0a83_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/3cad179d-5c30-466c-b292-3ff7cabd0a83/3cad179d-5c30-466c-b292-3ff7cabd0a83_360x203.jpg)](https://www.wqad.com/article/weather/three-degree-guarantee/the-center-for-youth-and-family-solutions-has-been-selected-as-the-three-degree-recipient-for-december-2024/526-e12ca204-8012-4d52-915b-5ce56cfe326b)
         
         #### [The Center for Youth and Family Solutions has been selected as the Three Degree recipient for December 2024](https://www.wqad.com/article/weather/three-degree-guarantee/the-center-for-youth-and-family-solutions-has-been-selected-as-the-three-degree-recipient-for-december-2024/526-e12ca204-8012-4d52-915b-5ce56cfe326b)
-        
-    *  [![](https://media.tegna-media.com/assets/WOI/images/c7bec1c2-4444-4c79-bf27-b0659d0da8be/20241202T135303/c7bec1c2-4444-4c79-bf27-b0659d0da8be_16x9.jpg) ![](https://media.tegna-media.com/assets/WOI/images/c7bec1c2-4444-4c79-bf27-b0659d0da8be/20241202T135303/c7bec1c2-4444-4c79-bf27-b0659d0da8be_360x203.jpg)](https://www.wqad.com/article/traffic/des-moines-traffic-interstate-80-35-235-crashes-updates-delays-forecast-snow-weather/524-9093e9f9-5e18-4a8d-97e4-a3a2ea53a3fc)
-        
-        #### [Snowy roads cause accidents, delays Monday morning](https://www.wqad.com/article/traffic/des-moines-traffic-interstate-80-35-235-crashes-updates-delays-forecast-snow-weather/524-9093e9f9-5e18-4a8d-97e4-a3a2ea53a3fc)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +87,9 @@ Navigation
 
 Davenport, IA »
 
-21°
+19°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
