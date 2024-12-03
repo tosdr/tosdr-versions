@@ -66,9 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![WarrenBuffet](/assets/logos/WarrenBuffetGivingGraph.png)](https://www.followthemoney.org/research/institute-research/forbes-magazines-richest-americans-influence-state-politics)
-
-Warren Buffet's preference for Republican candidates, 2005-2008.
+[![Contributions From Nursing Home and Long-Term Care Industry, by State, 2001–2016](/assets/Images/teasers/small/nursing-homes.JPG)](https://www.followthemoney.org/research/institute-reports/nursing-a-long-term-political-strategy)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
