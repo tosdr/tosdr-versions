@@ -2,8 +2,6 @@
 
  
 
-[CYBER MUG DAY: SAVE UP TO 30% OFF SITEWIDE](https://www.deathwishcoffee.com/blogs/the-biz/black-friday-save-up-to-25-off-sitewide)
-
      
 
 * Coffee
