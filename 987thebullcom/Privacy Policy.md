@@ -349,11 +349,11 @@ Recently Played
 
 |     |
 | --- |
-| I'M Gonna Love YouCody Johnson Ft Carrie Underwood<br><br>4:41pm |
-| I Never LieZach Top<br><br>4:36pm |
-| Whiskey And RainMichael Ray<br><br>4:32pm |
-| Rock And A Hard PlaceBailey Zimmerman<br><br>4:29pm |
-| Love SomebodyMorgan Wallen<br><br>4:26pm |
+| Backseat DriverKane Brown<br><br>10:42pm |
+| When She Says BabyJason Aldean<br><br>10:39pm |
+| Where The Wild Things AreLuke Combs<br><br>10:35pm |
+| You Look Like You Love MeElla Langley Ft Riley Green<br><br>10:31pm |
+| Darlin'Chase Matthew<br><br>10:20pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -497,7 +497,7 @@ State
 Featured Brands
 ---------------
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
 Country • Western
 
@@ -505,13 +505,13 @@ Country • Western
 
 Top 40 • Pacific NW
 
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+
+Spanish • Western
+
 [![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
 Sports • Midwest
-
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
-
-Country • Western
 
 [](https://www.alphamediausa.com/)
 
