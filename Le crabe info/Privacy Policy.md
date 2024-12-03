@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 228 utilisateurs actifs
+##### 603 utilisateurs actifs
 
 Chargement en cours
 
@@ -131,9 +131,9 @@ Chargement en cours
 
 ### À la une
 
+* [Retour de MSN : Microsoft dévoile un logo tout neuf et met fin à "Microsoft Start"](https://lecrabeinfo.net/retour-de-msn-microsoft-devoile-un-logo-tout-neuf-et-met-fin-a-microsoft-start.html)
 * [PlayStation 2 : lire des jeux PS2 depuis une carte SD avec MX4SIO](https://lecrabeinfo.net/playstation-2-lire-des-jeux-ps2-depuis-une-carte-sd-avec-mx4sio.html)
 * [Microsoft envisage de renommer l'IA de Windows en "Windows Intelligence", à la manière d'Apple](https://lecrabeinfo.net/microsoft-envisage-de-renommer-lia-de-windows-en-windows-intelligence-a-la-maniere-dapple.html) 
-* [Impression : changer le format de papier par défaut sur Windows](https://lecrabeinfo.net/impression-changer-le-format-de-papier-par-defaut-sur-windows.html)
 
 ### Tendance
 
