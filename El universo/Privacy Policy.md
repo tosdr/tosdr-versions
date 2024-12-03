@@ -95,7 +95,7 @@ Esta declaración de confidencialidad / privacidad, que describe los términos y
 
 #### Compañía
 
-* [Trabaja con nosotros](https://eluniverso.evaluar.com/ "Trabaja con nosotros")
+* [Trabaja con nosotros](https://seleccioneluniverso.evaluar.com/ "Trabaja con nosotros")
 * [Quiénes somos](https://www.eluniverso.com/quienes-somos/ "Quiénes somos")
 * [Código deontológico](https://www.eluniverso.com/codigo-deontologico "Código deontológico")
 
