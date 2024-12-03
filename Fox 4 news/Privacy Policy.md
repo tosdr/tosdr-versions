@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Hannah Kobayashi: Missing Hawaii woman intentionally missed flight at LAX, police say](https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/11/32/18/hannah-.jpg?ve=1&tl=1)
+ [![Funeral held for fallen Greenville PD Officer Cooper Dawson](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/cooper-dawson-funeral-2.jpg?ve=1&tl=1)
 
- ![Hannah Kobayashi: Missing Hawaii woman intentionally missed flight at LAX, police say](https://images.foxtv.com/images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/11/32/18/592/333/hannah-.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hannah-kobayashi-missing-hawaii-woman-intentionally-missed-flight-lax-lapd)
+ ![Funeral held for fallen Greenville PD Officer Cooper Dawson](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/cooper-dawson-funeral-2.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/greenville-officer-cooper-dawson-funeral)
 
-### [Hannah Kobayashi: Missing Hawaii woman intentionally missed flight at LAX, police say](https://www.fox4news.com/news/hannah-kobayashi-missing-hawaii-woman-intentionally-missed-flight-lax-lapd)
+### [Funeral held for fallen Greenville PD Officer Cooper Dawson](https://www.fox4news.com/news/greenville-officer-cooper-dawson-funeral)
 
- [![Wiley woman run over by teens looking to confront her younger brother: police](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/wylie-woman-run-over.png?ve=1&tl=1)
+ [![51-year-old inmate dies while in custody of Tarrant County Jail](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/gettyimages-2164247759.jpg?ve=1&tl=1)
 
- ![Wiley woman run over by teens looking to confront her younger brother: police](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/wylie-woman-run-over.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/wylie-woman-run-over-high-school-teen-looking-her-younger-brother-police)
+ ![51-year-old inmate dies while in custody of Tarrant County Jail](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/gettyimages-2164247759.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/51-year-old-inmate-dies-while-custody-tarrant-county-jail)
 
-### [Wiley woman run over by teens looking to confront her younger brother: police](https://www.fox4news.com/news/wylie-woman-run-over-high-school-teen-looking-her-younger-brother-police)
+### [51-year-old inmate dies while in custody of Tarrant County Jail](https://www.fox4news.com/news/51-year-old-inmate-dies-while-custody-tarrant-county-jail)
 
- [![Is Enron making a comeback? Here's what we know](https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2019/09/32/18/enron_1464208673401_1348830_ver1.0.jpg?ve=1&tl=1)
+ [![Seagoville police investigate murder, victim found at park gazebo](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/03/32/18/f6d6d489-d2486419-7d0c5d8b-police-lights.jpg?ve=1&tl=1)
 
- ![Is Enron making a comeback? Here's what we know](https://images.foxtv.com/images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2019/09/32/18/592/333/enron_1464208673401_1348830_ver1.0.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/is-enron-making-comeback-heres-what-we-know)
+ ![Seagoville police investigate murder, victim found at park gazebo](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/03/32/18/592/333/f6d6d489-d2486419-7d0c5d8b-police-lights.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/seagoville-police-investigate-murder-victim-found-park-gazebo)
 
-### [Is Enron making a comeback? Here's what we know](https://www.fox4news.com/news/is-enron-making-comeback-heres-what-we-know)
+### [Seagoville police investigate murder, victim found at park gazebo](https://www.fox4news.com/news/seagoville-police-investigate-murder-victim-found-park-gazebo)
 
- [!['Juvenile feud' ends with North Richland Hills man killed, 3 teens charged with murder](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/stonybrook-shooting-murder-suspects.png?ve=1&tl=1)
+ [![Vodka maker Stoli Group USA files for Chapter 11 bankruptcy](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-1228093505-scaled.jpg?ve=1&tl=1)
 
- !['Juvenile feud' ends with North Richland Hills man killed, 3 teens charged with murder](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/stonybrook-shooting-murder-suspects.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/juvenile-feud-ends-north-richland-hills-man-killed-3-teens-charged-murder)
+ ![Vodka maker Stoli Group USA files for Chapter 11 bankruptcy](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-1228093505-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/vodka-stoli-bankruptcy-filing)
 
-### ['Juvenile feud' ends with North Richland Hills man killed, 3 teens charged with murder](https://www.fox4news.com/news/juvenile-feud-ends-north-richland-hills-man-killed-3-teens-charged-murder)
+### [Vodka maker Stoli Group USA files for Chapter 11 bankruptcy](https://www.fox4news.com/news/vodka-stoli-bankruptcy-filing)
 
- [![Grand Prairie ISD superintendent Jorge Arredondo fired by school board](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/V-GPISD-SUPERINTENDENT-ON-LEAVE-10P_KDFW0582_146_m_00.00.03.56.jpg?ve=1&tl=1)
+ [![The best US cities for singles, based on dating populations, activities and more](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/people-on-a-date.jpg?ve=1&tl=1)
 
- ![Grand Prairie ISD superintendent Jorge Arredondo fired by school board](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/V-GPISD-SUPERINTENDENT-ON-LEAVE-10P_KDFW0582_146_m_00.00.03.56.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/grand-prairie-isd-could-determine-superintendents-fate-monday-special-meeting)
+ ![The best US cities for singles, based on dating populations, activities and more](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/people-on-a-date.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/best-us-cities-singles-dating-activities)
 
-### [Grand Prairie ISD superintendent Jorge Arredondo fired by school board](https://www.fox4news.com/news/grand-prairie-isd-could-determine-superintendents-fate-monday-special-meeting)
+### [The best US cities for singles, based on dating populations, activities and more](https://www.fox4news.com/news/best-us-cities-singles-dating-activities)
 
 ###### [News](https://www.fox4news.com/news)
 
