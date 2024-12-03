@@ -435,6 +435,8 @@ Copyright Associated Press. All rights reserved. This material may not be publis
 * [Advertise With Us](https://www.adgadvertising.com/AO-landing-page)
 * [Terms of Use](https://www.arkansasonline.com/tools/termsofuse/)
 * [Ethics Policy](https://www.arkansasonline.com/ethics-policy/)
+* [Privacy Preferences](#)
+    
 
 Copyright © 2024, Arkansas Democrat-Gazette, Inc.
 
