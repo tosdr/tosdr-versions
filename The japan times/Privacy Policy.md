@@ -523,9 +523,9 @@ By [Tomoko Otake](https://www.japantimes.co.jp/author/3264/tomoko-otake/ "Tomoko
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -565,25 +565,21 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[South Korean President Yoon declares martial law](https://www.japantimes.co.jp/news/2024/12/04/asia-pacific/politics/yoon-martial-law/ "South Korean President Yoon declares martial law")
-
-23 mins ago
-
-[As sabotage allegations swirl, NATO struggles to secure the Baltic Sea](https://www.japantimes.co.jp/news/2024/12/03/world/politics/nato-baltic-sea-cables/ "As sabotage allegations swirl, NATO struggles to secure the Baltic Sea")
-
-3 hours ago
-
-[Putin-controlled aircraft deported Ukrainian children, U.S.-backed research alleges](https://www.japantimes.co.jp/news/2024/12/03/world/politics/putin-ukraine-children-deport-us-research/ "Putin-controlled aircraft deported Ukrainian children, U.S.-backed research alleges")
+[South Korea's Yoon backs down after parliament rejects martial law](https://www.japantimes.co.jp/news/2024/12/04/asia-pacific/politics/yoon-martial-law/ "South Korea's Yoon backs down after parliament rejects martial law")
 
 4 hours ago
 
+[As sabotage allegations swirl, NATO struggles to secure the Baltic Sea](https://www.japantimes.co.jp/news/2024/12/03/world/politics/nato-baltic-sea-cables/ "As sabotage allegations swirl, NATO struggles to secure the Baltic Sea")
+
+10 hours ago
+
+[Putin-controlled aircraft deported Ukrainian children, U.S.-backed research alleges](https://www.japantimes.co.jp/news/2024/12/03/world/politics/putin-ukraine-children-deport-us-research/ "Putin-controlled aircraft deported Ukrainian children, U.S.-backed research alleges")
+
+10 hours ago
+
 [Nomura CEO takes pay cut after former employee charged with attempted murder](https://www.japantimes.co.jp/business/2024/12/03/companies/nomura-salary-cut/ "Nomura CEO takes pay cut after former employee charged with attempted murder")
 
-6 hours ago
-
 [General contractor Yamaura to be fined for false financial statements](https://www.japantimes.co.jp/news/2024/12/03/japan/crime-legal/yamaura-fine-misstatement/ "General contractor Yamaura to be fined for false financial statements")
-
-6 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
