@@ -1,5 +1,7 @@
       
 
+Continue
+
 Skip to main content
 
 * [](https://www.workday.com/)
@@ -10,8 +12,6 @@ Skip to main content
         * ### Finance
             
             * Drive innovation, manage costs, and make smarter finance decisions, faster.
-                
-                #### [Finance Solutions](https://www.workday.com/en-us/solutions/role/enterprise-finance/overview.html "Finance Solutions")
                 
             * #### PRODUCTS
                 
@@ -807,7 +807,7 @@ The following provisions apply to you if you reside in the European Union (the â
 Products Products
 -----------------
 
-* [For Finance](https://www.workday.com/en-us/solutions/role/enterprise-finance/overview.html "For Finance ")
+* For Finance
 * [For HR](https://www.workday.com/en-us/solutions/role/enterprise-hr/overview.html "For HR ")
 * [For Planning](https://www.workday.com/en-us/products/adaptive-planning/overview.html "For Planning ")
 * [Platform](https://www.workday.com/en-us/solutions/role/enterprise-technology/overview.html "Platform ")
