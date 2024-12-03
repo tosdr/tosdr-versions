@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_2.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_10.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -170,6 +170,34 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[И просто, и вкусно. Лучшие рецепты ЗАПЕКАНОК (60)](https://www.russianfood.com/reading/?post_id=22950) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/703/sm_702887.jpg)](https://www.russianfood.com/reading/?post_id=22950)
+
+Творожная запеканка с бананом и хурмой. Запеканка из брокколи с грибами. Картофельная запеканка с капустой. Творожная запеканка со скумбрией. Лазанья с сосисками и грибами.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22950)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22950#comments) | 03.12.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Рулет "Рафаэлло" с кокосом и миндалем](https://www.russianfood.com/recipes/recipe.php?rid=175020) |     |
+
+[![Фото к рецепту: Рулет "Рафаэлло" с кокосом и миндалем](//img1.russianfood.com/dycontent/images_upl/758/sm_757183.jpg "Фото к рецепту: Рулет "Рафаэлло" с кокосом и миндалем")](https://www.russianfood.com/recipes/recipe.php?rid=175020)
+
+Незабываемое сочетание текстур и вкусов! Невероятно нежный, воздушный бисквит, сливочный крем с кокосовой стружкой, миндальные орешки и изысканная обсыпка кокосом. Беспроигрышный вариант для подачи на праздничный стол. Приготовьте чудесный ароматный рулет "Рафаэлло" и порадуйте своих близких очень вкусным десертом!
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=175020)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [HomeRecipes](https://www.russianfood.com/blogs/?id=300916) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175020#comments) | 03.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -353,34 +381,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Лучшая выпечка](https://www.russianfood.com/blogs/?id=327534) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22941#comments) | 30.11.24 |     |
 
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Встретим вкусно Новый год! Лучшие рецепты на Новый год (94)](https://www.russianfood.com/reading/?post_id=22940) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/674/sm_673220.jpg)](https://www.russianfood.com/reading/?post_id=22940)
-
-Рулет из брокколи с крабовыми палочками. Крылышки в панировке из кукурузных хлопьев. Запечённые яблоки с карамелью. Салат с беконом и грибами. Вегетарианская рыба.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22940)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты на Новый год](https://www.russianfood.com/blogs/?id=338420) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22940#comments) | 30.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Салат с запечённой тыквой, руколой и брынзой](https://www.russianfood.com/recipes/recipe.php?rid=174973) |     |
-
-[![Фото к рецепту: Салат с запечённой тыквой, руколой и брынзой](//img1.russianfood.com/dycontent/images_upl/756/sm_755880.jpg "Фото к рецепту: Салат с запечённой тыквой, руколой и брынзой")](https://www.russianfood.com/recipes/recipe.php?rid=174973)
-
-Салат с тыквой и брынзой пикантный, яркий, красивый, и очень вкусный. Его можно приготовить и к ужину, и к праздничному столу. Приготовьте и попробуйте!
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174973)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [HomeRecipes](https://www.russianfood.com/blogs/?id=300916) | _![](/images/blank.gif)_7 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174973#comments) | 30.11.24 |     |
-
 |     |
 | --- |
 | ← Предыдущая \| [Следующая →](https://www.russianfood.com/?page=2) |
@@ -450,10 +450,10 @@
 
 Новые рецепты:
 
-|     |     |     |     |     |
-| --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/749/alt1_748664.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174576) | [![](//img1.russianfood.com/dycontent/images_upl/747/alt1_746516.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174611) | [![](//img1.russianfood.com/dycontent/images_upl/749/alt1_748703.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174565) | [![](//img1.russianfood.com/dycontent/images_upl/756/alt1_755699.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174588) | [![](//img1.russianfood.com/dycontent/images_upl/757/alt1_756154.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174625) |
-| [Хумус из фасоли](https://www.russianfood.com/recipes/recipe.php?rid=174576) | [Грушевый пирог с заварным кремом](https://www.russianfood.com/recipes/recipe.php?rid=174611) | [Рулетики из сельди, с плавленым сыром и солёными огурцами](https://www.russianfood.com/recipes/recipe.php?rid=174565) | [Салат "Змея" с курицей, плавленым сыром и яблоками](https://www.russianfood.com/recipes/recipe.php?rid=174588) | [Бутерброды "Змейки" с намазкой из шпината и сыра](https://www.russianfood.com/recipes/recipe.php?rid=174625) |
+|     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- |
+| [![](//img1.russianfood.com/dycontent/images_upl/757/alt1_756154.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174625) | [![](//img1.russianfood.com/dycontent/images_upl/749/alt1_748703.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174565) | [![](//img1.russianfood.com/dycontent/images_upl/749/alt1_748664.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174576) | [![](//img1.russianfood.com/dycontent/images_upl/756/alt1_755699.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174588) | [![](//img1.russianfood.com/dycontent/images_upl/747/alt1_746516.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174611) | [![](//img1.russianfood.com/dycontent/images_upl/758/alt1_757183.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175020) |
+| [Бутерброды "Змейки" с намазкой из шпината и сыра](https://www.russianfood.com/recipes/recipe.php?rid=174625) | [Рулетики из сельди, с плавленым сыром и солёными огурцами](https://www.russianfood.com/recipes/recipe.php?rid=174565) | [Хумус из фасоли](https://www.russianfood.com/recipes/recipe.php?rid=174576) | [Салат "Змея" с курицей, плавленым сыром и яблоками](https://www.russianfood.com/recipes/recipe.php?rid=174588) | [Грушевый пирог с заварным кремом](https://www.russianfood.com/recipes/recipe.php?rid=174611) | [Рулет "Рафаэлло" с кокосом и миндалем](https://www.russianfood.com/recipes/recipe.php?rid=175020) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -470,4 +470,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(97)
+(91)
