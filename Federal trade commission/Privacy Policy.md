@@ -223,7 +223,7 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC Order Requires Online Retailer GOAT to Pay More than $2 Million to Consumers for Mail Order Rule Violations and to Honor Its Buyer Protection Policies](https://www.ftc.gov/news-events/news/press-releases/2024/12/ftc-order-requires-online-retailer-goat-pay-more-2-million-consumers-mail-order-rule-violations)
+    ### [FTC Issues Annual Report on Ethanol Market Concentration 2024](https://www.ftc.gov/news-events/news/press-releases/2024/12/ftc-issues-annual-report-ethanol-market-concentration-2024)
     
     December 2, 2024
     
