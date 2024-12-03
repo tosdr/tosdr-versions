@@ -117,57 +117,63 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Integrated Debit Order Solution
-> -------------------------------
+> Impossible to run our businesses without IO
+> -------------------------------------------
 > 
-> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
+> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
+>   
+> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
+>   
+> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
+>   
+> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
 
-Hugo van Sittert
+Kobus Venter
 
-![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=2a90430550ffc61c652e26497d83f65105cb0b8f10a838824b88ce114223f550&c=164444940)  
-Alliance Energy
+![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=ecfe02affb0cab9b90146e33234609fb85a6eb31c7ea80046ba976def3b5d5a9&c=42903309)  
+Kainos (Pty) Ltd
 
-![valued client Hydroworld PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=2a90430550ffc61c652e26497d83f65105cb0b8f10a838824b88ce114223f550&c=36838322)  
-Hydroworld PTY LTD
+![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=ecfe02affb0cab9b90146e33234609fb85a6eb31c7ea80046ba976def3b5d5a9&c=169842841)  
+Laurinda Pretorius Spraak en Drama Ateljee
 
-![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=2a90430550ffc61c652e26497d83f65105cb0b8f10a838824b88ce114223f550&c=130134455)  
-M's Frozen Delights
+![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=ecfe02affb0cab9b90146e33234609fb85a6eb31c7ea80046ba976def3b5d5a9&c=157832660)  
+NEW BEGINNINGS DESIGNS
 
-![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=2a90430550ffc61c652e26497d83f65105cb0b8f10a838824b88ce114223f550&c=6979094)  
-Goju Ryu Karate Centre
+![valued client The Gourmet Artisans Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8737&file=logo_300_100&type=&fe=ecfe02affb0cab9b90146e33234609fb85a6eb31c7ea80046ba976def3b5d5a9&c=77583643)  
+The Gourmet Artisans Ltd.
 
-![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=2a90430550ffc61c652e26497d83f65105cb0b8f10a838824b88ce114223f550&c=27829458)  
+![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=ecfe02affb0cab9b90146e33234609fb85a6eb31c7ea80046ba976def3b5d5a9&c=162812796)  
+MONSTER SECURITY GUARDING
+
+![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=ecfe02affb0cab9b90146e33234609fb85a6eb31c7ea80046ba976def3b5d5a9&c=9989945)  
+KTEN PARTS
+
+![valued client De light Investments(Pty)Ltd trading as Serene Memorials](https://www.invoicesonline.co.za/scripts/image.php?bid=6723&file=logo_300_100&type=&fe=ecfe02affb0cab9b90146e33234609fb85a6eb31c7ea80046ba976def3b5d5a9&c=193481419)  
+De light Investments(Pty)Ltd trading as Serene Memorials
+
+![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=ecfe02affb0cab9b90146e33234609fb85a6eb31c7ea80046ba976def3b5d5a9&c=78425440)  
+Website Café (PTY) LTD
+
+![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=ecfe02affb0cab9b90146e33234609fb85a6eb31c7ea80046ba976def3b5d5a9&c=204869995)  
+Multi CNC Solutions CC
+
+![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=ecfe02affb0cab9b90146e33234609fb85a6eb31c7ea80046ba976def3b5d5a9&c=38535710)  
+Nilbet T/A Waterman
+
+![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=ecfe02affb0cab9b90146e33234609fb85a6eb31c7ea80046ba976def3b5d5a9&c=140037814)  
+Firstweb Hosting & Design
+
+![valued client Protech Marketing](https://www.invoicesonline.co.za/scripts/image.php?bid=8712&file=logo_300_100&type=&fe=ecfe02affb0cab9b90146e33234609fb85a6eb31c7ea80046ba976def3b5d5a9&c=58887431)  
+Protech Marketing
+
+![valued client Wiselink Broadband Vryheid](https://www.invoicesonline.co.za/scripts/image.php?bid=6023&file=logo_300_100&type=&fe=ecfe02affb0cab9b90146e33234609fb85a6eb31c7ea80046ba976def3b5d5a9&c=88471151)  
+Wiselink Broadband Vryheid
+
+![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=ecfe02affb0cab9b90146e33234609fb85a6eb31c7ea80046ba976def3b5d5a9&c=205052776)  
 CBR Verwe/Paints
 
-![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=2a90430550ffc61c652e26497d83f65105cb0b8f10a838824b88ce114223f550&c=200604735)  
-webb it services
-
-![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=2a90430550ffc61c652e26497d83f65105cb0b8f10a838824b88ce114223f550&c=82738233)  
-Roamfree Boerdery (PTY) LTD
-
-![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=2a90430550ffc61c652e26497d83f65105cb0b8f10a838824b88ce114223f550&c=126557046)  
-OXYAIDER (PTY) LTD
-
-![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=2a90430550ffc61c652e26497d83f65105cb0b8f10a838824b88ce114223f550&c=6225777)  
-ARCHITEK PTY LTD
-
-![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=2a90430550ffc61c652e26497d83f65105cb0b8f10a838824b88ce114223f550&c=20221027)  
-Peter Salvage Pty Ltd
-
-![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=2a90430550ffc61c652e26497d83f65105cb0b8f10a838824b88ce114223f550&c=165916256)  
-UMVIKELI PRIVATE SECURITY
-
-![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=2a90430550ffc61c652e26497d83f65105cb0b8f10a838824b88ce114223f550&c=39316236)  
-Leef in Afrikaans
-
-![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=2a90430550ffc61c652e26497d83f65105cb0b8f10a838824b88ce114223f550&c=128403010)  
-VS Auto Spares and Repairs (Pty) LTD
-
-![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=2a90430550ffc61c652e26497d83f65105cb0b8f10a838824b88ce114223f550&c=136271361)  
-Oak Tree Immigration
-
-![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=2a90430550ffc61c652e26497d83f65105cb0b8f10a838824b88ce114223f550&c=191134275)  
-TIGERDSL
+![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=ecfe02affb0cab9b90146e33234609fb85a6eb31c7ea80046ba976def3b5d5a9&c=45218276)  
+Norton Medical & Consult - Namibia
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
