@@ -1,4 +1,4 @@
-[Get Ready For GivingTuesday! Explore All The Ways You Can Participate Here.](https://www.canadahelps.org/en/givingtuesday/)
+[It's GivingTuesday! Explore All The Ways You Can Participate Here.](https://www.canadahelps.org/en/givingtuesday/)
 
  
 
