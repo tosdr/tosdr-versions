@@ -1,4 +1,4 @@
-                                                            Bright Cellars Activation - Winc                            
+                                                              Bright Cellars Activation - Winc                          
 
 [Skip to content](#MainContent)
 
