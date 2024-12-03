@@ -69,7 +69,7 @@ Search
         * [Membership Benefits](https://www.acm.org/membership/membership-benefits "Membership Benefits")
         * [Ambassadors for ACM](https://www.acm.org/membership/ambassadors-for-acm "Ambassadors for ACM")
         * [People of ACM](https://www.acm.org/membership/people-of-acm "People of ACM")
-        * [ACM People in the News](https://www.acm.org/media-center/acm-people-in-the-news "ACM People in the News")
+        * [Members in the News](https://www.acm.org/media-center/members-in-the-news "Members in the News")
         * [Join](https://www.acm.org/membership/join-acm "Join")
         * [Renew](https://www.acm.org/membership/acm-membership-renewal "Renew")
         * [Subscribe](https://www.acm.org/membership/subscribe-publications "Subscribe")
