@@ -19,6 +19,7 @@ Main navigation - header
     * [Education Overview](https://ota.org/education)
     * [In-Person Events](https://ota.org/education/person-events)
         * [2025 OTA Specialty Day](https://ota.org/education/meetings-and-courses/2025-ota-specialty-day)
+        * [2025 Annual Meeting](https://ota.org/node/4220#/+/0/score,date_na_dt/desc/)
         * [Virtual Industry Session (Sponsored Content)](https://ota.org/education/person-events/virtual-industry-session-sponsored-content)
         * [Meetings and Courses](https://ota.org/education/person-events/meetings-and-courses)
         * [2024 Annual Meeting](https://ota.org/node/3754)
