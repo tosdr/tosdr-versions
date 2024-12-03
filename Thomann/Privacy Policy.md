@@ -1,9 +1,5 @@
 [To the page content](#main)
 
-[22.11 - 02.12
-
-![cyberweek-deal](https://images.static-thomann.de/pics//images/special/cyberweek2023/cyberweek-logo-oneliner.png) Get your deals Get your deals](https://www.thomannmusic.com/special_cyberweek.html)
-
 * [Service](https://www.thomannmusic.com/helpdesk_service.html)
 * [Contact us](https://www.thomann.de/intl/compinfo_contact.html)
 * [About Us](https://www.thomannmusic.com/compinfo.html)
@@ -19,7 +15,7 @@
 search  
 
 * [3-Year Thomann Warranty](https://www.thomannmusic.com/helpdesk_warranty.html)
-* [30-Days Money-Back](https://www.thomannmusic.com/helpdesk_moneyback.html)
+* [Satisfaction Guarantee](https://www.thomannmusic.com/helpdesk_satisfaction.html)
 
 en · $
 
@@ -52,8 +48,6 @@ en · $
 * Products
 * Service
 * About Us
-
-* [Our Cyberweek Highlights](https://www.thomannmusic.com/special_cyberweek.html)
 
 * [Guitars and Basses](https://www.thomannmusic.com/guitars_and_basses.html)
 * [Drums and Percussion](https://www.thomannmusic.com/drums_and_percussion.html)
@@ -768,7 +762,7 @@ Payment can be made safely and securely with PayPal, Amazon Pay, Credit Card or 
 * [Classified Ads](https://www.thomann.de/intl/classified.html)
 * [Whistleblower system](https://www.thomann.de/intl/compinfo_compliance.html)
 
- [![Our app in the App Store.](https://thumbs.static-thomann.de/thumb//convert/pics/images/footer/download-app-store.svg)](https://apps.apple.com/us/app/id1035256782)[![Our app on Google Play.](https://thumbs.static-thomann.de/thumb//convert/pics/images/footer/download-google-play.svg)](https://play.google.com/store/apps/details?id=de.thomann)
+ [![Our app in the App Store.](https://www.thomann.de/thumb//convert/pics/images/footer/download-app-store.svg)](https://apps.apple.com/us/app/id1035256782)[![Our app on Google Play.](https://www.thomann.de/thumb//convert/pics/images/footer/download-google-play.svg)](https://play.google.com/store/apps/details?id=de.thomann)
 
 © 1996–2024 Thomann GmbH.
 
