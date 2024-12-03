@@ -101,6 +101,8 @@ Discover CNBCTV18
 * [NewCalculators](https://www.cnbctv18.com/calculators/ "Calculators")
 * [NewIBLA 2024](https://www.cnbctv18.com/ibla/ "IBLA 2024")
 
+Nifty SensexMCX
+
 [Home](https://www.cnbctv18.com/ "Home")
 ----------------------------------------
 
@@ -124,6 +126,7 @@ Live TV
 CNBC-TV18 Specials
 ------------------
 
+* [Global Leadership Summit](https://www.cnbctv18.com/global-leadership-summit/?utm_source=cnbc&utm_medium=navigation "Global Leadership Summit")
 * [Young Turks](https://www.cnbctv18.com/young-turks/ "Young Turks")
 * [Future Female Forward](https://www.cnbctv18.com/future-female-forward "Future Female Forward")
 * [11:11 Newsletter](https://www.cnbctv18.com/linkedin-newsletters.htm#utm_source=Website&utm_medium=LHS&utm_campaign=LinkedIN-newsletter "11:11 Newsletter ")
@@ -377,13 +380,6 @@ TV ShowsDigital Exclusives
 
 Most Read
 ---------
-
-Share Market Live
------------------
-
-[View All→](https://www.cnbctv18.com/market-live/ "Market Live")
-
-Top GainersTop Losers
 
 CurrencyCommodities
 
