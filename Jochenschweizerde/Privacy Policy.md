@@ -233,8 +233,6 @@ Benutzerkonto
 1. [Home](https://www.jochen-schweizer.de/)/
 2. Datenschutz
 
-[![](https://main.static.jsmd-group.com/assets/new_default_upload_bucket/SNB_desktop_250x120_Black%20Week24.jpg)](https://www.jochen-schweizer.de/landingpage/blackweek/l/7fo8g)
-
 * [Alle Erlebnisse](https://www.jochen-schweizer.de/alle-erlebnisse/l/79ifa)
 * [Fliegen & Fallen](https://www.jochen-schweizer.de/fliegen-fallen/l/p3if5)
 * [Kurzurlaub](https://www.jochen-schweizer.de/kurzurlaub/l/d48wi)
