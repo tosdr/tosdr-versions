@@ -1,6 +1,6 @@
 [Skip to content](#content)
 
-[![Prosper Logo link to Prosper homepage.](https://www.prosper.com/wp-content/uploads/2020/04/Logo.svg)](https://www.prosper.com/)
+[![Prosper Logo link to Prosper homepage.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='186'%20height='30'%3E%3C/svg%3E)](https://www.prosper.com/)
 
 * Logged (Mobile/Tablet)
     
@@ -146,7 +146,7 @@ All borrower loans are fixed rate, unsecured, fully amortizing loans with simple
 
 #### Borrower Limits and Fees
 
-![](https://www.prosper.com/wp-content/uploads/2022/11/us_map.gif)
+![us_map.gif](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='276'%20height='200'%3E%3C/svg%3E)
 
 Loan amount:
 
@@ -310,9 +310,9 @@ Cookie Settings
 
 [Facebook](https://www.facebook.com/prosperloans) [Twitter](https://twitter.com/prosperloans) [Linkedin](http://www.linkedin.com/company/prosper-marketplace) [Instagram](https://www.instagram.com/letsgoprosper/)
 
-![Equal Housing Lender](https://www.prosper.com/wp-content/uploads/2023/01/Equal-Housing-Lender-1.svg?w=35 "Equal-Housing-Lender-1.svg")
+![Equal Housing Lender](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1'%20height='1'%3E%3C/svg%3E "Equal-Housing-Lender-1.svg")
 
-![Better Business Bureau](https://www.prosper.com/wp-content/uploads/2023/01/Better-Business-Bureau-1.svg?w=93 "Better-Business-Bureau-1.svg")
+![Better Business Bureau](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1'%20height='1'%3E%3C/svg%3E "Better-Business-Bureau-1.svg")
 
 [Licensing and Disclosures](https://www.prosper.com/legal/heloc-licensing-disclosures)
 
