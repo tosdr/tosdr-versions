@@ -4,13 +4,13 @@
 * [SUBSCRIBE](https://www.furtherfood.com/pages/subscribe-and-save)
 * [LEARN](https://www.furtherfood.com/pages/our-story)
 
-* [**⚡️ BFCM IS HERE! SAVE 25% SITEWIDE ⚡️**](https://www.furtherfood.com/collections/bfcm-2024)
 * **FREE SHIPPING ON U.S. ORDERS $59+**
     
 * **10,000+ 5 STAR REVIEWS ⭐️⭐️⭐️⭐️⭐️**
     
 * **TRY WITH OUR 30-DAY MONEY BACK GUARANTEE**
     
+* [**SHARE THE LOVE 💕 GIVE $10. GET $10 >>**](https://furtherfood.referralcandy.com/)
 
 [![](//www.furtherfood.com/cdn/shop/files/FurtherFood_Logo_Digital_White_290x88.png?v=1703188360)
 
@@ -63,7 +63,7 @@ Menu Close
         *  [![](https://cdn.shopify.com/s/files/1/2527/7032/files/Anti-Inflammatory.png) Anti-Inflammatory](https://www.furtherfood.com/collections/reduce-inflammation)
         *  [![](https://cdn.shopify.com/s/files/1/2527/7032/files/GutHealth.png) Gut Health](https://www.furtherfood.com/collections/gut-health)
     
-    [](https://www.furtherfood.com/collections/bfcm-2024)![](//www.furtherfood.com/cdn/shop/files/Homepage-Hero-Banners-Black-Friday-04.png?v=1731543957)
+    [](https://www.furtherfood.com/collections/collagen-peptides-powder)![](//www.furtherfood.com/cdn/shop/files/Homepage-Hero-Collagen-mobile-V2_f6a588ef-582f-4556-839e-134b976a1b24.png?v=1732663626)
     
 * SUBSCRIBE
     
