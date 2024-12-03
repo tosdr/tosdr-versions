@@ -78,12 +78,12 @@ Verlagsangebote
 
 Anzeigen
 
+* [Beliebtesten Ausbildungsplätze 2025](https://www.zeit.de/angebote/most-wanted-start-2025/index)
 * [Kitzbüheler Wintertraum](https://www.zeit.de/angebote/kitzbuehel/index)
 * [Das ZEIT Campus Festival 2024](https://www.zeit.de/campus/angebote/zeit-campus-festival/index)
 * [Verantwortungsvollste Arbeitgeber 2025](https://www.zeit.de/angebote/most-responsible-employer-2025/index)
 * [Feier dein Geschmack](https://www.zeit.de/angebote/zeit-magazin/vomfass/index)
 * [Jens Bisky, Die Entscheidung](https://www.zeit.de/angebote/biskydieentscheidung/index)
-* [Eine Reise nach Costa Rica](https://www.zeit.de/angebote/reisen-nach-costa-rica/index)
 * [Gemeinsam für Demokratie](https://cmk.zeit.de/cms/hub/13121/anzeige/dm-drogerie-markt-gmbh)
 * [congstar Fairnessheld\*innen](https://www.zeit.de/campus/angebote/congstar/fairnessheldinnen/index)
 * [ZEIT LEO Weltretter-Mission](https://zeitleo.de/weltretter-mission/)
