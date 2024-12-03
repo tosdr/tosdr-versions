@@ -249,9 +249,9 @@ Games you might like
 
 [Lemon Opera](https://lagged.com/en/g/lemon-opera) ![Lemon Opera Game](https://imgs2.dab3games.com/lemon-opera-ft.png)
 
-[Sandwich Runner](https://lagged.com/en/g/sandwich-runner) ![Sandwich Runner Game](https://imgs2.dab3games.com/sandwhich-runner-game-ft.png)
-
 [Cat Disco](https://lagged.com/en/g/cat-disco) ![Cat Disco Game](https://imgs2.dab3games.com/dancing-cats-ft2.png)
+
+[Sandwich Runner](https://lagged.com/en/g/sandwich-runner) ![Sandwich Runner Game](https://imgs2.dab3games.com/sandwhich-runner-game-ft.png)
 
 [Lagged.com](https://lagged.com/ "Lagged.com")
 
