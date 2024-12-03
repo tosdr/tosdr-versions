@@ -42,19 +42,17 @@
     
     Featured
     
-    ##### Welcome to the second-busiest "apple" store on Black Friday.
-    
-    ![New!](https://treetop.com/wp-content/themes/TreeTop2024/assets/img/bf-apple.png)
-    
-    ##### Get FREE SHIPPING on your online order of $25 or more – now through Cyber Monday.
-    
-    [Order online today!](https://www.treetop.com/products)
-    
-    Featured
-    
     ##### 100% Apple Juice
     
     [![](https://treetop.com/wp-content/uploads/2023/11/Thumbnail_64oz-apple-juice_00028700102718.webp)](https://treetop.com/products/100-percent-apple-juice/ "View this product")
+    
+    Featured
+    
+    ##### It’s a fresh new way to grab Tree Top favorites.
+    
+    [Order online today!](https://www.treetop.com/products)
+    
+    ![New!](https://treetop.com/wp-content/themes/TreeTop2024/assets/img/order-online-nav.png)
     
 * [Health & Life](https://treetop.com/health-and-life/)
     
