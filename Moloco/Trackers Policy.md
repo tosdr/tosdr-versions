@@ -22,7 +22,7 @@
 
 [##### Moloco Commerce Media (Retail Media Platform)
 
-![Dark blue arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b2b845a2672524fa4e23_Right-arrow.webp)](https://www.molocoads.com/solutions/moloco-commerce-media)
+![Dark blue arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b2b845a2672524fa4e23_Right-arrow.webp)](https://www.molocoads.com/solutions/commerce-media)
 
 ###### Launch a full-funnel advertising business
 
@@ -116,7 +116,7 @@
 
 [##### Moloco Commerce Media (Retail Media Platform)
 
-![Dark blue arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b2b845a2672524fa4e23_Right-arrow.webp)](https://www.molocoads.com/solutions/moloco-commerce-media)
+![Dark blue arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b2b845a2672524fa4e23_Right-arrow.webp)](https://www.molocoads.com/solutions/commerce-media)
 
 ##### Turn online retail and marketplaces into a thriving ads business
 
@@ -222,7 +222,7 @@
 
 [##### For Retailers/Marketplaces
 
-![Dark blue arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b2b845a2672524fa4e23_Right-arrow.webp)](https://www.molocoads.com/solutions/moloco-commerce-media)
+![Dark blue arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b2b845a2672524fa4e23_Right-arrow.webp)](https://www.molocoads.com/solutions/commerce-media)
 
 [##### For Streaming Platforms
 
@@ -258,7 +258,7 @@
 
 [##### Moloco Commerce Media
 
-![Dark blue arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b2b845a2672524fa4e23_Right-arrow.webp)](https://www.molocoads.com/solutions/moloco-commerce-media)
+![Dark blue arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b2b845a2672524fa4e23_Right-arrow.webp)](https://www.molocoads.com/solutions/commerce-media)
 
 ##### Build your own performance ads business
 
@@ -360,7 +360,7 @@
 
 ###### Monetize your commerce platform
 
-[##### Moloco Commerce Media (Retail Media Platform)](https://www.molocoads.com/solutions/moloco-commerce-media)
+[##### Moloco Commerce Media (Retail Media Platform)](https://www.molocoads.com/solutions/commerce-media)
 
 ###### Launch a full-funnel advertising business
 
@@ -374,7 +374,7 @@
 
 [##### Moloco Ads](https://www.molocoads.com/solutions/moloco-ads)[##### Grow your app on the open internet](https://www.molocoads.com/solutions/moloco-ads)
 
-[##### Moloco Commerce Media](https://www.molocoads.com/solutions/moloco-commerce-media)[##### Turn online retail and marketplaces into a thriving ads business](https://www.molocoads.com/solutions/moloco-commerce-media)
+[##### Moloco Commerce Media](https://www.molocoads.com/solutions/commerce-media)[##### Turn online retail and marketplaces into a thriving ads business](https://www.molocoads.com/solutions/commerce-media)
 
 [##### Moloco Streaming Monetization](https://www.molocoads.com/solutions/moloco-streaming-monetization)[##### Future-proof your streaming ad platform](https://www.molocoads.com/solutions/moloco-streaming-monetization)
 
@@ -426,7 +426,7 @@ Back
 
 [##### Moloco Commerce Media
 
-![Dark blue arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b2b845a2672524fa4e23_Right-arrow.webp)](https://www.molocoads.com/solutions/moloco-commerce-media)
+![Dark blue arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b2b845a2672524fa4e23_Right-arrow.webp)](https://www.molocoads.com/solutions/commerce-media)
 
 ##### Build your own performance ads business
 
@@ -686,7 +686,7 @@ Privacy Policy | Brand Safety Policy  |  Advertising Policy
 
 ##### Solutions
 
-[##### Moloco Ads (Moloco Cloud DS)](https://www.molocoads.com/solutions/moloco-ads)[##### Moloco Commerce Media (Retal Media Platform)](https://www.molocoads.com/products/moloco-retail-media-platform-features)[##### Moloco Streaming Monetization](https://www.molocoads.com/solutions/moloco-streaming-monetization)[##### Moloco SDK](https://www.molocoads.com/solutions/sdk)[##### For Mobile App Marketers](https://www.molocoads.com/solutions/moloco-for-user-acquisition)[##### For Agency Partners](https://www.molocoads.com/solutions/agency-partner-program)[##### For Commerce Platforms](https://www.molocoads.com/solutions/moloco-for-retail-and-marketplaces)[##### For Streaming Platforms](https://www.molocoads.com/solutions/moloco-streaming-monetization)
+[##### Moloco Ads (Moloco Cloud DS)](https://www.molocoads.com/solutions/moloco-ads)[##### Moloco Commerce Media (Retal Media Platform)](https://www.molocoads.com/solutions/moloco-commerce-media)[##### Moloco Streaming Monetization](https://www.molocoads.com/solutions/moloco-streaming-monetization)[##### Moloco SDK](https://www.molocoads.com/solutions/sdk)[##### For Mobile App Marketers](https://www.molocoads.com/solutions/moloco-for-user-acquisition)[##### For Agency Partners](https://www.molocoads.com/solutions/agency-partner-program)[##### For Commerce Platforms](https://www.molocoads.com/solutions/moloco-for-retail-and-marketplaces)[##### For Streaming Platforms](https://www.molocoads.com/solutions/moloco-streaming-monetization)
 
 ##### Company
 
