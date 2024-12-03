@@ -296,9 +296,9 @@ By e-mail at privacy@emarketer.com
 
 Business Insider directly:
 
-By e-mail at privacy@insider-inc.com 
+By e-mail at privacy@businessinsider.com 
 
-For EU specific questions, please email us at euprivacy@insider-inc.com.
+For EU specific questions, please email us at euprivacy@businessinsider.com.
 
 If you have a disability and would like to access this Privacy Policy in an alternative format, please review the Insider Inc. Accessibility Statement.
 
@@ -447,7 +447,7 @@ In order to exercise your Right to Opt Out of “Sales”, “Shares”, and Tar
 
 To exercise to exercise your other rights described above, please submit a request in one of the following ways:
 
-For Business Insider, you can email us at [**privacy@insider-inc.com**](mailto:privacy@insider-inc.com?) with details of your request.
+For Business Insider, you can email us at [**privacy@businessinsider.com**](mailto:privacy@insider-inc.com?) with details of your request.
 
 For EMARKETER, click [here](https://www.insiderintelligence.com/privacy/your-privacy-choices/) and follow the instructions. You can also email us at [**privacy@emarketer.com**](mailto:privacy@emarketer.com?) with details of your request.
 
@@ -471,7 +471,7 @@ We offer incentives on products or services, such as discounts or exclusive offe
 
 When you decide to participate in the Program, we will collect your name, email, and/or country (depending on which you voluntarily provide to us) (collectively, "Registration Information"). Registration Information may also be disclosed to Service Providers or other providers or partners that support our operational business purposes. By voluntarily opting into this Program, you will receive a discount, access to exclusive deals and independent product reviews, and/or you may also receive content from us through email.
 
-If you decide you no longer wish to participate in the Program, you may withdraw at any time by sending an email to [**privacy@insider-inc.com**](mailto:privacy@insider-inc.com?) or [**privacy@emarketer.com**](mailto:privacy@emarketer.com?), as applicable.
+If you decide you no longer wish to participate in the Program, you may withdraw at any time by sending an email to [**privacy@businessinsider.com**](mailto:privacy@insider-inc.com?) or [**privacy@emarketer.com**](mailto:privacy@emarketer.com?), as applicable.
 
 We estimate that the value of your data is equal to the value of the discount provided and/or access to exclusive deals and independent product reviews. Registration Information enables us to deliver personalized content, offers, discounts, and value to you, which enables us to establish a relationship with you, and is valued by Business Insider in order to facilitate a positive customer experience. In determining the value of the Registration Information, we consider the profit generated from purchasing goods from us and our advertising partners that includes personal information, which is reasonably correlated to the value provided to you through personalized content, discounts, or offers.
 
@@ -522,7 +522,7 @@ While our legitimate interests are most extensively detailed in Section 3 of thi
 
 If you are a data subject in a jurisdiction identified in this section, you have the right to access, rectify, or erase any personal data we have collected about you through the Service. You also have the right to data portability and the right to restrict or object to our processing of personal data we have collected about you through the Service. In addition, you have the right to ask us not to process your personal data (or provide it to third parties to process) for marketing purposes or purposes materially different than for which it was originally collected or subsequently authorized by you. You may withdraw your consent at any time for any data processing we do based on consent you have provided to us.
 
-To exercise any of these rights, please contact us at [privacy@insider-inc.com](mailto:privacy@insider-inc.com?) and specify which right you intend to exercise. For EMARKETER, please email your request at [privacy@emarketer.com](mailto:privacy@emarketer.com?). We will respond to your request within 30 days. We may require additional information from you to allow us to confirm your identity. Further, if we are processing your information on behalf of one of our clients, we will refer you to that client, and will support them to the extent required by applicable law in responding to your request. Please note that we store information as necessary to fulfill the purposes for which it was collected, and may continue to retain and use the information even after a data subject request for purposes of our legitimate interests, including as necessary to comply with our legal obligations, resolve disputes, prevent fraud, and enforce our agreements.
+To exercise any of these rights, please contact us at [privacy@businessinsider.com](mailto:privacy@insider-inc.com?) and specify which right you intend to exercise. For EMARKETER, please email your request at [privacy@emarketer.com](mailto:privacy@emarketer.com?). We will respond to your request within 30 days. We may require additional information from you to allow us to confirm your identity. Further, if we are processing your information on behalf of one of our clients, we will refer you to that client, and will support them to the extent required by applicable law in responding to your request. Please note that we store information as necessary to fulfill the purposes for which it was collected, and may continue to retain and use the information even after a data subject request for purposes of our legitimate interests, including as necessary to comply with our legal obligations, resolve disputes, prevent fraud, and enforce our agreements.
 
 If you have any issues with our compliance or you believe that we have not complied with our obligations under this Privacy Policy or European or UK law, you have the right to make a complaint to an EU Data Protection Authority, such as the UK Information Commissioner's Office. You can view the contact information for your data protection authority [here](https://edpb.europa.eu/about-edpb/board/members_en).
 
