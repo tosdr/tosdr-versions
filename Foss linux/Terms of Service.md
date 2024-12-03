@@ -116,7 +116,7 @@ Whether you’re a beginner or an experienced user, FOSS Linux has something for
 ### MORE FROM US
 
 * [Ubuntu (312)](https://www.fosslinux.com/category/ubuntu)
-* [Downloads (260)](https://www.fosslinux.com/category/downloads)
+* [Downloads (261)](https://www.fosslinux.com/category/downloads)
 * [Learn Linux (259)](https://www.fosslinux.com/category/learn-linux)
 * [News (186)](https://www.fosslinux.com/category/news)
 * [Beginner's Guide (183)](https://www.fosslinux.com/category/beginners-guide)
