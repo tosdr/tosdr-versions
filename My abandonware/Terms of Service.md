@@ -107,11 +107,11 @@ Top downloads
 
 Latest releases
 
+* [Diner Dash 2: Restaurant Rescue](https://www.myabandonware.com/game/diner-dash-2-restaurant-rescue-g42)
+* [Diner Dash](https://www.myabandonware.com/game/diner-dash-g41)
 * [Sakura Taisen 2: Kimi, Shinitamou Koto Nakare](https://www.myabandonware.com/game/sakura-taisen-2-kimi-shinitamou-koto-nakare-p6p)
 * [Space II](https://www.myabandonware.com/game/space-ii-tdc)
 * [Space](https://www.myabandonware.com/game/space-tdb)
-* [Ancipital](https://www.myabandonware.com/game/ancipital-4hq)
-* [Color Spreading](https://www.myabandonware.com/game/color-spreading-td9)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
