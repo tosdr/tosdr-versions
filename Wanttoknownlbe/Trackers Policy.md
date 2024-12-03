@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/vonnis-unilever-mag-risicos-becel-ontkennen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/waarom-moet-die-meneer-assad-eigenlijk-weg/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
