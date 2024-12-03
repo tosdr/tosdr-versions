@@ -321,16 +321,16 @@ Advertise
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![Becker Minty Linear tumblers.](https://static.ffx.io/images/$zoom_0.2122%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_188/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/63111b728cce454bce2e2a780b418f39fb42bee8)](https://www.afr.com/life-and-luxury/design/stuck-for-ideas-two-top-australian-designers-share-their-wish-lists-20241112-p5kq2t)
+[![Palau_Four Seasons Explorer](https://static.ffx.io/images/$zoom_0.5519%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_96/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/faf98df28dae4f7497eb20a949fd921b68979eaf)](https://www.afr.com/life-and-luxury/travel/six-getaways-to-pop-under-the-tree-no-wrapping-required-20241104-p5knra)
 
-### [Stuck for ideas? Two top Australian designers share their wish lists](https://www.afr.com/life-and-luxury/design/stuck-for-ideas-two-top-australian-designers-share-their-wish-lists-20241112-p5kq2t)
+### [The best island holiday no one has heard of: six luxury escapes](https://www.afr.com/life-and-luxury/travel/six-getaways-to-pop-under-the-tree-no-wrapping-required-20241104-p5knra)
 
-* 55 mins ago
-* Stephen Todd
+* 13 mins ago
+* Ute Junker
 
-* ### [Ideas for the perfect festive setting (for hosts and guests)](https://www.afr.com/life-and-luxury/fashion-and-style/ideas-for-the-perfect-festive-setting-for-hosts-and-guests-20241105-p5kny0)
+* ### [This beige box will transform your TV, and other great gifts](https://www.afr.com/technology/tis-the-season-for-gadgets-under-500-20241030-p5kmir)
     
-* ### [Six getaways to pop under the tree, no wrapping required](https://www.afr.com/life-and-luxury/travel/six-getaways-to-pop-under-the-tree-no-wrapping-required-20241104-p5knra)
+* ### [Stuck for ideas? Two top Australian designers share their wish lists](https://www.afr.com/life-and-luxury/design/stuck-for-ideas-two-top-australian-designers-share-their-wish-lists-20241112-p5kq2t)
     
 
 [Rich List](https://www.afr.com/rich-list)
