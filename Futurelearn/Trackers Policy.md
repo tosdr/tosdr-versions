@@ -8,9 +8,9 @@ FutureLearn uses cookies to enhance your experience of the website. All but stri
 
 Dismiss
 
-Black Friday flash sale! Get 15% off short courses with code BF24.
+**New offer! Get 20% off months of Unlimited Monthly. Start your subscription for just ~$49.99~ $19.99.** [T&Cs apply](https://www.futurelearn.com/info/unlimited-offer-dec-2024)
 
-[Discover now](https://www.futurelearn.com/courses)
+[Find out more](https://www.futurelearn.com/unlimited)
 
 Search term
 
