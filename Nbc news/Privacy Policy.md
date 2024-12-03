@@ -6,7 +6,7 @@ For the best experience, turn your mobile device portrait mode.
 
 [Skip to main content](#main-content)
 
-[![Home](https://cdn2.nbcuni.com/NBCUniversal/WICKED-X-NBCUNIVERSAL-LOGO-C.png?VersionId=vjESuFs21y.qJqOClPOmAVFTQEZ2wMhe)](https://www.nbcuniversal.com/ "Home")
+[![Home](https://cdn2.nbcuni.com/NBCUniversal/NBCUniversal_nav_logo.png?VersionId=QTjl3DWXzRwrn3sZuJhgf0LkfPYneybK)](https://www.nbcuniversal.com/ "Home")
 
  ![Open Menu](/themes/custom/universal/src/img/icons/icon_menu.png)![Close Menu](/themes/custom/universal/src/img/icons/icon_close.png)
 
@@ -370,7 +370,7 @@ To find out more about the information we collect during our recruitment process
 
 ![Swipe left to see more](https://cdn2.nbcuni.com/NBCUniversal/2020-02/swipe-left-icon_1.png?VersionId=cOeGG3x4CNBXPgNw7B5cNFlo_TwE7lM6)
 
-[![NBCUniversal](https://cdn2.nbcuni.com/NBCUniversal/WICKED-X-NBCUNIVERSAL-LOGO-C.png?VersionId=vjESuFs21y.qJqOClPOmAVFTQEZ2wMhe)](https://www.nbcuniversal.com/)
+[![NBCUniversal](https://cdn2.nbcuni.com/NBCUniversal/NBCUniversal_nav_logo.png?VersionId=QTjl3DWXzRwrn3sZuJhgf0LkfPYneybK)](https://www.nbcuniversal.com/)
 
 [Follow us on LinkedIn](https://www.linkedin.com/company/nbcuniversal-inc-/) [Follow us on Twitter](https://twitter.com/nbcuniversal) [Like us on Facebook](https://www.facebook.com/nbcuniversal/) [instagram](https://www.instagram.com/nbcuniversal/)
 
