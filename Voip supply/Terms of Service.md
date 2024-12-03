@@ -362,6 +362,9 @@ We may ask for this help code:
     
 * [Zoom Certified Devices](https://www.voipsupply.com/zoom-certified-devices)
 * [Shop by Service Provider](https://www.voipsupply.com/cloudspan/shop-by-service-provider)
+    
+    * [Sangoma](https://www.voipsupply.com/cloudspan/shop-by-service-provider/shop-by-service-provider-sangoma)
+    
 * [Contact Sales](https://www.voipsupply.com/contact-sales-team)
 * [On Sale](https://www.voipsupply.com/sale)
 * [Reseller Partner Program](https://www.voipsupply.com/partner-program)
@@ -448,13 +451,13 @@ Glenn Buchheit
 
 [\[email protected\]](https://www.voipsupply.com/cdn-cgi/l/email-protection)
 
-[![Browse our VoIP Buyer's Guides](https://www.voipsupply.com/media/version1731465061/wysiwyg/banners/buyer_s_guide_side_banner_creative.png)](https://www.voipsupply.com/voip-buyers-guides)
-
 [![Plus 1 Refresh Warranty](https://www.voipsupply.com/media/version1731465061/wysiwyg/Plus1SIDE.png)](https://www.voipsupply.com/plus-six-warranty)
 
 [![VoIP cloud service and cloud phone systems](https://www.voipsupply.com/media/version1731465061/wysiwyg/voip-cloud-service-quote.png)](https://www.voipsupply.com/cloudspan)
 
 [![Let us program your phone!](https://www.voipsupply.com/media/version1731465061/wysiwyg/ProvisioningSidebar2.png)](https://www.voipsupply.com/request-info-for-voip-phone-pbx-provisioning)
+
+[![Browse our VoIP Buyer's Guides](https://www.voipsupply.com/media/version1731465061/wysiwyg/banners/buyer_s_guide_side_banner_creative.png)](https://www.voipsupply.com/voip-buyers-guides)
 
 **VoIP Supply Programs and Tools**
 
