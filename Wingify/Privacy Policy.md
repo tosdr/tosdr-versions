@@ -56,7 +56,7 @@
     * [Multivariate Testing](https://vwo.com/testing/multivariate-testing/)
     * [Integrations](https://vwo.com/why-us/technology/integrations/)
     * [Hypothesis](https://vwo.com/plan/hypotheses/)
-    * [Bayesian Stats Engine](https://vwo.com/why-us/technology/bayesian-statistics/)
+    * [Enhanced SmartStats](https://vwo.com/why-us/technology/statistics/)
     * [(+125 more)](https://vwo.com/testing/#features)
     
     ![Testing Overview Illustration](https://static.wingify.com/gcp/wp-content/themes/vwo/images/new-website/product-dropdown/testing-overview.svg) ![Testing Web Illustration](https://static.wingify.com/gcp/wp-content/themes/vwo/images/new-website/product-dropdown/testing-web-updated-new@2x.png?tr=w-0.5,h-0.5) ![Testing Mobile Illustration](https://static.wingify.com/gcp/wp-content/themes/vwo/images/new-website/product-dropdown/testing-mobile-updated@2x.png?tr=w-0.5,h-0.5) ![Testing Serverside Illustration](https://static.wingify.com/gcp/wp-content/themes/vwo/images/new-website/product-dropdown/testing-server-updated-new@2x.png?tr=w-0.5,h-0.5)
@@ -116,6 +116,7 @@
     * [Guarantee of Success](https://vwo.com/why-us/customer-success/)
         * [24x7 Support](https://vwo.com/why-us/customer-success/24-7-support/)
     * [Thoughtful Technology](https://vwo.com/why-us/technology/)
+        * [Enhanced SmartStats](https://vwo.com/why-us/technology/statistics/)
         * [Bayesian Statistics](https://vwo.com/why-us/technology/bayesian-statistics/)
         * [Integration](https://vwo.com/why-us/technology/integrations/)
         * [Load Time Performance](https://vwo.com/why-us/technology/zero-impact-loading/)
@@ -191,6 +192,10 @@
     
     Latest Blogs
     
+    [![](https://static.wingify.com/gcp/uploads/sites/3/2024/07/Feature-image-Introducing-the-New-Stats-Engine-and-Enhanced-VWO-Reports.jpg?tr=w-60,h-50)
+    
+    Introducing the New Stats Engine and enhanced VWO Reports](https://vwo.com/blog/new-stats-engine-and-enhanced-vwo-reports/)
+    
     [![](https://static.wingify.com/gcp/uploads/sites/3/2024/11/Feature-image-Top-10-Product-Research-Tools_-Detailed-Guide-for-Product-Teams.jpg?tr=w-60,h-50)
     
     Top 10+ Product Research Tools: Detailed  Guide for Product Teams](https://vwo.com/blog/product-research-tools/)
@@ -206,10 +211,6 @@
     [![](https://static.wingify.com/gcp/uploads/sites/3/2024/11/Feature-image-CRO-Perspectives-Ian-Fong.jpg?tr=w-60,h-50)
     
     Leverage CRO for Cost Efficiency and Strategy Building, Not Just Revenue](https://vwo.com/blog/ian-fong-interview/)
-    
-    [![](https://static.wingify.com/gcp/uploads/sites/3/2024/11/Feature-image-Top-18-Web-Survey-Tools-_-Best-Free-Premium-Survey-Makers-1.jpg?tr=w-60,h-50)
-    
-    Top 18 Online Survey Tools | Best Free & Premium Survey Makers](https://vwo.com/blog/online-survey-tools/)
     
     Featured Blogs
     
