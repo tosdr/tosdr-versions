@@ -1,5 +1,3 @@
-[🔥Ente's last Black Friday sale](https://ente.io/blackfriday)
-
 [](https://ente.io/)[Star](https://github.com/ente-io/ente)
 
 [Features](https://ente.io/#features)[Pricing](https://ente.io/#pricing)[About](https://ente.io/about)[Blog](https://ente.io/blog)[FAQ](https://ente.io/faq)[Community](https://ente.io/community)
