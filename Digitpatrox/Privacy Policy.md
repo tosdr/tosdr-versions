@@ -20,16 +20,16 @@ Tuesday, December 3 2024
 
 Latest
 
-* [Will AI help doctors decide whether you live or die? – Computerworld](https://digitpatrox.com/will-ai-help-doctors-decide-whether-you-live-or-die-computerworld/)
-* [The M2 MacBook Air Has Its Lowest Price Ever for Cyber Monday](https://digitpatrox.com/the-m2-macbook-air-has-its-lowest-price-ever-for-cyber-monday/)
-* [Should You Buy a Steam Deck if You Don’t Have a Gaming PC?](https://digitpatrox.com/should-you-buy-a-steam-deck-if-you-dont-have-a-gaming-pc/)
-* [BT orders staff back into the office with “three together, two wherever” policy change](https://digitpatrox.com/bt-orders-staff-back-into-the-office-with-three-together-two-wherever-policy-change/)
-* [How to Create Tables in HTML: Simple Steps for Beginners](https://digitpatrox.com/how-to-create-tables-in-html-simple-steps-for-beginners/)
-* [Even after Black Friday and Cyber Monday, the AirPods Pro 2 are a better deal than the AirPods 4](https://digitpatrox.com/even-after-black-friday-and-cyber-monday-the-airpods-pro-2-are-a-better-deal-than-the-airpods-4/)
-* [Mozilla really wants you to set Firefox as default Windows browser](https://digitpatrox.com/mozilla-really-wants-you-to-set-firefox-as-default-windows-browser/)
-* [Data brokers may be banned from selling your social security number](https://digitpatrox.com/data-brokers-may-be-banned-from-selling-your-social-security-number/)
-* [Your Friendly Neighborhood Spider-Man: Release Date, Trailer, Cast & More](https://digitpatrox.com/your-friendly-neighborhood-spider-man-release-date-trailer-cast-more/)
-* [Intel CEO Pat Gelsinger retires – Computerworld](https://digitpatrox.com/intel-ceo-pat-gelsinger-retires-computerworld/)
+* [Ransomware remediation: What steps should your business take for recovery?](https://digitpatrox.com/ransomware-remediation-what-steps-should-your-business-take-for-recovery/)
+* [If you want security, start with secure products – Computerworld](https://digitpatrox.com/if-you-want-security-start-with-secure-products-computerworld/)
+* [I’m a Certified Personal Trainer, and These Are My Favorite Fitness Sales That Are Still Live](https://digitpatrox.com/im-a-certified-personal-trainer-and-these-are-my-favorite-fitness-sales-that-are-still-live/)
+* [Ransomware gang says it hacked Goodwill, shut down stores in Texas](https://digitpatrox.com/ransomware-gang-says-it-hacked-goodwill-shut-down-stores-in-texas/)
+* [How to add multiple time zone clocks on Windows 11](https://digitpatrox.com/how-to-add-multiple-time-zone-clocks-on-windows-11/)
+* [You Should Play More Simulation Games (Especially the Boring Ones)](https://digitpatrox.com/you-should-play-more-simulation-games-especially-the-boring-ones/)
+* [AWS re:Invent 2024 live: All the news and updates as they happen](https://digitpatrox.com/aws-reinvent-2024-live-all-the-news-and-updates-as-they-happen/)
+* [Over 600,000 Personal Records Exposed by Data Broker](https://digitpatrox.com/over-600000-personal-records-exposed-by-data-broker/)
+* [Cyber Monday isn’t over — 35 deals you can still shop for a limited time](https://digitpatrox.com/cyber-monday-isnt-over-35-deals-you-can-still-shop-for-a-limited-time/)
+* [Police seize Matrix encrypted chat service after spying on criminals](https://digitpatrox.com/police-seize-matrix-encrypted-chat-service-after-spying-on-criminals/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3613982-0-82126400-1733223823-shutterstock_2271198777.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/will-ai-help-doctors-decide-whether-you-live-or-die-computerworld/)
+* [![](https://cdn.mos.cms.futurecdn.net/pMFXPoiA6Jk9ak6npfoxZR-1200-80.jpg)](https://digitpatrox.com/ransomware-remediation-what-steps-should-your-business-take-for-recovery/)
     
-    [Will AI help doctors decide whether you live or die? – Computerworld](https://digitpatrox.com/will-ai-help-doctors-decide-whether-you-live-or-die-computerworld/)
+    [Ransomware remediation: What steps should your business take for recovery?](https://digitpatrox.com/ransomware-remediation-what-steps-should-your-business-take-for-recovery/)
     
-    13 minutes ago
+    50 minutes ago
     
-* [![](https://lifehacker.com/imagery/articles/01JD7TJH9A9AQXE5JVDJ4GAMAX/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/the-m2-macbook-air-has-its-lowest-price-ever-for-cyber-monday/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3616414-0-02838600-1733247172-resized_1599321841-100935594-orig.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/if-you-want-security-start-with-secure-products-computerworld/)
     
-    [The M2 MacBook Air Has Its Lowest Price Ever for Cyber Monday](https://digitpatrox.com/the-m2-macbook-air-has-its-lowest-price-ever-for-cyber-monday/)
+    [If you want security, start with secure products – Computerworld](https://digitpatrox.com/if-you-want-security-start-with-secure-products-computerworld/)
     
-    41 minutes ago
+    1 hour ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/12/half-life-2-on-a-steam-deck-oled-on-a-macbook-pro.jpg)](https://digitpatrox.com/should-you-buy-a-steam-deck-if-you-dont-have-a-gaming-pc/)
+* [![](https://lifehacker.com/imagery/articles/01JDAT72QQYDDGKTGZM9X4TETT/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/im-a-certified-personal-trainer-and-these-are-my-favorite-fitness-sales-that-are-still-live/)
     
-    [Should You Buy a Steam Deck if You Don’t Have a Gaming PC?](https://digitpatrox.com/should-you-buy-a-steam-deck-if-you-dont-have-a-gaming-pc/)
-    
-    52 minutes ago
-    
-* [![](https://cdn.mos.cms.futurecdn.net/hh3kGMT7UA8QaeCWbpBQrT-1200-80.jpg)](https://digitpatrox.com/bt-orders-staff-back-into-the-office-with-three-together-two-wherever-policy-change/)
-    
-    [BT orders staff back into the office with “three together, two wherever” policy change](https://digitpatrox.com/bt-orders-staff-back-into-the-office-with-three-together-two-wherever-policy-change/)
+    [I’m a Certified Personal Trainer, and These Are My Favorite Fitness Sales That Are Still Live](https://digitpatrox.com/im-a-certified-personal-trainer-and-these-are-my-favorite-fitness-sales-that-are-still-live/)
     
     2 hours ago
     
-* [![](https://assets.techrepublic.com/uploads/2024/12/tr_20241202-create-html-tables.jpg)](https://digitpatrox.com/how-to-create-tables-in-html-simple-steps-for-beginners/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/12/Ransomware-gang-says-it-hacked-Goodwill-shut-down-stores-in-Texas.jpg)](https://digitpatrox.com/ransomware-gang-says-it-hacked-goodwill-shut-down-stores-in-texas/)
     
-    [How to Create Tables in HTML: Simple Steps for Beginners](https://digitpatrox.com/how-to-create-tables-in-html-simple-steps-for-beginners/)
+    [Ransomware gang says it hacked Goodwill, shut down stores in Texas](https://digitpatrox.com/ransomware-gang-says-it-hacked-goodwill-shut-down-stores-in-texas/)
+    
+    2 hours ago
+    
+* [![](https://pureinfotech.com/wp-content/uploads/2024/12/windows-11-multiple-clocks-hero-mauro-huculak.webp)](https://digitpatrox.com/how-to-add-multiple-time-zone-clocks-on-windows-11/)
+    
+    [How to add multiple time zone clocks on Windows 11](https://digitpatrox.com/how-to-add-multiple-time-zone-clocks-on-windows-11/)
     
     2 hours ago
     
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [13 minutes ago
+* [50 minutes ago
     
-    ### Will AI help doctors decide whether you live or die? – Computerworld](https://digitpatrox.com/will-ai-help-doctors-decide-whether-you-live-or-die-computerworld/)
-* [41 minutes ago
+    ### Ransomware remediation: What steps should your business take for recovery?](https://digitpatrox.com/ransomware-remediation-what-steps-should-your-business-take-for-recovery/)
+* [1 hour ago
     
-    ### The M2 MacBook Air Has Its Lowest Price Ever for Cyber Monday](https://digitpatrox.com/the-m2-macbook-air-has-its-lowest-price-ever-for-cyber-monday/)
-* [52 minutes ago
+    ### If you want security, start with secure products – Computerworld](https://digitpatrox.com/if-you-want-security-start-with-secure-products-computerworld/)
+* [2 hours ago
     
-    ### Should You Buy a Steam Deck if You Don’t Have a Gaming PC?](https://digitpatrox.com/should-you-buy-a-steam-deck-if-you-dont-have-a-gaming-pc/)
+    ### I’m a Certified Personal Trainer, and These Are My Favorite Fitness Sales That Are Still Live](https://digitpatrox.com/im-a-certified-personal-trainer-and-these-are-my-favorite-fitness-sales-that-are-still-live/)
 
 Most Popular Topics
 
-* [September 26, 2024
+* [September 1, 2024
     
-    ### New GitHub rules mean users can store code and repository data in the EU](https://digitpatrox.com/new-github-rules-mean-users-can-store-code-and-repository-data-in-the-eu/)
-* [October 4, 2024
+    ### Should You Buy a Samsung Bespoke Fridge?](https://digitpatrox.com/should-you-buy-a-samsung-bespoke-fridge/)
+* [1 week ago
     
-    ### NYT Connections today hints and answers — Friday, October 4 (#481)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-friday-october-4-481/)
-* [3 weeks ago
+    ### How to use Google Gemini on your phone](https://digitpatrox.com/how-to-use-google-gemini-on-your-phone/)
+* [October 28, 2024
     
-    ### Apple releases Final Cut Pro 11 for Mac, plus iPhone and iPad updates — here’s what’s new](https://digitpatrox.com/apple-releases-final-cut-pro-11-for-mac-plus-iphone-and-ipad-updates-heres-whats-new/)
+    ### 6 top new TV shows to stream this week on Netflix, Disney Plus and more (Oct. 28-Nov. 3)](https://digitpatrox.com/6-top-new-tv-shows-to-stream-this-week-on-netflix-disney-plus-and-more-oct-28-nov-3/)
 
 Last Modified Topics
 
+* [2 hours ago
+    
+    ### AWS re:Invent 2024 live: All the news and updates as they happen](https://digitpatrox.com/aws-reinvent-2024-live-all-the-news-and-updates-as-they-happen/)
 * [3 hours ago
     
-    ### Mozilla really wants you to set Firefox as default Windows browser](https://digitpatrox.com/mozilla-really-wants-you-to-set-firefox-as-default-windows-browser/)
+    ### Over 600,000 Personal Records Exposed by Data Broker](https://digitpatrox.com/over-600000-personal-records-exposed-by-data-broker/)
 * [3 hours ago
     
-    ### Data brokers may be banned from selling your social security number](https://digitpatrox.com/data-brokers-may-be-banned-from-selling-your-social-security-number/)
-* [3 hours ago
-    
-    ### Your Friendly Neighborhood Spider-Man: Release Date, Trailer, Cast & More](https://digitpatrox.com/your-friendly-neighborhood-spider-man-release-date-trailer-cast-more/)
+    ### Cyber Monday isn’t over — 35 deals you can still shop for a limited time](https://digitpatrox.com/cyber-monday-isnt-over-35-deals-you-can-still-shop-for-a-limited-time/)
 
 Most Viewed Topics
 
 * [August 13, 2024
     
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
-* [August 12, 2024
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
+* [August 13, 2024
     
-    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 * [October 2, 2024
     
     ### The best noise-canceling headphones for 2024](https://digitpatrox.com/the-best-noise-canceling-headphones-for-2024/)
