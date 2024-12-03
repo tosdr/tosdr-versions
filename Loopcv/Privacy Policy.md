@@ -18,6 +18,7 @@
     * [Resume Parsing](http://www.loopcv.pro/resume-parsing)
     * [Lead Scoring](http://www.loopcv.pro/lead-scoring)
     * [Companies Hiring](http://www.loopcv.pro/companies-hiring)
+    * [Reverse Recruiting](http://www.loopcv.pro/reverse-recruiting)
 * Features
     * [Auto apply](http://www.loopcv.pro/autoapply)
     * [One click apply](http://www.loopcv.pro/manual)
