@@ -6,9 +6,9 @@
     * [Contact us](https://www.untu.us/contact-us/)
     * [Join our team](https://www.untu.us/join-our-team/)
     
-    [![designing a website](/_next/image/?url=https%3A%2F%2Fmedia.winwithoptimal.com%2Fwp-content%2Fuploads%2F2024%2F11%2FUntitled-design-20.png&w=3840&q=75)
+    [![ad age automotive marketing award](/_next/image/?url=https%3A%2F%2Fmedia.winwithoptimal.com%2Fwp-content%2Fuploads%2F2024%2F12%2FOptimal-AdAge-Mazda-Winner-1.png&w=3840&q=75)
     
-    ### Website Migration Guide & Checklist for SEO](https://www.untu.us/insights/seo-website-migration/)
+    ### Optimal wins 2024 Ad Age Global Automotive Marketing Award for Best Use of Data](https://www.untu.us/insights/optimal-wins-ad-age-automotive-marketing-award/)
     
 * [Solutions](https://www.untu.us/solutions/)
     
@@ -367,7 +367,11 @@ Get ahead with the news and insights you need to inform and inspire your next su
 
 [Read more](https://www.untu.us/insights/)
 
-[![designing a website](/_next/image/?url=https%3A%2F%2Fmedia.winwithoptimal.com%2Fwp-content%2Fuploads%2F2024%2F11%2FUntitled-design-20.png&w=3840&q=75)
+[![ad age automotive marketing award](/_next/image/?url=https%3A%2F%2Fmedia.winwithoptimal.com%2Fwp-content%2Fuploads%2F2024%2F12%2FOptimal-AdAge-Mazda-Winner-1.png&w=3840&q=75)
+
+Consumer
+
+### Optimal wins 2024 Ad Age Global Automotive Marketing Award for Best Use of Data](https://www.untu.us/insights/optimal-wins-ad-age-automotive-marketing-award/)[![designing a website](/_next/image/?url=https%3A%2F%2Fmedia.winwithoptimal.com%2Fwp-content%2Fuploads%2F2024%2F11%2FUntitled-design-20.png&w=3840&q=75)
 
 ConsumerEntertainmentHealthcare
 
@@ -375,11 +379,7 @@ ConsumerEntertainmentHealthcare
 
 ConsumerEntertainmentPoliticsPublic affairs
 
-### Optimal is a 3x AdExchanger Awards Finalist](https://www.untu.us/insights/optimal-is-a-3x-adexchanger-awards-finalist/)[![person watching streaming ctv with a remote](/_next/image/?url=https%3A%2F%2Fmedia.winwithoptimal.com%2Fwp-content%2Fuploads%2F2024%2F08%2FBlog-image-CTV.png&w=3840&q=75)
-
-PoliticsPublic affairs
-
-### Optimal and Beeswax: Revolutionizing Voter Targeting Through Advanced CTV Technology](https://www.untu.us/insights/optimal-and-beeswax-revolutionizing-ctv-campaigns/)
+### Optimal is a 3x AdExchanger Awards Finalist](https://www.untu.us/insights/optimal-is-a-3x-adexchanger-awards-finalist/)
 
 ### Company
 
