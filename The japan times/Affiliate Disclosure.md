@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[December 03, 2024](https://www.japantimes.co.jp/archive/2024/12/03/ "archive page")
+[December 04, 2024](https://www.japantimes.co.jp/archive/2024/12/04/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -131,58 +131,42 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
+[Japan’s 2024 buzzword of the year urges a reevaluation of past norms](https://www.japantimes.co.jp/news/2024/12/02/japan/society/2024-buzzword-of-the-year-announced/ "Japan’s 2024 buzzword of the year urges a reevaluation of past norms")
+
+  [![Sadao Abe, who played the role of a time-traveling Showa Era teacher transported to present day in a popular TV drama, receives the 2024 buzzword of the year award for the word "futehodo," the nickname of the series.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/02/437645.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Sadao Abe, who played the role of a time-traveling Showa Era teacher transported to present day in a popular TV drama, receives the 2024 buzzword of the year award for the word "futehodo," the nickname of the series.")](https://www.japantimes.co.jp/news/2024/12/02/japan/society/2024-buzzword-of-the-year-announced/ "Japan’s 2024 buzzword of the year urges a reevaluation of past norms")
+
 [Princess Aiko, only child of emperor, turns 23](https://www.japantimes.co.jp/news/2024/12/01/japan/princess-aiko-turns-23/ "Princess Aiko, only child of emperor, turns 23")
 
   [![Princess Aiko on Nov. 22 ahead of her 23rd birthday on Sunday at the Imperial Palace](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/01/437345.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Aiko on Nov. 22 ahead of her 23rd birthday on Sunday at the Imperial Palace")](https://www.japantimes.co.jp/news/2024/12/01/japan/princess-aiko-turns-23/ "Princess Aiko, only child of emperor, turns 23")
 
-[Don’t worry, you can still use your Japan health insurance card — for now](https://www.japantimes.co.jp/news/2024/12/01/japan/explainer/my-number-insurance-card-explainer/ "Don’t worry, you can still use your Japan health insurance card — for now")
-
-  [![A My Number card reader at a pediatric clinic in Tokyo. While the government will stop issuing new health insurance cards on Monday, most people will remain unaffected by the move in the short term as existing health insurance cards can still be used for another year.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/01/437264.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A My Number card reader at a pediatric clinic in Tokyo. While the government will stop issuing new health insurance cards on Monday, most people will remain unaffected by the move in the short term as existing health insurance cards can still be used for another year.")](https://www.japantimes.co.jp/news/2024/12/01/japan/explainer/my-number-insurance-card-explainer/ "Don’t worry, you can still use your Japan health insurance card — for now")
-
-[Ukraine war reinvigorating Finland’s fighting spirit](https://www.japantimes.co.jp/news/2024/12/02/world/politics/finland-defense-ukraine-russia/ "Ukraine war reinvigorating Finland’s fighting spirit")
-
-  [![A Finnish soldier operates a towed 155 mm field gun during the Northern Forest land force exercise in Rovajarvi, Finland, in May 2023.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/02/437509.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A Finnish soldier operates a towed 155 mm field gun during the Northern Forest land force exercise in Rovajarvi, Finland, in May 2023.")](https://www.japantimes.co.jp/news/2024/12/02/world/politics/finland-defense-ukraine-russia/ "Ukraine war reinvigorating Finland’s fighting spirit")
-
-[Europe eyes 'boots on the ground' in Ukraine as possible peace deal option](https://www.japantimes.co.jp/news/2024/12/02/world/politics/ukraine-europe-baltics-nordics-troops/ "Europe eyes 'boots on the ground' in Ukraine as possible peace deal option")
-
-  [![A serviceman with the Ukrainian Army's 24th mechanized brigade fires a machine gun during an exercise, amid Russia's attack on Ukraine, in the country's Donetsk region on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/02/437555.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "A serviceman with the Ukrainian Army's 24th mechanized brigade fires a machine gun during an exercise, amid Russia's attack on Ukraine, in the country's Donetsk region on Friday.")](https://www.japantimes.co.jp/news/2024/12/02/world/politics/ukraine-europe-baltics-nordics-troops/ "Europe eyes 'boots on the ground' in Ukraine as possible peace deal option")
-
 [Ishiba questioned on political reform, social issues and the economy](https://www.japantimes.co.jp/news/2024/12/02/japan/politics/ishiba-parliamentary-questioning/ "Ishiba questioned on political reform, social issues and the economy")
 
   [![Prime Minister Shigeru Ishiba speaks in the Lower House in Tokyo on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/02/437666.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba speaks in the Lower House in Tokyo on Monday.")](https://www.japantimes.co.jp/news/2024/12/02/japan/politics/ishiba-parliamentary-questioning/ "Ishiba questioned on political reform, social issues and the economy")
+
+[Nearly 90% in Japan and China have negative views of other](https://www.japantimes.co.jp/news/2024/12/03/japan/society/japan-china-negative-views/ "Nearly 90% in Japan and China have negative views of other")
+
+  [![Chinese people's sentiment toward Japan is believed to be impacted by their use of social media platforms such as Weibo and Douyin, as well as whether they have visited Japan.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/02/437682.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Chinese people's sentiment toward Japan is believed to be impacted by their use of social media platforms such as Weibo and Douyin, as well as whether they have visited Japan.")](https://www.japantimes.co.jp/news/2024/12/03/japan/society/japan-china-negative-views/ "Nearly 90% in Japan and China have negative views of other")
+
+[Bear that attacked Akita supermarket employee captured](https://www.japantimes.co.jp/news/2024/12/02/japan/society/japan-bear-supermarket-attack-captured/ "Bear that attacked Akita supermarket employee captured")
+
+  [![A brown bear in Hokkaido. In the city of Akita, a bear that attacked a supermarket employee over the weekend was captured in a box trap on Monday morning.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/02/437602.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A brown bear in Hokkaido. In the city of Akita, a bear that attacked a supermarket employee over the weekend was captured in a box trap on Monday morning.")](https://www.japantimes.co.jp/news/2024/12/02/japan/society/japan-bear-supermarket-attack-captured/ "Bear that attacked Akita supermarket employee captured")
 
 Editors' Picks
 --------------
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Princess Aiko, only child of emperor, turns 23](https://www.japantimes.co.jp/news/2024/12/01/japan/princess-aiko-turns-23/ "Princess Aiko, only child of emperor, turns 23")
+[Japan’s 2024 buzzword of the year urges a reevaluation of past norms](https://www.japantimes.co.jp/news/2024/12/02/japan/society/2024-buzzword-of-the-year-announced/ "Japan’s 2024 buzzword of the year urges a reevaluation of past norms")
 
-  [![Princess Aiko on Nov. 22 ahead of her 23rd birthday on Sunday at the Imperial Palace](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/01/437345.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Aiko on Nov. 22 ahead of her 23rd birthday on Sunday at the Imperial Palace")](https://www.japantimes.co.jp/news/2024/12/01/japan/princess-aiko-turns-23/ "Princess Aiko, only child of emperor, turns 23")
+By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
+
+  [![Sadao Abe, who played the role of a time-traveling Showa Era teacher transported to present day in a popular TV drama, receives the 2024 buzzword of the year award for the word "futehodo," the nickname of the series.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/02/437645.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Sadao Abe, who played the role of a time-traveling Showa Era teacher transported to present day in a popular TV drama, receives the 2024 buzzword of the year award for the word "futehodo," the nickname of the series.")](https://www.japantimes.co.jp/news/2024/12/02/japan/society/2024-buzzword-of-the-year-announced/ "Japan’s 2024 buzzword of the year urges a reevaluation of past norms")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Don’t worry, you can still use your Japan health insurance card — for now](https://www.japantimes.co.jp/news/2024/12/01/japan/explainer/my-number-insurance-card-explainer/ "Don’t worry, you can still use your Japan health insurance card — for now")
+[Princess Aiko, only child of emperor, turns 23](https://www.japantimes.co.jp/news/2024/12/01/japan/princess-aiko-turns-23/ "Princess Aiko, only child of emperor, turns 23")
 
-By [Tomoko Otake](https://www.japantimes.co.jp/author/3264/tomoko-otake/ "Tomoko Otake")  
-
-  [![A My Number card reader at a pediatric clinic in Tokyo. While the government will stop issuing new health insurance cards on Monday, most people will remain unaffected by the move in the short term as existing health insurance cards can still be used for another year.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/01/437264.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A My Number card reader at a pediatric clinic in Tokyo. While the government will stop issuing new health insurance cards on Monday, most people will remain unaffected by the move in the short term as existing health insurance cards can still be used for another year.")](https://www.japantimes.co.jp/news/2024/12/01/japan/explainer/my-number-insurance-card-explainer/ "Don’t worry, you can still use your Japan health insurance card — for now")
-
-[WORLD](https://www.japantimes.co.jp/news/world/ "WORLD")
-
-[Ukraine war reinvigorating Finland’s fighting spirit](https://www.japantimes.co.jp/news/2024/12/02/world/politics/finland-defense-ukraine-russia/ "Ukraine war reinvigorating Finland’s fighting spirit")
-
-By [Gabriel Dominguez](https://www.japantimes.co.jp/author/3151/gabriel-dominguez/ "Gabriel Dominguez")  
-
-  [![A Finnish soldier operates a towed 155 mm field gun during the Northern Forest land force exercise in Rovajarvi, Finland, in May 2023.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/02/437509.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A Finnish soldier operates a towed 155 mm field gun during the Northern Forest land force exercise in Rovajarvi, Finland, in May 2023.")](https://www.japantimes.co.jp/news/2024/12/02/world/politics/finland-defense-ukraine-russia/ "Ukraine war reinvigorating Finland’s fighting spirit")
-
-[WORLD](https://www.japantimes.co.jp/news/world/ "WORLD")
-
-[Europe eyes 'boots on the ground' in Ukraine as possible peace deal option](https://www.japantimes.co.jp/news/2024/12/02/world/politics/ukraine-europe-baltics-nordics-troops/ "Europe eyes 'boots on the ground' in Ukraine as possible peace deal option")
-
-By [Gabriel Dominguez](https://www.japantimes.co.jp/author/3151/gabriel-dominguez/ "Gabriel Dominguez")  
-
-  [![A serviceman with the Ukrainian Army's 24th mechanized brigade fires a machine gun during an exercise, amid Russia's attack on Ukraine, in the country's Donetsk region on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/02/437555.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "A serviceman with the Ukrainian Army's 24th mechanized brigade fires a machine gun during an exercise, amid Russia's attack on Ukraine, in the country's Donetsk region on Friday.")](https://www.japantimes.co.jp/news/2024/12/02/world/politics/ukraine-europe-baltics-nordics-troops/ "Europe eyes 'boots on the ground' in Ukraine as possible peace deal option")
+  [![Princess Aiko on Nov. 22 ahead of her 23rd birthday on Sunday at the Imperial Palace](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/01/437345.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Aiko on Nov. 22 ahead of her 23rd birthday on Sunday at the Imperial Palace")](https://www.japantimes.co.jp/news/2024/12/01/japan/princess-aiko-turns-23/ "Princess Aiko, only child of emperor, turns 23")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
@@ -191,6 +175,20 @@ By [Gabriel Dominguez](https://www.japantimes.co.jp/author/3151/gabriel-domingue
 By [Gabriele Ninivaggi](https://www.japantimes.co.jp/author/4179/gabriele-ninivaggi/ "Gabriele Ninivaggi")  
 
   [![Prime Minister Shigeru Ishiba speaks in the Lower House in Tokyo on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/02/437666.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba speaks in the Lower House in Tokyo on Monday.")](https://www.japantimes.co.jp/news/2024/12/02/japan/politics/ishiba-parliamentary-questioning/ "Ishiba questioned on political reform, social issues and the economy")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Nearly 90% in Japan and China have negative views of other](https://www.japantimes.co.jp/news/2024/12/03/japan/society/japan-china-negative-views/ "Nearly 90% in Japan and China have negative views of other")
+
+  [![Chinese people's sentiment toward Japan is believed to be impacted by their use of social media platforms such as Weibo and Douyin, as well as whether they have visited Japan.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/02/437682.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Chinese people's sentiment toward Japan is believed to be impacted by their use of social media platforms such as Weibo and Douyin, as well as whether they have visited Japan.")](https://www.japantimes.co.jp/news/2024/12/03/japan/society/japan-china-negative-views/ "Nearly 90% in Japan and China have negative views of other")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Bear that attacked Akita supermarket employee captured](https://www.japantimes.co.jp/news/2024/12/02/japan/society/japan-bear-supermarket-attack-captured/ "Bear that attacked Akita supermarket employee captured")
+
+By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
+
+  [![A brown bear in Hokkaido. In the city of Akita, a bear that attacked a supermarket employee over the weekend was captured in a box trap on Monday morning.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/02/437602.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A brown bear in Hokkaido. In the city of Akita, a bear that attacked a supermarket employee over the weekend was captured in a box trap on Monday morning.")](https://www.japantimes.co.jp/news/2024/12/02/japan/society/japan-bear-supermarket-attack-captured/ "Bear that attacked Akita supermarket employee captured")
 
 Podcast
 -------
@@ -253,25 +251,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[South Korean President Yoon declares martial law](https://www.japantimes.co.jp/news/2024/12/04/asia-pacific/politics/yoon-martial-law/ "South Korean President Yoon declares martial law")
+
+23 mins ago
+
+[As sabotage allegations swirl, NATO struggles to secure the Baltic Sea](https://www.japantimes.co.jp/news/2024/12/03/world/politics/nato-baltic-sea-cables/ "As sabotage allegations swirl, NATO struggles to secure the Baltic Sea")
+
+3 hours ago
+
+[Putin-controlled aircraft deported Ukrainian children, U.S.-backed research alleges](https://www.japantimes.co.jp/news/2024/12/03/world/politics/putin-ukraine-children-deport-us-research/ "Putin-controlled aircraft deported Ukrainian children, U.S.-backed research alleges")
+
+4 hours ago
+
+[Nomura CEO takes pay cut after former employee charged with attempted murder](https://www.japantimes.co.jp/business/2024/12/03/companies/nomura-salary-cut/ "Nomura CEO takes pay cut after former employee charged with attempted murder")
+
+6 hours ago
+
 [General contractor Yamaura to be fined for false financial statements](https://www.japantimes.co.jp/news/2024/12/03/japan/crime-legal/yamaura-fine-misstatement/ "General contractor Yamaura to be fined for false financial statements")
 
-55 mins ago
-
-[Japan eyes new PFAS regulations for drinking water by spring](https://www.japantimes.co.jp/news/2024/12/03/japan/society/pfas-ishiba-comment/ "Japan eyes new PFAS regulations for drinking water by spring")
-
-1 hour ago
-
-[JCM to demand pay-scale hike of ¥12,000 or more in 2025](https://www.japantimes.co.jp/business/2024/12/03/economy/jcm-demand-pay-hike/ "JCM to demand pay-scale hike of ¥12,000 or more in 2025")
-
-1 hour ago
-
-[Ukraine sees influx of Western war tourists](https://www.japantimes.co.jp/news/2024/12/03/world/ukraine-western-war-tourists/ "Ukraine sees influx of Western war tourists")
-
-1 hour ago
-
-[Energy workers battle to keep the lights on in Ukraine](https://www.japantimes.co.jp/news/2024/12/03/world/energy-workers-lights-ukraine/ "Energy workers battle to keep the lights on in Ukraine")
-
-2 hours ago
+6 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
