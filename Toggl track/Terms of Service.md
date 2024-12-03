@@ -59,7 +59,7 @@ Regardless of your purposes and whether you agree with the Terms, please conside
 
 **"Beta Feature"** — a component, property or an aspect of the Service that has not been made commercially available or released to Users other than the ones who have voluntarily opted to participate in beta testing;
 
-**"Beta Terms"** — Beta Testing Terms of Service, available at [https://toggl.com/legal](https://toggl.com/legal/track/);
+**"Beta Terms"** — Beta Testing Terms of Service, available at [https://toggl.com/legal/track/beta/](https://toggl.com/legal/track/beta/);
 
 **"Beta Testing User"** — a User who has voluntarily opted to participate in beta testing following the terms and conditions set out in Beta Terms;
 
@@ -488,7 +488,7 @@ OTHER
 
 * [Toggl Cookie Declaration](https://toggl.com/legal/cookie-declaration/)
 * [Toggl Careers Privacy Statement](https://toggl.com/legal/candidate-privacy/)
-* [Toggl Affiliate Terms & Conditions](https://toggl.com/legal/affiliate/)
+* [Toggl Affiliate Terms & Conditions](https://toggl.com/legal/affiliates/)
 
 ##### Can't find what you're looking for?
 
@@ -500,7 +500,7 @@ OTHER
 * [About us](https://toggl.com/about/)
 * [Working at Toggl
     
-    8](https://toggl.com/jobs/)
+    7](https://toggl.com/jobs/)
 
 Discover our tools:
 
