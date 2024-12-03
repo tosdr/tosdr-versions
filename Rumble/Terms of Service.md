@@ -446,127 +446,123 @@ Go Ad-Free
 
 ### Featured Channels Featured
 
-[Steven Crowder
+[Redacted News
 
-26.2K](https://rumble.com/v5vl2kb--covid-chronicles-the-hidden-truths-of-the-pandemic-exposed.html "Steven Crowder")
-
-[Bannons War Room
-
-18.8K](https://rumble.com/v3by09g-warroom-live.html "Bannons War Room")
+13.8K](https://rumble.com/v5voq0t-breaking-new-deep-state-plans-to-stop-trump-exposed-by-congress-bill-gates-.html "Redacted News")
 
 [NEWSMAX
 
-4.27K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
+3.48K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
 
-[Badlands Media
+[Akademiks
 
-3.87K](https://rumble.com/v5vi0gz-badlands-daily-tuesday-december-3-2024.html "Badlands Media")
+3.45K](https://rumble.com/v5vlype-ysl-case-ends-yak-gotti-found-not-guilty-kendrick-lamar-announces-stadium-t.html "Akademiks")
 
-[Matt Kohrs
+[Due Dissidence
 
-1.27K](https://rumble.com/v5vgnvt-the-mk-show-dec.-3rd.html "Matt Kohrs")
+1.2K](https://rumble.com/v5vlgu2-hunter-pardon-fallout-israel-hits-lebanon-despite-ceasefire-is-trump-a-neoc.html "Due Dissidence")
+
+[Barry Cunningham
+
+1.18K](https://rumble.com/v5vnjcz-trump-daily-briefing-how-trump-got-the-democrat-party-to-destroy-itself.html "Barry Cunningham")
+
+[Dr Steve Turley
+
+528](https://rumble.com/v5vpcu2-this-is-finally-the-end-of-the-george-soros-empire.html "Dr Steve Turley")
 
 [Lofi Girl
 
-257](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
+228](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
 
-[barstoolsports
+[JustPearlyThings
 
-188](https://rumble.com/v5vk8zq-kms-live-december-3-2024-ft.-blind-mike-and-cinema-lord.html "barstoolsports")
-
-[The Kirk Minihane Show
-
-117](https://rumble.com/v5vk8zq-kms-live-december-3-2024-ft.-blind-mike-and-cinema-lord.html "The Kirk Minihane Show")
-
-[Mike Crispi
-
-72](https://rumble.com/v5vg0nk-mike-crispi-unafraid-12-3-24.html "Mike Crispi")
-
-[Wake Up Mintzy
-
-67](https://rumble.com/v5vcq5b-wake-up-mintzy-12.3.24.html "Wake Up Mintzy")
+92](https://rumble.com/v5vpduq-w-nothing-about-marriage-the-tradition-family-will-save-us-pearl-daily.html "JustPearlyThings")
 
 [Major League Fishing
 
-2](https://rumble.com/v5pak3w-live-general-tire-team-series-summit-cup-day-6.html "Major League Fishing")
+1](https://rumble.com/v5pak3w-live-general-tire-team-series-summit-cup-day-6.html "Major League Fishing")
 
-[Dr. Anthony M. Criniti IV (aka “Dr. Finance®”)](https://rumble.com/c/DrFinance "Dr. Anthony M. Criniti IV (aka “Dr. Finance®”)")
+[VIVA TV](https://rumble.com/c/VivaTV "VIVA TV")
 
-[Medical Medium](https://rumble.com/c/MedicalMedium "Medical Medium")
+[Caleb Hammer](https://rumble.com/c/calebhammerFA "Caleb Hammer")
 
-[Candace Owens Podcast](https://rumble.com/c/CandaceOwensPodcast "Candace Owens Podcast")
-
-[Only Stans](https://rumble.com/c/OnlyStansshow "Only Stans")
-
-[The Dan Bongino Show](https://rumble.com/c/Bongino "The Dan Bongino Show")
-
-[UnHerd](https://rumble.com/c/UnHerd "UnHerd")
-
-[Dr Steve Turley](https://rumble.com/c/DrSteveTurley "Dr Steve Turley")
-
-[Rough N' Rowdy](https://rumble.com/c/RoughNRowdy "Rough N' Rowdy")
-
-[Taylor Watch](https://rumble.com/c/TAYLORWATCH "Taylor Watch")
-
-[JustKiddingNews](https://rumble.com/c/JustKiddingNews "JustKiddingNews")
-
-[SB Mowing](https://rumble.com/c/SBMowing "SB Mowing")
-
-[The StoneZONE with Roger Stone](https://rumble.com/c/RogerStone "The StoneZONE with Roger Stone")
-
-[Daily Caller News Foundation](https://rumble.com/c/DailyCallerNewsFoundation "Daily Caller News Foundation")
-
-[KFC Radio](https://rumble.com/c/KFCRadio "KFC Radio")
-
-[New York Post](https://rumble.com/c/NYPost "New York Post")
-
-[Answer The Internet](https://rumble.com/c/AnswerTheInternet "Answer The Internet")
-
-[Dani Jackel](https://rumble.com/c/DaniJackel "Dani Jackel")
-
-[Graham Allen](https://rumble.com/c/GrahamAllenOfficial "Graham Allen")
-
-[A New Untold Story](https://rumble.com/c/ANewUntoldStory "A New Untold Story")
-
-[John Burk](https://rumble.com/c/JohnBurk "John Burk")
-
-[My Mom's Basement with Robbie Fox](https://rumble.com/c/MyMomsBasementWithRobbieFox "My Mom's Basement with Robbie Fox")
-
-[Rasmussen Reports](https://rumble.com/c/RasmussenReports "Rasmussen Reports")
-
-[Audit the Audit](https://rumble.com/c/JohnLang "Audit the Audit")
-
-[Awaken With JP](https://rumble.com/c/AwakenWithJP "Awaken With JP")
-
-[OUT OF ORDER](https://rumble.com/c/OutofOrderrr "OUT OF ORDER")
-
-[Unnecessary Roughness](https://rumble.com/c/UnnecessaryRoughness "Unnecessary Roughness")
-
-[Mountain Rug Cleaning](https://rumble.com/c/MountainRugCleaning "Mountain Rug Cleaning")
-
-[Price of Reason](https://rumble.com/c/PriceOfReason "Price of Reason")
-
-[Dave Portnoy](https://rumble.com/c/DavePortnoy "Dave Portnoy")
-
-[After Skool](https://rumble.com/c/AfterSkool "After Skool")
-
-[FULL SEND PODCAST](https://rumble.com/c/FULLSENDPODCAST "FULL SEND PODCAST")
-
-[Due Dissidence](https://rumble.com/c/DueDissidence "Due Dissidence")
-
-[Donald Trump Jr.](https://rumble.com/c/DonaldJTrumpJr "Donald Trump Jr.")
+[Glenn Greenwald](https://rumble.com/c/GGreenwald "Glenn Greenwald")
 
 [Nerdrotic](https://rumble.com/c/Nerdrotic "Nerdrotic")
 
-[Winston Marshall](https://rumble.com/c/WinstonMarshall "Winston Marshall")
+[Frank the Tank Fleming](https://rumble.com/c/FrankTheTankFleming "Frank the Tank Fleming")
 
-[Barstool Baseball](https://rumble.com/c/BarstoolBaseball "Barstool Baseball")
+[Price of Reason](https://rumble.com/c/PriceOfReason "Price of Reason")
 
-[Danny Polishchuk](https://rumble.com/c/Dannyjokes "Danny Polishchuk")
+[GOP](https://rumble.com/c/GOP "GOP")
 
-[Ghosts and Grit With Jack Osbourne Podcast](https://rumble.com/c/JackOsbourne "Ghosts and Grit With Jack Osbourne Podcast")
+[The Dozen Trivia](https://rumble.com/c/TheDozenTrivia "The Dozen Trivia")
 
-[Son of a Boy Dad](https://rumble.com/c/SonOfABoyDad "Son of a Boy Dad")
+[CAMELOT331](https://rumble.com/c/CAMELOT331 "CAMELOT331")
+
+[Tucker Carlson](https://rumble.com/c/TuckerCarlson "Tucker Carlson")
+
+[KFC Radio](https://rumble.com/c/KFCRadio "KFC Radio")
+
+[Tate Speech by Andrew Tate](https://rumble.com/c/TateSpeech "Tate Speech by Andrew Tate")
+
+[Hannah Barron](https://rumble.com/c/HannahBarron "Hannah Barron")
+
+[OUT OF ORDER](https://rumble.com/c/OutofOrderrr "OUT OF ORDER")
+
+[Rubbin Is Racing](https://rumble.com/c/rubbinisracing "Rubbin Is Racing")
+
+[Mark Titus Show](https://rumble.com/c/marktitusshow "Mark Titus Show")
+
+[FULL SEND PODCAST](https://rumble.com/c/FULLSENDPODCAST "FULL SEND PODCAST")
+
+[Matt Kohrs](https://rumble.com/c/MattKohrs "Matt Kohrs")
+
+[The Rich Dad Channel](https://rumble.com/c/TheRichDadChannel "The Rich Dad Channel")
+
+[The Jimmy Dore Show](https://rumble.com/c/TheJimmyDoreShow "The Jimmy Dore Show")
+
+[Candace Show Podcast](https://rumble.com/c/RealCandaceO "Candace Show Podcast")
+
+[Spittin' Chiclets](https://rumble.com/c/SpittinChiclets "Spittin' Chiclets")
+
+[Breaking Points](https://rumble.com/c/BreakingPoints "Breaking Points")
+
+[Anthony Pompliano](https://rumble.com/c/AnthonyPompliano "Anthony Pompliano")
+
+[Rasmussen Reports](https://rumble.com/c/RasmussenReports "Rasmussen Reports")
+
+[Taylor Alesia](https://rumble.com/c/TheBibleChick "Taylor Alesia")
+
+[Rough N' Rowdy](https://rumble.com/c/RoughNRowdy "Rough N' Rowdy")
+
+[Scumbag Golf](https://rumble.com/c/scumbagolf "Scumbag Golf")
+
+[Audit the Audit](https://rumble.com/c/JohnLang "Audit the Audit")
+
+[United Fight League](https://rumble.com/c/UnitedFightLeague "United Fight League")
+
+[Alexis Wilkins](https://rumble.com/c/alexiswilkins "Alexis Wilkins")
+
+[Healthy Debate](https://rumble.com/c/HealthyDebate "Healthy Debate")
+
+[Who's the Biggest A\*\*Hole?](https://rumble.com/c/WhosTheBiggestAHole "Who's the Biggest A**Hole?")
+
+[Dave Portnoy](https://rumble.com/c/DavePortnoy "Dave Portnoy")
+
+[Howard Lutnick](https://rumble.com/c/HowardLutnick "Howard Lutnick")
+
+[Geeks + Gamers](https://rumble.com/c/GeeksandGamers "Geeks + Gamers")
+
+[DeVory Darkins](https://rumble.com/c/DeVoryDarkins "DeVory Darkins")
+
+[SB Mowing](https://rumble.com/c/SBMowing "SB Mowing")
+
+[Dr. John Campbell](https://rumble.com/c/DrJohnCampbell "Dr. John Campbell")
+
+[JoBlo Originals](https://rumble.com/c/JoBloOriginals "JoBlo Originals")
+
+[Stool Streams](https://rumble.com/c/stoolstreams "Stool Streams")
 
 ### Theme
 
