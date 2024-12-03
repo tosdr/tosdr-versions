@@ -94,8 +94,8 @@ Top downloads
 * [The House of the Dead](https://www.myabandonware.com/game/the-house-of-the-dead-bed)
 * [Mario Teaches Typing](https://www.myabandonware.com/game/mario-teaches-typing-1gl)
 * [Silent Hill 2: Restless Dreams](https://www.myabandonware.com/game/silent-hill-2-restless-dreams-bgd)
-* [Prince of Persia](https://www.myabandonware.com/game/prince-of-persia-pd)
 * [Need for Speed: Most Wanted](https://www.myabandonware.com/game/need-for-speed-most-wanted-i4m)
+* [Prince of Persia](https://www.myabandonware.com/game/prince-of-persia-pd)
 * [Need for Speed: Underground 2](https://www.myabandonware.com/game/need-for-speed-underground-2-ega)
 * [The House of the Dead 2](https://www.myabandonware.com/game/the-house-of-the-dead-2-beg)
 * [SimAnt](https://www.myabandonware.com/game/simant-197)
@@ -107,20 +107,20 @@ Top downloads
 
 Latest releases
 
+* [Sakura Taisen 2: Kimi, Shinitamou Koto Nakare](https://www.myabandonware.com/game/sakura-taisen-2-kimi-shinitamou-koto-nakare-p6p)
+* [Space II](https://www.myabandonware.com/game/space-ii-tdc)
 * [Space](https://www.myabandonware.com/game/space-tdb)
 * [Ancipital](https://www.myabandonware.com/game/ancipital-4hq)
 * [Color Spreading](https://www.myabandonware.com/game/color-spreading-td9)
-* [Bust-A-Move Again](https://www.myabandonware.com/game/bust-a-move-again-97x)
-* [Princess Maker](https://www.myabandonware.com/game/princess-maker-ej4)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
 
 Screenshots needed
 
-* [Dora the Explorer: Wildlife Rescue](https://www.myabandonware.com/game/dora-the-explorer-wildlife-rescue-msm)
-* [Primeval Hunt](https://www.myabandonware.com/game/primeval-hunt-t7l)
-* [The Legend of Heroes III: Shiroki Majo](https://www.myabandonware.com/game/the-legend-of-heroes-iii-shiroki-majo-q72)
+* [Radical Radial](https://www.myabandonware.com/game/radical-radial-rq7)
+* [Wacky Races](https://www.myabandonware.com/game/wacky-races-c68)
+* [The Perfect General: Greatest Battles of the 20th Century](https://www.myabandonware.com/game/the-perfect-general-greatest-battles-of-the-20th-century-3dv)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
