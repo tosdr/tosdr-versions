@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Monday, December 2 2024
+Tuesday, December 3 2024
 
 Latest
 
-* [Leaks reveal a new DJI drone with a compact folding design](https://digitpatrox.com/leaks-reveal-a-new-dji-drone-with-a-compact-folding-design/)
-* [Pick Up This Anker 5000mAh MagGo Charger For Just $30 on Cyber Monday](https://digitpatrox.com/pick-up-this-anker-5000mah-maggo-charger-for-just-30-on-cyber-monday/)
-* [Westcon-Comstor bags major European distribution deal with AWS](https://digitpatrox.com/westcon-comstor-bags-major-european-distribution-deal-with-aws/)
-* [Panasonic revives its late founder as AI – Computerworld](https://digitpatrox.com/panasonic-revives-its-late-founder-as-ai-computerworld/)
-* [Adobe’s Creative Cloud Is 50% Off for Cyber Monday](https://digitpatrox.com/adobes-creative-cloud-is-50-off-for-cyber-monday/)
-* [How to remove File Explorer Home page on Windows 11](https://digitpatrox.com/how-to-remove-file-explorer-home-page-on-windows-11/)
-* [How to Schedule Automatic Shutdown on Windows 11](https://digitpatrox.com/how-to-schedule-automatic-shutdown-on-windows-11/)
-* [Intel CEO Pat Gelsinger announces retirement](https://digitpatrox.com/intel-ceo-pat-gelsinger-announces-retirement/)
-* [Live Stream: AWS Partners LIVE!](https://digitpatrox.com/live-stream-aws-partners-live/)
-* [The $199 DJI Neo is the best drone for beginners and I’m buying it for full price on Cyber Monday](https://digitpatrox.com/the-199-dji-neo-is-the-best-drone-for-beginners-and-im-buying-it-for-full-price-on-cyber-monday/)
+* [Korea arrests CEO for adding DDoS feature to satellite receivers](https://digitpatrox.com/korea-arrests-ceo-for-adding-ddos-feature-to-satellite-receivers/)
+* [GOG’s preservation program lets you keep playing games after they’re delisted](https://digitpatrox.com/gogs-preservation-program-lets-you-keep-playing-games-after-theyre-delisted/)
+* [Snag the Fire HD 8 Kids Pro Tablet for over 50% Off on Cyber Monday](https://digitpatrox.com/snag-the-fire-hd-8-kids-pro-tablet-for-over-50-off-on-cyber-monday/)
+* [AWS opens physical sites for fast data uploads – but it could cost you up to $500 an hour](https://digitpatrox.com/aws-opens-physical-sites-for-fast-data-uploads-but-it-could-cost-you-up-to-500-an-hour/)
+* [It looks like Apple’s forthcoming M5 chips are all about AI – Computerworld](https://digitpatrox.com/it-looks-like-apples-forthcoming-m5-chips-are-all-about-ai-computerworld/)
+* [I’m a Shopping Writer, and These Are My Favorite Amazon Cyber Monday Tech Sales](https://digitpatrox.com/im-a-shopping-writer-and-these-are-my-favorite-amazon-cyber-monday-tech-sales/)
+* [How to reset Windows 10 removing everything](https://digitpatrox.com/how-to-reset-windows-10-removing-everything/)
+* [What Is a Supercookie (and Why Should You Care?)](https://digitpatrox.com/what-is-a-supercookie-and-why-should-you-care/)
+* [Rapid7 announces new chief technology officer for EMEA](https://digitpatrox.com/rapid7-announces-new-chief-technology-officer-for-emea/)
+* [How to Mass Delete Emails on Gmail: Best Way to Declutter](https://digitpatrox.com/how-to-mass-delete-emails-on-gmail-best-way-to-declutter/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://cdn.vox-cdn.com/thumbor/1nPWQNeByTRaR276rBERq20jXdk=/0x0:1628x1085/1200x628/filters:focal(814x543:815x544)/cdn.vox-cdn.com/uploads/chorus_asset/file/25769442/DJI_flip1.jpg)](https://digitpatrox.com/leaks-reveal-a-new-dji-drone-with-a-compact-folding-design/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/10/03/headpic.jpg)](https://digitpatrox.com/korea-arrests-ceo-for-adding-ddos-feature-to-satellite-receivers/)
     
-    [Leaks reveal a new DJI drone with a compact folding design](https://digitpatrox.com/leaks-reveal-a-new-dji-drone-with-a-compact-folding-design/)
+    [Korea arrests CEO for adding DDoS feature to satellite receivers](https://digitpatrox.com/korea-arrests-ceo-for-adding-ddos-feature-to-satellite-receivers/)
     
-    15 minutes ago
+    27 minutes ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/12/Cyber-Monday-Anker-622-5000mAh-MagGo-deal.jpg)](https://digitpatrox.com/pick-up-this-anker-5000mah-maggo-charger-for-just-30-on-cyber-monday/)
+* [![](https://cdn.vox-cdn.com/thumbor/GypmTBdxrNMqJRnzi6J1Yf37CNk=/0x0:1200x900/1200x628/filters:focal(600x450:601x451)/cdn.vox-cdn.com/uploads/chorus_asset/file/25770485/15ae9897b2ae3c7edda1e072ee5d1376d8b4a211ccedda6afa501ec3690f3294.jpg)](https://digitpatrox.com/gogs-preservation-program-lets-you-keep-playing-games-after-theyre-delisted/)
     
-    [Pick Up This Anker 5000mAh MagGo Charger For Just $30 on Cyber Monday](https://digitpatrox.com/pick-up-this-anker-5000mah-maggo-charger-for-just-30-on-cyber-monday/)
+    [GOG’s preservation program lets you keep playing games after they’re delisted](https://digitpatrox.com/gogs-preservation-program-lets-you-keep-playing-games-after-theyre-delisted/)
     
-    31 minutes ago
+    44 minutes ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/U4SvuVdaMvknf9AM4b5VtK-1200-80.jpg)](https://digitpatrox.com/westcon-comstor-bags-major-european-distribution-deal-with-aws/)
+* [![](https://beebom.com/wp-content/uploads/2024/11/Cyber-Monday-Fire-HD-8-Kids-Pro-Tablet-deal.jpg)](https://digitpatrox.com/snag-the-fire-hd-8-kids-pro-tablet-for-over-50-off-on-cyber-monday/)
     
-    [Westcon-Comstor bags major European distribution deal with AWS](https://digitpatrox.com/westcon-comstor-bags-major-european-distribution-deal-with-aws/)
+    [Snag the Fire HD 8 Kids Pro Tablet for over 50% Off on Cyber Monday](https://digitpatrox.com/snag-the-fire-hd-8-kids-pro-tablet-for-over-50-off-on-cyber-monday/)
     
-    2 hours ago
+    1 hour ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3615587-0-64375700-1733158779-l-jn24-11127-1.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/panasonic-revives-its-late-founder-as-ai-computerworld/)
+* [![](https://cdn.mos.cms.futurecdn.net/up7KoVRatQ55Re8Gti5rFT-1200-80.jpg)](https://digitpatrox.com/aws-opens-physical-sites-for-fast-data-uploads-but-it-could-cost-you-up-to-500-an-hour/)
     
-    [Panasonic revives its late founder as AI – Computerworld](https://digitpatrox.com/panasonic-revives-its-late-founder-as-ai-computerworld/)
+    [AWS opens physical sites for fast data uploads – but it could cost you up to $500 an hour](https://digitpatrox.com/aws-opens-physical-sites-for-fast-data-uploads-but-it-could-cost-you-up-to-500-an-hour/)
     
-    2 hours ago
+    3 hours ago
     
-* [![](https://lifehacker.com/imagery/articles/01JDMVH3YTFH3BVC7WC5VNF2GX/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/adobes-creative-cloud-is-50-off-for-cyber-monday/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3615524-0-57439100-1733158068-Apple-Intelligence-hero.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/it-looks-like-apples-forthcoming-m5-chips-are-all-about-ai-computerworld/)
     
-    [Adobe’s Creative Cloud Is 50% Off for Cyber Monday](https://digitpatrox.com/adobes-creative-cloud-is-50-off-for-cyber-monday/)
+    [It looks like Apple’s forthcoming M5 chips are all about AI – Computerworld](https://digitpatrox.com/it-looks-like-apples-forthcoming-m5-chips-are-all-about-ai-computerworld/)
     
     3 hours ago
     
@@ -208,45 +208,45 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [15 minutes ago
+* [27 minutes ago
     
-    ### Leaks reveal a new DJI drone with a compact folding design](https://digitpatrox.com/leaks-reveal-a-new-dji-drone-with-a-compact-folding-design/)
-* [31 minutes ago
+    ### Korea arrests CEO for adding DDoS feature to satellite receivers](https://digitpatrox.com/korea-arrests-ceo-for-adding-ddos-feature-to-satellite-receivers/)
+* [44 minutes ago
     
-    ### Pick Up This Anker 5000mAh MagGo Charger For Just $30 on Cyber Monday](https://digitpatrox.com/pick-up-this-anker-5000mah-maggo-charger-for-just-30-on-cyber-monday/)
-* [2 hours ago
+    ### GOG’s preservation program lets you keep playing games after they’re delisted](https://digitpatrox.com/gogs-preservation-program-lets-you-keep-playing-games-after-theyre-delisted/)
+* [1 hour ago
     
-    ### Westcon-Comstor bags major European distribution deal with AWS](https://digitpatrox.com/westcon-comstor-bags-major-european-distribution-deal-with-aws/)
+    ### Snag the Fire HD 8 Kids Pro Tablet for over 50% Off on Cyber Monday](https://digitpatrox.com/snag-the-fire-hd-8-kids-pro-tablet-for-over-50-off-on-cyber-monday/)
 
 Most Popular Topics
 
-* [September 11, 2024
+* [8 hours ago
     
-    ### Taylor Swift endorses Kamala Harris in response to fake AI Trump endorsement](https://digitpatrox.com/taylor-swift-endorses-kamala-harris-in-response-to-fake-ai-trump-endorsement/)
-* [3 weeks ago
+    ### Panasonic revives its late founder as AI – Computerworld](https://digitpatrox.com/panasonic-revives-its-late-founder-as-ai-computerworld/)
+* [September 1, 2024
     
-    ### Play These Wordle Alternatives While the NYT Tech Guild Is on Strike](https://digitpatrox.com/play-these-wordle-alternatives-while-the-nyt-tech-guild-is-on-strike/)
-* [October 15, 2024
+    ### My Favorite Amazon Deal of the Day: Sonos Ray Soundbar](https://digitpatrox.com/my-favorite-amazon-deal-of-the-day-sonos-ray-soundbar/)
+* [2 weeks ago
     
-    ### It’s Finally Easy to Change Your Apple Account Email](https://digitpatrox.com/its-finally-easy-to-change-your-apple-account-email/)
+    ### ChatGPT app for Windows 11, 10 is better than web version because of these 3 features](https://digitpatrox.com/chatgpt-app-for-windows-11-10-is-better-than-web-version-because-of-these-3-features/)
 
 Last Modified Topics
 
 * [3 hours ago
     
-    ### How to Schedule Automatic Shutdown on Windows 11](https://digitpatrox.com/how-to-schedule-automatic-shutdown-on-windows-11/)
+    ### How to reset Windows 10 removing everything](https://digitpatrox.com/how-to-reset-windows-10-removing-everything/)
 * [4 hours ago
     
-    ### Intel CEO Pat Gelsinger announces retirement](https://digitpatrox.com/intel-ceo-pat-gelsinger-announces-retirement/)
+    ### What Is a Supercookie (and Why Should You Care?)](https://digitpatrox.com/what-is-a-supercookie-and-why-should-you-care/)
 * [4 hours ago
     
-    ### Live Stream: AWS Partners LIVE!](https://digitpatrox.com/live-stream-aws-partners-live/)
+    ### Rapid7 announces new chief technology officer for EMEA](https://digitpatrox.com/rapid7-announces-new-chief-technology-officer-for-emea/)
 
 Most Viewed Topics
 
-* [August 11, 2024
+* [August 13, 2024
     
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [August 13, 2024
     
     ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
