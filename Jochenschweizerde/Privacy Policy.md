@@ -2,6 +2,8 @@
 * ![](/fragments/header/modern/static/media/oliveLeaf.04f8ece17a002b2ec0ff50e391ba1f1a.svg)Der Marktführer mit über 1 Million Kunden
 * ![](/fragments/header/modern/static/media/halfClock.766f57b0ff3e281d22c742945ddd1efc.svg)Flexible Gutscheine für Zeit, Ort und Erlebnis
 
+🎄 Sichere dir **\-20 %\*** im Erlebnis-Konto
+
 [![](/fragments/header/modern/static/media/paybackBadge.e5d024eee720ca33ed10b18850822fa5.svg)PAYBACK](https://www.jochen-schweizer.de/infoseite/payback/l/ueyrz)[FAQ](https://kundenservice.jochen-schweizer.de/)
 
 [Jobs](https://career.jsmd-group.com/)[Magazin](https://magazin.jochen-schweizer.de/)[Erlebnispartner werden](https://partner.jsmd-group.com/)
@@ -232,6 +234,8 @@ Benutzerkonto
 
 1. [Home](https://www.jochen-schweizer.de/)/
 2. Datenschutz
+
+[![](https://main.static.jsmd-group.com/assets/new_default_upload_bucket/Side%20Navigation_Banner_Erlebniskonto_250x120%203_1.jpg)](https://www.jochen-schweizer.de/erlebnis-konto/l/owdi5)
 
 * [Alle Erlebnisse](https://www.jochen-schweizer.de/alle-erlebnisse/l/79ifa)
 * [Fliegen & Fallen](https://www.jochen-schweizer.de/fliegen-fallen/l/p3if5)
