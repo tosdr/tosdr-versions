@@ -9,7 +9,7 @@
 ### Reason's Annual Webathon is underway! Donate today to see your name here.
 
 #### Reason is supported by:  
-Stephen Kellar
+Deanna Foster
 
 [Donate](https://reason.com/donate/?rfr=d0001&ip_creative_slot=ad&ip_creative_name=top_banner&ip_promotion_id=d0001&ip_promotion_name=webathon_2024&ip_item_name=donation "Donate to Reason")
 
@@ -36,7 +36,7 @@ Stephen Kellar
     * [Why We Can't Have Nice Things](https://reason.com/podcasts/nice-things/)
 * [Volokh](https://reason.com/volokh/)
 * [Newsletters](https://reason.com/newsletters/)
-* [Donate](https://reason.com/donate/)
+* [Donate](https://reason.com/donate/?rfr=d0003&ip_creative_slot=nav&ip_creative_name=donate_link&ip_promotion_id=d0003&ip_promotion_name=webathon_2024&ip_item_name=donation)
     * [Donate Online](https://reason.com/donate/)
     * [Donate Crypto](https://reason.com/donate-crypto/)
     * [Ways To Give To Reason Foundation](https://reason.org/ways-to-give/)
@@ -221,7 +221,7 @@ We reserve the right to make changes to this policy. Any updates to this policy 
 * [Events](https://reason.org/events)
 * [Staff](https://reason.com/staff/)
 * [Jobs](https://reason.org/jobs/)
-* [Donate](https://reason.com/donate/)
+* [Donate](https://reason.com/donate/?rfr=d0003&ip_creative_slot=nav&ip_creative_name=donate_link&ip_promotion_id=d0003&ip_promotion_name=webathon_2024&ip_item_name=donation)
 * [Advertise](https://reason.com/advertise/)
 * [Subscribe](https://reason.com/subscribe/)
 * [Contact](https://reason.com/contact-reason/)
