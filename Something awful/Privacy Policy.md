@@ -205,29 +205,29 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [At hostpital, lost fingat!](https://www.somethingawful.com/comedy-goldmine/gamecube-challenge-fingat/)
-* [The Paypal Fiasco: In Summary](https://www.somethingawful.com/news/paypal-fiasco-summary/)
-* [Dan Quinn Queers the Stevia Deal](https://www.somethingawful.com/news/dan-quinn/)
-* [Trump VS CNN!](https://www.somethingawful.com/photoshop-phriday/trump-news-gif/)
-* [President of a Very Small Country](https://www.somethingawful.com/comedy-goldmine/super-micro-micronation/)
+* [Nintendo Forums, Mad Philosophers, and Snafu](https://www.somethingawful.com/weekend-web/nintendo-forums-mad/1/)
+* [A Video Collage of the Absurdity of Life](https://www.somethingawful.com/comedy-goldmine/veda-2012-youtube/1/)
+* [25 Other Incorrect Assumptions from Americans](https://www.somethingawful.com/news/mistaken-american-assumptions/)
+* [CONEX Convict Connections: "Approaching Storm"](https://www.somethingawful.com/news/conex-approaching-storm/1/)
+* [Historical Inaccuracies](https://www.somethingawful.com/photoshop-phriday/historical-inaccuracies/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/tfr-box.gif) [Which emojis should they add (or remove)?](http://forums.somethingawful.com/showthread.php?threadid=4076694 "Which emojis should they add (or remove)?")
+* ![](https://fi.somethingawful.com/forums/posticons/cd_action.gif) [Did Somebody Shoot My Car?](http://forums.somethingawful.com/showthread.php?threadid=4076669 "Did Somebody Shoot My Car?")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/unfunny.png) [I made up some terrible jokes!](http://forums.somethingawful.com/showthread.php?threadid=4076679 "I made up some terrible jokes!")
 * ![](https://fi.somethingawful.com/forums/posticons/byob-grumpy.gif) [What do I get my teenage kids for Christmas?](http://forums.somethingawful.com/showthread.php?threadid=4076684 "What do I get my teenage kids for Christmas?")
 * ![](https://fi.somethingawful.com/forums/posticons/tfr-box.gif) [2025 Celebrity Deadpool](http://forums.somethingawful.com/showthread.php?threadid=4076710 "2025 Celebrity Deadpool")
+* ![](https://fi.somethingawful.com/forums/posticons/tfr-box.gif) [Which emojis should they add (or remove)?](http://forums.somethingawful.com/showthread.php?threadid=4076694 "Which emojis should they add (or remove)?")
 * ![](https://fi.somethingawful.com/forums/posticons/byob-shocking.gif) [There's this weird little forum advertising here](http://forums.somethingawful.com/showthread.php?threadid=4076689 "There's this weird little forum advertising here")
-* ![](https://fi.somethingawful.com/forums/posticons/cd_action.gif) [Did Somebody Shoot My Car?](http://forums.somethingawful.com/showthread.php?threadid=4076669 "Did Somebody Shoot My Car?")
-* ![](https://fi.somethingawful.com/forums/posticons/byob-salt.gif) [What cheap stuff do you prefer over more expensive stuff?](http://forums.somethingawful.com/showthread.php?threadid=4076653 "What cheap stuff do you prefer over more expensive stuff?")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/unfunny.png) [Can we please have a moment of silence for](http://forums.somethingawful.com/showthread.php?threadid=4076739 "Can we please have a moment of silence for")
 
 ### Random Articles
 
-* [USB Digital Bible Keychain](https://www.somethingawful.com/awful-links/awful-link-4246/)
-* [Paul Schroeder Story](https://www.somethingawful.com/awful-links/awful-link-1276/)
-* [SkyMall Product Reviews: ZenHaus Dog Crates](https://www.somethingawful.com/news/skymall-dog-crate/)
-* [The Mystery and Wonder of the Musical Jamboree](https://www.somethingawful.com/news/mystery-wonder-musical/)
-* [Last Stop Hell](https://www.somethingawful.com/awful-links/awful-link-4013/)
+* [Welcome to HolLee Co.](https://www.somethingawful.com/awful-links/awful-link-540/)
+* [The Internet Discount Barn: Winter SALE!](https://www.somethingawful.com/news/internet-discount-barn4/1/)
+* [Hot Furs](https://www.somethingawful.com/awful-links/awful-link-2020/)
+* [The State of The Internet Article](https://www.somethingawful.com/news/state-internet-article/)
+* [Conjoined Dreams](https://www.somethingawful.com/awful-links/awful-link-1933/)
 
 [Random!](https://www.somethingawful.com/random/)
 
