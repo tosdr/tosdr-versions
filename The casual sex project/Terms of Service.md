@@ -104,6 +104,36 @@ Nov 26 2024
 
 By **[Chris Pope](https://admin.mi52siterestore.com/person/chris-pope/)** Read time **23 mins** [Read More](https://admin.mi52siterestore.com/article/slowing-optional-medicaid-spending-growth/)
 
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/nyc-puts-social-justice-over-child-safety-with-deadly-results-acs-caseworker-1.jpg)[](https://admin.mi52siterestore.com/article/nyc-puts-social-justice-over-child-safety-with-deadly-results-acs-caseworker/ "Read More")
+
+Commentary Cities, Public Safety New York, New York City, Children & Family
+
+Dec 01 2024
+
+[NYC Puts Social Justice over Child Safety with Deadly Results: ACS Caseworker](https://admin.mi52siterestore.com/article/nyc-puts-social-justice-over-child-safety-with-deadly-results-acs-caseworker/)
+
+By **[Hannah E. Meyers](https://admin.mi52siterestore.com/person/hannah-e-meyers/)** Read time **1 min** [Read More](https://admin.mi52siterestore.com/article/nyc-puts-social-justice-over-child-safety-with-deadly-results-acs-caseworker/)
+
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/trump-wont-solve-nycs-migrant-problem-with-a-return-to-law-and-order.jpg)[](https://admin.mi52siterestore.com/article/trump-wont-solve-nycs-migrant-problem-without-a-return-to-law-and-order/ "Read More")
+
+Commentary Governance, Cities New York, New York City, Immigration
+
+Nov 30 2024
+
+[Trump Won’t Solve NYC’s Migrant Problem Without a Return to Law-and-Order](https://admin.mi52siterestore.com/article/trump-wont-solve-nycs-migrant-problem-without-a-return-to-law-and-order/)
+
+By **[Hannah E. Meyers](https://admin.mi52siterestore.com/person/hannah-e-meyers/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/trump-wont-solve-nycs-migrant-problem-without-a-return-to-law-and-order/)
+
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/trump-and-the-academic-cocoon-2024-election-harris-biden.jpg)[](https://admin.mi52siterestore.com/article/trump-and-the-academic-cocoon/ "Read More")
+
+Commentary Education, Governance Higher Ed
+
+Nov 28 2024
+
+[Trump and the Academic Cocoon](https://admin.mi52siterestore.com/article/trump-and-the-academic-cocoon/)
+
+By **[Heather Mac Donald](https://admin.mi52siterestore.com/person/heather-mac-donald/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/trump-and-the-academic-cocoon/)
+
     ![](https://media4.manhattan-institute.org/wp-content/uploads/Top-Public-Policy-Programs-Have-Almost-No-Conservative-Faculty.jpg)[](https://admin.mi52siterestore.com/article/top-public-policy-programs-have-almost-no-conservative-faculty/ "Read More")
 
 Issue Brief Education, Governance
@@ -113,36 +143,6 @@ Nov 21 2024
 [Top Public Policy Programs Have Almost No Conservative Faculty](https://admin.mi52siterestore.com/article/top-public-policy-programs-have-almost-no-conservative-faculty/)
 
 By **[Frederick M. Hess](https://admin.mi52siterestore.com/person/frederick-m-hess/), [Riley Fletcher](https://admin.mi52siterestore.com/person/riley-fletcher/)** Read time **12 mins** [Read More](https://admin.mi52siterestore.com/article/top-public-policy-programs-have-almost-no-conservative-faculty/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/trump-can-end-religious-discrimination-executive-order-restore-constitutional-protection.jpg)[](https://admin.mi52siterestore.com/article/trump-can-end-religious-discrimination/ "Read More")
-
-Commentary Governance Religion
-
-Nov 21 2024
-
-[Trump Can End Religious Discrimination](https://admin.mi52siterestore.com/article/trump-can-end-religious-discrimination/)
-
-By **[Nicole Stelle Garnett](https://admin.mi52siterestore.com/person/nicole-stelle-garnett/), [John Meiser](https://admin.mi52siterestore.com/person/john-meiser/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/trump-can-end-religious-discrimination/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/bragg-vs-trump-nyc-drowning-crime-how-does-convicting-former-president-make-us-safe.jpg)[](https://admin.mi52siterestore.com/article/bragg-vs-trump-nyc-is-drowning-in-crime-how-does-convicting-the-former-president-make-us-safe/ "Read More")
-
-Commentary Governance, Public Safety Crime Control, Policing
-
-Nov 21 2024
-
-[Bragg vs. Trump: NYC Is Drowning in Crime. How Does Convicting the Former President Make Us Safe?](https://admin.mi52siterestore.com/article/bragg-vs-trump-nyc-is-drowning-in-crime-how-does-convicting-the-former-president-make-us-safe/)
-
-By **[Rafael A. Mangual](https://admin.mi52siterestore.com/person/rafael-a-mangual/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/bragg-vs-trump-nyc-is-drowning-in-crime-how-does-convicting-the-former-president-make-us-safe/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/trump-can-teach-the-education-department-a-lesson-nominee-needs-boldness-back-school-choice-oppose-woke-indoctrination.jpg)[](https://admin.mi52siterestore.com/article/how-trump-can-teach-the-department-of-education-a-lesson/ "Read More")
-
-Commentary Education, Governance Pre K-12
-
-Nov 19 2024
-
-[How Trump Can Teach the Department of Education a Lesson](https://admin.mi52siterestore.com/article/how-trump-can-teach-the-department-of-education-a-lesson/)
-
-By **[Jason L. Riley](https://admin.mi52siterestore.com/person/jason-l-riley/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/how-trump-can-teach-the-department-of-education-a-lesson/)
 
 Our Policy Areas
 ----------------
