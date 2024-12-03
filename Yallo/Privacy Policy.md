@@ -1,4 +1,4 @@
-[](https://www.yallo.ch/fr/ "Aller à la page d'accueil yallo.")[Aller au contenu.](#)
+[](https://www.yallo.ch/fr "Aller à la page d'accueil yallo.")[Aller au contenu.](#)
 
 Mobile
 
