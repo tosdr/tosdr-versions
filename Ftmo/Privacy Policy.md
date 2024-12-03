@@ -1,4 +1,4 @@
-[![logo](https://ftmo.com/wp-content/uploads/2022/01/ftmo_logo.svg)](https://ftmo.com/en/)
+[![logo](https://ftmo.com/wp-content/uploads/2022/12/xmas-logo.svg)](https://ftmo.com/en/)
 
 * [How it works](#)
     * [Evaluation Process](https://ftmo.com/en/#evaluation-process)
@@ -445,7 +445,7 @@ If you believe that we are processing your data in violation of the relevant leg
 
 We may change this policy unilaterally, but we will do so only when necessary and we will notify you about such change. You can find the latest version of this policy in your Client Section.
 
-![logo](https://ftmo.com/wp-content/uploads/2022/01/ftmo_logo.svg)
+![logo](https://ftmo.com/wp-content/uploads/2022/12/xmas-logo.svg)
 
 Quadrio offices  
 Purkynova 2121/3, 110 00, Prague  
