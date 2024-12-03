@@ -230,8 +230,7 @@ Hacer nuestro mundo más humano, conectando la vida de las personas.
 * [Contacto](https://www.telefonica.com/es/contacto/)
 
 * [Países y Unidades emergentes](https://www.telefonica.com/es/nosotros/paises-unidades-emergentes/)
-* [Canal de Denuncias](https://www.telefonica.com/es/canal-denuncias-consultas/)
-* [Canal de Consultas](https://negocioresponsable.telefonica.com/home)
+* [Canal de Denuncias y Consultas](https://www.telefonica.com/es/canal-denuncias-consultas/)
 * [Centro Global Transparencia](https://www.telefonica.com/es/centro-global-de-transparencia/)
 
 [Volver a la portada](https://www.telefonica.com/es/)
