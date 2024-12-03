@@ -1,7 +1,3 @@
-Digital analytics just got easier, for everyone. Join our webinar on November 19!
-
-[Register Now](https://heap.io/resources/webinars-events/easier-digital-insights-with-ai?utm_source=website-banner&utm_medium=organic&utm_campaign=evergreen_fy25q4eg_all_all_all_all_all_acq_pros_pm_prod_all_all_dm&utm_content=webinar_easier-digital-insights-with-ai_other_other)
-
 [skip to content](#main)
 
 [Loading...](https://www.heap.io/)
