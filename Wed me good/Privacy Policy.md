@@ -168,17 +168,17 @@ By Theme
 
 Latest Real Weddings
 
+[![Apeksha and Mohit](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
+
+![Apeksha and Mohit](https://image.wedmegood.com/resized/250X/uploads/images/e6bbd17f37f644b2b79feaffa7ba2107realwedding/AppyForMo_13.jpg?crop=135,853,1221,686)
+
+Apeksha and Mohit (Rajasthan)](https://www.wedmegood.com/real_wedding/detail/apeksha-and-mohit-rajasthan-cross-culture-wedding-4446)
+
 [![Shelly and Ishan](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
 
 ![Shelly and Ishan](https://image.wedmegood.com/resized/250X/uploads/images/ed6d3c15cfad407291e6e9ab2e7821f4realwedding/VISH0294.jpg?crop=244,366,954,536)
 
 Shelly and Ishan (Karnal)](https://www.wedmegood.com/real_wedding/detail/shelly-and-ishan-karnal-wedding-4440)
-
-[![Aditi Rao Hydari and Sidharth](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
-
-![Aditi Rao Hydari and Sidharth](https://image.wedmegood.com/resized/250X/uploads/images/0c567aba551046d7b6f9a8a122d177d5realwedding/Snapinsta.app_468627430_927961662192143_6462890063787209751_n_1080.jpg?crop=104,585,858,482)
-
-Aditi Rao Hydari and Sidharth (Rajasthan)](https://www.wedmegood.com/real_wedding/detail/aditi-rao-hydari-and-sidharth-rajasthan-cross-culture-wedding-4439)
 
 Browse by Category
 
