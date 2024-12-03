@@ -83,11 +83,11 @@ We apply the same rigor and standards of objectivity to these articles as we do 
 
 Most Read
 
-1. [![Listing image for first story in Most Read: Player 456 is back for revenge in Squid Game S2 trailer](https://cdn.arstechnica.net/wp-content/uploads/2024/11/squid1-768x432.jpg)](https://arstechnica.com/culture/2024/11/player-456-is-back-for-revenge-in-squid-game-s2-trailer/)
+1. [![Listing image for first story in Most Read: Certain names make ChatGPT grind to a halt, and we know why](https://cdn.arstechnica.net/wp-content/uploads/2024/12/wrench_in_gears-768x432.jpg)](https://arstechnica.com/information-technology/2024/12/certain-names-make-chatgpt-grind-to-a-halt-and-we-know-why/)
     
-    1. [Player 456 is back for revenge in Squid Game S2 trailer](https://arstechnica.com/culture/2024/11/player-456-is-back-for-revenge-in-squid-game-s2-trailer/)
+    1. [Certain names make ChatGPT grind to a halt, and we know why](https://arstechnica.com/information-technology/2024/12/certain-names-make-chatgpt-grind-to-a-halt-and-we-know-why/)
     
-2. 2. [Certain names make ChatGPT grind to a halt, and we know why](https://arstechnica.com/information-technology/2024/12/certain-names-make-chatgpt-grind-to-a-halt-and-we-know-why/)
+2. 2. [Player 456 is back for revenge in Squid Game S2 trailer](https://arstechnica.com/culture/2024/11/player-456-is-back-for-revenge-in-squid-game-s2-trailer/)
     
 3. 3. [Falcon 9 reaches a flight rate 30 times higher than shuttle at 1/100th the cost](https://arstechnica.com/space/2024/12/spacex-has-set-all-kinds-of-records-with-its-falcon-9-rocket-this-year/)
     
