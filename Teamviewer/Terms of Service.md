@@ -57,6 +57,7 @@
     * [Asset Management](https://www.teamviewer.com/en/products/remote/solutions/asset-management/)
     * [Additional solutions](https://www.teamviewer.com/en/special/better-together/)
     * [Embedded Devices](https://www.teamviewer.com/en/products/tensor/solutions/tensor-embed/)
+    * [Smart Service](https://www.teamviewer.com/en/solutions/use-cases/smart-service/)
     
 * Solutions
     * By Industries
