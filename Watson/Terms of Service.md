@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![en partie ensoleillé](https://www.watson.ch/fr/_watsui/static/img/weather/w-3.svg)6°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![larges éclaircies](https://www.watson.ch/fr/_watsui/static/img/weather/w-3.svg)5°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -54,25 +54,25 @@
 
 Thèmes du moment
 
-* [classement](https://www.watson.ch/fr/classement/)
-* [Animaux](https://www.watson.ch/fr/animaux/)
-* [Armée](https://www.watson.ch/fr/armee/)
-* [Politique](https://www.watson.ch/fr/politique/)
-* [Conseil des Etats](https://www.watson.ch/fr/conseil-des-etats/)
-* [Ski Alpin](https://www.watson.ch/fr/ski-alpin/)
 * [Justice](https://www.watson.ch/fr/justice/)
+* [Environnement](https://www.watson.ch/fr/environnement/)
+* [Allemagne](https://www.watson.ch/fr/allemagne/)
+* [Armée](https://www.watson.ch/fr/armee/)
+* [route](https://www.watson.ch/fr/route/)
+* [Politique](https://www.watson.ch/fr/politique/)
+* [Ski Alpin](https://www.watson.ch/fr/ski-alpin/)
 * [Berne](https://www.watson.ch/fr/berne/)
-* [Fribourg](https://www.watson.ch/fr/fribourg/)
+* [Italie](https://www.watson.ch/fr/italie/)
 * [Argent](https://www.watson.ch/fr/argent/)
-* [ukraine](https://www.watson.ch/fr/ukraine/)
+* [Crime](https://www.watson.ch/fr/crime/)
+* [voiture](https://www.watson.ch/fr/voiture/)
+* [Violence](https://www.watson.ch/fr/violence/)
 * [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
+* [tribunal](https://www.watson.ch/fr/tribunal/)
 * [Suisse romande](https://www.watson.ch/fr/suisse-romande/)
+* [Lausanne](https://www.watson.ch/fr/lausanne/)
 * [Donald Trump](https://www.watson.ch/fr/donald-trump/)
-* [Police](https://www.watson.ch/fr/police/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
-* [Conseil national](https://www.watson.ch/fr/conseil-national/)
-* [Parlement](https://www.watson.ch/fr/parlement/)
-* [Commentaire](https://www.watson.ch/fr/commentaire/)
 * [France](https://www.watson.ch/fr/france/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
