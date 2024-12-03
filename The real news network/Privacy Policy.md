@@ -73,16 +73,16 @@ Follow Us
 Trending Posts
 --------------
 
-* [The bad, the worse, and the ugly: Trump's incoming cabinet](https://therealnews.com/the-bad-the-worse-and-the-ugly-trumps-incoming-cabinet)
-* [Everything you've heard about this election is wrong. Dr. Richard Wolff explains why.](https://therealnews.com/everything-youve-heard-about-this-election-is-wrong-dr-richard-wolff-explains-why)
+* [Biden supports genocide in Gaza because he agrees with it](https://therealnews.com/biden-supports-genocide-in-gaza-because-he-agrees-with-it)
 * [Yes, the 'nonprofit killer' bill is that bad—but it's not invincible](https://therealnews.com/yes-the-nonprofit-killer-bill-is-that-bad-but-its-not-invincible)
+* [Everything you've heard about this election is wrong. Dr. Richard Wolff explains why.](https://therealnews.com/everything-youve-heard-about-this-election-is-wrong-dr-richard-wolff-explains-why)
+* [The bad, the worse, and the ugly: Trump's incoming cabinet](https://therealnews.com/the-bad-the-worse-and-the-ugly-trumps-incoming-cabinet)
 * [10 ways to be prepared and grounded now that Trump has won](https://therealnews.com/10-ways-to-be-prepared-and-grounded-now-that-trump-has-won)
 * [What a can of tuna can teach us about international workers' solidarity](https://therealnews.com/what-a-can-of-tuna-can-teach-us-about-international-workers-solidarity)
+* [Trump picks 'deeply strange' Kash Patel—who vowed to 'come after people in the media'—for FBI director](https://therealnews.com/trump-picks-deeply-strange-kash-patel-who-vowed-to-come-after-people-in-the-media-for-fbi-director)
 * [Union president explains the existential threat Trump poses to organized labor—and how we fight back](https://therealnews.com/union-president-explains-the-existential-threat-trump-poses-to-organized-labor-and-how-we-fight-back)
 * [How Big Tech made Trump 2.0](https://therealnews.com/how-big-tech-made-trump-2-0)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
-* [Unmarked Sacramento gang unit cops stop, arrest father and child at gunpoint](https://therealnews.com/unmarked-sacramento-gang-unit-cops-stop-arrest-father-and-child-at-gunpoint)
-* [Israel cannot be a colonial power and a democracy](https://therealnews.com/israel-cannot-be-a-colonial-power-and-a-democracy)
 
 Close
 
@@ -137,16 +137,16 @@ Follow Us
 Trending Posts
 --------------
 
-* [The bad, the worse, and the ugly: Trump's incoming cabinet](https://therealnews.com/the-bad-the-worse-and-the-ugly-trumps-incoming-cabinet)
-* [Everything you've heard about this election is wrong. Dr. Richard Wolff explains why.](https://therealnews.com/everything-youve-heard-about-this-election-is-wrong-dr-richard-wolff-explains-why)
+* [Biden supports genocide in Gaza because he agrees with it](https://therealnews.com/biden-supports-genocide-in-gaza-because-he-agrees-with-it)
 * [Yes, the 'nonprofit killer' bill is that bad—but it's not invincible](https://therealnews.com/yes-the-nonprofit-killer-bill-is-that-bad-but-its-not-invincible)
+* [Everything you've heard about this election is wrong. Dr. Richard Wolff explains why.](https://therealnews.com/everything-youve-heard-about-this-election-is-wrong-dr-richard-wolff-explains-why)
+* [The bad, the worse, and the ugly: Trump's incoming cabinet](https://therealnews.com/the-bad-the-worse-and-the-ugly-trumps-incoming-cabinet)
 * [10 ways to be prepared and grounded now that Trump has won](https://therealnews.com/10-ways-to-be-prepared-and-grounded-now-that-trump-has-won)
 * [What a can of tuna can teach us about international workers' solidarity](https://therealnews.com/what-a-can-of-tuna-can-teach-us-about-international-workers-solidarity)
+* [Trump picks 'deeply strange' Kash Patel—who vowed to 'come after people in the media'—for FBI director](https://therealnews.com/trump-picks-deeply-strange-kash-patel-who-vowed-to-come-after-people-in-the-media-for-fbi-director)
 * [Union president explains the existential threat Trump poses to organized labor—and how we fight back](https://therealnews.com/union-president-explains-the-existential-threat-trump-poses-to-organized-labor-and-how-we-fight-back)
 * [How Big Tech made Trump 2.0](https://therealnews.com/how-big-tech-made-trump-2-0)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
-* [Unmarked Sacramento gang unit cops stop, arrest father and child at gunpoint](https://therealnews.com/unmarked-sacramento-gang-unit-cops-stop-arrest-father-and-child-at-gunpoint)
-* [Israel cannot be a colonial power and a democracy](https://therealnews.com/israel-cannot-be-a-colonial-power-and-a-democracy)
 
 [Skip to content](#main)
 
