@@ -207,28 +207,6 @@ Menü
     ===
     
 
-[BreakingNews
-
-Server ausgeknipst: BKA zerschlägt größten illegalen Online-Markt
-
-Server ausgeknipst: BKA zerschlägt größten illegalen Online-Markt
-
-Server ausgeknipst: BKA zerschlägt größten illegalen Online-Markt
-
-Server ausgeknipst: BKA zerschlägt größten illegalen Online-Markt
-
-Server ausgeknipst: BKA zerschlägt größten illegalen Online-Markt
-
-Server ausgeknipst: BKA zerschlägt größten illegalen Online-Markt
-
-Server ausgeknipst: BKA zerschlägt größten illegalen Online-Markt
-
-Server ausgeknipst: BKA zerschlägt größten illegalen Online-Markt
-
-Server ausgeknipst: BKA zerschlägt größten illegalen Online-Markt
-
-Server ausgeknipst: BKA zerschlägt größten illegalen Online-Markt](https://www.bild.de/politik/festnahme-in-frankfurt-bka-zerschlaegt-kriminelle-plattform-crimenetwork-674eef460651fa3999762ac4)
-
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
  AGB: Nutzungsbedingungen für die digitalen Angebote von BILD
@@ -270,7 +248,7 @@ Diese Nutzungsbedingungen haben auch dann Geltung, wenn dem Nutzer die Nutzung d
 
 **2\. Anbieter, Vertragspartner**
 
-Anbieter der Inhalte und Vertragspartner der kostenfreien und kostenpflichtigen Angebote von BILD ist die Axel Springer Deutschland GmbH, Axel-Springer-Straße 65, 10888 Berlin, AG Charlottenburg HRB 196159 B, USt-IdNr. DE 214 852 390, Geschäftsführer: Claudius Senst, Christoph Eck-Schmidt, Carolin Hulshoff Pol (nachfolgend als „BILD“ bezeichnet).
+Anbieter der Inhalte und Vertragspartner der kostenfreien und kostenpflichtigen Angebote von BILD ist die Axel Springer Deutschland GmbH, Axel-Springer-Straße 65, 10888 Berlin, AG Charlottenburg HRB 196159 B, USt-IdNr. DE 214 852 390, Geschäftsführer: Carolin Hulshoff Pol, Peter Würtenberger (nachfolgend als „BILD“ bezeichnet).
 
 **3\. Verträge über kostenpflichtige Angebote**
 
