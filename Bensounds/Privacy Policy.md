@@ -81,6 +81,7 @@ Bensound
 * [Royalty Free Music](https://www.bensound.com/royalty-free-music)
 * [Pricing / License](https://www.bensound.com/pricing)
 * [Free Music for Videos](https://www.bensound.com/free-music-for-videos)
+* [Blog](https://www.bensound.com/blog)
 
 Info
 
