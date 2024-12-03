@@ -48,17 +48,11 @@ Learn about how Brightcove collects, uses and shares personal information collec
 
 [Learn more](https://www.brightcove.com/en/legal/brightcove-privacy-policies/)
 
-##### WebForm Module
-
-You, or someone authorized by you, can use this link to submit a data rights request.
-
-[Learn more](https://www.brightcove.com/en/legal/submit-request/)
-
 ##### Control Center Module
 
 You can tell us “Do Not Sell or Share My Personal Information” here.
 
-[Learn more](https://www.brightcove.com/en/legal/opt-out-center/)
+[Learn more](javascript:void(0))
 
 READY TO GET STARTED?
 ---------------------
