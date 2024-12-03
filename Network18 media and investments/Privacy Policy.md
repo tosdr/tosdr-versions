@@ -129,11 +129,11 @@ English
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
     * [IPS Officer](https://www.news18.com/india/karnataka-ips-officer-harsh-bardhan-dies-road-accident-on-his-way-to-first-posting-hassan-latest-updates-9142069.html)
+    * [Sabarmati Report](https://www.news18.com/movies/pm-modi-watches-sabarmati-report-hours-after-vikrant-massey-announces-retirement-shares-his-review-9142881.html)
+    * [Nargis Fakhri](https://www.news18.com/movies/nargis-fakhris-sister-aliya-arrested-in-us-for-killing-her-ex-boyfriend-mother-denies-charges-9143038.html)
+    * [Vikrant Massey](https://www.news18.com/movies/vikrant-massey-retirement-real-reason-behind-his-break-revealed-director-says-actor-doesnt-want-to-9143126.html)
     * [Sreeleela](https://www.news18.com/web-stories/celebrities/south-star-sreeleela-inspired-5-lehenga-blouses-for-marriage-season-2653106/)
-    * [Chunky Panday](https://www.news18.com/movies/chunky-panday-shares-he-was-paid-to-attend-a-funeral-says-family-was-ready-to-pay-more-if-he-cried-9141302.html)
-    * [Skin Glow](https://www.news18.com/web-stories/lifestyle/5-hydrating-drinks-to-make-your-skin-glow-naturally-in-winter-2643380/)
-    * [Maryam Faisal](https://www.news18.com/viral/pakistani-tiktoker-maryam-faisals-mms-leaked-after-kanwal-aftab-minahil-malik-imsha-rehman-9142666.html)
-    * [Adelaide Test](https://www.news18.com/cricket/no-r-ashwin-ravindra-jadeja-for-adelaide-test-as-india-contemporary-asks-rohit-sharma-to-stick-with-washington-sundar-9142337.html)
+    * [Janhvi Kapoor](https://www.news18.com/web-stories/celebrities/6-of-janhvi-kapoors-iconic-fashionable-looks-in-2024-2654309/)
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
@@ -171,11 +171,11 @@ Follow us on
 In Trends:
 
 * [IPS Officer](https://www.news18.com/india/karnataka-ips-officer-harsh-bardhan-dies-road-accident-on-his-way-to-first-posting-hassan-latest-updates-9142069.html)
+* [Sabarmati Report](https://www.news18.com/movies/pm-modi-watches-sabarmati-report-hours-after-vikrant-massey-announces-retirement-shares-his-review-9142881.html)
+* [Nargis Fakhri](https://www.news18.com/movies/nargis-fakhris-sister-aliya-arrested-in-us-for-killing-her-ex-boyfriend-mother-denies-charges-9143038.html)
+* [Vikrant Massey](https://www.news18.com/movies/vikrant-massey-retirement-real-reason-behind-his-break-revealed-director-says-actor-doesnt-want-to-9143126.html)
 * [Sreeleela](https://www.news18.com/web-stories/celebrities/south-star-sreeleela-inspired-5-lehenga-blouses-for-marriage-season-2653106/)
-* [Chunky Panday](https://www.news18.com/movies/chunky-panday-shares-he-was-paid-to-attend-a-funeral-says-family-was-ready-to-pay-more-if-he-cried-9141302.html)
-* [Skin Glow](https://www.news18.com/web-stories/lifestyle/5-hydrating-drinks-to-make-your-skin-glow-naturally-in-winter-2643380/)
-* [Maryam Faisal](https://www.news18.com/viral/pakistani-tiktoker-maryam-faisals-mms-leaked-after-kanwal-aftab-minahil-malik-imsha-rehman-9142666.html)
-* [Adelaide Test](https://www.news18.com/cricket/no-r-ashwin-ravindra-jadeja-for-adelaide-test-as-india-contemporary-asks-rohit-sharma-to-stick-with-washington-sundar-9142337.html)
+* [Janhvi Kapoor](https://www.news18.com/web-stories/celebrities/6-of-janhvi-kapoors-iconic-fashionable-looks-in-2024-2654309/)
 * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 
 * Follow Us
