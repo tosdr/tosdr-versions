@@ -246,14 +246,6 @@ MuggleNet Archive Select Month November 2024  (23) October 2024  (27) Septembe
 
 ### December 2024
 
-#### Mon, Dec 2
-
-Alfred Enoch's birthday
-
-Recurs yearly
-
-Dean Thomas
-
 #### Wed, Dec 4
 
 The Tales of Beedle the Bard book
@@ -306,15 +298,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Ginny Weasley’s full first name is Ginevra, not Virginia.
+The giant squid is a peaceful creature. It can be seen coming up to the surface to be tickled or fed toast; it has even been known to rescue students who have fallen in.
 
 ### Potter History
 
-November 7, 2010 – The official Harry Potter website announces that Alexandre Desplat will return to compose the music for Harry Potter and the Deathly Hallows – Part 2.
+January 18, 2004 – Harry Potter and the Goblet of Fire is predicted to be the most expensive film ever made.
 
 ### Potter Quote
 
-“You’ve picked the losing side, Potter! I warned you! I told you you ought to choose your company more carefully, remember? When we met on the train, first day at Hogwarts? I told you not to hang around with riffraff like this!”
+“When we come face-to-face with one down a dark alley, we’re going to be having a look to see if its solid, aren’t we, we’re not going to be asking, ‘Excuse me, are you the imprint of a departed soul?’”
 
 [](#)
 
