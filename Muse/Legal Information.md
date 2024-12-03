@@ -141,6 +141,7 @@ Please address questions, comments, and requests regarding this privacy notice a
 
 * Connect
 * [Community](https://museapp.com/community)
+* [🦋 Bluesky](https://bsky.app/profile/museapp.bsky.social)
 * [𝕏, Twitter](https://x.com/MuseAppHQ)
 * [Email](mailto:hello@museapp.com)
 
