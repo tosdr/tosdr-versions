@@ -68,20 +68,20 @@ travel • live • work • interact • share • repeat • 
 [fun from day one!](#)
 ----------------------
 
-* [fun from day one!](#tab_674edb7b5694d)
+* [fun from day one!](#tab_674f2b85b47b2)
     ---------------------------------------
     
-    [We are here to offer more than just accommodation. We are committed to provide you a home away from home, where you can instantly feel like a part of a community of likeminded people. We have events running at the hostel every day of the week, so that you can meet other travellers and have fun from day one!](#tab_674edb7b5694d)
+    [We are here to offer more than just accommodation. We are committed to provide you a home away from home, where you can instantly feel like a part of a community of likeminded people. We have events running at the hostel every day of the week, so that you can meet other travellers and have fun from day one!](#tab_674f2b85b47b2)
     
-* [fomo no more!](#tab_674edb7b5695c)
+* [fomo no more!](#tab_674f2b85b47c3)
     -----------------------------------
     
-    [We want you to experience Amsterdam in the best way possible, with no room for fomo. We’re here to give you the coolest tips and recommendations for your visit, from our many local perspectives. Our staff is an amazing mix of true Amsterdammers and international locals who are there for you 24/7.](#tab_674edb7b5695c)
+    [We want you to experience Amsterdam in the best way possible, with no room for fomo. We’re here to give you the coolest tips and recommendations for your visit, from our many local perspectives. Our staff is an amazing mix of true Amsterdammers and international locals who are there for you 24/7.](#tab_674f2b85b47c3)
     
-* [we’ve got you covered, dude](#tab_674edb7b5696e)
+* [we’ve got you covered, dude](#tab_674f2b85b47cf)
     -------------------------------------------------
     
-    [You are part of the international and unique Via family as you check in. Our spaces just boost creativity and they are designed for all kinds of needs; make connections, have fun, eat & drink, join activities, sleep, connect online and offline, make memories, take cool photos… We come from all around the world just like our guests, so we really get you, dude.](#tab_674edb7b5696e)
+    [You are part of the international and unique Via family as you check in. Our spaces just boost creativity and they are designed for all kinds of needs; make connections, have fun, eat & drink, join activities, sleep, connect online and offline, make memories, take cool photos… We come from all around the world just like our guests, so we really get you, dude.](#tab_674f2b85b47cf)
     
 
 ##### [view facilities](https://www.viahostels.com/facilities/)
@@ -179,15 +179,21 @@ Cinema room
 
 #### Game Night
 
-**Wednesday | 19:00  
+**Tuesday | 19:00  
 The Dude Bar  
 **Are you looking to challenge your friendships in a heated round of UNO, share a laugh over cards against humanity, or work your brain in a round of chess? We have something for everyone at our boardgames night at the Dude bar.
 
-#### Brushes ‘n Brews
+#### Holiday Hearts & Arts
 
-**Thursday| 19:00  
+**Wednesday| 20:00  
 The Dude Bar  
-**Join us for a good painting sesh, where creativity flows as freely as the drinks. You will have the chance to paint your own masterpieces while enjoying a nice drink from the bar.
+**Let’s spread some love and joy in the world! Create your own Christmas card for your loved ones, or let us send it to elderly people to share the holiday spirit.
+
+#### Surprise Dice Game
+
+**Thursday| 20:00  
+The Dude Bar  
+**Happy ‘Sinterklaas-avond’! A truly traditional Dutch festive night. Join us for a good old game of Surprise Dice where you don’t know with which gift you will end up with. Fun guaranteed.
 
 #### Karaoke Party
 
@@ -195,11 +201,17 @@ The Dude Bar
 The Dude Bar  
 **What’s your go-to karaoke song? Come show us on Friday, all singers get a free shot. Bring your friends, or make some new ones singing your heart out!
 
-#### DJ Night
+#### Beer Pong X-Mas special
 
-**Saturday | 17:00  
+**Saturday | 20:00  
 The Dude Bar  
-**Turn up the energy at DJ Night! Feel the rhythm, hit the dance floor, and vibe to an epic mix of tracks. Bring your friends and let’s make it a night to remember.
+**It’s Beer Pong BUT with X-mas themed special challenges “in” every cup. Double the fun.
+
+#### Bracelets & Bonds
+
+**Sunday | 10:30  
+The Dude Bar  
+**Sunday Funday! Let’s capture those Amsterdam memories in a bracelet so you will never forget. We have all the supplies, so just bring yourself and your (newly made) friends.
 
 Trusted by over 10,000 visitors worldwide
 -----------------------------------------
