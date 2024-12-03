@@ -299,6 +299,7 @@ Due to the further development of our website and services or due to changed leg
 * [privacy policy](https://kurzgesagt.org/privacy)
 * [cookie policy](https://kurzgesagt.org/cookies)
 * [imprint](https://kurzgesagt.org/imprint)
+* [Mastodon](https://qoto.org/@kurzgesagt)
 
 * [](https://www.youtube.com/@kurzgesagt)
 * [](https://twitter.com/Kurz_Gesagt)
