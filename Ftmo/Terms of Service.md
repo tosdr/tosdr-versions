@@ -1,4 +1,4 @@
-[![logo](https://ftmo.com/wp-content/uploads/2022/01/ftmo_logo.svg)](https://ftmo.com/en/)
+[![logo](https://ftmo.com/wp-content/uploads/2022/12/xmas-logo.svg)](https://ftmo.com/en/)
 
 * [How it works](#)
     * [Evaluation Process](https://ftmo.com/en/#evaluation-process)
@@ -135,7 +135,7 @@ Terms and Conditions
 
 * [Cookies](https://ftmo.com/cookies/)
 
-![logo](https://ftmo.com/wp-content/uploads/2022/01/ftmo_logo.svg)
+![logo](https://ftmo.com/wp-content/uploads/2022/12/xmas-logo.svg)
 
 Quadrio offices  
 Purkynova 2121/3, 110 00, Prague  
