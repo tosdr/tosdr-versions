@@ -291,9 +291,21 @@ PARAGOULD, AR 72450
 Check Out Our Blog
 ------------------
 
+[![A semi-realistic, 2D cartoon-style image of a thoughtful character with glasses holding a document labeled 'Salvage Title' while standing next to a car with visible repair signs or a dent. Surrounding the character are icons representing decision-making, such as a question mark, a checkmark, and dollar signs. The background includes elements like a clipboard and car repair tools, using flat colors and minimal shading to create an approachable and informative design.](https://creditnerds.com/wp-content/uploads/2024/12/Should-I-Buy-a-Car-With-a-Salvage-Title-30x30.webp)](https://creditnerds.com/should-i-buy-a-car-with-a-salvage-title/)
+
+[Credit](https://creditnerds.com/category/credit/)
+
+December 3, 2024
+
+#### [Should I Buy a Car With a Salvage Title?](https://creditnerds.com/should-i-buy-a-car-with-a-salvage-title/)
+
+If you’re shopping for a used car, you might encounter vehicles with salvage titles. These cars, often sold at steep discounts, have been declared total losses by insurance companies due to damage. While the low price can be tempting, buying a salvage title car carries risks and requires careful consideration. Should I buy a car …
+
+[Read More](https://creditnerds.com/should-i-buy-a-car-with-a-salvage-title/)
+
 [![A semi-realistic, 2D cartoon-style image of a friendly character with glasses looking at a laptop screen displaying a credit score chart. The character sits at a desk surrounded by icons like a credit card, dollar signs, and a magnifying glass, symbolizing financial tools for checking credit scores. The background features subtle decor like a clock, bookshelf, and a plant, using flat colors and minimal shading for a clean and approachable design.](https://creditnerds.com/wp-content/uploads/2024/11/How-Do-I-Check-My-Credit-Score-30x30.webp)](https://creditnerds.com/how-do-i-check-my-credit-score/)
 
-[Uncategorized](https://creditnerds.com/category/uncategorized/)
+[Credit](https://creditnerds.com/category/credit/)
 
 November 25, 2024
 
@@ -386,18 +398,6 @@ November 4, 2024
 Opening a new credit card can have both positive and negative effects on your credit score. Before applying, consider how a new card could impact your overall financial health, taking into account potential benefits like promotional interest rates or rewards programs. Let’s dive into how this decision can affect your credit score. How Can Opening …
 
 [Read More](https://creditnerds.com/does-opening-a-new-credit-card-improve-your-credit-score/)
-
-[![A semi-realistic, 2D cartoon-style image of a professional character with glasses seated at a desk, surrounded by financial documents, charts, and a laptop displaying information related to 'Hard Inquiry vs. Soft Inquiry: What’s the Difference?' The character has a friendly, thoughtful expression, set in a cozy office environment with bookshelves, plants, and office decor. The clean, minimal shading style provides a professional yet approachable atmosphere, highlighting the concept of credit inquiries.](https://creditnerds.com/wp-content/uploads/2024/10/Hard-Inquiry-vs.-Soft-Inquiry-Whats-the-Difference-30x30.webp)](https://creditnerds.com/hard-inquiry-vs-soft-inquiry-whats-the-difference/)
-
-[Credit](https://creditnerds.com/category/credit/)
-
-October 28, 2024
-
-#### [Hard Inquiry vs. Soft Inquiry: What’s the Difference?](https://creditnerds.com/hard-inquiry-vs-soft-inquiry-whats-the-difference/)
-
-Hard Inquiry vs. Soft Inquiry: What’s the Difference? Understanding credit inquiries is essential when managing your credit health. Both hard and soft inquiries appear on your credit report, yet they differ in purpose and impact. Let's explore the key differences in a hard inquiry vs. soft inquiry, including when each type occurs and how they …
-
-[Read More](https://creditnerds.com/hard-inquiry-vs-soft-inquiry-whats-the-difference/)
 
 ![](https://creditnerds.com/wp-content/uploads/2023/12/small-logo-white-30x30.png)
 
