@@ -79,7 +79,7 @@ Today’s Paper](https://www.canberratimes.com.au/digital-print-edition/)[![](ht
 
 Download our app](https://www.canberratimes.com.au/app/)[![](https://cdn.newsnow.io/XNYkXiBdsC832Jm3ku2C9g/d818b395-f698-4c32-9c2e-6435ec1582ab.svg)
 
-Interactive Puzzles](https://www.canberratimes.com.au/life-style/puzzles/)[![](https://cdn.newsnow.io/b5N3njmU7ggEmuQMNaxVEM/fe6c0fae-3a24-4ec7-a6f4-faee4d56d6d8.svg)
+Interactive Puzzles](https://www.canberratimes.com.au/puzzles/)[![](https://cdn.newsnow.io/b5N3njmU7ggEmuQMNaxVEM/fe6c0fae-3a24-4ec7-a6f4-faee4d56d6d8.svg)
 
 ViewJobs](https://www.canberratimes.com.au/jobs)
 
