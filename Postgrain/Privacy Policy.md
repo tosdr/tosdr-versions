@@ -411,11 +411,11 @@ _A equipe do POSTGRAIN lhe deseja uma excelente navegação!_
 
 ### Última do blog
 
-[![](https://postgrain.com/wp-content/uploads/2024/11/THUMB-BLOG-Aprenda-a-colocar-mensagens-automaticas-na-DM-do-Instagram-580x290.jpg)](https://postgrain.com/?post_type=post&p=12752)
+[![Tendências de Marketing para 2025 - A imagem que ilustra o tema tem o fundo azul e no meio uma ilustração no formato 3D de um celular com um alvo na tela e, em volta, vários ícones que remetem ao digital e redes sociais.](https://postgrain.com/wp-content/uploads/2024/12/THUMB-BLOG-10-Tendencias-de-Marketing-para-2025-Posicione-sua-marca-para-o-sucesso-580x290.jpg)](https://postgrain.com/?post_type=post&p=12763)
 
-[Tutorial: Aprenda a colocar mensagens automáticas na DM do Instagram!](https://postgrain.com/?post_type=post&p=12752)
+[10 Tendências de Marketing para 2025: Posicione sua marca para o sucesso!](https://postgrain.com/?post_type=post&p=12763)
 
-[Leia mais](https://postgrain.com/?post_type=post&p=12752)
+[Leia mais](https://postgrain.com/?post_type=post&p=12763)
 
 Ilustração de um dos personagens do Postgrain
 
