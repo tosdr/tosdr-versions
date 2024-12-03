@@ -138,11 +138,12 @@ CDN77 Cookie Policy
     
     Legal
     
-    * [Terms & Conditions](https://www.cdn77.com/terms-and-conditions)
-    * [Service Level Agreement](https://www.cdn77.com/service-level-agreement)
-    * [Privacy policy](https://www.cdn77.com/privacy-policy)
-    * [Cookie policy](https://www.cdn77.com/cookie-policy)
-    * [Trust & DMCA](https://www.cdn77.com/trust)
+    * [Terms & Conditions](https://www.cdn77.com/legal/terms-and-conditions)
+    * [Service Level Agreement](https://www.cdn77.com/legal/service-level-agreement)
+    * [Acceptable Use Policy](https://www.cdn77.com/legal/acceptable-use-policy)
+    * [Privacy policy](https://www.cdn77.com/legal/privacy-policy)
+    * [Cookie policy](https://www.cdn77.com/legal/cookie-policy)
+    * [Trust & DMCA](https://www.cdn77.com/legal/trust)
     
 
 2024 [DataCamp Limited](https://datacamp.co.uk/). All rights reserved.
