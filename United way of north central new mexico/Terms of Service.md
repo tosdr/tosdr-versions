@@ -2,9 +2,7 @@
 
 [Skip to content](#content)
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20445'%3E%3C/svg%3E)
-
-![](https://uwncnm.org/wp-content/uploads/2024/11/nav_logo_final.webp)](https://uwncnm.org/)
+[![](https://uwncnm.org/wp-content/uploads/2024/11/nav_logo_final.webp)](https://uwncnm.org/)
 
 * [Who We Are](https://uwncnm.org/who-we-are/)
     * [About Us](https://uwncnm.org/about-us/)
