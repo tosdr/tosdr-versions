@@ -181,16 +181,16 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [SAF Asks SCOTUS To Hear California Gun Show Lawsuit](https://www.thegunpage.com/saf-asks-scotus-to-hear-california-gun-show-lawsuit/10612250)
+* [Firearm Background Checks Drop Nearly 10% Ahead of Black Friday 2024](https://www.thegunpage.com/firearm-background-checks-drop-nearly-10-ahead-of-black-friday-2024/10612248)
+* [Seven pro-gun ear surgeons create national sound-suppressor policy](https://www.thegunpage.com/seven-pro-gun-ear-surgeons-create-national-sound-suppressor-policy/10612246)
+* [Nighthawk Custom: A Legacy Of Craftsmanship And Excellence](https://www.thegunpage.com/nighthawk-custom-a-legacy-of-craftsmanship-and-excellence/10612245)
 * [TFB Review: SIG Sauer P320 Max](https://www.thegunpage.com/tfb-review-sig-sauer-p320-max/10612242)
 * [POTD: Ruger Precision Rifle With Leica PRS 5-30x56i Riflescope](https://www.thegunpage.com/potd-ruger-precision-rifle-with-leica-prs-5-30x56i-riflescope/10612243)
 * [The Rimfire Report: The Last Quackenbush – Bicycle Rifle](https://www.thegunpage.com/the-rimfire-report-the-last-quackenbush-bicycle-rifle/10612244)
 * [Get These 10 Cyber Monday Deals While You Still Can](https://www.thegunpage.com/get-these-10-cyber-monday-deals-while-you-still-can/10612240)
 * [Are Shotguns Good for Home Defense? A Comprehensive Guide](https://www.thegunpage.com/are-shotguns-good-for-home-defense-a-comprehensive-guide/10612236)
 * [Smith & Wesson Announces The M&P FPC In .40 S&W](https://www.thegunpage.com/smith-wesson-announces-the-mp-fpc-in-40-sw/10612234)
-* [Streamlight Nano Light II: Mighty Mini LED](https://www.thegunpage.com/streamlight-nano-light-ii-mighty-mini-led/10612235)
-* [President Biden Pardons Hunter on Gun, Tax & Any Future Charges](https://www.thegunpage.com/president-biden-pardons-hunter-on-gun-tax-any-future-charges/10612232)
-* [New Russian Submachine Gun Patent: AK-Based, P90-Inspired](https://www.thegunpage.com/new-russian-submachine-gun-patent-ak-based-p90-inspired/10612229)
-* [GOA Applauds Nomination of “Fiercely Pro-Gun” Kash Patel for FBI Director](https://www.thegunpage.com/goa-applauds-nomination-of-fiercely-pro-gun-kash-patel-for-fbi-director/10612228)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -232,15 +232,15 @@ Contact Us
 
 Recent Comments
 
+* Kevin M. Nadzam on [Joe Biden Confirms his “Contempt” for the American People with his Hunter Biden Pardon](https://www.conservativedailynews.com/2024/12/joe-biden-confirms-his-contempt-for-the-american-people-with-his-hunter-biden-pardon/#comment-783526)
+* charles wilkins on [Another Broken Promise…](https://www.conservativedailynews.com/2024/12/another-broken-promise-2/#comment-783524)
+* charles wilkins on [First Kid’s Immunity](https://www.conservativedailynews.com/2024/12/first-kids-immunity/#comment-783523)
 * charles wilkins on [Turkey Day](https://www.conservativedailynews.com/2024/11/turkey-day-2/#comment-783510)
 * Stanley Warner on [A World of Leverage](https://www.conservativedailynews.com/2024/11/a-world-of-leverage/#comment-783463)
 * Stanley Warner on [Trump Will Redirect Billions In Unspent Funds From Biden’s Climate Law To ‘Real Infrastructure’](https://www.conservativedailynews.com/2024/11/trump-will-redirect-billions-in-unspent-funds-from-bidens-climate-law-to-real-infrastructure/#comment-783462)
 * Stanley Warner on [The Inequity of the Pursuit of Equity in the military over preparedness is at best dereliction of duty](https://www.conservativedailynews.com/2024/11/the-inequity-of-the-pursuit-of-equity-in-the-military-over-preparedness-is-at-best-dereliction-of-duty/#comment-783461)
 * KayCee on [A Cautionary Note for Republicans Celebrating Trump’s Historic Victory](https://www.conservativedailynews.com/2024/11/a-cautionary-note-for-republicans-celebrating-trumps-historic-victory/#comment-783440)
 * [cotobuzz](http://www.cotobuzz.com/) on [The Inequity of the Pursuit of Equity in the military over preparedness is at best dereliction of duty](https://www.conservativedailynews.com/2024/11/the-inequity-of-the-pursuit-of-equity-in-the-military-over-preparedness-is-at-best-dereliction-of-duty/#comment-783438)
-* Bill Wallace on [The Inequity of the Pursuit of Equity in the military over preparedness is at best dereliction of duty](https://www.conservativedailynews.com/2024/11/the-inequity-of-the-pursuit-of-equity-in-the-military-over-preparedness-is-at-best-dereliction-of-duty/#comment-783437)
-* Jeff L. on [Shocker: Liberal Professor Concludes liberals should try to Persuade Voters of their Views](https://www.conservativedailynews.com/2024/11/shocker-liberal-professor-concludes-liberals-should-try-to-persuade-voters-of-their-views/#comment-783431)
-* Catboss on [Lame Duck Biden Admin Cuts Massive Check For Failing EV Manufacturer](https://www.conservativedailynews.com/2024/11/lame-duck-biden-admin-cuts-massive-check-for-failing-ev-manufacturer/#comment-783425)
 
 [Close](#)
 
