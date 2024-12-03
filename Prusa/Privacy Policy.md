@@ -1,10 +1,8 @@
-[Black Friday & Cyber Monday 2024](https://www.prusa3d.com/category/black-friday/): 3D printer discounts, free shipping, extra gifts and CORE One Conversion Kit vouchers!
-
 Shipping to
 
 ![United States flag](/cdn-cgi/image/width=45,format=auto,quality=85/content/images/country/1792.png)United States
 
-BF: Free shipping for orders above 200 $!
+MK4S kit shipping from $50 (DHL)
 
 $USD
 
