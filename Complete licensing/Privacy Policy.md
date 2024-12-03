@@ -1,8 +1,6 @@
 [Skip to content](#content)
 
-[![Complete Licensing logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E)
-
-![Complete Licensing logo](https://completelicensing.uk/wp-content/uploads/2020/05/complete-licensing-logo-1.svg)](https://completelicensing.uk/)
+[![Complete Licensing logo](https://completelicensing.uk/wp-content/uploads/2020/05/complete-licensing-logo-1.svg)](https://completelicensing.uk/)
 
 * [About](https://completelicensing.uk/about/)
 * [Services](https://completelicensing.uk/services/)
@@ -293,17 +291,11 @@ We want you to know that we’re here to help. We have the resources, the knowle
 
 © 2024 Complete Licensing Ltd. All rights reserved. Complete Licensing Limited is a company registered in England and Wales.
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20256%20256'%3E%3C/svg%3E)
+[![](https://complete-licensing.fra1.digitaloceanspaces.com/wp-content/uploads/2024/09/06151607/image_2022-01-12_142103.1897190000_256x256_q85_padding_upscale-1.png)](https://registry.blockmarktech.com/certificates/15c19be6-e562-4231-8484-0206e33fa373/)
 
-![](https://complete-licensing.fra1.digitaloceanspaces.com/wp-content/uploads/2024/09/06151607/image_2022-01-12_142103.1897190000_256x256_q85_padding_upscale-1.png)](https://registry.blockmarktech.com/certificates/15c19be6-e562-4231-8484-0206e33fa373/)
+[![](https://completelicensing.uk/wp-content/uploads/2020/05/GBC-LOGO-accredited-stamp-281x300.png)](https://accreditation.goodbusinesscharter.com/directory?name=Complete+Licensing)
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20281%20300'%3E%3C/svg%3E)
-
-![](https://completelicensing.uk/wp-content/uploads/2020/05/GBC-LOGO-accredited-stamp-281x300.png)](https://accreditation.goodbusinesscharter.com/directory?name=Complete+Licensing)
-
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E)
-
-![](https://completelicensing.uk/wp-content/uploads/2020/05/abi.svg)](https://www.theabi.org.uk/member/4412)
+[![](https://completelicensing.uk/wp-content/uploads/2020/05/abi.svg)](https://www.theabi.org.uk/member/4412)
 
 **Company Number:** [12611128](https://beta.companieshouse.gov.uk/company/12611128)  
 **VAT Number:** [350480616](https://www.tax.service.gov.uk/check-vat-number/known)
