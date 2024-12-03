@@ -1166,11 +1166,11 @@ Wellness
 
 More
 
-[25% Off Black Friday and Cyber Monday Sale
+[22% Off Brain & Cognitive
 
  
 
-‌‌Shop Now‌‌](https://www.iherb.com/c/categories?pcode=BFCM24)
+‌‌Shop Now‌‌](https://www.iherb.com/c/brain-cognitive?pcode=22BRAIN24)
 
       
 
