@@ -205,28 +205,26 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [The 10 Reasons We Will Never Review F.A.T.A.L.](https://www.somethingawful.com/dungeons-and-dragons/fatal-worst-rpg/1/)
-* [Belle's Quest](https://www.somethingawful.com/rom-pit/belles-quest/)
-* [Help me get to work, Part 2](https://www.somethingawful.com/comedy-goldmine/help-me-get-2/1/)
-* [Muppets Most Wanted; Divergent; Nymphomaniac: Volume II](https://www.somethingawful.com/current-movie-reviews/muppets-wanted-divergent/1/)
-* [Blue Stripe - The Life and Times of a Dalek Slave](https://www.somethingawful.com/news/dalek-doctor-who/1/)
+* [Pizza Art!](https://www.somethingawful.com/comedy-goldmine/digiorno-pizza-art/1/)
+* [Warhamer 40,000: Rogue Trader (part one)](https://www.somethingawful.com/dungeons-and-dragons/wtf-rogue-trader/1/)
+* [Ass Effect](https://www.somethingawful.com/news/mass-effect/1/)
+* [The Simcity Board of Advisors](https://www.somethingawful.com/news/simcity-advisors/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/unfunny.png) [I made up some terrible jokes!](http://forums.somethingawful.com/showthread.php?threadid=4076679 "I made up some terrible jokes!")
 * ![](https://fi.somethingawful.com/forums/posticons/tfr-box.gif) [2025 Celebrity Deadpool](http://forums.somethingawful.com/showthread.php?threadid=4076710 "2025 Celebrity Deadpool")
-* ![](https://fi.somethingawful.com/forums/posticons/tfr-box.gif) [Which emojis should they add (or remove)?](http://forums.somethingawful.com/showthread.php?threadid=4076694 "Which emojis should they add (or remove)?")
-* ![](https://fi.somethingawful.com/forums/posticons/byob-shocking.gif) [There's this weird little forum advertising here](http://forums.somethingawful.com/showthread.php?threadid=4076689 "There's this weird little forum advertising here")
+* ![](https://fi.somethingawful.com/forums/posticons/tviv-competition.gif) [Ridiculous things that have happened that nobody saw](http://forums.somethingawful.com/showthread.php?threadid=4076761 "Ridiculous things that have happened that nobody saw")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/music.png) [Tillamook it's the ice cream to serve](http://forums.somethingawful.com/showthread.php?threadid=4076762 "Tillamook it's the ice cream to serve")
+* ![](https://fi.somethingawful.com/forums/posticons/cd_hype.gif) [South Korea declares martial law](http://forums.somethingawful.com/showthread.php?threadid=4076754 "South Korea declares martial law")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/unfunny.png) [Can we please have a moment of silence for](http://forums.somethingawful.com/showthread.php?threadid=4076739 "Can we please have a moment of silence for")
-* ![](https://fi.somethingawful.com/forums/posticons/byob-grumpy.gif) [What do I get my teenage kids for Christmas?](http://forums.somethingawful.com/showthread.php?threadid=4076684 "What do I get my teenage kids for Christmas?")
 
 ### Random Articles
 
-* [Randomly Generated Video Games! (Part Two of Two)](https://www.somethingawful.com/photoshop-phriday/randomly-generated-games2/1/)
-* [Water, Water, Everywhere](https://www.somethingawful.com/news/water-water-everywhere/)
-* [The Christian Gallery - Baby Butcher Cams](https://www.somethingawful.com/awful-links/awful-link-982/)
-* [The Irate Ghost Hunter](https://www.somethingawful.com/webcam-ward/irateghosts/)
-* [Oldboy; Homefront; Frozen; Philomena](https://www.somethingawful.com/current-movie-reviews/oldboy-homefront-frozen/1/)
+* [Darkfurr](https://www.somethingawful.com/awful-links/awful-link-2238/)
+* [Flash Tub 3007](https://www.somethingawful.com/flash-tub/future-animation-metal/)
+* [A Very Special Star Wars Non-Christmas Special](https://www.somethingawful.com/news/very-special-star/)
+* [London's Times](https://www.somethingawful.com/awful-links/awful-link-4158/)
+* [John Cena's Face Superimposed on Cats](https://www.somethingawful.com/photoshop-phriday/feline-cena-animorphs/)
 
 [Random!](https://www.somethingawful.com/random/)
 
