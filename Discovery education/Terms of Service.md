@@ -75,6 +75,10 @@
     Augmented Reality
     
 
+* [](https://www.discoveryeducation.co.uk/school-success-advisors/)
+    
+    School Success Advisors
+    
 * [](https://www.discoveryeducation.co.uk/success-webinars/)
     
     Success Webinars
@@ -84,9 +88,9 @@
     School Success Stories
     
 
-* [](https://www.discoveryeducation.co.uk/school-success-advisors/)
+* [](https://www.discoveryeducation.co.uk/classroom-connect/)
     
-    School Success Advisors
+    Classroom Connect
     
 * [](https://help.discoveryeducation.co.uk/hc/en-gb)
     
