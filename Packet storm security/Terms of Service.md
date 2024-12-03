@@ -53,9 +53,9 @@ Any claim relating to Packet Storm Security's web site shall be governed by the 
 Top Authors In Last 30 Days
 ---------------------------
 
-* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 293 files
-* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 64 files
-* [Debian](https://packetstormsecurity.com/files/authors/2821) 22 files
+* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 308 files
+* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 67 files
+* [Debian](https://packetstormsecurity.com/files/authors/2821) 24 files
 * [Gentoo](https://packetstormsecurity.com/files/authors/3417) 8 files
 * [Google Security Research](https://packetstormsecurity.com/files/authors/11596) 7 files
 * [LiquidWorm](https://packetstormsecurity.com/files/authors/5960) 6 files
@@ -69,6 +69,30 @@ Recent News
 
 [![News RSS Feed](https://packetstatic.com/img1514015884/bt_rss.gif)](https://rss.packetstormsecurity.com/news/)  
 
+[Corrupted Microsoft Office Documents Used In Phishing Campaign](https://packetstormsecurity.com/news/view/36662/Corrupted-Microsoft-Office-Documents-Used-In-Phishing-Campaign.html)
+
+Posted [Dec 3, 2024](https://packetstormsecurity.com/news/date/2024-12-03/ "15:07:28 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [microsoft](https://packetstormsecurity.com/news/tags/microsoft), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [password](https://packetstormsecurity.com/news/tags/password), [phish](https://packetstormsecurity.com/news/tags/phish)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36662/) | [View](https://www.scworld.com/news/corrupted-word-documents-used-in-phishing-campaign)
+
+[Meta Says It Has Taken Down 20 Covert Influence Ops In 2024](https://packetstormsecurity.com/news/view/36661/Meta-Says-It-Has-Taken-Down-20-Covert-Influence-Ops-In-2024.html)
+
+Posted [Dec 3, 2024](https://packetstormsecurity.com/news/date/2024-12-03/ "15:07:26 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [russia](https://packetstormsecurity.com/news/tags/russia), [fraud](https://packetstormsecurity.com/news/tags/fraud), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar), [facebook](https://packetstormsecurity.com/news/tags/facebook)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36661/) | [View](https://www.theguardian.com/technology/2024/dec/03/meta-says-it-has-taken-down-about-20-covert-influence-operations-in-2024)
+
+[Russia Gives Life Sentence To Hydra Dark Web Kingpin After Seizing A Ton Of Drugs](https://packetstormsecurity.com/news/view/36660/Russia-Gives-Life-Sentence-To-Hydra-Dark-Web-Kingpin-After-Seizing-A-Ton-Of-Drugs.html)
+
+Posted [Dec 3, 2024](https://packetstormsecurity.com/news/date/2024-12-03/ "15:07:24 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [russia](https://packetstormsecurity.com/news/tags/russia), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36660/) | [View](https://www.theregister.com/2024/12/03/russia_hydra_sentencing/)
+
 [Zabbix Urges Upgrades After Critical SQL Injection Bug Disclosure](https://packetstormsecurity.com/news/view/36655/Zabbix-Urges-Upgrades-After-Critical-SQL-Injection-Bug-Disclosure.html)
 
 Posted [Dec 2, 2024](https://packetstormsecurity.com/news/date/2024-12-02/ "17:47:02 UTC")
@@ -76,6 +100,22 @@ Posted [Dec 2, 2024](https://packetstormsecurity.com/news/date/2024-12-02/ "17:4
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](https://packetstormsecurity.com/news/tags/flaw), [patch](https://packetstormsecurity.com/news/tags/patch)
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36655/) | [View](https://www.theregister.com/2024/11/29/zabbix_urges_upgrades_after_critical/)
+
+[Code Found Online Exploits LogoFAIL To Install Bootkitty Linux Backdoor](https://packetstormsecurity.com/news/view/36654/Code-Found-Online-Exploits-LogoFAIL-To-Install-Bootkitty-Linux-Backdoor.html)
+
+Posted [Dec 2, 2024](https://packetstormsecurity.com/news/date/2024-12-02/ "17:46:57 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [malware](https://packetstormsecurity.com/news/tags/malware), [linux](https://packetstormsecurity.com/news/tags/linux), [flaw](https://packetstormsecurity.com/news/tags/flaw), [backdoor](https://packetstormsecurity.com/news/tags/backdoor)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36654/) | [View](https://arstechnica.com/security/2024/11/code-found-online-exploits-logofail-to-install-bootkitty-linux-backdoor/)
+
+[Telco Security Is A Dumpster Fire And Everyone's Getting Burned](https://packetstormsecurity.com/news/view/36653/Telco-Security-Is-A-Dumpster-Fire-And-Everyones-Getting-Burned.html)
+
+Posted [Dec 2, 2024](https://packetstormsecurity.com/news/date/2024-12-02/ "17:46:47 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [phone](https://packetstormsecurity.com/news/tags/phone), [flaw](https://packetstormsecurity.com/news/tags/flaw)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36653/) | [View](https://www.theregister.com/2024/12/02/telco_security_opinion/)
 
 [Starbucks, Grocery Stores Hit By Blue Yonder Ransomware Attack](https://packetstormsecurity.com/news/view/36652/Starbucks-Grocery-Stores-Hit-By-Blue-Yonder-Ransomware-Attack.html)
 
@@ -85,6 +125,22 @@ tags | [headline](https://packetstormsecurity.com/news/tags/headline), [malware]
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36652/) | [View](https://www.securityweek.com/starbucks-grocery-stores-hit-by-blue-yonder-ransomware-attack/)
 
+[Chinese Lidar Sensors Pose Hacking Risk To US Defense Equipment](https://packetstormsecurity.com/news/view/36651/Chinese-Lidar-Sensors-Pose-Hacking-Risk-To-US-Defense-Equipment.html)
+
+Posted [Dec 2, 2024](https://packetstormsecurity.com/news/date/2024-12-02/ "17:46:14 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [china](https://packetstormsecurity.com/news/tags/china), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar), [spyware](https://packetstormsecurity.com/news/tags/spyware), [backdoor](https://packetstormsecurity.com/news/tags/backdoor), [military](https://packetstormsecurity.com/news/tags/military)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36651/) | [View](https://www.reuters.com/world/china/chinese-lidar-sensors-pose-hacking-risk-us-defense-equipment-report-says-2024-12-02/)
+
+[Russian Hacker With $10 Million Bounty On His Head Reportedly Arrested](https://packetstormsecurity.com/news/view/36650/Russian-Hacker-With-10-Million-Bounty-On-His-Head-Reportedly-Arrested.html)
+
+Posted [Dec 2, 2024](https://packetstormsecurity.com/news/date/2024-12-02/ "17:46:01 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [russia](https://packetstormsecurity.com/news/tags/russia)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36650/) | [View](https://www.securityweek.com/russian-hacker-with-10-million-bounty-on-his-head-reportedly-arrested/)
+
 [US Senators Propose Law To Require Bare Minimum Security Standards](https://packetstormsecurity.com/news/view/36649/US-Senators-Propose-Law-To-Require-Bare-Minimum-Security-Standards.html)
 
 Posted [Nov 27, 2024](https://packetstormsecurity.com/news/date/2024-11-27/ "15:38:15 UTC")
@@ -92,62 +148,6 @@ Posted [Nov 27, 2024](https://packetstormsecurity.com/news/date/2024-11-27/ "15:
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [password](https://packetstormsecurity.com/news/tags/password)
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36649/) | [View](https://www.theregister.com/2024/11/26/us_senators_healthcare_cybersecurity/)
-
-[Telco Engineer Who Spied On Employer For Beijing Gets 4 Years](https://packetstormsecurity.com/news/view/36648/Telco-Engineer-Who-Spied-On-Employer-For-Beijing-Gets-4-Years.html)
-
-Posted [Nov 27, 2024](https://packetstormsecurity.com/news/date/2024-11-27/ "15:38:13 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [privacy](https://packetstormsecurity.com/news/tags/privacy), [usa](https://packetstormsecurity.com/news/tags/usa), [phone](https://packetstormsecurity.com/news/tags/phone), [china](https://packetstormsecurity.com/news/tags/china), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar), [spyware](https://packetstormsecurity.com/news/tags/spyware), [voip](https://packetstormsecurity.com/news/tags/voip)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36648/) | [View](https://www.theregister.com/2024/11/27/telco_spy_beijing_jailed/)
-
-[New York Fines GEICO And Travelers $11.3 Million In Data Breach Cases](https://packetstormsecurity.com/news/view/36647/New-York-Fines-GEICO-And-Travelers-11.3-Million-In-Data-Breach-Cases.html)
-
-Posted [Nov 27, 2024](https://packetstormsecurity.com/news/date/2024-11-27/ "15:38:11 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [government](https://packetstormsecurity.com/news/tags/government), [privacy](https://packetstormsecurity.com/news/tags/privacy), [usa](https://packetstormsecurity.com/news/tags/usa), [data loss](https://packetstormsecurity.com/news/tags/data_loss)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36647/) | [View](https://www.scworld.com/news/new-york-fines-geico-and-travelers-113-million-in-data-breach-cases)
-
-[Russian APT Chained Firefox and Windows Zero-Days Against US and European Targets](https://packetstormsecurity.com/news/view/36646/Russian-APT-Chained-Firefox-and-Windows-Zero-Days-Against-US-and-European-Targets.html)
-
-Posted [Nov 27, 2024](https://packetstormsecurity.com/news/date/2024-11-27/ "15:37:53 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [malware](https://packetstormsecurity.com/news/tags/malware), [microsoft](https://packetstormsecurity.com/news/tags/microsoft), [russia](https://packetstormsecurity.com/news/tags/russia), [flaw](https://packetstormsecurity.com/news/tags/flaw), [mozilla](https://packetstormsecurity.com/news/tags/mozilla), [firefox](https://packetstormsecurity.com/news/tags/firefox), [zero day](https://packetstormsecurity.com/news/tags/zero_day)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36646/) | [View](https://www.securityweek.com/russian-apt-chained-firefox-and-windows-zero-days-against-us-and-european-targets/)
-
-[Feds Seek To Grill Kansas City Man With Hacking Charges](https://packetstormsecurity.com/news/view/36645/Feds-Seek-To-Grill-Kansas-City-Man-With-Hacking-Charges.html)
-
-Posted [Nov 27, 2024](https://packetstormsecurity.com/news/date/2024-11-27/ "15:37:49 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36645/) | [View](https://www.scworld.com/news/feds-seek-to-grill-kansas-city-man-with-hacking-charges)
-
-[ProjectSend Vulnerability Exploited In The Wild](https://packetstormsecurity.com/news/view/36644/ProjectSend-Vulnerability-Exploited-In-The-Wild.html)
-
-Posted [Nov 27, 2024](https://packetstormsecurity.com/news/date/2024-11-27/ "15:37:31 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [flaw](https://packetstormsecurity.com/news/tags/flaw)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36644/) | [View](https://www.securityweek.com/projectsend-vulnerability-exploited-in-the-wild/)
-
-[Source Code Of macOS Banshee Stealer Leaked](https://packetstormsecurity.com/news/view/36643/Source-Code-Of-macOS-Banshee-Stealer-Leaked.html)
-
-Posted [Nov 27, 2024](https://packetstormsecurity.com/news/date/2024-11-27/ "15:37:08 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [malware](https://packetstormsecurity.com/news/tags/malware), [russia](https://packetstormsecurity.com/news/tags/russia), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [apple](https://packetstormsecurity.com/news/tags/apple)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36643/) | [View](https://www.securityweek.com/source-code-of-3000-a-month-macos-malware-banshee-stealer-leaked/)
-
-[CyberVolk Analysis Explores Ransomware, Hacktivism Connections](https://packetstormsecurity.com/news/view/36642/CyberVolk-Analysis-Explores-Ransomware-Hacktivism-Connections.html)
-
-Posted [Nov 27, 2024](https://packetstormsecurity.com/news/date/2024-11-27/ "15:36:50 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [malware](https://packetstormsecurity.com/news/tags/malware), [russia](https://packetstormsecurity.com/news/tags/russia), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36642/) | [View](https://www.scworld.com/news/cybervolk-analysis-explores-ransomware-hacktivism-interconnections)
 
 [View More News →](https://packetstormsecurity.com/news/)
 
@@ -193,4 +193,4 @@ Hosting By
 
 ![close](https://packetstatic.com/img1514015884/o_close.png)
 
-![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=1409108234&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Terms%20of%20Service%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Ftos.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.1409108234.1733237716.1733237716.1733237716.1%3B%2B__utmz%3D32867617.1733237716.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
+![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=1686711807&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Terms%20of%20Service%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Ftos.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.1686711807.1733259731.1733259731.1733259731.1%3B%2B__utmz%3D32867617.1733259731.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
