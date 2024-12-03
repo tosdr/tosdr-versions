@@ -57,6 +57,8 @@ If you have any questions about these Terms, please email [rob@seatingplan.com](
 
 [Terms of Use](https://www.seatingplan.com/terms)
 
+[Blog](https://www.seatingplan.com/blog)
+
 [Service Status](https://status.seatingplan.com/)
 
 [Climate](https://climate.stripe.com/g3LlrV)
