@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/da8f2a37-dc53-469c-9eab-fe2fc5db4d0e/20241203T005505/da8f2a37-dc53-469c-9eab-fe2fc5db4d0e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/da8f2a37-dc53-469c-9eab-fe2fc5db4d0e/20241203T005505/da8f2a37-dc53-469c-9eab-fe2fc5db4d0e_360x203.jpg)](https://www.king5.com/article/news/local/fob-sushi-reopen-seattle-bellevue-restaurants-after-tiktok-controversy/281-3b1c1580-7915-4b5a-b6f6-95e227258f4b)
+    *  [![](https://media.king5.com/assets/KING/images/ff155a1d-68e9-4bb6-9f3e-b8887c5fa59e/20241203T182902/ff155a1d-68e9-4bb6-9f3e-b8887c5fa59e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ff155a1d-68e9-4bb6-9f3e-b8887c5fa59e/20241203T182902/ff155a1d-68e9-4bb6-9f3e-b8887c5fa59e_360x203.jpg)](https://www.king5.com/article/news/politics/state-politics/permanent-pacific-standard-time-washington-state/281-a12f1622-0356-4933-b39f-485eef8dc7ff)
         
-        #### [FOB Sushi to reopen Bellevue, Seattle locations after controversy involving TikToker Keith Lee](https://www.king5.com/article/news/local/fob-sushi-reopen-seattle-bellevue-restaurants-after-tiktok-controversy/281-3b1c1580-7915-4b5a-b6f6-95e227258f4b)
+        #### [Permanent Pacific Standard Time? Senators to try and push bill through state legislature](https://www.king5.com/article/news/politics/state-politics/permanent-pacific-standard-time-washington-state/281-a12f1622-0356-4933-b39f-485eef8dc7ff)
         
-    *  [![](https://media.king5.com/assets/KING/images/5490d74e-ff74-485d-ad10-1c2e0fd4f709/5490d74e-ff74-485d-ad10-1c2e0fd4f709_16x9.jpeg) ![](https://media.king5.com/assets/KING/images/5490d74e-ff74-485d-ad10-1c2e0fd4f709/5490d74e-ff74-485d-ad10-1c2e0fd4f709_360x203.jpeg)](https://www.king5.com/article/news/crime/man-arrested-allegedly-stabbing-wife-to-death-bellevue-senior-living-facility/281-18614f42-3ae1-4248-a694-d823902d2e22)
+    *  [![](https://media.king5.com/assets/KING/images/5ad7d9b5-c47a-4c40-97b4-bee925e90470/20241113T152258/5ad7d9b5-c47a-4c40-97b4-bee925e90470_16x9.jpg) ![](https://media.king5.com/assets/KING/images/5ad7d9b5-c47a-4c40-97b4-bee925e90470/20241113T152258/5ad7d9b5-c47a-4c40-97b4-bee925e90470_360x203.jpg)](https://www.king5.com/article/news/politics/king-county-executive-candidates/281-52a57ec5-5ce4-4d3c-b405-f80e07352a22)
         
-        #### [Man arrested for allegedly stabbing wife to death in Bellevue senior living facility](https://www.king5.com/article/news/crime/man-arrested-allegedly-stabbing-wife-to-death-bellevue-senior-living-facility/281-18614f42-3ae1-4248-a694-d823902d2e22)
+        #### [Here is everyone who is running for King County executive](https://www.king5.com/article/news/politics/king-county-executive-candidates/281-52a57ec5-5ce4-4d3c-b405-f80e07352a22)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/7d1c065d-0c2e-43b6-b39a-c6e5ddbc2ae0/20241203T012854/7d1c065d-0c2e-43b6-b39a-c6e5ddbc2ae0_16x9.jpg) ![](https://media.king5.com/assets/KING/images/7d1c065d-0c2e-43b6-b39a-c6e5ddbc2ae0/20241203T012854/7d1c065d-0c2e-43b6-b39a-c6e5ddbc2ae0_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/a1c70024-1429-481d-ade3-09d743919fb1/20241116T013642/a1c70024-1429-481d-ade3-09d743919fb1_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a1c70024-1429-481d-ade3-09d743919fb1/20241116T013642/a1c70024-1429-481d-ade3-09d743919fb1_360x203.jpg)](https://www.king5.com/article/weather/hurricane/skagit-county-man-helps-hurricane-helene-victims-aftermath-north-carolina/281-fe06e8c8-8966-4921-b529-d303597b0ce7)
+        
+        #### [Skagit County man helps Hurricane Helene victims](https://www.king5.com/article/weather/hurricane/skagit-county-man-helps-hurricane-helene-victims-aftermath-north-carolina/281-fe06e8c8-8966-4921-b529-d303597b0ce7)
+        
+    *  [![](https://media.king5.com/assets/KING/images/015c804a-708d-43ce-a457-cf11caf70354/20241203T130011/015c804a-708d-43ce-a457-cf11caf70354_16x9.jpg) ![](https://media.king5.com/assets/KING/images/015c804a-708d-43ce-a457-cf11caf70354/20241203T130011/015c804a-708d-43ce-a457-cf11caf70354_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
-    *  [![](https://media.king5.com/assets/KING/images/0f4003a8-5735-443a-b20e-591ab52fd157/20241128T130908/0f4003a8-5735-443a-b20e-591ab52fd157_16x9.jpg) ![](https://media.king5.com/assets/KING/images/0f4003a8-5735-443a-b20e-591ab52fd157/20241128T130908/0f4003a8-5735-443a-b20e-591ab52fd157_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/low-visibility-dense-fog-advisory-driving-seattle-tacoma-western-washington/281-ea539072-3f25-4d02-b21b-b112ae951182)
-        
-        #### [Dense Fog Advisory expires in western Washington](https://www.king5.com/article/weather/weather-blog/low-visibility-dense-fog-advisory-driving-seattle-tacoma-western-washington/281-ea539072-3f25-4d02-b21b-b112ae951182)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-37°
+40°
 
-![Fog](/assets/shared-images/weather-icons/fog-night_210x210.png)
+![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
