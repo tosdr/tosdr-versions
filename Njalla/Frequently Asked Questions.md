@@ -103,7 +103,7 @@ We accept lots of crypto currencies, like Bitcoin, Litecoin, Monero, ZCash, Ethe
 small hut in the Sápmi forest, built to protect against predators.
 
 * [@njalla@njal.la](https://njalla.social/@njalla)
-* [@njal\_la](https://twitter.com/njal_la)
+* [@njal.la](https://bsky.app/profile/njal.la)
 * [njallalafimoej5i4eg7vlnqjvmb6zhdh27qxcatdn647jtwwwui3nad.onion](https://njallalafimoej5i4eg7vlnqjvmb6zhdh27qxcatdn647jtwwwui3nad.onion/)
 
 * [Domains](https://njal.la/domains/)
