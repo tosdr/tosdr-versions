@@ -55,6 +55,38 @@ Seconds
 
 [Buy Panda Dome](https://www.pandasecurity.com/security-promotion/?campaign=cybermonday2024&track=190478)
 
+![Panda Security](/rfilescms/Teaser/CAMPAIGNS/XMAS/pandasecurity-image-teaser-rnw-xmas.png)
+
+### Merry Christmas!
+
+This offer ends in:
+
+0 0
+
+Hours
+
+0 0
+
+Minutes
+
+0 0
+
+Seconds
+
+\-60%
+
+Renew now
+
+#### Special Offer: Renew with a 60% discount
+
+ 
+
+Forgot your customer ID? [Click here](https://webservices.pandasecurity.com/PasswordReminder/RecoverID.aspx)
+
+\-60%
+
+Renew now
+
 * Protection
 * [Panda Dome product range](https://www.pandasecurity.com/en/homeusers/)
 * [Panda Dome Essential](https://www.pandasecurity.com/en/dome/essential/)
