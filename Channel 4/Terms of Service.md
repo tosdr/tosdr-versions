@@ -69,7 +69,6 @@
         * [Four in a Bed](https://www.channel4.com/4viewers/take-part/four-in-a-bed)
         * [The Game of Wool](https://www.channel4.com/4viewers/takepart/game-of-wool)
         * [George Clarke's Kitchens v Gardens](https://www.channel4.com/4viewers/take-part/kitchen-garden)
-        * [George Clarke's Old House New Home](https://www.channel4.com/4viewers/take-part/george-clarkes-old-house-new-home)
         * [Grand Designs](https://www.channel4.com/4viewers/take-part/grand-designs)
         * [The Great British Bake Off](https://www.channel4.com/4viewers/take-part/bake-off)
         * [Help! We Bought A Village](https://www.channel4.com/4viewers/take-part/bought-a-village)
