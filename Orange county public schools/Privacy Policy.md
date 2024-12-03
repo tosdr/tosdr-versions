@@ -292,7 +292,7 @@ Orange County Public Schools
     
     * [Superintendent's Profile](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=87890)
     * [Code of Civility](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=1526148)
-    * [Superintendent's Scholarship Fund](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=1816958)
+    * [Superintendent's Leadership Fund](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=1816958)
     * [Organizational Chart](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=1849294)
     
 * [Current Families](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=87608)
@@ -433,7 +433,7 @@ Orange County Public Schools
 * [Superintendent](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=87605)
     * [Superintendent's Profile](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=87890)
     * [Code of Civility](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=1526148)
-    * [Superintendent's Scholarship Fund](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=1816958)
+    * [Superintendent's Leadership Fund](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=1816958)
     * [Organizational Chart](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=1849294)
 * [Current Families](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=87608)
     * [Current Families Guide](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=1672454)
