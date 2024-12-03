@@ -220,7 +220,7 @@ November 2, 2024
 
 Since February 11, It has blocked 92 scam texts. Every day I would get at least 6 scam texts. Using a couple key words it blocked them and I have only received 2 in my inbox. So far I am loving this app. It is worth the one time fee. Update: Since August 16 the app has blocked 396 spam and scam messages. I am so happy I do not have to be irritated by those messages any more.
 
-3 people found this review helpful
+4 people found this review helpful
 
 Did you find this helpful?
 
@@ -311,7 +311,7 @@ Privacy Policy](https://www.mezo.ai/privacypolicy)
 Similar apps
 ------------
 
-_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGGtHVmVQZGxadU1IdUZicTJ0ZG9xYWc9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljLFPTk)
+_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGFNldzBLeU8xZXd6SnRZVjlNNlFYUWc9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljJivsA)
 
 [![Thumbnail image](https://play-lh.googleusercontent.com/gnlpo5LYkUtiGNbNRhVFKVtOUnp_B_Sw85SM8QDYT9qA-4_Mq25KBhammMwoZphsjeg=s64)
 
@@ -335,7 +335,7 @@ Multi SMS Sender (MSS)
 
 Crazy Broadcast
 
-4.0_star_](https://play.google.com/store/apps/details?id=crazy.pradeep.multismssender)
+3.9_star_](https://play.google.com/store/apps/details?id=crazy.pradeep.multismssender)
 
 [![Thumbnail image](https://play-lh.googleusercontent.com/KDbfRHKbBVGukacslSdo_s-oIySEQKE0x_fba6otUWFeWyiKVHKnUosoOU2i-J1ETA=s64)
 
@@ -367,7 +367,7 @@ Google Play[Play Pass](https://play.google.com/store/pass/getstarted)[Play Point
 
 Kids & family[Parent Guide](https://support.google.com/googleplay?p=pff_parentguide)[Family sharing](https://support.google.com/googleplay/answer/7007852)
 
-[Terms of Service](https://play.google.com/intl/en-US_us/about/play-terms.html)
+[Terms of Service](https://play.google.com/intl/en_us/about/play-terms.html)
 
 [Privacy](https://policies.google.com/privacy)
 
@@ -379,4 +379,4 @@ Kids & family[Parent Guide](https://support.google.com/googleplay?p=pff_parentgu
 
 ![](https://ssl.gstatic.com/store/images/regionflags/us.png)
 
-United States (English (United States))
+United States (English)
