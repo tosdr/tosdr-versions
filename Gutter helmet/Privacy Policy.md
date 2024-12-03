@@ -4,7 +4,7 @@
 
 [Close Search](#)
 
-Monthly Promotion Here!
+Get 16% Off Gutter Helmet Today!\*
 
 [![Gutter Helmet](https://www.gutterhelmet.com/wp-content/uploads/2023/08/Gutter-Helmet-Logo.png)![Gutter Helmet](https://www.gutterhelmet.com/wp-content/uploads/2023/08/Gutter-Helmet-Logo.png)](https://www.gutterhelmet.com/)
 
