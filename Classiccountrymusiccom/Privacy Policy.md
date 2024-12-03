@@ -98,7 +98,7 @@ Main Menu
 
 * [Team Snoop’s Christina Eagle Fights For...](https://classiccountrymusic.com/team-snoops-christina-eagle-fights-for-finale-spot-with-energetic-shania-twain-cover/)
 * [Watch Toby Keith’s Brand-New Video For...](https://classiccountrymusic.com/watch-toby-keiths-brand-new-video-for-old-toy-trains/)
-* [Kris Kristofferson Sent His Friends &...](https://classiccountrymusic.com/kris-kristofferson-sent-his-friends-family-a-sign-over-thanksgiving/)
+* [Ned LeDoux To Release An Unheard...](https://classiccountrymusic.com/ned-ledoux-to-release-an-unheard-duet-with-his-late-dad-chris-ledoux/)
 
 ![bluegrass](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
@@ -120,9 +120,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/outlaw) [See All](https://classiccountrymusic.com/genre/outlaw)
 
-* [Kris Kristofferson Sent His Friends &...](https://classiccountrymusic.com/kris-kristofferson-sent-his-friends-family-a-sign-over-thanksgiving/)
 * [Willie Nelson Opens Up About Dealing...](https://classiccountrymusic.com/willie-nelson-opens-up-about-dealing-with-loss-in-his-new-album-last-leaf-on-the-tree-im-not-afraid-of-dying/)
 * [LIST: All Past Recipients Of The...](https://classiccountrymusic.com/list-all-past-recipients-of-the-cmas-willie-nelson-lifetime-achievement-award/)
+* [Willie Nelson & Wife Annie Release...](https://classiccountrymusic.com/willie-nelson-wife-annie-release-their-cannabis-cookbook/)
 
 Privacy Policy
 ==============
