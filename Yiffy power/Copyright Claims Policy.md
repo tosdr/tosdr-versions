@@ -1,5 +1,3 @@
-📣 Black Friday Offer: Get 30% off your Yiff Premium access with code "BF30" [CLAIM NOW](https://yiff-party.com/yiff-party-premium/)
-
 [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA+gAAAEEAQAAAACTwSOZAAAAAnRSTlMAAHaTzTgAAAA2SURBVHja7cEBAQAAAIIg/69uSEABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwK8Bf/gAAd5Jwp8AAAAASUVORK5CYII=)
 
 ![](https://yiff-party.com/wp-content/uploads/2022/12/Yiff-Party-1.6.png)](https://yiff-party.com/)[![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA+gAAAEEAQAAAACTwSOZAAAAAnRSTlMAAHaTzTgAAAA2SURBVHja7cEBAQAAAIIg/69uSEABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwK8Bf/gAAd5Jwp8AAAAASUVORK5CYII=)
@@ -77,7 +75,7 @@ Latest commented posts
 
 [agatha directed by kotcfacu (director)](https://yiff-party.com/yiff/agatha-directed-by-kotcfacu-director/)
 
-0 652 1
+0 664 1
 
 November 18, 2024
 
@@ -85,21 +83,21 @@ November 18, 2024
 
 [affax created by eihman and fumiko](https://yiff-party.com/yiff/affax-created-by-eihman-and-fumiko/)
 
-0 163 1
+0 168 1
 
 November 27, 2024
 
-[](https://yiff-party.com/yiff/69936/)
+[](https://yiff-party.com/yiff/archon-eclipse-and-zoyler-created-by-zoyler/)
 
-[#69936](https://yiff-party.com/yiff/69936/)
+[archon eclipse and zoyler created by zoyler](https://yiff-party.com/yiff/archon-eclipse-and-zoyler-created-by-zoyler/)
 
-0 106 0
+0 98 0
 
 November 3, 2024
 
-[](https://yiff-party.com/yiff/izutsumi-and-laios-touden-delicious-in-dungeon-created-by-greatm8sfm/)
+[](https://yiff-party.com/yiff/fluttershy-friendship-is-magic-and-etc-created-by-juxi/)
 
-[izutsumi and laios touden (delicious in dungeon) created by greatm8sfm](https://yiff-party.com/yiff/izutsumi-and-laios-touden-delicious-in-dungeon-created-by-greatm8sfm/)
+[fluttershy (friendship is magic and etc) created by juxi](https://yiff-party.com/yiff/fluttershy-friendship-is-magic-and-etc-created-by-juxi/)
 
 0 1 0
 
