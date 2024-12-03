@@ -20,16 +20,16 @@ Tuesday, December 3 2024
 
 Latest
 
-* [Korea arrests CEO for adding DDoS feature to satellite receivers](https://digitpatrox.com/korea-arrests-ceo-for-adding-ddos-feature-to-satellite-receivers/)
-* [GOG’s preservation program lets you keep playing games after they’re delisted](https://digitpatrox.com/gogs-preservation-program-lets-you-keep-playing-games-after-theyre-delisted/)
-* [Snag the Fire HD 8 Kids Pro Tablet for over 50% Off on Cyber Monday](https://digitpatrox.com/snag-the-fire-hd-8-kids-pro-tablet-for-over-50-off-on-cyber-monday/)
-* [AWS opens physical sites for fast data uploads – but it could cost you up to $500 an hour](https://digitpatrox.com/aws-opens-physical-sites-for-fast-data-uploads-but-it-could-cost-you-up-to-500-an-hour/)
-* [It looks like Apple’s forthcoming M5 chips are all about AI – Computerworld](https://digitpatrox.com/it-looks-like-apples-forthcoming-m5-chips-are-all-about-ai-computerworld/)
-* [I’m a Shopping Writer, and These Are My Favorite Amazon Cyber Monday Tech Sales](https://digitpatrox.com/im-a-shopping-writer-and-these-are-my-favorite-amazon-cyber-monday-tech-sales/)
-* [How to reset Windows 10 removing everything](https://digitpatrox.com/how-to-reset-windows-10-removing-everything/)
-* [What Is a Supercookie (and Why Should You Care?)](https://digitpatrox.com/what-is-a-supercookie-and-why-should-you-care/)
-* [Rapid7 announces new chief technology officer for EMEA](https://digitpatrox.com/rapid7-announces-new-chief-technology-officer-for-emea/)
-* [How to Mass Delete Emails on Gmail: Best Way to Declutter](https://digitpatrox.com/how-to-mass-delete-emails-on-gmail-best-way-to-declutter/)
+* [How to Write a Call Center Business Plan in 7 Steps](https://digitpatrox.com/how-to-write-a-call-center-business-plan-in-7-steps/)
+* [What is a super-automatic espresso machine, and are they worth it?](https://digitpatrox.com/what-is-a-super-automatic-espresso-machine-and-are-they-worth-it/)
+* [Russia sentences Hydra dark web market leader to life in prison](https://digitpatrox.com/russia-sentences-hydra-dark-web-market-leader-to-life-in-prison/)
+* [Jaguar’s bizarre rebranding continues with the Type 00 concept electric car](https://digitpatrox.com/jaguars-bizarre-rebranding-continues-with-the-type-00-concept-electric-car/)
+* [NYT Strands Today: Hints, Answers & Spangram for December 3](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-december-3/)
+* [Download the Cloud Optimization Enterprise Spotlight](https://digitpatrox.com/download-the-cloud-optimization-enterprise-spotlight/)
+* [This Ember Smart Mug Keeps Me Caffeinated, and It’s 27% Off This Cyber Monday](https://digitpatrox.com/this-ember-smart-mug-keeps-me-caffeinated-and-its-27-off-this-cyber-monday/)
+* [How to show full path on File Explorer on Windows 11, 10](https://digitpatrox.com/how-to-show-full-path-on-file-explorer-on-windows-11-10/)
+* [Sony’s Rumored Gaming Handheld Has an Impossible Job](https://digitpatrox.com/sonys-rumored-gaming-handheld-has-an-impossible-job/)
+* [Data center firm Latos introduces itself with plans for 40 new facilities in the UK](https://digitpatrox.com/data-center-firm-latos-introduces-itself-with-plans-for-40-new-facilities-in-the-uk/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://www.bleepstatic.com/content/hl-images/2024/10/03/headpic.jpg)](https://digitpatrox.com/korea-arrests-ceo-for-adding-ddos-feature-to-satellite-receivers/)
+* [![](https://assets.techrepublic.com/uploads/2024/12/call-center-business-plan-featured-image-12022024-min.png)](https://digitpatrox.com/how-to-write-a-call-center-business-plan-in-7-steps/)
     
-    [Korea arrests CEO for adding DDoS feature to satellite receivers](https://digitpatrox.com/korea-arrests-ceo-for-adding-ddos-feature-to-satellite-receivers/)
+    [How to Write a Call Center Business Plan in 7 Steps](https://digitpatrox.com/how-to-write-a-call-center-business-plan-in-7-steps/)
     
-    27 minutes ago
+    32 minutes ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/GypmTBdxrNMqJRnzi6J1Yf37CNk=/0x0:1200x900/1200x628/filters:focal(600x450:601x451)/cdn.vox-cdn.com/uploads/chorus_asset/file/25770485/15ae9897b2ae3c7edda1e072ee5d1376d8b4a211ccedda6afa501ec3690f3294.jpg)](https://digitpatrox.com/gogs-preservation-program-lets-you-keep-playing-games-after-theyre-delisted/)
+* [![](https://cdn.mos.cms.futurecdn.net/DsCCvVAAgmqfRkWDjF538g-1200-80.jpg)](https://digitpatrox.com/what-is-a-super-automatic-espresso-machine-and-are-they-worth-it/)
     
-    [GOG’s preservation program lets you keep playing games after they’re delisted](https://digitpatrox.com/gogs-preservation-program-lets-you-keep-playing-games-after-theyre-delisted/)
+    [What is a super-automatic espresso machine, and are they worth it?](https://digitpatrox.com/what-is-a-super-automatic-espresso-machine-and-are-they-worth-it/)
     
-    44 minutes ago
+    36 minutes ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/11/Cyber-Monday-Fire-HD-8-Kids-Pro-Tablet-deal.jpg)](https://digitpatrox.com/snag-the-fire-hd-8-kids-pro-tablet-for-over-50-off-on-cyber-monday/)
+* [![](https://www.bleepstatic.com/content/hl-images/2022/04/05/Hydra_headpic.jpg)](https://digitpatrox.com/russia-sentences-hydra-dark-web-market-leader-to-life-in-prison/)
     
-    [Snag the Fire HD 8 Kids Pro Tablet for over 50% Off on Cyber Monday](https://digitpatrox.com/snag-the-fire-hd-8-kids-pro-tablet-for-over-50-off-on-cyber-monday/)
+    [Russia sentences Hydra dark web market leader to life in prison](https://digitpatrox.com/russia-sentences-hydra-dark-web-market-leader-to-life-in-prison/)
     
-    1 hour ago
+    2 hours ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/up7KoVRatQ55Re8Gti5rFT-1200-80.jpg)](https://digitpatrox.com/aws-opens-physical-sites-for-fast-data-uploads-but-it-could-cost-you-up-to-500-an-hour/)
+* [![](https://cdn.vox-cdn.com/thumbor/Lk6wor-ptUbTrP-Xh6ze6C_40EA=/209x154:3631x2160/1200x628/filters:focal(1827x1360:1828x1361)/cdn.vox-cdn.com/uploads/chorus_asset/file/25770685/Design_Vision_HERO_SIDE_PROFILE_16x9.jpg)](https://digitpatrox.com/jaguars-bizarre-rebranding-continues-with-the-type-00-concept-electric-car/)
     
-    [AWS opens physical sites for fast data uploads – but it could cost you up to $500 an hour](https://digitpatrox.com/aws-opens-physical-sites-for-fast-data-uploads-but-it-could-cost-you-up-to-500-an-hour/)
+    [Jaguar’s bizarre rebranding continues with the Type 00 concept electric car](https://digitpatrox.com/jaguars-bizarre-rebranding-continues-with-the-type-00-concept-electric-car/)
     
-    3 hours ago
+    2 hours ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3615524-0-57439100-1733158068-Apple-Intelligence-hero.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/it-looks-like-apples-forthcoming-m5-chips-are-all-about-ai-computerworld/)
+* [![](https://beebom.com/wp-content/uploads/2024/07/strands-today-hints-and-answers.jpg?w=1252&quality=75)](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-december-3/)
     
-    [It looks like Apple’s forthcoming M5 chips are all about AI – Computerworld](https://digitpatrox.com/it-looks-like-apples-forthcoming-m5-chips-are-all-about-ai-computerworld/)
+    [NYT Strands Today: Hints, Answers & Spangram for December 3](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-december-3/)
     
-    3 hours ago
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [27 minutes ago
+* [32 minutes ago
     
-    ### Korea arrests CEO for adding DDoS feature to satellite receivers](https://digitpatrox.com/korea-arrests-ceo-for-adding-ddos-feature-to-satellite-receivers/)
-* [44 minutes ago
+    ### How to Write a Call Center Business Plan in 7 Steps](https://digitpatrox.com/how-to-write-a-call-center-business-plan-in-7-steps/)
+* [36 minutes ago
     
-    ### GOG’s preservation program lets you keep playing games after they’re delisted](https://digitpatrox.com/gogs-preservation-program-lets-you-keep-playing-games-after-theyre-delisted/)
-* [1 hour ago
+    ### What is a super-automatic espresso machine, and are they worth it?](https://digitpatrox.com/what-is-a-super-automatic-espresso-machine-and-are-they-worth-it/)
+* [2 hours ago
     
-    ### Snag the Fire HD 8 Kids Pro Tablet for over 50% Off on Cyber Monday](https://digitpatrox.com/snag-the-fire-hd-8-kids-pro-tablet-for-over-50-off-on-cyber-monday/)
+    ### Russia sentences Hydra dark web market leader to life in prison](https://digitpatrox.com/russia-sentences-hydra-dark-web-market-leader-to-life-in-prison/)
 
 Most Popular Topics
 
-* [8 hours ago
+* [September 13, 2024
     
-    ### Panasonic revives its late founder as AI – Computerworld](https://digitpatrox.com/panasonic-revives-its-late-founder-as-ai-computerworld/)
-* [September 1, 2024
+    ### Partnerships are Oracle’s key to success in the “multi-cloud era”](https://digitpatrox.com/partnerships-are-oracles-key-to-success-in-the-multi-cloud-era/)
+* [9 hours ago
     
-    ### My Favorite Amazon Deal of the Day: Sonos Ray Soundbar](https://digitpatrox.com/my-favorite-amazon-deal-of-the-day-sonos-ray-soundbar/)
-* [2 weeks ago
+    ### It looks like Apple’s forthcoming M5 chips are all about AI – Computerworld](https://digitpatrox.com/it-looks-like-apples-forthcoming-m5-chips-are-all-about-ai-computerworld/)
+* [October 13, 2024
     
-    ### ChatGPT app for Windows 11, 10 is better than web version because of these 3 features](https://digitpatrox.com/chatgpt-app-for-windows-11-10-is-better-than-web-version-because-of-these-3-features/)
+    ### Deepfakes Can Fool Facial Recognition on Crypto Exchanges](https://digitpatrox.com/deepfakes-can-fool-facial-recognition-on-crypto-exchanges/)
 
 Last Modified Topics
 
-* [3 hours ago
+* [5 hours ago
     
-    ### How to reset Windows 10 removing everything](https://digitpatrox.com/how-to-reset-windows-10-removing-everything/)
-* [4 hours ago
+    ### This Ember Smart Mug Keeps Me Caffeinated, and It’s 27% Off This Cyber Monday](https://digitpatrox.com/this-ember-smart-mug-keeps-me-caffeinated-and-its-27-off-this-cyber-monday/)
+* [5 hours ago
     
-    ### What Is a Supercookie (and Why Should You Care?)](https://digitpatrox.com/what-is-a-supercookie-and-why-should-you-care/)
-* [4 hours ago
+    ### How to show full path on File Explorer on Windows 11, 10](https://digitpatrox.com/how-to-show-full-path-on-file-explorer-on-windows-11-10/)
+* [5 hours ago
     
-    ### Rapid7 announces new chief technology officer for EMEA](https://digitpatrox.com/rapid7-announces-new-chief-technology-officer-for-emea/)
+    ### Sony’s Rumored Gaming Handheld Has an Impossible Job](https://digitpatrox.com/sonys-rumored-gaming-handheld-has-an-impossible-job/)
 
 Most Viewed Topics
 
-* [August 13, 2024
+* [August 12, 2024
     
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
-* [August 13, 2024
+    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
+* [August 11, 2024
     
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [October 2, 2024
     
     ### The best noise-canceling headphones for 2024](https://digitpatrox.com/the-best-noise-canceling-headphones-for-2024/)
