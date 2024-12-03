@@ -186,8 +186,6 @@ Diners Club
 
 Discover
 
-Meta Pay
-
 Google Pay
 
 JCB
