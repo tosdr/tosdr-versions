@@ -178,4 +178,4 @@ F-Droid is powered by your donations!
 * [Find your way around apps](https://f-droid.org/en/2024/11/21/twif.html) Nov 21, 2024
 * [Heading headwind with FOSS solutions](https://f-droid.org/en/2024/11/14/twif.html) Nov 14, 2024
 
-© 2010-2024 F-Droid Contributors (F-Droid 2024-11-30, fdroid-website [2.295](https://gitlab.com/fdroid/fdroid-website/tree/c065d7a38a)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
+© 2010-2024 F-Droid Contributors (F-Droid 2024-11-30, fdroid-website [2.296](https://gitlab.com/fdroid/fdroid-website/tree/026ffc9e86)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
