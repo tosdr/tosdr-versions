@@ -94,7 +94,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Neandertals may have built a hearth specifically to make tar](https://www.sciencenews.org/article/neandertals-hearth-used-to-make-tar)
             
-            By [Richard Kemeny](https://www.sciencenews.org/author/richard-kemeny "Posts by Richard Kemeny")9 hours ago
+            By [Richard Kemeny](https://www.sciencenews.org/author/richard-kemeny "Posts by Richard Kemeny")15 hours ago
             
         * [Anthropology](https://www.sciencenews.org/topic/anthropology)
             
@@ -124,13 +124,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Electronic ‘tattoos’ offer an alternative to electrodes for brain monitoring](https://www.sciencenews.org/article/electronic-tattoos-brain-monitoring)
             
-            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")11 hours ago
+            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")17 hours ago
             
         * [Animals](https://www.sciencenews.org/topic/animals)
             
             ### [Giant hornets have been sighted in Europe for the first time](https://www.sciencenews.org/article/giant-hornets-europe-first-sighting)
             
-            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")14 hours ago
+            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")20 hours ago
             
         * [Animals](https://www.sciencenews.org/topic/animals)
             
