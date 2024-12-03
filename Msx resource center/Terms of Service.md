@@ -13,7 +13,7 @@
     * [ARCHIVE](https://www.msx.org/archive)
 * [FORUM](https://www.msx.org/forum)
     * [MSX TALK](https://www.msx.org/forum/msx-talk)
-    * [DEBATES EN ESPAÑOL](https://www.msx.org/forum/debates-en-espagnol)
+    * [DEBATES EN ESPAÑOL](https://www.msx.org/forum/debates-en-espa-ol)
     * [MULTILINGUAL FORUMS](https://www.msx.org/forum/multilingual-forums-1)
 * [WIKI](http://www.msx.org/wiki/)
     * [INDEX](http://www.msx.org/wiki/)
@@ -153,14 +153,14 @@ Latest reactions
 
 Latest forum posts
 
+* [Christmas Quiz 2024](https://www.msx.org/forum/msx-talk/off-topic/christmas-quiz-2024?page=2 "Christmas Quiz 2024")
+* [Games with procedural graphics?](https://www.msx.org/forum/msx-talk/software/games-with-procedural-graphics "Games with procedural graphics?")
+* [DalSoRi R2 on OpenMSX](https://www.msx.org/forum/msx-talk/openmsx/dalsori-r2-on-openmsx?page=2 "DalSoRi R2 on OpenMSX")
 * [How do I run the Quran on FMSX3DS?](https://www.msx.org/forum/msx-talk/emulation/how-do-i-run-the-quran-on-fmsx3ds?page=1 "How do I run the Quran on FMSX3DS?")
 * [MSXgl – A new C game library for MSX](https://www.msx.org/forum/msx-talk/development/msxgl-%E2%80%93-a-new-c-game-library-for-msx?page=30 "MSXgl – A new C game library for MSX")
-* [Christmas Quiz 2024](https://www.msx.org/forum/msx-talk/off-topic/christmas-quiz-2024?page=2 "Christmas Quiz 2024")
 * [Omega MSX 2 Power Supply suggestion](https://www.msx.org/forum/msx-talk/hardware/omega-msx-2-power-supply-suggestion "Omega MSX 2 Power Supply suggestion")
 * [Panasonic A1GT circuit diagram, broken pads](https://www.msx.org/forum/msx-talk/hardware/panasonic-a1gt-circuit-diagram-broken-pads?page=1 "Panasonic A1GT circuit diagram, broken pads")
 * [Vintage Computing Christmas Challenge 2024](https://www.msx.org/forum/msx-talk/development/vintage-computing-christmas-challenge-2024 "Vintage Computing Christmas Challenge 2024")
-* [DalSoRi R2 on OpenMSX](https://www.msx.org/forum/msx-talk/openmsx/dalsori-r2-on-openmsx?page=2 "DalSoRi R2 on OpenMSX")
-* [Games with procedural graphics?](https://www.msx.org/forum/msx-talk/software/games-with-procedural-graphics "Games with procedural graphics?")
 * [Omega MSX 2 Build Quiestions](https://www.msx.org/forum/msx-talk/hardware/omega-msx-2-build-quiestions "Omega MSX 2 Build Quiestions")
 * [MSX Goa'uld. Turn an MSX into a MSX 2+?](https://www.msx.org/forum/msx-talk/hardware/msx-goauld-turn-an-msx-into-a-msx-2?page=4 "MSX Goa'uld. Turn an MSX into a MSX 2+?")
 * [CP HL,DE](https://www.msx.org/forum/msx-talk/development/cp-hlde "CP HL,DE")
