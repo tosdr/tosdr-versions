@@ -9,6 +9,7 @@ Menu
 * [Funding](#)
     * [Apply for funding](https://nlnet.nl/funding.html)
     * [Theme funds](https://nlnet.nl/themes/)
+    * [Support services](https://nlnet.nl/NGI0/services/)
 * [Projects](#)
     * [All projects](https://nlnet.nl/project/index.html)
     * [Currently running](https://nlnet.nl/project/current.html)
@@ -175,6 +176,7 @@ SearchSubmit search
 
 * [Open calls](https://nlnet.nl/propose/)
 * [Theme funds](https://nlnet.nl/themes/)
+* [Support services](https://nlnet.nl/NGI0/services/)
 
 **Projects**
 
