@@ -1,10 +1,14 @@
-![null](https://www.facebook.com/tr?id=1565747026990890&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-2-prd-us-central1-190491167711)                                                   
+![null](https://www.facebook.com/tr?id=1565747026990890&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-2-prd-us-central1-190503438770)                                                   
 
 FREE SHIPPING on Online Orders $40+
 
-BOGO Free Puzzles & Games | [SHOP](https://www.carsondellosa.com/learn-at-home/categories/puzzles-games/)
+Free Gift with $50+ Order | [SHOP](https://www.carsondellosa.com/collections/collections/mystery-grab-bags/)
 
-BOGO Free Printables | [SHOP](https://www.carsondellosa.com/classroom-decorations/categories/printables/)
+BOGO Free eBooks | [SHOP](https://www.carsondellosa.com/teaching-supplies/categories/ebooks/)
+
+BOGO Free Flash Cards | [SHOP](https://www.carsondellosa.com/learn-at-home/categories/flash-cards/)
+
+Free Gift with Spark Rewards Orders\* | [SHOP](https://www.carsondellosa.com/151091--holiday-lights-notepad-151091/)
 
 [Toggle menu](#)
 
