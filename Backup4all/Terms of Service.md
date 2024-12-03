@@ -1,8 +1,8 @@
- ![Limited time promo](https://www.backup4all.com/images/promo/blackfriday/badge-black-friday.png?ek79cy)
+ ![Limited time promo](https://www.backup4all.com/images/promo/pack/promo-save.png?ek79cy)
 
-#### Cyber Monday sale: 70% Discount for Backup4all Pro to unlock new features (Save US$ 34.99).
+#### Limited time sale: Backup4all PRO Family Pack - Pay for 2 Licenses & Get 3 (Save US$ 46.68)
 
-Buy (US$ 15.00)
+Buy (US$ 93.33)
 
 [![Backup4all Logo](https://www.backup4all.com/images/backup4all-logo.svg)![Backup4all Logo by Softland](https://www.backup4all.com/images/backup4all-by-softland.svg)](https://www.backup4all.com/)
 
@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [Using Backup4all - FAQ 5](https://www.backup4all.com/using-backup4all-faq-5-kb.html)  
+* [What is Copy backup](https://www.backup4all.com/what-is-copy-backup-kb.html)  
     
-* [How to generate a self signed certificate](https://www.backup4all.com/how-to-generate-a-self-signed-certificate-kb.html)  
+* [Back up your smartphone or tablet using Backu ...](https://www.backup4all.com/back-up-your-smartphone-tablet-using-backup4all-kb.html)  
     
-* [How to configure the email notifications](https://www.backup4all.com/how-to-configure-the-email-notifications-kb.html)  
+* [How to backup your data to Seeweb](https://www.backup4all.com/how-to-backup-your-data-to-seeweb-kb.html)  
     
-* [How to back up data files from Caringo using ...](https://www.backup4all.com/how-to-back-up-data-files-from-caringo-using-backup4all-kb.html)  
+* [How to backup your data to Google Cloud Stora ...](https://www.backup4all.com/how-to-backup-your-data-to-google-cloud-storage-kb.html)  
     
-* [How to use "Clean destination folder" feature ...](https://www.backup4all.com/how-to-use-clean-destination-folder-feature-in-backup4all-kb.html)  
+* [How to back up data files from HGST using Bac ...](https://www.backup4all.com/how-to-back-up-data-files-from-hgst-using-backup4all-kb.html)  
     
 
 Choose language:
