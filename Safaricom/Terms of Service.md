@@ -231,6 +231,20 @@ out of 5 based on
 
 > Dec 2, 2024
 
+> a seamless booking experience with…
+
+> a seamless booking experience with everything handled really well. Bravo!
+
+JUDITH ANN
+
+,
+
+US
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Dec 2, 2024
+
 > Kim Abrahams is as great to work with
 
 > Kim Abrahams is as great to work with. Very responsive and helpful for setting up my trip to Africa
@@ -238,6 +252,8 @@ out of 5 based on
 Nicholas Nelson
 
 ,
+
+US
 
 ![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
@@ -251,6 +267,8 @@ Rebecca Cauffman
 
 ,
 
+US
+
 ![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
 > Nov 29, 2024
@@ -263,6 +281,8 @@ Zadra Morgan
 
 ,
 
+US
+
 ![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
 > Nov 29, 2024
@@ -274,6 +294,8 @@ Zadra Morgan
 MARTY DIAMOND
 
 ,
+
+US
 
 ![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
@@ -330,20 +352,6 @@ Danielle Heyns
 ,
 
 ZA
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Nov 28, 2024
-
-> Heleen was just the best!
-
-> Heleen was just the best!
-
-Sumari von Kunow
-
-,
-
-SE
 
 VIP service
 
