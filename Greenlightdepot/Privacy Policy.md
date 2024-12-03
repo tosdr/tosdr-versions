@@ -453,7 +453,7 @@ Follow Us
 
 We Accept
 
-American Express Apple Pay Diners Club Discover Meta Pay Google Pay Mastercard PayPal Shop Pay Visa
+American Express Apple Pay Diners Club Discover Google Pay Mastercard PayPal Shop Pay Visa
 
 © 2024 Green Light Depot  
 [Powered by Shopify](https://www.shopify.com/?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore)
