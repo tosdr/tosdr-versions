@@ -166,18 +166,18 @@ Atos homepage](https://atos.net/en/)
         
         ### Latest articles
         
+        * [Building an inclusive future with digital accessibility maturity assessments](https://atos.net/en/blog/building-an-inclusive-future-with-digital-accessibility-maturity-assessments)
         * [GraphRAG: Transforming business intelligence](https://atos.net/en/blog/graphrag-transforming-business-intelligence-retrieval-augmented-generation)
         * [Bringing disability inclusion from the margins to mainstream](https://atos.net/en/blog/positively-purple-2024-disability-inclusion)
         * [Reshaping employee experience with a data-driven digital workplace](https://atos.net/en/blog/reshaping-employee-experience-data-driven-digital-workplace)
-        * [Modernize without compromise: Why hybrid cloud still matters](https://atos.net/en/blog/modernize-without-compromise-why-hybrid-cloud-still-matters)
         
         [All articles](https://atos.net/en/blog)
         
         ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
-        Nov 26, 2024
+        Dec 3, 2024
         
-        ### GraphRAG: Transforming business intelligence
+        ### Building an inclusive future with digital accessibility maturity assessments
         
     * [Client Stories](https://atos.net/en/client-stories)˅
         
