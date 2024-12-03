@@ -140,7 +140,7 @@ Giveaways
 
 [Support](https://www.hrkgame.com/en/support/)
 
-[](https://www.hrkgame.com/fr/events/sale/black-friday/)
+[](https://www.hrkgame.com/en/games/product/microsoft-office-2024-professional-plus)
 
 Terms of Service
 ----------------
@@ -294,6 +294,12 @@ We reserve the right, at our sole discretion, to update, change or replace any p
 **SECTION 19 - CONTACT INFORMATION**
 
 Questions about the Terms of Service should be sent to us at [\[email protected\]](https://www.hrkgame.com/cdn-cgi/l/email-protection).
+
+HRKDistribution OÜ
+
+Laki tn 25-411, Mustamäe linnaosa,  
+Tallinn, Harju, 12915  
+Estonia
 
 Your Basket (0 Items)
 ---------------------
