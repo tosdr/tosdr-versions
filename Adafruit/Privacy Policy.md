@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ The master in the art of living makes little distinction between... work and play”
+“ Do well by doing good”
 
-[L. P. Jacks](http://en.wikipedia.org/wiki/L._P._Jacks)
+[Benjamin Franklin](http://en.wikipedia.org/wiki/Benjamin_Franklin)
 
 [](https://www.adafruit.com/about)
 
