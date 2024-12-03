@@ -134,13 +134,13 @@ Join the **I_A_** newsletter for regular updates on our latest news stories.
 Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
+* [IA Writing Competition: The shortlist is in!](https://independentaustralia.net/article-display/ia-writing-competition-the-shortlist-is-in,19193 "Permanent Link : IA Writing Competition: The shortlist is in!")
+* [Trump’s tariff wrecking ball about to hit the global economy](https://independentaustralia.net/article-display/trumps-tariff-wrecking-ball-about-to-hit-the-global-economy,19224 "Permanent Link : Trump’s tariff wrecking ball about to hit the global economy")
 * [The future of Australia's asylum seeker system](https://independentaustralia.net/article-display/the-future-of-australias-asylum-seeker-system,19223 "Permanent Link : The future of Australia's asylum seeker system")
 * [ABC News misleads on the economy and risks pushing more Australians into poverty](https://independentaustralia.net/article-display/abc-news-misleads-on-the-economy-and-risks-pushing-more-australians-into-poverty,19221 "Permanent Link : ABC News misleads on the economy and risks pushing more Australians into poverty")
 * [When your best fiction writing is your daily to-do list](https://independentaustralia.net/article-display/when-your-best-fiction-writing-is-your-daily-to-do-list,19220 "Permanent Link : When your best fiction writing is your daily to-do list")
 * [QUIZ: IA Interrogates!](https://independentaustralia.net/article-display/quiz-ia-interrogates,19218 "Permanent Link : QUIZ: IA Interrogates!")
 * [Katy Perry sues and Ed Sheeran rues Band Aid involvement](https://independentaustralia.net/article-display/katy-perry-sues-and-ed-sheeran-rues-band-aid-involvement,19219 "Permanent Link : Katy Perry sues and Ed Sheeran rues Band Aid involvement")
-* [James Morrison — He's 'all that jazz' and more](https://independentaustralia.net/article-display/james-morrison-hes-all-that-jazz-and-more,19210 "Permanent Link : James Morrison — He's 'all that jazz' and more")
-* [Bashed in the street: Being Jewish and wearing a keffiyeh](https://independentaustralia.net/article-display/bashed-in-the-street-being-jewish-and-wearing-a-keffiyeh,19217 "Permanent Link : Bashed in the street: Being Jewish and wearing a keffiyeh")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
