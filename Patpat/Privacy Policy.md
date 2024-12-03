@@ -1569,9 +1569,9 @@ Latest update: November 13, 2024
 
 [Show the simplified Privacy Policy](https://eur.patpat.com/privacy-detail)
 
-#### Subscribe and Unlock 20% Off Now!
+#### Subscribe and Unlock 15% Off Now!
 
-Subscribe to our newsletter or text and receive a 20% OFF CODE for your next purchase! Plus, enjoy exclusive updates, special deals, and insights into new product launches. Subscribe now and start saving!
+Subscribe to our newsletter or text and receive a 15% OFF CODE for your next purchase! Plus, enjoy exclusive updates, special deals, and insights into new product launches. Subscribe now and start saving!
 
 JOIN
 
@@ -1579,7 +1579,7 @@ JOIN
 
 JOIN
 
-20% OFF
+15% OFF
 
 Thank for subscribing! You will receive an email with your discount code shortly!
 
