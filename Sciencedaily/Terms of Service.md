@@ -229,6 +229,7 @@ this hour
 
 * * *
 
+* [New 3D Printing Approach Means Better Devices](https://www.sciencedaily.com/releases/2024/12/241202124507.htm)
 * [AI Could Automate Genomics Research](https://www.sciencedaily.com/releases/2024/12/241202123918.htm)
 * [Self-Assembling Electronics](https://www.sciencedaily.com/releases/2024/12/241202123718.htm)
 * [Measuring Brainwaves: Temporary Tattoo On Scalp](https://www.sciencedaily.com/releases/2024/12/241202123531.htm)
@@ -238,7 +239,6 @@ this hour
 * [Warming: Coral Adaptation Unlikely to Keep Pace](https://www.sciencedaily.com/releases/2024/11/241128200737.htm)
 * [Twice-Yearly Shot: 96% HIV Prevention](https://www.sciencedaily.com/releases/2024/11/241127191937.htm)
 * [Fossil Footprints: Ancient Hominins as Neighbors](https://www.sciencedaily.com/releases/2024/11/241128200732.htm)
-* [Mass Elephant Die-Off: Climate Change](https://www.sciencedaily.com/releases/2024/11/241129120944.htm)
 
 Trending Topics
 ---------------
@@ -251,17 +251,17 @@ this week
 
 [Hormone Disorders](https://www.sciencedaily.com/news/health_medicine/hormone_disorders/)
 
-[Caregiving](https://www.sciencedaily.com/news/mind_brain/caregiving/)
+[Personalized Medicine](https://www.sciencedaily.com/news/health_medicine/personalized_medicine/)
 
-[Brain Injury](https://www.sciencedaily.com/news/mind_brain/brain_injury/)
+[Caregiving](https://www.sciencedaily.com/news/mind_brain/caregiving/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Quantum Physics](https://www.sciencedaily.com/news/matter_energy/quantum_physics/)
+[Spintronics](https://www.sciencedaily.com/news/matter_energy/spintronics/)
 
 [Graphene](https://www.sciencedaily.com/news/matter_energy/graphene/)
 
-[Nanotechnology](https://www.sciencedaily.com/news/matter_energy/nanotechnology/)
+[Quantum Physics](https://www.sciencedaily.com/news/matter_energy/quantum_physics/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
