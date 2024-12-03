@@ -158,7 +158,7 @@ If you have any questions about our use of cookies or other technologies, please
 * [Privacy Policy](https://www.fullcontact.com/privacy/privacy-policy/)
 * [Your Privacy Choices](https://platform.fullcontact.com/your-privacy-choices)
 * [California Collection Notice](https://www.fullcontact.com/privacy/privacy-policy/#notice-to-california-residents)
-* [Cookie and Email Preferences](#)
+* [Cookie Preferences](#)
 * [Services Agreement](https://www.fullcontact.com/privacy/services-agreement/)
 * [Website Terms of Use](https://www.fullcontact.com/privacy/terms-of-use/)
 * [Security](https://www.fullcontact.com/security/)
