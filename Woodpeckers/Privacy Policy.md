@@ -4,8 +4,6 @@ The store will not work correctly in the case when cookies are disabled.
 
 **JavaScript seems to be disabled in your browser.** For the best experience on our site, be sure to turn on Javascript in your browser.
 
-### **FREE SHIPPING ON ORDER $200 OR MORE!  \*Free Shipping to the U.S. 48 States only. Sale ends 12/2/24. No split orders. New orders only.**
-
 * [Woodpeckers Facebook Page](https://www.facebook.com/pages/Woodpeckers-Inc/375905157628)
 * [Woodpeckers YouTube Channel](https://www.youtube.com/channel/UC9cdRCrOC5837lKfbLszLsg)
 * [Woodpeckers Instagram Page](https://www.instagram.com/woodpeckers_tools/)
