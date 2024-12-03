@@ -41,7 +41,7 @@ Personal Banking
 
 ### _![](/dam/jcr:88a3c0a8-4585-408b-a003-9b56a3b55993/menu-icon4.png)_ [Financing](https://www.kfh.com/en/home/Personal/Financing.html)
 
-### _![](/dam/jcr:7b0767f0-8c43-492d-8cb8-c39388f61df9/menu-icon6.png)_ [Investment](https://www.kfh.com/en/home/Personal/Investments.html)
+### _![](/dam/jcr:7b0767f0-8c43-492d-8cb8-c39388f61df9/menu-icon6.png)_ [Investment](https://www.kfh.com/en/home/Personal/KFH-Investments.html)
 
 ### _![](/dam/jcr:905bf91f-53ad-47b9-adcf-41588b6fae68/new%20card%20pic%20icon.png)_ [Cards](https://www.kfh.com/en/home/Personal/Cards.html)
 
@@ -71,7 +71,7 @@ Corporate Banking
 
 ### _![](/dam/jcr:9b3780fe-77a7-4412-aed0-95045139ee53/menu-icon3.png)_ [Cards](https://www.kfh.com/en/home/Corporate-Banking/Cards.html)
 
-### _![](/dam/jcr:7b0767f0-8c43-492d-8cb8-c39388f61df9/menu-icon6.png)_ [Deposits](https://www.kfh.com/en/home/Corporate-Banking/Investment--Deposits.html)
+### _![](/dam/jcr:7b0767f0-8c43-492d-8cb8-c39388f61df9/menu-icon6.png)_ [Deposits](https://www.kfh.com/en/home/Corporate-Banking/Investment-Deposits.html)
 
 ### _![](/dam/jcr:38d56ce9-c6ac-4de9-bcd7-a700219566ca/menu-icon1.png)_ [eCorp User Guide](https://www.kfh.com/en/home/Corporate-Banking/eCorp-User-Guide.html)
 
@@ -142,10 +142,11 @@ KFH Auto
 * [Other Services](https://www.kfh.com/en/home/Personal/Financing/Other-Services.html)
 * [With KFH your finance is easier](https://www.kfh.com/en/home/Personal/Financing/Easy_Finance.html)
 
-### _![](/dam/jcr:7b0767f0-8c43-492d-8cb8-c39388f61df9/menu-icon6.png)_ [Investment](https://www.kfh.com/en/home/Personal/Investments.html)
+### _![](/dam/jcr:7b0767f0-8c43-492d-8cb8-c39388f61df9/menu-icon6.png)_ [Investment](https://www.kfh.com/en/home/Personal/KFH-Investments.html)
 
-* [Investment Deposits](https://www.kfh.com/en/home/Personal/Investments/Short-Term.html)
-* [Long Term Investment Plans](https://www.kfh.com/en/home/Personal/Investments/Long-Term-Investment-Plans.html)
+* [Investment Deposits](https://www.kfh.com/en/home/Personal/KFH-Investments/Short-Term.html)
+* [Long Term Investment Plans](https://www.kfh.com/en/home/Personal/KFH-Investments/Long-Term-Investment-Plans.html)
+* [2024 Profits](https://www.kfh.com/en/home/Personal/KFH-Investments/Profits2024.html)
 
 ### _![](/dam/jcr:905bf91f-53ad-47b9-adcf-41588b6fae68/new%20card%20pic%20icon.png)_ [Cards](https://www.kfh.com/en/home/Personal/Cards.html)
 
@@ -189,7 +190,7 @@ _![](/dam/jcr:1205b642-1de8-4ede-a150-721c5882a2a7/user-top.png)_ Customer Login
 * [A](javascript:void(0))
 * [A](javascript:void(0))
 * [](javascript:void(0))
-* [Listen](https://app-as.readspeaker.com/cgi-bin/rsent?customerid=9156&lang=en_uk&readid=mainContent&url=https%3A%2F%2Fwww.kfh.com%2Fen%2Fhome%2FPersonal%2Faboutus%2FPrivacy-Notice.html%3Bjsessionid%3DaU6LgiwsslLwXAwCbPplEH1PUyl6n9fbpRAqWydGEc2drAK7_ocB!1201279896 "Listen to this page using ReadSpeaker")
+* [Listen](https://app-as.readspeaker.com/cgi-bin/rsent?customerid=9156&lang=en_uk&readid=mainContent&url=https%3A%2F%2Fwww.kfh.com%2Fen%2Fhome%2FPersonal%2Faboutus%2FPrivacy-Notice.html%3Bjsessionid%3DD-qMcutCpuiiRotmg-kI77LtGvhIv2tfheyYC8celzw3gmG1dsHi!-496380310 "Listen to this page using ReadSpeaker")
     
 
 #### Privacy Notice
