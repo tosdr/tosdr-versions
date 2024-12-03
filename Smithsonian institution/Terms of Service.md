@@ -34,7 +34,6 @@ Site Navigation
         * [Current](https://www.si.edu/exhibitions)
         * [Upcoming](https://www.si.edu/exhibitions/upcoming)
         * [Past](https://www.si.edu/exhibitions/past)
-    * [Today's Events](https://www.si.edu/events/today)
     * [Online Events](https://www.si.edu/events/online)
     * [All Events](https://www.si.edu/events)
     * [IMAX & Planetarium](https://www.si.edu/imax)
