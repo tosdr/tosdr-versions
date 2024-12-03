@@ -60,78 +60,68 @@ FOX SCORES
     
 * [NFL
     
-    3/12 12:15 AEST
+    1st Qtr
     
     |     |     |
     | --- | --- |
-    | DEN | –   |
-    | CLE | –   |
+    | DEN | 7   |
+    | CLE | 7   |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251316)
 * Basketball
     
 * [NBA
     
-    Full Time
+    Half Time
     
     |     |     |
     | --- | --- |
-    | LAC | 126 |
-    | DEN | 122 |
+    | ATL | 58  |
+    | NO  | 59  |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010294/box-score)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25011207/box-score)
 * [NBA
     
-    3/12 11:30 AEST
+    Half Time
     
     |     |     |
     | --- | --- |
-    | ATL | –   |
-    | NO  | –   |
+    | BOS | 60  |
+    | MIA | 45  |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25011207)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010296/box-score)
 * [NBA
     
-    3/12 11:30 AEST
+    2nd Qtr
     
     |     |     |
     | --- | --- |
-    | BOS | –   |
-    | MIA | –   |
+    | CHI | 37  |
+    | BKN | 40  |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010296)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010297/box-score)
 * [NBA
     
-    3/12 12:00 AEST
+    2nd Qtr
     
     |     |     |
     | --- | --- |
-    | CHI | –   |
-    | BKN | –   |
+    | MIN | 42  |
+    | LAL | 31  |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010297)
-* [NBA
-    
-    3/12 12:00 AEST
-    
-    |     |     |
-    | --- | --- |
-    | MIN | –   |
-    | LAL | –   |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25011056)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25011056/box-score)
 * Motorsport
     
 * [Formula 1
     
-    Complete
+    6/12 20:30 AEST
     
     |     |
     | --- |
-    | Qatar Grand Prix |
+    | Abu Dhabi Grand Prix |
     |     |
     
-    Race Centre](https://www.foxsports.com.au/motorsport/formula-one/race-centre?meetingid=597)
+    Race Centre](https://www.foxsports.com.au/motorsport/formula-one/race-centre?meetingid=598)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
