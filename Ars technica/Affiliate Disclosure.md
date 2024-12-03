@@ -83,17 +83,17 @@ We apply the same rigor and standards of objectivity to these articles as we do 
 
 Most Read
 
-1. [![Listing image for first story in Most Read: Cyber Monday cybers into view, and we’ve got all the cyber deals](https://cdn.arstechnica.net/wp-content/uploads/2024/11/GettyImages-497407400-768x432.jpg)](https://arstechnica.com/shopping/2024/11/its-black-friday-and-here-are-the-best-shopping-deals-we-could-find/)
+1. [![Listing image for first story in Most Read: Player 456 is back for revenge in Squid Game S2 trailer](https://cdn.arstechnica.net/wp-content/uploads/2024/11/squid1-768x432.jpg)](https://arstechnica.com/culture/2024/11/player-456-is-back-for-revenge-in-squid-game-s2-trailer/)
     
-    1. [Cyber Monday cybers into view, and we’ve got all the cyber deals](https://arstechnica.com/shopping/2024/11/its-black-friday-and-here-are-the-best-shopping-deals-we-could-find/)
+    1. [Player 456 is back for revenge in Squid Game S2 trailer](https://arstechnica.com/culture/2024/11/player-456-is-back-for-revenge-in-squid-game-s2-trailer/)
     
-2. 2. [How should we treat beings that might be sentient?](https://arstechnica.com/science/2024/11/how-should-we-treat-beings-that-might-be-sentient/)
+2. 2. [Falcon 9 reaches a flight rate 30 times higher than shuttle at 1/100th the cost](https://arstechnica.com/space/2024/12/spacex-has-set-all-kinds-of-records-with-its-falcon-9-rocket-this-year/)
     
-3. 3. [Man suffers chemical burn that lasted months after squeezing limes](https://arstechnica.com/health/2024/11/man-suffers-chemical-burn-that-lasted-months-after-squeezing-limes/)
+3. 3. [Cyber Monday cybers into view, and we’ve got all the cyber deals](https://arstechnica.com/shopping/2024/11/its-black-friday-and-here-are-the-best-shopping-deals-we-could-find/)
     
-4. 4. [The upside-down capacitor in mid-‘90s Macs, proven and documented by hobbyists](https://arstechnica.com/gadgets/2024/11/the-upside-down-capacitor-in-mid-90s-macs-proven-and-documented-by-hobbyists/)
+4. 4. [Company claims 1,000 percent price hike drove it from VMware to open source rival](https://arstechnica.com/information-technology/2024/12/company-claims-1000-percent-price-hike-drove-it-from-vmware-to-open-source-rival/)
     
-5. 5. [Supermassive black hole binary emits unexpected flares](https://arstechnica.com/science/2024/12/supermassive-black-hole-binary-emits-unexpected-flares/)
+5. 5. [Vintage digicams aren’t just a fad. They’re an artistic statement.](https://arstechnica.com/gadgets/2024/11/vintage-digicams-arent-just-a-fad-theyre-an-artistic-statement/)
     
 
 Customize
