@@ -73,6 +73,17 @@ Fastest Payback Ever for Solar Panels - Act Now!
 
 [Get Your Quote](https://loop.homes/install-solar-panels/)
 
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://loop.homes/wp-content/uploads/2024/01/procode_white.png)
+
+Loop is now powered by Procode!
+-------------------------------
+
+We’re excited to announce that Loop has been acquired by Procode, a leader in energy tech. With their support, we’re committed to bringing you even smarter energy solutions as we help to make energy easy!
+
+[Read more](https://loop.homes/trust-power#poweredbyprocode)
+
 Privacy Policy
 ==============
 
@@ -334,11 +345,11 @@ Download the FREE Loop app now.
 
 ![Black Download on the App Store button with white Apple logo](https://loop.homes/wp-content/uploads/elementor/thumbs/loop_app_store_badge-qisi0c1116mhdi85pnguzicp4ectfalajtqlzqzp4w.png "App Store Badge")](https://apps.apple.com/gb/app/loop-energy-smart-meter-app/id1483586889/?utm_source=Website&utm_medium=Footer&utm_campaign=Download%20)
 
-![Loop logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "logo-reversed")
+![loop powered by procode](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "loop powered by procode")
 
-![Loop logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "logo-reversed")
+![loop powered by procode](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "loop powered by procode")
 
-![Loop logo](https://loop.homes/wp-content/uploads/2023/06/logo-reversed.svg "logo-reversed")
+![loop powered by procode](https://loop.homes/wp-content/uploads/elementor/thumbs/loop-powered-by-procode-qxpvxujmv0ir35qjmcn4txeer50aianj5vbl33qjri.png "loop powered by procode")
 
 ### About
 
@@ -386,11 +397,11 @@ Subscribe to our solar newsletter for expert guidance on all things solar power.
 
 [Subscribe](#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjMxOSIsInRvZ2dsZSI6ZmFsc2V9)
 
-![Loop logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "logo-reversed")
+![loop powered by procode](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "loop powered by procode")
 
-![Loop logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "logo-reversed")
+![loop powered by procode](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "loop powered by procode")
 
-![Loop logo](https://loop.homes/wp-content/uploads/2023/06/logo-reversed.svg "logo-reversed")
+![loop powered by procode](https://loop.homes/wp-content/uploads/elementor/thumbs/loop-powered-by-procode-qxpvxujmv0ir35qjmcn4txeer50aianj5vbl33qjri.png "loop powered by procode")
 
 ### About
 
