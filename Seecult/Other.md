@@ -298,11 +298,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-film/pretty-good-film-zoran-popovic/jasna-tijardovic.jpg?itok=GwSe3oT1)](http://seecult.org/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-film/pretty-good-film-zoran-popovic)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-ilic/dragan-ilic-20/its-001.jpg?itok=X53din-Z)](http://seecult.org/galerija/galerija-umetnika/dragan-ilic/dragan-ilic-20)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/ruzni.jpg?itok=sWo1zLTp)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/festivali-koncerti-predstave-akcije/festivali/festival-nauke-2013/dscf4000.jpg?itok=J3GbZ4k9)](http://seecult.org/galerija/foto-galerija/festivali-koncerti-predstave-akcije/festivali/festival-nauke-2013)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -318,6 +318,8 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 * [Nadežda Petrović u Narodnom muzeju](http://seecult.org/vest/nadezda-petrovic-u-narodnom-muzeju)
 
+* [MSUB: Hvala Raši Todosijeviću!](http://seecult.org/vest/msub-hvala-rasi-todosijevicu)
+* [Preminuo Raša Todosijević](http://seecult.org/vest/preminuo-rasa-todosijevic)
 * [Ohrabrenje i ovacije za Mitrovića na kraju 28. FKM](http://seecult.org/vest/ohrabrenje-i-ovacije-za-mitrovica-na-kraju-28-fkm)
 * [VOĐENJE: Ana Knežević - Geometrija praznine](http://seecult.org/vest/vodenje-ana-knezevic-geometrija-praznine)
 * [Festival drugosti](http://seecult.org/vest/festival-drugosti)
@@ -326,8 +328,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Autonomija zajednice - pazi lomljivo](http://seecult.org/vest/autonomija-zajednice-pazi-lomljivo)
 * [Nominalno više, procentualno manje para za kulturu](http://seecult.org/vest/nominalno-vise-procentualno-manje-para-za-kulturu)
 * [RUTA peti put u BDP-u](http://seecult.org/vest/ruta-peti-put-u-bdp-u)
-* [Društvo bez zajednice](http://seecult.org/vest/drustvo-bez-zajednice)
-* [Fragmentacije: Raslojavanje vremena i prostora](http://seecult.org/vest/fragmentacije-raslojavanje-vremena-i-prostora)
 
 * [Konkursi](#tab1_1)
 
