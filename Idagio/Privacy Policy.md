@@ -2,8 +2,6 @@
 
 en
 
-[It’s **Black Friday!** Enjoy up to **50% Off** on any subscriptions!![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xMiAyMkMxNy41MjI4IDIyIDIyIDE3LjUyMjggMjIgMTJDMjIgNi40NzcxNSAxNy41MjI4IDIgMTIgMkM2LjQ3NzE1IDIgMiA2LjQ3NzE1IDIgMTJDMiAxNy41MjI4IDYuNDc3MTUgMjIgMTIgMjJaTTEzLjE0NjQgOS4zNTM1M0wxNS4yOTI5IDExLjVINy41VjEyLjVIMTUuMjkyOUwxMy4xNDY0IDE0LjY0NjRMMTMuODUzNiAxNS4zNTM1TDE3LjIwNzEgMTJMMTMuODUzNiA4LjY0NjQyTDEzLjE0NjQgOS4zNTM1M1oiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPgo=)](https://www.idagio.com/black-friday)
-
 [Start Listening](https://about.idagio.com/discover)
 
 [Magazine](https://idagio.com/magazine)[About](https://idagio.com/about)[Support](https://support.idagio.com/en)[Gift Cards](https://idagio.com/promotions/gift-card)[Partner](https://idagio.com/partner)
@@ -13,8 +11,6 @@ en
 en
 
 [](https://idagio.com/)[Listen](https://idagio.com/)[Watch](https://idagio.com/concerts)[Learn](https://idagio.com/idagio-interactive)[Plans](https://idagio.com/#plans-section)[Start Listening](https://about.idagio.com/discover)
-
-[It’s **Black Friday!** Enjoy up to **50% Off** on any subscriptions!![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xMiAyMkMxNy41MjI4IDIyIDIyIDE3LjUyMjggMjIgMTJDMjIgNi40NzcxNSAxNy41MjI4IDIgMTIgMkM2LjQ3NzE1IDIgMiA2LjQ3NzE1IDIgMTJDMiAxNy41MjI4IDYuNDc3MTUgMjIgMTIgMjJaTTEzLjE0NjQgOS4zNTM1M0wxNS4yOTI5IDExLjVINy41VjEyLjVIMTUuMjkyOUwxMy4xNDY0IDE0LjY0NjRMMTMuODUzNiAxNS4zNTM1TDE3LjIwNzEgMTJMMTMuODUzNiA4LjY0NjQyTDEzLjE0NjQgOS4zNTM1M1oiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPgo=)](https://www.idagio.com/black-friday)
 
 About IDAGIO
 ------------
