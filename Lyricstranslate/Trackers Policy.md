@@ -137,65 +137,65 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Not noble Jenny](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1614503-1712606329.png)](https://lyricstranslate.com/en/translator/not-noble-jenny "Not noble Jenny")
+[![Silverblue](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1418394-1706209641.jpg)](https://lyricstranslate.com/en/translator/silverblue "Silverblue")
 
-New annotation
+New comment
 
-Дворцовый мост - это разводной мост через реку ...  [more](https://lyricstranslate.com/en/node/4883462)
+Hi, https://lyricstranslate.com/es/...  [more](https://lyricstranslate.com/en/comment/1179726#comment-1179726)
 
-[![Turbonorm](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1620552-1725868199.jpg)](https://lyricstranslate.com/en/translator/turbonorm "Turbonorm")
-
-New song
-
-[Deejay Télio - Filme](https://lyricstranslate.com/en/deejay-telio-filme-lyrics)
-
-Portuguese
-
-[![Роман Постовалов](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1609206-1728278937.jpg)](https://lyricstranslate.com/en/translator/%D1%80%D0%BE%D0%BC%D0%B0%D0%BD-%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B0%D0%BB%D0%BE%D0%B2 "Роман Постовалов")
-
-New request
-
-[Pantelis Pantelidis - Χτύπα (Chtýpa)](https://lyricstranslate.com/en/request/%CF%87%CF%84%CF%8D%CF%80%CE%B1)
-
-Greek → Albanian
-
-[![Not noble Jenny](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1614503-1712606329.png)](https://lyricstranslate.com/en/translator/not-noble-jenny "Not noble Jenny")
-
-New annotation
-
-Персы Леонида – воины персидской армии, с которыми...  [more](https://lyricstranslate.com/en/node/4883462)
-
-[![Роман Постовалов](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1609206-1728278937.jpg)](https://lyricstranslate.com/en/translator/%D1%80%D0%BE%D0%BC%D0%B0%D0%BD-%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B0%D0%BB%D0%BE%D0%B2 "Роман Постовалов")
-
-New request
-
-[Pantelis Pantelidis - Χειρότερη (Cheiróteri)](https://lyricstranslate.com/en/request/%CF%87%CE%B5%CE%B9%CF%81%CF%8C%CF%84%CE%B5%CF%81%CE%B7)
-
-Greek → Albanian
-
-[![Wēi Fēng](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1637942-1732438208.jpg)](https://lyricstranslate.com/en/translator/w%C4%93i-f%C4%93ng "Wēi Fēng")
+[![unamuno](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1619786-1717115102.jpg)](https://lyricstranslate.com/en/translator/unamuno "unamuno")
 
 New translation
 
-[Highasakite - Lover, Where Do You Live?](https://lyricstranslate.com/en/highasakite-lover-where-do-you-live-russian)
+[Legião Urbana - Tempo Perdido](https://lyricstranslate.com/en/legiao-urbana-tempo-perdido-english)
 
-English → Russian
+Portuguese → English
 
-[![JeBo](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1625119-1722251655.jpg)](https://lyricstranslate.com/en/translator/jebo "JeBo")
+[![unamuno](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1619786-1717115102.jpg)](https://lyricstranslate.com/en/translator/unamuno "unamuno")
 
-New explanation of idiom
+New translation
 
-[De toekomst voorspellen...](https://lyricstranslate.com/en/de-toekomst-voorspellen)
+[Milton Nascimento - Tudo Que Você Podia Ser](https://lyricstranslate.com/en/milton-nascimento-tudo-que-voce-podia-ser-english-0)
 
-French → Dutch
+Portuguese → English
 
-[![JeBo](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1625119-1722251655.jpg)](https://lyricstranslate.com/en/translator/jebo "JeBo")
+[![unamuno](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1619786-1717115102.jpg)](https://lyricstranslate.com/en/translator/unamuno "unamuno")
 
-New explanation of idiom
+New translation
 
-[Predicting the future...](https://lyricstranslate.com/en/predicting-future)
+[Barão Vermelho - Bete Balanço](https://lyricstranslate.com/en/barao-vermelho-bete-balanco-english-0)
 
-French → English
+Portuguese → English
+
+[![Ernesto Puglisi](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1609130-1708340696.jpg)](https://lyricstranslate.com/en/translator/ernesto-puglisi "Ernesto Puglisi")
+
+New translation
+
+[Connie Francis - La paloma (III)](https://lyricstranslate.com/en/connie-francis-la-paloma-iii-italian)
+
+Spanish → Italian
+
+[![Samiezoo](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472786-1733076758.jpg)](https://lyricstranslate.com/en/translator/samiezoo "Samiezoo")
+
+New song
+
+[Shawn Christmas‬ - Same Mistakes](https://lyricstranslate.com/en/shawn-christmas-same-mistakes-lyrics)
+
+English
+
+[![LanternV](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1543785-1724652356.jpg)](https://lyricstranslate.com/en/translator/lanternv "LanternV")
+
+New song
+
+[D'espairsray - Kaleidoscope](https://lyricstranslate.com/en/despairsray-kaleidoscope-lyrics)
+
+Japanese
+
+[![Samiezoo](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472786-1733076758.jpg)](https://lyricstranslate.com/en/translator/samiezoo "Samiezoo")
+
+New comment
+
+The crash usually occurs randomly, the page will ...  [more](https://lyricstranslate.com/en/comment/1179725#comment-1179725)
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
