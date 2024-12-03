@@ -1,9 +1,5 @@
 [Skip to content](#MainContent)
 
-  
-
-[LAST DAY FOR BLACK FRIDAY SALES!](https://georgenotfound.shop/collections/black-friday-sales)
-
     
 
 * Shop
