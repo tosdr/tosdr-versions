@@ -52,7 +52,7 @@ Radar & Maps
 News & Media
 ------------
 
-[Top Weather Stories](https://weather.com/news/weather/video/michigan-pileup-i94-lake-effect-snow)[Hurricane Central](https://weather.com/storms/hurricane-central)[Science & Environment](https://weather.com/science/environment)[Space & Skywatching](https://weather.com/science/space)[Safety & Prep](https://weather.com/safety/index)[Videos](https://weather.com/news/weather/video/michigan-pileup-i94-lake-effect-snow)[Bios](https://weather.com/bios)
+[Top Weather Stories](https://weather.com/news/weather/video/new-york-cow-barn-collapse-arkwright-snow)[Hurricane Central](https://weather.com/storms/hurricane-central)[Science & Environment](https://weather.com/science/environment)[Space & Skywatching](https://weather.com/science/space)[Safety & Prep](https://weather.com/safety/index)[Videos](https://weather.com/news/weather/video/new-york-cow-barn-collapse-arkwright-snow)[Bios](https://weather.com/bios)
 
 Products
 --------
@@ -83,7 +83,7 @@ Arrow Left
 
 Arrow Right
 
-[My DashboardNEW](https://weather.com/mydashboard)[Today](#noloc_/weather/today/l/)[Hourly](#noloc_/weather/hourbyhour/l/)[10 Day](#noloc_/weather/tenday/l/)[Weekend](#noloc_/weather/weekend/l/)[Monthly](#noloc_/weather/monthly/l/)[Radar](#noloc_/weather/radar/interactive/l/)[VideoWinter](https://weather.com/storms/winter/video/drone-video-lake-effect-snow-blankets-watertown-new-york?adRef=nav_trpcl)
+[My DashboardNEW](https://weather.com/mydashboard)[Today](#noloc_/weather/today/l/)[Hourly](#noloc_/weather/hourbyhour/l/)[10 Day](#noloc_/weather/tenday/l/)[Weekend](#noloc_/weather/weekend/l/)[Monthly](#noloc_/weather/monthly/l/)[Radar](#noloc_/weather/radar/interactive/l/)[VideoWinter](https://weather.com/storms/winter/video/subzero-lows-temperatures-freezing-forecast?adRef=nav_trpcl)
 
 More ForecastsMoreArrow down
 
@@ -349,7 +349,7 @@ Q. Third Party Beneficiaries. The provisions of this Agreement are for the benef
 
 R. Miscellaneous. This Subscription Bundle Purchase Agreement, including any other agreements or documents expressly incorporated herein, constitutes the entire agreement between TWC and you regarding the subject matter of this Agreement and supersedes all previous written or oral agreements regarding the subject matter. If any terms or conditions of this Agreement are held to be invalid, illegal, or unenforceable, the validity, legality, and enforceability of the remaining terms and conditions will not be in any way affected or impaired. No waiver by TWC of any breach or default under this Agreement will be deemed to be a waiver of any preceding or subsequent breach or default. This Agreement will be construed in accordance with the laws of the United States of America and the State of New York, U.S.A. without regard to its conflicts of law principles. All disputes under this Agreement will be resolved by the Supreme Court of the State of New York or in the United States District Court for the Southern District of New York, and each party consents to the exclusive jurisdiction of such courts and hereby waives any jurisdictional or venue defenses otherwise available to it. All notices contemplated by this Agreement will be in writing. TWC may provide notice to you through the Services or via email in TWC's discretion or where required by law. All notices to TWC should be addressed to The Weather Company, LLC, 1001 Summit Boulevard, 21st Floor, Atlanta, GA 30319, U.S.A., attention of Legal Department.
 
-Weather Underground
+[](https://www.weathercompany.com/)[](https://weather.com/)[Weather Underground](https://www.wunderground.com/)[](https://weather.com/storm-radar)
 
 * [Feedback](https://support.weather.com/s/?language=en_US&type=TWC)
 * [Mission](https://weather.com/mission)
@@ -358,6 +358,7 @@ Weather Underground
 * [Advertise With Us](https://www.weathercompany.com/advertising/)
 * [TV](https://www.weathergroup.com/brands/the-weather-channel/)
 * [Newsletter Sign Up](https://weather.com/newsletter?cm_ven=dnt_newsletter_footer)
+* [Weather Data APIs](https://www.weathercompany.com/weather-data-apis/)
 
 * [Terms of Use](https://weather.com/legal)
 * [Privacy Policy](https://weather.com/en-US/twc/privacy-policy)
