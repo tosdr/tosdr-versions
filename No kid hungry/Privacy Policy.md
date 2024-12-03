@@ -1,4 +1,4 @@
-MATCH ALERT: Your gift today can go 2x as far to help kids: [All gifts matched by Citi on Giving Tuesday](https://secure.nokidhungry.org/site/Donation2?df_id=23466&mfc_pref=T&23466.donation=form1&s_src=web_banner&s_subsrc=1I000DD25Z0W0AM0GT0)
+MATCH ALERT: Your gift today can go 2x as far to help kids: [Gifts matched by Citi on Giving Tuesday](https://secure.nokidhungry.org/site/Donation2?df_id=23466&mfc_pref=T&23466.donation=form1&s_src=web_banner&s_subsrc=1I000DD25Z0W0AM0GT0)
 
 Close
 
