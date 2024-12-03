@@ -128,17 +128,17 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
-[Agentforce
+[Company News
 
-How Salesforce Admins Can Use Historical Data to Drive Agentforce Success](https://www.ownbackup.com/blog/how-salesforce-admins-can-use-historical-data-to-drive-agentforce-success)
+10 Can't-Miss Posts About SaaS Data Protection, From Learning Basics to Picking a Solution](https://www.ownbackup.com/blog/10-must-read-posts-about-saas-data-protection)
 
-[Compliance
+[Microsoft Dynamics CRM
 
-Top 2025 Data Compliance Pitfalls](https://www.ownbackup.com/blog/top-2025-data-compliance-pitfalls)
+Why Back Up Microsoft Dynamics CRM and Power Apps?](https://www.ownbackup.com/blog/why-back-up-dynamics-365-and-power-platform)
 
 [Salesforce
 
-Tackling Salesforce Data Overload: Practical Tips from a Senior Salesforce Admin](https://www.ownbackup.com/blog/tackling-salesforce-data-overload-practical-tips-from-a-senior-salesforce-admin)
+How to Take Your Salesforce Security Skills to the Next Level](https://www.ownbackup.com/blog/take-your-salesforce-security-skills-to-the-next-level)
 
 Company
 
@@ -352,17 +352,17 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
-[Agentforce
+[Company News
 
-How Salesforce Admins Can Use Historical Data to Drive Agentforce Success](https://www.ownbackup.com/blog/how-salesforce-admins-can-use-historical-data-to-drive-agentforce-success)
+10 Can't-Miss Posts About SaaS Data Protection, From Learning Basics to Picking a Solution](https://www.ownbackup.com/blog/10-must-read-posts-about-saas-data-protection)
 
-[Compliance
+[Microsoft Dynamics CRM
 
-Top 2025 Data Compliance Pitfalls](https://www.ownbackup.com/blog/top-2025-data-compliance-pitfalls)
+Why Back Up Microsoft Dynamics CRM and Power Apps?](https://www.ownbackup.com/blog/why-back-up-dynamics-365-and-power-platform)
 
 [Salesforce
 
-Tackling Salesforce Data Overload: Practical Tips from a Senior Salesforce Admin](https://www.ownbackup.com/blog/tackling-salesforce-data-overload-practical-tips-from-a-senior-salesforce-admin)
+How to Take Your Salesforce Security Skills to the Next Level](https://www.ownbackup.com/blog/take-your-salesforce-security-skills-to-the-next-level)
 
 Company
 
