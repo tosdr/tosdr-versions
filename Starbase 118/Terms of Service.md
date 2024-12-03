@@ -350,6 +350,18 @@ Read More
 Community News
 --------------
 
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2024/05/OEB_Exterior_Shot_8-768x531.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/unstable-temporal-wormhole-gamma-quadrant-crew-flung-into-an-unknown-future/)
+
+### [Ship Out of Time](https://www.starbase118.net/2024/unstable-temporal-wormhole-gamma-quadrant-crew-flung-into-an-unknown-future/)
+
+Federation News Service December 3, 2024
+
+Unstable Temporal Wormhole, Gamma Quadrant – The crew of the USS Octavia E. Butler has returned after being flung through time. While her Captain was
+
+[Read More »](https://www.starbase118.net/2024/unstable-temporal-wormhole-gamma-quadrant-crew-flung-into-an-unknown-future/)
+
 [![Addison Mackenzie](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![Addison Mackenzie](https://b108297.smushcdn.com/108297/wp-content/uploads/2021/05/AddisonMackenzie.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/award-winner-addison-mackenzie-artemis-christopher-pike-pendant/)
@@ -373,18 +385,6 @@ docaharford December 1, 2024
 We’re here with another interview with a newer member of our community. The title of this column is “Lower Decks,” hearkening back to the Star
 
 [Read More »](https://www.starbase118.net/2024/lower-decks-interview-ensign-leenaya-edrei-uss-chintoka/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2020/05/24th-century-Constitution-refit-768x434.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/crisis-unfolds-on-the-uss-constitution-b-and-hermes-outpost/)
-
-### [Crisis unfolds on the USS Constitution-B and Hermes Outpost](https://www.starbase118.net/2024/crisis-unfolds-on-the-uss-constitution-b-and-hermes-outpost/)
-
-Federation News Service November 30, 2024
-
-HERMES STATION – Desperation grips the crew of the USS Constitution-B as mutineers strike amid repairs at Hermes Outpost. The crew of the USS Constitution-B
-
-[Read More »](https://www.starbase118.net/2024/crisis-unfolds-on-the-uss-constitution-b-and-hermes-outpost/)
 
 Ready to get started?
 ---------------------
