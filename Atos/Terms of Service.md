@@ -149,7 +149,7 @@ Atos homepage](https://atos.net/en/)
         
         Dec 2, 2024
         
-        ### Atos completes the sale of Worldgrid to ALTEN for an enterprise value of €270 million
+        ### Annual General Meeting to approve the 2023 financial statements to be held on January 31, 2025 at 10:00am CET at the Company’s headquarters
         
     * [Atos Research Community](https://atos.net/en/atos-research-community)
         
@@ -175,9 +175,9 @@ Atos homepage](https://atos.net/en/)
         
         ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
-        Nov 25, 2024
+        Nov 26, 2024
         
-        ### Bringing disability inclusion from the margins to mainstream
+        ### GraphRAG: Transforming business intelligence
         
     * [Client Stories](https://atos.net/en/client-stories)˅
         
@@ -192,10 +192,10 @@ Atos homepage](https://atos.net/en/)
         
         ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
-        Partnership in action
-        ---------------------
+        Next generation 9-1-1 transformation
+        ------------------------------------
         
-        Strategic partnership evolves Scottish Water digital operations
+        Next generation 9-1-1 transformation Atos modernizes the State of California’s 9-1-1 system At a glance Atos Public Safety LLC facilitates intelligent routing, management and delivery
         
     * [Events](https://atos.net/en/events)˅
         
