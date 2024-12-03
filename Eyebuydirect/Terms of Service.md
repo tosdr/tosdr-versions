@@ -32,11 +32,11 @@
     
     ![Cyber Monday Sale](https://img.ebdcdn.com/cms/cyber_monday_sale_updated_1718e7ecea.jpg?q=85&seo=cyber-monday-sale)
     
-    Cyber Monday Sale](https://www.eyebuydirect.com/offers "Cyber Monday Sale")[![Designer Sale](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    Cyber Monday Sale](https://www.eyebuydirect.com/offers "Cyber Monday Sale")[![Under $50](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Designer Sale](https://img.ebdcdn.com/cms/Top_Nav_320_424_EN_3cc9edbaf0.jpg?q=85&seo=designer-sale)
+    ![Under $50](https://img.ebdcdn.com/cms/Top_Nav_CM_EN_7faa9c7a20.jpg?q=85&seo=under-$50)
     
-    Designer Sale](https://www.eyebuydirect.com/campaign/brands-promo?coupon=hauliday "Designer Sale")[![Best Sellers](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    Under $50](https://www.eyebuydirect.com/campaign/glasses-20-49 "Under $50")[![Best Sellers](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
     ![Best Sellers](https://img.ebdcdn.com/cms/best_sellers_1a600058cb.jpg?q=85&seo=best-sellers)
     
