@@ -2,8 +2,8 @@
 
 [![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/en-us.svg)](# "English")
 
-* [![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/en-us.svg)English](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/privacy-policy?mdrv=www.visitor-analytics.io "English")
-* [![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/de-de.svg)Deutsch](https://www.visitor-analytics.io/de/support/rechtliches-datenschutz-zertifikate/standardintegration/datenverarbeitungsvertrag-cookie-informationen?mdrv=www.visitor-analytics.io "Deutsch")
+* [![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/en-us.svg)English](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/privacy-policy "English")
+* [![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/de-de.svg)Deutsch](https://www.visitor-analytics.io/de/support/rechtliches-datenschutz-zertifikate/standardintegration/datenverarbeitungsvertrag-cookie-informationen "Deutsch")
 
 * [Why Us?](https://www.visitor-analytics.io/en/why-us/why-you-should-use-twipla "Why Us?")![](/fileadmin/twipla/typo3-website-theme/template/images/icons/down-arrow.svg)
     * [Why You Should Use TWIPLA](https://www.visitor-analytics.io/en/why-us/why-you-should-use-twipla "Why You Should Use TWIPLA")
@@ -91,10 +91,10 @@
     * [Events Calendar](https://www.visitor-analytics.io/en/features/upcoming-features/roadmap-1 "Events Calendar")
     
 
-[![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/en-us.svg)](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/privacy-policy?mdrv=www.visitor-analytics.io "English")
+[![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/en-us.svg)](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/privacy-policy "English")
 
-* [![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/en-us.svg)English](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/privacy-policy?mdrv=www.visitor-analytics.io "English")
-* [![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/de-de.svg)Deutsch](https://www.visitor-analytics.io/de/support/rechtliches-datenschutz-zertifikate/standardintegration/datenverarbeitungsvertrag-cookie-informationen?mdrv=www.visitor-analytics.io "Deutsch")
+* [![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/en-us.svg)English](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/privacy-policy "English")
+* [![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/de-de.svg)Deutsch](https://www.visitor-analytics.io/de/support/rechtliches-datenschutz-zertifikate/standardintegration/datenverarbeitungsvertrag-cookie-informationen "Deutsch")
 
 [![](/fileadmin/twipla/typo3-website-theme/template/images/icons/user-circle.svg)
 
