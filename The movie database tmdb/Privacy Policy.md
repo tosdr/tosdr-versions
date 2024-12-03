@@ -250,7 +250,7 @@ If you have any questions about this policy, please send an email to privacy@xpe
 
 ### Community
 
-* [Guidelines](https://www.themoviedb.org/documentation/community/guidelines)
+* [Guidelines](https://www.themoviedb.org/bible/general#674f287930fc85cab62597b4)
 * [Discussions](https://www.themoviedb.org/discuss)
 * [Leaderboard](https://www.themoviedb.org/leaderboard)
 
@@ -261,7 +261,7 @@ If you have any questions about this policy, please send an email to privacy@xpe
 * [Privacy Policy](https://www.themoviedb.org/privacy-policy)
 * [DMCA Policy](https://www.themoviedb.org/dmca-policy)
 
-Build e9f4e31 (8257)
+Build 59a5fdc (8262)
 
 Can't find a movie or TV show? Login to create it.
 
