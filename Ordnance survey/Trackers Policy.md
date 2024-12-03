@@ -61,7 +61,7 @@
     
     Go to
     
-    [Black Friday Sale](https://shop.ordnancesurvey.co.uk/)[OS Maps](https://explore.osmaps.com/)[OS GetOutside blog](https://getoutside.ordnancesurvey.co.uk/)
+    [OS Maps](https://explore.osmaps.com/)[OS GetOutside blog](https://getoutside.ordnancesurvey.co.uk/)
     
 
 Log in
