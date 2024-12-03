@@ -101,11 +101,11 @@
 * TRENDING:
 * [AMD Ryzen 7 9800X3D](https://hothardware.com/reviews/amd-ryzen-7-9800x3d-processor-review)
 * [Arrow Lake Core Ultra 200S](https://hothardware.com/reviews/intel-core-ultra-200s-arrow-lake-cpu-review)
-* [AMD EPYC Turin](https://hothardware.com/news/amd-epyc-5th-gen-launch)
+* [Black Friday '24](https://hothardware.com/tags/black-friday-2024)
 * [Core Ultra 200V](https://hothardware.com/news/lunar-lake-launch-ifa-berlin)
 * [AMD Ryzen AI 300](https://hothardware.com/reviews/asus-zenbook-s16-with-amd-ryzen-ai-review)
 * [Ryzen 9000](https://hothardware.com/reviews/amd-ryzen-9-9950x-and-9900x-review)
-* [Lunar Lake](https://hothardware.com/reviews/intel-lunar-lake-deep-dive)
+* [cyber monday 2024](https://hothardware.com/tags/cyber-monday-2024)
 
 Privacy, Terms, Conditions And Copyright
 ========================================
