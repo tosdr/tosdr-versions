@@ -6,7 +6,7 @@ Popular searches
 
 Volvo S60Silverado 1500Car Appraiser ToolHonda CR-VLease Deals
 
-* [New Car Pricing](https://www.edmunds.com/new-cars/)
+* [New Cars for Sale](https://www.edmunds.com/new-cars/)
 * [Used Cars for Sale](https://www.edmunds.com/used-cars-for-sale/)
 * [Appraise My Car](https://www.edmunds.com/appraisal/)
 * [Car Reviews](https://www.edmunds.com/car-reviews/)
@@ -55,28 +55,20 @@ In addition, the following logos are proprietary trademarks of Edmunds.com, Inc.
 
 ![Edmunds.com](//media.ed.edmunds-media.com/non-make/ot/ot_130182_196.jpg) ![Edmunds.com](//media.ed.edmunds-media.com/non-make/ot/ot_13018_196.jpg)
 
-[Back to Top](#main-content)
-
-[Back to Top](#main-content)
-
 Join Edmunds
 ------------
 
 Receive pricing updates, shopping tips & more!
 
-Email Address
-
 Sign Up
 
-Follow Us
----------
-
+* [](https://www.facebook.com/edmunds "Facebook")
+* [](https://www.pinterest.com/edmundsinc/ "Pinterest")
 * [](https://www.youtube.com/user/Edmundsvideo "YouTube")
-* [](https://www.instagram.com/edmundscars/ "Instagram")
+* [](https://x.com/edmunds "X")
 * [](https://www.tiktok.com/@edmunds/ "TikTok")
 * [](https://www.linkedin.com/company/edmunds-com "LinkedIn")
-* [](https://www.facebook.com/edmunds "Facebook")
-* [](https://x.com/edmunds "X")
+* [](https://www.instagram.com/edmundscars/ "Instagram")
 * [](https://www.edmunds.com/rss.html "RSS Feed")
 
 Download the Edmunds app
