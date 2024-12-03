@@ -12,9 +12,9 @@ Toggle navigation [![Driversnote](https://d2mcx4odt2tts0.cloudfront.net/assets/l
 * [Log in](https://www.driversnote.com/users/sign_in)
 * [Sign up](https://www.driversnote.com/users/sign_up)
 
-[![](/vite/assets/google-play-button-outline.dec933f0.svg)](https://play.google.com/store/apps/details?id=com.driversnote.driversnote&hl=en&gl=US) [![](/vite/assets/ios-button-outline.f72abf2d.svg)](https://apps.apple.com/us/app/mileage-tracker-by-driversnote/id924418916)
+[![](/vite/assets/google-play-button-outline-CzX0dNu9.svg)](https://play.google.com/store/apps/details?id=com.driversnote.driversnote&hl=en&gl=US) [![](/vite/assets/ios-button-outline-CQcTKzXt.svg)](https://apps.apple.com/us/app/mileage-tracker-by-driversnote/id924418916)
 
-United States ![](https://d2mcx4odt2tts0.cloudfront.net/vite/assets/chevron-down.5937ae9f.svg) 
+United States ![](https://d2mcx4odt2tts0.cloudfront.net/vite/assets/chevron-down-Cr983keo.svg) 
 
 Get started
 
