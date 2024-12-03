@@ -1,10 +1,10 @@
-[![](https://cdn.prod.website-files.com/614cc83b929b3f7631dd3626/614e12c754018b655fcc4013_chevron-left.png)![](https://cdn.prod.website-files.com/61fc4df03f57783a86513b23/61fc4df03f577808ac513b34_Cameo%20logo.svg)](https://www.cameo.com/) [•  Legal](https://www.cameo.com/)
+[![](https://cdn.prod.website-files.com/614cc83b929b3f7631dd3626/614e12c754018b655fcc4013_chevron-left.png)![](https://cdn.prod.website-files.com/61fc4df03f57783a86513b23/61fc4df03f577808ac513b34_Cameo%20logo.svg)](https://www.cameo.com/) [•  Legal](https://www.cameo.com/?r=0)
 
-[Legal Center](https://www.cameo.com/)[Terms of Service](https://www.cameo.com/termsofservice)[Privacy](https://www.cameo.com/privacypolicy)[Community Guidelines](https://www.cameo.com/communityguidelines)[Affiliates](https://www.cameo.com/affiliates)
+[Legal Center](https://www.cameo.com/?r=0)[Terms of Service](https://www.cameo.com/termsofservice)[Privacy](https://www.cameo.com/privacypolicy)[Community Guidelines](https://www.cameo.com/communityguidelines)[Affiliates](https://www.cameo.com/affiliates)
 
 [Chat with us](#)
 
-[Back to Legal Center](https://www.cameo.com/)
+[Back to Legal Center](https://www.cameo.com/?r=0)
 
 Privacy Policy
 ==============
