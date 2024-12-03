@@ -184,7 +184,7 @@ Subscribe to our newsletter
 
 [© 2024 IZZO Golf](https://izzo.com/) • [Powered by Shopify](https://www.shopify.com/?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore)
 
-American Express Apple Pay Diners Club Discover Meta Pay Google Pay Mastercard Shop Pay Visa
+American Express Apple Pay Diners Club Discover Google Pay Mastercard Shop Pay Visa
 
 [](# "Close popup")
 
