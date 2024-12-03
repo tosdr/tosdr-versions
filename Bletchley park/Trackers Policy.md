@@ -16,6 +16,11 @@ GPNQHZ987
 
 Type above to decrypt our story...
 
+Temporary power outage
+----------------------
+
+An unplanned power outage is currently affecting a small part of the site.  Hut 4 Café is currently closed, however a selection of food and drink is available in Block C Coffee Shop. The Mansion is expected to open later today.
+
 Back
 
 * [Tickets](https://bletchleypark.org.uk/book-now/)
