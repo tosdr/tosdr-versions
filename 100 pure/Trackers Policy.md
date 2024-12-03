@@ -273,7 +273,7 @@ SELECT
 
 Beauty Deal - Burdock and Neem Healthy Scalp Shampoo - 32oz
 
-SELECT Buy for $25
+SOLD OUT Buy for $25
 
 ![](https://www.100percentpure.com/s/files/1/0648/1955/files/1HCSBNHS32OZ_Burdock_Neem_Healthy_Scalp_Shampoo_32oz_Primary_1600x_0b1a9371-d99e-4357-992f-6c657e4c2de4.webp?em-origin=cdn.shopify.com)
 
@@ -281,7 +281,7 @@ Beauty Deal - Burdock and Neem Healthy Scalp Shampoo - 32oz
 
 Purifying formula unclogs pores, stimulates circulation, and alleviates dryness, itching, and flaking. With added hydration for healthier scalp and hair.
 
-SELECT
+SOLD OUT
 
 [![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD1FMVCSER_Beauty_Deal_2022-Vitamin_C_Serum_Primary.jpg?em-origin=cdn.shopify.com)](#product-6838963011662)
 
