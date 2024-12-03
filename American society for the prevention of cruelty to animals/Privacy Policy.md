@@ -288,18 +288,14 @@ The ASPCA is a 501(c)(3) non-for-profit organization. [Privacy Policy](https://w
     Underwritten by Independence American Insurance Company
     
 
- ![Cat with arm casts and cone](https://www.aspca.org/sites/default/files/modal-mobile/gtmobileearlybird.jpg)
+ ![Dog staring at camera](https://www.aspca.org/sites/default/files/modal-mobile/dogmobile.jpg)
 
-[Help vulnerable animals.](https://secure.aspca.org/donate/2024-eap-GT1-web-NL-P1?ms=wb_con_lightbox-gt1-20241202&initialms=wb_con_lightbox-gt1-20241202&pcode=WEBMEMBER)
+[Today is GivingTuesday!](https://secure.aspca.org/donate/2024-eap-GT1-web-NL-P1?ms=wb_con_lightbox-gt1-20241202&initialms=wb_con_lightbox-gt1-20241202&pcode=WEBMEMBER)
 
-[**Make a GivingTuesday gift today!**](https://secure.aspca.org/donate/2024-eap-GT1-web-NL-P1?ms=wb_con_lightbox-gt1-20241202&initialms=wb_con_lightbox-gt1-20241202&pcode=WEBMEMBER)
+Help animals in need with a lifesaving gift in honor of the biggest giving day of the year.
 
-With a $60 donation, you can get a limited-edition ASPCA GivingTuesday long-sleeved shirt while supplies last!
+[Today is GivingTuesday!](https://secure.aspca.org/donate/2024-eap-GT1-web-NL-P1?ms=wb_con_lightbox-gt1-20241202&initialms=wb_con_lightbox-gt1-20241202&pcode=WEBMEMBER)
 
-[Help vulnerable animals.](https://secure.aspca.org/donate/2024-eap-GT1-web-NL-P1?ms=wb_con_lightbox-gt1-20241202&initialms=wb_con_lightbox-gt1-20241202&pcode=WEBMEMBER)
+Help animals in need with a lifesaving gift in honor of the biggest giving day of the year.
 
-[**Make a GivingTuesday gift today!**](https://secure.aspca.org/donate/2024-eap-GT1-web-NL-P1?ms=wb_con_lightbox-gt1-20241202&initialms=wb_con_lightbox-gt1-20241202&pcode=WEBMEMBER)
-
-With a $60 donation, you can get a limited-edition ASPCA GivingTuesday long-sleeved shirt while supplies last!
-
-[DONATE](https://secure.aspca.org/donate/2024-eap-GT1-web-NL-P1?ms=wb_con_lightbox-gt1-20241202&initialms=wb_con_lightbox-gt1-20241202&pcode=WEBMEMBER&ms=wb_con_lightbox-gt1-20241202&initialms=wb_con_lightbox-gt1-20241202&pcode=WEBMEMBER)
+[DONATE](https://secure.aspca.org/donate/2024-eap-GT-web-NL-P1?ms=wb_con_lightbox-gt-20241203&initialms=wb_con_lightbox-gt-20241203&pcode=WEBMEMBER&ms=wb_con_lightbox-gt-20241203&initialms=wb_con_lightbox-gt-20241203&pcode=WEBMEMBER)
