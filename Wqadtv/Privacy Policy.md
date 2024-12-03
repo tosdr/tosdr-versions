@@ -32,9 +32,8 @@ Navigation
     
     *  [![](https://media.tegna-media.com/assets/WQAD/images/f49b724a-6f74-4395-adf8-d1fb6198c65f/20241203T040605/f49b724a-6f74-4395-adf8-d1fb6198c65f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f49b724a-6f74-4395-adf8-d1fb6198c65f/20241203T040605/f49b724a-6f74-4395-adf8-d1fb6198c65f_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/autistic-and-loved-argrows-house-sensory-playground-gym/526-5eec65c4-52c3-4b63-aed6-e820dd2e4393)
         
-        #### [Autistic & Loved is opening sensory-friendly playground, facility in Davenport](https://www.wqad.com/article/news/local/the-current/autistic-and-loved-argrows-house-sensory-playground-gym/526-5eec65c4-52c3-4b63-aed6-e820dd2e4393) [![](https://media.tegna-media.com/assets/WQAD/images/f49b724a-6f74-4395-adf8-d1fb6198c65f/20241203T040605/f49b724a-6f74-4395-adf8-d1fb6198c65f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f49b724a-6f74-4395-adf8-d1fb6198c65f/20241203T040605/f49b724a-6f74-4395-adf8-d1fb6198c65f_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/autistic-and-loved-argrows-house-sensory-playground-gym/526-5eec65c4-52c3-4b63-aed6-e820dd2e4393)
+        #### [Autistic & Loved is opening sensory-friendly playground, facility in Davenport](https://www.wqad.com/article/news/local/the-current/autistic-and-loved-argrows-house-sensory-playground-gym/526-5eec65c4-52c3-4b63-aed6-e820dd2e4393)
         
-        #### [Autistic & Loved to host grand opening of its sensory-friendly playground](https://www.wqad.com/article/news/local/the-current/autistic-and-loved-argrows-house-sensory-playground-gym/526-5eec65c4-52c3-4b63-aed6-e820dd2e4393)
     *  [![](https://media.tegna-media.com/assets/WQAD/images/b6ca89e8-38c7-4fb2-a69b-799d8db2afe5/20241203T011627/b6ca89e8-38c7-4fb2-a69b-799d8db2afe5_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b6ca89e8-38c7-4fb2-a69b-799d8db2afe5/20241203T011627/b6ca89e8-38c7-4fb2-a69b-799d8db2afe5_360x203.jpg)](https://www.wqad.com/article/news/local/toys-for-tots-wqad-collection-drive/526-2ec5a673-1845-4840-bac0-48d6104ed014)
         
         #### [Catching up with Toys for Tots ahead of WQAD's collection drive on Dec. 3](https://www.wqad.com/article/news/local/toys-for-tots-wqad-collection-drive/526-2ec5a673-1845-4840-bac0-48d6104ed014)
@@ -87,7 +86,7 @@ Navigation
 
 Davenport, IA »
 
-19°
+16°
 
 ![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
