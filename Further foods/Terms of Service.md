@@ -197,6 +197,24 @@ Diet Restrictions Dairy-free Egg-free Gluten-free Low Carb Low Sodium Nightshade
 
 RESET [Search](https://www.furtherfood.com/search?type=article)
 
+[![Image of white chocolate bark](//www.furtherfood.com/cdn/shop/articles/20241203162700-img_2489_1200x900.jpg?v=1733243976)
+
+![Image of white chocolate bark](//www.furtherfood.com/cdn/shop/articles/20241203162700-img_2489_1200x900.jpg?v=1733243976)](https://www.furtherfood.com/blogs/recipes/matcha-white-chocolate-bark)
+
+[Matcha White Chocolate Bark](https://www.furtherfood.com/blogs/recipes/matcha-white-chocolate-bark)
+----------------------------------------------------------------------------------------------------
+
+Indulge in the perfect blend of creamy, crunchy, and festive flavors with this Matcha W...
+
+[![Image of chocolate drink in teacup](//www.furtherfood.com/cdn/shop/articles/20241203161521-img_2706_1169x934.jpg?v=1733243097)
+
+![Image of chocolate drink in teacup](//www.furtherfood.com/cdn/shop/articles/20241203161521-img_2706_1169x934.jpg?v=1733243097)](https://www.furtherfood.com/blogs/recipes/chocolate-peppermint-mocha)
+
+[Chocolate Peppermint Mocha](https://www.furtherfood.com/blogs/recipes/chocolate-peppermint-mocha)
+--------------------------------------------------------------------------------------------------
+
+The holiday season is here, and there's no better way to embrace the cozy vibes than wi...
+
 [![Image of Elderberry jar and spritzer](//www.furtherfood.com/cdn/shop/articles/20241119203805-img_1664-20-1_1200x900.jpg?v=1732049051)
 
 ![Image of Elderberry jar and spritzer](//www.furtherfood.com/cdn/shop/articles/20241119203805-img_1664-20-1_1200x900.jpg?v=1732049051)](https://www.furtherfood.com/blogs/recipes/elderberry-mocktail-spritzer)
@@ -232,24 +250,6 @@ This quick and easy Pumpkin Spice Latte is the perfect cozy drink to satisfy you
 ------------------------------------------------------------------------------------------------------
 
 These Hazelnut Cold Brew Ice Cubes are the perfect way to elevate your morning routine....
-
-[![Pumpkin Spice Snack Cake](//www.furtherfood.com/cdn/shop/articles/20240911145214-pumpkin-20spice-20snack-20cake-202_1200x900.jpg?v=1726067244)
-
-![Pumpkin Spice Snack Cake](//www.furtherfood.com/cdn/shop/articles/20240911145214-pumpkin-20spice-20snack-20cake-202_1200x900.jpg?v=1726067244)](https://www.furtherfood.com/blogs/recipes/pumpkin-spice-snack-cake)
-
-[Pumpkin Spice Snack Cake](https://www.furtherfood.com/blogs/recipes/pumpkin-spice-snack-cake)
-----------------------------------------------------------------------------------------------
-
-This Pumpkin Spice Collagen Cake with Cream Cheese Frosting is the perfect seasonal tre...
-
-[![Pumpkin Overnight Oats](//www.furtherfood.com/cdn/shop/articles/20240910153036-photo-203_1200x1600.jpg?v=1725982891)
-
-![Pumpkin Overnight Oats](//www.furtherfood.com/cdn/shop/articles/20240910153036-photo-203_1200x1600.jpg?v=1725982891)](https://www.furtherfood.com/blogs/recipes/pumpkin-overnight-oats)
-
-[Pumpkin Overnight Oats](https://www.furtherfood.com/blogs/recipes/pumpkin-overnight-oats)
-------------------------------------------------------------------------------------------
-
-Start your morning right with these delicious Pumpkin Overnight Oats—a simple, nutritio...
 
 * 1
 * [2](https://www.furtherfood.com/blogs/recipes?page=2)
