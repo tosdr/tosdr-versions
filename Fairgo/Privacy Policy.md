@@ -75,8 +75,6 @@ Feel free to contact Fair Go [customer support team](https://www.fairgoplus.com
 
 [Real Cash Pokies](https://www.fairgoplus.com/the-difference-between-real-cash-pokies-and-free-games "The difference between real cash pokies and free games")
 
-[Fair Go Bonuses](https://www.bonusfairgo.com/ "Fair Go Bonuses")
-
 [Free Pokies](https://www.fairgoplus.com/10-free-pokies-at-fair-go-casino "What are Fair Go Free pokies?")
 
 ![footer ccard](/images/website2024/07_footericon3_45x45.webp)
