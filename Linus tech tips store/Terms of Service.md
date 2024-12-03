@@ -22,7 +22,7 @@ NO MORE EXCUSES - Tidy up your desk and try out Magnetic Cable Management with t
 
 [Skip to content](#MainContent)
 
-[CYBER MONDAY! New flash deals up to 50% off are LIVE- click here.](https://www.lttstore.com/collections/bfcm-landing)
+[LAST CHANCE! New flash deals up to 70% off are LIVE, deals end at 11:59PM PST.](https://www.lttstore.com/collections/bfcm-landing)
 
 New orders are expected to ship by
 
