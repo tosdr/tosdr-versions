@@ -40,4 +40,4 @@ Please send DMCA notices to Developed Methods LLC (owner of playit.gg) via email
 
 * We reserve the right to terminate accounts at anytime for any reason.
 
-Copyright Ⓒ 2024 Developed Methods LLC. All Rights Reserved. [Privacy Policy.](https://playit.gg/privacy-policy) [DMCA Policy.](https://playit.gg/dmca-policy)
+Copyright Ⓒ 2024 Developed Methods LLC. All Rights Reserved. [Privacy Policy.](https://playit.gg/privacy-policy) [DMCA Policy.](https://playit.gg/dmca-policy) [Terms of Service.](https://playit.gg/terms)
