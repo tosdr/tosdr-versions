@@ -228,11 +228,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-If you like these links, you'll love
+Want the rest of the Farking story? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-The next best thing to UltraFark
+More threads. More community. More Farking.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Doctors warn that if you are sleeping on a yellow pillow, you may need to start wearing diapers to bed](https://www.fark.com/goto/13480934) ( [ladbible.com](https://www.fark.com/goto/13480934) ) » [(1 comment)](https://www.fark.com/comments/13480934/Doctors-warn-that-if-you-are-sleeping-on-a-yellow-pillow-you-may-need-to-start-wearing-diapers-to-bed) |
-| [Discussion](https://www.fark.com/discussion/) | ["My spouse wants to celebrate Christmas apart. Is there a secret family I am unaware of?"](https://www.fark.com/goto/13481180) ( [slate.com](https://www.fark.com/goto/13481180) ) » [(10 comments)](https://www.fark.com/comments/13481180/My-spouse-wants-to-celebrate-Christmas-apart-Is-there-a-secret-family-I-am-unaware-of) |
-| [Sports](https://www.fark.com/sports/) | [Madden Football curse remains undefeated](https://www.fark.com/goto/13481106) ( [sfgate.com](https://www.fark.com/goto/13481106) ) » [(9 comments)](https://www.fark.com/comments/13481106/Madden-Football-curse-remains-undefeated) |
-| [Business](https://www.fark.com/business/) | [European Federation of Journalists to stop posting content on 'X', submit more links to Fark.com](https://www.fark.com/goto/13480864) ( [thelondoneconomic.com](https://www.fark.com/goto/13480864) ) » [(0 comments)](https://www.fark.com/comments/13480864/European-Federation-of-Journalists-to-stop-posting-content-on-X-submit-more-links-to-Farkcom) |
-| [STEM](https://www.fark.com/stem/) | [California has a cunning plan to save Joshua trees. U2?](https://www.fark.com/goto/13480876) ( [laist.com](https://www.fark.com/goto/13480876) ) » [(6 comments)](https://www.fark.com/comments/13480876/California-has-a-cunning-plan-to-save-Joshua-trees-U2) |
-| [Entertainment](https://www.fark.com/entertainment/) | [BTS member breaks the internet, announces passing of his pet dog, making sure to mention release of his new Christmas duet before changing the topic](https://www.fark.com/goto/13481026) ( [teenvogue.com](https://www.fark.com/goto/13481026) ) » [(1 comment)](https://www.fark.com/comments/13481026/BTS-member-breaks-internet-announces-passing-of-his-pet-dog-making-sure-to-mention-release-of-his-new-Christmas-duet-before-changing-topic) |
-| [Fandom](https://www.fark.com/fandom/) | [People line us for hours to get Pokemon cards. This is not a repeat from 1999](https://www.fark.com/goto/13480998) ( [local21news.com](https://www.fark.com/goto/13480998) ) » [(1 comment)](https://www.fark.com/comments/13480998/People-line-us-for-hours-to-get-Pokemon-cards-This-is-not-a-repeat-from-1999) |
-| [D'awww](https://www.fark.com/dawww/) | [His prize '69 Camaro was stolen 17 years ago. He never stopped looking for it](https://www.fark.com/goto/13480700) ( [autos.yahoo.com](https://www.fark.com/goto/13480700) ) » [(8 comments)](https://www.fark.com/comments/13480700/His-prize-69-Camaro-was-stolen-17-years-ago-He-never-stopped-looking-for-it) |
-| [Food](https://www.fark.com/food/) | [Nobody drinks tea anymore](https://www.fark.com/goto/13481140) ( [independent.co.uk](https://www.fark.com/goto/13481140) ) » [(6 comments)](https://www.fark.com/comments/13481140/Nobody-drinks-tea-anymore) |
-| [Politics](https://www.fark.com/politics/) | ['Cheryl Hines sells products with naked RFK Jr. showering behind her' is the most apt headline for this lame duck season](https://www.fark.com/goto/13481000) ( [thehill.com](https://www.fark.com/goto/13481000) ) » [(28 comments)](https://www.fark.com/comments/13481000/Cheryl-Hines-sells-products-with-naked-RFK-Jr-showering-behind-her-is-most-apt-headline-for-this-lame-duck-season) |
+| [Main](https://www.fark.com/) | [Photoshop these trash cows](https://www.fark.com/goto/13479602) ( [dims.apnews.com](https://www.fark.com/goto/13479602) ) » [(16 comments)](https://www.fark.com/comments/13479602/Photoshop-these-trash-cows) |
+| [Discussion](https://www.fark.com/discussion/) | [This may make subby start to enjoy Christmas music again (possible NSFW lyrics)](https://www.fark.com/goto/13481402) ( [youtube.com](https://www.fark.com/goto/13481402) ) » [(4 comments)](https://www.fark.com/comments/13481402/This-may-make-subby-start-to-enjoy-Christmas-music-again-possible-NSFW-lyrics) |
+| [Sports](https://www.fark.com/sports/) | [A Mile-High Monday Night Football showdown between the Cleveland Browns and Denver Broncos is at 8:15 PM ET on ESPN. Can Jameis Winston and the Browns cause lots of damage to the Broncos? Or does Bo know best and Nix up the Browns? Let's do this](https://www.fark.com/goto/13480540) ( [espn.com](https://www.fark.com/goto/13480540) ) » [(66 comments)](https://www.fark.com/comments/13480540/A-Mile-High-Monday-Night-Football-showdown-between-Cleveland-Browns-Denver-Broncos-is-at-815-PM-ET-on-ESPN-Can-Jameis-Winston-the-Browns-cause-lots-of-damage-to-Broncos-Or-does-Bo-know-best-Nix-up-Browns-Lets-do-this) |
+| [Business](https://www.fark.com/business/) | [Delaware judge: no Elmo, $56B comp package is denied. Elmo to nuke Delaware come Jan 20](https://www.fark.com/goto/13481444) ( [cnbc.com](https://www.fark.com/goto/13481444) ) » [(20 comments)](https://www.fark.com/comments/13481444/Delaware-judge-no-Elmo-$56B-comp-package-is-denied-Elmo-to-nuke-Delaware-come-Jan-20) |
+| [STEM](https://www.fark.com/stem/) | [Researchers in Arizona have found the oldest gun ever found in the continental United States, dating from approximately 1540. Others doubt veracity of the find, citing the laser scope, bump stock, and "suck it, libs" inscription](https://www.fark.com/goto/13481376) ( [azcentral.com](https://www.fark.com/goto/13481376) ) » [(1 comment)](https://www.fark.com/comments/13481376/Researchers-in-Arizona-have-found-oldest-gun-ever-found-in-continental-United-States-dating-from-approximately-1540-Others-doubt-veracity-of-find-citing-laser-scope-bump-stock-suck-it-libs-inscription) |
+| [Entertainment](https://www.fark.com/entertainment/) | [This may make subby start to enjoy Christmas music again (possible NSFW lyrics)](https://www.fark.com/goto/13481402) ( [youtube.com](https://www.fark.com/goto/13481402) ) » [(4 comments)](https://www.fark.com/comments/13481402/This-may-make-subby-start-to-enjoy-Christmas-music-again-possible-NSFW-lyrics) |
+| [Fandom](https://www.fark.com/fandom/) | [Two parts "Star Trek: Prodigy", one part "Goonies". Set in the New Republic Era, the two-episode premiere of "Star Wars: Skeleton Crew" drops on Disney+ at 9 PM ET](https://www.fark.com/goto/13480834) ( [yahoo.com](https://www.fark.com/goto/13480834) ) » [(10 comments)](https://www.fark.com/comments/13480834/Two-parts-Star-Trek-Prodigy-one-part-Goonies-Set-in-New-Republic-Era-two-episode-premiere-of-Star-Wars-Skeleton-Crew-drops-on-Disney-at-9-PM-ET) |
+| [D'awww](https://www.fark.com/dawww/) | [Ah to be young again: Four best friends recreate vacation photo 50 years later](https://www.fark.com/goto/13481234) ( [cnn.com](https://www.fark.com/goto/13481234) ) » [(3 comments)](https://www.fark.com/comments/13481234/Ah-to-be-young-again-Four-best-friends-recreate-vacation-photo-50-years-later) |
+| [Food](https://www.fark.com/food/) | [Nobody drinks tea anymore](https://www.fark.com/goto/13481140) ( [independent.co.uk](https://www.fark.com/goto/13481140) ) » [(27 comments)](https://www.fark.com/comments/13481140/Nobody-drinks-tea-anymore) |
+| [Politics](https://www.fark.com/politics/) | [MAGA is as strong as a house of cards... if the cards were all made of hot air](https://www.fark.com/goto/13481362) ( [dailyboulder.com](https://www.fark.com/goto/13481362) ) » [(24 comments)](https://www.fark.com/comments/13481362/MAGA-is-as-strong-as-a-house-of-cards-if-cards-were-all-made-of-hot-air) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Dec 02 2024 14:43:19  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Dec 02 2024 20:43:02  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
