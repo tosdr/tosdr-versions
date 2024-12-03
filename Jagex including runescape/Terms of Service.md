@@ -2,7 +2,7 @@
 
 English
 
-[English](https://legal.jagex.com/?fallback=true)[Deutsch](https://legal.jagex.com/de-de?fallback=true)[Français](https://legal.jagex.com/fr-fr?fallback=true)[Português do Brasil](https://legal.jagex.com/pt-br?fallback=true)[中國](https://legal.jagex.com/zh-cn?fallback=true)[日本人](https://legal.jagex.com/ja-jp?fallback=true)[한국어](https://legal.jagex.com/ko-kr?fallback=true)[Polski](https://legal.jagex.com/pl-pl?fallback=true)[Italiano](https://legal.jagex.com/it-it?fallback=true)[Português](https://legal.jagex.com/pt-pt?fallback=true)[Русский](https://legal.jagex.com/ru-ru?fallback=true)[Español](https://legal.jagex.com/es-es?fallback=true)[繁體中文](https://legal.jagex.com/zh-cht?fallback=true)[Türkçe](https://legal.jagex.com/tr-tr?fallback=true)[български](https://legal.jagex.com/bg-bg?fallback=true)[Ελληνικά](https://legal.jagex.com/el-gr?fallback=true)[українська](https://legal.jagex.com/uk-ua?fallback=true)[Español (MX)](https://legal.jagex.com/es-mx?fallback=true)
+[English](https://legal.jagex.com/docs/terms?fallback=true)[Deutsch](https://legal.jagex.com/de-de/docs/terms?fallback=true)[Français](https://legal.jagex.com/fr-fr/docs/terms?fallback=true)[Português do Brasil](https://legal.jagex.com/pt-br/docs/terms?fallback=true)[中國](https://legal.jagex.com/zh-cn/docs/terms?fallback=true)[日本人](https://legal.jagex.com/ja-jp/docs/terms?fallback=true)[한국어](https://legal.jagex.com/ko-kr/docs/terms?fallback=true)[Polski](https://legal.jagex.com/pl-pl/docs/terms?fallback=true)[Italiano](https://legal.jagex.com/it-it/docs/terms?fallback=true)[Português](https://legal.jagex.com/pt-pt/docs/terms?fallback=true)[Русский](https://legal.jagex.com/ru-ru/docs/terms?fallback=true)[Español](https://legal.jagex.com/es-es/docs/terms?fallback=true)[繁體中文](https://legal.jagex.com/zh-cht/docs/terms?fallback=true)[Türkçe](https://legal.jagex.com/tr-tr/docs/terms?fallback=true)[български](https://legal.jagex.com/bg-bg/docs/terms?fallback=true)[Ελληνικά](https://legal.jagex.com/el-gr/docs/terms?fallback=true)[українська](https://legal.jagex.com/uk-ua/docs/terms?fallback=true)[Español (MX)](https://legal.jagex.com/es-mx/docs/terms?fallback=true)
 
 More
 
@@ -98,24 +98,3 @@ SearchCtrl + K
 ![Logo](https://4216836603-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/organizations%2FMhQqNo4JtUqK6Wq0HUQu%2Fsites%2Fsite_vEwis%2Flogo%2FXR0VPJQ3guj8UjPeSGNa%2Fjag-white.svg?alt=media&token=468f650f-1489-4dba-a541-2c282d9bd096)![Logo](https://4216836603-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/organizations%2FMhQqNo4JtUqK6Wq0HUQu%2Fsites%2Fsite_vEwis%2Flogo%2FXR0VPJQ3guj8UjPeSGNa%2Fjag-white.svg?alt=media&token=468f650f-1489-4dba-a541-2c282d9bd096)
 
 This website and its contents are copyright © 1999 - 2024 Jagex Ltd.
-
-On this page
-
-Legal Portal
-============
-
-Last updated 3 months ago
-
-[Contact us](https://www.jagex.com/readme/contact-us)
-
-[Annual reports](https://www.jagex.com/readme/annual-reports)
-
-[Partners and third parties](https://www.jagex.com/readme/partners-and-third-parties)
-
-[Policies](https://www.jagex.com/readme/policies)
-
-[Terms](https://www.jagex.com/readme/terms)
-
-[Rules](https://www.jagex.com/readme/rules)
-
-[Imprint](https://www.jagex.com/readme/imprint)
