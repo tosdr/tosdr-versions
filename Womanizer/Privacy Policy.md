@@ -4,7 +4,7 @@ The store will not work correctly in the case when cookies are disabled.
 
 **JavaScript seems to be disabled in your browser.** For the best experience on our site, be sure to turn on Javascript in your browser.
 
-[Cyber Monday Sale **Up to 50% off** Order now, sale ends soon!
+[Cyber Week Sale **Up to 50% off** Order now, sale ends soon!
 
 * 00
     
@@ -20,7 +20,7 @@ The store will not work correctly in the case when cookies are disabled.
     
     Seconds](https://www.womanizer.com/eu/sale)
 
-[Cyber Monday Sale**Up to 50% off**
+[Cyber Week Sale**Up to 50% off**
 
 Order now! Sale ends in
 
