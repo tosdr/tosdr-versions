@@ -17,7 +17,7 @@ Open menu
     * [Professional Services](https://www.ovhcloud.com/en-ie/professional-services/)
 * Communities
     * Back to menu
-    * [OVHcloud Community](https://community.ovhcloud.com/)
+    * [OVHcloud Community](https://community.ovhcloud.com/community/en-ie)
     * [OVHcloud Blog](https://blog.ovhcloud.com/ "OVHcloud Blog")
     * [Events](https://events.ovhcloud.com/en-ie/)
 * Learn
@@ -470,7 +470,7 @@ Log in to order, manage your products and services, and track your orders.
             * [Veeam Enterprise option for all your backups](https://www.ovhcloud.com/en-ie/storage-solutions/veeam-enterprise/) A dedicated Veeam Backup Replication solution for all your backups
         * Solutions
             
-            * SAP on OVHcloud
+            * [SAP on OVHcloud](https://www.ovhcloud.com/en-ie/solutions/sap/)
             * Datacentre extension and migration
             * Hybrid and Multi-Cloud Solutions
             * Disaster recovery solutions
@@ -743,7 +743,7 @@ Back to top
     * [Help centre](https://help.ovhcloud.com/csm/en-ie-home?id=csm_index)
     * [Guides](https://help.ovhcloud.com/csm/en-ie-documentation?id=kb_home)
     * [Glossary](https://www.ovhcloud.com/en-ie/glossary/)
-    * [Community](https://community.ovh.com/)
+    * [Community](https://community.ovhcloud.com/community/en-ie)
     * Support levels
     
 * Contact us
