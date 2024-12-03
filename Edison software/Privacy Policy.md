@@ -79,7 +79,7 @@ Open Menu Close Menu
 Privacy Policy
 ==============
 
-**10/17/2023**
+**11/26/2024**
 
 [English](https://www.edison.tech/privacy)[Portuguese](https://www.edison.tech/privacy-portuguese)
 
@@ -338,6 +338,8 @@ Alternatively, VeraSafe can be contacted at:
  Ireland
 
 ### Archive
+
+[**Policy 10/2023**](https://www.edison.tech/privacy-policy-10-17-23)
 
 [**Policy 7/2023**](https://www.edison.tech/privacy-policy-7-1-23)
 
