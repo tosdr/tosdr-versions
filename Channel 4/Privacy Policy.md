@@ -64,6 +64,7 @@
         * [Chateau: DIY](https://www.channel4.com/4viewers/take-part/chateau-DIY)
         * [Countdown](https://www.channel4.com/4viewers/take-part/countdown)
         * [The Dog House](https://www.channel4.com/4viewers/takepart/the-dog-house)
+        * [Extraordinary Extensions](https://www.channel4.com/4viewers/extraordinary-extensions)
         * [First Dates](https://www.channel4.com/4viewers/take-part/first-dates)
         * [Four in a Bed](https://www.channel4.com/4viewers/take-part/four-in-a-bed)
         * [The Game of Wool](https://www.channel4.com/4viewers/takepart/game-of-wool)
