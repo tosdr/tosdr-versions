@@ -235,9 +235,9 @@ Games you might like
 
 [Bikini for Love](https://lagged.com/en/g/bikini-for-love) ![Bikini for Love Game](https://imgs2.dab3games.com/bikiniforlove-ft50.png)
 
-[Magic Piano Tiles](https://lagged.com/en/g/magic-piano-tiles) ![Magic Piano Tiles Game](https://imgs2.dab3games.com/magic-piano-tiles-ft17.png)
-
 [Ice Cream Stack Run](https://lagged.com/en/g/ice-cream-stack-run) ![Ice Cream Stack Run Game](https://imgs2.dab3games.com/ice-cream-stack-run29.png) top rated
+
+[Magic Piano Tiles](https://lagged.com/en/g/magic-piano-tiles) ![Magic Piano Tiles Game](https://imgs2.dab3games.com/magic-piano-tiles-ft17.png)
 
 [Toilet Race](https://lagged.com/en/g/toilet-race) ![Toilet Race Game](https://imgs2.dab3games.com/toilet-race-game-big.png)
 
@@ -249,9 +249,9 @@ Games you might like
 
 [Lemon Opera](https://lagged.com/en/g/lemon-opera) ![Lemon Opera Game](https://imgs2.dab3games.com/lemon-opera-ft.png)
 
-[Cat Disco](https://lagged.com/en/g/cat-disco) ![Cat Disco Game](https://imgs2.dab3games.com/dancing-cats-ft2.png)
-
 [Sandwich Runner](https://lagged.com/en/g/sandwich-runner) ![Sandwich Runner Game](https://imgs2.dab3games.com/sandwhich-runner-game-ft.png)
+
+[Cat Disco](https://lagged.com/en/g/cat-disco) ![Cat Disco Game](https://imgs2.dab3games.com/dancing-cats-ft2.png)
 
 [Lagged.com](https://lagged.com/ "Lagged.com")
 
