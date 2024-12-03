@@ -165,9 +165,9 @@
             
             Blog: Security Essentials
             
-            ##### What Are Computer Worms?
+            ##### Best Ways to Reduce Your Digital Footprint Now
             
-            [Learn more](https://levelblue.com/blogs/security-essentials/what-are-computer-worms)
+            [Learn more](https://levelblue.com/blogs/security-essentials/best-ways-to-reduce-your-digital-footprint-now)
             
             [View all Blog posts](https://www.alienvault.com/blogs)
             
@@ -505,13 +505,13 @@ We welcome your questions and comments regarding these Terms of Use and anything
 
 From the Blog
 
-![LevelBlue](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
+![Shigraf Aijaz](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
 
-#### LevelBlue
+#### Shigraf Aijaz
 
-Nov 26, 2024
+Dec 3, 2024
 
-### [What Are Computer Worms?](https://levelblue.com/blogs/security-essentials/what-are-computer-worms)
+### [Best Ways to Reduce Your Digital Footprint Now](https://levelblue.com/blogs/security-essentials/best-ways-to-reduce-your-digital-footprint-now)
 
 [Explore All Blog Posts ›](https://www.alienvault.com/blogs)
 
