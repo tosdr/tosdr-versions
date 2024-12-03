@@ -312,6 +312,12 @@ Menü
 * [Partner](https://homematic-ip.com/de/partner)
 * [Karriere](https://karriere.eq-3.de/karriere.html)
 
+ [![](/sites/default/files/styles/thumbnail/public/images/neuheiten_press_news-grafik_5.jpg.webp?itok=I-hm-1gM)
+
+News
+
+„Ding, Dong!“, Tür auf für den Homematic IP Kombisignalgeber und den Homematic IP Klingeltaster](https://homematic-ip.com/de/news/homematic-ip-kombisignalgeber-klingeltaster)
+
  [![](/sites/default/files/styles/thumbnail/public/images/neuheiten_press_news-grafik_k1_0.jpg.webp?itok=m82MxTuO)
 
 News
@@ -366,6 +372,8 @@ Pfadnavigation
 --------------
 
 1. [Home](https://homematic-ip.com/de)
+2. [Service](https://homematic-ip.com/de/service)
+3. Datenschutz (App)
 
 Datenschutzbestimmungen für die Homematic IP Smartphone App
 ===========================================================
