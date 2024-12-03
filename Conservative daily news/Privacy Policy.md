@@ -1,4 +1,4 @@
-Monday, December 2 2024
+Tuesday, December 3 2024
 
 Breaking News
 
@@ -181,6 +181,9 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [TFB Review: SIG Sauer P320 Max](https://www.thegunpage.com/tfb-review-sig-sauer-p320-max/10612242)
+* [POTD: Ruger Precision Rifle With Leica PRS 5-30x56i Riflescope](https://www.thegunpage.com/potd-ruger-precision-rifle-with-leica-prs-5-30x56i-riflescope/10612243)
+* [The Rimfire Report: The Last Quackenbush – Bicycle Rifle](https://www.thegunpage.com/the-rimfire-report-the-last-quackenbush-bicycle-rifle/10612244)
 * [Get These 10 Cyber Monday Deals While You Still Can](https://www.thegunpage.com/get-these-10-cyber-monday-deals-while-you-still-can/10612240)
 * [Are Shotguns Good for Home Defense? A Comprehensive Guide](https://www.thegunpage.com/are-shotguns-good-for-home-defense-a-comprehensive-guide/10612236)
 * [Smith & Wesson Announces The M&P FPC In .40 S&W](https://www.thegunpage.com/smith-wesson-announces-the-mp-fpc-in-40-sw/10612234)
@@ -188,9 +191,6 @@ Recent Posts
 * [President Biden Pardons Hunter on Gun, Tax & Any Future Charges](https://www.thegunpage.com/president-biden-pardons-hunter-on-gun-tax-any-future-charges/10612232)
 * [New Russian Submachine Gun Patent: AK-Based, P90-Inspired](https://www.thegunpage.com/new-russian-submachine-gun-patent-ak-based-p90-inspired/10612229)
 * [GOA Applauds Nomination of “Fiercely Pro-Gun” Kash Patel for FBI Director](https://www.thegunpage.com/goa-applauds-nomination-of-fiercely-pro-gun-kash-patel-for-fbi-director/10612228)
-* [FPC Files Opening Brief In New Jersey AWB Appeal](https://www.thegunpage.com/fpc-files-opening-brief-in-new-jersey-awb-appeal/10612226)
-* [TFB Weekly Web Deals 116: Cyber Monday Ammo Deals](https://www.thegunpage.com/tfb-weekly-web-deals-116-cyber-monday-ammo-deals/10612225)
-* [Collegiate Rifle: Western Trip Yields Big Results For Akron](https://www.thegunpage.com/collegiate-rifle-western-trip-yields-big-results-for-akron/10612233)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
