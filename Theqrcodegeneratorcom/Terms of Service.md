@@ -6,7 +6,7 @@
 
 No options
 
-[![TQRCG Logo](https://www.the-qrcode-generator.com/wp-content/themes/tqrcg/img/header/polo-logo-v1.png "TQRCG Logo")](https://www.the-qrcode-generator.com/)
+[![The QR Code Generator Logo](https://www.the-qrcode-generator.com/wp-content/themes/tqrcg/img/logo/tqrcg_logo_asset_1.webp "TQRCG Logo")](https://www.the-qrcode-generator.com/)
 
 ![img](https://www.the-qrcode-generator.com/wp-content/themes/tqrcg/img/header/cross-black.svg)
 
@@ -20,7 +20,7 @@ No options
 
 [Sign in](https://app.the-qrcode-generator.com/qrcodes?lng=en&signup_source=mobile_header_sign_in)[Sign up free](https://app.the-qrcode-generator.com/qrcodes?lng=en&signup_source=mobile_header_sign_up)
 
-[![](https://www.the-qrcode-generator.com/wp-content/themes/tqrcg/img/header/polo-logo-v1.png "The qrcode generator")](https://www.the-qrcode-generator.com/)[Generate](https://www.the-qrcode-generator.com/)[Scan](https://www.the-qrcode-generator.com/scan?lng=en)
+[![](https://www.the-qrcode-generator.com/wp-content/themes/tqrcg/img/logo/tqrcg_logo_asset_1.webp "The qrcode generator")](https://www.the-qrcode-generator.com/)[Generate](https://www.the-qrcode-generator.com/)[Scan](https://www.the-qrcode-generator.com/scan?lng=en)
 
 About QR Codes
 
