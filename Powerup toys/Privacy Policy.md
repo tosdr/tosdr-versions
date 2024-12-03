@@ -1,4 +1,4 @@
-CYBER WEEK SALE | 25% OFF EVERYTHING
+25% OFF BUNDLES + FREE SHIPPING ON ORDERS $49+
 
 Menu
 
@@ -261,7 +261,7 @@ Menu
 
 [0](https://www.poweruptoys.com/cart "Cart")
 
-CYBER WEEK SALE | 25% OFF EVERYTHING
+25% OFF BUNDLES + FREE SHIPPING ON ORDERS $49+
 
 * [](mailto:support@poweruptoys.com "Email POWERUP®")
 * [](https://www.facebook.com/Poweruptoys "POWERUP® on Facebook")
@@ -330,21 +330,21 @@ Continue Shopping
 
 PLANES
 
-[![POWERUP 4.0 AIRPLANE](//www.poweruptoys.com/cdn/shop/files/POWERUP_Black_Friday_Sale_2024_22_50x.png?v=1732926370)
+[![POWERUP 4.0 AIRPLANE](//www.poweruptoys.com/cdn/shop/files/5_50x.png?v=1710950017)
 
-![POWERUP 4.0 AIRPLANE](//www.poweruptoys.com/cdn/shop/files/POWERUP_Black_Friday_Sale_2024_22_2000x.png?v=1732926370)
+![POWERUP 4.0 AIRPLANE](//www.poweruptoys.com/cdn/shop/files/5_2000x.png?v=1710950017)
 
 POWERUP 4.0 AIRPLANE](https://www.poweruptoys.com/products/powerup-4-0)
 
-[![DRAGON WITH POWERUP 4.0 AIRPLANE](//www.poweruptoys.com/cdn/shop/files/POWERUP_Black_Friday_Sale_2024_4_50x.png?v=1732924178)
+[![](//www.poweruptoys.com/cdn/shop/files/2_abe80ad5-ff6b-42b6-a835-8efae20cc70c_50x.png?v=1721457882)
 
-![DRAGON WITH POWERUP 4.0 AIRPLANE](//www.poweruptoys.com/cdn/shop/files/POWERUP_Black_Friday_Sale_2024_4_2000x.png?v=1732924178)
+![](//www.poweruptoys.com/cdn/shop/files/2_abe80ad5-ff6b-42b6-a835-8efae20cc70c_2000x.png?v=1721457882)
 
 DRAGON WITH POWERUP 4.0 AIRPLANE](https://www.poweruptoys.com/products/dragon-with-powerup-4-0-airplane)
 
-[![TORNADO UPDRAFT WITH POWERUP 4.0 AIRPLANE](//www.poweruptoys.com/cdn/shop/files/POWERUP_Black_Friday_Sale_2024_40_50x.png?v=1732928491)
+[![TORNADO UPDRAFT ADD-ON FOR POWERUP 4.0](//www.poweruptoys.com/cdn/shop/files/4_20ec37fb-a48e-464f-b7ef-879ceb6d4fb3_50x.png?v=1721457935)
 
-![TORNADO UPDRAFT WITH POWERUP 4.0 AIRPLANE](//www.poweruptoys.com/cdn/shop/files/POWERUP_Black_Friday_Sale_2024_40_2000x.png?v=1732928491)
+![TORNADO UPDRAFT ADD-ON FOR POWERUP 4.0](//www.poweruptoys.com/cdn/shop/files/4_20ec37fb-a48e-464f-b7ef-879ceb6d4fb3_2000x.png?v=1721457935)
 
 TORNADO UPDRAFT WITH POWERUP 4.0 AIRPLANE](https://www.poweruptoys.com/products/tornado-updraft-with-powerup-4-0-airplane)
 
@@ -354,27 +354,27 @@ TORNADO UPDRAFT WITH POWERUP 4.0 AIRPLANE](https://www.poweruptoys.com/products/
 
 SHOP ALL PLANES](https://www.poweruptoys.com/collections/planes)
 
-[![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_3_50x.png?v=1733132586)
+[![](//www.poweruptoys.com/cdn/shop/files/kids_4_50x.png?v=1731377039)
 
-![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_3_2000x.png?v=1733132586)
+![](//www.poweruptoys.com/cdn/shop/files/kids_4_2000x.png?v=1731377039)
 
-CYBER WEEK SALE: 25% OFF EVERYTHING](https://www.poweruptoys.com/collections/shop-all-products)
+SHOP HOLIDAY SALE: 25% OFF BUNDLES](https://www.poweruptoys.com/collections/bundles)
 
-* [![POWERUP 4.0 AIRPLANE](//www.poweruptoys.com/cdn/shop/files/POWERUP_Black_Friday_Sale_2024_22_50x.png?v=1732926370)
+* [![POWERUP 4.0 AIRPLANE](//www.poweruptoys.com/cdn/shop/files/5_50x.png?v=1710950017)
     
-    ![POWERUP 4.0 AIRPLANE](//www.poweruptoys.com/cdn/shop/files/POWERUP_Black_Friday_Sale_2024_22_2000x.png?v=1732926370)
+    ![POWERUP 4.0 AIRPLANE](//www.poweruptoys.com/cdn/shop/files/5_2000x.png?v=1710950017)
     
     POWERUP 4.0 AIRPLANE](https://www.poweruptoys.com/products/powerup-4-0)
 
-* [![DRAGON WITH POWERUP 4.0 AIRPLANE](//www.poweruptoys.com/cdn/shop/files/POWERUP_Black_Friday_Sale_2024_4_50x.png?v=1732924178)
+* [![](//www.poweruptoys.com/cdn/shop/files/2_abe80ad5-ff6b-42b6-a835-8efae20cc70c_50x.png?v=1721457882)
     
-    ![DRAGON WITH POWERUP 4.0 AIRPLANE](//www.poweruptoys.com/cdn/shop/files/POWERUP_Black_Friday_Sale_2024_4_2000x.png?v=1732924178)
+    ![](//www.poweruptoys.com/cdn/shop/files/2_abe80ad5-ff6b-42b6-a835-8efae20cc70c_2000x.png?v=1721457882)
     
     DRAGON WITH POWERUP 4.0 AIRPLANE](https://www.poweruptoys.com/products/dragon-with-powerup-4-0-airplane)
 
-* [![TORNADO UPDRAFT WITH POWERUP 4.0 AIRPLANE](//www.poweruptoys.com/cdn/shop/files/POWERUP_Black_Friday_Sale_2024_40_50x.png?v=1732928491)
+* [![TORNADO UPDRAFT ADD-ON FOR POWERUP 4.0](//www.poweruptoys.com/cdn/shop/files/4_20ec37fb-a48e-464f-b7ef-879ceb6d4fb3_50x.png?v=1721457935)
     
-    ![TORNADO UPDRAFT WITH POWERUP 4.0 AIRPLANE](//www.poweruptoys.com/cdn/shop/files/POWERUP_Black_Friday_Sale_2024_40_2000x.png?v=1732928491)
+    ![TORNADO UPDRAFT ADD-ON FOR POWERUP 4.0](//www.poweruptoys.com/cdn/shop/files/4_20ec37fb-a48e-464f-b7ef-879ceb6d4fb3_2000x.png?v=1721457935)
     
     TORNADO UPDRAFT WITH POWERUP 4.0 AIRPLANE](https://www.poweruptoys.com/products/tornado-updraft-with-powerup-4-0-airplane)
 
@@ -384,29 +384,29 @@ CYBER WEEK SALE: 25% OFF EVERYTHING](https://www.poweruptoys.com/collections/sho
     
     SHOP ALL PLANES](https://www.poweruptoys.com/collections/planes)
 
-* [![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_3_50x.png?v=1733132586)
+* [![](//www.poweruptoys.com/cdn/shop/files/kids_4_50x.png?v=1731377039)
     
-    ![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_3_2000x.png?v=1733132586)
+    ![](//www.poweruptoys.com/cdn/shop/files/kids_4_2000x.png?v=1731377039)
     
-    CYBER WEEK SALE: 25% OFF EVERYTHING](https://www.poweruptoys.com/collections/shop-all-products)
+    SHOP HOLIDAY SALE: 25% OFF BUNDLES](https://www.poweruptoys.com/collections/bundles)
 
 BUNDLES
 
-[![POWERUP 4.0 FLIGHT MANUAL BUNDLE](//www.poweruptoys.com/cdn/shop/files/POWERUP_Product_Image_with_Stickers_3_50x.png?v=1732928962)
+[![POWERUP 4.0 FLIGHT MANUAL BUNDLE](//www.poweruptoys.com/cdn/shop/files/POWERUP_ProductImage_1_50x.png?v=1725203285)
 
-![POWERUP 4.0 FLIGHT MANUAL BUNDLE](//www.poweruptoys.com/cdn/shop/files/POWERUP_Product_Image_with_Stickers_3_2000x.png?v=1732928962)
+![POWERUP 4.0 FLIGHT MANUAL BUNDLE](//www.poweruptoys.com/cdn/shop/files/POWERUP_ProductImage_1_2000x.png?v=1725203285)
 
 POWERUP 4.0 FLIGHT MANUAL BUNDLE](https://www.poweruptoys.com/products/powerup-4-0-flight-manual-bundle)
 
-[![POWERUP 4.0 BEGINNER BUNDLE](//www.poweruptoys.com/cdn/shop/files/POWERUP_Black_Friday_Sale_2024_25_50x.png?v=1732926662)
+[![POWERUP 4.0 BEGINNER BUNDLE](//www.poweruptoys.com/cdn/shop/files/powerupmainimagesbundle4.0v1_50x.png?v=1719818066)
 
-![POWERUP 4.0 BEGINNER BUNDLE](//www.poweruptoys.com/cdn/shop/files/POWERUP_Black_Friday_Sale_2024_25_2000x.png?v=1732926662)
+![POWERUP 4.0 BEGINNER BUNDLE](//www.poweruptoys.com/cdn/shop/files/powerupmainimagesbundle4.0v1_2000x.png?v=1719818066)
 
 POWERUP 4.0 BEGINNER BUNDLE](https://www.poweruptoys.com/products/powerup-4-0-beginner-bundle)
 
-[![POWERUP 4.0 ULTIMATE BUNDLE](//www.poweruptoys.com/cdn/shop/files/POWERUP_Black_Friday_Sale_2024_33_50x.png?v=1732927502)
+[![POWERUP 4.0 ULTIMATE BUNDLE](//www.poweruptoys.com/cdn/shop/files/POWERUP_Product_Image_with_Stickers_50x.png?v=1725558277)
 
-![POWERUP 4.0 ULTIMATE BUNDLE](//www.poweruptoys.com/cdn/shop/files/POWERUP_Black_Friday_Sale_2024_33_2000x.png?v=1732927502)
+![POWERUP 4.0 ULTIMATE BUNDLE](//www.poweruptoys.com/cdn/shop/files/POWERUP_Product_Image_with_Stickers_2000x.png?v=1725558277)
 
 POWERUP 4.0 ULTIMATE BUNDLE](https://www.poweruptoys.com/products/powerup-4-0-ultimate-bundle)
 
@@ -416,27 +416,27 @@ POWERUP 4.0 ULTIMATE BUNDLE](https://www.poweruptoys.com/products/powerup-4-0-ul
 
 SHOP ALL BUNDLES](https://www.poweruptoys.com/collections/bundles)
 
-[![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_3_50x.png?v=1733132586)
+[![](//www.poweruptoys.com/cdn/shop/files/kids_4_50x.png?v=1731377039)
 
-![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_3_2000x.png?v=1733132586)
+![](//www.poweruptoys.com/cdn/shop/files/kids_4_2000x.png?v=1731377039)
 
-CYBER WEEK SALE: 25% OFF EVERYTHING](https://www.poweruptoys.com/collections/shop-all-products)
+SHOP HOLIDAY SALE: 25% OFF BUNDLES](https://www.poweruptoys.com/collections/bundles)
 
-* [![POWERUP 4.0 FLIGHT MANUAL BUNDLE](//www.poweruptoys.com/cdn/shop/files/POWERUP_Product_Image_with_Stickers_3_50x.png?v=1732928962)
+* [![POWERUP 4.0 FLIGHT MANUAL BUNDLE](//www.poweruptoys.com/cdn/shop/files/POWERUP_ProductImage_1_50x.png?v=1725203285)
     
-    ![POWERUP 4.0 FLIGHT MANUAL BUNDLE](//www.poweruptoys.com/cdn/shop/files/POWERUP_Product_Image_with_Stickers_3_2000x.png?v=1732928962)
+    ![POWERUP 4.0 FLIGHT MANUAL BUNDLE](//www.poweruptoys.com/cdn/shop/files/POWERUP_ProductImage_1_2000x.png?v=1725203285)
     
     POWERUP 4.0 FLIGHT MANUAL BUNDLE](https://www.poweruptoys.com/products/powerup-4-0-flight-manual-bundle)
 
-* [![POWERUP 4.0 BEGINNER BUNDLE](//www.poweruptoys.com/cdn/shop/files/POWERUP_Black_Friday_Sale_2024_25_50x.png?v=1732926662)
+* [![POWERUP 4.0 BEGINNER BUNDLE](//www.poweruptoys.com/cdn/shop/files/powerupmainimagesbundle4.0v1_50x.png?v=1719818066)
     
-    ![POWERUP 4.0 BEGINNER BUNDLE](//www.poweruptoys.com/cdn/shop/files/POWERUP_Black_Friday_Sale_2024_25_2000x.png?v=1732926662)
+    ![POWERUP 4.0 BEGINNER BUNDLE](//www.poweruptoys.com/cdn/shop/files/powerupmainimagesbundle4.0v1_2000x.png?v=1719818066)
     
     POWERUP 4.0 BEGINNER BUNDLE](https://www.poweruptoys.com/products/powerup-4-0-beginner-bundle)
 
-* [![POWERUP 4.0 ULTIMATE BUNDLE](//www.poweruptoys.com/cdn/shop/files/POWERUP_Black_Friday_Sale_2024_33_50x.png?v=1732927502)
+* [![POWERUP 4.0 ULTIMATE BUNDLE](//www.poweruptoys.com/cdn/shop/files/POWERUP_Product_Image_with_Stickers_50x.png?v=1725558277)
     
-    ![POWERUP 4.0 ULTIMATE BUNDLE](//www.poweruptoys.com/cdn/shop/files/POWERUP_Black_Friday_Sale_2024_33_2000x.png?v=1732927502)
+    ![POWERUP 4.0 ULTIMATE BUNDLE](//www.poweruptoys.com/cdn/shop/files/POWERUP_Product_Image_with_Stickers_2000x.png?v=1725558277)
     
     POWERUP 4.0 ULTIMATE BUNDLE](https://www.poweruptoys.com/products/powerup-4-0-ultimate-bundle)
 
@@ -446,29 +446,29 @@ CYBER WEEK SALE: 25% OFF EVERYTHING](https://www.poweruptoys.com/collections/sho
     
     SHOP ALL BUNDLES](https://www.poweruptoys.com/collections/bundles)
 
-* [![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_3_50x.png?v=1733132586)
+* [![](//www.poweruptoys.com/cdn/shop/files/kids_4_50x.png?v=1731377039)
     
-    ![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_3_2000x.png?v=1733132586)
+    ![](//www.poweruptoys.com/cdn/shop/files/kids_4_2000x.png?v=1731377039)
     
-    CYBER WEEK SALE: 25% OFF EVERYTHING](https://www.poweruptoys.com/collections/shop-all-products)
+    SHOP HOLIDAY SALE: 25% OFF BUNDLES](https://www.poweruptoys.com/collections/bundles)
 
 ACCESSORIES
 
-[![SPARE PARTS KIT FOR POWERUP 4.0](//www.poweruptoys.com/cdn/shop/files/POWERUP_Product_Image_with_Stickers_c0fc1b13-1231-4b53-9bb2-24ac676a48dd_50x.png?v=1732927931)
+[![SPARE PARTS KIT FOR POWERUP 4.0](//www.poweruptoys.com/cdn/shop/files/POWERUP_ProductImage_2_50x.png?v=1710951231)
 
-![SPARE PARTS KIT FOR POWERUP 4.0](//www.poweruptoys.com/cdn/shop/files/POWERUP_Product_Image_with_Stickers_c0fc1b13-1231-4b53-9bb2-24ac676a48dd_2000x.png?v=1732927931)
+![SPARE PARTS KIT FOR POWERUP 4.0](//www.poweruptoys.com/cdn/shop/files/POWERUP_ProductImage_2_2000x.png?v=1710951231)
 
 SPARE PARTS KIT FOR POWERUP 4.0](https://www.poweruptoys.com/products/spare-parts-kit-for-powerup-4-0)
 
-[![THE PAPER AIRPLANE BOOK](//www.poweruptoys.com/cdn/shop/files/POWERUP_Product_Image_with_Stickers_1_50x.png?v=1732928124)
+[![THE PAPER AIRPLANE BOOK](//www.poweruptoys.com/cdn/shop/files/7_50x.png?v=1710950332)
 
-![THE PAPER AIRPLANE BOOK](//www.poweruptoys.com/cdn/shop/files/POWERUP_Product_Image_with_Stickers_1_2000x.png?v=1732928124)
+![THE PAPER AIRPLANE BOOK](//www.poweruptoys.com/cdn/shop/files/7_2000x.png?v=1710950332)
 
 THE PAPER AIRPLANE BOOK](https://www.poweruptoys.com/products/the-paper-airplane-book)
 
-[![ADD-ON INSTALLATION + SPARE PARTS KIT FOR POWERUP 4.0](//www.poweruptoys.com/cdn/shop/files/POWERUP_Black_Friday_Sale_2024_50x.png?v=1732923629)
+[![ADD-ON INSTALLATION + SPARE PARTS KIT FOR POWERUP 4.0](//www.poweruptoys.com/cdn/shop/files/9_50x.png?v=1710951345)
 
-![ADD-ON INSTALLATION + SPARE PARTS KIT FOR POWERUP 4.0](//www.poweruptoys.com/cdn/shop/files/POWERUP_Black_Friday_Sale_2024_2000x.png?v=1732923629)
+![ADD-ON INSTALLATION + SPARE PARTS KIT FOR POWERUP 4.0](//www.poweruptoys.com/cdn/shop/files/9_2000x.png?v=1710951345)
 
 ADD-ON INSTALLATION + SPARE PARTS KIT FOR POWERUP 4.0](https://www.poweruptoys.com/products/add-on-installation-spare-parts-kit-for-powerup-4-0)
 
@@ -478,27 +478,27 @@ ADD-ON INSTALLATION + SPARE PARTS KIT FOR POWERUP 4.0](https://www.poweruptoys.c
 
 SHOP ALL ACCESSORIES](https://www.poweruptoys.com/collections/accessories)
 
-[![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_3_50x.png?v=1733132586)
+[![](//www.poweruptoys.com/cdn/shop/files/kids_4_50x.png?v=1731377039)
 
-![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_3_2000x.png?v=1733132586)
+![](//www.poweruptoys.com/cdn/shop/files/kids_4_2000x.png?v=1731377039)
 
-CYBER WEEK SALE: 25% OFF EVERYTHING](https://www.poweruptoys.com/collections/shop-all-products)
+SHOP HOLIDAY SALE: 25% OFF BUNDLES](https://www.poweruptoys.com/collections/bundles)
 
-* [![SPARE PARTS KIT FOR POWERUP 4.0](//www.poweruptoys.com/cdn/shop/files/POWERUP_Product_Image_with_Stickers_c0fc1b13-1231-4b53-9bb2-24ac676a48dd_50x.png?v=1732927931)
+* [![SPARE PARTS KIT FOR POWERUP 4.0](//www.poweruptoys.com/cdn/shop/files/POWERUP_ProductImage_2_50x.png?v=1710951231)
     
-    ![SPARE PARTS KIT FOR POWERUP 4.0](//www.poweruptoys.com/cdn/shop/files/POWERUP_Product_Image_with_Stickers_c0fc1b13-1231-4b53-9bb2-24ac676a48dd_2000x.png?v=1732927931)
+    ![SPARE PARTS KIT FOR POWERUP 4.0](//www.poweruptoys.com/cdn/shop/files/POWERUP_ProductImage_2_2000x.png?v=1710951231)
     
     SPARE PARTS KIT FOR POWERUP 4.0](https://www.poweruptoys.com/products/spare-parts-kit-for-powerup-4-0)
 
-* [![THE PAPER AIRPLANE BOOK](//www.poweruptoys.com/cdn/shop/files/POWERUP_Product_Image_with_Stickers_1_50x.png?v=1732928124)
+* [![THE PAPER AIRPLANE BOOK](//www.poweruptoys.com/cdn/shop/files/7_50x.png?v=1710950332)
     
-    ![THE PAPER AIRPLANE BOOK](//www.poweruptoys.com/cdn/shop/files/POWERUP_Product_Image_with_Stickers_1_2000x.png?v=1732928124)
+    ![THE PAPER AIRPLANE BOOK](//www.poweruptoys.com/cdn/shop/files/7_2000x.png?v=1710950332)
     
     THE PAPER AIRPLANE BOOK](https://www.poweruptoys.com/products/the-paper-airplane-book)
 
-* [![ADD-ON INSTALLATION + SPARE PARTS KIT FOR POWERUP 4.0](//www.poweruptoys.com/cdn/shop/files/POWERUP_Black_Friday_Sale_2024_50x.png?v=1732923629)
+* [![ADD-ON INSTALLATION + SPARE PARTS KIT FOR POWERUP 4.0](//www.poweruptoys.com/cdn/shop/files/9_50x.png?v=1710951345)
     
-    ![ADD-ON INSTALLATION + SPARE PARTS KIT FOR POWERUP 4.0](//www.poweruptoys.com/cdn/shop/files/POWERUP_Black_Friday_Sale_2024_2000x.png?v=1732923629)
+    ![ADD-ON INSTALLATION + SPARE PARTS KIT FOR POWERUP 4.0](//www.poweruptoys.com/cdn/shop/files/9_2000x.png?v=1710951345)
     
     ADD-ON INSTALLATION + SPARE PARTS KIT FOR POWERUP 4.0](https://www.poweruptoys.com/products/add-on-installation-spare-parts-kit-for-powerup-4-0)
 
@@ -508,29 +508,29 @@ CYBER WEEK SALE: 25% OFF EVERYTHING](https://www.poweruptoys.com/collections/sho
     
     SHOP ALL ACCESSORIES](https://www.poweruptoys.com/collections/accessories)
 
-* [![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_3_50x.png?v=1733132586)
+* [![](//www.poweruptoys.com/cdn/shop/files/kids_4_50x.png?v=1731377039)
     
-    ![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_3_2000x.png?v=1733132586)
+    ![](//www.poweruptoys.com/cdn/shop/files/kids_4_2000x.png?v=1731377039)
     
-    CYBER WEEK SALE: 25% OFF EVERYTHING](https://www.poweruptoys.com/collections/shop-all-products)
+    SHOP HOLIDAY SALE: 25% OFF BUNDLES](https://www.poweruptoys.com/collections/bundles)
 
 EDUCATORS
 
-[![](//www.poweruptoys.com/cdn/shop/files/POWERUP_Black_Friday_Sale_2024_23_50x.png?v=1732926443)
+[![POWERUP 4.0 (4 COUNT)](//www.poweruptoys.com/cdn/shop/products/500-050BBSTEM_1188f460-1f78-400e-9437-00df817a1485_50x.jpg?v=1653514145)
 
-![](//www.poweruptoys.com/cdn/shop/files/POWERUP_Black_Friday_Sale_2024_23_2000x.png?v=1732926443)
+![POWERUP 4.0 (4 COUNT)](//www.poweruptoys.com/cdn/shop/products/500-050BBSTEM_1188f460-1f78-400e-9437-00df817a1485_2000x.jpg?v=1653514145)
 
 POWERUP 4.0 AIRPLANE (4 COUNT)](https://www.poweruptoys.com/products/powerup-4-0-airplane-bundle-4-count)
 
-[![POWERUP 2.0 AIRPLANE (24 COUNT)](//www.poweruptoys.com/cdn/shop/files/POWERUP_Black_Friday_Sale_2024_19_50x.png?v=1732926012)
+[![POWERUP 2.0 AIRPLANE (24 COUNT)](//www.poweruptoys.com/cdn/shop/products/500-002STEM_4f38016b-fd3e-4495-9cff-5fa39580aeb2_50x.jpg?v=1653512945)
 
-![POWERUP 2.0 AIRPLANE (24 COUNT)](//www.poweruptoys.com/cdn/shop/files/POWERUP_Black_Friday_Sale_2024_19_2000x.png?v=1732926012)
+![POWERUP 2.0 AIRPLANE (24 COUNT)](//www.poweruptoys.com/cdn/shop/products/500-002STEM_4f38016b-fd3e-4495-9cff-5fa39580aeb2_2000x.jpg?v=1653512945)
 
 POWERUP 2.0 AIRPLANE (24 COUNT)](https://www.poweruptoys.com/products/powerup-2-0-airplane-24-count)
 
-[![THE PAPER AIRPLANE BOOK (12 COUNT)](//www.poweruptoys.com/cdn/shop/files/POWERUP_Product_Image_with_Stickers_2_50x.png?v=1732928212)
+[![THE PAPER AIRPLANE BOOK (12 COUNT)](//www.poweruptoys.com/cdn/shop/products/500-019STEM_23a7d5c7-8452-43d1-94c3-cd239bc79e60_50x.jpg?v=1653511985)
 
-![THE PAPER AIRPLANE BOOK (12 COUNT)](//www.poweruptoys.com/cdn/shop/files/POWERUP_Product_Image_with_Stickers_2_2000x.png?v=1732928212)
+![THE PAPER AIRPLANE BOOK (12 COUNT)](//www.poweruptoys.com/cdn/shop/products/500-019STEM_23a7d5c7-8452-43d1-94c3-cd239bc79e60_2000x.jpg?v=1653511985)
 
 THE PAPER AIRPLANE BOOK (12 COUNT)](https://www.poweruptoys.com/products/powerup-book-stem-pack-temp)
 
@@ -540,27 +540,27 @@ THE PAPER AIRPLANE BOOK (12 COUNT)](https://www.poweruptoys.com/products/powerup
 
 SHOP MORE FOR EDUCATORS](https://www.poweruptoys.com/collections/powerup-for-educators)
 
-[![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_3_50x.png?v=1733132586)
+[![](//www.poweruptoys.com/cdn/shop/files/kids_4_50x.png?v=1731377039)
 
-![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_3_2000x.png?v=1733132586)
+![](//www.poweruptoys.com/cdn/shop/files/kids_4_2000x.png?v=1731377039)
 
-CYBER WEEK SALE: 25% OFF EVERYTHING](https://www.poweruptoys.com/collections/shop-all-products)
+SHOP HOLIDAY SALE: 25% OFF BUNDLES](https://www.poweruptoys.com/collections/bundles)
 
-* [![](//www.poweruptoys.com/cdn/shop/files/POWERUP_Black_Friday_Sale_2024_23_50x.png?v=1732926443)
+* [![POWERUP 4.0 (4 COUNT)](//www.poweruptoys.com/cdn/shop/products/500-050BBSTEM_1188f460-1f78-400e-9437-00df817a1485_50x.jpg?v=1653514145)
     
-    ![](//www.poweruptoys.com/cdn/shop/files/POWERUP_Black_Friday_Sale_2024_23_2000x.png?v=1732926443)
+    ![POWERUP 4.0 (4 COUNT)](//www.poweruptoys.com/cdn/shop/products/500-050BBSTEM_1188f460-1f78-400e-9437-00df817a1485_2000x.jpg?v=1653514145)
     
     POWERUP 4.0 AIRPLANE (4 COUNT)](https://www.poweruptoys.com/products/powerup-4-0-airplane-bundle-4-count)
 
-* [![POWERUP 2.0 AIRPLANE (24 COUNT)](//www.poweruptoys.com/cdn/shop/files/POWERUP_Black_Friday_Sale_2024_19_50x.png?v=1732926012)
+* [![POWERUP 2.0 AIRPLANE (24 COUNT)](//www.poweruptoys.com/cdn/shop/products/500-002STEM_4f38016b-fd3e-4495-9cff-5fa39580aeb2_50x.jpg?v=1653512945)
     
-    ![POWERUP 2.0 AIRPLANE (24 COUNT)](//www.poweruptoys.com/cdn/shop/files/POWERUP_Black_Friday_Sale_2024_19_2000x.png?v=1732926012)
+    ![POWERUP 2.0 AIRPLANE (24 COUNT)](//www.poweruptoys.com/cdn/shop/products/500-002STEM_4f38016b-fd3e-4495-9cff-5fa39580aeb2_2000x.jpg?v=1653512945)
     
     POWERUP 2.0 AIRPLANE (24 COUNT)](https://www.poweruptoys.com/products/powerup-2-0-airplane-24-count)
 
-* [![THE PAPER AIRPLANE BOOK (12 COUNT)](//www.poweruptoys.com/cdn/shop/files/POWERUP_Product_Image_with_Stickers_2_50x.png?v=1732928212)
+* [![THE PAPER AIRPLANE BOOK (12 COUNT)](//www.poweruptoys.com/cdn/shop/products/500-019STEM_23a7d5c7-8452-43d1-94c3-cd239bc79e60_50x.jpg?v=1653511985)
     
-    ![THE PAPER AIRPLANE BOOK (12 COUNT)](//www.poweruptoys.com/cdn/shop/files/POWERUP_Product_Image_with_Stickers_2_2000x.png?v=1732928212)
+    ![THE PAPER AIRPLANE BOOK (12 COUNT)](//www.poweruptoys.com/cdn/shop/products/500-019STEM_23a7d5c7-8452-43d1-94c3-cd239bc79e60_2000x.jpg?v=1653511985)
     
     THE PAPER AIRPLANE BOOK (12 COUNT)](https://www.poweruptoys.com/products/powerup-book-stem-pack-temp)
 
@@ -570,11 +570,11 @@ CYBER WEEK SALE: 25% OFF EVERYTHING](https://www.poweruptoys.com/collections/sho
     
     SHOP MORE FOR EDUCATORS](https://www.poweruptoys.com/collections/powerup-for-educators)
 
-* [![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_3_50x.png?v=1733132586)
+* [![](//www.poweruptoys.com/cdn/shop/files/kids_4_50x.png?v=1731377039)
     
-    ![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_3_2000x.png?v=1733132586)
+    ![](//www.poweruptoys.com/cdn/shop/files/kids_4_2000x.png?v=1731377039)
     
-    CYBER WEEK SALE: 25% OFF EVERYTHING](https://www.poweruptoys.com/collections/shop-all-products)
+    SHOP HOLIDAY SALE: 25% OFF BUNDLES](https://www.poweruptoys.com/collections/bundles)
 
 Privacy Policy
 ==============
