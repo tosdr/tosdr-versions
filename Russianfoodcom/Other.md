@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_10.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_7.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -146,10 +146,6 @@
 | [Картинки с выставок](https://www.russianfood.com/themes/?theme_id=18) | 4,98 |
 | Репортажи с выставок производителей продуктов питания. Рассказы о продукции известных и еще неизвестных брендов |     |
 
-Сейчас читают
-
-* [Кокосовое безе с шоколадной глазурью](https://www.russianfood.com/recipes/recipe.php?rid=173191)
-
 |     |
 | --- |
 | Поиск рецептов<br>-------------- |
@@ -173,6 +169,34 @@
 
 |     |     |
 | --- | --- |
+| Для прессы<br><br>[Готовим утром просто. Лучшие ЗАВТРАКИ №24-49](https://www.russianfood.com/reading/?post_id=22952) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/657/sm_656079.jpg)](https://www.russianfood.com/reading/?post_id=22952)
+
+Оладьи с творогом, курагой и цедрой. Оладьи с яйцом и зелёным луком. Рулет из лаваша с омлетом и перцем. Пшёнка с луком и картошкой. Молочный кускус с пряностями. Омлет с овощами на пышном лаваше. Блины на соке.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22952)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие завтраки](https://www.russianfood.com/blogs/?id=325261) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22952#comments) | 03.12.24 |     |
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Свежая глава новогодних историй. Лучшие рецепты на Новый год (96)](https://www.russianfood.com/reading/?post_id=22951) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/747/sm_746390.jpg)](https://www.russianfood.com/reading/?post_id=22951)
+
+Гармошка из грудки с грибами и помидорами. Шоколадный рулет с масляным кремом. Салат со свёклой и апельсином. Тефтели с кукурузой. Скумбрия под шубкой из грибов и овощей.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22951)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты на Новый год](https://www.russianfood.com/blogs/?id=338420) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22951#comments) | 03.12.24 |     |
+
+|     |     |
+| --- | --- |
 | Для прессы<br><br>[И просто, и вкусно. Лучшие рецепты ЗАПЕКАНОК (60)](https://www.russianfood.com/reading/?post_id=22950) |     |
 
 [![](//img1.russianfood.com/dycontent/images_upl/703/sm_702887.jpg)](https://www.russianfood.com/reading/?post_id=22950)
@@ -183,7 +207,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22950#comments) | 03.12.24 |     |
+|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22950#comments) | 03.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -211,7 +235,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174625#comments) | 02.12.24 |     |
+|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174625#comments) | 02.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -253,7 +277,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [ZNAIKA](https://www.russianfood.com/blogs/?id=12414) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174611#comments) | 02.12.24 |     |
+|     | [ZNAIKA](https://www.russianfood.com/blogs/?id=12414) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174611#comments) | 02.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -353,34 +377,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Лучшие видео рецепты](https://www.russianfood.com/blogs/?id=394188) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22943#comments) | 01.12.24 |     |
 
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Красная, белая, вкусная. ФАСОЛЬ по-необычному (21)](https://www.russianfood.com/reading/?post_id=22942) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/488/sm_487535.jpg)](https://www.russianfood.com/reading/?post_id=22942)
-
-Индейка с овощами и фасолью. Лобио из консервированной фасоли. Картофель с фасолью и маринованными огурцами. Картофель со свининой и фасолью.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22942)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Обычное по-необычному](https://www.russianfood.com/blogs/?id=325689) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22942#comments) | 30.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Сладкая и "хлебосольная". Лучшая ВЫПЕЧКА №24-48](https://www.russianfood.com/reading/?post_id=22941) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/753/sm_752851.jpg)](https://www.russianfood.com/reading/?post_id=22941)
-
-Сливовый тёртый пирог. Яблочный пирог на молоке. Дрожжевая вертута с луком и зеленью. Ленивые манты. Бездрожжевые мини-синнабоны. Творожное печенье "Поросята". Заливной пирог с брынзой, зеленью и яйцами.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22941)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшая выпечка](https://www.russianfood.com/blogs/?id=327534) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22941#comments) | 30.11.24 |     |
-
 |     |
 | --- |
 | ← Предыдущая \| [Следующая →](https://www.russianfood.com/?page=2) |
@@ -452,8 +448,8 @@
 
 |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/757/alt1_756154.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174625) | [![](//img1.russianfood.com/dycontent/images_upl/749/alt1_748703.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174565) | [![](//img1.russianfood.com/dycontent/images_upl/749/alt1_748664.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174576) | [![](//img1.russianfood.com/dycontent/images_upl/756/alt1_755699.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174588) | [![](//img1.russianfood.com/dycontent/images_upl/747/alt1_746516.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174611) | [![](//img1.russianfood.com/dycontent/images_upl/758/alt1_757183.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175020) |
-| [Бутерброды "Змейки" с намазкой из шпината и сыра](https://www.russianfood.com/recipes/recipe.php?rid=174625) | [Рулетики из сельди, с плавленым сыром и солёными огурцами](https://www.russianfood.com/recipes/recipe.php?rid=174565) | [Хумус из фасоли](https://www.russianfood.com/recipes/recipe.php?rid=174576) | [Салат "Змея" с курицей, плавленым сыром и яблоками](https://www.russianfood.com/recipes/recipe.php?rid=174588) | [Грушевый пирог с заварным кремом](https://www.russianfood.com/recipes/recipe.php?rid=174611) | [Рулет "Рафаэлло" с кокосом и миндалем](https://www.russianfood.com/recipes/recipe.php?rid=175020) |
+| [![](//img1.russianfood.com/dycontent/images_upl/747/alt1_746516.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174611) | [![](//img1.russianfood.com/dycontent/images_upl/758/alt1_757183.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175020) | [![](//img1.russianfood.com/dycontent/images_upl/749/alt1_748703.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174565) | [![](//img1.russianfood.com/dycontent/images_upl/757/alt1_756154.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174625) | [![](//img1.russianfood.com/dycontent/images_upl/756/alt1_755699.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174588) | [![](//img1.russianfood.com/dycontent/images_upl/749/alt1_748664.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174576) |
+| [Грушевый пирог с заварным кремом](https://www.russianfood.com/recipes/recipe.php?rid=174611) | [Рулет "Рафаэлло" с кокосом и миндалем](https://www.russianfood.com/recipes/recipe.php?rid=175020) | [Рулетики из сельди, с плавленым сыром и солёными огурцами](https://www.russianfood.com/recipes/recipe.php?rid=174565) | [Бутерброды "Змейки" с намазкой из шпината и сыра](https://www.russianfood.com/recipes/recipe.php?rid=174625) | [Салат "Змея" с курицей, плавленым сыром и яблоками](https://www.russianfood.com/recipes/recipe.php?rid=174588) | [Хумус из фасоли](https://www.russianfood.com/recipes/recipe.php?rid=174576) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -470,4 +466,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(91)
+(163)
