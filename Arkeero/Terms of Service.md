@@ -92,7 +92,7 @@ Strawpoll
 
 Fanta
 
-![Fanta Arkeero](css/formats/Fanta/frame.png) 
+![Fanta Arkeero](css/formats/Fanta/frame_black.png) 
 
 Inter-Act
 
