@@ -21,7 +21,6 @@
     * [Our Story](https://www.goldwaterinstitute.org/about/)
     * [Our Team](https://www.goldwaterinstitute.org/about/our-team/)
 * [Issues](#)
-    * [2024 Arizona Ballot](https://www.goldwaterinstitute.org/goldwaters-know-your-2024-arizona-ballot/)
     * [Education](https://www.goldwaterinstitute.org/issues/education/)
     * [Healthcare](https://www.goldwaterinstitute.org/issues/healthcare/)
     * [Jobs & Economy](https://www.goldwaterinstitute.org/issues/jobs-economy/)
@@ -143,7 +142,7 @@ Email Address(Required)
 
 **Enter Your Email Address**
 
-Subscribe        
+Subscribe         
 
 Δ
 
