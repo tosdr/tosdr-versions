@@ -19,7 +19,7 @@
 Privacy policy
 ==============
 
-Effective Date: October 1st, 2024
+Effective Date: December 3rd, 2024
 
 Below we provide you with an overview of what data we collect for what purpose and how we ensure the protection of the data [in short](#short) and [in a more detailed form](#detailed).
 
@@ -127,7 +127,7 @@ More Detailed Information
     
     When contacting us via email, the User’s details are stored for the purpose of processing the enquiry and, if applicable, follow-up questions based on your consent based on the legal basis of Art. 6 (1) a. GDPR or fulfilling your request based on Art. 6 (1) b. GDPR.
     
-    **Use of Zendesk:** The mail provider **"Zendesk"** by Zendesk, Inc., MAP. 989 Market St San Francisco, CA 94103, United States receives and processes on our behalf the data necessary to manage client inquiries and emails. For more information refer to [https://www.zendesk.com/company/agreements-and-terms/privacy-notice/](https://www.zendesk.com/company/agreements-and-terms/privacy-notice/).
+    **Use of Pylon:** The user support system **"Pylon"** by Pylon Labs, Inc., 188 King Street - #502 San Francisco, CA 94107 United States receives and processes on our behalf the data necessary to manage client inquiries and emails. For more information refer to [https://usepylon.com/privacy](https://usepylon.com/privacy).
     
     ### Emails and Newsletters
     
@@ -170,9 +170,9 @@ More Detailed Information
     
     We use Salesforce, provided by Salesforce, Inc. as our Customer Relationship Management System, which is also integrated with the contact forms on this website. The information stored in this system includes contact data such as your name, email or phone number and associated organisation (where applicable). You can also find more information in Salesforce's privacy policy: [https://www.salesforce.com/eu/company/privacy/full\_privacy/](https://www.salesforce.com/eu/company/privacy/full_privacy/)
     
-    ### Zendesk
+    ### Pylon
     
-    We use the services by Zendesk, Inc. for managing client inquiries and emails. For details on Zendesk please refer to the [respective section above](#zendesk).
+    We use the services by Pylon Labs, Inc.. for managing client inquiries and emails. For details on Pylon please refer to the [respective section above](#pylon).
     
     ### Customer.io
     
