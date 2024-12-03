@@ -30,14 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/82fda16a-3f10-4f87-b5d6-6b999306263a/20241203T015930/82fda16a-3f10-4f87-b5d6-6b999306263a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/82fda16a-3f10-4f87-b5d6-6b999306263a/20241203T015930/82fda16a-3f10-4f87-b5d6-6b999306263a_360x203.jpg)](https://www.king5.com/article/news/education/judge-rules-no-recall-petition-sps-board-president/281-039f9019-590b-4bf0-b311-743d13b7b210)
+    *  [![](https://media.king5.com/assets/KING/images/e1f6a3d1-4607-436a-b7b8-382fda23fb5d/20241203T061752/e1f6a3d1-4607-436a-b7b8-382fda23fb5d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e1f6a3d1-4607-436a-b7b8-382fda23fb5d/20241203T061752/e1f6a3d1-4607-436a-b7b8-382fda23fb5d_360x203.jpg)](https://www.king5.com/article/news/local/wsp-arrests-multiple-crashes-involving-impaired-drivers-sunday/281-e919b606-65e0-4bba-ba0d-e079c14b3175)
         
-        #### [Judge rules no recall petition for SPS board president](https://www.king5.com/article/news/education/judge-rules-no-recall-petition-sps-board-president/281-039f9019-590b-4bf0-b311-743d13b7b210) [![](https://media.king5.com/assets/KING/images/82fda16a-3f10-4f87-b5d6-6b999306263a/20241203T015930/82fda16a-3f10-4f87-b5d6-6b999306263a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/82fda16a-3f10-4f87-b5d6-6b999306263a/20241203T015930/82fda16a-3f10-4f87-b5d6-6b999306263a_360x203.jpg)](https://www.king5.com/article/news/education/judge-rules-no-recall-petition-sps-board-president/281-039f9019-590b-4bf0-b311-743d13b7b210)
+        #### ['These are preventable': Arrests made in multiple crashes involving impaired drivers Sunday](https://www.king5.com/article/news/local/wsp-arrests-multiple-crashes-involving-impaired-drivers-sunday/281-e919b606-65e0-4bba-ba0d-e079c14b3175)
         
-        #### [King County judge rules against recall petition for Seattle School Board President Liza Rankin](https://www.king5.com/article/news/education/judge-rules-no-recall-petition-sps-board-president/281-039f9019-590b-4bf0-b311-743d13b7b210)
-    *  [![](https://media.king5.com/assets/KING/images/bf726c23-957f-469d-99a9-e3eb9bb25388/20241203T014333/bf726c23-957f-469d-99a9-e3eb9bb25388_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bf726c23-957f-469d-99a9-e3eb9bb25388/20241203T014333/bf726c23-957f-469d-99a9-e3eb9bb25388_360x203.jpg)](https://www.king5.com/article/news/local/three-years-later-community-keeps-looking-leads-in-oakley-carlson-case/281-cb25efdf-b63d-4cfb-afde-db6cd134aedb)
+    *  [![](https://media.king5.com/assets/KING/images/5490d74e-ff74-485d-ad10-1c2e0fd4f709/5490d74e-ff74-485d-ad10-1c2e0fd4f709_16x9.jpeg) ![](https://media.king5.com/assets/KING/images/5490d74e-ff74-485d-ad10-1c2e0fd4f709/5490d74e-ff74-485d-ad10-1c2e0fd4f709_360x203.jpeg)](https://www.king5.com/article/news/crime/man-arrested-allegedly-stabbing-wife-to-death-bellevue-senior-living-facility/281-18614f42-3ae1-4248-a694-d823902d2e22)
         
-        #### [Search continues three years after Oakley Carlson's disappearance](https://www.king5.com/article/news/local/three-years-later-community-keeps-looking-leads-in-oakley-carlson-case/281-cb25efdf-b63d-4cfb-afde-db6cd134aedb)
+        #### [Man arrested for allegedly stabbing wife to death in Bellevue senior living facility](https://www.king5.com/article/news/crime/man-arrested-allegedly-stabbing-wife-to-death-bellevue-senior-living-facility/281-18614f42-3ae1-4248-a694-d823902d2e22)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -95,7 +94,7 @@ Navigation
 
 Seattle, WA »
 
-39°
+38°
 
 ![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
