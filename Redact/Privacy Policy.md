@@ -1,11 +1,3 @@
-![mobile preview](/images/svgs/exit_banner.svg)[![mobile preview](/images/svgs/clock.svg)
-
-Expires in 11:51:30
-
-25% OFF
-
-Black Friday Sale. Get the deal](https://redact.dev/blackfriday)
-
 [](https://redact.dev/)
 
 Services 
