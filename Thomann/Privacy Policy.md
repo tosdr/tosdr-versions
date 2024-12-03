@@ -14,8 +14,8 @@
 
 search  
 
+* [Repair Service](https://www.thomannmusic.com/helpdesk_repair.html)
 * [3-Year Thomann Warranty](https://www.thomannmusic.com/helpdesk_warranty.html)
-* [Satisfaction Guarantee](https://www.thomannmusic.com/helpdesk_satisfaction.html)
 
 en · $
 
@@ -762,7 +762,7 @@ Payment can be made safely and securely with PayPal, Amazon Pay, Credit Card or 
 * [Classified Ads](https://www.thomann.de/intl/classified.html)
 * [Whistleblower system](https://www.thomann.de/intl/compinfo_compliance.html)
 
- [![Our app in the App Store.](https://www.thomann.de/thumb//convert/pics/images/footer/download-app-store.svg)](https://apps.apple.com/us/app/id1035256782)[![Our app on Google Play.](https://www.thomann.de/thumb//convert/pics/images/footer/download-google-play.svg)](https://play.google.com/store/apps/details?id=de.thomann)
+ [![Our app in the App Store.](https://thumbs.static-thomann.de/thumb//convert/pics/images/footer/download-app-store.svg)](https://apps.apple.com/us/app/id1035256782)[![Our app on Google Play.](https://thumbs.static-thomann.de/thumb//convert/pics/images/footer/download-google-play.svg)](https://play.google.com/store/apps/details?id=de.thomann)
 
 © 1996–2024 Thomann GmbH.
 
