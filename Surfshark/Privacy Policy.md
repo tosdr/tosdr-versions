@@ -1,22 +1,6 @@
 [Skip to content](#main)
 
-[Grab Cyber Monday deal here
-
-Deal expires in
-
-00
-
-:
-
-00
-
-:
-
-00
-
-:
-
-00](https://surfshark.com/pricing)
+[Grab Winter Deal here](https://surfshark.com/pricing)
 
 [](https://surfshark.com/ "Surfshark")
 
