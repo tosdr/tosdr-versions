@@ -110,11 +110,11 @@ Recent Stories
 
 Monitor Daily
 
-November 27, 2024
+December 02, 2024
 
-A harvest season in any season
+When states and the federal government disagree
 
-Today, Sara Miller Llana writes about the earliest Canadian harvest traditions, which evolved into Thanksgiving. Melanie Stetson Freeman’s photos add a sumptuous touch. There is an Order of Good Cheer, beaver tails seared over a roaring hearth, and the hush of crickets going silent at the start of autumn.But under it all is Tpi’tnewey. For the Mi’kmaq, an Indigenous people in eastern Canada, Tpi’tnewey is intertwined with the harvest season. It is the idea of giving generously, of doing good. This comes from an understanding of the interconnection of all peoples, Sara writes, and so beautifully points to the greater harvest that comes in any season when humility and unselfishness are in abundance.
+American federalism can be a sweeping political science lesson. That’s Francine Kiefer’s story today about California and the Trump administration preparing to do legal battle over whose vision will hold sway in the state. A fascinating graphic by Jacob Turcotte shows states holding their own against presidential power.But American federalism can also be an intimate question of individual rights. That’s Henry Gass’ story today about a landmark Supreme Court case on transgender rights. Who determines what’s best for a child – the state, the federal government, or parents?The two stories offer a portrait of the forces shaping American federalism.
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### Syrian civil war: What rebels’ lightning gains say about Assad regime](https://www.csmonitor.com/World/Middle-East/2024/1202/syria-rebels-assad-aleppo-hezbollah-russia "Syrian civil war: What rebels’ lightning gains say about Assad regime")
+
 [### Supreme Court will hear largest transgender rights case in US history](https://www.csmonitor.com/USA/Justice/2024/1202/supreme-court-transgender-rights-us-v-skrmetti "Supreme Court will hear largest transgender rights case in US history")
 
 [### President Biden pardons Hunter Biden, sparing him a possible prison sentence](https://www.csmonitor.com/USA/2024/1202/Hunter-Biden-presidential-pardon-tax-evasion-guns-drugs "President Biden pardons Hunter Biden, sparing him a possible prison sentence")
-
-[### A disputed election and pause on EU accession has led Georgian citizens to the brink](https://www.csmonitor.com/USA/2024/1202/Georgia-Protests-EU-Accession-Election-Russia-Far-right "A disputed election and pause on EU accession has led Georgian citizens to the brink")
 
 * * *
 
