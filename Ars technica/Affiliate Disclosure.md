@@ -87,13 +87,13 @@ Most Read
     
     1. [Player 456 is back for revenge in Squid Game S2 trailer](https://arstechnica.com/culture/2024/11/player-456-is-back-for-revenge-in-squid-game-s2-trailer/)
     
-2. 2. [Falcon 9 reaches a flight rate 30 times higher than shuttle at 1/100th the cost](https://arstechnica.com/space/2024/12/spacex-has-set-all-kinds-of-records-with-its-falcon-9-rocket-this-year/)
+2. 2. [Certain names make ChatGPT grind to a halt, and we know why](https://arstechnica.com/information-technology/2024/12/certain-names-make-chatgpt-grind-to-a-halt-and-we-know-why/)
     
-3. 3. [Cyber Monday cybers into view, and we’ve got all the cyber deals](https://arstechnica.com/shopping/2024/11/its-black-friday-and-here-are-the-best-shopping-deals-we-could-find/)
+3. 3. [Falcon 9 reaches a flight rate 30 times higher than shuttle at 1/100th the cost](https://arstechnica.com/space/2024/12/spacex-has-set-all-kinds-of-records-with-its-falcon-9-rocket-this-year/)
     
 4. 4. [Company claims 1,000 percent price hike drove it from VMware to open source rival](https://arstechnica.com/information-technology/2024/12/company-claims-1000-percent-price-hike-drove-it-from-vmware-to-open-source-rival/)
     
-5. 5. [Vintage digicams aren’t just a fad. They’re an artistic statement.](https://arstechnica.com/gadgets/2024/11/vintage-digicams-arent-just-a-fad-theyre-an-artistic-statement/)
+5. 5. [Cyber Monday cybers into view, and we’ve got all the cyber deals](https://arstechnica.com/shopping/2024/11/its-black-friday-and-here-are-the-best-shopping-deals-we-could-find/)
     
 
 Customize
