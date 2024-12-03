@@ -293,7 +293,7 @@ FR
         
         up to 12% Cash Back](https://www.rakuten.ca/clearly)[Estee Lauder Canada
         
-        3% Cash Back](https://www.rakuten.ca/esteelauder)
+        15% Cash Back](https://www.rakuten.ca/esteelauder)
         
         Featured Shops & Deals
         
@@ -519,17 +519,17 @@ FR
         
         Recommended Stores
         
-        [Airalo
+        [TravelPro
         
-        4% Cash Back](https://www.rakuten.ca/airalo)[TravelPro
+        12% Cash Back](https://www.rakuten.ca/travel-pro)[Flight Centre
         
-        12% Cash Back](https://www.rakuten.ca/travel-pro)[Hotels.com
+        up to 6% Cash Back](https://www.rakuten.ca/flight-centre)[Vrbo
+        
+        3% Cash Back](https://www.rakuten.ca/vrbo)[Hotels.com
         
         up to 15% Cash Back](https://www.rakuten.ca/hotels-com)[Bikini Village
         
-        12% Cash Back](https://www.rakuten.ca/bikini-village)[Flight Centre
-        
-        up to 6% Cash Back](https://www.rakuten.ca/flight-centre)
+        12% Cash Back](https://www.rakuten.ca/bikini-village)
         
         Featured Shops & Deals
         
@@ -690,7 +690,13 @@ All rights reserved.
 
  ![](//static.rakuten.ca/static/img/footer_close.svg) ![](//static.rakuten.ca/static/img/footer_open.svg)
 
-[![](//static.rakuten.ca/img/campaign_entity/303981/en_stickyfooter-1170x60_gift_card_shop_.png)](https://www.rakuten.ca/giftcardshop)
+[![Earn 12% Cash Back from Rakuten.ca with Dyson Coupons, Promo Codes](//static.rakuten.ca/img/campaign_entity/304825/en-stickyfooter-1170x60_dyson-2.png "Dyson Coupons, Promo Codes")
+
+was 2.5%, now
+
+12% Cash Back
+
+Shop Now](https://www.rakuten.ca/ticket/campaign/sticky-footer-base-1/store/dyson?sourceName=stickyfooter1)
 
 × ![Rakuten White Logo](//static.rakuten.ca/static/images/logo/logo_Rakuten_white.svg)
 
