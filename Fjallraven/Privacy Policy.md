@@ -129,14 +129,14 @@ Asia
         * [Other Accessories](https://www.fjallraven.com/us/en-us/men/accessories/other-accessories/)
         
     
-    ![](/4ade4e/globalassets/fjallraven/us/homepage/2024/nov/bfcm/bfcm_nav-m-613x360-1.png)
+    ![](/4a4a66/globalassets/fjallraven/us/homepage/2024/september-24/midlayers-tertiary-1600x1200-min-min.png)
     
-    [](https://www.fjallraven.com/us/en-us/black-friday-collection/?Gender=Men%E2%80%99s)
+    [](https://www.fjallraven.com/us/en-us/men/new-arrivals/)
     
-    BLACK FRIDAY SALE
-    -----------------
+    NEW ARRIVALS
+    ------------
     
-    ### UP TO 30% OFF SELECT STYLES
+    ### FALL/WINTER 2024
     
     ![](/4a4c15/globalassets/fjallraven/us/homepage/2024/september-24/extra/nav_tg_m-460x230.png)
     
@@ -204,14 +204,14 @@ Asia
         * [Other Accessories](https://www.fjallraven.com/us/en-us/women/accessories/other-accessories/)
         
     
-    ![](/4ade4e/globalassets/fjallraven/us/homepage/2024/nov/bfcm/bfcm_nav-w-613x360-1.png)
+    ![](/4a4a93/globalassets/fjallraven/us/homepage/2024/september-24/fw24-na_hero_1920x800.png)
     
-    [](https://www.fjallraven.com/us/en-us/black-friday-collection/?Gender=Women%E2%80%99s)
+    [](https://www.fjallraven.com/us/en-us/women/new-arrivals/)
     
-    BLACK FRIDAY SALE
-    -----------------
+    NEW ARRIVALS
+    ------------
     
-    ### UP TO 30% OFF SELECT STYLES
+    ### FALL/WINTER 2024
     
     ![](/4a4c15/globalassets/fjallraven/us/homepage/2024/september-24/extra/nav_tg_w-460x230.png)
     
@@ -263,14 +263,14 @@ Asia
         * [Sleeping Bags](https://www.fjallraven.com/us/en-us/bags-gear/tents-sleeping-bags/sleeping-bags/)
         
     
-    ![](/4ade44/globalassets/fjallraven/us/homepage/2024/nov/bfcm/bags-hero-mobile828x870-recovered.png)
+    ![](/4a4a68/globalassets/fjallraven/us/homepage/2024/september-24/fjr465-009_fjallraven_packs_ecomm_828x870_allsizes-mobile_all-vignette_v1.0_mj_img-only.jpg)
     
-    [](https://www.fjallraven.com/us/en-us/black-friday-collection/)
+    [](https://www.fjallraven.com/us/en-us/bags-gear/)
     
-    BLACK FRIDAY SALE
-    -----------------
+    BAGS & GEAR
+    -----------
     
-    ### UP TO 30% OFF SELECT STYLES
+    ### EXPLORE
     
 * Who We Are
     
@@ -304,7 +304,6 @@ Asia
     
     ### LEARN MORE
     
-* [Sale](https://www.fjallraven.com/eu/en-us/black-friday-collection/)
 
 * * Men
         
@@ -482,7 +481,6 @@ Asia
             * [Fjällräven Polar](https://experience.fjallraven.com/polar/2025)
             
         
-    * [Sale](https://www.fjallraven.com/eu/en-us/black-friday-collection/)
 * * Customer Service
         
         * [Luminos.Storefront.Web.Features.Blocks.SideNavigationBlock.Presentation.ViewModels.SideNavigationItem](https://www.fjallraven.com/us/en-us/customer-service/)
@@ -538,8 +536,6 @@ Asia
         Pre-Loved](https://preloved.fjallraven.com/?utm_source=fjallraven&utm_medium=referral&utm_campaign=homepage)
     * [Store Locator](https://www.fjallraven.com/us/en-us/store-locator/)
     * [My account](https://www.fjallraven.com/us/en-us/my-account/login/)
-
-[**Last Chance! | Up To 30% Off Select Styles**](https://www.fjallraven.com/us/en-us/black-friday-collection/)
 
 [](javascript:void(0))[Our Heritage](javascript:void(0)) ![Man with backpack](/4a5a97/contentassets/f6bd9e7070854e8e8bc7466993bb994a/men_with_backpack.jpg)
 
@@ -849,7 +845,7 @@ Discover
 Discover
 
 * [Fjällräven Experience](https://experience.fjallraven.com/us/en-us)
-* [Fjällräven Polar](https://experience.fjallraven.com/polar/2025?id=29c6ce10-d6c0-4d1f-bf6d-310ec5c234ad)
+* [Fjällräven Polar](https://experience.fjallraven.com/polar/2025?id=85db9d27-bcef-4497-9a27-765b14fea8c5)
 * [Fjällräven Classic](https://classic.fjallraven.com/)
 * [Our Community](https://www.fjallraven.com/us/en-us/our-community/)
 * Do Not Sell or Share My Personal Information
