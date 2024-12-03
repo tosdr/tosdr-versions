@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/12/packaging-margo-me-feature.jpg)
+
+[](https://theinspirationgrid.com/margome-branding-by-studio-unbound/)
+
+### Margo&Me Branding by Studio Unbound
+
+![](https://inspgr.id/app/uploads/2024/12/art-bert-willemsen-feature.jpg)
+
+[](https://theinspirationgrid.com/cinematic-sci-fi-art-by-bert-willemsen/)
+
+### Cinematic Sci-Fi Art by Bert Willemsen
+
 ![](https://inspgr.id/app/uploads/2024/12/art-rita-quattrocchi-feature.jpg)
 
 [](https://theinspirationgrid.com/mixed-media-paintings-by-rita-quattrocchi/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/pouring-stones-abstract-digital-art-by-andrea-arice/)
 
 ### Pouring Stones: Abstract Digital Art by Andrea Arice
-
-![](https://inspgr.id/app/uploads/2024/11/branding-millers-quay-feature.jpg)
-
-[](https://theinspirationgrid.com/millers-quay-branding-by-smiling-wolf/)
-
-### Millers Quay Branding by Smiling Wolf
-
-![](https://inspgr.id/app/uploads/2024/11/art-jim-naughten-feature.jpg)
-
-[](https://theinspirationgrid.com/biophilia-ethereal-animal-portraits-by-jim-naughten/)
-
-### Biophilia: Ethereal Animal Portraits by Jim Naughten
 
 Awesome products for creatives
 ------------------------------
