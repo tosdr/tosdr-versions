@@ -345,11 +345,11 @@ Solargraf Terms of Use
 
 [Belgium (French)](https://enphase.com/legal/solargraf-terms-belgium-french)
 
+[France](https://enphase.com/legal/solargraf-terms-france)
+
 [Netherlands](https://enphase.com/legal/solargraf-terms-netherlands)
 
 [Germany](https://enphase.com/legal/germany)
-
-[France](https://enphase.com/legal/france)
 
 [Belgium (Dutch)](https://enphase.com/legal/solargraf-terms-belgium-dutch)
 
@@ -509,10 +509,11 @@ Your session expired. Please login again to continue to purchase.
     * [Communication](https://enphase.com/installers/communication)
     * [System builder](https://enphase.com/installers/systems)
     * [Microinverters](https://enphase.com/installers/microinverters)
+    * [EV chargers](https://enphase.com/installers/ev-chargers)
     * [Accessories](https://enphase.com/installers/accessories)
     * [Apps](https://enphase.com/installers/apps)
     * [Documentation](https://enphase.com/installers/resources/documentation)
-    * [Training](https://enphase.com/installers/training)
+    * [Training](https://enphase.com/installers/training-and-certifications)
     * [Resources](https://enphase.com/installers/resources)
     * [O&M Marketplace](https://enphase.com/installers/om-marketplace)
     * [Leads Program](https://start.enphase.com/appointments-program-signup)
