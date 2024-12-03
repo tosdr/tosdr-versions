@@ -2,9 +2,9 @@
 
 [](https://www.soapboxsoaps.com/pages/soapbox-gift-guide)
 
-BFCM DEALS: SAVE UP TO 30%
+CYBER WEEK DEALS: SAVE UP TO 30%
 
-BFCM DEALS: SAVE UP TO 30%
+CYBER WEEK DEALS: SAVE UP TO 30%
 
 Menu icon Menu
 
@@ -234,6 +234,8 @@ Close icon
 Chevron down icon Chevron down icon
 
        
+
+     
 
       
 
