@@ -8,7 +8,7 @@ Toggle navigation [WinningPrizeSearch.com](http://www.winningprizesearch.com/)
 * [Register](http://www.winningprizesearch.com/registration_page.php)
 * [Sign In](http://www.winningprizesearch.com/sign-in.php)
 
-December 2nd, 2024
+December 3rd, 2024
 
 [Submit Sweepstakes / Contest](http://www.winningprizesearch.com/submit/submitSweepstakes.php)
 
