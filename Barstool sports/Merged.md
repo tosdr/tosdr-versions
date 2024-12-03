@@ -142,11 +142,11 @@
 [My Feed!My Feed](https://www.barstoolsports.com/favorites)[App](https://www.barstoolsports.com/download)
 
 * Trending Topics
+* [Rundown](https://www.barstoolsports.com/video/3532812/dave-portnoy-rips-ohio-state-to-shreds-barstool-rundown-december-2nd-2024)
+* [Stella Blue Coffee](https://stellabluecoffee.com/)
+* [Barstool Store Best Sellers](https://store.barstoolsports.com/collections/best-sellers-page)
 * [Barstool Store NEW ARRIVALS](https://store.barstoolsports.com/collections/new-arrivals)
 * [Barstool Golf Collection](https://store.barstoolsports.com/collections/golf)
-* [Barstool Outdoors Collection](https://store.barstoolsports.com/collections/all-brands?sort_by=created-descending&filter.p.vendor=Barstool+Outdoors)
-* [Barstool Store Best Sellers](https://store.barstoolsports.com/collections/best-sellers-page)
-* [Stella Blue Coffee](https://stellabluecoffee.com/)
 
 Privacy Policy
 ==============
