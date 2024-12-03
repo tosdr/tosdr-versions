@@ -89,17 +89,17 @@ Get 1 LB of our newest Smash Burger Blend along with 2 packs of Dilly Garlic Pic
     
     See Details](https://porterroad.com/products/gift-card-1)
     
-    [### Teres Major
+    [### 1/3# Burger Patties
     
     Dry Aged
     
-    $30 ~ $40/LB
+    $13 $13/LB
     
     You can prepare this by cooking
     
     ![on the grill](//porterroad.com/cdn/shop/t/145/assets/grill.svg?v=152896960878670572781695148406)![in a skillet](//porterroad.com/cdn/shop/t/145/assets/skillet.svg?v=108406217759563483821695148445)
     
-    Add to cart](https://porterroad.com/products/teres-major)
+    Add to cart](https://porterroad.com/products/1-3-burger-patties)
     
 * [Log in](https://porterroad.com/account/login)
 * ![cart icon](//porterroad.com/cdn/shop/t/145/assets/icon-cart.svg?v=170543295033461004641695148410)
