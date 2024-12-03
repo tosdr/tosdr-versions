@@ -1,11 +1,5 @@
 [Skip to main content](#main)
 
-[![Nextcloud Enterprise](https://nextcloud.com/c/uploads/2024/07/Nextcloud_Enterprise.png)](https://nextcloud.com/enterprise-day-2024-france/ "Enterprise Day 2024 France")
-
-[Nextcloud **Enterprise Day Paris**](https://nextcloud.com/enterprise-day-2024-france/ "Enterprise Day 2024 France")
-
-[Register now](https://nextcloud.com/enterprise-day-2024-france/ "Enterprise Day 2024 France")
-
 [![Nextcloud Hub 9 is here!
 ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
