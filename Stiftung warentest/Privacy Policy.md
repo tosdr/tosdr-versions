@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Verpackungs­ärger: Kærgården von Arla](https://www.test.de/Verpackungsaerger-Krgrden-von-Arla-6055804-0/ "Verpackungsärger - Kærgården von Arla")
-* [Voll­korn­reis im Schad­stoff-Check: Oft voll gut](https://www.test.de/Vollkornreis-im-Schadstoff-Check-Oft-voll-gut-6122435-0/ "Vollkornreis im Schadstoff-Check - Oft voll gut")
-* [Crowdgrowing: Fest­nahme wegen Anla­gebetrug mit Cannabis](https://www.test.de/Crowdgrowing-Festnahme-wegen-Anlagebetrug-mit-Cannabis-6032567-0/ "Crowdgrowing - Festnahme wegen Anlagebetrug mit Cannabis")
-* [Warn­liste: Verein empfahl riskante Beteiligung](https://www.test.de/Warnliste-Verein-empfahl-riskante-Beteiligung-5943770-0/ "Warnliste - Verein empfahl riskante Beteiligung")
-* [Krypto-Währungen: In vier Schritten Krypto-Broker einrichten](https://www.test.de/Krypto-Waehrungen-Krypto-Broker-einrichten-in-vier-Schritten-6159811-0/ "Krypto-Währungen - In vier Schritten Krypto-Broker einrichten")
-* [Hauts­cree­ning-Apps im Test: Haut­krebs per App erkennen](https://www.test.de/Hautscreening-Apps-im-Test-5944602-0/ "Hautscreening-Apps im Test - Hautkrebs per App erkennen")
+* [Donuts im Test: Wo es die besten Donuts gibt](https://www.test.de/donuts-im-test-5952659-0/ "Donuts im Test - Wo es die besten Donuts gibt")
+* [Diver­sifikation bei der Geld­anlage: Streuung nutzt mehr als man denkt](https://www.test.de/Diversifikation-bei-der-Geldanlage-Streuung-nutzt-mehr-als-man-denkt-6123045-0/ "Diversifikation bei der Geldanlage - Streuung nutzt mehr als man denkt")
+* [Wanderreisen im Test: Wandern leicht gemacht](https://www.test.de/Wanderreisen-im-Test-Wandern-leicht-gemacht-6052961-0/ "Wanderreisen im Test - Wandern leicht gemacht")
+* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
+* [Auto-Antriebe im Kosten­vergleich: Ab Kompakt­klasse lohnen sich E-Autos](https://www.test.de/Auto-Antriebe-im-Kostenvergleich-Ab-Kompaktklasse-lohnen-sich-E-Autos-6016503-0/ "Auto-Antriebe im Kostenvergleich - Ab Kompaktklasse lohnen sich E-Autos")
+* [Strom­preisbremse-Rechner: Was Ihnen die Strom­preisbremse bringt](https://www.test.de/Strompreisbremse-Rechner-So-viel-bringt-die-Strompreisbremse-5978005-0/ "Strompreisbremse-Rechner - Was Ihnen die Strompreisbremse bringt")
 
 Weitere Informationen
 
@@ -3871,12 +3871,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Verpackungs­ärger: Kærgården von Arla](https://www.test.de/Verpackungsaerger-Krgrden-von-Arla-6055804-0/ "Verpackungsärger - Kærgården von Arla")
-* [Voll­korn­reis im Schad­stoff-Check: Oft voll gut](https://www.test.de/Vollkornreis-im-Schadstoff-Check-Oft-voll-gut-6122435-0/ "Vollkornreis im Schadstoff-Check - Oft voll gut")
-* [Crowdgrowing: Fest­nahme wegen Anla­gebetrug mit Cannabis](https://www.test.de/Crowdgrowing-Festnahme-wegen-Anlagebetrug-mit-Cannabis-6032567-0/ "Crowdgrowing - Festnahme wegen Anlagebetrug mit Cannabis")
-* [Warn­liste: Verein empfahl riskante Beteiligung](https://www.test.de/Warnliste-Verein-empfahl-riskante-Beteiligung-5943770-0/ "Warnliste - Verein empfahl riskante Beteiligung")
-* [Krypto-Währungen: In vier Schritten Krypto-Broker einrichten](https://www.test.de/Krypto-Waehrungen-Krypto-Broker-einrichten-in-vier-Schritten-6159811-0/ "Krypto-Währungen - In vier Schritten Krypto-Broker einrichten")
-* [Hauts­cree­ning-Apps im Test: Haut­krebs per App erkennen](https://www.test.de/Hautscreening-Apps-im-Test-5944602-0/ "Hautscreening-Apps im Test - Hautkrebs per App erkennen")
+* [Donuts im Test: Wo es die besten Donuts gibt](https://www.test.de/donuts-im-test-5952659-0/ "Donuts im Test - Wo es die besten Donuts gibt")
+* [Diver­sifikation bei der Geld­anlage: Streuung nutzt mehr als man denkt](https://www.test.de/Diversifikation-bei-der-Geldanlage-Streuung-nutzt-mehr-als-man-denkt-6123045-0/ "Diversifikation bei der Geldanlage - Streuung nutzt mehr als man denkt")
+* [Wanderreisen im Test: Wandern leicht gemacht](https://www.test.de/Wanderreisen-im-Test-Wandern-leicht-gemacht-6052961-0/ "Wanderreisen im Test - Wandern leicht gemacht")
+* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
+* [Auto-Antriebe im Kosten­vergleich: Ab Kompakt­klasse lohnen sich E-Autos](https://www.test.de/Auto-Antriebe-im-Kostenvergleich-Ab-Kompaktklasse-lohnen-sich-E-Autos-6016503-0/ "Auto-Antriebe im Kostenvergleich - Ab Kompaktklasse lohnen sich E-Autos")
+* [Strom­preisbremse-Rechner: Was Ihnen die Strom­preisbremse bringt](https://www.test.de/Strompreisbremse-Rechner-So-viel-bringt-die-Strompreisbremse-5978005-0/ "Strompreisbremse-Rechner - Was Ihnen die Strompreisbremse bringt")
 
 Weitere spannende Themen
 
@@ -3891,12 +3891,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Verpackungs­ärger: Kærgården von Arla](https://www.test.de/Verpackungsaerger-Krgrden-von-Arla-6055804-0/ "Verpackungsärger - Kærgården von Arla")
-* [Voll­korn­reis im Schad­stoff-Check: Oft voll gut](https://www.test.de/Vollkornreis-im-Schadstoff-Check-Oft-voll-gut-6122435-0/ "Vollkornreis im Schadstoff-Check - Oft voll gut")
-* [Crowdgrowing: Fest­nahme wegen Anla­gebetrug mit Cannabis](https://www.test.de/Crowdgrowing-Festnahme-wegen-Anlagebetrug-mit-Cannabis-6032567-0/ "Crowdgrowing - Festnahme wegen Anlagebetrug mit Cannabis")
-* [Warn­liste: Verein empfahl riskante Beteiligung](https://www.test.de/Warnliste-Verein-empfahl-riskante-Beteiligung-5943770-0/ "Warnliste - Verein empfahl riskante Beteiligung")
-* [Krypto-Währungen: In vier Schritten Krypto-Broker einrichten](https://www.test.de/Krypto-Waehrungen-Krypto-Broker-einrichten-in-vier-Schritten-6159811-0/ "Krypto-Währungen - In vier Schritten Krypto-Broker einrichten")
-* [Hauts­cree­ning-Apps im Test: Haut­krebs per App erkennen](https://www.test.de/Hautscreening-Apps-im-Test-5944602-0/ "Hautscreening-Apps im Test - Hautkrebs per App erkennen")
+* [Donuts im Test: Wo es die besten Donuts gibt](https://www.test.de/donuts-im-test-5952659-0/ "Donuts im Test - Wo es die besten Donuts gibt")
+* [Diver­sifikation bei der Geld­anlage: Streuung nutzt mehr als man denkt](https://www.test.de/Diversifikation-bei-der-Geldanlage-Streuung-nutzt-mehr-als-man-denkt-6123045-0/ "Diversifikation bei der Geldanlage - Streuung nutzt mehr als man denkt")
+* [Wanderreisen im Test: Wandern leicht gemacht](https://www.test.de/Wanderreisen-im-Test-Wandern-leicht-gemacht-6052961-0/ "Wanderreisen im Test - Wandern leicht gemacht")
+* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
+* [Auto-Antriebe im Kosten­vergleich: Ab Kompakt­klasse lohnen sich E-Autos](https://www.test.de/Auto-Antriebe-im-Kostenvergleich-Ab-Kompaktklasse-lohnen-sich-E-Autos-6016503-0/ "Auto-Antriebe im Kostenvergleich - Ab Kompaktklasse lohnen sich E-Autos")
+* [Strom­preisbremse-Rechner: Was Ihnen die Strom­preisbremse bringt](https://www.test.de/Strompreisbremse-Rechner-So-viel-bringt-die-Strompreisbremse-5978005-0/ "Strompreisbremse-Rechner - Was Ihnen die Strompreisbremse bringt")
 
 Neueste Tests
 
@@ -3909,12 +3909,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Verpackungs­ärger: Kærgården von Arla](https://www.test.de/Verpackungsaerger-Krgrden-von-Arla-6055804-0/ "Verpackungsärger - Kærgården von Arla")
-* [Voll­korn­reis im Schad­stoff-Check: Oft voll gut](https://www.test.de/Vollkornreis-im-Schadstoff-Check-Oft-voll-gut-6122435-0/ "Vollkornreis im Schadstoff-Check - Oft voll gut")
-* [Crowdgrowing: Fest­nahme wegen Anla­gebetrug mit Cannabis](https://www.test.de/Crowdgrowing-Festnahme-wegen-Anlagebetrug-mit-Cannabis-6032567-0/ "Crowdgrowing - Festnahme wegen Anlagebetrug mit Cannabis")
-* [Warn­liste: Verein empfahl riskante Beteiligung](https://www.test.de/Warnliste-Verein-empfahl-riskante-Beteiligung-5943770-0/ "Warnliste - Verein empfahl riskante Beteiligung")
-* [Krypto-Währungen: In vier Schritten Krypto-Broker einrichten](https://www.test.de/Krypto-Waehrungen-Krypto-Broker-einrichten-in-vier-Schritten-6159811-0/ "Krypto-Währungen - In vier Schritten Krypto-Broker einrichten")
-* [Hauts­cree­ning-Apps im Test: Haut­krebs per App erkennen](https://www.test.de/Hautscreening-Apps-im-Test-5944602-0/ "Hautscreening-Apps im Test - Hautkrebs per App erkennen")
+* [Donuts im Test: Wo es die besten Donuts gibt](https://www.test.de/donuts-im-test-5952659-0/ "Donuts im Test - Wo es die besten Donuts gibt")
+* [Diver­sifikation bei der Geld­anlage: Streuung nutzt mehr als man denkt](https://www.test.de/Diversifikation-bei-der-Geldanlage-Streuung-nutzt-mehr-als-man-denkt-6123045-0/ "Diversifikation bei der Geldanlage - Streuung nutzt mehr als man denkt")
+* [Wanderreisen im Test: Wandern leicht gemacht](https://www.test.de/Wanderreisen-im-Test-Wandern-leicht-gemacht-6052961-0/ "Wanderreisen im Test - Wandern leicht gemacht")
+* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
+* [Auto-Antriebe im Kosten­vergleich: Ab Kompakt­klasse lohnen sich E-Autos](https://www.test.de/Auto-Antriebe-im-Kostenvergleich-Ab-Kompaktklasse-lohnen-sich-E-Autos-6016503-0/ "Auto-Antriebe im Kostenvergleich - Ab Kompaktklasse lohnen sich E-Autos")
+* [Strom­preisbremse-Rechner: Was Ihnen die Strom­preisbremse bringt](https://www.test.de/Strompreisbremse-Rechner-So-viel-bringt-die-Strompreisbremse-5978005-0/ "Strompreisbremse-Rechner - Was Ihnen die Strompreisbremse bringt")
 
 Stiftung Warentest
 
