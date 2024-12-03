@@ -140,6 +140,10 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 
 ### See also
 
+[![Kiri Pritchard-McLean](https://cdn.comedy.co.uk/images/library/people/300x200/k/kiri_pritchard_mclean_2024.jpg "Kiri Pritchard-McLean")](https://www.comedy.co.uk/live/features/kiri-pritchard-mclean-interview/) Live
+
+[Kiri Pritchard-McLean talks about Peacock](https://www.comedy.co.uk/live/features/kiri-pritchard-mclean-interview/)
+
 [![A Christmas Carol (ish). Image shows left to right: David Elms, Nick Mohammed, Kieran Hodgson, Martha Howe-Douglas. Credit: Matt Crockett](https://cdn.comedy.co.uk/images/library/misc/300x200/c/christmas_carol_ish_mr_swallow_2024_cast.jpg "A Christmas Carol (ish). Image shows left to right: David Elms, Nick Mohammed, Kieran Hodgson, Martha Howe-Douglas. Credit: Matt Crockett")](https://www.comedy.co.uk/live/features/mark-muldoon-comedy-diary-61/) Live
 
 [A Christmas Carol (ish), Grace Campbell, Zainab Johnson - Mark Muldoon's Comedy Diary](https://www.comedy.co.uk/live/features/mark-muldoon-comedy-diary-61/)
@@ -151,10 +155,6 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 [![Alfie Brown](https://cdn.comedy.co.uk/images/library/people/300x200/a/alfie_brown_2024_c.jpg "Alfie Brown")](https://www.comedy.co.uk/live/fgwg/alfie-brown/) Live
 
 [First Gig, Worst Gig: Alfie Brown](https://www.comedy.co.uk/live/fgwg/alfie-brown/)
-
-[![The Mighty Boosh. Image shows left to right: Howard Moon (Julian Barratt), Bollo (Dave Brown), Vince Noir (Noel Fielding)](https://cdn.comedy.co.uk/images/library/comedies/300x200/m/mighty_boosh_bollo.jpg "The Mighty Boosh. Image shows left to right: Howard Moon (Julian Barratt), Bollo (Dave Brown), Vince Noir (Noel Fielding)")](https://www.comedy.co.uk/quiz/334/) Quiz
-
-[British Comedy Quiz #334](https://www.comedy.co.uk/quiz/334/)
 
 #### Subscribe to our newsletters
 
