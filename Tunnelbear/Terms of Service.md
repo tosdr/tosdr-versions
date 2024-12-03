@@ -1,24 +1,10 @@
 TunnelBear.com relies on JavaScript to function properly!
 
-**Save on TunnelBear during our biggest sale this Black Friday!**
+**Don’t hibernate just yet! Save big during our chilliest sale this year!**
 
-**Save on TunnelBear during our biggest sale this Black Friday!**
+**Don’t hibernate just yet! Save big during our chilliest sale this year!**
 
-Offer ends in
-
-08
-
-hours
-
-012
-
-mins
-
-011
-
-secs
-
-[75% off](https://www.tunnelbear.com/account/checkout?couponCode=BLACKFRIDAYSALE2024&utm_source=salebanner&utm_medium=direct&utm_campaign=BLACKFRIDAY_2024)
+[67% off](https://www.tunnelbear.com/account/checkout?couponCode=WINTERSALE2024&utm_source=salebanner&utm_medium=direct&utm_campaign=WINTER_2024)
 
  [![TunnelBear](/static/img/logo-grey.edca0e7.svg) ![TunnelBear](/static/img/t-grey.abb9775.svg)](https://www.tunnelbear.com/)
 
@@ -53,11 +39,11 @@ A more secure way to browse the web
 
 TunnelBear encrypts your internet connection to keep your online activity private on any network.
 
-[Black Friday Sale! Get 75% off](https://www.tunnelbear.com/account/checkout?couponCode=BLACKFRIDAYSALE2024&ref_id=website_blackfriday_sale&utm_source=website&utm_medium=direct&utm_campaign=blackfriday_2024)
+[Winter Sale! Get 67% off](https://www.tunnelbear.com/account/checkout?couponCode=WINTERSALE2024&ref_id=website_winter_sale&utm_source=website&utm_medium=direct&utm_campaign=winter_2024)
 
-Your first year of TunnelBear for $119USD **$29.99USD**
+Your first year of TunnelBear for $119USD **$39.99USD**
 
-![blackfriday-sale](/static/img/blackfriday-75.b37d978.png)
+![winter-sale](/static/img/winter-sale-bear.590c595.svg)
 
 ![Forbes](/static/img/forbes.0b2a405.svg) ![the Verge](/static/img/verge.ed6dcfa.svg) ![LifeHacker](/static/img/lifehacker.122241f.png) ![TNW](/static/img/tnw.def4936.svg) ![VB](/static/img/vb.fb28755.svg) ![TechRadar](/static/img/techradar.5a60700.svg)
 
