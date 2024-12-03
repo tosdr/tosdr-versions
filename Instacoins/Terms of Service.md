@@ -505,7 +505,17 @@ Please note Skrill/Neteller is not available for clients located in the United S
   
  
 
-Funding your account via open banking from third parties should be avoided. You should always fund your Instacoins account from a Revolut or Wise account you control. In the event we receive funds on your behalf from third parties we reserve the right to deny any eventual refund requests.
+Funding your account via open banking from third parties should be avoided. You should always fund your Instacoins account from a bank account you control. In the event we receive funds on your behalf from third parties we reserve the right to deny any eventual refund requests.
+
+  
+ 
+
+We guarantee the agreed exchange rate for 15 minutes. If the payment takes longer to complete, we will credit you the equivalent amount in Bitcoin.
+
+  
+ 
+
+Some banks may take up to 8 business days to process your instructions despite your approval. Please contact your bank if you experience a delay of 12 hours or more.
 
   
  
@@ -515,7 +525,7 @@ These payment methods may not be available in all currencies and/or countries. P
   
  
 
-If we billed your Revolut or Wise account but have not delivered Bitcoin to your account, please get in touch with our Support team.
+If we billed your account but have not delivered Bitcoin to your account, please get in touch with our Support team.
 
   
  
