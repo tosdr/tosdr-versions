@@ -182,6 +182,21 @@ This Privacy Statement was last revised on and is effective as of September 1, 2
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
+[LAST CHANCE! Our Black Friday CE sale ENDS TONIGHT ![LAST CHANCE! Our Black Friday CE sale ENDS TONIGHT!⁠
+⁠
+Enjoy 25% off all individual courses OR save $49 on an annual study club membership with code BF24.⁠
+⁠
+Purchase now at a discount and take your courses at your own convenience!⁠
+⁠
+Visit decisionsindentistry.com/ce or click the link in bio.⁠
+⁠
+*Promotion valid 11/18/24-12/2/24. Must use coupon code BF24 at checkout.⁠
+⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DDE62TWs1Kl/) 
+
 [The University of New England’s Dental Hygiene D ![The University of New England’s Dental Hygiene Department has been awarded “Partnership of the Year” for its collaborative efforts with the Opportunity Alliance, bringing essential dental care to low-income families in Portland, Maine. Dental hygiene students provide free prophylaxes, fluoride treatments, and oral health education to underserved children. Link in bio.⁠
 ⁠
 ⁠
@@ -219,19 +234,6 @@ Visit decisionsindentistry.com/ce or click the link in bio.⁠
 ---⁠
 ⁠
 #dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DCzHA9uMJWI/) 
-
-[Through 12/2/2024 enjoy 25% off all individual cou ![Through 12/2/2024 enjoy 25% off all individual courses OR save $49 on an annual study club membership with code BF24.⁠
-⁠
-Purchase now at a discount and take your courses at your own convenience!⁠
-⁠
-Visit decisionsindentistry.com/ce or click the link in bio.⁠
-⁠
-*Promotion valid 11/18/24-12/2/24. Must use coupon code BF24 at checkout.⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DCtvsb8PA-j/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
