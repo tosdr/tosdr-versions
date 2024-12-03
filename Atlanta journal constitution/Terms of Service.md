@@ -1,7 +1,5 @@
 error: no ad slot id exists: undefined
 
-[Breaking: 17 killed on Georgia roads over Thanksgiving weekend, a decrease from 2023](https://www.ajc.com/news/crime/17-killed-on-georgia-roads-over-thanksgiving-weekend-a-decrease-from-2023/SC2M7KMGSRC2BEZLWXMPALW73E/)
-
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1842)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1842)](https://www.ajc.com/)
 
 Log In
@@ -18,8 +16,8 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
-* [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-heres-to-the-heroes/M3S2F5XE2ZCVJFO73HSTFZYEBA/)
 * [Politically Georgia](https://www.ajc.com/politics/politically-georgia/)
+* [Georgia Runoff Voter Guide](https://www.ajc.com/politics/georgia-voter-guide/)
 * [Holiday Guide](https://www.ajc.com/things-to-do/atlanta-winter-guide/)
 * [UATL](https://www.ajc.com/uatl/)
 * [High School Sports](https://www.ajc.com/sports/high-school/)
