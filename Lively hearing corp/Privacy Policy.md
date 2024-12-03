@@ -12,7 +12,7 @@ Save $200 on the Enhance Select 500! [Shop now](https://www.listenlively.com/pro
 
 100-day risk-free trial and US-based customer support!
 
-[Cyber week won't last forever!Cyber week won't last forever!Cyber week won't last forever! **Sale ends in 4d : 2h : 22m**](https://www.listenlively.com/product)
+[Cyber week won't last forever!Cyber week won't last forever!Cyber week won't last forever! **Sale ends in 3d : 20h : 28m**](https://www.listenlively.com/product)
 
 [Jabra EnhanceTM](https://www.listenlively.com/)
 
