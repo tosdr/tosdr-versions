@@ -5,8 +5,6 @@
         
         *  [![Zach Bryan Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Zach Bryan  
             MetLife Stadium](https://www.songkick.com/concerts/42275668-zach-bryan-at-metlife-stadium)
-        *  [![My Chemical Romance Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) My Chemical Romance  
-            MetLife Stadium](https://www.songkick.com/concerts/42271604-my-chemical-romance-at-metlife-stadium)
         *  [![The Goo Goo Dolls Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) The Goo Goo Dolls  
             PNC Bank Arts Center](https://www.songkick.com/concerts/42279912-goo-goo-dolls-at-pnc-bank-arts-center)
         *  [![The Damned Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) The Damned  
@@ -37,8 +35,8 @@
         *  [![Drake Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Drake](https://www.songkick.com/artists/556955-drake)
         *  [![Eminem Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Eminem](https://www.songkick.com/artists/182968-eminem)
         *  [![The Weeknd Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) The Weeknd](https://www.songkick.com/artists/4363463-weeknd)
-        *  [![Taylor Swift Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Taylor Swift](https://www.songkick.com/artists/217815-taylor-swift)
         *  [![Bruno Mars Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Bruno Mars](https://www.songkick.com/artists/941964-bruno-mars)
+        *  [![Taylor Swift Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Taylor Swift](https://www.songkick.com/artists/217815-taylor-swift)
         *  [![Maroon 5 Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Maroon 5](https://www.songkick.com/artists/181875-maroon-5)
         *  [![Kanye West Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Kanye West](https://www.songkick.com/artists/552177-kanye-west)
         *  [![Ed Sheeran Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Ed Sheeran](https://www.songkick.com/artists/2083334-ed-sheeran)
