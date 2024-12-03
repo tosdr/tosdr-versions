@@ -461,11 +461,9 @@ Plans
 Community
 ---------
 
-* [Clubs](https://community.codecademy.com/c/start-here/)
+* [Visit community](https://community.codecademy.com/c/start-here/)
 * [Code Crew](https://try.codecademy.com/code-crew/)
-* [Discord](https://discord.com/invite/codecademy)
 * [Events](https://www.codecademy.com/events)
-* [Forums](https://discuss.codecademy.com/)
 * [Learner stories](https://www.codecademy.com/resources/blog/category/learner-stories)
 
 Codecademy from Skillsoft
