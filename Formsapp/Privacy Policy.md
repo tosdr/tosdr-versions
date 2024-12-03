@@ -1,6 +1,6 @@
-![discount](/assets/img/black-friday/black-50-2024.png)
+![discount](/assets/img/new-year/65.png)
 
-**Yearly plans are up to 65% off for a limited Black Friday sale. ⏰**
+**Up to 65% off on all yearly plans! 🎁 Start fresh with a yearly plan. Now 65% off! ❄️ 🏷️**
 
 [Upgrade Now](https://forms.app/en/pricing?campaign=2024-summer&medium=header-upgrade-button)
 
