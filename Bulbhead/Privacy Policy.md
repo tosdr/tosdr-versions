@@ -196,7 +196,6 @@ Payment methods
 * American Express
 * Diners Club
 * Discover
-* Meta Pay
 * Mastercard
 * PayPal
 * Venmo
