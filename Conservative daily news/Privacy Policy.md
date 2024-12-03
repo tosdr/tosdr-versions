@@ -2,6 +2,7 @@ Monday, December 2 2024
 
 Breaking News
 
+* [‘Landman’ Airs A Rare And Stirring Defense Of The U.S. Oil-And-Gas Industry](https://www.conservativedailynews.com/2024/12/landman-airs-a-rare-and-stirring-defense-of-the-u-s-oil-and-gas-industry/)
 * [Conservatives Come Out Against Trump’s DEA Pick Over What He Did During COVID](https://www.conservativedailynews.com/2024/12/conservatives-come-out-against-trumps-dea-pick-over-what-he-did-during-covid/)
 * [Trump Working His Magic With Tariff Diplomacy](https://www.conservativedailynews.com/2024/12/trump-working-his-magic-with-tariff-diplomacy/)
 * [Medal of Honor Monday: Marine Corps Sgt. James E. Johnson](https://www.conservativedailynews.com/2024/12/medal-of-honor-monday-marine-corps-sgt-james-e-johnson/)
@@ -9,7 +10,6 @@ Breaking News
 * [The Sins Of The Biden Administration Are Being Visited On The American People](https://www.conservativedailynews.com/2024/12/the-sins-of-the-biden-administration-are-being-visited-on-the-american-people/)
 * [Abortion, Reproduction…What’s In A Word](https://www.conservativedailynews.com/2024/12/abortion-reproductionwhats-in-a-word/)
 * [Jack Smith Could Face ‘Severe Consequences’ For Year-Long Legal Crusade Against Trump](https://www.conservativedailynews.com/2024/12/jack-smith-could-face-severe-consequences-for-year-long-legal-crusade-against-trump/)
-* [President Joe Biden’s Schedule for Monday, December 2, 2024](https://www.conservativedailynews.com/2024/12/president-joe-bidens-schedule-for-monday-december-2-2024/)
 
 * [RSS](https://www.conservativedailynews.com/news-feeds/)
 * [Facebook](https://www.facebook.com/ConservativeDailyNews/)
@@ -115,21 +115,27 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 Red = Recurring Donations  
 Orange = One-Time Donations
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/05/jail.jpg)](https://www.conservativedailynews.com/2024/12/conservatives-come-out-against-trumps-dea-pick-over-what-he-did-during-covid/)
+    
+    [Conservatives Come Out Against Trump’s DEA Pick Over What He Did During COVID](https://www.conservativedailynews.com/2024/12/conservatives-come-out-against-trumps-dea-pick-over-what-he-did-during-covid/)
+    
+    December 2, 2024
+    
 * [![Thanksgiving 2024 Donald Trump](https://www.conservativedailynews.com/wp-content/uploads/2024/11/stg112724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/something-to-be-thankful-for/)
     
     [Something to be Thankful For](https://www.conservativedailynews.com/2024/11/something-to-be-thankful-for/)
     
     November 27, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/Kamala-Harris-11-26-24-maybe-drunk-220x150.jpg)](https://www.conservativedailynews.com/2024/11/oof-kamala-harris-appears-disheveled-in-first-appearance-since-election-loss/)
-    
-    [OOF: Kamala Harris Appears Disheveled In First Appearance Since Election Loss](https://www.conservativedailynews.com/2024/11/oof-kamala-harris-appears-disheveled-in-first-appearance-since-election-loss/)
-    
-    November 27, 2024
-    
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/Landman-anti-windmill-monologue-220x150.jpg)](https://www.conservativedailynews.com/2024/12/landman-airs-a-rare-and-stirring-defense-of-the-u-s-oil-and-gas-industry/)
+    
+    [‘Landman’ Airs A Rare And Stirring Defense Of The U.S. Oil-And-Gas Industry](https://www.conservativedailynews.com/2024/12/landman-airs-a-rare-and-stirring-defense-of-the-u-s-oil-and-gas-industry/)
+    
+    December 2, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2019/05/jail.jpg)](https://www.conservativedailynews.com/2024/12/conservatives-come-out-against-trumps-dea-pick-over-what-he-did-during-covid/)
     
     [Conservatives Come Out Against Trump’s DEA Pick Over What He Did During COVID](https://www.conservativedailynews.com/2024/12/conservatives-come-out-against-trumps-dea-pick-over-what-he-did-during-covid/)
@@ -172,25 +178,19 @@ Recent Posts
     
     December 2, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/IMG_5833-220x150.jpeg)](https://www.conservativedailynews.com/2024/12/the-sins-of-the-biden-administration-are-being-visited-on-the-american-people/)
-    
-    [The Sins Of The Biden Administration Are Being Visited On The American People](https://www.conservativedailynews.com/2024/12/the-sins-of-the-biden-administration-are-being-visited-on-the-american-people/)
-    
-    December 2, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Get These 10 Cyber Monday Deals While You Still Can](https://www.thegunpage.com/get-these-10-cyber-monday-deals-while-you-still-can/10612240)
+* [Are Shotguns Good for Home Defense? A Comprehensive Guide](https://www.thegunpage.com/are-shotguns-good-for-home-defense-a-comprehensive-guide/10612236)
+* [Smith & Wesson Announces The M&P FPC In .40 S&W](https://www.thegunpage.com/smith-wesson-announces-the-mp-fpc-in-40-sw/10612234)
+* [Streamlight Nano Light II: Mighty Mini LED](https://www.thegunpage.com/streamlight-nano-light-ii-mighty-mini-led/10612235)
 * [President Biden Pardons Hunter on Gun, Tax & Any Future Charges](https://www.thegunpage.com/president-biden-pardons-hunter-on-gun-tax-any-future-charges/10612232)
 * [New Russian Submachine Gun Patent: AK-Based, P90-Inspired](https://www.thegunpage.com/new-russian-submachine-gun-patent-ak-based-p90-inspired/10612229)
 * [GOA Applauds Nomination of “Fiercely Pro-Gun” Kash Patel for FBI Director](https://www.thegunpage.com/goa-applauds-nomination-of-fiercely-pro-gun-kash-patel-for-fbi-director/10612228)
 * [FPC Files Opening Brief In New Jersey AWB Appeal](https://www.thegunpage.com/fpc-files-opening-brief-in-new-jersey-awb-appeal/10612226)
 * [TFB Weekly Web Deals 116: Cyber Monday Ammo Deals](https://www.thegunpage.com/tfb-weekly-web-deals-116-cyber-monday-ammo-deals/10612225)
 * [Collegiate Rifle: Western Trip Yields Big Results For Akron](https://www.thegunpage.com/collegiate-rifle-western-trip-yields-big-results-for-akron/10612233)
-* [Review: Vortex Venom 1-6X 24 mm Optic And Pro Extended Cantilever Mount](https://www.thegunpage.com/review-vortex-venom-1-6x-24-mm-optic-and-pro-extended-cantilever-mount/10612223)
-* [NRA Argues Against Washington Mag Ban In State Supreme Court Filing](https://www.thegunpage.com/nra-argues-against-washington-mag-ban-in-state-supreme-court-filing/10612221)
-* [Competitors’ Corner: December 2024](https://www.thegunpage.com/competitors-corner-december-2024/10612224)
-* [New York City Politicians Attack Guns, Not Crime](https://www.thegunpage.com/new-york-city-politicians-attack-guns-not-crime/10612218)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
