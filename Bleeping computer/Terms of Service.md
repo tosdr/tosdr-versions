@@ -36,18 +36,18 @@
         
         Tor needs 200 new WebTunnel bridges to fight censorship](https://www.bleepingcomputer.com/news/security/tor-needs-200-new-webtunnel-bridges-to-fight-censorship/)
     
-    * [![Cyber Week deal: Protect your entire family with this $16 ad-blocker](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Veeam warns of critical RCE bug in Service Provider Console](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Cyber Week deal: Protect your entire family with this $16 ad-blocker](https://www.bleepingcomputer.com/offer/deals/cyber-week-deal-protect-your-entire-family-with-this-16-ad-blocker/)
-    * [![Korea arrests CEO for adding DDoS feature to satellite receivers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Veeam warns of critical RCE bug in Service Provider Console](https://www.bleepingcomputer.com/news/security/veeam-warns-of-critical-rce-bug-in-service-provider-console/)
+    * [![Police seizes largest German online crime marketplace, arrests admin](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Korea arrests CEO for adding DDoS feature to satellite receivers](https://www.bleepingcomputer.com/news/security/korea-arrests-ceo-for-adding-ddos-feature-to-satellite-receivers/)
-    * [![Russia sentences Hydra dark web market leader to life in prison](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Police seizes largest German online crime marketplace, arrests admin](https://www.bleepingcomputer.com/news/security/police-seizes-largest-german-online-crime-marketplace-arrests-admin/)
+    * [![FTC bans data brokers from selling Americans’ sensitive location data](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Russia sentences Hydra dark web market leader to life in prison](https://www.bleepingcomputer.com/news/security/russia-sentences-hydra-dark-web-market-leader-to-life-in-prison/)
-    * [![Protect all your devices for 3 years with this low-cost VPN](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        FTC bans data brokers from selling Americans’ sensitive location data](https://www.bleepingcomputer.com/news/security/ftc-bans-data-brokers-from-selling-americans-sensitive-location-data/)
+    * [![Police seize Matrix encrypted chat service after spying on criminals](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Protect all your devices for 3 years with this low-cost VPN](https://www.bleepingcomputer.com/offer/deals/protect-all-your-devices-for-3-years-with-this-low-cost-vpn/)
+        Police seize Matrix encrypted chat service after spying on criminals](https://www.bleepingcomputer.com/news/security/police-seize-matrix-encrypted-chat-service-after-spying-on-criminals/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
