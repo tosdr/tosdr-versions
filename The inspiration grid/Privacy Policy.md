@@ -193,6 +193,14 @@ Some of our posts may contain affiliate links to partner brands. We earn a small
 
 ### More articles
 
+![](https://inspgr.id/app/uploads/2024/12/jsaux-transparent-rgb-backplate-feature.jpg)
+
+[Gaming](https://theinspirationgrid.com/category/gaming/)[Product Design](https://theinspirationgrid.com/category/product-design/)
+
+[](https://theinspirationgrid.com/editorial/live-your-rgb-dreams-with-the-new-jsaux-transparent-backplate-for-the-rog-ally-x/)
+
+### Live your RGB dreams with the new JSAUX Transparent Backplate for the ROG Ally X
+
 ![](https://inspgr.id/app/uploads/2024/11/editorial-christmas-fonts-cover.jpg)
 
 [Graphic Design](https://theinspirationgrid.com/category/design/)[Print Design](https://theinspirationgrid.com/category/print/)
@@ -216,14 +224,6 @@ Some of our posts may contain affiliate links to partner brands. We earn a small
 [](https://theinspirationgrid.com/editorial/these-are-the-best-black-friday-deals-of-2024/)
 
 ### These are the Best Black Friday Deals of 2024
-
-![](https://inspgr.id/app/uploads/2024/11/top-eyewear-designs-feature.jpg)
-
-[Fashion & Beauty](https://theinspirationgrid.com/category/fashion-2/)[Industrial Design](https://theinspirationgrid.com/category/industrial-design/)
-
-[](https://theinspirationgrid.com/editorial/top-eyewear-designs-inspired-by-retro-trends/)
-
-### Top Eyewear Designs Inspired by Retro Trends
 
 #want
 -----
