@@ -412,8 +412,8 @@ Pursuant to Article 27 of the General Data Protection Regulation (GDPR),_ **Slas
 LLC** _has appointed European Data Protection Office (EDPO) as its GDPR Representative in  
 the EU. You can contact EDPO regarding matters pertaining to the GDPR:  
 \-by using EDPO’s online request form: [https://edpo.com/gdpr-data-request/](https://edpo.com/gdpr-data-request/)  
-\-by writing to EDPO at at Regus Block 1, Blanchardstown Corporate Park, Ballycoolen Road,  
-Blanchardstown, Dublin, D15 AKK1, Ireland  
+\-by writing to EDPO at Ground Floor, 71 Lower Baggot Street, Dublin, D02 P593, Ireland  
+  
 _
 
 ### OUR REPRESENTATIVE IN THE UK
@@ -484,7 +484,7 @@ _
 [❖ Our Representative In The EU](#RepresentativeEU)  
 [❖ Our Representative In The UK](#RepresentativeUK)
 
-### NEW PRIVACY AND DATA SECURITY STATEMENT
+### PRIVACY AND DATA SECURITY STATEMENT
 
 This Privacy Statement was amended as of August 27, 2024 and is effective as of that date.
 
@@ -877,8 +877,7 @@ Pursuant to Article 27 of the General Data Protection Regulation (GDPR),_ **Slas
 LLC** _has appointed European Data Protection Office (EDPO) as its GDPR Representative in  
 the EU. You can contact EDPO regarding matters pertaining to the GDPR:  
 \-by using EDPO’s online request form: [https://edpo.com/gdpr-data-request/](https://edpo.com/gdpr-data-request/)  
-\-by writing to EDPO at at Regus Block 1, Blanchardstown Corporate Park, Ballycoolen Road,  
-Blanchardstown, Dublin, D15 AKK1, Ireland  
+\-by writing to EDPO at Ground Floor, 71 Lower Baggot Street, Dublin, D02 P593, Ireland  
 _
 
 ### OUR REPRESENTATIVE IN THE UK
