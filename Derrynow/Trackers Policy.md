@@ -298,13 +298,6 @@ Pictured: The small lorry which was apprehended on Grafton Street. Image by An G
 [You can't park there! Lorry driver's boozy shortcut comes to sudden end](https://www.derrynow.com/news/national-news/1670803/you-can-t-park-there-lorry-driver-s-boozy-shortcut-comes-to-sudden-end.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1666538/derry-death-notices-monday-december-2-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Monday, December 2, 2024](https://www.derrynow.com/news/deaths/1666538/derry-death-notices-monday-december-2-2024.html)
-----------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Man with 119 previous convictions granted bail at Derry Magistrate's Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man with 119 previous convictions granted bail at Derry Magistrate's Court")](https://www.derrynow.com/news/local-news/1670907/man-with-119-previous-convictions-granted-bail-at-derry-magistrate-s-court.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -332,6 +325,13 @@ Pictured: The small lorry which was apprehended on Grafton Street. Image by An G
 
 [Donegal man remanded in custody at Derry Court charged with rape](https://www.derrynow.com/news/local-news/1670861/donegal-man-remanded-in-custody-at-derry-court-charged-with-rape.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Police conduct searches in Derry as part of dissident republican investigation](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police conduct searches in Derry as part of dissident republican investigation")](https://www.derrynow.com/news/local-news/1670912/police-conduct-searches-in-derry-as-part-of-dissident-republican-investigation.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Police conduct searches in Derry as part of dissident republican investigation](https://www.derrynow.com/news/local-news/1670912/police-conduct-searches-in-derry-as-part-of-dissident-republican-investigation.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -513,6 +513,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1671090/derry-death-notices-tuesday-december-3-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Tuesday, December 3, 2024](https://www.derrynow.com/news/deaths/1671090/derry-death-notices-tuesday-december-3-2024.html)
+------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![County Derry Conway Group acquires Parkdean Care Home with £7 million investment](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry Conway Group acquires Parkdean Care Home with £7 million investment")](https://www.derrynow.com/news/home/1671163/county-derry-conway-group-acquires-parkdean-care-home-with-7-million-investment.html)
 
 The County Derry group has acquired Parkdean care home in Belfast.
@@ -522,7 +529,7 @@ The County Derry group has acquired Parkdean care home in Belfast.
 [County Derry Conway Group acquires Parkdean Care Home with £7 million investment](https://www.derrynow.com/news/home/1671163/county-derry-conway-group-acquires-parkdean-care-home-with-7-million-investment.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Fantastic day of disability cricket in north west](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Fantastic day of disability cricket in north west")](https://www.derrynow.com/news/derry-sport/1671096/fantastic-day-of-disability-cricket-in-north-west.html)
+[![Fantastic day of disability cricket in north west](https://www.derrynow.com/resizer/165/93/true/2024_12_02/Dis1-1733155902293.JPG--.JPG?1733155903350 "Fantastic day of disability cricket in north west")](https://www.derrynow.com/news/derry-sport/1671096/fantastic-day-of-disability-cricket-in-north-west.html)
 
 [Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
@@ -550,13 +557,6 @@ Ciaran Coll was unveiled as a Glentoran player
 [Local News](https://www.derrynow.com/section/975/news)
 
 [Budding Derry entrepreneurs invited to access support through Succeed in Enterprise Programme](https://www.derrynow.com/news/local-news/1670968/budding-derry-entrepreneurs-invited-to-access-support-through-succeed-in-enterprise-programme.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Significant breakthrough made in early diagnosis of Chronic Kidney Disease and COVID-19](https://www.derrynow.com/resizer/165/93/true/2024_12_02/Test_tube_PMC_research-1733150933631.jpg--.jpg?1733150941087 "Significant breakthrough made in early diagnosis of Chronic Kidney Disease and COVID-19")](https://www.derrynow.com/news/local-news/1671002/derry-researchers-make-significant-breakthrough-in-early-diagnosis-of-chronic-kidney-disease.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry researchers make 'significant breakthrough' in early diagnosis of Chronic Kidney Disease](https://www.derrynow.com/news/local-news/1671002/derry-researchers-make-significant-breakthrough-in-early-diagnosis-of-chronic-kidney-disease.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
