@@ -174,9 +174,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
+* [How to handle opt-outs for tracking pixels under Australian privacy law](https://www.onetrust.com/resources/how-to-handle-opt-outs-for-tracking-pixels-under-australian-privacy-law-webinar/)
 * [Understanding the NIS 2 Directive: Compliance insights and best practices](https://www.onetrust.com/resources/understanding-the-nis-2-directive-compliance-insights-and-best-practices-webinar/)
-* [Virtual Lunch & Learn: A deep dive into OneTrust's Third Party Management capabilities](https://www.onetrust.com/resources/virtual-lunch-learn-a-deep-dive-into-onetrusts-third-party-management-capabilities-webinar/)
-* [Elevating client compliance with OneTrust Automation: Key strategies for partners](https://www.onetrust.com/resources/elevating-client-compliance-with-onetrust-automation-key-strategies-for-partners-webinar/)
+* [Data Discovery Israel: How to create value and demonstrate trust through your data?](https://www.onetrust.com/resources/data-discovery-israel-webinar/)
 
 ### Platform
 
