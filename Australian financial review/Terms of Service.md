@@ -293,15 +293,16 @@ Advertise
 [The Australian Financial Review Magazine](https://www.afr.com/afr-magazine)
 ----------------------------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.5968%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_1270%2C$y_1484/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/278c03f1a02720352636e954bb4b553d7209375f)](https://www.afr.com/policy/economy/like-a-gloved-fist-accc-gina-cass-gottlieb-s-supermarket-sweep-20241015-p5kibd)
+[![ ](https://static.ffx.io/images/$zoom_0.1114%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/237279769074942980a47588123317e4252775be)](https://www.afr.com/life-and-luxury/fashion-and-style/the-wildest-watchmakers-in-one-place-inside-singapore-s-watch-fair-20241105-p5ko3i)
 
-### [Three sliding-doors moments defined ACCC boss Gina Cass-Gottlieb’s life](https://www.afr.com/policy/economy/like-a-gloved-fist-accc-gina-cass-gottlieb-s-supermarket-sweep-20241015-p5kibd)
+### [The wildest watchmakers in one place: inside Singapore’s watch fair](https://www.afr.com/life-and-luxury/fashion-and-style/the-wildest-watchmakers-in-one-place-inside-singapore-s-watch-fair-20241105-p5ko3i)
 
-* Ronald Mizen
+* 54 mins ago
+* Bani McSpedden
 
-* ### [Mammoth tusks and jellyfish: how to bring jewellery ‘alive’](https://www.afr.com/life-and-luxury/fashion-and-style/mammoth-tusks-and-jellyfish-how-to-bring-jewellery-alive-20241016-p5kiw0)
+* ### [Three sliding-doors moments defined ACCC boss Gina Cass-Gottlieb’s life](https://www.afr.com/policy/economy/like-a-gloved-fist-accc-gina-cass-gottlieb-s-supermarket-sweep-20241015-p5kibd)
     
-* ### [Cult Tasmanian whisky Sullivans Cove has a stately new home](https://www.afr.com/life-and-luxury/food-and-wine/cult-tasmanian-whisky-sullivans-cove-has-a-stately-new-home-20240711-p5jszk)
+* ### [Mammoth tusks and jellyfish: how to bring jewellery ‘alive’](https://www.afr.com/life-and-luxury/fashion-and-style/mammoth-tusks-and-jellyfish-how-to-bring-jewellery-alive-20241016-p5kiw0)
     
 
 [BOSS Financial Review](https://www.afr.com/boss)
@@ -321,15 +322,16 @@ Advertise
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![Venison ham.](https://static.ffx.io/images/$zoom_0.3185%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_359/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/29184a5662f772849aa19ebbe3bb8a2af1ccaa88)](https://www.afr.com/life-and-luxury/fashion-and-style/ideas-for-the-perfect-festive-setting-for-hosts-and-guests-20241105-p5kny0)
+[![Balinese roast pork for Christmas lunch.](https://static.ffx.io/images/$zoom_0.3898%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_555/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/629b746be7cfe95b0a1c956e7412322410bd0db8)](https://www.afr.com/life-and-luxury/food-and-wine/complete-christmas-menu-sorted-from-three-new-cookbooks-20241105-p5ko3f)
 
-### [The perfect Christmas ham, no pork required](https://www.afr.com/life-and-luxury/fashion-and-style/ideas-for-the-perfect-festive-setting-for-hosts-and-guests-20241105-p5kny0)
+### [Complete Christmas menu sorted – from three new cookbooks](https://www.afr.com/life-and-luxury/food-and-wine/complete-christmas-menu-sorted-from-three-new-cookbooks-20241105-p5ko3f)
 
-* Eugenie Kelly
+* 54 mins ago
+* Jill Dupleix
 
-* ### [The best island holiday no one has heard of: six luxury escapes](https://www.afr.com/life-and-luxury/travel/six-getaways-to-pop-under-the-tree-no-wrapping-required-20241104-p5knra)
+* ### [Seven of the best wellness gifts for Christmas](https://www.afr.com/life-and-luxury/health-and-wellness/seven-of-the-best-wellness-gifts-for-christmas-20241105-p5knxy)
     
-* ### [This beige box will transform your TV, and other great gifts](https://www.afr.com/technology/tis-the-season-for-gadgets-under-500-20241030-p5kmir)
+* ### [Seven great gift ideas for drive enthusiasts](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/seven-great-gift-ideas-for-drive-enthusiasts-20241029-p5kmd6)
     
 
 [Rich List](https://www.afr.com/rich-list)
