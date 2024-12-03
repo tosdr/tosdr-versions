@@ -14,7 +14,7 @@ blankblankblankblankblank
     
     [Fin AI Agent
     
-    More than a chatbot. Resolves 50% of support volume. Instantly.](https://www.intercom.com/support-for-customers/ai-agent)[Omnichannel
+    More than a chatbot. Resolves 50% of support volume. Instantly.](https://www.intercom.com/fin)[Omnichannel
     
     Meet your customers where they already are.](https://www.intercom.com/support-for-customers#omnichannel-and-multilingual)[Help Center
     
