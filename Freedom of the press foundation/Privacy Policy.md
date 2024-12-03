@@ -6,7 +6,7 @@
 
 * Our Work
     
-    * [The Latest Issues](https://freedom.press/issues/)
+    * [The Latest](https://freedom.press/issues/)
         
         Regular reporting on government secrecy, surveillance, and the rights of reporters and whistleblowers.
         
@@ -51,7 +51,7 @@
 
 * Our Work
     
-    * [The Latest Issues](https://freedom.press/issues/)
+    * [The Latest](https://freedom.press/issues/)
         
         * [Key Issues](https://freedom.press/issues/)
         * [News Releases](https://freedom.press/issues/?content-type=release)
@@ -211,7 +211,7 @@ Thanks for subscribing to Freedom of the Press Foundation's mailing list. We'll 
 Our Work
 --------
 
-* [The Latest Issues](https://freedom.press/issues/)
+* [The Latest](https://freedom.press/issues/)
 * [Technology](https://freedom.press/tech/)
 * [U.S. Press Freedom Tracker](https://freedom.press/tracker/)
 * [Digital Security Education](https://freedom.press/digisec/)
@@ -236,8 +236,15 @@ Brooklyn, NY 11217
 
 [Privacy Policy](https://freedom.press/privacy-policy/) [Accessibility](https://freedom.press/accessibility/)
 
-[Facebook](https://facebook.com/FreedomofthePressFoundation) [X](https://x.com/freedomofpress) [Mastodon](https://social.freedom.press/@freedomofpress)
+[Bluesky](https://bsky.app/profile/freedom.press) [Mastodon](https://social.freedom.press/@freedomofpress) [X](https://x.com/freedomofpress)
 
 Licensed under [Creative Commons CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) where not otherwise indicated.
+
+Your support for press freedom is more important than ever.
+-----------------------------------------------------------
+
+Help Freedom of the Press Foundation meet our goals so we can bring the fight into 2025.
+
+[Give now](https://freedom.press/donate/?mtm_campaign=popover) Close
 
 ![](https://analytics.freedom.press/piwik.php?idsite=1)
