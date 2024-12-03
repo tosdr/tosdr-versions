@@ -5,8 +5,6 @@
         
         *  [![Zach Bryan Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Zach Bryan  
             MetLife Stadium](https://www.songkick.com/concerts/42275668-zach-bryan-at-metlife-stadium)
-        *  [![My Chemical Romance Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) My Chemical Romance  
-            MetLife Stadium](https://www.songkick.com/concerts/42271604-my-chemical-romance-at-metlife-stadium)
         *  [![The Goo Goo Dolls Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) The Goo Goo Dolls  
             PNC Bank Arts Center](https://www.songkick.com/concerts/42279912-goo-goo-dolls-at-pnc-bank-arts-center)
         *  [![The Damned Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) The Damned  
