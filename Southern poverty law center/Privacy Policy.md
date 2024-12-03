@@ -253,6 +253,16 @@ We respect your privacy. We will only use information you provide to transmit yo
 
 This Privacy Policy and Terms and Conditions is strictly limited to these Programs and has no effect on any other privacy policy(ies) that may govern the relationship between you and us in other contexts.
 
+![Images in black and white and vibrant colors of demonstrations on a dark green background.](https://www.splcenter.org/sites/default/files/giving-tuesday-lightbox-b.jpg "giving-tuesday-2024")
+
+Close donation prompt
+
+### Fuel the fight this Giving Tuesday!
+
+All donations made today will be matched dollar-for-dollar.
+
+[Double Your Impact!](https://secure.splcenter.org/page/76314/donate/1?ea.tracking.id=fy25gtlb)
+
 ![](https://d21y75miwcfqoq.cloudfront.net/718da443)
 
 * [Home](https://www.splcenter.org/)
