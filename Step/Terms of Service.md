@@ -2,11 +2,11 @@
 
 Benefits
 
-* [Build Credit](https://www.step.com/build-credit?utm_referrer=%40%40vN7wC)
-* [Save](https://www.step.com/save?utm_referrer=%40%40vN7wC)
-* [Direct Deposit](https://www.step.com/direct-deposit?utm_referrer=%40%40vN7wC)
-* [Rewards](https://www.step.com/rewards?utm_referrer=%40%40vN7wC)
-* [Invest](https://www.step.com/investing?utm_referrer=%40%40vN7wC)
+* [Build Credit](https://www.step.com/build-credit)
+* [Save](https://www.step.com/save)
+* [Direct Deposit](https://www.step.com/direct-deposit)
+* [Rewards](https://www.step.com/rewards)
+* [Invest](https://www.step.com/investing)
 
 [Money 101](https://www.step.com/education)[Families](https://www.step.com/families)[Security](https://www.step.com/security)[About](https://www.step.com/about)[FAQ](https://www.step.com/faq)
 
@@ -14,7 +14,7 @@ Benefits
 
 Get Started
 
-1. [Policies](https://www.step.com/policies?utm_referrer=%40%40vN7wC)
+1. [Policies](https://www.step.com/policies)
 2. Privacy Policy
 
 Privacy Policy
@@ -24,25 +24,25 @@ Last Updated: August 2, 2023Effective: August 3, 2023
 
 Contents
 
-[I. Who we are](https://www.step.com/policies/privacy?utm_referrer=%40%40vN7wC#who-we-are)
+[I. Who we are](https://www.step.com/policies/privacy#who-we-are)
 
-[II. The information we collect](https://www.step.com/policies/privacy?utm_referrer=%40%40vN7wC#the-information-we-collect)
+[II. The information we collect](https://www.step.com/policies/privacy#the-information-we-collect)
 
-[III. How we use your information](https://www.step.com/policies/privacy?utm_referrer=%40%40vN7wC#how-we-use-your-information)
+[III. How we use your information](https://www.step.com/policies/privacy#how-we-use-your-information)
 
-[IV. How we share information](https://www.step.com/policies/privacy?utm_referrer=%40%40vN7wC#how-we-share-information)
+[IV. How we share information](https://www.step.com/policies/privacy#how-we-share-information)
 
-[V. Cookies and analytics technologies](https://www.step.com/policies/privacy?utm_referrer=%40%40vN7wC#cookies-and-analytics-technologies)
+[V. Cookies and analytics technologies](https://www.step.com/policies/privacy#cookies-and-analytics-technologies)
 
-[VI. How long we keep your information](https://www.step.com/policies/privacy?utm_referrer=%40%40vN7wC#how-long-we-keep-your-information)
+[VI. How long we keep your information](https://www.step.com/policies/privacy#how-long-we-keep-your-information)
 
-[VII. Your choices](https://www.step.com/policies/privacy?utm_referrer=%40%40vN7wC#your-choices)
+[VII. Your choices](https://www.step.com/policies/privacy#your-choices)
 
-[VIII. Changes to this privacy policy](https://www.step.com/policies/privacy?utm_referrer=%40%40vN7wC#changes-to-this-privacy-policy)
+[VIII. Changes to this privacy policy](https://www.step.com/policies/privacy#changes-to-this-privacy-policy)
 
-[IX. Use of the services by children](https://www.step.com/policies/privacy?utm_referrer=%40%40vN7wC#use-of-the-services-by-children)
+[IX. Use of the services by children](https://www.step.com/policies/privacy#use-of-the-services-by-children)
 
-[X. California privacy rights disclosures](https://www.step.com/policies/privacy?utm_referrer=%40%40vN7wC#california-privacy-rights-disclosures)
+[X. California privacy rights disclosures](https://www.step.com/policies/privacy#california-privacy-rights-disclosures)
 
 I. Who we are
 
@@ -377,37 +377,37 @@ Legal / Policies
 
 STEP AGREEMENTS
 
-* [Step Terms of Service](https://www.step.com/policies/terms?utm_referrer=%40%40vN7wC)
-* [Privacy Policy](https://www.step.com/policies/privacy?utm_referrer=%40%40vN7wC)
-* [Consumer Privacy Notice](https://www.step.com/policies/step-consumer-privacy-notice?utm_referrer=%40%40vN7wC)
-* [Children’s Privacy Policy](https://www.step.com/policies/coppa?utm_referrer=%40%40vN7wC)
-* [Mobile Terms](https://www.step.com/policies/mobileterms?utm_referrer=%40%40vN7wC)
-* [Electronic Communication Agreement](https://www.step.com/policies/eca?utm_referrer=%40%40vN7wC)
-* [Direct Mail Policy](https://www.step.com/policies/direct-mail-policy?utm_referrer=%40%40vN7wC)
-* [Step Black Terms and Conditions](https://www.step.com/policies/step-black-terms-and-conditions?utm_referrer=%40%40vN7wC)
-* [Step Black Subscription Terms](https://www.step.com/policies/step-black-subscription-terms?utm_referrer=%40%40vN7wC)
-* [Instant Transfer Terms](https://www.step.com/policies/instant-transfer-terms?utm_referrer=%40%40vN7wC)
-* [Securities Platform Agreement](https://www.step.com/policies/securities-platform-agreement?utm_referrer=%40%40vN7wC)
-* [Securities Risk Disclosures](https://www.step.com/policies/securities-risk-disclosures?utm_referrer=%40%40vN7wC)
-* [Step Product Disclosures](https://www.step.com/policies/step-product-disclosures?utm_referrer=%40%40vN7wC)
+* [Step Terms of Service](https://www.step.com/policies/terms)
+* [Privacy Policy](https://www.step.com/policies/privacy)
+* [Consumer Privacy Notice](https://www.step.com/policies/step-consumer-privacy-notice)
+* [Children’s Privacy Policy](https://www.step.com/policies/coppa)
+* [Mobile Terms](https://www.step.com/policies/mobileterms)
+* [Electronic Communication Agreement](https://www.step.com/policies/eca)
+* [Direct Mail Policy](https://www.step.com/policies/direct-mail-policy)
+* [Step Black Terms and Conditions](https://www.step.com/policies/step-black-terms-and-conditions)
+* [Step Black Subscription Terms](https://www.step.com/policies/step-black-subscription-terms)
+* [Instant Transfer Terms](https://www.step.com/policies/instant-transfer-terms)
+* [Securities Platform Agreement](https://www.step.com/policies/securities-platform-agreement)
+* [Securities Risk Disclosures](https://www.step.com/policies/securities-risk-disclosures)
+* [Step Product Disclosures](https://www.step.com/policies/step-product-disclosures)
 
 Evolve Bank & Trust Agreements
 
-* [Step Visa Card and Secured Account Agreement](https://www.step.com/policies/accountagreement?utm_referrer=%40%40vN7wC)
-* [Evolve Bank and Trust Privacy Notice](https://www.step.com/policies/evolve-bank-and-trust-consumer-privacy-notice?utm_referrer=%40%40vN7wC)
-* [Smart Pay Agreement](https://www.step.com/policies/smartpayagreement?utm_referrer=%40%40vN7wC)
-* [Evolve Bank & Trust Electronic Communication Consent](https://www.step.com/policies/evolve-bank-and-trust-electronic-communication-consent?utm_referrer=%40%40vN7wC)
-* [STEP BLACK DEPOSIT PROGRAM CUSTODIAL AGREEMENT](https://www.step.com/policies/bank-deposit-custodial-program-agreement?utm_referrer=%40%40vN7wC)
-* [Step Borrow Cash Installment Loan Agreement](https://www.step.com/policies/borrow-cash-agreement?utm_referrer=%40%40vN7wC)
+* [Step Visa Card and Secured Account Agreement](https://www.step.com/policies/accountagreement)
+* [Evolve Bank and Trust Privacy Notice](https://www.step.com/policies/evolve-bank-and-trust-consumer-privacy-notice)
+* [Smart Pay Agreement](https://www.step.com/policies/smartpayagreement)
+* [Evolve Bank & Trust Electronic Communication Consent](https://www.step.com/policies/evolve-bank-and-trust-electronic-communication-consent)
+* [STEP BLACK DEPOSIT PROGRAM CUSTODIAL AGREEMENT](https://www.step.com/policies/bank-deposit-custodial-program-agreement)
+* [Step Borrow Cash Installment Loan Agreement](https://www.step.com/policies/borrow-cash-agreement)
 
 Step Advisers, LLC Agreements and Disclosures
 
-* [Investment Advisory Agreement](https://www.step.com/policies/investment-advisory-agreement?utm_referrer=%40%40vN7wC)
-* [Form CRS](https://www.step.com/policies/form-crs?utm_referrer=%40%40vN7wC)
+* [Investment Advisory Agreement](https://www.step.com/policies/investment-advisory-agreement)
+* [Form CRS](https://www.step.com/policies/form-crs)
     
-* [Form ADV 2A](https://www.step.com/policies/form-adv-2a?utm_referrer=%40%40vN7wC)
+* [Form ADV 2A](https://www.step.com/policies/form-adv-2a)
     
-* [Step Advisers, LLC General Risk Disclosure](https://www.step.com/policies/step-advisers-llc-risk-disclosure?utm_referrer=%40%40vN7wC)
+* [Step Advisers, LLC General Risk Disclosure](https://www.step.com/policies/step-advisers-llc-risk-disclosure)
 
 DriveWealth Agreements
 
@@ -427,9 +427,9 @@ Zero Hash Agreements
 
 Miscellaneous
 
-* [Step Daily Trivia Challenge Contest Official Rules](https://www.step.com/policies/policies.dailytrivia?utm_referrer=%40%40vN7wC)
+* [Step Daily Trivia Challenge Contest Official Rules](https://www.step.com/policies/policies.dailytrivia)
     
-* [Limited-Time Welcome Offer](https://www.step.com/policies/policies.welcomeoffer?utm_referrer=%40%40vN7wC)
+* [Limited-Time Welcome Offer](https://www.step.com/policies/policies.welcomeoffer)
 
 Step logoStep logo with colored accents and white text
 
