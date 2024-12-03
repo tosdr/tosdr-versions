@@ -1,11 +1,3 @@
-![mobile preview](/images/svgs/exit_banner.svg)[![mobile preview](/images/svgs/clock.svg)
-
-Expires in 11:51:30
-
-25% OFF
-
-Black Friday Sale. Get the deal](https://redact.dev/blackfriday)
-
 [](https://redact.dev/)
 
 Services 
@@ -22,7 +14,7 @@ Services 
 
 [Download](https://redact.dev/download)
 
-**SECTION 1 - TERMS**  
+[Click here to translate this page to any language![Google Translate icon](/_next/static/media/Google-Translate-icon.a6c5b565.png)](https://redact-dev.translate.goog/terms?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp&_x_tr_hist=true)**SECTION 1 - TERMS**  
 Welcome to Redact.dev, a suite of applications and websites (the “Applications”) that facilitate the removal of data and makes privacy optimizations on your behalf (collectively with the Applications, the “Services”). The Services are provided to you by Redact Holdings, Inc. (“we”, “us”, “our” or the “Company”). By utilizing the Applications to perform the Services you agree to be bound by the following terms and conditions (“Terms of Service” or “Terms”). These Terms of Service apply to all users of the Services. Please read these Terms of Service carefully before using the Applications or Services. If you do not agree to all the terms and conditions set forth in these Terms, then you may not access or use any Services. Any new features or tools, which are added to the current Services shall also be subject to the Terms of Service. You can review the most current version of the Terms of Service at any time at https://redact.dev/terms which supersedes any other Terms of Service available in the Services. We reserve the right to update, change or replace any part of these Terms of Service by posting updates and/or changes to https://redact.dev/terms. It is your responsibility to check this page periodically for changes, which can be done manually or by using automated alert tools such as visualping.io or any other website page monitor. Your continued use of or access to the Applications following the posting of any changes on https://redact.dev/terms constitutes acceptance of those changes. The headings used in these Terms are included for convenience only and will not limit or otherwise affect these Terms.  
   
 PLEASE CAREFULLY READ AND MAKE SURE YOU UNDERSTAND THE “ARBITRATION AND WAIVER OF CLASS ACTIONS” PROVISION SET FORTH IN THESE TERMS OF SERVICE IN SECTION 16, AS IT WILL REQUIRE YOU TO RESOLVE DISPUTES WITH US ON AN INDIVIDUAL BASIS THROUGH FINAL AND BINDING ARBITRATION. BY ACCESSING OR USING THE WEBSITE OR THE SERVICES, YOU EXPRESSLY ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND AND HAVE TAKEN TIME TO CONSIDER THE CONSEQUENCES OF THE ARBITRATION AND WAIVER OF CLASS ACTIONS PROVISION SET FORTH BELOW.  
