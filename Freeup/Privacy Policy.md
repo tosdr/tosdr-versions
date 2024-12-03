@@ -111,11 +111,11 @@ If you have any questions regarding this Privacy Policy or the practices of this
 
 ### Recent Posts
 
+* [How Freelancers Can Help You With End-of-Year Tasks and Planning for 2025](https://freeup.net/blog/business-tips/how-freelancers-can-help-you-with-end-of-year-tasks-and-planning-for-2025/)
 * [Effective Communication Tools for Remote Teams](https://freeup.net/blog/business-tips/effective-communication-tools-for-remote-teams/)
 * [Freelancer Rates Explained: What to Expect for Your Project Budget](https://freeup.net/blog/business-tips/freelancer-rates-explained-what-to-expect-for-your-project-budget/)
 * [Signs You've Found the Perfect Freelancer—and How to Retain Talent](https://freeup.net/blog/business-tips/signs-youve-found-the-perfect-freelancer-and-how-to-retain-talent/)
 * [How Long Does It Take to Edit a YouTube Video?](https://freeup.net/blog/business-tips/how-long-does-it-take-to-edit-a-youtube-video/)
-* [Freelance Social Media Manager Rates: What Should You Be Paying in 2024?](https://freeup.net/blog/business-tips/freelance-social-media-manager-rates-what-should-you-be-paying-in-2024/)
 
 [![FreeUp Logo](https://freeup.net/wp-content/themes/rare/src/images/imgs/freeup__logo--white.svg)](https://freeup.net/)
 
