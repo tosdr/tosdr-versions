@@ -205,7 +205,6 @@ Payment methods
 * Apple Pay
 * Diners Club
 * Discover
-* Meta Pay
 * Google Pay
 * Mastercard
 * Shop Pay
