@@ -187,6 +187,6 @@ We base the TechCrunch Code of Conduct on the principles of inclusion, equality,
 * [AWS re:Invent 2024](https://techcrunch.com/storyline/aws-reinvent-2024-live-updates-from-amazons-biggest-event/)
 * [Meta Subsea Cable](https://techcrunch.com/2024/11/29/meta-plans-to-build-a-10b-subsea-cable-spanning-the-world-sources-say/)
 * [Tech Layoffs](https://techcrunch.com/2024/12/02/tech-layoffs-2024-list/)
-* [ChatGPT](https://techcrunch.com/2024/11/22/chatgpt-everything-to-know-about-the-ai-chatbot/)
+* [ChatGPT](https://techcrunch.com/2024/12/03/chatgpt-everything-to-know-about-the-ai-chatbot/)
 
 © 2024 Yahoo.
