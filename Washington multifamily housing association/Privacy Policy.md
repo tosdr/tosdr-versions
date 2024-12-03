@@ -1,20 +1,5 @@
 [Skip to content](#content)
 
-Thanksgiving Hours
-------------------
-
-In observance of the Thanksgiving Holiday, WMFHA will be adjusting our office hours:
-
-Wednesday, November 27th: Online, 8:00 AM - 4:00 PM
-
-Thursday, November 28th: Closed
-
-Friday, November 29th: Closed
-
-_We hope you have a wonderful Thanksgiving and we look forward to connecting with you when our team returns on Monday, December 1st._
-
-ACKNOWLEDGE
-
 [Cart](https://www.wmfha.org/products/checkout) [Join](#join-modal) [Login](https://www.wmfha.org/login)
 
 [![ Washington Multi-Family Housing Association Logo](https://assets.noviams.com/novi-file-uploads/wmfha/structure/untitled-design-3.png)](https://www.wmfha.org/)
