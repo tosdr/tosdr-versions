@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Can i file a talcum powder lawsuit?](https://www.pintas.com/wp-content/uploads/2020/03/johnson-and-johnson-talcum-powder-lawsuit-lawyer-can-i-file-a-talcum-powder-lawsuit.jpg "Can I File a Talcum Powder Lawsuit?")](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/can-i-file-a-talcum-powder-lawsuit/ "Can I File a Talcum Powder Lawsuit?")
+[![Financial abuse types in assisted living](https://www.pintas.com/wp-content/uploads/2021/03/fraud-spelled-out-in-scrabble-letters-300x108.jpg "Financial Abuse Types in Assisted Living")](https://www.pintas.com/faq/what-are-the-different-kinds-of-financial-abuse-at-assisted-livings/ "Financial Abuse Types in Assisted Living")
 
-[#### Can I File a Talcum Powder Lawsuit?](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/can-i-file-a-talcum-powder-lawsuit/)
+[#### Financial Abuse Types in Assisted Living](https://www.pintas.com/faq/what-are-the-different-kinds-of-financial-abuse-at-assisted-livings/)
 
-[![Facts about how mesothelioma patients die](https://www.pintas.com/wp-content/uploads/2020/06/mesothelioma-how-do-mesothelioma-patients-die-2-scaled.jpg "Facts About How Mesothelioma Patients Die")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/how-do-patients-die "Facts About How Mesothelioma Patients Die")
+[![What are some signs that death is near?](https://www.pintas.com/wp-content/uploads/2020/11/what-are-some-signs-that-death-is-near.jpg "What Are Some Signs that Death Is Near?")](https://www.pintas.com/lung-cancer/what-are-some-signs-that-death-is-near/ "What Are Some Signs that Death Is Near?")
 
-[#### Facts About How Mesothelioma Patients Die](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/how-do-patients-die)
+[#### What Are Some Signs that Death Is Near?](https://www.pintas.com/lung-cancer/what-are-some-signs-that-death-is-near/)
 
-[![What is a healthy alternative to baby powder?](https://www.pintas.com/wp-content/uploads/2020/07/talcum-powder-what-is-a-healthy-alternative-to-baby-powder.jpg "What Is a Healthy Alternative to Baby Powder?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/baby-powder-alternatives "What Is a Healthy Alternative to Baby Powder?")
+[![What does back pain feel like with lung cancer?](https://www.pintas.com/wp-content/uploads/2020/09/chicago-personal-injury-lawyer-what-does-back-pain-feel-like-with-lung-cancer.jpg "What Does Back Pain Feel Like With Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/back-pain-with-lung-cancer "What Does Back Pain Feel Like With Lung Cancer?")
 
-[#### What Is a Healthy Alternative to Baby Powder?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/baby-powder-alternatives)
+[#### What Does Back Pain Feel Like With Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/back-pain-with-lung-cancer)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Name
 
 This field is for validation purposes and should be left unchanged.
 
