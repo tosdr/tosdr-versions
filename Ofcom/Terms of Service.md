@@ -157,7 +157,7 @@
 
 28 November 2024](https://www.ofcom.org.uk/media-use-and-attitudes/online-habits/digital-differences-between-men-and-women-revealed/)
 
- [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/terms-of-use/ "Switch to Welsh")
+ [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/terms-of-use/?language=cy "Switch to Welsh")
 
 1. [Home](https://www.ofcom.org.uk/)
 2. [About Ofcom](https://www.ofcom.org.uk/about-ofcom/)
@@ -217,7 +217,7 @@ Organisations we work with, including the Consumer Forum for Communications and 
 
 [### Register of disclosable interests
 
-Members are required to disclose interests (including shareholdings, directorships and employments) they, their partners or minor children have in companies whose core business activities (and hence share price) could be affected by Ofcom's decisions.](https://www.ofcom.org.uk/about-ofcom/structure-and-leadership/register-disclosable-interests/)
+Members are required to disclose interests (including shareholdings, directorships and employments) they, their partners or minor children have in companies whose core business activities (and hence share price) could be affected by Ofcom's decisions.](https://www.ofcom.org.uk/about-ofcom/structure-and-leadership/register-disclosable-interests/?language=en)
 
 [### Ofcom Board
 
