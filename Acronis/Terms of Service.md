@@ -131,6 +131,8 @@ Menu Close
     
     [Acronis Cyber Protect](https://www.acronis.com/en-us/products/cyber-protect/)
     
+    New release
+    
     Complete cyber resilience for small business, including backup and DR, anti-malware and remote endpoint monitoring.
     
     * [Try it free](https://www.acronis.com/en-us/products/cyber-protect/trial/)
@@ -692,7 +694,7 @@ Engage with Acronis
 
 * [Legal information](https://www.acronis.com/en-us/legal/)
 * [Privacy policy](https://www.acronis.com/en-us/company/privacy/)
-* [Acronis Cookie Notice](https://www.acronis.com/en-us/compliance/cookie-notice/)
+* [Cookie Notice](https://www.acronis.com/en-us/compliance/cookie-notice/)
 * [Notice of collection](https://www.acronis.com/en-us/company/privacy-rights-notice/)
 * United States + Canada
     
