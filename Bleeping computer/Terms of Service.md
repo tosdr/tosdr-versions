@@ -36,6 +36,9 @@
         
         Tor needs 200 new WebTunnel bridges to fight censorship](https://www.bleepingcomputer.com/news/security/tor-needs-200-new-webtunnel-bridges-to-fight-censorship/)
     
+    * [![Cyber Week deal: Protect your entire family with this $16 ad-blocker](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Cyber Week deal: Protect your entire family with this $16 ad-blocker](https://www.bleepingcomputer.com/offer/deals/cyber-week-deal-protect-your-entire-family-with-this-16-ad-blocker/)
     * [![Korea arrests CEO for adding DDoS feature to satellite receivers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Korea arrests CEO for adding DDoS feature to satellite receivers](https://www.bleepingcomputer.com/news/security/korea-arrests-ceo-for-adding-ddos-feature-to-satellite-receivers/)
@@ -45,9 +48,6 @@
     * [![Protect all your devices for 3 years with this low-cost VPN](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Protect all your devices for 3 years with this low-cost VPN](https://www.bleepingcomputer.com/offer/deals/protect-all-your-devices-for-3-years-with-this-low-cost-vpn/)
-    * [![BootKitty UEFI malware exploits LogoFAIL to infect Linux systems](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        BootKitty UEFI malware exploits LogoFAIL to infect Linux systems](https://www.bleepingcomputer.com/news/security/bootkitty-uefi-malware-exploits-logofail-to-infect-linux-systems/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -355,12 +355,12 @@ Popular Stories
 * [![Phishing](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Novel phishing campaign uses corrupted Word documents to evade security](https://www.bleepingcomputer.com/news/security/novel-phishing-campaign-uses-corrupted-word-documents-to-evade-security/)
-* [![Firefox](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Mozilla really wants you to set Firefox as default Windows browser](https://www.bleepingcomputer.com/news/software/mozilla-really-wants-you-to-set-firefox-as-default-windows-browser/)
 * [![DDoS](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Korea arrests CEO for adding DDoS feature to satellite receivers](https://www.bleepingcomputer.com/news/security/korea-arrests-ceo-for-adding-ddos-feature-to-satellite-receivers/)
+* [![Firefox](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    Mozilla really wants you to set Firefox as default Windows browser](https://www.bleepingcomputer.com/news/software/mozilla-really-wants-you-to-set-firefox-as-default-windows-browser/)
 
 ##### Follow us:
 
