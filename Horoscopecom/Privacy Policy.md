@@ -1,4 +1,4 @@
-[The Celestial Cyber Weekend Sale is here! Use code **Cosmic50** to unlock Cosmic Savings of up to 50% off on all reports!](http://store.horoscope.com/?utm_source=direct&utm_medium=ribbon&utm_campaign=horo-celestial-sale-2025) [The Celestial Cyber Weekend Sale is here! Use code **Cosmic50** to unlock Cosmic Savings of up to 50% off on all reports!](http://store.horoscope.com/?utm_source=direct&utm_medium=ribbon&utm_campaign=horo-celestial-sale-2025)
+Combat retrograde energy, find [Personalized Guidance](https://store.horoscope.com/reading/monthly-premium-horoscope/?utm_source=site&utm_medium=Acquisition&utm_campaign=SiteRibbon) for December! Combat retrograde energy, find [Personalized Guidance](https://store.horoscope.com/reading/monthly-premium-horoscope/?utm_source=site&utm_medium=Acquisition&utm_campaign=SiteRibbon) for December!
 
 [](javascript:void(0);)[![horoscope.com](/images-US/horoscope-logo.svg)](https://www.horoscope.com/us/index.aspx)
 
