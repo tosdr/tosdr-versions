@@ -1,4 +1,4 @@
-             [Skip to content](#MainContent)
+            [Skip to content](#MainContent)
 
 [888-404-1724](tel:888-404-1724)
 
