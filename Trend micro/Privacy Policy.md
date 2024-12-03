@@ -868,7 +868,7 @@ Back
 
 [Under Attack?](https://resources.trendmicro.com/GLB-Under-Attack-Form.html)
 
-1 Alerts
+2 Alerts
 
 Back
 
@@ -879,6 +879,9 @@ All
 * [Join us at AWS re:Invent for demos and expert-led sessions on AI-powered security.](https://resources.trendmicro.com/AWSreInvent.html)close
     
     [Supercharge your security >](https://resources.trendmicro.com/AWSreInvent.html)
+* [Transform your security strategy and proactively reduce risk.](https://www.trendmicro.com/en_us/business/products/attack-surface-management.html)close
+    
+    [Learn how](https://www.trendmicro.com/en_us/business/products/attack-surface-management.html)
 
 Support
 
