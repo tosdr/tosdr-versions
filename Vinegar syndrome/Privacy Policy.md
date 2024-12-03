@@ -17,7 +17,7 @@ Here's what's coming:
 
 \* \* \*
 
-_**For more information, visit our**_ [Partners Only FAQ](https://support.vinegarsyndrome.com/en-US/lost-city-of-black-friday-sale-2024---faq-948691 "https://support.vinegarsyndrome.com/en-US/lost-city-of-black-friday-sale-2024---faq-948691")_**.**_  
+_**For more information, visit our**_ [Partners Only FAQ](https://support.vinegarsyndrome.com/en-US/december-2024-partners-only---faq-991035 "https://support.vinegarsyndrome.com/en-US/december-2024-partners-only---faq-991035")_**.**_  
   
 **– Questions / Need to contact us? –**
 
