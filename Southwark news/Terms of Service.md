@@ -237,11 +237,11 @@ Terms of Use
 
 [28th November 2024](https://southwarknews.co.uk/area/peckham/council-celebrates-completion-of-120-affordable-homes-in-peckham-town-centre/)
 
-[![L: Residents have their say; R: CGI of Berkeley Homes' proposed Aylesham scheme](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-25-11-2024-at-07.41-120x86.jpg)](https://southwarknews.co.uk/area/peckham/most-people-in-southwark-cant-afford-these-homes-protestors-unite-against-berkeley-homes-unfit-plans-for-peckham/)
+[![Anthony Allegre hopes his story will inspire others](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_1696-120x86.jpeg)](https://southwarknews.co.uk/area/dulwich/teenage-entrepreneur-from-dulwich-hopes-business-success-will-motivate-schoolchildren-uninspired-by-the-education-system/)
 
-### [‘Most people in Southwark can’t afford these homes’: Protestors unite against Berkeley Homes’ ‘unfit’ plans for Peckham](https://southwarknews.co.uk/area/peckham/most-people-in-southwark-cant-afford-these-homes-protestors-unite-against-berkeley-homes-unfit-plans-for-peckham/)
+### [Teenage entrepreneur from Dulwich hopes business success will motivate schoolchildren uninspired by the education system](https://southwarknews.co.uk/area/dulwich/teenage-entrepreneur-from-dulwich-hopes-business-success-will-motivate-schoolchildren-uninspired-by-the-education-system/)
 
-[25th November 2024](https://southwarknews.co.uk/area/peckham/most-people-in-southwark-cant-afford-these-homes-protestors-unite-against-berkeley-homes-unfit-plans-for-peckham/)
+[1st December 2024](https://southwarknews.co.uk/area/dulwich/teenage-entrepreneur-from-dulwich-hopes-business-success-will-motivate-schoolchildren-uninspired-by-the-education-system/)
 
 ### Featured Articles
 
