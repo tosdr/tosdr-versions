@@ -1,4 +1,4 @@
-[EXTENDED: Black Friday Sale! Save up to $800 + 30% off select Accessories!](https://www.aventon.com/collections/ebikes)
+[Cyber Monday Sale Extended for One Day Only!](https://www.aventon.com/collections/ebikes)
 
 ——
 
