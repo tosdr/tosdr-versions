@@ -77,11 +77,11 @@ Search
     
     New Products[view all](https://www.adafruit.com/new)
     
-    ![Angled shot of round panel mount cable with USB micro-b connector.](https://cdn-shop.adafruit.com/230x173/6068-02.jpg)[USB Micro B Small Round Panel Mount Extension USB Cable
+    ![Demo Shot of the USB Micro B Small Round Panel Mount Extension USB Cable.](https://cdn-shop.adafruit.com/230x173/6068-04.jpg)[USB Micro B Small Round Panel Mount Extension USB Cable
     
     $1.95](https://www.adafruit.com/product/6068)
     
-    ![Angled shot of round panel mount cable with USB-c connector.](https://cdn-shop.adafruit.com/230x173/6069-02.jpg)[USB C Small Round Panel Mount Extension Cable
+    ![Demo Shot of the USB C Small Round Panel Mount Extension Cable.](https://cdn-shop.adafruit.com/230x173/6069-04.jpg)[USB C Small Round Panel Mount Extension Cable
     
     $1.95](https://www.adafruit.com/product/6069)
     
@@ -406,9 +406,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ We are what we amplify”
+“ The walls between art and engineering exist only in our minds”
 
-[Unknown](https://www.adafruit.com/blacklivesmatter)
+[Theo Jansen](http://en.wikipedia.org/wiki/Theo_Jansen)
 
 [](https://www.adafruit.com/about)
 
