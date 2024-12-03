@@ -31,6 +31,55 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Al menos 82 hectáreas consume el incendio forestal en Guayaquil
+===============================================================
+
+La causa del incendio habría sido un cortocircuito en los cables. El Ministerio de Educación suspendió las clases en el distrito Ceibos
+---------------------------------------------------------------------------------------------------------------------------------------
+
+![El Cuerpo de Bomberos Guayaquil combate el incendio en el Cerro Azul.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-03T075150.481-1.jpg)
+
+Un incendio forestal se activó el lunes 2 de diciembre en e**l Cerro Azul,** en Guayaquil, a la altura del kilómetro 33 de la **vía Perimetral**. El Puesto de Mando Unificado se activó para coordinar acciones.
+
+### Más noticias
+
+* [Inamhi advierte altas temperaturas y riesgo de incendios forestales](https://www.elcomercio.com/actualidad/ecuador/inamhi-advierte-altas-temperaturas-y-riesgo-de-incendios-forestales.html "Inamhi advierte altas temperaturas y riesgo de incendios forestales")
+* [Bomberos atienden voraz incendio forestal en Guayaquil](https://www.elcomercio.com/actualidad/ecuador/bomberos-atienden-incendio-forestal-guayaquil.html "Bomberos atienden voraz incendio forestal en Guayaquil")
+* [Cortes de luz en Guayaquil del lunes 2 al domingo 8 de diciembre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-guayaquil-lunes-2-a-domingo-8-de-diciembre.html "Cortes de luz en Guayaquil del lunes 2 al domingo 8 de diciembre")
+
+Los datos del incendio
+----------------------
+
+Según el alcalde de Guayaquil, **Aquiles Alvarez,** el incendio se habría originado aproximadamente a las 10:30 de la mañana del lunes 2 de diciembre. Sin embargo, no lo dieron a conocer a la ciudadanía para “no preocuparla por gusto”.
+
+Según Alvarez, este es un evento normal para la época y **pueden controlarlo**. Además, agradeció a la FAE por la ayuda con **el helicóptero,** el cual operará nuevamente este martes 3 de diciembre.
+
+Más de **120 bomberos** y maquinaria pesada municipal y gubernamental realizan la apertura de líneas cortafuegos en el Cerro Azul. El **Cuerpo de Bomberos de Guayaqui**l se encarga de la extinción del fuego.
+
+Para la atención de este incendio se articularon acciones con diferentes instituciones, como la Alcaldía de Guayaquil, Segura EP, Agencia de Tránsito. Además, la **Fuerza Aérea, Prefectura del Guayas,** Secretaría de Riesgos.
+
+La ministra Inés Manzano está a cargo de la **dirección del COE nacional** para definir las acciones a implementar.
+
+La Agencia de Tránsito Municipal realizó labores de **control vehicular** en las inmediaciones para facilitar el acceso de los equipos de emergencia a las zonas afectadas.
+
+Hasta la noche del lunes 2 de diciembre, e**l helicóptero de la FAE** realizó **20 descargas de agua** en el combate aéreo de este incendio. Estas descargas equivalen a **20 000 litros de agua.**
+
+Según información de Gestión de Riesgos, **este incendio se produjo debido a un cortocircuito** en los cables de energía eléctrica que alimentan las repetidoras de la zona.
+
+Clases suspendidas en distrito Ceibos
+-------------------------------------
+
+El COE cantonal presidido por e**l alcalde de Guayaqui**l, Aquiles Alvarez, solicitó al Ministerio de Educación la suspensión de clases presenciales debido a la contaminación del aire en la zona.
+
+Este pedido fue a probado por la Subsecretaría de Educación, quien **suspendió por 24 horas las clases** en el distrito Ceibos pata precautelar la salud de la comunidad educativa.
+
+Sin embargo, la medida se levantará una vez que la **Municipalidad realice el análisis** de los sólidos suspendidos en el aire, informó la empresa Segura EP.
+
+> [#Guayaquil](https://twitter.com/hashtag/Guayaquil?src=hash&ref_src=twsrc%5Etfw)  
+> Se han realizado 12 descargas con el helicóptero ARPIA 1 de la [@FuerzaAereaEc](https://twitter.com/FuerzaAereaEc?ref_src=twsrc%5Etfw) con un total de 12.000 litros de agua.[#UniendoEsfuerzos](https://twitter.com/hashtag/UniendoEsfuerzos?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/7EOQ4MAIlZ](https://t.co/7EOQ4MAIlZ)
+> 
+> — Riesgos Ecuador (@Riesgos\_Ec) [December 2, 2024](https://twitter.com/Riesgos_Ec/status/1863694683127341357?ref_src=twsrc%5Etfw)
+
 Cartas a Quito / 3 de diciembre de 2024
 =======================================
 
@@ -912,91 +961,3 @@ Además, con base en los parámetros dispuestos por la **Corte Constitucional**,
 Daniel Noboa señaló que el objetivo del estado de excepción es **garantizar el orden público, la paz social y convivencia pacífica de ciudadano.**
 
 El Gobierno recalcó la obligación de los **servidores públicos** de ser responsables de cualquier abuso que cometan en el ejercicio de sus facultades, durante la vigencia del estado de excepción.
-
-Los bombos del Mundial de Clubes están definidos
-================================================
-
-El Mundial de Clubes se jugará en el 2025 en Estados Unidos. La final será en el MetLife Stadium.
--------------------------------------------------------------------------------------------------
-
-![Jude Bellingham, jugador del Real Madrid de España.](https://www.elcomercio.com/wp-content/uploads/2024/12/bombo_mundial_1.jpg)
-
-La primera edición del Mundial de Clubes organizado por la **Federación Internacional de Fútbol Asociado (FIFA)** está en marcha. Los 32 equipos de los cinco continentes están definidos.
-
-El último equipo en sumarse al Mundial de Clubes fue el Botafogo. Los brasileños derrotaron en la final de la **Copa Libertadores a sus compatriotas del Atlético Mineiro por 3-1**, se coronaron campeones y sellaron su boleto para el torneo.
-
-### Más noticias:
-
-* [El Leverkusen vence a Union Berlin con un destacado Piero Hincapié](https://www.elcomercio.com/deportes/bayer-leverkusen-piero-hincapie-union-berlin.html "El Leverkusen vence a Union Berlin con un destacado Piero Hincapié")
-* [Botafogo es campeón de la Libertadores ante Mineiro de Alan Franco](https://www.elcomercio.com/deportes/partido-final-libertadores-mineiro-alan-franco-botafogo.html "Botafogo es campeón de la Libertadores ante Mineiro de Alan Franco")
-* [Libertad se salva y Cumbayá e Imbabura descienden a la Serie B](https://www.elcomercio.com/deportes/futbol/liga-pro-descenso-2024-libertad-imbabura-cumbaya.html "Libertad se salva y Cumbayá e Imbabura descienden a la Serie B")
-
-La FIFA decidió que el Mundial de Clubes se juegue del 15 de junio al 13 de julio de 2025 en Estados Unidos, **país que en el 2026 acogerá 78 de los 104 partidos de la Copa del Mundo** que organizá con Canadá y México.
-
-Seattle, Pasadena, Miami, **Orlando, Atlanta, Charlotte, Nashville, Cincinnati, Washington**, Filadelfia y East Rutherford son las sedes elegidas por la FIFA.
-
-Europa tendrá 12 representantes, Sudamérica seis, **Norte, Centroamérica y Caribe, Asia y África cuatro**, Oceanía y Estados Unidos uno, por ser el país anfitrión.
-
-Completado el cuadro de participantes se procederá al sorteo de la fase de grupos. El mismo se llevará a cabo del **jueves 5 de diciembre en Miami, sede del Inter**, equipo que también competirá en el Mundial junto a su gran estrella, Lionel Messi.
-
-Campeones del Mundial de Clubes
--------------------------------
-
-En el 2000 la FIFA hizo el **primer experimento del Mundial de Clubes en Brasil**. Corinthians fue el primer campeón. En la final derrotó a Vasco da Gama en la definición por penales en el Maracaná.
-
-Para Ecuador existe un grato recuerdo de ese torneo. Necaxa de México quedó en el tercer lugar al vencer en penales al Real Madrid. En los mexicanos brillaban los **ecuatorianos Álex Darío Aguinaga y Agustín Delgado**.
-
-Luego pasaron cuatro años para que se vuelva a repetir el torneo y se desarrolló de manera ininterrumpida hasta el 2023.
-
-Sao Paulo (2005), Internacional (2006), Milan (2007), Manchester United (2008), Barcelona (2009, 2011 y 2015) Inter de Milan (2010), Corinthians (2012), Bayern (2013 y 2020), **Real Madrid (2014, 2016, 2017, 2018 y 2022)**, Liverpool (2019), Chelsea (2021) y Manchester City (2023), son los campeones.
-
-Bombo 1
--------
-
-Manchester City  
-Real Madrid  
-Bayer Múnich  
-París Saint-Germain  
-Flamengo  
-Palmeiras  
-River Plate  
-Fluminense
-
-Bombo 2
--------
-
-Chelsea  
-Borussia Dortmund  
-Inter de Milán  
-Porto  
-Atlético de Madrid  
-Benfica  
-Juventus  
-Salzburgo
-
-Bombo 3
--------
-
-Al-Hilal  
-Ulsan  
-Al-Ahly  
-Wydad Casablanca  
-Monterrey  
-León  
-Boca Juniors  
-Botafogo
-
-Bombo 4
--------
-
-Urawa Red Diamonds  
-Al Ain  
-Espérance Sportive de Tunis  
-Mamelodi Sundowns  
-Pachuca  
-Seattle Sounders  
-Auckland City  
-Inter Miami
-
-San viernes
------------
