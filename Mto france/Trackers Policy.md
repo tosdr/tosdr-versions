@@ -43,7 +43,7 @@ PUBLIC - Menu principal
 * [Climat](https://meteofrance.com/climat "Climat et Changement climatique")
     * Services climatiques
         * [DRIAS, les futurs du climat](http://www.drias-climat.fr/ "Drias, les futurs du climat")
-        * [DRIAS-Eau, les futurs de l'eau](https://www.drias-eau.fr/ "DRIAS, les futurs de l'eau")
+        * [DRIAS-Eau, les futurs de l'eau](https://meteofrance.com/actualites-et-dossiers/actualites/drias-eau-quel-futur-pour-leau-en-2050 "DRIAS, les futurs de l'eau")
         * [Climadiag Agriculture](https://climadiag-agriculture.fr/ "Climadiag Agriculture")
         * [Climadiag Commune](https://meteofrance.com/le-changement-climatique/climadiag-commune "Climadiag Commune")
         * [Climadiag Chaleur en ville](https://meteofrance.com/le-changement-climatique/climadiag-chaleur-en-ville)
