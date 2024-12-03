@@ -1,8 +1,8 @@
-[WebCatalog![WebCatalog](/_next/static/media/logo-white.48337c03.svg)![WebCatalog](/_next/static/media/logo.8a8e76e6.svg)](https://about.webcatalog.io/en/apps/)
+[WebCatalog![WebCatalog](/_next/static/media/logo-white.48337c03.svg)![WebCatalog](/_next/static/media/logo.8a8e76e6.svg)](https://about.webcatalog.io/en/apps)
 
-[Apps](https://about.webcatalog.io/en/apps/)[Games](https://about.webcatalog.io/en/games/)[Categories](https://about.webcatalog.io/en/categories/)[Download](https://desktop.webcatalog.io/)
+[Apps](https://about.webcatalog.io/en/apps)[Games](https://about.webcatalog.io/en/games)[Categories](https://about.webcatalog.io/en/categories)[Download](https://desktop.webcatalog.io/)
 
-Sign inAppearance
+AppearanceSign in
 
 Terms of Service
 ================
@@ -183,53 +183,53 @@ San Francisco, CA 94114, USA
 
 Explore
 
-[Apps](https://about.webcatalog.io/en/apps/)
+[Apps](https://about.webcatalog.io/en/apps)
 
-[Games](https://about.webcatalog.io/en/games/)
+[Games](https://about.webcatalog.io/en/games)
 
-[Categories](https://about.webcatalog.io/en/categories/)
+[Categories](https://about.webcatalog.io/en/categories)
 
-[Submit New App](https://about.webcatalog.io/en/apps/submit/)
+[Submit New App](https://about.webcatalog.io/en/apps/submit)
 
 Desktop
 
 [Download](https://desktop.webcatalog.io/)
 
-[Spaces](https://about.webcatalog.io/en/spaces/)
+[Spaces](https://about.webcatalog.io/en/spaces)
 
 Support
 
-[Help](https://about.webcatalog.io/en/help/)
+[Help](https://about.webcatalog.io/en/help)
 
-[Account](https://about.webcatalog.io/en/account/)
+[Account](https://about.webcatalog.io/en/account)
 
 [System Status](https://status.webcatalog.io/)
 
 Company
 
-[About](https://about.webcatalog.io/en/about/)
+[About](https://about.webcatalog.io/en/about)
 
-[Careers](https://careers.webcatalog.io/)
+[Careers](https://www.linkedin.com/company/webcatalogapp/jobs/?viewAsMember=true)
 
 [Media Kit](https://drive.google.com/drive/folders/1arApHk6u-YYsY_HBbty0ANlrfq8WHQMw?usp=sharing)
 
 Legal
 
-[Privacy Policy](https://about.webcatalog.io/en/legal/privacy-policy/)
+[Privacy Policy](https://about.webcatalog.io/en/legal/privacy-policy)
 
-[Terms of Service](https://about.webcatalog.io/en/legal/terms-of-service/)
+[Terms of Service](https://about.webcatalog.io/en/legal/terms-of-service)
 
-[DMCA Policy](https://about.webcatalog.io/en/legal/copyright-policy/)
+[DMCA Policy](https://about.webcatalog.io/en/legal/copyright-policy)
 
-[Impressum](https://about.webcatalog.io/en/legal/impressum/)
+[Impressum](https://about.webcatalog.io/en/legal/impressum)
 
 [X (Twitter)](https://twitter.com/webcatalog_app "X (Twitter)") [Facebook](https://www.facebook.com/WebCatalogApp/ "Facebook") [Linkedin](https://www.linkedin.com/company/webcatalogapp/ "LinkedIn")[YouTube](https://www.youtube.com/@WebCatalogApp "YouTube")
 
-WebCatalog is part of the [WebCatalog](https://about.webcatalog.io/en/about/) family of products:
+WebCatalog is part of the [WebCatalog](https://about.webcatalog.io/en/about) family of products:
 
 [WebCatalog
 
-WebCatalog](https://about.webcatalog.io/en/)
+WebCatalog](https://webcatalog.io/)
 
 [WebCatalog
 
@@ -251,4 +251,4 @@ Translatium](https://translatium.app/)
 
 We use cookies to provide and improve our websites. By using our sites, you consent to cookies.
 
-Accept[Privacy Policy](https://about.webcatalog.io/en/legal/privacy-policy/)
+Accept[Privacy Policy](https://about.webcatalog.io/en/legal/privacy-policy)
