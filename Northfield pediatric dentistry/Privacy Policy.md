@@ -12,6 +12,7 @@
     * [Financing](https://northfieldpedsdentistry.com/patient-resources/#financing)
 * About Us
     * [Meet Dr. Roz](https://northfieldpedsdentistry.com/meet-dr-roz/)
+    * [Dr. Roz’s Recommended Products](https://northfieldpedsdentistry.com/roz-recommends/)
     * [Meet the Team](https://northfieldpedsdentistry.com/meet-the-team/)
     * [Blog](https://northfieldpedsdentistry.com/blog/)
 * [Services](https://northfieldpedsdentistry.com/services/)
