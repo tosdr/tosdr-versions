@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![28 Facts About Mayan Temples ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/religion/28-facts-about-mayan-temples/)
+[![50 Facts About Styrene ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22107%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/science/chemistry/50-facts-about-styrene/)
 
-Religion
+Chemistry
 
-01 Dec 2024
+03 Dec 2024
 
-[28 Facts About Mayan Temples](https://facts.net/history/religion/28-facts-about-mayan-temples/)
+[50 Facts About Styrene](https://facts.net/science/chemistry/50-facts-about-styrene/)
 
-[![25 Facts About Tyrese Martin ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/celebrity/25-facts-about-tyrese-martin/)
+[![35 Facts About Edward Mordrake ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/characters/35-facts-about-edward-mordrake/)
 
-Celebrity
+Characters
 
-01 Dec 2024
+03 Dec 2024
 
-[25 Facts About Tyrese Martin](https://facts.net/celebrity/25-facts-about-tyrese-martin/)
+[35 Facts About Edward Mordrake](https://facts.net/characters/35-facts-about-edward-mordrake/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
