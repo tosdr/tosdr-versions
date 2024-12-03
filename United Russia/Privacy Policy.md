@@ -305,7 +305,7 @@
 
 [#Киселев](https://er.ru/activity/news?tags%5B0%5D=974) [#РЖД](https://er.ru/activity/news?tags%5B0%5D=1493) [#вагоны](https://er.ru/activity/news?tags%5B0%5D=3163) [#инклюзивныйтуризм](https://er.ru/activity/news?tags%5B0%5D=1094738) [#поезд](https://er.ru/activity/news?tags%5B0%5D=3210) [#людисовз](https://er.ru/activity/news?tags%5B0%5D=123028) [#Солодов](https://er.ru/activity/news?tags%5B0%5D=55773) [#Воронежская область](https://er.ru/activity/news?tags%5B0%5D=1166) [#мониторинг](https://er.ru/activity/news?tags%5B0%5D=5385) [#Москва](https://er.ru/activity/news?tags%5B0%5D=255) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
-Сегодня 17:05
+03.12.24
 
 [![«Единая Россия» и Минтруда РФ представили в Вологде лучшие форматы по поддержке участников СВО](https://cdn.er.ru/media/news/December2024/osfcLnqtf8WOLAI3J8VV-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-i-mintruda-rf-predstavili-v-vologde-luchshie-formaty-po-podderzhke-uchastnikov-svo)
 
