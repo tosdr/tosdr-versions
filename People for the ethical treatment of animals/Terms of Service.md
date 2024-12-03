@@ -66,9 +66,9 @@ Close Mobile Menu
     * [FAQ](https://www.peta.org/about-peta/faq/)
     * [Contact Us](https://www.peta.org/about-peta/contact-peta/)
     * [PETA Global](https://www.peta.org/magazine/issue-4-autumn-2024/)
-* [Donate Now](https://headlines.peta.org/donate/?en_txn7=Navigation::top-donate-now-button)
+* [Donate Now](https://support.peta.org/page/75993/donate/1?en_txn7=Navigation::top-donate-now-button)
     
-    * [Donate Now](https://headlines.peta.org/donate/?en_txn7=Navigation::top-donate-now-button)
+    * [Donate Now](https://support.peta.org/page/75993/donate/1?en_txn7=Navigation::top-donate-now-button)
     * [Vanguard Society](https://www.peta.org/donate/vanguard/)
     * [‘In Honor of’ and Memorial Gifts](https://www.peta.org/donate/ways-to-support-peta/in-honor-of-and-memorial-gifts/)
     * [More Ways to Support](https://www.peta.org/donate/ways-to-support-peta/)
@@ -165,9 +165,9 @@ Close Mobile Menu
     * [Contact Us](https://www.peta.org/about-peta/contact-peta/)
     * [PETA Global](https://www.peta.org/magazine/issue-4-autumn-2024/)
     
-* [Donate Now](https://headlines.peta.org/donate/?en_txn7=Navigation::top-donate-now-button)
+* [Donate Now](https://support.peta.org/page/75993/donate/1?en_txn7=Navigation::top-donate-now-button)
     
-    * [Donate Now](https://headlines.peta.org/donate/?en_txn7=Navigation::top-donate-now-button)
+    * [Donate Now](https://support.peta.org/page/75993/donate/1?en_txn7=Navigation::top-donate-now-button)
     * [Vanguard Society](https://www.peta.org/donate/vanguard/)
     * [‘In Honor of’ and Memorial Gifts](https://www.peta.org/donate/ways-to-support-peta/in-honor-of-and-memorial-gifts/)
     * [More Ways to Support](https://www.peta.org/donate/ways-to-support-peta/)
@@ -247,9 +247,9 @@ Close Mobile Menu
     * [Contact Us](https://www.peta.org/about-peta/contact-peta/)
     * [PETA Global](https://www.peta.org/magazine/issue-4-autumn-2024/)
     
-* [Donate Now](https://headlines.peta.org/donate/?en_txn7=Navigation::top-donate-now-button)
+* [Donate Now](https://support.peta.org/page/75993/donate/1?en_txn7=Navigation::top-donate-now-button)
     
-    * [Donate Now](https://headlines.peta.org/donate/?en_txn7=Navigation::top-donate-now-button)
+    * [Donate Now](https://support.peta.org/page/75993/donate/1?en_txn7=Navigation::top-donate-now-button)
     * [Vanguard Society](https://www.peta.org/donate/vanguard/)
     * [‘In Honor of’ and Memorial Gifts](https://www.peta.org/donate/ways-to-support-peta/in-honor-of-and-memorial-gifts/)
     * [More Ways to Support](https://www.peta.org/donate/ways-to-support-peta/)
