@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/waarom-moet-die-meneer-assad-eigenlijk-weg/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/wetenschap/energie/mysterieuze-knal-geluiden-verklaard/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
