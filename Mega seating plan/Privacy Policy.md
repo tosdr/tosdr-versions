@@ -263,6 +263,8 @@ For further information, please refer to our [privacy policy](https://www.seatin
 
 [Terms of Use](https://www.seatingplan.com/terms)
 
+[Blog](https://www.seatingplan.com/blog)
+
 [Service Status](https://status.seatingplan.com/)
 
 [Climate](https://climate.stripe.com/g3LlrV)
