@@ -205,28 +205,29 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Literotica](https://www.somethingawful.com/weekend-web/literotica-forums/1/)
-* [If Life Were More Like Cartoons](https://www.somethingawful.com/comedy-goldmine/life-were-more/1/)
-* [Dungeons & Dragons: Dungeon Module S2 "White Plume Mountain"](https://www.somethingawful.com/dungeons-and-dragons/white-plume-kelpie/1/)
-* [Amusement Park Madness](https://www.somethingawful.com/photoshop-phriday/amusement-park-madness/1/)
-* [Variety Pack #20: More Bully Bitstrips, Bald Celebrities and Bumper Stickers!](https://www.somethingawful.com/photoshop-phriday/bitstrips-bumperstickers-balds/1/)
+* [At hostpital, lost fingat!](https://www.somethingawful.com/comedy-goldmine/gamecube-challenge-fingat/)
+* [The Paypal Fiasco: In Summary](https://www.somethingawful.com/news/paypal-fiasco-summary/)
+* [Dan Quinn Queers the Stevia Deal](https://www.somethingawful.com/news/dan-quinn/)
+* [Trump VS CNN!](https://www.somethingawful.com/photoshop-phriday/trump-news-gif/)
+* [President of a Very Small Country](https://www.somethingawful.com/comedy-goldmine/super-micro-micronation/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/byob-salt.gif) [What cheap stuff do you prefer over more expensive stuff?](http://forums.somethingawful.com/showthread.php?threadid=4076653 "What cheap stuff do you prefer over more expensive stuff?")
-* ![](https://fi.somethingawful.com/forums/posticons/cd_action.gif) [Did Somebody Shoot My Car?](http://forums.somethingawful.com/showthread.php?threadid=4076669 "Did Somebody Shoot My Car?")
-* ![](https://fi.somethingawful.com/forums/posticons/byob-grumpy.gif) [What do I get my teenage kids for Christmas?](http://forums.somethingawful.com/showthread.php?threadid=4076684 "What do I get my teenage kids for Christmas?")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/unfunny.png) [I made up some terrible jokes!](http://forums.somethingawful.com/showthread.php?threadid=4076679 "I made up some terrible jokes!")
-* ![](https://fi.somethingawful.com/forums/posticons/byob-shocking.gif) [There's this weird little forum advertising here](http://forums.somethingawful.com/showthread.php?threadid=4076689 "There's this weird little forum advertising here")
 * ![](https://fi.somethingawful.com/forums/posticons/tfr-box.gif) [Which emojis should they add (or remove)?](http://forums.somethingawful.com/showthread.php?threadid=4076694 "Which emojis should they add (or remove)?")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/unfunny.png) [I made up some terrible jokes!](http://forums.somethingawful.com/showthread.php?threadid=4076679 "I made up some terrible jokes!")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-grumpy.gif) [What do I get my teenage kids for Christmas?](http://forums.somethingawful.com/showthread.php?threadid=4076684 "What do I get my teenage kids for Christmas?")
+* ![](https://fi.somethingawful.com/forums/posticons/tfr-box.gif) [2025 Celebrity Deadpool](http://forums.somethingawful.com/showthread.php?threadid=4076710 "2025 Celebrity Deadpool")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-shocking.gif) [There's this weird little forum advertising here](http://forums.somethingawful.com/showthread.php?threadid=4076689 "There's this weird little forum advertising here")
+* ![](https://fi.somethingawful.com/forums/posticons/cd_action.gif) [Did Somebody Shoot My Car?](http://forums.somethingawful.com/showthread.php?threadid=4076669 "Did Somebody Shoot My Car?")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-salt.gif) [What cheap stuff do you prefer over more expensive stuff?](http://forums.somethingawful.com/showthread.php?threadid=4076653 "What cheap stuff do you prefer over more expensive stuff?")
 
 ### Random Articles
 
-* [Maxssession](https://www.somethingawful.com/awful-links/awful-link-1752/)
-* [Obamarama!](https://www.somethingawful.com/weekend-web/obama-rama/1/)
-* [Pitfall!: The Movie Part II](https://www.somethingawful.com/news/pitfall-movie-part/)
-* [K. Hawk - Survival Instinct](https://www.somethingawful.com/game-reviews/hawk-survival-instinct/1/)
-* [E3 2007 News Roundup!](https://www.somethingawful.com/news/e3-2007-sucks/1/)
+* [USB Digital Bible Keychain](https://www.somethingawful.com/awful-links/awful-link-4246/)
+* [Paul Schroeder Story](https://www.somethingawful.com/awful-links/awful-link-1276/)
+* [SkyMall Product Reviews: ZenHaus Dog Crates](https://www.somethingawful.com/news/skymall-dog-crate/)
+* [The Mystery and Wonder of the Musical Jamboree](https://www.somethingawful.com/news/mystery-wonder-musical/)
+* [Last Stop Hell](https://www.somethingawful.com/awful-links/awful-link-4013/)
 
 [Random!](https://www.somethingawful.com/random/)
 
