@@ -4,7 +4,7 @@
 
   
 
-🔥 Enjoy massive savings with our [Black Friday Sale!](https://www.maplin.co.uk/pages/black-friday) 🔥
+🔋 Save 30% on selected [Maplin Alkaline Batteries!](https://www.maplin.co.uk/collections/maplin-alkaline-batteries) 🔋
 
 Browse
 
