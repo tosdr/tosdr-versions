@@ -243,6 +243,16 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2023/10/Jeffery-Brooks-326x245.jpg)](https://cwbchicago.com/2024/11/chicago-man-gets-18-years-for-robbing-a-verizon-store-while-on-parole-for-robbing-a-t-mobile.html "Chicago man gets 18 years for robbing a Verizon store while on parole for robbing a T-Mobile")
+
+Bucktown
+
+### [Chicago man gets 18 years for robbing a Verizon store while on parole for robbing a T-Mobile](https://cwbchicago.com/2024/11/chicago-man-gets-18-years-for-robbing-a-verizon-store-while-on-parole-for-robbing-a-t-mobile.html "Chicago man gets 18 years for robbing a Verizon store while on parole for robbing a T-Mobile")
+
+[November 30, 2024 10:28 AM](https://cwbchicago.com/2024/11)
+
+A Chicago man has been given an 18-year sentence for robbing a Bucktown Verizon store while on parole for robbing a T-Mobile in 2020.[](https://cwbchicago.com/2024/11/chicago-man-gets-18-years-for-robbing-a-verizon-store-while-on-parole-for-robbing-a-t-mobile.html "Chicago man gets 18 years for robbing a Verizon store while on parole for robbing a T-Mobile")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/11/P24-1-183A-motorcycle-social-media-326x245.jpg)](https://cwbchicago.com/2024/11/gunmen-are-luring-victims-into-a-robbery-trap-via-social-media-marketplace-ads-police-say.html "Gunmen are luring victims into a robbery trap via social media marketplace ads, police say")
 
 Oakland
@@ -262,16 +272,6 @@ CTA
 [November 30, 2024 7:54 AM](https://cwbchicago.com/2024/11)
 
 A Libertyville man has been given a six-year prison sentence for stabbing a 69-year-old man aboard a CTA bus in the South Loop. Stanislav Zhuravel, 33, was on pretrial release for three misdemeanor cases at the time of the January 15, 2024, attack.[](https://cwbchicago.com/2024/11/man-gets-6-years-for-stabbing-69-year-old-aboard-cta-bus-in-the-south-loop.html "Man gets 6 years for stabbing 69-year-old aboard CTA bus in the South Loop")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/BRAYAN-CORNIEL-GUTIERREZ-326x245.jpg)](https://cwbchicago.com/2024/11/migrant-tells-chicago-cops-he-carries-a-gun-because-his-son-got-murdered-and-they-didnt-do-anything-about-it-report.html "Migrant tells Chicago cops he carries a gun because his son got murdered and they didn’t do anything about it: report")
-
-Englewood
-
-### [Migrant tells Chicago cops he carries a gun because his son got murdered and they didn’t do anything about it: report](https://cwbchicago.com/2024/11/migrant-tells-chicago-cops-he-carries-a-gun-because-his-son-got-murdered-and-they-didnt-do-anything-about-it-report.html "Migrant tells Chicago cops he carries a gun because his son got murdered and they didn’t do anything about it: report")
-
-[November 30, 2024 7:22 AM](https://cwbchicago.com/2024/11)
-
-A migrant accused of possessing a loaded firearm during a traffic stop told Chicago cops that he carried the gun because somebody murdered his son and the police haven’t done anything about it, according to a CPD report. According to court records, this marks Brayan Corniel-Guitierrez’s seventh arrest in Cook County.[](https://cwbchicago.com/2024/11/migrant-tells-chicago-cops-he-carries-a-gun-because-his-son-got-murdered-and-they-didnt-do-anything-about-it-report.html "Migrant tells Chicago cops he carries a gun because his son got murdered and they didn’t do anything about it: report")
 
 Search
 
