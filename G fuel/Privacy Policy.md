@@ -1,5 +1,5 @@
   
-Privacy policy – G FUEL                                                                                          
+Privacy policy – G FUEL                                                                                      
 
 [Skip to content](#MainContent)  
 
@@ -262,7 +262,7 @@ Information you provide to us: From time to time, you may provide us with cert
 
 Information we receive from third parties:  We may obtain information about you from sources other than you, such as from our social media networks on or through which you may access the Site, and/or from other third party website operators on which we or our third party service providers have placed pixel tags (as defined below) in order to drive traffic to our Services. The information that we will receive depends on the third party and your privacy settings with that third party. All information that you disclose to third parties will be subject to the privacy policies and practices of such third parties. You should review the privacy policies and practices of such third parties prior to disclosing information to them. 
 
-We also collect information on third party platforms such as HubSpot, ShipHero, Google AdWords, Google Analytics, Klaviyo Group, etc.  
+We also collect information on third party platforms such as ShipHero, Google AdWords, Google Analytics, Klaviyo Group, TripleWhale, etc.  
 
 Information we collect through automatic data collection technologies: We and third parties acting on our behalf may use various technologies to collect and store information when you use our Services, including sending cookies, web beacons, pixel tags or other anonymous identifiers to your device, or otherwise tracking your activities on our Services over time. We will not share your opt-in to an SMS campaign with any third party for purposes unrelated to providing you with the services of that campaign. We may share your Personal Data, including your SMS opt-in or consent status, with third parties that help us provide our messaging services, including but not limited to platform providers, phone companies, and any other vendors who assist us in the delivery of text messages.
 
@@ -314,11 +314,13 @@ General Disclosure of Your Information:  We may disclose the information we co
     * Google Firebase when you access our Services through our mobile app. Google Firebase usage is subject to Google’s Privacy Policy (link provided above). 
     * LoyaltyLion in order to serve our loyalty and rewards program -- you can read more about how Loyalty Lion uses Your Information here: [https://loyaltylion.com/privacy](https://loyaltylion.com/privacy). 
     * Klaviyo Group in order to provide SMS messaging -- you can read more about how Klaviyo uses Your Information here: [https://www.klaviyo.com/legal/privacy/privacy-notice.](https://www.klaviyo.com/legal/privacy/privacy-notice "Klaviyo Privacy Notice")
+    * TripleWhale in order to serve our advertisements -- you can read more about how TripleWhale uses Your Information here: [Privacy Notice | Triple Whale](https://www.triplewhale.com/pages/privacy-notice)
 * to our third-party vendors or suppliers so that they may provide support for our internal and business operations, including for the handling of the purchase and sale of our products or services, data processing, data verification, data storage, surveys, research, internal marketing, delivery of promotional, marketing and transaction materials and our Services’ maintenance and security. For example, we use (and thus disclose certain of Your Information to): 
     * Shopify in order to power our online store--you can read more about how Shopify uses Your Information here: [https://www.shopify.com/legal/privacy](https://www.shopify.com/legal/privacy). 
     * Google Analytics so that they can help us understand how our customers use the Site – you can read more about how Google uses Your Information here: [https://www.google.com/intl/en/policies/privacy/](https://www.google.com/intl/en/policies/privacy/). You can also opt-out of Google Analytics here: [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout). 
     * ShipHero to fulfill your orders — you can read more about how ShipHero uses Your Information here: [https://shiphero.com/privacy-data-policy](https://shiphero.com/privacy-data-policy). 
     * Klaviyo in order to effectuate our marketing campaigns — you can read more about how Klaviyo uses Your Information here: [https://www.klaviyo.com/legal/privacy/privacy-notice](https://www.klaviyo.com/legal/privacy/privacy-notice)  
+    * TripleWhale in order to serve our advertising and measurement purposes — you can read more about how TripleWhale uses Your Information here: [Privacy Notice | Triple Whale](https://www.triplewhale.com/pages/privacy-notice)
 * to fulfill the purpose for which you provide it; 
 * to any person who, in our reasonable judgment, is authorized to receive Your Information as your agent, including as a result of your business dealings with that person (for example, your attorney); 
 * to third parties when you engage in certain activities through our Services that are sponsored by such third parties, such as purchasing products or services offered by a third party, electing to receive information or communications from a third party or electing to participate in contests, sweepstakes, games or other programs sponsored, in whole or in part, by a third party; 
