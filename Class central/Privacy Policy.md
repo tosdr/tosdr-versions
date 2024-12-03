@@ -412,36 +412,36 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 Most common
 
-1. c
+1. python
     
-2. web development
+2. excel
     
-3. flutter
+3. harvard
     
 
 Popular subjects
 
-1. [Cybersecurity
+1. [Artificial Intelligence
     
-    16,986 courses](https://www.classcentral.com/subject/cybersecurity)
-2. [Digital Marketing
+    14,343 courses](https://www.classcentral.com/subject/ai)
+2. [Computer Networking
     
-    6,294 courses](https://www.classcentral.com/subject/digital-marketing)
+    2,014 courses](https://www.classcentral.com/subject/computer-networking)
 3. [Ethical Hacking
     
     2,241 courses](https://www.classcentral.com/subject/ethical-hacking)
 
 Popular courses
 
-1. [Gamification
+1. [Incarceration: Are Prisons a Suitable Punishment?
     
-    University of Pennsylvania](https://www.classcentral.com/course/gamification-343)
-2. [Terrorism and Counterterrorism: Comparing Theory and Practice
+    University of Leeds](https://www.classcentral.com/course/incarceration-prisons-suitable-punishment-17036)
+2. [Quantum Mechanics for Everyone
     
-    Leiden University](https://www.classcentral.com/course/terrorism-701)
-3. [Mechanical Ventilation for COVID-19
+    Georgetown University](https://www.classcentral.com/course/quantum-physics-mechanics-georgetown-university-q-8284)
+3. [Programming for Everybody (Getting Started with Python)
     
-    Harvard University](https://www.classcentral.com/course/healthcare-harvard-university-mechanical-ventilat-19347)
+    University of Michigan](https://www.classcentral.com/course/python-4319)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
