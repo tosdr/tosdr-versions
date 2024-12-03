@@ -38,7 +38,6 @@ Help children and families this Giving Tuesday
         
     * [Urgent Need](https://www.projecthope.org/urgent-need/)
         * [Lebanon: Securing Essential Supplies](https://www.projecthope.org/news-stories/responses/crisis-in-lebanon-what-you-need-to-know/)
-        * [Hurricane Helene: Setting up Support](https://www.projecthope.org/news-stories/responses/hurricane-helene-how-to-help/)
         * [Ukraine: Supporting Frontline Communities](https://www.projecthope.org/news-stories/responses/crisis-in-ukraine-how-to-help)
         * [Gaza: Responding to Urgent Health Needs](https://www.projecthope.org/news-stories/responses/humanitarian-crisis-in-gaza-how-to-help/)
         * [Sudan: Delivering Critical Medical Supplies](https://www.projecthope.org/news-stories/responses/sudan-crisis-how-to-help)
@@ -112,7 +111,6 @@ Search for:
     * [Back](# "Back")
     * [Urgent Need](https://www.projecthope.org/urgent-need/)
         * [Lebanon: Securing Essential Supplies](https://www.projecthope.org/news-stories/responses/crisis-in-lebanon-what-you-need-to-know/)
-        * [Hurricane Helene: Setting up Support](https://www.projecthope.org/news-stories/responses/hurricane-helene-how-to-help/)
         * [Ukraine: Supporting Frontline Communities](https://www.projecthope.org/news-stories/responses/crisis-in-ukraine-how-to-help)
         * [Gaza: Responding to Urgent Health Needs](https://www.projecthope.org/news-stories/responses/humanitarian-crisis-in-gaza-how-to-help/)
         * [Sudan: Delivering Critical Medical Supplies](https://www.projecthope.org/news-stories/responses/sudan-crisis-how-to-help)
