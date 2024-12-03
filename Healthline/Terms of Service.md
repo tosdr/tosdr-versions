@@ -38,11 +38,6 @@
         Navigating Life with Bipolar Disorder
         
         You’re not alone](https://www.healthline.com/program/navigating-life-with-bipolar-disorder)
-    * [![](https://media.post.rvohealth.io/wp-content/uploads/2024/12/navigation-icons-_mastering-your-geographic-atrophy-236x236_360.png)
-        
-        Mastering Your Geographic Atrophy (GA) Care
-        
-        Managing advanced macular degeneration](https://www.healthline.com/program/mastering-your-geographic-atrophy-care)
     * [![](https://media.post.rvohealth.io/wp-content/uploads/2024/12/navigation-icons_managing-type-2-diabetes-236x236-1.png)
         
         Managing Type 2 Diabetes
@@ -111,7 +106,7 @@
     
     * [Video Series](https://www.healthline.com/video)
     * [Pill Identifier](https://www.healthline.com/pill-identifier)
-    * [FindCare](https://www.healthline.com/find-care)
+    * [FindCare](https://care.healthline.com/find-care)
     * [Drugs A-Z](https://www.healthline.com/drugs)
     
     ### Healthline Lessons
@@ -180,15 +175,6 @@
     
 
 Subscribe
-
-[#### Fitness](https://www.healthline.com/fitness)
-
-* [Exercise](https://www.healthline.com/fitness/exercise)
-* [Cardio](https://www.healthline.com/fitness/cardio)
-* [Products](https://www.healthline.com/fitness/products)
-* [Strength Training](https://www.healthline.com/fitness/strength-training)
-* [Yoga](https://www.healthline.com/fitness/yoga)
-* [Holistic Fitness](https://www.healthline.com/fitness/holistic-fitness)
 
 Terms of Use
 ============
