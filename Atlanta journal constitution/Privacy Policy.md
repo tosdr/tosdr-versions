@@ -1,4 +1,4 @@
-[Breaking: Snow flurries fall in North Georgia, below freezing temps in metro Atlanta](https://www.ajc.com/news/atlanta-news/get-ready-for-temps-in-the-20s-slim-chance-of-snow-flurries-in-north-georgia/4PEMXRYUIFDJ3E6UPIFALIGCZY/)
+[Exclusive: Our latest dining guide: Check out 33 Georgia diners worth the trip](https://www.ajc.com/news/our-latest-dining-guide-check-out-33-georgia-diners-worth-the-trip/ZLFGN2XQZ5D53ADYGPFRM4R2XY/)
 
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1842)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1842)](https://www.ajc.com/)
 
@@ -16,7 +16,6 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
-* [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-we-diners/DEJJJQTQQNA2XB2Z73PYAM2WUQ/)
 * [Politically Georgia](https://www.ajc.com/politics/politically-georgia/)
 * [Georgia Runoff Voter Guide](https://www.ajc.com/politics/georgia-voter-guide/)
 * [Holiday Guide](https://www.ajc.com/things-to-do/atlanta-winter-guide/)
