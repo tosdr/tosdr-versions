@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Matter of Heart](/wp-content/thumbnails/2261-100x70.jpg?x53432)
+* [![Derrick J’s Victimless Crime Spree](/wp-content/thumbnails/6954-100x70.jpg?x53432)
     
-    Matter of Heart
+    Derrick J’s Victimless Crime Spree
     
-    The psyche is the greatest of all cosmic wonders and the “sine qua non” of the world as an object. It is in the highest degree odd that Western man, with but very few – and ever fewer – exceptions, ap](https://documentaryheaven.com/matter-of-heart/ "Matter of Heart")
-* [![America’s First Bare Knuckle Fighting Championship](/wp-content/thumbnails/14280-100x70.jpg?x53432)
+    Derrick J’s Victimless Crime Spree, is a documentary chronicling liberty activist Derrick J Freeman’s exciting first year of activism in The Shire. 540 days in jail for dancing, smoking cannabis, goin](https://documentaryheaven.com/derrick-js-victimless-crime-spree/ "Derrick J’s Victimless Crime Spree")
+* [![EP1/2 Everything and Nothing](/wp-content/thumbnails/5645-100x70.jpeg?x53432)
     
-    America’s First Bare Knuckle Fighting Championship
+    EP1/2 Everything and Nothing
     
-    Ever since the good auld days of the 1800s, bare-knuckle boxing in the United States has been pushed out of the mainstream and into dingy parking lots and grimy basements. It has always been an underg](https://documentaryheaven.com/americas-first-bare-knuckle-fighting-championship/ "America’s First Bare Knuckle Fighting Championship")
-* [![Dish Pigs](/wp-content/thumbnails/14503-100x70.jpg?x53432)
+    Everything A two-part documentary which deals with two of the deepest questions there are – what is everything, and what is nothing?In two epic, surreal and mind-expanding films, Professor Jim Al-Kh](https://documentaryheaven.com/everything-and-nothing-1/ "EP1/2 Everything and Nothing")
+* [![The War on Democracy](/wp-content/thumbnails/423-100x70.png?x53432)
     
-    Dish Pigs
+    The War on Democracy
     
-    It is said that the most compelling tales originate from a restaurants kitchen and more specifically the dish pit and in a city known for nightlife and haute cuisine, Dish Pigs tells the untold storie](https://documentaryheaven.com/dish-pigs/ "Dish Pigs")
-* [![The Modern Racist Paradigm](/wp-content/thumbnails/1838-100x70.jpg?x53432)
+    Award winning journalist John Pilger examines the role of Washington in America’s manipulation of Latin American politics during the last 50 years leading up to the struggle by ordinary people to free](https://documentaryheaven.com/the-war-on-democracy/ "The War on Democracy")
+* [![The World’s Deadliest Arms Race](/wp-content/thumbnails/8432-100x70.jpg?x53432)
     
-    The Modern Racist Paradigm
+    The World’s Deadliest Arms Race
     
-    This is a well researched documentary that exposes the “White” Media’s long-term agenda to standardize Caucasian people as the “social norm” for general society. Through the globalization and central](https://documentaryheaven.com/the-modern-racist-paradigm/ "The Modern Racist Paradigm")
-* [![Losing Sleep](/wp-content/thumbnails/16507-100x70.jpg?x53432)
+    Taliban videos of roadside bomb attacks on coalition vehicles in Afghanistan broadcast on an Al Qaeda network, these videos display images of a ground troops worst fear coming true, being hit by an IE](https://documentaryheaven.com/worlds-deadliest-arms-race/ "The World’s Deadliest Arms Race")
+* [![Elizabeth Taylor](/wp-content/thumbnails/7968-100x70.jpg?x53432)
     
-    Losing Sleep
+    Elizabeth Taylor
     
-    We spend one-third of our lives sleeping and still we don't fully understand why it is we sleep. We know some of the functions that lie behind it but overall it's still very much a mystery. From the](https://documentaryheaven.com/losing-sleep/ "Losing Sleep")
+    Renowned for her legendary beauty and startling violet eyes, actress Elizabeth Taylor has mesmerized audiences with her dramatic performances on the big screen as well as her private life, which inclu](https://documentaryheaven.com/elizabeth-taylor/ "Elizabeth Taylor")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
