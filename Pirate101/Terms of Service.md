@@ -213,6 +213,8 @@ The owner of this Site is based in the State of Texas, USA. The Company makes no
   
 You agree to abide by U.S. and other applicable laws, including export control laws, and not to transfer, by electronic transmission or otherwise, any software or other content downloaded from the Site to a destination prohibited by such laws, without first obtaining, and then complying with, any requisite government authorization. By downloading any software from the Site, you warrant that you are not located in any country, or exporting such software to any person or place, to which the United States has embargoed goods. You further agree not to upload to the Site any data or software that cannot be exported without prior written government authorization, including, but not limited to, certain types of encryption software.  
   
+Our products and services furthermore make use of services of Google Ireland, Ltd. in Dublin. As far as services of Google are concerned, their [Terms and Conditions](https://policies.google.com/terms) apply.  
+  
 In the absence of taxes not shown separately, all related taxes, including but not limited to VAT, GST, PST, QST or sales and use tax, are included in the price where applicable.  
   
 These Terms of Use, as they may be amended from time to time, completely and exclusively state the agreement between you and the Company with respect to the Site, and no other terms that may have been communicated to you orally or in any other manner shall have any force or effect. Any cause of action you may have with respect to the Site must be commenced within one (1) year after the claim or cause of action arises or such claim or cause of action is barred.  
@@ -225,7 +227,7 @@ The terms related to protection of the Company’s intellectual property rights,
   
 The Company’s failure to insist upon or enforce strict performance of any provision of these Terms of Use shall not constitute a waiver of the provision. Neither a course of dealing or conduct between you and the Company nor any trade practices shall be deemed to modify these Terms of Use.
 
-[](https://www.pirate101.com/autologin/free_game?jsessionid=%2FsWUrq6FjsPbE6CKngFfeJrQZjpON2Y9g42Juat01nPGBw%2FSDXpVJxFDh8PWZvAA%2B5x9L7S5abYEKQUZ9uoruWwg17wDmk3wvyAv81Zc1t5IIU9dtT2uKZ%2FrJIQWSskp)
+[](https://www.pirate101.com/autologin/free_game?jsessionid=GGF3lF0t6fVHNhP%2F%2FKwVRg2ouL0jQo9anLjdByWqsqQTllVOg3I9Ni1IsWDhJBwEFGRR%2Flxj6MSuszJDmA1W5MRcyF8LMQrEmnee4eXihGA2S%2B%2BtIUGEZHzdqe1TM126)
 
 * [Free Online Games](https://www.wizard101.com/)
     * [Free to Play Wizard101](https://www.wizard101.com/)
