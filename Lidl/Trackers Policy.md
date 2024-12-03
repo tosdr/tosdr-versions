@@ -103,9 +103,6 @@ To display the website correctly, please use one of the following browsers.
 
 **Caution**Please update your browser, if you proceed with this browser, your shopping experience might not be successful!
 
-Customer Cookie Notice
-----------------------
-
 **Use of cookies and similar techniques**
 
   
