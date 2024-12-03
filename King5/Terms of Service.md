@@ -30,9 +30,9 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/e1f6a3d1-4607-436a-b7b8-382fda23fb5d/20241203T061752/e1f6a3d1-4607-436a-b7b8-382fda23fb5d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e1f6a3d1-4607-436a-b7b8-382fda23fb5d/20241203T061752/e1f6a3d1-4607-436a-b7b8-382fda23fb5d_360x203.jpg)](https://www.king5.com/article/news/local/wsp-arrests-multiple-crashes-involving-impaired-drivers-sunday/281-e919b606-65e0-4bba-ba0d-e079c14b3175)
+    *  [![](https://media.king5.com/assets/KING/images/da8f2a37-dc53-469c-9eab-fe2fc5db4d0e/20241203T005505/da8f2a37-dc53-469c-9eab-fe2fc5db4d0e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/da8f2a37-dc53-469c-9eab-fe2fc5db4d0e/20241203T005505/da8f2a37-dc53-469c-9eab-fe2fc5db4d0e_360x203.jpg)](https://www.king5.com/article/news/local/fob-sushi-reopen-seattle-bellevue-restaurants-after-tiktok-controversy/281-3b1c1580-7915-4b5a-b6f6-95e227258f4b)
         
-        #### ['These are preventable': Arrests made in multiple crashes involving impaired drivers Sunday](https://www.king5.com/article/news/local/wsp-arrests-multiple-crashes-involving-impaired-drivers-sunday/281-e919b606-65e0-4bba-ba0d-e079c14b3175)
+        #### [FOB Sushi to reopen Bellevue, Seattle locations after controversy involving TikToker Keith Lee](https://www.king5.com/article/news/local/fob-sushi-reopen-seattle-bellevue-restaurants-after-tiktok-controversy/281-3b1c1580-7915-4b5a-b6f6-95e227258f4b)
         
     *  [![](https://media.king5.com/assets/KING/images/5490d74e-ff74-485d-ad10-1c2e0fd4f709/5490d74e-ff74-485d-ad10-1c2e0fd4f709_16x9.jpeg) ![](https://media.king5.com/assets/KING/images/5490d74e-ff74-485d-ad10-1c2e0fd4f709/5490d74e-ff74-485d-ad10-1c2e0fd4f709_360x203.jpeg)](https://www.king5.com/article/news/crime/man-arrested-allegedly-stabbing-wife-to-death-bellevue-senior-living-facility/281-18614f42-3ae1-4248-a694-d823902d2e22)
         
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-38°
+37°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Fog](/assets/shared-images/weather-icons/fog-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
