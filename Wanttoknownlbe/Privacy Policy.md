@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/elektro-magnetische-straling-ems/5g-torens-in-brand-ook-in-nederland/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/doe-mee-en-blokkeer-de-rub-intrekking/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
