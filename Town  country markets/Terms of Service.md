@@ -1,5 +1,3 @@
-**CYBER MONDAY GIFT CARDS ARE SOLD OUT! See you next year!**
-
 * My Store:
     
 * [](https://townandcountrymarkets.com/ "Town & Country Markets")
