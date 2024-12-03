@@ -321,16 +321,15 @@ Advertise
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![Palau_Four Seasons Explorer](https://static.ffx.io/images/$zoom_0.5519%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_96/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/faf98df28dae4f7497eb20a949fd921b68979eaf)](https://www.afr.com/life-and-luxury/travel/six-getaways-to-pop-under-the-tree-no-wrapping-required-20241104-p5knra)
+[![Venison ham.](https://static.ffx.io/images/$zoom_0.3185%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_359/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/29184a5662f772849aa19ebbe3bb8a2af1ccaa88)](https://www.afr.com/life-and-luxury/fashion-and-style/ideas-for-the-perfect-festive-setting-for-hosts-and-guests-20241105-p5kny0)
 
-### [The best island holiday no one has heard of: six luxury escapes](https://www.afr.com/life-and-luxury/travel/six-getaways-to-pop-under-the-tree-no-wrapping-required-20241104-p5knra)
+### [The perfect Christmas ham, no pork required](https://www.afr.com/life-and-luxury/fashion-and-style/ideas-for-the-perfect-festive-setting-for-hosts-and-guests-20241105-p5kny0)
 
-* 13 mins ago
-* Ute Junker
+* Eugenie Kelly
 
-* ### [This beige box will transform your TV, and other great gifts](https://www.afr.com/technology/tis-the-season-for-gadgets-under-500-20241030-p5kmir)
+* ### [The best island holiday no one has heard of: six luxury escapes](https://www.afr.com/life-and-luxury/travel/six-getaways-to-pop-under-the-tree-no-wrapping-required-20241104-p5knra)
     
-* ### [Stuck for ideas? Two top Australian designers share their wish lists](https://www.afr.com/life-and-luxury/design/stuck-for-ideas-two-top-australian-designers-share-their-wish-lists-20241112-p5kq2t)
+* ### [This beige box will transform your TV, and other great gifts](https://www.afr.com/technology/tis-the-season-for-gadgets-under-500-20241030-p5kmir)
     
 
 [Rich List](https://www.afr.com/rich-list)
@@ -355,6 +354,14 @@ The Daily Habit of Successful People
 * [](https://www.instagram.com/financialreview/)
 * [](http://www.linkedin.com/company/1628885)
 * [](https://www.facebook.com/financialreview)
+
+My Account
+----------
+
+My Account
+----------
+
+* Login
 
 Subscribe
 ---------
