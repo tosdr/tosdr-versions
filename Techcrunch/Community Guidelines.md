@@ -184,9 +184,9 @@ We base the TechCrunch Code of Conduct on the principles of inclusion, equality,
 * [Intel CEO Retires](https://techcrunch.com/2024/12/02/intel-ceo-pat-gelsinger-retires/)
 * [Swiggy](https://techcrunch.com/2024/12/02/swiggy-scales-10-minute-food-delivery-to-400-cities-in-quick-commerce-push/)
 * [The Browser Company](https://techcrunch.com/2024/12/02/the-browser-company-teases-dia-its-new-ai-browser/)
-* [Amazon Web Services](https://techcrunch.com/2024/12/01/aws-launches-an-incident-response-service-to-combat-cybersecurity-threats/)
+* [AWS re:Invent 2024](https://techcrunch.com/storyline/aws-reinvent-2024-live-updates-from-amazons-biggest-event/)
 * [Meta Subsea Cable](https://techcrunch.com/2024/11/29/meta-plans-to-build-a-10b-subsea-cable-spanning-the-world-sources-say/)
-* [Tech Layoffs](https://techcrunch.com/2024/11/13/tech-layoffs-2024-list/)
+* [Tech Layoffs](https://techcrunch.com/2024/12/02/tech-layoffs-2024-list/)
 * [ChatGPT](https://techcrunch.com/2024/11/22/chatgpt-everything-to-know-about-the-ai-chatbot/)
 
 © 2024 Yahoo.
