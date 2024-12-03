@@ -39,7 +39,7 @@ Shop
     Deals
     
     * [Shop all deals](https://www.verizon.com/deals/)
-    * [Black Friday deals](https://www.verizon.com/deals/black-friday/)
+    * [Cyber Monday deals](https://www.verizon.com/deals/black-friday/)
     * [Free phones](https://www.verizon.com/shop/online/free-cell-phones/)
     * [My offers](https://myvpostpay.verizon.com/ui/hub/ao/myoffers#/)
     * [Smartphones](https://www.verizon.com/deals/smartphones/)
@@ -621,7 +621,7 @@ Shop
 * [Mobile + Home discount](https://www.verizon.com/discounts/phone-home-internet-bundle/)
 * [Bring your own device](https://www.verizon.com/bring-your-own-device/)
 * [TracFone](https://www.tracfonewirelessinc.com/)
-* [Black Friday deals](https://www.verizon.com/deals/black-friday/)
+* [Cyber Monday deals](https://www.verizon.com/deals/black-friday/)
 
 Top Device Brands
 
@@ -699,10 +699,9 @@ Follow Verizon
 * [instagram](https://www.instagram.com/verizon/ "Opens New Window")
 * [TikTok](https://www.tiktok.com/@verizon "Opens New Window")
 
-Follow Verizon Fios
+Verizon Support
 
-* [facebook-official](https://www.facebook.com/Fios/ "Opens New Window")
-* [twitter](https://twitter.com/verizonfios "Opens New Window")
+* [twitter](https://x.com/verizonsupport "Opens New Window")
 
 [](https://www.verizon.com/ "Verizon Home Page")
 
