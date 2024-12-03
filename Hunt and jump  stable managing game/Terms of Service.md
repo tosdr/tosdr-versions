@@ -148,6 +148,14 @@ HuntAndJump.com Rules
 
 ![](/images/coloricons/News-Alerts-2.png)News & Alerts
 
+12/2/2024 11:37 PM EST
+
+Vesela Koleda!
+--------------
+
+The East Bulgarian Warmblood has trotted into the game.  
+![](https://i.imgur.com/TXNRa0l.png)
+
 12/2/2024 7:04 AM EST
 
 ### The updated image generation is now live, and opening the page of any horse will force update its image to the new generation.
@@ -169,22 +177,6 @@ Gift Exchange sign-ups are now open!
 ------------------------------------
 
 Link is in the navigation. Have questions, or want a guide? Check the stickied forum post.
-
-11/15/2024 9:30 AM EST
-
-[SWITCH UP! It's the 15th and Random Gene Sale switch has activated. Until the 1st of the month you can now pick up:](https://hj2.huntandjump.com/upgrade.php#tabs-5)  
-**Mushroom**  
-![](https://www.huntandjump.com/images/grsExamples/mush.png)  
-**Kit Promoter**  
-![](https://www.huntandjump.com/images/grsExamples/kp.png)  
-**Phantom Autumn**  
-![](https://www.huntandjump.com/images/grsExamples/phatmn.png)  
-**Rainbow Riot Paintbrush Prism**  
-![](https://www.huntandjump.com/images/grsExamples/pbp.png)  
-**Appaloosa Spot Regulator 1**  
-![](https://www.huntandjump.com/images/grsExamples/asr1.png)  
-**Gray Reduction**  
-![](https://www.huntandjump.com/images/grsExamples/grayredu.png)
 
 ![](/images/coloricons/Gold-Star-2.png)Bonus Stall Progress
 
