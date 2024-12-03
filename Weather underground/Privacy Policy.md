@@ -20,12 +20,12 @@ Current Weather for Popular
 Cities
 ------------------------------------
 
-* [San Francisco, CA 52 °FClear](https://www.wunderground.com/weather/us/ca/san-francisco/37.78,-122.42)
-* [Manhattan, NY _warning_34 °FCloudy](https://www.wunderground.com/weather/us/ny/manhattan/40.75,-73.99)
-* [Schiller Park, IL (60176) _warning_19 °FPartly Cloudy](https://www.wunderground.com/weather/us/il/schiller-park/41.95,-87.86)
-* [Boston, MA 29 °FFair](https://www.wunderground.com/weather/us/ma/boston/42.36,-71.07)
-* [Houston, TX 49 °FPartly Cloudy](https://www.wunderground.com/weather/us/tx/houston/29.75,-95.36)
-* [St James's, England, United Kingdom 44 °FMostly Cloudy](https://www.wunderground.com/weather/gb/st-james's/51.51,-0.13)
+* [San Francisco, CA 51 °FSunny](https://www.wunderground.com/weather/us/ca/san-francisco/37.78,-122.42)
+* [Manhattan, NY _warning_38 °FPartly Cloudy](https://www.wunderground.com/weather/us/ny/manhattan/40.75,-73.99)
+* [Schiller Park, IL (60176) _warning_26 °FFair](https://www.wunderground.com/weather/us/il/schiller-park/41.95,-87.86)
+* [Boston, MA 36 °FFair](https://www.wunderground.com/weather/us/ma/boston/42.36,-71.07)
+* [Houston, TX 60 °FSunny](https://www.wunderground.com/weather/us/tx/houston/29.75,-95.36)
+* [St James's, England, United Kingdom 44 °FCloudy](https://www.wunderground.com/weather/gb/st-james's/51.51,-0.13)
 
 Search_close__gps\_fixed_
 
@@ -58,7 +58,7 @@ We recognize our responsibility to use data and technology for good. We may use 
 * [Choose how my information is shared](https://www.wunderground.com/privacy-settings#do-not-sell)
 * [Data Rights](https://www.wunderground.com/data-rights)
 
-![TWC Logo](//www.wunderground.com/static/i/misc/twc-white.svg)![TWC Logo](//www.wunderground.com/static/i/misc/twc-knockout.svg)![WU Logo](//www.wunderground.com/static/i/misc/wu-knockout.svg)
+[![The Weather Company Logo](//www.wunderground.com/static/i/misc/twc-white.svg)](https://www.weathercompany.com/)[![The Weather Channel Logo](//www.wunderground.com/static/i/misc/twc-knockout.svg)](https://weather.com/)[![Weather Underground Logo](//www.wunderground.com/static/i/misc/wu-knockout.svg)](https://www.wunderground.com/)[![Storm Radar Logo](//www.wunderground.com/static/i/misc/sr-knockout.svg)](https://weather.com/storm-radar)
 
 © Copyright TWC Product and Technology LLC 2014, 2024
 
