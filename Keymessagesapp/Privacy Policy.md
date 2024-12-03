@@ -35,6 +35,8 @@ _help\_outline_
 
 [Games](https://play.google.com/store/games)[Apps](https://play.google.com/store/apps)[Movies & TV](https://play.google.com/store/movies)[Books](https://play.google.com/store/books)[Kids](https://play.google.com/store/apps/category/FAMILY)
 
+![](/store/apps/details/measure?type=start&cache=start_mgAWrZNFfnpiQ0No)
+
 ![Icon image](https://play-lh.googleusercontent.com/RILA5IZ-EU68-N7nQUwVRUHpwvrheq8fr2GnyvsVpd9r8AcMStTr5s9_4JTE3tQd7vA=w240-h480)![](https://play-lh.googleusercontent.com/RILA5IZ-EU68-N7nQUwVRUHpwvrheq8fr2GnyvsVpd9r8AcMStTr5s9_4JTE3tQd7vA=w240-h480)
 
 ![Icon image](https://play-lh.googleusercontent.com/RILA5IZ-EU68-N7nQUwVRUHpwvrheq8fr2GnyvsVpd9r8AcMStTr5s9_4JTE3tQd7vA=w240-h480)
@@ -311,7 +313,7 @@ Privacy Policy](https://www.mezo.ai/privacypolicy)
 Similar apps
 ------------
 
-_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGFNldzBLeU8xZXd6SnRZVjlNNlFYUWc9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljJivsA)
+_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGGlRMDFKZHVNTUtNR05VQVVTcG0zQ1E9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljL59L4)
 
 [![Thumbnail image](https://play-lh.googleusercontent.com/gnlpo5LYkUtiGNbNRhVFKVtOUnp_B_Sw85SM8QDYT9qA-4_Mq25KBhammMwoZphsjeg=s64)
 
@@ -363,11 +365,13 @@ MailTime
 
 [_flag_Flag as inappropriate](https://support.google.com/googleplay/?p=report_content)
 
+![](/store/apps/details/measure?type=end&cache=end_mgAWrZNFfnpiQ0No)
+
 Google Play[Play Pass](https://play.google.com/store/pass/getstarted)[Play Points](https://play.google.com/store/points/enroll)[Gift cards](https://play.google.com/about/giftcards)[Redeem](https://play.google.com/redeem)[Refund policy](https://support.google.com/googleplay/answer/134336)
 
 Kids & family[Parent Guide](https://support.google.com/googleplay?p=pff_parentguide)[Family sharing](https://support.google.com/googleplay/answer/7007852)
 
-[Terms of Service](https://play.google.com/intl/en_us/about/play-terms.html)
+[Terms of Service](https://play.google.com/intl/en-US_us/about/play-terms.html)
 
 [Privacy](https://policies.google.com/privacy)
 
@@ -379,4 +383,4 @@ Kids & family[Parent Guide](https://support.google.com/googleplay?p=pff_parentgu
 
 ![](https://ssl.gstatic.com/store/images/regionflags/us.png)
 
-United States (English)
+United States (English (United States))
