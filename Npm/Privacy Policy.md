@@ -353,7 +353,8 @@ npm may inadvertently collect data about you if it is included in software packa
 [What data does npm collect about me, and why?](#what-data-does-npm-collect-about-me-and-why)
 ---------------------------------------------------------------------------------------------
 
-### [npm collects data about how you use npm software and registries](#npm-collects-data-about-how-you-use-npm-software-and-registries)
+[npm collects data about how you use npm software and registries](#npm-collects-data-about-how-you-use-npm-software-and-registries)
+-----------------------------------------------------------------------------------------------------------------------------------
 
 When you use the `npm` command, the `npx` command, or other software to work with the npm public registry, an Enterprise registry that npm hosts, or private packages, npm logs data that might be identified to you:
 
@@ -395,7 +396,8 @@ npm uses this data to:
 * recommend packages that may be relevant to your work
     
 
-### [npm collects data about how you use the website](#npm-collects-data-about-how-you-use-the-website)
+[npm collects data about how you use the website](#npm-collects-data-about-how-you-use-the-website)
+---------------------------------------------------------------------------------------------------
 
 When you visit [www.npmjs.com](https://www.npmjs.com/), [docs.npmjs.com](https://www.npmjs.com/), and other npm websites, npm uses cookies, server logs, and other methods to collect data about what pages you visit, and when. npm also collects technical information about the software and computer you use, such as:
 
@@ -427,7 +429,8 @@ npm uses data about how you use the website to:
 * decide who to contact about about product announcements, service changes, and new features
     
 
-### [npm collects account data](#npm-collects-account-data)
+[npm collects account data](#npm-collects-account-data)
+-------------------------------------------------------
 
 Many features of npm services require an npm account. For example, you must have an npm account to publish packages to the npm public registry.
 
@@ -460,7 +463,8 @@ npm uses your email to:
 * send you messages about paid services you might want
     
 
-### [npm collects package data](#npm-collects-package-data)
+[npm collects package data](#npm-collects-package-data)
+-------------------------------------------------------
 
 When you use npm publish or other software to publish packages to the npm public registry, an Enterprise registry that npm hosts, or as a private package, npm collects the contents of the package, plus [metadata](https://en.wikipedia.org/wiki/Metadata), including your account data. Other npm users may also publish packages that include data about you, such as the fact that you contributed code to a package.
 
@@ -473,7 +477,8 @@ npm uses data in packages to provide those packages to you and others who reques
 
 Making package data available to others allows them to download, build on, and depend on your work.
 
-### [npm collects payment card data](#npm-collects-payment-card-data)
+[npm collects payment card data](#npm-collects-payment-card-data)
+-----------------------------------------------------------------
 
 To sign up for paid services, npm requires your payment card data. npm itself does not collect or store enough information to charge your card itself. Rather, [Stripe](https://stripe.com/) collects that data on npm's behalf, and gives npm security tokens that allow npm to create charges and subscriptions.
 
@@ -481,7 +486,8 @@ npm uses your payment card data only to charge for npm services.
 
 npm instructs [Stripe](https://stripe.com/) to store your payment card data only as long as you use paid npm services.
 
-### [npm collects data about correspondence](#npm-collects-data-about-correspondence)
+[npm collects data about correspondence](#npm-collects-data-about-correspondence)
+---------------------------------------------------------------------------------
 
 npm collects data about you when you send npm support requests, legal complaints, privacy inquiries, and business inquiries. Those data usually include your name and email address, and may include your company or other affiliation.
 
@@ -498,7 +504,8 @@ npm uses contact data to:
 * defend npm from legal claims
     
 
-### [npm collects data about use of npm.community](#npm-collects-data-about-use-of-npmcommunity)
+[npm collects data about use of npm.community](#npm-collects-data-about-use-of-npmcommunity)
+--------------------------------------------------------------------------------------------
 
 npm collects data about visits, user accounts, and forum data on [npm.community](https://npm.community/), the discussion forum for users of npm products and services. npm uses data from npm.community to collaborate with the development community, and to inform development decisions about the command-line interface and other software.
 
@@ -528,7 +535,8 @@ npm does not sell information about you to others. However, npm uses services pr
 * Platforms for internal communication
     
 
-### [npm uses cookies](#npm-uses-cookies)
+[npm uses cookies](#npm-uses-cookies)
+-------------------------------------
 
 npm's website only uses cookies strictly necessary to provide, optimize and secure the website. For example, we use them to keep you logged in, remember your preferences, authenticate your device for security purposes, analyze your use of the service, compile statistical reports, and provide information for future development of npm. The website uses internal cookies for analytics purposes, not any third-party analytics or service providers.
 
@@ -697,7 +705,8 @@ npm will announce the next version on the [npm blog](https://blog.npmjs.org/). I
 
 You can review the history of changes in [the Git repository for npm's public policies](https://github.com/npm/documentation/blob/main/content/policies/privacy.mdx).
 
-### Table of contents
+Table of contents
+-----------------
 
 * [What's most important?](#whats-most-important)
 * [How does npm collect data about me?](#how-does-npm-collect-data-about-me)
