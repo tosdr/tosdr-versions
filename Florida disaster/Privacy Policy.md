@@ -223,9 +223,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Monday, December 2, 2024**
+**Tuesday, December 3, 2024**
 
-**...Sunny and Dry Conditions Statewide...Senstive to Locally Elevated Wildfire Conditions Nearly Statewide; Critical Relative Humidity Values Throughout Suwannee Valley...Breezy Wind Gusts at Times Throughout the Afternoon...Another Round of Near or Below Freezing Temperatures Throughout North Florida Overnight...Freeze Warnings Throughout Suwannee Valley and Interior Northeast Florida...Feels-Like Temperatures Falling Into 20s and 30s Throughout North and Central Florida By Tuesday Morning...Patchy to Widespread Frost Possible Throughout North Florida, Nature Coast and Northern Peninsula...Moderate Risk for Rip Currents Nearly Statewide; Locally High Risk Along Portions of South Florida...**
+**...Dry Cold Front to Move Through State Before Dissipating...Cold and Dry Air Filtering Southward...Mostly Sunny Conditions Statewide...Sensitive to Locally Elevated Wildfire Conditions Statewide Due to Near or Below Critical Relative Humidity Values...Another Round of Widespread Freeze and Frost Throughout Interior North Florida and Nature Coast...Coldest Temperatures of the Season Arrive Statewide...Near and Below Freezing Temperatures Throughout Interior North Florida & Nature Coast...Feels-Like Temperatures In 20s and 30s Across North and Central Florida Wednesday Morning...Moderate Risk for Rip Currents Statewide, With Locally High Risk Along Southeast Florida...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
