@@ -41,20 +41,32 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Woman looking at her phone in the bath](https://www.women.com/img/gallery/sex-in-a-long-distance-relationship-what-to-know-and-how-to-make-it-work/intro-1732636315.jpg)](https://www.women.com/1723224/sex-long-distance-relationship-what-know-how-make-work/)
+*  [![A woman reading a book on a sofa](https://www.women.com/img/gallery/the-best-books-of-2024-for-every-genre-interest/intro-1733166416.jpg)](https://www.women.com/1726951/best-books-2024-every-genre-interest/)
     
-    [Exclusives](https://www.women.com/category/exclusives/)
+    [Living](https://www.women.com/category/living/)
     
-    [Exclusives](https://www.women.com/category/exclusives/) By Amanda Chatel
+    [Living](https://www.women.com/category/living/) By Bernadette Roe
     
-    [Sex In A Long-Distance Relationship: What To Know And How To Make It Work](https://www.women.com/1723224/sex-long-distance-relationship-what-know-how-make-work/)
-    ==================================================================================================================================================================
+    [The Best Books Of 2024 For Every Genre & Interest](https://www.women.com/1726951/best-books-2024-every-genre-interest/)
+    ========================================================================================================================
     
-    Even when you're not physically together, keeping your mind and body sexually engaged with each other is important for consistently maintaining that intimacy.
+    There was a magnificent bounty of new book releases in 2024, and we've selected the best of each genre to help you enjoy the crème de la crème.
     
-    By Amanda Chatel [Read More](https://www.women.com/1723224/sex-long-distance-relationship-what-know-how-make-work/)
+    By Bernadette Roe [Read More](https://www.women.com/1726951/best-books-2024-every-genre-interest/)
     
-* *  [![Asian woman browsing books at a bookstore](https://www.women.com/img/gallery/10-mystery-thriller-books-we-cant-wait-for-in-2025/intro-1732295218.jpg)](https://www.women.com/1720983/mystery-thriller-books-cant-wait-for-2025/)
+* *  [![Woman looking at her phone in the bath](https://www.women.com/img/gallery/sex-in-a-long-distance-relationship-what-to-know-and-how-to-make-it-work/intro-1732636315.jpg)](https://www.women.com/1723224/sex-long-distance-relationship-what-know-how-make-work/)
+        
+        [Exclusives](https://www.women.com/category/exclusives/)
+        
+        [Exclusives](https://www.women.com/category/exclusives/) By Amanda Chatel
+        
+        ### [Sex In A Long-Distance Relationship: What To Know And How To Make It Work](https://www.women.com/1723224/sex-long-distance-relationship-what-know-how-make-work/)
+        
+        Even when you're not physically together, keeping your mind and body sexually engaged with each other is important for consistently maintaining that intimacy.
+        
+        By Amanda Chatel [Read More](https://www.women.com/1723224/sex-long-distance-relationship-what-know-how-make-work/)
+        
+    *  [![Asian woman browsing books at a bookstore](https://www.women.com/img/gallery/10-mystery-thriller-books-we-cant-wait-for-in-2025/intro-1732295218.jpg)](https://www.women.com/1720983/mystery-thriller-books-cant-wait-for-2025/)
         
         [Living](https://www.women.com/category/living/)
         
@@ -65,18 +77,6 @@
         A new year means new books, and 2025 will see some great additions to your shelf. Fans of mysteries and thrillers should check out these 10 upcoming releases.
         
         By Madison Emily Whisenand [Read More](https://www.women.com/1720983/mystery-thriller-books-cant-wait-for-2025/)
-        
-    *  [![Taylor Swift at the MTV Awards in 2024](https://www.women.com/img/gallery/taylor-swift-outfits-that-totally-missed-the-mark-in-2024/intro-1732210802.jpg)](https://www.women.com/1719639/taylor-swift-outfits-totally-missed-mark-2024/)
-        
-        [Fashion](https://www.women.com/category/fashion/)
-        
-        [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
-        
-        ### [Taylor Swift Outfits That Totally Missed The Mark In 2024](https://www.women.com/1719639/taylor-swift-outfits-totally-missed-mark-2024/)
-        
-        Taylor Swift is all about taking risks, and occasionally, they flop. In 2024, Swift switched things up and started doing things differently.
-        
-        By Bernadette Roe [Read More](https://www.women.com/1719639/taylor-swift-outfits-totally-missed-mark-2024/)
         
 
 More Stories
@@ -93,6 +93,18 @@ More Stories
     The slicked-back bun seems to be everywhere in 2024, seen on the red carpet as well as on the street. Here are five celebrities who have perfected the look.
     
     By Madison Emily Whisenand [Read More](https://www.women.com/1719912/celebs-who-mastered-art-slicked-back-bun/)
+    
+*  [![Taylor Swift at the MTV Awards in 2024](https://www.women.com/img/gallery/taylor-swift-outfits-that-totally-missed-the-mark-in-2024/intro-1732210802.jpg)](https://www.women.com/1719639/taylor-swift-outfits-totally-missed-mark-2024/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
+    
+    ### [Taylor Swift Outfits That Totally Missed The Mark In 2024](https://www.women.com/1719639/taylor-swift-outfits-totally-missed-mark-2024/)
+    
+    Taylor Swift is all about taking risks, and occasionally, they flop. In 2024, Swift switched things up and started doing things differently.
+    
+    By Bernadette Roe [Read More](https://www.women.com/1719639/taylor-swift-outfits-totally-missed-mark-2024/)
     
 *  [![HER with an afro](https://www.women.com/img/gallery/20-celebs-who-look-gorgeous-with-their-natural-hair/intro-1731701805.jpg)](https://www.women.com/1714855/celebs-look-gorgeous-with-their-natural-hair/)
     
@@ -393,18 +405,6 @@ More Stories
     If you're looking to read more books this year, keeping up with a book club is a great place to start. And joining Oprah's book club is even better.
     
     By Madison Emily Whisenand [Read More](https://www.women.com/1710300/best-oprah-book-club-picks-2020s/)
-    
-*  [![Willow Smith sitting at a fashion event posing](https://www.women.com/img/gallery/5-bisexual-celebs-who-remind-us-theres-no-timeline-for-coming-out/intro-1731342732.jpg)](https://www.women.com/1710102/celebs-who-came-out-bisexual-later-life/)
-    
-    [Politics](https://www.women.com/category/politics/)
-    
-    [Politics](https://www.women.com/category/politics/) By Amanda Chatel
-    
-    ### [5 Bisexual Celebs Who Remind Us There's No Timeline For Coming Out](https://www.women.com/1710102/celebs-who-came-out-bisexual-later-life/)
-    
-    If you're trying to find the right time to share your bisexuality, know that there is no right time. It's all about when it feels right for you.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1710102/celebs-who-came-out-bisexual-later-life/)
     
 
 Back
