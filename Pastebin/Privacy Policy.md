@@ -168,37 +168,37 @@ Questions regarding Pastebin's Privacy Statement or information practices should
 
 [Public Pastes](https://pastebin.com/archive)
 
-* [⭐ get any gift card for AZ](https://pastebin.com/nDapM6dN)
+* [⭐ get any gift card for FREE](https://pastebin.com/NbxUBX2Y)
+    
+    JavaScript | 1 sec ago | 0.05 KB
+    
+* [⭐️ EARN $500 INSTANTLY⭐ B1](https://pastebin.com/at9Mw5SM)
     
     JavaScript | 2 sec ago | 0.18 KB
     
-* [⭐ get any gift card for FREE⭐ BY](https://pastebin.com/0SwHJGLB)
+* [⭐ FREE giftcards method⭐ N8](https://pastebin.com/MWbgDp8U)
     
-    JavaScript | 3 sec ago | 0.18 KB
+    JavaScript | 4 sec ago | 0.18 KB
     
-* [Amazon Gift cards LEAKED](https://pastebin.com/HGWg7gxb)
+* [⭐ FREE giftcards method](https://pastebin.com/6YksZsNY)
     
-    JavaScript | 4 sec ago | 0.09 KB
+    JavaScript | 8 sec ago | 0.05 KB
     
-* [Brazzers accounts](https://pastebin.com/2Zb52wku)
+* [⭐ Binance Account hack IR](https://pastebin.com/Jvk3g6FC)
     
-    JavaScript | 4 sec ago | 0.09 KB
+    JavaScript | 10 sec ago | 0.18 KB
     
-* [⭐ get any gift card for A0](https://pastebin.com/wJXwSQMq)
+* [⭐ FREE giftcards method 0P](https://pastebin.com/HTCN8Ecm)
     
-    JavaScript | 6 sec ago | 0.18 KB
+    JavaScript | 16 sec ago | 0.18 KB
     
-* [Leaked by Zak](https://pastebin.com/frkxj5ZB)
+* [⭐ Binance Account hack 4K](https://pastebin.com/0GQZKRXM)
     
-    JavaScript | 7 sec ago | 0.09 KB
+    JavaScript | 19 sec ago | 0.18 KB
     
-* [Amazon Gift cards LEAKED](https://pastebin.com/5zG8uQQs)
+* [⭐ get any gift card for FREE⭐ DP](https://pastebin.com/eAq9fiar)
     
-    JavaScript | 7 sec ago | 0.09 KB
-    
-* [BTC ACCOUNTS HACKED](https://pastebin.com/HzwUU0Pp)
-    
-    JavaScript | 9 sec ago | 0.09 KB
+    JavaScript | 21 sec ago | 0.18 KB
     
 
 [](https://pastebin.com/tools#chrome "Google Chrome Extension")[](https://pastebin.com/tools#firefox "Firefox Extension")[](https://pastebin.com/tools#iphone "iPhone/iPad Application")[](https://pastebin.com/tools#windows "Windows Desktop Application")[](https://pastebin.com/tools#android "Android Application")[](https://pastebin.com/tools#macos "MacOS X Widget")[](https://pastebin.com/tools#opera "Opera Extension")[](https://pastebin.com/tools#pastebincl "Linux Application")
