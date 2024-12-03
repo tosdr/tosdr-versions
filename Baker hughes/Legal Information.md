@@ -2271,4 +2271,4 @@ Legal footer
 * [Conflict Minerals](https://www.bakerhughes.com/conflict-minerals)
 * [E-Waste](https://www.bakerhughes.com/electronic-waste-information)
 * [Privacy Notice](https://www.bakerhughes.com/privacy)
-* [Preferences](https://info.bakerhughes.com/Preference-Center-Login-LP.html)
+* [Preferences](https://site.bakerhughes.com/Preference-Center-Login-LP.html)
