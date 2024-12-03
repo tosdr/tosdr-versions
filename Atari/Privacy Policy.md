@@ -258,7 +258,7 @@ Apparel & Collectibles
 
 #### COLLECTIONS
 
-* [Holiday](https://www.atari.com/collections/holiday-collection)
+* [Stocking Stuffers](https://www.atari.com/collections/stocking-stuffers)
     
     [Jaguar](https://www.atari.com/collections/jaguar)
     
@@ -304,7 +304,7 @@ ACCESSORIES
 
 COLLECTIONS
 
-* [Holiday](https://www.atari.com/collections/holiday-collection)
+* [Stocking Stuffers](https://www.atari.com/collections/stocking-stuffers)
     
     [Jaguar](https://www.atari.com/collections/jaguar)
     
@@ -324,7 +324,7 @@ Shop All Tees](https://www.atari.com/collections/atari-tshirts)
 
 Shop All Hats](https://www.atari.com/collections/hats)
 
-\*\*New!\*\*/collections/holiday-collection; \*\*New!\*\*/collections/bentley-bear; \*\*Popular\*\*/collections/sweatshirts
+\*\*New!\*\*/collections/stocking-stuffers \*\*New!\*\*/collections/bentley-bear; \*\*Popular\*\*/collections/sweatshirts
 
 New
 
@@ -614,7 +614,7 @@ Unit price /  per](https://www.atari.com/products/cx30-paddle-controller-bundle
 
 Add to cart
 
-$30 OFF
+20% OFF
 
 ##### 7800+ Controller Mega Bundle
 
