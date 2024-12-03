@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Devil’s Bible](/wp-content/thumbnails/1096-100x70.jpg?x53432)
+* [![Cleveland Captives: What Really Happened?](/wp-content/thumbnails/7169-100x70.jpg?x53432)
     
-    Devil’s Bible
+    Cleveland Captives: What Really Happened?
     
-    A documentary about a mysterious medieval manuscript. Unlock the secrets of a medieval mystery, as science and investigation uncover the fabled and feared Devil's Bible. The 'Codex Gigas', latin for b](https://documentaryheaven.com/devils-bible/ "Devil’s Bible")
-* [![EP2/6 Surviving the Cut: US Air Force Pararescue](/wp-content/thumbnails/5114-100x70.jpg?x53432)
+    For 10 years Amanda Berry, Georgina DeJesus, and Michelle Knight were presumed dead when they were kidnapped on the same stretch of road in Cleveland, Ohio. But in May, 2013, the trio were miraculousl](https://documentaryheaven.com/cleveland-captives-what-really-happened/ "Cleveland Captives: What Really Happened?")
+* [![Sri Lanka’s Killing Fields](/wp-content/thumbnails/6167-100x70.jpg?x53432)
     
-    EP2/6 Surviving the Cut: US Air Force Pararescue
+    Sri Lanka’s Killing Fields
     
-    US Air Force Pararescue Air Force Pararescuemen are the most highly trained combat search and rescue experts in US Special Operations. When a pilot goes down behind enemy lines, these are the experts](https://documentaryheaven.com/surviving-the-cut-us-air-force-pararescue/ "EP2/6 Surviving the Cut: US Air Force Pararescue")
-* [![Julian Assange In Conversation With John Pilger](/wp-content/thumbnails/6032-100x70.jpg?x53432)
+    Jon Snow presents a forensic investigation into the final weeks of the quarter-century-long civil war between the government of Sri Lanka and the secessionist rebels, the Tamil Tigers.With disturb](https://documentaryheaven.com/sri-lanka%e2%80%99s-killing-fields/ "Sri Lanka’s Killing Fields")
+* [![Nas’ Story](/wp-content/thumbnails/3925-100x70.jpg?x53432)
     
-    Julian Assange In Conversation With John Pilger
+    Nas’ Story
     
-    The attacks on WikiLeaks and its founder, Julian Assange, are a response to an information revolution that threatens old power orders, in politics and journalism.The incitement to murder trumpeted](https://documentaryheaven.com/julian-assange-in-conversation-with-john-pilger/ "Julian Assange In Conversation With John Pilger")
-* [![Journalists: Killed in the Line of Duty](/wp-content/thumbnails/486-100x70.png?x53432)
+    A very good documentary about the hip-hop artist Nas, giving  good insight into his life and upbringing.](https://documentaryheaven.com/nas-story/ "Nas’ Story")
+* [![Is it Real? Extreme Sleepwalking](/wp-content/thumbnails/1201-100x70.jpg?x53432)
     
-    Journalists: Killed in the Line of Duty
+    Is it Real? Extreme Sleepwalking
     
-    Around the world, journalists are increasingly being killed. They die in the crossfire. They die at the hand of criminals and corupt goverments. They die in tragic accidents. In the case of targeted d](https://documentaryheaven.com/journalists-killed-in-the-line-of-duty/ "Journalists: Killed in the Line of Duty")
-* [![Thatcher: Ireland And The Iron Lady](/wp-content/thumbnails/11858-100x70.jpg?x53432)
+    Is it possible that people can commit complex crimes - even murder - while they are sleepwalking? With only a dead victim and a zoned-out sleepwalker at the scene of the crime, it is hard to know for](https://documentaryheaven.com/is-it-real-extreme-sleepwalking/ "Is it Real? Extreme Sleepwalking")
+* [![The Truth About Online Anorexia](/wp-content/thumbnails/5961-100x70.jpg?x53432)
     
-    Thatcher: Ireland And The Iron Lady
+    The Truth About Online Anorexia
     
-    During 11 years in power Margaret Thatcher polarised and inspired in equal measure, not only in Britain but also around the world. She helped end the Cold War and was victorious in the Falklands,](https://documentaryheaven.com/thatcher-ireland-iron-lady/ "Thatcher: Ireland And The Iron Lady")
+    Fearne Cotton examines the ongoing trend for super-slim women and immerses herself in the worrying world of pro-ana websites who encourage anorexia and starvation as a life choice.As Fearne expl](https://documentaryheaven.com/the-truth-about-online-anorexia/ "The Truth About Online Anorexia")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
