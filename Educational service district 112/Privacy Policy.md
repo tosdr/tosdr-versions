@@ -398,7 +398,7 @@ Email: [hr.dept@esd112.org](mailto:hr.dept@esd112.org)
 #### [112 Staff Resources](#3093ae5710c15c503)
 
 * [Employee Email](https://outlook.office.com/)
-* [Change Password](https://mysignins.microsoft.com/security-info/password/change)
+* [Change/Reset Password](https://mysignins.microsoft.com/security-info/password/change)
 * [ESDiscover (Intranet)](https://esd112.sharepoint.com/teams/inet)
 * [Employee Access](https://www.q.wa-k12.net/esd112)
 * [Board Policies](https://www.esd112.org/about/board/?target=board-policy)
@@ -448,7 +448,7 @@ ESD 112 acknowledges and honors the traditional lands of the Cowlitz and Chinook
 #### 112 Staff Resources
 
 * [Employee Email](https://outlook.office.com/)
-* [Change Password](https://mysignins.microsoft.com/security-info/password/change)
+* [Change/Reset Password](https://mysignins.microsoft.com/security-info/password/change)
 * [ESDiscover (Intranet)](https://esd112.sharepoint.com/teams/inet)
 * [Employee Access](https://www.q.wa-k12.net/esd112)
 * [Board Policies](https://www.esd112.org/about/board/?target=board-policy)
