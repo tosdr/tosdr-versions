@@ -411,7 +411,7 @@ Who is the controller of my data? For the purposes of EU/UK data protection legi
 Terms of Service
 ----------------
 
-**MODIFIED ON: July 3, 2024**
+**MODIFIED ON: November 29, 2024**
 
 ##### Choose the Language
 
@@ -459,8 +459,8 @@ Português Brasileiro
 [4\. USER CONTENT](#section-4)  
 [5\. FEES AND PURCHASE TERMS](#section-5)  
 [6\. UPDATES TO OUR SERVICES](#section-6)  
-[7\. DISCLAIMER OF WARRANTIES](#section-7)  
-[8\. LIMITATION OF LIABILITY AND INDEMNIFICATION](#section-8)  
+[7\. HEALTH AND SAFETY WARNINGS](#section-7)  
+[8\. DISCLAIMERS; LIMITATION OF LIABILITY AND INDEMNIFICATION](#section-8)  
 [9\. DISPUTE RESOLUTION](#section-9)  
 [10\. GENERAL PROVISIONS](#section-10)  
   
@@ -596,9 +596,11 @@ User Content may be processed by us in accordance with our Privacy Policy. Pleas
   
 Any time you purchase virtual currency (including but not limited to virtual cash and other in-game premium currency), virtual in-game items, and any other premium goods or services in connection with our Services (collectively, “**Virtual Items**”) with real currency (i.e., real world money), Scopely grants you a limited, personal, non-transferable, non-sublicensable, revocable license to use such Virtual Items. All purchases and redemptions of such Virtual Items through our Services are final and non-refundable, unless otherwise determined by us. Scopely may manage, regulate, control, modify, or eliminate Virtual Items at any time, with or without notice to you. Scopely will have no liability to you or any third party in the event that Scopely exercises any such rights.  
   
+Notwithstanding the above, for residents of the EU/EEA, unless otherwise determined by us, we do not provide you with a voluntary, additional contractual right to claim a refund beyond your statutory withdrawal right and any statutory warranty claims or other statutory refund claims which remain unaffected. Scopely may modify Virtual Items beyond what is necessary to maintain such Virtual Items in conformity if (i) the modification introduces new services, features or functionalities (in particular to improve or further develop such Virtual Items or parts thereof), (ii) the Virtual Items have to be adapted to a new technical environment or to increased user numbers or (iii) modifications are objectively necessary for other important operational reasons. Such modifications will in any event be without additional cost to you, and Scopely will inform you in a clear and comprehensible manner of such modifications.  
+  
 Virtual Items have no real-world value. Other than as expressly authorized in our Services, you may not sell, redeem, or otherwise transfer Virtual Items to any person or entity, including but not limited to Scopely, another user, or any third party.  
   
-You understand that use of the Services may result in charges to you, and you agree to pay all fees and applicable taxes incurred by you or anyone using your Account. Payments will be enabled using the payment method associated with your Account. We may revise the pricing for the goods and services offered through our Services at any time. We may also from time to time provide certain users with offers and discounts that may result in different amounts charged for the same or similar services or goods obtained through the use of the Services, and you agree that such offers and discounts, unless also made available to you, shall have no bearing on your use of the Services or payments charged to your Account. If you choose to sign up for a subscription or VIP experience in connection with the Services, payments will be enabled in accordance with the terms displayed to you at the point of purchase, and available to you thereafter on the applicable Service(s). You acknowledge and agree that, except where otherwise provided under applicable law, we are under no obligation to provide you with a refund for any items (including Virtual Items) that are in your Account, for any reason, including but not limited to termination of your Account or when closing your Account, whether such actions are voluntary or involuntary.  
+You understand that use of the Services may result in charges to you, and you agree to pay all fees and applicable taxes incurred by you or anyone using your Account. Payments will be enabled using the payment method associated with your Account. We may revise the pricing for the goods and services offered through our Services at any time. We may also from time to time provide certain users with offers and discounts that may result in different amounts charged for the same or similar services or goods obtained through the use of the Services, and you agree that such offers and discounts, unless also made available to you, shall have no bearing on your use of the Services or payments charged to your Account. If you choose to sign up for a subscription or VIP experience in connection with the Services, payments will be enabled in accordance with the terms displayed to you at the point of purchase, and available to you thereafter on the applicable Service(s). You acknowledge and agree that, except where otherwise provided in these Terms or under applicable law, we are under no obligation to provide you with a refund for any items (including Virtual Items) that are in your Account, for any reason, including but not limited to termination of your Account or when closing your Account, whether such actions are voluntary or involuntary.  
   
 If you choose to sign up for a subscription or VIP experience, you will be presented with subscription-specific terms at that time, describing if and when your subscription will automatically renew, for what period of time, and at what cost, and how to tell us to cancel it. Those terms will also explain how to cancel a subscription and the time period in which you should do so before you will be charged. Those terms will also be available to you after you sign up, including in-game through the Help settings.  
   
@@ -609,14 +611,20 @@ If you choose to sign up for a subscription or VIP experience, you will be prese
 You understand that our Services are developing and evolving. Scopely may require that you accept updates to our Services. While Scopely will make all reasonable efforts to inform you of any such updates, you acknowledge and agree that Scopely may update our Services, with or without informing or otherwise notifying you. You may need to update third-party software from time to time in order to receive our Services and/or play our games.  
   
 
-**7.Disclaimer of warranties**
+**7.HEALTH AND SAFETY WARNINGS**
 
   
-The Services are provided on an “AS IS” and “AS AVAILABLE” basis for your use, with no warranties of any kind, express or implied, including without limitation the warranties of merchantability, fitness for a particular purpose, title, non-infringement, and those arising from course of dealing or usage of trade. Scopely does not warrant that you will be able to access or use our Services at the times or locations of your choosing; that our Services will be of a certain quality or suitability, or will be uninterrupted or error-free; that defects will be corrected; or that our Services are free of viruses or other harmful components.  
+**Photosensitivity warning**  
+  
+A small percentage of people may experience reactions to certain visual images or patterns, including flashing lights even without a diagnosed condition or history. To reduce the risk take regular breaks, play in a well-lit room, avoid playing when drowsy or fatigued, view the game from a distance or on a smaller screen, and limit the duration of play. If you have a history of epileptic or photosensitivity conditions, please consult your physician before playing any of our video games.  
+  
+Stop playing immediately and consult a doctor if you experience any discomfort.  
   
 
 **8.LIMITATION OF LIABILITY AND INDEMNIFICATION**
 
+  
+The Services are provided on an “AS IS” and “AS AVAILABLE” basis for your use, with no warranties of any kind, express or implied, including without limitation the warranties of merchantability, fitness for a particular purpose, title, non-infringement, and those arising from course of dealing or usage of trade. Scopely does not warrant that you will be able to access or use our Services at the times or locations of your choosing; that our Services will be of a certain quality or suitability, or will be uninterrupted or error-free; that defects will be corrected; or that our Services are free of viruses or other harmful components.  
   
 **Limitation of Liability**  
   
@@ -624,9 +632,13 @@ Scopely will not be liable to you for any indirect, incidental, consequential, s
   
 To the extent that Scopely may not, as a matter of applicable law, disclaim any warranty or limit its liability as set forth herein, the scope of such warranty and the extent of Scopely’s liability will be the minimum permitted under such applicable law. In particular, nothing in these Terms will affect the statutory rights of any consumer or exclude or restrict any liability for death or personal injury arising from any negligence or fraud of Scopely. This provision shall have no effect on the choice of law provision set forth below.  
   
+Notwithstanding the above, for residents of the EU/EEA, Scopely shall only be liable for damages, irrespective of the legal grounds, in the event of intent, gross negligence and slightly negligent breach of material contractual obligations (cardinal obligations). Material contractual obligations are obligations the fulfillment of which is necessary to achieve the objective of the contract. In the event of a slightly negligent breach of material contractual obligations, Scopely’s liability shall be limited to compensation of foreseeable damages typical of the contract. In particular, indirect damages shall not be compensated. The above limitations of liability shall also apply in favor of Scopely’s legal representatives and vicarious agents if claims are asserted directly against them. The above limitations of liability do not apply to (i) culpably caused damages resulting from injury to life, limb or health on the part of Scopely and (ii) statutory no-fault liability under the EU Product Liability Directive, as transposed into national law.  
+  
 **Indemnification**  
   
 You agree to indemnify, save, and hold Scopely, its affiliated companies, officers, directors, contractors, employees, agents, third-party suppliers, licensors, and partners harmless from any and all claims, losses, damages, and liabilities, including legal fees and expenses, arising out of or relating to: (i) your use or misuse of our Services or goods or services obtained in connection therewith; (ii) your breach or violation of these Terms; (iii) our use of your User Content; or (iv) any breach of the representations, warranties, and covenants made by you herein. We reserve the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify us, and you agree to cooperate with our defense of these claims. We will use reasonable efforts to notify you of any such matter upon becoming aware of it.  
+  
+The above shall not apply to residents of the EU/EEA. Residents of the EU/EEA shall be liable for damages resulting from negligent and intentional breaches of these Terms.  
   
 
 **9.DISPUTE RESOLUTION**
@@ -678,7 +690,7 @@ We all agree that we can only bring claims against each other on an individual b
 That means:  
 
   
-* Neither you nor Scopely can bring a claim as a plaintiff or participate as a class member in a class, collective, consolidated, private attorney general, or representative action in arbitration or in court. However, you and we retain the right to participate in a class-wide settlement.
+* Neither you nor Scopely can bring a claim as a plaintiff or participate as a class member in a class, collective, consolidated, private attorney general, or representative action in arbitration or in court. However, you and we retain the right to participate in a class-wide settlement. Notwithstanding the above, for residents of the EU/EEA, nothing in this “No Class Actions” section limits (i) your right to directly bring a legal action against Scopely before a competent court, and/or (ii) your right to benefit from representative actions by qualified entities brought against Scopely according to national laws of EU/EEA Member States.
   
 * The arbitrator cannot combine more than one person’s claim into a single case, and cannot preside over any class, collective, consolidated, private attorney general, or representative arbitration proceeding (unless we both agree to change this).
   
@@ -735,7 +747,7 @@ Such written notice does not constitute an opt out of arbitration or the class a
 Except as otherwise provided in these Terms, you and Scopely agree that if any portion of these Terms is found unlawful or unenforceable, in whole or in part, that provision will be ineffective only to the extent of such finding in such jurisdiction, without affecting the validity or enforceability thereof in any other manner or jurisdiction and without affecting the remaining provisions of these Terms, which will be enforced to the fullest extent of the law.  
   
 **Choice of Law and Jurisdiction**  
-If you are a US resident, these Terms and our relationship will be governed by the laws of the state in which you reside, without giving effect to its conflicts of laws principles, except as otherwise provided above. As described in Section 9, the Federal Arbitration Act will apply to arbitrable disputes. If you reside outside the US, these Terms and our relationship will be governed by English law, without giving effect to its conflicts of laws principles.  
+If you are a US resident, these Terms and our relationship will be governed by the laws of the state in which you reside, without giving effect to its conflicts of laws principles, except as otherwise provided above. As described in Section 9, the Federal Arbitration Act will apply to arbitrable disputes. If you reside outside the US, these Terms and our relationship will be governed by English law, without giving effect to its conflicts of laws principles; however, consumers having their habitual residence within the EU/EEA can nevertheless rely upon additional protections under mandatory consumer protection laws of their home country.  
   
 If you are a US resident and the arbitration agreement is ever deemed unenforceable or void as to your dispute, or a dispute between the parties is not subject to arbitration, you irrevocably consent to the exclusive jurisdiction of the federal and state courts encompassed by New York County, New York or New Castle County, Delaware and waive any objection as to personal jurisdiction or as to the laying of venue in such courts due to: (i) inconvenient forum; or (ii) any other basis or any right to seek to transfer or change venue of any such action to another court.  
   
