@@ -68,6 +68,8 @@ If you think that the way we process your personal data with Google Analytics or
 
 [Terms of Use](https://www.seatingplan.com/terms)
 
+[Blog](https://www.seatingplan.com/blog)
+
 [Service Status](https://status.seatingplan.com/)
 
 [Climate](https://climate.stripe.com/g3LlrV)
