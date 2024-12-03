@@ -434,7 +434,7 @@ Excellent
 ![4.5 green stars](https://www.confused.com/-/media/confused/redesign/reviews/review-star-ratings-trustpilot/trustpilottrue-star-number45.svg)
 
 Confused.com scores a **4.3** out of 5 rating  
-based on [**7135** reviews](https://uk.trustpilot.com/review/confused.com) as of 17/04/2024
+based on [**8008** reviews](https://uk.trustpilot.com/review/confused.com) as of 03/12/2024
 
 ![Trustpilot logo](https://www.confused.com/-/media/confused/redesign/reviews/review-star-ratings-trustpilot/trustpilot-logo.svg)
 
