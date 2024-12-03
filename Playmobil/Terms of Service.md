@@ -1,6 +1,6 @@
-[🎁 Don’t let the fun fizzle out! 🥳 Get 50% OFF on orders over $100! 🚨⏰ Ends Tonight! 🔥✨](https://www.playmobil.com/en-us/web-shop/offers/black-friday/)
+[🎁 CYBER offer: 30% OFF with code CYBERPLAY 🎁](https://www.playmobil.com/en-us/web-shop/)
 
-[🎁 Don’t let the fun fizzle out! 🥳 Get 50% OFF on orders over $100! 🚨⏰ Ends Tonight! 🔥✨](https://www.playmobil.com/en-us/web-shop/offers/black-friday/)
+[🎁 CYBER offer: 30% OFF with code CYBERPLAY 🎁](https://www.playmobil.com/en-us/web-shop/)
 
 [](https://www.playmobil.us/en-us/)
 
