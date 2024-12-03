@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Email
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Are elderly people given lots of rules at nursing homes?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-are-elderly-people-given-lots-of-rules-at-nursing-homes-scaled.jpg "Are Elderly People Given Lots of Rules at Nursing Homes?")](https://www.pintas.com/faq/are-elderly-people-given-lots-of-rules-at-nursing-homes/ "Are Elderly People Given Lots of Rules at Nursing Homes?")
+[![Can i file a talcum powder lawsuit?](https://www.pintas.com/wp-content/uploads/2020/03/johnson-and-johnson-talcum-powder-lawsuit-lawyer-can-i-file-a-talcum-powder-lawsuit.jpg "Can I File a Talcum Powder Lawsuit?")](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/can-i-file-a-talcum-powder-lawsuit/ "Can I File a Talcum Powder Lawsuit?")
 
-[#### Are Elderly People Given Lots of Rules at Nursing Homes?](https://www.pintas.com/faq/are-elderly-people-given-lots-of-rules-at-nursing-homes/)
+[#### Can I File a Talcum Powder Lawsuit?](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/can-i-file-a-talcum-powder-lawsuit/)
 
-[![Does anyone survive mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-does-anyone-survive-mesothelioma.jpg "Does Anyone Survive Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/does-anyone-survive-mesothelioma/ "Does Anyone Survive Mesothelioma?")
+[![Facts about how mesothelioma patients die](https://www.pintas.com/wp-content/uploads/2020/06/mesothelioma-how-do-mesothelioma-patients-die-2-scaled.jpg "Facts About How Mesothelioma Patients Die")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/how-do-patients-die "Facts About How Mesothelioma Patients Die")
 
-[#### Does Anyone Survive Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/does-anyone-survive-mesothelioma/)
+[#### Facts About How Mesothelioma Patients Die](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/how-do-patients-die)
 
-[![Criminal prosecution of assisted living abuse](https://www.pintas.com/wp-content/uploads/2021/02/practice-areas-personal-injury-nursing-home-abuse-lawyer-is-assisted-living-abuse-a-criminal-offense-300x200.jpg "Criminal Prosecution of Assisted Living Abuse")](https://www.pintas.com/faq/is-assisted-living-abuse-a-criminal-offense/ "Criminal Prosecution of Assisted Living Abuse")
+[![What is a healthy alternative to baby powder?](https://www.pintas.com/wp-content/uploads/2020/07/talcum-powder-what-is-a-healthy-alternative-to-baby-powder.jpg "What Is a Healthy Alternative to Baby Powder?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/baby-powder-alternatives "What Is a Healthy Alternative to Baby Powder?")
 
-[#### Criminal Prosecution of Assisted Living Abuse](https://www.pintas.com/faq/is-assisted-living-abuse-a-criminal-offense/)
+[#### What Is a Healthy Alternative to Baby Powder?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/baby-powder-alternatives)
 
 ### Injured?  
 Tell Us What Happened.
