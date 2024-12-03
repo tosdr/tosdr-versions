@@ -458,7 +458,7 @@ close
 PRIVACY STATEMENT
 =================
 
-(last updated 01/01/2024)
+(last updated 12/03/2024)
 
 Clemson University (“University”) respects and values the privacy of the Clemson University community and its visitors.  The University strives to balance individual privacy rights in its management of information and execution of the University’s missions.
 
@@ -531,6 +531,11 @@ Retention Period
 ----------------
 
 We strive to keep personal data in our records only as long as necessary to complete the purpose of the intended business activity. Retention periods vary and are established considering our legitimate purposes and all applicable legal requirements.
+
+Copyright
+---------
+
+Alleged copyright infringement notices related to Clemson University owned domains should be sent to the designated [Digital Millennium Copyright Act](https://www.copyright.gov/dmca/) (DMCA) agent via the contact information provided [here](https://ccit.clemson.edu/cybersecurity/it-operations-policies/copyright-infringement/).
 
 External Links
 --------------
