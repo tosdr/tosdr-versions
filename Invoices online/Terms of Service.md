@@ -203,50 +203,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Anri van der Linde
 
-![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=8be50f0c6fa052bc9a1be306eb445492b061fa8379a065b1f6bd3b9487d57056&c=140813046)  
-Adele Jordaan T/A Joyful Noise Music Room
+![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=701acfe36e78340e63a32b064b627be85ad16ea2a2a51273f8d2970b1fbfa66f&c=178819534)  
+Druce Digital
 
-![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=8be50f0c6fa052bc9a1be306eb445492b061fa8379a065b1f6bd3b9487d57056&c=164639552)  
-Wiselink Broadband Pty Ltd
+![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=701acfe36e78340e63a32b064b627be85ad16ea2a2a51273f8d2970b1fbfa66f&c=188779430)  
+VS Auto Spares and Repairs (Pty) LTD
 
-![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=8be50f0c6fa052bc9a1be306eb445492b061fa8379a065b1f6bd3b9487d57056&c=123454965)  
-Kinetic Power Solutions (Pty) Ltd.
+![valued client Mmakoma projects ](https://www.invoicesonline.co.za/scripts/image.php?bid=5917&file=logo_300_100&type=&fe=701acfe36e78340e63a32b064b627be85ad16ea2a2a51273f8d2970b1fbfa66f&c=84002677)  
+Mmakoma projects
 
-![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=8be50f0c6fa052bc9a1be306eb445492b061fa8379a065b1f6bd3b9487d57056&c=210012402)  
-Lizzy Pop PTY(Ltd)
+![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=701acfe36e78340e63a32b064b627be85ad16ea2a2a51273f8d2970b1fbfa66f&c=77152770)  
+Konsortium Operations ( Roamfree Meats )
 
-![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=8be50f0c6fa052bc9a1be306eb445492b061fa8379a065b1f6bd3b9487d57056&c=73988811)  
-Cpower Projects t/a Pro Pure Water
+![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=701acfe36e78340e63a32b064b627be85ad16ea2a2a51273f8d2970b1fbfa66f&c=50199238)  
+Little Nutty Professors
 
-![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=8be50f0c6fa052bc9a1be306eb445492b061fa8379a065b1f6bd3b9487d57056&c=140286013)  
-VerdanTech Pty Ltd
+![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=701acfe36e78340e63a32b064b627be85ad16ea2a2a51273f8d2970b1fbfa66f&c=128168304)  
+Cooper Power Cape Town (Pty) Ltd
 
-![valued client MONSTER SECURITY SERVICES (NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=8be50f0c6fa052bc9a1be306eb445492b061fa8379a065b1f6bd3b9487d57056&c=109593276)  
-MONSTER SECURITY SERVICES (NORTHAM)
+![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=701acfe36e78340e63a32b064b627be85ad16ea2a2a51273f8d2970b1fbfa66f&c=31134867)  
+Testpro Laboratory (Pty) Ltd
 
-![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=8be50f0c6fa052bc9a1be306eb445492b061fa8379a065b1f6bd3b9487d57056&c=143331856)  
-TIGERDSL
+![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=701acfe36e78340e63a32b064b627be85ad16ea2a2a51273f8d2970b1fbfa66f&c=40374990)  
+MONSTER CONNECT (PTY) LTD
 
-![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=8be50f0c6fa052bc9a1be306eb445492b061fa8379a065b1f6bd3b9487d57056&c=126747651)  
-Frequency Fanatics (Pty) Ltd
+![valued client FLIPS AUTO ELECTRICAL ](https://www.invoicesonline.co.za/scripts/image.php?bid=8725&file=logo_300_100&type=&fe=701acfe36e78340e63a32b064b627be85ad16ea2a2a51273f8d2970b1fbfa66f&c=30290888)  
+FLIPS AUTO ELECTRICAL
 
-![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=8be50f0c6fa052bc9a1be306eb445492b061fa8379a065b1f6bd3b9487d57056&c=214222139)  
-kidoscabbie
+![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=701acfe36e78340e63a32b064b627be85ad16ea2a2a51273f8d2970b1fbfa66f&c=152006083)  
+NWET Pty LTD
 
-![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=8be50f0c6fa052bc9a1be306eb445492b061fa8379a065b1f6bd3b9487d57056&c=90483272)  
-Lion Software Develepment
+![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=701acfe36e78340e63a32b064b627be85ad16ea2a2a51273f8d2970b1fbfa66f&c=139124323)  
+Environment Friendly Toilets (Pty) Ltd
 
-![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=8be50f0c6fa052bc9a1be306eb445492b061fa8379a065b1f6bd3b9487d57056&c=173229940)  
-LEONARD
+![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=701acfe36e78340e63a32b064b627be85ad16ea2a2a51273f8d2970b1fbfa66f&c=75019597)  
+Bloem Rugby Academy PTY (Ltd)
 
-![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=8be50f0c6fa052bc9a1be306eb445492b061fa8379a065b1f6bd3b9487d57056&c=50444561)  
-Laurinda Pretorius Spraak en Drama Ateljee
+![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=701acfe36e78340e63a32b064b627be85ad16ea2a2a51273f8d2970b1fbfa66f&c=11742897)  
+MR Compressors& Industrial Supplies
 
-![valued client Atalie Scented Candles Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7239&file=logo_300_100&type=&fe=8be50f0c6fa052bc9a1be306eb445492b061fa8379a065b1f6bd3b9487d57056&c=9584279)  
-Atalie Scented Candles Pty Ltd
+![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=701acfe36e78340e63a32b064b627be85ad16ea2a2a51273f8d2970b1fbfa66f&c=74034693)  
+Kainos (Pty) Ltd
 
-![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=8be50f0c6fa052bc9a1be306eb445492b061fa8379a065b1f6bd3b9487d57056&c=85033022)  
-Iurus Inc
+![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=701acfe36e78340e63a32b064b627be85ad16ea2a2a51273f8d2970b1fbfa66f&c=41146633)  
+UMVIKELI PRIVATE SECURITY
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
