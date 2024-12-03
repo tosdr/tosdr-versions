@@ -375,8 +375,8 @@ Terms of Service
 * [34\. RIGHT TO AUDIT](#34)
 * [35\. CONTACT INFORMATION. CONTRACTING ENTITY](#35)
 
-Last updated: October 10, 2024  
-Effective on: October 10, 2024
+Last updated: December 3, 2024  
+Effective on: December 10, 2024
 
 Bitrix24 Terms of Service
 -------------------------
@@ -486,15 +486,17 @@ Alaio provides support to the users in accordance with the procedures set forth 
 7.10. **Automatic renewal of your subscription**. You agree that if you purchase any subscription or other services for your Bitrix24 Customer Account, we may enroll you in automatic renewal of your subscription by withdrawing funds from your payment method that you used to complete the purchase or enrollment order. You may turn off this option at any time through your Bitrix24 Customer Account.  
 If you purchase a Service Plan with automatic subscription renewal, you agree to pay fees quoted to you, which may be changed at our sole discretion. If you don't agree to these changes, you must cancel your subscription to the Service Plan during your current billing period otherwise your subscription will be automatically renewed at the then-current price and term length for the next subscription term.
 
-7.11. Delivery of the Services and the Products, if any, shall be made at the moment of payment. All fees are exclusive of taxes, levies, or duties imposed by taxing authorities, unless stated otherwise. You are responsible for paying any such applicable tax. You acknowledge that the amount billed for the Service Plan may vary for reasons that include promotional offers, changes in the Bitrix24 Customer Account, or changes in the amount of applicable sales tax/VAT/GST etc., and you authorize us to bill you for such varying amounts.
+7.11. **Delivery of Services and Products.** Delivery of the Services and any Products, where applicable, shall occur upon receipt of payment. For payments made via bank transfer, the date of payment, and consequently the date on which Alaio's delivery obligation arises, shall be the date the funds are credited to Alaio's account. Alaio shall not be held responsible for any delays in receiving the payment that are caused by factors beyond its control.
 
-7.12. **Tax deducted at source in India.** If you are a Bitrix24 India Private Limited Customer please pay attention that your potential tax obligations regarding Income Tax deducted at source may vary depending on your chosen payment method:  
+7.12. **Taxes.** All fees are exclusive of taxes, levies, or duties imposed by taxing authorities, unless stated otherwise. You are responsible for paying any such applicable tax. You acknowledge that the amount billed for the Service Plan may vary for reasons that include promotional offers, changes in the Bitrix24 Customer Account, or changes in the amount of applicable sales tax/VAT/GST etc., and you authorize us to bill you for such varying amounts.
+
+7.13. **Tax deducted at source in India.** If you are a Bitrix24 India Private Limited Customer please pay attention that your potential tax obligations regarding Income Tax deducted at source may vary depending on your chosen payment method:  
 (1) Payments through bank transfers.  
 If you are required by law to withhold Income Tax, you must provide us with a withholding tax certificate promptly.  
 (2) Payments through other payment methods.  
 In this case, please be aware that the quoted fees do not include any tax deductions at the source. It is your responsibility to remit the relevant taxes in accordance with the provisions outlined in the Income Tax Act and to provide us with the withholding tax certificate promptly. This process enables us to facilitate the refund of the deposited withholding tax amount to you.
 
-7.13. Payment for access to Third Party Materials (as defined in Section 9 of these Terms of Service) shall be made to third parties, if applicable, unless otherwise stated herein. You agree to use the Third Party Materials in accordance with these Terms of Service and subject to such third party’s terms of service.
+7.14. Payment for access to Third Party Materials (as defined in Section 9 of these Terms of Service) shall be made to third parties, if applicable, unless otherwise stated herein. You agree to use the Third Party Materials in accordance with these Terms of Service and subject to such third party’s terms of service.
 
 #### 8\. Term and Termination.
 
@@ -505,7 +507,7 @@ Alaio reserves the right to change, suspend or discontinue the Website, the Serv
 
 8.3. Without prejudice to any other rights, these Terms of Service will terminate automatically (except for those provisions that shall survive): (1) if you fail to comply with any of the limitations or other requirements described herein, or (2) if we have reasons to believe that your use of the Website or the Service (or any part thereof) may create risks for our business, (3) if any third-party software, service, or technology used for the operation of the Website, the Services, or the Products terminates or substantially changes their provision terms, (4) if there are any critical amendments in the current legislation or regulations of state bodies that affect Alaio which result in impossibility or excessively difficult provision of the Website, the Services, or the Products, (5) in the force majeure circumstances (Force Majeure) as described in the Force Majeure herein.
 
-8.4. Upon termination, you must immediately cease using the Website, the Services, and the Products, including without limitation any use of the Alaio Intellectual Property (as defined below).
+8.4. Upon termination, you must immediately cease using the Website, the Services, and the Products, including without limitation any use of the Alaio's Intellectual Property (as defined below).
 
 #### 9\. Additional functions. Links to other websites and Third Party Materials.
 
@@ -615,7 +617,7 @@ f. A statement by you, made under penalty of perjury, that the above information
 
 17.1. The Website may contain pages or sections which may be edited by and are visible for all visitors of the Website, including, but not limited to, forums, chats, guestbook and comments ("Publicly-Edited Sections"). Discretion should be used in entering Personal Information within Publicly-Edited Sections, as it may be viewed by third parties. Use of Personal Information contained in the Publicly-Edited Sections are subject to the Privacy Policy.
 
-17.2. Alaio reserves the right to modify and/or delete any message submitted to the Publicly-Edited Sections, at its sole discretion, at any time and for any reason, including, but not limited to, material which in Alaio’ opinion:  
+17.2. Alaio reserves the right to modify and/or delete any message submitted to the Publicly-Edited Sections, at its sole discretion, at any time and for any reason, including, but not limited to, material which in Alaio's opinion:  
 a. may constitute libel, defamation, invasion of privacy, or is obscene, pornographic, abusive, or threatening;  
 b. may infringe any intellectual property or other right of any entity or person;  
 c. may violate any applicable law or advocates illegal activity;  
@@ -762,6 +764,7 @@ During the term of this Agreement, Alaio may audit the way you use the Website, 
 | **Your Country (Territories)** | **Entity entering into this Agreement** |
 | Albania, Andorra, Austria, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Liechtenstein, Luxembourg, Macedonia, Malta, Monaco, Montenegro, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Serbia, Slovakia, Slovenia, Sweden, Switzerland, United Kingdom, Vatican | Alaio Cloud Limited  <br>Frema House, office 102, No. 9,  <br>Constantinou Paparigopoulou Str., 3106, Limassol, Cyprus |
 | India | Bitrix24 India Private Limited  <br>B-01, Prestige Centre Point, Edward Road, H.K.P.Road,  <br>Bangalore, Bangalore North, Karnataka, India, 560054 |
+| Bahrain, Iraq, Kuwait, Oman, Qatar, Saudi Arabia, United Arab Emirates | ALAIO ME W.L.L  <br>Manama/Alqudaybiyah, Block 338, Road 3801, Building 15, Flat/Shop No. 9100, Bahrain |
 | All other countries except the ones stated above for Alaio Cloud Limited and Bitrix24 India and except those listed below:  <br>Armenia, Azerbaijan, Belarus, Estonia, Georgia, Kazakhstan, Kyrgyzstan, Latvia, Lithuania, Moldova, Russian Federation, Tajikistan, Turkmenistan, Ukraine, Uzbekistan | Alaio Inc.  <br>700 North Fairfax St., Suite 614-B, Alexandria, VA 22314, USA |
 
 [Back to top](#0)
