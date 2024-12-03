@@ -349,11 +349,11 @@ Recently Played
 
 |     |
 | --- |
-| Am I OkMegan Moroney<br><br>10:39am |
-| Ain'T No Love In OklahomaLuke Combs<br><br>10:36am |
-| Need A FavorJelly Roll<br><br>10:32am |
-| Think I'M In Love With YouChris Stapleton<br><br>10:29am |
-| Gone CountryAlan Jackson<br><br>10:25am |
+| I'M Gonna Love YouCody Johnson Ft Carrie Underwood<br><br>4:41pm |
+| I Never LieZach Top<br><br>4:36pm |
+| Whiskey And RainMichael Ray<br><br>4:32pm |
+| Rock And A Hard PlaceBailey Zimmerman<br><br>4:29pm |
+| Love SomebodyMorgan Wallen<br><br>4:26pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -497,21 +497,21 @@ State
 Featured Brands
 ---------------
 
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
-
-Top 40 • Pacific NW
-
 [![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
 Country • Western
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
-News Talk • Eastern
+Top 40 • Pacific NW
 
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
-Top 40 • Eastern
+Sports • Midwest
+
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+
+Country • Western
 
 [](https://www.alphamediausa.com/)
 
