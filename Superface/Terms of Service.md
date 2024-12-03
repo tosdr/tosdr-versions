@@ -4,21 +4,23 @@ Top Strategic Technology Trends for 2025](https://www.gartner.com/en/articles/in
 
 [![Superface logo](/static_web/_next/image?url=%2Fimages%2Flogos%2Fsuperface%2Fsf-logotype-black.svg&w=384&q=75)](https://superface.ai/)
 
-[AI Agent](https://superface.ai/)
+[Agentic AI Connectivity](https://superface.ai/)
 
-[Connect GPTs to APIs](https://superface.ai/gpt)
+[Connect GPTs](https://superface.ai/gpt)
+
+[AI Agent](https://superface.ai/agent)
 
 [Blog](https://superface.ai/blog)
 
-[Documentation](https://docs.superface.ai/)
+[Docs](https://docs.superface.ai/)
 
 * * *
 
-[Log in](https://pod.superface.ai/api/auth/login)
+[Log in](https://pod.superface.ai/api/auth/login?returnTo=/hub/api)
 
-[Log in](https://pod.superface.ai/api/auth/login)
+[Log in](https://pod.superface.ai/api/auth/login?returnTo=/hub/api)
 
-[Book a demo](https://superface.ai/content/get-demo)
+[Connect tools](https://pod.superface.ai/api/auth/login?returnTo=/hub/api)
 
 Terms and conditions
 ====================
