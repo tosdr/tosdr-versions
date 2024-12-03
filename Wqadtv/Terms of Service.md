@@ -30,13 +30,16 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WOI/images/e7543ada-5ac8-43db-8124-3d658d081f68/20241203T015025/e7543ada-5ac8-43db-8124-3d658d081f68_16x9.jpg) ![](https://media.tegna-media.com/assets/WOI/images/e7543ada-5ac8-43db-8124-3d658d081f68/20241203T015025/e7543ada-5ac8-43db-8124-3d658d081f68_360x203.jpg)](https://www.wqad.com/article/news/regional/governor-kim-reynolds-farm-bill-politics-us-congress-iowa-farmers-union/524-fc632464-6ddc-496c-8188-8d01ddfef44c)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/5e70c29d-d6b2-4681-891c-9715dde828b9/20241017T030641/5e70c29d-d6b2-4681-891c-9715dde828b9_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/5e70c29d-d6b2-4681-891c-9715dde828b9/20241017T030641/5e70c29d-d6b2-4681-891c-9715dde828b9_360x203.jpg)](https://www.wqad.com/article/news/local/john-deere-waterloo-works-laying-off-employees/526-91b7329f-873d-4048-a296-6657bd737b34)
         
-        #### [Gov. Reynolds stresses need for Farm Bill](https://www.wqad.com/article/news/regional/governor-kim-reynolds-farm-bill-politics-us-congress-iowa-farmers-union/524-fc632464-6ddc-496c-8188-8d01ddfef44c)
+        #### [John Deere Waterloo Works laying off more than 100 employees](https://www.wqad.com/article/news/local/john-deere-waterloo-works-laying-off-employees/526-91b7329f-873d-4048-a296-6657bd737b34) [![](https://media.tegna-media.com/assets/WQAD/images/5e70c29d-d6b2-4681-891c-9715dde828b9/20241017T030641/5e70c29d-d6b2-4681-891c-9715dde828b9_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/5e70c29d-d6b2-4681-891c-9715dde828b9/20241017T030641/5e70c29d-d6b2-4681-891c-9715dde828b9_360x203.jpg)](https://www.wqad.com/article/news/local/john-deere-waterloo-works-laying-off-employees/526-91b7329f-873d-4048-a296-6657bd737b34)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/f49b724a-6f74-4395-adf8-d1fb6198c65f/20241203T040605/f49b724a-6f74-4395-adf8-d1fb6198c65f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f49b724a-6f74-4395-adf8-d1fb6198c65f/20241203T040605/f49b724a-6f74-4395-adf8-d1fb6198c65f_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/autistic-and-loved-argrows-house-sensory-playground-gym/526-5eec65c4-52c3-4b63-aed6-e820dd2e4393)
+        #### [More than 100 workers being laid off from John Deere Waterloo Works](https://www.wqad.com/article/news/local/john-deere-waterloo-works-laying-off-employees/526-91b7329f-873d-4048-a296-6657bd737b34) [![](https://media.tegna-media.com/assets/WQAD/images/5e70c29d-d6b2-4681-891c-9715dde828b9/20241017T030641/5e70c29d-d6b2-4681-891c-9715dde828b9_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/5e70c29d-d6b2-4681-891c-9715dde828b9/20241017T030641/5e70c29d-d6b2-4681-891c-9715dde828b9_360x203.jpg)](https://www.wqad.com/article/news/local/john-deere-waterloo-works-laying-off-employees/526-91b7329f-873d-4048-a296-6657bd737b34)
         
-        #### [Autistic & Loved is opening sensory-friendly playground, facility in Davenport](https://www.wqad.com/article/news/local/the-current/autistic-and-loved-argrows-house-sensory-playground-gym/526-5eec65c4-52c3-4b63-aed6-e820dd2e4393)
+        #### [John Deere Waterloo Works announces layoffs](https://www.wqad.com/article/news/local/john-deere-waterloo-works-laying-off-employees/526-91b7329f-873d-4048-a296-6657bd737b34)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/e3c94769-1d2a-411e-bc95-92b21b08bfe3/20241202T195551/e3c94769-1d2a-411e-bc95-92b21b08bfe3_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e3c94769-1d2a-411e-bc95-92b21b08bfe3/20241202T195551/e3c94769-1d2a-411e-bc95-92b21b08bfe3_360x203.jpg)](https://www.wqad.com/article/news/local/contests/contest-rules/official-rules-for-the-harlem-globetrotters-ball-kid-sweepstaked/526-c8c97c44-112a-4373-a592-5c3648117ddb)
+        
+        #### [Official rules for the Harlem Globetrotters Ball Kid Sweepstakes](https://www.wqad.com/article/news/local/contests/contest-rules/official-rules-for-the-harlem-globetrotters-ball-kid-sweepstaked/526-c8c97c44-112a-4373-a592-5c3648117ddb)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -60,9 +63,9 @@ Navigation
         
         #### [Gusty winds return as the cold continues Tuesday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/3cad179d-5c30-466c-b292-3ff7cabd0a83/3cad179d-5c30-466c-b292-3ff7cabd0a83_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/3cad179d-5c30-466c-b292-3ff7cabd0a83/3cad179d-5c30-466c-b292-3ff7cabd0a83_360x203.jpg)](https://www.wqad.com/article/weather/three-degree-guarantee/the-center-for-youth-and-family-solutions-has-been-selected-as-the-three-degree-recipient-for-december-2024/526-e12ca204-8012-4d52-915b-5ce56cfe326b)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e/20240714T184429/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e/20240714T184429/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e_360x203.jpg)](https://www.wqad.com/article/weather/weather-impact/storm-track-8-weather-impact-alert-wqad-high-winds-wednesday/526-0676b68f-1675-4960-aa30-a2fd7a34fdad)
         
-        #### [The Center for Youth and Family Solutions has been selected as the Three Degree recipient for December 2024](https://www.wqad.com/article/weather/three-degree-guarantee/the-center-for-youth-and-family-solutions-has-been-selected-as-the-three-degree-recipient-for-december-2024/526-e12ca204-8012-4d52-915b-5ce56cfe326b)
+        #### [Wind gusts could reach 50 mph Wednesday: Storm Track 8 Weather Impact Alert](https://www.wqad.com/article/weather/weather-impact/storm-track-8-weather-impact-alert-wqad-high-winds-wednesday/526-0676b68f-1675-4960-aa30-a2fd7a34fdad)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +89,9 @@ Navigation
 
 Davenport, IA »
 
-22°
+26°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
