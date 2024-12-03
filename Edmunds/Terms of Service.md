@@ -6,7 +6,7 @@ Popular searches
 
 Volvo S60Silverado 1500Car Appraiser ToolHonda CR-VLease Deals
 
-* [New Car Pricing](https://www.edmunds.com/new-cars/)
+* [New Cars for Sale](https://www.edmunds.com/new-cars/)
 * [Used Cars for Sale](https://www.edmunds.com/used-cars-for-sale/)
 * [Appraise My Car](https://www.edmunds.com/appraisal/)
 * [Car Reviews](https://www.edmunds.com/car-reviews/)
