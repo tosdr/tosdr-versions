@@ -423,7 +423,7 @@ The name and county of major prize-winners will either be published or made avai
 
 If you are a winner, we may contact you using the channel you entered the competition e.g. a social medial platform or email to obtain your full name, postal address and telephone number to process your prize. Your personal data will be made available to third parties if this is necessary for processing the promotion (e.g. dispatching the prize via a logistics company).
 
-### **How long do we store your personal data?**
+#### **How long do we store your personal data?**
 
 After three months following the end of the competition and where applicable announcement of the winner(s), the personal data of the participants will be deleted. In the case of material prizes, the data of the winners will be kept for the duration of the statutory warranty claims, in order to arrange for repair or replacement in the case of a defect.
 
@@ -616,15 +616,11 @@ The legal basis for the processing of the for the above data is our legitimate i
 
   
 
-  
-
 **Recipients or categories of recipients:**
 
   
 
 We contract with third party service providers who process the information captured in the survey on our behalf in order to provide us with relevant metrics and statistics. This is only ever done in an anonymised format. As with all service providers we work with, we only share the information required to provide the service, and they are required to meet our own high standards of security.
-
-  
 
   
 
@@ -681,10 +677,6 @@ The personal data (title, name and email address) required as part of your parti
 
   
 
-  
-
-  
-
 **Recipients / categories of recipients:**
 
   
@@ -702,10 +694,6 @@ If you are a winner, your data will be passed on to third parties if and to the 
   
 
 After the conclusion of the respective prize draw and the announcement of the winners, the personal data of the respective participants will be deleted. Please be aware that once your data is published externally we will be unable to remove your data from printed material or where the data has been further disseminated beyond Lidl GB’s control e.g. through social media postings.
-
-  
-
-  
 
   
 
@@ -781,7 +769,7 @@ Furthermore, we process data concerning you for advertising purposes using cooki
 
   
 
-13.1 Personalised user profile
+12.1 Personalised user profile
 
   
 
@@ -817,7 +805,7 @@ We can also enrich this user profile with information about your age and gender 
 
 If you have filled in the "About me" section in Lidl Plus, this data will also be used to customise our Services to your interests. The legal basis for this is Article 6(1)(b) GDPR (contract between Lidl Stiftung and you).
 
-13.2 Advertising content
+12.2 Advertising content
 
   
 
@@ -831,7 +819,7 @@ The content of our marketing communications includes information about promotion
 
   
 
-13.3 Push notifications
+12.3 Push notifications
 
   
 
@@ -883,7 +871,7 @@ The use of cookies and similar technologies for processing usage data (in partic
 
   
 
-14.1 Responsibility
+13.1 Responsibility
 
   
 
@@ -919,11 +907,11 @@ We use the "Facebook Custom Audience" Service of Meta Platforms Ireland Ltd, 4 G
 
   
 
-14.3 Purposes/data processing
+13.3 Purposes/data processing
 
   
 
-14.3.1 General presentation
+13.3.1 General presentation
 
   
 
@@ -942,7 +930,7 @@ Further details on the processing purposes can be found in the preferences manag
 
   
 
-14.3.2 Selected Services
+13.3.2 Selected Services
 
   
 
@@ -988,7 +976,7 @@ We also use Microsoft and Google Advertising Services to collect information tha
 
   
 
-14.4 Data categories
+13.4 Data categories
 
   
 
@@ -1014,11 +1002,7 @@ Convenience:
 
 * User interface customisation settings that are not linked to a permanent identifier (e.g. language selection or the specific display of search queries or maps in the store finder).
 
-  
-
 Statistics:
-
-  
 
 * Browser type/version,
 * Operating system used,
@@ -1030,8 +1014,6 @@ Statistics:
   
 
 Marketing - Self-promotion:
-
-  
 
 * Information about the use of our website, in particular:
 
@@ -1064,7 +1046,7 @@ In order to display interest-based information to you, we must be able to assign
 
   
 
-14.5 Legal basis/Recipient/Storage period
+13.5 Legal basis/Recipient/Storage period
 
   
 
@@ -1140,8 +1122,6 @@ You can also find setting options for personalised advertising at https://yourad
 
 Further information on data processing by the companies listed below and on exercising your rights as a data subject can also be found in the following data protection policies:
 
-  
-
 * Meta (Facebook): https://www.facebook.com/privacy/policy/
 * RTB House: https://www.rtbhouse.com/privacy-center/services-privacy-policy/
 * TikTok: https://www.tiktok.com/legal/privacy-policy-row
@@ -1175,15 +1155,7 @@ The personal data processed is determined by the type of content posted e.g. pos
 
   
 
-  
-
-  
-
 The legal basis for the processing of personal data is our legitimate interest in being able to identify in publicly made comments or deficiencies in our products and services and to react to them in an appropriate manner.
-
-  
-
-  
 
   
 
@@ -1192,10 +1164,6 @@ The legal basis for the processing of personal data is our legitimate interest i
   
 
 In the process of social listening personal data is also processed on our behalf by Processors in the Marketing Sector. These are carefully selected, audited by us and are contractually obliged in accordance with GDPR.
-
-  
-
-  
 
   
 
@@ -1215,10 +1183,6 @@ To the extent covered by your respective consent, your data will also be collect
 
   
 
-  
-
-  
-
 **Recipients outside of the EU or the UK**
 
   
@@ -1227,17 +1191,7 @@ If we transmit data to recipients in a third country (based outside the European
 
   
 
-  
-
-  
-
 If the data protection standard in a country should not be adequate, we ensure that data protection is guaranteed by other measures, for example binding company regulations, standard contractual clauses of the European Commission for the protection of personal data, certificates, or recognised codes of conduct. Please contact our Data Protection Officer (Section 19) if you would like to find out more information on this.
-
-  
-
-  
-
-  
 
   
 
@@ -1249,7 +1203,7 @@ The relevant personal data is not permanently stored by Lidl, but only viewed an
 
 16\. Involvement of third parties as data processors
 
-16\. Involvement of third parties as data processors
+**16\. Involvement of third parties as data processors**
 
   
 
@@ -1305,7 +1259,7 @@ We have no influence over the specific data processed by Bing Maps. Further info
 
   
 
-17.2 Google Maps, Apple Maps, Huawei Map kit
+18.2 Google Maps, Apple Maps, Huawei Map kit
 
   
 
@@ -1509,10 +1463,6 @@ If you pay by card, we as a retailer collect your personal data via the payment 
 
   
 
-  
-
-  
-
 We as a retailer and the acquirer are each responsible for processing the data as follows:
 
   
@@ -1521,23 +1471,11 @@ We are responsible for operating the payment terminal at the check-out and for o
 
   
 
-  
-
-  
-
 We process your card data (card number, expiry date, issue number and cvv) and other payment data (purchase amount, date, time, terminal identification, location, company and store where you pay, as well as your signature). The purpose is the processing of the payment and carrying out the payment process with the payment service provider and, if necessary, to process a cash withdrawal and to check creditworthiness.
 
   
 
-  
-
-  
-
 The legitimate interest consists in the processing of the cash withdrawal or the payment process. The card data is processed only in hashed form and deleted as soon as it is no longer required for processing the payment and there are no legal retention periods which require to keep the data.
-
-  
-
-  
 
   
 
@@ -1627,10 +1565,6 @@ You have the following rights if the respective legal requirements are met:
 
   
 
-  
-
-  
-
 **Right to be informed**
 
   
@@ -1667,10 +1601,6 @@ You have the right to be informed about the collection and use of your personal 
 
   
 
-  
-
-  
-
 **Right of access**
 
   
@@ -1691,11 +1621,7 @@ You have the right to receive, upon request, information about the personal data
 
   
 
-  
-
-  
-
-**17.4 Right to rectification**
+**26.4 Right to rectification**
 
   
 
