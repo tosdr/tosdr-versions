@@ -527,10 +527,6 @@ we think you may like.
 
 close
 
-![BLACK FRIDAY - 40% OFF](/assets/mobile/img/event/blackfriday_202411_bnr/subscribe/en/modal_320x500.png)
-
-[close](https://toomics.com/)
-
 #### "" accounts can only be signed up with Yahoo social media accounts.
 
 ##### _with social media_
