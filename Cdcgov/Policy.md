@@ -29,7 +29,7 @@ Policies and Regulations
 
 [Print](#print)
 
-[Minus](#collapse_6196663b760282a0d)
+[Minus](#collapse_6196674f20ae4c9fa)
 
 Related Pages
 
@@ -57,7 +57,7 @@ Related Links
 * [FOIA](https://www.cdc.gov/od/foia/)Check status of current Freedom of Information Act (FOIA) Requests, Review materials pertaining to the records of CDC and ATSDR
 * [Notification and Federal Employee Antidiscrimination and Retaliation Act of 2002 (the No FEAR Act)](https://www.cdc.gov/eeo/nofearact/index.htm)  
     CDC Follows Public Law 107-174 (No FEAR Act), CDC Equal Employment Opportunity Data
-* [Peer Review Agenda](https://www.cdc.gov/os/quality/support/peer-review.htm)  
+* [Peer Review Agenda](https://www.cdc.gov/science-quality/php/information-quality-support/cdc-atsdr-peer-review-agenda.html)  
     OMB Information Quality Peer Review Agenda
 * [Privacy Rule](http://www.hhs.gov/ocr/privacy/)  
     Legislation and Regulation, additional information
