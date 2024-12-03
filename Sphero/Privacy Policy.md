@@ -18,7 +18,7 @@ Using information available, combined with skills acquired, can help make good d
 
        
 
-[This just in! BOLT+ has been named one of TIME's Best Inventions for 2024. Shop now >](https://sphero.com/products/sphero-bolt-plus)
+[Ground Shipping deadline: Order by 12 PM CST on 12/16 for delivery by 12/24! 🎁](https://sphero.com/pages/support?hcUrl=%2Fen-US%2F2024-holiday-shipping-schedule-758510)
 
 * Shop
 * Educator Resources
