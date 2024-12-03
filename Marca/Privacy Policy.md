@@ -3,7 +3,7 @@
 * Es noticia:
 * [Sevilla - Osasuna](https://www.marca.com/futbol/laliga-ea-sports/sevilla-osasuna/2024/12/02/01_0101_20241202_179_450-directo.html)
 * [Luis García Plaza](https://www.marca.com/futbol/alaves/2024/12/02/alaves-despide-luis-garcia-plaza.html)
-* [Guardiola](https://www.marca.com/futbol/barcelona/2024/12/02/famoso-baile-pep-guardiola-mujer-jose-mari-bakero-vuelve-viral-32-anos-despues.html)
+* [Coudet Alavés](https://www.marca.com/futbol/alaves/2024/12/02/eduardo-chacho-coudet-nuevo-entrenador-deportivo-alaves.html)
 * [Lola Indigo](https://www.marca.com/futbol/real-madrid/2024/12/02/lola-indigo-anuncia-concierto-santiago-bernabeu-14-junio-2015.html)
 * [Alonso](https://www.marca.com/motor/formula1/gp-qatar-f1/2024/12/02/674dfa40ca4741d51e8b457c.html)
 * [Sevilla - Osasuna dónde ver](https://www.marca.com/futbol/primera-division/2024/12/02/sevilla-osasuna-horario-ver-tv-partido-laliga-ea-sports.html)
