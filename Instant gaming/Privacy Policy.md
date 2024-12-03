@@ -1,7 +1,3 @@
-[![Black Friday 2024](https://gaming-cdn.com/themes/igv2/modules/promo_page/blackfriday_2024/images/header-logo.png)
-
-Check our offers](https://www.instant-gaming.com/en/black-friday/)
-
  
 
 [](https://www.instant-gaming.com/en/ "Home")
