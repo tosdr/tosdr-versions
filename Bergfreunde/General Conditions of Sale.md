@@ -2,9 +2,9 @@
 
 ### Neu?
 
-![Bergfreund Max](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-max.png)
+![Bergfreund Hannes](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-hannes.png)
 
-Bergfreund Max
+Bergfreund Hannes
 
 "Herzlich willkommen bei den Bergfreunden!"
 
@@ -30,7 +30,7 @@ Du bist bereits Bergfreunde Kunde, dann logge Dich hier ein
 
 Einloggen loader
 
-[![Bergfreunde Logo](https://www.bergfreunde.de/out/pictures/img/blackfriday-logo.svg)](https://www.bergfreunde.de/ "Zur Startseite von Bergfreunde")
+[![Bergfreunde Logo](https://www.bergfreunde.de/out/pictures/img/bergfreunde-logo.svg)](https://www.bergfreunde.de/ "Zur Startseite von Bergfreunde")
 
 * [Zum Shop](https://www.bergfreunde.de/ "Zur Startseite von Bergfreunde")
     
@@ -73,13 +73,13 @@ Portofrei ab € 69 (DE)
 
 HINWEIS: Um bei uns bestellen zu können musst Du [» Bitte aktiviere Javascript!» Javascript aktivieren!](https://www.bergfreunde.de/javascript-aktivieren/ "Anleitung zum Aktivieren von Javascript")
 
-[](https://www.bergfreunde.de/p/black-weekend/?listorderby=bfcustomsort&listorder=asc "Black Weekend")
+[](https://www.bergfreunde.de/bergfreunde-geschenke-guide/ "Geschenkeshop")
 
-BLACK WEEKEND - 500x mind. 50% »
+Geschenkideen gesucht? Hier entlang »
 
 Menü
 
-[![Bergfreunde Logo](https://www.bergfreunde.de/out/pictures/img/blackfriday-logo.svg)](https://www.bergfreunde.de/ "Zur Startseite von Bergfreunde")
+[![Bergfreunde Logo](https://www.bergfreunde.de/out/pictures/img/bergfreunde-logo.svg)](https://www.bergfreunde.de/ "Zur Startseite von Bergfreunde")
 
 * [Bekleidung](https://www.bergfreunde.de/outdoor-bekleidung/)
     
@@ -763,9 +763,9 @@ Weiterführende Informationen:
 
 Stand März 2024
 
-![Bergfreund Ronny - Geschäftsführung](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-ronny.png) Bergfreund Ronny - Geschäftsführung
+![Bergfreundin Johanna - Nachhaltigkeitsmanagement](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-johanna.png) Bergfreundin Johanna - Nachhaltigkeitsmanagement
 
-"In Sachen Klimaschutz gilt für uns: Die Zeit zu handeln ist jetzt!"
+"Ich suche nach kleinen und großen Ideen, wie die Bergfreunde nachhaltiger werden können."
 
 [Portofrei ab € 69 (DE)](https://www.bergfreunde.de/versandkosten/ "Finde mehr Info zu den Versandkosten hier!")
 
@@ -773,11 +773,11 @@ Stand März 2024
 
 [100 Tage Rückgaberecht](https://www.bergfreunde.de/rueckgabe/ "Gehe hier zu den Rückgabe-Richtlinien")
 
-[![So bewerten uns 42785 Kunden](https://www.bergfreunde.de/out/pictures/img/trust/trusted-shops-logo-big.png)](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
+[![So bewerten uns 42812 Kunden](https://www.bergfreunde.de/out/pictures/img/trust/trusted-shops-logo-big.png)](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
 
 [( 0 )
 
-So bewerten uns 42.785 Kunden](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
+So bewerten uns 42.812 Kunden](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
 
 holt 3x am Tag die Pakete bei uns ab
 
@@ -841,7 +841,6 @@ Kundenservice
 * [Hinweisgeberstelle](https://www.bergfreunde.de/hinweisgeberstelle/ "Hinweisgeberstelle bei den Bergfreunden")
 * [Nachhaltigkeit](https://www.bergfreunde.de/nachhaltigkeit/ "Nachhaltigkeit bei den Bergfreunden")
 * [Pflegewiki](https://www.bergfreunde.de/pflegewiki/ "Pflegewiki von Bergfreunde")
-* [Black Outdoor Days\*](https://www.bergfreunde.de/black-outdoor-days-info/ "Black Outdoor Days")
 
 * \*\* Der Gutschein gilt ab einem Mindestabnahmewert (nach Retoure) von 40 Euro. Gutscheine für die Erstellung eines Kundenkonto können nur einmal pro Person und Bestellung eingelöst werden. Der Gutschein kann nicht für bereits ausgeführte Bestellungen benutzt werden und ist nicht mit weiteren Gutscheinen kombinierbar.
 
