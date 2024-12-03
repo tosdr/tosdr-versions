@@ -12,7 +12,7 @@ Save $200 on the Enhance Select 500! [Shop now](https://www.listenlively.com/pro
 
 100-day risk-free trial and US-based customer support!
 
-[Cyber week won't last forever!Cyber week won't last forever!Cyber week won't last forever! **Sale ends in 4d : 2h : 22m**](https://www.listenlively.com/product)
+[Cyber week won't last forever!Cyber week won't last forever!Cyber week won't last forever! **Sale ends in 3d : 20h : 28m**](https://www.listenlively.com/product)
 
 [Jabra EnhanceTM](https://www.listenlively.com/)
 
@@ -228,27 +228,6 @@ With our **Premium Package**, our Audiology Team works with you remotely to impr
 ### Buy now, pay later
 
 As low as 0% APR and $0 down\* with See if you prequalify
-
-Hear your whole SoundScape™
----------------------------
-
-Select 500s employ 3 key features of proprietary speech-clarity technology
-
-Previous
-
-**Date night?** Hear more conversations, fewer clattering dishes.
-
-**Did you hear that music?** This is how you find your new favorite jazz club.
-
-**Going to the show?** Follow the action onstage — and in the seat beside you.
-
-Next
-
-* Hearing in noise
-* True depth of sound
-* Advanced acoustics
-
-[Shop now](https://www.listenlively.com/product/enhanceselect500)
 
 Get personalized care with our Premium Package
 ----------------------------------------------
