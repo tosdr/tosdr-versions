@@ -26,6 +26,7 @@ Install App
 
 * [AI Voices](https://www.101soundboards.com/tts) Text to Speech voices
 * [Favorites](https://www.101soundboards.com/favorites/me) Make your own Favorites board
+* [Clone Voice](https://www.101soundboards.com/pages/clone-a-voice) Clone Your voice as Text to Speech
 * [Apps](https://www.101soundboards.com/pages/app) Mobile Apps
 * [Song Makers](https://www.101soundboards.com/tts#song_generators) Song Makers
 * [AI Terminal](https://www.101soundboards.com/terminal) AI Sound Generator
@@ -41,7 +42,7 @@ Install App
 
 [* Home](https://www.101soundboards.com/)[* Search](https://www.101soundboards.com/search)[* Funny](https://www.101soundboards.com/featured/funny#sort_filters)[* Hot](https://www.101soundboards.com/featured/hot#sort_filters)[* Popular](https://www.101soundboards.com/featured/popular#sort_filters)[* Categories](https://www.101soundboards.com/tags)[* ✨️ AI TTS Voices](https://www.101soundboards.com/tts)[* New](https://www.101soundboards.com/featured/created#sort_filters)[* Help](https://www.101soundboards.com/pages/about)* More
     
-    [Text-to-Speech AI Voices](https://www.101soundboards.com/tts) [TikTok TTS Voice](https://www.101soundboards.com/tts/72272-tiktok-tts-official-tiktok-lady-computer-voice) [Ghostface Voice](https://www.101soundboards.com/tts/72298-ghostface-scream-tts-computer-ai-voice) [TikTok Song Generators](https://www.101soundboards.com/tts#song_generators) [AI Sound FX Generator](https://www.101soundboards.com/terminal) [My TTS Phrases](https://www.101soundboards.com/tts/me)
+    [Text-to-Speech AI Voices](https://www.101soundboards.com/tts) [TikTok TTS Voice](https://www.101soundboards.com/tts/72272-tiktok-tts-official-tiktok-lady-computer-voice) [Ghostface Voice](https://www.101soundboards.com/tts/72298-ghostface-scream-tts-computer-ai-voice) [TikTok Song Generators](https://www.101soundboards.com/tts#song_generators) [AI Sound FX Generator](https://www.101soundboards.com/terminal) [My TTS Phrases](https://www.101soundboards.com/tts/me) [Clone My Voice](https://www.101soundboards.com/pages/clone-a-voice)
     
     [iOS and Android Apps](https://www.101soundboards.com/pages/app) [Alexa](https://www.101soundboards.com/pages/app) [![Twitter](/img/twitter-round.svg) Twitter](https://twitter.com/101soundboards "Twitter") [Discord Bot](https://www.101soundboards.com/pages/discordbot) [Free Audio Editor](https://www.101soundboards.com/pages/editor) [Privacy](https://www.101soundboards.com/pages/about#privacy) [Donate](https://www.101soundboards.com/pages/donate) [Sticker Shop](https://shop.101soundboards.com/) [Merch](https://www.101soundboards.com/pages/donate#merch)
     
@@ -162,9 +163,9 @@ Sometimes we use AI to generate a phrase in the style of the character or voice 
 
 If you have more questions about the TTS feature or need help with a specific request, please contact us through the [contact page](https://www.101soundboards.com/pages/contact). We are here to help you create awesome sounds!
 
-##### Can I create my own TTS voice from a custom recording?
+##### Can I clone a voice and create a Text to Speech voice from a recording?
 
-While we would love to offer custom TTS voices from custom recordings, this feature is not currently available on the site due to the prohibitive cost. However, we are always looking for ways to improve the TTS feature and add new voices and features. If you have a suggestion or request, please contact us through the [contact page](https://www.101soundboards.com/pages/contact). We appreciate your feedback!
+Yes! Create a soundboard with only sounds of the person/character you wish to clone, then press the 'Clone as TTS Voice' button.
 
 ##### Can I suggest new voices or features for the TTS feature?
 
