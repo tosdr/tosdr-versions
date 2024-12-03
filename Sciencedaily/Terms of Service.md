@@ -249,27 +249,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
+[Cosmetic Surgery](https://www.sciencedaily.com/news/health_medicine/cosmetic_surgery/)
+
 [Hormone Disorders](https://www.sciencedaily.com/news/health_medicine/hormone_disorders/)
 
-[Brain Injury](https://www.sciencedaily.com/news/mind_brain/brain_injury/)
-
-[Caregiving](https://www.sciencedaily.com/news/mind_brain/caregiving/)
+[Urology](https://www.sciencedaily.com/news/health_medicine/urology/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
+[Quantum Computing](https://www.sciencedaily.com/news/matter_energy/quantum_computing/)
+
 [Quantum Physics](https://www.sciencedaily.com/news/matter_energy/quantum_physics/)
 
-[Spintronics](https://www.sciencedaily.com/news/matter_energy/spintronics/)
-
-[Robotics Research](https://www.sciencedaily.com/news/matter_energy/robotics/)
+[Electronics](https://www.sciencedaily.com/news/matter_energy/electronics/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Global Warming](https://www.sciencedaily.com/news/earth_climate/global_warming/)
+[Extinction](https://www.sciencedaily.com/news/plants_animals/extinction/)
 
-[Climate](https://www.sciencedaily.com/news/earth_climate/climate/)
+[New Species](https://www.sciencedaily.com/news/plants_animals/new_species/)
 
-[Ice Ages](https://www.sciencedaily.com/news/earth_climate/ice_ages/)
+[Microbiology](https://www.sciencedaily.com/news/plants_animals/microbiology/)
 
   
 
