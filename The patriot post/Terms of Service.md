@@ -1,6 +1,6 @@
-**Part of our core mission?** Exposing the Left's blatant hypocrisy. Help us continue the fight and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_5&utm_medium=web&utm_source=patriotpost.us) now.
+**Why We Ask:** Our mission and operations are funded 100% by conservatives like _you_. Please help us continue to extend Liberty to the next generation and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_2&utm_medium=web&utm_source=patriotpost.us) today.
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_5&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_2&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -195,26 +195,26 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/112466-from-the-outside-2024-12-02)
+     [](https://patriotpost.us/memes/112502-not-anymore-2024-12-03)
 
 * [More Memes >](https://patriotpost.us/memes)
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34594)
+     [](https://patriotpost.us/cartoons/34600)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
+*      [The Babylon Bee Biden Forced To Issue Another Pardon After Hunter Commits 17 More Crimes](https://patriotpost.us/opinion/112493-biden-forced-to-issue-another-pardon-after-hunter-commits-17-more-crimes-2024-12-03)
+*      [Christine Flowers Criminals in Cribs: The Crazy Attempt to Ban Birthright Citizenship](https://patriotpost.us/opinion/112491-criminals-in-cribs-the-crazy-attempt-to-ban-birthright-citizenship-2024-12-03)
+*      [Gary Bauer Joe Pardons Joe](https://patriotpost.us/opinion/112484-joe-pardons-joe-2024-12-03)
+*      [Salena Zito The American Tradition of the Gingerbread House Comes Alive in Bedford](https://patriotpost.us/opinion/112487-the-american-tradition-of-the-gingerbread-house-comes-alive-in-bedford-2024-12-03)
+*      [Victor Joecks Women Shouldn’t Be in Combat Roles](https://patriotpost.us/opinion/112486-women-shouldnt-be-in-combat-roles-2024-12-03)
+*      [Stephen Moore Trump Should Call for a New American Patriotism](https://patriotpost.us/opinion/112485-trump-should-call-for-a-new-american-patriotism-2024-12-03)
 *      [Cal Thomas Institutions vs. We the people](https://patriotpost.us/opinion/112471-institutions-vs-we-the-people-2024-12-03)
 *      [Daniel McCarthy Identity Politics, Not Biden, Cost Democrats the Election](https://patriotpost.us/opinion/112478-identity-politics-not-biden-cost-democrats-the-election-2024-12-02)
-*      [The Babylon Bee America Starting to Think This ‘Joe Biden’ Guy Might Be a Liar](https://patriotpost.us/opinion/112467-america-starting-to-think-this-joe-biden-guy-might-be-a-liar-2024-12-02)
-*      [Imprimis Drain the Swamp](https://patriotpost.us/opinion/112398-drain-the-swamp-2024-11-30)
-*      [Rich Lowry The Intellectual Collapse of DEI](https://patriotpost.us/opinion/112446-the-intellectual-collapse-of-dei-2024-11-29)
-*      [Ben Shapiro A World of Leverage](https://patriotpost.us/opinion/112445-a-world-of-leverage-2024-11-29)
-*      [Larry Elder Trump Jokes About Running for Third Term — Dems Freak Out](https://patriotpost.us/opinion/112443-trump-jokes-about-running-for-third-term-dems-freak-out-2024-11-29)
-*      [Laura Hollis We Should Treat the Intellectual Elites Like Royalty](https://patriotpost.us/opinion/112442-we-should-treat-the-intellectual-elites-like-royalty-2024-11-29)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -228,11 +228,9 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[Wear Your Patriotism on Your Sleeve
+[![](https://img.patriotpost.us/01J5RS2YKRTNS1580CS7YVV0SF.jpeg)
 
- 
-
-Shop Now](https://patriotpostshop.com/)
+![](https://img.patriotpost.us/01J5RSAEYEKZ8DRMMYMBSNCWNH.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
