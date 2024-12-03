@@ -712,6 +712,7 @@ Order Online or Call Our Sales Dept **(800) 707-0393**
 * [](https://www.youtube.com/CyberPowerPCinc "Watch our videos on YouTube")
 * [](https://twitter.com/CyberPowerPC "Follow us on Twitter")
 * [](https://www.instagram.com/CyberPowerPC/?ref=badge "Follow us on your Instagram")
+* [](https://bsky.app/profile/cyberpowerpc.bsky.social "Follow us on BlueSky")
 * [Blog](https://www.cyberpowerpc.com/blog/ "CyberpowerPC blog")
 
  Subscribe
