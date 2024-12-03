@@ -310,7 +310,6 @@ Subscribe 
 * Apple Pay
 * Diners Club
 * Discover
-* Meta Pay
 * Google Pay
 * Mastercard
 * PayPal
