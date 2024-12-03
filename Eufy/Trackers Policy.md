@@ -6,7 +6,7 @@
 
        
 
-[Black Friday: Deals Up to 50% Off!](https://www.eufy.com/eufy-sales?ref=topbanner_1)
+[Black Friday Continues! Spend $300 and Save $20!](https://www.eufy.com/eufy-sales?ref=topbanner_1)
 
 [](https://www.eufy.com/livestream?ref=navimenu_10_copy)
 
