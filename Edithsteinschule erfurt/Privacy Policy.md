@@ -330,10 +330,6 @@ Im Rahmen der Verbesserung der Sicherheit sowohl für die hier gespeicherten Dat
 
 ### Termine
 
-**22.11.2024**
-
-Schulball (Einlass ab 18.00 Uhr)
-
 **11.12.2024**
 
 16.00 Uhr 1. Adventskonzert in der Reglerkirche
