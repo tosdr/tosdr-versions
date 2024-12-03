@@ -150,6 +150,11 @@ For further information regarding the applicable laws, regulations, and policies
 
 #### Defense News
 
+* [How an AI-powered dashboard gets Air Force reservists deployment-ready](https://www.defensenews.com/news/your-military/2024/12/03/how-an-ai-powered-dashboard-gets-air-force-reservists-deployment-ready/)  
+    12/03/24 11:21am  
+    
+    Members of the 130th Airlift Wing perform aeromedical evacuation drills at McLaughlin Air National Guard Base in Charleston, West Virginia. (Edwin L. Wriston/Army National Guard)
+    
 * [Air Force wing deployments could leave bases understaffed, GAO warns](https://www.defensenews.com/air/2024/12/02/air-force-wing-deployments-could-leave-bases-understaffed-gao-warns/)  
     12/02/24 04:30pm  
     
@@ -164,11 +169,6 @@ For further information regarding the applicable laws, regulations, and policies
     11/25/24 05:00pm  
     
     The Air Force plans to buy 179 KC-46s over 13 lots and is nearing the end of its procurement. (Airman 1st Class Joshua Hastings/U.S. Air Force)
-    
-* [Pentagon, Lockheed reach handshake deal for next F-35s](https://www.defensenews.com/air/2024/11/25/pentagon-lockheed-reach-handshake-deal-for-next-f-35s/)  
-    11/25/24 01:45pm  
-    
-    The price of the newest F-35s is expected to rise as the jet becomes more complex, the military buys fewer aircraft and inflation takes a growing bite. (1st Lt. Nathan Poblete/U.S. Air Force)
     
 
 Recent parts by keyword  
