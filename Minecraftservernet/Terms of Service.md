@@ -29,17 +29,15 @@ Version All 1.21.3 1.21.2 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 
 
 Active Servers
 
-[![LapsNetwork](plugins/MineCraft/icons/25x25xLapsNetwork_1733081406.png.pagespeed.ic.2yzyl-G9Ju.jpg)
+[Stormy Lagoon - Crossplay 1.21.1](https://minecraft-server.net/details/StormyLagoon/ "Stormy Lagoon - Crossplay 1.21.1")[![TerminaMC](plugins/MineCraft/icons/25x25xTerminaMC_1733192555.png.pagespeed.ic.heZ9yRSN4j.jpg)
 
-Laps Network - Exlusive Games](https://minecraft-server.net/details/LapsNetwork/ "Laps Network - Exlusive Games")[![SkyXNetwork](plugins/MineCraft/icons/25x25xSkyXNetwork_1733129780.png.pagespeed.ic.PFS-nW2_IQ.png)
+Termina - Towny Raiding (War) (SMP) \[Crossplay\]](https://minecraft-server.net/details/TerminaMC/ "Termina - Towny Raiding (War) (SMP) [Crossplay]")[![minetown-5791](plugins/MineCraft/icons/25x25xminetown-5791_1731099950.png.pagespeed.ic.SSZzXPSpx_.jpg)
 
-Sky X Network](https://minecraft-server.net/details/SkyXNetwork/ "Sky X Network ")[![HorusApl](plugins/MineCraft/icons/25x25xHorusApl_1720169128.png.pagespeed.ic.dbPZXbDd8P.png)
+Minetown - 1.8 - 1.21.3](https://minecraft-server.net/details/minetown-5791/ "Minetown - 1.8 - 1.21.3")[![TheCoilMC](plugins/MineCraft/icons/25x25xTheCoilMC_1692232580.png.pagespeed.ic.KAeZ38kGe1.jpg)
 
-ExeosCraft (1.21) | Economy SMP | McMMO | No Resets](https://minecraft-server.net/details/HorusApl/ "ExeosCraft (1.21) | Economy SMP | McMMO | No Resets")[![chillzonesmp](plugins/MineCraft/icons/25x25xchillzonesmp_1720845017.png.pagespeed.ic.cfh9_HKrci.png)
+The Coil MC](https://minecraft-server.net/details/TheCoilMC/ "The Coil MC")[![HeartSMP](plugins/MineCraft/icons/25x25xHeartSMP_1733143122.png.pagespeed.ic._3YAt9VHdc.png)
 
-ChillZone SMP {Whitelisted}](https://minecraft-server.net/details/chillzonesmp/ "ChillZone SMP {Whitelisted}")[![CraftedSurvival](plugins/MineCraft/icons/25x25xCraftedSurvival_1724663271.png.pagespeed.ic.7xXnoJyxX-.png)
-
-Crafted Survival SMP](https://minecraft-server.net/details/CraftedSurvival/ "Crafted Survival SMP")
+HeartSMP SEASON 2](https://minecraft-server.net/details/HeartSMP/ "HeartSMP SEASON 2")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Terms and Conditions of Minecraft-Server.net
@@ -125,4 +123,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06141 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06355 - Created by [Debaucus](https://debauc.us/)
