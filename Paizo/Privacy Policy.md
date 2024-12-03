@@ -88,7 +88,6 @@ All Products Messageboards Blogs Users PRD
     * [ ]  [Exclusives▾▾](https://paizo.com/store/exclusives "Store > Exclusives")
     * [ ]  [Sale▾▾](https://paizo.com/store/sale "Store > Sale")
         * [2024 Advent Calendar Sale](https://paizo.com/store/sale/dec2024AdventCalendarSale "Store > Sale > 2024 Advent Calendar Sale")
-        * [Black Friday 2024 Sale](https://paizo.com/store/sale/blackFriday2024 "Store > Sale > Black Friday 2024 Sale")
         * [$1 Bin](https://paizo.com/store/sale/oneDollar "Store > Sale > $1 Bin")
         * [25% Off](https://paizo.com/store/sale/twentyFive "Store > Sale > 25% Off")
         * [50% Off](https://paizo.com/store/sale/bffifty "Store > Sale > 50% Off")
