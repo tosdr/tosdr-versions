@@ -20,16 +20,16 @@ Tuesday, December 3 2024
 
 Latest
 
-* [How to Write a Call Center Business Plan in 7 Steps](https://digitpatrox.com/how-to-write-a-call-center-business-plan-in-7-steps/)
-* [What is a super-automatic espresso machine, and are they worth it?](https://digitpatrox.com/what-is-a-super-automatic-espresso-machine-and-are-they-worth-it/)
-* [Russia sentences Hydra dark web market leader to life in prison](https://digitpatrox.com/russia-sentences-hydra-dark-web-market-leader-to-life-in-prison/)
-* [Jaguar’s bizarre rebranding continues with the Type 00 concept electric car](https://digitpatrox.com/jaguars-bizarre-rebranding-continues-with-the-type-00-concept-electric-car/)
-* [NYT Strands Today: Hints, Answers & Spangram for December 3](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-december-3/)
-* [Download the Cloud Optimization Enterprise Spotlight](https://digitpatrox.com/download-the-cloud-optimization-enterprise-spotlight/)
-* [This Ember Smart Mug Keeps Me Caffeinated, and It’s 27% Off This Cyber Monday](https://digitpatrox.com/this-ember-smart-mug-keeps-me-caffeinated-and-its-27-off-this-cyber-monday/)
-* [How to show full path on File Explorer on Windows 11, 10](https://digitpatrox.com/how-to-show-full-path-on-file-explorer-on-windows-11-10/)
-* [Sony’s Rumored Gaming Handheld Has an Impossible Job](https://digitpatrox.com/sonys-rumored-gaming-handheld-has-an-impossible-job/)
-* [Data center firm Latos introduces itself with plans for 40 new facilities in the UK](https://digitpatrox.com/data-center-firm-latos-introduces-itself-with-plans-for-40-new-facilities-in-the-uk/)
+* [Will AI help doctors decide whether you live or die? – Computerworld](https://digitpatrox.com/will-ai-help-doctors-decide-whether-you-live-or-die-computerworld/)
+* [The M2 MacBook Air Has Its Lowest Price Ever for Cyber Monday](https://digitpatrox.com/the-m2-macbook-air-has-its-lowest-price-ever-for-cyber-monday/)
+* [Should You Buy a Steam Deck if You Don’t Have a Gaming PC?](https://digitpatrox.com/should-you-buy-a-steam-deck-if-you-dont-have-a-gaming-pc/)
+* [BT orders staff back into the office with “three together, two wherever” policy change](https://digitpatrox.com/bt-orders-staff-back-into-the-office-with-three-together-two-wherever-policy-change/)
+* [How to Create Tables in HTML: Simple Steps for Beginners](https://digitpatrox.com/how-to-create-tables-in-html-simple-steps-for-beginners/)
+* [Even after Black Friday and Cyber Monday, the AirPods Pro 2 are a better deal than the AirPods 4](https://digitpatrox.com/even-after-black-friday-and-cyber-monday-the-airpods-pro-2-are-a-better-deal-than-the-airpods-4/)
+* [Mozilla really wants you to set Firefox as default Windows browser](https://digitpatrox.com/mozilla-really-wants-you-to-set-firefox-as-default-windows-browser/)
+* [Data brokers may be banned from selling your social security number](https://digitpatrox.com/data-brokers-may-be-banned-from-selling-your-social-security-number/)
+* [Your Friendly Neighborhood Spider-Man: Release Date, Trailer, Cast & More](https://digitpatrox.com/your-friendly-neighborhood-spider-man-release-date-trailer-cast-more/)
+* [Intel CEO Pat Gelsinger retires – Computerworld](https://digitpatrox.com/intel-ceo-pat-gelsinger-retires-computerworld/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://assets.techrepublic.com/uploads/2024/12/call-center-business-plan-featured-image-12022024-min.png)](https://digitpatrox.com/how-to-write-a-call-center-business-plan-in-7-steps/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3613982-0-82126400-1733223823-shutterstock_2271198777.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/will-ai-help-doctors-decide-whether-you-live-or-die-computerworld/)
     
-    [How to Write a Call Center Business Plan in 7 Steps](https://digitpatrox.com/how-to-write-a-call-center-business-plan-in-7-steps/)
+    [Will AI help doctors decide whether you live or die? – Computerworld](https://digitpatrox.com/will-ai-help-doctors-decide-whether-you-live-or-die-computerworld/)
     
-    32 minutes ago
+    13 minutes ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/DsCCvVAAgmqfRkWDjF538g-1200-80.jpg)](https://digitpatrox.com/what-is-a-super-automatic-espresso-machine-and-are-they-worth-it/)
+* [![](https://lifehacker.com/imagery/articles/01JD7TJH9A9AQXE5JVDJ4GAMAX/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/the-m2-macbook-air-has-its-lowest-price-ever-for-cyber-monday/)
     
-    [What is a super-automatic espresso machine, and are they worth it?](https://digitpatrox.com/what-is-a-super-automatic-espresso-machine-and-are-they-worth-it/)
+    [The M2 MacBook Air Has Its Lowest Price Ever for Cyber Monday](https://digitpatrox.com/the-m2-macbook-air-has-its-lowest-price-ever-for-cyber-monday/)
     
-    36 minutes ago
+    41 minutes ago
     
-* [![](https://www.bleepstatic.com/content/hl-images/2022/04/05/Hydra_headpic.jpg)](https://digitpatrox.com/russia-sentences-hydra-dark-web-market-leader-to-life-in-prison/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/12/half-life-2-on-a-steam-deck-oled-on-a-macbook-pro.jpg)](https://digitpatrox.com/should-you-buy-a-steam-deck-if-you-dont-have-a-gaming-pc/)
     
-    [Russia sentences Hydra dark web market leader to life in prison](https://digitpatrox.com/russia-sentences-hydra-dark-web-market-leader-to-life-in-prison/)
+    [Should You Buy a Steam Deck if You Don’t Have a Gaming PC?](https://digitpatrox.com/should-you-buy-a-steam-deck-if-you-dont-have-a-gaming-pc/)
+    
+    52 minutes ago
+    
+* [![](https://cdn.mos.cms.futurecdn.net/hh3kGMT7UA8QaeCWbpBQrT-1200-80.jpg)](https://digitpatrox.com/bt-orders-staff-back-into-the-office-with-three-together-two-wherever-policy-change/)
+    
+    [BT orders staff back into the office with “three together, two wherever” policy change](https://digitpatrox.com/bt-orders-staff-back-into-the-office-with-three-together-two-wherever-policy-change/)
     
     2 hours ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/Lk6wor-ptUbTrP-Xh6ze6C_40EA=/209x154:3631x2160/1200x628/filters:focal(1827x1360:1828x1361)/cdn.vox-cdn.com/uploads/chorus_asset/file/25770685/Design_Vision_HERO_SIDE_PROFILE_16x9.jpg)](https://digitpatrox.com/jaguars-bizarre-rebranding-continues-with-the-type-00-concept-electric-car/)
+* [![](https://assets.techrepublic.com/uploads/2024/12/tr_20241202-create-html-tables.jpg)](https://digitpatrox.com/how-to-create-tables-in-html-simple-steps-for-beginners/)
     
-    [Jaguar’s bizarre rebranding continues with the Type 00 concept electric car](https://digitpatrox.com/jaguars-bizarre-rebranding-continues-with-the-type-00-concept-electric-car/)
-    
-    2 hours ago
-    
-* [![](https://beebom.com/wp-content/uploads/2024/07/strands-today-hints-and-answers.jpg?w=1252&quality=75)](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-december-3/)
-    
-    [NYT Strands Today: Hints, Answers & Spangram for December 3](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-december-3/)
+    [How to Create Tables in HTML: Simple Steps for Beginners](https://digitpatrox.com/how-to-create-tables-in-html-simple-steps-for-beginners/)
     
     2 hours ago
     
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [32 minutes ago
+* [13 minutes ago
     
-    ### How to Write a Call Center Business Plan in 7 Steps](https://digitpatrox.com/how-to-write-a-call-center-business-plan-in-7-steps/)
-* [36 minutes ago
+    ### Will AI help doctors decide whether you live or die? – Computerworld](https://digitpatrox.com/will-ai-help-doctors-decide-whether-you-live-or-die-computerworld/)
+* [41 minutes ago
     
-    ### What is a super-automatic espresso machine, and are they worth it?](https://digitpatrox.com/what-is-a-super-automatic-espresso-machine-and-are-they-worth-it/)
-* [2 hours ago
+    ### The M2 MacBook Air Has Its Lowest Price Ever for Cyber Monday](https://digitpatrox.com/the-m2-macbook-air-has-its-lowest-price-ever-for-cyber-monday/)
+* [52 minutes ago
     
-    ### Russia sentences Hydra dark web market leader to life in prison](https://digitpatrox.com/russia-sentences-hydra-dark-web-market-leader-to-life-in-prison/)
+    ### Should You Buy a Steam Deck if You Don’t Have a Gaming PC?](https://digitpatrox.com/should-you-buy-a-steam-deck-if-you-dont-have-a-gaming-pc/)
 
 Most Popular Topics
 
-* [September 13, 2024
+* [September 26, 2024
     
-    ### Partnerships are Oracle’s key to success in the “multi-cloud era”](https://digitpatrox.com/partnerships-are-oracles-key-to-success-in-the-multi-cloud-era/)
-* [9 hours ago
+    ### New GitHub rules mean users can store code and repository data in the EU](https://digitpatrox.com/new-github-rules-mean-users-can-store-code-and-repository-data-in-the-eu/)
+* [October 4, 2024
     
-    ### It looks like Apple’s forthcoming M5 chips are all about AI – Computerworld](https://digitpatrox.com/it-looks-like-apples-forthcoming-m5-chips-are-all-about-ai-computerworld/)
-* [October 13, 2024
+    ### NYT Connections today hints and answers — Friday, October 4 (#481)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-friday-october-4-481/)
+* [3 weeks ago
     
-    ### Deepfakes Can Fool Facial Recognition on Crypto Exchanges](https://digitpatrox.com/deepfakes-can-fool-facial-recognition-on-crypto-exchanges/)
+    ### Apple releases Final Cut Pro 11 for Mac, plus iPhone and iPad updates — here’s what’s new](https://digitpatrox.com/apple-releases-final-cut-pro-11-for-mac-plus-iphone-and-ipad-updates-heres-whats-new/)
 
 Last Modified Topics
 
-* [5 hours ago
+* [3 hours ago
     
-    ### This Ember Smart Mug Keeps Me Caffeinated, and It’s 27% Off This Cyber Monday](https://digitpatrox.com/this-ember-smart-mug-keeps-me-caffeinated-and-its-27-off-this-cyber-monday/)
-* [5 hours ago
+    ### Mozilla really wants you to set Firefox as default Windows browser](https://digitpatrox.com/mozilla-really-wants-you-to-set-firefox-as-default-windows-browser/)
+* [3 hours ago
     
-    ### How to show full path on File Explorer on Windows 11, 10](https://digitpatrox.com/how-to-show-full-path-on-file-explorer-on-windows-11-10/)
-* [5 hours ago
+    ### Data brokers may be banned from selling your social security number](https://digitpatrox.com/data-brokers-may-be-banned-from-selling-your-social-security-number/)
+* [3 hours ago
     
-    ### Sony’s Rumored Gaming Handheld Has an Impossible Job](https://digitpatrox.com/sonys-rumored-gaming-handheld-has-an-impossible-job/)
+    ### Your Friendly Neighborhood Spider-Man: Release Date, Trailer, Cast & More](https://digitpatrox.com/your-friendly-neighborhood-spider-man-release-date-trailer-cast-more/)
 
 Most Viewed Topics
 
+* [August 13, 2024
+    
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [August 12, 2024
     
     ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
-* [August 11, 2024
-    
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [October 2, 2024
     
     ### The best noise-canceling headphones for 2024](https://digitpatrox.com/the-best-noise-canceling-headphones-for-2024/)
