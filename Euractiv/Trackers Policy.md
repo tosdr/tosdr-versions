@@ -111,6 +111,14 @@ Most recent
 
 [03-12-2024
 
+EU political groups agree on new, full-standing health committee](https://www.euractiv.com/section/health-consumers/news/eu-political-groups-agree-on-new-full-standing-health-committee/)[03-12-2024
+
+Bern Committee votes to lower protection status of wolves](https://www.euractiv.com/section/eet/news/bern-committee-votes-to-lower-protection-status-of-wolves/)[03-12-2024
+
+NATO opens liaison office in Jordan](https://www.euractiv.com/section/global-europe/news/nato-opens-liaison-office-in-jordan/)[03-12-2024
+
+Barbados completes world first debt swap for climate resilience](https://www.euractiv.com/section/eet/news/barbados-completes-world-first-debt-swap-for-climate-resilience/)[03-12-2024
+
 As sabotage allegations swirl, NATO struggles to secure the Baltic Sea](https://www.euractiv.com/section/global-europe/news/as-sabotage-allegations-swirl-nato-struggles-to-secure-the-baltic-sea/)[03-12-2024
 
 NATO expected to sidestep Ukraine’s call for quick invite](https://www.euractiv.com/section/global-europe/news/nato-expected-to-sidestep-ukraines-call-for-quick-invite/)[03-12-2024
@@ -121,15 +129,7 @@ Kennedy Jr. won’t visit Bucharest as court validates Romanian presidential ele
 
 Bulgaria declares Russian billionaire football boss ‘persona non grata’](https://www.euractiv.com/section/politics/news/bulgaria-declares-russian-billionaire-football-boss-persona-non-grata/)[03-12-2024
 
-Czech arms maker breaks into global top 100 defence companies](https://www.euractiv.com/section/politics/news/czech-arms-maker-breaks-into-global-top-100-defence-companies/)[03-12-2024
-
-Trump to attend Notre-Dame reopening in first foreign trip since election](https://www.euractiv.com/section/global-europe/news/trump-to-attend-notre-dame-reopening-in-first-foreign-trip-since-election/)[03-12-2024
-
-Poland’s Duda dislikes PiS-backed presidential candidate, sources say](https://www.euractiv.com/section/politics/news/polands-duda-dislikes-pis-backed-presidential-candidate-sources-say/)[03-12-2024
-
-Thousands rally after Georgian PM vows to quash ‘foreign-funded revolution’](https://www.euractiv.com/section/global-europe/news/thousands-rally-after-georgian-pm-vows-to-quash-foreign-funded-revolution/)[03-12-2024
-
-Three of 103 hate crime probes in Portugal led to charges this year](https://www.euractiv.com/section/politics/news/three-of-103-hate-crime-probes-in-portugal-led-to-charges-this-year/)
+Czech arms maker breaks into global top 100 defence companies](https://www.euractiv.com/section/politics/news/czech-arms-maker-breaks-into-global-top-100-defence-companies/)
 
 ###### Advertisement
 
