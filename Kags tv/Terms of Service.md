@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.kagstv.com/assets/KCEN/images/b82f95a3-570c-4461-8e7a-897e6f449fbc/20241202T151641/b82f95a3-570c-4461-8e7a-897e6f449fbc_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/b82f95a3-570c-4461-8e7a-897e6f449fbc/20241202T151641/b82f95a3-570c-4461-8e7a-897e6f449fbc_360x203.jpg)](https://www.kagstv.com/article/news/local/college-station-large-fraternity-party-break-up-one-arrested-nov-30-2024/500-ff22faae-bf98-4cc6-ba85-3329d0990228)
+    *  [![](https://media.kagstv.com/assets/WTOL/images/c10ad3a3-1eb9-42c5-89c3-2c9e2bce1e6c/c10ad3a3-1eb9-42c5-89c3-2c9e2bce1e6c_16x9.jpg) ![](https://media.kagstv.com/assets/WTOL/images/c10ad3a3-1eb9-42c5-89c3-2c9e2bce1e6c/c10ad3a3-1eb9-42c5-89c3-2c9e2bce1e6c_360x203.jpg)](https://www.kagstv.com/article/news/local/escaped-juvenile-from-brazos-county-juvenile-detention-center/500-a2a29cb4-0a40-47d6-86c4-858ba7acd244)
         
-        #### [Over 600-person fraternity party shut down in College Station, organizer arrested](https://www.kagstv.com/article/news/local/college-station-large-fraternity-party-break-up-one-arrested-nov-30-2024/500-ff22faae-bf98-4cc6-ba85-3329d0990228)
+        #### [Juvenile that escaped Brazos County Detention Center has been captured, officials say](https://www.kagstv.com/article/news/local/escaped-juvenile-from-brazos-county-juvenile-detention-center/500-a2a29cb4-0a40-47d6-86c4-858ba7acd244)
         
-    *  [![](https://media.kagstv.com/assets/WFAA/images/a3adbda4-f4d7-41f4-9934-025e0ce966fa/20241201T034205/a3adbda4-f4d7-41f4-9934-025e0ce966fa_16x9.jpg) ![](https://media.kagstv.com/assets/WFAA/images/a3adbda4-f4d7-41f4-9934-025e0ce966fa/20241201T034205/a3adbda4-f4d7-41f4-9934-025e0ce966fa_360x203.jpg)](https://www.kagstv.com/article/news/local/is-texas-am-a-military-school-heres-why-you-see-hundreds-in-uniform/287-17b3b4d2-6af6-47ce-af45-aa4cf8073394)
+    *  [![](https://media.kagstv.com/assets/WFAA/images/f6f3cd02-fee2-4034-9bc4-4b3073166481/f6f3cd02-fee2-4034-9bc4-4b3073166481_16x9.jpg) ![](https://media.kagstv.com/assets/WFAA/images/f6f3cd02-fee2-4034-9bc4-4b3073166481/f6f3cd02-fee2-4034-9bc4-4b3073166481_360x203.jpg)](https://www.kagstv.com/article/news/weird/fake-construction-workers-arrested-at-kyle-field-during-2024-lone-star-showdown/500-f6bf4344-f271-4d45-a6f8-9062a6cd2541)
         
-        #### [Is Texas A&M a military school? Here's why you see hundreds dressed in uniform](https://www.kagstv.com/article/news/local/is-texas-am-a-military-school-heres-why-you-see-hundreds-in-uniform/287-17b3b4d2-6af6-47ce-af45-aa4cf8073394)
+        #### [Police arrest two men posing as construction workers attempting to enter Kyle Field for A&M-Texas game](https://www.kagstv.com/article/news/weird/fake-construction-workers-arrested-at-kyle-field-during-2024-lone-star-showdown/500-f6bf4344-f271-4d45-a6f8-9062a6cd2541)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-69°
+53°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
