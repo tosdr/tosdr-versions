@@ -384,7 +384,7 @@ weiter
 
 Suchen
 
-![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v123420388.svg)
+![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v123769883.svg)
 
 1. [Startweiter](https://www.test.de/)
 2. Hilfe
@@ -656,20 +656,20 @@ Weitere spannende Themen
 Neueste Tests
 
 * [Kfz-Versicherung im Vergleich: Wechseln und sparen – hier finden Sie eine güns­tige Auto­versicherung](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Wechseln und sparen – hier finden Sie eine günstige Autoversicherung")
+* [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 * [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 * [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 * [Anschluss­finanzierung: So sichern Sie sich einen güns­tigen Anschluss­kredit](https://www.test.de/Anschlussfinanzierung-Kredit-Zinsen-Vergleich-4963970-0/ "Anschlussfinanzierung - So sichern Sie sich einen günstigen Anschlusskredit")
 * [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
-* [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
 
 test.de entdecken
 
-* [Verpackungs­ärger: Vivani-Schokoriegel](https://www.test.de/Verpackungsaerger-Vivani-Schokoriegel-5970152-0/ "Verpackungsärger - Vivani-Schokoriegel")
-* [Docking­stationen im Test: Viele sind ein Gewinn fürs Home­office](https://www.test.de/USB-C-Dockingstationen-im-Test-5979272-0/ "Dockingstationen im Test - Viele sind ein Gewinn fürs Homeoffice")
-* [Verein gründen: Die 3 wichtigsten Schritte](https://www.test.de/Gewusst-wie-Verein-gruenden-5965629-0/ "Verein gründen - Die 3 wichtigsten Schritte")
-* [Wunder­sames aus dem Prüf­labor: Knall­körper](https://www.test.de/Wundersames-aus-dem-Prueflabor-Knallkoerper-6111981-0/ "Wundersames aus dem Prüflabor - Knallkörper")
-* [Rück­ruf Thule Kinder­fahr­radsitz: Schad­stoff im Polster](https://www.test.de/Rueckruf-Thule-Kinderfahrradsitz-Schadstoff-im-Polster-6117327-0/ "Rückruf Thule Kinderfahrradsitz - Schadstoff im Polster")
-* [Lang­zeit­folgen von Covid-19: Riech­training wirkt bei Geruchs­verlust](https://www.test.de/Langzeitfolgen-von-Covid-19-Riechtraining-wirkt-bei-Geruchsverlust-6066247-0/ "Langzeitfolgen von Covid-19 - Riechtraining wirkt bei Geruchsverlust")
+* [Mariniertes Schweine­fleisch im Test: Gutes für den Grill](https://www.test.de/grillfleisch-im-test-6019853-0/ "Mariniertes Schweinefleisch im Test - Gutes für den Grill")
+* [PC und Handy fern­steuern: IT-Hilfe für Oma, Opa, Mama, Papa...](https://www.test.de/PC-und-Handy-fernsteuern-IT-Hilfe-fuer-Oma-Opa-Mama-Papa-5949126-0/ "PC und Handy fernsteuern - IT-Hilfe für Oma, Opa, Mama, Papa...")
+* [Renten­splitting für Ehepaare: Manchmal ist es vorteilhaft, die Rente aufzuteilen](https://www.test.de/rentensplitting-6062329-0/ "Rentensplitting für Ehepaare - Manchmal ist es vorteilhaft, die Rente aufzuteilen")
+* [Dubioses Fest­geld: Vorsicht bei Spar-Global](https://www.test.de/Dubioses-Festgeld-Vorsicht-bei-Spar-Global-6149600-0/ "Dubioses Festgeld - Vorsicht bei Spar-Global")
+* [Bitcoin Apex: Bericht über Peter Maffay gefälscht](https://www.test.de/Bitcoin-Apex-Bericht-ueber-Peter-Maffay-gefaelscht-6111514-0/ "Bitcoin Apex - Bericht über Peter Maffay gefälscht")
+* [Aktien-ETF Japan: Mit oder ohne Währungs­sicherung?](https://www.test.de/Aktien-ETF-Japan-Mit-oder-ohne-Waehrungssicherung-6132893-0/ "Aktien-ETF Japan - Mit oder ohne Währungssicherung?")
 
 Weitere Informationen
 
@@ -3074,20 +3074,20 @@ Weitere spannende Themen
 Neueste Tests
 
 * [Kfz-Versicherung im Vergleich: Wechseln und sparen – hier finden Sie eine güns­tige Auto­versicherung](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Wechseln und sparen – hier finden Sie eine günstige Autoversicherung")
+* [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 * [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 * [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 * [Anschluss­finanzierung: So sichern Sie sich einen güns­tigen Anschluss­kredit](https://www.test.de/Anschlussfinanzierung-Kredit-Zinsen-Vergleich-4963970-0/ "Anschlussfinanzierung - So sichern Sie sich einen günstigen Anschlusskredit")
 * [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
-* [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
 
 test.de entdecken
 
-* [Verpackungs­ärger: Vivani-Schokoriegel](https://www.test.de/Verpackungsaerger-Vivani-Schokoriegel-5970152-0/ "Verpackungsärger - Vivani-Schokoriegel")
-* [Docking­stationen im Test: Viele sind ein Gewinn fürs Home­office](https://www.test.de/USB-C-Dockingstationen-im-Test-5979272-0/ "Dockingstationen im Test - Viele sind ein Gewinn fürs Homeoffice")
-* [Verein gründen: Die 3 wichtigsten Schritte](https://www.test.de/Gewusst-wie-Verein-gruenden-5965629-0/ "Verein gründen - Die 3 wichtigsten Schritte")
-* [Wunder­sames aus dem Prüf­labor: Knall­körper](https://www.test.de/Wundersames-aus-dem-Prueflabor-Knallkoerper-6111981-0/ "Wundersames aus dem Prüflabor - Knallkörper")
-* [Rück­ruf Thule Kinder­fahr­radsitz: Schad­stoff im Polster](https://www.test.de/Rueckruf-Thule-Kinderfahrradsitz-Schadstoff-im-Polster-6117327-0/ "Rückruf Thule Kinderfahrradsitz - Schadstoff im Polster")
-* [Lang­zeit­folgen von Covid-19: Riech­training wirkt bei Geruchs­verlust](https://www.test.de/Langzeitfolgen-von-Covid-19-Riechtraining-wirkt-bei-Geruchsverlust-6066247-0/ "Langzeitfolgen von Covid-19 - Riechtraining wirkt bei Geruchsverlust")
+* [Mariniertes Schweine­fleisch im Test: Gutes für den Grill](https://www.test.de/grillfleisch-im-test-6019853-0/ "Mariniertes Schweinefleisch im Test - Gutes für den Grill")
+* [PC und Handy fern­steuern: IT-Hilfe für Oma, Opa, Mama, Papa...](https://www.test.de/PC-und-Handy-fernsteuern-IT-Hilfe-fuer-Oma-Opa-Mama-Papa-5949126-0/ "PC und Handy fernsteuern - IT-Hilfe für Oma, Opa, Mama, Papa...")
+* [Renten­splitting für Ehepaare: Manchmal ist es vorteilhaft, die Rente aufzuteilen](https://www.test.de/rentensplitting-6062329-0/ "Rentensplitting für Ehepaare - Manchmal ist es vorteilhaft, die Rente aufzuteilen")
+* [Dubioses Fest­geld: Vorsicht bei Spar-Global](https://www.test.de/Dubioses-Festgeld-Vorsicht-bei-Spar-Global-6149600-0/ "Dubioses Festgeld - Vorsicht bei Spar-Global")
+* [Bitcoin Apex: Bericht über Peter Maffay gefälscht](https://www.test.de/Bitcoin-Apex-Bericht-ueber-Peter-Maffay-gefaelscht-6111514-0/ "Bitcoin Apex - Bericht über Peter Maffay gefälscht")
+* [Aktien-ETF Japan: Mit oder ohne Währungs­sicherung?](https://www.test.de/Aktien-ETF-Japan-Mit-oder-ohne-Waehrungssicherung-6132893-0/ "Aktien-ETF Japan - Mit oder ohne Währungssicherung?")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -3130,38 +3130,38 @@ Weitere spannende Themen
 Neueste Tests
 
 * [Kfz-Versicherung im Vergleich: Wechseln und sparen – hier finden Sie eine güns­tige Auto­versicherung](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Wechseln und sparen – hier finden Sie eine günstige Autoversicherung")
+* [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 * [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 * [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 * [Anschluss­finanzierung: So sichern Sie sich einen güns­tigen Anschluss­kredit](https://www.test.de/Anschlussfinanzierung-Kredit-Zinsen-Vergleich-4963970-0/ "Anschlussfinanzierung - So sichern Sie sich einen günstigen Anschlusskredit")
 * [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
-* [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
 
 test.de entdecken
 
-* [Verpackungs­ärger: Vivani-Schokoriegel](https://www.test.de/Verpackungsaerger-Vivani-Schokoriegel-5970152-0/ "Verpackungsärger - Vivani-Schokoriegel")
-* [Docking­stationen im Test: Viele sind ein Gewinn fürs Home­office](https://www.test.de/USB-C-Dockingstationen-im-Test-5979272-0/ "Dockingstationen im Test - Viele sind ein Gewinn fürs Homeoffice")
-* [Verein gründen: Die 3 wichtigsten Schritte](https://www.test.de/Gewusst-wie-Verein-gruenden-5965629-0/ "Verein gründen - Die 3 wichtigsten Schritte")
-* [Wunder­sames aus dem Prüf­labor: Knall­körper](https://www.test.de/Wundersames-aus-dem-Prueflabor-Knallkoerper-6111981-0/ "Wundersames aus dem Prüflabor - Knallkörper")
-* [Rück­ruf Thule Kinder­fahr­radsitz: Schad­stoff im Polster](https://www.test.de/Rueckruf-Thule-Kinderfahrradsitz-Schadstoff-im-Polster-6117327-0/ "Rückruf Thule Kinderfahrradsitz - Schadstoff im Polster")
-* [Lang­zeit­folgen von Covid-19: Riech­training wirkt bei Geruchs­verlust](https://www.test.de/Langzeitfolgen-von-Covid-19-Riechtraining-wirkt-bei-Geruchsverlust-6066247-0/ "Langzeitfolgen von Covid-19 - Riechtraining wirkt bei Geruchsverlust")
+* [Mariniertes Schweine­fleisch im Test: Gutes für den Grill](https://www.test.de/grillfleisch-im-test-6019853-0/ "Mariniertes Schweinefleisch im Test - Gutes für den Grill")
+* [PC und Handy fern­steuern: IT-Hilfe für Oma, Opa, Mama, Papa...](https://www.test.de/PC-und-Handy-fernsteuern-IT-Hilfe-fuer-Oma-Opa-Mama-Papa-5949126-0/ "PC und Handy fernsteuern - IT-Hilfe für Oma, Opa, Mama, Papa...")
+* [Renten­splitting für Ehepaare: Manchmal ist es vorteilhaft, die Rente aufzuteilen](https://www.test.de/rentensplitting-6062329-0/ "Rentensplitting für Ehepaare - Manchmal ist es vorteilhaft, die Rente aufzuteilen")
+* [Dubioses Fest­geld: Vorsicht bei Spar-Global](https://www.test.de/Dubioses-Festgeld-Vorsicht-bei-Spar-Global-6149600-0/ "Dubioses Festgeld - Vorsicht bei Spar-Global")
+* [Bitcoin Apex: Bericht über Peter Maffay gefälscht](https://www.test.de/Bitcoin-Apex-Bericht-ueber-Peter-Maffay-gefaelscht-6111514-0/ "Bitcoin Apex - Bericht über Peter Maffay gefälscht")
+* [Aktien-ETF Japan: Mit oder ohne Währungs­sicherung?](https://www.test.de/Aktien-ETF-Japan-Mit-oder-ohne-Waehrungssicherung-6132893-0/ "Aktien-ETF Japan - Mit oder ohne Währungssicherung?")
 
 Neueste Tests
 
 * [Kfz-Versicherung im Vergleich: Wechseln und sparen – hier finden Sie eine güns­tige Auto­versicherung](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Wechseln und sparen – hier finden Sie eine günstige Autoversicherung")
+* [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 * [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 * [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 * [Anschluss­finanzierung: So sichern Sie sich einen güns­tigen Anschluss­kredit](https://www.test.de/Anschlussfinanzierung-Kredit-Zinsen-Vergleich-4963970-0/ "Anschlussfinanzierung - So sichern Sie sich einen günstigen Anschlusskredit")
 * [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
-* [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
 
 test.de entdecken
 
-* [Verpackungs­ärger: Vivani-Schokoriegel](https://www.test.de/Verpackungsaerger-Vivani-Schokoriegel-5970152-0/ "Verpackungsärger - Vivani-Schokoriegel")
-* [Docking­stationen im Test: Viele sind ein Gewinn fürs Home­office](https://www.test.de/USB-C-Dockingstationen-im-Test-5979272-0/ "Dockingstationen im Test - Viele sind ein Gewinn fürs Homeoffice")
-* [Verein gründen: Die 3 wichtigsten Schritte](https://www.test.de/Gewusst-wie-Verein-gruenden-5965629-0/ "Verein gründen - Die 3 wichtigsten Schritte")
-* [Wunder­sames aus dem Prüf­labor: Knall­körper](https://www.test.de/Wundersames-aus-dem-Prueflabor-Knallkoerper-6111981-0/ "Wundersames aus dem Prüflabor - Knallkörper")
-* [Rück­ruf Thule Kinder­fahr­radsitz: Schad­stoff im Polster](https://www.test.de/Rueckruf-Thule-Kinderfahrradsitz-Schadstoff-im-Polster-6117327-0/ "Rückruf Thule Kinderfahrradsitz - Schadstoff im Polster")
-* [Lang­zeit­folgen von Covid-19: Riech­training wirkt bei Geruchs­verlust](https://www.test.de/Langzeitfolgen-von-Covid-19-Riechtraining-wirkt-bei-Geruchsverlust-6066247-0/ "Langzeitfolgen von Covid-19 - Riechtraining wirkt bei Geruchsverlust")
+* [Mariniertes Schweine­fleisch im Test: Gutes für den Grill](https://www.test.de/grillfleisch-im-test-6019853-0/ "Mariniertes Schweinefleisch im Test - Gutes für den Grill")
+* [PC und Handy fern­steuern: IT-Hilfe für Oma, Opa, Mama, Papa...](https://www.test.de/PC-und-Handy-fernsteuern-IT-Hilfe-fuer-Oma-Opa-Mama-Papa-5949126-0/ "PC und Handy fernsteuern - IT-Hilfe für Oma, Opa, Mama, Papa...")
+* [Renten­splitting für Ehepaare: Manchmal ist es vorteilhaft, die Rente aufzuteilen](https://www.test.de/rentensplitting-6062329-0/ "Rentensplitting für Ehepaare - Manchmal ist es vorteilhaft, die Rente aufzuteilen")
+* [Dubioses Fest­geld: Vorsicht bei Spar-Global](https://www.test.de/Dubioses-Festgeld-Vorsicht-bei-Spar-Global-6149600-0/ "Dubioses Festgeld - Vorsicht bei Spar-Global")
+* [Bitcoin Apex: Bericht über Peter Maffay gefälscht](https://www.test.de/Bitcoin-Apex-Bericht-ueber-Peter-Maffay-gefaelscht-6111514-0/ "Bitcoin Apex - Bericht über Peter Maffay gefälscht")
+* [Aktien-ETF Japan: Mit oder ohne Währungs­sicherung?](https://www.test.de/Aktien-ETF-Japan-Mit-oder-ohne-Waehrungssicherung-6132893-0/ "Aktien-ETF Japan - Mit oder ohne Währungssicherung?")
 
 Stiftung Warentest
 
