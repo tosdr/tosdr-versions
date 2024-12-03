@@ -1,17 +1,3 @@
-Informationen zur Verarbeitung Ihrer Daten!
-
-Wir haben YouTube-Videos in unser Online-Angebot eingebunden, die auf[https://www.youtube.com](https://www.youtube.com/)gespeichert sind und von unserer Website aus direkt abspielbar sind. Wenn Sie unsere Webseiten aufrufen, werden jedoch noch keine Inhalte des Drittanbieters YouTube (Google LLC) nachgeladen und dieser erhält keine Informationen von Ihnen. Erst wenn Sie Ihre Einwilligung erteilen, werden Inhalte des Drittanbieters YouTube (Google LLC) nachgeladen. Hierdurch erhält YouTube (Google LLC) die Information, dass Sie unsere Seite aufgerufen haben sowie die in diesem Rahmen technisch erforderlichen Nutzungsdaten. Außerdem ist YouTube (Google LLC) dann in der Lage Trackingtechnologien zu implementieren. Wir haben auf die weitere Datenverarbeitung durch den Drittanbieter YouTube (Google LLC) keinen Einfluss. Die Datenverarbeitung erfolgt auf Grundlage Ihrer Einwilligung gem. Art. 6 Abs. 1 lit. a) DSGVO. Ihre Einwilligung ist freiwillig und umfasst, dass Inhalte des Drittanbieters nachgeladen werden und die beschriebenen Daten an YouTube (Google LLC) übertragen werden dürfen. Für Übermittlungen in die USA ist ein angemessenes Datenschutzniveau aufgrund der Zertifizierung des Anbieters unter dem Angemessenheitsbeschluss (EU-U.S. Data Privacy Framework) gewährleistet. Weitere Informationen zu Zweck und Umfang der Datenerhebung und ihrer Verarbeitung durch YouTube (Google LLC) erhalten Sie in den Datenschutzerklärungen des Anbieters. Dort erhalten Sie auch weitere Informationen zu Ihren diesbezüglichen Rechten und Einstellungsmöglichkeiten zum Schutze Ihrer Privatsphäre. Adresse und Datenschutzhinweisen von YouTube: Google LLC, 1600 Amphitheatre Parkway. Mountain View, CA 94043, USA;[https://www.google.de/intl/de/policies/privacy/](https://www.google.de/intl/de/policies/privacy/).
-
-  
-
-Sofern Sie ihre Einwilligung zur sofortigen Abspielmöglichkeit von YouTube Videos erteilen werden oder schon haben, können Sie in unseren Datenschutzbestimmungen unter dem Punkt[Eingebundene Inhalte Dritter](https://www.lidl.de/c/datenschutz/s10007528?hidebanner=true#10016726), diese jederzeit widerrufen. Weitere Informationen zum Datenschutz, insbesondere zum Verantwortlichen und Ihren Datenschutzrechten, finden Sie ebenfalls in unseren[Datenschutzbestimmungen](https://www.lidl.de/c/datenschutz/s10007528?hidebanner=true).
-
-AkzeptierenAblehnen
-
-  Allgemeine Geschäftsbedingungen Onlineshop - Lidl.de                             
-
-    
-
 [Geschenkewelt: Finde das perfekte Geschenk für jedes Budget!](https://www.lidl.de/c/geschenkewelt-2024/s10060037)
 
 1. [![Lidl Logo Deutschland](/static/assets/c6855ba1-a17c-468f-b8b0-09fdab67dea7.svg)](https://www.lidl.de/ "Lidl Onlineshop - Online. Immer. Mehr.")
@@ -463,7 +449,7 @@ Werde Lidl-Fan
 
 ... und sichere dir deinen Gutschein⁷!Jetzt zum Newsletter anmelden!](https://www.lidl.de/c/newsletter-anmeldeseite/s10005754)
 
-Rechtliche Hinweise und Auflösung der Fußnoten
+### Rechtliche Hinweise und Auflösung der Fußnoten
 
 Mehr anzeigen
 
