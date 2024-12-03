@@ -109,6 +109,8 @@ _We welcome your feedback._
 
 [X](https://x.com/letterboxd "Letterboxd on X")
 
+[Bluesky](https://bsky.app/profile/letterboxd.social "Letterboxd on Bluesky")
+
 [Facebook](https://www.facebook.com/letterboxd "Letterboxd on Facebook")
 
 [TikTok](https://www.tiktok.com/@letterboxd "Letterboxd on TikTok")
