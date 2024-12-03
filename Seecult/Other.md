@@ -298,11 +298,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-ilic/dragan-ilic-20/its-001.jpg?itok=X53din-Z)](http://seecult.org/galerija/galerija-umetnika/dragan-ilic/dragan-ilic-20)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/nikola-dzafo/nikola-dzafo/zec-msuv-6.jpg?itok=l6Yr3Bem)](http://seecult.org/galerija/galerija-umetnika/nikola-dzafo/nikola-dzafo)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/festivali-koncerti-predstave-akcije/festivali/festival-nauke-2013/dscf4000.jpg?itok=J3GbZ4k9)](http://seecult.org/galerija/foto-galerija/festivali-koncerti-predstave-akcije/festivali/festival-nauke-2013)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/digitalizacija/centralna-biblioteka-univerziteta-u-novom-sadu/ubns-digi12.jpg?itok=ZYpqSo15)](http://seecult.org/galerija/foto-galerija/digitalizacija/centralna-biblioteka-univerziteta-u-novom-sadu)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
