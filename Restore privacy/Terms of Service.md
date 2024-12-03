@@ -254,6 +254,36 @@ Sidebar
 LATEST NEWS
 -----------
 
+[![Data Leak Exposes Millions of Top Corporations Employee Records](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
+
+![Data Leak Exposes Millions of Top Corporations Employee Records](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/Data-Leak-Exposes-Millions-of-Top-Corporations-Employee-Records-400x400.jpg)](https://cyberinsider.com/data-leak-exposes-millions-of-top-corporations-employee-records/)
+
+### [Data Leak Exposes Millions of Top Corporations Employee Records](https://cyberinsider.com/data-leak-exposes-millions-of-top-corporations-employee-records/)
+
+[![https://cyberinsider.com/wp-content/uploads/2024/10/Operation-Magnus-Update-Announces-Arrest-of-RedLine-Malware-Creator.jpg](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
+
+![https://cyberinsider.com/wp-content/uploads/2024/10/Operation-Magnus-Update-Announces-Arrest-of-RedLine-Malware-Creator.jpg](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/1000069940-400x400.jpg)](https://cyberinsider.com/new-celestial-stealer-javascript-maas-platform-springs-into-action/)
+
+### [New Celestial Stealer JavaScript MaaS Platform Springs into Action](https://cyberinsider.com/new-celestial-stealer-javascript-maas-platform-springs-into-action/)
+
+[![US Data Brokers Face FTC's Wrath Over Tracking Consumers Online](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
+
+![US Data Brokers Face FTC's Wrath Over Tracking Consumers Online](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/Google-FLoC-privacy-Federated-Learning-of-Cohorts--400x400.jpg)](https://cyberinsider.com/us-data-brokers-face-ftcs-wrath-over-tracking-consumers-online/)
+
+### [US Data Brokers Face FTC’s Wrath Over Tracking Consumers Online](https://cyberinsider.com/us-data-brokers-face-ftcs-wrath-over-tracking-consumers-online/)
+
+[![Apple Faces Employee Lawsuit Over Alleged Surveillance Practices](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
+
+![Apple Faces Employee Lawsuit Over Alleged Surveillance Practices](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/1000069935-400x400.jpg)](https://cyberinsider.com/apple-faces-employee-lawsuit-over-alleged-surveillance-practices/)
+
+### [Apple Faces Employee Lawsuit Over Alleged Surveillance Practices](https://cyberinsider.com/apple-faces-employee-lawsuit-over-alleged-surveillance-practices/)
+
+[![Encrypted Communications Service' Matrix' Dismantled by the Police](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
+
+![Encrypted Communications Service' Matrix' Dismantled by the Police](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/Encrypted-Communications-Service-Matrix-Dismantled-by-the-Police-400x400.png)](https://cyberinsider.com/encrypted-communications-service-matrix-dismantled-by-the-police/)
+
+### [Encrypted Communications Service ‘Matrix’ Dismantled by the Police](https://cyberinsider.com/encrypted-communications-service-matrix-dismantled-by-the-police/)
+
 [![RestorePrivacy Merges with CyberInsider](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
 
 ![RestorePrivacy Merges with CyberInsider](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/RestorePrivacy-Merges-with-CyberInsider-400x400.png)](https://cyberinsider.com/restoreprivacy-com-merges-with-cyberinsider-com/)
@@ -283,36 +313,6 @@ LATEST NEWS
 ![Bologna FC Hit by Ransomware Attack, Confidential Data Stolen](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/11/Bologna-FC-Hit-by-Ransomware-Attack-Confidential-Data-Stolen-400x400.png)](https://cyberinsider.com/bologna-fc-hit-by-ransomware-attack-confidential-data-stolen/)
 
 ### [Bologna FC Hit by Ransomware Attack, Confidential Data Stolen](https://cyberinsider.com/bologna-fc-hit-by-ransomware-attack-confidential-data-stolen/)
-
-[![Over 600,000 Records Exposed in ‘SL Data Services’ Data Breach](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
-
-![Over 600,000 Records Exposed in ‘SL Data Services’ Data Breach](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/11/Over-600000-Records-Exposed-in-‘SL-Data-Services-Data-Breach-400x400.jpg)](https://cyberinsider.com/over-600000-records-exposed-in-sl-data-services-data-breach/)
-
-### [Over 600,000 Records Exposed in ‘SL Data Services’ Data Breach](https://cyberinsider.com/over-600000-records-exposed-in-sl-data-services-data-breach/)
-
-[![SpyLoan Android Apps Reach 8 Million Downloads on Google Play](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
-
-![SpyLoan Android Apps Reach 8 Million Downloads on Google Play](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/11/SpyLoan-Android-Apps-Reach-8-Million-Downloads-on-Google-Play-400x400.jpg)](https://cyberinsider.com/spyloan-android-apps-reach-8-million-downloads-on-google-play/)
-
-### [SpyLoan Android Apps Reach 8 Million Downloads on Google Play](https://cyberinsider.com/spyloan-android-apps-reach-8-million-downloads-on-google-play/)
-
-[![Threat Actors Exploit Windows Archive Support to Evade Secure Email Gateways](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
-
-![Threat Actors Exploit Windows Archive Support to Evade Secure Email Gateways](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/11/Threat-Actors-Exploit-Windows-Archive-Support-to-Evade-Secure-Email-Gateways-400x400.jpg)](https://cyberinsider.com/threat-actors-exploit-windows-archive-support-to-evade-secure-email-gateways/)
-
-### [Threat Actors Exploit Windows Archive Support to Evade Secure Email Gateways](https://cyberinsider.com/threat-actors-exploit-windows-archive-support-to-evade-secure-email-gateways/)
-
-[![CryptoLove: Deep Dive Into a Sophisticated Cryptocurrency Theft Empire](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
-
-![CryptoLove: Deep Dive Into a Sophisticated Cryptocurrency Theft Empire](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/11/CryptoLove-Deep-Dive-Into-a-Sophisticated-Cryptocurrency-Theft-Empire-400x400.jpg)](https://cyberinsider.com/cryptolove-deep-dive-into-sophisticated-cryptocurrency-theft-empire/)
-
-### [CryptoLove: Deep Dive Into a Sophisticated Cryptocurrency Theft Empire](https://cyberinsider.com/cryptolove-deep-dive-into-sophisticated-cryptocurrency-theft-empire/)
-
-[![Cybercriminals Exploit Gaming Engine Godot for Malware Delivery](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
-
-![Cybercriminals Exploit Gaming Engine Godot for Malware Delivery](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/11/Cybercriminals-Exploit-Gaming-Engine-Godot-for-Malware-Delivery-400x400.jpg)](https://cyberinsider.com/cybercriminals-exploit-gaming-engine-godot-for-malware-delivery/)
-
-### [Cybercriminals Exploit Gaming Engine Godot for Malware Delivery](https://cyberinsider.com/cybercriminals-exploit-gaming-engine-godot-for-malware-delivery/)
 
 Copyright © 2024 · CyberInsider.com · All Rights Reserved · [Privacy Policy](https://cyberinsider.com/privacy-policy/) ·  [Terms of Use](https://cyberinsider.com//terms-of-use/) · [Contact](https://cyberinsider.com/contact/)
 
