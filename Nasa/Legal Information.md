@@ -70,7 +70,7 @@ Suggested Searches
 
 ### Experience the Launch of NASA’s SpaceX Crew-10 Mission  
 
-article4 hours ago](https://www.nasa.gov/general/experience-the-launch-of-nasas-spacex-crew-10-mission/)[![NASA AI, Open Science Advance Disaster Research and Recovery](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/science-enabling-technology/technology-highlights/2024/NGRx_Image_2.jpg)
+article9 hours ago](https://www.nasa.gov/general/experience-the-launch-of-nasas-spacex-crew-10-mission/)[![NASA AI, Open Science Advance Disaster Research and Recovery](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/science-enabling-technology/technology-highlights/2024/NGRx_Image_2.jpg)
 
 4 min read
 
@@ -247,13 +247,13 @@ Back
 
 ### Experience the Launch of NASA’s SpaceX Crew-10 Mission  
 
-article 4 hours ago](https://www.nasa.gov/general/experience-the-launch-of-nasas-spacex-crew-10-mission/)[![Framed by vegetation in the foreground and against the backdrop of a black night sky, NASA’s SLS (Space Launch System) rocket carrying the Orion spacecraft launches on the Artemis I flight test on Nov. 16, 2022, from Launch Complex 39B at NASA’s Kennedy Space Center in Florida.](https://www.nasa.gov/wp-content/uploads/2024/12/virtual-backgrounds-review-110424-page-03.png?w=1024)
+article 9 hours ago](https://www.nasa.gov/general/experience-the-launch-of-nasas-spacex-crew-10-mission/)[![Framed by vegetation in the foreground and against the backdrop of a black night sky, NASA’s SLS (Space Launch System) rocket carrying the Orion spacecraft launches on the Artemis I flight test on Nov. 16, 2022, from Launch Complex 39B at NASA’s Kennedy Space Center in Florida.](https://www.nasa.gov/wp-content/uploads/2024/12/virtual-backgrounds-review-110424-page-03.png?w=1024)
 
 8 min read
 
 ### New Artemis Virtual Meeting Backgrounds Released Celebrating Artemis I, Looking to Artemis II and Beyond
 
-article 4 hours ago](https://www.nasa.gov/humans-in-space/new-artemis-virtual-meeting-backgrounds-released-celebrating-artemis-i-looking-to-artemis-ii-and-beyond/)[![Europa Clipper illustration](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia26443-spacecraft-illustration.jpg?w=1024)
+article 9 hours ago](https://www.nasa.gov/humans-in-space/new-artemis-virtual-meeting-backgrounds-released-celebrating-artemis-i-looking-to-artemis-ii-and-beyond/)[![Europa Clipper illustration](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia26443-spacecraft-illustration.jpg?w=1024)
 
 5 min read
 
@@ -269,23 +269,29 @@ article 1 week ago](https://www.nasa.gov/missions/europa-clipper/nasas-europa-cl
 
 ### Experience the Launch of NASA’s SpaceX Crew-10 Mission  
 
-article 4 hours ago](https://www.nasa.gov/general/experience-the-launch-of-nasas-spacex-crew-10-mission/)[![Framed by vegetation in the foreground and against the backdrop of a black night sky, NASA’s SLS (Space Launch System) rocket carrying the Orion spacecraft launches on the Artemis I flight test on Nov. 16, 2022, from Launch Complex 39B at NASA’s Kennedy Space Center in Florida.](https://www.nasa.gov/wp-content/uploads/2024/12/virtual-backgrounds-review-110424-page-03.png?w=1024)
+article 9 hours ago](https://www.nasa.gov/general/experience-the-launch-of-nasas-spacex-crew-10-mission/)[![Framed by vegetation in the foreground and against the backdrop of a black night sky, NASA’s SLS (Space Launch System) rocket carrying the Orion spacecraft launches on the Artemis I flight test on Nov. 16, 2022, from Launch Complex 39B at NASA’s Kennedy Space Center in Florida.](https://www.nasa.gov/wp-content/uploads/2024/12/virtual-backgrounds-review-110424-page-03.png?w=1024)
 
 8 min read
 
 ### New Artemis Virtual Meeting Backgrounds Released Celebrating Artemis I, Looking to Artemis II and Beyond
 
-article 4 hours ago](https://www.nasa.gov/humans-in-space/new-artemis-virtual-meeting-backgrounds-released-celebrating-artemis-i-looking-to-artemis-ii-and-beyond/)[![Sierra Space’s LIFE (Large Integrated Flexible Environment) habitat following a full-scale ultimate burst pressure test at NASA’s Marshall Space Flight Center in Huntsville, Alabama](https://www.nasa.gov/wp-content/uploads/2024/11/sierra-space-image.png?w=1024)
+article 9 hours ago](https://www.nasa.gov/humans-in-space/new-artemis-virtual-meeting-backgrounds-released-celebrating-artemis-i-looking-to-artemis-ii-and-beyond/)[![Sierra Space’s LIFE (Large Integrated Flexible Environment) habitat following a full-scale ultimate burst pressure test at NASA’s Marshall Space Flight Center in Huntsville, Alabama](https://www.nasa.gov/wp-content/uploads/2024/11/sierra-space-image.png?w=1024)
 
 6 min read
 
 ### NASA’s Commercial Partners Make Progress on Low Earth Orbit Projects
 
-article 7 days ago](https://www.nasa.gov/general/nasas-commercial-partners-make-progress-on-low-earth-orbit-projects/)
+article 1 week ago](https://www.nasa.gov/general/nasas-commercial-partners-make-progress-on-low-earth-orbit-projects/)
 
 ### Highlights
 
-[![NASA AI, Open Science Advance Disaster Research and Recovery](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/science-enabling-technology/technology-highlights/2024/NGRx_Image_2.jpg)
+[![Amendment 75: New Opportunity: A.64 FORTE Science Team](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2024/fastestlake_oli_20240804.jpg)
+
+2 min read
+
+### Amendment 75: New Opportunity: A.64 FORTE Science Team
+
+article 4 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-75-new-opportunity-a-64-forte-science-team/)[![NASA AI, Open Science Advance Disaster Research and Recovery](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/science-enabling-technology/technology-highlights/2024/NGRx_Image_2.jpg)
 
 4 min read
 
@@ -297,13 +303,7 @@ article 6 days ago](https://science.nasa.gov/open-science/artificial-intelligenc
 
 ### NASA Data Reveals Role of Green Spaces in Cooling Cities
 
-article 6 days ago](https://science.nasa.gov/earth/climate-change/nasa-data-reveals-role-of-green-spaces-in-cooling-cities/)[![Amendment 70: New Opportunity: A.62 FarmFlux Science Team](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/content-feature/carboncycle/images/abandoned_farm.jpg)
-
-2 min read
-
-### Amendment 70: New Opportunity: A.62 FarmFlux Science Team
-
-article 2 weeks ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-70-new-opportunity-a-62-farmflux-science-team/)
+article 6 days ago](https://science.nasa.gov/earth/climate-change/nasa-data-reveals-role-of-green-spaces-in-cooling-cities/)
 
 ### Highlights
 
@@ -313,13 +313,13 @@ article 2 weeks ago](https://science.nasa.gov/researchers/solicitations/roses-20
 
 ### What’s Up: December 2024 Skywatching Tips from NASA
 
-article 58 mins ago](https://science.nasa.gov/solar-system/skywatching/whats-up-december-2024-skywatching-tips-from-nasa/)[![December’s Night Sky Notes: Spot the King of Planets](https://images-assets.nasa.gov/image/PIA25019/PIA25019~large.jpg)
+article 6 hours ago](https://science.nasa.gov/solar-system/skywatching/whats-up-december-2024-skywatching-tips-from-nasa/)[![December’s Night Sky Notes: Spot the King of Planets](https://images-assets.nasa.gov/image/PIA25019/PIA25019~large.jpg)
 
 4 min read
 
 ### December’s Night Sky Notes: Spot the King of Planets
 
-article 3 days ago](https://science.nasa.gov/solar-system/skywatching/night-sky-network/dec2024-night-sky-notes/)[![Amendment 73: D.13 Astrophysics Pioneers Substantial Revisions](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26185/PIA26185.jpg)
+article 4 days ago](https://science.nasa.gov/solar-system/skywatching/night-sky-network/dec2024-night-sky-notes/)[![Amendment 73: D.13 Astrophysics Pioneers Substantial Revisions](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26185/PIA26185.jpg)
 
 2 min read
 
@@ -347,33 +347,39 @@ article 6 days ago](https://science.nasa.gov/researchers/solicitations/roses-202
 
 ### EXCITE (EXoplanet Climate Infrared TElescope)
 
-article 7 days ago](https://science.nasa.gov/mission/excite/)
+article 1 week ago](https://science.nasa.gov/mission/excite/)
 
 ### Highlights
 
-[![American Geophysical Union (AGU) 2024 logo](https://www.nasa.gov/wp-content/uploads/2024/10/agu-2024.jpg?w=449)
+[![F.5 FINESST: SMD’s Graduate Student Research Clarifications and Corrections](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/universe/homepage-updates/NGC-6357.jpg)
+
+1 min read
+
+### F.5 FINESST: SMD’s Graduate Student Research Clarifications and Corrections
+
+article 4 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/f-5-finesst-smds-graduate-student-research-clarifications-and-corrections/)[![Amendment 75: New Opportunity: A.64 FORTE Science Team](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2024/fastestlake_oli_20240804.jpg)
+
+2 min read
+
+### Amendment 75: New Opportunity: A.64 FORTE Science Team
+
+article 4 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-75-new-opportunity-a-64-forte-science-team/)[![American Geophysical Union (AGU) 2024 logo](https://www.nasa.gov/wp-content/uploads/2024/10/agu-2024.jpg?w=449)
 
 2 min read
 
 ### OSDR at AGU 2024
 
-article 5 days ago](https://www.nasa.gov/osdr-at-agu-2024-2/)[![Amendment 74: A.63 Ecohydrology, a New Opportunity in ROSES-24](https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000002/GSFC_20171208_Archive_e000002~large.jpg)
-
-1 min read
-
-### Amendment 74: A.63 Ecohydrology, a New Opportunity in ROSES-24
-
-article 5 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-74-a-63-ecohydrology-a-new-opportunity-in-roses-24/)[![Amendment 73: D.13 Astrophysics Pioneers Substantial Revisions](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26185/PIA26185.jpg)
-
-2 min read
-
-### Amendment 73: D.13 Astrophysics Pioneers Substantial Revisions
-
-article 6 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-73-d-13-astrophysics-pioneers-substantial-revisions/)
+article 5 days ago](https://www.nasa.gov/osdr-at-agu-2024-2/)
 
 ### Highlights
 
-[![A woman wearing a black polo shirt with the NASA insignia, dark gray pants, and white shoes stands inside an aircraft hangar in front of a scaled aircraft model. The words “SUSAN Electrofan” and “PAX 180” are printed on a graphic along with fuselage, with a large NASA insignia in the center of the plane. The rear of the aircraft model, along with the wings and tail, are taken apart to display the inner components that make up its electrified propulsion system.](https://www.nasa.gov/wp-content/uploads/2024/11/grc-2024-c-12427-002-e1731959466240.jpg?w=1024)
+[![A group of people are sitting at a desk looking at computers with headsets on. A man is pointing and smiling at one of the computer screens.](https://images-assets.nasa.gov/image/AFRC2024-0178-095/AFRC2024-0178-095~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint)
+
+3 min read
+
+### NASA Experts Share Inspiring Stories of Perseverance to Students
+
+article 1 hour ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-experts-share-inspiring-stories-of-perseverance-to-students/)[![A woman wearing a black polo shirt with the NASA insignia, dark gray pants, and white shoes stands inside an aircraft hangar in front of a scaled aircraft model. The words “SUSAN Electrofan” and “PAX 180” are printed on a graphic along with fuselage, with a large NASA insignia in the center of the plane. The rear of the aircraft model, along with the wings and tail, are taken apart to display the inner components that make up its electrified propulsion system.](https://www.nasa.gov/wp-content/uploads/2024/11/grc-2024-c-12427-002-e1731959466240.jpg?w=1024)
 
 5 min read
 
@@ -385,13 +391,7 @@ article 2 weeks ago](https://www.nasa.gov/centers-and-facilities/glenn/nasa-engi
 
 ### NASA Electric Aircraft Testbed (NEAT)
 
-article 2 weeks ago](https://www.nasa.gov/neat/)[![A blue circle with white type displaying the NASA acronym encircled by a white swoosh and a red arrow.](https://www.nasa.gov/wp-content/uploads/2024/11/nasa-insignia-rgb.jpg?w=1024)
-
-1 min read
-
-### Dynamic Spin Rig Publications
-
-article 2 weeks ago](https://www.nasa.gov/dynamic-spin-rig-publications/)
+article 2 weeks ago](https://www.nasa.gov/neat/)
 
 ### Highlights
 
@@ -417,25 +417,25 @@ article 2 weeks ago](https://www.nasa.gov/centers-and-facilities/ames/what-is-bi
 
 ### Featured
 
-[![Aaron Yazzie, a Navajo man with black hair and glasses, stands with his arms crossed. He wears business professional attire with a navy blue jacket and beaded Indigenous tie making the NASA meatball logo. Behind him a large model of NASA's Mars Perseverance rover is visible.](https://www.nasa.gov/wp-content/uploads/2024/11/dct-jpl-yazzie-01-2023-09-29-1-crop.jpg?w=1024)
+[![A group of people are sitting at a desk looking at computers with headsets on. A man is pointing and smiling at one of the computer screens.](https://images-assets.nasa.gov/image/AFRC2024-0178-095/AFRC2024-0178-095~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint)
+
+3 min read
+
+### NASA Experts Share Inspiring Stories of Perseverance to Students
+
+article 1 hour ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-experts-share-inspiring-stories-of-perseverance-to-students/)[![F.5 FINESST: SMD’s Graduate Student Research Clarifications and Corrections](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/universe/homepage-updates/NGC-6357.jpg)
+
+1 min read
+
+### F.5 FINESST: SMD’s Graduate Student Research Clarifications and Corrections
+
+article 4 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/f-5-finesst-smds-graduate-student-research-clarifications-and-corrections/)[![Aaron Yazzie, a Navajo man with black hair and glasses, stands with his arms crossed. He wears business professional attire with a navy blue jacket and beaded Indigenous tie making the NASA meatball logo. Behind him a large model of NASA's Mars Perseverance rover is visible.](https://www.nasa.gov/wp-content/uploads/2024/11/dct-jpl-yazzie-01-2023-09-29-1-crop.jpg?w=1024)
 
 4 min read
 
 ### Aaron Yazzie: Bridging Indigenous Heritage and Space Exploration
 
-article 5 days ago](https://www.nasa.gov/learning-resources/bridging-indigenous-heritage-and-space-exploration/)[![NASA Science Activation Opportunities Near You](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/2024/SCIACT_ICON_wTEXT_3-COLOR-01.png)
-
-1 min read
-
-### NASA Science Activation Opportunities Near You
-
-article 5 days ago](https://science.nasa.gov/learn/nasa-science-activation-opportunities-near-you/)[![Students at NASA's Jet Propulsion Laboratory pose for photos around the laboratory wearing their eclipse glasses.](https://www.nasa.gov/wp-content/uploads/2023/03/38540233062-abf67c18dd-o.jpeg?w=985)
-
-2 min read
-
-### Why NASA Is a Great Place to Launch Your Career 
-
-article 1 week ago](https://www.nasa.gov/learning-resources/launch-your-career/)
+article 5 days ago](https://www.nasa.gov/learning-resources/bridging-indigenous-heritage-and-space-exploration/)
 
 ### Featured
 
@@ -445,7 +445,7 @@ article 1 week ago](https://www.nasa.gov/learning-resources/launch-your-career/)
 
 ### Experience the Launch of NASA’s SpaceX Crew-10 Mission  
 
-article 4 hours ago](https://www.nasa.gov/general/experience-the-launch-of-nasas-spacex-crew-10-mission/)[![A person in a green flight suit watches as blue fluid floats out of a bottle during a microgravity flight.](https://www.nasa.gov/wp-content/uploads/2024/11/grc-1997-c-02184-e1732721530755.jpg?w=1024)
+article 9 hours ago](https://www.nasa.gov/general/experience-the-launch-of-nasas-spacex-crew-10-mission/)[![A person in a green flight suit watches as blue fluid floats out of a bottle during a microgravity flight.](https://www.nasa.gov/wp-content/uploads/2024/11/grc-1997-c-02184-e1732721530755.jpg?w=1024)
 
 4 min read
 
@@ -457,7 +457,7 @@ article 5 days ago](https://www.nasa.gov/general/nasa-plane-supported-innovative
 
 ### NASA’s Commercial Partners Make Progress on Low Earth Orbit Projects
 
-article 7 days ago](https://www.nasa.gov/general/nasas-commercial-partners-make-progress-on-low-earth-orbit-projects/)
+article 1 week ago](https://www.nasa.gov/general/nasas-commercial-partners-make-progress-on-low-earth-orbit-projects/)
 
 ### Highlights
 
