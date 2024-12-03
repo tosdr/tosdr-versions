@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thanks for the faultless service. I was impressed how quickly any questions I had were answered and when there was a small problem it was rectified almost immediately. When I require a proxy again in the future I will definitely be using your services.
+You and your team ROCK my world!! Thanks for such a quick turn around. I L.O.V.E it.
 
-Philip Gillman
+Simon Taig
