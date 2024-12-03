@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ It's easier to ask forgiveness than it is to get permission”
+“ The master in the art of living makes little distinction between... work and play”
 
-[Grace Hopper](http://en.wikipedia.org/wiki/Grace_Hopper)
+[L. P. Jacks](http://en.wikipedia.org/wiki/L._P._Jacks)
 
 [](https://www.adafruit.com/about)
 
