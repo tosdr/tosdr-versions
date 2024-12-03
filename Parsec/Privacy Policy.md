@@ -23,6 +23,16 @@ This Privacy Policy will provide you with information on how Unity Technologies 
 
 This Privacy Policy also applies to Personal Information we collect offline, such as when you call us or interact with Unity in person, such as at an industry event or at a place of business.
 
+[Technical and Organisational Measures including Technical and Organisational Measure to ensure the Security of the Data](https://unity.com/legal/technical-and-organisational-measures)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Technical and Organisational Measures (TOMs) are strategic safeguards designed to protect data security and ensure adherence to data protection regulations. These are incorporated by reference in Unity’s [Data Protection Addendum.](https://unity.com/legal/unity-data-processing-addendum-dpa)
+
+[Sub-Processors](https://unity.com/legal/subprocessors)
+-------------------------------------------------------
+
+Sub-processors are third-party companies that assist Unity by handling personal data on Unity's behalf. These are incorporated by reference in Unity’s [Data Protection Addendum](https://unity.com/legal/unity-data-processing-addendum-dpa).
+
 [Game Player and App User Privacy FAQ](https://parsecgaming.com/legal/game-player-and-app-user-privacy-faq)
 -----------------------------------------------------------------------------------------------------------
 
