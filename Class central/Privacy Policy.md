@@ -412,11 +412,11 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 Most common
 
-1. python
+1. digital marketing
     
-2. hacking
+2. sql
     
-3. sql
+3. html
     
 
 Popular subjects
