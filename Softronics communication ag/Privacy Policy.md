@@ -305,7 +305,6 @@ _Published on 28/03/2024_
 ### Contact
 
 * [Contact Form](https://www.softronics.ch/en/support/contact-form)
-* [Remote support](https://www.pcvisit.de/kundenbereich/downloads/)
 
 Softronics Communication AG  
 St. Dionysstrasse 31  
