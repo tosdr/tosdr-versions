@@ -1,10 +1,10 @@
 [Skip to content](#content)
 
-**Subscribe today**
+**Enjoy unlimited access**
 
-Every print subscription comes with full digital access
+Only $2.99 a month
 
-[Subscribe now](https://www.sciencenews.org/subscribe1?key=9MNAVBNA&utm_source=banner&utm_medium=site&utm_campaign=full_digital_access)
+[Subscribe now](https://www.sciencenews.org/subscribe1-digital-monthly?key=9MNAVBNB2&utm_source=banner&utm_medium=site&utm_campaign=full_digital_access)
 
 Menu
 
@@ -94,7 +94,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Neandertals may have built a hearth specifically to make tar](https://www.sciencenews.org/article/neandertals-hearth-used-to-make-tar)
             
-            By [Richard Kemeny](https://www.sciencenews.org/author/richard-kemeny "Posts by Richard Kemeny")21 hours ago
+            By [Richard Kemeny](https://www.sciencenews.org/author/richard-kemeny "Posts by Richard Kemeny")December 2, 2024
             
         * [Anthropology](https://www.sciencenews.org/topic/anthropology)
             
@@ -124,13 +124,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Ethiopian wolves are the first large carnivores found to slurp nectar](https://www.sciencenews.org/article/ethiopia-wolves-carnivore-nectar-pollen)
             
-            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")1 hour ago
+            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")7 hours ago
             
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
             
             ### [Electronic ‘tattoos’ offer an alternative to electrodes for brain monitoring](https://www.sciencenews.org/article/electronic-tattoos-brain-monitoring)
             
-            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")23 hours ago
+            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")December 2, 2024
             
         * [Animals](https://www.sciencenews.org/topic/animals)
             
@@ -151,7 +151,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [An unexpected ice collapse hints at worrying changes on the Antarctic coast](https://www.sciencenews.org/article/unexpected-ice-collapse-antarctic-coast)
             
-            By [Douglas Fox](https://www.sciencenews.org/author/douglas-fox "Posts by Douglas Fox")5 hours ago
+            By [Douglas Fox](https://www.sciencenews.org/author/douglas-fox "Posts by Douglas Fox")11 hours ago
             
         * [Climate](https://www.sciencenews.org/topic/climate)
             
@@ -173,6 +173,12 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
     * Recent posts in Physics
         -----------------------
         
+        * [Materials Science](https://www.sciencenews.org/topic/materials-science)
+            
+            ### [Starchy nanofibers shatter the record for world’s thinnest pasta](https://www.sciencenews.org/article/thinnest-pasta-nanofibers)
+            
+            By [Skyler Ware](https://www.sciencenews.org/author/skyler-ware "Posts by Skyler Ware")5 hours ago
+            
         * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
             
             ### [50 years ago, physics underwent a major revolution](https://www.sciencenews.org/article/50-years-particle-physics-revolution)
@@ -184,12 +190,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [Einstein’s gravity endures despite a dark energy puzzle](https://www.sciencenews.org/article/einstein-gravity-dark-energy-desi) 
             
             By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")November 19, 2024
-            
-        * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
-            
-            ### [Accelerated muons bring next-gen particle colliders closer to reality](https://www.sciencenews.org/article/accelerated-muons-particle-colliders)
-            
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")November 12, 2024
             
 * [Space](https://www.sciencenews.org/topic/space)
     * [Space](https://www.sciencenews.org/topic/space)
