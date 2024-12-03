@@ -176,21 +176,21 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 
 ### See also
 
+[![Terry Wogan Screams](https://cdn.comedy.co.uk/images/library/misc/300x200/t/terry_wogan_screams.jpg "Terry Wogan Screams")](https://www.comedy.co.uk/live/random8/terry-wogan/) Live
+
+[Random 8: Terry Wogan](https://www.comedy.co.uk/live/random8/terry-wogan/)
+
+[![Gold Christmas Cracker Jokes. Copyright: UKTV](https://cdn.comedy.co.uk/images/library/comedies/300x200/g/gold_christmas_cracker_jokes_2016.jpg "Gold Christmas Cracker Jokes. Copyright: UKTV")](https://www.comedy.co.uk/features/top-10-christmas-cracker-jokes-2024/) Features
+
+[Top 10 Christmas cracker jokes 2024](https://www.comedy.co.uk/features/top-10-christmas-cracker-jokes-2024/)
+
+[![Kiri Pritchard-McLean](https://cdn.comedy.co.uk/images/library/people/300x200/k/kiri_pritchard_mclean_2024.jpg "Kiri Pritchard-McLean")](https://www.comedy.co.uk/live/features/kiri-pritchard-mclean-interview/) Live
+
+[Kiri Pritchard-McLean talks about Peacock](https://www.comedy.co.uk/live/features/kiri-pritchard-mclean-interview/)
+
 [![A Christmas Carol (ish). Image shows left to right: David Elms, Nick Mohammed, Kieran Hodgson, Martha Howe-Douglas. Credit: Matt Crockett](https://cdn.comedy.co.uk/images/library/misc/300x200/c/christmas_carol_ish_mr_swallow_2024_cast.jpg "A Christmas Carol (ish). Image shows left to right: David Elms, Nick Mohammed, Kieran Hodgson, Martha Howe-Douglas. Credit: Matt Crockett")](https://www.comedy.co.uk/live/features/mark-muldoon-comedy-diary-61/) Live
 
 [A Christmas Carol (ish), Grace Campbell, Zainab Johnson - Mark Muldoon's Comedy Diary](https://www.comedy.co.uk/live/features/mark-muldoon-comedy-diary-61/)
-
-[![Kenneth Horne](https://cdn.comedy.co.uk/images/library/people/300x200/k/kenneth_horne.jpg "Kenneth Horne")](https://www.comedy.co.uk/features/comedy_chronicles/kenneth-horne/) Features
-
-[Comedy Chronicles: The incomparable charm of Kenneth Horne](https://www.comedy.co.uk/features/comedy_chronicles/kenneth-horne/)
-
-[![Alfie Brown](https://cdn.comedy.co.uk/images/library/people/300x200/a/alfie_brown_2024_c.jpg "Alfie Brown")](https://www.comedy.co.uk/live/fgwg/alfie-brown/) Live
-
-[First Gig, Worst Gig: Alfie Brown](https://www.comedy.co.uk/live/fgwg/alfie-brown/)
-
-[![The Mighty Boosh. Image shows left to right: Howard Moon (Julian Barratt), Bollo (Dave Brown), Vince Noir (Noel Fielding)](https://cdn.comedy.co.uk/images/library/comedies/300x200/m/mighty_boosh_bollo.jpg "The Mighty Boosh. Image shows left to right: Howard Moon (Julian Barratt), Bollo (Dave Brown), Vince Noir (Noel Fielding)")](https://www.comedy.co.uk/quiz/334/) Quiz
-
-[British Comedy Quiz #334](https://www.comedy.co.uk/quiz/334/)
 
 #### Subscribe to our newsletters
 
