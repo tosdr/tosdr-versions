@@ -24,7 +24,7 @@ Social
 
 [Shop](https://comma.ai/shop)
 
-[**BEST PRICE EVER SALE STARTS NOW!** **Sale ends in 0 days, 06:44:45**](https://comma.ai/shop/comma-3x)
+[**We're hiring! Come build the future of self driving cars.**](https://comma.ai/jobs.html)
 
 Terms & Privacy
 ===============
