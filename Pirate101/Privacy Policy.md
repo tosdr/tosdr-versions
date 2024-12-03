@@ -278,6 +278,8 @@ The payment service providers process the data as a separate controller. Please 
 
 Examples of processed data: IP address, order information (especially time, product ordered and the quantity, transaction number), subscriptions, chargebacks, refunds, gifts, payment details (especially also payment method, voucher redemption), shipping data (e.g., for CD shipping), location data (e.g. street address, city, state), licenses for consumable goods in games.
 
+To make sure, that the payment information you provided is correct (e.g., typos), we use Google's Address Validation API together with the Google Maps API(s) to validate whether an entered address is a real location or contains any errors. For this, your IP address, and the information you have provided in the address field will be shared with Google Ireland Ltd. in Dublin. For more information about how Google is processing personal data, please consult the [Google Privacy Policy](https://policies.google.com/privacy).
+
 For every transaction we use the services of Avalara, Inc., Seattle, Washington to determine the exact tax rate. Data shared with Avalara includes location data and the user ID of the buyer.
 
 The processing of personal data described above is legal under Art. 6 para. 1 sentence 1 lit. b) GDPR. The legal basis is Art. 6 para. 1 sentence 1 lit. c) GDPR in conjunction with Secs. 147 para. 1 no. 4, para. 3 AO (German Fiscal Code); Sec. 257 para. 1 no. 4, para. 4 HGB (German Commercial Code); Sec. 14b para. 1 UstG (German Vat Act), insofar as the transaction data are posting documents.
@@ -680,7 +682,7 @@ To send us an access and deletion request, or for questions, or further informat
 
 Version: 2023-06-02
 
-[](https://www.pirate101.com/autologin/free_game?jsessionid=ydHA%2BSbRUA4FF5l%2FsUKIT0sSova846ijWrOPoLKv9Z45HoQVsbIavNGz5tRLXR2RxE1iycBghYOsPzuCTWx7kClF1naVDf3kCRBP0P0u4yRBeQn3enEMXeOV99yeKwN9)
+[](https://www.pirate101.com/autologin/free_game?jsessionid=ZqiFax%2BCDNAZp0e7uXkQWoz%2Fzd%2BWLDFFUA%2B74yQ35DW%2Bpx9yOAl16%2Bc3UYKoJ8nGGlhv6zR00rScYXsSpYWBw%2FPIifxq%2F0Sqm9gHyWi5vUst879CaUA7TG3kW6gD7f3p)
 
 * [Free Online Games](https://www.wizard101.com/)
     * [Free to Play Wizard101](https://www.wizard101.com/)
