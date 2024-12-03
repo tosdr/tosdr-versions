@@ -22,7 +22,7 @@ Hi
 
 [SIGN OUT](#)
 
-[64°F ![weather icon](https://res.cloudinary.com/review-journal/image/upload/f_auto,q_auto,c_scale,w_40/rj-project/apple_weather/ClearDay.png)](https://www.reviewjournal.com/weather "Weather Forecast") 
+[55°F ![weather icon](https://res.cloudinary.com/review-journal/image/upload/f_auto,q_auto,c_scale,w_40/rj-project/apple_weather/CloudyNight.png)](https://www.reviewjournal.com/weather "Weather Forecast") 
 
 * [News](https://www.reviewjournal.com/news/)
 * [Local](https://www.reviewjournal.com/local/)
@@ -39,9 +39,9 @@ Hi
 
 [](#)
 
-64°F
+55°F
 
-![weather icon](https://res.cloudinary.com/review-journal/image/upload/f_auto,q_auto,c_scale,w_40/rj-project/apple_weather/ClearDay.png) Clear
+![weather icon](https://res.cloudinary.com/review-journal/image/upload/f_auto,q_auto,c_scale,w_40/rj-project/apple_weather/CloudyNight.png) Mostly Cloudy
 
 [Las Vegas, NV](https://www.reviewjournal.com/weather "Weather Forecast")
 
@@ -51,6 +51,7 @@ Hi
 * [Latest Headlines](https://www.reviewjournal.com/archive/)
 * [RJESPAÑOL](https://espanol.reviewjournal.com/?utm_campaign=RJ_Cross_Traffic&utm_source=Main_Nav_Link&utm_medium=NavLink)
 * [7@7 video](https://www.reviewjournal.com/7at7/)
+* [National Finals Rodeo](https://www.reviewjournal.com/sports/rodeo/national-finals-rodeo/)
 * [Top 100 Restaurants](https://www.reviewjournal.com/top-100-restaurants/)
 * [Things To Do In Vegas](https://www.reviewjournal.com/things-to-do-in-vegas/)
 * [Israel at War](https://www.reviewjournal.com/tag/war-in-israel/)
