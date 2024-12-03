@@ -147,9 +147,9 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![A serviceman with the Ukrainian Army's 24th mechanized brigade fires a machine gun during an exercise, amid Russia's attack on Ukraine, in the country's Donetsk region on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/02/437555.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "A serviceman with the Ukrainian Army's 24th mechanized brigade fires a machine gun during an exercise, amid Russia's attack on Ukraine, in the country's Donetsk region on Friday.")](https://www.japantimes.co.jp/news/2024/12/02/world/politics/ukraine-europe-baltics-nordics-troops/ "Europe eyes 'boots on the ground' in Ukraine as possible peace deal option")
 
-[Japan’s 2024 buzzword of the year urges a reevaluation of past norms](https://www.japantimes.co.jp/news/2024/12/02/japan/society/2024-buzzword-of-the-year-announced/ "Japan’s 2024 buzzword of the year urges a reevaluation of past norms")
+[Ishiba questioned on political reform, social issues and the economy](https://www.japantimes.co.jp/news/2024/12/02/japan/politics/ishiba-parliamentary-questioning/ "Ishiba questioned on political reform, social issues and the economy")
 
-  [![Sadao Abe, who played the role of a time-traveling Showa Era teacher transported to present day in a popular TV drama, receives the 2024 buzzword of the year award for the word "futehodo," the nickname of the series.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/02/437645.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Sadao Abe, who played the role of a time-traveling Showa Era teacher transported to present day in a popular TV drama, receives the 2024 buzzword of the year award for the word "futehodo," the nickname of the series.")](https://www.japantimes.co.jp/news/2024/12/02/japan/society/2024-buzzword-of-the-year-announced/ "Japan’s 2024 buzzword of the year urges a reevaluation of past norms")
+  [![Prime Minister Shigeru Ishiba speaks in the Lower House in Tokyo on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/02/437666.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba speaks in the Lower House in Tokyo on Monday.")](https://www.japantimes.co.jp/news/2024/12/02/japan/politics/ishiba-parliamentary-questioning/ "Ishiba questioned on political reform, social issues and the economy")
 
 Editors' Picks
 --------------
@@ -186,11 +186,11 @@ By [Gabriel Dominguez](https://www.japantimes.co.jp/author/3151/gabriel-domingue
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Japan’s 2024 buzzword of the year urges a reevaluation of past norms](https://www.japantimes.co.jp/news/2024/12/02/japan/society/2024-buzzword-of-the-year-announced/ "Japan’s 2024 buzzword of the year urges a reevaluation of past norms")
+[Ishiba questioned on political reform, social issues and the economy](https://www.japantimes.co.jp/news/2024/12/02/japan/politics/ishiba-parliamentary-questioning/ "Ishiba questioned on political reform, social issues and the economy")
 
-By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
+By [Gabriele Ninivaggi](https://www.japantimes.co.jp/author/4179/gabriele-ninivaggi/ "Gabriele Ninivaggi")  
 
-  [![Sadao Abe, who played the role of a time-traveling Showa Era teacher transported to present day in a popular TV drama, receives the 2024 buzzword of the year award for the word "futehodo," the nickname of the series.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/02/437645.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Sadao Abe, who played the role of a time-traveling Showa Era teacher transported to present day in a popular TV drama, receives the 2024 buzzword of the year award for the word "futehodo," the nickname of the series.")](https://www.japantimes.co.jp/news/2024/12/02/japan/society/2024-buzzword-of-the-year-announced/ "Japan’s 2024 buzzword of the year urges a reevaluation of past norms")
+  [![Prime Minister Shigeru Ishiba speaks in the Lower House in Tokyo on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/02/437666.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba speaks in the Lower House in Tokyo on Monday.")](https://www.japantimes.co.jp/news/2024/12/02/japan/politics/ishiba-parliamentary-questioning/ "Ishiba questioned on political reform, social issues and the economy")
 
 Podcast
 -------
@@ -211,9 +211,9 @@ By [Tomoko Otake](https://www.japantimes.co.jp/author/3264/tomoko-otake/ "Tomoko
 SUSTAINABLE JAPAN
 -----------------
 
-[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
-[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -253,25 +253,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Nearly 90% in Japan and China have negative views of other](https://www.japantimes.co.jp/news/2024/12/03/japan/society/japan-china-negative-views/ "Nearly 90% in Japan and China have negative views of other")
+[General contractor Yamaura to be fined for false financial statements](https://www.japantimes.co.jp/news/2024/12/03/japan/crime-legal/yamaura-fine-misstatement/ "General contractor Yamaura to be fined for false financial statements")
 
-29 mins ago
+55 mins ago
 
-[Taiwan's Lai kicks off Marshall Islands visit as China fumes](https://www.japantimes.co.jp/news/2024/12/03/asia-pacific/politics/taiwan-lai-marshall-islands-china/ "Taiwan's Lai kicks off Marshall Islands visit as China fumes")
-
-36 mins ago
-
-[Yen carry trade that rattled markets shows signs of a comeback](https://www.japantimes.co.jp/business/2024/12/03/markets/yen-carry-trade-comeback/ "Yen carry trade that rattled markets shows signs of a comeback")
-
-46 mins ago
-
-[Japanese firms begin adopting generative AI for information searches](https://www.japantimes.co.jp/business/2024/12/03/tech/japan-firms-ai/ "Japanese firms begin adopting generative AI for information searches")
+[Japan eyes new PFAS regulations for drinking water by spring](https://www.japantimes.co.jp/news/2024/12/03/japan/society/pfas-ishiba-comment/ "Japan eyes new PFAS regulations for drinking water by spring")
 
 1 hour ago
 
-[BOJ weighs case for first triple hike since Japan’s bubble burst](https://www.japantimes.co.jp/business/2024/12/03/economy/boj-december-rate-hike-likely/ "BOJ weighs case for first triple hike since Japan’s bubble burst")
+[JCM to demand pay-scale hike of ¥12,000 or more in 2025](https://www.japantimes.co.jp/business/2024/12/03/economy/jcm-demand-pay-hike/ "JCM to demand pay-scale hike of ¥12,000 or more in 2025")
 
 1 hour ago
+
+[Ukraine sees influx of Western war tourists](https://www.japantimes.co.jp/news/2024/12/03/world/ukraine-western-war-tourists/ "Ukraine sees influx of Western war tourists")
+
+1 hour ago
+
+[Energy workers battle to keep the lights on in Ukraine](https://www.japantimes.co.jp/news/2024/12/03/world/energy-workers-lights-ukraine/ "Energy workers battle to keep the lights on in Ukraine")
+
+2 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
