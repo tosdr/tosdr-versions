@@ -1,5 +1,3 @@
-Hack the Holidays! Use code acidburn15 for 15% off! [Some restrictions apply](https://blog.adafruit.com/2024/11/27/acidburn15/).
-
   Skip Navigation
 
  [![Adafruit Logo](/includes/templates/shop2019/images/adafruit_logo_small.png "Adafruit")](https://www.adafruit.com/)toggle menu
@@ -406,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ The walls between art and engineering exist only in our minds”
+“ It's easier to ask forgiveness than it is to get permission”
 
-[Theo Jansen](http://en.wikipedia.org/wiki/Theo_Jansen)
+[Grace Hopper](http://en.wikipedia.org/wiki/Grace_Hopper)
 
 [](https://www.adafruit.com/about)
 
