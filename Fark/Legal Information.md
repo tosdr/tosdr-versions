@@ -228,11 +228,12 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-If you like these links, you'll love
+Want more stories with less ads? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-More funny for your money.
+It's what the cool kids are doing.  
+It also helps us pay the bills.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +333,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Ever wondered what the absolutely worst possible time to decide to shoplift at your local WalMart might be? If this isn't it, not sure what is](https://www.fark.com/goto/13481464) ( [wtvr.com](https://www.fark.com/goto/13481464) ) » [(4 comments)](https://www.fark.com/comments/13481464/Ever-wondered-what-absolutely-worst-possible-time-to-decide-to-shoplift-at-your-local-WalMart-might-be-If-this-isnt-it-not-sure-what-is) |
-| [Discussion](https://www.fark.com/discussion/) | [For the Tuesday FARK Gardening thread, we look at where to avoid putting your poinsettias just in time for the festive season. Do you maintain a garden of any type in the winter months? (possible nsfw content on page)](https://www.fark.com/goto/13481684) ( [express.co.uk](https://www.fark.com/goto/13481684) ) » [(2 comments)](https://www.fark.com/comments/13481684/For-Tuesday-FARK-Gardening-thread-we-look-at-where-to-avoid-putting-your-poinsettias-just-in-time-for-festive-season-Do-you-maintain-a-garden-of-any-type-in-winter-months-possible-nsfw-content-on-page) |
-| [Sports](https://www.fark.com/sports/) | [Dodgers sign everybody with 50% off Cyber Monday coupon](https://www.fark.com/goto/13481204) ( [twinsdaily.com](https://www.fark.com/goto/13481204) ) » [(1 comment)](https://www.fark.com/comments/13481204/Dodgers-sign-everybody-with-50-off-Cyber-Monday-coupon) |
-| [Business](https://www.fark.com/business/) | [New CFPB rules slashing late fees may never be actually implemented, but that's not stopping credit card issuers from raising their APRs to up to 35.99%](https://www.fark.com/goto/13481874) ( [cnbc.com](https://www.fark.com/goto/13481874) ) » [(1 comment)](https://www.fark.com/comments/13481874/New-CFPB-rules-slashing-late-fees-may-never-be-actually-implemented-but-thats-not-stopping-credit-card-issuers-from-raising-their-APRs-to-up-to-3599) |
-| [STEM](https://www.fark.com/stem/) | [On this day in history, in 1999, researchers unraveled the genetic code of an entire human chromosome and were perplexed to learn that it read 'BE SURE TO DRINK YOUR OVALTINE'](https://www.fark.com/goto/13480980) ( [history.com](https://www.fark.com/goto/13480980) ) » [(2 comments)](https://www.fark.com/comments/13480980/On-this-day-in-history-in-1999-researchers-unraveled-genetic-code-of-an-entire-human-chromosome-were-perplexed-to-learn-that-it-read-BE-SURE-TO-DRINK-YOUR-OVALTINE) |
-| [Entertainment](https://www.fark.com/entertainment/) | [In somber news, leukemia reports it's still not in remission from Harvey Weinstein](https://www.fark.com/goto/13481576) ( [thedailybeast.com](https://www.fark.com/goto/13481576) ) » [(1 comment)](https://www.fark.com/comments/13481576/In-somber-news-leukemia-reports-its-still-not-in-remission-from-Harvey-Weinstein) |
-| [Fandom](https://www.fark.com/fandom/) | [Today, December 3rd of 2024, Playstation celebrates its 30th anniversary. Yes, 30. No, we checked, I'm sorry. Also, take an Ibuprofen](https://www.fark.com/goto/13481762) ( [playstation.com](https://www.fark.com/goto/13481762) ) » [(0 comments)](https://www.fark.com/comments/13481762/Today-December-3rd-of-2024-Playstation-celebrates-its-30th-anniversary-Yes-30-No-we-checked-Im-sorry-Also-take-an-Ibuprofen) |
-| [D'awww](https://www.fark.com/dawww/) | [Kindhearted Thai policeman comes up with novel way to get two unconscious female backpackers back to their hotels after a few too many](https://www.fark.com/goto/13481868) ( [metro.co.uk](https://www.fark.com/goto/13481868) ) » [(0 comments)](https://www.fark.com/comments/13481868/Kindhearted-Thai-policeman-comes-up-with-novel-way-to-get-two-unconscious-female-backpackers-back-to-their-hotels-after-a-few-too-many) |
-| [Food](https://www.fark.com/food/) | [That's not a kebab, THIS is a kebab](https://www.fark.com/goto/13481828) ( [upi.com](https://www.fark.com/goto/13481828) ) » [(0 comments)](https://www.fark.com/comments/13481828/Thats-not-a-kebab-THIS-is-a-kebab) |
-| [Politics](https://www.fark.com/politics/) | [A Chinese national who is facing federal fraud charges just sent Trump $18 million. This is fine](https://www.fark.com/goto/13481670) ( [popular.info](https://www.fark.com/goto/13481670) ) » [(16 comments)](https://www.fark.com/comments/13481670/A-Chinese-national-who-is-facing-federal-fraud-charges-just-sent-Trump-$18-million-This-is-fine) |
+| [Main](https://www.fark.com/) | [Hannah Kobayashi still missing as APD says she voluntarily crossed into Mexico alone, without even reprogramming the simulation to allow her to win](https://www.fark.com/goto/13482148) ( [kiro7.com](https://www.fark.com/goto/13482148) ) » [(5 comments)](https://www.fark.com/comments/13482148/Hannah-Kobayashi-still-missing-as-APD-says-she-voluntarily-crossed-into-Mexico-alone-without-even-reprogramming-simulation-to-allow-her-to-win) |
+| [Discussion](https://www.fark.com/discussion/) | ["My boyfriend broke up with me because I am too old for him. What should I do?" (possible nsfw content on page)](https://www.fark.com/goto/13482154) ( [thesun.co.uk](https://www.fark.com/goto/13482154) ) » [(8 comments)](https://www.fark.com/comments/13482154/My-boyfriend-broke-up-with-me-because-I-am-too-old-for-him-What-should-I-do-possible-nsfw-content-on-page) |
+| [Sports](https://www.fark.com/sports/) | [Shilo and Shedeur hoped for a family reunion; Deion says, "not on my 50-yard line"](https://www.fark.com/goto/13482004) ( [theshadowleague.com](https://www.fark.com/goto/13482004) ) » [(3 comments)](https://www.fark.com/comments/13482004/Shilo-Shedeur-hoped-for-a-family-reunion-Deion-says-not-on-my-50-yard-line) |
+| [Business](https://www.fark.com/business/) | [Signs you are a bad boss. Or one of eight different bosses](https://www.fark.com/goto/13481962) ( [forbes.com](https://www.fark.com/goto/13481962) ) » [(6 comments)](https://www.fark.com/comments/13481962/Signs-you-are-a-bad-boss-Or-one-of-eight-different-bosses) |
+| [STEM](https://www.fark.com/stem/) | [My farts don't smell](https://www.fark.com/goto/13482118) ( [dailymail.co.uk](https://www.fark.com/goto/13482118) ) » [(5 comments)](https://www.fark.com/comments/13482118/My-farts-dont-smell) |
+| [Entertainment](https://www.fark.com/entertainment/) | [N.O.R.E. turned down Rihanna to save a buck. learns the hard way that frugal and foolish both start with "f"](https://www.fark.com/goto/13482000) ( [finurah.com](https://www.fark.com/goto/13482000) ) » [(4 comments)](https://www.fark.com/comments/13482000/NORE-turned-down-Rihanna-to-save-a-buck-learns-hard-way-that-frugal-foolish-both-start-with-f) |
+| [Fandom](https://www.fark.com/fandom/) | [After the huge successes of the Super Mario Bros movie, Inside Out 2 and now Moana 2, animation is apparently in crisis for some probably clickbaity reason](https://www.fark.com/goto/13481780) ( [independent.co.uk](https://www.fark.com/goto/13481780) ) » [(18 comments)](https://www.fark.com/comments/13481780/After-huge-successes-of-Super-Mario-Bros-movie-Inside-Out-2-now-Moana-2-animation-is-apparently-in-crisis-for-some-probably-clickbaity-reason) |
+| [D'awww](https://www.fark.com/dawww/) | [Fark should have a "Macaque Monday" topic](https://www.fark.com/goto/13481954) ( [nbc-2.com](https://www.fark.com/goto/13481954) ) » [(4 comments)](https://www.fark.com/comments/13481954/Fark-should-have-a-Macaque-Monday-topic) |
+| [Food](https://www.fark.com/food/) | [Thieves make off with $31,000 worth of pies. Chef says 'we kneaded that dough'](https://www.fark.com/goto/13482032) ( [metro.co.uk](https://www.fark.com/goto/13482032) ) » [(22 comments)](https://www.fark.com/comments/13482032/Thieves-make-off-with-$31000-worth-of-pies-Chef-says-we-kneaded-that-dough) |
+| [Politics](https://www.fark.com/politics/) | [Oh nothing, just our future Sec of Defense's pastor writing how rape happens because women are not submissive enough](https://www.fark.com/goto/13482256) ( [salon.com](https://www.fark.com/goto/13482256) ) » [(24 comments)](https://www.fark.com/comments/13482256/Oh-nothing-just-our-future-Sec-of-Defenses-pastor-writing-how-rape-happens-because-women-are-not-submissive-enough) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +352,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Dec 03 2024 07:42:14  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Dec 03 2024 13:42:38  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
