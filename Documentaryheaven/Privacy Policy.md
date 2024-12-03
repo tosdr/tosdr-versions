@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Teens Hooked on Porn](/wp-content/thumbnails/3299-100x70.jpg?x53432)
+* [![Matter of Heart](/wp-content/thumbnails/2261-100x70.jpg?x53432)
     
-    Teens Hooked on Porn
+    Matter of Heart
     
-    Documentary looking at how British teenagers are increasingly being tempted by the limitless porn available on the Internet, with some becoming addicts. Three of them tell their stories of differing u](https://documentaryheaven.com/teens-hooked-on-porn/ "Teens Hooked on Porn")
-* [![The Power of the Placebo](/wp-content/thumbnails/10315-100x70.jpg?x53432)
+    The psyche is the greatest of all cosmic wonders and the “sine qua non” of the world as an object. It is in the highest degree odd that Western man, with but very few – and ever fewer – exceptions, ap](https://documentaryheaven.com/matter-of-heart/ "Matter of Heart")
+* [![America’s First Bare Knuckle Fighting Championship](/wp-content/thumbnails/14280-100x70.jpg?x53432)
     
-    The Power of the Placebo
+    America’s First Bare Knuckle Fighting Championship
     
-    Are they miracle pills? in theory they should't have any affect on us what so ever. Placebos can come in any shape or size and they contain no active ingredient but rather are a medically ineffectual](https://documentaryheaven.com/power-of-the-placebo/ "The Power of the Placebo")
-* [![The Truth about Payday Loans](/wp-content/thumbnails/8450-100x70.jpg?x53432)
+    Ever since the good auld days of the 1800s, bare-knuckle boxing in the United States has been pushed out of the mainstream and into dingy parking lots and grimy basements. It has always been an underg](https://documentaryheaven.com/americas-first-bare-knuckle-fighting-championship/ "America’s First Bare Knuckle Fighting Championship")
+* [![Dish Pigs](/wp-content/thumbnails/14503-100x70.jpg?x53432)
     
-    The Truth about Payday Loans
+    Dish Pigs
     
-    Miquita Oliver used to be a famous television presenter and radio personality in the UK until she filed for bankruptcy in 2011. As someone who is very familiar with the burdens of having huge debts lo](https://documentaryheaven.com/truth-about-payday-loans/ "The Truth about Payday Loans")
-* [![50 Shades of Sasha Grey](/wp-content/thumbnails/7810-100x70.jpg?x53432)
+    It is said that the most compelling tales originate from a restaurants kitchen and more specifically the dish pit and in a city known for nightlife and haute cuisine, Dish Pigs tells the untold storie](https://documentaryheaven.com/dish-pigs/ "Dish Pigs")
+* [![The Modern Racist Paradigm](/wp-content/thumbnails/1838-100x70.jpg?x53432)
     
-    50 Shades of Sasha Grey
+    The Modern Racist Paradigm
     
-    Sasha Grey is an American actress, model, author, musician, and former adult actress. Throughout her adult film career, she was profiled by several pop culture magazines and television programs. She h](https://documentaryheaven.com/50-shades-sasha-grey/ "50 Shades of Sasha Grey")
-* [![Scientific Verification of Vedic Knowledge](/wp-content/thumbnails/2325-100x70.jpg?x53432)
+    This is a well researched documentary that exposes the “White” Media’s long-term agenda to standardize Caucasian people as the “social norm” for general society. Through the globalization and central](https://documentaryheaven.com/the-modern-racist-paradigm/ "The Modern Racist Paradigm")
+* [![Losing Sleep](/wp-content/thumbnails/16507-100x70.jpg?x53432)
     
-    Scientific Verification of Vedic Knowledge
+    Losing Sleep
     
-    A vast number of statements and materials presented in the ancient Vedic literatures can be shown to agree with modern scientific findings and they also reveal a highly developed scientific content in](https://documentaryheaven.com/scientific-verification-of-vedic-knowledge/ "Scientific Verification of Vedic Knowledge")
+    We spend one-third of our lives sleeping and still we don't fully understand why it is we sleep. We know some of the functions that lie behind it but overall it's still very much a mystery. From the](https://documentaryheaven.com/losing-sleep/ "Losing Sleep")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
