@@ -1,6 +1,6 @@
 6.0.11
 
-1733214986461
+1733235535202
 
                                       
 
@@ -12,7 +12,7 @@ en
 
 4.0.1
 
-1733214131192
+1733236056864
 
      Next Terms & Conditions | T&C's | Next Official Site                                  
 
@@ -22,7 +22,7 @@ en
 
 cutaway22
 
-1733214177635
+1733236637285
 
 You need to enable JavaScript to run this app.
 
@@ -534,33 +534,6 @@ The use of a nextpay card (formally known as Directory Card) or the nextpay in-a
 Please note the redemption of the 10% welcome offer to credit applies only to Next.co.uk.
 
  Promotional Offers, Multibuys, Vouchers and Gift Cards
-
-### Best Beauty Offers up to 20% off Promotion
-
-### 
-
-1. Save up to 20% off on selected beauty brands.
-2. This offer will be available between 28/11/2024 and 02/12/2024.
-3. This offer is valid across selected items from the following brands:
-    * Lancome, Yves Saint Laurent, ARMANI, Elizabeth Arden, Aveda, Bobbi Brown, By Terry, Kiehls, Bumble and bumble, Stila, ESPA, Neals Yard, Delilah, Dr. Hauschka, Living Proof, Made by Mitchell, BRUSH WORKS, Sanctuary Spa, This Works, Origins, Scottish Fine Soaps, Caudalie, THE FLAT LAY CO, Murad, Nuxe, WetBrush, Perricone MD, The INKEY List, Grace Cole, Coco & Eve, Liz Earle, Bondi Sands, Margaret Dabbs London, REN, Sweed, Real Techniques, Tweezerman, Stoneglow, Ultrasun, OPI, Nails INC, MANICURIST, Tangle Teezer, StylPro, Bare By Vogue, Eyeko, Murdock London, OSKIA, T3, St Tropez, Patchology, DryBar, Omorovicza, Percy & Reed, Spectrum Collections, Aromatherapy Associates, Ted Baker, BeautyPro, Grow Gorgeous, Hawaiian Tropic, Weleda, Percy Nobleman, BOUCLÈME, Hawkins & Brimble, Mama Mio, Benefit, Hello Sunday, Ameliorate, Laura Mercier, Dolce & Gabbana, LITTLE BUTTERFLY LONDON, P20, BEAUTYBLENDER, Bloom & Blossom, Effn Tan, Bare Feet, BARBER PRO, Dr. PAWPAW, Too Faced, Calvin Klein, Pixi, Cloud Nine, No!no!, Philip Kingsley, Philips, Hugo Boss, Gucci, My Expert Midwife, Ghost, Elie Saab, Tommy Hilfiger, Babyliss, Next, William Morris At Home, Rituals, Baylis & Harding.
-4. The offer is for online purposes only.
-5. Discounted prices will already be applied and will be visible on the product listing page and product page.
-6. Item will be added to basket at discounted price.
-7. Offer available while stocks last.
-
-### 40% off on Selected Bath & Body Works Bodycare Promotion
-
-* Up to 40% off on selected Bath & Body Works Bodycare lines.
-* Discounted price visible on product listing page and product already includes saving.
-* Item will be added to basket at discounted price.
-* Offer available while stocks last.
-
-### 50% off on Selected Bath & Body Works Soaps Promotion
-
-* Up to 50% off on selected Bath & Body Works soap lines.
-* Discounted price visible on product listing page and product already includes saving.
-* Item will be added to basket at discounted price.
-* Offer available while stocks last.
 
 ### Up to £100 off Selected Dyson Promotion
 
@@ -1293,23 +1266,6 @@ This offer is not available to staff.
 
 Offer applies while stocks last.
 
-### Rituals Promotion
-
-The Rituals Free Gift will be automatically added to bag when you buy any 2 selected Rituals products. The Rituals Gift contains:
-
-* Ayurveda Recovery Hand Balm 70ml
-* Karma Hand Lotion 70ml
-
-To get the saving, you must order the qualifying items within the same order at the same time. If you later return one of the items, you will no longer be entitled to the discount. This offer applies to selected indicated items when purchased at full price.
-
-The Rituals Gift will be automatically added once 2 qualifying Rituals products have been added to the bag on either the Product or Shopping Bag pages.
-
-The promotion can only be used by the account holder, and you must be logged in to your account to view and shop the promotion.
-
-This offer is not available to staff.
-
-Offer applies while stocks last.
-
 ### Benefit Promotion
 
 The Benefit Free Gift will be automatically added to bag when you buy any 2 selected Benefit products. The Benefit Gift contains:
@@ -1379,16 +1335,6 @@ If you object to any or all of your details being published, please contact [nex
 **Governing Law:** The competition and these terms and conditions are governed by English law, and the parties submit to the exclusive jurisdiction of the English courts.
 
 **Winner Details:** For 14 days after the competition ends, details of the winner will be available by writing to Next Marketing, Desford Road, Enderby, Leicester, LE19 4AT. Next will provide these details to the Advertising Standards Authority upon request.
-
-### £96 off Selected GHD Promotion
-
-Up to £96 off on selected GHD products.
-
-Discounted price visible on product listing page and product already includes saving.
-
-Item will be added to basket at discounted price.
-
-Offer available while stocks last.
 
 ### Lancome Promotion
 
@@ -1757,21 +1703,6 @@ Offer applies while stocks last.
 13. We reserve the right to amend these terms and conditions and/or discontinue the promotion at any time without liability.
 14. The promoter is Next Retail Limited, Desford Road, Enderby, Leicester, LE19 4AT.
 15. This promotion is governed by English law and disputes are subject to the exclusive jurisdiction of the English courts.
-
-### Iconic London Promotion
-
-The Iconic London Gift will be automatically added to bag when you buy one selected Iconic London product. The Iconic London Gift contains: Bronze and Smokey Eyeshadow Palette
-
-To get the saving, you must order the qualifying items within the same order at the same time. If you later return one of the items, you will no longer be entitled to the discount. This offer applies to selected indicated items when purchased at full price.  
-  
-The Iconic London Gift will be automatically added once 1 qualifying Iconic London product has been added to the bag on either the Product or Shopping Bag Pages.  
-  
-The promotion can only be used by the account holder and you must be logged in to your account to view and shop the promotion.  
-  
-This offer is not available to staff.  
-  
-Offer applies while stocks last.  
-  
 
 ### Bare Minerals Promotion
 
@@ -2801,7 +2732,7 @@ Priority access also known as VIP Sale is an exclusive benefit to nextpay and pa
 * Have successfully created your nextpay or pay in 3 account by 11.59pm on Tuesday 17th December 2024.
 * If you sign up after the cut-off date you will be included in a subsequent Sale Invite.
 * You will receive your Priority Access invite from Wednesday 18th December 2024.
-* Priority access gives you the first choice of available time slots for Day 1 sale access.
+* Priority access gives you the choice of available time slots.
 * **If you do not book a slot, you will be invited to shop the sale later on subsequent days.**
 * For more information on our VIP Sale, see above.
 
@@ -3454,7 +3385,7 @@ You need to enable JavaScript to run this app.
 
 4.0.1
 
-1733214812282
+1733236222630
 
 ##### Our Social Networks
 
