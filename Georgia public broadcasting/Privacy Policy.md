@@ -150,7 +150,7 @@ Menu Close
     * [PBS KIDS](https://pbskids.org/)
     * [PBS LearningMedia](https://www.pbslearningmedia.org/)
     
-    * [on Twitter ![](/themes/custom/ga_forest/assets/images/icons/social/twitter/social-twitter--fill-blue.svg) ![](/themes/custom/ga_forest/assets/images/icons/social/twitter/social-twitter--fill-white.svg)](https://twitter.com/gpbeducation)  
+    * [on Twitter ![](/themes/custom/ga_forest/assets/images/icons/social/twitter/social-x--fill-blue.svg) ![](/themes/custom/ga_forest/assets/images/icons/social/twitter/social-x--fill-white.svg)](https://twitter.com/gpbeducation)  
     * [on Facebook ![](/themes/custom/ga_forest/assets/images/icons/social/facebook/social-facebook--fill-blue.svg) ![](/themes/custom/ga_forest/assets/images/icons/social/facebook/social-facebook--fill-white.svg)](https://www.facebook.com/gpbeducation/)  
     * [on Email ![](/themes/custom/ga_forest/assets/images/icons/monoline/email/monoline-email--blue.svg) ![](/themes/custom/ga_forest/assets/images/icons/monoline/email/monoline-email--white.svg)](https://visitor.r20.constantcontact.com/manage/optin?v=001w8V70rCO6uwAHfRde3zpd-Rq6sfRt9GI2VmcXmyDXw76Eqlf1wx74Q-aeph5mLKjiN0Iqq-_Mm85SUaZoGKY9w%3D%3D)  
     
@@ -207,7 +207,7 @@ Menu Close
     
     [Sign up](http://gpb.convio.net/site/Survey?ACTION_REQUIRED=URI_ACTION_USER_REQUESTS&amp%3BSURVEY_ID=1320)
     
-    * [on Twitter ![](/themes/custom/ga_forest/assets/images/icons/social/twitter/social-twitter--fill-blue.svg) ![](/themes/custom/ga_forest/assets/images/icons/social/twitter/social-twitter--fill-white.svg)](https://twitter.com/mygpb)  
+    * [on Twitter ![](/themes/custom/ga_forest/assets/images/icons/social/twitter/social-x--fill-blue.svg) ![](/themes/custom/ga_forest/assets/images/icons/social/twitter/social-x--fill-white.svg)](https://twitter.com/mygpb)  
     * [on Facebook ![](/themes/custom/ga_forest/assets/images/icons/social/facebook/social-facebook--fill-blue.svg) ![](/themes/custom/ga_forest/assets/images/icons/social/facebook/social-facebook--fill-white.svg)](https://www.facebook.com/gpbmedia)  
     * [on Instagram ![](/themes/custom/ga_forest/assets/images/icons/social/instagram/social-instagram--fill-blue.svg) ![](/themes/custom/ga_forest/assets/images/icons/social/instagram/social-instagram--fill-white.svg)](https://www.instagram.com/gpbmedia)  
     
@@ -293,7 +293,7 @@ Privacy Policy
 Share this page
 ---------------
 
-* [Share this page on Twitter ![](/themes/custom/ga_forest/assets/images/icons/social/twitter/social-twitter--fill-blue.svg) ![](/themes/custom/ga_forest/assets/images/icons/social/twitter/social-twitter--fill-white.svg)](http://twitter.com/intent/tweet?text=Privacy%20Policy&url=https%3A//www.gpb.org/about/privacy-policy)  
+* [Share this page on Twitter ![](/themes/custom/ga_forest/assets/images/icons/social/twitter/social-x--fill-blue.svg) ![](/themes/custom/ga_forest/assets/images/icons/social/twitter/social-x--fill-white.svg)](http://twitter.com/intent/tweet?text=Privacy%20Policy&url=https%3A//www.gpb.org/about/privacy-policy)  
 * [Share this page on Facebook ![](/themes/custom/ga_forest/assets/images/icons/social/facebook/social-facebook--fill-blue.svg) ![](/themes/custom/ga_forest/assets/images/icons/social/facebook/social-facebook--fill-white.svg)](http://facebook.com/sharer.php?t=Privacy%20Policy&u=https%3A//www.gpb.org/about/privacy-policy)  
 * [Share this page on Email ![](/themes/custom/ga_forest/assets/images/icons/monoline/email/monoline-email--blue.svg) ![](/themes/custom/ga_forest/assets/images/icons/monoline/email/monoline-email--white.svg)](mailto:?subject=Privacy%20Policy&body=https%3A//www.gpb.org/about/privacy-policy)  
 * Share this page on Print ![](/themes/custom/ga_forest/assets/images/icons/monoline/print/monoline-print--blue.svg) ![](/themes/custom/ga_forest/assets/images/icons/monoline/print/monoline-print--white.svg)  
@@ -316,6 +316,8 @@ GEORGIA PUBLIC BROADCASTING PRIVACY POLICY Georgia Public Broadcasting (the “C
 
 **II. STUDENT PRIVACY NOTICE** The Company does not collect, use, or disclose students’ personal information online unless the teacher, parent, or other legal guardian (“you”) consents or as permitted by law.
 
+  
+  
 Consistent with applicable law, you or the student remain the owner and controller of, and are solely responsible for, any and all student data you provide in connection with your use of the Site. The Company will collect, use, and disclose information protected by FERPA and applicable law only for the purpose of performing institutional services or functions for which the school or district would otherwise use its own employees consistent with this Student Privacy Notice. To the extent that the Company discloses student data to authorized third party service providers, such third party service providers shall only collect and use student data for authorized school purposes as directed or authorized by the school. The Company will not sell student data or use student data for targeted advertising purposes. The Company does not require student logins or student information when utilizing the site for educational usage.
 
 Teachers, parents, caregivers, and guardians can request that we return, delete, or destroy all personally identifiable student data it may contain in connection with your use of the Site.  All such requests should be directed to [digital@gpb.org](mailto:digital@gpb.org)
@@ -347,7 +349,7 @@ Connect with GPB
 
 * [Connect with GPB on Facebook ![](/themes/custom/ga_forest/assets/images/icons/social/facebook/social-facebook--fill-blue.svg) ![](/themes/custom/ga_forest/assets/images/icons/social/facebook/social-facebook--fill-white.svg)](https://www.facebook.com/gpbmedia/)  
 * [Connect with GPB on Instagram ![](/themes/custom/ga_forest/assets/images/icons/social/instagram/social-instagram--fill-blue.svg) ![](/themes/custom/ga_forest/assets/images/icons/social/instagram/social-instagram--fill-white.svg)](https://www.instagram.com/gpbmedia/)  
-* [Connect with GPB on Twitter ![](/themes/custom/ga_forest/assets/images/icons/social/twitter/social-twitter--fill-blue.svg) ![](/themes/custom/ga_forest/assets/images/icons/social/twitter/social-twitter--fill-white.svg)](https://twitter.com/mygpb?lang=en)  
+* [Connect with GPB on Twitter ![](/themes/custom/ga_forest/assets/images/icons/social/twitter/social-x--fill-blue.svg) ![](/themes/custom/ga_forest/assets/images/icons/social/twitter/social-x--fill-white.svg)](https://twitter.com/mygpb?lang=en)  
 * [Connect with GPB on YouTube ![](/themes/custom/ga_forest/assets/images/icons/social/youtube/social-youtube--fill-blue.svg) ![](/themes/custom/ga_forest/assets/images/icons/social/youtube/social-youtube--fill-white.svg)](https://www.youtube.com/user/gpbweb)  
 * [Connect with GPB on Apple News ![](/themes/custom/ga_forest/assets/images/icons/social/apple-news/social-applenews--fill-blue.svg) ![](/themes/custom/ga_forest/assets/images/icons/social/apple-news/social-applenews--fill-white.svg)](https://apple.news/TRjL_F7HOTGSYml1hlClVtA?subscribe=1)  
 
@@ -408,7 +410,7 @@ Connect with GPB
 
 * [Connect with GPB on Facebook ![](/themes/custom/ga_forest/assets/images/icons/social/facebook/social-facebook--fill-blue.svg) ![](/themes/custom/ga_forest/assets/images/icons/social/facebook/social-facebook--fill-white.svg)](https://www.facebook.com/gpbmedia/)  
 * [Connect with GPB on Instagram ![](/themes/custom/ga_forest/assets/images/icons/social/instagram/social-instagram--fill-blue.svg) ![](/themes/custom/ga_forest/assets/images/icons/social/instagram/social-instagram--fill-white.svg)](https://www.instagram.com/gpbmedia/)  
-* [Connect with GPB on Twitter ![](/themes/custom/ga_forest/assets/images/icons/social/twitter/social-twitter--fill-blue.svg) ![](/themes/custom/ga_forest/assets/images/icons/social/twitter/social-twitter--fill-white.svg)](https://twitter.com/mygpb?lang=en)  
+* [Connect with GPB on Twitter ![](/themes/custom/ga_forest/assets/images/icons/social/twitter/social-x--fill-blue.svg) ![](/themes/custom/ga_forest/assets/images/icons/social/twitter/social-x--fill-white.svg)](https://twitter.com/mygpb?lang=en)  
 * [Connect with GPB on YouTube ![](/themes/custom/ga_forest/assets/images/icons/social/youtube/social-youtube--fill-blue.svg) ![](/themes/custom/ga_forest/assets/images/icons/social/youtube/social-youtube--fill-white.svg)](https://www.youtube.com/user/gpbweb)  
 * [Connect with GPB on Apple News ![](/themes/custom/ga_forest/assets/images/icons/social/apple-news/social-applenews--fill-blue.svg) ![](/themes/custom/ga_forest/assets/images/icons/social/apple-news/social-applenews--fill-white.svg)](https://apple.news/TRjL_F7HOTGSYml1hlClVtA?subscribe=1)  
 
