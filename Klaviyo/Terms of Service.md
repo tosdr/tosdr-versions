@@ -22,6 +22,12 @@
 * [](https://community.klaviyo.com/topic/new)
 * [](#)
 
+[](https://community.klaviyo.com/events/more-than-skin-deep-connections-strengthening-customer-relationships-and-brand-loyalty-with-skin-rocks-252)
+
+More than Skin-Deep Connections: Strengthening customer relationships and brand loyalty with Skin Ro...
+
+(Wed, 18 Dec, 5:00 pm)
+
 * [Home](https://community.klaviyo.com/)
 * Terms
 
