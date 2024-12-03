@@ -94,11 +94,11 @@ Learn more about our enterprise solution and get a demo from our sales team.](ht
 
 **Read our latest content**
 
-![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/67464008631689823345e6c9_walmart-generative-ai-chatbot.png)
+![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/674f471607eccc0a72de10c6_best-holiday-gifts-get-maine-lobster-meat-n-bone-grazy-goat-foods-spice-house.png)
 
-###### How Walmart is Revolutionizing Ecommerce with Generative AI—and How Your Brand Can Too
+###### The Best Gifts for the Foodie in Your Life: Sweet Treats & Quality Meats
 
-[Read now >](https://clear.co/blog/how-walmart-leverages-generative-ai-ecommerce-strategy)
+[Read now >](https://clear.co/blog/best-holiday-gifts-get-maine-lobster-meat-n-bone-grazy-goat-foods-spice-house)
 
 [Sign In](http://my.clearbanc.com/login)[Get Funding](http://my.clearbanc.com/signup)
 
