@@ -642,7 +642,7 @@ Download Urban VPN for free and browse the web while hiding your IP address.
 * [Free Browser Guard](https://www.urban-vpn.com/free-products/free-browser-guard/)
 * [Free PC/Laptop VPN](https://www.urban-vpn.com/free-products/free-pc-laptop-vpn/)
 * [Free VPN for Windows](https://www.urban-vpn.com/free-products/free-windows-vpn/)
-* [Free Mac VPN](https://www.urban-vpn.com/free-products/free-mac-vpn/)
+* [Mac VPN](https://www.urban-vpn.com/free-products/free-mac-vpn/)
 * [Free Android App](https://www.urban-vpn.com/free-products/free-android-vpn/)
 * [IPhone VPN](https://www.urban-vpn.com/free-products/free-iphone-vpn/)
 * [Hulu VPN](https://www.urban-vpn.com/free-products/free-hulu-vpn/)
