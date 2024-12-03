@@ -4,7 +4,7 @@
 
   
 
-🔋 Save 30% on selected [Maplin Alkaline Batteries!](https://www.maplin.co.uk/collections/maplin-alkaline-batteries) 🔋
+🔋 Save 30% on selected [Maplin Alkaline Batteries!](https://www.maplin.co.uk/collections/batteries-30-off-december-2024 "30% Off Maplin Alkaline Batteries") 🔋
 
 Browse
 
