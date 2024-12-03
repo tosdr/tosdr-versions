@@ -117,63 +117,61 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Impossible to run our businesses without IO
-> -------------------------------------------
+> Wish I started ages ago!
+> ------------------------
 > 
-> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
->   
-> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
->   
-> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
->   
-> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
+> I just want to compliment you and your team for an amazing back office software.
+> 
+> I have been struggling with a proper invoicing solution for six months now (to make time each month)
+> 
+> I just wish I started using Invoices Online ages ago.
 
-Kobus Venter
+Terri Winfield
 
-![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=34a7e3fa311ad40dc72faa6379144d1eb29577125510a0373c96f5626b937194&c=85617864)  
+![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=215126bc8ddcc20892704a3829efb07749de8a78d47dceacfe85a9ee9e96fb29&c=147138356)  
+FJW Security Cc
+
+![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=215126bc8ddcc20892704a3829efb07749de8a78d47dceacfe85a9ee9e96fb29&c=190103077)  
 VerdanTech Pty Ltd
 
-![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=34a7e3fa311ad40dc72faa6379144d1eb29577125510a0373c96f5626b937194&c=202880483)  
-NEW BEGINNINGS DESIGNS
+![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=215126bc8ddcc20892704a3829efb07749de8a78d47dceacfe85a9ee9e96fb29&c=208354554)  
+Leef in Afrikaans
 
-![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=34a7e3fa311ad40dc72faa6379144d1eb29577125510a0373c96f5626b937194&c=111972438)  
-M's Frozen Delights
+![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=215126bc8ddcc20892704a3829efb07749de8a78d47dceacfe85a9ee9e96fb29&c=135272118)  
+kidoscabbie
 
-![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=34a7e3fa311ad40dc72faa6379144d1eb29577125510a0373c96f5626b937194&c=214468404)  
-Bchange Online CC
+![valued client Kara Medical (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=3913&file=logo_300_100&type=&fe=215126bc8ddcc20892704a3829efb07749de8a78d47dceacfe85a9ee9e96fb29&c=66387331)  
+Kara Medical (Pty) Ltd
 
-![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=34a7e3fa311ad40dc72faa6379144d1eb29577125510a0373c96f5626b937194&c=202838054)  
-Little Nutty Professors
+![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=215126bc8ddcc20892704a3829efb07749de8a78d47dceacfe85a9ee9e96fb29&c=180051209)  
+KTEN PARTS
 
-![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=34a7e3fa311ad40dc72faa6379144d1eb29577125510a0373c96f5626b937194&c=128196119)  
+![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=215126bc8ddcc20892704a3829efb07749de8a78d47dceacfe85a9ee9e96fb29&c=63553026)  
+Norton Medical & Consult - Namibia
+
+![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=215126bc8ddcc20892704a3829efb07749de8a78d47dceacfe85a9ee9e96fb29&c=62538937)  
+Nilbet T/A Waterman
+
+![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=215126bc8ddcc20892704a3829efb07749de8a78d47dceacfe85a9ee9e96fb29&c=40592760)  
 Sonic Electrical Services PTY Ltd
 
-![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=34a7e3fa311ad40dc72faa6379144d1eb29577125510a0373c96f5626b937194&c=81589080)  
-NWET Pty LTD
+![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=215126bc8ddcc20892704a3829efb07749de8a78d47dceacfe85a9ee9e96fb29&c=77931150)  
+Beyond Laser CNC Cutting Technology South Africa CC
 
-![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=34a7e3fa311ad40dc72faa6379144d1eb29577125510a0373c96f5626b937194&c=164114248)  
-Bloem Rugby Academy PTY (Ltd)
+![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=215126bc8ddcc20892704a3829efb07749de8a78d47dceacfe85a9ee9e96fb29&c=119587536)  
+NJR ICT Services (Pty) Ltd
 
-![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=34a7e3fa311ad40dc72faa6379144d1eb29577125510a0373c96f5626b937194&c=4682349)  
-Multi CNC Solutions CC
+![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=215126bc8ddcc20892704a3829efb07749de8a78d47dceacfe85a9ee9e96fb29&c=52781473)  
+Roamfree Boerdery (PTY) LTD
 
-![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=34a7e3fa311ad40dc72faa6379144d1eb29577125510a0373c96f5626b937194&c=172729203)  
-Environment Friendly Toilets (Pty) Ltd
+![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=215126bc8ddcc20892704a3829efb07749de8a78d47dceacfe85a9ee9e96fb29&c=206241421)  
+RADIO TYGERBERG 104FM NPC
 
-![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=34a7e3fa311ad40dc72faa6379144d1eb29577125510a0373c96f5626b937194&c=4142978)  
-MONSTER SECURITY SERVICES
+![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=215126bc8ddcc20892704a3829efb07749de8a78d47dceacfe85a9ee9e96fb29&c=25368099)  
+Gemini-IT Group
 
-![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=34a7e3fa311ad40dc72faa6379144d1eb29577125510a0373c96f5626b937194&c=32599594)  
-Lion Software Develepment
-
-![valued client Cooper Power](https://www.invoicesonline.co.za/scripts/image.php?bid=8689&file=logo_300_100&type=&fe=34a7e3fa311ad40dc72faa6379144d1eb29577125510a0373c96f5626b937194&c=98750347)  
-Cooper Power
-
-![valued client The Gourmet Artisans Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8737&file=logo_300_100&type=&fe=34a7e3fa311ad40dc72faa6379144d1eb29577125510a0373c96f5626b937194&c=74965238)  
-The Gourmet Artisans Ltd.
-
-![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=34a7e3fa311ad40dc72faa6379144d1eb29577125510a0373c96f5626b937194&c=189217333)  
-OPTIMUS ELECTRICAL PTY (LTD)
+![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=215126bc8ddcc20892704a3829efb07749de8a78d47dceacfe85a9ee9e96fb29&c=66657101)  
+MSPCloud (Pty) Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
