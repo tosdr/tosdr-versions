@@ -28,8 +28,8 @@ IARD/CRD#
 
 The IARD/CRD# is used by the Securities & Exchange Commission to provide background information on a firm. [Click here](http://www.adviserinfo.sec.gov/IAPD/Content/Search/iapd_Search.aspx) to research a firm.
 
-Terms and Conditions×
----------------------
+Terms and Conditions[×](javascript:void())
+------------------------------------------
 
 Schwab operates this Advisor Directory to provide helpful information to you. It includes some, but not all of the registered investment advisors (“RIAs”) that custody client assets with Schwab. There may be other investment professionals in your area.
 
