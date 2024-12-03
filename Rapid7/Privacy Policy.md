@@ -208,7 +208,7 @@
 
 [Rapid7 Privacy Policy](#__ "Rapid7 Privacy Policy")
 
-[Try Now](https://www.rapid7.com/trial/insight/)
+[Contact us](https://www.rapid7.com/contact/)
 
 [![Rapid7 Home](/Areas/Docs/includes/img/r7-nav/Rapid7_logo.svg)](https://www.rapid7.com/)
 
@@ -423,7 +423,7 @@
 
 * [Rapid7 Privacy Policy](#__ "Rapid7 Privacy Policy")
 
-[Try Now](https://www.rapid7.com/trial/insight/)
+[Contact us](https://www.rapid7.com/contact/)
 
 * [Home](https://www.rapid7.com/)
 * **Privacy Policy**
