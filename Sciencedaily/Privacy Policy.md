@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**December 2, 2024**
+**December 3, 2024**
 
 * * *
 
@@ -230,25 +230,25 @@ this week
 
 [Hormone Disorders](https://www.sciencedaily.com/news/health_medicine/hormone_disorders/)
 
-[Personalized Medicine](https://www.sciencedaily.com/news/health_medicine/personalized_medicine/)
+[Urology](https://www.sciencedaily.com/news/health_medicine/urology/)
 
-[Caregiving](https://www.sciencedaily.com/news/mind_brain/caregiving/)
+[Gender Difference](https://www.sciencedaily.com/news/mind_brain/gender_difference/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Spintronics](https://www.sciencedaily.com/news/matter_energy/spintronics/)
+[Quantum Computing](https://www.sciencedaily.com/news/matter_energy/quantum_computing/)
 
-[Graphene](https://www.sciencedaily.com/news/matter_energy/graphene/)
+[Pluto](https://www.sciencedaily.com/news/space_time/pluto/)
 
-[Quantum Physics](https://www.sciencedaily.com/news/matter_energy/quantum_physics/)
+[Electronics](https://www.sciencedaily.com/news/matter_energy/electronics/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Global Warming](https://www.sciencedaily.com/news/earth_climate/global_warming/)
+[Extinction](https://www.sciencedaily.com/news/plants_animals/extinction/)
 
-[Climate](https://www.sciencedaily.com/news/earth_climate/climate/)
+[Veterinary Medicine](https://www.sciencedaily.com/news/plants_animals/veterinary_medicine/)
 
-[Ice Ages](https://www.sciencedaily.com/news/earth_climate/ice_ages/)
+[Geography](https://www.sciencedaily.com/news/earth_climate/geography/)
 
   
 
