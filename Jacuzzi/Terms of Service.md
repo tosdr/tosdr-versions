@@ -110,8 +110,8 @@ Menu
     *  [CAD Downloads](https://www.jacuzzi.com/en-us/caddownloads.html)
     *  [Bath Manuals & User Guides](https://www.jacuzzi.com/en-us/owners-manuals.html)
     *  [Referral Program](https://www.jacuzzi.com/en-us/referral-program.html)
-    *  [Manuals & User Guides](https://www.jacuzzi.com/en-us/resources/manuals-and-user-guides.html)
     *  [Warranty Coverage](https://www.jacuzzi.com/en-us/owners-center/warranty-coverage.html)
+    *  [Manuals & User Guides](https://www.jacuzzi.com/en-us/resources/manuals-and-user-guides.html)
     *  [Register Your Product](https://www.jacuzzi.com/en-us/warranty-registration.html)
     
     #### Featured
