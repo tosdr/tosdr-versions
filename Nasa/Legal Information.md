@@ -70,13 +70,13 @@ Suggested Searches
 
 ### Experience the Launch of NASA’s SpaceX Crew-10 Mission  
 
-article16 hours ago](https://www.nasa.gov/general/experience-the-launch-of-nasas-spacex-crew-10-mission/)[![NASA AI, Open Science Advance Disaster Research and Recovery](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/science-enabling-technology/technology-highlights/2024/NGRx_Image_2.jpg)
+article23 hours ago](https://www.nasa.gov/general/experience-the-launch-of-nasas-spacex-crew-10-mission/)[![NASA AI, Open Science Advance Disaster Research and Recovery](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/science-enabling-technology/technology-highlights/2024/NGRx_Image_2.jpg)
 
 4 min read
 
 ### NASA AI, Open Science Advance Disaster Research and Recovery
 
-article6 days ago](https://science.nasa.gov/open-science/artificial-intelligence-hurricane-response/)[![NASA Data Reveals Role of Green Spaces in Cooling Cities](https://science.nasa.gov/wp-content/uploads/2024/11/sanaa-oli-20240608-1440.jpg)
+article7 days ago](https://science.nasa.gov/open-science/artificial-intelligence-hurricane-response/)[![NASA Data Reveals Role of Green Spaces in Cooling Cities](https://science.nasa.gov/wp-content/uploads/2024/11/sanaa-oli-20240608-1440.jpg)
 
 5 min read
 
@@ -247,13 +247,13 @@ Back
 
 ### Experience the Launch of NASA’s SpaceX Crew-10 Mission  
 
-article 16 hours ago](https://www.nasa.gov/general/experience-the-launch-of-nasas-spacex-crew-10-mission/)[![Framed by vegetation in the foreground and against the backdrop of a black night sky, NASA’s SLS (Space Launch System) rocket carrying the Orion spacecraft launches on the Artemis I flight test on Nov. 16, 2022, from Launch Complex 39B at NASA’s Kennedy Space Center in Florida.](https://www.nasa.gov/wp-content/uploads/2024/12/virtual-backgrounds-review-110424-page-03.png?w=1024)
+article 23 hours ago](https://www.nasa.gov/general/experience-the-launch-of-nasas-spacex-crew-10-mission/)[![Framed by vegetation in the foreground and against the backdrop of a black night sky, NASA’s SLS (Space Launch System) rocket carrying the Orion spacecraft launches on the Artemis I flight test on Nov. 16, 2022, from Launch Complex 39B at NASA’s Kennedy Space Center in Florida.](https://www.nasa.gov/wp-content/uploads/2024/12/virtual-backgrounds-review-110424-page-03.png?w=1024)
 
 8 min read
 
 ### New Artemis Virtual Meeting Backgrounds Released Celebrating Artemis I, Looking to Artemis II and Beyond
 
-article 16 hours ago](https://www.nasa.gov/humans-in-space/new-artemis-virtual-meeting-backgrounds-released-celebrating-artemis-i-looking-to-artemis-ii-and-beyond/)[![Europa Clipper illustration](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia26443-spacecraft-illustration.jpg?w=1024)
+article 23 hours ago](https://www.nasa.gov/humans-in-space/new-artemis-virtual-meeting-backgrounds-released-celebrating-artemis-i-looking-to-artemis-ii-and-beyond/)[![Europa Clipper illustration](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia26443-spacecraft-illustration.jpg?w=1024)
 
 5 min read
 
@@ -269,13 +269,13 @@ article 1 week ago](https://www.nasa.gov/missions/europa-clipper/nasas-europa-cl
 
 ### Experience the Launch of NASA’s SpaceX Crew-10 Mission  
 
-article 16 hours ago](https://www.nasa.gov/general/experience-the-launch-of-nasas-spacex-crew-10-mission/)[![Framed by vegetation in the foreground and against the backdrop of a black night sky, NASA’s SLS (Space Launch System) rocket carrying the Orion spacecraft launches on the Artemis I flight test on Nov. 16, 2022, from Launch Complex 39B at NASA’s Kennedy Space Center in Florida.](https://www.nasa.gov/wp-content/uploads/2024/12/virtual-backgrounds-review-110424-page-03.png?w=1024)
+article 23 hours ago](https://www.nasa.gov/general/experience-the-launch-of-nasas-spacex-crew-10-mission/)[![Framed by vegetation in the foreground and against the backdrop of a black night sky, NASA’s SLS (Space Launch System) rocket carrying the Orion spacecraft launches on the Artemis I flight test on Nov. 16, 2022, from Launch Complex 39B at NASA’s Kennedy Space Center in Florida.](https://www.nasa.gov/wp-content/uploads/2024/12/virtual-backgrounds-review-110424-page-03.png?w=1024)
 
 8 min read
 
 ### New Artemis Virtual Meeting Backgrounds Released Celebrating Artemis I, Looking to Artemis II and Beyond
 
-article 16 hours ago](https://www.nasa.gov/humans-in-space/new-artemis-virtual-meeting-backgrounds-released-celebrating-artemis-i-looking-to-artemis-ii-and-beyond/)[![Sierra Space’s LIFE (Large Integrated Flexible Environment) habitat following a full-scale ultimate burst pressure test at NASA’s Marshall Space Flight Center in Huntsville, Alabama](https://www.nasa.gov/wp-content/uploads/2024/11/sierra-space-image.png?w=1024)
+article 23 hours ago](https://www.nasa.gov/humans-in-space/new-artemis-virtual-meeting-backgrounds-released-celebrating-artemis-i-looking-to-artemis-ii-and-beyond/)[![Sierra Space’s LIFE (Large Integrated Flexible Environment) habitat following a full-scale ultimate burst pressure test at NASA’s Marshall Space Flight Center in Huntsville, Alabama](https://www.nasa.gov/wp-content/uploads/2024/11/sierra-space-image.png?w=1024)
 
 6 min read
 
@@ -291,13 +291,13 @@ article 1 week ago](https://www.nasa.gov/general/nasas-commercial-partners-make-
 
 ### Amendment 75: New Opportunity: A.64 FORTE Science Team
 
-article 11 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-75-new-opportunity-a-64-forte-science-team/)[![NASA AI, Open Science Advance Disaster Research and Recovery](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/science-enabling-technology/technology-highlights/2024/NGRx_Image_2.jpg)
+article 18 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-75-new-opportunity-a-64-forte-science-team/)[![NASA AI, Open Science Advance Disaster Research and Recovery](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/science-enabling-technology/technology-highlights/2024/NGRx_Image_2.jpg)
 
 4 min read
 
 ### NASA AI, Open Science Advance Disaster Research and Recovery
 
-article 6 days ago](https://science.nasa.gov/open-science/artificial-intelligence-hurricane-response/)[![NASA Data Reveals Role of Green Spaces in Cooling Cities](https://science.nasa.gov/wp-content/uploads/2024/11/sanaa-oli-20240608-1440.jpg)
+article 7 days ago](https://science.nasa.gov/open-science/artificial-intelligence-hurricane-response/)[![NASA Data Reveals Role of Green Spaces in Cooling Cities](https://science.nasa.gov/wp-content/uploads/2024/11/sanaa-oli-20240608-1440.jpg)
 
 5 min read
 
@@ -313,7 +313,7 @@ article 7 days ago](https://science.nasa.gov/earth/climate-change/nasa-data-reve
 
 ### What’s Up: December 2024 Skywatching Tips from NASA
 
-article 13 hours ago](https://science.nasa.gov/solar-system/skywatching/whats-up-december-2024-skywatching-tips-from-nasa/)[![December’s Night Sky Notes: Spot the King of Planets](https://images-assets.nasa.gov/image/PIA25019/PIA25019~large.jpg)
+article 20 hours ago](https://science.nasa.gov/solar-system/skywatching/whats-up-december-2024-skywatching-tips-from-nasa/)[![December’s Night Sky Notes: Spot the King of Planets](https://images-assets.nasa.gov/image/PIA25019/PIA25019~large.jpg)
 
 4 min read
 
@@ -325,7 +325,7 @@ article 4 days ago](https://science.nasa.gov/solar-system/skywatching/night-sky-
 
 ### Amendment 73: D.13 Astrophysics Pioneers Substantial Revisions
 
-article 6 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-73-d-13-astrophysics-pioneers-substantial-revisions/)
+article 7 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-73-d-13-astrophysics-pioneers-substantial-revisions/)
 
 ### Featured
 
@@ -357,19 +357,19 @@ article 1 week ago](https://science.nasa.gov/mission/excite/)
 
 ### F.5 FINESST: SMD’s Graduate Student Research Clarifications and Corrections
 
-article 11 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/f-5-finesst-smds-graduate-student-research-clarifications-and-corrections/)[![Amendment 75: New Opportunity: A.64 FORTE Science Team](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2024/fastestlake_oli_20240804.jpg)
+article 18 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/f-5-finesst-smds-graduate-student-research-clarifications-and-corrections/)[![Amendment 75: New Opportunity: A.64 FORTE Science Team](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2024/fastestlake_oli_20240804.jpg)
 
 2 min read
 
 ### Amendment 75: New Opportunity: A.64 FORTE Science Team
 
-article 11 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-75-new-opportunity-a-64-forte-science-team/)[![American Geophysical Union (AGU) 2024 logo](https://www.nasa.gov/wp-content/uploads/2024/10/agu-2024.jpg?w=449)
+article 18 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-75-new-opportunity-a-64-forte-science-team/)[![American Geophysical Union (AGU) 2024 logo](https://www.nasa.gov/wp-content/uploads/2024/10/agu-2024.jpg?w=449)
 
 2 min read
 
 ### OSDR at AGU 2024
 
-article 5 days ago](https://www.nasa.gov/osdr-at-agu-2024-2/)
+article 6 days ago](https://www.nasa.gov/osdr-at-agu-2024-2/)
 
 ### Highlights
 
@@ -379,7 +379,7 @@ article 5 days ago](https://www.nasa.gov/osdr-at-agu-2024-2/)
 
 ### NASA Experts Share Inspiring Stories of Perseverance to Students
 
-article 8 hours ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-experts-share-inspiring-stories-of-perseverance-to-students/)[![A woman wearing a black polo shirt with the NASA insignia, dark gray pants, and white shoes stands inside an aircraft hangar in front of a scaled aircraft model. The words “SUSAN Electrofan” and “PAX 180” are printed on a graphic along with fuselage, with a large NASA insignia in the center of the plane. The rear of the aircraft model, along with the wings and tail, are taken apart to display the inner components that make up its electrified propulsion system.](https://www.nasa.gov/wp-content/uploads/2024/11/grc-2024-c-12427-002-e1731959466240.jpg?w=1024)
+article 15 hours ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-experts-share-inspiring-stories-of-perseverance-to-students/)[![A woman wearing a black polo shirt with the NASA insignia, dark gray pants, and white shoes stands inside an aircraft hangar in front of a scaled aircraft model. The words “SUSAN Electrofan” and “PAX 180” are printed on a graphic along with fuselage, with a large NASA insignia in the center of the plane. The rear of the aircraft model, along with the wings and tail, are taken apart to display the inner components that make up its electrified propulsion system.](https://www.nasa.gov/wp-content/uploads/2024/11/grc-2024-c-12427-002-e1731959466240.jpg?w=1024)
 
 5 min read
 
@@ -423,19 +423,19 @@ article 2 weeks ago](https://www.nasa.gov/centers-and-facilities/ames/what-is-bi
 
 ### NASA Experts Share Inspiring Stories of Perseverance to Students
 
-article 8 hours ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-experts-share-inspiring-stories-of-perseverance-to-students/)[![F.5 FINESST: SMD’s Graduate Student Research Clarifications and Corrections](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/universe/homepage-updates/NGC-6357.jpg)
+article 15 hours ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-experts-share-inspiring-stories-of-perseverance-to-students/)[![F.5 FINESST: SMD’s Graduate Student Research Clarifications and Corrections](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/universe/homepage-updates/NGC-6357.jpg)
 
 1 min read
 
 ### F.5 FINESST: SMD’s Graduate Student Research Clarifications and Corrections
 
-article 11 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/f-5-finesst-smds-graduate-student-research-clarifications-and-corrections/)[![Aaron Yazzie, a Navajo man with black hair and glasses, stands with his arms crossed. He wears business professional attire with a navy blue jacket and beaded Indigenous tie making the NASA meatball logo. Behind him a large model of NASA's Mars Perseverance rover is visible.](https://www.nasa.gov/wp-content/uploads/2024/11/dct-jpl-yazzie-01-2023-09-29-1-crop.jpg?w=1024)
+article 18 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/f-5-finesst-smds-graduate-student-research-clarifications-and-corrections/)[![Aaron Yazzie, a Navajo man with black hair and glasses, stands with his arms crossed. He wears business professional attire with a navy blue jacket and beaded Indigenous tie making the NASA meatball logo. Behind him a large model of NASA's Mars Perseverance rover is visible.](https://www.nasa.gov/wp-content/uploads/2024/11/dct-jpl-yazzie-01-2023-09-29-1-crop.jpg?w=1024)
 
 4 min read
 
 ### Aaron Yazzie: Bridging Indigenous Heritage and Space Exploration
 
-article 5 days ago](https://www.nasa.gov/learning-resources/bridging-indigenous-heritage-and-space-exploration/)
+article 6 days ago](https://www.nasa.gov/learning-resources/bridging-indigenous-heritage-and-space-exploration/)
 
 ### Featured
 
@@ -445,7 +445,7 @@ article 5 days ago](https://www.nasa.gov/learning-resources/bridging-indigenous-
 
 ### Experience the Launch of NASA’s SpaceX Crew-10 Mission  
 
-article 16 hours ago](https://www.nasa.gov/general/experience-the-launch-of-nasas-spacex-crew-10-mission/)[![A person in a green flight suit watches as blue fluid floats out of a bottle during a microgravity flight.](https://www.nasa.gov/wp-content/uploads/2024/11/grc-1997-c-02184-e1732721530755.jpg?w=1024)
+article 23 hours ago](https://www.nasa.gov/general/experience-the-launch-of-nasas-spacex-crew-10-mission/)[![A person in a green flight suit watches as blue fluid floats out of a bottle during a microgravity flight.](https://www.nasa.gov/wp-content/uploads/2024/11/grc-1997-c-02184-e1732721530755.jpg?w=1024)
 
 4 min read
 
