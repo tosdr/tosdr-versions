@@ -342,9 +342,9 @@ Ente is a private cloud for your memories, with apps for mobile, desktop and web
 
 **Products**[Photos](https://ente.io/download)[Auth](https://ente.io/auth)LegacyComing Soon
 
-**Features**[Family plans](https://ente.io/blog/family-plans)[Sharing](https://ente.io/faq/features/share/)[Collaboration](https://ente.io/blog/collaborative-albums)Magic SearchComing Soon
+**Features**[Family plans](https://ente.io/blog/family-plans)[Sharing](https://ente.io/faq/features/share/)[Collaboration](https://ente.io/blog/collaborative-albums)[Advanced Search](https://ente.io/blog/machine-learning)
 
-**Technology**[Encryption](https://ente.io/architecture)[Replication](https://ente.io/reliability)[Edge ML](https://ente.io/blog/image-search-with-clip-ggml/)
+**Technology**[Encryption](https://ente.io/architecture)[Replication](https://ente.io/reliability)[Machine learning](https://ente.io/ml)
 
 **Compare**[Google Photos vs Ente](https://ente.io/compare/ente-vs-google-photos/)[Apple Photos vs Ente](https://ente.io/compare/ente-vs-apple-photos/)[Dropbox vs Ente](https://ente.io/compare/ente-vs-dropbox/)
 
