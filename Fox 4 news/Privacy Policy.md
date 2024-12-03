@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Despite water restoration, Ennis ISD classes canceled Tuesday due to ongoing boil water notice](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/5h-ennis-boil-water-notice_00.00.01.30.jpg?ve=1&tl=1)
+ [![Hannah Kobayashi: Missing Hawaii woman intentionally missed flight at LAX, police say](https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/11/32/18/hannah-.jpg?ve=1&tl=1)
 
- ![Despite water restoration, Ennis ISD classes canceled Tuesday due to ongoing boil water notice](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/5h-ennis-boil-water-notice_00.00.01.30.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ennis-boil-water-notice-class-canceled-tuesday)
+ ![Hannah Kobayashi: Missing Hawaii woman intentionally missed flight at LAX, police say](https://images.foxtv.com/images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/11/32/18/592/333/hannah-.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hannah-kobayashi-missing-hawaii-woman-intentionally-missed-flight-lax-lapd)
 
-### [Despite water restoration, Ennis ISD classes canceled Tuesday due to ongoing boil water notice](https://www.fox4news.com/news/ennis-boil-water-notice-class-canceled-tuesday)
+### [Hannah Kobayashi: Missing Hawaii woman intentionally missed flight at LAX, police say](https://www.fox4news.com/news/hannah-kobayashi-missing-hawaii-woman-intentionally-missed-flight-lax-lapd)
 
- [![Grand Prairie ISD could determine superintendent's fate in Monday special meeting](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/V-GPISD-SUPERINTENDENT-ON-LEAVE-10P_KDFW0582_146_m_00.00.03.56.jpg?ve=1&tl=1)
+ [![Wylie woman run over by high school teen looking to fight her younger brother: police](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/wylie-woman-run-over.png?ve=1&tl=1)
 
- ![Grand Prairie ISD could determine superintendent's fate in Monday special meeting](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/V-GPISD-SUPERINTENDENT-ON-LEAVE-10P_KDFW0582_146_m_00.00.03.56.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/grand-prairie-isd-could-determine-superintendents-fate-monday-special-meeting)
+ ![Wylie woman run over by high school teen looking to fight her younger brother: police](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/wylie-woman-run-over.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/wylie-woman-run-over-high-school-teen-looking-her-younger-brother-police)
 
-### [Grand Prairie ISD could determine superintendent's fate in Monday special meeting](https://www.fox4news.com/news/grand-prairie-isd-could-determine-superintendents-fate-monday-special-meeting)
+### [Wylie woman run over by high school teen looking to fight her younger brother: police](https://www.fox4news.com/news/wylie-woman-run-over-high-school-teen-looking-her-younger-brother-police)
 
- [![Sarah Boone sentence: Florida woman sentenced in boyfriend's suitcase murder](https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/12/32/18/sarah-boone-sentenced.jpg?ve=1&tl=1)
+ [![Is Enron making a comeback? Here's what we know](https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2019/09/32/18/enron_1464208673401_1348830_ver1.0.jpg?ve=1&tl=1)
 
- ![Sarah Boone sentence: Florida woman sentenced in boyfriend's suitcase murder](https://images.foxtv.com/images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/12/32/18/592/333/sarah-boone-sentenced.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/sarah-boone-sentencing-jorge-torres-murder)
+ ![Is Enron making a comeback? Here's what we know](https://images.foxtv.com/images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2019/09/32/18/592/333/enron_1464208673401_1348830_ver1.0.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/is-enron-making-comeback-heres-what-we-know)
 
-### [Sarah Boone sentence: Florida woman sentenced in boyfriend's suitcase murder](https://www.fox4news.com/news/sarah-boone-sentencing-jorge-torres-murder)
+### [Is Enron making a comeback? Here's what we know](https://www.fox4news.com/news/is-enron-making-comeback-heres-what-we-know)
 
- [![Dallas ISD school bus involved in multi-vehicle crash](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/snapshot-2024-12-02t164441.988.jpg?ve=1&tl=1)
+ [!['Juvenile feud' ends with North Richland Hills man killed, 3 teens charged with murder](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/stonybrook-shooting-murder-suspects.png?ve=1&tl=1)
 
- ![Dallas ISD school bus involved in multi-vehicle crash](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/snapshot-2024-12-02t164441.988.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-isd-bus-crash-northwest-highway-monday)
+ !['Juvenile feud' ends with North Richland Hills man killed, 3 teens charged with murder](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/stonybrook-shooting-murder-suspects.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/juvenile-feud-ends-north-richland-hills-man-killed-3-teens-charged-murder)
 
-### [Dallas ISD school bus involved in multi-vehicle crash](https://www.fox4news.com/news/dallas-isd-bus-crash-northwest-highway-monday)
+### ['Juvenile feud' ends with North Richland Hills man killed, 3 teens charged with murder](https://www.fox4news.com/news/juvenile-feud-ends-north-richland-hills-man-killed-3-teens-charged-murder)
 
- [![Beloved Mesquite youth football coach killed by drunk driver in wrong-way crash: police](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/sunnyvale-wrong-way-crash-jonathan-washtington-edgar-cortez.png?ve=1&tl=1)
+ [![Grand Prairie ISD superintendent Jorge Arredondo fired by school board](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/V-GPISD-SUPERINTENDENT-ON-LEAVE-10P_KDFW0582_146_m_00.00.03.56.jpg?ve=1&tl=1)
 
- ![Beloved Mesquite youth football coach killed by drunk driver in wrong-way crash: police](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/sunnyvale-wrong-way-crash-jonathan-washtington-edgar-cortez.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/john-washington-sunnyvale-crash-wrong-way)
+ ![Grand Prairie ISD superintendent Jorge Arredondo fired by school board](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/V-GPISD-SUPERINTENDENT-ON-LEAVE-10P_KDFW0582_146_m_00.00.03.56.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/grand-prairie-isd-could-determine-superintendents-fate-monday-special-meeting)
 
-### [Beloved Mesquite youth football coach killed by drunk driver in wrong-way crash: police](https://www.fox4news.com/news/john-washington-sunnyvale-crash-wrong-way)
+### [Grand Prairie ISD superintendent Jorge Arredondo fired by school board](https://www.fox4news.com/news/grand-prairie-isd-could-determine-superintendents-fate-monday-special-meeting)
 
 ###### [News](https://www.fox4news.com/news)
 
