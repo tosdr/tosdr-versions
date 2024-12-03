@@ -62,7 +62,7 @@ Vous avez désactivé JavaScript dans votre navigateur. Veuillez activer JavaScr
 Recherche de succursale
 -----------------------
 
-![Direction de la succursale](/medien/id/marketing/filialleiter/3272.jpg)
+![Direction de la succursale](/medien/id/marketing/filialleiter/.jpg)
 
 Nous vous conseillons volontiers.
 
@@ -138,8 +138,6 @@ Bon à savoir et offres spéciales](https://www.microspot.ch/fr/brand/lego)
 Bébé & Famille
 
 sécurité, confort et soins dès le début](https://www.microspot.ch/fr/cms/tout-pour-la-famille-bebe)
-
-[![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F1180x350-I24-SpP-12-P11-SBB-Halbtax5.jpg%3Fcontext%3DbWFzdGVyfGNtc3wyMzYwMTd8aW1hZ2UvanBlZ3xhRGcxTDJnd015OHhNVGd3ZURNMU1GOUpNalJmVTNCUVh6RXlYMUF4TVY5VFFrSmZTR0ZzWW5SaGVEVnpMbXB3WjFOMFlXZGxaRzl3ZEdsdGFYcGxaQzh4TVRnd2VETTFNRjlKTWpSZlUzQlFYekV5WDFBeE1WOVRRa0pmU0dGc1luUmhlRFZ6TG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkF8NDExMzRiZTQ2MDEwYTA2Mjc1NzJmYTZmODY5MjlhYmQxZDE4YzBlYjNiYzIyNDdiYjIxYzk2YzE5N2M5OWM3Yw&w=2360&q=75)![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F828x350-I24-SpP-12-P11-SBB-Halbtax5.jpg%3Fcontext%3DbWFzdGVyfGNtc3wxNTgwOTJ8aW1hZ2UvanBlZ3xhR0ZrTDJobE5DODRNamg0TXpVd1gwa3lORjlUY0ZCZk1USmZVREV4WDFOQ1FsOUlZV3hpZEdGNE5TNXFjR2RUZEdGblpXUnZjSFJwYldsNlpXUXZPREk0ZURNMU1GOUpNalJmVTNCUVh6RXlYMUF4TVY5VFFrSmZTR0ZzWW5SaGVEVXVhbkJuVTNSaFoyVmtiM0IwYVcxcGVtVmt8YTllMDA2MjM5ZmRkYTQwMjYxYTU1Y2JlMzU4ODhjN2Q3ZmYwZTU0MTRhY2Y3YWNiM2I4MmQwNjE2ZWI3ODg5MA&w=2360&q=75)](https://www.microspot.ch/fr/cms/offre-speciale)
 
 [![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F1180x350-I24-0743-CM1-DAB11.jpg%3Fcontext%3DbWFzdGVyfGNtc3w4NDAwM3xpbWFnZS9qcGVnfGFETmpMMmhoTUM4eE1UZ3dlRE0xTUY5Sk1qUmZNRGMwTTE5RFRURmZSRUZDTVRFdWFuQm5VM1JoWjJWa2IzQjBhVzFwZW1Wa0x6RXhPREI0TXpVd1gwa3lORjh3TnpRelgwTk5NVjlFUVVJeE1TNXFjR2RUZEdGblpXUnZjSFJwYldsNlpXUXxmN2RmZjg1ODI4Yzc5MTQzODNlMmRiOWM0YTM2MzRmMWFjN2I0NTU4MGI2MmNmMTRkMjhlYzZjYWU4YjUwMmIw&w=2360&q=75)![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F828x350-I24-0743-CM1-DAB5.jpg%3Fcontext%3DbWFzdGVyfGNtc3w3NzQ5NHxpbWFnZS9qcGVnfGFEbGxMMmd4TlM4NE1qaDRNelV3WDBreU5GOHdOelF6WDBOTk1WOUVRVUkxTG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkM4NE1qaDRNelV3WDBreU5GOHdOelF6WDBOTk1WOUVRVUkxTG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkF8OGRkODQwY2JkMjU2NThiYWQ2Mzg2NzM0YTViODE0NmQ5ODNjM2Y4NTM5MjA2MWJhNDhjZDA2NmM1OTViMWIyNQ&w=2360&q=75)](https://www.microspot.ch/fr/cms/dab)
 
@@ -219,17 +217,17 @@ Inscrivez-vous à notre newsletter et soyez parmi les premiers à être informé
 Achetez comme vous aimez
 ------------------------
 
-[Garantie Plus
+[Commandé aujourd'hui avant 20h
 
-prolongation de 24 mois de la garantie du fabricant](https://www.microspot.ch/fr/cms/service/garantie-plus)
+livré le lendemain](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
 [Retrait gratuit
 
 dans tous les magasins](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
-[Commandé aujourd'hui avant 20h
+[Frais de port gratuits pour livraison
 
-livré le lendemain](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
+à domicile dès CHF 49.-](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
 interdiscount.ch
 
