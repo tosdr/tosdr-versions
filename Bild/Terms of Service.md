@@ -207,6 +207,28 @@ Menü
     ===
     
 
+[BreakingNews
+
+Server ausgeknipst: BKA zerschlägt größten illegalen Online-Markt
+
+Server ausgeknipst: BKA zerschlägt größten illegalen Online-Markt
+
+Server ausgeknipst: BKA zerschlägt größten illegalen Online-Markt
+
+Server ausgeknipst: BKA zerschlägt größten illegalen Online-Markt
+
+Server ausgeknipst: BKA zerschlägt größten illegalen Online-Markt
+
+Server ausgeknipst: BKA zerschlägt größten illegalen Online-Markt
+
+Server ausgeknipst: BKA zerschlägt größten illegalen Online-Markt
+
+Server ausgeknipst: BKA zerschlägt größten illegalen Online-Markt
+
+Server ausgeknipst: BKA zerschlägt größten illegalen Online-Markt
+
+Server ausgeknipst: BKA zerschlägt größten illegalen Online-Markt](https://www.bild.de/politik/festnahme-in-frankfurt-bka-zerschlaegt-kriminelle-plattform-crimenetwork-674eef460651fa3999762ac4)
+
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
  AGB: Nutzungsbedingungen für die digitalen Angebote von BILD
