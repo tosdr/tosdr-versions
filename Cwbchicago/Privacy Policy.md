@@ -243,6 +243,16 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/P24-1-183A-motorcycle-social-media-326x245.jpg)](https://cwbchicago.com/2024/11/gunmen-are-luring-victims-into-a-robbery-trap-via-social-media-marketplace-ads-police-say.html "Gunmen are luring victims into a robbery trap via social media marketplace ads, police say")
+
+Oakland
+
+### [Gunmen are luring victims into a robbery trap via social media marketplace ads, police say](https://cwbchicago.com/2024/11/gunmen-are-luring-victims-into-a-robbery-trap-via-social-media-marketplace-ads-police-say.html "Gunmen are luring victims into a robbery trap via social media marketplace ads, police say")
+
+[November 30, 2024 8:58 AM](https://cwbchicago.com/2024/11)
+
+Anyone looking to buy a motorcycle through an online marketplace would be well advised to turn down any offers to complete a deal in one corner of the Oakland neighborhood, according to Chicago police.[](https://cwbchicago.com/2024/11/gunmen-are-luring-victims-into-a-robbery-trap-via-social-media-marketplace-ads-police-say.html "Gunmen are luring victims into a robbery trap via social media marketplace ads, police say")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/11/STANISLAV-ZHURAVEL-326x245.jpg)](https://cwbchicago.com/2024/11/man-gets-6-years-for-stabbing-69-year-old-aboard-cta-bus-in-the-south-loop.html "Man gets 6 years for stabbing 69-year-old aboard CTA bus in the South Loop")
 
 CTA
@@ -262,16 +272,6 @@ Englewood
 [November 30, 2024 7:22 AM](https://cwbchicago.com/2024/11)
 
 A migrant accused of possessing a loaded firearm during a traffic stop told Chicago cops that he carried the gun because somebody murdered his son and the police haven’t done anything about it, according to a CPD report. According to court records, this marks Brayan Corniel-Guitierrez’s seventh arrest in Cook County.[](https://cwbchicago.com/2024/11/migrant-tells-chicago-cops-he-carries-a-gun-because-his-son-got-murdered-and-they-didnt-do-anything-about-it-report.html "Migrant tells Chicago cops he carries a gun because his son got murdered and they didn’t do anything about it: report")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/William-Hall-326x245.jpg)](https://cwbchicago.com/2024/11/double-shooting-solved-after-records-show-he-rented-gunmans-get-away-scooter-officials-say.html "Double-shooting solved after records show he rented gunman’s get-away scooter, officials say")
-
-West Garfield Park
-
-### [Double-shooting solved after records show he rented gunman’s get-away scooter, officials say](https://cwbchicago.com/2024/11/double-shooting-solved-after-records-show-he-rented-gunmans-get-away-scooter-officials-say.html "Double-shooting solved after records show he rented gunman’s get-away scooter, officials say")
-
-[November 29, 2024 7:09 PM](https://cwbchicago.com/2024/11)
-
-A man required to register as a gun offender is facing new charges after Chicago police used scooter rental records to link him to a double shooting this summer.[](https://cwbchicago.com/2024/11/double-shooting-solved-after-records-show-he-rented-gunmans-get-away-scooter-officials-say.html "Double-shooting solved after records show he rented gunman’s get-away scooter, officials say")
 
 Search
 
