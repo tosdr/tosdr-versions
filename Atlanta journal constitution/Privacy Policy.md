@@ -1,3 +1,5 @@
+[Breaking: Snow flurries fall in North Georgia, below freezing temps in metro Atlanta](https://www.ajc.com/news/atlanta-news/get-ready-for-temps-in-the-20s-slim-chance-of-snow-flurries-in-north-georgia/4PEMXRYUIFDJ3E6UPIFALIGCZY/)
+
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1842)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1842)](https://www.ajc.com/)
 
 Log In
@@ -14,11 +16,11 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
+* [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-we-diners/DEJJJQTQQNA2XB2Z73PYAM2WUQ/)
 * [Politically Georgia](https://www.ajc.com/politics/politically-georgia/)
 * [Georgia Runoff Voter Guide](https://www.ajc.com/politics/georgia-voter-guide/)
 * [Holiday Guide](https://www.ajc.com/things-to-do/atlanta-winter-guide/)
 * [UATL](https://www.ajc.com/uatl/)
-* [High School Sports](https://www.ajc.com/sports/high-school/)
 * [Falcons](https://www.ajc.com/sports/atlanta-falcons/)
 
 ![Search icon](/pf/resources/icons/search-burger.svg?d=1842)
@@ -82,6 +84,7 @@ Log In
     * [Food & Drink](https://www.ajc.com/food-and-dining/food-and-drink/)
     * [Dining](https://www.ajc.com/food-and-dining/dining/)
     * [Dining Guides](https://www.ajc.com/food-and-dining/ajc-dining-guides/)
+    * [Destination Diners](https://www.ajc.com/food-and-dining/best-diners-in-georgia/)
     * [Vegan & Vegetarian Guide](https://www.ajc.com/food-and-dining/atlanta-vegan-vegetarian-dining-guide/)
     * [Openings & Closings](https://www.ajc.com/food-and-dining/openings-and-closings/)
     * [At Home With Atlanta Chefs](https://www.ajc.com/food-and-recipes/at-home-with-atlanta-chefs/)
