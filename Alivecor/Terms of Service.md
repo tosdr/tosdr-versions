@@ -1,3 +1,5 @@
+[Holiday Sale: Get $20 OFF KardiaMobile 6L | Shop Now](https://store.kardia.com/products/kardiamobile6l)
+
 [](https://kardia.com/)
 
 * [Devices](javascript:void(0);)
