@@ -259,15 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![Gardai launch investigation after young girl dies following fatal assault at private home](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Gardai launch investigation after young girl dies following fatal assault at private home")](https://www.derrynow.com/news/national-news/1670737/gardai-launch-investigation-after-young-girl-dies-following-fatal-assault-at-private-home.html)
-
-A post-mortem examination will be scheduled.
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[Gardai launch investigation after young girl dies following fatal assault at private home](https://www.derrynow.com/news/national-news/1670737/gardai-launch-investigation-after-young-girl-dies-following-fatal-assault-at-private-home.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![IN PICTURES: George Brolly's 80th birthday celebrations in McCourt's Bar](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: George Brolly's 80th birthday celebrations in McCourt's Bar")](https://www.derrynow.com/story-telling/pictures---videos/1671005/in-pictures-george-brolly-s-80th-birthday-celebrations-in-mccourt-s-bar.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
@@ -289,28 +280,12 @@ A post-mortem examination will be scheduled.
 [Well known area of Derry features in new hit Netflix series](https://www.derrynow.com/news/local-news/1670900/well-known-area-of-derry-features-in-new-hit-netflix-series.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![You can't park there! Lorry driver's boozy shortcut comes to sudden halt](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "You can't park there! Lorry driver's boozy shortcut comes to sudden halt")](https://www.derrynow.com/news/national-news/1670803/you-can-t-park-there-lorry-driver-s-boozy-shortcut-comes-to-sudden-end.html)
-
-Pictured: The small lorry which was apprehended on Grafton Street. Image by An Garda Síochána on X.
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[You can't park there! Lorry driver's boozy shortcut comes to sudden end](https://www.derrynow.com/news/national-news/1670803/you-can-t-park-there-lorry-driver-s-boozy-shortcut-comes-to-sudden-end.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Man with 119 previous convictions granted bail at Derry Magistrate's Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man with 119 previous convictions granted bail at Derry Magistrate's Court")](https://www.derrynow.com/news/local-news/1670907/man-with-119-previous-convictions-granted-bail-at-derry-magistrate-s-court.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
 [Man with 119 previous convictions granted bail at Derry Magistrate's Court](https://www.derrynow.com/news/local-news/1670907/man-with-119-previous-convictions-granted-bail-at-derry-magistrate-s-court.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man remanded for breach of bail conditions](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man remanded for breach of bail conditions")](https://www.derrynow.com/news/local-news/1670810/derry-man-remanded-for-breach-of-bail-conditions.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man remanded for breach of bail conditions](https://www.derrynow.com/news/local-news/1670810/derry-man-remanded-for-breach-of-bail-conditions.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![High ranking Chinese drugs gang member refused bail at Derry Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "High ranking Chinese drugs gang member refused bail at Derry Court")](https://www.derrynow.com/news/local-news/1670947/high-ranking-chinese-drugs-gang-member-refused-bail-at-derry-court.html)
 
@@ -319,25 +294,53 @@ Pictured: The small lorry which was apprehended on Grafton Street. Image by An G
 [High ranking Chinese drugs gang member refused bail at Derry Court](https://www.derrynow.com/news/local-news/1670947/high-ranking-chinese-drugs-gang-member-refused-bail-at-derry-court.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Donegal man remanded in custody at Derry Court charged with rape](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Donegal man remanded in custody at Derry Court charged with rape")](https://www.derrynow.com/news/local-news/1670861/donegal-man-remanded-in-custody-at-derry-court-charged-with-rape.html)
+[![Throwback Tuesday: Out and About @ Fallaghloon Hall’s 25th Anniversary (2014)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Out and About @ Fallaghloon Hall’s 25th Anniversary (2014)")](https://www.derrynow.com/story-telling/pictures---videos/1671009/throwback-tuesday-out-and-about-fallaghloon-halls-25th-anniversary-2014.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[Throwback Tuesday: Out and About @ Fallaghloon Hall’s 25th Anniversary (2014)](https://www.derrynow.com/story-telling/pictures---videos/1671009/throwback-tuesday-out-and-about-fallaghloon-halls-25th-anniversary-2014.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1671090/derry-death-notices-tuesday-december-3-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Tuesday, December 3, 2024](https://www.derrynow.com/news/deaths/1671090/derry-death-notices-tuesday-december-3-2024.html)
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Maghera lights up for Christmas](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Maghera lights up for Christmas")](https://www.derrynow.com/story-telling/pictures---videos/1671007/in-pictures-maghera-lights-up-for-christmas.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Maghera lights up for Christmas](https://www.derrynow.com/story-telling/pictures---videos/1671007/in-pictures-maghera-lights-up-for-christmas.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man who is allegedly 'heavily involved in the supply of cocaine in the city' granted bail](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man who is allegedly 'heavily involved in the supply of cocaine in the city' granted bail")](https://www.derrynow.com/news/local-news/1671607/man-who-is-allegedly-heavily-involved-in-the-supply-of-cocaine-in-the-city-granted-bail.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Donegal man remanded in custody at Derry Court charged with rape](https://www.derrynow.com/news/local-news/1670861/donegal-man-remanded-in-custody-at-derry-court-charged-with-rape.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Man who is allegedly 'heavily involved in the supply of cocaine in the city' granted bail](https://www.derrynow.com/news/local-news/1671607/man-who-is-allegedly-heavily-involved-in-the-supply-of-cocaine-in-the-city-granted-bail.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Police conduct searches in Derry as part of dissident republican investigation](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police conduct searches in Derry as part of dissident republican investigation")](https://www.derrynow.com/news/local-news/1670912/police-conduct-searches-in-derry-as-part-of-dissident-republican-investigation.html)
+[![Derry retailer raise over £12,000 for local children’s cancer charity](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry retailer raise over £12,000 for local children’s cancer charity")](https://www.derrynow.com/news/local-news/1670987/derry-retailer-raise-over-12-000-for-local-childrens-cancer-charity.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Police conduct searches in Derry as part of dissident republican investigation](https://www.derrynow.com/news/local-news/1670912/police-conduct-searches-in-derry-as-part-of-dissident-republican-investigation.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry retailer raises over £12,000 for local children’s cancer charity](https://www.derrynow.com/news/local-news/1670987/derry-retailer-raise-over-12-000-for-local-childrens-cancer-charity.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![Throwback Tuesday: Out and About @ Fallaghloon Hall’s 25th Anniversary (2014)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Out and About @ Fallaghloon Hall’s 25th Anniversary (2014)")](https://www.derrynow.com/story-telling/pictures---videos/1671009/throwback-tuesday-out-and-about-fallaghloon-halls-25th-anniversary-2014.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[Throwback Tuesday: Out and About @ Fallaghloon Hall’s 25th Anniversary (2014)](https://www.derrynow.com/story-telling/pictures---videos/1671009/throwback-tuesday-out-and-about-fallaghloon-halls-25th-anniversary-2014.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: George Brolly's 80th birthday celebrations in McCourt's Bar](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: George Brolly's 80th birthday celebrations in McCourt's Bar")](https://www.derrynow.com/story-telling/pictures---videos/1671005/in-pictures-george-brolly-s-80th-birthday-celebrations-in-mccourt-s-bar.html)
 
@@ -381,6 +384,15 @@ Multimedia
 [IN PICTURES: Derry's Resource Centre celebrates 50th Anniversary Service and Information Day](https://www.derrynow.com/story-telling/pictures---videos/1671006/in-pictures-derry-s-resource-centre-celebrates-50th-anniversary-service-and-information-day.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Heart-warming Derry advert reminds us to reach out at Christmas](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Heart-warming Derry advert reminds us to reach out at Christmas")](https://www.derrynow.com/news/home/1668351/heart-warming-derry-advert-reminds-us-to-reach-out-at-christmas.html)
+
+Still from John Lewis inspired Christmas advert which centres on two grieving men.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Heart-warming Derry advert reminds us to reach out at Christmas](https://www.derrynow.com/news/home/1668351/heart-warming-derry-advert-reminds-us-to-reach-out-at-christmas.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![IN PICTURES: John Mitchel's Claudy GAC Youth Presentation Night](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: John Mitchel's Claudy GAC Youth Presentation Night")](https://www.derrynow.com/story-telling/pictures---videos/1664783/in-pictures-john-mitchel-s-claudy-gac-youth-presentation-night.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
@@ -394,22 +406,6 @@ Multimedia
 
 [Throwback Thursday: Out and about at Bound for Boston 'Battle of the Bands' (2007)](https://www.derrynow.com/story-telling/pictures---videos/1664785/throwback-thursday-out-and-about-at-bound-for-boston-battle-of-the-bands-2007.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Seán Dolans GAC Annual Dinner Dance in The City Hotel](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Seán Dolans GAC Annual Dinner Dance in The City Hotel")](https://www.derrynow.com/story-telling/pictures---videos/1664007/in-pictures-sean-dolans-gac-annual-dinner-dance-in-the-city-hotel.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Seán Dolans GAC Annual Dinner Dance in The City Hotel](https://www.derrynow.com/story-telling/pictures---videos/1664007/in-pictures-sean-dolans-gac-annual-dinner-dance-in-the-city-hotel.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: Mayor holds reception to recognise work of Western Trust Respiratory Team](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Mayor holds reception to recognise work of Western Trust Respiratory Team")](https://www.derrynow.com/story-telling/pictures---videos/1665901/pictures-mayor-holds-reception-to-recognise-work-of-western-trust-respiratory-team.html)
-
-PICTURES: Mayor holds reception to recognise work of Western Trust Respiratory Team
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[PICTURES: Mayor holds reception to recognise work of Western Trust Respiratory Team](https://www.derrynow.com/story-telling/pictures---videos/1665901/pictures-mayor-holds-reception-to-recognise-work-of-western-trust-respiratory-team.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -513,51 +509,53 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1671090/derry-death-notices-tuesday-december-3-2024.html)
+[![Man refused to leave cell before Derry court appearance](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man refused to leave cell before Derry court appearance")](https://www.derrynow.com/news/local-news/1671649/man-refused-to-leave-cell-before-derry-court-appearance.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Tuesday, December 3, 2024](https://www.derrynow.com/news/deaths/1671090/derry-death-notices-tuesday-december-3-2024.html)
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![County Derry Conway Group acquires Parkdean Care Home with £7 million investment](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry Conway Group acquires Parkdean Care Home with £7 million investment")](https://www.derrynow.com/news/home/1671163/county-derry-conway-group-acquires-parkdean-care-home-with-7-million-investment.html)
-
-The County Derry group has acquired Parkdean care home in Belfast.
-
-[Home](https://www.derrynow.com/)
-
-[County Derry Conway Group acquires Parkdean Care Home with £7 million investment](https://www.derrynow.com/news/home/1671163/county-derry-conway-group-acquires-parkdean-care-home-with-7-million-investment.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Fantastic day of disability cricket in north west](https://www.derrynow.com/resizer/165/93/true/2024_12_02/Dis1-1733155902293.JPG--.JPG?1733155903350 "Fantastic day of disability cricket in north west")](https://www.derrynow.com/news/derry-sport/1671096/fantastic-day-of-disability-cricket-in-north-west.html)
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Fantastic day of disability cricket in north west](https://www.derrynow.com/news/derry-sport/1671096/fantastic-day-of-disability-cricket-in-north-west.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Ciaran Coll pens 18-month deal at Glentoran](https://www.derrynow.com/resizer/165/93/true/2024_12_02/Ciaran_Coll_and_Declan_Devine_Glentoran-1733168269137.jpg--.jpg?1733168270478 "Ciaran Coll pens 18-month deal at Glentoran")](https://www.derrynow.com/news/derry-sport/1671293/ciaran-coll-pens-18-month-deal-at-glentoran.html)
-
-Ciaran Coll was unveiled as a Glentoran player
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Ciaran Coll pens 18-month deal at Glentoran](https://www.derrynow.com/news/derry-sport/1671293/ciaran-coll-pens-18-month-deal-at-glentoran.html)
--------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry retailer raise over £12,000 for local children’s cancer charity](https://www.derrynow.com/resizer/165/93/true/2024_12_02/Image_2-1733149753399.JPG--.JPG?1733149755147 "Derry retailer raise over £12,000 for local children’s cancer charity")](https://www.derrynow.com/news/local-news/1670987/derry-retailer-raise-over-12-000-for-local-childrens-cancer-charity.html)
+Derry Magistrate's Court
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Derry retailer raise over £12,000 for local children’s cancer charity](https://www.derrynow.com/news/local-news/1670987/derry-retailer-raise-over-12-000-for-local-childrens-cancer-charity.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Man refused to leave cell before Derry court appearance](https://www.derrynow.com/news/local-news/1671649/man-refused-to-leave-cell-before-derry-court-appearance.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Budding Derry entrepreneurs invited to access support through Succeed in Enterprise Programme](https://www.derrynow.com/resizer/165/93/true/2024_12_02/28-11-24_Ent._NW_Launch_02-1733148618926.jpg--.jpg?1733148619995 "Budding Derry entrepreneurs invited to access support through Succeed in Enterprise Programme")](https://www.derrynow.com/news/local-news/1670968/budding-derry-entrepreneurs-invited-to-access-support-through-succeed-in-enterprise-programme.html)
+[![SOS Causeway Hospital representatives meet with NIAS (Northern Ireland Ambulance Service) Director of Operations and Medical Director.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "SOS Causeway Hospital representatives meet with NIAS (Northern Ireland Ambulance Service) Director of Operations and Medical Director.")](https://www.derrynow.com/news/county-derry-post/1671609/sos-causeway-hospital-representatives-meet-with-nias-northern-ireland-ambulance-service-director-of-operations-and-medical-director.html)
+
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+[SOS Causeway Hospital representatives meet with NIAS (Northern Ireland Ambulance Service) Director of Operations and Medical Director.](https://www.derrynow.com/news/county-derry-post/1671609/sos-causeway-hospital-representatives-meet-with-nias-northern-ireland-ambulance-service-director-of-operations-and-medical-director.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Utility companies dug up NI roads 55,000 times in a year, report finds](https://www.derrynow.com/resizer/165/93/true/pa/2024_12_03/1733184311433_0.jpg--.jpg?1733184311576 "Utility companies dug up NI roads 55,000 times in a year, report finds")](https://www.derrynow.com/news/local-news/1671552/utility-companies-dug-up-ni-roads-55-000-times-in-a-year-report-finds.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Budding Derry entrepreneurs invited to access support through Succeed in Enterprise Programme](https://www.derrynow.com/news/local-news/1670968/budding-derry-entrepreneurs-invited-to-access-support-through-succeed-in-enterprise-programme.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Utility companies dug up NI roads 55,000 times in a year, report finds](https://www.derrynow.com/news/local-news/1671552/utility-companies-dug-up-ni-roads-55-000-times-in-a-year-report-finds.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man who is allegedly 'heavily involved in the supply of cocaine in the city' granted bail](https://www.derrynow.com/resizer/165/93/true/1580370016067.JPG--.JPG?1580370017604 "Man who is allegedly 'heavily involved in the supply of cocaine in the city' granted bail")](https://www.derrynow.com/news/local-news/1671607/man-who-is-allegedly-heavily-involved-in-the-supply-of-cocaine-in-the-city-granted-bail.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man who is allegedly 'heavily involved in the supply of cocaine in the city' granted bail](https://www.derrynow.com/news/local-news/1671607/man-who-is-allegedly-heavily-involved-in-the-supply-of-cocaine-in-the-city-granted-bail.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Glenn Miller & Peter Jennings](https://www.derrynow.com/resizer/165/93/true/2024_12_03/Glen_Miller_and_Peter_Jennings_-1733219605361.jpg--.jpg?1733219606195 "Glenn Miller & Peter Jennings")](https://www.derrynow.com/news/county-derry-post/1671538/from-derry-to-ukraine-claudy-man-glen-miller-and-local-volunteers-champion-aid-efforts-amid-war.html)
+
+Photo Credit FiFi Garrett
+
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+[From Derry to Ukraine: Claudy man Glen Miller and Local Volunteers Champion Aid Efforts Amid War](https://www.derrynow.com/news/county-derry-post/1671538/from-derry-to-ukraine-claudy-man-glen-miller-and-local-volunteers-champion-aid-efforts-amid-war.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry’s Joshua Concannon appearing on The Late, Late Toy Show](https://www.derrynow.com/resizer/165/93/true/2024_12_03/Derry_s_Joshua_Concannon_who_is_appearing_on_the_Late%2C_Late_Toy_Show_on_Friday_night.-1733218362349_1733220733.jpg--.jpg?1733220733132 "Derry’s Joshua Concannon appearing on The Late, Late Toy Show")](https://www.derrynow.com/news/local-news/1671524/derrys-joshua-concannon-appearing-on-the-late-late-toy-show.html)
+
+Derry’s Joshua Concannon who is appearing on The Late, Late Toy Show on Friday.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry’s Joshua Concannon appearing on The Late, Late Toy Show](https://www.derrynow.com/news/local-news/1671524/derrys-joshua-concannon-appearing-on-the-late-late-toy-show.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
