@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What type of ovarian cancer is caused by talc?](https://www.pintas.com/wp-content/uploads/2020/07/johnson-and-johnson-talcum-powder-lawsuit-lawyerwhat-type-of-ovarian-cancer-is-caused-by-talc-scaled.jpg "What Type of Ovarian Cancer Is Caused By Talc?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/what-type-of-ovarian-cancer-is-caused-by-talc/ "What Type of Ovarian Cancer Is Caused By Talc?")
+[![Are elderly people given lots of rules at nursing homes?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-are-elderly-people-given-lots-of-rules-at-nursing-homes-scaled.jpg "Are Elderly People Given Lots of Rules at Nursing Homes?")](https://www.pintas.com/faq/are-elderly-people-given-lots-of-rules-at-nursing-homes/ "Are Elderly People Given Lots of Rules at Nursing Homes?")
 
-[#### What Type of Ovarian Cancer Is Caused By Talc?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/what-type-of-ovarian-cancer-is-caused-by-talc/)
+[#### Are Elderly People Given Lots of Rules at Nursing Homes?](https://www.pintas.com/faq/are-elderly-people-given-lots-of-rules-at-nursing-homes/)
 
-[![What is the treatment for bedsores?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-is-the-treatment-for-bedsores-scaled.jpg "What Is the Treatment for Bedsores?")](https://www.pintas.com/faq/what-is-the-treatment-for-bedsores/ "What Is the Treatment for Bedsores?")
+[![Does anyone survive mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-does-anyone-survive-mesothelioma.jpg "Does Anyone Survive Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/does-anyone-survive-mesothelioma/ "Does Anyone Survive Mesothelioma?")
 
-[#### What Is the Treatment for Bedsores?](https://www.pintas.com/faq/what-is-the-treatment-for-bedsores/)
+[#### Does Anyone Survive Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/does-anyone-survive-mesothelioma/)
 
-[![Why is talc bad for skin?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-why-is-talc-bad-for-skin-scaled.jpg "Why Is Talc Bad for Skin?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/is-talc-bad-for-skin "Why Is Talc Bad for Skin?")
+[![Criminal prosecution of assisted living abuse](https://www.pintas.com/wp-content/uploads/2021/02/practice-areas-personal-injury-nursing-home-abuse-lawyer-is-assisted-living-abuse-a-criminal-offense-300x200.jpg "Criminal Prosecution of Assisted Living Abuse")](https://www.pintas.com/faq/is-assisted-living-abuse-a-criminal-offense/ "Criminal Prosecution of Assisted Living Abuse")
 
-[#### Why Is Talc Bad for Skin?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/is-talc-bad-for-skin)
+[#### Criminal Prosecution of Assisted Living Abuse](https://www.pintas.com/faq/is-assisted-living-abuse-a-criminal-offense/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Phone
+Email
 
 This field is for validation purposes and should be left unchanged.
 
