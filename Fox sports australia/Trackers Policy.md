@@ -48,68 +48,66 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250502)
 * [One-Day Cup
     
-    3/12 14:05 AEST
-    
     |     |     |
     | --- | --- |
-    | TAS | –   |
-    | QLD | –   |
+    | TAS | 1 /44 |
+    | QLD | 6 /319 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODD2024-250114)
 * NFL
     
 * [NFL
     
-    1st Qtr
+    Full Time
     
     |     |     |
     | --- | --- |
-    | DEN | 7   |
-    | CLE | 7   |
+    | DEN | 41  |
+    | CLE | 32  |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251316)
 * Basketball
     
 * [NBA
     
-    Half Time
+    Full Time
     
     |     |     |
     | --- | --- |
-    | ATL | 58  |
-    | NO  | 59  |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25011207/box-score)
-* [NBA
-    
-    Half Time
-    
-    |     |     |
-    | --- | --- |
-    | BOS | 60  |
-    | MIA | 45  |
+    | BOS | 108 |
+    | MIA | 89  |
     
     Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010296/box-score)
 * [NBA
     
-    2nd Qtr
+    Full Time
     
     |     |     |
     | --- | --- |
-    | CHI | 37  |
-    | BKN | 40  |
+    | ATL | 124 |
+    | NO  | 112 |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010297/box-score)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25011207/box-score)
 * [NBA
     
-    2nd Qtr
+    Full Time
     
     |     |     |
     | --- | --- |
-    | MIN | 42  |
-    | LAL | 31  |
+    | MIN | 109 |
+    | LAL | 80  |
     
     Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25011056/box-score)
+* [NBA
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | CHI | 128 |
+    | BKN | 102 |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010297/box-score)
 * Motorsport
     
 * [Formula 1
@@ -122,6 +120,28 @@ FOX SCORES
     |     |
     
     Race Centre](https://www.foxsports.com.au/motorsport/formula-one/race-centre?meetingid=598)
+* Football
+    
+* [Premier League
+    
+    4/12 6:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | IPS | –   |
+    | CRY | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-251404)
+* [Premier League
+    
+    4/12 7:15 AEST
+    
+    |     |     |
+    | --- | --- |
+    | LEI | –   |
+    | WHU | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-251405)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
