@@ -76,6 +76,12 @@ Latest news
 
 ### THE TATTOOIST’S SON: JOURNEY TO AUSCHWITZ COMING TO SKY HISTORY](https://www.aenetworks.tv/news/tattooists-son-journey-auschwitz-coming-sky-history)
 
+    [![COSMO PREMIERES A NEW SHORT FILM SUGAR](/s3/files/styles/card_tablet/public/2024-12/LONDRES_5297X2980_SUGAR%20cd.jpg?itok=U8tCz_Qo)
+
+26 November 2024
+
+### COSMO PREMIERES SUGAR, A NEW SHORT FILM ADDRESSING ‘SUGAR DATING’ PHENOMENON: A NEW FORM OF COVERT PROSTITUTION](https://www.aenetworks.tv/news/spain/cosmo-premieres-sugar-new-short-film-addressing-sugar-dating-phenomenon-new-form-covert)
+
     [![Unbreakable Series on crime+Investigation](https://hearstnetworkscorp.s3.eu-west-2.amazonaws.com/s3fs-public/styles/card_tablet/public/2024-11/Unbreakable_Survivor_Stories_1920x1080_CLEAN_0.jpg?VersionId=vumZiJUgBjkCnbF9HnnIzkzIUrOBGADC&itok=BHM7hHxn)
 
 25 November 2024
@@ -87,12 +93,6 @@ Latest news
 11 November 2024
 
 ### CRIME+INVESTIGATION® EXPLORES THE DARK WORLD OF THE EUNUCH MAKER IN NEW DOCUMENTARY](https://www.aenetworks.tv/news/uk/crimeinvestigationr-explores-dark-world-eunuch-maker-new-documentary)
-
-    [![Beau Greaves during the WDF World Darts Championship 2023, ](https://hearstnetworkscorp.s3.eu-west-2.amazonaws.com/s3fs-public/styles/card_tablet/public/2024-10/Blaze%20on%20Darts%20-%20Beau%20Greaves%20WDF%20Darts%20CD%20new.jpg?VersionId=yuzjaOalwuuJQ8g3_lvy5dfupzT8jo3W&itok=UPQzN4Q0)
-
-30 October 2024
-
-### BLAZE®TO AIR THE 2024 LAKESIDE WORLD DARTS CHAMPIONSHIPS LIVE AND EXCLUSIVE](https://www.aenetworks.tv/news/uk/blazerto-air-2024-lakeside-world-darts-championships-live-and-exclusive)
 
 Corporate
 ---------
