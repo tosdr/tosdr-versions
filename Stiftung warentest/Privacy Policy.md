@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Sonnen­creme fürs Gesicht: Teuer und nicht immer zuver­lässig](https://www.test.de/Sonnencreme-fuers-Gesicht-Teuer-und-nicht-immer-zuverlaessig-6120418-0/ "Sonnencreme fürs Gesicht - Teuer und nicht immer zuverlässig")
-* [Investieren in Gold: Wie umgehen mit der Gold­rallye?](https://www.test.de/Investieren-in-Gold-Wie-umgehen-mit-der-Goldrallye-6105829-0/ "Investieren in Gold - Wie umgehen mit der Goldrallye?")
-* [Verpackungs­ärger: Vivani-Schokoriegel](https://www.test.de/Verpackungsaerger-Vivani-Schokoriegel-5970152-0/ "Verpackungsärger - Vivani-Schokoriegel")
-* [Nasenduschen: Vier spülen sanft die Nase](https://www.test.de/Nasenduschen-Vier-spuelen-sanft-die-Nase-6180129-0/ "Nasenduschen - Vier spülen sanft die Nase")
-* [Digitale Gerichts­verfahren: Urteil per Video­konferenz](https://www.test.de/Digitale-Gerichtsverfahren-Urteil-per-Videokonferenz-6051335-0/ "Digitale Gerichtsverfahren - Urteil per Videokonferenz")
-* [Mutmacher: Schluss mit den Gebührentricks!](https://www.test.de/Mutmacher-Schluss-mit-den-Gebuehrentricks-5953407-0/ "Mutmacher - Schluss mit den Gebührentricks!")
+* [Gut essen mit der Stiftung Warentest: Irish Stew](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Irish-Stew-6052730-0/ "Gut essen mit der Stiftung Warentest - Irish Stew")
+* [Konto­voll­macht: In drei einfachen Schritten zur Bank­voll­macht](https://www.test.de/Gewusst-wie-Bankvollmacht-6118803-0/ "Kontovollmacht - In drei einfachen Schritten zur Bankvollmacht")
+* [Krankenkasse wechseln: In vier Schritten zur neuen Kasse](https://www.test.de/Gewusst-wie-Krankenkasse-wechseln-6159359-0/ "Krankenkasse wechseln - In vier Schritten zur neuen Kasse")
+* [Fahr­rad-Fake-Shops: Vorsicht, diese Räder gibt es gar nicht!](https://www.test.de/Fahrrad-Fake-Shops-Vorsicht-diese-Raeder-gibt-es-gar-nicht-6115252-0/ "Fahrrad-Fake-Shops - Vorsicht, diese Räder gibt es gar nicht!")
+* [Suppenpulver und Suppenwürfel: Gute für eine schnelle Brühe](https://www.test.de/Suppenpulver-und-Suppenwuerfel-Gute-fuer-eine-schnelle-Bruehe-6074089-0/ "Suppenpulver und Suppenwürfel - Gute für eine schnelle Brühe")
+* [TV-Tonspur „Klare Sprache“ im Test: Besser verstehen, was die Schauspieler sagen](https://www.test.de/TV-Tonspur-Klare-Sprache-im-Test-Besser-verstehen-was-die-Schauspieler-sagen-6074291-0/ "TV-Tonspur „Klare Sprache“ im Test - Besser verstehen, was die Schauspieler sagen")
 
 Weitere Informationen
 
@@ -3871,12 +3871,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Sonnen­creme fürs Gesicht: Teuer und nicht immer zuver­lässig](https://www.test.de/Sonnencreme-fuers-Gesicht-Teuer-und-nicht-immer-zuverlaessig-6120418-0/ "Sonnencreme fürs Gesicht - Teuer und nicht immer zuverlässig")
-* [Investieren in Gold: Wie umgehen mit der Gold­rallye?](https://www.test.de/Investieren-in-Gold-Wie-umgehen-mit-der-Goldrallye-6105829-0/ "Investieren in Gold - Wie umgehen mit der Goldrallye?")
-* [Verpackungs­ärger: Vivani-Schokoriegel](https://www.test.de/Verpackungsaerger-Vivani-Schokoriegel-5970152-0/ "Verpackungsärger - Vivani-Schokoriegel")
-* [Nasenduschen: Vier spülen sanft die Nase](https://www.test.de/Nasenduschen-Vier-spuelen-sanft-die-Nase-6180129-0/ "Nasenduschen - Vier spülen sanft die Nase")
-* [Digitale Gerichts­verfahren: Urteil per Video­konferenz](https://www.test.de/Digitale-Gerichtsverfahren-Urteil-per-Videokonferenz-6051335-0/ "Digitale Gerichtsverfahren - Urteil per Videokonferenz")
-* [Mutmacher: Schluss mit den Gebührentricks!](https://www.test.de/Mutmacher-Schluss-mit-den-Gebuehrentricks-5953407-0/ "Mutmacher - Schluss mit den Gebührentricks!")
+* [Gut essen mit der Stiftung Warentest: Irish Stew](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Irish-Stew-6052730-0/ "Gut essen mit der Stiftung Warentest - Irish Stew")
+* [Konto­voll­macht: In drei einfachen Schritten zur Bank­voll­macht](https://www.test.de/Gewusst-wie-Bankvollmacht-6118803-0/ "Kontovollmacht - In drei einfachen Schritten zur Bankvollmacht")
+* [Krankenkasse wechseln: In vier Schritten zur neuen Kasse](https://www.test.de/Gewusst-wie-Krankenkasse-wechseln-6159359-0/ "Krankenkasse wechseln - In vier Schritten zur neuen Kasse")
+* [Fahr­rad-Fake-Shops: Vorsicht, diese Räder gibt es gar nicht!](https://www.test.de/Fahrrad-Fake-Shops-Vorsicht-diese-Raeder-gibt-es-gar-nicht-6115252-0/ "Fahrrad-Fake-Shops - Vorsicht, diese Räder gibt es gar nicht!")
+* [Suppenpulver und Suppenwürfel: Gute für eine schnelle Brühe](https://www.test.de/Suppenpulver-und-Suppenwuerfel-Gute-fuer-eine-schnelle-Bruehe-6074089-0/ "Suppenpulver und Suppenwürfel - Gute für eine schnelle Brühe")
+* [TV-Tonspur „Klare Sprache“ im Test: Besser verstehen, was die Schauspieler sagen](https://www.test.de/TV-Tonspur-Klare-Sprache-im-Test-Besser-verstehen-was-die-Schauspieler-sagen-6074291-0/ "TV-Tonspur „Klare Sprache“ im Test - Besser verstehen, was die Schauspieler sagen")
 
 Weitere spannende Themen
 
@@ -3891,12 +3891,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Sonnen­creme fürs Gesicht: Teuer und nicht immer zuver­lässig](https://www.test.de/Sonnencreme-fuers-Gesicht-Teuer-und-nicht-immer-zuverlaessig-6120418-0/ "Sonnencreme fürs Gesicht - Teuer und nicht immer zuverlässig")
-* [Investieren in Gold: Wie umgehen mit der Gold­rallye?](https://www.test.de/Investieren-in-Gold-Wie-umgehen-mit-der-Goldrallye-6105829-0/ "Investieren in Gold - Wie umgehen mit der Goldrallye?")
-* [Verpackungs­ärger: Vivani-Schokoriegel](https://www.test.de/Verpackungsaerger-Vivani-Schokoriegel-5970152-0/ "Verpackungsärger - Vivani-Schokoriegel")
-* [Nasenduschen: Vier spülen sanft die Nase](https://www.test.de/Nasenduschen-Vier-spuelen-sanft-die-Nase-6180129-0/ "Nasenduschen - Vier spülen sanft die Nase")
-* [Digitale Gerichts­verfahren: Urteil per Video­konferenz](https://www.test.de/Digitale-Gerichtsverfahren-Urteil-per-Videokonferenz-6051335-0/ "Digitale Gerichtsverfahren - Urteil per Videokonferenz")
-* [Mutmacher: Schluss mit den Gebührentricks!](https://www.test.de/Mutmacher-Schluss-mit-den-Gebuehrentricks-5953407-0/ "Mutmacher - Schluss mit den Gebührentricks!")
+* [Gut essen mit der Stiftung Warentest: Irish Stew](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Irish-Stew-6052730-0/ "Gut essen mit der Stiftung Warentest - Irish Stew")
+* [Konto­voll­macht: In drei einfachen Schritten zur Bank­voll­macht](https://www.test.de/Gewusst-wie-Bankvollmacht-6118803-0/ "Kontovollmacht - In drei einfachen Schritten zur Bankvollmacht")
+* [Krankenkasse wechseln: In vier Schritten zur neuen Kasse](https://www.test.de/Gewusst-wie-Krankenkasse-wechseln-6159359-0/ "Krankenkasse wechseln - In vier Schritten zur neuen Kasse")
+* [Fahr­rad-Fake-Shops: Vorsicht, diese Räder gibt es gar nicht!](https://www.test.de/Fahrrad-Fake-Shops-Vorsicht-diese-Raeder-gibt-es-gar-nicht-6115252-0/ "Fahrrad-Fake-Shops - Vorsicht, diese Räder gibt es gar nicht!")
+* [Suppenpulver und Suppenwürfel: Gute für eine schnelle Brühe](https://www.test.de/Suppenpulver-und-Suppenwuerfel-Gute-fuer-eine-schnelle-Bruehe-6074089-0/ "Suppenpulver und Suppenwürfel - Gute für eine schnelle Brühe")
+* [TV-Tonspur „Klare Sprache“ im Test: Besser verstehen, was die Schauspieler sagen](https://www.test.de/TV-Tonspur-Klare-Sprache-im-Test-Besser-verstehen-was-die-Schauspieler-sagen-6074291-0/ "TV-Tonspur „Klare Sprache“ im Test - Besser verstehen, was die Schauspieler sagen")
 
 Neueste Tests
 
@@ -3909,12 +3909,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Sonnen­creme fürs Gesicht: Teuer und nicht immer zuver­lässig](https://www.test.de/Sonnencreme-fuers-Gesicht-Teuer-und-nicht-immer-zuverlaessig-6120418-0/ "Sonnencreme fürs Gesicht - Teuer und nicht immer zuverlässig")
-* [Investieren in Gold: Wie umgehen mit der Gold­rallye?](https://www.test.de/Investieren-in-Gold-Wie-umgehen-mit-der-Goldrallye-6105829-0/ "Investieren in Gold - Wie umgehen mit der Goldrallye?")
-* [Verpackungs­ärger: Vivani-Schokoriegel](https://www.test.de/Verpackungsaerger-Vivani-Schokoriegel-5970152-0/ "Verpackungsärger - Vivani-Schokoriegel")
-* [Nasenduschen: Vier spülen sanft die Nase](https://www.test.de/Nasenduschen-Vier-spuelen-sanft-die-Nase-6180129-0/ "Nasenduschen - Vier spülen sanft die Nase")
-* [Digitale Gerichts­verfahren: Urteil per Video­konferenz](https://www.test.de/Digitale-Gerichtsverfahren-Urteil-per-Videokonferenz-6051335-0/ "Digitale Gerichtsverfahren - Urteil per Videokonferenz")
-* [Mutmacher: Schluss mit den Gebührentricks!](https://www.test.de/Mutmacher-Schluss-mit-den-Gebuehrentricks-5953407-0/ "Mutmacher - Schluss mit den Gebührentricks!")
+* [Gut essen mit der Stiftung Warentest: Irish Stew](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Irish-Stew-6052730-0/ "Gut essen mit der Stiftung Warentest - Irish Stew")
+* [Konto­voll­macht: In drei einfachen Schritten zur Bank­voll­macht](https://www.test.de/Gewusst-wie-Bankvollmacht-6118803-0/ "Kontovollmacht - In drei einfachen Schritten zur Bankvollmacht")
+* [Krankenkasse wechseln: In vier Schritten zur neuen Kasse](https://www.test.de/Gewusst-wie-Krankenkasse-wechseln-6159359-0/ "Krankenkasse wechseln - In vier Schritten zur neuen Kasse")
+* [Fahr­rad-Fake-Shops: Vorsicht, diese Räder gibt es gar nicht!](https://www.test.de/Fahrrad-Fake-Shops-Vorsicht-diese-Raeder-gibt-es-gar-nicht-6115252-0/ "Fahrrad-Fake-Shops - Vorsicht, diese Räder gibt es gar nicht!")
+* [Suppenpulver und Suppenwürfel: Gute für eine schnelle Brühe](https://www.test.de/Suppenpulver-und-Suppenwuerfel-Gute-fuer-eine-schnelle-Bruehe-6074089-0/ "Suppenpulver und Suppenwürfel - Gute für eine schnelle Brühe")
+* [TV-Tonspur „Klare Sprache“ im Test: Besser verstehen, was die Schauspieler sagen](https://www.test.de/TV-Tonspur-Klare-Sprache-im-Test-Besser-verstehen-was-die-Schauspieler-sagen-6074291-0/ "TV-Tonspur „Klare Sprache“ im Test - Besser verstehen, was die Schauspieler sagen")
 
 Stiftung Warentest
 
