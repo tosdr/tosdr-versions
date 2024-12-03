@@ -95,59 +95,67 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Days of Praise
+More Creation Q&A
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/who-is-faithful)
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/does_universe_look_old.jpg)](https://www.icr.org/article/does-the-universe-look-old)
 
-[Who Is Faithful?](https://www.icr.org/article/who-is-faithful/)
+[Does the Universe Look Old?](https://www.icr.org/article/does-the-universe-look-old/)
 
-“Most men will proclaim every one his own goodness: but a faithful man who can find?” (Proverbs 20:6) Faithfulness is like a rare...
+Since distant galaxies are billions of light-years away, some understandably assume that distant starlight must have taken billions of years to reach...
 
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/valley-blessing)
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/why_dont_they_believe_Creation.jpg)](https://www.icr.org/article/why-dont-they-believe-in-creation)
 
-[The Valley of Blessing](https://www.icr.org/article/valley-blessing/)
+[Why Don't They Believe in Creation?](https://www.icr.org/article/why-dont-they-believe-in-creation/)
 
-“And on the fourth day they assembled themselves in the valley of Berachah; for there they blessed the LORD: therefore the name of the same...
+After an ICR scientist presents convincing evidence for biblical creation, listeners often ask, “If all you just said is true, then why don’t...
 
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/savor-life-or-death)
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/what_happend_to_dinos.jpg)](https://www.icr.org/article/what-happened-to-dinosaurs-after-the-flood)
 
-[Savor of Life or Death](https://www.icr.org/article/savor-life-or-death/)
+[What Happened to Dinosaurs after the Flood?](https://www.icr.org/article/what-happened-to-dinosaurs-after-the-flood/)
 
-“For we are unto God a sweet savour of Christ, in them that are saved, and in them that perish: To the one we are the savour of death unto...
+Genesis says that “every beast after its kind…went into the ark to Noah, two by two, of all flesh in which is the breath of life.”1...
 
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
 
 Shop Related Products
 
-[](https://store.icr.org/.html)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10027359/file.jpg)
 
-$
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10475689/file.jpg)
-
-The Remarkable Wisdom of Solomon](https://store.icr.org/dr-henry-morris-the-remarkable-wisdom-of-solomon.html)
-
-$13.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10474599/file.jpg)
-
-The Biblical Basis for Modern Science](https://store.icr.org/dr-henry-morris-the-biblical-basis-for-modern-scie.html)
-
-$19.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10472152/file.jpg)
-
-Biblical Creationism](https://store.icr.org/dr-henry-morris-biblical-creationism.html)
+The Global Flood](https://store.icr.org/dr-john-morris-the-global-flood.html)
 
 $14.99
 
+$19.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10027370/file.jpg)
+
+The Global Flood - eBook](https://store.icr.org/dr-john-morris-the-global-flood-ebook.html)
+
+$9.99
+
+$19.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/15818899/file.jpg)
+
+The Fossil Record - eBook](https://store.icr.org/the-fossil-record-ebook.html)
+
+$9.99
+
+$19.99
+
 [](https://store.icr.org/.html)
 
 $
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/5202651/file.jpg)
+
+The Fossil Record](https://store.icr.org/dr-john-morris-the-fossil-record.html)
+
+$19.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
