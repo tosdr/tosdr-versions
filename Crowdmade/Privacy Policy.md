@@ -34,10 +34,6 @@ Your cart is currently empty.
 
 View more
 
-Pause slideshow Play slideshow
-
-Spend more, earn more:Get $5 for every $35 spent
-
 [Home](https://crowdmade.com/ "Back to the frontpage") / Privacy Policy
 
 Privacy Policy
