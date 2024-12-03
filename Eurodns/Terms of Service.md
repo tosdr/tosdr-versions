@@ -40,7 +40,6 @@ SUPPORT
 * [SSL](https://www.eurodns.com/ssl-certificate)
 * [EMAIL](https://www.eurodns.com/email-cloud-suite)
 * [DNS](https://www.eurodns.com/dns-services)
-* [BLACK FRIDAY](https://www.eurodns.com/sale/black-friday-cyber-monday)Sale
 
 * [MY ACCOUNT](https://my.eurodns.com/login)
 * [HELP](https://help.eurodns.com/)
