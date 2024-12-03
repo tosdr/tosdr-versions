@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/economie/duurzaam/n-wervelende-stroom-van-energie/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/ufo-fanaten-roepen-obama-op-om-x-files-vrij-te-geven/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
