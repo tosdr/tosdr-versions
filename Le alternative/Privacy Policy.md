@@ -19,7 +19,7 @@
 
 [Menù e ricerca per No JavaScript](https://www.lealternative.net/menu/)
 
-[![Logo di Mastodon](/wp-content/uploads/loghi/mastodonlogo-45.webp)](https://mastodon.uno/@lealternative) [![Logo di Bluesky](/wp-content/uploads/loghi/bluesky-45.webp)](https://bsky.app/profile/lealternative.net) [![Logo di Signal](/wp-content/uploads/loghi/signal-45.webp)](https://fedd.it/signal) [![Logo di SimpleX](/wp-content/uploads/loghi/simplex-45.webp)](https://fedd.it/simplex) [![Logo di Telegram](/wp-content/uploads/loghi/telegram-45.webp)](https://t.me/LeAlternativeGruppoUfficiale) [![Logo di Matrix](/wp-content/uploads/loghi/matrix-45.webp)](https://matrix.to/#/#lealternative-spazio:matrix.org)
+[![Logo di Feddit](/wp-content/uploads/loghi/feddit-45.webp)](https://feddit.it/c/lealternative) [![Logo di Mastodon](/wp-content/uploads/loghi/mastodonlogo-45.webp)](https://mastodon.uno/@lealternative) [![Logo di Bluesky](/wp-content/uploads/loghi/bluesky-45.webp)](https://bsky.app/profile/lealternative.net) [![Logo di Signal](/wp-content/uploads/loghi/signal-45.webp)](https://fedd.it/signal) [![Logo di SimpleX](/wp-content/uploads/loghi/simplex-45.webp)](https://fedd.it/simplex) [![Logo di Telegram](/wp-content/uploads/loghi/telegram-45.webp)](https://t.me/LeAlternativeGruppoUfficiale) [![Logo di Matrix](/wp-content/uploads/loghi/matrix-45.webp)](https://matrix.to/#/#lealternative-spazio:matrix.org)
 
 [![Logo di Discord](/wp-content/uploads/loghi/discord-mark-blue-25.webp)](https://discord.com/invite/NhYJ2HNsRN) [![Logo di WhatsApp](/wp-content/uploads/loghi/whatsapp-25.webp)](https://whatsapp.com/channel/0029VaDwOJX89inqY9gDap1L) [![Logo di Threads](/wp-content/uploads/loghi/threads-25-b.webp)](https://www.threads.net/@_le_alternative) [![Logo di Instagram](/wp-content/uploads/loghi/instagram-25.webp)](https://www.instagram.com/_le_alternative/) [![Logo di Facebook](/wp-content/uploads/loghi/facebook-25.webp)](https://www.facebook.com/LeAlternative.net)
 
@@ -114,15 +114,15 @@ Usando il nostro sito web, acconsenti alla nostra politica sulla privacy e accet
 
 [💙 donazioni](https://www.lealternative.net/donazioni/)
 
-* [Mastodon](https://mastodon.uno/@lealternative "Link esterno su: mastodon.uno")
-* [Telegram](https://t.me/lealternative "Link esterno su: t.me")
+* [RSS](https://lealternative.net/feed "Link esterno su: lealternative.net")
+* [Mastodon](https://mastodon.uno/@lealternative "socialok")
+* [Feddit/Lemmy](https://feddit.it/c/lealternative "Link esterno su: feddit.it")
 * [Signal](https://fedd.it/signal "Link esterno su: fedd.it")
 * [Matrix](https://matrix.to/#/%23LeAlternativeGruppo:matrix.org "Link esterno su: matrix.to")
 * [PeerTube](https://peertube.uno/accounts/lealternativenet/video-channels "Link esterno su: peertube.uno")
-* [Lemmy/Feddit](https://feddit.it/c/lealternative "Link esterno su: feddit.it")
 * [Pixelfed](https://pixelfed.uno/lealternative "Link esterno su: pixelfed.uno")
+* [Telegram](https://t.me/lealternative "Link esterno su: t.me")
 * [Reddit](https://www.reddit.com/r/LeAlternative/ "Link esterno su: www.reddit.com")
-* [RSS](https://lealternative.net/feed "Link esterno su: lealternative.net")
 * [WhatsApp](https://whatsapp.com/channel/0029VaDwOJX89inqY9gDap1L "Link esterno su: whatsapp.com")
 * [Facebook](https://www.facebook.com/LeAlternative.net "Link esterno su: www.facebook.com")
 * [Instagram](https://www.instagram.com/_le_alternative/ "Link esterno su: www.instagram.com")
