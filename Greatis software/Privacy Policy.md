@@ -14,11 +14,11 @@ Pricing
 
   [For Home Users](https://www.greatis.com/unhackme/buy.htm)   [Professional](https://www.greatis.com/unhackme/unhackmepro.htm)   [Roaming](https://www.greatis.com/unhackme/unhackme-for-pc-repair-shop.htm)   [Business](https://www.greatis.com/unhackme/unhackmecorporative.htm)   [Licenses Comparison](https://www.greatis.com/unhackme/licenses.htm)
 
-  [Professional](https://www.greatis.com/unhackme/unhackmepro.htm)   [Portable](https://www.greatis.com/unhackme/unhackme-for-pc-repair-shop.htm)   [BF2024](https://www.greatis.com/unhackme/blackfriday.htm)
+  [Professional](https://www.greatis.com/unhackme/unhackmepro.htm)   [Portable](https://www.greatis.com/unhackme/unhackme-for-pc-repair-shop.htm)
 
 News
 
-  [Cybersecurity News](https://www.greatis.com/unhackme/help/)   [Questions and Answers](https://www.greatis.com/unhackme/qa/)   [Latest Release: 16.70.2024.1127 November 27 2024](https://www.greatis.com/unhackme/news.htm)
+  [Cybersecurity News](https://www.greatis.com/unhackme/help/)   [Questions and Answers](https://www.greatis.com/unhackme/qa/)   [Latest Release: 16.70.2024.1127 November 27 2024](https://www.greatis.com/unhackme/news.htm)   [Stable Beta: 16.73.2024.1203   December 03 2024](https://www.greatis.com/unhackme/news.htm)
 
 Support
 
