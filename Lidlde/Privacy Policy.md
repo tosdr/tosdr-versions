@@ -12,7 +12,7 @@ AkzeptierenAblehnen
 
     
 
-[Spare 5.95€ Versandkosten³²ᵃ ohne Mindestbestellwert mit Lidl Plus](https://lidlplus.com/coupons/detail/DESD000062060)
+[Geschenkewelt: Finde das perfekte Geschenk für jedes Budget!](https://www.lidl.de/c/geschenkewelt-2024/s10060037)
 
 1. [![Lidl Logo Deutschland](/static/assets/c6855ba1-a17c-468f-b8b0-09fdab67dea7.svg)](https://www.lidl.de/ "Lidl Onlineshop - Online. Immer. Mehr.")
 2. Menü
@@ -43,7 +43,7 @@ Um die Website korrekt anzuzeigen, verwende bitte einen der folgenden Browser:
 Main Navigation[Zurück](#)
 
 1. [Onlineshop](https://www.lidl.de/)
-2. [Filial-Angebote](https://www.lidl.de/c/bw-xxl-ab-25-11/a10059242?tabCode=Current_Sales_Week)
+2. [Filial-Angebote](https://www.lidl.de/c/deluxe-ab-02-12/a10059733?tabCode=Current_Sales_Week)
 3. [Lidl Plus](https://www.lidl.de/c/lidl-plus/s10007388)
 4. [Sale](https://www.lidl.de/q/query/supersale)
 5. [Themenwelten](https://www.lidl.de/c/themenwelten/s10007142)
@@ -70,7 +70,7 @@ Main Navigation[Zurück](#)
 12. [Tierbedarf](https://www.lidl.de/h/tierbedarf/h10006711)
 13. [Guthabenkarten & Gutscheine](https://www.lidl.de/h/guthaben-gutscheinkarten/h10005877)
 
-1. [Filial-AngeboteÖffnen](https://www.lidl.de/c/bw-xxl-ab-25-11/a10059242?tabCode=Current_Sales_Week)
+1. [Filial-AngeboteÖffnen](https://www.lidl.de/c/deluxe-ab-02-12/a10059733?tabCode=Current_Sales_Week)
 2. [Unsere Prospekte](https://www.lidl.de/c/online-prospekte/s10005610)
 3. [Frische-Angebote](https://www.lidl.de/c/billiger-frische/a10007140)
 4. [Vegane Welt](https://www.lidl.de/c/vegan/s10007709)
@@ -2908,7 +2908,7 @@ Melde dich zum Lidl Newsletter an & sichere dir dein Willkommensgeschenk⁷!
 * [![Rechnungs Logo – auf Rechnung bei Lidl.de bezahlen.](/static/assets/2d1743ce-5b18-4746-9207-c93e5e857cc3.svg)Rechnung](https://kundenservice.lidl.de/SelfServiceDE/s/article/Kategorie-Zahlungen-und-Gutscheine-Sub-Bezahlung-OS-Was-muss-ich-bei-der-Zahlung-Rechnung-oder-Lastschrift-im-Onlineshop-beachten "Zahlung auf Rechnung!")
 * [![Vorauskasse Logo – per Vorauskasse bei Lidl.de bezahlen.](/static/assets/900c1978-24e6-4ec9-8a39-6ca17f47dd12.svg)Vorauskasse](https://kundenservice.lidl.de/SelfServiceDE/s/article/Kategorie-Zahlungen-und-Gutscheine-Sub-Bezahlung-im-Onlineshop-Wie-lange-habe-ich-Zeit-meine-Bestellung-per-Vorkasse-zu-bezahlen#q=vorkasse "Zahlung per Vorauskasse!")
 * [![SEPA Logo – mit SEPA Lastschrift bei Lidl.de bezahlen.](/static/assets/f634f042-f8cf-4f29-b82e-d25363cc45eb.svg)Lastschrift](https://kundenservice.lidl.de/SelfServiceDE/s/article/Kategorie-Zahlungen-und-Gutscheine-Sub-Bezahlung-OS-Was-muss-ich-bei-der-Zahlung-Rechnung-oder-Lastschrift-im-Onlineshop-beachten "Zahlung per SEPA Lastschrift!")
-* [![Finanzieren Logo – ihren Einkauf bei Lidl.de einfach finanzieren.](/static/assets/48da865c-fd12-43f8-8aaa-619dad4bf97a.svg)Finanzierung](https://www.lidl.de/c/0-finanzierung/s10054823 "Finanzieren sie ihren Einkauf bei Lidl!")
+* [![Finanzieren Logo – ihren Einkauf bei Lidl.de einfach finanzieren.](/static/assets/48da865c-fd12-43f8-8aaa-619dad4bf97a.svg)Finanzierung](https://kundenservice.lidl.de/SelfServiceDE/s/article/Wo-finde-ich-Antworten-auf-meine-Fragen-zur-Finanzierung "Finanzieren sie ihren Einkauf bei Lidl!")
 * [![Lidl-Geschenkkarte Logo – mit der Lidl-Geschenkkarte bei Lidl.de bezahlen.](/static/assets/e26d0cc4-1bc0-423d-af48-b36ff6f72a34.svg)Geschenkkarte](https://kundenservice.lidl.de/SelfServiceDE/s/article/Was-muss-ich-%C3%BCber-meine-Lidl-Geschenkkarte-wissen "Zahlung mit der Lidl-Geschenkkarte!")
 
 ###### Unsere Versandarten
