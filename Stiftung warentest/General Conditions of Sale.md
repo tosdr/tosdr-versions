@@ -664,12 +664,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Beim Arzt­besuch: Zuzahlung nicht vorschnell akzeptieren](https://www.test.de/Beim-Arztbesuch-Zuzahlung-nicht-vorschnell-akzeptieren-6176444-0/ "Beim Arztbesuch - Zuzahlung nicht vorschnell akzeptieren")
-* [Überge­wicht bei Kindern: Kampf den Corona-Pfunden](https://www.test.de/Uebergewicht-bei-Kindern-Kampf-den-Corona-Pfunden-5979072-0/ "Übergewicht bei Kindern - Kampf den Corona-Pfunden")
-* [Veganer Butter­ersatz: Es muss nicht immer Butter sein](https://www.test.de/Veganer-Butterersatz-Es-muss-nicht-immer-Butter-sein-6157799-0/ "Veganer Butterersatz - Es muss nicht immer Butter sein")
-* [Geschäfts­konto-Vergleich: Auf Extra­kosten achten, sonst wird das Gratis­konto teuer](https://www.test.de/Geschaeftskonto-Vergleich-6010850-0/ "Geschäftskonto-Vergleich - Auf Extrakosten achten, sonst wird das Gratiskonto teuer")
-* [Verpackungs­ärger: Barilla Penne Rigate Senza Glutine](https://www.test.de/Verpackungsaerger-Barilla-Penne-Rigate-Senza-Glutine-6112820-0/ "Verpackungsärger - Barilla Penne Rigate Senza Glutine")
-* [Stand-up-Paddle-Boards im Test: Das Boarding klappt](https://www.test.de/Stand-up-Paddle-Boards-im-Test-Das-Boarding-klappt-6024484-0/ "Stand-up-Paddle-Boards im Test - Das Boarding klappt")
+* [Seit 2020 auf Warn­liste: Deutsche Edel­fisch stellt Insolvenz­antrag](https://www.test.de/Seit-2020-auf-Warnliste-Deutsche-Edelfisch-stellt-Insolvenzantrag-6167404-0/ "Seit 2020 auf Warnliste - Deutsche Edelfisch stellt Insolvenzantrag")
+* [Fake-Portal: Vorsicht vor der Seite „zins­vergleich“](https://www.test.de/Fake-Portal-Vorsicht-vor-der-Seite-zinsvergleich-6063646-0/ "Fake-Portal - Vorsicht vor der Seite „zinsvergleich“")
+* [Investieren in Künst­liche Intelligenz: ETF oder Zertifikate – der Check](https://www.test.de/Investieren-in-Kuenstliche-Intelligenz-ETF-oder-Zertifikate-der-Check-5981554-0/ "Investieren in Künstliche Intelligenz - ETF oder Zertifikate – der Check")
+* [Fahr­tauglich­keit im Alter: Was Senioren am Steuer für die Sicherheit tun können](https://www.test.de/Fahrtauglichkeit-im-Alter-Was-Senioren-tun-koennen-6111611-0/ "Fahrtauglichkeit im Alter - Was Senioren am Steuer für die Sicherheit tun können")
+* [Verpackungs­ärger: Invisible Serum super UV, Garnier Ambre Solaire](https://www.test.de/Verpackungsaerger-Invisible-Serum-super-UV-Garnier-Ambre-Solaire-6038426-0/ "Verpackungsärger - Invisible Serum super UV, Garnier Ambre Solaire")
+* [Fisch­stäbchen im Test: Zum Anbeißen sind nur zwei](https://www.test.de/fischstaebchen-im-test-1662266-0/ "Fischstäbchen im Test - Zum Anbeißen sind nur zwei")
 
 Weitere Informationen
 
@@ -3082,12 +3082,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Beim Arzt­besuch: Zuzahlung nicht vorschnell akzeptieren](https://www.test.de/Beim-Arztbesuch-Zuzahlung-nicht-vorschnell-akzeptieren-6176444-0/ "Beim Arztbesuch - Zuzahlung nicht vorschnell akzeptieren")
-* [Überge­wicht bei Kindern: Kampf den Corona-Pfunden](https://www.test.de/Uebergewicht-bei-Kindern-Kampf-den-Corona-Pfunden-5979072-0/ "Übergewicht bei Kindern - Kampf den Corona-Pfunden")
-* [Veganer Butter­ersatz: Es muss nicht immer Butter sein](https://www.test.de/Veganer-Butterersatz-Es-muss-nicht-immer-Butter-sein-6157799-0/ "Veganer Butterersatz - Es muss nicht immer Butter sein")
-* [Geschäfts­konto-Vergleich: Auf Extra­kosten achten, sonst wird das Gratis­konto teuer](https://www.test.de/Geschaeftskonto-Vergleich-6010850-0/ "Geschäftskonto-Vergleich - Auf Extrakosten achten, sonst wird das Gratiskonto teuer")
-* [Verpackungs­ärger: Barilla Penne Rigate Senza Glutine](https://www.test.de/Verpackungsaerger-Barilla-Penne-Rigate-Senza-Glutine-6112820-0/ "Verpackungsärger - Barilla Penne Rigate Senza Glutine")
-* [Stand-up-Paddle-Boards im Test: Das Boarding klappt](https://www.test.de/Stand-up-Paddle-Boards-im-Test-Das-Boarding-klappt-6024484-0/ "Stand-up-Paddle-Boards im Test - Das Boarding klappt")
+* [Seit 2020 auf Warn­liste: Deutsche Edel­fisch stellt Insolvenz­antrag](https://www.test.de/Seit-2020-auf-Warnliste-Deutsche-Edelfisch-stellt-Insolvenzantrag-6167404-0/ "Seit 2020 auf Warnliste - Deutsche Edelfisch stellt Insolvenzantrag")
+* [Fake-Portal: Vorsicht vor der Seite „zins­vergleich“](https://www.test.de/Fake-Portal-Vorsicht-vor-der-Seite-zinsvergleich-6063646-0/ "Fake-Portal - Vorsicht vor der Seite „zinsvergleich“")
+* [Investieren in Künst­liche Intelligenz: ETF oder Zertifikate – der Check](https://www.test.de/Investieren-in-Kuenstliche-Intelligenz-ETF-oder-Zertifikate-der-Check-5981554-0/ "Investieren in Künstliche Intelligenz - ETF oder Zertifikate – der Check")
+* [Fahr­tauglich­keit im Alter: Was Senioren am Steuer für die Sicherheit tun können](https://www.test.de/Fahrtauglichkeit-im-Alter-Was-Senioren-tun-koennen-6111611-0/ "Fahrtauglichkeit im Alter - Was Senioren am Steuer für die Sicherheit tun können")
+* [Verpackungs­ärger: Invisible Serum super UV, Garnier Ambre Solaire](https://www.test.de/Verpackungsaerger-Invisible-Serum-super-UV-Garnier-Ambre-Solaire-6038426-0/ "Verpackungsärger - Invisible Serum super UV, Garnier Ambre Solaire")
+* [Fisch­stäbchen im Test: Zum Anbeißen sind nur zwei](https://www.test.de/fischstaebchen-im-test-1662266-0/ "Fischstäbchen im Test - Zum Anbeißen sind nur zwei")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -3138,12 +3138,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Beim Arzt­besuch: Zuzahlung nicht vorschnell akzeptieren](https://www.test.de/Beim-Arztbesuch-Zuzahlung-nicht-vorschnell-akzeptieren-6176444-0/ "Beim Arztbesuch - Zuzahlung nicht vorschnell akzeptieren")
-* [Überge­wicht bei Kindern: Kampf den Corona-Pfunden](https://www.test.de/Uebergewicht-bei-Kindern-Kampf-den-Corona-Pfunden-5979072-0/ "Übergewicht bei Kindern - Kampf den Corona-Pfunden")
-* [Veganer Butter­ersatz: Es muss nicht immer Butter sein](https://www.test.de/Veganer-Butterersatz-Es-muss-nicht-immer-Butter-sein-6157799-0/ "Veganer Butterersatz - Es muss nicht immer Butter sein")
-* [Geschäfts­konto-Vergleich: Auf Extra­kosten achten, sonst wird das Gratis­konto teuer](https://www.test.de/Geschaeftskonto-Vergleich-6010850-0/ "Geschäftskonto-Vergleich - Auf Extrakosten achten, sonst wird das Gratiskonto teuer")
-* [Verpackungs­ärger: Barilla Penne Rigate Senza Glutine](https://www.test.de/Verpackungsaerger-Barilla-Penne-Rigate-Senza-Glutine-6112820-0/ "Verpackungsärger - Barilla Penne Rigate Senza Glutine")
-* [Stand-up-Paddle-Boards im Test: Das Boarding klappt](https://www.test.de/Stand-up-Paddle-Boards-im-Test-Das-Boarding-klappt-6024484-0/ "Stand-up-Paddle-Boards im Test - Das Boarding klappt")
+* [Seit 2020 auf Warn­liste: Deutsche Edel­fisch stellt Insolvenz­antrag](https://www.test.de/Seit-2020-auf-Warnliste-Deutsche-Edelfisch-stellt-Insolvenzantrag-6167404-0/ "Seit 2020 auf Warnliste - Deutsche Edelfisch stellt Insolvenzantrag")
+* [Fake-Portal: Vorsicht vor der Seite „zins­vergleich“](https://www.test.de/Fake-Portal-Vorsicht-vor-der-Seite-zinsvergleich-6063646-0/ "Fake-Portal - Vorsicht vor der Seite „zinsvergleich“")
+* [Investieren in Künst­liche Intelligenz: ETF oder Zertifikate – der Check](https://www.test.de/Investieren-in-Kuenstliche-Intelligenz-ETF-oder-Zertifikate-der-Check-5981554-0/ "Investieren in Künstliche Intelligenz - ETF oder Zertifikate – der Check")
+* [Fahr­tauglich­keit im Alter: Was Senioren am Steuer für die Sicherheit tun können](https://www.test.de/Fahrtauglichkeit-im-Alter-Was-Senioren-tun-koennen-6111611-0/ "Fahrtauglichkeit im Alter - Was Senioren am Steuer für die Sicherheit tun können")
+* [Verpackungs­ärger: Invisible Serum super UV, Garnier Ambre Solaire](https://www.test.de/Verpackungsaerger-Invisible-Serum-super-UV-Garnier-Ambre-Solaire-6038426-0/ "Verpackungsärger - Invisible Serum super UV, Garnier Ambre Solaire")
+* [Fisch­stäbchen im Test: Zum Anbeißen sind nur zwei](https://www.test.de/fischstaebchen-im-test-1662266-0/ "Fischstäbchen im Test - Zum Anbeißen sind nur zwei")
 
 Neueste Tests
 
@@ -3156,12 +3156,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Beim Arzt­besuch: Zuzahlung nicht vorschnell akzeptieren](https://www.test.de/Beim-Arztbesuch-Zuzahlung-nicht-vorschnell-akzeptieren-6176444-0/ "Beim Arztbesuch - Zuzahlung nicht vorschnell akzeptieren")
-* [Überge­wicht bei Kindern: Kampf den Corona-Pfunden](https://www.test.de/Uebergewicht-bei-Kindern-Kampf-den-Corona-Pfunden-5979072-0/ "Übergewicht bei Kindern - Kampf den Corona-Pfunden")
-* [Veganer Butter­ersatz: Es muss nicht immer Butter sein](https://www.test.de/Veganer-Butterersatz-Es-muss-nicht-immer-Butter-sein-6157799-0/ "Veganer Butterersatz - Es muss nicht immer Butter sein")
-* [Geschäfts­konto-Vergleich: Auf Extra­kosten achten, sonst wird das Gratis­konto teuer](https://www.test.de/Geschaeftskonto-Vergleich-6010850-0/ "Geschäftskonto-Vergleich - Auf Extrakosten achten, sonst wird das Gratiskonto teuer")
-* [Verpackungs­ärger: Barilla Penne Rigate Senza Glutine](https://www.test.de/Verpackungsaerger-Barilla-Penne-Rigate-Senza-Glutine-6112820-0/ "Verpackungsärger - Barilla Penne Rigate Senza Glutine")
-* [Stand-up-Paddle-Boards im Test: Das Boarding klappt](https://www.test.de/Stand-up-Paddle-Boards-im-Test-Das-Boarding-klappt-6024484-0/ "Stand-up-Paddle-Boards im Test - Das Boarding klappt")
+* [Seit 2020 auf Warn­liste: Deutsche Edel­fisch stellt Insolvenz­antrag](https://www.test.de/Seit-2020-auf-Warnliste-Deutsche-Edelfisch-stellt-Insolvenzantrag-6167404-0/ "Seit 2020 auf Warnliste - Deutsche Edelfisch stellt Insolvenzantrag")
+* [Fake-Portal: Vorsicht vor der Seite „zins­vergleich“](https://www.test.de/Fake-Portal-Vorsicht-vor-der-Seite-zinsvergleich-6063646-0/ "Fake-Portal - Vorsicht vor der Seite „zinsvergleich“")
+* [Investieren in Künst­liche Intelligenz: ETF oder Zertifikate – der Check](https://www.test.de/Investieren-in-Kuenstliche-Intelligenz-ETF-oder-Zertifikate-der-Check-5981554-0/ "Investieren in Künstliche Intelligenz - ETF oder Zertifikate – der Check")
+* [Fahr­tauglich­keit im Alter: Was Senioren am Steuer für die Sicherheit tun können](https://www.test.de/Fahrtauglichkeit-im-Alter-Was-Senioren-tun-koennen-6111611-0/ "Fahrtauglichkeit im Alter - Was Senioren am Steuer für die Sicherheit tun können")
+* [Verpackungs­ärger: Invisible Serum super UV, Garnier Ambre Solaire](https://www.test.de/Verpackungsaerger-Invisible-Serum-super-UV-Garnier-Ambre-Solaire-6038426-0/ "Verpackungsärger - Invisible Serum super UV, Garnier Ambre Solaire")
+* [Fisch­stäbchen im Test: Zum Anbeißen sind nur zwei](https://www.test.de/fischstaebchen-im-test-1662266-0/ "Fischstäbchen im Test - Zum Anbeißen sind nur zwei")
 
 Stiftung Warentest
 
