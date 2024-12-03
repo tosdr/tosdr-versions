@@ -361,7 +361,7 @@ Wir behalten uns das Recht vor, diese Datenschutzbestimmungen jederzeit mit Wirk
 
 Stand Juni 2024
 
-[Facebook-f](https://de-de.facebook.com/www.traumaheilung.de) [Instagram](https://www.instagram.com/damicharf) [Youtube](https://www.youtube.com/user/charfi64) [Linkedin](https://www.linkedin.com/in/damicharf)
+[Facebook-f](https://de-de.facebook.com/www.traumaheilung.de) [Instagram](https://www.instagram.com/damicharf) [Youtube](https://www.youtube.com/user/charfi64) [Linkedin](https://www.linkedin.com/in/damicharf) [Spotify](https://open.spotify.com/show/0iqMuYxM2gq1uuUZC5Pt7T?si=f0d791900f1c4bcd)
 
 * [Impressum](https://www.damicharf.com/impressum/)
 * [Datenschutzerklärung](https://www.damicharf.com/datenschutzerklaerung/)
