@@ -116,6 +116,8 @@ _This policy was last updated in November 2022 (to expand upon and strengthen cl
 
 [X](https://x.com/letterboxd "Letterboxd on X")
 
+[Bluesky](https://bsky.app/profile/letterboxd.social "Letterboxd on Bluesky")
+
 [Facebook](https://www.facebook.com/letterboxd "Letterboxd on Facebook")
 
 [TikTok](https://www.tiktok.com/@letterboxd "Letterboxd on TikTok")
