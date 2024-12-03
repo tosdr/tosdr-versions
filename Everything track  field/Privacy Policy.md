@@ -1,9 +1,9 @@
 **Javascript is disabled on your browser.**  
 To view this site, you must enable JavaScript or upgrade to a JavaScript-capable browser.
 
-CYBER MONDAY: Use promo code CYBER15 and receive 15% OFF Non-Holiday Sale items! [Details](https://www.everythingtrackandfield.com/promo-details)
+Huge Savings! Save up to 50% on our Holiday Sale. Now thru 12/31/24 [Details](https://www.everythingtrackandfield.com/promo-details)
 
-CYBER MONDAY: Use promo code CYBER15 and receive 15% OFF Non-Holiday Sale items! [Details](https://www.everythingtrackandfield.com/promo-details)
+Huge Savings! Save up to 50% on our Holiday Sale. Now thru 12/31/24 [Details](https://www.everythingtrackandfield.com/promo-details)
 
 [![](https://www.everythingtrackandfield.com/sca-dev-vinson/img/MF_ETF_1482x659.png)
 
