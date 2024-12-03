@@ -299,6 +299,14 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![«Единая Россия» оценила доступность новых железнодорожных вагонов для маломобильных пассажиров](https://cdn.er.ru/media/news/December2024/bUEdjzN7rhoQqZvhzYgx-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-ocenila-dostupnost-novyh-zheleznodorozhnyh-vagonov-dlya-malomobilnyh-passazhirov)
+
+[«Единая Россия» оценила доступность новых железнодорожных вагонов для маломобильных пассажиров](https://er.ru/activity/news/edinaya-rossiya-ocenila-dostupnost-novyh-zheleznodorozhnyh-vagonov-dlya-malomobilnyh-passazhirov)
+
+[#Киселев](https://er.ru/activity/news?tags%5B0%5D=974) [#РЖД](https://er.ru/activity/news?tags%5B0%5D=1493) [#вагоны](https://er.ru/activity/news?tags%5B0%5D=3163) [#инклюзивныйтуризм](https://er.ru/activity/news?tags%5B0%5D=1094738) [#поезд](https://er.ru/activity/news?tags%5B0%5D=3210) [#людисовз](https://er.ru/activity/news?tags%5B0%5D=123028) [#Солодов](https://er.ru/activity/news?tags%5B0%5D=55773) [#Воронежская область](https://er.ru/activity/news?tags%5B0%5D=1166) [#мониторинг](https://er.ru/activity/news?tags%5B0%5D=5385) [#Москва](https://er.ru/activity/news?tags%5B0%5D=255) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
+
+Сегодня 17:05
+
 [![«Единая Россия» и Минтруда РФ представили в Вологде лучшие форматы по поддержке участников СВО](https://cdn.er.ru/media/news/December2024/osfcLnqtf8WOLAI3J8VV-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-i-mintruda-rf-predstavili-v-vologde-luchshie-formaty-po-podderzhke-uchastnikov-svo)
 
 [«Единая Россия» и Минтруда РФ представили в Вологде лучшие форматы по поддержке участников СВО](https://er.ru/activity/news/edinaya-rossiya-i-mintruda-rf-predstavili-v-vologde-luchshie-formaty-po-podderzhke-uchastnikov-svo)
@@ -338,14 +346,6 @@
 [#Грызлов](https://er.ru/activity/news?tags%5B0%5D=68) [#ДеньРожденияПартииЕР](https://er.ru/activity/news?tags%5B0%5D=125483) [#интервью](https://er.ru/activity/news?tags%5B0%5D=82)
 
 01.12.24
-
-[![В Московской области «Молодая Гвардия Единой России» наградила 16 детей-Героев медалью «Юный Герой»](https://cdn.er.ru/media/news/November2024/M8fNkAbL91j5ucLXKZk9-small.JPG)](https://er.ru/activity/news/v-moskovskoj-oblasti-molodaya-gvardiya-edinoj-rossii-nagradila-16-detej-geroev-medalyu-yunyj-geroj)
-
-[В Московской области «Молодая Гвардия Единой России» наградила 16 детей-Героев медалью «Юный Герой»](https://er.ru/activity/news/v-moskovskoj-oblasti-molodaya-gvardiya-edinoj-rossii-nagradila-16-detej-geroev-medalyu-yunyj-geroj)
-
-[#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#Московская область](https://er.ru/activity/news?tags%5B0%5D=765) [#награждение](https://er.ru/activity/news?tags%5B0%5D=2365) [#дети](https://er.ru/activity/news?tags%5B0%5D=368) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
-
-30.11.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
