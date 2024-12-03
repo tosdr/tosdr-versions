@@ -418,6 +418,10 @@ African Travel & Tourism Association (ATTA) – Member No. #206430
 
 ![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/63d1a0ea20cf61c261c3c843_atta-100%20(1).png)![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/63d1a1a7574ba202acd54bab_satsa-100%20(1).png)
 
+  
+
+__
+
 [Terms of use](https://www.safari.com/terms-and-conditions)
 
 |
