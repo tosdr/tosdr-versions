@@ -204,7 +204,7 @@ Madison, WI 53703
 Scan now to get  
 the free app
 
-[![Download on the Apple App Store](https://prod-static-content.fetchrewards.com/content-service/image/svg%2Bxml/apple_app_store_940c52a85a.svg)](https://referral.fetch.com/vvv3/i5uz4quw) [![Download on the Google Play Store](https://prod-static-content.fetchrewards.com/content-service/image/svg%2Bxml/google_play_store_85570f9c31.svg)](https://referral.fetch.com/vvv3/i5uz4quw)
+[![Download on the Apple App Store](https://prod-static-content.fetchrewards.com/content-service/image/svg%2Bxml/apple_app_store_940c52a85a.svg)](https://referral.fetch.com/vvv3/i5uz4quw) [![Download on the Google Play Store](https://prod-static-content.fetchrewards.com/content-service/image/svg%2Bxml/google_play_store_85570f9c31.svg)](https://referral.fetch.com/vvv3/osquonka)
 
 ![Fetch logo](/assets/images/graphics/footer-logo.svg)
 
@@ -232,7 +232,7 @@ the free app
 
 [Modify Privacy Preferences](#footer)
 
-[![Download on the Apple App Store](https://prod-static-content.fetchrewards.com/content-service/image/svg%2Bxml/apple_app_store_940c52a85a.svg)](https://referral.fetch.com/vvv3/i5uz4quw) [![Download on the Google Play Store](https://prod-static-content.fetchrewards.com/content-service/image/svg%2Bxml/google_play_store_85570f9c31.svg)](https://referral.fetch.com/vvv3/i5uz4quw)
+[![Download on the Apple App Store](https://prod-static-content.fetchrewards.com/content-service/image/svg%2Bxml/apple_app_store_940c52a85a.svg)](https://referral.fetch.com/vvv3/i5uz4quw) [![Download on the Google Play Store](https://prod-static-content.fetchrewards.com/content-service/image/svg%2Bxml/google_play_store_85570f9c31.svg)](https://referral.fetch.com/vvv3/osquonka)
 
 [](https://www.facebook.com/FetchRewards/)[](https://twitter.com/FetchRewards?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)[](https://www.instagram.com/fetchrewards/)[](https://www.youtube.com/channel/UCwVp3gzavJ7ymM8uv8rJaqg)
 
