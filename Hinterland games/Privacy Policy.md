@@ -146,10 +146,7 @@ This site uses a CAPTCHA to ensure humans are performing certain actions. The CA
 * Privacy Policy
 
 ![Forum-LogoFooter.png.926beb5864c220caf8e60625833f47d6.png](//media.invisioncic.com/g266965/monthly_2024_11/Forum-LogoFooter.png.926beb5864c220caf8e60625833f47d6.png)  
-© 2012-2025 Hinterland Studio Inc.   
-"THE LONG DARK", "Hinterland", "WINTERMUTE", the hatchet and the H logo  
-are registered trademarks or trademarks of Hinterland Studio Inc.  
-All rights reserved.
+© 2012-2025 Hinterland Studio Inc. "THE LONG DARK", "Hinterland", "WINTERMUTE", the hatchet and the H logo are registered trademarks or trademarks of Hinterland Studio Inc. All rights reserved.
 
 **[THELONGDARK.COM](https://www.thelongdark.com/)     [HINTERLAND.COM](https://www.hinterland.com/)    |    [Privacy Policy](https://hinterlandforums.com/privacy)**
 
