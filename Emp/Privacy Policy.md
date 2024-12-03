@@ -152,13 +152,13 @@ Ok](https://www.emp-online.com/home?forceThisShop=1)
 
 Katalog durchsuchen  löschen Packstation suchen
 
-[](https://www.emp.de/sale/?pmid=SAM-896_black_deals_20per_EUR&hidebanner=true)
+[](https://www.emp.de/bekleidung/?pmid=SAM-3242_INT_15per2999_EUR)
 
-Nur heute!
+Ran an die Plätzchen
 
-20% EXTRA auf (fast) ALLES\*
+15% EXTRA auf (fast) ALLES\*
 
-[Jetzt sparen!](https://www.emp.de/sale/?pmid=SAM-896_black_deals_20per_EUR&hidebanner=true "Jetzt sparen!") Code **BLACK20** kopieren
+[Jetzt sparen!](https://www.emp.de/bekleidung/?pmid=SAM-3242_INT_15per2999_EUR "Jetzt sparen!") Code **SAVE15** kopieren
 
 Die Javascript-Funktion Ihres Browsers ist deaktiviert.
 
@@ -493,7 +493,7 @@ Anmelden
 
 Unser Kundenservice ist für dich da
 
-Ja, unser Kundenservice ist heute erreichbar bis 18:00 Uhr. [Mehr Infos](https://www.emp.de/kontakt)
+Kundenservice ist am nächsten Tag wieder erreichbar von 08:00 Uhr bis 18:00 Uhr. [Mehr Infos](https://www.emp.de/kontakt)
 
 Live-Chat starten
 
