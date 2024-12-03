@@ -20,6 +20,22 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![The BID allows businesses to collaborate to make the area better. (Mickey Lee)](https://southwarknews.co.uk/wp-content/uploads/2024/12/2023-10-12-1439-Mickey-LF-Lee-MX506225-360x180.jpeg)](https://southwarknews.co.uk/area/borough/bankside-businesses-secure-14m-boost-as-bid-renewed-for-five-years/)
+    
+    ### [Bankside businesses secure £14m boost as BID renewed for five years](https://southwarknews.co.uk/area/borough/bankside-businesses-secure-14m-boost-as-bid-renewed-for-five-years/)
+    
+    [![Go-Ahead London Central’s WHV150 running the number 1 route. Credit: SA 4.0 (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/11/LHR_Go-Ahead_London_Central_WHV150_BV66VJK_1_2023-11-14-e1732883741906-360x180.jpg)](https://southwarknews.co.uk/news/news-plus/southwarks-slowest-bus-routes-revealed/)
+    
+    ### [Southwark’s slowest bus routes revealed](https://southwarknews.co.uk/news/news-plus/southwarks-slowest-bus-routes-revealed/)
+    
+    [![London mayor Sadiq Khan. Credit: Noah Vickers/Local Democracy Reporting Service](https://southwarknews.co.uk/wp-content/uploads/2024/07/London-mayor-Sadiq-Khan-360x180.jpg)](https://southwarknews.co.uk/area/london/sadiq-khan-has-launched-his-annual-rough-sleeping-fundraising-campaign/)
+    
+    ### [Sadiq Khan has launched his annual rough sleeping fundraising campaign](https://southwarknews.co.uk/area/london/sadiq-khan-has-launched-his-annual-rough-sleeping-fundraising-campaign/)
+    
+    [![The Disused flats on Newcomen Street.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-03-12-2024-at-10.48-360x180.jpg)](https://southwarknews.co.uk/area/borough/five-people-taken-to-hospital-after-fire-destroys-flats-in-borough/)
+    
+    ### [Five people taken to hospital after fire ‘destroys’ flats in Borough](https://southwarknews.co.uk/area/borough/five-people-taken-to-hospital-after-fire-destroys-flats-in-borough/)
+    
     [![Liz Sanya, 21, surrounded by her fluffy creations.](https://southwarknews.co.uk/wp-content/uploads/2024/12/IMG_0635-3-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/walworth-girls-viral-fluffy-clogs-catch-the-attention-of-retail-giant-asos/)
     
     ### [Walworth girl’s viral fluffy clogs catch the attention of retail giant ASOS](https://southwarknews.co.uk/area/walworth/walworth-girls-viral-fluffy-clogs-catch-the-attention-of-retail-giant-asos/)
@@ -40,22 +56,6 @@
     [![Greenland Quay, Surrey Quays. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/12/Greenland-Quay-Surrey-Quays.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/rotherhithe/man-charged-with-murder-after-woman-fatally-stabbed-in-surrey-quays/)
     
     ### [Man charged with murder after woman fatally stabbed in Surrey Quays](https://southwarknews.co.uk/area/rotherhithe/man-charged-with-murder-after-woman-fatally-stabbed-in-surrey-quays/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2018/12/new-years.jpg)](https://southwarknews.co.uk/area/london/warning-over-fake-tickets-for-londons-new-years-eve-fireworks-display/)
-    
-    ### [Warning over fake tickets for London’s New Year’s Eve fireworks display](https://southwarknews.co.uk/area/london/warning-over-fake-tickets-for-londons-new-years-eve-fireworks-display/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/11/26_11_2024_Southwark-Council_100000th-Tree_IWM_0086-1-360x180.jpg)](https://southwarknews.co.uk/news/community/southwark-becomes-first-inner-london-borough-with-100000-trees/)
-    
-    ### [Southwark becomes first inner London borough with 100,000 trees](https://southwarknews.co.uk/news/community/southwark-becomes-first-inner-london-borough-with-100000-trees/)
-    
-    [![Anthony Allegre hopes his story will inspire others](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_1696-360x180.jpeg)](https://southwarknews.co.uk/area/dulwich/teenage-entrepreneur-from-dulwich-hopes-business-success-will-motivate-schoolchildren-uninspired-by-the-education-system/)
-    
-    ### [Teenage entrepreneur from Dulwich hopes business success will motivate schoolchildren uninspired by the education system](https://southwarknews.co.uk/area/dulwich/teenage-entrepreneur-from-dulwich-hopes-business-success-will-motivate-schoolchildren-uninspired-by-the-education-system/)
-    
-    [![Mr and Mrs Santa and Theatre Peckham cast](https://southwarknews.co.uk/wp-content/uploads/2024/11/Photoshoot-Mr-Mrs-Santa-and-Theatre-Peckham-cast-1-1-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/community-christmas-event-to-be-held-on-camberwell-green/)
-    
-    ### [Community Christmas event to be held on Camberwell Green](https://southwarknews.co.uk/area/camberwell/community-christmas-event-to-be-held-on-camberwell-green/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -106,6 +106,22 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![The BID allows businesses to collaborate to make the area better. (Mickey Lee)](https://southwarknews.co.uk/wp-content/uploads/2024/12/2023-10-12-1439-Mickey-LF-Lee-MX506225-360x180.jpeg)](https://southwarknews.co.uk/area/borough/bankside-businesses-secure-14m-boost-as-bid-renewed-for-five-years/)
+    
+    ### [Bankside businesses secure £14m boost as BID renewed for five years](https://southwarknews.co.uk/area/borough/bankside-businesses-secure-14m-boost-as-bid-renewed-for-five-years/)
+    
+    [![Go-Ahead London Central’s WHV150 running the number 1 route. Credit: SA 4.0 (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/11/LHR_Go-Ahead_London_Central_WHV150_BV66VJK_1_2023-11-14-e1732883741906-360x180.jpg)](https://southwarknews.co.uk/news/news-plus/southwarks-slowest-bus-routes-revealed/)
+    
+    ### [Southwark’s slowest bus routes revealed](https://southwarknews.co.uk/news/news-plus/southwarks-slowest-bus-routes-revealed/)
+    
+    [![London mayor Sadiq Khan. Credit: Noah Vickers/Local Democracy Reporting Service](https://southwarknews.co.uk/wp-content/uploads/2024/07/London-mayor-Sadiq-Khan-360x180.jpg)](https://southwarknews.co.uk/area/london/sadiq-khan-has-launched-his-annual-rough-sleeping-fundraising-campaign/)
+    
+    ### [Sadiq Khan has launched his annual rough sleeping fundraising campaign](https://southwarknews.co.uk/area/london/sadiq-khan-has-launched-his-annual-rough-sleeping-fundraising-campaign/)
+    
+    [![The Disused flats on Newcomen Street.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-03-12-2024-at-10.48-360x180.jpg)](https://southwarknews.co.uk/area/borough/five-people-taken-to-hospital-after-fire-destroys-flats-in-borough/)
+    
+    ### [Five people taken to hospital after fire ‘destroys’ flats in Borough](https://southwarknews.co.uk/area/borough/five-people-taken-to-hospital-after-fire-destroys-flats-in-borough/)
+    
     [![Liz Sanya, 21, surrounded by her fluffy creations.](https://southwarknews.co.uk/wp-content/uploads/2024/12/IMG_0635-3-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/walworth-girls-viral-fluffy-clogs-catch-the-attention-of-retail-giant-asos/)
     
     ### [Walworth girl’s viral fluffy clogs catch the attention of retail giant ASOS](https://southwarknews.co.uk/area/walworth/walworth-girls-viral-fluffy-clogs-catch-the-attention-of-retail-giant-asos/)
@@ -126,22 +142,6 @@ View All Result
     [![Greenland Quay, Surrey Quays. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/12/Greenland-Quay-Surrey-Quays.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/rotherhithe/man-charged-with-murder-after-woman-fatally-stabbed-in-surrey-quays/)
     
     ### [Man charged with murder after woman fatally stabbed in Surrey Quays](https://southwarknews.co.uk/area/rotherhithe/man-charged-with-murder-after-woman-fatally-stabbed-in-surrey-quays/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2018/12/new-years.jpg)](https://southwarknews.co.uk/area/london/warning-over-fake-tickets-for-londons-new-years-eve-fireworks-display/)
-    
-    ### [Warning over fake tickets for London’s New Year’s Eve fireworks display](https://southwarknews.co.uk/area/london/warning-over-fake-tickets-for-londons-new-years-eve-fireworks-display/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/11/26_11_2024_Southwark-Council_100000th-Tree_IWM_0086-1-360x180.jpg)](https://southwarknews.co.uk/news/community/southwark-becomes-first-inner-london-borough-with-100000-trees/)
-    
-    ### [Southwark becomes first inner London borough with 100,000 trees](https://southwarknews.co.uk/news/community/southwark-becomes-first-inner-london-borough-with-100000-trees/)
-    
-    [![Anthony Allegre hopes his story will inspire others](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_1696-360x180.jpeg)](https://southwarknews.co.uk/area/dulwich/teenage-entrepreneur-from-dulwich-hopes-business-success-will-motivate-schoolchildren-uninspired-by-the-education-system/)
-    
-    ### [Teenage entrepreneur from Dulwich hopes business success will motivate schoolchildren uninspired by the education system](https://southwarknews.co.uk/area/dulwich/teenage-entrepreneur-from-dulwich-hopes-business-success-will-motivate-schoolchildren-uninspired-by-the-education-system/)
-    
-    [![Mr and Mrs Santa and Theatre Peckham cast](https://southwarknews.co.uk/wp-content/uploads/2024/11/Photoshoot-Mr-Mrs-Santa-and-Theatre-Peckham-cast-1-1-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/community-christmas-event-to-be-held-on-camberwell-green/)
-    
-    ### [Community Christmas event to be held on Camberwell Green](https://southwarknews.co.uk/area/camberwell/community-christmas-event-to-be-held-on-camberwell-green/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -245,6 +245,12 @@ Terms of Use
 
 ### Featured Articles
 
+[![The Disused flats on Newcomen Street.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-03-12-2024-at-10.48-120x86.jpg)](https://southwarknews.co.uk/area/borough/five-people-taken-to-hospital-after-fire-destroys-flats-in-borough/)
+
+### [Five people taken to hospital after fire ‘destroys’ flats in Borough](https://southwarknews.co.uk/area/borough/five-people-taken-to-hospital-after-fire-destroys-flats-in-borough/)
+
+[3rd December 2024](https://southwarknews.co.uk/area/borough/five-people-taken-to-hospital-after-fire-destroys-flats-in-borough/)
+
 [![Liz Sanya, 21, surrounded by her fluffy creations.](https://southwarknews.co.uk/wp-content/uploads/2024/12/IMG_0635-3-120x86.jpeg)](https://southwarknews.co.uk/area/walworth/walworth-girls-viral-fluffy-clogs-catch-the-attention-of-retail-giant-asos/)
 
 ### [Walworth girl’s viral fluffy clogs catch the attention of retail giant ASOS](https://southwarknews.co.uk/area/walworth/walworth-girls-viral-fluffy-clogs-catch-the-attention-of-retail-giant-asos/)
@@ -275,12 +281,6 @@ CREDIT: Public Interest Law Centre](https://southwarknews.co.uk/wp-content/uploa
 ### [Southwark becomes first inner London borough with 100,000 trees](https://southwarknews.co.uk/news/community/southwark-becomes-first-inner-london-borough-with-100000-trees/)
 
 [1st December 2024](https://southwarknews.co.uk/news/community/southwark-becomes-first-inner-london-borough-with-100000-trees/)
-
-[![Anthony Allegre hopes his story will inspire others](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_1696-120x86.jpeg)](https://southwarknews.co.uk/area/dulwich/teenage-entrepreneur-from-dulwich-hopes-business-success-will-motivate-schoolchildren-uninspired-by-the-education-system/)
-
-### [Teenage entrepreneur from Dulwich hopes business success will motivate schoolchildren uninspired by the education system](https://southwarknews.co.uk/area/dulwich/teenage-entrepreneur-from-dulwich-hopes-business-success-will-motivate-schoolchildren-uninspired-by-the-education-system/)
-
-[1st December 2024](https://southwarknews.co.uk/area/dulwich/teenage-entrepreneur-from-dulwich-hopes-business-success-will-motivate-schoolchildren-uninspired-by-the-education-system/)
 
 ### USEFUL PAGES
 
