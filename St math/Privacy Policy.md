@@ -282,7 +282,7 @@ See for yourself why students and educators across the country are taking a radi
 
 [![Request Demo](https://no-cache.hubspot.com/cta/default/237516/9edc81de-63e6-4eca-a4e7-d93beb5a3478.png)](https://cta-redirect.hubspot.com/cta/redirect/237516/9edc81de-63e6-4eca-a4e7-d93beb5a3478)
 
-[![MIND-Ed_Logo_White-footer](https://www.stmath.com/hubfs/graphics/logos/MIND%20Education/MIND-Ed_Logo_White-footer.svg "MIND-Ed_Logo_White-footer")](http://www.mindeducation.org/)
+[![MIND-Ed_Logo_White](https://www.stmath.com/hs-fs/hubfs/graphics/logos/MIND%20Education/PNG/MIND-Ed_Logo_White.png?width=1146&height=456&name=MIND-Ed_Logo_White.png "MIND-Ed_Logo_White")](http://www.mindeducation.org/)
 
 [](https://www.facebook.com/MindEduORG)[](https://www.x.com/MINDEduOrg)[](https://www.instagram.com/mindeducationorg/)[](https://www.linkedin.com/company/mindeducation)[](https://www.youtube.com/user/mindresearch)
 
