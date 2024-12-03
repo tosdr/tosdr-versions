@@ -23,6 +23,9 @@ Translation Menu
 
 * [Español](https://www.ftc.gov/es)
 
+Secondary Menu
+--------------
+
 * [Report Fraud](https://reportfraud.ftc.gov/)
 * [Get Consumer Alerts](https://public.govdelivery.com/accounts/USFTCCONSUMER/subscriber/new?topic_id=USFTCCONSUMER_8)
 * [Search the Legal Library](https://www.ftc.gov/legal-library)
@@ -148,11 +151,11 @@ Main Menu Mega
     
     Technology Blog
     
-    ### [Data Clean Rooms: Separating Fact from Fiction](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2024/11/data-clean-rooms-separating-fact-fiction)
+    ### [Unpacking Real Time Bidding through FTC’s case on Mobilewalla](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2024/12/unpacking-real-time-bidding-through-ftcs-case-mobilewalla)
     
-    Staff in the Office of Technology and the Division of Privacy and Identity Protection
+    Staff in the Office of Technology & Division of Privacy and Identity Protection
     
-    November 13, 2024
+    December 3, 2024
     
     [View all Technology Blog posts](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc)
     
@@ -223,20 +226,20 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC Order Requires Online Retailer GOAT to Pay More than $2 Million to Consumers for Mail Order Rule Violations and to Honor Its Buyer Protection Policies](https://www.ftc.gov/news-events/news/press-releases/2024/12/ftc-order-requires-online-retailer-goat-pay-more-2-million-consumers-mail-order-rule-violations)
+    ### [FTC Takes Action Against Gravy Analytics, Venntel for Unlawfully Selling Location Data Tracking Consumers to Sensitive Sites](https://www.ftc.gov/news-events/news/press-releases/2024/12/ftc-takes-action-against-gravy-analytics-venntel-unlawfully-selling-location-data-tracking-consumers)
     
-    December 2, 2024
+    December 3, 2024
     
     [View News and Events](https://www.ftc.gov/news-events)
     
     Upcoming Event
     --------------
     
-    Dec11
+    Dec06
     
-    ### [How To Bring National Consumer Protection Week to Your Library](https://www.ftc.gov/news-events/events/2024/12/how-bring-national-consumer-protection-week-your-library)
+    ### [Ex Parte Meeting on Unfair or Deceptive Fees NPRM between Commissioner Ferguson’s Office and The National Restaurant Association](https://www.ftc.gov/news-events/events/2024/12/ex-parte-meeting-unfair-or-deceptive-fees-nprm-between-commissioner-fergusons-office-national)
     
-    Wednesday, December 11, 2024 | 2:00PM - 3:00PM
+    Friday, December 6, 2024 | 11:00AM
     
     [View more Events](https://www.ftc.gov/news-events/events)
     
@@ -329,6 +332,9 @@ Translation Menu
 ----------------
 
 * [Español](https://www.ftc.gov/es)
+
+Secondary Menu
+--------------
 
 * [Report Fraud](https://reportfraud.ftc.gov/)
 * [Get Consumer Alerts](https://public.govdelivery.com/accounts/USFTCCONSUMER/subscriber/new?topic_id=USFTCCONSUMER_8)
