@@ -790,7 +790,7 @@ Company
 
 LEGAL
 
-[General Terms of Use](https://www.amboss.com/us/legal/terms-v2)
+[](https://www.amboss.com/us/legal/terms-v2)
 
 [](https://www.amboss.com/us/legal/terms-v1)
 
