@@ -200,6 +200,11 @@ This document was last updated on January 1, 2014
 
 #### Defense News
 
+* [Air Force wing deployments could leave bases understaffed, GAO warns](https://www.defensenews.com/air/2024/12/02/air-force-wing-deployments-could-leave-bases-understaffed-gao-warns/)  
+    12/02/24 04:30pm  
+    
+    The Air Force is changing how it deploys airmen, but government auditors warn that sending large units of airmen overseas could risk leaving their home bases vulnerable. (Senior Airman Luis Calderon/Air Force)
+    
 * [Russian jets intercept B-52s during Baltic training flight](https://www.defensenews.com/news/your-air-force/2024/11/27/russian-jets-intercept-b-52s-during-baltic-training-flight/)  
     11/27/24 12:39pm  
     
@@ -214,11 +219,6 @@ This document was last updated on January 1, 2014
     11/25/24 01:45pm  
     
     The price of the newest F-35s is expected to rise as the jet becomes more complex, the military buys fewer aircraft and inflation takes a growing bite. (1st Lt. Nathan Poblete/U.S. Air Force)
-    
-* [Russia attacked Ukraine with new ballistic missile, Putin says](https://www.defensenews.com/global/europe/2024/11/21/russia-attacked-ukraine-with-new-ballistic-missile-putin-says/)  
-    11/21/24 04:15pm  
-    
-    Ukrainian rescue workers put out a fire of a burning house damaged by a Russian strike on Dnipro, Ukraine, on Thursday. (Ukrainian Emergency Service via AP)
     
 
 Recent parts by keyword  
