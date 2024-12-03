@@ -212,4 +212,4 @@ Contact Us
 
 If you have any questions about this Privacy Policy, You can contact us by email: [\[email protected\]](https://playit.gg/cdn-cgi/l/email-protection)
 
-Copyright Ⓒ 2024 Developed Methods LLC. All Rights Reserved. [Privacy Policy.](https://playit.gg/privacy-policy) [DMCA Policy.](https://playit.gg/dmca-policy)
+Copyright Ⓒ 2024 Developed Methods LLC. All Rights Reserved. [Privacy Policy.](https://playit.gg/privacy-policy) [DMCA Policy.](https://playit.gg/dmca-policy) [Terms of Service.](https://playit.gg/terms)
