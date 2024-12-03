@@ -109,7 +109,7 @@ Search for:
 Privacy Pledges
 ===============
 
-**Effective June 20, 2024**
+**Updated November 21, 2024**
 
 Reputation.com, Inc. and its subsidiaries, including Social Mecca, Inc. (“**Nuvi**”), (“**Reputation,**”, the “**Company**” or “**we**”, “**us**”, and/or “**our**”) are committed to transparency and protecting the privacy of individuals who visit our website(s), and those individuals and businesses who purchase and/or use our desktop or mobile applications, and associated sub-domains (collectively, the “Site”) and in relation to use of our Site and the related applications and services offered by us (together with the Site, “Services”). This Privacy Notice describes the Company’s privacy practices in relation to the use of our website and the related applications and services offered for sale by Reputation and your choices about how we use personal data about you.
 
