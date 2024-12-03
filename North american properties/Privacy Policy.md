@@ -11,7 +11,6 @@
     * [History](https://www.naproperties.com/about/#history)
 * [Offices](https://www.naproperties.com/offices/)
     
-    * [Atlanta](https://www.naproperties.com/offices/atlanta/)
     * [Cincinnati](https://www.naproperties.com/offices/cincinnati/)
     * [Dallas](https://www.naproperties.com/offices/dallas/)
     * [Ft. Myers](https://www.naproperties.com/offices/fort-myers/)
@@ -31,7 +30,6 @@
     * [History](https://www.naproperties.com/about/#history)
 * [Offices](https://www.naproperties.com/offices/)
     
-    * [Atlanta](https://www.naproperties.com/offices/atlanta/)
     * [Cincinnati](https://www.naproperties.com/offices/cincinnati/)
     * [Dallas](https://www.naproperties.com/offices/dallas/)
     * [Ft. Myers](https://www.naproperties.com/offices/fort-myers/)
@@ -303,10 +301,6 @@ Cincinnati, Ohio 45202
 
 Our Offices
 -----------
-
-[Atlanta](https://www.naproperties.com/offices/atlanta/)  
-1175 Peachtree Street, Suite 1650  
-Atlanta, Georgia 30361
 
 [Cincinnati](https://www.naproperties.com/offices/cincinnati/)  
 212 E. Third Street, Suite 300  
