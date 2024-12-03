@@ -8,13 +8,11 @@
 
 [![AreYouGame.com](//areyougame.com/cdn/shop/files/AYG_Logo_Flatlg_900x.png?v=1614326358)](https://areyougame.com/)
 
-[Search](https://areyougame.com/search)
+Menu
 
 Search
 
   Search 
-
-Close search
 
 [![AreYouGame.com](//areyougame.com/cdn/shop/files/AYG_Logo_Flatlg_900x.png?v=1614326358)](https://areyougame.com/)
 
@@ -219,8 +217,6 @@ Search
 Search
 
   Search 
-
-Close search
 
 [](https://areyougame.com/account)
 
