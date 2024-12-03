@@ -3,13 +3,13 @@ Here are the [instructions on how to enable JavaScript in your web browser](http
 
 [Click to view our Accessibility Statement or contact us with accessibility-related questions](https://drop.com/accessibility)
 
-[Cyber Monday Has Arrived
+[Drop BMR1 V2 Nearfield Monitors
 
-And so have the deals.
+Second-gen speakers for any setup.
 
 SHOP NOW
 
-_keyboard\_arrow\_right_](https://drop.com/featured/cyber-monday)
+_keyboard\_arrow\_right_](https://drop.com/buy/drop-bmr1-v2-nearfield-monitors)
 
 Free Standard Shipping in the US on orders over $99
 
