@@ -10,8 +10,8 @@ Menu Toggle [Merriam-Webster Logo](https://www.merriam-webster.com/ "Merriam Web
 * [Thesaurus](https://www.merriam-webster.com/thesaurus)
 * [Join MWU](https://unabridged.merriam-webster.com/subscriber/register/p1?refc=HDR_GLOBAL_JOINMWU)
 * * Shop
-    * [Books ![link icon](/dist-cross-dungarees/2024-11-25--16-12-55-ndopr/images/svg/link-icon.svg)](https://shop.merriam-webster.com/?utm_source=mwsite&utm_medium=nav&utm_content=header) 
-    * [Merch ![link icon](/dist-cross-dungarees/2024-11-25--16-12-55-ndopr/images/svg/link-icon.svg)](https://merriamwebster.threadless.com/?utm_source=mwsite&utm_medium=nav&utm_content=header) 
+    * [Books ![link icon](/dist-cross-dungarees/2024-12-02--21-22-19-pobsu/images/svg/link-icon.svg)](https://shop.merriam-webster.com/?utm_source=mwsite&utm_medium=nav&utm_content=header) 
+    * [Merch ![link icon](/dist-cross-dungarees/2024-12-02--21-22-19-pobsu/images/svg/link-icon.svg)](https://merriamwebster.threadless.com/?utm_source=mwsite&utm_medium=nav&utm_content=header) 
 * * Settings
     * [My Words](https://www.merriam-webster.com/saved-words)
     * [Recents](https://www.merriam-webster.com/recents)
@@ -19,10 +19,10 @@ Menu Toggle [Merriam-Webster Logo](https://www.merriam-webster.com/ "Merriam Web
     * [Log Out](https://www.merriam-webster.com/logout)
 * [More](javascript:void(0);)
     * [Thesaurus](https://www.merriam-webster.com/thesaurus)
-    * [Join MWU ![link icon](/dist-cross-dungarees/2024-11-25--16-12-55-ndopr/images/svg/link-icon.svg)](https://unabridged.merriam-webster.com/subscriber/register/p1?refc=HDR_GLOBAL_JOINMWU) 
+    * [Join MWU ![link icon](/dist-cross-dungarees/2024-12-02--21-22-19-pobsu/images/svg/link-icon.svg)](https://premium.britannica.com/mw-unabridged/?utm_source=mw&utm_medium=global-nav-join&utm_campaign=evergreen) 
     * Shop
-    * [Books ![link icon](/dist-cross-dungarees/2024-11-25--16-12-55-ndopr/images/svg/link-icon.svg)](https://shop.merriam-webster.com/?utm_source=mwsite&utm_medium=nav&utm_content=header) 
-    * [Merch ![link icon](/dist-cross-dungarees/2024-11-25--16-12-55-ndopr/images/svg/link-icon.svg)](https://merriamwebster.threadless.com/?utm_source=mwsite&utm_medium=nav&utm_content=header) 
+    * [Books ![link icon](/dist-cross-dungarees/2024-12-02--21-22-19-pobsu/images/svg/link-icon.svg)](https://shop.merriam-webster.com/?utm_source=mwsite&utm_medium=nav&utm_content=header) 
+    * [Merch ![link icon](/dist-cross-dungarees/2024-12-02--21-22-19-pobsu/images/svg/link-icon.svg)](https://merriamwebster.threadless.com/?utm_source=mwsite&utm_medium=nav&utm_content=header) 
     
     * [Log In](https://www.merriam-webster.com/login)
     * Username
@@ -390,7 +390,7 @@ If you have questions about Merriam-Webster or its products, visit our [Contact 
 
 #### [complaisant](https://www.merriam-webster.com/word-of-the-day)
 
-[![Listen to the pronunciation of complaisant](/dist-cross-dungarees/2024-11-25--16-12-55-ndopr/images/svg/audio.svg)](javascript:void(0) "Listen to the pronunciation of complaisant")
+[![Listen to the pronunciation of complaisant](/dist-cross-dungarees/2024-12-02--21-22-19-pobsu/images/svg/audio.svg)](javascript:void(0) "Listen to the pronunciation of complaisant")
 
 [See Definitions and Examples](https://www.merriam-webster.com/word-of-the-day) »
 
@@ -402,7 +402,7 @@ Love words? Need even more definitions?
 
 Subscribe to America's largest dictionary and get thousands more definitions and advanced search—ad free!
 
-[Merriam-Webster unabridged](https://unabridged.merriam-webster.com/subscriber/register/p1?refc=INLINE_ARTICLE_MWU)
+[Merriam-Webster unabridged](https://premium.britannica.com/mw-unabridged/?utm_source=mw&utm_medium=inline-def&utm_campaign=evergreen)
 
 Games & Quizzes
 ---------------
