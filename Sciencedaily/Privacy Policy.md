@@ -230,25 +230,25 @@ this week
 
 [Hormone Disorders](https://www.sciencedaily.com/news/health_medicine/hormone_disorders/)
 
-[Urology](https://www.sciencedaily.com/news/health_medicine/urology/)
+[Brain Injury](https://www.sciencedaily.com/news/mind_brain/brain_injury/)
 
-[Gender Difference](https://www.sciencedaily.com/news/mind_brain/gender_difference/)
+[Urology](https://www.sciencedaily.com/news/health_medicine/urology/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Quantum Computing](https://www.sciencedaily.com/news/matter_energy/quantum_computing/)
 
-[Pluto](https://www.sciencedaily.com/news/space_time/pluto/)
+[Quantum Physics](https://www.sciencedaily.com/news/matter_energy/quantum_physics/)
 
 [Electronics](https://www.sciencedaily.com/news/matter_energy/electronics/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Extinction](https://www.sciencedaily.com/news/plants_animals/extinction/)
-
 [Veterinary Medicine](https://www.sciencedaily.com/news/plants_animals/veterinary_medicine/)
 
-[Geography](https://www.sciencedaily.com/news/earth_climate/geography/)
+[Fossils](https://www.sciencedaily.com/news/fossils_ruins/fossils/)
+
+[Extinction](https://www.sciencedaily.com/news/plants_animals/extinction/)
 
   
 
