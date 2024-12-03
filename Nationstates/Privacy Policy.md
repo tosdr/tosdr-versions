@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [South Korean Martial Law (36)](https://forum.nationstates.net/viewtopic.php?t=559163&f=20&view=unread#unread ""South Korean Martial Law" (36 posts)")
-* [Tiami's Endless Tacos (1,830)](https://forum.nationstates.net/viewtopic.php?t=558437&f=20&view=unread#unread ""Tiami's Endless Tacos" (1,830 posts)")
-* [Commend or Condemn AN II (2,650)](https://forum.nationstates.net/viewtopic.php?t=553545&f=25&view=unread#unread ""Commend or Condemn AN II" (2,650 posts)")
-* [Syrian Civil War: 3-Day Special Milit… (135)](https://forum.nationstates.net/viewtopic.php?t=558866&f=20&view=unread#unread ""Syrian Civil War: 3-Day Special Military Op For Aleppo" (135 posts)")
-* [What is the most terrifying thing abo… (691)](https://forum.nationstates.net/viewtopic.php?t=553705&f=25&view=unread#unread ""What is the most terrifying thing about AN" (691 posts)")
+* [Is AN pro-US, pro China or neutral? (274)](https://forum.nationstates.net/viewtopic.php?t=555598&f=25&view=unread#unread ""Is AN pro-US, pro China or neutral?" (274 posts)")
+* [Summarise AN's flag in one word (1,883)](https://forum.nationstates.net/viewtopic.php?t=548700&f=25&view=unread#unread ""Summarise AN's flag in one word" (1,883 posts)")
+* [what type of cannibalism is an most l… (11)](https://forum.nationstates.net/viewtopic.php?t=559172&f=25&view=unread#unread ""what type of cannibalism is an most likely to engage in" (11 posts)")
+* [Boxers or briefs? (55)](https://forum.nationstates.net/viewtopic.php?t=558744&f=20&view=unread#unread ""Boxers or briefs?" (55 posts)")
+* [South Korean Martial Law (505)](https://forum.nationstates.net/viewtopic.php?t=559163&f=20&view=unread#unread ""South Korean Martial Law" (505 posts)")
 
 Advertisement
 
