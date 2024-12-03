@@ -20,8 +20,6 @@ Update
 
 Check out
 
-[Shop 3 FOR 2 on all Supplements](https://puresportcbd.com/en-us/collections)
-
 [Free 7-Day Magnesium Trial Pack with orders over £75](https://puresportcbd.com/en-us/collections)
 
 [NOTE: There is a 5-day dispatch delay on all Electrolytes](https://puresportcbd.com/en-us/collections/all)
@@ -35,7 +33,7 @@ Check out
     * [SUPPLEMENTS](https://puresportcbd.com/en-us#)
     * Enhance performance, improve endurance and reduce pain.
         
-    * [SHOP ALL (3 FOR 2)](https://puresportcbd.com/en-us/collections/all)
+    * [SHOP ALL](https://puresportcbd.com/en-us/collections/all)
     * [BESTSELLERS](https://puresportcbd.com/en-us/collections/bestsellers)
     * [FREEZE ROLL AND BALM](https://puresportcbd.com/en-us/collections/cbd-balm-freeze-roll-on)
     * [ELECTROLYTES](https://puresportcbd.com/en-us/collections/electrolytes)
@@ -68,7 +66,6 @@ Check out
     
     On all orders over £75](https://puresportcbd.com/en-us/collections/all)
     
-* [3 FOR 2](https://puresportcbd.com/en-us/collections/all)
 * Our story
     
     * [OUR STORY](https://puresportcbd.com/en-us#)
@@ -142,7 +139,7 @@ Check out
         
         Enhance performance, improve endurance and reduce pain.
         
-        * [SHOP ALL (3 FOR 2)](https://puresportcbd.com/en-us/collections/all)
+        * [SHOP ALL](https://puresportcbd.com/en-us/collections/all)
         * [BESTSELLERS](https://puresportcbd.com/en-us/collections/bestsellers)
         * [FREEZE ROLL AND BALM](https://puresportcbd.com/en-us/collections/cbd-balm-freeze-roll-on)
         * [ELECTROLYTES](https://puresportcbd.com/en-us/collections/electrolytes)
@@ -176,7 +173,6 @@ Check out
     
     On all orders over £75](https://puresportcbd.com/en-us/collections/all)
     
-* [3 FOR 2](https://puresportcbd.com/en-us/collections/all)
 * [Our story](#)
     
     * [OUR STORY](https://puresportcbd.com/en-us#)
