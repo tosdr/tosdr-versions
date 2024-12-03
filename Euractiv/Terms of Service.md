@@ -22,7 +22,7 @@ For individuals](https://www.euractiv.com/euractiv-plus)
 [**Euractiv Pro**  
 For policy professionals](https://www.euractiv.com/euractiv-pro)
 
-[Ukraine](https://www.euractiv.com/topics/ukraine0/)[The Capitals](https://www.euractiv.com/sections/the-capitals/)[VDL 2.0](https://www.euractiv.com/vdl-2-0-commission-tracker/)[Defence](https://www.euractiv.com/topics/defence/)[Enlargement](https://www.euractiv.com/topics/enlargement0/) | [Newsletters](https://www.euractiv.com/newsletters/)[Podcasts](https://www.euractiv.com/podcast)[Videos](https://www.euractiv.com/video/)[Events](https://events.euractiv.com/)[Jobs](https://jobs.euractiv.com/)[Advocacy Lab](https://www.euractiv.com/content_providers/euractivs-advocacy-lab/)
+[The Capitals](https://www.euractiv.com/sections/the-capitals/)[Economy](https://www.euractiv.com/sections/economy-jobs/)[Politics](https://www.euractiv.com/sections/politics/)[Defence](https://www.euractiv.com/topics/defence/)[Enlargement](https://www.euractiv.com/topics/enlargement0/)[Ukraine](https://www.euractiv.com/topics/ukraine0/) | [Newsletters](https://www.euractiv.com/newsletters/)[Podcasts](https://www.euractiv.com/podcast)[Videos](https://www.euractiv.com/video/)[Events](https://events.euractiv.com/)[Jobs](https://jobs.euractiv.com/)[Advocacy Lab](https://www.euractiv.com/content_providers/euractivs-advocacy-lab/)
 
 ![Logo](https://www.euractiv.com/wp-content/themes/euractiv-2024/logo.png)  [×](javascript:void(0))
 
@@ -36,7 +36,7 @@ For corporations](https://www.euractiv.com/euractiv-pro)
 
 Login My account
 
-[Ukraine](https://www.euractiv.com/topics/ukraine0/) [The Capitals](https://www.euractiv.com/sections/the-capitals/) [VDL 2.0](https://www.euractiv.com/vdl-2-0-commission-tracker/) [Defence](https://www.euractiv.com/topics/defence/) [Enlargement](https://www.euractiv.com/topics/enlargement0/)
+[The Capitals](https://www.euractiv.com/sections/the-capitals/) [Economy](https://www.euractiv.com/sections/economy-jobs/) [Politics](https://www.euractiv.com/sections/politics/) [Defence](https://www.euractiv.com/topics/defence/) [Enlargement](https://www.euractiv.com/topics/enlargement0/) [Ukraine](https://www.euractiv.com/topics/ukraine0/)
 
 [Global Europe](https://www.euractiv.com/sections/global-europe) [Economy](https://www.euractiv.com/sections/economy-jobs) [Politics](https://www.euractiv.com/sections/politics) [Agrifood](https://www.euractiv.com/sections/agriculture-food) [Health](https://www.euractiv.com/sections/health-consumers) [Tech](https://www.euractiv.com/sections/tech) [Energy, Environment & Transport](https://www.euractiv.com/sections/eet)
 
@@ -611,27 +611,27 @@ Languages: [Français](https://www.euractiv.fr/?post_type=page&p=179361) | [Deut
 Most recent
 -----------
 
-[02-12-2024
+[03-12-2024
 
-French government on the verge of collapse ahead of no-confidence vote](https://www.euractiv.com/section/politics/news/french-government-on-the-verge-of-collapse-ahead-of-no-confidence-vote/)[02-12-2024
+As sabotage allegations swirl, NATO struggles to secure the Baltic Sea](https://www.euractiv.com/section/global-europe/news/as-sabotage-allegations-swirl-nato-struggles-to-secure-the-baltic-sea/)[03-12-2024
 
-German centrist parties add support for early revision of CO2 car rules](https://www.euractiv.com/section/eet/news/german-centrist-parties-add-support-for-early-revision-of-co2-car-rules/)[02-12-2024
+NATO expected to sidestep Ukraine’s call for quick invite](https://www.euractiv.com/section/global-europe/news/nato-expected-to-sidestep-ukraines-call-for-quick-invite/)[03-12-2024
 
-DSA audit scorecard: How are Big Tech platforms complying with the EU’s landmark legislation?](https://www.euractiv.com/section/tech/news/dsa-audit-score-card-how-are-big-tech-platforms-complying-with-the-eus-landmark-legislation/)[02-12-2024
+Starmer concedes negotiations would end Ukraine war](https://www.euractiv.com/section/global-europe/news/starmer-concedes-negotiations-would-end-ukraine-war/)[03-12-2024
 
-Steelmakers urge EU to introduce mandatory ‘green’ steel quotas for carmakers](https://www.euractiv.com/section/eet/news/steelmakers-urge-eu-to-introduce-mandatory-green-steel-quotas-for-carmakers/)[02-12-2024
+Kennedy Jr. won’t visit Bucharest as court validates Romanian presidential election result](https://www.euractiv.com/section/politics/news/the-capitals-kennedy-jr-wont-visit-bucharest-as-court-validates-romanian-presidential-election-result/)[03-12-2024
 
-Germany’s Scholz announces Ukraine military aid in visit to Kyiv](http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2024:newsml_L2N3N3055:356738711)[02-12-2024
+Bulgaria declares Russian billionaire football boss ‘persona non grata’](https://www.euractiv.com/section/politics/news/bulgaria-declares-russian-billionaire-football-boss-persona-non-grata/)[03-12-2024
 
-At least 25 killed as Russian, Syrian jets intensify bombing of Syrian rebel territory](https://www.euractiv.com/section/global-europe/news/at-least-25-killed-as-russian-syrian-jets-intensify-bombing-of-syrian-rebel-territory/)[02-12-2024
+Czech arms maker breaks into global top 100 defence companies](https://www.euractiv.com/section/politics/news/czech-arms-maker-breaks-into-global-top-100-defence-companies/)[03-12-2024
 
-Protests in Georgia spread as PM defies US condemnation](https://www.euractiv.com/section/global-europe/news/protests-in-georgia-spread-as-pm-defies-us-condemnation/)[02-12-2024
+Trump to attend Notre-Dame reopening in first foreign trip since election](https://www.euractiv.com/section/global-europe/news/trump-to-attend-notre-dame-reopening-in-first-foreign-trip-since-election/)[03-12-2024
 
-Poland’s PiS protests new school subject, claims it will pervert children](https://www.euractiv.com/section/politics/news/the-capitals-polands-pis-protests-new-school-subject-claims-it-will-pervert-children/)[02-12-2024
+Poland’s Duda dislikes PiS-backed presidential candidate, sources say](https://www.euractiv.com/section/politics/news/polands-duda-dislikes-pis-backed-presidential-candidate-sources-say/)[03-12-2024
 
-Biden signs presidential pardon for his son Hunter](https://www.euractiv.com/section/global-europe/news/biden-signs-presidential-pardon-for-his-son-hunter/)[02-12-2024
+Thousands rally after Georgian PM vows to quash ‘foreign-funded revolution’](https://www.euractiv.com/section/global-europe/news/thousands-rally-after-georgian-pm-vows-to-quash-foreign-funded-revolution/)[03-12-2024
 
-Brussels halts EU recovery plan payment for Bulgaria](https://www.euractiv.com/section/politics/news/brussels-halts-eu-recovery-plan-payment-for-bulgaria/)
+Three of 103 hate crime probes in Portugal led to charges this year](https://www.euractiv.com/section/politics/news/three-of-103-hate-crime-probes-in-portugal-led-to-charges-this-year/)
 
 ###### Advertisement
 
