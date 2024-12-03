@@ -94,12 +94,11 @@ Close this search box.
     
     * [Cessation of 3G Services](https://intercom.help/myrepublicsg/en/articles/8956047-3g-service-ending-transition-to-4g-5g)
     
-    * Limited Time Offer!
+    * Get More for Less!
     
-    [![](data:image/svg+xml;nitro-empty-id=MjM3NTozMTY=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTY2NyAxMjgwIiB3aWR0aD0iMTY2NyIgaGVpZ2h0PSIxMjgwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://myrepublic.net/sg/4g/)
+    [![](data:image/svg+xml;nitro-empty-id=MjM3NTozNDQ=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTY2NyAxMjgwIiB3aWR0aD0iMTY2NyIgaGVpZ2h0PSIxMjgwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://myrepublic.net/sg/4g/)
     
-    ### [Our Best 4G Plan:  
-    $7.99/mth 188GB for first 6 mths](https://myrepublic.net/sg/4g/)
+    ### [Now with FREE 1GB Data Roaming](https://myrepublic.net/sg/4g/)
     
     [Get Plans](https://myrepublic.net/sg/4g/)
     
@@ -280,15 +279,15 @@ Close this search box.
     
     [View all products](https://sgshop.myrepublic.net/collections/wearables/?utm_source=myrepublic&utm_medium=referral&utm_term=wearables)
     
-    * [Home Security](https://sgshop.myrepublic.net/collections/gaming-peripherals/?utm_source=myrepublic&utm_medium=referral&utm_term=security)
+    * [Gaming](https://sgshop.myrepublic.net/collections/gaming)
     
-    [![](data:image/svg+xml;nitro-empty-id=MzM4NDo0NjU=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzAwIDY5NiIgd2lkdGg9IjcwMCIgaGVpZ2h0PSI2OTYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://sgshop.myrepublic.net/products/ebo-se/?utm_source=myrepublic&utm_medium=referral&utm_term=enabot)
+    [![](data:image/svg+xml;nitro-empty-id=MzM4NDo2NTU=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNjAwIDYwMCIgd2lkdGg9IjYwMCIgaGVpZ2h0PSI2MDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://sgshop.myrepublic.net/products/razer-ornata-v3)
     
-    ### [Enabot EBO SE](https://sgshop.myrepublic.net/products/ebo-se/?utm_source=myrepublic&utm_medium=referral&utm_term=enabot)
+    ### [Razer Ornata V3](https://sgshop.myrepublic.net/products/razer-ornata-v3)
     
-    ### $199.00
+    ### $109.90
     
-    [View all products](https://sgshop.myrepublic.net/collections/gaming-peripherals/?utm_source=myrepublic&utm_medium=referral&utm_term=security)
+    [View all products](https://sgshop.myrepublic.net/collections/gaming)
     
     * [Audio](https://sgshop.myrepublic.net/collections/audio/?utm_source=myrepublic&utm_medium=referral&utm_term=audio)
     
