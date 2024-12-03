@@ -400,7 +400,8 @@ This Code of Conduct borrows heavily from the Stumptown Syndicate [Citizen's Cod
 
 This document may be reused under a [Creative Commons Attribution-ShareAlike License](https://creativecommons.org/licenses/by-sa/4.0/).
 
-### Table of contents
+Table of contents
+-----------------
 
 * [tl;dr](#tldr)
 * [Scope](#scope)
