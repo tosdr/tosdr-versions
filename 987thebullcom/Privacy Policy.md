@@ -349,11 +349,11 @@ Recently Played
 
 |     |
 | --- |
-| Backseat DriverKane Brown<br><br>10:42pm |
-| When She Says BabyJason Aldean<br><br>10:39pm |
-| Where The Wild Things AreLuke Combs<br><br>10:35pm |
-| You Look Like You Love MeElla Langley Ft Riley Green<br><br>10:31pm |
-| Darlin'Chase Matthew<br><br>10:20pm |
+| This Town'S Been Too Good To UsDylan Scott<br><br>4:40am |
+| CowgirlsMorgan Wallen Ft Ernest<br><br>4:37am |
+| Life With YouKelsey Hart<br><br>4:34am |
+| Pour Me A DrinkPost Malone Ft Blake Shelton<br><br>4:31am |
+| Messed Up As MeKeith Urban<br><br>4:28am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -497,21 +497,21 @@ State
 Featured Brands
 ---------------
 
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+
+News Talk • Eastern
+
 [![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
 Country • Western
 
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
-
-Top 40 • Pacific NW
-
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
-
-Spanish • Western
-
 [![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
 Sports • Midwest
+
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+
+Top 40 • Eastern
 
 [](https://www.alphamediausa.com/)
 
