@@ -343,4 +343,6 @@ Privacy center
 
 [Terms and conditions](http://corporate.exxonmobil.com/global-legal-pages/terms-and-conditions)
 
+[Resources](http://corporate.exxonmobil.com/resources)
+
 © Copyright 2003-2024 Exxon Mobil Corporation. All Rights Reserved.
