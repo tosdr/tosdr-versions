@@ -2,6 +2,17 @@
 
 ![Reason.com - Free Minds and Free Markets](https://d2eehagpk5cl65.cloudfront.net/wp-content/themes/reason-dot-com-theme/dist/./logo_2ea65906.svg)](https://reason.com/)
 
+![Reason logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+
+![Reason logo](https://d2eehagpk5cl65.cloudfront.net/wp-content/themes/reason-dot-com-theme/dist/./r-in-g1-01_36e38c66.svg)
+
+### Reason's Annual Webathon is underway! Donate today to see your name here.
+
+#### Reason is supported by:  
+Scott Ewine
+
+[Donate](https://reason.com/donate/?rfr=d0001&ip_creative_slot=ad&ip_creative_name=top_banner&ip_promotion_id=d0001&ip_promotion_name=webathon_2024&ip_item_name=donation "Donate to Reason")
+
 [![Reason logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20711%20180'%3E%3C/svg%3E)
 
 ![Reason logo](https://d2eehagpk5cl65.cloudfront.net/wp-content/themes/reason-dot-com-theme/dist/./logo-inverted-without-tag_c6a8c72e.svg)](https://reason.com/)[![Reason logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
@@ -126,16 +137,112 @@ email: copyright@reason.com
 
 This site is protected by reCAPTCHA and the Google [**Privacy Policy**](https://policies.google.com/privacy) and [**Terms of Service**](https://policies.google.com/terms) apply.
 
-![Reason Plus](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+![r](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![Reason Plus](https://d2eehagpk5cl65.cloudfront.net/wp-content/themes/reason-dot-com-theme/dist/./reason-plus-logo_fa18e919.svg)
+![r](https://d2eehagpk5cl65.cloudfront.net/wp-content/themes/reason-dot-com-theme/dist/./logo-without-tag_98d26ec8.svg)
 
-#### Special Offer!
+#### SHUT UP AND TAKE MY MONEY!
 
-* Full digital edition access
-* No ads
-* Commenting privileges
+(You don't really have to shut up, but here's my money.)
 
-Just **$25** per year
+[Yes, I'll donate to _Reason_ right now!](https://reason.com/donate/?rfr=p0009&ip_creative_slot=popup&ip_creative_name=popup_9&ip_promotion_id=p0009&ip_promotion_name=webathon_2024&ip_item_name=donation) [I'll keep my money today, thanks](#)
 
-[Join Today!](https://reason.secure.darwin.cx/J4PKEXTR?utm_source=popup&utm_medium=internal_ad&utm_campaign=reason_plus)
+![r](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+
+![r](https://d2eehagpk5cl65.cloudfront.net/wp-content/themes/reason-dot-com-theme/dist/./logo-without-tag_98d26ec8.svg)
+
+#### HELP EXPAND _REASON_’S JOURNALISM
+
+_Reason_ is an independent, audience-supported media organization. Your investment helps us reach millions of people every month.
+
+[Yes, I’ll invest in _Reason_’s growth!](https://reason.com/donate/?rfr=p0020&ip_creative_slot=popup&ip_creative_name=popup_20&ip_promotion_id=p0020&ip_promotion_name=webathon_2024&ip_item_name=donation) [No thanks](#)
+
+![r](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+
+![r](https://d2eehagpk5cl65.cloudfront.net/wp-content/themes/reason-dot-com-theme/dist/./logo-without-tag_98d26ec8.svg)
+
+#### I WANT FREE MINDS AND FREE MARKETS!
+
+Help _Reason_ push back with more of the fact-based reporting we do best. Your support means more reporters, more investigations, and more coverage.
+
+[Make a donation today!](https://reason.com/donate/?rfr=p0021&ip_creative_slot=popup&ip_creative_name=popup_21&ip_promotion_id=p0021&ip_promotion_name=webathon_2024&ip_item_name=donation) [No thanks](#)
+
+![r](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+
+![r](https://d2eehagpk5cl65.cloudfront.net/wp-content/themes/reason-dot-com-theme/dist/./logo-without-tag_98d26ec8.svg)
+
+#### I’M SICK OF POLITICS AS USUAL
+
+_Reason_ is the antidote to the same old stale take on ideas that actually matter to me.
+
+[I’ll support Free Minds and Free Markets!](https://reason.com/donate/?rfr=p0022&ip_creative_slot=popup&ip_creative_name=popup_22&ip_promotion_id=p0022&ip_promotion_name=webathon_2024&ip_item_name=donation) [Not interested](#)
+
+![r](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+
+![r](https://d2eehagpk5cl65.cloudfront.net/wp-content/themes/reason-dot-com-theme/dist/./logo-without-tag_98d26ec8.svg)
+
+#### FACTS ARE STUBBORN THINGS
+
+_Reason_ pushes me to think critically with facts and analysis that shape my perspective and amplify the ideas I care about.
+
+[I want to make a donation so that my voice can be heard!](https://reason.com/donate/?rfr=p0023&ip_creative_slot=popup&ip_creative_name=popup_23&ip_promotion_id=p0023&ip_promotion_name=webathon_2024&ip_item_name=donation) [Not today](#)
+
+![r](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+
+![r](https://d2eehagpk5cl65.cloudfront.net/wp-content/themes/reason-dot-com-theme/dist/./logo-without-tag_98d26ec8.svg)
+
+#### I WANT TO FUND FREE MINDS AND FREE MARKETS
+
+Every dollar I give helps to fund more journalists, more videos, and more amazing stories that celebrate liberty.
+
+[Yes! I want to put my money where your mouth is!](https://reason.com/donate/?rfr=p0024&ip_creative_slot=popup&ip_creative_name=popup_24&ip_promotion_id=p0024&ip_promotion_name=webathon_2024&ip_item_name=donation) [Not interested](#)
+
+![r](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+
+![r](https://d2eehagpk5cl65.cloudfront.net/wp-content/themes/reason-dot-com-theme/dist/./logo-without-tag_98d26ec8.svg)
+
+#### I SUPPORT INDEPENDENT JOURNALISM!
+
+It’s hard to trust the media these days, especially when everyone is pushing a partisan agenda. _Reason_ stands for my right to make my own choices.
+
+[Yes, I want to make a difference for Free Minds and Free Markets!](https://reason.com/donate/?rfr=p0025&ip_creative_slot=popup&ip_creative_name=popup_25&ip_promotion_id=p0025&ip_promotion_name=webathon_2024&ip_item_name=donation) [No, I’ll follow the partisan herd](#)
+
+![r](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+
+![r](https://d2eehagpk5cl65.cloudfront.net/wp-content/themes/reason-dot-com-theme/dist/./logo-without-tag_98d26ec8.svg)
+
+#### POLITICS MAKES ME SO MAD!
+
+_Reason_’s fearless, principled journalism keeps me sane in a crazy world.
+
+[Making a donation to Reason right now will keep me from losing my mind!](https://reason.com/donate/?rfr=p0026&ip_creative_slot=popup&ip_creative_name=popup_26&ip_promotion_id=p0026&ip_promotion_name=webathon_2024&ip_item_name=donation) [No, I like being mad](#)
+
+![r](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+
+![r](https://d2eehagpk5cl65.cloudfront.net/wp-content/themes/reason-dot-com-theme/dist/./logo-without-tag_98d26ec8.svg)
+
+#### SUPPORT HONEST JOURNALISM
+
+So much of the media tries telling you what to think. Support journalism that helps you to think for yourself.
+
+[I’ll donate to _Reason_ right now!](https://reason.com/donate/?rfr=p0027&ip_creative_slot=popup&ip_creative_name=popup_27&ip_promotion_id=p0027&ip_promotion_name=webathon_2024&ip_item_name=donation) [No thanks](#)
+
+![r](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+
+![r](https://d2eehagpk5cl65.cloudfront.net/wp-content/themes/reason-dot-com-theme/dist/./logo-without-tag_98d26ec8.svg)
+
+#### MORE GOVERNMENT MEDDLING IN MY LIFE? NO THANKS.
+
+Support the voices that advocate for your freedom. Donate to _Reason_ today!
+
+[Yes, I want to make a difference for Free Minds and Free Markets!](https://reason.com/donate/?rfr=p0028&ip_creative_slot=popup&ip_creative_name=popup_28&ip_promotion_id=p0028&ip_promotion_name=webathon_2024&ip_item_name=donation) [No thanks](#)
+
+![r](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+
+![r](https://d2eehagpk5cl65.cloudfront.net/wp-content/themes/reason-dot-com-theme/dist/./logo-without-tag_98d26ec8.svg)
+
+#### PUSH BACK
+
+Push back against misleading media lies and bad ideas. Support _Reason_’s journalism today.
+
+[My donation today will help _Reason_ push back!](https://reason.com/donate/?rfr=p0029&ip_creative_slot=popup&ip_creative_name=popup_29&ip_promotion_id=p0029&ip_promotion_name=webathon_2024&ip_item_name=donation) [Not today](#)
