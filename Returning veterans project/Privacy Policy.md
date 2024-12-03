@@ -185,11 +185,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![William S Berger](https://cdn.returningveterans.org/images/honor/Uncle_Bill.jpg)  
+![Tony & Olga Duke](https://cdn.returningveterans.org/images/honor/flag_generic_wall_of_honor.jpg)  
 
-**In Memory of William S Berger**  
-United States Army  
-Submitted by Eric & Elizabeth Berger](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Honor of Tony & Olga Duke**  
+United States Navy  
+Submitted by Anthony Duke, Jr](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -232,5 +232,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 12/02/24 - 1:30:26  
+Printed 12/02/24 - 7:25:47  
 © 2024 Returning Veterans Project
