@@ -69,11 +69,11 @@
         * [Become a Partner](https://www.yotpo.com/partners/)
         * [Careers](https://www.yotpo.com/careers/)
     * * [Highlights](#)
-        * [![2024 Black Friday Calendar](https://www.yotpo.com/wp-content/uploads/2024/08/Menu-1.svg)
+        * [![2024 Black Friday Calendar](https://www.yotpo.com/wp-content/uploads/2024/12/menu.svg)
             
             2024 Black Friday Calendar
             
-            Everything you need to do for Black Friday, and when.](https://www.yotpo.com/ecommerce-marketing-calendar/)
+            Email & SMS inspiration for key marketing dates throughout 2025.](https://www.yotpo.com/ecommerce-marketing-calendar/)
         * [![Amazing Women in eCommerce](https://www.yotpo.com/wp-content/uploads/2023/05/AWIE@1x-1.svg)
             
             Amazing Women in eCommerce
