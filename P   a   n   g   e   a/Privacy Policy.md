@@ -1,7 +1,7 @@
 ![](pan1.gif)  
   
   
-131,749 members - 452,702,275 ads shown  
+131,749 members - 452,704,125 ads shown  
   
 GET "LAYERED" ADVERTISING FROM 1 CLICK!  
   
@@ -57,11 +57,11 @@ paid member banners
 
 [![](https://imgallery.llsvr.com/jeffaman.665f8c470cd25.gif)](https://track.toprated.vip/maryanne450)
 
-[![](https://boomerangblaster.com/ban34.gif)](https://boomerangblaster.com/kdominator)
+[![](https://cherrytraffic.com/ban2.gif)](https://cherrytraffic.com/pickinpea)
 
 [![](https://boomerangblaster.com/banner2.gif)](https://boomerangblaster.com/nightmagic)
 
-[![](https://freeadvertisingforyou.com/images/125System.gif)](https://trackerboard.com/go.php?id=14703)
+[![](https://geniecoop.com/ban33.gif)](https://geniecoop.com/nightmagic)
 
 ![](26yrs0.gif)
 
