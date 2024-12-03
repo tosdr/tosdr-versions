@@ -223,7 +223,7 @@ Share article
     whatsapp](https://wa.me/?text=https%3A%2F%2Fwww.telegraph.co.uk%2Fabout-us%2Fterms-and-conditions%2F)
 * [email](mailto:?to=&subject=Terms+and+Conditions&body=https%3A%2F%2Fwww.telegraph.co.uk%2Fabout-us%2Fterms-and-conditions%2F)
 
-31 August 2023 11:29am GMT+01:00
+31 August 2023 11:29am BST
 
 Save
 
