@@ -143,7 +143,7 @@ Atos homepage](https://atos.net/en/)
         
         * [Agreement reached between Atos and Unisys regarding the lawsuit filed by Unisys against Atos and two Atos employees](https://atos.net/en/2024/press-release_2024_12_03/agreement-reached-between-atos-and-unisys-regarding-the-lawsuit-filed-by-unisys-against-atos-and-two-atos-employees-2)
         * [Annual General Meeting to approve the 2023 financial statements to be held on January 31, 2025 at 10:00am CET at the Company’s headquarters](https://atos.net/en/2024/press-release_2024_12_02/annual-general-meeting-to-approve-the-2023-financial-statements-to-be-held-on-january-31-2025-at-1000am-cet-at-the-companys-headquarters)
-        * [Atos completes the sale of Worldgrid to ALTEN for an enterprise value of €270 million](https://atos.net/en/2024/press-release_2024_12_02/atos-completes-the-sale-of-worldgrid-to-alten-for-an-enterprise-value-of-e270-million)
+        * [Atos named Official Technology Partner for the Invictus Games 2025](https://atos.net/en/2024/press-release_2024_11_27/atos-named-official-technology-partner-for-the-invictus-games-2025)
         
         ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
@@ -166,18 +166,18 @@ Atos homepage](https://atos.net/en/)
         
         ### Latest articles
         
+        * [Building an inclusive future with digital accessibility maturity assessments](https://atos.net/en/blog/building-an-inclusive-future-with-digital-accessibility-maturity-assessments)
         * [GraphRAG: Transforming business intelligence](https://atos.net/en/blog/graphrag-transforming-business-intelligence-retrieval-augmented-generation)
         * [Bringing disability inclusion from the margins to mainstream](https://atos.net/en/blog/positively-purple-2024-disability-inclusion)
         * [Reshaping employee experience with a data-driven digital workplace](https://atos.net/en/blog/reshaping-employee-experience-data-driven-digital-workplace)
-        * [Modernize without compromise: Why hybrid cloud still matters](https://atos.net/en/blog/modernize-without-compromise-why-hybrid-cloud-still-matters)
         
         [All articles](https://atos.net/en/blog)
         
         ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
-        Nov 26, 2024
+        Dec 3, 2024
         
-        ### GraphRAG: Transforming business intelligence
+        ### Building an inclusive future with digital accessibility maturity assessments
         
     * [Client Stories](https://atos.net/en/client-stories)˅
         
