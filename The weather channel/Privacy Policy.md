@@ -52,7 +52,7 @@ Radar & Maps
 News & Media
 ------------
 
-[Top Weather Stories](https://weather.com/news/weather/video/michigan-pileup-i94-lake-effect-snow)[Hurricane Central](https://weather.com/storms/hurricane-central)[Science & Environment](https://weather.com/science/environment)[Space & Skywatching](https://weather.com/science/space)[Safety & Prep](https://weather.com/safety/index)[Videos](https://weather.com/news/weather/video/michigan-pileup-i94-lake-effect-snow)[Bios](https://weather.com/bios)
+[Top Weather Stories](https://weather.com/news/weather/video/new-york-cow-barn-collapse-arkwright-snow)[Hurricane Central](https://weather.com/storms/hurricane-central)[Science & Environment](https://weather.com/science/environment)[Space & Skywatching](https://weather.com/science/space)[Safety & Prep](https://weather.com/safety/index)[Videos](https://weather.com/news/weather/video/new-york-cow-barn-collapse-arkwright-snow)[Bios](https://weather.com/bios)
 
 Products
 --------
@@ -83,7 +83,7 @@ Arrow Left
 
 Arrow Right
 
-[My DashboardNEW](https://weather.com/mydashboard)[Today](#noloc_/weather/today/l/)[Hourly](#noloc_/weather/hourbyhour/l/)[10 Day](#noloc_/weather/tenday/l/)[Weekend](#noloc_/weather/weekend/l/)[Monthly](#noloc_/weather/monthly/l/)[Radar](#noloc_/weather/radar/interactive/l/)[VideoWinter](https://weather.com/storms/winter/video/drone-video-lake-effect-snow-blankets-watertown-new-york?adRef=nav_trpcl)
+[My DashboardNEW](https://weather.com/mydashboard)[Today](#noloc_/weather/today/l/)[Hourly](#noloc_/weather/hourbyhour/l/)[10 Day](#noloc_/weather/tenday/l/)[Weekend](#noloc_/weather/weekend/l/)[Monthly](#noloc_/weather/monthly/l/)[Radar](#noloc_/weather/radar/interactive/l/)[VideoWinter](https://weather.com/storms/winter/video/subzero-lows-temperatures-freezing-forecast?adRef=nav_trpcl)
 
 More ForecastsMoreArrow down
 
@@ -1448,7 +1448,7 @@ This global Policy describes our privacy practices across our supported countrie
     We collect data such as employment history, education history, and name when you apply for employment at The Weather Company, LLC. See [Section 6 “Data Rights”](#us-data-rights-previous) for instructions to execute your data rights.
     
 
-Weather Underground
+[](https://www.weathercompany.com/)[](https://weather.com/)[Weather Underground](https://www.wunderground.com/)[](https://weather.com/storm-radar)
 
 * [Feedback](https://support.weather.com/s/?language=en_US&type=TWC)
 * [Mission](https://weather.com/mission)
@@ -1457,6 +1457,7 @@ Weather Underground
 * [Advertise With Us](https://www.weathercompany.com/advertising/)
 * [TV](https://www.weathergroup.com/brands/the-weather-channel/)
 * [Newsletter Sign Up](https://weather.com/newsletter?cm_ven=dnt_newsletter_footer)
+* [Weather Data APIs](https://www.weathercompany.com/weather-data-apis/)
 
 * [Terms of Use](https://weather.com/legal)
 * [Privacy Policy](https://weather.com/en-US/twc/privacy-policy)
