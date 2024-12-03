@@ -1,9 +1,3 @@
-Neiman Marcus
-
-Earn a $50-$1,250 gift card+ Up to 15% Cash Back
-
-Get Code
-
 [![Rakuten Logo](https://static.rakuten.com/static/svg/rakuten/rak-logo-brand-v1.svg)](https://www.rakuten.com/) [Help Center](https://www.rakuten.com/help)
 
 Sign InJoin Now
