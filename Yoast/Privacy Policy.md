@@ -1,7 +1,5 @@
 [Skip to content](#content)
 
-**[Black Friday SALE: 30% OFF on all Yoast SEO products](https://yoast.com/shop/)**. **Sale ends in:**
-
 Search  Search
 
 [![Yoast - SEO for everyone](https://yoast.com/app/themes/yoast-theme/images/logo-diap.svg)](https://yoast.com/)
