@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/de-amerikaan-met-zn-ultra-zacht-toiletpapier-is-een-milieuramp/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/hoofdartikelen/mh17-oekraiense-slager-keurt-eigen-vlees/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
