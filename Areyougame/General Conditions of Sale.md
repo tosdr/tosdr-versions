@@ -1,18 +1,18 @@
     
 
+    
+
         [Skip to content](#MainContent)
 
 **Free Standard Shipping When You Spend $50+. Use code “FREESHIP24”.**
 
 [![AreYouGame.com](//areyougame.com/cdn/shop/files/AYG_Logo_Flatlg_900x.png?v=1614326358)](https://areyougame.com/)
 
-[Search](https://areyougame.com/search)
+Menu
 
 Search
 
   Search 
-
-Close search
 
 [![AreYouGame.com](//areyougame.com/cdn/shop/files/AYG_Logo_Flatlg_900x.png?v=1614326358)](https://areyougame.com/)
 
@@ -217,8 +217,6 @@ Search
 Search
 
   Search 
-
-Close search
 
 [](https://areyougame.com/account)
 
