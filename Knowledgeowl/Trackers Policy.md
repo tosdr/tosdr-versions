@@ -444,7 +444,7 @@ Table of Contents Table of Contents Toggle navigation
     
     * [Related Articles](https://www.knowledgeowl.com/help/related-articles)
         
-        * [How to use Related Articles](javascript:void(0);)
+        * [Feature overview](javascript:void(0);)
             
             * [How it works](https://www.knowledgeowl.com/help/how-related-articles-work)
             * [Where do Related Articles show up?](https://www.knowledgeowl.com/help/where-do-related-articles-show-up)
@@ -452,9 +452,7 @@ Table of Contents Table of Contents Toggle navigation
             * [Use automatic Related Articles](https://www.knowledgeowl.com/help/use-automatic-related-articles)
             * [Manually suggest Related Articles](https://www.knowledgeowl.com/help/manually-suggest-related-articles)
             * [Use both manual and automatic Related Articles](https://www.knowledgeowl.com/help/use-combo-manual-automatic-related-articles)
-            * [Add related articles](https://www.knowledgeowl.com/help/adding-related-articles)
-            * [Reorder or remove Related Articles](https://www.knowledgeowl.com/help/reordering-or-removing-related-articles)
-        * [Configure Related Articles](javascript:void(0);)
+        * [Set up Related Articles](javascript:void(0);)
             
             * [Enable automatically suggested Related Articles](https://www.knowledgeowl.com/help/enable-related-articles)
             * [Disable automatically suggested Related Articles](https://www.knowledgeowl.com/help/disable-automatic-suggestions-related-articles)
@@ -465,6 +463,10 @@ Table of Contents Table of Contents Toggle navigation
             * [Hide Related Articles section from a specific article](https://www.knowledgeowl.com/help/hide-related-articles-section-from-a-specific-article)
             * [Hide Related Articles when there are none](https://www.knowledgeowl.com/help/hide-related-articles-when-there-are-none)
             * [Hide Related Articles when there is only one or less](https://www.knowledgeowl.com/help/hide-related-articles-when-there-is-only-one-or-less)
+        * [Add and remove related articles](javascript:void(0);)
+            
+            * [Add related articles](https://www.knowledgeowl.com/help/adding-related-articles)
+            * [Reorder or remove Related Articles](https://www.knowledgeowl.com/help/reordering-or-removing-related-articles)
     * [Contact Form](javascript:void(0);)
         
         * [Contact form overview](https://www.knowledgeowl.com/help/contactform)
