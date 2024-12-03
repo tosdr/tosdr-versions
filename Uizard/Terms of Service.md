@@ -286,9 +286,11 @@ Before you continue, you should print or save a local copy of this Agreement for
 16\. COMPANY DETAILS AND CONTACT INFORMATION.
 ---------------------------------------------
 
-**UizardApp ApS**
+**Uizard**
 
-**Address:** Rosenørns Allé 31, 2. 1970 Frederiksberg C, Denmark
+**c/o Miro, Republikken**
+
+**Address:** Vesterbrogade 26, 1620 Copenhagen, Denmark
 
 **CVR:** 40868445
 
