@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/marcel-en-martijn-in-samenspraak/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/elektro-magnetische-straling-ems/5g-torens-in-brand-ook-in-nederland/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
