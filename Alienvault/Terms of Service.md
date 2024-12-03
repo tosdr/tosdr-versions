@@ -499,7 +499,7 @@ We exclude liability for actions taken in response to breaches of this Code of C
 
 Our failure to insist upon or enforce strict performance of any provision of these Terms of Use shall not be construed as a waiver of any provision or right. Neither the course of conduct between the parties nor trade practice shall act to modify any provision of these Terms of Use. We may change, suspend or discontinue any aspect of our Site or service at any time. LevelBlue reserves the right to change system configurations, product specifications, upgrades, pricing, layouts, options and any other specifications at any time without notice. We may also impose limits or restrictions on certain services, features or content or restrict your access to parts or all of our Site without notice or liability.
 
-We welcome your questions and comments regarding these Terms of Use and anything else on this Site. Please email us at [dl-cyberweb@att.com](mailto:dl-cyberweb@att.com?subject=WEBSITE%20TERMS%20OF%20USE%20-%20Date%20%2F%20Version%3A%2007%20May%202018)
+We welcome your questions and comments regarding these Terms of Use and anything else on this Site. Please email us at [cyberweb@levelblue.com](mailto:cyberweb@levelblue.com?subject=WEBSITE%20TERMS%20OF%20USE)
 
 [LevelBlue logo LevelBlue logo](https://www.alienvault.com/ "LevelBlue logo")
 
