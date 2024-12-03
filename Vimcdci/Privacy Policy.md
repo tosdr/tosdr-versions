@@ -68,7 +68,7 @@ Subject \*
 
 Your Message \*
 
-Email
+Phone
 
 SEND MESSAGE
 
