@@ -370,12 +370,12 @@ Atari 7800+](https://www.atari.com/collections/7800)
 
  
 
-CYBER MONDAY BUNDLES
-====================
+GIVE THE GIFT OF ATARI
+======================
 
-Bundle and SAVE on consoles, games, merch, and more!
+SAVE on consoles, games, merch, and more!
 
-[Shop Now](https://www.atari.com/collections/cyber-monday-bundles)
+[Shop Now](https://www.atari.com/collections/holiday-best-sellers)
 
  
 
@@ -440,15 +440,15 @@ SHOP NOW](https://www.atari.com/pages/holiday-gift-guides)
 
 ### Holiday Best Sellers
 
-[![Cyber Monday Exclusive: 7800+ Console w/ 2 Wireless Controllers](files/7800_ControllerBundle_ac00091b-dc0f-4116-9738-d7ed57de3ea7.jpg)
+[![Holiday Exclusive: 7800+ Console w/ 2 Wireless Controllers](files/7800_ControllerBundle_ac00091b-dc0f-4116-9738-d7ed57de3ea7.jpg)
 
-![Cyber Monday Exclusive: 7800+ Console w/ 2 Wireless Controllers](files/Atari_10102024_257_d6a2d153-b144-4fde-8c48-240d70c7d610.jpg)
+![Holiday Exclusive: 7800+ Console w/ 2 Wireless Controllers](files/Atari_10102024_257_d6a2d153-b144-4fde-8c48-240d70c7d610.jpg)
 
 Add to cart
 
-Cyber Monday Bundle
+20% OFF
 
-##### Cyber Monday Exclusive: 7800+ Console w/ 2 Wireless Controllers
+##### Holiday Exclusive: 7800+ Console w/ 2 Wireless Controllers
 
 Regular price $164.98 Sale price $131.98
 
@@ -456,15 +456,15 @@ Regular price $131.98
 
 Unit price /  per](https://www.atari.com/products/black-friday-exclusive-7800-console-w-2-wireless-controllers) 
 
-[![Cyber Monday Exclusive: 2600+ Console w/ 2 Joysticks](files/2600_ControllerBundle_5a12bb88-f403-4181-a3d1-220adf1ca0da.jpg)
+[![Holiday Exclusive: 2600+ Console w/ 2 Joysticks](files/2600_ControllerBundle_5a12bb88-f403-4181-a3d1-220adf1ca0da.jpg)
 
-![Cyber Monday Exclusive: 2600+ Console w/ 2 Joysticks](files/Atari_10102024_485_f09442dd-823f-4a04-9e97-7c36a888cd5a.jpg)
+![Holiday Exclusive: 2600+ Console w/ 2 Joysticks](files/Atari_10102024_485_f09442dd-823f-4a04-9e97-7c36a888cd5a.jpg)
 
 Add to cart
 
-Cyber Monday Bundle
+15% OFF
 
-##### Cyber Monday Exclusive: 2600+ Console w/ 2 Joysticks
+##### Holiday Exclusive: 2600+ Console w/ 2 Joysticks
 
 Regular price $154.98 Sale price $131.73
 
@@ -500,19 +500,21 @@ Regular price $40
 
 Unit price /  per](https://www.atari.com/products/oversized-fuji-hoodie)         
 
-[![VCS All-In Bundle](products/Atari_VCS_Onyx_Product_Group.jpg)
+[![Super Pocket Atari Edition](files/Image2-DualShotcopy.jpg)
 
-![VCS All-In Bundle](files/1_95fe8086-5652-4c4b-80ed-a02e32396e01.jpg)
+![Super Pocket Atari Edition](files/Image4-Lifestyle.png)
 
-Sold out
+Add to cart
 
-##### VCS All-In Bundle
+Best Seller
 
-Regular price $199.99 Sale price $199.99
+##### Super Pocket Atari Edition
 
-Regular price $199.99
+Regular price Sale price $59.99
 
-Unit price /  per](https://www.atari.com/products/atari-vcs-onyx-all-in) 
+Regular price $59.99
+
+Unit price /  per](https://www.atari.com/products/super-pocket-atari-edition) 
 
 [![Classic Katakana Tee](files/AtariKatakanaLogoTee-2.jpg)
 
@@ -544,6 +546,52 @@ Regular price $22.40
 
 Unit price /  per](https://www.atari.com/products/atari-katakana-logo-tee)       
 
+[![Distressed Fuji Tee](files/unisex-garment-dyed-heavyweight-t-shirt-red-front-66fab44f48ccacopy.jpg)
+
+![Distressed Fuji Tee](files/unisex-garment-dyed-heavyweight-t-shirt-red-front-66fbffd84fa43copy.jpg)
+
+Add to cart
+
+ S
+
+ M
+
+ L
+
+ XL
+
+ 2XL
+
+ 3XL
+
+ 4XL
+
+20% OFF
+
+##### Distressed Fuji Tee
+
+Regular price $30 Sale price $24.00
+
+Regular price $24
+
+Unit price /  per](https://www.atari.com/products/distressed-fuji-tee)     
+
+[![Atari Joystick Decanter Set](files/ThumbsUp_-ATAORGDECSET-Image1-291024-Dalia.jpg)
+
+![Atari Joystick Decanter Set](files/ThumbsUp_-ATAORGDECSET-Image5-160835-Daniel.jpg)
+
+Add to cart
+
+NEW
+
+##### Atari Joystick Decanter Set
+
+Regular price Sale price $125.00
+
+Regular price $125
+
+Unit price /  per](https://www.atari.com/products/atari-joystick-decanter-set) 
+
 [![CX30+ Paddle Controller Bundle](files/ProductImage-A_79a257b5-bdaf-485d-805f-65148be7ac1a.jpg)
 
 ![CX30+ Paddle Controller Bundle](files/Atari2023pt02_DSC00878.jpg)
@@ -559,6 +607,54 @@ Regular price $39.99 Sale price $27.99
 Regular price $27.99
 
 Unit price /  per](https://www.atari.com/products/cx30-paddle-controller-bundle) 
+
+[![7800+ Controller Mega Bundle](files/7800_MegaBundle_e7cfd13d-5028-4159-8d6e-b83682ceeb6a.jpg)
+
+![7800+ Controller Mega Bundle](files/Atari_10102024_257_2acf285d-0a69-4d16-8e20-8eb1747f08ac.jpg)
+
+Add to cart
+
+$30 OFF
+
+##### 7800+ Controller Mega Bundle
+
+Regular price $204.97 Sale price $174.97
+
+Regular price $174.97
+
+Unit price /  per](https://www.atari.com/products/7800-controller-mega-bundle) 
+
+[![CX40+ Wireless Joystick](files/CX40_-Wireless-Product-1-animation.gif)
+
+![CX40+ Wireless Joystick](files/Atari_10102024_607_80f2439b-2ea9-40d0-857e-df8d358aef43.jpg)
+
+Add to cart
+
+20% OFF
+
+##### CX40+ Wireless Joystick
+
+Regular price $34.99 Sale price $27.99
+
+Regular price $27.99
+
+Unit price /  per](https://www.atari.com/products/wireless-cx40-joystick-atari) 
+
+[![CX78+ Wireless Gamepad](files/CX78_-Wireless-Product-1-animation.gif)
+
+![CX78+ Wireless Gamepad](files/Atari_10102024_601_e80bd912-0dda-4c04-a622-e6c5f17b88cc.jpg)
+
+Add to cart
+
+20% OFF
+
+##### CX78+ Wireless Gamepad
+
+Regular price $34.99 Sale price $27.99
+
+Regular price $27.99
+
+Unit price /  per](https://www.atari.com/products/wireless-cx78-gamepad-atari) 
 
 [![Atari VCS](files/Atari_VCS.jpg)
 
