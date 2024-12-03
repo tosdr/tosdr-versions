@@ -217,7 +217,7 @@ Organisations we work with, including the Consumer Forum for Communications and 
 
 [### Register of disclosable interests
 
-Members are required to disclose interests (including shareholdings, directorships and employments) they, their partners or minor children have in companies whose core business activities (and hence share price) could be affected by Ofcom's decisions.](https://www.ofcom.org.uk/about-ofcom/structure-and-leadership/register-disclosable-interests/?language=en)
+Members are required to disclose interests (including shareholdings, directorships and employments) they, their partners or minor children have in companies whose core business activities (and hence share price) could be affected by Ofcom's decisions.](https://www.ofcom.org.uk/about-ofcom/structure-and-leadership/register-disclosable-interests/)
 
 [### Ofcom Board
 
