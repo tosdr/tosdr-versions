@@ -205,30 +205,30 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Billy Corgan's Transphobia](https://www.somethingawful.com/garbage-day/billy-corgan-transphobic/)
-* ['80s/'90s TV Theme Songs!](https://www.somethingawful.com/comedy-goldmine/tv-theme-songs/)
-* [Who Has Kirby Been Eating?](https://www.somethingawful.com/comedy-goldmine/kirby-eating-drawing/1/)
-* [Terrible Fantasy/Sci-Fi Book Art!](https://www.somethingawful.com/comedy-goldmine/fantasy-book-covers/1/)
-* [AwfulVision: This is how we watch the Yaoi!](https://www.somethingawful.com/awfulvision/anime-homies-spiderman/1/)
+* [Honest Album Titles](https://www.somethingawful.com/photoshop-phriday/honest-album-titles/1/)
+* [Religious Toys](https://www.somethingawful.com/photoshop-phriday/religious-toys/1/)
+* [Design the Worst Band Shirt!](https://www.somethingawful.com/photoshop-phriday/worst-band-shirts/1/)
+* [Video Game Heroes Gone Bad](https://www.somethingawful.com/photoshop-phriday/video-game-heroes/1/)
+* [The Original Dungeons & Dragons](https://www.somethingawful.com/dungeons-and-dragons/steve-old-gygax/1/)
 
 ### Popular Threads
 
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/question.png) [Anybody else freaked out by that yellow banner?](http://forums.somethingawful.com/showthread.php?threadid=4076811 "Anybody else freaked out by that yellow banner?")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/science.png) [Wim Hof Method](http://forums.somethingawful.com/showthread.php?threadid=4076794 "Wim Hof Method")
 * ![](https://fi.somethingawful.com/forums/posticons/LF-fuckshitdamntag2.gif) [I stepped on a scorpion this morning and it stung me underneath my foot :(](http://forums.somethingawful.com/showthread.php?threadid=4076795 "I stepped on a scorpion this morning and it stung me underneath my foot :(")
-* ![](https://fi.somethingawful.com/forums/posticons/tviv-competition.gif) [Ridiculous things that have happened that nobody saw](http://forums.somethingawful.com/showthread.php?threadid=4076761 "Ridiculous things that have happened that nobody saw")
-* ![](https://fi.somethingawful.com/forums/posticons/diy-homeimprove.gif) [Oh my god, the forums are back](http://forums.somethingawful.com/showthread.php?threadid=4076800 "Oh my god, the forums are back")
-* ![](https://fi.somethingawful.com/forums/posticons/cd_hype.gif) [South Korea declares martial law](http://forums.somethingawful.com/showthread.php?threadid=4076754 "South Korea declares martial law")
-* ![](https://fi.somethingawful.com/forums/posticons/pokeball.gif) [I found the roundest bird at work](http://forums.somethingawful.com/showthread.php?threadid=4076810 "I found the roundest bird at work")
+* ![](https://fi.somethingawful.com/forums/posticons/pokeball.gif) [The demented cartoon movie \[2001\]](http://forums.somethingawful.com/showthread.php?threadid=4076780 "The demented cartoon movie [2001]")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/music.png) [Tillamook it's the ice cream to serve](http://forums.somethingawful.com/showthread.php?threadid=4076762 "Tillamook it's the ice cream to serve")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/question.png) [Anybody else freaked out by that yellow banner?](http://forums.somethingawful.com/showthread.php?threadid=4076811 "Anybody else freaked out by that yellow banner?")
+* ![](https://fi.somethingawful.com/forums/posticons/tviv-competition.gif) [Ridiculous things that have happened that nobody saw](http://forums.somethingawful.com/showthread.php?threadid=4076761 "Ridiculous things that have happened that nobody saw")
+* ![](https://fi.somethingawful.com/forums/posticons/tviv-competition.gif) [CEO of UnitedHealthCare Fatally Shot in targeted shooting](http://forums.somethingawful.com/showthread.php?threadid=4076829 "CEO of UnitedHealthCare Fatally Shot in targeted shooting")
+* ![](https://fi.somethingawful.com/forums/posticons/diy-homeimprove.gif) [Oh my god, the forums are back](http://forums.somethingawful.com/showthread.php?threadid=4076800 "Oh my god, the forums are back")
 
 ### Random Articles
 
-* [Crossbow Images](https://www.somethingawful.com/awful-links/awful-link-927/)
-* [A Complete List of What Happened](https://www.somethingawful.com/news/what-happened-bernie/)
-* [Your Winter Beard Must Go!](https://www.somethingawful.com/news/winter-beard-gross/)
-* [Deviant Desires, LiveWire, and PoopReport](https://www.somethingawful.com/weekend-web/deviant-desires-livewire/1/)
-* [September 8, 2008](https://www.somethingawful.com/forum-fridays/ff09-08-08/1/)
+* [Derek Savage Presents Cool Cat (Thanks, Lowtax!)](https://www.somethingawful.com/awful-links/coolcat-derek-savage/)
+* [Project e-MANcipate](https://www.somethingawful.com/awful-links/male-pantyhose-emancipate/)
+* [Subj: EGGS](https://www.somethingawful.com/news/roamin-dad-32/)
+* [Warning Signs Your Date Has Become a Found Footage Movie](https://www.somethingawful.com/news/found-footage-date/)
+* [Reborn Dolls (Thanks, Petey!)](https://www.somethingawful.com/awful-links/reborn-dolls/)
 
 [Random!](https://www.somethingawful.com/random/)
 
