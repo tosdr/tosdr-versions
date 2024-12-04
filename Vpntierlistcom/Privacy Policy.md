@@ -2,7 +2,7 @@
 
 [Skip to Content](#page)
 
-[](https://twitter.com/TomSparkReviews)[](https://www.youtube.com/channel/UCXJWKuGh0qedrYviGEJmlWw)[](https://discord.gg/9mGkVBWXQr)
+[](https://bsky.app/profile/tomspark.bsky.social)[](https://www.youtube.com/channel/UCXJWKuGh0qedrYviGEJmlWw)[](https://discord.gg/9mGkVBWXQr)
 
 [Tom Spark Reviews](https://www.vpntierlist.com/)
 
@@ -20,7 +20,7 @@
 
 Open Menu Close Menu
 
-[](https://twitter.com/TomSparkReviews)[](https://www.youtube.com/channel/UCXJWKuGh0qedrYviGEJmlWw)[](https://discord.gg/9mGkVBWXQr)
+[](https://bsky.app/profile/tomspark.bsky.social)[](https://www.youtube.com/channel/UCXJWKuGh0qedrYviGEJmlWw)[](https://discord.gg/9mGkVBWXQr)
 
 [Tom Spark Reviews](https://www.vpntierlist.com/)
 
@@ -50,7 +50,7 @@ Open Menu Close Menu
 
 [Removals](https://www.vpntierlist.com/removals)
 
-[](https://twitter.com/TomSparkReviews)
+[](https://bsky.app/profile/tomspark.bsky.social)
 
 [](https://www.youtube.com/channel/UCXJWKuGh0qedrYviGEJmlWw)
 
