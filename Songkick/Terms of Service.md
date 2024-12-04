@@ -23,7 +23,7 @@
         
         [](https://www.songkick.com/metro-areas/4690-us-jersey-city)See all Jersey City concerts ([Change location](https://www.songkick.com/session/filter_metro_area))  
           
-        [Today ·](https://www.songkick.com/en/metro-areas/4690-us-jersey-city?filters%5BmaxDate%5D=12%2F03%2F2024&filters%5BminDate%5D=12%2F03%2F2024#date-filter-form) [Next 7 days ·](https://www.songkick.com/en/metro-areas/4690-us-jersey-city?filters%5BmaxDate%5D=12%2F10%2F2024&filters%5BminDate%5D=12%2F03%2F2024#date-filter-form) [Next 30 days](https://www.songkick.com/en/metro-areas/4690-us-jersey-city?filters%5BmaxDate%5D=01%2F03%2F2025&filters%5BminDate%5D=12%2F03%2F2024#date-filter-form)
+        [Today ·](https://www.songkick.com/en/metro-areas/4690-us-jersey-city?filters%5BmaxDate%5D=12%2F04%2F2024&filters%5BminDate%5D=12%2F04%2F2024#date-filter-form) [Next 7 days ·](https://www.songkick.com/en/metro-areas/4690-us-jersey-city?filters%5BmaxDate%5D=12%2F11%2F2024&filters%5BminDate%5D=12%2F04%2F2024#date-filter-form) [Next 30 days](https://www.songkick.com/en/metro-areas/4690-us-jersey-city?filters%5BmaxDate%5D=01%2F04%2F2025&filters%5BminDate%5D=12%2F04%2F2024#date-filter-form)
         
     * [Artists](https://www.songkick.com/artists)
         
@@ -35,8 +35,8 @@
         *  [![Drake Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Drake](https://www.songkick.com/artists/556955-drake)
         *  [![Eminem Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Eminem](https://www.songkick.com/artists/182968-eminem)
         *  [![The Weeknd Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) The Weeknd](https://www.songkick.com/artists/4363463-weeknd)
-        *  [![Bruno Mars Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Bruno Mars](https://www.songkick.com/artists/941964-bruno-mars)
         *  [![Taylor Swift Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Taylor Swift](https://www.songkick.com/artists/217815-taylor-swift)
+        *  [![Bruno Mars Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Bruno Mars](https://www.songkick.com/artists/941964-bruno-mars)
         *  [![Maroon 5 Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Maroon 5](https://www.songkick.com/artists/181875-maroon-5)
         *  [![Kanye West Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Kanye West](https://www.songkick.com/artists/552177-kanye-west)
         *  [![Ed Sheeran Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Ed Sheeran](https://www.songkick.com/artists/2083334-ed-sheeran)
