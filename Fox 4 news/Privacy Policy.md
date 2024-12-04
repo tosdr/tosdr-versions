@@ -401,6 +401,24 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![How to check Spotify Wrapped 2024](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/04/32/18/GettyImages-2147923557.jpg?ve=1&tl=1)
+
+ ![How to check Spotify Wrapped 2024](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/04/32/18/592/333/GettyImages-2147923557.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/how-check-spotify-wrapped-2024)
+
+### [How to check Spotify Wrapped 2024](https://www.fox4news.com/news/how-check-spotify-wrapped-2024)
+
+ [![Dallas weather: Rain and cooler temperatures take over this week](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/gettyimages-1572029865.jpg?ve=1&tl=1)
+
+ ![Dallas weather: Rain and cooler temperatures take over this week](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/gettyimages-1572029865.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/weather/dallas-weather-rain-freezing)
+
+### [Dallas weather: Rain and cooler temperatures take over this week](https://www.fox4news.com/weather/dallas-weather-rain-freezing)
+
+ [![Tarrant County jury to decide on death penalty for convicted killer Jason Thornburg](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/v-jason-thornburg-convicted-4a_00.00.05.22.jpg?ve=1&tl=1)
+
+ ![Tarrant County jury to decide on death penalty for convicted killer Jason Thornburg](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/v-jason-thornburg-convicted-4a_00.00.05.22.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/jason-thornburg-texas-serial-killer-sentencing-livestream)
+
+### [Tarrant County jury to decide on death penalty for convicted killer Jason Thornburg](https://www.fox4news.com/news/jason-thornburg-texas-serial-killer-sentencing-livestream)
+
  [![No arrests after 2 shot near South Dallas DART station](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/v-dallas-south-blvd-shooting-9p_00.00.34.30.jpg?ve=1&tl=1)
 
  ![No arrests after 2 shot near South Dallas DART station](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/v-dallas-south-blvd-shooting-9p_00.00.34.30.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/no-arrests-after-2-shot-near-south-dallas-dart-station)
@@ -412,24 +430,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![Man found in van with guns, explosives in White Settlement planned to attack local church: report](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/white-settlement-suspicious-vehicle-arrest-scene-pic-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/man-found-van-guns-explosives-white-settlement-planned-attack-local-church-report)
 
 ### [Man found in van with guns, explosives in White Settlement planned to attack local church: report](https://www.fox4news.com/news/man-found-van-guns-explosives-white-settlement-planned-attack-local-church-report)
-
- [![Ennis boil water notice continues; Ennis ISD classes canceled Wednesday](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/5h-ennis-boil-water-notice_00.00.01.30.jpg?ve=1&tl=1)
-
- ![Ennis boil water notice continues; Ennis ISD classes canceled Wednesday](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/5h-ennis-boil-water-notice_00.00.01.30.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ennis-boil-water-notice-continues-ennis-isd-classes-canceled-wednesday)
-
-### [Ennis boil water notice continues; Ennis ISD classes canceled Wednesday](https://www.fox4news.com/news/ennis-boil-water-notice-continues-ennis-isd-classes-canceled-wednesday)
-
- [![Hillsborough Sheriff Chad Chronister withdraws from President-elect Trump's DEA nomination](https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/12/32/18/chronister.jpg?ve=1&tl=1)
-
- ![Hillsborough Sheriff Chad Chronister withdraws from President-elect Trump's DEA nomination](https://images.foxtv.com/images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/12/32/18/592/333/chronister.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hillsborough-sheriff-chad-chronister-withdraws-from-president-elect-trumps-dea-nomination)
-
-### [Hillsborough Sheriff Chad Chronister withdraws from President-elect Trump's DEA nomination](https://www.fox4news.com/news/hillsborough-sheriff-chad-chronister-withdraws-from-president-elect-trumps-dea-nomination)
-
- [![WATCH: Sundance Square lights largest live Christmas tree in Texas](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/120324-fort-worth-tree-light-kdfweme002_19_00_52_m_00.03.29.58.jpg?ve=1&tl=1)
-
- ![WATCH: Sundance Square lights largest live Christmas tree in Texas](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/120324-fort-worth-tree-light-kdfweme002_19_00_52_m_00.03.29.58.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/sundance-square-christmas-tree-lighting-livestream)
-
-### [WATCH: Sundance Square lights largest live Christmas tree in Texas](https://www.fox4news.com/news/sundance-square-christmas-tree-lighting-livestream)
 
 ###### [News](https://www.fox4news.com/news)
 
