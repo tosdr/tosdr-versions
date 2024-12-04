@@ -17,7 +17,7 @@ English Edition
 * [অসমীয়া (Assam)](https://assam.news18.com/)
 * [ଓଡ଼ିଆ (Odia)](https://odia.news18.com/)
 
-Wed, Dec 04, 2024
+Thu, Dec 05, 2024
 
 [Download News18 APP](https://onelink.to/eng-web-other)[Watch LIVE TV](https://www.news18.com/livetv/)
 
@@ -128,12 +128,12 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
+    * [Delhi Airport](https://www.news18.com/india/all-chairs-vacant-why-some-passengers-at-delhi-airport-are-opting-for-the-floor-9145065.html)
+    * [Naga Chaitanya](https://www.news18.com/movies/naga-chaitanya-sobhita-dhulipala-wedding-live-updates-marriage-ceremony-photos-videos-liveblog-9144368.html)
     * [Maharashtra CM](https://www.news18.com/india/maharashtra-cm-live-updates-eknath-shinde-devendra-fadnavis-bjp-mahayuti-shiv-sena-ncp-liveblog-liveblog-9142895.html)
-    * [Naga Chaitanya](https://www.news18.com/movies/naga-chaitanya-blushes-as-rana-daggubati-teases-him-about-wedding-with-sobhita-in-new-video-watch-9144704.html)
-    * [Govinda](https://www.news18.com/movies/govinda-shares-big-update-on-akshay-kumar-starrer-bhagam-bhag-sequel-nobody-has-approached-9144338.html)
+    * [Bangladesh](https://www.news18.com/world/bangladesh-issues-order-to-all-missions-abroad-to-grant-visas-for-pakistanis-9145362.html)
+    * [Adelaide Test](https://www.news18.com/cricket/indian-cricketer-body-shamed-as-3000-fans-unleash-chaos-during-teams-training-session-in-adelaide-9144663.html)
     * [Janhvi Kapoor](https://www.news18.com/web-stories/celebrities/6-of-janhvi-kapoors-iconic-fashionable-looks-in-2024-2654309/)
-    * [Kareena Kapoor](https://www.news18.com/movies/kareena-kapoor-rolls-her-eyes-at-abhishek-bachchan-fans-notice-her-reaction-in-viral-video-watch-9143163.html)
-    * [Sukhbir Singh Badal](https://www.news18.com/explainers/why-is-sukhbir-singh-badal-being-punished-at-golden-temple-what-are-the-sad-leaders-mistakes-9144534.html)
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
@@ -170,12 +170,12 @@ Follow us on
 
 In Trends:
 
+* [Delhi Airport](https://www.news18.com/india/all-chairs-vacant-why-some-passengers-at-delhi-airport-are-opting-for-the-floor-9145065.html)
+* [Naga Chaitanya](https://www.news18.com/movies/naga-chaitanya-sobhita-dhulipala-wedding-live-updates-marriage-ceremony-photos-videos-liveblog-9144368.html)
 * [Maharashtra CM](https://www.news18.com/india/maharashtra-cm-live-updates-eknath-shinde-devendra-fadnavis-bjp-mahayuti-shiv-sena-ncp-liveblog-liveblog-9142895.html)
-* [Naga Chaitanya](https://www.news18.com/movies/naga-chaitanya-blushes-as-rana-daggubati-teases-him-about-wedding-with-sobhita-in-new-video-watch-9144704.html)
-* [Govinda](https://www.news18.com/movies/govinda-shares-big-update-on-akshay-kumar-starrer-bhagam-bhag-sequel-nobody-has-approached-9144338.html)
+* [Bangladesh](https://www.news18.com/world/bangladesh-issues-order-to-all-missions-abroad-to-grant-visas-for-pakistanis-9145362.html)
+* [Adelaide Test](https://www.news18.com/cricket/indian-cricketer-body-shamed-as-3000-fans-unleash-chaos-during-teams-training-session-in-adelaide-9144663.html)
 * [Janhvi Kapoor](https://www.news18.com/web-stories/celebrities/6-of-janhvi-kapoors-iconic-fashionable-looks-in-2024-2654309/)
-* [Kareena Kapoor](https://www.news18.com/movies/kareena-kapoor-rolls-her-eyes-at-abhishek-bachchan-fans-notice-her-reaction-in-viral-video-watch-9143163.html)
-* [Sukhbir Singh Badal](https://www.news18.com/explainers/why-is-sukhbir-singh-badal-being-punished-at-golden-temple-what-are-the-sad-leaders-mistakes-9144534.html)
 * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 
 * Follow Us
@@ -430,7 +430,7 @@ This Policy was last updated as of 14th November 2024.
 
 ![](https://images.news18.com/ibnlive/uploads/2021/07/1627283897_news18_logo-1200x800.jpg)
 
-Dec 04, 2024
+Dec 05, 2024
 
 [View All](https://www.news18.com/short-news/)
 
