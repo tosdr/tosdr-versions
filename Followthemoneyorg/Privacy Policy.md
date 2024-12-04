@@ -66,9 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Duke Energy giving](/assets/Images/teasers/small/DukeEnergy2000-2014.png)](http://www.followthemoney.org/research/institute-reports/names-in-the-news-duke-energy/)
+[![2009-10 Ballot Ms](/assets/logos/2004-2010BallotMeasuresTotal.png)](http://www.followthemoney.org/research/institute-research/an-overview-of-campaign-finances-2009-2010-elections)
 
-Duke Energy giving to sitting governors, 2000-14
+Ballot measures attract massive amounts of money.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
