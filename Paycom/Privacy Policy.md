@@ -75,11 +75,6 @@
     * [Overview](https://www.paycom.com/who-we-help/)
     * By Company Size
     
-    * Enterprise Businesses
-    
-    * [Payroll](https://www.paycom.com/who-we-help/enterprise-business/payroll-software/)
-    * [HR Software](https://www.paycom.com/who-we-help/enterprise-business/hr-software/)
-    
     * Large Businesses
     
     * [Payroll](https://www.paycom.com/who-we-help/large-business/payroll-software/)
@@ -101,19 +96,16 @@
     * [Finance Executives](https://www.paycom.com/who-we-help/finance-executives/)
     * [HR Managers](https://www.paycom.com/who-we-help/hr-managers/)
     * [IT Decision Makers](https://www.paycom.com/who-we-help/it-decision-makers/)
-    * [Operations Executives](https://www.paycom.com/who-we-help/operations-executives/)
-    * [Payroll Managers](https://www.paycom.com/who-we-help/payroll-managers/)
     
     * By Industry
     
     * [Education](https://www.paycom.com/who-we-help/education/)
-    * [Franchises](https://www.paycom.com/who-we-help/franchises/)
     * [Health Care](https://www.paycom.com/who-we-help/health-care/)
     * [Hospitality](https://www.paycom.com/who-we-help/hospitality/)
     * [Manufacturing](https://www.paycom.com/who-we-help/manufacturing/)
-    * [Professional Services](https://www.paycom.com/who-we-help/professional-services/)
-    * [Retailers](https://www.paycom.com/who-we-help/retailers/)
-    * [Technology](https://www.paycom.com/who-we-help/technology/)
+    * [Nonprofits](https://www.paycom.com/who-we-help/nonprofits/)
+    * [Retail](https://www.paycom.com/who-we-help/retailers/)
+    * [Transportation](https://www.paycom.com/who-we-help/transportation/)
     
 * [About Us](https://www.paycom.com/about/)
     * [Overview](https://www.paycom.com/about/)
@@ -228,7 +220,6 @@
     * By Role
     * By Industry
     
-    * [Enterprise Businesses](https://www.paycom.com/who-we-help/enterprise-business/)
     * [Large Businesses](https://www.paycom.com/who-we-help/large-business/)
     * [Medium Businesses](https://www.paycom.com/who-we-help/medium-business/)
     * [Small Businesses](https://www.paycom.com/who-we-help/small-business/)
@@ -237,21 +228,15 @@
     * [Finance Executives](https://www.paycom.com/who-we-help/finance-executives/)
     * [HR Managers](https://www.paycom.com/who-we-help/hr-managers/)
     * [IT Decision Makers](https://www.paycom.com/who-we-help/it-decision-makers/)
-    * [Operations Executives](https://www.paycom.com/who-we-help/operations-executives/)
-    * [Payroll Managers](https://www.paycom.com/who-we-help/payroll-managers/)
     
     * [Education](https://www.paycom.com/who-we-help/education/)
-    * [Franchises](https://www.paycom.com/who-we-help/franchises/)
     * [Health Care](https://www.paycom.com/who-we-help/health-care/)
     * [Hospitality](https://www.paycom.com/who-we-help/hospitality/)
-    
     * [Manufacturing](https://www.paycom.com/who-we-help/manufacturing/)
-    * [Professional Services](https://www.paycom.com/who-we-help/professional-services/)
-    * [Retailers](https://www.paycom.com/who-we-help/retailers/)
-    * [Technology](https://www.paycom.com/who-we-help/technology/)
     
-    * [Payroll](https://www.paycom.com/who-we-help/enterprise-business/payroll-software/)
-    * [HR Software](https://www.paycom.com/who-we-help/enterprise-business/hr-software/)
+    * [Nonprofits](https://www.paycom.com/who-we-help/nonprofits/)
+    * [Retail](https://www.paycom.com/who-we-help/retailers/)
+    * [Transportation](https://www.paycom.com/who-we-help/transportation/)
     
     * [Payroll](https://www.paycom.com/who-we-help/large-business/payroll-software/)
     * [HR Software](https://www.paycom.com/who-we-help/large-business/hr-software/)
@@ -424,11 +409,9 @@ HR Management
 
 [Who We Help](https://www.paycom.com/who-we-help/)
 
-* [Payroll Software for Enterprise Businesses](https://www.paycom.com/who-we-help/enterprise-business/payroll-software/)
 * [Payroll Software for Large Businesses](https://www.paycom.com/who-we-help/large-business/payroll-software/)
 * [Payroll Software for Medium Businesses](https://www.paycom.com/who-we-help/medium-business/payroll-software/)
 * [Payroll Software for Small Businesses](https://www.paycom.com/who-we-help/small-business/payroll-software/)
-* [HR Software for Enterprise Businesses](https://www.paycom.com/who-we-help/enterprise-business/hr-software/)
 * [HR Software for Large Businesses](https://www.paycom.com/who-we-help/large-business/hr-software/)
 * [HR Software for Medium Businesses](https://www.paycom.com/who-we-help/medium-business/hr-software/)
 * [HR Software for Small Businesses](https://www.paycom.com/who-we-help/small-business/hr-software/)
@@ -512,11 +495,9 @@ Time and Labor Management
 
 [Who We Help](https://www.paycom.com/who-we-help/)
 
-* [Payroll Software for Enterprise Businesses](https://www.paycom.com/who-we-help/enterprise-business/payroll-software/)
 * [Payroll Software for Large Businesses](https://www.paycom.com/who-we-help/large-business/payroll-software/)
 * [Payroll Software for Medium Businesses](https://www.paycom.com/who-we-help/medium-business/payroll-software/)
 * [Payroll Software for Small Businesses](https://www.paycom.com/who-we-help/small-business/payroll-software/)
-* [HR Software for Enterprise Businesses](https://www.paycom.com/who-we-help/enterprise-business/hr-software/)
 * [HR Software for Large Businesses](https://www.paycom.com/who-we-help/large-business/hr-software/)
 * [HR Software for Medium Businesses](https://www.paycom.com/who-we-help/medium-business/hr-software/)
 * [HR Software for Small Businesses](https://www.paycom.com/who-we-help/small-business/hr-software/)
@@ -588,11 +569,9 @@ Time and Labor Management
     * [401(k) Reporting](https://www.paycom.com/software/401k-reporting/)
 * [Who We Help](https://www.paycom.com/who-we-help/)
     * [Overview](https://www.paycom.com/who-we-help/)
-    * [Payroll Software for Enterprise Businesses](https://www.paycom.com/who-we-help/enterprise-business/payroll-software/)
     * [Payroll Software for Large Businesses](https://www.paycom.com/who-we-help/large-business/payroll-software/)
     * [Payroll Software for Medium Businesses](https://www.paycom.com/who-we-help/medium-business/payroll-software/)
     * [Payroll Software for Small Businesses](https://www.paycom.com/who-we-help/small-business/payroll-software/)
-    * [HR Software for Enterprise Businesses](https://www.paycom.com/who-we-help/enterprise-business/hr-software/)
     * [HR Software for Large Businesses](https://www.paycom.com/who-we-help/large-business/hr-software/)
     * [HR Software for Medium Businesses](https://www.paycom.com/who-we-help/medium-business/hr-software/)
     * [HR Software for Small Businesses](https://www.paycom.com/who-we-help/small-business/hr-software/)
