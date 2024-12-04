@@ -51,7 +51,7 @@ Our website uses cookies to enhance your online experience by; measuring audienc
     * [Français](https://atos.net/fr/termes-et-conditions)
     * [Deutsch](https://atos.net/de/nutzungsbedingungen)
 
- [![Atos](/content/assets/global-images/atos-logo-blue-2023.svg) ![Atos](/content/assets/global-images/atos-logo-white-2022.svg)
+ [![Atos](/content/assets/global-images/atos-logo-blue-2023.svg) ![Atos](/content/assets/global-images/atos-logo-blue-2023.svg)
 
 Atos homepage](https://atos.net/en/)
 
@@ -65,6 +65,7 @@ Atos homepage](https://atos.net/en/)
         * [Enterprise Application Operations](https://atos.net/en/services/cloud-and-infrastructure/enterprise-application-operations)
         * [Hybrid Cloud Platforms](https://atos.net/en/services/cloud-and-infrastructure/hybrid-cloud-platforms)
         * [Intelligent Networks](https://atos.net/en/services/cloud-and-infrastructure/intelligent-networks)
+        * [Modern IT Infrastructure](https://atos.net/en/services/cloud-and-infrastructure/modern-it-infrastructure)
         * [Modern Mainframe](https://atos.net/en/services/cloud-and-infrastructure/modern-mainframe)
         
         Atos Hybrid Cloud and Infrastructure Services
