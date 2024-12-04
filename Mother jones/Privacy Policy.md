@@ -8,10 +8,10 @@
 
 *  
     
-* [Thanksgiving](https://www.motherjones.com/politics/2024/11/enjoy-your-air-travel-this-thanksgiving-next-year-will-be-much-much-worse/)
-* [Climate Change](https://www.motherjones.com/politics/2024/11/plastic-pollution-data-oil-chemical-companies-production-waste/)
-* [Dr. Oz](https://www.motherjones.com/politics/2024/11/dr-mehmet-oz-medicare-part-d/)
-* [Linda McMahon](https://www.motherjones.com/politics/2024/11/linda-mcmahon-trump-education-secretary-vouchers-esa-programs-private-schools/)
+* [Hunter Biden](https://www.motherjones.com/politics/2024/12/hunter-got-a-pardon-will-drug-war-victims/)
+* [Pete Hegseth](https://www.motherjones.com/politics/2024/12/pete-hegseth-allegations/)
+* [Trans Rights](https://www.motherjones.com/politics/2024/12/trans-rights-supreme-court-skrmetti/)
+* [Kash Patel](https://www.motherjones.com/politics/2024/12/kash-patel-qanon-trump-fbi/)
 
 * [Newsletters](https://www.motherjones.com/newsletters/?mj_oac=dropdown_nav)
 * [Politics](https://www.motherjones.com/politics/)
@@ -27,10 +27,10 @@
 
 *  
     
-* [Thanksgiving](https://www.motherjones.com/politics/2024/11/enjoy-your-air-travel-this-thanksgiving-next-year-will-be-much-much-worse/)
-* [Climate Change](https://www.motherjones.com/politics/2024/11/plastic-pollution-data-oil-chemical-companies-production-waste/)
-* [Dr. Oz](https://www.motherjones.com/politics/2024/11/dr-mehmet-oz-medicare-part-d/)
-* [Linda McMahon](https://www.motherjones.com/politics/2024/11/linda-mcmahon-trump-education-secretary-vouchers-esa-programs-private-schools/)
+* [Hunter Biden](https://www.motherjones.com/politics/2024/12/hunter-got-a-pardon-will-drug-war-victims/)
+* [Pete Hegseth](https://www.motherjones.com/politics/2024/12/pete-hegseth-allegations/)
+* [Trans Rights](https://www.motherjones.com/politics/2024/12/trans-rights-supreme-court-skrmetti/)
+* [Kash Patel](https://www.motherjones.com/politics/2024/12/kash-patel-qanon-trump-fbi/)
 
 [Subscribe to our magazine](https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGHOP&c=SEGHOC&d=SEGHOD&f=SEGHOF "Subscribe")
 
@@ -57,15 +57,15 @@ Smart, Fearless Journalism
 membership ticker
 -----------------
 
-[Donate Now](https://secure.motherjones.com/flex/mj/key/7LIGHTS/src/7AHPR64%7CPAHPR64/)
+[Donate Now](https://secure.motherjones.com/flex/mj/key/7LIGHTR/src/7AHPR64%7CPAHPR64/)
 
 Please don’t miss this chance.
 
-A generous board member has given us a $50,000 digital matching gift for Giving Tuesday, and we need your help to get every dollar of it. **All online donations today will be matched dollar-for-dollar**. Please stand with truth-telling independent media and chip in right now if YOU can.
+A generous board member has given us a $50,000 digital matching gift for Giving Tuesday, and we need your help to get every dollar of it. **All online donations TODAY will be matched dollar-for-dollar**. Please stand with truth-telling independent media and chip in right now if you can.
 
-A generous board member has given us a $50,000 digital matching gift for Giving Tuesday, and we need your help to get every dollar of it. **All online donations today will be matched dollar-for-dollar**. Please stand with truth-telling independent media and chip in right now if YOU can.
+A generous board member has given us a $50,000 digital matching gift for Giving Tuesday, and we need your help to get every dollar of it. **All online donations TODAY will be matched dollar-for-dollar**. Please stand with truth-telling independent media and chip in right now if you can.
 
-[Donate Now](https://secure.motherjones.com/flex/mj/key/7LIGHTS/src/7AHPMRZ%7CPAHPMRZ/)
+[Donate Now](https://secure.motherjones.com/flex/mj/key/7LIGHTR/src/7AHPMRZ%7CPAHPMRZ/)
 
 Privacy Policy
 ==============
