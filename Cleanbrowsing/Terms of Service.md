@@ -1,3 +1,5 @@
+string(7) "Not Set" string(7) "Not Set" CleanBrowsing Terms of Service (ToS)                             string(7) "Not Set" string(7) "Not Set"
+
 [![](/custom/images/cleanbrowsing-logo.png)](https://cleanbrowsing.org/)
 
 * [Schools](https://cleanbrowsing.org/solutions/schools/)
@@ -219,3 +221,13 @@ You agree to allow us to identify you as a customer, to use your website’s nam
 © 2024 CleanBrowsing | DNS Filtering Service | [Privacy](https://cleanbrowsing.org/privacy) | [Terms & Conditions](https://cleanbrowsing.org/terms)
 
 [Chat with us](https://www.livechat.com/chat-with/11097037/), powered by [LiveChat](https://www.livechat.com/?welcome)
+
+We use anonymized analytics tools (Google Analytics and Plausible) to improve your experience and understand site usage. All data is anonymized. Learn more in our [Privacy Policy](https://cleanbrowsing.org/privacy-policy).
+
+Accept All Manage Preferences
+
+### Manage Preferences
+
+ Enable Google Analytics  
+ Enable Plausible Analytics  
+Save Preferences
