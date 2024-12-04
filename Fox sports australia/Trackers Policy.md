@@ -128,14 +128,14 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010119/box-score)
 * [WNBL
     
-    4/12 19:00 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | CAN | –   |
-    | SOU | –   |
+    | CAN | 78  |
+    | SOU | 89  |
     
-    Match Centre](https://www.foxsports.com.au/basketball/wnbl/match-centre/WNBL2024-25060001)
+    Match Centre](https://www.foxsports.com.au/basketball/wnbl/match-centre/WNBL2024-25060001/play-by-play)
 * Cricket
     
 * [Men's Test
@@ -168,16 +168,34 @@ FOX SCORES
     | ENG | –   |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250802)
-* [Women's ODI
+* [Men's Test
     
-    4/12 23:00 AEST
+    6/12 15:00 AEST
     
     |     |     |
     | --- | --- |
-    | RSA | –   |
-    | ENG | –   |
+    | AUS | –   |
+    | IND | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250502)
+* [Women's ODI
+    
+    |     |     |
+    | --- | --- |
+    | RSA |     |
+    | ENG | 6 /106 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WODI2024-250501)
+* [Women's ODI
+    
+    5/12 15:20 AEST
+    
+    |     |     |
+    | --- | --- |
+    | AUS | –   |
+    | IND | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WODI2024-250401)
 * Motorsport
     
 * [Formula 1
@@ -194,34 +212,14 @@ FOX SCORES
     
 * [Women's Int
     
-    4/12 20:00 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | AUSW | –   |
-    | TPEW | –   |
+    | AUSW | 3   |
+    | TPEW | 1   |
     
     Match Centre](https://www.foxsports.com.au/football/womens-international/match-centre/W_INT20240108)
-* [Premier League
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | IPS | 0   |
-    | CRY | 1   |
-    
-    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-251404)
-* [Premier League
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | LEI | 3   |
-    | WHU | 1   |
-    
-    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-251405)
 * [Premier League
     
     5/12 6:30 AEST
@@ -1015,7 +1013,7 @@ FOX SCORES
 
 [Fox sports](https://www.foxsports.com.au/)
 
-[Scores](https://www.foxsports.com.au/score-centre)
+[Scores](https://www.foxsports.com.au/score-centre/live-now)
 
 * [Video](https://www.foxsports.com.au/video)
 * [NRL](https://www.foxsports.com.au/nrl)
