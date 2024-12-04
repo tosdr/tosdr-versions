@@ -27,11 +27,11 @@ Sign up for free PDF tips, tricks & discounts:
 
 ##### Latest News[](https://www.pdfannotator.com/en/rss "RSS")
 
+* [PDF Annotator 9 Maintenance Release (Build 924) Available](https://www.pdfannotator.com/en/news/2024/11/364/pdf-annotator-9-maintenance-release-build-924-available)
+* [PDF Annotator 9 Maintenance Release (Build 923) Available](https://www.pdfannotator.com/en/news/2024/09/363/pdf-annotator-9-maintenance-release-build-923-available)
 * [PDF Annotator 9 Maintenance Release (Build 922) Available](https://www.pdfannotator.com/en/news/2024/08/362/pdf-annotator-9-maintenance-release-build-922-available)
 * [PDF Annotator 9 Maintenance Release (Build 921) Available](https://www.pdfannotator.com/en/news/2024/07/361/pdf-annotator-9-maintenance-release-build-921-available)
 * [Announcing new pricing effective July 1st, 2024](https://www.pdfannotator.com/en/news/2024/07/360/announcing-new-pricing-effective-july-1st-2024)
-* [FAQ: "Print to PDF Annotator" from Excel does not work anymore (June 2024)](https://www.pdfannotator.com/en/news/2024/06/358/faq-quotprint-to-pdf-annotatorquot-from-excel-does-not-work-anymore-june-2024)
-* [PDF Annotator 9 Maintenance Release (Build 920) Available](https://www.pdfannotator.com/en/news/2024/05/357/pdf-annotator-9-maintenance-release-build-920-available)
 
 * [All News](https://www.pdfannotator.com/en/news)
 
