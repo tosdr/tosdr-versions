@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_1.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_9.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,6 +148,9 @@
 
 Сейчас читают
 
+* [Мясные рулетики с ананасами, яблоком и сыром (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=174706)
+* [Котлеты-лодочки из мясного фарша и капусты с картофельным пюре](https://www.russianfood.com/recipes/recipe.php?rid=165394)
+* [Селёдка на лавашной шубе](https://www.russianfood.com/recipes/recipe.php?rid=165136)
 * [Салат из свежих шампиньонов с петрушкой и чесноком](https://www.russianfood.com/recipes/recipe.php?rid=174613)
 * [Шампиньоны в кляре](https://www.russianfood.com/recipes/recipe.php?rid=150813)
 * [Картофельный салат с селёдкой и грибами](https://www.russianfood.com/recipes/recipe.php?rid=174571)
@@ -172,6 +175,20 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Аппетитная семёрка! Лучшие УЖИНЫ №24-49](https://www.russianfood.com/reading/?post_id=22957) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/755/sm_754844.jpg)](https://www.russianfood.com/reading/?post_id=22957)
+
+Рагу с цветной капустой и грибами. Макароны с тушёнкой и яйцом. Рис с морковью. Тефтели с фасолью. Картофель с сердечками. Картофельная запеканка с морепродуктами. Крылышки в сметанно-чесночном соусе.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22957)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие ужины](https://www.russianfood.com/blogs/?id=325304) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22957#comments) | 04.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -255,7 +272,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [HomeRecipes](https://www.russianfood.com/blogs/?id=300916) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175020#comments) | 03.12.24 |     |
+|     | [HomeRecipes](https://www.russianfood.com/blogs/?id=300916) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175020#comments) | 03.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -283,7 +300,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174588#comments) | 02.12.24 |     |
+|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174588#comments) | 02.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -297,7 +314,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [ZNAIKA](https://www.russianfood.com/blogs/?id=12414) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174565#comments) | 02.12.24 |     |
+|     | [ZNAIKA](https://www.russianfood.com/blogs/?id=12414) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174565#comments) | 02.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -368,20 +385,6 @@
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Лучшие рецепты БЫСТРЕЕ!](https://www.russianfood.com/blogs/?id=338614) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22946#comments) | 02.12.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Секреты вкуса и сочности. ОТБИВНЫЕ по-необычному (10)](https://www.russianfood.com/reading/?post_id=22945) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/570/sm_569916.jpg)](https://www.russianfood.com/reading/?post_id=22945)
-
-Свинина с грибами, сыром и сливками. Шницель из свинины с соевым соусом. Филе индейки с грибами и сыром. Куриные отбивные под сырно-яичной шубкой.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22945)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Обычное по-необычному](https://www.russianfood.com/blogs/?id=325689) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22945#comments) | 01.12.24 |     |
 
 |     |
 | --- |
@@ -472,4 +475,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(189)
+(129)
