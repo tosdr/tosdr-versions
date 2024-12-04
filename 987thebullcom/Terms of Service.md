@@ -212,11 +212,11 @@ Recently Played
 
 |     |
 | --- |
-| In Case You Didn'T KnowBrett Young<br><br>4:40am |
-| Whatcha See Is Whatcha GetChris Janson<br><br>4:37am |
-| A Lot More FreeMax Mcnown<br><br>4:34am |
-| To Be Loved By YouParker Mccollum<br><br>4:31am |
-| Forever To MeCole Swindell<br><br>4:28am |
+| Sounds Like The RadioZach Top<br><br>10:39am |
+| The Good OnesGabby Barrett<br><br>10:35am |
+| Need A FavorJelly Roll<br><br>10:32am |
+| Shes CountryJason Aldean<br><br>10:28am |
+| High RoadKoe Wetzel Ft Jess Murph<br><br>10:25am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -360,21 +360,21 @@ State
 Featured Brands
 ---------------
 
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
-Top 40 • Eastern
+Sports • Midwest
 
 [![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
 Spanish • Western
 
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+
+Country • Western
+
 [![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
 News Talk • Eastern
-
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
-
-Sports • Midwest
 
 [](https://www.alphamediausa.com/)
 
