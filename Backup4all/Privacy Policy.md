@@ -301,15 +301,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [Backup software](https://www.backup4all.com/backup-software-kb.html)  
+* [How to backup only to a specific removable/ex ...](https://www.backup4all.com/how-to-backup-only-to-a-specific-removable-external-drive-kb.html)  
     
-* [How to back up data files from Numergy using ...](https://www.backup4all.com/how-to-back-up-data-files-from-numergy-using-backup4all-kb.html)  
+* [How to create a differential backup](https://www.backup4all.com/how-to-create-a-differential-backup-kb.html)  
     
-* [Backup to DVD](https://www.backup4all.com/backup-to-dvd-kb.html)  
+* [How to back up data files from IDC Frontier u ...](https://www.backup4all.com/how-to-back-up-data-files-from-idc-frontier-using-backup4all-kb.html)  
     
-* [How to back up data files from Scality using ...](https://www.backup4all.com/how-to-back-up-data-files-from-scality-using-backup4all-kb.html)  
+* [How to force Backup4all to copy again some mi ...](https://www.backup4all.com/how-to-force-backup4all-to-copy-again-some-missing-files-in-destination-kb.html)  
     
-* [How to install Backup4all from Microsoft Stor ...](https://www.backup4all.com/how-to-install-backup4all-from-microsoft-store-kb.html)  
+* [How to start your free Backup4all trial](https://www.backup4all.com/how-to-start-your-free-backup4all-trial-kb.html)  
     
 
 Choose language:
