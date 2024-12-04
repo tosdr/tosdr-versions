@@ -1,7 +1,7 @@
 ![](pan1.gif)  
   
   
-131,750 members - 452,707,595 ads shown  
+131,750 members - 452,710,449 ads shown  
   
 GET "LAYERED" ADVERTISING FROM 1 CLICK!  
   
@@ -57,11 +57,11 @@ paid member banners
 
 [![](https://e-links.pro/smban1.gif)](https://e-links.pro/romanjeff)
 
+[![](https://ymcempire.com/ban22.gif)](https://ymcempire.com/gr8traffic)
+
+[![](https://cherrytraffic.com/ban2.gif)](https://cherrytraffic.com/pickinpea)
+
 [![](https://submitads4free.com/getimg.php?id=13)](https://submitads4free.com/?rid=3834)
-
-[![](https://imgallery.llsvr.com/jeffaman.665f8c470cd25.gif)](https://track.toprated.vip/maryanne450)
-
-[![](https://profitslion.com/banimg1252.gif)](https://profitslion.com/sabdev)
 
 ![](26yrs0.gif)
 
