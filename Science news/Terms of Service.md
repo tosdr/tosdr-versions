@@ -1,10 +1,10 @@
 [Skip to content](#content)
 
-**Enjoy unlimited access**
+**Subscribe today**
 
-Only $2.99 a month
+Every print subscription comes with full digital access
 
-[Subscribe now](https://www.sciencenews.org/subscribe1-digital-monthly?key=9MNAVBNB2&utm_source=banner&utm_medium=site&utm_campaign=full_digital_access)
+[Subscribe now](https://www.sciencenews.org/subscribe1?key=9MNAVBNA&utm_source=banner&utm_medium=site&utm_campaign=full_digital_access)
 
 Menu
 
@@ -124,13 +124,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Here’s how long it would take 100 worms to eat the plastic in one face mask](https://www.sciencenews.org/article/worms-eating-plastic)
             
-            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")4 hours ago
+            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")9 hours ago
             
         * [Animals](https://www.sciencenews.org/topic/animals)
             
             ### [Ethiopian wolves are the first large carnivores found to slurp nectar](https://www.sciencenews.org/article/ethiopia-wolves-carnivore-nectar-pollen)
             
-            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")14 hours ago
+            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")19 hours ago
             
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
             
@@ -151,7 +151,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [An unexpected ice collapse hints at worrying changes on the Antarctic coast](https://www.sciencenews.org/article/unexpected-ice-collapse-antarctic-coast)
             
-            By [Douglas Fox](https://www.sciencenews.org/author/douglas-fox "Posts by Douglas Fox")18 hours ago
+            By [Douglas Fox](https://www.sciencenews.org/author/douglas-fox "Posts by Douglas Fox")23 hours ago
             
         * [Climate](https://www.sciencenews.org/topic/climate)
             
@@ -177,7 +177,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Starchy nanofibers shatter the record for world’s thinnest pasta](https://www.sciencenews.org/article/thinnest-pasta-nanofibers)
             
-            By [Skyler Ware](https://www.sciencenews.org/author/skyler-ware "Posts by Skyler Ware")12 hours ago
+            By [Skyler Ware](https://www.sciencenews.org/author/skyler-ware "Posts by Skyler Ware")17 hours ago
             
         * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
             
