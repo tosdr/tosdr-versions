@@ -10,8 +10,8 @@ Menu Toggle [Merriam-Webster Logo](https://www.merriam-webster.com/ "Merriam Web
 * [Thesaurus](https://www.merriam-webster.com/thesaurus)
 * [Join MWU](https://unabridged.merriam-webster.com/subscriber/register/p1?refc=HDR_GLOBAL_JOINMWU)
 * * Shop
-    * [Books ![link icon](/dist-cross-dungarees/2024-12-03--17-41-17-nzwwpg/images/svg/link-icon.svg)](https://shop.merriam-webster.com/?utm_source=mwsite&utm_medium=nav&utm_content=header) 
-    * [Merch ![link icon](/dist-cross-dungarees/2024-12-03--17-41-17-nzwwpg/images/svg/link-icon.svg)](https://merriamwebster.threadless.com/?utm_source=mwsite&utm_medium=nav&utm_content=header) 
+    * [Books ![link icon](/dist-cross-dungarees/2024-12-03--21-08-14-85o8/images/svg/link-icon.svg)](https://shop.merriam-webster.com/?utm_source=mwsite&utm_medium=nav&utm_content=header) 
+    * [Merch ![link icon](/dist-cross-dungarees/2024-12-03--21-08-14-85o8/images/svg/link-icon.svg)](https://merriamwebster.threadless.com/?utm_source=mwsite&utm_medium=nav&utm_content=header) 
 * * Settings
     * [My Words](https://www.merriam-webster.com/saved-words)
     * [Recents](https://www.merriam-webster.com/recents)
@@ -19,10 +19,10 @@ Menu Toggle [Merriam-Webster Logo](https://www.merriam-webster.com/ "Merriam Web
     * [Log Out](https://www.merriam-webster.com/logout)
 * [More](javascript:void(0);)
     * [Thesaurus](https://www.merriam-webster.com/thesaurus)
-    * [Join MWU ![link icon](/dist-cross-dungarees/2024-12-03--17-41-17-nzwwpg/images/svg/link-icon.svg)](https://premium.britannica.com/mw-unabridged/?utm_source=mw&utm_medium=global-nav-join&utm_campaign=evergreen) 
+    * [Join MWU ![link icon](/dist-cross-dungarees/2024-12-03--21-08-14-85o8/images/svg/link-icon.svg)](https://premium.britannica.com/mw-unabridged/?utm_source=mw&utm_medium=global-nav-join&utm_campaign=evergreen) 
     * Shop
-    * [Books ![link icon](/dist-cross-dungarees/2024-12-03--17-41-17-nzwwpg/images/svg/link-icon.svg)](https://shop.merriam-webster.com/?utm_source=mwsite&utm_medium=nav&utm_content=header) 
-    * [Merch ![link icon](/dist-cross-dungarees/2024-12-03--17-41-17-nzwwpg/images/svg/link-icon.svg)](https://merriamwebster.threadless.com/?utm_source=mwsite&utm_medium=nav&utm_content=header) 
+    * [Books ![link icon](/dist-cross-dungarees/2024-12-03--21-08-14-85o8/images/svg/link-icon.svg)](https://shop.merriam-webster.com/?utm_source=mwsite&utm_medium=nav&utm_content=header) 
+    * [Merch ![link icon](/dist-cross-dungarees/2024-12-03--21-08-14-85o8/images/svg/link-icon.svg)](https://merriamwebster.threadless.com/?utm_source=mwsite&utm_medium=nav&utm_content=header) 
     
     * [Log In](https://www.merriam-webster.com/login)
     * Username
@@ -390,7 +390,7 @@ If you have questions about Merriam-Webster or its products, visit our [Contact 
 
 #### [eschew](https://www.merriam-webster.com/word-of-the-day)
 
-[![Listen to the pronunciation of eschew](/dist-cross-dungarees/2024-12-03--17-41-17-nzwwpg/images/svg/audio.svg)](javascript:void(0) "Listen to the pronunciation of eschew")
+[![Listen to the pronunciation of eschew](/dist-cross-dungarees/2024-12-03--21-08-14-85o8/images/svg/audio.svg)](javascript:void(0) "Listen to the pronunciation of eschew")
 
 [See Definitions and Examples](https://www.merriam-webster.com/word-of-the-day) »
 
