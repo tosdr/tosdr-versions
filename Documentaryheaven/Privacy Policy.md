@@ -108,6 +108,11 @@ Advertisement
 
 ###### Highest Rated This Month
 
+* [![Why The Industrial Revolution Happened Here](/wp-content/thumbnails/8018-100x70.jpeg?x53432)
+    
+    Why The Industrial Revolution Happened Here
+    
+    Professor Jeremy Black examines one of the most extraordinary periods in British history: the Industrial Revolution. He explains the unique economic, social and political conditions that by the 19th c...](https://documentaryheaven.com/why-industrial-revolution-happened-here/ "Why The Industrial Revolution Happened Here")
 * [![The new world order – Illuminati, Freemasons and other secret societies](/wp-content/thumbnails/116-100x70.png?x53432)
     
     The new world order – Illuminati, Freemasons and other secret societies
@@ -123,11 +128,6 @@ Advertisement
     The Fog of War
     
     Winner of the Academy Award for Best DocumentaryIt is the story of America as seen through the eyes of the former Secretary of Defense, Robert S. McNamara. One of the most controversial and influe...](https://documentaryheaven.com/the-fog-of-war/ "The Fog of War")
-* [![The Nature of Ayahuasca](/wp-content/thumbnails/16205-100x70.jpg?x53432)
-    
-    The Nature of Ayahuasca
-    
-    Ayahuasca is a plant-based psychedelic brew that originated from the South American rainforests. It is made from boiling the Banisteriopsis caapi vine, the Psychotria viridis shrub together, although...](https://documentaryheaven.com/nature-of-ayahuasca/ "The Nature of Ayahuasca")
 * [![Pedigree Dogs Exposed](/wp-content/thumbnails/2539-100x70.jpg?x53432)
     
     Pedigree Dogs Exposed
@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Derrick J’s Victimless Crime Spree](/wp-content/thumbnails/6954-100x70.jpg?x53432)
+* [![Deranged Killers: DC Sniper](/wp-content/thumbnails/8144-100x70.jpg?x53432)
     
-    Derrick J’s Victimless Crime Spree
+    Deranged Killers: DC Sniper
     
-    Derrick J’s Victimless Crime Spree, is a documentary chronicling liberty activist Derrick J Freeman’s exciting first year of activism in The Shire. 540 days in jail for dancing, smoking cannabis, goin](https://documentaryheaven.com/derrick-js-victimless-crime-spree/ "Derrick J’s Victimless Crime Spree")
-* [![EP1/2 Everything and Nothing](/wp-content/thumbnails/5645-100x70.jpeg?x53432)
+    Criminal investigators race against time, hunting down John Muhammad and Lee Malvo as the pair carry out one of the most terrifying killing sprees in American history: a murderous rampage that left te](https://documentaryheaven.com/deranged-killers-dc-sniper/ "Deranged Killers: DC Sniper")
+* [![The Mars Underground](/wp-content/thumbnails/6972-100x70.jpg?x53432)
     
-    EP1/2 Everything and Nothing
+    The Mars Underground
     
-    Everything A two-part documentary which deals with two of the deepest questions there are – what is everything, and what is nothing?In two epic, surreal and mind-expanding films, Professor Jim Al-Kh](https://documentaryheaven.com/everything-and-nothing-1/ "EP1/2 Everything and Nothing")
-* [![The War on Democracy](/wp-content/thumbnails/423-100x70.png?x53432)
+    This film captures the spirit of Mars pioneers who refuse to let their dreams be put on hold by a slumbering space program. Their passionate urge to walk the soil of an alien world is infectious and i](https://documentaryheaven.com/the-mars-underground/ "The Mars Underground")
+* [![The Fabulous Life Of Billion Dollar Wall Street Ballers](/wp-content/thumbnails/3820-100x70.jpg?x53432)
     
-    The War on Democracy
+    The Fabulous Life Of Billion Dollar Wall Street Ballers
     
-    Award winning journalist John Pilger examines the role of Washington in America’s manipulation of Latin American politics during the last 50 years leading up to the struggle by ordinary people to free](https://documentaryheaven.com/the-war-on-democracy/ "The War on Democracy")
-* [![The World’s Deadliest Arms Race](/wp-content/thumbnails/8432-100x70.jpg?x53432)
+    Ever thought about how those Wallstreet Brokers lived, while speculating with your money and burning it in the financial crisis? In this documentary you see the homes of Billionaires and multi Million](https://documentaryheaven.com/the-fabulous-life-of-billion-dollar-wall-street-ballers/ "The Fabulous Life Of Billion Dollar Wall Street Ballers")
+* [![Walking Heavy: Britain’s Most Notorious Reformed Criminal](/wp-content/thumbnails/11465-100x70.jpg?x53432)
     
-    The World’s Deadliest Arms Race
+    Walking Heavy: Britain’s Most Notorious Reformed Criminal
     
-    Taliban videos of roadside bomb attacks on coalition vehicles in Afghanistan broadcast on an Al Qaeda network, these videos display images of a ground troops worst fear coming true, being hit by an IE](https://documentaryheaven.com/worlds-deadliest-arms-race/ "The World’s Deadliest Arms Race")
-* [![Elizabeth Taylor](/wp-content/thumbnails/7968-100x70.jpg?x53432)
+    Jason Coghlan was once considered to be the most dangerous man in Britain and this is the story of how he managed to turn his life around. Coghlan spent 16 years behind bars, whilst locked up he took](https://documentaryheaven.com/walking-heavy-britains-most-notorious-reformed-criminal/ "Walking Heavy: Britain’s Most Notorious Reformed Criminal")
+* [![Can You Hack It? – Hackers Wanted](/wp-content/thumbnails/5087-100x70.jpg?x53432)
     
-    Elizabeth Taylor
+    Can You Hack It? – Hackers Wanted
     
-    Renowned for her legendary beauty and startling violet eyes, actress Elizabeth Taylor has mesmerized audiences with her dramatic performances on the big screen as well as her private life, which inclu](https://documentaryheaven.com/elizabeth-taylor/ "Elizabeth Taylor")
+    Hackers Wanted is an unreleased American documentary film. Directed and written by Sam Bozzo, the film explores the origins and nature of hackers and hacking by following the adventures of Adrian Lamo](https://documentaryheaven.com/can-you-hack-it-hackers-wanted/ "Can You Hack It? – Hackers Wanted")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
