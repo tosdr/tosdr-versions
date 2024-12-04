@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Funeral held for fallen Greenville PD Officer Cooper Dawson](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/cooper-dawson-funeral-2.jpg?ve=1&tl=1)
+ [![WATCH: Sundance Square lights largest live Christmas tree in Texas](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/120324-fort-worth-tree-light-kdfweme002_19_00_52_m_00.03.29.58.jpg?ve=1&tl=1)
 
- ![Funeral held for fallen Greenville PD Officer Cooper Dawson](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/cooper-dawson-funeral-2.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/greenville-officer-cooper-dawson-funeral)
+ ![WATCH: Sundance Square lights largest live Christmas tree in Texas](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/120324-fort-worth-tree-light-kdfweme002_19_00_52_m_00.03.29.58.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/sundance-square-christmas-tree-lighting-livestream)
 
-### [Funeral held for fallen Greenville PD Officer Cooper Dawson](https://www.fox4news.com/news/greenville-officer-cooper-dawson-funeral)
+### [WATCH: Sundance Square lights largest live Christmas tree in Texas](https://www.fox4news.com/news/sundance-square-christmas-tree-lighting-livestream)
 
- [![51-year-old inmate dies while in custody of Tarrant County Jail](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/gettyimages-2164247759.jpg?ve=1&tl=1)
+ [![No murder confession found in recordings seized from OJ Simpson's ex-bodyguard, police say](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/oj-simpson.jpg?ve=1&tl=1)
 
- ![51-year-old inmate dies while in custody of Tarrant County Jail](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/gettyimages-2164247759.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/51-year-old-inmate-dies-while-custody-tarrant-county-jail)
+ ![No murder confession found in recordings seized from OJ Simpson's ex-bodyguard, police say](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/oj-simpson.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/oj-simpson-supposedly-confessed-murders-recording-tmz-reports-2024)
 
-### [51-year-old inmate dies while in custody of Tarrant County Jail](https://www.fox4news.com/news/51-year-old-inmate-dies-while-custody-tarrant-county-jail)
+### [No murder confession found in recordings seized from OJ Simpson's ex-bodyguard, police say](https://www.fox4news.com/news/oj-simpson-supposedly-confessed-murders-recording-tmz-reports-2024)
 
- [![Seagoville police investigate murder, victim found at park gazebo](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/03/32/18/f6d6d489-d2486419-7d0c5d8b-police-lights.jpg?ve=1&tl=1)
+ [![Texas winter weather patterns look similar to 2021, ERCOT meteorologist says](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/09/32/18/POWER-LINES.jpg?ve=1&tl=1)
 
- ![Seagoville police investigate murder, victim found at park gazebo](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/03/32/18/592/333/f6d6d489-d2486419-7d0c5d8b-police-lights.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/seagoville-police-investigate-murder-victim-found-park-gazebo)
+ ![Texas winter weather patterns look similar to 2021, ERCOT meteorologist says](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/09/32/18/592/333/POWER-LINES.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/texas-winter-weather-ercot-power-grid-2024)
 
-### [Seagoville police investigate murder, victim found at park gazebo](https://www.fox4news.com/news/seagoville-police-investigate-murder-victim-found-park-gazebo)
+### [Texas winter weather patterns look similar to 2021, ERCOT meteorologist says](https://www.fox4news.com/news/texas-winter-weather-ercot-power-grid-2024)
 
- [![Vodka maker Stoli Group USA files for Chapter 11 bankruptcy](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-1228093505-scaled.jpg?ve=1&tl=1)
+ [![Dallas is lone finalist for FIFA World Cup International Broadcast Center](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/p-dial-fifa-international-broadcast-center-5p_00.01.40.52.jpg?ve=1&tl=1)
 
- ![Vodka maker Stoli Group USA files for Chapter 11 bankruptcy](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-1228093505-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/vodka-stoli-bankruptcy-filing)
+ ![Dallas is lone finalist for FIFA World Cup International Broadcast Center](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/p-dial-fifa-international-broadcast-center-5p_00.01.40.52.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-is-lone-finalist-fifa-world-cup-international-broadcast-center)
 
-### [Vodka maker Stoli Group USA files for Chapter 11 bankruptcy](https://www.fox4news.com/news/vodka-stoli-bankruptcy-filing)
+### [Dallas is lone finalist for FIFA World Cup International Broadcast Center](https://www.fox4news.com/news/dallas-is-lone-finalist-fifa-world-cup-international-broadcast-center)
 
- [![The best US cities for singles, based on dating populations, activities and more](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/people-on-a-date.jpg?ve=1&tl=1)
+ [![Fair Park First partners with Dallas Foundation to get community park project back on track](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/p-lori-fair-park-first-audit-5p_00.01.27.58.jpg?ve=1&tl=1)
 
- ![The best US cities for singles, based on dating populations, activities and more](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/people-on-a-date.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/best-us-cities-singles-dating-activities)
+ ![Fair Park First partners with Dallas Foundation to get community park project back on track](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/p-lori-fair-park-first-audit-5p_00.01.27.58.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fair-park-first-partners-dallas-foundation-community-park)
 
-### [The best US cities for singles, based on dating populations, activities and more](https://www.fox4news.com/news/best-us-cities-singles-dating-activities)
+### [Fair Park First partners with Dallas Foundation to get community park project back on track](https://www.fox4news.com/news/fair-park-first-partners-dallas-foundation-community-park)
 
 ###### [News](https://www.fox4news.com/news)
 
