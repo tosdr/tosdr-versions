@@ -311,7 +311,7 @@ Products
 Useful links
 
 * [Support](https://wolt.com/help)
-* [Media](https://press.wolt.com/)
+* [Newsroom](https://press.wolt.com/)
 * [Contact](https://explore.wolt.com/en/fin/contact)
 * [Oiva report](https://explore.wolt.com/en/fin/oiva)
 * [Speak up](https://explore.wolt.com/en/fin/speakup)
