@@ -14,7 +14,7 @@ Search
 
 Search
 
-* [🎄 Gift Guide](https://4patriots.com/category/gift-guide)
+* [⚡ Deals](https://4patriots.com/category/deals)
     
     ###### Featured Deals
     
@@ -30,25 +30,25 @@ Search
     
     [![](https://s3-us-west-2.amazonaws.com/catsy.1040/MENU-2410-PPGS-X-LIFESTYLE-OUTDOORS-854x674.jpg )](https://4patriots.com/product/ultracharge-patriot-power-generator-2000x-sidekick-bundle)["Ultracharge" Backup Power Package](https://4patriots.com/product/ultracharge-patriot-power-generator-2000x-sidekick-bundle)﻿
     
-    ###### 🎁 Gift Peace of Mind
+    ###### Deals
     
     ![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)
     
     [Shop All](https://4patriots.com/category/deals)
     
-    [![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F18eb4df89fce447fb8df45519e514965?width=343)
+    [![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F1abd78e7a79a48ddb14cce805c8646b8?width=343)
     
-    "Mini" Cooler & Warmer](https://4patriots.com/product/freedom-fridge-electric-cooler-warmer)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F1abd78e7a79a48ddb14cce805c8646b8?width=343)
+    B1G1 Mini Generator Deal](https://4patriots.com/product/supercharge-patriot-power-generator-1800-sidekick-bundle)[![72 Hour Food Kit in front of the Christmas tree](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F9627210a4b13464cb9af3ca7ff9d1cea)
     
-    B1G1 FREE Mini Generator](https://4patriots.com/product/supercharge-patriot-power-generator-1800-sidekick-bundle)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F88e3fc5de6e44f3c8b82b67ca014d0ed)
+    FREE 72-Hour Food Kit](https://4patriots.com/product/72-hour-emergency-survival-food-kit)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F18eb4df89fce447fb8df45519e514965?width=343)
     
-    Boil Water With Only the Sun](https://4patriots.com/product/sun-kettle-solar-water-heater)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F48b6561e88044a87b1e905c49bcb6088?width=343)
+    "Mini" Cooler & Warmer](https://4patriots.com/product/freedom-fridge-electric-cooler-warmer)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F53b2f8faa63c483aab46b333e5c6123b?width=343)
     
-    TSA-Approved Power Bank](https://4patriots.com/product/patriot-power-cell-cx-portable-solar-power-bank)
+    #1 Emergency Kit for Cars](https://4patriots.com/product/patriot-power-all-in-one-emergency-car-kit-95-pieces)
     
     [![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2Fafe30086aaf54c3191129ed6c3913c9b?width=500)](https://4patriots.com/category/deals)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F4a521c4c3a8f4b5f8006029711027a7c?width=638)](https://4patriots.com/product/emergency-food-ration-bars)
     
-    ###### Our Gift Guide Has All Your Loved Ones Covered
+    ###### Check Out Our Gift Guide For More Savings
     
     ![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)
     
@@ -256,7 +256,7 @@ Search
     
     ![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)
     
-* [⚡ Deals](https://4patriots.com/category/deals)
+* [🎄 Gift Guide](https://4patriots.com/category/gift-guide)
     
     ###### Featured Deals
     
@@ -272,25 +272,25 @@ Search
     
     [![](https://s3-us-west-2.amazonaws.com/catsy.1040/MENU-2410-PPGS-X-LIFESTYLE-OUTDOORS-854x674.jpg )](https://4patriots.com/product/ultracharge-patriot-power-generator-2000x-sidekick-bundle)["Ultracharge" Backup Power Package](https://4patriots.com/product/ultracharge-patriot-power-generator-2000x-sidekick-bundle)﻿
     
-    ###### Deals
+    ###### 🎁 Gift Peace of Mind
     
     ![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)
     
     [Shop All](https://4patriots.com/category/deals)
     
-    [![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F1abd78e7a79a48ddb14cce805c8646b8?width=343)
+    [![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F18eb4df89fce447fb8df45519e514965?width=343)
     
-    B1G1 Mini Generator Deal](https://4patriots.com/product/supercharge-patriot-power-generator-1800-sidekick-bundle)[![72 Hour Food Kit in front of the Christmas tree](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F9627210a4b13464cb9af3ca7ff9d1cea)
+    "Mini" Cooler & Warmer](https://4patriots.com/product/freedom-fridge-electric-cooler-warmer)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F1abd78e7a79a48ddb14cce805c8646b8?width=343)
     
-    FREE 72-Hour Food Kit](https://4patriots.com/product/72-hour-emergency-survival-food-kit)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F18eb4df89fce447fb8df45519e514965?width=343)
+    B1G1 FREE Mini Generator](https://4patriots.com/product/supercharge-patriot-power-generator-1800-sidekick-bundle)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F88e3fc5de6e44f3c8b82b67ca014d0ed)
     
-    "Mini" Cooler & Warmer](https://4patriots.com/product/freedom-fridge-electric-cooler-warmer)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F53b2f8faa63c483aab46b333e5c6123b?width=343)
+    Boil Water With Only the Sun](https://4patriots.com/product/sun-kettle-solar-water-heater)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F48b6561e88044a87b1e905c49bcb6088?width=343)
     
-    #1 Emergency Kit for Cars](https://4patriots.com/product/patriot-power-all-in-one-emergency-car-kit-95-pieces)
+    TSA-Approved Power Bank](https://4patriots.com/product/patriot-power-cell-cx-portable-solar-power-bank)
     
     [![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2Fafe30086aaf54c3191129ed6c3913c9b?width=500)](https://4patriots.com/category/deals)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F4a521c4c3a8f4b5f8006029711027a7c?width=638)](https://4patriots.com/product/emergency-food-ration-bars)
     
-    ###### Check Out Our Gift Guide For More Savings
+    ###### Our Gift Guide Has All Your Loved Ones Covered
     
     ![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)
     
