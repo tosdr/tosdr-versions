@@ -273,6 +273,6 @@ These Terms and our Privacy Policy constitute the sole and entire agreement betw
 
 ‌Contact Information
 
-This Hiatus Platforms is operated by Hiatus Inc., with an address of 20 West 20th Street, Suite 904, New York, New York 10011.
+This Hiatus Platforms is operated by Hiatus Inc., with an address of 1515 Mockingbird Lane, Floor 4, Charlotte, North Carolina 28209.
 
 All notices, feedback, comments, requests for technical support, and other communications relating to the Hiatus Platforms should be directed to: support@hiatusapp.com.
