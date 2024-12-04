@@ -24,7 +24,7 @@ Management](https://later.com/)
     
     * [Social Media ManagersWork faster & get better results](https://later.com/social-media-managers/)
     * [AgenciesManage social campaigns for clients](https://later.com/later-social-for-agencies/)
-    * [CreatorsFind brand collabs and get paid](https://later.com/creators/)
+    * [CreatorsFind brand collabs and get paid](https://later.com/influencer-creator-program/)
     * [Small Business OwnersPost consistently & drive sales](https://later.com/small-business-owners/)
     
     New Later Social Feature
@@ -568,7 +568,7 @@ Subject to Section 9 above, these Influencer Terms of Use are governed by the in
     
     * [Social Media Managers](https://later.com/social-media-managers/)
     * [Agencies](https://later.com/later-social-for-agencies/)
-    * [Creators](https://later.com/creators/)
+    * [Creators](https://later.com/influencer-creator-program/)
     * [Small Business Owners](https://later.com/small-business-owners/)
     
     Pricing
