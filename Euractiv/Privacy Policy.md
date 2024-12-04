@@ -443,6 +443,16 @@ Most recent
 
 [04-12-2024
 
+French left and far-right bring down Barnier government](https://www.euractiv.com/section/all/news/french-left-and-far-right-bring-down-barnier-government/)[04-12-2024
+
+Pressure mounts on EU for radical change to fishing quotas system](https://www.euractiv.com/section/agriculture-food/news/pressure-mounts-for-radical-change-to-fishing-quotas-system/)[04-12-2024
+
+NATO promises better strategy against cyber attacks and undersea cables](https://www.euractiv.com/section/global-europe/news/nato-promises-better-strategy-against-cyber-attacks-and-undersea-cables/)[04-12-2024
+
+Germany’s Scholz urges opposition to agree on economic relief ahead of snap elections](https://www.euractiv.com/section/economy-jobs/news/germanys-scholz-urges-opposition-to-agree-on-economic-relief-ahead-of-snap-elections/)[04-12-2024
+
+Brussels kicks off delayed negotiations on anti-greenwashing law](https://www.euractiv.com/section/eet/news/brussels-kicks-off-delayed-negotiations-on-anti-greenwashing-law/)[04-12-2024
+
 Romanian hard right says it wants to be part of new government](https://www.euractiv.com/section/politics/news/romanian-hard-right-says-it-wants-to-be-part-of-new-government/)[04-12-2024
 
 Trump’s plan for Ukraine: Territorial concessions but NATO off the table](https://www.euractiv.com/section/global-europe/news/trumps-plan-for-ukraine-territorial-concessions-but-nato-off-the-table/)[04-12-2024
@@ -451,17 +461,7 @@ South Korean president faces impeachment calls after martial law debacle](https:
 
 Syria rebels ‘at gates’ of key city Hama, Putin urges Erdoğan to end the offensive](https://www.euractiv.com/section/global-europe/news/syria-rebels-at-gates-of-key-city-hama-putin-urges-erdogan-to-end-the-offensive/)[04-12-2024
 
-Car giant Stellantis urged to put Italy’s interests first amid crisis](https://www.euractiv.com/section/politics/news/the-capitals-car-giant-stellantis-urged-to-put-italys-interests-first-amid-crisis/)[04-12-2024
-
-Sheep plague outbreak exposes total distrust of Bulgarian institutions](https://www.euractiv.com/section/politics/news/sheep-plague-outbreak-exposes-total-distrust-of-bulgarian-institutions/)[04-12-2024
-
-Polish Prime Minister Donald Tusk reiterated plans for a proactive Polish EU presidency](https://www.euractiv.com/section/politics/news/polish-prime-minister-donald-tusk-reiterated-plans-for-a-proactive-polish-eu-presidency/)[04-12-2024
-
-Portuguese PM in favour of ‘European champions’ if not in France, Germany](https://www.euractiv.com/section/politics/news/portuguese-pm-in-favour-of-european-champions-if-not-in-france-germany/)[04-12-2024
-
-Brussels won’t delay combustion engine ban beyond 2035, Ribera warns](https://www.euractiv.com/section/politics/news/brussels-wont-delay-combustion-engine-ban-beyond-2035-ribera-warns/)[04-12-2024
-
-Georgia’s ombudsman accuses police of torturing pro-EU protesters](https://www.euractiv.com/section/global-europe/news/georgias-ombudsman-accuses-police-of-torturing-pro-eu-protesters/)
+Car giant Stellantis urged to put Italy’s interests first amid crisis](https://www.euractiv.com/section/politics/news/the-capitals-car-giant-stellantis-urged-to-put-italys-interests-first-amid-crisis/)
 
 ###### Advertisement
 
