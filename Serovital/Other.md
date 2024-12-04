@@ -2,13 +2,9 @@
 
 Pause slideshow Play slideshow
 
-[**CHOOSE YOUR GIFT WITH PURCHASES $75+^**](https://www.serovital.com/collections/all-products "All Products")
+[**CHOOSE YOUR OWN GIFT WITH ANY $75+ PURCHASE^**](https://www.serovital.com/collections/all-products "All Products")
 
-[**CHOOSE YOUR GIFT WITH PURCHASES $75+^**](https://www.serovital.com/collections/all-products "All Products")
-
-[**HOLIDAY KITS:** Sparkle & shine with limited-edition gift sets 🎁](https://www.serovital.com/collections/holiday-kits "Holiday Sets")
-
-[**HOLIDAY KITS:** Sparkle & shine with limited-edition gift sets 🎁](https://www.serovital.com/collections/holiday-kits "Holiday Sets")
+[**CHOOSE YOUR OWN GIFT WITH ANY $75+ PURCHASE^**](https://www.serovital.com/collections/all-products "All Products")
 
 [**LIMITED-EDITION HOLIDAY KITS:** Up to 48% in savings 🎁](https://www.serovital.com/collections/holiday-kits "Holiday Sets")
 
