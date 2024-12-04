@@ -401,35 +401,37 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![How to check Spotify Wrapped 2024](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/04/32/18/GettyImages-2147923557.jpg?ve=1&tl=1)
-
- ![How to check Spotify Wrapped 2024](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/04/32/18/592/333/GettyImages-2147923557.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/how-check-spotify-wrapped-2024)
-
-### [How to check Spotify Wrapped 2024](https://www.fox4news.com/news/how-check-spotify-wrapped-2024)
-
- [![Dallas weather: Rain and cooler temperatures take over this week](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/gettyimages-1572029865.jpg?ve=1&tl=1)
-
- ![Dallas weather: Rain and cooler temperatures take over this week](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/gettyimages-1572029865.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/weather/dallas-weather-rain-freezing)
-
-### [Dallas weather: Rain and cooler temperatures take over this week](https://www.fox4news.com/weather/dallas-weather-rain-freezing)
-
  [![Tarrant County jury to decide on death penalty for convicted killer Jason Thornburg](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/v-jason-thornburg-convicted-4a_00.00.05.22.jpg?ve=1&tl=1)
 
  ![Tarrant County jury to decide on death penalty for convicted killer Jason Thornburg](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/v-jason-thornburg-convicted-4a_00.00.05.22.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/jason-thornburg-texas-serial-killer-sentencing-livestream)
 
 ### [Tarrant County jury to decide on death penalty for convicted killer Jason Thornburg](https://www.fox4news.com/news/jason-thornburg-texas-serial-killer-sentencing-livestream)
 
- [![No arrests after 2 shot near South Dallas DART station](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/v-dallas-south-blvd-shooting-9p_00.00.34.30.jpg?ve=1&tl=1)
+ [![LIVE UPDATES: UnitedHealthcare CEO killed in 'brazen, targeted attack' outside NYC hotel](https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2024/12/32/18/ceo-shot-killed-tn.jpg?ve=1&tl=1)
 
- ![No arrests after 2 shot near South Dallas DART station](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/v-dallas-south-blvd-shooting-9p_00.00.34.30.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/no-arrests-after-2-shot-near-south-dallas-dart-station)
+ ![LIVE UPDATES: UnitedHealthcare CEO killed in 'brazen, targeted attack' outside NYC hotel](https://images.foxtv.com/images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2024/12/32/18/592/333/ceo-shot-killed-tn.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/unitedhealthcare-ceo-killed-nyc)
 
-### [No arrests after 2 shot near South Dallas DART station](https://www.fox4news.com/news/no-arrests-after-2-shot-near-south-dallas-dart-station)
+Live Now
 
- [![Man found in van with guns, explosives in White Settlement planned to attack local church: report](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/white-settlement-suspicious-vehicle-arrest-scene-pic-1.jpg?ve=1&tl=1)
+### [LIVE UPDATES: UnitedHealthcare CEO killed in 'brazen, targeted attack' outside NYC hotel](https://www.fox4news.com/news/unitedhealthcare-ceo-killed-nyc)
 
- ![Man found in van with guns, explosives in White Settlement planned to attack local church: report](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/white-settlement-suspicious-vehicle-arrest-scene-pic-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/man-found-van-guns-explosives-white-settlement-planned-attack-local-church-report)
+ [![Who is Brian Thompson? UnitedHealthcare CEO fatally shot in targeted attack](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/horizontal-brian-thompson.png?ve=1&tl=1)
 
-### [Man found in van with guns, explosives in White Settlement planned to attack local church: report](https://www.fox4news.com/news/man-found-van-guns-explosives-white-settlement-planned-attack-local-church-report)
+ ![Who is Brian Thompson? UnitedHealthcare CEO fatally shot in targeted attack](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/592/333/horizontal-brian-thompson.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/brian-thompson-united-healthcare-ceo-killed)
+
+### [Who is Brian Thompson? UnitedHealthcare CEO fatally shot in targeted attack](https://www.fox4news.com/news/brian-thompson-united-healthcare-ceo-killed)
+
+ [![Kamala to Chappell: Most mispronounced words of 2024 revealed](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/chappell-roan-getty.jpg?ve=1&tl=1)
+
+ ![Kamala to Chappell: Most mispronounced words of 2024 revealed](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/chappell-roan-getty.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/kamala-chappell-most-mispronounced-words-2024)
+
+### [Kamala to Chappell: Most mispronounced words of 2024 revealed](https://www.fox4news.com/news/kamala-chappell-most-mispronounced-words-2024)
+
+ [![National Signing Day: 8 Duncanville High School athletes commit to colleges](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/v-shannon-duncanville-signing-day-8a_kdfw807d_146__00.00.30.34.jpg?ve=1&tl=1)
+
+ ![National Signing Day: 8 Duncanville High School athletes commit to colleges](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/v-shannon-duncanville-signing-day-8a_kdfw807d_146__00.00.30.34.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/national-signing-day-duncanville-panthers)
+
+### [National Signing Day: 8 Duncanville High School athletes commit to colleges](https://www.fox4news.com/sports/national-signing-day-duncanville-panthers)
 
 ###### [News](https://www.fox4news.com/news)
 
