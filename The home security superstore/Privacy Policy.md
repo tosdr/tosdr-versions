@@ -1,12 +1,12 @@
 [Skip to content](#main-content)
 
-[BFCM EXTENDED SALE I 15% OFF SITEWIDE!](https://www.thehomesecuritysuperstore.com/collections/best-sellers?utm_source=website&utm_medium=banner&utm_campaign=BFCM+EXTENDED+SALE+15%25+OFF+SITEWIDE)
+[15% Off Stun Guns & Pepper Spray | Code: SP15](https://www.thehomesecuritysuperstore.com/collections/self-defense?utm_source=website&utm_medium=banner&utm_campaign=15%25+Off+Stun+Guns+%26+Pepper+Spray)
 
-TODAY'S OFFER: :: | BFCM EXTENDED SALE I 15% OFF SITEWIDE!
+TODAY'S OFFER: :: | 15% Off Stun Guns & Pepper Spray | Code: SP15
 
 TODAY'S OFFER: : :
 
- BFCM EXTENDED SALE I 15% OFF SITEWIDE!
+ 15% Off Stun Guns & Pepper Spray Code: SP15
 
 [![The Home Security Superstore](//www.thehomesecuritysuperstore.com/cdn/shop/files/thss-main-logo-jpg.jpg?v=1729157895&width=300)](https://www.thehomesecuritysuperstore.com/)
 
