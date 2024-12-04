@@ -20,6 +20,14 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![British Transport Police would like to speak with this man in connection with an incident at Waterloo station](https://southwarknews.co.uk/wp-content/uploads/2024/12/Waterloo-appeal-360x180.jpg)](https://southwarknews.co.uk/area/waterloo/police-tracing-man-after-alleged-sexual-assault-in-waterloo/)
+    
+    ### [Police tracing man after alleged sexual assault in Waterloo](https://southwarknews.co.uk/area/waterloo/police-tracing-man-after-alleged-sexual-assault-in-waterloo/) 
+    
+    [![Lilyanne Hook (MPS Lewisham)](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-04-12-2024-at-14.55-360x180.jpg)](https://southwarknews.co.uk/area/peckham/lewisham-teenage-girl-with-links-to-peckham-missing-for-over-two-weeks/)
+    
+    ### [Lewisham teenage girl with links to Peckham missing for over two weeks](https://southwarknews.co.uk/area/peckham/lewisham-teenage-girl-with-links-to-peckham-missing-for-over-two-weeks/)
+    
     [![The judgement was handed down at Clerkenwell and Shoreditch County Court and Family Court (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-04-12-2024-at-12.37-360x180.jpg)](https://southwarknews.co.uk/area/walworth/walworth-tenant-ordered-to-repay-40k-after-decade-long-illegal-subletting-scam/)
     
     ### [Walworth tenant ordered to repay £40k after decade-long illegal subletting scam](https://southwarknews.co.uk/area/walworth/walworth-tenant-ordered-to-repay-40k-after-decade-long-illegal-subletting-scam/)
@@ -47,14 +55,6 @@
     [![Go-Ahead London Central’s WHV150 running the number 1 route. Credit: SA 4.0 (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/11/LHR_Go-Ahead_London_Central_WHV150_BV66VJK_1_2023-11-14-e1732883741906-360x180.jpg)](https://southwarknews.co.uk/news/news-plus/southwarks-slowest-bus-routes-revealed/)
     
     ### [Southwark’s slowest bus routes revealed](https://southwarknews.co.uk/news/news-plus/southwarks-slowest-bus-routes-revealed/)
-    
-    [![London mayor Sadiq Khan. Credit: Noah Vickers/Local Democracy Reporting Service](https://southwarknews.co.uk/wp-content/uploads/2024/07/London-mayor-Sadiq-Khan-360x180.jpg)](https://southwarknews.co.uk/area/london/sadiq-khan-has-launched-his-annual-rough-sleeping-fundraising-campaign/)
-    
-    ### [Sadiq Khan has launched his annual rough sleeping fundraising campaign](https://southwarknews.co.uk/area/london/sadiq-khan-has-launched-his-annual-rough-sleeping-fundraising-campaign/)
-    
-    [![The Disused flats on Newcomen Street.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-03-12-2024-at-10.48-360x180.jpg)](https://southwarknews.co.uk/area/borough/five-people-taken-to-hospital-after-fire-destroys-flats-in-borough/)
-    
-    ### [Five people taken to hospital after fire ‘destroys’ flats in Borough](https://southwarknews.co.uk/area/borough/five-people-taken-to-hospital-after-fire-destroys-flats-in-borough/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,6 +105,14 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![British Transport Police would like to speak with this man in connection with an incident at Waterloo station](https://southwarknews.co.uk/wp-content/uploads/2024/12/Waterloo-appeal-360x180.jpg)](https://southwarknews.co.uk/area/waterloo/police-tracing-man-after-alleged-sexual-assault-in-waterloo/)
+    
+    ### [Police tracing man after alleged sexual assault in Waterloo](https://southwarknews.co.uk/area/waterloo/police-tracing-man-after-alleged-sexual-assault-in-waterloo/) 
+    
+    [![Lilyanne Hook (MPS Lewisham)](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-04-12-2024-at-14.55-360x180.jpg)](https://southwarknews.co.uk/area/peckham/lewisham-teenage-girl-with-links-to-peckham-missing-for-over-two-weeks/)
+    
+    ### [Lewisham teenage girl with links to Peckham missing for over two weeks](https://southwarknews.co.uk/area/peckham/lewisham-teenage-girl-with-links-to-peckham-missing-for-over-two-weeks/)
+    
     [![The judgement was handed down at Clerkenwell and Shoreditch County Court and Family Court (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-04-12-2024-at-12.37-360x180.jpg)](https://southwarknews.co.uk/area/walworth/walworth-tenant-ordered-to-repay-40k-after-decade-long-illegal-subletting-scam/)
     
     ### [Walworth tenant ordered to repay £40k after decade-long illegal subletting scam](https://southwarknews.co.uk/area/walworth/walworth-tenant-ordered-to-repay-40k-after-decade-long-illegal-subletting-scam/)
@@ -132,14 +140,6 @@ View All Result
     [![Go-Ahead London Central’s WHV150 running the number 1 route. Credit: SA 4.0 (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/11/LHR_Go-Ahead_London_Central_WHV150_BV66VJK_1_2023-11-14-e1732883741906-360x180.jpg)](https://southwarknews.co.uk/news/news-plus/southwarks-slowest-bus-routes-revealed/)
     
     ### [Southwark’s slowest bus routes revealed](https://southwarknews.co.uk/news/news-plus/southwarks-slowest-bus-routes-revealed/)
-    
-    [![London mayor Sadiq Khan. Credit: Noah Vickers/Local Democracy Reporting Service](https://southwarknews.co.uk/wp-content/uploads/2024/07/London-mayor-Sadiq-Khan-360x180.jpg)](https://southwarknews.co.uk/area/london/sadiq-khan-has-launched-his-annual-rough-sleeping-fundraising-campaign/)
-    
-    ### [Sadiq Khan has launched his annual rough sleeping fundraising campaign](https://southwarknews.co.uk/area/london/sadiq-khan-has-launched-his-annual-rough-sleeping-fundraising-campaign/)
-    
-    [![The Disused flats on Newcomen Street.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-03-12-2024-at-10.48-360x180.jpg)](https://southwarknews.co.uk/area/borough/five-people-taken-to-hospital-after-fire-destroys-flats-in-borough/)
-    
-    ### [Five people taken to hospital after fire ‘destroys’ flats in Borough](https://southwarknews.co.uk/area/borough/five-people-taken-to-hospital-after-fire-destroys-flats-in-borough/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -213,6 +213,12 @@ This site uses cookies – small text files that are placed on your machine to h
 
 [27th November 2024](https://southwarknews.co.uk/area/southwark/southwark-councils-leader-has-apologised-after-the-governments-social-housing-watchdog-found-serious-failings/)
 
+[![Steven Weems in the doorway of his Borough council flat](https://southwarknews.co.uk/wp-content/uploads/2024/11/image00006-9-120x86.jpeg)](https://southwarknews.co.uk/area/borough/disabled-man-denied-right-to-buy-council-flat-because-of-homes-disabled-adaptations/)
+
+### [Disabled man ‘denied Right to Buy’ council flat because of home’s disabled adaptations](https://southwarknews.co.uk/area/borough/disabled-man-denied-right-to-buy-council-flat-because-of-homes-disabled-adaptations/)
+
+[3rd December 2024](https://southwarknews.co.uk/area/borough/disabled-man-denied-right-to-buy-council-flat-because-of-homes-disabled-adaptations/)
+
 [![Joe Edwards left the Lions with the club sitting one point above the drop zone. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/11/edwards-training-2048x1352-1-120x86.png)](https://southwarknews.co.uk/sport/football/millwall/ex-millwall-boss-lands-role-at-frank-lampards-coventry-city/)
 
 ### [Ex-Millwall boss joins Frank Lampard’s backroom staff at Coventry City](https://southwarknews.co.uk/sport/football/millwall/ex-millwall-boss-lands-role-at-frank-lampards-coventry-city/)
@@ -231,13 +237,13 @@ This site uses cookies – small text files that are placed on your machine to h
 
 [1st December 2024](https://southwarknews.co.uk/area/dulwich/teenage-entrepreneur-from-dulwich-hopes-business-success-will-motivate-schoolchildren-uninspired-by-the-education-system/)
 
-[![The Lions can't hide their disappointment. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/12/Hutch-Coops-Wallace-Blackburn-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/news-at-den-plus/minute-by-minute-millwalls-dream-slips-away-it-was-a-kick-in-the-bollocks-you-come-away-with-your-chin-on-the-floor/)
-
-### [Minute by minute Millwall’s dream slips away: ‘It was a kick in the bollocks – you come away with your chin on the floor’](https://southwarknews.co.uk/sport/football/millwall/news-at-den-plus/minute-by-minute-millwalls-dream-slips-away-it-was-a-kick-in-the-bollocks-you-come-away-with-your-chin-on-the-floor/)
-
-[3rd December 2024](https://southwarknews.co.uk/sport/football/millwall/news-at-den-plus/minute-by-minute-millwalls-dream-slips-away-it-was-a-kick-in-the-bollocks-you-come-away-with-your-chin-on-the-floor/)
-
 ### Featured Articles
+
+[![Lilyanne Hook (MPS Lewisham)](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-04-12-2024-at-14.55-120x86.jpg)](https://southwarknews.co.uk/area/peckham/lewisham-teenage-girl-with-links-to-peckham-missing-for-over-two-weeks/)
+
+### [Lewisham teenage girl with links to Peckham missing for over two weeks](https://southwarknews.co.uk/area/peckham/lewisham-teenage-girl-with-links-to-peckham-missing-for-over-two-weeks/)
+
+[4th December 2024](https://southwarknews.co.uk/area/peckham/lewisham-teenage-girl-with-links-to-peckham-missing-for-over-two-weeks/)
 
 [![The Albin and Sons Memorial Service](https://southwarknews.co.uk/wp-content/uploads/2024/12/Albin-and-Sons-memorial-service-2023-120x86.jpeg)](https://southwarknews.co.uk/area/rotherhithe/acclaimed-funeral-directors-to-host-heartwarming-annual-christmas-service-tomorrow/)
 
@@ -269,12 +275,6 @@ CREDIT: Public Interest Law Centre](https://southwarknews.co.uk/wp-content/uploa
 ### [Developer rejigs Aylesbury Estate plans after legal challenge](https://southwarknews.co.uk/area/walworth/developer-rejigs-aylesbury-estate-plans-after-legal-challenge/)
 
 [2nd December 2024](https://southwarknews.co.uk/area/walworth/developer-rejigs-aylesbury-estate-plans-after-legal-challenge/)
-
-[![A bus shelter in Peckham. Credit: TfL](https://southwarknews.co.uk/wp-content/uploads/2024/12/9ef42d8aa23644438fa22851473ecfd6-120x86.jpg)](https://southwarknews.co.uk/area/south-london/bus-stops-fitted-with-cctv-cameras-as-tfl-takes-a-stand-on-violence-against-women-and-girls/)
-
-### [Bus stops fitted with CCTV cameras as TfL ‘takes a stand’ on violence against women and girls](https://southwarknews.co.uk/area/south-london/bus-stops-fitted-with-cctv-cameras-as-tfl-takes-a-stand-on-violence-against-women-and-girls/)
-
-[2nd December 2024](https://southwarknews.co.uk/area/south-london/bus-stops-fitted-with-cctv-cameras-as-tfl-takes-a-stand-on-violence-against-women-and-girls/)
 
 ### USEFUL PAGES
 
