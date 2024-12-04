@@ -97,7 +97,7 @@ Latest commented posts
 
 [agatha directed by kotcfacu (director)](https://yiff-party.com/yiff/agatha-directed-by-kotcfacu-director/)
 
-0 698 1
+0 706 1
 
 November 18, 2024
 
@@ -105,21 +105,21 @@ November 18, 2024
 
 [affax created by eihman and fumiko](https://yiff-party.com/yiff/affax-created-by-eihman-and-fumiko/)
 
-0 197 1
+0 204 1
 
 November 27, 2024
 
-[](https://yiff-party.com/yiff/directed-by-magikbeans3/)
+[](https://yiff-party.com/yiff/blitzo-and-stolas-boobs-wanna-touch-boobs-and-etc-created-by-nathanatwar/)
 
-[directed by magikbeans3](https://yiff-party.com/yiff/directed-by-magikbeans3/)
+[blitzo and stolas (boobs? wanna touch boobs? and etc) created by nathanatwar](https://yiff-party.com/yiff/blitzo-and-stolas-boobs-wanna-touch-boobs-and-etc-created-by-nathanatwar/)
 
-0 66 0
+0 279 0
 
 November 4, 2024
 
-[](https://yiff-party.com/yiff-ai-premium/directed-by-ulvrune-3/)
+[](https://yiff-party.com/yiff-ai-premium/valerie-directed-by-fiery-fox-3/)
 
-[directed by ulvrune](https://yiff-party.com/yiff-ai-premium/directed-by-ulvrune-3/)
+[valerie directed by fiery fox](https://yiff-party.com/yiff-ai-premium/valerie-directed-by-fiery-fox-3/)
 
 0 1 0
 
