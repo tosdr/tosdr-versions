@@ -71,7 +71,7 @@
             * [HQIM ResourcesSee how HQIM empower educators and students to reach their full potential](https://www.imaginelearning.com/why-choose-high-quality-instructional-materials/ "HQIM Resources ")
         * * [BlogInsights and strategies to inspire student success and empower educators](https://www.imaginelearning.com/blog/)
             * [WebinarsUpcoming and on‑demand webinars crafted especially for educators](https://www.imaginelearning.com/support/webinars/)
-            * [Funding & ResourcesMeet funding requirements and create equitable pathways for each student](https://www.imaginelearning.com/support/funding-resources/ "Funding & Resources")
+            * [Funding IntelligenceMeet funding requirements and create equitable pathways for each student](https://www.imaginelearning.com/?page_id=111 "Funding & Resources")
             * [Video LibraryWatch customer success stories and product videos](https://video.imaginelearning.com/)
         * * [Customer StoriesReal stories from empowered educators, inspired students, and engaged families](https://www.imaginelearning.com/community/success-stories/)
             * [Customer Learning LibraryConnecting educators to training, resources, and ongoing program support](https://www.imaginelearning.com/resources/customer-learning-library/)
@@ -81,7 +81,7 @@
         * * [Customer StoriesReal success stories from educators, students, and families. See our programs in action](https://www.imaginelearning.com/community/success-stories/)
         * * ResourcesYour space for educator resources, helpful teaching webinars, and guides for funding
                 * [Webinars](https://www.imaginelearning.com/support/webinars/)
-                * [Funding & Resources](https://www.imaginelearning.com/support/funding-resources/)
+                * [Funding Intelligence](https://www.imaginelearning.com/?page_id=111)
                 * [Video Library](https://video.imaginelearning.com/)
 * [Support](https://www.imaginelearning.com/support/)
     * * * [Technical RequirementsThe recommended technical specifications to ensure you get the best experience with our solutions](https://www.imaginelearning.com/support/technical-requirements/)
@@ -290,7 +290,7 @@ Seeking lifelong learners who want to empower educators, engage students, and co
 [Resources](https://www.edgenuity.com/resources)[](#collapse-resources)
 
 * [AI Resources](https://www.edgenuity.com/resources/ai-resources)
-* [HQMI Resources](https://www.edgenuity.com/why-choose-high-quality-instructional-materials)
+* [HQIM Resources](https://www.edgenuity.com/why-choose-high-quality-instructional-materials)
 * [Blog](https://www.edgenuity.com/blog)
 * [Webinars](https://www.edgenuity.com/support/webinars)
 * [Funding & Resources](https://www.edgenuity.com/support/funding-resources)
