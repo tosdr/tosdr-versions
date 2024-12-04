@@ -53,11 +53,11 @@ Research & Insights
 General Terms of Use of the AMBOSS Knowledge and Learning Program
 -----------------------------------------------------------------
 
-**1\. Contractual Partners and Scope**
-
-1.1. The following Terms of Use apply between
+### 1\. Contracting Parties
 
 ‍
+
+The following Terms of Use apply between
 
 AMBOSS GmbH
 
@@ -65,471 +65,449 @@ Torstrasse 19
 
 10119 Berlin,
 
-‍
-
-represented by its managing directors Benedikt Hochkirchen, Dr. med. Madjid Salimi, Dr. med. Nawid Salimi, registered in the Commercial Register of the Local Court of Berlin (Charlottenburg) under HRB 209607 (hereinafter: "**AMBOSS GmbH**") and the respective authorized user, who makes use of information and services on the Internet portal www.amboss.com including all sub-pages, insofar as the use of the same requires registration of the authorized user (hereinafter: "**authorized user**") (hereinafter: "**services**"). This agreement with users is governed by these Terms of Use ((referred to hereinafter as “**user agreement**”).
+(hereinafter: "**AMBOSS**") and the respective user who registers via the website www.amboss.com/us (hereinafter: "**Authorized User**").
 
 ‍
 
-If special conditions for individual uses of the services offered via www.amboss.com deviate from the following Terms of Use, this will be indicated at the appropriate place within the website. In the respective individual case, the special Terms of Use shall then apply additionally.
-
 ‍
 
-1.2. AMBOSS GmbH is the rights holder, provider and operator of the online knowledge and learning program "AMBOSS" (hereinafter: "**AMBOSS**"), which it has developed and which it makes available on the internet platform www.amboss.com, in particular to doctors, medical students and others working in the healthcare sector. All information provided on AMBOSS refers to the medical standard in the United States, i.e. the standards stated, e.g. on diagnostic and/or therapeutic procedures, may differ in other countries. Similarly, all information provided on AMBOSS regarding the use of certain commercial medicinal products relates to the regulatory approval status of the respective medicinal product in the United States. In other countries, the respective approval status may differ.
+### 2\. Subject Matter of the Contract
 
 ‍
 
-1.3. The professional editorial team of AMBOSS consists of a large number of medical professionals with different levels of experience and from different medical specialties. With high frequency, new and/or updated content is added to the AMBOSS database by this editorial team in a structured, collaborative process and thus made available to authorized users. All content is subject to a multi-stage internal peer review process, which checks all publications for scientific up-to-dateness, consistency and comprehensibility. Although this process is carried out with reasonable care, the AMBOSS database - simply because of the abundance of new medical information - cannot contain a comprehensive, up-to-date representation of all medical information.
+2.1. AMBOSS is, as between the Parties, the rights holder, provider and operator of the online knowledge and learning Program "AMBOSS" developed by AMBOSS, which AMBOSS makes available via https://next.amboss.com/us/ and the AMBOSS iOS app and Android app on a monthly basis (hereinafter: "**AMBOSS Program**"). The AMBOSS Program comprises a network-based learning concept focusing on students of human medicine, doctors and other healthcare professionals.
 
 ‍
 
-1.4. The information contained in AMBOSS does not constitute binding diagnostic, treatment and therapy suggestions. Diagnostic, treatment and therapy decisions as well as other patient care decisions derived from the use of AMBOSS are the sole responsibility of the respective user. The use of AMBOSS does not release users from their obligation to make decisions on their own responsibility on the basis of the current state of science and research. In this respect, the information contained in AMBOSS must be reviewed in relation to each specific individual case, taking into account the individual patient characteristics. 
+2.2. All information provided in the AMBOSS Program refers to the medical standard in the United Sates of America, including without limitation standards for diagnostic and/or therapeutic procedures, even though they may differ in other countries. Similarly, all information provided in the AMBOSS Program with regard to the use of commercial medical products refers to the regulatory approval status of the respective medical product in the United States of America. In other countries, the respective regulatory approval status may differ.
 
 ‍
 
-1.5. If users display a translation of AMBOSS content within the platform in a language other than the English-language version of the AMBOSS content, they will display an automated translation using the API of DeepL. The translated content is not part of the AMBOSS knowledge and learning program. AMBOSS itself does not carry out the translation and cannot check the translated content. In particular, AMBOSS does not carry out any medical review. The machine-translated content does not fulfil the due diligence and quality standards of AMBOSS. Translation errors cannot be expressly excluded. The machine-translated content does not replace a translation by a linguistically competent specialist, which is recommended.
+2.3. The professional editorial team of AMBOSS consists of numerous medical professionals with different levels of experience and from different medical specialties. This editorial team adds new and/or updated content to the AMBOSS Program in a structured, collaborative process. However, the parties understand and acknowledge that the AMBOSS Program cannot contain a comprehensive, up-to-date presentation of all medical information.
 
 ‍
 
-1.6. The following Terms of Use apply to the use of the AMBOSS GmbH Internet platform including AMBOSS.
+2.4. The information contained in the AMBOSS Program does not constitute binding diagnostic, treatment and therapy suggestions. Diagnostic, treatment and therapy decisions as well as other patient care decisions derived from the use of the AMBOSS Program are the sole responsibility of the respective user. The use of the AMBOSS Program does not release the user from his obligation to make decisions on his own responsibility on the basis of the current state of science and research. In this respect, the information contained in the AMBOSS Program must be reviewed in relation to the specific individual case, taking into account the individual patient characteristics.
 
 ‍
 
-1.7. Some of the content made available at www.amboss.com can only be accessed after registration. In addition to various other free services, AMBOSS GmbH offers registered users services for a fee, in particular a medical knowledge network and learning access to fictitious examination papers.
+2.5. If users display a translation of the AMBOSS content in a language other than English within the AMBOSS Program, this is an automated machine translation using an interface to an AI-supported translator. The translated content is not part of the AMBOSS Program. The Institutional Partner understands and agrees that AMBOSS itself does not perform the translation and cannot check the translated content. In particular, AMBOSS does not carry out any medical review. The machine-translated content does not meet the due diligence and quality standards of AMBOSS. Translation errors cannot be expressly excluded. The machine-translated content does not replace a translation by a linguistically competent specialist, which is recommended.
 
 ‍
 
-1.8. When retrieving information from the website [www.amboss.com](http://www.amboss.com/), subsites, and other sides of AMBOSS GmbH and their subsides, you are prohibited from (a) using or attempting to use spiders, crawlers, bots, avatars, intelligent agents, data miners, or any other extraction or navigation search except for a normal browser; (b) aggregating, copying, scraping, or duplicating any of the materials, data, or information except for the small amount temporarily required for an ordinary single use of the Website; and (c) accessing, gathering, or otherwise retrieving data or information not intended for you.”
+2.6. These Terms of Use (hereinafter: "**AMBOSS Terms of Use**") apply exclusively to the use of the AMBOSS Program. Deviating terms and conditions shall not be recognized unless explicitly confirmed by AMBOSS in writing. If special terms of use apply to individual use cases of the AMBOSS Program, this will be indicated at the appropriate place on the website. In this case, the special terms of use shall then apply in addition.
 
 ‍
 
-1.9. AMBOSS GmbH shall provide the aforementioned services exclusively on the basis of these Terms of Use. Deviating terms and conditions shall not be recognized unless there is express written confirmation from AMBOSS GmbH.
+2.7. AMBOSS does not guarantee that the AMBOSS Program can be used via the public transmission lines used by the Authorized User and on the Authorized User's own data communication devices.
 
 ‍
 
-The following Terms of Use are subdivided as follows:
+2.8. AS BETWEEN THE PARTIES, AMBOSS SHALL AT ALL TIMES RETAIN ALL RIGHT, TITLE, AND INTEREST IN AND TO THE SERVICES, INCLUDING ALL RELATED PATENT, TRADEMARK, COPYRIGHT, MORAL RIGHTS, AND ANY AND ALL OTHER INTELLECTUAL PROPERTY RIGHTS ASSOCIATED WITH THE AMBOSS PROGRAM AND THE SERVICES.
 
 ‍
 
-Part A: General Regulations for all Authorized Users of the Services Requiring Registration
-
 ‍
 
-Part B: Special Regulations for Authorized Users of the Fee-Based Services 
+### 3\. Registration and Conclusion of Contract; User Account
 
 ‍
 
-**Part A: General Regulations for all Authorized Users of the Services Requiring Registration**
+3.1. Registration via www.amboss.com/us is free of charge. By registering, the Authorized User submits its data for later use of the AMBOSS Program. This alone does not give the Authorized User permanent access to the AMBOSS Program.
 
 ‍
 
-**2\. Subject of the contract**
+3.2. Registration is carried out by opening a personal user account. All mandatory fields must be filled in during registration. The Authorized User warrants that all data provided during registration is true and complete. Furthermore, the Authorized User is obliged to keep the data provided up to date at all times. The Authorized User is solely responsible for keeping the chosen password secret and for all activities carried out with the user account. Passing on the password is not permitted. The settings for the user account are adjustable. Before submitting the registration request, the Authorized User has the opportunity to view and correct the information on an overview page. By confirming the registration button, the Authorized User confirms the accuracy of the information provided and agrees to the AMBOSS Terms of Use, which can be viewed and archived at www.amboss.com/us/legal/terms. By completing the registration process, the Authorized User submits an offer to conclude a contract for the storage of his/her data for later use. AMBOSS will confirm receipt of the offer to the Authorized User electronically (registration confirmation). AMBOSS accepts this offer by activating the user account. The language available for the conclusion of the contract is English.
 
 ‍
 
-2.1. AMBOSS is a knowledge and learning program that includes, in particular, a database. AMBOSS is a network-based learning concept, in particular for students of human medicine, doctors and other health professionals, including fictitious examination questions that can be viewed and medical knowledge that can be learned with the help of a networked database of teaching content (hereinafter: "**AMBOSS database**"). 
+3.3. There is no entitlement to registration. AMBOSS expressly reserves the right to refuse registration requests by not activating the corresponding user account. In addition, AMBOSS is entitled to revoke access to the user account at any time by blocking the access data. There is no obligation to inform the person concerned of the reasons for the rejection or revocation of the user account access authorization.
 
 ‍
 
-2.2. AMBOSS GmbH shall provide authorized users with access to the English-language AMBOSS platform and its content via the Internet in accordance with the respective user agreement concluded, including these Terms of Use. If users display a translation of AMBOSS content in a language other than the original English version of the AMBOSS content within the platform, this is not AMBOSS content, but an automated translation that is not subject to AMBOSS’ control.
+3.4. Upon registration, the Authorized User may choose to access the AMBOSS Program. The Authorized User can activate a time-limited, free trial access to the AMBOSS Program (see Section 6 of the AMBOSS Terms of Use) or use the AMBOSS Program on the basis of an Institutional License Agreement (see Section 4 of the AMBOSS Terms of Use) or on the basis of an Individual License Agreement (see Section 5 of the AMBOSS Terms of Use). In these cases, AMBOSS provides Authorized Users with access to the English-language AMBOSS Program and its content via the Internet in accordance with the respective agreement concluded and the AMBOSS Terms of Use.
 
 ‍
 
-2.3. AMBOSS GmbH does not guarantee that AMBOSS can be used via the public transmission lines used by the authorized user and on the authorized user's own data communication devices.
+3.5. The Authorized User can request the deletion of his user account and thus his registration at any time in writing, e.g. via the corresponding function within the user account. In this case, AMBOSS will delete all usage data relating to the Authorized User and all other stored personal data of the Authorized User as soon as they are no longer required.
 
 ‍
-
-**3\. Registration/Conclusion of contract**
 
 ‍
 
-3.1. AMBOSS GmbH concludes contracts on the use of AMBOSS with universities, clinics or other bodies and companies in the healthcare sector (hereinafter: "**contractual partners**") who wish to enable their students and teachers of human medicine, or their doctors and other clinical staff (hereinafter: "**authorized users**") to have access to AMBOSS in accordance with the user agreement. The authorized users, the fee to be paid and the individual specification of the authorized users result from the contracts concluded between AMBOSS GmbH and the respective contractual partner. This does not initially establish a separate contractual relationship between AMBOSS GmbH and the authorized user.
+### 4\. Activation and Use of the AMBOSS Program on the Basis of an Institutional License Agreement
 
 ‍
 
-3.2. The right of use is linked to the personal capacity that the authorized user is a registered student, employed teaching staff or employed staff of the contractual partner. If this capacity ends, the authorized user can himself/herself acquire a personal authorization to use AMBOSS.
+4.1. Authorized Users have the option of activating a so-called clinic or campus license and use the AMBOSS Program on the basis of the AMBOSS Terms of Use. AMBOSS concludes paid contracts with universities, clinics or other institutions in the healthcare sector (hereinafter: "**Institutional Partners**") who desire to provide their students and educators, or their doctors and other staff, with free access to the AMBOSS Program through clinic or campus licenses (hereinafter: "**Institutional License** **Agreement**"). This is not a contract for the benefit of third parties, but a contract that contains the authorization of AMBOSS to provide the contractual service to the Authorized Users with discharging effect vis-à-vis the Institutional Partner. The prerequisite for an Authorized User to be able to activate a clinic or campus license to use the AMBOSS Program is that the respective Institutional Partner has provided (possibly personalized) access for this Authorized User in the Institutional License Agreement. The Authorized User can only activate and use the AMBOSS Program if and as long as he or she is authorized and authenticated.
 
 ‍
 
-3.3. Individuals have the option of concluding a user agreement with AMBOSS GmbH themselves as authorized users for access to AMBOSS by means of a personal usage authorization. In this case, the Special Regulations for Authorized Users of Fee-Based Services in Part B of these Terms of Use shall apply additionally. In the case of user agreements between individuals and AMBOSS GmbH concerning the use of AMBOSS, the individuals are authorized users and at the same time contractual partners within the meaning of these Terms of Use. The Special Regulations for Authorized Users of Fee-Based Services in Part B as well as individual contractual agreements between the individuals and AMBOSS GmbH shall take precedence over these General Regulations for all Authorized Users of the Services Requiring Registration in case of doubt.
+4.2. Before submitting the activation request, the Authorized User has the opportunity to view and correct the information provided on an overview page. By confirming the button marked accordingly, the Authorized User confirms the accuracy of the information provided and agrees to the AMBOSS Terms of Use, which can be viewed and archived at www.amboss.com/us/legal/terms. By completing the activation process, the Authorized User submits an offer to conclude a contract for the use of the AMBOSS Program. AMBOSS will confirm receipt of the offer to the Authorized User electronically (activation confirmation). AMBOSS accepts this offer by activating access to the AMBOSS Program.
 
 ‍
 
-3.4. AMBOSS GmbH shall allocate personal authorized user accounts to the authorized users. The authorized user accounts can be used by the authorized users during the term of the user agreement existing with the contractual partner. The authorized user must register in order to use the personal authorized user account.
+4.3. If the Authorized User makes a paid upgrade in the "Shop" section that is not covered by the Institutional License Agreement, the Authorized User undertakes to pay the relevant fee. Section 5 of the AMBOSS Terms of Use applies.
 
-3.5. Access to the use of a variety of the information and services provided on AMBOSS requires registration of the authorized user. Registration is free of charge. It takes place by opening a member account. Within the scope of registration, all mandatory fields must be completed in full by the authorized user. In addition, the authorized user has the option of adjusting his/her settings for use of the AMBOSS Network (cf. sec. 10). By confirming the registration button, the authorized user confirms the accuracy of the information provided, the validity of these Terms of Use and completes the registration. By completing the registration process, the authorized user makes an offer to conclude a contract on the use of AMBOSS on the basis of these Terms of Use. AMBOSS GmbH accepts this offer by activating the authorized user's account. This acceptance creates a free contractual relationship between the authorized user and AMBOSS GmbH. 
-
 ‍
 
-3.6. The e-mail address of the authorized user will be verified during or after registration, if necessary.
+4.4. If the Institutional License Agreement ends without a new Institutional License Agreement having been concluded with the same Institutional Partner, or if the Institutional License Agreement is amended so that it no longer provides for access for the Authorized User concerned, the use of the AMBOSS Program for the Authorized User concerned is terminated upon termination or amendment of the Institutional License Agreement.
 
 ‍
 
-3.7. The authorized user warrants that all data provided by him/her for registration is correct and complete. Furthermore, the authorized user is obliged to keep his/her data up to date at all times.
+4.5. Authorized Users who use the AMBOSS Program on the basis of an Institutional License Agreement and who are not themselves parties to a paid agreement concluded with AMBOSS for the use of the AMBOSS Program have no claim whatsoever against AMBOSS for the use of the AMBOSS Program. There is no entitlement to a warranty in the event of defects or failures. In all other respects, liability is subject to the limitations set out in Section 12 of the AMBOSS Terms of Use.
 
 ‍
 
-3.8. The choice of a password is required for registration. The confidentiality of the password as well as all activities carried out under his/her account are the sole responsibility of the authorized user. Passing on the password is not permitted.
-
 ‍
 
-3.9. There is no entitlement to registration. AMBOSS GmbH expressly reserves the right to refuse registration requests by not activating the corresponding authorized user account. In addition, AMBOSS GmbH is entitled to revoke the access authorization at any time by blocking the access data. AMBOSS GmbH shall not be obliged to inform the authorized user of the reasons for the rejection or revocation of the access authorization.
+### 5\. Activation and Use of the AMBOSS Program or its Individual Components on the Basis of an Individual License Agreement
 
 ‍
 
-3.10. The authorized user can request the deletion of his/her registration at any time in writing or via the corresponding function on AMBOSS. In this case, AMBOSS GmbH will delete all authorized user data and all other stored personal data of the authorized user as soon as these are no longer required.
+5.1. Authorized Users have the option of using the AMBOSS Program or individual components of the AMBOSS Program (e.g. add-on or paid courses) against payment of a usage fee (hereinafter: "**Individual License Agreement**"). In this case, the Authorized User is the contractual partner of the license agreement.
 
 ‍
 
-**4\. Rights of use**
+##### 5.2. **Conclusion of Contract**
 
 ‍
 
-4.1. AMBOSS GmbH grants to the authorized user a simple, non-transferable right to use the contents of AMBOSS during the term of the user agreement concluded with the contractual partner. Sublicensing is not permitted. The right of use includes the use of the program on which the AMBOSS database is based, the use of the AMBOSS database as such and the learning content contained therein, in particular texts, images, graphics and charts.
+5.2.1. Before concluding an Individual License Agreement, the Authorized User will be informed about the content of the selected service, the usage fees and the payment modalities. Before completing the order process, AMBOSS will display the entries made by the Authorized User in a confirmation window and give the opportunity to check and, if necessary, correct the entries.
 
 ‍
 
-4.2. Use under these Terms of Use includes loading, saving, displaying and visualizing the software, AMBOSS and AMBOSS content via the AMBOSS desktop version and the AMBOSS APPs (available for Android and iOS).
+5.2.2. By confirming the correspondingly marked button, the Authorized User declares that he or she desires to conclude a contract for the services selected. In addition, the Authorized User agrees to the AMBOSS Terms of Use. The confirmation of the button constitutes an offer by the Authorized User to conclude a contract. This is binding for a period of 7 working days. AMBOSS expressly reserves the right to accept or reject the contract offer of the Authorized User within this period. There is no entitlement to the conclusion of the contract. AMBOSS will confirm receipt of the offer to the Authorized User electronically (order confirmation).
 
 ‍
 
-4.3. Any exploitation going beyond the aforementioned use for own use or for use by third parties, in particular lending, leasing, sale, duplication, distribution, making available to the public, broadcasting and processing of the contractual software, the AMBOSS database, the contents, the activation codes and the accesses is excluded. The authorized user is not authorized to use AMBOSS and the AMBOSS contents commercially in any form, for example by offering AMBOSS and the AMBOSS contents as a service to third parties. Copyright notices and brand names may neither be changed nor removed.
+5.2.3. AMBOSS sends the Authorized User the order data with a confirmation e-mail, which constitutes the acceptance of the contract. The language available for the conclusion of the contract is English.
 
 ‍
 
-4.4. Program or database access to persons who do not belong to the group of persons defined in sec. 3.2 is not permitted. If the authorized user violates the provisions of this sec. 5 for reasons for which he/she is responsible, AMBOSS GmbH shall be entitled to block the authorized user's access to AMBOSS with or without notice. In the event of such a blocking AMBOSS GmbH may provide an alternative access at the request of the contractual partner.
+##### 5.3. Scope of Service
 
 ‍
 
-4.5. The usage authorization expires irrespective of the term of the user agreement concluded with the contractual partner if the circumstance leading to the usage authorization (cf. sec. 3.1 and 3.2) ceases to apply, i.e. in the case of students due to de-registration of the student, in the case of teaching staff due to termination of their teaching activities with the contractual partner, in the case of doctors or other clinical staff due to termination of their employment relationship with the contractual partner. In this case, the authorized user can acquire a personal authorization to use AMBOSS.
+The scope of service that AMBOSS provides on a monthly basis depends on the service selected by the Authorized User and the corresponding offer model. Details on the offer models can be found on the AMBOSS website.
 
 ‍
 
-4.6. Within the scope of the initial registration of the authorized user, the present Terms of Use as well as the data protection information can be viewed and archived.
+##### 5.4. Usage Fee
 
 ‍
-
-**5\. Fee for the use**
 
-The use of AMBOSS by the authorized users is free of charge for them. The fee to be paid by the contractual partner results from the user agreement concluded with the contractual partner. 
+5.4.1. Monthly access to the AMBOSS Program is provided at the usage fee corresponding to the selected offer model. The usage fees stated in the offer model may be subject to applicable taxes that AMBOSS may charge. AMBOSS collects the usage fee, plus any applicable taxes, via the selected payment method. AMBOSS reserves the right to change usage fees in the event of printing errors and mistakes.
 
 ‍
 
-**6\. Copyright**
+5.4.2. The usage fee to be paid by the Authorized User must be paid in advance, no later than three working days after the start of the service period. For reasons of simplification, the Authorized User is free to pay the total usage fee for the entire service period in advance.
 
-AMBOSS as well as the individual contents of the AMBOSS database (tasks, solutions, comments and chapters) are – unless otherwise stated – protected by copyright and may only be used outside the scope of use stipulated in the user agreement, as defined by these Terms of Use, with the written permission of AMBOSS GmbH. The authorized user is obliged to observe the existing copyrights and undertakes not to infringe them. The authorized user may only retrieve, store and use the content for his/her own use for learning or further training purposes. 
-
 ‍
 
-**7\. Obligations of AMBOSS GmbH / Availability**
+5.4.3. The usage fee is due regardless of whether and how the Authorized User uses the service. Access to the AMBOSS Program is conditionally activated until payment is received. A delay in payment by the Authorized User entitles AMBOSS to exclude the Authorized User concerned from use until due claims have been settled, or to terminate the contract at the end of the current service period after repeated requests for payment.
 
 ‍
 
-7.1. AMBOSS GmbH is obliged vis-à-vis the contractual partner, but not vis-à-vis the authorized user, to make AMBOSS available and accessible for use via the Internet. AMBOSS shall be stored on a server in such a way that it can be accessed by the authorized users via the Internet.
+##### 5.5. Payment Modalities
 
 ‍
 
-7.2. AMBOSS GmbH shall endeavor to achieve availability of AMBOSS around the clock. AMBOSS GmbH provides AMBOSS with an availability of at least 99.1 % based on the calendar year. This percentage refers to the period outside planned non-availabilities. Planned non-availabilities are the daily update and maintenance times provided for in sec. 8.3. Such restrictions shall not be taken into account when determining availability in accordance with this sec. 8.2.
+5.5.1. By providing the information required for the selected payment method, the Authorized User authorizes the collection of the respective usage fee (plus any applicable taxes). If the Authorized User opts for the SEPA direct debit procedure, he or she issues a SEPA mandate as part of the payment process. The direct debit is collected 1 day after the invoice date (order date). The period for pre-notification is shortened to 1 day. The Authorized User guarantees to ensure that the account is covered. There is no entitlement to the use of a specific means of payment.
 
 ‍
 
-7.3. AMBOSS GmbH shall carry out updates regularly. AMBOSS GmbH shall also carry out maintenance and inform the User thereof in good time, unless due to compelling reasons maintenance must be carried out immediately. During this time, AMBOSS may be temporarily unavailable or only available to a limited extent. Maintenance times indicated in good time shall not be deemed to be unavailability in accordance with sec. 8.2, provided they do not last longer than 60 minutes. 
+5.5.2. The Authorized User shall bear any costs incurred as a result of a chargeback of a payment transaction due to insufficient funds in the account or due to incorrect data provided, plus a processing fee of EUR 5.00.
 
 ‍
 
-**8\. Warranty, reduction of the remuneration**
+5.5.3. The Authorized User only has a right of set-off if the claims have been legally established by a court or are undisputed or have been acknowledged in writing by AMBOSS.
 
 ‍
 
-8.1. In the event of a failure of the system outside of planned non-availabilities or in the event of defects occurring which considerably restrict the possibility of using AMBOSS, the contractual partner, but not the authorized user, is entitled to reduce or reclaim the remuneration - on a pro rata basis of 1/12 of the annual license fees in each case - for the calendar month in which the failure occurred in accordance with the following conditions:
+5.5.4. The Authorized User may only exercise a right of retention insofar as the claims result from the same contractual relationship.
 
 ‍
 
-In the event of a failure of more than
+5.5.5. AMBOSS is responsible for payment transactions via the website and carries out transactions exclusively via SSL-secured connections.
 
 ‍
 
-a. 6.5 hours per calendar month: 5 % reduction
+##### 5.6. Changes to the Usage Fee
 
-b. 15 hours per calendar month: 12.5 % reduction
+‍
 
-c. 24 hours per calendar month: 25 % reduction
+5.6.1. AMBOSS may increase or decrease the usage fee for Individual License Agreements at its reasonable discretion in relation to general increases or decreases in external costs incurred by AMBOSS for the provision of its services at the location of the Authorized User. These general cost increases or decreases may be based on legal or regulatory changes, the application of government-imposed fees, taxes, levies or contributions, inflation or deflation, technology and software costs for the services or industry-wide changes. In the event of a change in the amount of the usage fee, AMBOSS will notify the Authorized User by email or other communication in text form at least 30 days prior to the effective date of the fee change. The notification must (i) state which cost factors have increased or decreased and how this affects the increase or decrease in the total price, (ii) the date on which the fee change comes into effect, and (iii) inform the Authorized User of his extraordinary right of termination in accordance with Section 5.6.2. If the Authorized User does not reject the change before it becomes effective for the Authorized User by terminating the Individual License Agreement, AMBOSS will assume that the Authorized User agrees to the change and the change in the usage fee will become effective for the Authorized User on the date specified in the notice to the Authorized User, but in any case not before the next payment cycle.
 
-d. 48 hours per calendar month: 50 % reduction
+‍
 
-e. 72 hours per calendar month: 100 % reduction
+5.6.2. The Authorized User may terminate the Individual License Agreement without notice within 30 days of receiving notification of the change in the usage fee. The usage fee shall then remain unchanged until the expiry of the notice period.
 
 ‍
 
-of 1/12 (one twelfth) of the annual license fees according to the user agreement.
+5.6.3. If the total costs specified in Section 5.6.1. sentences 1 and 2 fall, the Authorized User may demand a reduction in the usage fee in accordance with the requirements of Section 5.6.1. In this case, AMBOSS may terminate the contract extraordinarily in accordance with Section 5.6.2.
 
 ‍
 
-8.2. With each month of running time in which there is no reduction, the sum of 6.5 hours minus the downtime that actually occurred is credited as downtime credit. If downtimes occur later, these times are first deducted from the total downtime credit, i.e. the aforementioned percentage reduction only occurs if there is no sufficient downtime credit for the downtimes that occurred in the month.
+##### 5.7. Contract Term and Termination
 
 ‍
 
-8.3. The contractual partner may request the reduction as a refund or assert it by offsetting it against a subsequent annual license.
+5.7.1. The term of the Individual License Agreement depends on the offer model of the selected service. It begins with the activation of the AMBOSS Program and ends after the expiry of the service period provided for in the offer model, unless the individual license agreement is extended. The authorization to use the AMBOSS Program ends at the end of the contract term. The user account remains valid after expiry of the contract term.
 
 ‍
 
-8.4. A warranty or reduction according to this sec. 9 is excluded for failures or disruptions due to force majeure (e.g. measures in the context of industrial disputes, strikes or lockouts, pandemics).
+5.7.2. Authorized Users can terminate their Individual License Agreement at any time with effect from the next possible termination date via their user account or AMBOSS customer service. The next possible termination date is determined by the respective offer model. Any usage fees paid will not be refunded, even if the Authorized User has not used the AMBOSS Program.
 
 ‍
 
-8.5. In all other respects, liability shall be governed by the limitations set forth in sec. 12 of these Terms of Use.
+5.7.3. IF THE AUTHORIZED USER DOES NOT INFORM AMBOSS BEFORE THE END OF THE SERVCE PERIOD PROVIDED FOR IN THE OFFER MODEL THAT HE OR SHE DOES NOT WISH TO EXTEND THE CONTRACT, THE AUTHORIZED USER IS AWARE THAT HIS INDIVIDUAL LICENSE AGREEMENT WILL CONTINUE TO RUN AUTOMATICALLY AND AUTHORIZES AMBOSS TO COLLECT THE APPLICABLE USAGE FEE USING THE PAYMENT METHOD PROVIDED BY THE AUTHORIZED USER.
 
 ‍
 
-8.6. The authorized user shall not be entitled to any claims against AMBOSS GmbH due to failure of the system or AMBOSS.
+5.7.4. Both the Authorized User and AMBOSS have the right to extraordinary termination for good cause. Such a reason exists in particular if one party materially violates obligations arising from the AMBOSS Terms of Use and thereby significantly damages the interests of the other party. On the part of AMBOSS, a reason for extraordinary termination exists in particular if (i) the Authorized User is in arrears with a due payment for more than 10 working days after receipt of a payment reminder, (ii) AMBOSS permanently ceases operations or (iii) the licensing of the AMBOSS Program or AMBOSS itself are subject to restrictions under trade law due.
 
 ‍
 
-8.7. EXCEPT AS EXPRESSLY STATED IN THESE TERMS OF USE, AMBOSS GMBH MAKES NO WARRANTY, EXPRESS OR IMPLIED, REGARDING ANY MATTER WHATSOEVER TO AUTHORIZED USER. AMBOSS GMBH SPECIFICALLY DISCLAIMS ALL IMPLIED WARRANTIES OF TITLE, NON-INFRINGEMENT, ACCURACY OF DATA, MERCHANTABILITY, AND FITNESS FOR A PARTICULAR PURPOSE, AND ANY IMPLIED WARRANTY ARISING FROM A COURSE OF DEALING OR PERFORMANCE OR FROM USAGE OF TRADE.
+5.7.5. Extraordinary termination is possible without notice. Notice of termination may only be given in text form, for example by e-mail or letter. In the event of extraordinary termination, there is no entitlement to reimbursement of the usage fees already paid.
 
 ‍
 
-**9\. AMBOSS network**
+5.7.6. Statutory rights of withdrawal or revocation shall remain unaffected by the aforementioned rights of termination.
 
 ‍
 
-9.1. AMBOSS GmbH provides users with the opportunity to present their own user profile and activities in the AMBOSS network and to contact and interact with other users. In doing so, it is possible to make various information (e.g. name, institution, department, field of study, etc.) retrievable and findable for other users and to network with other users. The user can activate or deactivate this service in his/her user profile by making all or individual data and information available to all or, if applicable, only certain users.
+##### **5.8. Right of Withdrawal**
 
 ‍
 
-9.2. If the user wishes to network with another user on AMBOSS, he/she can submit a contact request on AMBOSS, which will be sent to the requested user in his/her user profile and/or by e-mail by AMBOSS. The requested user has the option of accepting or rejecting the request.
+5.8.1. If the Authorized User is a consumer, i.e. a natural person who enters into a legal transaction for purposes that can be attributed primarily neither to their commercial nor their independent professional activity, the Authorized User has the right to withdraw from the Individual License Agreement within fourteen days from the date of conclusion of the agreement without giving reasons.
 
 ‍
 
-9.3. By registering or activating the AMBOSS network function, the user agrees to AMBOSS informing him/her a) by message in his/her user profile and/or b) by e-mail about contact requests from other users and forwarding him/her messages from accepted contacts.
+5.8.2. In order to exercise the right of withdrawal, the Authorized User must inform AMBOSS (Torstraße 19, 10119 Berlin, telephone number: +49 30 57702210, e-mail: hello@amboss.com) by means of a clear statement (e.g. a letter sent by post or an e-mail) of his decision to withdraw from the Agreement. In order to comply with the withdrawal period, it is sufficient to send the notification of the exercise of the right of withdrawal before the expiry of the withdrawal period. If the Authorized User effectively withdraws the agreement, AMBOSS will send a confirmation of receipt of such withdrawal (e.g. by e-mail).
 
 ‍
 
-**10\. Data protection**
+5.8.3. If the Authorized User withdraws from the Individual License Agreement, AMBOSS must refund all payments that AMBOSS has received from him, including any delivery costs incurred (with the exception of additional costs resulting from the fact that the Authorized User has chosen a type of delivery other than the cheapest standard delivery offered by AMBOSS), immediately and at the latest within fourteen days of the day on which AMBOSS receives notification of the withdrawal. For this repayment, AMBOSS will use the same means of payment that the Authorized User used for the original transaction, unless expressly agreed otherwise with the Authorized User; in no case will the Authorized User be charged any fees for this repayment. If the Authorized User has started to use the services during the withdrawal period, he or she must pay AMBOSS a reasonable amount corresponding to the proportion of the services already provided up to the time of the withdrawal notification compared to the total scope of the services provided for in the contract.
 
-Information on data protection law with information on the processing of personal data when using AMBOSS as well as information on the rights of authorized users can be found at www.amboss.com/de/datenschutz and https://www.amboss.com/us/privacy. 
-
 ‍
 
-**11\. Liability**
+##### **5.9. Availability of the AMBOSS Program**
 
 ‍
 
-11.1. The commentaries, chapter contents and other media content have been created with reasonable care. The release of new content also requires a multi-stage quality control. However, AMBOSS GmbH accepts no liability for the up-to-dateness, accuracy, completeness or quality of the information provided. This applies, for example, to information on procedures (esp. diagnostic and therapeutic algorithms), applications, forms of application and dosages. The same applies to the question of whether commercial preparations indicated in the context of therapy information may be used in the respective indication according to their approval status.
+5.9.1. AMBOSS will use commercially reasonable efforts to make the AMBOSS Program available and accessible for use via the Internet for Authorized Users on a monthly basis.
 
 ‍
 
-11.2. Despite reasonable examination in the case of a possible linking or embedding, AMBOSS GmbH is not liable for the contents of external pages. The operators of external sites are solely responsible for their content and availability, even if they are linked to or embedded in miamed.de and/or amboss.com and/or their subpages.
+5.9.2. AMBOSS provides the AMBOSS Program with an availability of at least 99.1% in relation to the calendar year. This percentage refers to the period outside of planned unavailabilities. Planned unavailabilities are the daily update and maintenance times regulated in Section 5.9.3 and the further maintenance times regulated in Section 5.9.4. Such restrictions shall not be taken into account when determining availability.
 
 ‍
 
-11.3. AMBOSS GMBH SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING OUT OF OR CAUSED, IN WHOLE OR IN PART, BY ANY ERRORS OR OMISSIONS IN ANY DATA, CONTENT, OR OTHER INFORMATION PROVIDED THROUGH AMBOSS OR BY DELAYS IN OR INTERRUPTIONS OF ACCESS TO AMBOSS. IN NO EVENT SHALL AMBOSS GMBH BE LIABLE FOR ANY DIRECT (EXCEPT FOR INFRINGEMENT CLAIMS UNDER 11.4 BELOW), INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOST PROFITS, LOST REVENUE, OR LOST SAVINGS, INCURRED BY AUTHORIZED USER OR ANY THIRD PARTY, EVEN IF AMBOSS GMBH HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+5.9.3. Update and maintenance work may be carried out daily between 03:00 and 05:00 German time. During this time, the AMBOSS Program may be temporarily unavailable or only available to a limited extent.
 
 ‍
 
-11.4. If the authorized user receives a claim that the use of AMBOSS infringes a United States of America patent, copyright, trade secret, or other intellectual property right, the authorized user will promptly notify AMBOSS GmbH in writing, and will give AMBOSS GmbH all necessary information and assistance and the exclusive authority to evaluate, defend, and settle such claim.  Provided such timely notice, assistance, and authority have been given by the authorized user, AMBOSS GmbH (or its licensors) will defend, at its own expense, such claim, and will indemnify and hold the authorized user harmless from all damages and expenses, including court costs and reasonable attorney fees, incurred or awarded as a result of the claim. The foregoing indemnity will not apply to infringement claims based on programming made to the specification or design of the authorized user, the authorized user’s modifications, or the authorized user’s use of AMBOSS in combination with anything not intended by AMBOSS GmbH to be used with AMBOSS to the extent caused by such combination. This sec. 12.4 states AMBOSS GmbH’s entire obligation and liability with respect to any infringement claim.
+5.9.4. AMBOSS will indicate further, foreseeable maintenance work at least 24 hours in advance by means of a notice on the website. Maintenance times notified in good time are not deemed to be unavailability in accordance with Section 5.9.2, provided they do not last longer than 60 minutes.
 
 ‍
 
-**12\. Choice of law and place of jurisdiction**
+##### **5.10. Warranty, Reduction of the Usage Fee**
 
 ‍
 
-12.1. The user agreement and any claim arising out of the user agreement shall be governed by and construed in accordance with the laws of the State of New York, excluding its conflict of laws principles. The United Nations Convention on Contracts for the International Sale of Goods shall not apply to the Agreement.
+5.10.1. Authorized Users with whom AMBOSS has concluded an Individual License Agreement are entitled, in the event of a failure of the AMBOSS Program outside of planned unavailability or in the event of defects occurring that significantly restrict the ability to use the AMBOSS Program (each case individually hereinafter: "**Outage**"), to reduce the usage fee owed for the calendar month in which the Outage occurred calculated on a pro rata basis in accordance with the following provisions:
 
-‍
+In the event of an Outage of more than
 
-12.2. Any claim or controversy arising out of or relating to the user agreement, including any anticipatory breach or disagreement as to interpretation of the user agreement, that is not resolved by the parties themselves or through mediation, shall be settled by binding arbitration in the New York, New York metropolitan area, administered in accordance with the American Arbitration Association’s Commercial Arbitration Rules, including its Optional Rules for Emergency Measures of Protection. The arbitrator(s) shall decide all discovery issues. Judgment on the award rendered by the arbitrator(s) may be entered in any court having jurisdiction thereof. Neither party nor the arbitrator(s) may disclose the existence, content, or results of any arbitration hereunder without the prior written consent of both parties, except to the extent necessary in connection with a court action to enforce an arbitration award. All fees and expenses of the arbitration shall be borne by the parties equally. However, each party shall bear the expense of its own counsel, experts, witnesses, and preparation and presentation of proofs, except that the prevailing party shall be entitled to an award of reasonable attorney’s fees.
+• 6.5 hours per calendar month: reduction of 5%
 
-‍
+• 15 hours per calendar month: reduction of 12.5%
 
-**13\. Final provisions**
+• 24 hours per calendar month: reduction of 25%
 
-‍
+• 48 hours per calendar month: reduction of 50%
+
+• 72 hours per calendar month: reduction of 100%
 
-13.1. Amendments to these Terms of Use or declarations under these Terms of Use to the contractual partner and the authorized user require a written declaration, which may be by an e-mail.
+of the monthly usage fee calculated on a pro rata basis. Authorized Users who are not parties to an Individual License Agreement with AMBOSS are not entitled to any warranty or reduction claims in the event of an Outage.
 
 ‍
 
-13.2. Amendments to these Terms of Use shall be offered to the contractual partner and the authorized user no later than two months before their proposed date of entry into force. The consent of the contractual partner or the authorized user shall be deemed to have been given if he/she has not indicated his/her rejection before the proposed date of entry into force of the amendments. The contractual partner or the authorized user shall be specifically informed of this approval effect in the offer.
+5.10.2. For each month of the contract term in which there is no reduction, the sum of 6.5 hours minus the actual downtime is credited as downtime credit. If downtimes occur later during the term of the contract, these times are initially deducted from the total downtime credit, i.e. a reduction of the usage fee can only occur if there is insufficient downtime credit for the Outage that occurred in the month in question.
 
 ‍
 
-13.3. Should any provision of these Terms of Use be invalid in whole or in part, this shall not affect the legal validity of the remaining provisions.
+5.10.3. The reduction may be requested as a refund or offset against a subsequent usage fee.
 
 ‍
 
-13.4. The failure of a party to act upon any right, remedy, or breach of these Terms of Use shall not constitute a waiver of that or any other right, remedy, or breach.  No waiver shall be effective unless made in writing and signed by an authorized representative of the waiving party.
+5.10.4. Notwithstanding the foregoing, the warranty set forth herein shall not apply, and in no event shall AMBOSS be liable for any delay or failure in performance of any sort, due to causes beyond its reasonable control, including but not limited to acts of god, earthquakes, floods, fires, pandemics, governmental actions, war, terrorism, civil disturbances, or labor disputes.
 
 ‍
 
-**Part B: Special Regulations for Authorized Users of the Fee-Based Services** 
+5.10.5. In all other respects, liability is subject to the limitations set out in Section 12 of the AMBOSS Terms of Use.
 
 ‍
 
-**14\. Subject of the contract**
+5.10.6. EXCEPT AS EXPRESSLY STATED IN THIS INSTITUTIONAL LICENSE AGREEMENT, AMBOSS MAKES NO WARRANTY, EXPRESS OR IMPLIED, REGARDING ANY MATTER WHATSOEVER.  AMBOSS SPECIFICALLY DISCLAIMS ALL IMPLIED WARRANTIES OF TITLE, NON-INFRINGEMENT, ACCURACY OF DATA, MERCHANTABILITY, AND FITNESS FOR A PARTICULAR PURPOSE, AND ANY IMPLIED WARRANTY ARISING FROM A COURSE OF DEALING OR PERFORMANCE OR FROM USAGE OF TRADE.
 
 ‍
 
-AMBOSS GmbH provides various fee-based services. The scope of functions provided by AMBOSS GmbH depends in each case on the offer selected by the authorized user and the corresponding model. Details can be found in the list of prices and services valid at the time the contract is concluded under the heading "Shop".
-
 ‍
 
-**15\. Registration/Conclusion of contract**
+### **6\. Activation and Use of the AMBOSS Program as part of a Free of Charge Test Access or Special Offer**
 
 ‍
 
-15.1. The prerequisite for the use of fee-based services and the acquisition of the corresponding rights of use required for this is a registration of the contractual partner on AMBOSS in accordance with the regulations under sec. 3 of these Terms of Use. 
+6.1. In cases where AMBOSS initially makes the AMBOSS Program available free of charge as a test access or as part of a special offer for a limited period of time, only a limited range of functions may be available. In these cases, there is no entitlement to permanent use. AMBOSS also reserves the right to limit the scope of functions at any time or to terminate the use of the AMBOSS Program completely. The AMBOSS Terms of Use apply, in particular the limitations of liability in Section 12 of the AMBOSS Terms of Use.  
 
 ‍
 
-15.2. The contractual partner shall be informed of the content of the fee-based service, the prices and the payment modalities prior to the conclusion of a fee-based contractual relationship. Before the order process is completed, AMBOSS GmbH will display the entries made by the contractual partner in a confirmation window and give him/her the opportunity to check his/her entries and correct them if necessary.
+6.2. Before submitting the activation request, the Authorized User has the opportunity to view and correct the information provided on an overview page. By confirming the button marked accordingly, the Authorized User confirms the accuracy of the information provided and agrees to the AMBOSS Terms of Use, which can be viewed and archived at www.amboss.com/us/legal/terms. By completing the activation process, the Authorized User submits an offer to conclude a contract for the use of the AMBOSS Program. AMBOSS will confirm receipt of the offer to the Authorized User electronically (activation confirmation). AMBOSS accepts this offer by activating access to the AMBOSS Program.
 
 ‍
 
-15.3. By confirming the correspondingly marked button, the contractual partner declares that he/she wishes to conclude a contract for the fee-based services selected by him/her. Confirmation of the aforementioned button only constitutes a contract offer by the contractual partner to conclude a contract. This is binding for a period of 7 working days. AMBOSS GmbH expressly reserves the right to accept or reject the contract offer of the contractual partner within this period. There shall be no entitlement to the conclusion of the contract. AMBOSS GmbH shall confirm receipt of the contractual partner's offer electronically without delay (order confirmation). 
+6.3. In case of free usage, both AMBOSS and the Authorized User are entitled to terminate the contractual relationship with immediate effect without giving reasons.
 
 ‍
 
-15.4. The acceptance of the offer by AMBOSS GmbH and thus the conclusion of the contract shall take place with an e-mail confirmation from AMBOSS GmbH to the contractual partner. AMBOSS GmbH saves the text of the contract and sends the contractual partner the order data and these Terms of Use with a confirmation e-mail. The contractual partner can see the contract data (order data and General Terms of Use) at any time in his/her personal area within his/her member account. The following languages are available for concluding the contract with AMBOSS GmbH: English and German.
+6.4. The AMBOSS Program is no longer available after the free usage period has expired. The mere user account remains.
 
 ‍
 
-15.5. AMBOSS GmbH reserves the right to change the usage costs and to introduce new usage models within the framework of special promotions. The usage costs of registered contractual partners shall not change as a result within the contractually agreed usage period. 
+### **7\. Additional Insights Dashboard Function for Institutional Licenses**
 
 ‍
 
-**16\. Information on the right of withdrawal**
+In order to enable an optimal learning experience as well as the evaluation and monitoring of learning and examination performance of Authorized Users, AMBOSS offers Institutional Partners the function that learning achievements (usage data) can be viewed by educators and their staff via different dashboards (“**Insights Dashboards**”). This allows students to be individually supported in their learning achievements via the AMBOSS Program and educators to obtain an overall picture of the students' learning performance. If Insights Dashboards are agreed, AMBOSS provided educators of the respective institution and their staff with usage data of their participating students via the Insights Dashboards. The data provided may only be used by educators and their staff for the purposes stated above. The concerned Authorized Users will be informed in advance about the activation of this additional function. Further details can be found in the data protection information at www.amboss.com/us/legal/privacy.
 
 ‍
 
-Cancellation policy for the provision of services (only applies to consumers in accordance with § 13 of the German Civil Code – Bürgerliches Gesetzbuch - BGB).
+### **8\. AMBOSS Network**
 
 ‍
 
-**Right of withdrawal**
+8.1. AMBOSS provides Authorized Users with the opportunity to present themselves with their user profile and their activities in the AMBOSS network and to make contact with other Authorized Users and interact, for example, via shared notes. It is possible to make various information (e.g. name, institution, department, subject area, etc.) accessible and findable for other Authorized Users. The Authorized User can activate or deactivate this function in the user account by making all or individual information accessible and findable for all or only certain Authorized Users by making the appropriate settings.
 
 ‍
 
-The contractual partner has the right to withdraw this contract within fourteen days without giving reasons. 
+8.2. If the Authorized User wishes to network with another Authorized User on AMBOSS, he or she can submit a contact request, which will be sent to the requested Authorized User’s user account and/or by e-mail by AMBOSS. The requested Authorized User has the option of accepting or rejecting the request.
 
-The withdrawal period is fourteen days from the day of the conclusion of the contract. 
-
-In order to exercise the right of withdrawal, the contractual partner must inform AMBOSS GmbH (Torstrasse 19, 10119 Berlin, telephone number: +49 30 57702210, e-mail: hallo@amboss.com) of its decision to withdraw this contract by means of a clear declaration (e.g. a letter sent by post or an e-mail). The contractual partner may use this model withdrawal form for this purpose, which is, however, not mandatory. 
+‍
 
-The authorized user may also fill in and submit the model withdrawal form or another clear declaration electronically on the website amboss.com. If he/she makes use of this option, AMBOSS GmbH will immediately send him/her (e.g. by e-mail) a confirmation of receipt of such withdrawal. To meet with the withdrawal deadline, it is sufficient for the contractual partner to send the communication concerning the exercise of the right of withdrawal before the withdrawal period has expired.
+8.3. By activating the AMBOSS network function, the Authorized User agrees that AMBOSS will inform him a) by message through the user account and/or b) by e-mail about contact requests from other Authorized Users and forward messages from accepted contacts.
 
 ‍
 
-**Effects of withdrawal**
+### **9\. Rights of Use**
 
 ‍
 
-If the contractual partner withdraws this contract, AMBOSS GmbH shall repay to the contractual partner all payments received from the contractual partner, including costs of delivery (with the exception of the supplementary costs resulting from the contractual partner’s choice of a type of delivery other than the least expensive type of standard delivery offered by AMBOSS GmbH), without undue delay and in any event not later than 14 days of the day on which AMBOSS GmbH is informed about the contractual partner’s decision to withdraw of this contract. 
+9.1. AMBOSS grants Authorized Users a simple, non-transferable right to use the contents of the AMBOSS Program covered by the license agreement for the duration of the term of the respective Individual License Agreement or Institutional License Agreement or the test access or special offer. Sublicensing is not permitted.
 
-For this repayment AMBOSS GmbH shall use the same means of payment that the contractual partner used for the original transaction, unless expressly agreed otherwise with the contractual partner; in no case shall the contractual partner be charged any fees on account of this repayment. If the authorized user has requested that the services should commence during the withdrawal period, he/she shall pay AMBOSS GmbH an appropriate amount corresponding to the proportion of the services already provided up to the point in time at which he/she informs AMBOSS GmbH of the exercise of the right of withdrawal with regard to this contract in comparison to the total scope of the services provided for in the contract.
-
 ‍
 
-**17\. Costs and terms of payment**
+9.2. Use includes loading, saving, displaying and visualizing the AMBOSS Program via the AMBOSS desktop version as well as the AMBOSS iOs app and Android app.
 
 ‍
 
-17.1. The indicated prices are final prices including the statutory value added tax. AMBOSS GmbH reserves the right to make price changes in the event of printing errors and mistakes.
+9.3. Any use beyond the aforementioned use for one’s own use or for use by third parties, in particular rental, leasing, sale, duplication, distribution, making available to the public, broadcasting and processing of the contractual software, the AMBOSS Program, the content or the activation codes is excluded. The Authorized User is not entitled to use the AMBOSS Program commercially in any form, for example by offering the AMBOSS Program as a separate service to third parties. Copyright notices and brand names may neither be changed nor removed.
 
 ‍
 
-17.2. The user fees resp. the purchase price are due immediately upon conclusion of the contract. Access to AMBOSS shall be activated subject to reservation until receipt of payment. Default in payment on the part of the contractual partner or the authorized user, as applicable, shall entitle AMBOSS GmbH to exclude the contractual partner or authorized user concerned until due claims have been settled.
+9.4. The transfer of access to the AMBOSS Program to other persons is not permitted. This does not apply to the granting of access to the AMBOSS Program by Institutional Partners to the extent agreed in Institutional License Agreement with AMBOSS. If the Authorized User violates this provision, AMBOSS may, after prior warning to the Authorized User, block the respective access to the AMBOSS Program. If the blocked access to the AMBOSS Program falls under an Institutional License Agreement, AMBOSS will provide alternative access for another Authorized User at the request of the Institutional Partner.
 
+9.5. If access to the AMBOSS Program is based on an Institutional License Agreement, the right to use the AMBOSS Program ends not only upon termination of the Institutional License Agreement or if the Institutional License Agreement is amended so that it no longer provides for access for the Authorized User concerned, but also if the Authorized User is no longer authorized to use the AMBOSS Program due to a change in circumstances, i.e. in the case of students due to the student's exmatriculation, in the case of educators due to termination of teaching activities with the Institutional Partner, in the case of doctors or other clinical staff due to termination of employment with the Institutional Partner.  
+
 ‍
 
-17.3. By registering for the use of a fee-based service and providing the information required for the selected payment procedure, the contractual partner grants authorization for the collection of the corresponding amount. The direct debit is collected 1 day after the invoice date (order date). The period for advance notice (pre-notification) is reduced to 1 day. The buyer assures to ensure that the account is covered. There is no entitlement to the use of a specific means of payment.
+9.6. AMBOSS reserves the right to use all contents of the AMBOSS Program for text and data mining. Using the contents of the AMBOSS Program for text and data mining or the training, validation or improvement of artificial intelligence models, machine learning systems or other automated decision-making technologies is therefore unlawful without the consent of AMBOSS.
 
 ‍
 
-17.4. The contractual partner shall bear any costs incurred as a result of a chargeback of a payment transaction due to a lack of funds in the account or due to incorrect data transmitted by him/her, plus a processing fee of US$ 5.00. 
+### **10\. Copyrights**
 
 ‍
 
-17.5. The provision of the access option to fee-based services is carried out at the usage costs corresponding to the selected usage model (total price). This total price for a billing period is due regardless of whether and how the contractual partner uses the offer.
+Unless otherwise stated, the AMBOSS Program is protected by copyright and may only be used outside the scope of use specified in these AMBOSS Terms of Use with the written permission of AMBOSS. The Authorized User is obliged to observe the existing copyrights and undertakes not to infringe them. The Authorized User may only access, save and use the content for their own educational purposes.
 
 ‍
 
-17.6. The contractual partner shall only have a right of set-off if its claims have been legally established or are undisputed or have been recognized in writing by AMBOSS GmbH. The contractual partner may only exercise a right of retention insofar as the claims result from the same contractual relationship.
+### **11\. Data Protection**
 
 ‍
 
-17.7. AMBOSS GmbH is responsible for payment transactions via the website and carries out transactions exclusively via SSL-secured connections.
+Data protection notices with information on the processing of personal data when using the AMBOSS Program can be found at www.amboss.com/us/legal/privacy.
 
 ‍
 
-**18\. Free use**
+### **12\. Liability**
 
 ‍
 
-18.1. In cases where the use of fee-based services is free of charge (e.g. within the framework of test or special campaigns), only a limited range of functions may be available. A claim to permanent use shall not be established in these cases. In these cases AMBOSS GmbH also reserves the right to restrict the scope of functions at any time. In deviation from sec. 20, in the case of free use both contractual partners shall be entitled to terminate the contractual relationship with immediate effect without stating reasons.
+12.1. The release of new content is also subject to a multi-stage quality control process. However, AMBOSS assumes no liability for the topicality, correctness, completeness or quality of the information provided, including information on procedures (in particular diagnostic and therapeutic algorithms), applications, forms of application and dosages. The same applies to the question of whether commercial medical products specified in the context of therapy information may be used in the respective indication according to their regulatory approval status.
 
 ‍
 
-18.2. After expiry of the free period of use, access to AMBOSS shall continue. The provisions for AMBOSS’ authorized users pursuant to Part A of these Terms of Use shall apply.
+12.2. Third party sites and content are not the responsibility of AMBOSS. AMBOSS assumes no liability whatsoever for the content of third-party sites and their availability. The operators of third-party sites are solely responsible for their content and availability, even if they are linked to or embedded in www.miamed.de and/or www.amboss.com and/or their subpages.
 
 ‍
 
-**19\. Term and termination for fee-based services**
+12.3. Where AMBOSS provides calculators for determining clinical measures, the formulas used are experimental only and AMBOSS is not in any way liable for the results. The calculators are for learning and training purposes only.
 
 ‍
 
-19.1. The term of the respective user agreement for services depends on the selected usage model. The term of the user agreement begins with the activation of the authorized user account for the use of the respective fee-based service and ends after expiry of the period of time provided for in the usage model. The authorization to use the respective fee-based service ends with the expiry of the user agreement term. The personal authorized user profile on AMBOSS shall remain and shall be available to the contractual partner free of charge.
+12.4. THE TOTAL LIABILITY OF AMBOSS FOR ALL CLAIMS, WHETHER IN CONTRACT, TORT, OR OTHERWISE, ARISING OUT OF, CONNECTED WITH, OR RESULTING FROM THE USE OF AMBOSS OR ANY OTHER SERVICES UNDER THE INSTITUTIONAL LICENSE AGREEMENT SHALL NOT EXCEED THE AMOUNTS PAID BY THE INSTITUTIONAL PARTNER TO AMBOSS UNDER THE INSTITUTIONAL LICENSE AGREEMENT DURING THE 12 MONTHS IMMEDIATELY PRECEDING THE CLAIM.
 
 ‍
 
-19.2. The mutual right to extraordinary termination for good cause remains unaffected. Such cause shall be deemed to exist in particular if one of the contractual partners intentionally breaches material obligations arising from the user agreement and thereby substantially infringes the interests and legal rights of the other party. On the part of AMBOSS GmbH a reason for extraordinary termination exists in particular if 
+12.5. AMBOSS SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING OUT OF OR CAUSED, IN WHOLE OR IN PART, BY ANY ERRORS OR OMISSIONS IN ANY DATA, CONTENT, OR OTHER INFORMATION PROVIDED THROUGH AMBOSS OR BY DELAYS IN OR INTERRUPTIONS OF ACCESS TO THE AMBOSS PROGRAM. IN NO EVENT SHALL AMBOSS BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOST PROFITS, LOST REVENUE, OR LOST SAVINGS, INCURRED BY CLIENT OR ANY THIRD PARTY, EVEN IF AMBOSS HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
 ‍
 
-* the contractual partner is in arrears with a due payment for more than 10 working days after receipt of a payment reminder or a late notice,
-* AMBOSS GmbH ceases operations permanently or
-* the subject of the user agreement or AMBOSS GmbH should be subject to restrictions under foreign trade law due to the execution of the user agreement.
+12.6. If the Authorized User receives a claim that the use of AMBOSS infringes a United States of America patent, copyright, trade secret, or other intellectual property right, the Authorized User will promptly notify AMBOSS in writing, and will give AMBOSS all necessary information and assistance and the exclusive authority to evaluate, defend, and settle such claim. Provided such timely notice, assistance, and authority have been given by the Authorized User, AMBOSS (or its licensors) will defend, at its own expense, such claim, and will indemnify and hold the Authorized User harmless from all damages and expenses incurred or finally awarded as a result of the claim. The foregoing indemnity will not apply to infringement claims based on programming made to the specification or design of the Authorized User, the Authorized User’s modifications, or the Authorized User’s use of AMBOSS in combination with anything not intended by AMBOSS to be used with AMBOSS to the extent caused by such combination. This sec. 12.6 states AMBOSS’ entire obligation and liability with respect to any infringement claim.
 
 ‍
 
-19.3. Extraordinary termination is possible without notice. The termination can only be made in written text form, e.g. by e-mail or letter.
+12.7. Any and all claims against AMBOSS under this Agreement shall be brought within twelve (12) months from the date that the circumstances giving rise to such claim became known to the Authorized User, or should have become known to the Authorized User by exercise of ordinary diligence.
 
 ‍
 
-19.4. In the event of extraordinary termination, there is no entitlement to reimbursement of the usage fees already paid.
+### **13\. Choice of Law and Place of Jurisdiction**
 
 ‍
 
-19.5. Statutory rights of rescission shall remain unaffected by the rights of termination regulated above.
+13.1. The AMBOSS Terms of Use and any claim arising out of the AMBOSS Terms of Use shall be governed by and construed in accordance with the laws of the Federal Republic of Germany. The United Nations Convention on Contracts for the International Sale of Goods shall not apply to the Agreement.
 
 ‍
 
-**20\. Liability**
+13.2. For any claim or controversy arising out of or relating to the AMBOSS Terms of Use, including any anticipatory breach or disagreement as to the interpretation of the AMBOSS Terms of Use, that is not resolved by the Parties themselves or through mediation or arbitration, the Landgericht Berlin \[Regional Court of Berlin\] shall have exclusive jurisdiction.
 
 ‍
 
-20.1. The following provisions apply only to authorized users of the fee-based services instead of sec. 11 of these Terms and Conditions. 
+### **14\. Final Provisions**
 
 ‍
 
-20.2. The commentaries, chapter contents and other media content have been created with reasonable care. The release of new content also requires a multi-stage quality control. However, AMBOSS GmbH accepts no liability for the up-to-dateness, accuracy, completeness or quality of the information provided. This applies, for example, to information on procedures (esp. diagnostic and therapeutic algorithms), applications, forms of application and dosages. The same applies to the question of whether commercial preparations indicated in the context of therapy information may be used in the respective indication according to their approval status.
+14.1. Amendments to the AMBOSS Terms of Use or declarations based on the AMBOSS Terms of Use AMBOSS require a written declaration, which may be by an e-mail.
 
 ‍
 
-20.3. Despite reasonable examination in the case of a possible linking or embedding, AMBOSS GmbH is not liable for the contents of external pages. The operators of external sites are solely responsible for their content and availability, even if they are linked to or embedded in miamed.de and/or amboss.com and/or their subpages.
+14.2. Amendments to the AMBOSS Terms of Use will be offered with a reasonable period of notice before the proposed date of entry into force. The Authorized User shall be deemed to have given his consent if he or she has not indicated his refusal before the proposed date of entry into force of the changes. The Authorized User will be specifically informed of this approval effect in the offer.
 
 ‍
 
-20.4. The total liability of AMBOSS GmbH for all claims, whether in contract, tort, or otherwise, arising out of, connected with, or resulting from the use of AMBOSS or any other services under this Agreement shall not exceed the amounts paid by the contractual partner to AMBOSS GmbH under this Agreement during the 12 months immediately preceding the claim.
+14.3. If any term or provision of this Institutional License Agreement is invalid, illegal, or unenforceable in any jurisdiction, such invalidity, illegality, or unenforceability shall not affect any other term or provision of this Agreement or invalidate or render unenforceable such term or provision in any other jurisdiction. Upon such determination that any term or other provision is invalid, illegal, or unenforceable, the Parties shall negotiate in good faith to modify this Institutional License Agreement to reflect the original intent of the Parties as closely as possible in a mutually acceptable manner in order that the transactions contemplated hereby be consummated as originally contemplated to the greatest extent possible.  
 
 ‍
 
-20.5. AMBOSS GMBH SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING OUT OF OR CAUSED, IN WHOLE OR IN PART, BY ANY ERRORS OR OMISSIONS IN ANY DATA, CONTENT, OR OTHER INFORMATION PROVIDED THROUGH AMBOSS OR BY DELAYS IN OR INTERRUPTIONS OF ACCESS TO AMBOSS. IN NO EVENT SHALL AMBOSS GMBH BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOST PROFITS, LOST REVENUE, OR LOST SAVINGS, INCURRED BY AUTHORIZED USER OR ANY THIRD PARTY, EVEN IF AMBOSS GMBH HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+14.4. The failure of a party to act upon any right, remedy, or breach of these AMBOSS Terms of Use shall not constitute a waiver of that or any other right, remedy, or breach. No waiver shall be effective unless made in writing and signed by an authorized representative of the waiving party.
 
 ‍
 
-20.6. If the authorized user receives a claim that the use of AMBOSS infringes a United States of America patent, copyright, trade secret, or other intellectual property right, the authorized user will promptly notify AMBOSS GmbH in writing, and will give AMBOSS GmbH all necessary information and assistance and the exclusive authority to evaluate, defend, and settle such claim.  Provided such timely notice, assistance, and authority have been given by the authorized user, AMBOSS GmbH (or its licensors) will defend, at its own expense, such claim, and will indemnify and hold the authorized user harmless from all damages and expenses, including court costs and reasonable attorney fees, incurred or awarded as a result of the claim. The foregoing indemnity will not apply to infringement claims based on programming made to the specification or design of the authorized user, the authorized user’s modifications, or the authorized user’s use of AMBOSS in combination with anything not intended by AMBOSS GmbH to be used with AMBOSS to the extent caused by such combination. The limitation set forth in sec. 20.4 above shall not apply to claims under this sec. 20.6. This sec. 20.6 states AMBOSS GmbH’s entire obligation and liability with respect to any infringement claim.
+‍
 
 ‍
 
