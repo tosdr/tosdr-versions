@@ -28,7 +28,7 @@ Capitalized terms used but not defined therein shall have the meanings given to 
 
 **Online Services**
 
-[Unity Cloud Services Additional Terms](https://unity.com/legal/ugs-terms-of-service)
+[Unity Cloud Additional Terms](https://unity.com/legal/ugs-terms-of-service)
 
 [Unity DevOps Additional Terms](https://unity.com/legal/terms-of-service/plastic)
 
