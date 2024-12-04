@@ -85,6 +85,6 @@ If we learn of a security systems breach, then we may attempt to notify you elec
 11\. OUR CONTACT INFORMATION. Please contact us with any questions or comments about this Privacy Policy, your personally identifiable information, our use and disclosure practices, or your consent choices by e-mail at support@hiatusapp.com.
 
 Hiatus Inc  
-20 W 20th St  
-Ste 904  
-New York, NY 10011
+1515 Mockingbird Lane  
+Floor 4  
+Charlotte, NC 28209
