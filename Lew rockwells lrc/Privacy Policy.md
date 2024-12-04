@@ -64,6 +64,7 @@ If you have questions regarding our privacy policy, feel free to [contact me](h
 
 #### [Political Theatre](https://www.lewrockwell.com/political-theatre/)
 
+* [Trump Pledges to Kill Central Ban Currencies in America & Worldwide](https://www.lewrockwell.com/political-theatre/trump-pledges-to-kill-central-ban-currencies-in-america-worldwide/)
 * [](https://www.lewrockwell.com/political-theatre/897509/)
 * [Lew’s Commentary Today](https://www.lewrockwell.com/political-theatre/lews-commentary-today/)
 * [Foreign criminals who avoided deportation committed more than 10,000 offences in a yearstani](https://www.lewrockwell.com/political-theatre/foreign-criminals-who-avoided-deportation-committed-more-than-10000-offences-in-a-yearstani/)
@@ -73,8 +74,7 @@ If you have questions regarding our privacy policy, feel free to [contact me](h
 * [Billy Bob Thornton in “Landman” Discusses Wind Turbines](https://www.lewrockwell.com/political-theatre/billy-bob-thornton-in-landman-discusses-wind-turbines/)
 * [Trump Declares Economic War on BRICS: Tariffs and the Dollar’s Future](https://www.lewrockwell.com/political-theatre/trump-declares-economic-war-on-brics-tariffs-and-the-dollars-future/)
 * [Fighting Words: The Abuse of Islam in Political Rhetoric](https://www.lewrockwell.com/political-theatre/fighting-words-the-abuse-of-islam-in-political-rhetoric/)
-* [Tackle French ‘abuse’ of Muslims, civil society groups tell UN](https://www.lewrockwell.com/political-theatre/tackle-french-abuse-of-muslims-civil-society-groups-tell-un/)
-* [MORE](https://www.lewrockwell.com/political-theatre/#post-897415)
+* [MORE](https://www.lewrockwell.com/political-theatre/#post-897416)
 
 [![](https://www.lewrockwell.com/wp-content/themes/lrc/images/burtspage300.png)](http://archive.lewrockwell.com/blumert/burt-gold.html)
 
