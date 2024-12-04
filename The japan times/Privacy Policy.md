@@ -30,9 +30,9 @@ Subscribe
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-* [Yen](https://www.japantimes.co.jp/tag/yen/ "Yen")
-* [Japan tax reform](https://www.japantimes.co.jp/trending/ "Japan tax reform")
-* [Russia-Ukraine war](https://www.japantimes.co.jp/tag/russia-ukraine-war/ "Russia-Ukraine war")
+* [South Korea unrest](https://www.japantimes.co.jp/trending-2/ "South Korea unrest")
+* [Trump tariffs](https://www.japantimes.co.jp/trending/ "Trump tariffs")
+* [Buzzwords of the year](https://www.japantimes.co.jp/tag/buzzwords/ "Buzzwords of the year")
 * [Latest News](https://www.japantimes.co.jp/latest-news/ "Latest News")
 * [Deep Dive](https://www.japantimes.co.jp/deep-dive/ "Deep Dive")
 
@@ -468,21 +468,21 @@ Revised June 1, 2022
 
   [![Sadao Abe, who played the role of a time-traveling Showa Era teacher transported to present day in a popular TV drama, receives the 2024 buzzword of the year award for the word "futehodo," the nickname of the series.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/02/437645.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Sadao Abe, who played the role of a time-traveling Showa Era teacher transported to present day in a popular TV drama, receives the 2024 buzzword of the year award for the word "futehodo," the nickname of the series.")](https://www.japantimes.co.jp/news/2024/12/02/japan/society/2024-buzzword-of-the-year-announced/ "Japan’s 2024 buzzword of the year urges a reevaluation of past norms")
 
+[Australian says romance scam tricked her into smuggling drugs into Japan](https://www.japantimes.co.jp/news/2024/12/03/japan/crime-legal/australian-romance-scam/ "Australian says romance scam tricked her into smuggling drugs into Japan")
+
+  [![Donna Nelson says her life was turned upside down when she learned that the man she was falling for had tricked her into smuggling 2 kilograms of methamphetamine into Japan.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/03/437757.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Donna Nelson says her life was turned upside down when she learned that the man she was falling for had tricked her into smuggling 2 kilograms of methamphetamine into Japan.")](https://www.japantimes.co.jp/news/2024/12/03/japan/crime-legal/australian-romance-scam/ "Australian says romance scam tricked her into smuggling drugs into Japan")
+
+[Trump says will 'block' Nippon Steel from taking over U.S. Steel](https://www.japantimes.co.jp/business/2024/12/03/companies/trump-to-block-nippon-steel/ "Trump says will 'block' Nippon Steel from taking over U.S. Steel")
+
+  [![U.S. President-elect Donald Trump says he will "block" a planned takeover of U.S. Steel by Nippon Steel.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/03/437801.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "U.S. President-elect Donald Trump says he will "block" a planned takeover of U.S. Steel by Nippon Steel.")](https://www.japantimes.co.jp/business/2024/12/03/companies/trump-to-block-nippon-steel/ "Trump says will 'block' Nippon Steel from taking over U.S. Steel")
+
+[Japan witnesses warmest fall on record](https://www.japantimes.co.jp/news/2024/12/03/japan/japan-warmest-autumn/ "Japan witnesses warmest fall on record")
+
+  [![Hibiya Park in Tokyo's Chiyoda Ward on Saturday. Warm weather has delayed the country's autumn foliage season — when tourists flock to see leaves turn vibrant reds and yellows.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/03/437862.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Hibiya Park in Tokyo's Chiyoda Ward on Saturday. Warm weather has delayed the country's autumn foliage season — when tourists flock to see leaves turn vibrant reds and yellows.")](https://www.japantimes.co.jp/news/2024/12/03/japan/japan-warmest-autumn/ "Japan witnesses warmest fall on record")
+
 [South Korea's Yoon backs down after parliament rejects martial law](https://www.japantimes.co.jp/news/2024/12/04/asia-pacific/politics/yoon-martial-law/ "South Korea's Yoon backs down after parliament rejects martial law")
 
   [![Soldiers try to enter the National Assembly building in Seoul, after South Korea President Yoon Suk Yeol declared martial law late Tuesday evening.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/04/437968.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Soldiers try to enter the National Assembly building in Seoul, after South Korea President Yoon Suk Yeol declared martial law late Tuesday evening.")](https://www.japantimes.co.jp/news/2024/12/04/asia-pacific/politics/yoon-martial-law/ "South Korea's Yoon backs down after parliament rejects martial law")
-
-[BOJ weighs case for first triple hike since Japan’s bubble burst](https://www.japantimes.co.jp/business/2024/12/03/economy/boj-december-rate-hike-likely/ "BOJ weighs case for first triple hike since Japan’s bubble burst")
-
-  [![Bank of Japan Gov. Kazuo Ueda reiterated in an interview published Saturday that authorities will raise rates if the economy performs in line with projections.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/03/437733.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Bank of Japan Gov. Kazuo Ueda reiterated in an interview published Saturday that authorities will raise rates if the economy performs in line with projections.")](https://www.japantimes.co.jp/business/2024/12/03/economy/boj-december-rate-hike-likely/ "BOJ weighs case for first triple hike since Japan’s bubble burst")
-
-[Princess Aiko, only child of emperor, turns 23](https://www.japantimes.co.jp/news/2024/12/01/japan/princess-aiko-turns-23/ "Princess Aiko, only child of emperor, turns 23")
-
-  [![Princess Aiko on Nov. 22 ahead of her 23rd birthday on Sunday at the Imperial Palace](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/01/437345.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Aiko on Nov. 22 ahead of her 23rd birthday on Sunday at the Imperial Palace")](https://www.japantimes.co.jp/news/2024/12/01/japan/princess-aiko-turns-23/ "Princess Aiko, only child of emperor, turns 23")
-
-[Ishiba questioned on political reform, social issues and the economy](https://www.japantimes.co.jp/news/2024/12/02/japan/politics/ishiba-parliamentary-questioning/ "Ishiba questioned on political reform, social issues and the economy")
-
-  [![Prime Minister Shigeru Ishiba speaks in the Lower House in Tokyo on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/02/437666.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba speaks in the Lower House in Tokyo on Monday.")](https://www.japantimes.co.jp/news/2024/12/02/japan/politics/ishiba-parliamentary-questioning/ "Ishiba questioned on political reform, social issues and the economy")
 
 [Can Japan's scientific community rebound from a Nobel nosedive?](https://www.japantimes.co.jp/news/2024/12/02/japan/science-health/japan-science-nobel-prize/ "Can Japan's scientific community rebound from a Nobel nosedive?")
 
@@ -523,9 +523,9 @@ By [Tomoko Otake](https://www.japantimes.co.jp/author/3264/tomoko-otake/ "Tomoko
 SUSTAINABLE JAPAN
 -----------------
 
-[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -565,25 +565,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Meta seeks new nuclear reactors to run U.S. data centers](https://www.japantimes.co.jp/business/2024/12/04/tech/meta-nuclear-us-data-centers/ "Meta seeks new nuclear reactors to run U.S. data centers")
+[Trump considers replacing Hegseth with DeSantis to run Pentagon, report says](https://www.japantimes.co.jp/news/2024/12/04/world/politics/desantis-trump-defense-secretary/ "Trump considers replacing Hegseth with DeSantis to run Pentagon, report says")
 
-7 mins ago
+28 mins ago
 
-[Local governments tighten rules on pet ownership as hoarding persists](https://www.japantimes.co.jp/news/2024/12/04/japan/society/pet-hoarding/ "Local governments tighten rules on pet ownership as hoarding persists")
+[Tamaki suspended for three months as DPP leader following affair](https://www.japantimes.co.jp/news/2024/12/04/japan/politics/tamaki-punishment/ "Tamaki suspended for three months as DPP leader following affair")
 
-15 mins ago
+39 mins ago
 
-[U.S. chips 'no longer safe,' Chinese industry bodies say in latest salvo](https://www.japantimes.co.jp/news/2024/12/04/world/politics/us-chips-chinese-industry-trade/ "U.S. chips 'no longer safe,' Chinese industry bodies say in latest salvo")
+[Yoon’s gambit a tempest in a teapot for financial markets](https://www.japantimes.co.jp/business/2024/12/04/markets/yoon-financial-markets/ "Yoon’s gambit a tempest in a teapot for financial markets")
 
-22 mins ago
+1 hour ago
 
-[China dials up U.S. trade tension with tit-for-tat metals export ban](https://www.japantimes.co.jp/news/2024/12/04/world/politics/china-us-trade-metals-ban/ "China dials up U.S. trade tension with tit-for-tat metals export ban")
+[Japanese drug market prices 5.2% lower than official prices](https://www.japantimes.co.jp/business/2024/12/04/drug-market-prices/ "Japanese drug market prices 5.2% lower than official prices")
 
-32 mins ago
+1 hour ago
 
-[Cat that Putin gifted to Japan's Akita Prefecture dies at age 12](https://www.japantimes.co.jp/news/2024/12/04/japan/putin-akita-cat-death/ "Cat that Putin gifted to Japan's Akita Prefecture dies at age 12")
+[BOJ sells 10-year cash bonds to ease shortage tied to futures](https://www.japantimes.co.jp/business/2024/12/04/economy/boj-bond-sell/ "BOJ sells 10-year cash bonds to ease shortage tied to futures")
 
-50 mins ago
+1 hour ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
