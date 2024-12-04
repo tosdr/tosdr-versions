@@ -133,6 +133,18 @@
 
 #### Latest news
 
+[![Three people in a meeting room in conversation](/siteassets/resources/images/-news-centre/thumbnail-images/access-and-inclusion/three-people-in-a-meeting-room-in-conversation.jpg?width=1920&height=1085&quality=80)
+
+### Steady growth in broadcasting jobs based outside of London
+
+4 December 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/equity-and-diversity/steady-growth-in-broadcasting-jobs-based-outside-of-london/)
+
+[![PoW-24-25-(Web)](/siteassets/resources/documents/consultations/category-2-6-weeks/consultation-ofcoms-plan-of-work-202526/main-document/pow-24-25-web.jpg?width=1920&height=1085&quality=80)
+
+### Consultation: Ofcom publishes its proposed Plan of Work for 2025/26
+
+4 December 2024](https://www.ofcom.org.uk/about-ofcom/annual-reports-and-plans/consultation-ofcom-publishes-its-proposed-plan-of-work-for-202526/)
+
 [![View of BBC's regional headquarters in Salford ](/siteassets/resources/images/-news-centre/thumbnail-images/tv-and-on-demand/bbc-salford.jpg?width=1920&height=1085&quality=80)
 
 ### BBC Annual Report and Local Media Review
@@ -144,18 +156,6 @@
 ### How Ofcom deals with BBC complaints – what you need to know
 
 29 November 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/bbc/how-ofcom-deals-with-bbc-complaints--what-you-need-to-know/)
-
-[![Two children looking at a phone or tablet together.](/siteassets/additional-resources/online-safety.jpg?width=1920&height=1085&quality=80)
-
-### How children will be protected from accessing online pornography
-
-29 November 2024](https://www.ofcom.org.uk/online-safety/protecting-children/how-children-will-be-protected-from-accessing-online-pornography/)
-
-[![People on their phones](/siteassets/resources/images/-news-centre/body-images/2024/online-nations/hero-online-nation-2024.jpg?width=1920&height=1085&quality=80)
-
-### Digital differences between men and women revealed
-
-28 November 2024](https://www.ofcom.org.uk/media-use-and-attitudes/online-habits/digital-differences-between-men-and-women-revealed/)
 
  [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/corporate-policies/general-privacy-statement/?language=cy "Switch to Welsh")
 
