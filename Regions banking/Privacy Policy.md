@@ -191,6 +191,7 @@ Menu [![Regions logo](/rdcresources/content/media/img/regions-logo-no-r.svg)](ht
         * [New Markets Tax Credits](https://www.regions.com/commercial-banking/new-markets-tax-credits)
         
     * [Commercial Insights](https://www.regions.com/insights/commercial)
+    * [Contact a banker](https://www.regions.com/commercial-banking/contact-commercial-banker)
     * [Log in to OnePass](https://onepass.regions.com/)
     
 * [Wealth](#)
@@ -334,15 +335,15 @@ Related Insights
     
     Video
     
+* [4 tips for choosing a checking account](https://www.regions.com/insights/personal/personal-finances/creating-a-financial-plan/opening-a-checking-account)
+    
+    Article
+    
 * [4 Factors to Opening a Checking Account for Teens](https://www.regions.com/insights/personal/personal-finances/budgeting-and-saving/should-your-teen-have-a-student-checking-account)
     
     Article
     
 * [5 checking account mistakes to avoid](https://www.regions.com/insights/personal/personal-finances/creating-a-financial-plan/checking-account-mistakes)
-    
-    Article
-    
-* [Easy Money Management](https://www.regions.com/insights/personal/personal-finances/budgeting-and-saving/easy-money-management-with-or-without-a-checking-account)
     
     Article
     
