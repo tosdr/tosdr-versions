@@ -30,12 +30,12 @@ Header - Shapes Theme
     * [![QUICK PUSH FIDGET GAME](//www.unspeakable.com/cdn/shop/files/DSC_0969.jpg?v=1703012547&width=700)
         
         QUICK PUSH FIDGET GAME](https://www.unspeakable.com/products/electronic-poplight-fidget-game)
-    * [![POOP CARD GAME](//www.unspeakable.com/cdn/shop/files/DSC_0947_1.jpg?v=1699460682&width=700)
-        
-        POOP CARD GAME](https://www.unspeakable.com/products/new-poop-card-games)
     * [![SCENTED SLIME](//www.unspeakable.com/cdn/shop/files/DSC_0889.jpg?v=1698765468&width=700)
         
         SCENTED SLIME](https://www.unspeakable.com/products/scented-slime)
+    * [![MAGIC CUBE](//www.unspeakable.com/cdn/shop/files/DSC_0913_1_c5c69abb-77f3-47d3-94bc-57fe145a48cd.jpg?v=1699029762&width=700)
+        
+        MAGIC CUBE](https://www.unspeakable.com/products/magic-cube)
     
     [View All](https://www.unspeakable.com/collections/toys-fun-stuff)
     
