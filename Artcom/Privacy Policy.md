@@ -1,12 +1,12 @@
 Shop Now
 
-30% off Everything\* & FREE Shipping on Orders $99+ Ends in..
+20% Off on Orders $99+ Ends in..
 
-0DAYS4HRS20MINS
+4DAYS22HRS23MINS
 
-30% off Everything\* & FREE Shipping on Orders $99+ Ends in..
+20% Off on Orders $99+ Ends in..
 
-0DAYS4HRS20MINS
+4DAYS22HRS23MINS
 
 Shop Now
 
