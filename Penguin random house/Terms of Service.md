@@ -22,11 +22,11 @@ Audio
 
 * * *
 
-* [![Audiobooks for Kids](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/07/18161743/audiobooks-for-kids-readdown-1200x628-1.jpg)
+* [![New Releases](https://assets.penguinrandomhouse.com/wp-content/uploads/2023/12/08132549/PRH_Site_1200x628_DEC2024.jpg)
     
-    Audiobooks for Kids
+    New Releases
     
-    Learn More >](https://www.penguinrandomhouse.com/the-read-down/audiobooks-for-kids/)
+    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-december/)
 
 * * *
 
