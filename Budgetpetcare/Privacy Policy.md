@@ -48,5 +48,5 @@
 * [New Arrivals](https://www.budgetpetcare.com/new-arrivals.aspx)
 * Special Offer
     * [**Latest Offers**](https://www.budgetpetcare.com/sale.aspx)
-    * [**Senior Pet Month**](https://www.budgetpetcare.com/seasonal-offers.aspx)
+    * [**Cat Lovers Month**](https://www.budgetpetcare.com/seasonal-offers.aspx)
     * [**Flash Sale**](https://www.budgetpetcare.com/flash-offers.aspx)
