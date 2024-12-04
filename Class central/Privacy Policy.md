@@ -398,11 +398,11 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 ##### Latest
 
-1. [\[2024\] 80+ GRE Exam Preparation Resources](https://www.classcentral.com/report/gre-preparation/)
-2. [\[2024\] 140 IELTS Exam Preparation Resources](https://www.classcentral.com/report/ielts-preparation/)
-3. [10 Best Chess Courses for 2024](https://www.classcentral.com/report/best-chess-courses/)
-4. [Writing as Enchantment: Inside Alan Moore’s BBC Maestro Course](https://www.classcentral.com/report/review-bbc-maestro-alan-moore-course/)
-5. [7 Best Biology Courses for 2024](https://www.classcentral.com/report/best-biology-courses/)
+1. [1500+ Free Developer and IT Certifications](https://www.classcentral.com/report/free-developer-it-certifications/)
+2. [\[2024\] 80+ GRE Exam Preparation Resources](https://www.classcentral.com/report/gre-preparation/)
+3. [\[2024\] 140 IELTS Exam Preparation Resources](https://www.classcentral.com/report/ielts-preparation/)
+4. [10 Best Chess Courses for 2024](https://www.classcentral.com/report/best-chess-courses/)
+5. [Writing as Enchantment: Inside Alan Moore’s BBC Maestro Course](https://www.classcentral.com/report/review-bbc-maestro-alan-moore-course/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -412,36 +412,36 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 Most common
 
-1. finance
+1. English
     
-2. computer science
+2. hacking
     
 3. html
     
 
 Popular subjects
 
-1. [Computer Science
+1. [Artificial Intelligence
     
-    44,598 courses](https://www.classcentral.com/subject/cs)
-2. [Python
+    14,365 courses](https://www.classcentral.com/subject/ai)
+2. [Data Analysis
     
-    10,028 courses](https://www.classcentral.com/subject/python)
-3. [Ethical Hacking
+    8,928 courses](https://www.classcentral.com/subject/data-analysis)
+3. [Digital Marketing
     
-    2,243 courses](https://www.classcentral.com/subject/ethical-hacking)
+    6,311 courses](https://www.classcentral.com/subject/digital-marketing)
 
 Popular courses
 
-1. [Success: Practical Thinking Skills
+1. [Max MSP Programming Course: Structuring Interactive Software for Digital Arts
     
-    Hong Kong Polytechnic University](https://www.classcentral.com/course/strategic-thinking-the-hong-kong-polytechnic-univ-8617)
-2. [Mathematical and Computational Methods
+    Stanford University](https://www.classcentral.com/course/kadenze-max-msp-programming-course-structuring-interactive-software-for-digital-arts-6411)
+2. [Algorithms, Part I
     
-    Georgetown University](https://www.classcentral.com/course/math-georgetown-university-mathematical-and-compu-27989)
-3. [Introduction to Complexity
+    Princeton University](https://www.classcentral.com/course/algs4partI-339)
+3. [The Emergence of the Modern Middle East - Part I
     
-    Santa Fe Institute](https://www.classcentral.com/course/complexity-explorer-introduction-to-complexity-557)
+    Tel Aviv University](https://www.classcentral.com/course/modernmiddleeast1-976)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
