@@ -128,39 +128,39 @@ Advertisement
     The Fog of War
     
     Winner of the Academy Award for Best DocumentaryIt is the story of America as seen through the eyes of the former Secretary of Defense, Robert S. McNamara. One of the most controversial and influe...](https://documentaryheaven.com/the-fog-of-war/ "The Fog of War")
-* [![Pedigree Dogs Exposed](/wp-content/thumbnails/2539-100x70.jpg?x53432)
+* [![The Nature of Ayahuasca](/wp-content/thumbnails/16205-100x70.jpg?x53432)
     
-    Pedigree Dogs Exposed
+    The Nature of Ayahuasca
     
-    Pedigree dogs are suffering from genetic diseases following years of inbreeding, an investigation has found.A BBC documentary says they are suffering acute problems because looks are emphasised ov...](https://documentaryheaven.com/bbc-pedigree-dogs-exposed/ "Pedigree Dogs Exposed")
+    Ayahuasca is a plant-based psychedelic brew that originated from the South American rainforests. It is made from boiling the Banisteriopsis caapi vine, the Psychotria viridis shrub together, although...](https://documentaryheaven.com/nature-of-ayahuasca/ "The Nature of Ayahuasca")
 
 ###### Throwback Documentaries
 
-* [![How to Live to 101](/wp-content/thumbnails/1017-100x70.jpg?x53432)
+* [![Dying To Dive](/wp-content/thumbnails/11872-100x70.jpg?x53432)
     
-    How to Live to 101
+    Dying To Dive
     
-    This documentary looks at the quest to live longer. It has been one of humanities oldest dreams, but while scientists have been searching, a few isolated communities have stumbled across the answer. O](https://documentaryheaven.com/how-to-live-to-101/ "How to Live to 101")
-* [![Geisha Girl](/wp-content/thumbnails/8061-100x70.jpg?x53432)
+    Traveling into the abyss on a single breath, they dive into the water with no scuba gear just themselves and their breath, relying only on their own strength and determination. This is the world of fr](https://documentaryheaven.com/dying-to-dive/ "Dying To Dive")
+* [![Little Dieter Needs to Fly](/wp-content/thumbnails/9545-100x70.jpg?x53432)
     
-    Geisha Girl
+    Little Dieter Needs to Fly
     
-    Documentary following 15-year-old Yukina as she leaves home and moves to Kyoto to embark on the arduous training needed to become a geisha.The profession has always been shrouded in controversy, w](https://documentaryheaven.com/geisha-girl/ "Geisha Girl")
-* [![Unorthodox](/wp-content/thumbnails/15146-100x70.jpg?x53432)
+    Dieter Dengler was a German-American pilot who was shot down over Laos in February 1st of 1966 during the early phase of the Vietnam war. He himself noted that the only reason he took part in the war](https://documentaryheaven.com/little-dieter-needs-fly/ "Little Dieter Needs to Fly")
+* [![Can We Get Married?](/wp-content/thumbnails/6038-100x70.jpg?x53432)
     
-    Unorthodox
+    Can We Get Married?
     
-    At the age of 16, filmmaker Anna Wexler decided to break away from her Orthodox Jewish community located in New Jersey, as she rejected the religious doctrine and social restrictions that were being](https://documentaryheaven.com/unorthodox/ "Unorthodox")
-* [![What on Earth is Wrong With Gravity?](/wp-content/thumbnails/306-100x70.png?x53432)
+    Like many couples who have been together for six years and are in their late twenties, Emma Bishop and Ben Marshall are thinking of getting married. But for them, it is not entirely straightforward.](https://documentaryheaven.com/can-we-get-married/ "Can We Get Married?")
+* [![The Coming War on China](/wp-content/thumbnails/16433-100x70.jpg?x53432)
     
-    What on Earth is Wrong With Gravity?
+    The Coming War on China
     
-    Particle physicist and ex D:Ream keyboard player Dr Brian Cox wants to know why the Universe is built the way it is.He believes the answers lie in the force of gravity. But Newton thought gravity wa](https://documentaryheaven.com/what-on-earth-is-wrong-with-gravity/ "What on Earth is Wrong With Gravity?")
-* [![The Seven Wonders of the World](/wp-content/thumbnails/1636-100x70.jpg?x53432)
+    The threat of China is becoming big news, the media is beating the drums of war as the world is being primed to regard China as a new enemy. China is building airstrips in the South China Sea on disp](https://documentaryheaven.com/coming-war-on-china/ "The Coming War on China")
+* [![Victorian Farm](/wp-content/thumbnails/3326-100x70.jpg?x53432)
     
-    The Seven Wonders of the World
+    Victorian Farm
     
-    Egypt, land of the pyramids, mighty monuments constructed in the early days of history. Monuments that endure to this day attracting visitors across the world. Many visitors come to Egypt to see one p](https://documentaryheaven.com/the-seven-wonders-of-the-world/ "The Seven Wonders of the World")
+    Historical observational documentary series following a team who live the life of Victorian farmers for a year. Wearing period clothes and using only the materials that would have been available in](https://documentaryheaven.com/victorian-farm/ "Victorian Farm")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
