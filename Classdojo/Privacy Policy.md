@@ -386,7 +386,7 @@ Support
     
 * [Transparency Notice at Collection](https://www.classdojo.com/transparency/)
     
-* [Privacy Center](https://www.classdojo.com/privacycenter/)
+* [Privacy and Security](https://www.classdojo.com/privacy-and-security/)
     
 
 Community
