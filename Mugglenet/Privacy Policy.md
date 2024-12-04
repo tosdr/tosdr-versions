@@ -298,15 +298,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Demelza Robins, the Gryffindor Chaser in Harry Potter and the Half-Blood Prince, is named after Daniel Radcliffe’s favorite charity: the Demelza House Children’s Hospice, which cares for terminally ill youngsters in Kent, East Sussex, and South London.
+The curse of the Defense Against the Dark Arts position was inspired by the Spinal Tap drummers dying in bizarre circumstances.
 
 ### Potter History
 
-April 30, 2009 – Harry Potter: The Exhibition opens at Chicago’s Museum of Science and Industry.
+August 2, 2007 – Scholastic announced that Deathly Hallows sold 11.5 million copies in ten days.
 
 ### Potter Quote
 
-“I am alive, but I am an alchemist, and therefore immortal.”
+“I can, you know, do math and stuff.”
 
 [](#)
 
