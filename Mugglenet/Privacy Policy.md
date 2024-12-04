@@ -312,15 +312,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The Hogwarts school motto, Draco Dormiens Nunquam Titillandus, means “Never Tickle a Sleeping Dragon.”
+Minerva McGonagall’s mother kept her own magical heritage a secret from her Muggle husband for years, which made her life very sad and difficult.
 
 ### Potter History
 
-February 11, 2005 – The number of pages in the UK edition of Harry Potter and the Half-Blood Prince is revealed to be 607 pages.
+December 15, 2004 – Producer David Heyman says Harry Potter and the Goblet of Fire filming is 75% complete.
 
 ### Potter Quote
 
-“The disapproval of cowards is praise to the brave.”
+“You’ve gone middle head!”
 
 [](#)
 
