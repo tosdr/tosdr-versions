@@ -16,6 +16,7 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
+* [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-gwinnetts-heisman-favorite/DM6UTW3KTRCTXB4OG5RLBRMIBU/)
 * [Georgia Runoff Election Results](https://www.ajc.com/politics/election-results/)
 * [Politically Georgia](https://www.ajc.com/politics/politically-georgia/)
 * [Holiday Guide](https://www.ajc.com/things-to-do/atlanta-winter-guide/)
