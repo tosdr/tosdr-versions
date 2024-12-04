@@ -21,7 +21,7 @@
 
 * [Contact Us](https://www.robotel.com/contact/)
 
-Search    
+Search   
 
 * [English](https://www.robotel.com/privacy-policy/)
 * [Español](https://www.robotel.com/es/politica-de-privacidad/)
@@ -206,13 +206,12 @@ Or write to us at [https://www.robotel.com/contact/](https://www.robotel.com/con
 
 ![Robotel Footer Logo](https://www.robotel.com/hs-fs/hubfs/Robotel%20Footer%20Logo.png?width=100&height=30&name=Robotel%20Footer%20Logo.png "Robotel Footer Logo")
 
- +1 450 680-1448  
-+1 (800) 680-1448
------------------------------------
+ +1 (800) 644-0356
+-----------------
 
 [info@robotel.com](mailto:info@robotel.com)
 
-3185 Delaunay Laval, QC (Canada) H7L5A4
+Dousman, WI (U.S.A.) 53118
 
              [![Facebook SmartClass by Robotel](https://www.robotel.com/hubfs/Facebook.svg)](https://www.facebook.com/smartclass)      [![LinkedIn SmartClass by Robotel](https://www.robotel.com/hubfs/LinkedIn.svg)](https://www.linkedin.com/company/robotel/)       [![Instragram SmartClass by Robotel](https://www.robotel.com/hubfs/Instragram.svg)](https://www.instagram.com/robotel.ca/)
 
