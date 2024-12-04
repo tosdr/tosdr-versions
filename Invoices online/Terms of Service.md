@@ -203,50 +203,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Henry Venter
 
-![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=4d9fd0ef07a1b08941a98ee61dc05ff3de077b11ffa412d6157d443451a899b3&c=126835741)  
-SA Security Brokerz (Pty) Ltd
+![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=b25b1f4a7a675d11df0ba0cd4834ad5ebf1aeca62c1a01e2112f7034b1243aa2&c=186891687)  
+WIP Digital Solutions
 
-![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=4d9fd0ef07a1b08941a98ee61dc05ff3de077b11ffa412d6157d443451a899b3&c=66040315)  
-Safe-Train Consulting (PTY) Ltd
+![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=b25b1f4a7a675d11df0ba0cd4834ad5ebf1aeca62c1a01e2112f7034b1243aa2&c=121214984)  
+Three Moons Emporium
 
-![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=4d9fd0ef07a1b08941a98ee61dc05ff3de077b11ffa412d6157d443451a899b3&c=44295077)  
-ELLIE'S CLEANING CHICKS
+![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=b25b1f4a7a675d11df0ba0cd4834ad5ebf1aeca62c1a01e2112f7034b1243aa2&c=179084814)  
+Brilliant Roof Products
 
-![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=4d9fd0ef07a1b08941a98ee61dc05ff3de077b11ffa412d6157d443451a899b3&c=1619473)  
+![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=b25b1f4a7a675d11df0ba0cd4834ad5ebf1aeca62c1a01e2112f7034b1243aa2&c=108354276)  
+Xpress Designs
+
+![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=b25b1f4a7a675d11df0ba0cd4834ad5ebf1aeca62c1a01e2112f7034b1243aa2&c=144902923)  
+LEO DEVELOPMENT GROUP
+
+![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=b25b1f4a7a675d11df0ba0cd4834ad5ebf1aeca62c1a01e2112f7034b1243aa2&c=204556748)  
 Stories (Pty) Ltd t/a Storietyd
 
-![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=4d9fd0ef07a1b08941a98ee61dc05ff3de077b11ffa412d6157d443451a899b3&c=136747689)  
-MR Compressors& Industrial Supplies
+![valued client Protech Marketing](https://www.invoicesonline.co.za/scripts/image.php?bid=8712&file=logo_300_100&type=&fe=b25b1f4a7a675d11df0ba0cd4834ad5ebf1aeca62c1a01e2112f7034b1243aa2&c=118887437)  
+Protech Marketing
 
-![valued client SafeTclip](https://www.invoicesonline.co.za/scripts/image.php?bid=8368&file=logo_300_100&type=&fe=4d9fd0ef07a1b08941a98ee61dc05ff3de077b11ffa412d6157d443451a899b3&c=41034161)  
-SafeTclip
+![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=b25b1f4a7a675d11df0ba0cd4834ad5ebf1aeca62c1a01e2112f7034b1243aa2&c=44556323)  
+Druce Digital
 
-![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=4d9fd0ef07a1b08941a98ee61dc05ff3de077b11ffa412d6157d443451a899b3&c=168512824)  
-Salvage Genie
+![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=b25b1f4a7a675d11df0ba0cd4834ad5ebf1aeca62c1a01e2112f7034b1243aa2&c=187790512)  
+J.M. HUMAN RESOURCES
 
-![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=4d9fd0ef07a1b08941a98ee61dc05ff3de077b11ffa412d6157d443451a899b3&c=91703177)  
-Norton Medical & Consult - Namibia
+![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=b25b1f4a7a675d11df0ba0cd4834ad5ebf1aeca62c1a01e2112f7034b1243aa2&c=19279642)  
+INVOICES/JOBCARDS ONLINE
 
-![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=4d9fd0ef07a1b08941a98ee61dc05ff3de077b11ffa412d6157d443451a899b3&c=133899493)  
-IYD
+![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=b25b1f4a7a675d11df0ba0cd4834ad5ebf1aeca62c1a01e2112f7034b1243aa2&c=179167642)  
+AquariumSmiths
 
-![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=4d9fd0ef07a1b08941a98ee61dc05ff3de077b11ffa412d6157d443451a899b3&c=149055987)  
-Tagline Brands
+![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=b25b1f4a7a675d11df0ba0cd4834ad5ebf1aeca62c1a01e2112f7034b1243aa2&c=16096353)  
+Fox Alarms & Security
 
-![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=4d9fd0ef07a1b08941a98ee61dc05ff3de077b11ffa412d6157d443451a899b3&c=137651486)  
-NIMAWELL
+![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=b25b1f4a7a675d11df0ba0cd4834ad5ebf1aeca62c1a01e2112f7034b1243aa2&c=174225441)  
+UMVIKELI PRIVATE SECURITY
 
-![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=4d9fd0ef07a1b08941a98ee61dc05ff3de077b11ffa412d6157d443451a899b3&c=86169340)  
-MONSTER SECURITY GUARDING
+![valued client Van Der Merwe Olieverspreiders](https://www.invoicesonline.co.za/scripts/image.php?bid=8554&file=logo_300_100&type=&fe=b25b1f4a7a675d11df0ba0cd4834ad5ebf1aeca62c1a01e2112f7034b1243aa2&c=71564479)  
+Van Der Merwe Olieverspreiders
 
-![valued client Shades of Summer Investments 184cc t/a Junker Construction](https://www.invoicesonline.co.za/scripts/image.php?bid=7053&file=logo_300_100&type=&fe=4d9fd0ef07a1b08941a98ee61dc05ff3de077b11ffa412d6157d443451a899b3&c=66683466)  
-Shades of Summer Investments 184cc t/a Junker Construction
-
-![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=4d9fd0ef07a1b08941a98ee61dc05ff3de077b11ffa412d6157d443451a899b3&c=78437966)  
-Repairs In Motion
-
-![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=4d9fd0ef07a1b08941a98ee61dc05ff3de077b11ffa412d6157d443451a899b3&c=23386097)  
-Xpress Designs
+![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=b25b1f4a7a675d11df0ba0cd4834ad5ebf1aeca62c1a01e2112f7034b1243aa2&c=4878086)  
+National Elite Security Services (PTY) LTD
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
