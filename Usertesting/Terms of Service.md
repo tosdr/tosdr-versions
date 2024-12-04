@@ -24,10 +24,10 @@ Utility
 
 * Select Language
     
-    * [English](https://usertesting.com/)
-    * [Deutsch](https://usertesting.com/de)
-    * [Français](https://usertesting.com/fr)
-    * [Español](https://usertesting.com/es)
+    * [English](https://www.usertesting.com/)
+    * [Deutsch](https://www.usertesting.com/de)
+    * [Français](https://www.usertesting.com/fr)
+    * [Español](https://www.usertesting.com/es)
     
 
 Sign in
