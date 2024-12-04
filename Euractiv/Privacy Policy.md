@@ -441,27 +441,27 @@ If you have any questions about this Privacy Policy, please contact us:
 Most recent
 -----------
 
-[03-12-2024
+[04-12-2024
 
-EU negotiators secure one-year delay to anti-deforestation rules](https://www.euractiv.com/section/agriculture-food/news/eu-negotiators-secure-one-year-delay-to-anti-deforestation-rules/)[03-12-2024
+Trump’s plan for Ukraine: Territorial concessions but NATO off the table](https://www.euractiv.com/section/global-europe/news/trumps-plan-for-ukraine-territorial-concessions-but-nato-off-the-table/)[04-12-2024
 
-Hungarian presidency to make last-ditch attempt to adopt conclusions on future CAP](https://www.euractiv.com/section/agriculture-food/news/hungarian-presidency-to-make-last-ditch-attempt-to-adopt-conclusions-on-future-cap/) [03-12-2024
+South Korean president faces impeachment calls after martial law debacle](https://www.euractiv.com/section/global-europe/news/south-korean-president-faces-impeachment-calls-after-martial-law-debacle/)[04-12-2024
 
-Council adopts recommendations for a smoke free environment with reservations](https://www.euractiv.com/section/health-consumers/news/council-adopts-recommendations-for-a-smoke-free-environment-with-reservations/)[03-12-2024
+Syria rebels ‘at gates’ of key city Hama, Putin urges Erdoğan to end the offensive](https://www.euractiv.com/section/global-europe/news/syria-rebels-at-gates-of-key-city-hama-putin-urges-erdogan-to-end-the-offensive/)[04-12-2024
 
-South Korean troops try to storm parliament after martial law declared](https://www.euractiv.com/section/global-europe/news/south-korean-troops-try-to-storm-parliament-after-martial-law-declared/)[03-12-2024
+Car giant Stellantis urged to put Italy’s interests first amid crisis](https://www.euractiv.com/section/politics/news/the-capitals-car-giant-stellantis-urged-to-put-italys-interests-first-amid-crisis/)[04-12-2024
 
-German chancellor hopeful Merz backpedals on Putin ‘ultimatum’](https://www.euractiv.com/section/global-europe/news/german-chancellor-hopeful-merz-backpedals-on-putin-ultimatum/) [03-12-2024
+Sheep plague outbreak exposes total distrust of Bulgarian institutions](https://www.euractiv.com/section/politics/news/sheep-plague-outbreak-exposes-total-distrust-of-bulgarian-institutions/)[04-12-2024
 
-RN’s move to oust Barnier leaves party at crossroads](https://www.euractiv.com/section/politics/news/rns-move-to-oust-barnier-leaves-party-at-crossroads/)[03-12-2024
+Polish Prime Minister Donald Tusk reiterated plans for a proactive Polish EU presidency](https://www.euractiv.com/section/politics/news/polish-prime-minister-donald-tusk-reiterated-plans-for-a-proactive-polish-eu-presidency/)[04-12-2024
 
-Poultry is the ‘meat’ in anti-Mercosur coalition](https://www.euractiv.com/section/agriculture-food/news/poultry-is-the-meat-in-anti-mercosur-coalition/)[03-12-2024
+Portuguese PM in favour of ‘European champions’ if not in France, Germany](https://www.euractiv.com/section/politics/news/portuguese-pm-in-favour-of-european-champions-if-not-in-france-germany/)[04-12-2024
 
-Irish election: Final results show centre-right parties’ coalition options](https://www.euractiv.com/section/politics/news/irish-election-final-results-show-centre-right-parties-coalition-options/)[03-12-2024
+Brussels won’t delay combustion engine ban beyond 2035, Ribera warns](https://www.euractiv.com/section/politics/news/brussels-wont-delay-combustion-engine-ban-beyond-2035-ribera-warns/)[04-12-2024
 
-Senator Ted Cruz demands probe into European influence on AI policy](http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2024:newsml_L5N3N40EY:984572914)[03-12-2024
+Georgia’s ombudsman accuses police of torturing pro-EU protesters](https://www.euractiv.com/section/global-europe/news/georgias-ombudsman-accuses-police-of-torturing-pro-eu-protesters/)[04-12-2024
 
-EU political groups agree on new, full-standing health committee](https://www.euractiv.com/section/health-consumers/news/eu-political-groups-agree-on-new-full-standing-health-committee/)
+Iceland’s Social Democratic party leader tapped to form new government](https://www.euractiv.com/section/politics/news/icelands-social-democratic-party-leader-tapped-to-form-new-government/)
 
 ###### Advertisement
 
