@@ -205,30 +205,30 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Honest Album Titles](https://www.somethingawful.com/photoshop-phriday/honest-album-titles/1/)
-* [Religious Toys](https://www.somethingawful.com/photoshop-phriday/religious-toys/1/)
-* [Design the Worst Band Shirt!](https://www.somethingawful.com/photoshop-phriday/worst-band-shirts/1/)
-* [Video Game Heroes Gone Bad](https://www.somethingawful.com/photoshop-phriday/video-game-heroes/1/)
-* [The Original Dungeons & Dragons](https://www.somethingawful.com/dungeons-and-dragons/steve-old-gygax/1/)
+* [Best Of Show](https://www.somethingawful.com/daily-dirt/best-of-show/)
+* [1-000-LAW-NOWW](https://www.somethingawful.com/news/call-law-noww/1/)
+* [The Arthouse of Horrors - PC Game Covers 2](https://www.somethingawful.com/news/steve-gaming-art/1/)
+* [Missed Memoriams: Rooney, Keane, Gaddafi, D](https://www.somethingawful.com/feature-articles/memoriam-obituary-rooney/)
+* [Photoshop Life](https://www.somethingawful.com/comedy-goldmine/photoshop-life/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/question.png) [Anybody else freaked out by that yellow banner?](http://forums.somethingawful.com/showthread.php?threadid=4076811 "Anybody else freaked out by that yellow banner?")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/science.png) [Wim Hof Method](http://forums.somethingawful.com/showthread.php?threadid=4076794 "Wim Hof Method")
-* ![](https://fi.somethingawful.com/forums/posticons/LF-fuckshitdamntag2.gif) [I stepped on a scorpion this morning and it stung me underneath my foot :(](http://forums.somethingawful.com/showthread.php?threadid=4076795 "I stepped on a scorpion this morning and it stung me underneath my foot :(")
-* ![](https://fi.somethingawful.com/forums/posticons/pokeball.gif) [The demented cartoon movie \[2001\]](http://forums.somethingawful.com/showthread.php?threadid=4076780 "The demented cartoon movie [2001]")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/music.png) [Tillamook it's the ice cream to serve](http://forums.somethingawful.com/showthread.php?threadid=4076762 "Tillamook it's the ice cream to serve")
-* ![](https://fi.somethingawful.com/forums/posticons/tviv-competition.gif) [Ridiculous things that have happened that nobody saw](http://forums.somethingawful.com/showthread.php?threadid=4076761 "Ridiculous things that have happened that nobody saw")
-* ![](https://fi.somethingawful.com/forums/posticons/tviv-competition.gif) [CEO of UnitedHealthCare Fatally Shot in targeted shooting](http://forums.somethingawful.com/showthread.php?threadid=4076829 "CEO of UnitedHealthCare Fatally Shot in targeted shooting")
 * ![](https://fi.somethingawful.com/forums/posticons/diy-homeimprove.gif) [Oh my god, the forums are back](http://forums.somethingawful.com/showthread.php?threadid=4076800 "Oh my god, the forums are back")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-slayer.gif) [ITT post your Spotify Wrapped 2024 (or whatever other music app you use)](http://forums.somethingawful.com/showthread.php?threadid=4076839 "ITT post your Spotify Wrapped 2024 (or whatever other music app you use)")
+* ![](https://fi.somethingawful.com/forums/posticons/pokeball.gif) [I found the roundest bird at work](http://forums.somethingawful.com/showthread.php?threadid=4076810 "I found the roundest bird at work")
+* ![](https://fi.somethingawful.com/forums/posticons/pokeball.gif) [The demented cartoon movie \[2001\]](http://forums.somethingawful.com/showthread.php?threadid=4076780 "The demented cartoon movie [2001]")
+* ![](https://fi.somethingawful.com/forums/posticons/tfr-box.gif) [what're you looking at on ebay](http://forums.somethingawful.com/showthread.php?threadid=4076847 "what're you looking at on ebay")
+* ![](https://fi.somethingawful.com/forums/posticons/LF-fuckshitdamntag2.gif) [I stepped on a scorpion this morning and it stung me underneath my foot :(](http://forums.somethingawful.com/showthread.php?threadid=4076795 "I stepped on a scorpion this morning and it stung me underneath my foot :(")
+* ![](https://fi.somethingawful.com/forums/posticons/tviv-competition.gif) [CEO of UnitedHealthCare Fatally Shot in targeted shooting](http://forums.somethingawful.com/showthread.php?threadid=4076829 "CEO of UnitedHealthCare Fatally Shot in targeted shooting")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/science.png) [Wim Hof Method](http://forums.somethingawful.com/showthread.php?threadid=4076794 "Wim Hof Method")
 
 ### Random Articles
 
-* [Derek Savage Presents Cool Cat (Thanks, Lowtax!)](https://www.somethingawful.com/awful-links/coolcat-derek-savage/)
-* [Project e-MANcipate](https://www.somethingawful.com/awful-links/male-pantyhose-emancipate/)
-* [Subj: EGGS](https://www.somethingawful.com/news/roamin-dad-32/)
-* [Warning Signs Your Date Has Become a Found Footage Movie](https://www.somethingawful.com/news/found-footage-date/)
-* [Reborn Dolls (Thanks, Petey!)](https://www.somethingawful.com/awful-links/reborn-dolls/)
+* [Videogame Violence](https://www.somethingawful.com/news/videogame-violence/)
+* [Highlights From The Game Developers Conference](https://www.somethingawful.com/video-game-article/gdc-rock-band/)
+* [New Changes to the Star Wars Saga](https://www.somethingawful.com/comedy-goldmine/new-changes-star/1/)
+* [The 13 Most Awful American Fears](https://www.somethingawful.com/most-awful/most-awful-fears/1/)
+* [Blameby Beta User Tutorial](https://www.somethingawful.com/news/blameby-baby-blame/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
