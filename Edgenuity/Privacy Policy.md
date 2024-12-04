@@ -73,7 +73,7 @@
             * [WebinarsUpcoming and on‑demand webinars crafted especially for educators](https://www.imaginelearning.com/support/webinars/)
             * [Funding & ResourcesMeet funding requirements and create equitable pathways for each student](https://www.imaginelearning.com/support/funding-resources/ "Funding & Resources")
             * [Video LibraryWatch customer success stories and product videos](https://video.imaginelearning.com/)
-        * * [Customer StoriesConnecting educators to training, resources, and ongoing program support](https://www.imaginelearning.com/community/success-stories/)
+        * * [Customer StoriesReal stories from empowered educators, inspired students, and engaged families](https://www.imaginelearning.com/community/success-stories/)
             * [Customer Learning LibraryConnecting educators to training, resources, and ongoing program support](https://www.imaginelearning.com/resources/customer-learning-library/)
 * [Community](https://www.imaginelearning.com/community/)
     * * * [CommunityA welcoming community of innovative educators who take learning beyond what’s imaginable](https://www.imaginelearning.com/community/)
