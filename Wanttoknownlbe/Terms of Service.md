@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/mind-control/the-message/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/10-jaar-wanttoknow-nl-be-wie-schrijft-die-blijft/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
