@@ -94,7 +94,7 @@ Learn more about our enterprise solution and get a demo from our sales team.](ht
 
 **Read our latest content**
 
-![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/674f471607eccc0a72de10c6_best-holiday-gifts-get-maine-lobster-meat-n-bone-grazy-goat-foods-spice-house.png)
+![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/674f60dcbf243f9d5c32db73_best-holiday-gifts-get-maine-lobster-meat-n-bone-grazy-goat-foods-spice-house1.png)
 
 ###### The Best Gifts for the Foodie in Your Life: Sweet Treats & Quality Meats
 
@@ -549,7 +549,7 @@ Tel: +1 (415) 610-5166
 
 Clearco Platform
 
-[How it works](https://clear.co/ecommerce-funding)[Invoice Funding](https://clear.co/platform/fund-ecommerce-vendor-invoices)[Receipt Funding](https://clear.co/platform/fund-ecommerce-vendor-receipt)[Holiday Funding](https://my.clearbanc.com/?initialScreen=signUp&cb-ex=ex-bfcm2024--)[Fund Advertising](https://clear.co/get-funding-for-advertising-budget-allocation)
+[How it works](https://clear.co/ecommerce-funding)[Invoice Funding](https://clear.co/platform/fund-ecommerce-vendor-invoices)[Receipt Funding](https://clear.co/platform/fund-ecommerce-vendor-receipt)[Holiday Funding](https://my.clearbanc.com/?initialScreen=signUp&cb-ex=ex-xmas2024)[Fund Advertising](https://clear.co/get-funding-for-advertising-budget-allocation)
 
 Ecommerce Funding
 
