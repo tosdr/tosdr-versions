@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![No arrests after 2 shot near South Dallas DART station](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/v-dallas-south-blvd-shooting-9p_00.00.34.30.jpg?ve=1&tl=1)
+
+ ![No arrests after 2 shot near South Dallas DART station](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/v-dallas-south-blvd-shooting-9p_00.00.34.30.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/no-arrests-after-2-shot-near-south-dallas-dart-station)
+
+### [No arrests after 2 shot near South Dallas DART station](https://www.fox4news.com/news/no-arrests-after-2-shot-near-south-dallas-dart-station)
+
+ [![Man found in van with guns, explosives in White Settlement planned to attack local church: report](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/white-settlement-suspicious-vehicle-arrest-scene-pic-1.jpg?ve=1&tl=1)
+
+ ![Man found in van with guns, explosives in White Settlement planned to attack local church: report](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/white-settlement-suspicious-vehicle-arrest-scene-pic-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/man-found-van-guns-explosives-white-settlement-planned-attack-local-church-report)
+
+### [Man found in van with guns, explosives in White Settlement planned to attack local church: report](https://www.fox4news.com/news/man-found-van-guns-explosives-white-settlement-planned-attack-local-church-report)
+
+ [![Ennis boil water notice continues; Ennis ISD classes canceled Wednesday](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/5h-ennis-boil-water-notice_00.00.01.30.jpg?ve=1&tl=1)
+
+ ![Ennis boil water notice continues; Ennis ISD classes canceled Wednesday](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/5h-ennis-boil-water-notice_00.00.01.30.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ennis-boil-water-notice-continues-ennis-isd-classes-canceled-wednesday)
+
+### [Ennis boil water notice continues; Ennis ISD classes canceled Wednesday](https://www.fox4news.com/news/ennis-boil-water-notice-continues-ennis-isd-classes-canceled-wednesday)
+
+ [![Hillsborough Sheriff Chad Chronister withdraws from President-elect Trump's DEA nomination](https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/12/32/18/chronister.jpg?ve=1&tl=1)
+
+ ![Hillsborough Sheriff Chad Chronister withdraws from President-elect Trump's DEA nomination](https://images.foxtv.com/images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/12/32/18/592/333/chronister.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hillsborough-sheriff-chad-chronister-withdraws-from-president-elect-trumps-dea-nomination)
+
+### [Hillsborough Sheriff Chad Chronister withdraws from President-elect Trump's DEA nomination](https://www.fox4news.com/news/hillsborough-sheriff-chad-chronister-withdraws-from-president-elect-trumps-dea-nomination)
+
  [![WATCH: Sundance Square lights largest live Christmas tree in Texas](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/120324-fort-worth-tree-light-kdfweme002_19_00_52_m_00.03.29.58.jpg?ve=1&tl=1)
 
  ![WATCH: Sundance Square lights largest live Christmas tree in Texas](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/120324-fort-worth-tree-light-kdfweme002_19_00_52_m_00.03.29.58.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/sundance-square-christmas-tree-lighting-livestream)
 
 ### [WATCH: Sundance Square lights largest live Christmas tree in Texas](https://www.fox4news.com/news/sundance-square-christmas-tree-lighting-livestream)
-
- [![No murder confession found in recordings seized from OJ Simpson's ex-bodyguard, police say](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/oj-simpson.jpg?ve=1&tl=1)
-
- ![No murder confession found in recordings seized from OJ Simpson's ex-bodyguard, police say](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/oj-simpson.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/oj-simpson-supposedly-confessed-murders-recording-tmz-reports-2024)
-
-### [No murder confession found in recordings seized from OJ Simpson's ex-bodyguard, police say](https://www.fox4news.com/news/oj-simpson-supposedly-confessed-murders-recording-tmz-reports-2024)
-
- [![Texas winter weather patterns look similar to 2021, ERCOT meteorologist says](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/09/32/18/POWER-LINES.jpg?ve=1&tl=1)
-
- ![Texas winter weather patterns look similar to 2021, ERCOT meteorologist says](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/09/32/18/592/333/POWER-LINES.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/texas-winter-weather-ercot-power-grid-2024)
-
-### [Texas winter weather patterns look similar to 2021, ERCOT meteorologist says](https://www.fox4news.com/news/texas-winter-weather-ercot-power-grid-2024)
-
- [![Dallas is lone finalist for FIFA World Cup International Broadcast Center](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/p-dial-fifa-international-broadcast-center-5p_00.01.40.52.jpg?ve=1&tl=1)
-
- ![Dallas is lone finalist for FIFA World Cup International Broadcast Center](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/p-dial-fifa-international-broadcast-center-5p_00.01.40.52.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-is-lone-finalist-fifa-world-cup-international-broadcast-center)
-
-### [Dallas is lone finalist for FIFA World Cup International Broadcast Center](https://www.fox4news.com/news/dallas-is-lone-finalist-fifa-world-cup-international-broadcast-center)
-
- [![Fair Park First partners with Dallas Foundation to get community park project back on track](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/p-lori-fair-park-first-audit-5p_00.01.27.58.jpg?ve=1&tl=1)
-
- ![Fair Park First partners with Dallas Foundation to get community park project back on track](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/p-lori-fair-park-first-audit-5p_00.01.27.58.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fair-park-first-partners-dallas-foundation-community-park)
-
-### [Fair Park First partners with Dallas Foundation to get community park project back on track](https://www.fox4news.com/news/fair-park-first-partners-dallas-foundation-community-park)
 
 ###### [News](https://www.fox4news.com/news)
 
