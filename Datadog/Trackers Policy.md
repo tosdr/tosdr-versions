@@ -561,6 +561,8 @@ Blog
 
 ×
 
+I'd like Datadog to share the latest news about Datadog services and related offerings with me by email or telephone. You may unsubscribe at any time by following the instructions in the communications received from Datadog.
+
 Get Started with Datadog
 
 Get Started with Datadog
