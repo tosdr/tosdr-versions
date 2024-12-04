@@ -1,13 +1,14 @@
 [Skip to content](#content "Skip to content")
 
-[![Driverge Vehicle Innovations](data:image/svg+xml;nitro-empty-id=MTk4OjU1NQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDUzIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjUzIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://www.driverge.com/)[![Driverge Vehicle Innovations](data:image/svg+xml;nitro-empty-id=MTk4OjEyMDc=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDIyMSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIyMjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.driverge.com/)
-
-* [Driverge Canada](https://wheelchairvans.ca/)
-* [News & Product Updates](https://www.driverge.com/about/driverge-news/)
-* [Parts](https://www.driverge.com/support/commercial-van-parts/)
-* [Careers](https://www.driverge.com/about/careers/)
-* [Contact](https://www.driverge.com/contact/)
+* [For Consumers](https://www.driverge.com/consumers/)
+* [For Dealers](https://www.driverge.com/for-dealers/)
 * [(855) 337-9543](tel:8553379543)
+
+Search for: 
+
+[Search](#)
+
+[![Driverge Vehicle Innovations](https://www.driverge.com/wp-content/uploads/2020/01/cropped-Driverge-Horiz-Registerd-200x53.png)](https://www.driverge.com/)[![Driverge Vehicle Innovations](https://www.driverge.com/wp-content/uploads/2024/09/driverge-logo-transparent-white.png)](https://www.driverge.com/)
 
 * [Accessible Vans](#)Menu Toggle
     * [Full-Sized Vans](https://www.driverge.com/vehicles/full-size-mobility-vans/)Menu Toggle
@@ -19,7 +20,7 @@
                 * [150 Short Wheel Base Layouts](https://www.driverge.com/vehicles/ford/ford-transit-150-swb-layouts/)
                 * [350 HD Layouts](https://www.driverge.com/vehicles/ford/ford-transit-350-hd-layouts/)
                 * [350 Long Wheel Base Layouts](https://www.driverge.com/vehicles/ford/ford-transit-350-lwb-layouts/)
-                * [Ford E-Transit](https://www.driverge.com/vehicles/ford/ford-e-transit/)
+                * [Ford E-Transit](https://www.driverge.com/consumers/vehicles/ford/ford-e-transit/)
         * [RAM ProMaster](https://www.driverge.com/vehicles/RAM/)Menu Toggle
             * [(Rear Entry) Non-Emergency Medical Transport](https://www.driverge.com/vehicles/ram/ram-promaster-nemt/)
             * [(Rear Entry) Wheelchair Van](https://www.driverge.com/vehicles/ram/ram-promaster-wheelchair-ramp/)
@@ -103,11 +104,7 @@
         * [Training Videos](https://www.driverge.com/support/product-training-videos/)
 * [About](https://www.driverge.com/about/)
 
-Search for: 
-
-[Search](#)
-
-[![Driverge Vehicle Innovations](data:image/svg+xml;nitro-empty-id=MzMwOjU1NQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDUzIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjUzIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://www.driverge.com/)[![Driverge Vehicle Innovations](data:image/svg+xml;nitro-empty-id=MzMwOjEyMDc=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDIyMSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIyMjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.driverge.com/)
+[![Driverge Vehicle Innovations](https://www.driverge.com/wp-content/uploads/2020/01/cropped-Driverge-Horiz-Registerd-200x53.png)](https://www.driverge.com/)[![Driverge Vehicle Innovations](https://www.driverge.com/wp-content/uploads/2024/09/driverge-logo-transparent-white.png)](https://www.driverge.com/)
 
 Main Menu
 
@@ -121,7 +118,7 @@ Main Menu
                 * [150 Short Wheel Base Layouts](https://www.driverge.com/vehicles/ford/ford-transit-150-swb-layouts/)
                 * [350 HD Layouts](https://www.driverge.com/vehicles/ford/ford-transit-350-hd-layouts/)
                 * [350 Long Wheel Base Layouts](https://www.driverge.com/vehicles/ford/ford-transit-350-lwb-layouts/)
-                * [Ford E-Transit](https://www.driverge.com/vehicles/ford/ford-e-transit/)
+                * [Ford E-Transit](https://www.driverge.com/consumers/vehicles/ford/ford-e-transit/)
         * [RAM ProMaster](https://www.driverge.com/vehicles/RAM/)Menu Toggle
             * [(Rear Entry) Non-Emergency Medical Transport](https://www.driverge.com/vehicles/ram/ram-promaster-nemt/)
             * [(Rear Entry) Wheelchair Van](https://www.driverge.com/vehicles/ram/ram-promaster-wheelchair-ramp/)
@@ -205,11 +202,8 @@ Main Menu
         * [Training Videos](https://www.driverge.com/support/product-training-videos/)
 * [About](https://www.driverge.com/about/)
 
-* [Driverge Canada](https://wheelchairvans.ca/)
-* [News & Product Updates](https://www.driverge.com/about/driverge-news/)
-* [Parts](https://www.driverge.com/support/commercial-van-parts/)
-* [Careers](https://www.driverge.com/about/careers/)
-* [Contact](https://www.driverge.com/contact/)
+* [For Consumers](https://www.driverge.com/consumers/)
+* [For Dealers](https://www.driverge.com/for-dealers/)
 * [(855) 337-9543](tel:8553379543)
 
 [Request a Quote](https://www.driverge.com/contact/)[Request a Quote](https://www.driverge.com/contact/)
@@ -334,11 +328,11 @@ If applicable, you may exercise any of your rights in relation to your Personal 
 Vehicles
 --------
 
-* [ADA Accessible Minivans](https://www.driverge.com/vehicles/ada-compliant-accessible-minivans/)
-* [Minivans](https://www.driverge.com/vehicles/minivans/)
-* [Full-Size Mobility Vans](https://www.driverge.com/vehicles/full-size-mobility-vans/)
-* [People Transporters](https://www.driverge.com/vehicles/transporters/)
-* [Work and Crew Vans](https://www.driverge.com/vehicles/work-crew-vans/)
+* [ADA Accessible Minivans](https://www.driverge.com/consumers/vehicles/ada-compliant-accessible-minivans/)
+* [Minivans](https://www.driverge.com/consumers/vehicles/minivans/)
+* [Full-Size Mobility Vans](https://www.driverge.com/consumers/vehicles/full-size-mobility-vans/)
+* [People Transporters](https://www.driverge.com/consumers/vehicles/transporters/)
+* [Work and Crew Vans](https://www.driverge.com/consumers/vehicles/work-crew-vans/)
 * [Custom Conversions](https://www.driverge.com/vehicles/custom-conversion-vans/)
 
 Products
@@ -350,7 +344,7 @@ Products
 * [Wheelchair Lifts](https://www.driverge.com/product-innovation/wheelchair-lifts-vans/)
 * [Wheelchair Securement](https://www.driverge.com/product-innovation/wheelchair-securement-systems/)
 * [Ford Transit Smart Shuttle](https://www.driverge.com/product-innovation/smart-shuttle-options/)
-* [Mercedes-Benz Metris Getaway & Camper Vans](https://www.driverge.com/vehicles/mercedes-benz/mercedes-camper-van/)
+* [Mercedes-Benz Metris Getaway & Camper Vans](https://www.driverge.com/consumers/vehicles/mercedes-benz/mercedes-camper-van/)
 * [Driver Guard](https://www.driverge.com/product-innovation/driver-guard/)
 
 Parts, Service & Training
@@ -406,7 +400,7 @@ When designing your custom wheelchair accessible vehicle, floor plan configurati
 
 ×
 
-![](data:image/svg+xml;nitro-empty-id=NzEzOjU5Mw==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzc4IDMxNCIgd2lkdGg9Ijc3OCIgaGVpZ2h0PSIzMTQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
+![](https://www.driverge.com/wp-content/uploads/2022/01/driverge-cannabis-laws-and-regulations.png)
 
 Please fill out the form below to receive immediate access to our Laws and Regulations for Transporting Cannabis by State whitepaper.
 
