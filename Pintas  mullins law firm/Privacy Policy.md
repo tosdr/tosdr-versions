@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Phone
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![How common is abuse in elderly care facilities?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-how-common-is-abuse-in-elderly-care-facilities-scaled.jpg "How Common Is Abuse in Elderly Care Facilities?")](https://www.pintas.com/faq/how-common-is-abuse-in-elderly-care-facilities/ "How Common Is Abuse in Elderly Care Facilities?")
+[![How do i know if a dog bite is infected?](https://www.pintas.com/wp-content/uploads/2023/06/dog-bite-hero-300x211.jpg "How Do I Know if a Dog Bite Is Infected?")](https://www.pintas.com/practice-areas/dog-bite-lawyer/how-to-tell-if-a-bite-is-infected "How Do I Know if a Dog Bite Is Infected?")
 
-[#### How Common Is Abuse in Elderly Care Facilities?](https://www.pintas.com/faq/how-common-is-abuse-in-elderly-care-facilities/)
+[#### How Do I Know if a Dog Bite Is Infected?](https://www.pintas.com/practice-areas/dog-bite-lawyer/how-to-tell-if-a-bite-is-infected)
 
-[![Did roundup change their formula?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancerdid-roundup-change-their-formula-scaled.jpg "Did Roundup Change Their Formula?")](https://www.pintas.com/lawsuit/roundup-weed-killer/did-roundup-change-their-formula/ "Did Roundup Change Their Formula?")
+[![How do bones break?](https://www.pintas.com/wp-content/uploads/2020/09/broken-bones-how-do-bones-break.jpg "How Do Bones Break?")](https://www.pintas.com/faq/broken-bones/ "How Do Bones Break?")
 
-[#### Did Roundup Change Their Formula?](https://www.pintas.com/lawsuit/roundup-weed-killer/did-roundup-change-their-formula/)
+[#### How Do Bones Break?](https://www.pintas.com/faq/broken-bones/)
 
-[![Can i file a talcum powder lawsuit?](https://www.pintas.com/wp-content/uploads/2020/03/johnson-and-johnson-talcum-powder-lawsuit-lawyer-can-i-file-a-talcum-powder-lawsuit.jpg "Can I File a Talcum Powder Lawsuit?")](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/can-i-file-a-talcum-powder-lawsuit/ "Can I File a Talcum Powder Lawsuit?")
+[![How do you know if you have asbestos in your body?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-how-do-you-know-if-you-have-asbestos-in-your-body-scaled.jpg "How Do You Know If You Have Asbestos in Your Body?")](https://www.pintas.com/lung-cancer/how-do-you-know-if-you-have-asbestos-in-your-body/ "How Do You Know If You Have Asbestos in Your Body?")
 
-[#### Can I File a Talcum Powder Lawsuit?](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/can-i-file-a-talcum-powder-lawsuit/)
+[#### How Do You Know If You Have Asbestos in Your Body?](https://www.pintas.com/lung-cancer/how-do-you-know-if-you-have-asbestos-in-your-body/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
