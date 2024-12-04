@@ -196,6 +196,7 @@ Toggle Navigation
         * [Downtown Campus](https://web.ucalgary.ca/about/our-campuses/downtown-campus)
         * [Spyhill Campus](https://web.ucalgary.ca/about/our-campuses/spyhill-campus)
         * [Campus maps and room finder](https://web.ucalgary.ca/about/our-campuses/campus-maps-and-room-finder)
+* [Life Design Programming](https://web.ucalgary.ca/life-design-programming)
 
 Website Terms & Conditions of Use
 =================================
