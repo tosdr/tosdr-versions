@@ -84,7 +84,7 @@ Sign in
     
     [New Arrivals](https://www.lttstore.com/collections/all-products-1) [Best Sellers](https://www.lttstore.com/collections/all-products-1?sort_by=best-selling) [Our Favorites](https://www.lttstore.com/collections/top-sellers) [All Discounts](https://www.lttstore.com/collections/discounted)
     
-    [![Collection Image](//www.lttstore.com/cdn/shop/collections/lttstore_MagneticCableManagement_Lifestyle-05_93cbf9b8-06cc-426e-9a92-10b33484e221.webp?v=1732510997&width=400)
+    [![Collection Image](//www.lttstore.com/cdn/shop/collections/lttstore_MagneticCableManagement_Lifestyle-05_93cbf9b8-06cc-426e-9a92-10b33484e221.webp?v=1733331191&width=400)
     
     Magnetic Cable Management](https://www.lttstore.com/collections/mcm-landing)
     
