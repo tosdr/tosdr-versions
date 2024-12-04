@@ -36,7 +36,7 @@ Termos e condições de usoPolítica de privacidade
 #### Mais cashback
 
 * [Como Usar Cupom de Desconto?](https://www.meliuz.com.br/blog/o-que-e-um-cupom-de-desconto/)
-* [Black Friday 2024](https://www.meliuz.com.br/black-friday)
+* [Black Friday](https://www.meliuz.com.br/black-friday)
 
 #### Parceria com lojas e indústrias
 
