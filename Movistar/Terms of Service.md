@@ -14,7 +14,7 @@ Tiendas
 
  
 
-[](https://www.movistar.es/auth/login?redirect=https://www.movistar.es "tiendas movistar")
+[](https://www.movistar.es/mimovistar-cliente/publico/servicio/login?urlContenedora=https://www.movistar.es/Privada/DesafioUnico&urlDestino=https://www.movistar.es/static/login/authcol?urlDestino=https://www.movistar.es/autonomos "tiendas movistar")
 
 Identifícate
 
@@ -24,7 +24,7 @@ Hola, 
 
 Mi cuenta 
 
-[Ofertas Cyber Monday](https://www.movistar.es/black-friday "Enlace a Ofertas Black Friday") [miMovistar: Fibra, móvil y TV](https://www.movistar.es/fibra-y-movil/ "Enlace a fibra y movil") [Fibra](https://www.movistar.es/fibra-optica/ "Enlace a Fibra Óptica") [Tarifas móviles](https://www.movistar.es/tarifas-moviles/ "Enlace a Tarifas móviles") [Televisión](https://www.movistar.es/tv/ "Enlace a Televisión") [Móviles y dispositivos](https://www.movistar.es/moviles/ "Enlace a Móviles y dispositivos") [Más servicios](https://www.movistar.es/mas-servicios/ "Enlace a Más servicios")
+[miMovistar: Fibra, móvil y TV](https://www.movistar.es/fibra-y-movil/ "Enlace a fibra y movil") [Fibra](https://www.movistar.es/fibra-optica/ "Enlace a Fibra Óptica") [Tarifas móviles](https://www.movistar.es/tarifas-moviles/ "Enlace a Tarifas móviles") [Televisión](https://www.movistar.es/tv/ "Enlace a Televisión") [Móviles y dispositivos](https://www.movistar.es/moviles/ "Enlace a Móviles y dispositivos") [Alarmas](https://www.movistar.es/alarmas-para-casa/ "Enlace a Alarmas") [Ofertas](https://www.movistar.es/ofertas-movistar/ "Enlace a Ofertas") [Más servicios](https://www.movistar.es/mas-servicios/ "Enlace a Más servicios")
 
 [Autónomos](https://www.movistar.es/autonomos "Enlace a Autónomos")
 
@@ -39,10 +39,6 @@ Ofertas para
 
  
 
-[](https://www.movistar.es/black-friday "Ofertas Black Friday")
-
-Ofertas Cyber Monday
-
 [](https://www.movistar.es/fibra-y-movil "Fibra, móvil y TV")
 
 miMovistar: Fibra, móvil y TV
@@ -50,6 +46,8 @@ miMovistar: Fibra, móvil y TV
 [](https://www.movistar.es/fibra-optica/ "Fibra")
 
 Fibra
+
+   Promoción   
 
 [](https://www.movistar.es/tarifas-moviles/ "Tarifas móviles")
 
@@ -67,11 +65,15 @@ Móviles y dispositivos
 
 Alarmas
 
+[](https://www.movistar.es/ofertas-movistar/ "Ofertas")
+
+Ofertas
+
 [](https://www.movistar.es/compramos-tu-movil/ "Compramos tu móvil")
 
 Compramos tu móvil
 
-[](https://www.movistar.es/fibra-optica/fibra-fttr/ "Compramos tu móvil")
+[](https://www.movistar.es/fibra-optica/fibra-fttr "Compramos tu móvil")
 
 Fibra FTTR
 
@@ -103,7 +105,7 @@ Empresas
 
 [](https://www.movistar.es/mimovistar-cliente/publico/servicio/login?urlContenedora=https://www.movistar.es/Privada/DesafioUnico&urlDestino=https://www.movistar.es/autonomos "identifícate")
 
-[](https://www.movistar.es/auth/login?redirect=https://www.movistar.es "Identifícate")
+[](https://www.movistar.es/mimovistar-cliente/publico/servicio/login?urlContenedora=https://www.movistar.es/Privada/DesafioUnico&urlDestino=https://www.movistar.es/autonomos "Identifícate")
 
 Identifícate
 
@@ -135,8 +137,6 @@ Tiendas
 
 Ayuda
 
-   Novedad   
-
 Titular de la cuenta
 
 [](https://www.movistar.es/area-cliente/mis-productos "hamburger link")
@@ -167,7 +167,7 @@ Mi perfil
 
 [Atención al cliente](https://www.movistar.es/mimovistar-cliente/publico/acceso/privado/soporte "Atención al cliente")
 
-[](https://www.movistar.es/auth/logout?redirect=https://www.movistar.es "identificate")
+[](https://www.movistar.es/mimovistar-cliente/publico/servicio/login?urlContenedora=https://www.movistar.es/Privada/DesafioUnico&urlDestino=https://www.movistar.es/autonomos "identificate")
 
 Cerrar sesión
 
