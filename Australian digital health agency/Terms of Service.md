@@ -38,7 +38,7 @@ Search
 
 * [For everyone](https://www.digitalhealth.gov.au/)
 * [For healthcare providers](https://www.digitalhealth.gov.au/healthcare-providers)
-* [For mhr everyone](https://www.digitalhealth.gov.au/initiatives-and-programs/my-health-record)
+* [For mhr everyone](https://www.digitalhealth.gov.au/initiatives-and-programs/my-health-record-a-secure-digital-health-record-for-all-australians)
 * [For mhr hcp](https://www.digitalhealth.gov.au/healthcare-providers/initiatives-and-programs/my-health-record)
 * [For ndhs](https://www.digitalhealth.gov.au/discover-the-national-digital-health-strategy-2023-2028)
 
