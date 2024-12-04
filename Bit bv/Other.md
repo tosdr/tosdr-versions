@@ -169,7 +169,9 @@ T**
 
 #### [Incidenten](https://www.bit.nl/incidenten)
 
-\-
+[04-12-24 Probleem met shared hosting database server](https://www.bit.nl/news/3628/92/Probleem-met-shared-hosting-database-server)
+
+[](https://www.bit.nl/incidenten)
 
 BIT  
 Galileïlaan 19  
