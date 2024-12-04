@@ -4,7 +4,7 @@
 
 [Skip to content](#MainContent)
 
-BLACK FRIDAY SALE: Buy one Sleep Pod, get another 50% OFF!
+HOLIDAY SALE: Buy one Sleep Pod, get another 50% OFF!
 
 [](javascript:void(0);)
 
@@ -19,7 +19,7 @@ BLACK FRIDAY SALE: Buy one Sleep Pod, get another 50% OFF!
 
 [![mother tucking in son in sleep pod](//hugsleep.com/cdn/shop/files/SquarePDPs.001.jpg?v=1709244147&width=533)
 
-420 reviews
+421 reviews
 
 ### Kids - Hooded Sleep Pod Move
 
@@ -31,7 +31,7 @@ Unit price /  per](https://hugsleep.com/products/kids-hooded-sleep-pod-move) 
 
 [![woman laying in bed with sleep pod asleep](//hugsleep.com/cdn/shop/products/download.jpg?v=1659988966&width=533)
 
-420 reviews
+421 reviews
 
 ### Sleep Pod Move
 
@@ -43,13 +43,13 @@ Unit price /  per](https://hugsleep.com/products/sleep-pod-move-adult) 
 
 [![man in bed with hooded sleep pod move](//hugsleep.com/cdn/shop/files/Untitled5.007.jpg?v=1695958490&width=533)
 
-420 reviews
+421 reviews
 
 ### Hooded Sleep Pod Move
 
-Regular price $84.99
+Regular price $89.99
 
-Regular price ~$129.99~ Sale price $84.99
+Regular price ~$129.99~ Sale price $89.99
 
 Unit price /  per](https://hugsleep.com/products/sleep-pod-move-hood) 
 
