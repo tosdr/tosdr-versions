@@ -117,57 +117,63 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Saving time, saving money
-> -------------------------
+> Impossible to run our businesses without IO
+> -------------------------------------------
 > 
-> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
+> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
+>   
+> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
+>   
+> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
+>   
+> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
 
-Cornel Erasmus - TELA Loss Adjusters & Assessors
+Kobus Venter
 
-![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=ca063735df78b067de0a46105d026d80511c41f8c3d394baaeac6b51ded18cb9&c=140249780)  
-Lemba Truck Stop
+![valued client The Gourmet Artisans Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8737&file=logo_300_100&type=&fe=ea91408795ab3e002167355d4f97742fea499aa5790297b8cc5984c8841eb960&c=173352647)  
+The Gourmet Artisans Ltd.
 
-![valued client Cooper Power](https://www.invoicesonline.co.za/scripts/image.php?bid=8689&file=logo_300_100&type=&fe=ca063735df78b067de0a46105d026d80511c41f8c3d394baaeac6b51ded18cb9&c=139334507)  
-Cooper Power
+![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=ea91408795ab3e002167355d4f97742fea499aa5790297b8cc5984c8841eb960&c=2539748)  
+Little Nutty Professors
 
-![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=ca063735df78b067de0a46105d026d80511c41f8c3d394baaeac6b51ded18cb9&c=82085196)  
+![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=ea91408795ab3e002167355d4f97742fea499aa5790297b8cc5984c8841eb960&c=39367439)  
+UMVIKELI PRIVATE SECURITY
+
+![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=ea91408795ab3e002167355d4f97742fea499aa5790297b8cc5984c8841eb960&c=81273538)  
+Firstweb Hosting & Design
+
+![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=ea91408795ab3e002167355d4f97742fea499aa5790297b8cc5984c8841eb960&c=7642070)  
+Multi CNC Solutions CC
+
+![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=ea91408795ab3e002167355d4f97742fea499aa5790297b8cc5984c8841eb960&c=156193901)  
+Beyond Laser CNC Cutting Technology South Africa CC
+
+![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=ea91408795ab3e002167355d4f97742fea499aa5790297b8cc5984c8841eb960&c=127555213)  
+Laurinda Pretorius Spraak en Drama Ateljee
+
+![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=ea91408795ab3e002167355d4f97742fea499aa5790297b8cc5984c8841eb960&c=70165753)  
+Skinz Printing & Branding
+
+![valued client Hydroworld PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=ea91408795ab3e002167355d4f97742fea499aa5790297b8cc5984c8841eb960&c=196909577)  
+Hydroworld PTY LTD
+
+![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=ea91408795ab3e002167355d4f97742fea499aa5790297b8cc5984c8841eb960&c=96342530)  
 Adele Jordaan T/A Joyful Noise Music Room
 
-![valued client MONSTER SECURITY SERVICES (NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=ca063735df78b067de0a46105d026d80511c41f8c3d394baaeac6b51ded18cb9&c=176623371)  
-MONSTER SECURITY SERVICES (NORTHAM)
+![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=ea91408795ab3e002167355d4f97742fea499aa5790297b8cc5984c8841eb960&c=56358783)  
+Waterfinatics Swim School
 
-![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=ca063735df78b067de0a46105d026d80511c41f8c3d394baaeac6b51ded18cb9&c=27152396)  
-INVOICES/JOBCARDS ONLINE
+![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=ea91408795ab3e002167355d4f97742fea499aa5790297b8cc5984c8841eb960&c=59917962)  
+OXYAIDER (PTY) LTD
 
-![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=ca063735df78b067de0a46105d026d80511c41f8c3d394baaeac6b51ded18cb9&c=186741683)  
-United Paintball Federation
+![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=ea91408795ab3e002167355d4f97742fea499aa5790297b8cc5984c8841eb960&c=37726989)  
+Camp 4 Africa (Pty) Ltd
 
-![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=ca063735df78b067de0a46105d026d80511c41f8c3d394baaeac6b51ded18cb9&c=8817453)  
-IAS Logistics (Pty) Ltd T/A MULTITRANSIT
+![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=ea91408795ab3e002167355d4f97742fea499aa5790297b8cc5984c8841eb960&c=168677812)  
+Xpress Designs
 
-![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=ca063735df78b067de0a46105d026d80511c41f8c3d394baaeac6b51ded18cb9&c=175455052)  
-Highlands Auto Engineering
-
-![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=ca063735df78b067de0a46105d026d80511c41f8c3d394baaeac6b51ded18cb9&c=193380685)  
-SLOANE STAR MEAT MARKET
-
-![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=ca063735df78b067de0a46105d026d80511c41f8c3d394baaeac6b51ded18cb9&c=156846782)  
-Karino Merinos ( PTY ) LTD
-
-![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=ca063735df78b067de0a46105d026d80511c41f8c3d394baaeac6b51ded18cb9&c=81554918)  
-Kinetic Power Solutions (Pty) Ltd.
-
-![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=ca063735df78b067de0a46105d026d80511c41f8c3d394baaeac6b51ded18cb9&c=79247833)  
-Itroniq (Pty) Ltd
-
-![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=ca063735df78b067de0a46105d026d80511c41f8c3d394baaeac6b51ded18cb9&c=2971110)  
-Blue Bulls Rugby Coaches Association
-
-![valued client SAUL ATHOL ACRES RENTAL](https://www.invoicesonline.co.za/scripts/image.php?bid=8430&file=logo_300_100&type=&fe=ca063735df78b067de0a46105d026d80511c41f8c3d394baaeac6b51ded18cb9&c=38021869)  
-SAUL ATHOL ACRES RENTAL
-
-![valued client FLIPS AUTO ELECTRICAL ](https://www.invoicesonline.co.za/scripts/image.php?bid=8725&file=logo_300_100&type=&fe=ca063735df78b067de0a46105d026d80511c41f8c3d394baaeac6b51ded18cb9&c=168885802)  
-FLIPS AUTO ELECTRICAL
+![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=ea91408795ab3e002167355d4f97742fea499aa5790297b8cc5984c8841eb960&c=123493057)  
+Frequency Fanatics (Pty) Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
