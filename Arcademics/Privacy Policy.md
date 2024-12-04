@@ -37,8 +37,8 @@ Privacy Policy
 
 Your privacy is important to Arcademics. This privacy policy covers how we collect, use, disclose, and store your information. By using Arcademics, you agree to the terms and conditions of this privacy policy. Please [contact us](https://www.arcademics.com/contact) if you have any questions concerning our privacy practices.
 
-1\. Collection and Use of Personal Information
-----------------------------------------------
+Collection and Use of Personal Information
+------------------------------------------
 
 Personal information is data that can be used to uniquely identify or contact a single person.
 
@@ -48,13 +48,13 @@ We may also ask for your credit card information if you have a paid account. Thi
 
 If you have a student account, any teachers linked to your school account will be able to access your login details and data from the games that you have played.
 
-2\. Sharing of Personal Information
------------------------------------
+Sharing of Personal Information
+-------------------------------
 
 All personal information collected for use on the Arcademics website is kept confidential. No personal information is sold, traded, or distributed to other agencies or organizations.
 
-3\. Cookies and Other Technologies
-----------------------------------
+Cookies and Other Technologies
+------------------------------
 
 A cookie is a small piece of data sent from a web server and stored in a user's browser. The browser then sends the cookie back to the server the next time a page is referenced.
 
@@ -64,26 +64,26 @@ When you log in to Arcademics Plus, we use cookies to remember your session. Thi
 
 Third party vendors, including Google, use cookies to serve ads based on our user's prior visits to our website. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on your visit to our site and/or other sites on the Internet.
 
-4\. Data Security
------------------
+Data Security
+-------------
 
 We have implemented a variety of physical, organizational, and technological measures designed to protect the security and integrity of personal information from loss, misuse, and unauthorized access.
 
 If personal information under our control is compromised as a result of a breach of security, we will take reasonable steps to investigate the situation and take all steps required by applicable laws and regulations.
 
-5\. Data Retention
-------------------
+Data Retention
+--------------
 
 We retain personal information only as long as necessary to provide the service for which that information was collected.
 
 When we have no ongoing legitimate business need to process your personal information, it will be deleted or de-identified as soon as possible and in accordance with applicable laws.
 
-6\. Children
-------------
+Children
+--------
 
 We do not collect personal information from children under 13 years of age. Any personal information connected to a child's account is provided by their instructor and consists only of a username, a name, and an optional grade level. The school may elect to provide a name which is not readily identifiable to anyone outside of the school community in lieu of a full name. We do not have actual knowledge of students' age, gender, or any other demographic information.
 
-We make multiplayer educational games - free math games, free language arts games, and more for K-8 students. With Arcademics Plus, teachers and parents can view data reports and customize game content. Arcademics games can be played on the [iPad app](https://apps.apple.com/app/arcademics/id655870953) and [Android app.](https://play.google.com/store/apps/details?id=air.com.arcademics.Arcademics)
+We make multiplayer educational games - free math games, free language arts games, and more for K-8 students. With Arcademics Plus, teachers and parents can view data reports and customize game content.
 
 Useful Links
 ------------
