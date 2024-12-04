@@ -41,20 +41,32 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![A woman reading a book on a sofa](https://www.women.com/img/gallery/the-best-books-of-2024-for-every-genre-interest/intro-1733166416.jpg)](https://www.women.com/1726951/best-books-2024-every-genre-interest/)
+*  [![Selena Gomez cuddling with Benny Blanco](https://www.women.com/img/gallery/how-compatible-are-selena-gomez-and-benny-blanco-according-to-astrology/intro-1732727166.jpg)](https://www.women.com/1724488/selena-gomez-benny-blanco-compatibility-astrology/)
     
-    [Living](https://www.women.com/category/living/)
+    [Exclusives](https://www.women.com/category/exclusives/)
     
-    [Living](https://www.women.com/category/living/) By Bernadette Roe
+    [Exclusives](https://www.women.com/category/exclusives/) By Emily Hutchinson
     
-    [The Best Books Of 2024 For Every Genre & Interest](https://www.women.com/1726951/best-books-2024-every-genre-interest/)
-    ========================================================================================================================
+    [How Compatible Are Selena Gomez And Benny Blanco, According To Astrology?](https://www.women.com/1724488/selena-gomez-benny-blanco-compatibility-astrology/)
+    =============================================================================================================================================================
     
-    There was a magnificent bounty of new book releases in 2024, and we've selected the best of each genre to help you enjoy the crème de la crème.
+    Selena Gomez and Benny Blanco give us major couple goals. Both of their zodiac signs are true romantics at heart but, are they truly compatible?
     
-    By Bernadette Roe [Read More](https://www.women.com/1726951/best-books-2024-every-genre-interest/)
+    By Emily Hutchinson [Read More](https://www.women.com/1724488/selena-gomez-benny-blanco-compatibility-astrology/)
     
-* *  [![Woman looking at her phone in the bath](https://www.women.com/img/gallery/sex-in-a-long-distance-relationship-what-to-know-and-how-to-make-it-work/intro-1732636315.jpg)](https://www.women.com/1723224/sex-long-distance-relationship-what-know-how-make-work/)
+* *  [![A woman reading a book on a sofa](https://www.women.com/img/gallery/the-best-books-of-2024-for-every-genre-interest/intro-1733166416.jpg)](https://www.women.com/1726951/best-books-2024-every-genre-interest/)
+        
+        [Living](https://www.women.com/category/living/)
+        
+        [Living](https://www.women.com/category/living/) By Bernadette Roe
+        
+        ### [The Best Books Of 2024 For Every Genre & Interest](https://www.women.com/1726951/best-books-2024-every-genre-interest/)
+        
+        There was a magnificent bounty of new book releases in 2024, and we've selected the best of each genre to help you enjoy the crème de la crème.
+        
+        By Bernadette Roe [Read More](https://www.women.com/1726951/best-books-2024-every-genre-interest/)
+        
+    *  [![Woman looking at her phone in the bath](https://www.women.com/img/gallery/sex-in-a-long-distance-relationship-what-to-know-and-how-to-make-it-work/intro-1732636315.jpg)](https://www.women.com/1723224/sex-long-distance-relationship-what-know-how-make-work/)
         
         [Exclusives](https://www.women.com/category/exclusives/)
         
@@ -65,18 +77,6 @@
         Even when you're not physically together, keeping your mind and body sexually engaged with each other is important for consistently maintaining that intimacy.
         
         By Amanda Chatel [Read More](https://www.women.com/1723224/sex-long-distance-relationship-what-know-how-make-work/)
-        
-    *  [![Asian woman browsing books at a bookstore](https://www.women.com/img/gallery/10-mystery-thriller-books-we-cant-wait-for-in-2025/intro-1732295218.jpg)](https://www.women.com/1720983/mystery-thriller-books-cant-wait-for-2025/)
-        
-        [Living](https://www.women.com/category/living/)
-        
-        [Living](https://www.women.com/category/living/) By Madison Emily Whisenand
-        
-        ### [10 Mystery & Thriller Books We Can't Wait For In 2025](https://www.women.com/1720983/mystery-thriller-books-cant-wait-for-2025/)
-        
-        A new year means new books, and 2025 will see some great additions to your shelf. Fans of mysteries and thrillers should check out these 10 upcoming releases.
-        
-        By Madison Emily Whisenand [Read More](https://www.women.com/1720983/mystery-thriller-books-cant-wait-for-2025/)
         
 
 More Stories
@@ -93,6 +93,18 @@ More Stories
     The slicked-back bun seems to be everywhere in 2024, seen on the red carpet as well as on the street. Here are five celebrities who have perfected the look.
     
     By Madison Emily Whisenand [Read More](https://www.women.com/1719912/celebs-who-mastered-art-slicked-back-bun/)
+    
+*  [![Asian woman browsing books at a bookstore](https://www.women.com/img/gallery/10-mystery-thriller-books-we-cant-wait-for-in-2025/intro-1732295218.jpg)](https://www.women.com/1720983/mystery-thriller-books-cant-wait-for-2025/)
+    
+    [Living](https://www.women.com/category/living/)
+    
+    [Living](https://www.women.com/category/living/) By Madison Emily Whisenand
+    
+    ### [10 Mystery & Thriller Books We Can't Wait For In 2025](https://www.women.com/1720983/mystery-thriller-books-cant-wait-for-2025/)
+    
+    A new year means new books, and 2025 will see some great additions to your shelf. Fans of mysteries and thrillers should check out these 10 upcoming releases.
+    
+    By Madison Emily Whisenand [Read More](https://www.women.com/1720983/mystery-thriller-books-cant-wait-for-2025/)
     
 *  [![Taylor Swift at the MTV Awards in 2024](https://www.women.com/img/gallery/taylor-swift-outfits-that-totally-missed-the-mark-in-2024/intro-1732210802.jpg)](https://www.women.com/1719639/taylor-swift-outfits-totally-missed-mark-2024/)
     
@@ -393,18 +405,6 @@ More Stories
     From her early years as a model to posting Instagram thirst traps as a grandmother, Martha Stewart has embraced every fashion trend over her long career.
     
     By Emily Hutchinson [Read More](https://www.women.com/1712343/martha-stewart-style-transformed-through-years/)
-    
-*  [![Oprah Winfrey speaking into a mic while sitting on stage](https://www.women.com/img/gallery/the-best-oprahs-book-club-picks-of-the-2020s/intro-1731348923.jpg)](https://www.women.com/1710300/best-oprah-book-club-picks-2020s/)
-    
-    [Living](https://www.women.com/category/living/)
-    
-    [Living](https://www.women.com/category/living/) By Madison Emily Whisenand
-    
-    ### [The Best Oprah's Book Club Picks Of The 2020s](https://www.women.com/1710300/best-oprah-book-club-picks-2020s/)
-    
-    If you're looking to read more books this year, keeping up with a book club is a great place to start. And joining Oprah's book club is even better.
-    
-    By Madison Emily Whisenand [Read More](https://www.women.com/1710300/best-oprah-book-club-picks-2020s/)
     
 
 Back
