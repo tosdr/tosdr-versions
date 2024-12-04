@@ -86,8 +86,8 @@ Tenable One Exposure Management Platform enables you to gain visibility across y
 * [Tenable Vulnerability Management](https://www.tenable.com/products/vulnerability-management) [Try for free](#tenableio-4part)
 * [Tenable Security Center](https://www.tenable.com/products/security-center) [Request a demo](#tenable-sc-eval)
 * [Tenable Web App Scanning](https://www.tenable.com/products/web-app-scanning) [Try for free](#tenableio-was)
+* [Tenable Patch Managment](https://www.tenable.com/products/patch-management) [Request a demo](#patch-mgmt)
 * [Tenable Enclave Security](https://www.tenable.com/products/enclave-security) [Request a demo](#enclave)
-* [Tenable Lumin](https://www.tenable.com/products/tenable-lumin) [Try for free](#lumin-eval)
 * [Tenable Attack Surface Management](https://www.tenable.com/products/attack-surface-management) [Request a demo](#asm-eval)
 * [Tenable Nessus](https://www.tenable.com/products/nessus) [Try for free](#expert)
 
@@ -328,8 +328,8 @@ Tenable is named a leading force in vulnerability management and top ranked amon
         * [Tenable Vulnerability Management](https://www.tenable.com/products/vulnerability-management)
         * [Tenable Security Center](https://www.tenable.com/products/security-center)
         * [Tenable Web App Scanning](https://www.tenable.com/products/web-app-scanning)
+        * [Tenable Patch Management](https://www.tenable.com/products/patch-management)
         * [Tenable Enclave Security](https://www.tenable.com/products/enclave-security)
-        * [Tenable Lumin](https://www.tenable.com/products/tenable-lumin)
         * [Tenable Attack Surface Management](https://www.tenable.com/products/attack-surface-management)
         * [Tenable Nessus](https://www.tenable.com/products/nessus)
     * [OT/IoT Exposure](https://www.tenable.com/products/ot-security)
@@ -586,6 +586,7 @@ Discover the solution that's right for you.
 * [Tenable CIEM](https://www.tenable.com/cloud-security/products/cloud-infrastructure-entitlement-management)
 * [Tenable Vulnerability Management](https://www.tenable.com/products/vulnerability-management)
 * [Tenable Web App Scanning](https://www.tenable.com/products/web-app-scanning)
+* [Tenable Patch Management](https://www.tenable.com/products/patch-management)
 * [Tenable Enclave Security](https://www.tenable.com/products/enclave-security)
 * [Tenable Attack Surface Management](https://www.tenable.com/products/attack-surface-management)
 * [Tenable Identity Exposure](https://www.tenable.com/products/identity-exposure)
@@ -911,3 +912,7 @@ Tenable solutions help fulfill all SLCGP requirements. Connect with a Tenable re
 **Thank you.**
 
 You should receive a confirmation email shortly and one of our Sales Development Representatives will be in touch. Route any questions to [\[email protected\]](https://www.tenable.com/cdn-cgi/l/email-protection).
+
+### Get a demo of Tenable Patch Management
+
+Interested in streamlining security and IT collaboration and shortening the mean time to remediate with automation? Try Tenable Patch Management.
