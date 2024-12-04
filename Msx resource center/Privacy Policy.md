@@ -150,8 +150,10 @@ Latest reactions
 
 Latest forum posts
 
-* [Christmas Quiz 2024](https://www.msx.org/forum/msx-talk/off-topic/christmas-quiz-2024?page=3 "Christmas Quiz 2024")
+* [Word Processing.](https://www.msx.org/forum/msx-talk/software/word-processing "Word Processing.")
+* [Omega MSX 2 Power Supply suggestion](https://www.msx.org/forum/msx-talk/hardware/omega-msx-2-power-supply-suggestion "Omega MSX 2 Power Supply suggestion")
 * [Gemini Wing](https://www.msx.org/forum/msx-talk/software/gemini-wing "Gemini Wing")
+* [Christmas Quiz 2024](https://www.msx.org/forum/msx-talk/off-topic/christmas-quiz-2024?page=4 "Christmas Quiz 2024")
 * [ALIEN-SOFT group](https://www.msx.org/forum/msx-talk/software/alien-msx-group "ALIEN-SOFT group")
 * [Games with procedural graphics?](https://www.msx.org/forum/msx-talk/software/games-with-procedural-graphics "Games with procedural graphics?")
 * [MSXgl – A new C game library for MSX](https://www.msx.org/forum/msx-talk/development/msxgl-%E2%80%93-a-new-c-game-library-for-msx?page=30 "MSXgl – A new C game library for MSX")
@@ -161,8 +163,6 @@ Latest forum posts
 * [msx .music. dsk](https://www.msx.org/forum/msx-talk/graphics-and-music/msx-music-dsk "msx .music. dsk")
 * [DalSoRi R2 on OpenMSX](https://www.msx.org/forum/msx-talk/openmsx/dalsori-r2-on-openmsx?page=2 "DalSoRi R2 on OpenMSX")
 * [How do I run the Quran on FMSX3DS?](https://www.msx.org/forum/msx-talk/emulation/how-do-i-run-the-quran-on-fmsx3ds?page=1 "How do I run the Quran on FMSX3DS?")
-* [Omega MSX 2 Power Supply suggestion](https://www.msx.org/forum/msx-talk/hardware/omega-msx-2-power-supply-suggestion "Omega MSX 2 Power Supply suggestion")
-* [Vintage Computing Christmas Challenge 2024](https://www.msx.org/forum/msx-talk/development/vintage-computing-christmas-challenge-2024 "Vintage Computing Christmas Challenge 2024")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
