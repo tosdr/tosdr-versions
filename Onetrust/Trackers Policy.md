@@ -176,9 +176,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
+* [Emerging privacy laws in the Northeast: Key insights and compliance strategies](https://www.onetrust.com/resources/emerging-privacy-laws-in-the-northeast-key-insights-and-compliance-strategies-webinar/)
 * [Compliance Automation product showcase](https://www.onetrust.com/resources/compliance-automation-product-demonstration-webinar/)
 * [Deploying third-party management to navigate risk across industries](https://www.onetrust.com/resources/deploying-third-party-management-to-navigate-risk-across-industries-ebook/)
-* [How to handle opt-outs for tracking pixels under Australian privacy law](https://www.onetrust.com/resources/how-to-handle-opt-outs-for-tracking-pixels-under-australian-privacy-law-webinar/)
 
 ### Platform
 
