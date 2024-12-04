@@ -243,7 +243,7 @@ Licensed under [Creative Commons CC-BY 4.0](https://creativecommons.org/licenses
 Your support for press freedom is more important than ever.
 -----------------------------------------------------------
 
-Help Freedom of the Press Foundation meet our goals so we can bring the fight into 2025.
+Help Freedom of the Press Foundation (FPF) meet our goal so we can bring the fight into 2025.
 
 [Give now](https://freedom.press/donate/?mtm_campaign=popover) Close
 
