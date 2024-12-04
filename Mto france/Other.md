@@ -44,7 +44,7 @@ PUBLIC - Menu principal
     * Services climatiques
         * [DRIAS, les futurs du climat](http://www.drias-climat.fr/ "Drias, les futurs du climat")
         * [DRIAS-Eau, les futurs de l'eau](https://meteofrance.com/actualites-et-dossiers/actualites/drias-eau-quel-futur-pour-leau-en-2050 "DRIAS, les futurs de l'eau")
-        * [Climadiag Agriculture](https://climadiag-agriculture.fr/ "Climadiag Agriculture")
+        * [Climadiag Agriculture](https://meteofrance.com/le-changement-climatique/climadiag-agriculture-un-service-pour-sadapter-au-rechauffement-climatique "Climadiag Agriculture")
         * [Climadiag Commune](https://meteofrance.com/le-changement-climatique/climadiag-commune "Climadiag Commune")
         * [Climadiag Chaleur en ville](https://meteofrance.com/le-changement-climatique/climadiag-chaleur-en-ville)
         * [Climadiag Entreprise](https://meteofrance.com/climadiag-entreprise "Climadiag Entreprise")
@@ -206,7 +206,7 @@ Suivez-nous
 Droits de Reproduction
 ======================
 
-03/12/2024
+04/12/2024
 
 Décharge de responsabilité
 --------------------------
