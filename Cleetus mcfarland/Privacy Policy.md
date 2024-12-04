@@ -2,8 +2,6 @@
 
   
 
-20% off sitewide, Black Friday to Cyber Monday
-
    
 
 * [Home](https://www.cleetusmcfarland.com/)
