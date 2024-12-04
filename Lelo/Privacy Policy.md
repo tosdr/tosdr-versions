@@ -290,7 +290,7 @@ support
 * [environmental labels](https://www.lelo.com/environmental-labels)
 * [contact us](https://www.lelo.com/contact-us)
 * [store locator](https://www.lelo.com/store-locator)
-* [student discount](https://lelo.studentbeans.com/)
+* [student discount](https://connect.studentbeans.com/v4/hosted/lelo/us)
 
 browse by type
 --------------
