@@ -90,9 +90,19 @@ You can deactivate or delete your account by sending an email to [\[email prote
 
 Accounts that are inactive for more than 3 months may be deleted. Accounts that are not confirmed within 30 days of registration will also be automatically deleted.
 
+### How can I delete my data?
+
+If you want to delete your account and all associated data, follow these steps:
+
+1. Go to the **Settings** page in the app or website.
+2. Scroll to the bottom of the page and locate the section labeled **"Delete Account."**
+3. Enter your password in the provided field and click **OK** to confirm.
+
+Once confirmed, your account and all associated data will be permanently deleted. However, blocked IP addresses will be retained anonymously for security purposes.
+
 If you have any questions about our privacy policy, please contact us at [\[email protected\]](https://www.autismdate.com/cdn-cgi/l/email-protection)
 
-Our privacy policy was updated on August 10, 2024.
+Our privacy policy was updated on December 4, 2024.
 
 * [About](https://www.autismdate.com/about)
 * | [Contact](https://www.autismdate.com/contact)
