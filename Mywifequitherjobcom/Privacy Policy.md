@@ -192,6 +192,7 @@ Learn how to find products to sell and setup your online store.
 
 Related Content
 
+* [566: New US Crackdown Just Killed Dropshipping – What Sellers Must Know](https://mywifequitherjob.com/episode566/)
 * [565: Why Your Social Media Strategy Isn’t Working—and How to Fix It](https://mywifequitherjob.com/episode565/)
 * [564: Blogging Is Dead…Or Is It? What’s Actually Happening With Google](https://mywifequitherjob.com/episode564/)
 * [563: Email Marketing Hacks To Drive Engagement and Sales](https://mywifequitherjob.com/episode563/)
@@ -211,7 +212,6 @@ Related Content
 * [551: How To Go On Vacation Without Your Business Falling Apart (w/ Few Employees)](https://mywifequitherjob.com/episode551/)
 * [550: Why Content Creators Are Quitting: Is It Still Worth It?](https://mywifequitherjob.com/episode550/)
 * [549: Big Tech Is Squeezing Your Business Dry (And What To Do About It)](https://mywifequitherjob.com/episode549/)
-* [548: Amazon Declares War On Temu And Screws All Amazon FBA Sellers](https://mywifequitherjob.com/episode548/)
 
 Where Should I Begin?
 
@@ -259,7 +259,7 @@ Please Read Our [Privacy Policy](https://mywifequitherjob.com/privacy-policy/) A
 
 ![css.php](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E)
 
-![css.php](https://mywifequitherjob.com/blog/wp-content/plugins/cookies-for-comments/css.php?k=2071a9e39879b6a958b06162384d3c06&o=i&t=550615715)
+![css.php](https://mywifequitherjob.com/blog/wp-content/plugins/cookies-for-comments/css.php?k=2071a9e39879b6a958b06162384d3c06&o=i&t=690845106)
 
 Everything you need to know on how to build a profitable ecommerce store from scratch!
 
