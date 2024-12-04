@@ -348,7 +348,7 @@ Support
 More
 ----
 
-* [Night Owl Protect Cloud](https://stagecloud.nightowlsp.com/)
+* [Night Owl Protect Cloud](https://protectcloud.nightowlsp.com/)
 * [Authorized Retail/Online Sellers](https://nightowlsp.com/pages/authorized-sellers)
 * [Create an Account](https://night-owl-sp.myshopify.com/account/register)
 
