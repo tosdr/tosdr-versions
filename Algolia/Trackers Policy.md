@@ -1,4 +1,4 @@
-* [* Deutsch](https://www.algolia.com/de/policies/policyEntryMenu/policyentry-6 "Switch to ")[* English](#)[* français](https://www.algolia.com/fr/policies/policyEntryMenu/policyentry-6 "Switch to ")
+* [* Deutsch](https://www.algolia.com/de/policies/policyEntryMenu/cookies/ "Switch to ")[* English](#)[* français](https://www.algolia.com/fr/policies/policyEntryMenu/cookies/ "Switch to ")
     
 
 [News:
@@ -13,7 +13,7 @@ Learn more](https://www.algolia.com/search-solutions/algolia-on-aws)
 *  [![](/files/live/sites/algolia-assets/files/icons/person_blue.svg) Login](https://dashboard.algolia.com/users/sign_in)
 *  [![](/files/live/sites/algolia-assets/files/icons/Check%20Square.svg) Logout](https://dashboard.algolia.com/users/sign_out)
 
-[Algolia mark blue Algolia logo blue](https://www.algolia.com/)
+[Algolia mark white Algolia logo white](https://www.algolia.com/)
 
 Menu
 
@@ -48,7 +48,7 @@ Menu
     ###### INTEGRATIONS
     
     *  [![](/files/live/sites/algolia-assets/files/nav/adobe.svg) Adobe Commerce](https://www.algolia.com/search-solutions/adobe-commerce-magento)
-    *  [![](/files/live/sites/algolia-assets/files/nav/adobe.svg) Adobe AEM](https://www.algolia.com/search-solutions/adobe-experience-manager)
+    *  [![](/files/live/sites/algolia-assets/files/nav/adobe.svg) Adobe AEM](https://www.algolia.com/search-solutions/adobe)
     *  [![](/files/live/sites/algolia-assets/files/nav/bigcommerce-icon_1.svg) BigCommerce](https://www.algolia.com/search-solutions/bigcommerce)
     *  [![](/files/live/sites/algolia-assets/files/nav/commercetools-symbol.svg) Commercetools](https://www.algolia.com/search-solutions/commercetools)
     *  [![](/files/live/sites/algolia-assets/files/nav/salesforce.svg) Salesforce CC](https://www.algolia.com/search-solutions/salesforce-commerce-cloud)
@@ -78,7 +78,7 @@ Menu
     ###### RESOURCES
     
     *  [![](/files/live/sites/algolia-assets/files/nav/integration_instructions_1.svg) Code Exchange](https://www.algolia.com/developers/code-exchange)
-    *  [![](/files/live/sites/algolia-assets/files/nav/terminal_1.svg) Engineering Blog](https://www.algolia.com/blog/engineering/)
+    *  [![](/files/live/sites/algolia-assets/files/nav/terminal_1.svg) Engineering Blog](https://www.algolia.com/blog/engineering)
     *  [![](/files/live/sites/algolia-assets/files/nav/group_1.svg) Discord](https://alg.li/discord)
     *  [![](/files/live/sites/algolia-assets/files/nav/event_note_1.svg) Webinars & Events](https://www.algolia.com/events)
     
@@ -101,7 +101,7 @@ Menu
     
     *  [![](/files/live/sites/algolia-assets/files/nav/school_FILL1_wght400_GRAD0_opsz48_1_1.svg) Algolia Academy](https://academy.algolia.com/trainings)
     *  [![](/files/live/sites/algolia-assets/files/nav/local_mall_1.svg) Merchandising Playbook](https://www.algolia.com/ecommerce-merchandising-playbook)
-    *  [![](/files/live/sites/algolia-assets/files/nav/flaky_1.svg) Ecommerce Search Audit](https://www.algolia.com/search-audit/)
+    *  [![](/files/live/sites/algolia-assets/files/nav/flaky_1.svg) Ecommerce Search Audit](https://www.algolia.com/search-audit)
     *  [![](/files/live/sites/algolia-assets/files/nav/event_note_1.svg) Events](https://www.algolia.com/events)
     
     ###### NEW
@@ -131,38 +131,28 @@ Quick Access
 
 ![](/files/live/sites/algolia-assets/files/icons/algolialogo.svg)
 
-Looking for our logo?
-
-We got you covered!
-
-[Brand guidelines](https://algolia.frontify.com/)
-
-[Download logo pack](https://www.algolia.com/algolia-logo-pack.zip)
-
-Cookies 🍪
-==========
+Cookies
+=======
 
 Algolia's use of cookies 
 
 Select Policy
 
-[Terms of Service](https://www.algolia.com/policies/terms)
+[Terms of Service](https://www.algolia.com/policies/policyEntryMenu/terms)
 
-[Service Level Agreement](https://www.algolia.com/policies/sla)
+[Service Level Agreement](https://www.algolia.com/policies/policyEntryMenu/sla)
 
-[Privacy Policy](https://www.algolia.com/policies/privacy)
+[Privacy Policy](https://www.algolia.com/policies/policyEntryMenu/privacy)
 
-[Support Policy](https://www.algolia.com/policies/support)
+[Support Policy](https://www.algolia.com/policies/policyEntryMenu/support)
 
-[Acceptable Use Policy](https://www.algolia.com/policies/acceptable-use)
+[Acceptable Use Policy](https://www.algolia.com/policies/policyEntryMenu/acceptable-use)
 
-[Legal Information](https://www.algolia.com/policies/legal)
+[Legal Information](https://www.algolia.com/policies/policyEntryMenu/legal)
 
-[Cookies 🍪](https://www.algolia.com/policies/cookies)
+[Cookies](https://www.algolia.com/policies/policyEntryMenu/cookies)
 
-[Infrastructure & Sub-Processors](https://www.algolia.com/policies/infrastructure-and-sub-processors)
-
-[Anti-Modern Slavery Statement](https://www.algolia.com/policies/anti-modern-slavery-statement)
+[Infrastructure & Sub-Processors](https://www.algolia.com/policies/policyEntryMenu/infrastructure-and-sub-processors)
 
 What Are Cookies?
 -----------------
@@ -171,7 +161,8 @@ Cookies are small text files that are downloaded to your computer, tablet or mob
 
 Generally, cookies are very useful and are a common method used by almost every website you visit because they help to make your online experience as smooth as possible. For security reasons, many websites will not function at all without the use of cookies (or other similar technologies, such as "web beacons" or "tags").
 
-Cookies generally do not hold any information to identify an individual person, but are instead used to identify a browser on an individual machine - as you navigate our websites or your account. This makes navigating and interacting with our websites or your account more efficient, easy and meaningful for you.  
+Cookies generally do not hold any information to identify an individual person, but are instead used to identify a browser on an individual machine - as you navigate our websites or your account. This makes navigating and interacting with our websites or your account more efficient, easy and meaningful for you.
+
 Cookies on our websites fall into four categories: (1) Strictly Necessary, (2) Performance, (3) Functional, (4) Targeting, as further described below.
 
 How to Manage Cookies?
@@ -181,7 +172,8 @@ How to Manage Cookies?
 
 **Browser Settings.** If you prefer, you can restrict, block or delete Cookies by changing your browser settings as instructed below.
 
-However by blocking or deleting Cookies used on our websites, you may not be able to take full advantage of the websites.  
+However by blocking or deleting Cookies used on our websites, you may not be able to take full advantage of the websites.
+
 For more information about cookies and their impact on you and your browsing visit [www.aboutcookies.org](https://www.aboutcookies.org/ "www.aboutcookies.org").
 
 Categories of Cookies
@@ -278,7 +270,7 @@ To manage cookies on our website, follow the steps below.
 
 #### Developers
 
-[Developer Hub](https://www.algolia.com/developers)[Documentation](https://www.algolia.com/doc/)[Integrations](https://www.algolia.com/developers/integrations)[Engineering blog](https://www.algolia.com/blog/engineering/)[Discord community](https://alg.li/discord)[API status](https://status.algolia.com/)[DocSearch](https://docsearch.algolia.com/)[For Open Source](https://www.algolia.com/for-open-source)
+[Developer Hub](https://www.algolia.com/developers)[Documentation](https://www.algolia.com/doc/)[Integrations](https://www.algolia.com/developers/integrations)[Engineering blog](https://www.algolia.com/blog/engineering)[Discord community](https://alg.li/discord)[API status](https://status.algolia.com/)[DocSearch](https://docsearch.algolia.com/)[For Open Source](https://www.algolia.com/for-open-source)
 
 #### Live demos
 
@@ -286,7 +278,7 @@ To manage cookies on our website, follow the steps below.
 
 #### Integrations
 
-[Salesforce Commerce Cloud B2C](https://www.algolia.com/search-solutions/salesforce-commerce-cloud)[Shopify](https://www.algolia.com/search-solutions/shopify)[Adobe Commerce](https://www.algolia.com/search-solutions/adobe-commerce-magento)[Netlify](https://www.algolia.com/search-solutions/netlify/)[Commercetools](https://www.algolia.com/search-solutions/commercetools)[BigCommerce](https://www.algolia.com/search-solutions/bigcommerce)
+[Salesforce Commerce Cloud B2C](https://www.algolia.com/search-solutions/salesforce-commerce-cloud)[Shopify](https://www.algolia.com/search-solutions/shopify)[Adobe Commerce](https://www.algolia.com/search-solutions/adobe-commerce-magento)[Netlify](https://www.algolia.com/search-solutions/netlify)[Commercetools](https://www.algolia.com/search-solutions/commercetools)[BigCommerce](https://www.algolia.com/search-solutions/bigcommerce)
 
 #### Distributed & secure
 
@@ -310,7 +302,7 @@ To manage cookies on our website, follow the steps below.
 
 #### Developers
 
-[Developer Hub](https://www.algolia.com/developers)[Documentation](https://www.algolia.com/doc/)[Integrations](https://www.algolia.com/developers/integrations)[Engineering blog](https://www.algolia.com/blog/engineering/)[Discord community](https://alg.li/discord)[API status](https://status.algolia.com/)[DocSearch](https://docsearch.algolia.com/)[For Open Source](https://www.algolia.com/for-open-source)
+[Developer Hub](https://www.algolia.com/developers)[Documentation](https://www.algolia.com/doc/)[Integrations](https://www.algolia.com/developers/integrations)[Engineering blog](https://www.algolia.com/blog/engineering)[Discord community](https://alg.li/discord)[API status](https://status.algolia.com/)[DocSearch](https://docsearch.algolia.com/)[For Open Source](https://www.algolia.com/for-open-source)
 
 #### Live demos
 
@@ -330,7 +322,7 @@ To manage cookies on our website, follow the steps below.
 
 #### Integrations
 
-[Salesforce Commerce Cloud B2C](https://www.algolia.com/search-solutions/salesforce-commerce-cloud)[Shopify](https://www.algolia.com/search-solutions/shopify)[Adobe Commerce](https://www.algolia.com/search-solutions/adobe-commerce-magento)[Netlify](https://www.algolia.com/search-solutions/netlify/)[Commercetools](https://www.algolia.com/search-solutions/commercetools)[BigCommerce](https://www.algolia.com/search-solutions/bigcommerce)
+[Salesforce Commerce Cloud B2C](https://www.algolia.com/search-solutions/salesforce-commerce-cloud)[Shopify](https://www.algolia.com/search-solutions/shopify)[Adobe Commerce](https://www.algolia.com/search-solutions/adobe-commerce-magento)[Netlify](https://www.algolia.com/search-solutions/netlify)[Commercetools](https://www.algolia.com/search-solutions/commercetools)[BigCommerce](https://www.algolia.com/search-solutions/bigcommerce)
 
 #### Distributed & secure
 
@@ -354,6 +346,6 @@ Algolia mark white ©2024 Algolia - All rights reserved.
 
 * Cookie settings
 * [Trust Center](https://www.algolia.com/trust-center)
-* [Privacy Policy](https://www.algolia.com/policies/privacy)
-* [Terms of service](https://www.algolia.com/policies/terms)
-* [Acceptable Use Policy](https://www.algolia.com/policies/acceptable-use)
+* [Privacy Policy](https://www.algolia.com/policies/policyEntryMenu/privacy)
+* [Terms of service](https://www.algolia.com/policies/policyEntryMenu/terms)
+* [Acceptable Use Policy](https://www.algolia.com/policies/policyEntryMenu/acceptable-use)
