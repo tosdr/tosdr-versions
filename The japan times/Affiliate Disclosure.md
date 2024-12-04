@@ -209,9 +209,9 @@ By [Tomoko Otake](https://www.japantimes.co.jp/author/3264/tomoko-otake/ "Tomoko
 SUSTAINABLE JAPAN
 -----------------
 
-[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -253,23 +253,19 @@ Latest News
 
 [U.S. Defense Secretary Austin planning to visit Japan next week](https://www.japantimes.co.jp/news/2024/12/04/japan/defense-austin-visit/ "U.S. Defense Secretary Austin planning to visit Japan next week")
 
-4 hours ago
+10 hours ago
 
 [Panasonic plant in U.K. to go fully renewable](https://www.japantimes.co.jp/business/2024/12/04/panasonic-uk-plant/ "Panasonic plant in U.K. to go fully renewable")
 
-4 hours ago
+10 hours ago
 
 [Trump taps team geared toward retribution and remaking of U.S. government](https://www.japantimes.co.jp/news/2024/12/04/world/politics/trump-team-retribution/ "Trump taps team geared toward retribution and remaking of U.S. government")
 
-4 hours ago
+10 hours ago
 
 [When undersea cables break, a wireless world’s vulnerability is exposed](https://www.japantimes.co.jp/news/2024/12/04/world/cables-under-sea-wireless-vulnerability/ "When undersea cables break, a wireless world’s vulnerability is exposed")
 
-6 hours ago
-
 [Trump considers replacing Hegseth with DeSantis to run Pentagon, report says](https://www.japantimes.co.jp/news/2024/12/04/world/politics/desantis-trump-defense-secretary/ "Trump considers replacing Hegseth with DeSantis to run Pentagon, report says")
-
-6 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
