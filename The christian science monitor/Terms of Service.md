@@ -110,11 +110,11 @@ Recent Stories
 
 Monitor Daily
 
-December 02, 2024
+December 03, 2024
 
-When states and the federal government disagree
+‘A renovating virtue’
 
-American federalism can be a sweeping political science lesson. That’s Francine Kiefer’s story today about California and the Trump administration preparing to do legal battle over whose vision will hold sway in the state. A fascinating graphic by Jacob Turcotte shows states holding their own against presidential power.But American federalism can also be an intimate question of individual rights. That’s Henry Gass’ story today about a landmark Supreme Court case on transgender rights. Who determines what’s best for a child – the state, the federal government, or parents?The two stories offer a portrait of the forces shaping American federalism.
+William Wordsworth wrote that “There are in our existence spots of time, / That with distinct pre-eminence retain / A renovating virtue.” His poem came to mind as I read Colette Davidson’s story today on women flocking to support Gisèle Pelicot, whose husband’s ongoing trial for years of drugging and raping her, and inviting others to do the same, has gripped France.Colette unfolds the power of one person’s example, as women, moved by Ms. Pelicot’s daily presence in court, have flocked to her side. They’re taking time off from work and traveling to support her and thank her face-to-face. It’s a portrait of that “renovating virtue,” which, Wordsworth continues, “enables us to mount, / When high, more high, and lifts us up when fallen.”
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
