@@ -196,57 +196,59 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Integrated Debit Order Solution
-> -------------------------------
+> Enjoying Invoices Online
+> ------------------------
 > 
-> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
+> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
+> 
+> I have upgraded to the Gold account in order to support you guys!
 
-Hugo van Sittert
+Shaun Gartshore
 
-![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=d8e7ff94d1788ea15f4ca57fc15749946d1823bb6760d01eb82ed0666febc206&c=47919961)  
-Immediate Health (pty)ltd
+![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=03c5d4e7ea9809fc868a0be8b42efeb9183be695210c13996eb4110065876300&c=169214465)  
+Prosper Park
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=d8e7ff94d1788ea15f4ca57fc15749946d1823bb6760d01eb82ed0666febc206&c=92003728)  
-VIV'S TRUCKS (Pty) Ltd. (29/31/33)
+![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=03c5d4e7ea9809fc868a0be8b42efeb9183be695210c13996eb4110065876300&c=126702758)  
+Gemini-IT Group
 
-![valued client Kara Medical (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=3913&file=logo_300_100&type=&fe=d8e7ff94d1788ea15f4ca57fc15749946d1823bb6760d01eb82ed0666febc206&c=154816876)  
-Kara Medical (Pty) Ltd
+![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=03c5d4e7ea9809fc868a0be8b42efeb9183be695210c13996eb4110065876300&c=209031547)  
+OptaServ
 
-![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=d8e7ff94d1788ea15f4ca57fc15749946d1823bb6760d01eb82ed0666febc206&c=101859904)  
-Sonic Electrical Services PTY Ltd
+![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=03c5d4e7ea9809fc868a0be8b42efeb9183be695210c13996eb4110065876300&c=180750357)  
+Safe-Train Consulting (PTY) Ltd
 
-![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=d8e7ff94d1788ea15f4ca57fc15749946d1823bb6760d01eb82ed0666febc206&c=13174150)  
-Lion Software Develepment
+![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=03c5d4e7ea9809fc868a0be8b42efeb9183be695210c13996eb4110065876300&c=158958460)  
+Vplay Grafix
 
-![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=d8e7ff94d1788ea15f4ca57fc15749946d1823bb6760d01eb82ed0666febc206&c=30659594)  
-Wiselink Broadband Pty Ltd
+![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=03c5d4e7ea9809fc868a0be8b42efeb9183be695210c13996eb4110065876300&c=189357016)  
+West Coast Horse Trails
 
-![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=d8e7ff94d1788ea15f4ca57fc15749946d1823bb6760d01eb82ed0666febc206&c=40152085)  
-FJW Security Cc
+![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=03c5d4e7ea9809fc868a0be8b42efeb9183be695210c13996eb4110065876300&c=79533271)  
+Forgotten Goods (Pty) Ltd
 
-![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=d8e7ff94d1788ea15f4ca57fc15749946d1823bb6760d01eb82ed0666febc206&c=110013774)  
-Know Informatics
+![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=03c5d4e7ea9809fc868a0be8b42efeb9183be695210c13996eb4110065876300&c=212314877)  
+CBR Verwe/Paints
 
-![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=d8e7ff94d1788ea15f4ca57fc15749946d1823bb6760d01eb82ed0666febc206&c=81114745)  
-Entidee Enterprise PTY (ltd)
+![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=03c5d4e7ea9809fc868a0be8b42efeb9183be695210c13996eb4110065876300&c=72825482)  
+Printo
 
-![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=d8e7ff94d1788ea15f4ca57fc15749946d1823bb6760d01eb82ed0666febc206&c=83470879)  
-Creative Characters
+![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=03c5d4e7ea9809fc868a0be8b42efeb9183be695210c13996eb4110065876300&c=44380089)  
+TRACKFORCE (Pty) Ltd
 
-![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=d8e7ff94d1788ea15f4ca57fc15749946d1823bb6760d01eb82ed0666febc206&c=191690756)  
-Karino Merinos ( PTY ) LTD
+![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=03c5d4e7ea9809fc868a0be8b42efeb9183be695210c13996eb4110065876300&c=53137495)  
+Sarabi
 
-![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=d8e7ff94d1788ea15f4ca57fc15749946d1823bb6760d01eb82ed0666febc206&c=57694320)  
-kidoscabbie
+![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=03c5d4e7ea9809fc868a0be8b42efeb9183be695210c13996eb4110065876300&c=158766821)  
+LEO DEVELOPMENT GROUP
 
-![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=d8e7ff94d1788ea15f4ca57fc15749946d1823bb6760d01eb82ed0666febc206&c=121383055)  
-Salt & Pepper Guest Accommodation (Pty) Ltd.
+![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=03c5d4e7ea9809fc868a0be8b42efeb9183be695210c13996eb4110065876300&c=174903408)  
+RADIO TYGERBERG 104FM NPC
 
-![valued client SafeTclip](https://www.invoicesonline.co.za/scripts/image.php?bid=8368&file=logo_300_100&type=&fe=d8e7ff94d1788ea15f4ca57fc15749946d1823bb6760d01eb82ed0666febc206&c=97618673)  
-SafeTclip
+![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=03c5d4e7ea9809fc868a0be8b42efeb9183be695210c13996eb4110065876300&c=103807491)  
+VerdanTech Pty Ltd
 
-![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=d8e7ff94d1788ea15f4ca57fc15749946d1823bb6760d01eb82ed0666febc206&c=63809190)  
-TIGERDSL
+![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=03c5d4e7ea9809fc868a0be8b42efeb9183be695210c13996eb4110065876300&c=88762320)  
+van Schaik rentals
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
