@@ -217,7 +217,7 @@ Geneva, IL 60134
 
 ![bee icon](https://assets.superhivemarket.com/site_assets/images/bee_white.svg) ![trihex icon](https://assets.superhivemarket.com/site_assets/images/trihex_white.svg) ![hexglobe icon](https://assets.superhivemarket.com/site_assets/images/hexglobe_white.svg) ![superbutton icon](https://assets.superhivemarket.com/site_assets/images/superbutton_white.svg) ![wing icon](https://assets.superhivemarket.com/site_assets/images/winghex_white.svg)
 
-v2.9.9
+v2.10.0
 
 #### Follow Us
 
