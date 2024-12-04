@@ -1,4 +1,4 @@
-![](//fls-na.amazon.com/1/batch/1/OP/A1EVAM02EL8SFB:147-4730542-1432734:8TA46HRK5J7V0D97FGJX$uedata=s:%2Frd%2Fuedata%3Fstaticb%26id%3D8TA46HRK5J7V0D97FGJX:0)      
+![](//fls-na.amazon.com/1/batch/1/OP/A1EVAM02EL8SFB:137-8980521-0029601:1890YX72DEKZ85M02YY2$uedata=s:%2Frd%2Fuedata%3Fstaticb%26id%3D1890YX72DEKZ85M02YY2:0)      
 
 Menu
 
@@ -18,7 +18,7 @@ Watch
 
 Awards & Events
 
-[Oscars](https://www.imdb.com/oscars/?ref_=nv_ev_csegosc)[STARmeter Awards](https://www.imdb.com/starmeterawards/?ref_=nv_ev_sma)[Awards Central](https://www.imdb.com/awards-central/?ref_=nv_ev_csegawds)[Festival Central](https://www.imdb.com/festival-central/?ref_=nv_ev_csegfest)[All Events](https://www.imdb.com/event/?ref_=nv_ev_all)
+[Oscars](https://www.imdb.com/oscars/?ref_=nv_ev_csegosc)[Best Of 2024](https://www.imdb.com/best-of/?ref_=nv_ev_csegbest)[Holiday Picks](https://www.imdb.com/imdbpicks/?ref_=nv_ev_cseghoho)[STARmeter Awards](https://www.imdb.com/starmeterawards/?ref_=nv_ev_sma)[Awards Central](https://www.imdb.com/awards-central/?ref_=nv_ev_csegawds)[Festival Central](https://www.imdb.com/festival-central/?ref_=nv_ev_csegfest)[All Events](https://www.imdb.com/event/?ref_=nv_ev_all)
 
 Celebs
 
@@ -251,4 +251,4 @@ IMDb, an Amazon company
 
 © 1990-2024 by IMDb.com, Inc.
 
-![](//fls-na.amazon.com/1/batch/1/OP/A1EVAM02EL8SFB:147-4730542-1432734:8TA46HRK5J7V0D97FGJX$uedata=s:%2Frd%2Fuedata%3Fnoscript%26id%3D8TA46HRK5J7V0D97FGJX:0)
+![](//fls-na.amazon.com/1/batch/1/OP/A1EVAM02EL8SFB:137-8980521-0029601:1890YX72DEKZ85M02YY2$uedata=s:%2Frd%2Fuedata%3Fnoscript%26id%3D1890YX72DEKZ85M02YY2:0)
