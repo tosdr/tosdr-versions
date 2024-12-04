@@ -1,4 +1,4 @@
-[](https://www.youtube.com/channel/UCT25-fF7uoJZ51-68MiM7tQ)
+[](https://www.youtube.com/@scalacube)
 
 [](https://www.instagram.com/scalacube/)
 
@@ -44,6 +44,9 @@ Toggle navigation [ScalaCube](https://scalacube.com/ "ScalaCube - Game Server Ho
     * [Norsk](https://scalacube.com/no)
     * [Română](https://scalacube.com/ro)
     * [Svenska](https://scalacube.com/se)
+    * [Nederlands](https://scalacube.com/nl)
+    * [Čeština](https://scalacube.com/cs)
+    * [Türkçe](https://scalacube.com/tr)
     
     Asia
     
@@ -55,6 +58,9 @@ Toggle navigation [ScalaCube](https://scalacube.com/ "ScalaCube - Game Server Ho
     * [한국인](https://scalacube.com/kr)
     * [Русский](https://scalacube.com/ru)
     * [اردو](https://scalacube.com/ur)
+    * [Tiếng Việt](https://scalacube.com/vi)
+    * [Türkçe](https://scalacube.com/tr)
+    * [ภาษาไทย](https://scalacube.com/th)
     
     Africa
     
@@ -135,6 +141,11 @@ Toggle navigation [ScalaCube](https://scalacube.com/ "ScalaCube - Game Server Ho
     * [Svenska](https://scalacube.com/se)
     * [اردو](https://scalacube.com/ur)
     * [Melayu](https://scalacube.com/ms)
+    * [Nederlands](https://scalacube.com/nl)
+    * [Čeština](https://scalacube.com/cs)
+    * [Türkçe](https://scalacube.com/tr)
+    * [Tiếng Việt](https://scalacube.com/vi)
+    * [ภาษาไทย](https://scalacube.com/th)
 
 * [Minecraft Server Hosting](https://scalacube.com/hosting/server/minecraft)
 * [Game Hosting](javascript:void(0))
@@ -193,6 +204,9 @@ Europe
 * [Norsk](https://scalacube.com/no)
 * [Română](https://scalacube.com/ro)
 * [Svenska](https://scalacube.com/se)
+* [Nederlands](https://scalacube.com/nl)
+* [Čeština](https://scalacube.com/cs)
+* [Türkçe](https://scalacube.com/tr)
 
 Asia
 
@@ -204,6 +218,9 @@ Asia
 * [한국인](https://scalacube.com/kr)
 * [Русский](https://scalacube.com/ru)
 * [اردو](https://scalacube.com/ur)
+* [Tiếng Việt](https://scalacube.com/vi)
+* [Türkçe](https://scalacube.com/tr)
+* [ภาษาไทย](https://scalacube.com/th)
 
 Africa
 
@@ -1002,7 +1019,7 @@ Cookies
 
 #### Our Company
 
-[](https://www.youtube.com/channel/UCT25-fF7uoJZ51-68MiM7tQ)
+[](https://www.youtube.com/@scalacube)
 
 [](https://www.instagram.com/scalacube/)
 
