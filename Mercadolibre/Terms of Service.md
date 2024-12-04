@@ -155,3 +155,15 @@ Copyright © 1999-2024 MercadoLibre S.R.L.
 Av. Caseros 3039, Piso 2, CP 1264, Parque Patricios, CABA
 
 [Mercado Libre](https://hp.mercadolibre.com/?p=ML&s=MLA&d=desktop)
+
+Usamos cookies para mejorar tu experiencia en Mercado Libre. Consultar más en nuestro [Centro de Privacidad.](https://www.mercadolibre.com.ar/privacidad#tech-and-cookies)
+
+Aceptar cookiesConfigurar cookies
+
+¡Listo! Guardamos tus preferencias.
+
+Cerrar
+
+Algo salió mal. Por favor, vuelve a intentarlo.
+
+Cerrar
