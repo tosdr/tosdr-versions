@@ -72,9 +72,9 @@ MENUMENU
                 * [Classroom Accommodations for Visual Impairments](https://www.theottoolbox.com/visual-impairment-accommodations/)
         * * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
                 
-                ![](https://www.theottoolbox.com/wp-content/uploads/2023/11/gross-motor-toy-giveaway.png)](https://www.theottoolbox.com/gross-motor-toys/)
+                ![](https://www.theottoolbox.com/wp-content/uploads/2023/11/sensory-toy-giveaway.jpg)](https://www.theottoolbox.com/gift-guide-toys-for-sensory-play/)
                 
-                #### [Gross Motor Toys](https://www.theottoolbox.com/gross-motor-toys/)
+                #### [Best Sensory Toys](https://www.theottoolbox.com/gift-guide-toys-for-sensory-play/)
                 
 * [Free Resources](https://www.theottoolbox.com/category/free-resources/)
 * [The Shop](https://www.theottoolbox.com/shop/)
