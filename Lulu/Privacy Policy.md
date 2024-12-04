@@ -12,11 +12,15 @@
     
 * [Sell](https://www.lulu.com/sell)
     
-    [Sell on Lulu Bookstore](https://www.lulu.com/sell/sell-on-lulu)[Sell Direct](https://www.lulu.com/sell/sell-on-your-site)[Retail Distribution](https://www.lulu.com/sell/retail-distribution)[Order Import](https://www.lulu.com/sell/order-import)[API Printing](https://www.lulu.com/sell/sell-on-your-site/print-api)[Crowdfunding](https://www.lulu.com/resources/kickstarter)
+    [Sell on Lulu Bookstore](https://www.lulu.com/sell/sell-on-lulu)[Sell Direct](https://www.lulu.com/sell/sell-on-your-site)[Retail Distribution](https://www.lulu.com/sell/retail-distribution)[Order Import](https://www.lulu.com/sell/order-import)[Crowdfunding](https://www.lulu.com/resources/kickstarter)
     
 * [Resources](https://www.lulu.com/resources)
     
     [Knowledge Base](https://help.lulu.com/en/support/home)[Guides & Templates](https://www.lulu.com/publishing-toolkit)[Author Tools](https://www.lulu.com/author-toolkit)[Hire A Professional](https://www.lulu.com/partners)[Glossary of Publishing Terms](https://www.lulu.com/glossary/glossary-of-terms)[Videos](https://www.youtube.com/@luludotcom)[Blog](https://blog.lulu.com/)[Contact Support](https://help.lulu.com/en/support/tickets/new)
+    
+* [Enterprise](https://www.lulu.com/sell/sell-on-your-site/print-api)
+    
+    [API Printing](https://www.lulu.com/sell/sell-on-your-site/print-api)[Developers](https://developers.lulu.com/home)
     
 * [Bookstore](https://www.lulu.com/shop)
     
