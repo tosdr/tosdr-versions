@@ -1,4 +1,8 @@
-[![Navient](https://images.navient.com/Navient/web/navient-rbg-logo.svg)](https://navient.com/)
+[](https://navient.com/)
+
+[](https://navient.com/)
+
+[](https://navient.com/)[![Navient](https://images.navient.com/Navient/web/navient-rbg-logo.svg)](https://navient.com/)
 
 [Skip to content](#main)
 
@@ -8,7 +12,11 @@
 * [Contact Us](https://navient.com/contact-us/)
 * [Log In](#)
 
-[![Navient](https://images.navient.com/Navient/web/navient-rbg-logo.svg)](https://navient.com/)
+[](https://navient.com/)
+
+[](https://navient.com/)
+
+[](https://navient.com/)[![Navient](https://images.navient.com/Navient/web/navient-rbg-logo.svg)](https://navient.com/)
 
 * [About](https://navient.com/about/)
     * [Our People](https://navient.com/about/our-people/)
