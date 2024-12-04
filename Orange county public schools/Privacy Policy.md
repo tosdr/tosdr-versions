@@ -368,7 +368,6 @@ Orange County Public Schools
     * [Facility Use/Rental](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=1133411)
     * [Finance](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=101546)
     * [Food and Nutrition Services](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=98642)
-    * [Foundation for OCPS](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=89792)
     * [Human Resources](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=90937)
     * [Information Technology Services](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=98843)
     * [Internal Audit](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=89988)
@@ -402,6 +401,7 @@ Orange County Public Schools
     * [ESSER Information](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=1778753)
     * [School Transformation Office](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=1925126)
     * [Athletics](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=2114211)
+    * [Foundation for OCPS](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=2132856)
     
 
 * [Home](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=54711)
@@ -499,7 +499,6 @@ Orange County Public Schools
     * [Facility Use/Rental](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=1133411)
     * [Finance](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=101546)
     * [Food and Nutrition Services](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=98642)
-    * [Foundation for OCPS](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=89792)
     * [Human Resources](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=90937)
     * [Information Technology Services](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=98843)
     * [Internal Audit](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=89988)
@@ -533,6 +532,7 @@ Orange County Public Schools
     * [ESSER Information](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=1778753)
     * [School Transformation Office](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=1925126)
     * [Athletics](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=2114211)
+    * [Foundation for OCPS](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=2132856)
 
 Terms of Use
 ------------
@@ -540,6 +540,36 @@ Terms of Use
 [Skip Sidebar Navigation](#ctl00_ContentPlaceHolder1_ctl05_linkLastNav)
 
 [About Us](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=87600)
+
+[Advertise with OCPS](https://www.ocps.net/cms/one.aspx?objectId=89603)
+
+[Annual Report](https://issuu.com/orangecountypublicschools/docs/annual_report_2022-23_6?fr=xKAE9_zU1NQ)
+
+[Budget](https://www.ocps.net/cms/one.aspx?objectId=101519)
+
+[Building Schools](https://www.ocps.net/departments/facilities/your_tax_dollars_at_work/)
+
+[Calendars](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=87628)
+
+[Do Business with OCPS](https://www.ocps.net/departments/procurement_services)
+
+[Executive Leadership](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=188562)
+
+[Foundation for OCPS](http://www.foundationforocps.org/)
+
+[General Information](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=134783)
+
+[Get Involved](https://www.ocps.net/cms/one.aspx?objectId=87669)
+
+[Hall of Fame](https://www.ocps.net/cms/one.aspx?objectId=89552)
+
+[History](http://anniversary.ocps.net/cms/One.aspx?portalId=1206398&pageId=1206420)
+
+[Pocket Guide](http://issuu.com/orangecountypublicschools/docs/pocket_guide_web_23-24?fr=xKAE9_zU1NQ)
+
+[Sitemap](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=115120)
+
+[Contact Us](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=197670)
 
 [Last item for navigation](https://www.ocps.net/cms/portlets/#)
 
