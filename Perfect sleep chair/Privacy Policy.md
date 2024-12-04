@@ -1,4 +1,8 @@
-             [Skip to content](#MainContent)
+                                            [Skip to content](#MainContent)
+
+[](https://www.perfectsleepchair.com/products/journey-gift-card)
+
+Give The Gift of Choice With a Journey Gift Card
 
 [888-404-1724](tel:888-404-1724)
 
