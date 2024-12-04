@@ -4,7 +4,7 @@ Zurück
 
 Wohin gehts?
 
-Wann? Camp oder Cabin? Suchen
+Wann?Camp oder Cabin?Suchen
 
 [Gastgeber werden](https://www.hinterland.camp/host)
 
@@ -30,7 +30,7 @@ Wann? Camp oder Cabin? Suchen
 
 * * *
 
-* SpracheDeutschEnglishItalianoFrançaisEspañol
+* DeutschEnglishItalianoFrançaisEspañol
     
 
 AGB
@@ -419,7 +419,7 @@ Auf ins Hinterland, wo Freiheit und Abenteuer Zuhause sind! Bei uns findest du 3
 
 [App Store![App Store Logo](/footer/app-store.svg)](https://apps.apple.com/app/hinterland/id1634171157)[Google Play Store![Google Play Store Logo](/footer/play-store.svg)](https://play.google.com/store/apps/details?id=camp.hinterland.app&hl=de)
 
-SpracheDeutschEnglishItalianoFrançaisEspañol
+DeutschEnglishItalianoFrançaisEspañol
 
 [Impressum](https://www.hinterland.camp/imprint)[AGB](https://www.hinterland.camp/terms)[Datenschutz](https://www.hinterland.camp/privacy)Cookies
 
