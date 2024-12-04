@@ -111,6 +111,8 @@ Most recent
 
 [04-12-2024
 
+Romanian hard right says it wants to be part of new government](https://www.euractiv.com/section/politics/news/romanian-hard-right-says-it-wants-to-be-part-of-new-government/)[04-12-2024
+
 Trump’s plan for Ukraine: Territorial concessions but NATO off the table](https://www.euractiv.com/section/global-europe/news/trumps-plan-for-ukraine-territorial-concessions-but-nato-off-the-table/)[04-12-2024
 
 South Korean president faces impeachment calls after martial law debacle](https://www.euractiv.com/section/global-europe/news/south-korean-president-faces-impeachment-calls-after-martial-law-debacle/)[04-12-2024
@@ -127,9 +129,7 @@ Portuguese PM in favour of ‘European champions’ if not in France, Germany](h
 
 Brussels won’t delay combustion engine ban beyond 2035, Ribera warns](https://www.euractiv.com/section/politics/news/brussels-wont-delay-combustion-engine-ban-beyond-2035-ribera-warns/)[04-12-2024
 
-Georgia’s ombudsman accuses police of torturing pro-EU protesters](https://www.euractiv.com/section/global-europe/news/georgias-ombudsman-accuses-police-of-torturing-pro-eu-protesters/)[04-12-2024
-
-Iceland’s Social Democratic party leader tapped to form new government](https://www.euractiv.com/section/politics/news/icelands-social-democratic-party-leader-tapped-to-form-new-government/)
+Georgia’s ombudsman accuses police of torturing pro-EU protesters](https://www.euractiv.com/section/global-europe/news/georgias-ombudsman-accuses-police-of-torturing-pro-eu-protesters/)
 
 ###### Advertisement
 
