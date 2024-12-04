@@ -236,7 +236,8 @@ About Us
 * [Roland-Garros](https://www.infosys.com/roland-garros.html "Roland-Garros")
 * [ATP](https://www.infosys.com/atp.html "ATP")
 * [International Tennis Hall of Fame](https://www.infosys.com/ithf.html "International Tennis Hall of Fame")
-* [Brand Ambassadors](https://www.infosys.com/rafael-nadal.html "Brand Ambassadors")
+* [Brand Ambassador - Rafael Nadal](https://www.infosys.com/rafael-nadal.html "Brand Ambassador - Rafael Nadal")
+* [Brand Ambassador - IGA Swiatek](https://www.infosys.com/iga-swiatek.html "Brand Ambassador - IGA Swiatek")
 
 * [Formula E](https://www.infosys.com/formulae.html "Formula E")
 * [Madison Square Garden](https://www.infosys.com/madison-square-garden.html "Madison Square Garden")
@@ -249,7 +250,7 @@ About Us
 1. [Terms of Use](https://www.infosys.com/terms-of-use.html)
 
 1. [![Share](/content/dam/infosys-web/en/global-resource/background-image/share.svg)](javascript:void(0);)
-    * [![](/content/dam/infosys-web/en/global-resource/background-image/twitter-x.svg)](javascript:void(0))
+    * [![Share on Twitter](/content/dam/infosys-web/en/global-resource/background-image/twitter-x.svg)](javascript:void(0))
     * [](javascript:void(0))
     * [](javascript:void(0))
 2. Like what you see? [Let's talk ![](/content/dam/infosys-web/en/global-resource/background-image/arrow-right.svg)](#rfs) 
