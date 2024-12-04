@@ -228,12 +228,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-Want more stories with less ads? Try
+If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-It's what the cool kids are doing.  
-It also helps us pay the bills.
+More Fark for your buck
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -333,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Photoshop Giulia going for a walk](https://www.fark.com/goto/13480624) ( [static.open.online](https://www.fark.com/goto/13480624) ) » [(14 comments)](https://www.fark.com/comments/13480624/Photoshop-Giulia-going-for-a-walk) |
-| [Discussion](https://www.fark.com/discussion/) | [The Tuesday Night Science Channel Discussion Thread, 9PM Eastern](https://www.fark.com/goto/13482254) ( [fark.com](https://www.fark.com/goto/13482254) ) » [(2 comments)](https://www.fark.com/comments/13482254/The-Tuesday-Night-Science-Channel-Discussion-Thread-9PM-Eastern) |
-| [Sports](https://www.fark.com/sports/) | [It's the last NXT before Deadline: HoFers X-Pac & Eric Bischoff appear, a tag team battle royale to face Fraxiom, Men's & Women's last chance Iron Survivor qualifiers and what does Tatum's new friend Gigi have planned? Find out at 8 PM ET on CW](https://www.fark.com/goto/13482336) ( [wwe.com](https://www.fark.com/goto/13482336) ) » [(38 comments)](https://www.fark.com/comments/13482336/Its-last-NXT-before-Deadline-HoFers-X-Pac-Eric-Bischoff-appear-a-tag-team-battle-royale-to-face-Fraxiom-Mens-Womens-last-chance-Iron-Survivor-qualifiers-what-does-Tatums-new-friend-Gigi-have-planned-Find-out-at-8-PM-ET-on-CW) |
-| [Business](https://www.fark.com/business/) | [Frontier Airlines announces new "first-class style" seats. They're presumably regular economy seats, but they cost as much as first class and each one has a video screen showing someone relaxing in real first class so you can pretend it's you](https://www.fark.com/goto/13482084) ( [cnn.com](https://www.fark.com/goto/13482084) ) » [(14 comments)](https://www.fark.com/comments/13482084/Frontier-Airlines-announces-new-first-class-style-seats-Theyre-presumably-regular-economy-seats-but-they-cost-as-much-as-first-class-each-one-has-a-video-screen-showing-someone-relaxing-in-real-first-class-so-you-can-pretend-its-you) |
-| [STEM](https://www.fark.com/stem/) | [The Tuesday Night Science Channel Discussion Thread, 9PM Eastern](https://www.fark.com/goto/13482254) ( [fark.com](https://www.fark.com/goto/13482254) ) » [(2 comments)](https://www.fark.com/comments/13482254/The-Tuesday-Night-Science-Channel-Discussion-Thread-9PM-Eastern) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Disney planning 'live action' movie about main character in a coma because why not?](https://www.fark.com/goto/13482356) ( [yahoo.com](https://www.fark.com/goto/13482356) ) » [(24 comments)](https://www.fark.com/comments/13482356/Disney-planning-live-action-movie-about-main-character-in-a-coma-because-why-not) |
-| [Fandom](https://www.fark.com/fandom/) | [Dumbass parents run crying to the media, insuring that millions of kids who weren't previously interested will now flock to read 'Wicked' in book form](https://www.fark.com/goto/13482328) ( [yahoo.com](https://www.fark.com/goto/13482328) ) » [(84 comments)](https://www.fark.com/comments/13482328/Dumbass-parents-run-crying-to-media-insuring-that-millions-of-kids-who-werent-previously-interested-will-now-flock-to-read-Wicked-in-book-form) |
-| [D'awww](https://www.fark.com/dawww/) | [National crisis is finally over as list of 2024's most popular pet names released. Until next year anyways](https://www.fark.com/goto/13482576) ( [prnewswire.com](https://www.fark.com/goto/13482576) ) » [(5 comments)](https://www.fark.com/comments/13482576/National-crisis-is-finally-over-as-list-of-2024s-most-popular-pet-names-released-Until-next-year-anyways) |
-| [Food](https://www.fark.com/food/) | [Why not beanut putter cups?](https://www.fark.com/goto/13482616) ( [youtube.com](https://www.fark.com/goto/13482616) ) » [(1 comment)](https://www.fark.com/comments/13482616/Why-not-beanut-putter-cups) |
-| [Politics](https://www.fark.com/politics/) | [Yellen leads to shootin'](https://www.fark.com/goto/13482352) ( [apnews.com](https://www.fark.com/goto/13482352) ) » [(17 comments)](https://www.fark.com/comments/13482352/Yellen-leads-to-shootin) |
+| [Main](https://www.fark.com/) | [Today is Crate Day in New Zealand, and Lets Hug Day in the United States. I think we're getting screwed here, guys](https://www.fark.com/goto/13482164) ( [nationaltoday.com](https://www.fark.com/goto/13482164) ) » [(2 comments)](https://www.fark.com/comments/13482164/Today-is-Crate-Day-in-New-Zealand-Lets-Hug-Day-in-United-States-I-think-were-getting-screwed-here-guys) |
+| [Discussion](https://www.fark.com/discussion/) | [The Tuesday Night Science Channel Discussion Thread, 9PM Eastern](https://www.fark.com/goto/13482254) ( [fark.com](https://www.fark.com/goto/13482254) ) » [(93 comments)](https://www.fark.com/comments/13482254/The-Tuesday-Night-Science-Channel-Discussion-Thread-9PM-Eastern) |
+| [Sports](https://www.fark.com/sports/) | [Al-Shaair suspended 3 games after Lawrence hit. Whoa \*cough... coughcoughcough\* \[pass\]](https://www.fark.com/goto/13482544) ( [espn.com](https://www.fark.com/goto/13482544) ) » [(13 comments)](https://www.fark.com/comments/13482544/Al-Shaair-suspended-3-games-after-Lawrence-hit-Whoa-cough-coughcoughcough-pass) |
+| [Business](https://www.fark.com/business/) | [Canadian parents will have a hard time making their money back when they try to sell their kid](https://www.fark.com/goto/13482634) ( [thewalrus.ca](https://www.fark.com/goto/13482634) ) » [(1 comment)](https://www.fark.com/comments/13482634/Canadian-parents-will-have-a-hard-time-making-their-money-back-when-they-try-to-sell-their-kid) |
+| [STEM](https://www.fark.com/stem/) | [New mystery disease outbreak in the Congo almost gross](https://www.fark.com/goto/13482448) ( [apnews.com](https://www.fark.com/goto/13482448) ) » [(11 comments)](https://www.fark.com/comments/13482448/New-mystery-disease-outbreak-in-Congo-almost-gross) |
+| [Entertainment](https://www.fark.com/entertainment/) | [You should know the Grinch is having knee surgery tomorrow](https://www.fark.com/goto/13482516) ( [usermag.co](https://www.fark.com/goto/13482516) ) » [(12 comments)](https://www.fark.com/comments/13482516/You-should-know-Grinch-is-having-knee-surgery-tomorrow) |
+| [Fandom](https://www.fark.com/fandom/) | ["The most interesting thing about Skeleton Crew so far is the disconnect between how its characters react to and how we, the viewers, react to it." "We" haven't been sent three preview eps, Sisbert. So we can't react yet](https://www.fark.com/goto/13482594) ( [pastemagazine.com](https://www.fark.com/goto/13482594) ) » [(11 comments)](https://www.fark.com/comments/13482594/The-most-interesting-thing-about-Skeleton-Crew-so-far-is-disconnect-between-how-its-characters-react-to-how-we-viewers-react-to-it-We-havent-been-sent-three-preview-eps-Sisbert-So-we-cant-react-yet) |
+| [D'awww](https://www.fark.com/dawww/) | [National crisis is finally over as list of 2024's most popular pet names released. Until next year anyways](https://www.fark.com/goto/13482576) ( [prnewswire.com](https://www.fark.com/goto/13482576) ) » [(6 comments)](https://www.fark.com/comments/13482576/National-crisis-is-finally-over-as-list-of-2024s-most-popular-pet-names-released-Until-next-year-anyways) |
+| [Food](https://www.fark.com/food/) | [Why not beanut putter cups?](https://www.fark.com/goto/13482616) ( [youtube.com](https://www.fark.com/goto/13482616) ) » [(4 comments)](https://www.fark.com/comments/13482616/Why-not-beanut-putter-cups) |
+| [Politics](https://www.fark.com/politics/) | [So we finally get a clear definition of what government efficiency is all about](https://www.fark.com/goto/13482522) ( [dailykos.com](https://www.fark.com/goto/13482522) ) » [(27 comments)](https://www.fark.com/comments/13482522/So-we-finally-get-a-clear-definition-of-what-government-efficiency-is-all-about) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -352,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Dec 03 2024 20:43:17  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Dec 04 2024 01:43:02  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
