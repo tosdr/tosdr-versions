@@ -118,9 +118,9 @@ Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/mya
 
 Screenshots needed
 
-* [Radical Radial](https://www.myabandonware.com/game/radical-radial-rq7)
-* [Wacky Races](https://www.myabandonware.com/game/wacky-races-c68)
-* [The Perfect General: Greatest Battles of the 20th Century](https://www.myabandonware.com/game/the-perfect-general-greatest-battles-of-the-20th-century-3dv)
+* [Tokyo Cop: Special Police Reinforcement](https://www.myabandonware.com/game/tokyo-cop-special-police-reinforcement-slt)
+* [Tritorn II: Road of Darkness](https://www.myabandonware.com/game/tritorn-ii-road-of-darkness-q7m)
+* [Courier Crisis](https://www.myabandonware.com/game/courier-crisis-ndc)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
