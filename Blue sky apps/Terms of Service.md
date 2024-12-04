@@ -2,7 +2,7 @@
 
 [Pricing](https://blueskyapps.org/pricing)[Get Started](https://blueskyapps.org/users/sign_up)[Login](https://blueskyapps.org/users/sign_in)
 
-[**⚡️ Black Friday Special: UNLIMITED meetings on Pro plans ⚡️**](https://blueskyapps.org/pricing)
+[**⚡️ End of Year Special: UNLIMITED meetings on Pro plans ⚡️**](https://blueskyapps.org/pricing)
 
 TERMS OF SERVICE
 ================
