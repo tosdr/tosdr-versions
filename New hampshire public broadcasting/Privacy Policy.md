@@ -188,9 +188,9 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 * [**Trailer** | The Earthshot Report](https://video.nhpbs.org/video/trailer-98ejld?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Dallas, 2019 Trailer** | Independent Lens](https://video.nhpbs.org/video/dallas-2019-trailer-kyir97?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Sara Bareilles: New Year's Eve Preview** | Next at the Kennedy Center](https://video.nhpbs.org/video/sara-bareilles-preview-pqjlo8?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Syrians describe living in crossfire of brutal civil war** | PBS News Hour](https://video.nhpbs.org/video/in-the-crossfire-1733261813?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**theRing: I Am A Renegade \[Official Music Video\]** | American Masters](https://video.nhpbs.org/video/thering-i-am-a-renegade-official-music-video-zbrlaw?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Stories That Matter** | WORLD Channel](https://video.nhpbs.org/video/world-channel-stories-that-matter?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**December 3, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/december-3-2024-pbs-news-hour-full-episode-1733202001?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Jim Parsons, Katie Holmes and Kenny Leon on Broadway's "Our Town"** | Amanpour and Company](https://video.nhpbs.org/video/jim-parsons-katie-holmes-and-kenny-leon-on-broadways-our-town-lcqotr?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**2025 Honda Pilot Black Edition & 2024 Chevrolet Corvette E-Ray** | MotorWeek](https://video.nhpbs.org/video/2025-honda-pilot-black-edition-2024-chevrolet-corvette-e-ray-2deebx?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
