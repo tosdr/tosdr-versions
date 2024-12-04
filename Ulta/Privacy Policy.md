@@ -571,6 +571,39 @@ Free standard shipping on any $35 purchase
         
         [Shop now](https://www.ulta.com/p/12-days-of-beauty-advent-calendar-pimprod2048347?sku=2625109)
         
+    * Wellness
+        
+        [All Wellness Shop](https://www.ulta.com/shop/wellness-shop)
+        
+        * [### Everyday Care](https://www.ulta.com/shop/wellness-shop/everyday-care)
+            
+            * [Body Treatments](https://www.ulta.com/shop/skin-care/treatment-serums/body-treatments)
+                
+            * [Deodorant](https://www.ulta.com/shop/wellness-shop/everyday-care/deodorant)
+                
+            * [Scalp Care](https://www.ulta.com/shop/hair/treatment/scalp-care)
+                
+            * [Oral Care](https://www.ulta.com/shop/wellness-shop/everyday-care/oral-care)
+                
+            * [Hair Removal](https://www.ulta.com/shop/wellness-shop/everyday-care/hair-removal)
+                
+            
+        * [### Supplements](https://www.ulta.com/shop/wellness-shop/supplements)
+            
+        * [### Relax & Renew](https://www.ulta.com/shop/wellness-shop/relax-renew)
+            
+            * [Aromatherapy](https://www.ulta.com/shop/wellness-shop/relax-renew/aromatherapy)
+                
+            * [Sleep Essentials](https://www.ulta.com/shop/wellness-shop/relax-renew/sleep-essentials)
+                
+            * [Spa Essentials](https://www.ulta.com/shop/wellness-shop/relax-renew/spa-essentials)
+                
+            
+        * [### Down There Care](https://www.ulta.com/shop/wellness-shop/down-there-care)
+            
+        * [### Intimate Wellness](https://www.ulta.com/shop/wellness-shop/intimate-wellness)
+            
+        
     * Tools & Brushes
         
         [All Tools & Brushes](https://www.ulta.com/shop/tools-brushes)
@@ -739,39 +772,6 @@ Free standard shipping on any $35 purchase
         * [### Gift with Purchase](https://www.ulta.com/shop/gifts/gifts-with-purchase)
             
         * [### Gift Cards](https://www.ulta.com/guestservices/gift-cards)
-            
-        
-    * The Wellness Shop
-        
-        [All Wellness Shop](https://www.ulta.com/shop/wellness-shop)
-        
-        * [### Everyday Care](https://www.ulta.com/shop/wellness-shop/everyday-care)
-            
-            * [Body Treatments](https://www.ulta.com/shop/skin-care/treatment-serums/body-treatments)
-                
-            * [Deodorant](https://www.ulta.com/shop/wellness-shop/everyday-care/deodorant)
-                
-            * [Scalp Care](https://www.ulta.com/shop/hair/treatment/scalp-care)
-                
-            * [Oral Care](https://www.ulta.com/shop/wellness-shop/everyday-care/oral-care)
-                
-            * [Hair Removal](https://www.ulta.com/shop/wellness-shop/everyday-care/hair-removal)
-                
-            
-        * [### Supplements](https://www.ulta.com/shop/wellness-shop/supplements)
-            
-        * [### Relax & Renew](https://www.ulta.com/shop/wellness-shop/relax-renew)
-            
-            * [Aromatherapy](https://www.ulta.com/shop/wellness-shop/relax-renew/aromatherapy)
-                
-            * [Sleep Essentials](https://www.ulta.com/shop/wellness-shop/relax-renew/sleep-essentials)
-                
-            * [Spa Essentials](https://www.ulta.com/shop/wellness-shop/relax-renew/spa-essentials)
-                
-            
-        * [### Down There Care](https://www.ulta.com/shop/wellness-shop/down-there-care)
-            
-        * [### Intimate Wellness](https://www.ulta.com/shop/wellness-shop/intimate-wellness)
             
         
     * Ulta Beauty Collection
