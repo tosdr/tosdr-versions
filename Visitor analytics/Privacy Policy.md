@@ -53,11 +53,11 @@
     * [SaaS Platforms](https://www.visitor-analytics.io/en/white-label/saas-platforms "SaaS Platforms")
     * [Agencies & Consultancies](https://www.visitor-analytics.io/en/white-label/agencies-consultancies "Agencies & Consultancies")
 * [Blog](https://www.visitor-analytics.io/en/blog "Blog")![](/fileadmin/twipla/typo3-website-theme/template/images/icons/down-arrow.svg)
+    * [Find the Best GDPR Training: 10 Courses That Deliver Results](https://www.visitor-analytics.io/en/blog/gdpr-training "Find the Best GDPR Training: 10 Courses That Deliver Results")
     * [Website Intelligence News Roundup November 2024](https://www.visitor-analytics.io/en/blog/website-intelligence-news-roundup-november-2024 "Website Intelligence News Roundup November 2024")
     * [23 Must-Try eCommerce Optimization Tips for Consistent Results](https://www.visitor-analytics.io/en/blog/ecommerce-optimization "23 Must-Try eCommerce Optimization Tips for Consistent Results")
     * [Preparing for a Cookieless Future: What You Need to Know](https://www.visitor-analytics.io/en/blog/cookieless-future "Preparing for a Cookieless Future: What You Need to Know")
     * [A Practical Guide to Customer Journey Analytics](https://www.visitor-analytics.io/en/blog/customer-journey-analytics "A Practical Guide to Customer Journey Analytics")
-    * [What Is Digital Experience Analytics? A Complete A-Z Guide](https://www.visitor-analytics.io/en/blog/digital-experience-analytics "What Is Digital Experience Analytics? A Complete A-Z Guide")
     
 * [Resources](https://www.visitor-analytics.io/en/support)![](/fileadmin/twipla/typo3-website-theme/template/images/icons/down-arrow.svg)
     
