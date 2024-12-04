@@ -1267,20 +1267,6 @@ Default Title - $55
 
 ADD TO TOTE
 
-[![green-tea-egcg-concentrate-cream](https://www.100percentpure.com/cdn/shop/files/1FEGCGCC_Green_Tea_EGCG_Concentrate_Cream_Primary_6f98d162-56fd-4d08-9d5a-703d2ea902e6_239x254.webp?v=1725380733)](https://www.100percentpure.com/products/green-tea-egcg-concentrate-cream)
-
-![ Green Tea EGCG Concentrate Cream](//www.100percentpure.com/cdn/shop/files/1FEGCGCC_Green_Tea_EGCG_Concentrate_Cream_Primary_6f98d162-56fd-4d08-9d5a-703d2ea902e6_220x.webp?v=1725380733)
-
-### [Green Tea EGCG Concentrate Cream](https://www.100percentpure.com/products/green-tea-egcg-concentrate-cream)
-
-697 reviews (697)
-
-$48.00
-
-Default Title - $48
-
-ADD TO TOTE
-
 [![ginseng-collagen-boost-mask](https://www.100percentpure.com/cdn/shop/files/1FSGCBB5_Ginseng_Collagen_Boost_5PK_Primary_239x254.jpg?v=1695863857)](https://www.100percentpure.com/products/ginseng-collagen-boost-masks)
 
 ![ 1FSGCBB5_Primary](//www.100percentpure.com/cdn/shop/files/1FSGCBB5_Ginseng_Collagen_Boost_5PK_Primary_220x.jpg?v=1695863857)
