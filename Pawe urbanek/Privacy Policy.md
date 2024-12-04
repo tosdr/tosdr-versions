@@ -4,7 +4,7 @@
 
 Performance Consultant](https://pawelurbanek.com/)
 
-[Performance Action Pack](https://pawelurbanek.com/#rails-performance-audit) [Blog](https://pawelurbanek.com/blog) [Contact](https://pawelurbanek.com/contact)
+[Blog](https://pawelurbanek.com/blog) [Contact](https://pawelurbanek.com/contact)
 
 Terms and Privacy Policy
 ========================
