@@ -120,23 +120,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
     * Recent posts in Life
         --------------------
         
+        * [Life](https://www.sciencenews.org/topic/life)
+            
+            ### [Here’s how long it would take 100 worms to eat the plastic in one face mask](https://www.sciencenews.org/article/worms-eating-plastic)
+            
+            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")3 hours ago
+            
         * [Animals](https://www.sciencenews.org/topic/animals)
             
             ### [Ethiopian wolves are the first large carnivores found to slurp nectar](https://www.sciencenews.org/article/ethiopia-wolves-carnivore-nectar-pollen)
             
-            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")7 hours ago
+            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")13 hours ago
             
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
             
             ### [Electronic ‘tattoos’ offer an alternative to electrodes for brain monitoring](https://www.sciencenews.org/article/electronic-tattoos-brain-monitoring)
             
             By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")December 2, 2024
-            
-        * [Animals](https://www.sciencenews.org/topic/animals)
-            
-            ### [Giant hornets have been sighted in Europe for the first time](https://www.sciencenews.org/article/giant-hornets-europe-first-sighting)
-            
-            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")December 2, 2024
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
@@ -151,7 +151,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [An unexpected ice collapse hints at worrying changes on the Antarctic coast](https://www.sciencenews.org/article/unexpected-ice-collapse-antarctic-coast)
             
-            By [Douglas Fox](https://www.sciencenews.org/author/douglas-fox "Posts by Douglas Fox")11 hours ago
+            By [Douglas Fox](https://www.sciencenews.org/author/douglas-fox "Posts by Douglas Fox")17 hours ago
             
         * [Climate](https://www.sciencenews.org/topic/climate)
             
@@ -177,7 +177,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Starchy nanofibers shatter the record for world’s thinnest pasta](https://www.sciencenews.org/article/thinnest-pasta-nanofibers)
             
-            By [Skyler Ware](https://www.sciencenews.org/author/skyler-ware "Posts by Skyler Ware")5 hours ago
+            By [Skyler Ware](https://www.sciencenews.org/author/skyler-ware "Posts by Skyler Ware")11 hours ago
             
         * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
             
