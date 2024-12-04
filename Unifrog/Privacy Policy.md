@@ -174,6 +174,12 @@ If you are a **Student**:
 
 In addition, your School **may** use the Unifrog Platform to record details of your ethnicity, nationality, your socioeconomic background or socioeconomic markers, whether you are a "looked-after" child, whether you have any special educational needs (SEN), disability or mental health difficulties, your academic predictions and results, and your attendance record, for its own internal reporting purposes. As the provider of the Unifrog Platform, we will store these details and may access them for example during troubleshooting or bug fixing. Separately, we **may** anonymise these details (meaning that they no longer identify you) and aggregate them with similar anonymised details of other Students to publish reports on how different groups of Students use the Unifrog Platform and progress after they have left School (see [HOW WE USE YOUR INFORMATION AND OUR LEGAL BASIS FOR DOING SO](#HOWWEUSEYOURINFORMATION) for further details.)
 
+You and your teachers can add details about you to the Unifrog Platform in the following ways:
+
+* by inputting them directly into the Unifrog Platform interfaces;
+* your teachers can upload information about you into the Unifrog Platform (for example from spreadsheets); and
+* through apps and platforms like Wonde and the Common App, which you and/or your School choose to use and which connect to the Unifrog Platform.
+
 If you are a **Teacher**:
 
 * we **may** obtain details for your registration on the Unifrog Platform from your School (including from Students and other Teachers) (for example the subject(s) you teach and the Students for whom you are responsible); and
@@ -562,4 +568,4 @@ the universal destinations platform
 * [](https://www.facebook.com/unifrog)
 * [](https://www.linkedin.com/company/unifrog-education)
 
-© Unifrog 2024 | Company number: 08231699 | VAT number: 160 4858 06 | uA
+© Unifrog 2024 | Company number: 08231699 | VAT number: 160 4858 06 | uB
