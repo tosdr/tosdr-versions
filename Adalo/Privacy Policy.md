@@ -32,7 +32,7 @@ USER MANAGEMENT
 
 BROWSING AND LISTINGS
 
-[Class Purchase and Management](https://www.adalo.com/feature-template-detail-pages/templates-browse-purchasemanage-classes)[Browse Classes](https://adalo.com/features/browse-classes-feature-template)[Browse Dates](https://adalo.com/features/browse-dates-feature-template)[Browse Home Listings](https://adalo.com/features/browse-home-listings-feature-template)[Classes Admin Dashboard](https://adalo.com/features/classes-admin-dashboard-feature-template)
+[Class Purchase and Management](https://www.adalo.com/feature-template-detail-pages/templates-browse-purchase-manage-classes)[Browse Classes](https://adalo.com/features/browse-classes-feature-template)[Browse Dates](https://adalo.com/features/browse-dates-feature-template)[Browse Home Listings](https://adalo.com/features/browse-home-listings-feature-template)[Classes Admin Dashboard](https://adalo.com/features/classes-admin-dashboard-feature-template)
 
 TASK AND ACTIVITY MANAGEMENT
 
@@ -166,17 +166,21 @@ Product
 
 [iOS Apps](https://www.adalo.com/ios-app-apple-app-store)[Android Apps](https://www.adalo.com/native-android-app-google-play-store)[Web Apps](https://www.adalo.com/publish-web-app-no-code)[Responsive Design](https://www.adalo.com/features/responsive-design)[Feature Templates](https://www.adalo.com/web-and-native-app-feature-templates)[Sections](https://www.adalo.com/web-and-native-app-sections)[Pricing](https://www.adalo.com/pricing)
 
+Compare
+
+[Vs Bubble](https://www.adalo.com/adalo-vs-bubble)[Vs Glide](https://www.adalo.com/adalo-vs-glide)[Vs Flutterflow](https://www.adalo.com/adalo-vs-flutterflow)
+
 Solutions
 
 [For Businesses](https://www.adalo.com/businesses-organizations)[For Freelancers](https://www.adalo.com/freelancers-agencies)[For Startups](https://www.adalo.com/startup-founders)[Use Cases](https://www.adalo.com/showcase)
 
+Company
+
+[About](https://www.adalo.com/about-us)[Careers](https://www.adalo.com/jobs)[Blog](https://www.adalo.com/blog)[Preferences](https://www.adalo.com/preferences)
+
 Resources
 
 [Help Documentation](https://help.adalo.com/)[Adalo App Academy](https://appacademy.adalo.com/)[Adalo Community Forum](https://forum.adalo.com/)[Adalo Experts](https://www.adalo.com/experts)[App Cost Calculator](https://adalo-internal.adalo.com/adalo-cost-calculator)[Future of No-Code](https://www.adalo.com/the-future-is-no-code/conclusions)[Support](https://info.adalo.com/submit-a-support-ticket)[Component Development](https://developers.adalo.com/docs/basics/introduction)[#MadeinAdalo](https://www.adalo.com/made-in-adalo)[Adalo Status](https://status.adalo.com/)
-
-Compare
-
-[Vs Bubble](https://www.adalo.com/adalo-vs-bubble)[Vs Glide](https://www.adalo.com/adalo-vs-glide)[Vs Flutterflow](https://www.adalo.com/adalo-vs-flutterflow)
 
 Explore Features
 
@@ -186,13 +190,10 @@ USER MANAGEMENT
 
 BROWSING AND LISTINGS
 
-[Class Purchase and Management](https://www.adalo.com/feature-template-detail-pages/templates-browse-purchasemanage-classes)[Browse Classes](https://www.adalo.com/features/browse-classes-feature-template)[Browse Dates](https://www.adalo.com/features/browse-dates-feature-template)[Browse Home Listings](https://www.adalo.com/features/browse-home-listings-feature-template)[Classes Admin Dashboard](https://www.adalo.com/features/classes-admin-dashboard-feature-template)
+[Class Purchase and Management](https://www.adalo.com/feature-template-detail-pages/templates-browse-purchase-manage-classes)[Browse Classes](https://www.adalo.com/features/browse-classes-feature-template)[Browse Dates](https://www.adalo.com/features/browse-dates-feature-template)[Browse Home Listings](https://www.adalo.com/features/browse-home-listings-feature-template)[Classes Admin Dashboard](https://www.adalo.com/features/classes-admin-dashboard-feature-template)
 
-Company
-
-[About](https://www.adalo.com/about-us)[Careers](https://www.adalo.com/jobs)[Blog](https://www.adalo.com/blog)[Preferences](https://www.adalo.com/preferences)
-
-TASK AND ACTIVITY MANAGEMENT
+TASK AND   
+ACTIVITY MANAGEMENT
 
 [Assign and Manage Tasks](https://www.adalo.com/features/assign-tasks-feature-template)[Workout Assignment](https://www.adalo.com/features/workout-assignment-feature-template)
 
@@ -200,11 +201,13 @@ CONTENT AND MEDIA
 
 [Accouncement and Notifications](https://www.adalo.com/features/announcements-notifications-feature-template)[Image Carousel](https://www.adalo.com/features/image-carousel-feature-template)[Social Media Feed](https://www.adalo.com/features/social-media-feed-feature-template)
 
-MESSAGING AND COMMUNICATION
+MESSAGING AND   
+COMMUNICATION
 
 [Group Messaging](https://www.adalo.com/features/group-messaging-feature-template)[User Chat](https://www.adalo.com/features/user-chat-feature-template)
 
-DOCUMENT AND LISTING MANAGEMENT
+DOCUMENT AND   
+LISTING MANAGEMENT
 
 [Agree and Sign Documents](https://www.adalo.com/features/agree-and-sign-feature-template)[External Collections Integration](https://www.adalo.com/features/external-collections)
 
