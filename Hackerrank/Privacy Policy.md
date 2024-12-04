@@ -394,7 +394,6 @@ We may make changes to this Privacy Policy at any time. The “Last Updated” d
 * [Get Started](https://www.hackerrank.com/get-started/)
     * [Pricing](https://www.hackerrank.com/pricing)
     * [Free Trial](https://www.hackerrank.com/get-started/hire-now)
-    * [Contact Us](https://www.hackerrank.com/products/contact-us/)
     * [Request Demo](https://www.hackerrank.com/request-demo/)
     * [Product Support](https://support.hackerrank.com/)
     * [For Developers](https://www.hackerrank.com/dashboard)
