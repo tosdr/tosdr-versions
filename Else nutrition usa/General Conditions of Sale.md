@@ -414,6 +414,8 @@ Already have an account? [Log in](https://elsenutrition.com/account/login) to ch
 
 Loading...
 
+  One or more of the items in your cart is a recurring or deferred purchase. By continuing, I agree to the cancellation policy and authorize you to charge my payment method at the prices, frequency and dates listed on this page until my order is fulfilled or I cancel, if permitted.
+
 ![](https://cdn.shopify.com/s/files/1/0292/6385/5675/files/Presentation1_f1435f11-119f-4a12-841e-287314a15070.jpg)
 
 ![](https://cdn.shopify.com/s/files/1/0292/6385/5675/files/Frame_14004_2.png?v=1712759161)
