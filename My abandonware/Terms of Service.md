@@ -107,11 +107,11 @@ Top downloads
 
 Latest releases
 
+* [Kar-Nage](https://www.myabandonware.com/game/kar-nage-tdh)
+* [Rendezvous: A Space Shuttle Flight Simulation](https://www.myabandonware.com/game/rendezvous-a-space-shuttle-flight-simulation-tdg)
 * [Spelling Bee Games](https://www.myabandonware.com/game/spelling-bee-games-tdf)
 * [Perception I, II, III](https://www.myabandonware.com/game/perception-i-ii-iii-tde)
 * [Kid's Typing Tutor](https://www.myabandonware.com/game/kid-s-typing-tutor-rff)
-* [Diner Dash 2: Restaurant Rescue](https://www.myabandonware.com/game/diner-dash-2-restaurant-rescue-g42)
-* [Diner Dash](https://www.myabandonware.com/game/diner-dash-g41)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
