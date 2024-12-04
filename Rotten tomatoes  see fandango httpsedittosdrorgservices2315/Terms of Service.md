@@ -57,6 +57,14 @@ Offers
 
 [SEE ALL OFFERS](https://www.fandango.com/offers)
 
+* [Save 15% off on the Moana 2 vinyl LP image link ![Save 15% off on the Moana 2 vinyl LP](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/5600fa30-acfe-11ef-a588-3b078e6b3d8a--fan-globalofferunit-homepage-moana2-vinyl-gwp-292x118.png)](https://www.fandangomovietickets.com/Moana2VinylGWPOffer?cmp=TARS~FANDANGO~Moana2VinylTicketingOffer_Footer) 
+    
+    ### Save 15% off on the Moana 2 vinyl LP
+    
+    Buy a Ticket, Save 15% off on the Moana 2 vinyl LP
+    
+    [BUY TICKETS](https://www.fandangomovietickets.com/Moana2VinylGWPOffer?cmp=TARS~FANDANGO~Moana2VinylTicketingOffer_Footer)
+    
 * [Chance to win a vacation! image link ![Chance to win a vacation!](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/dc250740-a39a-11ef-a588-3b078e6b3d8a--fan-homepageofferunit-292x118.png)](https://www.fandangomovietickets.com/fandangoscrownofthepridesweepstakes?cmp=TARS~FANDANGO~MufasaSweeps_Footer) 
     
     ### Chance to win a vacation!
@@ -64,14 +72,6 @@ Offers
     Buy a ticket to Mufasa: The Lion King for a chance to win a vacation to the Walt Disney World® Resort!
     
     [BUY TICKETS](https://www.fandangomovietickets.com/fandangoscrownofthepridesweepstakes?cmp=TARS~FANDANGO~MufasaSweeps_Footer)
-    
-* [Save on select movies image link ![Save on select movies](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/ca0ae630-acfd-11ef-a07e-5b03d6159fe4--fan-globalofferunit-homepage-sonicthehedgehog3-gwp-292x118.png)](https://www.watchfandangoathome.com/Sonic3) 
-    
-    ### Save on select movies
-    
-    And get up to $5.00 towards a movie ticket\* to see Sonic the Hedgehog 3 in theaters
-    
-    [LEARN MORE](https://www.watchfandangoathome.com/Sonic3)
     
 * [Set sail with the Moana 2 Ticket 2 Adventure image link ![Set sail with the Moana 2 Ticket 2 Adventure](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/b03cd7c0-9332-11ef-a588-3b078e6b3d8a--fan-globalofferunit-homepage-moanaticket2adventurebundle-292x118.jpg)](https://www.fandangomovietickets.com/moana2ticket2adventure?cmp=TARS~FANDANGO~Moana2ticket2adventure_Footer) 
     
@@ -81,7 +81,7 @@ Offers
     
     [BUY NOW](https://www.fandangomovietickets.com/moana2ticket2adventure?cmp=TARS~FANDANGO~Moana2ticket2adventure_Footer)
     
-* [Jingle All The Way To The Theater image link ![Jingle All The Way To The Theater](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/5140f690-acfd-11ef-a07e-5b03d6159fe4--fan-globalofferunit-holidayexhibitoroffers-holidays-292x118.png)](https://www.fandangomovietickets.com/holiday_theater_deals/?cmp=TARS~FANDANGO~holiday_exhibitor_offers_Footer) 
+* [Jingle All The Way To The Theater image link ![Jingle All The Way To The Theater](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/e65207d0-b278-11ef-a588-3b078e6b3d8a--fan-globalofferunit-holidayexhibitoroffers-holidays-292x118-1.png)](https://www.fandangomovietickets.com/holiday_theater_deals/?cmp=TARS~FANDANGO~holiday_exhibitor_offers_Footer) 
     
     ### Jingle All The Way To The Theater
     
