@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ It is the fate of manufactured goods to slowly and gently depreciate as they get old... but it is the fate of operating systems to become free”
+“ Nothing is work unless you'd rather be doing something else”
 
-[Neal Stephenson](http://www.nealstephenson.com/)
+[George Halas](https://en.wikipedia.org/wiki/George_Halas)
 
 [](https://www.adafruit.com/about)
 
