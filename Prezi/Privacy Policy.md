@@ -749,6 +749,10 @@ Languages
 
 Blog
 
+Dec. 4, 2024
+
+[Biology topics for presentation: Explore fascinating insights](https://blog.prezi.com/biology-topics-for-presentation/)
+
 Nov. 18, 2024
 
 [AI prompt examples for creating impactful AI presentations](https://blog.prezi.com/ai-prompt-examples/)
@@ -756,10 +760,6 @@ Nov. 18, 2024
 Nov. 15, 2024
 
 [Learn from famous public speakers: inspiration from top speakers](https://blog.prezi.com/famous-public-speakers/)
-
-Nov. 13, 2024
-
-[How to do bullet points right in your presentations](https://blog.prezi.com/how-to-do-bullet-points/)
 
 [Latest posts](https://blog.prezi.com/)
 
