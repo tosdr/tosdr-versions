@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Tomorrow belongs to those who can hear it coming”
+“ We must use time creatively, in the knowledge that the time is always ripe to do right”
 
-[David Bowie](http://en.wikipedia.org/wiki/David_Bowie)
+[Martin Luther King Jr.](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.)
 
 [](https://www.adafruit.com/about)
 
