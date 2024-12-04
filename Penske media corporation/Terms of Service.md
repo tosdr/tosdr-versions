@@ -38,7 +38,7 @@ Est.
 
 1930](https://pmc.com/our-brands/the-hollywood-reporter)
 
-[![](https://cdn.prod.website-files.com/63fd0f14411a3a61db92a6d8/6477f4fdfad16e40da9ed54d_GG.svg)
+[![](https://cdn.prod.website-files.com/63fd0f14411a3a61db92a6d8/6750c074694dce6814aa7ee3_GG%20%E2%80%93%205%20344x60.svg)
 
 Est.
 
@@ -262,7 +262,7 @@ Est.
 
 1930](https://pmc.com/our-brands/the-hollywood-reporter)
 
-[![](https://cdn.prod.website-files.com/63fd0f14411a3a61db92a6d8/6477f4fdfad16e40da9ed54d_GG.svg)
+[![](https://cdn.prod.website-files.com/63fd0f14411a3a61db92a6d8/6750c074694dce6814aa7ee3_GG%20%E2%80%93%205%20344x60.svg)
 
 Est.
 
