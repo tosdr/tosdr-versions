@@ -1,4 +1,4 @@
-* [* Deutsch](https://www.algolia.com/de/policies/policyEntryMenu/privacy/ "Switch to ")[* English](#)[* français](https://www.algolia.com/fr/policies/policyEntryMenu/privacy/ "Switch to ")
+* [* Deutsch](https://www.algolia.com/de/policies/privacy/ "Switch to ")[* English](#)[* français](https://www.algolia.com/fr/policies/privacy/ "Switch to ")
     
 
 [News:
@@ -138,21 +138,21 @@ Relating to the use of Algolia's Website and Services. 
 
 Select Policy
 
-[Terms of Service](https://www.algolia.com/policies/policyEntryMenu/terms)
+[Terms of Service](https://www.algolia.com/policies/terms)
 
-[Service Level Agreement](https://www.algolia.com/policies/policyEntryMenu/sla)
+[Service Level Agreement](https://www.algolia.com/policies/sla)
 
-[Privacy Policy](https://www.algolia.com/policies/policyEntryMenu/privacy)
+[Privacy Policy](https://www.algolia.com/policies/privacy)
 
-[Support Policy](https://www.algolia.com/policies/policyEntryMenu/support)
+[Support Policy](https://www.algolia.com/policies/support)
 
-[Acceptable Use Policy](https://www.algolia.com/policies/policyEntryMenu/acceptable-use)
+[Acceptable Use Policy](https://www.algolia.com/policies/acceptable-use)
 
-[Legal Information](https://www.algolia.com/policies/policyEntryMenu/legal)
+[Legal Information](https://www.algolia.com/policies/legal)
 
-[Cookies](https://www.algolia.com/policies/policyEntryMenu/cookies)
+[Cookies](https://www.algolia.com/policies/cookies)
 
-[Infrastructure & Sub-Processors](https://www.algolia.com/policies/policyEntryMenu/infrastructure-and-sub-processors)
+[Infrastructure & Sub-Processors](https://www.algolia.com/policies/infrastructure-and-sub-processors)
 
 Effective Date: January 29, 2021
 
@@ -617,6 +617,6 @@ Algolia mark white ©2024 Algolia - All rights reserved.
 
 * Cookie settings
 * [Trust Center](https://www.algolia.com/trust-center)
-* [Privacy Policy](https://www.algolia.com/policies/policyEntryMenu/privacy)
-* [Terms of service](https://www.algolia.com/policies/policyEntryMenu/terms)
-* [Acceptable Use Policy](https://www.algolia.com/policies/policyEntryMenu/acceptable-use)
+* [Privacy Policy](https://www.algolia.com/policies/privacy)
+* [Terms of service](https://www.algolia.com/policies/terms)
+* [Acceptable Use Policy](https://www.algolia.com/policies/acceptable-use)
