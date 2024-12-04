@@ -264,9 +264,9 @@ Configure third party platform settings
 
 If you connect to our Services through a third party platform (like a social media account), you may be able to use your settings in your account with that platform to limit the information we receive from it moving forward.
 
-Delete your content and account
+Delete your data
 
-You can choose to delete certain content of yours from your account. You can delete your account entirely by following the instructions [**here**](https://support.vsco.co/hc/en-us/articles/360004196352-How-do-I-delete-my-VSCO-Account-).  
+You can choose to delete certain content of yours from your account. You can delete your account and your data entirely by following the instructions [**here**](https://support.vsco.co/hc/en-us/articles/360004196352-How-do-I-delete-my-VSCO-Account-).  
   
 If you are under 18 years of age, you can also use these same instructions to exercise your right to delete your content under California’s “Online Eraser” Law.
 
