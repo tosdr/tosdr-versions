@@ -294,7 +294,7 @@ More
 
 [Get a demo](https://www.sailpoint.com/demo)
 
-[Assess your identity](https://www.sailpoint.com/identity-security-adoption/)
+[Assess your identity](https://www.sailpoint.com/identity-security-horizons/)
 
 SearchChange language
 
