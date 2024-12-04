@@ -205,26 +205,30 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Pizza Art!](https://www.somethingawful.com/comedy-goldmine/digiorno-pizza-art/1/)
-* [Warhamer 40,000: Rogue Trader (part one)](https://www.somethingawful.com/dungeons-and-dragons/wtf-rogue-trader/1/)
-* [Ass Effect](https://www.somethingawful.com/news/mass-effect/1/)
-* [The Simcity Board of Advisors](https://www.somethingawful.com/news/simcity-advisors/1/)
+* [Beast Forum](https://www.somethingawful.com/weekend-web/beastforum/1/)
+* [Literotica](https://www.somethingawful.com/weekend-web/literotica-forums/1/)
+* [Large Penis Support Group](https://www.somethingawful.com/weekend-web/lpsg/1/)
+* [Dark Starlings and Incest Board](https://www.somethingawful.com/weekend-web/darkstarling-incestforum/1/)
+* [Fleshlight](https://www.somethingawful.com/weekend-web/fleshlight/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/tfr-box.gif) [2025 Celebrity Deadpool](http://forums.somethingawful.com/showthread.php?threadid=4076710 "2025 Celebrity Deadpool")
 * ![](https://fi.somethingawful.com/forums/posticons/tviv-competition.gif) [Ridiculous things that have happened that nobody saw](http://forums.somethingawful.com/showthread.php?threadid=4076761 "Ridiculous things that have happened that nobody saw")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/music.png) [Tillamook it's the ice cream to serve](http://forums.somethingawful.com/showthread.php?threadid=4076762 "Tillamook it's the ice cream to serve")
-* ![](https://fi.somethingawful.com/forums/posticons/cd_hype.gif) [South Korea declares martial law](http://forums.somethingawful.com/showthread.php?threadid=4076754 "South Korea declares martial law")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/unfunny.png) [Can we please have a moment of silence for](http://forums.somethingawful.com/showthread.php?threadid=4076739 "Can we please have a moment of silence for")
+* ![](https://fi.somethingawful.com/forums/posticons/cd_hype.gif) [South Korea declares martial law](http://forums.somethingawful.com/showthread.php?threadid=4076754 "South Korea declares martial law")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/music.png) [Tillamook it's the ice cream to serve](http://forums.somethingawful.com/showthread.php?threadid=4076762 "Tillamook it's the ice cream to serve")
+* ![](https://fi.somethingawful.com/forums/posticons/LF-fuckshitdamntag2.gif) [I stepped on a scorpion this morning and it stung me underneath my foot :(](http://forums.somethingawful.com/showthread.php?threadid=4076795 "I stepped on a scorpion this morning and it stung me underneath my foot :(")
+* ![](https://fi.somethingawful.com/forums/posticons/pokeball.gif) [The demented cartoon movie \[2001\]](http://forums.somethingawful.com/showthread.php?threadid=4076780 "The demented cartoon movie [2001]")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/science.png) [Wim Hof Method](http://forums.somethingawful.com/showthread.php?threadid=4076794 "Wim Hof Method")
+* ![](https://fi.somethingawful.com/forums/posticons/diy-homeimprove.gif) [Oh my god, the forums are back](http://forums.somethingawful.com/showthread.php?threadid=4076800 "Oh my god, the forums are back")
 
 ### Random Articles
 
-* [Darkfurr](https://www.somethingawful.com/awful-links/awful-link-2238/)
-* [Flash Tub 3007](https://www.somethingawful.com/flash-tub/future-animation-metal/)
-* [A Very Special Star Wars Non-Christmas Special](https://www.somethingawful.com/news/very-special-star/)
-* [London's Times](https://www.somethingawful.com/awful-links/awful-link-4158/)
-* [John Cena's Face Superimposed on Cats](https://www.somethingawful.com/photoshop-phriday/feline-cena-animorphs/)
+* [Rainbow Primates](https://www.somethingawful.com/awful-links/awful-link-2246/)
+* [I Cannot Continue to Review Mobile Games for a Network Funded by Vladimir Putin](https://www.somethingawful.com/news/quitting-rt/)
+* [How Not to Get Shot!](https://www.somethingawful.com/photoshop-phriday/get-shot-america/1/)
+* [Helping Out the Community](https://www.somethingawful.com/news/helping-out-community/)
+* [Funky Pigs Cavies (Thanks, CJ!)](https://www.somethingawful.com/awful-links/guinea-pig-hairstyles/)
 
 [Random!](https://www.somethingawful.com/random/)
 
