@@ -156,14 +156,14 @@ Subscribe
 * [Webinars](https://precisefp.com/webinars/)
 * [Knowledge Base](http://help.precisefp.com/)
 * [Heartbeat](https://status.precisefp.com/)
-* [Developer API](https://precisefp.com/precisefps-developer-apis-new/)
+* [Developer API](https://precisefp.com/developer-api/)
 
 * [Support and Training](https://precisefp.com/support-and-training/)
 * [Testimonials](https://precisefp.com/our-testimonials)
 * [Webinars](https://precisefp.com/webinars/)
 * [Knowledge Base](http://help.precisefp.com/)
 * [Heartbeat](https://status.precisefp.com/)
-* [Developer API](https://precisefp.com/precisefps-developer-apis-new/)
+* [Developer API](https://precisefp.com/developer-api/)
 
 [Log In](https://app.precisefp.com/signin)
 
