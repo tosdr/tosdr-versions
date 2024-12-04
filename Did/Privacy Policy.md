@@ -327,6 +327,9 @@ If you have any questions, concerns or complaints regarding our compliance with 
 * [FAQs](https://www.d-id.com/faqs/)
     * [AI Video Glossary](https://www.d-id.com/resources/glossary/)
 
+**Subscribe to our monthly newsletter and other industry updates**
+------------------------------------------------------------------
+
 * [Facebook](https://www.facebook.com/deidentification/)
 * [Instagram](https://www.instagram.com/d_id.ai/)
 * [LinkedIn](https://www.linkedin.com/company/deidentification)
