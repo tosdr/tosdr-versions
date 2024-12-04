@@ -142,7 +142,7 @@
 [My Feed!My Feed](https://www.barstoolsports.com/favorites)[App](https://www.barstoolsports.com/download)
 
 * Trending Topics
-* [Rundown](https://www.barstoolsports.com/video/3532812/dave-portnoy-rips-ohio-state-to-shreds-barstool-rundown-december-2nd-2024)
+* [Surviving Barstool](https://www.barstoolsports.com/blog/3532900/breaking-down-the-full-cast-of-season-4-of-surviving-barstool-with-dollar250k-to-the-winner)
 * [Stella Blue Coffee](https://stellabluecoffee.com/)
 * [Barstool Store Best Sellers](https://store.barstoolsports.com/collections/best-sellers-page)
 * [Barstool Store NEW ARRIVALS](https://store.barstoolsports.com/collections/new-arrivals)
