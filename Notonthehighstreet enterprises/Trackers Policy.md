@@ -1,6 +1,6 @@
 [Skip to content](#skip-content-target-id)
 
-Psst, Black Friday ends soon. [Shop now](https://www.notonthehighstreet.com/sale/50-off-sale)
+Quick – it's the last few days of our Black Friday sale. [Shop up to 50% off](https://www.notonthehighstreet.com/sale/50-off-sale)
 
 [![](https://static-files.notonthehighstreet.com/webapps/shared/img/logo/NOTHS_logo.svg)](https://www.notonthehighstreet.com/)
 
