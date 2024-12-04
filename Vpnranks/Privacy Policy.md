@@ -70,7 +70,6 @@
 * [Reports](https://www.vpnranks.com/reports/)
     * [89% of VPNs Fall Short in User Satisfaction](https://www.vpnranks.com/reports/89-percent-of-vpns-fall-short-in-user-satisfaction-vpnscore-report/)
 * Events
-    * [Big Brother UK 2024](https://www.vpnranks.com/access/shows/watch-big-brother-2024-in-usa-on-itvx/)
     * [UEFA Champions League 2024-2025](https://www.vpnranks.com/access/channels/paramount-plus/watch-uefa-champions-league-outside-usa/)
     * [Australia vs India Test Series](https://www.vpnranks.com/access/sports/watch-australia-vs-india-border-gavaskar-trophy-without-cable-from-anywhere/)
     * [Big Boss 18](https://www.vpnranks.com/access/shows/watch-big-boss-18-in-usa-on-jiocinema/)
