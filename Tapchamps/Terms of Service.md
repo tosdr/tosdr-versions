@@ -1,13 +1,13 @@
- [![TapChamps Logo](/img/tapchamps-logo.svg) ![TapChamps Logo](/img/tapchamps-dark-logo.svg)](https://www.tapchamps.com/)
+[![TapChamps Logo](/tapchamps-logo.svg)![TapChamps Logo](/tapchamps-dark-logo.svg)](https://www.tapchamps.com/)
 
 Terms & Conditions
 ------------------
 
 ### 1— Introduction
 
-These terms of use (together with the documents that they refer to) govern your use of our website [tapchamps.com](https://tapchamps.com/) and our mobile application Tapchamps (together the “Site”); by using the Site, you confirm that you accept and agree to comply with these terms of use in full. If you disagree with these terms of use or any part of these terms of use, you must not use the Site.
+These terms of use (together with the documents that they refer to) govern your use of our website [tapchamps.com](https://www.tapchamps.com/) and our mobile application Tapchamps (together the “Site”); by using the Site, you confirm that you accept and agree to comply with these terms of use in full. If you disagree with these terms of use or any part of these terms of use, you must not use the Site.
 
-These terms of use refer to our Privacy Policy (which is available at [tapchamps.com/privacy](https://tapchamps.com/privacy)) which sets out the terms on which we process any personal data we collect from you, or that you provide to us. By using the Site, you consent to such processing and you warrant that all data provided by you is accurate.
+These terms of use refer to our Privacy Policy (which is available at [tapchamps.com/privacy](https://www.tapchamps.com/privacy)) which sets out the terms on which we process any personal data we collect from you, or that you provide to us. By using the Site, you consent to such processing and you warrant that all data provided by you is accurate.
 
 These terms of use apply to your participation in the services offered by Tapchamps which consist of offering rewards to users for downloading and/or reviewing and/or playing any games suggested in the Site. Such participation is subject to additional terms and conditions which are made available to you, and which you must agree to, when you sign up to participate in the Tapchamps program.
 
@@ -239,16 +239,16 @@ You can contact us by email to [contact@tapchamps.com](mailto:contact@tapchamps
 
 Last updated March 30th, 2020
 
-![TapChamps Gift Card Amazon](/img/dqyyzmfncs-320.webp)
+![TapChamps Gift Card Amazon](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Freward-amazon.558f0467.webp&w=640&q=75)
 
-![TapChamps Gift Google Play Store](/img/4VlRHDe5BF-320.webp)
+![TapChamps Gift Google Play Store](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Freward-gp.0e72c2ca.webp&w=640&q=75)
 
-![TapChamps Gift Paypal](/img/7FFbygBVJs-320.webp)
+![TapChamps Gift Paypal](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Freward-paypal.6faae2cf.webp&w=640&q=75)
 
-![TapChamps Mobile App](/img/vIYMUOjjiP-750.webp)
+![TapChamps Mobile App](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmobilescreen.07611201.webp&w=1920&q=75)
 
-[![TapChamps Android App QR Code](/img/vM33POby4t-500.webp)](https://play.google.com/store/apps/details?id=com.tapchamps.tap)
+[![TapChamps Android App QR Code](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fqr-android.f1265a0c.webp&w=1080&q=75)](https://play.google.com/store/apps/details?id=com.tapchamps.tap)
 
-TapChamps © 2020 -
+TapChamps © 2020 - 2024
 
 [Advertise](https://www.tapchamps.com/advertise) — [Terms & Conditions](https://www.tapchamps.com/terms) — [Privacy Policy](https://www.tapchamps.com/privacy) — [Support](https://support.tapchamps.com/hc/en-us)
