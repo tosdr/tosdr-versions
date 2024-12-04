@@ -378,11 +378,11 @@ If you have any questions regarding this Policy or how Speechify uses cookies, y
   
 Link to [Previous Version](https://web.archive.org/web/20240406231209/https://speechify.com/privacy/)
 
-![footer-waves](https://website.cdn.speechify.com/footer-waves.svg?quality=80&width=1400)
+![footer-waves](https://website.cdn.speechify.com/footer-waves.svg?quality=80&width=2800)
 
 ![](https://website.cdn.speechify.com/logo.svg?quality=80&width=256)
 
-[![app-store](https://website.cdn.speechify.com/app-store.svg?quality=80&width=1400)](https://apps.apple.com/app/speechify-text-to-speech-audio/id1209815023?ppid=6eb2aad7-ffe4-45fa-b138-50cc08d44770)[![play-store](https://website.cdn.speechify.com/play-store.svg?quality=80&width=1400)](https://play.google.com/store/apps/details?id=com.cliffweitzman.speechify2)
+[![app-store](https://website.cdn.speechify.com/app-store.svg?quality=80&width=2800)](https://apps.apple.com/app/speechify-text-to-speech-audio/id1209815023?ppid=6eb2aad7-ffe4-45fa-b138-50cc08d44770)[![play-store](https://website.cdn.speechify.com/play-store.svg?quality=80&width=2800)](https://play.google.com/store/apps/details?id=com.cliffweitzman.speechify2)
 
 ### Products
 
