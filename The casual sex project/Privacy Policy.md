@@ -90,19 +90,29 @@ New York, NY 10017
 Spotlight
 ---------
 
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/medicaid-spending.jpg)[](https://admin.mi52siterestore.com/article/slowing-optional-medicaid-spending-growth/ "Read More")
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/georgetown-university.jpg)[](https://admin.mi52siterestore.com/article/model-legislation-to-track-foreign-funds-to-american-universities/ "Read More")
 
-Issue Brief Health Healthcare, Poverty & Welfare
+Issue Brief Education, Governance
 
-Nov 26 2024
+Dec 03 2024
 
-Issue Brief Health Healthcare, Poverty & Welfare
+Issue Brief Education, Governance
 
-Nov 26 2024
+Dec 03 2024
 
-### [Slowing Optional Medicaid Spending Growth](https://admin.mi52siterestore.com/article/slowing-optional-medicaid-spending-growth/)
+### [Model Legislation to Track Foreign Funds to American Universities](https://admin.mi52siterestore.com/article/model-legislation-to-track-foreign-funds-to-american-universities/)
 
-By **[Chris Pope](https://admin.mi52siterestore.com/person/chris-pope/)** Read time **23 mins** [Read More](https://admin.mi52siterestore.com/article/slowing-optional-medicaid-spending-growth/)
+By **[Neetu Arnold](https://admin.mi52siterestore.com/person/neetu-arnold/)** Read time **14 mins** [Read More](https://admin.mi52siterestore.com/article/model-legislation-to-track-foreign-funds-to-american-universities/)
+
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/idens_midnight_spending_binge_.jpg)[](https://admin.mi52siterestore.com/article/bidens-midnight-spending-binge/ "Read More")
+
+Commentary Health, Governance Healthcare
+
+Dec 03 2024
+
+[Biden’s Midnight Spending Binge](https://admin.mi52siterestore.com/article/bidens-midnight-spending-binge/)
+
+By **[Chris Pope](https://admin.mi52siterestore.com/person/chris-pope/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/bidens-midnight-spending-binge/)
 
     ![](https://media4.manhattan-institute.org/wp-content/uploads/nyc-puts-social-justice-over-child-safety-with-deadly-results-acs-caseworker-1.jpg)[](https://admin.mi52siterestore.com/article/nyc-puts-social-justice-over-child-safety-with-deadly-results-acs-caseworker/ "Read More")
 
@@ -133,16 +143,6 @@ Nov 28 2024
 [Trump and the Academic Cocoon](https://admin.mi52siterestore.com/article/trump-and-the-academic-cocoon/)
 
 By **[Heather Mac Donald](https://admin.mi52siterestore.com/person/heather-mac-donald/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/trump-and-the-academic-cocoon/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/Top-Public-Policy-Programs-Have-Almost-No-Conservative-Faculty.jpg)[](https://admin.mi52siterestore.com/article/top-public-policy-programs-have-almost-no-conservative-faculty/ "Read More")
-
-Issue Brief Education, Governance
-
-Nov 21 2024
-
-[Top Public Policy Programs Have Almost No Conservative Faculty](https://admin.mi52siterestore.com/article/top-public-policy-programs-have-almost-no-conservative-faculty/)
-
-By **[Frederick M. Hess](https://admin.mi52siterestore.com/person/frederick-m-hess/), [Riley Fletcher](https://admin.mi52siterestore.com/person/riley-fletcher/)** Read time **12 mins** [Read More](https://admin.mi52siterestore.com/article/top-public-policy-programs-have-almost-no-conservative-faculty/)
 
 Our Policy Areas
 ----------------
