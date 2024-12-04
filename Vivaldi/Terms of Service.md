@@ -251,7 +251,7 @@ Last modified and effective: November 17, 2022
 * [Privacy & Terms](https://vivaldi.com/privacy/browser/)
 * [Security](https://vivaldi.com/security/)
 
-AfrikaansAzərbaycancaбългарскиCatalàČeštinaDanskDeutschEnglishEspañolفارسیSuomiFrançaisGalegoMagyarIndonesiaÍslenskaItaliano日本語関西弁TaqbaylitKurdish한국어NederlandsNorsk bokmålpolskiPortuguês (Brasil)Português (Europeu)РусскийSlovenčinaSlovenščinaСрпскиSrpskiSvenskaTürkçeUkrainian简体中文繁體中文
+AfrikaansAzərbaycancaбългарскиCatalàČeštinaDanskDeutschEnglishEspañolفارسیSuomiFrançaisGalegoMagyarIndonesiaÍslenskaItaliano日本語TaqbaylitKurdish한국어NederlandsNorsk bokmålpolskiPortuguês (Brasil)Português (Europeu)РусскийSlovenčinaSlovenščinaСрпскиSrpskiSvenskaTürkçeUkrainian简体中文繁體中文
 
 © Vivaldi Technologies™ — All rights reserved. | [Status](https://vivaldistatus.com/)
 
