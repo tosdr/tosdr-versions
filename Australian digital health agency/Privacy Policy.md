@@ -7,14 +7,14 @@ Open Search
 Open Menu
 
 * Open/Close Menu [Initiatives](https://www.digitalhealth.gov.au/initiatives-and-programs#Initiatives)
-    * [My Health Record](https://www.digitalhealth.gov.au/initiatives-and-programs/my-health-record)
+    * [My Health Record](https://www.digitalhealth.gov.au/initiatives-and-programs/my-health-record-a-secure-digital-health-record-for-all-australians)
     * [Electronic prescriptions](https://www.digitalhealth.gov.au/initiatives-and-programs/electronic-prescriptions)
     * [Telehealth](https://www.digitalhealth.gov.au/initiatives-and-programs/telehealth)
     * [my health app](https://www.digitalhealth.gov.au/myhealth)
     * [Reconciliation](https://www.digitalhealth.gov.au/initiatives-and-programs/reconciliation "Reconciliation")
 * Open/Close Menu [Programs](https://www.digitalhealth.gov.au/initiatives-and-programs#programs)
     * [Cyber security](https://www.digitalhealth.gov.au/initiatives-and-programs/cyber-security)
-    * [National Digital Health Strategy](https://www.digitalhealth.gov.au/national-digital-health-strategy "National Digital Health Strategy")
+    * [National Digital Health Strategy](https://www.digitalhealth.gov.au/discover-the-national-digital-health-strategy-2023-2028 "National Digital Health Strategy")
 * Open/Close Menu [Newsroom](https://www.digitalhealth.gov.au/newsroom)
     * [Media](https://www.digitalhealth.gov.au/newsroom/media)
     * [Podcasts](https://www.digitalhealth.gov.au/newsroom/podcasts)
@@ -40,7 +40,7 @@ Search
 * [For healthcare providers](https://www.digitalhealth.gov.au/healthcare-providers)
 * [For mhr everyone](https://www.digitalhealth.gov.au/initiatives-and-programs/my-health-record)
 * [For mhr hcp](https://www.digitalhealth.gov.au/healthcare-providers/initiatives-and-programs/my-health-record)
-* [For ndhs](https://www.digitalhealth.gov.au/national-digital-health-strategy)
+* [For ndhs](https://www.digitalhealth.gov.au/discover-the-national-digital-health-strategy-2023-2028)
 
 * [Careers](https://www.digitalhealth.gov.au/about-us/careers)
 * [Contact](https://www.digitalhealth.gov.au/support/contact-us)
