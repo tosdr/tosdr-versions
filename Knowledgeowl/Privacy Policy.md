@@ -454,10 +454,10 @@ Table of Contents Table of Contents Toggle navigation
             * [Use both manual and automatic Related Articles](https://www.knowledgeowl.com/help/use-combo-manual-automatic-related-articles)
         * [Set up Related Articles](javascript:void(0);)
             
-            * [Enable automatically suggested Related Articles](https://www.knowledgeowl.com/help/enable-related-articles)
-            * [Disable automatically suggested Related Articles](https://www.knowledgeowl.com/help/disable-automatic-suggestions-related-articles)
+            * [Turn on automatic Related Article suggestions](https://www.knowledgeowl.com/help/enable-related-articles)Updated
+            * [Backward suggest Related Articles](https://www.knowledgeowl.com/help/backward-suggest-related-articles)Updated
             * [Set the number of Related Articles to automatically display](https://www.knowledgeowl.com/help/set-the-number-of-related-articles-to-automatically-display)
-            * [Backward suggest Related Articles](https://www.knowledgeowl.com/help/backward-suggest-related-articles)
+            * [Disable automatically suggested Related Articles](https://www.knowledgeowl.com/help/disable-automatic-suggestions-related-articles)
             * [Display Related Articles only in specific articles](https://www.knowledgeowl.com/help/display-related-articles-in-specific-articles)
             * [Readd the Related Articles section to my articles](https://www.knowledgeowl.com/help/readd-related-articles-section)
             * [Hide Related Articles section from a specific article](https://www.knowledgeowl.com/help/hide-related-articles-section-from-a-specific-article)
