@@ -148,6 +148,14 @@ HuntAndJump.com Rules
 
 ![](/images/coloricons/News-Alerts-2.png)News & Alerts
 
+12/4/2024 4:41 AM EST
+
+Vesela Koleda!
+--------------
+
+As a winter celebration gift, the height regulator gene has been permanently changed to only cost 1 GMT to add.  
+I have also shared a copy of the new Kolidari herd helper on the forum to help get this gene into the hands of more players.
+
 12/2/2024 11:37 PM EST
 
 Vesela Koleda!
@@ -170,13 +178,6 @@ It's newsletter day, and your last chance to enter the GE!
 ----------------------------------------------------------
 
 Absolutely no late entries will be accepted. Do not wait until the last moment.
-
-11/15/2024 2:51 AM EST
-
-Gift Exchange sign-ups are now open!
-------------------------------------
-
-Link is in the navigation. Have questions, or want a guide? Check the stickied forum post.
 
 ![](/images/coloricons/Gold-Star-2.png)Bonus Stall Progress
 
