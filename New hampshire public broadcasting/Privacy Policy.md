@@ -184,15 +184,15 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
-* [**Trailer Without Arrows** | Independent Lens](https://video.nhpbs.org/video/trailer-without-arrows-70vamb?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Trump's defense pick under spotlight amid fresh concerns** | PBS News Hour](https://video.nhpbs.org/video/under-scrutiny-1733175905?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**UNVEILED: Joyce Tenneson and the Heroine's Journey Preview** | Local, USA](https://video.nhpbs.org/video/local-usa-unveiled-joyce-tenneson-and-the-heroines-journey-preview?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Trailer** | The Earthshot Report](https://video.nhpbs.org/video/trailer-98ejld?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Dallas, 2019 Trailer** | Independent Lens](https://video.nhpbs.org/video/dallas-2019-trailer-kyir97?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Sara Bareilles: New Year's Eve Preview** | Next at the Kennedy Center](https://video.nhpbs.org/video/sara-bareilles-preview-pqjlo8?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**theRing: I Am A Renegade \[Official Music Video\]** | American Masters](https://video.nhpbs.org/video/thering-i-am-a-renegade-official-music-video-zbrlaw?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Stories That Matter** | WORLD Channel](https://video.nhpbs.org/video/world-channel-stories-that-matter?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**December 3, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/december-3-2024-pbs-news-hour-full-episode-1733202001?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Jim Parsons, Katie Holmes and Kenny Leon on Broadway's "Our Town"** | Amanpour and Company](https://video.nhpbs.org/video/jim-parsons-katie-holmes-and-kenny-leon-on-broadways-our-town-lcqotr?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**2025 Honda Pilot Black Edition & 2024 Chevrolet Corvette E-Ray** | MotorWeek](https://video.nhpbs.org/video/2025-honda-pilot-black-edition-2024-chevrolet-corvette-e-ray-2deebx?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**What to expect from Trump's planned federal overhaul** | Washington Week with The Atlantic](https://video.nhpbs.org/video/what-to-expect-from-trumps-planned-federal-overhaul-4c76rq?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Quincy Jones & John Williams Record "Peter Gunn"** | Great Performances](https://video.nhpbs.org/video/quincy-jones-john-williams-record-peter-gunn-mal7ft?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Cornel West & Robert George** | Firing Line](https://video.nhpbs.org/video/cornel-west-robert-george-vkwmab?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Food Insecurity** | The State We're In](https://video.nhpbs.org/video/food-insecurity-pzm5qk?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Moana 2** | Flicks](https://video.nhpbs.org/video/moana-2-bmpk9a?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
