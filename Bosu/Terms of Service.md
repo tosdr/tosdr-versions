@@ -145,46 +145,26 @@ United States (USD $)
 * [YouTube](https://www.youtube.com/channel/UCb3qBl6yySVqSVD9HxiMtyQ)
 
 * Free shipping over $100 📦
-* 🎁 CYBER mONDAY SALE EXTENDED 🎁
-* FINAL DAY 12/3
-* TAKE 20% off site wide 🎊
+* GIVE THE GIFT OF BALANCE 🎁
 * Free shipping over $100 📦
-* 🎁 CYBER mONDAY SALE EXTENDED 🎁
-* FINAL DAY 12/3
-* TAKE 20% off site wide 🎊
+* GIVE THE GIFT OF BALANCE 🎁
 * Free shipping over $100 📦
-* 🎁 CYBER mONDAY SALE EXTENDED 🎁
-* FINAL DAY 12/3
-* TAKE 20% off site wide 🎊
+* GIVE THE GIFT OF BALANCE 🎁
 * Free shipping over $100 📦
-* 🎁 CYBER mONDAY SALE EXTENDED 🎁
-* FINAL DAY 12/3
-* TAKE 20% off site wide 🎊
+* GIVE THE GIFT OF BALANCE 🎁
 * Free shipping over $100 📦
-* 🎁 CYBER mONDAY SALE EXTENDED 🎁
-* FINAL DAY 12/3
-* TAKE 20% off site wide 🎊
+* GIVE THE GIFT OF BALANCE 🎁
 
 * Free shipping over $100 📦
-* 🎁 CYBER mONDAY SALE EXTENDED 🎁
-* FINAL DAY 12/3
-* TAKE 20% off site wide 🎊
+* GIVE THE GIFT OF BALANCE 🎁
 * Free shipping over $100 📦
-* 🎁 CYBER mONDAY SALE EXTENDED 🎁
-* FINAL DAY 12/3
-* TAKE 20% off site wide 🎊
+* GIVE THE GIFT OF BALANCE 🎁
 * Free shipping over $100 📦
-* 🎁 CYBER mONDAY SALE EXTENDED 🎁
-* FINAL DAY 12/3
-* TAKE 20% off site wide 🎊
+* GIVE THE GIFT OF BALANCE 🎁
 * Free shipping over $100 📦
-* 🎁 CYBER mONDAY SALE EXTENDED 🎁
-* FINAL DAY 12/3
-* TAKE 20% off site wide 🎊
+* GIVE THE GIFT OF BALANCE 🎁
 * Free shipping over $100 📦
-* 🎁 CYBER mONDAY SALE EXTENDED 🎁
-* FINAL DAY 12/3
-* TAKE 20% off site wide 🎊
+* GIVE THE GIFT OF BALANCE 🎁
 
 Terms of service
 ================
