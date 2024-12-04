@@ -70,13 +70,13 @@ Suggested Searches
 
 ### Towards Autonomous Surface Missions on Ocean Worlds
 
-article21 hours ago](https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/towards-autonomous-surface-missions-on-ocean-worlds/)[![NASA-Led Team Links Comet Water to Earth’s Oceans](https://science.nasa.gov/wp-content/uploads/2024/12/comet-67p.jpg)
+article1 day ago](https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/towards-autonomous-surface-missions-on-ocean-worlds/)[![NASA-Led Team Links Comet Water to Earth’s Oceans](https://science.nasa.gov/wp-content/uploads/2024/12/comet-67p.jpg)
 
 5 min read
 
 ### NASA-Led Team Links Comet Water to Earth’s Oceans
 
-article21 hours ago](https://science.nasa.gov/solar-system/comets/nasa-led-team-links-comet-water-to-earths-oceans/)[![The crew members of NASA’s SpaceX Crew-10 mission (from left) mission specialist Kirill Peskov of Roscosmos, NASA astronauts Nichole Ayers, pilot, and Anne McClain, commander, along with Mission Specialist Takuya Onishi of JAXA (Japan Aerospace Exploration Agency), pose for a picture during training at SpaceX in Hawthorne, California. Credit: SpaceX](https://images-assets.nasa.gov/image/jsc2024e064444/jsc2024e064444~orig.jpg?w=868&h=628&fit=clip&crop=faces%2Cfocalpoint)
+article1 day ago](https://science.nasa.gov/solar-system/comets/nasa-led-team-links-comet-water-to-earths-oceans/)[![The crew members of NASA’s SpaceX Crew-10 mission (from left) mission specialist Kirill Peskov of Roscosmos, NASA astronauts Nichole Ayers, pilot, and Anne McClain, commander, along with Mission Specialist Takuya Onishi of JAXA (Japan Aerospace Exploration Agency), pose for a picture during training at SpaceX in Hawthorne, California. Credit: SpaceX](https://images-assets.nasa.gov/image/jsc2024e064444/jsc2024e064444~orig.jpg?w=868&h=628&fit=clip&crop=faces%2Cfocalpoint)
 
 5 min read
 
@@ -285,25 +285,25 @@ article 1 week ago](https://www.nasa.gov/general/nasas-commercial-partners-make-
 
 ### Highlights
 
-[![Amendment 75: New Opportunity: A.64 FORTE Science Team](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2024/fastestlake_oli_20240804.jpg)
+[![NASA flew an aircraft equipped with Uninhabited Aerial Vehicle Synthetic Aperture Radar (UAVSAR) flew above California fires on Sept. 3 and 10.](https://www.nasa.gov/wp-content/uploads/2023/05/jpegpia24102.width-1280.jpg?w=1024)
+
+4 min read
+
+### NASA’s C-20A Studies Extreme Weather Events
+
+article 1 hour ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasas-c-20a-studies-extreme-weather-events/)[![Expanded AI Model with Global Data Enhances Earth Science Applications ](https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001431/GSFC_20171208_Archive_e001431~large.jpg)
+
+4 min read
+
+### Expanded AI Model with Global Data Enhances Earth Science Applications 
+
+article 3 hours ago](https://science.nasa.gov/science-research/ai-geospatial-model-earth/)[![Amendment 75: New Opportunity: A.64 FORTE Science Team](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2024/fastestlake_oli_20240804.jpg)
 
 2 min read
 
 ### Amendment 75: New Opportunity: A.64 FORTE Science Team
 
-article 2 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-75-new-opportunity-a-64-forte-science-team/)[![NASA AI, Open Science Advance Disaster Research and Recovery](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/science-enabling-technology/technology-highlights/2024/NGRx_Image_2.jpg)
-
-4 min read
-
-### NASA AI, Open Science Advance Disaster Research and Recovery
-
-article 1 week ago](https://science.nasa.gov/open-science/artificial-intelligence-hurricane-response/)[![NASA Data Reveals Role of Green Spaces in Cooling Cities](https://science.nasa.gov/wp-content/uploads/2024/11/sanaa-oli-20240608-1440.jpg)
-
-5 min read
-
-### NASA Data Reveals Role of Green Spaces in Cooling Cities
-
-article 1 week ago](https://science.nasa.gov/earth/climate-change/nasa-data-reveals-role-of-green-spaces-in-cooling-cities/)
+article 2 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-75-new-opportunity-a-64-forte-science-team/)
 
 ### Highlights
 
@@ -313,13 +313,13 @@ article 1 week ago](https://science.nasa.gov/earth/climate-change/nasa-data-reve
 
 ### Towards Autonomous Surface Missions on Ocean Worlds
 
-article 21 hours ago](https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/towards-autonomous-surface-missions-on-ocean-worlds/)[![NASA-Led Team Links Comet Water to Earth’s Oceans](https://science.nasa.gov/wp-content/uploads/2024/12/comet-67p.jpg)
+article 1 day ago](https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/towards-autonomous-surface-missions-on-ocean-worlds/)[![NASA-Led Team Links Comet Water to Earth’s Oceans](https://science.nasa.gov/wp-content/uploads/2024/12/comet-67p.jpg)
 
 5 min read
 
 ### NASA-Led Team Links Comet Water to Earth’s Oceans
 
-article 21 hours ago](https://science.nasa.gov/solar-system/comets/nasa-led-team-links-comet-water-to-earths-oceans/)[![What’s Up: December 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/parkcityutmeteor-credit-nasa-bill-dunford-jpg.webp)
+article 1 day ago](https://science.nasa.gov/solar-system/comets/nasa-led-team-links-comet-water-to-earths-oceans/)[![What’s Up: December 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/parkcityutmeteor-credit-nasa-bill-dunford-jpg.webp)
 
 5 min read
 
@@ -351,25 +351,25 @@ article 1 week ago](https://science.nasa.gov/mission/excite/)
 
 ### Highlights
 
-[![Amendment 78: D.10 TESS General Investigator Program Final Text and Due Date](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/04/TESSLavaPlanet.jpg)
+[![NASA flew an aircraft equipped with Uninhabited Aerial Vehicle Synthetic Aperture Radar (UAVSAR) flew above California fires on Sept. 3 and 10.](https://www.nasa.gov/wp-content/uploads/2023/05/jpegpia24102.width-1280.jpg?w=1024)
+
+4 min read
+
+### NASA’s C-20A Studies Extreme Weather Events
+
+article 1 hour ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasas-c-20a-studies-extreme-weather-events/)[![Expanded AI Model with Global Data Enhances Earth Science Applications ](https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001431/GSFC_20171208_Archive_e001431~large.jpg)
+
+4 min read
+
+### Expanded AI Model with Global Data Enhances Earth Science Applications 
+
+article 3 hours ago](https://science.nasa.gov/science-research/ai-geospatial-model-earth/)[![Amendment 78: D.10 TESS General Investigator Program Final Text and Due Date](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/04/TESSLavaPlanet.jpg)
 
 1 min read
 
 ### Amendment 78: D.10 TESS General Investigator Program Final Text and Due Date
 
-article 18 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-78-d-10-tess-general-investigator-program-final-text-and-due-date/)[![Amendment 77: E.12 Physical Sciences Research Studies Draft Text Released](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/04/h/hubble_friday_10082015.jpg)
-
-2 min read
-
-### Amendment 77: E.12 Physical Sciences Research Studies Draft Text Released
-
-article 19 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-77-e-12-physical-sciences-research-studies-draft-text-released/)[![Amendment 76: E.9 Space Biology: Research Studies Draft Text Released](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/04/cs-04.png)
-
-2 min read
-
-### Amendment 76: E.9 Space Biology: Research Studies Draft Text Released
-
-article 20 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-76-e-9-space-biology-research-studies-draft-text-released/)
+article 21 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-78-d-10-tess-general-investigator-program-final-text-and-due-date/)
 
 ### Highlights
 
@@ -379,7 +379,7 @@ article 20 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2
 
 ### Scaled Power Electrified Drivetrain (SPEED)
 
-article 15 hours ago](https://www.nasa.gov/speed/)[![A group of people are sitting at a desk looking at computers with headsets on. A man is pointing and smiling at one of the computer screens.](https://images-assets.nasa.gov/image/AFRC2024-0178-095/AFRC2024-0178-095~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint)
+article 19 hours ago](https://www.nasa.gov/speed/)[![A group of people are sitting at a desk looking at computers with headsets on. A man is pointing and smiling at one of the computer screens.](https://images-assets.nasa.gov/image/AFRC2024-0178-095/AFRC2024-0178-095~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint)
 
 3 min read
 
@@ -391,7 +391,7 @@ article 2 days ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-e
 
 ### An Electronic Traffic Monitor for Airports 
 
-article 7 days ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/an-electronic-traffic-monitor-for-airports/)
+article 1 week ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/an-electronic-traffic-monitor-for-airports/)
 
 ### Highlights
 
@@ -401,7 +401,7 @@ article 7 days ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/an-el
 
 ### An Electronic Traffic Monitor for Airports 
 
-article 7 days ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/an-electronic-traffic-monitor-for-airports/)[![Amendment 71: F.11 Stand-Alone Landing Site-Agnostic Payloads and Research Investigations on the Surface of the Moon Final Text and Due Dates Released.](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/lunar-science/science-payloads/prospect/Prospect_wide_horizontal.png)
+article 1 week ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/an-electronic-traffic-monitor-for-airports/)[![Amendment 71: F.11 Stand-Alone Landing Site-Agnostic Payloads and Research Investigations on the Surface of the Moon Final Text and Due Dates Released.](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/lunar-science/science-payloads/prospect/Prospect_wide_horizontal.png)
 
 2 min read
 
@@ -445,7 +445,7 @@ article 2 weeks ago](https://www.nasa.gov/learning-resources/launch-your-career/
 
 ### Coming Spring 2025: Planetary Defenders Documentary
 
-article 21 hours ago](https://science.nasa.gov/science-research/planetary-science/planetary-defense/planetary-defenders/)[![The crew members of NASA’s SpaceX Crew-10 mission (from left) mission specialist Kirill Peskov of Roscosmos, NASA astronauts Nichole Ayers, pilot, and Anne McClain, commander, along with Mission Specialist Takuya Onishi of JAXA (Japan Aerospace Exploration Agency), pose for a picture during training at SpaceX in Hawthorne, California. Credit: SpaceX](https://images-assets.nasa.gov/image/jsc2024e064444/jsc2024e064444~orig.jpg?w=868&h=628&fit=clip&crop=faces%2Cfocalpoint)
+article 1 day ago](https://science.nasa.gov/science-research/planetary-science/planetary-defense/planetary-defenders/)[![The crew members of NASA’s SpaceX Crew-10 mission (from left) mission specialist Kirill Peskov of Roscosmos, NASA astronauts Nichole Ayers, pilot, and Anne McClain, commander, along with Mission Specialist Takuya Onishi of JAXA (Japan Aerospace Exploration Agency), pose for a picture during training at SpaceX in Hawthorne, California. Credit: SpaceX](https://images-assets.nasa.gov/image/jsc2024e064444/jsc2024e064444~orig.jpg?w=868&h=628&fit=clip&crop=faces%2Cfocalpoint)
 
 5 min read
 
@@ -457,7 +457,7 @@ article 2 days ago](https://www.nasa.gov/general/experience-the-launch-of-nasas-
 
 ### NASA Plane Supported Innovative Microgravity Research in ‘90s
 
-article 7 days ago](https://www.nasa.gov/general/nasa-plane-supported-innovative-microgravity-research-in-90s/)
+article 1 week ago](https://www.nasa.gov/general/nasa-plane-supported-innovative-microgravity-research-in-90s/)
 
 ### Highlights
 
