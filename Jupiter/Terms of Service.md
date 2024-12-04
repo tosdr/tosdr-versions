@@ -532,59 +532,6 @@ The terms and conditions and privacy policy applicable to opening a savings acco
 * Terms and Conditions - [https://www.federalbank.co.in/jupiter-tc](https://www.federalbank.co.in/jupiter-tc)
 * Privacy Policy - [https://www.federalbank.co.in/privacy-policy](https://www.federalbank.co.in/privacy-policy)
 
-Jupiter Select
-==============
-
-Eligibility Criteria:
----------------------
-
-1. To become a Select member, the user should have a Jupiter UPI ID and also a Federal Bank savings account opened on Jupiter Money mobile app (“Platform”). The user will need to pay a non-refundable fee of INR 49 + GST (“Platform Fee”) for one month's membership to avail the Select membership. Alternatively, the user also has a choice to maintain a minimum balance or minimum net relationship value (“NRV”)\* of INR 25,000 in the fixed/recurring deposits or savings bank account balances and get the membership in the succeeding month of maintaining NRV. \* NRV is calculated as the average of the closing day balances of the Account across fixed deposit, recurring deposit and savings account balances \*\*The Select Fee is subject to change, and users will be notified of changes on or by the Platform.
-2. Select membership is offered to certain eligible customers identified and notified by Jupiter on or bythe Platform from time to time.
-3. Non-maintenance of NRV will discontinue the Select status until the NRV is maintained for the nextmonth to restart earning rewards from the subsequent month.
-4. Notwithstanding anything to the contrary mentioned herein:
-    1. The Select status and eligibility for associated offers are contingent upon the user being aFull KYC verified account holder.
-    2. Jupiter reserves the right to discontinue or disqualify any user at its sole discretion, atany time and without prior notice, for reasons including but not limited to:
-        1. Non-compliance with offer requirements,
-        2. Misuse of the offer,
-        3. Involvement in fraudulent activities,
-        4. Engagement in suspicious transaction/activity, or
-        5. Adverse legal requirements or applicable laws.
-
-  
-Offers:
-----------
-
-1. Users fulfilling the eligibility criteria given above will be categorized as "Select" members.
-2. Offers applicable to Select users will be published on the Jupiter app.
-3. Offers, part of the Select scheme, may be credited after a purchase transaction or in-app action in the form of "Jewels" or Cashbacks, depending on the terms of the offers, or such mode as updated by the Platform from time to time.
-4. Cashbacks and Jewels:
-    1. The cashback value is calculated on the net purchase transaction value.
-    2. Eligibility for Jewels or cashback depends on offer applicability and terms and conditions as amended by Jupiter.
-    3. Different users may see different offers at the same time.
-    4. Jewels or unprocessed cashbacks may not be offered if certain conditions are met (e.g., item return, incorrect payment method, etc.).
-
-Additional Points:
-------------------
-
-1. Offers/Jewels are applicable on limited purchases/transactions ("Qualified Purchases") listed on theJupiter App.
-2. Offers on Qualified Purchases:
-    
-    1. Offers/Jewels are applicable on limited purchases/transactions (“Qualified Purchases”)listed on the Jupiter App.
-    2. Jupiter will always have the sole and final discretion in identifying a purchase as aQualified Purchase for Jewels or offers .
-    
-3. Eligible users shall receive the cashbacks or Jewels, as the case may be, only after the expiry of acertain applicable minimum time period commencing from the date of Qualified Purchases.
-4. Cashbacks or Jewels earned on domestic Qualified Purchases may be credited to the user’s accountwithin 15 days of Cooling Down.
-5. International Qualified Purchases (i.e. forex transactions) shall be eligible for Cashbacks only. Thecashbacks on such international Qualified Purchase shall be credited within 45 days of Cooling DownPeriod.
-6. Offers or Jewels may be withdrawn during the cool down at the sole discretion of Jupiter period if:
-    1. the transaction is later found to not be a Qualified Purchase,
-    2. he transaction is cancelled by the user, partial or full refund is received for the spendsfor which Rewards were credited.
-7. All the terms and conditions application for Jewels under the “Rewards” section herein shall mutatismutandis applicable for Jewel earned on offer applicable for Select transactions.
-8. Jupiter reserves the right to extend, cancel, discontinue, withdraw, change, alter, or modify theseterms and conditions at its sole discretion without notice.
-9. The Select membership, related offers and transactions are administered exclusively by Jupiter. Theaccount bank or other related regulated entities, their officers, employees, and representatives shallhave no obligation or liability in connection with these offers or the membership in any mannerwhatsoever.
-10. Please ensure that users carefully read and understand these terms before becoming a Select member orparticipating in offers to avoid any misunderstandings or issues.
-
-  
-
 Debit Cards:
 ============
 
