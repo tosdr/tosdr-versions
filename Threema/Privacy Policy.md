@@ -158,6 +158,12 @@ Contact[Support for individual users](https://threema.ch/en/support#contact "Sup
 
 Connect[Threema Channel](https://threema.ch/en/faq/Threema_Channel "Threema Channel")[Newsletter](https://threema.ch/en/newsletter "Newsletter")[Mastodon](https://mastodon.social/@threemaapp "Mastodon")[X](https://x.com/ThreemaApp "X")[Reddit](https://www.reddit.com/r/threema/ "Reddit")[GitHub](https://github.com/threema-ch "GitHub")
 
+Memberships
+
+[![swiss made software](/images/swiss-made-software.png)](https://www.swissmadesoftware.org/)
+
+[![swiss digital services](/images/swiss-digital-services.png)](https://www.swissmadesoftware.org/)
+
 en
 
 [Deutsch](https://threema.ch/de/privacy)[English](https://threema.ch/en/privacy)[Français](https://threema.ch/fr/privacy)[Español](https://threema.ch/es/privacy)
