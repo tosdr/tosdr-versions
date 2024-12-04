@@ -29,17 +29,17 @@ Version All 1.21.4 1.21.3 1.21.2 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 
 
 Active Servers
 
-[![MCVerseCity](plugins/MineCraft/icons/25x25xMCVerseCity_1700330564.png.pagespeed.ic.k89VlBgKKa.jpg)
+[![mistylands](plugins/MineCraft/icons/25x25xmistylands_1666311278.png.pagespeed.ic.Obda9MLF8d.png)
 
-1.21.1 Vanilla+ NoGrief](https://minecraft-server.net/details/MCVerseCity/ "1.21.1 Vanilla+ NoGrief")[![mcprison](plugins/MineCraft/icons/25x25xmcprison_1732687836.png.pagespeed.ic.0wYsTOy-Nc.png)
+Mistylands Survival Est.2010](https://minecraft-server.net/details/mistylands/ "Mistylands Survival Est.2010")[![projectsurvival](plugins/MineCraft/icons/25x25xprojectsurvival_1731348416.png.pagespeed.ic.hQETp6pFjB.png)
 
-STAFF NEEDED - PURPLE PRISON](https://minecraft-server.net/details/mcprison/ "STAFF NEEDED - PURPLE PRISON")[![TheCoilMC](plugins/MineCraft/icons/25x25xTheCoilMC_1692232580.png.pagespeed.ic.KAeZ38kGe1.jpg)
+MC.PROJECTS.GG TÜRK SURVIVAL SUNUCU - Mevsimler/Kanli Ay/Unvanlar/AntiXray/PvP - 1.20.4](https://minecraft-server.net/details/projectsurvival/ "MC.PROJECTS.GG TÜRK SURVIVAL SUNUCU - Mevsimler/Kanli Ay/Unvanlar/AntiXray/PvP - 1.20.4")[![KoalaServers](plugins/MineCraft/icons/25x25xKoalaServers_1732005494.png.pagespeed.ic.D0QllTPRc1.png)
 
-The Coil MC](https://minecraft-server.net/details/TheCoilMC/ "The Coil MC")[![SUSMinecraft](plugins/MineCraft/icons/SUSMinecraft_1733248866.png.pagespeed.ce.4K26pX4nDP.png)
+KoalaServers | 1.21, Survival, Creative, Land Claiming, Anti-Grief, Economy, Ranks, Player Shops, McMMO, Jobs!](https://minecraft-server.net/details/KoalaServers/ "KoalaServers | 1.21, Survival, Creative, Land Claiming, Anti-Grief, Economy, Ranks, Player Shops, McMMO, Jobs!")[![SkyblockAnarchy](plugins/MineCraft/icons/25x25xSkyblockAnarchy_1680402377.png.pagespeed.ic.VilkXiVJ71.jpg)
 
-feather64](https://minecraft-server.net/details/SUSMinecraft/ "feather64")[![undergroundmc](plugins/MineCraft/icons/25x25xundergroundmc_1733003034.png.pagespeed.ic.KAV38fylZA.jpg)
+Skyblock Anarchy](https://minecraft-server.net/details/SkyblockAnarchy/ "Skyblock Anarchy")[![Folas1337](plugins/MineCraft/icons/Folas1337_1706960544.png)
 
-sVanilla Survival \[Java/Bedrock\]](https://minecraft-server.net/details/undergroundmc/ "sVanilla Survival [Java/Bedrock]")
+~~ MetaUnion ~~ \[Friendly Community, No Pay2Win, RPG Survival, Creative\]](https://minecraft-server.net/details/Folas1337/ "~~ MetaUnion ~~ [Friendly Community, No Pay2Win, RPG Survival, Creative]")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Terms and Conditions of Minecraft-Server.net
@@ -125,4 +125,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06014 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06459 - Created by [Debaucus](https://debauc.us/)
