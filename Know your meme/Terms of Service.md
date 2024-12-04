@@ -1,4 +1,4 @@
-Terms Of Service | Know Your Meme                                                            
+Terms Of Service | Know Your Meme                                                          
 
 |     |     |
 | --- | --- |
