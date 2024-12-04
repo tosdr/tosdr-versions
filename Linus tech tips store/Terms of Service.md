@@ -1,28 +1,6 @@
-SPECIAL HOLIDAY OFFER
-
-### We have a special deal for you this BFCM
-
- [![MCM Starter Solution](//www.lttstore.com/cdn/shop/files/1_0dbb063d-6c28-477c-a46e-c9387431c5c8.jpg?v=1732499488&width=533) ![MCM Starter Solution](//www.lttstore.com/cdn/shop/files/1_0dbb063d-6c28-477c-a46e-c9387431c5c8.jpg?v=1732499488&width=533)](https://www.lttstore.com/products/mcm-starter-solution)
-
-### [MCM Starter Solution](https://www.lttstore.com/products/mcm-starter-solution)
-
-SAVE 40%
-
-### [MCM Starter Solution](https://www.lttstore.com/products/mcm-starter-solution)
-
-Regular price $14.99 USD
-
-Regular price ~$24.99 USD~ Sale price $14.99 USD
-
-Unit price /  per 
-
-Sale
-
-NO MORE EXCUSES - Tidy up your desk and try out Magnetic Cable Management with this special selection of components at our best price ever. Available while supplies last.
+Remove\_BFCM-Dusk-2024\_12\_02
 
 [Skip to content](#MainContent)
-
-[LAST CHANCE! New flash deals up to 70% off are LIVE, deals end at 11:59PM PST.](https://www.lttstore.com/collections/bfcm-landing)
 
 New orders are expected to ship by
 
@@ -36,16 +14,11 @@ New orders are expected to ship by
     Gear
     
     * [Gear Collection](https://www.lttstore.com/collections/accessories)
-    * [](https://www.lttstore.com/collections/accessories)[Bags](https://www.lttstore.com/collections/accessories?filter.p.m.filter.gear_type=Bags+%26+Backpacks&sort_by=best-selling)
+    * [](https://www.lttstore.com/collections/accessories)[Bags](https://www.lttstore.com/bags)
     
     * [Bottles](https://www.lttstore.com/bottles)
     * [Deskpads](https://www.lttstore.com/deskpads)
-    * [Tools](https://www.lttstore.com/tools)
     * [Magnetic Cable Management](https://www.lttstore.com/collections/mcm-landing)
-    * [Plushies](https://www.lttstore.com/plushies)
-    
-    * [Stickers](https://www.lttstore.com/stickers)
-    * [Pets](https://www.lttstore.com/pets)
     * [Other](https://www.lttstore.com/other-gear)
     * [Screwdrivers](https://www.lttstore.com/collections/screwdrivers)
     
@@ -62,7 +35,7 @@ New orders are expected to ship by
     * [Jackets](https://www.lttstore.com/jackets)
     * [Bottoms](https://www.lttstore.com/bottoms)
     
-    * [Pants](https://www.lttstore.com/collections/clothing?filter.p.m.filter.clothing_type=Pants&sort_by=manual)
+    * [Pants](https://www.lttstore.com/pants)
     * [Shorts](https://www.lttstore.com/shorts)
     * [Unisex](https://www.lttstore.com/unisex)
     
@@ -71,32 +44,29 @@ New orders are expected to ship by
     * [Underwear](https://www.lttstore.com/underwear)
     * [Headwear](https://www.lttstore.com/headwear)
     
-* All Products
+* All products
     
-    All Products
+    All products
     
-    * [All Products Collection](https://www.lttstore.com/collections/all-products-1)
+    * [All products Collection](https://www.lttstore.com/collections/all-products-1)
     * [](https://www.lttstore.com/collections/all-products-1)[New Arrivals](https://www.lttstore.com/collections/all-products-1)
     
-    * [Best Sellers](https://www.lttstore.com/collections/all-products)
+    * [Best Sellers](https://www.lttstore.com/collections/all-products-1?sort_by=best-selling)
     * [Our Favorites](https://www.lttstore.com/collections/top-sellers)
     * [All Discounts](https://www.lttstore.com/collections/discounted)
-    * [Black Friday / Cyber Monday](https://www.lttstore.com/collections/bfcm-landing)
+    * [Magnetic Cable Management](https://www.lttstore.com/collections/mcm-landing)
     
-* [BFCM](https://www.lttstore.com/collections/bfcm-landing)
 
 Sign in
 
- [* ![](//www.lttstore.com/cdn/shop/t/130/assets/shopify-logo.svg?v=182554083611724108241732308947) Shopify](https://www.lttstore.com/account/login) [* ![](//www.lttstore.com/cdn/shop/t/130/assets/floatplane-logo-notext.svg?v=135174765184720699891732308947) Floatplane](https://floatplane.com/channel/linustechtips/shopify/login?redirect=https://www.lttstore.com)
+ [* ![](//www.lttstore.com/cdn/shop/t/131/assets/shopify-logo.svg?v=182554083611724108241733162456) Shopify](https://www.lttstore.com/account/login) [* ![](//www.lttstore.com/cdn/shop/t/131/assets/floatplane-logo-notext.svg?v=135174765184720699891733162456) Floatplane](https://floatplane.com/channel/linustechtips/shopify/login?redirect=https://www.lttstore.com)
 
 [![LTTStore](//www.lttstore.com/cdn/shop/files/LTT_Logo.png?v=1667427218&width=50)](https://www.lttstore.com/)
 
 * [Home](https://www.lttstore.com/)
 * [Gear](https://www.lttstore.com/collections/accessories)
     
-    [Bags](https://www.lttstore.com/collections/accessories?filter.p.m.filter.gear_type=Bags+%26+Backpacks&sort_by=best-selling) [Bottles](https://www.lttstore.com/bottles) [Deskpads](https://www.lttstore.com/deskpads) [Tools](https://www.lttstore.com/tools) [Magnetic Cable Management](https://www.lttstore.com/collections/mcm-landing)
-    
-    [Plushies](https://www.lttstore.com/plushies) [Stickers](https://www.lttstore.com/stickers) [Pets](https://www.lttstore.com/pets) [Other](https://www.lttstore.com/other-gear)
+    [Bags](https://www.lttstore.com/bags) [Bottles](https://www.lttstore.com/bottles) [Deskpads](https://www.lttstore.com/deskpads) [Magnetic Cable Management](https://www.lttstore.com/collections/mcm-landing) [Other](https://www.lttstore.com/other-gear)
     
     [![Collection Image](//www.lttstore.com/cdn/shop/collections/Header_Banner.png?v=1732510672&width=400)
     
@@ -106,31 +76,30 @@ Sign in
     
     [Tops](https://www.lttstore.com/tops) [T-Shirts](https://www.lttstore.com/tshirts) [Sweaters](https://www.lttstore.com/sweaters) [Long Sleeves](https://www.lttstore.com/long-sleeves) [Jackets](https://www.lttstore.com/jackets)
     
-    [Bottoms](https://www.lttstore.com/bottoms) [Pants](https://www.lttstore.com/collections/clothing?filter.p.m.filter.clothing_type=Pants&sort_by=manual) [Shorts](https://www.lttstore.com/shorts)
+    [Bottoms](https://www.lttstore.com/bottoms) [Pants](https://www.lttstore.com/pants) [Shorts](https://www.lttstore.com/shorts)
     
     [Unisex](https://www.lttstore.com/unisex) [Mens](https://www.lttstore.com/mens) [Womens](https://www.lttstore.com/womens) [Underwear](https://www.lttstore.com/underwear) [Headwear](https://www.lttstore.com/headwear)
     
-* [All Products](https://www.lttstore.com/collections/all-products-1)
+* [All products](https://www.lttstore.com/collections/all-products-1)
     
-    [New Arrivals](https://www.lttstore.com/collections/all-products-1) [Best Sellers](https://www.lttstore.com/collections/all-products) [Our Favorites](https://www.lttstore.com/collections/top-sellers) [All Discounts](https://www.lttstore.com/collections/discounted)
+    [New Arrivals](https://www.lttstore.com/collections/all-products-1) [Best Sellers](https://www.lttstore.com/collections/all-products-1?sort_by=best-selling) [Our Favorites](https://www.lttstore.com/collections/top-sellers) [All Discounts](https://www.lttstore.com/collections/discounted)
     
-    [![Collection Image](//www.lttstore.com/cdn/shop/collections/BFCM_Menu_Thumbnail.jpg?v=1732511965&width=400)
+    [![Collection Image](//www.lttstore.com/cdn/shop/collections/lttstore_MagneticCableManagement_Lifestyle-05_93cbf9b8-06cc-426e-9a92-10b33484e221.webp?v=1732510997&width=400)
     
-    Black Friday / Cyber Monday](https://www.lttstore.com/collections/bfcm-landing)
+    Magnetic Cable Management](https://www.lttstore.com/collections/mcm-landing)
     
-* [BFCM](https://www.lttstore.com/collections/bfcm-landing)
 
  Search Log in 
 
 Sign in through
 
- [* ![](//www.lttstore.com/cdn/shop/t/130/assets/shopify-logo.svg?v=182554083611724108241732308947) Shopify](https://www.lttstore.com/account/login) [* ![](//www.lttstore.com/cdn/shop/t/130/assets/floatplane-logo-notext.svg?v=135174765184720699891732308947) Floatplane](https://floatplane.com/channel/linustechtips/shopify/login?redirect=https://www.lttstore.com)
+ [* ![](//www.lttstore.com/cdn/shop/t/131/assets/shopify-logo.svg?v=182554083611724108241733162456) Shopify](https://www.lttstore.com/account/login) [* ![](//www.lttstore.com/cdn/shop/t/131/assets/floatplane-logo-notext.svg?v=135174765184720699891733162456) Floatplane](https://floatplane.com/channel/linustechtips/shopify/login?redirect=https://www.lttstore.com)
 
 [Cart](https://www.lttstore.com/cart)
 
-![](//www.lttstore.com/cdn/shop/t/130/assets/gradient-ellipse3.svg?v=137914502626707376751732308947) ![](//www.lttstore.com/cdn/shop/t/130/assets/gradient-ellipse1.svg?v=132588333988297876451732308947) ![](//www.lttstore.com/cdn/shop/t/130/assets/gradient-ellipse2.svg?v=80077939204478836651732308947) ![](//www.lttstore.com/cdn/shop/t/130/assets/gradient-rectangle1.svg?v=165680246736933959031732308947)
+![](//www.lttstore.com/cdn/shop/t/131/assets/gradient-ellipse3.svg?v=137914502626707376751733162456) ![](//www.lttstore.com/cdn/shop/t/131/assets/gradient-ellipse1.svg?v=132588333988297876451733162456) ![](//www.lttstore.com/cdn/shop/t/131/assets/gradient-ellipse2.svg?v=80077939204478836651733162456) ![](//www.lttstore.com/cdn/shop/t/131/assets/gradient-rectangle1.svg?v=165680246736933959031733162456)
 
-Ride a bike
+Konrad B
 
  
 
@@ -289,7 +258,7 @@ Support
 -------
 
 * [Help Center / Contact Us](https://www.lttstore.com/pages/contact-us)
-![linus tech tips logo](//www.lttstore.com/cdn/shop/t/130/assets/ltt-logo.svg?v=133296236752336137041732308947)
+![linus tech tips logo](//www.lttstore.com/cdn/shop/t/131/assets/ltt-logo.svg?v=133296236752336137041733162456)
 
 © LINUS TECH TIPS STORE Powered by Shopify
 
