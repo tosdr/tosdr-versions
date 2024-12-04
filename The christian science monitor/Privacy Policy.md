@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
-[Justice
+[Resilience
 
-### A questionable pardon’s deeper resonance](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1203/A-questionable-pardon-s-deeper-resonance "A questionable pardon’s deeper resonance")
+### South Korea’s swift rescue of freedom](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1204/South-Korea-s-swift-rescue-of-freedom "South Korea’s swift rescue of freedom")
+
+[Freedom
+
+### Reading, writing, and the Ten Commandments? Why some public schools teach the Bible.](https://www.csmonitor.com/USA/Politics/2024/1204/public-school-classroom-ten-commandments-trump-bible "Reading, writing, and the Ten Commandments? Why some public schools teach the Bible.")
 
 [Community
 
-### French women flock to Gisèle Pelicot rape trial, ‘to show her that she’s not alone’](https://www.csmonitor.com/World/Europe/2024/1203/gisele-pelicot-rape-trial-courtroom "French women flock to Gisèle Pelicot rape trial, ‘to show her that she’s not alone’")
-
-[Trust
-
-### High-profile scandals lead to high-profile local reforms in California](https://www.csmonitor.com/USA/Politics/2024/1203/los-angeles-county-mayor-reform "High-profile scandals lead to high-profile local reforms in California")
+### Curtis Chin grew up in a Chinese restaurant. He’s on a 300-city tour to save others.](https://www.csmonitor.com/Books/Author-Q-As/2024/1204/chinatown-chinese-restaurants-curtis-chin "Curtis Chin grew up in a Chinese restaurant. He’s on a 300-city tour to save others.")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
-[### French women flock to Gisèle Pelicot rape trial, ‘to show her that she’s not alone’](https://www.csmonitor.com/World/Europe/2024/1203/gisele-pelicot-rape-trial-courtroom "French women flock to Gisèle Pelicot rape trial, ‘to show her that she’s not alone’")
+[### No confidence: French lawmakers oust prime minister over budget woes](https://www.csmonitor.com/World/Europe/2024/1204/france-no-confidence-vote "No confidence: French lawmakers oust prime minister over budget woes")
 
-[### New turtle moms hit the beach in Greece, and the school buses making electricity](https://www.csmonitor.com/World/Points-of-Progress/2024/1203/school-bus-beach-turtles-moms "New turtle moms hit the beach in Greece, and the school buses making electricity")
+[### Martial law for a moment: What just happened in South Korea](https://www.csmonitor.com/World/Asia-Pacific/2024/1204/South-Korea-martial-law-attempt "Martial law for a moment: What just happened in South Korea")
 
-[### In Oklahoma, purpose and care from teachers coax Indigenous students back to school](https://www.csmonitor.com/USA/2024/1203/Native-American-School-Programs-Chronic-Absenteeism-Oklahoma "In Oklahoma, purpose and care from teachers coax Indigenous students back to school")
+[### Where Nazis first won office, Germans are voting for right-wing extremists](https://www.csmonitor.com/World/Europe/2024/1204/germany-thuringia-nazism-extreme-right-elections "Where Nazis first won office, Germans are voting for right-wing extremists")
 
 * * *
 
