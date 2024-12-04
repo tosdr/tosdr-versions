@@ -1,12 +1,28 @@
+[Skip To Content](javascript:void(0);)
+
+[![Max Logo](/img/max-h-w-l.svg)](https://www.hbomax.com/)
+
+Terms of Use
+============
+
+North America
+-------------
+
 [English](https://www.hbomax.com/terms-of-use/en-us)
 
 [Español](https://www.hbomax.com/terms-of-use/es-us)
+
+Latin America & Caribbean
+-------------------------
 
 [English](https://www.hbomax.com/terms-of-use/en-latam)
 
 [Español](https://www.hbomax.com/terms-of-use/es-latam)
 
 [Português](https://www.hbomax.com/terms-of-use/pt-latam)
+
+Europe
+------
 
 Andorra - [Español](https://www.hbomax.com/terms-of-use/es-ad-emea) - [English](https://www.hbomax.com/terms-of-use/en-emea)
 
@@ -50,6 +66,9 @@ Spain - [Español](https://www.hbomax.com/terms-of-use/es-emea) - [English](http
 
 Sweden - [Svenska](https://www.max.com/terms-of-use/sv-emea) - [English](https://www.hbomax.com/terms-of-use/en-emea)
 
+Asia Pacific
+------------
+
 Hong Kong - [繁體中文 (香港)](https://www.hbomax.com/terms-of-use/zh-hk-apac) - [English](https://www.hbomax.com/terms-of-use/en-apac "Asia - English Privacy Policy")
 
 Indonesia - [Bahasa Indonesia](https://www.hbomax.com/terms-of-use/id-apac) - [English](https://www.hbomax.com/terms-of-use/en-apac "Asia - English Privacy Policy")
@@ -67,3 +86,9 @@ Thailand - [ภาษาไทย](https://www.hbomax.com/terms-of-use/th-apac) 
 Choose your language[ENGLISH](#)
 
 EnglishEspañol
+
+[Privacy Policy](https://www.hbomax.com/privacy)[Children's Privacy Policy](https://www.hbomax.com/privacy/children)[Terms of Use](https://www.hbomax.com/terms-of-use)
+
+[Do Not Sell My Personal Information](#compliance-link)
+
+©2024 WarnerMedia Direct, LLC. All Rights Reserved. Max is used under license.
