@@ -128,7 +128,7 @@ Menutoggle menu
     * [Payments Forum](https://www.atlantafed.org/payments-forum)
     * [Publications](https://www.atlantafed.org/banking-and-payments/publications)
         * Community Reinvestment Act
-        * [Crisis Preparedness](https://www.atlantafed.org/banking-and-payments/publications/crisis-preparedness)
+        * [Crisis Preparedness](https://www.atlantafed.org/center-for-housing-and-policy/data-and-tools/mortgage-analytics-and-performance-dashboard)
         * [Guide to Your First Bank Account](https://www.atlantafed.org/banking-and-payments/publications/guide-to-your-first-bank-account)
         * [Paying for It](https://www.atlantafed.org/banking-and-payments/publications/paying-for-it)
     * [Reporting](https://www.atlantafed.org/banking-and-payments/reporting)
