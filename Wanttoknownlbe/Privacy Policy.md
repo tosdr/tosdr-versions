@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/doe-mee-en-blokkeer-de-rub-intrekking/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/arend-zeevat/de-werkelijkheid-op-zijn-kop-is-dat-n-strop/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
