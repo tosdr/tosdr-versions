@@ -212,6 +212,13 @@ Products Education
         ###### ReadyRESCUE
         
         A first-response detoxifier.](https://www.1800petmeds.com/dr-cuddles.html)
+    * [![img](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw26a782eb/whats-new-menu-2.png "Oh Norman")
+        
+        ###### Introducing
+        
+        BY
+        
+        ![img](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw880ec37b/brand-oh-norman.png) ![img](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dwf6e9d13c/Kaley-White.png)](https://www.1800petmeds.com/oh-norman.html) 
     
 
 * [Holiday](#)
@@ -406,6 +413,13 @@ Navigation [×](javascript:void(0))
         ###### ReadyRESCUE
         
         A first-response detoxifier.](https://www.1800petmeds.com/dr-cuddles.html)
+    * [![img](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw26a782eb/whats-new-menu-2.png "Oh Norman")
+        
+        ###### Introducing
+        
+        BY
+        
+        ![img](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw880ec37b/brand-oh-norman.png) ![img](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dwf6e9d13c/Kaley-White.png)](https://www.1800petmeds.com/oh-norman.html) 
     
 
 * [Holiday](#)
