@@ -352,6 +352,18 @@ Community News
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2018/07/akira-class-768x480.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/its-official-u-s-s-chintoka-launches/)
+
+### [It’s Official, U.S.S. Chin’toka Launches](https://www.starbase118.net/2024/its-official-u-s-s-chintoka-launches/)
+
+Federation News Service December 4, 2024
+
+Sol System – Starfleet Makes the Relaunch of the Chin’toka Official As previously reported, the “pirate” crew of the U.S.S. Chin’toka had been seen taking
+
+[Read More »](https://www.starbase118.net/2024/its-official-u-s-s-chintoka-launches/)
+
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2024/05/OEB_Exterior_Shot_8-768x531.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/unstable-temporal-wormhole-gamma-quadrant-crew-flung-into-an-unknown-future/)
 
 ### [Ship Out of Time](https://www.starbase118.net/2024/unstable-temporal-wormhole-gamma-quadrant-crew-flung-into-an-unknown-future/)
@@ -373,18 +385,6 @@ srichardsciencenerd118 December 2, 2024
 Join us for another in a series of interviews with winners of awards from our 2024 Awards Ceremony. Our goal is to give you insight
 
 [Read More »](https://www.starbase118.net/2024/award-winner-addison-mackenzie-artemis-christopher-pike-pendant/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2021/05/lower-decks-animated-768x432.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/lower-decks-interview-ensign-leenaya-edrei-uss-chintoka/)
-
-### [Lower Decks interview: Ensign Leenaya Edrei, USS Chin’toka](https://www.starbase118.net/2024/lower-decks-interview-ensign-leenaya-edrei-uss-chintoka/)
-
-docaharford December 1, 2024
-
-We’re here with another interview with a newer member of our community. The title of this column is “Lower Decks,” hearkening back to the Star
-
-[Read More »](https://www.starbase118.net/2024/lower-decks-interview-ensign-leenaya-edrei-uss-chintoka/)
 
 Ready to get started?
 ---------------------
