@@ -500,7 +500,7 @@ OTHER
 * [About us](https://toggl.com/about/)
 * [Working at Toggl
     
-    7](https://toggl.com/jobs/)
+    6](https://toggl.com/jobs/)
 
 Discover our tools:
 
