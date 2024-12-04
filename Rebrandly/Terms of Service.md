@@ -1,4 +1,4 @@
-Discover Link Gallery - the link in bio that's actually you. [Sign up today and get a FREE .bio domain!](https://rbnd.bio/site-cta)
+**Introducing Relay™**: Smart links for text messaging, powered by Rebrandly and Wonder Cave. [Learn more](https://rebrandly.click/relay-landing)
 
 [](https://rebrandly.com/)
 
@@ -10,7 +10,7 @@ Discover Link Gallery - the link in bio that's actually you. [Sign up today and 
 * [My dashboard](https://app.rebrandly.com/)
 * [Login](https://app.rebrandly.com/login?opt=eyJwbGFuSWQiOiIxNmYwOGZiOTc0OWQ0MTdlYjE0MmEzMjZhMmQwNTI3YyJ9)
 * [Talk to sales](https://rebrandly.com/book-a-demo)
-* [Get started](https://app.rebrandly.com/sign-up)
+* [Get started](https://rbnd.ly/get-started)
 
 [Terms of use](https://rebrandly.com/terms-conditions) [Privacy Policy](https://rebrandly.com/privacy-policy) [Cookie Policy](https://rebrandly.com/cookies) [Data Processing Addendum](https://rebrandly.com/data-processing) [Affiliate Agreement](https://rebrandly.com/affiliate-agreement) [User Research](https://rebrandly.com/user-research)
 
