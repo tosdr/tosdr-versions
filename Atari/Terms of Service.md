@@ -70,7 +70,7 @@ Hardware
 
 #### COLLECTIONS
 
-* [Ultimate Asteroids Bundle](https://www.atari.com/products/ultimate-asteroids-bundle)
+* [Asteroids Recharged Arcade](https://www.atari.com/products/atari-asteroids-recharged-arcademachine)
     
     [My Arcade](https://www.atari.com/collections/myarcade)
     
@@ -112,7 +112,7 @@ Hardware
 
 COLLECTIONS
 
-* [Ultimate Asteroids Bundle](https://www.atari.com/products/ultimate-asteroids-bundle)
+* [Asteroids Recharged Arcade](https://www.atari.com/products/atari-asteroids-recharged-arcademachine)
     
     [My Arcade](https://www.atari.com/collections/myarcade)
     
@@ -262,7 +262,7 @@ Apparel & Collectibles
     
     [Jaguar](https://www.atari.com/collections/jaguar)
     
-    [Bentley Bear](https://www.atari.com/collections/bentley-bear)
+    [Roasty Buds x Atari VCS](https://www.atari.com/collections/roasty-buds-x-atari-vcs)
     
     [RCT x errornogo](https://www.atari.com/collections/rct-x-errornogo)
     
@@ -308,7 +308,7 @@ COLLECTIONS
     
     [Jaguar](https://www.atari.com/collections/jaguar)
     
-    [Bentley Bear](https://www.atari.com/collections/bentley-bear)
+    [Roasty Buds x Atari VCS](https://www.atari.com/collections/roasty-buds-x-atari-vcs)
     
     [RCT x errornogo](https://www.atari.com/collections/rct-x-errornogo)
     
@@ -706,13 +706,11 @@ For general questions, contact us at [support@atari.com](mailto:support@atari.c
 
 Add to cart
 
-25% OFF
-
 ##### CX40+ Joystick
 
-Regular price $24.99 Sale price $18.74
+Regular price $24.99 Sale price $24.99
 
-Regular price $18.74
+Regular price $24.99
 
 Unit price /  per](https://www.atari.com/products/cx40-joystick) [![CX30+ Paddle Controller Bundle](files/ProductImage-A_79a257b5-bdaf-485d-805f-65148be7ac1a.jpg)
 
@@ -720,13 +718,11 @@ Unit price /  per](https://www.atari.com/products/cx40-joystick) [![CX30+ Padd
 
 Add to cart
 
-30% OFF
-
 ##### CX30+ Paddle Controller Bundle
 
-Regular price $39.99 Sale price $27.99
+Regular price $39.99 Sale price $39.99
 
-Regular price $27.99
+Regular price $39.99
 
 Unit price /  per](https://www.atari.com/products/cx30-paddle-controller-bundle) 
 
@@ -739,6 +735,8 @@ Close
 ### Your cart is empty
 
 Loading...
+
+$20 Back $40 Back $60 Back | |
 
 Subtotal
 
@@ -756,13 +754,11 @@ Continue Shopping
 
 Add to cart
 
-25% OFF
-
 ##### CX40+ Joystick
 
-Regular price $24.99 Sale price $18.74
+Regular price $24.99 Sale price $24.99
 
-Regular price $18.74
+Regular price $24.99
 
 Unit price /  per](https://www.atari.com/products/cx40-joystick) 
 
@@ -772,13 +768,11 @@ Unit price /  per](https://www.atari.com/products/cx40-joystick) 
 
 Add to cart
 
-30% OFF
-
 ##### CX30+ Paddle Controller Bundle
 
-Regular price $39.99 Sale price $27.99
+Regular price $39.99 Sale price $39.99
 
-Regular price $27.99
+Regular price $39.99
 
 Unit price /  per](https://www.atari.com/products/cx30-paddle-controller-bundle) 
 
