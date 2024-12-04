@@ -130,6 +130,12 @@ Orange = One-Time Donations
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/01-pardonhunt-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/12/crimes-of-the-father/)
+    
+    [Crimes Of The Father](https://www.conservativedailynews.com/2024/12/crimes-of-the-father/)
+    
+    December 4, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/stg120424dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/scrooged-2/)
     
     [Scrooged!](https://www.conservativedailynews.com/2024/12/scrooged-2/)
@@ -172,25 +178,19 @@ Recent Posts
     
     December 4, 2024
     
-* [![Joe Biden warmonger](https://www.conservativedailynews.com/wp-content/uploads/2023/01/stg012923dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/tucker-carlson-is-back-in-moscow-with-a-terrifying-revelation/)
-    
-    [Tucker Carlson Is Back In Moscow With A Terrifying Revelation](https://www.conservativedailynews.com/2024/12/tucker-carlson-is-back-in-moscow-with-a-terrifying-revelation/)
-    
-    December 3, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [New Faxon Firearms Low-Profile Adjustable Gas Block](https://www.thegunpage.com/new-faxon-firearms-low-profile-adjustable-gas-block/10612285)
+* [SIG Sheds Light on Recent Lawsuits Over P320](https://www.thegunpage.com/sig-sheds-light-on-recent-lawsuits-over-p320/10612281)
+* [New Meridian Defense MDC-Combat AK Trigger](https://www.thegunpage.com/new-meridian-defense-mdc-combat-ak-trigger/10612286)
+* [WY: Wyoming Legislative Update](https://www.thegunpage.com/wy-wyoming-legislative-update/10612279)
+* [Savannah Ruling In Preemption Case A Hollow Victory For Anti-Gunners](https://www.thegunpage.com/savannah-ruling-in-preemption-case-a-hollow-victory-for-anti-gunners/10612277)
+* [Patent Protected! FightLite Herring Lever-Action Coming Soon?](https://www.thegunpage.com/patent-protected-fightlite-herring-lever-action-coming-soon/10612283)
 * [Second Amendment Advocates Urge Trump To Pick Pro-Gun ATF Director](https://www.thegunpage.com/second-amendment-advocates-urge-trump-to-pick-pro-gun-atf-director/10612276)
 * [Florida high school suspends student for 3 shell casings](https://www.thegunpage.com/florida-high-school-suspends-student-for-3-shell-casings/10612274)
 * [Review: Glock G17L Gen5 MOS](https://www.thegunpage.com/review-glock-g17l-gen5-mos/10612273)
 * [TFB Review: Springfield Armory Echelon 4.0C 9mm](https://www.thegunpage.com/tfb-review-springfield-armory-echelon-4-0c-9mm/10612269)
-* [POTD: Foreign Weapons For U.S. Air Commandos](https://www.thegunpage.com/potd-foreign-weapons-for-u-s-air-commandos/10612270)
-* [HOT GAT or FUDD CRAP? Multi-tool or Acting a Fool?](https://www.thegunpage.com/hot-gat-or-fudd-crap-multi-tool-or-acting-a-fool/10612271)
-* [GOA, GOF Coalition Files Amicus Brief at SCOTUS in Defense of American Gun Manufacturers](https://www.thegunpage.com/goa-gof-coalition-files-amicus-brief-at-scotus-in-defense-of-american-gun-manufacturers/10612268)
-* [Affordable Versatility: Exploring the .300 Blackout’s Potential with a Budget Bolt Gun and LPVO](https://www.thegunpage.com/affordable-versatility-exploring-the-300-blackouts-potential-with-a-budget-bolt-gun-and-lpvo/10612262)
-* [Bergara Offers Barreled Actions And Bare Actions](https://www.thegunpage.com/bergara-offers-barreled-actions-and-bare-actions/10612265)
-* [GOA Nominated for Two Gundies at SHOT Show](https://www.thegunpage.com/goa-nominated-for-two-gundies-at-shot-show/10612261)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -232,6 +232,8 @@ Contact Us
 
 Recent Comments
 
+* Singleshot on [Tucker Carlson Is Back In Moscow With A Terrifying Revelation](https://www.conservativedailynews.com/2024/12/tucker-carlson-is-back-in-moscow-with-a-terrifying-revelation/#comment-783536)
+* Stanley Warner on [Pardon Me, Is This The Final Lie](https://www.conservativedailynews.com/2024/12/pardon-me-is-this-the-final-lie/#comment-783535)
 * Stanley Warner on [Trump Working His Magic With Tariff Diplomacy](https://www.conservativedailynews.com/2024/12/trump-working-his-magic-with-tariff-diplomacy/#comment-783527)
 * Kevin M. Nadzam on [Joe Biden Confirms his “Contempt” for the American People with his Hunter Biden Pardon](https://www.conservativedailynews.com/2024/12/joe-biden-confirms-his-contempt-for-the-american-people-with-his-hunter-biden-pardon/#comment-783526)
 * charles wilkins on [Another Broken Promise…](https://www.conservativedailynews.com/2024/12/another-broken-promise-2/#comment-783524)
@@ -239,8 +241,6 @@ Recent Comments
 * charles wilkins on [Turkey Day](https://www.conservativedailynews.com/2024/11/turkey-day-2/#comment-783510)
 * Stanley Warner on [A World of Leverage](https://www.conservativedailynews.com/2024/11/a-world-of-leverage/#comment-783463)
 * Stanley Warner on [Trump Will Redirect Billions In Unspent Funds From Biden’s Climate Law To ‘Real Infrastructure’](https://www.conservativedailynews.com/2024/11/trump-will-redirect-billions-in-unspent-funds-from-bidens-climate-law-to-real-infrastructure/#comment-783462)
-* Stanley Warner on [The Inequity of the Pursuit of Equity in the military over preparedness is at best dereliction of duty](https://www.conservativedailynews.com/2024/11/the-inequity-of-the-pursuit-of-equity-in-the-military-over-preparedness-is-at-best-dereliction-of-duty/#comment-783461)
-* KayCee on [A Cautionary Note for Republicans Celebrating Trump’s Historic Victory](https://www.conservativedailynews.com/2024/11/a-cautionary-note-for-republicans-celebrating-trumps-historic-victory/#comment-783440)
 
 [Close](#)
 
