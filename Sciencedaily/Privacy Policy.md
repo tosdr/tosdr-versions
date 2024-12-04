@@ -208,6 +208,7 @@ this hour
 
 * * *
 
+* [Lead Exposure Widely Damaged Mental Health](https://www.sciencedaily.com/releases/2024/12/241204114237.htm)
 * [Tiny, Daily Bursts of Activity May Halve ...](https://www.sciencedaily.com/releases/2024/12/241203194357.htm)
 * [Countdown to an Ice-Free Arctic](https://www.sciencedaily.com/releases/2024/12/241203154440.htm)
 * [New Planet Discovered in Kepler-51 System](https://www.sciencedaily.com/releases/2024/12/241203153927.htm)
@@ -217,7 +218,6 @@ this hour
 * [AI Could Automate Genomics Research](https://www.sciencedaily.com/releases/2024/12/241202123918.htm)
 * [Self-Assembling Electronics](https://www.sciencedaily.com/releases/2024/12/241202123718.htm)
 * [Measuring Brainwaves: Temporary Tattoo On Scalp](https://www.sciencedaily.com/releases/2024/12/241202123531.htm)
-* [Primordial Black Holes May Be Hiding On Earth](https://www.sciencedaily.com/releases/2024/12/241202123658.htm)
 
 Trending Topics
 ---------------
@@ -228,27 +228,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Genes](https://www.sciencedaily.com/news/health_medicine/genes/)
-
 [Nutrition](https://www.sciencedaily.com/news/health_medicine/nutrition/)
 
-[Nervous System](https://www.sciencedaily.com/news/health_medicine/nervous_system/)
+[Medical Devices](https://www.sciencedaily.com/news/health_medicine/medical_devices/)
+
+[Urology](https://www.sciencedaily.com/news/health_medicine/urology/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Materials Science](https://www.sciencedaily.com/news/matter_energy/materials_science/)
-
 [Graphene](https://www.sciencedaily.com/news/matter_energy/graphene/)
 
-[Nature of Water](https://www.sciencedaily.com/news/matter_energy/nature_of_water/)
+[Pluto](https://www.sciencedaily.com/news/space_time/pluto/)
+
+[Robotics](https://www.sciencedaily.com/news/computers_math/robotics/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Nature](https://www.sciencedaily.com/news/plants_animals/nature/)
+[Bacteria](https://www.sciencedaily.com/news/plants_animals/bacteria/)
+
+[Environmental Policy](https://www.sciencedaily.com/news/earth_climate/environmental_policy/)
 
 [Microbiology](https://www.sciencedaily.com/news/plants_animals/microbiology/)
-
-[Food](https://www.sciencedaily.com/news/plants_animals/food/)
 
   
 
