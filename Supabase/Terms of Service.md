@@ -247,9 +247,10 @@ We protect your data.[More on Security](https://supabase.io/security)
 * [Functions](https://supabase.io/edge-functions)
 * [Realtime](https://supabase.io/realtime)
 * [Storage](https://supabase.io/storage)
-* [Vector](https://supabase.io/vector)
+* [Vector](https://supabase.io/modules/vector)
+* [Cron](https://supabase.io/modules/cron)
 * [Pricing](https://supabase.io/pricing)
-* [GA Week](https://supabase.io/ga-week)
+* [Launch Week](https://supabase.io/launch-week)
 
 ###### Resources
 
