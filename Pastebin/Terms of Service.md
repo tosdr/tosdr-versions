@@ -328,35 +328,35 @@ If you have any questions about these Terms, the Service, or your account, pleas
 
 [Public Pastes](https://pastebin.com/archive)
 
-* [Amazon Gift cards LEAKED](https://pastebin.com/mza0gkTx)
+* [Amazon Gift cards LEAKED](https://pastebin.com/vvjx9XEC)
     
-    JavaScript | 2 sec ago | 0.09 KB
+    JavaScript | 1 sec ago | 0.09 KB
     
-* [Amazon Gift cards LEAKED](https://pastebin.com/M4Ezjp3P)
+* [⭐ Binance Account hack JW](https://pastebin.com/CzBxLWHx)
+    
+    JavaScript | 3 sec ago | 0.18 KB
+    
+* [Leaked by Zak](https://pastebin.com/v6wvYcDf)
     
     JavaScript | 4 sec ago | 0.09 KB
     
-* [Leaked by Zak](https://pastebin.com/MexETcNm)
+* [Brazzers accounts](https://pastebin.com/ZsXtBmHi)
     
     JavaScript | 5 sec ago | 0.09 KB
     
-* [⭐ FREE giftcards method BT](https://pastebin.com/3atrMpgS)
+* [BTC ACCOUNTS HACKED](https://pastebin.com/EG1Pf8zf)
     
-    JavaScript | 6 sec ago | 0.18 KB
+    JavaScript | 6 sec ago | 0.09 KB
     
-* [Leaked by Zak](https://pastebin.com/vbEPzUZB)
-    
-    JavaScript | 7 sec ago | 0.09 KB
-    
-* [NETFLIX UHD ACCOUNTS](https://pastebin.com/Sqz24K9U)
+* [Leaked by Zak](https://pastebin.com/Etg0is8p)
     
     JavaScript | 7 sec ago | 0.09 KB
     
-* [BTC ACCOUNTS HACKED](https://pastebin.com/WinTxBwz)
+* [Amazon Gift cards LEAKED](https://pastebin.com/ekrfCsJg)
     
     JavaScript | 8 sec ago | 0.09 KB
     
-* [BTC ACCOUNTS HACKED](https://pastebin.com/Fq7p6dRi)
+* [Chaturbate Accounts with Tokens](https://pastebin.com/zUSfzJDW)
     
     JavaScript | 9 sec ago | 0.09 KB
     
