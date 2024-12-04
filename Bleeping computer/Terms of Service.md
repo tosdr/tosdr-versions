@@ -355,12 +355,12 @@ Popular Stories
 * [![Phishing](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Novel phishing campaign uses corrupted Word documents to evade security](https://www.bleepingcomputer.com/news/security/novel-phishing-campaign-uses-corrupted-word-documents-to-evade-security/)
-* [![Android](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    SpyLoan Android malware on Google Play installed 8 million times](https://www.bleepingcomputer.com/news/security/spyloan-android-malware-on-google-play-installed-8-million-times/)
 * [![Firefox](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Mozilla really wants you to set Firefox as default Windows browser](https://www.bleepingcomputer.com/news/software/mozilla-really-wants-you-to-set-firefox-as-default-windows-browser/)
+* [![Linux](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    BootKitty UEFI malware exploits LogoFAIL to infect Linux systems](https://www.bleepingcomputer.com/news/security/bootkitty-uefi-malware-exploits-logofail-to-infect-linux-systems/)
 
 ##### Follow us:
 
