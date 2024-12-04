@@ -1,4 +1,4 @@
-[Click here for Breaking News on how Surgence™ is Collaborating with Mayo Clinic to Innovate the Healthcare Supply Chain](https://www.concordancehealthcare.com/blog/rush-university-system-for-health-rush-advances-its-supply-chain-with-surgence-0?hs_preview=prCMxtpa-171272934715)
+[Click Here For Breaking News!](https://www.concordancehealthcare.com/blog)
 
 [![](https://www.concordancehealthcare.com/hs-fs/hubfs/Contribute%20Website/Concordance_logo.png?width=367&height=81&name=Concordance_logo.png)](https://www.concordancehealthcare.com/)
 
