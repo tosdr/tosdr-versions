@@ -43,7 +43,7 @@
     * [iPasen](https://www.juntadeandalucia.es/educacion/pasen/ "iPasen")
     * [Distrito Único Andaluz](https://www.juntadeandalucia.es/economiaconocimientoempresasyuniversidad/sguit/?q=grados "Distrito Único Andaluz")
     * [Moddle Centros](https://www.juntadeandalucia.es/educacion/eaprendizaje/moodle-centros/ "Moddle Centros")
-    * [Secretaría Virtual de los centros docentes](https://www.juntadeandalucia.es/educacion/secretariavirtual/ "Secretaría Virtual de los centros docentes")
+    * [Consulta el estado de solicitud de una beca o ayuda](https://www.juntadeandalucia.es/educacion/becasweb/consultawebbecas/ "Consulta el estado de solicitud de una beca o ayuda")
     
 * [Trabajar](https://www.juntadeandalucia.es/temas/trabajar.html "Trabajar")
     
@@ -67,7 +67,7 @@
     * [Renovar demanda de empleo](https://ws054.juntadeandalucia.es/apdweb/guest/home/group/10210/2210%252F2 "Renovar demanda de empleo")
     * [Ofertas de empleo](https://ws054.juntadeandalucia.es/eureka2/eureka-demandantes/busquedaOfertas.do?seleccionado=/es/empleo/ofertasEmpleo/ "Ofertas de empleo")
     * [Sistema de Provisión de Interinidades (SIPRI)](https://www.juntadeandalucia.es/educacion/sipri/inicio/ "Sistema de Provisión de Interinidades (SIPRI)")
-    * [Cursos de formación estatal para el empleo](https://juntadeandalucia.es/organismos/sae/servicios/cursos-fpe-estatal.html "Cursos de formación estatal para el empleo")
+    * [Plan de Empleo Juvenil](https://www.juntadeandalucia.es/organismos/empleoempresaytrabajoautonomo/areas/incentivos-empleo/plan-empleo-juvenil.html "Plan de Empleo Juvenil")
     * [Procesos selectivos convocados (IAAP)](https://juntadeandalucia.es/organismos/iaap/areas/empleo-publico/procesos-selectivos.html "Procesos selectivos convocados (IAAP)")
     
 * [Tu salud](https://www.juntadeandalucia.es/temas/salud.html "Tu salud")
