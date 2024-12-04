@@ -2,11 +2,11 @@ Shop Now
 
 20% Off on Orders $99+ Ends in..
 
-4DAYS22HRS21MINS
+4DAYS16HRS19MINS
 
 20% Off on Orders $99+ Ends in..
 
-4DAYS22HRS21MINS
+4DAYS16HRS19MINS
 
 Shop Now
 
@@ -691,7 +691,7 @@ If any of the terms or conditions herein shall be deemed invalid, void, or for a
 
 Updated: October 2018
 
-![Logo](/mobify/bundle/923/static/img/logo.svg)
+![Logo](/mobify/bundle/930/static/img/logo.svg)
 
 World's largest selection of art
 
@@ -715,6 +715,7 @@ Customer Service
 * [Ordering](https://www.art.com/help/placingorders "Ordering")
 * [Shipping & Delivery](https://www.art.com/help/shipping "Shipping & Delivery")
 * [Returns](https://www.art.com/help/shippingreturns "Returns")
+* [Gift Cards](https://www.art.com/gift-cards/GC0025 "Gift Cards")
 * [FAQs](https://www.art.com/help/faq "FAQs")
 
 ### 
@@ -729,6 +730,7 @@ About Art.com
 
 * [Careers](https://www.trendsinternational.com/employment "Careers")
 * [Blog](https://www.art.com/blog/ "Blog")
+* [Discover the art of you](https://www.art.com/lp/rebrand-announcement "Discover the art of you")
 
 ### 
 
@@ -758,6 +760,7 @@ Customer Service
 * [Ordering](https://www.art.com/help/placingorders "Ordering")
 * [Shipping & Delivery](https://www.art.com/help/shipping "Shipping & Delivery")
 * [Returns](https://www.art.com/help/shippingreturns "Returns")
+* [Gift Cards](https://www.art.com/gift-cards/GC0025 "Gift Cards")
 * [FAQs](https://www.art.com/help/faq "FAQs")
 
 ### 
@@ -772,6 +775,7 @@ About Art.com
 
 * [Careers](https://www.trendsinternational.com/employment "Careers")
 * [Blog](https://www.art.com/blog/ "Blog")
+* [Discover the art of you](https://www.art.com/lp/rebrand-announcement "Discover the art of you")
 
 ### 
 
