@@ -218,12 +218,12 @@ Tools & Resources
 * [Public Driver Downloads](https://www.marvell.com/support/downloads.html)
 * [Product Security Center](https://www.marvell.com/product-security-incident-reporting.html)
 
- 
-
-![Request Information about Marvell Product and Services](/content/dam/marvell/en/company/images/heroes/bnr-hero-855x504-generic-01.jpg) 
+  
 
 Terms of Use
 ============
+
+![Marvell Terms of Use](/content/dam/marvell/en/home/images/heroes/bnr-hero-1900x1266-terms-of-uses.jpg)
 
 [](https://www.marvell.com/)
 
