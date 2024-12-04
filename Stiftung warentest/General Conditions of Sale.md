@@ -664,12 +664,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Facebook Foto­einstel­lungen: Heimliche Fotoanalyse – so schalten Sie die Funk­tion ab](https://www.test.de/Facebook-Fotoeinstellungen-Heimliche-Fotoanalyse-so-schalten-Sie-die-Funktion-ab-6140854-0/ "Facebook Fotoeinstellungen - Heimliche Fotoanalyse – so schalten Sie die Funktion ab")
-* [iBonds-ETF von iShares: Das taugen die Anleihen-ETF mit Fälligkeits­datum](https://www.test.de/iBonds-ETF-von-iShares-Die-ersten-Anleihe-ETF-mit-Faelligkeitsdatum-6041413-0/ "iBonds-ETF von iShares - Das taugen die Anleihen-ETF mit Fälligkeitsdatum")
-* [Online-Shopping: EU-Kommis­sion geht gegen Temu vor](https://www.test.de/Schnaeppchen-Plattform-Bei-Temu-ist-Vorsicht-angesagt-6098821-0/ "Online-Shopping - EU-Kommission geht gegen Temu vor")
-* [Lyoner, Mortadella & Co: Wurst-Aufschnitt im Test](https://www.test.de/Lyoner-Mortadella-Co-Wurst-Aufschnitt-im-Test-6046593-0/ "Lyoner, Mortadella & Co - Wurst-Aufschnitt im Test")
-* [Hundeshampoos im Test: Welche für alle Felle empfehlens­wert sind](https://www.test.de/Hundeshampoos-im-Test-5987755-0/ "Hundeshampoos im Test - Welche für alle Felle empfehlenswert sind")
-* [Pflegereform: Höhere Beiträge, mehr Geld für Pflegebedürftige](https://www.test.de/Pflegereform-Hoehere-Beitraege-mehr-Geld-fuer-Pflegebeduerftige-5999460-0/ "Pflegereform - Höhere Beiträge, mehr Geld für Pflegebedürftige")
+* [Aktienmarkt: Aktienmärkte auf dem Höchst­stand – jetzt noch investieren?](https://www.test.de/Aktienmarkt-Aktienmaerkte-auf-dem-Hoechststand-Jetzt-noch-einsteigen-6076978-0/ "Aktienmarkt - Aktienmärkte auf dem Höchststand – jetzt noch investieren?")
+* [Kiefer­ortho­pädie bei Kindern: Wann die Behand­lung starten sollte](https://www.test.de/Kieferorthopaedie-bei-Kindern-Wann-die-Behandlung-starten-sollte-1783943-0/ "Kieferorthopädie bei Kindern - Wann die Behandlung starten sollte")
+* [Welt-Aktienindizes: Das sind die Alternativen zum MSCI World](https://www.test.de/Welt-Aktienindizes-Das-sind-die-Alternativen-zum-MSCI-World-6001135-0/ "Welt-Aktienindizes - Das sind die Alternativen zum MSCI World")
+* [Seren fürs Gesicht: Durst­löscher für die Haut](https://www.test.de/Serum-fuers-Gesicht-Durstloescher-fuer-die-Haut-6161447-0/ "Seren fürs Gesicht - Durstlöscher für die Haut")
+* [Gut essen mit der Stiftung Warentest: Orecchiette in Grün](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Orecchiette-in-Gruen-6045209-0/ "Gut essen mit der Stiftung Warentest - Orecchiette in Grün")
+* [Tier­patenschaften im Vergleich: Spenden für Tiere – auf Trans­parenz achten](https://www.test.de/Tierpatenschaften-im-Vergleich-Spenden-fuer-Tiere-auf-Transparenz-achten-6070823-0/ "Tierpatenschaften im Vergleich - Spenden für Tiere – auf Transparenz achten")
 
 Weitere Informationen
 
@@ -3082,12 +3082,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Facebook Foto­einstel­lungen: Heimliche Fotoanalyse – so schalten Sie die Funk­tion ab](https://www.test.de/Facebook-Fotoeinstellungen-Heimliche-Fotoanalyse-so-schalten-Sie-die-Funktion-ab-6140854-0/ "Facebook Fotoeinstellungen - Heimliche Fotoanalyse – so schalten Sie die Funktion ab")
-* [iBonds-ETF von iShares: Das taugen die Anleihen-ETF mit Fälligkeits­datum](https://www.test.de/iBonds-ETF-von-iShares-Die-ersten-Anleihe-ETF-mit-Faelligkeitsdatum-6041413-0/ "iBonds-ETF von iShares - Das taugen die Anleihen-ETF mit Fälligkeitsdatum")
-* [Online-Shopping: EU-Kommis­sion geht gegen Temu vor](https://www.test.de/Schnaeppchen-Plattform-Bei-Temu-ist-Vorsicht-angesagt-6098821-0/ "Online-Shopping - EU-Kommission geht gegen Temu vor")
-* [Lyoner, Mortadella & Co: Wurst-Aufschnitt im Test](https://www.test.de/Lyoner-Mortadella-Co-Wurst-Aufschnitt-im-Test-6046593-0/ "Lyoner, Mortadella & Co - Wurst-Aufschnitt im Test")
-* [Hundeshampoos im Test: Welche für alle Felle empfehlens­wert sind](https://www.test.de/Hundeshampoos-im-Test-5987755-0/ "Hundeshampoos im Test - Welche für alle Felle empfehlenswert sind")
-* [Pflegereform: Höhere Beiträge, mehr Geld für Pflegebedürftige](https://www.test.de/Pflegereform-Hoehere-Beitraege-mehr-Geld-fuer-Pflegebeduerftige-5999460-0/ "Pflegereform - Höhere Beiträge, mehr Geld für Pflegebedürftige")
+* [Aktienmarkt: Aktienmärkte auf dem Höchst­stand – jetzt noch investieren?](https://www.test.de/Aktienmarkt-Aktienmaerkte-auf-dem-Hoechststand-Jetzt-noch-einsteigen-6076978-0/ "Aktienmarkt - Aktienmärkte auf dem Höchststand – jetzt noch investieren?")
+* [Kiefer­ortho­pädie bei Kindern: Wann die Behand­lung starten sollte](https://www.test.de/Kieferorthopaedie-bei-Kindern-Wann-die-Behandlung-starten-sollte-1783943-0/ "Kieferorthopädie bei Kindern - Wann die Behandlung starten sollte")
+* [Welt-Aktienindizes: Das sind die Alternativen zum MSCI World](https://www.test.de/Welt-Aktienindizes-Das-sind-die-Alternativen-zum-MSCI-World-6001135-0/ "Welt-Aktienindizes - Das sind die Alternativen zum MSCI World")
+* [Seren fürs Gesicht: Durst­löscher für die Haut](https://www.test.de/Serum-fuers-Gesicht-Durstloescher-fuer-die-Haut-6161447-0/ "Seren fürs Gesicht - Durstlöscher für die Haut")
+* [Gut essen mit der Stiftung Warentest: Orecchiette in Grün](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Orecchiette-in-Gruen-6045209-0/ "Gut essen mit der Stiftung Warentest - Orecchiette in Grün")
+* [Tier­patenschaften im Vergleich: Spenden für Tiere – auf Trans­parenz achten](https://www.test.de/Tierpatenschaften-im-Vergleich-Spenden-fuer-Tiere-auf-Transparenz-achten-6070823-0/ "Tierpatenschaften im Vergleich - Spenden für Tiere – auf Transparenz achten")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -3138,12 +3138,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Facebook Foto­einstel­lungen: Heimliche Fotoanalyse – so schalten Sie die Funk­tion ab](https://www.test.de/Facebook-Fotoeinstellungen-Heimliche-Fotoanalyse-so-schalten-Sie-die-Funktion-ab-6140854-0/ "Facebook Fotoeinstellungen - Heimliche Fotoanalyse – so schalten Sie die Funktion ab")
-* [iBonds-ETF von iShares: Das taugen die Anleihen-ETF mit Fälligkeits­datum](https://www.test.de/iBonds-ETF-von-iShares-Die-ersten-Anleihe-ETF-mit-Faelligkeitsdatum-6041413-0/ "iBonds-ETF von iShares - Das taugen die Anleihen-ETF mit Fälligkeitsdatum")
-* [Online-Shopping: EU-Kommis­sion geht gegen Temu vor](https://www.test.de/Schnaeppchen-Plattform-Bei-Temu-ist-Vorsicht-angesagt-6098821-0/ "Online-Shopping - EU-Kommission geht gegen Temu vor")
-* [Lyoner, Mortadella & Co: Wurst-Aufschnitt im Test](https://www.test.de/Lyoner-Mortadella-Co-Wurst-Aufschnitt-im-Test-6046593-0/ "Lyoner, Mortadella & Co - Wurst-Aufschnitt im Test")
-* [Hundeshampoos im Test: Welche für alle Felle empfehlens­wert sind](https://www.test.de/Hundeshampoos-im-Test-5987755-0/ "Hundeshampoos im Test - Welche für alle Felle empfehlenswert sind")
-* [Pflegereform: Höhere Beiträge, mehr Geld für Pflegebedürftige](https://www.test.de/Pflegereform-Hoehere-Beitraege-mehr-Geld-fuer-Pflegebeduerftige-5999460-0/ "Pflegereform - Höhere Beiträge, mehr Geld für Pflegebedürftige")
+* [Aktienmarkt: Aktienmärkte auf dem Höchst­stand – jetzt noch investieren?](https://www.test.de/Aktienmarkt-Aktienmaerkte-auf-dem-Hoechststand-Jetzt-noch-einsteigen-6076978-0/ "Aktienmarkt - Aktienmärkte auf dem Höchststand – jetzt noch investieren?")
+* [Kiefer­ortho­pädie bei Kindern: Wann die Behand­lung starten sollte](https://www.test.de/Kieferorthopaedie-bei-Kindern-Wann-die-Behandlung-starten-sollte-1783943-0/ "Kieferorthopädie bei Kindern - Wann die Behandlung starten sollte")
+* [Welt-Aktienindizes: Das sind die Alternativen zum MSCI World](https://www.test.de/Welt-Aktienindizes-Das-sind-die-Alternativen-zum-MSCI-World-6001135-0/ "Welt-Aktienindizes - Das sind die Alternativen zum MSCI World")
+* [Seren fürs Gesicht: Durst­löscher für die Haut](https://www.test.de/Serum-fuers-Gesicht-Durstloescher-fuer-die-Haut-6161447-0/ "Seren fürs Gesicht - Durstlöscher für die Haut")
+* [Gut essen mit der Stiftung Warentest: Orecchiette in Grün](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Orecchiette-in-Gruen-6045209-0/ "Gut essen mit der Stiftung Warentest - Orecchiette in Grün")
+* [Tier­patenschaften im Vergleich: Spenden für Tiere – auf Trans­parenz achten](https://www.test.de/Tierpatenschaften-im-Vergleich-Spenden-fuer-Tiere-auf-Transparenz-achten-6070823-0/ "Tierpatenschaften im Vergleich - Spenden für Tiere – auf Transparenz achten")
 
 Neueste Tests
 
@@ -3156,12 +3156,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Facebook Foto­einstel­lungen: Heimliche Fotoanalyse – so schalten Sie die Funk­tion ab](https://www.test.de/Facebook-Fotoeinstellungen-Heimliche-Fotoanalyse-so-schalten-Sie-die-Funktion-ab-6140854-0/ "Facebook Fotoeinstellungen - Heimliche Fotoanalyse – so schalten Sie die Funktion ab")
-* [iBonds-ETF von iShares: Das taugen die Anleihen-ETF mit Fälligkeits­datum](https://www.test.de/iBonds-ETF-von-iShares-Die-ersten-Anleihe-ETF-mit-Faelligkeitsdatum-6041413-0/ "iBonds-ETF von iShares - Das taugen die Anleihen-ETF mit Fälligkeitsdatum")
-* [Online-Shopping: EU-Kommis­sion geht gegen Temu vor](https://www.test.de/Schnaeppchen-Plattform-Bei-Temu-ist-Vorsicht-angesagt-6098821-0/ "Online-Shopping - EU-Kommission geht gegen Temu vor")
-* [Lyoner, Mortadella & Co: Wurst-Aufschnitt im Test](https://www.test.de/Lyoner-Mortadella-Co-Wurst-Aufschnitt-im-Test-6046593-0/ "Lyoner, Mortadella & Co - Wurst-Aufschnitt im Test")
-* [Hundeshampoos im Test: Welche für alle Felle empfehlens­wert sind](https://www.test.de/Hundeshampoos-im-Test-5987755-0/ "Hundeshampoos im Test - Welche für alle Felle empfehlenswert sind")
-* [Pflegereform: Höhere Beiträge, mehr Geld für Pflegebedürftige](https://www.test.de/Pflegereform-Hoehere-Beitraege-mehr-Geld-fuer-Pflegebeduerftige-5999460-0/ "Pflegereform - Höhere Beiträge, mehr Geld für Pflegebedürftige")
+* [Aktienmarkt: Aktienmärkte auf dem Höchst­stand – jetzt noch investieren?](https://www.test.de/Aktienmarkt-Aktienmaerkte-auf-dem-Hoechststand-Jetzt-noch-einsteigen-6076978-0/ "Aktienmarkt - Aktienmärkte auf dem Höchststand – jetzt noch investieren?")
+* [Kiefer­ortho­pädie bei Kindern: Wann die Behand­lung starten sollte](https://www.test.de/Kieferorthopaedie-bei-Kindern-Wann-die-Behandlung-starten-sollte-1783943-0/ "Kieferorthopädie bei Kindern - Wann die Behandlung starten sollte")
+* [Welt-Aktienindizes: Das sind die Alternativen zum MSCI World](https://www.test.de/Welt-Aktienindizes-Das-sind-die-Alternativen-zum-MSCI-World-6001135-0/ "Welt-Aktienindizes - Das sind die Alternativen zum MSCI World")
+* [Seren fürs Gesicht: Durst­löscher für die Haut](https://www.test.de/Serum-fuers-Gesicht-Durstloescher-fuer-die-Haut-6161447-0/ "Seren fürs Gesicht - Durstlöscher für die Haut")
+* [Gut essen mit der Stiftung Warentest: Orecchiette in Grün](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Orecchiette-in-Gruen-6045209-0/ "Gut essen mit der Stiftung Warentest - Orecchiette in Grün")
+* [Tier­patenschaften im Vergleich: Spenden für Tiere – auf Trans­parenz achten](https://www.test.de/Tierpatenschaften-im-Vergleich-Spenden-fuer-Tiere-auf-Transparenz-achten-6070823-0/ "Tierpatenschaften im Vergleich - Spenden für Tiere – auf Transparenz achten")
 
 Stiftung Warentest
 
