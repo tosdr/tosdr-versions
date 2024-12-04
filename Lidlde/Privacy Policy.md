@@ -236,7 +236,6 @@ Datenschutzhinweise für den Lidl Onlineshop und die Lidl App
 ---
 
 1\. Kontaktdaten des Verantwortlichen sowie des Datenschutzbeauftragten
------------------------------------------------------------------------
 
 Sofern im Folgenden nicht anders benannt, sind die Lidl Digital Deutschland GmbH & Co. KG, Stiftsbergstraße 1, 74172 Neckarsulm („Lidl Digital“) und die Lidl Stiftung & Co. KG, Stiftsbergstraße 1, 74172 Neckarsulm („Lidl Stiftung“, zusammen mit der Lidl Digital „wir“, „uns“) gemeinsame Verantwortliche für die Verarbeitung Ihrer Daten auf der Webseite [www.lidl.de](https://www.lidl.de/de/datenschutz/www.lidl.de) und in der Lidl App („Dienste“).
 
@@ -247,12 +246,10 @@ Der Datenschutzbeauftragte der Lidl Stiftung ist unter der oben genannten Postan
   
 
 2\. Einbindung von Dritten als Auftragsverarbeiter
---------------------------------------------------
 
 Soweit nicht anders dargestellt, sind die im Folgenden benannten Empfänger oder Kategorien von Empfängern als Auftragsverarbeiter tätig. Sie sind jeweils sorgfältig ausgesucht und vertraglich nach Artikel 28 DSGVO verpflichtet. Das bedeutet, dass sie personenbezogene Daten nur auf Grundlage unserer Weisungen und nicht zu anderen als den genannten Zwecken verarbeiten dürfen.
 
 3\. Übermittlung an Empfänger in Drittländern
----------------------------------------------
 
 Unter Umständen kann es erforderlich sein, dass wir Ihre personenbezogenen Daten an Empfänger in einem Drittland oder mehreren Drittländern außerhalb der Europäischen Union (EU)/ des Europäischen Wirtschaftsraumes (EWR) übermitteln.
 
@@ -269,7 +266,6 @@ Wenn kein Angemessenheitsbeschluss vorliegt, sichern wir die Übermittlung durch
 Sofern im Folgenden nicht anders dargestellt, erfolgt der Drittlandtransfer entweder auf Basis eines Angemessenheitsbeschlusses oder einer der oben aufgezählten Maßnahmen. Sie können sich bei Fragen dazu an unsere Datenschutzbeauftragten wenden.
 
 4\. Aufruf unserer Dienste
---------------------------
 
 Zwecke der Datenverarbeitung/ Rechtsgrundlagen
 
@@ -321,7 +317,6 @@ Die Log-Files werden für einen Zeitraum von sieben Tagen gespeichert und danach
   
 
 5\. Abwicklung von Kaufverträgen inkl. Gewährleistungsfällen
-------------------------------------------------------------
 
 Verantwortlicher
 
@@ -381,7 +376,6 @@ Die für die Vertragsabwicklung erhobenen Daten werden bis zum Ablauf der gesetz
   
 
 6\. Sicherung des Bestellvorgangs und Auswahl der Zahlarten
------------------------------------------------------------
 
 Verantwortlicher
 
@@ -464,7 +458,6 @@ Die im Rahmen der Zahlartensteuerung erhobenen Daten aus Bonitätsabfragen werde
   
 
 6.1 Betrugsprävention mittels Device Fingerprint
-------------------------------------------------
 
 Verantwortlicher
 
@@ -531,7 +524,6 @@ Die im Rahmen der Betrugsprävention erhobenen Daten werden für Zwecke der Nach
   
 
 7\. Kontaktformular, E-Mail-Kontakt, Telefonanrufe, Social Media und Kundenumfragen
------------------------------------------------------------------------------------
 
 Zwecke der Datenverarbeitung/ Rechtsgrundlagen
 
@@ -580,7 +572,6 @@ Alle personenbezogenen Angaben, die Sie uns gegenüber bei Anfragen (Anregung, L
   
 
 8\. Gewinnspiele
-----------------
 
 Verantwortlicher
 
@@ -621,7 +612,6 @@ Nach Ende des Gewinnspiels und Bekanntgabe der Gewinner werden die personenbezog
   
 
 9\. Versand von Werbung
------------------------
 
 Zwecke der Datenverarbeitung/ Rechtsgrundlagen
 
@@ -696,7 +686,6 @@ Des Weiteren verarbeiten wir Sie betreffende Daten zu Werbezwecken unter Einsatz
   
 
 9.1 Personalisiertes Nutzungsprofil
------------------------------------
 
 Mit Ihrer Einwilligung erfassen wir und die folgenden Betreiber von Lidl-Webseiten und Lidl-Apps sowie die Versender von Lidl-Newslettern Ihr Nutzungsverhalten:
 
@@ -725,7 +714,6 @@ Dieses Nutzungsprofil können wir zudem mit Informationen zu von Ihnen in Online
 Wenn Sie die "Über mich”-Sektion in Lidl Plus ausgefüllt haben, werden diese Daten auch verwendet, um unsere Dienste an Ihre Interessen anzupassen. Die Rechtsgrundlage dafür ist Artikel 6 Absatz 1 Buchstabe b) DSGVO (Vertrag zwischen der Lidl Stiftung und Ihnen).
 
 9.2 Werbeinhalte
-----------------
 
 Die Inhalte der Marketingkommunikation der Lidl Stiftung & Co. KG und der Lidl Digital Deutschland GmbH & Co. KG umfassen Informationen über ihre Angebote, Rabattaktionen, Gewinnspiele, Neuigkeiten, Produkte und Dienstleistungen (z.B. Streaming-, Foto-, Strom- und Gas-, Kfz-Verträge-, Zeitungs- und Zeitschriften-, Kinderbücher-, Fitness- und Ernährungs, Telekommunikation-, Reiseangebote, Rezepte, Umfragen zur Kundenzufriedenheit, Möglichkeit zur Abgabe von Produktbewertungen) und denjenigen ihrer wechselnden Kooperationspartner aus dem Lidl Onlineshop, der Lidl App, dem Filialgeschäft, den Lidl Webseiten (z.B. www.lidl.de, www.lidl-kochen.de) und Lidl Apps sowie den dort angebotenen Kooperationen von Lidl und ihren wechselnden Kooperationspartnern (z.B. Lidl Plus Partnervorteile).
 
@@ -743,7 +731,6 @@ Kooperationspartner sind derzeit u.a.:
   
 
 9.3 Push-Nachrichten
---------------------
 
 Zwecke der Datenverarbeitung/ Rechtsgrundlagen
 
@@ -786,7 +773,6 @@ Ihre Daten werden gespeichert, solange Sie Push-Nachrichten aktiviert haben.
   
 
 9.4 Verfügbarkeitsbenachrichtigung
-----------------------------------
 
 Zwecke der Datenverarbeitung/ Rechtsgrundlagen
 
@@ -819,7 +805,6 @@ Speicherdauer/ Kriterien für Festlegung der Speicherdauer
 Ihre Daten werden 90 Tage nach der Anmeldung gelöscht.
 
 9.5 Abgabe von Produktbewertungen
----------------------------------
 
 Zwecke der Datenverarbeitung/ Rechtsgrundlagen:
 
@@ -876,12 +861,10 @@ Die Löschung der Bestellnummer erfolgt nach fünf Jahren.
   
 
 10\. Einsatz von Cookies und ähnlichen Techniken zur Verarbeitung von Nutzungsdaten
------------------------------------------------------------------------------------
 
 Bei dem Einsatz von Cookies und ähnlichen Techniken zur Verarbeitung von Nutzungsdaten (insbesondere Local Storage) werden beim Besuch unserer Webseite ( [www.lidl.de](https://www.lidl.de/)) und einigen der dort eingebetteten Webseiten (insbesondere account.lidl.com) und der Lidl App (gemeinsam: „diese Dienste“) Dateien lokal auf Ihrem Endgerät (Laptop, Tablet, Smartphone o.ä.) gespeichert. Mitunter wird zur Ausspielung personalisierter Werbung auch ein sogenanntes Tag eingesetzt, das in diese Dienste eingebunden ist (im Folgenden mit unter „ähnliche Techniken zur Verarbeitung von Nutzungsdaten“ gefasst). Hierbei handelt es sich um einen Code, über den Nutzungsdaten erfasst werden.
 
 10.1 Verantwortlichkeit
------------------------
 
 Die Lidl Digital und die Lidl Stiftung sind gemeinsame Verantwortliche für die meisten Datenverarbeitungen im Zusammenhang mit dem Einsatz sogenannter Cookies und anderer ähnlicher Techniken (im Folgenden einheitlich als „Cookies“ bezeichnet) zur Verarbeitung von Nutzungsdaten auf diesen Diensten.
 
@@ -928,7 +911,6 @@ Die unter dem Zweck „Speichern von oder Zugriff auf Informationen auf einem En
   
 
 10.2 Zwecke/ Datenverarbeitungen
---------------------------------
 
 10.2.1 Übergreifende Darstellung
 
@@ -997,7 +979,6 @@ Mit den Microsoft- und Google Advertising-Diensten sammeln wir auch Informatione
   
 
 10.3 Datenkategorien
---------------------
 
 Im Rahmen des Einsatzes von Cookies und ähnlichen Techniken zur Verarbeitung von Nutzungsdaten werden abhängig von der Zwecksetzung insbesondere die folgenden Arten personenbezogener Daten verarbeitet:
 
@@ -1068,7 +1049,6 @@ Um Ihnen interessenbasierte Informationen anzeigen zu können, ist es erforderli
   
 
 10.4 Rechtsgrundlage/ Empfänger/ Speicherdauer
-----------------------------------------------
 
 Rechtsgrundlagen:
 
@@ -1115,7 +1095,6 @@ In einer Facebook Custom Audience können Ihre Daten maximal 180 Tage bleiben. N
   
 
 10.5 Widerrufs-/ Opt-Out-Möglichkeit/ Weitere Informationen
------------------------------------------------------------
 
 Sie können jederzeit Ihre Einwilligung widerrufen, zum Beispiel über den Präferenzmanager. Sie können den Widerruf wahlweise gegenüber uns oder den jeweils gemeinsam mit uns Verantwortlichen erklären.
 
@@ -1176,7 +1155,6 @@ Eine Informationsübersicht zu den einzelnen eingesetzten Cookies und ähnlichen
   
 
 11\. Kartendienste
-------------------
 
 **11.1 Bing Maps**
 
@@ -1240,7 +1218,6 @@ Der Einsatz von Kartendiensten beruht auf unserer Vertragsbeziehung mit Ihnen, A
   
 
 12\. Google reCaptcha
----------------------
 
 Verantwortlicher
 
@@ -1275,7 +1252,6 @@ Bei der Nutzung von Google reCaptcha werden die oben genannten Daten auch durch 
   
 
 13\. Versicherung Ihres Warenkorbs
-----------------------------------
 
 Verantwortlicher
 
@@ -1341,7 +1317,6 @@ Soweit Sie eine Versicherung abschließen, werden die oben genannten Daten gemä
   
 
 14\. Livestreams mit Chat-Funktion
-----------------------------------
 
 Zwecke der Datenverarbeitung/ Rechtsgrundlagen
 
@@ -1395,7 +1370,6 @@ Die IP-Adresse wird nach 7 Tagen gelöscht. Chat-Pseudonyme und Chat-Nachrichten
   
 
 15\. Links zu anderen Webseiten und Anwendungen
------------------------------------------------
 
 Unsere Webseite und die Lidl App enthalten Links zu anderen Webseiten und Apps, die von anderen Lidl-Gesellschaften, von ausgewählten Partnern oder sonstigen Dritten betrieben werden. Wenn Sie auf einen dieser Links klicken, beispielsweise in der Lidl App über einen In-App-Banner, werden Sie zu der Webseite/ App oder zu Ihrem jeweiligen App-Store weitergeleitet. Die Links können auch spezielle Tracking-Techniken enthalten, die es den Betreibern der genannten Webseiten/ Anwendungen ermöglichen, zu verstehen und zu messen, wo der Benutzer von ihnen erfahren hat. Auf die Datenverarbeitung dieser Webseiten/ Apps haben wir keinen Einfluss. Wir empfehlen Ihnen, die entsprechenden Datenschutzrichtlinien jeder Webseite/ App, auf die Sie weitergeleitet werden, zu überprüfen, um zu verstehen, welche Informationen über Sie vom Betreiber verarbeitet werden.
 
@@ -1404,7 +1378,6 @@ Unsere Webseite und die Lidl App enthalten Links zu anderen Webseiten und Apps, 
 Wenn wir Sie auf eine dieser Webseiten/ Apps weiterleiten, verarbeiten wir Ihre personenbezogenen Daten, um Ihrer (technischen) Aufforderung zum Besuch der jeweiligen Anwendung oder Webseite nachzukommen (Artikel 6 Absatz 1 b) DSGVO), sowie basierend auf dem berechtigten Interesse des Betreibers an der Durchführung von Werbung (Artikel 6 Absatz 1 f) DSGVO).
 
 16\. Zugriff auf Funktionen und Sensoren Ihres mobilen Endgeräts
-----------------------------------------------------------------
 
 Zwecke der Datenverarbeitung/ Rechtsgrundlagen
 
@@ -1445,7 +1418,6 @@ Rechtsgrundlage für die Verarbeitung Ihrer Standortdaten ist Ihre Einwilligung 
   
 
 17\. Eingebundene Inhalte Dritter
----------------------------------
 
 Wir haben YouTube-Videos in unser Online-Angebot eingebunden, die auf [https://www.youtube.com](https://www.youtube.com/) gespeichert sind und von unserer Website aus direkt abspielbar sind. Wenn Sie unsere Webseiten aufrufen, werden jedoch noch keine Inhalte des Drittanbieters YouTube (Google LLC) nachgeladen und dieser erhält keine Informationen von Ihnen. Erst wenn Sie Ihre Einwilligung erteilen, werden Inhalte des Drittanbieters YouTube (Google LLC) nachgeladen. Hierdurch erhält YouTube (Google LLC) die Information, dass Sie unsere Seite aufgerufen haben sowie die in diesem Rahmen technisch erforderlichen Nutzungsdaten. Außerdem ist YouTube (Google LLC) dann in der Lage Trackingtechnologien zu implementieren. Wir haben auf die weitere Datenverarbeitung durch den Drittanbieter YouTube (Google LLC) keinen Einfluss. Die Datenverarbeitung erfolgt auf Grundlage Ihrer Einwilligung gem. Art. 6 Abs. 1 lit. a) DSGVO. Ihre Einwilligung ist freiwillig und umfasst, dass Inhalte des Drittanbieters nachgeladen werden und die beschriebenen Daten an YouTube (Google LLC) übertragen werden dürfen. Für Übermittlungen in die USA ist ein angemessenes Datenschutzniveau aufgrund der Zertifizierung des Anbieters unter dem Angemessenheitsbeschluss (EU-U.S. Data Privacy Framework) gewährleistet. Weitere Informationen zu Zweck und Umfang der Datenerhebung und ihrer Verarbeitung durch YouTube (Google LLC) erhalten Sie in den Datenschutzerklärungen des Anbieters. Dort erhalten Sie auch weitere Informationen zu Ihren diesbezüglichen Rechten und Einstellungsmöglichkeiten zum Schutze Ihrer Privatsphäre. Adresse und Datenschutzhinweisen von YouTube: Google LLC, 1600 Amphitheatre Parkway. Mountain View, CA 94043, USA; [https://www.google.de/intl/de/policies/privacy/](https://www.google.de/intl/de/policies/privacy/).
 
@@ -1458,7 +1430,6 @@ Sofern Sie ihre Einwilligung zur sofortigen Abspielmöglichkeit von YouTube Vide
  Zustimmung zum abspielen von YouTube-Videos
 
 18\. Welche Rechte haben Sie im Hinblick auf die Verarbeitung Ihrer Daten?
---------------------------------------------------------------------------
 
 Sie haben das Recht, nach Artikel 15 Absatz 1 DSGVO unentgeltlich Auskunft über die zu Ihrer Person gespeicherten personenbezogenen Daten zu beantragen.
 
@@ -1490,7 +1461,6 @@ Filialgeschäft
 #### A Verantwortlicher i.S.d. Art. 4 Ziff. 7 DSGVO
 
 A Verantwortlicher i.S.d. Art. 4 Ziff. 7 DSGVO
-----------------------------------------------
 
 Bei der verantwortlichen Stelle handelt es sich um die jeweilige Lidl Vertriebs-GmbH & Co. KG. Die Kontaktdaten entnehmen Sie bitte dem Aushang in der Filiale oder erfahren Sie bei unserem Kundenservice unter [kontakt@lidl.de](mailto:kontakt@lidl.de).
 
@@ -1499,7 +1469,6 @@ Bei Fragen können Sie sich an den Datenschutzbeauftragten der verantwortlichen 
 #### B Einzelheiten der Datenverarbeitungen, Zwecke und Rechtsgrundlagen
 
 1\. Sicherheitskameras
-----------------------
 
 Zwecke und Rechtsgrundlagen
 
@@ -1528,7 +1497,6 @@ Wir speichern Bildaufnahmen für 48 Stunden.
   
 
 2\. Zahlungsverfahren
----------------------
 
 Zwecke und Rechtsgrundlagen
 
@@ -1571,7 +1539,6 @@ Speicherdauer / Kriterien für die Speicherdauer
 Die Daten werden gelöscht, sobald sie zur Abwicklung der Zahlung nicht mehr erforderlich sind und gesetzliche Aufbewahrungsfristen nicht entgegenstehen.
 
 3\. Rückgabe von Speichermedien
--------------------------------
 
 Zwecke und Rechtsgrundlagen
 
@@ -1598,7 +1565,6 @@ Die zurückgegebenen Artikel werden schnellstmöglich entsprechend aufbereitet u
   
 
 4\. Kunden-WLAN
----------------
 
 Zwecke und Rechtsgrundlagen
 
@@ -1633,7 +1599,6 @@ Speicherdauer/ Kriterien für die Speicherdauer
 Die Daten werden je nach Komponente nach 10 Minuten Inaktivität oder mit dem Überschreiben des festgelegten Speichers gelöscht.
 
 5\. Umsatzsteuerrückerstattung bei Ausfuhr ins Nicht-EU-Ausland im nichtkommerziellen Reiseverkehr
---------------------------------------------------------------------------------------------------
 
 Zwecke und Rechtsgrundlagen
 
@@ -1662,7 +1627,6 @@ Speicherdauer/ Kriterien für die Speicherdauer
 Aufgrund steuerrechtlicher Nachweispflichten (§§ 257 Abs. 1 Nr. 4 HGB, 147 Abs. 1 Nr. 1 AO) werden die o.g. Daten im Rahmen des Prozesses für 12 Jahre aufbewahrt.
 
 6\. Altersprüfung in der Filiale
---------------------------------
 
 Zwecke und Rechtsgrundlagen
 
@@ -1695,7 +1659,6 @@ Bei der Altersprüfung handelt es sich um eine Sichtprüfung. Es werden keine Da
   
 
 7\. Abwicklung von Reklamationen; Produktnotfälle
--------------------------------------------------
 
 Zwecke und Rechtsgrundlagen
 
@@ -1723,7 +1686,6 @@ Bearbeitung von Anfragen öffentlicher Stellen
 ---------------------------------------------
 
 Bearbeitung von Anfragen öffentlicher Stellen
----------------------------------------------
 
 Zwecke und Rechtsgrundlage der Verarbeitung
 
@@ -1775,12 +1737,10 @@ Geschäftspartner
 ----------------
 
 1\. Vertragsbeziehungen mit Geschäftspartnern
----------------------------------------------
 
 Die nachfolgenden Datenschutzhinweise gelten für Sie, wenn Sie Geschäftspartner der Lidl Unternehmensgruppe sind bzw. ein gesetzlicher Vertreter, Mitarbeiter, Gesellschafter oder wirtschaftlich Begünstigter eines Geschäftspartners. Geschäftspartner sind juristische oder natürlichen Personen, die in Verhandlungen mit Lidl zur Begründung einer Geschäftsbeziehung stehen oder bereits Partei einer entsprechenden Geschäftsbeziehung mit Lidl sind. Ausdrücklich ausgenommen sind Verträge zu Arbeits- oder Ausbildungsverhältnissen.
 
 2\. Zwecke der Datenverarbeitung /Rechtsgrundlage
--------------------------------------------------
 
 Zur Erfüllung von vertraglichen Pflichten (Artikel 6 Absatz 1 Buchstabe b) DSGVO)
 
@@ -1801,7 +1761,6 @@ Aufgrund einer Einwilligung (Artikel 6 Absatz 1 Buchstabe a) DSGVO)
 Daneben kann die Verarbeitung Ihrer personenbezogenen Daten auf einer freiwilligen Einwilligung im Sinne des Art. 6 Abs. 1 a) DSGVO beruhen.
 
 3\. Kategorien von Daten
-------------------------
 
 Welche Daten im Einzelnen verarbeitet werden, richtet sich maßgeblich nach den vereinbarten Leistungen und dem Gegenstand unserer Geschäftsbeziehung. Daher werden nicht alle Teile dieser Informationen für Sie relevant sein.
 
@@ -1816,7 +1775,6 @@ Bei Vertragsschluss erheben wir zur Erfüllung der oben genannten berechtigten I
 Soweit Sie mit uns einen Vertrag mittels digitaler Signatur abschließen, verarbeiten wir Ihre damit im Zusammenhang stehenden Daten (insbesondere E-Mail-Adresse, IP-Adresse, Zeitpunkte zu denen Sie das jeweilige Vertragsdokument bearbeitet haben). Zudem besteht die Möglichkeit bestimmte Verträge mit einer sogenannten qualifizierten elektronischen Signatur zu unterzeichnen. In diesem Fall verarbeiten wir zusätzlich zu den genannten Daten auch die Zertifikatsdaten Ihrer Signatur. Diese Daten sind für alle an der Vertragsfreigabe und -unterzeichnung beteiligten Personen zugänglich.
 
 4\. Empfänger/Kategorien von Empfängern
----------------------------------------
 
 Innerhalb unseres Unternehmens erhalten diejenigen Bereiche Zugriff auf die von Ihnen überlassenen Daten, die diese zur Erfüllung der vertraglichen oder gesetzlichen Pflichten oder zur Erfüllung der berechtigten Interessen benötigen oder von Ihnen in der separaten Einwilligungserklärung genehmigt worden sind.
 
@@ -1829,22 +1787,18 @@ Die Einhaltung datenschutzrechtlicher Vorgaben wird hierbei vertraglich sicherge
 Sofern Sie einen Rahmenvertrag mit der ganzen Lidl oder der Schwarz Gruppe als berechtigte Leistungsempfänger abgeschlossen haben, haben die jeweiligen Beschaffungs- und Einkaufsabteilungen der Lidl oder der Schwarz Gruppe (Schwarz Beschaffung GmbH) Zugriff auf die für die Kontaktaufnahme relevanten Geschäftspartner-Daten und die nationalen Compliance Abteilungen der Schwarz Gesellschaften haben jeweils Zugriff auf die Daten der Geschäftspartner-Complianceprüfung. Grundlage hierfür ist dann jeweils Artikel 26 DSGVO im Rahmen einer gemeinsamen Verantwortlichkeit. Außerhalb unserer Unternehmensgruppe werden die Daten darüber hinaus nur dann weitergegeben, sofern wir hierzu rechtlich verpflichtet sind (z.B. behördliche Ermittlungen).
 
 5\. Speicherdauer/Kriterien für die Festlegung der Speicherdauer
-----------------------------------------------------------------
 
 Die personenbezogenen Daten werden so lange aufbewahrt, wie dies zur Erfüllung der oben genannten Zwecke erforderlich ist. Relevant sind hierbei insbesondere die gesetzlichen Aufbewahrungspflichten aus dem Handelsgesetzbuch (HGB) und der Abgabenordnung (AO), die eine Aufbewahrung bis zu zwölf Jahren vorsehen. In Einzelfällen können Daten darüber hinaus gespeichert werden (z.B. im Fall von Bauunterlagen).
 
 6\. Verpflichtung zur Bereitstellung der Daten
-----------------------------------------------
 
 Im Rahmen unserer Geschäftsbeziehung müssen Sie diejenigen personenbezogenen Daten bereitstellen, die für die Aufnahme, Durchführung und Beendigung einer Geschäftsbeziehung und zur Erfüllung der damit verbundenen Pflichten erforderlich sind, zu deren Erhebung wir gesetzlich verpflichtet oder aufgrund berechtigter Interessen berechtigt sind. Ohne diese Daten werden wir in der Regel nicht in der Lage sein, eine Geschäftsbeziehung mit Ihnen einzugehen.
 
 7\. Übermittlung an Empfänger in einem Drittland
-------------------------------------------------
 
 Sofern wir Daten an Empfänger in einem Drittland (Sitz außerhalb des Europäischen Wirtschaftsraumes) übermitteln, können Sie dies den Angaben zu den Empfängern/ Kategorien von Empfängern im Rahmen der Beschreibung der jeweiligen Datenverarbeitung entnehmen. Einigen Drittländern bescheinigt die Europäische Kommission durch sog. Angemessenheitsbeschlüsse einen Datenschutzstandard, der dem Niveau im europäischen Wirtschaftsraum vergleichbar ist. Eine Liste dieser Länder können Sie unter [https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:039:0005:0018:DE:PDF](https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:039:0005:0018:DE:PDF) abrufen. Soweit in einem Land kein vergleichbarer Datenschutzstandard gegeben ist bzw. der entsprechende Dienstleister nicht den Bedingungen des Angemessenheitsbeschlusses entspricht, achten wir darauf, dass der Datenschutz durch andere Maßnahmen ausreichend gewährleistet wird. Möglich ist dies z.B. über bindende Unternehmensvorschriften, [Standard-Vertragsklauseln der Europäischen Kommission zum Schutz personenbezogener Daten](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc/standard-contractual-clauses-international-transfers_de), Zertifikate, oder anerkannte Verhaltenskodizes. Bitte wenden Sie sich an unseren Datenschutzbeauftragten (Ziffer 21), wenn Sie hierzu nähere Informationen erhalten möchten.
 
 8\. Name und Kontaktdaten des für die Verarbeitung Verantwortlichen sowie Kontaktdaten des betrieblichen Datenschutzbeauftragten
---------------------------------------------------------------------------------------------------------------------------------
 
 Bei der verantwortlichen Stelle handelt es sich um das jeweilige Unternehmen, mit dem Sie eine Geschäftsbeziehung anbahnen oder durchführen.
 
@@ -1860,7 +1814,6 @@ Kundenservice
 -------------
 
 1\. Name und Kontaktdaten der für die Verarbeitung Verantwortlichen sowie Kontaktdaten der betrieblichen Datenschutzbeauftragten
---------------------------------------------------------------------------------------------------------------------------------
 
 Verantwortlicher i.S.d. Artikel 4 Ziffer 7 DSGVO für die Beantwortung von Kundenanfragen zum **stationären Handel** in unseren Filialen und **sonstigen Anliegen** ist die **Lidl Dienstleistung GmbH & Co. KG**, Bonfelder Str. 2, 74206 Bad Wimpfen. Sie erreichen die Lidl Dienstleistung GmbH & Co. KG bei Bedarf telefonisch unter 030 - 2200 5500 oder per E-Mail unter [kontakt@lidl.de](mailto:kontakt@lidl.de). Der betriebliche Datenschutzbeauftragte der Lidl Dienstleistung GmbH & Co. KG ist unter der o.g. Anschrift zu Händen des Datenschutzbeauftragten bzw. unter datenschutz@lidl.de erreichbar.
 
@@ -1873,7 +1826,6 @@ Soweit Ihre Kundenanfrage im Zusammenhang unserem **Online-Shop** oder dort erwo
 Für Kundenanfragen im Zusammenhang mit Ihrem **My Lidl- oder Lidl Plus-Konto** ist die **Lidl Stiftung & Co. KG**, Stiftsbergstraße 1, 74167 Neckarsulm i.S.d. Artikel 4 Ziffer 7 DSGVO verantwortliche Stelle. Der betriebliche Datenschutzbeauftragte der Lidl Stiftung & Co. KG ist unter der o.g. Anschrift zu Händen des Datenschutzbeauftragten bzw. unter datenschutz@lidlplus.de erreichbar.
 
 2\. Bearbeitung von Kundenanfragen sowie Reklamationen und Teilnahme an Kundenumfragen
---------------------------------------------------------------------------------------
 
 Zwecke der Datenverarbeitung/ Rechtsgrundlagen:
 
@@ -1912,7 +1864,6 @@ Speicherdauer/ Kriterien für Festlegung der Speicherdauer:
 Personenbezogene Angaben, die Sie uns gegenüber bei Anfragen (Anregungen, Anfragen, Lob oder Kritik) über diese Webseite (inkl. der Interaktion mit einem Bot) oder per E-Mail zukommen lassen, werden von uns grundsätzlich spätestens 95 Tage nach der erteilten finalen Rückantwort gelöscht bzw. anonymisiert. Personenbezogene Daten im Bot werden innerhalb weniger Stunden anonymisiert. Bei Non Food-Reklamationen und kritischen Anliegen beträgt die Speicherdauer aufgrund von Gewährleistungs- und Verjährungsfristen 720 Tage. Bei Geltendmachung von datenschutzrechtlichen Betroffenenrechten werden Ihre personenbezogenen Daten für 3 Jahre nach finaler Rückantwort zum Nachweis gespeichert, dass wir Ihnen umfassend Auskunft erteilt haben und die gesetzlichen Anforderungen eingehalten werden. Bei Werbesperren beträgt die Speicherdauer standardmäßig 1095 Tage.
 
 3\. Anmeldung und Teilnahme an einer Zufriedenheitsbefragung im Kundenservice
------------------------------------------------------------------------------
 
 **1\. Durchführung einer Zufriedenheitsbefragung**
 
@@ -2262,7 +2213,6 @@ Speicherdauer/ Kriterien für Festlegung der Speicherdauer:
 Die Speicherdauer für Cookies können Sie unserer obenstehenden Cookieliste entnehmen.
 
 4\. Online Filialbewertung
---------------------------
 
 Vielen Dank für das Interesse an der Filialbewertung aus Kundensicht.
 
@@ -2509,7 +2459,6 @@ Bonfelder Straße 2
 datenschutz@lidl.de
 
 5\. Bewertung des Onlineshops
------------------------------
 
 Vielen Dank für das Interesse an der Lidl-Kundenumfrage.
 
@@ -2809,7 +2758,6 @@ Betroffenenrechte
 -----------------
 
 1\. Überblick
--------------
 
 Neben dem Recht auf Widerruf Ihrer uns gegenüber erteilten Einwilligungen, stehen Ihnen bei Vorliegen der jeweiligen gesetzlichen Voraussetzungen die folgenden weiteren Rechte zu:
 
@@ -2821,7 +2769,6 @@ Neben dem Recht auf Widerruf Ihrer uns gegenüber erteilten Einwilligungen, steh
 * **Widerspruchsrecht** nach Artikel 21 DSGVO.
 
 2\. Recht auf Auskunft gemäß Artikel 15 DSGVO
----------------------------------------------
 
 Sie haben das Recht, nach Artikel 15 Absatz 1 DSGVO auf Antrag unentgeltlich Auskunft über die bei uns zu Ihrer Person gespeicherten personenbezogenen Daten zu erhalten. Dies umfasst insbesondere:
 
@@ -2839,12 +2786,10 @@ Sie haben das Recht, nach Artikel 15 Absatz 1 DSGVO auf Antrag unentgeltlich Aus
 Werden personenbezogene Daten an ein Drittland oder an eine internationale Organisation übermittelt, so haben Sie das Recht, über die geeigneten Garantien gemäß Artikel 46 DSGVO im Zusammenhang mit der Übermittlung unterrichtet zu werden.
 
 3\. Recht auf Berichtigung gemäß Artikel 16 DSGVO
--------------------------------------------------
 
 Sie haben das Recht, von uns unverzüglich die Berichtigung Sie betreffender unrichtiger personenbezogener Daten zu verlangen. Unter Berücksichtigung der Zwecke der Verarbeitung haben Sie das Recht, die Vervollständigung unvollständiger personenbezogener Daten – auch mittels einer ergänzenden Erklärung – zu verlangen.
 
 4\. Recht auf Löschung gemäß Artikel 17 DSGVO
----------------------------------------------
 
 Sie haben das Recht, von uns zu verlangen, dass Sie betreffende personenbezogene Daten unverzüglich gelöscht werden, sofern einer der folgenden Gründe zutrifft:
 
@@ -2858,7 +2803,6 @@ Sie haben das Recht, von uns zu verlangen, dass Sie betreffende personenbezogene
 Sofern wir die personenbezogenen Daten öffentlich gemacht haben und zu deren Löschung verpflichtet sind, treffen wir unter Berücksichtigung der verfügbaren Technologie und der Implementierungskosten angemessene Maßnahmen, um die Ihre Daten verarbeitende Dritte darüber zu informieren, dass Sie auch von diesen die Löschung aller Links zu den personenbezogenen Daten oder von Kopien oder Replikationen dieser personenbezogenen Daten verlangen.
 
 5\. Recht auf Einschränkung der Verarbeitung gemäß Artikel 18 DSGVO
--------------------------------------------------------------------
 
 Sie haben das Recht, von uns die Einschränkung der Verarbeitung zu verlangen, wenn eine der folgenden Voraussetzungen gegeben ist:
 
@@ -2868,7 +2812,6 @@ Sie haben das Recht, von uns die Einschränkung der Verarbeitung zu verlangen, w
 * Sie Widerspruch gegen die Verarbeitung gemäß Artikel 21 Absatz 1 DSGVO eingelegt hat, solange noch nicht feststeht, ob die berechtigten Gründe des Verantwortlichen gegenüber denen der betroffenen Person überwiegen.
 
 6\. Recht auf Datenübertragbarkeit gemäß Artikel 20 DSGVO
----------------------------------------------------------
 
 Sie haben das Recht, die Sie betreffenden personenbezogenen Daten, die Sie uns bereitgestellt haben, in einem strukturierten, gängigen und maschinenlesbaren Format zu erhalten, und Sie haben das Recht, diese Daten einem anderen Verantwortlichen ohne Behinderung durch uns zu übermitteln, sofern
 
@@ -2878,19 +2821,16 @@ Sie haben das Recht, die Sie betreffenden personenbezogenen Daten, die Sie uns b
 Bei der Ausübung Ihres Rechts auf Datenübertragbarkeit haben Sie das Recht, zu erwirken, dass die personenbezogenen Daten direkt von uns zu einem anderen Verantwortlichen übermittelt werden, soweit dies technisch machbar ist.
 
 7\. Widerspruchsrecht gemäß Artikel 21 DSGVO
---------------------------------------------
 
 **Unter den Voraussetzungen des Artikel 21 Absatz 1 DSGVO kann der Datenverarbeitung aus Gründen, die sich aus der besonderen Situation Ihrerseits ergeben, widersprochen werden.**
 
 Das vorstehende **allgemeine Widerspruchsrecht** gilt für alle in diesen Datenschutzbestimmungen beschriebenen Verarbeitungszwecke, die auf Grundlage von Artikel 6 Absatz 1 Buchstabe f) DSGVO verarbeitet werden. Anders als bei dem auf die Datenverarbeitung zu werblichen Zwecken gerichteten speziellen Widerspruchsrecht (vergleiche oben insbesondere Ziffer 10, 13 und 14 der Datenschutzbestimmungen für den Online-Shop), sind wir nach der DSGVO zur Umsetzung eines solchen allgemeinen Widerspruchs nur verpflichtet, wenn Sie uns hierfür Gründe von übergeordneter Bedeutung nennen, z.B. eine mögliche Gefahr für Leben oder Gesundheit. Darüber hinaus besteht die Möglichkeit, sich an die für die Lidl Digital Deutschland GmbH & Co. KG zuständige Aufsichtsbehörde oder den Datenschutzbeauftragten der Lidl Digital Deutschland GmbH & Co. KG zu wenden.
 
 8\. Beschwerderecht bei der Datenschutz-Aufsichtsbehörde gemäß Artikel 77 DSGVO
--------------------------------------------------------------------------------
 
 Es steht Ihnen darüber hinaus jederzeit ein Recht zur Beschwerde bei der zuständigen Datenschutz-Aufsichtsbehörde zu. Sie können sich hierfür an die Datenschutz-Aufsichtsbehörde des Bundeslandes wenden, in dem Sie Ihren Wohnsitz haben oder an die Behörde desjenigen Bundeslandes, in der die Verantwortliche ihren Sitz hat.
 
 9\. Ausübung Ihrer Rechte
--------------------------
 
 Ansprechpartner bei Fragen oder zur Ausübung Ihrer Datenschutz-Rechte
 
