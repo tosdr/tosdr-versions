@@ -50,9 +50,9 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.kagstv.com/assets/KCEN/images/9eadfa67-1a7d-40e4-9650-4ae542955dd5/20240719T232258/9eadfa67-1a7d-40e4-9650-4ae542955dd5_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/9eadfa67-1a7d-40e4-9650-4ae542955dd5/20240719T232258/9eadfa67-1a7d-40e4-9650-4ae542955dd5_360x203.jpg)](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
+    *  [![](https://media.kagstv.com/assets/KCEN/images/c8e0db5e-43a8-4c35-8fbb-8e271d5866ee/20241204T105210/c8e0db5e-43a8-4c35-8fbb-8e271d5866ee_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/c8e0db5e-43a8-4c35-8fbb-8e271d5866ee/20241204T105210/c8e0db5e-43a8-4c35-8fbb-8e271d5866ee_360x203.jpg)](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
         
-        #### [Rain Chances Return Tomorrow | Central Texas Forecast](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
+        #### [Rain back in the forecast today | Central Texas Forecast](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
         
     *  [![](https://media.kagstv.com/assets/CCT/images/ba7d2016-edeb-449f-901e-b97ec0d6ce44/20241130T192614/ba7d2016-edeb-449f-901e-b97ec0d6ce44_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/ba7d2016-edeb-449f-901e-b97ec0d6ce44/20241130T192614/ba7d2016-edeb-449f-901e-b97ec0d6ce44_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/heavy-snow-blankets-parts-of-the-us/507-44798a84-f4e7-4d84-bf29-ebe649f73efb)
         
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-54°
+55°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
