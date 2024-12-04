@@ -1,8 +1,8 @@
 Γ
 
-                                                                         
+                                                                     
 
-Privacy Policy - VORO MOTORS                          
+Privacy Policy - VORO MOTORS                        
 
 [Preorders for EMOVE Cruiser v2 dual motors is live! 🎉 24/7 live chat available.](https://www.voromotors.com/en-gb/products/emove-cruiser-v2 "https://www.voromotors.com/en-gb/products/emove-cruiser-v2")
 
