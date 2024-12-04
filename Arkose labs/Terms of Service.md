@@ -35,7 +35,7 @@
         
         ![Telco](https://www.arkoselabs.com/wp-content/uploads/Phone-1.svg)
         
-        Telco](https://www.arkoselabs.com/resource/arkose-labs-for-telco/)
+        Telco](https://www.arkoselabs.com/blog/telecom-fraud-detection-protection-for-telcos/)
     * [![Technology Platforms](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
         
         ![Technology Platforms](https://www.arkoselabs.com/wp-content/uploads/Code-Laptop.svg)
@@ -150,7 +150,7 @@
         
         ![Telco](https://www.arkoselabs.com/wp-content/uploads/Phone-1.svg)
         
-        Telco](https://www.arkoselabs.com/resource/arkose-labs-for-telco/)
+        Telco](https://www.arkoselabs.com/blog/telecom-fraud-detection-protection-for-telcos/)
     * [![Technology Platforms](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
         
         ![Technology Platforms](https://www.arkoselabs.com/wp-content/uploads/Code-Laptop.svg)
