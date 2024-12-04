@@ -146,11 +146,11 @@ Main Menu Mega
     
     Technology Blog
     
-    ### [Unpacking Real Time Bidding through FTC’s case on Mobilewalla](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2024/12/unpacking-real-time-bidding-through-ftcs-case-mobilewalla)
+    ### [Solving the Traveling Salesman Problem? Not quite, but here are more research questions from the Office of Technology](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2024/12/solving-traveling-salesman-problem-not-quite-here-are-more-research-questions-office-technology)
     
-    Staff in the Office of Technology & Division of Privacy and Identity Protection
+    Staff at the Office of Technology
     
-    December 3, 2024
+    December 4, 2024
     
     [View all Technology Blog posts](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc)
     
@@ -221,9 +221,9 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC Takes Action Against Gravy Analytics, Venntel for Unlawfully Selling Location Data Tracking Consumers to Sensitive Sites](https://www.ftc.gov/news-events/news/press-releases/2024/12/ftc-takes-action-against-gravy-analytics-venntel-unlawfully-selling-location-data-tracking-consumers)
+    ### [FTC Takes Action Against Building Service Contractor’s No-Hire Agreement](https://www.ftc.gov/news-events/news/press-releases/2024/12/ftc-takes-action-against-building-service-contractors-no-hire-agreement)
     
-    December 3, 2024
+    December 4, 2024
     
     [View News and Events](https://www.ftc.gov/news-events)
     
