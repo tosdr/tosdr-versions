@@ -14,7 +14,7 @@
 
 * [ ]  Shop Toggle Shop Menu
     
-    [Mattresses](https://www.tempurpedic.com/shop-mattresses/ "Shop ")[Bed Bases](https://www.tempurpedic.com/bases-and-foundations/ "Shop ")[Pillows](https://www.tempurpedic.com/shop-pillows/ "Shop ")[Toppers](https://www.tempurpedic.com/other-products/tempur-toppers/ "Shop ")[Bedding](https://www.tempurpedic.com/bedding/ "Shop ")[More from Tempur](https://www.tempurpedic.com/other-products/ "Shop ")[](https://www.tempurpedic.com/other-products/tempur-toppers/ "Shop ")[](https://www.tempurpedic.com/shop-mattresses/tempur-cloud-mattress/ "Shop ")[](https://www.tempurpedic.com/shop-mattresses/tempur-cloud-mattress/ "Shop ")[](https://www.tempurpedic.com/shop-mattresses/tempur-cloud-mattress/ "Shop ")[](https://www.tempurpedic.com/shop-mattresses/breeze-closeouts/ "Shop ")[](https://www.tempurpedic.com/shop-mattresses/breeze-closeouts/ "Shop ")[](https://www.tempurpedic.com/shop-mattresses/breeze-closeouts/ "Shop ")[](https://www.tempurpedic.com/shop-mattresses/ "Shop ")[](https://www.tempurpedic.com/Extended-Cyber-Monday-Savings/ "Shop ")[](https://www.tempurpedic.com/Extended-Cyber-Monday-Savings/ "Shop ")[](https://www.tempurpedic.com/Extended-Cyber-Monday-Savings/ "Shop ")[](https://www.tempurpedic.com/extended-black-friday/ "Shop ")
+    [Mattresses](https://www.tempurpedic.com/shop-mattresses/ "Shop ")[Bed Bases](https://www.tempurpedic.com/bases-and-foundations/ "Shop ")[Pillows](https://www.tempurpedic.com/shop-pillows/ "Shop ")[Toppers](https://www.tempurpedic.com/other-products/tempur-toppers/ "Shop ")[Bedding](https://www.tempurpedic.com/bedding/ "Shop ")[More from Tempur](https://www.tempurpedic.com/other-products/ "Shop ")[](https://www.tempurpedic.com/other-products/tempur-toppers/ "Shop ")[](https://www.tempurpedic.com/shop-mattresses/tempur-cloud-mattress/ "Shop ")[](https://www.tempurpedic.com/shop-mattresses/tempur-cloud-mattress/ "Shop ")[](https://www.tempurpedic.com/shop-mattresses/tempur-cloud-mattress/ "Shop ")[](https://www.tempurpedic.com/shop-mattresses/breeze-closeouts/ "Shop ")[](https://www.tempurpedic.com/shop-mattresses/breeze-closeouts/ "Shop ")[](https://www.tempurpedic.com/shop-mattresses/breeze-closeouts/ "Shop ")[](https://www.tempurpedic.com/shop-mattresses/ "Shop ")
     
 * [ ]  Explore Toggle Explore Menu
     
@@ -27,7 +27,7 @@
 Shop
 ----
 
-[Cyber Monday
+[Save
 
 ![ProAdapt Mattress](https://assets-www.tempurpedic.com/media/images/Adapt_Shop_Nav_1.width-300.jpg)
 
@@ -61,18 +61,12 @@ Accessories](https://www.tempurpedic.com/other-products/)
     
     Finance](https://www.tempurpedic.com/finance-your-purchase/)
 
-Extended Cyber Monday Sitebuster
---------------------------------
+Most Popular
+------------
 
-[Save 40%
+[![ProAdapt Hybrid Mattress](https://assets-www.tempurpedic.com/media/images/ProAdaptMedHybrid3Q.width-300.jpg)
 
-![Cloud Mattress on an Ease Adjustable Base](https://assets-www.tempurpedic.com/media/images/Cloud_Ease_Mobile_Nav_BFCM24_2.width-300.png)
-
-TEMPUR-Cloud® + Ease® Power Base](https://www.tempurpedic.com/shop-mattresses/cloud-sitebuster/)[Save $500
-
-![Shop Nav - Breeze® mattress on an adjustable base](https://assets-www.tempurpedic.com/media/images/042823_All_NP_NewBreeze_Mobile_01.width-300.png)
-
-on select adjustable mattress sets¶](https://www.tempurpedic.com/shop-mattresses/)
+ProAdapt® Hybrid](https://www.tempurpedic.com/shop-mattresses/adapt-collection/v/2618/)
 
 * [![](https://assets-www.tempurpedic.com/media/images/OrdersNavVPV3_pRH2D75.original_1.original.png)
     
@@ -87,13 +81,7 @@ on select adjustable mattress sets¶](https://www.tempurpedic.com/shop-mattresse
 Special Offers
 --------------
 
-[![a cloud mattress with the bag that it ships in standing up against it](https://assets-www.tempurpedic.com/media/images/Offer3MobileNavV3.original.width-300.png)
-
-###### Extended Black Friday
-
-Save 30% + 2 Free Cloud Pillows
-
-TEMPUR-Cloud® Mattress](https://www.tempurpedic.com/shop-mattresses/cloud-sitebuster/v/3882/)[![a topper supreme rolled](https://assets-www.tempurpedic.com/media/images/Offer1MobileNavV4.original.width-300.png)
+[![a topper supreme rolled](https://assets-www.tempurpedic.com/media/images/Offer1MobileNavV4.original.width-300.png)
 
 ###### Limited-Time Offer
 
@@ -361,10 +349,6 @@ More Ways to Shop
 * [Twitter Tempur-pedic Twitter](https://twitter.com/tempurpedic "Twitter")
 * [Pinterest Tempur-pedic Pinterest](https://www.pinterest.com/TempurPedic/ "Pinterest")
 * [Instagram Tempur-pedic Instagram](https://www.instagram.com/tempurpedic/ "Instagram")
-
-¶ Offer valid November 5–December 3, 2024, while supplies last. Maximum savings of $500 requires purchase of a TEMPUR-Breeze® or TEMPUR-LuxeAdapt® mattress and a TEMPUR-Ergo® Smart Base. Save $500 on any size TEMPUR-ActiveBreeze® system. Save $300 on any size TEMPUR-Breeze® or TEMPUR-LuxeAdapt® mattress. Save $200 on any size TEMPUR-ProAdapt® or TEMPUR-Adapt® mattress. Save $200 on any size TEMPUR-Ergo® ProSmart® Base or TEMPUR-Ergo® Smart Base. Save $100 on any size TEMPUR-Ergo® Power Base. Select adjustable mattress sets only. Savings realized at time of purchase. Certain offers may not be combined. Excludes previous purchases. See store for availability and details. Copyright 2024 Tempur-Pedic North America, LLC. All rights reserved.
-
-†† Offer valid on two TEMPUR-Adapt® or TEMPUR-Breeze® pillows. See store for details.
 
 _+_ _For J.D. Power 2021-2024 award information, visit_  [jdpower.com/awards](https://www.jdpower.com/business/ratings-and-awards)
 
