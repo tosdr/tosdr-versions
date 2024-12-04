@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![50 Facts About Styrene ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22107%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/science/chemistry/50-facts-about-styrene/)
+[![37 Facts About H A Rey ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/people/37-facts-about-h-a-rey/)
 
-Chemistry
+People
 
-03 Dec 2024
+04 Dec 2024
 
-[50 Facts About Styrene](https://facts.net/science/chemistry/50-facts-about-styrene/)
+[37 Facts About H A Rey](https://facts.net/history/people/37-facts-about-h-a-rey/)
 
-[![35 Facts About Edward Mordrake ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/characters/35-facts-about-edward-mordrake/)
+[![35 Facts About Dagen H ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/35-facts-about-dagen-h/)
 
-Characters
+History
 
-03 Dec 2024
+04 Dec 2024
 
-[35 Facts About Edward Mordrake](https://facts.net/characters/35-facts-about-edward-mordrake/)
+[35 Facts About Dagen H](https://facts.net/history/35-facts-about-dagen-h/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
