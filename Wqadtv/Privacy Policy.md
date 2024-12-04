@@ -32,16 +32,12 @@ Navigation
     
     *  [![](https://media.tegna-media.com/assets/WQAD/images/ba86098b-99ed-446f-a5b8-76ca3b84ed4c/20241204T040425/ba86098b-99ed-446f-a5b8-76ca3b84ed4c_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ba86098b-99ed-446f-a5b8-76ca3b84ed4c/20241204T040425/ba86098b-99ed-446f-a5b8-76ca3b84ed4c_360x203.jpg)](https://www.wqad.com/article/news/local/wqad-iheartmedia-toys-for-tots-drive/526-4449e872-9fa3-418d-880d-f5996e8f0d60)
         
-        #### [WQAD, iHeartMedia partner for annual Toys for Tots drive](https://www.wqad.com/article/news/local/wqad-iheartmedia-toys-for-tots-drive/526-4449e872-9fa3-418d-880d-f5996e8f0d60) [![](https://media.tegna-media.com/assets/WQAD/images/ba86098b-99ed-446f-a5b8-76ca3b84ed4c/20241204T040425/ba86098b-99ed-446f-a5b8-76ca3b84ed4c_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ba86098b-99ed-446f-a5b8-76ca3b84ed4c/20241204T040425/ba86098b-99ed-446f-a5b8-76ca3b84ed4c_360x203.jpg)](https://www.wqad.com/article/news/local/wqad-iheartmedia-toys-for-tots-drive/526-4449e872-9fa3-418d-880d-f5996e8f0d60)
+        #### [WQAD, iHeartMedia partner for annual Toys for Tots drive](https://www.wqad.com/article/news/local/wqad-iheartmedia-toys-for-tots-drive/526-4449e872-9fa3-418d-880d-f5996e8f0d60)
         
-        #### [WQAD competes with iHeartMedia in annual Toys for Tots collection](https://www.wqad.com/article/news/local/wqad-iheartmedia-toys-for-tots-drive/526-4449e872-9fa3-418d-880d-f5996e8f0d60)
     *  [![](https://media.tegna-media.com/assets/WQAD/images/8649f001-478e-40e5-8658-37ed25ff7252/20241204T040938/8649f001-478e-40e5-8658-37ed25ff7252_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/8649f001-478e-40e5-8658-37ed25ff7252/20241204T040938/8649f001-478e-40e5-8658-37ed25ff7252_360x203.jpg)](https://www.wqad.com/article/news/local/sudlow-middle-school-expansion/526-ffbf179d-cd24-4718-b051-a29a0d6f37a2)
         
-        #### [Sudlow Middle School expansion breaks ground](https://www.wqad.com/article/news/local/sudlow-middle-school-expansion/526-ffbf179d-cd24-4718-b051-a29a0d6f37a2) [![](https://media.tegna-media.com/assets/WQAD/images/8649f001-478e-40e5-8658-37ed25ff7252/20241204T040938/8649f001-478e-40e5-8658-37ed25ff7252_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/8649f001-478e-40e5-8658-37ed25ff7252/20241204T040938/8649f001-478e-40e5-8658-37ed25ff7252_360x203.jpg)](https://www.wqad.com/article/news/local/sudlow-middle-school-expansion/526-ffbf179d-cd24-4718-b051-a29a0d6f37a2)
+        #### [Sudlow Middle School expansion breaks ground](https://www.wqad.com/article/news/local/sudlow-middle-school-expansion/526-ffbf179d-cd24-4718-b051-a29a0d6f37a2)
         
-        #### [Davenport school officials break ground on Sudlow Middle School expansion](https://www.wqad.com/article/news/local/sudlow-middle-school-expansion/526-ffbf179d-cd24-4718-b051-a29a0d6f37a2) [![](https://media.tegna-media.com/assets/WQAD/images/8649f001-478e-40e5-8658-37ed25ff7252/20241204T040938/8649f001-478e-40e5-8658-37ed25ff7252_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/8649f001-478e-40e5-8658-37ed25ff7252/20241204T040938/8649f001-478e-40e5-8658-37ed25ff7252_360x203.jpg)](https://www.wqad.com/article/news/local/sudlow-middle-school-expansion/526-ffbf179d-cd24-4718-b051-a29a0d6f37a2)
-        
-        #### [An expansion to Davenport's Sudlow Middle School is officially underway. Here's what's in store:](https://www.wqad.com/article/news/local/sudlow-middle-school-expansion/526-ffbf179d-cd24-4718-b051-a29a0d6f37a2)
     
 * [Weather](https://www.wqad.com/weather)
     
@@ -90,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-25°
+28°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-night_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
