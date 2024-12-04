@@ -8,15 +8,15 @@ Free - Google Play
 
 [Get it](https://play.google.com/store/apps/details?id=com.freshbooks.andromeda&utm_source=)
 
-[****Spend smart save big this Black Friday 💸**** 80% off for 4 months. **Buy Now & Save**
+[****End 2024 strong 💪**** 75% off for 3 months. **Buy Now & Save**
 
 📣 Only
 
 0 days 0 0 h : 0 0 m : 0 0 s
 
-left to get 80% off for 6 months **BUY NOW & SAVE**
+left to get 75% off for 3 months **BUY NOW & SAVE**
 
-**80% off for 4 months Buy Now & Save**
+**75% off for 3 months Buy Now & Save**
 
 ![Close promo banner](https://www.freshbooks.com/wp-content/themes/freshpress/dist/images/icons/promo-topbar-close.965a416c.svg)](https://www.freshbooks.com/pricing)
 
