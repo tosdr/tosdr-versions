@@ -244,25 +244,25 @@ New York, NY 10001
 Top of Today
 ------------
 
-1. [![Left: President Joe Biden talks with his son Hunter Biden as he arrives at Delaware Air National Guard Base in New Castle, Del., Tuesday, June 11, 2024. (AP Photo/Manuel Balce Ceneta). Right: Former President Donald Trump waits for the start of proceedings in his trial at Manhattan criminal court, Tuesday, May 14, 2024, in New York. (AP Photo/Craig Ruttle, Pool)](https://am21.mediaite.com/lc/cnt/uploads/2024/06/Hunter-and-Joe-Biden-Donald-Trump-432x243.jpg)](https://lawandcrime.com/high-profile/the-threat-is-real-trump-may-turn-his-vengeance-on-hunter-biden-and-use-vast-power-to-pursue-perceived-enemies-first-sons-legal-team-warns/)
+1. [![Tyler Gibson and Bailey Gibson](https://am21.mediaite.com/lc/cnt/uploads/2024/12/Tyler-Gibson-and-Bailey-Gibson-432x243.jpg)](https://lawandcrime.com/crime/the-procedure-did-not-go-as-planned-parents-thought-research-and-a-blessing-could-help-them-perform-circumcision-on-boy-at-home-cops-say/)
     
-    ### ['The threat ... is real': Hunter Biden legal team warned of Trump 'vengeance' in lead-up to President Biden issuing pardon](https://lawandcrime.com/high-profile/the-threat-is-real-trump-may-turn-his-vengeance-on-hunter-biden-and-use-vast-power-to-pursue-perceived-enemies-first-sons-legal-team-warns/)
+    ### ['The procedure did not go as planned': Parents thought research and a 'blessing' could help them perform circumcision on boy at home, cops say](https://lawandcrime.com/crime/the-procedure-did-not-go-as-planned-parents-thought-research-and-a-blessing-could-help-them-perform-circumcision-on-boy-at-home-cops-say/)
     
-2. [![Tameria Barnett appears in court after charges of child abuse](https://am21.mediaite.com/lc/cnt/uploads/2024/12/tameria-barnett-432x243.jpg)](https://lawandcrime.com/crime/4-year-old-critical-after-jailed-mom-leaves-her-with-friend-who-beat-her-daily-for-months-police/)
+2. [![Whole Foods store in Clearwater, Florida](https://am21.mediaite.com/lc/cnt/uploads/2024/12/whole-foods-clearwater-432x243.jpg)](https://lawandcrime.com/lawsuit/extreme-anaphylactic-shock-whole-foods-gave-child-life-threatening-allergic-reaction-with-half-dairy-pizza-lawsuit-says/)
     
-    ### [4-year-old critical after jailed mom leaves her with friend who beat her 'daily for months': Police](https://lawandcrime.com/crime/4-year-old-critical-after-jailed-mom-leaves-her-with-friend-who-beat-her-daily-for-months-police/)
+    ### ['Extreme anaphylactic shock': Whole Foods gave child 'life threatening' allergic reaction with 'half-dairy' pizza, lawsuit says](https://lawandcrime.com/lawsuit/extreme-anaphylactic-shock-whole-foods-gave-child-life-threatening-allergic-reaction-with-half-dairy-pizza-lawsuit-says/)
     
-3. [![Left: President Joe Biden talks with his son Hunter Biden as he arrives at Delaware Air National Guard Base in New Castle, Del., Tuesday, June 11, 2024. (AP Photo/Manuel Balce Ceneta). Right: Former President Donald Trump waits for the start of proceedings in his trial at Manhattan criminal court, Tuesday, May 14, 2024, in New York. (AP Photo/Craig Ruttle, Pool)](https://am21.mediaite.com/lc/cnt/uploads/2024/06/Hunter-and-Joe-Biden-Donald-Trump-432x243.jpg)](https://lawandcrime.com/high-profile/trump-wastes-no-time-using-hunter-biden-pardon-to-justify-freeing-all-jan-6-rioters/)
+3. [![Dan Scavino, inset against an image of Donald Trump.](https://am23.mediaite.com/lc/cnt/uploads/2024/12/Scavino-Trump-432x243.jpg)](https://lawandcrime.com/high-profile/denied-judge-nixes-former-trump-aides-bid-to-dodge-deposition-questions-from-president-elect-and-plaintiffs-in-jan-6-lawsuit/)
     
-    ### [Trump wastes no time using Hunter Biden pardon to justify freeing all Jan. 6 rioters](https://lawandcrime.com/high-profile/trump-wastes-no-time-using-hunter-biden-pardon-to-justify-freeing-all-jan-6-rioters/)
+    ### ['Denied': Judge nixes former Trump aide's bid to dodge deposition questions from president-elect and plaintiffs in Jan. 6 lawsuit](https://lawandcrime.com/high-profile/denied-judge-nixes-former-trump-aides-bid-to-dodge-deposition-questions-from-president-elect-and-plaintiffs-in-jan-6-lawsuit/)
     
-4. [![Popular post image](https://am24.mediaite.com/lc/cnt/uploads/2024/01/Jan.-6-432x243.jpg)](https://lawandcrime.com/high-profile/pentagon-funded-study-on-extremism-grossly-undercounted-number-of-active-military-members-and-vets-arrested-for-jan-6-attack-report/)
+4. [![Left: Bryan Kohberger; Top Right: Kaylee Goncalves, Ethan Chapin, Bottom Right: Xana Kernodle, Madison Mogen](https://am22.mediaite.com/lc/cnt/uploads/2023/01/Left-Bryan-Kohberger-Top-Right-Kaylee-Goncalves-Ethan-Chapin-Bottom-Right-Xana-Kernodle-Madison-Mogen-432x243.jpg)](https://lawandcrime.com/opinion/bryan-kohberger-not-likely-to-be-able-to-avoid-the-death-penalty-if-convicted-of-idaho-student-murders/)
     
-    ### [Pentagon-funded study on extremism 'grossly undercounted' number of active military members and vets arrested for Jan. 6 attack: Report](https://lawandcrime.com/high-profile/pentagon-funded-study-on-extremism-grossly-undercounted-number-of-active-military-members-and-vets-arrested-for-jan-6-attack-report/)
+    ### [Bryan Kohberger not likely to be able to avoid the death penalty if convicted of Idaho student murders](https://lawandcrime.com/opinion/bryan-kohberger-not-likely-to-be-able-to-avoid-the-death-penalty-if-convicted-of-idaho-student-murders/)
     
-5. [![Insets: Michel Fournier, Susan Lane-Fournier and her two dogs (Clackamas County Sheriff’s Office). Background: Susan Lane-Fournier's abandoned truck in Mount Hood National Forest (KOIN/YouTube).](https://am22.mediaite.com/lc/cnt/uploads/2024/12/1-432x243.jpg)](https://lawandcrime.com/crime/irreconcilable-differences-woman-who-vanished-with-dogs-was-murdered-by-husband-weeks-after-filing-for-divorce-from-him-cops-say/)
+5. [![Left: U.S. District Judge Max Cogburn Jr. (LawResourceOrg/YouTube). Right: President-elect Donald Trump arrives to speak at a meeting of the House GOP conference, Wednesday, Nov. 13, 2024, in Washington. (AP Photo/Alex Brandon)](https://am24.mediaite.com/lc/cnt/uploads/2024/12/Judge-Max-Cogburn-Jr.-Donald-Trump-432x243.jpg)](https://lawandcrime.com/high-profile/obama-appointed-judge-becomes-second-democratic-appointee-to-unretire-on-trump-after-election-win/)
     
-    ### ['Irreconcilable differences': Woman who vanished with dogs was murdered by husband weeks after filing for divorce from him, cops say](https://lawandcrime.com/crime/irreconcilable-differences-woman-who-vanished-with-dogs-was-murdered-by-husband-weeks-after-filing-for-divorce-from-him-cops-say/)
+    ### [Obama-appointed judge becomes second on federal bench to unretire on Trump after election win](https://lawandcrime.com/high-profile/obama-appointed-judge-becomes-second-democratic-appointee-to-unretire-on-trump-after-election-win/)
     
 
 [](http://eepurl.com/c89Jdb)
