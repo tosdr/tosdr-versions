@@ -284,7 +284,8 @@ We collect and receive the following categories of information:
     
     We may update this Privacy Policy from time to time to reflect changes in our privacy practices, so we encourage you to review this Privacy Policy periodically. If we make significant changes to this Privacy Policy, we will provide appropriate notice to you.
     
-    14\. **Contact Us.**
+
+* 14\. **Contact Us.**
     
     If you have any questions about this Privacy Policy or the manner in which we or our service providers treat personal information, please contact us at [NHL.com/contact](https://www.nhl.com/info/contact-us) and select "Privacy" for the subject line or write to us at:
     
