@@ -36,9 +36,9 @@
     * [Tarife mit Vertrag](#)
         * [Tarife im Vergleich](https://www.congstar.de/handytarife/smartphone-tarife-im-vergleich/)
         * [congstar X (200 GB)](https://www.congstar.de/congstar-x/)
-        * [Allnet Flat L (80 GB)](https://www.congstar.de/handytarife/allnet-flat-tarife/allnet-flat-l/)
-        * [Allnet Flat M (60 GB)](https://www.congstar.de/handytarife/allnet-flat-tarife/allnet-flat-m/)
-        * [Allnet Flat S Extra (20 GB)](https://www.congstar.de/handytarife/allnet-flat-tarife/allnet-flat-s-extra/)
+        * [Allnet Flat L (55 GB)](https://www.congstar.de/handytarife/allnet-flat-tarife/allnet-flat-l/)
+        * [Allnet Flat M (35 GB)](https://www.congstar.de/handytarife/allnet-flat-tarife/allnet-flat-m/)
+        * [Allnet Flat S Extra (15 GB)](https://www.congstar.de/handytarife/allnet-flat-tarife/allnet-flat-s-extra/)
         * [Allnet Flat S (5 GB)](https://www.congstar.de/handytarife/allnet-flat-tarife/allnet-flat-s/)
         * [Zweit- und Partnerkarte mit Kund\*innenrabatt](https://www.congstar.de/partnerkarte/)
     
