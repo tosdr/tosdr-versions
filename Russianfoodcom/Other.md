@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_3.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_1.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -146,6 +146,12 @@
 | [Картинки с выставок](https://www.russianfood.com/themes/?theme_id=18) | 4,98 |
 | Репортажи с выставок производителей продуктов питания. Рассказы о продукции известных и еще неизвестных брендов |     |
 
+Сейчас читают
+
+* [Салат из свежих шампиньонов с петрушкой и чесноком](https://www.russianfood.com/recipes/recipe.php?rid=174613)
+* [Шампиньоны в кляре](https://www.russianfood.com/recipes/recipe.php?rid=150813)
+* [Картофельный салат с селёдкой и грибами](https://www.russianfood.com/recipes/recipe.php?rid=174571)
+
 |     |
 | --- |
 | Поиск рецептов<br>-------------- |
@@ -166,6 +172,20 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Экономные рецепты – отличный вкус! Лучшие рецепты ЭКОНОМНЕЕ! №24-49](https://www.russianfood.com/reading/?post_id=22956) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/754/sm_753081.jpg)](https://www.russianfood.com/reading/?post_id=22956)
+
+Жареные пирожки с квашеной капустой. Котлеты из брокколи с пшеном. Тыквенный суп-пюре с рисом. Голени в томатном соусе и вине. Фасоль, запечённая в томатном соусе.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22956)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты ЭКОНОМНЕЕ!](https://www.russianfood.com/blogs/?id=338625) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22956#comments) | 04.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -363,20 +383,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Обычное по-необычному](https://www.russianfood.com/blogs/?id=325689) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22945#comments) | 01.12.24 |     |
 
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Каждый кусочек в радость. Лучшие СЛАДОСТИ №24-48](https://www.russianfood.com/reading/?post_id=22944) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/743/sm_742714.jpg)](https://www.russianfood.com/reading/?post_id=22944)
-
-Тёртый пирог с яблоками. Морковный торт со сметанным заварным кремом. Ореховый торт со сливочно-сметанным кремом. Шоколадный пирог с кофе и ромом. Шарлотка с грушами и базиликом. Морковные мини-тортики с кокосовым кремом. Десерт из слоёного теста с заварным кремом и орехами.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22944)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие сладости](https://www.russianfood.com/blogs/?id=327533) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22944#comments) | 01.12.24 |     |
-
 |     |
 | --- |
 | ← Предыдущая \| [Следующая →](https://www.russianfood.com/?page=2) |
@@ -448,8 +454,8 @@
 
 |     |     |
 | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/744/alt1_743339.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174016) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741205.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174425) |
-| [Салат из цветной капусты и брокколи](https://www.russianfood.com/recipes/recipe.php?rid=174016) | [Рулетики-голубцы из пекинской капусты с фаршем, без риса](https://www.russianfood.com/recipes/recipe.php?rid=174425) |
+| [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741205.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174425) | [![](//img1.russianfood.com/dycontent/images_upl/744/alt1_743339.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174016) |
+| [Рулетики-голубцы из пекинской капусты с фаршем, без риса](https://www.russianfood.com/recipes/recipe.php?rid=174425) | [Салат из цветной капусты и брокколи](https://www.russianfood.com/recipes/recipe.php?rid=174016) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -466,4 +472,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(121)
+(189)
