@@ -2,9 +2,9 @@
 
 [](https://www.soapboxsoaps.com/pages/soapbox-gift-guide)
 
-GIVING TUESDAY: 2x Bars Donated Today!
+CYBER WEEK DEALS: SAVE UP TO 30%
 
-GIVING TUESDAY: 2x Bars Donated Today!
+CYBER WEEK DEALS: SAVE UP TO 30%
 
 Menu icon Menu
 
