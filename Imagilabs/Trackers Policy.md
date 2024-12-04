@@ -1,5 +1,3 @@
-[💎Cyber Weekend Deal: Get 24% off imagiCharms with code imagicyber24 – Ends Dec 2!💎](https://imagilabs.com/discount/imagicyber24?redirect=%2Fcollections%2Fshop-collection)
-
 [![imagi](//imagilabs.com/cdn/shop/files/1_-_MAIN_-_Imagi-logo-magenta-RGB_804c5ea4-e7c1-41d7-a6f7-7fa445c9fef9.png?v=1662552731&width=300)](https://imagilabs.com/ "imagi")
 
 [Cart 0](https://imagilabs.com/cart)
