@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [What is Copy backup](https://www.backup4all.com/what-is-copy-backup-kb.html)  
+* [How to use "Backup on demand"](https://www.backup4all.com/how-to-use-backup-on-demand-feature-in-backup4all-kb.html)  
     
-* [Back up your smartphone or tablet using Backu ...](https://www.backup4all.com/back-up-your-smartphone-tablet-using-backup4all-kb.html)  
+* [How to restore a backup to Azure](https://www.backup4all.com/how-to-restore-a-backup-to-azure-kb.html)  
     
-* [How to backup your data to Seeweb](https://www.backup4all.com/how-to-backup-your-data-to-seeweb-kb.html)  
+* [How to backup your data to vCloud Air](https://www.backup4all.com/how-to-backup-your-data-to-vcloud-air-kb.html)  
     
-* [How to backup your data to Google Cloud Stora ...](https://www.backup4all.com/how-to-backup-your-data-to-google-cloud-storage-kb.html)  
+* [How to back up data files from LeoNovus using ...](https://www.backup4all.com/how-to-back-up-data-files-from-leonovus-using-backup4all-kb.html)  
     
-* [How to back up data files from HGST using Bac ...](https://www.backup4all.com/how-to-back-up-data-files-from-hgst-using-backup4all-kb.html)  
+* [How to backup from cloud using Backup4all](https://www.backup4all.com/how-to-backup-from-cloud-using-backup4all-kb.html)  
     
 
 Choose language:
