@@ -2,7 +2,7 @@
 
 [BILD Logo](https://www.bild.de/)
 
-* [Bild-KI](https://bild.de/hey-ki-helfer)
+* Bild-KI
 * [Infos zu BILDplus](https://angebot.bild.de/info/)
 * [Wetter IconWetter](https://www.bild.de/wetter)
 * [BILDplay](https://www.bild.de/video/mediathek/video/bild-live-71144736.bild.html)
@@ -209,25 +209,25 @@ Menü
 
 [BreakingNews
 
-Im Morgengrauen: GSG9 zerschlägt Schleuser-Netzwerk +++ Asylheim in Essen umstellt
+Vorfall auf der Ostsee: Russisches Schiff schießt auf Bundeswehr-Hubschrauber
 
-Im Morgengrauen: GSG9 zerschlägt Schleuser-Netzwerk +++ Asylheim in Essen umstellt
+Vorfall auf der Ostsee: Russisches Schiff schießt auf Bundeswehr-Hubschrauber
 
-Im Morgengrauen: GSG9 zerschlägt Schleuser-Netzwerk +++ Asylheim in Essen umstellt
+Vorfall auf der Ostsee: Russisches Schiff schießt auf Bundeswehr-Hubschrauber
 
-Im Morgengrauen: GSG9 zerschlägt Schleuser-Netzwerk +++ Asylheim in Essen umstellt
+Vorfall auf der Ostsee: Russisches Schiff schießt auf Bundeswehr-Hubschrauber
 
-Im Morgengrauen: GSG9 zerschlägt Schleuser-Netzwerk +++ Asylheim in Essen umstellt
+Vorfall auf der Ostsee: Russisches Schiff schießt auf Bundeswehr-Hubschrauber
 
-Im Morgengrauen: GSG9 zerschlägt Schleuser-Netzwerk +++ Asylheim in Essen umstellt
+Vorfall auf der Ostsee: Russisches Schiff schießt auf Bundeswehr-Hubschrauber
 
-Im Morgengrauen: GSG9 zerschlägt Schleuser-Netzwerk +++ Asylheim in Essen umstellt
+Vorfall auf der Ostsee: Russisches Schiff schießt auf Bundeswehr-Hubschrauber
 
-Im Morgengrauen: GSG9 zerschlägt Schleuser-Netzwerk +++ Asylheim in Essen umstellt
+Vorfall auf der Ostsee: Russisches Schiff schießt auf Bundeswehr-Hubschrauber
 
-Im Morgengrauen: GSG9 zerschlägt Schleuser-Netzwerk +++ Asylheim in Essen umstellt
+Vorfall auf der Ostsee: Russisches Schiff schießt auf Bundeswehr-Hubschrauber
 
-Im Morgengrauen: GSG9 zerschlägt Schleuser-Netzwerk +++ Asylheim in Essen umstellt](https://www.bild.de/news/inland/razzia-in-deutschland-und-frankreich-gsg9-gegen-schleuser-im-einsatz-674ff11003ce23009ba62d7b)
+Vorfall auf der Ostsee: Russisches Schiff schießt auf Bundeswehr-Hubschrauber](https://www.bild.de/politik/ostsee-zwischenfall-russisches-schiff-schiesst-auf-bundeswehr-hubschrauber-67504d6247fcf1771fc20ba5)
 
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
@@ -567,18 +567,6 @@ BILD nimmt an einem freiwilligen Streitbeilegungsverfahren vor einer deutschen V
 28.4 Vertragstext und Vertragssprache: Der Vertrag zwischen Nutzer und BILD wird grundsätzlich nicht in einem gesonderten Vertragstext zur Person des Nutzers niedergelegt, auf den der Nutzer dann später als solchen zugreifen könnte. Der Inhalt des Vertrages ergibt sich aber aus diesen AGB und dem Gegenstand des geschlossenen Vertrages. Für den Vertragsschluss steht nur die deutsche Sprache zur Verfügung.
 
 Stand: Oktober 2023
-
-[Produkttests](https://gutscheine.bild.de/)
-
-[Saugroboter](https://www.bild.de/kaufberater/haushalt-kueche/staubsauger/beste-saugroboter/)[Bluetoothboxen](https://www.bild.de/kaufberater/elektronik/beste-bluetooth-boxen-im-test/)[Soundbars](https://www.bild.de/kaufberater/elektronik/entertainment/beste-soundbars/)[Over Ear Kopfhörer](https://www.bild.de/kaufberater/elektronik/kopfhoerer/beste-over-ear-kopfhoerer/)[In Ear Kopfhörer](https://www.bild.de/kaufberater/elektronik/kopfhoerer/beste-in-ear-kopfhoerer/)[Kaffeevollautomaten](https://www.bild.de/kaufberater/haushalt-kueche/kaffeemaschinen/beste-kaffeevollautomaten/)[Elektrische Zahnbürsten](https://www.bild.de/kaufberater/beauty-pflege/gesundheit-wellness/beste-elektrische-zahnbuerste/)[Heißluftfritteusen](https://www.bild.de/kaufberater/haushalt-kueche/kuechengeraete/beste-heissluftfritteuse/)[NordVPN-Test](https://www.bild.de/vpn/nordvpn/)[Cyberghost-Test](https://www.bild.de/vpn/cyberghost/)[C-Date Test](https://www.bild.de/dating/test/c-date)[Parship Test](https://www.bild.de/dating/test/parship)[VerliebtAb40 Test](https://www.bild.de/dating/test/verliebtab40)[JOYclub Test](https://www.bild.de/dating/test/joyclub)[Sportwetten mit PayPal](https://sportwetten.bild.de/paypal/)
-
-[Kaufberatung](https://www.bild.de/vergleich/)
-
-[Kreditkarten Vergleich](https://www.bild.de/kreditkarten/)[Kredit-Vergleich](https://www.bild.de/kredit/)[Online Broker Vergleich](https://www.bild.de/trading/online-broker/)[ETF Broker Vergleich](https://www.bild.de/trading/etf-broker/)[Die günstigsten VPN](https://www.bild.de/vpn/guenstig/)[Wettanbieter-Vergleich](https://sportwetten.bild.de/wettanbieter/)[Strompreisvergleich](https://www.bild.de/strompreisvergleich/)[Die besten SingleBörsen](https://www.bild.de/dating/singleboerse-vergleich)[Casual Dating Vergleich](https://www.bild.de/dating/casual-dating)[Dating-App-Vergleich](https://www.bild.de/dating/dating-apps)[Leasing Vergleich](https://www.bild.de/leasing)[Auto Leasing unter 100 Euro](https://www.bild.de/leasing/auto-leasing-unter-100-euro)[Bluetooth Kopfhörer](https://www.bild.de/vergleich/bluetooth-kopfhoerer-test/)[Heimkinosystem](https://www.bild.de/vergleich/heimkinosystem-test/)[Spielekonsolen](https://www.bild.de/vergleich/spielekonsolen-test/)[PS4-Headset](https://www.bild.de/vergleich/ps4-headset-test/)[55-ZollFernseher](https://www.bild.de/vergleich/55-zoll-fernseher-test/)[Curved Monitor](https://www.bild.de/vergleich/curved-monitor-test/)[OLED TV](https://www.bild.de/vergleich/oled-tv-test/)[Blu-Ray Player](https://www.bild.de/vergleich/blu-ray-player-test/)[Beamer](https://www.bild.de/vergleich/beamer-test/)[Video on Demand](https://www.bild.de/vergleich/video-on-demand-test/)[Mp3 Player](https://www.bild.de/vergleich/mp3-player-test/)
-
-[Services](https://gutscheine.bild.de/beliebte-gutscheincodes)
-
-[BILD Deals](https://www.bild.de/deals/)[BILD Sportwetten](https://sportwetten.bild.de/)[BILD Bußgeldcheck](https://bussgeldcheck.bild.de/)[Hanseatic Bank GenialCard](https://www.bild.de/kreditkarten/hanseatic-bank-genialcard/)[Kostenloses Solitär](https://spiele.bild.de/solitaer/)[Tägliches Kreuzworträtsel](https://spiele.bild.de/kreuzwortraetsel/)[Hanseatic Bank Kreditkarte](https://www.bild.de/kreditkarten/hanseatic-bank-kreditkarten/)[Sportwetten-Tipps](https://sportwetten.bild.de/tipps/)[Stromanbieter wechseln](https://www.bild.de/strompreisvergleich/stromanbieter-wechseln/)[Saturn Gutschein](https://gutscheine.bild.de/gutscheine/saturn)[OTTO Gutschein](https://gutscheine.bild.de/gutscheine/otto)[Zalando Gutschein](https://gutscheine.bild.de/gutscheine/zalando)[Douglas Gutschein](https://gutscheine.bild.de/gutscheine/douglas)[Samsung Gutschein](https://gutscheine.bild.de/gutscheine/samsung)[Dyson Gutschein](https://gutscheine.bild.de/gutscheine/dyson)[o2 Gutschein](https://gutscheine.bild.de/gutscheine/o2)[Lufthansa Gutschein](https://gutscheine.bild.de/gutscheine/lufthansa)[Thalia Gutschein](https://gutscheine.bild.de/gutscheine/thalia-de)[adidas Rabattcode](https://gutscheine.bild.de/gutscheine/adidas)[Bershka Gutscheincode](https://gutscheine.bild.de/gutscheine/bershka)[ASOS Rabattcode](https://gutscheine.bild.de/gutscheine/asos)[Eventim Gutscheincode](https://gutscheine.bild.de/gutscheine/eventim)[Rebuy Gutscheincode](https://gutscheine.bild.de/gutscheine/rebuy-de)[BILDspielt Adventskalender](https://spiele.bild.de/adventskalender/)
 
 Mobile Ansicht Zum Seitenanfang
 
