@@ -2,9 +2,57 @@
 
 [Skip To Main Content](#mainContentDivider)
 
+CYBER SALE ENDS SOON
+
+Up to 40% off sitewide!
+
+00
+
+Days
+
+:
+
+00
+
+Hours
+
+:
+
+00
+
+Minutes
+
+:
+
+00
+
+Seconds
+
+[Shop Sale](https://august.com/pages/sale)
+
  [![Yale](https://cdn.shopify.com/s/files/1/1354/7835/files/Secondary_Gray_-_2020_-_RGB_2x_79e15df4-8d99-4352-bdda-652bfcb57cf0.png?v=1615919455)](https://shopyalehome.com/?utm_source=august.com&utm_medium=referral&utm_campaign=cobrand_toggle)![August](https://cdn.shopify.com/s/files/1/1354/7835/files/August-Logo-white-110x36.png?v=1617137811)
 
-EARLY ACCESS | Black Friday Savings Start Today!
+00
+
+Days
+
+:
+
+00
+
+Hours
+
+:
+
+00
+
+Minutes
+
+:
+
+00
+
+Seconds
 
 [Shop Sale](https://august.com/pages/sale)
 
@@ -380,7 +428,7 @@ pop-up content ends
 
 Email 
 
-Submit ![](//august.com/cdn/shop/t/346/assets/icon-newsletter-submit.svg?v=83048686797684669771730490433) 
+Submit ![](//august.com/cdn/shop/t/347/assets/icon-newsletter-submit.svg?v=83048686797684669771733257380) 
 
 By signing up for the August Home US and Canada email newsletter, you agree with our [terms](https://august.com/pages/terms-of-service).
 
