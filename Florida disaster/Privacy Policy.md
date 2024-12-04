@@ -61,6 +61,7 @@ Search
         * [Building Resilient Infrastructure and Communities (BRIC) Grant Program](https://www.floridadisaster.org/dem/mitigation/builing-resilient-infrastructure-and-communities-bric-grant-program/)
         * [Watershed Planning Program](https://www.floridadisaster.org/dem/mitigation/watershed-planning/)
         * [Swift Current](https://www.floridadisaster.org/dem/mitigation/swift-current/)
+        * [Residential Mitigation](https://www.floridadisaster.org/dem/mitigation/residential-mitigation/)
     * [STORM Revolving Loan Fund](https://www.floridadisaster.org/dem/safeguarding-tomorrow-through-ongoing-risk-mitigation-storm-revolving-loan-fund/)
     * [Procurement](https://www.floridadisaster.org/dem/procurement-and-contract-management/)
         * [How to Do Business With the State](https://www.floridadisaster.org/dem/procurement-and-contract-management/how-to-do-business-with-the-state/)
