@@ -15,56 +15,56 @@
     
     Trending
     
-    * [Protests](https://www.euronews.com/tag/protestas)
     * [EU Policy](https://www.euronews.com/tag/eu-policy)
-    * [Spain](https://www.euronews.com/tag/spain)
+    * [European Commission](https://www.euronews.com/tag/eu-commission)
+    * [Israel Hamas war](https://www.euronews.com/tag/israel-hamas-war)
+    * [United Kingdom](https://www.euronews.com/tag/united-kingdom)
+    * [Italy](https://www.euronews.com/tag/italy)
     * [France](https://www.euronews.com/tag/france)
-    * [climate change](https://www.euronews.com/tag/climate-change)
-    * [Russia's invasion of Ukraine](https://www.euronews.com/tag/russia-ukraine-invasion)
     
     * * *
     
     Latest stories
     
-    [![French Prime minister Michel Barnier used the controversial Article 49,3 to force the adoption of the 2025 social security budget plan](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "French Prime minister Michel Barnier used the controversial Article 49,3 to force the adoption of the 2025 social security budget plan")
+    [![Euronext Amsterdam premises](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Euronext Amsterdam premises")
     
-    ![French Prime minister Michel Barnier used the controversial Article 49,3 to force the adoption of the 2025 social security budget plan](https://static.euronews.com/articles/stories/08/88/58/52/368x207_cmsv2_a2bf359d-f8a0-5399-9469-276870f2931a-8885852.jpg "French Prime minister Michel Barnier used the controversial Article 49,3 to force the adoption of the 2025 social security budget plan")](https://www.euronews.com/my-europe/2024/12/02/french-government-faces-collapse-after-pm-circumvents-parliament-over-budget-bill)
+    ![Euronext Amsterdam premises](https://static.euronews.com/articles/stories/08/88/95/70/368x207_cmsv2_4b10c426-f16e-57ac-80b0-beb0baa23bdb-8889570.jpg "Euronext Amsterdam premises")](https://www.euronews.com/business/2024/12/04/pershing-square-holdings-to-delist-from-amsterdam-after-football-riots)
+    
+    Now playing Next
+    
+    [Business](https://www.euronews.com/business/business)
+    
+    ### [Pershing Square Holdings to delist from Amsterdam after football riots](https://www.euronews.com/business/2024/12/04/pershing-square-holdings-to-delist-from-amsterdam-after-football-riots)
+    
+    [![Protesters stage a rally to demand South Korean President Yoon Suk Yeol to step down in front of the National Assembly in Seoul, Wed, Dec. 4, 2024. The signs read "Punish."](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Protesters stage a rally to demand South Korean President Yoon Suk Yeol to step down in front of the National Assembly in Seoul, Wed, Dec. 4, 2024. The signs read "Punish."")
+    
+    ![Protesters stage a rally to demand South Korean President Yoon Suk Yeol to step down in front of the National Assembly in Seoul, Wed, Dec. 4, 2024. The signs read "Punish."](https://static.euronews.com/articles/stories/08/88/92/08/368x207_cmsv2_06f1a682-3ba8-5ae7-b40d-af982caa7795-8889208.jpg "Protesters stage a rally to demand South Korean President Yoon Suk Yeol to step down in front of the National Assembly in Seoul, Wed, Dec. 4, 2024. The signs read "Punish."")](https://www.euronews.com/2024/12/04/south-korea-martial-law-why-it-happened-and-what-comes-next)
+    
+    Now playing Next
+    
+    [South Korea](https://www.euronews.com/news/asia/south-korea)
+    
+    ### [South Korea martial law: Why it happened and what comes next](https://www.euronews.com/2024/12/04/south-korea-martial-law-why-it-happened-and-what-comes-next)
+    
+    [![Iain Ward (@thekingofchemo) Kyra-Mae Turner (@kyramaeturner6), Manny Wallace (@big.manny1)](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Iain Ward (@thekingofchemo) Kyra-Mae Turner (@kyramaeturner6), Manny Wallace (@big.manny1)")
+    
+    ![Iain Ward (@thekingofchemo) Kyra-Mae Turner (@kyramaeturner6), Manny Wallace (@big.manny1)](https://static.euronews.com/articles/stories/08/88/99/06/368x207_cmsv2_c7f27231-c560-5616-ab05-f3b756b112be-8889906.jpg "Iain Ward (@thekingofchemo) Kyra-Mae Turner (@kyramaeturner6), Manny Wallace (@big.manny1)")](https://www.euronews.com/culture/2024/12/04/educators-popstars-and-a-terminally-ill-cancer-patient-among-winners-of-tiktok-awards)
+    
+    Now playing Next
+    
+    [Culture news](https://www.euronews.com/culture/culture-news)
+    
+    ### [Who won the first UK & Ireland TikTok Awards?](https://www.euronews.com/culture/2024/12/04/educators-popstars-and-a-terminally-ill-cancer-patient-among-winners-of-tiktok-awards)
+    
+    [![People look over timber, some of which came from the Omo Forest Reserve, to be sold at a market in Ijebu-Ode, Nigeria, on Tuesday, Aug. 1, 2023](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "People look over timber, some of which came from the Omo Forest Reserve, to be sold at a market in Ijebu-Ode, Nigeria, on Tuesday, Aug. 1, 2023")
+    
+    ![People look over timber, some of which came from the Omo Forest Reserve, to be sold at a market in Ijebu-Ode, Nigeria, on Tuesday, Aug. 1, 2023](https://static.euronews.com/articles/stories/08/88/97/92/368x207_cmsv2_a15205ce-e053-5d5c-8988-4160f6db6a67-8889792.jpg "People look over timber, some of which came from the Omo Forest Reserve, to be sold at a market in Ijebu-Ode, Nigeria, on Tuesday, Aug. 1, 2023")](https://www.euronews.com/my-europe/2024/12/04/eu-anti-deforestation-law-delay-centre-right-cries-victory-ngos-cry-foul)
     
     Now playing Next
     
     [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
     
-    ### [French government faces collapse after PM pushes through budget bill](https://www.euronews.com/my-europe/2024/12/02/french-government-faces-collapse-after-pm-circumvents-parliament-over-budget-bill)
-    
-    [![Georgia has been rocked by four consecutive nights of protests.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Georgia has been rocked by four consecutive nights of protests.")
-    
-    ![Georgia has been rocked by four consecutive nights of protests.](https://static.euronews.com/articles/stories/08/88/47/68/368x207_cmsv2_1ddbf13d-d61c-5d64-933a-85f93a9c0055-8884768.jpg "Georgia has been rocked by four consecutive nights of protests.")](https://www.euronews.com/my-europe/2024/12/02/baltic-states-slap-sanctions-on-georgian-officials-will-the-eu-follow-suit)
-    
-    Now playing Next
-    
-    [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
-    
-    ### [Baltic state slap sanctions on Georgian officials. Will the EU follow?](https://www.euronews.com/my-europe/2024/12/02/baltic-states-slap-sanctions-on-georgian-officials-will-the-eu-follow-suit)
-    
-    [![Lorem](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Lorem")
-    
-    ![Lorem](https://static.euronews.com/articles/stories/08/88/52/82/368x207_cmsv2_c7f5a25f-1f30-5c10-84fa-1c2ec50ff52a-8885282.jpg "Lorem")](https://www.euronews.com/my-europe/2024/12/02/revealed-the-first-strategic-and-policy-initiatives-of-the-new-commission)
-    
-    Now playing Next
-    
-    [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
-    
-    ### [Revealed: The new Commission's first strategic, policy initiatives](https://www.euronews.com/my-europe/2024/12/02/revealed-the-first-strategic-and-policy-initiatives-of-the-new-commission)
-    
-    [![A woman exercises in Lille, France, in April 2020.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "A woman exercises in Lille, France, in April 2020.")
-    
-    ![A woman exercises in Lille, France, in April 2020.](https://static.euronews.com/articles/stories/08/88/58/84/368x207_cmsv2_79ea9e2e-e548-5cf4-a753-f2adde4f9eef-8885884.jpg "A woman exercises in Lille, France, in April 2020.")](https://www.euronews.com/health/2024/12/02/average-adult-could-live-5-extra-years-with-more-exercise-study-shows)
-    
-    Now playing Next
-    
-    [Health news](https://www.euronews.com/health/health-news)
-    
-    ### [Average adult could live 5 extra years with more exercise](https://www.euronews.com/health/2024/12/02/average-adult-could-live-5-extra-years-with-more-exercise-study-shows)
+    ### [Centre-right cries victory, NGOs cry foul over deforestion law delay](https://www.euronews.com/my-europe/2024/12/04/eu-anti-deforestation-law-delay-centre-right-cries-victory-ngos-cry-foul)
     
 * [Europe](https://www.euronews.com/my-europe)
     
@@ -360,62 +360,62 @@ Close menu sidebar
 
 Trending
 
-* [Protests](https://www.euronews.com/tag/protestas)
 * [EU Policy](https://www.euronews.com/tag/eu-policy)
-* [Spain](https://www.euronews.com/tag/spain)
+* [European Commission](https://www.euronews.com/tag/eu-commission)
+* [Israel Hamas war](https://www.euronews.com/tag/israel-hamas-war)
+* [United Kingdom](https://www.euronews.com/tag/united-kingdom)
+* [Italy](https://www.euronews.com/tag/italy)
 * [France](https://www.euronews.com/tag/france)
-* [climate change](https://www.euronews.com/tag/climate-change)
-* [Russia's invasion of Ukraine](https://www.euronews.com/tag/russia-ukraine-invasion)
 
 * * *
 
 Latest stories
 
-[![French Prime minister Michel Barnier used the controversial Article 49,3 to force the adoption of the 2025 social security budget plan](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "French Prime minister Michel Barnier used the controversial Article 49,3 to force the adoption of the 2025 social security budget plan")
+[![Euronext Amsterdam premises](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Euronext Amsterdam premises")
 
-![French Prime minister Michel Barnier used the controversial Article 49,3 to force the adoption of the 2025 social security budget plan](https://static.euronews.com/articles/stories/08/88/58/52/368x207_cmsv2_a2bf359d-f8a0-5399-9469-276870f2931a-8885852.jpg "French Prime minister Michel Barnier used the controversial Article 49,3 to force the adoption of the 2025 social security budget plan")](https://www.euronews.com/my-europe/2024/12/02/french-government-faces-collapse-after-pm-circumvents-parliament-over-budget-bill)
+![Euronext Amsterdam premises](https://static.euronews.com/articles/stories/08/88/95/70/368x207_cmsv2_4b10c426-f16e-57ac-80b0-beb0baa23bdb-8889570.jpg "Euronext Amsterdam premises")](https://www.euronews.com/business/2024/12/04/pershing-square-holdings-to-delist-from-amsterdam-after-football-riots)
+
+Now playing Next
+
+[Business](https://www.euronews.com/business/business)
+
+### [Pershing Square Holdings to delist from Amsterdam after football riots](https://www.euronews.com/business/2024/12/04/pershing-square-holdings-to-delist-from-amsterdam-after-football-riots)
+
+* * *
+
+[![Protesters stage a rally to demand South Korean President Yoon Suk Yeol to step down in front of the National Assembly in Seoul, Wed, Dec. 4, 2024. The signs read "Punish."](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Protesters stage a rally to demand South Korean President Yoon Suk Yeol to step down in front of the National Assembly in Seoul, Wed, Dec. 4, 2024. The signs read "Punish."")
+
+![Protesters stage a rally to demand South Korean President Yoon Suk Yeol to step down in front of the National Assembly in Seoul, Wed, Dec. 4, 2024. The signs read "Punish."](https://static.euronews.com/articles/stories/08/88/92/08/368x207_cmsv2_06f1a682-3ba8-5ae7-b40d-af982caa7795-8889208.jpg "Protesters stage a rally to demand South Korean President Yoon Suk Yeol to step down in front of the National Assembly in Seoul, Wed, Dec. 4, 2024. The signs read "Punish."")](https://www.euronews.com/2024/12/04/south-korea-martial-law-why-it-happened-and-what-comes-next)
+
+Now playing Next
+
+[South Korea](https://www.euronews.com/news/asia/south-korea)
+
+### [South Korea martial law: Why it happened and what comes next](https://www.euronews.com/2024/12/04/south-korea-martial-law-why-it-happened-and-what-comes-next)
+
+* * *
+
+[![Iain Ward (@thekingofchemo) Kyra-Mae Turner (@kyramaeturner6), Manny Wallace (@big.manny1)](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Iain Ward (@thekingofchemo) Kyra-Mae Turner (@kyramaeturner6), Manny Wallace (@big.manny1)")
+
+![Iain Ward (@thekingofchemo) Kyra-Mae Turner (@kyramaeturner6), Manny Wallace (@big.manny1)](https://static.euronews.com/articles/stories/08/88/99/06/368x207_cmsv2_c7f27231-c560-5616-ab05-f3b756b112be-8889906.jpg "Iain Ward (@thekingofchemo) Kyra-Mae Turner (@kyramaeturner6), Manny Wallace (@big.manny1)")](https://www.euronews.com/culture/2024/12/04/educators-popstars-and-a-terminally-ill-cancer-patient-among-winners-of-tiktok-awards)
+
+Now playing Next
+
+[Culture news](https://www.euronews.com/culture/culture-news)
+
+### [Who won the first UK & Ireland TikTok Awards?](https://www.euronews.com/culture/2024/12/04/educators-popstars-and-a-terminally-ill-cancer-patient-among-winners-of-tiktok-awards)
+
+* * *
+
+[![People look over timber, some of which came from the Omo Forest Reserve, to be sold at a market in Ijebu-Ode, Nigeria, on Tuesday, Aug. 1, 2023](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "People look over timber, some of which came from the Omo Forest Reserve, to be sold at a market in Ijebu-Ode, Nigeria, on Tuesday, Aug. 1, 2023")
+
+![People look over timber, some of which came from the Omo Forest Reserve, to be sold at a market in Ijebu-Ode, Nigeria, on Tuesday, Aug. 1, 2023](https://static.euronews.com/articles/stories/08/88/97/92/368x207_cmsv2_a15205ce-e053-5d5c-8988-4160f6db6a67-8889792.jpg "People look over timber, some of which came from the Omo Forest Reserve, to be sold at a market in Ijebu-Ode, Nigeria, on Tuesday, Aug. 1, 2023")](https://www.euronews.com/my-europe/2024/12/04/eu-anti-deforestation-law-delay-centre-right-cries-victory-ngos-cry-foul)
 
 Now playing Next
 
 [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
 
-### [French government faces collapse after PM pushes through budget bill](https://www.euronews.com/my-europe/2024/12/02/french-government-faces-collapse-after-pm-circumvents-parliament-over-budget-bill)
-
-* * *
-
-[![Georgia has been rocked by four consecutive nights of protests.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Georgia has been rocked by four consecutive nights of protests.")
-
-![Georgia has been rocked by four consecutive nights of protests.](https://static.euronews.com/articles/stories/08/88/47/68/368x207_cmsv2_1ddbf13d-d61c-5d64-933a-85f93a9c0055-8884768.jpg "Georgia has been rocked by four consecutive nights of protests.")](https://www.euronews.com/my-europe/2024/12/02/baltic-states-slap-sanctions-on-georgian-officials-will-the-eu-follow-suit)
-
-Now playing Next
-
-[Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
-
-### [Baltic state slap sanctions on Georgian officials. Will the EU follow?](https://www.euronews.com/my-europe/2024/12/02/baltic-states-slap-sanctions-on-georgian-officials-will-the-eu-follow-suit)
-
-* * *
-
-[![Lorem](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Lorem")
-
-![Lorem](https://static.euronews.com/articles/stories/08/88/52/82/368x207_cmsv2_c7f5a25f-1f30-5c10-84fa-1c2ec50ff52a-8885282.jpg "Lorem")](https://www.euronews.com/my-europe/2024/12/02/revealed-the-first-strategic-and-policy-initiatives-of-the-new-commission)
-
-Now playing Next
-
-[Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
-
-### [Revealed: The new Commission's first strategic, policy initiatives](https://www.euronews.com/my-europe/2024/12/02/revealed-the-first-strategic-and-policy-initiatives-of-the-new-commission)
-
-* * *
-
-[![A woman exercises in Lille, France, in April 2020.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "A woman exercises in Lille, France, in April 2020.")
-
-![A woman exercises in Lille, France, in April 2020.](https://static.euronews.com/articles/stories/08/88/58/84/368x207_cmsv2_79ea9e2e-e548-5cf4-a753-f2adde4f9eef-8885884.jpg "A woman exercises in Lille, France, in April 2020.")](https://www.euronews.com/health/2024/12/02/average-adult-could-live-5-extra-years-with-more-exercise-study-shows)
-
-Now playing Next
-
-[Health news](https://www.euronews.com/health/health-news)
-
-### [Average adult could live 5 extra years with more exercise](https://www.euronews.com/health/2024/12/02/average-adult-could-live-5-extra-years-with-more-exercise-study-shows)
+### [Centre-right cries victory, NGOs cry foul over deforestion law delay](https://www.euronews.com/my-europe/2024/12/04/eu-anti-deforestation-law-delay-centre-right-cries-victory-ngos-cry-foul)
 
 [Europe](https://www.euronews.com/my-europe)
 
