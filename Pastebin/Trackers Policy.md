@@ -44,35 +44,35 @@ If you are interested in turning on your browser’s privacy and Do Not Track se
 
 [Public Pastes](https://pastebin.com/archive)
 
-* [⭐ get any gift card for FREE⭐ DP](https://pastebin.com/nDb7vMQx)
+* [Amazon Gift cards LEAKED](https://pastebin.com/mza0gkTx)
     
-    JavaScript | 3 sec ago | 0.18 KB
+    JavaScript | 2 sec ago | 0.09 KB
     
-* [Chaturbate Accounts with Tokens](https://pastebin.com/Y3ftFiT3)
+* [Amazon Gift cards LEAKED](https://pastebin.com/M4Ezjp3P)
     
     JavaScript | 4 sec ago | 0.09 KB
     
-* [Chaturbate Accounts with Tokens](https://pastebin.com/vMXKz6MJ)
+* [Leaked by Zak](https://pastebin.com/MexETcNm)
     
-    JavaScript | 6 sec ago | 0.09 KB
+    JavaScript | 5 sec ago | 0.09 KB
     
-* [⭐️ EARN $500 INSTANTLY⭐ B1](https://pastebin.com/9RbMWfwK)
+* [⭐ FREE giftcards method BT](https://pastebin.com/3atrMpgS)
     
     JavaScript | 6 sec ago | 0.18 KB
     
-* [NETFLIX UHD ACCOUNTS](https://pastebin.com/egL2U4G3)
+* [Leaked by Zak](https://pastebin.com/vbEPzUZB)
+    
+    JavaScript | 7 sec ago | 0.09 KB
+    
+* [NETFLIX UHD ACCOUNTS](https://pastebin.com/Sqz24K9U)
+    
+    JavaScript | 7 sec ago | 0.09 KB
+    
+* [BTC ACCOUNTS HACKED](https://pastebin.com/WinTxBwz)
     
     JavaScript | 8 sec ago | 0.09 KB
     
-* [⭐ FREE giftcards method⭐ N8](https://pastebin.com/hK1UENEy)
-    
-    JavaScript | 9 sec ago | 0.18 KB
-    
-* [⭐️ EARN $500 INSTANTLY⭐ EA](https://pastebin.com/dyeD7zXt)
-    
-    JavaScript | 9 sec ago | 0.18 KB
-    
-* [NETFLIX UHD ACCOUNTS](https://pastebin.com/YSbmSBe2)
+* [BTC ACCOUNTS HACKED](https://pastebin.com/Fq7p6dRi)
     
     JavaScript | 9 sec ago | 0.09 KB
     
