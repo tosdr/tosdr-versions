@@ -1,26 +1,26 @@
-[![hCaptcha logo (horizontal)](/hosted-assets/3u1Osx9BvMjaX2uJm6BAW5Eu6dkGJFSqim7ePVKm0MlFWo8B7G0Q_2RwJY69B6W0Y10d746gjhOrv-iPORfWpwai76VxvsuU_VFtgEAGqDQzI2D3Vwx3h8FW1Q7HDL0-R893kWgvA6YpL1q2Dryw6ZZdREuixR8C6HZe0eiId7YAAAAAAAAAAAAAAAA/64da82f6bf67de1b12789030/64da82f6bf67de1b127890b5_hcaptcha-logo-landscape.svg)](https://www.hcaptcha.com/)
+[![hCaptcha logo (horizontal)](fonts/64da82f6bf67de1b127890b5_hcaptcha-logo-landscape.svg)](https://www.hcaptcha.com/index.html)
 
-![close menu](/hosted-assets/3u1Osx9BvMjaX2uJm6BAW5Eu6dkGJFSqim7ePVKm0MlFWo8B7G0Q_2RwJY69B6W0Y10d746gjhOrv-iPORfU8A7y76Ui75uWqAE52kNQrD0_I2SkVwd4icJHmw_FTr98EpQqhScxCbL-4qVhokQF_scYXtSu5KtMAAAAAAAAAAAAAAAA/64da82f6bf67de1b12789030/64f60bf617f515e82d3150ff_close-icon-24px.png)![menu button](/hosted-assets/3u1Osx9BvMjaX2uJm6BAW5Eu6dkGJFSqim7ePVKm0MlFWo8B7G0Q_2RwJY69B6W0Y10d746gjhOrv-iPORfU81ig7fFx6s2VrQdp0RAB_Wo7cGD3VwlxiMQMxRDBmu5W0NERWIyu0ZtXybH8lgAAAAAAAAAAAAAAAA/64da82f6bf67de1b12789030/64f5f0dbb2064353a5bf1cb5_menu.svg)
+![close menu](images/64f60bf617f515e82d3150ff_close-icon-24px.png)![menu button](fonts/64f5f0dbb2064353a5bf1cb5_menu.svg)
 
-[Plans](https://www.hcaptcha.com/pricing)[Pro](https://www.hcaptcha.com/pro)[Enterprise](#)[Docs](https://docs.hcaptcha.com/)[Blog](https://www.hcaptcha.com/blog)
+[Plans](https://www.hcaptcha.com/pricing.html)[Pro](https://www.hcaptcha.com/pro.html)[Enterprise](#)[Docs](https://docs.hcaptcha.com/)[Blog](https://www.hcaptcha.com/blog.html)
 
-[Sign Up](https://www.hcaptcha.com/pricing)[Log In](https://dashboard.hcaptcha.com/login)
+[Sign Up](https://www.hcaptcha.com/pricing.html)[Log In](https://dashboard.hcaptcha.com/login)
 
 From the blog:
 
 [Our Position on AI Regulation →](https://www.hcaptcha.com/post/our-position-on-ai-regulation)
 
-[Switch to English](#)[Accessibility](https://www.hcaptcha.com/accessibility)
+[Switch to English](#)[Accessibility](https://www.hcaptcha.com/accessibility.html)
 
-[](https://www.hcaptcha.com/)
+[](https://www.hcaptcha.com/index.html)
 
-[Plans](https://www.hcaptcha.com/plans)[Pro](https://www.hcaptcha.com/pro)[Enterprise](https://www.hcaptcha.com/#enterprise-features)[Docs](https://docs.hcaptcha.com/)[Blog](https://www.hcaptcha.com/blog)
+[Plans](https://www.hcaptcha.com/plans.html)[Pro](https://www.hcaptcha.com/pro.html)[Enterprise](https://www.hcaptcha.com/index.html#enterprise-features)[Docs](https://docs.hcaptcha.com/)[Blog](https://www.hcaptcha.com/blog.html)
 
-[Contact Sales](https://www.hcaptcha.com/start-a-pilot)
+[Contact Sales](https://www.hcaptcha.com/start-a-pilot.html)
 
-[Sign Up](https://www.hcaptcha.com/pricing)[Log In](https://dashboard.hcaptcha.com/login)
+[Sign Up](https://www.hcaptcha.com/pricing.html)[Log In](https://dashboard.hcaptcha.com/login)
 
-[DE](https://cdn.prod.website-files.com/64da82f6bf67de1b12789030/64da82f6bf67de1b12789215_IMI-Terms-04.13.2021%20DE.docx) - [ES](https://cdn.prod.website-files.com/64da82f6bf67de1b12789030/64da82f6bf67de1b12789212_IMI-Terms-04.13.2021%20ES.docx) - [FR](https://cdn.prod.website-files.com/64da82f6bf67de1b12789030/64da82f6bf67de1b12789221_IMI-Terms-04.13.2021%20FR.docx) - [PT](https://cdn.prod.website-files.com/64da82f6bf67de1b12789030/64da82f6bf67de1b12789216_IMI-Privacy-04.13.2021%20pt.docx) - [PT (BR)](https://cdn.prod.website-files.com/64da82f6bf67de1b12789030/64da82f6bf67de1b1278921d_IMI-Privacy-04.13.2021%20pt-br.docx)
+[DE](https://www.hcaptcha.com/doc/64da82f6bf67de1b12789215_IMI-Terms-04.13.2021%20DE.docx) - [ES](https://www.hcaptcha.com/doc/64da82f6bf67de1b12789212_IMI-Terms-04.13.2021%20ES.docx) - [FR](https://www.hcaptcha.com/doc/64da82f6bf67de1b12789221_IMI-Terms-04.13.2021%20FR.docx) - [PT](https://www.hcaptcha.com/doc/64da82f6bf67de1b12789216_IMI-Privacy-04.13.2021%20pt.docx) - [PT (BR)](https://www.hcaptcha.com/doc/64da82f6bf67de1b1278921d_IMI-Privacy-04.13.2021%20pt-br.docx)
 
 Master Terms of Service
 =======================
@@ -149,7 +149,7 @@ If, for any reason, the Requester does not accept performance of a task you comp
 
 14\. Contributor Qualifications and Skills
 
-By performing tasks, you may accrue qualifications and skills, which we will grant in our discretion. We reserve the right to create, edit, or revoke your qualifications and skills at any time, for any reason or no reason at all. Because we do not discriminate on the basis of national origin, race, color, gender, sexual orientation, or any other class protected by law, you will have the same opportunity as any other Contributor to achieve access to tasks as your qualifications and skills accumulate. As a Contributor, if you believe that problematic test questions have affected your qualifications, skills, or rewards, you may provide well-supported contentions describing of problematic test questions via the task interface or via a ticket in our support system, for example via email at support@hcaptcha.com.
+By performing tasks, you may accrue qualifications and skills, which we will grant in our discretion. We reserve the right to create, edit, or revoke your qualifications and skills at any time, for any reason or no reason at all. Because we do not discriminate on the basis of national origin, race, color, gender, sexual orientation, or any other class protected by law, you will have the same opportunity as any other Contributor to achieve access to tasks as your qualifications and skills accumulate. As a Contributor, if you believe that problematic test questions have affected your qualifications, skills, or rewards, you may provide well-supported contentions describing of problematic test questions via the task interface or via a ticket in our support system, for example via email at [\[email protected\]](https://www.hcaptcha.com/cdn-cgi/l/email-protection).
 
 15\. Our Use of Information
 
@@ -253,7 +253,7 @@ Assignability. You may not assign these Terms of Service without our prior writt
 
 Severability. If any provision of these Terms of Service is found invalid or unenforceable for any reason, it will not affect the validity and enforceability of any remaining provisions.
 
-Notice.  All notices related to these Terms of Service will be sent by e-mail or posted on our website. You must send notices to us at support@imachines.com. E-mail notices are deemed written notices for all purposes for which written notices may be required. E-mail notices are deemed received the business day after transmission of properly addressed to the intended recipient.
+Notice.  All notices related to these Terms of Service will be sent by e-mail or posted on our website. You must send notices to us at [\[email protected\]](https://www.hcaptcha.com/cdn-cgi/l/email-protection). E-mail notices are deemed written notices for all purposes for which written notices may be required. E-mail notices are deemed received the business day after transmission of properly addressed to the intended recipient.
 
 Amendments.  No modification or amendment to these Terms of Service by anyone other than IMI shall be binding upon IMI unless in a written instrument signed by a duly authorized representative of IMI.
 
@@ -341,22 +341,22 @@ You may not assign, transfer, or delegate these Terms of Service or your rights 
 
 Translations of these Terms of Service are provided on a best-effort basis. In the event of any substantive difference between the English language Terms of Service and a translation thereof, the English language Terms of Service shall be construed as authoritative.
 
-Please contact us at [support@hcaptcha.com](mailto:support@hcaptcha.com) if you have any questions regarding these Terms of Service.
+Please contact us at [\[email protected\]](https://www.hcaptcha.com/cdn-cgi/l/email-protection) if you have any questions regarding these Terms of Service.
 
 Business Continuity Planning Statement
 --------------------------------------
 
 Intuition Machines, Inc has developed a Business Continuity Plan on how we will respond to events that significantly disrupt our hCaptcha business. Since the timing and impact of disasters and disruptions is unpredictable, we will have to be flexible in responding to actual events as they occur. With that in mind, we are providing you with this information on our business continuity plan.
 
-‍**Contacting Us** – If after a significant business disruption you cannot contact us as you usually do at support@hcaptcha.com, you should go to our website at hcaptcha.com or hcaptchastatus.com.
+‍**Contacting Us** – If after a significant business disruption you cannot contact us as you usually do at [\[email protected\]](https://www.hcaptcha.com/cdn-cgi/l/email-protection), you should go to our website at hcaptcha.com or hcaptchastatus.com.
 
 ‍**Our Business Continuity Plan** – We plan to quickly recover and resume business operations after a significant business disruption and respond by safeguarding our employees and property, making a financial and operational assessment, protecting the firm’s books and records, and allowing our customers and their end users to transact online. In short, our business continuity plan is designed to permit our firm to resume operations as quickly as possible, given the scope and severity of the significant business disruption.  Our business continuity plan addresses: data backup and recovery; all mission critical systems; financial and operational assessments; alternative communications with customers, employees, and oversight bodies; alternate physical location of employees; critical supplier and customer impact; regulatory reporting; and giving our customers prompt notice if we are unable to continue our business. Our core supplier pool backs up our important records in a geographically separate area. While every emergency situation poses unique problems based on external factors, such as time of day and the severity of the disruption, we have been advised by this supplier pool that their objective is to restore their own operations and be able to resume services rapidly. Although we have worked to reduce risk by using a diverse set of suppliers, your services could be modified or interrupted during this period.**‍**
 
 **Varying Disruptions** – Significant business disruptions can vary in their scope, such as only our firm, a single building housing our firm, the neighborhood where our firm is located, the city where we are located, or the whole region. Within each of these areas, the severity of the disruption can also vary from minimal to severe. In a disruption to our firm, our business district, city, or region or a building housing our firm, we will transfer our operations to a local site when needed and expect no material disruption to business operations. In either situation, we plan to continue in business, transfer operations to alternative suppliers if necessary, and notify you through our website at hcaptcha.com and our status page at hcaptchastatus.com as to how to contact us. If the significant business disruption is so severe that it prevents us from remaining in business, we will notify you expeditiously.
 
-‍**For more information** – If you have questions about our business continuity planning, you can contact us at support@hcaptcha.com.  
+‍**For more information** – If you have questions about our business continuity planning, you can contact us at [\[email protected\]](https://www.hcaptcha.com/cdn-cgi/l/email-protection).  
 
-[](https://www.hcaptcha.com/labeling)
+[](https://www.hcaptcha.com/labeling.html)
 
 [](https://twitter.com/hcaptcha)
 
@@ -366,17 +366,17 @@ Intuition Machines, Inc has developed a Business Continuity Plan on how we will 
 
 ##### Company
 
-[About](https://www.hcaptcha.com/about)[Jobs](https://apply.workable.com/imachines/)[Trademarks](https://www.hcaptcha.com/trademarks)[AI Ethics](https://www.hcaptcha.com/ai-ethics)[Press](https://www.hcaptcha.com/press-inquiries)[Compliance](https://www.hcaptcha.com/certifications)
+[About](https://www.hcaptcha.com/about.html)[Jobs](https://apply.workable.com/imachines/)[Trademarks](https://www.hcaptcha.com/trademarks.html)[AI Ethics](https://www.hcaptcha.com/ai-ethics.html)[Press](https://www.hcaptcha.com/press-inquiries.html)[Compliance](https://www.hcaptcha.com/certifications.html)
 
 ##### Resources
 
-[Status](https://www.hcaptchastatus.com/)[Documentation](https://docs.hcaptcha.com/)[Report a Bug](https://www.hcaptcha.com/reporting-bugs)[Accessibility](https://www.hcaptcha.com/accessibility)[Cyberattacks 101](https://www.hcaptcha.com/hcaptcha-resources-bots-101)[GDPR](https://www.hcaptcha.com/gdpr)
+[Status](https://www.hcaptchastatus.com/)[Documentation](https://docs.hcaptcha.com/)[Report a Bug](https://www.hcaptcha.com/reporting-bugs.html)[Accessibility](https://www.hcaptcha.com/accessibility.html)[Cyberattacks 101](https://www.hcaptcha.com/hcaptcha-resources-bots-101.html)[GDPR](https://www.hcaptcha.com/gdpr.html)
 
 ##### Contact
 
-[Support](https://www.hcaptcha.com/support-interstitial)[Contact Support](https://www.hcaptcha.com/contact-us)[Sales](#)[Contact Sales](https://www.hcaptcha.com/contact-us#contact-sales)
+[Support](https://www.hcaptcha.com/support-interstitial.html)[Contact Support](https://www.hcaptcha.com/contact-us.html)[Sales](#)[Contact Sales](https://www.hcaptcha.com/contact-us.html#contact-sales)
 
-[Terms](https://www.hcaptcha.com/terms)[Privacy](https://www.hcaptcha.com/privacy)[DMCA](https://www.hcaptcha.com/dmca)[Attribution](https://www.hcaptcha.com/attribution)
+[Terms](https://www.hcaptcha.com/terms.html)[Privacy](https://www.hcaptcha.com/privacy.html)[DMCA](https://www.hcaptcha.com/dmca.html)[Attribution](https://www.hcaptcha.com/attribution.html)
 
 hCaptcha is a registered trademark of Intuition Machines, Inc.
 
