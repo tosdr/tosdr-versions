@@ -76,9 +76,9 @@ Search
 
 Search
 
-#### Breaking News
+#### Exclusive
 
-[UnitedHealthcare CEO fatally shot outside of NYC Hilton hotel in possible targeted attack: sources](https://nypost.com/2024/12/04/us-news/ceo-of-unitedhealthcare-fatally-shot-outside-of-hilton-hotel-in-nyc-in-possible-targeted-attack-sources/)
+[Chilling video shows gunman executing UnitedHealthcare CEO at close range](https://nypost.com/2024/12/04/us-news/video-shows-gunman-executing-brian-thompson-at-close-range-as-unitedhealthcare-ceo-stumbles-away/)
 
 Privacy Notice Highlights
 =========================
