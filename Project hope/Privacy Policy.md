@@ -1,11 +1,5 @@
 [Skip to main content](#maincontent)
 
-URGENT ALERT
-
-Help children and families this Giving Tuesday
-
-[DONATE](https://secure.projecthope.org/site/SPageNavigator/FY24_12_Giving_Tuesday_Web_LO_12514.html "DONATE") Close
-
 [Donate](https://secure.projecthope.org/site/SPageNavigator/FY24_12_Giving_Tuesday_Web_LO_12514.html "Donate")
 
 [![Project Hope Logo](/wp-content/themes/projecthope/assets/images/logo.svg)](https://www.projecthope.org/)
@@ -301,10 +295,10 @@ Proud to be independently verified by:
 
 Close Donation Form
 
-Giving Tuesday Triple Match
----------------------------
+Giving Tuesday Triple Match Extension
+-------------------------------------
 
-Rush your Giving Tuesday gift to TRIPLE your support and bring urgent relief with lasting impact to children and families who need it most.
+There's still time to TRIPLE your support and bring urgent relief with lasting impact to children and families who need it most this Giving Tuesday.
 
 Donation type One Time  Monthly 
 
