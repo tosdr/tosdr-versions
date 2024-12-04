@@ -15,8 +15,6 @@
     * [AI Accent Localization Converts agents' accents in real-time to the customer's native accent for clearer communication.](https://krisp.ai/accent-localization/)
     * [AI Live Interpreter Provides affordable, instant, and reliable AI-powered real-time voice translation for call centers.](https://krisp.ai/ai-interpreter/)
     * [AI Agent Copilot Transcribes the call in real-time and generates AI summaries, allowing the agents to focus on the customer.](https://krisp.ai/ai-agent-copilot/)
-    * [Speech-to-Text API Securely converts the agent-customer calls into text for further on-premises processing.](https://krisp.ai/speech-to-text-call-center/)
-    * [Call Recording API Automatically integrates with all CX and voice platforms and allows you to record all customer calls.](https://krisp.ai/call-recorder/)
     
 * [Use Cases](javascript:void(0))
     
@@ -57,8 +55,6 @@ Get Krisp for free
     * [AI Accent Localization Converts agents' accents in real-time to the customer's native accent for clearer communication.](https://krisp.ai/accent-localization/)
     * [AI Live Interpreter Provides affordable, instant, and reliable AI-powered real-time voice translation for call centers.](https://krisp.ai/ai-interpreter/)
     * [AI Agent Copilot Transcribes the call in real-time and generates AI summaries, allowing the agents to focus on the customer.](https://krisp.ai/ai-agent-copilot/)
-    * [Speech-to-Text API Securely converts the agent-customer calls into text for further on-premises processing.](https://krisp.ai/speech-to-text-call-center/)
-    * [Call Recording API Automatically integrates with all CX and voice platforms and allows you to record all customer calls.](https://krisp.ai/call-recorder/)
     
 * [Use Cases](javascript:void(0))
     
@@ -388,8 +384,6 @@ Krisp Technologies, Inc. 
 * [AI Accent Localization](https://krisp.ai/accent-localization/)
 * [AI Live Interpreter](https://krisp.ai/ai-interpreter/)
 * [AI Agent Copilot](https://krisp.ai/ai-agent-copilot/)
-* [Speech-to-Text API](https://krisp.ai/speech-to-text-call-center/)
-* [Call Recording API](https://krisp.ai/call-recorder/)
 
 **Use Cases**
 
