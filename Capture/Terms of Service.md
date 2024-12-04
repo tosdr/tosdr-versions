@@ -1,6 +1,6 @@
 [Skip to content](#MainContent)
 
-[❄️❄️ Give the gift of memories this holiday season! Ship your order by 12/3 for delivery by 12/24! ❄️❄️](https://www.capture.com/pages/gift-ideas)
+[❄️❄️ THE GIFT OF MEMORIES: Ship your order by 12/9 to get your digital download in time for the holidays! ❄️❄️](https://www.capture.com/pages/gift-ideas)
 
      
 
@@ -493,7 +493,7 @@ Follow Us
 
 * [Facebook](https://www.facebook.com/capturetimecapsule)
 * [Pinterest](https://www.pinterest.com/Capture_Preserve_Share/)
-*  [![](//www.capture.com/cdn/shop/t/59/assets/instagram-logo.png?v=178799173295624521771732302838) Instagram](https://www.instagram.com/capture_usa_/)
+*  [![](//www.capture.com/cdn/shop/t/19/assets/instagram-logo.png?v=178799173295624521771682038300) Instagram](https://www.instagram.com/capture_usa_/)
 
 Still Have Questions?Our Memory Consultants are here to help. [Support](https://help.capture.com/hc/en-us)
 ----------------------------------------------------------------------------------------------------------
