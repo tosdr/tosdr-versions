@@ -6,8 +6,6 @@ New color drops! Exclusive and limited-edition colors. [Shop](https://www.bose.c
 
 My Bose Members, get a Holiday Bonus Card for future orders with every product purchase above $100. [Learn more](https://www.bose.com/holiday-bonus-card)
 
-A premium touch: Enjoy a complimentary gift box on select orders, only at Bose.com. [Shop](https://www.bose.com/c/holiday-sale)
-
 [Cancel](#)
 
 Back
