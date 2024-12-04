@@ -9,7 +9,7 @@
     * [Food](https://okwow.com/category/food/)
     * [Gift Cards](https://okwow.com/category/gift-cards/)
     * [Health](https://okwow.com/category/health/)
-    * [Household](https://okwow.com/category/houshold/)
+    * [Household](https://okwow.com/category/household/)
     * [Jackpot](https://okwow.com/category/jackpot/)
     * [Kids](https://okwow.com/category/kids/)
     * [Outdoor](https://okwow.com/category/outdoor/)
