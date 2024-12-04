@@ -173,9 +173,9 @@ Changes to this Privacy Statement
 
 Foreman reserves the right to update this policy from time to time. Material changes will be posted to the [Announcements list](https://community.theforeman.org/c/release-announcements) and posted to the front page of the [website](https://theforeman.org/). This policy was last updated on 10th May 2024.
 
-Foreman 3.12.1 has been released! [Follow the quick start to install it.](https://theforeman.org/manuals/3.12/quickstart_guide.html)
+Foreman 3.13.0 has been released! [Follow the quick start to install it.](https://theforeman.org/manuals/3.13/quickstart_guide.html)
 
-Foreman 3.11.5 has been released! [Follow the quick start to install it.](https://theforeman.org/manuals/3.11/quickstart_guide.html)
+Foreman 3.12.1 has been released! [Follow the quick start to install it.](https://theforeman.org/manuals/3.12/quickstart_guide.html)
 
 View our [Privacy Policy](https://theforeman.org/privacy.html)
 
