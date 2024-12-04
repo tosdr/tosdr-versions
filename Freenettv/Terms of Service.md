@@ -15,7 +15,7 @@ Menü
     
     ### Zum Warenkorb hinzugefügt
     
-    [Zur Kasse gehen](https://www.freenet.tv/warenkorb "Gehe zur Kasse")Schließen
+    [Zur Kasse gehen](https://www.freenet.tv/warenkorb "Gehe zur Kasse")
     
 
 Meldung schließen
