@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ We must use time creatively, in the knowledge that the time is always ripe to do right”
+“ It is the fate of manufactured goods to slowly and gently depreciate as they get old... but it is the fate of operating systems to become free”
 
-[Martin Luther King Jr.](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.)
+[Neal Stephenson](http://www.nealstephenson.com/)
 
 [](https://www.adafruit.com/about)
 
