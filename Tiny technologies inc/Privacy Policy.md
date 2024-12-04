@@ -100,7 +100,7 @@ Discover why industry leaders and scaling start-ups love, use and trust Tiny pro
 
 [Start trial](https://www.tiny.cloud/auth/signup/ "Start trial")
 
-[Contact Us](https://www.tiny.cloud/contact/)
+[Plans & Pricing](https://www.tiny.cloud/pricing/)[Contact Us](https://www.tiny.cloud/contact/)
 
 [Log In](https://www.tiny.cloud/auth/login/)[Start For Free](https://www.tiny.cloud/auth/signup/ "Start For Free")
 
@@ -206,13 +206,15 @@ Discover why industry leaders and scaling start-ups love, use and trust Tiny pro
 
 [Start trial](https://www.tiny.cloud/auth/signup/ "Start trial")
 
+[Plans & Pricing](https://www.tiny.cloud/pricing/)
+
 [Contact Us](https://www.tiny.cloud/contact/)
 
 [Log In](https://www.tiny.cloud/auth/login/)[Start For Free](https://www.tiny.cloud/auth/signup/ "Start For Free")
 
 * * *
 
-[Overview](https://www.tiny.cloud/legal/)[Privacy](https://www.tiny.cloud/legal/privacy/)[Terms](https://www.tiny.cloud/legal/terms/)[Cloud Services](https://www.tiny.cloud/legal/cloud-use-subscription-agreement/)[Research](https://www.tiny.cloud/legal/research-program-agreement/)[Attribution](https://www.tiny.cloud/legal/attribution-requirements/)[Enterprise](https://www.tiny.cloud/legal/tiny-self-hosted-enterprise-agreement/)[OEM & SaaS](https://www.tiny.cloud/legal/tiny-self-hosted-oem-saas-agreement/)[Setka](https://www.tiny.cloud/legal/setka/)[Plupload](https://www.tiny.cloud/legal/plupload/)
+[Overview](https://www.tiny.cloud/legal/)[Privacy](https://www.tiny.cloud/legal/privacy/)[Terms](https://www.tiny.cloud/legal/terms/)[Cloud Services](https://www.tiny.cloud/legal/cloud-use-subscription-agreement/)[Cloud Services Enterprise](https://www.tiny.cloud/legal/cloud-use-subscription-agreement-enterprise/)[Research](https://www.tiny.cloud/legal/research-program-agreement/)[Attribution](https://www.tiny.cloud/legal/attribution-requirements/)[Enterprise](https://www.tiny.cloud/legal/tiny-self-hosted-enterprise-agreement/)[OEM & SaaS](https://www.tiny.cloud/legal/tiny-self-hosted-oem-saas-agreement/)[Setka](https://www.tiny.cloud/legal/setka/)[Plupload](https://www.tiny.cloud/legal/plupload/)
 
 Privacy Policy
 ==============
