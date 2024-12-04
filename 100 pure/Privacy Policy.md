@@ -385,7 +385,7 @@ SOLD OUT
 
 Beauty Deal - Green Tea EGCG Concentrate Cream
 
-SELECT Buy for $20
+SOLD OUT Buy for $20
 
 ![](https://www.100percentpure.com/s/files/1/0648/1955/files/1FEGCGCC_Green_Tea_EGCG_Concentrate_Cream_Primary_1600x_2ab6d41d-43e8-4ff0-ba43-5061bdf0f562.webp?em-origin=cdn.shopify.com)
 
@@ -393,7 +393,7 @@ Beauty Deal - Green Tea EGCG Concentrate Cream
 
 Highly nutrient-rich moisturizer softens and fortifies skin. EGCG, the potent antioxidant from green tea, protects against environmental damage.
 
-SELECT
+SOLD OUT
 
 [![](https://www.100percentpure.com/s/files/1/0648/1955/files/1FEGCGS_Green_Tea_EGCG_Concentrate_Serum_Primary_1600x_fe136514-a7f4-4065-aeb6-36a89d899ef4.webp?em-origin=cdn.shopify.com)](#product-7491737714766)
 
