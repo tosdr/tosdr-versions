@@ -94,7 +94,7 @@ Learn more about our enterprise solution and get a demo from our sales team.](ht
 
 **Read our latest content**
 
-![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/674f60dcbf243f9d5c32db73_best-holiday-gifts-get-maine-lobster-meat-n-bone-grazy-goat-foods-spice-house1.png)
+![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/67506da06b6ea1b49ef6ef19_best-holiday-gifts-get-maine-lobster-meat-n-bone-grazy-goat-foods-spice-house3.png)
 
 ###### The Best Gifts for the Foodie in Your Life: Sweet Treats & Quality Meats
 
