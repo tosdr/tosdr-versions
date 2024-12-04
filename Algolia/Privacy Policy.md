@@ -1,4 +1,4 @@
-* [* Deutsch](https://www.algolia.com/de/policies/policyEntryMenu/privacy "Switch to ")[* English](#)[* français](https://www.algolia.com/fr/policies/policyEntryMenu/privacy "Switch to ")
+* [* Deutsch](https://www.algolia.com/de/policies/policyEntryMenu/privacy/ "Switch to ")[* English](#)[* français](https://www.algolia.com/fr/policies/policyEntryMenu/privacy/ "Switch to ")
     
 
 [News:
@@ -48,7 +48,7 @@ Menu
     ###### INTEGRATIONS
     
     *  [![](/files/live/sites/algolia-assets/files/nav/adobe.svg) Adobe Commerce](https://www.algolia.com/search-solutions/adobe-commerce-magento)
-    *  [![](/files/live/sites/algolia-assets/files/nav/adobe.svg) Adobe AEM](https://www.algolia.com/search-solutions/adobe-experience-manager)
+    *  [![](/files/live/sites/algolia-assets/files/nav/adobe.svg) Adobe AEM](https://www.algolia.com/search-solutions/adobe)
     *  [![](/files/live/sites/algolia-assets/files/nav/bigcommerce-icon_1.svg) BigCommerce](https://www.algolia.com/search-solutions/bigcommerce)
     *  [![](/files/live/sites/algolia-assets/files/nav/commercetools-symbol.svg) Commercetools](https://www.algolia.com/search-solutions/commercetools)
     *  [![](/files/live/sites/algolia-assets/files/nav/salesforce.svg) Salesforce CC](https://www.algolia.com/search-solutions/salesforce-commerce-cloud)
@@ -78,7 +78,7 @@ Menu
     ###### RESOURCES
     
     *  [![](/files/live/sites/algolia-assets/files/nav/integration_instructions_1.svg) Code Exchange](https://www.algolia.com/developers/code-exchange)
-    *  [![](/files/live/sites/algolia-assets/files/nav/terminal_1.svg) Engineering Blog](https://www.algolia.com/blog/engineering/)
+    *  [![](/files/live/sites/algolia-assets/files/nav/terminal_1.svg) Engineering Blog](https://www.algolia.com/blog/engineering)
     *  [![](/files/live/sites/algolia-assets/files/nav/group_1.svg) Discord](https://alg.li/discord)
     *  [![](/files/live/sites/algolia-assets/files/nav/event_note_1.svg) Webinars & Events](https://www.algolia.com/events)
     
@@ -101,7 +101,7 @@ Menu
     
     *  [![](/files/live/sites/algolia-assets/files/nav/school_FILL1_wght400_GRAD0_opsz48_1_1.svg) Algolia Academy](https://academy.algolia.com/trainings)
     *  [![](/files/live/sites/algolia-assets/files/nav/local_mall_1.svg) Merchandising Playbook](https://www.algolia.com/ecommerce-merchandising-playbook)
-    *  [![](/files/live/sites/algolia-assets/files/nav/flaky_1.svg) Ecommerce Search Audit](https://www.algolia.com/search-audit/)
+    *  [![](/files/live/sites/algolia-assets/files/nav/flaky_1.svg) Ecommerce Search Audit](https://www.algolia.com/search-audit)
     *  [![](/files/live/sites/algolia-assets/files/nav/event_note_1.svg) Events](https://www.algolia.com/events)
     
     ###### NEW
@@ -131,38 +131,28 @@ Quick Access
 
 ![](/files/live/sites/algolia-assets/files/icons/algolialogo.svg)
 
-Looking for our logo?
-
-We got you covered!
-
-[Brand guidelines](https://algolia.frontify.com/)
-
-[Download logo pack](https://www.algolia.com/algolia-logo-pack.zip)
-
 Privacy Policy
 ==============
 
-Relating to the use of Algolia's Website and Services.
+Relating to the use of Algolia's Website and Services. 
 
 Select Policy
 
-[Terms of Service](https://www.algolia.com/policies/terms)
+[Terms of Service](https://www.algolia.com/policies/policyEntryMenu/terms)
 
-[Service Level Agreement](https://www.algolia.com/policies/sla)
+[Service Level Agreement](https://www.algolia.com/policies/policyEntryMenu/sla)
 
-[Privacy Policy](https://www.algolia.com/policies/privacy)
+[Privacy Policy](https://www.algolia.com/policies/policyEntryMenu/privacy)
 
-[Support Policy](https://www.algolia.com/policies/support)
+[Support Policy](https://www.algolia.com/policies/policyEntryMenu/support)
 
-[Acceptable Use Policy](https://www.algolia.com/policies/acceptable-use)
+[Acceptable Use Policy](https://www.algolia.com/policies/policyEntryMenu/acceptable-use)
 
-[Legal Information](https://www.algolia.com/policies/legal)
+[Legal Information](https://www.algolia.com/policies/policyEntryMenu/legal)
 
-[Cookies 🍪](https://www.algolia.com/policies/cookies)
+[Cookies](https://www.algolia.com/policies/policyEntryMenu/cookies)
 
-[Infrastructure & Sub-Processors](https://www.algolia.com/policies/infrastructure-and-sub-processors)
-
-[Anti-Modern Slavery Statement](https://www.algolia.com/policies/anti-modern-slavery-statement)
+[Infrastructure & Sub-Processors](https://www.algolia.com/policies/policyEntryMenu/infrastructure-and-sub-processors)
 
 Effective Date: January 29, 2021
 
@@ -323,7 +313,7 @@ Information that we collect from you automatically may include the following:
 
 Algolia and our partners use cookies or similar technologies to analyze trends, administer our Websites and Services, track users' movements around our Websites and Services, and to gather demographic information about our user base as a whole. A cookie is a small piece of information that is placed on your device when you visit certain websites. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our Websites or Services.
 
-For more information on how Algolia uses cookies, refer to [https://www.algolia.com/policies/cookies/](https://www.algolia.com/policies/cookies?onetrustinfo=1).
+For more information on how Algolia uses cookies, refer to [https://www.algolia.com/policies/cookies/](https://www.algolia.com/policies/cookies?onetrustinfo=1).[\[ Open cookie settings \]](https://www.algolia.com/policies/privacy/#)
 
 For more information on third-party cookies, refer to Section 6 of this Privacy Policy.
 
@@ -534,12 +524,12 @@ If you have questions or concerns about this Privacy Policy, please contact Algo
 
 [![TRUSTe](https://privacy-policy.truste.com/privacy-seal/seal?rid=3af6b59c-c523-4ee0-8a77-e5a14039d1fa)](https://privacy.truste.com/privacy-seal/validation?rid=3af6b59c-c523-4ee0-8a77-e5a14039d1fa)
 
-### Previous versions:
+### Previous Versions:
 
-* [Version 1 (June 10, 2013)](https://algolia.vercel.app/policies/old/privacy-2013-06-10/)
-* [Version 2 (August 19, 2013)](https://algolia.vercel.app/policies/old/privacy-2013-08-19/)
-* [Version 3 (July 4, 2016)](https://algolia.vercel.app/policies/old/privacy-2016-07-04/)
-* [Version 4 (May 25, 2018)](https://algolia.vercel.app/policies/old/privacy-2018-05-25/)
+* [Version 1 (June 10, 2013)](https://www.algolia.com/policies/old/privacy-2013-06-10)
+* [Version 2 (August 19, 2013)](https://www.algolia.com/policies/old/privacy-2013-08-19)
+* [Version 3 (July 4, 2016)](https://www.algolia.com/policies/old/privacy-2016-07-04)
+* [Version 4 (May 25, 2018)](https://www.algolia.com/policies/old/privacy-2018-05-25)
 
 #### Solutions
 
@@ -551,7 +541,7 @@ If you have questions or concerns about this Privacy Policy, please contact Algo
 
 #### Developers
 
-[Developer Hub](https://www.algolia.com/developers)[Documentation](https://www.algolia.com/doc/)[Integrations](https://www.algolia.com/developers/integrations)[Engineering blog](https://www.algolia.com/blog/engineering/)[Discord community](https://alg.li/discord)[API status](https://status.algolia.com/)[DocSearch](https://docsearch.algolia.com/)[For Open Source](https://www.algolia.com/for-open-source)
+[Developer Hub](https://www.algolia.com/developers)[Documentation](https://www.algolia.com/doc/)[Integrations](https://www.algolia.com/developers/integrations)[Engineering blog](https://www.algolia.com/blog/engineering)[Discord community](https://alg.li/discord)[API status](https://status.algolia.com/)[DocSearch](https://docsearch.algolia.com/)[For Open Source](https://www.algolia.com/for-open-source)
 
 #### Live demos
 
@@ -559,7 +549,7 @@ If you have questions or concerns about this Privacy Policy, please contact Algo
 
 #### Integrations
 
-[Salesforce Commerce Cloud B2C](https://www.algolia.com/search-solutions/salesforce-commerce-cloud)[Shopify](https://www.algolia.com/search-solutions/shopify)[Adobe Commerce](https://www.algolia.com/search-solutions/adobe-commerce-magento)[Netlify](https://www.algolia.com/search-solutions/netlify/)[Commercetools](https://www.algolia.com/search-solutions/commercetools)[BigCommerce](https://www.algolia.com/search-solutions/bigcommerce)
+[Salesforce Commerce Cloud B2C](https://www.algolia.com/search-solutions/salesforce-commerce-cloud)[Shopify](https://www.algolia.com/search-solutions/shopify)[Adobe Commerce](https://www.algolia.com/search-solutions/adobe-commerce-magento)[Netlify](https://www.algolia.com/search-solutions/netlify)[Commercetools](https://www.algolia.com/search-solutions/commercetools)[BigCommerce](https://www.algolia.com/search-solutions/bigcommerce)
 
 #### Distributed & secure
 
@@ -583,7 +573,7 @@ If you have questions or concerns about this Privacy Policy, please contact Algo
 
 #### Developers
 
-[Developer Hub](https://www.algolia.com/developers)[Documentation](https://www.algolia.com/doc/)[Integrations](https://www.algolia.com/developers/integrations)[Engineering blog](https://www.algolia.com/blog/engineering/)[Discord community](https://alg.li/discord)[API status](https://status.algolia.com/)[DocSearch](https://docsearch.algolia.com/)[For Open Source](https://www.algolia.com/for-open-source)
+[Developer Hub](https://www.algolia.com/developers)[Documentation](https://www.algolia.com/doc/)[Integrations](https://www.algolia.com/developers/integrations)[Engineering blog](https://www.algolia.com/blog/engineering)[Discord community](https://alg.li/discord)[API status](https://status.algolia.com/)[DocSearch](https://docsearch.algolia.com/)[For Open Source](https://www.algolia.com/for-open-source)
 
 #### Live demos
 
@@ -603,7 +593,7 @@ If you have questions or concerns about this Privacy Policy, please contact Algo
 
 #### Integrations
 
-[Salesforce Commerce Cloud B2C](https://www.algolia.com/search-solutions/salesforce-commerce-cloud)[Shopify](https://www.algolia.com/search-solutions/shopify)[Adobe Commerce](https://www.algolia.com/search-solutions/adobe-commerce-magento)[Netlify](https://www.algolia.com/search-solutions/netlify/)[Commercetools](https://www.algolia.com/search-solutions/commercetools)[BigCommerce](https://www.algolia.com/search-solutions/bigcommerce)
+[Salesforce Commerce Cloud B2C](https://www.algolia.com/search-solutions/salesforce-commerce-cloud)[Shopify](https://www.algolia.com/search-solutions/shopify)[Adobe Commerce](https://www.algolia.com/search-solutions/adobe-commerce-magento)[Netlify](https://www.algolia.com/search-solutions/netlify)[Commercetools](https://www.algolia.com/search-solutions/commercetools)[BigCommerce](https://www.algolia.com/search-solutions/bigcommerce)
 
 #### Distributed & secure
 
@@ -627,6 +617,6 @@ Algolia mark white ©2024 Algolia - All rights reserved.
 
 * Cookie settings
 * [Trust Center](https://www.algolia.com/trust-center)
-* [Privacy Policy](https://www.algolia.com/policies/privacy)
-* [Terms of service](https://www.algolia.com/policies/terms)
-* [Acceptable Use Policy](https://www.algolia.com/policies/acceptable-use)
+* [Privacy Policy](https://www.algolia.com/policies/policyEntryMenu/privacy)
+* [Terms of service](https://www.algolia.com/policies/policyEntryMenu/terms)
+* [Acceptable Use Policy](https://www.algolia.com/policies/policyEntryMenu/acceptable-use)
