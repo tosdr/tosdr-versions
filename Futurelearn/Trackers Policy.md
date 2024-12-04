@@ -8,7 +8,7 @@ FutureLearn uses cookies to enhance your experience of the website. All but stri
 
 Dismiss
 
-**New offer! Get 20% off your first month of Unlimited Monthly. Start your subscription for just ~$49.99~ $19.99.** [T&Cs apply](https://www.futurelearn.com/info/unlimited-offer-dec-2024)
+**New offer! Get 20% off your first month of Unlimited Monthly. Start your subscription for just ~$49.99~ $39.99.** [T&Cs apply](https://www.futurelearn.com/info/unlimited-offer-dec-2024)
 
 [Find out more](https://www.futurelearn.com/unlimited)
 
