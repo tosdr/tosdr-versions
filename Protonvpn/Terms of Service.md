@@ -400,7 +400,7 @@ Geneva, Switzerland
     * [Proton Mail](https://protonvpn.com/mail)
     * [Proton Calendar](https://protonvpn.com/calendar)
     * [Proton Drive](https://protonvpn.com/drive)
-    * [Proton VPN(new window)](https://protonvpn.com/)
+    * [Proton VPN(new window)](https://protonvpn.com/?ref=pme_lp_b2c_proton_footer)
     * [Proton Pass](https://protonvpn.com/pass)
     * [Proton Wallet](https://protonvpn.com/wallet)
     * [Proton for Business](https://protonvpn.com/business)
