@@ -288,6 +288,20 @@ Recurs yearly
 
 1926
 
+#### Tue, Dec 10
+
+Hermione steals Polyjuice Potion ingredients
+
+Recurs yearly
+
+1992
+
+Sir Kenneth Branagh's birthday
+
+Recurs yearly
+
+Gilderoy Lockhart
+
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -298,15 +312,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The curse of the Defense Against the Dark Arts position was inspired by the Spinal Tap drummers dying in bizarre circumstances.
+The Hogwarts school motto, Draco Dormiens Nunquam Titillandus, means “Never Tickle a Sleeping Dragon.”
 
 ### Potter History
 
-August 2, 2007 – Scholastic announced that Deathly Hallows sold 11.5 million copies in ten days.
+February 11, 2005 – The number of pages in the UK edition of Harry Potter and the Half-Blood Prince is revealed to be 607 pages.
 
 ### Potter Quote
 
-“I can, you know, do math and stuff.”
+“The disapproval of cowards is praise to the brave.”
 
 [](#)
 
