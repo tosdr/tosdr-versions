@@ -664,12 +664,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Dubiose Anleger­anwälte: Komplexe Vereinbarungen und unrealistische Szenarien](https://www.test.de/Dubiose-Anlegeranwaelte-Komplexe-Vereinbarungen-und-unrealistische-Szenarien-6133882-0/ "Dubiose Anlegeranwälte - Komplexe Vereinbarungen und unrealistische Szenarien")
-* [Photovoltaik-Anlagen: So erkennen Sie unseriöse Anbieter von Solar­anlagen](https://www.test.de/Photovoltaik-Anlagen-So-erkennen-Sie-unserioese-Anbieter-von-Solaranlagen-6149204-0/ "Photovoltaik-Anlagen - So erkennen Sie unseriöse Anbieter von Solaranlagen")
-* [Milch­aufschäumer im Test: Gute und schlechte Schaum­schläger](https://www.test.de/Milchaufschaeumer-im-Test-Gute-und-schlechte-Schaumschlaeger-6166383-0/ "Milchaufschäumer im Test - Gute und schlechte Schaumschläger")
-* [Kreuz­fahrten mit Aida, Costa und MSC: Reedereien setzen auf Diesel statt Gas](https://www.test.de/Kreuzfahrten-mit-Aida-Costa-und-MSC-Reedereien-setzen-auf-Diesel-statt-Gas-5967313-0/ "Kreuzfahrten mit Aida, Costa und MSC - Reedereien setzen auf Diesel statt Gas")
-* [Test Lithium-Knopf­zellen: Diese Batterien leben lange](https://www.test.de/Test-Lithium-Knopfzellen-Diese-Batterien-leben-lange-6156398-0/ "Test Lithium-Knopfzellen - Diese Batterien leben lange")
-* [Wunder­sames aus dem Prüf­labor: Planschtest-Dummy](https://www.test.de/Wundersames-aus-dem-Prueflabor-Planschtest-Dummy-6119764-0/ "Wundersames aus dem Prüflabor - Planschtest-Dummy")
+* [Beim Arzt­besuch: Zuzahlung nicht vorschnell akzeptieren](https://www.test.de/Beim-Arztbesuch-Zuzahlung-nicht-vorschnell-akzeptieren-6176444-0/ "Beim Arztbesuch - Zuzahlung nicht vorschnell akzeptieren")
+* [E-Growing: Firmen von Juicyfields insolvent](https://www.test.de/E-Growing-Firmen-von-Juicyfields-insolvent-5963963-0/ "E-Growing - Firmen von Juicyfields insolvent")
+* [TV-Einrichtungs­service im Test: Anschluss gesucht](https://www.test.de/TV-Einrichtungsservice-im-Test-Anschluss-gesucht-6030987-0/ "TV-Einrichtungsservice im Test - Anschluss gesucht")
+* [Krebs­versicherung der Hanse Merkur: Kranken­zusatz mit Haken](https://www.test.de/Krebsversicherung-der-Hanse-Merkur-Krankenzusatz-mit-Haken-6018375-0/ "Krebsversicherung der Hanse Merkur - Krankenzusatz mit Haken")
+* [Lip-Plumper im Test: Schmoll­mund to go](https://www.test.de/Lip-Plumper-im-Test-Schmollmund-to-go-6158876-0/ "Lip-Plumper im Test - Schmollmund to go")
+* [Pantoffel-Portfolio ergänzen: Anlegen mit Kick – zehn Beimischungen im Test](https://www.test.de/Pantoffel-Portfolio-ergaenzen-Anlegen-mit-Kick-zehn-Beimischungen-im-Test-6111636-0/ "Pantoffel-Portfolio ergänzen - Anlegen mit Kick – zehn Beimischungen im Test")
 
 Weitere Informationen
 
@@ -3082,12 +3082,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Dubiose Anleger­anwälte: Komplexe Vereinbarungen und unrealistische Szenarien](https://www.test.de/Dubiose-Anlegeranwaelte-Komplexe-Vereinbarungen-und-unrealistische-Szenarien-6133882-0/ "Dubiose Anlegeranwälte - Komplexe Vereinbarungen und unrealistische Szenarien")
-* [Photovoltaik-Anlagen: So erkennen Sie unseriöse Anbieter von Solar­anlagen](https://www.test.de/Photovoltaik-Anlagen-So-erkennen-Sie-unserioese-Anbieter-von-Solaranlagen-6149204-0/ "Photovoltaik-Anlagen - So erkennen Sie unseriöse Anbieter von Solaranlagen")
-* [Milch­aufschäumer im Test: Gute und schlechte Schaum­schläger](https://www.test.de/Milchaufschaeumer-im-Test-Gute-und-schlechte-Schaumschlaeger-6166383-0/ "Milchaufschäumer im Test - Gute und schlechte Schaumschläger")
-* [Kreuz­fahrten mit Aida, Costa und MSC: Reedereien setzen auf Diesel statt Gas](https://www.test.de/Kreuzfahrten-mit-Aida-Costa-und-MSC-Reedereien-setzen-auf-Diesel-statt-Gas-5967313-0/ "Kreuzfahrten mit Aida, Costa und MSC - Reedereien setzen auf Diesel statt Gas")
-* [Test Lithium-Knopf­zellen: Diese Batterien leben lange](https://www.test.de/Test-Lithium-Knopfzellen-Diese-Batterien-leben-lange-6156398-0/ "Test Lithium-Knopfzellen - Diese Batterien leben lange")
-* [Wunder­sames aus dem Prüf­labor: Planschtest-Dummy](https://www.test.de/Wundersames-aus-dem-Prueflabor-Planschtest-Dummy-6119764-0/ "Wundersames aus dem Prüflabor - Planschtest-Dummy")
+* [Beim Arzt­besuch: Zuzahlung nicht vorschnell akzeptieren](https://www.test.de/Beim-Arztbesuch-Zuzahlung-nicht-vorschnell-akzeptieren-6176444-0/ "Beim Arztbesuch - Zuzahlung nicht vorschnell akzeptieren")
+* [E-Growing: Firmen von Juicyfields insolvent](https://www.test.de/E-Growing-Firmen-von-Juicyfields-insolvent-5963963-0/ "E-Growing - Firmen von Juicyfields insolvent")
+* [TV-Einrichtungs­service im Test: Anschluss gesucht](https://www.test.de/TV-Einrichtungsservice-im-Test-Anschluss-gesucht-6030987-0/ "TV-Einrichtungsservice im Test - Anschluss gesucht")
+* [Krebs­versicherung der Hanse Merkur: Kranken­zusatz mit Haken](https://www.test.de/Krebsversicherung-der-Hanse-Merkur-Krankenzusatz-mit-Haken-6018375-0/ "Krebsversicherung der Hanse Merkur - Krankenzusatz mit Haken")
+* [Lip-Plumper im Test: Schmoll­mund to go](https://www.test.de/Lip-Plumper-im-Test-Schmollmund-to-go-6158876-0/ "Lip-Plumper im Test - Schmollmund to go")
+* [Pantoffel-Portfolio ergänzen: Anlegen mit Kick – zehn Beimischungen im Test](https://www.test.de/Pantoffel-Portfolio-ergaenzen-Anlegen-mit-Kick-zehn-Beimischungen-im-Test-6111636-0/ "Pantoffel-Portfolio ergänzen - Anlegen mit Kick – zehn Beimischungen im Test")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -3138,12 +3138,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Dubiose Anleger­anwälte: Komplexe Vereinbarungen und unrealistische Szenarien](https://www.test.de/Dubiose-Anlegeranwaelte-Komplexe-Vereinbarungen-und-unrealistische-Szenarien-6133882-0/ "Dubiose Anlegeranwälte - Komplexe Vereinbarungen und unrealistische Szenarien")
-* [Photovoltaik-Anlagen: So erkennen Sie unseriöse Anbieter von Solar­anlagen](https://www.test.de/Photovoltaik-Anlagen-So-erkennen-Sie-unserioese-Anbieter-von-Solaranlagen-6149204-0/ "Photovoltaik-Anlagen - So erkennen Sie unseriöse Anbieter von Solaranlagen")
-* [Milch­aufschäumer im Test: Gute und schlechte Schaum­schläger](https://www.test.de/Milchaufschaeumer-im-Test-Gute-und-schlechte-Schaumschlaeger-6166383-0/ "Milchaufschäumer im Test - Gute und schlechte Schaumschläger")
-* [Kreuz­fahrten mit Aida, Costa und MSC: Reedereien setzen auf Diesel statt Gas](https://www.test.de/Kreuzfahrten-mit-Aida-Costa-und-MSC-Reedereien-setzen-auf-Diesel-statt-Gas-5967313-0/ "Kreuzfahrten mit Aida, Costa und MSC - Reedereien setzen auf Diesel statt Gas")
-* [Test Lithium-Knopf­zellen: Diese Batterien leben lange](https://www.test.de/Test-Lithium-Knopfzellen-Diese-Batterien-leben-lange-6156398-0/ "Test Lithium-Knopfzellen - Diese Batterien leben lange")
-* [Wunder­sames aus dem Prüf­labor: Planschtest-Dummy](https://www.test.de/Wundersames-aus-dem-Prueflabor-Planschtest-Dummy-6119764-0/ "Wundersames aus dem Prüflabor - Planschtest-Dummy")
+* [Beim Arzt­besuch: Zuzahlung nicht vorschnell akzeptieren](https://www.test.de/Beim-Arztbesuch-Zuzahlung-nicht-vorschnell-akzeptieren-6176444-0/ "Beim Arztbesuch - Zuzahlung nicht vorschnell akzeptieren")
+* [E-Growing: Firmen von Juicyfields insolvent](https://www.test.de/E-Growing-Firmen-von-Juicyfields-insolvent-5963963-0/ "E-Growing - Firmen von Juicyfields insolvent")
+* [TV-Einrichtungs­service im Test: Anschluss gesucht](https://www.test.de/TV-Einrichtungsservice-im-Test-Anschluss-gesucht-6030987-0/ "TV-Einrichtungsservice im Test - Anschluss gesucht")
+* [Krebs­versicherung der Hanse Merkur: Kranken­zusatz mit Haken](https://www.test.de/Krebsversicherung-der-Hanse-Merkur-Krankenzusatz-mit-Haken-6018375-0/ "Krebsversicherung der Hanse Merkur - Krankenzusatz mit Haken")
+* [Lip-Plumper im Test: Schmoll­mund to go](https://www.test.de/Lip-Plumper-im-Test-Schmollmund-to-go-6158876-0/ "Lip-Plumper im Test - Schmollmund to go")
+* [Pantoffel-Portfolio ergänzen: Anlegen mit Kick – zehn Beimischungen im Test](https://www.test.de/Pantoffel-Portfolio-ergaenzen-Anlegen-mit-Kick-zehn-Beimischungen-im-Test-6111636-0/ "Pantoffel-Portfolio ergänzen - Anlegen mit Kick – zehn Beimischungen im Test")
 
 Neueste Tests
 
@@ -3156,12 +3156,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Dubiose Anleger­anwälte: Komplexe Vereinbarungen und unrealistische Szenarien](https://www.test.de/Dubiose-Anlegeranwaelte-Komplexe-Vereinbarungen-und-unrealistische-Szenarien-6133882-0/ "Dubiose Anlegeranwälte - Komplexe Vereinbarungen und unrealistische Szenarien")
-* [Photovoltaik-Anlagen: So erkennen Sie unseriöse Anbieter von Solar­anlagen](https://www.test.de/Photovoltaik-Anlagen-So-erkennen-Sie-unserioese-Anbieter-von-Solaranlagen-6149204-0/ "Photovoltaik-Anlagen - So erkennen Sie unseriöse Anbieter von Solaranlagen")
-* [Milch­aufschäumer im Test: Gute und schlechte Schaum­schläger](https://www.test.de/Milchaufschaeumer-im-Test-Gute-und-schlechte-Schaumschlaeger-6166383-0/ "Milchaufschäumer im Test - Gute und schlechte Schaumschläger")
-* [Kreuz­fahrten mit Aida, Costa und MSC: Reedereien setzen auf Diesel statt Gas](https://www.test.de/Kreuzfahrten-mit-Aida-Costa-und-MSC-Reedereien-setzen-auf-Diesel-statt-Gas-5967313-0/ "Kreuzfahrten mit Aida, Costa und MSC - Reedereien setzen auf Diesel statt Gas")
-* [Test Lithium-Knopf­zellen: Diese Batterien leben lange](https://www.test.de/Test-Lithium-Knopfzellen-Diese-Batterien-leben-lange-6156398-0/ "Test Lithium-Knopfzellen - Diese Batterien leben lange")
-* [Wunder­sames aus dem Prüf­labor: Planschtest-Dummy](https://www.test.de/Wundersames-aus-dem-Prueflabor-Planschtest-Dummy-6119764-0/ "Wundersames aus dem Prüflabor - Planschtest-Dummy")
+* [Beim Arzt­besuch: Zuzahlung nicht vorschnell akzeptieren](https://www.test.de/Beim-Arztbesuch-Zuzahlung-nicht-vorschnell-akzeptieren-6176444-0/ "Beim Arztbesuch - Zuzahlung nicht vorschnell akzeptieren")
+* [E-Growing: Firmen von Juicyfields insolvent](https://www.test.de/E-Growing-Firmen-von-Juicyfields-insolvent-5963963-0/ "E-Growing - Firmen von Juicyfields insolvent")
+* [TV-Einrichtungs­service im Test: Anschluss gesucht](https://www.test.de/TV-Einrichtungsservice-im-Test-Anschluss-gesucht-6030987-0/ "TV-Einrichtungsservice im Test - Anschluss gesucht")
+* [Krebs­versicherung der Hanse Merkur: Kranken­zusatz mit Haken](https://www.test.de/Krebsversicherung-der-Hanse-Merkur-Krankenzusatz-mit-Haken-6018375-0/ "Krebsversicherung der Hanse Merkur - Krankenzusatz mit Haken")
+* [Lip-Plumper im Test: Schmoll­mund to go](https://www.test.de/Lip-Plumper-im-Test-Schmollmund-to-go-6158876-0/ "Lip-Plumper im Test - Schmollmund to go")
+* [Pantoffel-Portfolio ergänzen: Anlegen mit Kick – zehn Beimischungen im Test](https://www.test.de/Pantoffel-Portfolio-ergaenzen-Anlegen-mit-Kick-zehn-Beimischungen-im-Test-6111636-0/ "Pantoffel-Portfolio ergänzen - Anlegen mit Kick – zehn Beimischungen im Test")
 
 Stiftung Warentest
 
