@@ -76,17 +76,17 @@ Torstrasse 19
 [privacy@amboss.com  
 ‍](mailto:privacy@amboss.com)
 
-**Privacy Policy Last Update Date:** May 2024  
+**Privacy Policy Last Update Date:** December 2024  
 ‍
 
-AMBOSS GmbH is a young company providing high quality services for physicians and medical students as well as learning materials. We want you, as a user of our services, to understand how we use information and what options you have to protect your data. We are aware of the importance and sensitivity of your personal data and thank you for your trust. Handling it responsibly is a major concern for us. If you have any questions about this, please do not hesitate to contact us.
+If you use AMBOSS as part of an institutional license, we may process certain personal data on the AMBOSS Program as a data processor for or, alternatively, in joint control with your institution. More information is available in section 3.4.
 
 ‍
 
 ### **1\. Basic information on data processing and legal basis  
 ‍**
 
-1.1 This privacy policy informs users about the nature, scope and purposes of the processing of personal data by the responsible provider, AMBOSS GmbH (“AMBOSS” or “we”). It applies to data processing in the following areas:  
+1.1. This privacy policy informs users about the nature, scope and purposes of the processing of personal data by the responsible provider, AMBOSS GmbH (“AMBOSS” or “we”). It applies to data processing in the following areas:  
 ‍
 
 * The website [www.amboss.com](https://www.amboss.com/) operated by AMBOSS including the registered area of the online knowledge and learning program “AMBOSS” accessible via this website and
@@ -98,33 +98,35 @@ We inform separately about data processing in the following areas:
 * Application procedure at the following link: [Job Applicants Privacy Notice  
     ‍](https://www.amboss.com/us/privacy/applicants)
 
-1.2 We process users’ personal data exclusively in compliance with the relevant provisions of data protection law. In accordance with Art. 13 EU General Data Protection Regulation (GDPR), we inform you about the legal basis of our data processing. If the respective legal basis is not mentioned in this privacy policy, the following applies: Legal basis for the processing of personal data with separate consent is Art. 6 para. 1 lit. a GDPR, legal basis for the processing of data for the performance of a contract and for the implementation of pre-contractual measures is Art. 6 para. 1 lit. b GDPR, legal basis for the processing of personal data to meet our legal obligations is Art. 6 para. 1 lit. c GDPR and legal basis for the processing of personal data to protect our legitimate interests is Art. 6 para. 1 lit. f GDPR.
+1.2. We process users’ personal data exclusively in compliance with the relevant provisions of data protection law. In accordance with Art. 13 EU General Data Protection Regulation (GDPR), we inform you about the legal basis of our data processing. If the respective legal basis is not mentioned in this privacy policy, the following applies: Legal basis for the processing of personal data with separate consent is Art. 6 para. 1 lit. a GDPR, legal basis for the processing of data for the performance of a contract and for the implementation of pre-contractual measures is Art. 6 para. 1 lit. b GDPR, legal basis for the processing of personal data to meet our legal obligations is Art. 6 para. 1 lit. c GDPR and legal basis for the processing of personal data to protect our legitimate interests is Art. 6 para. 1 lit. f GDPR.
 
 ‍
 
 ### **2\. Data sharing**
 
-2.1 First of all, only our employees who are involved in technical, commercial and editorial support receive knowledge of your personal data. In addition, we use external service providers within the scope of the data processing explained in this privacy policy or, if necessary, commission them with certain services. We list the categories of external recipients in detail below:  
+‍
+
+2.1. First of all, only our employees who are involved in technical, commercial and editorial support receive knowledge of your personal data. In addition, we use external service providers within the scope of the data processing explained in this privacy policy or, if necessary, commission them with certain services. We list the categories of external recipients in detail below:  
 ‍
 
 * IT service providers, e.g. as part of the administration and hosting of our website, the online knowledge and learning program and the apps or individual services/functionalities as well as for analysis/measurement;
 * logistics service provider in order to be able to send you any information brochures you may have ordered;
 * payment service providers and banks, in processing payments, in particular Shopify Inc. (for Shop Pay) and Stripe Payments Europe, Ltd;
 * collection agencies and legal counsel in asserting our claims; or
-* our subsidiary company AMBOSS MD Inc. (234 5th Avenue, 2nd Floor, New York, NY, 10001) as required for our business purposes.  
-    ‍
+* our subsidiary company AMBOSS MD Inc. (234 5th Avenue, 2nd Floor, New York, NY, 10001) as required for our business purposes.
+* institutions for a customized and accompanied learning experience as described in section 3.4.
 
-2.2 Personal data is only passed on to third parties on the basis of legal permits and within the framework of the legal requirements. If we commission service providers with the processing of data within the framework of a so-called “Data Processing Agreement (DPA)”, this is done on the basis of Art. 28 GDPR.  
+2.2. Personal data is only passed on to third parties on the basis of legal permits and within the framework of the legal requirements. If we commission service providers with the processing of data within the framework of a so-called “Data Processing Agreement (DPA)”, this is done on the basis of Art. 28 GDPR.  
 ‍
 
-2.3 Personal data may also be transferred to servers outside the EU or to trusted third parties based outside the EU. If there is no EU Commission decision on an adequate level of data protection for the country in question, the transfer will take place on the basis of so-called EU standard contractual clauses, which aim to ensure that your rights and freedoms are adequately protected and guaranteed. You should be aware that many countries do not provide the same level of legal protection for personal data that you enjoy in the EU. While your personal data is located in another country, it may be accessed by courts, law enforcement and national security authorities of that country in accordance with its laws.
+2.3. Personal data may also be transferred to servers outside the EU or to trusted third parties based outside the EU. If there is no EU Commission decision on an adequate level of data protection for the country in question, the transfer will take place on the basis of so-called EU standard contractual clauses, which aim to ensure that your rights and freedoms are adequately protected and guaranteed. You should be aware that many countries do not provide the same level of legal protection for personal data that you enjoy in the EU. While your personal data is located in another country, it may be accessed by courts, law enforcement and national security authorities of that country in accordance with its laws.
 
 ‍
 
 ### **3\. Purposes of data processing and legal bases  
 ‍**
 
-3.1 Informational use of the website  
+##### 3.1. Informational use of the website  
 ‍
 
 During the informational use of the website, we collect the personal data that the browser transmits to our server in order to ensure the stability and security of our website. This is our legitimate interest, so that the legal basis is Art. 6 para. 1 lit. f GDPR.  
@@ -136,7 +138,7 @@ This data is: IP address, date and time of the request, time zone difference to 
 This data is also stored in log files. They are deleted when their storage is no longer necessary, at the latest after 14 days.  
 ‍
 
-3.2 Hosting and provision of the website  
+##### 3.2. Hosting and provision of the website  
 ‍
 
 We use AWS to host our website. The provider is Amazon Web Services EMEA Sàrl, Avenue John F. Kennedy 38, 1855 Luxembourg. The provider thereby processes the personal data transmitted via the website, e.g. content, usage, meta/communication data or contact data, on servers in the EU. Further information can be found in the provider’s privacy policy at https://aws.amazon.com/de/privacy/?nc1=f\_pr.  
@@ -151,59 +153,79 @@ We also use the following content delivery networks:
 The hosting as well as the use of a content delivery network are technically necessary to provide images and other website resources. The legal basis of the processing is Art. 6 para. 1 lit. b GDPR.  
 ‍
 
-3.3 Provision of contractual services / user account  
+##### 3.3. Provision of contractual services / user account  
 ‍
 
-3.3.1 We process inventory data (e.g. names, addresses and other contact data), contract data (e.g. payment information, service used) for the fulfillment of our contractual obligations and services pursuant to Art. 6 (1) lit. b GDPR as well as for the fulfillment of a legal obligation to which we are subject pursuant to Art. 6 (1) lit. c GDPR in connection with commercial, trade or tax law, insofar as we are obliged to record and store your data.  
+3.3.1. We process inventory data (e.g. names, addresses and other contact data), contract data (e.g. payment information, service used) for the fulfillment of our contractual obligations and services pursuant to Art. 6 (1) lit. b GDPR as well as for the fulfillment of a legal obligation to which we are subject pursuant to Art. 6 (1) lit. c GDPR in connection with commercial, trade or tax law, insofar as we are obliged to record and store your data.  
 ‍
 
-3.3.2 In order to be able to use our offer to the full extent, registration is required. As part of setting up a corresponding user account, you must provide a password in addition to your e-mail address. This information is used for login and secure identification on our site. If the registration and/or login takes place via a single sign-on procedure (SSO) of an institution (e.g. university or clinic), we will forward you to the respective website of the institution for the purpose of logging in and will transmit the e-mail address entered by you on our website for this purpose to the institution. After a successful login, information about you, namely your first and last name, affiliation with the institution and e-mail address, will be transmitted to us by the institution for the purpose of identification and processed by us for the provision and use of our offer on the basis of Art. 6 para. 1 lit. b GDPR. This data is linked to the AMBOSS user account.  
+3.3.2. In order to be able to use our offer to the full extent, registration is required. As part of setting up a corresponding user account, you must provide a password in addition to your e-mail address. This information is used for login and secure identification on our site. If the registration and/or login takes place via a single sign-on procedure (SSO) of an institution (e.g. university or clinic), we will forward you to the respective website of the institution for the purpose of logging in and will transmit the e-mail address entered by you on our website for this purpose to the institution. After a successful login, information about you, namely your first and last name, affiliation with the institution and e-mail address, will be transmitted to us by the institution for the purpose of identification and processed by us for the provision and use of our offer on the basis of Art. 6 para. 1 lit. b GDPR. This data is linked to the AMBOSS user account.  
 ‍
 
-3.3.3 We may also ask you for additional personal data such as first and last name, intended specialty, university, address or gender, e.g. as part of a survey or within your user account. Unless this information is necessary to provide our services, it is always voluntary. We use this information on the basis of Art. 6 para. 1 lit. f GDPR to tailor our services to you.  
+3.3.3. We may also ask you for additional personal data such as first and last name, intended specialty, university, address or gender, e.g. as part of a survey or within your user account. Unless this information is necessary to provide our services, it is always voluntary. We use this information on the basis of Art. 6 para. 1 lit. f GDPR to tailor our services to you.  
 ‍
 
-3.3.4 During registration and each login of your user account as well as the use of our online services, we store the IP address and the time of the respective user action. The storage is based on our legitimate interests and the interest of users in protection against misuse and unauthorized use in accordance with Art. 6 para. 1 lit. f GDPR.  
+3.3.4. During registration and each login of your user account as well as the use of our online services, we store the IP address and the time of the respective user action. The storage is based on our legitimate interests and the interest of users in protection against misuse and unauthorized use in accordance with Art. 6 para. 1 lit. f GDPR.  
 ‍
 
-3.3.5 If you have created a user account with us and use our online knowledge and learning program “AMBOSS”, we automatically collect usage statistics regarding the exam/learn results of our online knowledge and learning program and the pages visited within our platform. This information is used for statistical evaluation of your personal learning needs. Anonymized overall statistics are created for this purpose.  
+3.3.5. If you have created a user account with us and use our online knowledge and learning program “AMBOSS”, we automatically collect usage statistics regarding the exam/learn results of our online knowledge and learning program and the pages visited within our platform. This information is used for statistical evaluation of your personal learning needs. Anonymized overall statistics are created for this purpose.  
 ‍
 
-3.4 Contact form
+##### 3.4. Insights on Usage Data for Institutions
+
+‍
+
+3.4.1. We support medical schools, hospitals and other educational institutions in improving medical education and curricula. To this end, we may provide the institution you have specified in your AMBOSS account with reports containing anonymized usage data from selected user cohorts that belong to this institution. This data may be compared with the aggregated usage data of other institutions. The anonymization of your usage data for statistical analysis purposes is based on our legitimate interest (Art. 6 para. 1 lit. f DSGVO) in offering institutions an optimized service for their training and continuing education requirements.
+
+‍
+
+3.4.2. If you use AMBOSS as part of an institutional license, i.e. the access is provided by and/or fully or partly paid for by your institution, your personal data, including your name and email address, as well as usage and performance data, including question results, analyses of question results, and accessed content, may be shared with authorized staff of your institution (e.g. faculty, program lead or instructors) and additionally made accessible via dashboards. Your personal data is displayed in the dashboards for the duration of your institutional license to ensure the understanding of your learning progress and enable effective long-term support and will be deleted or anonymized upon the end of your institutional license. The legal basis for sharing your data are the Terms of Use which you have agreed to in order to enable offers from your institution for medical education purposes (Art. 6 para. 1 lit. b GDPR). In particular if your institution is located outside of the European Union/European Economic Area, this data sharing may entail a third country data transfer according to section 2.3.
+
+‍
+
+3.4.3. Depending on the legal requirements of the country where you and/or your institution is located, we process your personal data as described in the previous section under joint responsibility with your institution (Art. 26 GDPR) or on behalf of and under the responsibility of your institution (Art. 28 GDPR). You will be notified upon activation of the institutional license if the “Insights-Dashboards” function is active and in which role we process your usage data. If your personal data is processed under joint responsibility, pursuant to an agreement with the institution, we are acting as your primary contact with regard to any questions or the execution of your privacy rights. You may of course also contact your institution for such purpose.
+
+‍
+
+##### 3.5. Contact form
+
+‍
 
 For questions of any kind, we offer you the possibility to contact us via a provided form. In doing so, it is necessary to provide a valid e-mail address so that we know from whom the inquiry originates and so that we can answer it. Further information can be provided voluntarily. The data processing for the purpose of contacting us is carried out in accordance with Art. 6 para. 1 lit. b and f GDPR for the appropriate response to your request.  
 ‍
 
-3.5 Newsletter
+##### 3.6. Newsletter
 
-3.5.1 If you have expressly consented in accordance with Art. 6 (1) a GDPR, we will use your e-mail address to send you our newsletter on a regular basis. Insofar as the contents of the newsletter are specifically described within the scope of the registration for the receipt of the newsletter, this information is decisive for the consent of the user. In addition, our newsletters contain information about our services, offers, promotions and our company. The provision of a valid e-mail address is sufficient for the receipt of the newsletter.  
 ‍
 
-3.5.2 For newsletter registration, we use the so-called double opt-in procedure, i.e. we will only send you a newsletter by e-mail if you have previously expressly confirmed that you want us to activate the newsletter service. For this purpose, we will send you a notification e-mail and ask you to confirm that you would like to receive our newsletter by clicking on a link contained in this e-mail.  
+3.6.1. If you have expressly consented in accordance with Art. 6 (1) a GDPR, we will use your e-mail address to send you our newsletter on a regular basis. Insofar as the contents of the newsletter are specifically described within the scope of the registration for the receipt of the newsletter, this information is decisive for the consent of the user. In addition, our newsletters contain information about our services, offers, promotions and our company. The provision of a valid e-mail address is sufficient for the receipt of the newsletter.  
 ‍
 
-3.5.3 With the registration for the newsletter we store your IP address and the date of registration. This storage serves as proof of your registration for our newsletter.  
+3.6.2. For newsletter registration, we use the so-called double opt-in procedure, i.e. we will only send you a newsletter by e-mail if you have previously expressly confirmed that you want us to activate the newsletter service. For this purpose, we will send you a notification e-mail and ask you to confirm that you would like to receive our newsletter by clicking on a link contained in this e-mail.  
 ‍
 
-3.5.4 You can revoke your consent to receive the newsletter at any time. The revocation can be done via a link in the newsletter itself, in your user account or by sending a message to the contact options above.  
+3.6.3. With the registration for the newsletter we store your IP address and the date of registration. This storage serves as proof of your registration for our newsletter.  
 ‍
 
-3.5.5 If you have already used our services, we may send you information about our own similar goods and services by e-mail. The legal basis for the processing is our legitimate interest of direct advertising according to Art. 6 para. 1 lit. f GDPR. You can object to this use of your e-mail address at any time with effect for the future free of charge via a link in the e-mail itself, in your user account or by sending a message to the contact options above.  
+3.6.4. You can revoke your consent to receive the newsletter at any time. The revocation can be done via a link in the newsletter itself, in your user account or by sending a message to the contact options above.  
 ‍
 
-3.6 AMBOSS network  
+3.6.5. If you have already used our services, we may send you information about our own similar goods and services by e-mail. The legal basis for the processing is our legitimate interest of direct advertising according to Art. 6 para. 1 lit. f GDPR. You can object to this use of your e-mail address at any time with effect for the future free of charge via a link in the e-mail itself, in your user account or by sending a message to the contact options above.  
 ‍
 
-3.6.1 You have the option of making individual personal data entered in your user profile (e.g. first name, last name, e-mail address, university, clinic) and other information (e.g. your own additions) retrievable and findable for other users. It may be possible to restrict the accessibility and retrievability of individual or all data and information to certain user groups and to release it only for them.  
+##### 3.7. AMBOSS network  
 ‍
 
-3.6.2 The release of your personal data and information to other users is always on a voluntary basis, i.e. with your express consent pursuant to Art. 6 (1) a GDPR. You can (partially) deactivate or activate this service in your user profile by making all, none or individual data and information retrievable and discoverable for all, none or, if applicable, only certain users by making the appropriate settings.  
+3.7.1. You have the option of making individual personal data entered in your user profile (e.g. first name, last name, e-mail address, university, clinic) and other information (e.g. your own additions) retrievable and findable for other users. It may be possible to restrict the accessibility and retrievability of individual or all data and information to certain user groups and to release it only for them.  
 ‍
 
-3.6.3 If you (partially) activate your profile for the AMBOSS network and can thus be found by other users under the released data, we will inform you by e-mail or via the user account in case of a contact request by another user.  
+3.7.2. The release of your personal data and information to other users is always on a voluntary basis, i.e. with your express consent pursuant to Art. 6 (1) a GDPR. You can (partially) deactivate or activate this service in your user profile by making all, none or individual data and information retrievable and discoverable for all, none or, if applicable, only certain users by making the appropriate settings.  
 ‍
 
-3.7 AMBOSS Score Predictor
+3.7.3. If you (partially) activate your profile for the AMBOSS network and can thus be found by other users under the released data, we will inform you by e-mail or via the user account in case of a contact request by another user.  
+‍
+
+##### 3.8. AMBOSS Score Predictor
 
 ‍
 
@@ -211,28 +233,28 @@ The AMBOSS Score Predictor gives you the option of submitting your practice exam
 
 ‍
 
-3.8 Comments and contributions  
+##### 3.9. Comments and contributions  
 ‍
 
 When users enter comments or other contributions, their IP addresses are stored on the basis of our legitimate interests according to Art. 6 (1) lit. f GDPR. This is done for our security, in case someone posts illegal content.  
 ‍
 
-3.9 Consent Management  
+##### 3.10. Consent Management  
 ‍
 
-3.9.1 We use cookies on our site. Cookies are pieces of information that are transmitted from our web server or third-party web servers to users’ web browsers, where they are stored for later retrieval. Cookies may be small files or other types of information storage. In addition, we use comparable storage and access technologies, such as local storage and web beacons, among others (hereinafter collectively referred to as “cookies”).  
+3.10.1. We use cookies on our site. Cookies are pieces of information that are transmitted from our web server or third-party web servers to users’ web browsers, where they are stored for later retrieval. Cookies may be small files or other types of information storage. In addition, we use comparable storage and access technologies, such as local storage and web beacons, among others (hereinafter collectively referred to as “cookies”).  
 ‍
 
-3.9.2 The use of cookies serves the purpose to make the use of our offer attractive for you. We use so-called session cookies to recognize that you have already visited individual pages of our website/apps. These are automatically deleted after you leave our website/app. In addition, to optimize user-friendliness, we use temporary cookies that are stored on your end device for a certain specified period of time. If you visit our website/apps again to use our services, it is automatically recognized that you have already been with us and which entries and settings you have made so that you do not have to enter them again.  
+3.10.2. The use of cookies serves the purpose to make the use of our offer attractive for you. We use so-called session cookies to recognize that you have already visited individual pages of our website/apps. These are automatically deleted after you leave our website/app. In addition, to optimize user-friendliness, we use temporary cookies that are stored on your end device for a certain specified period of time. If you visit our website/apps again to use our services, it is automatically recognized that you have already been with us and which entries and settings you have made so that you do not have to enter them again.  
 ‍
 
-3.9.3 We offer you the option to decide for yourself which cookies you would like to allow. The privacy settings feature ensures that only technically necessary cookies are set when you first visit the website/app. In the cookie banner, you can then either allow the use of cookies that require consent, reject them or call up the advanced cookie settings. In the cookie settings, you can select which cookies you want to allow. It is not possible to block the technically necessary cookies, these are always set. Other cookies are only set when you click on “Accept all” in the cookie banner or activate them in the cookie settings.  
+3.10.3. We offer you the option to decide for yourself which cookies you would like to allow. The privacy settings feature ensures that only technically necessary cookies are set when you first visit the website/app. In the cookie banner, you can then either allow the use of cookies that require consent, reject them or call up the advanced cookie settings. In the cookie settings, you can select which cookies you want to allow. It is not possible to block the technically necessary cookies, these are always set. Other cookies are only set when you click on “Accept all” in the cookie banner or activate them in the cookie settings.  
 ‍
 
-3.9.4 We process your personal data for cookie management of our website/apps to fulfill a legal obligation to which we are subject as the controller pursuant to Art. 6 (1) lit. c GDPR. There is a legal obligation to obtain and document your consent to access your terminal device and to process data based on this consent.  
+3.10.4. We process your personal data for cookie management of our website/apps to fulfill a legal obligation to which we are subject as the controller pursuant to Art. 6 (1) lit. c GDPR. There is a legal obligation to obtain and document your consent to access your terminal device and to process data based on this consent.  
 ‍
 
-3.9.5 Insofar as the processing of information on your terminal device is absolutely necessary to enable the use of our website or apps expressly requested by you, the storage or access is carried out on the basis of Section 25 (2) No. 2 TDDDG (New German Telecommunications-Telemedia Data Protection Act) or the corresponding European Union member state implementation regulation for Article 5 (3) Sentence 1 of the ePrivacy Directive (2002/58/EC, amended by 2009/136/EC). Any further processing of information on your terminal device will be based on your consent in accordance with Section 25 (1) of the TDDDG (New German Telecommunications-Telemedia Data Protection Act) or the corresponding European Union member state implementing provision for Article 5 (3) sentence 2 of the ePrivacy Directive (2002/58/EC, as amended by 2009/136/EC). The aforementioned legal bases of the GDPR then apply to the further processing of the personal data obtained through this. Companies located in third countries are also involved in the processing of your data in accordance with section 2.4. Insofar as companies located in the EU or companies located in third countries are also involved in the provision of services in the case of data hosted in the EU, this will also take place in accordance with section 2.4. You can revoke your consent in the data protection settings in the footer of this website at any time. The revocation does not affect the lawfulness of the processing until the revocation.
+3.10.5. Insofar as the processing of information on your terminal device is absolutely necessary to enable the use of our website or apps expressly requested by you, the storage or access is carried out on the basis of Section 25 (2) No. 2 TDDDG (New German Telecommunications-Telemedia Data Protection Act) or the corresponding European Union member state implementation regulation for Article 5 (3) Sentence 1 of the ePrivacy Directive (2002/58/EC, amended by 2009/136/EC). Any further processing of information on your terminal device will be based on your consent in accordance with Section 25 (1) of the TDDDG (New German Telecommunications-Telemedia Data Protection Act) or the corresponding European Union member state implementing provision for Article 5 (3) sentence 2 of the ePrivacy Directive (2002/58/EC, as amended by 2009/136/EC). The aforementioned legal bases of the GDPR then apply to the further processing of the personal data obtained through this. Companies located in third countries are also involved in the processing of your data in accordance with section 2.4. Insofar as companies located in the EU or companies located in third countries are also involved in the provision of services in the case of data hosted in the EU, this will also take place in accordance with section 2.4. You can revoke your consent in the data protection settings in the footer of this website at any time. The revocation does not affect the lawfulness of the processing until the revocation.
 
 ‍
 
@@ -242,10 +264,10 @@ When users enter comments or other contributions, their IP addresses are stored 
 We use various third-party technologies on our website, in the registered area and in our apps, which we list below. You can find further information, in particular on the legal basis, the storage period of the cookies and the personal data obtained via them, in the privacy settings in the footer of this website. There you also have the option to revoke any consent given for these technologies with effect for the future. Further general information on consent management can be found in section 3.8.  
 ‍
 
-4.1 Website and Registered Area  
+##### 4.1. Website and Registered Area  
 ‍
 
-4.1.1 Required technologies
+##### 4.1.1. Required technologies
 
 ‍  
 **Alchemer**
@@ -438,7 +460,9 @@ Further information is available in the provider’s privacy policy at https://w
 
 ‍
 
-4.1.2 Opt-in technologies
+##### 4.1.2. Opt-in technologies
+
+‍
 
 Unless expressly stated below, the third-party providers specified in this section also use the data processed by you for their own purposes. Details on this can be found in the privacy statements of the providers.
 
@@ -604,7 +628,7 @@ Further information is available in the provider’s privacy policy at https://p
 
 ‍
 
-4.2 Native mobile apps on iOS and Android
+##### 4.2. Native mobile apps on iOS and Android
 
 ‍
 
@@ -651,8 +675,10 @@ There is a data transfer to third countries (United States of America).
 
 Further information is available in the provider’s privacy policy at https://firebase.google.com/support/privacy.
 
-  
-4.3 Integration of third-party content and services
+#####   
+4.3. Integration of third-party content and services
+
+‍
 
 Based on our legitimate interests according to Art. 6 para. 1 lit. f GDPR (interest in the analysis, optimization and economic operation of our online offer), as well as partly for the fulfillment of our contractual obligations according to Art. 6 para. 1 lit. b GDPR, we also use various third-party content or services that do not access your terminal device or set cookies. This nevertheless has the consequence that the providers of these contents and services receive your IP address, as they cannot send the contents to the browser without the IP address.
 
@@ -664,6 +690,8 @@ We use content and services from the following providers:
 
 ### **5\. Data security**
 
+‍
+
 All communication of your browser with our services is done via an encrypted TLS connection to protect your information from unauthorized access by third parties. Only selected administrators have insight into the data and only to the extent necessary to maintain the services.
 
   
@@ -673,11 +701,15 @@ We also use appropriate technical and organizational security measures to protec
 
 ### **6\. Data deletion**
 
+‍
+
 Unless expressly stated within the scope of this privacy policy, the data stored by us will be deleted as soon as it is no longer required for its intended purpose and the deletion does not conflict with any statutory retention obligations. If your data is not deleted because it is required for other and legally permissible purposes, its processing will be restricted. I.e. the data will be blocked and not processed for other purposes. This applies, for example, to data that must be retained for reasons of commercial or tax law.
 
 ‍
 
 ### **7\. Data subject rights**
+
+‍
 
 You have the right:
 
@@ -701,6 +733,8 @@ You have the right:
 
 ### **8\. Provisioning obligations / automated decision making**
 
+‍
+
 You only need to provide the personal data that is required for the establishment, implementation and termination of the business relationship or other relationships, or which we are required to collect by law. Without this data, we will usually have to refuse to conclude a contract or provide a service or will no longer be able to perform an existing contract or other relationship. Mandatory data are marked as such.
 
   
@@ -710,7 +744,11 @@ As a matter of principle, we do not use fully automated decision-making pursuant
 
 ### **9\. United States privacy disclosures**
 
-9.1 Personal data collection
+‍
+
+##### 9.1 Personal data collection
+
+‍
 
 We collect the following categories of personal data.
 
@@ -723,28 +761,36 @@ We collect the following categories of personal data.
 * Sensitive personal information, including account login data
 * Inferences
 
-  
-9.2 Personal data sources
+#####   
+9.2. Personal data sources
+
+‍
 
 We collect the above categories of personal data from various sources, including directly from you, from our service providers, from third parties such as your educational institution, and from the social media platforms and networks that we use, which may also be governed by our Social Media Privacy Policy.
 
-  
-9.3 Personal data uses
+#####   
+9.3. Personal data uses
+
+‍
 
 We have collected these categories of personal data to fulfill our business and commercial purposes, including to provide services you requested; audit relating to counting ad impressions to unique visitors, verify positioning and quality of ad impressions, and audit compliance with applicable standards; helping to ensure security and integrity to the extent the use of the personal data is reasonably necessary and proportionate for these purposes; debugging to identify and repair errors that impair existing intended functionality; perform services, including maintaining or servicing accounts, providing customer service, processing or fulfilling orders and transactions, verifying your information, processing payments, providing financing, providing analytic services, providing storage, or providing similar services;, undertaking internal research for technological development and demonstration; undertaking activities to verify or maintain the quality or safety of a service or device that is owned, manufactured, manufactured for, or controlled by us, and to improve, upgrade, or enhance the service or device that is owned, manufactured for, or controlled by us; and for any other business purpose permitted by law.
 
-  
-9.4 Personal data disclosures
+#####   
+9.4. Personal data disclosures
+
+‍
 
 We may disclose the categories of personal data as described in section 9.1 for our business purposes as described in section 9.3 to the following categories of third parties: internet service providers.
 
 We may share the following categories of personal data for purposes of targeted advertising to our advertising networks, internet service providers, data analytics providers, and social networks: internet or other electronic network activity.
 
-  
-9.5 Personal data rights
+#####   
+9.5. Personal data rights
 
-  
-9.5.1 Description of data rights
+#####   
+9.5.1. Description of data rights
+
+‍
 
 Under applicable law of your United States state of residence, you may have the right to:
 
@@ -758,8 +804,10 @@ We have not sold or shared your personal data in the past 12 months, and we have
   
 These rights may be subject to certain exceptions under applicable law.
 
-  
-9.5.2 Exercising data rights
+#####   
+9.5.2. Exercising data rights
+
+‍
 
 To exercise any of your data rights, you may email us at [privacy@amboss.com](mailto:privacy@amboss.com). To exercise your right to opt out of the sharing of personal data for purposes of targeted advertising, visit “Privacy Settings” in the footer of our website. We currently do not respond to “Do Not Track” or opt-out preference signals. When making a request to exercise your data rights, please include your name, and your account email address.
 
@@ -775,6 +823,8 @@ If you have questions or concerns about our response to your request, you may ap
 ‍
 
 ### **10\. Changes to the privacy policy**
+
+‍
 
 We reserve the right to change this privacy policy from time to time to reflect changes in the law or expansion of the functionality of our services. We will post any updates to this privacy policy on our website or provide you with notice of such changes as required by applicable law. You should therefore read the privacy policy regularly to be informed about the protection of your data.
 
