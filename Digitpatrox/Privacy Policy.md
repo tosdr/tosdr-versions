@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Tuesday, December 3 2024
+Wednesday, December 4 2024
 
 Latest
 
-* [Ransomware remediation: What steps should your business take for recovery?](https://digitpatrox.com/ransomware-remediation-what-steps-should-your-business-take-for-recovery/)
-* [If you want security, start with secure products – Computerworld](https://digitpatrox.com/if-you-want-security-start-with-secure-products-computerworld/)
-* [I’m a Certified Personal Trainer, and These Are My Favorite Fitness Sales That Are Still Live](https://digitpatrox.com/im-a-certified-personal-trainer-and-these-are-my-favorite-fitness-sales-that-are-still-live/)
-* [Ransomware gang says it hacked Goodwill, shut down stores in Texas](https://digitpatrox.com/ransomware-gang-says-it-hacked-goodwill-shut-down-stores-in-texas/)
-* [How to add multiple time zone clocks on Windows 11](https://digitpatrox.com/how-to-add-multiple-time-zone-clocks-on-windows-11/)
-* [You Should Play More Simulation Games (Especially the Boring Ones)](https://digitpatrox.com/you-should-play-more-simulation-games-especially-the-boring-ones/)
-* [AWS re:Invent 2024 live: All the news and updates as they happen](https://digitpatrox.com/aws-reinvent-2024-live-all-the-news-and-updates-as-they-happen/)
-* [Over 600,000 Personal Records Exposed by Data Broker](https://digitpatrox.com/over-600000-personal-records-exposed-by-data-broker/)
-* [Cyber Monday isn’t over — 35 deals you can still shop for a limited time](https://digitpatrox.com/cyber-monday-isnt-over-35-deals-you-can-still-shop-for-a-limited-time/)
-* [Police seize Matrix encrypted chat service after spying on criminals](https://digitpatrox.com/police-seize-matrix-encrypted-chat-service-after-spying-on-criminals/)
+* [Ubisoft shooter XDefiant is shutting down and sending refunds to players](https://digitpatrox.com/ubisoft-shooter-xdefiant-is-shutting-down-and-sending-refunds-to-players/)
+* [NYT Connections Today: Hints and Answers for December 4, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-december-4-2024/)
+* [Amazon CEO Andy Jassy just unveiled a powerful new AI model to compete with Google Gemini and OpenAI’s GPT-4](https://digitpatrox.com/amazon-ceo-andy-jassy-just-unveiled-a-powerful-new-ai-model-to-compete-with-google-gemini-and-openais-gpt-4/)
+* [In lawsuit, Apple is accused of spying on its employees – Computerworld](https://digitpatrox.com/in-lawsuit-apple-is-accused-of-spying-on-its-employees-computerworld/)
+* [The PlayStation VR2 Is Over 40% Off Right Now After Cyber Monday](https://digitpatrox.com/the-playstation-vr2-is-over-40-off-right-now-after-cyber-monday/)
+* [You Can Play Games on Your Galaxy Watch—Here Are 9 to Try](https://digitpatrox.com/you-can-play-games-on-your-galaxy-watch-here-are-9-to-try/)
+* [Employee accuses Apple of surveilling staff using iCloud](https://digitpatrox.com/employee-accuses-apple-of-surveilling-staff-using-icloud/)
+* [Meta to Face €550 Million Lawsuit in Spain](https://digitpatrox.com/meta-to-face-e550-million-lawsuit-in-spain/)
+* [Google Pixel Tablet 2 specs revealed for allegedly cancelled device](https://digitpatrox.com/google-pixel-tablet-2-specs-revealed-for-allegedly-cancelled-device/)
+* [US shares tips to block hackers behind recent telecom breaches](https://digitpatrox.com/us-shares-tips-to-block-hackers-behind-recent-telecom-breaches/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/pMFXPoiA6Jk9ak6npfoxZR-1200-80.jpg)](https://digitpatrox.com/ransomware-remediation-what-steps-should-your-business-take-for-recovery/)
+* [![](https://cdn.vox-cdn.com/thumbor/NMphWVXKcC4_JVUUqz2auk_dC4E=/0x0:960x540/1200x628/filters:focal(525x286:526x287)/cdn.vox-cdn.com/uploads/chorus_asset/file/25772299/XD_PhantomSinga_GUNSAFE_Final.jpg)](https://digitpatrox.com/ubisoft-shooter-xdefiant-is-shutting-down-and-sending-refunds-to-players/)
     
-    [Ransomware remediation: What steps should your business take for recovery?](https://digitpatrox.com/ransomware-remediation-what-steps-should-your-business-take-for-recovery/)
+    [Ubisoft shooter XDefiant is shutting down and sending refunds to players](https://digitpatrox.com/ubisoft-shooter-xdefiant-is-shutting-down-and-sending-refunds-to-players/)
     
-    50 minutes ago
+    10 minutes ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3616414-0-02838600-1733247172-resized_1599321841-100935594-orig.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/if-you-want-security-start-with-secure-products-computerworld/)
+* [![](https://beebom.com/wp-content/uploads/2024/11/NYT-Connections-Featured.webp?w=1250&quality=75)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-december-4-2024/)
     
-    [If you want security, start with secure products – Computerworld](https://digitpatrox.com/if-you-want-security-start-with-secure-products-computerworld/)
+    [NYT Connections Today: Hints and Answers for December 4, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-december-4-2024/)
     
-    1 hour ago
+    26 minutes ago
     
-* [![](https://lifehacker.com/imagery/articles/01JDAT72QQYDDGKTGZM9X4TETT/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/im-a-certified-personal-trainer-and-these-are-my-favorite-fitness-sales-that-are-still-live/)
+* [![](https://cdn.mos.cms.futurecdn.net/5DigCD8Roic6ropsVohAkh-1200-80.jpg)](https://digitpatrox.com/amazon-ceo-andy-jassy-just-unveiled-a-powerful-new-ai-model-to-compete-with-google-gemini-and-openais-gpt-4/)
     
-    [I’m a Certified Personal Trainer, and These Are My Favorite Fitness Sales That Are Still Live](https://digitpatrox.com/im-a-certified-personal-trainer-and-these-are-my-favorite-fitness-sales-that-are-still-live/)
-    
-    2 hours ago
-    
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/12/Ransomware-gang-says-it-hacked-Goodwill-shut-down-stores-in-Texas.jpg)](https://digitpatrox.com/ransomware-gang-says-it-hacked-goodwill-shut-down-stores-in-texas/)
-    
-    [Ransomware gang says it hacked Goodwill, shut down stores in Texas](https://digitpatrox.com/ransomware-gang-says-it-hacked-goodwill-shut-down-stores-in-texas/)
+    [Amazon CEO Andy Jassy just unveiled a powerful new AI model to compete with Google Gemini and OpenAI’s GPT-4](https://digitpatrox.com/amazon-ceo-andy-jassy-just-unveiled-a-powerful-new-ai-model-to-compete-with-google-gemini-and-openais-gpt-4/)
     
     2 hours ago
     
-* [![](https://pureinfotech.com/wp-content/uploads/2024/12/windows-11-multiple-clocks-hero-mauro-huculak.webp)](https://digitpatrox.com/how-to-add-multiple-time-zone-clocks-on-windows-11/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3616590-0-86643000-1733262885-shutterstock_215339035.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/in-lawsuit-apple-is-accused-of-spying-on-its-employees-computerworld/)
     
-    [How to add multiple time zone clocks on Windows 11](https://digitpatrox.com/how-to-add-multiple-time-zone-clocks-on-windows-11/)
+    [In lawsuit, Apple is accused of spying on its employees – Computerworld](https://digitpatrox.com/in-lawsuit-apple-is-accused-of-spying-on-its-employees-computerworld/)
     
     2 hours ago
+    
+* [![](https://lifehacker.com/imagery/articles/01JDAH3BM8XD1REKBTGNAW8VYP/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/the-playstation-vr2-is-over-40-off-right-now-after-cyber-monday/)
+    
+    [The PlayStation VR2 Is Over 40% Off Right Now After Cyber Monday](https://digitpatrox.com/the-playstation-vr2-is-over-40-off-right-now-after-cyber-monday/)
+    
+    3 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [50 minutes ago
+* [10 minutes ago
     
-    ### Ransomware remediation: What steps should your business take for recovery?](https://digitpatrox.com/ransomware-remediation-what-steps-should-your-business-take-for-recovery/)
-* [1 hour ago
+    ### Ubisoft shooter XDefiant is shutting down and sending refunds to players](https://digitpatrox.com/ubisoft-shooter-xdefiant-is-shutting-down-and-sending-refunds-to-players/)
+* [26 minutes ago
     
-    ### If you want security, start with secure products – Computerworld](https://digitpatrox.com/if-you-want-security-start-with-secure-products-computerworld/)
+    ### NYT Connections Today: Hints and Answers for December 4, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-december-4-2024/)
 * [2 hours ago
     
-    ### I’m a Certified Personal Trainer, and These Are My Favorite Fitness Sales That Are Still Live](https://digitpatrox.com/im-a-certified-personal-trainer-and-these-are-my-favorite-fitness-sales-that-are-still-live/)
+    ### Amazon CEO Andy Jassy just unveiled a powerful new AI model to compete with Google Gemini and OpenAI’s GPT-4](https://digitpatrox.com/amazon-ceo-andy-jassy-just-unveiled-a-powerful-new-ai-model-to-compete-with-google-gemini-and-openais-gpt-4/)
 
 Most Popular Topics
 
-* [September 1, 2024
+* [October 14, 2024
     
-    ### Should You Buy a Samsung Bespoke Fridge?](https://digitpatrox.com/should-you-buy-a-samsung-bespoke-fridge/)
-* [1 week ago
+    ### You Can Get Babbel Language Learning on Sale for $150 Right Now](https://digitpatrox.com/you-can-get-babbel-language-learning-on-sale-for-150-right-now/)
+* [October 14, 2024
     
-    ### How to use Google Gemini on your phone](https://digitpatrox.com/how-to-use-google-gemini-on-your-phone/)
-* [October 28, 2024
+    ### Jetpack fixes critical information disclosure flaw existing since 2016](https://digitpatrox.com/jetpack-fixes-critical-information-disclosure-flaw-existing-since-2016/)
+* [2 weeks ago
     
-    ### 6 top new TV shows to stream this week on Netflix, Disney Plus and more (Oct. 28-Nov. 3)](https://digitpatrox.com/6-top-new-tv-shows-to-stream-this-week-on-netflix-disney-plus-and-more-oct-28-nov-3/)
+    ### DataStax CTO Discusses RAG’s Role in Reducing AI Hallucinations](https://digitpatrox.com/datastax-cto-discusses-rags-role-in-reducing-ai-hallucinations/)
 
 Last Modified Topics
 
-* [2 hours ago
+* [4 hours ago
     
-    ### AWS re:Invent 2024 live: All the news and updates as they happen](https://digitpatrox.com/aws-reinvent-2024-live-all-the-news-and-updates-as-they-happen/)
-* [3 hours ago
+    ### Employee accuses Apple of surveilling staff using iCloud](https://digitpatrox.com/employee-accuses-apple-of-surveilling-staff-using-icloud/)
+* [4 hours ago
     
-    ### Over 600,000 Personal Records Exposed by Data Broker](https://digitpatrox.com/over-600000-personal-records-exposed-by-data-broker/)
-* [3 hours ago
+    ### Meta to Face €550 Million Lawsuit in Spain](https://digitpatrox.com/meta-to-face-e550-million-lawsuit-in-spain/)
+* [4 hours ago
     
-    ### Cyber Monday isn’t over — 35 deals you can still shop for a limited time](https://digitpatrox.com/cyber-monday-isnt-over-35-deals-you-can-still-shop-for-a-limited-time/)
+    ### Google Pixel Tablet 2 specs revealed for allegedly cancelled device](https://digitpatrox.com/google-pixel-tablet-2-specs-revealed-for-allegedly-cancelled-device/)
 
 Most Viewed Topics
 
 * [August 13, 2024
     
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
-* [August 13, 2024
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
+* [August 12, 2024
     
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
+    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
 * [October 2, 2024
     
     ### The best noise-canceling headphones for 2024](https://digitpatrox.com/the-best-noise-canceling-headphones-for-2024/)
