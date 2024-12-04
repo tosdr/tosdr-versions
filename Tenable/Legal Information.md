@@ -290,7 +290,7 @@ Techstrong Research surveyed their community of security, cloud, and DevOps read
 * * *
 
 * [Careers](https://www.tenable.com/careers)
-* [Diversity and inclusion](https://www.tenable.com/about-tenable/diversity-and-inclusion)
+* [Engagement and inclusion](https://www.tenable.com/about-tenable/engagement-and-inclusion)
 
 ![Frost & Sullivan: Frost Radar, Vulnerability Management, 2023](/themes/custom/tenable/images-new/menus/menu-featured-frost-radar.png)
 
@@ -452,7 +452,7 @@ Tenable is named a leading force in vulnerability management and top ranked amon
         * [Subscribe to the blog](https://info.tenable.com/blog-subscription-page.html)
     * Join us
         * [Careers](https://www.tenable.com/careers)
-        * [Diversity and inclusion](https://www.tenable.com/about-tenable/diversity-and-inclusion)
+        * [Engagement and inclusion](https://www.tenable.com/about-tenable/engagement-and-inclusion)
 * Language
     * [English](https://www.tenable.com/?tns_languageOverride=true)
     * [Deutsch](https://de.tenable.com/?tns_languageOverride=true)
