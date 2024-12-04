@@ -52,7 +52,7 @@ Shaw.ca has been written to be clear, concise and accessible to as wide an audie
 
 ### Shaw Terms of Service
 
-[Joint Terms of Service](https://assets.ctfassets.net/tzb4ihmthaev/KRkbVnOHVnOS8mPAEiJZI/662a2d26c241a9a1e8364e52117fd231/Joint_Terms_of_Service_Nov_12_2024.pdf)
+[Shaw Terms of Service and Other Important Information – effective for transactions that are placed on or after Dec. 4, 2024.](https://assets.ctfassets.net/tzb4ihmthaev/6hT7LNfN3cUz3nEgSVnBwX/4f3c26aac23765bcf83c5c537fab7bad/Shaw_Terms_of_Service_and_Other_Important_Information__-_effective_as_of_December_4__2024.pdf)
 
 ### Payment Terms and Conditions
 
@@ -101,13 +101,13 @@ Shaw is operating in accordance with the Federal Privacy Law. Further details on
 
 [Shaw Disney+ Terms and Conditions](https://assets.ctfassets.net/tzb4ihmthaev/5Lz0bxBAP03pWPwqAMQ8uy/542d1d098dae89d2d585bcf0dc403d33/Shaw_Disney_-_Terms_and_Conditions__2_.pdf)
 
-### Acceptable Use Policy - Internet
+### Acceptable Use Policy
 
-[Joint Terms of Service](https://assets.ctfassets.net/tzb4ihmthaev/1laoswxcuLnjSakxvejZju/f88c0a892bb13959465fd57353faeadd/Joint_Terms_of_Service_July_15_2024.pdf#page=16)
+[Acceptable Use Policy - effective as of December 4, 2024](https://assets.ctfassets.net/tzb4ihmthaev/lBmlakCHd1F5wVYgLQeYu/a133bd59d9b6ac4a1db4a6cbb98adb49/Acceptable_Use_Policy_-_effective_as_of_December_4__2024.pdf)
 
-### Acceptable Use Policy - Phone
+### Arbitration Protocol
 
-[Acceptable Use Policy - Phone](https://assets.ctfassets.net/tzb4ihmthaev/2qLG6BbgJcVwUWnFPLaWeM/a60cb634fbdf1ac920dba62d05fd44bf/Acceptable_Use_Policy-Phone_2024.pdf)
+[Arbitration Protocol](https://assets.ctfassets.net/tzb4ihmthaev/5nJ2pWBHbkUzXO2IOtdyiP/808cbb9fbde22bb35e4158d0f060d73f/Shaw_Arbitration_Protocol.pdf)
 
 ### Terms of Use - Shaw Go WiFi
 
