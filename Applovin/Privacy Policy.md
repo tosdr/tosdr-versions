@@ -442,7 +442,7 @@ Please be sure to include your relevant account information in any correspondenc
 
 If you have a customer care issue, please visit [AppLovin Support](https://support.applovin.com/).
 
-![AppLovin icon](/wp-content/themes/applovin/images/icon_white_v2.svg)
+![AppLovin icon](/wp-content/themes/applovin/images/icon_applovin_black.svg)
 
 ###### PRODUCTS
 
