@@ -577,7 +577,7 @@ Please visit [supercell.com/en/disclosure-korea-residents](https://supercell.co
 * [Parent's Guide](https://supercell.com/en/parents/)
 * [Safe and Fair Play Policy](https://supercell.com/en/safe-and-fair-play/)
 * [Other Legal Docs](https://supercell.com/en/our-legal-documents/)
-* [For Media](https://supercell.com/en/for-media/)
+* [Media Center](https://supercell.com/en/media-center/)
 * [Our Domains](https://supercell.com/en/our-domains/)
 * [Manage Cookies](#)
 
