@@ -48,8 +48,6 @@ Privacy Policy
 
 Browse
 
-_Last Updated: Mar 1, 2023_
-
 ### 1 Who we are
 
 1.1          Voxy, Inc. (**Voxy**, **we**, or **us**) welcomes you to www.Voxy.com and any and all platforms, applications or mobile applications offered by Voxy, Inc (the **Site**). This Privacy Policy describes how Voxy collects and receives information about you through the Site and when contracting with corporate customers or providing our English language training and teaching services to end users (the **Services**) and through Voxy’s businesses, including offline and how we use and share your personal data.
