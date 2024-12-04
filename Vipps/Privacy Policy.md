@@ -1,6 +1,5 @@
  [![](/static/vipps_frontend/969785/media/extra-images/vipps-logo.svg) Gå til forsiden](https://www.vipps.no/)
 
-* [Produkter](https://www.vipps.no/produkter-og-tjenester/)
 * [Hjelp](https://www.vipps.no/hjelp/)
 * [Logg inn for bedrift](https://www.vipps.no/logg-inn/)
 * [Bli bedriftskunde](https://www.vipps.no/bli-bedriftskunde/)
@@ -641,11 +640,7 @@ Laget i Norden, med kjærlighet for forenkling
 * [Om Vipps](https://www.vipps.no/om-oss/)
 * [Jobb i Vipps](https://www.vipps.no/om-oss/jobb-hos-oss/)
 * [Gi oss ris eller ros](https://www.vipps.no/om-oss/vi-vil-bli-bedre/)
+
 * [Kontakt oss](https://www.vipps.no/kontakt-oss/)
 * [Personvern og vilkår](https://www.vipps.no/personvern-og-vilkar/)
-
-* [For utviklere og partnere](https://www.vipps.no/developer/)
-* [Kundehistorier](https://www.vipps.no/kundehistorier/)
-* [Markedsmateriell](https://www.vipps.no/markedsmateriell/)
-* [Test produktene våre](https://demo.vipps.no/)
 * [Priser](https://www.vipps.no/alle-priser/)
