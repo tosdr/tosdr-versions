@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/pleidooi-voor-biologische-kankerbestrijding/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/pcsk9-remmers-en-de-idiotie-van-cholesterol-statines/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
