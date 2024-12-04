@@ -12,7 +12,7 @@ Products
 
 ### Create a website
 
-[Website Overview→](https://www.squarespace.com/website-design) [Website Templates→](https://www.squarespace.com/websites/designer-templates) [Design Intelligence
+[Website Overview→](https://www.squarespace.com/website-design) [Website Templates→](https://www.squarespace.com/templates?skipSurvey) [Design Intelligence
 
 New
 
@@ -84,7 +84,7 @@ Products [Templates](https://www.squarespace.com/templates) Resources [Pricing](
 
 ### Create a website
 
-[Website Overview→](https://www.squarespace.com/website-design) [Website Templates→](https://www.squarespace.com/websites/designer-templates) [Design Intelligence
+[Website Overview→](https://www.squarespace.com/website-design) [Website Templates→](https://www.squarespace.com/templates?skipSurvey) [Design Intelligence
 
 New
 
@@ -500,6 +500,7 @@ Data traffic protected by SSL encryption
     * [Security Measures](https://www.squarespace.com/security)
     * [Contact Us](https://www.squarespace.com/contact)
     * [EU Legal](https://www.squarespace.com/imprint)
+    * [SCTA Disclosure](https://www.squarespace.com/imprint)
     
     * [Specific Privacy Notices](https://www.squarespace.com/privacy-specific)
 * Community ↓
