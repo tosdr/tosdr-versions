@@ -370,7 +370,7 @@ Return Policy
 
 SymmetryElectronics.com accepts merchandise returns subject to the terms outlined below and will replace the product or refund your money at your option.
 
-* Contact a Sales Representative at (310) 643-3470 or [email us](https://www.symmetryelectronics.com/contact/) to request a Return Merchandise Authorization (RMA) number prior to returning product.
+* Contact a Sales Representative at (866) 506-8829 or [email us](https://www.symmetryelectronics.com/contact/) to request a Return Merchandise Authorization (RMA) number prior to returning product.
     
 * Claims for defective merchandise must include a test report showing the defect or a detailed description of the defect.
     
@@ -380,7 +380,7 @@ SymmetryElectronics.com accepts merchandise returns subject to the terms outline
     
 * Returned merchandise must be in original packaging and in resalable condition.
     
-* Products returned due to customer error or non delivery may be subject to a 30% restocking charge. Special order and custom items or “Non-Cancelable/Non-Returnable” items are not eligible for return.
+* Products returned due to customer error will be subject to a restocking charge. Special order and custom items or “Non-Cancelable/Non-Returnable” items are not eligible for return.
     
 * Merchandise damaged due to misuse is not eligible for return or refund.
     
