@@ -28,19 +28,15 @@ Capitalized terms used but not defined therein shall have the meanings given to 
 
 **Online Services**
 
-[Unity Gaming Services Additional Terms](https://unity.com/legal/ugs-terms-of-service)
+[Unity Cloud Services Additional Terms](https://unity.com/legal/ugs-terms-of-service)
 
 [Unity DevOps Additional Terms](https://unity.com/legal/terms-of-service/plastic)
-
-[Unity Simulation Service Additional Terms](http://unity3d.com/legal/terms-of-service/unity-simulation)
 
 **Support Services**
 
 [Consulting Services Additional Terms](https://unity.com/legal/terms-of-service/consulting-services)
 
 [Success Services Additional Terms](https://unity.com/legal/terms-of-service/success-plans)
-
-[Bug Submission Additional Terms](https://unity.com/legal/terms-of-service/bugsubmissionadditionalterms)
 
 **Site and Communities**
 
@@ -50,15 +46,7 @@ Capitalized terms used but not defined therein shall have the meanings given to 
 
 **Learning Products & Services**
 
-[Certification Program Additional Terms](https://unity.com/legal/terms-of-service/certification-program)
-
-[Learning Credits Additional Terms](http://unity.com/legal/terms-of-service/learning-credits)
-
-[Learning Partner Instructor-Led Training Additional Terms](http://unity.com/legal/terms-of-service/instructor-led-training)
-
-[Self-Paced Courseware Additional Terms](http://unity.com/legal/terms-of-service/self-paced-courseware)
-
-[Unity Training Workshop Additional Terms](http://unity.com/legal/terms-of-service/onsite-training-workshop)
+[Learning Products & Services Additional Terms](https://unity.com/legal/terms-of-service/learning)
 
 **Private Alphas**
 
