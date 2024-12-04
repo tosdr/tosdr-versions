@@ -16,87 +16,87 @@ GET IT ON
     
     Women's Most Popular
     
-    [Coach Outlet](https://shop.simon.com/collections/store-coach-outlet?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_WomensMostPopular_CoachOutlet)
+    [Coach Outlet](https://shop.simon.com/collections/store-coach-outlet?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_WomensMostPopular_CoachOutlet)
     
-    [Vera Bradley](https://shop.simon.com/collections/store-vera-bradley?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_WomensMostPopular_VeraBradley)
+    [Vera Bradley](https://shop.simon.com/collections/store-vera-bradley?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_WomensMostPopular_VeraBradley)
     
-    [Steve Madden](https://shop.simon.com/collections/store-steve-madden?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_WomensMostPopular_SteveMadden)
+    [Steve Madden](https://shop.simon.com/collections/store-steve-madden?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_WomensMostPopular_SteveMadden)
     
-    [Guess Factory](https://shop.simon.com/collections/store-guess-factory?page=1&utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_WomensMostPopular_GuessFactory)
+    [Guess Factory](https://shop.simon.com/collections/store-guess-factory?page=1&utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_WomensMostPopular_GuessFactory)
     
-    [Solstice Sunglasses](https://shop.simon.com/collections/store-solstice?page=1&utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_WomensMostPopular_Solstice)
+    [Burberry](https://shop.simon.com/collections/luxe-store-burberry?page=1&utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_WomensMostPopular_Burberry)
     
-    [All Best Sellers](https://shop.simon.com/collections/women?page=1&utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_WomensMostPopular_BestSellers)
+    [All Best Sellers](https://shop.simon.com/collections/women?page=1&utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_WomensMostPopular_BestSellers)
     
     Men's Most Popular
     
-    [Nike](https://shop.simon.com/collections/store-nike?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_MensMostPopular_Nike)
+    [Nike](https://shop.simon.com/collections/store-nike?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_MensMostPopular_Nike)
     
-    [Timberland](https://shop.simon.com/collections/store-timberland?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_MensMostPopular_Timberland)
+    [Timberland](https://shop.simon.com/collections/store-timberland?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_MensMostPopular_Timberland)
     
-    [Fossil](https://shop.simon.com/collections/store-fossil?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_MensMostPopular_Fossil)
+    [Fossil](https://shop.simon.com/collections/store-fossil?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_MensMostPopular_Fossil)
     
-    [adidas](https://shop.simon.com/collections/store-adidas?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_MensMostPopular_Adidas)
+    [adidas](https://shop.simon.com/collections/store-adidas?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_MensMostPopular_Adidas)
     
-    [Puma](https://shop.simon.com/collections/store-puma?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_MensMostPopular_Puma)
+    [Puma](https://shop.simon.com/collections/store-puma?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_MensMostPopular_Puma)
     
-    [All Men's Best Sellers](https://shop.simon.com/collections/men?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_MensMostPopular_BestSellers)
+    [All Men's Best Sellers](https://shop.simon.com/collections/men?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_MensMostPopular_BestSellers)
     
     Designer Favorites
     
-    [Etro](https://shop.simon.com/collections/luxe-store-etro?page=1&utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DesignerFavorites_Etro)
+    [Louis Vuitton](https://shop.simon.com/collections/all?Brand=Louis%2520Vuitton&page=1&utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_DesignerFavorites_LouisVuitton)
     
-    [Ferragamo](https://shop.simon.com/collections/luxe-store-salvatore-ferragamo?page=1&utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DesignerFavorites_Ferragamo)
+    [Ferragamo](https://shop.simon.com/collections/luxe-store-salvatore-ferragamo?page=1&utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_DesignerFavorites_Ferragamo)
     
-    [Valentino](https://shop.simon.com/collections/luxe-store-valentino?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DesignerFavorites_Valentino)
+    [Valentino](https://shop.simon.com/collections/luxe-store-valentino?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_DesignerFavorites_Valentino)
     
-    [Tod's](https://shop.simon.com/collections/luxe-store-tods?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DesignerFavorites_Tods)
+    [Tod's](https://shop.simon.com/collections/luxe-store-tods?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_DesignerFavorites_Tods)
     
-    [Tommy Hilfiger](https://shop.simon.com/collections/store-tommy-hilfiger?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DesignerFavorites_TommyH)
+    [Tommy Hilfiger](https://shop.simon.com/collections/store-tommy-hilfiger?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_DesignerFavorites_TommyH)
     
-    [All Designers](https://shop.simon.com/pages/luxe-designers?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DesignerFavorites_ALL)
+    [All Designers](https://shop.simon.com/pages/luxe-designers?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_DesignerFavorites_ALL)
     
     Collections
     
-    [Preloved](https://shop.simon.com/collections/curated-preloved?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_Collections_PreOwned)
+    [Preloved](https://shop.simon.com/collections/curated-preloved?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_Collections_PreOwned)
     
-    [Final Sale](https://shop.simon.com/collections/curated-final-sale?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_Collections_FinalSale)
+    [Final Sale](https://shop.simon.com/collections/curated-final-sale?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_Collections_FinalSale)
     
-    [Best Sellers](https://shop.simon.com/collections/curated-best-sellers?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_Collections_BestSellers)
+    [Best Sellers](https://shop.simon.com/collections/curated-best-sellers?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_Collections_BestSellers)
     
-    [Just In](https://shop.simon.com/collections/curated-just-in?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_Collections_JustIn)
+    [Just In](https://shop.simon.com/collections/curated-just-in?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_Collections_JustIn)
     
-    [Clearance](https://shop.simon.com/collections/curated-clearance?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_Collections_Clearout)
+    [Clearance](https://shop.simon.com/collections/curated-clearance?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_Collections_Clearout)
     
-    [All Collections](https://shop.simon.com/pages/collections?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_Collections_AllCollections)
+    [All Collections](https://shop.simon.com/pages/collections?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_Collections_AllCollections)
     
     Shop by Category
     
-    [Dresses](https://shop.simon.com/collections/women-clothing-dresses?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_ShopbyCategory_Dresses)
+    [Clothing](https://shop.simon.com/collections/all?ProductType=women-clothing,men-clothing?utm_source=PO&utm_medium=Flyout&utm_campaign=PO_ShopbyCategory_Clothing?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_ShopbyCategory_Clothing)
     
-    [Homewares](https://shop.simon.com/pages/home?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_ShopbyCategory_Home)
+    [Shoes](https://shop.simon.com/collections/shoes?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_ShopbyCategory_Shoes)
     
-    [Handbags](https://shop.simon.com/collections/women-handbags?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_ShopbyCategory_Handbags)
+    [Handbags](https://shop.simon.com/collections/women-handbags?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_ShopbyCategory_Handbags)
     
-    [Shoes](https://shop.simon.com/collections/shoes?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_ShopbyCategory_Shoes)
+    [Jewelry](https://shop.simon.com/collections/women-jewelry?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_ShopbyCategory_Jewelry)
     
-    [Jewelry](https://shop.simon.com/collections/women-jewelry?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_ShopbyCategory_Jewelry)
+    [Activewear](https://shop.simon.com/collections/activewear-loungewear?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_ShopbyCategory_Activewear)
     
-    [Coats & Jackets](https://shop.simon.com/collections/curated-all-coats-jackets?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_ShopbyCategory_Coats_Jackets)
+    [Home](https://shop.simon.com/collections/home?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_ShopbyCategory_Home)
     
     Discover More
     
-    [Women](https://shop.simon.com/collections/women?page=1&utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DiscoverMore_Women)
+    [Women](https://shop.simon.com/collections/women?page=1&utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_DiscoverMore_Women)
     
-    [Men](https://shop.simon.com/collections/men?page=1&utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DiscoverMore_Men)
+    [Men](https://shop.simon.com/collections/men?page=1&utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_DiscoverMore_Men)
     
-    [Top Brands](https://shop.simon.com/pages/brands?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DiscoverMore_Brands)
+    [Luxe](https://shop.simon.com/collections/curated-luxe?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_DiscoverMore_ShopLuxe)
     
-    [Livestreams](https://shop.simon.com/pages/live?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DiscoverMore_SPOLIVE)
+    [Top Brands](https://shop.simon.com/pages/brands?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_DiscoverMore_Brands)
     
-    [Luxe](https://shop.simon.com/collections/curated-luxe?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DiscoverMore_ShopLuxe)
+    [Gift Guide](https://shop.simon.com/pages/gift-guide?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_DiscoverMore_GiftGuide)
     
-    [Top Deals](https://shop.simon.com/collections/curated-deals?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DiscoverMore_Deals)
+    [Top Deals](https://shop.simon.com/collections/curated-deals?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_DiscoverMore_Deals)
     
 * [CONTACT US](https://www.simon.com/contact "Contact the Simon Team")
 * 
@@ -122,87 +122,87 @@ Use your location to find centers near you
     
     Women's Most Popular
     
-    [Coach Outlet](https://shop.simon.com/collections/store-coach-outlet?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_WomensMostPopular_CoachOutlet)
+    [Coach Outlet](https://shop.simon.com/collections/store-coach-outlet?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_WomensMostPopular_CoachOutlet)
     
-    [Vera Bradley](https://shop.simon.com/collections/store-vera-bradley?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_WomensMostPopular_VeraBradley)
+    [Vera Bradley](https://shop.simon.com/collections/store-vera-bradley?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_WomensMostPopular_VeraBradley)
     
-    [Steve Madden](https://shop.simon.com/collections/store-steve-madden?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_WomensMostPopular_SteveMadden)
+    [Steve Madden](https://shop.simon.com/collections/store-steve-madden?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_WomensMostPopular_SteveMadden)
     
-    [Guess Factory](https://shop.simon.com/collections/store-guess-factory?page=1&utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_WomensMostPopular_GuessFactory)
+    [Guess Factory](https://shop.simon.com/collections/store-guess-factory?page=1&utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_WomensMostPopular_GuessFactory)
     
-    [Solstice Sunglasses](https://shop.simon.com/collections/store-solstice?page=1&utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_WomensMostPopular_Solstice)
+    [Burberry](https://shop.simon.com/collections/luxe-store-burberry?page=1&utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_WomensMostPopular_Burberry)
     
-    [All Best Sellers](https://shop.simon.com/collections/women?page=1&utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_WomensMostPopular_BestSellers)
+    [All Best Sellers](https://shop.simon.com/collections/women?page=1&utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_WomensMostPopular_BestSellers)
     
     Men's Most Popular
     
-    [Nike](https://shop.simon.com/collections/store-nike?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_MensMostPopular_Nike)
+    [Nike](https://shop.simon.com/collections/store-nike?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_MensMostPopular_Nike)
     
-    [Timberland](https://shop.simon.com/collections/store-timberland?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_MensMostPopular_Timberland)
+    [Timberland](https://shop.simon.com/collections/store-timberland?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_MensMostPopular_Timberland)
     
-    [Fossil](https://shop.simon.com/collections/store-fossil?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_MensMostPopular_Fossil)
+    [Fossil](https://shop.simon.com/collections/store-fossil?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_MensMostPopular_Fossil)
     
-    [adidas](https://shop.simon.com/collections/store-adidas?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_MensMostPopular_Adidas)
+    [adidas](https://shop.simon.com/collections/store-adidas?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_MensMostPopular_Adidas)
     
-    [Puma](https://shop.simon.com/collections/store-puma?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_MensMostPopular_Puma)
+    [Puma](https://shop.simon.com/collections/store-puma?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_MensMostPopular_Puma)
     
-    [All Men's Best Sellers](https://shop.simon.com/collections/men?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_MensMostPopular_BestSellers)
+    [All Men's Best Sellers](https://shop.simon.com/collections/men?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_MensMostPopular_BestSellers)
     
     Designer Favorites
     
-    [Etro](https://shop.simon.com/collections/luxe-store-etro?page=1&utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DesignerFavorites_Etro)
+    [Louis Vuitton](https://shop.simon.com/collections/all?Brand=Louis%2520Vuitton&page=1&utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_DesignerFavorites_LouisVuitton)
     
-    [Ferragamo](https://shop.simon.com/collections/luxe-store-salvatore-ferragamo?page=1&utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DesignerFavorites_Ferragamo)
+    [Ferragamo](https://shop.simon.com/collections/luxe-store-salvatore-ferragamo?page=1&utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_DesignerFavorites_Ferragamo)
     
-    [Valentino](https://shop.simon.com/collections/luxe-store-valentino?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DesignerFavorites_Valentino)
+    [Valentino](https://shop.simon.com/collections/luxe-store-valentino?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_DesignerFavorites_Valentino)
     
-    [Tod's](https://shop.simon.com/collections/luxe-store-tods?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DesignerFavorites_Tods)
+    [Tod's](https://shop.simon.com/collections/luxe-store-tods?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_DesignerFavorites_Tods)
     
-    [Tommy Hilfiger](https://shop.simon.com/collections/store-tommy-hilfiger?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DesignerFavorites_TommyH)
+    [Tommy Hilfiger](https://shop.simon.com/collections/store-tommy-hilfiger?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_DesignerFavorites_TommyH)
     
-    [All Designers](https://shop.simon.com/pages/luxe-designers?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DesignerFavorites_ALL)
+    [All Designers](https://shop.simon.com/pages/luxe-designers?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_DesignerFavorites_ALL)
     
     Collections
     
-    [Preloved](https://shop.simon.com/collections/curated-preloved?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_Collections_PreOwned)
+    [Preloved](https://shop.simon.com/collections/curated-preloved?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_Collections_PreOwned)
     
-    [Final Sale](https://shop.simon.com/collections/curated-final-sale?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_Collections_FinalSale)
+    [Final Sale](https://shop.simon.com/collections/curated-final-sale?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_Collections_FinalSale)
     
-    [Best Sellers](https://shop.simon.com/collections/curated-best-sellers?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_Collections_BestSellers)
+    [Best Sellers](https://shop.simon.com/collections/curated-best-sellers?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_Collections_BestSellers)
     
-    [Just In](https://shop.simon.com/collections/curated-just-in?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_Collections_JustIn)
+    [Just In](https://shop.simon.com/collections/curated-just-in?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_Collections_JustIn)
     
-    [Clearance](https://shop.simon.com/collections/curated-clearance?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_Collections_Clearout)
+    [Clearance](https://shop.simon.com/collections/curated-clearance?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_Collections_Clearout)
     
-    [All Collections](https://shop.simon.com/pages/collections?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_Collections_AllCollections)
+    [All Collections](https://shop.simon.com/pages/collections?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_Collections_AllCollections)
     
     Shop by Category
     
-    [Dresses](https://shop.simon.com/collections/women-clothing-dresses?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_ShopbyCategory_Dresses)
+    [Clothing](https://shop.simon.com/collections/all?ProductType=women-clothing,men-clothing?utm_source=PO&utm_medium=Flyout&utm_campaign=PO_ShopbyCategory_Clothing?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_ShopbyCategory_Clothing)
     
-    [Homewares](https://shop.simon.com/pages/home?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_ShopbyCategory_Home)
+    [Shoes](https://shop.simon.com/collections/shoes?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_ShopbyCategory_Shoes)
     
-    [Handbags](https://shop.simon.com/collections/women-handbags?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_ShopbyCategory_Handbags)
+    [Handbags](https://shop.simon.com/collections/women-handbags?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_ShopbyCategory_Handbags)
     
-    [Shoes](https://shop.simon.com/collections/shoes?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_ShopbyCategory_Shoes)
+    [Jewelry](https://shop.simon.com/collections/women-jewelry?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_ShopbyCategory_Jewelry)
     
-    [Jewelry](https://shop.simon.com/collections/women-jewelry?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_ShopbyCategory_Jewelry)
+    [Activewear](https://shop.simon.com/collections/activewear-loungewear?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_ShopbyCategory_Activewear)
     
-    [Coats & Jackets](https://shop.simon.com/collections/curated-all-coats-jackets?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_ShopbyCategory_Coats_Jackets)
+    [Home](https://shop.simon.com/collections/home?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_ShopbyCategory_Home)
     
     Discover More
     
-    [Women](https://shop.simon.com/collections/women?page=1&utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DiscoverMore_Women)
+    [Women](https://shop.simon.com/collections/women?page=1&utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_DiscoverMore_Women)
     
-    [Men](https://shop.simon.com/collections/men?page=1&utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DiscoverMore_Men)
+    [Men](https://shop.simon.com/collections/men?page=1&utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_DiscoverMore_Men)
     
-    [Top Brands](https://shop.simon.com/pages/brands?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DiscoverMore_Brands)
+    [Luxe](https://shop.simon.com/collections/curated-luxe?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_DiscoverMore_ShopLuxe)
     
-    [Livestreams](https://shop.simon.com/pages/live?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DiscoverMore_SPOLIVE)
+    [Top Brands](https://shop.simon.com/pages/brands?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_DiscoverMore_Brands)
     
-    [Luxe](https://shop.simon.com/collections/curated-luxe?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DiscoverMore_ShopLuxe)
+    [Gift Guide](https://shop.simon.com/pages/gift-guide?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_DiscoverMore_GiftGuide)
     
-    [Top Deals](https://shop.simon.com/collections/curated-deals?utm_source=Simon&utm_medium=Flyout&utm_campaign=PO_DiscoverMore_Deals)
+    [Top Deals](https://shop.simon.com/collections/curated-deals?utm_source=Simon&utm_medium=Flyout&utm_campaign=Simon_DiscoverMore_Deals)
     
 * [Become A Mall Insider](https://www.simon.com/mall-insider "Become a Mall Insider Today")
 * [Contact Us](https://www.simon.com/contact "Contact Us")
