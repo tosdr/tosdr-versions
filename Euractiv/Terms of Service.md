@@ -613,6 +613,8 @@ Most recent
 
 [03-12-2024
 
+EU negotiators secure one-year delay to anti-deforestation rules](https://www.euractiv.com/section/agriculture-food/news/eu-negotiators-secure-one-year-delay-to-anti-deforestation-rules/)[03-12-2024
+
 Hungarian presidency to make last-ditch attempt to adopt conclusions on future CAP](https://www.euractiv.com/section/agriculture-food/news/hungarian-presidency-to-make-last-ditch-attempt-to-adopt-conclusions-on-future-cap/) [03-12-2024
 
 Council adopts recommendations for a smoke free environment with reservations](https://www.euractiv.com/section/health-consumers/news/council-adopts-recommendations-for-a-smoke-free-environment-with-reservations/)[03-12-2024
@@ -629,9 +631,7 @@ Irish election: Final results show centre-right parties’ coalition options](ht
 
 Senator Ted Cruz demands probe into European influence on AI policy](http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2024:newsml_L5N3N40EY:984572914)[03-12-2024
 
-EU political groups agree on new, full-standing health committee](https://www.euractiv.com/section/health-consumers/news/eu-political-groups-agree-on-new-full-standing-health-committee/)[03-12-2024
-
-Bern Committee votes to lower protection status of wolves](https://www.euractiv.com/section/eet/news/bern-committee-votes-to-lower-protection-status-of-wolves/)
+EU political groups agree on new, full-standing health committee](https://www.euractiv.com/section/health-consumers/news/eu-political-groups-agree-on-new-full-standing-health-committee/)
 
 ###### Advertisement
 
