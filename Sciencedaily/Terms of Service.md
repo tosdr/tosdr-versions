@@ -249,11 +249,11 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Vitamin B](https://www.sciencedaily.com/news/health_medicine/vitamin_b/)
-
-[Vitamin D](https://www.sciencedaily.com/news/health_medicine/vitamin_d/)
+[Urology](https://www.sciencedaily.com/news/health_medicine/urology/)
 
 [Eye Care](https://www.sciencedaily.com/news/health_medicine/eye_care/)
+
+[Vitamin B](https://www.sciencedaily.com/news/health_medicine/vitamin_b/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
