@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Do well by doing good”
+“ Tomorrow belongs to those who can hear it coming”
 
-[Benjamin Franklin](http://en.wikipedia.org/wiki/Benjamin_Franklin)
+[David Bowie](http://en.wikipedia.org/wiki/David_Bowie)
 
 [](https://www.adafruit.com/about)
 
