@@ -1,6 +1,6 @@
 ![](https://cdn.prod.website-files.com/63fd0f14411a3a19bd92a6c4/650212a02c4ddb4914fd4e44_Group%201585.svg)![](https://cdn.prod.website-files.com/63fd0f14411a3a19bd92a6c4/64b5d235f54b87b6b7095717_64b2d17fd59d8f1e53b89703_down-arrow%201.svg)
 
-brands
+brands + IP
 
 [![](https://cdn.prod.website-files.com/63fd0f14411a3a61db92a6d8/647269cac7cd7ef4f62942fd_Billboard.svg)
 
@@ -212,35 +212,11 @@ Est.
 
 2015](https://pmc.com/our-brands/latin-american-music-awards)
 
-[![](https://cdn.prod.website-files.com/63fd0f14411a3a61db92a6d8/64c18cf4e4384e97fa6effd4_Rivet.svg)
-
-Est.
-
-2015](https://pmc.com/our-brands/rivet)
-
-[![](https://cdn.prod.website-files.com/63fd0f14411a3a61db92a6d8/64c1a6bb0fcf10503b2cf586_SPY.svg)
-
-Est.
-
-2017](https://pmc.com/our-brands/spy)
-
 [![](https://cdn.prod.website-files.com/63fd0f14411a3a61db92a6d8/6477f4ce51f80b0cd8ec4053_Sportico.svg)
 
 Est.
 
 2020](https://pmc.com/our-brands/sportico)
-
-[![](https://cdn.prod.website-files.com/63fd0f14411a3a61db92a6d8/6477f4d6f1d15468678158db_LA3C.svg)
-
-Est.
-
-2021](https://pmc.com/our-brands/la3c)
-
-[![](https://cdn.prod.website-files.com/63fd0f14411a3a61db92a6d8/65cfc6d30994360c31ed9ebc_FlowSpace_Logo_Nav.svg)
-
-Est.
-
-2023](https://pmc.com/our-brands/flow-space)
 
 [EXPERIENCES](https://pmc.com/experiences)
 
@@ -460,35 +436,11 @@ Est.
 
 2015](https://pmc.com/our-brands/latin-american-music-awards)
 
-[![](https://cdn.prod.website-files.com/63fd0f14411a3a61db92a6d8/64c18cf4e4384e97fa6effd4_Rivet.svg)
-
-Est.
-
-2015](https://pmc.com/our-brands/rivet)
-
-[![](https://cdn.prod.website-files.com/63fd0f14411a3a61db92a6d8/64c1a6bb0fcf10503b2cf586_SPY.svg)
-
-Est.
-
-2017](https://pmc.com/our-brands/spy)
-
 [![](https://cdn.prod.website-files.com/63fd0f14411a3a61db92a6d8/6477f4ce51f80b0cd8ec4053_Sportico.svg)
 
 Est.
 
 2020](https://pmc.com/our-brands/sportico)
-
-[![](https://cdn.prod.website-files.com/63fd0f14411a3a61db92a6d8/6477f4d6f1d15468678158db_LA3C.svg)
-
-Est.
-
-2021](https://pmc.com/our-brands/la3c)
-
-[![](https://cdn.prod.website-files.com/63fd0f14411a3a61db92a6d8/65cfc6d30994360c31ed9ebc_FlowSpace_Logo_Nav.svg)
-
-Est.
-
-2023](https://pmc.com/our-brands/flow-space)
 
 [![](https://cdn.prod.website-files.com/63fd0f14411a3a19bd92a6c4/63fd0f14411a3a24f692a6fe_pmc%20white.svg)](https://pmc.com/)
 
