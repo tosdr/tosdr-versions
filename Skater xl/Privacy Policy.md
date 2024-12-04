@@ -142,7 +142,7 @@ Player Support
 
 [Community Hub](https://steamcommunity.com/app/962730)
 
-![](https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/962730/cfa29291556bc6ec4f9accc641d5e0ce2e1b1fa1.jpg)
+![](https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/962730/cfa29291556bc6ec4f9accc641d5e0ce2e1b1fa1.jpg)
 
 Skater XL - The Ultimate Skateboarding Game
 
@@ -475,8 +475,8 @@ Mostly Positive (47 reviews) ![](https://store.fastly.steamstatic.com/public/sha
 Review Type
 
  All (19,297)  
- Positive (16,608)  
- Negative (2,689)
+ Positive (16,609)  
+ Negative (2,688)
 
 Purchase Type
 
