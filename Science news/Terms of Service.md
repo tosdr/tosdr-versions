@@ -1,10 +1,10 @@
 [Skip to content](#content)
 
-**Subscribe today**
+**Enjoy unlimited access**
 
-Every print subscription comes with full digital access
+Only $2.99 a month
 
-[Subscribe now](https://www.sciencenews.org/subscribe1?key=9MNAVBNA&utm_source=banner&utm_medium=site&utm_campaign=full_digital_access)
+[Subscribe now](https://www.sciencenews.org/subscribe1-digital-monthly?key=9MNAVBNB2&utm_source=banner&utm_medium=site&utm_campaign=full_digital_access)
 
 Menu
 
@@ -120,23 +120,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
     * Recent posts in Life
         --------------------
         
+        * [Ecosystems](https://www.sciencenews.org/topic/ecosystems)
+            
+            ### [New videos reveal the hidden lives of Andean bears](https://www.sciencenews.org/article/new-videos-andean-bears-behavior)
+            
+            By [Sophie Hartley](https://www.sciencenews.org/author/sophie-hartley "Posts by Sophie Hartley")2 hours ago
+            
         * [Life](https://www.sciencenews.org/topic/life)
             
             ### [Here’s how long it would take 100 worms to eat the plastic in one face mask](https://www.sciencenews.org/article/worms-eating-plastic)
             
-            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")9 hours ago
+            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")15 hours ago
             
         * [Animals](https://www.sciencenews.org/topic/animals)
             
             ### [Ethiopian wolves are the first large carnivores found to slurp nectar](https://www.sciencenews.org/article/ethiopia-wolves-carnivore-nectar-pollen)
             
-            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")19 hours ago
-            
-        * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
-            
-            ### [Electronic ‘tattoos’ offer an alternative to electrodes for brain monitoring](https://www.sciencenews.org/article/electronic-tattoos-brain-monitoring)
-            
-            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")December 2, 2024
+            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")December 3, 2024
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
@@ -147,23 +147,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
     * Recent posts in Earth
         ---------------------
         
+        * [Ecosystems](https://www.sciencenews.org/topic/ecosystems)
+            
+            ### [New videos reveal the hidden lives of Andean bears](https://www.sciencenews.org/article/new-videos-andean-bears-behavior)
+            
+            By [Sophie Hartley](https://www.sciencenews.org/author/sophie-hartley "Posts by Sophie Hartley")2 hours ago
+            
         * [Climate](https://www.sciencenews.org/topic/climate)
             
             ### [An unexpected ice collapse hints at worrying changes on the Antarctic coast](https://www.sciencenews.org/article/unexpected-ice-collapse-antarctic-coast)
             
-            By [Douglas Fox](https://www.sciencenews.org/author/douglas-fox "Posts by Douglas Fox")23 hours ago
+            By [Douglas Fox](https://www.sciencenews.org/author/douglas-fox "Posts by Douglas Fox")December 3, 2024
             
         * [Climate](https://www.sciencenews.org/topic/climate)
             
             ### [From electric cars to wildfires, how Trump may affect climate actions](https://www.sciencenews.org/article/trump-affect-climate-actions-research)
             
             By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")November 25, 2024
-            
-        * [Climate](https://www.sciencenews.org/topic/climate)
-            
-            ### [Satellite space junk might wreak havoc on the stratosphere](https://www.sciencenews.org/article/satellite-space-junk-havoc-stratosphere)
-            
-            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")November 22, 2024
             
 * [Physics](https://www.sciencenews.org/topic/physics)
     * [Physics](https://www.sciencenews.org/topic/physics)
@@ -177,7 +177,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Starchy nanofibers shatter the record for world’s thinnest pasta](https://www.sciencenews.org/article/thinnest-pasta-nanofibers)
             
-            By [Skyler Ware](https://www.sciencenews.org/author/skyler-ware "Posts by Skyler Ware")17 hours ago
+            By [Skyler Ware](https://www.sciencenews.org/author/skyler-ware "Posts by Skyler Ware")23 hours ago
             
         * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
             
