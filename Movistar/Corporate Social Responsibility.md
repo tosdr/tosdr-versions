@@ -24,7 +24,7 @@ Hola, 
 
 Mi cuenta 
 
-[Ofertas Cyber Monday](https://www.movistar.es/black-friday "Enlace a Ofertas Black Friday") [miMovistar: Fibra, móvil y TV](https://www.movistar.es/fibra-y-movil/ "Enlace a fibra y movil") [Fibra](https://www.movistar.es/fibra-optica/ "Enlace a Fibra Óptica") [Tarifas móviles](https://www.movistar.es/tarifas-moviles/ "Enlace a Tarifas móviles") [Televisión](https://www.movistar.es/tv/ "Enlace a Televisión") [Móviles y dispositivos](https://www.movistar.es/moviles/ "Enlace a Móviles y dispositivos") [Más servicios](https://www.movistar.es/mas-servicios/ "Enlace a Más servicios")
+[miMovistar: Fibra, móvil y TV](https://www.movistar.es/fibra-y-movil/ "Enlace a fibra y movil") [Fibra](https://www.movistar.es/fibra-optica/ "Enlace a Fibra Óptica") [Tarifas móviles](https://www.movistar.es/tarifas-moviles/ "Enlace a Tarifas móviles") [Televisión](https://www.movistar.es/tv/ "Enlace a Televisión") [Móviles y dispositivos](https://www.movistar.es/moviles/ "Enlace a Móviles y dispositivos") [Alarmas](https://www.movistar.es/alarmas-para-casa/ "Enlace a Más servicios") [Ofertas](https://www.movistar.es/ofertas-movistar/ "Enlace a Más servicios") [Más servicios](https://www.movistar.es/mas-servicios/ "Enlace a Más servicios")
 
 [Autónomos](https://www.movistar.es/autonomos "Enlace a Autónomos")
 
@@ -38,10 +38,6 @@ Ofertas para
 * Centro de seguridad
 
  
-
-[](https://www.movistar.es/black-friday "Ofertas Black Friday")
-
-Ofertas Cyber Monday
 
 [](https://www.movistar.es/fibra-y-movil "Fibra, móvil y TV")
 
@@ -66,6 +62,10 @@ Móviles y dispositivos
 [](https://www.movistar.es/alarmas-para-casa/ "Alarmas")
 
 Alarmas
+
+[](https://www.movistar.es/ofertas-movistar/ "Compramos tu móvil")
+
+Ofertas
 
 [](https://www.movistar.es/compramos-tu-movil/ "Compramos tu móvil")
 
@@ -134,8 +134,6 @@ Tiendas
 [](https://www.movistar.es/atencion-cliente/ayuda "Ayuda")
 
 Ayuda
-
-   Novedad   
 
 Titular de la cuenta
 
@@ -231,10 +229,10 @@ Móvil
 
 Dispositivos
 
-* [Black Friday](https://www.movistar.es/black-friday/ "Black Friday")
+* [Smart TV](https://www.movistar.es/smart-tv/ "Smart TV")
 * [Móviles](https://www.movistar.es/moviles/ "Móviles")
 * [Vender móvil](https://www.movistar.es/compramos-tu-movil/ "Vender móvil")
-* [Cyber Monday](https://www.movistar.es/cyber-monday/ "Cyber Monday")
+* [Tablets](https://www.movistar.es/tablets/ "Tablets")
 * [Gaming](https://www.movistar.es/gaming/ "Gaming")
 
 Más productos Movistar
