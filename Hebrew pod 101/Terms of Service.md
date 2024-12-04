@@ -1,9 +1,5 @@
 [Hallo, Pooh, you're just in time for a little smackerel of something](https://www.hebrewpod101.com/honeypot-do-not-follow)
 
-[![Get 50% Off With The Cyber Monday Sale. Hurry! Ends Soon!](https://cdn.innovativelanguage.com/sns/em/2024/November/CM/HP%20Banners/homepage_web-banner_hebrew.png)](https://www.hebrewpod101.com/cybermonday-lp?src=banner_hp)
-
-[![Get 50% Off With The Cyber Monday Sale. Hurry! Ends Soon!](https://cdn.innovativelanguage.com/sns/em/2024/November/CM/homepage_mob-banner.gif)](https://www.hebrewpod101.com/cybermonday-lp?src=mbanner_hp)
-
 ![Home](/static/images/hebrewpod101/splash/logo-desktop-transparent.svg)
 
 Sign In
