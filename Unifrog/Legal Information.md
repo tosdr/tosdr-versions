@@ -130,4 +130,4 @@ We might update this privacy notice from time to time.
 * [](https://www.facebook.com/unifrog)
 * [](https://www.linkedin.com/company/unifrog-education)
 
-© Unifrog 2024 | Company number: 08231699 | VAT number: 160 4858 06 | uB
+© Unifrog 2024 | Company number: 08231699 | VAT number: 160 4858 06 | uA
