@@ -46,8 +46,6 @@ Thank you!
 
 [Bog Turtle](https://defenders.org/wildlife/bog-turtle)
 
-[Butterflies](https://defenders.org/wildlife/butterflies)
-
 [California Condor](https://defenders.org/wildlife/california-condor)
 
 [Canada Lynx](https://defenders.org/wildlife/canada-lynx)
@@ -89,6 +87,8 @@ Thank you!
 [Mexican Gray Wolf](https://defenders.org/wildlife/mexican-gray-wolf)
 
 [Mice and Rats](https://defenders.org/wildlife/mice-and-rats)
+
+[Monarch Butterfly](https://defenders.org/wildlife/monarch-butterfly)
 
 [North Atlantic Right Whale](https://defenders.org/wildlife/north-atlantic-right-whale)
 
