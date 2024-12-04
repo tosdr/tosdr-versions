@@ -2,8 +2,6 @@
 
 This is a carousel with auto-rotating slides. Use Next and Previous buttons to navigate.
 
-Holiday shopping = check! Take up to 30% off select products. [Terms apply](https://naturesway.com/pages/legal/#Promotions).
-
 [**Bundles**](https://naturesway.com/collections/bundle-save) have landed! Shop curated collections of your favorite products. 
 
 [**Sign up**](#signup) for our mailing list for 20% off your first order. Terms apply.
@@ -35,7 +33,6 @@ Nature's Way
         
     * FEATURED
         
-        * [Black Friday Sale](https://naturesway.com/collections/promotions)
         * [Popular Products](https://naturesway.com/collections/trending-products)
         * [Subscribe & Save](https://naturesway.com/collections/subscribe-save)
         * [Bundle & Save](https://naturesway.com/collections/bundle-save)
@@ -178,7 +175,6 @@ Nature's Way
     
     FEATURED
     
-    * [Black Friday Sale](https://naturesway.com/collections/promotions)
     * [Popular Products](https://naturesway.com/collections/trending-products)
     * [Subscribe & Save](https://naturesway.com/collections/subscribe-save)
     * [Bundle & Save](https://naturesway.com/collections/bundle-save)
@@ -750,10 +746,6 @@ We look at this process as an ongoing effort and continue to work on enhancing t
 ![Reviewed by Allyant for Accessibility](https://cdn.shopify.com/s/files/1/0562/3208/3521/files/Reviewed_by_Allyant_for_Accessibility_Badge_White_240x240.png?v=1665518110)
 
 #### Promotions
-
-Take up to 30% off sitewide for Black Friday Cyber Monday, no code necessary. 
-
-Offer is to receive up to 30% off only on the merchandise displayed on \[[https://naturesway.com/collections/promotions](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Femailview.naturesway.com%2Fe3t%2FCtc%2FGG%2B113%2Fd2ymY-04%2FVX18D78_t1yvW7wJgvl72LRnQW1sXT7r5p51VpMfRfk-3qgyTW7lCdLW6lZ3pxV8C7pr5L3rFyW7P_p995D5dTjW7qJ43t2mwZmZW1Pcysw3DHcsNW3rd6ns7kdw8VW83TnqK14Ygl7V9gSKf2Fdk-GW8FFRRB1t8sWPVDDXXq9czrTgW4Xg1TP429jQqW6XZ7qy1xQR6CW3kZdK_45GfnkW5zHj-G83yMFKW7-C_ff57M8kVW5kkLk322DmBPW2z_tDY3x4GyKW42M6xW782M_DVKCQ969dLtPlW8-wk-L5QnSBLW8Fr9HG1hzD9WW8B1qk93f2LyQMVV6D090DPDW4X0Xxz6LVp4YW48wMpk4QwrGwf8gz-Vq04&data=05%7C02%7Cmeredith.smith%40naturesway.com%7Cbd165a8632de496ab77f08dd12f3fec9%7C75175fd5f77746be9748efc2fa9d2135%7C0%7C0%7C638687561369839156%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=pZcWMaWrE9AN0pvMs3Ui%2FtQ0oMdyci%2B9TaS7zvxDL2c%3D&reserved=0 "https://nam12.safelinks.protection.outlook.com/?url=https%3a%2f%2femailview.naturesway.com%2fe3t%2fctc%2fgg%2b113%2fd2ymy-04%2fvx18d78_t1yvw7wjgvl72lrnqw1sxt7r5p51vpmfrfk-3qgytw7lcdlw6lz3pxv8c7pr5l3rfyw7p_p995d5dtjw7qj43t2mwzmzw1pcysw3dhcsnw3rd6ns7kdw8vw83tnqk14ygl7v9gskf2fdk-gw8ffrrb1t8swpvddxxq9czrtgw4xg1tp429jqqw6xz7qy1xqr6cw3kzdk_45gfnkw5zhj-g83ymfkw7-c_ff57m8kvw5kklk322dmbpw2z_tdy3x4gykw42m6xw782m_dvkcq969dltplw8-wk-l5qnsblw8fr9hg1hzd9ww8b1qk93f2lyqmvv6d090dpdw4x0xxz6lvp4yw48wmpk4qwrgwf8gz-vq04&data=05%7c02%7cmeredith.smith%40naturesway.com%7cbd165a8632de496ab77f08dd12f3fec9%7c75175fd5f77746be9748efc2fa9d2135%7c0%7c0%7c638687561369839156%7cunknown%7ctwfpbgzsb3d8eyjfbxb0eu1hcgkionrydwusilyioiiwljaumdawmcisilaioijxaw4zmiisikfoijoitwfpbcisilduijoyfq%3d%3d%7c0%7c%7c%7c&sdata=pzcwmawre9an0pvms3ui%2ftq0omdyci%2b9tas7zvxdl2c%3d&reserved=0")\]. No code necessary, discounts automatically applied at checkout. Code good from 11/25 at 12:01am CDT to 12/3 at 11:59pm CDT. While Supplies Last. Not valid on applicable taxes or shipping & handling charges. No adjustments on previous purchases. Cannot be combined with other offers. Not valid for cash or cash equivalent. Does not include Integrative Therapeutics, Overstock, Subscribe & Save, or Bundle & Save offers. Offer is subject to change. Exclusions may apply. Void where prohibited. 
 
 Up to 25% off Overstock items
 
@@ -1376,10 +1368,6 @@ Nature’s Way is committed to making our website accessible to all. It’s anot
 We look at this process as an ongoing effort and continue to work on enhancing the accessibility of our site. We’re taking steps and devoting resources to this important endeavor. Please [contact us](https://naturesway.com/pages/contact "contact us") if you have questions, feedback, or suggestions.
 
 ![Reviewed by Allyant for Accessibility](https://cdn.shopify.com/s/files/1/0562/3208/3521/files/Reviewed_by_Allyant_for_Accessibility_Badge_White_240x240.png?v=1665518110)
-
-Take up to 30% off sitewide for Black Friday Cyber Monday, no code necessary. 
-
-Offer is to receive up to 30% off only on the merchandise displayed on \[[https://naturesway.com/collections/promotions](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Femailview.naturesway.com%2Fe3t%2FCtc%2FGG%2B113%2Fd2ymY-04%2FVX18D78_t1yvW7wJgvl72LRnQW1sXT7r5p51VpMfRfk-3qgyTW7lCdLW6lZ3pxV8C7pr5L3rFyW7P_p995D5dTjW7qJ43t2mwZmZW1Pcysw3DHcsNW3rd6ns7kdw8VW83TnqK14Ygl7V9gSKf2Fdk-GW8FFRRB1t8sWPVDDXXq9czrTgW4Xg1TP429jQqW6XZ7qy1xQR6CW3kZdK_45GfnkW5zHj-G83yMFKW7-C_ff57M8kVW5kkLk322DmBPW2z_tDY3x4GyKW42M6xW782M_DVKCQ969dLtPlW8-wk-L5QnSBLW8Fr9HG1hzD9WW8B1qk93f2LyQMVV6D090DPDW4X0Xxz6LVp4YW48wMpk4QwrGwf8gz-Vq04&data=05%7C02%7Cmeredith.smith%40naturesway.com%7Cbd165a8632de496ab77f08dd12f3fec9%7C75175fd5f77746be9748efc2fa9d2135%7C0%7C0%7C638687561369839156%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=pZcWMaWrE9AN0pvMs3Ui%2FtQ0oMdyci%2B9TaS7zvxDL2c%3D&reserved=0 "https://nam12.safelinks.protection.outlook.com/?url=https%3a%2f%2femailview.naturesway.com%2fe3t%2fctc%2fgg%2b113%2fd2ymy-04%2fvx18d78_t1yvw7wjgvl72lrnqw1sxt7r5p51vpmfrfk-3qgytw7lcdlw6lz3pxv8c7pr5l3rfyw7p_p995d5dtjw7qj43t2mwzmzw1pcysw3dhcsnw3rd6ns7kdw8vw83tnqk14ygl7v9gskf2fdk-gw8ffrrb1t8swpvddxxq9czrtgw4xg1tp429jqqw6xz7qy1xqr6cw3kzdk_45gfnkw5zhj-g83ymfkw7-c_ff57m8kvw5kklk322dmbpw2z_tdy3x4gykw42m6xw782m_dvkcq969dltplw8-wk-l5qnsblw8fr9hg1hzd9ww8b1qk93f2lyqmvv6d090dpdw4x0xxz6lvp4yw48wmpk4qwrgwf8gz-vq04&data=05%7c02%7cmeredith.smith%40naturesway.com%7cbd165a8632de496ab77f08dd12f3fec9%7c75175fd5f77746be9748efc2fa9d2135%7c0%7c0%7c638687561369839156%7cunknown%7ctwfpbgzsb3d8eyjfbxb0eu1hcgkionrydwusilyioiiwljaumdawmcisilaioijxaw4zmiisikfoijoitwfpbcisilduijoyfq%3d%3d%7c0%7c%7c%7c&sdata=pzcwmawre9an0pvms3ui%2ftq0omdyci%2b9tas7zvxdl2c%3d&reserved=0")\]. No code necessary, discounts automatically applied at checkout. Code good from 11/25 at 12:01am CDT to 12/3 at 11:59pm CDT. While Supplies Last. Not valid on applicable taxes or shipping & handling charges. No adjustments on previous purchases. Cannot be combined with other offers. Not valid for cash or cash equivalent. Does not include Integrative Therapeutics, Overstock, Subscribe & Save, or Bundle & Save offers. Offer is subject to change. Exclusions may apply. Void where prohibited. 
 
 Up to 25% off Overstock items
 
