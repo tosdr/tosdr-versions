@@ -1221,7 +1221,9 @@ New](https://internxt.com/family)[Pricing](https://internxt.com/pricing)
 
 ### Free Tools
 
-[Byte Converter](https://internxt.com/byte-converter)[Temporary Email](https://internxt.com/temporary-email)[Password Checker](https://internxt.com/password-checker)[File Virus Scanner](https://internxt.com/virus-scanner)[Password Generator](https://internxt.com/password-generator)[File Converter](https://internxt.com/file-converter)[Have I Been Pwned](https://internxt.com/dark-web-monitor)
+[Byte Converter](https://internxt.com/byte-converter)[Temporary Email](https://internxt.com/temporary-email)[Password Checker](https://internxt.com/password-checker)[File Virus Scanner](https://internxt.com/virus-scanner)[Password Generator](https://internxt.com/password-generator)[File Converter](https://internxt.com/file-converter)[Internxt Monitor
+
+New](https://internxt.com/dark-web-monitor)
 
 ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27146%27%20height=%2748%27/%3e)![GDPR Internxt](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
