@@ -196,59 +196,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Enjoying Invoices Online
-> ------------------------
+> Instantaneous, Nicely Designed, Graphical Invoices
+> --------------------------------------------------
 > 
-> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
-> 
-> I have upgraded to the Gold account in order to support you guys!
+> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
 
-Shaun Gartshore
+Henry Venter
 
-![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=03c5d4e7ea9809fc868a0be8b42efeb9183be695210c13996eb4110065876300&c=169214465)  
-Prosper Park
+![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=4d9fd0ef07a1b08941a98ee61dc05ff3de077b11ffa412d6157d443451a899b3&c=126835741)  
+SA Security Brokerz (Pty) Ltd
 
-![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=03c5d4e7ea9809fc868a0be8b42efeb9183be695210c13996eb4110065876300&c=126702758)  
-Gemini-IT Group
-
-![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=03c5d4e7ea9809fc868a0be8b42efeb9183be695210c13996eb4110065876300&c=209031547)  
-OptaServ
-
-![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=03c5d4e7ea9809fc868a0be8b42efeb9183be695210c13996eb4110065876300&c=180750357)  
+![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=4d9fd0ef07a1b08941a98ee61dc05ff3de077b11ffa412d6157d443451a899b3&c=66040315)  
 Safe-Train Consulting (PTY) Ltd
 
-![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=03c5d4e7ea9809fc868a0be8b42efeb9183be695210c13996eb4110065876300&c=158958460)  
-Vplay Grafix
+![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=4d9fd0ef07a1b08941a98ee61dc05ff3de077b11ffa412d6157d443451a899b3&c=44295077)  
+ELLIE'S CLEANING CHICKS
 
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=03c5d4e7ea9809fc868a0be8b42efeb9183be695210c13996eb4110065876300&c=189357016)  
-West Coast Horse Trails
+![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=4d9fd0ef07a1b08941a98ee61dc05ff3de077b11ffa412d6157d443451a899b3&c=1619473)  
+Stories (Pty) Ltd t/a Storietyd
 
-![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=03c5d4e7ea9809fc868a0be8b42efeb9183be695210c13996eb4110065876300&c=79533271)  
-Forgotten Goods (Pty) Ltd
+![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=4d9fd0ef07a1b08941a98ee61dc05ff3de077b11ffa412d6157d443451a899b3&c=136747689)  
+MR Compressors& Industrial Supplies
 
-![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=03c5d4e7ea9809fc868a0be8b42efeb9183be695210c13996eb4110065876300&c=212314877)  
-CBR Verwe/Paints
+![valued client SafeTclip](https://www.invoicesonline.co.za/scripts/image.php?bid=8368&file=logo_300_100&type=&fe=4d9fd0ef07a1b08941a98ee61dc05ff3de077b11ffa412d6157d443451a899b3&c=41034161)  
+SafeTclip
 
-![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=03c5d4e7ea9809fc868a0be8b42efeb9183be695210c13996eb4110065876300&c=72825482)  
-Printo
+![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=4d9fd0ef07a1b08941a98ee61dc05ff3de077b11ffa412d6157d443451a899b3&c=168512824)  
+Salvage Genie
 
-![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=03c5d4e7ea9809fc868a0be8b42efeb9183be695210c13996eb4110065876300&c=44380089)  
-TRACKFORCE (Pty) Ltd
+![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=4d9fd0ef07a1b08941a98ee61dc05ff3de077b11ffa412d6157d443451a899b3&c=91703177)  
+Norton Medical & Consult - Namibia
 
-![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=03c5d4e7ea9809fc868a0be8b42efeb9183be695210c13996eb4110065876300&c=53137495)  
-Sarabi
+![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=4d9fd0ef07a1b08941a98ee61dc05ff3de077b11ffa412d6157d443451a899b3&c=133899493)  
+IYD
 
-![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=03c5d4e7ea9809fc868a0be8b42efeb9183be695210c13996eb4110065876300&c=158766821)  
-LEO DEVELOPMENT GROUP
+![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=4d9fd0ef07a1b08941a98ee61dc05ff3de077b11ffa412d6157d443451a899b3&c=149055987)  
+Tagline Brands
 
-![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=03c5d4e7ea9809fc868a0be8b42efeb9183be695210c13996eb4110065876300&c=174903408)  
-RADIO TYGERBERG 104FM NPC
+![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=4d9fd0ef07a1b08941a98ee61dc05ff3de077b11ffa412d6157d443451a899b3&c=137651486)  
+NIMAWELL
 
-![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=03c5d4e7ea9809fc868a0be8b42efeb9183be695210c13996eb4110065876300&c=103807491)  
-VerdanTech Pty Ltd
+![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=4d9fd0ef07a1b08941a98ee61dc05ff3de077b11ffa412d6157d443451a899b3&c=86169340)  
+MONSTER SECURITY GUARDING
 
-![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=03c5d4e7ea9809fc868a0be8b42efeb9183be695210c13996eb4110065876300&c=88762320)  
-van Schaik rentals
+![valued client Shades of Summer Investments 184cc t/a Junker Construction](https://www.invoicesonline.co.za/scripts/image.php?bid=7053&file=logo_300_100&type=&fe=4d9fd0ef07a1b08941a98ee61dc05ff3de077b11ffa412d6157d443451a899b3&c=66683466)  
+Shades of Summer Investments 184cc t/a Junker Construction
+
+![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=4d9fd0ef07a1b08941a98ee61dc05ff3de077b11ffa412d6157d443451a899b3&c=78437966)  
+Repairs In Motion
+
+![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=4d9fd0ef07a1b08941a98ee61dc05ff3de077b11ffa412d6157d443451a899b3&c=23386097)  
+Xpress Designs
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
