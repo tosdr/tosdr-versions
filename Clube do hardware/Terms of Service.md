@@ -113,7 +113,7 @@ Regras do Clube do Hardware
 **Por [Gabriel Torres](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/ "Ir ao perfil de Gabriel Torres")**  
 10 de novembro de 2021 em [Avisos da administração](https://www.clubedohardware.com.br/forums/forum/9-avisos-da-administra%C3%A7%C3%A3o/)
 
- [Compartilhar](#elShareItem_1073834928_menu)
+ [Compartilhar](#elShareItem_1600540759_menu)
 
 [https://www.clubedohardware.com.br/forums/topic/690576-regras-do-clube-do-hardware/](https://www.clubedohardware.com.br/forums/topic/690576-regras-do-clube-do-hardware/ "Copiar link para a área de transferência")
 
@@ -150,7 +150,7 @@ Posts recomendados
 * Administrador
 * ![](https://www.clubedohardware.com.br/uploads/themes/team_admin.png)
 * * [11k](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/content/ "10.990 posts")
-* 13.121
+* 13.122
 * 16/01/2002
 *  Offline
 
@@ -308,7 +308,7 @@ As regras do Clube do Hardware poderão ser atualizadas periodicamente, sem avis
 
 Este tópico está impedido de receber novas respostas.
 
- [Compartilhar](#elShareItem_1106353959_menu)
+ [Compartilhar](#elShareItem_298502457_menu)
 
 [https://www.clubedohardware.com.br/forums/topic/690576-regras-do-clube-do-hardware/](https://www.clubedohardware.com.br/forums/topic/690576-regras-do-clube-do-hardware/ "Copiar link para a área de transferência")
 
@@ -351,105 +351,105 @@ Mais opções...
 
 * ### Últimos tópicos
     
-    * [![Ygor Ferreira Campos de Sá](https://www.clubedohardware.com.br/uploads/members/monthly_2023_01/imported-photo-1212687.thumb.png.9a015da6de7fdba90b0e2d2220e9ab0d.png)](https://www.clubedohardware.com.br/profile/1212687-ygor-ferreira-campos-de-s%C3%A1/ "Ir ao perfil de Ygor Ferreira Campos de Sá")
+    * [![victorgabomartins](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257345.thumb.png.621c5f181a166b6d9314c1c51307ccc1.png)](https://www.clubedohardware.com.br/profile/1257345-victorgabomartins/ "Ir ao perfil de victorgabomartins")
         
         0
         
-        [As bobinas auxiliares do ventilador possuem a mesma resistência?](https://www.clubedohardware.com.br/forums/topic/1704410-as-bobinas-auxiliares-do-ventilador-possuem-a-mesma-resist%C3%AAncia/?do=getNewComment "As bobinas auxiliares do ventilador possuem a mesma resistência?")
+        [Tenho uma RTX 2070 super e uma placa-mãe h310m,qual processador eu deveria pegar](https://www.clubedohardware.com.br/forums/topic/1704429-tenho-uma-rtx-2070-super-e-uma-placa-m%C3%A3e-h310mqual-processador-eu-deveria-pegar/?do=getNewComment "Tenho uma RTX 2070 super e uma placa-mãe h310m,qual processador eu deveria pegar")
         
-        [Eletrônica](https://www.clubedohardware.com.br/forums/forum/30-eletr%C3%B4nica/ "Eletrônica")  
-        Por [Ygor Ferreira Campos de Sá](https://www.clubedohardware.com.br/profile/1212687-ygor-ferreira-campos-de-s%C3%A1/ "Ir ao perfil de Ygor Ferreira Campos de Sá")  
-        18 minutos atrás
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [victorgabomartins](https://www.clubedohardware.com.br/profile/1257345-victorgabomartins/ "Ir ao perfil de victorgabomartins")  
+        15 minutos atrás
         
-    * [![vitinhouwu](https://www.clubedohardware.com.br/uploads/members/monthly_2024_05/saitaminhafofo3-min.thumb.png.ab3c09306b861f894ecb0200eb78cd94.png)](https://www.clubedohardware.com.br/profile/1166054-vitinhouwu/ "Ir ao perfil de vitinhouwu")
-        
-        1
-        
-        [Um Ryzen 5 5500 é compatível com uma A320M-M.2 PRO V15?](https://www.clubedohardware.com.br/forums/topic/1704409-um-ryzen-5-5500-%C3%A9-compat%C3%ADvel-com-uma-a320m-m2-pro-v15/?do=getNewComment "Um Ryzen 5 5500 é compatível com uma A320M-M.2 PRO V15?")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [vitinhouwu](https://www.clubedohardware.com.br/profile/1166054-vitinhouwu/ "Ir ao perfil de vitinhouwu")  
-        23 minutos atrás
-        
-    * [![Moreira2024](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1252565.thumb.png.06639737c086d84d812042fd39529454.png)](https://www.clubedohardware.com.br/profile/1252565-moreira2024/ "Ir ao perfil de Moreira2024")
+    * [![Mr Viegas](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257344.thumb.jpeg.4e269d882da9cab800b5076813500165.jpeg)](https://www.clubedohardware.com.br/profile/1257344-mr-viegas/ "Ir ao perfil de Mr Viegas")
         
         0
         
-        [Dell m5030 Teste do Chipset da placa-mãe](https://www.clubedohardware.com.br/forums/topic/1704408-dell-m5030-teste-do-chipset-da-placa-m%C3%A3e/?do=getNewComment "Dell m5030 Teste do Chipset da placa-mãe")
+        [Erro your device ran após instalação placa de Vídeo](https://www.clubedohardware.com.br/forums/topic/1704428-erro-your-device-ran-ap%C3%B3s-instala%C3%A7%C3%A3o-placa-de-v%C3%ADdeo/?do=getNewComment "Erro your device ran após instalação placa de Vídeo")
         
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [Moreira2024](https://www.clubedohardware.com.br/profile/1252565-moreira2024/ "Ir ao perfil de Moreira2024")  
-        54 minutos atrás
-        
-    * [![Bruno LeonelM1](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257332.thumb.png.e0f096e94fd9cddac96612da253ef554.png)](https://www.clubedohardware.com.br/profile/1257332-bruno-leonelm1/ "Ir ao perfil de Bruno LeonelM1")
-        
-        1
-        
-        [FANS em 100% A TODO MOMENTO](https://www.clubedohardware.com.br/forums/topic/1704407-fans-em-100-a-todo-momento/?do=getNewComment "FANS em 100% A TODO MOMENTO")
-        
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [Bruno LeonelM1](https://www.clubedohardware.com.br/profile/1257332-bruno-leonelm1/ "Ir ao perfil de Bruno LeonelM1")  
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Mr Viegas](https://www.clubedohardware.com.br/profile/1257344-mr-viegas/ "Ir ao perfil de Mr Viegas")  
         1 hora atrás
         
-    * [![Ygor Ferreira Campos de Sá](https://www.clubedohardware.com.br/uploads/members/monthly_2023_01/imported-photo-1212687.thumb.png.9a015da6de7fdba90b0e2d2220e9ab0d.png)](https://www.clubedohardware.com.br/profile/1212687-ygor-ferreira-campos-de-s%C3%A1/ "Ir ao perfil de Ygor Ferreira Campos de Sá")
+    * [![lucask12234](https://www.clubedohardware.com.br/uploads/members/monthly_2020_10/imported-photo-1043624.thumb.jpeg.df2c9ad06b04395590d7975bcaef14ef.jpeg)](https://www.clubedohardware.com.br/profile/1043624-lucask12234/ "Ir ao perfil de lucask12234")
         
         0
         
-        [Um capacitor de ventilador fraco pode causar o superaquecimento do motor?](https://www.clubedohardware.com.br/forums/topic/1704406-um-capacitor-de-ventilador-fraco-pode-causar-o-superaquecimento-do-motor/?do=getNewComment "Um capacitor de ventilador fraco pode causar o superaquecimento do motor?")
-        
-        [Eletrônica](https://www.clubedohardware.com.br/forums/forum/30-eletr%C3%B4nica/ "Eletrônica")  
-        Por [Ygor Ferreira Campos de Sá](https://www.clubedohardware.com.br/profile/1212687-ygor-ferreira-campos-de-s%C3%A1/ "Ir ao perfil de Ygor Ferreira Campos de Sá")  
-        1 hora atrás
-        
-    * [![LeozGon](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256170.thumb.png.592e7eaaf281209f682bacb061004282.png)](https://www.clubedohardware.com.br/profile/1256170-leozgon/ "Ir ao perfil de LeozGon")
-        
-        6
-        
-        [Fortnite e Minecraft dando gargalo no Ryzen 5 5600g e RTX 4060](https://www.clubedohardware.com.br/forums/topic/1704405-fortnite-e-minecraft-dando-gargalo-no-ryzen-5-5600g-e-rtx-4060/?do=getNewComment "Fortnite e Minecraft dando gargalo no Ryzen 5 5600g e RTX 4060")
-        
-        [Problemas de desempenho](https://www.clubedohardware.com.br/forums/forum/256-problemas-de-desempenho/ "Problemas de desempenho")  
-        Por [LeozGon](https://www.clubedohardware.com.br/profile/1256170-leozgon/ "Ir ao perfil de LeozGon")  
-        1 hora atrás
-        
-    * [![CaioPolato](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256024.thumb.png.8e4c0da57f358a3b56f7799e32a0bad3.png)](https://www.clubedohardware.com.br/profile/1256024-caiopolato/ "Ir ao perfil de CaioPolato")
-        
-        0
-        
-        [Recomendações de periféricos bluetooth](https://www.clubedohardware.com.br/forums/topic/1704404-recomenda%C3%A7%C3%B5es-de-perif%C3%A9ricos-bluetooth/?do=getNewComment "Recomendações de periféricos bluetooth")
-        
-        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
-        Por [CaioPolato](https://www.clubedohardware.com.br/profile/1256024-caiopolato/ "Ir ao perfil de CaioPolato")  
-        1 hora atrás
-        
-    * [![Dudu21](https://www.clubedohardware.com.br/uploads/members/monthly_2023_01/imported-photo-1181410.thumb.png.668a61d39370aa51f91d6e3b79744cb5.png)](https://www.clubedohardware.com.br/profile/1181410-dudu21/ "Ir ao perfil de Dudu21")
-        
-        1
-        
-        [Pc roda o cooler e não liga](https://www.clubedohardware.com.br/forums/topic/1704403-pc-roda-o-cooler-e-n%C3%A3o-liga/?do=getNewComment "Pc roda o cooler e não liga")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Dudu21](https://www.clubedohardware.com.br/profile/1181410-dudu21/ "Ir ao perfil de Dudu21")  
-        2 horas atrás
-        
-    * [![MicaelSEMmi](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256139.thumb.jpeg.78222f44d822826604e9bd712c310268.jpeg)](https://www.clubedohardware.com.br/profile/1256139-micaelsemmi/ "Ir ao perfil de MicaelSEMmi")
-        
-        5
-        
-        [Como trocar somente o windows do HD pro SSD?](https://www.clubedohardware.com.br/forums/topic/1704402-como-trocar-somente-o-windows-do-hd-pro-ssd/?do=getNewComment "Como trocar somente o windows do HD pro SSD?")
-        
-        [Problemas de desempenho](https://www.clubedohardware.com.br/forums/forum/256-problemas-de-desempenho/ "Problemas de desempenho")  
-        Por [MicaelSEMmi](https://www.clubedohardware.com.br/profile/1256139-micaelsemmi/ "Ir ao perfil de MicaelSEMmi")  
-        2 horas atrás
-        
-    * [![Wgf](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257328.thumb.jpeg.c116837344b6833d280cd55fa350b0fa.jpeg)](https://www.clubedohardware.com.br/profile/1257328-wgf/ "Ir ao perfil de Wgf")
-        
-        5
-        
-        [Pc não reconhece o segundo pente de memória RAM porém ele fica quente](https://www.clubedohardware.com.br/forums/topic/1704401-pc-n%C3%A3o-reconhece-o-segundo-pente-de-mem%C3%B3ria-ram-por%C3%A9m-ele-fica-quente/?do=getNewComment "Pc não reconhece o segundo pente de memória RAM porém ele fica quente")
+        [Pc liga mas não da Vídeo](https://www.clubedohardware.com.br/forums/topic/1704426-pc-liga-mas-n%C3%A3o-da-v%C3%ADdeo/?do=getNewComment "Pc liga mas não da Vídeo")
         
         [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
-        Por [Wgf](https://www.clubedohardware.com.br/profile/1257328-wgf/ "Ir ao perfil de Wgf")  
+        Por [lucask12234](https://www.clubedohardware.com.br/profile/1043624-lucask12234/ "Ir ao perfil de lucask12234")  
+        1 hora atrás
+        
+    * [![renato91](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%239f62c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ER%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1250740-renato91/ "Ir ao perfil de renato91")
+        
+        0
+        
+        [Montagem de PC gamer](https://www.clubedohardware.com.br/forums/topic/1704425-montagem-de-pc-gamer/?do=getNewComment "Montagem de PC gamer")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [renato91](https://www.clubedohardware.com.br/profile/1250740-renato91/ "Ir ao perfil de renato91")  
         2 horas atrás
+        
+    * [![MaykonTH.](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257341.thumb.png.2f4ce6bb4722d48af7f5dfc54e94db60.png)](https://www.clubedohardware.com.br/profile/1257341-maykonth/ "Ir ao perfil de MaykonTH.")
+        
+        0
+        
+        [Pilha BIOS da placa-mãe](https://www.clubedohardware.com.br/forums/topic/1704424-pilha-bios-da-placa-m%C3%A3e/?do=getNewComment "Pilha BIOS da placa-mãe")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [MaykonTH.](https://www.clubedohardware.com.br/profile/1257341-maykonth/ "Ir ao perfil de MaykonTH.")  
+        2 horas atrás
+        
+    * [![CaioFTG](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c462b2%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EC%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/671021-caioftg/ "Ir ao perfil de CaioFTG")
+        
+        0
+        
+        [Tela azul em looping PC não liga](https://www.clubedohardware.com.br/forums/topic/1704423-tela-azul-em-looping-pc-n%C3%A3o-liga/?do=getNewComment "Tela azul em looping PC não liga")
+        
+        [Telas azuis](https://www.clubedohardware.com.br/forums/forum/124-telas-azuis/ "Telas azuis")  
+        Por [CaioFTG](https://www.clubedohardware.com.br/profile/671021-caioftg/ "Ir ao perfil de CaioFTG")  
+        3 horas atrás
+        
+    * [![UNARAK](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1252611.thumb.png.e8d6634ec2667f23368cbeb01907deb7.png)](https://www.clubedohardware.com.br/profile/1252611-unarak/ "Ir ao perfil de UNARAK")
+        
+        0
+        
+        [Controle de PS4 desligando a led após conectar no bluetooth/botões trocados](https://www.clubedohardware.com.br/forums/topic/1704422-controle-de-ps4-desligando-a-led-ap%C3%B3s-conectar-no-bluetoothbot%C3%B5es-trocados/?do=getNewComment "Controle de PS4 desligando a led após conectar no bluetooth/botões trocados")
+        
+        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
+        Por [UNARAK](https://www.clubedohardware.com.br/profile/1252611-unarak/ "Ir ao perfil de UNARAK")  
+        3 horas atrás
+        
+    * [![yitu](https://www.clubedohardware.com.br/uploads/members/monthly_2021_10/389e361af50dbc8ed369e87a80bd8ed0.thumb.png.68112d8ccdc12cab300d5e950ad3346e.png)](https://www.clubedohardware.com.br/profile/1115217-yitu/ "Ir ao perfil de yitu")
+        
+        1
+        
+        [minha placa-mãe aguenta essas configurações?](https://www.clubedohardware.com.br/forums/topic/1704421-minha-placa-m%C3%A3e-aguenta-essas-configura%C3%A7%C3%B5es/?do=getNewComment "minha placa-mãe aguenta essas configurações?")
+        
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [yitu](https://www.clubedohardware.com.br/profile/1115217-yitu/ "Ir ao perfil de yitu")  
+        4 horas atrás
+        
+    * [![Anarcus](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256253.thumb.png.cc5c715103e677c240e994a35dfc7c44.png)](https://www.clubedohardware.com.br/profile/1256253-anarcus/ "Ir ao perfil de Anarcus")
+        
+        2
+        
+        [Air Cooler ou Water Cooler?](https://www.clubedohardware.com.br/forums/topic/1704420-air-cooler-ou-water-cooler/?do=getNewComment "Air Cooler ou Water Cooler?")
+        
+        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
+        Por [Anarcus](https://www.clubedohardware.com.br/profile/1256253-anarcus/ "Ir ao perfil de Anarcus")  
+        4 horas atrás
+        
+    * [![1japavlr](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/finalboss.thumb.jpg.f3e2081dcfbca339d5f08ef19e2aa7a6.jpg)](https://www.clubedohardware.com.br/profile/1256832-1japavlr/ "Ir ao perfil de 1japavlr")
+        
+        1
+        
+        [Combo Gabinete com AC ou WC custo/benefício](https://www.clubedohardware.com.br/forums/topic/1704419-combo-gabinete-com-ac-ou-wc-custobenef%C3%ADcio/?do=getNewComment "Combo Gabinete com AC ou WC custo/benefício")
+        
+        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
+        Por [1japavlr](https://www.clubedohardware.com.br/profile/1256832-1japavlr/ "Ir ao perfil de 1japavlr")  
+        4 horas atrás
         
     
 
