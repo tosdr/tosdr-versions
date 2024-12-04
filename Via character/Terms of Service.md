@@ -100,7 +100,7 @@ Menu
 Terms of Service
 ================
 
-LAST UPDATED: 11/1/2021
+LAST UPDATED: 12/04/2024
 
 This website and any related websites (“the Website”) and the services available through the Website are operated by VIA Institute on Character (“VIA,” “Corporation,” Company,” “we,” “our,” and “us”). These Terms of Service constitute a legal agreement between you (“you,” “your,” “the user,” and “the customer”) and VIA. The Website allows you to participate in surveys and questionnaires designed to provide insight into your character strengths (the “Services”).
 
@@ -176,6 +176,15 @@ Disclosure: Some VIA website pages contain affiliate links. We may receive a sma
 * Individuals
 * Organizations
 * Consultants
+
+**Viana Subscription (AI Strengths Coach for Wellbeing):** You can cancel your month-to-month subscription anytime. To do this:
+
+* Log into your VIA account
+* Click on Welcome – Account Settings
+* Click on the Viana – Manage Subscription button
+* If you need assistance contact info@viacharacter.org
+
+Your subscription will end the day after your next billing date. You can continue using Viana until then. To avoid being charged for your next billing period, make sure to cancel at least 48 hours before the next billing date. Viana subscription fees are non-refundable.
 
 ![VIA Institute On Character](https://static.viacharacter.org/web/via_brandmark.png)
 
