@@ -26,7 +26,7 @@
         [The Latest from HQ](https://www.aapd.org/link/40d8c9bbe1d84ae893138470f9496fb1.aspx)
     * ###### Get Involved
         
-        [AAPD Foundation](https://aapdfoundation.org/?dt=638688916585983120)
+        [AAPD Foundation](https://aapdfoundation.org/?dt=638689133178352914)
     
 * [Resources](https://www.aapd.org/resources/resources/) [Toggle expand sub-navigation items](#)
     
@@ -54,10 +54,10 @@
     
     * ###### AAPD 2025
         
-        [Save the Date for AAPD 2025!](https://www.aapd.org/link/256b76569ddf469097733010cbb37812.aspx)
+        [AAPD 2025 Registration Now Open!](https://www.aapd.org/link/256b76569ddf469097733010cbb37812.aspx)
     * ###### Meetings Calendar
         
-        [QE Prep Course Registration Now Open](https://www.aapd.org/link/52997f3a726f4743ae8a49c3c5086f2f.aspx)
+        [Secure Your Spot at the QE Prep Course](https://www.aapd.org/link/52997f3a726f4743ae8a49c3c5086f2f.aspx)
     * ###### little teeth, BIG Smiles & Newly Erupted
         
         [Latest Episodes](https://www.aapd.org/education/Podcasts/aapd-podcast-home/)
