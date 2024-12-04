@@ -24,7 +24,7 @@ Main Menu
 
 [Take Action](#)[Take Action](#)
 
-Terms of service
+Terms of Service
 ================
 
 Welcome to G/O Media, Inc., the owner and operator of Kotaku, Quartz, The Inventory, and The Root (“G/O” and “the Sites”). These terms of service (“Terms”) serve as an agreement between you and G/O (“G/O,” “We” or the “Company”) and governs your access to and use of the Services, Sites, and Applications offered by G/O. Your access to and use of the Sites is conditioned on your acceptance of and compliance with these Terms.
