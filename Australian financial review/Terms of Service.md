@@ -297,7 +297,6 @@ Advertise
 
 ### [The wildest watchmakers in one place: inside Singapore’s watch fair](https://www.afr.com/life-and-luxury/fashion-and-style/the-wildest-watchmakers-in-one-place-inside-singapore-s-watch-fair-20241105-p5ko3i)
 
-* 54 mins ago
 * Bani McSpedden
 
 * ### [Three sliding-doors moments defined ACCC boss Gina Cass-Gottlieb’s life](https://www.afr.com/policy/economy/like-a-gloved-fist-accc-gina-cass-gottlieb-s-supermarket-sweep-20241015-p5kibd)
@@ -326,7 +325,6 @@ Advertise
 
 ### [Complete Christmas menu sorted – from three new cookbooks](https://www.afr.com/life-and-luxury/food-and-wine/complete-christmas-menu-sorted-from-three-new-cookbooks-20241105-p5ko3f)
 
-* 54 mins ago
 * Jill Dupleix
 
 * ### [Seven of the best wellness gifts for Christmas](https://www.afr.com/life-and-luxury/health-and-wellness/seven-of-the-best-wellness-gifts-for-christmas-20241105-p5knxy)
@@ -337,15 +335,15 @@ Advertise
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![Declan Sherman has been an investment banker, a fitness studio owner and a labour hire CEO, but Infragreen is where his real passion lies.](https://static.ffx.io/images/$zoom_0.379%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_694%2C$y_282/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/c0e0c94ff9d0f2aa3e8cdf53aad195fed694f8ca)](https://www.afr.com/companies/energy/billionaire-john-van-lieshout-backs-sustainability-investor-infragreen-20241129-p5kukg)
+[![Paris Neilson (left) and Griffin Theatre Company executive director Julieanne Campbell at Stables Theatre, which a Neilson gift - and a last-minute Canberra grant - has helped save.](https://static.ffx.io/images/$zoom_0.4228%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_649%2C$y_766/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/0354d15813abbdb39633b3eee1aeaf05f0cb29fe)](https://www.afr.com/life-and-luxury/arts-and-culture/how-a-billionaire-and-government-saved-a-key-sydney-theatre-20241129-p5kum8)
 
-### [Billionaire John Van Lieshout backs sustainability investor Infragreen](https://www.afr.com/companies/energy/billionaire-john-van-lieshout-backs-sustainability-investor-infragreen-20241129-p5kukg)
+### [How a billionaire and government saved a key Sydney theatre](https://www.afr.com/life-and-luxury/arts-and-culture/how-a-billionaire-and-government-saved-a-key-sydney-theatre-20241129-p5kum8)
 
-* Yolanda Redrup
+* Michael Bailey
 
-* ### [Australia’s wealthiest women join forces to supercharge philanthropy](https://www.afr.com/wealth/people/australia-s-wealthiest-women-join-forces-to-supercharge-philanthropy-20241127-p5ktt5)
+* ### [Billionaire John Van Lieshout backs sustainability investor Infragreen](https://www.afr.com/companies/energy/billionaire-john-van-lieshout-backs-sustainability-investor-infragreen-20241129-p5kukg)
     
-* ### [One of the few remaining building groups on the ASX hits the gas](https://www.afr.com/companies/infrastructure/one-of-the-few-remaining-building-groups-on-the-asx-hits-the-gas-20241128-p5ku98)
+* ### [Australia’s wealthiest women join forces to supercharge philanthropy](https://www.afr.com/wealth/people/australia-s-wealthiest-women-join-forces-to-supercharge-philanthropy-20241127-p5ktt5)
     
 
 [The Australian Financial Review](https://www.afr.com/)
