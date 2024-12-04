@@ -72,7 +72,7 @@ back to menu
 * [日本語](https://www.lelo.com/ja/privacy-policy)
 * [한국어](https://www.lelo.com/ko/privacy-policy)
 
-CYBER MONDAY: UP TO 60% OFF + GIFT
+CYBER MONDAY: UP TO 50% OFF + GIFT
 
 [SHOP NOW](https://www.lelo.com/black-friday)
 
