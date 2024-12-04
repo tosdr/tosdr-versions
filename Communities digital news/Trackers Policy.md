@@ -26,29 +26,29 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-lee-1-1200x630.jpg)](https://americanwirenews.com/buckle-up-mike-lee-exposes-governments-ponzi-scheme-social-security-grift-in-damning-thread/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-desantis-hegseth-1200x630.jpg)](https://americanwirenews.com/rumor-that-trump-is-considering-replacing-hegseth-with-desantis-for-nomination-gets-front-page-headlines/)
 
-[‘Buckle up!’ Mike Lee exposes government’s ‘Ponzi scheme’ Social Security grift in damning thread](https://americanwirenews.com/buckle-up-mike-lee-exposes-governments-ponzi-scheme-social-security-grift-in-damning-thread/)
+[Rumor that Trump is considering replacing Hegseth with DeSantis for nomination gets front page headlines](https://americanwirenews.com/rumor-that-trump-is-considering-replacing-hegseth-with-desantis-for-nomination-gets-front-page-headlines/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/rf-pexels-laboratory-1200x630.jpg)](https://americanwirenews.com/extensive-house-report-concludes-what-covid-protocol-critics-suspected-all-along/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/pxbay-telework-1200-x-628-1200x630.jpg)](https://americanwirenews.com/biden-admin-locks-in-deal-for-federal-employees-to-work-from-home-through-trump-presidency/)
 
-[Extensive House report concludes what COVID protocol critics suspected all along](https://americanwirenews.com/extensive-house-report-concludes-what-covid-protocol-critics-suspected-all-along/)
+[Biden admin locks in deal for federal employees to work from home through Trump presidency](https://americanwirenews.com/biden-admin-locks-in-deal-for-federal-employees-to-work-from-home-through-trump-presidency/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-jennings-mcgowan-1200x630.jpg)](https://americanwirenews.com/scott-jennings-reaction-to-cnn-panelists-psychotic-excuse-for-hunter-pardon-is-everything/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-trump-memorial-1200x630.jpg)](https://americanwirenews.com/trump-attends-memorial-service-of-three-fallen-motorcycle-deputies-killed-in-palm-beach-county/)
 
-[Scott Jennings’ reaction to CNN panelist’s ‘psychotic’ excuse for Hunter pardon is PRICELESS](https://americanwirenews.com/scott-jennings-reaction-to-cnn-panelists-psychotic-excuse-for-hunter-pardon-is-everything/)
+[Trump attends memorial service of three fallen motorcycle deputies killed in Palm Beach County](https://americanwirenews.com/trump-attends-memorial-service-of-three-fallen-motorcycle-deputies-killed-in-palm-beach-county/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-antic-1200x630.jpg)](https://americanwirenews.com/brilliant-australian-senator-does-the-trump-dance-and-reams-legacy-media/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-aoc-baez-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/dem-who-helped-aocs-rise-says-shes-now-like-the-invisible-woman-in-crime-ridden-district/)
 
-[‘Brilliant!’ Australian senator does the Trump dance and REAMS ‘legacy media’](https://americanwirenews.com/brilliant-australian-senator-does-the-trump-dance-and-reams-legacy-media/)
+[Dem who helped AOC’s rise says she’s now like the invisible woman in crime-ridden district](https://americanwirenews.com/dem-who-helped-aocs-rise-says-shes-now-like-the-invisible-woman-in-crime-ridden-district/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-nypd-1200x630.jpg)](https://americanwirenews.com/over-1000-suspected-illegal-alien-gang-members-receiving-big-perks-from-taxpayers-in-nyc-report/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-pete-hegseth-1200x630.jpg)](https://americanwirenews.com/embattled-trump-nominee-pete-hegseth-his-mother-to-sit-with-fox-news-report/)
 
-[Over 1,000 suspected illegal alien gang members receiving big perks from taxpayers in NYC: report](https://americanwirenews.com/over-1000-suspected-illegal-alien-gang-members-receiving-big-perks-from-taxpayers-in-nyc-report/)
+[Embattled Trump nominee Pete Hegseth, his mother to sit with Fox News: report](https://americanwirenews.com/embattled-trump-nominee-pete-hegseth-his-mother-to-sit-with-fox-news-report/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2023/09/SG-MorningJoeOldBiden-1200-x-628-1200x630.jpg)](https://americanwirenews.com/cruz-mocks-morning-joe-over-mar-a-lago-visit-kissed-a-little-lower-than-the-ring/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-dr.-fauci-1200x630.jpg)](https://americanwirenews.com/dems-defend-fauci-covid-story-rebut-gop-report/)
 
-[Cruz mocks ‘Morning Joe’ over Mar-a-Lago visit: ‘Kissed a little lower than’ the ring](https://americanwirenews.com/cruz-mocks-morning-joe-over-mar-a-lago-visit-kissed-a-little-lower-than-the-ring/)
+[Dems defend Fauci, COVID story, rebut GOP report](https://americanwirenews.com/dems-defend-fauci-covid-story-rebut-gop-report/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-moskowitz-1200x630.jpg)](https://americanwirenews.com/first-dem-joins-doge-caucus-but-his-initial-recommendation-has-some-worried/)
 
@@ -58,9 +58,9 @@ Search for:
 
 [McConnell blasts ‘partisan Democrat’ judges who rescinded retirement plans after Trump’s victory](https://americanwirenews.com/mcconnell-blasts-partisan-democrat-judges-who-rescinded-retirement-plans-after-trumps-victory/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-willis-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-mark-jack-liz-split-1200-x-628-1200x630.jpg)
 
-### Trump prosecutor Fani Willis loses again as Georgia’s longest running trial ends with acquittals](https://americanwirenews.com/trump-prosecutor-fani-willis-loses-again-as-georgias-longest-running-trial-ends-with-acquittals/)
+### Dems now calling for Biden to start issuing preemptive pardons](https://americanwirenews.com/dems-now-calling-for-biden-to-start-issuing-preemptive-pardons/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
