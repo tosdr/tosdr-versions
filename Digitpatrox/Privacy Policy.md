@@ -20,16 +20,16 @@ Wednesday, December 4 2024
 
 Latest
 
-* [Ubisoft shooter XDefiant is shutting down and sending refunds to players](https://digitpatrox.com/ubisoft-shooter-xdefiant-is-shutting-down-and-sending-refunds-to-players/)
-* [NYT Connections Today: Hints and Answers for December 4, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-december-4-2024/)
-* [Amazon CEO Andy Jassy just unveiled a powerful new AI model to compete with Google Gemini and OpenAI’s GPT-4](https://digitpatrox.com/amazon-ceo-andy-jassy-just-unveiled-a-powerful-new-ai-model-to-compete-with-google-gemini-and-openais-gpt-4/)
-* [In lawsuit, Apple is accused of spying on its employees – Computerworld](https://digitpatrox.com/in-lawsuit-apple-is-accused-of-spying-on-its-employees-computerworld/)
-* [The PlayStation VR2 Is Over 40% Off Right Now After Cyber Monday](https://digitpatrox.com/the-playstation-vr2-is-over-40-off-right-now-after-cyber-monday/)
-* [You Can Play Games on Your Galaxy Watch—Here Are 9 to Try](https://digitpatrox.com/you-can-play-games-on-your-galaxy-watch-here-are-9-to-try/)
-* [Employee accuses Apple of surveilling staff using iCloud](https://digitpatrox.com/employee-accuses-apple-of-surveilling-staff-using-icloud/)
-* [Meta to Face €550 Million Lawsuit in Spain](https://digitpatrox.com/meta-to-face-e550-million-lawsuit-in-spain/)
-* [Google Pixel Tablet 2 specs revealed for allegedly cancelled device](https://digitpatrox.com/google-pixel-tablet-2-specs-revealed-for-allegedly-cancelled-device/)
-* [US shares tips to block hackers behind recent telecom breaches](https://digitpatrox.com/us-shares-tips-to-block-hackers-behind-recent-telecom-breaches/)
+* [Cloudflare’s developer domains increasingly abused by threat actors](https://digitpatrox.com/cloudflares-developer-domains-increasingly-abused-by-threat-actors/)
+* [Walmart bought Vizio – The Verge](https://digitpatrox.com/walmart-bought-vizio-the-verge/)
+* [Game of Thrones Spin-off Series ‘A Knight of the Seven Kingdoms’ Gets 2025 Release Window](https://digitpatrox.com/game-of-thrones-spin-off-series-a-knight-of-the-seven-kingdoms-gets-2025-release-window/)
+* [UK underestimates threat from hostile states, says new NCSC head](https://digitpatrox.com/uk-underestimates-threat-from-hostile-states-says-new-ncsc-head/)
+* [US expands curbs on China’s AI memory and chip tools, raising supply chain concerns](https://digitpatrox.com/us-expands-curbs-on-chinas-ai-memory-and-chip-tools-raising-supply-chain-concerns/)
+* [This Ember Smart Mug Keeps Me Caffeinated, and It’s 27% Off After Cyber Monday](https://digitpatrox.com/this-ember-smart-mug-keeps-me-caffeinated-and-its-27-off-after-cyber-monday/)
+* [Today’s NYT Connections Hints and Answer for December 3 (#541)](https://digitpatrox.com/todays-nyt-connections-hints-and-answer-for-december-3-541/)
+* [Shopify is your complete solution for building and running an online store](https://digitpatrox.com/shopify-is-your-complete-solution-for-building-and-running-an-online-store/)
+* [Which One Will Save You More Customers?](https://digitpatrox.com/which-one-will-save-you-more-customers/)
+* [Arsenal vs Man Utd live stream: How to watch Premier League game online and on TV](https://digitpatrox.com/arsenal-vs-man-utd-live-stream-how-to-watch-premier-league-game-online-and-on-tv/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://cdn.vox-cdn.com/thumbor/NMphWVXKcC4_JVUUqz2auk_dC4E=/0x0:960x540/1200x628/filters:focal(525x286:526x287)/cdn.vox-cdn.com/uploads/chorus_asset/file/25772299/XD_PhantomSinga_GUNSAFE_Final.jpg)](https://digitpatrox.com/ubisoft-shooter-xdefiant-is-shutting-down-and-sending-refunds-to-players/)
+* [![](https://www.bleepstatic.com/content/hl-images/2020/10/06/cloudflare-ddos.jpg)](https://digitpatrox.com/cloudflares-developer-domains-increasingly-abused-by-threat-actors/)
     
-    [Ubisoft shooter XDefiant is shutting down and sending refunds to players](https://digitpatrox.com/ubisoft-shooter-xdefiant-is-shutting-down-and-sending-refunds-to-players/)
+    [Cloudflare’s developer domains increasingly abused by threat actors](https://digitpatrox.com/cloudflares-developer-domains-increasingly-abused-by-threat-actors/)
     
-    10 minutes ago
+    27 minutes ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/11/NYT-Connections-Featured.webp?w=1250&quality=75)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-december-4-2024/)
+* [![](https://cdn.vox-cdn.com/thumbor/dncqECPt-iRLiCp4qKe1ayiGJ9s=/0x0:1920x1080/1200x628/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/25772193/vizio_tv_on_wall.jpg)](https://digitpatrox.com/walmart-bought-vizio-the-verge/)
     
-    [NYT Connections Today: Hints and Answers for December 4, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-december-4-2024/)
+    [Walmart bought Vizio – The Verge](https://digitpatrox.com/walmart-bought-vizio-the-verge/)
     
-    26 minutes ago
+    44 minutes ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/5DigCD8Roic6ropsVohAkh-1200-80.jpg)](https://digitpatrox.com/amazon-ceo-andy-jassy-just-unveiled-a-powerful-new-ai-model-to-compete-with-google-gemini-and-openais-gpt-4/)
+* [![](https://beebom.com/wp-content/uploads/2024/12/a-knight-of-the-seven-kingdoms.jpg)](https://digitpatrox.com/game-of-thrones-spin-off-series-a-knight-of-the-seven-kingdoms-gets-2025-release-window/)
     
-    [Amazon CEO Andy Jassy just unveiled a powerful new AI model to compete with Google Gemini and OpenAI’s GPT-4](https://digitpatrox.com/amazon-ceo-andy-jassy-just-unveiled-a-powerful-new-ai-model-to-compete-with-google-gemini-and-openais-gpt-4/)
+    [Game of Thrones Spin-off Series ‘A Knight of the Seven Kingdoms’ Gets 2025 Release Window](https://digitpatrox.com/game-of-thrones-spin-off-series-a-knight-of-the-seven-kingdoms-gets-2025-release-window/)
     
-    2 hours ago
+    60 minutes ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3616590-0-86643000-1733262885-shutterstock_215339035.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/in-lawsuit-apple-is-accused-of-spying-on-its-employees-computerworld/)
+* [![](https://cdn.mos.cms.futurecdn.net/4GzLubqEAJTg2BP2ggzwvG-1200-80.jpg)](https://digitpatrox.com/uk-underestimates-threat-from-hostile-states-says-new-ncsc-head/)
     
-    [In lawsuit, Apple is accused of spying on its employees – Computerworld](https://digitpatrox.com/in-lawsuit-apple-is-accused-of-spying-on-its-employees-computerworld/)
+    [UK underestimates threat from hostile states, says new NCSC head](https://digitpatrox.com/uk-underestimates-threat-from-hostile-states-says-new-ncsc-head/)
     
-    2 hours ago
+    3 hours ago
     
-* [![](https://lifehacker.com/imagery/articles/01JDAH3BM8XD1REKBTGNAW8VYP/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/the-playstation-vr2-is-over-40-off-right-now-after-cyber-monday/)
+* [![](https://www.cio.com/wp-content/uploads/2024/12/3616135-0-34805300-1733240679-china_us_chip_semiconductor-100944587-orig.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/us-expands-curbs-on-chinas-ai-memory-and-chip-tools-raising-supply-chain-concerns/)
     
-    [The PlayStation VR2 Is Over 40% Off Right Now After Cyber Monday](https://digitpatrox.com/the-playstation-vr2-is-over-40-off-right-now-after-cyber-monday/)
+    [US expands curbs on China’s AI memory and chip tools, raising supply chain concerns](https://digitpatrox.com/us-expands-curbs-on-chinas-ai-memory-and-chip-tools-raising-supply-chain-concerns/)
     
     3 hours ago
     
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [10 minutes ago
+* [27 minutes ago
     
-    ### Ubisoft shooter XDefiant is shutting down and sending refunds to players](https://digitpatrox.com/ubisoft-shooter-xdefiant-is-shutting-down-and-sending-refunds-to-players/)
-* [26 minutes ago
+    ### Cloudflare’s developer domains increasingly abused by threat actors](https://digitpatrox.com/cloudflares-developer-domains-increasingly-abused-by-threat-actors/)
+* [44 minutes ago
     
-    ### NYT Connections Today: Hints and Answers for December 4, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-december-4-2024/)
-* [2 hours ago
+    ### Walmart bought Vizio – The Verge](https://digitpatrox.com/walmart-bought-vizio-the-verge/)
+* [60 minutes ago
     
-    ### Amazon CEO Andy Jassy just unveiled a powerful new AI model to compete with Google Gemini and OpenAI’s GPT-4](https://digitpatrox.com/amazon-ceo-andy-jassy-just-unveiled-a-powerful-new-ai-model-to-compete-with-google-gemini-and-openais-gpt-4/)
+    ### Game of Thrones Spin-off Series ‘A Knight of the Seven Kingdoms’ Gets 2025 Release Window](https://digitpatrox.com/game-of-thrones-spin-off-series-a-knight-of-the-seven-kingdoms-gets-2025-release-window/)
 
 Most Popular Topics
 
-* [October 14, 2024
+* [August 21, 2024
     
-    ### You Can Get Babbel Language Learning on Sale for $150 Right Now](https://digitpatrox.com/you-can-get-babbel-language-learning-on-sale-for-150-right-now/)
-* [October 14, 2024
+    ### Apple Vision Pro fails to ignite business interest – Computerworld](https://digitpatrox.com/apple-vision-pro-fails-to-ignite-business-interest-computerworld/)
+* [October 29, 2024
     
-    ### Jetpack fixes critical information disclosure flaw existing since 2016](https://digitpatrox.com/jetpack-fixes-critical-information-disclosure-flaw-existing-since-2016/)
-* [2 weeks ago
+    ### Cape Cod Academy notifies 800 people of data breach claimed by ransomware gang](https://digitpatrox.com/cape-cod-academy-notifies-800-people-of-data-breach-claimed-by-ransomware-gang/)
+* [September 28, 2024
     
-    ### DataStax CTO Discusses RAG’s Role in Reducing AI Hallucinations](https://digitpatrox.com/datastax-cto-discusses-rags-role-in-reducing-ai-hallucinations/)
+    ### Researchers Are Creating AI Scientists, and It’s Going Better Than Expected](https://digitpatrox.com/researchers-are-creating-ai-scientists-and-its-going-better-than-expected/)
 
 Last Modified Topics
 
 * [4 hours ago
     
-    ### Employee accuses Apple of surveilling staff using iCloud](https://digitpatrox.com/employee-accuses-apple-of-surveilling-staff-using-icloud/)
+    ### Today’s NYT Connections Hints and Answer for December 3 (#541)](https://digitpatrox.com/todays-nyt-connections-hints-and-answer-for-december-3-541/)
 * [4 hours ago
     
-    ### Meta to Face €550 Million Lawsuit in Spain](https://digitpatrox.com/meta-to-face-e550-million-lawsuit-in-spain/)
+    ### Shopify is your complete solution for building and running an online store](https://digitpatrox.com/shopify-is-your-complete-solution-for-building-and-running-an-online-store/)
 * [4 hours ago
     
-    ### Google Pixel Tablet 2 specs revealed for allegedly cancelled device](https://digitpatrox.com/google-pixel-tablet-2-specs-revealed-for-allegedly-cancelled-device/)
+    ### Which One Will Save You More Customers?](https://digitpatrox.com/which-one-will-save-you-more-customers/)
 
 Most Viewed Topics
 
 * [August 13, 2024
     
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
-* [August 12, 2024
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
+* [August 11, 2024
     
-    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [October 2, 2024
     
     ### The best noise-canceling headphones for 2024](https://digitpatrox.com/the-best-noise-canceling-headphones-for-2024/)
