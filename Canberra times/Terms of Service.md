@@ -28,7 +28,7 @@ SectionsMy Region
 
 [Community](https://www.canberratimes.com.au/community/)
 
-[Things to do](https://www.canberratimes.com.au/whats-on/things-to-do/)[Food & Wine](https://www.canberratimes.com.au/whats-on/food-wine/)[Competitions](https://www.canberratimes.com.au/whats-on/competitions/)[Social photos](https://www.canberratimes.com.au/community/photos/)
+[Things to do](https://www.canberratimes.com.au/whats-on/things-to-do/)[Competitions](https://www.canberratimes.com.au/whats-on/competitions/)[Social photos](https://www.canberratimes.com.au/community/photos/)
 
 [Entertainment](https://www.canberratimes.com.au/entertainment/)
 
