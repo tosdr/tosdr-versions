@@ -1,6 +1,6 @@
-**Fellow Patriot:** The voluntary financial generosity of supporters like _you_ keeps our hard-hitting analysis coming. Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_0&utm_medium=web&utm_source=patriotpost.us) today. Thank you for your support! —Nate Jackson, Managing Editor
+**Patriots:** For over 26 years, your generosity has made it possible to offer The Patriot Post without a subscription fee to military personnel, students, and those with limited means. Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us) today.
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_0&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -114,26 +114,26 @@ Last Updated: November 15, 2011.
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/112502-not-anymore-2024-12-03)
+     [](https://patriotpost.us/memes/112521-the-list-2024-12-04)
 
 * [More Memes >](https://patriotpost.us/memes)
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34600)
+     [](https://patriotpost.us/cartoons/34608)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
+*      [The Babylon Bee 10 Drastic Changes Kash Patel Will Make To FBI](https://patriotpost.us/opinion/112536-10-drastic-changes-kash-patel-will-make-to-fbi-2024-12-04)
+*      [Star Parker Democratic Party Monopoly on the Black Vote Is Over](https://patriotpost.us/opinion/112519-democratic-party-monopoly-on-the-black-vote-is-over-2024-12-04)
+*      [Ian Haworth Joe Biden’s Legacy: Lies, Chaos and Blood](https://patriotpost.us/opinion/112518-joe-bidens-legacy-lies-chaos-and-blood-2024-12-04)
+*      [Tim Graham The Press Still Pretends the Justice Department Is Pristine](https://patriotpost.us/opinion/112517-the-press-still-pretends-the-justice-department-is-pristine-2024-12-04)
+*      [John Stossel Stone Age Ports](https://patriotpost.us/opinion/112516-stone-age-ports-2024-12-04)
+*      [Betsy McCaughey End the Sanctuary-for-Migrants Madness](https://patriotpost.us/opinion/112515-end-the-sanctuary-for-migrants-madness-2024-12-04)
+*      [Gary Bauer Trump & Trudeau](https://patriotpost.us/opinion/112514-trump-and-trudeau-2024-12-04)
 *      [Rich Lowry The End of a Scam](https://patriotpost.us/opinion/112520-the-end-of-a-scam-2024-12-03)
-*      [The Babylon Bee Biden Forced To Issue Another Pardon After Hunter Commits 17 More Crimes](https://patriotpost.us/opinion/112493-biden-forced-to-issue-another-pardon-after-hunter-commits-17-more-crimes-2024-12-03)
-*      [Christine Flowers Criminals in Cribs: The Crazy Attempt to Ban Birthright Citizenship](https://patriotpost.us/opinion/112491-criminals-in-cribs-the-crazy-attempt-to-ban-birthright-citizenship-2024-12-03)
-*      [Gary Bauer Joe Pardons Joe](https://patriotpost.us/opinion/112484-joe-pardons-joe-2024-12-03)
-*      [Salena Zito The American Tradition of the Gingerbread House Comes Alive in Bedford](https://patriotpost.us/opinion/112487-the-american-tradition-of-the-gingerbread-house-comes-alive-in-bedford-2024-12-03)
-*      [Victor Joecks Women Shouldn’t Be in Combat Roles](https://patriotpost.us/opinion/112486-women-shouldnt-be-in-combat-roles-2024-12-03)
-*      [Stephen Moore Trump Should Call for a New American Patriotism](https://patriotpost.us/opinion/112485-trump-should-call-for-a-new-american-patriotism-2024-12-03)
-*      [Cal Thomas Institutions vs. We the people](https://patriotpost.us/opinion/112471-institutions-vs-we-the-people-2024-12-03)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -147,11 +147,15 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[The Web's First and Foremost Conservative News Digest](https://patriotpost.us/alexander/2810)
+[Wear Your Patriotism on Your Sleeve
+
+ 
+
+Shop Now](https://patriotpostshop.com/)
 
 ### The Foundation
 
-“He who permits himself to tell a lie once, finds it much easier to do it a second and a third time, till at length it becomes habitual.” —Thomas Jefferson (1785)
+“Equal laws protecting equal rights; the best guarantee of loyalty and love of country.” —James Madison (1820)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
