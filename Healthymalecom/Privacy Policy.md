@@ -77,7 +77,7 @@ We reserve the right to modify at any moment any telephone number or short code 
 
 You agree, to the extent permissible by applicable law, that we shall have no liability for any failed, delayed, or misdirected delivery of any information transmitted over the Service, any inaccuracies in such information, and/or any action you may or may not take in reliance on the information or Service.
 
-Regarding our SMS marketing service, we respect your privacy and the information you consent to share. Your information is used to send you text notifications (for your order, including abandoned checkout reminders), text marketing offers, and transactional messages, such as our requests for reviews. Except for messaging partners, opt-in data and consent for text messaging will not be shared with any third parties for the purpose of enabling and managing our text messaging program.
+Regarding our SMS marketing service, we respect your privacy and the information you consent to share. Your information is used to send you text notifications (for your order, including abandoned checkout reminders), text marketing offers, and transactional messages, such as our requests for reviews. Opt-in data and consent for text messaging will not be shared with any third parties for the purpose of marketing and managing our text messaging program.
 
 8 marketing SMS and or MMs messages per month. Reply STOP to cancel, HELP for help. Msg & data rates may apply. Terms & privacy:
 
