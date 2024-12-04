@@ -20,6 +20,7 @@
     * [![](~/media/ECG/1105media/brands/tdwi.ashx)](https://tdwi.org/)
     * [![](~/media/ECG/1105media/brands/techmentorevents.ashx)](https://1105media.com/pages/ecg.aspx#techmentorevents)
     * [![](~/media/ECG/1105media/brands/thejournal.ashx)](https://1105media.com/pages/ecg.aspx#thejournal)
+    * [![](~/media/ECG/1105media/brands/virtcon.ashx)](https://1105media.com/pages/ecg.aspx#virtcon)
     * [![](~/media/ECG/1105media/brands/virtualizationreview.ashx)](https://1105media.com/pages/ecg.aspx#virtualizationreview)
     * [![](~/media/ECG/1105media/brands/visualstudiolive.ashx)](https://1105media.com/pages/ecg.aspx#visualstudiolive)
     * [![](~/media/ECG/1105media/brands/visualstudiomagazine.ashx)](https://1105media.com/pages/ecg.aspx#visualstudiomagazine)
