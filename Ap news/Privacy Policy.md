@@ -158,7 +158,7 @@ Menu
         
     * [Lifestyle](https://apnews.com/lifestyle)
         
-        * [Back to school](https://apnews.com/hub/back-to-school)
+        * [2024 Holiday gift guide](https://apnews.com/projects/gift-guides-2024-holiday-shopping/)
         * [Food & Recipes](https://apnews.com/hub/recipes)
         * [Gardening](https://apnews.com/hub/gardening)
         * [Homes](https://apnews.com/hub/homes)
@@ -330,7 +330,7 @@ Submit Search
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
-    * [Back to school](https://apnews.com/hub/back-to-school)
+    * [2024 Holiday gift guide](https://apnews.com/projects/gift-guides-2024-holiday-shopping/)
     * [Food & Recipes](https://apnews.com/hub/recipes)
     * [Gardening](https://apnews.com/hub/gardening)
     * [Homes](https://apnews.com/hub/homes)
@@ -340,7 +340,7 @@ Submit Search
     
     SECTIONS
     
-    [Back to school](https://apnews.com/hub/back-to-school) [Food & Recipes](https://apnews.com/hub/recipes) [Gardening](https://apnews.com/hub/gardening) [Homes](https://apnews.com/hub/homes) [Travel](https://apnews.com/hub/travel) [Fashion](https://apnews.com/hub/fashion) [Pets](https://apnews.com/hub/pets)
+    [2024 Holiday gift guide](https://apnews.com/projects/gift-guides-2024-holiday-shopping/) [Food & Recipes](https://apnews.com/hub/recipes) [Gardening](https://apnews.com/hub/gardening) [Homes](https://apnews.com/hub/homes) [Travel](https://apnews.com/hub/travel) [Fashion](https://apnews.com/hub/fashion) [Pets](https://apnews.com/hub/pets)
     
 * [Religion](https://apnews.com/religion)
     
