@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/vaccinaties-gezondheid/zweden-verplichte-vaccinaties-on-grondwettelijk/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/de-gouden-sleutel/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
