@@ -1294,8 +1294,8 @@ Students and employees are reminded that many legal sources of content are avail
 
 Related Information
 
-* [Apply Now | Submit Your Application Online –...](https://myhomepage.waldenu.edu/Walden/contact-us)
-* [Alumni Resources](https://www.waldenu.edu/alumni/resources)
+* [An Accredited University Since 1990](https://www.waldenu.edu/about/accreditation)
+* [Academic and Student Resources Help Center](https://www.waldenu.edu/help-center/academic-and-student-resources)
 * [Petitions, Appeals, Grievances, and Complaints](https://academics.waldenu.edu/handbook/student-expectations/petitions-appeals)
 
 ![w background](/themes/custom/wal_base_2024/images/W.png)
