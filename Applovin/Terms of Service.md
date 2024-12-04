@@ -250,7 +250,7 @@ The governing law and venue applicable to this EULA, as well as the resolution o
 
 This EULA incorporates by reference the miscellaneous provisions set forth in the AppLovin [Terms of Use Agreement](https://www.applovin.com/terms/).
 
-![AppLovin icon](/wp-content/themes/applovin/images/icon_white_v2.svg)
+![AppLovin icon](/wp-content/themes/applovin/images/icon_applovin_black.svg)
 
 ###### PRODUCTS
 
