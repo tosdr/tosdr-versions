@@ -95,68 +95,6 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Days of Praise
-
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/understanding-word-god)
-
-[Understanding the Word of God](https://www.icr.org/article/understanding-word-god/)
-
-“So they read in the book in the law of God distinctly, and gave the sense, and caused them to understand the reading.” (Nehemiah 8:8) Most...
-
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
-
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/identifying-antichrists)
-
-[Identifying Antichrists](https://www.icr.org/article/identifying-antichrists/)
-
-“Little children, it is the last time: and as ye have heard that antichrist shall come, even now are there many antichrists; whereby we...
-
-BY: [HENRY M. MORRIS III, D.MIN.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=34)
-
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/similitude-god)
-
-[The Similitude of God](https://www.icr.org/article/similitude-god/)
-
-“Therewith bless we God, even the Father; and therewith curse we men, which are made after the similitude of God.” (James 3:9) Here...
-
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
-
-Shop Related Products
-
-[](https://store.icr.org/.html)
-
-$
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10474441/file.jpg)
-
-The Beginning of the World](https://store.icr.org/dr-henry-morris-the-beginning-of-the-world.html)
-
-$10.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/951057/file.jpg)
-
-The Henry Morris Study Bible - Calfskin Leather](https://store.icr.org/dr-henry-morris-the-henry-morris-study-bible-calfs.html)
-
-$119.99
-
-$139.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/32690/file.jpg)
-
-The Henry Morris Study Bible - Leather](https://store.icr.org/dr-henry-morris-the-henry-morris-study-bible-leath.html)
-
-$79.99
-
-$94.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/32640/file.jpg)
-
-The Genesis Flood, 50th Anniversary Edition](https://store.icr.org/dr-henry-morris-the-genesis-flood-50th-anniversary.html)
-
-$12.99
-
-$16.99
-
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
