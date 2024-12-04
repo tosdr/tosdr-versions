@@ -373,7 +373,7 @@ Program Description:** By subscribing to the U.S. Army SMS Recruitment, you will
 **  
 Cancellation and Opt-Out:** You can opt out or cancel your consent to receive SMS messages at any time. Just text "STOP" to the short code number. Once you send "STOP", we may send you an SMS reply to confirm that you have been unsubscribed, and you will no longer receive SMS messages from us. If you wish to re-subscribe in the future, you can sign up again as you did initially.  
 **  
-Support:** If you experience any issues with the messaging program, reply with the keyword "HELP" to the short code number for assistance, or contact our support team at support@aemo.goarmy.com.
+Support:** If you experience any issues with the messaging program, reply with the keyword "HELP" to the short code number for assistance, or contact our support team at [support@aemo.goarmy.com](http://support@aemo.goarmy.com/).
 
   
 You acknowledge and agree the Cancellation/Opt-Out and Support methods are reasonable to revoke consent for SMS messages.  
