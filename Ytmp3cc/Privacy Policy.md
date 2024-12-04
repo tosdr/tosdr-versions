@@ -1,6 +1,6 @@
-[![YTMP3](/logo.svg)](https://ytmp3.cc/en-YDa7/)
+[![YTMP3](/logo.svg)](https://ytmp3.cc/en-4AUu/)
 
-[Home](https://ytmp3.cc/en-YDa7/)[Add-on](https://ytmp3.cc/add-on-1/)[FAQ](https://ytmp3.cc/faq-1/)
+[Home](https://ytmp3.cc/en-4AUu/)[Add-on](https://ytmp3.cc/add-on-1/)[FAQ](https://ytmp3.cc/faq-1/)
 
 Privacy Policy
 ==============
