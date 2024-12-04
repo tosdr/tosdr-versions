@@ -207,6 +207,28 @@ Menü
     ===
     
 
+[BreakingNews
+
+Im Morgengrauen: GSG9 zerschlägt Schleuser-Netzwerk +++ Asylheim in Essen umstellt
+
+Im Morgengrauen: GSG9 zerschlägt Schleuser-Netzwerk +++ Asylheim in Essen umstellt
+
+Im Morgengrauen: GSG9 zerschlägt Schleuser-Netzwerk +++ Asylheim in Essen umstellt
+
+Im Morgengrauen: GSG9 zerschlägt Schleuser-Netzwerk +++ Asylheim in Essen umstellt
+
+Im Morgengrauen: GSG9 zerschlägt Schleuser-Netzwerk +++ Asylheim in Essen umstellt
+
+Im Morgengrauen: GSG9 zerschlägt Schleuser-Netzwerk +++ Asylheim in Essen umstellt
+
+Im Morgengrauen: GSG9 zerschlägt Schleuser-Netzwerk +++ Asylheim in Essen umstellt
+
+Im Morgengrauen: GSG9 zerschlägt Schleuser-Netzwerk +++ Asylheim in Essen umstellt
+
+Im Morgengrauen: GSG9 zerschlägt Schleuser-Netzwerk +++ Asylheim in Essen umstellt
+
+Im Morgengrauen: GSG9 zerschlägt Schleuser-Netzwerk +++ Asylheim in Essen umstellt](https://www.bild.de/news/inland/razzia-in-deutschland-und-frankreich-gsg9-gegen-schleuser-im-einsatz-674ff11003ce23009ba62d7b)
+
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
  AGB: Nutzungsbedingungen für die digitalen Angebote von BILD
