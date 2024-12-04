@@ -210,29 +210,13 @@ Welcome to our Newest Members!
 
 Testimonials
 
-> Linux plays an important role at TomTom as the core of all our Portable Navigation Devices. We believe that by becoming an Open Invention Network licensee, we encourage Linux development and foster innovation in a technical community that benefits everyone.  
+> We recognize the value in shared innovation, a fundamental characteristic of open source communities. In addition to joining OIN, Square is one of the founders of the Crypto Open Patent Alliance (COPA), a collaborative consortium in which members pledge not to use their crypto technology patents, except for defensive purposes. Our participation in the OIN community demonstrates our commitment to support collaborative technology development.
 
-Peter SpoursDirector of IPTomTom
+Max SillsCounsel at Square and General Manager of COPA
 
-> Linux, and more broadly open source software, is a foundational technology in the desktop, mobile, networking, cloud and embedded computing environments. We are committed to open solutions that promote advances in all of the sectors that depend on advanced x86 and ARM platforms. Joining OIN is another way we are demonstrating our commitment to open innovation and collaboration.  
+> Embecosm has joined OIN, an industry consortium with an ever-growing patent pool that facilitates cross-licensing, for mutual defense against those who would use patents against the Linux ecosystem. All members are protected, even companies like Embecosm which bring no patents to the table. I don’t like the world we are in, but at least Embecosm is now in a stronger position to protect free software.  
 
-Richard BrownVP MarketingVIA Technologies
-
-> As a leader in the development of intelligent automobiles, Daimler is committed to offering the highest-quality products across our portfolio. By joining the Open Invention Network, we are demonstrating our continued commitment to innovation, and supporting it with patent non-aggression in Linux.  
-
-Ralf LambertiDirector Intellectual Property - Trends & InnovationDaimler
-
-> Flex is proud to join OIN and help further the goals of the open source community. In our position spanning many industries, we are sensitive to the negative impact that the aggressive assertion of patents can have on innovation, and how excessive lawsuits can significantly dampen opportunities for collaboration, especially within the open source community. We are pleased to be an active participant in the effort to protect Linux and related open source technologies from the risk of patent litig… [Read more](https://openinventionnetwork.com/testimonial/flex/ "Complete testimonial by John Ritsick")
-
-John RitsickVP of Legal and Chief Intellectual Property OfficerFlex
-
-> Spurious claims from Patent Assertion Entities divert resources and investment away from true innovation and collaboration. We also recognize that a modern approach to technology development and innovation requires a level playing field around use of open source software. With membership of LOT and OIN, we are pleased to contribute to and extend the growing global community working together to reduce the PAE threat and lower barriers to use of open source technologies.  
-
-Lee BraineManaging Director, Chief Technology OfficeBarclays
-
-> _Having OpenStack in the core of our product, FishOS,_  _we highly appreciate the value and importance of shared knowledge, experience, and technology of open source communities. Joining OIN emphasizes our commitment to developing and distributing open source technology. Thanks to expertise, software companies can mitigate the global patent risk to open source software like FishOS for all the market players – developers, vendors, customers, and end-users._
-
-Kenneth TanCEO, Sardina Systems
+Jeremy BennettFounder and Chief ExecutiveEmbecosm
 
 > Infosys is actively taking open source, and open source based products, to all our enterprise customers, and so we are extremely excited to become part of OIN, and we encourage others to join OIN as well to support this very important initiative.  
 
@@ -242,13 +226,29 @@ Navin BudhirajaSVP, Head of Architecture & TechnologyInfosys
 
 Heather MeekerPartnerO'Melveny & Myers
 
-> Linux is the largest undertaking of shared innovation in our planet’s history. The OSS community has written and shared billions of lines of code that have transformed the way businesses operate and consumers live. We congratulate OIN for its 15 years, during which it has provided a protective shield against patent aggression. We encourage all open source contributors and users to join OIN and demonstrate their commitment to a safe environment for continued growth in Linux and other OSS proje… [Read more](https://openinventionnetwork.com/testimonial/jim-zemlin-the-linux-foundation/ "Complete testimonial by Jim Zemlin")
+> With the Industrial Internet of Things (IIOT) reshaping what is possible in industrial settings — improving productivity, enhancing operational efficiency and increasing customer choice — we view Linux and other open source projects as key enablers in the IIOT. The success of the IIOT is predicated on the ability to connect and manage widely distributed sensors and devices across numerous vertical industries and compute the data effectively on an industrial scale.  
 
-Jim ZemlinExecutive DirectorThe Linux Foundation
+Peter KohlschmidtCTOMoxa
 
-> Since its inception 15 years ago, OIN has provided unprecedented protection to enable the incredible growth and adoption of Linux and other related open source software around the world. As the OIN community has grown to over 3,000 members and the Linux definition has matured, that protection has only grown stronger. IBM and Red Hat have been two of the leading proponents and drivers of Linux and open source software for over 20 years and have been founding members of OIN since its inception.… [Read more](https://openinventionnetwork.com/testimonial/ken-king-openpower-ibm/ "Complete testimonial by Ken King")
+> More than 70% of D-Link’s networking and communication solutions have implemented open source software since the beginning phase of research and development. We have and will continue to advocate for OSS and patent non-aggression, and we look forward to making our contributions to the OIN community to encourage innovation.  
 
-Ken KingGeneral ManagerOpenPower at IBM
+Mark ChenPresidentD-Link
+
+> Linux is a critical enabler of Guest-Tek’s systems as it helps the company to provide its industry leading solutions to the hospitality industry. By becoming an Open Invention Network licensee, we encourage ongoing Linux development which ensures the continued improvement of our technology and services. This relationship will be very beneficial for Guest-Tek and our customers and partners worldwide.  
+
+Arnon LevyPresident & CEOGuest-Tek
+
+> UnionPay focuses on Fintech innovation and is committed to building an open platform that provides integrated payment services with global influence. Under the frame of legal and regulatory compliance, we are pleased to provide service and conduct active cooperation. We look forward to working with OIN and community members to protect our global business and the open source projects that encourage innovation.  
+
+UnionPayIntellectual Property ManagerUnionPay
+
+> At Rakuten, our businesses continue to evolve as we address new market opportunities. Because of this, we are a user and strong advocate of open source software. We are building the first 100% fully virtualized mobile network, enabling us to scale rapidly and offer the best Quality-of-Service (QoS) available. By joining OIN, we are demonstrating our commitment to Open Source Software (OSS) and supporting it with a pledge of patent non-aggression.  
+
+Tareq AminCAO, Group Executive Vice PresidentRakuten, Inc.
+
+> We view OIN as one of the key methods through which open source leaders and innovators can deter patent aggression. We are committed to freedom of action in open source, and have noted OIN’s efforts to actively defend and enable the Linux ecosystem.  
+
+Jane SilberCEOCanonical
 
 [![Open Invention Network](https://openinventionnetwork.com/wp-content/uploads/2024/01/oin-website-logo.png)](https://openinventionnetwork.com/)
 
