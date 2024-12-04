@@ -35,11 +35,11 @@
         * [5G Ausbau](https://www.telekom.de/netz/mobilfunk-netzausbau "5G Ausbau")
         * [Grünes Netz](https://www.telekom.de/ueber-das-unternehmen/green-magenta?wt_mc=ii_sososoxx_navi-mobilfunk-netz-gruenes-netz "Grünes Netz")
     *   ![Favoriten](https://www.telekom.de/resources/images/974624/ratings-default.svg)![Favoriten](https://www.telekom.de/resources/images/974624/ratings-default.svg) Ich möchte... ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)  
-        * [ins Kundencenter](https://www.telekom.de/mein-kundencenter?wt_mc=ii_sososoxx_navi-mobilfunk-ich-moechte-ins-kundencenter "ins Kundencenter")
-        * [Vertrag verlängern](https://www.telekom.de/unterwegs/vertragsverlaengerung?wt_mc=ii_sososoxx_navi-mobilfunk-ich-moechte-vertrag-verlaengern "Vertrag verlängern")
+        * [ins Kundencenter](https://www.telekom.de/mein-magenta-kundencenter?wt_mc=ii_sososoxx_navi-mobilfunk-ich-moechte-ins-kundencenter "ins Kundencenter")
+        * [Vertrag verlängern](https://www.telekom.de/mein-magenta-kundencenter/vertraege?wt_mc=ii_sososoxx_navi-mobilfunk-ich-moechte-vertrag-verlaengern "Vertrag verlängern")
         * [Tarif wechseln](https://www.telekom.de/unterwegs/vertragsverlaengerung?wt_mc=ii_sososoxx_navi-mobilfunk-ich-moechte-tarif-wechseln "Tarif wechseln")
-        * [Rechnungen einsehen](https://www.telekom.de/mein-kundencenter/rechnung-zahlung?wt_mc=ii_sososoxx_navi-mobilfunk-ich-moechte-rechnungen-einsehen "Rechnungen einsehen")
-        * [Auftragsstatus einsehen](https://www.telekom.de/unterwegs/lieferstatus "Auftragsstatus einsehen")
+        * [Rechnungen einsehen](https://www.telekom.de/mein-magenta-kundencenter/zahlungen?wt_mc=ii_sososoxx_navi-mobilfunk-ich-moechte-rechnungen-einsehen "Rechnungen einsehen")
+        * [Auftragsstatus einsehen](https://www.telekom.de/mein-magenta-kundencenter/auftragsstatus "Auftragsstatus einsehen")
         * [Handy verkaufen](https://www.telekom.de/unterwegs/smartphones-und-tablets/handy-verkaufen "Handy verkaufen")
     
       ![Schließen](https://www.telekom.de/resources/images/1080216/close.svg)![Schließen](https://www.telekom.de/resources/images/1080218/close-hover.svg) Menü schließen
@@ -55,7 +55,7 @@
     *   ![Geräte](https://www.telekom.de/resources/images/974628/internet-geraete.svg)![Geräte](https://www.telekom.de/resources/images/974628/internet-geraete.svg) Geräte ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)  
         * [WLAN & Router](https://www.telekom.de/zuhause/geraete-und-zubehoer/wlan-und-router?wt_mc=ii_sososoxx_navi-internet-geraete-wlan-router "WLAN & Router")
         * [Festnetztelefone](https://www.telekom.de/zuhause/geraete-und-zubehoer/festnetz-telefone "Festnetztelefone")
-        * [Smart Home Geräte](https://shop.telekom.de/smart-home "Smart Home Geräte")
+        * [Smart Home Geräte](https://www.telekom.de/zuhause/magenta-smarthome "Smart Home Geräte")
     *   ![Vernetztes Zuhause](https://www.telekom.de/resources/images/974634/internet-vernetztes-zuhause.svg)![Vernetztes Zuhause](https://www.telekom.de/resources/images/974634/internet-vernetztes-zuhause.svg) Heimvernetzung ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)  
         * [WLAN Pakete](https://www.telekom.de/festnetz/heimvernetzung/wlan-pakete "WLAN Pakete")
         * [WLAN Optimierung](https://www.telekom.de/festnetz/heimvernetzung/wlan-optimierung "WLAN Optimierung")
@@ -68,12 +68,12 @@
         * [Glasfaserausbau](https://www.telekom.de/netz/glasfaser/glasfaserausbau "Glasfaserausbau")
         * [Grünes Netz](https://www.telekom.de/ueber-das-unternehmen/green-magenta?wt_mc=ii_sososoxx_navi-internet-netz-gruenes-netz "Grünes Netz")
     *   ![Favoriten](https://www.telekom.de/resources/images/974624/ratings-default.svg)![Favoriten](https://www.telekom.de/resources/images/974624/ratings-default.svg) Ich möchte... ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)  
-        * [ins Kundencenter](https://www.telekom.de/mein-kundencenter?wt_mc=ii_sososoxx_navi-internet-ich-moechte-ins-kundencenter "ins Kundencenter")
+        * [ins Kundencenter](https://www.telekom.de/mein-magenta-kundencenter?wt_mc=ii_sososoxx_navi-internet-ich-moechte-ins-kundencenter "ins Kundencenter")
         * [Tarif wechseln](https://www.telekom.de/tarifwechsel/tarifaenderung "Tarif wechseln")
-        * [Rechnung einsehen](https://www.telekom.de/mein-kundencenter/rechnung-zahlung?wt_mc=ii_sososoxx_navi-internet-ich-moechte-rechnungen-einsehen "Rechnung einsehen")
+        * [Rechnung einsehen](https://www.telekom.de/mein-magenta-kundencenter/zahlungen?wt_mc=ii_sososoxx_navi-internet-ich-moechte-rechnungen-einsehen "Rechnung einsehen")
         * [Umzug beauftragen](https://www.telekom.de/tarifwechsel/tarifaenderung?skip=move "Umzug beauftragen")
         * [zur Telekom wechseln](https://www.telekom.de/hilfe/zur-telekom-wechseln "zur Telekom wechseln")
-        * [Auftragsstatus einsehen](https://www.telekom.de/kundencenter/auftragsstatus?wt_mc=ii_sososoxx_navi-internet-ich-moechte-auftragsstatus-einsehen "Auftragsstatus einsehen")
+        * [Auftragsstatus einsehen](https://www.telekom.de/mein-magenta-kundencenter/auftragsstatus?wt_mc=ii_sososoxx_navi-internet-ich-moechte-auftragsstatus-einsehen "Auftragsstatus einsehen")
         * [schneller surfen](https://www.telekom.de/tarifwechsel/tarifaenderung?skip=dp "schneller surfen")
         * [TV buchen](https://www.telekom.de/magenta-tv/tarife-und-optionen/magenta-tv-mit-internet-festnetz?wt_mc=ii_sososoxx_navi-internet-ich-moechte-tv-buchen "TV buchen")
     
@@ -107,10 +107,10 @@
         * [TV-Receiver](https://www.telekom.de/zuhause/geraete-und-zubehoer/media-receiver "TV-Receiver")
         * [WLAN & Router](https://www.telekom.de/zuhause/geraete-und-zubehoer/wlan-und-router?wt_mc=ii_sososoxx_navi-tv-geraete-wlan-router "WLAN & Router")
     *   ![Favoriten](https://www.telekom.de/resources/images/974624/ratings-default.svg)![Favoriten](https://www.telekom.de/resources/images/974624/ratings-default.svg) Ich möchte... ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)  
-        * [ins Kundencenter](https://www.telekom.de/mein-kundencenter?wt_mc=ii_sososoxx_navi-tv-ich-moechte-ins-kundencenter "ins Kundencenter")
-        * [Rechnungen einsehen](https://www.telekom.de/mein-kundencenter/rechnung-zahlung?wt_mc=ii_sososoxx_navi-tv-ich-moechte-rechnungen-einsehen "Rechnungen einsehen")
+        * [ins Kundencenter](https://www.telekom.de/mein-magenta-kundencenter?wt_mc=ii_sososoxx_navi-tv-ich-moechte-ins-kundencenter "ins Kundencenter")
+        * [Rechnungen einsehen](https://www.telekom.de/mein-magenta-kundencenter/zahlungen?wt_mc=ii_sososoxx_navi-tv-ich-moechte-rechnungen-einsehen "Rechnungen einsehen")
         * [Tarif wechseln](https://www.telekom.de/tarifwechsel/tarifaenderung "Tarif wechseln")
-        * [Auftragsstatus einsehen](https://www.telekom.de/kundencenter/auftragsstatus?wt_mc=ii_sososoxx_navi-tv-ich-moechte-auftragsstatus-einsehen "Auftragsstatus einsehen")
+        * [Auftragsstatus einsehen](https://www.telekom.de/mein-magenta-kundencenter/auftragsstatus?wt_mc=ii_sososoxx_navi-tv-ich-moechte-auftragsstatus-einsehen "Auftragsstatus einsehen")
         * [schneller surfen](https://www.telekom.de/tarifwechsel/tarifaenderung?skip=dp "schneller surfen")
     
       ![Schließen](https://www.telekom.de/resources/images/1080216/close.svg)![Schließen](https://www.telekom.de/resources/images/1080218/close-hover.svg) Menü schließen
@@ -133,7 +133,7 @@
         * [Für gewerbliches Eigentum](https://www.telekom.de/netz/glasfaser/glasfaser-gewerbe "Für gewerbliches Eigentum")
         * [Für Immobilienwirtschaft](https://www.telekom.de/netz/glasfaser/glasfaser-immobilienwirtschaft "Für Immobilienwirtschaft")
     *   ![Favoriten](https://www.telekom.de/resources/images/974624/ratings-default.svg)![Favoriten](https://www.telekom.de/resources/images/974624/ratings-default.svg) Ich möchte... ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)  
-        * [ins Kundencenter](https://www.telekom.de/mein-kundencenter?wt_mc=ii_sososoxx_navi-glasfaser-ich-moechte-ins-kundencenter "ins Kundencenter")
+        * [ins Kundencenter](https://www.telekom.de/mein-magenta-kundencenter?wt_mc=ii_sososoxx_navi-glasfaser-ich-moechte-ins-kundencenter "ins Kundencenter")
         * [Verfügbarkeit prüfen](https://www.telekom.de/netz/glasfaser?wt_mc=ii_sososoxx_navi-glasfaser-ich-moechte-verfuegbarkeit-pruefen "Verfügbarkeit prüfen")
         * [Glasfaser-Bestellstatus überprüfen](https://glasfaser.telekom.de/kundencenter "Glasfaser-Bestellstatus überprüfen")
         * [für den Ausbau registrieren](https://www.telekom.de/netz/glasfaser/interessenten-registrierung "für den Ausbau registrieren")
@@ -170,15 +170,15 @@
         * [Sonstige Themen](https://www.telekom.de/kontakt "Sonstige Themen")
     *   [![Apps](https://www.telekom.de/resources/images/974642/service-apps.svg)![Apps](https://www.telekom.de/resources/images/974584/service-apps-hover.svg) Apps ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)](https://www.telekom.de/apps "Apps")  
         * [MeinMagenta](https://www.telekom.de/apps/meinmagenta-app "MeinMagenta")
-        * [MagentaZuhause](https://www.telekom.de/festnetz/magenta-zuhause-app "MagentaZuhause")
+        * [MagentaZuhause](https://www.telekom.de/smarte-produkte/smart-home "MagentaZuhause")
     *   [![Störung](https://www.telekom.de/resources/images/974648/service-stoerung.svg)![Störung](https://www.telekom.de/resources/images/974590/service-stoerung-hover.svg) Störungen ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)](https://www.telekom.de/hilfe/hilfe-bei-stoerungen "Störungen")  
         * [Diagnose starten](https://www.telekom.de/hilfe/hilfe-bei-stoerungen/leitungspruefung "Diagnose starten")
         * [Störungsstatus](https://www.telekom.de/hilfe/hilfe-bei-stoerungen/uebersicht-status "Störungsstatus")
     *   ![Favoriten](https://www.telekom.de/resources/images/974624/ratings-default.svg)![Favoriten](https://www.telekom.de/resources/images/974624/ratings-default.svg) Ich möchte... ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)  
-        * [ins Kundencenter](https://www.telekom.de/mein-kundencenter?wt_mc=ii_sososoxx_navi-service-ich-moechte-ins-kundencenter "ins Kundencenter")
-        * [Verträge verwalten](https://www.telekom.de/mein-kundencenter?wt_mc=ii_sososoxx_navi-service-ich-moechte-vertraege-verwalten "Verträge verwalten")
-        * [Rechnungen einsehen](https://www.telekom.de/mein-kundencenter/rechnung-zahlung?wt_mc=ii_sososoxx_navi-service-ich-moechte-rechnungen-einsehen "Rechnungen einsehen")
-        * [Persönliche Daten bearbeiten](https://www.telekom.de/kundencenter/persoenliche-daten?wt_mc=ii_sososoxx_navi-service-ich-moechte-persoenliche-daten-bearbeiten "Persönliche Daten bearbeiten")
+        * [ins Kundencenter](https://www.telekom.de/mein-magenta-kundencenter?wt_mc=ii_sososoxx_navi-service-ich-moechte-ins-kundencenter "ins Kundencenter")
+        * [Verträge verwalten](https://www.telekom.de/mein-magenta-kundencenter/vertraege?wt_mc=ii_sososoxx_navi-service-ich-moechte-vertraege-verwalten "Verträge verwalten")
+        * [Rechnungen einsehen](https://www.telekom.de/mein-magenta-kundencenter/zahlungen?wt_mc=ii_sososoxx_navi-service-ich-moechte-rechnungen-einsehen "Rechnungen einsehen")
+        * [Persönliche Daten bearbeiten](https://www.telekom.de/mein-magenta-kundencenter/mein-profil?wt_mc=ii_sososoxx_navi-service-ich-moechte-persoenliche-daten-bearbeiten "Persönliche Daten bearbeiten")
         * [Tipps für Neukunden](https://www.telekom.de/hilfe/auftrag-erste-schritte/tipps-fuer-starter "Tipps für Neukunden")
         * [Termin vereinbaren](https://www.telekom.de/terminvereinbarung?wt_mc=ii_sososoxx_navi-service-ich-moechte-termin-vereinbaren "Termin vereinbaren")
         * [Magenta Moments erleben](https://www.telekom.de/magenta-moments "Magenta Moments erleben")
@@ -221,9 +221,9 @@
         
     * [](https://oneapptelekomde.page.link/meinmagenta_navitelekomlogin_w)
     
-    * **[Mein Kundencenter](https://www.telekom.de/mein-kundencenter?wt_mc=ii_sososoxx_navi-login-mein-kundencente "Mein Kundencenter")**
+    * **[Mein Kundencenter](https://www.telekom.de/mein-magenta-kundencenter?wt_mc=ii_sososoxx_navi-login-mein-kundencente "Mein Kundencenter")**
         
-        [Verträge verwalten](https://www.telekom.de/mein-kundencenter?wt_mc=ii_sososoxx_navi-login-vertraege-verwalten) [Rechnungen einsehen](https://www.telekom.de/mein-kundencenter?wt_mc=ii_sososoxx_navi-login-rechnungen-einsehen) [Persönliche Daten bearbeiten](https://www.telekom.de/mein-kundencenter?wt_mc=ii_sososoxx_navi-login-persoenliche-daten-bearbeiten) [E-Mail](https://www.telekom.de/e-mail/e-mail-center) [MagentaCloud](https://www.magentacloud.de/)
+        [Verträge verwalten](https://www.telekom.de/mein-magenta-kundencenter/vertraege?wt_mc=ii_sososoxx_navi-login-vertraege-verwalten) [Rechnungen einsehen](https://www.telekom.de/mein-magenta-kundencenter/zahlungen?wt_mc=ii_sososoxx_navi-login-rechnungen-einsehen) [Persönliche Daten bearbeiten](https://www.telekom.de/mein-magenta-kundencenter/mein-profil?wt_mc=ii_sososoxx_navi-login-persoenliche-daten-bearbeiten) [E-Mail](https://www.telekom.de/e-mail/e-mail-center) [MagentaCloud](https://www.magentacloud.de/)
         
     
     Kundencenter
@@ -327,15 +327,15 @@
             
             * Ich möchte...
                 
-            * [ins Kundencenter](https://www.telekom.de/mein-kundencenter?wt_mc=ii_sososoxx_navi-mobilfunk-ich-moechte-ins-kundencenter)
+            * [ins Kundencenter](https://www.telekom.de/mein-magenta-kundencenter?wt_mc=ii_sososoxx_navi-mobilfunk-ich-moechte-ins-kundencenter)
                 
-            * [Vertrag verlängern](https://www.telekom.de/unterwegs/vertragsverlaengerung?wt_mc=ii_sososoxx_navi-mobilfunk-ich-moechte-vertrag-verlaengern)
+            * [Vertrag verlängern](https://www.telekom.de/mein-magenta-kundencenter/vertraege?wt_mc=ii_sososoxx_navi-mobilfunk-ich-moechte-vertrag-verlaengern)
                 
             * [Tarif wechseln](https://www.telekom.de/unterwegs/vertragsverlaengerung?wt_mc=ii_sososoxx_navi-mobilfunk-ich-moechte-tarif-wechseln)
                 
-            * [Rechnungen einsehen](https://www.telekom.de/mein-kundencenter/rechnung-zahlung?wt_mc=ii_sososoxx_navi-mobilfunk-ich-moechte-rechnungen-einsehen)
+            * [Rechnungen einsehen](https://www.telekom.de/mein-magenta-kundencenter/zahlungen?wt_mc=ii_sososoxx_navi-mobilfunk-ich-moechte-rechnungen-einsehen)
                 
-            * [Auftragsstatus einsehen](https://www.telekom.de/unterwegs/lieferstatus)
+            * [Auftragsstatus einsehen](https://www.telekom.de/mein-magenta-kundencenter/auftragsstatus)
                 
             * [Handy verkaufen](https://www.telekom.de/unterwegs/smartphones-und-tablets/handy-verkaufen)
                 
@@ -372,7 +372,7 @@
                 
             * [Festnetztelefone](https://www.telekom.de/zuhause/geraete-und-zubehoer/festnetz-telefone)
                 
-            * [Smart Home Geräte](https://shop.telekom.de/smart-home)
+            * [Smart Home Geräte](https://www.telekom.de/zuhause/magenta-smarthome)
                 
             
         *  ![Vernetztes Zuhause](https://www.telekom.de/resources/images/974634/internet-vernetztes-zuhause.svg)Heimvernetzung ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)
@@ -413,17 +413,17 @@
             
             * Ich möchte...
                 
-            * [ins Kundencenter](https://www.telekom.de/mein-kundencenter?wt_mc=ii_sososoxx_navi-internet-ich-moechte-ins-kundencenter)
+            * [ins Kundencenter](https://www.telekom.de/mein-magenta-kundencenter?wt_mc=ii_sososoxx_navi-internet-ich-moechte-ins-kundencenter)
                 
             * [Tarif wechseln](https://www.telekom.de/tarifwechsel/tarifaenderung)
                 
-            * [Rechnung einsehen](https://www.telekom.de/mein-kundencenter/rechnung-zahlung?wt_mc=ii_sososoxx_navi-internet-ich-moechte-rechnungen-einsehen)
+            * [Rechnung einsehen](https://www.telekom.de/mein-magenta-kundencenter/zahlungen?wt_mc=ii_sososoxx_navi-internet-ich-moechte-rechnungen-einsehen)
                 
             * [Umzug beauftragen](https://www.telekom.de/tarifwechsel/tarifaenderung?skip=move)
                 
             * [zur Telekom wechseln](https://www.telekom.de/hilfe/zur-telekom-wechseln)
                 
-            * [Auftragsstatus einsehen](https://www.telekom.de/kundencenter/auftragsstatus?wt_mc=ii_sososoxx_navi-internet-ich-moechte-auftragsstatus-einsehen)
+            * [Auftragsstatus einsehen](https://www.telekom.de/mein-magenta-kundencenter/auftragsstatus?wt_mc=ii_sososoxx_navi-internet-ich-moechte-auftragsstatus-einsehen)
                 
             * [schneller surfen](https://www.telekom.de/tarifwechsel/tarifaenderung?skip=dp)
                 
@@ -511,13 +511,13 @@
             
             * Ich möchte...
                 
-            * [ins Kundencenter](https://www.telekom.de/mein-kundencenter?wt_mc=ii_sososoxx_navi-tv-ich-moechte-ins-kundencenter)
+            * [ins Kundencenter](https://www.telekom.de/mein-magenta-kundencenter?wt_mc=ii_sososoxx_navi-tv-ich-moechte-ins-kundencenter)
                 
-            * [Rechnungen einsehen](https://www.telekom.de/mein-kundencenter/rechnung-zahlung?wt_mc=ii_sososoxx_navi-tv-ich-moechte-rechnungen-einsehen)
+            * [Rechnungen einsehen](https://www.telekom.de/mein-magenta-kundencenter/zahlungen?wt_mc=ii_sososoxx_navi-tv-ich-moechte-rechnungen-einsehen)
                 
             * [Tarif wechseln](https://www.telekom.de/tarifwechsel/tarifaenderung)
                 
-            * [Auftragsstatus einsehen](https://www.telekom.de/kundencenter/auftragsstatus?wt_mc=ii_sososoxx_navi-tv-ich-moechte-auftragsstatus-einsehen)
+            * [Auftragsstatus einsehen](https://www.telekom.de/mein-magenta-kundencenter/auftragsstatus?wt_mc=ii_sososoxx_navi-tv-ich-moechte-auftragsstatus-einsehen)
                 
             * [schneller surfen](https://www.telekom.de/tarifwechsel/tarifaenderung?skip=dp)
                 
@@ -572,7 +572,7 @@
             
             * Ich möchte...
                 
-            * [ins Kundencenter](https://www.telekom.de/mein-kundencenter?wt_mc=ii_sososoxx_navi-glasfaser-ich-moechte-ins-kundencenter)
+            * [ins Kundencenter](https://www.telekom.de/mein-magenta-kundencenter?wt_mc=ii_sososoxx_navi-glasfaser-ich-moechte-ins-kundencenter)
                 
             * [Verfügbarkeit prüfen](https://www.telekom.de/netz/glasfaser?wt_mc=ii_sososoxx_navi-glasfaser-ich-moechte-verfuegbarkeit-pruefen)
                 
@@ -656,7 +656,7 @@
                 
             * [MeinMagenta](https://www.telekom.de/apps/meinmagenta-app)
                 
-            * [MagentaZuhause](https://www.telekom.de/festnetz/magenta-zuhause-app)
+            * [MagentaZuhause](https://www.telekom.de/smarte-produkte/smart-home)
                 
             
         *  [![Störung](https://www.telekom.de/resources/images/974648/service-stoerung.svg)Störungen](https://www.telekom.de/hilfe/hilfe-bei-stoerungen) ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)
@@ -676,13 +676,13 @@
             
             * Ich möchte...
                 
-            * [ins Kundencenter](https://www.telekom.de/mein-kundencenter?wt_mc=ii_sososoxx_navi-service-ich-moechte-ins-kundencenter)
+            * [ins Kundencenter](https://www.telekom.de/mein-magenta-kundencenter?wt_mc=ii_sososoxx_navi-service-ich-moechte-ins-kundencenter)
                 
-            * [Verträge verwalten](https://www.telekom.de/mein-kundencenter?wt_mc=ii_sososoxx_navi-service-ich-moechte-vertraege-verwalten)
+            * [Verträge verwalten](https://www.telekom.de/mein-magenta-kundencenter/vertraege?wt_mc=ii_sososoxx_navi-service-ich-moechte-vertraege-verwalten)
                 
-            * [Rechnungen einsehen](https://www.telekom.de/mein-kundencenter/rechnung-zahlung?wt_mc=ii_sososoxx_navi-service-ich-moechte-rechnungen-einsehen)
+            * [Rechnungen einsehen](https://www.telekom.de/mein-magenta-kundencenter/zahlungen?wt_mc=ii_sososoxx_navi-service-ich-moechte-rechnungen-einsehen)
                 
-            * [Persönliche Daten bearbeiten](https://www.telekom.de/kundencenter/persoenliche-daten?wt_mc=ii_sososoxx_navi-service-ich-moechte-persoenliche-daten-bearbeiten)
+            * [Persönliche Daten bearbeiten](https://www.telekom.de/mein-magenta-kundencenter/mein-profil?wt_mc=ii_sososoxx_navi-service-ich-moechte-persoenliche-daten-bearbeiten)
                 
             * [Tipps für Neukunden](https://www.telekom.de/hilfe/auftrag-erste-schritte/tipps-fuer-starter)
                 
