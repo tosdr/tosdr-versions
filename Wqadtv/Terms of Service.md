@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/88ce71e5-058a-40b9-9e91-5a16cbcfc73b/20241204T033134/88ce71e5-058a-40b9-9e91-5a16cbcfc73b_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/88ce71e5-058a-40b9-9e91-5a16cbcfc73b/20241204T033134/88ce71e5-058a-40b9-9e91-5a16cbcfc73b_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
-        
-        #### [Weather Impact Alert for later Wednesday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e/20240714T184429/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e/20240714T184429/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e_360x203.jpg)](https://www.wqad.com/article/weather/weather-impact/storm-track-8-weather-impact-alert-wqad-high-winds-wednesday/526-0676b68f-1675-4960-aa30-a2fd7a34fdad)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/d2260e10-41af-46f7-abbe-14bdcab80a84/20240714T184515/d2260e10-41af-46f7-abbe-14bdcab80a84_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d2260e10-41af-46f7-abbe-14bdcab80a84/20240714T184515/d2260e10-41af-46f7-abbe-14bdcab80a84_360x203.jpg)](https://www.wqad.com/article/weather/weather-impact/storm-track-8-weather-impact-alert-wqad-high-winds-wednesday/526-0676b68f-1675-4960-aa30-a2fd7a34fdad)
         
         #### [Wind gusts could reach 50 mph Wednesday: Storm Track 8 Weather Impact Alert](https://www.wqad.com/article/weather/weather-impact/storm-track-8-weather-impact-alert-wqad-high-winds-wednesday/526-0676b68f-1675-4960-aa30-a2fd7a34fdad)
+        
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/867fb42c-7083-4ef8-ae68-45e8f3a760e7/20241204T131324/867fb42c-7083-4ef8-ae68-45e8f3a760e7_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/867fb42c-7083-4ef8-ae68-45e8f3a760e7/20241204T131324/867fb42c-7083-4ef8-ae68-45e8f3a760e7_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        
+        #### [Weather Impact Alert: Strong wind gusts Wednesday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-28°
+35°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
