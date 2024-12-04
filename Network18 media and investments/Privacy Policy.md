@@ -128,12 +128,12 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
-    * [Sabarmati Report](https://www.news18.com/movies/pm-modi-watches-sabarmati-report-hours-after-vikrant-massey-announces-retirement-shares-his-review-9142881.html)
-    * [Kareena Kapoor](https://www.news18.com/movies/kareena-kapoor-rolls-her-eyes-at-abhishek-bachchan-fans-notice-her-reaction-in-viral-video-watch-9143163.html)
+    * [Vinod Kambli](https://www.news18.com/cricket/sachin-tendulkar-vinod-kambli-reunite-to-honour-their-coach-ramakant-achrekar-see-photos-9144214.html)
+    * [Maharashtra CM](https://www.news18.com/india/maharashtra-cm-live-updates-eknath-shinde-devendra-fadnavis-bjp-mahayuti-shiv-sena-ncp-liveblog-liveblog-9142895.html)
     * [Janhvi Kapoor](https://www.news18.com/web-stories/celebrities/6-of-janhvi-kapoors-iconic-fashionable-looks-in-2024-2654309/)
-    * [Vikrant Massey](https://www.news18.com/lifestyle/inside-vikrant-masseys-luxurious-sea-facing-mumbai-apartment-sprawling-balcony-boho-decor-and-more-9143643.html)
-    * [IPS Officer Death](https://www.news18.com/india/karnataka-ips-officer-harsh-bardhan-dies-road-accident-on-his-way-to-first-posting-hassan-latest-updates-9142069.html)
-    * [Gaurav Khanna](https://www.news18.com/movies/gaurav-khanna-quits-anupamaa-reacts-to-fallout-with-rupali-ganguly-what-happens-beyond-action-and-cut-9143148.html)
+    * [Martial Law](https://www.news18.com/movies/emergency-martial-law-in-south-korea-k-pop-stars-being-asked-to-skip-events-cancel-festivals-9144156.html)
+    * [Kareena Kapoor](https://www.news18.com/movies/kareena-kapoor-rolls-her-eyes-at-abhishek-bachchan-fans-notice-her-reaction-in-viral-video-watch-9143163.html)
+    * [Sabarmati Report](https://www.news18.com/movies/pm-modi-watches-sabarmati-report-hours-after-vikrant-massey-announces-retirement-shares-his-review-9142881.html)
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
@@ -170,12 +170,12 @@ Follow us on
 
 In Trends:
 
-* [Sabarmati Report](https://www.news18.com/movies/pm-modi-watches-sabarmati-report-hours-after-vikrant-massey-announces-retirement-shares-his-review-9142881.html)
-* [Kareena Kapoor](https://www.news18.com/movies/kareena-kapoor-rolls-her-eyes-at-abhishek-bachchan-fans-notice-her-reaction-in-viral-video-watch-9143163.html)
+* [Vinod Kambli](https://www.news18.com/cricket/sachin-tendulkar-vinod-kambli-reunite-to-honour-their-coach-ramakant-achrekar-see-photos-9144214.html)
+* [Maharashtra CM](https://www.news18.com/india/maharashtra-cm-live-updates-eknath-shinde-devendra-fadnavis-bjp-mahayuti-shiv-sena-ncp-liveblog-liveblog-9142895.html)
 * [Janhvi Kapoor](https://www.news18.com/web-stories/celebrities/6-of-janhvi-kapoors-iconic-fashionable-looks-in-2024-2654309/)
-* [Vikrant Massey](https://www.news18.com/lifestyle/inside-vikrant-masseys-luxurious-sea-facing-mumbai-apartment-sprawling-balcony-boho-decor-and-more-9143643.html)
-* [IPS Officer Death](https://www.news18.com/india/karnataka-ips-officer-harsh-bardhan-dies-road-accident-on-his-way-to-first-posting-hassan-latest-updates-9142069.html)
-* [Gaurav Khanna](https://www.news18.com/movies/gaurav-khanna-quits-anupamaa-reacts-to-fallout-with-rupali-ganguly-what-happens-beyond-action-and-cut-9143148.html)
+* [Martial Law](https://www.news18.com/movies/emergency-martial-law-in-south-korea-k-pop-stars-being-asked-to-skip-events-cancel-festivals-9144156.html)
+* [Kareena Kapoor](https://www.news18.com/movies/kareena-kapoor-rolls-her-eyes-at-abhishek-bachchan-fans-notice-her-reaction-in-viral-video-watch-9143163.html)
+* [Sabarmati Report](https://www.news18.com/movies/pm-modi-watches-sabarmati-report-hours-after-vikrant-massey-announces-retirement-shares-his-review-9142881.html)
 * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 
 * Follow Us
