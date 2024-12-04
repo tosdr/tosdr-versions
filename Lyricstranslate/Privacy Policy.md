@@ -107,67 +107,65 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Ivan Luden](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1408270-1553443086.jpg)](https://lyricstranslate.com/en/translator/ivan-luden "Ivan Luden")
+[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
 
-New request
+New comment
 
-[Almaz Kuba - Хай живе Україна!](https://lyricstranslate.com/en/request/%D1%85%D0%B0%D0%B9-%D0%B6%D0%B8%D0%B2%D0%B5-%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0)
-
-Ukrainian → English
-
-[![Алексей Чиванков](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1531373-1676917530.jpg)](https://lyricstranslate.com/en/translator/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2 "Алексей Чиванков")
-
-New translation
-
-[Jorge Luis Borges - Mi vida entera](https://lyricstranslate.com/en/jorge-luis-borges-mi-vida-entera-russian)
-
-Spanish → Russian
-
-[![Алексей Чиванков](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1531373-1676917530.jpg)](https://lyricstranslate.com/en/translator/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2 "Алексей Чиванков")
-
-New song
-
-[Jorge Luis Borges - Mi vida entera](https://lyricstranslate.com/en/jorge-luis-borges-mi-vida-entera-lyrics)
-
-Spanish
-
-[![DBMD99](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1619930-1733029398.png)](https://lyricstranslate.com/en/translator/dbmd99 "DBMD99")
-
-New song
-
-[Aimi - 夢](https://lyricstranslate.com/en/aimi-yume-lyrics)
-
-Japanese
-
-[![ulissescoroa](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1237591-1556486523.jpg)](https://lyricstranslate.com/en/translator/ulissescoroa "ulissescoroa")
-
-New song
-
-[Leuz Diwane G - Murook Lem](https://lyricstranslate.com/en/leuz-diwane-g-murook-lem-lyrics)
-
-Wolof
-
-[![Ivan Luden](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1408270-1553443086.jpg)](https://lyricstranslate.com/en/translator/ivan-luden "Ivan Luden")
-
-New song
-
-[Almaz Kuba - Хай живе Україна!](https://lyricstranslate.com/en/almaz-kuba-hay-zhive-ukrayina-lyrics)
-
-Ukrainian
+That's true 😂  [more](https://lyricstranslate.com/en/comment/1179640#comment-1179640)
 
 [![julietarab](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1050123-1706250255.jpg)](https://lyricstranslate.com/en/translator/julietarab "julietarab")
 
 New song
 
-[The Dubliners - Fiddler’s Green](https://lyricstranslate.com/en/dubliners-fiddlers-green-lyrics)
+[The Dubliners - The Blantyre Explosion](https://lyricstranslate.com/en/dubliners-blantyre-explosion-lyrics)
 
 English
 
-[![Anhurmes](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/anhurmes "Anhurmes")
+[![Sakuchan](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1624467-1732683582.jpg)](https://lyricstranslate.com/en/translator/sakuchan "Sakuchan")
+
+New translation
+
+[Michiko Shimazaki - いつか見たそよ風 (Itsuka Mita Soyokaze)](https://lyricstranslate.com/en/michiko-shimazaki-itsuka-mita-soyokaze-english)
+
+Japanese → English
+
+[![Joseph Unicornvault](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1600574-1731910325.jpg)](https://lyricstranslate.com/en/translator/joseph3101 "Joseph Unicornvault")
 
 New comment
 
-https://lyricstranslate.com/en/add/request  [more](https://lyricstranslate.com/en/comment/1179277#comment-1179277)
+A lot of other singers  [more](https://lyricstranslate.com/en/comment/1179639#comment-1179639)
+
+[![Joseph Unicornvault](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1600574-1731910325.jpg)](https://lyricstranslate.com/en/translator/joseph3101 "Joseph Unicornvault")
+
+Transcription request fulfilled
+
+[Wonderful Christmas Time](https://lyricstranslate.com/en/clay-aiken-wonderful-christmas-time-lyrics)
+
+English
+
+[![Joseph Unicornvault](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1600574-1731910325.jpg)](https://lyricstranslate.com/en/translator/joseph3101 "Joseph Unicornvault")
+
+New song
+
+[Clay Aiken - Wonderful Christmas Time](https://lyricstranslate.com/en/clay-aiken-wonderful-christmas-time-lyrics)
+
+English
+
+[![Turbonorm](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1620552-1725868199.jpg)](https://lyricstranslate.com/en/translator/turbonorm "Turbonorm")
+
+New song
+
+[Buba Espinho - É Tão Grande o Alentejo](https://lyricstranslate.com/en/buba-espinho-e-tao-grande-o-alentejo-lyrics)
+
+Portuguese
+
+[![Ita Mockin](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1577624-1683671237.jpg)](https://lyricstranslate.com/en/translator/ita-mockin "Ita Mockin")
+
+New request
+
+[Benaia Barabi - מדינה בסחרחורת (Medina B'Sharhoret)](https://lyricstranslate.com/en/request/%D7%9E%D7%93%D7%99%D7%A0%D7%94-%D7%91%D7%A1%D7%97%D7%A8%D7%97%D7%95%D7%A8%D7%AA)
+
+Hebrew → English
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
