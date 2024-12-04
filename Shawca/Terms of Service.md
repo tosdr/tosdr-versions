@@ -2,6 +2,10 @@
 
 ### Business
 
+### Shaw Terms of Service
+
+[Shaw Terms of Service and Other Important Information - effective as of December 4, 2024](https://assets.ctfassets.net/tzb4ihmthaev/6hT7LNfN3cUz3nEgSVnBwX/0938b0a57603d64809a230c74337fe60/Shaw_Terms_of_Service_and_Other_Important_Information___effective_for_transactions_that_are_placed_on_or_after_Dec_4_2024.pdf)
+
 ### Shaw.ca Accessibility Statement
 
 #### Introduction
@@ -50,119 +54,19 @@ Look for the print icon (insert icon) at the bottom of each page when you want a
 
 Shaw.ca has been written to be clear, concise and accessible to as wide an audience as possible.
 
-### Shaw Terms of Service
+### Acceptable Use Policy
 
-[Shaw Terms of Service and Other Important Information – effective for transactions that are placed on or after Dec. 4, 2024.](https://assets.ctfassets.net/tzb4ihmthaev/6hT7LNfN3cUz3nEgSVnBwX/4f3c26aac23765bcf83c5c537fab7bad/Shaw_Terms_of_Service_and_Other_Important_Information__-_effective_as_of_December_4__2024.pdf)
+[Acceptable Use Policy - effective as of December 4, 2024](https://assets.ctfassets.net/tzb4ihmthaev/lBmlakCHd1F5wVYgLQeYu/4ca97ad95f8af3b920602ab8735796df/Shaw_Acceptable_Use_Policy.pdf)
 
-### Payment Terms and Conditions
+### Arbitration Protocol
 
-#### Introduction
-
-**We Love to Help!**
-
-At Shaw, we have more than 10,000 helping hands working to bring exceptional experiences to our customers. We love hearing your great Shaw stories (thanks for those!), but we also want to know if you have a concern, complaint or suggestion for how we can improve. Here's how we make sure your thoughts and concerns are quickly addressed:
-
-* **Contact Customer Care** – Our team is available to you 24/7/365 through [email](mailto:internet.inquiries@shaw.ca), phone [(1-888-750-7429)](tel:1-888-750-7429) or at our [retail locations](https://www.shaw.ca/Contact-Us/Authorized-Retailers/). Our friendly team will work diligently towards finding a solution to your concern in a timely manner.
-* **Local Customer Care Management** - we're here with a helping hand, several hands, in fact! If a solution can't be found with our customer care team, then our local management team is available to help. Your Customer Care representative can put you in touch with a local Manager.
-* **Further Assistance, Telephone and Internet Concerns** – an agency independent of Shaw, called the Commissioner of Complaints and Telecommunications Services (CCTS) is also available if we can't find a resolution to your concern.  
-    CCTS is an agency independent of the telecommunications industry, whose mandate is to resolve complaints of individual and small business retail customers about their telecommunications services. If you have a complaint about your services, including local or long distance telephone service, wireless telephone service, or Internet service, you must first try to resolve it directly with your service provider. If you have done so and have been unable to reach a satisfactory resolution, CCTS may be able to help you, free of charge.  
-    To learn more about CCTS, you may visit its website at [www.ccts-cprst.ca](https://www.ccts-cprst.ca/) or call toll-free at 1-888-221-1687.
-
-#### Customer Care Information
-
-Shaw offers you several options for contacting us regarding inquiries, support and bill payments:
-
-* Contact your local Shaw office at the telephone number(s) shown on the front of your bill
-* Visit our web sites at [Shaw.ca](https://www.shaw.ca/) or [My Shaw](https://my.shaw.ca/)
-* Email [internet.inquiries@shaw.ca](mailto:internet.inquiries@shaw.ca)
-
-#### Payment Options
-
-Shaw provides you with the following convenient payment alternatives:
-
-* [My Shaw](https://my.shaw.ca/) - receive and pay your bill online
-* Pre-authorized Monthly Payment Plan from your bank account or credit card
-* Telephone Banking, PC Banking or in person through your financial institution
-* Your payment may be mailed directly to Shaw, cheques are payable to Shaw Cablesystems G.P.
-* Contact a Shaw Customer Service Representative by telephone or by using our automated telephone services or [Contact Us](https://www.shaw.ca/contact-us/)
-* Visit a Shaw [Retail Centre](https://www.shaw.ca/contact-us/retail) near you
-
-#### Terms of Payment
-
-You may visit the MyShaw tool at my.shaw.ca for more information on your current Services, to view your monthly Internet data usage and notifications and to manage your billing information. You will be billed monthly for both your Services and any applicable equipment and the charges will appear on your monthly invoice. Payment terms are included in our Joint Terms of Service. For TV and Internet Services provided on a month-to-month basis, including fixed term Services that will transition to a month-to-month basis upon the expiry of the ValuePlan Commitment Period, Shaw may make changes to your Services from time to time in accordance with the CRTC’s TVSP and Internet Codes, as applicable, including changing the applicable regular monthly fees and charges, by providing you with not less than 30 days’ notice of any such change becoming effective (for Internet Services, not less than 60 days’ notice for changes to key contract terms and conditions as defined in the CRTC Internet Code). For all other changes, including substantive changes to the Joint Terms of Service, Acceptable Use Policies and Privacy Policy, each of which are hereby incorporated by reference into this Agreement, Shaw will provide you with notice as required by applicable law. If you do not wish to accept the aforementioned changes, you may contact Shaw to change or cancel your Services. You shall be deemed to have accepted any changes made by Shaw if you continue to use your Services after such changes are effective with no additional action or agreement required. This Agreement is non-transferable by you but may be freely assigned by Shaw. If the Services under this Agreement replace or supersede all services under an existing agreement, your previous agreement will automatically terminate once the Buyer’s Right to Cancel period (as set out below) and any applicable trial period under this Agreement has elapsed. Early cancellation fees applicable to your previous agreement will remain in effect until it is terminated. If this Agreement is cancelled within the Buyer’s Right to Cancel period or any applicable trial period then your previous agreement will become active, however, if any of the Services included in the previous agreement are no longer available, then equivalent in-market Services will be instated for the remainder of the ValuePlan Commitment Period of your previous agreement.
-
-#### Privacy
-
-Shaw is operating in accordance with the Federal Privacy Law. Further details on Shaw's Privacy Policy are available at [www.shaw.ca](https://www.shaw.ca/).
+[Arbitration Protocol](https://assets.ctfassets.net/tzb4ihmthaev/5nJ2pWBHbkUzXO2IOtdyiP/808cbb9fbde22bb35e4158d0f060d73f/Shaw_Arbitration_Protocol.pdf)
 
 ### Rogers Disney+ Terms and Conditions
 
 [FAQs and subscription terms - Disney+ Standard with Ads](https://support.shaw.ca/t5/billing-account-articles/how-to-link-your-shaw-account-to-disney-plus/ta-p/54174 "FAQs and subscription terms - Disney+ Standard with Ads")
 
 [Shaw Disney+ Terms and Conditions](https://assets.ctfassets.net/tzb4ihmthaev/5Lz0bxBAP03pWPwqAMQ8uy/542d1d098dae89d2d585bcf0dc403d33/Shaw_Disney_-_Terms_and_Conditions__2_.pdf)
-
-### Acceptable Use Policy
-
-[Acceptable Use Policy - effective as of December 4, 2024](https://assets.ctfassets.net/tzb4ihmthaev/lBmlakCHd1F5wVYgLQeYu/a133bd59d9b6ac4a1db4a6cbb98adb49/Acceptable_Use_Policy_-_effective_as_of_December_4__2024.pdf)
-
-### Arbitration Protocol
-
-[Arbitration Protocol](https://assets.ctfassets.net/tzb4ihmthaev/5nJ2pWBHbkUzXO2IOtdyiP/808cbb9fbde22bb35e4158d0f060d73f/Shaw_Arbitration_Protocol.pdf)
-
-### Terms of Use - Shaw Go WiFi
-
-#### Introduction
-
-Last updated: March 7, 2014
-
-By accessing and using the Shaw Internet WiFi ("Shaw Go WiFi") provided by any of Rogers Communications Inc. or their partners and/or associates (collectively, "Shaw"), you agree to the following terms and conditions of service, which incorporate by reference the Shaw Joint Terms of Use, Shaw Acceptable Use Policy, and Shaw Privacy Policy terms and conditions available at [www.shaw.ca](https://www.shaw.ca/) (collectively, the "Terms of Use ").
-
-You agree that Shaw may, for any reason, and without notice to you, modify or terminate Shaw Go WiFi and these Terms of Use without liability to you, any user or any third party. If you do not wish to be bound by these Terms of Use or any modifications which may be made by Shaw from time to time, do not access or use Shaw Go WiFi and immediately contact Shaw.
-
-YOUR NONTERMINATION OR CONTINUED USE OF SHAW GO WIFI AFTER THE EFFECTIVE DATE OF ANY CHANGES MADE CONSTITUTES YOUR ACCEPTANCE OF THESE TERMS OF USE AS MODIFIED BY SUCH CHANGES.
-
-#### Access to and Use of Shaw Go WiFi
-
-You understand that Shaw Go WiFi is a feature of Shaw's Internet service and that you must be a current subscriber to a Shaw Internet service in order to use Shaw Go WiFi. As with other Shaw services, you are permitted to use Shaw Go WiFi only for lawful purposes.
-
-In order to access Shaw Go WiFi, you must provide your Shaw userid, password and certain other information ("**Shaw Go WiFi ID**") that may be requested from time to time. Shaw may also automatically collect certain information, such as MAC address, device location and device type, in order to provide you services and improve your service experience. You acknowledge and agree that you will be responsible for all activities during any session using Shaw Go WiFi under your Shaw Go WiFi ID. You may not provide any third party with your Shaw Go WiFi ID for the purpose of accessing Shaw Go WiFi. You remain responsible for all bandwidth usage incurred utilizing your Shaw Go WiFi ID as well as any account changes that may be imposed as a result of your bandwidth usage as set out in the Terms of Use, and agree to pay any applicable fees charged to your account for the use of Shaw Go WiFi, plus any applicable taxes and other fees imposed as a result of these Terms of Use.
-
-You may use Shaw Go WiFi solely for your own lawful personal purposes. You may not in any way distribute, resell or otherwise provide third parties with access to or use of Shaw Go WiFi.
-
-#### Performance of Shaw Go WiFi
-
-In order to use Shaw Go WiFi, you must have a Wi-Fi capable device that:
-
-a. meets Canadian and other applicable technical standards;  
-b. is compatible with Shaw Go WiFi;  
-c. renders web pages in a standard HTML browser application;  
-d. runs the IP protocol; and  
-e. is configured to obtain IP addresses automatically.
-
-The Wi-Fi device must be in close enough proximity to Shaw Go WiFi wireless access points to achieve connectivity with the Shaw Go WiFi network. Shaw Go WiFi access location lists and maps may be updated from time-to-time. Actual Shaw Go WiFi coverage, locations and quality may vary.
-
-Shaw will endeavour to provide useful and reliable Shaw Go WiFi services, but you acknowledge that Shaw Go WiFi utilizes public, unlicensed radio-frequency spectrum. As such, Shaw Go WiFi is subject to external interferences, environmental influences, and other factors and variables beyond Shaw's reasonable control. Performance and availability may vary, including but not limited to or affected by,
-
-a. transmission and download speed and accuracy;  
-b. network congestion;  
-c. performance, configuration, and functionality of your Wi-Fi devices and wireless cards (including, but not limited to memory, storage and other limitations);  
-d. physical obstructions and distances between your WiFi device and the Shaw Go WiFi network;  
-e. availability of electric power;  
-f. collocation failures;  
-g. transmission and equipment limitations, failures, maintenance or repair; and  
-h. user error.
-
-Shaw Go WiFi may also be interrupted, refused, limited or curtailed for these reasons. Shaw is not responsible for data lost or misdirected due to these and other foreseeable and unforeseeable factors. Network speed is an estimate and is no indication of the speed at which your Wi-Fi device or Shaw Go WiFi will operate. Actual network speed and other performance will vary.
-
-In order to maintain acceptable levels of service for all Shaw Go WiFi customers and to improve this service, Shaw reserves the right to monitor use of Shaw Go WiFi and to make such adjustments to the use of such services as necessary to maximize the benefit and enjoyment for all Shaw Go WiFi customers. Additionally, the Shaw Go WiFi service may use automated processes to monitor and scan communications over the Shaw Go WiFi network in order to maintain and provide services, improve your experience, ensure the integrity of your communications, convey messages related to your Shaw Go WiFi account, deliver relevant advertising and for various other purposes related to the provision of Shaw Go WiFi services. By using the Shaw Go WiFi service, you acknowledge and consent to Shaw's automated processing of your communications through the Shaw Go WiFi network, including information such as your IP or MAC address, Shaw Go WiFi ID, device location, HTTP requests and other information related to the provision of this service.
-
-#### Service Subject To Interception and Unauthorized Use
-
-You acknowledge that communications over the Shaw Go WiFi network may be subject to interception by unauthorized third parties. Although Shaw uses commercially reasonable efforts to provide you with a secure and reliable service, your use of Shaw Go WiFi is "AS IS" and "AS AVAILABLE" and Shaw cannot and does not make any general or specific warranties regarding the security, availability, performance or other functionality of Shaw Go WiFi. You are responsible for implementing your own security protections while using Shaw Go WiFi. In the event you become aware of any unauthorized use of Shaw Go WiFi or any other security breach (including but not limited to third-party use of your Shaw Go WiFi ID and password), you agree to immediately notify Shaw. Shaw expressly disclaims any responsibility or liability for your use of Shaw Go WiFi and for any lack of security that may result from your use of Shaw Go WiFi. You agree to hold Shaw harmless for the loss of any file, data or other information while using the Shaw Go WiFi services, and for any unauthorized access to or utilization by any third party of any of your personal, financial, or other sensitive information.
-
-#### Marketing and Shaw's Use of Wi-Fi Data
-
-You understand and agree that Shaw may from time to time use location or other data generated from your use of Shaw Go WiFi to deliver general or user specific messaging or advertising from Shaw or a third party to the browser you are using to access the Internet. Furthermore, you understand and agree that the Shaw Go WiFi "watermark" bearing Shaw's logo may appear superimposed from time to time over portions of website pages you visit, that the watermark is intended solely to identify Shaw Go WiFi as the source of your wireless Internet access service, and that this in no way indicates Shaw's approval of or responsibility for the content of such websites, which are solely the responsibility of the website operators and/or content providers. You agree that you will not seek to hold Shaw responsible in any way for any third party website content or the operation of any third party website accessed via Shaw Go WiFi, or for the appearance of our Shaw Go WiFi "watermark" over a portion of any website.
 
 ### Legal Notice
 
@@ -243,15 +147,101 @@ References to Shaw in this Legal Notice or the Web site include any person contr
 
 This Legal Notice and the Web site will be governed exclusively by the laws of the Province of Alberta and the laws of Canada applicable therein, without regard to the conflict of laws principles thereof. You consent to the exclusive forum, jurisdiction and venue of the Courts of the Province of Alberta, or any other jurisdiction which Shaw may deem appropriate, for all disputes, proceedings or claims arising out of or in connection with this Web site.
 
-### CCTS Member Deposit and Disconnection Code
+### Payment Terms and Conditions
 
-[Deposit and Disconnection Code](https://assets.ctfassets.net/tzb4ihmthaev/6Qqa6TExjyiqqwkIGuCmgE/ca98eff9198eab00994b61013fceefc6/Deposit_and_Disconnection_Code.pdf)
+#### Introduction
 
-### Shaw Tariffs
+**We Love to Help!**
 
-Below is a list of Shaw Tariffs as filed with the Canadian Radio-Television and Telecommunications Commission (CRTC):  
-[CRTC 26300 - Third Party Internet Access (TPIA) Tariff](https://assets.ctfassets.net/tzb4ihmthaev/4u0j0MbPLYVrkF6OeAUWPu/55a3bf64ae380911207f254c85b0287b/TPIA_Tariff_26300_updated_June_6_2023_CRTC_2023_169.pdf)  
-[CRTC 21520 – Competitive Local Exchange Carrier (CLEC) Tariff](https://assets.ctfassets.net/tzb4ihmthaev/7MBBZOUpsQeKae4KIUmgiO/7acf14f0f83a2c4efe6435db85674899/CRTC_21520_-_Competitive_Local_Exchange_Carrier__CLEC__Tariff_.pdf)
+At Shaw, we have more than 10,000 helping hands working to bring exceptional experiences to our customers. We love hearing your great Shaw stories (thanks for those!), but we also want to know if you have a concern, complaint or suggestion for how we can improve. Here's how we make sure your thoughts and concerns are quickly addressed:
+
+* **Contact Customer Care** – Our team is available to you 24/7/365 through [email](mailto:internet.inquiries@shaw.ca), phone [(1-888-750-7429)](tel:1-888-750-7429) or at our [retail locations](https://www.shaw.ca/Contact-Us/Authorized-Retailers/). Our friendly team will work diligently towards finding a solution to your concern in a timely manner.
+* **Local Customer Care Management** - we're here with a helping hand, several hands, in fact! If a solution can't be found with our customer care team, then our local management team is available to help. Your Customer Care representative can put you in touch with a local Manager.
+* **Further Assistance, Telephone and Internet Concerns** – an agency independent of Shaw, called the Commissioner of Complaints and Telecommunications Services (CCTS) is also available if we can't find a resolution to your concern.  
+    CCTS is an agency independent of the telecommunications industry, whose mandate is to resolve complaints of individual and small business retail customers about their telecommunications services. If you have a complaint about your services, including local or long distance telephone service, wireless telephone service, or Internet service, you must first try to resolve it directly with your service provider. If you have done so and have been unable to reach a satisfactory resolution, CCTS may be able to help you, free of charge.  
+    To learn more about CCTS, you may visit its website at [www.ccts-cprst.ca](https://www.ccts-cprst.ca/) or call toll-free at 1-888-221-1687.
+
+#### Customer Care Information
+
+Shaw offers you several options for contacting us regarding inquiries, support and bill payments:
+
+* Contact your local Shaw office at the telephone number(s) shown on the front of your bill
+* Visit our web sites at [Shaw.ca](https://www.shaw.ca/) or [My Shaw](https://my.shaw.ca/)
+* Email [internet.inquiries@shaw.ca](mailto:internet.inquiries@shaw.ca)
+
+#### Payment Options
+
+Shaw provides you with the following convenient payment alternatives:
+
+* [My Shaw](https://my.shaw.ca/) - receive and pay your bill online
+* Pre-authorized Monthly Payment Plan from your bank account or credit card
+* Telephone Banking, PC Banking or in person through your financial institution
+* Your payment may be mailed directly to Shaw, cheques are payable to Shaw Cablesystems G.P.
+* Contact a Shaw Customer Service Representative by telephone or by using our automated telephone services or [Contact Us](https://www.shaw.ca/contact-us/)
+* Visit a Shaw [Retail Centre](https://www.shaw.ca/contact-us/retail) near you
+
+#### Terms of Payment
+
+You may visit the MyShaw tool at my.shaw.ca for more information on your current Services, to view your monthly Internet data usage and notifications and to manage your billing information. You will be billed monthly for both your Services and any applicable equipment and the charges will appear on your monthly invoice. Payment terms are included in our Joint Terms of Service. For TV and Internet Services provided on a month-to-month basis, including fixed term Services that will transition to a month-to-month basis upon the expiry of the ValuePlan Commitment Period, Shaw may make changes to your Services from time to time in accordance with the CRTC’s TVSP and Internet Codes, as applicable, including changing the applicable regular monthly fees and charges, by providing you with not less than 30 days’ notice of any such change becoming effective (for Internet Services, not less than 60 days’ notice for changes to key contract terms and conditions as defined in the CRTC Internet Code). For all other changes, including substantive changes to the Joint Terms of Service, Acceptable Use Policies and Privacy Policy, each of which are hereby incorporated by reference into this Agreement, Shaw will provide you with notice as required by applicable law. If you do not wish to accept the aforementioned changes, you may contact Shaw to change or cancel your Services. You shall be deemed to have accepted any changes made by Shaw if you continue to use your Services after such changes are effective with no additional action or agreement required. This Agreement is non-transferable by you but may be freely assigned by Shaw. If the Services under this Agreement replace or supersede all services under an existing agreement, your previous agreement will automatically terminate once the Buyer’s Right to Cancel period (as set out below) and any applicable trial period under this Agreement has elapsed. Early cancellation fees applicable to your previous agreement will remain in effect until it is terminated. If this Agreement is cancelled within the Buyer’s Right to Cancel period or any applicable trial period then your previous agreement will become active, however, if any of the Services included in the previous agreement are no longer available, then equivalent in-market Services will be instated for the remainder of the ValuePlan Commitment Period of your previous agreement.
+
+#### Privacy
+
+Shaw is operating in accordance with the Federal Privacy Law. Further details on Shaw's Privacy Policy are available at [www.shaw.ca](https://www.shaw.ca/).
+
+### Terms of Use - Shaw Go WiFi
+
+#### Introduction
+
+Last updated: March 7, 2014
+
+By accessing and using the Shaw Internet WiFi ("Shaw Go WiFi") provided by any of Rogers Communications Inc. or their partners and/or associates (collectively, "Shaw"), you agree to the following terms and conditions of service, which incorporate by reference the Shaw Joint Terms of Use, Shaw Acceptable Use Policy, and Shaw Privacy Policy terms and conditions available at [www.shaw.ca](https://www.shaw.ca/) (collectively, the "Terms of Use ").
+
+You agree that Shaw may, for any reason, and without notice to you, modify or terminate Shaw Go WiFi and these Terms of Use without liability to you, any user or any third party. If you do not wish to be bound by these Terms of Use or any modifications which may be made by Shaw from time to time, do not access or use Shaw Go WiFi and immediately contact Shaw.
+
+YOUR NONTERMINATION OR CONTINUED USE OF SHAW GO WIFI AFTER THE EFFECTIVE DATE OF ANY CHANGES MADE CONSTITUTES YOUR ACCEPTANCE OF THESE TERMS OF USE AS MODIFIED BY SUCH CHANGES.
+
+#### Access to and Use of Shaw Go WiFi
+
+You understand that Shaw Go WiFi is a feature of Shaw's Internet service and that you must be a current subscriber to a Shaw Internet service in order to use Shaw Go WiFi. As with other Shaw services, you are permitted to use Shaw Go WiFi only for lawful purposes.
+
+In order to access Shaw Go WiFi, you must provide your Shaw userid, password and certain other information ("**Shaw Go WiFi ID**") that may be requested from time to time. Shaw may also automatically collect certain information, such as MAC address, device location and device type, in order to provide you services and improve your service experience. You acknowledge and agree that you will be responsible for all activities during any session using Shaw Go WiFi under your Shaw Go WiFi ID. You may not provide any third party with your Shaw Go WiFi ID for the purpose of accessing Shaw Go WiFi. You remain responsible for all bandwidth usage incurred utilizing your Shaw Go WiFi ID as well as any account changes that may be imposed as a result of your bandwidth usage as set out in the Terms of Use, and agree to pay any applicable fees charged to your account for the use of Shaw Go WiFi, plus any applicable taxes and other fees imposed as a result of these Terms of Use.
+
+You may use Shaw Go WiFi solely for your own lawful personal purposes. You may not in any way distribute, resell or otherwise provide third parties with access to or use of Shaw Go WiFi.
+
+#### Performance of Shaw Go WiFi
+
+In order to use Shaw Go WiFi, you must have a Wi-Fi capable device that:
+
+a. meets Canadian and other applicable technical standards;  
+b. is compatible with Shaw Go WiFi;  
+c. renders web pages in a standard HTML browser application;  
+d. runs the IP protocol; and  
+e. is configured to obtain IP addresses automatically.
+
+The Wi-Fi device must be in close enough proximity to Shaw Go WiFi wireless access points to achieve connectivity with the Shaw Go WiFi network. Shaw Go WiFi access location lists and maps may be updated from time-to-time. Actual Shaw Go WiFi coverage, locations and quality may vary.
+
+Shaw will endeavour to provide useful and reliable Shaw Go WiFi services, but you acknowledge that Shaw Go WiFi utilizes public, unlicensed radio-frequency spectrum. As such, Shaw Go WiFi is subject to external interferences, environmental influences, and other factors and variables beyond Shaw's reasonable control. Performance and availability may vary, including but not limited to or affected by,
+
+a. transmission and download speed and accuracy;  
+b. network congestion;  
+c. performance, configuration, and functionality of your Wi-Fi devices and wireless cards (including, but not limited to memory, storage and other limitations);  
+d. physical obstructions and distances between your WiFi device and the Shaw Go WiFi network;  
+e. availability of electric power;  
+f. collocation failures;  
+g. transmission and equipment limitations, failures, maintenance or repair; and  
+h. user error.
+
+Shaw Go WiFi may also be interrupted, refused, limited or curtailed for these reasons. Shaw is not responsible for data lost or misdirected due to these and other foreseeable and unforeseeable factors. Network speed is an estimate and is no indication of the speed at which your Wi-Fi device or Shaw Go WiFi will operate. Actual network speed and other performance will vary.
+
+In order to maintain acceptable levels of service for all Shaw Go WiFi customers and to improve this service, Shaw reserves the right to monitor use of Shaw Go WiFi and to make such adjustments to the use of such services as necessary to maximize the benefit and enjoyment for all Shaw Go WiFi customers. Additionally, the Shaw Go WiFi service may use automated processes to monitor and scan communications over the Shaw Go WiFi network in order to maintain and provide services, improve your experience, ensure the integrity of your communications, convey messages related to your Shaw Go WiFi account, deliver relevant advertising and for various other purposes related to the provision of Shaw Go WiFi services. By using the Shaw Go WiFi service, you acknowledge and consent to Shaw's automated processing of your communications through the Shaw Go WiFi network, including information such as your IP or MAC address, Shaw Go WiFi ID, device location, HTTP requests and other information related to the provision of this service.
+
+#### Service Subject To Interception and Unauthorized Use
+
+You acknowledge that communications over the Shaw Go WiFi network may be subject to interception by unauthorized third parties. Although Shaw uses commercially reasonable efforts to provide you with a secure and reliable service, your use of Shaw Go WiFi is "AS IS" and "AS AVAILABLE" and Shaw cannot and does not make any general or specific warranties regarding the security, availability, performance or other functionality of Shaw Go WiFi. You are responsible for implementing your own security protections while using Shaw Go WiFi. In the event you become aware of any unauthorized use of Shaw Go WiFi or any other security breach (including but not limited to third-party use of your Shaw Go WiFi ID and password), you agree to immediately notify Shaw. Shaw expressly disclaims any responsibility or liability for your use of Shaw Go WiFi and for any lack of security that may result from your use of Shaw Go WiFi. You agree to hold Shaw harmless for the loss of any file, data or other information while using the Shaw Go WiFi services, and for any unauthorized access to or utilization by any third party of any of your personal, financial, or other sensitive information.
+
+#### Marketing and Shaw's Use of Wi-Fi Data
+
+You understand and agree that Shaw may from time to time use location or other data generated from your use of Shaw Go WiFi to deliver general or user specific messaging or advertising from Shaw or a third party to the browser you are using to access the Internet. Furthermore, you understand and agree that the Shaw Go WiFi "watermark" bearing Shaw's logo may appear superimposed from time to time over portions of website pages you visit, that the watermark is intended solely to identify Shaw Go WiFi as the source of your wireless Internet access service, and that this in no way indicates Shaw's approval of or responsibility for the content of such websites, which are solely the responsibility of the website operators and/or content providers. You agree that you will not seek to hold Shaw responsible in any way for any third party website content or the operation of any third party website accessed via Shaw Go WiFi, or for the appearance of our Shaw Go WiFi "watermark" over a portion of any website.
 
 ### Service Agreements
 
@@ -272,6 +262,16 @@ Price guarantees do not apply to any television add-ons, channels, channel packa
 If you have a 2-year ValuePlan agreement with Shaw, please refer to your copy of this agreement for additional terms and conditions.
 
 Any applicable price guarantee will no longer apply should you choose to reduce your level of Internet service below Internet 15.
+
+### CCTS Member Deposit and Disconnection Code
+
+[Deposit and Disconnection Code](https://assets.ctfassets.net/tzb4ihmthaev/6Qqa6TExjyiqqwkIGuCmgE/ca98eff9198eab00994b61013fceefc6/Deposit_and_Disconnection_Code.pdf)
+
+### Shaw Tariffs
+
+Below is a list of Shaw Tariffs as filed with the Canadian Radio-Television and Telecommunications Commission (CRTC):  
+[CRTC 26300 - Third Party Internet Access (TPIA) Tariff](https://assets.ctfassets.net/tzb4ihmthaev/4u0j0MbPLYVrkF6OeAUWPu/55a3bf64ae380911207f254c85b0287b/TPIA_Tariff_26300_updated_June_6_2023_CRTC_2023_169.pdf)  
+[CRTC 21520 – Competitive Local Exchange Carrier (CLEC) Tariff](https://assets.ctfassets.net/tzb4ihmthaev/7MBBZOUpsQeKae4KIUmgiO/7acf14f0f83a2c4efe6435db85674899/CRTC_21520_-_Competitive_Local_Exchange_Carrier__CLEC__Tariff_.pdf)
 
 ### DNSSEC Practices Policy for .Shaw
 
