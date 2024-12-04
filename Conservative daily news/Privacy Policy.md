@@ -1,15 +1,15 @@
-Tuesday, December 3 2024
+Wednesday, December 4 2024
 
 Breaking News
 
-* [‘Landman’ Airs A Rare And Stirring Defense Of The U.S. Oil-And-Gas Industry](https://www.conservativedailynews.com/2024/12/landman-airs-a-rare-and-stirring-defense-of-the-u-s-oil-and-gas-industry/)
-* [Conservatives Come Out Against Trump’s DEA Pick Over What He Did During COVID](https://www.conservativedailynews.com/2024/12/conservatives-come-out-against-trumps-dea-pick-over-what-he-did-during-covid/)
-* [Trump Working His Magic With Tariff Diplomacy](https://www.conservativedailynews.com/2024/12/trump-working-his-magic-with-tariff-diplomacy/)
-* [Medal of Honor Monday: Marine Corps Sgt. James E. Johnson](https://www.conservativedailynews.com/2024/12/medal-of-honor-monday-marine-corps-sgt-james-e-johnson/)
-* [Joe Biden Confirms his “Contempt” for the American People with his Hunter Biden Pardon](https://www.conservativedailynews.com/2024/12/joe-biden-confirms-his-contempt-for-the-american-people-with-his-hunter-biden-pardon/)
-* [The Sins Of The Biden Administration Are Being Visited On The American People](https://www.conservativedailynews.com/2024/12/the-sins-of-the-biden-administration-are-being-visited-on-the-american-people/)
-* [Abortion, Reproduction…What’s In A Word](https://www.conservativedailynews.com/2024/12/abortion-reproductionwhats-in-a-word/)
-* [Jack Smith Could Face ‘Severe Consequences’ For Year-Long Legal Crusade Against Trump](https://www.conservativedailynews.com/2024/12/jack-smith-could-face-severe-consequences-for-year-long-legal-crusade-against-trump/)
+* [US Steelmakers Back Trump’s Tariff Plans Amid Steep Foreign Competition](https://www.conservativedailynews.com/2024/12/us-steelmakers-back-trumps-tariff-plans-amid-steep-foreign-competition/)
+* [Women Shouldn’t Be in Combat Roles](https://www.conservativedailynews.com/2024/12/women-shouldnt-be-in-combat-roles/)
+* [Tucker Carlson Is Back In Moscow With A Terrifying Revelation](https://www.conservativedailynews.com/2024/12/tucker-carlson-is-back-in-moscow-with-a-terrifying-revelation/)
+* [Religious Leaders See A ‘Fourth Great Awakening’ As Americans Flock To Christianity](https://www.conservativedailynews.com/2024/12/religious-leaders-see-a-fourth-great-awakening-as-americans-flock-to-christianity/)
+* [Trump, not even in Office Yet, already More Effective than the Biden-Harris Administration](https://www.conservativedailynews.com/2024/12/trump-not-even-in-office-yet-already-more-effective-than-the-biden-harris-administration/)
+* [Pardon Me, Is This The Final Lie](https://www.conservativedailynews.com/2024/12/pardon-me-is-this-the-final-lie/)
+* [Canada Scrambles To Secure Border After Trump Threatens Massive Tariff](https://www.conservativedailynews.com/2024/12/canada-scrambles-to-secure-border-after-trump-threatens-massive-tariff/)
+* [US Struggles To Remove Chinese Hackers From Major Telecom Networks](https://www.conservativedailynews.com/2024/12/us-struggles-to-remove-chinese-hackers-from-major-telecom-networks/)
 
 * [RSS](https://www.conservativedailynews.com/news-feeds/)
 * [Facebook](https://www.facebook.com/ConservativeDailyNews/)
@@ -115,82 +115,82 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 Red = Recurring Donations  
 Orange = One-Time Donations
 
+* [![Joe Biden warmonger](https://www.conservativedailynews.com/wp-content/uploads/2023/01/stg012923dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/tucker-carlson-is-back-in-moscow-with-a-terrifying-revelation/)
+    
+    [Tucker Carlson Is Back In Moscow With A Terrifying Revelation](https://www.conservativedailynews.com/2024/12/tucker-carlson-is-back-in-moscow-with-a-terrifying-revelation/)
+    
+    December 3, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2019/05/jail.jpg)](https://www.conservativedailynews.com/2024/12/conservatives-come-out-against-trumps-dea-pick-over-what-he-did-during-covid/)
     
     [Conservatives Come Out Against Trump’s DEA Pick Over What He Did During COVID](https://www.conservativedailynews.com/2024/12/conservatives-come-out-against-trumps-dea-pick-over-what-he-did-during-covid/)
     
     December 2, 2024
-    
-* [![Thanksgiving 2024 Donald Trump](https://www.conservativedailynews.com/wp-content/uploads/2024/11/stg112724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/something-to-be-thankful-for/)
-    
-    [Something to be Thankful For](https://www.conservativedailynews.com/2024/11/something-to-be-thankful-for/)
-    
-    November 27, 2024
     
 
 Recent Posts
 
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/Landman-anti-windmill-monologue-220x150.jpg)](https://www.conservativedailynews.com/2024/12/landman-airs-a-rare-and-stirring-defense-of-the-u-s-oil-and-gas-industry/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/05/jail.jpg)](https://www.conservativedailynews.com/2024/12/judge-accused-of-willful-misconduct-for-allegedly-allowing-illegal-migrant-to-flee-courtroom/)
     
-    [‘Landman’ Airs A Rare And Stirring Defense Of The U.S. Oil-And-Gas Industry](https://www.conservativedailynews.com/2024/12/landman-airs-a-rare-and-stirring-defense-of-the-u-s-oil-and-gas-industry/)
+    [Judge Accused Of ‘Willful Misconduct’ For Allegedly Allowing Illegal Migrant To Flee Courtroom](https://www.conservativedailynews.com/2024/12/judge-accused-of-willful-misconduct-for-allegedly-allowing-illegal-migrant-to-flee-courtroom/)
     
-    December 2, 2024
+    December 4, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/05/jail.jpg)](https://www.conservativedailynews.com/2024/12/conservatives-come-out-against-trumps-dea-pick-over-what-he-did-during-covid/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/02/Steel-220x150.jpg)](https://www.conservativedailynews.com/2024/12/us-steelmakers-back-trumps-tariff-plans-amid-steep-foreign-competition/)
     
-    [Conservatives Come Out Against Trump’s DEA Pick Over What He Did During COVID](https://www.conservativedailynews.com/2024/12/conservatives-come-out-against-trumps-dea-pick-over-what-he-did-during-covid/)
+    [US Steelmakers Back Trump’s Tariff Plans Amid Steep Foreign Competition](https://www.conservativedailynews.com/2024/12/us-steelmakers-back-trumps-tariff-plans-amid-steep-foreign-competition/)
     
-    December 2, 2024
+    December 4, 2024
     
-* [![Donald Trump success](https://www.conservativedailynews.com/wp-content/uploads/2017/01/Donald-Trump-2.jpg)](https://www.conservativedailynews.com/2024/12/trump-working-his-magic-with-tariff-diplomacy/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/stg120324dAPR-1-220x150.jpg)](https://www.conservativedailynews.com/2024/12/suckers-2/)
     
-    [Trump Working His Magic With Tariff Diplomacy](https://www.conservativedailynews.com/2024/12/trump-working-his-magic-with-tariff-diplomacy/)
+    [Suckers!](https://www.conservativedailynews.com/2024/12/suckers-2/)
     
-    December 2, 2024
+    December 4, 2024
     
-* [![Joe Biden Hunter Biden pardon](https://www.conservativedailynews.com/wp-content/uploads/2024/12/gv120224dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/first-kids-immunity/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/01/Remains-of-service-members-caskets.jpg)](https://www.conservativedailynews.com/2024/12/women-shouldnt-be-in-combat-roles/)
     
-    [First Kid’s Immunity](https://www.conservativedailynews.com/2024/12/first-kids-immunity/)
+    [Women Shouldn’t Be in Combat Roles](https://www.conservativedailynews.com/2024/12/women-shouldnt-be-in-combat-roles/)
     
-    December 2, 2024
+    December 4, 2024
     
-* [![Joe Biden Pardon Hunter Biden](https://www.conservativedailynews.com/wp-content/uploads/2024/12/stg120224dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/another-broken-promise-2/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/02/taxes-220x150.jpg)](https://www.conservativedailynews.com/2024/12/will-i-be-taxed-on-my-sons-generosity/)
     
-    [Another Broken Promise…](https://www.conservativedailynews.com/2024/12/another-broken-promise-2/)
+    [Will I Be Taxed on My Son’s Generosity?](https://www.conservativedailynews.com/2024/12/will-i-be-taxed-on-my-sons-generosity/)
     
-    December 2, 2024
+    December 4, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/02/Woman-in-bath-220x150.png)](https://www.conservativedailynews.com/2024/12/epsom-salt-the-frugal-fix-all-you-didnt-know-you-needed/)
+* [![Joe Biden warmonger](https://www.conservativedailynews.com/wp-content/uploads/2023/01/stg012923dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/tucker-carlson-is-back-in-moscow-with-a-terrifying-revelation/)
     
-    [Epsom Salt: The Frugal Fix-All You Didn’t Know You Needed](https://www.conservativedailynews.com/2024/12/epsom-salt-the-frugal-fix-all-you-didnt-know-you-needed/)
+    [Tucker Carlson Is Back In Moscow With A Terrifying Revelation](https://www.conservativedailynews.com/2024/12/tucker-carlson-is-back-in-moscow-with-a-terrifying-revelation/)
     
-    December 2, 2024
+    December 3, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/241125-M-D0439-0086M-220x150.jpg)](https://www.conservativedailynews.com/2024/12/medal-of-honor-monday-marine-corps-sgt-james-e-johnson/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/10/church-220x150.jpg)](https://www.conservativedailynews.com/2024/12/religious-leaders-see-a-fourth-great-awakening-as-americans-flock-to-christianity/)
     
-    [Medal of Honor Monday: Marine Corps Sgt. James E. Johnson](https://www.conservativedailynews.com/2024/12/medal-of-honor-monday-marine-corps-sgt-james-e-johnson/)
+    [Religious Leaders See A ‘Fourth Great Awakening’ As Americans Flock To Christianity](https://www.conservativedailynews.com/2024/12/religious-leaders-see-a-fourth-great-awakening-as-americans-flock-to-christianity/)
     
-    December 2, 2024
+    December 3, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/10/Hunter-Biden-Joe-Biden.jpg)](https://www.conservativedailynews.com/2024/12/joe-biden-confirms-his-contempt-for-the-american-people-with-his-hunter-biden-pardon/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/09/wp1816998-donald-trump-wallpapers.jpg)](https://www.conservativedailynews.com/2024/12/trump-not-even-in-office-yet-already-more-effective-than-the-biden-harris-administration/)
     
-    [Joe Biden Confirms his “Contempt” for the American People with his Hunter Biden Pardon](https://www.conservativedailynews.com/2024/12/joe-biden-confirms-his-contempt-for-the-american-people-with-his-hunter-biden-pardon/)
+    [Trump, not even in Office Yet, already More Effective than the Biden-Harris Administration](https://www.conservativedailynews.com/2024/12/trump-not-even-in-office-yet-already-more-effective-than-the-biden-harris-administration/)
     
-    December 2, 2024
+    December 3, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [TFB Review: Springfield Armory Echelon 4.0C 9mm](https://www.thegunpage.com/tfb-review-springfield-armory-echelon-4-0c-9mm/10612269)
+* [POTD: Foreign Weapons For U.S. Air Commandos](https://www.thegunpage.com/potd-foreign-weapons-for-u-s-air-commandos/10612270)
+* [HOT GAT or FUDD CRAP? Multi-tool or Acting a Fool?](https://www.thegunpage.com/hot-gat-or-fudd-crap-multi-tool-or-acting-a-fool/10612271)
+* [GOA, GOF Coalition Files Amicus Brief at SCOTUS in Defense of American Gun Manufacturers](https://www.thegunpage.com/goa-gof-coalition-files-amicus-brief-at-scotus-in-defense-of-american-gun-manufacturers/10612268)
 * [Affordable Versatility: Exploring the .300 Blackout’s Potential with a Budget Bolt Gun and LPVO](https://www.thegunpage.com/affordable-versatility-exploring-the-300-blackouts-potential-with-a-budget-bolt-gun-and-lpvo/10612262)
 * [Bergara Offers Barreled Actions And Bare Actions](https://www.thegunpage.com/bergara-offers-barreled-actions-and-bare-actions/10612265)
 * [GOA Nominated for Two Gundies at SHOT Show](https://www.thegunpage.com/goa-nominated-for-two-gundies-at-shot-show/10612261)
 * [Jewish Teens In Dallas Speak Out About Gun Ownership](https://www.thegunpage.com/jewish-teens-in-dallas-speak-out-about-gun-ownership/10612259) 
 * [Pennsylvania State Police SERT Selects Geissele MK1MOD0](https://www.thegunpage.com/pennsylvania-state-police-sert-selects-geissele-mk1mod0/10612266)
-* [Custom Compact, Carry Piece – Springfield Armory Echelon 4.0C 9mm](https://www.thegunpage.com/custom-compact-carry-piece-springfield-armory-echelon-4-0c-9mm/10612260)
 * [Louisiana AG, New Orleans Police Superintendent Spar Over Carry Law](https://www.thegunpage.com/louisiana-ag-new-orleans-police-superintendent-spar-over-carry-law/10612254)
-* [USPSA Multigun Nationals: A New Lease On Life For Hit Factor](https://www.thegunpage.com/uspsa-multigun-nationals-a-new-lease-on-life-for-hit-factor/10612264)
-* [Griffin Armament Announces 1x And 3x T-2 Footprint Prism Sights](https://www.thegunpage.com/griffin-armament-announces-1x-and-3x-t-2-footprint-prism-sights/10612256)
-* [Firearm Background Checks Drop Nearly 10% Ahead of Black Friday 2024](https://www.thegunpage.com/firearm-background-checks-drop-nearly-10-ahead-of-black-friday-2024/10612248)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
