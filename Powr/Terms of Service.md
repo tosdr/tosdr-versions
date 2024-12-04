@@ -64,8 +64,7 @@
     * [HIPAA Forms](https://get.powr.io/hipaa-forms-online?referral=resources-dropdown)
     * [Best Apps for Shopify](https://www.powr.io/best-apps-for-shopify?utm_source=direct&utm_medium=top-nav&utm_campaign=best-apps-for-shopify)
     * [Black Friday Marketing](https://www.powr.io/best-apps-for-black-friday-marketing?utm_source=direct&utm_medium=top-nav&utm_campaign=black-friday-marketing)
-* [Sign Up FREE](https://www.powr.io/signupnull)
-* [Log In](https://www.powr.io/signin)
+* [Sign Up FREE](https://www.powr.io/signupnull)[Log In](https://www.powr.io/signin)
 
 * [Apps](https://www.powr.io/plugins)
 * [Plans & Pricing](https://www.powr.io/pricing)
@@ -589,7 +588,7 @@ Featured Blog post
 
 Online commerce is an integral part of the overall retail business.Read More
 
-Posted by on 2024-11-22](https://blog.powr.io/converting-cross-border-shoppers-during-black-friday-cyber-monday)
+Posted by on 2024-12-04](https://blog.powr.io/converting-cross-border-shoppers-during-black-friday-cyber-monday)
 
 [![POWR One: Website Plugins Suite - 60+ plugins all-in-one to personalize your website. No code. | Product Hunt](https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=415884&theme=light)](https://www.producthunt.com/posts/powr-one-website-plugins-suite?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-powr-one-website-plugins-suite)
 
