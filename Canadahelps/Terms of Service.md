@@ -1,5 +1,3 @@
-[It's GivingTuesday! Explore All The Ways You Can Participate Here.](https://www.canadahelps.org/en/givingtuesday/)
-
  
 
 TERMS OF USE
