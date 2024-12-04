@@ -26,9 +26,9 @@
         * [Guides](https://illumin.com/insights/guides/)
         * [Events](https://illumin.com/insights/events/)
         * [Podcasts & Webinars](https://illumin.com/insights/podcasts-webinars/)
-    * ![How AI is shaping digital advertising](https://illumin.com/wp-content/uploads/2023/09/How-AI-is-shaping-digital-advertising-1-263x300.jpg)
+    * ![Sustainable Programmatic Advertising: Navigating the Future of Digital Marketing](https://illumin.com/wp-content/uploads/2024/12/sustainable-teaser-263x300.png)
         
-        How AI is shaping digital advertising[Read More](https://illumin.com/insights/blog/ai-shaping-digital-advertising/)
+        Sustainable Programmatic Advertising: Navigating the Future of Digital Marketing[Read More](https://illumin.com/insights/sustainable-programmatic-advertising-navigating-the-future-of-digital-marketing/)
         
 * [Company](#)
     * [Company](#)
