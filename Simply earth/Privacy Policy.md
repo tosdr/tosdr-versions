@@ -221,7 +221,7 @@ Monday - Friday 7-3 CST
 * [Return Policy](https://simplyearth.helpscoutdocs.com/article/189-return-policy)
 * [Safety Notice](https://simplyearth.com/pages/wintergreen-alert)
 
-![](/storage/helpscout/484315.253534.png)
+![](/storage/helpscout/494420.249617.jpg)
 
 Questions? Chat With Us!
 
