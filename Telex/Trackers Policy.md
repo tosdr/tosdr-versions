@@ -4,7 +4,7 @@ Borbála, Barbara
 
 ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNgYAAAAAMAASsJTYQAAAAASUVORK5CYII= "borult")
 
-4°5°
+2°5°
 
 Menü
 
