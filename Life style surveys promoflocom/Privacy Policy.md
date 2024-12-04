@@ -175,13 +175,13 @@ You can also contact our data protection officer at **dpo@promoflo.com** or *
 
   
 
-[](https://promoflo.com/?ix=131211)[Legal Info](https://promoflo.com/?ix=131211)
+[](https://promoflo.com/?ix=131106)[Legal Info](https://promoflo.com/?ix=131106)
 
-[Privacy Policy](https://promoflo.com/?ix=131215)
+[Privacy Policy](https://promoflo.com/?ix=131110)
 
-[Terms & Conditions](https://promoflo.com/?ix=131216)
+[Terms & Conditions](https://promoflo.com/?ix=131111)
 
-[Copyright Policy](https://promoflo.com/?ix=131213)
+[Copyright Policy](https://promoflo.com/?ix=131108)
 
 [](https://promoflo.com/?ix=131040)[Home](https://promoflo.com/?ix=131040)
 
