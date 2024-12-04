@@ -142,7 +142,7 @@
 [My Feed!My Feed](https://www.barstoolsports.com/favorites)[App](https://www.barstoolsports.com/download)
 
 * Trending Topics
-* [Surviving Barstool](https://www.barstoolsports.com/blog/3532900/breaking-down-the-full-cast-of-season-4-of-surviving-barstool-with-dollar250k-to-the-winner)
+* [Surviving Barstool](https://www.barstoolsports.com/video/3532779/surviving-barstool-s4-ep.-1-or-barstool-coworkers-compete-for-largest-cash-prize-yet)
 * [Stella Blue Coffee](https://stellabluecoffee.com/)
 * [Barstool Store Best Sellers](https://store.barstoolsports.com/collections/best-sellers-page)
 * [Barstool Store NEW ARRIVALS](https://store.barstoolsports.com/collections/new-arrivals)
