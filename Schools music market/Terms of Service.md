@@ -26,7 +26,7 @@ Menu
 
 [](https://schoolsmusicmarket.com/wishlist/)
 
- [](https://schoolsmusicmarket.com/product/time-signatures-worksheet-activity/)
+ [](https://schoolsmusicmarket.com/product/making-a-hip-hop-beat-on-garageband-bandlab/)
 
 [HOME](https://schoolsmusicmarket.com/seller-dashboard)
 
@@ -282,7 +282,7 @@ Results
 
 See all results
 
- [](https://schoolsmusicmarket.com/product/music-quiz-including-answer-sheet/)
+ [](https://schoolsmusicmarket.com/product/a-musical-easter-notes-rests-worksheet/)
 
 ###### Browse By Year/Grade
 
