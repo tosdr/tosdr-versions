@@ -95,6 +95,58 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
+More The Global Flood Explains the Ice Age
+
+[![](/i/wide/british_atlantis_wide.jpg)](https://www.icr.org/article/making-sense-britains-atlantis)
+
+[Making Sense of Britain's Atlantis](https://www.icr.org/article/making-sense-britains-atlantis/)
+
+ICR News previously reported evidence of Ice Age habitations in the English Channel.1 Fishermen and, more recently, researchers have dredged...
+
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+
+[![](/i/Main%20Stage%20-%201400x1050/havrevolcano_1400x1050)](https://www.icr.org/article/deep-sea-volcano-flood)
+
+[Deep-Sea Volcano Gives Glimpse of Flood Eruptions](https://www.icr.org/article/deep-sea-volcano-flood/)
+
+A team of scientists from Australia and the USA recently studied the ejecta from a subsea volcano, gaining new insights into how magma can explode to the...
+
+BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
+
+[![](/i/wide/glacier_melt_wide.jpg)](https://www.icr.org/article/glaciers-can-melt-geologic-instant)
+
+[Glaciers Can Melt in a 'Geologic Instant'](https://www.icr.org/article/glaciers-can-melt-geologic-instant/)
+
+Many geological processes can happen much more quickly than is conventionally thought. For instance, mainstream science believes that coal, diamonds,...
+
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+
+More Impact
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/geneticrecombination_1400x1050.jpg)](https://www.icr.org/article/genetic-recombination-regulated-designed)
+
+[Genetic Recombination: A Regulated and Designed Chromos.,.](https://www.icr.org/article/genetic-recombination-regulated-designed/)
+
+According to the evolutionary paradigm, complex genetic information in the form of genes and regulatory DNA can randomly evolve through mutations and...
+
+BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/The_Final_Word.jpg)](https://www.icr.org/article/the-final-world)
+
+[The Final World: Renovation or New Creation?](https://www.icr.org/article/the-final-world/)
+
+In the beginning about 6,000 years ago, Jesus Christ created the heavens and the earth out of nothing, or ex nihilo, which I discussed in a previous...
+
+BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/Oceans_to_Young_Earth.jpg)](https://www.icr.org/article/oceans-young-earth)
+
+[The Oceans Point to a Young Earth](https://www.icr.org/article/oceans-young-earth/)
+
+by Jeffrey P. Tomkins, Ph.D., and Tim Clarey, Ph.D.\* Over 70% of Earth's surface is covered by water, most of which is marine and contained in...
+
+BY:  [VARIOUS AUTHORS](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=35)
+
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
