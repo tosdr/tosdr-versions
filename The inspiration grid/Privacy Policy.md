@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/12/illustration-cam-giang-feature.jpg)
+
+[](https://theinspirationgrid.com/lovely-illustrations-by-cam-giang/)
+
+### Lovely Illustrations & Fan Art by Cam Giang
+
+![](https://inspgr.id/app/uploads/2024/12/art-guardabosques-24-feature.jpg)
+
+[](https://theinspirationgrid.com/adorable-papercraft-animals-by-guardabosques/)
+
+### Adorable Papercraft Animals by Guardabosques
+
 ![](https://inspgr.id/app/uploads/2024/12/packaging-margo-me-feature.jpg)
 
 [](https://theinspirationgrid.com/margome-branding-by-studio-unbound/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/slanted-magazine-44-type-fashion/)
 
 ### Slanted Magazine #44: Type Fashion
-
-![](https://inspgr.id/app/uploads/2024/11/art-magdiel-lopez-24-feature.jpg)
-
-[](https://theinspirationgrid.com/striking-digital-collages-by-magdiel-lopez/)
-
-### Striking Digital Collages by Magdiel Lopez
-
-![](https://inspgr.id/app/uploads/2024/11/digital-art-arice-feature.jpg)
-
-[](https://theinspirationgrid.com/pouring-stones-abstract-digital-art-by-andrea-arice/)
-
-### Pouring Stones: Abstract Digital Art by Andrea Arice
 
 Awesome products for creatives
 ------------------------------
