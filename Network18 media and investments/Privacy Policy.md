@@ -128,12 +128,12 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
-    * [Vinod Kambli](https://www.news18.com/cricket/sachin-tendulkar-vinod-kambli-reunite-to-honour-their-coach-ramakant-achrekar-see-photos-9144214.html)
     * [Maharashtra CM](https://www.news18.com/india/maharashtra-cm-live-updates-eknath-shinde-devendra-fadnavis-bjp-mahayuti-shiv-sena-ncp-liveblog-liveblog-9142895.html)
+    * [Naga Chaitanya](https://www.news18.com/movies/naga-chaitanya-blushes-as-rana-daggubati-teases-him-about-wedding-with-sobhita-in-new-video-watch-9144704.html)
+    * [Govinda](https://www.news18.com/movies/govinda-shares-big-update-on-akshay-kumar-starrer-bhagam-bhag-sequel-nobody-has-approached-9144338.html)
     * [Janhvi Kapoor](https://www.news18.com/web-stories/celebrities/6-of-janhvi-kapoors-iconic-fashionable-looks-in-2024-2654309/)
-    * [Martial Law](https://www.news18.com/movies/emergency-martial-law-in-south-korea-k-pop-stars-being-asked-to-skip-events-cancel-festivals-9144156.html)
     * [Kareena Kapoor](https://www.news18.com/movies/kareena-kapoor-rolls-her-eyes-at-abhishek-bachchan-fans-notice-her-reaction-in-viral-video-watch-9143163.html)
-    * [Sabarmati Report](https://www.news18.com/movies/pm-modi-watches-sabarmati-report-hours-after-vikrant-massey-announces-retirement-shares-his-review-9142881.html)
+    * [Sukhbir Singh Badal](https://www.news18.com/explainers/why-is-sukhbir-singh-badal-being-punished-at-golden-temple-what-are-the-sad-leaders-mistakes-9144534.html)
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
@@ -170,12 +170,12 @@ Follow us on
 
 In Trends:
 
-* [Vinod Kambli](https://www.news18.com/cricket/sachin-tendulkar-vinod-kambli-reunite-to-honour-their-coach-ramakant-achrekar-see-photos-9144214.html)
 * [Maharashtra CM](https://www.news18.com/india/maharashtra-cm-live-updates-eknath-shinde-devendra-fadnavis-bjp-mahayuti-shiv-sena-ncp-liveblog-liveblog-9142895.html)
+* [Naga Chaitanya](https://www.news18.com/movies/naga-chaitanya-blushes-as-rana-daggubati-teases-him-about-wedding-with-sobhita-in-new-video-watch-9144704.html)
+* [Govinda](https://www.news18.com/movies/govinda-shares-big-update-on-akshay-kumar-starrer-bhagam-bhag-sequel-nobody-has-approached-9144338.html)
 * [Janhvi Kapoor](https://www.news18.com/web-stories/celebrities/6-of-janhvi-kapoors-iconic-fashionable-looks-in-2024-2654309/)
-* [Martial Law](https://www.news18.com/movies/emergency-martial-law-in-south-korea-k-pop-stars-being-asked-to-skip-events-cancel-festivals-9144156.html)
 * [Kareena Kapoor](https://www.news18.com/movies/kareena-kapoor-rolls-her-eyes-at-abhishek-bachchan-fans-notice-her-reaction-in-viral-video-watch-9143163.html)
-* [Sabarmati Report](https://www.news18.com/movies/pm-modi-watches-sabarmati-report-hours-after-vikrant-massey-announces-retirement-shares-his-review-9142881.html)
+* [Sukhbir Singh Badal](https://www.news18.com/explainers/why-is-sukhbir-singh-badal-being-punished-at-golden-temple-what-are-the-sad-leaders-mistakes-9144534.html)
 * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 
 * Follow Us
