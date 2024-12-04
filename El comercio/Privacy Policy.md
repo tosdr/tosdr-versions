@@ -31,6 +31,522 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Recordando a  Constant
+======================
+
+Resalta la vigencia del liberalismo como defensa de las libertades y la democracia frente al autoritarismo.
+-----------------------------------------------------------------------------------------------------------
+
+![Ramiro Rivera Molina, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Ramiro-Rivera-Molina.jpg)
+
+Acabo de leer un interesante libro de Ángel Rivero: _Benjamin Constant **teórico y político liberal,**_ publicado por la Fundación FAES de España.  Conozco algo de su pensamiento. Nació 22 años antes de la revolución francesa y falleció a los 63 años de edad.  He leído sus _Escritos políticos,_ publicado por el **Centro de Estudios Constitucionales de Madrid**.
+
+Hay una frase de Constant que dice: «_Hace tiempo dije que al ser la Constitución la garantía de la libertad de un pueblo, todo lo que tendiera a la libertad era constitucional, y que era inconstitucional todo lo que se alejara de ella_». Así, tendría sentido decir que Ecuador no tiene constitución. Lo aprobado en **Montecristi**, es una arenga ideológica, una proclama del estatismo autocrático, un laberinto romántico y farragoso; menos una constitución en sentido estricto.
+
+**Benjamín Constant**, como filósofo y político de relevancia histórica, en sus escritos y actuaciones, tuvo que actuar al lado de las **ideas de la libertad,** la república o la monarquía constitucional; frente a la derecha reaccionaria y nostálgica por el _**Antiguo Régimen** de_ la **monarquía** absoluta, o del radicalismo izquierdista del terror y de la guillotina. Siempre crítico de la arbitrariedad y el despotismo.
+
+La formidable inteligencia de Alexis de Tocqueville, resume de manera nítida el momento histórico en el que vivió **Constant**: «_Del siglo XVIII y de la Revolución, como un manantial común, salieron dos ríos: el primero conducía a los hombres a las instituciones libres, mientras que el segundo los llevaba al poder absoluto»._ En la corriente de las instituciones, **Constant** se hace merecedor de ser, en expresión de Carl Schmitt, «_el protagonista de la doctrina del constitucionalismo liberal, este no fue solo un brillante constructor de constituciones, sino el protagonista de la doctrina del constitucionalismo liberal»._
+
+El **pensamiento de Constant** tiene vigencia. No solo por sus críticas a la autarquía napoleónica, cuya versión actual serían los **autoritarismos mesiánicos y populistas**. Abogó por las libertades de los individuos, de la prensa y el flujo del pensamiento, sin estorbos.  Detestó la concentración del poder.  Prefería la monarquía constitucional, otorgando relevancia a la asamblea legislativa. Sus ideas tienen plena fuerza en el **pensamiento democrático contemporáneo**, y en el dilema entre la **democracia** y la amenaza de los de los despotismos. Este filósofo y político debería ser leído.  
+
+Cartas a Quito / 4 de diciembre de 2024
+=======================================
+
+Estas son las cartas a Quito de este miércoles 4 de diciembre de 2024
+---------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Carta al señor Representante de Naciones Unidas en el Ecuador
+-------------------------------------------------------------
+
+Con mucho respeto y consideración y también con mucha angustia y desesperación,  me dirijo a usted con esta carta, porque inútilmente he tratado que la prensa de mi país, se haga eco de mi sugerencia para pedir que las NNUU hagan todo el esfuerzo para que a nivel mundial se ponga en práctica cuanto antes, el llamado que hizo la UNDOC, el 27 de junio del año pasado ” a terminar la guerra contra las drogas y cambiar el enfoque a la Salud y Derechos Humanos”; pues es evidente que pretender terminar con el tráfico de estupefacientes por medios coercitivos es imposible, pues al considerar el consumo de tales substancias como ilegal, aumenta su precio y hace que los traficantes acumulen grandes fortunas, que los hace tremendamente poderosos y capaces de corromper a todos los componentes de la sociedad.
+
+La angustia y desesperación  que me anima al escribirle esta carta, es porque en el Ecuador, que hasta hace pocos años era una isla de paz, debido al auge de esta ilícita actividad, se ha convertido en uno de los países en los que ha aumentado considerablemente la violencia, a tal punto, que casi el 60% de los niños de las barriadas pobres de ciudades como Guayaquil, han sido reclutados por las mafias.
+
+Por lo mencionado en el párrafo anterior, me permito insistir en que las NNUU, impulse con decisión las acciones conducentes a hacer realidad la aplicación del nuevo enfoque ya mencionado con acciones tales, como tratar la adicción como una enfermedad mental, que requiere estudios sobre la forma de prevenirla e incrementar el establecimiento de centros médicos debidamente  equipados con personal, equipos y medicinas apropiadas para la rehabilitación de los drogadictos. Esto último ayudaría a evitar que existan tugurios en los que maltratan a los que quieren dejar el vicio. También significaría , el apoyo económico a países grandemente afectados por la pobreza  para establecer programas de recuperación económica; lo que a su vez cortaría el círculo vicioso por el cual, la falta de recursos económicos empuja a muchas personas a la delincuencia; y el fortalecimiento de  esta provoca el desempleo, debido a extorsiones y otras prácticas ilegales.
+
+Este pedido lo  hago, con la urgencia que demanda, tanto la dimensión  de las causas que originan el problema ya mencionado, como de las consecuencias que se han originado de tales causas.
+
+Tengo la esperanza, señor Representante, de que esta carta llegue a su conocimiento.
+
+Carlos A. González Sánchez
+
+Fiestas de Quito, la ruta gastronómica de los mercados tradicionales
+====================================================================
+
+Los mercados de Quito ofrecen una amplia variedad de opciones gastronómicas y productos diversos.
+-------------------------------------------------------------------------------------------------
+
+![Los mercados de Quito permanecen abiertos la mayoría de los días de la semana.](https://www.elcomercio.com/wp-content/uploads/2024/12/Mercados-de-Quito.jpg)
+
+Quito conmemora 490 años de su fundación con una agenda que incluye ferias, conciertos y desfiles. En este contexto, los **mercados tradicionales** se presentan como espacios principales para conocer la **cultura** y **gastronomía** de la capital[.](https://es.wikipedia.org/wiki/Mercado "https://es.wikipedia.org/wiki/Mercado")
+
+Más noticias
+------------
+
+* [¿Por qué hay un feriado en fiestas de Quito?](https://www.elcomercio.com/actualidad/quito/feriado-fiestas-quito-historia-fundacion.html "¿Por qué hay un feriado en fiestas de Quito?")
+* [Eventos y cierres viales durante la última semana de fiestas de Quito](https://www.elcomercio.com/actualidad/quito/eventos-cierres-vias-fiestas-quito-ultima-semana.html "Eventos y cierres viales durante la última semana de fiestas de Quito")
+* [Cortes de luz tendrán modificaciones por fiestas de Quito](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-tendran-modificaciones-por-fiestas-de-quito.html "Cortes de luz tendrán modificaciones por fiestas de Quito")
+
+Mercado San Francisco: medicina ancestral y tradición
+-----------------------------------------------------
+
+Ubicado en el **Centro Histórico** y fundado en 1952, el **Mercado San Francisco** está vinculado a prácticas de curación tradicionales.
+
+Hierbateras como Martha Jiménez, con más de 50 años de experiencia, ofrecen limpias y remedios con plantas andinas.
+
+Jiménez comentó que su “abuela decía que el **espanto** no es solo físico, también es **espiritual**. Por eso usamos hierbas como ruda y albahaca para sanar”.
+
+Entre los platos que se encuentran están la **fritada** y el **morocho**, opciones populares entre locales y turistas.
+
+Oferta de productos y servicios
+-------------------------------
+
+* **Medicina ancestral:** Las hierbateras, expertas en prácticas curativas tradicionales, ofrecen limpias y remedios naturales para diversos males. Estas prácticas son transmitidas de generación en generación, preservando un conocimiento invaluable.
+* **Productos frescos:** Frutas, verduras y hierbas medicinales.
+* **Comida típica:** Una pequeña sección de alimentos preparados con recetas tradicionales.
+
+**Horarios**: Lunes a viernes, de 07:30 a 16:30; fines de semana, hasta el mediodía.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/San-Franciso-1024x683.jpg)
+
+Las hierbateras están en el piso del patio de comidas. Foto: Cortesía
+
+Mercado Central: sabores de Quito
+---------------------------------
+
+En pleno centro de la ciudad, y fundado en 1953, el **Mercado Central**, ofrece opciones gastronómicas como el caldo de **gallina**, las tortillas de verde y el **caldo de bille**, plato tradicional de Quito elaborado con estómago de res.
+
+Lucía Sánchez, comerciante con 30 años de experiencia, señala que “cuando las personas prueban mis tortillas de verde o la **fritada**, recuerdan a sus madres y abuelas. Es un viaje a la memoria”.
+
+Oferta de productos y servicios
+-------------------------------
+
+* **Productos frescos:** Venta de frutas, vegetales, carnes y productos lácteos que reflejan la riqueza de la región andina.
+* **Comida típica:** Reconocido por sus platos tradicionales, como caldo de gallina, fritada, tortillas de verde y caldo de bille, preparados por comerciantes con décadas de experiencia.
+* **Hierbas y productos naturales:** Sección destinada a hierbas medicinales y productos agrícolas que preservan las prácticas tradicionales.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/mercado-central-quito-1024x683.jpg)
+
+El Mercado Central fue construido a inicios del siglo XX. Foto: Cortesía.
+
+**Horarios**: Lunes a sábado, de 06:30 a 15:00; domingos, de 06:30 a 14:00.
+
+Mercado América: flores y mariscos
+----------------------------------
+
+Desde 1950, el **Mercado América** es conocido por los quiteños por la venta de flores y mariscos.  
+Los jueves y domingos, la Feria de Mariscos permite adquirir productos ideales para platos como el ceviche.
+
+María Delgado, florista del mercado, comenta que en el mercado “vendemos rosas que llegan a diferentes partes del **mundo**, pero lo más especial son los arreglos que reflejan nuestras tradiciones”.
+
+**Horarios**: General, lunes a viernes, de 07:00 a 17:00; Feria de Mariscos, lunes a jueves, de 06:00 a 16:00; venta de flores, martes, jueves y viernes, de 06:00 a 14:00.
+
+Oferta de productos y servicios
+-------------------------------
+
+* **Flores frescas:** Conocido por su sección de flores, donde se ofrecen arreglos elaborados con cuidado y tradición, ideales para toda ocasión.
+* **Mariscos frescos:** La Feria de Mariscos, celebrada los jueves y domingos, es un evento emblemático que reúne a quienes buscan ingredientes frescos para platos típicos como el ceviche.
+* **Productos agrícolas:** Una selección de frutas, verduras y alimentos básicos que garantizan calidad y frescura.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/Mercado-America-1024x683.jpg)
+
+El Mercado América es conocido por sus ferias de venta de flores. Foto: Cortesía.
+
+Mercado San Roque: artesanías y productos locales
+-------------------------------------------------
+
+Fundado en 1917, el **Mercado San Roque** se caracteriza por su oferta de frutas, verduras y hierbas andinas, además de artesanías.
+
+Francisco Paredes, carpintero con más de 40 años de trayectoria, destaca que en el mercado “hacemos muebles que no solo son funcionales, también cuentan historias. Las personas vuelven años después porque buscan algo que les **recuerde a sus abuelos”**.
+
+**Horarios**: Lunes, de 09:00 a 15:00; martes a domingo, de 05:00 a 17:00.
+
+Oferta de productos y servicios
+-------------------------------
+
+* **Productos frescos:** Gran variedad de frutas, verduras, granos y hierbas secas provenientes de los valles andinos.
+* **Artesanías:** Elaboración de muebles de madera y otros productos artesanales que reflejan el trabajo de carpinteros y artesanos locales.
+* **Artículos tradicionales:** Venta de productos agrícolas y alimenticios que preservan las prácticas culturales de la región.
+* Oferta de productos y servicios
+* El Mercado América se distingue por su variedad y especialización. Entre sus principales ofertas se encuentran:
+* **Flores:** Amplia selección de flores frescas, destacándose por su calidad y arreglos personalizados, ideales para fiestas y celebraciones.
+* **Mariscos frescos:** La Feria de Mariscos, realizada los jueves y domingos, atrae a familias en busca de ingredientes frescos para platos tradicionales como el ceviche.
+* **Productos agrícolas:** Venta de frutas, verduras y alimentos básicos, garantizando calidad y frescura.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/mercado-San-Roque-1024x683.jpg)
+
+El Mercado de San Roque destaca por sus artesanos. Foto: Cortesía.
+
+### Mercado Santa Clara: diversidad en un solo espacio
+
+Desde 1954, el **Mercado Santa Clara** ha reunido productos frescos, artículos para el hogar y comida típica.
+
+Entre los platos más destacados se encuentran el **caldo de patas** y el **seco de chivo**. Ana Torres, comerciante, afirma que “no solo vendemos, ofrecemos una experiencia que conecta a las personas con sus raíces”.
+
+**Horarios**: Lunes a viernes, de 07:00 a 17:30; fines de semana, de 08:00 a 14:00.
+
+Productos y servicios
+---------------------
+
+* **Productos frescos:** Una oferta diversa de frutas, verduras, carnes, mariscos y lácteos.
+* **Comida preparada:** Un renovado patio de comidas con 53 locales que ofrecen platos tradicionales como caldo de gallina, fritada, hornado, corvina frita y jugos naturales.
+* **Artesanías:** Venta de artículos como alfarería, muebles de madera y canastos.
+* **Flores y plantas:** Una gran selección de flores frescas y plantas decorativas.
+* **Otros servicios:** Tiendas de ropa, bazares, productos naturales, artículos para mascotas y productos agro-veterinarios.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/Mercado-Santa-Clara-1024x683.jpg)
+
+El mercado de Santa Clara tiene una gran variedad de productos. Foto: Cortesía.
+
+La ONU investiga al régimen de Nicolás Maduro por las elecciones en Venezuela
+=============================================================================
+
+La ONU investiga al régimen de Nicolás Maduro por las elecciones en Venezuela.
+------------------------------------------------------------------------------
+
+![El Comité de la ONU investiga al régimen de Nicolás Maduro.](https://www.elcomercio.com/wp-content/uploads/2024/12/onu-nicolas-maduro.jpg)
+
+El **Comité de Derechos Humanos de la Organización de las Naciones Unidas (ONU)** investiga al régimen de **Nicolás Maduro** por el presunto fraude en las elecciones de **Venezuela**, este martes 3 de diciembre de 2024.
+
+El organismo internacional exigió conservar las **actas de escrutinio** al régimen de Maduro.
+
+### Más noticias:
+
+* [Diálogo pendiente: Nicolás Maduro ignora el llamado de familiares de ‘presos políticos’](https://www.elcomercio.com/actualidad/mundo/dialogo-pendiente-nicolas-maduro-ignora-llamado-familiares-presos-politicos.html "Diálogo pendiente: Nicolás Maduro ignora el llamado de familiares de ‘presos políticos’")
+* [Nicolás Maduro aprueba 30 años de prisión por promover sanciones extranjeras](https://www.elcomercio.com/actualidad/mundo/nicolas-maduro-aprueba-30-anos-prision-promover-sanciones-venezuela.html "Nicolás Maduro aprueba 30 años de prisión por promover sanciones extranjeras")
+* [Nicolás Maduro desafía al decir ‘Nunca entregaré el bastón de mando’](https://www.elcomercio.com/actualidad/mundo/nicolas-maduro-condecorara-21-venezolanos-sancionados-estados-unidos.html "Nicolás Maduro desafía al decir ‘Nunca entregaré el bastón de mando’")
+
+Comité de la ONU investiga al régimen de Nicolás Maduro por últimas elecciones en Venezuela
+-------------------------------------------------------------------------------------------
+
+Un grupo de **abogados** denunciantes informó que el Comité de Derechos Humanos de la ONU abrió un caso sobre el régimen de Nicolás Maduro y las elecciones en Venezuela.
+
+Uno de los abogados, **Paulo Abrão, exsecretario ejecutivo de la Comisión Interamericana de DDHH**, confirmó a EFE que el Comité les notificó hoy que su caso fue abierto.
+
+Además, el dictamen de varias **medidas provisionales** urgentes mientras investiga, principalmente, conservar los materiales electorales clave, como las **actas de escrutinio**.
+
+Abrão es uno de los cinco abogados de la **firma IHR Legal**, radicada en **Washington DC (EE.UU.)**, que denunciaron ante el Comité en octubre violaciones de fraude electoral masivo.
+
+También, falta de transparencia, restricción al voto en el exterior, obstrucción al control ciudadano y supresión de acceso a la justicia en **Venezuela**.
+
+La notificación del Comité, revisada por EFE, indica que este ha “solicitado al Estado parte que se abstenga de destruir el **material electoral** de las elecciones presidenciales”.
+
+Esto incluye las **actas de escrutinio** y otros documentos necesarios para elaborar el acta de totalización, adjudicación y proclamación.
+
+Los abogados dijeron en una nota que la apertura del caso es un “avance crucial en la lucha por la **democracia** y los derechos humanos en Venezuela”.
+
+“Probablemente, concluirá con una decisión internacional muy trascendente e histórica que constatará que **Nicolás Maduro no es el presidente electo de Venezuela**“, agregaron.
+
+### Detalles de la denuncia
+
+En su denuncia, “se alegan **violaciones a derechos políticos** en perjuicio de un venezolano común (no candidato), integrante de un grupo de millones de venezolanas y venezolanos cuyos derechos humanos han sido violados por el fraude electoral que Nicolás Maduro pretende consumar el 10 de enero de 2025″.
+
+Ese venezolano común es uno de los abogados, **Ignacio Álvarez Martínez**, residente en **EE.UU**., y que denuncia una privación del voto que es común al resto de sus conciudadanos en el extranjero, de los cuales estiman que 5,5 millones están habilitados para votar, es decir, una cuarta parte del electorado.
+
+Los abogados exponen en su denuncia la situación en **Venezuela** antes, durante y después de las elecciones del 28 de julio.
+
+Señalan que existe un “patrón sistemático de **desconocimiento de la voluntad** popular expresada en el voto, cuando los resultados electorales no favorecen a **Nicolás Maduro** y sus aliados”.
+
+Los abogados advierten “la posibilidad inminente de que se materialicen **daños irreparables a los derechos humanos**“.
+
+“A pesar de que se impidió votar al 99 % de los millones de venezolanos que viven en el exterior, las actas de escrutinio publicadas por la oposición revelan que el gobierno en funciones **perdió las elecciones**“, sentencian.
+
+Este Comité es un organismo de 18 expertos independientes que supervisa la aplicación del **Pacto Internacional de Derechos Civiles y Políticos por sus Estados partes.**
+
+Mejor amiga de Sandra Reyes, Mónica Ferreira en ‘Pedro el Escamoso’, contó sus últimos momentos
+===============================================================================================
+
+La también actriz de 'Pedro el Escamoso', Aura Helena Prada, dio detalles de cómo fueron los últimos días de Sandra Reyes, su mejor amiga.
+------------------------------------------------------------------------------------------------------------------------------------------
+
+![Aura Prada y Sandra Reyes actuaron juntas en Pedro el Escamoso](https://www.elcomercio.com/wp-content/uploads/2024/12/sandra-reyes-aura-prada.jpg)
+
+La conmoción en **Colombia** por el fallecimiento de la reconocida actriz **Sandra Reyes**, a los **49 años**, no cesa. Reyes, conocida y querida por su papel como la **doctora Paula** en la telenovela Pedro el Escamoso, falleció el **1 de diciembre de 2024**, tras una larga batalla contra el **cáncer de seno**, enfermedad que había mantenido en secreto hasta sus últimos días.
+
+### Más noticias
+
+* [Sandra Reyes es despedida con un emotivo mensaje de su hijo](https://www.elcomercio.com/tendencias/trending/sandra-reyes-actriz-pedro-el-escamoso.html "Sandra Reyes es despedida con un emotivo mensaje de su hijo ")
+* [Dos escenas de ‘Pedro el Escamoso 2’ presagiaron la muerte de Sandra Reyes](https://www.elcomercio.com/tendencias/videos-pedroelescamoso-sandra-reyes.html "Dos escenas de ‘Pedro el Escamoso 2’ presagiaron la muerte de Sandra Reyes")
+* [La actriz de ‘Pedro el Escamoso’ decidió no tratarse el cáncer cuando conoció el diagnóstico](https://www.elcomercio.com/tendencias/actriz-de-pedro-el-escamoso-cancer.html "La actriz de ‘Pedro el Escamoso’ decidió no tratarse el cáncer cuando conoció el diagnóstico")
+
+La actriz comenzó su carrera a temprana edad. A lo largo de sus **tres décadas** en la televisión, se destacó no solo por su papel en esta novela, sino también por otros personajes memorables como **Amparo Cadena** en El Cartel de los Sapos y **Aracely Urán** en la serie Rigo, donde interpretó a la madre del ciclista Rigoberto Urán.
+
+Su habilidad para dar vida a personajes complejos le valió un lugar especial en el **corazón del público colombiano y latinoamericano**.
+
+La **última aparición** de Reyes en televisión fue especialmente significativa; su personaje murió de **cáncer**, un trágico paralelismo con su propia vida[.](https://es.wikipedia.org/wiki/Pedro_el_escamoso "https://es.wikipedia.org/wiki/Pedro_el_escamoso")
+
+Sandra Reyes aceptó su enfermedad
+---------------------------------
+
+Reyes fue diagnosticada con **cáncer de seno** hace aproximadamente un año. A pesar de su enfermedad, mantuvo un **perfil bajo** respecto a su estado de salud, compartiendo solo con su círculo más cercano los detalles de su tratamiento.
+
+En sus últimos días, estuvo rodeada de **familiares** y **amigos**, quienes confirmaron que estaba lista para despedirse.
+
+Aura Helena Prada, la amiga más cercana a Sandra, habló sobre cómo fueron los **últimos días** de la actriz con su enfermedad.
+
+Aura Prada: ‘Sandra se fue en paz’
+----------------------------------
+
+En una conversación con la **Revista Vea**, Prada afirmó que “Sandra se fue muy en paz”. “Hizo todo un proceso de **aceptación** de su enfermedad y se fue tranquila, se fue en paz, se fue queriendo ir, o sea, estaba lista para partir, había hecho todo lo que ella consideraba que tenía que hacer”, mencionó la también actriz.
+
+**Aura Helena Prada**, la amiga más cercana de Sandra Reyes, expresó:
+
+“He pensado mucho en estos días porque pasé por todo con Sandra; el proceso de **frustración**, de **angustia**, de **negación**, de **pelea**. Estuve brava con ella, porque de alguna manera uno siempre quiere tener el control de las cosas (…) pero comprendí cuando me dijo: ‘Hice las cosas como yo consideraba que tenía que hacerlas’, y ella estaba en paz con eso”, confesó en entrevista.
+
+Aura y Sandra, ‘una relación íntima como hermanas’
+--------------------------------------------------
+
+“Pedíamos que fuera pronto por su situación y por los **dolores** que estaba padeciendo y porque ella ya había expresado que estaba lista y que se quería ir y que aceptaba ese proceso”, aseguró Prada.
+
+Aura Helena mencionó que estaba fuera del país, pero pudo regresar a Colombia para despedirse de su mejor amiga.
+
+“Cuando yo me despedí, Sandra, el sábado en la noche, me regaló un **momento muy bello, de paz**, de tranquilidad y me fui tranquila. Creo que Sandra me preparó para la muerte de otros seres queridos. Creo que ya me deja una gran lección en eso”, dijo.
+
+“Digamos que a nivel de vida en general, esa lealtad consigo misma, me hizo ver la muerte de una manera muy, muy diferente y lo agradezco porque me reconcilié con esa idea de morir”, añadió quien dio vida al papel de **Mónica Ferreira** en Pedro el Escamoso.
+
+Las actrices mantenían una “**relación íntima** como hermanas”, a decir por Aura. En la novela en la que compartieron, por irónico que parezca, sus personajes eran **rivales**.
+
+Andrea Arrobo tomó una decisión sobre el juicio político en el Pleno de la Asamblea
+===================================================================================
+
+El Pleno de la Asamblea tiene previsto tratar este miércoles 4 de diciembre de 2024 el juicio político contra Andrea Arrobo.
+----------------------------------------------------------------------------------------------------------------------------
+
+![Andrea Arrobo, exministra de Energía y Minas, enfrenta un proceso de juicio político en su contra.](https://www.elcomercio.com/wp-content/uploads/2024/04/andrea-arrobo-juicio-politico-construye.jpg)
+
+La **exministra de Energía y Minas, Andrea Arrobo**, tomó una decisión sobre el **juicio político** en su contra, este martes 3 de diciembre de 2024.
+
+El **Pleno de la Asamblea** tiene previsto tratar el juicio político en contra de la exministra de Energía, Andrea Arrobo, este miércoles 4 de diciembre, desde las 09:00.
+
+### Más noticias:
+
+* [Pleno de la Asamblea decidirá sobre el juicio político a Andrea Arrobo](https://www.elcomercio.com/actualidad/politica/pleno-asamblea-decidira-sobre-juicio-politico-andrea-arrobo.html "Pleno de la Asamblea decidirá sobre el juicio político a Andrea Arrobo")
+* [Asamblea Nacional tomó una decisión sobre el juicio político contra Andrea Arrobo](https://www.elcomercio.com/actualidad/politica/asamblea-nacional-tomo-decision-juicio-politico-andrea-arrobo.html "Asamblea Nacional tomó una decisión sobre el juicio político contra Andrea Arrobo")
+
+Decisión de Andrea Arrobo sobre el juicio político en el Pleno de la Asamblea
+-----------------------------------------------------------------------------
+
+Con los votos del movimiento oficialista, **Acción Democrática Nacional (ADN)**, **Construye y el Partido Social Cristiano (PSC)**, Arrobo fue llamada a juicio político.
+
+Construye y el PSC iniciaron este juicio político por supuesto **incumplimiento de funciones** de Arrobo, en el contexto de la **crisis energética** que atraviesa el país.
+
+La correísta y presidenta de la Asamblea, **Viviana Veloz**, convocó al Pleno de la Asamblea a sesión con el fin de conocer el juicio político contra la exministra para este miércoles.
+
+Sin embargo, alrededor de 12 horas antes, Arrobo se pronunció sobre la convocatoria en una **carta de dos páginas**, difundida en sus **redes sociales**.
+
+En esta carta, Arrobo señala que no comparecerá al **Pleno de la Asamblea**, dijo que teme **represalias** y teme por su vida.
+
+La exministra señaló que quisiera dirigirse a los 137 asambleístas en el Pleno, pero teme represalias “**devastadoras**“.
+
+Arrobo señaló que intentó alertar sobre la grave situación del **sector energético** al régimen, pero su capacidad de informar fue limitada.
+
+“Pudiendo **humillar** públicamente al Régimen, decido no hacerlo en el marco del juicio político”, aseguró.
+
+> Sobre el juicio político en mi contra, que se llevará acabo este miércoles en la [@AsambleaEcuador](https://twitter.com/AsambleaEcuador?ref_src=twsrc%5Etfw) a continuación expongo mis argumentos: [pic.twitter.com/Ot1nyW9ZeZ](https://t.co/Ot1nyW9ZeZ)
+> 
+> — Andrea Arrobo Peña (@andrearrobo) [December 4, 2024](https://twitter.com/andrearrobo/status/1864111227418419586?ref_src=twsrc%5Etfw)
+
+Andrea Arrobo, el juicio político y el ‘temor por su vida’
+----------------------------------------------------------
+
+La exministra de Energía y Minas, Andrea Arrobo, señaló que posee **pruebas** de haber informado al presidente Daniel Noboa sobre la crisis energética y las medidas que se debían tomar.
+
+Arrobo manifestó que teme por su vida y la de su familia, si **revela** públicamente estas pruebas.
+
+“Si le enseño al país los **chats** entre el Presidente de la República y yo en los que le informo de la crisis energética[;](https://www.eluniverso.com/temas/crisis-energetica-en-ecuador/) **si les pruebo** cómo insistí en hacerlo público para que la ciudadanía esté preparada y poder controlar los racionamientos; si la ciudadanía se da cuenta de que me prohibieron hablar y hasta me cancelaron la rueda de prensa que preparé, entonces **mi vida y la de mi familia habrá acabado**”, dijo.
+
+La exfuncionaria dijo que el gobierno no dio relevancia a la crisis energética del país. “Una crisis hídrica no era rentable para la consulta popular de abril de este año y **me callaron**”, añadió.
+
+Desvirtuó las acusaciones de paralización de servicio público y traición a la patria, dijo que necesitaban un **chivo expiatorio**.
+
+Fuertes lluvias en Cuenca causaron inundaciones y otras emergencias
+===================================================================
+
+Las fuertes lluvias registradas en Cuenca, en Azuay, causaron varias emergencias la tarde y noche de este martes 3 de diciembre.
+--------------------------------------------------------------------------------------------------------------------------------
+
+![Calles y casas se inundaron en Cuenca tras las fuertes lluvias de este martes](https://www.elcomercio.com/wp-content/uploads/2024/12/cuenca-lluvias-inundaciones.jpg)
+
+**Cuenca** registró **fuertes lluvias** la tarde y noche de este martes 3 de diciembre de 2024. Las precipitaciones causaron varias **emergencias** en la ciudad austral, entre ellas, **inundaciones** y el colapso de superficies.
+
+### Más noticias
+
+* [Pronósticos de lluvias son favorables para operación de hidroeléctricas](https://www.elcomercio.com/actualidad/ecuador/pronosticos-lluvias-favorables-operacion-hidroelectricas.html "Pronósticos de lluvias son favorables para operación de hidroeléctricas")
+* [Alcalde de Cuenca dio detalles de cómo la ciudad enfrenta el estiaje](https://www.elcomercio.com/actualidad/cuenca/alcalde-cuenca-estiaje-detalles-azuay.html "Alcalde de Cuenca dio detalles de cómo la ciudad enfrenta el estiaje")
+* [Estos son los rituales que fusionan distintas culturas para invocar a la lluvia](https://www.elcomercio.com/actualidad/mundo/rituales-lluvia-diferentes-culturas.html "Estos son los rituales que fusionan distintas culturas para invocar a la lluvia")
+
+La Empresa de **Gestión de Riesgos** de Cuenca detalló las alertas que dejaron las lluvias. La de mayor proporciones fue el **colapso de un muro** en las calles Julio Vinueza y Manuel Cisneros.
+
+El lugar fue cercado, mientras que las **vías** se mantuvieron **cerradas** para precautelar la seguridad de la ciudadanía.
+
+Los personeros de la entidad analizaron posibles riesgos en una **infraestructura cercana** y posibles daños a predios vecinos[.](https://www.etapa.net.ec/ "https://www.etapa.net.ec/")
+
+> [#AccionesInmediatas](https://twitter.com/hashtag/AccionesInmediatas?src=hash&ref_src=twsrc%5Etfw)  
+>   
+> En las calles Julio Vinueza y Manuel Cisneros se reporta caída de [#Muro](https://twitter.com/hashtag/Muro?src=hash&ref_src=twsrc%5Etfw). [@RiesgosCuenca](https://twitter.com/RiesgosCuenca?ref_src=twsrc%5Etfw) realiza inspección técnica que permita identificar causas y mitigar los daños.  
+>   
+> Al momento se cierra el perímetro por zona peligrosa, instituciones competentes evalúan. [pic.twitter.com/S4azA9PJiw](https://t.co/S4azA9PJiw)
+> 
+> — Dirección de Gestión de Riesgos (@RiesgosCuenca) [December 4, 2024](https://twitter.com/RiesgosCuenca/status/1864108080490815638?ref_src=twsrc%5Etfw)
+
+Lluvias en Cuenca causaron inundaciones
+---------------------------------------
+
+En el sector de **Yanuncay**, una vivienda resultó afectada por inundaciones. Gestión de Riesgos realizó una **inspección técnica** y se brindó asistencia a la familia que habita la casa.
+
+En otros lugares de la ciudad, trabajadores de la Empresa de Agua Potable, Alcantarillado y Saneamiento (Etapa EP) trabajaron en la **limpieza de sumideros** que se obstruyeron.
+
+Algunas zonas afectadas fueron: **vía Cuenca-Azogues**, exteriores del Ministerio de Transporte y Obras Públicas y Carmen de Guzho.
+
+> La naturaleza nos sorprende esta tarde. ☔️  
+>   
+> Disfrutemos de esta lluvia y valoremos el agua. [pic.twitter.com/kg3AiCd8Bu](https://t.co/kg3AiCd8Bu)
+> 
+> — Bomberos Cuenca (@Bomberos\_Cuenca) [December 3, 2024](https://twitter.com/Bomberos_Cuenca/status/1864065215198814714?ref_src=twsrc%5Etfw)
+
+Condiciones de los ríos en Cuenca
+---------------------------------
+
+El **Instituto Nacional de Metereología e Hidrología (Inamhi)** preveía lluvias para la tarde y noche de este martes 3 de diciembre.
+
+Mientras que para la madrugada de este miércoles 4 de diciembre, la entidad pronosticó lloviznas ocasionales y temperaturas mínimas de 10 grados centígrados.
+
+Se espera que estas condiciones continúen en los días próximos, lo que mejorará el caudal de los cuatro ríos que tiene Cuenca.
+
+Según el último informe presentado por Etapa EP, hasta la mañana de este martes, los niveles en los ríos eran bajos.
+
+* Tomebamba: 1,97 m³/s (bajo)
+* Yanuncay: 1,53 m³/s (bajo)
+* Macnahgar: 1,02 m³/s (bajo)
+* Tarqui: 1,98 m³/s (estiaje)
+
+> Ríos Tomebamba, Machángara y Yanuncay en estado bajo, Río Tarqui en estiaje  
+> 👉 144 días de sequía hidrológica.  
+> 👉 92% probabilidad de lluvia.  
+> 👉 Radiación UV será extremo.  
+>   
+> La probabilidad de temperatura aproximada para hoy 25°C.[@czamoramatute](https://twitter.com/czamoramatute?ref_src=twsrc%5Etfw) [@maveronicapolo](https://twitter.com/maveronicapolo?ref_src=twsrc%5Etfw) [pic.twitter.com/lulAoeFWpa](https://t.co/lulAoeFWpa)
+> 
+> — ETAPA EP (@ETAPAOficial) [December 3, 2024](https://twitter.com/ETAPAOficial/status/1863933638867386817?ref_src=twsrc%5Etfw)
+
+Los pronósticos de **lluvias** son favorables para la operación de las **hidroeléctricas**, desde este martes 3 hasta el domingo 8 de diciembre de 2024.
+
+El **Instituto Nacional de Metereología e Hidrología (Inamhi)** y la **Empresa Pública Municipal de Telecomunicaciones, Agua Potable, Saneamiento y Gestión Ambiental (Etapa)** de **Cuenca** informaron sobre las condiciones hidrológicas en el país y parte del Austro.
+
+Lluvias se mantendrán hasta el domingo 8 de diciembre
+-----------------------------------------------------
+
+El **Inamhi** informó que la **probabilidad de lluvias**, tormentas y ráfagas de viento se incrementó en varias regiones del país, desde este **martes 3 hasta el domingo 8 de diciembre**.
+
+Las lluvias y tormentas serán de variable intensidad para la **región Interandina,** norte e interior de la **región Litoral**.
+
+Además, en las estribaciones de las **cordilleras occidental y oriental**, parte de la Amazonía, donde se ubica la central **Coca Codo Sinclair**.
+
+La mayoría de estas regiones se encuentra en el **nivel alto**, seguido por el medio.
+
+Solo un sector entre **Esmeraldas, Carchi, Imbabura y Pichincha** presenta un nivel muy alto de lluvias y tormentas.
+
+Específicamente, el sábado 7 de diciembre, se prevén lluvias en nivel alto para **Loja** y parte de las provincias de: **El Oro, Azuay y Cañar.**
+
+### Esperanza
+
+Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
+
+Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
+
+[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
+
+  
+
+Liga de Quito e Independiente son los equipos más exitosos en la era Liga Pro
+=============================================================================
+
+Desde la creación de la Liga Pro, dos equipos se han destacado por su éxito: Liga de Quito e Independiente del Valle.
+---------------------------------------------------------------------------------------------------------------------
+
+![Liga de Quito e Independiente del Valle pelearán por el título de la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-03T210249.496.jpg)
+
+La **Liga Pro** arrancó en el fútbol ecuatoriano en 2019, y en 2024 se disputará su sexta y última final, ya que el formato cambiará a partir de la siguiente temporada. A lo largo de estos años, **Liga de Quito e Independiente del Valle** han sido protagonistas en las fases decisivas del torneo.
+
+Liga de Quito es el **equipo con más finales disputadas** en la era Liga Pro, con presencia en las finales de 2019, 2020, 2023 y 2024. Por su parte, Independiente del Valle ha llegado a tres finales: 2021, 2023 y 2024.
+
+### Más noticias:
+
+* [Las tres piezas clave de Liga de Quito para la final de Liga Pro](https://www.elcomercio.com/deportes/futbol/tres-piezas-clave-de-liga-de-quito-para-final-liga-pro.html "Las tres piezas clave de Liga de Quito para la final de Liga Pro")
+* [Las tres piezas clave de Independiente del Valle para la final de Liga Pro](https://www.elcomercio.com/deportes/futbol/tres-piezas-clave-independiente-del-valle-para-final-liga-pro.html "Las tres piezas clave de Independiente del Valle para la final de Liga Pro")
+* [Las sorpresivas medidas de seguridad para la final de Liga Pro](https://www.elcomercio.com/deportes/futbol/sorpresivas-medidas-de-seguridad-para-la-final-de-liga-pro.html "Las sorpresivas medidas de seguridad para la final de Liga Pro")
+
+Ambos equipos ya tienen un título en su haber, y esta final **definirá al primer bicampeón** de la era Liga Pro.
+
+Un dato relevante fue compartido por **Miguel Ángel Loor, presidente de la Liga Pro**, quien destacó que el récord de máximo goleador de una temporada lo tenía Jhonatan Bauman (IDV), hasta que en 2024 Alex Arce (Liga de Quito) lo superó.
+
+Esto refleja el impacto constante de ambos clubes en los momentos más importantes del campeonato.
+
+Las finales de Liga de Quito
+----------------------------
+
+Liga de Quito llegó a su primera final en la edición inaugural de la Liga Pro en 2019, donde se enfrentó a Delfín. **Después** de empatar 0-0 en el global, Delfín se coronó campeón al ganar en penales.
+
+En 2020, los albos volvieron a la final, donde empataron 1-1 con B**arcelona SC**, pero la suerte estuvo de lado de los toreros, quienes ganaron en penales.
+
+En 2021, la **‘U’ logró su primer título al derrotar a Independiente del Valle** en una final que también se definió por penales, luego de empatar 1-1 en el tiempo reglamentario.
+
+Las finales de Independiente del Valle
+--------------------------------------
+
+I**ndependiente del Valle consiguió su primer título en 2021,** enfrentándose a Emelec en la final. Ganaron 3-1 en la ida con goles de Junior Sornoza y Jhonatan Bauman, y un empate 1-1 en la vuelta les dio el campeonato.
+
+Su segunda final fue en 2023, donde perdieron ante Liga de Quito en una definición por penales.
+
+Cortes de luz en Guayaquil este miércoles 4 de diciembre
+========================================================
+
+Los cortes de luz en Guayaquil para este miércoles 4 de diciembre son de hasta siete horas no consecutivas para el sector residencial.
+--------------------------------------------------------------------------------------------------------------------------------------
+
+![Los cortes de luz en Guayaquil este miércoles 4 de diciembre son definidos por CNEL.](https://www.elcomercio.com/wp-content/uploads/2024/12/cortes-luz-guayaquil-miercoles-4-diciembre.jpg)
+
+Los **cortes de luz** en **Guayaquil** para este miércoles **4 de diciembre** de 2024 son hasta de siete horas para el sector residencial y hasta seis para el sector industrial.
+
+**CNEL** informó sobre la suspensión del servicio de energía eléctrica en la urbe porteña para mañana.
+
+### Más noticias:
+
+* [Pronósticos de lluvias son favorables para operación de hidroeléctricas](https://www.elcomercio.com/actualidad/ecuador/pronosticos-lluvias-favorables-operacion-hidroelectricas.html "Pronósticos de lluvias son favorables para operación de hidroeléctricas")
+* [Ausencia de lluvias en zonas de centrales hidroeléctricas este viernes](https://www.elcomercio.com/actualidad/ecuador/ausencia-lluvias-centrales-hidroelectricas-viernes-29-noviembre.html "Ausencia de lluvias en zonas de centrales hidroeléctricas este viernes")
+* [Las lluvias en Cuenca, ¿cómo aportaron al embalse de Mazar?](https://www.elcomercio.com/actualidad/negocios/lluvias-cuenca-como-aportaron-embalse-mazar.html "Las lluvias en Cuenca, ¿cómo aportaron al embalse de Mazar?")
+
+Horarios de cortes de luz en Guayaquil este miércoles de diciembre
+------------------------------------------------------------------
+
+La situación energética en **Ecuador** sigue siendo crítica al inicio del último mes del año.
+
+La escasez de lluvias hace que los niveles de las **centrales hidroeléctricas** sean bajos.
+
+Esto afecta la **generación eléctrica** de todo el país.
+
+La falta de diversificación de la **matriz energética** hace que la generación dependan, en su gran mayoría, de las lluvias.
+
+Mientras estas son las condiciones hidrológicas e hidroeléctricas del país, el Gobierno de **Daniel Noboa** anuncia la activación o reactivación de otros proyectos.
+
+Una unidad de la centra**l Alluriquín**, en el proyecto hidroeléctrico **Toachi-Pilatón**, inició las pruebas eléctricas, luego de pasar las mecánicas.
+
+Esto aportará con 68 MW al **Sistema Nacional Interconectado**.
+
+Además, este fin de semana llegaron los 23 motores de **generación termoeléctrica** que se instalarán en **El Salitral, Guayaquil.**
+
+Las autoridades estiman que estas unidades añadirán **80 MW** “contribuyendo a garantizar un suministro confiable y sostenible para el desarrollo del país”.
+
+Para esta semana, en **Guayaquil**, los cortes de luz tendrán los mismos horarios hasta el domingo.
+
+Este miércoles, los cortes de luz en Guayaquil son de hasta siete horas no consecutivas para el **sector residencial**, divididas en dos franjas horarias.
+
+En el **sector industrial**, son de hasta seis horas consecutivas.
+
+A continuación, los horarios de los **cortes de luz en Guayaquil para este miércoles 4 de diciembre** de 2024:
+
 Adulto mayor sobrevivió tras caer del techo de una casa en el centro de Quito
 =============================================================================
 
@@ -614,575 +1130,3 @@ Hasta las 18:20 del martes 3 de diciembre, Liga de Quito es la única entidad de
 Pedro Pablo Perlaza se unió a **Liga de Quito en 2020**, con 29 años, tras destacar en Delfín. Con el ‘Cetáceo’ logró el histórico título de la Liga Pro 2019, justamente frente a los albos.
 
 Con la camiseta de Liga de Quito, Perlaza disputó dos temporadas (2020 y 2021), acumulando 63 partidos entre Liga Pro, Supercopa Ecuador, Copa Libertadores y Copa Sudamericana. Durante su paso por el club, contribuyó con 14 asistencias y f**ue parte de los títulos de la Supercopa Ecuador en 2020 y 2021.**
-
-Caso de abuso a menor relacionado con colegio de Guayaquil ya está en investigación
-===================================================================================
-
-Padres de la menor dieron detalles sobre el caso de presunto abuso que alude a colegio de Guayaquil.
-----------------------------------------------------------------------------------------------------
-
-![Imagen referencial de abuso.](https://www.elcomercio.com/wp-content/uploads/2024/12/Ciudadana-de-Seleccion-y-Designacion-de-la-Primera-Autoridad-de-la-Defensoria-Publica-23.jpg)
-
-Un **caso de presunto abuso a una meno**r está en investigación luego de una denuncia pública. Este se encuentra atado a un colegio en Guayaquil, en Ecuador[.](https://es.wikipedia.org/wiki/Ecuador)[](https://es.wikipedia.org/wiki/Ecuador)
-
-Los hechos se habrían dado en 2022, No obstante, salieron a luz en este noviembre de 2024. El **Ministerio de Educación** no ha ampliado los detalles, mientras que los padres de la menor han difundido datos.
-
-### Más noticias
-
-* [Ministerio de Educación responde a caso de presunto abuso en plantel en Guayaquil](https://www.elcomercio.com/actualidad/seguridad/ministerio-educacion-responde-caso-abuso-plantel-guayaquil.html "Ministerio de Educación responde a caso de presunto abuso en plantel en Guayaquil")
-* [Gabriel Boric enfrenta denuncia por presunto abuso y difusión de fotos íntimas](https://www.elcomercio.com/actualidad/mundo/gabriel-boric-enfrenta-denuncia-presunto-abuso-difusion-otos-intimas.html "Gabriel Boric enfrenta denuncia por presunto abuso y difusión de fotos íntimas")
-* [Médico de colegio en Cuenca, a juicio por presunto abuso sexual a estudiante](https://www.elcomercio.com/actualidad/cuenca/medico-colegio-cuenca-juicio-abuso-sexual.html "Médico de colegio en Cuenca, a juicio por presunto abuso sexual a estudiante")
-
-Caso de abuso en colegio de Guayaquil y los pasos
--------------------------------------------------
-
-El jueves, 28 de noviembre de 2024, se instaló una reunión interinstitucional en la **Subsecretaría de Educación de la Zona 8**. El objetivo era analizar la situación y coordinar las acciones.
-
-Este 3 de diciembre, en cambio, desde el **[Ministerio de Educación](https://educacion.gob.ec/)** se indicó que las investigaciones continúan y que se ha detectado inconsistencias.
-
-Aunque, no se detalló cuáles, por tratarse de un caso en curso. La **Fiscalía** tampoco ha difundido datos puntuales del caso.
-
-Testimonios de padre y madre
-----------------------------
-
-A pesar de que no se conocen datos oficiales, el padre de la joven dio una entrevista en Radio RSN y habló de un **presunto secuestro**.
-
-De acuerdo con el hombre, la menor identificó a una persona de entre 30 y 35 años como quien la **violó**.
-
-Ella habría despertado en un cuarto “**tipo caleta**“, sin ventanas ni puertas. Según el padre, el supuesto agresor y dos personas que custodiaban el sitio golpearon a la adolescente.
-
-En el relato, el progenitor de la joven habló de una presunta **banda** que se dedicaría a la venta de la “**virginidad**” de menores de edad.
-
-Otros elementos
----------------
-
-Aunque el supuesto abuso no se habría dado en el plantel, el padre indicó que las personas involucradas en el secuestro y el abuso serían **profesores** de la institución educativa de Guayaquil, entre ellos, de **Matemáticas y Química**.
-
-En el testimonio, el hombre apuntó a la existencia de un **túnel** del sistema de alcantarilla que conectaba con la caleta. Ese estaba sellado a la hora de las pericias, dijo.
-
-La madre, quien también participó en la entrevista en el medio, aseguró que su hija se contagió de una bacteria. Esta habría sido resultado de la introducción de una **pinza** en el útero y una gasa.
-
-El padre de la joven también indicó que su hija no sería la única afectada y que la adolescente vio a más **menores** que se encontraban desnudas en el sitio del delito.
-
-* * *
-
-### Esperanza
-
-Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
-
-Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
-
-[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
-
-La ley marcial en Corea del Sur tiene tres precedentes desde 1972
-=================================================================
-
-En el verano de 2018, el general Lee Suk-koo, intentó imponer la ley marcial a través de un plan propuesto por la inteligencia militar.
----------------------------------------------------------------------------------------------------------------------------------------
-
-![Oficiales de policía y un vehículo militar frente a la Asamblea Nacional después de que el presidente surcoreano, Yoon Suk Yeol, declarara la ley marcial en Seúl, Corea del Sur.](https://www.elcomercio.com/wp-content/uploads/2024/12/corea-sur-policia.jpg)
-
-La declaración de la **ley marcial** por parte del presidente surcoreano, **Yoon Suk-yeol**, para proteger el “orden constitucional” de lo que considera **actividades “anti-estatales”**, y de las que acusa al principal bloque de la oposición, el **Partido Democrático** (PD) tiene tres precedentes en este país en los últimos cincuenta años.
-
-### Más noticias
-
-* [El presidente surcoreano revoca la ley marcial tras rechazo del Parlamento y prostestas](https://www.elcomercio.com/actualidad/mundo/presidente-surcoreano-revoca-ley-marcial-rechazo-parlamento-y-prostestas.html "El presidente surcoreano revoca la ley marcial tras rechazo del Parlamento y prostestas")
-* [EE.UU. apoya la decisión de la Asamblea Nacional surcoreana de levantar la ley marcial](https://www.elcomercio.com/actualidad/mundo/ee-uu-apoya-decision-asamblea-nacional-surcoreana-levantar-ley-marcial.html "EE.UU. apoya la decisión de la Asamblea Nacional surcoreana de levantar la ley marcial")
-* [Gobierno surcoreano declara la ley marcial ante actividades ‘pro-norcoreanas’ de oposición](https://www.elcomercio.com/actualidad/mundo/gobierno-surcoreano-declara-ley-marcial-ante-actividades-norcoreanas-oposicion.html "Gobierno surcoreano declara la ley marcial ante actividades ‘pro-norcoreanas’ de oposición")
-
-Tras dar un golpe militar en 1961, **Park Chung-hee** fue elegido presidente en 1963 y reelegido en 1971.
-
-Bajo su mandato, **Corea del Sur experimentó un crecimiento económico** sin precedentes, el llamado “Milagro del río Han”, lo que impulsó su **popularidad hasta principios de los setenta,** cuando esta empezó a decaer y decidió declarar en 1972 la ley marcial y aprobar una nueva constitución autoritaria que estaría vigente hasta poco después de su asesinato en 1979.
-
-En 1980
--------
-
-En mayo de 1980, el entonces presidente surcoreano **Chun Doo-hwan o**rdenó la ley marcial y los militares detuvieron a los principales líderes políticos de la oposición, se cerraron las universidades, se prohibieron actividades políticas y se restringió la prensa.
-
-Aquella imposición trajo el denominado levantamiento en la ciudad de Gwangju, a unos 330 kilómetros al sur de Seúl, donde se estima que el ejército mató a unos 600 civiles.
-
-Noviembre 2020
---------------
-
-El 30 de noviembre de 2020, un tribunal de Corea del Sur declaró culpable a Chun Doo-hwan de difamar a un testigo ya fallecido en relación con la masacre que el ejército perpetró en la ciudad de Gwangju en 1980 cuando era jefe de Estado.
-
-El tribunal de distrito de Gwangju respaldó el testimonio del testigo, un sacerdote que afirmó en unas memorias **publicadas en 2017** que **helicópteros dispararon contra civiles** durante aquella acción, y condenó a Chun, que tenía 89 años, a ocho meses de prisión, suspendida por dos años.
-
-El exdictador, una de las **figuras más polémicas** de la política surcoreana, nunca admitió ninguna responsabilidad ni pidió perdón por la masacre.
-
-Verano de 2018
---------------
-
-Más recientemente, en el verano de 2018, el **general Lee Suk-koo**, intentó imponer la ley marcial a través de un plan propuesto por la **inteligencia militar** para acabar con las protestas contra la expresidenta Park Geun-Hye en 2017, quien estaba acusada de corrupción y que contemplaba el arresto de parlamentarios o la censura de medios.
-
-Sin embargo, poco después, el entonces presidente surcoreano**, Moon Jae-in**, destituyó al mencionado general y ordenó refundar este organismo. 
-
-Piero Hincapié y Leverkusen eliminan a Bayern Múnich en Copa de Alemania
-========================================================================
-
-El Bayer Leverkusen, con Piero Hincapié los 90 minutos en cancha, eliminó al Bayern Múnicha y está en cuartos de la Copa de Alemania.
--------------------------------------------------------------------------------------------------------------------------------------
-
-![Piero Hincapié (der.), del Bayer Leverkusen, defiende un balón ante un rival del Bayer Múnich en la Copa de Alemania.](https://www.elcomercio.com/wp-content/uploads/2024/12/1000179575-scaled.jpg)
-
-**Piero Hincapié** volvió a brillar con el Bayer Leverkusen y tuvo una destacada actuación ante el Bayern Múnich en la **Copa de Alemania**. El equipo del ecuatoriano se impuso como visitante por 0-1 y obtuvo su boleto hacia los cuartos de final del certamen.
-
-Uno de los partidos más atractivos de la jornada copera en tierras alemanas resultaba el de los dos clubes. A nivel de la **Bundesliga**, ambos se encuentran en lo alto dentro de la tabla y, a su vez, llegaban como favoritos en la Copa.
-
-### Más noticias:
-
-* [El Leverkusen vence a Union Berlin con un destacado Piero Hincapié](https://www.elcomercio.com/deportes/bayer-leverkusen-piero-hincapie-union-berlin.html "El Leverkusen vence a Union Berlin con un destacado Piero Hincapié")
-* [Piero Hincapié se redime con victoria en el Bayer Leverkusen](https://www.elcomercio.com/deportes/futbol/piero-hincapie-victoria-bayer-leverkusen-heidenheim.html "Piero Hincapié se redime con victoria en el Bayer Leverkusen")
-* [Piero Hincapié agradece a sus compañeros tras la victoria ante Colombia](https://www.elcomercio.com/deportes/futbol/piero-hincapie-agradece-a-sus-companeros-tras-la-victoria-ante-colombia.html "Piero Hincapié agradece a sus compañeros tras la victoria ante Colombia")
-
-Para el duelo ante los bávaros, el equipo de **Hincapié** también llegaba con una notable chapa gracias a su campaña previa. En la temporada 2023-2024, el ecuatoriano y el **Leverkusen** se coronaron campeones del certamen[.](https://es.wikipedia.org/wiki/Bayer_Leverkusen)
-
-De cara al cotejo frente al Bayern Múnich, el DT **Xabi Alonso** de las ‘aspirinas’ decidió utilizar sus mejores cartas e Hincapié saltó a la cancha como titular. El defensor tricolor se ubicó como lateral izquierdo y estuvo presente durante los 90 minutos de juego.
-
-Una expulsión que perjudicó al Bayern Múnich
---------------------------------------------
-
-El duelo, sobre el papel, lucía parejo y así fue, sin embargo, una jugada puntual marcó el ritmo del cotejo en el primer tiempo y lo condicionó para el resto de su desarrollo. A los 17 minutos de juego, el arquero **Manuel Neuer**, de los de Múnich, fue expulsado.
-
-Después de un pelotazo hacia **Emmanuel Frimpong**, Manuel Neuer falló en la salida. En su intento por despejar la pelota, este no llegó y se llevó consigo a su rival, de manera que cortó una jugada manifiesta de gol y vio la tarjeta roja.
-
-El jugar con menos cambió el panorama del cuadro bávaro, que debió arreglárselas para continuar con 10 lo que restaba del partido. Pese a que terminó el primer tiempo **sin goles en contra**, en el segundo ya no resistió.
-
-El triunfo del Leverkusen y Piero Hincapié
-------------------------------------------
-
-El gol de definición en los octavos de final de la Copa de Alemania llegó gracias a **Nathan Tella**, quien había ingresado desde el banco de suplentes. El futbolista logró conectar un cabezazo y sentenciar el compromiso.
-
-Después de que **Alejandro Grimaldo** recibiese un centro desde el costado zurdo, Tella apareció para enviar el balón al fondo de las redes. Con ello, el resultado se volvió irremontable para el Bayern Múnich.
-
-El papel de **Hincapié**, a su vez, fue clave para sostener el resultado y administrar la ventaja de un hombre más. Este se mostró sólido ante las arremetidas de sus rivales y prestó a dar una mano en ataque, de forma que se aproveche la superioridad numérica.
-
-Las tres piezas clave de Independiente del Valle para la final de Liga Pro
-==========================================================================
-
-Independiente del Valle jugará su tercera final de la Liga Pro desde la creación del torneo hace seis años.
------------------------------------------------------------------------------------------------------------
-
-![Richard Schunke, Jeison Medina y Joao Ortiz son las figuras de Independiente del Valle en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-03T171854.503.jpg)
-
-**Independiente del Valle estuvo** cerca de consagrarse campeón directo en la Liga Pro 2024, pero un tropiezo frente a Liga de Quito en la última jornada de la segunda etapa le impidió este logro.
-
-Pese a este contratiempo, los ‘rayados’ buscarán el **título enfrentando nuevamente a la ‘U’** en una reedición de la final de 2023, donde los albos se coronaron campeones por penales.
-
-### Más noticias:
-
-* [Las tres piezas clave de Liga de Quito para la final de Liga Pro](https://www.elcomercio.com/deportes/futbol/tres-piezas-clave-de-liga-de-quito-para-final-liga-pro.html "Las tres piezas clave de Liga de Quito para la final de Liga Pro")
-* [Esto gastó un hincha de Liga de Quito para las finales de la Liga Pro](https://www.elcomercio.com/deportes/final-liga-pro-historico-precio.html "Esto gastó un hincha de Liga de Quito para las finales de la Liga Pro")
-* [Liga de Quito se prepara para la salida de Álex Arce en 2025](https://www.elcomercio.com/deportes/alex-arce-liga-quito-2025.html "Liga de Quito se prepara para la salida de Álex Arce en 2025")
-
-¿Tomará venganza Independiente o volverá a sucumbir ante Liga de Quito? Para conquistar la ansiada copa, el técnico **Javier Gandolfi** cuenta con tres piezas clave que serán fundamentales en la búsqueda de su primer título como entrenador.
-
-Las tres piezas clave de Independiente del Valle
-------------------------------------------------
-
-Carlos Sevilla, histórico entrenador del fútbol ecuatoriano, conversó con _EL COMERCIO_ sobre la final de la Liga Pro y seleccionó las principales figuras de Independiente del Valle. Según el entrenador, las tres piezas clave de los ‘rayados’ son Richard Schunke, Joao Ortiz y Jeison Medina.
-
-Richard Schunke, el líder de IDV
---------------------------------
-
-Para Sevilla, **Richard Schunke es el corazón de la defensa y del equipo**. Luego de superar una dura lesión que lo alejó de las canchas la temporada pasada, el capitán de Independiente volvió más fuerte y se consolidó como uno de los mejores centrales del campeonato.
-
-“Tiene buen cabeceo, gran anticipo y **maneja muy bien la cobertura de sus compañeros**. Es un organizador dentro del campo y tiene una excelente colocación,” destacó Sevilla.
-
-### Números en Liga Pro:
-
-* **Partidos**: 22
-* **Equipo de la semana:** 4
-* **Entradas**: 26
-* **Recuperaciones:** 73
-* **Despejes:** 77
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-03T171749.134-1024x683.jpg)
-
-Richard Schunke es el capitan de IDV.
-
-Joao Ortiz, el comodín del equipo
----------------------------------
-
-**Joao Ortiz** tuvo un tramo complicado durante la temporada, pero en la recta final recuperó el nivel que lo llevó a ser convocado a la **Selección de Ecuador.**
-
-“Es un jugador clave en labores defensivas y de organización. Puede apoyar a los volantes de contención y muchas **veces soluciona problemas en el área** central,” analizó Sevilla.
-
-### Números en Liga Pro:
-
-* **Partidos**: 27
-* **Equipo de la semana:** 2
-* **Pases completados:** 91%
-* **Recuperaciones**: 154
-* **Entradas**: 27
-* **Goles**: 1
-* **Asistencias**: 3
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-03T171812.844-1024x683.jpg)
-
-Joao Ortiz En un partido de Independiente del Valle.
-
-Jeison Medina, el ‘killer’ del área
------------------------------------
-
-Independiente del Valle reforzó su ataque para la segunda etapa de la Liga Pro con la contratación de **Jeison** **Medina**, quien brilló en Aucas durante el primer semestre. Aunque le costó adaptarse inicialmente, se consolidó como el delantero goleador que los ‘rayados’ necesitaban.
-
-“Medina **es un goleador nato**, con una excelente definición de media distancia y buen remate,” comentó Sevilla.
-
-### Números en Liga Pro:
-
-* Partidos: 30
-* Equipo de la semana: 7
-* Tiros por partido: 2.3
-* Tiros a puerta por partido: 1.4
-* Frecuencia de goles: 110 minutos
-* Goles: 20
-* Asistencias: 3
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-03T171734.803-1024x683.jpg)
-
-Jeison Medina es uno de los máximos goleadores de la Liga Pro.
-
-La joven sensación de IDV
--------------------------
-
-Carlos Sevilla también destacó a **Keny** **Arroyo**, un joven que comenzó el torneo como revulsivo y terminó ganándose la titularidad en el tramo final de la temporada.
-
-Destaca por su **buena toma de decisiones** pese a su corta edad, su velocidad, regate y entendimiento del juego. Ha sido un gran socio para Jeison Medina.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-03T171629.737-1024x683.jpg)
-
-Keny Arroyo fue una de las figuras en la segunda etapa de la Liga Pro.
-
-Caso Pantalla, testigos protegidos revelan corrupción en el Consejo de la Judicatura
-====================================================================================
-
-Testigos protegidos revelaron cómo funcionaba el Consejo de la Judicatura en el caso Pantalla.
-----------------------------------------------------------------------------------------------
-
-![Audiencia del caso Pantalla en la Corte Nacional de Justicia el pasado 2 de diciembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-87.jpg)
-
-El **caso Pantalla** revela irregularidades en el proceso de **selección de jueces y conjueces de la Corte Nacional de Justicia en 2023**, liderado por el **Consejo de la Judicatura** bajo la presidencia de **Wilman T**.
-
-### Más noticias
-
-* [Wilman Terán fue mencionado sobre el reparto en el Consejo de la Judicatura](https://www.elcomercio.com/actualidad/seguridad/wilman-teran-mencionado-reparto-jueces-fiscales-caso-pantalla-testigo-protegido.html "Wilman Terán fue mencionado sobre el reparto en el Consejo de la Judicatura")
-* [Caso Metástasis, Tribunal sentencia a Wilman Terán y 19 procesados a entre 3 y 10 años](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-jueza-confirma-delincuencia-organizada-se-espera-sentencia.html "Caso Metástasis, Tribunal sentencia a Wilman Terán y 19 procesados a entre 3 y 10 años")
-* [Wilman Terán fue acusado en un tercer juicio, conozca qué se trata](https://www.elcomercio.com/actualidad/seguridad/wilman-teran-acusado-tercer-juicio-caso-pantalla.html "Wilman Terán fue acusado en un tercer juicio, conozca de qué se trata")
-
-Este concurso, anulado en enero de 2024, evidenció posibles **actos de tráfico de influencias**, asociación ilícita y corrupción a gran escala, manchando la credibilidad de la **Función Judicial**.
-
-Las investigaciones, impulsadas por la **Fiscalía General del Estado (FGE)**, buscan **esclarecer como altos funcionarios del Consejo de la Judicatura manipularon el proceso** para beneficiar a determinados postulantes.
-
-A su vez, se han recogido **testimonios y realizado múltiples allanamiento**s para identificar a los responsables y el alcance de sus acciones.
-
-Cronología de los hechos
-------------------------
-
-### 24 de abril de 2024
-
-La Fiscalía **ejecutó allanamientos** en sectores clave de **Quito como Tumbaco y Quitumbe**, recabando celulares, computadoras y **documentos relevantes**. Estos operativos proporcionaron los primeros indicios sólidos sobre el caso.
-
-### 5 de septiembre de 2024
-
-Nuevos allanamientos se enfocaron en áreas sensibles del **Consejo de la Judicatura**, incluyendo **Tecnologías de la Información y Talento Humano**.
-
-Ese día, la Fiscalía formula cargos contra **Santiago C. y Milton H.**, acusados de tráfico de influencias. Ambos enfrentan **prisión preventiva**.
-
-### 26 de octubre de 2024
-
-Wilman T., y otros funcionarios clave, como Anabel T., David G. y Juan Carlos E., son vinculados **formalmente al caso**. Las medidas cautelares incluyen prisión preventiva para T., y Anabel T., esta última buscada por la **Interpol**.
-
-### 30 de octubre de 2024
-
-La Fiscalía reformula cargos **contra los procesados**, quienes ahora enfrentan acusaciones de asociación ilícita. Se ratifican las medidas cautelares mientras las investigaciones avanzan.
-
-Los testimonios de los testigos protegidos en el caso Pantalla
---------------------------------------------------------------
-
-Durante la audiencia del 2 de diciembre de 2024, los cuatro testimonios anticipados presentados ante la **Corte Nacional de Justicia** brindaron detalles impactantes sobre cómo se manejó el Consejo de la Judicatura bajo el liderazgo de Wilman T.
-
-> 📍El testimonio rendido ayer, dentro del caso pantalla, deja claro que Wilman Terán planificaba sacarme de la presidencia de la Corte, muchos jueces estuvimos en su contra y le retiramos la confianza por sus actos bochornosos!  
-> 📍Muy claro que yo no le nombré en la terna ni tuve… [pic.twitter.com/7HK3QrcYID](https://t.co/7HK3QrcYID)
-> 
-> — Iván Saquicela Rodas :. (@ivansaquicela) [December 3, 2024](https://twitter.com/ivansaquicela/status/1863943643049963586?ref_src=twsrc%5Etfw)
-
-El ‘_troll center_‘ y la manipulación del concurso
---------------------------------------------------
-
-El primer testigo en rendir declaración, identificado como J.A.M.A., reveló cómo Wilman T., utilizó fondos públicos para contratar un _troll center_ por **30 000 dólares**.
-
-Este servicio tenía como objetivo **difundir información falsa** y atacar a sus opositores en redes sociales.
-
-J.A.M.A., ingeniero ambiental de profesión y estudiante de Derecho, también explicó que, aunque ingresó al CJ por recomendación de un **amigo cercano a Wilman T.**, su rol terminó convirtiéndose en una herramienta más para ejecutar las órdenes del **expresidente de la entidad**.
-
-Respecto al **concurso de jueces**, J.A.M.A. relató un episodio clave, mientras supervisaba la prueba teórica, observó cómo Anabel T., aliada cercana de Wilman T., **no realizaba el examen**. Según su testimonio, Santiago C., asesor de Wilman T., fue quien lo completó en su lugar. Esta acción relató, era una muestra de las **irregularidades en el proceso de selección**.
-
-J.A.M.A. también mencionó un episodio en el que el hijo de Anabel T., llevó una mochila con **20 000 dólares a la Corte Nacional**, presuntamente para entregarla a los abogados. Aunque no pudo confirmar a quién se dio el dinero, su relato subrayó la **estrecha relación entre Wilman T., y Anabel T.**, así como las **operaciones financieras** detrás del caso.
-
-Supuestas amenazas y manipulación
----------------------------------
-
-F. H., exasesor de Wilman T., describió un ambiente de **constante intimidación y presión**. Aunque inicialmente señaló haber **recibido amenazas**, confesó que él mismo las envió para demostrar su lealtad.
-
-Además, relató un episodio en el que su esposa fue abordada por desconocidos que, con **fotografías personales**, le advirtieron que debía dejar a F. H., cuando informó a Wilman T., sobre este incidente, este **desestimó las amenazas** y le instó a continuar trabajando.
-
-> [#AHORA](https://twitter.com/hashtag/AHORA?src=hash&ref_src=twsrc%5Etfw) | [#CasoPantalla](https://twitter.com/hashtag/CasoPantalla?src=hash&ref_src=twsrc%5Etfw): M. F. H. M., procesado y testigo protegido, también rindió su testimonio anticipado, en el marco de esta causa, en la que [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw) investiga el presunto cometimiento del delito de [#AsociaciónIlícita](https://twitter.com/hashtag/Asociaci%C3%B3nIl%C3%ADcita?src=hash&ref_src=twsrc%5Etfw). [pic.twitter.com/BbxD7ZGJJc](https://t.co/BbxD7ZGJJc)
-> 
-> — Fiscalía Ecuador (@FiscaliaEcuador) [December 3, 2024](https://twitter.com/FiscaliaEcuador/status/1863750013584601385?ref_src=twsrc%5Etfw)
-
-El testimonio de H. F., también expuso el control ejercido por Wilman T., sobre decisiones clave en la Judicatura. Por ejemplo, detalló reuniones con Luis R., exjuez de la [Corte Nacional](https://es.wikipedia.org/wiki/Corte_Nacional_de_Justicia "https://es.wikipedia.org/wiki/Corte_Nacional_de_Justicia"), para garantizar su designación como presidente de la Corte.
-
-Además, describió cómo se utilizaron estrategias para perjudicar a jueces opuestos a Wilman T., y favorecer a sus aliados.
-
-Revelación de los ‘ángeles negros’
-----------------------------------
-
-S. C., testigo protegido y conocido como uno de los **principales asesores de Wilman T.**, reveló la existencia de una **estructura organizada dentro de la Judicatura**. Esta estructura se dividía entre **‘ángeles negros’ y ‘ángeles blancos’**, quienes tenían tareas específicas para mantener a Wilman T., en el poder.
-
-Los **‘ángeles negros’** ejecutaban actividades de intimidación y gestionaban un supuesto grupo armado que protegía los intereses de Wilman T., mientras los **‘ángeles blancos’** se encargaban de planificar su proyecto político, incluido su intento de llegar a la **Presidencia de la República**. Al menos, según las indagaciones.
-
-S. C., también utilizó un **pizarrón para explicar cómo esta estructura operaba**, desde la manipulación de procesos judiciales hasta la **designación de funcionarios estratégicos**. Su testimonio incluyó referencias a cómo la red utilizaba **recursos de la Judicatura** para consolidar el control político y judicial de Wilman T.
-
-El reparto de cuotas y la corrupción entre copas
-------------------------------------------------
-
-D. G., **exdirector general de la Judicatura**, ofreció un testimonio revelador sobre el reparto de cuotas dentro del Consejo. Según Guzmán, Wilman T., asignaba direcciones estratégicas a sus aliados políticos, garantizando así el control sobre decisiones clave.
-
-Además, mencionó que varias **direcciones fueron ocupadas por personas cercanas a Wilman T.**, incluidas mujeres con quienes mantenía relaciones sentimentales.
-
-D. G., también denunció el **consumo excesivo de alcohol** por parte de Wilman T., quien, según él, dirigía sesiones del **Pleno de la Judicatura** y tomaba decisiones importantes en **estado de ebriedad**. Este comportamiento, afirmó D. G., afectó gravemente el **manejo de la entidad** y permitió que se tomaran decisiones arbitrarias en beneficio de Wilman T., y su círculo cercano.
-
-* * *
-
-### Esperanza
-
-Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
-
-Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
-
-[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
-
-Nuevos incidentes en la Penitenciaría del Litoral dejan heridos este martes 3 de diciembre
-==========================================================================================
-
-La Penitenciaría del Litoral vuelve a ser escenario de violencia este 2024, se reportan reos heridos.
------------------------------------------------------------------------------------------------------
-
-![Nuevos incidentes en la Penitenciaría del Litoral dejan heridos.](https://www.elcomercio.com/wp-content/uploads/2024/12/Penitenciaria-del-litoral.jpg)
-
-Nuevos **incidentes** en la **Penitenciaría del Litoral** dejaron heridos este **martes 3 de diciembre** de 2024[.](https://es.wikipedia.org/wiki/Penitenciar%C3%ADa_del_Litoral)
-
-El **Servicio de Atención a las Personas Privadas de la Libertad y Adolescentes Infractores (SNAI)** dio detalles de lo ocurrido.
-
-### Más noticias:
-
-* [Vuelve la tensión a la Penitenciaría del Litoral, tras masacre](https://www.elcomercio.com/actualidad/seguridad/penitenciaria-litoral-tension-masacre.html "Vuelve la tensión a la Penitenciaría del Litoral, tras masacre")
-* [Prisión preventiva para nueve reos por asesinatos en la Penitenciaría del Litoral](https://www.elcomercio.com/actualidad/seguridad/prision-preventiva-para-nueve-reos-por-asesinatos-penitenciaria-del-litoral.html "Prisión preventiva para nueve reos por asesinatos en la Penitenciaría del Litoral")
-
-Heridos en la Penitenciaría del Litoral
----------------------------------------
-
-El SNAI informó que se registraron **incidentes** provocados por dos personas privadas de libertad.
-
-Las **Fuerzas Armadas** y **Policía Nacional** activaron los **protocolos** de seguridad correspondientes.
-
-El general **Pablo Dávila**, comandante de la Zona 8, informó que se activó el Operativo Escorpión.
-
-Al momento, se reportan personas privadas de libertad **heridas**, “quienes están recibiendo la atención médica adecuada”, señaló el SNAI.
-
-El Servicio también sostuvo que se realiza la **evacuación del personal** del centro, bajo estrictos controles de seguridad.
-
-La Policía añadió que existieron **tres explosiones de granadas** y 11 heridos.
-
-De los **11 heridos**, nueve son personas privadas de libertad, uno es guía penitenciario y uno es militar.
-
-En los alrededores del centro de privación de la libertad, **familiares** de los presos señalaron que escucharon detonaciones de armas y explosiones.
-
-La Policía aseguró que la **situación está controlada**, que hay **siete presos aprehendidos** como presuntos responsables y **dos guías penitenciarios detenidos** por sospecha de haber facilitado las granadas utilizadas.
-
-El pasado martes 12 de noviembre, tuvo lugar una **masacre** en los pabellones 3 y 10 de este centro de privación de libertad.
-
-Por este suceso **fallecieron 17 reos** y 15 quedaron heridos, en la Penitenciaría del Litoral.
-
-El **SNAI** no señala aún detalles sobre el número de heridos ni el tipo de incidentes.
-
-Se dispuso **cierres viales** en la vía a Daule, frente a la Cervecería Nacional y en el ingreso a la cooperativa de vivienda La Germania.
-
-  
-
-Remco Evenepoel en recuperación tras accidente con una furgoneta
-================================================================
-
-El futuro de Remco Evenepoel está en pausa. El ciclista belga permanece inmovilizado tras un accidente. ¿Cómo está?
--------------------------------------------------------------------------------------------------------------------
-
-![Remco Evenepoel es uno de los ciclistas más ganadores de los últimos años.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-42.jpg)
-
-El ciclista belga **Remco Evenepoel**, doble campeón olímpico en **París 2024** y que sufrió un accidente mientras entrenaba, este 3 de diciembre del 2024, deberá permanecer inmovilizado durante al menos dos semanas, tras las cuales se podrá planificar cuándo continúa con su preparación, informó su equipo, el **Soudal Quick-Step.**
-
-Se espera que el deportista pueda abandonar el hospital en el que está ingresado para el 4 de diciembre del 2024.
-
-### Más noticias:
-
-* [Lionel Messi lidera el equipo ideal de la MLS de 2024](https://www.elcomercio.com/deportes/futbol/messi-equipo-ideal-mls-eeuu.html "Lionel Messi lidera el equipo ideal de la MLS de 2024")
-* [FC Barcelona vence a Mallorca y es líder solitario de LaLiga](https://www.elcomercio.com/deportes/futbol/fc-barcelona-liga-espana-mallorc.html "FC Barcelona vence a Mallorca y es líder solitario de LaLiga")
-* [Pedro Pablo Perlaza, un jugador con cuatro títulos nacionales](https://www.elcomercio.com/deportes/futbol/pedro-pablo-perlza-secuestro-trayectoria.html "Pedro Pablo Perlaza, un jugador con cuatro títulos nacionales")
-
-**¿Qué pasó con** **Remco Evenepoel**?
---------------------------------------
-
-El corredor, que chocó contra la puerta de una furgoneta de la empresa de correos belga mientras circulaba en su bicicleta, sufrió en primera instancia fracturas en una costilla, el omóplato derecho y la mano derecha.
-
-En un primer momento fue ingresado en el Hospital Erasme en Anderlecht, desde donde fue trasladado hacia otro en la localidad de Herentals, a las afueras de Amberes (norte de Bélgica).
-
-En su segundo comunicado, el equipo **Soudal Quick-Step** informó de que los exámenes también revelaron contusiones en ambos pulmones y una luxación de la clavícula de la que iba a ser operado esta misma tarde.
-
-“Si la operación sale bien, **Remco** podrá salir del hospital mañana. Después de esto, deberá permanecer inmovilizado durante dos semanas, tras las cuales se podrá planificar su regreso a los entrenamientos”, explica la nota de prensa.
-
-Según medios locales, el choque se habría producido mientras el ciclista se entrenaba en un municipio al suroeste de Bruselas, cuando una cartera de **Bpost** abrió la puerta trasera de su furgoneta justo al paso del laureado ciclista belga, quien no pudo evitar el golpe.
-
-En imágenes publicadas en redes sociales y en los medios belgas se pudo ver al doble campeón olímpico envuelto en una manta, sentado en una camilla y consciente, aunque pálido. Otras fotografías muestran el cuadro de la bicicleta roto en dos trozos y fragmentos del mismo en la carretera.
-
-Los servicios de emergencia llegaron rápidamente y le trasladaron al hospital **Erasme de Anderlecht**. En un comunicado, Bpost confirmó que el accidente implicó a uno de sus vehículos y, aunque señaló que no podía dar detalles de la investigación, dijo que la cartera y la empresa están cooperando plenamente con la investigación.
-
-“La policía llegó al lugar de los hechos para hacer las observaciones necesarias. La cartera también permaneció en el lugar hasta que **Remco** pudo ser trasladado al hospital. Está muy afectada por el incidente. Deseamos a Remco una pronta recuperación y esperamos que las consecuencias para él sean mínimas”, añadió.
-
-Alcalde de Quito habló sobre el concierto que terminó en caos en la plaza de San Francisco
-==========================================================================================
-
-El Alcalde de Quito anticipó que no se volverá a dar permisos a la estación radial para un nuevo concierto en la plaza de San Francisco.
-----------------------------------------------------------------------------------------------------------------------------------------
-
-![Miles de personas asistieron a un concierto en la plaza de San Francisco, el viernes 29 de noviembre](https://www.elcomercio.com/wp-content/uploads/2024/12/concierto-plaza-san-francisco-caos.jpg)
-
-El **Alcalde de Quito**, Pabel Muñoz se pronunció tras los **incidentes** sucedidos en un **concierto** gratuito que se realizó el viernes 29 de noviembre de 2024, en la **plaza de San Francisco**, en el Centro Histórico.
-
-### Más noticias
-
-* [Concierto se canceló por caos e incidentes en la plaza de San Francisco](https://www.elcomercio.com/actualidad/quito/concierto-plaza-san-francisco-cancelado.html "Concierto se canceló por caos e incidentes en la plaza de San Francisco")
-* [¿Por qué hay un feriado en fiestas de Quito?](https://www.elcomercio.com/actualidad/quito/feriado-fiestas-quito-historia-fundacion.html "¿Por qué hay un feriado en fiestas de Quito?")
-* [Eventos y cierres viales durante la última semana de fiestas de Quito](https://www.elcomercio.com/actualidad/quito/eventos-cierres-vias-fiestas-quito-ultima-semana.html "Eventos y cierres viales durante la última semana de fiestas de Quito")
-
-El **evento musical** organizado por una emisora congregó a **miles de personas**. El concierto se salió de control y obligó a que la Intendencia de Pichincha lo cancelara por el **caos** que hubo en el lugar.
-
-El espectáculo comenzó a las **16:00** y, según la planificación del evento, debía culminar a las **00:00**; sin embargo, la **Intendencia de Pichincha** lo suspendió pasadas las 21:00.
-
-Aglomeración en la plaza de San Francisco
------------------------------------------
-
-Personas que acudieron al concierto en el **centro de Quito** mostraron su molestia en redes sociales por los desmanes producidos y el caos que se vivió en San Francisco. Los asistentes denunciaron “un **mal manejo en la organización**“.
-
-En las imágenes y videos compartidos por los usuarios se observó a niños y adultos siendo **golpeados** por los empujones de la **multitud**.
-
-Según las autoridades, el concierto excedió el número del **aforo** permitido “**hasta cuatro veces más**“.
-
-Asistentes denuncian que hubo cuatro personas apuñaladas en el evento
----------------------------------------------------------------------
-
-El **ECU 911** confirmó, en un inicio, que los **desmanes** en la plaza de San Francisco causaron que una persona presente síntomas de **asfixia**, y no informaron de más afectados.
-
-Sin embargo, asistentes del evento denunciaron en redes sociales que **cuatro personas** resultaron **heridas** con armas blancas y al menos **ocho ciudadanos** fueron **intoxicados**[.](https://es.wikipedia.org/wiki/Plaza_de_San_Francisco_(Quito) "https://es.wikipedia.org/wiki/Plaza_de_San_Francisco_(Quito)")
-
-En el concierto, la Agencia Metropolitana de Control (AMC) decomisó **228 litros de licor**, por no tener registro sanitario. Las bebidas se hallaron en 500 botellas y 228 fundas.
-
-Municipio no autorizará permisos para un nuevo concierto en San Francisco
--------------------------------------------------------------------------
-
-El alcalde de Quito, **Pabel Muñoz**, habló sobre los desmanes en el concierto. En su informe semanal, este lunes, el funcionario anticipó que el próximo año el Municipio **no otorgará los permisos** a la radio organizadora.
-
-“No le vamos a dar permiso el próximo año. Les dijimos que tengan y pongan todos los resguardos posibles para evitar inconvenientes y no lo hicieron, **tenemos unos aforos que cuidar**”, señaló el Alcalde.
-
-“Por segundo año consecutivo, se establecieron los requisitos de **logística y seguridad** para la ejecución del evento; los cuales se verificaron como cumplidos; pero no se mantuvieron”, detalló Muñoz.
-
-El burgomaestre, además, hizo un llamado a la ciudadanía para que viva la “**fiesta en paz**” y que haga un buen uso del **espacio público** durante estas fiestas.
-
-> 📺 [#FrecuenciaQuiteña](https://twitter.com/hashtag/FrecuenciaQuite%C3%B1a?src=hash&ref_src=twsrc%5Etfw) | Informe semanal 073 de [@pabelml](https://twitter.com/pabelml?ref_src=twsrc%5Etfw), alcalde de Quito. [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [https://t.co/YYzdTIAdmZ](https://t.co/YYzdTIAdmZ)
-> 
-> — Municipio de Quito (@MunicipioQuito) [December 2, 2024](https://twitter.com/MunicipioQuito/status/1863580372744974594?ref_src=twsrc%5Etfw)
-
-Sobre la seguridad en Quito, el Alcalde dijo en una entrevista a FM Mundo, la tarde de este lunes, que, “si bien no es competencia del Municipio, el **100 % de la tasa de seguridad**, cerca de 11 millones de dólares, ha sido destinado a obras y equipamiento de la **Policía Nacional**“.
-
-Radio compartió un comunicado
------------------------------
-
-La radio que organizó el evento se pronunció luego de la **cancelación del concierto**.
-
-En un comunicado, el medio **ofreció disculpas** a la ciudadanía por la suspensión y “lamentó la decisión, especialmente, considerando que todos los artistas estaban confirmados y listos en camerinos para sus presentaciones.”
-
-Según detalla el documento, la cancelación del concierto se dio “por **motivos ajenos a la organización**, y en cumplimiento de las disposiciones de la Intendencia de Pichincha”.
-
-“Nos vimos obligados a interrumpir la programación prevista (…) para precautelar la **seguridad** de los asistentes”, explicó el medio de comunicación.
-
-El presidente surcoreano revoca la ley marcial tras rechazo del Parlamento y prostestas
-=======================================================================================
-
-A las 16:30, el Gobierno coreano aprobaba una moción para levantar la ley marcial, que se mantuvo en vigor durante cerca de seis horas.
----------------------------------------------------------------------------------------------------------------------------------------
-
-![Una imagen proporcionada por la Oficina del Presidente de Corea del Sur muestra al presidente surcoreano Yoon Suk Yeol.](https://www.elcomercio.com/wp-content/uploads/2024/12/presidente-corea-sur-diciembre.jpg)
-
-El presidente surcoreano, **Yoon Suk-yeol**, levantó hoy, 3 de diciembre de 2024, tras una reunión extraordinaria de su gobierno, la **ley marcial** que había declarado horas antes. Esto ocurre al tiempo que aseguró que las tropas que se ocupaban de garantizarla ya se retiraron a sus cuarteles.
-
-### Más noticias
-
-* [EE.UU. apoya la decisión de la Asamblea Nacional surcoreana de levantar la ley marcial](https://www.elcomercio.com/actualidad/mundo/ee-uu-apoya-decision-asamblea-nacional-surcoreana-levantar-ley-marcial.html "EE.UU. apoya la decisión de la Asamblea Nacional surcoreana de levantar la ley marcial")
-* [Niña salvadoreña de 2 años fue encontrada en la frontera sur de Estados Unidos](https://www.elcomercio.com/actualidad/mundo/nina-salvadorena-2-anos-fue-encontrada-frontera-sur.html "Niña salvadoreña de 2 años fue encontrada en la frontera sur de Estados Unidos")
-* [Asamblea Nacional surcoreana vota revocar la ley marcial decretada por el presidente](https://www.elcomercio.com/actualidad/mundo/asamblea-nacional-surcoreana-vota-revocar-ley-marcial-decretada-presidente.html "Asamblea Nacional surcoreana vota revocar la ley marcial decretada por el presidente")
-
-Yoon realizó este anuncio en una comparecencia por televisión de madrugada en **Corea del Sur**, horas después de que el **Parlamento del país** votase a favor de levantar esta medida. Según la Constitución, obligaba a su revocación.
-
-Levantar la ley marcial
------------------------
-
-Poco después, a las 16:30, el Gobierno coreano aprobaba una moción para **levantar la ley marcial**, que se mantuvo en vigor durante cerca de seis horas.
-
-La intervención del presidente en televisión de madrugada se produjo poco después de que Estados Unidos defendiese que la crisis abierta en el país se **resolviese “pacíficamente”** y “de acuerdo con el estado de derecho”.
-
-La medida excepcional decretada causó **conmoción en el país** y miles de manifestantes se congregaron en la madrugada del miércoles frente a la **Asamblea Nacional** para protestar contra la ley marcial y pedir la dimisión de Yoon.
-
-El presidente decretó la ley marcial de emergencia para proteger el **“orden constitucional”** acusando al principal bloque de la oposición, el **Partido Democrático** (PD), de “fuerza pronorcoreana”, medida que después el Parlamento votó revocar en una sesión extraordinaria.
-
-Con la ley marcial buscaban proteger el orden constitucional
-------------------------------------------------------------
-
-En una declaración televisada la noche del martes, Yoon anunció la ley marcial para proteger el “orden constitucional” de **actividades “anti-estatales”**, de las que acusa al Partido Democrático, con mayoría en la Asamblea Nacional (Parlamento).
-
-En una sesión plenaria extraordinaria convocada poco después, la Asamblea Nacional surcoreana obtuvo 190 votos a favor de **levantar la ley marcial**, lo que según la Constitución surcoreana obligaría al presidente a retirar esa medida.
-
-El anuncio de Yoon se produce después de que el PD aprobara sin contar con el apoyo del gobernante Partido del Poder Popular (PPP) unos **presupuestos generales para 2025** con múltiples recortes. Además de mociones para **destituir al fiscal general** y al responsable de monitorizar las cuentas de los organismos públicos.
-
-La presidencia de Yoon quedó muy debilitada desde que el **opositor Partido Democrático** ganó las elecciones legislativas el pasado abril. Desde entonces su Gobierno no pudo sacar adelante las leyes que se había propuesto.
-
-El mismo Yoon justificó hoy en su **discurso televisado** que desde que juró el cargo en mayo de 2022 se registraron **22 procesos de destitución** contra miembros de su **Gobierno**, con la oposición impulsando su décimo intento desde que se reanudó la Asamblea Nacional tras los comicios legislativos.
-
-El **mandatario conservador** dijo que la situación **“no tiene precedentes”** en la historia del país y en la política global, alegando que las acciones socavó la capacidad de gestión del Ejecutivo.
-
-En paralelo, **miles de manifestantes** se congregaron en la madrugada de este miércoles frente a la Asamblea Nacional para protestar contra la ley marcial y pedir la dimisión de Yoon.
-
-La concentración espontánea tuvo lugar después de que el presidente anunciara pasadas las 22:00 de la noche del martes la medida, lo que cogió por sorpresa al **país asiático**, siendo la primera vez que es decretada desde los años 80.
-
-“Esto ha sido un intento sin sentido de **destruir la democracia surcoreana**“, explicó a Kim Seung-ho, empresario de 60 años que acudió a las protestas, en las que participaron **desde adolescentes** a gente de edad avanzada que entonaban repetidamente el himno nacional.
-
-En mayo de 1980, el dictador Chun Doo-hwan ordenó la ley marcial y los militares detuvieron a los principales **líderes políticos de la oposición,** se cerraron las universidades, se prohibieron actividades políticas y se restringió la prensa.
-
-La actual **declaración de la ley marcial** fue ampliamente criticada por los partidos de la oposición e incluso por el propio líder del partido de Yoon, **Han Dong-hoon**, quien dijo que era una medida “equivocada” y se comprometió a “bloquearla” junto a los ciudadanos.
-
-El rechazo del Parlamento a la ley marcial deja a Yoon, que antes de declararla se enfrentaba a los índices de popularidad más bajos de su mandato, en una **posición muy comprometida.**
-
-Poco antes de que el presidente anunciase que levantará la ley marcial esta madrugada, el portavoz del departamento de Estado de EEUU**, Vedant Patel**, dijo que esperaba que los **incidentes en Corea del Sur** se resolviesen “pacíficamente” y “de acuerdo con el estado de derecho”, por lo que habría que respetar la decisión de la Asamblea Nacional surcoreana de levantar la medida.
-
-Una respuesta pacífica
-----------------------
-
-“Queremos que esto se **resuelva pacíficamente** de acuerdo con el estado de derecho y, sin duda, una votación así en el legislativo sería consistente con esta aproximación”, dijo Patel en una rueda de prensa.
-
-Patel confirmó la información adelantada por la Casa Blanca de que el Gobierno del presidente conservador surcoreano, Yoon Suk-yeol, no le informó previamente de su **decisión de declarar la ley** marcial en el país.
-
-La Secretaría General de Naciones Unidas aseguró por su parte seguir “muy de cerca y con preocupación” la inesperada declaración de la ley marcial.
-
-“Estamos siguiendo la situación muy de cerca y con preocupación, pero, en este momento, eso es todo lo que tengo que decir”, indicó el portavoz del secretario general -António Guterres-, Stéphane Dujarric, este martes durante su rueda de prensa diaria en la sede de la ONU en Nueva York.
-
-El won, la moneda de **Corea del Sur**, moderó su caída frente al dólar estadounidense después de que la Asamblea Nacional surcoreana votara a favor de levantar la ley marcial.
-
-La divisa surcorena, que llegó a perder casi un 3 % en relación al dólar, retrocedía un 1,5 % a las 18:30 horas (17:30 GMT), según datos de Bloomberg.
