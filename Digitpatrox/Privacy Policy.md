@@ -20,16 +20,16 @@ Wednesday, December 4 2024
 
 Latest
 
-* [Cloudflare’s developer domains increasingly abused by threat actors](https://digitpatrox.com/cloudflares-developer-domains-increasingly-abused-by-threat-actors/)
-* [Walmart bought Vizio – The Verge](https://digitpatrox.com/walmart-bought-vizio-the-verge/)
-* [Game of Thrones Spin-off Series ‘A Knight of the Seven Kingdoms’ Gets 2025 Release Window](https://digitpatrox.com/game-of-thrones-spin-off-series-a-knight-of-the-seven-kingdoms-gets-2025-release-window/)
-* [UK underestimates threat from hostile states, says new NCSC head](https://digitpatrox.com/uk-underestimates-threat-from-hostile-states-says-new-ncsc-head/)
-* [US expands curbs on China’s AI memory and chip tools, raising supply chain concerns](https://digitpatrox.com/us-expands-curbs-on-chinas-ai-memory-and-chip-tools-raising-supply-chain-concerns/)
-* [This Ember Smart Mug Keeps Me Caffeinated, and It’s 27% Off After Cyber Monday](https://digitpatrox.com/this-ember-smart-mug-keeps-me-caffeinated-and-its-27-off-after-cyber-monday/)
-* [Today’s NYT Connections Hints and Answer for December 3 (#541)](https://digitpatrox.com/todays-nyt-connections-hints-and-answer-for-december-3-541/)
-* [Shopify is your complete solution for building and running an online store](https://digitpatrox.com/shopify-is-your-complete-solution-for-building-and-running-an-online-store/)
-* [Which One Will Save You More Customers?](https://digitpatrox.com/which-one-will-save-you-more-customers/)
-* [Arsenal vs Man Utd live stream: How to watch Premier League game online and on TV](https://digitpatrox.com/arsenal-vs-man-utd-live-stream-how-to-watch-premier-league-game-online-and-on-tv/)
+* [Cut your losses: The CIO’s guide to waste in IT](https://digitpatrox.com/cut-your-losses-the-cios-guide-to-waste-in-it/)
+* [US Dominates Global AI Rankings](https://digitpatrox.com/us-dominates-global-ai-rankings/)
+* [Aston Villa vs Brentford live stream: How to watch Premier League game online, TV broadcasters, free trial](https://digitpatrox.com/aston-villa-vs-brentford-live-stream-how-to-watch-premier-league-game-online-tv-broadcasters-free-trial/)
+* [Exploit released for critical WhatsUp Gold RCE flaw, patch now](https://digitpatrox.com/exploit-released-for-critical-whatsup-gold-rce-flaw-patch-now/)
+* [Apple Arcade’s Fantasian is launching on console and PC](https://digitpatrox.com/apple-arcades-fantasian-is-launching-on-console-and-pc/)
+* [Walmart Acquires Smart TV Firm Vizio to Boost Advertising Business](https://digitpatrox.com/walmart-acquires-smart-tv-firm-vizio-to-boost-advertising-business/)
+* [The Moccamaster Technivorm Is Up to 30% Off After Cyber Monday](https://digitpatrox.com/the-moccamaster-technivorm-is-up-to-30-off-after-cyber-monday/)
+* [Excel Is Introducing a Compatibility System for Old Spreadsheets](https://digitpatrox.com/excel-is-introducing-a-compatibility-system-for-old-spreadsheets/)
+* [NZXT H7 Flow 2024 review: A PC case with exceptional airflow](https://digitpatrox.com/nzxt-h7-flow-2024-review-a-pc-case-with-exceptional-airflow/)
+* [The 6 Best Free Speed Test Apps to Check Internet Performance](https://digitpatrox.com/the-6-best-free-speed-test-apps-to-check-internet-performance/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://www.bleepstatic.com/content/hl-images/2020/10/06/cloudflare-ddos.jpg)](https://digitpatrox.com/cloudflares-developer-domains-increasingly-abused-by-threat-actors/)
+* [![](https://cdn.mos.cms.futurecdn.net/YB3F5DnvMccViioHLBNEbU-1200-80.jpg)](https://digitpatrox.com/cut-your-losses-the-cios-guide-to-waste-in-it/)
     
-    [Cloudflare’s developer domains increasingly abused by threat actors](https://digitpatrox.com/cloudflares-developer-domains-increasingly-abused-by-threat-actors/)
+    [Cut your losses: The CIO’s guide to waste in IT](https://digitpatrox.com/cut-your-losses-the-cios-guide-to-waste-in-it/)
     
-    27 minutes ago
+    25 minutes ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/dncqECPt-iRLiCp4qKe1ayiGJ9s=/0x0:1920x1080/1200x628/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/25772193/vizio_tv_on_wall.jpg)](https://digitpatrox.com/walmart-bought-vizio-the-verge/)
+* [![](https://assets.techrepublic.com/uploads/2024/12/tr_20241203-us-leads-global-ai-race.jpg)](https://digitpatrox.com/us-dominates-global-ai-rankings/)
     
-    [Walmart bought Vizio – The Verge](https://digitpatrox.com/walmart-bought-vizio-the-verge/)
+    [US Dominates Global AI Rankings](https://digitpatrox.com/us-dominates-global-ai-rankings/)
     
-    44 minutes ago
+    29 minutes ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/12/a-knight-of-the-seven-kingdoms.jpg)](https://digitpatrox.com/game-of-thrones-spin-off-series-a-knight-of-the-seven-kingdoms-gets-2025-release-window/)
+* [![](https://cdn.mos.cms.futurecdn.net/WHrhqzMfR5mLzTSycrtsWT-1200-80.jpg)](https://digitpatrox.com/aston-villa-vs-brentford-live-stream-how-to-watch-premier-league-game-online-tv-broadcasters-free-trial/)
     
-    [Game of Thrones Spin-off Series ‘A Knight of the Seven Kingdoms’ Gets 2025 Release Window](https://digitpatrox.com/game-of-thrones-spin-off-series-a-knight-of-the-seven-kingdoms-gets-2025-release-window/)
+    [Aston Villa vs Brentford live stream: How to watch Premier League game online, TV broadcasters, free trial](https://digitpatrox.com/aston-villa-vs-brentford-live-stream-how-to-watch-premier-league-game-online-tv-broadcasters-free-trial/)
     
-    60 minutes ago
+    33 minutes ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/4GzLubqEAJTg2BP2ggzwvG-1200-80.jpg)](https://digitpatrox.com/uk-underestimates-threat-from-hostile-states-says-new-ncsc-head/)
+* [![](https://www.bleepstatic.com/content/hl-images/2023/09/28/Progress.jpg)](https://digitpatrox.com/exploit-released-for-critical-whatsup-gold-rce-flaw-patch-now/)
     
-    [UK underestimates threat from hostile states, says new NCSC head](https://digitpatrox.com/uk-underestimates-threat-from-hostile-states-says-new-ncsc-head/)
+    [Exploit released for critical WhatsUp Gold RCE flaw, patch now](https://digitpatrox.com/exploit-released-for-critical-whatsup-gold-rce-flaw-patch-now/)
     
-    3 hours ago
+    2 hours ago
     
-* [![](https://www.cio.com/wp-content/uploads/2024/12/3616135-0-34805300-1733240679-china_us_chip_semiconductor-100944587-orig.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/us-expands-curbs-on-chinas-ai-memory-and-chip-tools-raising-supply-chain-concerns/)
+* [![](https://cdn.vox-cdn.com/thumbor/5W0Opr93msS-VkidUrIK8y2fpBs=/0x0:3840x2160/1200x628/filters:focal(1920x1080:1921x1081)/cdn.vox-cdn.com/uploads/chorus_asset/file/25771874/FANTASIAN_nd_mediakit_240925__01.png)](https://digitpatrox.com/apple-arcades-fantasian-is-launching-on-console-and-pc/)
     
-    [US expands curbs on China’s AI memory and chip tools, raising supply chain concerns](https://digitpatrox.com/us-expands-curbs-on-chinas-ai-memory-and-chip-tools-raising-supply-chain-concerns/)
+    [Apple Arcade’s Fantasian is launching on console and PC](https://digitpatrox.com/apple-arcades-fantasian-is-launching-on-console-and-pc/)
     
-    3 hours ago
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,45 +208,45 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [27 minutes ago
+* [25 minutes ago
     
-    ### Cloudflare’s developer domains increasingly abused by threat actors](https://digitpatrox.com/cloudflares-developer-domains-increasingly-abused-by-threat-actors/)
-* [44 minutes ago
+    ### Cut your losses: The CIO’s guide to waste in IT](https://digitpatrox.com/cut-your-losses-the-cios-guide-to-waste-in-it/)
+* [29 minutes ago
     
-    ### Walmart bought Vizio – The Verge](https://digitpatrox.com/walmart-bought-vizio-the-verge/)
-* [60 minutes ago
+    ### US Dominates Global AI Rankings](https://digitpatrox.com/us-dominates-global-ai-rankings/)
+* [33 minutes ago
     
-    ### Game of Thrones Spin-off Series ‘A Knight of the Seven Kingdoms’ Gets 2025 Release Window](https://digitpatrox.com/game-of-thrones-spin-off-series-a-knight-of-the-seven-kingdoms-gets-2025-release-window/)
+    ### Aston Villa vs Brentford live stream: How to watch Premier League game online, TV broadcasters, free trial](https://digitpatrox.com/aston-villa-vs-brentford-live-stream-how-to-watch-premier-league-game-online-tv-broadcasters-free-trial/)
 
 Most Popular Topics
 
-* [August 21, 2024
+* [3 weeks ago
     
-    ### Apple Vision Pro fails to ignite business interest – Computerworld](https://digitpatrox.com/apple-vision-pro-fails-to-ignite-business-interest-computerworld/)
-* [October 29, 2024
+    ### France vs New Zealand live stream: How to watch anywhere](https://digitpatrox.com/france-vs-new-zealand-live-stream-how-to-watch-anywhere/)
+* [September 24, 2024
     
-    ### Cape Cod Academy notifies 800 people of data breach claimed by ransomware gang](https://digitpatrox.com/cape-cod-academy-notifies-800-people-of-data-breach-claimed-by-ransomware-gang/)
-* [September 28, 2024
+    ### Kyle Chandler Brings in a Rather Older Green Lantern and Here’s Why It Makes Sense](https://digitpatrox.com/kyle-chandler-brings-in-a-rather-older-green-lantern-and-heres-why-it-makes-sense/)
+* [2 weeks ago
     
-    ### Researchers Are Creating AI Scientists, and It’s Going Better Than Expected](https://digitpatrox.com/researchers-are-creating-ai-scientists-and-its-going-better-than-expected/)
+    ### Valve reportedly reviving the Steam Controller — here’s all the details](https://digitpatrox.com/valve-reportedly-reviving-the-steam-controller-heres-all-the-details/)
 
 Last Modified Topics
 
-* [4 hours ago
+* [5 hours ago
     
-    ### Today’s NYT Connections Hints and Answer for December 3 (#541)](https://digitpatrox.com/todays-nyt-connections-hints-and-answer-for-december-3-541/)
-* [4 hours ago
+    ### The Moccamaster Technivorm Is Up to 30% Off After Cyber Monday](https://digitpatrox.com/the-moccamaster-technivorm-is-up-to-30-off-after-cyber-monday/)
+* [5 hours ago
     
-    ### Shopify is your complete solution for building and running an online store](https://digitpatrox.com/shopify-is-your-complete-solution-for-building-and-running-an-online-store/)
-* [4 hours ago
+    ### Excel Is Introducing a Compatibility System for Old Spreadsheets](https://digitpatrox.com/excel-is-introducing-a-compatibility-system-for-old-spreadsheets/)
+* [5 hours ago
     
-    ### Which One Will Save You More Customers?](https://digitpatrox.com/which-one-will-save-you-more-customers/)
+    ### NZXT H7 Flow 2024 review: A PC case with exceptional airflow](https://digitpatrox.com/nzxt-h7-flow-2024-review-a-pc-case-with-exceptional-airflow/)
 
 Most Viewed Topics
 
-* [August 13, 2024
+* [August 12, 2024
     
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
+    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 * [August 11, 2024
     
     ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
