@@ -468,6 +468,14 @@ Revised June 1, 2022
 
   [![Sadao Abe, who played the role of a time-traveling Showa Era teacher transported to present day in a popular TV drama, receives the 2024 buzzword of the year award for the word "futehodo," the nickname of the series.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/02/437645.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Sadao Abe, who played the role of a time-traveling Showa Era teacher transported to present day in a popular TV drama, receives the 2024 buzzword of the year award for the word "futehodo," the nickname of the series.")](https://www.japantimes.co.jp/news/2024/12/02/japan/society/2024-buzzword-of-the-year-announced/ "Japan’s 2024 buzzword of the year urges a reevaluation of past norms")
 
+[South Korea's Yoon backs down after parliament rejects martial law](https://www.japantimes.co.jp/news/2024/12/04/asia-pacific/politics/yoon-martial-law/ "South Korea's Yoon backs down after parliament rejects martial law")
+
+  [![Soldiers try to enter the National Assembly building in Seoul, after South Korea President Yoon Suk Yeol declared martial law late Tuesday evening.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/04/437968.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Soldiers try to enter the National Assembly building in Seoul, after South Korea President Yoon Suk Yeol declared martial law late Tuesday evening.")](https://www.japantimes.co.jp/news/2024/12/04/asia-pacific/politics/yoon-martial-law/ "South Korea's Yoon backs down after parliament rejects martial law")
+
+[BOJ weighs case for first triple hike since Japan’s bubble burst](https://www.japantimes.co.jp/business/2024/12/03/economy/boj-december-rate-hike-likely/ "BOJ weighs case for first triple hike since Japan’s bubble burst")
+
+  [![Bank of Japan Gov. Kazuo Ueda reiterated in an interview published Saturday that authorities will raise rates if the economy performs in line with projections.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/03/437733.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Bank of Japan Gov. Kazuo Ueda reiterated in an interview published Saturday that authorities will raise rates if the economy performs in line with projections.")](https://www.japantimes.co.jp/business/2024/12/03/economy/boj-december-rate-hike-likely/ "BOJ weighs case for first triple hike since Japan’s bubble burst")
+
 [Princess Aiko, only child of emperor, turns 23](https://www.japantimes.co.jp/news/2024/12/01/japan/princess-aiko-turns-23/ "Princess Aiko, only child of emperor, turns 23")
 
   [![Princess Aiko on Nov. 22 ahead of her 23rd birthday on Sunday at the Imperial Palace](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/01/437345.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Aiko on Nov. 22 ahead of her 23rd birthday on Sunday at the Imperial Palace")](https://www.japantimes.co.jp/news/2024/12/01/japan/princess-aiko-turns-23/ "Princess Aiko, only child of emperor, turns 23")
@@ -475,14 +483,6 @@ Revised June 1, 2022
 [Ishiba questioned on political reform, social issues and the economy](https://www.japantimes.co.jp/news/2024/12/02/japan/politics/ishiba-parliamentary-questioning/ "Ishiba questioned on political reform, social issues and the economy")
 
   [![Prime Minister Shigeru Ishiba speaks in the Lower House in Tokyo on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/02/437666.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba speaks in the Lower House in Tokyo on Monday.")](https://www.japantimes.co.jp/news/2024/12/02/japan/politics/ishiba-parliamentary-questioning/ "Ishiba questioned on political reform, social issues and the economy")
-
-[Nearly 90% in Japan and China have negative views of other](https://www.japantimes.co.jp/news/2024/12/03/japan/society/japan-china-negative-views/ "Nearly 90% in Japan and China have negative views of other")
-
-  [![Chinese people's sentiment toward Japan is believed to be impacted by their use of social media platforms such as Weibo and Douyin, as well as whether they have visited Japan.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/02/437682.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Chinese people's sentiment toward Japan is believed to be impacted by their use of social media platforms such as Weibo and Douyin, as well as whether they have visited Japan.")](https://www.japantimes.co.jp/news/2024/12/03/japan/society/japan-china-negative-views/ "Nearly 90% in Japan and China have negative views of other")
-
-[Bear that attacked Akita supermarket employee captured](https://www.japantimes.co.jp/news/2024/12/02/japan/society/japan-bear-supermarket-attack-captured/ "Bear that attacked Akita supermarket employee captured")
-
-  [![A brown bear in Hokkaido. In the city of Akita, a bear that attacked a supermarket employee over the weekend was captured in a box trap on Monday morning.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/02/437602.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A brown bear in Hokkaido. In the city of Akita, a bear that attacked a supermarket employee over the weekend was captured in a box trap on Monday morning.")](https://www.japantimes.co.jp/news/2024/12/02/japan/society/japan-bear-supermarket-attack-captured/ "Bear that attacked Akita supermarket employee captured")
 
 [Can Japan's scientific community rebound from a Nobel nosedive?](https://www.japantimes.co.jp/news/2024/12/02/japan/science-health/japan-science-nobel-prize/ "Can Japan's scientific community rebound from a Nobel nosedive?")
 
@@ -523,9 +523,9 @@ By [Tomoko Otake](https://www.japantimes.co.jp/author/3264/tomoko-otake/ "Tomoko
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -565,21 +565,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[South Korea's Yoon backs down after parliament rejects martial law](https://www.japantimes.co.jp/news/2024/12/04/asia-pacific/politics/yoon-martial-law/ "South Korea's Yoon backs down after parliament rejects martial law")
+[Meta seeks new nuclear reactors to run U.S. data centers](https://www.japantimes.co.jp/business/2024/12/04/tech/meta-nuclear-us-data-centers/ "Meta seeks new nuclear reactors to run U.S. data centers")
 
-4 hours ago
+7 mins ago
 
-[As sabotage allegations swirl, NATO struggles to secure the Baltic Sea](https://www.japantimes.co.jp/news/2024/12/03/world/politics/nato-baltic-sea-cables/ "As sabotage allegations swirl, NATO struggles to secure the Baltic Sea")
+[Local governments tighten rules on pet ownership as hoarding persists](https://www.japantimes.co.jp/news/2024/12/04/japan/society/pet-hoarding/ "Local governments tighten rules on pet ownership as hoarding persists")
 
-10 hours ago
+15 mins ago
 
-[Putin-controlled aircraft deported Ukrainian children, U.S.-backed research alleges](https://www.japantimes.co.jp/news/2024/12/03/world/politics/putin-ukraine-children-deport-us-research/ "Putin-controlled aircraft deported Ukrainian children, U.S.-backed research alleges")
+[U.S. chips 'no longer safe,' Chinese industry bodies say in latest salvo](https://www.japantimes.co.jp/news/2024/12/04/world/politics/us-chips-chinese-industry-trade/ "U.S. chips 'no longer safe,' Chinese industry bodies say in latest salvo")
 
-10 hours ago
+22 mins ago
 
-[Nomura CEO takes pay cut after former employee charged with attempted murder](https://www.japantimes.co.jp/business/2024/12/03/companies/nomura-salary-cut/ "Nomura CEO takes pay cut after former employee charged with attempted murder")
+[China dials up U.S. trade tension with tit-for-tat metals export ban](https://www.japantimes.co.jp/news/2024/12/04/world/politics/china-us-trade-metals-ban/ "China dials up U.S. trade tension with tit-for-tat metals export ban")
 
-[General contractor Yamaura to be fined for false financial statements](https://www.japantimes.co.jp/news/2024/12/03/japan/crime-legal/yamaura-fine-misstatement/ "General contractor Yamaura to be fined for false financial statements")
+32 mins ago
+
+[Cat that Putin gifted to Japan's Akita Prefecture dies at age 12](https://www.japantimes.co.jp/news/2024/12/04/japan/putin-akita-cat-death/ "Cat that Putin gifted to Japan's Akita Prefecture dies at age 12")
+
+50 mins ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
