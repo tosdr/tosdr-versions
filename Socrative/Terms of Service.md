@@ -1,9 +1,3 @@
-[](https://b.socrative.com/teacher/#pricing)
-
-[](https://b.socrative.com/teacher/#pricing)
-
-Black Friday is here with 25% Savings! Apply code 💥 SOCBF2024 💥 at checkout and SAVE 25% when you upgrade to Socrative Essentials or Pro. \*\*Offer expires on 3 Dec\*\*[](https://b.socrative.com/teacher/#pricing)
-
 [](https://www.socrative.com/)[Login](#login) [Menu](#navigation)
 
 * [K-12](https://www.socrative.com/k-12/)
