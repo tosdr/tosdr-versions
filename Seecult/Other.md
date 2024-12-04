@@ -298,11 +298,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-dokumenti/documents/sanja-ivekovic-party-performance-meeting-skc-1978.jpg?itok=chgONWW5)](http://seecult.org/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-dokumentidocuments)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/selman-trtovac/crtezi/crtez-01.jpg?itok=40sfOW_I)](http://seecult.org/galerija/galerija-umetnika/selman-trtovac/crtezi)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/prodajna.jpg?itok=gEY0wPsJ)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/vlada-divljan-amp-ljetno-kino-big-band/ljetno-kinojpg-014.?itok=Bkk_KDcO)](http://seecult.org/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/vlada-divljan-ljetno-kino-big)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
