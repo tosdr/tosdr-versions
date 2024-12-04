@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/wetenschap/energie/mysterieuze-knal-geluiden-verklaard/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/cosmic-woman/tessa-eh-cosmic-woman-is-terug/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
