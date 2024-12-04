@@ -2,7 +2,7 @@
 
 Call Toll-Free
 
-![phone icon](/icons/phone.svg)[1-844-203-5617](tel:1-844-203-5617)![phone icon](/icons/mail.svg)[info@lifeprotect247.com](mailto:info@lifeprotect247.com)
+![phone icon](/icons/phone.svg)[1-844-203-5617](tel:1-844-203-5617)![phone icon](/icons/mail.svg)[Email Us](https://lifeprotect247.com/help)
 
 [![phone icon](/icons/facebook.svg)](https://m.facebook.com/lifeprotect247)[![phone icon](/icons/twitter.svg)](https://mobile.twitter.com/lifeprotect247)[![phone icon](/icons/play.svg)](https://m.youtube.com/channel/UCBOiF2wHeFCVOPlOBQCKV5w?reload=9&skip_registered_account_check=true)
 
