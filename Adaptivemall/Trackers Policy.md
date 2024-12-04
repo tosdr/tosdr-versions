@@ -2,7 +2,7 @@ The store will not work correctly when cookies are disabled.
 
 **JavaScript seems to be disabled in your browser.** For the best experience on our site, be sure to turn on Javascript in your browser.
 
-**Adaptivemall.com will be closed November 28th & 29th! Enjoy the Thanksgiving Holiday with your family & friends!**
+**Adaptivemall.com will be closed December 24th & 25th 2024 and January 1, 2025! Enjoy the Holidays with your family & friends!**
 
 FREE SHIPPING\* | [See Details](https://www.adaptivemall.com/freeshipping)
 
@@ -195,7 +195,7 @@ Questions? [(800) 371-2778](tel:8003712778) Mon-Fri 8:30am-5pm EST
 
 * Compare
 
-**Adaptivemall.com will be closed November 28th & 29th! Enjoy the Thanksgiving Holiday with your family & friends!**
+**Adaptivemall.com will be closed December 24th & 25th 2024 and January 1, 2025! Enjoy the Holidays with your family & friends!**
 
 FREE SHIPPING\* | [See Details](https://www.adaptivemall.com/freeshipping)
 
