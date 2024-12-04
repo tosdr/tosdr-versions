@@ -1,10 +1,10 @@
-**Patriots:** For over 26 years, your generosity has made it possible to offer The Patriot Post without a subscription fee to military personnel, students, and those with limited means. Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us) today.
+**Why We Ask:** Our mission and operations are funded 100% by conservatives like _you_. Please help us continue to extend Liberty to the next generation and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_2&utm_medium=web&utm_source=patriotpost.us) today.
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_2&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
-[Read The Latest Digest](https://patriotpost.us/digests/112506-mid-day-digest-2024-12-03?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Latest Digest](https://patriotpost.us/digests/112538-mid-day-digest-2024-12-04?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 Privacy Policy for _The Patriot Post_
 
@@ -108,24 +108,26 @@ Our website provides a Contact Us section to facilitate feedback from site visit
 
 Last Updated: November 15, 2011.
 
-[Read The Mid-Day Digest](https://patriotpost.us/digests/112506-mid-day-digest-2024-12-03?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Mid-Day Digest](https://patriotpost.us/digests/112538-mid-day-digest-2024-12-04?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 [Executive News Summary](https://patriotpost.us/categories/74-headlines)
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/112521-the-list-2024-12-04)
+     [](https://patriotpost.us/memes/112550-seriously-2024-12-04)
 
 * [More Memes >](https://patriotpost.us/memes)
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34608)
+     [](https://patriotpost.us/cartoons/34611)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
+*      [Jeff Jacoby A student’s T-shirt says: ‘There are only two genders.’ What does the Constitution say?](https://patriotpost.us/opinion/112551-a-students-t-shirt-says-there-are-only-two-genders-dot-what-does-the-constitution-say-2024-12-04)
+*      [Mark Alexander Trump Day 2: Restore Freedom of Speech](https://patriotpost.us/alexander/112539-trump-day-2-restore-freedom-of-speech-2024-12-04)
 *      [The Babylon Bee 10 Drastic Changes Kash Patel Will Make To FBI](https://patriotpost.us/opinion/112536-10-drastic-changes-kash-patel-will-make-to-fbi-2024-12-04)
 *      [Star Parker Democratic Party Monopoly on the Black Vote Is Over](https://patriotpost.us/opinion/112519-democratic-party-monopoly-on-the-black-vote-is-over-2024-12-04)
 *      [Ian Haworth Joe Biden’s Legacy: Lies, Chaos and Blood](https://patriotpost.us/opinion/112518-joe-bidens-legacy-lies-chaos-and-blood-2024-12-04)
@@ -133,7 +135,6 @@ Last Updated: November 15, 2011.
 *      [John Stossel Stone Age Ports](https://patriotpost.us/opinion/112516-stone-age-ports-2024-12-04)
 *      [Betsy McCaughey End the Sanctuary-for-Migrants Madness](https://patriotpost.us/opinion/112515-end-the-sanctuary-for-migrants-madness-2024-12-04)
 *      [Gary Bauer Trump & Trudeau](https://patriotpost.us/opinion/112514-trump-and-trudeau-2024-12-04)
-*      [Rich Lowry The End of a Scam](https://patriotpost.us/opinion/112520-the-end-of-a-scam-2024-12-03)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -147,11 +148,7 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[Wear Your Patriotism on Your Sleeve
-
- 
-
-Shop Now](https://patriotpostshop.com/)
+[![](https://img.patriotpost.us/01J82YASE4QNMY5QGPJZ5PECFM.jpeg)](https://patriotpostshop.com/collections/founders-wisdom-coffee)
 
 ### The Foundation
 
