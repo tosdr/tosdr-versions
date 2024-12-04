@@ -36,6 +36,9 @@
         
         Police seize Matrix encrypted chat service after spying on criminals](https://www.bleepingcomputer.com/news/security/police-seize-matrix-encrypted-chat-service-after-spying-on-criminals/)
     
+    * [![Cyber Week is here: $50 for 15 months of Microsoft 365 and cloud storage](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Cyber Week is here: $50 for 15 months of Microsoft 365 and cloud storage](https://www.bleepingcomputer.com/offer/deals/cyber-week-is-here-50-for-15-months-of-microsoft-365-and-cloud-storage/)
     * [![Vodka maker Stoli files for bankruptcy in US after ransomware attack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Vodka maker Stoli files for bankruptcy in US after ransomware attack](https://www.bleepingcomputer.com/news/security/vodka-maker-stoli-files-for-bankruptcy-in-us-after-ransomware-attack/)
@@ -45,9 +48,6 @@
     * [![US shares tips to block hackers behind recent telecom breaches](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         US shares tips to block hackers behind recent telecom breaches](https://www.bleepingcomputer.com/news/security/us-shares-tips-to-block-hackers-behind-recent-telecom-breaches/)
-    * [![Cyber Week deal: Comprehensive CISSP certification course now only $25](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Cyber Week deal: Comprehensive CISSP certification course now only $25](https://www.bleepingcomputer.com/offer/deals/cyber-week-deal-comprehensive-cissp-certification-course-now-only-25/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
