@@ -6,7 +6,6 @@
 * [Descargar](https://weblate.org/es/download/)
 * [Precios](https://weblate.org/es/hosting/)
 * [Contribuir](https://weblate.org/es/contribute/)
-* [Donar](https://weblate.org/es/donate/)
 * [Consigue ayuda](https://weblate.org/es/support/)
 * [Blog](https://weblate.org/es/news/)
 * [Acerca de](https://weblate.org/es/about/)
