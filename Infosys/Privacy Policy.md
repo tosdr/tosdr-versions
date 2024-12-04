@@ -152,6 +152,8 @@ Services
 
 * [Energy Transition](https://www.infosys.com/services/energy-transition.html "Energy Transition")
 
+* [Network Transformation Services](https://www.infosys.com/services/network-transformation.html "Network Transformation Services")
+
 ![Assure](/content/dam/infosys-web/burger-menu/en/images/assure.svg)
 
 ### Assure
@@ -236,7 +238,8 @@ About Us
 * [Roland-Garros](https://www.infosys.com/roland-garros.html "Roland-Garros")
 * [ATP](https://www.infosys.com/atp.html "ATP")
 * [International Tennis Hall of Fame](https://www.infosys.com/ithf.html "International Tennis Hall of Fame")
-* [Brand Ambassadors](https://www.infosys.com/rafael-nadal.html "Brand Ambassadors")
+* [Brand Ambassador - Rafael Nadal](https://www.infosys.com/rafael-nadal.html "Brand Ambassador - Rafael Nadal")
+* [Brand Ambassador - IGA Swiatek](https://www.infosys.com/iga-swiatek.html "Brand Ambassador - IGA Swiatek")
 
 * [Formula E](https://www.infosys.com/formulae.html "Formula E")
 * [Madison Square Garden](https://www.infosys.com/madison-square-garden.html "Madison Square Garden")
@@ -251,7 +254,7 @@ About Us
         * [Data Processing Clauses](https://www.infosys.com/privacy-statement/data-processing-clauses.html "Data Processing Clauses")
 
 1. [![Share](/content/dam/infosys-web/en/global-resource/background-image/share.svg)](javascript:void(0);)
-    * [![](/content/dam/infosys-web/en/global-resource/background-image/twitter-x.svg)](javascript:void(0))
+    * [![Share on Twitter](/content/dam/infosys-web/en/global-resource/background-image/twitter-x.svg)](javascript:void(0))
     * [](javascript:void(0))
     * [](javascript:void(0))
 2. Like what you see? [Let's talk ![](/content/dam/infosys-web/en/global-resource/background-image/arrow-right.svg)](#rfs) 
