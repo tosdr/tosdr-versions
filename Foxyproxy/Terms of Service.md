@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-10+ year client - still happy!
+You people are great. Thanks so much.
 
-Shannon Latimer Marchat
+David Nicolson Freidberg
