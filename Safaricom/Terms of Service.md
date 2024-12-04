@@ -231,6 +231,20 @@ out of 5 based on
 
 > Dec 4, 2024
 
+> Great service from Denise at Safari.com
+
+> Denise from Safari.com was extremely helpful. She responded promptly, provided good advice on safari lodgings options and worked up a couple of itinerary options to suit our budget. Denise also organised flights and transfers very quickly so that we could finalize our booking in a short time. Much appreciated.
+
+Noelene Hosking
+
+,
+
+AU
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Dec 4, 2024
+
 > It was amazing
 
 > It was amazing. She even helped us with some of our questions and where to stay.🌞
@@ -336,20 +350,6 @@ US
 ,
 
 GB
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Nov 28, 2024
-
-> Please contact for any lodging inside parks
-
-> I emailed, contact relevant persons and get help fast 🏃‍♀️ 🙂 not like SANPARKS
-
-Schalk Grobler
-
-,
-
-ZA
 
 VIP service
 
