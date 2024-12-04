@@ -44,7 +44,7 @@ PUBLIC - Menu principal
     * Services climatiques
         * [DRIAS, les futurs du climat](http://www.drias-climat.fr/ "Drias, les futurs du climat")
         * [DRIAS-Eau, les futurs de l'eau](https://meteofrance.com/actualites-et-dossiers/actualites/drias-eau-quel-futur-pour-leau-en-2050 "DRIAS, les futurs de l'eau")
-        * [Climadiag Agriculture](https://climadiag-agriculture.fr/ "Climadiag Agriculture")
+        * [Climadiag Agriculture](https://meteofrance.com/le-changement-climatique/climadiag-agriculture-un-service-pour-sadapter-au-rechauffement-climatique "Climadiag Agriculture")
         * [Climadiag Commune](https://meteofrance.com/le-changement-climatique/climadiag-commune "Climadiag Commune")
         * [Climadiag Chaleur en ville](https://meteofrance.com/le-changement-climatique/climadiag-chaleur-en-ville)
         * [Climadiag Entreprise](https://meteofrance.com/climadiag-entreprise "Climadiag Entreprise")
@@ -206,7 +206,7 @@ Suivez-nous
 Politique de Confidentialité
 ============================
 
-03/12/2024
+04/12/2024
 
 Relativement à ses activités, Météo-France est amené à traiter des données à caractère personnel vous concernant. A ces fins, nous nous engageons à respecter les réglementations en vigueur concernant la protection des données à caractère personnel, soit la loi informatique et libertés n°78-17 du 6 janvier 1978, ainsi que le Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016.
 
