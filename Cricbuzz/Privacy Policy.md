@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[BAN vs WI - Live](https://www.cricbuzz.com/live-cricket-scores/95209/ban-vs-wi-2nd-test-bangladesh-tour-of-west-indies-2024 "Bangladesh v West Indies, 2nd Test - Live")[ZIM vs PAK - PAK Won](https://www.cricbuzz.com/live-cricket-scores/101014/zim-vs-pak-2nd-t20i-pakistan-tour-of-zimbabwe-2024 "Zimbabwe v Pakistan, 2nd T20I - PAK Won")[MAH vs GOA - GOA Won](https://www.cricbuzz.com/live-cricket-scores/98913/mah-vs-goa-group-e-syed-mushtaq-ali-trophy-2024 "Maharashtra v Goa, Group E - GOA Won")[VIC vs LHQ - Preview](https://www.cricbuzz.com/live-cricket-scores/109697/vic-vs-lhq-7th-match-global-super-league-2024 "Victoria v Lahore Qalandars, 7th Match - Preview")[INDU19 vs UAEU19 - Preview](https://www.cricbuzz.com/live-cricket-scores/110137/indu19-vs-uaeu19-12th-match-group-a-acc-u19-asia-cup-2024 "India U19 v United Arab Emirates U19, 12th Match, Group A - Preview")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[BAN vs WI - BAN Won](https://www.cricbuzz.com/live-cricket-scores/95209/ban-vs-wi-2nd-test-bangladesh-tour-of-west-indies-2024 "Bangladesh v West Indies, 2nd Test - BAN Won")[LHQ vs VIC - Live](https://www.cricbuzz.com/live-cricket-scores/109697/lhq-vs-vic-7th-match-global-super-league-2024 "Lahore Qalandars v Victoria, 7th Match - Live")[ZIM vs PAK - PAK Won](https://www.cricbuzz.com/live-cricket-scores/101014/zim-vs-pak-2nd-t20i-pakistan-tour-of-zimbabwe-2024 "Zimbabwe v Pakistan, 2nd T20I - PAK Won")[INDU19 vs UAEU19 - Preview](https://www.cricbuzz.com/live-cricket-scores/110137/indu19-vs-uaeu19-12th-match-group-a-acc-u19-asia-cup-2024 "India U19 v United Arab Emirates U19, 12th Match, Group A - Preview")[RSAW vs ENGW - Preview](https://www.cricbuzz.com/live-cricket-scores/94458/rsaw-vs-engw-1st-odi-icc-championship-match-england-women-tour-of-south-africa-2024 "South Africa Women v England Women, 1st ODI (ICC Championship Match) - Preview")
 
 AllLive NowToday
 
@@ -59,6 +59,10 @@ AllLive NowToday
     [New Zealand vs England](https://www.cricbuzz.com/live-cricket-scores/92390/nz-vs-eng-1st-test-new-zealand-v-england-2024 "New Zealand v England, 1st Test - ENG Won")
     
     1st Test
+    
+* [New Zealand vs England](https://www.cricbuzz.com/live-cricket-scores/92399/nz-vs-eng-2nd-test-new-zealand-v-england-2024 "New Zealand v England, 2nd Test - Upcoming")
+    
+    2nd Test
     
 * South Africa v Sri Lanka, 2024
     
@@ -96,7 +100,7 @@ AllLive NowToday
     
 * West Indies v Bangladesh, 2024
     
-    [Bangladesh vs West Indies  LIVE](https://www.cricbuzz.com/live-cricket-scores/95209/ban-vs-wi-2nd-test-west-indies-v-bangladesh-2024 "Bangladesh v West Indies, 2nd Test - Live")
+    [Bangladesh vs West Indies](https://www.cricbuzz.com/live-cricket-scores/95209/ban-vs-wi-2nd-test-west-indies-v-bangladesh-2024 "Bangladesh v West Indies, 2nd Test - BAN Won")
     
     2nd Test
     
@@ -104,11 +108,7 @@ AllLive NowToday
     
     Abu Dhabi T10 League 2024
     
-    [Delhi Bulls vs Team Abu Dhabi](https://www.cricbuzz.com/live-cricket-scores/109610/dbl-vs-ad-eliminator-2-3-v-winner-of-e1-abu-dhabi-t10-league-2024 "Delhi Bulls v Team Abu Dhabi, Eliminator 2 (3 v Winner of E1) - DBL Won")
-    
-    Eliminator 2 (3 v Winner of E1)
-    
-* [Delhi Bulls vs Morrisville Samp Army](https://www.cricbuzz.com/live-cricket-scores/109614/dbl-vs-msa-qualifier-2-runners-up-q1-v-winner-of-e2-abu-dhabi-t10-league-2024 "Delhi Bulls v Morrisville Samp Army, Qualifier 2 (Runners-up Q1 v Winner of E2) - MSA Won")
+    [Delhi Bulls vs Morrisville Samp Army](https://www.cricbuzz.com/live-cricket-scores/109614/dbl-vs-msa-qualifier-2-runners-up-q1-v-winner-of-e2-abu-dhabi-t10-league-2024 "Delhi Bulls v Morrisville Samp Army, Qualifier 2 (Runners-up Q1 v Winner of E2) - MSA Won")
     
     Qualifier 2 (Runners-up Q1 v Winner of E2)
     
@@ -122,13 +122,21 @@ AllLive NowToday
     
     6th Match
     
-* [Victoria vs Lahore Qalandars](https://www.cricbuzz.com/live-cricket-scores/109697/vic-vs-lhq-7th-match-gsl-2024 "Victoria v Lahore Qalandars, 7th Match - Preview")
+* [Lahore Qalandars vs Victoria  LIVE](https://www.cricbuzz.com/live-cricket-scores/109697/lhq-vs-vic-7th-match-gsl-2024 "Lahore Qalandars v Victoria, 7th Match - Live")
     
     7th Match
     
-* [Guyana Amazon Warriors vs Rangpur Riders](https://www.cricbuzz.com/live-cricket-scores/109705/gaw-vs-rgr-8th-match-gsl-2024 "Guyana Amazon Warriors v Rangpur Riders, 8th Match - Upcoming")
+* [Guyana Amazon Warriors vs Rangpur Riders](https://www.cricbuzz.com/live-cricket-scores/109705/gaw-vs-rgr-8th-match-gsl-2024 "Guyana Amazon Warriors v Rangpur Riders, 8th Match - Preview")
     
     8th Match
+    
+* [Hampshire vs Victoria](https://www.cricbuzz.com/live-cricket-scores/109721/ham-vs-vic-9th-match-gsl-2024 "Hampshire v Victoria, 9th Match - Upcoming")
+    
+    9th Match
+    
+* [Lahore Qalandars vs Rangpur Riders](https://www.cricbuzz.com/live-cricket-scores/109713/lhq-vs-rgr-10th-match-gsl-2024 "Lahore Qalandars v Rangpur Riders, 10th Match - Upcoming")
+    
+    10th Match
     
 * DOMESTIC
     
@@ -230,13 +238,13 @@ AllLive NowToday
     
     Group E
     
-* [Goa vs Nagaland](https://www.cricbuzz.com/live-cricket-scores/98978/goa-vs-ngl-group-e-sma-trophy-2024 "Goa v Nagaland, Group E - Upcoming")
-    
-    Group E
-    
 * [Bengal vs Rajasthan](https://www.cricbuzz.com/live-cricket-scores/98922/ben-vs-raj-group-a-sma-trophy-2024 "Bengal v Rajasthan, Group A - Upcoming")
     
     Group A
+    
+* [Goa vs Nagaland](https://www.cricbuzz.com/live-cricket-scores/98978/goa-vs-ngl-group-e-sma-trophy-2024 "Goa v Nagaland, Group E - Upcoming")
+    
+    Group E
     
 * [Chandigarh vs Odisha](https://www.cricbuzz.com/live-cricket-scores/98969/cdg-vs-odsa-group-d-sma-trophy-2024 "Chandigarh v Odisha, Group D - Upcoming")
     
@@ -283,6 +291,20 @@ AllLive NowToday
     [Queensland vs Tasmania](https://www.cricbuzz.com/live-cricket-scores/103206/ql-vs-tas-14th-match-australia-domestic-one-day-cup-2024-25 "Queensland v Tasmania, 14th Match - QL Won")
     
     14th Match
+    
+* Sheffield Shield 2024-25
+    
+    [Tasmania vs South Australia](https://www.cricbuzz.com/live-cricket-scores/102952/tas-vs-saus-18th-match-sheffield-shield-2024-25 "Tasmania v South Australia, 18th Match - Upcoming")
+    
+    18th Match
+    
+* [Victoria vs Queensland](https://www.cricbuzz.com/live-cricket-scores/102943/vic-vs-ql-17th-match-sheffield-shield-2024-25 "Victoria v Queensland, 17th Match - Upcoming")
+    
+    17th Match
+    
+* [New South Wales vs Western Australia](https://www.cricbuzz.com/live-cricket-scores/102936/nsw-vs-wa-16th-match-sheffield-shield-2024-25 "New South Wales v Western Australia, 16th Match - Upcoming")
+    
+    16th Match
     
 * CSA Four-Day Series Division Two 2024-25
     
@@ -683,37 +705,37 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 [Marnus wants runs, and Adelaide is where he could score big](https://www.cricbuzz.com/cricket-news/132633/marnus-wants-runs-and-adelaide-is-where-he-could-score-big "Marnus wants runs, and Adelaide is where he could score big")
 
-4h ago
+10h ago
 
   [](https://www.cricbuzz.com/cricket-news/132632/welcome-to-dane-patersons-uncertain-life-on-the-pitch "Welcome to Dane Paterson's uncertain life on the pitch")
 
 [Welcome to Dane Paterson's uncertain life on the pitch](https://www.cricbuzz.com/cricket-news/132632/welcome-to-dane-patersons-uncertain-life-on-the-pitch "Welcome to Dane Paterson's uncertain life on the pitch")
 
-4h ago
+10h ago
 
   [](https://www.cricbuzz.com/cricket-news/132631/ct-25-uncertainty-lingers-no-signs-of-a-fresh-meeting "CT 25 uncertainty lingers; ICC may meet on Dec 5 but with a different agenda")
 
 [CT 25 uncertainty lingers; ICC may meet on Dec 5 but with a different agenda](https://www.cricbuzz.com/cricket-news/132631/ct-25-uncertainty-lingers-no-signs-of-a-fresh-meeting "CT 25 uncertainty lingers; ICC may meet on Dec 5 but with a different agenda")
 
-4h ago
+10h ago
 
   [](https://www.cricbuzz.com/cricket-news/132630/netherlands-temper-ambitions-in-face-of-million-dollar-budget-shortfall "Netherlands temper ambitions in face of million-dollar budget shortfall")
 
 [Netherlands temper ambitions in face of million-dollar budget shortfall](https://www.cricbuzz.com/cricket-news/132630/netherlands-temper-ambitions-in-face-of-million-dollar-budget-shortfall "Netherlands temper ambitions in face of million-dollar budget shortfall")
 
-4h ago
+10h ago
 
   [](https://www.cricbuzz.com/cricket-news/132629/sufiyan-muqeems-stunning-53-blows-zimbabwe-away "Sufiyan Muqeem's stunning 5/3 blows Zimbabwe away")
 
 [Sufiyan Muqeem's stunning 5/3 blows Zimbabwe away](https://www.cricbuzz.com/cricket-news/132629/sufiyan-muqeems-stunning-53-blows-zimbabwe-away "Sufiyan Muqeem's stunning 5/3 blows Zimbabwe away")
 
-5h ago
+11h ago
 
   [](https://www.cricbuzz.com/cricket-news/132628/carey-surprised-by-big-reaction-to-australias-loss-in-perth "Carey surprised by 'big reaction' to Australia's loss in Perth")
 
 [Carey surprised by 'big reaction' to Australia's loss in Perth](https://www.cricbuzz.com/cricket-news/132628/carey-surprised-by-big-reaction-to-australias-loss-in-perth "Carey surprised by 'big reaction' to Australia's loss in Perth")
 
-8h ago
+14h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
