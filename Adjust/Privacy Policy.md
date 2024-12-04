@@ -257,7 +257,7 @@ Last modified: October 2024
 
 Adjust GmbH including all of its affiliates (collectively, "Adjust" or "We") respects your privacy and is committed to protecting it through our compliance with this policy. With this privacy policy, we would like to inform you how we process your personal data.
 
-The data controller according to art. 4 European General Data Protection Regulation ("GDPR") is Adjust GmbH, Saarbrücker Str. 37a, 10405 Berlin, managing director is Simon Dussart.
+The data controller according to art. 4 European General Data Protection Regulation ("GDPR") is Adjust GmbH, Saarbrücker Str. 37a, 10405 Berlin, managing director is Andrey Kazakov.
 
 Responsible for data processing in contracts with your respective contractual partner:
 
