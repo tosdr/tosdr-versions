@@ -8,7 +8,7 @@
 * [Web Proxy  
     free](https://www.vpnbook.com/webproxy)
 * [How-To  
-    setup](https://www.vpnbook.com/howto)
+    setup](https://www.vpnbook.com/howto/)
 * [Features  
     service](https://www.vpnbook.com/features)
 * [Privacy  
