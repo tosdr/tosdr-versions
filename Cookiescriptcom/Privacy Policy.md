@@ -312,21 +312,21 @@ You may at any time lodge a complaint with a supervisory authority regarding Coo
 
 ![Cookie Script Capterra](/images/footer/capterra5.svg)
 
-4.9](https://www.capterra.com/p/227709/Cookie-Script/reviews/ "Capterra")[![Cookie Script Google](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNTAiIGhlaWdodD0iNDAwIj48L3N2Zz4=)
+4.8](https://www.capterra.com/p/227709/Cookie-Script/reviews/ "Capterra")[![Cookie Script Google](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNTAiIGhlaWdodD0iNDAwIj48L3N2Zz4=)
 
 ![Cookie Script Google](/images/footer/google5.svg)
 
-4.9](https://www.google.com/search?q=cookie-script "Google")
+4.8](https://www.google.com/search?q=cookie-script "Google")
 
 [![Cookie Script G2](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNTAiIGhlaWdodD0iNDAwIj48L3N2Zz4=)
 
 ![Cookie Script G2](/images/footer/g25.svg)
 
-4.7](https://www.g2.com/products/cookiescript/reviews "G2 Reviews")[![Cookie Script Trustpilot](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNTAiIGhlaWdodD0iNDAwIj48L3N2Zz4=)
+4.6](https://www.g2.com/products/cookiescript/reviews "G2 Reviews")[![Cookie Script Trustpilot](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNTAiIGhlaWdodD0iNDAwIj48L3N2Zz4=)
 
 ![Cookie Script Trustpilot](/images/footer/trust45.svg)
 
-4.5](https://www.trustpilot.com/review/cookie-script.com "Trustpilot")
+4.4](https://www.trustpilot.com/review/cookie-script.com "Trustpilot")
 
 * [Terms of Service](https://cookie-script.com/legal/terms-and-conditions "Terms of Service")
 * [Privacy Policy](https://cookie-script.com/legal/privacy-policy "Privacy Policy")
