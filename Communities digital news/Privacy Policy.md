@@ -26,43 +26,41 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/canton-pd-ferrell-1200x630.jpg)](https://americanwirenews.com/ohio-woman-sentenced-to-prison-for-killing-and-eating-a-cat/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-lee-1-1200x630.jpg)](https://americanwirenews.com/buckle-up-mike-lee-exposes-governments-ponzi-scheme-social-security-grift-in-damning-thread/)
 
-[Ohio woman sentenced to prison after savage video of her killing and eating a cat](https://americanwirenews.com/ohio-woman-sentenced-to-prison-for-killing-and-eating-a-cat/)
+[‘Buckle up!’ Mike Lee exposes government’s ‘Ponzi scheme’ Social Security grift in damning thread](https://americanwirenews.com/buckle-up-mike-lee-exposes-governments-ponzi-scheme-social-security-grift-in-damning-thread/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-huntercbs1-1200-x-628-1200x630.jpg)](https://americanwirenews.com/special-counsel-balks-at-dropping-hunter-biden-indictments-after-joes-pardon/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/rf-pexels-laboratory-1200x630.jpg)](https://americanwirenews.com/extensive-house-report-concludes-what-covid-protocol-critics-suspected-all-along/)
 
-[Special counsel balks at dropping Hunter Biden indictments after Joe’s pardon](https://americanwirenews.com/special-counsel-balks-at-dropping-hunter-biden-indictments-after-joes-pardon/)
+[Extensive House report concludes what COVID protocol critics suspected all along](https://americanwirenews.com/extensive-house-report-concludes-what-covid-protocol-critics-suspected-all-along/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/rf-trudeau-trump-1200x630.jpeg)](https://americanwirenews.com/trump-tells-trudeau-canada-could-become-51st-state-after-the-pm-complained-about-his-tariffs/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-jennings-mcgowan-1200x630.jpg)](https://americanwirenews.com/scott-jennings-reaction-to-cnn-panelists-psychotic-excuse-for-hunter-pardon-is-everything/)
 
-(Official White House Photo by Shealah Craighead)
+[Scott Jennings’ reaction to CNN panelist’s ‘psychotic’ excuse for Hunter pardon is PRICELESS](https://americanwirenews.com/scott-jennings-reaction-to-cnn-panelists-psychotic-excuse-for-hunter-pardon-is-everything/)
 
-[Trump tells Trudeau Canada could become 51st state after the PM complained about his tariffs](https://americanwirenews.com/trump-tells-trudeau-canada-could-become-51st-state-after-the-pm-complained-about-his-tariffs/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-antic-1200x630.jpg)](https://americanwirenews.com/brilliant-australian-senator-does-the-trump-dance-and-reams-legacy-media/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-brzezinski-maddow-scarborugh-1200x630.jpg)](https://americanwirenews.com/civil-war-reportedly-erupts-at-msnbc-after-joe-and-mikas-visit-to-mar-a-lago/)
+[‘Brilliant!’ Australian senator does the Trump dance and REAMS ‘legacy media’](https://americanwirenews.com/brilliant-australian-senator-does-the-trump-dance-and-reams-legacy-media/)
 
-[Civil war reportedly erupts at MSNBC after Joe and Mika’s visit to Mar-a-Lago](https://americanwirenews.com/civil-war-reportedly-erupts-at-msnbc-after-joe-and-mikas-visit-to-mar-a-lago/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-nypd-1200x630.jpg)](https://americanwirenews.com/over-1000-suspected-illegal-alien-gang-members-receiving-big-perks-from-taxpayers-in-nyc-report/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-bill-maher-1200x630.png)](https://americanwirenews.com/trump-broke-him-bill-maher-says-he-may-quit-his-show/)
+[Over 1,000 suspected illegal alien gang members receiving big perks from taxpayers in NYC: report](https://americanwirenews.com/over-1000-suspected-illegal-alien-gang-members-receiving-big-perks-from-taxpayers-in-nyc-report/)
 
-[Trump broke him: Bill Maher says he may ‘quit’ his show](https://americanwirenews.com/trump-broke-him-bill-maher-says-he-may-quit-his-show/)
+[![](https://americanwirenews.com/wp-content/uploads/2023/09/SG-MorningJoeOldBiden-1200-x-628-1200x630.jpg)](https://americanwirenews.com/cruz-mocks-morning-joe-over-mar-a-lago-visit-kissed-a-little-lower-than-the-ring/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-ctu-1200-x-628-1200x630.jpg)](https://americanwirenews.com/chicago-teachers-union-triggered-when-paper-slams-them-for-not-showing-up-to-class/)
+[Cruz mocks ‘Morning Joe’ over Mar-a-Lago visit: ‘Kissed a little lower than’ the ring](https://americanwirenews.com/cruz-mocks-morning-joe-over-mar-a-lago-visit-kissed-a-little-lower-than-the-ring/)
 
-[Chicago teachers union triggered when paper slams them for not showing up to class](https://americanwirenews.com/chicago-teachers-union-triggered-when-paper-slams-them-for-not-showing-up-to-class/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-moskowitz-1200x630.jpg)](https://americanwirenews.com/first-dem-joins-doge-caucus-but-his-initial-recommendation-has-some-worried/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-jenifer-lewis-1200x630.jpg)](https://americanwirenews.com/black-ish-star-unleashes-angry-tirade-against-black-latino-men-for-voting-trump/)
+[First Dem joins DOGE Caucus but his initial recommendation raises some eyebrows](https://americanwirenews.com/first-dem-joins-doge-caucus-but-his-initial-recommendation-has-some-worried/)
 
-[‘Black-ish’ star unleashes angry tirade against black, Latino men for voting Trump](https://americanwirenews.com/black-ish-star-unleashes-angry-tirade-against-black-latino-men-for-voting-trump/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-mcconnell-1200x630.jpg)](https://americanwirenews.com/mcconnell-blasts-partisan-democrat-judges-who-rescinded-retirement-plans-after-trumps-victory/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-ingraham-pardon-1200x630.jpg)](https://americanwirenews.com/would-trump-accept-a-hunter-like-everything-pardon-from-biden-can-joe-pardon-himself/)
+[McConnell blasts ‘partisan Democrat’ judges who rescinded retirement plans after Trump’s victory](https://americanwirenews.com/mcconnell-blasts-partisan-democrat-judges-who-rescinded-retirement-plans-after-trumps-victory/)
 
-[Would Trump accept a Hunter-like ‘everything’ pardon from Biden? Can Joe pardon himself?](https://americanwirenews.com/would-trump-accept-a-hunter-like-everything-pardon-from-biden-can-joe-pardon-himself/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-willis-1200x630.jpg)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-jill-whxmas-1200-x-628-1200x630.jpg)
-
-### Jill Biden unveils White House ‘clown show’ Christmas decor and the reviews are savage](https://americanwirenews.com/jill-biden-unveils-white-house-clown-show-christmas-decor-and-the-reviews-are-savage/)
+### Trump prosecutor Fani Willis loses again as Georgia’s longest running trial ends with acquittals](https://americanwirenews.com/trump-prosecutor-fani-willis-loses-again-as-georgias-longest-running-trial-ends-with-acquittals/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -80,55 +78,23 @@ Search for:
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-willis-220x180.jpg)](https://americanwirenews.com/trump-prosecutor-fani-willis-loses-again-as-georgias-longest-running-trial-ends-with-acquittals/)
-
-[Trump prosecutor Fani Willis loses again as Georgia’s longest running trial ends with acquittals](https://americanwirenews.com/trump-prosecutor-fani-willis-loses-again-as-georgias-longest-running-trial-ends-with-acquittals/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-moskowitz-220x180.jpg)](https://americanwirenews.com/first-dem-joins-doge-caucus-but-his-initial-recommendation-has-some-worried/)
-
-[First Dem joins DOGE Caucus but his initial recommendation raises some eyebrows](https://americanwirenews.com/first-dem-joins-doge-caucus-but-his-initial-recommendation-has-some-worried/)
-
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-tarlov-watters-220x180.jpg)](https://americanwirenews.com/watters-and-tarlov-lock-horns-over-kash-patel-nom-oh-i-see-how-were-going-to-do-this/)
 
 [Watters and Tarlov lock horns over Kash Patel nom: ‘Oh, I see how we’re going to do this!’](https://americanwirenews.com/watters-and-tarlov-lock-horns-over-kash-patel-nom-oh-i-see-how-were-going-to-do-this/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-jennings-mcgowan-220x180.jpg)](https://americanwirenews.com/scott-jennings-reaction-to-cnn-panelists-psychotic-excuse-for-hunter-pardon-is-everything/)
-
-[Scott Jennings’ reaction to CNN panelist’s ‘psychotic’ excuse for Hunter pardon is PRICELESS](https://americanwirenews.com/scott-jennings-reaction-to-cnn-panelists-psychotic-excuse-for-hunter-pardon-is-everything/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-pete-hegseth-confronted-by-reporter-220x180.jpg)](https://americanwirenews.com/one-of-the-bros-critics-scoff-at-medias-weak-allegations-against-pete-hegseth-for-hard-partying-past/)
 
 [‘One of the bros’: Critics scoff at media’s weak allegations against Pete Hegseth for hard-partying past](https://americanwirenews.com/one-of-the-bros-critics-scoff-at-medias-weak-allegations-against-pete-hegseth-for-hard-partying-past/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-lee-1-220x180.jpg)](https://americanwirenews.com/buckle-up-mike-lee-exposes-governments-ponzi-scheme-social-security-grift-in-damning-thread/)
-
-[‘Buckle up!’ Mike Lee exposes government’s ‘Ponzi scheme’ Social Security grift in damning thread](https://americanwirenews.com/buckle-up-mike-lee-exposes-governments-ponzi-scheme-social-security-grift-in-damning-thread/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-mcconnell-220x180.jpg)](https://americanwirenews.com/mcconnell-blasts-partisan-democrat-judges-who-rescinded-retirement-plans-after-trumps-victory/)
-
-[McConnell blasts ‘partisan Democrat’ judges who rescinded retirement plans after Trump’s victory](https://americanwirenews.com/mcconnell-blasts-partisan-democrat-judges-who-rescinded-retirement-plans-after-trumps-victory/)
-
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-olbermann-220x180.jpg)](https://americanwirenews.com/olbermann-savages-former-msnbc-colleague-maddow-over-25-million-deal/)
 
 [Olbermann savages former MSNBC colleague Maddow over $25 million deal](https://americanwirenews.com/olbermann-savages-former-msnbc-colleague-maddow-over-25-million-deal/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2023/09/SG-MorningJoeOldBiden-1200-x-628-220x180.jpg)](https://americanwirenews.com/cruz-mocks-morning-joe-over-mar-a-lago-visit-kissed-a-little-lower-than-the-ring/)
-
-[Cruz mocks ‘Morning Joe’ over Mar-a-Lago visit: ‘Kissed a little lower than’ the ring](https://americanwirenews.com/cruz-mocks-morning-joe-over-mar-a-lago-visit-kissed-a-little-lower-than-the-ring/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/gettyimages-1816272853-1-220x180.jpg)](https://americanwirenews.com/village-people-singer-defends-trumps-use-of-ymca-and-debunks-gay-anthem-rumors/)
 
 [Village People singer defends Trump’s use of ‘YMCA’ and debunks ‘gay anthem’ rumors](https://americanwirenews.com/village-people-singer-defends-trumps-use-of-ymca-and-debunks-gay-anthem-rumors/)
 
 (Photo by Tommaso Boddi/Getty Images for Associated Television International)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/rf-pexels-laboratory-220x180.jpg)](https://americanwirenews.com/extensive-house-report-concludes-what-covid-protocol-critics-suspected-all-along/)
-
-[Extensive House report concludes what COVID protocol critics suspected all along](https://americanwirenews.com/extensive-house-report-concludes-what-covid-protocol-critics-suspected-all-along/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-nypd-220x180.jpg)](https://americanwirenews.com/over-1000-suspected-illegal-alien-gang-members-receiving-big-perks-from-taxpayers-in-nyc-report/)
-
-[Over 1,000 suspected illegal alien gang members receiving big perks from taxpayers in NYC: report](https://americanwirenews.com/over-1000-suspected-illegal-alien-gang-members-receiving-big-perks-from-taxpayers-in-nyc-report/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2022/05/SG-Meghan-McCain-220x180.jpg)](https://americanwirenews.com/meghan-mccains-nepo-baby-diss-of-hunter-boomerangs-bigly/)
 
@@ -166,6 +132,44 @@ Image via University of Minnesota
 
 [Man’s QR code shirt delights X users: ‘The new Rick Roll!’](https://americanwirenews.com/mans-qr-code-shirt-delights-x-users-the-new-rick-roll/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-ingraham-pardon-220x180.jpg)](https://americanwirenews.com/would-trump-accept-a-hunter-like-everything-pardon-from-biden-can-joe-pardon-himself/)
+
+[Would Trump accept a Hunter-like ‘everything’ pardon from Biden? Can Joe pardon himself?](https://americanwirenews.com/would-trump-accept-a-hunter-like-everything-pardon-from-biden-can-joe-pardon-himself/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-jenifer-lewis-220x180.jpg)](https://americanwirenews.com/black-ish-star-unleashes-angry-tirade-against-black-latino-men-for-voting-trump/)
+
+[‘Black-ish’ star unleashes angry tirade against black, Latino men for voting Trump](https://americanwirenews.com/black-ish-star-unleashes-angry-tirade-against-black-latino-men-for-voting-trump/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-ctu-1200-x-628-220x180.jpg)](https://americanwirenews.com/chicago-teachers-union-triggered-when-paper-slams-them-for-not-showing-up-to-class/)
+
+[Chicago teachers union triggered when paper slams them for not showing up to class](https://americanwirenews.com/chicago-teachers-union-triggered-when-paper-slams-them-for-not-showing-up-to-class/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-bill-maher-220x180.png)](https://americanwirenews.com/trump-broke-him-bill-maher-says-he-may-quit-his-show/)
+
+[Trump broke him: Bill Maher says he may ‘quit’ his show](https://americanwirenews.com/trump-broke-him-bill-maher-says-he-may-quit-his-show/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-brzezinski-maddow-scarborugh-220x180.jpg)](https://americanwirenews.com/civil-war-reportedly-erupts-at-msnbc-after-joe-and-mikas-visit-to-mar-a-lago/)
+
+[Civil war reportedly erupts at MSNBC after Joe and Mika’s visit to Mar-a-Lago](https://americanwirenews.com/civil-war-reportedly-erupts-at-msnbc-after-joe-and-mikas-visit-to-mar-a-lago/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/rf-trudeau-trump-220x180.jpeg)](https://americanwirenews.com/trump-tells-trudeau-canada-could-become-51st-state-after-the-pm-complained-about-his-tariffs/)
+
+[Trump tells Trudeau Canada could become 51st state after the PM complained about his tariffs](https://americanwirenews.com/trump-tells-trudeau-canada-could-become-51st-state-after-the-pm-complained-about-his-tariffs/)
+
+(Official White House Photo by Shealah Craighead)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-huntercbs1-1200-x-628-220x180.jpg)](https://americanwirenews.com/special-counsel-balks-at-dropping-hunter-biden-indictments-after-joes-pardon/)
+
+[Special counsel balks at dropping Hunter Biden indictments after Joe’s pardon](https://americanwirenews.com/special-counsel-balks-at-dropping-hunter-biden-indictments-after-joes-pardon/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/canton-pd-ferrell-220x180.jpg)](https://americanwirenews.com/ohio-woman-sentenced-to-prison-for-killing-and-eating-a-cat/)
+
+[Ohio woman sentenced to prison after savage video of her killing and eating a cat](https://americanwirenews.com/ohio-woman-sentenced-to-prison-for-killing-and-eating-a-cat/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-jill-whxmas-1200-x-628-220x180.jpg)](https://americanwirenews.com/jill-biden-unveils-white-house-clown-show-christmas-decor-and-the-reviews-are-savage/)
+
+[Jill Biden unveils White House ‘clown show’ Christmas decor and the reviews are savage](https://americanwirenews.com/jill-biden-unveils-white-house-clown-show-christmas-decor-and-the-reviews-are-savage/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-jeanpierre-220x180.jpg)](https://americanwirenews.com/kjp-peppered-with-questions-about-reasons-behind-hunter-bidens-blanket-pardon/)
 
 [KJP peppered with questions about reasons behind Hunter Biden’s blanket pardon](https://americanwirenews.com/kjp-peppered-with-questions-about-reasons-behind-hunter-bidens-blanket-pardon/)
@@ -177,10 +181,6 @@ Image via University of Minnesota
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-blumenthal-warren-220x180.jpg)](https://americanwirenews.com/dem-senators-urge-lame-duck-biden-to-limit-trumps-authority-over-us-military/)
 
 [Dem senators urge lame-duck Biden to limit Trump’s authority over US military](https://americanwirenews.com/dem-senators-urge-lame-duck-biden-to-limit-trumps-authority-over-us-military/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/05/sg-hunter-220x180.jpg)](https://americanwirenews.com/absolute-sht-bag-hunter-biden-allegedly-owes-ca-family-300k-in-back-rent/)
-
-[‘Absolute sh\*t bag’: Hunter Biden allegedly owes CA family $300K in back rent](https://americanwirenews.com/absolute-sht-bag-hunter-biden-allegedly-owes-ca-family-300k-in-back-rent/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
