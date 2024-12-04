@@ -1,4 +1,4 @@
- [![](/_nuxt/image/38799b.svg) AI-driven DevSecOps.](https://about.gitlab.com/partners/technology-partners/aws/)
+ [![](/_nuxt/image/38799b.svg) AI-driven DevSecOps.](https://about.gitlab.com/partners/technology-partners/aws/#interest)
 
 GitLab Privacy Statement
 ========================
