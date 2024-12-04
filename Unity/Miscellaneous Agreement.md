@@ -4,16 +4,16 @@
 
 Asset Store Provider Agreement
 
-Last updated: February 27, 2024.
+**Last updated**: December 4, 2024
 
-What’s changed: We have made updates to our Asset Store Provider Agreement. Notably, we have clarified our content restrictions (Section 5.10.2) to comply with the Digital Services Act. We encourage you to review the updated Agreement in detail. The previous version of the Software Terms can be found [here](https://unity.com/legal/provider-legacy).
+**What’s changed:** We clarified the prohibitions on using the Unity Asset Store for training AI or machine learning models to better protect your assets. These clarifications also include other updates and references to our submission guidelines. Additionally, we have clarified our Asset Store Provider Agreement to align payout processing with the rest of our business. To ensure regulatory compliance, we clarified the recorded holder of funds at each stage of the transaction. This clarification will not affect your payout percentage or schedule. Please review the full text of the updated Asset Store Provider Agreement. You can view the prior version of our Asset Store Provider Agreement [here](https://unity.com/legal/provider-legacy).
 
 1\. Background
 --------------
 
 ### 1.1
 
-The Unity Asset Store is a publicly available site on which Providers can effect the distribution of Assets licensed by them to Customers.
+The Unity Asset Store is a publicly available site through which Providers can distribute Assets licensed by them to Customers.
 
 ### 1.2
 
@@ -23,8 +23,8 @@ This Agreement regulates the legal relationship between Provider as a content cr
 
 The purpose of the Agreement is to establish the legal framework for the Provider’s distribution of their Assets via Unity's online and in-editor asset store service.
 
-2\. Definitions & Interpretation
---------------------------------
+2\. Definitions
+---------------
 
 ### 2.1
 
@@ -62,6 +62,10 @@ The Asset Store End User License Agreement—i.e., Appendix 1 of the [Asset Sto
 
 The minimum price that may be set for a license to a Provider Asset, as indicated by Unity at the Dashboard.
 
+**“Net Revenue”**
+
+In connection with the Unity Asset Store for Providers, amounts due and owing to Unity from Customers attributable to distribution of Assets, less any of the following (“Deductions”): (i) any commissions, incentives, or fees due to, or revenue share to third parties related to the Assets; (ii) refunds to Customers; (iii) payment processing, administrative surcharges, network fees and expenses, transaction or similar fees; (iv) adjustments, chargebacks and bad debt; and (v) taxes (other than taxes payable on Unity net income).
+
 **"Provider"**
 
 Any person, company or other legal entity who has accepted this Agreement by clicking and who is registered and approved by the Unity Asset Store to distribute Assets in accordance with the terms of this Agreement.
@@ -97,10 +101,6 @@ Unity Technologies SF, (C3183233) 30 Third Street, San Francisco, CA 94103, Unit
 
 The Unity Asset Store site operated by Unity.
 
-### 2.2
-
-Consistent with the [EULA](https://unity.com/legal/as_terms), Assets are licensed and not sold. In this Agreement, any references to prices for Assets or the sale/acquisition of Assets are for purposes of convenience only; in all cases this means prices for licenses to Assets or the sale/acquisition of those licenses.
-
 3\. Accepting this Agreement
 ----------------------------
 
@@ -114,7 +114,11 @@ Any person who enters into this Agreement on behalf of Provider represents and w
 
 ### 3.3
 
-Provider expressly accepts and agrees that Unity shall be entitled to forward Provider's name, address and other contact details to any third Party that reasonably claims that Provider does not have all necessary intellectual property rights, including all necessary patent, trademark, trade secret, copyright or other proprietary rights, in and to Provider's Assets. Provider also agrees that the handling of personal data in relationship to the distribution of its assets on the Unity Asset Store is governed by the Controller-Controller Asset Store Addendum found [here](https://unity.com/legal/Controller_DPA_Asset_Store).
+Provider expressly accepts and agrees that Unity shall be entitled to forward Provider's name, address and other contact details to any third Party that reasonably claims that Provider does not have all necessary intellectual property rights, including all necessary patent, trademark, trade secret, copyright or other proprietary rights, in and to Provider's Assets. Provider also agrees that the handling of personal data in relation to the distribution of its assets on the Unity Asset Store is governed by the Data Processing Addendum found [here](https://unity.com/legal/Controller_DPA_Asset_Store).
+
+### 3.4
+
+Provider understands and agrees that it is solely responsible to Unity and to end users for ensuring that its Assets and, if accepted, the distribution of its Assets on the Asset Store remain in compliance with the [Asset Store Provider Agreement](https://unity.com/legal/provider), the [Unity Copyright Policy](https://unity.com/legal/ip-policy-takedown-requests), the [Guidelines for Using Unity Trademarks](https://unity.com/legal/branding-trademarks), and applicable law.
 
 4\. Pricing and Payments
 ------------------------
@@ -125,17 +129,19 @@ This Agreement covers both licenses for Assets that Provider chooses to distribu
 
 ### 4.2
 
-Provider may set the price for licenses to Provider's Assets in US Dollars (USD), so long as the price is not lower than the Floor Price, and subject to Promotion Discounting. The Unity Asset Store may display to Customers the price of Provider's Assets in USD or other currencies that Unity may consider expedient. Unity may choose to set different prices in other currencies, and shall not be responsible for the accuracy of the prices set, or for currency and conversion rates.
+Provider may set the price for licenses to Provider's Assets in US Dollars (USD), so long as the price is not lower than the Floor Price, and subject to Promotion Discounting. The Unity Asset Store may display to Customers the price of Provider's Assets in USD or other currencies that Unity may consider expedient. Unity may choose to set different prices in other currencies, and shall not be responsible for the accuracy of the prices set, or for currency and conversion rates. Consistent with the [EULA](https://unity.com/legal/as_terms), Assets are licensed and not sold. In this Agreement, any references to prices for Assets or the sale/acquisition of Assets are for purposes of convenience only; in all cases this means prices for licenses to Assets or the sale/acquisition of those licenses.
 
 ### 4.3
 
-The prices set under Section 4.2 will determine the amount of payment that Provider will receive. 70 (seventy) percent of the sales price (less any refunds, bank fees related to the transfer to the Provider and less any Taxes) will be remitted by Unity to the Provider; the remaining 30 (thirty) percent will be allotted to and retained by Unity. Without limitation of the foregoing, where a refund is provided by Unity on Provider’s behalf under this Agreement, Unity may deduct and withhold Provider portion of such refund amount from any current Provider balance. Licenses to Provider Assets may be offered via the Unity Asset Store with licenses to other (non-Provider) Assets; in such event, Provider will receive its payment pro rata. The foregoing percentages shall not apply to applicable Program Funds, 100 (one hundred) percent of which shall be remitted to Provider, less any applicable bank fees or Taxes related to the transfer to Provider.
+The prices set under Section 4.2 will determine the amount of payment that Provider will receive. In connection with your use of the Unity Asset Store, you acknowledge and agree that all Net Revenue attributable to the sale of Provider Assets belong to Unity, and that Unity will pay you seventy (70) percent of the sales price (less any refunds, bank fees related to the transfer to you, and any applicable taxes) in accordance with these terms. Without limitation of the foregoing, if a customer refund is provided by Unity on your behalf under this Agreement, Unity may deduct and withhold your portion of such refund amount from any current balance. Licenses to your Assets may be offered alongside licenses to other (non-Provider) Assets; in such event, you will receive your payment on a pro rata basis. The aforementioned percentages shall not apply to applicable Program Funds, one hundred (100) percent of Net Revenue which shall be remitted to you, less any applicable bank fees or Taxes related to the transfer. Certain assets or applications might be subject to different payment terms, which will be communicated to you based on our internal analysis and discretion.
 
-**4.3.1** PayPal Accounts Paid Monthly. The parties agree that any balance in favor of Provider will be calculated by Unity and made available to Provider via a web page. Unity will use reasonable efforts to pay Provider the applicable balance on a monthly basis as long as Provider provides and maintains a valid PayPal account.
+**4.3.1** Unity’s agreement to pay a percentage of its Net Revenue to you is conditioned upon you providing Unity complete and accurate information relating to remittance of payment and requested tax information, and subject to adjustments for deductions that may accrue. Unity reserves the right to take any Deductions based on a flat rate imposed across the Unity network or actuals. If payments made to you are not received due to the failure to provide accurate information, failure to cash a check, or otherwise, Unity has no ongoing obligation to hold such funds for you and, after a reasonable time as determined by Unity in its discretion, the funds will continue to be considered property of Unity.
 
-**4.3.2** Check or Wire Payments Paid Quarterly. If Provider fails to provide a valid PayPal account, Unity will pay balances above USD 250 to Provider on a quarterly basis by check or wire payment, less applicable bank fees. However, any such account balance of less than 250 USD in favor in of Providerat the end of a calendar quarter will not be paid. Instead, such balance below 250 USD will be carried forward to the following calendar quarter. In the event that the balance for a period of eight consecutive calendar quarters remains below 250 USD, then Unity will pay such balance to Provider, less any bank fees related to the transfer to the Provider. The current applicable bank fees for check or wire payments are set forth in the Asset Store.
+**4.3.2** Net Revenue and payment calculations will be based on Unity’s measurements, which will be the system of record for calculating such sums. The Net Revenue share percentage applicable to you may be varied from time to time in Unity’s discretion.
 
-**4.3.3** Notwithstanding anything else herein, if Provider is an individual and resident in Denmark, provision to Unity of Provider's tax identification number registered with the Danish Central Business Register ("CVR Number") shall be a condition precedent to any payment obligation of Unity's under this Agreement; for greater certainty, (a) unless and until Unity is provided with the Provider's CVR Number, Unity is under no obligation to make any payment to the Provider; and (b) upon being provided with the CVR Number, accrued amounts will become payable hereunder, but no interest will be payable on those amounts.
+**4.3.3** PayPal Accounts Paid Monthly. The parties agree that any balance in favor of Provider will be calculated by Unity and made available to Provider via a web page. Unity will use reasonable efforts to pay Provider the applicable balance on a monthly basis as long as Provider provides and maintains a valid PayPal account.
+
+**4.3.4** Wire Payments Paid Quarterly. If Provider fails to provide a valid PayPal account, Unity will pay balances of Net Revenue above USD 250 to Provider on a quarterly basis by wire payment, less applicable bank fees. However, any such account balance of less than 250 USD in favor of Provider at the end of a calendar quarter will not be paid. Instead, such balances below 250 USD will be carried forward to the following calendar quarter.
 
 ### 4.4
 
@@ -145,11 +151,11 @@ The prices set under Section 4.2 will determine the amount of payment that Provi
 
 **4.4.3** Provider agrees that Unity may, at its option and in its sole discretion, provide means for collection and/or payment under sub-paragraph (a) of Section 4.4.1, in whole or in part, on behalf of Provider. For greater certainty, however, Provider agrees that Unity shall not have or accept any liability for taking any such action; further Unity taking any such action shall not relieve Provider of its obligations under Section 4.4, and Provider shall at all times be liable for performance of such obligations.
 
-4.4.4 If a Customer chooses to contribute Program Funds but Provider has not provided Unity with sufficient Payment Processor information to process Program Funds, Unity may contribute the Program Funds to a charitable organization of its choice. (For clarity, the terms “donation,” “charitable organization,” and “contribution” are informational only and not intended as tax or legal advice. Program Funds are taxable and Provider will not be entitled to any tax deduction in connection with the Program.)
+**4.4.4** If a Customer chooses to contribute Program Funds but Provider has not provided Unity with sufficient Payment Processor information to process Program Funds, Unity may contribute the Program Funds to a charitable organization of its choice. (For clarity, the terms “donation,” “charitable organization,” and “contribution” are informational only and not intended as tax or legal advice. Program Funds are taxable and Provider will not be entitled to any tax deduction in connection with the Program.)
 
 ### 4.5
 
-Provider may also choose to distribute Assets for free. If the Asset is free, Unity shall not be entitled to receive the 30 (thirty) per cent listed in Section 4.3 above. Provider may not in the future collect charges from Customers for copies of the Assets that those Customers previously downloaded for free. Providers distributing Assets for free are still entitled to join any Support the Creator-Program by setting up a Payment Processor account as set forth in this Section 4.
+Provider may also choose to distribute Assets for free. If the Asset is free, there shall be no Net Revenue. Provider may not in the future collect charges from Customers for copies of the Assets that those Customers previously downloaded for free. Providers distributing Assets for free are still entitled to join any Support the Creator-Program by setting up a Payment Processor account as set forth in this Section 4.
 
 ### 4.6
 
@@ -204,7 +210,7 @@ Except for the license rights granted by Provider in Section 6 below, Unity agre
 
 ### 5.2
 
-Provider agrees to use the Unity Asset Store only for purposes that are permitted by (a) this Agreement and (b) any applicable law, regulation or generally accepted practices or guidelines in the relevant jurisdictions (including any laws regarding the export of data or software to and from Denmark or other relevant countries).
+Provider agrees to use the Unity Asset Store only for purposes that are permitted by (a) this Agreement and (b) any applicable law, regulation or generally accepted practices or guidelines in the relevant jurisdictions (including any laws regarding the export of data or software to and from the United States of America or other relevant countries).
 
 ### 5.3
 
@@ -216,7 +222,11 @@ Prohibited Actions
 
 Provider agrees that Provider will not engage in any activity with the Unity Asset Store, including the development or distribution of Assets, that interferes with, disrupts, damages, or accesses in an unauthorized manner the devices, servers, networks, or other properties or services of any third party including, but not limited to Customers, Unity, payment providers or any network operator.
 
-**5.4.1** Provider may not use customer information that Provider has obtained from the Unity Asset Store or Customers acquired via the Asset Store to sell or distribute Assets outside of the Unity Asset Store.
+**5.4.1** Provider may not use the Unity Asset Store for purposes such as training an artificial intelligence or machine learning model without the express consent of Unity. This restriction includes the gathering, aggregation, extraction, scraping or any usage of the Unity Asset Store for dissemination, sale, or distribution, as well as using the Unity Asset Store for data sets, in the creation process, or as inputs for artificial intelligence or machine learning model programs, whether for commercial or non-commercial purposes.
+
+**5.4.2** Provider may not use customer information that Provider has obtained from the Unity Asset Store or Customers acquired via the Asset Store to sell or distribute Assets outside of the Unity Asset Store.
+
+5.4.3 Provider shall not distribute via the Asset Store any Asset, including a software development kit, that enables the delivery of services.
 
 ### 5.5
 
@@ -250,15 +260,9 @@ Marketing Provider's Assets
 
 ### 5.10
 
-Restricted Content
+Technical Compatibility
 
-**5.10.1** Provider shall not distribute via the Asset Store any Asset, including a software development kit, that enables the delivery of services.
-
-**5.10.2** Provider agrees that it will not upload, post or otherwise transmit via the Unity Asset Store any Asset or other content, which is inaccurate, harmful, obscene, pornographic, defamatory, racist, violent, offensive, harassing, or objectionable as determined by Unity in its sole discretion. In addition any Asset that Provider distributes on the Unity Asset Store must adhere to the Unity Asset Store Guidelines in force at any time, provided that in case of conflict between such Guidelines and this Agreement, this Agreement shall govern. While Unity does not undertake any legal obligation to monitor the Assets or their content, Unity reserves the right to do so, and if Unity is notified by Provider or otherwise becomes aware and determines in its sole discretion that an Asset or any portion thereof that Provider has uploaded to the Unity Asset Store does not adhere to the Unity Asset Store Guidelines in force at any time, then Unity shall be entitled to demand that Provider edits and makes such other changes in the Asset, including – but not limited to – changes in materials and descriptions that form part of the Asset, for example with a view to adapt the Asset to the design of the Unity Asset Store and to avoid any defects in relation to the design of the Unity Asset Store. Finally Unity shall itself be entitled to edit and make such changes in the Asset. In addition Assets may be withdrawn from the Unity Asset Store at any time without prior notice at Unity's sole discretion.
-
-**5.10.3** Provider represents and warrants that images and text that are intended to market the Assets that Provider has uploaded to Unity Asset Store are truthful, accurate and does not misrepresent the Asset, for example – without limitation – by way of screen shots that do not match the content of the Asset.
-
-**5.10.4** Provider represents and warrants that its Assets shall not contain (a) any software licensed under the GNU General Public License or GNU Library or Lesser General Public License, or any other license with terms that include a requirement to extend such license to any modification or combined work and provide for the distribution of the combined or modified product’s source code upon demand so that Customer content becomes subject to the terms of such license; or (b) any software that is a modification or derivative of any software licensed under the GNU General Public License or Library or Lesser Public License, or any other license with terms similar thereto so that Customer content become subject to the terms of such license.
+**5.10.1** Unity reserves the right to review all submissions, including, but not limited to, Assets for their technical compatibility. In the event that these submissions fail to meet the technical compatibility criteria, Unity reserves the right to undertake measures such as, but not limited to, rejection, modification, requesting alterations, or removal of such submissions on the grounds of insufficient technical compatibility. Technical compatibility criteria can be found in the [Submission Guidelines](https://assetstore.unity.com/publishing/submission-guidelines). In case of conflict between such Guidelines and this Agreement, this Agreement shall govern.
 
 6\. License Grants
 ------------------
@@ -271,7 +275,7 @@ Provider grants to Unity a nonexclusive, worldwide, and royalty-free license to:
 
 Provider grants to Unity a non-exclusive license to distribute the Assets from the Unity Asset Store, including authority for Unity to conclude the sale of Assets to Customers on Provider’s behalf. Except as set out in Section 4.2 of this Agreement, this license is royalty-free.
 
-6.3
+### 6.3
 
 Unity may use consultants and other contractors in connection with the performance of obligations and exercise of rights under this Agreement, provided that such consultants and contractors will be subject to the same obligations as Unity. After termination of this Agreement, Unity will not distribute Provider's Assets to Customers that have not previously licensed Provider’s Assets, but may retain and use copies of the Assets in order for Unity to be able to fulfill any obligations towards Customers that will survive the removal of an Asset from the Unity Asset Store (for example reinstalls under Section 4.8).
 
