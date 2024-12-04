@@ -1,4 +1,4 @@
-[Black Friday Sale now on! Save 25% sitewide!](https://support.jukeboxprint.com/en/articles/10197785-black-friday-sale)
+[Save 15% on our hottest products all month!](https://support.jukeboxprint.com/en/articles/10228343-december-2024-sales)
 
 [![Jukebox Print](https://storage.jukeboxprint.com/s/images/jukebox-logo.svg)![Jukebox Loves Pride!](data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=)](https://www.jukeboxprint.com/)
 
