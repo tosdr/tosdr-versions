@@ -3,6 +3,7 @@
 * [Blandat](https://spinonline.se/blandat)
 * [Foto/Film](https://spinonline.se/foto-film)
 * [Start](https://spinonline.se/index.html)
+* [Städ](https://spinonline.se/stad)
 
 Strukturerad fakta för alla
 ===========================
