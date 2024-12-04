@@ -1,4 +1,4 @@
-Privacy | Know Your Meme                                                            
+Privacy | Know Your Meme                                                          
 
 |     |     |
 | --- | --- |
