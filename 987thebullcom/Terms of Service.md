@@ -212,11 +212,11 @@ Recently Played
 
 |     |
 | --- |
-| I'M Gonna Love YouCody Johnson Ft Carrie Underwood<br><br>10:40pm |
-| World On FireNate Smith<br><br>10:37pm |
-| Pink SkiesZach Bryan<br><br>10:34pm |
-| A Bar Song (Tipsy)Shaboozey<br><br>10:22pm |
-| I Never LieZach Top<br><br>10:19pm |
+| In Case You Didn'T KnowBrett Young<br><br>4:40am |
+| Whatcha See Is Whatcha GetChris Janson<br><br>4:37am |
+| A Lot More FreeMax Mcnown<br><br>4:34am |
+| To Be Loved By YouParker Mccollum<br><br>4:31am |
+| Forever To MeCole Swindell<br><br>4:28am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -364,17 +364,17 @@ Featured Brands
 
 Top 40 • Eastern
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
-
-Country • Western
-
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
-
-Top 40 • Pacific NW
-
 [![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
 Spanish • Western
+
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+
+News Talk • Eastern
+
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+
+Sports • Midwest
 
 [](https://www.alphamediausa.com/)
 
