@@ -153,7 +153,7 @@
         
         PowerTags x3](https://www.codejunkies.com/Products/x-3-Amiibo-Powertags__EF001254.aspx)
         
-* [PS4](https://www.codejunkies.com/Departments/PS4.aspx)
+* [Playstation](https://www.codejunkies.com/Departments/Playstation.aspx)
     * [![](/BVModules/Themes/Codejunkies/images/Menu/EF001241V.png)
         
         Evo Hub](https://www.codejunkies.com/Products/Evo-Hub__EF001241V.aspx)
@@ -197,6 +197,8 @@
 
 * [](https://www.codejunkies.com/MyAccount_Orders.aspx)
 * [](https://www.codejunkies.com/cart.aspx)
+
+Product Search
 
 Customer Service
 ================
