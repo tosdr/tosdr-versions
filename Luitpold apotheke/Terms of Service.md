@@ -335,25 +335,26 @@ Mo-Fr 8:00 - 17:00
 
 Klick des Tages
 
-[MINOXIDIL DoppelherzPharma Männer 50 mg/g Schaum 3x60g](https://www.medikamente-per-klick.de/product?artnr=18754768&simpleContentAttachmentId=14183&wochenklick)**  
-Sonderangebot**  
-[![Sonderangebot](/images/products/medikamenteperklick/mittel/18754768_m.jpg "Sonderangebot")](https://www.medikamente-per-klick.de/product?artnr=18754768&simpleContentAttachmentId=14183&wochenklick)
+[VOLTAREN Actigo Schmerzgel 11,6 mg/g 100g](https://www.medikamente-per-klick.de/product?artnr=19298462&simpleContentAttachmentId=14183&wochenklick)**  
+Jetzt 10% extra sparen mit Gutschein Code: Voltaren10  
+**Sonderangebot  
+[![Sonderangebot](/images/products/medikamenteperklick/mittel/19298462_m.jpg "Sonderangebot")](https://www.medikamente-per-klick.de/product?artnr=19298462&simpleContentAttachmentId=14183&wochenklick)
 
-UVP2:
+VK1:
 
-62,95 €\*
+15,07 €\*
 
 Ihr Preis:
 
-42,13 €\*
+9,51 €\*
 
 Sie sparen:
 
-20,82 € \-33%
+5,56 € \-37%
 
-2024-12-04 10:00:00
+2024-12-11 19:00:00
 
-[Jetzt sichern](https://www.medikamente-per-klick.de/quickAddProductsToCart?pzn=18754768&quantity=1&simpleContentAttachmentId=14183&Wochenklick)
+[Jetzt sichern](https://www.medikamente-per-klick.de/quickAddProductsToCart?pzn=19298462&quantity=1&simpleContentAttachmentId=14183&Wochenklick)
 
 layoutStyle2
 
@@ -651,4 +652,4 @@ Haben Sie bitte auch dafür Verständnis, dass wir aus Datenschutzgründen Ausk�
 
 ![](https://www.facebook.com/tr?id=338982736604254&ev=PageView&noscript=1)
 
-![](https://c.paypal.com/v1/r/d/b/ns?f=zcodwwbeqzccpbuoyavhodkukdedvmrq&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
+![](https://c.paypal.com/v1/r/d/b/ns?f=xrgrwvwmufbmksrfemcmmupixxxdjyjy&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
